@@ -1,5 +1,4 @@
-是由[ALICESOFT製作並於](../Page/ALICESOFT.md "wikilink")1999年11月18日發售的[養成類型](https://zh.wikipedia.org/wiki/養成 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，後來改編成OVA由blue
-eyes發售。\[2\]
+是由[ALICESOFT](../Page/ALICESOFT.md "wikilink")製作並於1999年11月18日發售的[養成類型](https://zh.wikipedia.org/wiki/養成 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，後來改編成OVA由blue eyes發售。\[2\]
 
 ## 故事
 
@@ -26,8 +25,7 @@ eyes發售。\[2\]
 
 ## OVA
 
-同名OVA是由blue
-eyes於發售的成人動畫共兩集，2006年5月26日發售合集版\[3\]，後來改由セブンエイト於2010年5月28日發售完全版。\[4\]
+同名OVA是由blue eyes於發售的成人動畫共兩集，2006年5月26日發售合集版\[3\]，後來改由セブンエイト於2010年5月28日發售完全版。\[4\]
 
   - 集數列表
 
@@ -56,11 +54,7 @@ eyes於發售的成人動畫共兩集，2006年5月26日發售合集版\[3\]，�
 
   - [官方網站](https://web.archive.org/web/20100626011216/http://www.alicesoft.com/soft/darc/index.html)ALICESOFT（鎖區）
 
-[Category:1999年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:1999年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:養成遊戲](https://zh.wikipedia.org/wiki/Category:養成遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:2003年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2003年日本成人動畫 "wikilink")
+[Category:1999年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:1999年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:養成遊戲](https://zh.wikipedia.org/wiki/Category:養成遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:2003年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2003年日本成人動畫 "wikilink")
 
 1.
 2.

@@ -1,7 +1,6 @@
-**1999年Oricon單曲週榜冠軍作品列表**列出1999年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+**1999年Oricon單曲週榜冠軍作品列表**列出1999年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
-全年度共有35首冠軍單曲誕生，其中[坂本龍一的](../Page/坂本龍一.md "wikilink")《energy
-flow》（《ウラBTTB》）取得冠軍的週數最多（4週）。
+全年度共有35首冠軍單曲誕生，其中[坂本龍一](../Page/坂本龍一.md "wikilink")的《energy flow》（《ウラBTTB》）取得冠軍的週數最多（4週）。
 
 ## 冠軍單曲列表
 
@@ -372,5 +371,4 @@ flow》（《ウラBTTB》）取得冠軍的週數最多（4週）。
 
   - [1999年每週公信榜統計數據](https://web.archive.org/web/20151112212832/http://www.musictvprogram.com/oricon1999.html)
 
-[Category:1999年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1999年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
+[Category:1999年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1999年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")

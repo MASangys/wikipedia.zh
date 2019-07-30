@@ -1,4 +1,4 @@
-《**Be-Bop-Highschool**》（）是日本的[青春片](../Page/青春片.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，於1985年由日本[東映公司發行](../Page/東映.md "wikilink")。
+《**Be-Bop-Highschool**》（）是日本的[青春片](../Page/青春片.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，於1985年由日本[東映](../Page/東映.md "wikilink")公司發行。
 
 本片上映後深受年輕人歡迎，最終票房為14億5000萬日圓，成為1986年度日本電影票房第2位。\[1\]鑑於本片當時在日本受歡迎的程度，東映公司其後在1986年至1988年間拍攝了5部續集。
 
@@ -135,17 +135,7 @@
 ## 外部連結
 
   -
-[Category:1985年電影](https://zh.wikipedia.org/wiki/Category:1985年電影 "wikilink")
-[Category:東映電影](https://zh.wikipedia.org/wiki/Category:東映電影 "wikilink")
-[Category:日本青春電影](https://zh.wikipedia.org/wiki/Category:日本青春電影 "wikilink")
-[Category:日本漫畫改編電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編電影 "wikilink")
-[Category:日本漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編真人電影 "wikilink")
-[Category:中學背景電影](https://zh.wikipedia.org/wiki/Category:中學背景電影 "wikilink")
-[Category:高中背景電影](https://zh.wikipedia.org/wiki/Category:高中背景電影 "wikilink")
-[Category:日本校園電影](https://zh.wikipedia.org/wiki/Category:日本校園電影 "wikilink")
-[Category:日本喜劇片](https://zh.wikipedia.org/wiki/Category:日本喜劇片 "wikilink")
-[Category:1980年代劇情片](https://zh.wikipedia.org/wiki/Category:1980年代劇情片 "wikilink")
-[Category:日本劇情片](https://zh.wikipedia.org/wiki/Category:日本劇情片 "wikilink")
+[Category:1985年電影](https://zh.wikipedia.org/wiki/Category:1985年電影 "wikilink") [Category:東映電影](https://zh.wikipedia.org/wiki/Category:東映電影 "wikilink") [Category:日本青春電影](https://zh.wikipedia.org/wiki/Category:日本青春電影 "wikilink") [Category:日本漫畫改編電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編電影 "wikilink") [Category:日本漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編真人電影 "wikilink") [Category:中學背景電影](https://zh.wikipedia.org/wiki/Category:中學背景電影 "wikilink") [Category:高中背景電影](https://zh.wikipedia.org/wiki/Category:高中背景電影 "wikilink") [Category:日本校園電影](https://zh.wikipedia.org/wiki/Category:日本校園電影 "wikilink") [Category:日本喜劇片](https://zh.wikipedia.org/wiki/Category:日本喜劇片 "wikilink") [Category:1980年代劇情片](https://zh.wikipedia.org/wiki/Category:1980年代劇情片 "wikilink") [Category:日本劇情片](https://zh.wikipedia.org/wiki/Category:日本劇情片 "wikilink")
 
 1.  [1](http://www.eiren.org/toukei/1986.html)
 2.  [第10屆日本電影金像獎入圍及得獎名單](http://www.japan-academy-prize.jp/prizes/?t=10)

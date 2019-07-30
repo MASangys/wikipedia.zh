@@ -1,4 +1,4 @@
-《**Kara媒体作品列表**》主要列举[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女子音乐组合](../Page/女子音乐组合.md "wikilink")[Kara历年参与各类电视节目](../Page/Kara.md "wikilink")、固定节目及电视剧。
+《**Kara媒体作品列表**》主要列举[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女子音乐组合](../Page/女子音乐组合.md "wikilink")[Kara](../Page/Kara.md "wikilink")历年参与各类电视节目、固定节目及电视剧。
 
 ## 影視作品
 
@@ -214,19 +214,29 @@ Melly<br />
 <td><p>妮可</p></td>
 </tr>
 <tr class="even">
+<td><p>2009年11月21日</p></td>
+<td><p>明星金鐘</p></td>
+<td><p>奎利、荷拉、知英</p></td>
+</tr>
+<tr class="odd">
 <td><p>2009年11月25日</p></td>
 <td><p>Kara bakery</p></td>
 <td><p>Kara全體</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2010年1月17日</p></td>
 <td><p>家族誕生</p></td>
 <td><p>妮可</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2010年1月24日</p></td>
 <td><p>家族誕生</p></td>
 <td><p>妮可、昇延、知英</p></td>
+</tr>
+<tr class="even">
+<td><p>2010年3月19日</p></td>
+<td><p>至親筆記</p></td>
+<td><p>昇延、荷拉</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年3月20日</p></td>
@@ -289,78 +299,88 @@ Melly<br />
 <td><p>知英、奎利</p></td>
 </tr>
 <tr class="odd">
+<td><p>2010年4月24日</p></td>
+<td><p><a href="../Page/演藝家中介.md" title="wikilink">演藝家中介</a> 游擊隊約會</p></td>
+<td><p>Kara全體</p></td>
+</tr>
+<tr class="even">
 <td><p>2010年10月31日</p></td>
 <td><p>挑戰千曲</p></td>
 <td><p>知英、奎利</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2010年10月31日</p></td>
 <td><p>夜行星</p></td>
 <td><p>奎利、昇延、荷拉、知英</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2010年11月3日</p></td>
 <td><p>魁!音楽番付~EIGHT</p></td>
 <td><p>Kara全體</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2010年11月10日</p></td>
 <td><p>NTV</p></td>
 <td><p>Kara全體</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2010年11月22日</p></td>
 <td><p>Star King</p></td>
 <td><p>奎利、昇延</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2010年11月24日</p></td>
 <td><p>TVTokyo Piramekiino</p></td>
 <td><p>Kara全體</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2010年12月6日</p></td>
 <td><p>Hey!Hey!Hey!</p></td>
 <td><p>Kara全體</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2010年12月7日</p></td>
 <td><p>TBS Ochanomizu hakase!</p></td>
 <td><p>Kara全體</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2010年12月28日</p></td>
 <td><p>改變世界的Quiz</p></td>
 <td><p>奎利</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2010年12月31日</p></td>
 <td><p>綜藝雜誌VIP</p></td>
 <td><p>奎利</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2011年1月22日</p></td>
 <td><p>百分滿分</p></td>
 <td><p>奎利</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2011年5月12日</p></td>
 <td><p>強心臟</p></td>
 <td><p>Kara全體</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2011年6月26日</p></td>
 <td><p>Running Man E49</p></td>
 <td><p>荷拉</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2011年7月28日－</p></td>
 <td><p>動物農場</p></td>
 <td><p>昇延</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2011年9月17日</p></td>
 <td><p>Happy Together3</p></td>
+<td><p>Kara全體</p></td>
+</tr>
+<tr class="odd">
+<td><p>2011年9月17日</p></td>
+<td><p><a href="../Page/演藝家中介.md" title="wikilink">演藝家中介</a> 游擊隊約會</p></td>
 <td><p>Kara全體</p></td>
 </tr>
 <tr class="even">
@@ -445,7 +465,7 @@ Melly<br />
 </tr>
 <tr class="even">
 <td><p>2012年9月1日</p></td>
-<td><p>游擊隊約會</p></td>
+<td><p><a href="../Page/演藝家中介.md" title="wikilink">演藝家中介</a> 游擊隊約會</p></td>
 <td><p>Kara全體</p></td>
 </tr>
 <tr class="odd">
@@ -516,7 +536,7 @@ Melly<br />
 <tr class="even">
 <td><p>2014年5月27日 - 7月1日</p></td>
 <td><p>《<a href="../Page/Baby_Kara.md" title="wikilink">KARA Project</a>》</p></td>
-<td><p>齡智 選拔成新<a href="../Page/Kara.md" title="wikilink">Kara成員的電視節目</a></p></td>
+<td><p>齡智 選拔成新<a href="../Page/Kara.md" title="wikilink">Kara</a>成員的電視節目</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年8月18日</p></td>
@@ -529,51 +549,56 @@ Melly<br />
 <td><p>奎利、荷拉</p></td>
 </tr>
 <tr class="odd">
+<td><p>2014年8月23日</p></td>
+<td><p><a href="../Page/演藝家中介.md" title="wikilink">演藝家中介</a> 游擊隊約會</p></td>
+<td><p>Kara全體</p></td>
+</tr>
+<tr class="even">
 <td><p>2014年9月3日、9月10日</p></td>
 <td><p>一周偶像</p></td>
 <td><p>Kara全體</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2014年9月21日-</p></td>
 <td><p>Roommate</p></td>
 <td><p>齡智</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年2月19日</p></td>
 <td><p>《Everybody》</p></td>
 <td><p>齡智</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015年2月19日-20日</p></td>
 <td><p>MBC 偶像明星運動會</p></td>
 <td><p>Kara全體 (女子跳高銅牌 - 齡智、女子田徑60米銅牌 - 荷拉)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年2月20日</p></td>
 <td><p>《王者的遊戲》</p></td>
 <td><p>齡智</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015年2月25日</p></td>
 <td><p>《<a href="../Page/Weekly_Idol.md" title="wikilink">一週的偶像</a>》</p></td>
 <td><p>齡智</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年3月10日</p></td>
 <td><p>《A Hard Day》</p></td>
 <td><p>齡智</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015年3月17日</p></td>
 <td><p>《A Hard Day》</p></td>
 <td><p>齡智</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年6月10日</p></td>
 <td><p>《<a href="../Page/Weekly_Idol.md" title="wikilink">一週的偶像</a>》</p></td>
 <td><p>Kara全體</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015年9月27日</p></td>
 <td><p>MBC 偶像明星運動會</p></td>
 <td><p>Kara全體 (女子射箭、女子田徑60米 - 荷拉)</p></td>
@@ -622,7 +647,6 @@ Melly<br />
 
 ## 參考資料
 
-[Category:Kara](https://zh.wikipedia.org/wiki/Category:Kara "wikilink")
-[Category:作品列表](https://zh.wikipedia.org/wiki/Category:作品列表 "wikilink")
+[Category:Kara](https://zh.wikipedia.org/wiki/Category:Kara "wikilink") [Category:作品列表](https://zh.wikipedia.org/wiki/Category:作品列表 "wikilink")
 
 1.  [KIXS《Beautiful》MV](http://kpopn.com/2015/02/10/261247/) 2015年2月10日

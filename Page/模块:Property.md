@@ -1,5 +1,4 @@
-\--
-[Module:Property](https://zh.wikipedia.org/wiki/Module:Property "wikilink")
+\-- [Module:Property](https://zh.wikipedia.org/wiki/Module:Property "wikilink")
 
 local p = {}
 
@@ -12,11 +11,7 @@ local p = {}
 
 end
 
-\-- Get the property of given wikidata entity. --
-取得wikidata中指定實體項目的指定屬性。 --
-[:mw:Extension:Wikibase
-Client/Lua](https://zh.wikipedia.org/wiki/:mw:Extension:Wikibase_Client/Lua "wikilink")
-function p.data(frame)
+\-- Get the property of given wikidata entity. -- 取得wikidata中指定實體項目的指定屬性。 -- [:mw:Extension:Wikibase Client/Lua](https://zh.wikipedia.org/wiki/:mw:Extension:Wikibase_Client/Lua "wikilink") function p.data(frame)
 
 `   if mw.wikibase == nil then`
 `       -- translate: 'Not yet install Extension:Wikibase ?'`

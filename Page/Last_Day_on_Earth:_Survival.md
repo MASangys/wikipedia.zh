@@ -1,5 +1,4 @@
-《**Last Day on Earth:
-Survival**》是一款由Kefir工作室開發、在[Android和](../Page/Android.md "wikilink")[iOS上發行的生存遊戲](https://zh.wikipedia.org/wiki/iOS "wikilink")。
+《**Last Day on Earth: Survival**》是一款由Kefir工作室開發、在[Android](../Page/Android.md "wikilink")和[iOS上發行的生存遊戲](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
 ## 遊戲
 
@@ -27,15 +26,11 @@ Survival**》是一款由Kefir工作室開發、在[Android和](../Page/Android.
 
 ### 評價
 
-本遊戲於多個評論及匯總網站上獲得偏高的評分。[遊民星空給予本遊戲](https://zh.wikipedia.org/wiki/遊民星空 "wikilink")7.8分。\[11\]
-[Gamezebo給予本遊戲](../Page/Gamezebo.md "wikilink")4星評價。\[12\]
-[Gamefaqs給予本遊戲](https://zh.wikipedia.org/wiki/Gamefaqs "wikilink")3.5/5分。\[13\]
-Whatoplay對本遊戲的[Android和](../Page/Android.md "wikilink")[iOS版本分別給出了](https://zh.wikipedia.org/wiki/iOS "wikilink")8.3分\[14\]和7.69分\[15\]的評分。
+本遊戲於多個評論及匯總網站上獲得偏高的評分。[遊民星空給予本遊戲](https://zh.wikipedia.org/wiki/遊民星空 "wikilink")7.8分。\[11\] [Gamezebo](../Page/Gamezebo.md "wikilink")給予本遊戲4星評價。\[12\] [Gamefaqs給予本遊戲](https://zh.wikipedia.org/wiki/Gamefaqs "wikilink")3.5/5分。\[13\] Whatoplay對本遊戲的[Android](../Page/Android.md "wikilink")和[iOS版本分別給出了](https://zh.wikipedia.org/wiki/iOS "wikilink")8.3分\[14\]和7.69分\[15\]的評分。
 
 ### 獎項
 
-本遊戲榮獲[Google
-play](https://zh.wikipedia.org/wiki/Google_play "wikilink")2017年最具創新力遊戲獎。\[16\]
+本遊戲榮獲[Google play](https://zh.wikipedia.org/wiki/Google_play "wikilink")2017年最具創新力遊戲獎。\[16\]
 
 ## 其他
 
@@ -54,12 +49,7 @@ play](https://zh.wikipedia.org/wiki/Google_play "wikilink")2017年最具創新�
   - [iOS下載](https://itunes.apple.com/hk/app/地球末日生存/id1241932094?mt=8)
   - [Android下載](https://play.google.com/store/apps/details?id=zombie.survival.craft.z)
 
-[Category:2017年电子游戏](https://zh.wikipedia.org/wiki/Category:2017年电子游戏 "wikilink")
-[Category:开放世界游戏](https://zh.wikipedia.org/wiki/Category:开放世界游戏 "wikilink")
-[Category:求生类游戏](https://zh.wikipedia.org/wiki/Category:求生类游戏 "wikilink")
-[Category:动作冒险游戏](https://zh.wikipedia.org/wiki/Category:动作冒险游戏 "wikilink")
-[Category:多人及單人電子遊戲](https://zh.wikipedia.org/wiki/Category:多人及單人電子遊戲 "wikilink")
-[Category:文明崩潰後世界題材遊戲](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材遊戲 "wikilink")
+[Category:2017年电子游戏](https://zh.wikipedia.org/wiki/Category:2017年电子游戏 "wikilink") [Category:开放世界游戏](https://zh.wikipedia.org/wiki/Category:开放世界游戏 "wikilink") [Category:求生类游戏](https://zh.wikipedia.org/wiki/Category:求生类游戏 "wikilink") [Category:动作冒险游戏](https://zh.wikipedia.org/wiki/Category:动作冒险游戏 "wikilink") [Category:多人及單人電子遊戲](https://zh.wikipedia.org/wiki/Category:多人及單人電子遊戲 "wikilink") [Category:文明崩潰後世界題材遊戲](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材遊戲 "wikilink")
 
 1.
 2.

@@ -1,6 +1,6 @@
 **東公園道線**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT其中一條路線](../Page/跨區捷運公司.md "wikilink")，由開始沿往南，再沿往。通過[猶提卡大道後](https://zh.wikipedia.org/wiki/皇冠高地-猶提卡大道車站_\(IRT東公園道線\) "wikilink")，路線上升至高架，成為[新地段線](https://zh.wikipedia.org/wiki/IRT新地段線 "wikilink")，以的[新地段大道結束](https://zh.wikipedia.org/wiki/新地段大道車站_\(IRT新地段線\) "wikilink")。東公園道線的西端位於[東河下方的](https://zh.wikipedia.org/wiki/東河_\(紐約\) "wikilink")\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]。
 
-[IRT諾斯特蘭大道線在](../Page/IRT諾斯特蘭大道線.md "wikilink")[富蘭克林大道車站開始分岔了慢車軌道往南](https://zh.wikipedia.org/wiki/富蘭克林大道車站_\(IRT東公園道線\) "wikilink")\[8\]。
+[IRT諾斯特蘭大道線](../Page/IRT諾斯特蘭大道線.md "wikilink")在[富蘭克林大道車站開始分岔了慢車軌道往南](https://zh.wikipedia.org/wiki/富蘭克林大道車站_\(IRT東公園道線\) "wikilink")\[8\]。
 
 ## 服務形式
 
@@ -95,7 +95,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>慢車軌道前往<a href="../Page/IRT百老匯-第七大道線.md" title="wikilink">IRT百老匯-第七大道線布魯克林支線</a>（）</p></td>
+<td><p>慢車軌道前往<a href="../Page/IRT百老匯-第七大道線.md" title="wikilink">IRT百老匯-第七大道線</a>布魯克林支線（）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -246,53 +246,22 @@
 
 ## 参考文献
 
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1908年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1908年啟用的鐵路線 "wikilink")
-[Category:1908年紐約州建立](https://zh.wikipedia.org/wiki/Category:1908年紐約州建立 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1908年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1908年啟用的鐵路線 "wikilink") [Category:1908年紐約州建立](https://zh.wikipedia.org/wiki/Category:1908年紐約州建立 "wikilink")
 
 1.
 
-2.  [Metropolitan Transportation
-    Authority](https://zh.wikipedia.org/wiki/Metropolitan_Transportation_Authority "wikilink"),
-    [2006 Final Proposed Budget – November Financial
-    Plan 2006-2009](http://web.mta.info/mta/budget/final2006-09.htm),  :
-    "Joralemon Tube to Nevins Street"
+2.  [Metropolitan Transportation Authority](https://zh.wikipedia.org/wiki/Metropolitan_Transportation_Authority "wikilink"), [2006 Final Proposed Budget – November Financial Plan 2006-2009](http://web.mta.info/mta/budget/final2006-09.htm),  : "Joralemon Tube to Nevins Street"
 
-3.  [Metropolitan Transportation
-    Authority](https://zh.wikipedia.org/wiki/Metropolitan_Transportation_Authority "wikilink"),
-    [2005 Adopted Budget - February Financial
-    Plan 2005–2008](http://web.mta.info/mta/budget/2005adopted/index.html),
-     : shows Utica Avenue on "EPK" and Sutter Avenue on "NLT"
+3.  [Metropolitan Transportation Authority](https://zh.wikipedia.org/wiki/Metropolitan_Transportation_Authority "wikilink"), [2005 Adopted Budget - February Financial Plan 2005–2008](http://web.mta.info/mta/budget/2005adopted/index.html),  : shows Utica Avenue on "EPK" and Sutter Avenue on "NLT"
 
-4.  [Metropolitan Transportation
-    Authority](https://zh.wikipedia.org/wiki/Metropolitan_Transportation_Authority "wikilink"),
-    [2005 Final Proposed Budget - November Financial
-    Plan 2005–2008](http://web.mta.info/mta/budget/november2005.htm),
-     : "Sutter Avenue Portal to end"
+4.  [Metropolitan Transportation Authority](https://zh.wikipedia.org/wiki/Metropolitan_Transportation_Authority "wikilink"), [2005 Final Proposed Budget - November Financial Plan 2005–2008](http://web.mta.info/mta/budget/november2005.htm),  : "Sutter Avenue Portal to end"
 
-5.  In a 1981 list of "most deteriorated subway stations", the MTA
-    listed Borough Hall and Court Street stations as part of the New
-    Lots Line:
-    [New York
-    Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"),
-    Agency Lists Its 69 Most Deteriorated Subway Stations, June 11,
-    1981, section B, page 5
+5.  In a 1981 list of "most deteriorated subway stations", the MTA listed Borough Hall and Court Street stations as part of the New Lots Line:
+    [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), Agency Lists Its 69 Most Deteriorated Subway Stations, June 11, 1981, section B, page 5
 
-6.  The
-    [chaining](https://zh.wikipedia.org/wiki/New_York_City_Subway_chaining "wikilink")
-    designation "M" ([Joralemon Street
-    Tunnel](https://zh.wikipedia.org/wiki/Joralemon_Street_Tunnel "wikilink"))
-    becomes "E" (Eastern Parkway Line) just west of the Borough Hall
-    platforms; the Court Street and northern Borough Hall stations are
-    chained "K" ([Clark Street
-    Tunnel](https://zh.wikipedia.org/wiki/Clark_Street_Tunnel "wikilink")).
+6.  The [chaining](https://zh.wikipedia.org/wiki/New_York_City_Subway_chaining "wikilink") designation "M" ([Joralemon Street Tunnel](https://zh.wikipedia.org/wiki/Joralemon_Street_Tunnel "wikilink")) becomes "E" (Eastern Parkway Line) just west of the Borough Hall platforms; the Court Street and northern Borough Hall stations are chained "K" ([Clark Street Tunnel](https://zh.wikipedia.org/wiki/Clark_Street_Tunnel "wikilink")).
 
-7.  However, as of 2007, emergency exit signs label Court Street as an
-    [IRT Broadway–Seventh Avenue
-    Line](https://zh.wikipedia.org/wiki/IRT_Broadway–Seventh_Avenue_Line "wikilink")
-    station, and the two parts of Borough Hall are signed as being along
-    the Broadway–Seventh Avenue and [IRT Lexington Avenue
-    Lines](https://zh.wikipedia.org/wiki/IRT_Lexington_Avenue_Line "wikilink").
+7.  However, as of 2007, emergency exit signs label Court Street as an [IRT Broadway–Seventh Avenue Line](https://zh.wikipedia.org/wiki/IRT_Broadway–Seventh_Avenue_Line "wikilink") station, and the two parts of Borough Hall are signed as being along the Broadway–Seventh Avenue and [IRT Lexington Avenue Lines](https://zh.wikipedia.org/wiki/IRT_Lexington_Avenue_Line "wikilink").
 
 8.
 9.

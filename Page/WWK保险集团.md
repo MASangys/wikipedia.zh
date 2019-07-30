@@ -2,7 +2,4 @@
 
 ## 注释
 
-[Category:德国金融公司](https://zh.wikipedia.org/wiki/Category:德国金融公司 "wikilink")
-[Category:慕尼黑公司](https://zh.wikipedia.org/wiki/Category:慕尼黑公司 "wikilink")
-[Category:德国保险公司](https://zh.wikipedia.org/wiki/Category:德国保险公司 "wikilink")
-[Category:1884年成立的公司](https://zh.wikipedia.org/wiki/Category:1884年成立的公司 "wikilink")
+[Category:德国金融公司](https://zh.wikipedia.org/wiki/Category:德国金融公司 "wikilink") [Category:慕尼黑公司](https://zh.wikipedia.org/wiki/Category:慕尼黑公司 "wikilink") [Category:德国保险公司](https://zh.wikipedia.org/wiki/Category:德国保险公司 "wikilink") [Category:1884年成立的公司](https://zh.wikipedia.org/wiki/Category:1884年成立的公司 "wikilink")

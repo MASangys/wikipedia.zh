@@ -1,5 +1,4 @@
-《**The
-Package**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC於](../Page/JTBC.md "wikilink")2017年10月13日起播出的[金土連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[依然綠茵的日子](../Page/依然綠茵的日子.md "wikilink")》[全昌根](../Page/全昌根.md "wikilink")、《[善良的男人](https://zh.wikipedia.org/wiki/善良的男人 "wikilink")》[金鎮元導演執導與](https://zh.wikipedia.org/wiki/金鎮元 "wikilink")《[七級公務員](../Page/七級公務員_\(電視劇\).md "wikilink")》[千成日作家合作打造](../Page/千成日.md "wikilink")。此劇以法國旅行為主題，講述大家因為各自不同的原因參加了跟團旅行，原本不想要卻還是逐漸產生交集，隨之而來的一段交流和溝通的旅程，令觀眾看到旅行中的浪漫和旅人們令人暖心的故事。\[1\]台灣由愛奇藝台灣站10月13日起，每周五、六晚上10點同步韓國播出。
+《**The Package**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")於2017年10月13日起播出的[金土連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[依然綠茵的日子](../Page/依然綠茵的日子.md "wikilink")》[全昌根](../Page/全昌根.md "wikilink")、《[善良的男人](https://zh.wikipedia.org/wiki/善良的男人 "wikilink")》[金鎮元導演執導與](https://zh.wikipedia.org/wiki/金鎮元 "wikilink")《[七級公務員](../Page/七級公務員_\(電視劇\).md "wikilink")》[千成日](../Page/千成日.md "wikilink")作家合作打造。此劇以法國旅行為主題，講述大家因為各自不同的原因參加了跟團旅行，原本不想要卻還是逐漸產生交集，隨之而來的一段交流和溝通的旅程，令觀眾看到旅行中的浪漫和旅人們令人暖心的故事。\[1\]台灣由愛奇藝台灣站10月13日起，每周五、六晚上10點同步韓國播出。
 
 ## 演員陣容
 
@@ -333,9 +332,7 @@ Package**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 
 ## 同時段競爭作品
 
-  - [KBS2](../Page/韓國放送公社.md "wikilink")
-    [金土連續劇](https://zh.wikipedia.org/wiki/KBS金土連續劇 "wikilink")：《[Go
-    Back夫婦](../Page/Go_Back夫婦.md "wikilink")》
+  - [KBS2](../Page/韓國放送公社.md "wikilink") [金土連續劇](https://zh.wikipedia.org/wiki/KBS金土連續劇 "wikilink")：《[Go Back夫婦](../Page/Go_Back夫婦.md "wikilink")》
 
 ## 記事
 
@@ -346,15 +343,10 @@ Package**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 ## 外部連結
 
   - [韓國JTBC官方網站](http://tv.jtbc.joins.com/thepackage)
-  - [The
-    Package-BLOG](https://m.post.naver.com/my/series/detail.nhn?seriesNo=372278&memberNo=11773044)
+  - [The Package-BLOG](https://m.post.naver.com/my/series/detail.nhn?seriesNo=372278&memberNo=11773044)
   - [香港有線電視官方網站](http://epg.i-cable.com/ci/program/intro/569/花都情緣)
 
-[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink")
-[Category:旅行題材作品](https://zh.wikipedia.org/wiki/Category:旅行題材作品 "wikilink")
-[Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
-[Category:巴黎背景作品](https://zh.wikipedia.org/wiki/Category:巴黎背景作品 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
+[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink") [Category:旅行題材作品](https://zh.wikipedia.org/wiki/Category:旅行題材作品 "wikilink") [Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink") [Category:巴黎背景作品](https://zh.wikipedia.org/wiki/Category:巴黎背景作品 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
 
 1.
 2.

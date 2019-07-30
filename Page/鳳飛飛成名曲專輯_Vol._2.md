@@ -23,12 +23,12 @@
 <td><p>林國雄</p></td>
 <td></td>
 <td><p>原收錄於鳳飛飛《<a href="https://zh.wikipedia.org/wiki/我是一片雲_(專輯)" title="wikilink">我是一片雲 (專輯)</a>》 電影《<a href="https://zh.wikipedia.org/wiki/我是一片雲" title="wikilink">我是一片雲</a>》主題曲[1]</p>
-<p><a href="../Page/高凌風.md" title="wikilink">高凌風翻唱</a>；收錄於〈姑娘的酒窩〉</p>
+<p><a href="../Page/高凌風.md" title="wikilink">高凌風</a>翻唱；收錄於〈姑娘的酒窩〉</p>
 <p>林宛臻翻唱；收錄於〈舞不完醉人的舞步(一)〉</p>
-<p><a href="../Page/蔡幸娟.md" title="wikilink">蔡幸娟翻唱</a>；收錄於〈中國娃娃回想曲 4〉</p>
+<p><a href="../Page/蔡幸娟.md" title="wikilink">蔡幸娟</a>翻唱；收錄於〈中國娃娃回想曲 4〉</p>
 <p>關艾翻唱；收錄於〈海鷗飛處彩雲飛〉</p>
-<p><a href="../Page/齊秦.md" title="wikilink">齊秦翻唱</a>；收錄於〈齊秦的世紀情歌之謎〉</p>
-<p><a href="../Page/劉依純.md" title="wikilink">劉依純翻唱</a>；收錄於〈瓊瑤愛情館 4〉</p></td>
+<p><a href="../Page/齊秦.md" title="wikilink">齊秦</a>翻唱；收錄於〈齊秦的世紀情歌之謎〉</p>
+<p><a href="../Page/劉依純.md" title="wikilink">劉依純</a>翻唱；收錄於〈瓊瑤愛情館 4〉</p></td>
 </tr>
 <tr class="odd">
 <td><p>A2</p></td>
@@ -47,7 +47,7 @@
 <td></td>
 <td></td>
 <td><p>原收錄於鳳飛飛《<a href="https://zh.wikipedia.org/wiki/雁兒在林梢_(專輯)" title="wikilink">雁兒在林梢 (專輯)</a>》 電影《雁兒在林梢》主題曲</p>
-<p><a href="../Page/錦繡二重唱.md" title="wikilink">錦繡二重唱翻唱</a>；收錄於〈錦鏽羅曼史〉</p></td>
+<p><a href="../Page/錦繡二重唱.md" title="wikilink">錦繡二重唱</a>翻唱；收錄於〈錦鏽羅曼史〉</p></td>
 </tr>
 <tr class="odd">
 <td><p>A4</p></td>
@@ -57,7 +57,7 @@
 <td></td>
 <td></td>
 <td><p>原收錄鳳飛飛《<a href="../Page/奔向彩虹.md" title="wikilink">奔向彩虹</a>》 電影《奔向彩虹》主題曲</p>
-<p><a href="../Page/劉依純.md" title="wikilink">劉依純翻唱</a>；收錄於〈瓊瑤愛情館 3〉</p></td>
+<p><a href="../Page/劉依純.md" title="wikilink">劉依純</a>翻唱；收錄於〈瓊瑤愛情館 3〉</p></td>
 </tr>
 <tr class="even">
 <td><p>A5</p></td>
@@ -85,10 +85,10 @@
 <td></td>
 <td></td>
 <td><p>原收錄於鳳飛飛《<a href="../Page/星語.md" title="wikilink">星語</a>》 電影《星語》主題曲</p>
-<p><a href="../Page/劉文正.md" title="wikilink">劉文正翻唱</a>；收錄於〈小雨打在我身上〉</p>
+<p><a href="../Page/劉文正.md" title="wikilink">劉文正</a>翻唱；收錄於〈小雨打在我身上〉</p>
 <p>林靈翻唱；收錄於〈情調重現二〉</p>
 <p>江美麗翻唱；收錄於〈江美麗的心情小棧2〉</p>
-<p><a href="../Page/費玉清.md" title="wikilink">費玉清翻唱</a>；收錄於〈回想曲之情話綿綿〉</p></td>
+<p><a href="../Page/費玉清.md" title="wikilink">費玉清</a>翻唱；收錄於〈回想曲之情話綿綿〉</p></td>
 </tr>
 <tr class="odd">
 <td><p>A8</p></td>
@@ -111,9 +111,9 @@
 <p>林宛臻翻唱；收錄於〈舞不完醉人的舞步(一)〉專輯</p>
 <p><a href="https://zh.wikipedia.org/wiki/李碧華" title="wikilink">李碧華翻唱</a>；收錄於〈第3個夢〉專輯</p>
 <p>陳聖芬翻唱；收錄於〈多少的回憶〉專輯</p>
-<p><a href="../Page/張秀卿.md" title="wikilink">張秀卿翻唱</a>；收錄於〈卿秀佳人〉專輯</p>
+<p><a href="../Page/張秀卿.md" title="wikilink">張秀卿</a>翻唱；收錄於〈卿秀佳人〉專輯</p>
 <p>江美麗翻唱；收錄於〈江美麗的心情小棧2〉專輯</p>
-<p><a href="../Page/甄妮.md" title="wikilink">甄妮翻唱</a>；收錄於〈紅伶少女〉專輯</p></td>
+<p><a href="../Page/甄妮.md" title="wikilink">甄妮</a>翻唱；收錄於〈紅伶少女〉專輯</p></td>
 </tr>
 <tr class="odd">
 <td><p>B2</p></td>
@@ -141,11 +141,11 @@
 <td></td>
 <td></td>
 <td><p>原收錄於鳳飛飛《<a href="../Page/月朦朧鳥朦朧_(專輯).md" title="wikilink">月朦朧鳥朦朧 (專輯)</a>》 電影《月朦朧鳥朦朧》主題曲</p>
-<p><a href="../Page/蔡幸娟.md" title="wikilink">蔡幸娟翻唱</a>；收錄於〈中國娃娃回想曲 4〉</p>
+<p><a href="../Page/蔡幸娟.md" title="wikilink">蔡幸娟</a>翻唱；收錄於〈中國娃娃回想曲 4〉</p>
 <p>林靈翻唱；收錄於〈情調重現二〉</p>
 <p>女聲四重唱翻唱；收錄於〈夜貓族〉</p>
-<p><a href="../Page/許茹芸.md" title="wikilink">許茹芸翻唱</a>；收錄於〈<a href="https://zh.wikipedia.org/wiki/許茹芸的愛情電影主題曲_－_雲且留住" title="wikilink">許茹芸的愛情電影主題曲 － 雲且留住</a>〉</p>
-<p><a href="../Page/劉依純.md" title="wikilink">劉依純翻唱</a>；收錄於〈瓊瑤愛情館 3〉</p>
+<p><a href="../Page/許茹芸.md" title="wikilink">許茹芸</a>翻唱；收錄於〈<a href="https://zh.wikipedia.org/wiki/許茹芸的愛情電影主題曲_－_雲且留住" title="wikilink">許茹芸的愛情電影主題曲 － 雲且留住</a>〉</p>
+<p><a href="../Page/劉依純.md" title="wikilink">劉依純</a>翻唱；收錄於〈瓊瑤愛情館 3〉</p>
 <p>錦繡二重唱翻唱；收錄於〈錦鏽羅曼史II 夏之旅〉</p></td>
 </tr>
 <tr class="even">
@@ -169,7 +169,7 @@
 <td><p>林國雄</p></td>
 <td></td>
 <td><p>原收錄於鳳飛飛《我是一片雲》</p>
-<p><a href="../Page/林慧萍.md" title="wikilink">林慧萍翻唱</a>；收錄於〈<a href="../Page/不要回頭看.md" title="wikilink">不要回頭看</a>〉</p>
+<p><a href="../Page/林慧萍.md" title="wikilink">林慧萍</a>翻唱；收錄於〈<a href="../Page/不要回頭看.md" title="wikilink">不要回頭看</a>〉</p>
 <p>江明學翻唱；收錄於〈相思何盼〉</p></td>
 </tr>
 <tr class="even">
@@ -180,7 +180,7 @@
 <td><p>林國雄</p></td>
 <td></td>
 <td><p>原收錄於鳳飛飛《<a href="../Page/金盞花.md" title="wikilink">金盞花</a>》 電影《金盞花》主題曲</p>
-<p><a href="../Page/錦繡二重唱.md" title="wikilink">錦繡二重唱翻唱</a>；收錄於〈錦繡羅曼史〉</p></td>
+<p><a href="../Page/錦繡二重唱.md" title="wikilink">錦繡二重唱</a>翻唱；收錄於〈錦繡羅曼史〉</p></td>
 </tr>
 <tr class="odd">
 <td><p>B8</p></td>
@@ -201,11 +201,7 @@
 
 ## 參考文獻
 
-[Category:鳳飛飛音樂專輯](https://zh.wikipedia.org/wiki/Category:鳳飛飛音樂專輯 "wikilink")
-[Category:1981年音樂專輯](https://zh.wikipedia.org/wiki/Category:1981年音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
+[Category:鳳飛飛音樂專輯](https://zh.wikipedia.org/wiki/Category:鳳飛飛音樂專輯 "wikilink") [Category:1981年音樂專輯](https://zh.wikipedia.org/wiki/Category:1981年音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
 
 1.
-2.  [搶唱《楓葉情》
-    填詞人：電影炒作](http://www.appledaily.com.tw/appledaily/article/headline/20120216/34028560/)
+2.  [搶唱《楓葉情》 填詞人：電影炒作](http://www.appledaily.com.tw/appledaily/article/headline/20120216/34028560/)

@@ -19,8 +19,7 @@
 <!-- end list -->
 
   -
-    西門出身的黃昏人種，雙耳失聰但是眼睛非常敏銳，以武士刀作為武器，左撇子。常被他人稱之為尼古拉斯、尼克、小尼克。尼克的母親是個妓女，也是黃昏人種，西門傭兵隊隊長加斯頓·布朗生下尼克之後不久便被殺死，所以尼克從小在雇傭兵營裡長大。在一次暴動中受傷感染而被其父拋棄，後殺了沃里克全家，欲自盡，被沃里克阻止。識字和手語是沃里克小時候教的，雖然多少能講點話但是“太累了”所以通常都用手語；可以讀懂唇語，依茶渡先生的說法是「若說悄悄話時，不遮住嘴，可會被他『聽』得一清二楚」，不過似乎沒什麼耐心（在第一次和道格對戰時覺得讀他的唇語很費勁因此想直接殺死他）。看起來很凶很可怕，但妮娜說他“只是有點壞心眼”。後背有和沃里克一样的紋身（小時候後脖頸有“AIB
-    069”的字樣）。對於别人說的話基本不聽。尼克十分強大，經常過量攝取célébrer，痛感現已不正常。沒事幹的時候會窩在一層鍛鍊肌肉。不擅常喝酒，廚藝不佳，但對人其實很溫柔，在便利屋中負責打掃和洗碗。和貝羅尼卡似乎是情侶關係。成为黃昏人種的代價是失去聽力。尼克本來的實力最高只到B5級，依靠跟過量攝取藥物將身體能力引發置極限而達到A0級。立場中立。
+    西門出身的黃昏人種，雙耳失聰但是眼睛非常敏銳，以武士刀作為武器，左撇子。常被他人稱之為尼古拉斯、尼克、小尼克。尼克的母親是個妓女，也是黃昏人種，西門傭兵隊隊長加斯頓·布朗生下尼克之後不久便被殺死，所以尼克從小在雇傭兵營裡長大。在一次暴動中受傷感染而被其父拋棄，後殺了沃里克全家，欲自盡，被沃里克阻止。識字和手語是沃里克小時候教的，雖然多少能講點話但是“太累了”所以通常都用手語；可以讀懂唇語，依茶渡先生的說法是「若說悄悄話時，不遮住嘴，可會被他『聽』得一清二楚」，不過似乎沒什麼耐心（在第一次和道格對戰時覺得讀他的唇語很費勁因此想直接殺死他）。看起來很凶很可怕，但妮娜說他“只是有點壞心眼”。後背有和沃里克一样的紋身（小時候後脖頸有“AIB 069”的字樣）。對於别人說的話基本不聽。尼克十分強大，經常過量攝取célébrer，痛感現已不正常。沒事幹的時候會窩在一層鍛鍊肌肉。不擅常喝酒，廚藝不佳，但對人其實很溫柔，在便利屋中負責打掃和洗碗。和貝羅尼卡似乎是情侶關係。成为黃昏人種的代價是失去聽力。尼克本來的實力最高只到B5級，依靠跟過量攝取藥物將身體能力引發置極限而達到A0級。立場中立。
     在動畫結尾，一邊說著「一切都是白費工夫」，並離開BASTARD酒館。（動畫中敘述人類與黃昏種的關係，以及力圖庇護黃昏種並保障其最低人權的不同陣營時，尼克曾說道，無論正常人為黃昏種做多少事情都是白費工夫，黃昏種還是會死。）
 
 <!-- end list -->
@@ -111,8 +110,7 @@
 <!-- end list -->
 
   -
-    第二驱逐队出身的前狩猎者。克里斯蒂亚诺组的得力干部（大小姐语，见短篇：about
-    him），同时是BASTSARD的副主管。在上一代克里斯蒂亚诺组首领下工作了15年。康妮的恋人，脖子上戴着的康妮给的戒指。武器是装置在手腕上发射可伸缩的钢索。特徵是臉上有疤痕，右耳缺了一角。
+    第二驱逐队出身的前狩猎者。克里斯蒂亚诺组的得力干部（大小姐语，见短篇：about him），同时是BASTSARD的副主管。在上一代克里斯蒂亚诺组首领下工作了15年。康妮的恋人，脖子上戴着的康妮给的戒指。武器是装置在手腕上发射可伸缩的钢索。特徵是臉上有疤痕，右耳缺了一角。
     外傳「GANGSTA：CURSED」的主角
 
 ### 科西嘉家族
@@ -345,14 +343,11 @@
   -
     著者：河端ジュン一
     原創故事小說。講述漫畫本篇以前的故事。
-    [新潮社](https://zh.wikipedia.org/wiki/新潮社 "wikilink")〈[新潮文庫nex](https://zh.wikipedia.org/wiki/新潮文庫nex "wikilink")〉2015年8月1日發售、ISBN
-    978-4-10-180039-4
+    [新潮社](https://zh.wikipedia.org/wiki/新潮社 "wikilink")〈[新潮文庫nex](https://zh.wikipedia.org/wiki/新潮文庫nex "wikilink")〉2015年8月1日發售、ISBN 978-4-10-180039-4
 
 ## 广播剧CD
 
-广播剧CD由[Frontier
-Works发售](../Page/Frontier_Works.md "wikilink")，共计五卷。起初预计共3卷，2015年1月宣布追加发表两卷。
-此外，广播剧第六卷将与单行本第六卷，以限量版的形式一同捆绑发售。
+广播剧CD由[Frontier Works发售](../Page/Frontier_Works.md "wikilink")，共计五卷。起初预计共3卷，2015年1月宣布追加发表两卷。 此外，广播剧第六卷将与单行本第六卷，以限量版的形式一同捆绑发售。
 
 | 卷数 | 发售日期        | 商品號碼    |
 | -- | ----------- | ------- |
@@ -364,8 +359,7 @@ Works发售](../Page/Frontier_Works.md "wikilink")，共计五卷。起初预计
 
 ## 電視動畫
 
-该作品于2014年7月正式宣布电视动画化的决定\[1\]，并于2015年7月（夏季档）开始，于[朝日放送](../Page/朝日放送.md "wikilink")、[TOKYO
-MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[爱知電視台](https://zh.wikipedia.org/wiki/爱知電視台 "wikilink")、[BS11开始放送](https://zh.wikipedia.org/wiki/BS11 "wikilink")。
+该作品于2014年7月正式宣布电视动画化的决定\[1\]，并于2015年7月（夏季档）开始，于[朝日放送](../Page/朝日放送.md "wikilink")、[TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[爱知電視台](https://zh.wikipedia.org/wiki/爱知電視台 "wikilink")、[BS11开始放送](https://zh.wikipedia.org/wiki/BS11 "wikilink")。
 
 ### 製作人員
 
@@ -387,9 +381,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[爱知電視台](https
   - 製片人：遠藤直子、小岐須泰世、堀隼人、大久保隆一、森菜摘、白石容子、鹽谷佳之、西出將之
   - 動畫製作人：河內山隆、石田健二郎
   - 動畫製作：[Manglobe](../Page/Manglobe.md "wikilink")
-  - 製作：GANGSTA.製作委員會（[萬代影視](../Page/萬代影視.md "wikilink")、[博報堂DY媒體合作夥伴](../Page/博報堂.md "wikilink")、[新潮社](https://zh.wikipedia.org/wiki/新潮社 "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[Frontier
-    Works](../Page/Frontier_Works.md "wikilink")、DAX國際、[TOKYO
-    MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")）
+  - 製作：GANGSTA.製作委員會（[萬代影視](../Page/萬代影視.md "wikilink")、[博報堂](../Page/博報堂.md "wikilink")DY媒體合作夥伴、[新潮社](https://zh.wikipedia.org/wiki/新潮社 "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[Frontier Works](../Page/Frontier_Works.md "wikilink")、DAX國際、[TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")）
 
 ### 主題曲
 
@@ -622,7 +614,7 @@ Park Hyeran、冈崎洋美</p></td>
 
 ### BD / DVD
 
-因為製作動畫公司[Manglobe破產的原因](../Page/Manglobe.md "wikilink")，原定於2015年11月26日發售3卷之後的產品，將延後發售\[3\]。
+因為製作動畫公司[Manglobe](../Page/Manglobe.md "wikilink")破產的原因，原定於2015年11月26日發售3卷之後的產品，將延後發售\[3\]。
 
 | 卷  | 發售日         | 收錄話       | 規格品番      |
 | -- | ----------- | --------- | --------- |
@@ -633,8 +625,7 @@ Park Hyeran、冈崎洋美</p></td>
 
 ## 评价与影响
 
-2014年，该作品漫画曾登上[Oricon](../Page/Oricon.md "wikilink")
-2014年7月第二周漫画榜周榜，位于第22位\[4\]。
+2014年，该作品漫画曾登上[Oricon](../Page/Oricon.md "wikilink") 2014年7月第二周漫画榜周榜，位于第22位\[4\]。
 
 ## 参考资料
 
@@ -648,21 +639,11 @@ Park Hyeran、冈崎洋美</p></td>
 
   - [《GANGSTA.》朝日放送官方网站](http://asahi.co.jp/anime/gangsta/)
 
-  - [GANGSTA.](https://twitter.com/GANGSTA_Project)
-    <span contenteditable="false">的</span>[Twitter专页](../Page/Twitter.md "wikilink")
+  - [GANGSTA.](https://twitter.com/GANGSTA_Project) <span contenteditable="false">的</span>[Twitter](../Page/Twitter.md "wikilink")专页
 
-[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
-[Category:月刊Comic@Bunch連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic@Bunch連載作品 "wikilink")
-[Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
-[Category:聽覺障礙題材作品](https://zh.wikipedia.org/wiki/Category:聽覺障礙題材作品 "wikilink")
-[Category:黑幫題材作品](https://zh.wikipedia.org/wiki/Category:黑幫題材作品 "wikilink")
+[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:月刊Comic@Bunch連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic@Bunch連載作品 "wikilink") [Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink") [Category:聽覺障礙題材作品](https://zh.wikipedia.org/wiki/Category:聽覺障礙題材作品 "wikilink") [Category:黑幫題材作品](https://zh.wikipedia.org/wiki/Category:黑幫題材作品 "wikilink")
 
-1.  [「GANGSTA.」アニメ化！諏訪部順一ら出演](http://natalie.mu/comic/news/120796) -
-    コミックナタリー（2014年7月9日）
-2.  [7月アニメ『GANGSTA.』OP＆ED曲決定](http://www.oricon.co.jp/news/2053266/full/)
-    - ORICON STYLE（2015年5月25日）
+1.  [「GANGSTA.」アニメ化！諏訪部順一ら出演](http://natalie.mu/comic/news/120796) - コミックナタリー（2014年7月9日）
+2.  [7月アニメ『GANGSTA.』OP＆ED曲決定](http://www.oricon.co.jp/news/2053266/full/) - ORICON STYLE（2015年5月25日）
 3.
-4.  [Japan's Weekly Manga and Light Novel Rankings for Jul 7
-    - 13](http://myanimelist.net/forum/?topicid=1227671) -
-    MyAnimeList.net（2014年7月16日）
+4.  [Japan's Weekly Manga and Light Novel Rankings for Jul 7 - 13](http://myanimelist.net/forum/?topicid=1227671) - MyAnimeList.net（2014年7月16日）

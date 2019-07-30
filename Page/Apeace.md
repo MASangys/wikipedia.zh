@@ -1,8 +1,6 @@
-**Apeace**（；），原名**Double B
-21**（）\[1\]，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")15人男子組合（最初為21人組合），於2010年8月31日發行數位單曲《One》出道。到2011年改名為Apeace，2012年推出單曲《We
-Are the One-Japanese ver.》在日本出道\[2\]，同時事業重心轉到日本至今。
+**Apeace**（；），原名**Double B 21**（）\[1\]，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")15人男子組合（最初為21人組合），於2010年8月31日發行數位單曲《One》出道。到2011年改名為Apeace，2012年推出單曲《We Are the One-Japanese ver.》在日本出道\[2\]，同時事業重心轉到日本至今。
 
-Apeace成員分為三個小隊：Lapis5、Jade5與Onyx5，各有五名成員\[3\]；由曾與[H.O.T.](../Page/H.O.T..md "wikilink")、[神話和](https://zh.wikipedia.org/wiki/神話_\(組合\) "wikilink")[東方神起共事的金慶郁](../Page/東方神起.md "wikilink")（音譯；）選出及訓練\[4\]。
+Apeace成員分為三個小隊：Lapis5、Jade5與Onyx5，各有五名成員\[3\]；由曾與[H.O.T.](../Page/H.O.T..md "wikilink")、[神話和](https://zh.wikipedia.org/wiki/神話_\(組合\) "wikilink")[東方神起](../Page/東方神起.md "wikilink")共事的金慶郁（音譯；）選出及訓練\[4\]。
 
 ## 成員資料
 
@@ -174,11 +172,7 @@ Apeace成員分為三個小隊：Lapis5、Jade5與Onyx5，各有五名成員\[3\
 
   -
   -
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
-[Category:2010年韓國建立](https://zh.wikipedia.org/wiki/Category:2010年韓國建立 "wikilink")
+[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink") [Category:2010年韓國建立](https://zh.wikipedia.org/wiki/Category:2010年韓國建立 "wikilink")
 
 1.
 

@@ -1,17 +1,12 @@
-《**機動防衛者Dowl
-Masters**》是[佐島勤所著的](https://zh.wikipedia.org/wiki/佐島勤 "wikilink")[日本](../Page/日本.md "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，[插圖由tarou](https://zh.wikipedia.org/wiki/插圖 "wikilink")2繪畫，由[ASCII
-Media
-Works出版](../Page/ASCII_Media_Works.md "wikilink")，中文繁體版則由[台灣角川發行](../Page/台灣角川.md "wikilink")。
+《**機動防衛者Dowl Masters**》是[佐島勤所著的](https://zh.wikipedia.org/wiki/佐島勤 "wikilink")[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品，[插圖由tarou](https://zh.wikipedia.org/wiki/插圖 "wikilink")2繪畫，由[ASCII Media Works出版](../Page/ASCII_Media_Works.md "wikilink")，中文繁體版則由[台灣角川](../Page/台灣角川.md "wikilink")發行。
 
 ## 故事簡介
 
 西暦2400年，世界被一個稱為「太陽系開發機構」（簡稱：太陽系聯盟）的大型聯盟所掌握。地球上的人民分別居於不同的「城邦」及「自治區」，並日夜為了資源而發生糾紛。
 
-為了「完全管理」這樣的世界，機動兵器「Titanic Dowl」是必要的。駕駛「Titanic Dowl」的機師會被稱為「Dowl
-Master」，而他們亦是不同勢力的主要戰力。
+為了「完全管理」這樣的世界，機動兵器「Titanic Dowl」是必要的。駕駛「Titanic Dowl」的機師會被稱為「Dowl Master」，而他們亦是不同勢力的主要戰力。
 
-居於小田原自治區的早乙女蒼生在一次與橫濱城邦軍的戰鬥中，正當要遭受敵方機體使出致命一擊時，意外覺醒了能力並成為「Exar」。以此為契機，蒼生及其姊朱理一同入學至直屬於太陽系開發機構軍的教育訓練機構「磐都高等訓練學校」，並在宇宙中邂逅駕駛純白專用機「瓏月」的最強Dowl
-Master－－玲音。
+居於小田原自治區的早乙女蒼生在一次與橫濱城邦軍的戰鬥中，正當要遭受敵方機體使出致命一擊時，意外覺醒了能力並成為「Exar」。以此為契機，蒼生及其姊朱理一同入學至直屬於太陽系開發機構軍的教育訓練機構「磐都高等訓練學校」，並在宇宙中邂逅駕駛純白專用機「瓏月」的最強Dowl Master－－玲音。
 
 ## 主要人物
 
@@ -81,8 +76,7 @@ Master－－玲音。
   -
 
       -
-        太陽系聯盟直屬的機動部隊，全稱為「Special Force With Extra
-        Ability」。擁有名為Exar的高強機動衛士。
+        太陽系聯盟直屬的機動部隊，全稱為「Special Force With Extra Ability」。擁有名為Exar的高強機動衛士。
         由於聯盟不允許戰爭，因此在大多數的情況下，聯盟會派出索菲亞以武力終結戰爭。
 
 <!-- end list -->
@@ -93,24 +87,19 @@ Master－－玲音。
 ### 技術
 
   -
-    正式名稱為「Titanic
-    Dowl」，是一部能將駕駛員的「意念（SIMA）」擴張並使之轉換為物理層面戰鬥能力的人型機動兵器。而DOWL的全寫為「**D**efender
-    **O**perated by **W**ired **L**inkage」。
+    正式名稱為「Titanic Dowl」，是一部能將駕駛員的「意念（SIMA）」擴張並使之轉換為物理層面戰鬥能力的人型機動兵器。而DOWL的全寫為「**D**efender **O**perated by **W**ired **L**inkage」。
 
 <!-- end list -->
 
   - SIMA
     正式名稱為「**S**ymbolic **I**mage **M**aterialize **A**bility」，通稱SIMA。
-    SIMA是源自於個人精神的獨特力量，每個人擅長與否的程度差異相當大。SIMA的強弱是以0～100的指數量度，成為機動衛士的必要指數為50以上，他們會被稱為「SIMAR」；而指數超過100的則會被稱為「Exar」，他們的能力會被稱作「Extra
-    Ability（ExA）」。
+    SIMA是源自於個人精神的獨特力量，每個人擅長與否的程度差異相當大。SIMA的強弱是以0～100的指數量度，成為機動衛士的必要指數為50以上，他們會被稱為「SIMAR」；而指數超過100的則會被稱為「Exar」，他們的能力會被稱作「Extra Ability（ExA）」。
 
 <!-- end list -->
 
   -
     全寫為「**N**eural **I**mpulse **T**racer **U**nit」，通稱NITU。
-    Titanic
-    Dowl的操作系統之一。機師的神經訊號會被操縱服內的感測器讀取，而操作系統便會將訊號轉換為運動指令再傳達給機體。透過掃描神經訊號的操作系統，機動衛士便能穿上名為Titanic
-    Dowl的裝甲，化身為戰場上的巨人士兵。
+    Titanic Dowl的操作系統之一。機師的神經訊號會被操縱服內的感測器讀取，而操作系統便會將訊號轉換為運動指令再傳達給機體。透過掃描神經訊號的操作系統，機動衛士便能穿上名為Titanic Dowl的裝甲，化身為戰場上的巨人士兵。
 
 <!-- end list -->
 
@@ -120,8 +109,7 @@ Master－－玲音。
 <!-- end list -->
 
   -
-    正式名稱為「**A**ll **R**ange **E**scort-fighter **C**ontrolled by
-    **T**elepathy **Or**der」，是一種基本形狀為扁平三角椎、以遠距感應力操控的支援型無人戰鬥機。
+    正式名稱為「**A**ll **R**ange **E**scort-fighter **C**ontrolled by **T**elepathy **Or**der」，是一種基本形狀為扁平三角椎、以遠距感應力操控的支援型無人戰鬥機。
     操縱手會於指揮母機上操控機體。平均每名操縱手只能操控一台ARECTOR，熟練的操縱手能同時操控二至四台ARECTOR。
     大氣層內外皆能使用。由於ARECTOR體積較小，所能裝載的兵器尺寸相當有限。主武裝為線圈機炮。
 
@@ -180,9 +168,7 @@ Master－－玲音。
 
 ## 外部連結
 
-[分類:日本科幻小說](https://zh.wikipedia.org/wiki/分類:日本科幻小說 "wikilink")
-[分類:2014年小說](https://zh.wikipedia.org/wiki/分類:2014年小說 "wikilink")
-[分類:電擊文庫](https://zh.wikipedia.org/wiki/分類:電擊文庫 "wikilink")
+[分類:日本科幻小說](https://zh.wikipedia.org/wiki/分類:日本科幻小說 "wikilink") [分類:2014年小說](https://zh.wikipedia.org/wiki/分類:2014年小說 "wikilink") [分類:電擊文庫](https://zh.wikipedia.org/wiki/分類:電擊文庫 "wikilink")
 
 [Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink")
 

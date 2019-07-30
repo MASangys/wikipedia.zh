@@ -38,8 +38,7 @@
 
 ## 參考文獻
 
-[Category:Mega_Drive游戏](https://zh.wikipedia.org/wiki/Category:Mega_Drive游戏 "wikilink")
-[Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink")
+[Category:Mega_Drive游戏](https://zh.wikipedia.org/wiki/Category:Mega_Drive游戏 "wikilink") [Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink")
 
 1.
 

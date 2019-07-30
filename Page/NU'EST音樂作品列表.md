@@ -1,19 +1,16 @@
-NU'EST音樂作品列表主要列舉韓國男子音樂組合[NU'EST及其子團歷年參與詞曲創作歌曲及發行之各類音樂](../Page/NU'EST.md "wikilink")、影音作品。
+NU'EST音樂作品列表主要列舉韓國男子音樂組合[NU'EST](../Page/NU'EST.md "wikilink")及其子團歷年參與詞曲創作歌曲及發行之各類音樂、影音作品。
 
 ## NU'EST
 
 ### 韓語作品
 
   -
-    <small>成員旼炫於[Wanna
-    One時期作品](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")，請參閱：[Wanna
-    One\#音樂作品](https://zh.wikipedia.org/wiki/Wanna_One#音樂作品 "wikilink")
+    <small>成員旼炫於[Wanna One時期作品](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")，請參閱：[Wanna One\#音樂作品](https://zh.wikipedia.org/wiki/Wanna_One#音樂作品 "wikilink")
 
 <!-- end list -->
 
-  - [韓國唱片銷售量及相關排行榜以韓國政府承認的音樂排行榜](https://zh.wikipedia.org/wiki/韓國 "wikilink")《[Gaon
-    Chart](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")》公佈的數據為準。
-  - [日本唱片銷售量以日本影响力最大的唱片排行榜](../Page/日本.md "wikilink")《[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")》公佈的數據為準。</small>
+  - [韓國唱片銷售量及相關排行榜以韓國政府承認的音樂排行榜](https://zh.wikipedia.org/wiki/韓國 "wikilink")《[Gaon Chart](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")》公佈的數據為準。
+  - [日本](../Page/日本.md "wikilink")唱片銷售量以日本影响力最大的唱片排行榜《[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")》公佈的數據為準。</small>
 
 #### 正規專輯
 
@@ -1469,9 +1466,7 @@ World</a><br />
 
 ## 參考資料
 
-[Category:NU'EST](https://zh.wikipedia.org/wiki/Category:NU'EST "wikilink")
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
-[Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
+[Category:NU'EST](https://zh.wikipedia.org/wiki/Category:NU'EST "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.
 2.

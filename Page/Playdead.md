@@ -50,15 +50,8 @@ Xbox 360版由<a href="https://zh.wikipedia.org/wiki/微软工作室" title="wik
 ## 外部链接
 
   -
-[Category:2006年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2006年開業電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:丹麥電子遊戲公司](https://zh.wikipedia.org/wiki/Category:丹麥電子遊戲公司 "wikilink")
+[Category:2006年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2006年開業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:丹麥電子遊戲公司](https://zh.wikipedia.org/wiki/Category:丹麥電子遊戲公司 "wikilink")
 
-1.  [Somerville is the first game from ex-Playdead CEO’s new
-    studio](https://www.polygon.com/2017/6/27/15879648/somerville-jumpship-chris-olsen-dino-patti).Polygon.2017-06-27.\[2017-06-28\].
-2.  [LIMBO on Double
-    Eleven](https://www.double11.com/game/limbo/).Double
-    Eleven.\[2016-06-30\].
-3.  [LIMBO on
-    gameinformer](https://www.gameinformer.com/games/limbo/b/xbox360/default.aspx)
-    .gameinformer.\[2016-06-30\].
+1.  [Somerville is the first game from ex-Playdead CEO’s new studio](https://www.polygon.com/2017/6/27/15879648/somerville-jumpship-chris-olsen-dino-patti).Polygon.2017-06-27.\[2017-06-28\].
+2.  [LIMBO on Double Eleven](https://www.double11.com/game/limbo/).Double Eleven.\[2016-06-30\].
+3.  [LIMBO on gameinformer](https://www.gameinformer.com/games/limbo/b/xbox360/default.aspx) .gameinformer.\[2016-06-30\].

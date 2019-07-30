@@ -1,10 +1,8 @@
-**Bitstamp**是一家位于卢森堡的比特币交易所，按交易量统计截至2016年是世界第二大交易所。\[1\]
-中国大陆网民戏称之为“邮局”。该平台经营[美元和](../Page/美元.md "wikilink")[比特币现货交易](../Page/比特币.md "wikilink")，可存入或取出[美元](../Page/美元.md "wikilink")、[欧元](../Page/欧元.md "wikilink")、[比特币](../Page/比特币.md "wikilink")、[莱特币](../Page/莱特币.md "wikilink")、[瑞波币等](https://zh.wikipedia.org/wiki/瑞波币 "wikilink")。
+**Bitstamp**是一家位于卢森堡的比特币交易所，按交易量统计截至2016年是世界第二大交易所。\[1\] 中国大陆网民戏称之为“邮局”。该平台经营[美元](../Page/美元.md "wikilink")和[比特币](../Page/比特币.md "wikilink")现货交易，可存入或取出[美元](../Page/美元.md "wikilink")、[欧元](../Page/欧元.md "wikilink")、[比特币](../Page/比特币.md "wikilink")、[莱特币](../Page/莱特币.md "wikilink")、[瑞波币等](https://zh.wikipedia.org/wiki/瑞波币 "wikilink")。
 
 ## 历史
 
-Bitstamp由比特社区的名人Nejc Kodrič和Damijan Merlak在2011年8月创办于Damijan
-Merlak的故乡[斯洛文尼亚](../Page/斯洛文尼亚.md "wikilink")，其后于2013年1月搬迁至英国，2016年搬迁至卢森堡。\[2\]
+Bitstamp由比特社区的名人Nejc Kodrič和Damijan Merlak在2011年8月创办于Damijan Merlak的故乡[斯洛文尼亚](../Page/斯洛文尼亚.md "wikilink")，其后于2013年1月搬迁至英国，2016年搬迁至卢森堡。\[2\]
 
 ## 服务中断
 
@@ -18,8 +16,7 @@ Merlak的故乡[斯洛文尼亚](../Page/斯洛文尼亚.md "wikilink")，其后
 
   - [Official website](https://www.bitstamp.net)
 
-[Category:比特币交易平台](https://zh.wikipedia.org/wiki/Category:比特币交易平台 "wikilink")
-[Category:2011年成立的公司](https://zh.wikipedia.org/wiki/Category:2011年成立的公司 "wikilink")
+[Category:比特币交易平台](https://zh.wikipedia.org/wiki/Category:比特币交易平台 "wikilink") [Category:2011年成立的公司](https://zh.wikipedia.org/wiki/Category:2011年成立的公司 "wikilink")
 
 1.
 2.

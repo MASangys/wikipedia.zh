@@ -4,7 +4,6 @@
 
 ## 外部連結
 
-[Category:羅馬交通](https://zh.wikipedia.org/wiki/Category:羅馬交通 "wikilink")
-[Category:1955年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1955年啟用的鐵路線 "wikilink")
+[Category:羅馬交通](https://zh.wikipedia.org/wiki/Category:羅馬交通 "wikilink") [Category:1955年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1955年啟用的鐵路線 "wikilink")
 
 1.  <http://www.agenzia.roma.it/documenti/carta_servizi/40.pdf>

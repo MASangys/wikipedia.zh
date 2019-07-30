@@ -1,4 +1,4 @@
-**布萊頓線**（），又稱「布萊頓海灘線」（）\[1\]，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[布魯克林區](https://zh.wikipedia.org/wiki/布魯克林區 "wikilink")[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵路線](../Page/地鐵.md "wikilink")。任何時候都有[Q線慢車停靠](../Page/紐約地鐵Q線.md "wikilink")，而平日還有[B線快車營運](../Page/紐約地鐵B線.md "wikilink")。Q線在布萊頓線在路線的南端[康尼島-斯提威爾大道開始](https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站_\(BMT布萊頓線\) "wikilink")，行駛全線，通過[曼哈頓大橋南側軌道進入](../Page/曼哈頓大橋.md "wikilink")[BMT百老匯線](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")。B線在[布萊頓海灘開始](https://zh.wikipedia.org/wiki/布萊頓海灘車站_\(BMT布萊頓線\) "wikilink")，途經大橋北側軌道進入[IND第六大道線](../Page/IND第六大道線.md "wikilink")。
+**布萊頓線**（），又稱「布萊頓海灘線」（）\[1\]，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[布魯克林區](https://zh.wikipedia.org/wiki/布魯克林區 "wikilink")[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵](../Page/地鐵.md "wikilink")路線。任何時候都有[Q線慢車停靠](../Page/紐約地鐵Q線.md "wikilink")，而平日還有[B線快車營運](../Page/紐約地鐵B線.md "wikilink")。Q線在布萊頓線在路線的南端[康尼島-斯提威爾大道開始](https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站_\(BMT布萊頓線\) "wikilink")，行駛全線，通過[曼哈頓大橋](../Page/曼哈頓大橋.md "wikilink")南側軌道進入[BMT百老匯線](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")。B線在[布萊頓海灘開始](https://zh.wikipedia.org/wiki/布萊頓海灘車站_\(BMT布萊頓線\) "wikilink")，途經大橋北側軌道進入[IND第六大道線](../Page/IND第六大道線.md "wikilink")。
 
 ## 服務頻率
 
@@ -33,11 +33,9 @@
 
 ## 距離標識
 
-全線布萊頓線（除[富蘭克林大道接駁線外](../Page/富蘭克林大道接駁線.md "wikilink")）被為「BMT
-A」\[3\]。這與布萊頓線的服務路線沒有關係。
+全線布萊頓線（除[富蘭克林大道接駁線](../Page/富蘭克林大道接駁線.md "wikilink")外）被為「BMT A」\[3\]。這與布萊頓線的服務路線沒有關係。
 
-零點是「BMT
-Southern」，位於[BMT百老匯線途經曼哈頓大橋到](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")[57街-第七大道車站以北](https://zh.wikipedia.org/wiki/57街-第七大道車站_\(BMT百老匯線\) "wikilink")。布萊頓線在[德卡爾布大道車站開始向南標示](https://zh.wikipedia.org/wiki/德卡爾布大道車站_\(BMT布萊頓線\) "wikilink")\[4\]。
+零點是「BMT Southern」，位於[BMT百老匯線途經曼哈頓大橋到](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")[57街-第七大道車站以北](https://zh.wikipedia.org/wiki/57街-第七大道車站_\(BMT百老匯線\) "wikilink")。布萊頓線在[德卡爾布大道車站開始向南標示](https://zh.wikipedia.org/wiki/德卡爾布大道車站_\(BMT布萊頓線\) "wikilink")\[4\]。
 
 布萊頓線軌道編號如下\[5\]：
 
@@ -82,7 +80,7 @@ Southern」，位於[BMT百老匯線途經曼哈頓大橋到](https://zh.wikiped
 <tr class="odd">
 <td><p>以開始[6]（）<br />
 <a href="https://zh.wikipedia.org/wiki/BMT百老匯線" title="wikilink">BMT百老匯線快車軌道途經</a><a href="../Page/曼哈頓大橋.md" title="wikilink">曼哈頓大橋</a>（）<br />
-及<a href="../Page/IND第六大道線.md" title="wikilink">IND第六大道線快車軌道途經</a><a href="../Page/曼哈頓大橋.md" title="wikilink">曼哈頓大橋</a>（）。</p></td>
+及<a href="../Page/IND第六大道線.md" title="wikilink">IND第六大道線</a>快車軌道途經<a href="../Page/曼哈頓大橋.md" title="wikilink">曼哈頓大橋</a>（）。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -350,8 +348,7 @@ Southern」，位於[BMT百老匯線途經曼哈頓大橋到](https://zh.wikiped
 ## 外部連結
 
   -
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1878年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1878年啟用的鐵路線 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1878年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1878年啟用的鐵路線 "wikilink")
 
 1.
 

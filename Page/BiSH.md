@@ -1,5 +1,5 @@
-BiSH（ビッシュ）是日本的音樂團體、女子偶像組合、「不演奏樂器的龐克樂隊」、[日本新生](../Page/日本.md "wikilink")[糞便偶像](../Page/糞便.md "wikilink")\[1\]。
-2015年結成。隸屬於WACK。唱片公司為avex trax。
+BiSH（ビッシュ）是日本的音樂團體、[日本](../Page/日本.md "wikilink")的[女子偶像團體](../Page/偶像_\(日本\).md "wikilink")、「不演奏樂器的龐克樂隊」、[日本](../Page/日本.md "wikilink")新生[糞便](../Page/糞便.md "wikilink")偶像\[1\]。
+2015年結成。隸屬於WACK。唱片公司為avex trax。他們的粉絲被官方稱為「清掃員」。
 
 ## 概要
 
@@ -15,10 +15,8 @@ BiSH（ビッシュ）是日本的音樂團體、女子偶像組合、「不演�
 
 ### 2019年
 
-  - 1月3日 –
-    [赤坂BLITZ舉行](../Page/赤坂BLITZ.md "wikilink")「WACKなりの甲子園」，同時宣佈「WACK合宿型徵選2019」的公布，而BiSH一同參與，最後決定由AYUNi
-    D參加。
-  - 3月26日 –3月30日 – AYUNi D將作為導師參加「WACK合宿型徵選2019」。
+  - 1月3日 – [赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")舉行「WACKなりの甲子園」，同時宣佈「WACK合宿型徵選2019」的公布，而BiSH一同參與，最後決定由アユニ・D參加。
+  - 3月26日 –3月30日 – アユニ・D將作為導師參加「WACK合宿型徵選2019」。
 
 ## 成員
 
@@ -37,67 +35,66 @@ BiSH（ビッシュ）是日本的音樂團體、女子偶像組合、「不演�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>千與千尋Chittiii</p></td>
-<td></td>
+<td><p>セントチヒロ・チッチ</p></td>
+<td><p>5 月 8 日</p></td>
 <td><p>東京都八王子市</p></td>
-<td><p>本名為蒼井ちひろ<br />
-是BiSH的隊長亦是創始成員<br />
-是前HOLY SHiTS的成員。</p></td>
-<td><p>看起來很嚴肅，是惡女<br />
-即使這樣，也只有兩個男朋友<br />
-我的妹妹哪有這麼可愛（2015-2016）</p></td>
+<td><p>是創始成員<br />
+亦是<a href="../Page/HOLY_SHiTS.md" title="wikilink">HOLY SHiTS的成員</a></p></td>
+<td><p>見た目は真面目、中身は悪女<br />
+これでも彼氏は2人まで<br />
+僕の妹がこんなに<br />
+可愛いわけがない（2015-2016）</p></td>
 <td><p><span style="color:#85C1E9"><strong>■</strong></span> 淺藍色</p></td>
 </tr>
 <tr class="even">
-<td><p>AiNA THE END</p></td>
-<td></td>
+<td><p>アイナ・ジ・エンド</p></td>
+<td><p>12 月 27 日</p></td>
 <td><p>大阪府豊中市</p></td>
-<td><p>本名為飯谷愛菜<br />
-是創始成員<br />
+<td><p>是創始成員<br />
 舞蹈指導<br />
-是<a href="../Page/SAiNT_SEX.md" title="wikilink">SAiNT SEX的成員</a>。</p></td>
-<td><p>禮儀師</p></td>
+亦是<a href="../Page/SAiNT_SEX.md" title="wikilink">SAiNT SEX和</a>的成員<br />
+</p></td>
+<td><p>おくりびと</p></td>
 <td><p><span style="color:#E74C3C"><strong>■</strong></span> 紅色</p></td>
 </tr>
 <tr class="odd">
-<td><p>Momoko Gummy Company</p></td>
-<td><p>9月4日</p></td>
+<td><p>モモコグミカンパニー</p></td>
+<td><p>9 月 4 日</p></td>
 <td><p>東京都</p></td>
 <td><p>是創始成員</p></td>
-<td><p>天邪鬼</p></td>
+<td><p>あまのじゃく</p></td>
 <td><p><span style="color:#F7DC6F"><strong>■</strong></span> 黃色</p></td>
 </tr>
 <tr class="even">
-<td><p>小吃ATSUKO</p></td>
-<td></td>
+<td><p>ハシヤスメ・アツコ</p></td>
+<td><p>9 月 27 日</p></td>
 <td><p>福岡縣</p></td>
-<td><p>本名為倉本あおい<br />
-是創始成員<br />
+<td><p>是2015年追加成員<br />
 2015年8月開始活動<br />
-是現任成員中最年長。</p></td>
-<td><p>眼鏡</p></td>
+是現任成員中最年長</p></td>
+<td><p>メガネ</p></td>
 <td><p><span style="color:#A569BD"><strong>■</strong></span> 紫色</p></td>
 </tr>
 <tr class="odd">
-<td><p>LiNG LiNG</p></td>
-<td></td>
+<td><p>リンリン</p></td>
+<td><p>3 月 9 日</p></td>
 <td><p>靜岡縣[2]</p></td>
-<td><p>是創始成員<br />
-2015年8月開始活動。</p></td>
+<td><p>是2015年追加成員<br />
+2015年8月開始活動</p></td>
 <td><p>無口</p></td>
 <td><p><span style="color:#FF69B4"><strong>■</strong></span> 粉紅色<br />
 <span style="color:#FFFFFF"><strong>■</strong></span> 白色（2015-2016）</p></td>
 </tr>
 <tr class="even">
-<td><p>AYUNi D</p></td>
-<td></td>
-<td><p>北海道</p></td>
-<td><p>本名為伊藤亜佑子<br />
-是追加成員<br />
-2016年8月開始活動。<br />
-是<a href="../Page/SAiNT_SEX.md" title="wikilink">SAiNT SEX的成員</a>。<br />
-並從千與千尋Chittiii那裡偷了担当和LiNG LiNG的那裡繼承了白色。</p></td>
-<td><p>我的妹妹哪有這麼可愛</p></td>
+<td><p>アユニ・D</p></td>
+<td><p>10 月 12 日</p></td>
+<td><p>北海道札幌市</p></td>
+<td><p>是2016年追加成員<br />
+2016年8月開始活動<br />
+亦是<a href="../Page/SAiNT_SEX.md" title="wikilink">SAiNT SEX和</a>的成員<br />
+從セントチヒロ・チッチ那裡偷了担当，並從リンリン那裡繼承了白色</p></td>
+<td><p>僕の妹がこんなに<br />
+可愛いわけがない</p></td>
 <td><p><span style="color:#FFFFFF"><strong>■</strong></span> 白色</p></td>
 </tr>
 </tbody>
@@ -118,26 +115,25 @@ BiSH（ビッシュ）是日本的音樂團體、女子偶像組合、「不演�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Yashiro Yuka</p></td>
+<td><p>ヤシロユカ</p></td>
 <td><p>3月18日</p></td>
 <td></td>
-<td><p>是創始成員<br />
+<td><p>創始成員<br />
 但在正式登場之前退出<br />
 亦是BiSH任期最短的成員。<br />
-是BiSH第一個離開的成員。</p></td>
+BiSH第一個離開的成員。</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Hug Me</p></td>
+<td><p>ハグ・ミィ</p></td>
 <td></td>
 <td></td>
-<td><p>本名為雨谷碧莉<br />
-是創始成員<br />
-2016年於6月2日在BiSH和畢業。<br />
+<td><p>創始成員<br />
+2016年於6月2日在BiSH和<a href="../Page/WACK.md" title="wikilink">WACK</a>畢業。<br />
 畢業後，將粉紅色送到LiNG LiNG。<br />
 是前任成員中最年長。</p></td>
-<td><p>難以忍受的成熟女人</p></td>
+<td><p>あぶない熟女</p></td>
 <td><p><span style="color:#FF69B4"><strong>■</strong></span> 粉紅色（2015-2016）</p></td>
 </tr>
 </tbody>
@@ -1150,14 +1146,9 @@ BiSH（ビッシュ）是日本的音樂團體、女子偶像組合、「不演�
 
 ### 書籍
 
-  - 『BiSH / ALL YOU NEED is BAND
-    SCORE\!\!』（2017年7月25日、リットーミュージック|リットーミュージック、[ISBN
-    978-4-8456-3076-9](https://zh.wikipedia.org/wiki/:ja:特別:文献資料/9784845630769 "wikilink")）
-  - Momoko Gummy
-    Company『目を合わせるということ』（2018年3月7日、シンコーミュージック・エンタテイメント|シンコーミュージック・エンタテイメント、[ISBN
-    978-4-4016-4573-2](https://zh.wikipedia.org/wiki/:ja:特別:文献資料/9784401645732 "wikilink")）
-  - 『BiSHぴあ』（2018年5月22日、ぴあ|ぴあ、[ISBN
-    978-4-8356-3456-2](https://zh.wikipedia.org/wiki/:ja:特別:文献資料/9784835634562 "wikilink")）
+  - 『BiSH / ALL YOU NEED is BAND SCORE\!\!』（2017年7月25日、リットーミュージック|リットーミュージック、[ISBN 978-4-8456-3076-9](https://zh.wikipedia.org/wiki/:ja:特別:文献資料/9784845630769 "wikilink")）
+  - Momoko Gummy Company『目を合わせるということ』（2018年3月7日、シンコーミュージック・エンタテイメント|シンコーミュージック・エンタテイメント、[ISBN 978-4-4016-4573-2](https://zh.wikipedia.org/wiki/:ja:特別:文献資料/9784401645732 "wikilink")）
+  - 『BiSHぴあ』（2018年5月22日、ぴあ|ぴあ、[ISBN 978-4-8356-3456-2](https://zh.wikipedia.org/wiki/:ja:特別:文献資料/9784835634562 "wikilink")）
 
 ## 商業合作
 
@@ -1174,6 +1165,7 @@ BiSH（ビッシュ）是日本的音樂團體、女子偶像組合、「不演�
 | HiDE the BLUE     | [日本電視台](../Page/日本電視台.md "wikilink") 動畫『[三次元女友](https://zh.wikipedia.org/wiki/三次元女友 "wikilink")』片尾曲                                                   |                                                               |
 | 透明なままでゆけ。         | 麒麟飲料 KIRIN LEMON「透明なままでゆけ。」篇 廣告歌                                                                                                                      | 單曲「Life is beautiful / HiDE the BLUE」初回生産限定盤 SPECiAL BONUS CD |
 | それぞれの夢            | LEOPALACE21 愛上leopalac 5th season 「デートのお誘い/Wi-Fi篇」「花火大会/セキュリティ篇」 廣告歌                                                                                  |                                                               |
+| MORE THAN LiKE    | [東京電視台](../Page/東京電視台.md "wikilink") 動畫『[妖精的尾巴](https://zh.wikipedia.org/wiki/妖精的尾巴 "wikilink")』主題曲                                                   | 专辑「CARROTS and STiCKS」                                        |
 
 ## 演出・活動
 
@@ -1326,8 +1318,7 @@ BiSH（ビッシュ）是日本的音樂團體、女子偶像組合、「不演�
   - キューン\!（2017年8月2日 読売電視台）
   - スッキリ（2017年7月19日 日本電視台）
   - チュートリアルの徳ダネ福キタル♪（2017年9月8日 スペースシャワーTV）
-  - MTV LIVE: BiSH NEVERMiND TOUR RELOADED THE FiNAL
-    "REVOLUTiONS"（2017年9月18日 MTV）
+  - MTV LIVE: BiSH NEVERMiND TOUR RELOADED THE FiNAL "REVOLUTiONS"（2017年9月18日 MTV）
   - TOKUFUKU LIVE Connect \! Vol.2（2017年11月18日 スペースシャワーTVプラス）
   - BiSH VideoSelects（2017年11月28日 日本電視台）
   - スッキリ（2017年11月29日 日本電視台）現場演出
@@ -1342,8 +1333,7 @@ BiSH（ビッシュ）是日本的音樂團體、女子偶像組合、「不演�
 
 ### 電台
 
-  - GIRLS♥GIRLS♥GIRLS =FULL BOOST= ATTACK OF THE KILLER BiSH（2016年10月5日
-    - 、FM FUJI）
+  - GIRLS♥GIRLS♥GIRLS =FULL BOOST= ATTACK OF THE KILLER BiSH（2016年10月5日 - 、FM FUJI）
   - RADIO GROOVE(ラジグル)（2017年1月16日 FM NORTH WAVE）現場演出
   - ナガオカ×スクランブル（2017年3月21日 CBCラジオ）
   - よしもとラジオ高校〜らじこー（2016年10月25日、2017年3月21日、2017年6月27日 FM OSAKA）
@@ -1387,8 +1377,7 @@ BiSH（ビッシュ）是日本的音樂團體、女子偶像組合、「不演�
   - IDOL AND READ 007（2016年7月6日）
   - 「週刊プレイボーイ」（2015年7月26日、集英社）
   - 「週刊ビッグコミックスピリッツ」21号（2016年4月18日、小学館）
-  - 「ナツ☆イチッ！ 〜この夏、輝くアイドル全員集合〜 | 週刊プレイボーイ×TOKYO IDOL
-    FESTIVAL2016　公式BOOK」（2016年7月25日、集英社）
+  - 「ナツ☆イチッ！ 〜この夏、輝くアイドル全員集合〜 | 週刊プレイボーイ×TOKYO IDOL FESTIVAL2016　公式BOOK」（2016年7月25日、集英社）
   - Skream\!マガジン9月（2016年9月1日）
   - 2YOU MAGAZINE（2016年9月1日）
   - FLYING POSTMAN PRESS（2016年9月20日）
@@ -1413,8 +1402,7 @@ BiSH（ビッシュ）是日本的音樂團體、女子偶像組合、「不演�
   - タワーレコード\#bounce|bounce 7月号（2017年6月27日）
   - 2YOU MAGAZINE 7月号（2017年7月1日）
   - \+act12月号（2017年11月10日）
-  - GIRLS・GIRLS・GIRLS|GIRLS・GIRLS・GIRLS =FULL BOOST= ATTACK OF THE
-    KILLER BiSH （ja:エフエム富士|FM-FUJI 2016年10月5日 - ）
+  - GIRLS・GIRLS・GIRLS|GIRLS・GIRLS・GIRLS =FULL BOOST= ATTACK OF THE KILLER BiSH （ja:エフエム富士|FM-FUJI 2016年10月5日 - ）
 
 ### 新聞
 
@@ -1436,8 +1424,7 @@ BiSH（ビッシュ）是日本的音樂團體、女子偶像組合、「不演�
   -
   -
   -
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
+[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
 
 1.  團體名稱來自Brand-new Idol SHit (新生クソアイドル)
 2.  <https://twitter.com/liNGliNG_BiSH/status/1098188600686989313>

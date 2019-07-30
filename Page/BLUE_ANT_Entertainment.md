@@ -1,6 +1,4 @@
-**-{zh-tw:BLUE ANT娛樂台;zh-hk:BLUE ANT綜藝娛樂}-**（）為一東南亞地區英語綜合娛樂電視頻道，由Blue
-Ant Media所有。\[1\]
-電視頻道於2013年9月開始發送，並以[高畫質播出](https://zh.wikipedia.org/wiki/高清電視 "wikilink")。[臺灣地區於](../Page/中華民國.md "wikilink")2018年1月9日下架頻道，其後經NCC再次批准。
+**-{zh-tw:BLUE ANT娛樂台;zh-hk:BLUE ANT綜藝娛樂}-**（）為一東南亞地區英語綜合娛樂電視頻道，由Blue Ant Media所有。\[1\] 電視頻道於2013年9月開始發送，並以[高畫質播出](https://zh.wikipedia.org/wiki/高清電視 "wikilink")。[臺灣地區於](../Page/中華民國.md "wikilink")2018年1月9日下架頻道，其後經NCC再次批准。
 
 ## 综艺节目
 
@@ -79,24 +77,12 @@ Ant Media所有。\[1\]
 
 ## 外部連結
 
-  - [BLUE ANT Entertainment - 頻道 - now
-    TV](http://nowtv.now.com/channel/517)
-  - [BLUE ANT Entertainment - 頻道 -
-    i-cable](http://epg.i-cable.com/new/ch_content.php?ch=317)
-  - [BLUE ANT Entertainment - 頻道 -
-    i-cable](http://www.cabletv.com.hk/ct/cabletv.php?id=11&cid=172)
-  - [BLUE ANT Entertainment - 頻道 - myTV
-    SUPER](http://www.mytvsuper.com/tc/epg/CRTE)
-  - [BLUE ANT Entertainment - 頻道 -
-    MOD](http://mod.cht.com.tw/tv/channel.php?id=384)
+  - [BLUE ANT Entertainment - 頻道 - now TV](http://nowtv.now.com/channel/517)
+  - [BLUE ANT Entertainment - 頻道 - i-cable](http://epg.i-cable.com/new/ch_content.php?ch=317)
+  - [BLUE ANT Entertainment - 頻道 - i-cable](http://www.cabletv.com.hk/ct/cabletv.php?id=11&cid=172)
+  - [BLUE ANT Entertainment - 頻道 - myTV SUPER](http://www.mytvsuper.com/tc/epg/CRTE)
+  - [BLUE ANT Entertainment - 頻道 - MOD](http://mod.cht.com.tw/tv/channel.php?id=384)
 
-[Category:CBS公司](https://zh.wikipedia.org/wiki/Category:CBS公司 "wikilink")
-[Category:香港電視台](https://zh.wikipedia.org/wiki/Category:香港電視台 "wikilink")
-[Category:2013年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2013年成立的電視台或電視頻道 "wikilink")
+[Category:CBS公司](https://zh.wikipedia.org/wiki/Category:CBS公司 "wikilink") [Category:香港電視台](https://zh.wikipedia.org/wiki/Category:香港電視台 "wikilink") [Category:2013年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2013年成立的電視台或電視頻道 "wikilink")
 
-1.  ["RTL Group and CBS Studios International announce plans for new
-    venture to launch two new television channels in
-    Asia."](http://www.rtlgroup.com/www/htm/pressrelease_AECC9A9BC25A4B9DB16C36DD603AB93C.aspx),
-    *[RTL Group](https://zh.wikipedia.org/wiki/RTL_Group "wikilink")*,
-    Luxembourg/Los Angeles/Singapore, August 13, 2013. Retrieved on
-    August 13, 2013.
+1.  ["RTL Group and CBS Studios International announce plans for new venture to launch two new television channels in Asia."](http://www.rtlgroup.com/www/htm/pressrelease_AECC9A9BC25A4B9DB16C36DD603AB93C.aspx), *[RTL Group](https://zh.wikipedia.org/wiki/RTL_Group "wikilink")*, Luxembourg/Los Angeles/Singapore, August 13, 2013. Retrieved on August 13, 2013.

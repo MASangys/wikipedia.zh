@@ -13,8 +13,7 @@ RE:BIRTH</p></td>
 </tbody>
 </table>
 
-《**Ghost
-RE:BIRTH**》（）是特摄片《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》衍生的[錄影帶首映故事系列作品](https://zh.wikipedia.org/wiki/錄影帶首映 "wikilink")，**東映VCINEMA**的名義系列商品之一。为平成[假面骑士系列繼](https://zh.wikipedia.org/wiki/假面骑士系列 "wikilink")《[假面骑士W](https://zh.wikipedia.org/wiki/假面骑士W "wikilink")》及《[假面骑士鎧武](https://zh.wikipedia.org/wiki/假面骑士鎧武 "wikilink")》及《[假面骑士Drive](https://zh.wikipedia.org/wiki/假面骑士Drive "wikilink")》後第四系列[錄影帶首映作品](https://zh.wikipedia.org/wiki/錄影帶首映 "wikilink")。
+《**Ghost RE:BIRTH**》（）是特摄片《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》衍生的[錄影帶首映故事系列作品](https://zh.wikipedia.org/wiki/錄影帶首映 "wikilink")，**東映VCINEMA**的名義系列商品之一。为平成[假面骑士系列繼](https://zh.wikipedia.org/wiki/假面骑士系列 "wikilink")《[假面骑士W](https://zh.wikipedia.org/wiki/假面骑士W "wikilink")》及《[假面骑士鎧武](https://zh.wikipedia.org/wiki/假面骑士鎧武 "wikilink")》及《[假面骑士Drive](https://zh.wikipedia.org/wiki/假面骑士Drive "wikilink")》後第四系列[錄影帶首映作品](https://zh.wikipedia.org/wiki/錄影帶首映 "wikilink")。
 
 ## 《假面騎士Specter》
 
@@ -39,8 +38,7 @@ RE:BIRTH**》（）是特摄片《[假面騎士Ghost](../Page/假面騎士Ghost.
 **克蘿艾（）**（飾）
 
   -
-    拿著鐵鏈並穿著黑色服裝的少女，誠的另一妹妹，丹通的女兒。在小說版《假面騎士Ghost
-    〜向未來的記憶〜》中成為尊的妻子，誕下兒子天空寺步夢。
+    拿著鐵鏈並穿著黑色服裝的少女，誠的另一妹妹，丹通的女兒。在小說版《假面騎士Ghost 〜向未來的記憶〜》中成為尊的妻子，誕下兒子天空寺步夢。
 
 ### 本作登場假面騎士
 
@@ -212,8 +210,7 @@ Ghost驅動器使用時音效為「Pride！Greed！Lust！Wrath！Envy！Glutton
 
 ### 演員
 
-  - 深海誠 / 假面騎士Specter / 假面騎士 Deep Specter / 假面騎士 Sin Specter -
-    [山本涼介](../Page/山本涼介.md "wikilink") 飾 / 聲
+  - 深海誠 / 假面騎士Specter / 假面騎士 Deep Specter / 假面騎士 Sin Specter - [山本涼介](../Page/山本涼介.md "wikilink") 飾 / 聲
   - 亞蘭 / 假面騎士Necrom - [磯村勇斗](../Page/磯村勇斗.md "wikilink") 飾 / 聲
   - 月村朱里 - [大澤光](../Page/大澤光.md "wikilink") 飾
   - 山之內御成 - [柳喬之](../Page/柳喬之.md "wikilink") 飾
@@ -250,10 +247,7 @@ Ghost驅動器使用時音效為「Pride！Greed！Lust！Wrath！Envy！Glutton
   -
 ## 參考資料
 
-[Category:2017年日本剧场动画](https://zh.wikipedia.org/wiki/Category:2017年日本剧场动画 "wikilink")
-[Category:日本电影作品](https://zh.wikipedia.org/wiki/Category:日本电影作品 "wikilink")
-[Category:日语电影](https://zh.wikipedia.org/wiki/Category:日语电影 "wikilink")
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
+[Category:2017年日本剧场动画](https://zh.wikipedia.org/wiki/Category:2017年日本剧场动画 "wikilink") [Category:日本电影作品](https://zh.wikipedia.org/wiki/Category:日本电影作品 "wikilink") [Category:日语电影](https://zh.wikipedia.org/wiki/Category:日语电影 "wikilink") [Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
 
 1.
 2.

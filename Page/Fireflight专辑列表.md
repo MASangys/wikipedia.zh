@@ -1,5 +1,4 @@
-[基督搖滾樂團](https://zh.wikipedia.org/wiki/基督搖滾 "wikilink")**[Fireflight](../Page/Fireflight.md "wikilink")**
-的唱片包含1張獨立專輯、5張錄音室專輯、2張獨立迷你專輯和17張單曲。
+[基督搖滾樂團](https://zh.wikipedia.org/wiki/基督搖滾 "wikilink")**[Fireflight](../Page/Fireflight.md "wikilink")** 的唱片包含1張獨立專輯、5張錄音室專輯、2張獨立迷你專輯和17張單曲。
 
 ## 專輯
 
@@ -7,15 +6,11 @@
 
 #### Glam-rök
 
-發行於2002年，*Glam-rök*
-是[基督搖滾樂團](https://zh.wikipedia.org/wiki/基督搖滾 "wikilink")**[Fireflight](../Page/Fireflight.md "wikilink")**
-的第一張專輯。由之後的主音吉他手Justin Cox 製作。在曲風上專輯和之後的作品不太相同。
+發行於2002年，*Glam-rök* 是[基督搖滾樂團](https://zh.wikipedia.org/wiki/基督搖滾 "wikilink")**[Fireflight](../Page/Fireflight.md "wikilink")** 的第一張專輯。由之後的主音吉他手Justin Cox 製作。在曲風上專輯和之後的作品不太相同。
 
 #### On the Subject of Moving Forward
 
-*On the Subject of Moving Forward* 發行於2004年10月19日，是包含5首歌的迷你專輯。\[1\]
-其中"Liar" 這首歌，重新錄製於*[The Healing of
-Harms](../Page/The_Healing_of_Harms.md "wikilink")* 該張專輯。
+*On the Subject of Moving Forward* 發行於2004年10月19日，是包含5首歌的迷你專輯。\[1\] 其中"Liar" 這首歌，重新錄製於*[The Healing of Harms](../Page/The_Healing_of_Harms.md "wikilink")* 該張專輯。
 
 ### 錄音室專輯
 
@@ -180,8 +175,7 @@ Heat</a><br />
 
 ## 參考資料
 
-[Category:美國音樂專輯](https://zh.wikipedia.org/wiki/Category:美國音樂專輯 "wikilink")
-[Category:音樂專輯列表](https://zh.wikipedia.org/wiki/Category:音樂專輯列表 "wikilink")
+[Category:美國音樂專輯](https://zh.wikipedia.org/wiki/Category:美國音樂專輯 "wikilink") [Category:音樂專輯列表](https://zh.wikipedia.org/wiki/Category:音樂專輯列表 "wikilink")
 
 1.
 

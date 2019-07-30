@@ -1,5 +1,4 @@
-在[计算机编程中](../Page/程序设计.md "wikilink")，**await**是发现于[C\#5.0](../Page/C♯.md "wikilink")、Python3.5中、[Hack](https://zh.wikipedia.org/wiki/Hack_\(程式語言\) "wikilink")、Dart以及Kotlin
-1.1的一个特性。
+在[计算机编程中](../Page/程序设计.md "wikilink")，**await**是发现于[C\#5.0](../Page/C♯.md "wikilink")、Python3.5中、[Hack](https://zh.wikipedia.org/wiki/Hack_\(程式語言\) "wikilink")、Dart以及Kotlin 1.1的一个特性。
 
 ## 在C\#中的应用
 
@@ -21,10 +20,9 @@ public async Task<int> SumPageSizesAsync(IList<Uri> uris)
 }
 ```
 
-## 在[JavaScript中的使用](../Page/JavaScript.md "wikilink")
+## 在[JavaScript](../Page/JavaScript.md "wikilink")中的使用
 
-JavaScript中的await只能在异步方法（async
-function）中使用，用于等待一个[Promise对象](https://zh.wikipedia.org/wiki/Promise "wikilink")。当await接收到一个Promise对象时，await将等待Promise任务正常完成并返回其结果。若await接收到的不是Promise，await会把该其值转换为已正常处理的Promise，然后等待其工作完成。
+JavaScript中的await只能在异步方法（async function）中使用，用于等待一个[Promise对象](https://zh.wikipedia.org/wiki/Promise "wikilink")。当await接收到一个Promise对象时，await将等待Promise任务正常完成并返回其结果。若await接收到的不是Promise，await会把该其值转换为已正常处理的Promise，然后等待其工作完成。
 
 ``` javascript
 function resolveAfter2Seconds(x) {
@@ -46,5 +44,4 @@ f1();
 
 [Category:控制流程](https://zh.wikipedia.org/wiki/Category:控制流程 "wikilink")
 
-1.  [await（C\#
-    参考）](https://docs.microsoft.com/zh-cn/dotnet/csharp/language-reference/keywords/await#see-also)
+1.  [await（C\# 参考）](https://docs.microsoft.com/zh-cn/dotnet/csharp/language-reference/keywords/await#see-also)

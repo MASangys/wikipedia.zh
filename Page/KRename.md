@@ -1,7 +1,4 @@
-**KRename** 是一款可用于一次重命名多个文件及文件夹的 [KDE](../Page/KDE.md "wikilink")
-软件。许多使用
-[Plasma](https://zh.wikipedia.org/wiki/Plasma_\(KDE\) "wikilink")
-作为默认桌面环境的 Linux 发行版都包括该软件。
+**KRename** 是一款可用于一次重命名多个文件及文件夹的 [KDE](../Page/KDE.md "wikilink") 软件。许多使用 [Plasma](https://zh.wikipedia.org/wiki/Plasma_\(KDE\) "wikilink") 作为默认桌面环境的 Linux 发行版都包括该软件。
 
 ## 特性
 
@@ -21,9 +18,7 @@
   - 可更改文件的扩展名字
   - 可撤消命名
   - 可在批处理过程中对某些文件重新手动重命名
-  - 同
-    [Konqueror](../Page/Konqueror.md "wikilink")、[Krusader](https://zh.wikipedia.org/wiki/Krusader "wikilink")、[Dolphin](../Page/Dolphin_\(軟體\).md "wikilink")
-    相集成
+  - 同 [Konqueror](../Page/Konqueror.md "wikilink")、[Krusader](https://zh.wikipedia.org/wiki/Krusader "wikilink")、[Dolphin](../Page/Dolphin_\(軟體\).md "wikilink") 相集成
   - 使用 [JavaScript](../Page/JavaScript.md "wikilink") 脚本
   - 支持[转写](../Page/转写.md "wikilink")
 
@@ -34,6 +29,4 @@
 
 ## 参考文献
 
-[Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink")
-[Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")
-[Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink")
+[Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink") [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink") [Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink")

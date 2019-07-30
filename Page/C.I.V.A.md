@@ -1,5 +1,4 @@
-**C.I.V.A**（）是音樂人李尚民、卓在勳通過共同企劃的紀錄形綜藝節目《音樂之神》第二季組成企劃女子組合，成員包括演員[李秀敏與曾經參加](../Page/李秀敏_\(1984年\).md "wikilink")《[PRODUCE
-101](../Page/PRODUCE_101.md "wikilink")》的[金昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")、[尹彩暻](https://zh.wikipedia.org/wiki/尹彩暻 "wikilink")。
+**C.I.V.A**（）是音樂人李尚民、卓在勳通過共同企劃的紀錄形綜藝節目《音樂之神》第二季組成企劃女子組合，成員包括演員[李秀敏與曾經參加](../Page/李秀敏_\(1984年\).md "wikilink")《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》的[金昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")、[尹彩暻](https://zh.wikipedia.org/wiki/尹彩暻 "wikilink")。
 
 取名之原因為希望成員們能比「著名女歌唱家」（其英文寫法為[DIVA](https://zh.wikipedia.org/wiki/DIVA "wikilink")）還要更強，所以取名為「C.I.V.A.」,但因為在韓語與髒話發音相似，所以只能把字母分開拼讀。\[1\]
 
@@ -169,7 +168,7 @@ tagTV</p></td>
 
 | 年份                   | 品牌名稱                                                                         | 參與成員  |
 | -------------------- | ---------------------------------------------------------------------------- | ----- |
-| 2012年                | [任天堂](../Page/任天堂.md "wikilink")[WiiJust](../Page/Wii.md "wikilink") Dance 2 | 彩暻    |
+| 2012年                | [任天堂](../Page/任天堂.md "wikilink")[Wii](../Page/Wii.md "wikilink")Just Dance 2 | 彩暻    |
 | 2016年                | General Mills FRUIT BY THE FOOT                                              | 昭希、彩暻 |
 | Woman Stalk-C.I.V.A篇 | C.I.V.A                                                                      |       |
 
@@ -187,9 +186,7 @@ tagTV</p></td>
   -
   -
   -
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
+[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
 
 1.  《認識的哥哥》第35集
 2.

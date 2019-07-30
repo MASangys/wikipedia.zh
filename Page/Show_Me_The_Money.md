@@ -1,19 +1,14 @@
-**Show Me The
-Money**（）是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Mnet制作并播出的大型](../Page/Mnet媒體.md "wikilink")[Hiphop](../Page/嘻哈音樂.md "wikilink")[选秀节目](../Page/真人實境秀.md "wikilink")，第一季于2012年在首播。节目带动了Hiphop音乐在韩国的流行，\[1\]\[2\]每季參賽人數不斷增加；同時也因為[饒舌歌手在說唱時都會說](../Page/饒舌.md "wikilink")[髒話和比出](../Page/髒話.md "wikilink")因此也造成了不少的爭議。\[3\]
+**Show Me The Money**（）是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Mnet制作并播出的大型](../Page/Mnet媒體.md "wikilink")[Hiphop](../Page/嘻哈音樂.md "wikilink")[选秀节目](../Page/真人實境秀.md "wikilink")，第一季于2012年在首播。节目带动了Hiphop音乐在韩国的流行，\[1\]\[2\]每季參賽人數不斷增加；同時也因為[饒舌](../Page/饒舌.md "wikilink")歌手在說唱時都會說[髒話](../Page/髒話.md "wikilink")和比出因此也造成了不少的爭議。\[3\]
 
-每一季规则会有所不同，但大致均为从眾多的饒舌歌手進行海選并以各種[饒舌任务及公演進行淘汰](../Page/饒舌.md "wikilink")，並以韓元作為觀眾投票分數單位，直到只剩一名饶舌歌手并获得胜利。节目包括新秀饶舌歌手和经验丰富的饶舌歌手两种角色，经验丰富的饶舌歌手通常担任“制作人”，制作人同时包涵导师和评审两个职责。
+每一季规则会有所不同，但大致均为从眾多的饒舌歌手進行海選并以各種[饒舌](../Page/饒舌.md "wikilink")任务及公演進行淘汰，並以韓元作為觀眾投票分數單位，直到只剩一名饶舌歌手并获得胜利。节目包括新秀饶舌歌手和经验丰富的饶舌歌手两种角色，经验丰富的饶舌歌手通常担任“制作人”，制作人同时包涵导师和评审两个职责。
 
 ## 第一季（2012年）
 
-第一季由韩国Hiphop界经验丰富的Rapper导师、、45RPM、、[Miryo](../Page/趙美慧.md "wikilink")、、和与参赛的新秀Rapper进行两两合作表演。\[4\]由K-pop团体[水晶男孩成员](../Page/水晶男孩.md "wikilink")[殷志源担任此季主持](https://zh.wikipedia.org/wiki/殷志源 "wikilink")。\[5\]引人注目的选手包括[Cheetah](../Page/Cheetah.md "wikilink")，是节目中为数不多的女Rapper参赛者，后赢得了[Unpretty
-Rapstar第一季的冠军](../Page/Unpretty_Rapstar.md "wikilink")。\[6\]\[7\]新秀Rapper
-[Loco在Double](../Page/Loco.md "wikilink")
-K的指导下赢得了此季的冠军，并签约了Hiphop厂牌。后来他以制作人的身份出演了第四季的节目。\[8\]
+第一季由韩国Hiphop界经验丰富的Rapper导师、、45RPM、、[Miryo](../Page/趙美慧.md "wikilink")、、和与参赛的新秀Rapper进行两两合作表演。\[4\]由K-pop团体[水晶男孩](../Page/水晶男孩.md "wikilink")成员[殷志源担任此季主持](https://zh.wikipedia.org/wiki/殷志源 "wikilink")。\[5\]引人注目的选手包括[Cheetah](../Page/Cheetah.md "wikilink")，是节目中为数不多的女Rapper参赛者，后赢得了[Unpretty Rapstar第一季的冠军](../Page/Unpretty_Rapstar.md "wikilink")。\[6\]\[7\]新秀Rapper [Loco](../Page/Loco.md "wikilink")在Double K的指导下赢得了此季的冠军，并签约了Hiphop厂牌。后来他以制作人的身份出演了第四季的节目。\[8\]
 
 ## 第二季（2013年）
 
-第二季选手会被分为两个Hiphop团队，分别为领导Meta团队的组合成员和领导D.O团队的前九十年代Hiphop团体成员。\[9\][殷志源继续担任第二季的主持](https://zh.wikipedia.org/wiki/殷志源 "wikilink")。此季有几位知名的Rapper作为选手参赛，包括[LE](../Page/LE.md "wikilink")（[EXID成员](https://zh.wikipedia.org/wiki/EXID "wikilink")）、Jucy（前[EvoL成员](../Page/EvoL.md "wikilink")）、[Mad
-Clown和](../Page/Mad_Clown.md "wikilink")。\[10\]\[11\]\[12\]Meta团队以3:0勝出比賽，經過5回合公演後，第二季的冠军由获得，而同属Meta团队的则获得了亚军。\[13\]
+第二季选手会被分为两个Hiphop团队，分别为领导Meta团队的组合成员和领导D.O团队的前九十年代Hiphop团体成员。\[9\][殷志源继续担任第二季的主持](https://zh.wikipedia.org/wiki/殷志源 "wikilink")。此季有几位知名的Rapper作为选手参赛，包括[LE](../Page/LE.md "wikilink")（[EXID成员](https://zh.wikipedia.org/wiki/EXID "wikilink")）、Jucy（前[EvoL](../Page/EvoL.md "wikilink")成员）、[Mad Clown和](../Page/Mad_Clown.md "wikilink")。\[10\]\[11\]\[12\]Meta团队以3:0勝出比賽，經過5回合公演後，第二季的冠军由获得，而同属Meta团队的则获得了亚军。\[13\]
 
 <table>
 <thead>
@@ -39,43 +34,23 @@ WuTan</p></td>
 
 ## 第三季（2014年）
 
-第三季有许多著名的音乐制作人参与。不同的制作人独树一帜的代表着韩国Hiphop音乐的几大类别，分别由4组制作人团队[YG队](../Page/YG娛樂.md "wikilink")、[ILLIONAIRE队](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")、[Brand
-New
-Music队和](../Page/Brand_New_Music.md "wikilink")[YDG队组成](../Page/梁東根.md "wikilink")，上一季的选手作为制作人回归。值得注意的参赛者包括同属YG旗下组合[iKON的成员](https://zh.wikipedia.org/wiki/iKON "wikilink")[Bobby及](../Page/金知元_\(饒舌者\).md "wikilink")[B.I](../Page/B.I.md "wikilink")、隶属旗下的Rapper
-、[C
-Jamm等](../Page/C_Jamm.md "wikilink")。本季的冠军由[IKON的](../Page/IKON.md "wikilink")[Bobby](../Page/金知元_\(饒舌者\).md "wikilink")\[14\]和他的制作人[ILLIONAIRE队的](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")[Dok2](../Page/Dok2.md "wikilink")、[The
-Quiett夺得](../Page/The_Quiett.md "wikilink")。
+第三季有许多著名的音乐制作人参与。不同的制作人独树一帜的代表着韩国Hiphop音乐的几大类别，分别由4组制作人团队[YG队](../Page/YG娛樂.md "wikilink")、[ILLIONAIRE队](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")、[Brand New Music队和](../Page/Brand_New_Music.md "wikilink")[YDG队组成](../Page/梁東根.md "wikilink")，上一季的选手作为制作人回归。值得注意的参赛者包括同属YG旗下组合[iKON的成员](https://zh.wikipedia.org/wiki/iKON "wikilink")[Bobby及](../Page/金知元_\(饒舌者\).md "wikilink")[B.I](../Page/B.I.md "wikilink")、隶属旗下的Rapper 、[C Jamm等](../Page/C_Jamm.md "wikilink")。本季的冠军由[IKON](../Page/IKON.md "wikilink")的[Bobby](../Page/金知元_\(饒舌者\).md "wikilink")\[14\]和他的制作人[ILLIONAIRE队的](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")[Dok2](../Page/Dok2.md "wikilink")、[The Quiett夺得](../Page/The_Quiett.md "wikilink")。
 
 ## 第四季（2015年）
 
-SMTM第四季的导师分别由[YG的](../Page/YG娛樂.md "wikilink")[Jinusean](../Page/Jinusean.md "wikilink")、[Tablo](https://zh.wikipedia.org/wiki/李善雄 "wikilink")；[Brand
-New Music的](../Page/Brand_New_Music.md "wikilink")、[San
-E](../Page/San_E.md "wikilink")；的[朴載範](../Page/朴載範.md "wikilink")、[Loco以及](../Page/Loco.md "wikilink")的与[Block
-B的成员](../Page/Block_B.md "wikilink")[Zico担任](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")。在此季有越来越多的偶像团体Rapper及退伍军人参赛，最著名的是组合[WINNER的成员](../Page/WINNER.md "wikilink")[MINO以及退伍军人](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")，韩国Hiphop界代表性人物也作为选手参与到此季比赛。许多第三季的参赛选手也回归到了此季。本赛季冠军由[Basick及他的制作人团队](https://zh.wikipedia.org/wiki/Basick "wikilink")[Brand
-New Music的](../Page/Brand_New_Music.md "wikilink")[San
-E](../Page/San_E.md "wikilink")、获得。
+SMTM第四季的导师分别由[YG的](../Page/YG娛樂.md "wikilink")[Jinusean](../Page/Jinusean.md "wikilink")、[Tablo](https://zh.wikipedia.org/wiki/李善雄 "wikilink")；[Brand New Music的](../Page/Brand_New_Music.md "wikilink")、[San E](../Page/San_E.md "wikilink")；的[朴載範](../Page/朴載範.md "wikilink")、[Loco](../Page/Loco.md "wikilink")以及的与[Block B的成员](../Page/Block_B.md "wikilink")[Zico担任](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")。在此季有越来越多的偶像团体Rapper及退伍军人参赛，最著名的是组合[WINNER](../Page/WINNER.md "wikilink")的成员[MINO以及退伍军人](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")，韩国Hiphop界代表性人物也作为选手参与到此季比赛。许多第三季的参赛选手也回归到了此季。本赛季冠军由[Basick及他的制作人团队](https://zh.wikipedia.org/wiki/Basick "wikilink")[Brand New Music的](../Page/Brand_New_Music.md "wikilink")[San E](../Page/San_E.md "wikilink")、获得。
 
 ## 第五季（2016年）
 
-第五季由4组不同的制作人团队组成，分别为的[Simon
-D](../Page/Simon_D.md "wikilink")、[Gray](../Page/Gray_\(歌手\).md "wikilink")；[YG娛樂的](../Page/YG娛樂.md "wikilink")、[Zion.T](../Page/Zion.T.md "wikilink")；[ILLIONAIRE的](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")[Dok2](../Page/Dok2.md "wikilink")、[The
-Quiett以及](../Page/The_Quiett.md "wikilink")[Gill和](../Page/吉成俊.md "wikilink")[Mad
-Clown](../Page/Mad_Clown.md "wikilink")。节目还于美国洛杉矶海选时特邀[Timbaland作为特别评审](../Page/提姆巴蘭.md "wikilink")。与往季相比，此季有更多的韩国Hiphop界流行及知名的Rapper作为选手参与比赛，如、、[C
-Jamm](../Page/C_Jamm.md "wikilink")、[BewhY](../Page/BewhY.md "wikilink")、Onesun、珍岛狗、、、Snacky
-Chan、[One](https://zh.wikipedia.org/wiki/鄭帝元 "wikilink")、、、Junoflo、[Superbee和](https://zh.wikipedia.org/wiki/Superbee "wikilink")等。本赛季冠军由[BewhY及他的制作人团队](../Page/BewhY.md "wikilink")的[Simon
-D](../Page/Simon_D.md "wikilink")、[Gray获得](../Page/Gray_\(歌手\).md "wikilink")。
+第五季由4组不同的制作人团队组成，分别为的[Simon D](../Page/Simon_D.md "wikilink")、[Gray](../Page/Gray_\(歌手\).md "wikilink")；[YG娛樂](../Page/YG娛樂.md "wikilink")的、[Zion.T](../Page/Zion.T.md "wikilink")；[ILLIONAIRE的](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")[Dok2](../Page/Dok2.md "wikilink")、[The Quiett以及](../Page/The_Quiett.md "wikilink")[Gill和](../Page/吉成俊.md "wikilink")[Mad Clown](../Page/Mad_Clown.md "wikilink")。节目还于美国洛杉矶海选时特邀[Timbaland作为特别评审](../Page/提姆巴蘭.md "wikilink")。与往季相比，此季有更多的韩国Hiphop界流行及知名的Rapper作为选手参与比赛，如、、[C Jamm](../Page/C_Jamm.md "wikilink")、[BewhY](../Page/BewhY.md "wikilink")、Onesun、珍岛狗、、、Snacky Chan、[One](https://zh.wikipedia.org/wiki/鄭帝元 "wikilink")、、、Junoflo、[Superbee和](https://zh.wikipedia.org/wiki/Superbee "wikilink")等。本赛季冠军由[BewhY](../Page/BewhY.md "wikilink")及他的制作人团队的[Simon D](../Page/Simon_D.md "wikilink")、[Gray获得](../Page/Gray_\(歌手\).md "wikilink")。
 
 ## 第六季（2017年）
 
-第六季的4组制作人导师分别由[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")、[DEAN](https://zh.wikipedia.org/wiki/权革 "wikilink")；\[15\][朴載範](../Page/朴載範.md "wikilink")、[Dok2](../Page/Dok2.md "wikilink")；\[16\][Dynamic
-Duo的](../Page/Dynamic_Duo.md "wikilink")、\[17\]和、\[18\]担任。此季有众多韩国Hiphop界知名或小有名气的Rapper报名参加了此季的海选，包括曾在SMTM第四季参赛的、韩国Hiphop新兴代表以及SMTM第一季的制作人等均作为选手参赛。本季冠军由[Rhythm
-Power的](../Page/Rhythm_Power.md "wikilink")及他的制作团队FANXYCHILD的[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")、[DEAN获得](https://zh.wikipedia.org/wiki/权革 "wikilink")。
+第六季的4组制作人导师分别由[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")、[DEAN](https://zh.wikipedia.org/wiki/权革 "wikilink")；\[15\][朴載範](../Page/朴載範.md "wikilink")、[Dok2](../Page/Dok2.md "wikilink")；\[16\][Dynamic Duo的](../Page/Dynamic_Duo.md "wikilink")、\[17\]和、\[18\]担任。此季有众多韩国Hiphop界知名或小有名气的Rapper报名参加了此季的海选，包括曾在SMTM第四季参赛的、韩国Hiphop新兴代表以及SMTM第一季的制作人等均作为选手参赛。本季冠军由[Rhythm Power的](../Page/Rhythm_Power.md "wikilink")及他的制作团队FANXYCHILD的[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")、[DEAN获得](https://zh.wikipedia.org/wiki/权革 "wikilink")。
 
 ## 第七季（2018年）
 
-第七季的4組製作人導師分别由[Just Music
-Entertainment的](https://zh.wikipedia.org/wiki/Just_Music_Entertainment "wikilink")、；[VMC的](https://zh.wikipedia.org/wiki/VMC "wikilink")、；、以及[ILLIONAIRE的](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")[The
-Quiett](../Page/The_Quiett.md "wikilink")、[Changmo擔任](../Page/Changmo.md "wikilink")。本季冠军由、的[Nafla获得](https://zh.wikipedia.org/wiki/Nafla "wikilink")。
+第七季的4組製作人導師分别由[Just Music Entertainment的](https://zh.wikipedia.org/wiki/Just_Music_Entertainment "wikilink")、；[VMC的](https://zh.wikipedia.org/wiki/VMC "wikilink")、；、以及[ILLIONAIRE的](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")[The Quiett](../Page/The_Quiett.md "wikilink")、[Changmo](../Page/Changmo.md "wikilink")擔任。本季冠军由、的[Nafla获得](https://zh.wikipedia.org/wiki/Nafla "wikilink")。
 
 ## 第八季（2019年）
 
@@ -1295,10 +1270,7 @@ Quiett](../Page/The_Quiett.md "wikilink")、[Changmo擔任](../Page/Changmo.md "
   -
 ## 參考資料
 
-[Category:正在播放的電視節目](https://zh.wikipedia.org/wiki/Category:正在播放的電視節目 "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:正在播放的電視節目](https://zh.wikipedia.org/wiki/Category:正在播放的電視節目 "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
 1.
 

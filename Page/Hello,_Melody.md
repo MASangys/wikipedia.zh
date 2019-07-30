@@ -1,5 +1,4 @@
-《**Hello,
-Melody**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB的首次單獨演唱會](../Page/BTOB.md "wikilink")，分別於2014、2015年在韓國[首爾及](../Page/首爾.md "wikilink")[釜山舉辦共三場演唱會](https://zh.wikipedia.org/wiki/釜山 "wikilink")。
+《**Hello, Melody**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的首次單獨演唱會，分別於2014、2015年在韓國[首爾](../Page/首爾.md "wikilink")及[釜山舉辦共三場演唱會](https://zh.wikipedia.org/wiki/釜山 "wikilink")。
 
 ## 簡介
 
@@ -17,14 +16,13 @@ Melody**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子�
 
 ## 背景
 
-2014年9月19日，[Cube娛樂通過官方Twitter宣布BTOB於同年](../Page/Cube娛樂.md "wikilink")10月31日、11月1日連續兩日於韓國[首爾](../Page/首爾.md "wikilink")[奧林匹克公園奧林匹克Hall舉行首次單獨演唱會](../Page/奧林匹克公園_\(首爾\).md "wikilink")《Hello,
-Melody》。\[1\]
+2014年9月19日，[Cube娛樂](../Page/Cube娛樂.md "wikilink")通過官方Twitter宣布BTOB於同年10月31日、11月1日連續兩日於韓國[首爾](../Page/首爾.md "wikilink")[奧林匹克公園奧林匹克Hall舉行首次單獨演唱會](../Page/奧林匹克公園_\(首爾\).md "wikilink")《Hello, Melody》。\[1\]
 
-首爾場演唱會中邀請韓國女歌手、同時也是成員[鎰勳親姊姊](../Page/鄭鎰勳.md "wikilink")[JOO擔任演唱會特別嘉賓](../Page/JOO.md "wikilink")。\[2\]
+首爾場演唱會中邀請韓國女歌手、同時也是成員[鎰勳親姊姊](../Page/鄭鎰勳.md "wikilink")[JOO](../Page/JOO.md "wikilink")擔任演唱會特別嘉賓。\[2\]
 
 2015年3月11日，宣布2015年4月4日於[釜山KBS廳舉行該主題的第三場演唱會](https://zh.wikipedia.org/wiki/釜山 "wikilink")。
 
-演唱會的串場VCR邀請[Apink成員](../Page/Apink.md "wikilink")[初瓏以在電視劇](../Page/朴初瓏.md "wikilink")《[九數少年](../Page/九數少年.md "wikilink")》中飾演的角色-{「}-韓秀兒-{」}-特別演出。
+演唱會的串場VCR邀請[Apink](../Page/Apink.md "wikilink")成員[初瓏以在電視劇](../Page/朴初瓏.md "wikilink")《[九數少年](../Page/九數少年.md "wikilink")》中飾演的角色-{「}-韓秀兒-{」}-特別演出。
 
 ## 場次
 
@@ -85,8 +83,7 @@ Melody》。\[1\]
 14. 妳是我的天使 / *Rap Line Feat. [JOO](../Page/JOO.md "wikilink")*
 15. Love / *JOO Feat. Piano：[鎰勳](../Page/鄭鎰勳.md "wikilink")*
 16. *鎰勳 Solo Stage*
-17. Do You Know How I Am? / *[旼赫](../Page/李旼赫.md "wikilink")（Huta） Solo
-    Stage*
+17. Do You Know How I Am? / *[旼赫](../Page/李旼赫.md "wikilink")（Huta） Solo Stage*
 18. 拜託 / *[星材](../Page/陸星材.md "wikilink") Solo Stage* (原唱：李素羅)
 19. 就像那天一樣 / *[恩光](../Page/徐恩光.md "wikilink") Solo舞台*
 20. Gentlemen / *恩光 & 星材 Special Stage* (原唱：PSY)
@@ -116,8 +113,7 @@ Melody》。\[1\]
 13. 不知道 / *Vocal Line*
 14. 妳是我的天使 / *Rap Line Feat. [炫植](../Page/任炫植.md "wikilink") (白雪公主)*
 15. *旼赫 & 鎰勳 Unit Stage*
-16. Uptown Funk / *[昌燮](../Page/李昌燮.md "wikilink") Solo Stage Feat.
-    炫植、鎰勳*
+16. Uptown Funk / *[昌燮](../Page/李昌燮.md "wikilink") Solo Stage Feat. 炫植、鎰勳*
 17. 記憶的習作 / *星材 Solo Stage* (原唱：金東律)
 18. 就像那天一樣 / *恩光 Solo Stage*
 19. Gentlemen / *恩光 & 星材 Special Stage* (原唱：PSY)
@@ -169,13 +165,7 @@ Melody》。\[1\]
 
   -
   -
-[Category:BTOB演唱會](https://zh.wikipedia.org/wiki/Category:BTOB演唱會 "wikilink")
-[Category:2014年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2014年巡迴演唱會 "wikilink")
-[Category:2015年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2015年巡迴演唱會 "wikilink")
+[Category:BTOB演唱會](https://zh.wikipedia.org/wiki/Category:BTOB演唱會 "wikilink") [Category:2014年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2014年巡迴演唱會 "wikilink") [Category:2015年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2015年巡迴演唱會 "wikilink")
 
-1.  [BTOB
-    將舉行首場個唱](https://www.kpopn.com/2014/09/19/btob-%e5%b0%87%e8%88%89%e8%a1%8c%e9%a6%96%e5%a0%b4%e5%80%8b%e5%94%b1/)
-    2017-11-26 KPOPN
-2.  [BTOB
-    首爾個唱精彩回顧](https://www.kpopn.com/2014/11/02/btob-%e9%a6%96%e7%88%be%e5%80%8b%e5%94%b1%e7%b2%be%e5%bd%a9%e5%9b%9e%e9%a1%a7/)
-    2017-11-26 KPOPN
+1.  [BTOB 將舉行首場個唱](https://www.kpopn.com/2014/09/19/btob-%e5%b0%87%e8%88%89%e8%a1%8c%e9%a6%96%e5%a0%b4%e5%80%8b%e5%94%b1/) 2017-11-26 KPOPN
+2.  [BTOB 首爾個唱精彩回顧](https://www.kpopn.com/2014/11/02/btob-%e9%a6%96%e7%88%be%e5%80%8b%e5%94%b1%e7%b2%be%e5%bd%a9%e5%9b%9e%e9%a1%a7/) 2017-11-26 KPOPN

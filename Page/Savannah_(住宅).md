@@ -1,6 +1,4 @@
-[Savannah_Place_2018.jpg](https://zh.wikipedia.org/wiki/File:Savannah_Place_2018.jpg "fig:Savannah_Place_2018.jpg")
-**Savannah**，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[將軍澳南](../Page/將軍澳南.md "wikilink")[至善街](https://zh.wikipedia.org/wiki/至善街 "wikilink")3號
-，是[會德豐集團旗下的私人住宅屋苑](../Page/會德豐.md "wikilink")。由梁黃顧建築師（香港）事務所設計，[協興建築承建](../Page/協興建築.md "wikilink")。物業分為4座樓高11至23層的大廈，共提供804伙單位，包括799個分層戶及5間洋房。屋苑於2016年5月開售，於2018年4月落成入伙。管理公司為夏利文物業管理有限公司，管理費每呎4.4元。展覽廳及示範單位設於[尖沙咀](../Page/尖沙咀.md "wikilink")[港威大廈](../Page/港威大廈.md "wikilink")，首批單位的價單，定價由421萬至1187.9萬元。\[1\]
+[Savannah_Place_2018.jpg](https://zh.wikipedia.org/wiki/File:Savannah_Place_2018.jpg "fig:Savannah_Place_2018.jpg") **Savannah**，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[將軍澳南](../Page/將軍澳南.md "wikilink")[至善街](https://zh.wikipedia.org/wiki/至善街 "wikilink")3號 ，是[會德豐](../Page/會德豐.md "wikilink")集團旗下的私人住宅屋苑。由梁黃顧建築師（香港）事務所設計，[協興建築](../Page/協興建築.md "wikilink")承建。物業分為4座樓高11至23層的大廈，共提供804伙單位，包括799個分層戶及5間洋房。屋苑於2016年5月開售，於2018年4月落成入伙。管理公司為夏利文物業管理有限公司，管理費每呎4.4元。展覽廳及示範單位設於[尖沙咀](../Page/尖沙咀.md "wikilink")[港威大廈](../Page/港威大廈.md "wikilink")，首批單位的價單，定價由421萬至1187.9萬元。\[1\]
 
 ## 單位
 
@@ -8,31 +6,25 @@
 
 物業另設5幢洋房，面積1,985至1,993平方呎。
 
-2017年12月14日會德豐以3,567.2萬元招標形式售出Savannah
-2A座25樓A室，實用面積1,372方呎，連天台面積1,039方呎，呎價26,000元，成交價創項目新高
+2017年12月14日會德豐以3,567.2萬元招標形式售出Savannah 2A座25樓A室，實用面積1,372方呎，連天台面積1,039方呎，呎價26,000元，成交價創項目新高
 
-所有樓宇均採用[富士達提供的升降機](../Page/富士達.md "wikilink")。
+所有樓宇均採用[富士達](../Page/富士達.md "wikilink")提供的升降機。
 
 ## 設施
 
-項目地下設有以藝術為主題的中央公園「Savannah Central Art
-Park」，由園林設計公司Enea設計，擺放由韓國雕塑家[金炳真的作品](https://zh.wikipedia.org/wiki/金炳真 "wikilink")《蘋果》及香港雕塑家[李展輝的作品](https://zh.wikipedia.org/wiki/李展輝 "wikilink")《水滴》。
+項目地下設有以藝術為主題的中央公園「Savannah Central Art Park」，由園林設計公司Enea設計，擺放由韓國雕塑家[金炳真的作品](https://zh.wikipedia.org/wiki/金炳真 "wikilink")《蘋果》及香港雕塑家[李展輝的作品](https://zh.wikipedia.org/wiki/李展輝 "wikilink")《水滴》。
 
-住客會所CLUB
-SAVANNAH設於項目的地庫、地下及1樓，總面積達約2.46萬平方呎，由國際級名師Glamorous設計。設施包括室內及室外游泳池、健身房、桑拿室、多用途宴會廳、卡拉OK及麻雀室、桌球室、多媒體娛樂室、瑜伽室、兒童遊戲區、休閒雅坐及室內運動場等。\[2\]
+住客會所CLUB SAVANNAH設於項目的地庫、地下及1樓，總面積達約2.46萬平方呎，由國際級名師Glamorous設計。設施包括室內及室外游泳池、健身房、桑拿室、多用途宴會廳、卡拉OK及麻雀室、桌球室、多媒體娛樂室、瑜伽室、兒童遊戲區、休閒雅坐及室內運動場等。\[2\]
 
 地庫設停車場，提供277個車位。
 
 ## 商場
 
-項目地下至1樓設商場，名為Savannah
-Place，但一直空置。2018年10月，[豐泰地產向會德豐購入商場](../Page/豐泰地產.md "wikilink")。到2019年3月，耀中國際學校預租地下及1樓複式舖位，共2萬方呎樓面，月租約70萬元。\[3\]
+項目地下至1樓設商場，名為Savannah Place，但一直空置。2018年10月，[豐泰地產](../Page/豐泰地產.md "wikilink")向會德豐購入商場。到2019年3月，耀中國際學校預租地下及1樓複式舖位，共2萬方呎樓面，月租約70萬元。\[3\]
 
 ## 宣傳
 
-SAVANNAH的廣告宣傳以「LIVE WITH YOUR
-FLOW」為主題。發展商指SAVANNAH為美國南部著名沿河都會，鄰近優美的Savannah
-River。唯電視廣告於[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[墨爾本](https://zh.wikipedia.org/wiki/墨爾本 "wikilink")[雅拉河一帶拍攝](../Page/雅拉河.md "wikilink")。
+SAVANNAH的廣告宣傳以「LIVE WITH YOUR FLOW」為主題。發展商指SAVANNAH為美國南部著名沿河都會，鄰近優美的Savannah River。唯電視廣告於[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[墨爾本](https://zh.wikipedia.org/wiki/墨爾本 "wikilink")[雅拉河](../Page/雅拉河.md "wikilink")一帶拍攝。
 
 ## 著名住客
 
@@ -42,7 +34,7 @@ River。唯電視廣告於[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilin
 
 ### 代理於海港城撈客遭保安箍頸 代理永遠被禁止銷售會德豐樓盤
 
-2016年5月7日下午，一名[利嘉閣地產代理在](../Page/利嘉閣.md "wikilink")[海港城商場內拉客時被發展商外判保安何志輝](../Page/海港城.md "wikilink")[箍頸](https://zh.wikipedia.org/wiki/箍頸 "wikilink")，涉事經紀被箍頸至臉紅，表示「好辛苦」，唯最後被發展商會德豐地產禁止銷售會德豐樓盤。\[4\]而會德豐職員表示，該經紀與保安發生衝突，有關事件已處理，不接受訪問。\[5\]
+2016年5月7日下午，一名[利嘉閣](../Page/利嘉閣.md "wikilink")地產代理在[海港城](../Page/海港城.md "wikilink")商場內拉客時被發展商外判保安何志輝[箍頸](https://zh.wikipedia.org/wiki/箍頸 "wikilink")，涉事經紀被箍頸至臉紅，表示「好辛苦」，唯最後被發展商會德豐地產禁止銷售會德豐樓盤。\[4\]而會德豐職員表示，該經紀與保安發生衝突，有關事件已處理，不接受訪問。\[5\]
 
 ### 首輪開售成2016年收票王
 
@@ -50,9 +42,7 @@ Savannah於5月14日首輪推售362個單位，佔全盤單位四成半，共接
 
 ## 建築圖片
 
-<File:Savannah> under construction in October 2015.jpg|2015年10月
-<File:Savannah> under construction in May 2016 (revised).jpg|2016年5月
-<File:Savannah>, Hong Kong.jpg|2017年4月
+<File:Savannah> under construction in October 2015.jpg|2015年10月 <File:Savannah> under construction in May 2016 (revised).jpg|2016年5月 <File:Savannah>, Hong Kong.jpg|2017年4月
 
 ## 會德豐「澳南」項目
 
@@ -77,7 +67,7 @@ Savannah於5月14日首輪推售362個單位，佔全盤單位四成半，共接
 
 <!-- end list -->
 
-  - <font color="{{將軍澳綫色彩}}">█</font>[將軍澳綫](../Page/將軍澳綫.md "wikilink")：[將軍澳站A出入口](../Page/將軍澳站.md "wikilink")
+  - <font color="{{將軍澳綫色彩}}">█</font>[將軍澳綫](../Page/將軍澳綫.md "wikilink")：[將軍澳站](../Page/將軍澳站.md "wikilink")A出入口
 
 <!-- end list -->
 
@@ -109,9 +99,7 @@ Savannah於5月14日首輪推售362個單位，佔全盤單位四成半，共接
   -
   - [Savannah專頁](https://web.archive.org/web/20160603220658/http://www.besthome.com.hk/new-property/Savannah)，大業主新聞網
 
-[Category:會德豐地產(香港)物業](https://zh.wikipedia.org/wiki/Category:會德豐地產\(香港\)物業 "wikilink")
-[Category:西貢區私人屋苑](https://zh.wikipedia.org/wiki/Category:西貢區私人屋苑 "wikilink")
-[Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink")
+[Category:會德豐地產(香港)物業](https://zh.wikipedia.org/wiki/Category:會德豐地產\(香港\)物業 "wikilink") [Category:西貢區私人屋苑](https://zh.wikipedia.org/wiki/Category:西貢區私人屋苑 "wikilink") [Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink")
 
 1.
 2.

@@ -1,19 +1,8 @@
-《**PRODUCE
-101**》（）是[Mnet在](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")2016年推出的韓國第一個「經紀公司大型企劃女團」新女團選拔／生存實境節目，以101名來自不同經紀公司的女練習生作為主角，在節目中同吃同住、完成各種任務，最後獲選的11名成員將會組成一個團體，以[YMC
-Entertainment旗下藝人的身份進行為期一年的活動](https://zh.wikipedia.org/wiki/YMC_Entertainment "wikilink")。節目最終回中公布團體名為
-**[I.O.I](../Page/I.O.I.md "wikilink")**（）。
-
-2017年，[Mnet決定制作](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")[第二季](../Page/PRODUCE_101_第二季.md "wikilink")，改為新男團選拔／生存實境節目，並由[寶兒
-(BoA)擔任](../Page/寶兒.md "wikilink")[國民製作人代表](https://zh.wikipedia.org/wiki/國民製作人代表 "wikilink")\[1\]；2018年，Mnet与日本[AKB48
-Group合作推出](../Page/AKB48.md "wikilink")[PRODUCE
-48](../Page/PRODUCE_48.md "wikilink")，進行共96位選手的女團選拔節目，並由[李昇基擔任國民製作人代表](../Page/李昇基.md "wikilink")；2019年，Mnet即將推出第四季名稱確定為[PRODUCE
-X101](https://zh.wikipedia.org/wiki/PRODUCE_X101 "wikilink")，本季重回男團選秀，並由[李棟旭擔任國民製作人代表](../Page/李棟旭.md "wikilink")。
+《**PRODUCE 101**》（）是[Mnet在](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")2016年推出的韓國第一個「經紀公司大型企劃女團」新女團選拔／生存實境節目，以101名來自不同經紀公司的女練習生作為主角，在節目中同吃同住、完成各種任務，最後獲選的11名成員將會組成一個團體，以[YMC Entertainment旗下藝人的身份進行為期一年的活動](https://zh.wikipedia.org/wiki/YMC_Entertainment "wikilink")。節目最終回中公布團體名為 **[I.O.I](../Page/I.O.I.md "wikilink")**（）。
 
 ## 比賽方式
 
-節目中由主持人及導師群透過表現將成員進行分級並給予訓練，觀眾則可選擇登入CJ
-ONE、Facebook和Twitter的帳號後，經由《PRODUCE
-101》官方頁面選取心儀的成員進行投票，投票結果將於每集節目結束前公布，最後獲選的11名成員將會成為一個團體出道。
+節目中由主持人及導師群透過表現將成員進行分級並給予訓練，觀眾則可選擇登入CJ ONE、Facebook和Twitter的帳號後，經由《PRODUCE 101》官方頁面選取心儀的成員進行投票，投票結果將於每集節目結束前公布，最後獲選的11名成員將會成為一個團體出道。
 
 ## 導師
 
@@ -21,13 +10,11 @@ ONE、Facebook和Twitter的帳號後，經由《PRODUCE
 
 <!-- end list -->
 
-  - 歌唱導師：[JeA](../Page/金孝珍_\(歌手\).md "wikilink") & 金聖恩 （AG 聖恩，[Big Hit
-    娛樂](../Page/Big_Hit娛樂.md "wikilink") 聲樂導師）\[2\]
+  - 歌唱導師：[JeA](../Page/金孝珍_\(歌手\).md "wikilink") & 金聖恩 （AG 聖恩，[Big Hit 娛樂](../Page/Big_Hit娛樂.md "wikilink") 聲樂導師）\[1\]
 
 <!-- end list -->
 
-  - 舞蹈導師：[嘉熙](https://zh.wikipedia.org/wiki/嘉熙_\(歌手\) "wikilink") &
-    [裴允靜](https://zh.wikipedia.org/wiki/裴允靜 "wikilink")
+  - 舞蹈導師：[嘉熙](https://zh.wikipedia.org/wiki/嘉熙_\(歌手\) "wikilink") & [裴允靜](https://zh.wikipedia.org/wiki/裴允靜 "wikilink")
 
 <!-- end list -->
 
@@ -1280,8 +1267,7 @@ PRO</p></td>
 
 <!-- end list -->
 
-1.  練習生們的特別課程--國民出品人代表
-    [張根碩分享自己的演藝心路歷程](../Page/張根碩.md "wikilink")，鼓勵練習生尋找目標的原動力並追求夢想
+1.  練習生們的特別課程--國民出品人代表 [張根碩](../Page/張根碩.md "wikilink")分享自己的演藝心路歷程，鼓勵練習生尋找目標的原動力並追求夢想
 2.  醫院體檢 接種疫苗練習生反應不一
 3.  一日VJ金珠娜、金多靜--量身高體重為減少體重不擇手段、誓死護衛機密
 4.  身材管理--有氧瑜珈、減肥人員的特別食譜
@@ -1303,9 +1289,7 @@ PRO</p></td>
 | 10     |
 | 11     |
 
-  - 第一次排名儀式 ( 特別MC ( 轉播席 )
-    ：[申寶羅](https://zh.wikipedia.org/wiki/申寶羅 "wikilink")、[齡智](../Page/許齡智.md "wikilink")、[朴經](../Page/朴經.md "wikilink")
-    ( [Block B](../Page/Block_B.md "wikilink") ) )
+  - 第一次排名儀式 ( 特別MC ( 轉播席 ) ：[申寶羅](https://zh.wikipedia.org/wiki/申寶羅 "wikilink")、[齡智](../Page/許齡智.md "wikilink")、[朴經](../Page/朴經.md "wikilink") ( [Block B](../Page/Block_B.md "wikilink") ) )
 
 <table>
 <thead>
@@ -2366,14 +2350,13 @@ PRO</p></td>
 
 播出日期：2016年4月15日
 
-  - 幕後花絮特輯 \[3\]
+  - 幕後花絮特輯 \[2\]
 
 ## 排名
 
 ### 前11名排名
 
-每集尾段會展示各練習生的排名，而於最後一集排名前十一的練習生將會成為一個團體發行單曲，並以YMC
-Entertainment旗下藝人的身份進行為期一年的活動。
+每集尾段會展示各練習生的排名，而於最後一集排名前十一的練習生將會成為一個團體發行單曲，並以YMC Entertainment旗下藝人的身份進行為期一年的活動。
 
 | 排名 |
 | -- |
@@ -4012,7 +3995,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 | ----------- | ---------------------------------------------------------- | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2016年1月10日  | [KBL](../Page/韓國籃球聯賽.md "wikilink") NBA全明星賽（KBL 프로농구 올스타전） | \-    | 全員（金荷允、任京荷、林孝宣、馬恩珍除外）                                                                                                                                                                                                                                                                                                                                                                   |
 | 2016年3月26日  | 游擊演唱會                                                      | 大邱東城路 | 最終排名的前22名成員                                                                                                                                                                                                                                                                                                                                                                             |
-| 2017年11月30日 | 2017 MAMA Japan                                            | 日本橫濱  | [金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")、[PRISTIN](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")（[林娜榮](https://zh.wikipedia.org/wiki/林娜榮 "wikilink")、[周潔瓊](../Page/周潔瓊.md "wikilink")、朴施妍、金珉炅、姜京元、姜睿彬、鄭銀雨）、[Weki Meki](../Page/Weki_Meki.md "wikilink")（[磪有情](../Page/磪有情.md "wikilink")、[金度延](../Page/金度延.md "wikilink")、鄭海琳、李書靜）、[李海印](../Page/李海印.md "wikilink")\[4\] |
+| 2017年11月30日 | 2017 MAMA Japan                                            | 日本橫濱  | [金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")、[PRISTIN](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")（[林娜榮](https://zh.wikipedia.org/wiki/林娜榮 "wikilink")、[周潔瓊](../Page/周潔瓊.md "wikilink")、朴施妍、金珉炅、姜京元、姜睿彬、鄭銀雨）、[Weki Meki](../Page/Weki_Meki.md "wikilink")（[磪有情](../Page/磪有情.md "wikilink")、[金度延](../Page/金度延.md "wikilink")、鄭海琳、李書靜）、[李海印](../Page/李海印.md "wikilink")\[3\] |
 |             |                                                            |       |                                                                                                                                                                                                                                                                                                                                                                                         |
 
 ## 收視率
@@ -4106,22 +4089,12 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 
 ## 參考資料
 
-[`超大型練習生軍團「Produce101」亮相《M``   ``Countdown》``
- ``張根碩助陣`](http://www.koreastardaily.com/tc/news/71742)`，韓星網2015年12月18日`
+[`超大型練習生軍團「Produce101」亮相《M``   ``Countdown》``   ``張根碩助陣`](http://www.koreastardaily.com/tc/news/71742)`，韓星網2015年12月18日`
 
-  - [PTT EXCEL
-    整理](https://docs.google.com/spreadsheets/d/12eKoC5W7KvHdaES5kM4YGSagMY-o3SVojhlqVgRHc4M/edit#gid=0)
+  - [PTT EXCEL 整理](https://docs.google.com/spreadsheets/d/12eKoC5W7KvHdaES5kM4YGSagMY-o3SVojhlqVgRHc4M/edit#gid=0)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink")
-[Category:韩国音乐比赛](https://zh.wikipedia.org/wiki/Category:韩国音乐比赛 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
-[Category:PRODUCE_101](https://zh.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink") [Category:韩国音乐比赛](https://zh.wikipedia.org/wiki/Category:韩国音乐比赛 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink") [Category:PRODUCE_101](https://zh.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink")
 
-1.  <http://entertain.naver.com/read?oid=108&aid=0002592584>
-2.   Mira
-    咪拉|url=[https://www.youtube.com/watch?v=-tgrDvCN7C8\&t=5s|date=2019-04-25|accessdate=2019-04-29|last=Mira's](https://www.youtube.com/watch?v=-tgrDvCN7C8&t=5s%7Cdate=2019-04-25%7Caccessdate=2019-04-29%7Clast=Mira's)
-    Garden}}
-3.  [프로듀스 101 비하인드](http://www.mnet.com/tv/vod/173107) Mnet
-4.  偶像學校育成成員名義
+1.   Mira 咪拉|url=[https://www.youtube.com/watch?v=-tgrDvCN7C8\&t=5s|date=2019-04-25|accessdate=2019-04-29|last=Mira's](https://www.youtube.com/watch?v=-tgrDvCN7C8&t=5s%7Cdate=2019-04-25%7Caccessdate=2019-04-29%7Clast=Mira's) Garden}}
+2.  [프로듀스 101 비하인드](http://www.mnet.com/tv/vod/173107) Mnet
+3.  偶像學校育成成員名義

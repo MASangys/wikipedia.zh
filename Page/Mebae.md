@@ -1,12 +1,12 @@
-**mebae**（），[日本男性](../Page/日本.md "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")、[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[動畫師](../Page/動畫師.md "wikilink")。出身於[北海道](../Page/北海道.md "wikilink")。[北海道教育大學美術科畢業](../Page/北海道教育大學.md "wikilink")。
+**mebae**（），[日本](../Page/日本.md "wikilink")男性[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")、[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[動畫師](../Page/動畫師.md "wikilink")。出身於[北海道](../Page/北海道.md "wikilink")。[北海道教育大學](../Page/北海道教育大學.md "wikilink")美術科畢業。
 
 ## 人物簡介
 
 本名**廣島祐介**（），從事輕小說插畫時筆名**mebae**。早年以本名參加動畫製作起家，2009年之後改用創作輕小說插畫時的使用筆名繼續參加動畫製作。
 
-[札幌市在地動畫製作集團](../Page/札幌市.md "wikilink")·的成員之一，並在[電影導演](../Page/電影導演.md "wikilink")[村上隆主宰的](../Page/村上隆.md "wikilink")[有限公司KAIKAIKIKI](http://www.kaikaikiki.co.jp/)札幌分工作室·[PONCOTAN](http://poncotan.jp/)任職[作畫監督](https://zh.wikipedia.org/wiki/作畫監督 "wikilink")。
+[札幌市](../Page/札幌市.md "wikilink")在地動畫製作集團·的成員之一，並在[電影導演](../Page/電影導演.md "wikilink")[村上隆](../Page/村上隆.md "wikilink")主宰的[有限公司KAIKAIKIKI](http://www.kaikaikiki.co.jp/)札幌分工作室·[PONCOTAN](http://poncotan.jp/)任職[作畫監督](https://zh.wikipedia.org/wiki/作畫監督 "wikilink")。
 
-與動畫師、漫畫家[市川春子是大學同科系的同學](../Page/市川春子.md "wikilink")。
+與動畫師、漫畫家[市川春子](../Page/市川春子.md "wikilink")是大學同科系的同學。
 
 ## 作品一覽
 
@@ -166,21 +166,13 @@ KADOKAWA</p></td>
 
   - Garden（2003年）－自主製作。
   - 百百（2005年）－自主製作·畢業製作作品。
-  - [地獄少女](https://zh.wikipedia.org/wiki/地獄少女 "wikilink")（總承包商：[STUDIO
-    DEEN](../Page/STUDIO_DEEN.md "wikilink")，2005年，原畫 ）－動畫業界出道作品。
-  - [創聖的亞庫艾里翁](../Page/創聖的亞庫艾里翁.md "wikilink")（總承包商：[SATELIGHT](../Page/SATELIGHT.md "wikilink")，2005年，原畫
-    ）
-  - [OVA 瑪莉亞的凝望 3rd
-    Season](https://zh.wikipedia.org/wiki/瑪莉亞的凝望 "wikilink")（總承包商：STUDIO
-    DEEN，2006年，原畫 ）
+  - [地獄少女](https://zh.wikipedia.org/wiki/地獄少女 "wikilink")（總承包商：[STUDIO DEEN](../Page/STUDIO_DEEN.md "wikilink")，2005年，原畫 ）－動畫業界出道作品。
+  - [創聖的亞庫艾里翁](../Page/創聖的亞庫艾里翁.md "wikilink")（總承包商：[SATELIGHT](../Page/SATELIGHT.md "wikilink")，2005年，原畫 ）
+  - [OVA 瑪莉亞的凝望 3rd Season](https://zh.wikipedia.org/wiki/瑪莉亞的凝望 "wikilink")（總承包商：STUDIO DEEN，2006年，原畫 ）
   - [變身公主](../Page/變身公主.md "wikilink")（總承包商：STUDIO DEEN，2006年，原畫 、OP原畫）
-  - [暮蟬悲鳴時解](../Page/暮蟬悲鳴時_\(動畫\).md "wikilink")（總承包商：STUDIO
-    DEEN，2007年，原畫 ）
-  - [逮捕令
-    全速前進](https://zh.wikipedia.org/wiki/逮捕令_\(動畫\)#第3期 "wikilink")（總承包商：STUDIO
-    DEEN，2007年，原畫 ）
-  - [守護甜心！](../Page/守護甜心！.md "wikilink")（總承包商：SATELIGHT，2008年，原畫 ） -
-    第17話原画
+  - [暮蟬悲鳴時解](../Page/暮蟬悲鳴時_\(動畫\).md "wikilink")（總承包商：STUDIO DEEN，2007年，原畫 ）
+  - [逮捕令 全速前進](https://zh.wikipedia.org/wiki/逮捕令_\(動畫\)#第3期 "wikilink")（總承包商：STUDIO DEEN，2007年，原畫 ）
+  - [守護甜心！](../Page/守護甜心！.md "wikilink")（總承包商：SATELIGHT，2008年，原畫 ） - 第17話原画
   - 瑪莉亞的凝望 4th Season（總承包商：STUDIO DEEN，2009年，原畫 ）
 
 <!-- end list -->
@@ -193,15 +185,13 @@ KADOKAWA</p></td>
 
   - （總承包商：、，2009年，原畫 等）
 
-  - [BLACK★ROCK
-    SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")（總承包商：[Ordet](../Page/Ordet.md "wikilink")、2010年，原畫）
+  - [BLACK★ROCK SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")（總承包商：[Ordet](../Page/Ordet.md "wikilink")、2010年，原畫）
 
   - [Six♥Princess](http://fukuhen.lammfromm.jp/?p=7824)（導演：，2010年，人物設定）
 
   - [C](../Page/C_\(動畫\).md "wikilink")（總承包商：[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")，2011年，人物設定）
 
-  - [罪惡王冠](../Page/罪惡王冠.md "wikilink")（總承包商：[Production I.G
-    6課](../Page/Production_I.G.md "wikilink")、2011年，第9話片尾插圖）
+  - [罪惡王冠](../Page/罪惡王冠.md "wikilink")（總承包商：[Production I.G 6課](../Page/Production_I.G.md "wikilink")、2011年，第9話片尾插圖）
 
   - [問題兒童都來自異世界？](../Page/問題兒童都來自異世界？.md "wikilink")（總承包商：[diomedéa](https://zh.wikipedia.org/wiki/diomedéa "wikilink")，2013年，第2話片尾插圖）
 
@@ -231,9 +221,4 @@ KADOKAWA</p></td>
 
   -
 
-[Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink")
-[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink")
-[Category:日本動畫師](https://zh.wikipedia.org/wiki/Category:日本動畫師 "wikilink")
-[Category:動畫人物設計師](https://zh.wikipedia.org/wiki/Category:動畫人物設計師 "wikilink")
-[Category:北海道出身人物](https://zh.wikipedia.org/wiki/Category:北海道出身人物 "wikilink")
-[Category:北海道教育大學校友](https://zh.wikipedia.org/wiki/Category:北海道教育大學校友 "wikilink")
+[Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink") [Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:日本動畫師](https://zh.wikipedia.org/wiki/Category:日本動畫師 "wikilink") [Category:動畫人物設計師](https://zh.wikipedia.org/wiki/Category:動畫人物設計師 "wikilink") [Category:北海道出身人物](https://zh.wikipedia.org/wiki/Category:北海道出身人物 "wikilink") [Category:北海道教育大學校友](https://zh.wikipedia.org/wiki/Category:北海道教育大學校友 "wikilink")

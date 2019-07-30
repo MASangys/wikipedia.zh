@@ -2,7 +2,7 @@
 
 ## 公司概要
 
-1995年11月1日，由[卡普空開發部門出身的](../Page/卡普空.md "wikilink")自行就任執行社長，成立ARIKA的前身「株式會社ARMTEC（）」\[2\]。
+1995年11月1日，由[卡普空](../Page/卡普空.md "wikilink")開發部門出身的自行就任執行社長，成立ARIKA的前身「株式會社ARMTEC（）」\[2\]。
 
 1996年3月改成現在的公司名稱。其公司名稱取自於創設人西谷用自己的名字（AKIRA→ARIKA）倒過來念的念法。
 
@@ -40,18 +40,15 @@
 
   - （1997年7月17日）
 
-  - [Animetic Story Game 1
-    -{zh-tw:庫洛魔法使;zh-cn:魔卡少女樱;zh-hk:百變小櫻;}-](https://zh.wikipedia.org/wiki/百變小櫻#遊戲 "wikilink")（1999年8月5日）
+  - [Animetic Story Game 1 -{zh-tw:庫洛魔法使;zh-cn:魔卡少女樱;zh-hk:百變小櫻;}-](https://zh.wikipedia.org/wiki/百變小櫻#遊戲 "wikilink")（1999年8月5日）
 
   - 快打旋風EX2 PLUＳ（1999年12月24日）
 
-  - \-{zh-tw:庫洛魔法使;zh-cn:魔卡少女樱;zh-hk:百變小櫻;}-
-    -{zh-tw:庫洛牌;zh-cn:库洛牌;zh-hk:古羅咭;}-魔法（2000年1月27日發行／限定版、通常版共同）
+  - \-{zh-tw:庫洛魔法使;zh-cn:魔卡少女樱;zh-hk:百變小櫻;}- -{zh-tw:庫洛牌;zh-cn:库洛牌;zh-hk:古羅咭;}-魔法（2000年1月27日發行／限定版、通常版共同）
 
   - 快打旋風EX3（2000年3月4日）
 
-  - 俄羅斯方塊 with -{zh-tw:庫洛魔法使;zh-cn:魔卡少女樱;zh-hk:百變小櫻Magic咭;}-
-    永恆的心（2000年8月10日）
+  - 俄羅斯方塊 with -{zh-tw:庫洛魔法使;zh-cn:魔卡少女樱;zh-hk:百變小櫻Magic咭;}- 永恆的心（2000年8月10日）
 
   - [音樂大作戰](https://zh.wikipedia.org/wiki/音樂大作戰 "wikilink")（2001年1月25日）
 
@@ -71,11 +68,9 @@
 
   - （2004年7月29日）
 
-  - [TSUBASA翼 -RESERVoir
-    CHRoNiCLE-](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")（2005年10月27日）
+  - [TSUBASA翼 -RESERVoir CHRoNiCLE-](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")（2005年10月27日）
 
-  - [TSUBASA翼 -RESERVoir CHRoNiCLE-
-    Vol.2](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")（2006年4月20日）
+  - [TSUBASA翼 -RESERVoir CHRoNiCLE- Vol.2](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")（2006年4月20日）
 
   - （2005年12月10日）
 
@@ -91,8 +86,7 @@
 
   - （2009年9月17日）
 
-  - [立體益智泡泡龍
-    3D](https://zh.wikipedia.org/wiki/立體益智泡泡龍_3D "wikilink")（2011年2月26日）
+  - [立體益智泡泡龍 3D](https://zh.wikipedia.org/wiki/立體益智泡泡龍_3D "wikilink")（2011年2月26日）
 
   - 3D classic （2011年6月7日）
 
@@ -104,7 +98,7 @@
 
   - （2018年6月28日）
 
-  - [俄羅斯方塊99](../Page/俄羅斯方塊99.md "wikilink")（2019年2月14日，[任天堂Switch線上服務加入者用特典](../Page/任天堂Switch線上服務.md "wikilink")）
+  - [俄羅斯方塊99](../Page/俄羅斯方塊99.md "wikilink")（2019年2月14日，[任天堂Switch線上服務](../Page/任天堂Switch線上服務.md "wikilink")加入者用特典）
 
 ## 來源
 
@@ -114,9 +108,7 @@
 
   -
 
-[Category:1995年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1995年開業電子遊戲公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink")
+[Category:1995年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1995年開業電子遊戲公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink")
 
 1.
 

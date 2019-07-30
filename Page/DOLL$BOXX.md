@@ -1,10 +1,8 @@
-**DOLL$BOXX**（ドールズボックス）是[日本的五人](../Page/日本.md "wikilink")[女子搖滾樂團](https://zh.wikipedia.org/wiki/女子 "wikilink")，2012年12月12日，發售專輯「DOLLS
-APARTMENT」正式出道。
+**DOLL$BOXX**（ドールズボックス）是[日本](../Page/日本.md "wikilink")的五人[女子搖滾樂團](https://zh.wikipedia.org/wiki/女子 "wikilink")，2012年12月12日，發售專輯「DOLLS APARTMENT」正式出道。
 
 ## 簡介
 
-**DOLL$BOXX**是[Fuki作為支援主唱成為契機](../Page/Fuki.md "wikilink")，與樂團[Gacharic
-spin](../Page/Gacharic_Spin.md "wikilink") 組成而誕生的。
+**DOLL$BOXX**是[Fuki](../Page/Fuki.md "wikilink")作為支援主唱成為契機，與樂團[Gacharic spin](../Page/Gacharic_Spin.md "wikilink") 組成而誕生的。
 
 ## 音樂作品
 
@@ -39,13 +37,9 @@ spin](../Page/Gacharic_Spin.md "wikilink") 組成而誕生的。
 
 [DOLL$BOXX 官方Twitter](https://twitter.com/dolls_boxx)
 
-[DOLL$BOXX
-YOUTUBE](https://www.youtube.com/user/kingrecords/search?query=DOLL%24BOXX)（KING
-RECORDS）
+[DOLL$BOXX YOUTUBE](https://www.youtube.com/user/kingrecords/search?query=DOLL%24BOXX)（KING RECORDS）
 
-[DOLL$BOXX
-YOUTUBE](https://www.youtube.com/user/VictorMusicChannel/search?query=DOLL%24BOXX)（Victor
-Entertainment）
+[DOLL$BOXX YOUTUBE](https://www.youtube.com/user/VictorMusicChannel/search?query=DOLL%24BOXX)（Victor Entertainment）
 
 1.   DOLL$BOXX|newspaper=ORICON NEWS|accessdate=2018-03-10|language=ja}}
 2.   DOLL$BOXX|newspaper=ORICON NEWS|accessdate=2018-03-10|language=ja}}

@@ -1,5 +1,4 @@
-**Star J
-Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。成立在1996年，包括藝人管理等，當紅藝人包括演員[秀愛](../Page/秀愛.md "wikilink")、[蘇有珍](../Page/蘇有珍.md "wikilink")、[王智慧等多名演員](../Page/王智慧.md "wikilink")。
+**Star J Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。成立在1996年，包括藝人管理等，當紅藝人包括演員[秀愛](../Page/秀愛.md "wikilink")、[蘇有珍](../Page/蘇有珍.md "wikilink")、[王智慧](../Page/王智慧.md "wikilink")等多名演員。
 
 ## 旗下演員
 

@@ -1,16 +1,3 @@
-**崔西·劳伦·马洛**（，），常用[艺名](https://zh.wikipedia.org/wiki/艺名 "wikilink")“****”，是美国的[饶舌说唱歌手](../Page/饒舌.md "wikilink")、金属歌手、演员。他1980年代以饶舌说唱打开自己的职业生涯，后在1987年与[Sire
-Records签约](../Page/Sire_Records.md "wikilink")，发行了首张专辑《》，是最先打上[家长指导标识的专辑之一](../Page/家长指导标识.md "wikilink")。后来，他创立了唱片品牌“Rhyme
-$yndicate Records”，并释出了另一张专辑《》。
+**崔西·劳伦·马洛**（，），常用[艺名](https://zh.wikipedia.org/wiki/艺名 "wikilink")“****”，是美国的[饶舌说唱歌手](../Page/饒舌.md "wikilink")、金属歌手、演员。他1980年代以饶舌说唱打开自己的职业生涯，后在1987年与[Sire Records签约](../Page/Sire_Records.md "wikilink")，发行了首张专辑《》，是最先打上[家长指导标识](../Page/家长指导标识.md "wikilink")的专辑之一。后来，他创立了唱片品牌“Rhyme $yndicate Records”，并释出了另一张专辑《》。
 
-[Category:Ice-T](https://zh.wikipedia.org/wiki/Category:Ice-T "wikilink")
-[Category:非洲裔美国男演员](https://zh.wikipedia.org/wiki/Category:非洲裔美国男演员 "wikilink")
-[Category:美國電影男演員](https://zh.wikipedia.org/wiki/Category:美國電影男演員 "wikilink")
-[Category:美國電視男演員](https://zh.wikipedia.org/wiki/Category:美國電視男演員 "wikilink")
-[Category:美国男配音演员](https://zh.wikipedia.org/wiki/Category:美国男配音演员 "wikilink")
-[Category:美國社會運動者](https://zh.wikipedia.org/wiki/Category:美國社會運動者 "wikilink")
-[Category:美國重金屬歌手](https://zh.wikipedia.org/wiki/Category:美國重金屬歌手 "wikilink")
-[Category:葛莱美奖获得者](https://zh.wikipedia.org/wiki/Category:葛莱美奖获得者 "wikilink")
-[Category:洛杉矶市男演员](https://zh.wikipedia.org/wiki/Category:洛杉矶市男演员 "wikilink")
-[Category:美国陆军士兵](https://zh.wikipedia.org/wiki/Category:美国陆军士兵 "wikilink")
-[Category:20世纪美国男演员](https://zh.wikipedia.org/wiki/Category:20世纪美国男演员 "wikilink")
-[Category:21世紀美國男演員](https://zh.wikipedia.org/wiki/Category:21世紀美國男演員 "wikilink")
+[Category:Ice-T](https://zh.wikipedia.org/wiki/Category:Ice-T "wikilink") [Category:非洲裔美国男演员](https://zh.wikipedia.org/wiki/Category:非洲裔美国男演员 "wikilink") [Category:美國電影男演員](https://zh.wikipedia.org/wiki/Category:美國電影男演員 "wikilink") [Category:美國電視男演員](https://zh.wikipedia.org/wiki/Category:美國電視男演員 "wikilink") [Category:美国男配音演员](https://zh.wikipedia.org/wiki/Category:美国男配音演员 "wikilink") [Category:美國社會運動者](https://zh.wikipedia.org/wiki/Category:美國社會運動者 "wikilink") [Category:美國重金屬歌手](https://zh.wikipedia.org/wiki/Category:美國重金屬歌手 "wikilink") [Category:葛莱美奖获得者](https://zh.wikipedia.org/wiki/Category:葛莱美奖获得者 "wikilink") [Category:洛杉矶市男演员](https://zh.wikipedia.org/wiki/Category:洛杉矶市男演员 "wikilink") [Category:美国陆军士兵](https://zh.wikipedia.org/wiki/Category:美国陆军士兵 "wikilink") [Category:20世纪美国男演员](https://zh.wikipedia.org/wiki/Category:20世纪美国男演员 "wikilink") [Category:21世紀美國男演員](https://zh.wikipedia.org/wiki/Category:21世紀美國男演員 "wikilink")

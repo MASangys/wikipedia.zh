@@ -1,5 +1,4 @@
-**寶瓶座FO**（**FO
-Aquarii**）是位於[寶瓶座的](../Page/寶瓶座.md "wikilink")[中介偏振星](../Page/中介偏振星.md "wikilink")\[1\]。
+**寶瓶座FO**（**FO Aquarii**）是位於[寶瓶座](../Page/寶瓶座.md "wikilink")的[中介偏振星](../Page/中介偏振星.md "wikilink")\[1\]。
 
 ## 概要
 
@@ -7,9 +6,7 @@ Aquarii**）是位於[寶瓶座的](../Page/寶瓶座.md "wikilink")[中介偏�
 
 ## 參考資料
 
-[Category:中介偏振星](https://zh.wikipedia.org/wiki/Category:中介偏振星 "wikilink")
-[Category:寶瓶座](https://zh.wikipedia.org/wiki/Category:寶瓶座 "wikilink")
-[Category:以变星命名法命名的天体](https://zh.wikipedia.org/wiki/Category:以变星命名法命名的天体 "wikilink")
+[Category:中介偏振星](https://zh.wikipedia.org/wiki/Category:中介偏振星 "wikilink") [Category:寶瓶座](https://zh.wikipedia.org/wiki/Category:寶瓶座 "wikilink") [Category:以变星命名法命名的天体](https://zh.wikipedia.org/wiki/Category:以变星命名法命名的天体 "wikilink")
 
 1.
 2.

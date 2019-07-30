@@ -39,30 +39,22 @@
 </tbody>
 </table>
 
-[Trackway_at_Alabama_Avenue.jpg](https://zh.wikipedia.org/wiki/File:Trackway_at_Alabama_Avenue.jpg "fig:Trackway_at_Alabama_Avenue.jpg")
-此高架車站設有一個[島式月台和兩條軌道](../Page/島式月台.md "wikilink")\[3\]。
+[Trackway_at_Alabama_Avenue.jpg](https://zh.wikipedia.org/wiki/File:Trackway_at_Alabama_Avenue.jpg "fig:Trackway_at_Alabama_Avenue.jpg") 此高架車站設有一個[島式月台](../Page/島式月台.md "wikilink")和兩條軌道\[3\]。
 
 ## 參考資料
 
 ## 外部連結
 
   -
-  - Station Reporter — [J
-    Train](https://web.archive.org/web/20121108033658/http://www.stationreporter.net/jtrain.htm)
+  - Station Reporter — [J Train](https://web.archive.org/web/20121108033658/http://www.stationreporter.net/jtrain.htm)
 
-  - The Subway Nut — [Alabama Avenue
-    Pictures](http://www.subwaynut.com/bmt/alabamaj/index.php)
+  - The Subway Nut — [Alabama Avenue Pictures](http://www.subwaynut.com/bmt/alabamaj/index.php)
 
-  - [Alabama Avenue entrance from Google Maps Street
-    View](https://maps.google.com/?ie=UTF8&ll=40.676773,-73.900201&spn=0,0.013314&z=17&layer=c&cbll=40.676835,-73.900047&panoid=d27IVgkiKvpEJXzg5NVS_g&cbp=12,119.73,,0,9.06)
+  - [Alabama Avenue entrance from Google Maps Street View](https://maps.google.com/?ie=UTF8&ll=40.676773,-73.900201&spn=0,0.013314&z=17&layer=c&cbll=40.676835,-73.900047&panoid=d27IVgkiKvpEJXzg5NVS_g&cbp=12,119.73,,0,9.06)
 
-  - [Platform from Google Maps Street
-    View](https://www.google.com/maps/@40.6769669,-73.8988288,3a,75y,286.43h,90.69t/data=!3m8!1e1!3m6!1s-WGfJloUj8qY%2FV3K55JiLCjI%2FAAAAAAAADD4%2F1FAh8Plq5kg9lfQY9XAVM1snlSSluJ6aQCLIB!2e4!3e11!6s%2F%2Flh5.googleusercontent.com%2F-WGfJloUj8qY%2FV3K55JiLCjI%2FAAAAAAAADD4%2F1FAh8Plq5kg9lfQY9XAVM1snlSSluJ6aQCLIB%2Fw203-h101-n-k-no%2F!7i8704!8i4352)
+  - [Platform from Google Maps Street View](https://www.google.com/maps/@40.6769669,-73.8988288,3a,75y,286.43h,90.69t/data=!3m8!1e1!3m6!1s-WGfJloUj8qY%2FV3K55JiLCjI%2FAAAAAAAADD4%2F1FAh8Plq5kg9lfQY9XAVM1snlSSluJ6aQCLIB!2e4!3e11!6s%2F%2Flh5.googleusercontent.com%2F-WGfJloUj8qY%2FV3K55JiLCjI%2FAAAAAAAADD4%2F1FAh8Plq5kg9lfQY9XAVM1snlSSluJ6aQCLIB%2Fw203-h101-n-k-no%2F!7i8704!8i4352)
 
-[Category:BMT牙買加線車站](https://zh.wikipedia.org/wiki/Category:BMT牙買加線車站 "wikilink")
-[Category:1885年紐約州建立](https://zh.wikipedia.org/wiki/Category:1885年紐約州建立 "wikilink")
-[Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink")
-[Category:1885年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1885年啟用的鐵路車站 "wikilink")
+[Category:BMT牙買加線車站](https://zh.wikipedia.org/wiki/Category:BMT牙買加線車站 "wikilink") [Category:1885年紐約州建立](https://zh.wikipedia.org/wiki/Category:1885年紐約州建立 "wikilink") [Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink") [Category:1885年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1885年啟用的鐵路車站 "wikilink")
 
 1.
 2.

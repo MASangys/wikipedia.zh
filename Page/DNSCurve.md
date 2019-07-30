@@ -2,7 +2,7 @@
 
 ## 描述
 
-DNSCurve使用[Curve25519](../Page/Curve25519.md "wikilink")\[1\][椭圆曲线加密算法建立](https://zh.wikipedia.org/wiki/椭圆曲线加密算法 "wikilink")[Salsa20使用的密钥](../Page/Salsa20.md "wikilink")，配以MAC函数[Poly1305](../Page/Poly1305.md "wikilink")，用来加密和验证[解析器与身份验证服务器之间的DNS](../Page/域名系统.md "wikilink")[網路封包](https://zh.wikipedia.org/wiki/網路封包 "wikilink")。远端验证服务器的[公钥放在NS记录中](../Page/公开密钥加密.md "wikilink")，以便递归解析器了解服务器是否支持DNSCurve。键值以[魔术字符串](../Page/魔术字.md "wikilink")`uz5`开头，后随51字节的编码的服务器的255位公钥。例如，以[BIND格式来看](../Page/BIND.md "wikilink")：
+DNSCurve使用[Curve25519](../Page/Curve25519.md "wikilink")\[1\][椭圆曲线加密算法建立](https://zh.wikipedia.org/wiki/椭圆曲线加密算法 "wikilink")[Salsa20](../Page/Salsa20.md "wikilink")使用的密钥，配以MAC函数[Poly1305](../Page/Poly1305.md "wikilink")，用来加密和验证[解析器与身份验证服务器之间的DNS](../Page/域名系统.md "wikilink")[網路封包](https://zh.wikipedia.org/wiki/網路封包 "wikilink")。远端验证服务器的[公钥放在NS记录中](../Page/公开密钥加密.md "wikilink")，以便递归解析器了解服务器是否支持DNSCurve。键值以[魔术字](../Page/魔术字.md "wikilink")符串`uz5`开头，后随51字节的编码的服务器的255位公钥。例如，以[BIND](../Page/BIND.md "wikilink")格式来看：
 
 `example.com. IN NS uz5bcx1nh80x1r17q653jf3guywz7cmyh5jv0qjz0unm56lq7rpj8l.example.com.`
 
@@ -18,26 +18,19 @@ DNSCurve声称优于以前的DNS服务：\[2\]
 
 ## 安全
 
-DNSCurve使用256位[椭圆曲线加密算法](https://zh.wikipedia.org/wiki/椭圆曲线加密算法 "wikilink")，[NIST估计大致相当于](../Page/國家標準技術研究所.md "wikilink")3072比特[RSA](../Page/RSA加密演算法.md "wikilink")。\[3\]ECRYPT报告了类似的估计。\[4\]它为每个查询都使用公钥加密（类似SSH和SSL），以及96比特nonces以防止重放攻击。Google安全官Adam
-Langley称：“很大概率上，没有人能在不使用一台大型的[量子计算机的情况下解决curve](../Page/量子计算机.md "wikilink")25519的单个实例。”\[5\]
+DNSCurve使用256位[椭圆曲线加密算法](https://zh.wikipedia.org/wiki/椭圆曲线加密算法 "wikilink")，[NIST估计大致相当于](../Page/國家標準技術研究所.md "wikilink")3072比特[RSA](../Page/RSA加密演算法.md "wikilink")。\[3\]ECRYPT报告了类似的估计。\[4\]它为每个查询都使用公钥加密（类似SSH和SSL），以及96比特nonces以防止重放攻击。Google安全官Adam Langley称：“很大概率上，没有人能在不使用一台大型的[量子计算机](../Page/量子计算机.md "wikilink")的情况下解决curve25519的单个实例。”\[5\]
 
 ## 速度
 
-Adam
-Langley在他的个人网站上展示了DNSCurve所使用的curve25519的速度测试，它是测试中最快的椭圆曲线加密法。\[6\]根据[NSA所说](../Page/美国国家安全局.md "wikilink")，椭圆曲线加密法在增加密钥大小的同时，几何速率方面的性能优于RSA和Diffie-Hellman。\[7\]
+Adam Langley在他的个人网站上展示了DNSCurve所使用的curve25519的速度测试，它是测试中最快的椭圆曲线加密法。\[6\]根据[NSA所说](../Page/美国国家安全局.md "wikilink")，椭圆曲线加密法在增加密钥大小的同时，几何速率方面的性能优于RSA和Diffie-Hellman。\[7\]
 
 ## 实现
 
-DNSCurve通过\[8\]Matthew
-Dempsky为dnscache的一个补丁取得了首个递归支持。Dempsky也有一个[GitHub代码库](../Page/GitHub.md "wikilink")，里面包括Python
-DNS查询工具和一个C语言编写的转发器。\[9\]Adam
-Langley同样有一个GitHub代码库。\[10\]有一个权威转发器名为CurveDNS\[11\]，它允许DNS管理员保护现有的安装而无须打补丁。OpenDNS已发布DNSCrypt\[12\]来保护OpenDNS用户与其递归解析器之间的信道。Jan
-Mojžíš发布了curveprotect\[13\]，这是一个实现DNSCurve和CurveCP的套件，保护DNS、SSH、HTTP和[SMTP等常见服务](https://zh.wikipedia.org/wiki/SMTP "wikilink")。
+DNSCurve通过\[8\]Matthew Dempsky为dnscache的一个补丁取得了首个递归支持。Dempsky也有一个[GitHub](../Page/GitHub.md "wikilink")代码库，里面包括Python DNS查询工具和一个C语言编写的转发器。\[9\]Adam Langley同样有一个GitHub代码库。\[10\]有一个权威转发器名为CurveDNS\[11\]，它允许DNS管理员保护现有的安装而无须打补丁。OpenDNS已发布DNSCrypt\[12\]来保护OpenDNS用户与其递归解析器之间的信道。Jan Mojžíš发布了curveprotect\[13\]，这是一个实现DNSCurve和CurveCP的套件，保护DNS、SSH、HTTP和[SMTP等常见服务](https://zh.wikipedia.org/wiki/SMTP "wikilink")。
 
 ## 部署
 
-[OpenDNS](../Page/OpenDNS.md "wikilink")
-服务超过5000万用户的于2010年2月23日宣布其递归解析器支持DNSCurve。\[14\]2011年12月6日，OpenDNS宣布名为[DNSCrypt的新工具](../Page/DNSCrypt.md "wikilink")\[15\]该工具能保护OpenDNS与其用户之间的信道。\[16\]尚无其他类似的权威DNS提供商部署DNSCurve。
+[OpenDNS](../Page/OpenDNS.md "wikilink") 服务超过5000万用户的于2010年2月23日宣布其递归解析器支持DNSCurve。\[14\]2011年12月6日，OpenDNS宣布名为[DNSCrypt](../Page/DNSCrypt.md "wikilink")的新工具\[15\]该工具能保护OpenDNS与其用户之间的信道。\[16\]尚无其他类似的权威DNS提供商部署DNSCurve。
 
 ## 参见
 
@@ -51,21 +44,14 @@ Mojžíš发布了curveprotect\[13\]，这是一个实现DNSCurve和CurveCP的�
 
   - [Official website](https://dnscurve.org)
   - [DNSCurve.io: a community for DNSCurve users](https://dnscurve.io)
-  - [High-speed cryptography and
-    DNSCurve](http://cr.yp.to/talks/2009.06.27/slides.pdf)，2009年6月作者的介绍
-  - [DNSCurve: Usable security for
-    DNS](http://cr.yp.to/talks/2008.08.22/slides.pdf)，2008年8月作者的介绍
-  - [draft-dempsky-dnscurve-01](http://tools.ietf.org/html/draft-dempsky-dnscurve-01)
-    提议标准：“DNSCurve: Link-Level Security for the Domain Name System”，M.
-    Dempsky（来自[OpenDNS](../Page/OpenDNS.md "wikilink")）发送给[IETF](../Page/互联网工程任务组.md "wikilink")
-    （更新于2010年2月）
-  - [OpenDNS adopts
-    DNSCurve](http://blog.opendns.com/2010/02/23/opendns-dnscurve/)，OpenDNS官方博文
+  - [High-speed cryptography and DNSCurve](http://cr.yp.to/talks/2009.06.27/slides.pdf)，2009年6月作者的介绍
+  - [DNSCurve: Usable security for DNS](http://cr.yp.to/talks/2008.08.22/slides.pdf)，2008年8月作者的介绍
+  - [draft-dempsky-dnscurve-01](http://tools.ietf.org/html/draft-dempsky-dnscurve-01) 提议标准：“DNSCurve: Link-Level Security for the Domain Name System”，M. Dempsky（来自[OpenDNS](../Page/OpenDNS.md "wikilink")）发送给[IETF](../Page/互联网工程任务组.md "wikilink") （更新于2010年2月）
+  - [OpenDNS adopts DNSCurve](http://blog.opendns.com/2010/02/23/opendns-dnscurve/)，OpenDNS官方博文
   - [CurveDNS](http://curvedns.on2it.net/)，DNSCurve转发名称服务器
   - [NaCl](http://nacl.cr.yp.to/)，网络和加密程序库
 
-[Category:域名](https://zh.wikipedia.org/wiki/Category:域名 "wikilink")
-[Category:橢圓曲線密碼學](https://zh.wikipedia.org/wiki/Category:橢圓曲線密碼學 "wikilink")
+[Category:域名](https://zh.wikipedia.org/wiki/Category:域名 "wikilink") [Category:橢圓曲線密碼學](https://zh.wikipedia.org/wiki/Category:橢圓曲線密碼學 "wikilink")
 
 1.
 2.

@@ -1,9 +1,8 @@
-**HTTP头字段**（）是指在[超文本传输协议](../Page/超文本传输协议.md "wikilink")（HTTP）的请求和响应消息中的消息头部分。它们定义了一个超文本传输协议事务中的操作参数。HTTP头部字段可以自己根据需要定义，因此可能在
-Web 服务器和浏览器上发现非标准的头字段。
+**HTTP头字段**（）是指在[超文本传输协议](../Page/超文本传输协议.md "wikilink")（HTTP）的请求和响应消息中的消息头部分。它们定义了一个超文本传输协议事务中的操作参数。HTTP头部字段可以自己根据需要定义，因此可能在 Web 服务器和浏览器上发现非标准的头字段。
 
 ## 基本格式
 
-协议头的字段，是在请求（request）或响应（response）行（一条消息的第一行内容）之后传输的。协议头的字段是以明文的[字符串格式传输](../Page/字符串.md "wikilink")，是以冒号分隔的键名与键值对，以回车(CR)加换行(LF)符号序列结尾。协议头部分的结尾以一个空白字段标识，结果就是，也就是传输两个连续的CR+LF。在历史上，很长的行曾经可能以多个短行的形式传输；在下一行的开头，输出一个空格(SP)或者一个水平制表符(HT)，表示它是一个后续行。在如今，这种换行形式已经被废弃\[1\]。
+协议头的字段，是在请求（request）或响应（response）行（一条消息的第一行内容）之后传输的。协议头的字段是以明文的[字符串](../Page/字符串.md "wikilink")格式传输，是以冒号分隔的键名与键值对，以回车(CR)加换行(LF)符号序列结尾。协议头部分的结尾以一个空白字段标识，结果就是，也就是传输两个连续的CR+LF。在历史上，很长的行曾经可能以多个短行的形式传输；在下一行的开头，输出一个空格(SP)或者一个水平制表符(HT)，表示它是一个后续行。在如今，这种换行形式已经被废弃\[1\]。
 
 ## 类型
 
@@ -16,10 +15,7 @@ HTTP 头字段根据实际用途被分为以下 4 种类型：
 
 ## 字段名
 
-在 RFC 7230、RFC 7231、RFC 7232、RFC 7233、RFC 7234 和 RFC 7235
-中，对一组核心字段进行了标准化。有一份对于这些字段的官方的登记册，以及
-一系列的补充规范
-，由互联网号码分配局（IANA）维护。各个应用程序也可以自行定义额外的字段名字及相应的值。[头字段的永久登记表](http://www.iana.org/assignments/message-headers/message-headers.xml#perm-headers)和[临时登记表](http://www.iana.org/assignments/message-headers/message-headers.xml#prov-headers)目前由[IANA维护](https://zh.wikipedia.org/wiki/IANA "wikilink")。其他的字段名称和允许的值可以由各应用程序定义。
+在 RFC 7230、RFC 7231、RFC 7232、RFC 7233、RFC 7234 和 RFC 7235 中，对一组核心字段进行了标准化。有一份对于这些字段的官方的登记册，以及 一系列的补充规范 ，由互联网号码分配局（IANA）维护。各个应用程序也可以自行定义额外的字段名字及相应的值。[头字段的永久登记表](http://www.iana.org/assignments/message-headers/message-headers.xml#perm-headers)和[临时登记表](http://www.iana.org/assignments/message-headers/message-headers.xml#prov-headers)目前由[IANA维护](https://zh.wikipedia.org/wiki/IANA "wikilink")。其他的字段名称和允许的值可以由各应用程序定义。
 
 按照惯例，非标准的协议头字段是在字段名称前加上`X-`\[2\]前缀来标识。但这一惯例已在2012年6月被废弃，因为按照这种惯例，非标准字段变成标准字段时会引起很多不方便之处。\[3\]以前曾经有的使用`Downgraded-`的限制也在2013年3月被解除。\[4\]。
 
@@ -27,12 +23,11 @@ HTTP 头字段根据实际用途被分为以下 4 种类型：
 
 某些字段中可以包含注释内容（例如User-Agent、Server和Via字段中)，这些注释内容可由应用程序忽略\[5\]。
 
-很多字段的值中可以包含带有权重的[质量](../Page/质量.md "wikilink")（quality，常被简称为Q）的键值对，指定的“重量”会在[内容协商的过程中使用](../Page/内容协商.md "wikilink")\[6\]。
+很多字段的值中可以包含带有权重的[质量](../Page/质量.md "wikilink")（quality，常被简称为Q）的键值对，指定的“重量”会在[内容协商](../Page/内容协商.md "wikilink")的过程中使用\[6\]。
 
 ## 大小限制
 
-标准中没有对每个协议头字段的名称和值的大小设置任何限制，也没有限制字段的个数。然而，出于实际场景及安全性的考虑，大部分的服务器、客户端和代理软件都会实施一些限制。例如，[Apache](https://zh.wikipedia.org/wiki/Apache "wikilink")
-2.3服务器在默认情况下限制每个字段的大小不得超过8190字节，同时，单个请求中最多有100个头字段\[7\]。
+标准中没有对每个协议头字段的名称和值的大小设置任何限制，也没有限制字段的个数。然而，出于实际场景及安全性的考虑，大部分的服务器、客户端和代理软件都会实施一些限制。例如，[Apache](https://zh.wikipedia.org/wiki/Apache "wikilink") 2.3服务器在默认情况下限制每个字段的大小不得超过8190字节，同时，单个请求中最多有100个头字段\[7\]。
 
 ## 请求字段
 
@@ -53,7 +48,7 @@ HTTP 头字段根据实际用途被分为以下 4 种类型：
 | Date                                                                                                                                            | 发送该消息的日期和时间(按照 RFC 7231 中定义的"超文本传输协议日期"格式来发送)                                                                                            | `Date: Tue, 15 Nov 1994 08:12:31 GMT`                                              | 常设       |
 | Expect                                                                                                                                          | 表明客户端要求服务器做出特定的行为                                                                                                                        | `Expect: 100-continue`                                                             | 常设       |
 | From                                                                                                                                            | 发起此请求的用户的邮件地址                                                                                                                            | `From: user@example.com`                                                           | 常设       |
-| Host                                                                                                                                            | 服务器的域名(用于虚拟主机 )，以及服务器所监听的[传输控制协议端口号](../Page/传输控制协议.md "wikilink")。如果所请求的端口是对应的服务的标准端口，则端口号可被省略。 \[10\] 自超文件传输协议版本1.1（HTTP/1.1）开始便是必需字段。 | `Host: en.wikipedia.org:80` `Host: en.wikipedia.org`                               | 常设       |
+| Host                                                                                                                                            | 服务器的域名(用于虚拟主机 )，以及服务器所监听的[传输控制协议](../Page/传输控制协议.md "wikilink")端口号。如果所请求的端口是对应的服务的标准端口，则端口号可被省略。 \[10\] 自超文件传输协议版本1.1（HTTP/1.1）开始便是必需字段。 | `Host: en.wikipedia.org:80` `Host: en.wikipedia.org`                               | 常设       |
 | If-Match                                                                                                                                        | 仅当客户端提供的实体与服务器上对应的实体相匹配时，才进行对应的操作。主要作用时，用作像 PUT 这样的方法中，仅当从用户上次更新某个资源以来，该资源未被修改的情况下，才更新该资源。                                               | `If-Match: "737060cd8c284d8af7ad3082f209582d"`                                     | 常设       |
 | If-Modified-Since                                                                                                                               | 允许在对应的内容未被修改的情况下返回304未修改（ 304 Not Modified ）                                                                                             | `If-Modified-Since: Sat, 29 Oct 1994 19:43:31 GMT`                                 | 常设       |
 | If-None-Match                                                                                                                                   | 允许在对应的内容未被修改的情况下返回304未修改（ 304 Not Modified ），参考 超文本传输协议 的[实体标记](../Page/HTTP_ETag.md "wikilink")                                         | `If-None-Match: "737060cd8c284d8af7ad3082f209582d"`                                | 常设       |
@@ -290,7 +285,7 @@ HTTP 头字段根据实际用途被分为以下 4 种类型：
 </tr>
 <tr class="even">
 <td><p>Trailer</p></td>
-<td><p>这个头部数值指示了在这一系列头部信息由由<a href="../Page/分块传输编码.md" title="wikilink">分块传输编码编码</a>。</p></td>
+<td><p>这个头部数值指示了在这一系列头部信息由由<a href="../Page/分块传输编码.md" title="wikilink">分块传输编码</a>编码。</p></td>
 <td><p><code>Trailer: Max-Forwards</code></p></td>
 <td><p>常设</p></td>
 </tr>
@@ -332,7 +327,7 @@ HTTP 头字段根据实际用途被分为以下 4 种类型：
 </tr>
 <tr class="odd">
 <td><p>X-Frame-Options[38]</p></td>
-<td><p><a href="../Page/点击劫持.md" title="wikilink">点击劫持保护</a>：</p>
+<td><p><a href="../Page/点击劫持.md" title="wikilink">点击劫持</a>保护：</p>
 <ul>
 <li><code>deny</code>：该页面不允许在 frame 中展示，即使是同域名内。</li>
 <li><code>sameorigin</code>：该页面允许同域名内在 frame 中展示。</li>
@@ -363,7 +358,7 @@ HTTP 头字段根据实际用途被分为以下 4 种类型：
 </tr>
 <tr class="even">
 <td><p><span class="nowrap" contenteditable="false">Content-Security-Policy</span>, <span class="nowrap" contenteditable="false"><em>X-Content-Security-Policy</em></span><span class="nowrap" contenteditable="false"></span>, <span class="nowrap" contenteditable="false"><em>X-WebKit-CSP</em></span><span class="nowrap" contenteditable="false"></span>[41]</p></td>
-<td><p><a href="../Page/内容安全策略.md" title="wikilink">内容安全策略定义</a>。</p></td>
+<td><p><a href="../Page/内容安全策略.md" title="wikilink">内容安全策略</a>定义。</p></td>
 <td><p><code>X-WebKit-CSP: default-src 'self'</code></p></td>
 </tr>
 <tr class="odd">
@@ -399,167 +394,67 @@ HTTP 头字段根据实际用途被分为以下 4 种类型：
 
 ## 外部链接
 
-  - [Headers: Permanent Message Header Field
-    Names](http://www.iana.org/assignments/message-headers/message-headers.xml#perm-headers%7CMessage)
+  - [Headers: Permanent Message Header Field Names](http://www.iana.org/assignments/message-headers/message-headers.xml#perm-headers%7CMessage)
   - RFC 6638: 废除给非标准参数加上前缀 X-
-  - RFC 7230: Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and
-    Routing
-  - RFC 7231: Hypertext Transfer Protocol (HTTP/1.1): Semantics and
-    Content
-  - RFC 7232: Hypertext Transfer Protocol (HTTP/1.1): Conditional
-    Requests
+  - RFC 7230: Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing
+  - RFC 7231: Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content
+  - RFC 7232: Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests
   - RFC 7233: Hypertext Transfer Protocol (HTTP/1.1): Range Requests
   - RFC 7234: Hypertext Transfer Protocol (HTTP/1.1): Caching
   - RFC 7235: Hypertext Transfer Protocol (HTTP/1.1): Authentication
   - RFC 2965: IETF HTTP State Management Mechanism RFC
-  - [HTTP/1.1 headers from a web server point of
-    view](http://www.and.org/texts/server-http)
-  - [HTTP Request Header
-    Viewer](https://web.archive.org/web/20151101110820/http://myhttp.info/)
-  - [HTTP Response Header Viewer](http://viewdns.info/httpheaders/) -
-    Retrieves the HTTP response headers of any domain.
-  - [Internet Explorer and Custom HTTP Headers - EricLaw's IEInternals -
-    Site Home - MSDN
-    Blogs](http://blogs.msdn.com/b/ieinternals/archive/2009/06/30/internet-explorer-custom-http-headers.aspx)
+  - [HTTP/1.1 headers from a web server point of view](http://www.and.org/texts/server-http)
+  - [HTTP Request Header Viewer](https://web.archive.org/web/20151101110820/http://myhttp.info/)
+  - [HTTP Response Header Viewer](http://viewdns.info/httpheaders/) - Retrieves the HTTP response headers of any domain.
+  - [Internet Explorer and Custom HTTP Headers - EricLaw's IEInternals - Site Home - MSDN Blogs](http://blogs.msdn.com/b/ieinternals/archive/2009/06/30/internet-explorer-custom-http-headers.aspx)
   - [crwlr.net - HTTP Header index](http://crwlr.net/)
-  - [HTTP Header with
-    Privacyinfo](https://web.archive.org/web/20121122100219/http://www.privacyinfo.org/http-headers)
-    - Display your HTTP request and response headers
+  - [HTTP Header with Privacyinfo](https://web.archive.org/web/20121122100219/http://www.privacyinfo.org/http-headers) - Display your HTTP request and response headers
 
 [Category:HTTP](https://zh.wikipedia.org/wiki/Category:HTTP "wikilink")
 
-1.  <cite class="citation web" contenteditable="false">["Hypertext
-    Transfer Protocol (HTTP/1.1): Message Syntax and
-    Routing"](https://zh.wikipedia.org/wiki/rfc:7230#section-3.2.4 "wikilink").
-    ietf.org<span class="reference-accessdate">. </span></cite>
+1.  <cite class="citation web" contenteditable="false">["Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing"](https://zh.wikipedia.org/wiki/rfc:7230#section-3.2.4 "wikilink"). ietf.org<span class="reference-accessdate">. </span></cite>
 2.
 3.
 4.
 5.
 6.
-7.  <cite class="citation web" contenteditable="false">["core - Apache
-    HTTP
-    Server"](https://web.archive.org/web/20120509104709/https://httpd.apache.org/docs/2.3/mod/core.html#limitrequestfieldsize).
-    </cite>
-8.  <cite class="citation web" contenteditable="false">["Hypertext
-    Transfer Protocol (HTTP/1.1): Message Syntax and
-    Routing"](https://zh.wikipedia.org/wiki/rfc:7230#section-6.1 "wikilink").
-    </cite>
-9.  <cite class="citation web" contenteditable="false">["Hypertext
-    Transfer Protocol (HTTP/1.1): Semantics and
-    Content"](https://zh.wikipedia.org/wiki/rfc:7231#appendix-B "wikilink")<span class="reference-accessdate">.
-    </span></cite>
-10. <cite class="citation web" contenteditable="false">["Hypertext
-    Transfer Protocol (HTTP/1.1): Message Syntax and
-    Routing"](https://zh.wikipedia.org/wiki/rfc:7230#section-5.4 "wikilink").
-    </cite>
-11. “引导者”（“referrer”）这个单词，在RFC
-    中被拼错了，因此在大部分的软件实现中也拼错了，以至于，错误的拼法成为了标准的用法，还被当成了正确的术语。
-12. <cite class="citation web" contenteditable="false">["Try out the "Do
-    Not Track" HTTP
-    header"](http://blog.sidstamm.com/2011/01/try-out-do-not-track-http-header.html)<span class="reference-accessdate">.
-    </span></cite>
-13. IETF [Do Not Track: A Universal Third-Party Web Tracking Opt
-    Out](http://tools.ietf.org/html/draft-mayer-do-not-track-00) March
-    7, 2011
-14. W3C [Tracking Preference Expression
-    (DNT)](http://www.w3.org/2011/tracking-protection/drafts/tracking-dnt.html),
-    January 26, 2012
-15. <cite class="citation web" contenteditable="false">Amos Jeffries
-    (2010-07-02). </cite>
-16. <cite class="citation web" contenteditable="false">The Apache
-    Software Foundation. ["mod_proxy - Apache HTTP Server
-    Version 2.2"](http://httpd.apache.org/docs/2.2/mod/mod_proxy.html#x-headers)<span class="reference-accessdate">.
-    </span></cite>
+7.  <cite class="citation web" contenteditable="false">["core - Apache HTTP Server"](https://web.archive.org/web/20120509104709/https://httpd.apache.org/docs/2.3/mod/core.html#limitrequestfieldsize). </cite>
+8.  <cite class="citation web" contenteditable="false">["Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing"](https://zh.wikipedia.org/wiki/rfc:7230#section-6.1 "wikilink"). </cite>
+9.  <cite class="citation web" contenteditable="false">["Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content"](https://zh.wikipedia.org/wiki/rfc:7231#appendix-B "wikilink")<span class="reference-accessdate">. </span></cite>
+10. <cite class="citation web" contenteditable="false">["Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing"](https://zh.wikipedia.org/wiki/rfc:7230#section-5.4 "wikilink"). </cite>
+11. “引导者”（“referrer”）这个单词，在RFC 中被拼错了，因此在大部分的软件实现中也拼错了，以至于，错误的拼法成为了标准的用法，还被当成了正确的术语。
+12. <cite class="citation web" contenteditable="false">["Try out the "Do Not Track" HTTP header"](http://blog.sidstamm.com/2011/01/try-out-do-not-track-http-header.html)<span class="reference-accessdate">. </span></cite>
+13. IETF [Do Not Track: A Universal Third-Party Web Tracking Opt Out](http://tools.ietf.org/html/draft-mayer-do-not-track-00) March 7, 2011
+14. W3C [Tracking Preference Expression (DNT)](http://www.w3.org/2011/tracking-protection/drafts/tracking-dnt.html), January 26, 2012
+15. <cite class="citation web" contenteditable="false">Amos Jeffries (2010-07-02). </cite>
+16. <cite class="citation web" contenteditable="false">The Apache Software Foundation. ["mod_proxy - Apache HTTP Server Version 2.2"](http://httpd.apache.org/docs/2.2/mod/mod_proxy.html#x-headers)<span class="reference-accessdate">. </span></cite>
 17. 因为反向代理往往修改这个头部
-18. <cite class="citation web" contenteditable="false">Dave Steinberg
-    (2007-04-10). </cite>
+18. <cite class="citation web" contenteditable="false">Dave Steinberg (2007-04-10). </cite>
 19. 在反向代理(负载均衡)上，即使最初发往该反向代理的请求类型是安全的超文本传输协议（HTTPS），该反向代理也仍然可能会使用超文本传输协议（HTTP）来与网页服务器通信。谷歌客户端在与谷歌服务器通信时会使用该协议头的一个替代形式（X-ProxyUser-Ip）。
-20. <cite class="citation web" contenteditable="false">\[<http://technet.microsoft.com/en-us/library/aa997519(v=exchg.65>).aspx
-    "Helping to Secure Communication: Client to Front-End Server"\].
-    2006-07-27<span class="reference-accessdate">. </span></cite>
-21. <cite class="citation web" contenteditable="false">["OpenSocial Core
-    API Server
-    Specification 2.5.1"](http://opensocial.github.io/spec/2.5.1/Core-API-Server.xml#rfc.section.2.1.1.1)<span class="reference-accessdate">.
-    </span></cite>
-22. <cite class="citation web" contenteditable="false">["ATT Device
-    ID"](http://developer.att.com/developer/forward.jsp?passedItemId=5300270)<span class="reference-accessdate">.
-    </span></cite>
-23. <cite class="citation web" contenteditable="false">["WAP
-    Profile"](http://www.developershome.com/wap/detection/detection.asp?page=profileHeader)<span class="reference-accessdate">.
-    </span></cite>
-24. <cite class="citation web" contenteditable="false">["The
-    Proxy-Connection: header is a mistake in how some web browsers use
-    HTTP."](http://homepage.ntlworld.com/jonathan.deboynepollard/FGA/web-proxy-connection-header.html)
-    </cite>
-25. <cite class="citation web" contenteditable="false">["SAP Cross-Site
-    Request Forgery
-    Protection"](https://help.sap.com/saphelp_nw74/helpdata/en/b3/5c22518bc72214e10000000a44176d/content.htm).
-    </cite>
-26. <cite class="citation web" contenteditable="false">["Django Cross
-    Site Request Forgery
-    protection"](https://docs.djangoproject.com/en/1.7/ref/contrib/csrf/).
-    </cite>
-27. <cite class="citation web" contenteditable="false">["Angular Cross
-    Site Request Forgery (XSRF)
-    Protection"](https://docs.angularjs.org/api/ng/service/$http#cross-site-request-forgery-xsrf-protection).
-    </cite>。
-28. <cite class="citation web" contenteditable="false">["RFC
-    5789"](https://zh.wikipedia.org/wiki/rfc:5789#section-3.1 "wikilink")<span class="reference-accessdate">.
-    </span></cite>
-29. <cite class="citation web" contenteditable="false">["Hypertext
-    Transfer Protocol (HTTP/1.1): Message Syntax and
-    Routing"](https://zh.wikipedia.org/wiki/rfc:7230#section-6.1 "wikilink").
-    </cite>
-30. <cite class="citation web" contenteditable="false">["RFC
-    6266"](https://zh.wikipedia.org/wiki/rfc:6266 "wikilink")<span class="reference-accessdate">.
-    </span></cite>
+20. <cite class="citation web" contenteditable="false">\[<http://technet.microsoft.com/en-us/library/aa997519(v=exchg.65>).aspx "Helping to Secure Communication: Client to Front-End Server"\]. 2006-07-27<span class="reference-accessdate">. </span></cite>
+21. <cite class="citation web" contenteditable="false">["OpenSocial Core API Server Specification 2.5.1"](http://opensocial.github.io/spec/2.5.1/Core-API-Server.xml#rfc.section.2.1.1.1)<span class="reference-accessdate">. </span></cite>
+22. <cite class="citation web" contenteditable="false">["ATT Device ID"](http://developer.att.com/developer/forward.jsp?passedItemId=5300270)<span class="reference-accessdate">. </span></cite>
+23. <cite class="citation web" contenteditable="false">["WAP Profile"](http://www.developershome.com/wap/detection/detection.asp?page=profileHeader)<span class="reference-accessdate">. </span></cite>
+24. <cite class="citation web" contenteditable="false">["The Proxy-Connection: header is a mistake in how some web browsers use HTTP."](http://homepage.ntlworld.com/jonathan.deboynepollard/FGA/web-proxy-connection-header.html) </cite>
+25. <cite class="citation web" contenteditable="false">["SAP Cross-Site Request Forgery Protection"](https://help.sap.com/saphelp_nw74/helpdata/en/b3/5c22518bc72214e10000000a44176d/content.htm). </cite>
+26. <cite class="citation web" contenteditable="false">["Django Cross Site Request Forgery protection"](https://docs.djangoproject.com/en/1.7/ref/contrib/csrf/). </cite>
+27. <cite class="citation web" contenteditable="false">["Angular Cross Site Request Forgery (XSRF) Protection"](https://docs.angularjs.org/api/ng/service/$http#cross-site-request-forgery-xsrf-protection). </cite>。
+28. <cite class="citation web" contenteditable="false">["RFC 5789"](https://zh.wikipedia.org/wiki/rfc:5789#section-3.1 "wikilink")<span class="reference-accessdate">. </span></cite>
+29. <cite class="citation web" contenteditable="false">["Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing"](https://zh.wikipedia.org/wiki/rfc:7230#section-6.1 "wikilink"). </cite>
+30. <cite class="citation web" contenteditable="false">["RFC 6266"](https://zh.wikipedia.org/wiki/rfc:6266 "wikilink")<span class="reference-accessdate">. </span></cite>
 31. [<https://tools.ietf.org/html/rfc7231#section-3.1.3.2>](https://zh.wikipedia.org/wiki/rfc:7231#section-3.1.3.2 "wikilink")<span>[<font size="1"><font color="black">(</font><u><font color="#CC0000">123cha</font></u><font color="black">)</font></font>](http://www.123cha.com/ip/?q=)</span>
-32. <cite class="citation web" contenteditable="false">["Hypertext
-    Transfer Protocol (HTTP/1.1): Semantics and
-    Content"](https://zh.wikipedia.org/wiki/rfc:7231#appendix-B "wikilink")<span class="reference-accessdate">.
-    </span></cite>
-33. [Indicate the canonical version of a URL by responding with the Link
-    rel="canonical" HTTP
-    header](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=139394)
-    Retrieved: 2012-02-09
+32. <cite class="citation web" contenteditable="false">["Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content"](https://zh.wikipedia.org/wiki/rfc:7231#appendix-B "wikilink")<span class="reference-accessdate">. </span></cite>
+33. [Indicate the canonical version of a URL by responding with the Link rel="canonical" HTTP header](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=139394) Retrieved: 2012-02-09
 34. W3C [P3P Work Suspended](http://www.w3.org/P3P)
-35. <cite class="citation web" contenteditable="false">["Public Key
-    Pinning Extension for
-    HTTP"](http://www.rfc-editor.org/rfc/rfc7469.txt). </cite>
-36. <cite class="citation web" contenteditable="false">["Hypertext
-    Transfer Protocol (HTTP/1.1): Semantics and
-    Content"](https://zh.wikipedia.org/wiki/rfc:7231#section-7.1.3 "wikilink")<span class="reference-accessdate">.
-    </span></cite>
-37. <cite class="citation web" contenteditable="false">["Hypertext
-    Transfer Protocol (HTTP/1.1): Message Syntax and
-    Routing"](https://zh.wikipedia.org/wiki/rfc:7230#section-3.1.2 "wikilink")<span class="reference-accessdate">.
-    </span></cite>
-38. <cite class="citation web" contenteditable="false">["HTTP Header
-    Field
-    X-Frame-Options"](https://zh.wikipedia.org/wiki/rfc:7034 "wikilink").
-    </cite>
-39. <cite class="citation web" contenteditable="false">["Content
-    Security Policy
-    Level 2"](http://www.w3.org/TR/CSP11/#frame-ancestors-and-frame-options)<span class="reference-accessdate">.
-    </span></cite>
-40. <cite class="citation web" contenteditable="false">Eric Lawrence
-    (2008-07-02). </cite>
-41. <cite class="citation web" contenteditable="false">["Content
-    Security Policy"](http://www.w3.org/TR/CSP/). </cite>
-42. <cite class="citation web" contenteditable="false">Eric Lawrence
-    (2008-09-03). </cite>
-43. <cite class="citation web" contenteditable="false">["Hosting -
-    Google Chrome Extensions - Google
-    Code"](http://code.google.com/chrome/extensions/hosting.html)<span class="reference-accessdate">.
-    </span></cite>
-44. <cite class="citation web" contenteditable="false">["Why does
-    ASP.](http://stackoverflow.com/questions/1288338/why-does-asp-net-framework-add-the-x-powered-byasp-net-http-header-in-response)</cite>
-45. <cite class="citation web" contenteditable="false">["Defining
-    Document Compatibility: Specifying Document Compatibility
-    Modes"](http://msdn.microsoft.com/en-us/library/ie/cc288325%28v=vs.85%29.aspx#SetMode).
-    2011-04-01<span class="reference-accessdate">. </span></cite>
-46. <cite class="citation web" contenteditable="false">["Configuring
-    servers for Ogg
-    media"](https://developer.mozilla.org/en-US/docs/Web/HTTP/Configuring_servers_for_Ogg_media#Serve_X-Content-Duration_headers).
-    2014-05-26<span class="reference-accessdate">. </span></cite>
+35. <cite class="citation web" contenteditable="false">["Public Key Pinning Extension for HTTP"](http://www.rfc-editor.org/rfc/rfc7469.txt). </cite>
+36. <cite class="citation web" contenteditable="false">["Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content"](https://zh.wikipedia.org/wiki/rfc:7231#section-7.1.3 "wikilink")<span class="reference-accessdate">. </span></cite>
+37. <cite class="citation web" contenteditable="false">["Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing"](https://zh.wikipedia.org/wiki/rfc:7230#section-3.1.2 "wikilink")<span class="reference-accessdate">. </span></cite>
+38. <cite class="citation web" contenteditable="false">["HTTP Header Field X-Frame-Options"](https://zh.wikipedia.org/wiki/rfc:7034 "wikilink"). </cite>
+39. <cite class="citation web" contenteditable="false">["Content Security Policy Level 2"](http://www.w3.org/TR/CSP11/#frame-ancestors-and-frame-options)<span class="reference-accessdate">. </span></cite>
+40. <cite class="citation web" contenteditable="false">Eric Lawrence (2008-07-02). </cite>
+41. <cite class="citation web" contenteditable="false">["Content Security Policy"](http://www.w3.org/TR/CSP/). </cite>
+42. <cite class="citation web" contenteditable="false">Eric Lawrence (2008-09-03). </cite>
+43. <cite class="citation web" contenteditable="false">["Hosting - Google Chrome Extensions - Google Code"](http://code.google.com/chrome/extensions/hosting.html)<span class="reference-accessdate">. </span></cite>
+44. <cite class="citation web" contenteditable="false">["Why does ASP.](http://stackoverflow.com/questions/1288338/why-does-asp-net-framework-add-the-x-powered-byasp-net-http-header-in-response)</cite>
+45. <cite class="citation web" contenteditable="false">["Defining Document Compatibility: Specifying Document Compatibility Modes"](http://msdn.microsoft.com/en-us/library/ie/cc288325%28v=vs.85%29.aspx#SetMode). 2011-04-01<span class="reference-accessdate">. </span></cite>
+46. <cite class="citation web" contenteditable="false">["Configuring servers for Ogg media"](https://developer.mozilla.org/en-US/docs/Web/HTTP/Configuring_servers_for_Ogg_media#Serve_X-Content-Duration_headers). 2014-05-26<span class="reference-accessdate">. </span></cite>

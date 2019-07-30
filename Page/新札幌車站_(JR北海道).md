@@ -1,10 +1,8 @@
-[Shin-Sapporo_Sta_ticket_gate_201205.JPG](https://zh.wikipedia.org/wiki/File:Shin-Sapporo_Sta_ticket_gate_201205.JPG "fig:Shin-Sapporo_Sta_ticket_gate_201205.JPG")
-[Shin-Sapporo_station_platform.jpg](https://zh.wikipedia.org/wiki/File:Shin-Sapporo_station_platform.jpg "fig:Shin-Sapporo_station_platform.jpg")
-**新札幌站**（）是[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")[厚別區厚別中央](../Page/厚別區.md "wikilink")2条5丁目6[北海道旅客鐵道](../Page/北海道旅客鐵道.md "wikilink")（JR北海道）[千歲線上的車站](../Page/千歲線.md "wikilink")。
+[Shin-Sapporo_Sta_ticket_gate_201205.JPG](https://zh.wikipedia.org/wiki/File:Shin-Sapporo_Sta_ticket_gate_201205.JPG "fig:Shin-Sapporo_Sta_ticket_gate_201205.JPG") [Shin-Sapporo_station_platform.jpg](https://zh.wikipedia.org/wiki/File:Shin-Sapporo_station_platform.jpg "fig:Shin-Sapporo_station_platform.jpg") **新札幌站**（）是[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")[厚別區](../Page/厚別區.md "wikilink")厚別中央2条5丁目6[北海道旅客鐵道](../Page/北海道旅客鐵道.md "wikilink")（JR北海道）[千歲線](../Page/千歲線.md "wikilink")上的車站。
 
 ## 概要
 
-札幌市厚別區的中心車站\[1\]。經過的客運列車（除臨時臥鋪特急[仙后座號列車以外](https://zh.wikipedia.org/wiki/仙后座號列車 "wikilink")）全部停靠本站。此站同時是北海道使用人數僅次於[札幌站](../Page/札幌站.md "wikilink")，[新千歲機場站和](../Page/新千歲機場站.md "wikilink")[手稻車站的第四大车站](../Page/手稻車站.md "wikilink")。周圍設置眾多商業設施，由於位處札幌和新千歲機場中間，交通便利，有很多觀光客下榻附近旅館。
+札幌市厚別區的中心車站\[1\]。經過的客運列車（除臨時臥鋪特急[仙后座號列車以外](https://zh.wikipedia.org/wiki/仙后座號列車 "wikilink")）全部停靠本站。此站同時是北海道使用人數僅次於[札幌站](../Page/札幌站.md "wikilink")，[新千歲機場站](../Page/新千歲機場站.md "wikilink")和[手稻車站](../Page/手稻車站.md "wikilink")的第四大车站。周圍設置眾多商業設施，由於位處札幌和新千歲機場中間，交通便利，有很多觀光客下榻附近旅館。
 
 本站和[札幌市營地下鐵](../Page/札幌市營地下鐵.md "wikilink")[東西線的](../Page/東西線_\(札幌市營地下鐵\).md "wikilink")[新札幌站連接](../Page/新札幌車站_\(札幌市營地下鐵\).md "wikilink")，是北海道除[札幌車站外唯一JR和地下鐵有接續的車站](https://zh.wikipedia.org/wiki/札幌車站 "wikilink")，故同為代替運營指定車站。本站往東為丘陵和高地，向西則地勢平坦，是[石狩平原的東部門戶](https://zh.wikipedia.org/wiki/石狩平原 "wikilink")，地理位置重要。
 
@@ -18,7 +16,7 @@
 
 ## 歷史
 
-戰前是日本國鉄的農場和大日本帝國陸軍的厚別彈藥庫。戰後土地轉讓給札幌市成爲「新札幌副都心」。農場成爲札幌市営ひばりが丘團地。彈藥庫成爲商業地帶。[千歲線短縮時在現址建造了本站](../Page/千歲線.md "wikilink")。
+戰前是日本國鉄的農場和大日本帝國陸軍的厚別彈藥庫。戰後土地轉讓給札幌市成爲「新札幌副都心」。農場成爲札幌市営ひばりが丘團地。彈藥庫成爲商業地帶。[千歲線](../Page/千歲線.md "wikilink")短縮時在現址建造了本站。
 
 建造時新札幌站是現在的[札幌貨物總站](../Page/札幌貨物總站.md "wikilink")。因此暫時被稱爲**下野幌站**（当时的上野幌站現為厚別南公園）。1973年7月開業前將新札幌站更名为札幌貨物總站，本站则正式命名为新札幌站。
 
@@ -104,11 +102,6 @@
 
 ## 注釋
 
-[Category:1973年启用的铁路车站](https://zh.wikipedia.org/wiki/Category:1973年启用的铁路车站 "wikilink")
-[Category:千歲線車站](https://zh.wikipedia.org/wiki/Category:千歲線車站 "wikilink")
-[Category:日本鐵路車站_Shi](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Shi "wikilink")
-[Category:厚別區鐵路車站](https://zh.wikipedia.org/wiki/Category:厚別區鐵路車站 "wikilink")
+[Category:1973年启用的铁路车站](https://zh.wikipedia.org/wiki/Category:1973年启用的铁路车站 "wikilink") [Category:千歲線車站](https://zh.wikipedia.org/wiki/Category:千歲線車站 "wikilink") [Category:日本鐵路車站_Shi](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Shi "wikilink") [Category:厚別區鐵路車站](https://zh.wikipedia.org/wiki/Category:厚別區鐵路車站 "wikilink")
 
-1.  “札幌市副都心部的新門戶，国鐵千歲線「新札幌站」。昭和48年9月9日開業”。
-    [北海道新聞](https://zh.wikipedia.org/wiki/北海道新聞 "wikilink")
-    (北海道新聞社). (1982年7月25日)
+1.  “札幌市副都心部的新門戶，国鐵千歲線「新札幌站」。昭和48年9月9日開業”。 [北海道新聞](https://zh.wikipedia.org/wiki/北海道新聞 "wikilink") (北海道新聞社). (1982年7月25日)

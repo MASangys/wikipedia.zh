@@ -2,9 +2,7 @@
 
 ## 歷史
 
-受到《[Vogue](https://zh.wikipedia.org/wiki/时尚_\(杂志\) "wikilink")》雜誌的靈感啟發，voguing主要以模特兒的造型姿態為架構，以有稜有角、線條性和穩固的手部、腿部和身體做出動作。主要重點是在手的動作
-主要以旋轉為主 還有招牌的動作voging摔
-這種舞蹈風格在1960年代早期由[非裔美國人在美國紐約](../Page/非裔美国人.md "wikilink")[哈林區的舞廳裡問世](https://zh.wikipedia.org/wiki/哈莱姆区 "wikilink")。這種舞蹈最早被稱為「presentation」和「performance」\[5\]。數年之後，這種舞蹈發展稱更加複雜的舞種，也就是現在所謂的「vogue」。Voguing作為一種成型的舞種，在美國的主要城市（主要是紐約）的[同性戀舞廳和夜店表演](../Page/同性戀.md "wikilink")，並持續不斷發展。
+受到《[Vogue](../Page/时尚_\(杂志\).md "wikilink")》雜誌的靈感啟發，voguing主要以模特兒的造型姿態為架構，以有稜有角、線條性和穩固的手部、腿部和身體做出動作。主要重點是在手的動作 主要以旋轉為主 還有招牌的動作voging摔 這種舞蹈風格在1960年代早期由[非裔美國人在美國紐約](../Page/非裔美国人.md "wikilink")[哈林區的舞廳裡問世](https://zh.wikipedia.org/wiki/哈莱姆区 "wikilink")。這種舞蹈最早被稱為「presentation」和「performance」\[5\]。數年之後，這種舞蹈發展稱更加複雜的舞種，也就是現在所謂的「vogue」。Voguing作為一種成型的舞種，在美國的主要城市（主要是紐約）的[同性戀](../Page/同性戀.md "wikilink")舞廳和夜店表演，並持續不斷發展。
 
 ## 風格
 
@@ -19,10 +17,7 @@ Vogue目前有三種主要類型：Old Way、New Way\[6\]、Vogue Fem\[7\]。
 ## 外部連結
 
   -
-[Category:紐約市LGBT文化](https://zh.wikipedia.org/wiki/Category:紐約市LGBT文化 "wikilink")
-[Category:美國LGBT文化](https://zh.wikipedia.org/wiki/Category:美國LGBT文化 "wikilink")
-[Category:美国舞蹈](https://zh.wikipedia.org/wiki/Category:美国舞蹈 "wikilink")
-[Category:非洲裔美國人文化](https://zh.wikipedia.org/wiki/Category:非洲裔美國人文化 "wikilink")
+[Category:紐約市LGBT文化](https://zh.wikipedia.org/wiki/Category:紐約市LGBT文化 "wikilink") [Category:美國LGBT文化](https://zh.wikipedia.org/wiki/Category:美國LGBT文化 "wikilink") [Category:美国舞蹈](https://zh.wikipedia.org/wiki/Category:美国舞蹈 "wikilink") [Category:非洲裔美國人文化](https://zh.wikipedia.org/wiki/Category:非洲裔美國人文化 "wikilink")
 
 1.
 

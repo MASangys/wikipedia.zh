@@ -1,9 +1,6 @@
-**Kriesha Chu**（；），本名為**Kriesha Ziskind Teo Tiu**（），簡稱**Kriesha
-Tiu**。一名在韓國發展的[菲裔](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[美籍](https://zh.wikipedia.org/wiki/美國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，目前隸屬于Urban
-Works。\[1\]
+**Kriesha Chu**（；），本名為**Kriesha Ziskind Teo Tiu**（），簡稱**Kriesha Tiu**。一名在韓國發展的[菲裔](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[美籍](https://zh.wikipedia.org/wiki/美國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，目前隸屬于Urban Works。\[1\]
 
-Kriesha Chu 出身自[SBS](../Page/SBS_\(韓國\).md "wikilink") 選秀節目《[K-pop Star
-6](../Page/K-pop_Star_6.md "wikilink")》，在節目中作為「KWINs」的一員，最終獲得亞軍。\[2\]
+Kriesha Chu 出身自[SBS](../Page/SBS_\(韓國\).md "wikilink") 選秀節目《[K-pop Star 6](../Page/K-pop_Star_6.md "wikilink")》，在節目中作為「KWINs」的一員，最終獲得亞軍。\[2\]
 
 2017年5月24日，作爲Solo歌手出道。\[3\]
 
@@ -13,11 +10,7 @@ Kriesha Chu 出身自[SBS](../Page/SBS_\(韓國\).md "wikilink") 選秀節目《
 
 #### Kpop Star時期
 
-**Kriesha Chu**于2016年11月以本名**Kriesha Tiu**作爲Urban
-Works的練習生參賽[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[K-pop
-Star
-6](../Page/K-pop_Star_6.md "wikilink")》，其中凴矚目的美貌與精湛的唱跳實力而活躍于節目中。\[4\]\[5\]期間曾與前[THE
-ARK的成員](../Page/THE_ARK.md "wikilink")[全珉柱因良好的默契而獲得評審及觀衆的好評](../Page/全珉柱.md "wikilink")\[6\]\[7\]，也一起搭檔闖入最後八強及六強。\[8\]\[9\]過後，在節目最後四強賽程與2017年作爲Solo歌手兼[Elris組合成員出道的](https://zh.wikipedia.org/wiki/Elris "wikilink")[金昭喜和金慧琳搭檔為KWINs](https://zh.wikipedia.org/wiki/金昭喜_\(1999年\) "wikilink")（퀸즈）組合。最後于節目中獲得亞軍的成績。\[10\]\[11\]
+**Kriesha Chu**于2016年11月以本名**Kriesha Tiu**作爲Urban Works的練習生參賽[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[K-pop Star 6](../Page/K-pop_Star_6.md "wikilink")》，其中凴矚目的美貌與精湛的唱跳實力而活躍于節目中。\[4\]\[5\]期間曾與前[THE ARK的成員](../Page/THE_ARK.md "wikilink")[全珉柱](../Page/全珉柱.md "wikilink")因良好的默契而獲得評審及觀衆的好評\[6\]\[7\]，也一起搭檔闖入最後八強及六強。\[8\]\[9\]過後，在節目最後四強賽程與2017年作爲Solo歌手兼[Elris組合成員出道的](https://zh.wikipedia.org/wiki/Elris "wikilink")[金昭喜和金慧琳搭檔為KWINs](https://zh.wikipedia.org/wiki/金昭喜_\(1999年\) "wikilink")（퀸즈）組合。最後于節目中獲得亞軍的成績。\[10\]\[11\]
 
 2017年4月，經紀公司方面確認Kriesha Chu將以5月作爲Solo歌手出道準備中。
 
@@ -153,9 +146,7 @@ ARK的成員](../Page/THE_ARK.md "wikilink")[全珉柱因良好的默契而獲�
 
 <!-- end list -->
 
-  - [Kriesha
-    Chu](https://web.archive.org/web/20180125170737/http://cafe.daum.net/Krieshachu)的官方Daum
-    Cafe
+  - [Kriesha Chu](https://web.archive.org/web/20180125170737/http://cafe.daum.net/Krieshachu)的官方Daum Cafe
 
   -
   -
@@ -176,16 +167,9 @@ ARK的成員](../Page/THE_ARK.md "wikilink")[全珉柱因良好的默契而獲�
 
   -
   -
-[Category:1998年出生](https://zh.wikipedia.org/wiki/Category:1998年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓國舞者](https://zh.wikipedia.org/wiki/Category:韓國舞者 "wikilink")
-[Category:菲律賓裔美國人](https://zh.wikipedia.org/wiki/Category:菲律賓裔美國人 "wikilink")
+[Category:1998年出生](https://zh.wikipedia.org/wiki/Category:1998年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國舞者](https://zh.wikipedia.org/wiki/Category:韓國舞者 "wikilink") [Category:菲律賓裔美國人](https://zh.wikipedia.org/wiki/Category:菲律賓裔美國人 "wikilink")
 
-1.  [Urban Works Entertainment官方網站Kriesha Chu
-    個人檔案](http://www.urbanworks.co.kr/home/sub02.php?mid=38&uid=17)
+1.  [Urban Works Entertainment官方網站Kriesha Chu 個人檔案](http://www.urbanworks.co.kr/home/sub02.php?mid=38&uid=17)
 2.
 3.
 4.

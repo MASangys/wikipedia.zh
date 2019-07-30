@@ -1,6 +1,4 @@
-**THE BEAT
-GARDEN**是[日本音樂組合](../Page/日本.md "wikilink")，四人男子團體。2016年7月27日以單曲『Never
-End』正式出道。
+**THE BEAT GARDEN**是[日本](../Page/日本.md "wikilink")音樂組合，四人男子團體。2016年7月27日以單曲『Never End』正式出道。
 
 ## 概要
 
@@ -321,8 +319,7 @@ UMCK-7004</p></td>
 
 ## 外部連結
 
-:\*[THE BEAT GARDEN OFFICIAL
-WEBSITE](http://www.universal-music.co.jp/thebeatgarden/)
+:\*[THE BEAT GARDEN OFFICIAL WEBSITE](http://www.universal-music.co.jp/thebeatgarden/)
 
 :\*[THE BEAT GARDEN OFFICIAL BLOG](https://lineblog.me/the_beat_garden/)
 

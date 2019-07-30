@@ -1,21 +1,14 @@
-**塔拉吉·潘妲·漢森**（\[1\]\[2\]，
-，）\[3\]\[4\]是一名美國女演員兼歌手。其於[霍華德大學修習演藝課程](https://zh.wikipedia.org/wiki/霍華德大學 "wikilink")，並展開[好萊塢事業](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")。2016年，〈[時代雜誌](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")〉將其評選為[時代百大人物之一](https://zh.wikipedia.org/wiki/時代百大人物 "wikilink")。
+**塔拉吉·潘妲·漢森**（\[1\]\[2\]， ，）\[3\]\[4\]是一名美國女演員兼歌手。其於[霍華德大學修習演藝課程](https://zh.wikipedia.org/wiki/霍華德大學 "wikilink")，並展開[好萊塢事業](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")。2016年，〈[時代雜誌](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")〉將其評選為[時代百大人物之一](https://zh.wikipedia.org/wiki/時代百大人物 "wikilink")。
 
-2005年因演出《[班傑明的奇幻旅程](../Page/奇幻逆緣.md "wikilink")》而入圍了[奧斯卡金像獎](https://zh.wikipedia.org/wiki/奧斯卡金像獎 "wikilink")[最佳女配角以及](https://zh.wikipedia.org/wiki/奧斯卡最佳女配角獎 "wikilink")[美國演員工會獎](../Page/美國演員工會獎.md "wikilink")[最佳女配角](https://zh.wikipedia.org/wiki/美國演員工會獎最佳女配角 "wikilink")。2011年憑《》首次獲[黃金時段艾美獎提名](../Page/黃金時段艾美獎.md "wikilink")；2011年至2013年間，參與了[CBS電視劇](../Page/CBS_\(電視網\).md "wikilink")《[疑犯追蹤](https://zh.wikipedia.org/wiki/疑犯追蹤 "wikilink")》的演出；2015年主演了[FOX人氣劇](../Page/福斯廣播公司.md "wikilink")《[嘻哈帝國](https://zh.wikipedia.org/wiki/嘻哈帝國 "wikilink")》，並獲得評論家的好評，更奪得[第73屆金球獎最佳電視劇情類影集女演員獎及](https://zh.wikipedia.org/wiki/第73屆金球獎 "wikilink")劇情類影集最佳女演員獎，同時入圍了兩屆黃金時段艾美獎最佳劇情類影集女主角獎。2017年憑《[關鍵少數](https://zh.wikipedia.org/wiki/隱藏人物 "wikilink")》獲得首座[美國演員工會獎](../Page/美國演員工會獎.md "wikilink")。
+2005年因演出《[班傑明的奇幻旅程](../Page/奇幻逆緣.md "wikilink")》而入圍了[奧斯卡金像獎](https://zh.wikipedia.org/wiki/奧斯卡金像獎 "wikilink")[最佳女配角以及](https://zh.wikipedia.org/wiki/奧斯卡最佳女配角獎 "wikilink")[美國演員工會獎](../Page/美國演員工會獎.md "wikilink")[最佳女配角](https://zh.wikipedia.org/wiki/美國演員工會獎最佳女配角 "wikilink")。2011年憑《》首次獲[黃金時段艾美獎](../Page/黃金時段艾美獎.md "wikilink")提名；2011年至2013年間，參與了[CBS電視劇](../Page/CBS_\(電視網\).md "wikilink")《[疑犯追蹤](https://zh.wikipedia.org/wiki/疑犯追蹤 "wikilink")》的演出；2015年主演了[FOX人氣劇](../Page/福斯廣播公司.md "wikilink")《[嘻哈帝國](https://zh.wikipedia.org/wiki/嘻哈帝國 "wikilink")》，並獲得評論家的好評，更奪得[第73屆金球獎最佳電視劇情類影集女演員獎及](https://zh.wikipedia.org/wiki/第73屆金球獎 "wikilink")劇情類影集最佳女演員獎，同時入圍了兩屆黃金時段艾美獎最佳劇情類影集女主角獎。2017年憑《[關鍵少數](https://zh.wikipedia.org/wiki/隱藏人物 "wikilink")》獲得首座[美國演員工會獎](../Page/美國演員工會獎.md "wikilink")。
 
 其深受[有色人種促進協會形象獎的喜愛](https://zh.wikipedia.org/wiki/有色人種促進協會形象獎 "wikilink")，至今入圍了10項獎項，並抱回了7項獎座。
 
 ## 早年生活與學業
 
-漢森出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[華盛頓哥倫比亞特區](https://zh.wikipedia.org/wiki/華盛頓哥倫比亞特區 "wikilink")，母親柏妮絲（）任職於，父親布利斯·勞倫斯·漢森（）則為一名金屬製造商門警。\[5\]
-漢森總是談起外婆帕琪·貝拉德（）對自己的影響，而漢森更邀請帕琪和自己一同參加奧斯卡典禮。\[6\]\[7\]\[8\]\[9\]\[10\]
-漢森的名字與中間名是取自[斯瓦希里語](https://zh.wikipedia.org/wiki/斯瓦希里語 "wikilink")，泰拉姬意旨“希望”，“潘妲”則意旨“愛”。\[11\]\[12\]
-根據[線粒體DNA鑑定](https://zh.wikipedia.org/wiki/線粒體DNA "wikilink")，她的母系血統可追溯自[喀麥隆](https://zh.wikipedia.org/wiki/喀麥隆 "wikilink")。\[13\]
-她曾說北極探險家是她曾曾祖父的兄弟。\[14\]
+漢森出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[華盛頓哥倫比亞特區](https://zh.wikipedia.org/wiki/華盛頓哥倫比亞特區 "wikilink")，母親柏妮絲（）任職於，父親布利斯·勞倫斯·漢森（）則為一名金屬製造商門警。\[5\] 漢森總是談起外婆帕琪·貝拉德（）對自己的影響，而漢森更邀請帕琪和自己一同參加奧斯卡典禮。\[6\]\[7\]\[8\]\[9\]\[10\] 漢森的名字與中間名是取自[斯瓦希里語](https://zh.wikipedia.org/wiki/斯瓦希里語 "wikilink")，泰拉姬意旨“希望”，“潘妲”則意旨“愛”。\[11\]\[12\] 根據[線粒體DNA鑑定](https://zh.wikipedia.org/wiki/線粒體DNA "wikilink")，她的母系血統可追溯自[喀麥隆](https://zh.wikipedia.org/wiki/喀麥隆 "wikilink")。\[13\] 她曾說北極探險家是她曾曾祖父的兄弟。\[14\]
 
-漢森在1988年於[馬里蘭州](https://zh.wikipedia.org/wiki/馬里蘭州 "wikilink")之畢業，\[15\]
-並於[北卡羅來納州立農業技術大學主修電子工程](https://zh.wikipedia.org/wiki/北卡羅來納州立農業技術大學 "wikilink")，後轉至[霍華德大學主修戲劇](https://zh.wikipedia.org/wiki/霍華德大學 "wikilink")。\[16\]\[17\]
-為了支付大學學費，漢森早上於[五角大廈擔任秘書](https://zh.wikipedia.org/wiki/五角大樓 "wikilink")，晚上則在晚餐郵輪擔任歌舞服務生。\[18\]
+漢森在1988年於[馬里蘭州](https://zh.wikipedia.org/wiki/馬里蘭州 "wikilink")之畢業，\[15\] 並於[北卡羅來納州立農業技術大學主修電子工程](https://zh.wikipedia.org/wiki/北卡羅來納州立農業技術大學 "wikilink")，後轉至[霍華德大學主修戲劇](https://zh.wikipedia.org/wiki/霍華德大學 "wikilink")。\[16\]\[17\] 為了支付大學學費，漢森早上於[五角大廈擔任秘書](https://zh.wikipedia.org/wiki/五角大樓 "wikilink")，晚上則在晚餐郵輪擔任歌舞服務生。\[18\]
 
 ## 事業
 
@@ -23,42 +16,29 @@
 
 漢森在2001年喜劇劇情電影《》中飾演伊薇特而展露頭角。\[19\]
 
-2005年，漢森於《》中飾演女主角莎格，該電影獲得不錯的評價，並奪得一項[奧斯卡金像獎](https://zh.wikipedia.org/wiki/奧斯卡金像獎 "wikilink")。2008年，漢森於《[班傑明的奇幻旅程](../Page/奇幻逆緣.md "wikilink")》中飾演[布萊德·彼特所扮演之班傑明的養母昆妮](https://zh.wikipedia.org/wiki/畢·彼特 "wikilink")，\[20\]
-並因該劇入圍奧斯卡金像獎[最佳女配角獎](https://zh.wikipedia.org/wiki/奧斯卡最佳女配角獎 "wikilink")。\[21\]
-她在採訪時說道：「昆妮是無條件愛的體現。」\[22\]\[23\]
+2005年，漢森於《》中飾演女主角莎格，該電影獲得不錯的評價，並奪得一項[奧斯卡金像獎](https://zh.wikipedia.org/wiki/奧斯卡金像獎 "wikilink")。2008年，漢森於《[班傑明的奇幻旅程](../Page/奇幻逆緣.md "wikilink")》中飾演[布萊德·彼特所扮演之班傑明的養母昆妮](https://zh.wikipedia.org/wiki/畢·彼特 "wikilink")，\[20\] 並因該劇入圍奧斯卡金像獎[最佳女配角獎](https://zh.wikipedia.org/wiki/奧斯卡最佳女配角獎 "wikilink")。\[21\] 她在採訪時說道：「昆妮是無條件愛的體現。」\[22\]\[23\]
 
-於2008年及2009年，她分別演出了[泰勒·派瑞的兩部作品](../Page/泰勒·派瑞.md "wikilink")《》以及《》。
+於2008年及2009年，她分別演出了[泰勒·派瑞](../Page/泰勒·派瑞.md "wikilink")的兩部作品《》以及《》。
 
 2010年，漢森參演了改編自1984年[同名電影的](../Page/小子難纏.md "wikilink")《[功夫夢](../Page/功夫梦.md "wikilink")》，並在商業上獲得了成功。\[24\]
 
-2011年，漢森主演了電視電影《》，該劇改編自真人真事，講述一名母親蒂芬妮·盧賓的六歲兒子被親生父親綁架至[大韓民國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[首爾](../Page/首爾.md "wikilink")，於是她展開一段找尋兒子的旅程。\[25\]
-其於該劇的表現獲的影評家的讚賞，\[26\]
-並因此入圍了[黃金時段艾美獎](../Page/黃金時段艾美獎.md "wikilink")。\[27\]
+2011年，漢森主演了電視電影《》，該劇改編自真人真事，講述一名母親蒂芬妮·盧賓的六歲兒子被親生父親綁架至[大韓民國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[首爾](../Page/首爾.md "wikilink")，於是她展開一段找尋兒子的旅程。\[25\] 其於該劇的表現獲的影評家的讚賞，\[26\] 並因此入圍了[黃金時段艾美獎](../Page/黃金時段艾美獎.md "wikilink")。\[27\]
 
 2012年，漢森加入了改編自著作《》，擁有龐大卡司群的《》，亦參演了2014的續集《》。\[28\]
 
 ### 電視
 
-漢森起初於不少電視劇中客串演出，包括[The
-WB](../Page/WB電視網.md "wikilink")《》與《》、[FOX](../Page/福斯廣播公司.md "wikilink")《[豪斯醫生](https://zh.wikipedia.org/wiki/豪斯醫生 "wikilink")》以及[CBS](../Page/CBS_\(電視網\).md "wikilink")《[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")》。\[29\]
+漢森起初於不少電視劇中客串演出，包括[The WB](../Page/WB電視網.md "wikilink")《》與《》、[FOX](../Page/福斯廣播公司.md "wikilink")《[豪斯醫生](https://zh.wikipedia.org/wiki/豪斯醫生 "wikilink")》以及[CBS](../Page/CBS_\(電視網\).md "wikilink")《[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")》。\[29\]
 
-漢森於《》（第2–4季）及[ABC](https://zh.wikipedia.org/wiki/美國廣播公司 "wikilink")《[波城法網](https://zh.wikipedia.org/wiki/波士頓法律 "wikilink")》（第4季）中，皆有擔任主要演員的經歷，於ABC《[神奇律師](https://zh.wikipedia.org/wiki/神奇律師 "wikilink")》中則擔任配角。2011年，漢森加入CBS犯罪懸疑影集《[疑犯追蹤](https://zh.wikipedia.org/wiki/疑犯追蹤 "wikilink")》擔任女主角；\[30\]\[31\]
-2013年，在主演該劇兩年半後，因新故事走向緣故，其飾演之角色卡特遭到賜死，於是她離開了劇組。\[32\]
+漢森於《》（第2–4季）及[ABC](https://zh.wikipedia.org/wiki/美國廣播公司 "wikilink")《[波城法網](https://zh.wikipedia.org/wiki/波士頓法律 "wikilink")》（第4季）中，皆有擔任主要演員的經歷，於ABC《[神奇律師](https://zh.wikipedia.org/wiki/神奇律師 "wikilink")》中則擔任配角。2011年，漢森加入CBS犯罪懸疑影集《[疑犯追蹤](https://zh.wikipedia.org/wiki/疑犯追蹤 "wikilink")》擔任女主角；\[30\]\[31\] 2013年，在主演該劇兩年半後，因新故事走向緣故，其飾演之角色卡特遭到賜死，於是她離開了劇組。\[32\]
 
-2014年，漢森加入了由[李·丹尼爾斯製作之FOX影集](https://zh.wikipedia.org/wiki/李·丹尼爾斯 "wikilink")《[嘻哈帝國](https://zh.wikipedia.org/wiki/嘻哈帝國 "wikilink")》試播集，該劇故事將圍繞在[嘻哈音樂產業上](../Page/嘻哈.md "wikilink")，\[33\]
-並由漢森及曾於《饒舌歌王》、《》與《》中合作過之[泰倫斯·霍華德共同主演](https://zh.wikipedia.org/wiki/泰倫斯·霍華德 "wikilink")。2014年5月，FOX預訂了該劇，並在首播後獲得了不錯的評價與極佳的商業收益。\[34\]\[35\]
-漢森於該劇中飾演女主角[庫琪·萊恩](https://zh.wikipedia.org/wiki/嘻哈帝國#主要角色 "wikilink")，而其表現獲得了評論家廣泛的好評。\[36\]\[37\]\[38\]
-漢森憑藉該劇連續兩屆入圍了[黃金時段艾美獎](../Page/黃金時段艾美獎.md "wikilink")，並成為第3位奪得[金球獎最佳電視劇情類女演員獎的非裔女演員](../Page/金球獎.md "wikilink")。\[39\]
+2014年，漢森加入了由[李·丹尼爾斯製作之FOX影集](https://zh.wikipedia.org/wiki/李·丹尼爾斯 "wikilink")《[嘻哈帝國](https://zh.wikipedia.org/wiki/嘻哈帝國 "wikilink")》試播集，該劇故事將圍繞在[嘻哈](../Page/嘻哈.md "wikilink")音樂產業上，\[33\] 並由漢森及曾於《饒舌歌王》、《》與《》中合作過之[泰倫斯·霍華德共同主演](https://zh.wikipedia.org/wiki/泰倫斯·霍華德 "wikilink")。2014年5月，FOX預訂了該劇，並在首播後獲得了不錯的評價與極佳的商業收益。\[34\]\[35\] 漢森於該劇中飾演女主角[庫琪·萊恩](https://zh.wikipedia.org/wiki/嘻哈帝國#主要角色 "wikilink")，而其表現獲得了評論家廣泛的好評。\[36\]\[37\]\[38\] 漢森憑藉該劇連續兩屆入圍了[黃金時段艾美獎](../Page/黃金時段艾美獎.md "wikilink")，並成為第3位奪得[金球獎](../Page/金球獎.md "wikilink")最佳電視劇情類女演員獎的非裔女演員。\[39\]
 
 ### 其他作品
 
-漢森於《》中首開金嗓，\[40\]
-其演唱之歌曲〈〉（原唱）榮獲了[奧斯卡最佳原創歌曲獎](https://zh.wikipedia.org/wiki/奧斯卡最佳原創歌曲獎 "wikilink")，使得邪惡黑幫成為該獎項首個非裔嘻哈歌曲得獎者。\[41\]
-漢森與該組合於2006年3月5日在奧斯卡頒獎典禮上，一同演唱了該首歌曲。\[42\] 同年，她亦於慈善專輯《》中演唱了〈In My
-Daughter's Eyes〉。\[43\]
+漢森於《》中首開金嗓，\[40\] 其演唱之歌曲〈〉（原唱）榮獲了[奧斯卡最佳原創歌曲獎](https://zh.wikipedia.org/wiki/奧斯卡最佳原創歌曲獎 "wikilink")，使得邪惡黑幫成為該獎項首個非裔嘻哈歌曲得獎者。\[41\] 漢森與該組合於2006年3月5日在奧斯卡頒獎典禮上，一同演唱了該首歌曲。\[42\] 同年，她亦於慈善專輯《》中演唱了〈In My Daughter's Eyes〉。\[43\]
 
-漢森於不少MV中演出過，例如[凡夫俗子的](../Page/凡夫俗子_\(歌手\).md "wikilink")〈〉\[44\]
-以及[泰瑞斯·吉布森的音樂錄影帶](https://zh.wikipedia.org/wiki/泰瑞斯·吉布森 "wikilink")。\[45\]
+漢森於不少MV中演出過，例如[凡夫俗子的](../Page/凡夫俗子_\(歌手\).md "wikilink")〈〉\[44\] 以及[泰瑞斯·吉布森的音樂錄影帶](https://zh.wikipedia.org/wiki/泰瑞斯·吉布森 "wikilink")。\[45\]
 
 2015年3月16日，漢森於《》中客座主持，並與原主持人共同搭檔。\[46\]
 
@@ -66,19 +46,15 @@ Daughter's Eyes〉。\[43\]
 
 ## 個人生活
 
-漢森於1994年懷孕，並產下了一子馬賽爾（）。\[48\]\[49\]\[50\]
-其生父為漢森高中時期的男友威廉·拉馬·強森（），而強森於2003年遭到謀殺。\[51\]\[52\]
+漢森於1994年懷孕，並產下了一子馬賽爾（）。\[48\]\[49\]\[50\] 其生父為漢森高中時期的男友威廉·拉馬·強森（），而強森於2003年遭到謀殺。\[51\]\[52\]
 
 ### 爭議
 
-2014年，漢森宣稱其兒子在10月18日於[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[格倫代爾的某個臨檢站](https://zh.wikipedia.org/wiki/格倫代爾_\(加利福尼亞州\) "wikilink")，遭受警方種族歧視對待，並非法搜查其兒子的轎車。隨後，[洛杉磯時報刊登了一則影片](../Page/洛杉磯時報.md "wikilink")，其顯示馬賽爾違規，並在口頭答應搜車後，在其車內發現了大麻油與大麻，而馬賽爾亦承認在開車前的兩小時有吸食毒品。\[53\]
-於影片公開後四十分鐘，\[54\]
-漢森後來於[Instagram公開向格倫代爾警局致歉](../Page/Instagram.md "wikilink")，並表示做為一個母親也不輕鬆於警員。\[55\]\[56\]
+2014年，漢森宣稱其兒子在10月18日於[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[格倫代爾的某個臨檢站](https://zh.wikipedia.org/wiki/格倫代爾_\(加利福尼亞州\) "wikilink")，遭受警方種族歧視對待，並非法搜查其兒子的轎車。隨後，[洛杉磯時報](../Page/洛杉磯時報.md "wikilink")刊登了一則影片，其顯示馬賽爾違規，並在口頭答應搜車後，在其車內發現了大麻油與大麻，而馬賽爾亦承認在開車前的兩小時有吸食毒品。\[53\] 於影片公開後四十分鐘，\[54\] 漢森後來於[Instagram](../Page/Instagram.md "wikilink")公開向格倫代爾警局致歉，並表示做為一個母親也不輕鬆於警員。\[55\]\[56\]
 
 ### 社會活動
 
-漢森為[善待動物組織](https://zh.wikipedia.org/wiki/善待動物組織 "wikilink")（PETA）的支持者，並參與過該組織的相關活動，\[57\]\[58\]
-更於2013年和其家犬威力叔叔演出廣告。\[59\]
+漢森為[善待動物組織](https://zh.wikipedia.org/wiki/善待動物組織 "wikilink")（PETA）的支持者，並參與過該組織的相關活動，\[57\]\[58\] 更於2013年和其家犬威力叔叔演出廣告。\[59\]
 
 2015年2月，漢森轉貼了，並表支持[LGBT群體](https://zh.wikipedia.org/wiki/同性戀社群 "wikilink")。\[60\]
 
@@ -1021,19 +997,9 @@ Daughter's Eyes〉。\[43\]
   -
   -
   -
-  - [泰拉姬·P·漢森](http://www.tv.com/people/taraji-henson/) at
-    [TV.com](http://www.tv.com/people/taraji-henson/)
+  - [泰拉姬·P·漢森](http://www.tv.com/people/taraji-henson/) at [TV.com](http://www.tv.com/people/taraji-henson/)
 
-[Category:20世紀美國女演員](https://zh.wikipedia.org/wiki/Category:20世紀美國女演員 "wikilink")
-[Category:21世紀美國女演員](https://zh.wikipedia.org/wiki/Category:21世紀美國女演員 "wikilink")
-[Category:美國電影女演員](https://zh.wikipedia.org/wiki/Category:美國電影女演員 "wikilink")
-[Category:美國電視女演員](https://zh.wikipedia.org/wiki/Category:美國電視女演員 "wikilink")
-[Category:非裔美國女歌手](https://zh.wikipedia.org/wiki/Category:非裔美國女歌手 "wikilink")
-[Category:美國女歌手](https://zh.wikipedia.org/wiki/Category:美國女歌手 "wikilink")
-[Category:喀麥隆裔美國人](https://zh.wikipedia.org/wiki/Category:喀麥隆裔美國人 "wikilink")
-[Category:霍華德大學校友](https://zh.wikipedia.org/wiki/Category:霍華德大學校友 "wikilink")
-[Category:美國LGBT權利運動家](https://zh.wikipedia.org/wiki/Category:美國LGBT權利運動家 "wikilink")
-[Category:美國演員工會獎最佳電影群體演出獎得主](https://zh.wikipedia.org/wiki/Category:美國演員工會獎最佳電影群體演出獎得主 "wikilink")
+[Category:20世紀美國女演員](https://zh.wikipedia.org/wiki/Category:20世紀美國女演員 "wikilink") [Category:21世紀美國女演員](https://zh.wikipedia.org/wiki/Category:21世紀美國女演員 "wikilink") [Category:美國電影女演員](https://zh.wikipedia.org/wiki/Category:美國電影女演員 "wikilink") [Category:美國電視女演員](https://zh.wikipedia.org/wiki/Category:美國電視女演員 "wikilink") [Category:非裔美國女歌手](https://zh.wikipedia.org/wiki/Category:非裔美國女歌手 "wikilink") [Category:美國女歌手](https://zh.wikipedia.org/wiki/Category:美國女歌手 "wikilink") [Category:喀麥隆裔美國人](https://zh.wikipedia.org/wiki/Category:喀麥隆裔美國人 "wikilink") [Category:霍華德大學校友](https://zh.wikipedia.org/wiki/Category:霍華德大學校友 "wikilink") [Category:美國LGBT權利運動家](https://zh.wikipedia.org/wiki/Category:美國LGBT權利運動家 "wikilink") [Category:美國演員工會獎最佳電影群體演出獎得主](https://zh.wikipedia.org/wiki/Category:美國演員工會獎最佳電影群體演出獎得主 "wikilink")
 
 1.
 
@@ -1043,16 +1009,13 @@ Daughter's Eyes〉。\[43\]
 4.
 5.
 
-6.  [Henson
-    interview 2009](http://content.usatoday.com/communities/entertainment/post/2009/02/63205015/1#.WBuh_CmTus4)
-    accessed 11/3/2016
+6.  [Henson interview 2009](http://content.usatoday.com/communities/entertainment/post/2009/02/63205015/1#.WBuh_CmTus4) accessed 11/3/2016
 
 7.
 
 8.
 
-9.  [NAACP nominates actress with local
-    ties](http://www.njonthego.com/Article.aspx?id=69864)
+9.  [NAACP nominates actress with local ties](http://www.njonthego.com/Article.aspx?id=69864)
 
 10.
 
@@ -1137,19 +1100,12 @@ Daughter's Eyes〉。\[43\]
 54.
 55.
 
-56. ["Actress Taraji P. Henson Apologizes For Claiming Glendale Police
-    Racially Profiled Her
-    Son"](http://losangeles.cbslocal.com/2015/03/27/taraji-p-henson-apologizes-for-claiming-glendale-police-racially-profiled-her-son/),
-    CBS Los Angeles, March 27, 2015.
+56. ["Actress Taraji P. Henson Apologizes For Claiming Glendale Police Racially Profiled Her Son"](http://losangeles.cbslocal.com/2015/03/27/taraji-p-henson-apologizes-for-claiming-glendale-police-racially-profiled-her-son/), CBS Los Angeles, March 27, 2015.
 
-57. ["Taraji P Henson Goes Nude Again, This Time For
-    PETA"](http://mrsgrapevine.com/2011/01/taraji-henson-nude-again-time-peta/)
-    January 27, 2011, Mrs Grapevine
+57. ["Taraji P Henson Goes Nude Again, This Time For PETA"](http://mrsgrapevine.com/2011/01/taraji-henson-nude-again-time-peta/) January 27, 2011, Mrs Grapevine
 
 58.
 
 59.
 
-60.
-    Essence.com|work=|publisher=[時代公司](https://zh.wikipedia.org/wiki/時代公司 "wikilink")|last=Doggett|first=Jolie
-    A.|date=2015-02-04|accessdate=2015-02-05}}
+60.  Essence.com|work=|publisher=[時代公司](https://zh.wikipedia.org/wiki/時代公司 "wikilink")|last=Doggett|first=Jolie A.|date=2015-02-04|accessdate=2015-02-05}}

@@ -1,6 +1,4 @@
-《**VICTON's Born
-Identity**》（）是以[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Plan
-A娛樂公司旗下的男性團體](../Page/Plan_A娛樂.md "wikilink")[VICTON為主角所拍攝的](../Page/VICTON.md "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。將團員們的真實日常生活毫不保留地完整公開\[1\]\[2\]。
+《**VICTON's Born Identity**》（）是以[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Plan A娛樂公司旗下的男性團體](../Page/Plan_A娛樂.md "wikilink")[VICTON](../Page/VICTON.md "wikilink")為主角所拍攝的[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。將團員們的真實日常生活毫不保留地完整公開\[1\]\[2\]。
 
 ## 播出時間
 
@@ -38,8 +36,7 @@ A娛樂公司旗下的男性團體](../Page/Plan_A娛樂.md "wikilink")[VICTON�
 
 ## 參考資料
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
 1.
 2.

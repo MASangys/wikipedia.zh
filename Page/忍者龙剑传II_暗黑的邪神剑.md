@@ -1,6 +1,4 @@
-是一款由[特库摩在FC游戏上制作和发行的横向卷轴类](../Page/特库摩.md "wikilink")[动作平台类游戏](../Page/平台游戏.md "wikilink")。\[1\]
-本游戏于1990年4月6日在日本地区[FC游戏机上发行](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")。\[2\]游戏后移植至[Commodore
-Amiga和](https://zh.wikipedia.org/wiki/Commodore_Amiga "wikilink")[DOS](../Page/DOS.md "wikilink")。
+是一款由[特库摩](../Page/特库摩.md "wikilink")在FC游戏上制作和发行的横向卷轴类[动作平台类游戏](../Page/平台游戏.md "wikilink")。\[1\] 本游戏于1990年4月6日在日本地区[FC游戏机上发行](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")。\[2\]游戏后移植至[Commodore Amiga和](https://zh.wikipedia.org/wiki/Commodore_Amiga "wikilink")[DOS](../Page/DOS.md "wikilink")。
 
 故事发生于初代《[忍者龙剑传](https://zh.wikipedia.org/wiki/忍者龙剑传_\(FC\) "wikilink")》的1年之前。游戏开始于黑暗境地的恶魔领主阿斯塔。他计划打开黑暗之门来统治地球。
 
@@ -16,16 +14,9 @@ Amiga和](https://zh.wikipedia.org/wiki/Commodore_Amiga "wikilink")[DOS](../Page
 
 ## 参考资料
 
-[Category:1990年电子游戏](https://zh.wikipedia.org/wiki/Category:1990年电子游戏 "wikilink")
-[Category:Amiga遊戲](https://zh.wikipedia.org/wiki/Category:Amiga遊戲 "wikilink")
-[Category:DOS遊戲](https://zh.wikipedia.org/wiki/Category:DOS遊戲 "wikilink")
-[Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink")
-[Category:忍者外傳系列](https://zh.wikipedia.org/wiki/Category:忍者外傳系列 "wikilink")
+[Category:1990年电子游戏](https://zh.wikipedia.org/wiki/Category:1990年电子游戏 "wikilink") [Category:Amiga遊戲](https://zh.wikipedia.org/wiki/Category:Amiga遊戲 "wikilink") [Category:DOS遊戲](https://zh.wikipedia.org/wiki/Category:DOS遊戲 "wikilink") [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink") [Category:忍者外傳系列](https://zh.wikipedia.org/wiki/Category:忍者外傳系列 "wikilink")
 
-1.  [*ninja-gaiden
-    ii*](http://www.mobygames.com/game/ninja-gaiden-ii-the-dark-sword-of-chaos)
-    game overview at
-    [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
+1.  [*ninja-gaiden ii*](http://www.mobygames.com/game/ninja-gaiden-ii-the-dark-sword-of-chaos) game overview at [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
 2.
 3.
 4.

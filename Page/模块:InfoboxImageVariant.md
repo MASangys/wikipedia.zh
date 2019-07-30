@@ -1,6 +1,4 @@
-require('Module:No globals') local infoboxImage =
-require('Module:InfoboxImage').InfoboxImage local lc =
-require('Module:WikitextLC').selective
+require('Module:No globals') local infoboxImage = require('Module:InfoboxImage').InfoboxImage local lc = require('Module:WikitextLC').selective
 
 local getArgs = require('Module:Arguments').getArgs local p = {}
 

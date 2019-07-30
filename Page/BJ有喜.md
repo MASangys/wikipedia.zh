@@ -1,5 +1,4 @@
-</ref> }}
-《**BJ有喜**》（）是一部2016年[浪漫喜劇電影](https://zh.wikipedia.org/wiki/浪漫喜劇 "wikilink")，為執導，[海倫·菲爾丁](https://zh.wikipedia.org/wiki/海倫·菲爾丁 "wikilink")、和[艾瑪·湯普遜撰寫劇本](https://zh.wikipedia.org/wiki/艾瑪·湯普遜 "wikilink")。本片為2004年電影《[BJ單身日記：男人禍水](../Page/BJ單身日記：男人禍水_\(電影\).md "wikilink")》的續集。由[芮妮·齊薇格](https://zh.wikipedia.org/wiki/芮妮·齊薇格 "wikilink")、[柯林·佛斯和](https://zh.wikipedia.org/wiki/柯林·佛斯 "wikilink")[派屈克·丹普西主演](https://zh.wikipedia.org/wiki/派屈克·丹普西 "wikilink")。
+</ref> }} 《**BJ有喜**》（）是一部2016年[浪漫喜劇電影](https://zh.wikipedia.org/wiki/浪漫喜劇 "wikilink")，為執導，[海倫·菲爾丁](https://zh.wikipedia.org/wiki/海倫·菲爾丁 "wikilink")、和[艾瑪·湯普遜撰寫劇本](https://zh.wikipedia.org/wiki/艾瑪·湯普遜 "wikilink")。本片為2004年電影《[BJ單身日記：男人禍水](../Page/BJ單身日記：男人禍水_\(電影\).md "wikilink")》的續集。由[芮妮·齊薇格](https://zh.wikipedia.org/wiki/芮妮·齊薇格 "wikilink")、[柯林·佛斯和](https://zh.wikipedia.org/wiki/柯林·佛斯 "wikilink")[派屈克·丹普西主演](https://zh.wikipedia.org/wiki/派屈克·丹普西 "wikilink")。
 
 正式拍攝於2015年10月2日在[倫敦開拍](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。該片定於2016年9月16日在英國和美國上映，2016年10月5日在法國上映。
 
@@ -52,7 +51,7 @@
 
 ### 評價
 
-《BJ有喜》獲得的評價以正面居多。[爛番茄基於](../Page/爛番茄.md "wikilink")157篇評論，持有77%的新鮮度，平均得分6.3/10\[5\]。[Metacritic基於](../Page/Metacritic.md "wikilink")42名影評人，獲得59分\[6\]。根據[CinemaScore調查](https://zh.wikipedia.org/wiki/CinemaScore "wikilink")，觀眾的評價於A+至F間落在「B+」\[7\]。
+《BJ有喜》獲得的評價以正面居多。[爛番茄](../Page/爛番茄.md "wikilink")基於157篇評論，持有77%的新鮮度，平均得分6.3/10\[5\]。[Metacritic](../Page/Metacritic.md "wikilink")基於42名影評人，獲得59分\[6\]。根據[CinemaScore調查](https://zh.wikipedia.org/wiki/CinemaScore "wikilink")，觀眾的評價於A+至F間落在「B+」\[7\]。
 
 ### 票房
 
@@ -69,24 +68,13 @@
   -
   -
   -
-  - 《[BJ單身日記：生得啦BABY](https://movie.yahoo-leisure.hk/movie/details/aaEvv-BJ單身日記：生得啦BABY)》在香港[雅虎的電影頁面](../Page/雅虎.md "wikilink")
+  - 《[BJ單身日記：生得啦BABY](https://movie.yahoo-leisure.hk/movie/details/aaEvv-BJ單身日記：生得啦BABY)》在香港[雅虎](../Page/雅虎.md "wikilink")的電影頁面
 
   - {{@movies|fben61473832|BJ有喜}}
 
   -
   -
-[Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink")
-[Category:英國電影作品](https://zh.wikipedia.org/wiki/Category:英國電影作品 "wikilink")
-[Category:美國電影作品](https://zh.wikipedia.org/wiki/Category:美國電影作品 "wikilink")
-[Category:法國電影作品](https://zh.wikipedia.org/wiki/Category:法國電影作品 "wikilink")
-[Category:2016年美國電影](https://zh.wikipedia.org/wiki/Category:2016年美國電影 "wikilink")
-[Category:2010年代浪漫喜劇片](https://zh.wikipedia.org/wiki/Category:2010年代浪漫喜劇片 "wikilink")
-[Category:英國浪漫喜劇片](https://zh.wikipedia.org/wiki/Category:英國浪漫喜劇片 "wikilink")
-[Category:美國續集電影](https://zh.wikipedia.org/wiki/Category:美國續集電影 "wikilink")
-[Category:伦敦取景电影](https://zh.wikipedia.org/wiki/Category:伦敦取景电影 "wikilink")
-[Category:米拉麥克斯電影](https://zh.wikipedia.org/wiki/Category:米拉麥克斯電影 "wikilink")
-[Category:环球影业电影](https://zh.wikipedia.org/wiki/Category:环球影业电影 "wikilink")
-[Category:通道影業電影](https://zh.wikipedia.org/wiki/Category:通道影業電影 "wikilink")
+[Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:英國電影作品](https://zh.wikipedia.org/wiki/Category:英國電影作品 "wikilink") [Category:美國電影作品](https://zh.wikipedia.org/wiki/Category:美國電影作品 "wikilink") [Category:法國電影作品](https://zh.wikipedia.org/wiki/Category:法國電影作品 "wikilink") [Category:2016年美國電影](https://zh.wikipedia.org/wiki/Category:2016年美國電影 "wikilink") [Category:2010年代浪漫喜劇片](https://zh.wikipedia.org/wiki/Category:2010年代浪漫喜劇片 "wikilink") [Category:英國浪漫喜劇片](https://zh.wikipedia.org/wiki/Category:英國浪漫喜劇片 "wikilink") [Category:美國續集電影](https://zh.wikipedia.org/wiki/Category:美國續集電影 "wikilink") [Category:伦敦取景电影](https://zh.wikipedia.org/wiki/Category:伦敦取景电影 "wikilink") [Category:米拉麥克斯電影](https://zh.wikipedia.org/wiki/Category:米拉麥克斯電影 "wikilink") [Category:环球影业电影](https://zh.wikipedia.org/wiki/Category:环球影业电影 "wikilink") [Category:通道影業電影](https://zh.wikipedia.org/wiki/Category:通道影業電影 "wikilink")
 
 1.  <https://www.youtube.com/watch?v=5R2gIC8oq2Q>
 2.

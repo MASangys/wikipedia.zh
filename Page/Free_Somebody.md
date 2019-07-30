@@ -1,6 +1,4 @@
-《**Free
-Somebody**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[Luna](../Page/朴善英.md "wikilink")（[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[f(x)成員](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")）的首張個人專輯，由[SM
-Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2016年5月31日發行。
+《**Free Somebody**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[Luna](../Page/朴善英.md "wikilink")（[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[f(x)成員](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")）的首張個人專輯，由[SM Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2016年5月31日發行。
 
 ## 發行
 
@@ -21,5 +19,4 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2016
 
   -
   -
-[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")

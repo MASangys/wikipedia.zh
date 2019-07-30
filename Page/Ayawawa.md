@@ -1,36 +1,34 @@
-**Ayawawa**（本名**杨冰阳**，），中國[四川](https://zh.wikipedia.org/wiki/四川 "wikilink")[自贡人](https://zh.wikipedia.org/wiki/自贡 "wikilink")，是一位中国大陆[网络红人](https://zh.wikipedia.org/wiki/网络红人 "wikilink")，身兼[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")、情感[咨询师](https://zh.wikipedia.org/wiki/咨询师 "wikilink")、[模特兒](../Page/模特兒.md "wikilink")、电视节目嘉宾、[企业家等身份](../Page/企业家.md "wikilink")。早年活跃于[猫扑论坛](https://zh.wikipedia.org/wiki/猫扑 "wikilink")、[天涯社区](../Page/天涯社区.md "wikilink")，后在[微博](../Page/微博.md "wikilink")、[微信平台开设账号](../Page/微信.md "wikilink")，从事情感咨询和分析，也出版过多本情感相关书籍。2015年位居中国网红排行榜第24-{位}-\[1\]。其粉丝被称为“娃粉”\[2\]。
+**Ayawawa**（本名**杨冰阳**，），中國[四川](https://zh.wikipedia.org/wiki/四川 "wikilink")[自贡人](https://zh.wikipedia.org/wiki/自贡 "wikilink")，是一位中国大陆[网络红人](https://zh.wikipedia.org/wiki/网络红人 "wikilink")，身兼[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")、情感[咨询师](https://zh.wikipedia.org/wiki/咨询师 "wikilink")、[模特兒](../Page/模特兒.md "wikilink")、电视节目嘉宾、[企业家](../Page/企业家.md "wikilink")等身份。早年活跃于[猫扑论坛](https://zh.wikipedia.org/wiki/猫扑 "wikilink")、[天涯社区](../Page/天涯社区.md "wikilink")，后在[微博](../Page/微博.md "wikilink")、[微信](../Page/微信.md "wikilink")平台开设账号，从事情感咨询和分析，也出版过多本情感相关书籍。2015年位居中国网红排行榜第24-{位}-\[1\]。其粉丝被称为“娃粉”\[2\]。
 
 ## 生平
 
 Ayawawa于1983年1月7日生于四川自贡，中学就读于[自贡蜀光中学](https://zh.wikipedia.org/wiki/自贡蜀光中学 "wikilink")，大学就读于西南大学育才学院（现[重庆人文科技学院](../Page/重庆人文科技学院.md "wikilink")）\[3\]\[4\]。她在校期间读书并不用功，但由于天资聪颖，总能在各种竞赛中取得较好的名次，上初中时，她取得了四川省物理竞赛第一名的成绩\[5\]。在8岁时，她首次发表的作品是一首散文诗《小草》\[6\]。
 
-Ayawawa于2001年在互联网上成名，最初在[貓撲論壇上发布自己的照片](https://zh.wikipedia.org/wiki/貓撲 "wikilink")。由于当年長髮飄飄的清純形象，因而被网友誉为「夢中情人」。她的照片曾遭到盗用，当时山東一医院在报纸刊登的[子宮肌瘤广告中盗用了她的照片](../Page/子宮肌瘤.md "wikilink")。於是粉絲到該報所属的新聞網頁大量發帖，使得报社一度無法正常工作，並最終道歉了事\[7\]。Ayawawa此后与貓撲签约，成为其首任形象大使。她被网友誉为“天涯社区十大美女”、“猫扑女神”\[8\]\[9\]。
+Ayawawa于2001年在互联网上成名，最初在[貓撲論壇上发布自己的照片](https://zh.wikipedia.org/wiki/貓撲 "wikilink")。由于当年長髮飄飄的清純形象，因而被网友誉为「夢中情人」。她的照片曾遭到盗用，当时山東一医院在报纸刊登的[子宮肌瘤](../Page/子宮肌瘤.md "wikilink")广告中盗用了她的照片。於是粉絲到該報所属的新聞網頁大量發帖，使得报社一度無法正常工作，並最終道歉了事\[7\]。Ayawawa此后与貓撲签约，成为其首任形象大使。她被网友誉为“天涯社区十大美女”、“猫扑女神”\[8\]\[9\]。
 
 2006年，担任[世界杯网络直播主持人](https://zh.wikipedia.org/wiki/2006年世界杯足球赛 "wikilink")，后于2007年担任女足世界杯网络主持人\[10\]，曾获得《[华夏时报](https://zh.wikipedia.org/wiki/华夏时报 "wikilink")》世界足球杯足球宝贝全国总冠军\[11\]。
 
-2009年出版专栏结集《恋爱厚黑学》\[12\]，此后她開始以兩性情感為主題寫作，出版多本书籍，也在電視節目中担当嘉賓。她家中書櫃所藏书籍大多以[心理學和](https://zh.wikipedia.org/wiki/心理學 "wikilink")[生理學方面为主](https://zh.wikipedia.org/wiki/生理學 "wikilink")，还藏有[樂嘉](https://zh.wikipedia.org/wiki/樂嘉 "wikilink")、[陸琪](https://zh.wikipedia.org/wiki/陸琪 "wikilink")、[莊雅婷等同行撰写的书籍](../Page/莊雅婷.md "wikilink")。Ayawawa通过大量的閲讀和撰写书籍，總結發展了一套自己的“情感理論”\[13\]。Ayawawa在其微博上拥有300多万的粉丝，而在微信公众号上，她推送的文章几乎每篇阅读量达到10万以上，还获得了《[鲁豫有约](../Page/鲁豫有约.md "wikilink")》、新榜联合发布的“2016值得关注的有料[自媒体](../Page/自媒体.md "wikilink")”的奖项\[14\]。她每日都會收到上千条粉絲的留言，内容以情感問題为主，其中80%的諮詢者为女性。Ayawawa会对粉丝的每一条留言進行點評，然后發到她的社交账号上讓粉絲們看到\[15\]。
+2009年出版专栏结集《恋爱厚黑学》\[12\]，此后她開始以兩性情感為主題寫作，出版多本书籍，也在電視節目中担当嘉賓。她家中書櫃所藏书籍大多以[心理學和](https://zh.wikipedia.org/wiki/心理學 "wikilink")[生理學方面为主](https://zh.wikipedia.org/wiki/生理學 "wikilink")，还藏有[樂嘉](https://zh.wikipedia.org/wiki/樂嘉 "wikilink")、[陸琪](https://zh.wikipedia.org/wiki/陸琪 "wikilink")、[莊雅婷](../Page/莊雅婷.md "wikilink")等同行撰写的书籍。Ayawawa通过大量的閲讀和撰写书籍，總結發展了一套自己的“情感理論”\[13\]。Ayawawa在其微博上拥有300多万的粉丝，而在微信公众号上，她推送的文章几乎每篇阅读量达到10万以上，还获得了《[鲁豫有约](../Page/鲁豫有约.md "wikilink")》、新榜联合发布的“2016值得关注的有料[自媒体](../Page/自媒体.md "wikilink")”的奖项\[14\]。她每日都會收到上千条粉絲的留言，内容以情感問題为主，其中80%的諮詢者为女性。Ayawawa会对粉丝的每一条留言進行點評，然后發到她的社交账号上讓粉絲們看到\[15\]。
 
-Ayawawa自称其[智商为](../Page/智商.md "wikilink")145，于2007年通过[门萨考试](https://zh.wikipedia.org/wiki/门萨 "wikilink")。此后，Ayawawa四处联系门萨会员，建立起“门萨中国分会”，同时担任“门萨中国”的主席\[16\]\[17\]。然而[门萨国际对外证实称](../Page/门萨国际.md "wikilink")“门萨中国”并未获得门萨国际的认可\[18\]。
+Ayawawa自称其[智商](../Page/智商.md "wikilink")为145，于2007年通过[门萨考试](https://zh.wikipedia.org/wiki/门萨 "wikilink")。此后，Ayawawa四处联系门萨会员，建立起“门萨中国分会”，同时担任“门萨中国”的主席\[16\]\[17\]。然而[门萨国际](../Page/门萨国际.md "wikilink")对外证实称“门萨中国”并未获得门萨国际的认可\[18\]。
 
-Ayawawa还在[淘宝网上开设网店](../Page/淘宝网.md "wikilink")，主要贩卖化妆品、护肤品\[19\]，后开设服装店，兼任模特\[20\]。她还是4家公司的创始人或股东，这4家公司分别是广州花镇教育咨询有限公司、北京素研生物科技有限公司、上海施佳化妆品有限公司、上海夏耳企业管理有限公司，同时也是上海巽联信息科技有限公司、上海极迦生物科技有限公司、上海雨山生物科技有限公司、天津冰月华贸科技有限公司（兼法人）等4家公司的高管\[21\]\[22\]。
+Ayawawa还在[淘宝网](../Page/淘宝网.md "wikilink")上开设网店，主要贩卖化妆品、护肤品\[19\]，后开设服装店，兼任模特\[20\]。她还是4家公司的创始人或股东，这4家公司分别是广州花镇教育咨询有限公司、北京素研生物科技有限公司、上海施佳化妆品有限公司、上海夏耳企业管理有限公司，同时也是上海巽联信息科技有限公司、上海极迦生物科技有限公司、上海雨山生物科技有限公司、天津冰月华贸科技有限公司（兼法人）等4家公司的高管\[21\]\[22\]。
 
 ## 主要观点和言论
 
-Ayawawa曾经提出了一套“理论体系”，即“MV”和“PU”。其中“MV”即“伴侣价值”（Mate
-value），指“在婚姻市场的受欢迎程度”，其“衡量標準”主要有八項：年齡、身高、長相、財富、智商、情商、性能力和長期承諾。而“PU”即“亲子不确定性”（Paternity
-uncertainty），其中，男性PU指的是“男性有多不确信孩子是自己的”；女性PU指的是“女性看起来有多让男人不能确信孩子是自己的”。通过这一“理论”，Ayawawa得出的“结论”是：“拥有高MV和低PU的女性，更容易拥有长久的婚姻。而默认MV（颜值、外在条件）不那么容易改变的情况下，她在做的事情，就是帮助女孩降低PU”\[23\]\[24\]。为了降低PU，女人必须要“发自内心地”崇拜其伴侣，给伴侣安全感。“没有表现出对男生的崇拜和忠诚，就好像碗没有底，表没有时间，手机不能打电话，马桶不能冲水，筷子只有一只，鞋子没有底。”而继父性侵女儿、女性被家暴之类的问题也都是起因于妻子的PU太高，无法给男人安全感\[25\]。
+Ayawawa曾经提出了一套“理论体系”，即“MV”和“PU”。其中“MV”即“伴侣价值”（Mate value），指“在婚姻市场的受欢迎程度”，其“衡量標準”主要有八項：年齡、身高、長相、財富、智商、情商、性能力和長期承諾。而“PU”即“亲子不确定性”（Paternity uncertainty），其中，男性PU指的是“男性有多不确信孩子是自己的”；女性PU指的是“女性看起来有多让男人不能确信孩子是自己的”。通过这一“理论”，Ayawawa得出的“结论”是：“拥有高MV和低PU的女性，更容易拥有长久的婚姻。而默认MV（颜值、外在条件）不那么容易改变的情况下，她在做的事情，就是帮助女孩降低PU”\[23\]\[24\]。为了降低PU，女人必须要“发自内心地”崇拜其伴侣，给伴侣安全感。“没有表现出对男生的崇拜和忠诚，就好像碗没有底，表没有时间，手机不能打电话，马桶不能冲水，筷子只有一只，鞋子没有底。”而继父性侵女儿、女性被家暴之类的问题也都是起因于妻子的PU太高，无法给男人安全感\[25\]。
 
-Ayawawa曾在网络短视频节目《透明人》就主持人提出的“老公[出轨该不该原谅](https://zh.wikipedia.org/wiki/出轨 "wikilink")”问题时表示，“如果一个女生自身条件非常糟糕，而她的老公是一个条件比较好、有能力养家的人，那么这位老公出轨是正常的”\[26\]。此外，她还提出了“长择/短择”、“锤子-剪刀-布”等一系列“自创术语”。然而这些言论引来了社会学家[李银河的争议](../Page/李银河.md "wikilink")，称其观点“十分陈腐，缺乏[现代女性主义意识](../Page/女性主義.md "wikilink")，基本上是反女权的，没有一点现代女性的气息\[27\]。”
+Ayawawa曾在网络短视频节目《透明人》就主持人提出的“老公[出轨该不该原谅](https://zh.wikipedia.org/wiki/出轨 "wikilink")”问题时表示，“如果一个女生自身条件非常糟糕，而她的老公是一个条件比较好、有能力养家的人，那么这位老公出轨是正常的”\[26\]。此外，她还提出了“长择/短择”、“锤子-剪刀-布”等一系列“自创术语”。然而这些言论引来了社会学家[李银河](../Page/李银河.md "wikilink")的争议，称其观点“十分陈腐，缺乏[现代女性主义意识](../Page/女性主義.md "wikilink")，基本上是反女权的，没有一点现代女性的气息\[27\]。”
 
-。另外，她还声称有办法指导女人如何避免生出[同性恋的儿子](https://zh.wikipedia.org/wiki/同性恋 "wikilink")。而对于女权主义，她则评价道“[女权主义者的根源在于](https://zh.wikipedia.org/wiki/女权主义者 "wikilink")[睾酮素太高](../Page/睾酮.md "wikilink")，太雄性化，所以总想要参与雄性竞争。”\[28\]
+。另外，她还声称有办法指导女人如何避免生出[同性恋的儿子](https://zh.wikipedia.org/wiki/同性恋 "wikilink")。而对于女权主义，她则评价道“[女权主义者的根源在于](https://zh.wikipedia.org/wiki/女权主义者 "wikilink")[睾酮](../Page/睾酮.md "wikilink")素太高，太雄性化，所以总想要参与雄性竞争。”\[28\]
 
-由于其思想与“[女德教母](../Page/女德.md "wikilink")”[丁璇的理论颇有类似之处](https://zh.wikipedia.org/wiki/丁璇 "wikilink")，因此有媒体将这两人加以比较\[29\]\[30\]。
+由于其思想与“[女德](../Page/女德.md "wikilink")教母”[丁璇的理论颇有类似之处](https://zh.wikipedia.org/wiki/丁璇 "wikilink")，因此有媒体将这两人加以比较\[29\]\[30\]。
 
 有支持Ayawawa言论的人认为，Ayawawa在帮助女性发挥性别优势从而在情感生活中获得平等甚至主导的地位；反对者则批评Ayawawa是在变相鼓励女性依附男人，是在宣扬“[拜金主义](https://zh.wikipedia.org/wiki/拜金主义 "wikilink")”和“[田园女权](https://zh.wikipedia.org/wiki/田园女权 "wikilink")”\[31\]。
 
 ## 家庭
 
-Ayawawa的丈夫名为王鹏，他同时为两大高智商组织——门萨和[奥林匹克社区的成员](https://zh.wikipedia.org/wiki/奥林匹克社区 "wikilink")。他曾就读于[燕山大学材料学](../Page/燕山大学.md "wikilink")，后从燕大辍学，到新加坡学会计。二人于2007年结识10天后[闪婚](https://zh.wikipedia.org/wiki/闪婚 "wikilink")\[32\]。王鹏还持有上海极迦生物科技有限公司80%的股份，也在上海极迦生物科技有限公司、上海雨山生物科技有限公司2家公司担任高管\[33\]。他所担任高管的上海极迦生物科技有限公司胶原蛋白饮品拥有“优弹素”品牌，且仅在微商渠道销售，然而这一产品被指涉嫌[传销和虚假宣传](https://zh.wikipedia.org/wiki/传销 "wikilink")\[34\]。
+Ayawawa的丈夫名为王鹏，他同时为两大高智商组织——门萨和[奥林匹克社区的成员](https://zh.wikipedia.org/wiki/奥林匹克社区 "wikilink")。他曾就读于[燕山大学](../Page/燕山大学.md "wikilink")材料学，后从燕大辍学，到新加坡学会计。二人于2007年结识10天后[闪婚](https://zh.wikipedia.org/wiki/闪婚 "wikilink")\[32\]。王鹏还持有上海极迦生物科技有限公司80%的股份，也在上海极迦生物科技有限公司、上海雨山生物科技有限公司2家公司担任高管\[33\]。他所担任高管的上海极迦生物科技有限公司胶原蛋白饮品拥有“优弹素”品牌，且仅在微商渠道销售，然而这一产品被指涉嫌[传销和虚假宣传](https://zh.wikipedia.org/wiki/传销 "wikilink")\[34\]。
 
 Ayawawa与王鹏夫妇现育有二孩，居于[天津市](../Page/天津市.md "wikilink")\[35\]。
 
@@ -49,22 +47,18 @@ Ayawawa与王鹏夫妇现育有二孩，居于[天津市](../Page/天津市.md "
   -
 ## 争议事件
 
-2007年7月，[中国中央电视台社会与法频道](../Page/中国中央电视台社会与法频道.md "wikilink")（CCTV-12）《天网》栏目一期题为《揭秘传销》的专题片中，介绍了一位女大学生因参加[传销而跳火车丧命](https://zh.wikipedia.org/wiki/傳銷_\(中華人民共和國\) "wikilink")，并播出了死者生前的三幅照片。尽管做了[马赛克处理](https://zh.wikipedia.org/wiki/马赛克 "wikilink")，但还是有眾多网友看出所谓死者“生前照片”竟是Ayawawa的生活照。该节目评上了第17届[中国新闻奖](https://zh.wikipedia.org/wiki/中国新闻奖 "wikilink")，公示阶段被揭发造假，悄然拿下\[36\]。事后央視低調回應，稱此事為[臨時工工作疏忽所致](../Page/臨時工.md "wikilink")。\[37\]
+2007年7月，[中国中央电视台社会与法频道](../Page/中国中央电视台社会与法频道.md "wikilink")（CCTV-12）《天网》栏目一期题为《揭秘传销》的专题片中，介绍了一位女大学生因参加[传销而跳火车丧命](https://zh.wikipedia.org/wiki/傳銷_\(中華人民共和國\) "wikilink")，并播出了死者生前的三幅照片。尽管做了[马赛克处理](https://zh.wikipedia.org/wiki/马赛克 "wikilink")，但还是有眾多网友看出所谓死者“生前照片”竟是Ayawawa的生活照。该节目评上了第17届[中国新闻奖](https://zh.wikipedia.org/wiki/中国新闻奖 "wikilink")，公示阶段被揭发造假，悄然拿下\[36\]。事后央視低調回應，稱此事為[臨時工](../Page/臨時工.md "wikilink")工作疏忽所致。\[37\]
 
-2018年5月18日下午，Ayawawa发表微博，称“[日军屠城的时候](https://zh.wikipedia.org/wiki/日军 "wikilink")，烧杀抢掠，男性一定逃不过厄运，一个坑埋掉上千人。而女性虽然被强暴，但她们还有机会存活下来，见证历史，告诉我们那些过去的事情”。此前，微博“谷雨实验室”也在一篇名为《情感教主Ayawawa和300万种择偶焦虑》一文中也提到了类似的故事。文章称，Ayawawa让女孩们想象[日军侵华时期的](../Page/中国抗日战争.md "wikilink")[慰安妇制度受害者](../Page/慰安妇.md "wikilink")，她表示“同时期的男人更惨，都被打死了，女人至少还能留下一条命。只要你发挥好自己的优势，各种好处就会源源不断”。而这些言论很快引来了网友和媒体的批评，其中《[中国妇女报](https://zh.wikipedia.org/wiki/中国妇女报 "wikilink")》官方微博表示“情感教主Ayawawa操持的真是歪理邪说、有毒鸡汤”。许多媒体和网民也表达了对自媒体行业缺少道德制约和监管的担忧，以及对以Ayawawa为代表的一批情感网红宣扬“[女德](../Page/女德.md "wikilink")”、曲解“[女权](https://zh.wikipedia.org/wiki/女权主义 "wikilink")”的反对\[38\]。同日晚，Ayawawa通过微博道歉，称自己犯了低级错误，决定账号停更一个月，并就涉事微博引发的不良影响而致歉\[39\]。然而这条致歉微博被删除。5月22日中午，新浪微博发布公告称，称因Ayawawa发布有关慰安妇的严重不当言论，造成了严重的社会不良影响，决定对微博账号@Ayawawa禁言、禁被关注6个月\[40\]。
+2018年5月18日下午，Ayawawa发表微博，称“[日军屠城的时候](https://zh.wikipedia.org/wiki/日军 "wikilink")，烧杀抢掠，男性一定逃不过厄运，一个坑埋掉上千人。而女性虽然被强暴，但她们还有机会存活下来，见证历史，告诉我们那些过去的事情”。此前，微博“谷雨实验室”也在一篇名为《情感教主Ayawawa和300万种择偶焦虑》一文中也提到了类似的故事。文章称，Ayawawa让女孩们想象[日军侵华时期的](../Page/中国抗日战争.md "wikilink")[慰安妇](../Page/慰安妇.md "wikilink")制度受害者，她表示“同时期的男人更惨，都被打死了，女人至少还能留下一条命。只要你发挥好自己的优势，各种好处就会源源不断”。而这些言论很快引来了网友和媒体的批评，其中《[中国妇女报](https://zh.wikipedia.org/wiki/中国妇女报 "wikilink")》官方微博表示“情感教主Ayawawa操持的真是歪理邪说、有毒鸡汤”。许多媒体和网民也表达了对自媒体行业缺少道德制约和监管的担忧，以及对以Ayawawa为代表的一批情感网红宣扬“[女德](../Page/女德.md "wikilink")”、曲解“[女权](https://zh.wikipedia.org/wiki/女权主义 "wikilink")”的反对\[38\]。同日晚，Ayawawa通过微博道歉，称自己犯了低级错误，决定账号停更一个月，并就涉事微博引发的不良影响而致歉\[39\]。然而这条致歉微博被删除。5月22日中午，新浪微博发布公告称，称因Ayawawa发布有关慰安妇的严重不当言论，造成了严重的社会不良影响，决定对微博账号@Ayawawa禁言、禁被关注6个月\[40\]。
 
 ## 参考文献
 
 ## 外部链接
 
   -
-[分类:中国女性模特儿](https://zh.wikipedia.org/wiki/分类:中国女性模特儿 "wikilink")
-[分类:中华人民共和国女性作家](https://zh.wikipedia.org/wiki/分类:中华人民共和国女性作家 "wikilink")
+[分类:中国女性模特儿](https://zh.wikipedia.org/wiki/分类:中国女性模特儿 "wikilink") [分类:中华人民共和国女性作家](https://zh.wikipedia.org/wiki/分类:中华人民共和国女性作家 "wikilink")
 
-[Category:杨姓](https://zh.wikipedia.org/wiki/Category:杨姓 "wikilink")
-[Category:中华人民共和国女企业家](https://zh.wikipedia.org/wiki/Category:中华人民共和国女企业家 "wikilink")
-[Category:中國網路紅人](https://zh.wikipedia.org/wiki/Category:中國網路紅人 "wikilink")
-[Category:自贡人](https://zh.wikipedia.org/wiki/Category:自贡人 "wikilink")
+[Category:杨姓](https://zh.wikipedia.org/wiki/Category:杨姓 "wikilink") [Category:中华人民共和国女企业家](https://zh.wikipedia.org/wiki/Category:中华人民共和国女企业家 "wikilink") [Category:中國網路紅人](https://zh.wikipedia.org/wiki/Category:中國網路紅人 "wikilink") [Category:自贡人](https://zh.wikipedia.org/wiki/Category:自贡人 "wikilink")
 
 1.
 

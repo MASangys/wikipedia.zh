@@ -1,19 +1,14 @@
-《**L.O.L**》，是韓國女子演唱團體[GFRIEND的第一張正規專輯](../Page/GFRIEND.md "wikilink")，以〈NAVILLERA(너
-그리고 나)〉為主打歌。
+《**L.O.L**》，是韓國女子演唱團體[GFRIEND](../Page/GFRIEND.md "wikilink")的第一張正規專輯，以〈NAVILLERA(너 그리고 나)〉為主打歌。
 
 ## 事件
 
 ### 宣傳照公開
 
-6月29日上午宣布7月11日將發行首張正規專輯《L.O.L》，晚間她們又緊接著在官方SNS上公開了團員們一同拍攝的新專輯概念照，六個人穿著色彩繽紛小熱褲，青春洋溢的模樣。專輯名稱《L.O.L》同時包含「Laughing
-Out Loud」和「Lots of Love」兩種含意，她們也表示會依據兩個不同概念，製作兩版不同風格的專輯。
+6月29日上午宣布7月11日將發行首張正規專輯《L.O.L》，晚間她們又緊接著在官方SNS上公開了團員們一同拍攝的新專輯概念照，六個人穿著色彩繽紛小熱褲，青春洋溢的模樣。專輯名稱《L.O.L》同時包含「Laughing Out Loud」和「Lots of Love」兩種含意，她們也表示會依據兩個不同概念，製作兩版不同風格的專輯。
 
-6月29日晚間公布的概念照也正是「Laughing Out
-Loud」版本的第一波宣傳照，成員們換上色彩鮮豔的上衣、小熱褲和短襪，對著鏡頭綻放燦爛笑容，讓人彷彿僅僅透過照片都能沾染上她們的青春活力。\[1\]
+6月29日晚間公布的概念照也正是「Laughing Out Loud」版本的第一波宣傳照，成員們換上色彩鮮豔的上衣、小熱褲和短襪，對著鏡頭綻放燦爛笑容，讓人彷彿僅僅透過照片都能沾染上她們的青春活力。\[1\]
 
-7月4日公開了首張正規專輯《L.O.L》第2輪宣傳照，在「Lots of
-Love」的主題下，6名少女現身遊樂場。與此前曝光的第一輪宣傳照「Laughing
-out Loud」的活潑甜美風大不同。\[2\]
+7月4日公開了首張正規專輯《L.O.L》第2輪宣傳照，在「Lots of Love」的主題下，6名少女現身遊樂場。與此前曝光的第一輪宣傳照「Laughing out Loud」的活潑甜美風大不同。\[2\]
 
   - Sowon和SinB衣領上紮著黑色蝴蝶結，渾身散發出清新甜美氣息，兩人還互喂薯條，展現好感情
   - Yerin和Umji手裡拿著遊樂園氛圍十分吻合的彩色氣球和棒棒糖，臉上滿是興奮的表情
@@ -23,13 +18,9 @@ out Loud」的活潑甜美風大不同。\[2\]
 
 《L.O.L》全輯音源與主打歌 "NAVILLERA" MV於韓國時間7月11日0時公開。
 
-  - 7月5日公開[回歸預告](https://www.youtube.com/watch?v=8zOcHMdrS6A)，片中，GFRIEND成員們把頭髮燙了大卷、戴上髮夾、穿上蓋過腳踝的白襪子，滿滿的復古氣息，帶著輕微的懷舊感。第一個場景裡，成員們坐在一起準備拍照，洋娃娃、收音機、獎盃和溜冰鞋等充滿懷舊風情的道具也一一出現在畫面中。
-    GFRIEND成員們穿著溜冰鞋相互打鬧，活潑又可愛。還可以聽到GFRIEND首張正式專輯《L.O.L》的Intro部分旋律，韓國著名詩人趙芝薰的詩作《僧舞》裡的一句「NAVILLERA」也有反復出現。\[3\]
-  - 7月7日公開[MV預告](https://www.youtube.com/watch?v=r4noeHLS058)，預告中，GFRIEND穿著溜冰鞋自由玩耍，有時候還不小心摔倒在地，完全是一副調皮少女的模樣，她們互相治療或拉起隊友，很是活潑。另外，成員們還展現了一小段整齊的群舞，在充滿清涼節奏感的音樂中青春舞動。
-    Yuju的暴發性嗓音更是吸引歌迷的耳朵。\[4\]
-  - 7月8日公開[正規專輯預告](https://www.youtube.com/watch?v=6IJ_A9Xq3RQ)。這張專輯包含主打歌《NAVILLERA》及純伴奏版在內，共收錄12首歌曲；其中，主打歌也是她們繼「學校三部曲」後，再度與
-    Lee Ki、Yong Bae 合作的作品。而公開的試聽影像中，一邊欣賞音源的同時，還能一覽 GFRIEND
-    展現青春活潑、甜美清純雙重魅力的概念照。\[5\]
+  - 7月5日公開[回歸預告](https://www.youtube.com/watch?v=8zOcHMdrS6A)，片中，GFRIEND成員們把頭髮燙了大卷、戴上髮夾、穿上蓋過腳踝的白襪子，滿滿的復古氣息，帶著輕微的懷舊感。第一個場景裡，成員們坐在一起準備拍照，洋娃娃、收音機、獎盃和溜冰鞋等充滿懷舊風情的道具也一一出現在畫面中。 GFRIEND成員們穿著溜冰鞋相互打鬧，活潑又可愛。還可以聽到GFRIEND首張正式專輯《L.O.L》的Intro部分旋律，韓國著名詩人趙芝薰的詩作《僧舞》裡的一句「NAVILLERA」也有反復出現。\[3\]
+  - 7月7日公開[MV預告](https://www.youtube.com/watch?v=r4noeHLS058)，預告中，GFRIEND穿著溜冰鞋自由玩耍，有時候還不小心摔倒在地，完全是一副調皮少女的模樣，她們互相治療或拉起隊友，很是活潑。另外，成員們還展現了一小段整齊的群舞，在充滿清涼節奏感的音樂中青春舞動。 Yuju的暴發性嗓音更是吸引歌迷的耳朵。\[4\]
+  - 7月8日公開[正規專輯預告](https://www.youtube.com/watch?v=6IJ_A9Xq3RQ)。這張專輯包含主打歌《NAVILLERA》及純伴奏版在內，共收錄12首歌曲；其中，主打歌也是她們繼「學校三部曲」後，再度與 Lee Ki、Yong Bae 合作的作品。而公開的試聽影像中，一邊欣賞音源的同時，還能一覽 GFRIEND 展現青春活潑、甜美清純雙重魅力的概念照。\[5\]
 
 7月11日在首爾市廣津洞的YES 24 MUV HALL舉辦媒體Showcase和粉絲Showcase。
 
@@ -37,8 +28,7 @@ out Loud」的活潑甜美風大不同。\[2\]
 
 ### 主打歌《NAVILLERA》橫掃音源榜
 
-7月11日零點公開了主打歌《NAVILLERA》，截至現時，歌曲已經攻佔Genie、Mnet、Bugs、音海、NAVER Music和Olleh
-Music的榜首。\[6\]
+7月11日零點公開了主打歌《NAVILLERA》，截至現時，歌曲已經攻佔Genie、Mnet、Bugs、音海、NAVER Music和Olleh Music的榜首。\[6\]
 
 ### 殺入Billboard世界專輯排行榜
 
@@ -46,17 +36,13 @@ Music的榜首。\[6\]
 
 ### 獲得14個一位
 
-7月19日於《[THE
-SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》中以8,404分獲得**第一個一位**。
+7月19日於《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》中以8,404分獲得**第一個一位**。
 
-7月20日於《[Show
-Champion](../Page/Show_Champion.md "wikilink")》中獲得**第二個一位**。
+7月20日於《[Show Champion](../Page/Show_Champion.md "wikilink")》中獲得**第二個一位**。
 
-7月21日於《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中以9,154分獲得**第三個一位**。
+7月21日於《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中以9,154分獲得**第三個一位**。
 
-7月22日於《[Music
-Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》中以6,851分獲得**第四個一位**。
+7月22日於《[Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》中以6,851分獲得**第四個一位**。
 
 7月24日於《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》中以10,328分獲得**第五個一位**。
 
@@ -80,10 +66,7 @@ Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》中以6,851分
 
 ## 曲目
 
-專輯共收錄12首歌，除主打歌之外，還有將陷入愛戀的心境描述成被對方染色的《FALL IN
-LOVE》、充滿希望的《LOL》、首次嘗試雷鬼曲風的《DISTANCE》、把海浪水花比喻成花火的《WATER
-FLOWER》、以人魚公主的童話為靈感來源的《MERMAID》、柔和R\&B曲風的《SUNSHINE》、House曲風的《COMPAS》
-、積極正能量的《CLICK》，以及節奏感極強的dubstep曲風歌曲《GONE WITH THE WIND》。\[7\]
+專輯共收錄12首歌，除主打歌之外，還有將陷入愛戀的心境描述成被對方染色的《FALL IN LOVE》、充滿希望的《LOL》、首次嘗試雷鬼曲風的《DISTANCE》、把海浪水花比喻成花火的《WATER FLOWER》、以人魚公主的童話為靈感來源的《MERMAID》、柔和R\&B曲風的《SUNSHINE》、House曲風的《COMPAS》 、積極正能量的《CLICK》，以及節奏感極強的dubstep曲風歌曲《GONE WITH THE WIND》。\[7\]
 
 ## 音樂現場
 
@@ -318,19 +301,12 @@ FLOWER》、以人魚公主的童話為靈感來源的《MERMAID》、柔和R\&B
 
 ## 參考資料
 
-[Category:GFRIEND](https://zh.wikipedia.org/wiki/Category:GFRIEND "wikilink")
-[Category:韩国音樂專輯](https://zh.wikipedia.org/wiki/Category:韩国音樂專輯 "wikilink")
-[Category:GFRIEND音乐专辑](https://zh.wikipedia.org/wiki/Category:GFRIEND音乐专辑 "wikilink")
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:2016年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2016年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon數位下載週榜冠軍作品 "wikilink")
+[Category:GFRIEND](https://zh.wikipedia.org/wiki/Category:GFRIEND "wikilink") [Category:韩国音樂專輯](https://zh.wikipedia.org/wiki/Category:韩国音樂專輯 "wikilink") [Category:GFRIEND音乐专辑](https://zh.wikipedia.org/wiki/Category:GFRIEND音乐专辑 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:2016年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon單曲週榜冠軍作品 "wikilink") [Category:2016年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon數位下載週榜冠軍作品 "wikilink")
 
 1.  [（圖多）GFRIEND新輯第一波概念照展青春活力](https://hk.news.yahoo.com/%E5%9C%96%E5%A4%9A-gfriend%E6%96%B0%E8%BC%AF%E7%AC%AC-%E6%B3%A2%E6%A6%82%E5%BF%B5%E7%85%A7%E5%B1%95%E9%9D%92%E6%98%A5%E6%B4%BB%E5%8A%9B-090000903.html)
-2.  [GFRIEND 首張正規專輯《L.O.L》
-    第二輪宣傳照公開](http://www.koreastardaily.com/tc/news/80752)
+2.  [GFRIEND 首張正規專輯《L.O.L》 第二輪宣傳照公開](http://www.koreastardaily.com/tc/news/80752)
 3.  [GFRIEND《L.O.L》回歸預告片公開　復古少女活力四射](http://www.koreastardaily.com/tc/news/80846)
-4.  [GFRIEND曝新主打歌《NAVILLERA》MV 預告
-    展現青春洋溢甜美Look](http://www.koreastardaily.com/tc/news/80981)
+4.  [GFRIEND曝新主打歌《NAVILLERA》MV 預告 展現青春洋溢甜美Look](http://www.koreastardaily.com/tc/news/80981)
 5.  [《LOL》音源試聽](http://kpopn.niusnews.com/=K321fkj4)
 6.  [GFRIEND新專輯《L.O.L》今日發佈　主打歌《NAVILLERA》橫掃音源榜](http://www.koreastardaily.com/tc/news/81062)
 7.  [GFRIEND新專輯《L.O.L》今日發佈　主打歌《NAVILLERA》橫掃音源榜](http://www.koreastardaily.com/tc/news/81062)

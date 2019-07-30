@@ -1,10 +1,8 @@
-是yuzuri录制开发的歌声数据库，kgr担当[人物设计](https://zh.wikipedia.org/wiki/人物设计 "wikilink")，EyesOnly设计[标志](../Page/标志.md "wikilink")。[Utau引擎的数据库Ver](../Page/Utau.md "wikilink")1.0于2014年9月28日发布，时隔一年，在之前基础上添加三种表情音源的数据库Ver1.5于2015年9月28日发布。Synthesizer
-V引擎的数据库于2018年11月11日发布。
+是yuzuri录制开发的歌声数据库，kgr担当[人物设计](https://zh.wikipedia.org/wiki/人物设计 "wikilink")，EyesOnly设计[标志](../Page/标志.md "wikilink")。[Utau](../Page/Utau.md "wikilink")引擎的数据库Ver1.0于2014年9月28日发布，时隔一年，在之前基础上添加三种表情音源的数据库Ver1.5于2015年9月28日发布。Synthesizer V引擎的数据库于2018年11月11日发布。
 
 ## 角色
 
-她有一头蓬松的粉红色长头发，还有蓝绿色的眼睛。
-服装分有冬装和夏装。冬装随Ver1.0发布，样式为礼服加红色高跟鞋，戴有月亮和星星形状的装饰品。夏装随Ver1.5发布，样式为短袖加迷你裙和高跟凉鞋。
+她有一头蓬松的粉红色长头发，还有蓝绿色的眼睛。 服装分有冬装和夏装。冬装随Ver1.0发布，样式为礼服加红色高跟鞋，戴有月亮和星星形状的装饰品。夏装随Ver1.5发布，样式为短袖加迷你裙和高跟凉鞋。
 
 ## 数据库
 
@@ -117,8 +115,7 @@ yuzuri曾在2013年制作过她的前身，闇音レイ，现已停止发布。
 
 ## 反响
 
-以丰富的资源数据而广受好评，尤其是当中拥有的呼吸音和气泡音数据，是她最受称赞的地方。像拥有“”等标签的Police
-Piccadilly创作的《[](http://www.nicovideo.jp/watch/sm28038974)》和《[Cynic](http://www.nicovideo.jp/watch/sm28668522)》，以其拥有以假乱真的换气声和自然的力度转换带来的极似真人、强烈感情的歌声而闻名。\[1\]\[2\]
+以丰富的资源数据而广受好评，尤其是当中拥有的呼吸音和气泡音数据，是她最受称赞的地方。像拥有“”等标签的Police Piccadilly创作的《[](http://www.nicovideo.jp/watch/sm28038974)》和《[Cynic](http://www.nicovideo.jp/watch/sm28668522)》，以其拥有以假乱真的换气声和自然的力度转换带来的极似真人、强烈感情的歌声而闻名。\[1\]\[2\]
 
 ## 额外信息
 
@@ -129,8 +126,7 @@ Piccadilly创作的《[](http://www.nicovideo.jp/watch/sm28038974)》和《[Cyni
 
 ## 参考资料
 
-[Category:虛構歌手](https://zh.wikipedia.org/wiki/Category:虛構歌手 "wikilink")
-[Category:UTAU](https://zh.wikipedia.org/wiki/Category:UTAU "wikilink")
+[Category:虛構歌手](https://zh.wikipedia.org/wiki/Category:虛構歌手 "wikilink") [Category:UTAU](https://zh.wikipedia.org/wiki/Category:UTAU "wikilink")
 
 1.
 2.

@@ -1,12 +1,10 @@
-是著作，插畫的日本[輕小說作品](../Page/輕小說.md "wikilink")，由[GA文庫自](../Page/GA文庫.md "wikilink")2012年11月出版發行，並於2018年10月11日出售最終卷正式完結。
+是著作，插畫的日本[輕小說](../Page/輕小說.md "wikilink")作品，由[GA文庫](../Page/GA文庫.md "wikilink")自2012年11月出版發行，並於2018年10月11日出售最終卷正式完結。
 
 2015年5月發表電視動畫化消息，為『GA文庫10週年紀念企劃』第五個動畫化作品\[1\]，2015年12月宣布將於2016年4月播放\[2\]。台灣由[木棉花公司取得代理權](https://zh.wikipedia.org/wiki/木棉花 "wikilink")，並由巴哈姆特動畫瘋、LiTV線上影視等網路電視平台於2016年4月份同步放送\[3\]。
 
 ## 故事簡介
 
-地球上的人類被一種名為「Savage」的神秘生命體侵略，唯一能對抗「Savage」的只有名為「百武裝」的兵器。為了利用「武藝者」待遇來替妹妹治病的如月隼人，決定進入海上學園都市艦「Little
-Garden」就讀，並在那裡遇見一名陌生卻對他所知甚詳的室友艾米莉亞·漢密特。隼人、艾米莉亞和「Little
-Garden」的夥伴與「Savage」的戰鬥就此開始。
+地球上的人類被一種名為「Savage」的神秘生命體侵略，唯一能對抗「Savage」的只有名為「百武裝」的兵器。為了利用「武藝者」待遇來替妹妹治病的如月隼人，決定進入海上學園都市艦「Little Garden」就讀，並在那裡遇見一名陌生卻對他所知甚詳的室友艾米莉亞·漢密特。隼人、艾米莉亞和「Little Garden」的夥伴與「Savage」的戰鬥就此開始。
 
 ## 登場角色
 
@@ -14,8 +12,7 @@ Garden」的夥伴與「Savage」的戰鬥就此開始。
 
   -
     本作主角，武藝科一年級生，大和皇國出身。喜歡艾米莉亞。因為在幼年时和家人于古登堡旅行中發生蠻族侵襲事件而失去了双亲，曾幫助遭受蠻族劃傷的艾米莉亞吸出蠻族病毒而成為變異者，后便和妹妹花憐一起在设施裡生活。
-    由于想要妹妹接受最好的治疗和希望设施里的同伴们过上更好的生活，并且想要查明一直出现在梦里的少女（艾米莉亚）的真身而入学Little
-    Garden，擁有歷代一位HUNDRED反應數値的新生。HUNDRED的名字為『飛燕』。
+    由于想要妹妹接受最好的治疗和希望设施里的同伴们过上更好的生活，并且想要查明一直出现在梦里的少女（艾米莉亚）的真身而入学Little Garden，擁有歷代一位HUNDRED反應數値的新生。HUNDRED的名字為『飛燕』。
     由於是「變異者」，一旦在面對強烈危機時病毒就會活化，造成失控。雖然變得更加強力，但是屬於無意識下的狀態，如果極度失控就很危險，所以現在仍然努力的控制病毒。
     喜歡艾米莉亞，但也被克蕾雅、櫻所喜歡，但是本人似乎沒有發覺後兩人的心意，因此使得艾米莉亞、櫻和克蕾雅之間產生了修羅場（本人完全不知道），只要稍微接近其中一個而另一個在附近看見時，就會衝進去加以阻礙，並且[吃醋](https://zh.wikipedia.org/wiki/吃醋 "wikilink")。
     目前已能稍微控制蠻族病毒的活化，但如果真的發覺危險時還是會接近失控的無差別攻擊。
@@ -25,19 +22,15 @@ Garden」的夥伴與「Savage」的戰鬥就此開始。
 
   -
     本作女主角之一，武藝科一年級生。喜歡隼人。
-    曾因為在古登堡發生蠻族侵襲事件，遭受蠻族劃傷，所以因為蠻族病毒的關係，成為變異者。由於為了再次見到如月隼人，並隱瞞身份，一直以來女扮男裝，並用假名就讀Little
-    Garden，实际身份是不列颠尼亚联邦宗主国古登堡王国第三王女，真正名字是****，直至第四卷結尾，才以女性身份就讀Little
-    Garden。HUNDRED的名字為『遮蔽一切的霧』。然而性格方面也很豪放不羁，并经常让隼人因此吃足了苦头（例如和克蕾亚的决斗）。
+    曾因為在古登堡發生蠻族侵襲事件，遭受蠻族劃傷，所以因為蠻族病毒的關係，成為變異者。由於為了再次見到如月隼人，並隱瞞身份，一直以來女扮男裝，並用假名就讀Little Garden，实际身份是不列颠尼亚联邦宗主国古登堡王国第三王女，真正名字是****，直至第四卷結尾，才以女性身份就讀Little Garden。HUNDRED的名字為『遮蔽一切的霧』。然而性格方面也很豪放不羁，并经常让隼人因此吃足了苦头（例如和克蕾亚的决斗）。
     因為喜歡隼人，下意識的把克蕾雅和櫻視為「情敵」，只要隼人稍微接近後兩個，馬上加以阻礙，如果後兩人自己接近也是一樣，而且是醋勁大發。
     結局與隼人結婚，並為對方誕下一子一女。
 
 <!-- end list -->
 
   - <span id="克蕾亞·哈維"></span>
-    本作女主角之一，武藝科三年級生，[爆乳](https://zh.wikipedia.org/wiki/爆乳 "wikilink")、髮型為，喜歡隼人，具有作品中最頂級豐滿的體格。Little
-    Garden的艦長也是學生會長和民间军事企业瓦鲁斯兰公司的千金，社长君达尔·哈维的妹妹。
-    非常的有责任心的大小姐。口头禅为「Noblesse
-    oblige（贵族义务）」对待武艺科的学生非常的严厉，但也是由于出于对他们人身安全的担心。HUNDRED的名字為『高貴之戰姬』。
+    本作女主角之一，武藝科三年級生，[爆乳](https://zh.wikipedia.org/wiki/爆乳 "wikilink")、髮型為，喜歡隼人，具有作品中最頂級豐滿的體格。Little Garden的艦長也是學生會長和民间军事企业瓦鲁斯兰公司的千金，社长君达尔·哈维的妹妹。
+    非常的有责任心的大小姐。口头禅为「Noblesse oblige（贵族义务）」对待武艺科的学生非常的严厉，但也是由于出于对他们人身安全的担心。HUNDRED的名字為『高貴之戰姬』。
     綽號是「女王」(The Queen)，因為她的初登場就有如女王般之君臨天下的氣勢與姿態，且不容他人悖逆她。
     對於敢忤逆她的隼人提出決鬥，一開始還很輕蔑的看待，甚至對於隼人推倒甚至碰觸及胸部她也不在意（事後非常在意）。直到隼人開始暴走之後才完全認真起來，與後者勉為其難的打成平手。此後開始在乎隼人的存在，並且對於隼人的態度出現傲嬌。
     對於隼人的態度轉變後，很是介意隼人與其他女生一塊活動（尤其是艾米莉亞和櫻），且還會「吃醋」。
@@ -47,14 +40,12 @@ Garden」的夥伴與「Savage」的戰鬥就此開始。
 
   -
     本作女主角之一，世界知名的歌姬，拉斯亚和大和的混血儿。幼时因为身位钢琴演奏家的母亲的表演而前往古登堡，并由于蠻族的袭击失去了母亲。幼年時曾和隼人與花憐見過面，也因為隼人的鼓勵，喜歡隼人並成就了她以唱歌為目標而努力。
-    曾感染過蠻族病毒，之後因為情況惡化，而被父親賣到當時還是瓦爾斯蘭公司的薇塔莉·提尼雅諾夫的研究所當實驗體，被強制接種蠻族體液製成的疫苗後，最後只有她成功倖存下來，成為了變異者，之後被舒芙蕾和夏洛特等人救出。第二卷以后作为特待生编入Little
-    Garden武艺科。HUNDRED的名字為『妖精編織之物語』。
+    曾感染過蠻族病毒，之後因為情況惡化，而被父親賣到當時還是瓦爾斯蘭公司的薇塔莉·提尼雅諾夫的研究所當實驗體，被強制接種蠻族體液製成的疫苗後，最後只有她成功倖存下來，成為了變異者，之後被舒芙蕾和夏洛特等人救出。第二卷以后作为特待生编入Little Garden武艺科。HUNDRED的名字為『妖精編織之物語』。
 
 <!-- end list -->
 
   -
-    隼人的妹妹。自幼體弱多病(據動畫版透露疑似是得了蠻族病毒所導致的)，目前住進Little
-    Garden的醫院療養。有着小恶魔一般的性格，但同时也非常担心哥哥的安全，害怕他出什么意外，每次隼人有任务外出时都会為他进行占卜，而且正确率出奇的高。因为一直在住院非常憧憬上学的生活，而身体状况也在不断的好转，在第四卷觉醒了Hunderd，本人十分崇拜身位歌姬的雾岛樱，也拥有绝佳的唱歌才能。在第四卷(動畫第10集中)之后和樱以组合的身份作为偶像出道。HUNDRED的名字為『奇蹟之聖符』。
+    隼人的妹妹。自幼體弱多病(據動畫版透露疑似是得了蠻族病毒所導致的)，目前住進Little Garden的醫院療養。有着小恶魔一般的性格，但同时也非常担心哥哥的安全，害怕他出什么意外，每次隼人有任务外出时都会為他进行占卜，而且正确率出奇的高。因为一直在住院非常憧憬上学的生活，而身体状况也在不断的好转，在第四卷觉醒了Hunderd，本人十分崇拜身位歌姬的雾岛樱，也拥有绝佳的唱歌才能。在第四卷(動畫第10集中)之后和樱以组合的身份作为偶像出道。HUNDRED的名字為『奇蹟之聖符』。
 
 <!-- end list -->
 
@@ -90,8 +81,7 @@ Garden」的夥伴與「Savage」的戰鬥就此開始。
 ### Little Garden相关人物
 
   -
-    Little
-    Garden技術主任。负责Hundred的维修和制造。隼人，艾米尔，樱的Hundred均出自她手。曾经为艾米尔制造了她的专属Hundred，教她如何使用，并和舒芙蕾联手破获了薇塔莉的非法[人体试验案解救了樱](../Page/人体试验.md "wikilink")。
+    Little Garden技術主任。负责Hundred的维修和制造。隼人，艾米尔，樱的Hundred均出自她手。曾经为艾米尔制造了她的专属Hundred，教她如何使用，并和舒芙蕾联手破获了薇塔莉的非法[人体试验](../Page/人体试验.md "wikilink")案解救了樱。
 
 <!-- end list -->
 
@@ -149,10 +139,8 @@ Garden」的夥伴與「Savage」的戰鬥就此開始。
 <!-- end list -->
 
   -
-    原瓦爾斯蘭公司的技术主任。擅自进行人工變異者的[非法](https://zh.wikipedia.org/wiki/非法 "wikilink")[人體試驗](https://zh.wikipedia.org/wiki/人體試驗 "wikilink")，被发现后被从瓦爾斯蘭本公司左迁到故乡拉斯亚继续进行研究。在那里为了向瓦爾斯蘭公司和Little
-    Garden复仇而开发了人工『蠻族』（Savage）。
-    在Little
-    Garden地下室试图射击LiZA（丽莎·哈维）未果被君达尔·哈维反过来开枪射杀，並于在他的怀中长眠。後來大腦被君達爾取出來連接到電腦上。
+    原瓦爾斯蘭公司的技术主任。擅自进行人工變異者的[非法](https://zh.wikipedia.org/wiki/非法 "wikilink")[人體試驗](https://zh.wikipedia.org/wiki/人體試驗 "wikilink")，被发现后被从瓦爾斯蘭本公司左迁到故乡拉斯亚继续进行研究。在那里为了向瓦爾斯蘭公司和Little Garden复仇而开发了人工『蠻族』（Savage）。
+    在Little Garden地下室试图射击LiZA（丽莎·哈维）未果被君达尔·哈维反过来开枪射杀，並于在他的怀中长眠。後來大腦被君達爾取出來連接到電腦上。
 
 ### 不列顛尼亞聯邦
 
@@ -590,7 +578,7 @@ han sung hui</p></td>
 
 ### 播放電視台
 
-動畫於2016年4月4日在[東京電視台](../Page/東京電視台.md "wikilink")、[BS日本](../Page/BS日本.md "wikilink")、[AT-X等電視台播放](../Page/AT-X.md "wikilink")\[4\]。
+動畫於2016年4月4日在[東京電視台](../Page/東京電視台.md "wikilink")、[BS日本](../Page/BS日本.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")等電視台播放\[4\]。
 
 ## 參考資料
 
@@ -604,18 +592,7 @@ han sung hui</p></td>
   - [電視動畫「HUNDRED百武裝戰記」官方網站](http://hundred-anime.jp/)
 
   -
-[Category:GA文庫](https://zh.wikipedia.org/wiki/Category:GA文庫 "wikilink")
-[Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
-[Category:2016年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2016年東京電視網動畫 "wikilink")
-[Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink")
-[Category:外星生命題材動畫](https://zh.wikipedia.org/wiki/Category:外星生命題材動畫 "wikilink")
-[Category:超能力題材作品](https://zh.wikipedia.org/wiki/Category:超能力題材作品 "wikilink")
-[Category:超能力題材小說](https://zh.wikipedia.org/wiki/Category:超能力題材小說 "wikilink")
-[Category:超能力題材動畫](https://zh.wikipedia.org/wiki/Category:超能力題材動畫 "wikilink")
-[Category:動力服題材作品](https://zh.wikipedia.org/wiki/Category:動力服題材作品 "wikilink")
-[Category:月刊Dragon_Age](https://zh.wikipedia.org/wiki/Category:月刊Dragon_Age "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:GA文庫](https://zh.wikipedia.org/wiki/Category:GA文庫 "wikilink") [Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:2016年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2016年東京電視網動畫 "wikilink") [Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink") [Category:外星生命題材動畫](https://zh.wikipedia.org/wiki/Category:外星生命題材動畫 "wikilink") [Category:超能力題材作品](https://zh.wikipedia.org/wiki/Category:超能力題材作品 "wikilink") [Category:超能力題材小說](https://zh.wikipedia.org/wiki/Category:超能力題材小說 "wikilink") [Category:超能力題材動畫](https://zh.wikipedia.org/wiki/Category:超能力題材動畫 "wikilink") [Category:動力服題材作品](https://zh.wikipedia.org/wiki/Category:動力服題材作品 "wikilink") [Category:月刊Dragon_Age](https://zh.wikipedia.org/wiki/Category:月刊Dragon_Age "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 2.

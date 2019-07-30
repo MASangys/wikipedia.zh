@@ -1,6 +1,6 @@
-**信天翁D戰鬥機**是由信天翁飛機公司以[信天翁C偵察機的基礎和參考了法國](../Page/信天翁C偵察機.md "wikilink")[紐波特11戰鬥機而研製的雙翼戰鬥機](../Page/紐波特11戰鬥機.md "wikilink")，在[第一次世界大戰期間是繼](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[福克E單翼戰鬥機後德國空軍的主力戰鬥機](../Page/福克E單翼戰鬥機.md "wikilink")。
+**信天翁D戰鬥機**是由信天翁飛機公司以[信天翁C偵察機](../Page/信天翁C偵察機.md "wikilink")的基礎和參考了法國[紐波特11戰鬥機](../Page/紐波特11戰鬥機.md "wikilink")而研製的雙翼戰鬥機，在[第一次世界大戰期間是繼](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[福克E單翼戰鬥機](../Page/福克E單翼戰鬥機.md "wikilink")後德國空軍的主力戰鬥機。
 
-不同於[福克飛機公司是由荷蘭人安東尼](https://zh.wikipedia.org/wiki/福克飛機公司 "wikilink")．福克創立，信天翁飛機公司是正宗的德國飛機製造商，1910年成立於[柏林約亨尼斯塔爾區](../Page/柏林.md "wikilink")。
+不同於[福克飛機公司是由荷蘭人安東尼](https://zh.wikipedia.org/wiki/福克飛機公司 "wikilink")．福克創立，信天翁飛機公司是正宗的德國飛機製造商，1910年成立於[柏林](../Page/柏林.md "wikilink")約亨尼斯塔爾區。
 
 ## 基本資料(信天翁D-Va戰鬥機)
 
@@ -21,18 +21,17 @@
 
 [Albatros_D.I.jpg](https://zh.wikipedia.org/wiki/File:Albatros_D.I.jpg "fig:Albatros_D.I.jpg")
 
-信天翁D戰鬥機是由[信天翁C偵察機發展出來的](../Page/信天翁C偵察機.md "wikilink")，機身是合乎[流體力學的水滴形而且是整個都是木製的](https://zh.wikipedia.org/wiki/流體力學 "wikilink")，這要比其他木製骨架外覆帆布的飛機要堅固，早期型沿用[信天翁C偵察機的機翼設計](../Page/信天翁C偵察機.md "wikilink")，從D-III開始參考了法國[紐波特11戰鬥機的機翼設計而採用上機翼比下機翼闊](../Page/紐波特11戰鬥機.md "wikilink")，上下機翼以V形支柱連接，這樣的設計兼備了雙翼機的轉彎靈活性和單翼機的高速度，但信天翁D戰鬥機和紐波特11戰鬥機一樣機翼結構脆弱尤其是下機翼，在實戰期間曾發生多次機翼斷裂事故，這個問題一直至D-Va都未能徹底解決，對此唯有告誡飛行員不要做角度過大或時間太久的俯衝。
+信天翁D戰鬥機是由[信天翁C偵察機](../Page/信天翁C偵察機.md "wikilink")發展出來的，機身是合乎[流體力學的水滴形而且是整個都是木製的](https://zh.wikipedia.org/wiki/流體力學 "wikilink")，這要比其他木製骨架外覆帆布的飛機要堅固，早期型沿用[信天翁C偵察機](../Page/信天翁C偵察機.md "wikilink")的機翼設計，從D-III開始參考了法國[紐波特11戰鬥機](../Page/紐波特11戰鬥機.md "wikilink")的機翼設計而採用上機翼比下機翼闊，上下機翼以V形支柱連接，這樣的設計兼備了雙翼機的轉彎靈活性和單翼機的高速度，但信天翁D戰鬥機和紐波特11戰鬥機一樣機翼結構脆弱尤其是下機翼，在實戰期間曾發生多次機翼斷裂事故，這個問題一直至D-Va都未能徹底解決，對此唯有告誡飛行員不要做角度過大或時間太久的俯衝。
 
-延續了[福克E單翼戰鬥機的機槍在機頭而瞄準容易而準確](../Page/福克E單翼戰鬥機.md "wikilink")，信天翁D戰鬥機的機槍也在機頭並以[同步射擊系統穿過螺旋槳開火](https://zh.wikipedia.org/wiki/射击断续器 "wikilink")，而且信天翁D戰鬥機有兩挺機槍而同期的[協約國戰機祇有一挺](../Page/協約國.md "wikilink")，信天翁D戰鬥機比它們要準確和強悍。
+延續了[福克E單翼戰鬥機](../Page/福克E單翼戰鬥機.md "wikilink")的機槍在機頭而瞄準容易而準確，信天翁D戰鬥機的機槍也在機頭並以[同步射擊系統穿過螺旋槳開火](https://zh.wikipedia.org/wiki/射击断续器 "wikilink")，而且信天翁D戰鬥機有兩挺機槍而同期的[協約國](../Page/協約國.md "wikilink")戰機祇有一挺，信天翁D戰鬥機比它們要準確和強悍。
 
 ## 主要型號
 
-[Albatros_D.II.jpg](https://zh.wikipedia.org/wiki/File:Albatros_D.II.jpg "fig:Albatros_D.II.jpg")
-[Albatros_D.V_3_vues,_not_D.iii.jpg](https://zh.wikipedia.org/wiki/File:Albatros_D.V_3_vues,_not_D.iii.jpg "fig:Albatros_D.V_3_vues,_not_D.iii.jpg")
+[Albatros_D.II.jpg](https://zh.wikipedia.org/wiki/File:Albatros_D.II.jpg "fig:Albatros_D.II.jpg") [Albatros_D.V_3_vues,_not_D.iii.jpg](https://zh.wikipedia.org/wiki/File:Albatros_D.V_3_vues,_not_D.iii.jpg "fig:Albatros_D.V_3_vues,_not_D.iii.jpg")
 
   - [信天翁D-I戰鬥機](https://zh.wikipedia.org/wiki/信天翁D-I戰鬥機 "wikilink")
 
-早期型，可視為[信天翁C偵察機的單座戰鬥機型](../Page/信天翁C偵察機.md "wikilink")，沿用信天翁C偵察機的機翼設計，採用160匹馬力戴姆勒D-III發動機
+早期型，可視為[信天翁C偵察機](../Page/信天翁C偵察機.md "wikilink")的單座戰鬥機型，沿用信天翁C偵察機的機翼設計，採用160匹馬力戴姆勒D-III發動機
 
   - [信天翁D-II戰鬥機](https://zh.wikipedia.org/wiki/信天翁D-II戰鬥機 "wikilink")
 
@@ -40,7 +39,7 @@
 
   - [信天翁D-III戰鬥機](https://zh.wikipedia.org/wiki/信天翁D-III戰鬥機 "wikilink")
 
-參考了法國[紐波特11戰鬥機的機翼設計而採用上機翼比下機翼闊](../Page/紐波特11戰鬥機.md "wikilink")，採用170匹馬力戴姆勒D-IIIa發動機
+參考了法國[紐波特11戰鬥機](../Page/紐波特11戰鬥機.md "wikilink")的機翼設計而採用上機翼比下機翼闊，採用170匹馬力戴姆勒D-IIIa發動機
 
   - [信天翁D-V戰鬥機](https://zh.wikipedia.org/wiki/信天翁D-V戰鬥機 "wikilink")
 
@@ -58,7 +57,7 @@
 
 奧匈飛行員普遍認為信天翁D-III戰鬥機:爬升率、穏定性和靈活性方面皆勝過敵機。
 
-奧匈帝國的信天翁D-III戰鬥機主要拿來對付已改投[協約國陣營的意大利](../Page/協約國.md "wikilink")，而隨著一戰後奧匈帝國解體，奧匈帝國的信天翁D-III戰鬥機都流落到[南斯拉夫和](https://zh.wikipedia.org/wiki/南斯拉夫 "wikilink")[捷克斯洛伐克等國家](https://zh.wikipedia.org/wiki/捷克斯洛伐克 "wikilink")。
+奧匈帝國的信天翁D-III戰鬥機主要拿來對付已改投[協約國](../Page/協約國.md "wikilink")陣營的意大利，而隨著一戰後奧匈帝國解體，奧匈帝國的信天翁D-III戰鬥機都流落到[南斯拉夫和](https://zh.wikipedia.org/wiki/南斯拉夫 "wikilink")[捷克斯洛伐克等國家](https://zh.wikipedia.org/wiki/捷克斯洛伐克 "wikilink")。
 
 ## 實戰
 
@@ -78,11 +77,9 @@
 
 [Albatd3.jpg](https://zh.wikipedia.org/wiki/File:Albatd3.jpg "fig:Albatd3.jpg")
 
-意大利在1915年5月23日突然倒戈向奧匈帝國宣戰，雙方軍隊在邊境的南蒂羅爾和伊松河等地開戰，信天翁D戰鬥機在1917年7月25日開始列裝，起初奧匈祇在該區裝備兩架信天翁D戰鬥機，8月17日，第41戰鬥機隊的指揮官戈德溫．布魯莫夫斯基(Godwin
-Brumowski)駕駛一架信天翁D-III戰鬥機首次擊落一架意大利戰機，而隨著更多信天翁D戰鬥機的到來，第41戰鬥機隊成為奧匈的皇牌部隊，他們以一個骷髏頭作為其標記，戈德溫．布魯莫夫斯基駕駛信天翁D-III戰鬥機擊落了35架敵機而成為一戰當中奧匈頭號皇牌飛行員而且還能生存到一戰結束。
+意大利在1915年5月23日突然倒戈向奧匈帝國宣戰，雙方軍隊在邊境的南蒂羅爾和伊松河等地開戰，信天翁D戰鬥機在1917年7月25日開始列裝，起初奧匈祇在該區裝備兩架信天翁D戰鬥機，8月17日，第41戰鬥機隊的指揮官戈德溫．布魯莫夫斯基(Godwin Brumowski)駕駛一架信天翁D-III戰鬥機首次擊落一架意大利戰機，而隨著更多信天翁D戰鬥機的到來，第41戰鬥機隊成為奧匈的皇牌部隊，他們以一個骷髏頭作為其標記，戈德溫．布魯莫夫斯基駕駛信天翁D-III戰鬥機擊落了35架敵機而成為一戰當中奧匈頭號皇牌飛行員而且還能生存到一戰結束。
 
-另一隊奧匈皇牌部隊是有皇帝中隊之稱的第55戰鬥機隊，隊長是約瑟夫．基斯(Josef
-Kiss)，他在1918年5月24日陣亡以前曾駛信天翁D-III戰鬥機擊落了19架意大利戰鬥機，而其隊友也有很多成為空戰皇牌飛行員。
+另一隊奧匈皇牌部隊是有皇帝中隊之稱的第55戰鬥機隊，隊長是約瑟夫．基斯(Josef Kiss)，他在1918年5月24日陣亡以前曾駛信天翁D-III戰鬥機擊落了19架意大利戰鬥機，而其隊友也有很多成為空戰皇牌飛行員。
 
 不過奧匈在第一次世界大戰當中戰績最好的是第51戰鬥機隊，他們總共擊落了57架敵機。
 
@@ -132,7 +129,4 @@ Kiss)，他在1918年5月24日陣亡以前曾駛信天翁D-III戰鬥機擊落了
   - 第一次世界大戰軍機裝備全史(1914-1916)，陶力著，吉林文化出版社，ISBN 978-7-5472-2943-9
   - 第一次世界大戰軍機裝備全史(1917-1918)，陶力著，吉林文化出版社，ISBN 978-7-5472-2954-5
 
-[Category:雙翼機](https://zh.wikipedia.org/wiki/Category:雙翼機 "wikilink")
-[Category:德國戰鬥機](https://zh.wikipedia.org/wiki/Category:德國戰鬥機 "wikilink")
-[Category:奧匈帝國戰鬥機](https://zh.wikipedia.org/wiki/Category:奧匈帝國戰鬥機 "wikilink")
-[Category:第一次世界大戰飛機](https://zh.wikipedia.org/wiki/Category:第一次世界大戰飛機 "wikilink")
+[Category:雙翼機](https://zh.wikipedia.org/wiki/Category:雙翼機 "wikilink") [Category:德國戰鬥機](https://zh.wikipedia.org/wiki/Category:德國戰鬥機 "wikilink") [Category:奧匈帝國戰鬥機](https://zh.wikipedia.org/wiki/Category:奧匈帝國戰鬥機 "wikilink") [Category:第一次世界大戰飛機](https://zh.wikipedia.org/wiki/Category:第一次世界大戰飛機 "wikilink")

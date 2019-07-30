@@ -1,5 +1,4 @@
-《**With
-Ribbon**》是日本的HULOTTE在2011年2月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]HULOTTE的首部作品，原本預定於2011年1月28日發售。\[2\]
+《**With Ribbon**》是日本的HULOTTE在2011年2月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]HULOTTE的首部作品，原本預定於2011年1月28日發售。\[2\]
 
 ## 故事
 
@@ -59,12 +58,7 @@ Ribbon**》是日本的HULOTTE在2011年2月25日發售的[戀愛冒險類型](h
   - [HULOTTE](http://hulotte.jp/)
   - [官方網站](http://hulotte.jp/product/with-ribbon/)
 
-[Category:2012年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2012年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:時間旅行題材作品](https://zh.wikipedia.org/wiki/Category:時間旅行題材作品 "wikilink")
+[Category:2012年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2012年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:時間旅行題材作品](https://zh.wikipedia.org/wiki/Category:時間旅行題材作品 "wikilink")
 
 1.
 2.

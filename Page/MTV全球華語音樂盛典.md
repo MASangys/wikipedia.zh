@@ -1,5 +1,4 @@
-**MTV全球華語音樂盛典**是華語樂壇最具價值、最具知名度、最具品牌影響力的音樂盛典之一。「2017
-MTV全球華語音樂盛典」由[MTV主辦](../Page/音樂電視網.md "wikilink")、[娛人製造出品](https://zh.wikipedia.org/wiki/娛人製造 "wikilink")、[巨星龍投資](https://zh.wikipedia.org/wiki/巨星龍 "wikilink")、[水滴無界獨家冠名](https://zh.wikipedia.org/wiki/水滴無界 "wikilink")，發佈會現場宣佈盛典將於7月2日在[深圳灣體育場隆重舉行](../Page/深圳湾体育中心.md "wikilink")，並公佈了包括「最佳男女歌手」、「最佳人氣歌手」、「最佳十大金曲」在內的共27項大獎的獎項設置。屆時，[兩岸三地近百位知名歌手將會聚](../Page/兩岸三地.md "wikilink")[深圳](../Page/深圳市.md "wikilink")，共同見證這場華語樂壇的頂級盛宴。\[1\]\[2\]\[3\]
+**MTV全球華語音樂盛典**是華語樂壇最具價值、最具知名度、最具品牌影響力的音樂盛典之一。「2017 MTV全球華語音樂盛典」由[MTV主辦](../Page/音樂電視網.md "wikilink")、[娛人製造出品](https://zh.wikipedia.org/wiki/娛人製造 "wikilink")、[巨星龍投資](https://zh.wikipedia.org/wiki/巨星龍 "wikilink")、[水滴無界獨家冠名](https://zh.wikipedia.org/wiki/水滴無界 "wikilink")，發佈會現場宣佈盛典將於7月2日在[深圳灣體育場隆重舉行](../Page/深圳湾体育中心.md "wikilink")，並公佈了包括「最佳男女歌手」、「最佳人氣歌手」、「最佳十大金曲」在內的共27項大獎的獎項設置。屆時，[兩岸三地](../Page/兩岸三地.md "wikilink")近百位知名歌手將會聚[深圳](../Page/深圳市.md "wikilink")，共同見證這場華語樂壇的頂級盛宴。\[1\]\[2\]\[3\]
 
 ## 獎項
 

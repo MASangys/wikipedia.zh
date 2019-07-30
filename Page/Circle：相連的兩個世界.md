@@ -38,8 +38,8 @@
 </tr>
 <tr class="even">
 <td><p>-{<a href="../Page/金剛于.md" title="wikilink">金剛于</a>}-</p></td>
-<td><p>| align="left" |2027年失去了記憶，振鴻給他看宇鎮的記憶影像並給了他這個新名字，並在2037普通地球的韓國江南警署中逮捕率最高的老手刑警，藉由智慧地球發生的第一起殺人事件得以進入智慧地球，但主要目的為找尋失散的兄弟。因失憶而不知自己是誰，第四集才在靜妍引導下發現自己真正的身份，後與其一同尋找宇鎮；第五集知道昊秀是HumanB間諜但因覺得他善良所以毫無防備；第七、八集被朴東健誤導一度以為宇鎮是會長；第十一集與宇鎮相認；第十二集與靜妍一起設計謀成功恢復尹市長記憶並將朴東健惡行公諸於眾，最後辭職改行當麵包師。</p></td>
-<td></td>
+<td><p><a href="../Page/羅偉亮.md" title="wikilink">羅偉亮</a></p></td>
+<td><p>2027年失去了記憶，振鴻給他看宇鎮的記憶影像並給了他這個新名字，並在2037普通地球的韓國江南警署中逮捕率最高的老手刑警，藉由智慧地球發生的第一起殺人事件得以進入智慧地球，但主要目的為找尋失散的兄弟。因失憶而不知自己是誰，第四集才在靜妍引導下發現自己真正的身份，後與其一同尋找宇鎮；第五集知道昊秀是HumanB間諜但因覺得他善良所以毫無防備；第七、八集被朴東健誤導一度以為宇鎮是會長；第十一集與宇鎮相認；第十二集與靜妍一起設計謀成功恢復尹市長記憶並將朴東健惡行公諸於眾，最後辭職改行當麵包師。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -88,7 +88,7 @@
 <tr class="odd">
 <td><p><a href="../Page/鄭仁仙.md" title="wikilink">鄭仁仙</a> / <a href="../Page/金敏京.md" title="wikilink">金敏京</a></p></td>
 <td><p>朴敏英</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a> / <a href="../Page/陳凱婷.md" title="wikilink">陳凱婷</a></p></td>
+<td><p><a href="../Page/王綺婷.md" title="wikilink">王綺婷</a> / <a href="../Page/陳凱婷.md" title="wikilink">陳凱婷</a></p></td>
 <td><p>2017年，西延大學醫學系學生，被害者之一，存活了下來，但精神狀況變得不太好，曾與範均有共患難的情誼，從宇鎮和靜妍那邊接下失去記憶的範均；2037年為一名醫生，確定移除了晶片卻沒失憶。是最了解俊赫的人之一，對俊赫有好感。</p></td>
 </tr>
 <tr class="even">
@@ -344,30 +344,16 @@
 
 <!-- end list -->
 
-  - [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")：《[超人家族
-    2017](../Page/超人家族_2017.md "wikilink")》
+  - [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")：《[超人家族 2017](../Page/超人家族_2017.md "wikilink")》
 
 ## 參考資料
 
 ## 外部連結
 
   -
-[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink")
-[Category:2017年背景作品](https://zh.wikipedia.org/wiki/Category:2017年背景作品 "wikilink")
-[Category:2030年代背景作品](https://zh.wikipedia.org/wiki/Category:2030年代背景作品 "wikilink")
-[Category:外星生命題材電視劇](https://zh.wikipedia.org/wiki/Category:外星生命題材電視劇 "wikilink")
-[Category:韓國科幻劇](https://zh.wikipedia.org/wiki/Category:韓國科幻劇 "wikilink")
-[Category:TvN深夜劇集](https://zh.wikipedia.org/wiki/Category:TvN深夜劇集 "wikilink")
-[Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
-[Category:未來題材電視劇](https://zh.wikipedia.org/wiki/Category:未來題材電視劇 "wikilink")
-[Category:非直線敘事電視影集](https://zh.wikipedia.org/wiki/Category:非直線敘事電視影集 "wikilink")
+[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink") [Category:2017年背景作品](https://zh.wikipedia.org/wiki/Category:2017年背景作品 "wikilink") [Category:2030年代背景作品](https://zh.wikipedia.org/wiki/Category:2030年代背景作品 "wikilink") [Category:外星生命題材電視劇](https://zh.wikipedia.org/wiki/Category:外星生命題材電視劇 "wikilink") [Category:韓國科幻劇](https://zh.wikipedia.org/wiki/Category:韓國科幻劇 "wikilink") [Category:TvN深夜劇集](https://zh.wikipedia.org/wiki/Category:TvN深夜劇集 "wikilink") [Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:未來題材電視劇](https://zh.wikipedia.org/wiki/Category:未來題材電視劇 "wikilink") [Category:非直線敘事電視影集](https://zh.wikipedia.org/wiki/Category:非直線敘事電視影集 "wikilink")
 
 1.  [tvN新戲《Circle:相連的兩個世界》5月22日首播](http://www.koreastardaily.com/tc/news/92239)
-2.  [AGB 닐슨 미디어리서치 홈페이지
-    참조](http://www.nielsenkorea.co.kr/tv_terrestrial_day.asp?menu=Tit_1&sub_menu=3_1)
-
-3.  [AGB 닐슨 미디어리서치 케이블
-    시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
-4.  [터널 : 네이버
-    통합검색](https://search.naver.com/search.naver?query=%ED%84%B0%EB%84%90&ie=utf8&sm=tab_fid&rm=rkt_dra%2Cnexearch%2Csearch_extra%2C0)
+2.  [AGB 닐슨 미디어리서치 홈페이지 참조](http://www.nielsenkorea.co.kr/tv_terrestrial_day.asp?menu=Tit_1&sub_menu=3_1)
+3.  [AGB 닐슨 미디어리서치 케이블 시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
+4.  [터널 : 네이버 통합검색](https://search.naver.com/search.naver?query=%ED%84%B0%EB%84%90&ie=utf8&sm=tab_fid&rm=rkt_dra%2Cnexearch%2Csearch_extra%2C0)

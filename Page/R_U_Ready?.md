@@ -1,11 +1,10 @@
-《'''R U Ready?
-'''》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Lovelyz的第二張正規專輯](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，於2017年2月26日发行。该专辑共收入11首歌曲，主打歌曲為〈WoW\!〉。該專輯於2017年5月2日以《[現在，我們](../Page/現在，我們.md "wikilink")》作为改版专辑重新發行。
+《'''R U Ready? '''》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Lovelyz的第二張正規專輯](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，於2017年2月26日发行。该专辑共收入11首歌曲，主打歌曲為〈WoW\!〉。該專輯於2017年5月2日以《[現在，我們](../Page/現在，我們.md "wikilink")》作为改版专辑重新發行。
 
 ## 背景及回歸日程
 
 2017年1月15日，在演唱会《冬季国度的LOVELYZ》的最后一天，官方通过视频公开Lovelyz即将在来临的2月回归。
 
-1月18日，經紀公司[Woollim娛樂宣布Lovelyz](../Page/Woollim娛樂.md "wikilink")2月回歸為目標準備專輯中，而目前日期未定\[1\]。
+1月18日，經紀公司[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")宣布Lovelyz2月回歸為目標準備專輯中，而目前日期未定\[1\]。
 
 2月7日，官方表示：「Lovelyz將於本月27日攜正規專輯回歸，MV及專輯拍攝都已完成，目前正積極的準備回歸中\[2\]。」
 
@@ -17,8 +16,7 @@
 
 2月17日，释出专辑预览图及开放预购。
 
-2月20日，释出[Baby
-Soul](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")、[智爱](../Page/劉智愛.md "wikilink")、[智秀](../Page/徐智秀.md "wikilink")、[美珠](../Page/李美珠.md "wikilink")、[Kei](../Page/Kei.md "wikilink")、[JIN](../Page/Jin_\(Lovelyz\).md "wikilink")、[洙正和](../Page/柳洙正.md "wikilink")[叡仁的个人概念照](../Page/鄭叡仁.md "wikilink")。同日，官方表示：成员[叡仁在練習途中扭傷腳裸](../Page/鄭叡仁.md "wikilink")，目前上了石膏正進行休息，並會按叡仁的身體狀況才決定是否會进行回歸活動\[3\]。
+2月20日，释出[Baby Soul](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")、[智爱](../Page/劉智愛.md "wikilink")、[智秀](../Page/徐智秀.md "wikilink")、[美珠](../Page/李美珠.md "wikilink")、[Kei](../Page/Kei.md "wikilink")、[JIN](../Page/Jin_\(Lovelyz\).md "wikilink")、[洙正和](../Page/柳洙正.md "wikilink")[叡仁的个人概念照](../Page/鄭叡仁.md "wikilink")。同日，官方表示：成员[叡仁在練習途中扭傷腳裸](../Page/鄭叡仁.md "wikilink")，目前上了石膏正進行休息，並會按叡仁的身體狀況才決定是否會进行回歸活動\[3\]。
 
 2月21日，公开完整专辑歌单。
 
@@ -26,8 +24,7 @@ Soul](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")、[智爱](../Page/劉
 
 2月23日，發佈第二個概念預告视频。
 
-2月24日，釋出M/V預告。同日，[CJ
-E\&M官方Facebook释出專輯四行詩正解](../Page/CJ_E&M.md "wikilink")。
+2月24日，釋出M/V預告。同日，[CJ E\&M官方Facebook释出專輯四行詩正解](../Page/CJ_E&M.md "wikilink")。
 
 2月25日，释出专辑曲目試聽預告。
 
@@ -194,9 +191,7 @@ E\&M官方Facebook释出專輯四行詩正解](../Page/CJ_E&M.md "wikilink")。
 
 ## 参考资料
 
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:Lovelyz音乐专辑](https://zh.wikipedia.org/wiki/Category:Lovelyz音乐专辑 "wikilink")
-[Category:2017年音乐專輯](https://zh.wikipedia.org/wiki/Category:2017年音乐專輯 "wikilink")
+[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:Lovelyz音乐专辑](https://zh.wikipedia.org/wiki/Category:Lovelyz音乐专辑 "wikilink") [Category:2017年音乐專輯](https://zh.wikipedia.org/wiki/Category:2017年音乐專輯 "wikilink")
 
 1.
 2.

@@ -26,10 +26,7 @@
 
 ## 參考資料
 
-[Category:ATP新生代總決賽](https://zh.wikipedia.org/wiki/Category:ATP新生代總決賽 "wikilink")
-[Category:2017年建立的週期性體育事件](https://zh.wikipedia.org/wiki/Category:2017年建立的週期性體育事件 "wikilink")
-[Category:ATP巡迴賽](https://zh.wikipedia.org/wiki/Category:ATP巡迴賽 "wikilink")
-[Category:2017年義大利建立](https://zh.wikipedia.org/wiki/Category:2017年義大利建立 "wikilink")
+[Category:ATP新生代總決賽](https://zh.wikipedia.org/wiki/Category:ATP新生代總決賽 "wikilink") [Category:2017年建立的週期性體育事件](https://zh.wikipedia.org/wiki/Category:2017年建立的週期性體育事件 "wikilink") [Category:ATP巡迴賽](https://zh.wikipedia.org/wiki/Category:ATP巡迴賽 "wikilink") [Category:2017年義大利建立](https://zh.wikipedia.org/wiki/Category:2017年義大利建立 "wikilink")
 
 1.
 2.

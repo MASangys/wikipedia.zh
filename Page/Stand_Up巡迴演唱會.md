@@ -1,6 +1,4 @@
-**Stand
-Up巡迴演唱會**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG出道以來第一場日本巡迴演唱會](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，以支持他們在日本推出的手張正規專輯《[Number
-1](../Page/Number_1_\(BIGBANG日語專輯\).md "wikilink")》，而這場演唱會的[東京場次也製作成CD及DVD發行](https://zh.wikipedia.org/wiki/東京 "wikilink")。\[1\]\[2\]
+**Stand Up巡迴演唱會**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG出道以來第一場日本巡迴演唱會](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，以支持他們在日本推出的手張正規專輯《[Number 1](../Page/Number_1_\(BIGBANG日語專輯\).md "wikilink")》，而這場演唱會的[東京場次也製作成CD及DVD發行](https://zh.wikipedia.org/wiki/東京 "wikilink")。\[1\]\[2\]
 
 ## 特別嘉賓
 
@@ -23,8 +21,7 @@ Up巡迴演唱會**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikil
 12. Haru Haru
 13. Heaven
 14. We Belong Together
-15. Snow
-    Flower（[勝利](../Page/勝利_\(歌手\).md "wikilink")；翻唱[中島美嘉](../Page/中島美嘉.md "wikilink")）
+15. Snow Flower（[勝利](../Page/勝利_\(歌手\).md "wikilink")；翻唱[中島美嘉](../Page/中島美嘉.md "wikilink")）
 16. Remember
 17. Everything
 18. La La La
@@ -96,10 +93,7 @@ Up巡迴演唱會**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikil
 
   -
 
-[Category:BIGBANG巡迴演唱會](https://zh.wikipedia.org/wiki/Category:BIGBANG巡迴演唱會 "wikilink")
-[Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink")
-[Category:各艺人巡回演唱会](https://zh.wikipedia.org/wiki/Category:各艺人巡回演唱会 "wikilink")
-[Category:2008年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2008年巡迴演唱會 "wikilink")
+[Category:BIGBANG巡迴演唱會](https://zh.wikipedia.org/wiki/Category:BIGBANG巡迴演唱會 "wikilink") [Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink") [Category:各艺人巡回演唱会](https://zh.wikipedia.org/wiki/Category:各艺人巡回演唱会 "wikilink") [Category:2008年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2008年巡迴演唱會 "wikilink")
 
 1.
 2.

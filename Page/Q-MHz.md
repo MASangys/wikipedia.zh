@@ -15,8 +15,7 @@
 <!-- end list -->
 
   - 1月27日：第一張專輯「Q-MHz」發行。
-  - 7月19日：為[小松未可子全力製作首張由TOY](../Page/小松未可子.md "wikilink")'S
-    FACTORY發行的專輯\[2\]。
+  - 7月19日：為[小松未可子](../Page/小松未可子.md "wikilink")全力製作首張由TOY'S FACTORY發行的專輯\[2\]。
 
 ## 音樂作品
 
@@ -407,8 +406,7 @@ eba</p></td>
 
   - [Q-MHz官方網站](http://www.toysfactory.co.jp/artist/QMHz)
 
-  - [Q-MHz
-    YouTube官方頻道](https://www.youtube.com/channel/UCUKcdgw725jOdQ6LfQNYZsA)
+  - [Q-MHz YouTube官方頻道](https://www.youtube.com/channel/UCUKcdgw725jOdQ6LfQNYZsA)
 
   -
 [分類:日本演唱團體](https://zh.wikipedia.org/wiki/分類:日本演唱團體 "wikilink")

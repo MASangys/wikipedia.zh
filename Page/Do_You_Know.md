@@ -1,5 +1,4 @@
-《**Do You
-Know**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[方皓玟的首張個人國語專輯](../Page/方皓玟.md "wikilink")，於2002年7月16日推出。
+《**Do You Know**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[方皓玟](../Page/方皓玟.md "wikilink")的首張個人國語專輯，於2002年7月16日推出。
 
 ## 曲目
 
@@ -21,9 +20,6 @@ Know**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wi
 
 ## 獎項
 
-  - 2002年 [TVB8頻道](../Page/TVB8.md "wikilink") 國語金曲榜 《最受歡迎女新人銅獎》
+  - 2002年 [TVB8](../Page/TVB8.md "wikilink")頻道 國語金曲榜 《最受歡迎女新人銅獎》
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")
-[Category:方皓玟音樂專輯](https://zh.wikipedia.org/wiki/Category:方皓玟音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink") [Category:方皓玟音樂專輯](https://zh.wikipedia.org/wiki/Category:方皓玟音樂專輯 "wikilink")

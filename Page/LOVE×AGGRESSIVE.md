@@ -2,7 +2,7 @@
 
 ## 故事
 
-藤大神要在情人節當天同時收到結月仔虎、音無玲緒、鷹羽涼、竹澄真櫻這4位肉食系少女的巧克力，並且約定讓要在[白色情人節做出回覆而她們也會在這一個月時間展開追求行動](../Page/白色情人節.md "wikilink")。
+藤大神要在情人節當天同時收到結月仔虎、音無玲緒、鷹羽涼、竹澄真櫻這4位肉食系少女的巧克力，並且約定讓要在[白色情人節](../Page/白色情人節.md "wikilink")做出回覆而她們也會在這一個月時間展開追求行動。
 
 ## 角色
 
@@ -25,8 +25,7 @@
     要的同學，暗戀要但由於內向消極而一直沒有結果。
   - 加賀巳稀（聲優：手塚りょうこ）
     要的同學，恵那的青梅竹馬。
-  - 兎束美美（兎束
-    みみ，聲優：[桃井いちご](https://zh.wikipedia.org/wiki/桃井いちご "wikilink")）
+  - 兎束美美（兎束 みみ，聲優：[桃井いちご](https://zh.wikipedia.org/wiki/桃井いちご "wikilink")）
     從國中開始就擔任要的班級老師。
 
 ## 主題曲
@@ -43,14 +42,7 @@
   - [PC版官方網站](http://s-mi-le.com/loveressive/)SMILE
   - [App版官方網站](http://moeapp.net/special/loveressive.html)萌えAPP
 
-[Category:2013年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2013年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
+[Category:2013年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2013年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
 
 1.
 2.

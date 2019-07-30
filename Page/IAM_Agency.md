@@ -1,5 +1,4 @@
-**IAM
-Agency**（，）是[日本的](../Page/日本.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，主要經營[聲優事業](../Page/聲優.md "wikilink")。
+**IAM Agency**（，）是[日本](../Page/日本.md "wikilink")的[經紀公司](../Page/經紀公司.md "wikilink")，主要經營[聲優](../Page/聲優.md "wikilink")事業。
 
 ## 簡介
 
@@ -85,9 +84,7 @@ Agency**（，）是[日本的](../Page/日本.md "wikilink")[經紀公司](../P
 ## 外部連結
 
   -
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink")
-[Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink")
+[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink") [Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink")
 
 1.
 2.

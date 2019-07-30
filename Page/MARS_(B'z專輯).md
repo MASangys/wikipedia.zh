@@ -1,8 +1,4 @@
-《**MARS**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z於](../Page/B'z.md "wikilink")[1991年](../Page/1991年.md "wikilink")[5月29日由](../Page/5月29日.md "wikilink")[BMG
-VICTOR發行的第](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")3張迷你專輯。本專輯在BMG
-ROOMS（現：[VERMILLION
-RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")）成立後，發售權留在了BMG
-ROOMS。
+《**MARS**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")於[1991年](../Page/1991年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")由[BMG VICTOR發行的第](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")3張迷你專輯。本專輯在BMG ROOMS（現：[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")）成立後，發售權留在了BMG ROOMS。
 
 ## 簡介
 
@@ -35,6 +31,4 @@ ROOMS。
 
   - [1991年的音樂](https://ja.wikipedia.org/wiki/1991%E5%B9%B4%E3%81%AE%E9%9F%B3%E6%A5%BD)
 
-[Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink")
-[Category:1991年音樂專輯](https://zh.wikipedia.org/wiki/Category:1991年音樂專輯 "wikilink")
-[Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
+[Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink") [Category:1991年音樂專輯](https://zh.wikipedia.org/wiki/Category:1991年音樂專輯 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")

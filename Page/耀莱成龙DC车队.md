@@ -1,6 +1,4 @@
-**耀莱成龙DC车队**（，前身为**DC车队**，DC
-Racing）是一支2015年成立的中国赛车队，目前参加[世界耐力錦標賽](../Page/世界耐力錦標賽.md "wikilink")，两项赛事。车队由美籍华人车手、两届亚洲勒芒赛事冠军[程飞与香港著名演员](https://zh.wikipedia.org/wiki/程飞 "wikilink")[成龙拥有](https://zh.wikipedia.org/wiki/成龙 "wikilink")，车队拥有两辆赛车，37号由程飞、Alex
-Brundle和Tristan Gommendy驾驶；38号由董荷斌、Thomas Laurent和Oliver Jarvis驾驶。
+**耀莱成龙DC车队**（，前身为**DC车队**，DC Racing）是一支2015年成立的中国赛车队，目前参加[世界耐力錦標賽](../Page/世界耐力錦標賽.md "wikilink")，两项赛事。车队由美籍华人车手、两届亚洲勒芒赛事冠军[程飞与香港著名演员](https://zh.wikipedia.org/wiki/程飞 "wikilink")[成龙拥有](https://zh.wikipedia.org/wiki/成龙 "wikilink")，车队拥有两辆赛车，37号由程飞、Alex Brundle和Tristan Gommendy驾驶；38号由董荷斌、Thomas Laurent和Oliver Jarvis驾驶。
 
 ## 车队成绩
 
@@ -128,9 +126,4 @@ Brundle和Tristan Gommendy驾驶；38号由董荷斌、Thomas Laurent和Oliver J
 
   -
   -
-[Category:2015年建立的體育俱樂部](https://zh.wikipedia.org/wiki/Category:2015年建立的體育俱樂部 "wikilink")
-[Category:2015年中國建立](https://zh.wikipedia.org/wiki/Category:2015年中國建立 "wikilink")
-[Category:中国赛车队](https://zh.wikipedia.org/wiki/Category:中国赛车队 "wikilink")
-[Category:勒芒24小时耐力赛车队](https://zh.wikipedia.org/wiki/Category:勒芒24小时耐力赛车队 "wikilink")
-[Category:成龍](https://zh.wikipedia.org/wiki/Category:成龍 "wikilink")
-[Category:武汉体育](https://zh.wikipedia.org/wiki/Category:武汉体育 "wikilink")
+[Category:2015年建立的體育俱樂部](https://zh.wikipedia.org/wiki/Category:2015年建立的體育俱樂部 "wikilink") [Category:2015年中國建立](https://zh.wikipedia.org/wiki/Category:2015年中國建立 "wikilink") [Category:中国赛车队](https://zh.wikipedia.org/wiki/Category:中国赛车队 "wikilink") [Category:勒芒24小时耐力赛车队](https://zh.wikipedia.org/wiki/Category:勒芒24小时耐力赛车队 "wikilink") [Category:成龍](https://zh.wikipedia.org/wiki/Category:成龍 "wikilink") [Category:武汉体育](https://zh.wikipedia.org/wiki/Category:武汉体育 "wikilink")

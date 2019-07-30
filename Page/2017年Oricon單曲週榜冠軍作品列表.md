@@ -1,4 +1,4 @@
-**2017年Oricon單曲週榜冠軍作品列表**列出2017年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+**2017年Oricon單曲週榜冠軍作品列表**列出2017年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 冠軍單曲列表
 
@@ -387,6 +387,4 @@
 
 ## 參考資料
 
-[Category:2017年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
-[Category:2017年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2017年音樂排行榜 "wikilink")
+[Category:2017年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink") [Category:2017年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2017年音樂排行榜 "wikilink")

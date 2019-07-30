@@ -1,33 +1,18 @@
-**Nowhere Boys**是一支香港樂隊，於2015年成立，現為音樂份子(Frenzi Music)旗下樂隊。樂隊成員包括主音Van
-Chan、鼓手Nate Wong、 吉他手Kenneth Angus、 鍵琴手／小提琴手Fisher Kan(漁佬)和低音吉他手Hansun
-Chan。樂隊將他們的音樂稱為Cinematic Rock (電影式搖滾)。Nowhere Boys大部份的歌曲都啟發自電影。
+**Nowhere Boys**是一支香港樂隊，於2015年成立，現為音樂份子(Frenzi Music)旗下樂隊。樂隊成員包括主音Van Chan、鼓手Nate Wong、 吉他手Kenneth Angus、 鍵琴手／小提琴手Fisher Kan(漁佬)和低音吉他手Hansun Chan。樂隊將他們的音樂稱為Cinematic Rock (電影式搖滾)。Nowhere Boys大部份的歌曲都啟發自電影。
 
 ## 簡介
 
 成員在樂隊成立前各有背景。Van本身是建築師。Nate畢業於美國波士頓[栢克理音樂學院](../Page/伯克利音樂學院.md "wikilink")，是全職鼓手。Kenneth是維修結他的。Fisher及Hansun則教琴/吉他。
 
-2014年主音Van於中環Backstage Live Restaurant的一個電影音樂活動認識鼓手Nate，jam
-歌後決定組織樂隊，Van便在認識的人裏面尋找適合的樂手。2015年7月Nowhere
-Boys自資推出同名迷你專輯《Nowhere
-Boys》。由於資金有限，專輯全在成員家中錄音。印發的1,000張專輯在三個月內售罄\[1\]。Nowhere
-Boys然後正式簽約予馮穎琪與謝國維的音樂份子 \[2\]。
+2014年主音Van於中環Backstage Live Restaurant的一個電影音樂活動認識鼓手Nate，jam 歌後決定組織樂隊，Van便在認識的人裏面尋找適合的樂手。2015年7月Nowhere Boys自資推出同名迷你專輯《Nowhere Boys》。由於資金有限，專輯全在成員家中錄音。印發的1,000張專輯在三個月內售罄\[1\]。Nowhere Boys然後正式簽約予馮穎琪與謝國維的音樂份子 \[2\]。
 
-2016年2月Nowhere
-Boys成功經[馮穎琪與](../Page/馮穎琪.md "wikilink")[林一峰創立](https://zh.wikipedia.org/wiki/林一峰 "wikilink")「音樂蜂」眾籌平台籌得10萬元，推出專輯《Welcome
-To Our Hyperreality》，當中《亂世超人》、《逃出阿卡拉》及《麥克折射缐》為派台作品。
+2016年2月Nowhere Boys成功經[馮穎琪](../Page/馮穎琪.md "wikilink")與[林一峰創立](https://zh.wikipedia.org/wiki/林一峰 "wikilink")「音樂蜂」眾籌平台籌得10萬元，推出專輯《Welcome To Our Hyperreality》，當中《亂世超人》、《逃出阿卡拉》及《麥克折射缐》為派台作品。
 
-2016年8月Nowhere
-Boys與演員游學修合作，創作了單曲《普通華》。獲著名填詞人[黃偉文在facebook推介](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")。同月為
-E-Sports Festival 2016創作其主題曲《Sound of Battle》。
+2016年8月Nowhere Boys與演員游學修合作，創作了單曲《普通華》。獲著名填詞人[黃偉文在facebook推介](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")。同月為 E-Sports Festival 2016創作其主題曲《Sound of Battle》。
 
 ## 名稱
 
-Nowhere
-Boys名字來自關於[約翰藍儂成長的電影](https://zh.wikipedia.org/wiki/約翰·藍儂 "wikilink")“[Nowhere
-Boy](../Page/約翰連儂：不羈前傳.md "wikilink")”，當中有一幕提到他曾被學校老師潑冷水，對他說“You're
-going nowhere.”，但他的回應竟是“Is nowhere full of geniuses,
-sir?”。樂隊成員都是[披頭四樂團超級粉絲](https://zh.wikipedia.org/wiki/披頭四樂團 "wikilink")，仰慕約翰藍儂的率性，也想到達“full
-of geniuses”的音樂國度\[3\]。
+Nowhere Boys名字來自關於[約翰藍儂成長的電影](https://zh.wikipedia.org/wiki/約翰·藍儂 "wikilink")“[Nowhere Boy](../Page/約翰連儂：不羈前傳.md "wikilink")”，當中有一幕提到他曾被學校老師潑冷水，對他說“You're going nowhere.”，但他的回應竟是“Is nowhere full of geniuses, sir?”。樂隊成員都是[披頭四樂團超級粉絲](https://zh.wikipedia.org/wiki/披頭四樂團 "wikilink")，仰慕約翰藍儂的率性，也想到達“full of geniuses”的音樂國度\[3\]。
 
 ## 音樂作品
 
@@ -135,6 +120,7 @@ of geniuses”的音樂國度\[3\]。
 | **2019年**                                                                                           |
 |                                                                                                     |
 |                                                                                                     |
+|                                                                                                     |
 
 | **各台冠軍歌總數** |
 | ----------- |
@@ -146,9 +132,7 @@ of geniuses”的音樂國度\[3\]。
 
 ## 参考资料
 
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
-[Category:香港音乐团体](https://zh.wikipedia.org/wiki/Category:香港音乐团体 "wikilink")
+[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink") [Category:香港音乐团体](https://zh.wikipedia.org/wiki/Category:香港音乐团体 "wikilink")
 
 1.  <http://yp.scmp.com/entertainment/music/article/103059/nowhere-boys-meet-hk%E2%80%99s-most-unique-live-band>
 2.  <https://www.esquirehk.com/lifestyle/entertainment/professional-music-critic-nowhere-boys>

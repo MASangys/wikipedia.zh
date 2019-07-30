@@ -1,10 +1,8 @@
-**《不會停止的Jingle
-Bell》**（）是[Aqours的单曲](../Page/Aqours.md "wikilink")，于2016年11月23日由[Lantis发行](../Page/Lantis.md "wikilink")\[1\]。
+**《不會停止的Jingle Bell》**（）是[Aqours](../Page/Aqours.md "wikilink")的单曲，于2016年11月23日由[Lantis](../Page/Lantis.md "wikilink")发行\[1\]。
 
 ## 概况
 
-[手机游戏](../Page/手机游戏.md "wikilink")《[LoveLive\!
-学园偶像祭](https://zh.wikipedia.org/wiki/LoveLive!_学园偶像祭 "wikilink")》联动单曲，也是Aqours第一首手游联动单曲，于2016年10月31日在日服游戏中先行配信\[2\]。单曲推出了真人版电视[广告](https://zh.wikipedia.org/wiki/广告 "wikilink")（共9种），这也是Aqours首个真人电视广告。
+[手机游戏](../Page/手机游戏.md "wikilink")《[LoveLive\! 学园偶像祭](https://zh.wikipedia.org/wiki/LoveLive!_学园偶像祭 "wikilink")》联动单曲，也是Aqours第一首手游联动单曲，于2016年10月31日在日服游戏中先行配信\[2\]。单曲推出了真人版电视[广告](https://zh.wikipedia.org/wiki/广告 "wikilink")（共9种），这也是Aqours首个真人电视广告。
 
 初回限定版附赠Aqours圣诞节主题人物卡片一张（共9种）以及2016年12月27日在[日本](../Page/日本.md "wikilink")[东京](../Page/东京.md "wikilink")举行的小型演唱会的抽选券\[3\]\[4\]；此外在特定店铺内购买CD还可以获得限定特典，不同店铺对应不同种类特典\[5\]。
 
@@ -49,10 +47,7 @@ Bell》**（）是[Aqours的单曲](../Page/Aqours.md "wikilink")，于2016年11
       -
       -
       -
-[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink")
-[Category:LoveLive\!音樂](https://zh.wikipedia.org/wiki/Category:LoveLive!音樂 "wikilink")
-[Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink")
-[Category:電子遊戲音樂作品](https://zh.wikipedia.org/wiki/Category:電子遊戲音樂作品 "wikilink")
+[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink") [Category:LoveLive\!音樂](https://zh.wikipedia.org/wiki/Category:LoveLive!音樂 "wikilink") [Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink") [Category:電子遊戲音樂作品](https://zh.wikipedia.org/wiki/Category:電子遊戲音樂作品 "wikilink")
 
 1.
 

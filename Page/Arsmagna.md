@@ -1,5 +1,4 @@
-**アルスマグナ**(ARSMAGNA)是活躍在[niconico動畫上的](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")[Cosplay](../Page/Cosplay.md "wikilink")
-2.5次元5人舞蹈團體，由九瓏ノ主學園的學生4人、老師1人、與玩偶一隻所組成。
+**アルスマグナ**(ARSMAGNA)是活躍在[niconico動畫上的](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")[Cosplay](../Page/Cosplay.md "wikilink") 2.5次元5人舞蹈團體，由九瓏ノ主學園的學生4人、老師1人、與玩偶一隻所組成。
 
 於2011年8月26日組成，2015年2月18日於[環球音樂日本正式出道](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")。
 
@@ -623,27 +622,20 @@ Vol.3 UPBH-1459</small></p></td>
 
 ### 寫真集
 
-  - 2015/04/30 アルスマグナ 1stフォトブック -Shot of chronos- ／
-    [KADOKAWA](../Page/KADOKAWA.md "wikilink")/エンターブレイン
+  - 2015/04/30 アルスマグナ 1stフォトブック -Shot of chronos- ／ [KADOKAWA](../Page/KADOKAWA.md "wikilink")/エンターブレイン
   - 2015/12/30 フォト&スコアブック アルスマグナ/ピアノ・コレクション ／ ドレミ楽譜出版社
-  - 2017/02/24 アルス ドタバタ密着Memories ／
-    [KADOKAWA](../Page/KADOKAWA.md "wikilink")/エンターブレイン
-  - 2018/02/16 ARSMAGUNA×JUNON MEMORIAL PHOTOBOOK ARSMAGNA for the
-    MATE\! ／ 主婦と生活社
+  - 2017/02/24 アルス ドタバタ密着Memories ／ [KADOKAWA](../Page/KADOKAWA.md "wikilink")/エンターブレイン
+  - 2018/02/16 ARSMAGUNA×JUNON MEMORIAL PHOTOBOOK ARSMAGNA for the MATE\! ／ 主婦と生活社
 
 ### 漫畫
 
-  - 2016/02/29 私立九瓏ノ主学園アルスマグナ活動日誌 (B's-LOG COMICS) ／
-    [KADOKAWA](../Page/KADOKAWA.md "wikilink")/エンターブレイン
-  - 2016/06/01 アルスマグナ アンソロジー (B's-LOG COMICS) ／
-    [KADOKAWA](../Page/KADOKAWA.md "wikilink")/エンターブレイン
-  - 2017/05/01 私立九瓏ノ主学園 アルスマグナ 4コマ日記 (B's-LOG COMICS) ／
-    [KADOKAWA](../Page/KADOKAWA.md "wikilink")
+  - 2016/02/29 私立九瓏ノ主学園アルスマグナ活動日誌 (B's-LOG COMICS) ／ [KADOKAWA](../Page/KADOKAWA.md "wikilink")/エンターブレイン
+  - 2016/06/01 アルスマグナ アンソロジー (B's-LOG COMICS) ／ [KADOKAWA](../Page/KADOKAWA.md "wikilink")/エンターブレイン
+  - 2017/05/01 私立九瓏ノ主学園 アルスマグナ 4コマ日記 (B's-LOG COMICS) ／ [KADOKAWA](../Page/KADOKAWA.md "wikilink")
 
 ### 小說
 
-  - 2017/03/15 アルスマグナ The Beginning \~コンスタンティンを捜せ\!\~ (ビーズログ文庫アリス) ／
-    [KADOKAWA](../Page/KADOKAWA.md "wikilink")
+  - 2017/03/15 アルスマグナ The Beginning \~コンスタンティンを捜せ\!\~ (ビーズログ文庫アリス) ／ [KADOKAWA](../Page/KADOKAWA.md "wikilink")
 
 ### 設定資料集
 
@@ -661,10 +653,7 @@ Vol.3 UPBH-1459</small></p></td>
   - [アルスマグナ 官方推特](https://twitter.com/_arsmagna_)(日文)
   - [クロノス学園生徒会 官方推特](https://twitter.com/chronos_sc)(日文)
   - [アルスマグナ 官方NICO頻道](http://www.nicovideo.jp/user/27745337)(日文)
-  - [アルスマグナ
-    官方Youtube頻道](https://www.youtube.com/user/arsmagnaofficeial)(日文)
+  - [アルスマグナ 官方Youtube頻道](https://www.youtube.com/user/arsmagnaofficeial)(日文)
   - [アルスマグナ 官方LINE部落格](http://lineblog.me/_arsmagna_/)(日文)
 
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
+[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink") [Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")

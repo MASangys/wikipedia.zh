@@ -1,5 +1,4 @@
-**華碩ZenFone 4 (2014年)**（型號：**華碩ZenFone 4 A400CG**、**華碩ZenFone 4
-A450CG**）是[華碩生產的](../Page/華碩.md "wikilink")[華碩ZenFone系列直立式](../Page/華碩ZenFone系列.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，2014年5月30日發布。
+**華碩ZenFone 4 (2014年)**（型號：**華碩ZenFone 4 A400CG**、**華碩ZenFone 4 A450CG**）是[華碩](../Page/華碩.md "wikilink")生產的[華碩ZenFone系列](../Page/華碩ZenFone系列.md "wikilink")直立式[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，2014年5月30日發布。
 
 ## 規格
 
@@ -44,25 +43,16 @@ A450CG**）是[華碩生產的](../Page/華碩.md "wikilink")[華碩ZenFone系�
 
   - [華碩ZenFone 4 A450CG全球](https://www.asus.com/Phone/ZenFone-A450CG/)
 
-  - [華碩ZenFone 4
-    A400CG中國大陸](https://www.asus.com.cn/Phone/ZenFone-A400CG/)
+  - [華碩ZenFone 4 A400CG中國大陸](https://www.asus.com.cn/Phone/ZenFone-A400CG/)
 
-  - [華碩ZenFone 4
-    A450CG中國大陸](https://www.asus.com.cn/Phone/ZenFone-A450CG/)
+  - [華碩ZenFone 4 A450CG中國大陸](https://www.asus.com.cn/Phone/ZenFone-A450CG/)
 
-  - [華碩ZenFone 4
-    A500CG台灣](https://www.asus.com/tw/Phone/ZenFone-A400CG/)
+  - [華碩ZenFone 4 A500CG台灣](https://www.asus.com/tw/Phone/ZenFone-A400CG/)
 
-  - [華碩ZenFone 4
-    A450CG台灣](https://www.asus.com/tw/Phone/ZenFone-A450CG/)
+  - [華碩ZenFone 4 A450CG台灣](https://www.asus.com/tw/Phone/ZenFone-A450CG/)
 
-  - [華碩ZenFone 4
-    A500CG香港](https://www.asus.com/hk/Phone/ZenFone-A400CG/)
+  - [華碩ZenFone 4 A500CG香港](https://www.asus.com/hk/Phone/ZenFone-A400CG/)
 
-  - [華碩ZenFone 4
-    A450CG香港](https://www.asus.com/hk/Phone/ZenFone-A450CG/)
+  - [華碩ZenFone 4 A450CG香港](https://www.asus.com/hk/Phone/ZenFone-A450CG/)
 
-[Category:華碩手機](https://zh.wikipedia.org/wiki/Category:華碩手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:2014年面世的手機](https://zh.wikipedia.org/wiki/Category:2014年面世的手機 "wikilink")
+[Category:華碩手機](https://zh.wikipedia.org/wiki/Category:華碩手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:2014年面世的手機](https://zh.wikipedia.org/wiki/Category:2014年面世的手機 "wikilink")

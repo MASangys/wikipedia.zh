@@ -16,14 +16,11 @@
 
 ## LGBT权利组织
 
-在毛里求斯，LGBT社区有四个组织：Collectif Arc en Ciel，Young Queer Alliance，Association
-VISA G和Pils。\[6\]
+在毛里求斯，LGBT社区有四个组织：Collectif Arc en Ciel，Young Queer Alliance，Association VISA G和Pils。\[6\]
 
-Collectif Arc en
-Ciel（“彩虹集体”）成立于2005年，是毛里求斯LGBT社区的先驱和主要组织。该组织在毛里求斯组织了第一次同志骄傲游行，并在之后的十年一直组织类似活动，在2016年的活动上聚集了1200多名与会者。该组织通过多次活动，打击基于[性取向的同性恋恐惧和歧视](../Page/性取向.md "wikilink")，并为年轻的LGBTQI群体提供支持。\[7\]
+Collectif Arc en Ciel（“彩虹集体”）成立于2005年，是毛里求斯LGBT社区的先驱和主要组织。该组织在毛里求斯组织了第一次同志骄傲游行，并在之后的十年一直组织类似活动，在2016年的活动上聚集了1200多名与会者。该组织通过多次活动，打击基于[性取向](../Page/性取向.md "wikilink")的同性恋恐惧和歧视，并为年轻的LGBTQI群体提供支持。\[7\]
 
-Young Queer
-Alliance（青年酷儿联盟）成立于2014年9月1日，是毛里求斯年轻LGBTQI群体的组织。\[8\]青年酷儿联盟负责宣传性取向相关知识并且打击基于[性取向的同性恋恐惧和歧视](../Page/性取向.md "wikilink")。\[9\]
+Young Queer Alliance（青年酷儿联盟）成立于2014年9月1日，是毛里求斯年轻LGBTQI群体的组织。\[8\]青年酷儿联盟负责宣传性取向相关知识并且打击基于[性取向](../Page/性取向.md "wikilink")的同性恋恐惧和歧视。\[9\]
 
 Pils成立于1996年，是全国[艾滋病中心](https://zh.wikipedia.org/wiki/艾滋病 "wikilink")，也是向人群宣传教育预防艾滋病相关知识的地方。\[10\]
 
@@ -63,8 +60,7 @@ Moments.mu成立于2014年，是毛里求斯第一家为LGBT社群服务的旅�
   - [毛里求斯同性恋新闻与报道](http://archive.globalgayz.com/africa/mauritius/gay-mauritius-news-and-reports-2008/)（*GlobalGayz*）
   - [毛里求斯LGBT](http://www.lgbt.mu/)
 
-[Category:非洲LGBT權益](https://zh.wikipedia.org/wiki/Category:非洲LGBT權益 "wikilink")
-[Category:模里西斯政治](https://zh.wikipedia.org/wiki/Category:模里西斯政治 "wikilink")
+[Category:非洲LGBT權益](https://zh.wikipedia.org/wiki/Category:非洲LGBT權益 "wikilink") [Category:模里西斯政治](https://zh.wikipedia.org/wiki/Category:模里西斯政治 "wikilink")
 
 1.
 

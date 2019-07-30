@@ -1,6 +1,6 @@
 **福克D-VII戰鬥機**是福克飛機公司繼[福克Dr.I戰鬥機後又一作為](https://zh.wikipedia.org/wiki/福克Dr.I戰鬥機 "wikilink")[第一次世界大戰時期](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")，德意志帝國空軍最後的主力戰鬥機。
 
-福克公司在[福克E單翼戰鬥機後所研發的戰鬥機皆不順利](../Page/福克E單翼戰鬥機.md "wikilink")，以至主力戰鬥機的位置被讓給信天翁公司的[信天翁D戰鬥機](../Page/信天翁D戰鬥機.md "wikilink")，直至福克Dr.I戰鬥機後才重奪聲威，但到了1918年就連福克Dr.I戰鬥機都開始力不從心，而在此時德國空軍舉行「新型戰鬥機比賽」以求得到可以重奪西線制空權的新式戰鬥機，福克公司派出以萊茵福．普拉茨為首的設計團隊所設計的福克V-11戰鬥機參加並讓[紅男爵里希特霍芬於](https://zh.wikipedia.org/wiki/曼弗雷德·馮·里希特霍芬 "wikilink")1月26日和27日試飛，之後他提了寶貴的意見，福克公司以此作改良而得到德國空軍的300架訂單，此時福克V-11戰鬥機被改名為「福克D-VII戰鬥機」。
+福克公司在[福克E單翼戰鬥機](../Page/福克E單翼戰鬥機.md "wikilink")後所研發的戰鬥機皆不順利，以至主力戰鬥機的位置被讓給信天翁公司的[信天翁D戰鬥機](../Page/信天翁D戰鬥機.md "wikilink")，直至福克Dr.I戰鬥機後才重奪聲威，但到了1918年就連福克Dr.I戰鬥機都開始力不從心，而在此時德國空軍舉行「新型戰鬥機比賽」以求得到可以重奪西線制空權的新式戰鬥機，福克公司派出以萊茵福．普拉茨為首的設計團隊所設計的福克V-11戰鬥機參加並讓[紅男爵里希特霍芬於](https://zh.wikipedia.org/wiki/曼弗雷德·馮·里希特霍芬 "wikilink")1月26日和27日試飛，之後他提了寶貴的意見，福克公司以此作改良而得到德國空軍的300架訂單，此時福克V-11戰鬥機被改名為「福克D-VII戰鬥機」。
 
 在第一次世界大戰期間除了福克公司，信天翁公司也有生產，但最終祇有775架交付部隊。
 
@@ -52,7 +52,7 @@
 
 實戰當時證實福克D-VII戰鬥機不單彎轉格鬥極佳而不會失速，而且爬升能力好並能飛得比敵機高，德軍飛行員可以先爬升以佔高度優勢再向敵機高速俯衝並開火把其擊落，另一戰術是偷偷地從敵機後下方接近再從其機底開火。
 
-對於初次遇上福克D-VII戰鬥機的[協約國飛行員來說皆被其方頭方腦的發動機罩所誤導而以為它是笨頭笨腦](../Page/協約國.md "wikilink")，但一旦與之交過手後則對其極佳的飛行性能所震驚為「一次大戰當中最佳戰鬥機之一」，甚至有人把「之一」都除掉，以至當同年11月11日，[德奧戰敗後簽訂的](../Page/同盟國_\(第一次世界大戰\).md "wikilink")[凡爾賽條約明文規定要把福克D](https://zh.wikipedia.org/wiki/凡爾賽條約 "wikilink")-VII戰鬥機全部交給戰勝國。
+對於初次遇上福克D-VII戰鬥機的[協約國](../Page/協約國.md "wikilink")飛行員來說皆被其方頭方腦的發動機罩所誤導而以為它是笨頭笨腦，但一旦與之交過手後則對其極佳的飛行性能所震驚為「一次大戰當中最佳戰鬥機之一」，甚至有人把「之一」都除掉，以至當同年11月11日，[德奧戰敗後簽訂的](../Page/同盟國_\(第一次世界大戰\).md "wikilink")[凡爾賽條約明文規定要把福克D](https://zh.wikipedia.org/wiki/凡爾賽條約 "wikilink")-VII戰鬥機全部交給戰勝國。
 
 ## 著名飛行員
 
@@ -92,8 +92,4 @@
 
   - 第一次世界大戰軍機裝備全史(1917-1918)，陶力著，吉林文化出版社，ISBN 978-7-5472-2954-5
 
-[Category:福克](https://zh.wikipedia.org/wiki/Category:福克 "wikilink")
-[Category:德國戰鬥機](https://zh.wikipedia.org/wiki/Category:德國戰鬥機 "wikilink")
-[Category:奧匈帝國戰鬥機](https://zh.wikipedia.org/wiki/Category:奧匈帝國戰鬥機 "wikilink")
-[Category:雙翼機](https://zh.wikipedia.org/wiki/Category:雙翼機 "wikilink")
-[Category:第一次世界大戰飛機](https://zh.wikipedia.org/wiki/Category:第一次世界大戰飛機 "wikilink")
+[Category:福克](https://zh.wikipedia.org/wiki/Category:福克 "wikilink") [Category:德國戰鬥機](https://zh.wikipedia.org/wiki/Category:德國戰鬥機 "wikilink") [Category:奧匈帝國戰鬥機](https://zh.wikipedia.org/wiki/Category:奧匈帝國戰鬥機 "wikilink") [Category:雙翼機](https://zh.wikipedia.org/wiki/Category:雙翼機 "wikilink") [Category:第一次世界大戰飛機](https://zh.wikipedia.org/wiki/Category:第一次世界大戰飛機 "wikilink")

@@ -1,5 +1,4 @@
-**Newbee电子竞技俱乐部**（**Newbee**）是一家中国[电子竞技俱乐部](../Page/电子竞技.md "wikilink")\[1\]，目前主要参加《[Dota2](../Page/Dota_2.md "wikilink")》赛事\[2\]。并曾获得2014年[Dota
-2国际邀请赛冠军](../Page/Dota_2国际邀请赛.md "wikilink")，并以500万美元的奖金金额，刷新了吉尼斯世界纪录“电子竞技赛的最高额奖金（团队）”的纪录称号。\[3\]
+**Newbee电子竞技俱乐部**（**Newbee**）是一家中国[电子竞技](../Page/电子竞技.md "wikilink")俱乐部\[1\]，目前主要参加《[Dota2](../Page/Dota_2.md "wikilink")》赛事\[2\]。并曾获得2014年[Dota 2国际邀请赛冠军](../Page/Dota_2国际邀请赛.md "wikilink")，并以500万美元的奖金金额，刷新了吉尼斯世界纪录“电子竞技赛的最高额奖金（团队）”的纪录称号。\[3\]
 
 ## 现役队员名单
 
@@ -61,9 +60,7 @@
 
 ## 参考
 
-[Category:2014年建立的體育俱樂部](https://zh.wikipedia.org/wiki/Category:2014年建立的體育俱樂部 "wikilink")
-[Category:Dota_2竞技团队](https://zh.wikipedia.org/wiki/Category:Dota_2竞技团队 "wikilink")
-[Category:中国大陆电子竞技团队](https://zh.wikipedia.org/wiki/Category:中国大陆电子竞技团队 "wikilink")
+[Category:2014年建立的體育俱樂部](https://zh.wikipedia.org/wiki/Category:2014年建立的體育俱樂部 "wikilink") [Category:Dota_2竞技团队](https://zh.wikipedia.org/wiki/Category:Dota_2竞技团队 "wikilink") [Category:中国大陆电子竞技团队](https://zh.wikipedia.org/wiki/Category:中国大陆电子竞技团队 "wikilink")
 
 1.
 2.

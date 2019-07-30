@@ -1,9 +1,9 @@
 <table>
-<caption><span style="font-size: 9pt"><strong><a href="../Page/S.H.E.md" title="wikilink">S.H.E得獎與提名列表</a></strong></span></caption>
+<caption><span style="font-size: 9pt"><strong><a href="../Page/S.H.E.md" title="wikilink">S.H.E</a>得獎與提名列表</strong></span></caption>
 <tbody>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/File:SHE2010.JPG" title="fig:SHE2010.JPG">SHE2010.JPG</a><br />
-2010年，出席香港<a href="../Page/荃灣廣場.md" title="wikilink">荃灣廣場唱片宣傳活動的S</a>.H.E<br />
+2010年，出席香港<a href="../Page/荃灣廣場.md" title="wikilink">荃灣廣場</a>唱片宣傳活動的S.H.E<br />
 左起為<a href="../Page/田馥甄.md" title="wikilink">Hebe</a>、<a href="../Page/陳嘉樺.md" title="wikilink">Ella</a>、<a href="../Page/任家萱.md" title="wikilink">Selina</a></p></td>
 </tr>
 <tr class="even">
@@ -66,7 +66,7 @@
 </tbody>
 </table>
 
-本條目為列舉[臺灣](../Page/臺灣.md "wikilink")[女子演唱團體](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink")[S.H.E在音樂](../Page/S.H.E.md "wikilink")、傳媒、媒體、票選以及其它各種演藝領域上的歷年得獎與提名列表專頁，本專頁記錄了S.H.E在各國家和地區所舉辦的頒獎活動中所獲得與提名的獎項\[1\]。
+本條目為列舉[臺灣](../Page/臺灣.md "wikilink")[女子演唱團體](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink")[S.H.E](../Page/S.H.E.md "wikilink")在音樂、傳媒、媒體、票選以及其它各種演藝領域上的歷年得獎與提名列表專頁，本專頁記錄了S.H.E在各國家和地區所舉辦的頒獎活動中所獲得與提名的獎項\[1\]。
 
 
 
@@ -79,69 +79,67 @@
 5.  [KKBOX音樂風雲榜](https://zh.wikipedia.org/wiki/#KKBOX音樂風雲榜 "wikilink")
 6.  [全球流行音樂金榜](https://zh.wikipedia.org/wiki/#全球流行音樂金榜 "wikilink")
 7.  [MTV亞洲大獎](https://zh.wikipedia.org/wiki/#MTV亞洲大獎 "wikilink")
-8.  [Music
-    Radio中國Top排行榜](https://zh.wikipedia.org/wiki/#Music_Radio中國Top排行榜 "wikilink")
+8.  [Music Radio中國Top排行榜](https://zh.wikipedia.org/wiki/#Music_Radio中國Top排行榜 "wikilink")
 9.  [中國歌曲排行榜](https://zh.wikipedia.org/wiki/#中國歌曲排行榜 "wikilink")
 10. [音樂風雲榜](https://zh.wikipedia.org/wiki/#音樂風雲榜 "wikilink")
 11. [全球華語歌曲排行榜](https://zh.wikipedia.org/wiki/#全球華語歌曲排行榜 "wikilink")
+12. [華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/#華語音樂傳媒大獎 "wikilink")
 
 |valign=top|
 
 1.
 
-    <li value=12>
+    <li value=13>
 
-    [華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/#華語音樂傳媒大獎 "wikilink")
+    [全球華語音樂榜中榜](https://zh.wikipedia.org/wiki/#全球華語音樂榜中榜 "wikilink")
 
-2.  [全球華語音樂榜中榜](https://zh.wikipedia.org/wiki/#全球華語音樂榜中榜 "wikilink")
+2.  [雪碧中國原創音樂流行榜](https://zh.wikipedia.org/wiki/#雪碧中國原創音樂流行榜 "wikilink")
 
-3.  [雪碧中國原創音樂流行榜](https://zh.wikipedia.org/wiki/#雪碧中國原創音樂流行榜 "wikilink")
+3.  [無線音樂盛典咪咕匯](https://zh.wikipedia.org/wiki/#無線音樂盛典咪咕匯 "wikilink")
 
-4.  [無線音樂盛典咪咕匯](https://zh.wikipedia.org/wiki/#無線音樂盛典咪咕匯 "wikilink")
+4.  [東南勁爆音樂榜](https://zh.wikipedia.org/wiki/#東南勁爆音樂榜 "wikilink")
 
-5.  [東南勁爆音樂榜](https://zh.wikipedia.org/wiki/#東南勁爆音樂榜 "wikilink")
+5.  [勁歌王金曲金榜](https://zh.wikipedia.org/wiki/#勁歌王金曲金榜 "wikilink")
 
-6.  [勁歌王金曲金榜](https://zh.wikipedia.org/wiki/#勁歌王金曲金榜 "wikilink")
+6.  [加拿大至HIT中文歌曲排行榜](https://zh.wikipedia.org/wiki/#加拿大至HIT中文歌曲排行榜 "wikilink")
 
-7.  [加拿大至HIT中文歌曲排行榜](https://zh.wikipedia.org/wiki/#加拿大至HIT中文歌曲排行榜 "wikilink")
+7.  [新城國語力頒獎禮](https://zh.wikipedia.org/wiki/#新城國語力頒獎禮 "wikilink")
 
-8.  [新城國語力頒獎禮](https://zh.wikipedia.org/wiki/#新城國語力頒獎禮 "wikilink")
+8.  [新城勁爆頒獎禮](https://zh.wikipedia.org/wiki/#新城勁爆頒獎禮 "wikilink")
 
-9.  [新城勁爆頒獎禮](https://zh.wikipedia.org/wiki/#新城勁爆頒獎禮 "wikilink")
+9.  [TVB8金曲榜頒獎典禮](https://zh.wikipedia.org/wiki/#TVB8金曲榜頒獎典禮 "wikilink")
 
-10. [TVB8金曲榜頒獎典禮](https://zh.wikipedia.org/wiki/#TVB8金曲榜頒獎典禮 "wikilink")
+10. [十大中文金曲](https://zh.wikipedia.org/wiki/#十大中文金曲 "wikilink")
 
-11. [十大中文金曲](https://zh.wikipedia.org/wiki/#十大中文金曲 "wikilink")
+11. [CASH金帆音樂獎](https://zh.wikipedia.org/wiki/#CASH金帆音樂獎 "wikilink")
+
+12. [SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/#SINA_Music樂壇民意指數頒獎禮 "wikilink")
 
 |valign=top|
 
 1.
 
-    <li value=23>
+    <li value=25>
 
-    [CASH金帆音樂獎](https://zh.wikipedia.org/wiki/#CASH金帆音樂獎 "wikilink")
+    [新加坡金曲獎](https://zh.wikipedia.org/wiki/#新加坡金曲獎 "wikilink")
 
-2.  [SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/#SINA_Music樂壇民意指數頒獎禮 "wikilink")
+2.  [G-music風雲榜白金音樂獎](https://zh.wikipedia.org/wiki/#G-music風雲榜白金音樂獎 "wikilink")
 
-3.  [新加坡金曲獎](https://zh.wikipedia.org/wiki/#新加坡金曲獎 "wikilink")
+3.  [MY Astro至尊流行榜頒獎典禮](https://zh.wikipedia.org/wiki/#MY_Astro至尊流行榜頒獎典禮 "wikilink")
 
-4.  [G-music風雲榜白金音樂獎](https://zh.wikipedia.org/wiki/#G-music風雲榜白金音樂獎 "wikilink")
+4.  [馬來西亞娛協獎頒獎典禮](https://zh.wikipedia.org/wiki/#馬來西亞娛協獎頒獎典禮 "wikilink")
 
-5.  [MY
-    Astro至尊流行榜頒獎典禮](https://zh.wikipedia.org/wiki/#MY_Astro至尊流行榜頒獎典禮 "wikilink")
+5.  [阿比鹿音樂獎](https://zh.wikipedia.org/wiki/#阿比鹿音樂獎 "wikilink")
 
-6.  [馬來西亞娛協獎頒獎典禮](https://zh.wikipedia.org/wiki/#馬來西亞娛協獎頒獎典禮 "wikilink")
+6.  [唱工委音樂獎](https://zh.wikipedia.org/wiki/#唱工委音樂獎 "wikilink")
 
-7.  [阿比鹿音樂獎](https://zh.wikipedia.org/wiki/#阿比鹿音樂獎 "wikilink")
+7.  [其他獎項／榜單紀錄](https://zh.wikipedia.org/wiki/#其他獎項／榜單紀錄 "wikilink")
 
-8.  [其他獎項／榜單紀錄](https://zh.wikipedia.org/wiki/#其他獎項／榜單紀錄 "wikilink")
+8.  [註釋](https://zh.wikipedia.org/wiki/#註釋 "wikilink")
 
-9.  [註釋](https://zh.wikipedia.org/wiki/#註釋 "wikilink")
+9.  [參考資料](https://zh.wikipedia.org/wiki/#參考資料 "wikilink")
 
-10. [參考資料](https://zh.wikipedia.org/wiki/#參考資料 "wikilink")
-
-11. [外部連結](https://zh.wikipedia.org/wiki/#外部連結 "wikilink")
+10. [外部連結](https://zh.wikipedia.org/wiki/#外部連結 "wikilink")
 
 |} __NOTOC__
 
@@ -151,7 +149,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 
 ## 金曲獎
 
-**[金曲獎](../Page/金曲獎.md "wikilink")**是[臺灣規模最大的年度音樂頒獎典禮](../Page/臺灣.md "wikilink")，也是[華人地區和](../Page/華人地區.md "wikilink")[亞洲兼具榮譽和影響力的音樂獎勵活動](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，首屆於1990年舉辦，而流行音樂金曲獎頒獎典禮是由[文化部影視及流行音樂產業局所主辦](https://zh.wikipedia.org/wiki/文化部影視及流行音樂產業局 "wikilink")。2007年《[第18屆金曲獎](https://zh.wikipedia.org/wiki/第18屆金曲獎 "wikilink")》增設了「票選最受歡迎（團體）歌手獎」，是以網路和簡訊的票選方式決定得獎者，與過去已往其它獎項以音樂評審團制度決定入圍者和得獎者截然不同。
+**[金曲獎](../Page/金曲獎.md "wikilink")**是[臺灣](../Page/臺灣.md "wikilink")規模最大的年度音樂頒獎典禮，也是[華人地區](../Page/華人地區.md "wikilink")和[亞洲兼具榮譽和影響力的音樂獎勵活動](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，首屆於1990年舉辦，而流行音樂金曲獎頒獎典禮是由[文化部影視及流行音樂產業局所主辦](https://zh.wikipedia.org/wiki/文化部影視及流行音樂產業局 "wikilink")。2007年《[第18屆金曲獎](https://zh.wikipedia.org/wiki/第18屆金曲獎 "wikilink")》增設了「票選最受歡迎（團體）歌手獎」，是以網路和簡訊的票選方式決定得獎者，與過去已往其它獎項以音樂評審團制度決定入圍者和得獎者截然不同。
 
 <table>
 <thead>
@@ -254,7 +252,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 
 ## IFPI香港唱片銷量大獎
 
-**[IFPI香港唱片銷量大獎](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎 "wikilink")**是由[國際唱片業協會（香港會）與](../Page/國際唱片業協會（香港會）.md "wikilink")[香港電台合辦](../Page/香港電台.md "wikilink")，[國際唱片業協會對香港本地的唱片銷量進行統計](../Page/國際唱片業協會.md "wikilink")，據官方所指，獲獎唱片的標準就是本年的銷售量。
+**[IFPI香港唱片銷量大獎](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎 "wikilink")**是由[國際唱片業協會（香港會）](../Page/國際唱片業協會（香港會）.md "wikilink")與[香港電台](../Page/香港電台.md "wikilink")合辦，[國際唱片業協會](../Page/國際唱片業協會.md "wikilink")對香港本地的唱片銷量進行統計，據官方所指，獲獎唱片的標準就是本年的銷售量。
 
 <table>
 <thead>
@@ -335,7 +333,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 
 ## HITO流行音樂獎
 
-**[HITO流行音樂獎](https://zh.wikipedia.org/wiki/HITO流行音樂獎 "wikilink")**，最初是由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[HitFM聯播網和](https://zh.wikipedia.org/wiki/HitFM聯播網 "wikilink")[亞洲六家電台共同主辦](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，相較於臺灣的[金曲獎音樂評審團制度](../Page/金曲獎.md "wikilink")，HITO流行音樂獎的各獎項是以「唱片銷售量」、「數位音樂下載」以及「歌曲播放率」三大要素作為評分標準，另外最受歡迎系列獎項是網路投票選出獎項得主，此獎主打的是大眾化、流行度高、名氣與人氣高的音樂頒獎典禮。2011年停辦一屆改辦[全球流行音樂金榜](https://zh.wikipedia.org/wiki/全球流行音樂金榜 "wikilink")，隔年2012年起再重新復辦Hito流行音樂獎。
+**[HITO流行音樂獎](https://zh.wikipedia.org/wiki/HITO流行音樂獎 "wikilink")**，最初是由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[HitFM聯播網和](https://zh.wikipedia.org/wiki/HitFM聯播網 "wikilink")[亞洲六家電台共同主辦](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，相較於臺灣的[金曲獎](../Page/金曲獎.md "wikilink")音樂評審團制度，HITO流行音樂獎的各獎項是以「唱片銷售量」、「數位音樂下載」以及「歌曲播放率」三大要素作為評分標準，另外最受歡迎系列獎項是網路投票選出獎項得主，此獎主打的是大眾化、流行度高、名氣與人氣高的音樂頒獎典禮。2011年停辦一屆改辦[全球流行音樂金榜](https://zh.wikipedia.org/wiki/全球流行音樂金榜 "wikilink")，隔年2012年起再重新復辦Hito流行音樂獎。
 
 <table>
 <thead>
@@ -528,7 +526,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 
 ## KKBOX音樂風雲榜
 
-**[KKBOX數位音樂風雲榜](https://zh.wikipedia.org/wiki/KKBOX數位音樂風雲榜 "wikilink")**是[亞洲數位音樂服務網站](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[KKBOX依據其會員於站內點播歌曲紀錄](../Page/KKBOX.md "wikilink")，進行統計而成的年度綜合排行榜，首屆開辦於2006年。
+**[KKBOX數位音樂風雲榜](https://zh.wikipedia.org/wiki/KKBOX數位音樂風雲榜 "wikilink")**是[亞洲數位音樂服務網站](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[KKBOX](../Page/KKBOX.md "wikilink")依據其會員於站內點播歌曲紀錄，進行統計而成的年度綜合排行榜，首屆開辦於2006年。
 
 <table>
 <thead>
@@ -602,8 +600,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 
 ## 全球流行音樂金榜
 
-**[全球流行音樂金榜](https://zh.wikipedia.org/wiki/全球流行音樂金榜 "wikilink")**，是由中國[中央人民廣播電臺音樂之聲和臺灣](https://zh.wikipedia.org/wiki/中央人民廣播電臺音樂之聲 "wikilink")[HitFM聯播網共同發起](https://zh.wikipedia.org/wiki/HitFM聯播網 "wikilink")
-，並集結全球十二大華語電台，共同創辦的一個的一個以臺灣為主體，覆蓋[兩岸三地和海外](../Page/兩岸三地.md "wikilink")[華人地區](../Page/華人地區.md "wikilink")，兼具指標性與權威性的的華語流行音樂排行榜頒獎典禮。首屆於2011年舉辦。
+**[全球流行音樂金榜](https://zh.wikipedia.org/wiki/全球流行音樂金榜 "wikilink")**，是由中國[中央人民廣播電臺音樂之聲和臺灣](https://zh.wikipedia.org/wiki/中央人民廣播電臺音樂之聲 "wikilink")[HitFM聯播網共同發起](https://zh.wikipedia.org/wiki/HitFM聯播網 "wikilink") ，並集結全球十二大華語電台，共同創辦的一個的一個以臺灣為主體，覆蓋[兩岸三地](../Page/兩岸三地.md "wikilink")和海外[華人地區](../Page/華人地區.md "wikilink")，兼具指標性與權威性的的華語流行音樂排行榜頒獎典禮。首屆於2011年舉辦。
 
 <table>
 <thead>
@@ -1170,9 +1167,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 
 ## 全球華語音樂榜中榜
 
-**[全球華語音樂榜中榜](https://zh.wikipedia.org/wiki/全球華語音樂榜中榜 "wikilink")**是於1994年由[Channel
-\[V](../Page/Channel_V.md "wikilink")\]創立，是針對華語音樂的年度評獎活動，評獎的範圍是當年度中有影響力的華語歌曲和歌手。2008年，
-2009 年沒有舉辦評獎活動。
+**[全球華語音樂榜中榜](https://zh.wikipedia.org/wiki/全球華語音樂榜中榜 "wikilink")**是於1994年由[Channel \[V](../Page/Channel_V.md "wikilink")\]創立，是針對華語音樂的年度評獎活動，評獎的範圍是當年度中有影響力的華語歌曲和歌手。2008年， 2009 年沒有舉辦評獎活動。
 
 <table>
 <thead>
@@ -1651,7 +1646,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 
 ## 新城國語力頒獎禮
 
-**[新城國語力頒獎禮](../Page/新城國語力頒獎禮.md "wikilink")**是由[香港](../Page/香港.md "wikilink")[新城電台主辦](../Page/新城電台.md "wikilink")，開始於2002年8月，是香港地區唯一一個專為國語歌曲而設立的頒獎典禮。
+**[新城國語力頒獎禮](../Page/新城國語力頒獎禮.md "wikilink")**是由[香港](../Page/香港.md "wikilink")[新城電台](../Page/新城電台.md "wikilink")主辦，開始於2002年8月，是香港地區唯一一個專為國語歌曲而設立的頒獎典禮。
 
 <table>
 <thead>
@@ -1809,7 +1804,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 
 ## 新城勁爆頒獎禮
 
-**[新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")**是香港[新城電台舉辦的香港流行歌曲頒獎禮](../Page/新城電台.md "wikilink")，是香港四個媒體主辦的音樂頒獎禮之一，其特色以獎項眾多著稱。
+**[新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")**是香港[新城電台](../Page/新城電台.md "wikilink")舉辦的香港流行歌曲頒獎禮，是香港四個媒體主辦的音樂頒獎禮之一，其特色以獎項眾多著稱。
 
 <table>
 <thead>
@@ -1922,20 +1917,20 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>年度金曲獎</p></td>
 <td><p>〈波斯貓〉</p></td>
 <td></td>
-<td><p>[109]</p></td>
+<td><p>[109][110]</p></td>
 </tr>
 <tr class="even">
 <td><p>金曲金獎</p></td>
 <td><p>〈波斯貓〉</p></td>
 <td></td>
-<td><p>[110]</p></td>
+<td><p>[111][112]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>最佳音樂組合</p></td>
 <td></td>
 <td></td>
-<td><p>金獎[111]</p></td>
+<td><p>金獎[113][114]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1943,13 +1938,13 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最佳組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>金獎[112]</p></td>
+<td><p>金獎[115]</p></td>
 </tr>
 <tr class="odd">
 <td><p>金曲獎</p></td>
 <td><p>〈不想長大〉</p></td>
 <td></td>
-<td><p>[113]</p></td>
+<td><p>[116]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1989,28 +1984,28 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>全國最受歡迎組合歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>銀獎[114]</p></td>
+<td><p>銀獎[117]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/第二十七屆十大中文金曲得獎名單.md" title="wikilink">2005年</a></strong></p></td>
 <td><p>全國最受歡迎組合歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>銅獎[115]</p></td>
+<td><p>銅獎[118]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/第二十八屆十大中文金曲得獎名單.md" title="wikilink">2006年</a></strong></p></td>
 <td><p>全國最受歡迎組合歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>銅獎[116]</p></td>
+<td><p>銅獎[119]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/第三十一屆十大中文金曲得獎名單.md" title="wikilink">2009年</a></strong></p></td>
 <td><p>全國最佳組合歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>[117]</p></td>
+<td><p>[120]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -2024,7 +2019,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 
 ## CASH金帆音樂獎
 
-**[CASH金帆音樂獎](https://zh.wikipedia.org/wiki/CASH金帆音樂獎 "wikilink")**，是由[香港作曲家及作詞家協會所舉辦](../Page/香港作曲家及作詞家協會.md "wikilink")，由2001年起舉辦，是為表揚於過去一年內在香港作首次商業發行或演出之優秀音樂作品及歌曲演繹， 獎項由業內音樂人提名及投票，得獎者必須為香港作曲家及作詞家協會成員。
+**[CASH金帆音樂獎](https://zh.wikipedia.org/wiki/CASH金帆音樂獎 "wikilink")**，是由[香港作曲家及作詞家協會](../Page/香港作曲家及作詞家協會.md "wikilink")所舉辦，由2001年起舉辦，是為表揚於過去一年內在香港作首次商業發行或演出之優秀音樂作品及歌曲演繹， 獎項由業內音樂人提名及投票，得獎者必須為香港作曲家及作詞家協會成員。
 
 <table>
 <thead>
@@ -2042,7 +2037,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>最佳組合或樂隊演繹</p></td>
 <td><p>〈中国话〉</p></td>
 <td></td>
-<td><p>[118]</p></td>
+<td><p>[121]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -2056,8 +2051,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 
 ## SINA Music樂壇民意指數頒獎禮
 
-**[SINA
-Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")**是由[香港](../Page/香港.md "wikilink")[新浪音樂所舉辦](../Page/新浪.md "wikilink")，為香港首個透過[互聯網投票產生的樂壇頒獎禮](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，自2006年起，於每年1月舉辦。
+**[SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")**是由[香港](../Page/香港.md "wikilink")[新浪](../Page/新浪.md "wikilink")音樂所舉辦，為香港首個透過[互聯網投票產生的樂壇頒獎禮](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，自2006年起，於每年1月舉辦。
 
 <table>
 <thead>
@@ -2071,18 +2065,18 @@ Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="../Page/2007年度SINA_Music樂壇民意指數頒獎禮得獎名單.md" title="wikilink">2007年</a></strong></p></td>
+<td><p><strong><a href="../Page/2006年度SINA_Music樂壇民意指數頒獎禮得獎名單.md" title="wikilink">2007年</a></strong></p></td>
 <td><p>我最喜愛全國組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>[119]</p></td>
+<td><p>[122]</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/2008年度SINA_Music樂壇民意指數頒獎禮得獎名單.md" title="wikilink">2008年</a></strong></p></td>
+<td><p><strong><a href="../Page/2007年度SINA_Music樂壇民意指數頒獎禮得獎名單.md" title="wikilink">2008年</a></strong></p></td>
 <td><p>我最喜愛組合獎（全國）</p></td>
 <td></td>
 <td></td>
-<td><p>[120]</p></td>
+<td><p>[123]</p></td>
 </tr>
 <tr class="odd">
 <td><p>我最喜愛至尊國語金曲</p></td>
@@ -2092,14 +2086,14 @@ Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/2010年度SINA_Music樂壇民意指數頒獎禮得獎名單.md" title="wikilink">2010年</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/2009年度SINA_Music樂壇民意指數頒獎禮得獎名單" title="wikilink">2010年</a></strong></p></td>
 <td><p>我最喜愛全國組合獎</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/2011年度SINA_Music樂壇民意指數頒獎禮得獎名單.md" title="wikilink">2011年</a></strong></p></td>
+<td><p><strong><a href="../Page/2010年度SINA_Music樂壇民意指數頒獎禮得獎名單.md" title="wikilink">2011年</a></strong></p></td>
 <td><p>我最喜愛全國組合獎</p></td>
 <td></td>
 <td></td>
@@ -2117,7 +2111,7 @@ Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇
 
 ## 新加坡金曲獎
 
-**[新加坡金曲獎](../Page/新加坡金曲獎.md "wikilink")**是由新傳媒電台和頂尖流行音樂電台[YES933所主辦](https://zh.wikipedia.org/wiki/YES933 "wikilink")，也是[新加坡唯一一個音樂頒奬典禮](../Page/新加坡.md "wikilink")，旨在推廣新加坡音樂事業以及奬勵海內外傑出音樂人。2006年第六屆因主辦全球華語歌曲排行榜頒獎典禮而停辦一年。
+**[新加坡金曲獎](../Page/新加坡金曲獎.md "wikilink")**，是由[新傳媒電台和頂尖流行音樂電台](https://zh.wikipedia.org/wiki/新傳媒電台 "wikilink")[YES933所主辦](https://zh.wikipedia.org/wiki/YES933 "wikilink")，也是[新加坡](../Page/新加坡.md "wikilink")唯一一個音樂頒奬典禮，旨在推廣新加坡音樂事業以及奬勵海內外傑出音樂人。2006年第六屆因主辦全球華語歌曲排行榜頒獎典禮而停辦一年。
 
 <table>
 <thead>
@@ -2135,13 +2129,13 @@ Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇
 <td><p>最佳新人</p></td>
 <td></td>
 <td></td>
-<td><p>銀獎[121]</p></td>
+<td><p>銀獎[124]</p></td>
 </tr>
 <tr class="even">
 <td><p>M1特別頒發 "活力四射新人獎"</p></td>
 <td></td>
 <td></td>
-<td><p>[122]</p></td>
+<td><p>[125]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2149,20 +2143,20 @@ Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇
 <td><p>最佳組合</p></td>
 <td><p>《美麗新世界》</p></td>
 <td></td>
-<td><p>[123]</p></td>
+<td><p>[126]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2004年</strong></p></td>
 <td><p>最受歡迎團體</p></td>
 <td></td>
 <td></td>
-<td><p>金獎[124]</p></td>
+<td><p>金獎[127]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Courts 我最喜愛的MV</p></td>
 <td><p>〈波絲貓〉</p></td>
 <td></td>
-<td><p>[125]</p></td>
+<td><p>[128]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2181,11 +2175,11 @@ Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>2007年</strong></p></td>
+<td><p><strong></strong></p></td>
 <td><p>最佳組合獎</p></td>
+<td><p>《Play》</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>[129]</p></td>
 </tr>
 <tr class="odd">
 <td><p>最受歡迎團體獎</p></td>
@@ -2227,7 +2221,7 @@ Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇
 <td><p>最受歡迎團體獎</p></td>
 <td></td>
 <td></td>
-<td><p>[126]</p></td>
+<td><p>[130]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Y.E.S933醉心龍虎榜年度十大金曲獎</p></td>
@@ -2248,7 +2242,7 @@ Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇
 <td><p>最佳組合獎</p></td>
 <td><p>《我的電台 FM S.H.E》</p></td>
 <td></td>
-<td><p>[127][128][129]</p></td>
+<td><p>[131][132][133]</p></td>
 </tr>
 <tr class="even">
 <td><p>海外傑出歌手獎（臺灣）</p></td>
@@ -2283,7 +2277,7 @@ Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇
 <td><p>最佳組合獎</p></td>
 <td><p>《SHERO》</p></td>
 <td></td>
-<td><p>[130]</p></td>
+<td><p>[134]</p></td>
 </tr>
 <tr class="odd">
 <td><p>最受歡迎團體獎</p></td>
@@ -2318,7 +2312,7 @@ Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇
 <td><p>最佳組合獎</p></td>
 <td><p>《<a href="../Page/花又開好了.md" title="wikilink">花又開好了</a>》</p></td>
 <td></td>
-<td><p>[131]</p></td>
+<td><p>[135]</p></td>
 </tr>
 <tr class="even">
 <td><p>Y.E.S933醉心龍虎榜年度十大金曲</p></td>
@@ -2339,7 +2333,7 @@ Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇
 
 ## G-music風雲榜白金音樂獎
 
-**G-music風雲榜白金音樂獎**，是透過[玫瑰大眾唱片的實體唱片銷售量和消費者民意票選而統計選出的獎項](../Page/玫瑰大眾唱片.md "wikilink")。
+**G-music風雲榜白金音樂獎**，是透過[玫瑰大眾唱片](../Page/玫瑰大眾唱片.md "wikilink")的實體唱片銷售量和消費者民意票選而統計選出的獎項。
 
 <table>
 <thead>
@@ -2357,7 +2351,7 @@ Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇
 <td><p>年度白金團體歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>[132]</p></td>
+<td><p>[136]</p></td>
 </tr>
 <tr class="even">
 <td><p>年度十大金碟</p></td>
@@ -2392,9 +2386,7 @@ Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇
 
 ## MY Astro至尊流行榜頒獎典禮
 
-**[MY
-Astro至尊流行榜頒獎典禮](https://zh.wikipedia.org/wiki/MY_Astro至尊流行榜頒獎典禮 "wikilink")**是[馬來西亞華人年度的大型中文音樂頒獎典禮](https://zh.wikipedia.org/wiki/馬來西亞華人 "wikilink")，是由MY
-FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")2009年創辦。
+**[MY Astro至尊流行榜頒獎典禮](https://zh.wikipedia.org/wiki/MY_Astro至尊流行榜頒獎典禮 "wikilink")**是[馬來西亞華人年度的大型中文音樂頒獎典禮](https://zh.wikipedia.org/wiki/馬來西亞華人 "wikilink")，是由MY FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")2009年創辦。
 
 <table>
 <thead>
@@ -2476,7 +2468,39 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>年度流行單曲</p></td>
 <td><p>〈<a href="../Page/十七_(S.H.E歌曲).md" title="wikilink">十七</a>〉</p></td>
 <td></td>
-<td><p>[133][134]</p></td>
+<td><p>[137][138]</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 唱工委音樂獎
+
+**[唱工委音樂獎](../Page/唱工委音樂獎.md "wikilink")**，是由[中國音像與數字出版協會唱片工作委員會主辦的一個音樂頒獎活動](https://zh.wikipedia.org/wiki/中國音像與數字出版協會 "wikilink")，首屆唱工委音樂獎頒獎禮於2017年7月於中國北京市[M空間舉辦](../Page/凯迪拉克中心.md "wikilink")。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>獎項</p></th>
+<th><p>作品</p></th>
+<th><p>結果</p></th>
+<th><p>附註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>2019年</strong></p></td>
+<td><p>年度組合／團體</p></td>
+<td><p>〈<a href="../Page/十七_(S.H.E歌曲).md" title="wikilink">十七</a>〉</p></td>
+<td></td>
+<td><p>[139]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -2508,7 +2532,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>HITO百大单曲</p></td>
 <td><p>〈戀人未滿〉</p></td>
 <td></td>
-<td><p>第三位[135]</p></td>
+<td><p>第三位[140]</p></td>
 </tr>
 <tr class="even">
 <td><p>大學生心目中年度風雲人物</p></td>
@@ -2528,14 +2552,14 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 </tr>
 <tr class="even">
 <td><p>馬來西亞金曲紅人頒獎禮</p></td>
-<td><p>最受歡迎演唱團體</p></td>
+<td><p>最受歡迎演唱團體獎</p></td>
 <td></td>
 <td></td>
 <td><p>金獎</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>十大紅人金曲獎</p></td>
+<td><p>年度十大紅人金曲獎</p></td>
 <td><p>〈美麗新世界〉</p></td>
 <td></td>
 <td></td>
@@ -2552,25 +2576,25 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 </tr>
 <tr class="odd">
 <td><p>馬來西亞金曲紅人頒獎禮</p></td>
-<td><p>最受歡迎演唱團體</p></td>
+<td><p>最受歡迎演唱團體獎</p></td>
 <td></td>
 <td></td>
-<td><p>金獎</p></td>
+<td><p>金獎[141]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>十大紅人金曲獎</p></td>
+<td><p>年度十大紅人金曲獎</p></td>
 <td><p>〈Always on My Mind〉</p></td>
 <td></td>
-<td></td>
+<td><p>[142]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>最佳舞台演繹</p></td>
+<td><p>樂壇超人氣歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>銀獎</p></td>
+<td><p>銀獎[143]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2587,14 +2611,14 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>封神榜TOP20人氣歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>[136]</p></td>
+<td><p>[144]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>最愛台北精神獎</p></td>
 <td></td>
 <td></td>
-<td><p>特別獎[137]</p></td>
+<td><p>特別獎[145]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2628,21 +2652,21 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>我最喜愛樂壇組合</p></td>
 <td></td>
 <td></td>
-<td><p>銅獎[138]</p></td>
+<td><p>銅獎[146]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/MTV" title="wikilink">MTV封神榜音樂獎</a></p></td>
 <td><p>最受歡迎團體獎</p></td>
 <td></td>
 <td></td>
-<td><p>特別獎[139][140]</p></td>
+<td><p>特別獎[147][148]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>人氣歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>[141][142]</p></td>
+<td><p>[149][150]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2660,7 +2684,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>引進版類最佳組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>[143]</p></td>
+<td><p>[151]</p></td>
 </tr>
 <tr class="odd">
 <td><p>百度娛樂沸點</p></td>
@@ -2891,7 +2915,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>歌手類</p></td>
 <td></td>
 <td><p>第一名</p></td>
-<td><p>[144]</p></td>
+<td><p>[152]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2915,7 +2939,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>上半年榜單冠軍金曲</p></td>
 <td><p>〈SHERO〉</p></td>
 <td></td>
-<td><p>[145]</p></td>
+<td><p>[153]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2939,7 +2963,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>最受歡迎團體獎</p></td>
 <td></td>
 <td></td>
-<td><p>[146]</p></td>
+<td><p>[154]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2947,7 +2971,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p><a href="../Page/金鐘獎電臺臺呼獎.md" title="wikilink">電臺臺呼獎</a></p></td>
 <td><p>〈917在一起〉</p></td>
 <td></td>
-<td><p>詞：<a href="../Page/田馥甄.md" title="wikilink">Hebe</a>、曲：<a href="../Page/陳嘉樺.md" title="wikilink">Ella</a>[147]</p></td>
+<td><p>詞：<a href="../Page/田馥甄.md" title="wikilink">Hebe</a>、曲：<a href="../Page/陳嘉樺.md" title="wikilink">Ella</a>[155]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2972,7 +2996,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>華語十大女歌手</p></td>
 <td></td>
 <td></td>
-<td><p>[148]</p></td>
+<td><p>[156]</p></td>
 </tr>
 <tr class="even">
 <td><p>Channel [V] 音樂飆榜 年度頒獎典禮</p></td>
@@ -2987,7 +3011,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>e樂人氣組合</p></td>
 <td></td>
 <td></td>
-<td><p>[149]</p></td>
+<td><p>[157]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3019,7 +3043,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>最受歡迎十大明星</p></td>
 <td></td>
 <td></td>
-<td><p>[150]</p></td>
+<td><p>[158]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3028,7 +3052,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>年度華語暢銷歌手</p></td>
 <td><p>《<a href="../Page/花又開好了.md" title="wikilink">花又開好了</a>》</p></td>
 <td><p>第4名</p></td>
-<td><p>[151]</p></td>
+<td><p>[159]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2013年</strong></p></td>
@@ -3036,7 +3060,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>華流霸主</p></td>
 <td></td>
 <td><p>冠軍</p></td>
-<td><p>[152]</p></td>
+<td><p>[160]</p></td>
 </tr>
 <tr class="even">
 <td><p>音悅V榜年度盛典</p></td>
@@ -3092,7 +3116,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>華流霸主</p></td>
 <td></td>
 <td><p>冠軍</p></td>
-<td><p>[153]</p></td>
+<td><p>[161]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2015年</strong></p></td>
@@ -3100,14 +3124,14 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>上半年20大金曲</p></td>
 <td><p>〈<a href="../Page/你曾是少年.md" title="wikilink">你曾是少年</a>〉</p></td>
 <td></td>
-<td><p>[154][155]</p></td>
+<td><p>[162][163]</p></td>
 </tr>
 <tr class="even">
 <td><p>-{風}--{從}--{東}-方-{來}--{娛}--{樂}-影-{響}-力盛典</p></td>
 <td><p>華-{語}-音-{樂}-天-{團}-</p></td>
 <td></td>
 <td></td>
-<td><p>[156][157]</p></td>
+<td><p>[164][165]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3116,13 +3140,13 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>年度十大華語歌曲</p></td>
 <td><p>〈<a href="../Page/十七_(S.H.E歌曲).md" title="wikilink">十七</a>〉</p></td>
 <td><p>第4名</p></td>
-<td><p>[158]</p></td>
+<td><p>[166]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/YES_933.md" title="wikilink">YES 933</a><a href="../Page/醉心龍虎榜.md" title="wikilink">醉心龍虎榜</a></p></td>
 <td><p>2018年最喜愛20大歌曲</p></td>
 <td><p>第19名</p></td>
-<td><p>[159]</p></td>
+<td><p>[167]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3149,8 +3173,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
   -
   -
   -
-[Category:S.H.E](https://zh.wikipedia.org/wiki/Category:S.H.E "wikilink")
-[Category:華語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:華語流行音樂家獲獎列表 "wikilink")
+[Category:S.H.E](https://zh.wikipedia.org/wiki/Category:S.H.E "wikilink") [Category:華語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:華語流行音樂家獲獎列表 "wikilink")
 
 1.  成員的個人部分請參閱個人條目。
 
@@ -3366,15 +3389,13 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 110.
 
 111.
-112.
 
+112.
 113.
 114.
-
 115.
 
 116.
-
 117.
 
 118.
@@ -3386,6 +3407,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 121.
 
 122.
+
 123.
 
 124.
@@ -3396,7 +3418,6 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 127.
 
 128.
-
 129.
 
 130.
@@ -3414,6 +3435,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 136.
 
 137.
+
 138.
 
 139.
@@ -3424,11 +3446,9 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 
 142.
 143.
-
 144.
 
 145.
-
 146.
 
 147.
@@ -3438,7 +3458,6 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 149.
 
 150.
-
 151.
 
 152.
@@ -3456,3 +3475,19 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 158.
 
 159.
+
+160.
+
+161.
+
+162.
+
+163.
+
+164.
+
+165.
+
+166.
+
+167.

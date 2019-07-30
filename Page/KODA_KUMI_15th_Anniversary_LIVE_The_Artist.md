@@ -1,14 +1,10 @@
-《KODA KUMI 15th Anniversary LIVE The
-Artist》為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2015年於日本舉辦的15周年限定演唱會。
+《KODA KUMI 15th Anniversary LIVE The Artist》為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2015年於日本舉辦的15周年限定演唱會。
 
 ## 簡介
 
   - 本次為倖田來未15週年紀念的特別演唱會於[大阪大阪城Hall以及](https://zh.wikipedia.org/wiki/大阪 "wikilink")[埼玉琦玉超級競技場兩場所所共舉辦](https://zh.wikipedia.org/wiki/埼玉 "wikilink")4場演唱會。
-  - 本次主題為「The
-    Artist」再分別以「Entertainment」、「Vocal」、「Dance」來導引出「**倖田來未**」的定位\[1\]。
-  - 演唱會共換了10套服裝並搶先演唱了〈NO ME WITHOUT YOU〉、〈Capcake〉、〈On And
-    On〉三首新曲，也搶先公開了〈On And
-    On〉的智慧型手機型式的直立型音樂錄影帶\[2\]。
+  - 本次主題為「The Artist」再分別以「Entertainment」、「Vocal」、「Dance」來導引出「**倖田來未**」的定位\[1\]。
+  - 演唱會共換了10套服裝並搶先演唱了〈NO ME WITHOUT YOU〉、〈Capcake〉、〈On And On〉三首新曲，也搶先公開了〈On And On〉的智慧型手機型式的直立型音樂錄影帶\[2\]。
   - 在12月6日最終場發表將舉辦個人首次47個都道府縣巡迴演唱會\[3\]。
 
 ## 表演歌單\[4\]
@@ -40,8 +36,7 @@ Artist》為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Pag
 21. UNIVERSE
 22. め組のひと
 23. Poppin love cocktail feat.TEEDA
-24. En1 Medley（With your smile～Birthday Eve～TAKE BACK～BRING IT ON～IN THE
-    AIR～Someday～Lady Go\!
+24. En1 Medley（With your smile～Birthday Eve～TAKE BACK～BRING IT ON～IN THE AIR～Someday～Lady Go\!
 25. En2.Comes Up
 26. En3.walk ～to the futuer～
 
@@ -111,8 +106,7 @@ Artist》為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Pag
 23. Poppin' love cocktail feat. TEEDA
       -
         <ENCORE>
-24. With your smile ～ Birthday Eve ～ TAKE BACK ～ BRING IT ON ～ IN THE
-    AIR ～ Someday ～ Lady Go\!
+24. With your smile ～ Birthday Eve ～ TAKE BACK ～ BRING IT ON ～ IN THE AIR ～ Someday ～ Lady Go\!
 25. Comes Up
 26. walk ～to the future～
 
@@ -126,7 +120,7 @@ Artist》為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Pag
 
 ### 銷售榜單
 
-  - 榜單來自[Oricon公信榜專輯榜](../Page/Oricon公信榜.md "wikilink")
+  - 榜單來自[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯榜
 
 | 發行日期       | 榜單 | 最高名次                          | 銷量  | 銷量總計 | 在榜周數 |
 | ---------- | -- | ----------------------------- | --- | ---- | ---- |

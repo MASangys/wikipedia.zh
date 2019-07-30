@@ -1,4 +1,4 @@
-**希伯來文**是一个位于基本多文种平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了拼写[希伯来语](../Page/希伯来语.md "wikilink")、[意第绪语](https://zh.wikipedia.org/wiki/意第绪语 "wikilink")、[拉迪諾語等语言的字母](../Page/拉迪諾語.md "wikilink")。
+**希伯來文**是一个位于基本多文种平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了拼写[希伯来语](../Page/希伯来语.md "wikilink")、[意第绪语](https://zh.wikipedia.org/wiki/意第绪语 "wikilink")、[拉迪諾語](../Page/拉迪諾語.md "wikilink")等语言的字母。
 
 ## 历史
 

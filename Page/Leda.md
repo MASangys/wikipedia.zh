@@ -1,5 +1,4 @@
-**Leda**（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：レダ，1987年6月9日 -
-）是[日本的](../Page/日本.md "wikilink")[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")、[貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")、[詞曲作家](../Page/詞曲作家.md "wikilink")。出生於[三重縣](https://zh.wikipedia.org/wiki/三重縣 "wikilink")。本名不詳。
+**Leda**（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：レダ，1987年6月9日 - ）是[日本](../Page/日本.md "wikilink")的[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")、[貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")、[詞曲作家](../Page/詞曲作家.md "wikilink")。出生於[三重縣](https://zh.wikipedia.org/wiki/三重縣 "wikilink")。本名不詳。
 
 ## 經歷
 
@@ -9,19 +8,15 @@
 
 2006年，組成「GRAVE SEED」。
 
-2007年2月，以YU-TO的名義加入「[Galneryus](../Page/Galneryus.md "wikilink")」擔任貝斯手。他同時也與「GRAVE
-SEED」進行活動。
+2007年2月，以YU-TO的名義加入「[Galneryus](../Page/Galneryus.md "wikilink")」擔任貝斯手。他同時也與「GRAVE SEED」進行活動。
 
 2008年2月，「GRAVE SEED」經過人事變動，改名為「」並出道，大部分詞曲由他負責創作\[2\]。
 
 2011年8月，「DELUHI」解散。10月到11月間，以支援吉他手身分，加入[百老匯搖滾音樂劇](https://zh.wikipedia.org/wiki/百老匯戲劇 "wikilink")「」至日本巡迴的公演\[3\]。
 
-2012年，加入「[BABYMETAL](../Page/BABYMETAL.md "wikilink")」的神樂隊，與[大村孝佳](../Page/大村孝佳.md "wikilink")、[藤岡幹大共同活動](../Page/藤岡幹大.md "wikilink")，也長期在創作與現場表演中與「BABYMETAL」合作。9月，開展solo
-project band「UNDIVIDE」，與原DELUHI的成員Sujk以及歌手組成。
+2012年，加入「[BABYMETAL](../Page/BABYMETAL.md "wikilink")」的神樂隊，與[大村孝佳](../Page/大村孝佳.md "wikilink")、[藤岡幹大](../Page/藤岡幹大.md "wikilink")共同活動，也長期在創作與現場表演中與「BABYMETAL」合作。9月，開展solo project band「UNDIVIDE」，與原DELUHI的成員Sujk以及歌手組成。
 
-2013年4月，在音樂暨時尚活動『KAWAii\!\!
-MATSURi』中與[T.M.Revolution同台共演](../Page/T.M.Revolution.md "wikilink")。7月，作為支援吉他手加入[DAIGO☆STARDUST的復活演出](https://zh.wikipedia.org/wiki/DAIGO "wikilink")。10月，在[VAMPS主辦的](../Page/VAMPS.md "wikilink")『HALLOWEEN
-PARTY 2013』中加入「」\[4\]。
+2013年4月，在音樂暨時尚活動『KAWAii\!\! MATSURi』中與[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")同台共演。7月，作為支援吉他手加入[DAIGO☆STARDUST的復活演出](https://zh.wikipedia.org/wiki/DAIGO "wikilink")。10月，在[VAMPS](../Page/VAMPS.md "wikilink")主辦的『HALLOWEEN PARTY 2013』中加入「」\[4\]。
 
 2015年1月，與原DELUHI的成員Sujk等人組成新樂團「」，擔任吉他手。
 
@@ -84,8 +79,7 @@ PARTY 2013』中加入「」\[4\]。
 
 <!-- end list -->
 
-  - [BABYMETAL](../Page/BABYMETAL.md "wikilink")
-    專輯《[BABYMETAL](../Page/BABYMETAL_\(專輯\).md "wikilink")》（2014年）
+  - [BABYMETAL](../Page/BABYMETAL.md "wikilink") 專輯《[BABYMETAL](../Page/BABYMETAL_\(專輯\).md "wikilink")》（2014年）
 
 <!-- end list -->
 
@@ -95,8 +89,7 @@ PARTY 2013』中加入「」\[4\]。
 
 <!-- end list -->
 
-  - [BABYMETAL](../Page/BABYMETAL.md "wikilink") 專輯《[METAL
-    RESISTANCE](../Page/METAL_RESISTANCE.md "wikilink")》（2016年）
+  - [BABYMETAL](../Page/BABYMETAL.md "wikilink") 專輯《[METAL RESISTANCE](../Page/METAL_RESISTANCE.md "wikilink")》（2016年）
 
 <!-- end list -->
 
@@ -126,9 +119,7 @@ PARTY 2013』中加入「」\[4\]。
 
 <!-- end list -->
 
-  - [Hey\! Say\! JUMP](../Page/Hey!_Say!_JUMP.md "wikilink")
-    專輯《[smart](https://zh.wikipedia.org/wiki/smart_\(Hey!_Say!_JUMP專輯\) "wikilink")》
-    （2014年）
+  - [Hey\! Say\! JUMP](../Page/Hey!_Say!_JUMP.md "wikilink") 專輯《[smart](https://zh.wikipedia.org/wiki/smart_\(Hey!_Say!_JUMP專輯\) "wikilink")》 （2014年）
 
 <!-- end list -->
 
@@ -148,8 +139,7 @@ PARTY 2013』中加入「」\[4\]。
 
 <!-- end list -->
 
-  - [Linked Horizon](../Page/Linked_Horizon.md "wikilink") 數位發行《自由の代償
-    \[劇場版 size\]》(2015)（吉他）
+  - [Linked Horizon](../Page/Linked_Horizon.md "wikilink") 數位發行《自由の代償 \[劇場版 size\]》(2015)（吉他）
 
   - 專輯《》（2015）
 
@@ -203,23 +193,16 @@ PARTY 2013』中加入「」\[4\]。
 
 ## 外部連結
 
-  - [1](http://www.braveman-records.com/deluhi/index_pc.html) DELUHI
-    官方網站
+  - [1](http://www.braveman-records.com/deluhi/index_pc.html) DELUHI 官方網站
 
-  - [2](https://web.archive.org/web/20101226204024/http://undivide.net/)
-    UNDIVIDE 官方網站
+  - [2](https://web.archive.org/web/20101226204024/http://undivide.net/) UNDIVIDE 官方網站
 
   - [3](http://fareastdizain.com/) Far East Dizain 官方網站
 
   - [4](http://ameblo.jp/leda-official/) Leda 官方部落格
 
   -
-[Category:1987年出生](https://zh.wikipedia.org/wiki/Category:1987年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:三重縣出身人物](https://zh.wikipedia.org/wiki/Category:三重縣出身人物 "wikilink")
-[Category:日本吉他手](https://zh.wikipedia.org/wiki/Category:日本吉他手 "wikilink")
-[Category:日本貝斯手](https://zh.wikipedia.org/wiki/Category:日本貝斯手 "wikilink")
-[Category:視覺系音樂家](https://zh.wikipedia.org/wiki/Category:視覺系音樂家 "wikilink")
+[Category:1987年出生](https://zh.wikipedia.org/wiki/Category:1987年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:三重縣出身人物](https://zh.wikipedia.org/wiki/Category:三重縣出身人物 "wikilink") [Category:日本吉他手](https://zh.wikipedia.org/wiki/Category:日本吉他手 "wikilink") [Category:日本貝斯手](https://zh.wikipedia.org/wiki/Category:日本貝斯手 "wikilink") [Category:視覺系音樂家](https://zh.wikipedia.org/wiki/Category:視覺系音樂家 "wikilink")
 
 1.
 2.

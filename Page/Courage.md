@@ -1,14 +1,10 @@
-《**courage**》是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[户松遥的第](https://zh.wikipedia.org/wiki/户松遥 "wikilink")14张[单曲唱片](../Page/单曲.md "wikilink")。该曲于2014年12月3日由[Music
-Ray'n发行](../Page/Music_Ray'n.md "wikilink")。
+《**courage**》是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[户松遥的第](https://zh.wikipedia.org/wiki/户松遥 "wikilink")14张[单曲](../Page/单曲.md "wikilink")唱片。该曲于2014年12月3日由[Music Ray'n发行](../Page/Music_Ray'n.md "wikilink")。
 
 ## 概要
 
-《courage》为前作《[Fantastic
-Soda\!\!](../Page/Fantastic_Soda!!.md "wikilink")》推出约4个月后的作品，亦为2014年的第3作。户松于2014年10月5日在[东京](../Page/东京.md "wikilink")[秋叶原举办的](https://zh.wikipedia.org/wiki/秋叶原 "wikilink")“[电击文库](https://zh.wikipedia.org/wiki/电击文库 "wikilink")
-秋之祭典2014”中首次披露了该曲\[1\]。
+《courage》为前作《[Fantastic Soda\!\!](../Page/Fantastic_Soda!!.md "wikilink")》推出约4个月后的作品，亦为2014年的第3作。户松于2014年10月5日在[东京](../Page/东京.md "wikilink")[秋叶原举办的](https://zh.wikipedia.org/wiki/秋叶原 "wikilink")“[电击文库](https://zh.wikipedia.org/wiki/电击文库 "wikilink") 秋之祭典2014”中首次披露了该曲\[1\]。
 
-该曲为[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")《[刀剑神域II](https://zh.wikipedia.org/wiki/刀剑神域 "wikilink")》圣剑篇以及圣母圣咏篇[片头曲](https://zh.wikipedia.org/wiki/片头曲 "wikilink")\[2\]\[3\]。歌曲发售时，距离户松主唱的上一个电视动画主题曲《[Q\&A
-演奏會！](../Page/Q&A_演奏會！.md "wikilink")》推出时已有两年多。
+该曲为[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")《[刀剑神域II](https://zh.wikipedia.org/wiki/刀剑神域 "wikilink")》圣剑篇以及圣母圣咏篇[片头曲](https://zh.wikipedia.org/wiki/片头曲 "wikilink")\[2\]\[3\]。歌曲发售时，距离户松主唱的上一个电视动画主题曲《[Q\&A 演奏會！](../Page/Q&A_演奏會！.md "wikilink")》推出时已有两年多。
 
 户松本人在自己的官方博客当中提到，歌曲标题具有双重意义，“courage”意为“勇气”，其日语发音“”和在《刀剑神域II》圣母圣咏篇登场的角色[有纪](https://zh.wikipedia.org/wiki/刀劍神域角色列表#有紀 "wikilink")（）的日语发音相同。\[4\]本曲是摇滚曲，歌词蕴含着难以动摇的意志以及强大的勇气，与此同时，这首歌曲也与《刀剑神域》的世界观紧密相连。\[5\]
 
@@ -18,10 +14,7 @@ Soda\!\!](../Page/Fantastic_Soda!!.md "wikilink")》推出约4个月后的作品
 
 本曲在发售的第一周时共卖出23794张，于2014年12月15日公布的[Oricon周榜获得第](../Page/Oricon公信榜.md "wikilink")4位\[6\]，这一成绩刷新了户松遥发售的单曲在该榜的最高排名记录，同时也是她的单曲第二次进入该榜前十\[7\]。之前的最高记录单曲是最高排名第10位的《[motto☆大膽一點！](https://zh.wikipedia.org/wiki/motto☆大膽一點！ "wikilink")》。\[8\]而在2014年12月3日公布的Oricon日间排行榜中，该曲进入前三排名第二，同样刷新了记录。\[9\]
 
-与此同时，本曲在2014年12月15日公布的Billboard Japan Hot
-Animation中排名第1位，这个排名超越曾在同榜排名第2位的《Q\&A
-演奏會！》成为户松的动画主题曲在该榜的最好成绩\[10\]\[11\]，一周后，本曲在同榜被[LiSA的](../Page/LiSA.md "wikilink")《[印记](../Page/印记_\(LiSA单曲\).md "wikilink")》超越，下滑至第2位\[12\]，而Hot
-100\[13\]與Hot Singles Sales\[14\]則分別取得第3位和第4位。方面，《courage》拿到第3名\[15\]。
+与此同时，本曲在2014年12月15日公布的Billboard Japan Hot Animation中排名第1位，这个排名超越曾在同榜排名第2位的《Q\&A 演奏會！》成为户松的动画主题曲在该榜的最好成绩\[10\]\[11\]，一周后，本曲在同榜被[LiSA](../Page/LiSA.md "wikilink")的《[印记](../Page/印记_\(LiSA单曲\).md "wikilink")》超越，下滑至第2位\[12\]，而Hot 100\[13\]與Hot Singles Sales\[14\]則分別取得第3位和第4位。方面，《courage》拿到第3名\[15\]。
 
 ## 评价
 
@@ -61,10 +54,7 @@ Animation中排名第1位，这个排名超越曾在同榜排名第2位的《Q\&
       - [通常盤](http://www.sonymusic.co.jp/artist/harukatomatsu/discography/SMCL-369)
       - [SAO盤（期間生產限定盤）](http://www.sonymusic.co.jp/artist/harukatomatsu/discography/SMCL-370)
 
-[Category:戶松遙單曲](https://zh.wikipedia.org/wiki/Category:戶松遙單曲 "wikilink")
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
-[Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink")
-[Category:刀剑神域](https://zh.wikipedia.org/wiki/Category:刀剑神域 "wikilink")
+[Category:戶松遙單曲](https://zh.wikipedia.org/wiki/Category:戶松遙單曲 "wikilink") [Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink") [Category:刀剑神域](https://zh.wikipedia.org/wiki/Category:刀剑神域 "wikilink")
 
 1.
 

@@ -1,7 +1,4 @@
-**BIGBANG 03**也被稱為**Third Single
-Album**（）是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG繼](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")《[BIGBANG
-Is
-V.I.P](../Page/BIGBANG_Is_V.I.P.md "wikilink")》後時隔兩個月推出的第三張單曲專輯，由[YG娛樂製作發佈](../Page/YG娛樂.md "wikilink")，在2006年8月28日正式發行，最終累積銷售量達32,348張。\[1\]
+**BIGBANG 03**也被稱為**Third Single Album**（）是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG繼](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")《[BIGBANG Is V.I.P](../Page/BIGBANG_Is_V.I.P.md "wikilink")》後時隔兩個月推出的第三張單曲專輯，由[YG娛樂](../Page/YG娛樂.md "wikilink")製作發佈，在2006年8月28日正式發行，最終累積銷售量達32,348張。\[1\]
 
 ## 曲目
 
@@ -28,8 +25,7 @@ V.I.P](../Page/BIGBANG_Is_V.I.P.md "wikilink")》後時隔兩個月推出的第�
 
   -
 
-[Category:BIGBANG單曲](https://zh.wikipedia.org/wiki/Category:BIGBANG單曲 "wikilink")
-[Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")
+[Category:BIGBANG單曲](https://zh.wikipedia.org/wiki/Category:BIGBANG單曲 "wikilink") [Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")
 
 1.
 

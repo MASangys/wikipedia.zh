@@ -1,20 +1,8 @@
-**申效涉**\[1\]（，），為人熟知的藝名為**Crush**（），是[韩国的](https://zh.wikipedia.org/wiki/韩国 "wikilink")[R\&B及](https://zh.wikipedia.org/wiki/R&B "wikilink")[嘻哈音乐人](../Page/嘻哈.md "wikilink")，於2012年憑藉〈Red
-Dress〉一曲出道。
+**申效涉**\[1\]（，），為人熟知的藝名為**Crush**（），是[韩国的](https://zh.wikipedia.org/wiki/韩国 "wikilink")[R\&B及](https://zh.wikipedia.org/wiki/R&B "wikilink")[嘻哈](../Page/嘻哈.md "wikilink")音乐人，於2012年憑藉〈Red Dress〉一曲出道。
 
 ## 經歷
 
-Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身份，发行了数码单曲《Red
-Dress》正式出道\[2\]\[3\]。2013年2月14日，与合作发行了第二首数码单曲《Crush On
-You》\[4\]\[5\]。3月6日，在Amoeba
-Culture的项目《NOWorkend》中与[Zion.T共同作曲作词编曲完成了](../Page/Zion.T.md "wikilink")〈뻔한
-멜로디〉\[6\]\[7\]，接着於3月19日Crush为[Supreme
-Team作曲编曲了第四首作品](https://zh.wikipedia.org/wiki/Supreme_Team "wikilink")《一如从前就好（그대로
-있어도 돼）》\[8\]\[9\]，使[Supreme
-Team在两年后成功复出](https://zh.wikipedia.org/wiki/Supreme_Team "wikilink")\[10\]。2014年6月5日，发行首张正规专辑《Crush
-On You》。在这张专辑中他与[Dynamic
-Duo的宰豪](../Page/Dynamic_Duo.md "wikilink")、、[Simon
-Dominic](../Page/Simon_D.md "wikilink")、[朴载范](../Page/朴載範.md "wikilink")、[Zion.T](../Page/Zion.T.md "wikilink")、Kumapark、Lydia
-Paek、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、等嘻哈和R\&B歌手合作。专辑发行后，所收录的歌曲都成功进入了各大音乐排行榜。 \[11\]
+Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身份，发行了数码单曲《Red Dress》正式出道\[2\]\[3\]。2013年2月14日，与合作发行了第二首数码单曲《Crush On You》\[4\]\[5\]。3月6日，在Amoeba Culture的项目《NOWorkend》中与[Zion.T](../Page/Zion.T.md "wikilink")共同作曲作词编曲完成了〈뻔한 멜로디〉\[6\]\[7\]，接着於3月19日Crush为[Supreme Team作曲编曲了第四首作品](https://zh.wikipedia.org/wiki/Supreme_Team "wikilink")《一如从前就好（그대로 있어도 돼）》\[8\]\[9\]，使[Supreme Team在两年后成功复出](https://zh.wikipedia.org/wiki/Supreme_Team "wikilink")\[10\]。2014年6月5日，发行首张正规专辑《Crush On You》。在这张专辑中他与[Dynamic Duo的宰豪](../Page/Dynamic_Duo.md "wikilink")、、[Simon Dominic](../Page/Simon_D.md "wikilink")、[朴载范](../Page/朴載範.md "wikilink")、[Zion.T](../Page/Zion.T.md "wikilink")、Kumapark、Lydia Paek、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、等嘻哈和R\&B歌手合作。专辑发行后，所收录的歌曲都成功进入了各大音乐排行榜。 \[11\]
 
 ## 音樂作品
 
@@ -802,8 +790,7 @@ Paek、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、等嘻哈和R\&B歌
 
 ### 《Show Champion》冠軍歌曲
 
-|- | 2015年 || 2月11日 || 就那樣（feat. Zion.T） |- | 2016年 || 1月27日 ||
-不要忘記（feat. [太妍](../Page/太妍.md "wikilink")） |}
+|- | 2015年 || 2月11日 || 就那樣（feat. Zion.T） |- | 2016年 || 1月27日 || 不要忘記（feat. [太妍](../Page/太妍.md "wikilink")） |}
 
 ### 《Show\! 音樂中心》1位
 
@@ -817,35 +804,16 @@ Paek、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、等嘻哈和R\&B歌
 
   -
   -
-[Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink")
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
+[Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
 
 1.  [經本人確認正名為申效涉](https://wx4.sinaimg.cn/mw1024/006XxwIFly1ftioirt739j30yi1a0q8j.jpg)
-2.  [CRUSH - Red
-    Dress](http://hiphopplaya.com/album/view.html?pid=&aid=65556) , 《》
-3.  [\[P/V CRUSH - 'Red Dress (Feat. TakeOne)'
-    Teaser\]](http://hiphopplaya.com/magazine/article/view.html?category=&category2=&mode=&page=1&sort=&num=10118&keyfield=&key=Crush)
-    《힙합플레이야》, 2012年12月6日
-4.  [CRUSH - Crush On
-    You](http://hiphopplaya.com/album/view.html?pid=&aid=66014) ,
-    《힙합플레이야》
-5.  [크러쉬, 스윙스와 함께한 싱글 'Crush On You'
-    발표](http://hiphopplaya.com/magazine/article/view.html?category=&category2=&mode=&page=1&sort=&num=10319&keyfield=&key=%ED%81%AC%EB%9F%AC%EC%89%AC),
-    《힙합플레이야》, 2013年2月12日
-6.  [자이언티, '뻔한 멜로디
-    (Feat.](http://hiphopplaya.com/magazine/article/view.html?category=&category2=&mode=&page=1&sort=&num=10501&keyfield=&key=Crush)
-7.  [자이언티 - 뻔한
-    멜로디](http://music.naver.com/album/index.nhn?albumId=371453),
-    《네이버 뮤직》
-8.  [슈프림팀, 새 싱글 'Thanks 4 the wait' 발매 및 M/V
-    공개](http://hiphopplaya.com/magazine/article/view.html?category=&category2=&mode=&page=1&sort=&num=10674&keyfield=&key=%EC%8A%88%ED%94%84%EB%A6%BC),
-    《힙합플레이야》, 2013年3月19日
-9.  [슈프림팀 - 《Thanks 4 The
-    Wait》](http://music.naver.com/album/index.nhn?albumId=372563),
-    《네이버 뮤직》
-10. [슈프림팀, 저력 통했다…‘그대로 있어도 돼’ 음원차트
-    올킬](http://sports.donga.com/3/all/20130320/53841022/2), 《스포츠동아》,
-    2013年3月20日
-11. [크러쉬, 폭풍같은 신인…1집 전곡 차트 점령 "피처링
-    대박"](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=004&oid=023&aid=0002764365)
+2.  [CRUSH - Red Dress](http://hiphopplaya.com/album/view.html?pid=&aid=65556) , 《》
+3.  [\[P/V CRUSH - 'Red Dress (Feat. TakeOne)' Teaser\]](http://hiphopplaya.com/magazine/article/view.html?category=&category2=&mode=&page=1&sort=&num=10118&keyfield=&key=Crush) 《힙합플레이야》, 2012年12月6日
+4.  [CRUSH - Crush On You](http://hiphopplaya.com/album/view.html?pid=&aid=66014) , 《힙합플레이야》
+5.  [크러쉬, 스윙스와 함께한 싱글 'Crush On You' 발표](http://hiphopplaya.com/magazine/article/view.html?category=&category2=&mode=&page=1&sort=&num=10319&keyfield=&key=%ED%81%AC%EB%9F%AC%EC%89%AC), 《힙합플레이야》, 2013年2月12日
+6.  [자이언티, '뻔한 멜로디 (Feat.](http://hiphopplaya.com/magazine/article/view.html?category=&category2=&mode=&page=1&sort=&num=10501&keyfield=&key=Crush)
+7.  [자이언티 - 뻔한 멜로디](http://music.naver.com/album/index.nhn?albumId=371453), 《네이버 뮤직》
+8.  [슈프림팀, 새 싱글 'Thanks 4 the wait' 발매 및 M/V 공개](http://hiphopplaya.com/magazine/article/view.html?category=&category2=&mode=&page=1&sort=&num=10674&keyfield=&key=%EC%8A%88%ED%94%84%EB%A6%BC), 《힙합플레이야》, 2013年3月19日
+9.  [슈프림팀 - 《Thanks 4 The Wait》](http://music.naver.com/album/index.nhn?albumId=372563), 《네이버 뮤직》
+10. [슈프림팀, 저력 통했다…‘그대로 있어도 돼’ 음원차트 올킬](http://sports.donga.com/3/all/20130320/53841022/2), 《스포츠동아》, 2013年3月20日
+11. [크러쉬, 폭풍같은 신인…1집 전곡 차트 점령 "피처링 대박"](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=004&oid=023&aid=0002764365)

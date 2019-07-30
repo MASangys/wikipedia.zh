@@ -1,41 +1,26 @@
-**StartCom** 是一家位于以色列[埃拉特的证书颁发机构](../Page/埃拉特.md "wikilink")，主要服务包括StartCom
-Linux
-Enterprise（[Linux发行版](../Page/Linux发行版.md "wikilink")），StartSSL（[证书颁发](https://zh.wikipedia.org/wiki/数字证书认证机构 "wikilink")）和MediaHost（[网站托管](https://zh.wikipedia.org/wiki/網頁寄存服務 "wikilink")）。StartCom在中国、香港、英国和西班牙开设有新的分支机构\[1\]。
+**StartCom** 是一家位于以色列[埃拉特](../Page/埃拉特.md "wikilink")的证书颁发机构，主要服务包括StartCom Linux Enterprise（[Linux发行版](../Page/Linux发行版.md "wikilink")），StartSSL（[证书颁发](https://zh.wikipedia.org/wiki/数字证书认证机构 "wikilink")）和MediaHost（[网站托管](https://zh.wikipedia.org/wiki/網頁寄存服務 "wikilink")）。StartCom在中国、香港、英国和西班牙开设有新的分支机构\[1\]。
 
-2016年，Mozilla在讨论是否删除沃通和StartCom根证书的调查中发现\[2\]，位于中国深圳的[沃通](https://zh.wikipedia.org/wiki/沃通 "wikilink")（WoSign）已经由几个不同公司将StartCom秘密收购。在Mozilla和苹果\[3\]\[4\]的制裁影响下，位于北京的沃通母公司[奇虎360集团决定在](https://zh.wikipedia.org/wiki/奇虎360 "wikilink")2016年内重组这些公司，重组后的StartCom将从丑闻缠身的沃通分离，完全成为奇虎360的下属公司\[5\]。
+2016年，Mozilla在讨论是否删除沃通和StartCom根证书的调查中发现\[2\]，位于中国深圳的[沃通](https://zh.wikipedia.org/wiki/沃通 "wikilink")（WoSign）已经由几个不同公司将StartCom秘密收购。在Mozilla和苹果\[3\]\[4\]的制裁影响下，位于北京的沃通母公司[奇虎360](../Page/奇虎360.md "wikilink")集团决定在2016年内重组这些公司，重组后的StartCom将从丑闻缠身的沃通分离，完全成为奇虎360的下属公司\[5\]。
 
-2017年11月16日，StartCom宣布终止业务，自2018年1月1日起停止颁发新证书，并于2020年停止[OCSP和](https://zh.wikipedia.org/wiki/OCSP "wikilink")[CRL服务](https://zh.wikipedia.org/wiki/证书吊销列表 "wikilink")\[6\]<ref>[Termination
-of the certificates business of
-Startcom](https://groups.google.com/forum/#!topic/mozilla.dev.security.policy/LM1SpKHJ-oc),
+2017年11月16日，StartCom宣布终止业务，自2018年1月1日起停止颁发新证书，并于2020年停止[OCSP和](https://zh.wikipedia.org/wiki/OCSP "wikilink")[CRL服务](https://zh.wikipedia.org/wiki/证书吊销列表 "wikilink")\[6\]<ref>[Termination of the certificates business of Startcom](https://groups.google.com/forum/#!topic/mozilla.dev.security.policy/LM1SpKHJ-oc),
 
 `post in mozilla.dev.security.policy newsgroup`</ref>\[7\]`。`
 
 ## StartSSL
 
-StartCom提供免费的Class 1 [X.509](../Page/X.509.md "wikilink") SSL证书“StartSSL
-Free”，可用于网站服务器（[SSL/TLS](https://zh.wikipedia.org/wiki/傳輸層安全協議 "wikilink")）和（[S/MIME](https://zh.wikipedia.org/wiki/S/MIME "wikilink")）。StartCom还提供Class
-2和3的证书，以及[扩展验证证书](../Page/扩展验证证书.md "wikilink")，需要复杂的验证（收费）才能得到。
+StartCom提供免费的Class 1 [X.509](../Page/X.509.md "wikilink") SSL证书“StartSSL Free”，可用于网站服务器（[SSL/TLS](https://zh.wikipedia.org/wiki/傳輸層安全協議 "wikilink")）和（[S/MIME](https://zh.wikipedia.org/wiki/S/MIME "wikilink")）。StartCom还提供Class 2和3的证书，以及[扩展验证证书](../Page/扩展验证证书.md "wikilink")，需要复杂的验证（收费）才能得到。
 
 2011年6月，该公司遭受网络攻击，被迫暂停数字证书发放及相关服务数周\[8\]。攻击者无法借此机会颁发证书（在被攻击的6家机构中，只有StartCom成功阻止攻击者的颁发尝试）\[9\]。
 
 ### 可信度
 
-StartSSL证书在以下环境中默认启用：[Mozilla
-Firefox](../Page/Firefox.md "wikilink") 2.x或更高版本，Apple Mac OS X [10.5
-(Leopard)或更高版本](../Page/Mac_OS_X_Leopard.md "wikilink")，2009年9月24日后所有[微软操作系统](../Page/微软.md "wikilink")\[10\]\[11\]，以及2010年7月27日后的[Opera](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")\[12\]。因为[Google
-Chrome](../Page/Google_Chrome.md "wikilink")，[Apple
-Safari和](../Page/Safari.md "wikilink")[Internet
-Explorer使用操作系统的证书库](../Page/Internet_Explorer.md "wikilink")，所有主流浏览器都支持StartSSL证书。
+StartSSL证书在以下环境中默认启用：[Mozilla Firefox](../Page/Firefox.md "wikilink") 2.x或更高版本，Apple Mac OS X [10.5 (Leopard)或更高版本](../Page/Mac_OS_X_Leopard.md "wikilink")，2009年9月24日后所有[微软](../Page/微软.md "wikilink")操作系统\[10\]\[11\]，以及2010年7月27日后的[Opera](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")\[12\]。因为[Google Chrome](../Page/Google_Chrome.md "wikilink")，[Apple Safari和](../Page/Safari.md "wikilink")[Internet Explorer使用操作系统的证书库](../Page/Internet_Explorer.md "wikilink")，所有主流浏览器都支持StartSSL证书。
 
 2016年9月30日，在对沃通的调查期间，苹果宣布旗下软件不会接受2016年9月19日后由沃通CA签发的证书，并会随调查进展对WoSign/StartCom的信任锚采取进一步行动。
 
-2016年10月24日，Mozilla在其安全博客上宣布，由于在对证书颁发机构沃通数个问题的调查中发现它收购了StartCom，而交易双方并未披露此事\[13\]，Mozilla将从Firefox
-51开始，停止信任2016年10月21日后签发的证书\[14\]。2016年9月1日，Google也宣布会从Chrome
-56开始停止信任上述证书\[15\]。2016年9月30日，苹果产品将阻止由沃通和StartCom根CA签发，且生效日期在2016年12月1日00:00:00
-GMT/UTC或其后的证书\[16\]。
+2016年10月24日，Mozilla在其安全博客上宣布，由于在对证书颁发机构沃通数个问题的调查中发现它收购了StartCom，而交易双方并未披露此事\[13\]，Mozilla将从Firefox 51开始，停止信任2016年10月21日后签发的证书\[14\]。2016年9月1日，Google也宣布会从Chrome 56开始停止信任上述证书\[15\]。2016年9月30日，苹果产品将阻止由沃通和StartCom根CA签发，且生效日期在2016年12月1日00:00:00 GMT/UTC或其后的证书\[16\]。
 
-2017年7月8日，Google 宣布将完全取消对沃通和 StartCom 所有证书的信任，包括过去签发的证书。\[17\]\[18\]
-2017年7月11日，Firefox也准备完全取消对沃通, Startcom 和 CNNIC 的信任。\[19\]
+2017年7月8日，Google 宣布将完全取消对沃通和 StartCom 所有证书的信任，包括过去签发的证书。\[17\]\[18\] 2017年7月11日，Firefox也准备完全取消对沃通, Startcom 和 CNNIC 的信任。\[19\]
 
 ### StartSSL无限免费证书的限制
 
@@ -70,8 +55,7 @@ StartCom的政策对吊销一张证书收费25美元，并且拒绝对受Heartbl
   -
   - [StartCom博客](https://web.archive.org/web/20100328135712/http://blog.startcom.org/)
 
-[Category:证书颁发机构](https://zh.wikipedia.org/wiki/Category:证书颁发机构 "wikilink")
-[Category:1999年成立的公司](https://zh.wikipedia.org/wiki/Category:1999年成立的公司 "wikilink")
+[Category:证书颁发机构](https://zh.wikipedia.org/wiki/Category:证书颁发机构 "wikilink") [Category:1999年成立的公司](https://zh.wikipedia.org/wiki/Category:1999年成立的公司 "wikilink")
 
 1.
 2.
@@ -89,11 +73,9 @@ StartCom的政策对吊销一张证书收费25美元，并且拒绝对受Heartbl
 14.
 15.
 16.
-17.  Google 将完全取消沃通和 StartCom
-    的信任|accessdate=2017-07-11|work=www.solidot.org}}
+17.  Google 将完全取消沃通和 StartCom 的信任|accessdate=2017-07-11|work=www.solidot.org}}
 18.
-19.  火狐准备完全取消对沃通、Startcom 和 CNNIC
-    的信任|accessdate=2017-07-11|work=www.solidot.org}}
+19.  火狐准备完全取消对沃通、Startcom 和 CNNIC 的信任|accessdate=2017-07-11|work=www.solidot.org}}
 20.
 21.
 22.

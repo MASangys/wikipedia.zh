@@ -1,18 +1,12 @@
-**慢脈動B型變星**（**Slowly pulsating B-type
-star**，**SPB**），舊稱**英仙座53型變星**（**53 Persei
-variable**），是一種[脈動變星](https://zh.wikipedia.org/wiki/變星#脈動變星 "wikilink")。
+**慢脈動B型變星**（**Slowly pulsating B-type star**，**SPB**），舊稱**英仙座53型變星**（**53 Persei variable**），是一種[脈動變星](https://zh.wikipedia.org/wiki/變星#脈動變星 "wikilink")。
 
 ## 概要
 
-正如名稱所述，本型變星是[光譜型](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")[B2至B9的](../Page/B型主序星.md "wikilink")[主序星](../Page/主序星.md "wikilink")（3至9倍太陽質量），光度脈動變化週期在0.5至5日之間\[1\]。然而，大多數本型變星已被發現有多個變光週期\[2\]。慢脈動B型變星的光輻射強度和[譜線輪廓都有變化情形](../Page/譜線.md "wikilink")，並且亮度變化通常在0.1等以下\[3\]，因此在大多數情形下以肉眼進行本型變星的光度變化觀察是很困難的。慢脈動B型變星的光度變化程度會隨著波長的縮短而增加\[4\]，因此本型變星在紫外線光譜的光度變化程度較可見光部分明顯。本型變星的脈動形式並非徑向脈動，因此脈動時恆星的形狀會變化，而不是體積變化，並且會有恆星不同部分同時各自擴張和收縮的狀況\[5\]。
+正如名稱所述，本型變星是[光譜型](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")[B2至B9的](../Page/B型主序星.md "wikilink")[主序星](../Page/主序星.md "wikilink")（3至9倍太陽質量），光度脈動變化週期在0.5至5日之間\[1\]。然而，大多數本型變星已被發現有多個變光週期\[2\]。慢脈動B型變星的光輻射強度和[譜線](../Page/譜線.md "wikilink")輪廓都有變化情形，並且亮度變化通常在0.1等以下\[3\]，因此在大多數情形下以肉眼進行本型變星的光度變化觀察是很困難的。慢脈動B型變星的光度變化程度會隨著波長的縮短而增加\[4\]，因此本型變星在紫外線光譜的光度變化程度較可見光部分明顯。本型變星的脈動形式並非徑向脈動，因此脈動時恆星的形狀會變化，而不是體積變化，並且會有恆星不同部分同時各自擴張和收縮的狀況\[5\]。
 
-慢脈動B型變星首先由天文學家Christoffel Waelkens和Fredy
-Rufener在分析高溫藍色恆星的光度變化時分類出來，並於1985年正式命名。測光技術的進步讓天文學家得以更容易發現更小幅度的恆星光度變化，並且前述兩位天文學家發現很高百分比的高溫恆星光度是可變化的。他們以[英仙座53為本型變星的原型恆星](https://zh.wikipedia.org/wiki/英仙座53 "wikilink")，稱本型變星為英仙座53型變星\[6\]。直到1993年時發現了10顆本型變星，雖然Waelkens當時仍不確定被認定為原型恆星的英仙座53是否為本型變星，之後Waelkens建議將本型變星命名為慢脈動B型星（Slowly
-pulsating B
-star，SPB）\[7\]。[變星總表將本型變星以縮寫LPB代表](../Page/變星總表.md "wikilink")「相對長周期脈動B型星（光變週期超過1日）」\[8\]，儘管這個術語在其他地方很少見\[9\]。
+慢脈動B型變星首先由天文學家Christoffel Waelkens和Fredy Rufener在分析高溫藍色恆星的光度變化時分類出來，並於1985年正式命名。測光技術的進步讓天文學家得以更容易發現更小幅度的恆星光度變化，並且前述兩位天文學家發現很高百分比的高溫恆星光度是可變化的。他們以[英仙座53為本型變星的原型恆星](https://zh.wikipedia.org/wiki/英仙座53 "wikilink")，稱本型變星為英仙座53型變星\[6\]。直到1993年時發現了10顆本型變星，雖然Waelkens當時仍不確定被認定為原型恆星的英仙座53是否為本型變星，之後Waelkens建議將本型變星命名為慢脈動B型星（Slowly pulsating B star，SPB）\[7\]。[變星總表](../Page/變星總表.md "wikilink")將本型變星以縮寫LPB代表「相對長周期脈動B型星（光變週期超過1日）」\[8\]，儘管這個術語在其他地方很少見\[9\]。
 
-與慢脈動B型變星類似的[仙王座β型變星光變周期較短](../Page/仙王座β型變星.md "wikilink")，並且後者的脈動為[p-模式脈動](../Page/星震學.md "wikilink")，而慢脈動B型變星則是[g-模式脈動](../Page/星震學.md "wikilink")\[10\]。直到2007年已確認51顆慢脈動B型變星，並且另外有65顆可能為本型變星。天文學家還發現其中有6顆恆星：[天棓五](../Page/天棓五.md "wikilink")、[雙魚座53](https://zh.wikipedia.org/wiki/雙魚座53 "wikilink")、[九州殊口四](../Page/九州殊口四.md "wikilink")、[壁宿一](https://zh.wikipedia.org/wiki/壁宿一 "wikilink")、[HD
-13745](https://zh.wikipedia.org/wiki/HD_13745 "wikilink")（英仙座V354）和[白羊座53同時擁有仙王座β型變星和慢脈動B型變星的光變特性](../Page/白羊座53.md "wikilink")\[11\]。其他慢脈動B型變星的例子有[天壇座V539](../Page/天壇座V539.md "wikilink")\[12\]和[蒼蠅座γ](../Page/蒼蠅座γ.md "wikilink")\[13\]。
+與慢脈動B型變星類似的[仙王座β型變星](../Page/仙王座β型變星.md "wikilink")光變周期較短，並且後者的脈動為[p-模式脈動](../Page/星震學.md "wikilink")，而慢脈動B型變星則是[g-模式脈動](../Page/星震學.md "wikilink")\[10\]。直到2007年已確認51顆慢脈動B型變星，並且另外有65顆可能為本型變星。天文學家還發現其中有6顆恆星：[天棓五](../Page/天棓五.md "wikilink")、[雙魚座53](https://zh.wikipedia.org/wiki/雙魚座53 "wikilink")、[九州殊口四](../Page/九州殊口四.md "wikilink")、[壁宿一](https://zh.wikipedia.org/wiki/壁宿一 "wikilink")、[HD 13745](https://zh.wikipedia.org/wiki/HD_13745 "wikilink")（英仙座V354）和[白羊座53](../Page/白羊座53.md "wikilink")同時擁有仙王座β型變星和慢脈動B型變星的光變特性\[11\]。其他慢脈動B型變星的例子有[天壇座V539](../Page/天壇座V539.md "wikilink")\[12\]和[蒼蠅座γ](../Page/蒼蠅座γ.md "wikilink")\[13\]。
 
 ## 列表
 
@@ -524,9 +518,7 @@ star，SPB）\[7\]。[變星總表將本型變星以縮寫LPB代表](../Page/變
 7.
 8.
 
-9.  {{cite
-    web|url=[https://www.aavso.org/vsx/index.php?view=about.vartypes|title=VARIABLE](https://www.aavso.org/vsx/index.php?view=about.vartypes%7Ctitle=VARIABLE)
-    STAR TYPE DESIGNATIONS IN VSX|accessdate=2016-12-08{{
+9.  {{cite web|url=[https://www.aavso.org/vsx/index.php?view=about.vartypes|title=VARIABLE](https://www.aavso.org/vsx/index.php?view=about.vartypes%7Ctitle=VARIABLE) STAR TYPE DESIGNATIONS IN VSX|accessdate=2016-12-08{{
 
 10.
 

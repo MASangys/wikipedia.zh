@@ -1,4 +1,4 @@
-**西里爾字母補充**是一个位于基本多文种平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了[阿布哈兹语](https://zh.wikipedia.org/wiki/阿布哈兹语 "wikilink")，[库尔德语](https://zh.wikipedia.org/wiki/库尔德语 "wikilink")，[科米語](../Page/科米語.md "wikilink")，[莫爾多維亞語](https://zh.wikipedia.org/wiki/莫爾多維亞語 "wikilink")，[阿留申语](../Page/阿留申语.md "wikilink")，[阿塞拜疆语](../Page/阿塞拜疆语.md "wikilink")，[楚瓦什語使用的扩充西里尔字母](../Page/楚瓦什語.md "wikilink")。
+**西里爾字母補充**是一个位于基本多文种平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了[阿布哈兹语](https://zh.wikipedia.org/wiki/阿布哈兹语 "wikilink")，[库尔德语](https://zh.wikipedia.org/wiki/库尔德语 "wikilink")，[科米語](../Page/科米語.md "wikilink")，[莫爾多維亞語](https://zh.wikipedia.org/wiki/莫爾多維亞語 "wikilink")，[阿留申语](../Page/阿留申语.md "wikilink")，[阿塞拜疆语](../Page/阿塞拜疆语.md "wikilink")，[楚瓦什語](../Page/楚瓦什語.md "wikilink")使用的扩充西里尔字母。
 
 ## 历史
 

@@ -1,6 +1,4 @@
-是日本Princess
-Sugar在2011年2月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，Princess
-Sugar的第一作\[2\]，電腦CLUB（電脳CLUB）在2011年10月27日發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]後來在2012年由PoRO發售[OVA版](https://zh.wikipedia.org/wiki/OVA "wikilink")。\[4\]
+是日本Princess Sugar在2011年2月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，Princess Sugar的第一作\[2\]，電腦CLUB（電脳CLUB）在2011年10月27日發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]後來在2012年由PoRO發售[OVA版](https://zh.wikipedia.org/wiki/OVA "wikilink")。\[4\]
 
 ## 故事
 
@@ -85,23 +83,13 @@ Sugar的第一作\[2\]，電腦CLUB（電脳CLUB）在2011年10月27日發售[DV
 ## 外部連結
 
   - [Princess Sugar](http://www.s-digi.jp/princess-sugar/)
-  - [姫様限定\! 〜Princess
-    Limited〜](http://www.s-digi.jp/princess-sugar/01-soft/01_himesama/index.html)Princess
-    Sugar
+  - [姫様限定\! 〜Princess Limited〜](http://www.s-digi.jp/princess-sugar/01-soft/01_himesama/index.html)Princess Sugar
 
-[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
-[Category:2012年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2012年日本成人動畫 "wikilink")
-[Category:公主主角題材作品](https://zh.wikipedia.org/wiki/Category:公主主角題材作品 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
+[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:2012年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2012年日本成人動畫 "wikilink") [Category:公主主角題材作品](https://zh.wikipedia.org/wiki/Category:公主主角題材作品 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
 
 1.
 
-2.  [姫様限定\! 〜Princess Limited〜
-    特集](http://game-style.jp/special/201102/02b/00lim_ps.php)Game-Style
+2.  [姫様限定\! 〜Princess Limited〜 特集](http://game-style.jp/special/201102/02b/00lim_ps.php)Game-Style
 
 3.
 

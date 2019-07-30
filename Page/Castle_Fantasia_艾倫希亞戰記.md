@@ -1,7 +1,4 @@
-是[Studio
-e.go\!於](../Page/Studio_e.go!.md "wikilink")2000年4月21日發售的[即時戰略類型](https://zh.wikipedia.org/wiki/即時戰略 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2003年7月25日發售重製版\[2\]，[PlayStation
-2版](../Page/PlayStation_2.md "wikilink")《Castle Fantasia 艾倫希亞戰記 Plus
-Stories》（）由[角川書店於](../Page/角川書店.md "wikilink")2005年2月24日發售。\[3\]中文版由臺灣的[信必優多媒體](https://zh.wikipedia.org/wiki/信必優多媒體 "wikilink")（SYMBIO）代理並於2000年9月29日發售。
+是[Studio e.go\!於](../Page/Studio_e.go!.md "wikilink")2000年4月21日發售的[即時戰略類型](https://zh.wikipedia.org/wiki/即時戰略 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2003年7月25日發售重製版\[2\]，[PlayStation 2版](../Page/PlayStation_2.md "wikilink")《Castle Fantasia 艾倫希亞戰記 Plus Stories》（）由[角川書店](../Page/角川書店.md "wikilink")於2005年2月24日發售。\[3\]中文版由臺灣的[信必優多媒體](https://zh.wikipedia.org/wiki/信必優多媒體 "wikilink")（SYMBIO）代理並於2000年9月29日發售。
 
 ## 故事
 
@@ -35,8 +32,7 @@ Stories》（）由[角川書店於](../Page/角川書店.md "wikilink")2005年2
 ## 主題曲
 
   - PC版片頭曲「Burning Heart」
-    作詞：[Studio
-    e.go\!](../Page/Studio_e.go!.md "wikilink")，作曲：ぴょんも，歌：藤原里香\[4\]
+    作詞：[Studio e.go\!](../Page/Studio_e.go!.md "wikilink")，作曲：ぴょんも，歌：藤原里香\[4\]
   - PS2版片頭曲「」
     作詞、作曲：藤村みわ子，編曲：山本ヒロアキ，歌：[村田あゆみ](https://zh.wikipedia.org/wiki/村田あゆみ "wikilink")\[5\]
   - 重製版片尾曲「Burning Heart '03」
@@ -46,26 +42,16 @@ Stories》（）由[角川書店於](../Page/角川書店.md "wikilink")2005年2
 
 ## 評價
 
-《[Fami通](../Page/Fami通.md "wikilink")》846號的クロスレビュー對PlayStation
-2版給予26/40評分。\[6\]
+《[Fami通](../Page/Fami通.md "wikilink")》846號的クロスレビュー對PlayStation 2版給予26/40評分。\[6\]
 
 ## 參考來源
 
 ## 外部連結
 
-  - [キャッスルファンタジア エレンシア戦記
-    リニューアル](https://web.archive.org/web/20110614064649/http://www.studio-ego.co.jp/ego/game/cf3r/cf3r.html)Studio
-    e.go\!
-  - [キャッスルファンタジア エレンシア戦記
-    プラスストーリーズ](https://web.archive.org/web/20140820163914/http://www.kadokawa.co.jp/game/game/castle_f/index.html)角川書店
+  - [キャッスルファンタジア エレンシア戦記 リニューアル](https://web.archive.org/web/20110614064649/http://www.studio-ego.co.jp/ego/game/cf3r/cf3r.html)Studio e.go\!
+  - [キャッスルファンタジア エレンシア戦記 プラスストーリーズ](https://web.archive.org/web/20140820163914/http://www.kadokawa.co.jp/game/game/castle_f/index.html)角川書店
 
-[Category:2000年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2000年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink")
-[Category:即時戰略遊戲](https://zh.wikipedia.org/wiki/Category:即時戰略遊戲 "wikilink")
-[Category:虛構僱傭兵](https://zh.wikipedia.org/wiki/Category:虛構僱傭兵 "wikilink")
-[Category:Studio_e.go\!](https://zh.wikipedia.org/wiki/Category:Studio_e.go! "wikilink")
+[Category:2000年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2000年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:即時戰略遊戲](https://zh.wikipedia.org/wiki/Category:即時戰略遊戲 "wikilink") [Category:虛構僱傭兵](https://zh.wikipedia.org/wiki/Category:虛構僱傭兵 "wikilink") [Category:Studio_e.go\!](https://zh.wikipedia.org/wiki/Category:Studio_e.go! "wikilink")
 
 1.
 2.

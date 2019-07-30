@@ -1,4 +1,4 @@
-**白原路線**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[跨區捷運公司服務](../Page/跨區捷運公司.md "wikilink")[布朗克斯中部的](../Page/布朗克斯.md "wikilink")[地鐵路線](../Page/地鐵.md "wikilink")。它主要為高架，並同時服務地鐵和國鐵列車直至1952年\[1\]。路線的原初部分，作為首條地鐵啟用的部分被稱為西農莊分部，而北延至241街則為雙重合約的一部分，被稱為白原路線，但最終全線都被稱為白原路線。
+**白原路線**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[跨區捷運公司](../Page/跨區捷運公司.md "wikilink")服務[布朗克斯](../Page/布朗克斯.md "wikilink")中部的[地鐵](../Page/地鐵.md "wikilink")路線。它主要為高架，並同時服務地鐵和國鐵列車直至1952年\[1\]。路線的原初部分，作為首條地鐵啟用的部分被稱為西農莊分部，而北延至241街則為雙重合約的一部分，被稱為白原路線，但最終全線都被稱為白原路線。
 
 現時被用作[2號線列車任何時候停站的慢車](https://zh.wikipedia.org/wiki/紐約地鐵2號線 "wikilink")，與[5號線任何時候停站除尖峰時段尖峰方向](../Page/紐約地鐵5號線.md "wikilink")（以快車運行來回[東180街與](https://zh.wikipedia.org/wiki/東180街車站_\(IRT白原路線\) "wikilink")[第三大道-149街](https://zh.wikipedia.org/wiki/第三大道-149街車站_\(IRT白原路線\) "wikilink")）和深夜（以接駁線形式運行來回[伊斯徹斯特-代里大道與東](https://zh.wikipedia.org/wiki/伊斯徹斯特-代里大道車站_\(IRT代里大道線\) "wikilink")180街）外停站的快車。
 
@@ -186,7 +186,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/IRT代里大道線.md" title="wikilink">IRT代里大道線匯入</a>（）</p></td>
+<td><p><a href="../Page/IRT代里大道線.md" title="wikilink">IRT代里大道線</a>匯入（）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -373,8 +373,7 @@
 
 ## 參考資料
 
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1904年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1904年啟用的鐵路線 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1904年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1904年啟用的鐵路線 "wikilink")
 
 1.
 

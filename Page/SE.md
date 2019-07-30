@@ -13,8 +13,7 @@
 
   - [欧洲股份公司](../Page/欧洲股份公司.md "wikilink")（SE），欧洲上市公司
 
-  - [索尼爱立信](https://zh.wikipedia.org/wiki/索尼爱立信 "wikilink")（Sony
-    Ericsson），由索尼和爱立信组成的移动电话公司
+  - [索尼爱立信](https://zh.wikipedia.org/wiki/索尼爱立信 "wikilink")（Sony Ericsson），由索尼和爱立信组成的移动电话公司
 
   - [史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")，一家电子游戏公司
 
@@ -77,8 +76,7 @@
 
   - “System Expansion”，苹果公司制造的个人计算机
 
-  - [Java SE](https://zh.wikipedia.org/wiki/Java_SE "wikilink")“Standard
-    Edition”，一种计算机语言
+  - [Java SE](https://zh.wikipedia.org/wiki/Java_SE "wikilink")“Standard Edition”，一种计算机语言
 
   - [软件工程](../Page/软件工程.md "wikilink")
 
@@ -91,8 +89,7 @@
 
   - [日本度量衡中的面积单位](https://zh.wikipedia.org/wiki/日本度量衡 "wikilink")-{畝}-的罗马字
 
-  - Mercedes-Benz SE, "Sonderklasse Einspritzung" (Special or Super
-    Class Fuel Injected)汽车，另见
+  - Mercedes-Benz SE, "Sonderklasse Einspritzung" (Special or Super Class Fuel Injected)汽车，另见
 
   - [薛定谔方程](../Page/薛定谔方程.md "wikilink")
 
@@ -106,8 +103,7 @@
 
   - ，一个关于生态的世界观
 
-  - Split
-    End，[美式足球中的一种](../Page/美式足球.md "wikilink")[外接員](https://zh.wikipedia.org/wiki/外接員 "wikilink")
+  - Split End，[美式足球](../Page/美式足球.md "wikilink")中的一种[外接員](https://zh.wikipedia.org/wiki/外接員 "wikilink")
 
   - [证券交易所](../Page/证券交易所.md "wikilink")
 

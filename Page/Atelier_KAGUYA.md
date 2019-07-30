@@ -1,7 +1,4 @@
-**Atelier
-KAGUYA**（アトリエかぐや）是日本アステックトゥーワン公司的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，簡稱「竹子社」。\[1\]\[2\]該品牌是由數個團隊組成，最早是由**TEAM
-HEARTBEAT**和**Berkshire Yorkshire**兩團隊為主，目前只有**Honky-Tonk
-Pumpkin**、**TEAM Gassa-Q**、**Cheshier cat**、**BARE & BUNNY**還有製作發售遊戲。
+**Atelier KAGUYA**（アトリエかぐや）是日本アステックトゥーワン公司的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，簡稱「竹子社」。\[1\]\[2\]該品牌是由數個團隊組成，最早是由**TEAM HEARTBEAT**和**Berkshire Yorkshire**兩團隊為主，目前只有**Honky-Tonk Pumpkin**、**TEAM Gassa-Q**、**Cheshier cat**、**BARE & BUNNY**還有製作發售遊戲。
 
 ## 歷史
 
@@ -9,14 +6,10 @@ Pumpkin**、**TEAM Gassa-Q**、**Cheshier cat**、**BARE & BUNNY**還有製作�
   - 2004年成立**DREIZEHN**。
   - 2007年成立**Honky-Tonk Pumpkin**。
   - 2009年成立**P-ch**。
-  - 2010年Berkshire Yorkshire的原畫[choco
-    chip辭職](https://zh.wikipedia.org/wiki/choco_chip "wikilink")。\[3\]
-  - 2011年8月負責企劃的桐生タツヒコ和TEAM
-    HEARTBEAT的原畫M\&M等部分工作人員辭職後到アルカディアワークス公司成立新品牌**Astronauts**
-    （アストロノーツ）。
+  - 2010年Berkshire Yorkshire的原畫[choco chip辭職](https://zh.wikipedia.org/wiki/choco_chip "wikilink")。\[3\]
+  - 2011年8月負責企劃的桐生タツヒコ和TEAM HEARTBEAT的原畫M\&M等部分工作人員辭職後到アルカディアワークス公司成立新品牌**Astronauts** （アストロノーツ）。
   - 2012年成立**TEAM Gassa-Q**。
-  - 2013年成立**Cheshier cat**、**Fortissimo ff**、**BARE & BUNNY**，choco
-    chip復職並擔任BARE & BUNNY的原畫。
+  - 2013年成立**Cheshier cat**、**Fortissimo ff**、**BARE & BUNNY**，choco chip復職並擔任BARE & BUNNY的原畫。
 
 ## 作品列表
 
@@ -64,10 +57,8 @@ Pumpkin**、**TEAM Gassa-Q**、**Cheshier cat**、**BARE & BUNNY**還有製作�
   - 2003年7月25日 ドキドキお姉さん
   - 2004年2月27日
   - 2004年9月24日 ナースにおまかせ
-  - 2005年4月28日 [家庭教師のおねえさん
-    ～Hの偏差値あげちゃいます～](../Page/家庭教師大姊姊.md "wikilink")
-  - 2005年11月25日 [姉汁
-    〜白川三姉妹におまかせ〜](https://zh.wikipedia.org/wiki/姐汁_～交給白川三姐妹吧～ "wikilink")
+  - 2005年4月28日 [家庭教師のおねえさん ～Hの偏差値あげちゃいます～](../Page/家庭教師大姊姊.md "wikilink")
+  - 2005年11月25日 [姉汁 〜白川三姉妹におまかせ〜](https://zh.wikipedia.org/wiki/姐汁_～交給白川三姐妹吧～ "wikilink")
   - 2006年6月30日 School ぷろじぇくと☆
   - 2007年2月23日 幼なじみと甘〜くエッチに過ごす方法
   - 2007年9月28日
@@ -161,11 +152,8 @@ Pumpkin**、**TEAM Gassa-Q**、**Cheshier cat**、**BARE & BUNNY**還有製作�
 
   - [アトリエかぐや](http://www.a-kaguya.com/)
 
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:西區_(大阪市)](https://zh.wikipedia.org/wiki/Category:西區_\(大阪市\) "wikilink")
+[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:西區_(大阪市)](https://zh.wikipedia.org/wiki/Category:西區_\(大阪市\) "wikilink")
 
 1.  [スタッフ募集](http://www.a-kaguya.com/recruit/recruit.html)アトリエかぐや
 2.  [Atelier Kaguya](https://vndb.org/p171)The Visual Novel Database
-3.  [原画家choco
-    chip氏、アトリエかぐやを退社](https://web.archive.org/web/20110118081807/http://www.2dnews.net/news_yEN7vuAZx.html)二次元新聞
+3.  [原画家choco chip氏、アトリエかぐやを退社](https://web.archive.org/web/20110118081807/http://www.2dnews.net/news_yEN7vuAZx.html)二次元新聞

@@ -1,7 +1,6 @@
 \-- This module is a replacement for the RfX report bot.
 
-local rfx = require( 'Module:Rfx' ) local colours = mw.loadData(
-'Module:RFX report/colour' )
+local rfx = require( 'Module:Rfx' ) local colours = mw.loadData( 'Module:RFX report/colour' )
 
 local p = {}
 
@@ -33,13 +32,7 @@ local function makeRow( rfxObject )
 `       votes = mw.ustring.format( [==[`
 `       `
 
-| style="text-align: right;%s" |
-[%d](https://zh.wikipedia.org/wiki/%s#Support "wikilink") |
-style="text-align: right;%s" |
-[%d](https://zh.wikipedia.org/wiki/%s#Oppose "wikilink") |
-style="text-align: right;%s" |
-[%d](https://zh.wikipedia.org/wiki/%s#Neutral "wikilink") |
-style="text-align: right; background: \#%s;" | %d\]==\],
+| style="text-align: right;%s" | [%d](https://zh.wikipedia.org/wiki/%s#Support "wikilink") | style="text-align: right;%s" | [%d](https://zh.wikipedia.org/wiki/%s#Oppose "wikilink") | style="text-align: right;%s" | [%d](https://zh.wikipedia.org/wiki/%s#Neutral "wikilink") | style="text-align: right; background: \#%s;" | %d\]==\],
 
 `           styleInline, page, supports,`
 `           styleInline, page, opposes,`

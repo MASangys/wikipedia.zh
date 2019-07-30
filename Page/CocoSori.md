@@ -6,19 +6,15 @@
 
 ### 出道前
 
-[Coco為](https://zh.wikipedia.org/wiki/Coco_\(歌手\) "wikilink")[Star
-Planet娛樂旗下女子團體](https://zh.wikipedia.org/wiki/Star_Planet娛樂 "wikilink")[BLADY前成員](../Page/BLADY.md "wikilink")，以二期成員身份在2013年11月18日發行第二張單曲EP《[B型女孩](https://zh.wikipedia.org/wiki/Blady\`s_2nd_Single_Album_Blood_Type_B_Girl "wikilink")》\[1\]，並正式出道。
+[Coco為](https://zh.wikipedia.org/wiki/Coco_\(歌手\) "wikilink")[Star Planet娛樂旗下女子團體](https://zh.wikipedia.org/wiki/Star_Planet娛樂 "wikilink")[BLADY](../Page/BLADY.md "wikilink")前成員，以二期成員身份在2013年11月18日發行第二張單曲EP《[B型女孩](https://zh.wikipedia.org/wiki/Blady\`s_2nd_Single_Album_Blood_Type_B_Girl "wikilink")》\[1\]，並正式出道。
 
-除此之外，[Coco亦為前](https://zh.wikipedia.org/wiki/Coco_\(歌手\) "wikilink")[MBK娛樂練習生](../Page/MBK娛樂.md "wikilink")，曾與前[T-ara成員](https://zh.wikipedia.org/wiki/T-ara "wikilink")[雅凜](https://zh.wikipedia.org/wiki/李雅凜 "wikilink")、[Kara成員](../Page/Kara.md "wikilink")[齡智](../Page/許齡智.md "wikilink")、[WANNA.B成員LINA](../Page/WANNA.B.md "wikilink")、現為健身模特的**宋雅凜**以及當時的練習生**金侑珍**組成為當時打算在2012年至2013年出道的新女團，亦因此與同期練習生（即[The
-SeeYa成員](../Page/The_SeeYa.md "wikilink")）成為朋友。
+除此之外，[Coco亦為前](https://zh.wikipedia.org/wiki/Coco_\(歌手\) "wikilink")[MBK娛樂](../Page/MBK娛樂.md "wikilink")練習生，曾與前[T-ara成員](https://zh.wikipedia.org/wiki/T-ara "wikilink")[雅凜](https://zh.wikipedia.org/wiki/李雅凜 "wikilink")、[Kara](../Page/Kara.md "wikilink")成員[齡智](../Page/許齡智.md "wikilink")、[WANNA.B](../Page/WANNA.B.md "wikilink")成員LINA、現為健身模特的**宋雅凜**以及當時的練習生**金侑珍**組成為當時打算在2012年至2013年出道的新女團，亦因此與同期練習生（即[The SeeYa成員](../Page/The_SeeYa.md "wikilink")）成為朋友。
 
 2014年尾，[Coco退出](https://zh.wikipedia.org/wiki/Coco_\(歌手\) "wikilink")[BLADY](../Page/BLADY.md "wikilink")。
 
-2015年12月30日，CocoSori於[2015
-SBS演藝大賞表演特別舞臺](https://zh.wikipedia.org/wiki/SBS演藝大賞 "wikilink")，為首次公開表演\[2\]。
+2015年12月30日，CocoSori於[2015 SBS演藝大賞表演特別舞臺](https://zh.wikipedia.org/wiki/SBS演藝大賞 "wikilink")，為首次公開表演\[2\]。
 
-2016年1月2日，CocoSori出演[Show\!
-音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")，為首次在音樂節目亮相。
+2016年1月2日，CocoSori出演[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")，為首次在音樂節目亮相。
 
 ### 2016年：韓國出道、首次回歸、日本出道
 
@@ -28,17 +24,11 @@ SBS演藝大賞表演特別舞臺](https://zh.wikipedia.org/wiki/SBS演藝大賞
 
 2016年8月16日，CocoSori在日本出道，並發行出道單曲《愛しのマーメイド》，單曲分為A版和B版。
 
-2016年8月25日，[Sori以企劃團體](https://zh.wikipedia.org/wiki/素麗_\(1990年出生\) "wikilink")[Real
-Girls
-Project成員身份出道](../Page/Real_Girls_Project.md "wikilink")，並發行出道單曲《꿈을
-Dream》。
+2016年8月25日，[Sori以企劃團體](https://zh.wikipedia.org/wiki/素麗_\(1990年出生\) "wikilink")[Real Girls Project成員身份出道](../Page/Real_Girls_Project.md "wikilink")，並發行出道單曲《꿈을 Dream》。
 
 ### 2017年：首次挑戰演技
 
-2017年3月31日，[Sori以企劃團體](https://zh.wikipedia.org/wiki/素麗_\(1990年出生\) "wikilink")[Real
-Girls
-Project的子團](../Page/Real_Girls_Project.md "wikilink")[B-Side成員活動](https://zh.wikipedia.org/wiki/B-Side "wikilink")，並發行單曲《THE
-IDOLM@STER》。
+2017年3月31日，[Sori以企劃團體](https://zh.wikipedia.org/wiki/素麗_\(1990年出生\) "wikilink")[Real Girls Project的子團](../Page/Real_Girls_Project.md "wikilink")[B-Side成員活動](https://zh.wikipedia.org/wiki/B-Side "wikilink")，並發行單曲《THE IDOLM@STER》。
 
 2017年4月28日，[Sori與](https://zh.wikipedia.org/wiki/素麗_\(1990年出生\) "wikilink")[Coco參演的電視劇](https://zh.wikipedia.org/wiki/Coco_\(歌手\) "wikilink")《[偶像大師.KR](../Page/偶像大師.KR.md "wikilink")》播出。
 
@@ -46,8 +36,7 @@ IDOLM@STER》。
 
 ### 2018年：solo起跑
 
-2018年1月26日，《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》最後1集播出，[Sori雖是女子組TOP](https://zh.wikipedia.org/wiki/素麗_\(1990年出生\) "wikilink")
-9中第7名，可惜最後由男子組勝出，未能組成女子企劃團體出道。
+2018年1月26日，《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》最後1集播出，[Sori雖是女子組TOP](https://zh.wikipedia.org/wiki/素麗_\(1990年出生\) "wikilink") 9中第7名，可惜最後由男子組勝出，未能組成女子企劃團體出道。
 
 2018年9月4日，[Sori在首爾舉行了個人出道showcase](https://zh.wikipedia.org/wiki/素麗_\(1990年出生\) "wikilink")，主打單曲《Touch》與BASICK合作。
 
@@ -149,7 +138,7 @@ B版</strong></p></td>
 </tbody>
 </table>
 
-## Coco於[BLADY時期作品](../Page/BLADY.md "wikilink")
+## Coco於[BLADY](../Page/BLADY.md "wikilink")時期作品
 
 <table>
 <thead>
@@ -200,12 +189,8 @@ B版</strong></p></td>
   -
   -
   -
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:2019年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年解散的音樂團體 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:2019年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年解散的音樂團體 "wikilink")
 
 1.
-2.  [코코소리, 쌍둥이 자매같은
-    걸그룹](http://stoo.asiae.co.kr/news/naver_view.htm?idxno=2015123014042019686)
+2.  [코코소리, 쌍둥이 자매같은 걸그룹](http://stoo.asiae.co.kr/news/naver_view.htm?idxno=2015123014042019686)
 3.

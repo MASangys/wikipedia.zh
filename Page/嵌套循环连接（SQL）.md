@@ -1,5 +1,4 @@
-连接
-(SQL)操作是数据库管理中重要的一环，而嵌套循环连接是通过嵌套的循环语句把多个表连接起来的简单[算法](../Page/算法.md "wikilink")，但是效率并不理想。
+连接 (SQL)操作是数据库管理中重要的一环，而嵌套循环连接是通过嵌套的循环语句把多个表连接起来的简单[算法](../Page/算法.md "wikilink")，但是效率并不理想。
 
 ## 算法内容
 
@@ -10,16 +9,13 @@
 `        If r and s satisfy the join condition`
 `           Then output the tuple <r,s>`
 
-这种算法将会从硬盘中读取 n<sub>r</sub>\*b<sub>s</sub>+ b<sub>r</sub> 个页，
-b<sub>r</sub> 和 b<sub>s</sub> 是R和S表所占用的页的个数，
-n<sub>r</sub> 是R表中的[记录数](../Page/记录.md "wikilink")。
+这种算法将会从硬盘中读取 n<sub>r</sub>\*b<sub>s</sub>+ b<sub>r</sub> 个页， b<sub>r</sub> 和 b<sub>s</sub> 是R和S表所占用的页的个数， n<sub>r</sub> 是R表中的[记录](../Page/记录.md "wikilink")数。
 
 这种算法的IO次数为 \(O(|R||S|)\)，\(|R|\)\(|S|\)
 
 ## 改进方法
 
-这种算法可以通过更改循环的嵌套方式减少硬盘的访问次数到 b<sub>r</sub>\*b<sub>s</sub>+
-b<sub>r</sub> 次。 对于R表的每一页，S的每一个记录只需要被读一次。
+这种算法可以通过更改循环的嵌套方式减少硬盘的访问次数到 b<sub>r</sub>\*b<sub>s</sub>+ b<sub>r</sub> 次。 对于R表的每一页，S的每一个记录只需要被读一次。
 
 `  For each block block_r in R do`
 `     For each tuple s in S do`

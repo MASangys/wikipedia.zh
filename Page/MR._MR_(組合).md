@@ -1,16 +1,12 @@
-**MR.
-MR**（），為[韓國E](https://zh.wikipedia.org/wiki/韓國 "wikilink")-HO娛樂的6人男子組合，出道時為5人組合，於2012年10月4日，發行數碼單曲《Who's
-That Girl》，主打曲為單曲同名歌曲《Who\`s That Girl》。\[1\]
+**MR. MR**（），為[韓國E](https://zh.wikipedia.org/wiki/韓國 "wikilink")-HO娛樂的6人男子組合，出道時為5人組合，於2012年10月4日，發行數碼單曲《Who's That Girl》，主打曲為單曲同名歌曲《Who\`s That Girl》。\[1\]
 
-2012年10月5日，踏上[KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[Music
-Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》舞台作正式出道。\[2\]
+2012年10月5日，踏上[KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》舞台作正式出道。\[2\]
 
 2013年10月，原定加入第六名成員JI WON（）。\[3\]，但因為JI WON受傷，2013年11月，改為加入HON（）。\[4\]
 
 2014年2月，HON因捲入爭議事件而離團。\[5\]\[6\]\[7\]。\[8\]。
 
-2015年3月，RYU被公司單方面公布離團。\[9\]\[10\]，同時，加入JAE MIN（）和SANG
-HYUN（）。\[11\]\[12\]。
+2015年3月，RYU被公司單方面公布離團。\[9\]\[10\]，同時，加入JAE MIN（）和SANG HYUN（）。\[11\]\[12\]。
 
 ## 成員資料
 
@@ -367,10 +363,7 @@ HYUN（）。\[11\]\[12\]。
   - [MR. MR](http://cafe.daum.net/MR.MR)在Daum cafe的頁面
 
   -
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
+[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
 
 1.
 2.
@@ -384,6 +377,5 @@ HYUN（）。\[11\]\[12\]。
 10.
 11.
 12.
-13. [MR.
-    MR官方Twitter](https://twitter.com/thenmMRMR/status/976222547300687872)：「」
+13. [MR. MR官方Twitter](https://twitter.com/thenmMRMR/status/976222547300687872)：「」
 14. [MR.MR ジンに関するご報告](http://mrmrjapan.com/news/view/272)

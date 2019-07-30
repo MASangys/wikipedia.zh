@@ -1,33 +1,26 @@
-[BNKLogo.jpg](https://zh.wikipedia.org/wiki/File:BNKLogo.jpg "fig:BNKLogo.jpg")
-**BNK48**是一個由[秋元康擔任製作人](../Page/秋元康.md "wikilink")，以[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷為主要活動中心的女性偶像團體](../Page/曼谷.md "wikilink")，為[AKB48在日本以外成立的第](../Page/AKB48.md "wikilink")2支姊妹團體。
+[BNKLogo.jpg](https://zh.wikipedia.org/wiki/File:BNKLogo.jpg "fig:BNKLogo.jpg") **BNK48**是一個由[秋元康](../Page/秋元康.md "wikilink")擔任製作人，以[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")為主要活動中心的女性偶像團體，為[AKB48](../Page/AKB48.md "wikilink")在日本以外成立的第2支姊妹團體。
 
 ## 簡介
 
 ### 2016年
 
-3月26日，在[橫濱球場舉行的](../Page/橫濱球場.md "wikilink")「AKB48單獨演唱會」（）上，發表將成立BNK48、[TPE48及](https://zh.wikipedia.org/wiki/TPE48 "wikilink")[MNL48三個姊妹團體的消息](https://zh.wikipedia.org/wiki/MNL48 "wikilink")\[1\]\[2\]\[3\]。團體名稱中「**BNK**」以所在地[曼谷的簡寫](../Page/曼谷.md "wikilink")（**B**a**N**g**K**ok）命名，代表色紫羅蘭色則發想於泰國人民喜愛的蘭花\[4\]。
+3月26日，在[橫濱球場](../Page/橫濱球場.md "wikilink")舉行的「AKB48單獨演唱會」（）上，發表將成立BNK48、[TPE48及](https://zh.wikipedia.org/wiki/TPE48 "wikilink")[MNL48三個姊妹團體的消息](https://zh.wikipedia.org/wiki/MNL48 "wikilink")\[1\]\[2\]\[3\]。團體名稱中「**BNK**」以所在地[曼谷](../Page/曼谷.md "wikilink")的簡寫（**B**a**N**g**K**ok）命名，代表色紫羅蘭色則發想於泰國人民喜愛的蘭花\[4\]。
 
 7月29日，在首次官方活动中宣布正式開始招募成員。
 
-10月13日，泰王[普密蓬·阿杜德駕崩](../Page/普密蓬·阿杜德.md "wikilink")。團體籌備工作暫停以表示悼念\[5\]。原定10月20日進行的成員招募最終審查亦延期至12月18日進行。
+10月13日，泰王[普密蓬·阿杜德](../Page/普密蓬·阿杜德.md "wikilink")駕崩。團體籌備工作暫停以表示悼念\[5\]。原定10月20日進行的成員招募最終審查亦延期至12月18日進行。
 
 ### 2017年
 
-2月12日，於曼谷舉辦的「JAPAN EXPO THAILAND 2017」活動中正式介紹獲選的29名1期生成員（包含一位日籍成員）。
-[BNK48_-_Japan_Expo,_Bangkok_-_2017-09-01_(014b).jpg](https://zh.wikipedia.org/wiki/File:BNK48_-_Japan_Expo,_Bangkok_-_2017-09-01_\(014b\).jpg "fig:BNK48_-_Japan_Expo,_Bangkok_-_2017-09-01_(014b).jpg")
-[BNK48_-_Roadshow_-_2017-07-23_(003b).jpg](https://zh.wikipedia.org/wiki/File:BNK48_-_Roadshow_-_2017-07-23_\(003b\).jpg "fig:BNK48_-_Roadshow_-_2017-07-23_(003b).jpg")
+2月12日，於曼谷舉辦的「JAPAN EXPO THAILAND 2017」活動中正式介紹獲選的29名1期生成員（包含一位日籍成員）。 [BNK48_-_Japan_Expo,_Bangkok_-_2017-09-01_(014b).jpg](https://zh.wikipedia.org/wiki/File:BNK48_-_Japan_Expo,_Bangkok_-_2017-09-01_\(014b\).jpg "fig:BNK48_-_Japan_Expo,_Bangkok_-_2017-09-01_(014b).jpg") [BNK48_-_Roadshow_-_2017-07-23_(003b).jpg](https://zh.wikipedia.org/wiki/File:BNK48_-_Roadshow_-_2017-07-23_\(003b\).jpg "fig:BNK48_-_Roadshow_-_2017-07-23_(003b).jpg")
 
-4月13日，AKB48成員[伊豆田莉奈宣布將移籍至BNK](../Page/伊豆田莉奈.md "wikilink")48\[6\]。
+4月13日，AKB48成員[伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")宣布將移籍至BNK48\[6\]。
 
-6月2日，BNK48首次演出於曼谷的大型商場「EM
-Quartier」舉行\[7\]。伊豆田正式以BNK48成員身分參與演出\[8\]，營運單位正式任命[Cherprang
-Areekul為BNK](../Page/丘普朗·阿瑞昆.md "wikilink")48的首任隊長。
+6月2日，BNK48首次演出於曼谷的大型商場「EM Quartier」舉行\[7\]。伊豆田正式以BNK48成員身分參與演出\[8\]，營運單位正式任命[Cherprang Areekul為BNK](../Page/丘普朗·阿瑞昆.md "wikilink")48的首任隊長。
 
-8月8日，發行第1張單曲《Aitakatta
-》（AKB48《[好想見你](https://zh.wikipedia.org/wiki/好想見你 "wikilink")》泰語版）。\[9\]
+8月8日，發行第1張單曲《Aitakatta 》（AKB48《[好想見你](https://zh.wikipedia.org/wiki/好想見你 "wikilink")》泰語版）。\[9\]
 
-12月20日，發行第2張單曲《Koisuru Fortune Cookie
-》（AKB48《[戀愛的幸運餅乾](../Page/戀愛的幸運餅乾.md "wikilink")》泰語版）。
+12月20日，發行第2張單曲《Koisuru Fortune Cookie 》（AKB48《[戀愛的幸運餅乾](../Page/戀愛的幸運餅乾.md "wikilink")》泰語版）。
 
 12月24日，Team BIII正式成立，同時公布劇場開幕後首場公演的演出成員\[10\]。
 
@@ -37,14 +30,11 @@ Areekul為BNK](../Page/丘普朗·阿瑞昆.md "wikilink")48的首任隊長。
 
 3月31日－4月1日，举办了首场演唱会“STARTO”\[12\]。
 
-4月26日，結合BNK48劇場、BNK48商店、BNK48咖啡廳的「BNK48 Campus」於曼谷邦卡皮購物中心（The mall
-Bangkapi）4樓正式開幕\[13\]\[14\]。
+4月26日，結合BNK48劇場、BNK48商店、BNK48咖啡廳的「BNK48 Campus」於曼谷邦卡皮購物中心（The mall Bangkapi）4樓正式開幕\[13\]\[14\]。
 
 4月29日，在曼谷举办的「 in BANGKOK COMIC CON」中，2期生27人首次公开亮相\[15\]。
 
-5月5日－6日，於BNK48 The Campus舉辦「Founder
-Member」專屬公演「PARTY開始了」\[16\]，此場公演為BNK48
-The Campus正式開幕後首次舉辦的劇場公演。
+5月5日－6日，於BNK48 The Campus舉辦「Founder Member」專屬公演「PARTY開始了」\[16\]，此場公演為BNK48 The Campus正式開幕後首次舉辦的劇場公演。
 
 5月12日，於BNK48 The Campus舉辦Team BIII「PARTY開始了」的首場對外售票公演\[17\]。
 
@@ -56,14 +46,11 @@ The Campus正式開幕後首次舉辦的劇場公演。
 
 ### 2019年
 
-1月26日，「BNK48第6張單曲選拔總選舉」於舉行。\[21\]Team
-BIII的[Cherprang以](../Page/丘普朗·阿瑞昆.md "wikilink")84,195票获得第一，取得组合第6张单曲的Center\[22\]。
+1月26日，「BNK48第6張單曲選拔總選舉」於舉行。\[21\]Team BIII的[Cherprang以](../Page/丘普朗·阿瑞昆.md "wikilink")84,195票获得第一，取得组合第6张单曲的Center\[22\]。
 
 5月11日－12日，參加泰國駐日本大使館在東京舉辦的「泰國節」，第2度於該活動中登台表演\[23\]。
 
-6月2日、在[清迈举办的迷你演唱会及击掌会](https://zh.wikipedia.org/wiki/清迈 "wikilink")“BNK48
-Thank You & The
-Beginner”中，公布了将以清迈为据点组建姐妹团体[CGM48的消息](../Page/CGM48.md "wikilink")\[24\]\[25\]\[26\]。
+6月2日、在[清迈举办的迷你演唱会及击掌会](https://zh.wikipedia.org/wiki/清迈 "wikilink")“BNK48 Thank You & The Beginner”中，公布了将以清迈为据点组建姐妹团体[CGM48](../Page/CGM48.md "wikilink")的消息\[24\]\[25\]\[26\]。
 
 ## 成員
 
@@ -107,7 +94,8 @@ Beginner”中，公布了将以清迈为据点组建姐妹团体[CGM48的消息
 <td><p>2017年7月2日自AKB48移籍[29]<br />
 前AKB48 Team A（初代橫山）<br />
 前AKB48 Team B（倉持）<br />
-前AKB48 Team 4（高橋朱里）</p></td>
+前AKB48 Team 4（高橋朱里）<br />
+預定移籍至CGM48[30]</p></td>
 <td><p>21</p></td>
 </tr>
 <tr class="odd">
@@ -207,7 +195,7 @@ Beginner”中，公布了将以清迈为据点组建姐妹团体[CGM48的消息
 <td><p>Pimrapat Phadungwatanachok</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td><p>2018年9月18日－10月15日於AKB48進行短期留學[30][31]</p></td>
+<td><p>2018年9月18日－10月15日於AKB48進行短期留學[31][32]</p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="even">
@@ -281,7 +269,7 @@ Beginner”中，公布了将以清迈为据点组建姐妹团体[CGM48的消息
 Sachiya Hanami</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td><p>日本與泰國混血[32]</p></td>
+<td><p>日本與泰國混血[33]</p></td>
 <td><p>17</p></td>
 </tr>
 <tr class="even">
@@ -338,7 +326,7 @@ Sachiya Hanami</p></td>
 <td><p>Punyawee Jungcharoen</p></td>
 <td></td>
 <td><p>2期</p></td>
-<td></td>
+<td><p>預定移籍至CGM48[34]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -356,7 +344,7 @@ Sachiya Hanami</p></td>
 <td><p>Nawaporn Chansuk</p></td>
 <td></td>
 <td><p>2期</p></td>
-<td><p>預定於2019年8月11日畢業[33]</p></td>
+<td><p>預定於2019年8月11日畢業[35]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -607,7 +595,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>-</p></td>
 <td><p>2017年9月23日</p></td>
-<td><p>畢業[34]</p></td>
+<td><p>畢業[36]</p></td>
 </tr>
 <tr class="even">
 <td><p>Cincin</p></td>
@@ -617,7 +605,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>-</p></td>
 <td><p>2017年11月18日</p></td>
-<td><p>畢業[35]</p></td>
+<td><p>畢業[37]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Jan</p></td>
@@ -626,9 +614,9 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td><p>BIII</p></td>
-<td><p>2018年2月28日[36]</p></td>
+<td><p>2018年2月28日[38]</p></td>
 <td><p>畢業<br />
-所屬經紀公司為[37][38]</p></td>
+所屬經紀公司為[39][40]</p></td>
 </tr>
 <tr class="even">
 <td><p>Can</p></td>
@@ -638,7 +626,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>BIII</p></td>
 <td><p>2018年8月26日</p></td>
-<td><p>畢業[39]<br />
+<td><p>畢業[41]<br />
 所屬經紀公司為BNK48 Office</p></td>
 </tr>
 <tr class="odd">
@@ -679,7 +667,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>2018年2月12日</p></td>
 <td><p>丹麥與泰國混血<br />
-畢業[40]</p></td>
+畢業[42]</p></td>
 </tr>
 <tr class="even">
 <td><p>Maysa</p></td>
@@ -688,7 +676,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td><p>2018年10月31日</p></td>
-<td><p>畢業[41]</p></td>
+<td><p>畢業[43]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -980,7 +968,7 @@ Type B</p></td>
 
 ### 二期生
 
-  - 應徵總數：10782名\[42\]
+  - 應徵總數：10782名\[44\]
   - 徵選時間：2017年12月25日－2018年2月1日
   - 第一次審査：合格者約300名
   - 第二次審査（2018年2月中旬）：合格者94名
@@ -993,12 +981,11 @@ Type B</p></td>
 
 ## 劇場公演
 
-自2018年5月起、组合与专属剧场“BNK48劇場”进行定期公演\[43\]。
-[BNK48_theater.jpg](https://zh.wikipedia.org/wiki/File:BNK48_theater.jpg "fig:BNK48_theater.jpg")
+自2018年5月起、组合与专属剧场“BNK48劇場”进行定期公演\[45\]。 [BNK48_theater.jpg](https://zh.wikipedia.org/wiki/File:BNK48_theater.jpg "fig:BNK48_theater.jpg")
 
 ### Team BIII
 
-1.  [PARTY開始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」#BNK48_Team_BIII_1st_Stage「PARTY開始了」公演 "wikilink")：2018年5月12日\[44\]－\[45\]
+1.  [PARTY開始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」#BNK48_Team_BIII_1st_Stage「PARTY開始了」公演 "wikilink")：2018年5月12日\[46\]－\[47\]
 
 ### 研究生
 
@@ -1091,12 +1078,7 @@ Bluport Huahin</p></td>
   -
   -
   -
-[Category:BNK48](https://zh.wikipedia.org/wiki/Category:BNK48 "wikilink")
-[Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink")
-[Category:泰國女子演唱團體](https://zh.wikipedia.org/wiki/Category:泰國女子演唱團體 "wikilink")
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
-[Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink")
-[Category:曼谷文化](https://zh.wikipedia.org/wiki/Category:曼谷文化 "wikilink")
+[Category:BNK48](https://zh.wikipedia.org/wiki/Category:BNK48 "wikilink") [Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink") [Category:泰國女子演唱團體](https://zh.wikipedia.org/wiki/Category:泰國女子演唱團體 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink") [Category:曼谷文化](https://zh.wikipedia.org/wiki/Category:曼谷文化 "wikilink")
 
 1.
 
@@ -1164,7 +1146,6 @@ Bluport Huahin</p></td>
 33.
 
 34.
-
 35.
 
 36.
@@ -1182,6 +1163,10 @@ Bluport Huahin</p></td>
 42.
 
 43.
-44. 于同月6 - 7日举行了面向Founder Member，不对外售票的首演
+
+44.
 
 45.
+46. 于同月6 - 7日举行了面向Founder Member，不对外售票的首演
+
+47.

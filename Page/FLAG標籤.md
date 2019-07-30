@@ -4,11 +4,9 @@ FLAG標籤最早由於1984年由門罗（Munro）和佩勒姆（Pelham）在論�
 
 ## 序列
 
-FLAG標籤的[氨基酸序列是](../Page/氨基酸.md "wikilink")：
+FLAG標籤的[氨基酸](../Page/氨基酸.md "wikilink")序列是：
 
-  - DYKDDDDK（D=Asp（[天冬氨酸](../Page/天冬氨酸.md "wikilink")）,
-    Y=Tyr（[酪氨酸](../Page/酪氨酸.md "wikilink")）,
-    K=Lys（[賴氨酸](https://zh.wikipedia.org/wiki/賴氨酸 "wikilink")））\[5\]
+  - DYKDDDDK（D=Asp（[天冬氨酸](../Page/天冬氨酸.md "wikilink")）, Y=Tyr（[酪氨酸](../Page/酪氨酸.md "wikilink")）, K=Lys（[賴氨酸](https://zh.wikipedia.org/wiki/賴氨酸 "wikilink")））\[5\]
 
 ## 參見
 

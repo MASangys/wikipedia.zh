@@ -1,12 +1,10 @@
-Godot是多功能、跨平台的2D/3D開源遊戲引擎，可用於多主流平台（[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[Linux](../Page/Linux.md "wikilink")）及移動端（[Android](../Page/Android.md "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")）和[HTML5](../Page/HTML5.md "wikilink")
-網頁端。
+Godot是多功能、跨平台的2D/3D開源遊戲引擎，可用於多主流平台（[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[Linux](../Page/Linux.md "wikilink")）及移動端（[Android](../Page/Android.md "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")）和[HTML5](../Page/HTML5.md "wikilink") 網頁端。
 
 ## 目前發展概況
 
-Godot在[MIT許可證下完全免費且](../Page/MIT許可證.md "wikilink")[開源](../Page/开源软件.md "wikilink")。用戶的遊戲乃至引擎的每一行代碼，都屬於用戶自己。Godot的開發是完全獨立且由社區驅動的，允許用戶按照自己的期望去雕塑他們的引擎。它受到
-[軟體自由保護組織](../Page/软件自由保护组织.md "wikilink") 的支持。
+Godot在[MIT許可證](../Page/MIT許可證.md "wikilink")下完全免費且[開源](../Page/开源软件.md "wikilink")。用戶的遊戲乃至引擎的每一行代碼，都屬於用戶自己。Godot的開發是完全獨立且由社區驅動的，允許用戶按照自己的期望去雕塑他們的引擎。它受到 [軟體自由保護組織](../Page/软件自由保护组织.md "wikilink") 的支持。
 
-由於其發展特性，目前開發組依賴[Patreon使更多網路社區專業人士以全職身分投入開發新功能](../Page/Patreon.md "wikilink")、優化的工作。
+由於其發展特性，目前開發組依賴[Patreon](../Page/Patreon.md "wikilink")使更多網路社區專業人士以全職身分投入開發新功能、優化的工作。
 
 ## 主要特色
 

@@ -1,15 +1,12 @@
-**蕾貝卡·瑪莉·戈梅茲**（，\[1\]）或簡稱**貝姬·G**（）是一位[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")、[詞曲作家](../Page/詞曲作家.md "wikilink")、[饒舌歌手](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")、[演員和](../Page/演員.md "wikilink")[模特兒](../Page/模特兒.md "wikilink")。
+**蕾貝卡·瑪莉·戈梅茲**（，\[1\]），藝名**貝琪·G**（），是一名美國歌手、詞曲作家及演員。
 
-貝姬·G首次被認可是她於2011年開始在網上張貼自己詮釋流行歌曲的影片開始。這使自己受到了製片人[路克博士的關注](https://zh.wikipedia.org/wiki/路克博士 "wikilink")，後來她與和[RCA唱片共同簽約](../Page/RCA唱片.md "wikilink")。貝姬·G為了能推出首張專輯，便開始與[will.i.am和](https://zh.wikipedia.org/wiki/will.i.am "wikilink")[寇弟·辛普森合作](../Page/寇弟·辛普森.md "wikilink")。她的首張專輯《*Becky
-from the Block*》於2013年推出，這獲得了正面的迴響。
+貝琪·G首次被認可是她於2011年開始在網上張貼自己詮釋流行歌曲的影片開始。這使自己受到了製作人[路克博士的關注](https://zh.wikipedia.org/wiki/路克博士 "wikilink")，後來她與和[RCA唱片](../Page/RCA唱片.md "wikilink")共同簽約。貝琪·G為了能推出首張專輯，便開始與[will.i.am和](https://zh.wikipedia.org/wiki/will.i.am "wikilink")[寇弟·辛普森](../Page/寇弟·辛普森.md "wikilink")合作。她的首張專輯《*Becky from the Block*》於2013年推出，這獲得了正面的迴響。
 
 2017年，她在電影《[金剛戰士](https://zh.wikipedia.org/wiki/金剛戰士_\(2017年電影\) "wikilink")》中飾演黃戰士。
 
 ## 早期生活
 
-貝姬·G出生於[英格爾伍德](../Page/英格爾伍德_\(加利福尼亞州\).md "wikilink")\[2\]。她是亞歷杭德拉（Alejandra）和法蘭西斯柯·「法蘭克」·戈梅茲（Francisco
-"Frank"
-Gomez）的女兒，貝姬·G本身是墨西哥裔\[3\]。貝姬·G有著兩個哥哥法蘭基（Frankie）和亞里士（Alex），以及一個妹妹史蒂芬妮（Stephanie）\[4\]。為了幫助家庭的生計，她開始兼職做商業廣告的活動\[5\]。她最初就讀公立學校，但後因被霸凌而不得不改接受家庭教育。
+貝姬·G出生於[英格爾伍德](../Page/英格爾伍德_\(加利福尼亞州\).md "wikilink")\[2\]。她是亞歷杭德拉（Alejandra）和法蘭西斯柯·「法蘭克」·戈梅茲（Francisco "Frank" Gomez）的女兒，貝姬·G本身是墨西哥裔\[3\]。貝姬·G有著兩個哥哥法蘭基（Frankie）和亞里士（Alex），以及一個妹妹史蒂芬妮（Stephanie）\[4\]。為了幫助家庭的生計，她開始兼職做商業廣告的活動\[5\]。她最初就讀公立學校，但後因被霸凌而不得不改接受家庭教育。
 
 ## 作品列表
 
@@ -111,24 +108,10 @@ Gomez）的女兒，貝姬·G本身是墨西哥裔\[3\]。貝姬·G有著兩個�
   -
   -
   -
-[Category:1997年出生](https://zh.wikipedia.org/wiki/Category:1997年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:21世紀美國歌手](https://zh.wikipedia.org/wiki/Category:21世紀美國歌手 "wikilink")
-[Category:美國兒童歌手](https://zh.wikipedia.org/wiki/Category:美國兒童歌手 "wikilink")
-[Category:美國舞曲音樂家](https://zh.wikipedia.org/wiki/Category:美國舞曲音樂家 "wikilink")
-[Category:美國電影女演員](https://zh.wikipedia.org/wiki/Category:美國電影女演員 "wikilink")
-[Category:美國電視女演員](https://zh.wikipedia.org/wiki/Category:美國電視女演員 "wikilink")
-[Category:美國饒舌歌手](https://zh.wikipedia.org/wiki/Category:美國饒舌歌手 "wikilink")
-[Category:美国流行音乐歌手](https://zh.wikipedia.org/wiki/Category:美国流行音乐歌手 "wikilink")
-[Category:美国女歌手](https://zh.wikipedia.org/wiki/Category:美国女歌手 "wikilink")
-[Category:墨西哥裔美國人](https://zh.wikipedia.org/wiki/Category:墨西哥裔美國人 "wikilink")
-[Category:加利福尼亚音乐家](https://zh.wikipedia.org/wiki/Category:加利福尼亚音乐家 "wikilink")
+[Category:1997年出生](https://zh.wikipedia.org/wiki/Category:1997年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:21世紀美國歌手](https://zh.wikipedia.org/wiki/Category:21世紀美國歌手 "wikilink") [Category:美國兒童歌手](https://zh.wikipedia.org/wiki/Category:美國兒童歌手 "wikilink") [Category:美國舞曲音樂家](https://zh.wikipedia.org/wiki/Category:美國舞曲音樂家 "wikilink") [Category:美國電影女演員](https://zh.wikipedia.org/wiki/Category:美國電影女演員 "wikilink") [Category:美國電視女演員](https://zh.wikipedia.org/wiki/Category:美國電視女演員 "wikilink") [Category:美國饒舌歌手](https://zh.wikipedia.org/wiki/Category:美國饒舌歌手 "wikilink") [Category:美国流行音乐歌手](https://zh.wikipedia.org/wiki/Category:美国流行音乐歌手 "wikilink") [Category:美国女歌手](https://zh.wikipedia.org/wiki/Category:美国女歌手 "wikilink") [Category:墨西哥裔美國人](https://zh.wikipedia.org/wiki/Category:墨西哥裔美國人 "wikilink") [Category:加利福尼亚音乐家](https://zh.wikipedia.org/wiki/Category:加利福尼亚音乐家 "wikilink")
 
 1.
 2.
-3.  Mendizaba, Amaya (May 29, 2014) [Becky G, Dr. Luke Land First Latin
-    No. 1 With 'Can't Get
-    Enough'](http://www.billboard.com/articles/columns/latin-notas/6106212/becky-g-dr-luke-land-first-latin-no-1-with-cant-get-enough).
-    Billboard.com
+3.  Mendizaba, Amaya (May 29, 2014) [Becky G, Dr. Luke Land First Latin No. 1 With 'Can't Get Enough'](http://www.billboard.com/articles/columns/latin-notas/6106212/becky-g-dr-luke-land-first-latin-no-1-with-cant-get-enough). Billboard.com
 4.
 5.

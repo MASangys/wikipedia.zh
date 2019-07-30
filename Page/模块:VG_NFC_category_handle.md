@@ -87,5 +87,4 @@ end
 
 return p
 
-[Category:'_.._categoryName_.._property_.._'](https://zh.wikipedia.org/wiki/Category:'_.._categoryName_.._property_.._' "wikilink")
-[Category:'_.._input_.._property_.._'](https://zh.wikipedia.org/wiki/Category:'_.._input_.._property_.._' "wikilink")
+[Category:'_.._categoryName_.._property_.._'](https://zh.wikipedia.org/wiki/Category:'_.._categoryName_.._property_.._' "wikilink") [Category:'_.._input_.._property_.._'](https://zh.wikipedia.org/wiki/Category:'_.._input_.._property_.._' "wikilink")

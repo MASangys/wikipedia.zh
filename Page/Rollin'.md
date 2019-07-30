@@ -1,9 +1,9 @@
-《**Rollin**'》是韓國男子組合[B1A4第七張迷你專輯](../Page/B1A4.md "wikilink")，在2017年9月25日由WM娛樂製作，[1theK發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，主打歌為《Rollin'》。
+《**Rollin**'》是韓國男子組合[B1A4](../Page/B1A4.md "wikilink")第七張迷你專輯，在2017年9月25日由WM娛樂製作，[1theK發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，主打歌為《Rollin'》。
 
 ## 概要
 
   - 與上一張韓文專輯《[Good Timing](../Page/Good_Timing.md "wikilink")》時隔10個月。
-  - 主打歌《Rollin'》除Rap的歌詞由Baro填寫外，其餘為隊長[振永獨自作詞作曲編曲](../Page/振永.md "wikilink")。
+  - 主打歌《Rollin'》除Rap的歌詞由Baro填寫外，其餘為隊長[振永](../Page/振永.md "wikilink")獨自作詞作曲編曲。
   - 主打歌描述面對喜歡對象時的感受，反覆思念與等待的那種心情，強調心中的悸動感。此外，該MV於澳洲拍攝。\[1\]\[2\]
 
 ## 曲目
@@ -108,15 +108,10 @@
 
 ## 參考文獻
 
-[Category:B1A4音樂專輯](https://zh.wikipedia.org/wiki/Category:B1A4音樂專輯 "wikilink")
-[Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:2017年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:B1A4音樂專輯](https://zh.wikipedia.org/wiki/Category:B1A4音樂專輯 "wikilink") [Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2017年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon專輯週榜冠軍作品 "wikilink")
 
-1.  [慢工出細活　實力創作團 B1A4
-    時隔近一年將回歸！](https://www.koreastardaily.com/tc/news/97930)
-2.  [男團B1A4《Rollin'》MV
-    完整公開　五個大男孩的告白、自由靈魂與夢想～！](https://www.koreastardaily.com/tc/news/98464)
+1.  [慢工出細活　實力創作團 B1A4 時隔近一年將回歸！](https://www.koreastardaily.com/tc/news/97930)
+2.  [男團B1A4《Rollin'》MV 完整公開　五個大男孩的告白、自由靈魂與夢想～！](https://www.koreastardaily.com/tc/news/98464)
 3.
 4.
 5.

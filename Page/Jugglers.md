@@ -1,6 +1,4 @@
-《**Jugglers**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2017年12月4日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由《[SPY](../Page/SPY.md "wikilink")》金正鉉導演與趙容作家合作打造。此劇講述只懂得奉獻與順從的女人和全面拒絕人際關係的男人，以老闆和秘書的關係相遇時所發生的一連串故事。\[1\]\[2\]\[3\]
-台灣由愛奇藝台灣站、CHOCO TV每周二三上午10點更新，香港由TVB的[myTV
-SUPER在播放後的](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")8小時更新。
+《**Jugglers**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2017年12月4日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由《[SPY](../Page/SPY.md "wikilink")》金正鉉導演與趙容作家合作打造。此劇講述只懂得奉獻與順從的女人和全面拒絕人際關係的男人，以老闆和秘書的關係相遇時所發生的一連串故事。\[1\]\[2\]\[3\] 台灣由愛奇藝台灣站、CHOCO TV每周二三上午10點更新，香港由TVB的[myTV SUPER在播放後的](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")8小時更新。
 
 ## 演員陣容
 
@@ -401,13 +399,9 @@ SUPER在播放後的](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")8小�
 
 ## 同時段競爭作品
 
-  - [MBC](../Page/文化廣播公司.md "wikilink")
-    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[Two
-    Cops](../Page/Two_Cops.md "wikilink")》、《[白色巨塔](../Page/白色巨塔_\(2007年韓劇\).md "wikilink")》（重播）
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[疑問的一勝](../Page/疑問的一勝.md "wikilink")》
-  - [tvN](../Page/TVN.md "wikilink")
-    [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[沒禮貌的英愛小姐16](../Page/沒禮貌的英愛小姐16.md "wikilink")》
+  - [MBC](../Page/文化廣播公司.md "wikilink") [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[Two Cops](../Page/Two_Cops.md "wikilink")》、《[白色巨塔](../Page/白色巨塔_\(2007年韓劇\).md "wikilink")》（重播）
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink") [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[疑問的一勝](../Page/疑問的一勝.md "wikilink")》
+  - [tvN](../Page/TVN.md "wikilink") [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[沒禮貌的英愛小姐16](../Page/沒禮貌的英愛小姐16.md "wikilink")》
 
 ## 獎項
 
@@ -436,14 +430,10 @@ SUPER在播放後的](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")8小�
   - [Jugglers-BLOG](https://m.post.naver.com/my/series/detail.nhn?seriesNo=385274&memberNo=34609460)
   - [香港無綫電視官方網站](http://programme.tvb.com/drama/jugglers0001)
 
-[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink")
-[Category:職場題材電視劇](https://zh.wikipedia.org/wiki/Category:職場題材電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
+[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink") [Category:職場題材電視劇](https://zh.wikipedia.org/wiki/Category:職場題材電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
 
 1.  [崔丹尼爾、姜惠貞、白珍熙等人有望出演《Jugglers》](https://www.kpopn.com/2017/10/24/%E5%B4%94%E4%B8%B9%E5%B0%BC%E7%88%BE%E3%80%81%E5%A7%9C%E6%83%A0%E8%B2%9E%E3%80%81%E7%99%BD%E7%8F%8D%E7%86%99%E7%AD%89%E4%BA%BA%E6%9C%89%E6%9C%9B%E5%87%BA%E6%BC%94%E3%80%8Ajugglers%E3%80%8B/)
-2.  [尹鈞相收到KBS新劇《Jugglers》男主角出演提案
-    有望挑戰「鐵壁男」](https://www.koreastardaily.com/tc/news/98708)，韓星網，2017-10-05
+2.  [尹鈞相收到KBS新劇《Jugglers》男主角出演提案 有望挑戰「鐵壁男」](https://www.koreastardaily.com/tc/news/98708)，韓星網，2017-10-05
 3.  [【韓劇】崔丹尼爾・白珍熙・姜惠貞・李源根確定主演KBS新劇《JUGGLER》，共譜輕鬆甜蜜的辦公室戀曲](http://pinkupost.com/%E3%80%90%E9%9F%93%E5%8A%87%E3%80%91%E5%B4%94%E4%B8%B9%E5%B0%BC%E7%88%BE%E3%83%BB%E7%99%BD%E7%8F%8D%E7%86%99%E3%83%BB%E5%A7%9C%E6%83%A0%E8%B2%9E%E3%83%BB%E6%9D%8E%E6%BA%90%E6%A0%B9%E7%A2%BA%E5%AE%9A/)，Pinkupost，2017-10-25
 4.  第十三集中出現之漢字
 5.  第十三集中出現之漢字

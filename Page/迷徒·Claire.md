@@ -1,14 +1,10 @@
-《**迷徒Claire**》【迷徒第一季】（），2015年由製作公司《[傳遞娛樂](../Page/傳遞娛樂.md "wikilink")》製作出品的[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[網路劇](https://zh.wikipedia.org/wiki/網路劇 "wikilink")，為《迷徒》此IP系列劇集的第一季，為台灣首部在網路[新媒體進行首播的戲劇](../Page/新媒體.md "wikilink")\[1\]，卡司由[李毓芬](../Page/李毓芬.md "wikilink")、[修杰楷](../Page/修杰楷.md "wikilink")、[利晴天](../Page/利晴天.md "wikilink")、[陸明君](../Page/陸明君.md "wikilink")、[安晨芯](https://zh.wikipedia.org/wiki/安晨芯 "wikilink")、[許元康等人主演](https://zh.wikipedia.org/wiki/許元康 "wikilink")。
+《**迷徒Claire**》【迷徒第一季】（），2015年由製作公司《[傳遞娛樂](../Page/傳遞娛樂.md "wikilink")》製作出品的[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[網路劇](https://zh.wikipedia.org/wiki/網路劇 "wikilink")，為《迷徒》此IP系列劇集的第一季，為台灣首部在網路[新媒體](../Page/新媒體.md "wikilink")進行首播的戲劇\[1\]，卡司由[李毓芬](../Page/李毓芬.md "wikilink")、[修杰楷](../Page/修杰楷.md "wikilink")、[利晴天](../Page/利晴天.md "wikilink")、[陸明君](../Page/陸明君.md "wikilink")、[安晨芯](https://zh.wikipedia.org/wiki/安晨芯 "wikilink")、[許元康等人主演](https://zh.wikipedia.org/wiki/許元康 "wikilink")。
 
-全劇共13集，一集20分鐘，[LINE
-TV於](../Page/LINE_TV.md "wikilink")2015年5月4日中午12點首播；[台灣蘋果日報則將該劇分成](https://zh.wikipedia.org/wiki/台灣蘋果日報 "wikilink")39集，每集10分鐘，於2015年5月18日晚上9點在官方網站及[APP播出](https://zh.wikipedia.org/wiki/APP "wikilink")，[記者會為](https://zh.wikipedia.org/wiki/記者會 "wikilink")2015年4月27日下午一點半於網路直播。第一季已播畢，迷徒第二季《[迷徒Chloe](../Page/迷徒Chloe.md "wikilink")》為另一獨立故事，於2016年11月14日LINE
-TV播出\[2\]，卡司由李千娜、吳慷仁、劉以豪、謝祖武、張雁名、穆熙妍等人主演。
+全劇共13集，一集20分鐘，[LINE TV於](../Page/LINE_TV.md "wikilink")2015年5月4日中午12點首播；[台灣蘋果日報則將該劇分成](https://zh.wikipedia.org/wiki/台灣蘋果日報 "wikilink")39集，每集10分鐘，於2015年5月18日晚上9點在官方網站及[APP播出](https://zh.wikipedia.org/wiki/APP "wikilink")，[記者會為](https://zh.wikipedia.org/wiki/記者會 "wikilink")2015年4月27日下午一點半於網路直播。第一季已播畢，迷徒第二季《[迷徒Chloe](../Page/迷徒Chloe.md "wikilink")》為另一獨立故事，於2016年11月14日LINE TV播出\[2\]，卡司由李千娜、吳慷仁、劉以豪、謝祖武、張雁名、穆熙妍等人主演。
 
 傳遞娛樂的《迷徒》故事IP，開啟了一種寫實的風格，打破了台灣偶像劇慣有的王子公主夢幻童話套路，不論是第一季的Claire或是第二季的Chloe，都以寫實的職場都會女性為主人翁切入，探討在追求夢想、事業、感情、成名、虛榮等人生諸多選項中"迷途"，在其中迷失或重新找到自我的過程；兩季的影像視覺，也以其高質感、電影規格被網友推崇。
 
-《**迷徒Claire**》【迷徒第一季】於多個網路平台放映：LINE TV、蘋果日報、CHOCO
-TV、KKTV、LiTV線上影視、Vidol影音皆有放映，目前除LINE
-TV、蘋果日報影片已經下架，其他網路平台皆能以免付費的方式收看該劇。
+《**迷徒Claire**》【迷徒第一季】於多個網路平台放映：LINE TV、蘋果日報、CHOCO TV、KKTV、LiTV線上影視、Vidol影音皆有放映，目前除LINE TV、蘋果日報影片已經下架，其他網路平台皆能以免付費的方式收看該劇。
 
 ## 播出時間
 
@@ -119,9 +115,7 @@ TV、蘋果日報影片已經下架，其他網路平台皆能以免付費的方
 
   - [《迷徒·Claire》KKTV全劇](https://www.kktv.me/titles/02000062-%E5%8F%B0%E5%8A%87-%E8%BF%B7%E5%BE%92%C2%B7CLAIRE-%E7%B7%9A%E4%B8%8A%E7%9C%8B)
 
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink")
-[Category:2015年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2015年台灣電視劇集 "wikilink")
-[Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:2015年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2015年台灣電視劇集 "wikilink") [Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink")
 
 1.
 2.

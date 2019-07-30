@@ -1,7 +1,4 @@
-《**Press
-It**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee成員](../Page/SHINee.md "wikilink")[李泰民首張韓語正規專輯](https://zh.wikipedia.org/wiki/李泰民 "wikilink")\[1\]，在2016年2月23日由[SM娛樂製作](../Page/SM娛樂.md "wikilink")、[KT
-Music發行](https://zh.wikipedia.org/wiki/KT_Music "wikilink")，先行曲為《Drip
-Drop》\[2\]；而主打曲目為《Press Your Number》。
+《**Press It**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")成員[李泰民首張韓語正規專輯](https://zh.wikipedia.org/wiki/李泰民 "wikilink")\[1\]，在2016年2月23日由[SM娛樂](../Page/SM娛樂.md "wikilink")製作、[KT Music發行](https://zh.wikipedia.org/wiki/KT_Music "wikilink")，先行曲為《Drip Drop》\[2\]；而主打曲目為《Press Your Number》。
 
 ## 曲目
 
@@ -147,10 +144,7 @@ Drop》\[2\]；而主打曲目為《Press Your Number》。
 ## 外部連結
 
   -
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:SHINee音樂專輯](https://zh.wikipedia.org/wiki/Category:SHINee音樂專輯 "wikilink")
-[Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:SHINee音樂專輯](https://zh.wikipedia.org/wiki/Category:SHINee音樂專輯 "wikilink") [Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 

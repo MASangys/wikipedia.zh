@@ -1,4 +1,4 @@
-《**催眠Show**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[羅志祥的第三張國語個人音樂大碟](../Page/羅志祥.md "wikilink")，於2005年10月21日推出。
+《**催眠Show**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[羅志祥](../Page/羅志祥.md "wikilink")的第三張國語個人音樂大碟，於2005年10月21日推出。
 
 ## 專輯曲目
 
@@ -21,7 +21,4 @@
 | [不懂我的心](https://www.youtube.com/watch?v=x1EX7Cn4Ai8) | ？                                                   | 2007年7月17日 | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") | KTV版本                                   |
 | [力量](https://www.youtube.com/watch?v=6cHHnR-trZU)    | [林錦和](https://zh.wikipedia.org/wiki/林錦和 "wikilink") | 2013年3月27日 | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") |                                         |
 
-[Category:羅志祥音樂專輯](https://zh.wikipedia.org/wiki/Category:羅志祥音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
+[Category:羅志祥音樂專輯](https://zh.wikipedia.org/wiki/Category:羅志祥音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")

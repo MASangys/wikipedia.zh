@@ -1,5 +1,4 @@
-《**Utada Hikaru in Budokan 2004
-光之5**》（）是日本歌手[宇多田光的影音作品](../Page/宇多田光.md "wikilink")，於2004年7月28日以DVD版本發行。
+《**Utada Hikaru in Budokan 2004 光之5**》（）是日本歌手[宇多田光](../Page/宇多田光.md "wikilink")的影音作品，於2004年7月28日以DVD版本發行。
 
 ## 概要
 
@@ -13,15 +12,11 @@
 2.  [traveling](https://zh.wikipedia.org/wiki/traveling_\(單曲\) "wikilink")
 3.  [Another Chance](../Page/First_Love_\(宇多田光專輯\).md "wikilink")
 4.  [In My Room](../Page/First_Love_\(宇多田光專輯\).md "wikilink")
-5.  [Can You Keep A
-    Secret?](../Page/Can_You_Keep_A_Secret?.md "wikilink")
-6.  [Addicted To You](../Page/Addicted_To_You.md "wikilink")
-    \[UP-IN-HEAVEN MIX\]
-7.  [SAKURA
-    Drops](https://zh.wikipedia.org/wiki/SAKURA_Drops/Letters "wikilink")
+5.  [Can You Keep A Secret?](../Page/Can_You_Keep_A_Secret?.md "wikilink")
+6.  [Addicted To You](../Page/Addicted_To_You.md "wikilink") \[UP-IN-HEAVEN MIX\]
+7.  [SAKURA Drops](https://zh.wikipedia.org/wiki/SAKURA_Drops/Letters "wikilink")
 8.  [太陽眼鏡](../Page/Distance.md "wikilink") (Rehearsal Scene)
-9.  [甜蜜陷阱 \~Paint It,
-    Black](../Page/First_Love_\(宇多田光專輯\).md "wikilink")
+9.  [甜蜜陷阱 \~Paint It, Black](../Page/First_Love_\(宇多田光專輯\).md "wikilink")
 10. [Movin' on without you](../Page/Movin'_on_without_you.md "wikilink")
 11. [踹開它\!](../Page/Can_You_Keep_A_Secret?.md "wikilink")
 12. [Wait\&See ～Risk～](../Page/Wait&See_～Risk～.md "wikilink")

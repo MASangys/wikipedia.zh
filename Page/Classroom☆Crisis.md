@@ -1,11 +1,10 @@
-，是由Lay-duce製作的日本原創電視動畫，2015年7月3日在[每日放送的](../Page/每日放送.md "wikilink")「[Animeism](../Page/Animeism.md "wikilink")」時段播出\[1\]。
+，是由Lay-duce製作的日本原創電視動畫，2015年7月3日在[每日放送](../Page/每日放送.md "wikilink")的「[Animeism](../Page/Animeism.md "wikilink")」時段播出\[1\]。
 
-監督為[長崎健司](../Page/長崎健司.md "wikilink")\[2\]、系列構成由輕小說《[不起眼女主角培育法](../Page/不起眼女主角培育法.md "wikilink")》的作者[丸戶史明擔任](https://zh.wikipedia.org/wiki/丸戶史明 "wikilink")\[3\]，角色原案則由負責《[我的妹妹哪有這麼可愛](https://zh.wikipedia.org/wiki/我的妹妹哪有這麼可愛 "wikilink")》插畫的[神崎廣擔任](../Page/神崎廣.md "wikilink")\[4\]。
+監督為[長崎健司](../Page/長崎健司.md "wikilink")\[2\]、系列構成由輕小說《[不起眼女主角培育法](../Page/不起眼女主角培育法.md "wikilink")》的作者[丸戶史明擔任](https://zh.wikipedia.org/wiki/丸戶史明 "wikilink")\[3\]，角色原案則由負責《[我的妹妹哪有這麼可愛](https://zh.wikipedia.org/wiki/我的妹妹哪有這麼可愛 "wikilink")》插畫的[神崎廣](../Page/神崎廣.md "wikilink")擔任\[4\]。
 
 ## 故事簡介
 
-從前，在那個人們還憧憬著宇宙、滿懷著拓荒者精神的時代，世界各國在太陽系的各個行星建立了都市。大多數的人們都過了和平安樂的日子。本作的故事就發生在這些行星中的其中一個───火星。
-在這個全國都市散佈星球表面的火星上，以新的日本都道府縣「第4東京都」為舞台，由年輕的高中生上班族們所演出的青春故事即將展開。
+從前，在那個人們還憧憬著宇宙、滿懷著拓荒者精神的時代，世界各國在太陽系的各個行星建立了都市。大多數的人們都過了和平安樂的日子。本作的故事就發生在這些行星中的其中一個───火星。 在這個全國都市散佈星球表面的火星上，以新的日本都道府縣「第4東京都」為舞台，由年輕的高中生上班族們所演出的青春故事即將展開。
 
 ## 登場角色
 
@@ -22,8 +21,7 @@
   -
     霧科Corporation先行技術開發部開發室，通稱「A-TEC」的年輕室長。瀨良美月的哥哥。A-TEC班的班主任兼上司。小學起自製機體參加比賽，霧科學園時期近乎獨立開發地開發了人稱「瀨良引擎」的SWNPR引擎。SWNPR方程式競賽中搭載其引擎的隊伍獨佔三甲，成為相關工程界中的風雲人物。推崇SWNPR引擎原型機的創造者之一的科宮漣一郎對技術革新的追求精神。
     「A-TEC」面臨解散危機時，由於日常沉醉於研發，疏於管理等，初期面臨失去設施、學生離隊的諸種打擊、打壓時難以應對。一度借用工會的力量反對預算縮編，卻反過來遭工會和大宇宙黨政治利用協助站台。在談判前一刻，被霧羽渚升職為開發部副部長，使工會無法協助已成為公司高層管理人員的海斗。此時依然堅持下去的海斗感動了離隊的學生，班級團結後重新振作，除向業者求助外，也借用副部長一職的決策權限，大量申請不及2000萬元的項目籌措近6億的器械資金，從而規避部長的鉗制，重新建設「A-TEC」。
-    海斗繼續建設新引擎，一直不斷遭遇各種事故。霧科決意解散「A-TEC」以建立軍事項目部門，海斗的前指導教授也受邀前來霧科，要協助公司在兩年內完成軍事項目「Combat
-    Walker」的開發。其指導教授希望海斗接手動力的部分，但海斗向渚聲明自己想要做讓人歡笑的產品，拒絕製造戰爭用品。最後與學生們离开霧科Corporation與渚另外開設新公司。
+    海斗繼續建設新引擎，一直不斷遭遇各種事故。霧科決意解散「A-TEC」以建立軍事項目部門，海斗的前指導教授也受邀前來霧科，要協助公司在兩年內完成軍事項目「Combat Walker」的開發。其指導教授希望海斗接手動力的部分，但海斗向渚聲明自己想要做讓人歡笑的產品，拒絕製造戰爭用品。最後與學生們离开霧科Corporation與渚另外開設新公司。
 
 <!-- end list -->
 
@@ -122,9 +120,7 @@
 <!-- end list -->
 
   - A-TEC
-    霧科Corporation先行技术开发部教育开发室。通称“A-TEC”。是Advanced Technological
-    development department, Educational development
-    Class的简称。雾科科学技术学园的特别学科也隶属于此，因而有“Class”之称。是从学园内的各学科选拔出能力特别优秀的学生而组成的部门。与其他学科的学生不同，A-TEC的学生同时也是雾科公司的社员。因此，下午的课程被免除，取而代之的是身为雾科社员而每天进行的先行技术开发。
+    霧科Corporation先行技术开发部教育开发室。通称“A-TEC”。是Advanced Technological development department, Educational development Class的简称。雾科科学技术学园的特别学科也隶属于此，因而有“Class”之称。是从学园内的各学科选拔出能力特别优秀的学生而组成的部门。与其他学科的学生不同，A-TEC的学生同时也是雾科公司的社员。因此，下午的课程被免除，取而代之的是身为雾科社员而每天进行的先行技术开发。
 
 <!-- end list -->
 
@@ -137,8 +133,7 @@
 
   - 原作：MONTWO
   - 監督：[長崎健司](../Page/長崎健司.md "wikilink")
-  - 系列構成、劇本：[丸戶史明](https://zh.wikipedia.org/wiki/丸戶史明 "wikilink") with
-    企画屋
+  - 系列構成、劇本：[丸戶史明](https://zh.wikipedia.org/wiki/丸戶史明 "wikilink") with 企画屋
   - 角色原案：[神崎廣](../Page/神崎廣.md "wikilink")
   - 角色設計：神崎廣、[石野聰](https://zh.wikipedia.org/wiki/石野聰 "wikilink")
   - 動畫導演：石野聰
@@ -317,7 +312,7 @@
 
 ## 輕小說
 
-皆由[MF文庫J刊行](../Page/MF文庫J.md "wikilink")。
+皆由[MF文庫J](../Page/MF文庫J.md "wikilink")刊行。
 
 ### Classroom☆Crisis
 
@@ -329,8 +324,7 @@
 
 ## 漫畫
 
-從《[月刊Comic
-Alive](../Page/月刊Comic_Alive.md "wikilink")》2015年8月號（6月27日發售）開始進行連載\[10\]。為電視動畫本篇的改編漫畫作品\[11\]。由作畫。
+從《[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")》2015年8月號（6月27日發售）開始進行連載\[10\]。為電視動畫本篇的改編漫畫作品\[11\]。由作畫。
 
 ## 參考資料
 
@@ -341,12 +335,7 @@ Alive](../Page/月刊Comic_Alive.md "wikilink")》2015年8月號（6月27日發�
   - [Classroom☆Crisis 節目網站（MBS）](http://www.mbs.jp/classroom-crisis/)
 
   -
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")
-[Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink")
-[Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink")
-[Category:火星背景作品](https://zh.wikipedia.org/wiki/Category:火星背景作品 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink") [Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink") [Category:火星背景作品](https://zh.wikipedia.org/wiki/Category:火星背景作品 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 

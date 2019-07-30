@@ -44,8 +44,7 @@ list = {
 `   {'infobox', '`[`信息框`](https://zh.wikipedia.org/wiki/Wikipedia:格式手册/信息框 "wikilink")`'},`
 `   {'photo', '`[`图片`](https://zh.wikipedia.org/wiki/Wikipedia:图片请求 "wikilink")`'},`
 `   {'map', '`[`地图`](https://zh.wikipedia.org/wiki/Wikipedia:地图专题 "wikilink")`'},`
-`   {'geocoord', '`[`Geographical``
- ``coordinates`](https://zh.wikipedia.org/wiki/WP:WikiProject_Geographical_coordinates "wikilink")`'},`
+`   {'geocoord', '`[`Geographical``   ``coordinates`](https://zh.wikipedia.org/wiki/WP:WikiProject_Geographical_coordinates "wikilink")`'},`
 `   `
 
 \-- Reviews
@@ -54,8 +53,7 @@ list = {
 `   {'far', '`[`特色条目重审`](https://zh.wikipedia.org/wiki/WP:特色条目重审 "wikilink")`'},`
 `   {'flc', '`[`特色列表评选`](https://zh.wikipedia.org/wiki/Wikipedia:特色列表评选 "wikilink")`'},`
 
-\-- {'fsc', '[Featured sound
-candidates](https://zh.wikipedia.org/wiki/WP:Featured_sound_candidates "wikilink")'},
+\-- {'fsc', '[Featured sound candidates](https://zh.wikipedia.org/wiki/WP:Featured_sound_candidates "wikilink")'},
 
 `   {'gan', '`[`優良條目評選`](https://zh.wikipedia.org/wiki/Wikipedia:優良條目評選 "wikilink")`'},`
 `   {'gar', '`[`優良條目重審`](https://zh.wikipedia.org/wiki/Wikipedia:優良條目重審 "wikilink")`'},`
@@ -86,8 +84,7 @@ local function core(name, value)
 
 end
 
-local function tasklist(args) -- table.insert(list, -1, args.othertext
-or '其它')
+local function tasklist(args) -- table.insert(list, -1, args.othertext or '其它')
 
 `   local ret = ''`
 `   `

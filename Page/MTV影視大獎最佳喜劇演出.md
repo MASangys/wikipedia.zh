@@ -1,7 +1,6 @@
-**MTV影視大獎最佳喜劇演出**（MTV Movie & TV Award for Best Comedic
-Performance）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wikilink")，頒發給年度最佳喜劇演出，於1992年開始頒發。
+**MTV影視大獎最佳喜劇演出**（MTV Movie & TV Award for Best Comedic Performance）是[MTV影視大獎](../Page/MTV影視大獎.md "wikilink")重要的獎項之一，頒發給年度最佳喜劇演出，於1992年開始頒發。
 
-此獎項並不限於出演喜劇之演員，為動畫角色配音亦可獲得提名，例如第二屆[羅賓·威廉斯於迪士尼動畫](../Page/羅賓·威廉斯.md "wikilink")《[阿拉丁](https://zh.wikipedia.org/wiki/阿拉丁_\(電影\) "wikilink")》聲演燈神一角，順利入圍之外，更成功獲獎。
+此獎項並不限於出演喜劇之演員，為動畫角色配音亦可獲得提名，例如第二屆[羅賓·威廉斯](../Page/羅賓·威廉斯.md "wikilink")於迪士尼動畫《[阿拉丁](https://zh.wikipedia.org/wiki/阿拉丁_\(電影\) "wikilink")》聲演燈神一角，順利入圍之外，更成功獲獎。
 
 ## 記錄
 
@@ -765,5 +764,4 @@ Performance）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.
 [Category:MTV電影大獎](https://zh.wikipedia.org/wiki/Category:MTV電影大獎 "wikilink")
 
 1.  [第25屆MTV電影頒獎禮得獎名單《太陽報》](http://the-sun.on.cc/cnt/entertainment/20150414/00476_003.html)
-2.  [MTV電影頒獎禮
-    《星球大戰》掃3獎大贏家](http://news.mingpao.com/pns/dailynews/web_tc/article/20160411/s00016/1460312276550)
+2.  [MTV電影頒獎禮 《星球大戰》掃3獎大贏家](http://news.mingpao.com/pns/dailynews/web_tc/article/20160411/s00016/1460312276550)

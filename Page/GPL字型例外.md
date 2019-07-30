@@ -1,15 +1,10 @@
-**GPL字型例外**（，[縮寫](../Page/縮寫.md "wikilink")：**GPL+FE**）條款是一個可以被添加到[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")（GNU
-GPL）讓[计算机字体可以嵌入數位](../Page/计算机字体.md "wikilink")[文-{}-献](../Page/文献.md "wikilink")[檔案而不必使該文件也使用GPL授權](../Page/電腦檔案.md "wikilink")。若無此條款，散佈可能會使用在桌面出版的開放原始碼專案可能會導致一些授權上的衝突\[1\]。Dave
-Crossland在自由圖形雜誌中解釋道，「一個[Copyleft的字型可能會不當的延伸其授權條款到使用該字型的文件](../Page/Copyleft.md "wikilink")，除非在常規的條文中加入例外；額外的授權讓在文件、照片、插圖與設計中使用一部份該字型可不受字型授權的影響。現在，大多數的自由字型都有這樣的Copyleft授權條款
-—— [SIL开源字体授权或是在GPL](../Page/SIL开源字体授权.md "wikilink") FAQ中所描述的帶有字型例外的GNU
-GPL。」\[2\]
+**GPL字型例外**（，[縮寫](../Page/縮寫.md "wikilink")：**GPL+FE**）條款是一個可以被添加到[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")（GNU GPL）讓[计算机字体](../Page/计算机字体.md "wikilink")可以嵌入數位[文-{}-献](../Page/文献.md "wikilink")[檔案而不必使該文件也使用GPL授權](../Page/電腦檔案.md "wikilink")。若無此條款，散佈可能會使用在桌面出版的開放原始碼專案可能會導致一些授權上的衝突\[1\]。Dave Crossland在自由圖形雜誌中解釋道，「一個[Copyleft](../Page/Copyleft.md "wikilink")的字型可能會不當的延伸其授權條款到使用該字型的文件，除非在常規的條文中加入例外；額外的授權讓在文件、照片、插圖與設計中使用一部份該字型可不受字型授權的影響。現在，大多數的自由字型都有這樣的Copyleft授權條款 —— [SIL开源字体授权](../Page/SIL开源字体授权.md "wikilink")或是在GPL FAQ中所描述的帶有字型例外的GNU GPL。」\[2\]
 
 ## 起因
 
-字型例外是在2005年4月首先由David "Novalis"
-Turner所訂立，他是[自由软件基金会的GPL協調工程師](../Page/自由软件基金会.md "wikilink")。他解釋道，「我們正在考慮一種情況，是將字型嵌入到-{文件}-中（而不僅是引用）。嵌入字型讓沒有安裝該字型的電腦也可以檢視該-{文件}-而不會與原作者看到不同的視覺效果。所以，-{文件}-（版權所有的作品）將被視為字型程式的衍生物（另一個作品）。當然，-{文件}-中的文字在未與字型一同散佈的時將不受限制。」\[3\]\[4\]
+字型例外是在2005年4月首先由David "Novalis" Turner所訂立，他是[自由软件基金会](../Page/自由软件基金会.md "wikilink")的GPL協調工程師。他解釋道，「我們正在考慮一種情況，是將字型嵌入到-{文件}-中（而不僅是引用）。嵌入字型讓沒有安裝該字型的電腦也可以檢視該-{文件}-而不會與原作者看到不同的視覺效果。所以，-{文件}-（版權所有的作品）將被視為字型程式的衍生物（另一個作品）。當然，-{文件}-中的文字在未與字型一同散佈的時將不受限制。」\[3\]\[4\]
 
-為了與GPL共同使用，[紅帽公司的](../Page/紅帽公司.md "wikilink")[Fedora專案包含了字型例外在其](../Page/Fedora.md "wikilink")[Liberation字型軟體包的授權條款中](../Page/Liberation字型.md "wikilink")，雖然在2007年時仍有其他限制\[5\]。這些限制促使[Debian發行版的社群成員進一步的討論GPL](../Page/Debian.md "wikilink")+FE\[6\]。這也導致了[Ubuntu照著作並建立了](../Page/Ubuntu.md "wikilink")[Ubuntu字型授權條款](https://zh.wikipedia.org/wiki/Ubuntu字型授權條款 "wikilink")，因為他們對SIL開源字型授權或是GPL+FE均不滿意\[7\]。
+為了與GPL共同使用，[紅帽公司](../Page/紅帽公司.md "wikilink")的[Fedora](../Page/Fedora.md "wikilink")專案包含了字型例外在其[Liberation字型](../Page/Liberation字型.md "wikilink")軟體包的授權條款中，雖然在2007年時仍有其他限制\[5\]。這些限制促使[Debian](../Page/Debian.md "wikilink")發行版的社群成員進一步的討論GPL+FE\[6\]。這也導致了[Ubuntu](../Page/Ubuntu.md "wikilink")照著作並建立了[Ubuntu字型授權條款](https://zh.wikipedia.org/wiki/Ubuntu字型授權條款 "wikilink")，因為他們對SIL開源字型授權或是GPL+FE均不滿意\[7\]。
 
 ## 使用方法
 

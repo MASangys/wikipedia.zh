@@ -1,5 +1,4 @@
-《**Pink
-Up**》是韩国女子组合[Apink在](../Page/Apink.md "wikilink")2017年6月26日发行的第6张迷你专辑。\[1\]\[2\]
+《**Pink Up**》是韩国女子组合[Apink](../Page/Apink.md "wikilink")在2017年6月26日发行的第6张迷你专辑。\[1\]\[2\]
 
 ## 概況
 
@@ -9,9 +8,7 @@ Up**》是韩国女子组合[Apink在](../Page/Apink.md "wikilink")2017年6月26
 
 ## 参考资料
 
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:Apink歌曲](https://zh.wikipedia.org/wiki/Category:Apink歌曲 "wikilink")
+[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:Apink歌曲](https://zh.wikipedia.org/wiki/Category:Apink歌曲 "wikilink")
 
 1.
 2.

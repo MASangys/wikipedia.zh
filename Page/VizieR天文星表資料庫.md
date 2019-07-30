@@ -8,22 +8,10 @@ VizieR天文星表数据库的起源可以追溯到1993年的ESA目錄瀏覽器�
 
 ## 參考資料
 
-  - [F. Ochsenbein; P. Bauer; J. Marcout 2000, The VizieR database of
-    astronomical catalogues, Astronomy and Astrophysics Supplement,
-    **143**,
-    23](http://aas.aanda.org/index.php?option=article&access=doi&doi=10.1051/aas:2000169)
-  - [S.G. Ansari; P. Donzelli; E. Simonsen; F. Ochsenbein; May 1996,
-    Transfer of ESIS to Scientific Institutes, ESA Bulletin
-    No. 86](http://www.esa.int/esapub/bulletin/bullet86/ansa86.htm)
-  - \[<http://cdsads.u-strasbg.fr/abs/1995BAAS>...27.1418O Ochsenbein,
-    F.; Genova, F.; Egret, D.; Bourekeb, I.; Sadat, R.; Ansari, S. G.;
-    Simonsen, E., 1995, A new research tool to retrieve data from
-    astronomical catalogues and tables, American Astronomical Society,
-    187th AAS Meeting, \#91.03; Bulletin of the American Astronomical
-    Society, Vol. 27, p.1418\]
-  - \[<http://cdsads.u-strasbg.fr//full/1996BICDS>..48...47O/0000047.000.html?high=471edd182b18234
-    Ochsenbein, F., 1996, VizieR, the new catalogue interface at CDS,
-    Bull. Inf. Centre Donnees Stellaires, Vol. 48, p.47\]
+  - [F. Ochsenbein; P. Bauer; J. Marcout 2000, The VizieR database of astronomical catalogues, Astronomy and Astrophysics Supplement, **143**, 23](http://aas.aanda.org/index.php?option=article&access=doi&doi=10.1051/aas:2000169)
+  - [S.G. Ansari; P. Donzelli; E. Simonsen; F. Ochsenbein; May 1996, Transfer of ESIS to Scientific Institutes, ESA Bulletin No. 86](http://www.esa.int/esapub/bulletin/bullet86/ansa86.htm)
+  - \[<http://cdsads.u-strasbg.fr/abs/1995BAAS>...27.1418O Ochsenbein, F.; Genova, F.; Egret, D.; Bourekeb, I.; Sadat, R.; Ansari, S. G.; Simonsen, E., 1995, A new research tool to retrieve data from astronomical catalogues and tables, American Astronomical Society, 187th AAS Meeting, \#91.03; Bulletin of the American Astronomical Society, Vol. 27, p.1418\]
+  - \[<http://cdsads.u-strasbg.fr//full/1996BICDS>..48...47O/0000047.000.html?high=471edd182b18234 Ochsenbein, F., 1996, VizieR, the new catalogue interface at CDS, Bull. Inf. Centre Donnees Stellaires, Vol. 48, p.47\]
 
 ## 外部連結
 
@@ -31,5 +19,4 @@ VizieR天文星表数据库的起源可以追溯到1993年的ESA目錄瀏覽器�
 
 [Category:天文学目录](https://zh.wikipedia.org/wiki/Category:天文学目录 "wikilink")
 
-1.  [VizieR
-    Description](http://vizier.u-strasbg.fr/vizier//index.htx#desc)
+1.  [VizieR Description](http://vizier.u-strasbg.fr/vizier//index.htx#desc)

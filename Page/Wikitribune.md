@@ -1,4 +1,4 @@
-**Wikitribune**是一個於2017年4月25日由[吉米·威爾斯所宣布創立的網站](../Page/吉米·威爾斯.md "wikilink")\[1\]\[2\]。Wikitribune是威尔士的獨立計畫，不附屬於[維基百科或者是](https://zh.wikipedia.org/wiki/維基百科 "wikilink")[维基媒体基金会](../Page/维基媒体基金会.md "wikilink")\[3\]。根据他的说法，“Wikitribune的新闻来自人民，且为了人民”\[4\]。
+**Wikitribune**是一個於2017年4月25日由[吉米·威爾斯](../Page/吉米·威爾斯.md "wikilink")所宣布創立的網站\[1\]\[2\]。Wikitribune是威尔士的獨立計畫，不附屬於[維基百科或者是](https://zh.wikipedia.org/wiki/維基百科 "wikilink")[维基媒体基金会](../Page/维基媒体基金会.md "wikilink")\[3\]。根据他的说法，“Wikitribune的新闻来自人民，且为了人民”\[4\]。
 
 這個網站的预览版本已经上线，然而目前只提供給媒體等特定的受眾對象\[5\]。
 
@@ -45,9 +45,7 @@
   -
   -
   -
-[Category:2017年面世](https://zh.wikipedia.org/wiki/Category:2017年面世 "wikilink")
-[Category:线上服务](https://zh.wikipedia.org/wiki/Category:线上服务 "wikilink")
-[Category:新闻网站](https://zh.wikipedia.org/wiki/Category:新闻网站 "wikilink")
+[Category:2017年面世](https://zh.wikipedia.org/wiki/Category:2017年面世 "wikilink") [Category:线上服务](https://zh.wikipedia.org/wiki/Category:线上服务 "wikilink") [Category:新闻网站](https://zh.wikipedia.org/wiki/Category:新闻网站 "wikilink")
 
 1.
 

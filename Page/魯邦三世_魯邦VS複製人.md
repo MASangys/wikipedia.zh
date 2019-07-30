@@ -1,5 +1,4 @@
-《**魯邦三世
-魯邦VS複製人**》（）是1978年12月16日上映的《[魯邦三世](https://zh.wikipedia.org/wiki/魯邦三世 "wikilink")》系列首部[動畫電影作品](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")。
+《**魯邦三世 魯邦VS複製人**》（）是1978年12月16日上映的《[魯邦三世](https://zh.wikipedia.org/wiki/魯邦三世 "wikilink")》系列首部[動畫電影作品](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")。
 
 原本的電影標題為「**ルパン三世**」，後來日本發行家用影音產品時多加了「**ルパンVS複製人間**」的副標題。
 
@@ -25,8 +24,7 @@
 ## 製作團隊
 
   - 製作：藤岡豊
-  - 原作：[Monkey
-    Punch](https://zh.wikipedia.org/wiki/Monkey_Punch "wikilink")（双葉社刊）
+  - 原作：[Monkey Punch](https://zh.wikipedia.org/wiki/Monkey_Punch "wikilink")（双葉社刊）
   - 導演・演出・分鏡：[吉川惣司](https://zh.wikipedia.org/wiki/吉川惣司 "wikilink")
   - 編劇：大和屋竺、吉川惣司
   - 監製：大塚康生
@@ -56,8 +54,4 @@
       - 作曲・編曲 - 大野雄二
       - 歌手 - [三波春夫](../Page/三波春夫.md "wikilink")
 
-[Category:鲁邦三世劇場版](https://zh.wikipedia.org/wiki/Category:鲁邦三世劇場版 "wikilink")
-[Category:1978年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1978年日本劇場動畫 "wikilink")
-[Category:埃及背景電影](https://zh.wikipedia.org/wiki/Category:埃及背景電影 "wikilink")
-[Category:西班牙背景電影](https://zh.wikipedia.org/wiki/Category:西班牙背景電影 "wikilink")
-[Category:南美洲背景電影](https://zh.wikipedia.org/wiki/Category:南美洲背景電影 "wikilink")
+[Category:鲁邦三世劇場版](https://zh.wikipedia.org/wiki/Category:鲁邦三世劇場版 "wikilink") [Category:1978年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1978年日本劇場動畫 "wikilink") [Category:埃及背景電影](https://zh.wikipedia.org/wiki/Category:埃及背景電影 "wikilink") [Category:西班牙背景電影](https://zh.wikipedia.org/wiki/Category:西班牙背景電影 "wikilink") [Category:南美洲背景電影](https://zh.wikipedia.org/wiki/Category:南美洲背景電影 "wikilink")

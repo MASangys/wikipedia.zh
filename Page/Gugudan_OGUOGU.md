@@ -1,15 +1,10 @@
-**gugudan OGUOGU** / **gu9udan
-5959**（[韩语](https://zh.wikipedia.org/wiki/韩语 "wikilink")：구구단
-오구오구）是韩国人氣女子音乐团体[gugudan所组成的二人子团](https://zh.wikipedia.org/wiki/gugudan "wikilink")，成员有[美娜](../Page/美娜.md "wikilink")、HYEYEON，与2017年8月10日携单曲《ICE
-CHU》正式出道。
+**gugudan OGUOGU** / **gu9udan 5959**（[韩语](https://zh.wikipedia.org/wiki/韩语 "wikilink")：구구단 오구오구）是韩国人氣女子音乐团体[gugudan所组成的二人子团](https://zh.wikipedia.org/wiki/gugudan "wikilink")，成员有[美娜](../Page/美娜.md "wikilink")、HYEYEON，与2017年8月10日携单曲《ICE CHU》正式出道。
 
-团名“gu9udan
-5959”中的“5”代表HYEYON，“9”则代表MINA，组合成“59”（오구），这也代表gu9udan中这两个最小年纪的成员可爱甜美的形象。\[1\]
+团名“gu9udan 5959”中的“5”代表HYEYON，“9”则代表MINA，组合成“59”（오구），这也代表gu9udan中这两个最小年纪的成员可爱甜美的形象。\[1\]
 
-2017年8月10日，发布单曲《ICE CHU》，并在[M
-Countdown首次亮相](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")。\[2\]
+2017年8月10日，发布单曲《ICE CHU》，并在[M Countdown首次亮相](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")。\[2\]
 
-2018年4月8日，專屬公司Jellyfish發布因車禍逝世退團。\[3\]
+2018年10月25日，經紀公司Jellyfish發布因學業、健康因素退團。\[3\]
 
 ## 成员
 
@@ -117,10 +112,7 @@ Countdown首次亮相](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")。\
 
 ## 参考资料
 
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
+[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
 
 1.
 2.

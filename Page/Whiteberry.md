@@ -1,9 +1,8 @@
-**Whiteberry**（），[日本女子](../Page/日本.md "wikilink")[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。簡稱、暱稱「****」或「**白**（）」
+**Whiteberry**（），[日本](../Page/日本.md "wikilink")女子[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。簡稱、暱稱「****」或「**白**（）」
 
 ## 簡介
 
-1994年在[北海道](../Page/北海道.md "wikilink")[北見市組成](../Page/北見市.md "wikilink")。1999年正式出道。[Sony
-Music Records所屬](../Page/Sony_Music_Records.md "wikilink")。2004年解散。
+1994年在[北海道](../Page/北海道.md "wikilink")[北見市](../Page/北見市.md "wikilink")組成。1999年正式出道。[Sony Music Records所屬](../Page/Sony_Music_Records.md "wikilink")。2004年解散。
 
 2000年9月發行的第3張單曲「[夏祭](../Page/夏祭.md "wikilink")」（的翻唱歌曲）被[TBS採用](../Page/TBS電視台.md "wikilink")，成為電視劇《》的主題歌並獲得熱烈迴響，創下[公信榜第](../Page/Oricon公信榜.md "wikilink")3名的史上最高排名成績。其後以這首歌曲在[第51回NHK紅白歌合戰亮相](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")。
 
@@ -26,29 +25,23 @@ Music Records所屬](../Page/Sony_Music_Records.md "wikilink")。2004年解散�
 
 ### 出道前
 
-1994年組團，團名「**Straberry
-Kids**（<small></small>）」。起因在當時還是小學生的稻葉彩，對父親彈著吉他演奏產生憧憬及受其影響下，與母親從事經營兒童服飾店的自家門口張貼海報招募樂團成員。其後經過多次樂團成員變動，最後與前田由紀、長谷川由加里、水澤里美、川村惠里加共5人組成。
+1994年組團，團名「**Straberry Kids**（<small></small>）」。起因在當時還是小學生的稻葉彩，對父親彈著吉他演奏產生憧憬及受其影響下，與母親從事經營兒童服飾店的自家門口張貼海報招募樂團成員。其後經過多次樂團成員變動，最後與前田由紀、長谷川由加里、水澤里美、川村惠里加共5人組成。
 
-業餘時期，常參加[北海道](../Page/北海道.md "wikilink")[北見市當地的音樂活動](../Page/北見市.md "wikilink")，1997年在[日本電視台](../Page/日本電視台.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")《》6月29日播出的集數中被介紹到，決定踏入樂壇。2001年因機緣之下，被邀請擔任同名綜藝節目的復活特別節目評審。
+業餘時期，常參加[北海道](../Page/北海道.md "wikilink")[北見市](../Page/北見市.md "wikilink")當地的音樂活動，1997年在[日本電視台](../Page/日本電視台.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")《》6月29日播出的集數中被介紹到，決定踏入樂壇。2001年因機緣之下，被邀請擔任同名綜藝節目的復活特別節目評審。
 
 ### 出道後
 
-1999年8月4日，Whiteberry以迷你專輯《》在樂壇正式出道。之後收錄在迷你專輯的歌曲「通學路」、和其它4首被同年7月1日至2001年3月29日在[東京電視網播出的](../Page/東京電視網.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[大嘴鳥](../Page/大嘴鳥_\(動畫\).md "wikilink")》採用。同年12月8日，[JUDY
-AND
-MARY的隊長](../Page/JUDY_AND_MARY.md "wikilink")擔任Whiteberry的[製作人和](../Page/音樂製作人.md "wikilink")[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")，發行Whiteberry的首張單曲「」。同名歌曲後來被[富士電視台的綜藝節目](../Page/富士電視台.md "wikilink")《[Mecha-Mecha
-Iketeru！](https://zh.wikipedia.org/wiki/Mecha-Mecha_Iketeru! "wikilink")》當片尾主題曲使用，並特別放大作介紹（播出之後創下21.1%的史上最高收視記錄）。2000年7月在北海道北見市、9月在[札幌市舉辦久違的家鄉現場演唱](../Page/札幌市.md "wikilink")。
+1999年8月4日，Whiteberry以迷你專輯《》在樂壇正式出道。之後收錄在迷你專輯的歌曲「通學路」、和其它4首被同年7月1日至2001年3月29日在[東京電視網](../Page/東京電視網.md "wikilink")播出的[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[大嘴鳥](../Page/大嘴鳥_\(動畫\).md "wikilink")》採用。同年12月8日，[JUDY AND MARY的隊長](../Page/JUDY_AND_MARY.md "wikilink")擔任Whiteberry的[製作人和](../Page/音樂製作人.md "wikilink")[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")，發行Whiteberry的首張單曲「」。同名歌曲後來被[富士電視台](../Page/富士電視台.md "wikilink")的綜藝節目《[Mecha-Mecha Iketeru！](https://zh.wikipedia.org/wiki/Mecha-Mecha_Iketeru! "wikilink")》當片尾主題曲使用，並特別放大作介紹（播出之後創下21.1%的史上最高收視記錄）。2000年7月在北海道北見市、9月在[札幌市](../Page/札幌市.md "wikilink")舉辦久違的家鄉現場演唱。
 
-2000年8月，Whiteberry翻唱的代表歌曲「[夏祭](../Page/夏祭.md "wikilink")」登上[Oricon公信榜第](../Page/Oricon公信榜.md "wikilink")3名的最高紀錄。同時在PV影片中以潮流性的[浴衣穿著](../Page/浴衣.md "wikilink")（[迷你裙長度的浴衣加有紋路的](../Page/迷你裙.md "wikilink")[內搭襪](https://zh.wikipedia.org/wiki/緊身褲 "wikilink")）廣受注目。後在[第51回NHK紅白歌合戰獲得邀請出賽](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")。另外，Whiteberry的首張專輯《》也登上Oricon公信榜圖表中的第3名，同時也成為打進Oricon公信榜圖表前3名的最年少樂團。
+2000年8月，Whiteberry翻唱的代表歌曲「[夏祭](../Page/夏祭.md "wikilink")」登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")第3名的最高紀錄。同時在PV影片中以潮流性的[浴衣](../Page/浴衣.md "wikilink")穿著（[迷你裙](../Page/迷你裙.md "wikilink")長度的浴衣加有紋路的[內搭襪](https://zh.wikipedia.org/wiki/緊身褲 "wikilink")）廣受注目。後在[第51回NHK紅白歌合戰獲得邀請出賽](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")。另外，Whiteberry的首張專輯《》也登上Oricon公信榜圖表中的第3名，同時也成為打進Oricon公信榜圖表前3名的最年少樂團。
 
 ### 宣布解散
 
-2004年3月31日，Whiteberry的所有成員準備報考大學，故參加活動演出的次數迅速減少，最後在（今名）、北見Onion
-Studio（今名北見Onion Holl）的現場演唱會中正式宣布解散。總計有4年7個月又27天（從出道年份算起）。
+2004年3月31日，Whiteberry的所有成員準備報考大學，故參加活動演出的次數迅速減少，最後在（今名）、北見Onion Studio（今名北見Onion Holl）的現場演唱會中正式宣布解散。總計有4年7個月又27天（從出道年份算起）。
 
 ### 解散後
 
-解散之後，除了以外的所有成員事實上都已經離開樂壇。2005年，前田以**yukki**的名義和[創作歌手的身分在獨奏界出道](../Page/創作歌手.md "wikilink")。2007年至2011年，她擔任過的[主唱參加演出](../Page/歌手.md "wikilink")，目前恢復並繼續從事獨奏活動。2016年，前田在她自己的[部落格表示以](https://zh.wikipedia.org/wiki/部落格 "wikilink")**前田有嬉**的名義曾出席秋祭Talk
-Live活動。並在翌年2017年，加入小型唱片公司繼續從事[獨唱歌手的事業](https://zh.wikipedia.org/wiki/獨唱 "wikilink")。
+解散之後，除了以外的所有成員事實上都已經離開樂壇。2005年，前田以**yukki**的名義和[創作歌手](../Page/創作歌手.md "wikilink")的身分在獨奏界出道。2007年至2011年，她擔任過的[主唱參加演出](../Page/歌手.md "wikilink")，目前恢復並繼續從事獨奏活動。2016年，前田在她自己的[部落格表示以](https://zh.wikipedia.org/wiki/部落格 "wikilink")**前田有嬉**的名義曾出席秋祭Talk Live活動。並在翌年2017年，加入小型唱片公司繼續從事[獨唱歌手的事業](https://zh.wikipedia.org/wiki/獨唱 "wikilink")。
 
 ## 作品列表
 
@@ -73,8 +66,8 @@ Live活動。並在翌年2017年，加入小型唱片公司繼續從事[獨唱�
 <td><ol>
 <li>YUKI（作詞：Whiteberry／作曲：恩田快人）
 <ul>
-<li><a href="../Page/富士電視台.md" title="wikilink">富士電視台綜藝節目</a>《<a href="https://zh.wikipedia.org/wiki/Mecha-Mecha_Iketeru!" title="wikilink">Mecha-Mecha Iketeru！</a>》片尾主題曲</li>
-<li><p>廣告歌曲（廣告影片中有播出<a href="../Page/音樂錄影帶.md" title="wikilink">音樂錄影帶的部分內容</a>）</p></li>
+<li><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>綜藝節目《<a href="https://zh.wikipedia.org/wiki/Mecha-Mecha_Iketeru!" title="wikilink">Mecha-Mecha Iketeru！</a>》片尾主題曲</li>
+<li><p>廣告歌曲（廣告影片中有播出<a href="../Page/音樂錄影帶.md" title="wikilink">音樂錄影帶</a>的部分內容）</p></li>
 </ul></li>
 <li><p>～／～（作詞：前田由紀，作曲：坂井紀雄）</p></li>
 </ol></td>
@@ -119,7 +112,7 @@ Live活動。並在翌年2017年，加入小型唱片公司繼續從事[獨唱�
 <li><p>（作詞：前田由紀，作曲：坂井紀雄）</p>
 <ul>
 <li>後在迷你專輯《after school》收錄重新編曲版，並改歌名叫「AKUBI」。</li>
-<li>AQ'A廣島中央街（Bargain sale）廣告歌曲（廣告影片中有播出<a href="../Page/音樂錄影帶.md" title="wikilink">音樂錄影帶的部分內容</a>，同時Whiteberry的成員<br />
+<li>AQ'A廣島中央街（Bargain sale）廣告歌曲（廣告影片中有播出<a href="../Page/音樂錄影帶.md" title="wikilink">音樂錄影帶</a>的部分內容，同時Whiteberry的成員<br />
 也在廣告影片中出場講『』、『』等台詞）。</li>
 </ul></li>
 <li>Dearest（作詞：稻月彩，作曲：坂井紀雄）</li>
@@ -148,11 +141,11 @@ Live活動。並在翌年2017年，加入小型唱片公司繼續從事[獨唱�
 <td><ol>
 <li><p>（作詞：川村惠里加，作曲：）</p>
 <ul>
-<li>全國<a href="../Page/東映.md" title="wikilink">東映系劇院上映電影動畫</a>《<a href="../Page/神奇寶貝劇場版：雪拉比_穿梭時空的相遇.md" title="wikilink">皮卡丘的心跳捉迷藏</a>》片頭主題曲</li>
+<li>全國<a href="../Page/東映.md" title="wikilink">東映</a>系劇院上映電影動畫《<a href="../Page/神奇寶貝劇場版：雪拉比_穿梭時空的相遇.md" title="wikilink">皮卡丘的心跳捉迷藏</a>》片頭主題曲</li>
 </ul></li>
 <li><p>（作詞：戶田昭吾，作曲：）</p>
 <ul>
-<li><a href="../Page/東京電視台.md" title="wikilink">東京電視台電視動畫</a>《<a href="../Page/神奇寶貝_(1997-2002年動畫).md" title="wikilink">神奇寶貝</a>》片頭主題曲</li>
+<li><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a>電視動畫《<a href="../Page/神奇寶貝_(1997-2002年動畫).md" title="wikilink">神奇寶貝</a>》片頭主題曲</li>
 </ul></li>
 </ol></td>
 <td><p>第20名</p></td>
@@ -165,7 +158,7 @@ Live活動。並在翌年2017年，加入小型唱片公司繼續從事[獨唱�
 <td><ol>
 <li><p>（作詞、作曲：Whiteberry）</p>
 <ul>
-<li><a href="../Page/日本電視台.md" title="wikilink">日本電視台新聞及情報節目</a>《》形象歌曲</li>
+<li><a href="../Page/日本電視台.md" title="wikilink">日本電視台</a>新聞及情報節目《》形象歌曲</li>
 </ul></li>
 <li><p>（作詞、作曲：Whiteberry）</p></li>
 </ol></td>
@@ -253,8 +246,8 @@ Live活動。並在翌年2017年，加入小型唱片公司繼續從事[獨唱�
 <li>Fight berry -Instrumental-（作曲：坂井紀雄）</li>
 <li><p>（作詞：Whiteberry，作曲：恩田快人）</p>
 <ul>
-<li><a href="../Page/東京電視台.md" title="wikilink">東京電視台電視動畫</a>《<a href="../Page/大嘴鳥_(動畫).md" title="wikilink">大嘴鳥</a>》ED主題歌曲</li>
-<li><a href="../Page/富士電視台.md" title="wikilink">富士電視台綜藝節目</a>《<a href="https://zh.wikipedia.org/wiki/Mecha-Mecha_Iketeru!" title="wikilink">Mecha-Mecha Iketeru！</a>》片尾主題曲</li>
+<li><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a>電視動畫《<a href="../Page/大嘴鳥_(動畫).md" title="wikilink">大嘴鳥</a>》ED主題歌曲</li>
+<li><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>綜藝節目《<a href="https://zh.wikipedia.org/wiki/Mecha-Mecha_Iketeru!" title="wikilink">Mecha-Mecha Iketeru！</a>》片尾主題曲</li>
 </ul></li>
 <li>AKUBI（作詞：前田由紀，作曲：坂井紀雄）</li>
 <li><p>（作詞：Whiteberry，作曲：恩田快人）</p></li>
@@ -409,23 +402,13 @@ Live活動。並在翌年2017年，加入小型唱片公司繼續從事[獨唱�
 
 ## 補充
 
-  - Whiteberry的首張單曲「」在出道初期很快的被[富士電視台採用](../Page/富士電視台.md "wikilink")，成為綜藝節目《[Mecha-Mecha
-    Iketeru！](https://zh.wikipedia.org/wiki/Mecha-Mecha_Iketeru! "wikilink")》的片尾主題曲。經過同名綜藝節目的介紹之後，緊接著「！」（後在首張專輯《（初）》收錄）、「通學路」（後在迷你專輯《after
-    school》、首張專輯《（初）》收錄）這兩首也被採用作為片尾主題曲。於是Whiteberry的歌曲在2年之內連續3次被電視節目採用。
+  - Whiteberry的首張單曲「」在出道初期很快的被[富士電視台](../Page/富士電視台.md "wikilink")採用，成為綜藝節目《[Mecha-Mecha Iketeru！](https://zh.wikipedia.org/wiki/Mecha-Mecha_Iketeru! "wikilink")》的片尾主題曲。經過同名綜藝節目的介紹之後，緊接著「！」（後在首張專輯《（初）》收錄）、「通學路」（後在迷你專輯《after school》、首張專輯《（初）》收錄）這兩首也被採用作為片尾主題曲。於是Whiteberry的歌曲在2年之內連續3次被電視節目採用。
 
 ## 來源
 
 ## 外部連結
 
-  - [Whiteberry](http://www.sonymusic.co.jp/Music/Info/whiteberry/)
-    －[Sony Music
-    Records的官方網站](../Page/Sony_Music_Records.md "wikilink")。
-  - [株式會社MUTOWN RECORDS](http://www.do-t.jp/mutown/index.html)的官方網站
-    （Whiteberry前成員現在加入的唱片公司）。
+  - [Whiteberry](http://www.sonymusic.co.jp/Music/Info/whiteberry/) －[Sony Music Records的官方網站](../Page/Sony_Music_Records.md "wikilink")。
+  - [株式會社MUTOWN RECORDS](http://www.do-t.jp/mutown/index.html)的官方網站 （Whiteberry前成員現在加入的唱片公司）。
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
-[Category:北海道出身人物](https://zh.wikipedia.org/wiki/Category:北海道出身人物 "wikilink")
-[Category:北見市](https://zh.wikipedia.org/wiki/Category:北見市 "wikilink")
-[Category:1994年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1994年成立的音樂團體 "wikilink")
-[Category:2004年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年解散的音樂團體 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink") [Category:北海道出身人物](https://zh.wikipedia.org/wiki/Category:北海道出身人物 "wikilink") [Category:北見市](https://zh.wikipedia.org/wiki/Category:北見市 "wikilink") [Category:1994年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1994年成立的音樂團體 "wikilink") [Category:2004年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年解散的音樂團體 "wikilink")

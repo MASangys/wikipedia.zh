@@ -1,8 +1,4 @@
-《**Thunderbolt Fantasy
-生死一劍**》是一部由[臺灣和](../Page/臺灣.md "wikilink")[日本雙方合作的](../Page/日本.md "wikilink")2017年[奇幻](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[武俠](https://zh.wikipedia.org/wiki/武俠 "wikilink")[布袋戲電影](../Page/布袋戲.md "wikilink")。其劇本由日本編劇[虛淵玄撰寫](../Page/虛淵玄.md "wikilink")，布袋戲劇由臺灣[霹靂布袋戲製作](../Page/霹靂布袋戲.md "wikilink")，為《[Thunderbolt
-Fantasy
-東離劍遊紀](../Page/Thunderbolt_Fantasy_東離劍遊紀.md "wikilink")》的外傳。全劇由兩個篇章組成，分別以《東離劍遊紀》中的兩位要角殺無生和殤不患為主角，殺無生篇為第一季前傳，殤不患篇為第一季之後、第二季之前的承接故事\[1\]\[2\]
-，分別於2017年12月2日在日本、以及12月8日在臺灣的各劇院上映。\[3\]
+《**Thunderbolt Fantasy 生死一劍**》是一部由[臺灣](../Page/臺灣.md "wikilink")和[日本](../Page/日本.md "wikilink")雙方合作的2017年[奇幻](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[武俠](https://zh.wikipedia.org/wiki/武俠 "wikilink")[布袋戲](../Page/布袋戲.md "wikilink")電影。其劇本由日本編劇[虛淵玄](../Page/虛淵玄.md "wikilink")撰寫，布袋戲劇由臺灣[霹靂布袋戲](../Page/霹靂布袋戲.md "wikilink")製作，為《[Thunderbolt Fantasy 東離劍遊紀](../Page/Thunderbolt_Fantasy_東離劍遊紀.md "wikilink")》的外傳。全劇由兩個篇章組成，分別以《東離劍遊紀》中的兩位要角殺無生和殤不患為主角，殺無生篇為第一季前傳，殤不患篇為第一季之後、第二季之前的承接故事\[1\]\[2\] ，分別於2017年12月2日在日本、以及12月8日在臺灣的各劇院上映。\[3\]
 
 ## 故事大綱
 
@@ -161,8 +157,7 @@ Fantasy
 ## 外部連結
 
   -
-[Category:霹靂布袋戲](https://zh.wikipedia.org/wiki/Category:霹靂布袋戲 "wikilink")
-[Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink")
+[Category:霹靂布袋戲](https://zh.wikipedia.org/wiki/Category:霹靂布袋戲 "wikilink") [Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink")
 
 1.
 2.

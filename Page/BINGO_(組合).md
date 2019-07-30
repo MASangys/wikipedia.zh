@@ -1,10 +1,8 @@
-**BINGO**，[香港的女子跳唱組合](../Page/香港.md "wikilink")，於2016年成立，現共3位成員。BINGO的現有成員包括關嘉敏（Carman）、陳康琪（Odilia）及
-夏子涓（Queena）現於天盟娛樂旗下。
+**BINGO**，[香港](../Page/香港.md "wikilink")的女子跳唱組合，於2016年成立，現共3位成員。BINGO的現有成員包括關嘉敏（Carman）、陳康琪（Odilia）及 夏子涓（Queena）現於天盟娛樂旗下。
 
 ## 團名由來
 
-團名共有兩個意思：「Begin and go」希望無論經過多少年，每位成員一直堅持最初的熱誠和初衷，將每一件事做到最好，及「Be 1 and
-go」以成為大家心目中第一女團的信念向前走。
+團名共有兩個意思：「Begin and go」希望無論經過多少年，每位成員一直堅持最初的熱誠和初衷，將每一件事做到最好，及「Be 1 and go」以成為大家心目中第一女團的信念向前走。
 
 ## 電視及電影演出經驗
 
@@ -144,6 +142,10 @@ go」以成為大家心目中第一女團的信念向前走。
   -
   -
   -
-[Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink")
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:粵語流行音樂團體](https://zh.wikipedia.org/wiki/Category:粵語流行音樂團體 "wikilink")
+  - [關嘉敏 (Carman) Facebook](https://www.facebook.com/Car67016701/)
+
+  - [陳康琪 (Odilia) Facebook](https://www.facebook.com/odi.odi.odilia/)
+
+  - [夏子涓 (Queena) Facebook](https://www.facebook.com/Queena.Bingo/)
+
+[Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:粵語流行音樂團體](https://zh.wikipedia.org/wiki/Category:粵語流行音樂團體 "wikilink")

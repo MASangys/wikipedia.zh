@@ -1,11 +1,8 @@
-《**Platinum
-End**》（）是一部[日本](../Page/日本.md "wikilink")[少年漫画](../Page/少年漫画.md "wikilink")，由[大场鸫原作](https://zh.wikipedia.org/wiki/大场鸫 "wikilink")、[小畑健作画](../Page/小畑健.md "wikilink")，于《[Jump
-Square](../Page/Jump_Square.md "wikilink")》2015年12月号正式开始连载\[1\]，该号杂志的正式发售日期是2015年11月4日。香港版及台灣版都將此作品歸類為[18禁](https://zh.wikipedia.org/wiki/18禁 "wikilink")。
+《**Platinum End**》（）是一部[日本](../Page/日本.md "wikilink")[少年漫画](../Page/少年漫画.md "wikilink")，由[大场鸫原作](https://zh.wikipedia.org/wiki/大场鸫 "wikilink")、[小畑健](../Page/小畑健.md "wikilink")作画，于《[Jump Square](../Page/Jump_Square.md "wikilink")》2015年12月号正式开始连载\[1\]，该号杂志的正式发售日期是2015年11月4日。香港版及台灣版都將此作品歸類為[18禁](https://zh.wikipedia.org/wiki/18禁 "wikilink")。
 
 ## 概要
 
-本漫画是[大场鸫和](https://zh.wikipedia.org/wiki/大场鸫 "wikilink")[小畑健继](../Page/小畑健.md "wikilink")《[死亡笔记](../Page/死亡笔记.md "wikilink")》及《[爆漫王。](https://zh.wikipedia.org/wiki/爆漫王。 "wikilink")》后又一次合作的作品，在连载之前提供9页试读\[2\]，但这次并不在过往曾经合作的[漫画杂志](https://zh.wikipedia.org/wiki/漫画杂志 "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》中连载，而是在[集英社的另外一部月刊漫画](../Page/集英社.md "wikilink")《[Jump
-Square](../Page/Jump_Square.md "wikilink")》中进行每月连载。
+本漫画是[大场鸫和](https://zh.wikipedia.org/wiki/大场鸫 "wikilink")[小畑健](../Page/小畑健.md "wikilink")继《[死亡笔记](../Page/死亡笔记.md "wikilink")》及《[爆漫王。](https://zh.wikipedia.org/wiki/爆漫王。 "wikilink")》后又一次合作的作品，在连载之前提供9页试读\[2\]，但这次并不在过往曾经合作的[漫画杂志](https://zh.wikipedia.org/wiki/漫画杂志 "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》中连载，而是在[集英社](../Page/集英社.md "wikilink")的另外一部月刊漫画《[Jump Square](../Page/Jump_Square.md "wikilink")》中进行每月连载。
 
 ## 故事简介
 
@@ -68,9 +65,7 @@ Square](../Page/Jump_Square.md "wikilink")》中进行每月连载。
 <!-- end list -->
 
   -
-    神的候選人之一，有語言障礙，生在貧苦家庭且長相並不怎麼好看，被家人與同儕之間唾棄，平時送報維生。直到青春期高峰時，母親上吊自殺，就在也
-    想赴入黃泉之時，被直覺天使**鮑瑅**所救。在都市奇俠第一次演說完後，便開始崇拜他，也將自己整形成外貌帥氣的面貌，Gran
-    Tower事件時看到明日與六階堂戰鬥將都市奇俠逼到絕境後，誓死要守護他。於是與天使展開調查，得知都市奇俠身份為生流奏後，便用紅箭控制同為上層學園的女學生-野口來聯絡他，後來生流奏提出條件要底谷一將神候補裝入箱子裡才能成為他的手下，於是將六階堂的妻子與女兒抓起來做俘虜。
+    神的候選人之一，有語言障礙，生在貧苦家庭且長相並不怎麼好看，被家人與同儕之間唾棄，平時送報維生。直到青春期高峰時，母親上吊自殺，就在也 想赴入黃泉之時，被直覺天使**鮑瑅**所救。在都市奇俠第一次演說完後，便開始崇拜他，也將自己整形成外貌帥氣的面貌，Gran Tower事件時看到明日與六階堂戰鬥將都市奇俠逼到絕境後，誓死要守護他。於是與天使展開調查，得知都市奇俠身份為生流奏後，便用紅箭控制同為上層學園的女學生-野口來聯絡他，後來生流奏提出條件要底谷一將神候補裝入箱子裡才能成為他的手下，於是將六階堂的妻子與女兒抓起來做俘虜。
     之後被花籠咲的紅箭射中，從中明白到生流奏只是一個冷酷的殺人狂魔而協助明日。
       -
         直覺天使，1級，相隨着底谷一的天使 。
@@ -198,18 +193,11 @@ Square](../Page/Jump_Square.md "wikilink")》中进行每月连载。
 
 ## 外部链接
 
-  - [集英社JUMP
-    SQUARE漫画连载官方网站](http://jumpsq.shueisha.co.jp/rensai/platinumend/)
+  - [集英社JUMP SQUARE漫画连载官方网站](http://jumpsq.shueisha.co.jp/rensai/platinumend/)
 
-  - [專題介紹：《死亡筆記》《爆漫》黃金組合 小畑健x大場鶇最新作品《PLATINUM
-    END～明日的天使～》](https://www.facebook.com/notes/674199509395690/)
+  - [專題介紹：《死亡筆記》《爆漫》黃金組合 小畑健x大場鶇最新作品《PLATINUM END～明日的天使～》](https://www.facebook.com/notes/674199509395690/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink")
-[Category:小畑健](https://zh.wikipedia.org/wiki/Category:小畑健 "wikilink")
-[Category:Jump_Square](https://zh.wikipedia.org/wiki/Category:Jump_Square "wikilink")
-[Category:死亡遊戲題材作品](https://zh.wikipedia.org/wiki/Category:死亡遊戲題材作品 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink") [Category:小畑健](https://zh.wikipedia.org/wiki/Category:小畑健 "wikilink") [Category:Jump_Square](https://zh.wikipedia.org/wiki/Category:Jump_Square "wikilink") [Category:死亡遊戲題材作品](https://zh.wikipedia.org/wiki/Category:死亡遊戲題材作品 "wikilink")
 
 1.
 

@@ -1,6 +1,4 @@
-**XOWA**是一个主要由匿名开发者用[Java编写的](../Page/Java.md "wikilink")[开源软件](../Page/开源软件.md "wikilink")，适用于希望在没有互联网连接的情况下运行自己的维基百科或任何其他兼容[Wiki的用户](../Page/Wiki.md "wikilink")。
-XOWA与[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[OSX](../Page/MacOS.md "wikilink")，[Linux和](../Page/Linux.md "wikilink")[Android兼容](../Page/Android.md "wikilink")。\[1\]
+**XOWA**是一个主要由匿名开发者用[Java](../Page/Java.md "wikilink")编写的[开源软件](../Page/开源软件.md "wikilink")，适用于希望在没有互联网连接的情况下运行自己的维基百科或任何其他兼容[Wiki](../Page/Wiki.md "wikilink")的用户。 XOWA与[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[OSX](../Page/MacOS.md "wikilink")，[Linux](../Page/Linux.md "wikilink")和[Android](../Page/Android.md "wikilink")兼容。\[1\]
 
 ## 主要功能
 
@@ -8,8 +6,7 @@ XOWA允许用户从[官方数据库转储或XOWA专门的数据库下载和导�
 
 ## 参考文献
 
-[Category:自由wiki软件](https://zh.wikipedia.org/wiki/Category:自由wiki软件 "wikilink")
-[Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
+[Category:自由wiki软件](https://zh.wikipedia.org/wiki/Category:自由wiki软件 "wikilink") [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
 
 1.
 2.

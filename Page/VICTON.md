@@ -1,11 +1,8 @@
-**VICTON**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Plan
-A娛樂首次推出的](../Page/Plan_A娛樂.md "wikilink")7人男子組合\[1\]。成員包括韓勝宇、姜昇植、許燦、林勢俊、都韓勢、崔秉燦、鄭秀彬，於2016年11月9日發行迷你專輯《Voice
-To New World》，以主打歌《I'm fine》出道\[2\]。
+**VICTON**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Plan A娛樂首次推出的](../Page/Plan_A娛樂.md "wikilink")7人男子組合\[1\]。成員包括韓勝宇、姜昇植、許燦、林勢俊、都韓勢、崔秉燦、鄭秀彬，於2016年11月9日發行迷你專輯《Voice To New World》，以主打歌《I'm fine》出道\[2\]。
 
-出道前曾以[Mnet實境節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《Me&7Men》亮相。
-他們亦是女子組合[APINK的師弟](https://zh.wikipedia.org/wiki/APINK "wikilink")，在出道前已備受大眾矚目。
+出道前曾以[Mnet實境節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《Me&7Men》亮相。 他們亦是女子組合[APINK的師弟](https://zh.wikipedia.org/wiki/APINK "wikilink")，在出道前已備受大眾矚目。
 
-出道百日的粉絲見面會上公布官方粉絲名為「**ALICE**」，意為「**A**lways we **L**ove the vo**ICE**」。
+出道百日的粉絲見面會上公布官方粉絲名為「ALICE」，意為「Always we Love the voICE」。
 
 官方應援色為Blue Atoll Pantone 306c（湖水藍）及Blazing Yellow Pantone 113c（閃耀黃）。
 
@@ -13,36 +10,40 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 
 ### 出道前
 
-  - 2016年8月17日，Plan A娛樂在社群網站公開會有一組練習生組成的新團體「Plan A
-    Boys」準備出道\[3\]，其後[Mnet在](https://zh.wikipedia.org/wiki/Mnet "wikilink")8月30日播出《Me&7Men》（）第一集以介紹「Plan
-    A
-    Boys」的出道過程\[4\]。次日（8月31日），他們在[許閣的歌曲](../Page/許閣.md "wikilink")《\#紧张》（）首次亮相和獻聲演唱\[5\]。
+  - 2016年8月17日，Plan A娛樂在社群網站公開會有一組練習生組成的新團體「Plan A Boys」準備出道\[3\]，其後[Mnet在](https://zh.wikipedia.org/wiki/Mnet "wikilink")8月30日播出《Me&7Men》（）第一集以介紹「Plan A Boys」的出道過程\[4\]。次日（8月31日），他們在[許閣](../Page/許閣.md "wikilink")的歌曲《\#紧张》（）首次亮相和獻聲演唱\[5\]。
 
 ### 2016年
 
-  - 11月1日，Plan A娛樂宣布Plan A Boys以「VICTON」之名在11月9日出道，並公開各成員的預告影片與照片\[6\]。
+  - 11月1日，Plan A娛樂宣布Plan A Boys以「VICTON」之名在11月9日正式出道。
+  - 11月9日，發行首張迷你專輯《Voice To New World》，並陸續公開各成員的預告影片與照片\[6\]。
 
 ### 2017年
 
   - 2月21日，Plan A娛樂宣布即將在3月2日發行第二張迷你專輯《READY》。22日，開始釋出各成員的宣傳照片以及宣傳影片。
   - 4月21日，Plan A娛樂宣布即將在5月27日舉行出道200日特別粉絲見面會《WELCOME TO VICTON CLASS》。
-  - 8月13日，Plan
-    A娛樂宣布將於8月23日以第三張迷你專輯《IDENTITY》回歸，後開始釋出各成員的宣傳照片以及宣傳影片，並於發行當天舉辦Showcase。\[7\]
-  - 10月27日，Plan A娛樂公開第四張迷你專輯《From. VICTON》Week
-    Teaser，後開始釋出各成員的宣傳照片以及宣傳影片。\[8\]
+  - 8月13日，Plan A娛樂宣布將於8月23日以第三張迷你專輯《IDENTITY》回歸，後開始釋出各成員的宣傳照片以及宣傳影片，並於發行當天舉辦Showcase。\[7\]
+  - 10月27日，Plan A娛樂公開第四張迷你專輯《From. VICTON》Week Teaser，後開始釋出各成員的宣傳照片以及宣傳影片。\[8\]
   - 11月9日，發行第四張迷你專輯《From. VICTON》，並於當天舉辦Showcase。
 
 ### 2018年
 
   - 4月30日，Plan A娛樂宣布即將在5月23日首張單曲《俉月哀》，後陸續釋出各成員的宣傳照片以及宣傳影片。\[9\]\[10\]
   - 8月3日，Plan A娛樂公開首次歐洲巡迴演出資訊，於9月11日莫斯科站開始。\[11\]
-  - 10月26日，Plan A娛樂公開韓國見面會《VICTON 1ST FAN MEETING : WELCOME TO
-    WONDERLAND》詳細資訊。
+  - 10月26日，Plan A娛樂公開韓國見面會《VICTON 1ST FAN MEETING : WELCOME TO WONDERLAND》詳細資訊。
 
 ### 2019年
 
-  - 3月15日，Plan A宣布成員韓勝宇、崔秉燦參加Mnet選秀節目《[PRODUCE X
-    101](../Page/PRODUCE_X_101.md "wikilink")》\[12\]，兩位成員皆進入A等級，進行主題曲Center網路投票。
+  - 3月15日，Plan A宣布成員韓勝宇、崔秉燦參加Mnet選秀節目《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》\[12\]，兩位成員皆進入A等級，進行主題曲Center網路投票。
+
+<!-- end list -->
+
+  - 7月11日，Play M宣布成員崔秉燦因健康問題，即慢性阿基里斯腱炎而退出《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》。<ref>
+
+</ref>
+
+  - 7月19日，於《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》最後一集中，成員韓勝宇以第三名成績進入期間限定團體[X1出道](../Page/X1_\(組合\).md "wikilink")。 <ref>
+
+</ref>
 
 ## 成員資料
 
@@ -85,7 +86,7 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 </tbody>
 </table>
 
-  - 韓勝宇為[Secret前成員](../Page/Secret_\(組合\).md "wikilink")[韓善伙的弟弟](../Page/韓善伙.md "wikilink")。
+  - 韓勝宇為[Secret前成員](../Page/Secret_\(組合\).md "wikilink")[韓善伙](../Page/韓善伙.md "wikilink")的弟弟。
   - 許燦為[MADTOWN前成員](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")[許俊的弟弟](https://zh.wikipedia.org/wiki/許俊 "wikilink")。
 
 ## 音樂作品
@@ -95,13 +96,13 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong>專輯 #</strong></p></td>
-<td><p><strong>專輯資料</strong></p></td>
-<td><p><strong>曲目</strong></p></td>
+<td><p>專輯 #</p></td>
+<td><p>專輯資料</p></td>
+<td><p>曲目</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>1st</strong></p></td>
-<td><p>首張迷你專輯《<strong>Voice To New World</strong>》</p>
+<td><p>1st</p></td>
+<td><p>首張迷你專輯《Voice To New World》</p>
 <ul>
 <li>發行日期：2016年11月9日</li>
 <li>語言：韓語</li>
@@ -110,8 +111,8 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>2nd</strong></p></td>
-<td><p>第二張迷你專輯《<strong>READY</strong>》</p>
+<td><p>2nd</p></td>
+<td><p>第二張迷你專輯《READY》</p>
 <ul>
 <li>發行日期：2017年3月2日</li>
 <li>語言：韓語</li>
@@ -120,8 +121,8 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>3rd</strong></p></td>
-<td><p>第三張迷你專輯《<strong>IDENTITY</strong>》</p>
+<td><p>3rd</p></td>
+<td><p>第三張迷你專輯《IDENTITY》</p>
 <ul>
 <li>發行日期：2017年8月23日</li>
 <li>語言：韓語</li>
@@ -130,8 +131,8 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>4th</strong></p></td>
-<td><p>第四張迷你專輯《<strong>From. VICTON</strong>》</p>
+<td><p>4th</p></td>
+<td><p>第四張迷你專輯《From. VICTON》</p>
 <ul>
 <li>發行日期：2017年11月9日</li>
 <li>語言：韓語</li>
@@ -147,35 +148,59 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong>單曲 #</strong></p></td>
-<td><p><strong>單曲資料</strong></p></td>
-<td><p><strong>曲目</strong></p></td>
+<td><p>單曲 #</p></td>
+<td><p>單曲資料</p></td>
+<td><p>曲目</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>-</strong></p></td>
-<td><p><a href="../Page/Plan_A娛樂.md" title="wikilink">Plan A娛樂第七張單曲</a>《<strong>'PLAN A' SECOND EPISODE</strong>》</p>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p>首張單曲《俉月哀》</p>
+<ul>
+<li>發行日期：2018年5月23日</li>
+<li>語言：韓語</li>
+<li>專輯銷量：18,015+[19]</li>
+</ul></td>
+<td><ol>
+<li>Time of sorrow （）</li>
+<li>Time of sorrow （Inst.）</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+
+### 音樂企劃
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年份</p></td>
+<td><p>單曲資料</p></td>
+<td><p>曲目</p></td>
+</tr>
+<tr class="even">
+<td><p>2016</p></td>
+<td><p>《'PLAN A' SECOND EPISODE》</p>
 <ul>
 <li>發行日期：2016年9月1日</li>
 <li>語言：韓語</li>
 <li>參與藝人：<a href="../Page/許閣.md" title="wikilink">許閣</a>、Plan A Boys</li>
 </ul></td>
-<td><ol>
-<li><strong>#緊張 （）</strong></li>
-</ol></td>
+<td><p>1. #緊張（#떨려）</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>1st</strong></p></td>
-<td><p>首張單曲《<strong>俉月哀</strong>》</p>
+<td><p>2017</p></td>
+<td><p>《'PLAN A' THIRD EPISODE》</p>
 <ul>
-<li>發行日期：2018年5月23日</li>
+<li>發行日期：2017年8月3日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：18,015+[19]</li>
-<li>參與藝人：Victon</li>
+<li>參與藝人：<a href="../Page/許閣.md" title="wikilink">許閣</a>、<a href="../Page/Apink.md" title="wikilink">Apink</a>、VICTON</li>
 </ul></td>
-<td><ol>
-<li><strong>Time of sorrow （）</strong></li>
-<li>Time of sorrow （Inst.）</li>
-</ol></td>
+<td><p>1. OASIS</p></td>
 </tr>
 </tbody>
 </table>
@@ -185,19 +210,19 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong>年份</strong></p></td>
-<td><p><strong>原聲帶資料</strong></p></td>
-<td><p><strong>曲目</strong></p></td>
+<td><p>年份</p></td>
+<td><p>原聲帶資料</p></td>
+<td><p>曲目</p></td>
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
-<td><p>《<strong>那個男人 吳秀 OST Part.6</strong>》</p>
+<td><p>《那個男人 吳秀 OST Part.6》</p>
 <ul>
 <li>發行日期：2018年4月9日</li>
 <li>語言：韓語</li>
 </ul></td>
 <td><ol>
-<li><strong>Celebrate</strong></li>
+<li>Celebrate</li>
 <li>Celebrate （Inst.）</li>
 </ol></td>
 </tr>
@@ -229,34 +254,35 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 | 年份                                                   | 發佈日期 | 歌曲名稱        | 合作歌手                                                                | 官方視頻                                                  |
 | 2016                                                 | 9月1日 | \#緊張（\#떨려）  | [許閣](../Page/許閣.md "wikilink")                                      | [Plan A](https://www.youtube.com/watch?v=sP5fIRWLjZg) |
 | [1theK](https://www.youtube.com/watch?v=tHH8tft4jcc) |      |             |                                                                     |                                                       |
-| 2017                                                 | 8月3日 | OASIS(오아시스) | [Apink](../Page/Apink.md "wikilink")、[許閣](../Page/許閣.md "wikilink") | [Plan A](https://www.youtube.com/watch?v=sP5fIRWLjZg) |
-| [1theK](https://www.youtube.com/watch?v=tHH8tft4jcc) |      |             |                                                                     |                                                       |
+| 2017                                                 | 8月3日 | OASIS(오아시스) | [Apink](../Page/Apink.md "wikilink")、[許閣](../Page/許閣.md "wikilink") | [Plan A](https://www.youtube.com/watch?v=TmbiR0BtKr4) |
+| [1theK](https://www.youtube.com/watch?v=Mu_s7n_XUUM) |      |             |                                                                     |                                                       |
 
   - Dance Practice(練習室版)
 
-|        |                                                                     |                                                                     |     |
-| ------ | ------------------------------------------------------------------- | ------------------------------------------------------------------- | --- |
-| 年份     | 發佈日期                                                                | 歌曲名稱                                                                | 備註  |
-| 2016   | 11月15日                                                              | [裝作若無其事（아무렇지 않은 척）](https://www.youtube.com/watch?v=h05m267uyHI)    |     |
-| 12月13日 | [What time is it now?](https://www.youtube.com/watch?v=kv4JguOZKhY) |                                                                     |     |
-| 2017   | 1月30日                                                               | [What time is it now?](https://www.youtube.com/watch?v=dUeworDEp1U) | 韓服版 |
-| 2月16日  | [The Chemistry](https://www.youtube.com/watch?v=4gNuK0GCVBM)        |                                                                     |     |
-| 3月14日  | [EYEZ EYEZ](https://www.youtube.com/watch?v=SH414uNi_u8)            |                                                                     |     |
-| 4月6日   | [Blank](https://www.youtube.com/watch?v=i9B5d5Fm13o)                |                                                                     |     |
-| 4月19日  | [Blank](https://www.youtube.com/watch?v=2eTgtiWP8pI)                | 制服版                                                                 |     |
-| 9月4日   | [不像話 （말도 안돼）](https://www.youtube.com/watch?v=_r7271fr2Zc)          |                                                                     |     |
-| 11月9日  | [记得我（나를 기억해）](https://www.youtube.com/watch?v=SO4UYIeTJ1o)          |                                                                     |     |
-| 12月24日 | [记得我（나를 기억해）](https://www.youtube.com/watch?v=LGUCD0sDs2g)          | 圣诞版                                                                 |     |
-| 2018   | 6月10日                                                               | [俉月哀 （오월애）](https://www.youtube.com/watch?v=-oauPoQ8pRQ)            | 制服版 |
-| 7月25日  | [俉月哀 （오월애）](https://www.youtube.com/watch?v=KBxdxm6VbkY)            | Random Camera版                                                      |     |
+|        |                                                                     |                                                                     |        |
+| ------ | ------------------------------------------------------------------- | ------------------------------------------------------------------- | ------ |
+| 年份     | 發佈日期                                                                | 歌曲名稱                                                                | 備註     |
+| 2016   | 11月15日                                                              | [裝作若無其事（아무렇지 않은 척）](https://www.youtube.com/watch?v=h05m267uyHI)    |        |
+| 12月13日 | [What time is it now?](https://www.youtube.com/watch?v=kv4JguOZKhY) |                                                                     |        |
+| 2017   | 1月30日                                                               | [What time is it now?](https://www.youtube.com/watch?v=dUeworDEp1U) | 韓服版    |
+| 2月16日  | [The Chemistry](https://www.youtube.com/watch?v=4gNuK0GCVBM)        |                                                                     |        |
+| 3月14日  | [EYEZ EYEZ](https://www.youtube.com/watch?v=SH414uNi_u8)            |                                                                     |        |
+| 4月6日   | [Blank](https://www.youtube.com/watch?v=i9B5d5Fm13o)                |                                                                     |        |
+| 4月19日  | [Blank](https://www.youtube.com/watch?v=2eTgtiWP8pI)                | 制服版                                                                 |        |
+| 9月4日   | [不像話 （말도 안돼）](https://www.youtube.com/watch?v=_r7271fr2Zc)          |                                                                     |        |
+| 11月9日  | [记得我（나를 기억해）](https://www.youtube.com/watch?v=SO4UYIeTJ1o)          |                                                                     |        |
+| 12月24日 | [记得我（나를 기억해）](https://www.youtube.com/watch?v=LGUCD0sDs2g)          | 圣诞版                                                                 |        |
+| 2018   | 4月24日                                                               | [记得我（나를 기억해）](https://www.youtube.com/watch?v=el4br_Ied_0)          | REMIX版 |
+| 6月10日  | [俉月哀 （오월애）](https://www.youtube.com/watch?v=-oauPoQ8pRQ)            | 制服版                                                                 |        |
+| 7月25日  | [俉月哀 （오월애）](https://www.youtube.com/watch?v=KBxdxm6VbkY)            | Random Camera版                                                      |        |
 
 ### 專屬影片
 
-|              |                                                                                   |                                                                                   |
-| ------------ | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 年份           | 名稱                                                                                | 官方視頻                                                                              |
-| 2016         | TVicton                                                                           | [VICTON](http://www.youtube.com/playlist?list=PLmK1FmGJobnB_ZKw-xvjjtAby2qH2R29k) |
-| VICTON diary | [VICTON](http://www.youtube.com/playlist?list=PLmK1FmGJobnAFs-QyXQjXrJV4F-uJNJmh) |                                                                                   |
+|              |                                                                                    |                                                                                    |
+| ------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| 年份           | 名稱                                                                                 | 官方視頻                                                                               |
+| 2016-至今      | TVicton                                                                            | [VICTON](https://www.youtube.com/playlist?list=PLmK1FmGJobnB_ZKw-xvjjtAby2qH2R29k) |
+| VICTON diary | [VICTON](https://www.youtube.com/playlist?list=PLmK1FmGJobnAFs-QyXQjXrJV4F-uJNJmh) |                                                                                    |
 
 ## 音樂創作
 
@@ -281,7 +307,7 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 | ----------------- |
 | 日期                |
 | 2015年10月5日-11月10日 |
-| 2019年6月4日-        |
+| 2019年6月4日-6月26日   |
 
 ### 專屬綜藝節目
 
@@ -292,6 +318,7 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 | 2016年11月12日-至今   |
 | 2016年11月17日-至今   |
 | 2017年5月16日-7月6日  |
+| 2018年4月26日-6月14日 |
 
 ### 綜藝節目
 
@@ -372,7 +399,7 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 | 2019年綜藝節目列表 |
 | ----------- |
 | 日期          |
-| 5月3日-       |
+| 5月3日-7月19日  |
 
 ### 廣播節目
 
@@ -448,8 +475,10 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 | 2018年1月30日       | 《KBS 平昌冬奧會G-10 開幕式》                         | KBS Arena Hall            |                                             |
 | 2018年4月13日、4月14日 | 《KCON 2018 JAPAN》                           | 幕張Messe國際展示場              |                                             |
 | 2018年5月26日       | 《SeoWon Valley Green Concert》               | Valley Coex Hall          |                                             |
+| 2018年8月1日        | 《2018 Korea Music Festival》                 | 首爾高尺 Sky dome             |                                             |
 | 2018年9月7日        | 《HallyuPopFest2018》                         | 新加坡室內體育館                  |                                             |
 | 2018年10月13日      | 《秋季浪漫音樂會》                                   | 群山青春夜市場                   |                                             |
+| 2018年11月24日      | 《 Posco Concert: Blooming Dreams》           | Posco中心大廳                 |                                             |
 | 2018年12月1日       | 《2018 Melon Music Awards》                   | 首爾高尺 Sky dome             | 許燦以1theK Dance War Team's Special Stage身分參與 |
 
 ## 獎項
@@ -532,42 +561,62 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 ## 外部連結
 
   -
+  - [VICTON的Twitter成員帳戶](https://twitter.com/NewWorld_VICTON)
+
   -
   -
   -
   - [VICTON](http://cafe.daum.net/PlanAboys/)在Daum cafe的頁面
 
-[Category:Plan_A娛樂](https://zh.wikipedia.org/wiki/Category:Plan_A娛樂 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink")
-[Category:VICTON](https://zh.wikipedia.org/wiki/Category:VICTON "wikilink")
+[Category:Plan_A娛樂](https://zh.wikipedia.org/wiki/Category:Plan_A娛樂 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink") [Category:VICTON](https://zh.wikipedia.org/wiki/Category:VICTON "wikilink")
 
 1.
+
 2.
+
 3.
+
 4.
+
 5.   allkpop.com|newspaper=allkpop|access-date=2016-11-12}}
+
 6.
+
 7.
+
 8.
+
 9.
+
 10.
 11.
+
 12.
+
 13. 成員本名已在官咖正名。
-14. [2016年12月GAON專輯榜26位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=12&hitYear=2016&termGbn=month)
-15. [2017年1月GAON專輯榜56位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=01&hitYear=2017&termGbn=month)
-16. [2017年4月GAON專輯榜17位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2017&termGbn=month)
-17. [2017年9月GAON專輯榜26位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=year)
-18. [2017年12月GAON專輯榜](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=12&hitYear=2017&termGbn=month)
-19. [2018年6月GAON專輯榜26位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=06&hitYear=2018&termGbn=month)
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
 20.
+
 21.
+
 22.
+
 23.
+
 24.
+
 25.
+
 26.

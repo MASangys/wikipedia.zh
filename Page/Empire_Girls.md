@@ -1,17 +1,12 @@
-**Empire
-Girls**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[明星帝國娛樂預計於](../Page/明星帝國娛樂.md "wikilink")2019年推出的女子團體，成員暫時包括金允智、姜詩賢、張孝耿、李多園、崔汝梨、趙朱殷。
+**Empire Girls**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[明星帝國娛樂](../Page/明星帝國娛樂.md "wikilink")預計於2019年推出的女子團體，成員暫時包括金允智、姜詩賢、張孝耿、李多園、崔汝梨、趙朱殷。
 
 ## 經歷
 
 ### 出道前:《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》
 
-  - 2015年12月，金允智、姜詩賢以Star Empire練習生的身份參演了《[PRODUCE
-    101](../Page/PRODUCE_101.md "wikilink")》。
-  - 2016年5月19日，Star Empire Entertainment
-    表示，目前正準備在六月底推出女子團體，但尚未決定是以五人組還是七人組形式，隊名也不一定是「OMZM
-    (올망졸망)」。\[1\]
-  - 2016年6月2日，Star Empire Entertainment 公開金允智、姜詩賢的宣傳照。另外，先前 Star Empire
-    Ent. 曾宣布將於六月底推出女子團體，允智、詩賢確定是成員之一。\[2\]
+  - 2015年12月，金允智、姜詩賢以Star Empire練習生的身份參演了《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》。
+  - 2016年5月19日，Star Empire Entertainment 表示，目前正準備在六月底推出女子團體，但尚未決定是以五人組還是七人組形式，隊名也不一定是「OMZM (올망졸망)」。\[1\]
+  - 2016年6月2日，Star Empire Entertainment 公開金允智、姜詩賢的宣傳照。另外，先前 Star Empire Ent. 曾宣布將於六月底推出女子團體，允智、詩賢確定是成員之一。\[2\]
   - 2017年年初允智曾短暫離開明星帝國，後來在[MIXNINE時重新加入公司](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")。
   - 2018年4月7日表演影片\[3\]
 
@@ -87,21 +82,16 @@ Girls**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[明星
 
 ## 外部連結
 
-  - [Star Empire Entertainment 官方 Twitter
-    專頁](https://twitter.com/STAREMPIRE_)
+  - [Star Empire Entertainment 官方 Twitter 專頁](https://twitter.com/STAREMPIRE_)
   - [OMZM 官方 Twitter 專頁](https://twitter.com/officialomzm)
   - [Empire Girls官方 Twitter 專頁](https://twitter.com/starempiregirls)
   - [Empire Girls官方facebook專頁](https://m.facebook.com/StarempireGirls)
-  - [Empire
-    Girls官方Instagram](https://www.instagram.com/empire_girls_official/)
-  - [Empire
-    Girls官方Youtube](https://www.youtube.com/channel/UCczq4fRpRvn--65MzYZEoWA/featured)
+  - [Empire Girls官方Instagram](https://www.instagram.com/empire_girls_official/)
+  - [Empire Girls官方Youtube](https://www.youtube.com/channel/UCczq4fRpRvn--65MzYZEoWA/featured)
 
 {{-}}
 
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
+[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
 
 1.  [Han Hye Ri、Shim Chae Eun 六月出道](http://kpopn.niusnews.com/=K3wtw815)
 2.  [韓惠里、姜詩賢宣傳照公開](http://kpopn.niusnews.com/=K2ju60u7)

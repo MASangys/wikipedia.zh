@@ -1,8 +1,6 @@
-[SM娱乐演唱會品牌系列](https://zh.wikipedia.org/wiki/SM娱乐 "wikilink")《**THE
-AGIT**》的命名取自於「為SM的藝人們專門準備的用來招待歌迷的秘密活動指揮部（Agitpunkt的縮略）」。
+[SM娱乐演唱會品牌系列](https://zh.wikipedia.org/wiki/SM娱乐 "wikilink")《**THE AGIT**》的命名取自於「為SM的藝人們專門準備的用來招待歌迷的秘密活動指揮部（Agitpunkt的縮略）」。
 
-演唱會在輕量型公演場、[首爾三成洞SMTOWN](../Page/首爾.md "wikilink") COEX SMTOWN
-THEATRE舉行，SM旗下的藝術家們以特別的概念展開接力演出。
+演唱會在輕量型公演場、[首爾](../Page/首爾.md "wikilink")三成洞SMTOWN COEX SMTOWN THEATRE舉行，SM旗下的藝術家們以特別的概念展開接力演出。
 
 ## 演唱會
 
@@ -69,8 +67,7 @@ THEATRE舉行，SM旗下的藝術家們以特別的概念展開接力演出。
 | 2016年3月12日 | 16:00 |         |
 | 2016年3月13日 | 16:00 |         |
 
-  - 《SWEET COFFEE (커피 한 잔 시럽은
-    많이)(一杯咖啡糖很多)》[藝聲](../Page/藝聲.md "wikilink")
+  - 《SWEET COFFEE (커피 한 잔 시럽은 많이)(一杯咖啡糖很多)》[藝聲](../Page/藝聲.md "wikilink")
 
 | 日期         | 時間    | 備註      |
 | ---------- | ----- | ------- |
@@ -84,8 +81,7 @@ THEATRE舉行，SM旗下的藝術家們以特別的概念展開接力演出。
 | 2016年8月6日  | 16:00 |         |
 | 2016年8月7日  | 16:00 |         |
 
-  - 《WEEKEND
-    (위켄드)》[TIFFANY](https://zh.wikipedia.org/wiki/黄美英 "wikilink")
+  - 《WEEKEND (위켄드)》[TIFFANY](https://zh.wikipedia.org/wiki/黄美英 "wikilink")
 
 | 日期         | 時間    | 備註       |
 | ---------- | ----- | -------- |
@@ -148,8 +144,7 @@ THEATRE舉行，SM旗下的藝術家們以特別的概念展開接力演出。
 | 2017年12月16日 | 18:00 |    |
 |             |       |    |
 
-  - 《CNL (Christmas\! Night\!
-    Live\!)》[艾迪·金](https://zh.wikipedia.org/wiki/艾迪·金 "wikilink")
+  - 《CNL (Christmas\! Night\! Live\!)》[艾迪·金](https://zh.wikipedia.org/wiki/艾迪·金 "wikilink")
 
 | 日期          | 時間    | 備註 |
 | ----------- | ----- | -- |

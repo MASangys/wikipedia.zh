@@ -1,21 +1,10 @@
-《**NEW
-MEN**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB的第](../Page/BTOB.md "wikilink")9張韓語迷你專輯，於2016年11月7日發行，主打歌曲為《祈禱（I'll
-Be Your Man）》（）\[1\]。
+《**NEW MEN**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的第9張韓語迷你專輯，於2016年11月7日發行，主打歌曲為《祈禱（I'll Be Your Man）》（）\[1\]。
 
 ## 背景
 
-2016年10月27日，公開專輯名稱「NEW MEN」及發行日期、回歸日程
-\[2\]\[3\]。10月31日、11月1日，公開團體及七名成員概念照
-\[4\]。11月2日，發佈Album Intro Teaser \[5\]。11月3日，公開Track List
-\[6\]。11月4日，公開Album Preview \[7\]。11月5日，發佈主打曲M/V Teaser
-\[8\]。11月7日，發佈專輯完整曲目及主打曲完整版M/V，由成員[Peniel執導](https://zh.wikipedia.org/wiki/Peniel "wikilink")
-\[9\]。
-主打歌曲《祈禱（I'll Be Your
-Man）》，由成員[炫植參與作曲填詞編曲](https://zh.wikipedia.org/wiki/炫植 "wikilink")，講述無法忘記已離開的女人，為成為她身邊的男人而虔誠祈禱，是展現充滿力量的Rap及感染力的歌曲。這是BTOB在「抒情三部曲」之後，顛覆「Healing
-dol（治癒系偶像）」印象，繼2014年後睽違2年再次以舞曲主打回歸，並如專輯名稱一般展現強烈性感全新的形象 \[10\]。
-此外，其中的收錄曲《過現未愛》，是七名成員為粉絲創作的Fan
-Song，源自成員[昌燮的新造詞](https://zh.wikipedia.org/wiki/昌燮 "wikilink")，意謂著“過去、現在、未來，都愛著你”的意思
-\[11\]。
+2016年10月27日，公開專輯名稱「NEW MEN」及發行日期、回歸日程 \[2\]\[3\]。10月31日、11月1日，公開團體及七名成員概念照 \[4\]。11月2日，發佈Album Intro Teaser \[5\]。11月3日，公開Track List \[6\]。11月4日，公開Album Preview \[7\]。11月5日，發佈主打曲M/V Teaser \[8\]。11月7日，發佈專輯完整曲目及主打曲完整版M/V，由成員[Peniel執導](https://zh.wikipedia.org/wiki/Peniel "wikilink") \[9\]。
+主打歌曲《祈禱（I'll Be Your Man）》，由成員[炫植參與作曲填詞編曲](https://zh.wikipedia.org/wiki/炫植 "wikilink")，講述無法忘記已離開的女人，為成為她身邊的男人而虔誠祈禱，是展現充滿力量的Rap及感染力的歌曲。這是BTOB在「抒情三部曲」之後，顛覆「Healing dol（治癒系偶像）」印象，繼2014年後睽違2年再次以舞曲主打回歸，並如專輯名稱一般展現強烈性感全新的形象 \[10\]。
+此外，其中的收錄曲《過現未愛》，是七名成員為粉絲創作的Fan Song，源自成員[昌燮的新造詞](https://zh.wikipedia.org/wiki/昌燮 "wikilink")，意謂著“過去、現在、未來，都愛著你”的意思 \[11\]。
 
 ## 曲目
 
@@ -191,25 +180,15 @@ Song，源自成員[昌燮的新造詞](https://zh.wikipedia.org/wiki/昌燮 "wi
 
 ## 参考文献
 
-[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
-[Category:BTOB音樂專輯](https://zh.wikipedia.org/wiki/Category:BTOB音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:BTOB音樂專輯](https://zh.wikipedia.org/wiki/Category:BTOB音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
-1.  [비투비, 컴백 일정 공유…“신곡 ‘기도’, 파워풀한 남성미
-    강조”](http://entertain.naver.com/read?oid=382&aid=0000514793&spi_ref=m_entertain_twitter)
-    Naver 2016-10-28
+1.  [비투비, 컴백 일정 공유…“신곡 ‘기도’, 파워풀한 남성미 강조”](http://entertain.naver.com/read?oid=382&aid=0000514793&spi_ref=m_entertain_twitter) Naver 2016-10-28
 
-2.  [BTOB 9th MINI ALBUM 「NEW
-    MEN」](https://twitter.com/OFFICIALBTOB/status/791456502326321152)
-    OFFICALBTOB Twitter
+2.  [BTOB 9th MINI ALBUM 「NEW MEN」](https://twitter.com/OFFICIALBTOB/status/791456502326321152) OFFICALBTOB Twitter
 
-3.  [COMEBACK
-    SCHEDULE](https://twitter.com/OFFICIALBTOB/status/791806743793717250)
-    OFFICALBTOB Twitter
+3.  [COMEBACK SCHEDULE](https://twitter.com/OFFICIALBTOB/status/791806743793717250) OFFICALBTOB Twitter
 
-4.  [BTOB 9th MINI ALBUM「NEW MEN」CONCEPT
-    IMAGE 1](https://twitter.com/OFFICIALBTOB/status/792954318630420480)
-    OFFICALBTOB Twitter
+4.  [BTOB 9th MINI ALBUM「NEW MEN」CONCEPT IMAGE 1](https://twitter.com/OFFICIALBTOB/status/792954318630420480) OFFICALBTOB Twitter
 
 5.
 
@@ -221,12 +200,9 @@ Song，源自成員[昌燮的新造詞](https://zh.wikipedia.org/wiki/昌燮 "wi
 
 9.
 
-10. ['컴백' 비투비, 남성적 매력 과시 흑백티저
-    공개](http://entertain.naver.com/read?oid=311&aid=0000668079&spi_ref=m_entertain_twitter)
-    Naver 2016-11-01
+10. ['컴백' 비투비, 남성적 매력 과시 흑백티저 공개](http://entertain.naver.com/read?oid=311&aid=0000668079&spi_ref=m_entertain_twitter) Naver 2016-11-01
 
-11. [BTOB 迷你九輯《NEW MEN》曲目表](http://kpopn.niusnews.com/=K31ui812) Kpopn
-    2016-11-03
+11. [BTOB 迷你九輯《NEW MEN》曲目表](http://kpopn.niusnews.com/=K31ui812) Kpopn 2016-11-03
 
 12.
 

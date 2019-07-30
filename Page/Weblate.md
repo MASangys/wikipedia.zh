@@ -22,8 +22,7 @@ Weblate被用于翻译诸多自由软件和深夜软件. 自由软件项目包�
 
   - MyPaint \[2\]
   - FreePBX \[3\]
-  - [phpMyAdmin](https://zh.wikipedia.org/wiki/phpMyAdmin "wikilink")
-    \[4\]
+  - [phpMyAdmin](https://zh.wikipedia.org/wiki/phpMyAdmin "wikilink") \[4\]
   - Unknown Horizons \[5\]
   - [OpenPetra](https://www.openpetra.org/) \[6\]
   - Aptoide \[7\]
@@ -41,19 +40,12 @@ Weblate被用于翻译诸多自由软件和深夜软件. 自由软件项目包�
 
 ## 参考文献
 
-[Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink")
-[Category:軟體在地化工具](https://zh.wikipedia.org/wiki/Category:軟體在地化工具 "wikilink")
+[Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink") [Category:軟體在地化工具](https://zh.wikipedia.org/wiki/Category:軟體在地化工具 "wikilink")
 
-1.  [Supported file formats in
-    Weblate](https://docs.weblate.org/en/latest/formats.html)
-2.  [libmypaint is ready for
-    translation](http://mypaint.intilinux.com/?p=755)
-3.  [Translating FreePBX with
-    Weblate](http://wiki.freepbx.org/display/FOP/Translating+FreePBX+with+Weblate)
+1.  [Supported file formats in Weblate](https://docs.weblate.org/en/latest/formats.html)
+2.  [libmypaint is ready for translation](http://mypaint.intilinux.com/?p=755)
+3.  [Translating FreePBX with Weblate](http://wiki.freepbx.org/display/FOP/Translating+FreePBX+with+Weblate)
 4.  [Translating phpMyAdmin](https://www.phpmyadmin.net/translate/)
-5.  [Weblate replaces Pootle for managing
-    translations](http://www.unknown-horizons.org/devblog/101/114/Weblate-replaces-Pootle-for-managing-translations/)
-
-6.  [OpenPetra Documentation for
-    Translators](https://wiki.openpetra.org/index.php/Documentation_for_Translators)
+5.  [Weblate replaces Pootle for managing translations](http://www.unknown-horizons.org/devblog/101/114/Weblate-replaces-Pootle-for-managing-translations/)
+6.  [OpenPetra Documentation for Translators](https://wiki.openpetra.org/index.php/Documentation_for_Translators)
 7.  [Translating Aptoide](http://translate.aptoide.com/)

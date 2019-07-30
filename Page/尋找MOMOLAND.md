@@ -1,6 +1,4 @@
-《**尋找MOMOLAND**》（韓語：모모랜드를
-찾아서）是韓國[Mnet電視台的綜藝節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")，由[二段橫踢](https://zh.wikipedia.org/wiki/二段橫踢 "wikilink")、[新沙洞老虎](../Page/新沙洞老虎.md "wikilink")、[Rhymer](https://zh.wikipedia.org/wiki/Rhymer "wikilink")、[裴允貞](https://zh.wikipedia.org/wiki/裴允貞 "wikilink")、[鄭鎮石擔任固定評審](https://zh.wikipedia.org/wiki/鄭鎮石 "wikilink")，節目亦邀請嘉賓擔任特別評審。節目主要為[Dublekick
-Company娛樂公司練習生](https://zh.wikipedia.org/wiki/Dublekick_Company "wikilink")，透過節目進行選秀組成女團[MOMOLAND的成員](../Page/MOMOLAND.md "wikilink")\[1\]。
+《**尋找MOMOLAND**》（韓語：모모랜드를 찾아서）是韓國[Mnet電視台的綜藝節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")，由[二段橫踢](https://zh.wikipedia.org/wiki/二段橫踢 "wikilink")、[新沙洞老虎](../Page/新沙洞老虎.md "wikilink")、[Rhymer](https://zh.wikipedia.org/wiki/Rhymer "wikilink")、[裴允貞](https://zh.wikipedia.org/wiki/裴允貞 "wikilink")、[鄭鎮石擔任固定評審](https://zh.wikipedia.org/wiki/鄭鎮石 "wikilink")，節目亦邀請嘉賓擔任特別評審。節目主要為[Dublekick Company娛樂公司練習生](https://zh.wikipedia.org/wiki/Dublekick_Company "wikilink")，透過節目進行選秀組成女團[MOMOLAND](../Page/MOMOLAND.md "wikilink")的成員\[1\]。
 
 ## 練習生
 
@@ -11,8 +9,7 @@ Company娛樂公司練習生](https://zh.wikipedia.org/wiki/Dublekick_Company "w
   - [Jane](../Page/MOMOLAND.md "wikilink")
   - [妸仁](https://zh.wikipedia.org/wiki/妸仁 "wikilink")
   - [娜允](https://zh.wikipedia.org/wiki/娜允 "wikilink")
-  - [Daisy](../Page/MOMOLAND.md "wikilink")(曾是JYP
-    Entertainment練習生)(落選，但在2017年中途加入MOMOLAND)
+  - [Daisy](../Page/MOMOLAND.md "wikilink")(曾是JYP Entertainment練習生)(落選，但在2017年中途加入MOMOLAND)
   - [申時雅](../Page/尋找MOMOLAND.md "wikilink")(落選)
   - [熙在](../Page/尋找MOMOLAND.md "wikilink")(落選)
 
@@ -62,8 +59,6 @@ Company娛樂公司練習生](https://zh.wikipedia.org/wiki/Dublekick_Company "w
 
 ## 參考資料
 
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
 1.  <http://entertain.naver.com/read?oid=311&aid=0000643244>

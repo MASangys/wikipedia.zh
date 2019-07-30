@@ -1,4 +1,4 @@
-本列表列出[香港](../Page/香港.md "wikilink")[ViuTV於](../Page/ViuTV.md "wikilink")2018年所播放的[電視連續劇集](https://zh.wikipedia.org/wiki/電視連續劇集 "wikilink")。
+本列表列出[香港](../Page/香港.md "wikilink")[ViuTV](../Page/ViuTV.md "wikilink")於2018年所播放的[電視連續劇集](https://zh.wikipedia.org/wiki/電視連續劇集 "wikilink")。
 
 除特別註明外，所有劇集播放時均為高清製作。
 
@@ -6,7 +6,7 @@
 
 ### 午後劇點／熱捧劇站（2月7日起）
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")13:30-15:00播出，逢星期二至六03:30-05:00（5月1日起改為03:15-04:30；12月1日起改為04:30-06:00）重播；5月11日至11月29日改為13:30-14:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五13:30-15:00播出，逢星期二至六03:30-05:00（5月1日起改為03:15-04:30；12月1日起改為04:30-06:00）重播；5月11日至11月29日改為13:30-14:30播出
 
 <table style="width:344%;">
 <colgroup>
@@ -240,7 +240,7 @@ Drinking Solo</p></td>
 
 ### 下午劇集時段
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")14:30-15:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五14:30-15:00播出
 
 <table style="width:344%;">
 <colgroup>
@@ -374,7 +374,7 @@ Margaret and David - Ex Special</p></td>
 
 ### 第一線劇集
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")19:00-19:50（4月2日起改為19:00-20:00）播出，逢星期二至五及下星期一10:00-11:00重播；4月30日起改為19:30-19:55/20:00播出，逢星期二至五及下星期一10:30-11:00重播
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五19:00-19:50（4月2日起改為19:00-20:00）播出，逢星期二至五及下星期一10:00-11:00重播；4月30日起改為19:30-19:55/20:00播出，逢星期二至五及下星期一10:30-11:00重播
 
 <table style="width:344%;">
 <colgroup>
@@ -518,14 +518,14 @@ Legend of Fu Yao</p></td>
 插：血如墨（<a href="../Page/张碧晨.md" title="wikilink">张碧晨</a>）<br />
 插：傲红尘（<a href="../Page/尤长靖.md" title="wikilink">尤长靖</a>）<br />
 插：少年（<a href="https://zh.wikipedia.org/wiki/孙郡" title="wikilink">孙郡</a>）</p></td>
-<td style="text-align: center;"><p>外購劇（<a href="../Page/中國.md" title="wikilink">中國上海檸萌影視傳媒有限公司</a>），12月14日及31日暫停播映，12月25日及26日早上重播時段改為11:30-12:00</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/中國.md" title="wikilink">中國</a>上海檸萌影視傳媒有限公司），12月14日及31日暫停播映，12月25日及26日早上重播時段改為11:30-12:00</p></td>
 </tr>
 </tbody>
 </table>
 
 ### 第二線劇集
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")20:30/20:35-21:55/22:00播出，逢星期二至六01:30-03:00重播；4月30日起改為20:45-22:00（7月16日起改為20:30-21:45）播出，逢星期二至六01:30-02:45（7月16日起改為03:00-04:15）重播
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五20:30/20:35-21:55/22:00播出，逢星期二至六01:30-03:00重播；4月30日起改為20:45-22:00（7月16日起改為20:30-21:45）播出，逢星期二至六01:30-02:45（7月16日起改為03:00-04:15）重播
 
 <table style="width:344%;">
 <colgroup>
@@ -765,7 +765,7 @@ Misty</p></td>
 
 ### 第三線劇集
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")22:00-22:30播出；7月16日起改為逢星期一至五23:30-00:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五22:00-22:30播出；7月16日起改為逢星期一至五23:30-00:00播出
 
 <table style="width:344%;">
 <colgroup>
@@ -904,7 +904,7 @@ Being an Actor</p></td>
 
 #### 星期一至四
 
-[香港時間逢星期二至五](../Page/香港時間.md "wikilink")<small>（星期一至四深夜）</small>00:30/00:35-01:30播出；7月17日起改為01:00-02:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期二至五<small>（星期一至四深夜）</small>00:30/00:35-01:30播出；7月17日起改為01:00-02:30播出
 
 <table style="width:344%;">
 <colgroup>
@@ -1106,7 +1106,7 @@ Reply 1988</p></td>
 
 #### 星期五
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")<small>（星期五深夜）</small>01:00-01:30播出；7月21日起改為01:30-02:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六<small>（星期五深夜）</small>01:00-01:30播出；7月21日起改為01:30-02:30播出
 
 <table style="width:344%;">
 <colgroup>
@@ -1172,7 +1172,7 @@ Rock Love Story</p></td>
 
 ### 中午劇集時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")12:30-14:30播出（**每次播映兩集**）；10月27日起改為12:30-13:30播出（**每次播映一集**）；12月22日起改為11:00-12:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六12:30-14:30播出（**每次播映兩集**）；10月27日起改為12:30-13:30播出（**每次播映一集**）；12月22日起改為11:00-12:00播出
 
 <table style="width:344%;">
 <colgroup>
@@ -1265,7 +1265,7 @@ Gu Family</p></td>
 
 ### 第一線劇集
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")20:30-21:30播出；8月18日起改為21:30-22:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六20:30-21:30播出；8月18日起改為21:30-22:30播出
 
 <table style="width:344%;">
 <colgroup>
@@ -1368,7 +1368,7 @@ Ossan's Love</p></td>
 
 ### 中午劇集時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")12:30-13:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日12:30-13:30播出
 
 <table style="width:344%;">
 <colgroup>
@@ -1432,7 +1432,7 @@ CRISIS</p></td>
 
 ### 第一線劇集
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")21:30-22:15播出；12月9日起改為21:30-22:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日21:30-22:15播出；12月9日起改為21:30-22:30播出
 
 <table style="width:344%;">
 <colgroup>
@@ -1474,7 +1474,7 @@ Dark Secret</p></td>
 章　軍、<br />
 張永達</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主：暗算天機主題音樂（<a href="../Page/韋啟良.md" title="wikilink">韋啟良作曲</a>）<br />
+<td style="text-align: center;"><p>主：暗算天機主題音樂（<a href="../Page/韋啟良.md" title="wikilink">韋啟良</a>作曲）<br />
 尾：天機泄露（獨唱版）（<a href="../Page/沈震軒.md" title="wikilink">沈震軒</a>）<br />
 尾：天機泄露（合唱版）（<a href="../Page/沈震軒.md" title="wikilink">沈震軒</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>）</p></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/耀榮文化.md" title="wikilink">耀榮文化</a>），12月2日改為21:30-22:30播出</p></td>
@@ -1491,7 +1491,7 @@ The Trading Floor</p></td>
 <a href="../Page/潘燦良.md" title="wikilink">潘燦良</a>、<a href="../Page/譚耀文.md" title="wikilink">譚耀文</a>、<a href="https://zh.wikipedia.org/wiki/張可頤" title="wikilink">張可頤</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/劉德華.md" title="wikilink">劉德華</a></p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主：東方華爾街主題音樂（<a href="../Page/韋啟良.md" title="wikilink">韋啟良作曲</a>）<br />
+<td style="text-align: center;"><p>主：東方華爾街主題音樂（<a href="../Page/韋啟良.md" title="wikilink">韋啟良</a>作曲）<br />
 插：暗湧（<a href="../Page/王菲.md" title="wikilink">王　菲</a>）</p></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/福斯傳媒集團.md" title="wikilink">福斯傳媒集團</a>），12月30日改為21:30-22:45播出</p></td>
 </tr>
@@ -1593,7 +1593,7 @@ The Woman Who Took The Local Paper</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>19/02</p></td>
-<td style="text-align: center;"><p><a href="../Page/貓侍.md" title="wikilink">貓侍前傳：玉之丞萌翻江戶</a><br />
+<td style="text-align: center;"><p><a href="../Page/貓侍.md" title="wikilink">貓侍</a>前傳：玉之丞萌翻江戶<br />
 Neko Samurai: Tamanojo Goes To Edo</p></td>
 <td style="text-align: center;"><p>4</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
@@ -1888,5 +1888,4 @@ Wedding Bells for the Otaku?</p></td>
 
   - [ViuTV節目表](http://viu.tv/epg/99)
 
-[Category:香港電視娛樂節目列表](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目列表 "wikilink")
-[Category:香港電視節目列表](https://zh.wikipedia.org/wiki/Category:香港電視節目列表 "wikilink")
+[Category:香港電視娛樂節目列表](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目列表 "wikilink") [Category:香港電視節目列表](https://zh.wikipedia.org/wiki/Category:香港電視節目列表 "wikilink")

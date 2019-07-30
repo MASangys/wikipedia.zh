@@ -1,4 +1,4 @@
-**《華Xiao英雄》**（）是一部2015年上映的[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[華語電影](https://zh.wikipedia.org/wiki/華語 "wikilink")，由馬來西亞演員[關德輝投資拍攝](../Page/關德輝.md "wikilink")，[香港導演](../Page/香港.md "wikilink")[李力持和馬來西亞導演](../Page/李力持.md "wikilink")[李家鋐執導](https://zh.wikipedia.org/wiki/李家鋐 "wikilink")，並由關德輝、[朱咪咪](../Page/朱咪咪.md "wikilink")、[唐文龍](../Page/唐文龍.md "wikilink")、[李元玲](../Page/李元玲.md "wikilink")、[李馨巧和](../Page/李馨巧.md "wikilink")[黎明主演](https://zh.wikipedia.org/wiki/黎明_\(馬來西亞藝人\) "wikilink")。
+**《華Xiao英雄》**（）是一部2015年上映的[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[華語電影](https://zh.wikipedia.org/wiki/華語 "wikilink")，由馬來西亞演員[關德輝](../Page/關德輝.md "wikilink")投資拍攝，[香港](../Page/香港.md "wikilink")導演[李力持](../Page/李力持.md "wikilink")和馬來西亞導演[李家鋐執導](https://zh.wikipedia.org/wiki/李家鋐 "wikilink")，並由關德輝、[朱咪咪](../Page/朱咪咪.md "wikilink")、[唐文龍](../Page/唐文龍.md "wikilink")、[李元玲](../Page/李元玲.md "wikilink")、[李馨巧](../Page/李馨巧.md "wikilink")和[黎明主演](https://zh.wikipedia.org/wiki/黎明_\(馬來西亞藝人\) "wikilink")。
 
 ## 劇情
 
@@ -8,7 +8,7 @@
 
 ## 製作
 
-《華Xiao英雄》由關德輝注資拍攝，於2012年底開始拍攝工作，並在翌年1月8日殺青\[3\]，在馬來西亞一個小島上拍攝\[4\]。關德輝找來香港導演李力持擔任《華Xiao英雄》的總導演\[5\]。拍攝前曾在馬來西亞和[新加坡舉行](../Page/新加坡.md "wikilink")5場試鏡\[6\]。該片原本的製作成本是200萬[令吉](https://zh.wikipedia.org/wiki/令吉 "wikilink")\[7\]，但因關德輝對電影的要求高，使製作成本超支了50萬令吉\[8\]。要求製作過程嚴格的關德輝，更換了四個剪接師，亦修改了電腦特效和補拍部份鏡頭\[9\]。《華Xiao英雄》的主題曲亦由關德輝主唱\[10\]。
+《華Xiao英雄》由關德輝注資拍攝，於2012年底開始拍攝工作，並在翌年1月8日殺青\[3\]，在馬來西亞一個小島上拍攝\[4\]。關德輝找來香港導演李力持擔任《華Xiao英雄》的總導演\[5\]。拍攝前曾在馬來西亞和[新加坡](../Page/新加坡.md "wikilink")舉行5場試鏡\[6\]。該片原本的製作成本是200萬[令吉](https://zh.wikipedia.org/wiki/令吉 "wikilink")\[7\]，但因關德輝對電影的要求高，使製作成本超支了50萬令吉\[8\]。要求製作過程嚴格的關德輝，更換了四個剪接師，亦修改了電腦特效和補拍部份鏡頭\[9\]。《華Xiao英雄》的主題曲亦由關德輝主唱\[10\]。
 
 其中一個演員[呂愛瓊在電影中飾演](https://zh.wikipedia.org/wiki/呂愛瓊 "wikilink")[韓語老師](https://zh.wikipedia.org/wiki/韓語 "wikilink")，為了演好這個角色，她特地與位處[韓國的朋友學了兩晚的韓語](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[11\]。
 
@@ -22,10 +22,7 @@
 
 ## 外部链接
 
-[Category:2015年電影](https://zh.wikipedia.org/wiki/Category:2015年電影 "wikilink")
-[Category:馬來西亞電影作品](https://zh.wikipedia.org/wiki/Category:馬來西亞電影作品 "wikilink")
-[Category:華語電影](https://zh.wikipedia.org/wiki/Category:華語電影 "wikilink")
-[Category:粵語電影](https://zh.wikipedia.org/wiki/Category:粵語電影 "wikilink")
+[Category:2015年電影](https://zh.wikipedia.org/wiki/Category:2015年電影 "wikilink") [Category:馬來西亞電影作品](https://zh.wikipedia.org/wiki/Category:馬來西亞電影作品 "wikilink") [Category:華語電影](https://zh.wikipedia.org/wiki/Category:華語電影 "wikilink") [Category:粵語電影](https://zh.wikipedia.org/wiki/Category:粵語電影 "wikilink")
 
 1.
 2.

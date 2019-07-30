@@ -1,4 +1,4 @@
-**RY作战**是指[第二次世界大战期间](../Page/第二次世界大战.md "wikilink")[大日本帝国对](../Page/大日本帝国.md "wikilink")[瑙鲁与](../Page/諾魯.md "wikilink")[巴纳巴岛入侵计划](../Page/巴纳巴岛.md "wikilink")，其目的在于获取岛上的[磷酸盐资源](../Page/磷酸鹽.md "wikilink")。
+**RY作战**是指[第二次世界大战](../Page/第二次世界大战.md "wikilink")期间[大日本帝国](../Page/大日本帝国.md "wikilink")对[瑙鲁与](../Page/諾魯.md "wikilink")[巴纳巴岛](../Page/巴纳巴岛.md "wikilink")入侵计划，其目的在于获取岛上的[磷酸盐资源](../Page/磷酸鹽.md "wikilink")。
 
 ## 背景
 
@@ -6,13 +6,13 @@
 
 1940年末，瑙鲁岛受到，破坏了岛上的磷酸盐开采设施，干扰了盟军的弹药生产\[1\]。这次袭击后，澳大利亚海军委员会要求英国海军部同意，在此部署兵力以应对海上袭掠。1941年1月4日一艘澳大利亚武装商船改装的巡洋舰抵达大洋岛，在接下来的几个月内澳大利亚和新西兰海军都一直在此地出没，同时一个海军陆战连和两门野战炮也部署到了这两个岛上。
 
-1942年2月底，由于担忧日军对瑙鲁和大洋岛的侵略，一艘[自由法國的驱逐舰从](../Page/自由法國.md "wikilink")[新赫布里底群岛出发](../Page/新赫布里底群島共管地.md "wikilink")，2月23日抵达该地，前来协助撤离这两个岛上的人员。撤离行动顺利完成，没有太大的事故。
+1942年2月底，由于担忧日军对瑙鲁和大洋岛的侵略，一艘[自由法國](../Page/自由法國.md "wikilink")的驱逐舰从[新赫布里底群岛出发](../Page/新赫布里底群島共管地.md "wikilink")，2月23日抵达该地，前来协助撤离这两个岛上的人员。撤离行动顺利完成，没有太大的事故。
 
-同年5月[珊瑚海海战后日军于](../Page/珊瑚海海战.md "wikilink")5月8日中止了[MO作戰](../Page/MO作戰.md "wikilink")，但5月11日，日本海军从[拉包爾和](../Page/拉包爾.md "wikilink")[布干维尔岛启程](../Page/布干维尔岛.md "wikilink")，开始进行RY作战。
+同年5月[珊瑚海海战](../Page/珊瑚海海战.md "wikilink")后日军于5月8日中止了[MO作戰](../Page/MO作戰.md "wikilink")，但5月11日，日本海军从[拉包爾](../Page/拉包爾.md "wikilink")和[布干维尔岛](../Page/布干维尔岛.md "wikilink")启程，开始进行RY作战。
 
 ## 首次入侵
 
-1942年5月11日，海军少将以为旗舰，下辖轻巡[龙田号](../Page/龍田號輕巡洋艦.md "wikilink")，布雷舰，驱逐舰、从拉包尔出发。[高木武雄海军少将的第五巡洋战队为志摩舰队提供掩护](../Page/高木武雄.md "wikilink")，包括重训[妙高号](../Page/妙高號重巡洋艦.md "wikilink")、[羽黑号](../Page/羽黑號重巡洋艦.md "wikilink")，另外还有第30驱逐战队、[望月号](https://zh.wikipedia.org/wiki/望月号驱逐舰 "wikilink")、[时雨号](../Page/時雨號驅逐艦.md "wikilink")、[白露号陪同](https://zh.wikipedia.org/wiki/白露号驱逐舰 "wikilink")。担任入侵任务的海军陆战队则搭乘运输船金龙丸和高畑丸。\[2\]
+1942年5月11日，海军少将以为旗舰，下辖轻巡[龙田号](../Page/龍田號輕巡洋艦.md "wikilink")，布雷舰，驱逐舰、从拉包尔出发。[高木武雄](../Page/高木武雄.md "wikilink")海军少将的第五巡洋战队为志摩舰队提供掩护，包括重训[妙高号](../Page/妙高號重巡洋艦.md "wikilink")、[羽黑号](../Page/羽黑號重巡洋艦.md "wikilink")，另外还有第30驱逐战队、[望月号](https://zh.wikipedia.org/wiki/望月号驱逐舰 "wikilink")、[时雨号](../Page/時雨號驅逐艦.md "wikilink")、[白露号陪同](https://zh.wikipedia.org/wiki/白露号驱逐舰 "wikilink")。担任入侵任务的海军陆战队则搭乘运输船金龙丸和高畑丸。\[2\]
 
 在经过[新爱尔兰岛和](https://zh.wikipedia.org/wiki/新爱尔兰岛 "wikilink")[布卡島以西的时候](https://zh.wikipedia.org/wiki/布卡島 "wikilink")，冲岛号04:52被美军潜艇S-42发射的鱼雷命中，受到重创\[3\]\[4\]。侵略部队的护卫舰艇在该区域搜索潜艇、投放深水炸弹，一直持续到11:30，造成了破坏。S-42离开了该区域返回基地。志摩将指挥部转移到夕月号上。望月号曾经尝试拖曳冲岛号，但终告失败，06:40冲岛号在圣乔治海峡沉没。
 
@@ -42,9 +42,7 @@
   -
   -
   -
-[Category:太平洋战争](https://zh.wikipedia.org/wiki/Category:太平洋战争 "wikilink")
-[Category:1942年太平洋战场战役](https://zh.wikipedia.org/wiki/Category:1942年太平洋战场战役 "wikilink")
-[Category:1942年日本](https://zh.wikipedia.org/wiki/Category:1942年日本 "wikilink")
+[Category:太平洋战争](https://zh.wikipedia.org/wiki/Category:太平洋战争 "wikilink") [Category:1942年太平洋战场战役](https://zh.wikipedia.org/wiki/Category:1942年太平洋战场战役 "wikilink") [Category:1942年日本](https://zh.wikipedia.org/wiki/Category:1942年日本 "wikilink")
 
 1.  Gill (1957), pp. 276–277
 2.  Bullard, p. 57.

@@ -1,5 +1,4 @@
-《**絶狼〈ZERO〉-DRAGON
-BLOOD-**》（）是[日本特攝劇集](../Page/日本.md "wikilink")《[牙狼〈GARO〉](../Page/牙狼〈GARO〉.md "wikilink")》系列的最新電視作品，於2017年1月6日起在[東京電視台聯播網的深夜時段播出](../Page/東京電視台.md "wikilink")，預計13集。
+《**絶狼〈ZERO〉-DRAGON BLOOD-**》（）是[日本](../Page/日本.md "wikilink")特攝劇集《[牙狼〈GARO〉](../Page/牙狼〈GARO〉.md "wikilink")》系列的最新電視作品，於2017年1月6日起在[東京電視台](../Page/東京電視台.md "wikilink")聯播網的深夜時段播出，預計13集。
 
 ## 本劇特色
 
@@ -27,7 +26,7 @@ BLOOD-**》（）是[日本特攝劇集](../Page/日本.md "wikilink")《[牙狼
 
 <!-- end list -->
 
-  - **烈花**（[松山瑪麗飾](../Page/松山瑪麗.md "wikilink")）
+  - **烈花**（[松山瑪麗](../Page/松山瑪麗.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -36,7 +35,7 @@ BLOOD-**》（）是[日本特攝劇集](../Page/日本.md "wikilink")《[牙狼
 
 <!-- end list -->
 
-  - **籠目**（[芳賀優里亞飾](../Page/芳賀優里亞.md "wikilink")）
+  - **籠目**（[芳賀優里亞](../Page/芳賀優里亞.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -204,10 +203,7 @@ BLOOD-**》（）是[日本特攝劇集](../Page/日本.md "wikilink")《[牙狼
 
 ## 外部連結
 
-  - [『絶狼〈ZERO〉-DRAGON
-    BLOOD-』官方網站](https://garo-project.jp/ZERO_DRAGONBLOOD/)
-  - [東京電視台『絶狼〈ZERO〉-DRAGON
-    BLOOD-』節目情報網頁](http://www.tv-tokyo.co.jp/anime/zero_dragonblood/)
+  - [『絶狼〈ZERO〉-DRAGON BLOOD-』官方網站](https://garo-project.jp/ZERO_DRAGONBLOOD/)
+  - [東京電視台『絶狼〈ZERO〉-DRAGON BLOOD-』節目情報網頁](http://www.tv-tokyo.co.jp/anime/zero_dragonblood/)
 
-[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink")
-[Category:2017年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2017年開播的日本電視劇集 "wikilink")
+[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink") [Category:2017年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2017年開播的日本電視劇集 "wikilink")

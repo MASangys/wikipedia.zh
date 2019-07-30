@@ -1,12 +1,8 @@
-《**17
-CARAT**》\[1\]\[2\]\[3\]是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[SEVENTEEN的首張迷你專輯並出道專輯](../Page/Seventeen_\(組合\).md "wikilink")，由[WOOZI以及PJR](../Page/李知勳_\(SEVENTEEN\).md "wikilink")
-Entertainment的桂範洙（）擔任製作人，其他成員們共同參與作詞和編舞，展現組合清新活潑面貌。由[Pledis娛樂企劃](../Page/Pledis娛樂.md "wikilink")，[LOEN娛樂於](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")2015年5月29日發行，主打曲為〈아낀다（Adore
-U）〉。
+《**17 CARAT**》\[1\]\[2\]\[3\]是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[SEVENTEEN的首張迷你專輯並出道專輯](../Page/Seventeen_\(組合\).md "wikilink")，由[WOOZI以及PJR](../Page/李知勳_\(SEVENTEEN\).md "wikilink") Entertainment的桂範洙（）擔任製作人，其他成員們共同參與作詞和編舞，展現組合清新活潑面貌。由[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")企劃，[LOEN娛樂於](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")2015年5月29日發行，主打曲為〈아낀다（Adore U）〉。
 
 ## 概述
 
-主打歌為〈아낀다（Adore U）〉，是一首時下流行的Funky
-Pop舞曲，有著明亮、輕快、琅琅上口的旋律，包含著少年的青澀感，是一首通過描述少年的愛慕而製成的歌曲。主打歌亦成為隨後的專輯主打歌的序曲，故事關於一個男孩墜入愛河，追求一個女孩的愛情故事。 
+主打歌為〈아낀다（Adore U）〉，是一首時下流行的Funky Pop舞曲，有著明亮、輕快、琅琅上口的旋律，包含著少年的青澀感，是一首通過描述少年的愛慕而製成的歌曲。主打歌亦成為隨後的專輯主打歌的序曲，故事關於一個男孩墜入愛河，追求一個女孩的愛情故事。 
 
 其中〈Shining Diamond〉為專輯的先行曲，曾在SEVENTEEN的實境節目《SEVENTEEN PROJECT：出道大作戰》中演出。
 
@@ -18,8 +14,7 @@ Pop舞曲，有著明亮、輕快、琅琅上口的旋律，包含著少年的�
 
 ## 排行榜及銷售
 
-曾登上南韓 [Gaon Chart](../Page/Gaon音乐榜.md "wikilink")
-的第四十七位\[4\]和取得[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Billboard的](https://zh.wikipedia.org/wiki/Billboard "wikilink")「世界專輯榜」第九位\[5\]。
+曾登上南韓 [Gaon Chart](../Page/Gaon音乐榜.md "wikilink") 的第四十七位\[4\]和取得[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Billboard的](https://zh.wikipedia.org/wiki/Billboard "wikilink")「世界專輯榜」第九位\[5\]。
 
 ## 曲目
 
@@ -29,9 +24,7 @@ Pop舞曲，有著明亮、輕快、琅琅上口的旋律，包含著少年的�
 
 ### 參考文獻
 
-[Category:Seventeen音樂專輯](https://zh.wikipedia.org/wiki/Category:Seventeen音樂專輯 "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
+[Category:Seventeen音樂專輯](https://zh.wikipedia.org/wiki/Category:Seventeen音樂專輯 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
 
 1.
 2.

@@ -4,10 +4,6 @@
 
 ## 参考资料
 
-[Category:1991年电子游戏](https://zh.wikipedia.org/wiki/Category:1991年电子游戏 "wikilink")
-[Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink")
-[Category:七龙珠系列电子游戏](https://zh.wikipedia.org/wiki/Category:七龙珠系列电子游戏 "wikilink")
-[Category:万代游戏](https://zh.wikipedia.org/wiki/Category:万代游戏 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
+[Category:1991年电子游戏](https://zh.wikipedia.org/wiki/Category:1991年电子游戏 "wikilink") [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink") [Category:七龙珠系列电子游戏](https://zh.wikipedia.org/wiki/Category:七龙珠系列电子游戏 "wikilink") [Category:万代游戏](https://zh.wikipedia.org/wiki/Category:万代游戏 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
 
 1.

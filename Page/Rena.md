@@ -1,20 +1,17 @@
 **Rena**（；；）\[1\]\[2\]\[3\]，是一名[韓國的女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[PRISTIN的成員之一](https://zh.wikipedia.org/wiki/Pristin "wikilink")，隊內擔任Rapper。
-本名为
-**姜艺彬**「」是一個純[韓字名字](https://zh.wikipedia.org/wiki/韓字 "wikilink")，未有[漢字表記](https://zh.wikipedia.org/wiki/漢字 "wikilink")，此处採用官方正名「姜艺彬」。2019年5月24日，经纪公司宣布[PRISTIN正式解散](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")，Rena与经纪公司解约。
+本名为 **姜艺彬**「」是一個純[韓字名字](https://zh.wikipedia.org/wiki/韓字 "wikilink")，未有[漢字表記](https://zh.wikipedia.org/wiki/漢字 "wikilink")，此处採用官方正名「姜艺彬」。2019年5月24日，经纪公司宣布[PRISTIN正式解散](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")，Rena与经纪公司解约。
 
 ## 練習生時期
 
 姜藝彬喜歡表演和唱歌，得到父母的支持，成為一名練習生\[4\]。
 
-2015年，參與《[Show Me The Money
-4](../Page/Show_Me_The_Money_4.md "wikilink")》\[5\]，並與[洁琼](../Page/周潔瓊.md "wikilink")、[银雨出演了](../Page/鄭銀雨.md "wikilink")[SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink")〈MANSAE〉的MV。
+2015年，參與《[Show Me The Money 4](../Page/Show_Me_The_Money_4.md "wikilink")》\[5\]，並與[洁琼](../Page/周潔瓊.md "wikilink")、[银雨出演了](../Page/鄭銀雨.md "wikilink")[SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink")〈MANSAE〉的MV。
 
 2016年3月成為PLEDIS Girlz的成員\[6\]，五月至九月間每周六都在PLEDIS Girlz Concert中演出\[7\]。
 
 ### 出道前：PRODUCE 101
 
-2015年12月，姜艺彬以[Pledis娛樂練習生的身份參演了](../Page/Pledis娛樂.md "wikilink")《[PRODUCE
-101](../Page/PRODUCE_101.md "wikilink")》。在首輪分級任務中，姜藝彬以穩定的實力取得A級。在首次分組任務中，取得壓倒性的勝利\[8\]。在節目中展現出優秀的英語實力\[9\]。最終排名為第二十九名。
+2015年12月，姜艺彬以[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")練習生的身份參演了《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》。在首輪分級任務中，姜藝彬以穩定的實力取得A級。在首次分組任務中，取得壓倒性的勝利\[8\]。在節目中展現出優秀的英語實力\[9\]。最終排名為第二十九名。
 
 ## PRISTIN
 
@@ -106,8 +103,7 @@
 ## 外部連結
 
   -
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:Pledis娛樂](https://zh.wikipedia.org/wiki/Category:Pledis娛樂 "wikilink")
+[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:Pledis娛樂](https://zh.wikipedia.org/wiki/Category:Pledis娛樂 "wikilink")
 
 1.
 

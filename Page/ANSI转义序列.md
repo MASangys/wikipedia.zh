@@ -1,9 +1,8 @@
-**ANSI转义序列**是一种的[转义序列标准](https://zh.wikipedia.org/wiki/转义序列 "wikilink")，用于控制视频文本[终端上的光标位置](../Page/終端.md "wikilink")、颜色和其他选项。在文本中嵌入确定的字节序列，大部分以[`ESC`](../Page/退出键.md "wikilink")[转义字符和](../Page/转义字符.md "wikilink")"\["字符开始，终端会把这些字节序列解释为相应的指令，而不是普通的[字符编码](../Page/字符编码.md "wikilink")。
+**ANSI转义序列**是一种的[转义序列标准](https://zh.wikipedia.org/wiki/转义序列 "wikilink")，用于控制视频文本[终端上的光标位置](../Page/終端.md "wikilink")、颜色和其他选项。在文本中嵌入确定的字节序列，大部分以[`ESC`](../Page/退出键.md "wikilink")[转义字符](../Page/转义字符.md "wikilink")和"\["字符开始，终端会把这些字节序列解释为相应的指令，而不是普通的[字符编码](../Page/字符编码.md "wikilink")。
 
 ANSI序列是在二十世纪七十年代引入的标准，用以取代特定于终端供应商的序列，并在二十世纪八十年代早期开始在计算机设备市场上广泛使用。与早期缺少光标移动功能的系统相比，新生的[电子公告板系统使用ANSI序列改进其显示](https://zh.wikipedia.org/wiki/电子公告板系统 "wikilink")。正是因为这个原因，ANSI序列变成了所有制造商共同采用的标准。
 
-在21世纪，尽管硬件文本终端已经越来越少了，但ANSI标准依然存在，因为大多数终端模拟器会对部分ANSI转义序列进行解释。一个值得注意的例外是，在微软[Windows
-10更新TH](../Page/Windows_10.md "wikilink")2之前，[Windows操作系统的](https://zh.wikipedia.org/wiki/Windows操作系统 "wikilink")[Win32控制台是不支持ANSI转义序列的](../Page/Win32控制台.md "wikilink")。
+在21世纪，尽管硬件文本终端已经越来越少了，但ANSI标准依然存在，因为大多数终端模拟器会对部分ANSI转义序列进行解释。一个值得注意的例外是，在微软[Windows 10更新TH](../Page/Windows_10.md "wikilink")2之前，[Windows操作系统的](https://zh.wikipedia.org/wiki/Windows操作系统 "wikilink")[Win32控制台](../Page/Win32控制台.md "wikilink")是不支持ANSI转义序列的。
 
 ## 历史
 
@@ -11,67 +10,39 @@ ANSI序列是在二十世纪七十年代引入的标准，用以取代特定于�
 
 由于这些序列对于不同的终端并不一样，因此人们不得不开发了一些复杂的库（比如）和实用程序（比如），以便程序可以使用同一套[API应对各种终端](https://zh.wikipedia.org/wiki/API "wikilink")。另外，在很多终端中需要借助字符的二进制值发送数字（如行和列）。对于某些编程语言，以及内部不使用ASCII的系统来说，把数字转换为正确的字符常常是有困难的，甚至完全做不到。
 
-ANSI标准试图解决这些问题。标准制订了一种所有终端共用的指令集，并要求用ASCII的数字字符传递所有数值信息。该系列的第一个标准是1976年通过的ECMA-48。它是一系列字符编码标准的延续，其中第一个是从1965年的，一个7[位标准](../Page/位元.md "wikilink")，[ISO
-646就源自此标准](https://zh.wikipedia.org/wiki/ISO_646 "wikilink")。“ANSI转义序列”的名称可以追溯到1979年[ANSI采用ANSI](https://zh.wikipedia.org/wiki/ANSI "wikilink")
-X3.64。此外，ANSI
-X3L2委员会与[ECMA委员会TC](https://zh.wikipedia.org/wiki/ECMA "wikilink")
-1合作制订了一个几乎一模一样的标准。以上两个标准合并为ISO 6429的国际标准\[1\]。1994年，ANSI取消了其标准，以支持国际标准。
+ANSI标准试图解决这些问题。标准制订了一种所有终端共用的指令集，并要求用ASCII的数字字符传递所有数值信息。该系列的第一个标准是1976年通过的ECMA-48。它是一系列字符编码标准的延续，其中第一个是从1965年的，一个7[位标准](../Page/位元.md "wikilink")，[ISO 646就源自此标准](https://zh.wikipedia.org/wiki/ISO_646 "wikilink")。“ANSI转义序列”的名称可以追溯到1979年[ANSI采用ANSI](https://zh.wikipedia.org/wiki/ANSI "wikilink") X3.64。此外，ANSI X3L2委员会与[ECMA委员会TC](https://zh.wikipedia.org/wiki/ECMA "wikilink") 1合作制订了一个几乎一模一样的标准。以上两个标准合并为ISO 6429的国际标准\[1\]。1994年，ANSI取消了其标准，以支持国际标准。
 
-第一个支持这个标准的流行视频终端是1978年推出的[Digital](../Page/迪吉多.md "wikilink")
-\[2\]。这个终端在市场上非常成功，引发了各种各样的仿制品，其中最早和最流行的是1979年的\[3\] 。其他品牌还有
-QVT-108， TVI-970，
-WY-99GT。另外，许多其他品牌的终端也不同程度地兼容可选的“VT100”、“VT103”或“ANSI”模式。
-随着越来越多的软件（尤其是[BBS系统](../Page/BBS.md "wikilink")）普及，越来越多的软件依赖转义序列起作用，导致几乎所有新的终端和终端模拟器都支持了此标准。
+第一个支持这个标准的流行视频终端是1978年推出的[Digital](../Page/迪吉多.md "wikilink") \[2\]。这个终端在市场上非常成功，引发了各种各样的仿制品，其中最早和最流行的是1979年的\[3\] 。其他品牌还有 QVT-108， TVI-970， WY-99GT。另外，许多其他品牌的终端也不同程度地兼容可选的“VT100”、“VT103”或“ANSI”模式。 随着越来越多的软件（尤其是[BBS](../Page/BBS.md "wikilink")系统）普及，越来越多的软件依赖转义序列起作用，导致几乎所有新的终端和终端模拟器都支持了此标准。
 
-1981年，ANSI
-X3.64被美国政府采用（[FIPS](https://zh.wikipedia.org/wiki/联邦资料处理标准 "wikilink")
-86）。后来，美国政府停止复制行业标准，所以FIPS 86又被撤回了\[4\]。
+1981年，ANSI X3.64被美国政府采用（[FIPS](https://zh.wikipedia.org/wiki/联邦资料处理标准 "wikilink") 86）。后来，美国政府停止复制行业标准，所以FIPS 86又被撤回了\[4\]。
 
-ECMA-48已经经历了多次更新换代，目前是从1991年开始的第5版。它也被[ISO和](https://zh.wikipedia.org/wiki/ISO "wikilink")[IEC用作标准](https://zh.wikipedia.org/wiki/IEC "wikilink")**ISO/IEC
-6429**。
+ECMA-48已经经历了多次更新换代，目前是从1991年开始的第5版。它也被[ISO和](https://zh.wikipedia.org/wiki/ISO "wikilink")[IEC用作标准](https://zh.wikipedia.org/wiki/IEC "wikilink")**ISO/IEC 6429**。
 
 ## 平台支持
 
-随着诸多[BBS和线上服务广泛使用ANSI](../Page/BBS.md "wikilink")，到20世纪80年代中期，ANSI几乎得到了全平台支持。尽管许多操作系统在标准文本输出中越来越多地支持ANSI，但大多数情况下是以终端模拟器的形式（例如[Unix上的](https://zh.wikipedia.org/wiki/Unix "wikilink")[xterm](https://zh.wikipedia.org/wiki/xterm "wikilink")，或MacOS上的[OS
-X
-Terminal或](https://zh.wikipedia.org/wiki/终端_\(macOS\) "wikilink")，以及IBM
-PC上的许多通信程序）。
+随着诸多[BBS](../Page/BBS.md "wikilink")和线上服务广泛使用ANSI，到20世纪80年代中期，ANSI几乎得到了全平台支持。尽管许多操作系统在标准文本输出中越来越多地支持ANSI，但大多数情况下是以终端模拟器的形式（例如[Unix上的](https://zh.wikipedia.org/wiki/Unix "wikilink")[xterm](https://zh.wikipedia.org/wiki/xterm "wikilink")，或MacOS上的[OS X Terminal或](https://zh.wikipedia.org/wiki/终端_\(macOS\) "wikilink")，以及IBM PC上的许多通信程序）。
 
-[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[AmigaOS都在操作系统中包含了对ANSI的一些支持](../Page/AmigaOS.md "wikilink")，导致在这些平台上运行的程序广泛使用ANSI。
-[类Unix操作系统可以通过像](https://zh.wikipedia.org/wiki/类Unix操作系统 "wikilink")和之类的库来生成ANSI代码，许多软件使用这些库升级显示方式。这些库也应该支持非ANSI终端，但是现在很少有人测试，所以很可能已经不起作用了。许多游戏和shell脚本直接输出ANSI序列（如彩色的提示信息），因此无法在不支持ANSI的终端上运行。
+[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[AmigaOS](../Page/AmigaOS.md "wikilink")都在操作系统中包含了对ANSI的一些支持，导致在这些平台上运行的程序广泛使用ANSI。 [类Unix操作系统可以通过像](https://zh.wikipedia.org/wiki/类Unix操作系统 "wikilink")和之类的库来生成ANSI代码，许多软件使用这些库升级显示方式。这些库也应该支持非ANSI终端，但是现在很少有人测试，所以很可能已经不起作用了。许多游戏和shell脚本直接输出ANSI序列（如彩色的提示信息），因此无法在不支持ANSI的终端上运行。
 
 AmigaOS不仅支持输出到屏幕上的文本使用ANSI序列，打印机驱动程序也支持（用AmigaOS的专有扩展），并将它们转换为与特定打印机实际通信所需的代码\[5\]。
 
-尽管ANSI很普及，却并没有得到全平台支持。比如原始的[“经典”Mac
-OS就没有内置对ANSI的支持](../Page/Classic_Mac_OS.md "wikilink")
-，再比如Atari ST使用的是VT52改编的命令系统，用一些扩展程序支持颜色显示\[6\]。
+尽管ANSI很普及，却并没有得到全平台支持。比如原始的[“经典”Mac OS就没有内置对ANSI的支持](../Page/Classic_Mac_OS.md "wikilink") ，再比如Atari ST使用的是VT52改编的命令系统，用一些扩展程序支持颜色显示\[6\]。
 
 ### Windows和DOS
 
-MS-DOS
-1.x不支持ANSI或任何其他转义序列，只有少数[控制字符](../Page/控制字符.md "wikilink")（BEL、CR、LF、BS）可以由底层BIOS
-解释，所以几乎\[7\]不可能做出任何全屏应用程序。所有显示效果都必须通过BIOS调用，或者直接控制IBM PC硬件来完成，调用速度非常慢。
+MS-DOS 1.x不支持ANSI或任何其他转义序列，只有少数[控制字符](../Page/控制字符.md "wikilink")（BEL、CR、LF、BS）可以由底层BIOS 解释，所以几乎\[7\]不可能做出任何全屏应用程序。所有显示效果都必须通过BIOS调用，或者直接控制IBM PC硬件来完成，调用速度非常慢。
 
-DOS
-2.0引入了添加[设备驱动程序来支持ANSI转义序列的功能](https://zh.wikipedia.org/wiki/设备驱动程序 "wikilink")（事实上的标准是ANSI.SYS，但也使用了ANSI.COM\[8\]、NANSI.SYS\[9\]和ANSIPLUS.EXE等其他程序。因为绕过了BIOS，所以这些程序的速度比以前快了不少）。但由于实际运行速度仍然比较慢，以及默认并没有安装，所以还是很少得到利用。应用程序往往还是继续用直接控制硬件的方式来显示所需的文本。ANSI.SYS和类似的驱动程序继续在[Windows
-9x上工作](../Page/Windows_9x.md "wikilink")，直到[Windows
-Me](../Page/Windows_Me.md "wikilink")，在NT衍生系统中用于在下执行的16位传统程序。
+DOS 2.0引入了添加[设备驱动程序来支持ANSI转义序列的功能](https://zh.wikipedia.org/wiki/设备驱动程序 "wikilink")（事实上的标准是ANSI.SYS，但也使用了ANSI.COM\[8\]、NANSI.SYS\[9\]和ANSIPLUS.EXE等其他程序。因为绕过了BIOS，所以这些程序的速度比以前快了不少）。但由于实际运行速度仍然比较慢，以及默认并没有安装，所以还是很少得到利用。应用程序往往还是继续用直接控制硬件的方式来显示所需的文本。ANSI.SYS和类似的驱动程序继续在[Windows 9x上工作](../Page/Windows_9x.md "wikilink")，直到[Windows Me](../Page/Windows_Me.md "wikilink")，在NT衍生系统中用于在下执行的16位传统程序。
 
-[Win32控制台完全不支持ANSI转义序列](../Page/Win32控制台.md "wikilink")。不过有一些控制台的替代品或者附加软件具有解释程序输出的ANSI转义序列的功能，例如JP
-Software的TCC（以前的4NT）、Michael J. Mefford的ANSI.COM、Jason
-Hood的ANSICON\[10\]和Maximus5的ConEmu。有一个[Python软件包](../Page/Python.md "wikilink")\[11\]在内部解释了打印文本中的ANSI转义序列，将它们转换为系统调用来操纵颜色和光标位置，以便更容易地将使用ANSI的Python代码移植到Windows。
+[Win32控制台](../Page/Win32控制台.md "wikilink")完全不支持ANSI转义序列。不过有一些控制台的替代品或者附加软件具有解释程序输出的ANSI转义序列的功能，例如JP Software的TCC（以前的4NT）、Michael J. Mefford的ANSI.COM、Jason Hood的ANSICON\[10\]和Maximus5的ConEmu。有一个[Python](../Page/Python.md "wikilink")软件包\[11\]在内部解释了打印文本中的ANSI转义序列，将它们转换为系统调用来操纵颜色和光标位置，以便更容易地将使用ANSI的Python代码移植到Windows。
 
-2016年，在[Windows 10发布](../Page/Windows_10.md "wikilink")“Threshold
-2”\[12\]时，微软开始在控制台应用程序中支持ANSI转义序列，使得从Unix移植软件或者远程访问Unix变得更容易。
+2016年，在[Windows 10发布](../Page/Windows_10.md "wikilink")“Threshold 2”\[12\]时，微软开始在控制台应用程序中支持ANSI转义序列，使得从Unix移植软件或者远程访问Unix变得更容易。
 
 ## 转义序列
 
-序列具有不同的长度。所有序列都以ASCII字符**[`ESC`](../Page/退出键.md "wikilink")**（27 /
-[十六进制](../Page/十六进制.md "wikilink")
-0x1B）开头，第二个字节则是0x40–0x5F（ASCII
-`@A–Z[\]^_`）范围内的字符。\[13\]
+序列具有不同的长度。所有序列都以ASCII字符**[`ESC`](../Page/退出键.md "wikilink")**（27 / [十六进制](../Page/十六进制.md "wikilink") 0x1B）开头，第二个字节则是0x40–0x5F（ASCII `@A–Z[\]^_`）范围内的字符。\[13\]
 
-标准规定，在8位环境中，这两个字节的序列可以合并为0x80-0x9F范围内的单个字节（详情请参阅[C1控制字符集](https://zh.wikipedia.org/wiki/C0与C1控制字符#C1控制字符集 "wikilink")）。但是，在现代设备上，这些代码通常用于其他目的，例如[UTF-8的一部分或](../Page/UTF-8.md "wikilink")[CP-1252字符](https://zh.wikipedia.org/wiki/CP-1252 "wikilink")，因此并不使用这种合并的方式。
+标准规定，在8位环境中，这两个字节的序列可以合并为0x80-0x9F范围内的单个字节（详情请参阅[C1控制字符集](https://zh.wikipedia.org/wiki/C0与C1控制字符#C1控制字符集 "wikilink")）。但是，在现代设备上，这些代码通常用于其他目的，例如[UTF-8](../Page/UTF-8.md "wikilink")的一部分或[CP-1252字符](https://zh.wikipedia.org/wiki/CP-1252 "wikilink")，因此并不使用这种合并的方式。
 
 除ESC之外的其他C0代码（通常是BEL，BS，CR，LF，FF，TAB，VT，SO和SI）在输出时也可能会产生与某些控制序列相似或相同的效果。
 
@@ -149,8 +120,7 @@ Hood的ANSICON\[10\]和Maximus5的ConEmu。有一个[Python软件包](../Page/Py
 </tbody>
 </table>
 
-按下键盘上的特殊键，以及输出xterm
-CSI、DCS或OSC序列，常常用于产生从终端发送到计算机的CSI，DCS或OSC序列，就像用户使用键盘输入的一样。
+按下键盘上的特殊键，以及输出xterm CSI、DCS或OSC序列，常常用于产生从终端发送到计算机的CSI，DCS或OSC序列，就像用户使用键盘输入的一样。
 
 ## CSI序列
 
@@ -846,13 +816,10 @@ CSI序列由`ESC [`、若干个（包括0个）“参数字节”、若干个“
 `   ESC[ … 38;2;`<r>`;`<g>`;`<b>`  … m选择RGB前景色 `
 `   ESC[ … 48;2;`<r>`;`<g>`;`<b>`  … m选择RGB背景色 `
 
-作为ISO /
-IEC国际标准8613-6采用的[ITU的T](https://zh.wikipedia.org/wiki/ITU "wikilink").416信息技术-开放文档体系结构（ODA）和交换格式：字符内容体系结构\[36\]给出了一个似乎不太受支持的替代版本：
+作为ISO / IEC国际标准8613-6采用的[ITU的T](https://zh.wikipedia.org/wiki/ITU "wikilink").416信息技术-开放文档体系结构（ODA）和交换格式：字符内容体系结构\[36\]给出了一个似乎不太受支持的替代版本：
 
-`   ESC[
-… 38:2:`<Color-Space-ID>`:`<r>`:`<g>`:`<b>`:`<unused>`:`<CS tolerance>`:<Color-Space: 0="CIELUV"; 1="CIELAB">m选择RGB前景色`
-`   ESC[
-… 48:2:`<Color-Space-ID>`:`<r>`:`<g>`:`<b>`:`<unused>`:`<CS tolerance>`:<Color-Space: 0="CIELUV"; 1="CIELAB">m选择RGB背景色`
+`   ESC[ … 38:2:`<Color-Space-ID>`:`<r>`:`<g>`:`<b>`:`<unused>`:`<CS tolerance>`:<Color-Space: 0="CIELUV"; 1="CIELAB">m选择RGB前景色`
+`   ESC[ … 48:2:`<Color-Space-ID>`:`<r>`:`<g>`:`<b>`:`<unused>`:`<CS tolerance>`:<Color-Space: 0="CIELUV"; 1="CIELAB">m选择RGB背景色`
 
 请注意，这里使用了保留的“:”字符来分隔子选项，这可能是在实际实现中造成混淆的始作俑者。它还使用“3”作为第二个参数来指定使用青-品红-黄方案的方案，“4”用于青-品红-黄-黑的方案，后者使用上面标记为“unused”（“未使用”）的位置作为黑色组件。
 
@@ -862,33 +829,23 @@ IEC国际标准8613-6采用的[ITU的T](https://zh.wikipedia.org/wiki/ITU "wikil
 
 `CSI 2 J` — 清除屏幕、（在某些设备上）把光标置于1,1位置（左上角）。
 
-`CSI 32 m` — 使文字呈绿色。在MS-DOS上，一般绿色是暗淡的绿色，可以用`CSI 1
-m`启用粗体使其变成明亮的绿色，或者将两者合并为`CSI 32
-; 1 m`。MS-DOS ANSI.SYS用粗体状态使字符变亮，闪烁状态（通过`INT 10, AX 1003h,
-BL 00h`)使背景色变成明亮模式。MS-DOS ANSI.SYS并不直接支持SGR代码90–97和100–107。
+`CSI 32 m` — 使文字呈绿色。在MS-DOS上，一般绿色是暗淡的绿色，可以用`CSI 1 m`启用粗体使其变成明亮的绿色，或者将两者合并为`CSI 32 ; 1 m`。MS-DOS ANSI.SYS用粗体状态使字符变亮，闪烁状态（通过`INT 10, AX 1003h, BL 00h`)使背景色变成明亮模式。MS-DOS ANSI.SYS并不直接支持SGR代码90–97和100–107。
 
-`CSI 0 ; 6 8 ; "DIR" ; 13 p` —
-重新分配F10键的功能为发送字符串“DIR”和回车符到键盘缓存中，在DOS命令行里会显示当前目录的内容（仅MS-DOS
-ANSI.SYS）。这种序列有时用于“”。这是一个私用编码（如字母p所示），用非标准的扩展使其包含一个字符串参数。如果按标准，会认为字母D是序列的末尾。
+`CSI 0 ; 6 8 ; "DIR" ; 13 p` — 重新分配F10键的功能为发送字符串“DIR”和回车符到键盘缓存中，在DOS命令行里会显示当前目录的内容（仅MS-DOS ANSI.SYS）。这种序列有时用于“”。这是一个私用编码（如字母p所示），用非标准的扩展使其包含一个字符串参数。如果按标准，会认为字母D是序列的末尾。
 
-`CSI s` — 保存光标的位置。用序列`CSI u`会把光标重置回这个位置。假设当前的光标位置是7（y）、10（x）。序列`CSI
-s`会保存这两个数值。现在可以把光标移动到其他位置，比如用序列`CSI 20 ; 3 H`或`CSI 20 ; 3
-f`把光标移动到20（y）、3（x）。现在如果用序列`CSI
-u`，光标会回到7（y）、10（x）。某些终端需要使用DEC序列`ESC 7`/`ESC 8`，这得到了更广泛的支持。
+`CSI s` — 保存光标的位置。用序列`CSI u`会把光标重置回这个位置。假设当前的光标位置是7（y）、10（x）。序列`CSI s`会保存这两个数值。现在可以把光标移动到其他位置，比如用序列`CSI 20 ; 3 H`或`CSI 20 ; 3 f`把光标移动到20（y）、3（x）。现在如果用序列`CSI u`，光标会回到7（y）、10（x）。某些终端需要使用DEC序列`ESC 7`/`ESC 8`，这得到了更广泛的支持。
 
 ### 使用Shell脚本的示例
 
-ANSI转移代码常常用于[UNIX和类UNIX终端](../Page/UNIX.md "wikilink")，以提供[语法高亮功能](https://zh.wikipedia.org/wiki/语法高亮 "wikilink")。例如，在兼容的终端上，以下[ls命令按类型对文件和目录的名称进行颜色编码](https://zh.wikipedia.org/wiki/ls "wikilink")。
+ANSI转移代码常常用于[UNIX](../Page/UNIX.md "wikilink")和类UNIX终端，以提供[语法高亮功能](https://zh.wikipedia.org/wiki/语法高亮 "wikilink")。例如，在兼容的终端上，以下[ls命令按类型对文件和目录的名称进行颜色编码](https://zh.wikipedia.org/wiki/ls "wikilink")。
 
 `ls --color`
 
-用户可以在脚本中使用转义码，将其作为[标准输出或](https://zh.wikipedia.org/wiki/标准输出 "wikilink")[标准错误输出的一部分](https://zh.wikipedia.org/wiki/标准错误输出 "wikilink")。例如，下面的GNU
-[sed命令通过反显](https://zh.wikipedia.org/wiki/sed "wikilink")“WARN”开头的单词的行，以及使用暗红色背景色和亮黄色前景色显示以“ERR”开头的单词（字母大小写被忽略）的行来修饰make命令的输出。突出显示了设置ANSI代码的部分。\[37\]
+用户可以在脚本中使用转义码，将其作为[标准输出或](https://zh.wikipedia.org/wiki/标准输出 "wikilink")[标准错误输出的一部分](https://zh.wikipedia.org/wiki/标准错误输出 "wikilink")。例如，下面的GNU [sed命令通过反显](https://zh.wikipedia.org/wiki/sed "wikilink")“WARN”开头的单词的行，以及使用暗红色背景色和亮黄色前景色显示以“ERR”开头的单词（字母大小写被忽略）的行来修饰make命令的输出。突出显示了设置ANSI代码的部分。\[37\]
 
 <span style="white-space:pre-wrap;">`make 2>&1 | sed -e 's/.*\bWARN.*/`<span style="border:1px solid grey;border-radius:5px;color:white;background:black;font-weight:bolder;">`\x1b[7m`</span>`&`<span style="border:1px solid grey;border-radius:5px;">`\x1b[0m`</span>`/i' -e 's/.*\bERR.*/`<span style="border:1px solid grey;border-radius:5px;color:yellow;background:maroon;font-weight:bolder;">`\x1b[93;41 m`</span>`&`<span style="border:1px solid grey;border-radius:5px;">`\x1b[0m`</span>`/i'`</span>
 
-以下Bash函数会使终端闪烁（通过交替发送反相和正常显示模式代码），直到用户按下任意键\[38\]。这个函数可以用于当一个冗长的命令终止时提醒用户，用法如`make;
-flasher`\[39\]。
+以下Bash函数会使终端闪烁（通过交替发送反相和正常显示模式代码），直到用户按下任意键\[38\]。这个函数可以用于当一个冗长的命令终止时提醒用户，用法如`make; flasher`\[39\]。
 
 <span style="white-space:pre-wrap;">`flasher () { while true; do printf `<span style="border:1px solid grey;border-radius:5px;color:white;background:black;font-weight:bolder;">`\\e[?5h`</span>`; sleep 0.1; printf `<span style="border:1px solid grey;border-radius:5px;font-weight:bolder;">`\\e[?5l`</span>`; read -s -n1 -t1 && break; done; }`</span>
 
@@ -906,55 +863,36 @@ flasher`\[39\]。
 
 ## 外部链接
 
-  - [Standard ECMA-48, Control Functions For Coded Character
-    Sets](http://www.ecma-international.org/publications/standards/Ecma-048.htm).
-    (*5th edition, June 1991*), European Computer Manufacturers
-    Association, Geneva 1991 (also published by ISO and IEC as standard
-    ISO/IEC 6429)
+  - [Standard ECMA-48, Control Functions For Coded Character Sets](http://www.ecma-international.org/publications/standards/Ecma-048.htm). (*5th edition, June 1991*), European Computer Manufacturers Association, Geneva 1991 (also published by ISO and IEC as standard ISO/IEC 6429)
 
   - [vt100.net DEC Documents](http://vt100.net/docs/)
 
   -
-  - [Xterm / Escape
-    Sequences](http://invisible-island.net/xterm/ctlseqs/ctlseqs.html)
+  - [Xterm / Escape Sequences](http://invisible-island.net/xterm/ctlseqs/ctlseqs.html)
 
-  - [AIXterm / Escape
-    Sequences](http://publib.boulder.ibm.com/infocenter/aix/v6r1/index.jsp?topic=%2Fcom.ibm.aix.cmds%2Fdoc%2Faixcmds1%2Faixterm.htm)
+  - [AIXterm / Escape Sequences](http://publib.boulder.ibm.com/infocenter/aix/v6r1/index.jsp?topic=%2Fcom.ibm.aix.cmds%2Fdoc%2Faixcmds1%2Faixterm.htm)
 
-  - [A collection of escape sequences for terminals that are vaguely
-    compliant with ECMA-48 and
-    friends.](http://bjh21.me.uk/all-escapes/all-escapes.txt)
+  - [A collection of escape sequences for terminals that are vaguely compliant with ECMA-48 and friends.](http://bjh21.me.uk/all-escapes/all-escapes.txt)
 
-  - [ANSI Escape
-    Sequences](http://ascii-table.com/ansi-escape-sequences.php)
+  - [ANSI Escape Sequences](http://ascii-table.com/ansi-escape-sequences.php)
 
-  - \[<https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.416-199303-I>\!\!PDF-E\&type=items
-    ITU-T Rec. T.416 (03/93) Information technology – Open Document
-    Architecture (ODA) and interchange format: Character content
-    architectures\]
+  - \[<https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.416-199303-I>\!\!PDF-E\&type=items ITU-T Rec. T.416 (03/93) Information technology – Open Document Architecture (ODA) and interchange format: Character content architectures\]
 
-[Category:计算机标准](https://zh.wikipedia.org/wiki/Category:计算机标准 "wikilink")
-[Category:Ecma標準](https://zh.wikipedia.org/wiki/Category:Ecma標準 "wikilink")
-[Category:文本用户界面](https://zh.wikipedia.org/wiki/Category:文本用户界面 "wikilink")
+[Category:计算机标准](https://zh.wikipedia.org/wiki/Category:计算机标准 "wikilink") [Category:Ecma標準](https://zh.wikipedia.org/wiki/Category:Ecma標準 "wikilink") [Category:文本用户界面](https://zh.wikipedia.org/wiki/Category:文本用户界面 "wikilink")
 
-1.  [Historical version of
-    ECMA-48](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-48,%202nd%20Edition,%20August%201979.pdf)
+1.  [Historical version of ECMA-48](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-48,%202nd%20Edition,%20August%201979.pdf)
 
 2.
 
 3.
 
-4.  [Withdrawn FIPS Listed by
-    Number](https://www.nist.gov/itl/upload/Withdrawn-FIPS-by-Numerical-Order-Index2.pdf)
+4.  [Withdrawn FIPS Listed by Number](https://www.nist.gov/itl/upload/Withdrawn-FIPS-by-Numerical-Order-Index2.pdf)
 
 5.
 
-6.  ["Using
-    C-Kermit"](https://books.google.com/books?id=Z0ejBQAAQBAJ&pg=PA88),
-    p. 88.
+6.  ["Using C-Kermit"](https://books.google.com/books?id=Z0ejBQAAQBAJ&pg=PA88), p. 88.
 
-7.  屏幕显示可以通过从底部绘制整个新屏幕的内容来替代，滚动上一屏幕以充分擦除所有旧文本内容。用户会看到滚动，硬件[光标会留在最底部](https://zh.wikipedia.org/wiki/光标 "wikilink")。
-    一些早期的[批处理文件以这种方式实现了基本的](https://zh.wikipedia.org/wiki/批处理文件 "wikilink")“全屏”显示。
+7.  屏幕显示可以通过从底部绘制整个新屏幕的内容来替代，滚动上一屏幕以充分擦除所有旧文本内容。用户会看到滚动，硬件[光标会留在最底部](https://zh.wikipedia.org/wiki/光标 "wikilink")。 一些早期的[批处理文件以这种方式实现了基本的](https://zh.wikipedia.org/wiki/批处理文件 "wikilink")“全屏”显示。
 
 8.
 
@@ -985,8 +923,7 @@ flasher`\[39\]。
 
 26. 用于虚拟终端，来自/etc/vtrgb。
 
-27. 在基于[CGA兼容硬件](https://zh.wikipedia.org/wiki/彩色图形适配器 "wikilink")（如在DOS上运行的ANSI.SYS）的终端上，正常强度的前景色呈现为橙色。
-    CGA RGBI显示器包含一些硬件，通过减少绿色成分将深黄色修改为橙色/棕色。
+27. 在基于[CGA兼容硬件](https://zh.wikipedia.org/wiki/彩色图形适配器 "wikilink")（如在DOS上运行的ANSI.SYS）的终端上，正常强度的前景色呈现为橙色。 CGA RGBI显示器包含一些硬件，通过减少绿色成分将深黄色修改为橙色/棕色。
 
 28. Changed from 0,0,205 in July 2004
 

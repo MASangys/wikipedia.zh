@@ -1,8 +1,6 @@
-《**櫻花忍法帖
-BASILISK新章**》（）是由日本作家[山田正紀創作的小說](https://zh.wikipedia.org/wiki/山田正紀 "wikilink")。小說以作家[山田風太郎創作的](../Page/山田風太郎.md "wikilink")[甲賀忍法帖及漫畫家](../Page/甲賀忍法帖.md "wikilink")創作的[同名漫畫為基礎](https://zh.wikipedia.org/wiki/甲賀忍法帖_\(動畫\) "wikilink")，描寫甲賀忍法帖十年後所發生的故事\[1\]。
+《**櫻花忍法帖 BASILISK新章**》（）是由日本作家[山田正紀創作的小說](https://zh.wikipedia.org/wiki/山田正紀 "wikilink")。小說以作家[山田風太郎](../Page/山田風太郎.md "wikilink")創作的[甲賀忍法帖](../Page/甲賀忍法帖.md "wikilink")及漫畫家創作的[同名漫畫為基礎](https://zh.wikipedia.org/wiki/甲賀忍法帖_\(動畫\) "wikilink")，描寫甲賀忍法帖十年後所發生的故事\[1\]。
 
-2017年9月，製作委員會宣佈本作將被製成電視動畫，以「**Basilisk
-～櫻花忍法帖～**」為標題，並定於2018年1月播放\[2\]\[3\]。
+2017年9月，製作委員會宣佈本作將被製成電視動畫，以「**Basilisk ～櫻花忍法帖～**」為標題，並定於2018年1月播放\[2\]\[3\]。
 
 ## 故事簡介
 
@@ -116,8 +114,7 @@ BASILISK新章**》（）是由日本作家[山田正紀創作的小說](https:/
   - 音響制作：Glovision
   - 音樂：坂部剛
   - 音樂製作：[國王唱片](../Page/國王唱片.md "wikilink")
-  - 動畫製作：[Seven Arcs
-    Pictures](../Page/Seven_Arcs_Pictures.md "wikilink")
+  - 動畫製作：[Seven Arcs Pictures](../Page/Seven_Arcs_Pictures.md "wikilink")
   - 製作：樱花忍法帖製作委員會
 
 ### 主題曲
@@ -141,8 +138,7 @@ BASILISK新章**》（）是由日本作家[山田正紀創作的小說](https:/
   -
 
       -
-        作詞：岩里祐穂，作曲：K-WONDER &
-        SAS3，編曲：[藤間仁](../Page/藤間仁.md "wikilink")，主唱：水樹奈奈
+        作詞：岩里祐穂，作曲：K-WONDER & SAS3，編曲：[藤間仁](../Page/藤間仁.md "wikilink")，主唱：水樹奈奈
 
 ### 各話列表
 
@@ -447,9 +443,7 @@ Shin Hyung Sik、Shin Min Seop</p></td>
 
   -
 
-[Category:2015年小說](https://zh.wikipedia.org/wiki/Category:2015年小說 "wikilink")
-[Category:時代小說](https://zh.wikipedia.org/wiki/Category:時代小說 "wikilink")
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
+[Category:2015年小說](https://zh.wikipedia.org/wiki/Category:2015年小說 "wikilink") [Category:時代小說](https://zh.wikipedia.org/wiki/Category:時代小說 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
 
 1.
 

@@ -1,9 +1,6 @@
-**[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [Core
-i3](https://zh.wikipedia.org/wiki/Core_i3 "wikilink")** 是「Core
-i品牌」四個子系列之一。
+**[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [Core i3](https://zh.wikipedia.org/wiki/Core_i3 "wikilink")** 是「Core i品牌」四個子系列之一。
 
-從[Sandy
-Bridge微架構開始](../Page/Sandy_Bridge微架構.md "wikilink")，Intel把微架構和代號改成相同名字。
+從[Sandy Bridge微架構開始](../Page/Sandy_Bridge微架構.md "wikilink")，Intel把微架構和代號改成相同名字。
 
 ## 桌上型處理器
 
@@ -116,381 +113,102 @@ Bridge微架構開始](../Page/Sandy_Bridge微架構.md "wikilink")，Intel把�
 
 #### "[Arrandale](https://zh.wikipedia.org/wiki/Arrandale_\(microprocessor\) "wikilink")" ([MCP](https://zh.wikipedia.org/wiki/Multi-chip_package "wikilink"), 32 nm)
 
-  - All models support:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), Enhanced
-    Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology
-    (EIST), [Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an
-    [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")
-    implementation), [Intel
-    VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"),
-    [Hyper-Threading](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink"),
-    [Smart
-    Cache](https://zh.wikipedia.org/wiki/Smart_Cache "wikilink").*
-  - Core i3-330E has support for ECC memory and PCI express port
-    bifurcation.
-  - [FSB](https://zh.wikipedia.org/wiki/Front-side_bus "wikilink") has
-    been replaced with
-    [DMI](https://zh.wikipedia.org/wiki/Direct_Media_Interface "wikilink").
-  - Contains 45 nm "Ironlake"
-    [GPU](https://zh.wikipedia.org/wiki/graphics_processing_unit "wikilink").
+  - All models support: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), Enhanced Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology (EIST), [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink") implementation), [Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"), [Hyper-Threading](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink"), [Smart Cache](https://zh.wikipedia.org/wiki/Smart_Cache "wikilink").*
+  - Core i3-330E has support for ECC memory and PCI express port bifurcation.
+  - [FSB](https://zh.wikipedia.org/wiki/Front-side_bus "wikilink") has been replaced with [DMI](https://zh.wikipedia.org/wiki/Direct_Media_Interface "wikilink").
+  - Contains 45 nm "Ironlake" [GPU](https://zh.wikipedia.org/wiki/graphics_processing_unit "wikilink").
   - Transistors: 382 million
-  - [Die](https://zh.wikipedia.org/wiki/Die_\(integrated_circuit\) "wikilink")
-    size: 81 mm²
-  - Integrated [Intel HD
-    Graphics](../Page/Intel_HD_Graphics.md "wikilink")
-    ([Ironlake](https://zh.wikipedia.org/wiki/Comparison_of_Intel_graphics_processing_units#Intel_HD_Graphics "wikilink"))
+  - [Die](https://zh.wikipedia.org/wiki/Die_\(integrated_circuit\) "wikilink") size: 81 mm²
+  - Integrated [Intel HD Graphics](../Page/Intel_HD_Graphics.md "wikilink") ([Ironlake](https://zh.wikipedia.org/wiki/Comparison_of_Intel_graphics_processing_units#Intel_HD_Graphics "wikilink"))
   - Graphics and Integrated Memory Controller transistors: 177 million
   - Graphics and Integrated Memory Controller die size: 114 mm²
-  - [Stepping](https://zh.wikipedia.org/wiki/Stepping_\(version_numbers\) "wikilink"):
-    C2, K0
+  - [Stepping](https://zh.wikipedia.org/wiki/Stepping_\(version_numbers\) "wikilink"): C2, K0
 
 ### [Sandy Bridge microarchitecture (2nd generation)](https://zh.wikipedia.org/wiki/Sandy_Bridge "wikilink")
 
 #### "Sandy Bridge" (32 nm)
 
-  - All models support:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"),
-    Enhanced Intel [SpeedStep](../Page/SpeedStep.md "wikilink")
-    Technology (EIST), [Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an
-    [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")
-    implementation), [Intel
-    VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"),
-    [Hyper-threading](https://zh.wikipedia.org/wiki/Hyper-threading "wikilink"),
-    Smart Cache, [Intel
-    Insider](https://zh.wikipedia.org/wiki/Intel_Insider "wikilink").*
+  - All models support: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"), Enhanced Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology (EIST), [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink") implementation), [Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"), [Hyper-threading](https://zh.wikipedia.org/wiki/Hyper-threading "wikilink"), Smart Cache, [Intel Insider](https://zh.wikipedia.org/wiki/Intel_Insider "wikilink").*
   - Core i3-2310E, Core i3-2340UE have support for ECC memory.
-  - Core i3-2310E, Core i3-2330E and Core i3-2340UE do not have support
-    for *[Intel
-    Insider](https://zh.wikipedia.org/wiki/Intel_Insider "wikilink")*
+  - Core i3-2310E, Core i3-2330E and Core i3-2340UE do not have support for *[Intel Insider](https://zh.wikipedia.org/wiki/Intel_Insider "wikilink")*
   - Transistors: 624 million
-  - [Die](https://zh.wikipedia.org/wiki/Die_\(integrated_circuit\) "wikilink")
-    size: 149 mm²
+  - [Die](https://zh.wikipedia.org/wiki/Die_\(integrated_circuit\) "wikilink") size: 149 mm²
 
 ### [Ivy Bridge microarchitecture (3rd generation)](https://zh.wikipedia.org/wiki/Ivy_Bridge_\(microarchitecture\) "wikilink")
 
 #### "Ivy Bridge" (22 nm)
 
-  - All models support:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"),
-    Enhanced Intel [SpeedStep](../Page/SpeedStep.md "wikilink")
-    Technology (EIST), [Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an
-    [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")
-    implementation), [Intel
-    VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"),
-    [Hyper-threading](https://zh.wikipedia.org/wiki/Hyper-threading "wikilink"),
-    Smart Cache, [Intel
-    Insider](https://zh.wikipedia.org/wiki/Intel_Insider "wikilink").*
+  - All models support: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"), Enhanced Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology (EIST), [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink") implementation), [Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"), [Hyper-threading](https://zh.wikipedia.org/wiki/Hyper-threading "wikilink"), Smart Cache, [Intel Insider](https://zh.wikipedia.org/wiki/Intel_Insider "wikilink").*
   - Core i3-3120ME, i3-3217UE have support for ECC memory.
-  - Core i3-3120ME, i3-3217UE do not have support for *[Intel
-    Insider](https://zh.wikipedia.org/wiki/Intel_Insider "wikilink").*
-  - Core i3-3229Y supports
-    *[AES-NI](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink")*.
-  - [Die](https://zh.wikipedia.org/wiki/Die_\(integrated_circuit\) "wikilink")
-    size: 94 mm²
+  - Core i3-3120ME, i3-3217UE do not have support for *[Intel Insider](https://zh.wikipedia.org/wiki/Intel_Insider "wikilink").*
+  - Core i3-3229Y supports *[AES-NI](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink")*.
+  - [Die](https://zh.wikipedia.org/wiki/Die_\(integrated_circuit\) "wikilink") size: 94 mm²
 
 ### [Haswell microarchitecture (4th generation)](https://zh.wikipedia.org/wiki/Haswell_\(microarchitecture\) "wikilink")
 
 #### "Haswell-MB" (22 nm)
 
-  - All models support:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"),
-    [AVX2](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions_2 "wikilink"),
-    [FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink"), Enhanced
-    Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology
-    (EIST), [Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an
-    [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")
-    implementation), [Intel
-    VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"),
-    [Hyper-threading](https://zh.wikipedia.org/wiki/Hyper-threading "wikilink"),
-    Smart Cache.*
+  - All models support: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"), [AVX2](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions_2 "wikilink"), [FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink"), Enhanced Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology (EIST), [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink") implementation), [Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"), [Hyper-threading](https://zh.wikipedia.org/wiki/Hyper-threading "wikilink"), Smart Cache.*
 
 #### "Haswell-ULT" ([SiP](https://zh.wikipedia.org/wiki/system_in_package "wikilink"), 22 nm)
 
-  - All models support:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"),
-    [AVX2](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions_2 "wikilink"),
-    [FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink"), Enhanced
-    Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology
-    (EIST), [Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an
-    [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")
-    implementation), [Intel
-    VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"),
-    [Hyper-threading](https://zh.wikipedia.org/wiki/Hyper-threading "wikilink"),
-    [AES-NI](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"),
-    Smart Cache.*
-  - Core i3-4010U and higher also support *[Intel
-    VT-d](https://zh.wikipedia.org/wiki/Intel_VT-d "wikilink")*
+  - All models support: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"), [AVX2](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions_2 "wikilink"), [FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink"), Enhanced Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology (EIST), [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink") implementation), [Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"), [Hyper-threading](https://zh.wikipedia.org/wiki/Hyper-threading "wikilink"), [AES-NI](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"), Smart Cache.*
+  - Core i3-4010U and higher also support *[Intel VT-d](https://zh.wikipedia.org/wiki/Intel_VT-d "wikilink")*
   - Transistors: 1.3 billion
-  - [Die](https://zh.wikipedia.org/wiki/Die_\(integrated_circuit\) "wikilink")
-    size: 181 mm²
+  - [Die](https://zh.wikipedia.org/wiki/Die_\(integrated_circuit\) "wikilink") size: 181 mm²
 
 #### "Haswell-ULX" ([SiP](https://zh.wikipedia.org/wiki/system_in_package "wikilink"), 22 nm)
 
-  - All models support:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"),
-    [AVX2](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions_2 "wikilink"),
-    [FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink"), Enhanced
-    Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology
-    (EIST), [Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an
-    [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")
-    implementation), [Intel
-    VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"),
-    [Hyper-threading](https://zh.wikipedia.org/wiki/Hyper-threading "wikilink"),
-    [AES-NI](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"),
-    Smart Cache.*
+  - All models support: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"), [AVX2](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions_2 "wikilink"), [FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink"), Enhanced Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology (EIST), [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink") implementation), [Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"), [Hyper-threading](https://zh.wikipedia.org/wiki/Hyper-threading "wikilink"), [AES-NI](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"), Smart Cache.*
   - Transistors: 1.3 billion
-  - [Die](https://zh.wikipedia.org/wiki/Die_\(integrated_circuit\) "wikilink")
-    size: 181 mm²
+  - [Die](https://zh.wikipedia.org/wiki/Die_\(integrated_circuit\) "wikilink") size: 181 mm²
 
 #### "Haswell-H" (22 nm)
 
-  - All models support:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"),
-    [AVX2](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions_2 "wikilink"),
-    [FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink"), Enhanced
-    Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology
-    (EIST), [Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an
-    [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")
-    implementation), [Intel
-    VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"),
-    [Hyper-threading](https://zh.wikipedia.org/wiki/Hyper-threading "wikilink"),
-    Smart Cache.*
+  - All models support: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"), [AVX2](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions_2 "wikilink"), [FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink"), Enhanced Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology (EIST), [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink") implementation), [Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"), [Hyper-threading](https://zh.wikipedia.org/wiki/Hyper-threading "wikilink"), Smart Cache.*
   - Transistors: 1.3 billion
-  - [Die](https://zh.wikipedia.org/wiki/Die_\(integrated_circuit\) "wikilink")
-    size: 181 mm²
+  - [Die](https://zh.wikipedia.org/wiki/Die_\(integrated_circuit\) "wikilink") size: 181 mm²
   - Embedded models support ECC memory
 
 ### [Broadwell microarchitecture (5th generation)](https://zh.wikipedia.org/wiki/Broadwell_\(microarchitecture\) "wikilink")
 
 #### "Broadwell-U" (14 nm)
 
-  - All models support:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"),
-    [AVX2](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions_2 "wikilink"),
-    [FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink"), Enhanced
-    Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology
-    (EIST), [Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an
-    [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")
-    implementation), [Intel
-    VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"), [Intel
-    VT-d](https://zh.wikipedia.org/wiki/Intel_VT-d "wikilink"),
-    [Hyper-threading](https://zh.wikipedia.org/wiki/Hyper-threading "wikilink"),
-    [AES-NI](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"),
-    Smart Cache*, and [configurable
-    TDP](https://zh.wikipedia.org/wiki/configurable_TDP "wikilink")
-    (cTDP) down
+  - All models support: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"), [AVX2](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions_2 "wikilink"), [FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink"), Enhanced Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology (EIST), [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink") implementation), [Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"), [Intel VT-d](https://zh.wikipedia.org/wiki/Intel_VT-d "wikilink"), [Hyper-threading](https://zh.wikipedia.org/wiki/Hyper-threading "wikilink"), [AES-NI](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"), Smart Cache*, and [configurable TDP](https://zh.wikipedia.org/wiki/configurable_TDP "wikilink") (cTDP) down
 
 ### [Skylake microarchitecture (6th generation)](https://zh.wikipedia.org/wiki/Skylake_\(microarchitecture\) "wikilink")
 
 #### "Skylake-H" (14 nm)
 
-  - All models support:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"),
-    [AVX2](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions_2 "wikilink"),
-    [FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink"), Enhanced
-    Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology
-    (EIST), [Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an
-    [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")
-    implementation), [Intel
-    VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"), [Intel
-    VT-d](https://zh.wikipedia.org/wiki/Intel_VT-d "wikilink"),
-    [Hyper-threading](https://zh.wikipedia.org/wiki/Hyper-threading "wikilink"),
-    [AES-NI](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"),
-    Smart Cache.*
+  - All models support: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"), [AVX2](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions_2 "wikilink"), [FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink"), Enhanced Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology (EIST), [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink") implementation), [Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"), [Intel VT-d](https://zh.wikipedia.org/wiki/Intel_VT-d "wikilink"), [Hyper-threading](https://zh.wikipedia.org/wiki/Hyper-threading "wikilink"), [AES-NI](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"), Smart Cache.*
   - Transistors: TBD
-  - [Die](https://zh.wikipedia.org/wiki/Die_\(integrated_circuit\) "wikilink")
-    size: TBD
+  - [Die](https://zh.wikipedia.org/wiki/Die_\(integrated_circuit\) "wikilink") size: TBD
   - Embedded models support ECC memory
 
 #### "Skylake-U" (14 nm)
 
-  - All models support:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"),
-    [AVX2](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions_2 "wikilink"),
-    [FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink"), Enhanced
-    Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology
-    (EIST), [Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an
-    [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")
-    implementation), [Intel
-    VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"), [Intel
-    VT-d](https://zh.wikipedia.org/wiki/Intel_VT-d "wikilink"),
-    [Hyper-threading](https://zh.wikipedia.org/wiki/Hyper-threading "wikilink"),
-    [AES-NI](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"),
-    Smart Cache*, and [configurable
-    TDP](https://zh.wikipedia.org/wiki/configurable_TDP "wikilink")
-    (cTDP) down (except 6006U)
+  - All models support: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"), [AVX2](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions_2 "wikilink"), [FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink"), Enhanced Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology (EIST), [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink") implementation), [Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"), [Intel VT-d](https://zh.wikipedia.org/wiki/Intel_VT-d "wikilink"), [Hyper-threading](https://zh.wikipedia.org/wiki/Hyper-threading "wikilink"), [AES-NI](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"), Smart Cache*, and [configurable TDP](https://zh.wikipedia.org/wiki/configurable_TDP "wikilink") (cTDP) down (except 6006U)
 
 ### [Kaby Lake microarchitecture (7th generation)](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")
 
 #### "Kaby Lake-H" (14 nm)
 
-  - All models support:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"),
-    [AVX2](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions_2 "wikilink"),
-    [FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink"),
-    [SGX](https://zh.wikipedia.org/wiki/Software_Guard_Extensions "wikilink"),
-    [MPX](https://zh.wikipedia.org/wiki/Intel_MPX "wikilink"), Enhanced
-    Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology
-    (EIST), [Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an
-    [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")
-    implementation), [Intel
-    VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"), [Intel
-    VT-d](https://zh.wikipedia.org/wiki/Intel_VT-d "wikilink"),
-    [Hyper-threading](https://zh.wikipedia.org/wiki/Hyper-threading "wikilink"),
-    [AES-NI](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"),
-    Smart Cache.*
+  - All models support: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"), [AVX2](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions_2 "wikilink"), [FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink"), [SGX](https://zh.wikipedia.org/wiki/Software_Guard_Extensions "wikilink"), [MPX](https://zh.wikipedia.org/wiki/Intel_MPX "wikilink"), Enhanced Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology (EIST), [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink") implementation), [Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"), [Intel VT-d](https://zh.wikipedia.org/wiki/Intel_VT-d "wikilink"), [Hyper-threading](https://zh.wikipedia.org/wiki/Hyper-threading "wikilink"), [AES-NI](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"), Smart Cache.*
   - Transistors: TBD
-  - [Die](https://zh.wikipedia.org/wiki/Die_\(integrated_circuit\) "wikilink")
-    size: TBD
+  - [Die](https://zh.wikipedia.org/wiki/Die_\(integrated_circuit\) "wikilink") size: TBD
   - Embedded models support ECC memory
 
 #### "Kaby Lake-U" (14 nm)
 
-  - 全系列支援指令:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"),
-    [AVX2](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions_2 "wikilink"),
-    [FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink"),
-    [SGX](https://zh.wikipedia.org/wiki/Software_Guard_Extensions "wikilink"),
-    [MPX](https://zh.wikipedia.org/wiki/Intel_MPX "wikilink"), Enhanced
-    Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology
-    (EIST), [Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an
-    [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")
-    implementation), [Intel
-    VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"), [Intel
-    VT-d](https://zh.wikipedia.org/wiki/Intel_VT-d "wikilink"),
-    [Hyper-threading](https://zh.wikipedia.org/wiki/Hyper-threading "wikilink"),
-    [AES-NI](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"),
-    [Smart
-    Cache](https://zh.wikipedia.org/wiki/Smart_Cache "wikilink")*, and
-    [configurable
-    TDP](https://zh.wikipedia.org/wiki/configurable_TDP "wikilink")
-    (cTDP) down.
+  - 全系列支援指令: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"), [AVX2](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions_2 "wikilink"), [FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink"), [SGX](https://zh.wikipedia.org/wiki/Software_Guard_Extensions "wikilink"), [MPX](https://zh.wikipedia.org/wiki/Intel_MPX "wikilink"), Enhanced Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology (EIST), [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink") implementation), [Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"), [Intel VT-d](https://zh.wikipedia.org/wiki/Intel_VT-d "wikilink"), [Hyper-threading](https://zh.wikipedia.org/wiki/Hyper-threading "wikilink"), [AES-NI](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"), [Smart Cache](https://zh.wikipedia.org/wiki/Smart_Cache "wikilink")*, and [configurable TDP](https://zh.wikipedia.org/wiki/configurable_TDP "wikilink") (cTDP) down.
 
 #### "Coffee Lake-S" (14 nm)
 
-  - 全系列支援指令:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"),
-    [AVX2](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions_2 "wikilink"),
-    [FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink"), Enhanced
-    Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology
-    (EIST), [Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an
-    [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")
-    implementation), [Intel
-    VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"), [Intel
-    VT-d](https://zh.wikipedia.org/wiki/Intel_VT-d "wikilink"), [Intel
-    SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink"), [Intel
-    MPX](https://zh.wikipedia.org/wiki/Intel_MPX "wikilink"),
-    [AES-NI](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"),
-    Smart Cache.*
-  - Embedded models also support [ECC
-    memory](https://zh.wikipedia.org/wiki/ECC_memory "wikilink").
+  - 全系列支援指令: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"), [AVX2](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions_2 "wikilink"), [FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink"), Enhanced Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology (EIST), [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink") implementation), [Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"), [Intel VT-d](https://zh.wikipedia.org/wiki/Intel_VT-d "wikilink"), [Intel SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink"), [Intel MPX](https://zh.wikipedia.org/wiki/Intel_MPX "wikilink"), [AES-NI](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"), Smart Cache.*
+  - Embedded models also support [ECC memory](https://zh.wikipedia.org/wiki/ECC_memory "wikilink").
 
 ## 外部連結
 
   - [Intel 產品規格資料庫](http://ark.intel.com/)
 
-[Category:Intel_x86處理器](https://zh.wikipedia.org/wiki/Category:Intel_x86處理器 "wikilink")
-[Category:Intel處理器列表](https://zh.wikipedia.org/wiki/Category:Intel處理器列表 "wikilink")
+[Category:Intel_x86處理器](https://zh.wikipedia.org/wiki/Category:Intel_x86處理器 "wikilink") [Category:Intel處理器列表](https://zh.wikipedia.org/wiki/Category:Intel處理器列表 "wikilink")

@@ -1,6 +1,4 @@
-**ONFM**（台呼：Always Online\! ）是[马来西亚On](../Page/马来西亚.md "wikilink")
-Connection Sdn
-Bhd旗下的网络视频电台。于2014年9月1日正式启动试播，由25位资深主持、歌手、演员及网络红人形成主持团队，当中包括[梁佑诚](../Page/梁佑诚.md "wikilink")、黄明慧、[曾文伟](../Page/曾文伟.md "wikilink")、李俐澌、[张起政](https://zh.wikipedia.org/wiki/张起政 "wikilink")、陈思颐、[李永升](../Page/李永升.md "wikilink")、[方贾为及多位网络红人](https://zh.wikipedia.org/wiki/方贾为 "wikilink")\[1\]。此台打破传统电台的规格，以“视频”为特质以及“网络社交平台”为优势，成为[东南亚首家网络视频电台兼马来西亚首家中文网络商业电台](https://zh.wikipedia.org/wiki/东南亚 "wikilink")。\[2\]
+**ONFM**（台呼：Always Online\! ）是[马来西亚](../Page/马来西亚.md "wikilink")On Connection Sdn Bhd旗下的网络视频电台。于2014年9月1日正式启动试播，由25位资深主持、歌手、演员及网络红人形成主持团队，当中包括[梁佑诚](../Page/梁佑诚.md "wikilink")、黄明慧、[曾文伟](../Page/曾文伟.md "wikilink")、李俐澌、[张起政](https://zh.wikipedia.org/wiki/张起政 "wikilink")、陈思颐、[李永升](../Page/李永升.md "wikilink")、[方贾为及多位网络红人](https://zh.wikipedia.org/wiki/方贾为 "wikilink")\[1\]。此台打破传统电台的规格，以“视频”为特质以及“网络社交平台”为优势，成为[东南亚首家网络视频电台兼马来西亚首家中文网络商业电台](https://zh.wikipedia.org/wiki/东南亚 "wikilink")。\[2\]
 
 ## 节目详情
 
@@ -8,11 +6,8 @@ ONFM以马来西亚为据点的东南亚第一家网络视频电台，于9月1�
 
 ## 运行模式
 
-ONFM是马来西亚网络视频电台，是个全线纯生活娱乐资讯台。内设有视频，画面也以多元化呈现，所以拥有许多传统电台无法进行的节目，如命理节目《睇你条命》，灵异节目《01热线》、校园青春节目《我是校的啦\!》等。除了录影棚直播，也走到户外增设户外拍摄单元，贴近民众，比如《Run
-Buddy Run》、《On\! Tea Time》。
-ONFM
-副台长[梁佑诚表示](../Page/梁佑诚.md "wikilink")，“我们是网络媒体，不是电子媒体。一般上传统电台无法呈现画面，我们就弥补这方面的画面，让节目更多元化，我们虽然是网络视频电台，但我们还是电台。”他强调ONFM透过视频呈现加强电台声音的画面感，与电子媒体之间是合作，而不是竞争关系。\[4\]在接受《中国报》访问时，副台长梁佑诚坦诚“传统媒体不可能被取代，只是大家多了一个选择。网络电台的黄金时间（Prime
-Time）和传统电台完全不一样，其实各有优势，是可以并存的。”\[5\]
+ONFM是马来西亚网络视频电台，是个全线纯生活娱乐资讯台。内设有视频，画面也以多元化呈现，所以拥有许多传统电台无法进行的节目，如命理节目《睇你条命》，灵异节目《01热线》、校园青春节目《我是校的啦\!》等。除了录影棚直播，也走到户外增设户外拍摄单元，贴近民众，比如《Run Buddy Run》、《On\! Tea Time》。
+ONFM 副台长[梁佑诚](../Page/梁佑诚.md "wikilink")表示，“我们是网络媒体，不是电子媒体。一般上传统电台无法呈现画面，我们就弥补这方面的画面，让节目更多元化，我们虽然是网络视频电台，但我们还是电台。”他强调ONFM透过视频呈现加强电台声音的画面感，与电子媒体之间是合作，而不是竞争关系。\[4\]在接受《中国报》访问时，副台长梁佑诚坦诚“传统媒体不可能被取代，只是大家多了一个选择。网络电台的黄金时间（Prime Time）和传统电台完全不一样，其实各有优势，是可以并存的。”\[5\]
 
 ## 节目流程
 
@@ -94,12 +89,9 @@ Time）和传统电台完全不一样，其实各有优势，是可以并存的�
 
 ## 参考资料
 
-[Category:马来西亚电台](https://zh.wikipedia.org/wiki/Category:马来西亚电台 "wikilink")
-[Category:马来西亚公司](https://zh.wikipedia.org/wiki/Category:马来西亚公司 "wikilink")
+[Category:马来西亚电台](https://zh.wikipedia.org/wiki/Category:马来西亚电台 "wikilink") [Category:马来西亚公司](https://zh.wikipedia.org/wiki/Category:马来西亚公司 "wikilink")
 
-1.  [ON
-    FM最强DJ阵容　梁佑诚领军发声](http://cnews.cari.com.my/news.php?id=641611&link=next)
-
+1.  [ON FM最强DJ阵容　梁佑诚领军发声](http://cnews.cari.com.my/news.php?id=641611&link=next)
 2.  [东南亚第一家网络视频电台 OnFM](http://www.bigorangemedia.com/10829)
 3.
 4.  [东方网：ONFM打破界限求合作](http://www.orientaldaily.com.my/entertainment/ylonfm)

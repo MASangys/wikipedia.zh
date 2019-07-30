@@ -1,5 +1,4 @@
-**M聯賽**是[北馬里亞納群島足球協會主辦的](https://zh.wikipedia.org/wiki/北馬里亞納群島足球協會 "wikilink")[足球賽事](../Page/足球.md "wikilink")，2010年擴大為八隊伍。\[1\]2012年8月2日，在許多其他亞足聯成員國聯賽賽事的興起後，本比賽被重新命名為M
-\*聯賽。
+**M聯賽**是[北馬里亞納群島足球協會主辦的](https://zh.wikipedia.org/wiki/北馬里亞納群島足球協會 "wikilink")[足球](../Page/足球.md "wikilink")賽事，2010年擴大為八隊伍。\[1\]2012年8月2日，在許多其他亞足聯成員國聯賽賽事的興起後，本比賽被重新命名為M \*聯賽。
 
 ## 當前球隊
 
@@ -32,9 +31,6 @@
 
   - [Facebook](http://www.facebook.com/NMIFootball?ref=ts&fref=ts)
 
-[Category:亞洲頂級足球聯賽](https://zh.wikipedia.org/wiki/Category:亞洲頂級足球聯賽 "wikilink")
-[Category:2005年建立的體育聯賽](https://zh.wikipedia.org/wiki/Category:2005年建立的體育聯賽 "wikilink")
+[Category:亞洲頂級足球聯賽](https://zh.wikipedia.org/wiki/Category:亞洲頂級足球聯賽 "wikilink") [Category:2005年建立的體育聯賽](https://zh.wikipedia.org/wiki/Category:2005年建立的體育聯賽 "wikilink")
 
-1.  ['MP United rules men's
-    league'](http://www.saipantribune.com/newsstory.aspx?cat=2&newsID=101630)
-    , *Saipan Tribune*, 2010-07-27. Retrieved 2011-05-14.
+1.  ['MP United rules men's league'](http://www.saipantribune.com/newsstory.aspx?cat=2&newsID=101630) , *Saipan Tribune*, 2010-07-27. Retrieved 2011-05-14.

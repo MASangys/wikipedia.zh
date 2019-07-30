@@ -1,17 +1,14 @@
-**Mitchie
-M**（）\[1\]是[日本的](../Page/日本.md "wikilink")[音樂製作人](../Page/音樂製作人.md "wikilink")，主要以[VOCALOID軟件](../Page/VOCALOID.md "wikilink")[初音未來來創作歌曲](../Page/初音未來.md "wikilink")，並以製作擬真人聲為目標\[2\]。
+**Mitchie M**（）\[1\]是[日本](../Page/日本.md "wikilink")的[音樂製作人](../Page/音樂製作人.md "wikilink")，主要以[VOCALOID](../Page/VOCALOID.md "wikilink")軟件[初音未來](../Page/初音未來.md "wikilink")來創作歌曲，並以製作擬真人聲為目標\[2\]。
 
 ## 簡歷
 
-6歲就開始學習鋼琴，在學生時代曾進行樂隊活動，同時對感興趣，繼而開始學習音樂製作。畢業後則進行各種音樂相關的活動，包括作曲、編曲及聲音製作。\[3\]自言受到[巴西音樂家](../Page/巴西.md "wikilink")[安東尼奧·卡洛斯·裘賓的不少影響](../Page/安東尼奧·卡洛斯·裘賓.md "wikilink")。\[4\]\[5\]
+6歲就開始學習鋼琴，在學生時代曾進行樂隊活動，同時對感興趣，繼而開始學習音樂製作。畢業後則進行各種音樂相關的活動，包括作曲、編曲及聲音製作。\[3\]自言受到[巴西](../Page/巴西.md "wikilink")音樂家[安東尼奧·卡洛斯·裘賓](../Page/安東尼奧·卡洛斯·裘賓.md "wikilink")的不少影響。\[4\]\[5\]
 
-2011年7月31日把歌曲「FREELY
-TOMORROW」上傳至[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")，並刷新[VOCALOID曲分類中達成十萬再生的最新紀錄](../Page/VOCALOID.md "wikilink")（10小時40分鐘），後來亦刷新了達成百萬再生的最新紀錄（20日6小時4分鐘）。\[6\]\[7\]\[8\]
+2011年7月31日把歌曲「FREELY TOMORROW」上傳至[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")，並刷新[VOCALOID](../Page/VOCALOID.md "wikilink")曲分類中達成十萬再生的最新紀錄（10小時40分鐘），後來亦刷新了達成百萬再生的最新紀錄（20日6小時4分鐘）。\[6\]\[7\]\[8\]
 
 ## 名字由來
 
-名字來自[摇滚乐队](../Page/摇滚乐.md "wikilink")[吉米·亨德里克斯体验乐队的鼓手](../Page/吉米·亨德里克斯体验乐队.md "wikilink")****。\[9\]\[10\]\[11\]曾以**Mitchie
-Mitchiell**的名義活動，但後來覺得這名字太長，於是簡化成**Mitchie M**。\[12\]\[13\]
+名字來自[摇滚乐](../Page/摇滚乐.md "wikilink")队[吉米·亨德里克斯体验乐队](../Page/吉米·亨德里克斯体验乐队.md "wikilink")的鼓手****。\[9\]\[10\]\[11\]曾以**Mitchie Mitchiell**的名義活動，但後來覺得這名字太長，於是簡化成**Mitchie M**。\[12\]\[13\]
 
 ## 唱片
 
@@ -35,8 +32,7 @@ Mitchiell**的名義活動，但後來覺得這名字太長，於是簡化成**M
 
 ### 專輯
 
-  - （2013年11月6日）（[Sony Music
-    Direct](../Page/Sony_Music_Direct.md "wikilink")）
+  - （2013年11月6日）（[Sony Music Direct](../Page/Sony_Music_Direct.md "wikilink")）
 
       - 封面插圖：[贞本义行](../Page/贞本义行.md "wikilink")
 
@@ -67,17 +63,10 @@ Mitchiell**的名義活動，但後來覺得這名字太長，於是簡化成**M
   - Fairy Story（南里侑香、結城愛良）──Fairytale
   - Baguette Bardot──『Best Of Baguette Bardot』（FGL Music France）
   - [合輯](https://zh.wikipedia.org/wiki/合輯 "wikilink")「空想活劇」
-  - [Daisy×Daisy](../Page/Daisy×Daisy.md "wikilink")「Daisy×Daisy」收錄「Lovers
-    Game feat. Mitchie M」（2011年11月16日）
-  - [中川翔子](../Page/中川翔子.md "wikilink")「」收錄「[snow
-    tears](https://zh.wikipedia.org/wiki/snow_tears "wikilink") -Mitchie
-    M Remix-」（2012年1月11日）
+  - [Daisy×Daisy](../Page/Daisy×Daisy.md "wikilink")「Daisy×Daisy」收錄「Lovers Game feat. Mitchie M」（2011年11月16日）
+  - [中川翔子](../Page/中川翔子.md "wikilink")「」收錄「[snow tears](https://zh.wikipedia.org/wiki/snow_tears "wikilink") -Mitchie M Remix-」（2012年1月11日）
   - 合輯「Dream Vocalist」收錄「」（2012年3月21日）
-  - B Who I Want 2 B feat. HATSUNE MIKU
-    ([安室奈美惠](../Page/安室奈美惠.md "wikilink"))
-    收錄「[_genic](https://zh.wikipedia.org/wiki/_genic "wikilink")」
-    \[與[SOPHIE擔任填詞](https://zh.wikipedia.org/wiki/SOPHIE "wikilink")\]
-    (2015年6月10日)
+  - B Who I Want 2 B feat. HATSUNE MIKU ([安室奈美惠](../Page/安室奈美惠.md "wikilink")) 收錄「[_genic](https://zh.wikipedia.org/wiki/_genic "wikilink")」 \[與[SOPHIE擔任填詞](https://zh.wikipedia.org/wiki/SOPHIE "wikilink")\] (2015年6月10日)
 
 ### 商業搭配
 
@@ -100,7 +89,7 @@ Mitchiell**的名義活動，但後來覺得這名字太長，於是簡化成**M
 <tr class="even">
 <td><p>讓這偶像綻放光芒吧</p></td>
 <td></td>
-<td><p><a href="../Page/熊本縣.md" title="wikilink">熊本縣格陵蘭樂園電視廣告</a></p></td>
+<td><p><a href="../Page/熊本縣.md" title="wikilink">熊本縣</a>格陵蘭樂園電視廣告</p></td>
 <td><p>2013年</p></td>
 </tr>
 <tr class="odd">
@@ -135,10 +124,7 @@ Mitchiell**的名義活動，但後來覺得這名字太長，於是簡化成**M
   - [Mitchie M官方Youtube頻道](https://www.youtube.com/user/MitchieMTV)
 
   -
-[Category:使用Vocaloid的音樂家](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的音樂家 "wikilink")
-[Category:日本音樂家](https://zh.wikipedia.org/wiki/Category:日本音樂家 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")
+[Category:使用Vocaloid的音樂家](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的音樂家 "wikilink") [Category:日本音樂家](https://zh.wikipedia.org/wiki/Category:日本音樂家 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")
 
 1.
 

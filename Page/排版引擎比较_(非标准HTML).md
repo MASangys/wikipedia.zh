@@ -1,6 +1,6 @@
-下表比较了不赞成使用和专有的[HTML](../Page/HTML.md "wikilink")[元素与](../Page/HTML元素.md "wikilink")[属性对一些](../Page/HTML.md "wikilink")[排版引擎的支持和兼容性](../Page/排版引擎.md "wikilink")。请参阅各个产品的条目以获得更多信息。除非脚注中另有规定，比较均基于稳定版本，无任何附加组件、扩展或外部程序。
+下表比较了不赞成使用和专有的[HTML](../Page/HTML.md "wikilink")[元素与](../Page/HTML元素.md "wikilink")[属性对一些](../Page/HTML.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")的支持和兼容性。请参阅各个产品的条目以获得更多信息。除非脚注中另有规定，比较均基于稳定版本，无任何附加组件、扩展或外部程序。
 
-在[万维网发展早期](../Page/万维网.md "wikilink")，[网页浏览器和](../Page/网页浏览器.md "wikilink")[网页使用的标准还未成熟](https://zh.wikipedia.org/wiki/网页 "wikilink")。[网景](https://zh.wikipedia.org/wiki/网景 "wikilink")、[微软和](../Page/微软.md "wikilink")[WebTV等供应商相互竞争](https://zh.wikipedia.org/wiki/MSN_TV "wikilink")，提供不同的浏览器与HTML编辑器，它们对如何构造网站都有自己的想法。这些不同的特征导致了网页开发者往往使用仅可被单一浏览器识别的元素为特定的网页浏览器编码。WebTV与IBM的WebExplorer从未被主流浏览器采用。
+在[万维网](../Page/万维网.md "wikilink")发展早期，[网页浏览器](../Page/网页浏览器.md "wikilink")和[网页使用的标准还未成熟](https://zh.wikipedia.org/wiki/网页 "wikilink")。[网景](https://zh.wikipedia.org/wiki/网景 "wikilink")、[微软](../Page/微软.md "wikilink")和[WebTV等供应商相互竞争](https://zh.wikipedia.org/wiki/MSN_TV "wikilink")，提供不同的浏览器与HTML编辑器，它们对如何构造网站都有自己的想法。这些不同的特征导致了网页开发者往往使用仅可被单一浏览器识别的元素为特定的网页浏览器编码。WebTV与IBM的WebExplorer从未被主流浏览器采用。
 
 ## 不赞成使用的HTML元素
 
@@ -819,16 +819,13 @@
 ## 参考文献
 
   -
-  - [OS/2 Web Explorer's proprietary HTML
-    elements](https://web.archive.org/web/20080706145821/http://www.seds.org/~spider/os2/webextag.html)
+  - [OS/2 Web Explorer's proprietary HTML elements](https://web.archive.org/web/20080706145821/http://www.seds.org/~spider/os2/webextag.html)
 
-  - \[<http://msdn.microsoft.com/en-us/library/aa242436(VS.60>).aspx
-    MSDN Handling Events with HTML elements\]
+  - \[<http://msdn.microsoft.com/en-us/library/aa242436(VS.60>).aspx MSDN Handling Events with HTML elements\]
 
 {{-}}
 
-[Category:HTML](https://zh.wikipedia.org/wiki/Category:HTML "wikilink")
-[Category:排版引擎比较](https://zh.wikipedia.org/wiki/Category:排版引擎比较 "wikilink")
+[Category:HTML](https://zh.wikipedia.org/wiki/Category:HTML "wikilink") [Category:排版引擎比较](https://zh.wikipedia.org/wiki/Category:排版引擎比较 "wikilink")
 
 1.
 

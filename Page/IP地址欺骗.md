@@ -1,18 +1,12 @@
-[IP_spoofing_en.svg](https://zh.wikipedia.org/wiki/File:IP_spoofing_en.svg "fig:IP_spoofing_en.svg")
-在[-{zh-cn:计算机网络;
-zh-tw:電腦網路;}-里面](../Page/计算机网络.md "wikilink")，**IP地址欺骗**或**IP欺骗**是指带有假的源[IP地址的](../Page/IP地址.md "wikilink")[IP协议](../Page/网际协议.md "wikilink")[分组](https://zh.wikipedia.org/wiki/分组 "wikilink")（数据报），目的是冒充另一个计算系统身份。\[1\]
-使发送方可以保持匿名的一种技术是使用[代理服务器](../Page/代理服务器.md "wikilink")。
+[IP_spoofing_en.svg](https://zh.wikipedia.org/wiki/File:IP_spoofing_en.svg "fig:IP_spoofing_en.svg") 在[-{zh-cn:计算机网络; zh-tw:電腦網路;}-里面](../Page/计算机网络.md "wikilink")，**IP地址欺骗**或**IP欺骗**是指带有假的源[IP地址](../Page/IP地址.md "wikilink")的[IP协议](../Page/网际协议.md "wikilink")[分组](https://zh.wikipedia.org/wiki/分组 "wikilink")（数据报），目的是冒充另一个计算系统身份。\[1\] 使发送方可以保持匿名的一种技术是使用[代理服务器](../Page/代理服务器.md "wikilink")。
 
 ## 背景
 
-通过互联网网络和许多其他-{zh-cn:计算机网络; zh-tw:電腦網路;}-发送-{zh-cn:数据;
-zh-tw:資料;}-的基本协议是[IP协议](../Page/网际协议.md "wikilink")。该协议规定，每个IP数据报必须有一个包括-{zh-cn:数据包;
-zh-tw:封包;}-发送者IP地址的[报头](https://zh.wikipedia.org/wiki/信头 "wikilink")。源IP地址通常是数据报发送的地址，但报头中的发送者地址可以被改变，这样对收件人看来，该数据报来自另一个源。
+通过互联网网络和许多其他-{zh-cn:计算机网络; zh-tw:電腦網路;}-发送-{zh-cn:数据; zh-tw:資料;}-的基本协议是[IP协议](../Page/网际协议.md "wikilink")。该协议规定，每个IP数据报必须有一个包括-{zh-cn:数据包; zh-tw:封包;}-发送者IP地址的[报头](https://zh.wikipedia.org/wiki/信头 "wikilink")。源IP地址通常是数据报发送的地址，但报头中的发送者地址可以被改变，这样对收件人看来，该数据报来自另一个源。
 
 该协议要求接收计算机发回对源地址的响应，因此，欺骗主要用在当发送方期望网络响应或不关心响应的情况。
 
-源IP地址仅提供有关发件人的有限信息。 它可以在发送数据包时提供有关地区，城市和城镇的一般信息。
-它不提供有关发件人或正在使用的计算机的身份的信息。
+源IP地址仅提供有关发件人的有限信息。 它可以在发送数据包时提供有关地区，城市和城镇的一般信息。 它不提供有关发件人或正在使用的计算机的身份的信息。
 
 ## 应用
 
@@ -24,7 +18,7 @@ IP地址欺骗最常用在[拒绝服务攻击](https://zh.wikipedia.org/wiki/拒
 
 使用具有错误源IP地址的数据包并不总是用于恶意企图。例如，在网站性能测试，成百上千的“用户”（虚拟用户）可能被创建，每个都在执行测试网站的测试脚本，以模拟当系统上线和大量用户立刻登录时会发生什么事。
 
-由于每个用户都会有自己的IP地址，商业测试产品（如、[WebLOAD等](../Page/WebLOAD.md "wikilink")）可以使用IP欺骗，同样允许每个用户自己的“返回地址”。
+由于每个用户都会有自己的IP地址，商业测试产品（如、[WebLOAD](../Page/WebLOAD.md "wikilink")等）可以使用IP欺骗，同样允许每个用户自己的“返回地址”。
 
 ## 易受IP欺骗的服务
 
@@ -37,9 +31,7 @@ IP地址欺骗最常用在[拒绝服务攻击](https://zh.wikipedia.org/wiki/拒
 
 ## 欺骗攻击防御手段
 
-[-{zh-cn:数据报过滤;
-zh-tw:防火牆;}-是一种防御IP欺骗攻击的手段](../Page/防火墙.md "wikilink")。对网络的网关通常执行，用内网的源地址来阻止外网的数据包。这可以防止外部攻击者欺骗内部机器的地址。理想情况下，网关也将对传出的数据包执行，用外网的源地址阻止内网数据包。这样可以防止网络内的攻击者对来自外部机器进行IP欺骗攻击并进行过滤。
-另外建议设计网络协议和服务，使他们不依赖于源IP地址进行身份验证。
+[-{zh-cn:数据报过滤; zh-tw:防火牆;}-是一种防御IP欺骗攻击的手段](../Page/防火墙.md "wikilink")。对网络的网关通常执行，用内网的源地址来阻止外网的数据包。这可以防止外部攻击者欺骗内部机器的地址。理想情况下，网关也将对传出的数据包执行，用外网的源地址阻止内网数据包。这样可以防止网络内的攻击者对来自外部机器进行IP欺骗攻击并进行过滤。 另外建议设计网络协议和服务，使他们不依赖于源IP地址进行身份验证。
 
 ### 上层
 
@@ -47,7 +39,7 @@ zh-tw:防火牆;}-是一种防御IP欺骗攻击的手段](../Page/防火墙.md "
 
 ## 其他定义
 
-术语***IP地址欺骗***有时也用来指“报头伪造”，在[电子邮件或](../Page/电子邮件.md "wikilink")[Usenet数据报头插入虚假或误导性信息](../Page/Usenet.md "wikilink")。伪造的报头用于误导收件人或网络应用程序，以了解消息的来源。这是[濫發電子訊息和](https://zh.wikipedia.org/wiki/濫發電子訊息 "wikilink")的一种常见的技术，某些人想掩盖他们的消息来源来避免被追查。
+术语***IP地址欺骗***有时也用来指“报头伪造”，在[电子邮件](../Page/电子邮件.md "wikilink")或[Usenet](../Page/Usenet.md "wikilink")数据报头插入虚假或误导性信息。伪造的报头用于误导收件人或网络应用程序，以了解消息的来源。这是[濫發電子訊息和](https://zh.wikipedia.org/wiki/濫發電子訊息 "wikilink")的一种常见的技术，某些人想掩盖他们的消息来源来避免被追查。
 
 ## 参见
 
@@ -67,12 +59,8 @@ zh-tw:防火牆;}-是一种防御IP欺骗攻击的手段](../Page/防火墙.md "
 
 ## 外部链接
 
-  - [ANA Spoofer Project: State of IP Spoofing and Client
-    Test](http://spoofer.csail.mit.edu/summary.php)
+  - [ANA Spoofer Project: State of IP Spoofing and Client Test](http://spoofer.csail.mit.edu/summary.php)
 
-[Category:互联网安全](https://zh.wikipedia.org/wiki/Category:互联网安全 "wikilink")
-[Category:欺瞒](https://zh.wikipedia.org/wiki/Category:欺瞒 "wikilink")
-[Category:IP地址](https://zh.wikipedia.org/wiki/Category:IP地址 "wikilink")
-[Category:Types_of_cyberattacks](https://zh.wikipedia.org/wiki/Category:Types_of_cyberattacks "wikilink")
+[Category:互联网安全](https://zh.wikipedia.org/wiki/Category:互联网安全 "wikilink") [Category:欺瞒](https://zh.wikipedia.org/wiki/Category:欺瞒 "wikilink") [Category:IP地址](https://zh.wikipedia.org/wiki/Category:IP地址 "wikilink") [Category:Types_of_cyberattacks](https://zh.wikipedia.org/wiki/Category:Types_of_cyberattacks "wikilink")
 
 1.

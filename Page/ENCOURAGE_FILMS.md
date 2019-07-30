@@ -1,10 +1,8 @@
-**株式會社ENCOURAGE
-FILMS**（，）是[日本的](../Page/日本.md "wikilink")[動畫製作公司](../Page/日本动画.md "wikilink")。
+**株式會社ENCOURAGE FILMS**（，）是[日本](../Page/日本.md "wikilink")的[動畫製作公司](../Page/日本动画.md "wikilink")。
 
 ## 簡介
 
-此公司由曾任[GONZO製作人的](../Page/GONZO.md "wikilink")與動畫導演[追崎史敏於](../Page/追崎史敏.md "wikilink")2008年設立，第一部總承包作品為2009年的網路動畫《》。除製作動畫外，ENCOURAGE
-FILMS亦舉辦《[-{zh-cn:百变之星;zh-hk:星夢美少女;zh-tw:萬花筒之星;}-](../Page/百变之星.md "wikilink")》的相關活動，該動畫的製作人為池田東陽。
+此公司由曾任[GONZO](../Page/GONZO.md "wikilink")製作人的與動畫導演[追崎史敏](../Page/追崎史敏.md "wikilink")於2008年設立，第一部總承包作品為2009年的網路動畫《》。除製作動畫外，ENCOURAGE FILMS亦舉辦《[-{zh-cn:百变之星;zh-hk:星夢美少女;zh-tw:萬花筒之星;}-](../Page/百变之星.md "wikilink")》的相關活動，該動畫的製作人為池田東陽。
 
 2013年2月，池田東陽逝世，由追崎史敏接任代表董事\[1\]。
 
@@ -43,13 +41,13 @@ FILMS亦舉辦《[-{zh-cn:百变之星;zh-hk:星夢美少女;zh-tw:萬花筒之�
 <td><p><a href="../Page/戰姬絕唱SYMPHOGEAR.md" title="wikilink">戰姬絕唱SYMPHOGEAR</a></p></td>
 <td><p>電視動畫</p></td>
 <td><p>僅第1、2話<br />
-第3話後由<a href="../Page/SATELIGHT.md" title="wikilink">SATELIGHT製作</a></p></td>
+第3話後由<a href="../Page/SATELIGHT.md" title="wikilink">SATELIGHT</a>製作</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/宮河家的空腹" title="wikilink">宮河家的空腹</a></p></td>
 <td><p>網路動畫</p></td>
-<td><p>與<a href="../Page/Ordet.md" title="wikilink">Ordet共同製作</a></p></td>
+<td><p>與<a href="../Page/Ordet.md" title="wikilink">Ordet</a>共同製作</p></td>
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
@@ -61,7 +59,7 @@ FILMS亦舉辦《[-{zh-cn:百变之星;zh-hk:星夢美少女;zh-tw:萬花筒之�
 <td><p>2015年</p></td>
 <td><p><a href="../Page/干支魂.md" title="wikilink">干支魂</a></p></td>
 <td><p>電視動畫</p></td>
-<td><p>與<a href="../Page/白組.md" title="wikilink">白組共同製作</a></p></td>
+<td><p>與<a href="../Page/白組.md" title="wikilink">白組</a>共同製作</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年</p></td>
@@ -133,7 +131,7 @@ FILMS亦舉辦《[-{zh-cn:百变之星;zh-hk:星夢美少女;zh-tw:萬花筒之�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/守護甜心！.md" title="wikilink">守護甜心！！！心跳不已</a></p></td>
+<td><p><a href="../Page/守護甜心！.md" title="wikilink">守護甜心！</a>！！心跳不已</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -255,9 +253,7 @@ FILMS亦舉辦《[-{zh-cn:百变之星;zh-hk:星夢美少女;zh-tw:萬花筒之�
 
   -
   -
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:武藏野市](https://zh.wikipedia.org/wiki/Category:武藏野市 "wikilink")
-[Category:2008年成立的公司](https://zh.wikipedia.org/wiki/Category:2008年成立的公司 "wikilink")
+[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:武藏野市](https://zh.wikipedia.org/wiki/Category:武藏野市 "wikilink") [Category:2008年成立的公司](https://zh.wikipedia.org/wiki/Category:2008年成立的公司 "wikilink")
 
 1.
 2.

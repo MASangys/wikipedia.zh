@@ -1,4 +1,4 @@
-**大都市近郊區間**（），是根據[JR的](../Page/JR.md "wikilink")（以下簡稱「旅規」）第156條第2號規定的區間。東京、大阪、福岡、新潟、仙台均設有近郊，分別為**東京近郊區間**（）、**大阪近郊區間**（）、**福岡近郊區間**（）、**新潟近郊區間**（）、**仙台近郊區間**（）。東京、大阪、福岡的3個近郊區間自[日本國有鐵道](../Page/日本國有鐵道.md "wikilink")（國鐵）時代已有規定，新潟與仙台兩個近郊區間則由JR規定。
+**大都市近郊區間**（），是根據[JR](../Page/JR.md "wikilink")的（以下簡稱「旅規」）第156條第2號規定的區間。東京、大阪、福岡、新潟、仙台均設有近郊，分別為**東京近郊區間**（）、**大阪近郊區間**（）、**福岡近郊區間**（）、**新潟近郊區間**（）、**仙台近郊區間**（）。東京、大阪、福岡的3個近郊區間自[日本國有鐵道](../Page/日本國有鐵道.md "wikilink")（國鐵）時代已有規定，新潟與仙台兩個近郊區間則由JR規定。
 
 ## 近郊區間列表
 
@@ -6,9 +6,7 @@
 
 **東京近郊區間**為JR東日本的以下區間\[1\]。不包括其他JR公司及[東北新幹線](../Page/東北新幹線.md "wikilink")、[上越新幹線](../Page/上越新幹線.md "wikilink")、[北陸新幹線](../Page/北陸新幹線.md "wikilink")。以東京為中心設定的近郊區間最遠可達[靜岡縣](../Page/靜岡縣.md "wikilink")、[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")、[山梨縣](https://zh.wikipedia.org/wiki/山梨縣 "wikilink")、[福島縣各自一部分地區](https://zh.wikipedia.org/wiki/福島縣 "wikilink")。
 
-  - [東海道本線](../Page/東海道本線.md "wikilink")：東京站－熱海站（[JR東日本東海道本線全線](../Page/東海道線_\(JR東日本\).md "wikilink")）、[品川站](https://zh.wikipedia.org/wiki/品川站 "wikilink")
-    - [新川崎站](../Page/新川崎站.md "wikilink") -
-    [鶴見站](../Page/鶴見站.md "wikilink")（路線資訊上為[橫須賀線](../Page/橫須賀線.md "wikilink")）
+  - [東海道本線](../Page/東海道本線.md "wikilink")：東京站－熱海站（[JR東日本東海道本線全線](../Page/東海道線_\(JR東日本\).md "wikilink")）、[品川站](https://zh.wikipedia.org/wiki/品川站 "wikilink") - [新川崎站](../Page/新川崎站.md "wikilink") - [鶴見站](../Page/鶴見站.md "wikilink")（路線資訊上為[橫須賀線](../Page/橫須賀線.md "wikilink")）
   - [山手線](../Page/山手線.md "wikilink")：品川站－[新宿站](https://zh.wikipedia.org/wiki/新宿站 "wikilink")－[田端站](../Page/田端站.md "wikilink")（全線）
   - [赤羽線](../Page/赤羽線.md "wikilink")：[池袋站](https://zh.wikipedia.org/wiki/池袋站 "wikilink")－[赤羽站](../Page/赤羽站.md "wikilink")（全線）（路線資訊上為[埼京線](../Page/埼京線.md "wikilink")）
   - [南武線](../Page/南武線.md "wikilink")：[川崎站](../Page/川崎站.md "wikilink")－[立川站](../Page/立川站.md "wikilink")、[尻手站](../Page/尻手站.md "wikilink")－[濱川崎站](../Page/濱川崎站.md "wikilink")（全線）
@@ -33,8 +31,7 @@
   - [日光線](../Page/日光線.md "wikilink")：[宇都宮站](https://zh.wikipedia.org/wiki/宇都宮站 "wikilink")－[日光站](../Page/日光站.md "wikilink")（全線）
   - [烏山線](../Page/烏山線.md "wikilink")：[寶積寺站](https://zh.wikipedia.org/wiki/寶積寺站 "wikilink")－[烏山站](../Page/烏山站_\(日本\).md "wikilink")（全線）
   - [信越本線](../Page/信越本線.md "wikilink")：高崎站－[橫川站](../Page/橫川站_\(群馬縣\).md "wikilink")（群馬縣內全線）
-  - [總武本線](../Page/總武本線.md "wikilink")：東京站－[銚子站](../Page/銚子站.md "wikilink")、[御茶之水站](https://zh.wikipedia.org/wiki/御茶之水站 "wikilink")
-    - [錦糸町站](https://zh.wikipedia.org/wiki/錦糸町站 "wikilink")（全線）
+  - [總武本線](../Page/總武本線.md "wikilink")：東京站－[銚子站](../Page/銚子站.md "wikilink")、[御茶之水站](https://zh.wikipedia.org/wiki/御茶之水站 "wikilink") - [錦糸町站](https://zh.wikipedia.org/wiki/錦糸町站 "wikilink")（全線）
   - [京葉線](../Page/京葉線.md "wikilink")：東京站－[蘇我站](https://zh.wikipedia.org/wiki/蘇我站 "wikilink")、[市川鹽濱站](../Page/市川鹽濱站.md "wikilink")－西船橋站、西船橋站－[南船橋站](https://zh.wikipedia.org/wiki/南船橋站 "wikilink")（全線）
   - [外房線](../Page/外房線.md "wikilink")：[千葉站](../Page/千葉站.md "wikilink")－（全線）
   - [內房線](../Page/內房線.md "wikilink")：蘇我站－安房鴨川站（全線）
@@ -50,12 +47,11 @@
 #### 車內路線圖
 
   - 至2008年3月14日為止車內揭示板路線圖的名稱為「東京近郊路線圖」，2008年3月15日改點起使用「路線網絡」的名稱。
-  - 2009年3月14日改點後，東京近郊區間擴大，但只揭載以前的地域路線圖（但同日開業的[西府站與](../Page/西府站.md "wikilink")[西大宮站亦有揭載](../Page/西大宮站.md "wikilink")）。
+  - 2009年3月14日改點後，東京近郊區間擴大，但只揭載以前的地域路線圖（但同日開業的[西府站](../Page/西府站.md "wikilink")與[西大宮站](../Page/西大宮站.md "wikilink")亦有揭載）。
 
 ### 大阪近郊區間
 
-[Osaka_Suburban_Area.gif](https://zh.wikipedia.org/wiki/File:Osaka_Suburban_Area.gif "fig:Osaka_Suburban_Area.gif")
-**大阪近郊區間**為JR東海與JR西日本以下的區間。不包括[山陽新幹線](../Page/山陽新幹線.md "wikilink")[新大阪站](https://zh.wikipedia.org/wiki/新大阪站 "wikilink")－[西明石站](https://zh.wikipedia.org/wiki/西明石站 "wikilink")。
+[Osaka_Suburban_Area.gif](https://zh.wikipedia.org/wiki/File:Osaka_Suburban_Area.gif "fig:Osaka_Suburban_Area.gif") **大阪近郊區間**為JR東海與JR西日本以下的區間。不包括[山陽新幹線](../Page/山陽新幹線.md "wikilink")[新大阪站](https://zh.wikipedia.org/wiki/新大阪站 "wikilink")－[西明石站](https://zh.wikipedia.org/wiki/西明石站 "wikilink")。
 
   - [東海道本線](../Page/東海道本線.md "wikilink")：[米原站](https://zh.wikipedia.org/wiki/米原站 "wikilink")－[神戶站](../Page/神戶站_\(兵庫縣\).md "wikilink")（JR西日本管內全域）
   - [東海道新幹線](../Page/東海道新幹線.md "wikilink")：米原站－新大阪站\[2\]
@@ -86,8 +82,7 @@
 
 ### 福岡近郊區間
 
-[FukuokaSuburbanArea.png](https://zh.wikipedia.org/wiki/File:FukuokaSuburbanArea.png "fig:FukuokaSuburbanArea.png")
-**福岡近郊區間**為JR西日本與JR九州以下的區間。不包括[山陽新幹線](../Page/山陽新幹線.md "wikilink")、[九州新幹線](../Page/九州新幹線_\(鹿兒島線\).md "wikilink")。
+[FukuokaSuburbanArea.png](https://zh.wikipedia.org/wiki/File:FukuokaSuburbanArea.png "fig:FukuokaSuburbanArea.png") **福岡近郊區間**為JR西日本與JR九州以下的區間。不包括[山陽新幹線](../Page/山陽新幹線.md "wikilink")、[九州新幹線](../Page/九州新幹線_\(鹿兒島線\).md "wikilink")。
 
   - [鹿兒島本線](../Page/鹿兒島本線.md "wikilink")：[門司港站](../Page/門司港站.md "wikilink")－[鳥栖站](https://zh.wikipedia.org/wiki/鳥栖站 "wikilink")
   - [香椎線](../Page/香椎線.md "wikilink")：－（全線）
@@ -100,8 +95,7 @@
 
 ### 新潟近郊區間
 
-[新潟近郊区間.png](https://zh.wikipedia.org/wiki/File:新潟近郊区間.png "fig:新潟近郊区間.png")
-**新潟近郊區間**為JR東日本以下區間。不包括[上越新幹線](../Page/上越新幹線.md "wikilink")。
+[新潟近郊区間.png](https://zh.wikipedia.org/wiki/File:新潟近郊区間.png "fig:新潟近郊区間.png") **新潟近郊區間**為JR東日本以下區間。不包括[上越新幹線](../Page/上越新幹線.md "wikilink")。
 
   - [磐越西線](https://zh.wikipedia.org/wiki/磐越西線 "wikilink")：－[新津站](https://zh.wikipedia.org/wiki/新津站 "wikilink")
   - [羽越本線](../Page/羽越本線.md "wikilink")：新津站－
@@ -113,8 +107,7 @@
 
 ### 仙台近郊區間
 
-[仙台近郊区間の路線図（2016年）.png](https://zh.wikipedia.org/wiki/File:仙台近郊区間の路線図（2016年）.png "fig:仙台近郊区間の路線図（2016年）.png")
-**仙台近郊區間**為JR東日本以下的區間。不包括[東北新幹線](../Page/東北新幹線.md "wikilink")、[山形新幹線](../Page/山形新幹線.md "wikilink")\[4\]。
+[仙台近郊区間の路線図（2016年）.png](https://zh.wikipedia.org/wiki/File:仙台近郊区間の路線図（2016年）.png "fig:仙台近郊区間の路線図（2016年）.png") **仙台近郊區間**為JR東日本以下的區間。不包括[東北新幹線](../Page/東北新幹線.md "wikilink")、[山形新幹線](../Page/山形新幹線.md "wikilink")\[4\]。
 
   - [東北本線](../Page/東北本線.md "wikilink")
       - 本線：[矢吹站](https://zh.wikipedia.org/wiki/矢吹站 "wikilink")－[平泉站](https://zh.wikipedia.org/wiki/平泉站_\(日本\) "wikilink")
@@ -160,8 +153,7 @@
   - [JR東日本：旅客營業規則第156條](http://www.jreast.co.jp/ryokaku/02_hen/04_syo/02_setsu/02.html)（其他的JR為同文）
   - [JR旅客制度特例的變遷](http://www.desktoptetsu.com/ryokihensen.htm)
 
-[Category:鐵路車費與車票](https://zh.wikipedia.org/wiki/Category:鐵路車費與車票 "wikilink")
-[Category:日本鐵路](https://zh.wikipedia.org/wiki/Category:日本鐵路 "wikilink")
+[Category:鐵路車費與車票](https://zh.wikipedia.org/wiki/Category:鐵路車費與車票 "wikilink") [Category:日本鐵路](https://zh.wikipedia.org/wiki/Category:日本鐵路 "wikilink")
 
 1.  [参考-JR東日本路線ネットワーク](http://www.jreast.co.jp/map/pdf/map_tokyo.pdf)
 2.  只限JR東海此段區間，其他路線全屬於JR西日本。

@@ -1,5 +1,4 @@
-**Empty
-ORio**，是[滅火器樂團吉他手](https://zh.wikipedia.org/wiki/滅火器樂團 "wikilink")[鄭宇辰個人首張全創作專輯](https://zh.wikipedia.org/wiki/鄭宇辰 "wikilink")，數位發行是2018年4月30日，2018年5月11日正式發行\[1\]\[2\]。
+**Empty ORio**，是[滅火器樂團吉他手](https://zh.wikipedia.org/wiki/滅火器樂團 "wikilink")[鄭宇辰個人首張全創作專輯](https://zh.wikipedia.org/wiki/鄭宇辰 "wikilink")，數位發行是2018年4月30日，2018年5月11日正式發行\[1\]\[2\]。
 
 ## 曲目
 
@@ -122,12 +121,7 @@ Be Good &amp; Bye（to my brotherhood）</p></td>
 
 ## 外部連結
 
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:鄭宇辰音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭宇辰音樂專輯 "wikilink")
-[Category:火氣音樂製作音樂專輯](https://zh.wikipedia.org/wiki/Category:火氣音樂製作音樂專輯 "wikilink")
+[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:鄭宇辰音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭宇辰音樂專輯 "wikilink") [Category:火氣音樂製作音樂專輯](https://zh.wikipedia.org/wiki/Category:火氣音樂製作音樂專輯 "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-**EXP EDITION**（），是IMMABB
-Entertainment旗下男子组合，组合成员有四人。組合在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約出生](https://zh.wikipedia.org/wiki/紐約 "wikilink")，並在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾成立](../Page/首爾.md "wikilink")。
+**EXP EDITION**（），是IMMABB Entertainment旗下男子组合，组合成员有四人。組合在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約出生](https://zh.wikipedia.org/wiki/紐約 "wikilink")，並在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾](../Page/首爾.md "wikilink")成立。
 
 ## 成員列表
 
@@ -161,15 +160,11 @@ Entertainment旗下男子组合，组合成员有四人。組合在[美國](http
 
 ### 結成的契機
 
-[哥伦比亚研究生Bora](../Page/哥伦比亚.md "wikilink") Kim和她的项目合作伙伴Karin
-Kuroda和Samantha
-Shao撰写的一篇论文项目，实质上是一个学术实验，旨在探索[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[流行音乐中的性别](https://zh.wikipedia.org/wiki/流行音乐 "wikilink")，性别，商业文化，粉丝群和文化占有\[1\]。
+[哥伦比亚](../Page/哥伦比亚.md "wikilink")研究生Bora Kim和她的项目合作伙伴Karin Kuroda和Samantha Shao撰写的一篇论文项目，实质上是一个学术实验，旨在探索[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[流行音乐中的性别](https://zh.wikipedia.org/wiki/流行音乐 "wikilink")，性别，商业文化，粉丝群和文化占有\[1\]。
 
-Bora
-Kim在接受[哥伦比亚广播公司采访时解释说](../Page/哥伦比亚.md "wikilink")「我想看看，如果我让美国男孩变成韓流歌手，教他们如何歌唱韩国歌，像韩国男孩一样行事」,並正在制作一个男孩乐队。
+Bora Kim在接受[哥伦比亚](../Page/哥伦比亚.md "wikilink")广播公司采访时解释说「我想看看，如果我让美国男孩变成韓流歌手，教他们如何歌唱韩国歌，像韩国男孩一样行事」,並正在制作一个男孩乐队。
 
-在[Kickstarter筹集了超过](../Page/Kickstarter.md "wikilink")3万美元的资金，並用于製作一張迷你专辑之后，这个小组在两年之后就减少至四名成员：Frankie，Šime，Hunter和Koki。
-他们一起搬到了韩国，录制了音乐，学习了韩国语，排练，准备重新出道，这一天似乎即将到来\[2\]。
+在[Kickstarter](../Page/Kickstarter.md "wikilink")筹集了超过3万美元的资金，並用于製作一張迷你专辑之后，这个小组在两年之后就减少至四名成员：Frankie，Šime，Hunter和Koki。 他们一起搬到了韩国，录制了音乐，学习了韩国语，排练，准备重新出道，这一天似乎即将到来\[2\]。
 
 ## 演出
 
@@ -254,17 +249,13 @@ Kim在接受[哥伦比亚广播公司采访时解释说](../Page/哥伦比亚.md
 
   - EXP EDITION [官方Facebook](https://www.facebook.com/expedition.immabb)
 
-  - EXP EDITION
-    [官方YouTube](http://www.youtube.com/channel/UCLg6pf9WliqkolDz1Ip52gA)
+  - EXP EDITION [官方YouTube](http://www.youtube.com/channel/UCLg6pf9WliqkolDz1Ip52gA)
 
   - EXP EDITION [官方Twitter](https://twitter.com/exp_edition)
 
-  - EXP EDITION
-    [官方Instagram](https://www.instagram.com/expedition.official/)
+  - EXP EDITION [官方Instagram](https://www.instagram.com/expedition.official/)
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
 
 1.
 2.

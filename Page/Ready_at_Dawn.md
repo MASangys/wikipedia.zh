@@ -1,9 +1,4 @@
-**Ready at Dawn
-Studios**是一家美国的电子游戏开发商，成立于2003年，公司早期成员来自[顽皮狗和](../Page/顽皮狗.md "wikilink")[暴雪娱乐](https://zh.wikipedia.org/wiki/暴雪娱乐 "wikilink")。\[1\]\[2\]公司因开发了[PlayStation
-Portable平台上的](../Page/PlayStation_Portable.md "wikilink")《[战神：奥林匹斯之链](../Page/战神：奥林匹斯之链.md "wikilink")》、《[戰神：斯巴達的亡魂](../Page/戰神：斯巴達的亡魂.md "wikilink")》以及[PlayStation
-4上的](../Page/PlayStation_4.md "wikilink")《[教团1886](https://zh.wikipedia.org/wiki/教团1886 "wikilink")》而为人熟知。虽然Ready
-at
-Dawn开发的游戏作品多是[索尼互动娱乐旗下的游戏系列](https://zh.wikipedia.org/wiki/索尼互动娱乐 "wikilink")，但公司并非是其子公司，而是独立运营。
+**Ready at Dawn Studios**是一家美国的电子游戏开发商，成立于2003年，公司早期成员来自[顽皮狗](../Page/顽皮狗.md "wikilink")和[暴雪娱乐](https://zh.wikipedia.org/wiki/暴雪娱乐 "wikilink")。\[1\]\[2\]公司因开发了[PlayStation Portable平台上的](../Page/PlayStation_Portable.md "wikilink")《[战神：奥林匹斯之链](../Page/战神：奥林匹斯之链.md "wikilink")》、《[戰神：斯巴達的亡魂](../Page/戰神：斯巴達的亡魂.md "wikilink")》以及[PlayStation 4上的](../Page/PlayStation_4.md "wikilink")《[教团1886](https://zh.wikipedia.org/wiki/教团1886 "wikilink")》而为人熟知。虽然Ready at Dawn开发的游戏作品多是[索尼互动娱乐旗下的游戏系列](https://zh.wikipedia.org/wiki/索尼互动娱乐 "wikilink")，但公司并非是其子公司，而是独立运营。
 
 ## 公司作品
 
@@ -27,7 +22,7 @@ Dawn开发的游戏作品多是[索尼互动娱乐旗下的游戏系列](https:/
 <td><p><a href="../Page/平台游戏.md" title="wikilink">平台</a></p></td>
 <td><p><a href="../Page/PlayStation_Portable.md" title="wikilink">PlayStation Portable</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/索尼电脑娱乐" title="wikilink">索尼电脑娱乐</a></p></td>
-<td><p>由<a href="../Page/顽皮狗.md" title="wikilink">顽皮狗参与制作</a></p></td>
+<td><p>由<a href="../Page/顽皮狗.md" title="wikilink">顽皮狗</a>参与制作</p></td>
 </tr>
 <tr class="even">
 <td><p>2008</p></td>
@@ -94,16 +89,9 @@ Dawn开发的游戏作品多是[索尼互动娱乐旗下的游戏系列](https:/
 ## 外部链接
 
   -
-[Category:2003年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2003年開業電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
-[Category:國際遊戲開發者協會成員](https://zh.wikipedia.org/wiki/Category:國際遊戲開發者協會成員 "wikilink")
-[Category:加利福尼亞州橘郡公司](https://zh.wikipedia.org/wiki/Category:加利福尼亞州橘郡公司 "wikilink")
+[Category:2003年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2003年開業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:國際遊戲開發者協會成員](https://zh.wikipedia.org/wiki/Category:國際遊戲開發者協會成員 "wikilink") [Category:加利福尼亞州橘郡公司](https://zh.wikipedia.org/wiki/Category:加利福尼亞州橘郡公司 "wikilink")
 
-1.  [E3 2014: Game developer Ready at Dawn rolls the dice with ‘The
-    Order: 1886′](http://herocomplex.latimes.com/games/e3-2014-game-developer-ready-at-dawn-rolls-the-dice-with-the-order/#/0).LATimes.2014-06-10.\[2017-04-21\].
-2.  [Naughty Dog director lured to Ready At Dawn by new
-    IP](https://www.engadget.com/2007/08/03/naughty-dog-director-lured-to-ready-at-dawn-by-new-ip/).Engadget.2007-08-03.\[2017-04-21\].
+1.  [E3 2014: Game developer Ready at Dawn rolls the dice with ‘The Order: 1886′](http://herocomplex.latimes.com/games/e3-2014-game-developer-ready-at-dawn-rolls-the-dice-with-the-order/#/0).LATimes.2014-06-10.\[2017-04-21\].
+2.  [Naughty Dog director lured to Ready At Dawn by new IP](https://www.engadget.com/2007/08/03/naughty-dog-director-lured-to-ready-at-dawn-by-new-ip/).Engadget.2007-08-03.\[2017-04-21\].
 3.  [《教团1886》开发商新作国服版确定由腾讯代理](http://www.vgtime.com/topic/545439.jhtml).游戏时光.2017-04-20.\[2017-04-21\].
-4.  [Lone Echo recreates Gravity, but makes your robot body the
-    star](http://www.polygon.com/virtual-reality/2016/10/6/13186606/lone-echo-oculus-touch-ready-at-dawn).Polygon.2016-10-06.\[2017-04-21\].
+4.  [Lone Echo recreates Gravity, but makes your robot body the star](http://www.polygon.com/virtual-reality/2016/10/6/13186606/lone-echo-oculus-touch-ready-at-dawn).Polygon.2016-10-06.\[2017-04-21\].

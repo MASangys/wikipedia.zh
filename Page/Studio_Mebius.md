@@ -1,6 +1,4 @@
-**Studio Mebius**是[Visual
-Art's所屬的](../Page/Visual_Art's.md "wikilink")[日本成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，與「Studio
-Ring」為姊妹品牌。品牌名稱的由來是[莫比烏斯帶](https://zh.wikipedia.org/wiki/莫比烏斯帶 "wikilink")，有無限大可能性的意義。\[1\]
+**Studio Mebius**是[Visual Art's所屬的](../Page/Visual_Art's.md "wikilink")[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")品牌，與「Studio Ring」為姊妹品牌。品牌名稱的由來是[莫比烏斯帶](https://zh.wikipedia.org/wiki/莫比烏斯帶 "wikilink")，有無限大可能性的意義。\[1\]
 
 ## 作品列表
 
@@ -61,10 +59,8 @@ Ring」為姊妹品牌。品牌名稱的由來是[莫比烏斯帶](https://zh.wi
 ## 外部連結
 
   - [Studio Mebius官方網站](http://studio-mebius.product.co.jp/)
-  - [Studio
-    Ring官方網站](https://web.archive.org/web/20091003073033/http://www.studio-ring.co.jp/)
+  - [Studio Ring官方網站](https://web.archive.org/web/20091003073033/http://www.studio-ring.co.jp/)
 
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:Visual_Art's](https://zh.wikipedia.org/wiki/Category:Visual_Art's "wikilink")
+[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:Visual_Art's](https://zh.wikipedia.org/wiki/Category:Visual_Art's "wikilink")
 
 1.

@@ -1,21 +1,16 @@
-《**LIVE AT BUDOKAN 〜RED
-NIGHT〜**》（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：ライブ
-アット ブドウカン 〜レッド
-ナイト〜）是[BABYMETAL](../Page/BABYMETAL.md "wikilink")2015年1月7日發行的[現場專輯](../Page/現場專輯.md "wikilink")。收音地點在[日本武道館](../Page/日本武道館.md "wikilink")。
+《**LIVE AT BUDOKAN 〜RED NIGHT〜**》（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：ライブ アット ブドウカン 〜レッド ナイト〜）是[BABYMETAL](../Page/BABYMETAL.md "wikilink")2015年1月7日發行的[現場專輯](../Page/現場專輯.md "wikilink")。收音地點在[日本武道館](../Page/日本武道館.md "wikilink")。
 
 ## 概況
 
-2014年3月初在[日本武道館舉行連續兩天的專場公演](../Page/日本武道館.md "wikilink")，本專輯收錄第一天「紅夜」的演出實況音源。首張同名專輯《[BABYMETAL](../Page/BABYMETAL_\(專輯\).md "wikilink")》全部13首歌曲都在表演曲目上。後製由知名製作人、[葛萊美獎母帶工程大師](https://zh.wikipedia.org/wiki/格萊美獎 "wikilink")操刀\[1\]。
+2014年3月初在[日本武道館](../Page/日本武道館.md "wikilink")舉行連續兩天的專場公演，本專輯收錄第一天「紅夜」的演出實況音源。首張同名專輯《[BABYMETAL](../Page/BABYMETAL_\(專輯\).md "wikilink")》全部13首歌曲都在表演曲目上。後製由知名製作人、[葛萊美獎母帶工程大師](https://zh.wikipedia.org/wiki/格萊美獎 "wikilink")操刀\[1\]。
 
-首批限量版附贈樂曲〈[Road of
-Resistance](../Page/Road_of_Resistance.md "wikilink")〉數位下載的MUSIC
-CARD\[2\]，共14首曲目\[3\]。
+首批限量版附贈樂曲〈[Road of Resistance](../Page/Road_of_Resistance.md "wikilink")〉數位下載的MUSIC CARD\[2\]，共14首曲目\[3\]。
 
 ## 發行
 
 2015年1月7日，在日本發行日版專輯，普通版（CD）與首批限量版（CD+數位下載MUSIC CARD）。
 
-2015年1月15日，在[加拿大發行普通版](../Page/加拿大.md "wikilink")（CD）。
+2015年1月15日，在[加拿大](../Page/加拿大.md "wikilink")發行普通版（CD）。
 
 2015年2月20日，在[愛爾蘭與](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")[澳洲發行歐版普通版](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")（CD）。
 
@@ -33,18 +28,15 @@ CARD\[2\]，共14首曲目\[3\]。
 
 **日本**
 
-在日本[公信榜發行首週](../Page/Oricon公信榜.md "wikilink")，2014年1月19日以約2萬4千張銷量登上第3名\[7\]\[8\]。打平11年前[女子十二樂坊](../Page/女子十二樂坊.md "wikilink")《奇跡》於2003年11月17日的女性歌手週榜第3名紀錄\[9\]。同一天，在[日本告示牌專輯榜獲得第](https://zh.wikipedia.org/wiki/日本告示牌 "wikilink")3名\[10\]。在[淘兒唱片專輯排行榜登上第](../Page/淘兒唱片.md "wikilink")2名\[11\]。
+在日本[公信榜發行首週](../Page/Oricon公信榜.md "wikilink")，2014年1月19日以約2萬4千張銷量登上第3名\[7\]\[8\]。打平11年前[女子十二樂坊](../Page/女子十二樂坊.md "wikilink")《奇跡》於2003年11月17日的女性歌手週榜第3名紀錄\[9\]。同一天，在[日本告示牌專輯榜獲得第](https://zh.wikipedia.org/wiki/日本告示牌 "wikilink")3名\[10\]。在[淘兒唱片](../Page/淘兒唱片.md "wikilink")專輯排行榜登上第2名\[11\]。
 
 **日本國外**
 
-在美國、英國、加拿大[iTunes
-Store獲得金屬專輯下載榜第](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")1名，在德國、台灣、澳洲iTunes
-Store的搖滾專輯下載榜獲得第10名\[12\]。
+在美國、英國、加拿大[iTunes Store獲得金屬專輯下載榜第](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")1名，在德國、台灣、澳洲iTunes Store的搖滾專輯下載榜獲得第10名\[12\]。
 
 2015年1月24日，在美國《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》的登上第21名\[13\]、在全球專輯榜登上第3名\[14\]
 
 2015年1月17日，在[英國官方排行榜公司中的獨立專輯突破榜上獲得第](https://zh.wikipedia.org/wiki/英國官方排行榜公司 "wikilink")18名\[15\]。
-
 
 <table>
 <thead>
@@ -214,8 +206,7 @@ Store的搖滾專輯下載榜獲得第10名\[12\]。
 
 ### 實體・數位發行（日版／歐版）
 
-※()括弧內為歐版名稱  ※未收錄神樂隊成員的獨奏秀「Mischiefs of metal gods -KAMI Band
-Instrumental-」。  ※首批限量版附贈樂曲〈Road of Resistance〉數位下載的MUSIC CARD。
+※()括弧內為歐版名稱  ※未收錄神樂隊成員的獨奏秀「Mischiefs of metal gods -KAMI Band Instrumental-」。  ※首批限量版附贈樂曲〈Road of Resistance〉數位下載的MUSIC CARD。
 
 ### DVD（歐版）
 
@@ -251,22 +242,13 @@ Instrumental-」。  ※首批限量版附贈樂曲〈Road of Resistance〉數�
 
 ## 外部連結
 
-  - [DISCOGRAPHY](https://web.archive.org/web/20140815150638/http://www.babymetal.jp/discography/)
-    - BABYMETAL 官方網站
-  - [DISCOGRAPHY](http://www.toysfactory.co.jp/artist/babymetal/disco) -
-    TOY'S FACTORY 官方網站
-  - [「LIVE AT BUDOKAN 〜RED NIGHT & BLACK NIGHT
-    APOCALYPSE〜」發行DEATH！！](http://www.babymetal.jp/news/0/14577/)
-    - 新聞 - BABYMETAL 官方網站
-  - [LIVE AT BUDOKAN \~RED
-    NIGHT\~的MusicBrainz音樂資料庫](https://musicbrainz.org/release/918616c4-8ec6-4d97-8db7-3b0292798612)
-  - [LIVE AT BUDOKAN \~RED
-    NIGHT\~的Discogs音樂資料庫](https://www.discogs.com/ja/release/7673469)
+  - [DISCOGRAPHY](https://web.archive.org/web/20140815150638/http://www.babymetal.jp/discography/) - BABYMETAL 官方網站
+  - [DISCOGRAPHY](http://www.toysfactory.co.jp/artist/babymetal/disco) - TOY'S FACTORY 官方網站
+  - [「LIVE AT BUDOKAN 〜RED NIGHT & BLACK NIGHT APOCALYPSE〜」發行DEATH！！](http://www.babymetal.jp/news/0/14577/) - 新聞 - BABYMETAL 官方網站
+  - [LIVE AT BUDOKAN \~RED NIGHT\~的MusicBrainz音樂資料庫](https://musicbrainz.org/release/918616c4-8ec6-4d97-8db7-3b0292798612)
+  - [LIVE AT BUDOKAN \~RED NIGHT\~的Discogs音樂資料庫](https://www.discogs.com/ja/release/7673469)
 
-[Category:TOY'S_FACTORY音樂專輯](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY音樂專輯 "wikilink")
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
-[Category:現場專輯](https://zh.wikipedia.org/wiki/Category:現場專輯 "wikilink")
-[Category:BABYMETAL](https://zh.wikipedia.org/wiki/Category:BABYMETAL "wikilink")
+[Category:TOY'S_FACTORY音樂專輯](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY音樂專輯 "wikilink") [Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:現場專輯](https://zh.wikipedia.org/wiki/Category:現場專輯 "wikilink") [Category:BABYMETAL](https://zh.wikipedia.org/wiki/Category:BABYMETAL "wikilink")
 
 1.
 

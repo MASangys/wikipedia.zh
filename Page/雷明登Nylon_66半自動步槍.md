@@ -1,31 +1,20 @@
-**雷明登Nylon
-66**（）是一枝由[美国](../Page/美国.md "wikilink")[雷明登武器公司研製及生產的](../Page/雷明登武器公司.md "wikilink")[半自动步槍](https://zh.wikipedia.org/wiki/半自动步槍 "wikilink")，發射[.22
-LR](../Page/.22_LR.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**雷明登Nylon 66**（）是一枝由[美国](../Page/美国.md "wikilink")[雷明登武器公司](../Page/雷明登武器公司.md "wikilink")研製及生產的[半自动步槍](https://zh.wikipedia.org/wiki/半自动步槍 "wikilink")，發射[.22 LR](../Page/.22_LR.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
-雷明登Nylon
-66於1959年至1989年間生產，在那時是有歷史以來第一批槍托是由木材以外的材料製造並且[大量生產的步槍](../Page/大量生產.md "wikilink")。值得注意的是在同一時間範圍以內，另一款使用木材以外的材料的槍托是具有醋酸丁酸纖維素塑料（[聚酯](../Page/聚酯.md "wikilink")[塑料](../Page/塑料.md "wikilink")）槍托的22-410史蒂文斯組合。\[1\]由於當時槍械市場普遍都缺乏合成槍托的經驗，這使得Nylon
-66是當時雷明登的一個危險的豪賭。
+雷明登Nylon 66於1959年至1989年間生產，在那時是有歷史以來第一批槍托是由木材以外的材料製造並且[大量生產](../Page/大量生產.md "wikilink")的步槍。值得注意的是在同一時間範圍以內，另一款使用木材以外的材料的槍托是具有醋酸丁酸纖維素塑料（[聚酯](../Page/聚酯.md "wikilink")[塑料](../Page/塑料.md "wikilink")）槍托的22-410史蒂文斯組合。\[1\]由於當時槍械市場普遍都缺乏合成槍托的經驗，這使得Nylon 66是當時雷明登的一個危險的豪賭。
 
 ## 歷史
 
-1950年代，雷明登武器有興趣設計一枝生產成本更低的步槍。分析以後，工程師斷定可在生產步槍的機匣和槍托中發現節省成本的方法。因此，雷明登詢問[杜邦公司的化學工程師拿出一種塑料](../Page/杜邦.md "wikilink")，可以用以取代木製的槍托和機匣。給杜邦的材料規格要求是，可以形成為所希望的任何形狀，但其也具有高張力、抗撞擊和抗彎曲的強度。\[2\]
+1950年代，雷明登武器有興趣設計一枝生產成本更低的步槍。分析以後，工程師斷定可在生產步槍的機匣和槍托中發現節省成本的方法。因此，雷明登詢問[杜邦](../Page/杜邦.md "wikilink")公司的化學工程師拿出一種塑料，可以用以取代木製的槍托和機匣。給杜邦的材料規格要求是，可以形成為所希望的任何形狀，但其也具有高張力、抗撞擊和抗彎曲的強度。\[2\]
 
 經過一番研究以後，杜邦向雷明登回應，指出他們可提供所謂的*尼龍Zytel-101型*化合物。Zytel在杜邦公司的品牌以下命名為[尼龍](https://zh.wikipedia.org/wiki/尼龍 "wikilink")。化合物最終用於生產槍托和機匣。\[3\]
 
 ## 設計和功能
 
-該步槍的結構很大程度上使用合成物料，意味著Nylon
-66可以在不注入任何潤滑劑以下操作。這使得該步槍在北極地區很流行，而且確實已經有許多原住民使用發射.22
-LR子彈的Nylon
-66射殺大型動物，例如駝鹿的報告。雖然曾被推測，該槍的重量輕便會有可能導致其在該領域的精度不合格，但是這個似乎沒有成為了Nylon
-66的使用者投訴的理由。
+該步槍的結構很大程度上使用合成物料，意味著Nylon 66可以在不注入任何潤滑劑以下操作。這使得該步槍在北極地區很流行，而且確實已經有許多原住民使用發射.22 LR子彈的Nylon 66射殺大型動物，例如駝鹿的報告。雖然曾被推測，該槍的重量輕便會有可能導致其在該領域的精度不合格，但是這個似乎沒有成為了Nylon 66的使用者投訴的理由。
 
-Nylon
-66裝有片狀[機械瞄具](../Page/機械瞄具.md "wikilink")，以及具有開槽、可以容納一個用以安裝瞄準鏡接口的機匣。該槍具有多種顏色，例如“莫霍克棕色”（Mohawk
-Brown）、“阿帕奇黑色”（Apache Black）和“塞內卡尼亞綠色”（Seneca Green）可供選用。
+Nylon 66裝有片狀[機械瞄具](../Page/機械瞄具.md "wikilink")，以及具有開槽、可以容納一個用以安裝瞄準鏡接口的機匣。該槍具有多種顏色，例如“莫霍克棕色”（Mohawk Brown）、“阿帕奇黑色”（Apache Black）和“塞內卡尼亞綠色”（Seneca Green）可供選用。
 
-77
-Apache版本具有相當亮綠色槍托，並可由凱馬特出售。塞內卡綠色為相當顏色晦暗的綠色，在某些光照條件以下的塞內卡綠色甚至很難與更普遍的棕色區分。
+77 Apache版本具有相當亮綠色槍托，並可由凱馬特出售。塞內卡綠色為相當顏色晦暗的綠色，在某些光照條件以下的塞內卡綠色甚至很難與更普遍的棕色區分。
 
 下面是一些生產數量，以真實地協助每個型號的稀有性：
 
@@ -60,15 +49,11 @@ Apache版本具有相當亮綠色槍托，並可由凱馬特出售。塞內卡�
 
 ## 外部連結
 
-  - —[Remington Model
-    History](https://web.archive.org/web/20071208191835/http://www.remington.com/library/history/firearm_models/rimfire/nylon_66.asp)
+  - —[Remington Model History](https://web.archive.org/web/20071208191835/http://www.remington.com/library/history/firearm_models/rimfire/nylon_66.asp)
 
   - —
 
-[Category:半自動步槍](https://zh.wikipedia.org/wiki/Category:半自動步槍 "wikilink")
-[Category:美國步槍](https://zh.wikipedia.org/wiki/Category:美國步槍 "wikilink")
-[Category:.22_LR口徑槍械](https://zh.wikipedia.org/wiki/Category:.22_LR口徑槍械 "wikilink")
-[Category:雷明登槍械](https://zh.wikipedia.org/wiki/Category:雷明登槍械 "wikilink")
+[Category:半自動步槍](https://zh.wikipedia.org/wiki/Category:半自動步槍 "wikilink") [Category:美國步槍](https://zh.wikipedia.org/wiki/Category:美國步槍 "wikilink") [Category:.22_LR口徑槍械](https://zh.wikipedia.org/wiki/Category:.22_LR口徑槍械 "wikilink") [Category:雷明登槍械](https://zh.wikipedia.org/wiki/Category:雷明登槍械 "wikilink")
 
 1.
 

@@ -1,4 +1,4 @@
-本列表是[ViuTVsix節目列表的子列表](../Page/ViuTVsix節目列表.md "wikilink")，列出2010年代[ViuTVsix的綜藝及資訊節目](../Page/ViuTVsix.md "wikilink")。
+本列表是[ViuTVsix節目列表](../Page/ViuTVsix節目列表.md "wikilink")的子列表，列出2010年代[ViuTVsix](../Page/ViuTVsix.md "wikilink")的綜藝及資訊節目。
 
 ## 2017年
 
@@ -1142,7 +1142,7 @@
 
 ## 預定播放節目
 
-以下列出[ViuTVsix於節目宣傳片](../Page/ViuTVsix.md "wikilink")、公佈的預定播放節目、計劃中的自製節目。
+以下列出[ViuTVsix](../Page/ViuTVsix.md "wikilink")於節目宣傳片、公佈的預定播放節目、計劃中的自製節目。
 
 <table style="width:385%;">
 <colgroup>

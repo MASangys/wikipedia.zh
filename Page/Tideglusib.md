@@ -8,8 +8,7 @@ Tideglusib正在接受多种应用的调查：
 
 <!-- end list -->
 
-  - [阿茲海默症和](../Page/阿茲海默症.md "wikilink")。截至2017年，它正在进行IIa\[3\]和IIb期[臨床試驗](../Page/臨床試驗.md "wikilink")。\[4\]\[5\]\[6\]\[7\]首个将会出版（以英文）的实验是，证明Tideglusib有良好耐受性，只有一些中度、无症状、完全可逆的肝酶（≥2.5x
-    ULN；ULN=正常上限）增加。
+  - [阿茲海默症](../Page/阿茲海默症.md "wikilink")和。截至2017年，它正在进行IIa\[3\]和IIb期[臨床試驗](../Page/臨床試驗.md "wikilink")。\[4\]\[5\]\[6\]\[7\]首个将会出版（以英文）的实验是，证明Tideglusib有良好耐受性，只有一些中度、无症状、完全可逆的肝酶（≥2.5x ULN；ULN=正常上限）增加。
 
 <!-- end list -->
 
@@ -19,13 +18,11 @@ Tideglusib正在接受多种应用的调查：
 
   - 青少年自闭症谱系障碍。
 
-此外，最近的研究表明，Tideglusib对于先天性/少年型强直型[肌营养不良症](https://zh.wikipedia.org/wiki/肌营养不良症 "wikilink")1型是一项有希望的治疗方法，二期临床试验接近完成（由AMO
-Pharmaceuticals赞助）。\[11\]
+此外，最近的研究表明，Tideglusib对于先天性/少年型强直型[肌营养不良症](https://zh.wikipedia.org/wiki/肌营养不良症 "wikilink")1型是一项有希望的治疗方法，二期临床试验接近完成（由AMO Pharmaceuticals赞助）。\[11\]
 
 ## 参考资料
 
-[Category:萘的衍生物](https://zh.wikipedia.org/wiki/Category:萘的衍生物 "wikilink")
-[Category:噻二唑](https://zh.wikipedia.org/wiki/Category:噻二唑 "wikilink")
+[Category:萘的衍生物](https://zh.wikipedia.org/wiki/Category:萘的衍生物 "wikilink") [Category:噻二唑](https://zh.wikipedia.org/wiki/Category:噻二唑 "wikilink")
 
 1.
 2.

@@ -50,37 +50,27 @@
 </tbody>
 </table>
 
-此站設有兩個[側式月台和四條軌道](../Page/側式月台.md "wikilink")\[1\]。兩條未使用的中央快車軌道北端位於下層，慢車軌道之下。兩條軌道在南端升至同一水平。離站後，四條軌道上升至[IND唯一的高架路段](../Page/獨立地鐵系統.md "wikilink")。其升至上方，前往[史密斯-第九街](https://zh.wikipedia.org/wiki/史密斯-第九街車站_\(IND卡爾弗線\) "wikilink")。
+此站設有兩個[側式月台](../Page/側式月台.md "wikilink")和四條軌道\[1\]。兩條未使用的中央快車軌道北端位於下層，慢車軌道之下。兩條軌道在南端升至同一水平。離站後，四條軌道上升至[IND唯一的高架路段](../Page/獨立地鐵系統.md "wikilink")。其升至上方，前往[史密斯-第九街](https://zh.wikipedia.org/wiki/史密斯-第九街車站_\(IND卡爾弗線\) "wikilink")。
 
 ## 參考資料
 
 ## 外部連結
 
   -
-  - Station Reporter — [F
-    Train](https://web.archive.org/web/20120204051254/http://www.stationreporter.net/ftrain.htm)
+  - Station Reporter — [F Train](https://web.archive.org/web/20120204051254/http://www.stationreporter.net/ftrain.htm)
 
-  - Station Reporter — [G
-    Train](https://web.archive.org/web/20120204051246/http://www.stationreporter.net/gtrain.htm)
+  - Station Reporter — [G Train](https://web.archive.org/web/20120204051246/http://www.stationreporter.net/gtrain.htm)
 
-  - The Subway Nut — [Carroll Street
-    Pictures](http://www.subwaynut.com/ind/carrollf/index.php)
+  - The Subway Nut — [Carroll Street Pictures](http://www.subwaynut.com/ind/carrollf/index.php)
 
-  - [President Street entrance from Google Maps Street
-    View](https://maps.google.com/?ie=UTF8&ll=40.680793,-73.993821&spn=0,0.013765&z=17&layer=c&cbll=40.680919,-73.994401&panoid=zenhb1_h6rbUP--Fbh9Sug&cbp=12,63.43,,0,4.93)
+  - [President Street entrance from Google Maps Street View](https://maps.google.com/?ie=UTF8&ll=40.680793,-73.993821&spn=0,0.013765&z=17&layer=c&cbll=40.680919,-73.994401&panoid=zenhb1_h6rbUP--Fbh9Sug&cbp=12,63.43,,0,4.93)
 
-  - [Second Street entrance from Google Maps Street
-    View](https://maps.google.com/?ie=UTF8&ll=40.679043,-73.995688&spn=0,0.013765&z=17&layer=c&cbll=40.679482,-73.995373&panoid=kHF5oLHG8xj2DeDiM1FgCA&cbp=12,139.61,,0,4.16)
+  - [Second Street entrance from Google Maps Street View](https://maps.google.com/?ie=UTF8&ll=40.679043,-73.995688&spn=0,0.013765&z=17&layer=c&cbll=40.679482,-73.995373&panoid=kHF5oLHG8xj2DeDiM1FgCA&cbp=12,139.61,,0,4.16)
 
-  - [Second Place entrance from Google Maps Street
-    View](https://maps.google.com/?ll=40.679084,-73.995817&spn=0.002661,0.009645&layer=c&cbll=40.679086,-73.995816&panoid=iCSvdzkW65wtliVY4rFudA&cbp=12,18.13,,1,1.01&t=m&z=17)
+  - [Second Place entrance from Google Maps Street View](https://maps.google.com/?ll=40.679084,-73.995817&spn=0.002661,0.009645&layer=c&cbll=40.679086,-73.995816&panoid=iCSvdzkW65wtliVY4rFudA&cbp=12,18.13,,1,1.01&t=m&z=17)
 
-  - [Platforms from Google Maps Street
-    View](https://www.google.com/maps/@40.6796646,-73.9954453,3a,75y,75.98h,89.41t/data=!3m7!1e1!3m5!1s-FlGRtbC_Hz4%2FWGNF3QBhPGI%2FAAAAAAAAWWs%2FWyR8NdtRzgwo-SkY-hkV74AFJoyHxXs6ACLIB!2e4!6s%2F%2Flh6.googleusercontent.com%2F-FlGRtbC_Hz4%2FWGNF3QBhPGI%2FAAAAAAAAWWs%2FWyR8NdtRzgwo-SkY-hkV74AFJoyHxXs6ACLIB%2Fw203-h100-p-k-no%2F!7i8000!8i4000!4m3!8m2!3m1!1e1)
+  - [Platforms from Google Maps Street View](https://www.google.com/maps/@40.6796646,-73.9954453,3a,75y,75.98h,89.41t/data=!3m7!1e1!3m5!1s-FlGRtbC_Hz4%2FWGNF3QBhPGI%2FAAAAAAAAWWs%2FWyR8NdtRzgwo-SkY-hkV74AFJoyHxXs6ACLIB!2e4!6s%2F%2Flh6.googleusercontent.com%2F-FlGRtbC_Hz4%2FWGNF3QBhPGI%2FAAAAAAAAWWs%2FWyR8NdtRzgwo-SkY-hkV74AFJoyHxXs6ACLIB%2Fw203-h100-p-k-no%2F!7i8000!8i4000!4m3!8m2!3m1!1e1)
 
-[Category:IND卡爾弗線車站](https://zh.wikipedia.org/wiki/Category:IND卡爾弗線車站 "wikilink")
-[Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink")
-[Category:1933年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1933年啟用的鐵路車站 "wikilink")
-[Category:1933年紐約州建立](https://zh.wikipedia.org/wiki/Category:1933年紐約州建立 "wikilink")
+[Category:IND卡爾弗線車站](https://zh.wikipedia.org/wiki/Category:IND卡爾弗線車站 "wikilink") [Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink") [Category:1933年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1933年啟用的鐵路車站 "wikilink") [Category:1933年紐約州建立](https://zh.wikipedia.org/wiki/Category:1933年紐約州建立 "wikilink")
 
 1.

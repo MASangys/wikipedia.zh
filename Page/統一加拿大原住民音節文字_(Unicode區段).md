@@ -1,4 +1,4 @@
-**統一加拿大原住民音節文字Unicode區段**是一個包含了[加拿大原住民音節文字的](../Page/加拿大原住民音節文字.md "wikilink")[Unicode區段](../Page/Unicode區段.md "wikilink")，這種文字可以被拿來書寫[伊努克提圖特語](../Page/伊努克提圖特語.md "wikilink")、、數種[克里語方言](https://zh.wikipedia.org/wiki/克里語 "wikilink")，以及[阿薩巴斯卡語支的語言](https://zh.wikipedia.org/wiki/德內語支 "wikilink")。在此區段中還可以找到一些克里語方言、[奧傑布瓦語和](https://zh.wikipedia.org/wiki/奧傑布瓦語 "wikilink")[甸尼語的補充內容](../Page/甸尼人.md "wikilink")。
+**統一加拿大原住民音節文字Unicode區段**是一個包含了[加拿大原住民音節文字](../Page/加拿大原住民音節文字.md "wikilink")的[Unicode區段](../Page/Unicode區段.md "wikilink")，這種文字可以被拿來書寫[伊努克提圖特語](../Page/伊努克提圖特語.md "wikilink")、、數種[克里語方言](https://zh.wikipedia.org/wiki/克里語 "wikilink")，以及[阿薩巴斯卡語支的語言](https://zh.wikipedia.org/wiki/德內語支 "wikilink")。在此區段中還可以找到一些克里語方言、[奧傑布瓦語和](https://zh.wikipedia.org/wiki/奧傑布瓦語 "wikilink")[甸尼語的補充內容](../Page/甸尼人.md "wikilink")。
 
 ## 區段
 
@@ -144,5 +144,4 @@
 
 ## 參見
 
-[Category:Unicode區段](https://zh.wikipedia.org/wiki/Category:Unicode區段 "wikilink")
-[Category:加拿大原住民音節文字](https://zh.wikipedia.org/wiki/Category:加拿大原住民音節文字 "wikilink")
+[Category:Unicode區段](https://zh.wikipedia.org/wiki/Category:Unicode區段 "wikilink") [Category:加拿大原住民音節文字](https://zh.wikipedia.org/wiki/Category:加拿大原住民音節文字 "wikilink")

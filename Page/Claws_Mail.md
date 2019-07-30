@@ -1,16 +1,10 @@
-**Claws Mail**
-是一款[免费](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[开源软件](../Page/开源软件.md "wikilink")，基于[GTK+语言编写的](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[电子邮件客户端和](https://zh.wikipedia.org/wiki/电子邮件客户端 "wikilink")[新闻聚合器](https://zh.wikipedia.org/wiki/新闻聚合器 "wikilink")。它提供了简单的配置和丰富的功能。它也可以通过插件支持及的邮件格式。
-Claws
-Mail支持的系统包括[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink")、[Linux](../Page/Linux.md "wikilink")、[BSD](../Page/BSD.md "wikilink")、[Solaris和](../Page/Solaris.md "wikilink")[Mac
-OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
+**Claws Mail** 是一款[免费](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[开源软件](../Page/开源软件.md "wikilink")，基于[GTK+语言编写的](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[电子邮件客户端和](https://zh.wikipedia.org/wiki/电子邮件客户端 "wikilink")[新闻聚合器](https://zh.wikipedia.org/wiki/新闻聚合器 "wikilink")。它提供了简单的配置和丰富的功能。它也可以通过插件支持及的邮件格式。 Claws Mail支持的系统包括[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink")、[Linux](../Page/Linux.md "wikilink")、[BSD](../Page/BSD.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")和[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
 
-它包含[Windows的一款加密组件](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Gpg4win](../Page/Gpg4win.md "wikilink")
-。\[1\]
+它包含[Windows的一款加密组件](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Gpg4win](../Page/Gpg4win.md "wikilink") 。\[1\]
 
 ## 历史
 
-软件原名Sylpheed
-Claws，开发于2001年4月，2005年8月与[Sylpheed分离成为独立程序](../Page/Sylpheed.md "wikilink")。
+软件原名Sylpheed Claws，开发于2001年4月，2005年8月与[Sylpheed](../Page/Sylpheed.md "wikilink")分离成为独立程序。
 
 ## 功能
 
@@ -44,9 +38,9 @@ Claws Mail亦支持扩展插件，\[3\] 像是：
 
   - 各种 通知插件
 
-  - [Perl过滤](../Page/Perl.md "wikilink")
+  - [Perl](../Page/Perl.md "wikilink")过滤
 
-  - [Python脚本](../Page/Python.md "wikilink")
+  - [Python](../Page/Python.md "wikilink")脚本
 
   - 日历
 
@@ -64,15 +58,8 @@ Claws Mail亦支持扩展插件，\[3\] 像是：
 ## 外部链接
 
   -
-[Category:GNOME应用](https://zh.wikipedia.org/wiki/Category:GNOME应用 "wikilink")
-[Category:GTK+编写的电子邮件客户端](https://zh.wikipedia.org/wiki/Category:GTK+编写的电子邮件客户端 "wikilink")
-[Category:自由邮件客户端](https://zh.wikipedia.org/wiki/Category:自由邮件客户端 "wikilink")
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:用C编程的自由软件](https://zh.wikipedia.org/wiki/Category:用C编程的自由软件 "wikilink")
+[Category:GNOME应用](https://zh.wikipedia.org/wiki/Category:GNOME应用 "wikilink") [Category:GTK+编写的电子邮件客户端](https://zh.wikipedia.org/wiki/Category:GTK+编写的电子邮件客户端 "wikilink") [Category:自由邮件客户端](https://zh.wikipedia.org/wiki/Category:自由邮件客户端 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:用C编程的自由软件](https://zh.wikipedia.org/wiki/Category:用C编程的自由软件 "wikilink")
 
-1.  ["Gpg4win - Download Gpg4win"](http://gpg4win.org/download.html),
-    The Gpg4win Initiative.
-2.  [Features pages](http://www.claws-mail.org/features.php) on
-    claws-mail.org
-3.  [Plugins page](http://www.claws-mail.org/plugins.php) on
-    claws-mail.org
+1.  ["Gpg4win - Download Gpg4win"](http://gpg4win.org/download.html), The Gpg4win Initiative.
+2.  [Features pages](http://www.claws-mail.org/features.php) on claws-mail.org
+3.  [Plugins page](http://www.claws-mail.org/plugins.php) on claws-mail.org

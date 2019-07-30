@@ -4,8 +4,7 @@
 
 十歲的仁乃最愛做的事情就是天天與青梅竹馬桃君一起放聲歌唱，原本以為能一直一直這樣唱下去誰知道桃君卻突然搬家了。自那以後仁乃就一直帶著口罩以此來抑制自己隨時想要吶喊的衝動也不再唱歌了。某一天，在那個海邊，仁乃遇到睫毛長長愛喝牛奶的矮個子作曲家柚子，自桃君離開后仁乃第一次唱出了歌。大一歲的柚子愛上了仁乃的聲音約定每個星期三在這海邊見面並且給仁乃取了小名「愛麗絲」，但柚子卻又在某一天突然消失了。六年後仁乃帶著對桃君和柚子的思念進入了高中，而在社團會上與在輕音部的柚子重逢，卻不知桃君也在同一所學校入學。仁乃記起桃君在煙火大會時對她說「唱吧，大聲唱，我會把你的聲音標記起來，我會用這個標記找到你。」，從而鼓起了勇氣替代了輕音部突然消失的主唱，桃君認出了仁乃的聲音卻沒有選擇與她見面。六年中，桃君帶著對仁乃的思念做了許多首歌曲，但卻因為父母欠的債而不得不賣掉為仁乃寫的歌。巧合中，桃君與同是作曲的柚子成了朋友。
 
-柚子在未和仁乃重逢前組織了一個樂隊「iNoHurry」（iNo
-發音與仁乃相同），並且當任主唱用名「愛麗絲」。仁乃接替柚子當上了真正的「愛麗絲」並且同時得知桃君再以音樂人的身份選拔新樂隊成員，從而決定去面試見桃君，桃君得知后還是不想見仁乃。而柚子在和仁乃重逢后音樂靈感源源不斷，樂隊也風生水起得到好評。柚子也越來越認識到自己從六年前就開始喜歡仁乃了，但是基於仁乃對桃君的感情遲遲沒有表白。柚子與桃君都想要霸佔仁乃的聲音，因此雙方用音樂在較量著。而仁乃也想唱的更好，想要讓桃君聽到她的思念而努力練習著。但是桃君卻在最後因為母親對仁乃的威脅而選擇了離開，同時柚子也意識到自己贏不了桃君在仁乃心中的份量。
+柚子在未和仁乃重逢前組織了一個樂隊「iNoHurry」（iNo 發音與仁乃相同），並且當任主唱用名「愛麗絲」。仁乃接替柚子當上了真正的「愛麗絲」並且同時得知桃君再以音樂人的身份選拔新樂隊成員，從而決定去面試見桃君，桃君得知后還是不想見仁乃。而柚子在和仁乃重逢后音樂靈感源源不斷，樂隊也風生水起得到好評。柚子也越來越認識到自己從六年前就開始喜歡仁乃了，但是基於仁乃對桃君的感情遲遲沒有表白。柚子與桃君都想要霸佔仁乃的聲音，因此雙方用音樂在較量著。而仁乃也想唱的更好，想要讓桃君聽到她的思念而努力練習著。但是桃君卻在最後因為母親對仁乃的威脅而選擇了離開，同時柚子也意識到自己贏不了桃君在仁乃心中的份量。
 
 ## 登场人物
 
@@ -39,8 +38,7 @@
 <!-- end list -->
 
   -
-    暱稱「深櫻」，輕音樂社社員，性格爽快大方，爱憎分明。曾将仁乃看做情敌。希望仁乃加入in NO hurry to shout
-    代替自己成为主唱。身為高中生以優秀的歌唱力自豪，也受到仁乃的尊敬。后与仁乃成为挚友。因苦恋柚无果，想放弃；但在仁乃的鼓励下决定坚持。現喜歡悠佳。
+    暱稱「深櫻」，輕音樂社社員，性格爽快大方，爱憎分明。曾将仁乃看做情敌。希望仁乃加入in NO hurry to shout 代替自己成为主唱。身為高中生以優秀的歌唱力自豪，也受到仁乃的尊敬。后与仁乃成为挚友。因苦恋柚无果，想放弃；但在仁乃的鼓励下决定坚持。現喜歡悠佳。
 
 <!-- end list -->
 
@@ -204,8 +202,7 @@
 
 :; 「 \[ANIME SIDE\] -Bootleg-」
 
-::
-作詞：[三重野瞳](../Page/三重野瞳.md "wikilink")、福山遼子，主唱：深櫻（[高垣彩陽](../Page/高垣彩陽.md "wikilink")）
+:: 作詞：[三重野瞳](../Page/三重野瞳.md "wikilink")、福山遼子，主唱：深櫻（[高垣彩陽](../Page/高垣彩陽.md "wikilink")）
 
 :; 「 \[ANIME SIDE\] -Alternative-」
 
@@ -431,20 +428,9 @@
   - [電視《覆面系NOISE》BS富士電視台動畫介紹專頁](http://www.bsfuji.tv/fukumenkei/pub/index.html)
   - [電視《覆面系NOISE》關西電視台動畫介紹專頁](http://www.ktv.jp/fukumenkei/)
   - [電視《覆面系NOISE》東京都會電視台動畫介紹專頁](http://s.mxtv.jp/anime/fukumenkei/)
-  - [電視《覆面系NOISE》巴哈姆特動畫瘋
-    動畫正版直播專題](https://ani.gamer.com.tw/animeVideo.php?sn=7598)
+  - [電視《覆面系NOISE》巴哈姆特動畫瘋 動畫正版直播專題](https://ani.gamer.com.tw/animeVideo.php?sn=7598)
 
-[Category:花與夢](https://zh.wikipedia.org/wiki/Category:花與夢 "wikilink")
-[Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink")
-[Category:音樂漫畫](https://zh.wikipedia.org/wiki/Category:音樂漫畫 "wikilink")
-[Category:搖滾樂題材作品](https://zh.wikipedia.org/wiki/Category:搖滾樂題材作品 "wikilink")
-[Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink")
-[Category:日本漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編真人電影 "wikilink")
-[Category:音樂及音樂家題材電影](https://zh.wikipedia.org/wiki/Category:音樂及音樂家題材電影 "wikilink")
-[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink")
-[Category:音樂動畫](https://zh.wikipedia.org/wiki/Category:音樂動畫 "wikilink")
-[Category:松竹電影](https://zh.wikipedia.org/wiki/Category:松竹電影 "wikilink")
-[Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink")
+[Category:花與夢](https://zh.wikipedia.org/wiki/Category:花與夢 "wikilink") [Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink") [Category:音樂漫畫](https://zh.wikipedia.org/wiki/Category:音樂漫畫 "wikilink") [Category:搖滾樂題材作品](https://zh.wikipedia.org/wiki/Category:搖滾樂題材作品 "wikilink") [Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink") [Category:日本漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編真人電影 "wikilink") [Category:音樂及音樂家題材電影](https://zh.wikipedia.org/wiki/Category:音樂及音樂家題材電影 "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:音樂動畫](https://zh.wikipedia.org/wiki/Category:音樂動畫 "wikilink") [Category:松竹電影](https://zh.wikipedia.org/wiki/Category:松竹電影 "wikilink") [Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink")
 
 1.
 

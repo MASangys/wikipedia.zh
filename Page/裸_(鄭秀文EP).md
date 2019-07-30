@@ -1,4 +1,4 @@
-《**裸**》是[鄭秀文的第](../Page/鄭秀文.md "wikilink")38張個人專輯，亦是其首張國語迷你專輯。此國語迷你專輯原定於2016年11月發行，但因鄭的健康問題，此國語迷你專輯延遲至2017年2月發行\[1\]\[2\]\[3\]。
+《**裸**》是[鄭秀文](../Page/鄭秀文.md "wikilink")的第38張個人專輯，亦是其首張國語迷你專輯。此國語迷你專輯原定於2016年11月發行，但因鄭的健康問題，此國語迷你專輯延遲至2017年2月發行\[1\]\[2\]\[3\]。
 
 ## 曲目
 
@@ -17,10 +17,7 @@
 
 ## 参考
 
-[Category:鄭秀文音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭秀文音樂專輯 "wikilink")
-[Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
+[Category:鄭秀文音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭秀文音樂專輯 "wikilink") [Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
 
 1.
 2.

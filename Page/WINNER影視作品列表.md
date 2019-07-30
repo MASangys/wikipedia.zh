@@ -1,4 +1,4 @@
-《**WINNER影視作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[WINNER歷年參與之各類電視節目](../Page/WINNER.md "wikilink")、固定節目、電台、電視劇及音樂錄影帶演出。
+《**WINNER影視作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[WINNER](../Page/WINNER.md "wikilink")歷年參與之各類電視節目、固定節目、電台、電視劇及音樂錄影帶演出。
 
 ## 電視劇
 
@@ -27,7 +27,7 @@
 | 2013年8月23日—2013年10月25日 | Mnet            | 《[WIN : WHO IS NEXT](../Page/WIN.md "wikilink")》                                 | 11集 |
 | 2013年12月13日—2014年2月14日 | 《WINNER TV》     | 10集                                                                              |     |
 | 2016年4月23日—2016年7月16日  | JTBC            | 《[半月朋友](../Page/半月朋友.md "wikilink")》                                             | 12集 |
-| 2017年11月7日—2017年11月28日 | tvN             | 《[新西遊記外傳](../Page/新西遊記.md "wikilink")－[花樣青春WINNER篇](../Page/花樣青春.md "wikilink")》 | 4集  |
+| 2017年11月7日—2017年11月28日 | tvN             | 《[新西遊記](../Page/新西遊記.md "wikilink")外傳－[花樣青春](../Page/花樣青春.md "wikilink")WINNER篇》 | 4集  |
 | 2019年1月29日—2019年2月21日  | olleh TV mobile | 《WINNER VACATION－Hoony Tour》                                                     | 8集  |
 |                        |                 |                                                                                  |     |
 
@@ -42,7 +42,7 @@
 | 2017年4月11日、18日        | AZ TALK Melon Radio | WINNER WONDERLAND S.2                                        |                     |
 | 2017年4月27－30日         | KBS Cool FM         | 朴芝潤的歌謠廣場                                                     | 姜昇潤（Special DJ）     |
 | 2017年6月28日、29日        | MBC FM4U            | Mithra的夜間營業                                                  | 宋旻浩（Special DJ）     |
-| 2017年12月7日            | KBS Cool FM         | [李洪基的Kiss](../Page/李洪基.md "wikilink") The Radio              | 李昇勳、姜昇潤（Special DJ） |
+| 2017年12月7日            | KBS Cool FM         | [李洪基](../Page/李洪基.md "wikilink")的Kiss The Radio              | 李昇勳、姜昇潤（Special DJ） |
 | 2018年4月17日、4月24日、5月1日 | AZ TALK Melon Radio | WINNER WONDERLAND S.3                                        | WINNER              |
 | 2018年4月23日－27日        | KBS Cool FM         | Kiss The Radio                                               | 李昇勳、姜昇潤（Special DJ） |
 | 2018年10月29日－11月4日     | SBS Power FM        | Young Street                                                 | 姜昇潤（Special DJ）     |
@@ -176,7 +176,7 @@
 |                    |
 | 播出日期               |
 | 2019年5月31日－2019年月日 |
-|                    |
+| 2019年7月11日－2019年月日 |
 
 ## 綜藝節目
 
@@ -303,7 +303,9 @@
 | 6月18日       |
 | 6月23日、30日   |
 | 7月7日        |
-| JTBC        |
+| 7月10日、7月17日 |
+| 7月14日       |
+| 7月20日、7月27日 |
 |             |
 
 ## 音樂錄影帶

@@ -4,8 +4,7 @@
 
 2017年3月9日，TapTap“争议游戏区”上线。\[2\]
 
-2017年4月17日，TapTap 成立1周年。这一年中，TapTap
-的用户数量累计超过2000万，日活超过100万，平均日活保持在80万左右。这一年，有2万余个游戏厂商及开发者入驻TapTap，在平台上发布游戏。\[3\]
+2017年4月17日，TapTap 成立1周年。这一年中，TapTap 的用户数量累计超过2000万，日活超过100万，平均日活保持在80万左右。这一年，有2万余个游戏厂商及开发者入驻TapTap，在平台上发布游戏。\[3\]
 
 2017年5月25日，在业内游戏人士汇聚的游久公开课上，TapTap海外商务总监崔伟公开演讲称TapTap日活超110万，月活跃超600万，总用户超过2200万。\[4\]
 
@@ -15,7 +14,7 @@
 
 [中宣部](../Page/中共中央宣传部.md "wikilink")、[中央网信办](https://zh.wikipedia.org/wiki/中央网信办 "wikilink")、[教育部](../Page/中华人民共和国教育部.md "wikilink")、[公安部](../Page/中华人民共和国公安部.md "wikilink")、[文化部等部门近日联合印发](../Page/中华人民共和国文化部.md "wikilink")《关于严格规范网络游戏市场管理的意见》按照意见统一部署，有关部门在全国范围内开展严格规范网络游戏市场管理专项行动。
 
-2018年2月28日，公安部、文化部、全国“扫黄打非”办公布了“[易玩（上海）网络科技有限公司非法出版案](../Page/TapTap_\(游戏社区\).md "wikilink")”的具体案情。认定其有大量“非法出版活动”，设计数量极大，要求其“停业整顿3个月”，并处以约32万元的罚款。\[7\]
+2018年2月28日，公安部、文化部、全国“扫黄打非”办公布了“[易玩（上海）网络科技有限公司非法出版案](../Page/TapTap_\(游戏社区\).md "wikilink")”的具体案情。认定其有大量“非法出版活动”，涉及数量极大，要求其“停业整顿3个月”，并处以约32万元的罚款。\[7\]
 
 随后，TapTap官方在论坛中发出公告称，“接相关部门通知，TapTap因违反相关部门规定，在中国地区提供未经审核批准的境外游戏下载，从即日起接受处罚，进行全面整改，停止网络游戏运营活动三个月，今后TapTap将加大自查自纠力度，严格遵守相关法律法规，望玩家谅解”。\[8\]
 
@@ -34,10 +33,7 @@
 ## 外部連結
 
   -
-[Category:2016年成立的公司](https://zh.wikipedia.org/wiki/Category:2016年成立的公司 "wikilink")
-[Category:互联网公司](https://zh.wikipedia.org/wiki/Category:互联网公司 "wikilink")
-[Category:手机游戏公司](https://zh.wikipedia.org/wiki/Category:手机游戏公司 "wikilink")
-[Category:中国大陆电子游戏公司](https://zh.wikipedia.org/wiki/Category:中国大陆电子游戏公司 "wikilink")
+[Category:2016年成立的公司](https://zh.wikipedia.org/wiki/Category:2016年成立的公司 "wikilink") [Category:互联网公司](https://zh.wikipedia.org/wiki/Category:互联网公司 "wikilink") [Category:手机游戏公司](https://zh.wikipedia.org/wiki/Category:手机游戏公司 "wikilink") [Category:中国大陆电子游戏公司](https://zh.wikipedia.org/wiki/Category:中国大陆电子游戏公司 "wikilink")
 
 1.
 2.

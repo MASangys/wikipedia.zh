@@ -1,10 +1,8 @@
-『**PIKA☆NCHI 生活艱難但是快樂**』（ピカ☆ンチ LIFE IS
-HARDだけどHAPPY）為2002年10月18日上映的[日本電影](https://zh.wikipedia.org/wiki/日本電影 "wikilink")\[1\]，日本組合[嵐全員初登大銀幕之作](../Page/嵐.md "wikilink")，本作是「PIKA☆NCHI」系列的第一集\[2\]。
+『**PIKA☆NCHI 生活艱難但是快樂**』（ピカ☆ンチ LIFE IS HARDだけどHAPPY）為2002年10月18日上映的[日本電影](https://zh.wikipedia.org/wiki/日本電影 "wikilink")\[1\]，日本組合[嵐](../Page/嵐.md "wikilink")全員初登大銀幕之作，本作是「PIKA☆NCHI」系列的第一集\[2\]。
 
 故事圍繞[東京八鹽社區](https://zh.wikipedia.org/wiki/東京 "wikilink")，五個高中生的戀愛、家庭及學校的生活，以[V6成員](../Page/V6_\(偶像團體\).md "wikilink")[井之原快彦的少年往事作藍本](https://zh.wikipedia.org/wiki/井之原快彦 "wikilink")。
 
-續集《[PIKA☆☆NCHI
-生活艱難所以快樂](https://zh.wikipedia.org/wiki/PIKA☆☆NCHI_生活艱難所以快樂 "wikilink")》於3年後上映。
+續集《[PIKA☆☆NCHI 生活艱難所以快樂](https://zh.wikipedia.org/wiki/PIKA☆☆NCHI_生活艱難所以快樂 "wikilink")》於3年後上映。
 
 ## 演員
 
@@ -23,24 +21,20 @@ HARDだけどHAPPY）為2002年10月18日上映的[日本電影](https://zh.wiki
   - 岡野勝幸 - [山崎一](https://zh.wikipedia.org/wiki/山崎一 "wikilink")
     岡野瞬的父親，職業為DJ。
   - 橘みく - [伴杏里](https://zh.wikipedia.org/wiki/伴杏里 "wikilink")
-    岡野瞬的女友。組合[猿岩石的狂熱粉絲](../Page/猿岩石.md "wikilink")。
+    岡野瞬的女友。組合[猿岩石](../Page/猿岩石.md "wikilink")的狂熱粉絲。
   - 高野君江：[秋山菜津子](https://zh.wikipedia.org/wiki/秋山菜津子 "wikilink")
     優香的母親，與春彦發展出一段不倫之戀。
 
 ## 歌曲
 
-  - 主題曲：
-    嵐「[PIKA☆NCHI](https://zh.wikipedia.org/wiki/PIKA☆NCHI "wikilink")」
+  - 主題曲： 嵐「[PIKA☆NCHI](https://zh.wikipedia.org/wiki/PIKA☆NCHI "wikilink")」
   - 插曲：嵐「[道](https://zh.wikipedia.org/wiki/PIKA☆NCHI "wikilink")」
 
 ## 參考來源
 
 <references/>
 
-[Category:嵐](https://zh.wikipedia.org/wiki/Category:嵐 "wikilink")
-[Category:2002年電影](https://zh.wikipedia.org/wiki/Category:2002年電影 "wikilink")
-[Category:日本電影](https://zh.wikipedia.org/wiki/Category:日本電影 "wikilink")
+[Category:嵐](https://zh.wikipedia.org/wiki/Category:嵐 "wikilink") [Category:2002年電影](https://zh.wikipedia.org/wiki/Category:2002年電影 "wikilink") [Category:日本電影](https://zh.wikipedia.org/wiki/Category:日本電影 "wikilink")
 
-1.  [Movie Walker:ピカ☆ンチ LIFE IS
-    HARDだけどHAPPY](https://movie.walkerplus.com/mv33542/)
+1.  [Movie Walker:ピカ☆ンチ LIFE IS HARDだけどHAPPY](https://movie.walkerplus.com/mv33542/)
 2.  [被生活磨去锐气的人，都该看看这部电影](http://www.sohu.com/a/159629723_772209)

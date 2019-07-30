@@ -1,5 +1,4 @@
-**SHINee World V**
-為[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee的第五次巡回演唱會](../Page/SHINee.md "wikilink")、第二次世界巡迴演唱會，本次巡回演唱会由2016年9月2日的[首爾場揭開序幕](../Page/首爾.md "wikilink")。\[1\]
+**SHINee World V** 為[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")的第五次巡回演唱會、第二次世界巡迴演唱會，本次巡回演唱会由2016年9月2日的[首爾](../Page/首爾.md "wikilink")場揭開序幕。\[1\]
 
 ## 歷史
 
@@ -9,14 +8,11 @@
 
 ### 北美洲
 
-2017年3月，SHINee
-分別於加拿大及美國共四個城市舉行單獨公演，這次亦是他們第一次踏上北美土地進行獨立演唱會，在此以前他們只有在亞洲及南美洲舉辨過個唱。\[2\]\[3\]
+2017年3月，SHINee 分別於加拿大及美國共四個城市舉行單獨公演，這次亦是他們第一次踏上北美土地進行獨立演唱會，在此以前他們只有在亞洲及南美洲舉辨過個唱。\[2\]\[3\]
 
 ### 香港
 
-事隔近五年，繼[SHINee WORLD II後](../Page/SHINee_WORLD_II.md "wikilink")，SHINee
-於2017年5月20再次於香港舉行個唱，地點同樣選在[亞洲博覽館](https://zh.wikipedia.org/wiki/亞洲博覽館 "wikilink")。\[4\]
-演唱晚晚臨近5月25日SHINee 出道紀念日，在場歌迷更為SHINee 獻唱生日歌作特別應援活動。\[5\]
+事隔近五年，繼[SHINee WORLD II後](../Page/SHINee_WORLD_II.md "wikilink")，SHINee 於2017年5月20再次於香港舉行個唱，地點同樣選在[亞洲博覽館](https://zh.wikipedia.org/wiki/亞洲博覽館 "wikilink")。\[4\] 演唱晚晚臨近5月25日SHINee 出道紀念日，在場歌迷更為SHINee 獻唱生日歌作特別應援活動。\[5\]
 
 ### 泰國
 
@@ -50,8 +46,7 @@
 
   - [SHINee– Official Website](http://shinee.smtown.com)
 
-[Category:SHINee](https://zh.wikipedia.org/wiki/Category:SHINee "wikilink")
-[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
+[Category:SHINee](https://zh.wikipedia.org/wiki/Category:SHINee "wikilink") [Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
 
 1.
 2.

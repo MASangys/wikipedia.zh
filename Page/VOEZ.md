@@ -1,6 +1,6 @@
 《**VOEZ**》是由[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[雷亞遊戲](../Page/雷亞遊戲.md "wikilink")（Rayark）开发的一款[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")。為一款落下式音樂遊戲，遊玩過程中須全程連網（除了Switch版）。
 
-以炫麗的軌道變換為主打，相較於[Deemo中無軌道的表現形式](../Page/Deemo.md "wikilink")，《VOEZ》將軌道的存在發揮至極限\[1\]，隨著音樂進行，軌道會產生「出現、消失、移動、閃動、擴大、縮小」等變化。
+以炫麗的軌道變換為主打，相較於[Deemo](../Page/Deemo.md "wikilink")中無軌道的表現形式，《VOEZ》將軌道的存在發揮至極限\[1\]，隨著音樂進行，軌道會產生「出現、消失、移動、閃動、擴大、縮小」等變化。
 
 ## 遊戲系統
 
@@ -32,7 +32,7 @@
 
 ### 判定
 
-由於**VOEZ**是注重玩家間互動，擁有排行榜制度的音樂遊戲，因此在判定上較[Cytus及](https://zh.wikipedia.org/wiki/Cytus "wikilink")[Deemo嚴格](../Page/Deemo.md "wikilink")。
+由於**VOEZ**是注重玩家間互動，擁有排行榜制度的音樂遊戲，因此在判定上較[Cytus及](https://zh.wikipedia.org/wiki/Cytus "wikilink")[Deemo](../Page/Deemo.md "wikilink")嚴格。
 
 在擊中音符的評比中，有「Max Perfect」、「Perfect」、「OK」及「Miss」四種級別。
 
@@ -66,23 +66,15 @@
 
 ### 任天堂Switch
 
-雷亚游戏宣布《VOEZ》即将于3月3日随任天堂Switch同步推出下载版。将采用数位下载买断模式销售，以低于行动装置版歌曲DLC总价一半的价格提供所有乐曲，无须连线
-即可游玩。内建繁体中文，英文，日文与韩文4种语言。日本地区价格2500日圆（含税），欧洲地区价格21欧元，美国预定于3月9日推出，价格25美元。Switch版还会收录专属独占歌曲，3月3日首版版本将率先推出由知名作曲家Xi所创作的“Ascension
-to Heaven”。日后的更新还会陆续追加不同作曲家的独占歌曲。《VOEZ》Switch版既支援觸碰操作也支援 TV 模式。\[6\]
+雷亚游戏宣布《VOEZ》即将于3月3日随任天堂Switch同步推出下载版。将采用数位下载买断模式销售，以低于行动装置版歌曲DLC总价一半的价格提供所有乐曲，无须连线 即可游玩。内建繁体中文，英文，日文与韩文4种语言。日本地区价格2500日圆（含税），欧洲地区价格21欧元，美国预定于3月9日推出，价格25美元。Switch版还会收录专属独占歌曲，3月3日首版版本将率先推出由知名作曲家Xi所创作的“Ascension to Heaven”。日后的更新还会陆续追加不同作曲家的独占歌曲。《VOEZ》Switch版既支援觸碰操作也支援 TV 模式。\[6\]
 
 ### 發行
 
-《VOEZ》於2016年2月25日在[iOS及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android平台上分別展開為期](../Page/Android.md "wikilink")30天的封測\[7\]。
-[iOS版本於](https://zh.wikipedia.org/wiki/iOS "wikilink")2016年5月26日在[App
-Store上架](https://zh.wikipedia.org/wiki/App_Store "wikilink")\[8\]，
-[Android版本於](../Page/Android.md "wikilink")2016年6月2日在[Google
-Play商店上架](../Page/Google_Play.md "wikilink")\[9\]。大陆的龙渊版（成都龙渊网络有限公司名义发行），在2016年5月26日於iOS和Andorid版本和国际版同步在大陆区[App
-Store和中国各大Android应用商店上架](https://zh.wikipedia.org/wiki/App_Store "wikilink")\[10\]\[11\]。而任天堂Switch版本于2017年3月3日隨主機同步在日本和欧洲上架下載版，北美则預定在3月9日上架\[12\]。
+《VOEZ》於2016年2月25日在[iOS及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")平台上分別展開為期30天的封測\[7\]。 [iOS版本於](https://zh.wikipedia.org/wiki/iOS "wikilink")2016年5月26日在[App Store上架](https://zh.wikipedia.org/wiki/App_Store "wikilink")\[8\]， [Android](../Page/Android.md "wikilink")版本於2016年6月2日在[Google Play商店上架](../Page/Google_Play.md "wikilink")\[9\]。大陆的龙渊版（成都龙渊网络有限公司名义发行），在2016年5月26日於iOS和Andorid版本和国际版同步在大陆区[App Store和中国各大Android应用商店上架](https://zh.wikipedia.org/wiki/App_Store "wikilink")\[10\]\[11\]。而任天堂Switch版本于2017年3月3日隨主機同步在日本和欧洲上架下載版，北美则預定在3月9日上架\[12\]。
 
 ### 實體咖啡廳
 
-《VOEZ》發行後，官方也在同年依遊戲場景打造實體咖啡店 - VOEZ
-Cafe（蘭空咖啡），成為全台灣第一間由遊戲商出資開設、結合遊戲的實體咖啡店。\[13\]
+《VOEZ》發行後，官方也在同年依遊戲場景打造實體咖啡店 - VOEZ Cafe（蘭空咖啡），成為全台灣第一間由遊戲商出資開設、結合遊戲的實體咖啡店。\[13\]
 
 ## 反響
 
@@ -97,25 +89,16 @@ Cafe（蘭空咖啡），成為全台灣第一間由遊戲商出資開設、結�
   -
   -
   -
-[Category:2016年电子游戏](https://zh.wikipedia.org/wiki/Category:2016年电子游戏 "wikilink")
-[Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink")
-[Category:雷亞遊戲](https://zh.wikipedia.org/wiki/Category:雷亞遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink")
-[Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink")
-[Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink")
+[Category:2016年电子游戏](https://zh.wikipedia.org/wiki/Category:2016年电子游戏 "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:雷亞遊戲](https://zh.wikipedia.org/wiki/Category:雷亞遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink") [Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink")
 
 1.
 
-2.
-    ETtoday星光雲|last=ETtoday新聞雲|newspaper=ETtoday星光雲|accessdate=2018-10-03|language=zh-TW}}
+2.   ETtoday星光雲|last=ETtoday新聞雲|newspaper=ETtoday星光雲|accessdate=2018-10-03|language=zh-TW}}
 
 3.
 4.
 
-5.
-    ETtoday遊戲雲|newspaper=ETtoday遊戲雲|accessdate=2018-10-03|language=zh-TW}}
+5.   ETtoday遊戲雲|newspaper=ETtoday遊戲雲|accessdate=2018-10-03|language=zh-TW}}
 
 6.
 

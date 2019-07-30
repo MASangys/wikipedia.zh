@@ -1,6 +1,4 @@
-\-- -- 模組功能：在 Template:WikiProject Encyclopedia
-中，將「中國大百科全書/網路版/化學」分拆成「中國大百科全書」和「網路版/化學」兩部分。
---
+\-- -- 模組功能：在 Template:WikiProject Encyclopedia 中，將「中國大百科全書/網路版/化學」分拆成「中國大百科全書」和「網路版/化學」兩部分。 --
 
 local z = {}
 
@@ -54,8 +52,7 @@ end
 `   local book_name = z.get_book(frame)`
 `   local chapter_name = z.get_chapter(frame)`
 `   local original_title = frame.args[2]`
-`   local output = "本條目收錄於《`[`"``   ``..``   ``book_name``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._book_name_.._" "wikilink")`》"`
+`   local output = "本條目收錄於《`[`"``   ``..``   ``book_name``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._book_name_.._" "wikilink")`》"`
 
 `   if book_name == nil or book_name == "" then`
 `       return ""`

@@ -1,12 +1,10 @@
-《KODA KUMI LIVE TOUR 2015 〜WALK OF MY LIFE〜 supported by
-Mercedes-Benz》為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2015年於日本舉辦的巡迴演唱會。
+《KODA KUMI LIVE TOUR 2015 〜WALK OF MY LIFE〜 supported by Mercedes-Benz》為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2015年於日本舉辦的巡迴演唱會。
 
 ## 簡介
 
-  - 本次以專輯《[WALK OF MY
-    LIFE](../Page/WALK_OF_MY_LIFE.md "wikilink")》為主題並加入了出道15周年的元素所組成的巡迴演唱會，並首次冠上了贊助商的名稱\[1\]。
+  - 本次以專輯《[WALK OF MY LIFE](../Page/WALK_OF_MY_LIFE.md "wikilink")》為主題並加入了出道15周年的元素所組成的巡迴演唱會，並首次冠上了贊助商的名稱\[1\]。
   - 本次公演在8城市舉辦共12場，動員人數約11萬人\[2\]。
-  - 本公演的影像作品收錄日為6月27、28日兩場，將於日後發行，演唱會部分內容也將先行在9月6日於[WOWOW電視台搶先播出](../Page/WOWOW.md "wikilink")\[3\]。
+  - 本公演的影像作品收錄日為6月27、28日兩場，將於日後發行，演唱會部分內容也將先行在9月6日於[WOWOW](../Page/WOWOW.md "wikilink")電視台搶先播出\[3\]。
 
 ## 表演歌單\[4\]
 
@@ -119,8 +117,7 @@ Mercedes-Benz》為[日本歌手](../Page/日本.md "wikilink")[倖田來未於]
         ＜INTERLUDE MOVIE 4＞
     <!-- end list -->
       - \[ENCORE\]
-23. Lady Go\! / WIND / I'll be there / Butterfly / LALALALALA / Poppin'
-    love cocktail feat. TEEDA
+23. Lady Go\! / WIND / I'll be there / Butterfly / LALALALALA / Poppin' love cocktail feat. TEEDA
 24. walk
 
 <!-- end list -->
@@ -138,7 +135,7 @@ Mercedes-Benz》為[日本歌手](../Page/日本.md "wikilink")[倖田來未於]
 
 ### 銷售榜單
 
-  - 榜單來自[Oricon公信榜專輯榜](../Page/Oricon公信榜.md "wikilink")
+  - 榜單來自[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯榜
 
 | 發行日期       | 榜單                                               | 最高名次                              | 銷量  | 銷量總計   | 在榜周數 |
 | ---------- | ------------------------------------------------ | --------------------------------- | --- | ------ | ---- |
@@ -195,8 +192,7 @@ Mercedes-Benz》為[日本歌手](../Page/日本.md "wikilink")[倖田來未於]
 8.  BRING IT ON
 9.  BE MY BABY / LOADED
 10. LIFE so GOOD\!\!
-11. ENCORE Lady Go\! / WIND / I'll be there / Butterfly / LALALALALA /
-    Poppin' love cocktail feat. TEEDA
+11. ENCORE Lady Go\! / WIND / I'll be there / Butterfly / LALALALALA / Poppin' love cocktail feat. TEEDA
 12. ENCORE walk
 
 ## 參考資料

@@ -1,7 +1,4 @@
-**Samsung Galaxy J3
-Pro**是由[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[三星電子製造的一款入門級](../Page/三星電子.md "wikilink")[Android](../Page/Android.md "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")\[1\]，2017年8月於[台灣上市](https://zh.wikipedia.org/wiki/台灣 "wikilink")\[2\]\[3\]。它搭載Android
-7.0 Nougat作業系統（可升級至8.0 Oreo），配備[Exynos](../Page/三星Exynos.md "wikilink")
-7570四核心處理器、2 GB記憶體和16 GB儲存空間，支援4G雙卡雙待，電池容量則為2400mAh。
+**Samsung Galaxy J3 Pro**是由[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[三星電子](../Page/三星電子.md "wikilink")製造的一款入門級[Android](../Page/Android.md "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")\[1\]，2017年8月於[台灣上市](https://zh.wikipedia.org/wiki/台灣 "wikilink")\[2\]\[3\]。它搭載Android 7.0 Nougat作業系統（可升級至8.0 Oreo），配備[Exynos](../Page/三星Exynos.md "wikilink") 7570四核心處理器、2 GB記憶體和16 GB儲存空間，支援4G雙卡雙待，電池容量則為2400mAh。
 
 ## 主要規格
 
@@ -20,10 +17,8 @@ Pro**是由[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[三星電�
 
 <references />
 
-[Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink")
-[Category:2017年面世的手機](https://zh.wikipedia.org/wiki/Category:2017年面世的手機 "wikilink")
+[Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink") [Category:2017年面世的手機](https://zh.wikipedia.org/wiki/Category:2017年面世的手機 "wikilink")
 
 1.
 2.
-3.   ePrice 比價王|accessdate=2017-12-24|last=比價王|first=ePrice|work=ePrice
-    比價王|language=zh-TW}}
+3.   ePrice 比價王|accessdate=2017-12-24|last=比價王|first=ePrice|work=ePrice 比價王|language=zh-TW}}

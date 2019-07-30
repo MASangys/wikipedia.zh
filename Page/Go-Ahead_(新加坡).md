@@ -1,13 +1,8 @@
-**Go-Ahead**，另名**前进新加坡**，将会是[新加坡第四](../Page/新加坡.md "wikilink")[公共巴士业者](../Page/公共交通.md "wikilink")，从2016年9月投入运作，分两个阶段接手[新捷运现有的](../Page/新捷运.md "wikilink")24条巴士路线。此业者是继[Tower
-Transit后](../Page/Tower_Transit_\(新加坡\).md "wikilink")，外包巴士路线配套的第二个巴士业者，也是[Go-Ahead集团旗下的附属之一](https://zh.wikipedia.org/wiki/Go-Ahead集团 "wikilink")。
+**Go-Ahead**，另名**前进新加坡**，将会是[新加坡](../Page/新加坡.md "wikilink")第四[公共巴士业者](../Page/公共交通.md "wikilink")，从2016年9月投入运作，分两个阶段接手[新捷运](../Page/新捷运.md "wikilink")现有的24条巴士路线。此业者是继[Tower Transit后](../Page/Tower_Transit_\(新加坡\).md "wikilink")，外包巴士路线配套的第二个巴士业者，也是[Go-Ahead集团旗下的附属之一](https://zh.wikipedia.org/wiki/Go-Ahead集团 "wikilink")。
 
 ## 歷史
 
-[Loyang_Bus_Carnival_opening_ceremony_02.jpg](https://zh.wikipedia.org/wiki/File:Loyang_Bus_Carnival_opening_ceremony_02.jpg "fig:Loyang_Bus_Carnival_opening_ceremony_02.jpg")
-2015年4月，新加坡陆路交通管理局为第二批巴士路线招标经营罗央巴士车厂的25条以[樟宜机场巴士终站](https://zh.wikipedia.org/wiki/樟宜机场搭客大厦巴士终站 "wikilink")，[樟宜村巴士终站](../Page/樟宜村巴士终站.md "wikilink")，[巴西立巴士转换站及](https://zh.wikipedia.org/wiki/巴西立巴士转换站 "wikilink")[榜鹅巴士转换站为起点的巴士路线](../Page/榜鹅临时巴士转换站.md "wikilink")。\[1\]
-共有八家海内外公司参与竞标：Busways，Go-Ahead集团，Keolis，RATP Dev
-Transdev，[新捷运](../Page/新捷运.md "wikilink")，[SMRT巴士](../Page/SMRT巴士.md "wikilink")，韩国锦湖高速公司（Kumho
-Buslines）与本地天山船务公司组成的合资公司，及兀兰运输。\[2\]
+[Loyang_Bus_Carnival_opening_ceremony_02.jpg](https://zh.wikipedia.org/wiki/File:Loyang_Bus_Carnival_opening_ceremony_02.jpg "fig:Loyang_Bus_Carnival_opening_ceremony_02.jpg") 2015年4月，新加坡陆路交通管理局为第二批巴士路线招标经营罗央巴士车厂的25条以[樟宜机场巴士终站](https://zh.wikipedia.org/wiki/樟宜机场搭客大厦巴士终站 "wikilink")，[樟宜村巴士终站](../Page/樟宜村巴士终站.md "wikilink")，[巴西立巴士转换站及](https://zh.wikipedia.org/wiki/巴西立巴士转换站 "wikilink")[榜鹅巴士转换站为起点的巴士路线](../Page/榜鹅临时巴士转换站.md "wikilink")。\[1\] 共有八家海内外公司参与竞标：Busways，Go-Ahead集团，Keolis，RATP Dev Transdev，[新捷运](../Page/新捷运.md "wikilink")，[SMRT巴士](../Page/SMRT巴士.md "wikilink")，韩国锦湖高速公司（Kumho Buslines）与本地天山船务公司组成的合资公司，及兀兰运输。\[2\]
 
 2015年11月，陆交局经过将近三个月的严格筛选后，决定把第二个外包巴士路线经营权，颁给英国巴士业者Go-Ahead集团。Go-Ahead以提供高质素服务，和4亿9770万元的投标价，击败另外七家公司，成功夺得五年合约。\[3\]\[4\]\[5\]
 
@@ -19,11 +14,11 @@ Buslines）与本地天山船务公司组成的合资公司，及兀兰运输。
 
 ### 現役車隊
 
-| 型號                                                                                                                                                                                        | 圖片                                                                                                                                                         | 車身                      | 年份   | 數量 | 備註     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ---- | -- | ------ |
-| [富豪B9TL](https://zh.wikipedia.org/wiki/富豪B9TL "wikilink") [Accessibility-directory.svg](https://zh.wikipedia.org/wiki/File:Accessibility-directory.svg "fig:Accessibility-directory.svg") | [Volvo_B9TL_SG5053C_01.jpg](https://zh.wikipedia.org/wiki/File:Volvo_B9TL_SG5053C_01.jpg "fig:Volvo_B9TL_SG5053C_01.jpg")                               | Wright Eclipse Gemini 2 | 2015 |    | 歐盟五型引擎 |
-| [梅赛德斯-奔驰Citaro](../Page/梅赛德斯-奔驰Citaro.md "wikilink") [Accessibility-directory.svg](https://zh.wikipedia.org/wiki/File:Accessibility-directory.svg "fig:Accessibility-directory.svg")      | [Mercedes-Benz_Citaro_SG1053D_01.jpg](https://zh.wikipedia.org/wiki/File:Mercedes-Benz_Citaro_SG1053D_01.jpg "fig:Mercedes-Benz_Citaro_SG1053D_01.jpg") | EvoBus                  | 2015 |    | 歐盟五型引擎 |
-|                                                                                                                                                                                           |                                                                                                                                                            |                         |      |    |        |
+| 型號                                                                                                                                                                                   | 圖片                                                                                                                                                         | 車身                      | 年份   | 數量 | 備註     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ---- | -- | ------ |
+| [富豪B9TL](../Page/富豪B9TL.md "wikilink") [Accessibility-directory.svg](https://zh.wikipedia.org/wiki/File:Accessibility-directory.svg "fig:Accessibility-directory.svg")               | [Volvo_B9TL_SG5053C_01.jpg](https://zh.wikipedia.org/wiki/File:Volvo_B9TL_SG5053C_01.jpg "fig:Volvo_B9TL_SG5053C_01.jpg")                               | Wright Eclipse Gemini 2 | 2015 |    | 歐盟五型引擎 |
+| [梅赛德斯-奔驰Citaro](../Page/梅赛德斯-奔驰Citaro.md "wikilink") [Accessibility-directory.svg](https://zh.wikipedia.org/wiki/File:Accessibility-directory.svg "fig:Accessibility-directory.svg") | [Mercedes-Benz_Citaro_SG1053D_01.jpg](https://zh.wikipedia.org/wiki/File:Mercedes-Benz_Citaro_SG1053D_01.jpg "fig:Mercedes-Benz_Citaro_SG1053D_01.jpg") | EvoBus                  | 2015 |    | 歐盟五型引擎 |
+|                                                                                                                                                                                      |                                                                                                                                                            |                         |      |    |        |
 
 ## 經營路線
 
@@ -67,23 +62,12 @@ Buslines）与本地天山船务公司组成的合资公司，及兀兰运输。
 
 [官方网站](https://www.go-aheadsingapore.com/)
 
-[Category:新加坡交通](https://zh.wikipedia.org/wiki/Category:新加坡交通 "wikilink")
-[Category:新加坡公司](https://zh.wikipedia.org/wiki/Category:新加坡公司 "wikilink")
-[Category:2016年成立的公司](https://zh.wikipedia.org/wiki/Category:2016年成立的公司 "wikilink")
-[Category:2016年新加坡建立](https://zh.wikipedia.org/wiki/Category:2016年新加坡建立 "wikilink")
+[Category:新加坡交通](https://zh.wikipedia.org/wiki/Category:新加坡交通 "wikilink") [Category:新加坡公司](https://zh.wikipedia.org/wiki/Category:新加坡公司 "wikilink") [Category:2016年成立的公司](https://zh.wikipedia.org/wiki/Category:2016年成立的公司 "wikilink") [Category:2016年新加坡建立](https://zh.wikipedia.org/wiki/Category:2016年新加坡建立 "wikilink")
 
 1.
-2.  [Bid Prices for Loyang Bus
-    Package](http://www.lta.gov.sg/data/apps/news/press/2015/20151123_BidPriceLoyangBusPkg.pdf)
-    陆路交通管理局
-3.  [Second UK transport operator wins bid to run bus services in
-    Singapore](http://www.channelnewsasia.com/news/singapore/second-uk-transport/2285760.html)
-    [亚洲新闻台](../Page/亚洲新闻台.md "wikilink") 2015年11月23日
-4.  [Go-Ahead enters Singapore bus
-    market](http://www.go-ahead.com/en/media/news/2015/go-ahead-enters-singapore-bus-market.html)
-    Go-Ahead集团 2015年11月23日
-5.  [LT Awards Second Bus Package to Go-Ahead Group
-    plc](http://www.lta.gov.sg/apps/news/page.aspx?c=2&id=b788c5ef-a7cc-4de3-b5d8-9fc1cd1d1b2e)
-    陆路交通管理局 2015年11月23日
+2.  [Bid Prices for Loyang Bus Package](http://www.lta.gov.sg/data/apps/news/press/2015/20151123_BidPriceLoyangBusPkg.pdf) 陆路交通管理局
+3.  [Second UK transport operator wins bid to run bus services in Singapore](http://www.channelnewsasia.com/news/singapore/second-uk-transport/2285760.html) [亚洲新闻台](../Page/亚洲新闻台.md "wikilink") 2015年11月23日
+4.  [Go-Ahead enters Singapore bus market](http://www.go-ahead.com/en/media/news/2015/go-ahead-enters-singapore-bus-market.html) Go-Ahead集团 2015年11月23日
+5.  [LT Awards Second Bus Package to Go-Ahead Group plc](http://www.lta.gov.sg/apps/news/page.aspx?c=2&id=b788c5ef-a7cc-4de3-b5d8-9fc1cd1d1b2e) 陆路交通管理局 2015年11月23日
 6.
 7.

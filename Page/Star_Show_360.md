@@ -1,16 +1,13 @@
-**Star Show
-360**（）是在[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")频道播出的[綜藝節目](../Page/綜藝節目.md "wikilink")。节目在每周一下午5:30播出并在下午11:10重播，共8集。由[利特和](../Page/利特.md "wikilink")担任主持。\[1\]
+**Star Show 360**（）是在[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")频道播出的[綜藝節目](../Page/綜藝節目.md "wikilink")。节目在每周一下午5:30播出并在下午11:10重播，共8集。由[利特](../Page/利特.md "wikilink")和担任主持。\[1\]
 
 ## 主持
 
-  - [利特](../Page/利特.md "wikilink") ([Super
-    Junior](../Page/Super_Junior.md "wikilink"))
+  - [利特](../Page/利特.md "wikilink") ([Super Junior](../Page/Super_Junior.md "wikilink"))
 
   -
 ## 固定成员
 
-  - [素慧](../Page/金素慧.md "wikilink")
-    ([I.O.I](../Page/I.O.I.md "wikilink"))
+  - [素慧](../Page/金素慧.md "wikilink") ([I.O.I](../Page/I.O.I.md "wikilink"))
 
 ## 播出列表
 
@@ -32,13 +29,9 @@
 
 ## 外部链接
 
-  - [Star
-    Show 360](https://web.archive.org/web/20161120151557/http://www.mbcplus.com/program/starshow360/)
-    - 官方网站
+  - [Star Show 360](https://web.archive.org/web/20161120151557/http://www.mbcplus.com/program/starshow360/) - 官方网站
 
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
+[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
 
 1.
 2.

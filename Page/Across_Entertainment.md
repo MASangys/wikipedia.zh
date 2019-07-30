@@ -1,5 +1,4 @@
-**株式會社Across
-Entertainment**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。由曾管理[東京俳優生活協同組合的藤崎淳](../Page/東京俳優生活協同組合.md "wikilink")\[2\]在2008年4月\[3\]創立。
+**株式會社Across Entertainment**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。由曾管理[東京俳優生活協同組合](../Page/東京俳優生活協同組合.md "wikilink")的藤崎淳\[2\]在2008年4月\[3\]創立。
 
 ## 所屬聲優
 
@@ -356,8 +355,7 @@ Entertainment**（，）是一家位於[日本](../Page/日本.md "wikilink")[�
 
   - [中川明](https://zh.wikipedia.org/wiki/中川明_\(聲優\) "wikilink")
 
-  - [浪川大輔](../Page/浪川大輔.md "wikilink")（現所屬：[Stay
-    Luck代表](../Page/Stay_Luck.md "wikilink")）
+  - [浪川大輔](../Page/浪川大輔.md "wikilink")（現所屬：[Stay Luck代表](../Page/Stay_Luck.md "wikilink")）
 
   - 野澤大悟（現所屬：bamboo）
 
@@ -431,10 +429,7 @@ Entertainment**（，）是一家位於[日本](../Page/日本.md "wikilink")[�
   - [株式會社Across Entertainment公式官網](http://across-ent.com/)
   - [株式會社Across公式官網](http://across-japan.com/)
 
-[Category:Across_Entertainment](https://zh.wikipedia.org/wiki/Category:Across_Entertainment "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
-[Category:2008年成立的公司](https://zh.wikipedia.org/wiki/Category:2008年成立的公司 "wikilink")
+[Category:Across_Entertainment](https://zh.wikipedia.org/wiki/Category:Across_Entertainment "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:2008年成立的公司](https://zh.wikipedia.org/wiki/Category:2008年成立的公司 "wikilink")
 
 1.
 

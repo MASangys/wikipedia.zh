@@ -1,14 +1,12 @@
-**Eclipse基金会**是管理和运营[开源项目](https://zh.wikipedia.org/wiki/开源 "wikilink")[Eclipse的基金会](../Page/Eclipse.md "wikilink")。
+**Eclipse基金会**是管理和运营[开源项目](https://zh.wikipedia.org/wiki/开源 "wikilink")[Eclipse](../Page/Eclipse.md "wikilink")的基金会。
 
 ## 历史
 
-Eclipse基金会成立于2003-2004年间。Eclipse联盟（一个软件行业的联盟组织）发起成立了Eclipse基金会，以期管理和引领Eclipse项目\[1\]
-。
+Eclipse基金会成立于2003-2004年间。Eclipse联盟（一个软件行业的联盟组织）发起成立了Eclipse基金会，以期管理和引领Eclipse项目\[1\] 。
 
 ## 战略成员
 
-每个战略成员在Eclipse基金会董事会都有一名代表，直接影响Eclipse的战略方向。
-战略成员还在各种Eclipse理事会中占有一席之地，影响和丰富Eclipse的生态系统。\[2\]
+每个战略成员在Eclipse基金会董事会都有一名代表，直接影响Eclipse的战略方向。 战略成员还在各种Eclipse理事会中占有一席之地，影响和丰富Eclipse的生态系统。\[2\]
 
 <table>
 <tbody>
@@ -51,10 +49,7 @@ Eclipse基金会成立于2003-2004年间。Eclipse联盟（一个软件行业的
   - \[//www.eclipse.org/ Eclipse.org\]
   - \[//wiki.eclipse.org/index.php/Development_Resources Wiki Eclipse\]
 
-[Category:自由软件项目基金会](https://zh.wikipedia.org/wiki/Category:自由软件项目基金会 "wikilink")
-[Category:加拿大非营利组织](https://zh.wikipedia.org/wiki/Category:加拿大非营利组织 "wikilink")
-[Category:渥太华组织](https://zh.wikipedia.org/wiki/Category:渥太华组织 "wikilink")
-[Category:501(c)(6)非營利組織](https://zh.wikipedia.org/wiki/Category:501\(c\)\(6\)非營利組織 "wikilink")
+[Category:自由软件项目基金会](https://zh.wikipedia.org/wiki/Category:自由软件项目基金会 "wikilink") [Category:加拿大非营利组织](https://zh.wikipedia.org/wiki/Category:加拿大非营利组织 "wikilink") [Category:渥太华组织](https://zh.wikipedia.org/wiki/Category:渥太华组织 "wikilink") [Category:501(c)(6)非營利組織](https://zh.wikipedia.org/wiki/Category:501\(c\)\(6\)非營利組織 "wikilink")
 
 1.
 2.

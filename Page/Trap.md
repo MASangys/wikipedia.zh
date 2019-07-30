@@ -43,7 +43,7 @@
   -
 ### 物理和材料科学
 
-  - 载波陷阱（Carrier trap），[半导体中的一种缺陷](../Page/半导体.md "wikilink")
+  - 载波陷阱（Carrier trap），[半导体](../Page/半导体.md "wikilink")中的一种缺陷
 
   - [化學捕捉](https://zh.wikipedia.org/wiki/化學捕捉 "wikilink")
 

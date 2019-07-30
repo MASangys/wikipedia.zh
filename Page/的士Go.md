@@ -1,4 +1,4 @@
-《**的士Go**》（****）是[香港電視娛樂製作的](../Page/香港電視娛樂.md "wikilink")[旅遊節目](https://zh.wikipedia.org/wiki/旅遊 "wikilink")，以[的士司機作為主導](https://zh.wikipedia.org/wiki/的士 "wikilink")，節目一共有兩季，第一季於2016年7月6日至9月8日逢星期三至四22:00－22:30於[ViuTV播出](../Page/ViuTV.md "wikilink")\[1\]，第二季於2018年12月15日至2019年3月2日逢星期六22:30－23:00播出\[2\]。
+《**的士Go**》（****）是[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的[旅遊節目](https://zh.wikipedia.org/wiki/旅遊 "wikilink")，以[的士司機作為主導](https://zh.wikipedia.org/wiki/的士 "wikilink")，節目一共有兩季，第一季於2016年7月6日至9月8日逢星期三至四22:00－22:30於[ViuTV](../Page/ViuTV.md "wikilink")播出\[1\]，第二季於2018年12月15日至2019年3月2日逢星期六22:30－23:00播出\[2\]。
 
 ## 節目簡介
 
@@ -40,7 +40,7 @@
 <td><p>Eric</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/灣仔.md" title="wikilink">灣仔</a><a href="../Page/春園街.md" title="wikilink">春園街</a>、<a href="https://zh.wikipedia.org/wiki/交加街" title="wikilink">交加街</a>、<a href="https://zh.wikipedia.org/wiki/太原街" title="wikilink">太原街</a>、<a href="../Page/日街.md" title="wikilink">日街</a>、<a href="../Page/月街.md" title="wikilink">月街</a>、<a href="../Page/星街.md" title="wikilink">星街</a>、<a href="../Page/譚臣道.md" title="wikilink">譚臣道</a></p></td>
+<td><p><a href="../Page/灣仔.md" title="wikilink">灣仔</a><a href="../Page/春園街.md" title="wikilink">春園街</a>、<a href="../Page/交加街.md" title="wikilink">交加街</a>、<a href="https://zh.wikipedia.org/wiki/太原街" title="wikilink">太原街</a>、<a href="../Page/日街.md" title="wikilink">日街</a>、<a href="../Page/月街.md" title="wikilink">月街</a>、<a href="../Page/星街.md" title="wikilink">星街</a>、<a href="../Page/譚臣道.md" title="wikilink">譚臣道</a></p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
@@ -100,7 +100,7 @@
 <td><p>Mr. Tan</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/牛車水.md" title="wikilink">牛車水大廈</a>、、<a href="https://zh.wikipedia.org/wiki/Orchard_Road" title="wikilink">Orchard Road</a></p></td>
+<td><p><a href="../Page/牛車水.md" title="wikilink">牛車水</a>大廈、、<a href="https://zh.wikipedia.org/wiki/Orchard_Road" title="wikilink">Orchard Road</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Mr. George Lim</p></td>
@@ -130,7 +130,7 @@
 <td><p>汪大哥</p></td>
 <td><p><a href="../Page/駱振偉.md" title="wikilink">駱振偉</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/深圳" title="wikilink">深圳</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/南山區" title="wikilink">南山區</a><a href="https://zh.wikipedia.org/wiki/南頭街" title="wikilink">南頭街與</a><a href="../Page/南山大道.md" title="wikilink">南山大道交界</a>、南山大道<a href="https://zh.wikipedia.org/wiki/漢唐街" title="wikilink">漢唐街</a>、<a href="https://zh.wikipedia.org/wiki/深南大道" title="wikilink">深南大道</a>（<a href="https://zh.wikipedia.org/wiki/南頭古城" title="wikilink">南頭古城</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/南山區" title="wikilink">南山區</a><a href="https://zh.wikipedia.org/wiki/南頭街" title="wikilink">南頭街與</a><a href="../Page/南山大道.md" title="wikilink">南山大道</a>交界、南山大道<a href="https://zh.wikipedia.org/wiki/漢唐街" title="wikilink">漢唐街</a>、<a href="https://zh.wikipedia.org/wiki/深南大道" title="wikilink">深南大道</a>（<a href="https://zh.wikipedia.org/wiki/南頭古城" title="wikilink">南頭古城</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
@@ -150,7 +150,7 @@
 <td><p>小甘</p></td>
 <td><p>牛奶</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="https://zh.wikipedia.org/wiki/大安區" title="wikilink">大安區</a><a href="https://zh.wikipedia.org/wiki/潮州街" title="wikilink">潮州街</a>、<a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="../Page/北投區.md" title="wikilink">北投區</a><a href="https://zh.wikipedia.org/wiki/光明路" title="wikilink">光明路</a>（<a href="../Page/臺北市立圖書館.md" title="wikilink">臺北市立圖書館北投分館</a>）、<a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="../Page/北投區.md" title="wikilink">北投區</a><a href="https://zh.wikipedia.org/wiki/中和街" title="wikilink">中和街</a>、<a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="https://zh.wikipedia.org/wiki/中正區" title="wikilink">中正區</a><a href="https://zh.wikipedia.org/wiki/濟南路" title="wikilink">濟南路</a>、<a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="https://zh.wikipedia.org/wiki/大安區" title="wikilink">大安區</a><a href="https://zh.wikipedia.org/wiki/安和路" title="wikilink">安和路</a>、<a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="https://zh.wikipedia.org/wiki/大安區" title="wikilink">大安區</a><a href="../Page/復興南路.md" title="wikilink">復興南路</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="https://zh.wikipedia.org/wiki/大安區" title="wikilink">大安區</a><a href="https://zh.wikipedia.org/wiki/潮州街" title="wikilink">潮州街</a>、<a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="../Page/北投區.md" title="wikilink">北投區</a><a href="https://zh.wikipedia.org/wiki/光明路" title="wikilink">光明路</a>（<a href="../Page/臺北市立圖書館.md" title="wikilink">臺北市立圖書館</a>北投分館）、<a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="../Page/北投區.md" title="wikilink">北投區</a><a href="https://zh.wikipedia.org/wiki/中和街" title="wikilink">中和街</a>、<a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="https://zh.wikipedia.org/wiki/中正區" title="wikilink">中正區</a><a href="https://zh.wikipedia.org/wiki/濟南路" title="wikilink">濟南路</a>、<a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="https://zh.wikipedia.org/wiki/大安區" title="wikilink">大安區</a><a href="https://zh.wikipedia.org/wiki/安和路" title="wikilink">安和路</a>、<a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="https://zh.wikipedia.org/wiki/大安區" title="wikilink">大安區</a><a href="../Page/復興南路.md" title="wikilink">復興南路</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
@@ -419,25 +419,15 @@
   - [ViuTV：的士Go](http://viu.tv/encore/taxi-go)
   - [ViuTV：的士Go 2](http://viu.tv/encore/taxi-go-2)
 
-[Category:香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目 "wikilink")
-[Category:香港電視娛樂旅遊節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂旅遊節目 "wikilink")
-[Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink")
-[Category:旅遊節目](https://zh.wikipedia.org/wiki/Category:旅遊節目 "wikilink")
-[Category:2016年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2016年香港電視娛樂節目 "wikilink")
-[Category:2018年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2018年香港電視娛樂節目 "wikilink")
+[Category:香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目 "wikilink") [Category:香港電視娛樂旅遊節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂旅遊節目 "wikilink") [Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink") [Category:旅遊節目](https://zh.wikipedia.org/wiki/Category:旅遊節目 "wikilink") [Category:2016年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2016年香港電視娛樂節目 "wikilink") [Category:2018年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2018年香港電視娛樂節目 "wikilink")
 
-1.  [ViuTV Program
-    Highlights（的士Go）](https://static.viu.tv/e7ab822880dd3899fc66a5579d21877c.pdf)，ViuTV
-2.  [ViuTV Program
-    Highlights（的士Go 2）](https://viutv-cms.s3.amazonaws.com/VhDTLDyttU-EfuAc.pdf)，ViuTV
+1.  [ViuTV Program Highlights（的士Go）](https://static.viu.tv/e7ab822880dd3899fc66a5579d21877c.pdf)，ViuTV
+2.  [ViuTV Program Highlights（的士Go 2）](https://viutv-cms.s3.amazonaws.com/VhDTLDyttU-EfuAc.pdf)，ViuTV
 3.  [最強人肉旅遊指南！的士司機帶你食盡全世界](http://www.viu.tv/readtv/jui-keung-yan-yuk-lui-yau-ji-naam-dik-si-si-gei-daai-nei-sik-jun-chuen-sai-gaai)，ViuTV
-4.  [阿旦去台灣 Hailey攻美
-    ViuTV格鬥女變身旅遊精](https://hk.entertainment.appledaily.com/entertainment/daily/article/20160421/19579267)，蘋果日報，2016-04-21
+4.  [阿旦去台灣 Hailey攻美 ViuTV格鬥女變身旅遊精](https://hk.entertainment.appledaily.com/entertainment/daily/article/20160421/19579267)，蘋果日報，2016-04-21
 5.  [視評：《的士Go》為社會播下美善種子](http://paper.wenweipo.com/2016/08/19/FA1608190004.htm)，文匯報，2016-08-19
 6.  以節目標題為準
-7.  [Viu TV 《 的士Go 》的士司機帶路 \~
-    港島3大美食重地](http://www.weekendhk.com/dining/的士go-viu-tv-的士司機-太安樓/)，新假期，2016-07-11
-8.  [ViuTV《 的士Go 》的士司機帶路\!
-    大埔街市掃3大美食](http://www.weekendhk.com/dining/viutv-的士go-大埔街市/)，新假期，2016-07-18
+7.  [Viu TV 《 的士Go 》的士司機帶路 \~ 港島3大美食重地](http://www.weekendhk.com/dining/的士go-viu-tv-的士司機-太安樓/)，新假期，2016-07-11
+8.  [ViuTV《 的士Go 》的士司機帶路\! 大埔街市掃3大美食](http://www.weekendhk.com/dining/viutv-的士go-大埔街市/)，新假期，2016-07-18
 9.  [【咪走寶！】去盡新加坡打卡呃Like位！](https://media.weibo.cn/article?object_id=1022%3A2309403999274793855248&luicode=10000011&lfid=1076031563489745&id=2309403999274793855248)，新浪微博，2016-07-20
 10. 以節目標題為準

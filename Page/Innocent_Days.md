@@ -1,5 +1,4 @@
-《**Innocent Days**》是一部由所創作的推理小說
-\[1\]。本書曾於2015年，于第68屆[日本推理作家協會獎](../Page/日本推理作家协会奖.md "wikilink")「長編暨連作短編集部門」獲獎\[2\]。
+《**Innocent Days**》是一部由所創作的推理小說 \[1\]。本書曾於2015年，于第68屆[日本推理作家協會獎](../Page/日本推理作家协会奖.md "wikilink")「長編暨連作短編集部門」獲獎\[2\]。
 
 ## 劇情概要
 
@@ -7,8 +6,7 @@
 
 ## 電視連續劇
 
-2018年3月18日起於[WOWOW電視台](../Page/WOWOW.md "wikilink")「連續劇W」時段播放。全6集。本劇由[妻夫木聰主演](../Page/妻夫木聰.md "wikilink") \[3\]，是[妻夫木聰於](../Page/妻夫木聰.md "wikilink")3年半後再次主演[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")
-\[4\]。
+2018年3月18日起於[WOWOW](../Page/WOWOW.md "wikilink")電視台「連續劇W」時段播放。全6集。本劇由[妻夫木聰](../Page/妻夫木聰.md "wikilink")主演 \[3\]，是[妻夫木聰](../Page/妻夫木聰.md "wikilink")於3年半後再次主演[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink") \[4\]。
 
 ### 登場人物
 
@@ -145,13 +143,7 @@
 
 ## 節目變遷
 
-[Category:2014年日本小說](https://zh.wikipedia.org/wiki/Category:2014年日本小說 "wikilink")
-[Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink")
-[Category:日本懸疑劇](https://zh.wikipedia.org/wiki/Category:日本懸疑劇 "wikilink")
-[Category:日本小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本小說改編電視劇 "wikilink")
-[Category:日本犯罪劇](https://zh.wikipedia.org/wiki/Category:日本犯罪劇 "wikilink")
-[Category:連續劇W](https://zh.wikipedia.org/wiki/Category:連續劇W "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:2014年日本小說](https://zh.wikipedia.org/wiki/Category:2014年日本小說 "wikilink") [Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink") [Category:日本懸疑劇](https://zh.wikipedia.org/wiki/Category:日本懸疑劇 "wikilink") [Category:日本小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本小說改編電視劇 "wikilink") [Category:日本犯罪劇](https://zh.wikipedia.org/wiki/Category:日本犯罪劇 "wikilink") [Category:連續劇W](https://zh.wikipedia.org/wiki/Category:連續劇W "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
 1.
 2.

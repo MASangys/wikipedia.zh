@@ -1,6 +1,4 @@
-是[日本Falcom于](../Page/日本Falcom.md "wikilink")1988年在日本个人电脑[PC-8801出品的](../Page/PC-8801.md "wikilink")[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")。游戏是[伊苏系列的第二作](../Page/伊苏系列.md "wikilink")，情节紧接前作《[伊苏
-失落的伊苏古国
-序章](../Page/伊苏_失落的伊苏古国_序章.md "wikilink")》，讲述主人公亚特鲁集齐六本伊苏之书后，被传送到伊苏国的故事。游戏后来移植到多个平台，并常与前作捆绑销售。
+是[日本Falcom](../Page/日本Falcom.md "wikilink")于1988年在日本个人电脑[PC-8801](../Page/PC-8801.md "wikilink")出品的[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")。游戏是[伊苏系列](../Page/伊苏系列.md "wikilink")的第二作，情节紧接前作《[伊苏 失落的伊苏古国 序章](../Page/伊苏_失落的伊苏古国_序章.md "wikilink")》，讲述主人公亚特鲁集齐六本伊苏之书后，被传送到伊苏国的故事。游戏后来移植到多个平台，并常与前作捆绑销售。
 
 ## 玩法
 
@@ -130,15 +128,7 @@
 
 ## 版本
 
-《伊苏II》于1988年4月22日在个人电脑[PC8801mkIISR发行](../Page/PC-8801.md "wikilink")，同年在[PC-9801](https://zh.wikipedia.org/wiki/PC-9801 "wikilink")、[X1-turbo](https://zh.wikipedia.org/wiki/X1-turbo "wikilink")、[FM-77AV](https://zh.wikipedia.org/wiki/FM-77AV "wikilink")、[MSX2等个人电脑上](https://zh.wikipedia.org/wiki/MSX2 "wikilink")。1989年，Vector发行[红白机版游戏](../Page/红白机.md "wikilink")。同年，Hudson
-Soft发行[PC
-Engine版游戏](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")，这也是游戏唯一在西方发行的版本。1998年，Vector在[世嘉土星上发行PC](../Page/世嘉土星.md "wikilink")
-Engine的移植版。2000年，收录游戏的Windows合辑《Falcom
-Classics》发行；2001年，收录游戏和前作的Windows游戏《伊苏I·II完全版》发行。2003年，[DigiCube推出](../Page/DigiCube.md "wikilink")《伊苏I·II完全版》的PlayStation
-2移植版《永远的伊苏I·II》。2008年任天堂DS版《伊苏II
-DS》发行，原碰撞攻击改为手动挥剑操控。2009年，《伊苏I·II完全版》的PlayStation
-Portable移植版《伊苏I·II编年史》发行；同年该游戏移植于Windows，两年后PlayStation
-Portable版廉价再版，2013年Windows版又再度再版。
+《伊苏II》于1988年4月22日在个人电脑[PC8801mkIISR发行](../Page/PC-8801.md "wikilink")，同年在[PC-9801](https://zh.wikipedia.org/wiki/PC-9801 "wikilink")、[X1-turbo](https://zh.wikipedia.org/wiki/X1-turbo "wikilink")、[FM-77AV](https://zh.wikipedia.org/wiki/FM-77AV "wikilink")、[MSX2等个人电脑上](https://zh.wikipedia.org/wiki/MSX2 "wikilink")。1989年，Vector发行[红白机](../Page/红白机.md "wikilink")版游戏。同年，Hudson Soft发行[PC Engine版游戏](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")，这也是游戏唯一在西方发行的版本。1998年，Vector在[世嘉土星](../Page/世嘉土星.md "wikilink")上发行PC Engine的移植版。2000年，收录游戏的Windows合辑《Falcom Classics》发行；2001年，收录游戏和前作的Windows游戏《伊苏I·II完全版》发行。2003年，[DigiCube](../Page/DigiCube.md "wikilink")推出《伊苏I·II完全版》的PlayStation 2移植版《永远的伊苏I·II》。2008年任天堂DS版《伊苏II DS》发行，原碰撞攻击改为手动挥剑操控。2009年，《伊苏I·II完全版》的PlayStation Portable移植版《伊苏I·II编年史》发行；同年该游戏移植于Windows，两年后PlayStation Portable版廉价再版，2013年Windows版又再度再版。
 
 ## 评价
 
@@ -147,22 +137,4 @@ Portable版廉价再版，2013年Windows版又再度再版。
   - [伊苏系列官方网站](http://www.falcom.co.jp/ys_portal/index.html)
   - [伊苏II日版机种列表](https://web.archive.org/web/20070310204602/http://www32.ocn.ne.jp/~shuji/ys2list.htm)
 
-
-[Category:1988年电子游戏](https://zh.wikipedia.org/wiki/Category:1988年电子游戏 "wikilink")
-[Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink")
-[Category:FM-7游戏](https://zh.wikipedia.org/wiki/Category:FM-7游戏 "wikilink")
-[Category:MSX游戏](https://zh.wikipedia.org/wiki/Category:MSX游戏 "wikilink")
-[Category:PC_Engine遊戲](https://zh.wikipedia.org/wiki/Category:PC_Engine遊戲 "wikilink")
-[Category:PC-8801游戏](https://zh.wikipedia.org/wiki/Category:PC-8801游戏 "wikilink")
-[Category:PC-9801游戏](https://zh.wikipedia.org/wiki/Category:PC-9801游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:X1游戏](https://zh.wikipedia.org/wiki/Category:X1游戏 "wikilink")
-[Category:世嘉土星游戏](https://zh.wikipedia.org/wiki/Category:世嘉土星游戏 "wikilink")
-[Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
-[Category:伊苏系列](https://zh.wikipedia.org/wiki/Category:伊苏系列 "wikilink")
-[Category:角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:角色扮演遊戲 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:日本Falcom电子游戏系列](https://zh.wikipedia.org/wiki/Category:日本Falcom电子游戏系列 "wikilink")
-[Category:伊蘇系列](https://zh.wikipedia.org/wiki/Category:伊蘇系列 "wikilink")
+[Category:1988年电子游戏](https://zh.wikipedia.org/wiki/Category:1988年电子游戏 "wikilink") [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink") [Category:FM-7游戏](https://zh.wikipedia.org/wiki/Category:FM-7游戏 "wikilink") [Category:MSX游戏](https://zh.wikipedia.org/wiki/Category:MSX游戏 "wikilink") [Category:PC_Engine遊戲](https://zh.wikipedia.org/wiki/Category:PC_Engine遊戲 "wikilink") [Category:PC-8801游戏](https://zh.wikipedia.org/wiki/Category:PC-8801游戏 "wikilink") [Category:PC-9801游戏](https://zh.wikipedia.org/wiki/Category:PC-9801游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:X1游戏](https://zh.wikipedia.org/wiki/Category:X1游戏 "wikilink") [Category:世嘉土星游戏](https://zh.wikipedia.org/wiki/Category:世嘉土星游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:伊苏系列](https://zh.wikipedia.org/wiki/Category:伊苏系列 "wikilink") [Category:角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:角色扮演遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:日本Falcom电子游戏系列](https://zh.wikipedia.org/wiki/Category:日本Falcom电子游戏系列 "wikilink") [Category:伊蘇系列](https://zh.wikipedia.org/wiki/Category:伊蘇系列 "wikilink")

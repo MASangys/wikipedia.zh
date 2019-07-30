@@ -12861,59 +12861,35 @@
 
 ## 备注
 
-[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
-[Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink")
+[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink")
 
-1.  *Alien Breed Trilogy* is a compilation of three Xbox Live Arcade
-    games: *[Alien Breed
-    Evolution](https://zh.wikipedia.org/wiki/Alien_Breed_Evolution "wikilink")*,
-    *[Alien Breed 2:
-    Assault](https://zh.wikipedia.org/wiki/Alien_Breed_2:_Assault "wikilink")*,
-    and *[Alien Breed 3:
-    Descent](https://zh.wikipedia.org/wiki/Alien_Breed_3:_Descent "wikilink")*.''
+1.  *Alien Breed Trilogy* is a compilation of three Xbox Live Arcade games: *[Alien Breed Evolution](https://zh.wikipedia.org/wiki/Alien_Breed_Evolution "wikilink")*, *[Alien Breed 2: Assault](https://zh.wikipedia.org/wiki/Alien_Breed_2:_Assault "wikilink")*, and *[Alien Breed 3: Descent](https://zh.wikipedia.org/wiki/Alien_Breed_3:_Descent "wikilink")*.''
 
 2.  Also known as *Field & Stream: Outdoorsman Challenge*.
 
 3.
 
-4.  *Avatar: The Legend of Aang — The Burning Earth* in
-    [Europe](https://zh.wikipedia.org/wiki/Europe "wikilink").
+4.  *Avatar: The Legend of Aang — The Burning Earth* in [Europe](https://zh.wikipedia.org/wiki/Europe "wikilink").
 
-5.  *Beautiful Katamari Damacy* in
-    [Japan](https://zh.wikipedia.org/wiki/Japan "wikilink").
+5.  *Beautiful Katamari Damacy* in [Japan](https://zh.wikipedia.org/wiki/Japan "wikilink").
 
-6.  *BioHazard: Revival Selection* is a compilation of *[Resident Evil
-    Code: Veronica
-    X](https://zh.wikipedia.org/wiki/Resident_Evil_Code:_Veronica_X "wikilink")*
-    and *[Resident Evil
-    4](https://zh.wikipedia.org/wiki/Resident_Evil_4 "wikilink").*
+6.  *BioHazard: Revival Selection* is a compilation of *[Resident Evil Code: Veronica X](https://zh.wikipedia.org/wiki/Resident_Evil_Code:_Veronica_X "wikilink")* and *[Resident Evil 4](https://zh.wikipedia.org/wiki/Resident_Evil_4 "wikilink").*
 
-7.  *The Retail downloadable content packs* which includes the first two
-    episodes of Borderlands DLC: *The Zombie Island of Doctor Ned* and
-    *Mad Moxxi's Underdome Riot* was released on February 23, 2010.
+7.  *The Retail downloadable content packs* which includes the first two episodes of Borderlands DLC: *The Zombie Island of Doctor Ned* and *Mad Moxxi's Underdome Riot* was released on February 23, 2010.
 
-8.  *Borderlands: Game of the Year Edition* was released on October 12,
-    2010 in North America. It was
-    *[Borderlands](https://zh.wikipedia.org/wiki/Borderlands_\(video_game\) "wikilink")*,
-    *The Zombie Island of Dr. Ned*, *Mad Moxxi's Underdome Riot*, *The
-    Secret Armory of General Knoxx* and *Claptrap's New Robot
-    Revolution* combined into one game.
+8.  *Borderlands: Game of the Year Edition* was released on October 12, 2010 in North America. It was *[Borderlands](https://zh.wikipedia.org/wiki/Borderlands_\(video_game\) "wikilink")*, *The Zombie Island of Dr. Ned*, *Mad Moxxi's Underdome Riot*, *The Secret Armory of General Knoxx* and *Claptrap's New Robot Revolution* combined into one game.
 
 9.
 
 10.
 
-11. *Call of Duty 2: Game of the Year Edition* was released on May 26,
-    2006 with some additional content not included in the original game.
-    This extra content was also made available on the [Xbox Live
-    Marketplace](https://zh.wikipedia.org/wiki/Xbox_Live_Marketplace "wikilink").
+11. *Call of Duty 2: Game of the Year Edition* was released on May 26, 2006 with some additional content not included in the original game. This extra content was also made available on the [Xbox Live Marketplace](https://zh.wikipedia.org/wiki/Xbox_Live_Marketplace "wikilink").
 
 12.
 
 13. *Capcom Digital Collection* is a compilation of eight XBLA titles
 
-14. Known simply as *Condemned* in Europe and *Condemned: Psycho Crime*
-    in Asia and Japan.
+14. Known simply as *Condemned* in Europe and *Condemned: Psycho Crime* in Asia and Japan.
 
 15.
 
@@ -12923,13 +12899,9 @@
 
 18.
 
-19. This collection features High-Definition re-masters of the first 3
-    *Devil May Cry* titles originally released on the PS2.
+19. This collection features High-Definition re-masters of the first 3 *Devil May Cry* titles originally released on the PS2.
 
-20. On October 8, 2013, Bethesda published the Dishonored: Game of the
-    Year Edition which contains the full game plus the *Void-Walker's
-    Arsenal*, *Dunwall City Trials*, *The Knife of Dunwall* and *The
-    Brigmore Witches* DLC packs.
+20. On October 8, 2013, Bethesda published the Dishonored: Game of the Year Edition which contains the full game plus the *Void-Walker's Arsenal*, *Dunwall City Trials*, *The Knife of Dunwall* and *The Brigmore Witches* DLC packs.
 
 21. *DoDonPachi Resurrection* in Europe
 
@@ -12945,68 +12917,30 @@
 
 27. *Shin Sangoku Musou MultiRaid Special* in Japan.
 
-28. *[The Elder Scrolls IV: Knights of the
-    Nine](https://zh.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Knights_of_the_Nine "wikilink")*,
-    Oblivion's first expansion pack, was releases on November 21, 2006
-    as downloadable content.
+28. *[The Elder Scrolls IV: Knights of the Nine](https://zh.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Knights_of_the_Nine "wikilink")*, Oblivion's first expansion pack, was releases on November 21, 2006 as downloadable content.
 
-29. *The Elder Scrolls IV: Oblivion Game of the Year Edition* was
-    released on September 10, 2007 in North America and September 21,
-    2007 in Europe. It was *[The Elder Scrolls IV:
-    Oblivion](https://zh.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion "wikilink")*,
-    *The Elder Scrolls IV: Knights of the Nine*, and *[The Elder Scrolls
-    IV: Shivering
-    Isles](https://zh.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Shivering_Isles "wikilink")*
-    combined into one game.
+29. *The Elder Scrolls IV: Oblivion Game of the Year Edition* was released on September 10, 2007 in North America and September 21, 2007 in Europe. It was *[The Elder Scrolls IV: Oblivion](https://zh.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion "wikilink")*, *The Elder Scrolls IV: Knights of the Nine*, and *[The Elder Scrolls IV: Shivering Isles](https://zh.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Shivering_Isles "wikilink")* combined into one game.
 
-30. Originally released as downloadable content on March 26, 2007, but
-    was then re-released in retail form on October 16, 2007.
+30. Originally released as downloadable content on March 26, 2007, but was then re-released in retail form on October 16, 2007.
 
 31. *\[eM\] -eNCHANT arM-* in Japan.
 
-32. *[F.E.A.R. Extraction
-    Point](https://zh.wikipedia.org/wiki/F.E.A.R._Extraction_Point "wikilink")*
-    and *[F.E.A.R. Perseus
-    Mandate](https://zh.wikipedia.org/wiki/F.E.A.R._Perseus_Mandate "wikilink")*
-    combined together into one game.
+32. *[F.E.A.R. Extraction Point](https://zh.wikipedia.org/wiki/F.E.A.R._Extraction_Point "wikilink")* and *[F.E.A.R. Perseus Mandate](https://zh.wikipedia.org/wiki/F.E.A.R._Perseus_Mandate "wikilink")* combined together into one game.
 
 33. <http://www.eurogamer.net/articles/2013-09-13-fable-anniversary-delayed-to-february-2014>
 
 34.
 
 35.
-36. Along with the original game, also includes the first three
-    expansions *[Final Fantasy XI: Rise of the
-    Zilart](https://zh.wikipedia.org/wiki/Final_Fantasy_XI "wikilink")*,
-    *[Final Fantasy XI: Chains of
-    Promathia](https://zh.wikipedia.org/wiki/Final_Fantasy_XI "wikilink")*,
-    and *[Final Fantasy XI: Treasures of Aht
-    Urhgan](https://zh.wikipedia.org/wiki/Final_Fantasy_XI "wikilink")*.
+36. Along with the original game, also includes the first three expansions *[Final Fantasy XI: Rise of the Zilart](https://zh.wikipedia.org/wiki/Final_Fantasy_XI "wikilink")*, *[Final Fantasy XI: Chains of Promathia](https://zh.wikipedia.org/wiki/Final_Fantasy_XI "wikilink")*, and *[Final Fantasy XI: Treasures of Aht Urhgan](https://zh.wikipedia.org/wiki/Final_Fantasy_XI "wikilink")*.
 
 37. *Hokuto Musō* in Japan.
 
 38. *Shin Hokuto Musō* in Japan.
 
-39. An [episodic expansion
-    pack](https://zh.wikipedia.org/wiki/episodic_game "wikilink") titled
-    *[Grand Theft Auto IV: The Lost and
-    Damned](https://zh.wikipedia.org/wiki/Grand_Theft_Auto_IV:_The_Lost_and_Damned "wikilink")*
-    was released exclusively on the [Xbox Live
-    Marketplace](https://zh.wikipedia.org/wiki/Xbox_Live_Marketplace "wikilink")
-    on February 17, 2009. A second episodic expansion pact titled
-    *[Grand Theft Auto: The Ballad of Gay
-    Tony](https://zh.wikipedia.org/wiki/Grand_Theft_Auto:_The_Ballad_of_Gay_Tony "wikilink")*
-    was later released exclusively on the Xbox Live Marketplace on
-    October 29, 2009. Both of these expansion packs were then released
-    in a set titled *[Grand Theft Auto: Episodes from Liberty
-    City](https://zh.wikipedia.org/wiki/Grand_Theft_Auto:_Episodes_from_Liberty_City "wikilink")*
-    exclusively on Xbox 360 on October 29, 2009, but later on
-    PlayStation 3 and Microsoft Windows on April 13, 2010.
+39. An [episodic expansion pack](https://zh.wikipedia.org/wiki/episodic_game "wikilink") titled *[Grand Theft Auto IV: The Lost and Damned](https://zh.wikipedia.org/wiki/Grand_Theft_Auto_IV:_The_Lost_and_Damned "wikilink")* was released exclusively on the [Xbox Live Marketplace](https://zh.wikipedia.org/wiki/Xbox_Live_Marketplace "wikilink") on February 17, 2009. A second episodic expansion pact titled *[Grand Theft Auto: The Ballad of Gay Tony](https://zh.wikipedia.org/wiki/Grand_Theft_Auto:_The_Ballad_of_Gay_Tony "wikilink")* was later released exclusively on the Xbox Live Marketplace on October 29, 2009. Both of these expansion packs were then released in a set titled *[Grand Theft Auto: Episodes from Liberty City](https://zh.wikipedia.org/wiki/Grand_Theft_Auto:_Episodes_from_Liberty_City "wikilink")* exclusively on Xbox 360 on October 29, 2009, but later on PlayStation 3 and Microsoft Windows on April 13, 2010.
 
-40. A compilation of *[Grand Theft Auto IV: The Lost and
-    Damned](https://zh.wikipedia.org/wiki/Grand_Theft_Auto_IV:_The_Lost_and_Damned "wikilink")*
-    and *[Grand Theft Auto: The Ballad of Gay
-    Tony](https://zh.wikipedia.org/wiki/Grand_Theft_Auto:_The_Ballad_of_Gay_Tony "wikilink")*.
+40. A compilation of *[Grand Theft Auto IV: The Lost and Damned](https://zh.wikipedia.org/wiki/Grand_Theft_Auto_IV:_The_Lost_and_Damned "wikilink")* and *[Grand Theft Auto: The Ballad of Gay Tony](https://zh.wikipedia.org/wiki/Grand_Theft_Auto:_The_Ballad_of_Gay_Tony "wikilink")*.
 
 41.
 
@@ -13016,15 +12950,11 @@
 
 44. <http://news.xbox.com/2013/10/games-halo-spartan-assault>
 
-45. *Shutokou Battle Ten* in
-    [Japan](https://zh.wikipedia.org/wiki/Japan "wikilink").
+45. *Shutokou Battle Ten* in [Japan](https://zh.wikipedia.org/wiki/Japan "wikilink").
 
-46. *Drift Nights: Juiced 2* in
-    [Japan](https://zh.wikipedia.org/wiki/Japan "wikilink").
+46. *Drift Nights: Juiced 2* in [Japan](https://zh.wikipedia.org/wiki/Japan "wikilink").
 
-47. Rockstar Games released a Complete Edition of the game that included
-    all DLC content in addition to the original game, released on
-    November 15, 2011 in the US and November 18, 2011 in the UK.
+47. Rockstar Games released a Complete Edition of the game that included all DLC content in addition to the original game, released on November 15, 2011 in the US and November 18, 2011 in the UK.
 
 48.
 
@@ -13032,37 +12962,23 @@
 
 50. *Mobile Suit Gundam Operation: Troy* in Japan.
 
-51. *MuvLuv Twin Pack* is a compilation of *MuvLuv* and *MuvLuv
-    Alternative*.
+51. *MuvLuv Twin Pack* is a compilation of *MuvLuv* and *MuvLuv Alternative*.
 
 52.
 
 53.
 
 54.
-55. *NCAA Basketball 09: March Madness Edition*, a downloadable
-    expansion for *NCAA Basketball 09*, was released on March 11, 2009.
+55. *NCAA Basketball 09: March Madness Edition*, a downloadable expansion for *NCAA Basketball 09*, was released on March 11, 2009.
 
 56.
 
 57.
 58.
 
-59. *[Half-Life
-    2](https://zh.wikipedia.org/wiki/Half-Life_2 "wikilink")*,
-    *[Half-Life 2: Episode
-    One](https://zh.wikipedia.org/wiki/Half-Life_2:_Episode_One "wikilink")*,
-    *[Half-Life 2: Episode
-    Two](https://zh.wikipedia.org/wiki/Half-Life_2:_Episode_Two "wikilink")*,
-    *[Portal](https://zh.wikipedia.org/wiki/Portal_\(video_game\) "wikilink")*,
-    and *[Team Fortress
-    2](https://zh.wikipedia.org/wiki/Team_Fortress_2 "wikilink")*
-    combined together into one game.
+59. *[Half-Life 2](https://zh.wikipedia.org/wiki/Half-Life_2 "wikilink")*, *[Half-Life 2: Episode One](https://zh.wikipedia.org/wiki/Half-Life_2:_Episode_One "wikilink")*, *[Half-Life 2: Episode Two](https://zh.wikipedia.org/wiki/Half-Life_2:_Episode_Two "wikilink")*, *[Portal](https://zh.wikipedia.org/wiki/Portal_\(video_game\) "wikilink")*, and *[Team Fortress 2](https://zh.wikipedia.org/wiki/Team_Fortress_2 "wikilink")* combined together into one game.
 
-60. *[Overlord: Raising
-    Hell](https://zh.wikipedia.org/wiki/Overlord:_Raising_Hell "wikilink")*,
-    an expansion for the original game was released over [Xbox
-    Live](../Page/Xbox_Live.md "wikilink") on February 15, 2008
+60. *[Overlord: Raising Hell](https://zh.wikipedia.org/wiki/Overlord:_Raising_Hell "wikilink")*, an expansion for the original game was released over [Xbox Live](../Page/Xbox_Live.md "wikilink") on February 15, 2008
 
 61.
 
@@ -13071,26 +12987,11 @@
 64.
 
 65.
-66. *[Phantasy Star Universe: Ambition of the
-    Illuminus](https://zh.wikipedia.org/wiki/Phantasy_Star_Universe:_Ambition_of_the_Illuminus "wikilink")*,
-    an expansion pack to the original game, was released over Xbox Live
-    on November 20, 2007.
+66. *[Phantasy Star Universe: Ambition of the Illuminus](https://zh.wikipedia.org/wiki/Phantasy_Star_Universe:_Ambition_of_the_Illuminus "wikilink")*, an expansion pack to the original game, was released over Xbox Live on November 20, 2007.
 
-67. *PopCap Arcade Volume 1* is a compilation of four Xbox Live Arcade
-    Games:
-    *[Astropop](https://zh.wikipedia.org/wiki/Astropop "wikilink")*,
-    *[Bejeweled
-    2](https://zh.wikipedia.org/wiki/Bejeweled_2 "wikilink")*, *[Feeding
-    Frenzy](https://zh.wikipedia.org/wiki/Feeding_Frenzy_\(video_game\) "wikilink")*,
-    and
-    *[Zuma](https://zh.wikipedia.org/wiki/Zuma_\(video_game\) "wikilink")*.
+67. *PopCap Arcade Volume 1* is a compilation of four Xbox Live Arcade Games: *[Astropop](https://zh.wikipedia.org/wiki/Astropop "wikilink")*, *[Bejeweled 2](https://zh.wikipedia.org/wiki/Bejeweled_2 "wikilink")*, *[Feeding Frenzy](https://zh.wikipedia.org/wiki/Feeding_Frenzy_\(video_game\) "wikilink")*, and *[Zuma](https://zh.wikipedia.org/wiki/Zuma_\(video_game\) "wikilink")*.
 
-68. *PopCap Arcade Volume 2* is a compilation of three Xbox Live Arcade
-    Games: *[Feeding Frenzy 2: Shipwreck
-    Showdown](https://zh.wikipedia.org/wiki/Feeding_Frenzy_2:_Shipwreck_Showdown "wikilink")*,
-    *[Heavy
-    Weapon](https://zh.wikipedia.org/wiki/Heavy_Weapon "wikilink")*, and
-    *[Peggle](https://zh.wikipedia.org/wiki/Peggle "wikilink")*.
+68. *PopCap Arcade Volume 2* is a compilation of three Xbox Live Arcade Games: *[Feeding Frenzy 2: Shipwreck Showdown](https://zh.wikipedia.org/wiki/Feeding_Frenzy_2:_Shipwreck_Showdown "wikilink")*, *[Heavy Weapon](https://zh.wikipedia.org/wiki/Heavy_Weapon "wikilink")*, and *[Peggle](https://zh.wikipedia.org/wiki/Peggle "wikilink")*.
 
 69. *World Soccer Winning Eleven 2008* in Japan.
 
@@ -13104,32 +13005,19 @@
 
 74. *World Soccer Winning Eleven 2013* in Japan
 
-75. *Winning Eleven: Pro Evolution Soccer 2007* in North America and
-    *World Soccer Winning Eleven X* in Japan.
+75. *Winning Eleven: Pro Evolution Soccer 2007* in North America and *World Soccer Winning Eleven X* in Japan.
 
 76.
 
 77. Also known as *Pure Futbol* in North America.
 
-78. *[Quake II](https://zh.wikipedia.org/wiki/Quake_II "wikilink")* was
-    included with the bonus disc that came with *Quake 4*.
+78. *[Quake II](https://zh.wikipedia.org/wiki/Quake_II "wikilink")* was included with the bonus disc that came with *Quake 4*.
 
 79.
 
-80. *Qubed* is a compilation of three [Xbox Live
-    Arcade](https://zh.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")
-    games: *[Every Extend Extra
-    Extreme](https://zh.wikipedia.org/wiki/Every_Extend_Extra_Extreme "wikilink")*,
-    *[Lumines
-    Live\!](https://zh.wikipedia.org/wiki/Lumines_Live! "wikilink")*,
-    and *[Rez HD](https://zh.wikipedia.org/wiki/Rez_HD "wikilink")*.
+80. *Qubed* is a compilation of three [Xbox Live Arcade](https://zh.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink") games: *[Every Extend Extra Extreme](https://zh.wikipedia.org/wiki/Every_Extend_Extra_Extreme "wikilink")*, *[Lumines Live\!](https://zh.wikipedia.org/wiki/Lumines_Live! "wikilink")*, and *[Rez HD](https://zh.wikipedia.org/wiki/Rez_HD "wikilink")*.
 
-81. An expansion pack titled *[Red Dead Redemption: Undead
-    Nightmare](https://zh.wikipedia.org/wiki/Red_Dead_Redemption:_Undead_Nightmare "wikilink")*
-    was later released on October 26, 2010, on the [Xbox Live
-    Marketplace](https://zh.wikipedia.org/wiki/Xbox_Live_Marketplace "wikilink")
-    and the [PlayStation
-    Network](../Page/PlayStation_Network.md "wikilink").
+81. An expansion pack titled *[Red Dead Redemption: Undead Nightmare](https://zh.wikipedia.org/wiki/Red_Dead_Redemption:_Undead_Nightmare "wikilink")* was later released on October 26, 2010, on the [Xbox Live Marketplace](https://zh.wikipedia.org/wiki/Xbox_Live_Marketplace "wikilink") and the [PlayStation Network](../Page/PlayStation_Network.md "wikilink").
 
 82. *BioHazard* in Japan.
 
@@ -13150,15 +13038,9 @@
 90.
 
 91.
-92. Collects *Serious Sam HD: The First Encounter*, *Serious Sam HD: The
-    Second Encounter*, ''Serious Sam: BFE (and its Jewel of the Nile
-    DLC) and *Serious Sam Double-D XXL*, originally only available in
-    digital download form onto a single DVD disc.
+92. Collects *Serious Sam HD: The First Encounter*, *Serious Sam HD: The Second Encounter*, ''Serious Sam: BFE (and its Jewel of the Nile DLC) and *Serious Sam Double-D XXL*, originally only available in digital download form onto a single DVD disc.
 
-93. *Trizeal Remix*, a new version of
-    *[Trizeal](https://zh.wikipedia.org/wiki/Trizeal "wikilink")*, and
-    *[Exzeal](https://zh.wikipedia.org/wiki/Exzeal "wikilink")* combined
-    together into one game.
+93. *Trizeal Remix*, a new version of *[Trizeal](https://zh.wikipedia.org/wiki/Trizeal "wikilink")*, and *[Exzeal](https://zh.wikipedia.org/wiki/Exzeal "wikilink")* combined together into one game.
 
 94. *Sonic World Adventure* in Japan.
 
@@ -13166,10 +13048,7 @@
 
 96. working title *SSX:Deadly Descents*
 
-97. *Steins;Gate Double Pack* is a compilation of
-    *[Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")*
-    and *[Steins;Gate: Hiyoku Renri no
-    Darling](https://zh.wikipedia.org/wiki/Steins;Gate:_Hiyoku_Renri_no_Darling "wikilink")*.
+97. *Steins;Gate Double Pack* is a compilation of *[Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")* and *[Steins;Gate: Hiyoku Renri no Darling](https://zh.wikipedia.org/wiki/Steins;Gate:_Hiyoku_Renri_no_Darling "wikilink")*.
 
 98. *Tenchu Senran* in Japan.
 
@@ -13178,17 +13057,11 @@
 100.
 101.
 
-102. Formerly known as *[Zephyr: Rise of the
-     Elementals](https://zh.wikipedia.org/wiki/Zephyr:_Rise_of_the_Elementals "wikilink")*.
+102. Formerly known as *[Zephyr: Rise of the Elementals](https://zh.wikipedia.org/wiki/Zephyr:_Rise_of_the_Elementals "wikilink")*.
 
-103. *Virtua Fighter 5 Live Arena* in Japan and titled *Virtua Fighter
-     5* with no subtitle in
-     [Europe](https://zh.wikipedia.org/wiki/Europe "wikilink") and
-     [Australia](https://zh.wikipedia.org/wiki/Australia "wikilink").
+103. *Virtua Fighter 5 Live Arena* in Japan and titled *Virtua Fighter 5* with no subtitle in [Europe](https://zh.wikipedia.org/wiki/Europe "wikilink") and [Australia](https://zh.wikipedia.org/wiki/Australia "wikilink").
 
-104. *[Warhammer: Mark of
-     Chaos](https://zh.wikipedia.org/wiki/Warhammer:_Mark_of_Chaos "wikilink")*
-     and its upcoming expansion pack combined together into one game.
+104. *[Warhammer: Mark of Chaos](https://zh.wikipedia.org/wiki/Warhammer:_Mark_of_Chaos "wikilink")* and its upcoming expansion pack combined together into one game.
 
 105. Musō Orochi in Japan
 
@@ -13198,7 +13071,6 @@
 
 108. *Ressuru Kingudamu* in Japan.
 
-109. This is a high-definition remastering of the first three games in
-     the series.
+109. This is a high-definition remastering of the first three games in the series.
 
 110.

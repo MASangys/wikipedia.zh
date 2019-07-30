@@ -1,5 +1,4 @@
-《**Wings.io**》是一個由Wings.io在2016年推出的一款大型多人動作遊戲.
-玩家化身為飛機，並想辦法殺死其它對手以擠進排行榜。這個遊戲跟《[Agar.io](../Page/Agar.io.md "wikilink")》和《[Slither.io](../Page/Slither.io.md "wikilink")》有很大的相似之處。
+《**Wings.io**》是一個由Wings.io在2016年推出的一款大型多人動作遊戲. 玩家化身為飛機，並想辦法殺死其它對手以擠進排行榜。這個遊戲跟《[Agar.io](../Page/Agar.io.md "wikilink")》和《[Slither.io](../Page/Slither.io.md "wikilink")》有很大的相似之處。
 
 ## 開發
 
@@ -45,9 +44,6 @@ Wings.io有時在特定時候會有特殊模式；特殊模式有以下三種:
 
 玩家擁有無限制的雷射武器，玩家被雷射打中便立即死亡。進入此模式後分數重新計算，殺死一名玩家得一分。模式時間為五分鐘。出現時間為隨機。
 
-[Category:2016年电子游戏](https://zh.wikipedia.org/wiki/Category:2016年电子游戏 "wikilink")
-[Category:基于浏览器的多人在线游戏](https://zh.wikipedia.org/wiki/Category:基于浏览器的多人在线游戏 "wikilink")
-[Category:战略游戏](https://zh.wikipedia.org/wiki/Category:战略游戏 "wikilink")
-[Category:.io遊戲](https://zh.wikipedia.org/wiki/Category:.io遊戲 "wikilink")
+[Category:2016年电子游戏](https://zh.wikipedia.org/wiki/Category:2016年电子游戏 "wikilink") [Category:基于浏览器的多人在线游戏](https://zh.wikipedia.org/wiki/Category:基于浏览器的多人在线游戏 "wikilink") [Category:战略游戏](https://zh.wikipedia.org/wiki/Category:战略游戏 "wikilink") [Category:.io遊戲](https://zh.wikipedia.org/wiki/Category:.io遊戲 "wikilink")
 
 1.  [1](http://wings.io/more_info)

@@ -1,18 +1,13 @@
-《**劇場版 假面騎士Build Be The
-One**》（），是日本特攝節目《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》的獨立劇場版\[1\]\[2\]。日本地區預定於2018年8月4日上映。香港方面，已經於2018年11月22日上映
+《**劇場版 假面騎士Build Be The One**》（），是日本特攝節目《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》的獨立劇場版\[1\]\[2\]。日本地區預定於2018年8月4日上映。香港方面，已經於2018年11月22日上映
 
-此外《[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")》的作品《[快盜戰隊魯邦連者VS警察戰隊巡邏連者](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者.md "wikilink")》劇場版《[快盜戰隊魯邦連者VS警察戰隊巡邏連者
-en
-film](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film.md "wikilink")》亦同步上映\[3\]\[4\]。
+此外《[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")》的作品《[快盜戰隊魯邦連者VS警察戰隊巡邏連者](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者.md "wikilink")》劇場版《[快盜戰隊魯邦連者VS警察戰隊巡邏連者 en film](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film.md "wikilink")》亦同步上映\[3\]\[4\]。
 
 本作劇場版的口號為「來吧！最後的實驗要開始了！」和「創造未來，只有一個答案。」。
 
 ## 本作特色
 
   - 本作劇場版時間點位於三都大戰結束後，并設定於第45至46話之間。
-  - 本作繼《[假面騎士555 消失的天堂](../Page/假面騎士555_消失的天堂.md "wikilink")》和《[劇場版
-    假面騎士Drive Surprise
-    Future](../Page/劇場版_假面騎士Drive_Surprise_Future.md "wikilink")》後，再次出現假面騎士被列為全民公敵的設定。
+  - 本作繼《[假面騎士555 消失的天堂](../Page/假面騎士555_消失的天堂.md "wikilink")》和《[劇場版 假面騎士Drive Surprise Future](../Page/劇場版_假面騎士Drive_Surprise_Future.md "wikilink")》後，再次出現假面騎士被列為全民公敵的設定。
   - 本作繼《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》後再次出現由二人共同变身成一體的騎士。
   - 下部系列作《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的主角騎士假面騎士ZI-O將在本作中先行登場。亦是歷代平成假面騎士20位的原班人馬。
 
@@ -20,8 +15,7 @@ film](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film.md "wik
 
 東都、西都、北都。擴及三個首都的戰爭終於結束，而在潘朵拉之塔下新政府建立，而三個首都，皆設立取代首相的位置的知事，並確定以和平為主的全新體制－－本應該如此...。
 
-但這一切，都只是為了消滅掉「假面騎士Build /
-桐生戰兔」，及將真相隱藏起來的完美計劃。在失去了最好的拍擋下，從最惡劣的狀況中所推斷出的答案，就是奇跡的法則！
+但這一切，都只是為了消滅掉「假面騎士Build / 桐生戰兔」，及將真相隱藏起來的完美計劃。在失去了最好的拍擋下，從最惡劣的狀況中所推斷出的答案，就是奇跡的法則！
 
 為何創造驅動器必須使用兩枚瓶子呢？為何假面騎士Build / 桐生戰兔得要戰鬥呢？答案，只有一個！
 
@@ -43,17 +37,40 @@ film](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film.md "wik
     原文： / *To Chiji*
     在騎士戰爭告一段落後，所取代首相一职的一种政府架构，并以潘朵拉之塔為新政府的創立之地。
     目前已知的三都知事有伊能賢剛（東都）、鄉原光臣（西都）和才賀涼香（北都），但他们三人都是来自血族的人
-    顺带一提，此架构是為在艾博魯特大敗後接替了它那消灭地球的使命而設的，甚至還暗地里策划了消灭假面骑士，尤其是Build
-    的阴谋，以便提升自己的危險等级。
+    顺带一提，此架构是為在艾博魯特大敗後接替了它那消灭地球的使命而設的，甚至還暗地里策划了消灭假面骑士，尤其是Build 的阴谋，以便提升自己的危險等级。
     随着日本三都知事的全军覆没，他们的计划也因此告吹。
 
 ## 登場人物
 
 ### 《假面騎士Build》原登場人物
 
+****（[犬飼貴丈](../Page/犬飼貴丈.md "wikilink")飾）
+
+****（飾）
+
+****（飾）
+
+****（飾）
+
+****（飾）
+
+****（[小久保丈二飾](https://zh.wikipedia.org/wiki/小久保丈二 "wikilink")）
+
+**** （[木山廉彬飾](https://zh.wikipedia.org/wiki/木山廉彬 "wikilink")）
+
+****（[瀧裕可里飾](https://zh.wikipedia.org/wiki/瀧裕可里 "wikilink")）
+
+****（飾）
+
+****（[前川泰之飾](https://zh.wikipedia.org/wiki/前川泰之 "wikilink")）
+
+****（[金尾哲夫聲](https://zh.wikipedia.org/wiki/金尾哲夫 "wikilink")）
+
+****（雨宮天聲）
+
 ### 本作登場人物
 
-**伊能賢剛（）**（[勝村政信飾](../Page/勝村政信.md "wikilink")）
+**伊能賢剛（）**（[勝村政信](../Page/勝村政信.md "wikilink")飾）
 
   -
     前任宇航員，現任東都的都知事，也是'''假面騎士Blood '''的變身者。
@@ -69,7 +86,7 @@ film](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film.md "wik
     曾提議將萬丈的戀人——小倉香澄SMASH 化，亦是消除鍋島關於萬丈的記憶的人物。
     最後被假面騎士Grease擊倒。
 
-**才賀涼香（）**（[松井玲奈飾](../Page/松井玲奈.md "wikilink")）
+**才賀涼香（）**（[松井玲奈](../Page/松井玲奈.md "wikilink")飾）
 
   -
     前任宇航員，現任北都的都知事，也是剪刀Lost SMASH 的變身者。
@@ -78,12 +95,24 @@ film](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film.md "wik
 
 **舞原由宇（）**（[呼春飾](https://zh.wikipedia.org/wiki/呼春 "wikilink")）、**舞原新汰（）**（[鶴翔麒飾](https://zh.wikipedia.org/wiki/鶴翔麒 "wikilink")）
 
+舞原新汰（鶴翔麒飾）
+
+新聞主播（池田沙繪美飾）
+
+氣象主播（吉田愛梨飾）
+
+記者（內村麻美飾）
+
+市民（しいはしジャスタウェイ飾）
+
+**假面騎士ZI-O**（聲演）\[8\]
+
 ## 本作限定登場假面騎士/形態
 
 ### 假面騎士Build
 
   -
-    變身者：桐生戰兔+萬丈龍我\[8\]（替身演員：高岩成二、CV：犬飼貴丈+赤楚衛二）
+    變身者：桐生戰兔+萬丈龍我\[9\]（替身演員：高岩成二、CV：犬飼貴丈+赤楚衛二）
     原文： / *Kamen Rider Build*
 
 #### 變身模式
@@ -99,9 +128,9 @@ film](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film.md "wik
 <td><p><strong>必殺技</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center;background-color:|<strong></strong><br />
-<strong></strong></p></td>
-<td><p>原文：[9]<br />
+<td><p><strong>Cross-ZBuild</strong><br />
+<strong>迫近創造</strong></p></td>
+<td><p>原文：[10]<br />
 配合創造驅動器及使用「Cross-ZBuild 罐」變身的形態<br />
 身高：197.6cm<br />
 體重：111.1kg<br />
@@ -134,7 +163,7 @@ film](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film.md "wik
 
 ### 假面騎士Blood
 
-變身者：伊能賢剛\[10\]（替身演員：今井靖彥、CV：勝村政信）
+變身者：伊能賢剛\[11\]（替身演員：今井靖彥、CV：勝村政信）
 
   -
     原文： / *Kamen Rider Blood*
@@ -152,7 +181,7 @@ film](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film.md "wik
 <td><p><strong>必殺技</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center;background-color:|<font color=D4AF37>Cobra Form<br />
+<td><p>Cobra Form<br />
 <strong>眼鏡蛇形態</strong></font></p></td>
 <td><p>原文：<br />
 配合創造驅動器及使用「Great Cross-Z Dragon」搭配「Cobra」失落滿裝瓶加上「Hazard Trigger」變身的形態<br />
@@ -163,7 +192,7 @@ film](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film.md "wik
 跳躍力：82.5m<br />
 行動速度：100m / 0.9秒</p></td>
 <td><p>全身以黑、暗紅、金屬金、鈷藍色為主，左、右眼都為龍+蛇首的圖示</p></td>
-<td><p>與假面騎士Cross-Z 极致形態的音效同样，都是「Wake Up Cross-Z！Get Great Dragon！」（日本原文：「」中文意思：「覺醒中迫近！極致龍！」）[11]。</p></td>
+<td><p>與假面騎士Cross-Z 极致形態的音效同样，都是「Wake Up Cross-Z！Get Great Dragon！」（日本原文：「」中文意思：「覺醒中迫近！極致龍！」）[12]。</p></td>
 <td><p>基础形態，擁有眼镜蛇般的毒攻能力、比假面騎士Build 天才形態更強的戰鬥力和自身飛行能力。</p></td>
 <td><p><strong>Hazard Finish :<br />
 Great Dragonic Finish</strong><br />
@@ -309,7 +338,7 @@ Great Dragonic Finish</strong><br />
 <td><p>眼鏡蛇</p></td>
 <td><p>C</p></td>
 <td><p>生物</p></td>
-<td><p>擁有<a href="../Page/眼鏡蛇.md" title="wikilink">眼鏡蛇般的毒攻能力</a>。</p></td>
+<td><p>擁有<a href="../Page/眼鏡蛇.md" title="wikilink">眼鏡蛇</a>般的毒攻能力。</p></td>
 <td><p>此失落滿裝瓶由Faust 製「Cobra」滿裝瓶變化而成的。<br />
 現目前由艾博魯特所持有，之後由伊能賢剛所持有。</p></td>
 </tr>
@@ -318,7 +347,7 @@ Great Dragonic Finish</strong><br />
 <td><p>シマウマ</p></td>
 <td><p>斑馬</p></td>
 <td><p>S</p></td>
-<td><p>擁有<a href="../Page/斑馬.md" title="wikilink">斑馬般的條紋和隱蔽能力</a>。</p></td>
+<td><p>擁有<a href="../Page/斑馬.md" title="wikilink">斑馬</a>般的條紋和隱蔽能力。</p></td>
 <td><p>此失落滿裝瓶由Faust 製「Shimauma」滿裝瓶變化而成的。<br />
 現目前由艾博魯特所持有，之後由鄉原光臣所持有。</p></td>
 <td></td>
@@ -329,7 +358,7 @@ Great Dragonic Finish</strong><br />
 <td><p>剪刀</p></td>
 <td><p>H</p></td>
 <td><p>非生物</p></td>
-<td><p>擁有<a href="../Page/剪刀.md" title="wikilink">剪刀般的剪斷能力</a>。</p></td>
+<td><p>擁有<a href="../Page/剪刀.md" title="wikilink">剪刀</a>般的剪斷能力。</p></td>
 <td><p>此失落滿裝瓶由Faust 製「Hasami」滿裝瓶變化而成的。<br />
 現目前由艾博魯特所持有，之後由才賀涼香所持有。</p></td>
 </tr>
@@ -353,13 +382,9 @@ Great Dragonic Finish</strong><br />
 
   -
     原文： / *Great Cross-Z Dragon*
-    迫近之龍的改色個體，也是假面騎士Cross-Z 和假面騎士Blood
-    的變身道具，第37話因萬丈龍我的戰鬥意志力恢复，加上「龍（Dragon）」進化瓶進化成紅金色的「極致龍（Great
-    Dragon）」進化瓶的缘故，使得所裝置的迫近之龍本身亦跟着進化。
+    迫近之龍的改色個體，也是假面騎士Cross-Z 和假面騎士Blood 的變身道具，第37話因萬丈龍我的戰鬥意志力恢复，加上「龍（Dragon）」進化瓶進化成紅金色的「極致龍（Great Dragon）」進化瓶的缘故，使得所裝置的迫近之龍本身亦跟着進化。
     配合創造驅動器可使假面騎士Cross-Z變身成「極致形態（Great Form）」或搭配危險扳機變身成「假面骑士Blood」。
-    插入「極致龍（Great
-    Dragon）」進化瓶或「眼镜蛇（Cobra）」滿裝瓶的音效為「覺醒\!」（原文「」），再插入創造驅動器的音效為「Great
-    Cross-Z Dragon」（原文「」）。
+    插入「極致龍（Great Dragon）」進化瓶或「眼镜蛇（Cobra）」滿裝瓶的音效為「覺醒\!」（原文「」），再插入創造驅動器的音效為「Great Cross-Z Dragon」（原文「」）。
     當配合創造驅動器時使用必殺技的音效為「Ready Go！Great Dragonic Finish\! 」（原文「」）。
 
 <!-- end list -->
@@ -370,11 +395,9 @@ Great Dragonic Finish</strong><br />
 
   -
     原文： / *Cross-ZBuild Can*
-    桐生戰兔以「金兔（Gold Rabbit）」和「銀龍（Silver
-    Dragon）」兩個滿裝瓶的性能為藍本，再借着「天才（Genius）」滿裝瓶的特性和贝鲁娜姬的力量，最新開發出來的進化道具。
+    桐生戰兔以「金兔（Gold Rabbit）」和「銀龍（Silver Dragon）」兩個滿裝瓶的性能為藍本，再借着「天才（Genius）」滿裝瓶的特性和贝鲁娜姬的力量，最新開發出來的進化道具。
     外型仿造於兔子坦克氣泡，而且颜色较為鲜艳浓烈，以右銀龍眼和左金兔眼為造型，中间下方為写有該罐的名字。
-    配合創造驅動器可使假面騎士Build 變身成另一个最终形態——「迫近創造形態（Cross-ZBuild
-    Form）」，但解除变身後會随之消散。
+    配合創造驅動器可使假面騎士Build 變身成另一个最终形態——「迫近創造形態（Cross-ZBuild Form）」，但解除变身後會随之消散。
 
 ## 其他相關放映
 
@@ -390,7 +413,7 @@ Great Dragonic Finish</strong><br />
 
 ### 插入曲
 
-## 皮套演出
+### 皮套演出
 
   - 高岩成二
   - 永德
@@ -417,21 +440,17 @@ Great Dragonic Finish</strong><br />
 
 ## 参考资料
 
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
-[Category:2018年日本電影](https://zh.wikipedia.org/wiki/Category:2018年日本電影 "wikilink")
+[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:2018年日本電影](https://zh.wikipedia.org/wiki/Category:2018年日本電影 "wikilink")
 
-1.  [劇場版『仮面ライダービルド』の正式タイトルが『Be the
-    one』に決定！ポスターも公開！](https://www.frc-watashi.info/kamenrider-build-summer-movie-title-be-the-one)
-2.  [「ビルド殲滅計画」始動　国民もクローズも敵に？　劇場版「Be The
-    One」予告解禁](https://mainichi.jp/articles/20180610/dyo/00m/200/039000c)
+1.  [劇場版『仮面ライダービルド』の正式タイトルが『Be the one』に決定！ポスターも公開！](https://www.frc-watashi.info/kamenrider-build-summer-movie-title-be-the-one)
+2.  [「ビルド殲滅計画」始動　国民もクローズも敵に？　劇場版「Be The One」予告解禁](https://mainichi.jp/articles/20180610/dyo/00m/200/039000c)
 3.
 4.  [劇場版「仮面ライダービルド」「ルパパト」最新ポスタービジュアル＆予告映像をチェック！](https://animeanime.jp/article/2018/06/11/38090.html)
 5.  現為日本三名都知事
 6.  就因为是低温，所以這可能是血族唯一的致命傷
 7.  在使用危險扳機的情况下
-8.  其实那是因为龍我太靠近戰兔的关系而造成的意外，两人的意识融合為一體後所變身而成，类似於假面騎士W
-9.
-10. （變身條件需要有融合萬丈龍我的肉體以及鄉原光臣和才賀涼香兩人）
-11. 只不過在使用「Hazard
-    Trigger」和「眼鏡蛇（Cobra）」失落滿裝瓶的情況下追加了「BlaBlaBlaBlaBlood！」（原文「ブラブラブラブラブラッド！」,
-    「Overflow！」和「Yabei！」的额外音效
+8.
+9.  其实那是因为龍我太靠近戰兔的关系而造成的意外，两人的意识融合為一體後所變身而成，类似於假面騎士W
+10.
+11. （變身條件需要有融合萬丈龍我的肉體以及鄉原光臣和才賀涼香兩人）
+12. 只不過在使用「Hazard Trigger」和「眼鏡蛇（Cobra）」失落滿裝瓶的情況下追加了「BlaBlaBlaBlaBlood！」（原文「ブラブラブラブラブラッド！」, 「Overflow！」和「Yabei！」的额外音效

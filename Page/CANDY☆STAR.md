@@ -1,5 +1,7 @@
 **CANDY☆STAR**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[女子偶像團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，2009年2月16日成立於[高雄市](../Page/高雄市.md "wikilink")。初期以cover日系[動畫歌曲](../Page/動畫歌曲.md "wikilink")、[遊戲歌曲及](https://zh.wikipedia.org/wiki/遊戲歌曲 "wikilink")[秋葉原系偶像團體曲目為主](https://zh.wikipedia.org/wiki/秋葉原系 "wikilink")；2014年夏天發行首張原創單曲CD、2015年發行首張原創迷你專輯開始，逐漸以原創曲目作為演出重心。
 
+[CSLOGO1.jpg](https://zh.wikipedia.org/wiki/File:CSLOGO1.jpg "fig:CSLOGO1.jpg")
+
 [Candy_Star_members_at_ROCKS_20180609.jpg](https://zh.wikipedia.org/wiki/File:Candy_Star_members_at_ROCKS_20180609.jpg "fig:Candy_Star_members_at_ROCKS_20180609.jpg")
 
 [Candy_Star_members_on_Userjoy_booth_stage_20190126.jpg](https://zh.wikipedia.org/wiki/File:Candy_Star_members_on_Userjoy_booth_stage_20190126.jpg "fig:Candy_Star_members_on_Userjoy_booth_stage_20190126.jpg")
@@ -10,41 +12,38 @@
 
 ## 概要
 
-2009年CANDY☆STAR成立於高雄市，是一群懷抱夢想的女孩們為了推廣喜愛的文化與事物而成立的日系舞蹈表演團體，以日本[秋葉原](../Page/秋葉原.md "wikilink")[女僕咖啡廳的女僕風格服裝的主要識別表徵](../Page/女僕咖啡廳.md "wikilink")，為台灣最早之秋葉原系獨立偶像團體之一。
+2009年CANDY☆STAR成立於高雄市，是一群懷抱夢想的女孩們為了推廣喜愛的文化與事物而成立的日系舞蹈表演團體，以日本[秋葉原](../Page/秋葉原.md "wikilink")[女僕咖啡廳](../Page/女僕咖啡廳.md "wikilink")的女僕風格服裝的主要識別表徵，為台灣最早之秋葉原系獨立偶像團體之一。
 
 [缩略图](https://zh.wikipedia.org/wiki/File:20160904_台湾音楽祭_with_熱闘アイドル甲子園.jpg "fig:缩略图")
 
 從2009年8月29日在[2009高雄動漫展初次登場以來](../Page/開拓動漫祭.md "wikilink")，即廣泛活躍於台灣各大動漫祭與展覽活動，以cover日本女僕偶像團體歌曲、ACG歌曲、秋葉原系偶像歌曲為主要表演內容。從2014年開始陸續發表原創單曲，在表演曲目比重上逐漸以原創為主，逐漸趨近日系偶像團體的演出風格。
 
-近年來積極參與台日文化交流活動，於2011年及2013年榮獲台灣AKB48表演大賽冠軍、2011年AKB48才藝表演大賽亞洲總決賽準優勝；近年來更積極參加由台、日偶像擔綱的各式現場演唱會，並受邀至日本東京秋葉原「**[秋フェス](https://zh.wikipedia.org/wiki/秋フェス "wikilink")**」、[熊本縣](../Page/熊本縣.md "wikilink")[熊本市](../Page/熊本市.md "wikilink")「****」演出，並在東京澀谷、新宿的
-live house 參加獨立系偶像為主的公演。
+近年來積極參與台日文化交流活動，於2011年及2013年榮獲台灣AKB48表演大賽冠軍、2011年AKB48才藝表演大賽亞洲總決賽準優勝；近年來更積極參加由台、日偶像擔綱的各式現場演唱會，並受邀至日本東京秋葉原「**[秋フェス](https://zh.wikipedia.org/wiki/秋フェス "wikilink")**」、[熊本縣](../Page/熊本縣.md "wikilink")[熊本市](../Page/熊本市.md "wikilink")「****」演出，並在東京澀谷、新宿的 live house 參加獨立系偶像為主的公演。
 
-2014年8月第15屆[漫畫博覽會開始](https://zh.wikipedia.org/wiki/漫畫博覽會 "wikilink")，連續4年、共計9次與「**[LittleAKIBA
-Project](https://zh.wikipedia.org/wiki/LittleAKIBA_Project "wikilink")**」合作，在漫畫博覽會、[台北國際動漫節](https://zh.wikipedia.org/wiki/台北國際動漫節 "wikilink")、[秋フェス](https://zh.wikipedia.org/wiki/秋フェス "wikilink")、[開拓動漫祭](../Page/開拓動漫祭.md "wikilink")、[高雄國際動漫節](https://zh.wikipedia.org/wiki/高雄國際動漫節 "wikilink")、[Touch
-the
-Japan等活動出展並進行多場演出](https://zh.wikipedia.org/wiki/Touch_the_Japan "wikilink")。
+2014年8月第15屆[漫畫博覽會開始](https://zh.wikipedia.org/wiki/漫畫博覽會 "wikilink")，連續4年、共計9次與「**[LittleAKIBA Project](https://zh.wikipedia.org/wiki/LittleAKIBA_Project "wikilink")**」合作，在漫畫博覽會、[台北國際動漫節](https://zh.wikipedia.org/wiki/台北國際動漫節 "wikilink")、[秋フェス](https://zh.wikipedia.org/wiki/秋フェス "wikilink")、[開拓動漫祭](../Page/開拓動漫祭.md "wikilink")、[高雄國際動漫節](https://zh.wikipedia.org/wiki/高雄國際動漫節 "wikilink")、[Touch the Japan等活動出展並進行多場演出](https://zh.wikipedia.org/wiki/Touch_the_Japan "wikilink")。
 
-2016年10月2日，CANDY☆STAR在台灣高雄舉辦睽違400天的獨立公演「REBORN ～輝け！新たな星々 Let's shine,
-bella nova\!～」。
+2016年10月2日，CANDY☆STAR在台灣高雄舉辦睽違400天的獨立公演「REBORN ～輝け！新たな星々 Let's shine, bella nova\!～」。
 
-2017年2月19日，CANDY☆STAR在台灣高雄與 4 位前成員米娜、雅、月櫻、光組成的「EM緊急方程式-Emergency
-Equation」舉辦聯合公演「DANcING smILe ♪ CS × EM 糖星祭 CANDY☆STAR x
-EM緊急方程式-Emergency Equation 聯合公演 暨CANDY☆STAR八週年紀念」。
+2017年2月19日，CANDY☆STAR在台灣高雄與 4 位前成員米娜、雅、月櫻、光組成的「EM緊急方程式-Emergency Equation」舉辦聯合公演「DANcING smILe ♪ CS × EM 糖星祭 CANDY☆STAR x EM緊急方程式-Emergency Equation 聯合公演 暨CANDY☆STAR八週年紀念」。
 
 2017年5月5日及9月10日，CANDY☆STAR二度接受[中華職棒大聯盟](https://zh.wikipedia.org/wiki/中華職棒大聯盟 "wikilink")[Lamigo桃猿邀請](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")，擔任賽前演出及開球儀式嘉賓。
 
-2017年10月21日，CANDY☆STAR在台灣高雄與「Angel Bless」及「Bonnie Bunny」舉辦聯合公演「少女夢幻祭～ AB
-x BB x CS 三團聯合公演」。
+2017年10月21日，CANDY☆STAR在台灣高雄與「Angel Bless」及「Bonnie Bunny」舉辦聯合公演「少女夢幻祭～ AB x BB x CS 三團聯合公演」。
 
 2018年2月28日，CANDY☆STAR在台灣高雄舉辦「CANDY☆STAR☆むちゃぶり PARTY -九周年紀念同樂會-」。
 
 2018年6月9日，CANDY☆STAR在台灣高雄舉辦「CANDY☆STAR 九周年紀念正式公演 ～厄年も宜し９ね！」。
 
+2019年6月30日，CANDY☆STAR 第一個子團**「マジミッシオ☆」**結成首演。
+
+## 結成☆
+
+2009年2月16日
+
 ## 信念
 
 **「無論是什麼樣的星星都有發光發熱的價值。」**
-**「どんな星でも、輝ける価値がある」**
-[缩略图](https://zh.wikipedia.org/wiki/File:20160812_豐原太平洋百貨日本週_006.jpg "fig:缩略图")
+**「どんな星でも、輝ける価値がある」** [缩略图](https://zh.wikipedia.org/wiki/File:20160812_豐原太平洋百貨日本週_006.jpg "fig:缩略图")
 
 ## 正式成員列表
 
@@ -55,6 +54,7 @@ x BB x CS 三團聯合公演」。
 | れいな Reina | 蘇打糖                          | 9月11日  | 天藍色      |
 | 小魚 Sakana | 抹茶糖                          | 6月25日  | 若草色      |
 | 澄乃 Sumino | 蜜柑糖                          | 6月15日  | 蜜橙色      |
+| 餡子 Annko  | 萊姆糖                          | 7月1日   | 萊姆色      |
 
 ## 砂糖列表
 
@@ -65,7 +65,6 @@ x BB x CS 三團聯合公演」。
 | 空色 Aoi       | 砂糖                           | 10月28日 | 白色       |
 | 時雨 Shigure   | 砂糖                           | 12月8日  | 白色       |
 |              |                              |        |          |
-| 餡子 Annko     | 砂糖                           | 7月1日   | 白色       |
 | 有-{栖}- Arisu | 砂糖                           | 7月1日   | 白色       |
 
 ## 歷年成員
@@ -259,7 +258,32 @@ x BB x CS 三團聯合公演」。
 </tbody>
 </table>
 
-## 演出經歷
+## 子團
+
+[20190630_MagiMissio☆_LOGO.jpg](https://zh.wikipedia.org/wiki/File:20190630_MagiMissio☆_LOGO.jpg "fig:20190630_MagiMissio☆_LOGO.jpg")
+
+[缩略图](https://zh.wikipedia.org/wiki/File:20190630_MagiMissio.jpg "fig:缩略图")
+
+### MagiMissio☆
+
+#### 結成☆
+
+2019年6月30日
+
+#### 設定☆
+
+背負著找回世界構成元素如此重大的使命，三名魔法少女將在舞台上用盡全力，與你一起找回失落的三種元素，在世界毀滅之前⋯⋯
+
+#### 成員☆
+
+|                |                                |         |          |
+| -------------- | ------------------------------ | ------- | -------- |
+| **暱稱**         | \=1 style="width:20%"|**代表魔法** | **誕生日** | **擔當顏色** |
+| Reina（れいな）     | 水之魔法使                          | 9月11日   | 天藍色      |
+| 澄乃 Sumino（すみの） | 炎之魔法使                          | 6月15日   | 蜜橙色      |
+| 餡子 Annko（あんこ）  | 雷之魔法使                          | 7月1日    | 萊姆色      |
+
+## CANDY☆STAR 演出經歷
 
 ### 主辦公演
 
@@ -271,58 +295,39 @@ x BB x CS 三團聯合公演」。
 ●第六屆CANDY☆STAR☆PARTYライブ（2011年1月28日@美嘉米樂大昌旗艦店2F）
 ●第七屆CANDY☆STAR☆PARTYライブ（2011年6月25日@美嘉米樂大昌旗艦店2F）
 ●第七又二分之一屆CANDY☆STAR☆PARTY 小型ライブ（2011年7月30日@月讀可思客女僕咖啡廳4F舞台區 ）
-●第八屆超級CANDY☆STAR☆PARTY ライブ ～ CANDY☆STAR☆PARTY Super.8～
-（2011年8月27日@美嘉米樂大昌旗艦店2F）
+●第八屆超級CANDY☆STAR☆PARTY ライブ ～ CANDY☆STAR☆PARTY Super.8～ （2011年8月27日@美嘉米樂大昌旗艦店2F）
 ●第∞屆CANDY☆STAR☆PARTY小型ライブ（2012年2月29日@高雄大昌加菲貓歡樂世界2F）
 ●CANDY☆STAR劇場公演試營運小型ライブ（2012年7月20日@Studio Crescent Moon{月讀本館4樓}）
 ●CANDY☆STAR劇場公演小型ライブ ～和風祭～ （2012年8月11日@Studio Crescent Moon{月讀本館4樓}）
-●Studio Crescent Moon 新月劇場ライブ ～C☆C☆S 萌え燃え革命！～ （2012年8月18日@Studio
-Crescent Moon{月讀本館4樓}）
+●Studio Crescent Moon 新月劇場ライブ ～C☆C☆S 萌え燃え革命！～ （2012年8月18日@Studio Crescent Moon{月讀本館4樓}）
 ●CANDY☆STAR劇場公演小型ライブ（2012年9月16日@Studio Crescent Moon{月讀本館4樓-新月劇場}）
-●CANDY☆STAR劇場公演ライブ ～成員卒業スペシャル～ （2012年9月22日@Studio Crescent
-Moon{月讀本館4樓-新月劇場}）
-●CANDY☆STAR劇場公演ライブ ～カラフル五色祭り～ （2012年10月13日@Studio Crescent
-Moon{月讀本館4樓-新月劇場}）
-●CANDY☆STAR劇場公演ライブ ～ふわふわ白い世界～ （2012年10月21日@Studio Crescent
-Moon{月讀本館4樓-新月劇場}）
-●CANDY☆STAR劇場公演ライブ ～100回公演記念 & メンバー昇格 ～大感謝祭～♪ ～ （2012年12月15日@Studio
-Crescent Moon{月讀本館4樓-新月劇場}）
-●CANDY☆STAR劇場公演ライブ ～正月中國娘スペシャル祭典～ （2013年1月26日@Studio Crescent
-Moon{月讀本館4樓-新月劇場}）
+●CANDY☆STAR劇場公演ライブ ～成員卒業スペシャル～ （2012年9月22日@Studio Crescent Moon{月讀本館4樓-新月劇場}）
+●CANDY☆STAR劇場公演ライブ ～カラフル五色祭り～ （2012年10月13日@Studio Crescent Moon{月讀本館4樓-新月劇場}）
+●CANDY☆STAR劇場公演ライブ ～ふわふわ白い世界～ （2012年10月21日@Studio Crescent Moon{月讀本館4樓-新月劇場}）
+●CANDY☆STAR劇場公演ライブ ～100回公演記念 & メンバー昇格 ～大感謝祭～♪ ～ （2012年12月15日@Studio Crescent Moon{月讀本館4樓-新月劇場}）
+●CANDY☆STAR劇場公演ライブ ～正月中國娘スペシャル祭典～ （2013年1月26日@Studio Crescent Moon{月讀本館4樓-新月劇場}）
 ●CANDY☆STAR@ARIA劇場公演試營運小型ライブ（2013年4月19日@ARIA55劇場）
 ●CANDY☆STAR劇場公演 PUTI.1小型ライブ（2013年5月24日@月讀次文化劇場ARIA55）
-●CANDY☆STAR劇場公演ライブ ～六月生誕&卒業學園祭（生誕の喜び、卒業の悲しみ...そしてー　新しいの出会い！）～
-（2013年6月28日@月讀次文化劇場ARIA55）
-●CANDY☆STAR劇場公演ライブ ～CANDY☆STAR夏日大作戰\!\!（ ..:あなたと私たちのサマータイム:..）～
-（2013年8月2日@月讀次文化劇場ARIA55）
-●CANDY☆STAR劇場公演ライブ ～夏日祭典（...あなたと私たちの夏祭り...）～
-（2013年8月30日@月讀次文化劇場ARIA55）
+●CANDY☆STAR劇場公演ライブ ～六月生誕&卒業學園祭（生誕の喜び、卒業の悲しみ...そしてー　新しいの出会い！）～ （2013年6月28日@月讀次文化劇場ARIA55）
+●CANDY☆STAR劇場公演ライブ ～CANDY☆STAR夏日大作戰\!\!（ ..:あなたと私たちのサマータイム:..）～ （2013年8月2日@月讀次文化劇場ARIA55）
+●CANDY☆STAR劇場公演ライブ ～夏日祭典（...あなたと私たちの夏祭り...）～ （2013年8月30日@月讀次文化劇場ARIA55）
 ●CANDY☆STAR劇場公演ライブ ～中秋團"員"升格祭～ （2013年9月27日@月讀次文化劇場ARIA55）
 ●CANDY☆STAR劇場公演ライブ ～Hello～Halloween！～ （2013年10月31日@月讀次文化劇場ARIA55）
 ●CANDY☆STAR劇場公演ライブ ～スペシャルパジャマ劇場公演～ （2013年11月29日@月讀次文化劇場ARIA55）
 ●CANDY☆STAR歌曲總選舉2013【序章】 ～聖なる夜スペシャル～ （2013年12月21日@月讀次文化劇場ARIA55）
 ●CANDY☆STAR歌曲總選舉2013【終章】（2014年3月22日@月讀次文化劇場ARIA55）
-●CANDY☆STAR劇場公演ライブ ～中二病也想公演\!（中二病でも公演がしたい\!）～
-（2014年6月14日@月讀次文化劇場ARIA55）
+●CANDY☆STAR劇場公演ライブ ～中二病也想公演\!（中二病でも公演がしたい\!）～ （2014年6月14日@月讀次文化劇場ARIA55）
 ●CANDY☆STAR劇場公演ライブ ～夏休み☆スペシャル！コスプレ☆大乱闘！！～ （2014年7月4日@月讀次文化劇場ARIA55）
-●CANDY☆STAR劇場公演ライブ ～始業式開學祭（あなたがいれば寂しくない...）～
-（2014年9月27日@月讀次文化劇場ARIA55）
-●CANDY☆STAR劇場公演ライブ ～MINA卒業祭 - 剖開哈密瓜的最終公演\!\!讓芥末內餡使你淚流...～
-（2014年11月29日@月讀次文化劇場ARIA55）
+●CANDY☆STAR劇場公演ライブ ～始業式開學祭（あなたがいれば寂しくない...）～ （2014年9月27日@月讀次文化劇場ARIA55）
+●CANDY☆STAR劇場公演ライブ ～MINA卒業祭 - 剖開哈密瓜的最終公演\!\!讓芥末內餡使你淚流...～ （2014年11月29日@月讀次文化劇場ARIA55）
 ●CANDY☆STAR劇場公演ライブ ～小光卒業祭～ （2015年1月24日@月讀次文化劇場ARIA55）
 ●CANDY☆STAR劇場公演ライブ ～月櫻 × みやび卒業公演～ （2015年4月26日@Rocks岩石音樂）
 ●CANDY☆STAR生誕祭公演ライブ ～桜が舞い散るのあの夏～ （2015年6月27日@Rocks岩石音樂）
-●CANDY☆STAR x LOVE LIVE\! 公演ライブ ～きっと星の青春が聞こえる！～
-（2015年8月29日@花漾展演空間（台北市青少年育樂中心））
-●CANDY☆STAR公演ライブ ～それぞれの夢を描こう - Hinako x Yuki x Airi 卒業公演～
-（2016年8月26日@杰克音樂）
-●CANDY☆STAR公演ライブ ～REBORN ～輝け、新たな星々 LET'S SHINE, BELLA NOVA\!～
-（2016年10月2日@畫堤潮客館）
-●CANDY☆STAR公演ライブ ～DANcING smILe ♪ CS × EM 糖星祭 CANDY☆STAR x
-EM緊急方程式-Emergency Equation 聯合公演 暨CANDY☆STAR八週年紀念～
-（2017年2月19日@畫堤潮客館）
-●CANDY☆STAR公演ライブ ～CANDY☆STAR 愉人節特別公演 April Fool's LIVE with Bambi～
-（2017年4月1日岩石音樂）
+●CANDY☆STAR x LOVE LIVE\! 公演ライブ ～きっと星の青春が聞こえる！～ （2015年8月29日@花漾展演空間（台北市青少年育樂中心））
+●CANDY☆STAR公演ライブ ～それぞれの夢を描こう - Hinako x Yuki x Airi 卒業公演～ （2016年8月26日@杰克音樂）
+●CANDY☆STAR公演ライブ ～REBORN ～輝け、新たな星々 LET'S SHINE, BELLA NOVA\!～ （2016年10月2日@畫堤潮客館）
+●CANDY☆STAR公演ライブ ～DANcING smILe ♪ CS × EM 糖星祭 CANDY☆STAR x EM緊急方程式-Emergency Equation 聯合公演 暨CANDY☆STAR八週年紀念～ （2017年2月19日@畫堤潮客館）
+●CANDY☆STAR公演ライブ ～CANDY☆STAR 愉人節特別公演 April Fool's LIVE with Bambi～ （2017年4月1日岩石音樂）
 ●Live ABC ～少女夢幻祭～ AB x BB x CS 三團聯合公演ライブ1 （207年10月21日岩石音樂）
 ●CANDY☆STAR☆むちゃぶり PARTY -九周年紀念同樂會- （2018年2月28日高雄市博愛四路380號）
 ●CANDY☆STAR 九周年紀念正式公演 ～厄年も宜し９ね！（2018年6月9日岩石音樂）
@@ -343,10 +348,8 @@ EM緊急方程式-Emergency Equation 聯合公演 暨CANDY☆STAR八週年紀念
 ●「くまフェス2016」対バンライブ （2016年12月11日@日本九州熊本市-サンロード新市街）
 ●「ザ・真剣勝負ベストテンプラス Vol.2」対バンライブ （2017年1月22日@日本東京Zirco Tokyo）
 ●「GIRLS POWER アイドル PARTY VOL.03」対バンライブ （2017年7月9日@日本東京DESEO mini）
-●「渋谷DE遊ばナイト！Vol.07 ～黒崎れおん生誕ワンマン前夜祭SP！～」対バンライブ （2017年7月14日@日本東京DESEO
-mini）
-●「日本九州壱岐市観光推進宣伝 特別撮影企画」
-（2017年9月12日～15日@日本[壱岐市](https://zh.wikipedia.org/wiki/壱岐市 "wikilink")）
+●「渋谷DE遊ばナイト！Vol.07 ～黒崎れおん生誕ワンマン前夜祭SP！～」対バンライブ （2017年7月14日@日本東京DESEO mini）
+●「日本九州壱岐市観光推進宣伝 特別撮影企画」 （2017年9月12日～15日@日本[壱岐市](https://zh.wikipedia.org/wiki/壱岐市 "wikilink")）
 ●「くまフェス2017」対バンライブ （2017年12月11日@日本九州熊本市-熊本城二の丸広場）
 
 ### 台灣演出
@@ -366,8 +369,7 @@ mini）
 ●開拓動漫祭Fancy Frontier15（2010年2月20日@台大巨蛋體育館）
 ●CANDY☆STAR後夜祭小型ライブ（2010年2月21日@cosic可思客女僕咖啡廳4F舞台區）
 ●開拓動漫祭Petit Fancy12小型ライブ（2010年4月25日@台大巨蛋體育館）
-●台北國際玩具創作大展\~TAIPEI TOY FESTIVAL
-2010\~記者會開幕演出&小型ライブ（2010年7月8日＠華山1914創意園區）
+●台北國際玩具創作大展\~TAIPEI TOY FESTIVAL 2010\~記者會開幕演出&小型ライブ（2010年7月8日＠華山1914創意園區）
 ●開拓動漫祭Fancy Frontier16（2010年7月24日～25日@台大巨蛋體育館）
 ●高雄動漫展記者會特別協力&小型ライブ（2010年8月14日＠高雄巨蛋）
 ●高雄動漫展小型ライブ（2010年8月15日＠高雄巨蛋）
@@ -390,11 +392,9 @@ mini）
 ●高雄太平洋SOGO百貨15周年慶誓師大會（2011年11月7日@高雄太平洋SOGO百貨）
 ●DANCEROID FLASH MOB一回目（2011年12月4日@駁二藝術特區）
 ●2011駁二動漫祭ライブ（2011年12月4日@駁二藝術特區-月光劇場）
-●DANCEROID Fes in 台北 VOL.01 ～X\`mas Special Live Party\!\!～
-ライブ（2011年12月23日@THE WALL LIVE HOUSE 這牆音樂藝文展演空間）
+●DANCEROID Fes in 台北 VOL.01 ～X\`mas Special Live Party\!\!～ ライブ（2011年12月23日@THE WALL LIVE HOUSE 這牆音樂藝文展演空間）
 ●2011駁二動漫祭ライブ（2011年12月4日@駁二藝術特區-月光劇場）
-●DANCEROID Fes in 台北 VOL.01 ～X\`mas Special Live Party\!\!～
-ライブ（2011年12月23日@THE WALL LIVE HOUSE 這牆音樂藝文展演空間）
+●DANCEROID Fes in 台北 VOL.01 ～X\`mas Special Live Party\!\!～ ライブ（2011年12月23日@THE WALL LIVE HOUSE 這牆音樂藝文展演空間）
 ●開拓動漫祭Fancy Frontier19（2012年2月4日@台大巨蛋體育館）
 ●TC動漫二手認養活動（2012年3月10日@高雄市勞工育樂中心獅甲會館）
 ●「2012角川華文輕小說暨插畫大賞」頒獎典禮（2012年3月24日@台北市-六福皇宮）
@@ -411,8 +411,7 @@ mini）
 ●夏戀港灣-2012高雄海洋博覽會-記者會（2012年8月17日@興達港情人碼頭）
 ●2012桃園遊動漫嘉年華–動漫創意市集（2012年8月19日@桃園縣展演中心）
 ●2012新北市動漫節 8月瘋動漫（2012年8月19日@板橋435藝文特區）
-●新月劇場-仲夏午宴PARTY \~ACG音樂同歡會（2012年9月2日@Studio Crescent
-Moon{月讀本館4樓-新月劇場}）
+●新月劇場-仲夏午宴PARTY \~ACG音樂同歡會（2012年9月2日@Studio Crescent Moon{月讀本館4樓-新月劇場}）
 ●第十屆Animate Stage－「NICO STARLIGHT PARTY主題音樂會」（2012年9月8日@台南公會堂-音樂廳）
 ●Wing Stage19動漫遊戲創作展 小型ライブ（2012年10月7日@台南南紡世貿展覽中心）
 ●開拓動漫祭Petit Fancy 17（2012年10月27日@台大巨蛋體育館）
@@ -421,8 +420,7 @@ Moon{月讀本館4樓-新月劇場}）
 ●財政部 主辦－2012瓊漿文化嘉年華 小型ライブ（2012年11月10日@新北市政府前市民廣場）
 ●2012駁二動漫祭 小型ライブ（2012年11月11日@駁二藝術特區-月光劇場）
 ●CANDY☆STAR☆Carrefour☆スーパー冒険♪（2012年11月18日@家樂福高雄成功店）
-●ちあのーぜLive after school in K.H.高雄-Special Guest參演（2012年11月24日@Studio
-Crescent Moon{月読メイドカフェ本館4階-新月劇場}）
+●ちあのーぜLive after school in K.H.高雄-Special Guest參演（2012年11月24日@Studio Crescent Moon{月読メイドカフェ本館4階-新月劇場}）
 ●第四屆新竹市COSPLAY動漫節（2012年12月2日@新竹市巨城百貨一樓廣場）
 ●高雄市政府海洋局－「水饌食尚，澎湃上桌」（2012年12月23日@高雄夢時代購物中心戶外時代廣場）
 ●台北地下街2012夢幻聖誕嘉年華（2012年12月23日@台北地下街1號廣場）
@@ -444,8 +442,7 @@ Crescent Moon{月読メイドカフェ本館4階-新月劇場}）
 ●2013台中動漫力（2013年11月16日@大台中國際會展中）
 ●高雄市政府－「2013花田喜事．風情橋頭」（2013年11月23日@高雄市橋頭區竹林公園）
 ●「柊木りお×上月みく ツーマンLIVE in 台湾」ゲスト出演（2013年12月7日@劇場ARIA55）
-●まつりイン台湾番外編！『LOVE♡台湾～Japanese iDOL Super
-Live\!\!～』（2013年12月8日@劇場ARIA55）
+●まつりイン台湾番外編！『LOVE♡台湾～Japanese iDOL Super Live\!\!～』（2013年12月8日@劇場ARIA55）
 ●高雄市政府－「2013高雄駁二動漫祭」9（2013年12月21日@駁二藝術特區-月光劇場）
 ●2013\>2014 TUKUYOMI VIP Countdown Party\!（2013年12月31日@月讀二館-大野狼的秘密餐桌）
 ●CANDY☆STAR×大野狼的秘密演出（2014年1月26日@月讀二館-大野狼的秘密餐桌）
@@ -459,20 +456,17 @@ Live\!\!～』（2013年12月8日@劇場ARIA55）
 ●亞洲動漫創作展Petit Fancy 20（2014年4月26日@台大巨蛋體育館）
 ●日台IDOL交流 Mini Live（2014年4月28日@月讀二館-大野狼的秘密餐桌）
 ●CANDY☆STAR×大野狼的秘密演出Part.5小型ライブ（2014年5月17日@月讀二館-大野狼的秘密餐桌）
-●The Shining Moment -ACGV x Dance x
-Band-ライブ（2014年5月24日@Y17青少年育樂中心青春舞蹈館）
+●The Shining Moment -ACGV x Dance x Band-ライブ（2014年5月24日@Y17青少年育樂中心青春舞蹈館）
 ●2014劍湖山世界痛漫祭ライブ（2014年6月21日～22日@劍湖山世界主題樂園）
 ●CANDY☆STAR×大野狼的秘密演出Part.6小型ライブ（2014年6月29日@月讀二館-大野狼的秘密餐桌）
-●PUTI-LIVE.2 Julili Juliran Mirai in
-ARIA55ライブ（2014年7月5日@月讀次文化劇場ARIA55）
+●PUTI-LIVE.2 Julili Juliran Mirai in ARIA55ライブ（2014年7月5日@月讀次文化劇場ARIA55）
 ●CANDY☆STAR原創單曲發售特別活動 Special Event（2014年7月18日@月讀女僕咖啡本店 & 大野狼的秘密餐桌）
 ●Fancy Frontier 24 開拓動漫祭小型ライブ（2014年7月26日@台大巨蛋體育館）
 ●2014 漫畫博覽會「LittleAKIBA」ライブ（2014年8月7日～12日@台北世貿一館）
 ●2014 臺中動．漫．力ライブ（2014年8月16日@大台中國際會展中心）
 ●HCACG-S4 第四屆新竹市動漫節ライブ（2014年8月7日@新竹市巨城百貨公司）
 ●CANDY☆STAR×大野狼的秘密演出Part.7小型ライブ（2014年8月22日@月讀二館-大野狼的秘密餐桌）
-●日本のアイドルアーティスト★柊木りお＆長尾知衣美　LIVE IN TAIWAN DAY
-2ライブ（2014年9月6日@月讀次文化劇場ARIA55）
+●日本のアイドルアーティスト★柊木りお＆長尾知衣美　LIVE IN TAIWAN DAY 2ライブ（2014年9月6日@月讀次文化劇場ARIA55）
 ●CANDY☆STAR×大野狼的秘密演出Part.8小型ライブ（2014年9月7日@月讀二館-大野狼的秘密餐桌）
 ●地C音力2ライブ（2014年9月13日@成功大學成杏廳）
 ●CANDY☆STAR×大野狼的秘密演出Part.9小型ライブ（2014年10月10日@月讀二館-大野狼的秘密餐桌）
@@ -483,17 +477,14 @@ ARIA55ライブ（2014年7月5日@月讀次文化劇場ARIA55）
 ●高雄市政府－「2014高雄駁二動漫祭」小型ライブ（2014年11月15日～16日@駁二藝術特區-月光劇場）
 ●高雄市旗山後花園園遊會小型ライブ（2014年11月29日@高雄市旗山體育場）
 ●2014臺南創藝生活節ライブ（2014年12月13日@臺南文化創意產業園區）
-●CANDY☆STAR×大野狼的秘密演出Part.10～After
-X'masスペシャル～ライブ（2014年12月26日@月讀二館-大野狼的秘密餐桌）
+●CANDY☆STAR×大野狼的秘密演出Part.10～After X'masスペシャル～ライブ（2014年12月26日@月讀二館-大野狼的秘密餐桌）
 ●2014台北夢幻聖誕嘉年華ライブ（2014年12月28日@台北地下街1號廣場）
-●FULLMOON CARNIVAL 2014 FINAL +2014-2015 CountDown
-Live\!\!月讀滿月祭再臨！2014-2015跨年豪華LIVE！ライブ（2014年12月31日@ICCK高雄國際會議中心）
+●FULLMOON CARNIVAL 2014 FINAL +2014-2015 CountDown Live\!\!月讀滿月祭再臨！2014-2015跨年豪華LIVE！ライブ（2014年12月31日@ICCK高雄國際會議中心）
 ●滿月後夜祭 BOUNDS STAGE TA⇔JA LIVEライブ（2015年1月3日@月讀次文化劇場ARIA55）
 ●CANDY☆STAR與大野狼的秘密餐會Special Event（2015年1月30日@月讀二館-大野狼的秘密餐桌）
 ●Fancy Frontier開拓動漫祭25小型ライブ（2015年1月31日@花博爭艷館）
 ●2015台北國際動漫節「LittleAKIBA」ライブ（2015年2月10日～15日@台北世貿南港展覽館）
-●The Shining Moment x LIVE FORMOSA Nico -Just For You-ライブ（2015年2月14日@
-Colorful Studio）
+●The Shining Moment x LIVE FORMOSA Nico -Just For You-ライブ（2015年2月14日@ Colorful Studio）
 ●CANDY☆STAR六週年紀念日ライブ（2015年2月16日@大野狼的秘密餐桌）
 ●CANDY☆STAR～雛子生誕祭～ライブ（2015年3月7日@大野狼的秘密餐桌）
 ●2015 TIF偶像祭Animate Stage - The Idol Forceライブ（2015年3月14日@-{杰}-克音樂）
@@ -538,8 +529,7 @@ Colorful Studio）
 ●たかめ少女Special Event記者會活動（2015年12月18日@高雄市政府四維行政中心）
 ●高雄市2015動漫聖誕嘉年華ライブ（2015年12月19日@高雄市議會）
 ●2015台北夢幻聖誕嘉年華ライブ（2015年12月26日@台北地下街）
-●TUKUYOMI 2015➣2016 跨年Countdown Partyライブ（2015年12月31日@TUKUYOMI Maid
-Hub.）
+●TUKUYOMI 2015➣2016 跨年Countdown Partyライブ（2015年12月31日@TUKUYOMI Maid Hub.）
 ●高雄嘉年華系列活動會員2016大抽獎（2016年1月3日@彩虹市集 - 高鐵左營站）
 ●高雄嘉年華系列活動ライブ（2016年1月23日@鼎山家樂福）
 ●IDOLidge Carnival 前夜祭ライブ（2016年1月30日@-{杰}-克音樂）
@@ -573,8 +563,7 @@ Hub.）
 ●太平洋百貨豐原店日本商品週開幕 SHOW（2016年8月12日@太平洋百貨豐原店）
 ●最後一歩からのスタート-Hinako x Yuki x Airi（2016年8月21日@月讀女僕旗艦店）
 ●Fancy Frontier 28 開拓動漫祭 ライブ（2016年8月27日@花博公園爭艷館）
-●台湾音楽祭 with
-熱闘アイドル甲子園ライブ（2016年9月3日～4日@-{杰}-克音樂、台北地下街、Revolver、台北月見ル君想フ）
+●台湾音楽祭 with 熱闘アイドル甲子園ライブ（2016年9月3日～4日@-{杰}-克音樂、台北地下街、Revolver、台北月見ル君想フ）
 ●48 Group公演 - 会いたかった ライブ（2016年9月24日@-{杰}-克音樂）
 ●高雄夢時代 萬聖節Coser趣搗蛋ライブ（2016年10月29日@夢時代大門口幸福廣場）
 ●Petit Fancy PF25 x RF4ライブ（2016年11月5日@花博公園爭艷館）
@@ -588,8 +577,7 @@ Hub.）
 ●LittleAKIBA Super Liveライブ（2017年2月4日@-{杰}-克音樂）
 ●Fancy Frontier 29 開拓動漫祭ライブ（2017年2月12日@台大巨蛋體育館）
 ●2017 開拓音樂祭－LIVE FRONTIER 2017ライブ（2017年4月15日@花博公園爭艷館）
-●ASIA POP Culture Festival ～Fleramo【Orion】ASIA TOUR in
-Taiwan～ライブ（2017年4月22日@小地方展演空間）
+●ASIA POP Culture Festival ～Fleramo【Orion】ASIA TOUR in Taiwan～ライブ（2017年4月22日@小地方展演空間）
 ●YOKOSO桃猿 CANDY☆STAR 賽前演出 & 開球ライブ（2017年5月5日@桃園國際棒球場）
 ●EF 動漫幻樂祭 －2.5次元祭典－ ライブ（2017年5月7日@台灣師範大學中正堂）
 ●New Hope Live Vol.1ライブ（2017年5月27日@-{杰}-克音樂）
@@ -597,8 +585,7 @@ Taiwan～ライブ（2017年4月22日@小地方展演空間）
 ●CosIdol Be Star 2－ ライブ（2017年7月1日@-{杰}-克音樂）
 ●足太ぺんた 台北粉絲見面會（2017年7月2日@三創生活園區）
 ●IDOLidge Carnival in Taipei ≪Final≫ライブ（2017年7月15日@-{杰}-克音樂）
-●Animate Stage：日耀物語 - chapter Iライブ（2017年7月23日@台南 Dig Music Studio
-地基音樂工作室）
+●Animate Stage：日耀物語 - chapter Iライブ（2017年7月23日@台南 Dig Music Studio 地基音樂工作室）
 ●Fancy Frontier開拓動漫祭30ライブ（2017年7月29日@花博爭艷館）
 ●A.C.G舞祭 制服學院祭 ライブ（2017年8月5日@屏東公園）
 ●椎名光 x CANDY☆STAR 【魔界x天界女子祭】ライブ（2017年8月6日@PIPE Live Music）
@@ -615,7 +602,7 @@ Taiwan～ライブ（2017年4月22日@小地方展演空間）
 ●2017→2018、初詣、明けましておめでとう！ライブ（2017年12月31日～2018年1月1日@-{杰}-克音樂）
 ●FF31 開拓動漫祭ライブ（2018年2月10日@台大巨蛋體育館）
 ●［IDOL LEGEND CARNIVAL］ X ［3D LIVE Revolution］ライブ（2018年3月3日@-{杰}-克音樂）
-●New Hope Live@高雄動漫節 Vol.2ライブ（2018年4月7日@-{杰}-克音樂）
+●New Hope Live@高雄國際動漫節 Vol.2ライブ（2018年4月7日@-{杰}-克音樂）
 ●唐吉訶德 X CANDY☆STAR 2018 高雄市旅行公會國際旅展ライブ（2018年4月20日～23日@高雄展覽館 ）
 ●CANDY☆STAR x 特樂通 | TE 2018 台北國際觀光博覽會ライブ（2018年5月4日～7日@台北世貿一館）
 ●New Hope Live Vol.3ライブ（2018年5月5日@-{杰}-克音樂）
@@ -639,6 +626,16 @@ Taiwan～ライブ（2017年4月22日@小地方展演空間）
 ●暴風雨前的奶酒ライブ（2019年5月12日@Corner House角落文創）
 ●一期一會★Strawberrys主催ライブ（2019年5月18日@台中迴響音樂藝文展演空間）
 ●唐吉訶德 X CANDY☆STAR 2019 高雄市旅行公會國際旅展ライブ（2018年5月24日～27日@高雄展覽館 ）
+●大大舞花大舞花～DWH ACG Night～ライブ（2019年6月8日@臺南文化創意產業園區 - 漂丿白鷺‬Live House）
+●3D LIVE Revolutionライブ（2019年6月23日@杰克音樂）
+●New Hope Live Vol.4ライブ（2019年6月30日@杰克音樂）
+●3D LIVE Revolutionライブ（2019年7月6日@岩石音樂）
+
+## マジミッシオ☆ 演出經歷
+
+●New Hope Live Vol.4ライブ（2019年6月30日@杰克音樂）
+●煌めき☆アンフォレント アジアツアー2019 台湾・高雄公演ライブ（2019年7月7日@岩石音樂）
+●3D LIVE Revolutionライブ（2019年7月7日@岩石音樂）
 
 ## 得獎經歷
 
@@ -679,7 +676,7 @@ Taiwan～ライブ（2017年4月22日@小地方展演空間）
 
 ## 外部連結
 
-  -
-[Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink")
-[Category:2009年台灣建立](https://zh.wikipedia.org/wiki/Category:2009年台灣建立 "wikilink")
-[Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")
+  - [CANDY☆STAR Facebook](https://zh-tw.facebook.com/lovecandystar/)
+  - [マジミッシオ☆ Facebook](https://zh-tw.facebook.com/MagiMissio/)
+
+[Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink") [Category:2009年台灣建立](https://zh.wikipedia.org/wiki/Category:2009年台灣建立 "wikilink") [Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")

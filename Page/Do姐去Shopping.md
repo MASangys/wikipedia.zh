@@ -1,4 +1,4 @@
-《**Do姐去Shopping**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的旅遊節目](../Page/電視廣播有限公司.md "wikilink")，亦是監製[周子妮節目系列之一](https://zh.wikipedia.org/wiki/周子妮 "wikilink")，全節目共15集，由[鄭裕玲擔任主持](../Page/鄭裕玲.md "wikilink")。本節目於2015年11月9日起[香港時間逢星期一至五](../Page/香港時間.md "wikilink")22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台播出](../Page/高清翡翠台.md "wikilink")，及於[MyTV提供網上節目重溫](../Page/MyTV.md "wikilink")（集數上傳後兩個月後會刪除）。本節目由[六福珠寶特約](https://zh.wikipedia.org/wiki/六福珠寶 "wikilink")，並為無綫電視48週年「[台慶獻禮](../Page/無綫電視台慶相關活動.md "wikilink")」之一。節目於《[萬千星輝頒獎典禮2015](../Page/萬千星輝頒獎典禮2015.md "wikilink")》中獲得「最佳綜藝及特備節目」。
+《**Do姐去Shopping**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的旅遊節目，亦是監製[周子妮節目系列之一](https://zh.wikipedia.org/wiki/周子妮 "wikilink")，全節目共15集，由[鄭裕玲](../Page/鄭裕玲.md "wikilink")擔任主持。本節目於2015年11月9日起[香港時間](../Page/香港時間.md "wikilink")逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")播出，及於[MyTV](../Page/MyTV.md "wikilink")提供網上節目重溫（集數上傳後兩個月後會刪除）。本節目由[六福珠寶特約](https://zh.wikipedia.org/wiki/六福珠寶 "wikilink")，並為無綫電視48週年「[台慶獻禮](../Page/無綫電視台慶相關活動.md "wikilink")」之一。節目於《[萬千星輝頒獎典禮2015](../Page/萬千星輝頒獎典禮2015.md "wikilink")》中獲得「最佳綜藝及特備節目」。
 
 ## 每集主題
 
@@ -109,7 +109,7 @@
 
 ## 收視
 
-以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 | 週次 | 集數    | 日期                 | 平均收視 |
 | -- | ----- | ------------------ | ---- |
@@ -127,8 +127,7 @@
 
 ## 外部連結
 
-  - [無綫電視節目網頁 -
-    Do姐去Shopping](http://programme.tvb.com/foodandtravel/dodogoesshopping)
+  - [無綫電視節目網頁 - Do姐去Shopping](http://programme.tvb.com/foodandtravel/dodogoesshopping)
 
   - （主要上載私藏未曝光片段）
 
@@ -136,6 +135,4 @@
 
 ## 電視節目的變遷
 
-[Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink")
-[Category:無綫電視旅遊節目](https://zh.wikipedia.org/wiki/Category:無綫電視旅遊節目 "wikilink")
-[Category:無綫電視台慶節目](https://zh.wikipedia.org/wiki/Category:無綫電視台慶節目 "wikilink")
+[Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink") [Category:無綫電視旅遊節目](https://zh.wikipedia.org/wiki/Category:無綫電視旅遊節目 "wikilink") [Category:無綫電視台慶節目](https://zh.wikipedia.org/wiki/Category:無綫電視台慶節目 "wikilink")

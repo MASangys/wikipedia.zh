@@ -1,5 +1,4 @@
-《**Psyche
-Voice**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[J.Arie的第二張音樂專輯](https://zh.wikipedia.org/wiki/J.Arie "wikilink")，於2014年11月25日推出。
+《**Psyche Voice**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[J.Arie的第二張音樂專輯](https://zh.wikipedia.org/wiki/J.Arie "wikilink")，於2014年11月25日推出。
 
 ## 曲目
 
@@ -15,7 +14,4 @@ Voice**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "w
 
 ## 獎項
 
-[Category:雷琛瑜音樂專輯](https://zh.wikipedia.org/wiki/Category:雷琛瑜音樂專輯 "wikilink")
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:雷琛瑜音樂專輯](https://zh.wikipedia.org/wiki/Category:雷琛瑜音樂專輯 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

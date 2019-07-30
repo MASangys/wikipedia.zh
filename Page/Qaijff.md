@@ -1,5 +1,4 @@
-**Qaijff（クアイフ）**是[日本的三人樂團](../Page/日本.md "wikilink")，由森彩乃，内田旭彦，三輪幸宏組成，2012年3月在[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市組成](../Page/名古屋市.md "wikilink")，2017年11月才正式出道\[1\]。
-出道作是TV動畫「[犬屋敷](../Page/犬屋敷.md "wikilink")」片尾曲「愛を教えてくれた君へ」\[2\]。
+**Qaijff（クアイフ）**是[日本](../Page/日本.md "wikilink")的三人樂團，由森彩乃，内田旭彦，三輪幸宏組成，2012年3月在[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")組成，2017年11月才正式出道\[1\]。 出道作是TV動畫「[犬屋敷](../Page/犬屋敷.md "wikilink")」片尾曲「愛を教えてくれた君へ」\[2\]。
 
 ## 概要
 
@@ -47,14 +46,11 @@
 
 [Qaijff 官方網站](http://www.qaijff.com)
 
-[Qaijff 官方Twitter](https://twitter.com/qaijff) -
-[Twitter](../Page/Twitter.md "wikilink")(@qaijff)
+[Qaijff 官方Twitter](https://twitter.com/qaijff) - [Twitter](../Page/Twitter.md "wikilink")(@qaijff)
 
-[Qaijff 官方Youtube](https://www.youtube.com/user/Qaijff) -
-[Youtube](../Page/YouTube.md "wikilink")
+[Qaijff 官方Youtube](https://www.youtube.com/user/Qaijff) - [Youtube](../Page/YouTube.md "wikilink")
 
-[Qaijff 官方Youtube(新)](https://www.youtube.com/user/Qaijff) -
-[Youtube](../Page/YouTube.md "wikilink")
+[Qaijff 官方Youtube(新)](https://www.youtube.com/user/Qaijff) - [Youtube](../Page/YouTube.md "wikilink")
 
 **成員個人[Twitter](../Page/Twitter.md "wikilink")**
 
@@ -64,9 +60,7 @@
 
 [三輪幸宏](https://twitter.com/yucky_dr)(@yucky_dr)
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
 
 1.
-2.
-    Musicman-NET|accessdate=2018-01-18|work=www.musicman-net.com|language=ja}}
+2.   Musicman-NET|accessdate=2018-01-18|work=www.musicman-net.com|language=ja}}

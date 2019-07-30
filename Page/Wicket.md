@@ -1,20 +1,16 @@
-**Apache
-Wicket**，通常称为**Wicket**，是一种轻量级的基于组件的[Java](../Page/Java.md "wikilink")
-[Web应用框架](../Page/Web应用框架.md "wikilink")，其概念类似于[JavaServer
-Faces和](../Page/JavaServer_Faces.md "wikilink")[Tapestry](https://zh.wikipedia.org/wiki/Tapestry "wikilink")。它最初由乔纳森·洛克在2004年4月编写。2005年6月发布1.0版。2007年6月，它成功成为[Apache顶级项目](../Page/Apache软件基金会.md "wikilink")。\[1\]
+**Apache Wicket**，通常称为**Wicket**，是一种轻量级的基于组件的[Java](../Page/Java.md "wikilink") [Web应用框架](../Page/Web应用框架.md "wikilink")，其概念类似于[JavaServer Faces和](../Page/JavaServer_Faces.md "wikilink")[Tapestry](https://zh.wikipedia.org/wiki/Tapestry "wikilink")。它最初由乔纳森·洛克在2004年4月编写。2005年6月发布1.0版。2007年6月，它成功成为[Apache顶级项目](../Page/Apache软件基金会.md "wikilink")。\[1\]
 
 ## 基本原理
 
-传统的[MVC框架依据整个](../Page/MVC.md "wikilink")[请求和整个网页来工作](../Page/超文本传输协议.md "wikilink")。在每个请求周期内，输入请求被映射到一个*控制器*对象的一个方法上，然后*控制器*产生全部的输出响应，通常是从一个*模型*拉出数据，并填入一个由特殊的[模板标记写成的](https://zh.wikipedia.org/wiki/网页模板 "wikilink")*视图*。这种方式保证了应用的[控制流简单清晰](https://zh.wikipedia.org/wiki/控制流 "wikilink")，但会导致控制器的代码很难被[复用](../Page/代码复用.md "wikilink")。
+传统的[MVC](../Page/MVC.md "wikilink")框架依据整个[请求和整个网页来工作](../Page/超文本传输协议.md "wikilink")。在每个请求周期内，输入请求被映射到一个*控制器*对象的一个方法上，然后*控制器*产生全部的输出响应，通常是从一个*模型*拉出数据，并填入一个由特殊的[模板标记写成的](https://zh.wikipedia.org/wiki/网页模板 "wikilink")*视图*。这种方式保证了应用的[控制流简单清晰](https://zh.wikipedia.org/wiki/控制流 "wikilink")，但会导致控制器的代码很难被[复用](../Page/代码复用.md "wikilink")。
 
-与此相反，Wicket尽量模仿[有状态的](https://zh.wikipedia.org/wiki/有状态 "wikilink")[GUI框架](https://zh.wikipedia.org/wiki/GUI "wikilink")，如[Swing](../Page/Swing_\(Java\).md "wikilink").
-Wicket应用像一棵*组件*的树，其使用监听器来响应基于链接和表单的[HTTP请求](https://zh.wikipedia.org/wiki/HTTP "wikilink")，并使用类似Swing组件的方式来响应鼠标和键盘事件。Wicket被归类为一个基于组件的框架。
+与此相反，Wicket尽量模仿[有状态的](https://zh.wikipedia.org/wiki/有状态 "wikilink")[GUI框架](https://zh.wikipedia.org/wiki/GUI "wikilink")，如[Swing](../Page/Swing_\(Java\).md "wikilink"). Wicket应用像一棵*组件*的树，其使用监听器来响应基于链接和表单的[HTTP请求](https://zh.wikipedia.org/wiki/HTTP "wikilink")，并使用类似Swing组件的方式来响应鼠标和键盘事件。Wicket被归类为一个基于组件的框架。
 
 ## 设计
 
-Wicket使用简单的[XHTML作为模板](../Page/XHTML.md "wikilink")（其强制将展示和进行明确的分离，并允许使用传统的[所见即所得设计工具来编辑模板](https://zh.wikipedia.org/wiki/所见即所得 "wikilink")\[2\]）。每个组件对应于XHTML中一个命名的元素，并负责在最后的输出中渲染该元素。*网页*仅仅是顶级的组件容器，并匹配一个XHTML模板。使用一个特殊标签，一组独立的组件可以抽象成一个单独的组件——*面板*，然后面板就可以作为一个整体，在该网页，其它网页，甚至其它面板重复使用。
+Wicket使用简单的[XHTML](../Page/XHTML.md "wikilink")作为模板（其强制将展示和进行明确的分离，并允许使用传统的[所见即所得设计工具来编辑模板](https://zh.wikipedia.org/wiki/所见即所得 "wikilink")\[2\]）。每个组件对应于XHTML中一个命名的元素，并负责在最后的输出中渲染该元素。*网页*仅仅是顶级的组件容器，并匹配一个XHTML模板。使用一个特殊标签，一组独立的组件可以抽象成一个单独的组件——*面板*，然后面板就可以作为一个整体，在该网页，其它网页，甚至其它面板重复使用。
 
-每个组件由它自己的模型支持，由模型来表现组件的状态。该框架并没有说明组件如何与它们的模型交互，它被视为[黑箱](https://zh.wikipedia.org/wiki/黑箱 "wikilink")，并会在请求间自动[序列化和](../Page/序列化.md "wikilink")[持久化](../Page/对象数据库.md "wikilink")。更加复杂的模型，甚至可以做成*可拆分*的，并提供在每一个请求周期的开始和结束来安排自己的存储和恢复。Wicket并没有特定的对象持久化或[ORM层](https://zh.wikipedia.org/wiki/ORM "wikilink")，所以应用通常结合[Hibernate对象](../Page/Hibernate.md "wikilink")、[EJB或](../Page/EJB.md "wikilink")作为模型使用。
+每个组件由它自己的模型支持，由模型来表现组件的状态。该框架并没有说明组件如何与它们的模型交互，它被视为[黑箱](https://zh.wikipedia.org/wiki/黑箱 "wikilink")，并会在请求间自动[序列化](../Page/序列化.md "wikilink")和[持久化](../Page/对象数据库.md "wikilink")。更加复杂的模型，甚至可以做成*可拆分*的，并提供在每一个请求周期的开始和结束来安排自己的存储和恢复。Wicket并没有特定的对象持久化或[ORM层](https://zh.wikipedia.org/wiki/ORM "wikilink")，所以应用通常结合[Hibernate](../Page/Hibernate.md "wikilink")对象、[EJB](../Page/EJB.md "wikilink")或作为模型使用。
 
 在Wicket中，所有服务器端状态都是自动管理的。永远不要直接使用HttpSession或类似的对象来存储状态，而要让状态关联到组件上。每个服务器端页面组件拥有一个有状态组件的内嵌层级，在那里每个组件的模型最终是一个POJO。
 
@@ -170,15 +166,12 @@ public class HelloWorldApplication extends WebApplication {
 
 ### 介绍文章
 
-  - [IBM
-    Wicket：一个用于构建及测试动态网页的简化框架](http://www.ibm.com/developerworks/web/library/wa-aj-wicket/?S_TACT=105AGY82&S_CMP=GENSITE)
+  - [IBM Wicket：一个用于构建及测试动态网页的简化框架](http://www.ibm.com/developerworks/web/library/wa-aj-wicket/?S_TACT=105AGY82&S_CMP=GENSITE)
   - [Wicket框架一瞥](http://ensode.net/wicket_first_look.html)
   - [关于Wicket 1.0的服务器端讨论](http://www.theserverside.com/news/thread.tss?thread_id=34725)
   - [服务器端讨论](http://www.theserverside.com/news/thread.tss?thread_id=28162)
-  - [Javalobby采访Martijn
-    Dashorst（项目主席）](http://www.javalobby.org/java/forums/t105230.html)
-  - [Martijn
-    Dashorst讲Wicket](https://web.archive.org/web/20111002080831/http://www.viddler.com/explore/oredev/videos/61/)
+  - [Javalobby采访Martijn Dashorst（项目主席）](http://www.javalobby.org/java/forums/t105230.html)
+  - [Martijn Dashorst讲Wicket](https://web.archive.org/web/20111002080831/http://www.viddler.com/explore/oredev/videos/61/)
 
 ### 博客
 
@@ -195,10 +188,7 @@ public class HelloWorldApplication extends WebApplication {
   - [在现实世界使用Wicket的众多例子](https://web.archive.org/web/20090803103522/http://wicketbyexample.com/)
   - [一个免费且全面的Wicket用户指南](https://code.google.com/p/wicket-guide/)
 
-[Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink")
-[Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink")
-[Category:Java企业平台](https://zh.wikipedia.org/wiki/Category:Java企业平台 "wikilink")
-[Category:Web应用框架](https://zh.wikipedia.org/wiki/Category:Web应用框架 "wikilink")
+[Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink") [Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink") [Category:Java企业平台](https://zh.wikipedia.org/wiki/Category:Java企业平台 "wikilink") [Category:Web应用框架](https://zh.wikipedia.org/wiki/Category:Web应用框架 "wikilink")
 
 1.
 2.

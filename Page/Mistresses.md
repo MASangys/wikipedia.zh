@@ -1,6 +1,4 @@
-《**Mistresses**》（），為韓國[OCN於](https://zh.wikipedia.org/wiki/OCN "wikilink")2018年4月28日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original
-Series），由《[有理的愛情](../Page/有理的愛情.md "wikilink")》導演執導與高正雲、金珍玉作家合作打造。此劇講述在失去丈夫後與女兒相依為命的女人，突然開始不斷接到身份不明的電話，奇怪的事情接踵而來的故事\[1\]\[2\]\[3\]。本剧在韩国列为19禁电视剧。台灣地區，愛奇藝台灣站4/29(日)起，每周日、一早上10點更新。LINE
-TV從5月2日起每週三、四中午12:00更新。港澳地區則由[亞洲電視數碼媒體從](../Page/亞洲電視數碼媒體.md "wikilink")4月29日與韓國同步推出。
+《**Mistresses**》（），為韓國[OCN於](https://zh.wikipedia.org/wiki/OCN "wikilink")2018年4月28日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original Series），由《[有理的愛情](../Page/有理的愛情.md "wikilink")》導演執導與高正雲、金珍玉作家合作打造。此劇講述在失去丈夫後與女兒相依為命的女人，突然開始不斷接到身份不明的電話，奇怪的事情接踵而來的故事\[1\]\[2\]\[3\]。本剧在韩国列为19禁电视剧。台灣地區，愛奇藝台灣站4/29(日)起，每周日、一早上10點更新。LINE TV從5月2日起每週三、四中午12:00更新。港澳地區則由[亞洲電視數碼媒體](../Page/亞洲電視數碼媒體.md "wikilink")從4月29日與韓國同步推出。
 
 ## 演員陣容
 
@@ -205,7 +203,7 @@ TV從5月2日起每週三、四中午12:00更新。港澳地區則由[亞洲電�
 |                                  |        |                                                                 |
 | -------------------------------- | ------ | --------------------------------------------------------------- |
 | **演員**                           | **角色** | **介紹**                                                          |
-| [李荷娜](../Page/李荷娜.md "wikilink") | 姜權酒    | 在同一小區看屋並準備租屋的帶墨鏡女人。（宣傳《[Voice2](../Page/Voice2.md "wikilink")》） |
+| [李荷娜](../Page/李荷娜.md "wikilink") | 姜勸酒    | 在同一小區看屋並準備租屋的帶墨鏡女人。（宣傳《[Voice2](../Page/Voice2.md "wikilink")》） |
 
 ## 收視率
 
@@ -330,24 +328,15 @@ TV從5月2日起每週三、四中午12:00更新。港澳地區則由[亞洲電�
 ## 外部連結
 
   - [韓國OCN官方網站](http://program.tving.com/ocn/mistress)
-  - [Mistresses -
-    DAUM](https://web.archive.org/web/20180429160316/http://movie.daum.net/tv/main?tvProgramId=81901)
+  - [Mistresses - DAUM](https://web.archive.org/web/20180429160316/http://movie.daum.net/tv/main?tvProgramId=81901)
   - [Mistresses - NAVER](http://m.entertain.naver.com/tvBrand/6680070)
   - [香港有線電視官方網站](http://epg.i-cable.com/ci/program/intro/581/獵豔情人)
 
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink")
-[Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink")
-[Category:翻拍電視劇](https://zh.wikipedia.org/wiki/Category:翻拍電視劇 "wikilink")
-[Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink")
-[Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
+[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink") [Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink") [Category:翻拍電視劇](https://zh.wikipedia.org/wiki/Category:翻拍電視劇 "wikilink") [Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:情婦_(電視劇)](https://zh.wikipedia.org/wiki/Category:情婦_\(電視劇\) "wikilink")
 
 1.  [韓佳人產後複出！暌違6年接拍新劇：翻拍英劇《Mistresses》主演班底確定](https://www.koreastardaily.com/tc/news/103352)，韓星網，2018-03-07
-2.  [韓佳人出演OCN《Mistress》
-    時隔6年回歸家庭影院](https://www.xuehua.us/2018/03/08/%E9%9F%A9%E4%BD%B3%E4%BA%BA%E5%87%BA%E6%BC%94ocn%E3%80%8Amistress%E3%80%8B-%E6%97%B6%E9%9A%946%E5%B9%B4%E5%9B%9E%E5%BD%92%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2/zh-tw/)，雪花新聞，2018-03-08
-3.  [韓佳人產後復出
-    時隔6年接演新劇《女主人》](http://www.epochtimes.com/b5/18/1/6/n10030433.htm)，大紀元時報，2018-01-06
+2.  [韓佳人出演OCN《Mistress》 時隔6年回歸家庭影院](https://www.xuehua.us/2018/03/08/%E9%9F%A9%E4%BD%B3%E4%BA%BA%E5%87%BA%E6%BC%94ocn%E3%80%8Amistress%E3%80%8B-%E6%97%B6%E9%9A%946%E5%B9%B4%E5%9B%9E%E5%BD%92%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2/zh-tw/)，雪花新聞，2018-03-08
+3.  [韓佳人產後復出 時隔6年接演新劇《女主人》](http://www.epochtimes.com/b5/18/1/6/n10030433.htm)，大紀元時報，2018-01-06
 4.  第10集住民登錄証上的漢名字為張世娟
 5.
 6.

@@ -84,9 +84,7 @@ p.title = function (frame )
 
 end
 
-\-- stripZeros finds the first number and strips leading zeros (apart
-from units) -- e.g "0940" -\> "940"; "Year: 0023" -\> "Year: 23";
-"00.12" -\> "0.12" p.stripZeros = function(frame)
+\-- stripZeros finds the first number and strips leading zeros (apart from units) -- e.g "0940" -\> "940"; "Year: 0023" -\> "Year: 23"; "00.12" -\> "0.12" p.stripZeros = function(frame)
 
 `   local s = mw.text.trim(frame.args[1] or "")`
 `   n = tonumber( string.match( s, "%d+" ) ) or ""`
@@ -95,22 +93,14 @@ from units) -- e.g "0940" -\> "940"; "Year: 0023" -\> "Year: 23";
 
 end
 
-\-- nowiki ensures that a string of text is treated by the MediaWiki
-software as just a string -- it takes an unnamed parameter and trims
-whitespace, then removes any wikicode p.nowiki = function(frame)
+\-- nowiki ensures that a string of text is treated by the MediaWiki software as just a string -- it takes an unnamed parameter and trims whitespace, then removes any wikicode p.nowiki = function(frame)
 
 `   local str = mw.text.trim(frame.args[1] or "")`
 `   return mw.text.nowiki(str)`
 
 end
 
-\-- posnq (position, no quotes) returns the numerical start position of
-the first occurrence -- of one piece of text ("match") inside another
-("str"). -- It returns nil if no match is found, or if either parameter
-is blank. -- It takes the text to be searched in as the first unnamed
-parameter, which is trimmed. -- It takes the text to match as the second
-unnamed parameter, which is trimmed and -- any double quotes " are
-stripped out. p.posnq = function(frame)
+\-- posnq (position, no quotes) returns the numerical start position of the first occurrence -- of one piece of text ("match") inside another ("str"). -- It returns nil if no match is found, or if either parameter is blank. -- It takes the text to be searched in as the first unnamed parameter, which is trimmed. -- It takes the text to match as the second unnamed parameter, which is trimmed and -- any double quotes " are stripped out. p.posnq = function(frame)
 
 `   local str = mw.text.trim(frame.args[1] or "")`
 `   local match = mw.text.trim(frame.args[2] or ""):gsub('"', '')`

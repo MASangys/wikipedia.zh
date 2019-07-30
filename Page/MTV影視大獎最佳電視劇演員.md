@@ -1,5 +1,4 @@
-**MTV影視大獎最佳電視劇演員**（MTV Movie & TV Awards for Best Actor in a
-Show）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wikilink")，頒發給年度最佳電視劇演員，於2017年開始頒發。
+**MTV影視大獎最佳電視劇演員**（MTV Movie & TV Awards for Best Actor in a Show）是[MTV影視大獎](../Page/MTV影視大獎.md "wikilink")重要的獎項之一，頒發給年度最佳電視劇演員，於2017年開始頒發。
 
 ## 歷屆得主
 
@@ -19,7 +18,7 @@ Show）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wik
 <td><p><strong>2017<br />
 (第26屆)</strong></p></td>
 <td><p><strong><a href="../Page/米莉·芭比·布朗.md" title="wikilink">米莉·芭比·布朗</a></strong></p></td>
-<td><p><em>' 《<a href="../Page/怪奇物語.md" title="wikilink">怪奇物語(第1季)</a>》</em>'</p></td>
+<td><p><em>' 《<a href="../Page/怪奇物語.md" title="wikilink">怪奇物語</a>(第1季)》</em>'</p></td>
 <td><p><br />
 [1]</p></td>
 </tr>
@@ -57,7 +56,7 @@ Show）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wik
 <td><p><strong>2018<br />
 (第27屆)</strong></p></td>
 <td><p>'''<a href="../Page/米莉·芭比·布朗.md" title="wikilink">米莉·芭比·布朗</a></p></td>
-<td><p>'''《<a href="../Page/怪奇物語.md" title="wikilink">怪奇物語(第2季)</a>》</p></td>
+<td><p>'''《<a href="../Page/怪奇物語.md" title="wikilink">怪奇物語</a>(第2季)》</p></td>
 <td></td>
 </tr>
 <tr class="even">

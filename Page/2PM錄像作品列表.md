@@ -473,8 +473,7 @@
   - [韓國官方網站](http://2pm.jype.com)
   - [日本官方網站](http://2pmjapan.com/)
 
-[Category:2PM](https://zh.wikipedia.org/wiki/Category:2PM "wikilink")
-[Category:韓國錄像作品列表](https://zh.wikipedia.org/wiki/Category:韓國錄像作品列表 "wikilink")
+[Category:2PM](https://zh.wikipedia.org/wiki/Category:2PM "wikilink") [Category:韓國錄像作品列表](https://zh.wikipedia.org/wiki/Category:韓國錄像作品列表 "wikilink")
 
 1.
 2.

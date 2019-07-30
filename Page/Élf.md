@@ -1,19 +1,16 @@
-**élf**（エルフ）是一家[日本成人遊戲公司](../Page/日本成人遊戲.md "wikilink")，總部位在[東京都](../Page/東京都.md "wikilink")，成立於1989年4月27日。過去在1990年代曾經和[AliceSoft有](https://zh.wikipedia.org/wiki/AliceSoft "wikilink")「東elf，西Alice」（東のエルフ、西のアリス）的齊名稱號。\[1\]
-絕大部分élf遊戲也曾被改編為[成人動畫](../Page/成人動畫.md "wikilink")。有三部élf遊戲系列更曾被改編為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")：《[下級生](../Page/下級生.md "wikilink")》、《[萊姆色戰奇譚](https://zh.wikipedia.org/wiki/萊姆色戰奇譚 "wikilink")》、《[YU-NO
-在這世界盡頭詠唱愛的少女](../Page/YU-NO_在這世界盡頭詠唱愛的少女.md "wikilink")》。
+**élf**（エルフ）是一家[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")公司，總部位在[東京都](../Page/東京都.md "wikilink")，成立於1989年4月27日。過去在1990年代曾經和[AliceSoft有](https://zh.wikipedia.org/wiki/AliceSoft "wikilink")「東elf，西Alice」（東のエルフ、西のアリス）的齊名稱號。\[1\] 絕大部分élf遊戲也曾被改編為[成人動畫](../Page/成人動畫.md "wikilink")。有三部élf遊戲系列更曾被改編為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")：《[下級生](../Page/下級生.md "wikilink")》、《[萊姆色戰奇譚](https://zh.wikipedia.org/wiki/萊姆色戰奇譚 "wikilink")》、《[YU-NO 在這世界盡頭詠唱愛的少女](../Page/YU-NO_在這世界盡頭詠唱愛的少女.md "wikilink")》。
 
-élf在2016年停止獨立營運，旗下遊戲的版權則分別賣給[DMM.com和](../Page/DMM.com.md "wikilink")[MAGES.](https://zh.wikipedia.org/wiki/MAGES. "wikilink")。\[2\]\[3\]
+élf在2016年停止獨立營運，旗下遊戲的版權則分別賣給[DMM.com](../Page/DMM.com.md "wikilink")和[MAGES.](https://zh.wikipedia.org/wiki/MAGES. "wikilink")。\[2\]\[3\]
 
 ## 歷史
 
-  - 1989年4月在東京都[世田谷區成立](../Page/世田谷區.md "wikilink")**élf**。
+  - 1989年4月在東京都[世田谷區](../Page/世田谷區.md "wikilink")成立**élf**。
   - 1992年成立新品牌**SILKY'S**（シルキーズ）。
   - 1996年開始發售[遊戲機移植版](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")。
   - 2000年élf創立者之一離開élf。
   - 2006年成立新品牌**BANANA Shu-Shu**。
   - 2008年1月31日BANANA Shu-Shu停止營運。
-  - 2014年1月《[YU-NO
-    在這世界盡頭詠唱愛的少女](../Page/YU-NO_在這世界盡頭詠唱愛的少女.md "wikilink")》的版權轉讓給MAGES，並宣布製作完全[重製版](https://zh.wikipedia.org/wiki/重製版 "wikilink")。\[4\]預定在2017年3月16日發售PS4版和PSV版。\[5\]
+  - 2014年1月《[YU-NO 在這世界盡頭詠唱愛的少女](../Page/YU-NO_在這世界盡頭詠唱愛的少女.md "wikilink")》的版權轉讓給MAGES，並宣布製作完全[重製版](https://zh.wikipedia.org/wiki/重製版 "wikilink")。\[4\]預定在2017年3月16日發售PS4版和PSV版。\[5\]
   - 2014年6月SILKY'S停止營運，原工作團隊另外在NightWind公司成立新品牌****（）。\[6\]\[7\]
   - 2016年3月1日élf和SILKY'S在官方網站公告將在3月31日關閉官方網站。\[8\]\[9\]
 
@@ -474,18 +471,14 @@
   - [élf](https://web.archive.org/web/20040710061823/http://www.elf-game.co.jp/)
   - [SILKY'S](https://web.archive.org/web/20140723131223/http://www.silkys.jp/)
 
-[Category:1989年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1989年開業電子遊戲公司 "wikilink")
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:中野區公司](https://zh.wikipedia.org/wiki/Category:中野區公司 "wikilink")
+[Category:1989年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1989年開業電子遊戲公司 "wikilink") [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:中野區公司](https://zh.wikipedia.org/wiki/Category:中野區公司 "wikilink")
 
 1.
 2.  <http://news.pconline.com.cn/832/8322181.html>
 3.  <http://hkacger.com/archives/79111/%E7%9C%9F%E7%9A%84%E6%98%AF%E6%9C%89%E7%94%9F%E4%B9%8B%E5%B9%B4%E4%BD%9C%E5%93%81%EF%BC%8C4%E6%9C%88%E6%96%B0%E7%95%AA%E3%80%8Ayu-no-%E5%9C%A8%E9%80%99%E4%B8%96%E7%95%8C%E7%9B%A1%E9%A0%AD%E8%A9%A0/>
 4.
 5.
-6.  [老舗ゲームメーカー『エルフ』がピンチ！
-    エルフスタッフも引き連れて別ブランド『シルキーズプラス』を設立](http://getnews.jp/archives/608290)ガジェット通信
+6.  [老舗ゲームメーカー『エルフ』がピンチ！ エルフスタッフも引き連れて別ブランド『シルキーズプラス』を設立](http://getnews.jp/archives/608290)ガジェット通信
 7.
 8.  [『YU-NO』『同級生』などで知られるエルフがホームページ閉鎖予告。ネットでは「寂しい」「ひとつの時代の終わり」の声](https://netatopi.jp/article/1001727.html)ネタとぴ
-9.  [《同級生》、《下級生》等知名日本遊戲廠商 elf 官網預告 3
-    月底關閉](http://gnn.gamer.com.tw/0/128560.html)[巴哈姆特電玩資訊站](../Page/巴哈姆特電玩資訊站.md "wikilink")
+9.  [《同級生》、《下級生》等知名日本遊戲廠商 elf 官網預告 3 月底關閉](http://gnn.gamer.com.tw/0/128560.html)[巴哈姆特電玩資訊站](../Page/巴哈姆特電玩資訊站.md "wikilink")

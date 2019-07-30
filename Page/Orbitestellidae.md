@@ -5,23 +5,16 @@
 本科包括以下4個屬
 
   - *[Boschitestella](https://zh.wikipedia.org/wiki/Boschitestella "wikilink")*
-
   - *[Lurifax](https://zh.wikipedia.org/wiki/Lurifax "wikilink")*
-  - *[Microdiscula](https://zh.wikipedia.org/wiki/Microdiscula "wikilink")*
-    ：有平滑的螺殻。
+  - *[Microdiscula](https://zh.wikipedia.org/wiki/Microdiscula "wikilink")* ：有平滑的螺殻。
   - *[Orbitestella](https://zh.wikipedia.org/wiki/Orbitestella "wikilink")*
-
 
 ## 參考文獻
 
 ## 外部連結
 
   -
-  - [Powell A. W.
-    B.](https://zh.wikipedia.org/wiki/Arthur_William_Baden_Powell "wikilink"),
-    *New Zealand Mollusca*, [William Collins Publishers
-    Ltd](https://zh.wikipedia.org/wiki/HarperCollins "wikilink"),
-    Auckland, New Zealand 1979
+  - [Powell A. W. B.](https://zh.wikipedia.org/wiki/Arthur_William_Baden_Powell "wikilink"), *New Zealand Mollusca*, [William Collins Publishers Ltd](https://zh.wikipedia.org/wiki/HarperCollins "wikilink"), Auckland, New Zealand 1979
 
   - [ZipCodeZoo](https://web.archive.org/web/20120210054623/http://zipcodezoo.com/Key/Orbitestellidae_Family.asp)
 

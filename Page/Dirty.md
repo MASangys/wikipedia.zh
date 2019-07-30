@@ -1,10 +1,8 @@
-《**Dirty**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[G.Soul的第](../Page/G.Soul.md "wikilink")2張迷你專輯，於2015年9月10日發行，主打曲為〈為你瘋狂〉。
+《**Dirty**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[G.Soul](../Page/G.Soul.md "wikilink")的第2張迷你專輯，於2015年9月10日發行，主打曲為〈為你瘋狂〉。
 
 ## 概要
 
-在本張專輯中，G.Soul嘗試將[浩室音樂中的](https://zh.wikipedia.org/wiki/浩室音樂 "wikilink")[靈魂樂及](../Page/靈魂樂.md "wikilink")[爵士融合](../Page/爵士.md "wikilink")，主打曲〈為你瘋狂〉由他親自作詞，描述深陷於愛情之中，分秒都無法離開心境。收錄曲〈Till
-I die〉則延續主打曲的情感，述說深愛著某個人，直到死去，靈魂離開軀體為止。最後一首歌曲〈Stop The
-Love〉則是講述即使無法實現，也沒辦法停止愛情的故事。\[1\]
+在本張專輯中，G.Soul嘗試將[浩室音樂中的](https://zh.wikipedia.org/wiki/浩室音樂 "wikilink")[靈魂樂](../Page/靈魂樂.md "wikilink")及[爵士](../Page/爵士.md "wikilink")融合，主打曲〈為你瘋狂〉由他親自作詞，描述深陷於愛情之中，分秒都無法離開心境。收錄曲〈Till I die〉則延續主打曲的情感，述說深愛著某個人，直到死去，靈魂離開軀體為止。最後一首歌曲〈Stop The Love〉則是講述即使無法實現，也沒辦法停止愛情的故事。\[1\]
 
 ## 曲目
 
@@ -51,9 +49,7 @@ Love〉則是講述即使無法實現，也沒辦法停止愛情的故事。\[1\
 
 ## 引用資料
 
-[Category:G.Soul音樂專輯](https://zh.wikipedia.org/wiki/Category:G.Soul音樂專輯 "wikilink")
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:G.Soul音樂專輯](https://zh.wikipedia.org/wiki/Category:G.Soul音樂專輯 "wikilink") [Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

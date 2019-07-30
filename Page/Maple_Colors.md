@@ -1,9 +1,4 @@
-《**Maple
-Colors**》是由日本遊戲公司[CROSSNET的旗下品牌ApRicoT製作於](../Page/CROSSNET.md "wikilink")2003年7月25日發售\[1\]\[2\]，Maple
-Colors系列第一作，後來發售[PlayStation
-2版](../Page/PlayStation_2.md "wikilink")《Maple Colors
-〜決戰學園祭\!〜》（）和[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Maple
-Colors H》，另外也改編成OVA、漫畫、小說。
+《**Maple Colors**》是由日本遊戲公司[CROSSNET](../Page/CROSSNET.md "wikilink")的旗下品牌ApRicoT製作於2003年7月25日發售\[1\]\[2\]，Maple Colors系列第一作，後來發售[PlayStation 2版](../Page/PlayStation_2.md "wikilink")《Maple Colors 〜決戰學園祭\!〜》（）和[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Maple Colors H》，另外也改編成OVA、漫畫、小說。
 
 ## 故事
 
@@ -20,7 +15,7 @@ Colors H》，另外也改編成OVA、漫畫、小說。
   - 卯月あむ（聲優：宇佐美桃香）
     良次郎的同學，被人們稱呼天才的藝人。
   - 咲守素子（聲優：Ruru）
-    良次郎的同學，[合氣道社的成員](../Page/合氣道.md "wikilink")。
+    良次郎的同學，[合氣道](../Page/合氣道.md "wikilink")社的成員。
   - 鈴原空（聲優：[青山ゆかり](https://zh.wikipedia.org/wiki/青山ゆかり "wikilink")）
     良次郎的同學，游泳社的成員。
   - 桃井葉子（聲優：大波こなみ）
@@ -35,8 +30,7 @@ Colors H》，另外也改編成OVA、漫畫、小說。
 
 ## OVA
 
-OVA是由Milky發售的成人動畫共兩集，分成VHS和DVD，片尾曲是遊戲片頭曲。\[4\]2015年5月1日發售合集《Maple Colors
-Complete Edition》。
+OVA是由Milky發售的成人動畫共兩集，分成VHS和DVD，片尾曲是遊戲片頭曲。\[4\]2015年5月1日發售合集《Maple Colors Complete Edition》。
 
 ### 各集列表
 
@@ -75,26 +69,16 @@ Complete Edition》。
 
 ## 評價
 
-《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")》851號的クロスレビュー對PlayStation
-2版給予29/40評分。\[5\]
+《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")》851號的クロスレビュー對PlayStation 2版給予29/40評分。\[5\]
 
 ## 參考來源
 
 ## 外部連結
 
-  - [Maple Colors
-    官方網站](http://www.t-apricot.jp/products/maple/index.html)ApRicoT
-  - [Maple Colors
-    H官方網站](http://www.t-apricot.jp/products/maple_h/index.html)ApRicoT
+  - [Maple Colors 官方網站](http://www.t-apricot.jp/products/maple/index.html)ApRicoT
+  - [Maple Colors H官方網站](http://www.t-apricot.jp/products/maple_h/index.html)ApRicoT
 
-[Category:2003年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2003年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:2004年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2004年日本成人動畫 "wikilink")
+[Category:2003年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2003年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:2004年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2004年日本成人動畫 "wikilink")
 
 1.
 2.

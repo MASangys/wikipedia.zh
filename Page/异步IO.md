@@ -35,8 +35,7 @@ CloseHandle(hFile);
 
 ### GetOverlappedResult函数
 
-也可以使用[Windows
-API函数GetOverlappedResult直接阻塞](../Page/Windows_API.md "wikilink")/非阻塞等待指定的异步IO操作是否完成。\[2\]该函数检查OVERLAPPED结构中的Internal成员的值是否为STATUS_PENDING来判断异步IO是否完成。
+也可以使用[Windows API函数GetOverlappedResult直接阻塞](../Page/Windows_API.md "wikilink")/非阻塞等待指定的异步IO操作是否完成。\[2\]该函数检查OVERLAPPED结构中的Internal成员的值是否为STATUS_PENDING来判断异步IO是否完成。
 
 ### 异步IO操作的完成通知用[事件内核对象](../Page/事件_\(同步原语\).md "wikilink")
 
@@ -64,16 +63,15 @@ CloseHandle(hFile);
 
 ### [可唤醒I/O](https://zh.wikipedia.org/wiki/可唤醒I/O "wikilink")
 
-异步[可唤醒I/O操作通过ReadFileEx](https://zh.wikipedia.org/wiki/可唤醒I/O "wikilink")/WriteFileEx函数指出完成过程回调函数。回调函数在该线程的可唤醒等待（alertable
-wait）中被执行。
+异步[可唤醒I/O操作通过ReadFileEx](https://zh.wikipedia.org/wiki/可唤醒I/O "wikilink")/WriteFileEx函数指出完成过程回调函数。回调函数在该线程的可唤醒等待（alertable wait）中被执行。
 
 ### [完成端口](https://zh.wikipedia.org/wiki/完成端口 "wikilink")
 
 使用CreateIoCompletionPort函数创建一个[完成端口](https://zh.wikipedia.org/wiki/完成端口 "wikilink")。然后把文件句柄绑定到这个完成端口（通过CreateIoCompletionPort函数)。这个文件句柄上的异步IO操作完成时，会自动向这个完成完成端口发通知。线程通过GetQueuedCompletionStatus函数等待这个完成端口上的完成通知，然后从GetQueuedCompletionStatus的调用返回处恢复线程执行。
 
-### [线程池I](../Page/线程池.md "wikilink")/O完成对象
+### [线程池](../Page/线程池.md "wikilink")I/O完成对象
 
-使用CreateThreadpoolIo函数创建一个I/O完成对象，绑定了要执行异步I/O操作的文件句柄与待执行的回调函数。通过StartThreadpoolIo函数开始I/O完成对象的工作。每当绑定的文件句柄上的异步I/O操作完成，自动调用[线程池上的线程执行指定的回调函数](../Page/线程池.md "wikilink")。
+使用CreateThreadpoolIo函数创建一个I/O完成对象，绑定了要执行异步I/O操作的文件句柄与待执行的回调函数。通过StartThreadpoolIo函数开始I/O完成对象的工作。每当绑定的文件句柄上的异步I/O操作完成，自动调用[线程池](../Page/线程池.md "wikilink")上的线程执行指定的回调函数。
 
 例子：
 
@@ -121,40 +119,17 @@ CloseThreadpoolIo(pio);//关闭线程池io完成对象
 
 ## 外部链接
 
-  - [The C10K
-    Problem](https://www.webcitation.org/6ICibHuyd?url=http://www.kegel.com/c10k.html);
-    a survey of asynchronous I/O methods with emphasis on scaling – by
-    Dan Kegel
-  - Article "[Boost application performance using asynchronous
-    I/O](http://www.ibm.com/developerworks/library/l-async)" by [M. Tim
-    Jones](https://zh.wikipedia.org/wiki/M._Tim_Jones "wikilink")
-  - Article "[Lazy Asynchronous I/O For Event-Driven
-    Servers](http://www.usenix.org/event/usenix04/tech/general/full_papers/elmeleegy/elmeleegy_html/html.html)"
-    by [Willy
-    Zwaenepoel](https://zh.wikipedia.org/wiki/Willy_Zwaenepoel "wikilink"),
-    [Khaled
-    Elmeleegy](https://zh.wikipedia.org/wiki/Khaled_Elmeleegy "wikilink"),
-    [Anupam
-    Chanda](https://zh.wikipedia.org/wiki/Anupam_Chanda "wikilink") and
-    [Alan L. Cox](https://zh.wikipedia.org/wiki/Alan_L._Cox "wikilink")
-  - [Perform I/O Operations in
-    Parallel](https://www.gnu.org/software/libc/manual/html_node/Asynchronous-I_002fO.html)
-  - [Description from POSIX
-    standard](http://opengroup.org/onlinepubs/009695399/basedefs/aio.h.html)
-  - [Inside I/O Completion
-    Ports](https://web.archive.org/web/20101101112358/http://doc.sch130.nsc.ru/www.sysinternals.com/ntw2k/info/comport.shtml)
-    by [Mark
-    Russinovich](https://zh.wikipedia.org/wiki/Mark_Russinovich "wikilink")
-  - [Asynchronous I/O and The Asynchronous Disk I/O
-    Explorer](http://www.flounder.com/asynchexplorer.htm)
-  - [IO::AIO is a Perl module offering an asynchronous interface for
-    most I/O operations](http://software.schmorp.de/pkg/IO-AIO.html)
-  - [ACE
-    Proactor](https://web.archive.org/web/20170623060116/http://www.cs.wustl.edu/~schmidt/PDF/proactor.pdf)
+  - [The C10K Problem](https://www.webcitation.org/6ICibHuyd?url=http://www.kegel.com/c10k.html); a survey of asynchronous I/O methods with emphasis on scaling – by Dan Kegel
+  - Article "[Boost application performance using asynchronous I/O](http://www.ibm.com/developerworks/library/l-async)" by [M. Tim Jones](https://zh.wikipedia.org/wiki/M._Tim_Jones "wikilink")
+  - Article "[Lazy Asynchronous I/O For Event-Driven Servers](http://www.usenix.org/event/usenix04/tech/general/full_papers/elmeleegy/elmeleegy_html/html.html)" by [Willy Zwaenepoel](https://zh.wikipedia.org/wiki/Willy_Zwaenepoel "wikilink"), [Khaled Elmeleegy](https://zh.wikipedia.org/wiki/Khaled_Elmeleegy "wikilink"), [Anupam Chanda](https://zh.wikipedia.org/wiki/Anupam_Chanda "wikilink") and [Alan L. Cox](https://zh.wikipedia.org/wiki/Alan_L._Cox "wikilink")
+  - [Perform I/O Operations in Parallel](https://www.gnu.org/software/libc/manual/html_node/Asynchronous-I_002fO.html)
+  - [Description from POSIX standard](http://opengroup.org/onlinepubs/009695399/basedefs/aio.h.html)
+  - [Inside I/O Completion Ports](https://web.archive.org/web/20101101112358/http://doc.sch130.nsc.ru/www.sysinternals.com/ntw2k/info/comport.shtml) by [Mark Russinovich](https://zh.wikipedia.org/wiki/Mark_Russinovich "wikilink")
+  - [Asynchronous I/O and The Asynchronous Disk I/O Explorer](http://www.flounder.com/asynchexplorer.htm)
+  - [IO::AIO is a Perl module offering an asynchronous interface for most I/O operations](http://software.schmorp.de/pkg/IO-AIO.html)
+  - [ACE Proactor](https://web.archive.org/web/20170623060116/http://www.cs.wustl.edu/~schmidt/PDF/proactor.pdf)
 
 [Category:并发控制](https://zh.wikipedia.org/wiki/Category:并发控制 "wikilink")
 
-1.  [Description from .NET Framework Developer's
-    Guide](http://msdn.microsoft.com/en-US/library/kztecsys%28v=vs.100%29.aspx)
-2.  \[<https://msdn.microsoft.com/en-us/library/windows/desktop/ms683209(v=vs.85>).aspx
-    MSDN:GetOverlappedResult function\]
+1.  [Description from .NET Framework Developer's Guide](http://msdn.microsoft.com/en-US/library/kztecsys%28v=vs.100%29.aspx)
+2.  \[<https://msdn.microsoft.com/en-us/library/windows/desktop/ms683209(v=vs.85>).aspx MSDN:GetOverlappedResult function\]

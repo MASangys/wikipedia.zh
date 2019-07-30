@@ -1,16 +1,8 @@
-《**TopGear極速誌**》，是香港的一份汽車雜誌，也是英國[BBC
-Worldwide](https://zh.wikipedia.org/wiki/BBC_Worldwide "wikilink")《TopGear》雜誌的國際版本之一，於2008年10月創刊，屬[萬華媒體](../Page/萬華媒體.md "wikilink")（股票編號：426）旗下刊物，並以繁體中文及月刊形式發行。香港版除「TopGear」外亦加上「極速誌」名稱以易於識別。總編輯劉偉華於香港及國內汽車刊物擔任總編及出版人多年。
+《**TopGear極速誌**》，是香港的一份汽車雜誌，也是英國[BBC Worldwide](https://zh.wikipedia.org/wiki/BBC_Worldwide "wikilink")《TopGear》雜誌的國際版本之一，於2008年10月創刊，屬[萬華媒體](../Page/萬華媒體.md "wikilink")（股票編號：426）旗下刊物，並以繁體中文及月刊形式發行。香港版除「TopGear」外亦加上「極速誌」名稱以易於識別。總編輯劉偉華於香港及國內汽車刊物擔任總編及出版人多年。
 
 ## 雜誌風格
 
-香港版每期均會轉載及翻譯英國版部份內容，並加入香港自行製作的文章，令該刊物內容較為國際化。由於英國版本與不少車廠關係密切，經常得以於汽車正式發售前已能率先報導，又或能親身試駕罕有車款及與車壇名人進行專訪，如創刊號之[Mazda風籟概念車](../Page/馬自達風籟.md "wikilink")、2009年2月號之[Pagani
-Zonda與](../Page/帕加尼.md "wikilink")[Bugatti
-Veyron對戰](../Page/布加迪威龙.md "wikilink")、2013年12月號之[McLaren
-P1等皆是其中例子](../Page/迈凯伦P1.md "wikilink")。
-由創刊開始至今，雜誌整體風格大致依從英國版的方向，以較幽默及生活化筆觸論述汽車，取向上通常較偏重於趣味性車款，並愛以專題形式報導處理（於極地駕駛、賽車場比拼等）。這些編輯方針有別於傳統強調嚴肅、數據化的硬性新聞或評論式刊物。雜誌內容亦重視多樣性，例如創刊號包括了阿帕奇直機報導、以漫畫形式講解在兩分鐘被汽車連續相撞八次的求生方式、世界各國與汽車相關的笑料，以及於Bonneville
-Speed Week六十周年重溫各速度紀錄名車等。 萬華媒體同時擁有台灣及大陸版Top
-Gear月刊之經營權（兩者的中文名稱分別為《極速誌》及《汽車測試報告》），三個版本的內容偶然能互相刊載，又或共同合作專題，如2012年3月刊，中港編輯於攝氏零下的中國北方開篷駕駛平治SLK、Lotus
-Elise R及Mini Roadster。
+香港版每期均會轉載及翻譯英國版部份內容，並加入香港自行製作的文章，令該刊物內容較為國際化。由於英國版本與不少車廠關係密切，經常得以於汽車正式發售前已能率先報導，又或能親身試駕罕有車款及與車壇名人進行專訪，如創刊號之[Mazda風籟概念車](../Page/馬自達風籟.md "wikilink")、2009年2月號之[Pagani Zonda與](../Page/帕加尼.md "wikilink")[Bugatti Veyron對戰](../Page/布加迪威龙.md "wikilink")、2013年12月號之[McLaren P1等皆是其中例子](../Page/迈凯伦P1.md "wikilink")。 由創刊開始至今，雜誌整體風格大致依從英國版的方向，以較幽默及生活化筆觸論述汽車，取向上通常較偏重於趣味性車款，並愛以專題形式報導處理（於極地駕駛、賽車場比拼等）。這些編輯方針有別於傳統強調嚴肅、數據化的硬性新聞或評論式刊物。雜誌內容亦重視多樣性，例如創刊號包括了阿帕奇直機報導、以漫畫形式講解在兩分鐘被汽車連續相撞八次的求生方式、世界各國與汽車相關的笑料，以及於Bonneville Speed Week六十周年重溫各速度紀錄名車等。 萬華媒體同時擁有台灣及大陸版Top Gear月刊之經營權（兩者的中文名稱分別為《極速誌》及《汽車測試報告》），三個版本的內容偶然能互相刊載，又或共同合作專題，如2012年3月刊，中港編輯於攝氏零下的中國北方開篷駕駛平治SLK、Lotus Elise R及Mini Roadster。
 
 由2010年1月號開始，年度汽車總選成為每年1月的固定封面內容，由編輯自行評選出上一年的最佳汽車，首屆之拍攝地點為昔日小欖樂安排海水化淡廠之廢棄廠房。該年3月之「彎路王同學會」，及後發展成每年年中必備之「趣彎村」封面專題，以比試該年上半年最佳的彎路之車，凸顯出雜誌偏重於駕駛樂趣而非單純講求實用的方針。
 
@@ -20,10 +12,6 @@ Elise R及Mini Roadster。
 
 ## 電子平台
 
-除傳媒紙張印刷月刊，香港版設有Apple
-iPad版本於網上銷售。另該雜誌設有專屬網站、[Facebook及](../Page/Facebook.md "wikilink")[Youtube頻道](https://zh.wikipedia.org/wiki/Youtube "wikilink")，於2011年啟用的Facebook平台，現時累積追縱人數約15萬。近年編輯部著力自行製作汽車影片，取材包括本地及海外，有部分為雜誌內容相關，亦有獨立於刊物，唯不少影片仍保留雜誌輕鬆幽默及以專題方式報導之風格。多年以來，2011年7月之KTM
-Aphex單車與[Range Rover
-Sport鬥快由太平山落山至金鐘纜車站比拼](../Page/路虎.md "wikilink")，成為早期最受歡的影片；2011年拍攝由北京驅車前往西藏之影片，曾奪得網絡影片獎項。
+除傳媒紙張印刷月刊，香港版設有Apple iPad版本於網上銷售。另該雜誌設有專屬網站、[Facebook](../Page/Facebook.md "wikilink")及[Youtube頻道](https://zh.wikipedia.org/wiki/Youtube "wikilink")，於2011年啟用的Facebook平台，現時累積追縱人數約15萬。近年編輯部著力自行製作汽車影片，取材包括本地及海外，有部分為雜誌內容相關，亦有獨立於刊物，唯不少影片仍保留雜誌輕鬆幽默及以專題方式報導之風格。多年以來，2011年7月之KTM Aphex單車與[Range Rover Sport鬥快由太平山落山至金鐘纜車站比拼](../Page/路虎.md "wikilink")，成為早期最受歡的影片；2011年拍攝由北京驅車前往西藏之影片，曾奪得網絡影片獎項。
 
-[Category:香港雜誌](https://zh.wikipedia.org/wiki/Category:香港雜誌 "wikilink")
-[Category:汽車產業](https://zh.wikipedia.org/wiki/Category:汽車產業 "wikilink")
+[Category:香港雜誌](https://zh.wikipedia.org/wiki/Category:香港雜誌 "wikilink") [Category:汽車產業](https://zh.wikipedia.org/wiki/Category:汽車產業 "wikilink")

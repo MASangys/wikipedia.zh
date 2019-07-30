@@ -1,16 +1,6 @@
 <div id="contentSub">
 
-<span class="subpages">**Music
-Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md "wikilink")
-- [2011年](../Page/Music_Café節目列表_\(2011年\).md "wikilink") -
-[2012年](../Page/Music_Café節目列表_\(2012年\).md "wikilink")** -
-**[2013年](../Page/Music_Café節目列表_\(2013年\).md "wikilink")** -
-**[2014年](../Page/Music_Café節目列表_\(2014年\).md "wikilink")** -
-**[2015年](../Page/Music_Café節目列表_\(2015年\).md "wikilink")** -
-**[2016年](../Page/Music_Café節目列表_\(2016年\).md "wikilink")** -
-**2017年** -
-**[2018年](../Page/Music_Café節目列表_\(2018年\).md "wikilink")**
-- **[2019年](../Page/Music_Café節目列表_\(2019年\).md "wikilink")**</span>
+<span class="subpages">**Music Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md "wikilink") - [2011年](../Page/Music_Café節目列表_\(2011年\).md "wikilink") - [2012年](../Page/Music_Café節目列表_\(2012年\).md "wikilink")** - **[2013年](../Page/Music_Café節目列表_\(2013年\).md "wikilink")** - **[2014年](../Page/Music_Café節目列表_\(2014年\).md "wikilink")** - **[2015年](../Page/Music_Café節目列表_\(2015年\).md "wikilink")** - **[2016年](../Page/Music_Café節目列表_\(2016年\).md "wikilink")** - **2017年** - **[2018年](../Page/Music_Café節目列表_\(2018年\).md "wikilink")** - **[2019年](../Page/Music_Café節目列表_\(2019年\).md "wikilink")**</span>
 
 </div>
 
@@ -93,7 +83,7 @@ Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md
 | 集數  | J2首播日期 | 主題                    | 嘉賓                                                                                                                           |
 | --- | ------ | --------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | 335 | 9月2日   | 胡鴻鈞、鄭俊弘　歌手身份「內」、「外」兼備 | [胡鴻鈞](https://zh.wikipedia.org/wiki/胡鴻鈞 "wikilink")、[鄭俊弘](../Page/鄭俊弘.md "wikilink") |- style="background-color: \#FFFFFF" | |
-| 336 | 9月9日   | 閻奕格　高低起跌後演戲初嘗試        | [閻奕格](https://zh.wikipedia.org/wiki/閻奕格 "wikilink") |- style="background-color: \#FFFFFF" |                                  |
+| 336 | 9月9日   | 閻奕格　高低起跌後演戲初嘗試        | [閻奕格](../Page/閻奕格.md "wikilink") |- style="background-color: \#FFFFFF" |                                                     |
 | 337 | 9月16日  | 歌莉雅、陳潔麗　靚聲再創經典        | [歌莉雅](../Page/歌莉雅.md "wikilink")、[陳潔麗](../Page/陳潔麗.md "wikilink") |- style="background-color: \#FFFFFF" |                    |
 | 338 | 9月23日  | 小肥　新、舊作之魔力            | [小　肥](../Page/小肥.md "wikilink") |- style="background-color: \#FFFFFF" |                                                      |
 | 339 | 9月30日  | 石詠莉、布志綸　獨唱新旅程         | [石詠莉](../Page/石詠莉.md "wikilink")、[布志綸](../Page/布志綸.md "wikilink") |- style="background-color: \#FFFFFF" |                    |
@@ -126,6 +116,4 @@ Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md
 | 351 | 12月23日 | 譚嘉儀、伍富橋　情歌裏的幻想世界 | [譚嘉儀](../Page/譚嘉儀.md "wikilink")、[伍富橋](../Page/伍富橋.md "wikilink") |- style="background-color: \#FFFFFF" |                                       |
 | 352 | 12月30日 | 胡琳　「爵士天后」音樂新路線   | [胡　琳](../Page/胡琳.md "wikilink") |- style="background-color: \#FFFFFF" |                                                                         |
 
-[Category:無綫電視節目列表](https://zh.wikipedia.org/wiki/Category:無綫電視節目列表 "wikilink")
-[Category:Music_Café](https://zh.wikipedia.org/wiki/Category:Music_Café "wikilink")
-[Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink")
+[Category:無綫電視節目列表](https://zh.wikipedia.org/wiki/Category:無綫電視節目列表 "wikilink") [Category:Music_Café](https://zh.wikipedia.org/wiki/Category:Music_Café "wikilink") [Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink")

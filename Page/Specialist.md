@@ -1,10 +1,10 @@
-，是[朝日電視臺在](https://zh.wikipedia.org/wiki/朝日電視臺 "wikilink")2013至2015播放的4輯兩小時單發犯罪[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，及後於2016年播放電視連續劇續集。由[草彅剛主演](../Page/草彅剛.md "wikilink")。
+，是[朝日電視臺在](https://zh.wikipedia.org/wiki/朝日電視臺 "wikilink")2013至2015播放的4輯兩小時單發犯罪[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，及後於2016年播放電視連續劇續集。由[草彅剛](../Page/草彅剛.md "wikilink")主演。
 
 ## 劇情概要
 
 因為一件[殺人未遂案](https://zh.wikipedia.org/wiki/殺人未遂 "wikilink")，令原本在警察宣傳課工作的宅間善人坐了十年冤獄。
 
-十年後受害者醒來，還宅間清白。[警察本部為了監視他](https://zh.wikipedia.org/wiki/警察本部 "wikilink")，特別成立“特別搜查系”，於是宅間成為[刑警](https://zh.wikipedia.org/wiki/刑警 "wikilink")。憑他在服刑時在[監獄中掌握的](../Page/監獄.md "wikilink")[罪犯的技能](https://zh.wikipedia.org/wiki/罪犯 "wikilink")、手法、動機、心理，解決了不少棘手的案件。
+十年後受害者醒來，還宅間清白。[警察本部為了監視他](https://zh.wikipedia.org/wiki/警察本部 "wikilink")，特別成立“特別搜查系”，於是宅間成為[刑警](https://zh.wikipedia.org/wiki/刑警 "wikilink")。憑他在服刑時在[監獄](../Page/監獄.md "wikilink")中掌握的[罪犯的技能](https://zh.wikipedia.org/wiki/罪犯 "wikilink")、手法、動機、心理，解決了不少棘手的案件。
 
 ## 登場人物
 
@@ -73,21 +73,6 @@
 ## 外部連結
 
   -
-[Category:朝日電視台特別劇集](https://zh.wikipedia.org/wiki/Category:朝日電視台特別劇集 "wikilink")
-[Category:朝日電視台週四晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週四晚間九點連續劇 "wikilink")
-[Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink")
-[Category:2013年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2013年電視特別劇集 "wikilink")
-[Category:2014年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年日本電視劇集 "wikilink")
-[Category:2014年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2014年電視特別劇集 "wikilink")
-[Category:2015年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年日本電視劇集 "wikilink")
-[Category:2015年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2015年電視特別劇集 "wikilink")
-[Category:2016年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年日本電視劇集 "wikilink")
-[Category:京都市背景電視劇](https://zh.wikipedia.org/wiki/Category:京都市背景電視劇 "wikilink")
-[Category:冤案電視劇](https://zh.wikipedia.org/wiki/Category:冤案電視劇 "wikilink")
-[Category:東映電視劇](https://zh.wikipedia.org/wiki/Category:東映電視劇 "wikilink")
-[Category:銀河賞MY_BEST_TV賞大賞獲獎作品](https://zh.wikipedia.org/wiki/Category:銀河賞MY_BEST_TV賞大賞獲獎作品 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
-[Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
+[Category:朝日電視台特別劇集](https://zh.wikipedia.org/wiki/Category:朝日電視台特別劇集 "wikilink") [Category:朝日電視台週四晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週四晚間九點連續劇 "wikilink") [Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink") [Category:2013年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2013年電視特別劇集 "wikilink") [Category:2014年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年日本電視劇集 "wikilink") [Category:2014年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2014年電視特別劇集 "wikilink") [Category:2015年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年日本電視劇集 "wikilink") [Category:2015年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2015年電視特別劇集 "wikilink") [Category:2016年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年日本電視劇集 "wikilink") [Category:京都市背景電視劇](https://zh.wikipedia.org/wiki/Category:京都市背景電視劇 "wikilink") [Category:冤案電視劇](https://zh.wikipedia.org/wiki/Category:冤案電視劇 "wikilink") [Category:東映電視劇](https://zh.wikipedia.org/wiki/Category:東映電視劇 "wikilink") [Category:銀河賞MY_BEST_TV賞大賞獲獎作品](https://zh.wikipedia.org/wiki/Category:銀河賞MY_BEST_TV賞大賞獲獎作品 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
 
-1.  [村田哲司](https://twitter.com/satty_totoji/status/441926310022381569) -
-    Twitter 2014年3月7日
+1.  [村田哲司](https://twitter.com/satty_totoji/status/441926310022381569) - Twitter 2014年3月7日

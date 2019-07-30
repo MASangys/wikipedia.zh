@@ -1,13 +1,10 @@
-是[BANDAI NAMCO
-Online开发的一款](https://zh.wikipedia.org/wiki/BANDAI_NAMCO_Online "wikilink")[大型多人在线第三人称射击游戏](https://zh.wikipedia.org/wiki/第三人称射击游戏#大型多人在线第三人称射击游戏 "wikilink")。
+是[BANDAI NAMCO Online开发的一款](https://zh.wikipedia.org/wiki/BANDAI_NAMCO_Online "wikilink")[大型多人在线第三人称射击游戏](https://zh.wikipedia.org/wiki/第三人称射击游戏#大型多人在线第三人称射击游戏 "wikilink")。
 
-在日本由[万代南梦宫娱乐运营](../Page/万代南梦宫娱乐.md "wikilink")。在中国由[久游网代理运营](../Page/久游网.md "wikilink")。台港澳已經在2019年2月4日結束營運。
+在日本由[万代南梦宫娱乐](../Page/万代南梦宫娱乐.md "wikilink")运营。在中国由[久游网](../Page/久游网.md "wikilink")代理运营。台港澳已經在2019年2月4日結束營運。
 
 ## 概述
 
-游戏宇宙世纪为背景，时间横跨U.C.0079至U.C.0096。收录有相应作品的机体供玩家使用，并在版本更新时陆续追加新增机体。有时还会推出非UC系作品的机体，如《-{zh:模型戰士GUNDAM模型製作家
-起始G; zh-cn:模型战士敢达模型大师 BEGINNING G; zh-tw:模型戰士鋼彈模型製作家 起始G;
-zh-hk:模型戰士高達模型大師BEGINNING G}-》中的GPB-04B 熊霸。
+游戏宇宙世纪为背景，时间横跨U.C.0079至U.C.0096。收录有相应作品的机体供玩家使用，并在版本更新时陆续追加新增机体。有时还会推出非UC系作品的机体，如《-{zh:模型戰士GUNDAM模型製作家 起始G; zh-cn:模型战士敢达模型大师 BEGINNING G; zh-tw:模型戰士鋼彈模型製作家 起始G; zh-hk:模型戰士高達模型大師BEGINNING G}-》中的GPB-04B 熊霸。
 
 ## 机体类型
 
@@ -52,8 +49,7 @@ zh-hk:模型戰士高達模型大師BEGINNING G}-》中的GPB-04B 熊霸。
   - [机动战士Z 高达](../Page/機動戰士Z_GUNDAM.md "wikilink")
   - [机动战士高达 ZZ](../Page/機動戰士GUNDAM_ZZ.md "wikilink")
   - [模型战士高达模型大师 BEGINNING G](../Page/模型戰士GUNDAM模型製作家_起始G.md "wikilink")
-  - [机动战士高达 UC
-    RE:0096](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_UC#電視動畫 "wikilink")
+  - [机动战士高达 UC RE:0096](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_UC#電視動畫 "wikilink")
 
 **剧场版动画**
 
@@ -65,17 +61,13 @@ zh-hk:模型戰士高達模型大師BEGINNING G}-》中的GPB-04B 熊霸。
 **OVA动画**
 
   - [机动战士高达0080：口袋里的战争](../Page/機動戰士GUNDAM_0080：口袋裡的戰爭.md "wikilink")
-  - [机动战士高达0083：Stardust
-    Memory](../Page/機動戰士GUNDAM_0083：Stardust_Memory.md "wikilink")
+  - [机动战士高达0083：Stardust Memory](../Page/機動戰士GUNDAM_0083：Stardust_Memory.md "wikilink")
   - [机动战士高达第08MS小队](../Page/機動戰士GUNDAM第08MS小隊.md "wikilink")
   - [机动战士高达 MS IGLOO](../Page/機動戰士GUNDAM_MS_IGLOO.md "wikilink")
-  - [机动战士高达
-    UC](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_UC#OVA "wikilink")
-  - [机动战士高达 THE
-    ORIGIN](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_THE_ORIGIN "wikilink")
+  - [机动战士高达 UC](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_UC#OVA "wikilink")
+  - [机动战士高达 THE ORIGIN](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_THE_ORIGIN "wikilink")
   - [机动战士高达 Thunderbolt](../Page/机动战士GUNDAM_Thunderbolt.md "wikilink")
-  - [機動戰士GUNDAM Twilight
-    AXIS](../Page/機動戰士GUNDAM_Twilight_AXIS.md "wikilink")
+  - [機動戰士GUNDAM Twilight AXIS](../Page/機動戰士GUNDAM_Twilight_AXIS.md "wikilink")
 
 </td>
 
@@ -86,13 +78,11 @@ zh-hk:模型戰士高達模型大師BEGINNING G}-》中的GPB-04B 熊霸。
   - 机动战士高达 CROSS DIMENSION 0079
   - 机动战士高达外传 THE BLUE DESTINY
   - [机动战士高达外传 殖民地堕落之地…](../Page/機動戰士GUNDAM外傳_殖民地墮落之地.md "wikilink")
-  - [机动战士高达战记 Lost War
-    Chronicles](../Page/機動戰士GUNDAM戰記_Lost_War_Chronicles.md "wikilink")
+  - [机动战士高达战记 Lost War Chronicles](../Page/機動戰士GUNDAM戰記_Lost_War_Chronicles.md "wikilink")
   - 机动战士高达 相逢在宇宙
   - [机动战士高达外传 宇宙、闪光的尽头…](../Page/機動戰士GUNDAM外傳_宇宙、閃光的盡頭….md "wikilink")
   - Zeonic Front 机动战士高达0079
-  - [机动战士高达外传 MISSING
-    LINK](https://zh.wikipedia.org/wiki/机动战士GUNDAM_SIDE_STORIES#MISSING_LINK "wikilink")
+  - [机动战士高达外传 MISSING LINK](https://zh.wikipedia.org/wiki/机动战士GUNDAM_SIDE_STORIES#MISSING_LINK "wikilink")
   - \-{Harmony of Gundam}-
   - 机动战士高达战记
   - GUNDAM TACTICS MOBILITY FLEET0079
@@ -113,13 +103,11 @@ zh-hk:模型戰士高達模型大師BEGINNING G}-》中的GPB-04B 熊霸。
   - [高达前哨战](../Page/GUNDAM前哨戰.md "wikilink")
   - 机动战士高达 我们是联邦愚联队
   - 机动战士高达 KATANA
-  - [机动战士高达0083
-    REBELLION](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_0083：Stardust_Memory#漫畫版 "wikilink")
+  - [机动战士高达0083 REBELLION](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_0083：Stardust_Memory#漫畫版 "wikilink")
   - CCA-MSV
   - Z-MSV
   - ZZ-MSV
-  - [ADVANCE OF Ζ
-    迪坦斯的旗下](https://zh.wikipedia.org/wiki/ADVANCE_OF_Ζ_迪坦斯的旗下 "wikilink")
+  - [ADVANCE OF Ζ 迪坦斯的旗下](https://zh.wikipedia.org/wiki/ADVANCE_OF_Ζ_迪坦斯的旗下 "wikilink")
   - 机动战士高达 战略战术大图鉴
   - [机动战士高达 UC小说版](../Page/機動戰士GUNDAM_UC.md "wikilink")
 
@@ -370,16 +358,7 @@ zh-hk:模型戰士高達模型大師BEGINNING G}-》中的GPB-04B 熊霸。
 
   - [gameone代理網站](http://msol.goone.tw)
 
-[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink")
-[Category:GUNDAM系列電子遊戲](https://zh.wikipedia.org/wiki/Category:GUNDAM系列電子遊戲 "wikilink")
-[Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:大型多人線上第三人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:大型多人線上第三人稱射擊遊戲 "wikilink")
-[Category:电子竞技游戏](https://zh.wikipedia.org/wiki/Category:电子竞技游戏 "wikilink")
-[Category:萬代南夢宮遊戲](https://zh.wikipedia.org/wiki/Category:萬代南夢宮遊戲 "wikilink")
-[Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink")
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
-[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
+[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink") [Category:GUNDAM系列電子遊戲](https://zh.wikipedia.org/wiki/Category:GUNDAM系列電子遊戲 "wikilink") [Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:大型多人線上第三人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:大型多人線上第三人稱射擊遊戲 "wikilink") [Category:电子竞技游戏](https://zh.wikipedia.org/wiki/Category:电子竞技游戏 "wikilink") [Category:萬代南夢宮遊戲](https://zh.wikipedia.org/wiki/Category:萬代南夢宮遊戲 "wikilink") [Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
 
 1.
 

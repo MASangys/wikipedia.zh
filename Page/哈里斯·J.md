@@ -1,10 +1,8 @@
-**哈里斯·J**（，）是[英国歌手](https://zh.wikipedia.org/wiki/英国 "wikilink")。
-哈里斯毕业于伦敦BRIT表演艺术学院。\[1\]
+**哈里斯·J**（，）是[英国歌手](https://zh.wikipedia.org/wiki/英国 "wikilink")。 哈里斯毕业于伦敦BRIT表演艺术学院。\[1\]
 
 ## 事业
 
-哈里斯·J生于[伦敦市中心](../Page/伦敦.md "wikilink")[切尔西](../Page/車路士_\(倫敦\).md "wikilink")，是一位英国年轻的[穆斯林艺术家](../Page/穆斯林.md "wikilink")，為Awakening
-Records的合约歌手。
+哈里斯·J生于[伦敦](../Page/伦敦.md "wikilink")市中心[切尔西](../Page/車路士_\(倫敦\).md "wikilink")，是一位英国年轻的[穆斯林](../Page/穆斯林.md "wikilink")艺术家，為Awakening Records的合约歌手。
 
 哈里斯·J自小有唱歌天赋。五岁时，他开始在公众场合唱歌演出，在学校演出和多信仰聚会上进行演唱。用爱尔兰民间音乐的声调和技术掌握阅读古典阿拉伯语，创造出具有艺术才华的音乐。
 
@@ -16,7 +14,6 @@ Records的合约歌手。
 
 ## 參考資料
 
-[Category:黎巴嫩歌手](https://zh.wikipedia.org/wiki/Category:黎巴嫩歌手 "wikilink")
-[Category:英國男歌手](https://zh.wikipedia.org/wiki/Category:英國男歌手 "wikilink")
+[Category:黎巴嫩歌手](https://zh.wikipedia.org/wiki/Category:黎巴嫩歌手 "wikilink") [Category:英國男歌手](https://zh.wikipedia.org/wiki/Category:英國男歌手 "wikilink")
 
 1.

@@ -1,13 +1,10 @@
-《**Sweet
-Girl**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[B1A4的第](../Page/B1A4.md "wikilink")6枚[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，於2015年8月10日發行\[1\]，主打歌曲為《Sweet
-Girl》。
+《**Sweet Girl**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[B1A4](../Page/B1A4.md "wikilink")的第6枚[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，於2015年8月10日發行\[1\]，主打歌曲為《Sweet Girl》。
 
 ## 背景
 
 2015年6月30日，有韓國媒體報導B1A4正製作新作品，不久經紀公司[WM娛樂也證實此消息](https://zh.wikipedia.org/wiki/WM娛樂 "wikilink")\[2\]。
 
-到7月27日，組合在官方網站發放第一批概念照片，並公開新專輯名稱為《Sweet
-Girl》\[3\]；兩天後（7月29日），WM娛樂公布了曲目完整名單，成員[振永](../Page/振永.md "wikilink")、[CNU和](../Page/CNU_\(歌手\).md "wikilink")[Baro均有參與創作](../Page/Baro.md "wikilink")\[4\]，而[燦多更為此專輯特意減重十公斤](https://zh.wikipedia.org/wiki/燦多 "wikilink")\[5\]。
+到7月27日，組合在官方網站發放第一批概念照片，並公開新專輯名稱為《Sweet Girl》\[3\]；兩天後（7月29日），WM娛樂公布了曲目完整名單，成員[振永](../Page/振永.md "wikilink")、[CNU和](../Page/CNU_\(歌手\).md "wikilink")[Baro](../Page/Baro.md "wikilink")均有參與創作\[4\]，而[燦多更為此專輯特意減重十公斤](https://zh.wikipedia.org/wiki/燦多 "wikilink")\[5\]。
 
 ## 曲目
 
@@ -81,7 +78,7 @@ Girl》\[3\]；兩天後（7月29日），WM娛樂公布了曲目完整名單，
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量   |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量   |
 | ---------------------------------------- | ---- | ----- |
 | 專輯週榜                                     | 23   | 2,098 |
 
@@ -140,9 +137,7 @@ Girl》\[3\]；兩天後（7月29日），WM娛樂公布了曲目完整名單，
 
 ## 參考資料
 
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
-[Category:B1A4音樂專輯](https://zh.wikipedia.org/wiki/Category:B1A4音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:B1A4音樂專輯](https://zh.wikipedia.org/wiki/Category:B1A4音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 

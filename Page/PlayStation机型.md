@@ -10,8 +10,7 @@
 
   - 型號最末碼**0**代表日本國內用（\[NTSC J規格\]、AC100V、開機顯示SCEI、主機選單為日文\[PS one除外\]）
   - 型號最末碼**1**代表北美地區用（\[NTSC U/C規格\]、AC110V - 127V、開機顯示SCEA、主機選單為英文）
-  - 型號最末碼**2**代表歐洲・大洋洲地區用（\[PAL規格\]、AC200V -
-    240V、又可再細分為A/B/C三種、開機顯示SCEE、主機選單為英文）
+  - 型號最末碼**2**代表歐洲・大洋洲地區用（\[PAL規格\]、AC200V - 240V、又可再細分為A/B/C三種、開機顯示SCEE、主機選單為英文）
   - 型號最末碼**3**代表台灣及香港等亞洲地區用（\[NTSC J規格\]、AC110V - 240V、開機顯示SCEI、主機選單為英文）
 
 <table>
@@ -191,13 +190,8 @@ AV MULTI</p></td>
 
 ## 薄型機
 
-[PSone_logo.png](https://zh.wikipedia.org/wiki/File:PSone_logo.png "fig:PSone_logo.png")
-[PSone-Console-Set-NoLCD.png](https://zh.wikipedia.org/wiki/File:PSone-Console-Set-NoLCD.png "fig:PSone-Console-Set-NoLCD.png")
-[Sony-PSone-Console-wScreen-Open-FL.jpg](https://zh.wikipedia.org/wiki/File:Sony-PSone-Console-wScreen-Open-FL.jpg "fig:Sony-PSone-Console-wScreen-Open-FL.jpg")螢幕\]\]
+[PSone_logo.png](https://zh.wikipedia.org/wiki/File:PSone_logo.png "fig:PSone_logo.png") [PSone-Console-Set-NoLCD.png](https://zh.wikipedia.org/wiki/File:PSone-Console-Set-NoLCD.png "fig:PSone-Console-Set-NoLCD.png") [Sony-PSone-Console-wScreen-Open-FL.jpg](https://zh.wikipedia.org/wiki/File:Sony-PSone-Console-wScreen-Open-FL.jpg "fig:Sony-PSone-Console-wScreen-Open-FL.jpg")螢幕\]\]
 
-2000年9月，Sony发表了重新设计的更小巧主机，叫做**PSone**。原来的Playstation在日本被叫做"PS"，在美国则根据当年开发中使用的代号叫做“PSX”。2003年Sony在日本发布PS2系统的时候叫做[PSX](https://zh.wikipedia.org/wiki/PSX_\(DVR\) "wikilink")。现在PlayStation正式简称是"PS1"或"PSone"。PSOne跟以前機種的区别，一个是外观，一个就是主菜单的图形界面。PSOne省略了可供兩部主機間對戰用的[Serial
-I/O](https://zh.wikipedia.org/wiki/Serial_I/O "wikilink")（序列輸出入通訊埠）與可供玩家外接擴充卡用的[Parallel
-I/O](https://zh.wikipedia.org/wiki/Parallel_I/O "wikilink")（並列輸出入通訊埠），電源方面以外接[交換式電源供應器](https://zh.wikipedia.org/wiki/交換式電源供應器 "wikilink")（SPU）取代（舊機型為內建於主機中），使得主機得以縮小為原舊機型的1/3大小。此外[SCEI還為PSOne量身打造一款外接的](https://zh.wikipedia.org/wiki/SCEI "wikilink")[液晶螢幕](https://zh.wikipedia.org/wiki/液晶螢幕 "wikilink")（需另外購買），裝上之後與主機非常契合，且只需使用原廠電源供應器即可；且因電源採外接設計，電源種類可更多元化，為此SCEI也設計了車用電源供應器，實現在車上也能進行遊戲，便利性大增。
+2000年9月，Sony发表了重新设计的更小巧主机，叫做**PSone**。原来的Playstation在日本被叫做"PS"，在美国则根据当年开发中使用的代号叫做“PSX”。2003年Sony在日本发布PS2系统的时候叫做[PSX](https://zh.wikipedia.org/wiki/PSX_\(DVR\) "wikilink")。现在PlayStation正式简称是"PS1"或"PSone"。PSOne跟以前機種的区别，一个是外观，一个就是主菜单的图形界面。PSOne省略了可供兩部主機間對戰用的[Serial I/O](https://zh.wikipedia.org/wiki/Serial_I/O "wikilink")（序列輸出入通訊埠）與可供玩家外接擴充卡用的[Parallel I/O](https://zh.wikipedia.org/wiki/Parallel_I/O "wikilink")（並列輸出入通訊埠），電源方面以外接[交換式電源供應器](https://zh.wikipedia.org/wiki/交換式電源供應器 "wikilink")（SPU）取代（舊機型為內建於主機中），使得主機得以縮小為原舊機型的1/3大小。此外[SCEI還為PSOne量身打造一款外接的](https://zh.wikipedia.org/wiki/SCEI "wikilink")[液晶螢幕](https://zh.wikipedia.org/wiki/液晶螢幕 "wikilink")（需另外購買），裝上之後與主機非常契合，且只需使用原廠電源供應器即可；且因電源採外接設計，電源種類可更多元化，為此SCEI也設計了車用電源供應器，實現在車上也能進行遊戲，便利性大增。
 
-[Category:PlayStation_(遊戲機)](https://zh.wikipedia.org/wiki/Category:PlayStation_\(遊戲機\) "wikilink")
-[Category:电子游戏硬件](https://zh.wikipedia.org/wiki/Category:电子游戏硬件 "wikilink")
+[Category:PlayStation_(遊戲機)](https://zh.wikipedia.org/wiki/Category:PlayStation_\(遊戲機\) "wikilink") [Category:电子游戏硬件](https://zh.wikipedia.org/wiki/Category:电子游戏硬件 "wikilink")

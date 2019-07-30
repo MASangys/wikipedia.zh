@@ -1,15 +1,12 @@
-《**PITMAN**》，是一款由ASK講談社（現名：）開發、在[任天堂掌上遊戲機](../Page/任天堂.md "wikilink")[Game
-Boy發售的](../Page/Game_Boy.md "wikilink")[益智遊戲](https://zh.wikipedia.org/wiki/益智遊戲 "wikilink")。1990年在[日本](../Page/日本.md "wikilink")、北美地區推出。
+《**PITMAN**》，是一款由ASK講談社（現名：）開發、在[任天堂](../Page/任天堂.md "wikilink")掌上遊戲機[Game Boy發售的](../Page/Game_Boy.md "wikilink")[益智遊戲](https://zh.wikipedia.org/wiki/益智遊戲 "wikilink")。1990年在[日本](../Page/日本.md "wikilink")、北美地區推出。
 
 另外《**Catrap**》在北美進行販售的譯名。
 
 ## 概要
 
-1985年\[1\]在[夏普](https://zh.wikipedia.org/wiki/夏普 "wikilink")系統完成\[2\]後，首次在電腦情報雜誌《》刊登亮相，之後在1990年移植到[Game
-Boy才以現在可見的遊戲內容進行販售](../Page/Game_Boy.md "wikilink")。
+1985年\[1\]在[夏普](https://zh.wikipedia.org/wiki/夏普 "wikilink")系統完成\[2\]後，首次在電腦情報雜誌《》刊登亮相，之後在1990年移植到[Game Boy才以現在可見的遊戲內容進行販售](../Page/Game_Boy.md "wikilink")。
 
-在遊戲中，玩家要扮演PIT BOY（男主角）或PIT
-GIRL（女主角）進行遊戲；遊戲開始後，只要推動岩石將坑洞填滿、並挖出土推即可通行。最後，必須將所有敵人擊倒才能過關。
+在遊戲中，玩家要扮演PIT BOY（男主角）或PIT GIRL（女主角）進行遊戲；遊戲開始後，只要推動岩石將坑洞填滿、並挖出土推即可通行。最後，必須將所有敵人擊倒才能過關。
 
 遊戲關卡一共有100關。第1關～第99關可以任意選擇，但是，最終關卡第100關必須要把所有關卡過關之後才能進入\[3\]。
 
@@ -53,8 +50,7 @@ GIRL（女主角）進行遊戲；遊戲開始後，只要推動岩石將坑洞�
 
 ## 評價
 
-根據電玩雜誌《[Famicom通信](../Page/Fami通.md "wikilink")》的「Gross
-Review」滿分40分中，給予總評分是24分\[7\]、《》進行「通信簿」讀者投票活動的結果總得票數是16.33分（滿分30分）\[8\]。
+根據電玩雜誌《[Famicom通信](../Page/Fami通.md "wikilink")》的「Gross Review」滿分40分中，給予總評分是24分\[7\]、《》進行「通信簿」讀者投票活動的結果總得票數是16.33分（滿分30分）\[8\]。
 
 | 項目 | 角色   | 音樂   | 操作性  | 熱衷度  | 買得度  | 原創性  | 綜合    |
 | -- | ---- | ---- | ---- | ---- | ---- | ---- | ----- |
@@ -64,19 +60,12 @@ Review」滿分40分中，給予總評分是24分\[7\]、《》進行「通信�
 
 ## 外部連結
 
-  - [PITMAN](https://www.nintendo.co.jp/titles/50010000007074)
-    －[3DS](../Page/任天堂3DS.md "wikilink")[Virtual
-    Console](../Page/Virtual_Console.md "wikilink")
+  - [PITMAN](https://www.nintendo.co.jp/titles/50010000007074) －[3DS](../Page/任天堂3DS.md "wikilink")[Virtual Console](../Page/Virtual_Console.md "wikilink")
 
   - [Yutaka Isokawa website](http://yutakaisokawa.com/web/sakuhin.html)
 
   -
-[Category:1985年電子遊戲](https://zh.wikipedia.org/wiki/Category:1985年電子遊戲 "wikilink")
-[Category:1990年電子遊戲](https://zh.wikipedia.org/wiki/Category:1990年電子遊戲 "wikilink")
-[Category:Game_Boy遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy遊戲 "wikilink")
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
-[Category:任天堂3DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂3DS遊戲 "wikilink")
-[Category:益智遊戲](https://zh.wikipedia.org/wiki/Category:益智遊戲 "wikilink")
+[Category:1985年電子遊戲](https://zh.wikipedia.org/wiki/Category:1985年電子遊戲 "wikilink") [Category:1990年電子遊戲](https://zh.wikipedia.org/wiki/Category:1990年電子遊戲 "wikilink") [Category:Game_Boy遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy遊戲 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:任天堂3DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂3DS遊戲 "wikilink") [Category:益智遊戲](https://zh.wikipedia.org/wiki/Category:益智遊戲 "wikilink")
 
 1.
 

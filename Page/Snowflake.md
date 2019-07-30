@@ -1,80 +1,42 @@
-《**Snowflake**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND的第三張迷你專輯](../Page/GFRIEND.md "wikilink")，由[Source
-Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，於2016年1月25日推出。此專輯為「校園系列三部曲」的最後一部曲，共有7首歌曲，主打歌為《Rough》。《Snowflake》推出後，於[Gaon
-Chart專輯週榜排列第](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")2，共售出33,000張。
+《**Snowflake**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的第三張迷你專輯，由[Source Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，於2016年1月25日推出。此專輯為「校園系列三部曲」的最後一部曲，共有7首歌曲，主打歌為《Rough》。《Snowflake》推出後，於[Gaon Chart專輯週榜排列第](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")2，共售出33,000張。
 
-GFRIEND於韓國各大音樂節目表演及宣傳專輯，總共贏得15個冠軍。主打歌《Rough》的下載次數超過250萬次(截至2018年7月)，成為2月13日和20日的[Gaon
-Chart單曲週榜冠軍](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink")。在專輯曲目方面，歌曲的風格與90年代末和2000年代的[韓國流行音樂十分相似](../Page/韓國流行音樂.md "wikilink")。
+GFRIEND於韓國各大音樂節目表演及宣傳專輯，總共贏得15個冠軍。主打歌《Rough》的下載次數超過250萬次(截至2018年7月)，成為2月13日和20日的[Gaon Chart單曲週榜冠軍](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink")。在專輯曲目方面，歌曲的風格與90年代末和2000年代的[韓國流行音樂](../Page/韓國流行音樂.md "wikilink")十分相似。
 
 ## 事件
 
 ### 造型照、預告公開
 
-1月14日，GFRIEND在官方SNS公開了第三張迷你專輯《Snowflake》的造型照片，並留言：「\#GFRIEND 3rd Mini
-Album \#Snowflake 1st Concept Image
-just-released\!」，拉開回歸序幕。照片中的GFRIEND一身學院風打扮，清純又端莊，和以往活潑歡快的氣質略有不同。
-6位成員的外形也更加美麗可人，還透出一絲神秘氣息。經紀公司 Source Music 表示：「繼前兩張專輯之後，GFRIEND
-將再次以女高中生的概念發行專輯，完成『學校系列三部曲』的概念，而此次預計會是一張最有 GFRIEND
-風格的作品，請大家多多期待。」\[1\]\[2\]
+1月14日，GFRIEND在官方SNS公開了第三張迷你專輯《Snowflake》的造型照片，並留言：「\#GFRIEND 3rd Mini Album \#Snowflake 1st Concept Image just-released\!」，拉開回歸序幕。照片中的GFRIEND一身學院風打扮，清純又端莊，和以往活潑歡快的氣質略有不同。 6位成員的外形也更加美麗可人，還透出一絲神秘氣息。經紀公司 Source Music 表示：「繼前兩張專輯之後，GFRIEND 將再次以女高中生的概念發行專輯，完成『學校系列三部曲』的概念，而此次預計會是一張最有 GFRIEND 風格的作品，請大家多多期待。」\[1\]\[2\]
 
-1月19日公開[回歸預告](https://www.youtube.com/watch?v=qIrVAGR1e2s)，片中，GFRIEND各成員身穿高中校服，帶著開心的表情奮力奔跑，清純無比，令人對MV情節頗為好奇。
-畫面背景裡大雪紛飛，呼應著專輯名稱《Snowflake》，帶來暖意融融的冬季氛圍。新歌《Rough》的Highlight部分也在片中公開，朦朧抒情的歌詞與旋律讓人印象深刻。
-在雄壯的絃樂器和激蕩的吉他音響襯托下，預告片仿佛一部青春少女的成長電影。\[3\]
+1月19日公開[回歸預告](https://www.youtube.com/watch?v=qIrVAGR1e2s)，片中，GFRIEND各成員身穿高中校服，帶著開心的表情奮力奔跑，清純無比，令人對MV情節頗為好奇。 畫面背景裡大雪紛飛，呼應著專輯名稱《Snowflake》，帶來暖意融融的冬季氛圍。新歌《Rough》的Highlight部分也在片中公開，朦朧抒情的歌詞與旋律讓人印象深刻。 在雄壯的絃樂器和激蕩的吉他音響襯托下，預告片仿佛一部青春少女的成長電影。\[3\]
 
-1月21日公開[MV預告](https://www.youtube.com/watch?v=JENPbB1-_gc)，預告當中，伴隨著節奏快速、悅耳的旋律，除了可以欣賞到集結友情與少女情懷的
-MV 劇情片段，還能搶先一睹 GFRIEND 以整齊劃一、活力十足的姿態，跳著歌曲編舞的模樣，賣力、熱情的表現，讓人更加期待完整版 MV
-的公開。\[4\]
+1月21日公開[MV預告](https://www.youtube.com/watch?v=JENPbB1-_gc)，預告當中，伴隨著節奏快速、悅耳的旋律，除了可以欣賞到集結友情與少女情懷的 MV 劇情片段，還能搶先一睹 GFRIEND 以整齊劃一、活力十足的姿態，跳著歌曲編舞的模樣，賣力、熱情的表現，讓人更加期待完整版 MV 的公開。\[4\]
 
 1月22日公開[迷你專輯預告](https://www.youtube.com/watch?v=-wjeZsmQkJk)，影片當中，除了可以聆聽到專輯收錄曲的音源片段，還能透過畫面欣賞到許多先前沒有公開的概念照片，完美體現青春少女風格的歌曲與概念，讓人一聽馬上就能陷入歌曲的魅力當中。\[5\]
 
-主打歌《Rough》是作曲家 Lee Ki、Yong Bae 繼《Glass Bead》、《Me Gustas Tu》之後，再次為
-GFRIEND
-量身打造的作品，內容描寫少女們渴望時間可以走快些，快速成長為大人的故事，活力滿分的節奏，搭配抒情且充滿少女情懷的歌詞，優美當中帶點傷感情緒的內容，讓人感受到
-GFRIEND 的多樣魅力。\[6\]
+主打歌《Rough》是作曲家 Lee Ki、Yong Bae 繼《Glass Bead》、《Me Gustas Tu》之後，再次為 GFRIEND 量身打造的作品，內容描寫少女們渴望時間可以走快些，快速成長為大人的故事，活力滿分的節奏，搭配抒情且充滿少女情懷的歌詞，優美當中帶點傷感情緒的內容，讓人感受到 GFRIEND 的多樣魅力。\[6\]
 
-1月26日於《SBS MTV》音樂節目《[THE
-SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》中的回歸舞台正式展開第三張迷你專輯的宣傳活動。一個月後，"Rough"
-MV觀看人次已超過1000萬。
+1月26日於《SBS MTV》音樂節目《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》中的回歸舞台正式展開第三張迷你專輯的宣傳活動。一個月後，"Rough" MV觀看人次已超過1000萬。
 
 ### 登上美國Billboard全球專輯榜
 
-發行不到一周的《**Snowflake**》登上了美國Billboard全球專輯榜**第十**。
-該榜單統計所有在美國以外地區發售的專輯的銷量並進行排名，新專輯發售不到一周就進入前十。早在2015年1月，Billboard就曾將剛剛出道的GFRIEND評為「**2015年值得矚目的5大K-POP藝人**」之一，預言道：「GFRIEND是很久以來第一個令人想起**[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")**的女團。
-氣質既古典又純淨，將扭轉2014年大行其道的性感趨勢，奠定2015年新流行的地位。
-」確實在出道一年之際進入了**Billboard專輯榜**上游，實現了這一預言。
+發行不到一周的《**Snowflake**》登上了美國Billboard全球專輯榜**第十**。 該榜單統計所有在美國以外地區發售的專輯的銷量並進行排名，新專輯發售不到一周就進入前十。早在2015年1月，Billboard就曾將剛剛出道的GFRIEND評為「**2015年值得矚目的5大K-POP藝人**」之一，預言道：「GFRIEND是很久以來第一個令人想起**[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")**的女團。 氣質既古典又純淨，將扭轉2014年大行其道的性感趨勢，奠定2015年新流行的地位。 」確實在出道一年之際進入了**Billboard專輯榜**上游，實現了這一預言。
 
 ### 獲得15個一位
 
-2月2日於《[SBS
-MTV](https://zh.wikipedia.org/wiki/SBS_MTV "wikilink")》音樂節目《[THE
-SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》中獲得出道以來第一個一位。而又分別在3,4,5,7日於《[Show
-Champion](../Page/Show_Champion.md "wikilink")》、《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、《[Music
-Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》、《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》中再獲得一位。
+2月2日於《[SBS MTV](https://zh.wikipedia.org/wiki/SBS_MTV "wikilink")》音樂節目《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》中獲得出道以來第一個一位。而又分別在3,4,5,7日於《[Show Champion](../Page/Show_Champion.md "wikilink")》、《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》、《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》中再獲得一位。
 
-2月11,12,16,17,21日於《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、《[Music
-Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》、《[THE
-SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》、《[Show
-Champion](../Page/Show_Champion.md "wikilink")》、《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》中獲得**兩星期冠軍**。
+2月11,12,16,17,21日於《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》、《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》、《[Show Champion](../Page/Show_Champion.md "wikilink")》、《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》中獲得**兩星期冠軍**。
 
-2月18,19,24,28日於《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、《[Music
-Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》、《[Show
-Champion](../Page/Show_Champion.md "wikilink")》、《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》連續三週獲得一位。
+2月18,19,24,28日於《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》、《[Show Champion](../Page/Show_Champion.md "wikilink")》、《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》連續三週獲得一位。
 
-2月26日於《[Music
-Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》連續四週獲得第一，成為今年首個在電視音樂節目中連續兩週、三週、四週獲得一位的女團。主打曲《[Rough](https://zh.wikipedia.org/wiki/Rough "wikilink")》已在打歌節目中拿到共**15**個冠軍。
+2月26日於《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》連續四週獲得第一，成為今年首個在電視音樂節目中連續兩週、三週、四週獲得一位的女團。主打曲《[Rough](https://zh.wikipedia.org/wiki/Rough "wikilink")》已在打歌節目中拿到共**15**個冠軍。
 
 ### 達到完美通殺
 
-GFRIEND的完美通殺從2月6日上午的9點開始，持續至2月12日。長達6天、121個小時的時間裡佔據了榜首的位置。"Rough"在春節連休期間也持續佔領了榜單，證明了強勁的音源實力。另外，去年7月發表的
-"Me Gustas Tu" 也重返TOP 10，持續登陸榜單29周，而已發表1年的出道曲 "Glass Bead" 也躋身排名。
-與此同時，在屈指可數的音源榜單上持續6天佔據了每個韓國國內主要音源網站的第一名。
+GFRIEND的完美通殺從2月6日上午的9點開始，持續至2月12日。長達6天、121個小時的時間裡佔據了榜首的位置。"Rough"在春節連休期間也持續佔領了榜單，證明了強勁的音源實力。另外，去年7月發表的 "Me Gustas Tu" 也重返TOP 10，持續登陸榜單29周，而已發表1年的出道曲 "Glass Bead" 也躋身排名。 與此同時，在屈指可數的音源榜單上持續6天佔據了每個韓國國內主要音源網站的第一名。
 
-截至2月11日上午10點，"Rough"
-在MelOn、Genie、NAVER、Bugs、Olleh、Monkey3、Soribada等主要的音源榜單上位居第一，達到**完美通殺（Perfect
-All-kill）**\[7\]。截至2月22日上午8時，"Rough"
-在MelOn、NAVER、Bugs、Soribada等音源網站排名第一，這一狀況已持續了將近一個月。"Rough"已經**連續四周**占據Soribada音源榜單首位。
+截至2月11日上午10點，"Rough" 在MelOn、Genie、NAVER、Bugs、Olleh、Monkey3、Soribada等主要的音源榜單上位居第一，達到**完美通殺（Perfect All-kill）**\[7\]。截至2月22日上午8時，"Rough" 在MelOn、NAVER、Bugs、Soribada等音源網站排名第一，這一狀況已持續了將近一個月。"Rough"已經**連續四周**占據Soribada音源榜單首位。
 
 ## 曲目
 
@@ -308,19 +270,11 @@ All-kill）**\[7\]。截至2月22日上午8時，"Rough"
   -
 ## 參考資料
 
-[Category:GFRIEND](https://zh.wikipedia.org/wiki/Category:GFRIEND "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:GFRIEND音乐专辑](https://zh.wikipedia.org/wiki/Category:GFRIEND音乐专辑 "wikilink")
-[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
-[Category:2016年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2016年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon單曲月榜冠軍作品 "wikilink")
-[Category:2016年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon數位下載週榜冠軍作品 "wikilink")
-[Category:2010年代Gaon數位下載年榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年代Gaon數位下載年榜冠軍作品 "wikilink")
+[Category:GFRIEND](https://zh.wikipedia.org/wiki/Category:GFRIEND "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:GFRIEND音乐专辑](https://zh.wikipedia.org/wiki/Category:GFRIEND音乐专辑 "wikilink") [Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:2016年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon單曲週榜冠軍作品 "wikilink") [Category:2016年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon單曲月榜冠軍作品 "wikilink") [Category:2016年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2010年代Gaon數位下載年榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年代Gaon數位下載年榜冠軍作品 "wikilink")
 
 1.  [回歸概念照、曲目表](http://kpopn.niusnews.com/=K1r4b4x2)
 2.  [GFRIEND新專輯《Snowflake》宣傳照濃濃學院風](http://www.koreastardaily.com/tc/photo/72691)
-3.  [GFRIEND新歌《Rough》預告片公開
-    月底回歸](http://www.koreastardaily.com/tc/news/72910)
+3.  [GFRIEND新歌《Rough》預告片公開 月底回歸](http://www.koreastardaily.com/tc/news/72910)
 4.  [《Rough》第二波預告](http://kpopn.niusnews.com/=K3wpkk85)
 5.  [《Snowflake》試聽](http://kpopn.niusnews.com/=K3fstqj0)
 6.  [新曲《Rough》MV](http://kpopn.niusnews.com/=K1r4cbx2)

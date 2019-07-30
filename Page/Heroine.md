@@ -6,8 +6,7 @@
 
 ## 發行與排行
 
-1月18日，在《Heroine》釋出音源後，迅速在Melon、[Naver
-Music等韓國](../Page/NAVER.md "wikilink")7大音樂網站的實時排行榜獲得第一名\[3\]。
+1月18日，在《Heroine》釋出音源後，迅速在Melon、[Naver Music等韓國](../Page/NAVER.md "wikilink")7大音樂網站的實時排行榜獲得第一名\[3\]。
 
 ### 發行紀錄
 
@@ -29,9 +28,7 @@ Music等韓國](../Page/NAVER.md "wikilink")7大音樂網站的實時排行榜�
 
 ### 抄襲爭議
 
-在單曲發行後，網民指出新曲的旋律、造型、音樂錄影帶拍攝技巧涉嫌抄襲英國歌手[雪莉·柯爾的作品](../Page/雪莉·柯爾.md "wikilink")《[為愛而戰](https://zh.wikipedia.org/wiki/為愛而戰 "wikilink")》\[10\]。在爭議引發網民大量討論後，製作人Teddy並未就此事進行回應\[11\]。1月19日，Teddy與24透過THE
-BLΛƆK
-LABEL表示新曲從未參考過引發爭議的那首歌曲，是屬於百分之百的原創作品\[12\]，此發言引起網友對Teddy的創作感到不滿\[13\]。
+在單曲發行後，網民指出新曲的旋律、造型、音樂錄影帶拍攝技巧涉嫌抄襲英國歌手[雪莉·柯爾](../Page/雪莉·柯爾.md "wikilink")的作品《[為愛而戰](https://zh.wikipedia.org/wiki/為愛而戰 "wikilink")》\[10\]。在爭議引發網民大量討論後，製作人Teddy並未就此事進行回應\[11\]。1月19日，Teddy與24透過THE BLΛƆK LABEL表示新曲從未參考過引發爭議的那首歌曲，是屬於百分之百的原創作品\[12\]，此發言引起網友對Teddy的創作感到不滿\[13\]。
 
 ## 參考來源
 
@@ -39,8 +36,7 @@ LABEL表示新曲從未參考過引發爭議的那首歌曲，是屬於百分之
 
   -
   -
-[Category:2018年單曲](https://zh.wikipedia.org/wiki/Category:2018年單曲 "wikilink")
-[Category:2018年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon數位下載週榜冠軍作品 "wikilink")
+[Category:2018年單曲](https://zh.wikipedia.org/wiki/Category:2018年單曲 "wikilink") [Category:2018年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon數位下載週榜冠軍作品 "wikilink")
 
 1.
 2.

@@ -1,12 +1,8 @@
-**ReVe**，[香港跳唱男子團體](../Page/香港.md "wikilink")，於2016年成立，成員分別是**陳子華**（Cavan）和**劉瑞祈**（Kay）\[1\]，是香港娛樂公司夢想沙龍娛樂文化有限公司旗下藝人之一。
+**ReVe**，[香港](../Page/香港.md "wikilink")跳唱男子團體，於2016年成立，成員分別是**陳子華**（Cavan）和**劉瑞祈**（Kay）\[1\]，是香港娛樂公司夢想沙龍娛樂文化有限公司旗下藝人之一。
 
 ## 簡介
 
-ReVe 是「Revelation 啟示」的意思，在法文中代表「Dream 夢」；
-ReVe熱愛演兿，在過去一年多接受一連串唱歌、跳舞及演技等訓練；
-Cavan 在外國出生及長大，卻熱愛香港文化，偶然回港被發掘\[2\]，經過一年努力苦練廣東話，希望加入香港演藝圈；Kay
-自小喜愛唱歌及跳舞，一直希望成為香港演藝圈一份子，溫暖笑容令人印象深刻， 並在一次選秀會中被發掘；
-ReVe 是一隊充滿陽光活力的組合，未來會向不同範疇發展。
+ReVe 是「Revelation 啟示」的意思，在法文中代表「Dream 夢」； ReVe熱愛演兿，在過去一年多接受一連串唱歌、跳舞及演技等訓練； Cavan 在外國出生及長大，卻熱愛香港文化，偶然回港被發掘\[2\]，經過一年努力苦練廣東話，希望加入香港演藝圈；Kay 自小喜愛唱歌及跳舞，一直希望成為香港演藝圈一份子，溫暖笑容令人印象深刻， 並在一次選秀會中被發掘； ReVe 是一隊充滿陽光活力的組合，未來會向不同範疇發展。
 
 ## 成員資料
 
@@ -44,8 +40,7 @@ ReVe 是一隊充滿陽光活力的組合，未來會向不同範疇發展。
 
 ### 2016年：香港出道《What?》
 
-2016年7月4日，ReVe正式出道，成員包括Kay 、Cavan。
-2016年9月28日，Kay首次錄影無綫節目《勁歌金曲》時，因跳舞時用力過度，右腳十字韌帶撕裂\[3\]，他痛苦得倒地，工作人員急召救護車，而錄影部分亦要喊停。
+2016年7月4日，ReVe正式出道，成員包括Kay 、Cavan。 2016年9月28日，Kay首次錄影無綫節目《勁歌金曲》時，因跳舞時用力過度，右腳十字韌帶撕裂\[3\]，他痛苦得倒地，工作人員急召救護車，而錄影部分亦要喊停。
 
 ## 音樂作品
 
@@ -160,20 +155,14 @@ ReVe 是一隊充滿陽光活力的組合，未來會向不同範疇發展。
 
   - [夢想沙龍娛樂文化官方網站](http://www.dreams-salon.com/)
   - \[<https://www.facebook.com/revehkofficial/>? ReVe Facebook專頁\]
-  - [ReVe
-    KKBOX](https://www.kkbox.com/hk/tc/artist/x0AuLNgOJjt0.V0F0Ma8608K-index-1.html)
+  - [ReVe KKBOX](https://www.kkbox.com/hk/tc/artist/x0AuLNgOJjt0.V0F0Ma8608K-index-1.html)
 
 ## 參考資料
 
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
+[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
 
-1.  [2016全新唱跳男子組合
-    REVE](http://www.billboardradiochina.com/story/2016-quan-xin-chang-tiao-nan-zi-zu-he-ReVe-zh_hk?language=zh_hk)
-2.  [﻿向韓國男團挑機
-    組合ReVe望做亞洲巨星](http://hd.stheadline.com/news/daily/ent/491433/)
+1.  [2016全新唱跳男子組合 REVE](http://www.billboardradiochina.com/story/2016-quan-xin-chang-tiao-nan-zi-zu-he-ReVe-zh_hk?language=zh_hk)
+2.  [﻿向韓國男團挑機 組合ReVe望做亞洲巨星](http://hd.stheadline.com/news/daily/ent/491433/)
 3.  [劉瑞祈韌帶撕裂ReVe面臨停工](http://orientaldaily.oriental.com.hk/cnt/entertainment/20160930/00282_044.html)
-4.  [ReVe - What? @ 2016/08/04
-    朗豪坊](http://www.youtube.com/watch?v=QBDanMjbdVY/)
-5.  [20161119 ReVe - “What?” 禁毒滅罪耀北區2016 @
-    粉嶺遊樂場](http://www.youtube.com/watch?v=Z2wn_XmDINo/)
+4.  [ReVe - What? @ 2016/08/04 朗豪坊](http://www.youtube.com/watch?v=QBDanMjbdVY/)
+5.  [20161119 ReVe - “What?” 禁毒滅罪耀北區2016 @ 粉嶺遊樂場](http://www.youtube.com/watch?v=Z2wn_XmDINo/)

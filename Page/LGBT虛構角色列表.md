@@ -1,4 +1,4 @@
-本條目為**LGBT虛構人物列表**，收錄出現在[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[戲劇](https://zh.wikipedia.org/wiki/戲劇 "wikilink")、[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[電玩等](https://zh.wikipedia.org/wiki/電玩 "wikilink")[虛構作品裡的LGBT](../Page/虛構作品.md "wikilink")[角色](../Page/角色.md "wikilink")。虛構是指憑空想像而非現實存在的人事物，許多創作者利用虛構手法，為作品構築獨特的世界觀及人事物，創造了不少藝術和娛樂價值。本列表收錄人物，以創作者明確表明或情節對話中有明示暗示者為主。創作者有可能不會表明人物角色的[性傾向或](https://zh.wikipedia.org/wiki/性傾向 "wikilink")[性別認同](../Page/性別認同.md "wikilink")，[同人愛好者亦可能對原作人物進行](../Page/同人_\(ACG\).md "wikilink")[二次創作](../Page/二次創作.md "wikilink")，故在本列表之外[閱聽人仍保有很大的想像空間](../Page/閱聽人.md "wikilink")。
+本條目為**LGBT虛構人物列表**，收錄出現在[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[戲劇](https://zh.wikipedia.org/wiki/戲劇 "wikilink")、[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[電玩等](https://zh.wikipedia.org/wiki/電玩 "wikilink")[虛構作品](../Page/虛構作品.md "wikilink")裡的LGBT[角色](../Page/角色.md "wikilink")。虛構是指憑空想像而非現實存在的人事物，許多創作者利用虛構手法，為作品構築獨特的世界觀及人事物，創造了不少藝術和娛樂價值。本列表收錄人物，以創作者明確表明或情節對話中有明示暗示者為主。創作者有可能不會表明人物角色的[性傾向或](https://zh.wikipedia.org/wiki/性傾向 "wikilink")[性別認同](../Page/性別認同.md "wikilink")，[同人愛好者亦可能對原作人物進行](../Page/同人_\(ACG\).md "wikilink")[二次創作](../Page/二次創作.md "wikilink")，故在本列表之外[閱聽人](../Page/閱聽人.md "wikilink")仍保有很大的想像空間。
 
 ## 影視戲劇
 
@@ -2531,7 +2531,7 @@ Jeanette</p></td>
 <td><p>雙[206]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/神鬼寓言.md" title="wikilink">神鬼寓言系列</a></p></td>
+<td><p><a href="../Page/神鬼寓言.md" title="wikilink">神鬼寓言</a>系列</p></td>
 <td><p>2004–</p></td>
 <td><p>Xbox<br />
 Xbox 360<br />
@@ -3169,32 +3169,20 @@ Rick o'Connor</p></td>
 
 ## 外部連結
 
-  - [Timeline: Gays in Pop Culture 1934
-    - 2010](http://www.infoplease.com/entertainment/gays-in-pop-culture-timeline.html)
-  - [50 Essential Gay
-    Films](http://www.out.com/entertainment/movies/2011/02/09/50-essential-gay-films)
-  - [The Top 175 Essential Films of All Time for LGBT
-    Viewers](http://www.advocate.com/arts-entertainment/film/2014/06/23/top-175-essential-films-all-time-lgbt-viewers)
-  - [A Brief History of Gay and Lesbian Characters in
-    Fiction](http://www.huffingtonpost.com/dave-astor/a-brief-history-of-gay-an_b_3017284.html)
-  - [Gay Erotica from the 50's, 60's
-    and 70's](http://www.homohistory.com/2012/09/gay-pulp-fiction.html)
-  - [Gay Comic Book
-    Characters](http://www.cracked.com/funny-8611-gay-comic-book-characters/)
-  - [LGBT Characters, Themes Throughout Comics
-    History](http://www.comicbookresources.com/?page=article&id=39194)
-  - [A Gay History of
-    Gaming](http://www.ign.com/articles/2012/01/25/a-gay-history-of-gaming)
-  - [The complete history of LGBT video game
-    characters](http://www.dailydot.com/geek/gay-characters-video-games-history/)
+  - [Timeline: Gays in Pop Culture 1934 - 2010](http://www.infoplease.com/entertainment/gays-in-pop-culture-timeline.html)
+  - [50 Essential Gay Films](http://www.out.com/entertainment/movies/2011/02/09/50-essential-gay-films)
+  - [The Top 175 Essential Films of All Time for LGBT Viewers](http://www.advocate.com/arts-entertainment/film/2014/06/23/top-175-essential-films-all-time-lgbt-viewers)
+  - [A Brief History of Gay and Lesbian Characters in Fiction](http://www.huffingtonpost.com/dave-astor/a-brief-history-of-gay-an_b_3017284.html)
+  - [Gay Erotica from the 50's, 60's and 70's](http://www.homohistory.com/2012/09/gay-pulp-fiction.html)
+  - [Gay Comic Book Characters](http://www.cracked.com/funny-8611-gay-comic-book-characters/)
+  - [LGBT Characters, Themes Throughout Comics History](http://www.comicbookresources.com/?page=article&id=39194)
+  - [A Gay History of Gaming](http://www.ign.com/articles/2012/01/25/a-gay-history-of-gaming)
+  - [The complete history of LGBT video game characters](http://www.dailydot.com/geek/gay-characters-video-games-history/)
   - [GayGamer.net](https://web.archive.org/web/20150818145226/http://gaygamer.net/)
   - [中國女性借「耽美」文學探索受壓抑的慾望](http://cn.nytimes.com/china/20140526/c26erotica/zh-hant/)
   - [耽美文學　美化的同志戀情](http://castnet.nctu.edu.tw/castnet/article/4249?issueID=164)
 
-[Category:LGBT人物](https://zh.wikipedia.org/wiki/Category:LGBT人物 "wikilink")
-[Category:人物列表](https://zh.wikipedia.org/wiki/Category:人物列表 "wikilink")
-[Category:LGBT相關列表](https://zh.wikipedia.org/wiki/Category:LGBT相關列表 "wikilink")
-[Category:虛構LGBT人物](https://zh.wikipedia.org/wiki/Category:虛構LGBT人物 "wikilink")
+[Category:LGBT人物](https://zh.wikipedia.org/wiki/Category:LGBT人物 "wikilink") [Category:人物列表](https://zh.wikipedia.org/wiki/Category:人物列表 "wikilink") [Category:LGBT相關列表](https://zh.wikipedia.org/wiki/Category:LGBT相關列表 "wikilink") [Category:虛構LGBT人物](https://zh.wikipedia.org/wiki/Category:虛構LGBT人物 "wikilink")
 
 1.
 

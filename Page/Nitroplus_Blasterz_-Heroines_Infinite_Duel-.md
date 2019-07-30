@@ -1,22 +1,12 @@
-是以《[NITRO+ROYALE -HEROINES
-DUEL-](../Page/NITRO+ROYALE_-HEROINES_DUEL-.md "wikilink")》為基礎重製，由[Nitro+及](../Page/Nitro+.md "wikilink")共同完成的[格鬥類型](../Page/格鬥遊戲.md "wikilink")[街機遊戲](https://zh.wikipedia.org/wiki/街機 "wikilink")，於2015年4月30日上市。2015年12月10日發售的PS3、PS4版本則是由[Marvelous進行移植及委託販售](../Page/Marvelous.md "wikilink")。
+是以《[NITRO+ROYALE -HEROINES DUEL-](../Page/NITRO+ROYALE_-HEROINES_DUEL-.md "wikilink")》為基礎重製，由[Nitro+](../Page/Nitro+.md "wikilink")及共同完成的[格鬥類型](../Page/格鬥遊戲.md "wikilink")[街機遊戲](https://zh.wikipedia.org/wiki/街機 "wikilink")，於2015年4月30日上市。2015年12月10日發售的PS3、PS4版本則是由[Marvelous](../Page/Marvelous.md "wikilink")進行移植及委託販售。
 
 ## 開發概況
 
-在《[NITRO+ROYALE -HEROINES
-DUEL-](../Page/NITRO+ROYALE_-HEROINES_DUEL-.md "wikilink")》發售後，**Nitro+**於2008年對外發表將製作《[NITRO+ROYALE
--HEROINES
-DUEL-](../Page/NITRO+ROYALE_-HEROINES_DUEL-.md "wikilink")》的大型電玩版本，並委託電玩廠商[MileStone進行開發](https://zh.wikipedia.org/wiki/MileStone "wikilink")\[1\]
-，然而自這則消息以來卻遲遲沒有後續報導傳出，外界亦認為相關開發計畫已不了了之。到了2012年4月1日時，****的官方網站公開一幀電子圖像，其內容為**[Nitro+](../Page/Nitro+.md "wikilink")**的虛擬代言偶像超音速子和****的遊戲角色愛乃心站在格鬥遊戲般的畫面中\[2\]。2014年12月時，****於部落格正式發表《Nitro+
-Blasterz: Heroines Infinite
-Duel》的宣傳影像，並在同年的12月28日於秋葉原的電子遊樂場進行公開測試活動\[3\]。在2015年6月時，**[Marvelous](../Page/Marvelous.md "wikilink")**發表將著手移植《Nitro+
-Blasterz: Heroines Infinite
-Duel》的家用主機版本，發售時間為2015年冬季\[4\]，後陸續表示家用主機版本將先行導入超音速子、愛乃心、焰，共三名主要使用角色\[5\]。
+在《[NITRO+ROYALE -HEROINES DUEL-](../Page/NITRO+ROYALE_-HEROINES_DUEL-.md "wikilink")》發售後，**Nitro+**於2008年對外發表將製作《[NITRO+ROYALE -HEROINES DUEL-](../Page/NITRO+ROYALE_-HEROINES_DUEL-.md "wikilink")》的大型電玩版本，並委託電玩廠商[MileStone進行開發](https://zh.wikipedia.org/wiki/MileStone "wikilink")\[1\] ，然而自這則消息以來卻遲遲沒有後續報導傳出，外界亦認為相關開發計畫已不了了之。到了2012年4月1日時，****的官方網站公開一幀電子圖像，其內容為**[Nitro+](../Page/Nitro+.md "wikilink")**的虛擬代言偶像超音速子和****的遊戲角色愛乃心站在格鬥遊戲般的畫面中\[2\]。2014年12月時，****於部落格正式發表《Nitro+ Blasterz: Heroines Infinite Duel》的宣傳影像，並在同年的12月28日於秋葉原的電子遊樂場進行公開測試活動\[3\]。在2015年6月時，**[Marvelous](../Page/Marvelous.md "wikilink")**發表將著手移植《Nitro+ Blasterz: Heroines Infinite Duel》的家用主機版本，發售時間為2015年冬季\[4\]，後陸續表示家用主機版本將先行導入超音速子、愛乃心、焰，共三名主要使用角色\[5\]。
 
 ## 遊戲特色
 
-此遊戲聚集了**[Nitro+](../Page/Nitro+.md "wikilink")**旗下產品（遊戲、小說、動畫等）裡眾多女性角色，並展開召喚搭檔角色進行援護攻擊的對戰格鬥。
-另外，由於開發廠商間的合作關係，因此預計追加來自**《[聖靈之心](../Page/聖靈之心.md "wikilink")》**和**《[閃亂神樂](https://zh.wikipedia.org/wiki/閃亂神樂 "wikilink")》**的客串角色。
+此遊戲聚集了**[Nitro+](../Page/Nitro+.md "wikilink")**旗下產品（遊戲、小說、動畫等）裡眾多女性角色，並展開召喚搭檔角色進行援護攻擊的對戰格鬥。 另外，由於開發廠商間的合作關係，因此預計追加來自**《[聖靈之心](../Page/聖靈之心.md "wikilink")》**和**《[閃亂神樂](https://zh.wikipedia.org/wiki/閃亂神樂 "wikilink")》**的客串角色。
 
 ## 遊戲系統
 
@@ -48,8 +38,7 @@ Duel》的家用主機版本，發售時間為2015年冬季\[4\]，後陸續表�
 
   -
     （CV：[高垣彩陽](../Page/高垣彩陽.md "wikilink")）
-    出自《[Phantom -PHANTOM OF
-    INFERNO-](../Page/Phantom_-PHANTOM_OF_INFERNO-.md "wikilink")》
+    出自《[Phantom -PHANTOM OF INFERNO-](../Page/Phantom_-PHANTOM_OF_INFERNO-.md "wikilink")》
 
 <!-- end list -->
 
@@ -151,8 +140,7 @@ Duel》的家用主機版本，發售時間為2015年冬季\[4\]，後陸續表�
 
   -
     （CV：[佐伯亞美](https://zh.wikipedia.org/wiki/佐伯亞美 "wikilink")）
-    出自《[天使ノ二挺拳銃-Angelos
-    Armas-](https://zh.wikipedia.org/wiki/天使ノ二挺拳銃-Angelos_Armas- "wikilink")》
+    出自《[天使ノ二挺拳銃-Angelos Armas-](https://zh.wikipedia.org/wiki/天使ノ二挺拳銃-Angelos_Armas- "wikilink")》
 
 <!-- end list -->
 
@@ -170,8 +158,7 @@ Duel》的家用主機版本，發售時間為2015年冬季\[4\]，後陸續表�
 
   -
     （CV：[岩田由貴](../Page/岩田由貴.md "wikilink")）
-    出自《[続・殺戮のジャンゴ
-    -地獄の賞金首-](https://zh.wikipedia.org/wiki/続・殺戮のジャンゴ_-地獄の賞金首- "wikilink")》
+    出自《[続・殺戮のジャンゴ -地獄の賞金首-](https://zh.wikipedia.org/wiki/続・殺戮のジャンゴ_-地獄の賞金首- "wikilink")》
 
 <!-- end list -->
 
@@ -183,8 +170,7 @@ Duel》的家用主機版本，發售時間為2015年冬季\[4\]，後陸續表�
 
   -
     （CV：[阿澄佳奈](../Page/阿澄佳奈.md "wikilink")）
-    出自《[罪惡王冠
-    失落聖誕](https://zh.wikipedia.org/wiki/:罪惡王冠#.E9.81.8A.E6.88.B2 "wikilink")》
+    出自《[罪惡王冠 失落聖誕](https://zh.wikipedia.org/wiki/:罪惡王冠#.E9.81.8A.E6.88.B2 "wikilink")》
 
 <!-- end list -->
 
@@ -214,8 +200,7 @@ Duel》的家用主機版本，發售時間為2015年冬季\[4\]，後陸續表�
 
   -
     （CV：[折笠富美子](../Page/折笠富美子.md "wikilink")）
-    出自《[フェノメノ
-    美鶴木夜石は怖がらない](https://zh.wikipedia.org/wiki/フェノメノ_美鶴木夜石は怖がらない "wikilink")》
+    出自《[フェノメノ 美鶴木夜石は怖がらない](https://zh.wikipedia.org/wiki/フェノメノ_美鶴木夜石は怖がらない "wikilink")》
 
 <!-- end list -->
 
@@ -233,8 +218,7 @@ Duel》的家用主機版本，發售時間為2015年冬季\[4\]，後陸續表�
 
   -
     （CV：[釘宮理惠](../Page/釘宮理惠.md "wikilink")）
-    出自《[樂園追放 -Expelled from
-    Paradise-](../Page/樂園追放_-Expelled_from_Paradise-.md "wikilink")》
+    出自《[樂園追放 -Expelled from Paradise-](../Page/樂園追放_-Expelled_from_Paradise-.md "wikilink")》
 
 <!-- end list -->
 
@@ -283,12 +267,7 @@ Duel》的家用主機版本，發售時間為2015年冬季\[4\]，後陸續表�
   - [Nitro+官方網站](https://web.archive.org/web/20090110114236/http://www.nitroplus.co.jp/pc/)
   - [EX-BLOG](http://www.examu.co.jp/ex-blog/)
 
-[Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink")
-[Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink")
-[Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink")
-[Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink")
+[Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink") [Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink")
 
 1.
 2.  由於相關網頁已刪除，因此請參閱

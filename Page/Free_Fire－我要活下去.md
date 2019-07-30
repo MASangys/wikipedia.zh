@@ -1,10 +1,8 @@
-《**Free Fire -
-我要活下去**》（，或稱作）是一款[大逃殺生存](https://zh.wikipedia.org/wiki/大逃殺遊戲 "wikilink")[射擊遊戲](https://zh.wikipedia.org/wiki/射擊遊戲 "wikilink")，由[Garena推出](https://zh.wikipedia.org/wiki/Garena "wikilink")，[2017年](../Page/2017年.md "wikilink")11月17日至12月3日間進行封測，同年12月4日正式開放下載，後又每隔1個[月至](../Page/月.md "wikilink")2個月進行了多次大改版。迄今已在Google
-play商店中超過一億次下載次數。\[1\]一局時間約為十五分鐘，可以使用[Facebook或](../Page/Facebook.md "wikilink")[VKontakte帳號登入遊玩](../Page/VKontakte.md "wikilink")，亦可使用遊客帳戶登入遊玩，玩家名稱不得重複。\[2\]
+《**Free Fire - 我要活下去**》（，或稱作）是一款抄襲其他遊戲的[大逃殺生存](https://zh.wikipedia.org/wiki/大逃殺遊戲 "wikilink")[射擊遊戲](https://zh.wikipedia.org/wiki/射擊遊戲 "wikilink")，由[Garena推出](https://zh.wikipedia.org/wiki/Garena "wikilink")，[2017年](../Page/2017年.md "wikilink")11月17日至12月3日間進行封測，同年12月4日正式開放下載，後又每隔1個[月](../Page/月.md "wikilink")至2個月進行了多次大改版。至今在Google play商店中已超過一億次下載次數。\[1\]一局時間約為十五分鐘，可以使用[Facebook](../Page/Facebook.md "wikilink")或[VKontakte](../Page/VKontakte.md "wikilink")帳號登入遊玩，亦可使用遊客帳戶登入遊玩，玩家名稱不得重複。\[2\]
 
 ## 玩法
 
-遊戲會將玩家置於一個荒島場景，玩家則要在場景內尋找各種武器、裝備，使用各種遊戲技巧使他人失敗，以成為最後倖存者。通關後會顯示字樣「大吉大利，今晚吃雞」。
+遊戲會將玩家置於一個荒島場景，玩家則要在場景內尋找各種武器、裝備，使用各種遊戲技巧使他人失敗，以成為最後倖存者。通關後會顯示字樣「大吉大利，今晚吃雞」。此遊戲幾乎都是模仿[絕地求生](../Page/絕地求生.md "wikilink")。
 
 ### 模式
 
@@ -12,8 +10,7 @@ play商店中超過一億次下載次數。\[1\]一局時間約為十五分鐘�
 
 一般模式，分為單人、雙人及多人，一場玩家共約50人，地圖為百慕達或天堂島(經典模式天堂島暫停開放)。遊玩結束後可獲得相關角色經驗，活動舉行時可獲得活動獎勵消耗品。
 
-\*;排位賽
-計分模式，獲取好的名次可加分，相對名次不佳則會扣分，有青銅、白銀、黃金、鉑金、鑽石及傳奇六個段位，分為單人、雙人及多人，一場玩家共約50人，有百慕達和天堂島兩種地圖隨機進行遊戲。
+\*;排位賽 計分模式，獲取好的名次可加分，相對名次不佳則會扣分，有青銅、白銀、黃金、鉑金、鑽石、傳奇及巔峰七個段位，分為單人、雙人及多人，一場玩家共約50人，有百慕達和天堂島兩種地圖隨機進行遊戲。
 
 ## 角色
 
@@ -35,20 +32,19 @@ play商店中超過一億次下載次數。\[1\]一局時間約為十五分鐘�
   - 莫科: 擊中敵人後可短暫顯示位置(小地圖會出現紅點，與無人機相似)。
   - 島田隼：武士道，血量越低、護甲穿透傷害越高。
   - 柔拉：開鏡時精準提升。
+  - 拉斐爾:開槍後可隱藏聲音（小地圖不會出現紅點，與消音器相似）。
 
 ## 其他
 
-\*;[貨幣](../Page/貨幣.md "wikilink") Free
-Fire有兩種貨幣：金幣和鑽石。[金幣可直接在遊戲後取得](https://zh.wikipedia.org/wiki/金幣 "wikilink")，而[鑽石則必須儲值](https://zh.wikipedia.org/wiki/鑽石 "wikilink")，可至超商購買貝殼幣，亦可從遊戲內用信用卡進行儲值。
+\*;[貨幣](../Page/貨幣.md "wikilink") Free Fire有兩種貨幣：金幣和鑽石。[金幣可直接在遊戲後取得](https://zh.wikipedia.org/wiki/金幣 "wikilink")，而[鑽石則必須儲值](https://zh.wikipedia.org/wiki/鑽石 "wikilink")，可至超商購買貝殼幣，亦可從遊戲內用信用卡進行儲值。
 
 \*;消耗品 官方會定期舉辦活動，偶而會推出可以拿來換東西的消耗品。可以換幸運箱、戰備道具或服裝。
 
 \*;商城 是可以購買角色、幸運箱、戰備道具、服裝等收藏品的地方。部分商品需用鑽石購買;角色可自行選擇。
 
-\*;[轉蛋](../Page/轉蛋.md "wikilink")
-**鑽石轉蛋**：一抽95鑽(10+1抽950鑽)，可獲得永久服飾、補給卡、降落傘、角色碎片x150或限定套裝。
+\*;[轉蛋](../Page/轉蛋.md "wikilink") **鑽石轉蛋**：一抽95鑽(10+1抽950鑽)，有機率獲得永久服飾、補給卡、降落傘、角色碎片x150或限定套裝。
 **金幣轉蛋**：一抽300金幣(10+1抽3000金幣)，可獲得限時或時裝、限時槍械塗裝或限定套裝或角色。
-**活動轉蛋**：依每次的活動的不同有不同獎品。
+**傳奇轉蛋**：一抽95鑽(10+1抽950鑽)，有機率獲得永久塗裝槍械、限時塗裝槍械及補給卡。
 抽到相同的物品，系統會自動轉換為Free Fire代幣。
 
 \*;Fire Pass 遊戲內建的成就系統，可藉由達成目標來獲得獎章。獎章達到一定數量時可領取指定獎勵。
@@ -80,12 +76,7 @@ Fire有兩種貨幣：金幣和鑽石。[金幣可直接在遊戲後取得](http
 
   - －越南
 
-[Category:第三人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:第三人稱射擊遊戲 "wikilink")
-[Category:战术射击游戏](https://zh.wikipedia.org/wiki/Category:战术射击游戏 "wikilink")
-[Category:求生类游戏](https://zh.wikipedia.org/wiki/Category:求生类游戏 "wikilink")
-[Category:大逃杀游戏](https://zh.wikipedia.org/wiki/Category:大逃杀游戏 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink")
+[Category:第三人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:第三人稱射擊遊戲 "wikilink") [Category:战术射击游戏](https://zh.wikipedia.org/wiki/Category:战术射击游戏 "wikilink") [Category:求生类游戏](https://zh.wikipedia.org/wiki/Category:求生类游戏 "wikilink") [Category:大逃杀游戏](https://zh.wikipedia.org/wiki/Category:大逃杀游戏 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink")
 
 1.
 2.

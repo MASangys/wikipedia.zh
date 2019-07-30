@@ -1,26 +1,12 @@
 南韓男子組合**[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")**現隸屬於[JYP娛樂](../Page/JYP娛樂.md "wikilink")，迄今共發行11張正規專輯、3張合輯、1張迷你專輯與40張單曲。
 
-2PM於2008年以《》出道，憑2009年單曲〈Again &
-Again〉正式打開知名度。在隊長[朴載範因爭議事件離開後](../Page/朴載範.md "wikilink")，其餘成員也從固定節目中下車\[1\]。2009年9月，2PM以6人之姿攜正規專輯《[01:59PM](https://zh.wikipedia.org/wiki/01:59PM "wikilink")》重返歌壇，主打曲為〈Heartbeast〉，此次回歸空降多個專輯榜與單曲榜冠軍\[2\]，同時獲得\[3\]。隔年，2PM發行單曲《[Don't
-Stop Can't
-Stop](../Page/Don't_Stop_Can't_Stop.md "wikilink")》及迷你專輯《》，均取得韓國[Gaon
-Chart冠軍](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")。此外儘管專輯並未於美國當地宣傳，《Still
-02:00PM》仍在2010年11月1日登上[告示牌世界專輯榜第](https://zh.wikipedia.org/wiki/告示牌世界專輯榜 "wikilink")13名。\[4\]
+2PM於2008年以《》出道，憑2009年單曲〈Again & Again〉正式打開知名度。在隊長[朴載範](../Page/朴載範.md "wikilink")因爭議事件離開後，其餘成員也從固定節目中下車\[1\]。2009年9月，2PM以6人之姿攜正規專輯《[01:59PM](https://zh.wikipedia.org/wiki/01:59PM "wikilink")》重返歌壇，主打曲為〈Heartbeast〉，此次回歸空降多個專輯榜與單曲榜冠軍\[2\]，同時獲得\[3\]。隔年，2PM發行單曲《[Don't Stop Can't Stop](../Page/Don't_Stop_Can't_Stop.md "wikilink")》及迷你專輯《》，均取得韓國[Gaon Chart冠軍](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")。此外儘管專輯並未於美國當地宣傳，《Still 02:00PM》仍在2010年11月1日登上[告示牌世界專輯榜第](https://zh.wikipedia.org/wiki/告示牌世界專輯榜 "wikilink")13名。\[4\]
 
-2011年，2PM以單曲《[Take
-off](../Page/Take_off.md "wikilink")》於日本出道，並取得日本Oricon單曲週榜第4名\[5\]，隨後他們發行第二張韓語專輯《》，專輯與主打曲均空降韓國排行榜冠軍。之後發行的日本單曲《》與《》均名列排行榜第4名，後者《Ultra
-Lover》是2PM於日本的首支認證單曲，包括出道單曲在內共三首歌曲均收錄於2011年發行的日語專輯《》。
+2011年，2PM以單曲《[Take off](../Page/Take_off.md "wikilink")》於日本出道，並取得日本Oricon單曲週榜第4名\[5\]，隨後他們發行第二張韓語專輯《》，專輯與主打曲均空降韓國排行榜冠軍。之後發行的日本單曲《》與《》均名列排行榜第4名，後者《Ultra Lover》是2PM於日本的首支認證單曲，包括出道單曲在內共三首歌曲均收錄於2011年發行的日語專輯《》。
 
-2012年，2PM一共在日本發行三張單曲，包括《》、與2AM合作的《》以及《》，前兩者均取得排行榜第2名並收錄於2013年的日語專輯《[Legend
-of
-2PM](https://zh.wikipedia.org/wiki/LEGEND_OF_2PM "wikilink")》，此張專輯空降Oricon專輯榜冠軍。第三張韓語正規專輯《》取得多國榜單成績，包括日本排名第10、韓國冠軍，以及告示牌世界專輯榜第6名，是告示牌紀錄中的最高成績。2PM隨後發行兩張日語單曲《》及《》，後者是2PM在日的首支冠軍單曲；兩支單曲均收錄於2014年的日語專輯《》。2PM第四張韓語專輯《[瘋了嗎？](../Page/瘋了嗎？.md "wikilink")》是唯一未在Gaon
-Chart取得冠軍的作品，僅名列第三。《瘋了嗎？》日語版本則在Oricon取得第二名成績。
+2012年，2PM一共在日本發行三張單曲，包括《》、與2AM合作的《》以及《》，前兩者均取得排行榜第2名並收錄於2013年的日語專輯《[Legend of 2PM](https://zh.wikipedia.org/wiki/LEGEND_OF_2PM "wikilink")》，此張專輯空降Oricon專輯榜冠軍。第三張韓語正規專輯《》取得多國榜單成績，包括日本排名第10、韓國冠軍，以及告示牌世界專輯榜第6名，是告示牌紀錄中的最高成績。2PM隨後發行兩張日語單曲《》及《》，後者是2PM在日的首支冠軍單曲；兩支單曲均收錄於2014年的日語專輯《》。2PM第四張韓語專輯《[瘋了嗎？](../Page/瘋了嗎？.md "wikilink")》是唯一未在Gaon Chart取得冠軍的作品，僅名列第三。《瘋了嗎？》日語版本則在Oricon取得第二名成績。
 
-第四張日語專輯《[2PM OF
-2PM](../Page/2PM_OF_2PM.md "wikilink")》的收錄單曲《》，是2PM於2015年內第二次於Oricon中奪冠。組合第五張韓語專輯《[No.5](../Page/No.5_\(2PM專輯\).md "wikilink")》同樣在韓國取得冠軍寶座，同時在告示牌世界專輯榜名列第三，是迄今為止最高成績。日語單曲《Higher》收錄於第四張日語專輯《》，是組合首張由[日本唱片協會認證的金唱片](../Page/日本唱片協會.md "wikilink")\[6\]。2PM的第六張韓語專輯《[Gentlemen's
-Game](../Page/Gentlemen's_Game.md "wikilink")》同樣在Gaon
-Chart取得冠軍，主打曲《Promise (I'll
-Be)》日語版本單曲在日發行後則在Oricon中取得第二名。
+第四張日語專輯《[2PM OF 2PM](../Page/2PM_OF_2PM.md "wikilink")》的收錄單曲《》，是2PM於2015年內第二次於Oricon中奪冠。組合第五張韓語專輯《[No.5](../Page/No.5_\(2PM專輯\).md "wikilink")》同樣在韓國取得冠軍寶座，同時在告示牌世界專輯榜名列第三，是迄今為止最高成績。日語單曲《Higher》收錄於第四張日語專輯《》，是組合首張由[日本唱片協會](../Page/日本唱片協會.md "wikilink")認證的金唱片\[6\]。2PM的第六張韓語專輯《[Gentlemen's Game](../Page/Gentlemen's_Game.md "wikilink")》同樣在Gaon Chart取得冠軍，主打曲《Promise (I'll Be)》日語版本單曲在日發行後則在Oricon中取得第二名。
 
 ## 正規專輯
 
@@ -296,6 +282,17 @@ Be)》日語版本單曲在日發行後則在Oricon中取得第二名。
 <td><p>－</p></td>
 </tr>
 <tr class="odd">
+<td><p>2PM Best 2 (2012–2017 in Korea)</p></td>
+<td><ul>
+<li>日期：2019年9月18日</li>
+<li>形式：精選輯</li>
+<li>廠牌：Ariola Japan</li>
+<li>格式：CD</li>
+</ul></td>
+<td><p>colspan=3 </p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1285,10 +1282,7 @@ Be)》日語版本單曲在日發行後則在Oricon中取得第二名。
   - [2PM韓國官方網站](http://2pm.jype.com)
   - [2PM日本官方網站](http://2pmjapan.com/)
 
-[Category:2PM](https://zh.wikipedia.org/wiki/Category:2PM "wikilink")
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
-[Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
-[Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
+[Category:2PM](https://zh.wikipedia.org/wiki/Category:2PM "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink") [Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
 
 1.
 2.

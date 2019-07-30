@@ -1,5 +1,4 @@
-\-- This module implements [Template:London ward
-populations](https://zh.wikipedia.org/wiki/Template:London_ward_populations "wikilink").
+\-- This module implements [Template:London ward populations](https://zh.wikipedia.org/wiki/Template:London_ward_populations "wikilink").
 
 local p = {}
 

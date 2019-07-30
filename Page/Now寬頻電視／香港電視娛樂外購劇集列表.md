@@ -1,5 +1,5 @@
-本條目列出曾於[Now寬頻電視](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")／[香港電視娛樂播放但並非由其公司所製作的](../Page/香港電視娛樂.md "wikilink")**外購劇集**，一般由配音公司製作[粵語聲道以雙語廣播](https://zh.wikipedia.org/wiki/粵語 "wikilink")。
-<small>註：劇集名稱**前**的為該劇於[Now寬頻電視](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")／[香港電視娛樂的首播日期及頻道](../Page/香港電視娛樂.md "wikilink")，劇集名稱後的為該劇於其所屬地區的首播頻道。</small>
+本條目列出曾於[Now寬頻電視](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")／[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")播放但並非由其公司所製作的**外購劇集**，一般由配音公司製作[粵語聲道以雙語廣播](https://zh.wikipedia.org/wiki/粵語 "wikilink")。
+<small>註：劇集名稱**前**的為該劇於[Now寬頻電視](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")／[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")的首播日期及頻道，劇集名稱後的為該劇於其所屬地區的首播頻道。</small>
 
 ## 中國大陸
 
@@ -452,7 +452,7 @@ Joël Lefrançois</p></td>
 
 </div>
 
-1.  曾於[Now香港台重播](../Page/Now香港台.md "wikilink")
+1.  曾於[Now香港台](../Page/Now香港台.md "wikilink")重播
 
 2.
 3.  不設粵語配音

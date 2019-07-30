@@ -1,5 +1,4 @@
-《**Much Feeling Little
-Thinking**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的第七張錄音室專輯](https://zh.wikipedia.org/wiki/王菀之 "wikilink")、第六張粵語錄音室專輯，由[寰亞唱片於](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")2017年3月31日推出。
+《**Much Feeling Little Thinking**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的第七張錄音室專輯](https://zh.wikipedia.org/wiki/王菀之 "wikilink")、第六張粵語錄音室專輯，由[寰亞唱片於](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")2017年3月31日推出。
 
 ## 曲目
 
@@ -13,29 +12,14 @@ Thinking**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創
 出自《Much Feeling Little Thinking》專輯內頁。\[1\]
 **音樂**
 
-  - [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink") – 主音
-    <small>(所有歌曲)</small>、作曲
-    <small>(1-4、6-8、11-12、14-16)</small>、作詞
-    <small>(6、8、11、15)</small>、編曲 <small>(2、15)</small>、鋼琴
-    <small>(2、7、15)</small>、和音 <small>(3-4、6-9、11-12)</small>、鍵盤
-    <small>(6)</small>
-  - [馮翰銘](../Page/馮翰銘.md "wikilink") – 編曲
-    <small>(1、3、7-9、11、14、16)</small>、所有樂器
-    <small>(1、3、7-8)</small>、鋼琴 <small>(7)</small>
-  - [陳光榮](../Page/陳光榮.md "wikilink") – 作曲 <small>(5)</small>、編曲
-    <small>(5)</small>、鋼琴 <small>(5)</small>、吉他 <small>(5)</small>、電腦程式
-    <small>(5)</small>
+  - [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink") – 主音 <small>(所有歌曲)</small>、作曲 <small>(1-4、6-8、11-12、14-16)</small>、作詞 <small>(6、8、11、15)</small>、編曲 <small>(2、15)</small>、鋼琴 <small>(2、7、15)</small>、和音 <small>(3-4、6-9、11-12)</small>、鍵盤 <small>(6)</small>
+  - [馮翰銘](../Page/馮翰銘.md "wikilink") – 編曲 <small>(1、3、7-9、11、14、16)</small>、所有樂器 <small>(1、3、7-8)</small>、鋼琴 <small>(7)</small>
+  - [陳光榮](../Page/陳光榮.md "wikilink") – 作曲 <small>(5)</small>、編曲 <small>(5)</small>、鋼琴 <small>(5)</small>、吉他 <small>(5)</small>、電腦程式 <small>(5)</small>
   - [伍仲衡](../Page/伍仲衡.md "wikilink") – 作曲 <small>(9)</small>
-  - [林一峰](https://zh.wikipedia.org/wiki/林一峰 "wikilink") – 主音
-    <small>(10)</small>、作曲 <small>(10)</small>、作詞 <small>(10)</small>、編曲
-    <small>(10)</small>、電吉他 <small>(10)</small>、木吉他
-    <small>(10)</small>、直笛 <small>(10)</small>、低音吉他
-    <small>(10)</small>
-  - [羅大佑](../Page/羅大佑.md "wikilink") – 作曲 <small>(13)</small>、作詞
-    <small>(13)</small>
+  - [林一峰](https://zh.wikipedia.org/wiki/林一峰 "wikilink") – 主音 <small>(10)</small>、作曲 <small>(10)</small>、作詞 <small>(10)</small>、編曲 <small>(10)</small>、電吉他 <small>(10)</small>、木吉他 <small>(10)</small>、直笛 <small>(10)</small>、低音吉他 <small>(10)</small>
+  - [羅大佑](../Page/羅大佑.md "wikilink") – 作曲 <small>(13)</small>、作詞 <small>(13)</small>
   - [林夕](../Page/林夕.md "wikilink") – 作詞 <small>(1、2、7、13、16)</small>
-  - [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") – 作詞
-    <small>(3、9、14)</small>
+  - [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") – 作詞 <small>(3、9、14)</small>
   - [藍奕邦](../Page/藍奕邦.md "wikilink") – 作詞 <small>(4)</small>
   - 小廣 – 作詞 <small>(5)</small>
   - [周耀輝](../Page/周耀輝.md "wikilink") – 作詞 <small>(12)</small>
@@ -43,60 +27,48 @@ Thinking**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創
 
 <!-- end list -->
 
-  - [黃兆銘](../Page/黃兆銘.md "wikilink") – 編曲 <small>(4)</small>、鍵盤
-    <small>(4)</small>、電腦程式 <small>(4)</small>
-  - 李一丁 – 編曲 <small>(6)</small>、鼓 <small>(1、4、6、8、12)</small>、敲擊樂器
-    <small>(4、6)</small>、電腦程式 <small>(6)</small>
-  - [何秉舜](../Page/何秉舜.md "wikilink") – 編曲 <small>(9)</small>、鋼琴
-    <small>(7、9)</small>、所有樂器 <small>(9)</small>
+  - [黃兆銘](../Page/黃兆銘.md "wikilink") – 編曲 <small>(4)</small>、鍵盤 <small>(4)</small>、電腦程式 <small>(4)</small>
+  - 李一丁 – 編曲 <small>(6)</small>、鼓 <small>(1、4、6、8、12)</small>、敲擊樂器 <small>(4、6)</small>、電腦程式 <small>(6)</small>
+  - [何秉舜](../Page/何秉舜.md "wikilink") – 編曲 <small>(9)</small>、鋼琴 <small>(7、9)</small>、所有樂器 <small>(9)</small>
   - [陳輝陽](../Page/陳輝陽.md "wikilink") – 編曲 <small>(13)</small>
-  - 天使合唱團 (Esther Fung、Wong Fang、Sylvia Chen、Sophia Chan、Amy Wong、Petrus
-    Cheung) – 和音 <small>(3)</small>
+  - 天使合唱團 (Esther Fung、Wong Fang、Sylvia Chen、Sophia Chan、Amy Wong、Petrus Cheung) – 和音 <small>(3)</small>
   - 陳兆基 – 低音吉他 <small>(3、12、16)</small>
   - 荒井壯一郎 – 敲擊樂器 <small>(3、10-11)</small>、鼓 <small>(10)</small>
   - 李國能 – 低音提琴 <small>(4)</small>
   - 陳允 – 小提琴 <small>(5)</small>
   - 中國愛樂弦樂團 – 弦樂 <small>(5)</small>
-  - [周慧敏](../Page/周慧敏.md "wikilink") – 主音 <small>(8)</small>、和音
-    <small>(8)</small>
+  - [周慧敏](../Page/周慧敏.md "wikilink") – 主音 <small>(8)</small>、和音 <small>(8)</small>
   - 崔展鴻 – 吉他 <small>(12)</small>
   - Kelvin Au – 中音長笛 <small>(4)</small>
   - Ba Wenjing – 小提琴 <small>(4)</small>
 
 <!-- end list -->
 
-  - [Edward Chan](https://zh.wikipedia.org/wiki/Edward_Chan "wikilink")
-    – 編曲 <small>(4)</small>、額外電腦程式 <small>(4)</small>
+  - [Edward Chan](https://zh.wikipedia.org/wiki/Edward_Chan "wikilink") – 編曲 <small>(4)</small>、額外電腦程式 <small>(4)</small>
   - Chan Siu Kei – 低音吉他 <small>(4)</small>
   - Fergus Chow – 低音吉他 <small>(6)</small>、風琴 <small>(6)</small>
   - Ethan Heath – 中提琴 <small>(4)</small>
   - Gallant Ho – 小提琴 <small>(4)</small>
-  - The Invisible Men – 鋼琴 <small>(9、11)</small>、所有樂器
-    <small>(11、14、16)</small>
+  - The Invisible Men – 鋼琴 <small>(9、11)</small>、所有樂器 <small>(11、14、16)</small>
   - Anna Kwan – 大提琴 <small>(1、3-4、7、9、11、16)</small>
   - MoP – 上低音薩克斯風 <small>(11)</small>、大號 <small>(11)</small>
   - Ben P. – 長號 <small>(11)</small>
   - Paul Panichi – 小號 <small>(11)</small>、柔音號 <small>(11)</small>
   - Leslie Moonsun Ryang – 小提琴 <small>(1、3-4、7-9、11、16)</small>
   - Derrick Sapnio – 吉他 <small>(6)</small>
-  - [T-ma](../Page/T-ma.md "wikilink") – 編曲 <small>(4)</small>、吉他
-    <small>(4)</small>、電腦程式 <small>(4)</small>
+  - [T-ma](../Page/T-ma.md "wikilink") – 編曲 <small>(4)</small>、吉他 <small>(4)</small>、電腦程式 <small>(4)</small>
 
 **製作**
 
-  - 王菀之 – 監製 <small>(2、12、15)</small>、和音指揮 <small>(3)</small>、和音編寫
-    <small>(4)</small>
-  - 馮翰銘 – 監製 <small>(1、3、7-9、11、14、16)</small>、錄音
-    <small>(1)</small>、音訊工程 <small>(10)</small>、配唱監製
-    <small>(13)</small>、混音 <small>(15)</small>
+  - 王菀之 – 監製 <small>(2、12、15)</small>、和音指揮 <small>(3)</small>、和音編寫 <small>(4)</small>
+  - 馮翰銘 – 監製 <small>(1、3、7-9、11、14、16)</small>、錄音 <small>(1)</small>、音訊工程 <small>(10)</small>、配唱監製 <small>(13)</small>、混音 <small>(15)</small>
   - 陳光榮 – 監製 <small>(5)</small>
   - 李一丁 – 監製 <small>(6)</small>、音訊工程 <small>(6)</small>
   - 伍仲衡 – 監製 <small>(9)</small>、錄音 <small>(9)</small>
   - 林一峰 – 監製 <small>(10)</small>
   - 何山 – 監製 <small>(12)</small>、錄音 <small>(12)</small>
   - 陳輝陽 – 監製 <small>(13)</small>
-  - 黃兆銘 – 弦樂編寫 <small>(4)</small>、長笛編寫 <small>(4)</small>、Pro Tools聲音編輯
-    <small>(4)</small>
+  - 黃兆銘 – 弦樂編寫 <small>(4)</small>、長笛編寫 <small>(4)</small>、Pro Tools聲音編輯 <small>(4)</small>
   - 何秉舜 – 錄音 <small>(7)</small>、監製 <small>(9)</small>
 
 <!-- end list -->
@@ -105,21 +77,16 @@ Thinking**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創
   - Kelvin Au – Pro Tools聲音編輯 <small>(4)</small>
   - Mike Balboa – 音訊工程 <small>(10)</small>
   - Greg Calbi – 後期混音製作 <small>(1-4、7、16)</small>
-  - Edward Chan – 監製 <small>(4)</small>、弦樂編寫 <small>(4)</small>、長笛編寫
-    <small>(4)</small>、和音編寫 <small>(4)</small>、Pro Tools聲音編輯
-    <small>(4)</small>、錄音 <small>(4)</small>
+  - Edward Chan – 監製 <small>(4)</small>、弦樂編寫 <small>(4)</small>、長笛編寫 <small>(4)</small>、和音編寫 <small>(4)</small>、Pro Tools聲音編輯 <small>(4)</small>、錄音 <small>(4)</small>
   - Tina Che Zhou – 音訊工程 <small>(10)</small>
   - Frankie Hung – 混音 <small>(4)</small>
-  - The Invisible Men – 錄音 <small>(3、7-9、11、14、16)</small>、混音
-    <small>(7-8、14)</small>
+  - The Invisible Men – 錄音 <small>(3、7-9、11、14、16)</small>、混音 <small>(7-8、14)</small>
   - KamKin – 製作統籌 <small>(1、3、7-9、11、14)</small>
   - Ken – 音訊工程 <small>(10)</small>
 
 <!-- end list -->
 
-  - King Kong – Pro Tools聲音編輯 <small>(4)</small>、錄音
-    <small>(4)</small>、音訊工程 <small>(6)</small>、混音
-    <small>(6)</small>、後期混音製作 <small>(6)</small>
+  - King Kong – Pro Tools聲音編輯 <small>(4)</small>、錄音 <small>(4)</small>、音訊工程 <small>(6)</small>、混音 <small>(6)</small>、後期混音製作 <small>(6)</small>
   - Jeff Li – 錄音 <small>(5)</small>
   - Simon Li – 後期混音製作 <small>(9、11-12、14)</small>、混音 <small>(12)</small>
   - Mas – 音訊工程 <small>(10)</small>、混音工程 <small>(10)</small>
@@ -221,8 +188,7 @@ Thinking**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創
 
 ## 外部連結
 
-[Category:王菀之音樂專輯](https://zh.wikipedia.org/wiki/Category:王菀之音樂專輯 "wikilink")
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
+[Category:王菀之音樂專輯](https://zh.wikipedia.org/wiki/Category:王菀之音樂專輯 "wikilink") [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
 
 1.
 2.

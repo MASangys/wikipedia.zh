@@ -1,4 +1,4 @@
-**nao**（），[日本](../Page/日本.md "wikilink")[千叶县](https://zh.wikipedia.org/wiki/千叶县 "wikilink")[野田市出身](../Page/野田市.md "wikilink")，日本女歌手，[fripSide第一代主唱](https://zh.wikipedia.org/wiki/fripSide "wikilink")，[同人音乐团体DystopiaGround主唱](https://zh.wikipedia.org/wiki/同人 "wikilink")。
+**nao**（），[日本](../Page/日本.md "wikilink")[千叶县](https://zh.wikipedia.org/wiki/千叶县 "wikilink")[野田市](../Page/野田市.md "wikilink")出身，日本女歌手，[fripSide第一代主唱](https://zh.wikipedia.org/wiki/fripSide "wikilink")，[同人音乐团体DystopiaGround主唱](https://zh.wikipedia.org/wiki/同人 "wikilink")。
 
 ## 人物简介
 
@@ -268,5 +268,4 @@ FVCG-1330（通常盘）</p></td>
   - [nao的官方博客](http://ameblo.jp/dg-naoblog/)
 
   -
-[Category:千葉縣出身人物](https://zh.wikipedia.org/wiki/Category:千葉縣出身人物 "wikilink")
-[Category:萌系歌曲歌手](https://zh.wikipedia.org/wiki/Category:萌系歌曲歌手 "wikilink")
+[Category:千葉縣出身人物](https://zh.wikipedia.org/wiki/Category:千葉縣出身人物 "wikilink") [Category:萌系歌曲歌手](https://zh.wikipedia.org/wiki/Category:萌系歌曲歌手 "wikilink")

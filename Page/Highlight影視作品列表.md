@@ -718,13 +718,13 @@
 </tr>
 <tr class="odd">
 <td><p>6月26日</p></td>
-<td><p><small>（<a href="../Page/日本.md" title="wikilink">日本電視台</a>）</small></p></td>
+<td><p><small>（<a href="../Page/日本.md" title="wikilink">日本</a>電視台）</small></p></td>
 <td><p>《戀Korea》</p></td>
 <td><p>少斗俊</p></td>
 </tr>
 <tr class="even">
 <td><p>7月11日</p></td>
-<td><p><small>（<a href="../Page/日本.md" title="wikilink">日本電視台</a>）</small></p></td>
+<td><p><small>（<a href="../Page/日本.md" title="wikilink">日本</a>電視台）</small></p></td>
 <td><p>《<a href="../Page/閒聊007.md" title="wikilink">閒聊007</a>》</p></td>
 <td></td>
 </tr>
@@ -742,31 +742,31 @@
 </tr>
 <tr class="odd">
 <td><p>7月13日</p></td>
-<td><p><small>（<a href="../Page/日本.md" title="wikilink">日本電視台</a>）</small></p></td>
+<td><p><small>（<a href="../Page/日本.md" title="wikilink">日本</a>電視台）</small></p></td>
 <td><p>《Made in BS Japan》</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>7月14日</p></td>
-<td><p><small>（<a href="../Page/日本.md" title="wikilink">日本電視台</a>）</small></p></td>
+<td><p><small>（<a href="../Page/日本.md" title="wikilink">日本</a>電視台）</small></p></td>
 <td><p>《古家正亨》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>7月28日</p></td>
-<td><p><small>（<a href="../Page/日本.md" title="wikilink">日本電視台</a>）</small></p></td>
+<td><p><small>（<a href="../Page/日本.md" title="wikilink">日本</a>電視台）</small></p></td>
 <td><p>《<a href="../Page/魁！音樂排行榜.md" title="wikilink">魁！音樂排行榜</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>8月1日</p></td>
-<td><p><small>（<a href="../Page/日本.md" title="wikilink">日本電視台</a>）</small></p></td>
+<td><p><small>（<a href="../Page/日本.md" title="wikilink">日本</a>電視台）</small></p></td>
 <td><p>《HEY!HEY!HEY!》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>8月7日</p></td>
-<td><p><small>（<a href="../Page/日本.md" title="wikilink">日本電視台</a>）</small></p></td>
+<td><p><small>（<a href="../Page/日本.md" title="wikilink">日本</a>電視台）</small></p></td>
 <td><p>《<a href="../Page/Picaru的定理.md" title="wikilink">Picaru的定理</a>》</p></td>
 <td></td>
 </tr>
@@ -918,7 +918,7 @@
 <tr class="even">
 <td><p>9月1日</p></td>
 <td><p><a href="../Page/韓國放送公社.md" title="wikilink">KBS</a></p></td>
-<td><p>《<a href="../Page/青春不敗.md" title="wikilink">青春不敗2</a>》</p></td>
+<td><p>《<a href="../Page/青春不敗.md" title="wikilink">青春不敗</a>2》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1025,14 +1025,14 @@
 | 9月8日      | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 《[Running Man](../Page/Running_Man.md "wikilink")》                            | 起光、斗俊       |
 | 9月19日、20日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《第七屆偶像田徑足球射箭運動會》                                                              | 斗俊、耀燮、起光    |
 | 10月5日     | [KBS2](../Page/KBS第2频道.md "wikilink")                 | 《》                                                                            | 斗俊          |
-| 10月10日    | <small>（[日本電視台](../Page/日本.md "wikilink")）</small>    | 《Ameba Studio》                                                                |             |
-| 10月10日    | <small>（[日本電視台](../Page/日本.md "wikilink")）</small>    | 《5時夢中》                                                                        |             |
+| 10月10日    | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>    | 《Ameba Studio》                                                                |             |
+| 10月10日    | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>    | 《5時夢中》                                                                        |             |
 | 10月11日    | [JTBC](../Page/JTBC.md "wikilink")                    | 《演藝特種》                                                                        |             |
-| 10月27日    | <small>（[日本電視台](../Page/日本.md "wikilink")）</small>    | 《Night Shuffle》                                                               | 少耀燮         |
-| 11月4日、11日 | <small>（[日本電視台](../Page/日本.md "wikilink")）</small>    | 《HAN LOVE（）》                                                                  |             |
+| 10月27日    | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>    | 《Night Shuffle》                                                               | 少耀燮         |
+| 11月4日、11日 | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>    | 《HAN LOVE（）》                                                                  |             |
 | 12月7日、14日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 《[不朽的名曲2](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》                                 | 賢勝          |
-| 12月9日     | <small>（[日本電視台](../Page/日本.md "wikilink")）</small>    | 《韓タメ！POP》                                                                     |             |
-| 12月21日    | <small>（[日本電視台](../Page/日本.md "wikilink")）</small>    | 《Music Dragon Live 2013》                                                      |             |
+| 12月9日     | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>    | 《韓タメ！POP》                                                                     |             |
+| 12月21日    | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>    | 《Music Dragon Live 2013》                                                      |             |
 | 12月28日    | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《MPD's MVP》                                                                   | 俊亨          |
 |           |                                                       |                                                                               |             |
 
@@ -1065,7 +1065,7 @@
 | 7月24日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《》                                                                            | 斗俊、耀燮、東雲    |
 | 7月25日        | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 《[尋笑人](../Page/尋笑人.md "wikilink")》                                            | 東雲          |
 | 8月2日         | [KBS2](../Page/KBS第2频道.md "wikilink")                 | 《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》                 |             |
-| 9月3日         | <small>（[日本電視台](../Page/日本.md "wikilink")）</small>    | 《Ameba Premium》                                                               |             |
+| 9月3日         | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>    | 《Ameba Premium》                                                               |             |
 | 9月12日-10月10日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | 《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》                     | 起光          |
 | 10月16日       | Naver                                                 | 《Starcast On Air》                                                             |             |
 | 10月17日       | [KBS2](../Page/KBS第2频道.md "wikilink")                 | 《[我是男人](../Page/我是男人.md "wikilink")》                                          |             |
@@ -1073,8 +1073,8 @@
 | 10月20日       | [KBS2](../Page/KBS第2频道.md "wikilink")                 | 《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》                                | 斗俊、起光、耀燮、東雲 |
 | 10月22日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《[黃金漁場Radio Star](https://zh.wikipedia.org/wiki/黃金漁場Radio_Star "wikilink")》   | 東雲          |
 | 10月25日       | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 《[演藝家中介](../Page/演藝家中介.md "wikilink")》                                        |             |
-| 12月4日        | <small>（[日本電視台](../Page/日本.md "wikilink")）</small>    | 《ニコニコ生放送》                                                                     |             |
-| 12月22日       | <small>（[日本電視台](../Page/日本.md "wikilink")）</small>    | 《韓Chu》                                                                        |             |
+| 12月4日        | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>    | 《ニコニコ生放送》                                                                     |             |
+| 12月22日       | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>    | 《韓Chu》                                                                        |             |
 
 |             |                                                       |                                                                               |                   |
 | ----------- | ----------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------- |
@@ -1119,7 +1119,7 @@
 | 4月16日        | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                 | 《[Battle Trip](https://zh.wikipedia.org/wiki/Battle_Trip "wikilink")》       | 斗俊          |
 | 5月14日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                   | 《[無限挑戰](../Page/無限挑戰.md "wikilink")》                                        | 斗俊          |
 | 5月15日、21日    | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                   | 《[蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                                  | 東雲          |
-| 6月5日         | <small>（[日本電視台](../Page/日本.md "wikilink")）</small>                    | 《AbemaTV FRESH\!》                                                           |             |
+| 6月5日         | <small>（[日本](../Page/日本.md "wikilink")電視台）</small>                    | 《AbemaTV FRESH\!》                                                           |             |
 | 6月29日、7月6日   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                   | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                          |             |
 | 7月13日        | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                 | 《MV Bank Stardust》                                                          |             |
 | 7月16日        | Dingo Music                                                           | 《[微醺 Live](https://www.youtube.com/watch?v=d6K3W4d2SsQ)》                    |             |
@@ -1431,39 +1431,22 @@
 
 ## 漫畫
 
-以BEAST成員為主角的漫畫《The BEAST》於2012年開始連載，由知名科幻恐怖電影編劇金學芬、naver 人氣網路連載漫畫家 ZHENa
-聯手製作，首集首刷共13,000本在發行一周後即售罄，目前韓國版本已推出6集，而台灣版本則為4集（韓版3、4集合為台版第3集，韓版5、6集合為台版第4集），依序為《The
-BEAST 1：命運的開始》\[10\]、《The BEAST 2：潛伏的野獸》\[11\]、《The BEAST
-3：正面交鋒》\[12\]、《The BEAST 4：記憶的影子》\[13\]。
+以BEAST成員為主角的漫畫《The BEAST》於2012年開始連載，由知名科幻恐怖電影編劇金學芬、naver 人氣網路連載漫畫家 ZHENa 聯手製作，首集首刷共13,000本在發行一周後即售罄，目前韓國版本已推出6集，而台灣版本則為4集（韓版3、4集合為台版第3集，韓版5、6集合為台版第4集），依序為《The BEAST 1：命運的開始》\[10\]、《The BEAST 2：潛伏的野獸》\[11\]、《The BEAST 3：正面交鋒》\[12\]、《The BEAST 4：記憶的影子》\[13\]。
 
 ## 参考资料
 
 [Category:Highlight](https://zh.wikipedia.org/wiki/Category:Highlight "wikilink")
 
-1.  [BEAST李起光 「全部我的愛」 客串登場,
-    刺激尹斗俊](http://www.koreastardaily.com/tc/news/10404) 韓星網
-    2011-08-19
-2.  [BEAST李起光 「全部我的愛」 客串登場,
-    刺激尹斗俊](http://www.koreastardaily.com/tc/news/10404) 韓星網
-    2011-08-19
-3.  [BEAST龍俊亨客串《蠑螈道士》飾演花美男盜賊](http://www.koreastardaily.com/tc/photo/15012)
-    韓星網 2012-02-09
+1.  [BEAST李起光 「全部我的愛」 客串登場, 刺激尹斗俊](http://www.koreastardaily.com/tc/news/10404) 韓星網 2011-08-19
+2.  [BEAST李起光 「全部我的愛」 客串登場, 刺激尹斗俊](http://www.koreastardaily.com/tc/news/10404) 韓星網 2011-08-19
+3.  [BEAST龍俊亨客串《蠑螈道士》飾演花美男盜賊](http://www.koreastardaily.com/tc/photo/15012) 韓星網 2012-02-09
 4.  [耀燮將客串我的女兒素英](http://kpopn.com/2012/12/07/155674/) Kpopn 2012-12-07
 5.  [起光對演出主角的感想是…](http://kpopn.com/2013/06/11/180601/)Kpopn 2013-06-11
-6.  [李起光李多仁的手機劇
-    演繹廿歲愛情故事](http://www.epochtimes.com/b5/13/10/15/n3987331.htm)
-    大紀元時報 2013-10-15
-7.  [《一起吃飯吧》臺詞排練照曝光
-    李秀景尹斗俊領銜主演](http://www.koreastardaily.com/tc/photo/33659)
-    韓星網 2013-10-31
-8.  [1](https://www.kpopn.com/2018/04/11/%E6%96%97%E4%BF%8A%E7%A2%BA%E5%AE%9A%E6%90%AD%E6%AA%94%E7%99%BD%E7%8F%8D%E7%86%99%E5%87%BA%E6%BC%94%E3%80%8A%E4%B8%80%E8%B5%B7%E5%90%83%E9%A3%AF%E5%90%A73%E3%80%8B%EF%BC%8C%E5%B0%87%E5%9C%A87%E6%9C%8816%E6%97%A5%E9%A6%96%E6%92%AD%EF%BC%81/)
-     Kpopn 2018-04-11
+6.  [李起光李多仁的手機劇 演繹廿歲愛情故事](http://www.epochtimes.com/b5/13/10/15/n3987331.htm) 大紀元時報 2013-10-15
+7.  [《一起吃飯吧》臺詞排練照曝光 李秀景尹斗俊領銜主演](http://www.koreastardaily.com/tc/photo/33659) 韓星網 2013-10-31
+8.  [1](https://www.kpopn.com/2018/04/11/%E6%96%97%E4%BF%8A%E7%A2%BA%E5%AE%9A%E6%90%AD%E6%AA%94%E7%99%BD%E7%8F%8D%E7%86%99%E5%87%BA%E6%BC%94%E3%80%8A%E4%B8%80%E8%B5%B7%E5%90%83%E9%A3%AF%E5%90%A73%E3%80%8B%EF%BC%8C%E5%B0%87%E5%9C%A87%E6%9C%8816%E6%97%A5%E9%A6%96%E6%92%AD%EF%BC%81/)  Kpopn 2018-04-11
 9.
-10. [與 BEAST 命運相遇在台灣](http://kpopn.com/2013/01/21/161948/)  Kpopn
-    2013-01-21
-11. [跟 BEAST 一起拯救世界！](http://kpopn.com/2013/03/22/170011/)  Kpopn
-    2013-03-22
-12. [BEAST 與反派正面交鋒](http://kpopn.com/2013/06/05/179676/) Kpopn
-    2013-06-05
-13. [面對危機的英雄 BEAST](http://kpopn.com/2013/10/01/194505/)  Kpopn
-    2013-10-01
+10. [與 BEAST 命運相遇在台灣](http://kpopn.com/2013/01/21/161948/)  Kpopn 2013-01-21
+11. [跟 BEAST 一起拯救世界！](http://kpopn.com/2013/03/22/170011/)  Kpopn 2013-03-22
+12. [BEAST 與反派正面交鋒](http://kpopn.com/2013/06/05/179676/) Kpopn 2013-06-05
+13. [面對危機的英雄 BEAST](http://kpopn.com/2013/10/01/194505/)  Kpopn 2013-10-01

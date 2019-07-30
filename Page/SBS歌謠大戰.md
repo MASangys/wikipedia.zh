@@ -1,11 +1,8 @@
-**《SBS歌謠大戰》**（）是[SBS自](../Page/SBS_\(韓國\).md "wikilink")1992年起每年年末舉辦的[K-Pop匯演節目](https://zh.wikipedia.org/wiki/K-Pop "wikilink")，自2014年起與[SBS演技大獎及](../Page/SBS演技大獎.md "wikilink")[SBS演藝大獎並列為](https://zh.wikipedia.org/wiki/SBS演藝大獎 "wikilink")「**SBS
-Awards Festival
-（SAF）**」系列節目。節目創立初期為[韓國音樂頒獎典禮之一](https://zh.wikipedia.org/wiki/韓國 "wikilink")，自2007年起取消頒獎環節（除2014年外），改為每年邀請該年度表現活躍的歌手表演。
+**《SBS歌謠大戰》**（）是[SBS自](../Page/SBS_\(韓國\).md "wikilink")1992年起每年年末舉辦的[K-Pop匯演節目](https://zh.wikipedia.org/wiki/K-Pop "wikilink")，自2014年起與[SBS演技大獎](../Page/SBS演技大獎.md "wikilink")及[SBS演藝大獎並列為](https://zh.wikipedia.org/wiki/SBS演藝大獎 "wikilink")「**SBS Awards Festival （SAF）**」系列節目。節目創立初期為[韓國音樂頒獎典禮之一](https://zh.wikipedia.org/wiki/韓國 "wikilink")，自2007年起取消頒獎環節（除2014年外），改為每年邀請該年度表現活躍的歌手表演。
 
 ## 歷史沿革
 
-節目以音樂頒獎典禮形式於1992年首播，原名為《SBS明星獎》，直至1996年更名為《SBS歌謠大戰》。節目自2007年起取消頒獎環節，改為匯演形式，僅於2014年與《[SBS演技大獎](../Page/SBS演技大獎.md "wikilink")》及《[SBS演藝大獎](https://zh.wikipedia.org/wiki/SBS演藝大獎 "wikilink")》共同作為「SBS
-Awards Festival」（SAF）的一部分後附設頒獎環節\[1\]。
+節目以音樂頒獎典禮形式於1992年首播，原名為《SBS明星獎》，直至1996年更名為《SBS歌謠大戰》。節目自2007年起取消頒獎環節，改為匯演形式，僅於2014年與《[SBS演技大獎](../Page/SBS演技大獎.md "wikilink")》及《[SBS演藝大獎](https://zh.wikipedia.org/wiki/SBS演藝大獎 "wikilink")》共同作為「SBS Awards Festival」（SAF）的一部分後附設頒獎環節\[1\]。
 
 ## 歷屆情況
 
@@ -1187,7 +1184,7 @@ No oh oh + Winter Story[11]</p></td>
 <td><p>熱門歌曲表演</p></td>
 <td><p><a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
 <td><p>Intro（<a href="https://zh.wikipedia.org/wiki/KAI" title="wikilink">KAI</a> Solo舞蹈表演）+ <a href="../Page/Don&#39;t_Mess_Up_My_Tempo.md" title="wikilink">LOVE SHOT</a>[110] +<br />
-Inter（<a href="../Page/CHEN_(EXO).md" title="wikilink">CHEN領唱</a>；<a href="https://zh.wikipedia.org/wiki/世勳" title="wikilink">世勳</a> × <a href="../Page/伯賢.md" title="wikilink">伯賢舞蹈表演</a>）+ <a href="../Page/Don&#39;t_Mess_Up_My_Tempo.md" title="wikilink">TEMPO</a>[111]</p></td>
+Inter（<a href="../Page/CHEN_(EXO).md" title="wikilink">CHEN領唱</a>；<a href="https://zh.wikipedia.org/wiki/世勳" title="wikilink">世勳</a> × <a href="../Page/伯賢.md" title="wikilink">伯賢</a>舞蹈表演）+ <a href="../Page/Don&#39;t_Mess_Up_My_Tempo.md" title="wikilink">TEMPO</a>[111]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1205,19 +1202,13 @@ Inter（<a href="../Page/CHEN_(EXO).md" title="wikilink">CHEN領唱</a>；<a hre
 
 ## 外部連結
 
-  - [《2014
-    SBS歌謠大戰》官方網站](http://program.sbs.co.kr/dynamic/programMainList.do?pgm_id=22000005904&shareUrl=http%3A%2F%2Fprogram.sbs.co.kr%2Fbuilder%2FprogramMainList.do%3Fpgm_id%3D22000005904&shareTitle=2014+%EA%B0%80%EC%9A%94%EB%8C%80%EC%A0%84+SUPER5+%3A+SBS&shareDesc=)
-  - [《2015
-    SBS歌謠大戰》官方網站](http://program.sbs.co.kr/dynamic/programMainList.do?pgm_id=22000008876)
-  - [《2016
-    SBS歌謠大戰》官方網站](http://saf.sbs.co.kr/2016/intro/songIntro.jsp?lang=kr)
+  - [《2014 SBS歌謠大戰》官方網站](http://program.sbs.co.kr/dynamic/programMainList.do?pgm_id=22000005904&shareUrl=http%3A%2F%2Fprogram.sbs.co.kr%2Fbuilder%2FprogramMainList.do%3Fpgm_id%3D22000005904&shareTitle=2014+%EA%B0%80%EC%9A%94%EB%8C%80%EC%A0%84+SUPER5+%3A+SBS&shareDesc=)
+  - [《2015 SBS歌謠大戰》官方網站](http://program.sbs.co.kr/dynamic/programMainList.do?pgm_id=22000008876)
+  - [《2016 SBS歌謠大戰》官方網站](http://saf.sbs.co.kr/2016/intro/songIntro.jsp?lang=kr)
   - [《2017 SBS歌謠大戰》官方網站](https://programs.sbs.co.kr/enter/gayo2017)
-  - [《2018
-    SBS歌謠大戰》官方網站](https://programs.sbs.co.kr/enter/2018sbsgayo/about/57871)
+  - [《2018 SBS歌謠大戰》官方網站](https://programs.sbs.co.kr/enter/2018sbsgayo/about/57871)
 
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
-[Category:韓國音樂獎項](https://zh.wikipedia.org/wiki/Category:韓國音樂獎項 "wikilink")
-[Category:1992年建立的奖项](https://zh.wikipedia.org/wiki/Category:1992年建立的奖项 "wikilink")
+[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink") [Category:韓國音樂獎項](https://zh.wikipedia.org/wiki/Category:韓國音樂獎項 "wikilink") [Category:1992年建立的奖项](https://zh.wikipedia.org/wiki/Category:1992年建立的奖项 "wikilink")
 
 1.
 

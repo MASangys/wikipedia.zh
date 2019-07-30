@@ -1,9 +1,6 @@
-**《I Am
-Erika》**是[台灣歌手](https://zh.wikipedia.org/wiki/台灣 "wikilink")[Erika首張錄音室音樂專輯](https://zh.wikipedia.org/wiki/劉艾立 "wikilink")，由[華納音樂唱片公司於](https://zh.wikipedia.org/wiki/華納音樂 "wikilink")2016年6月17日發行。\[1\]首波主打歌為《當一個天使的憂愁》，單曲除了請同門男歌手[小宇作曲與合唱外](../Page/小宇.md "wikilink")，該MV男主角也邀男演員[曹晏豪參與演出](../Page/曹晏豪.md "wikilink")。\[2\]第二波主打歌為《繞》展現自己最真實的一面。\[3\]第三波主打歌為《下一個未來》。\[4\]
+**《I Am Erika》**是[台灣歌手](https://zh.wikipedia.org/wiki/台灣 "wikilink")[Erika首張錄音室音樂專輯](https://zh.wikipedia.org/wiki/劉艾立 "wikilink")，由[華納音樂唱片公司於](https://zh.wikipedia.org/wiki/華納音樂 "wikilink")2016年6月17日發行。\[1\]首波主打歌為《當一個天使的憂愁》，單曲除了請同門男歌手[小宇](../Page/小宇.md "wikilink")作曲與合唱外，該MV男主角也邀男演員[曹晏豪](../Page/曹晏豪.md "wikilink")參與演出。\[2\]第二波主打歌為《繞》展現自己最真實的一面。\[3\]第三波主打歌為《下一個未來》。\[4\]
 
-2017年6月24日[Erika憑藉個人首張音樂專輯](https://zh.wikipedia.org/wiki/劉艾立 "wikilink")《[I
-Am
-Erika](../Page/I_Am_Erika.md "wikilink")》入圍[第28屆金曲獎](https://zh.wikipedia.org/wiki/第28屆金曲獎 "wikilink")「最佳新人獎」。\[5\]
+2017年6月24日[Erika憑藉個人首張音樂專輯](https://zh.wikipedia.org/wiki/劉艾立 "wikilink")《[I Am Erika](../Page/I_Am_Erika.md "wikilink")》入圍[第28屆金曲獎](https://zh.wikipedia.org/wiki/第28屆金曲獎 "wikilink")「最佳新人獎」。\[5\]
 
 ## 曲目
 
@@ -118,14 +115,9 @@ Erika](../Page/I_Am_Erika.md "wikilink")》入圍[第28屆金曲獎](https://zh.
 
 ## 獎項紀錄
 
-  - 2017年：第5屆[音悅V榜年度盛典](https://zh.wikipedia.org/wiki/音悅V榜年度盛典 "wikilink")
-    - 最佳新人﹙港台﹚
-  - 2017年：2017
-    [HITO流行音樂獎](https://zh.wikipedia.org/wiki/HITO流行音樂獎 "wikilink")
-    - Hito聲猛演繹新人
-  - 2017年：〔入圍
-    [第28屆金曲獎](https://zh.wikipedia.org/wiki/第28屆金曲獎 "wikilink")
-    - 最佳新人獎〕
+  - 2017年：第5屆[音悅V榜年度盛典](https://zh.wikipedia.org/wiki/音悅V榜年度盛典 "wikilink") - 最佳新人﹙港台﹚
+  - 2017年：2017 [HITO流行音樂獎](https://zh.wikipedia.org/wiki/HITO流行音樂獎 "wikilink") - Hito聲猛演繹新人
+  - 2017年：〔入圍 [第28屆金曲獎](https://zh.wikipedia.org/wiki/第28屆金曲獎 "wikilink") - 最佳新人獎〕
 
 ## 參考資料
 
@@ -133,11 +125,7 @@ Erika](../Page/I_Am_Erika.md "wikilink")》入圍[第28屆金曲獎](https://zh.
 
   - [華納音樂-華語音樂專輯](https://store.warnermusic.com.tw/store/item/4869?highlight=I%20Am%20Erika)
 
-[Category:Erika音樂專輯](https://zh.wikipedia.org/wiki/Category:Erika音樂專輯 "wikilink")
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:中文音樂專輯](https://zh.wikipedia.org/wiki/Category:中文音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:華納唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:華納唱片音樂專輯 "wikilink")
+[Category:Erika音樂專輯](https://zh.wikipedia.org/wiki/Category:Erika音樂專輯 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:中文音樂專輯](https://zh.wikipedia.org/wiki/Category:中文音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:華納唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:華納唱片音樂專輯 "wikilink")
 
 1.
 2.

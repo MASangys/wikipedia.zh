@@ -1,4 +1,4 @@
-**SmartWings**是一家[捷克的](../Page/捷克.md "wikilink")[低成本航空公司](../Page/低成本航空公司.md "wikilink")，其母公司為，總部位於[布拉格](../Page/布拉格.md "wikilink")，成立於2004年，以[布拉格瓦茨拉夫·哈維爾國際機場為樞紐機場](https://zh.wikipedia.org/wiki/布拉格瓦茨拉夫·哈維爾國際機場 "wikilink")。主要經營[歐洲國際航班](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。
+**SmartWings**是一家[捷克](../Page/捷克.md "wikilink")的[低成本航空公司](../Page/低成本航空公司.md "wikilink")，其母公司為，總部位於[布拉格](../Page/布拉格.md "wikilink")，成立於2004年，以[布拉格瓦茨拉夫·哈維爾國際機場為樞紐機場](https://zh.wikipedia.org/wiki/布拉格瓦茨拉夫·哈維爾國際機場 "wikilink")。主要經營[歐洲國際航班](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。
 
 ## 機隊
 
@@ -21,6 +21,4 @@
 
   - [智能翼航空官網](http://www.smartwings.com/)
 
-[Category:捷克航空公司](https://zh.wikipedia.org/wiki/Category:捷克航空公司 "wikilink")
-[Category:2004年成立的航空公司](https://zh.wikipedia.org/wiki/Category:2004年成立的航空公司 "wikilink")
-[Category:低成本航空公司](https://zh.wikipedia.org/wiki/Category:低成本航空公司 "wikilink")
+[Category:捷克航空公司](https://zh.wikipedia.org/wiki/Category:捷克航空公司 "wikilink") [Category:2004年成立的航空公司](https://zh.wikipedia.org/wiki/Category:2004年成立的航空公司 "wikilink") [Category:低成本航空公司](https://zh.wikipedia.org/wiki/Category:低成本航空公司 "wikilink")

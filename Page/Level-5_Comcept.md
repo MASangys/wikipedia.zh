@@ -1,5 +1,4 @@
-**Level-5
-Comcept**（前称**Comcept**）是日本一家电子游戏开发公司，由日本著名游戏制作人[稻船敬二在其离开老东家](../Page/稻船敬二.md "wikilink")[卡普空后于](../Page/卡普空.md "wikilink")2010年12月成立。公司不同于大部分游戏开发公司可以独立完成游戏的开发，Comcept绝大多数作品都需要与其他的游戏开发组合作开发。2017年6月，公司被日本游戏公司[Level-5收购](https://zh.wikipedia.org/wiki/Level-5 "wikilink")，并更名为现名称。\[1\]
+**Level-5 Comcept**（前称**Comcept**）是日本一家电子游戏开发公司，由日本著名游戏制作人[稻船敬二](../Page/稻船敬二.md "wikilink")在其离开老东家[卡普空](../Page/卡普空.md "wikilink")后于2010年12月成立。公司不同于大部分游戏开发公司可以独立完成游戏的开发，Comcept绝大多数作品都需要与其他的游戏开发组合作开发。2017年6月，公司被日本游戏公司[Level-5收购](https://zh.wikipedia.org/wiki/Level-5 "wikilink")，并更名为现名称。\[1\]
 
 ## 公司作品
 
@@ -86,7 +85,7 @@ Mighty No. 9</p></td>
 PlayStation 3、PlayStation 4、<br />
 Wii U、Xbox 360、Xbox One、<br />
 任天堂3DS、PlayStation Vita</p></td>
-<td><p>来自<a href="../Page/Kickstarter.md" title="wikilink">Kickstarter的众筹计划</a></p></td>
+<td><p>来自<a href="../Page/Kickstarter.md" title="wikilink">Kickstarter</a>的众筹计划</p></td>
 </tr>
 <tr class="odd">
 <td><p>核心重铸<br />
@@ -153,12 +152,7 @@ Dragons &amp; Colonies</p></td>
   -
   - [Comcept时期官方网站](http://comcept.co.jp/)
 
-[Category:2010年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2010年開業電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink")
+[Category:2010年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2010年開業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink")
 
-1.  [Keiji Inafune’s Company Comcept Becomes Subsidiary of Level-5,
-    Working On New Mobile
-    RPG](http://www.siliconera.com/2017/06/13/keiji-inafunes-company-comcept-becomes-subsidiary-level-5-working-new-mobile-rpg/).siliconera.2017-06-13.\[2017-06-16\].
+1.  [Keiji Inafune’s Company Comcept Becomes Subsidiary of Level-5, Working On New Mobile RPG](http://www.siliconera.com/2017/06/13/keiji-inafunes-company-comcept-becomes-subsidiary-level-5-working-new-mobile-rpg/).siliconera.2017-06-13.\[2017-06-16\].
 2.  [3DS『海王』開発中止に](https://www.inside-games.jp/article/2015/03/13/85874.html).Inside-Games.2015-03-13.\[2017-06-16\].

@@ -155,6 +155,4 @@
 
 <references />
 
-[Category:苹果操作系统](https://zh.wikipedia.org/wiki/Category:苹果操作系统 "wikilink")
-[Category:智能手表](https://zh.wikipedia.org/wiki/Category:智能手表 "wikilink")
-[Category:2015年面世的產品](https://zh.wikipedia.org/wiki/Category:2015年面世的產品 "wikilink")
+[Category:苹果操作系统](https://zh.wikipedia.org/wiki/Category:苹果操作系统 "wikilink") [Category:智能手表](https://zh.wikipedia.org/wiki/Category:智能手表 "wikilink") [Category:2015年面世的產品](https://zh.wikipedia.org/wiki/Category:2015年面世的產品 "wikilink")

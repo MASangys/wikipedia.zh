@@ -1,5 +1,4 @@
-是由softhouse-seal
-GRANDEE在2012年10月26日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，絕對系列的第四部作品，以「[歐派](https://zh.wikipedia.org/wiki/歐派 "wikilink")」為主題。\[2\]後來改編成漫畫和小說。\[3\]
+是由softhouse-seal GRANDEE在2012年10月26日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，絕對系列的第四部作品，以「[歐派](https://zh.wikipedia.org/wiki/歐派 "wikilink")」為主題。\[2\]後來改編成漫畫和小說。\[3\]
 
 ## 故事
 
@@ -23,10 +22,10 @@ GRANDEE在2012年10月26日發售的[戀愛冒險類型](https://zh.wikipedia.or
     並乳族的黑髮赤瞳劍士，ハルト的妹妹，由於經常四處解救淪為奴隸的同胞而被兩國通緝並取名「灼眼烏鴉」（）。
   - ニコ（聲優：片倉ひな）
     身高：147cm，三圍：B90（F）/W53/H77，生日：12月6日
-    住在森林的貧乳族少女，從小被巨大的白色[狐狼養育](https://zh.wikipedia.org/wiki/狐狼 "wikilink")，擁有[獸耳和尾巴](../Page/獸耳.md "wikilink")。
+    住在森林的貧乳族少女，從小被巨大的白色[狐狼養育](https://zh.wikipedia.org/wiki/狐狼 "wikilink")，擁有[獸耳](../Page/獸耳.md "wikilink")和尾巴。
   - ショコラ・コレーション（聲優：佐藤遼佳）
     身高：152cm，三圍：B74（B）/W54/H74，生日：2月14日
-    イリス的[中二病女僕](../Page/中二病.md "wikilink")，自稱是魔法使「」。
+    イリス的[中二病](../Page/中二病.md "wikilink")女僕，自稱是魔法使「」。
   - アリア・アリアリア（聲優：このえゆずこ）
     身高：150cm，三圍：B73（A）/W53/H73，生日：6月8日
     貧乳族的巫女，與ニコ同住在森林的妖精少女，實際年齡已超過1000歲。
@@ -56,17 +55,10 @@ GRANDEE在2012年10月26日發售的[戀愛冒險類型](https://zh.wikipedia.or
 
 ## 外部連結
 
-  - [官方網站](http://softhouse-seal.com/product/g-004/index.html)softhouse-seal
-    GRANDEE
+  - [官方網站](http://softhouse-seal.com/product/g-004/index.html)softhouse-seal GRANDEE
   - [漫畫介紹頁](http://www.techgian.jp/official/comic/saikyo.html)COMIC GIAN
 
-[Category:2012年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2012年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
-[Category:BDPG](https://zh.wikipedia.org/wiki/Category:BDPG "wikilink")
-[Category:奇幻電子遊戲](https://zh.wikipedia.org/wiki/Category:奇幻電子遊戲 "wikilink")
+[Category:2012年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2012年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:BDPG](https://zh.wikipedia.org/wiki/Category:BDPG "wikilink") [Category:奇幻電子遊戲](https://zh.wikipedia.org/wiki/Category:奇幻電子遊戲 "wikilink")
 
 1.
 2.

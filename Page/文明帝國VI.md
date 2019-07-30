@@ -1,21 +1,14 @@
-是由[Firaxis
-Games开发的](../Page/Firaxis_Games.md "wikilink")[回合策略游戏](https://zh.wikipedia.org/wiki/回合策略游戏 "wikilink")，是[文明系列的最新作品](../Page/文明系列.md "wikilink")，同时是庆祝该系列25周年的作品\[1\]。游戏对应[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac
-OS
-X及](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux平台](../Page/Linux.md "wikilink")，于2016年10月21日在全球发行。2017年12月21日登陆[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")（最初只支持iPad，2018年10月6日开始支持iPhone）；2018年11月16日登陆[任天堂Switch](../Page/任天堂Switch.md "wikilink")\[2\]。
+是由[Firaxis Games开发的](../Page/Firaxis_Games.md "wikilink")[回合策略游戏](https://zh.wikipedia.org/wiki/回合策略游戏 "wikilink")，是[文明系列](../Page/文明系列.md "wikilink")的最新作品，同时是庆祝该系列25周年的作品\[1\]。游戏对应[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac OS X及](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux](../Page/Linux.md "wikilink")平台，于2016年10月21日在全球发行。2017年12月21日登陆[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")（最初只支持iPad，2018年10月6日开始支持iPhone）；2018年11月16日登陆[任天堂Switch](../Page/任天堂Switch.md "wikilink")\[2\]。
 
 ## 游戏概况
 
 与以往作品一样，《文明VI》让玩家在单人或多人模式中建立并发展自己的文明，甚至控制地球的命运。游戏的胜利条件基于数个基础，包括探索、扩大、利用和消灭。玩家建立城市、改善及扩张城市，并建立军事单位以探索和攻击敌对势力，同时管理文明的技术发展及对外关係。
 
-本作的玩法基本上与《文明V》相同，地图仍然使用着六角地图，但亦增加了部份新系统及功能。在本作中，玩家需要规划在城市控制范围内的各种地块上的「城区」，不同地块会为城区会提供不同的加成，但有一定的局限性\[3\]。例如，山地地形有助于观察星空，因此能为校园型城区提供特殊的加成，但同时森林或丛林地形又能供大学和研究室在生物群落内研究物种多样性以反映科学的进步，因此玩家需要仔细选择。此外，玩家可以选择攻击一个特定城区而非城市中心，从而影响城市的运作。但是，玩家能于城区中新增新战略以增加城市的防卫。例如在城区设置军事营地，当敌方队伍接近城市，他们除了遭受来自城市的攻击外，亦会被军事营地攻击，令他们可能需要转为攻击军事营地，再夺取城市\[4\]。首席设计师Ed
-Beach将这些变化视为一种有益的手段，将城市的建筑分散在不同地块上，就好像Jon
-Shafer（文明V的首席设计师）在《文明V》时分散单元格一样\[5\]。这些功能增添了模拟城市类游戏的城市管理要素，有助使玩家认为经营及管理城市是基于城市的地理位置，而非根据一个特定城市的改进路线基础\[6\]。
+本作的玩法基本上与《文明V》相同，地图仍然使用着六角地图，但亦增加了部份新系统及功能。在本作中，玩家需要规划在城市控制范围内的各种地块上的「城区」，不同地块会为城区会提供不同的加成，但有一定的局限性\[3\]。例如，山地地形有助于观察星空，因此能为校园型城区提供特殊的加成，但同时森林或丛林地形又能供大学和研究室在生物群落内研究物种多样性以反映科学的进步，因此玩家需要仔细选择。此外，玩家可以选择攻击一个特定城区而非城市中心，从而影响城市的运作。但是，玩家能于城区中新增新战略以增加城市的防卫。例如在城区设置军事营地，当敌方队伍接近城市，他们除了遭受来自城市的攻击外，亦会被军事营地攻击，令他们可能需要转为攻击军事营地，再夺取城市\[4\]。首席设计师Ed Beach将这些变化视为一种有益的手段，将城市的建筑分散在不同地块上，就好像Jon Shafer（文明V的首席设计师）在《文明V》时分散单元格一样\[5\]。这些功能增添了模拟城市类游戏的城市管理要素，有助使玩家认为经营及管理城市是基于城市的地理位置，而非根据一个特定城市的改进路线基础\[6\]。
 
 为了减少在地图上出现拥挤，玩家将能够进行单元堆叠，但只能堆放类似单位或共生单位\[7\]。例如，战士支援拓荒者。类似的单位也可以结合在一起形成强大的「军团」单位\[8\]\[9\]。
 
-本作的科技树亦有作修改以加快技术的研究，从而协助玩家获得相应的资源或改良，例如，玩家想要研究石工术，其文明兴建采石场后可以加快科技的研究\[10\]。首席设计师Ed
-Beach指出这一变化是为了令玩家脱离自动地跟随科技树所提供的路线来研发科技\[11\]。
+本作的科技树亦有作修改以加快技术的研究，从而协助玩家获得相应的资源或改良，例如，玩家想要研究石工术，其文明兴建采石场后可以加快科技的研究\[10\]。首席设计师Ed Beach指出这一变化是为了令玩家脱离自动地跟随科技树所提供的路线来研发科技\[11\]。
 
 文明VI和它的數個前作一样，有“奇观误国”的讨论\[12\]。
 
@@ -289,7 +282,7 @@ Beach指出这一变化是为了令玩家脱离自动地跟随科技树所提供
 <td><p><a href="https://zh.wikipedia.org/wiki/塔瑪麗" title="wikilink">塔瑪麗</a></p></td>
 <td><p>世界、王國與信仰之榮光</p></td>
 <td><p><a href="../Page/團結就是力量_(格言).md" title="wikilink">團結就是力量</a></p></td>
-<td><p><a href="../Page/赫雷蘇維季.md" title="wikilink">赫雷蘇維季戰士</a></p></td>
+<td><p><a href="../Page/赫雷蘇維季.md" title="wikilink">赫雷蘇維季</a>戰士</p></td>
 <td><p>要塞</p></td>
 </tr>
 <tr class="even">
@@ -355,12 +348,12 @@ Beach指出这一变化是为了令玩家脱离自动地跟随科技树所提供
 | --------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | [匈牙利](../Page/匈牙利.md "wikilink")                    | [馬加什一世](https://zh.wikipedia.org/wiki/馬加什一世 "wikilink")           | 黑鴉王                                                   | [多瑙河明珠](https://zh.wikipedia.org/wiki/布達佩斯 "wikilink") | [驃騎兵](https://zh.wikipedia.org/wiki/驃騎兵 "wikilink")、[黑軍](../Page/匈牙利黑軍.md "wikilink")        | 溫泉浴場                                                         |
 | [毛利](../Page/毛利人.md "wikilink")                     | [庫佩](https://zh.wikipedia.org/wiki/庫佩 "wikilink")                 | 庫佩的遠行                                                 | 瑪那                                                     | 托阿戰士                                                                                         | 毛利會堂、帕堡                                                      |
-| [加拿大](../Page/加拿大.md "wikilink")                    | [威爾弗里德·勞雷爾](https://zh.wikipedia.org/wiki/威爾弗里德·勞雷爾 "wikilink")   | 最後的西方寶地                                               | 和平的四個面貌                                                | [騎警](../Page/皇家加拿大騎警.md "wikilink")                                                          | [冰球場](../Page/冰球.md "wikilink")                              |
+| [加拿大](../Page/加拿大.md "wikilink")                    | [威爾弗里德·勞雷爾](https://zh.wikipedia.org/wiki/威爾弗里德·勞雷爾 "wikilink")   | 最後的西方寶地                                               | 和平的四個面貌                                                | [騎警](../Page/皇家加拿大騎警.md "wikilink")                                                          | [冰球](../Page/冰球.md "wikilink")場                              |
 | [印加](https://zh.wikipedia.org/wiki/印加 "wikilink")   | [帕查庫特克](../Page/帕查庫特克.md "wikilink")                              | [印加路網](https://zh.wikipedia.org/wiki/印加路網 "wikilink") | 米塔                                                     | 瓦拉卡戰士                                                                                        | [梯田](../Page/梯田.md "wikilink")                               |
 | [馬利](https://zh.wikipedia.org/wiki/馬利 "wikilink")   | [曼薩·穆薩](https://zh.wikipedia.org/wiki/曼薩·穆薩 "wikilink")           | [薩赫爾商人](../Page/萨赫勒.md "wikilink")                    | 史官之歌                                                   | 曼德騎兵                                                                                         | 蘇古巴市場                                                        |
 | [瑞典](../Page/瑞典.md "wikilink")                      | [克里斯蒂娜](../Page/克里斯蒂娜女王.md "wikilink")                            | 愛書成癡                                                  | [諾貝爾獎](https://zh.wikipedia.org/wiki/諾貝爾獎 "wikilink")  | 凱洛琳陸軍                                                                                        | 生態博物館、女王圖書館                                                  |
 | [鄂圖曼](https://zh.wikipedia.org/wiki/鄂圖曼 "wikilink") | [蘇萊曼一世](https://zh.wikipedia.org/wiki/蘇萊曼一世 "wikilink")           | [大維齊爾](../Page/大維齊爾.md "wikilink")                    | 達達尼爾巨砲                                                 | [巴巴里海盜](https://zh.wikipedia.org/wiki/巴巴里海盜 "wikilink")、[土耳其禁衛軍](../Page/耶尼切里.md "wikilink") | [大巴札](https://zh.wikipedia.org/wiki/大巴扎_\(伊斯坦堡\) "wikilink") |
-| [腓尼基](../Page/腓尼基.md "wikilink")                    | [狄多](../Page/狄多.md "wikilink")                                    | [迦太基的建立者](../Page/迦太基.md "wikilink")                  | 地中海殖民地                                                 | [雙層槳座戰船](https://zh.wikipedia.org/wiki/雙層槳座戰船 "wikilink")                                    | [衛港](https://zh.wikipedia.org/wiki/衛城 "wikilink")            |
+| [腓尼基](../Page/腓尼基.md "wikilink")                    | [狄多](../Page/狄多.md "wikilink")                                    | [迦太基](../Page/迦太基.md "wikilink")的建立者                  | 地中海殖民地                                                 | [雙層槳座戰船](https://zh.wikipedia.org/wiki/雙層槳座戰船 "wikilink")                                    | [衛港](https://zh.wikipedia.org/wiki/衛城 "wikilink")            |
 | [法國](https://zh.wikipedia.org/wiki/法國 "wikilink")   | [亞奎丹的艾莉諾](https://zh.wikipedia.org/wiki/亞奎丹的艾莉諾 "wikilink")       | 愛情法庭                                                  | [壮游](https://zh.wikipedia.org/wiki/巡游 "wikilink")      | [皇帝近卫队](../Page/老近卫军.md "wikilink")                                                          | [法国城堡](../Page/法式城堡.md "wikilink")                           |
 | [英國](https://zh.wikipedia.org/wiki/英國 "wikilink")   | [亞奎丹的艾莉諾](https://zh.wikipedia.org/wiki/亞奎丹的艾莉諾 "wikilink")\[13\] | 愛情法庭                                                  | [世界的工坊](https://zh.wikipedia.org/wiki/工業革命 "wikilink") | [海狗](../Page/海盗.md "wikilink")、红衫军                                                           | [皇家海军船坞](../Page/英國皇家海軍.md "wikilink")                       |
 |                                                     |                                                                   |                                                       |                                                        |                                                                                              |                                                              |
@@ -371,19 +364,15 @@ Beach指出这一变化是为了令玩家脱离自动地跟随科技树所提供
 
 本作是由开发《文明V》资料片的Firaxis团队负责进行开发工作\[14\]。开发团队将更加强调游戏程序所生成的地图的重要性，及随着游戏的进行其会如何影响玩家的战略，因此没有一场游戏比赛是相同的\[15\]。
 
-本作採用了更易于修改的的新引擎\[16\]。游戏中的视觉效果是开发团队被探险时代的地图和工具所启发而制成的\[17\]。另外，战争迷雾将使用交叉影线的绘画风格以复制探险时代的旧地图并呈现在玩家眼前\[18\]。开发团队计划当玩家完成建造一个奇迹后会在游戏中呈现一段影片。此外，为了让奇迹的最后一个镜头给玩家更为深刻的印象，团队于游戏中开发了一个昼夜周期。虽然这个周期不会影响游戏的核心玩法，但美术总监Brian
-Busatti预计此项新功能可以通过不同的游戏模组来创造新的战术考虑\[19\]。
+本作採用了更易于修改的的新引擎\[16\]。游戏中的视觉效果是开发团队被探险时代的地图和工具所启发而制成的\[17\]。另外，战争迷雾将使用交叉影线的绘画风格以复制探险时代的旧地图并呈现在玩家眼前\[18\]。开发团队计划当玩家完成建造一个奇迹后会在游戏中呈现一段影片。此外，为了让奇迹的最后一个镜头给玩家更为深刻的印象，团队于游戏中开发了一个昼夜周期。虽然这个周期不会影响游戏的核心玩法，但美术总监Brian Busatti预计此项新功能可以通过不同的游戏模组来创造新的战术考虑\[19\]。
 
 相比过往的作品，本作采用了较为卡通化的外观，因为据Firaxis所说，在一些深层次的游戏内保持视觉效果简单能避免干扰游戏的复杂性\[20\]。另外，开发团队会将单位和建筑物的图形做得更好，令玩家即使把尺寸缩得很小也能够辨认清楚单位和建筑物\[21\]。这种必要的简单艺术风格能让玩家快速识别不同的单位和建筑，及在寻找城市时不必利用用户界面的工具栏\[22\]。
 
 ## 音乐
 
-《文明VI》中的主题曲名为"Sogno di Volare"
-(意译：飞行的梦想)，是一首由[田志仁为此游戏创作的歌曲](../Page/田志仁.md "wikilink")。此曲于2016年七月在英国伦敦首次演出\[23\]。《文明VI》中的原声音乐主要是由Geoff
-Knorr编曲及配乐，Roland Rizzo, Griffin Cohen及Phill Boucher亦参与部分创作\[24\]。
+《文明VI》中的主题曲名为"Sogno di Volare" (意译：飞行的梦想)，是一首由[田志仁](../Page/田志仁.md "wikilink")为此游戏创作的歌曲。此曲于2016年七月在英国伦敦首次演出\[23\]。《文明VI》中的原声音乐主要是由Geoff Knorr编曲及配乐，Roland Rizzo, Griffin Cohen及Phill Boucher亦参与部分创作\[24\]。
 
-每一个文明都有各自的主题曲，并且主题曲会随着文明的发展而改变。由远古时代相对简单的独奏或二重奏，到中古时代的三/四重奏，再到工业时代的管弦乐演奏，以及在管弦乐中加入现代元素的核子时代\[25\]。各文明所选的主题曲也是富有地方色彩的民歌，例如：中国的[茉莉花](../Page/茉莉花_\(民歌\).md "wikilink")，英国的[斯卡伯勒集市](../Page/斯卡伯勒集市_\(民歌\).md "wikilink")，美国的"Hard
-Times Come Again No More"，及印度的"Vaishhava Jana To"。
+每一个文明都有各自的主题曲，并且主题曲会随着文明的发展而改变。由远古时代相对简单的独奏或二重奏，到中古时代的三/四重奏，再到工业时代的管弦乐演奏，以及在管弦乐中加入现代元素的核子时代\[25\]。各文明所选的主题曲也是富有地方色彩的民歌，例如：中国的[茉莉花](../Page/茉莉花_\(民歌\).md "wikilink")，英国的[斯卡伯勒集市](../Page/斯卡伯勒集市_\(民歌\).md "wikilink")，美国的"Hard Times Come Again No More"，及印度的"Vaishhava Jana To"。
 
 ## 参考资料
 
@@ -392,17 +381,7 @@ Times Come Again No More"，及印度的"Vaishhava Jana To"。
   -
   - [Firaxis Games](http://www.firaxis.com/)
 
-[Category:文明系列电子游戏](https://zh.wikipedia.org/wiki/Category:文明系列电子游戏 "wikilink")
-[Category:2016年电子游戏](https://zh.wikipedia.org/wiki/Category:2016年电子游戏 "wikilink")
-[Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink")
-[Category:MacOS游戏](https://zh.wikipedia.org/wiki/Category:MacOS游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:IPad遊戲](https://zh.wikipedia.org/wiki/Category:IPad遊戲 "wikilink")
-[Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink")
-[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
+[Category:文明系列电子游戏](https://zh.wikipedia.org/wiki/Category:文明系列电子游戏 "wikilink") [Category:2016年电子游戏](https://zh.wikipedia.org/wiki/Category:2016年电子游戏 "wikilink") [Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink") [Category:MacOS游戏](https://zh.wikipedia.org/wiki/Category:MacOS游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:IPad遊戲](https://zh.wikipedia.org/wiki/Category:IPad遊戲 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
 1.
 
@@ -423,8 +402,7 @@ Times Come Again No More"，及印度的"Vaishhava Jana To"。
 10.
 
 11.
-12. [文明6中国造不造奇观
-    奇观误国讨论_安游在线](http://www.ahgame.com/wenming6/74873/)奇迹误国文明六的微博
+12. [文明6中国造不造奇观 奇观误国讨论_安游在线](http://www.ahgame.com/wenming6/74873/)奇迹误国文明六的微博
 
 13. 首次出現之雙文明領袖
 

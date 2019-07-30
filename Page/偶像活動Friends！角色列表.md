@@ -7,7 +7,7 @@
 
   -
     配音員：日：
-    7月20日出生，[巨蟹座](../Page/巨蟹座.md "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。
+    7月20日出生，[巨蟹座](../Page/巨蟹座.md "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/ABO血型系統 "wikilink")。
     動畫故事的故事主角。
     常用品牌：**Sugar Melody**。
     為專屬服裝品牌**Sugar Melody**的代表繆斯。
@@ -20,7 +20,7 @@
 
   -
     配音員：日：[木戶衣吹](../Page/木戶衣吹.md "wikilink")
-    1月6日出生，[魔羯座](https://zh.wikipedia.org/wiki/魔羯座 "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。
+    1月6日出生，[魔羯座](https://zh.wikipedia.org/wiki/魔羯座 "wikilink")，血型A型。
     動畫故事的故事主角。
     常用品牌：**MATERIAL COLOR**。
     為專屬服裝品牌**MATERIAL COLOR**的代表繆斯兼服裝設計師。
@@ -32,7 +32,7 @@
 
   -
     配音員：日：[美山加戀](../Page/美山加戀.md "wikilink")
-    8月8日出生，[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。
+    8月8日出生，[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，血型O型。
     常用品牌：**Dancing Mirage**。
     為專屬服裝品牌**Dancing Mirage**的代表繆斯。
     第1期時就讀中學二年級，星睦學園偶像科的學生。是個如成熟女性般大氣的神秘女孩。
@@ -42,7 +42,7 @@
 
   -
     配音員：日：
-    3月21日出生，[牡羊座](https://zh.wikipedia.org/wiki/牡羊座 "wikilink")，血型[B型](https://zh.wikipedia.org/wiki/B型 "wikilink")。
+    3月21日出生，[牡羊座](https://zh.wikipedia.org/wiki/牡羊座 "wikilink")，血型B型。
     常用品牌：**COLORFUL SHAKE**。
     為專屬服裝品牌**COLORFUL SHAKE**的代表繆斯。
     第1期時就讀中學三年級，星睦學園偶像科的學生。
@@ -53,7 +53,7 @@
 
   -
     配音員：日：[田所梓](../Page/田所梓.md "wikilink")
-    10月4日出生，[天秤座](../Page/天秤座.md "wikilink")，血型[B型](https://zh.wikipedia.org/wiki/B型 "wikilink")。
+    10月4日出生，[天秤座](../Page/天秤座.md "wikilink")，血型B型。
     街機6彈以中學生的時期登場。
     常用品牌：**Classical Ange**。
     為專屬服裝品牌**Classical Ange**的代表繆斯。
@@ -65,7 +65,7 @@
 
   -
     配音員：日：[大橋彩香](../Page/大橋彩香.md "wikilink")
-    5月9日出生，[金牛座](../Page/金牛座.md "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。
+    5月9日出生，[金牛座](../Page/金牛座.md "wikilink")，血型A型。
     街機6彈以中學生的時期登場。
     常用品牌：**Milky Joker**。
     為專屬服裝品牌**Milky Joker**的代表繆斯兼服裝設計師。
@@ -77,7 +77,7 @@
 
   -
     配音員：日：
-    6月9日出生，[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")，血型[AB型](https://zh.wikipedia.org/wiki/AB型 "wikilink")。
+    6月9日出生，[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")，血型AB型。
     街機3彈登場玩家。
     常用品牌：**Luna Witch**。
     為專屬服裝品牌**Luna Witch**的代表繆斯。
@@ -90,7 +90,7 @@
 
   -
     配音員：日：[桑原由氣](../Page/桑原由氣.md "wikilink")
-    6月9日出生，[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")，血型[AB型](https://zh.wikipedia.org/wiki/AB型 "wikilink")。
+    6月9日出生，[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")，血型AB型。
     街機4彈登場玩家。
     常用品牌：**Moon Maiden**。
     為專屬服裝品牌**Moon Maiden**的代表繆斯。
@@ -104,11 +104,12 @@
 
   -
     配音員：日：[日笠陽子](../Page/日笠陽子.md "wikilink")
-    5月25日出生，[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")，血型[B型](https://zh.wikipedia.org/wiki/B型 "wikilink")。
+    5月25日出生，[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")，血型B型。
     街機閃耀的寶石1彈登場玩家。
     常用品牌：**Heavenly Perfume**。
     突然在愛音面前出現的偶像活動藝人。
     充滿魅力，成熟而且具有風格的偶像，比任何人都帥氣。
+    擁有自己的秘書團隊「Lovely Friends」。
     和「Love Me Tear」的兩人同年，而且關係很好，和未來是對手關係。
     與艾麗西亞的Friends關係休止前為雙人組合「I Believe」的成員。
 
@@ -116,7 +117,7 @@
 
   -
     配音員：日：[大西沙織](../Page/大西沙織.md "wikilink")
-    2月23日出生，[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。
+    2月23日出生，[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")，血型A型。
     街機閃耀的寶石2彈登場玩家。
     常用品牌：**Glorious Snow**。
     曾經和響一組的偶像。
@@ -124,17 +125,7 @@
     索爾伯特王國的公主，和「Love Me Tear」的兩人同年。
     現在和響的Friends關係休止。突然消失的身影，其實有著巨大的秘密。
 
-### 其他人物
-
-  -
-    配音員：日：[逢來凜](https://zh.wikipedia.org/wiki/逢來凜 "wikilink")
-    9月3日出生，[處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。
-    第2期時就讀中學3年級。
-    目標要成為「Pure Palette」那樣的偶像，並在「未來的奇蹟試鏡」中被未來選中的孩子。
-    有著可愛的聲音和像海綿一樣的吸收力。
-    好奇心旺盛，對於新的事物都會表現出豐富的表情。
-
-#### BABY PIRATES（ベイビーパイレーツ）
+### BABY PIRATES（ベイビーパイレーツ）
 
   -
     配音員：日：[田中愛美](https://zh.wikipedia.org/wiki/田中愛美 "wikilink")
@@ -149,13 +140,24 @@
     街機5彈登場玩家。
     常用品牌：**Silky Ocean**。
 
+### 其他人物
+
+  -
+    配音員：日：
+    9月3日出生，[處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")，血型A型。
+    街機閃耀的寶石3彈登場玩家。
+    常用品牌：**Humming Leaf**。
+    第2期時就讀中學3年級。
+    目標要成為「Pure Palette」那樣的偶像，並在「未來的奇蹟試鏡」中被未來選中的孩子。
+    有著可愛的聲音和像海綿一樣的吸收力。
+    好奇心旺盛，對於新的事物都會表現出豐富的表情。
+
 ## 主角的相關人物
 
   -
     配音員：日：[諸星堇](../Page/諸星堇.md "wikilink")
     街機5彈登場玩家。
-    導覽系統「Aikatsu
-    Navi」的[AI](https://zh.wikipedia.org/wiki/AI "wikilink")，擔任協助偶像們活動的解說角色。充滿幹勁，感情豐富，偶爾會做出不同於平日的舉動。
+    導覽系統「Aikatsu Navi」的[AI](https://zh.wikipedia.org/wiki/AI "wikilink")，擔任協助偶像們活動的解說角色。充滿幹勁，感情豐富，偶爾會做出不同於平日的舉動。
 
 <!-- end list -->
 
@@ -284,7 +286,7 @@
 
   -
     配音員：日：[大原沙耶香](../Page/大原沙耶香.md "wikilink")
-    艾麗西亞的母親。索爾貝特王國的王后，在艾麗西亞留學日本時因病去世。
+    艾麗西亞的母親。索爾貝特王國的王后，在艾麗西亞留學日本期間因病去世。
 
 <!-- end list -->
 
@@ -298,6 +300,12 @@
     配音員：日：[齋賀光希](../Page/齋賀光希.md "wikilink")
     **Dancing Mirage**的服裝設計師。
 
+<!-- end list -->
+
+  -
+    配音員：日：[齋藤千和](https://zh.wikipedia.org/wiki/齋藤千和 "wikilink")、[矢作紗友里](../Page/矢作紗友里.md "wikilink")、[西田望見](../Page/西田望見.md "wikilink")
+    響的秘書團隊「Lovely Friends」的成員。
+
 ## 注釋
 
 ## 參考資料
@@ -305,6 +313,4 @@
   - [電視動畫《偶像活動Friends！》官網人物介紹](http://www.aikatsu.net/character/index.html)
   - [電視動畫《偶像活動Friends！》東京電視台官網人物介紹](https://www.tv-tokyo.co.jp/anime/aikatsufriends/chara/)
 
-[Category:Aikatsu！偶像活動！](https://zh.wikipedia.org/wiki/Category:Aikatsu！偶像活動！ "wikilink")
-[Category:電子遊戲角色列表](https://zh.wikipedia.org/wiki/Category:電子遊戲角色列表 "wikilink")
-[Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
+[Category:Aikatsu！偶像活動！](https://zh.wikipedia.org/wiki/Category:Aikatsu！偶像活動！ "wikilink") [Category:電子遊戲角色列表](https://zh.wikipedia.org/wiki/Category:電子遊戲角色列表 "wikilink") [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")

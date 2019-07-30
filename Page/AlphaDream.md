@@ -157,7 +157,4 @@ Mario &amp; Luigi: Superstar Saga + Bowser's Minions</p></td>
 ## 外部链接
 
   -
-[Category:2000年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2000年開業電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
+[Category:2000年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2000年開業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")

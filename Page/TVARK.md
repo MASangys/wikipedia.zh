@@ -2,8 +2,7 @@
 
 ## 历史
 
-TVARK网站成立于1998年，起初名为“Television
-Ark”。网站成立初期，由于[拨号上网网速限制](https://zh.wikipedia.org/wiki/拨号上网 "wikilink")，只能提供一些分辨率极低的视频片段。随着时间推移，网站提供的视频片段画质不断提升，运营人员也由成立初期的只有一人发展到拥有8人的团队。2005年12月，另外一个专门提供旧日英国[教育电视节目的网站](https://zh.wikipedia.org/wiki/远程教育 "wikilink")“SchoolsTV.com”并入TVARK\[3\]。
+TVARK网站成立于1998年，起初名为“Television Ark”。网站成立初期，由于[拨号上网网速限制](https://zh.wikipedia.org/wiki/拨号上网 "wikilink")，只能提供一些分辨率极低的视频片段。随着时间推移，网站提供的视频片段画质不断提升，运营人员也由成立初期的只有一人发展到拥有8人的团队。2005年12月，另外一个专门提供旧日英国[教育电视节目的网站](https://zh.wikipedia.org/wiki/远程教育 "wikilink")“SchoolsTV.com”并入TVARK\[3\]。
 
 2006年夏季，网站运营者宣布“休假”，网站暂时关闭，同年圣诞节恢复上线。2009年7月，网站弃用[RealMedia](https://zh.wikipedia.org/wiki/RealMedia "wikilink")，改以Flash提供视频流。
 
@@ -22,8 +21,7 @@ TVARK并没有其它[视频网站那种在线上传视频的功能](https://zh.w
   -
   -
   -
-[Category:视频网站](https://zh.wikipedia.org/wiki/Category:视频网站 "wikilink")
-[Category:数字图书馆](https://zh.wikipedia.org/wiki/Category:数字图书馆 "wikilink")
+[Category:视频网站](https://zh.wikipedia.org/wiki/Category:视频网站 "wikilink") [Category:数字图书馆](https://zh.wikipedia.org/wiki/Category:数字图书馆 "wikilink")
 
 1.
 2.

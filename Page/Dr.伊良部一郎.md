@@ -1,4 +1,4 @@
-《**Dr.伊良部一郎**》是[朝日電視台於](../Page/朝日電視台.md "wikilink")2011年1月30日至3月27日星期日晚間電視劇時段播出，由[德重聰主演](https://zh.wikipedia.org/wiki/德重聰 "wikilink")。
+《**Dr.伊良部一郎**》是[朝日電視台](../Page/朝日電視台.md "wikilink")於2011年1月30日至3月27日星期日晚間電視劇時段播出，由[德重聰主演](https://zh.wikipedia.org/wiki/德重聰 "wikilink")。
 
 ## 製作人員
 
@@ -11,8 +11,7 @@
 
 ## 角色
 
-  - **伊良部一郎** -
-    **[德重聰](https://zh.wikipedia.org/wiki/德重聰 "wikilink")**
+  - **伊良部一郎** - **[德重聰](https://zh.wikipedia.org/wiki/德重聰 "wikilink")**
     **真由美** - **[余貴美子](../Page/余貴美子.md "wikilink")**
     **伊良部茜** - **[原幹惠](../Page/原幹惠.md "wikilink")**
     **下柳康男** - **[野添義弘](https://zh.wikipedia.org/wiki/野添義弘 "wikilink")**
@@ -146,11 +145,4 @@
 
   - [朝日電視台官方網站](https://web.archive.org/web/20110130044335/http://www.tv-asahi.co.jp/irabu/)
 
-[Category:朝日電視台周末晚間連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台周末晚間連續劇 "wikilink")
-[Category:2011年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年開播的日本電視劇集 "wikilink")
-[Category:日本小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本小說改編電視劇 "wikilink")
-[Category:日本醫學劇](https://zh.wikipedia.org/wiki/Category:日本醫學劇 "wikilink")
-[Category:精神病題材電視劇](https://zh.wikipedia.org/wiki/Category:精神病題材電視劇 "wikilink")
-[Category:虛構醫生](https://zh.wikipedia.org/wiki/Category:虛構醫生 "wikilink")
-[Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink")
-[Category:奧田英朗](https://zh.wikipedia.org/wiki/Category:奧田英朗 "wikilink")
+[Category:朝日電視台周末晚間連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台周末晚間連續劇 "wikilink") [Category:2011年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年開播的日本電視劇集 "wikilink") [Category:日本小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本小說改編電視劇 "wikilink") [Category:日本醫學劇](https://zh.wikipedia.org/wiki/Category:日本醫學劇 "wikilink") [Category:精神病題材電視劇](https://zh.wikipedia.org/wiki/Category:精神病題材電視劇 "wikilink") [Category:虛構醫生](https://zh.wikipedia.org/wiki/Category:虛構醫生 "wikilink") [Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink") [Category:奧田英朗](https://zh.wikipedia.org/wiki/Category:奧田英朗 "wikilink")

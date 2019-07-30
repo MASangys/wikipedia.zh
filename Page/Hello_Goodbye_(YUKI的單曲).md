@@ -1,5 +1,4 @@
-\-{「}-**Hello
-Goodbye**-{」}-（）是[YUKI的第](../Page/YUKI_\(歌手\).md "wikilink")8张单曲。
+\-{「}-**Hello Goodbye**-{」}-（）是[YUKI的第](../Page/YUKI_\(歌手\).md "wikilink")8张单曲。
 
 ## 简介
 
@@ -17,8 +16,7 @@ Goodbye**-{」}-（）是[YUKI的第](../Page/YUKI_\(歌手\).md "wikilink")8张
 
 ## 收录专辑
 
-  - [joy](https://zh.wikipedia.org/wiki/joy_\(YUKI的专辑\) "wikilink")（\#1,
-    \#2）
+  - [joy](https://zh.wikipedia.org/wiki/joy_\(YUKI的专辑\) "wikilink")（\#1, \#2）
   - [five-star](https://zh.wikipedia.org/wiki/five-star_\(YUKI的专辑\) "wikilink")（\#1）
 
 ## 参考资料

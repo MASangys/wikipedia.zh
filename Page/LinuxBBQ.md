@@ -16,10 +16,8 @@ LinuxBBQ有基本版本、特殊版本和开发版本三种版本。
 
 <references />
 
-[Category:Linux发行版](https://zh.wikipedia.org/wiki/Category:Linux发行版 "wikilink")
-[Category:Debian](https://zh.wikipedia.org/wiki/Category:Debian "wikilink")
+[Category:Linux发行版](https://zh.wikipedia.org/wiki/Category:Linux发行版 "wikilink") [Category:Debian](https://zh.wikipedia.org/wiki/Category:Debian "wikilink")
 
-1.  [LinuxBBQ](http://distrowatch.com/table.php?distribution=linuxbbq)
-    -Distrowatch
+1.  [LinuxBBQ](http://distrowatch.com/table.php?distribution=linuxbbq) -Distrowatch
 2.
 3.

@@ -1,5 +1,4 @@
-三星**Galaxy
-Core**是[三星電子生產的](../Page/三星電子.md "wikilink")[Android](../Page/Android.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。單[SIM卡型號在](https://zh.wikipedia.org/wiki/SIM "wikilink")2013年5月初公佈，在月尾發售；而單SIM卡版本在7月發售。單SIM卡型號並不在一些國家發售，另外雙卡模式已於2013年5月中下旬發布。\[1\]
+三星**Galaxy Core**是[三星電子](../Page/三星電子.md "wikilink")生產的[Android](../Page/Android.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。單[SIM卡型號在](https://zh.wikipedia.org/wiki/SIM "wikilink")2013年5月初公佈，在月尾發售；而單SIM卡版本在7月發售。單SIM卡型號並不在一些國家發售，另外雙卡模式已於2013年5月中下旬發布。\[1\]
 
 ## 參見
 
@@ -9,11 +8,7 @@ Core**是[三星電子生產的](../Page/三星電子.md "wikilink")[Android](..
 
 ## 型號
 
-此版本的Samsung Galaxy Core僅在某些歐洲國家/地區提供。它還與Galaxy Trend 3，Galaxy Star 2
-Plus或Galaxy Star
-Advance（SM-G350L和G350M）共享相同的型號代碼。某些型號具有300萬像素攝像頭，如SM-G350E，另見[Samsung
-Galaxy Core
-Prime](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Core_Prime "wikilink")，它是更新的版本，更新，規格更高。
+此版本的Samsung Galaxy Core僅在某些歐洲國家/地區提供。它還與Galaxy Trend 3，Galaxy Star 2 Plus或Galaxy Star Advance（SM-G350L和G350M）共享相同的型號代碼。某些型號具有300萬像素攝像頭，如SM-G350E，另見[Samsung Galaxy Core Prime](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Core_Prime "wikilink")，它是更新的版本，更新，規格更高。
 
 ### Galaxy Core Safe (SHW-M580D)
 
@@ -33,9 +28,7 @@ Prime](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Core_Prime "wikilink")，它
 
 #### Galaxy Style Duos (GT-I8262)
 
-雙SIM卡插槽
-[Rear_View_of_Samsung_Galaxy_Core..JPG](https://zh.wikipedia.org/wiki/File:Rear_View_of_Samsung_Galaxy_Core..JPG "fig:Rear_View_of_Samsung_Galaxy_Core..JPG")
-[S_Voice_of_Samsung_Galaxy_Core..JPG](https://zh.wikipedia.org/wiki/File:S_Voice_of_Samsung_Galaxy_Core..JPG "fig:S_Voice_of_Samsung_Galaxy_Core..JPG")
+雙SIM卡插槽 [Rear_View_of_Samsung_Galaxy_Core..JPG](https://zh.wikipedia.org/wiki/File:Rear_View_of_Samsung_Galaxy_Core..JPG "fig:Rear_View_of_Samsung_Galaxy_Core..JPG") [S_Voice_of_Samsung_Galaxy_Core..JPG](https://zh.wikipedia.org/wiki/File:S_Voice_of_Samsung_Galaxy_Core..JPG "fig:S_Voice_of_Samsung_Galaxy_Core..JPG")
 
 #### Galaxy Style Duos (GT-I8262D)
 
@@ -49,7 +42,6 @@ Prime](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Core_Prime "wikilink")，它
 
 ## 參考資料
 
-[Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink")
-[Category:2013年面世的手機](https://zh.wikipedia.org/wiki/Category:2013年面世的手機 "wikilink")
+[Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink") [Category:2013年面世的手機](https://zh.wikipedia.org/wiki/Category:2013年面世的手機 "wikilink")
 
 1.

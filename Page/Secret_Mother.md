@@ -1,5 +1,4 @@
-《**Secret
-Mother**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2018年5月12日起播出的[週末特別計劃連續劇](../Page/SBS週末特別計劃劇.md "wikilink")，由《[Wanted](../Page/Wanted.md "wikilink")》[朴容順導演執導與](../Page/朴容順.md "wikilink")《[神秘的新學生](../Page/神秘的新學生.md "wikilink")》黃藝真作家合作打造。此劇講述一位入學考試代理母親來到身負孩子死亡之謎的女人的家中後發生的故事。\[1\]\[2\]\[3\]
+《**Secret Mother**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2018年5月12日起播出的[週末特別計劃連續劇](../Page/SBS週末特別計劃劇.md "wikilink")，由《[Wanted](../Page/Wanted.md "wikilink")》[朴容順](../Page/朴容順.md "wikilink")導演執導與《[神秘的新學生](../Page/神秘的新學生.md "wikilink")》黃藝真作家合作打造。此劇講述一位入學考試代理母親來到身負孩子死亡之謎的女人的家中後發生的故事。\[1\]\[2\]\[3\]
 
 ## 演員陣容
 
@@ -415,19 +414,13 @@ Mother**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 
 **週六時段劇集**
 
-  - [MBC](../Page/文化廣播公司.md "wikilink")
-    [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：《[入贅丈夫吳作斗](https://zh.wikipedia.org/wiki/入贅丈夫吳作斗 "wikilink")》、《[離別已別離](../Page/離別已別離.md "wikilink")》
+  - [MBC](../Page/文化廣播公司.md "wikilink") [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：《[入贅丈夫吳作斗](https://zh.wikipedia.org/wiki/入贅丈夫吳作斗 "wikilink")》、《[離別已別離](../Page/離別已別離.md "wikilink")》
 
 **週末時段劇集**
 
-  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
-    [週末連續劇](../Page/KBS週末連續劇.md "wikilink")：《[一起生活吧](../Page/一起生活吧.md "wikilink")》
-  - [tvN](../Page/TVN.md "wikilink")
-    [週末連續劇](../Page/TvN週末連續劇.md "wikilink")：《[無法律師](https://zh.wikipedia.org/wiki/無法律師 "wikilink")》、《[陽光先生](../Page/陽光先生.md "wikilink")》
-  - [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")
-    [週末連續劇](https://zh.wikipedia.org/wiki/OCN週末連續劇 "wikilink")：《[Mistresses](../Page/Mistresses.md "wikilink")》、《[Life
-    on
-    Mars](https://zh.wikipedia.org/wiki/Life_on_Mars_\(韓國電視劇\) "wikilink")》
+  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") [週末連續劇](../Page/KBS週末連續劇.md "wikilink")：《[一起生活吧](../Page/一起生活吧.md "wikilink")》
+  - [tvN](../Page/TVN.md "wikilink") [週末連續劇](../Page/TvN週末連續劇.md "wikilink")：《[無法律師](https://zh.wikipedia.org/wiki/無法律師 "wikilink")》、《[陽光先生](../Page/陽光先生.md "wikilink")》
+  - [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") [週末連續劇](https://zh.wikipedia.org/wiki/OCN週末連續劇 "wikilink")：《[Mistresses](../Page/Mistresses.md "wikilink")》、《[Life on Mars](https://zh.wikipedia.org/wiki/Life_on_Mars_\(韓國電視劇\) "wikilink")》
 
 ## 參考資料
 
@@ -438,23 +431,14 @@ Mother**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 ## 外部連結
 
   - [韓國SBS官方網站](http://programs.sbs.co.kr/drama/secretmother)
-  - [Secret
-    Mother-DAUM](https://web.archive.org/web/20180608015850/http://movie.daum.net/tv/main?tvProgramId=82413)
+  - [Secret Mother-DAUM](https://web.archive.org/web/20180608015850/http://movie.daum.net/tv/main?tvProgramId=82413)
   - [Secret Mother-NAVER](http://m.entertain.naver.com/tvBrand/7713913)
-  - [Secret
-    Mother-BLOG](https://m.post.naver.com/my/series/detail.nhn?seriesNo=464067&memberNo=17330384)
+  - [Secret Mother-BLOG](https://m.post.naver.com/my/series/detail.nhn?seriesNo=464067&memberNo=17330384)
 
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:SBS週末特別計劃劇](https://zh.wikipedia.org/wiki/Category:SBS週末特別計劃劇 "wikilink")
-[Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink")
-[Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
+[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:SBS週末特別計劃劇](https://zh.wikipedia.org/wiki/Category:SBS週末特別計劃劇 "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink") [Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
 
-1.  [송윤아 측 "'시크릿 마더' 출연 제안…긍정 검토
-    중"(공식)](http://m.entertain.naver.com/read?oid=112&aid=0003008217)
-2.  [金素妍接到《Secret
-    Mother》出演邀約，睽違兩年有望回歸小螢幕](https://www.kpopn.com/2018/03/21/%E9%87%91%E7%B4%A0%E5%A6%8D%E6%8E%A5%E5%88%B0%E3%80%8Asecret-mother%E3%80%8B%E5%87%BA%E6%BC%94%E9%82%80%E7%B4%84%EF%BC%8C%E7%9D%BD%E9%81%95%E5%85%A9%E5%B9%B4%E6%9C%89%E6%9C%9B%E5%9B%9E%E6%AD%B8%E5%B0%8F%E8%9E%A2%E5%B9%95/)
-    ，Kpopn，2018-03-21
-3.  [金素妍接拍《Secret Mother》
-    新劇5月播出](http://remylovedrama3.blogspot.hk/2018/04/secret-mother-5.html)
+1.  [송윤아 측 "'시크릿 마더' 출연 제안…긍정 검토 중"(공식)](http://m.entertain.naver.com/read?oid=112&aid=0003008217)
+2.  [金素妍接到《Secret Mother》出演邀約，睽違兩年有望回歸小螢幕](https://www.kpopn.com/2018/03/21/%E9%87%91%E7%B4%A0%E5%A6%8D%E6%8E%A5%E5%88%B0%E3%80%8Asecret-mother%E3%80%8B%E5%87%BA%E6%BC%94%E9%82%80%E7%B4%84%EF%BC%8C%E7%9D%BD%E9%81%95%E5%85%A9%E5%B9%B4%E6%9C%89%E6%9C%9B%E5%9B%9E%E6%AD%B8%E5%B0%8F%E8%9E%A2%E5%B9%95/) ，Kpopn，2018-03-21
+3.  [金素妍接拍《Secret Mother》 新劇5月播出](http://remylovedrama3.blogspot.hk/2018/04/secret-mother-5.html)
 4.
 5.

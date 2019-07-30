@@ -1,13 +1,12 @@
-**ofo**是一家2014年创办于[中華人民共和國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[北京市的无桩停靠](../Page/北京市.md "wikilink")[共享单车公司](https://zh.wikipedia.org/wiki/共享单车 "wikilink")。
+**ofo**是一家2014年创办于[中華人民共和國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[北京市](../Page/北京市.md "wikilink")的无桩停靠[共享单车公司](https://zh.wikipedia.org/wiki/共享单车 "wikilink")。
 
 ## 历史
 
-[20180313-Bikes_Ofo_put_on_sidewalks_to_stop_people_walking.jpg](https://zh.wikipedia.org/wiki/File:20180313-Bikes_Ofo_put_on_sidewalks_to_stop_people_walking.jpg "fig:20180313-Bikes_Ofo_put_on_sidewalks_to_stop_people_walking.jpg")
-2014年，一位从[北京大學博士班退学的学生](https://zh.wikipedia.org/wiki/北京大學 "wikilink")[戴威与他的四位同学聯手创立一個名為ofo的学生项目](../Page/戴威.md "wikilink")，ofo的名称来源于一名骑手骑自行车时的形状\[1\]\[2\]\[3\]。他们曾一起研究過如何使用自行车骑行旅游，之後选择[共享单车作为](https://zh.wikipedia.org/wiki/共享自行車 "wikilink")[商业模型](https://zh.wikipedia.org/wiki/商业模型 "wikilink")\[4\]。
+[20180313-Bikes_Ofo_put_on_sidewalks_to_stop_people_walking.jpg](https://zh.wikipedia.org/wiki/File:20180313-Bikes_Ofo_put_on_sidewalks_to_stop_people_walking.jpg "fig:20180313-Bikes_Ofo_put_on_sidewalks_to_stop_people_walking.jpg") 2014年，一位从[北京大學博士班退学的学生](https://zh.wikipedia.org/wiki/北京大學 "wikilink")[戴威](../Page/戴威.md "wikilink")与他的四位同学聯手创立一個名為ofo的学生项目，ofo的名称来源于一名骑手骑自行车时的形状\[1\]\[2\]\[3\]。他们曾一起研究過如何使用自行车骑行旅游，之後选择[共享单车作为](https://zh.wikipedia.org/wiki/共享自行車 "wikilink")[商业模型](https://zh.wikipedia.org/wiki/商业模型 "wikilink")\[4\]。
 
 ofo最初只在大学校园里提供小范围的短途服务，不允许用户将车骑出校园。
 
-ofo于2015年6月在[北京正式发布](https://zh.wikipedia.org/wiki/北京 "wikilink")，在北大校友的支持下到当年10月便拥有20,000名用户和2,000部[自行车](https://zh.wikipedia.org/wiki/自行车 "wikilink")\[5\]。2016年，ofo将其业务拓展至中国的其他城市，其宣称截至年底时将投放超过85,000部自行车。2016年9月，公司从[小米和](../Page/小米.md "wikilink")[滴滴出行中筹集到超过](../Page/滴滴出行.md "wikilink")1.3亿美元的资金以帮助其扩展业务\[6\]。
+ofo于2015年6月在[北京正式发布](https://zh.wikipedia.org/wiki/北京 "wikilink")，在北大校友的支持下到当年10月便拥有20,000名用户和2,000部[自行车](https://zh.wikipedia.org/wiki/自行车 "wikilink")\[5\]。2016年，ofo将其业务拓展至中国的其他城市，其宣称截至年底时将投放超过85,000部自行车。2016年9月，公司从[小米](../Page/小米.md "wikilink")和[滴滴出行](../Page/滴滴出行.md "wikilink")中筹集到超过1.3亿美元的资金以帮助其扩展业务\[6\]。
 
 2016年11月，ofo开始将业务扩展到城市范围\[7\]。至2018年上半年ofo投放共享单车超过1000万辆，入驻全世界21个国家/地区的250余座城市，拥有逾2亿用户。\[8\]
 
@@ -27,11 +26,9 @@ ofo小黃車的5名創始人全為[中共黨員](https://zh.wikipedia.org/wiki/�
 
 2018年3月13日，ofo宣布完成E2-1轮共8.66亿美元融资。\[24\]
 
-2018年5月，ofo取消了20余城市的免[押金活动](https://zh.wikipedia.org/wiki/押金 "wikilink")。2018年6月15日全面取消信用免押金骑行\[25\]，消费者押金退还周期也一再延长
-\[26\]。
+2018年5月，ofo取消了20余城市的免[押金活动](https://zh.wikipedia.org/wiki/押金 "wikilink")。2018年6月15日全面取消信用免押金骑行\[25\]，消费者押金退还周期也一再延长 \[26\]。
 
-2018年下半年开始，ofo海外市场大幅缩水。7月撤出美國達拉斯。\[27\]
-8月31日ofo全面退出[西雅图市场](https://zh.wikipedia.org/wiki/西雅图 "wikilink")，并宣布将着手关停澳大利亚业务。此外据媒体报道，ofo还将从印度、以色列、中东、澳洲、德国、美国、西班牙、韩国等8个国家和地区撤出或暂停业务\[28\]。
+2018年下半年开始，ofo海外市场大幅缩水。7月撤出美國達拉斯。\[27\] 8月31日ofo全面退出[西雅图市场](https://zh.wikipedia.org/wiki/西雅图 "wikilink")，并宣布将着手关停澳大利亚业务。此外据媒体报道，ofo还将从印度、以色列、中东、澳洲、德国、美国、西班牙、韩国等8个国家和地区撤出或暂停业务\[28\]。
 
 2018年10月，ofo在進軍日本和歌山市後7個月後，宣布撤出和歌山市，標誌ofo完全撤出日本。\[29\]
 
@@ -41,8 +38,7 @@ ofo小黃車的5名創始人全為[中共黨員](https://zh.wikipedia.org/wiki/�
 
 2019年1月1日，ofo的银行账户被冻结\[39\]。
 
-1月8日上午，海外事業部總經理陳鈺瑄（Jeremy
-Chen）宣布解散海外部門，要求員工轉職或離職。據受影響員工透露，部門有約50多名員工，陳口頭提出三個遣散方案，包括調職至國內業務部門，直到這年的4、5月只發放一半薪水，屆時才會有賠償方案。公司公关部门回应查询表示属于正常业务调整\[40\]\[41\]。
+1月8日上午，海外事業部總經理陳鈺瑄（Jeremy Chen）宣布解散海外部門，要求員工轉職或離職。據受影響員工透露，部門有約50多名員工，陳口頭提出三個遣散方案，包括調職至國內業務部門，直到這年的4、5月只發放一半薪水，屆時才會有賠償方案。公司公关部门回应查询表示属于正常业务调整\[40\]\[41\]。
 
 6月17日，天津富士达向ofo追讨2.5亿元，但是根据法院文书显示，ofo已无可执行财产。\[42\]多名高管包含老闆[戴威](../Page/戴威.md "wikilink")、联合创始人杨品杰、总经理陈婧、代表人陈正江皆列入失信被執行人名單，俗稱老賴名單，禁止高消費與限制出境等，名下財產隨時發現隨時執行。\[43\]
 
@@ -73,22 +69,19 @@ Chen）宣布解散海外部門，要求員工轉職或離職。據受影響員�
 
 ## 争议
 
-[缩略图](https://zh.wikipedia.org/wiki/File:2017年11月8日北京东四环大成国际大厦前堵满人行道的共享单车.jpg "fig:缩略图")
-[缩略图](https://zh.wikipedia.org/wiki/File:2017年11月8日堆满北京四惠桥下十字路口人行道的Ofo黄车.jpg "fig:缩略图")
+[缩略图](https://zh.wikipedia.org/wiki/File:2017年11月8日北京东四环大成国际大厦前堵满人行道的共享单车.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:2017年11月8日堆满北京四惠桥下十字路口人行道的Ofo黄车.jpg "fig:缩略图")
 
 ### 堵塞人行道和盲道
 
 [20180311街角损坏的ofo单车.jpg](https://zh.wikipedia.org/wiki/File:20180311街角损坏的ofo单车.jpg "fig:20180311街角损坏的ofo单车.jpg")在获得了巨额投资之后，ofo的运营采用了车海战术，在多地加大了投放力度\[51\]。但由于管理未能跟进，且ofo自行车没有桩基或电子围栏限制，自行车过多挤占人行道、盲道等公共空间，随意停放的ofo单车给盲人以及需要靠轮椅行动的残疾人士带来巨大危险与困难，导致行人“找路难”，交通违规现象增加，引起了民众不满\[52\]和管理部门的重视。ofo在部分城市被清退\[53\]。\[54\]北京、上海、深圳、杭州等地相继出台《共享单车指导意见》，进一步限制其自行车尤其是机械锁自行车的投放。\[55\]\[56\]ofo之類共享单车被投放到大中城市后，城市交通违规现象增加，占用机动车道的现象比比皆是。斑马线上骑行、逆行和占用机动车道成为ofo等共享单车交通违法的“三宗罪”。
 
-由于ofo等共享单车的混乱停放造成不便，并且ofo的运营管理与车辆总数不相匹配\[57\]，而造成物业管理人员的额外负担。在其投放的城市，有部分市政设施、景区、机关单位和小区禁止共享单车进入大门。\[58\]
-\[59\]\[60\]\[61\]
+由于ofo等共享单车的混乱停放造成不便，并且ofo的运营管理与车辆总数不相匹配\[57\]，而造成物业管理人员的额外负担。在其投放的城市，有部分市政设施、景区、机关单位和小区禁止共享单车进入大门。\[58\] \[59\]\[60\]\[61\]
 
 ofo投入国外后，由于社会负面效应，而遭到一些国外城市社区反感，也有被许多城市清退\[62\] \[63\]\[64\]。
 
 ### 产生废弃车辆
 
-[A_shared_bicycle_in_the_grass.jpg](https://zh.wikipedia.org/wiki/File:A_shared_bicycle_in_the_grass.jpg "fig:A_shared_bicycle_in_the_grass.jpg")
-由于ofo单车的廉价性，以及早期的ofo自行车均采用固定密码的机械锁，易被破解和损坏且无法被监控到。这使得ofo的损坏、丢失率远高于其他品牌共享单车\[65\]。此外，“僵尸车”、“报废车”在城市街头随处可见。如何处置这些垃圾成山的“街头废钢”成为社会的一个新问题。\[66\]
+[A_shared_bicycle_in_the_grass.jpg](https://zh.wikipedia.org/wiki/File:A_shared_bicycle_in_the_grass.jpg "fig:A_shared_bicycle_in_the_grass.jpg") 由于ofo单车的廉价性，以及早期的ofo自行车均采用固定密码的机械锁，易被破解和损坏且无法被监控到。这使得ofo的损坏、丢失率远高于其他品牌共享单车\[65\]。此外，“僵尸车”、“报废车”在城市街头随处可见。如何处置这些垃圾成山的“街头废钢”成为社会的一个新问题。\[66\]
 
 由于ofo的高损坏率事实，“ofo”的读音又类似于英文Awful，坊间流传有“Awful”的绰号。\[67\]
 
@@ -127,10 +120,7 @@ ofo计费系统有时会对用户重复扣钱，或是车锁未开却收取费�
 ## 外部链接
 
   -
-[Category:公共自行車](https://zh.wikipedia.org/wiki/Category:公共自行車 "wikilink")
-[Category:总部在北京市的跨国公司](https://zh.wikipedia.org/wiki/Category:总部在北京市的跨国公司 "wikilink")
-[Category:2014年中國建立](https://zh.wikipedia.org/wiki/Category:2014年中國建立 "wikilink")
-[Category:2014年成立的公司](https://zh.wikipedia.org/wiki/Category:2014年成立的公司 "wikilink")
+[Category:公共自行車](https://zh.wikipedia.org/wiki/Category:公共自行車 "wikilink") [Category:总部在北京市的跨国公司](https://zh.wikipedia.org/wiki/Category:总部在北京市的跨国公司 "wikilink") [Category:2014年中國建立](https://zh.wikipedia.org/wiki/Category:2014年中國建立 "wikilink") [Category:2014年成立的公司](https://zh.wikipedia.org/wiki/Category:2014年成立的公司 "wikilink")
 
 1.
 
@@ -154,15 +144,11 @@ ofo计费系统有时会对用户重复扣钱，或是车锁未开却收取费�
 
 12. [2017中国共产党章程](http://www.xinhuanet.com//politics/19cpcnc/2017-10/28/c_1121870794_6.htm)
 
-13. [私企中共再出击
-    掌控决策人事权](https://www.voachinese.com/a/china-bike-sharing-company-ccp-20180627/4457971.html?utm_source=dlvr.it&utm_medium=twitter)
-    VOA 2018-06-28
+13. [私企中共再出击 掌控决策人事权](https://www.voachinese.com/a/china-bike-sharing-company-ccp-20180627/4457971.html?utm_source=dlvr.it&utm_medium=twitter) VOA 2018-06-28
 
-14. [共享经济注入红色基因—党旗飘扬“小黄车”](http://www.sohu.com/a/199073412_162522) 环球网
-    2017-10-20
+14. [共享经济注入红色基因—党旗飘扬“小黄车”](http://www.sohu.com/a/199073412_162522) 环球网 2017-10-20
 
-15. [中央组织部、全国党建研究会赴ofo小黄车调研企业党建工作](http://tech.china.com/article/20171114/2017111476634.html)
-     中国科技网  2017-11-14
+15. [中央组织部、全国党建研究会赴ofo小黄车调研企业党建工作](http://tech.china.com/article/20171114/2017111476634.html)  中国科技网  2017-11-14
 
 16.
 17.
@@ -173,13 +159,11 @@ ofo计费系统有时会对用户重复扣钱，或是车锁未开却收取费�
 
 20. [艾問官方頻道-專訪戴威](https://www.youtube.com/watch?v=TWr0Uc7nRbU)
 
-21. [【一线】ofo被曝订单较峰值跌六成
-    账户现金仅能支撑一个月](http://tech.qq.com/a/20180112/021448.htm).腾讯科技.\[2018-01-12\].
+21. [【一线】ofo被曝订单较峰值跌六成 账户现金仅能支撑一个月](http://tech.qq.com/a/20180112/021448.htm).腾讯科技.\[2018-01-12\].
 
 22. [关于腾讯科技《一线》栏目今日报道的回应​​​​](https://weibo.com/5122220173/FE2tm0XG2?from=page_1006065122220173_profile&wvr=6&mod=weibotime&type=comment#_rnd1516031451822).ofo小黄车官方微博.\[2017-01-12\].
 
-23. [ofo痛斥“资金紧张”是谣言
-    腾讯科技霸气回怼：证据充足](http://www.nbd.com.cn/articles/2018-01-12/1182462.html).每经网.\[2018-01-12\].
+23. [ofo痛斥“资金紧张”是谣言 腾讯科技霸气回怼：证据充足](http://www.nbd.com.cn/articles/2018-01-12/1182462.html).每经网.\[2018-01-12\].
 
 24.
 
@@ -189,8 +173,7 @@ ofo计费系统有时会对用户重复扣钱，或是车锁未开却收取费�
 
 27.
 
-28. [中國OFO共享單車公司退出德州達拉斯市場，數百台OFO自行車堆積在回收場](https://info.taiwantrade.com/biznews/%E4%B8%AD%E5%9C%8Bofo%E5%85%B1%E4%BA%AB%E5%96%AE%E8%BB%8A%E5%85%AC%E5%8F%B8%E9%80%80%E5%87%BA%E5%BE%B7%E5%B7%9E%E9%81%94%E6%8B%89%E6%96%AF%E5%B8%82%E5%A0%B4-%E6%95%B8%E7%99%BE%E5%8F%B0ofo%E8%87%AA%E8%A1%8C%E8%BB%8A%E5%A0%86%E7%A9%8D%E5%9C%A8%E5%9B%9E%E6%94%B6%E5%A0%B4-1520543.html?utm_source=newsletter-info&utm_medium=TT-mail&utm_campaign=newsletter-info-20180829-1792&utm_content=biznews-1520543)經濟部/臺灣經貿網
-    2018-08-28
+28. [中國OFO共享單車公司退出德州達拉斯市場，數百台OFO自行車堆積在回收場](https://info.taiwantrade.com/biznews/%E4%B8%AD%E5%9C%8Bofo%E5%85%B1%E4%BA%AB%E5%96%AE%E8%BB%8A%E5%85%AC%E5%8F%B8%E9%80%80%E5%87%BA%E5%BE%B7%E5%B7%9E%E9%81%94%E6%8B%89%E6%96%AF%E5%B8%82%E5%A0%B4-%E6%95%B8%E7%99%BE%E5%8F%B0ofo%E8%87%AA%E8%A1%8C%E8%BB%8A%E5%A0%86%E7%A9%8D%E5%9C%A8%E5%9B%9E%E6%94%B6%E5%A0%B4-1520543.html?utm_source=newsletter-info&utm_medium=TT-mail&utm_campaign=newsletter-info-20180829-1792&utm_content=biznews-1520543)經濟部/臺灣經貿網 2018-08-28
 
 29.
 
@@ -213,11 +196,9 @@ ofo计费系统有时会对用户重复扣钱，或是车锁未开却收取费�
 
 39.
 
-40. [海外部门解散，ofo回应称正常业务调整](http://www.sohu.com/a/287470746_485557) 动点科技
-    2019-01-08
+40. [海外部门解散，ofo回应称正常业务调整](http://www.sohu.com/a/287470746_485557) 动点科技 2019-01-08
 
-41. [ofo傳解散海外部門](https://www.chinatimes.com/realtimenews/20190108002678-260409)
-    中時電子報
+41. [ofo傳解散海外部門](https://www.chinatimes.com/realtimenews/20190108002678-260409) 中時電子報
 
 42.
 

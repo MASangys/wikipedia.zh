@@ -1,8 +1,8 @@
-《**花約**》為[Twins的](https://zh.wikipedia.org/wiki/Twins "wikilink")[廣東專輯](https://zh.wikipedia.org/wiki/廣東 "wikilink")，於2017年6月22日在[香港發行](../Page/香港.md "wikilink")。此专辑為Twins固定班底，[伍樂城](../Page/伍樂城.md "wikilink")、[黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")、[李敏合力訂做](https://zh.wikipedia.org/wiki/李敏_\(香港\) "wikilink")。\[1\]
+《**花約**》為[Twins的](https://zh.wikipedia.org/wiki/Twins "wikilink")[廣東專輯](https://zh.wikipedia.org/wiki/廣東 "wikilink")，於2017年6月22日在[香港](../Page/香港.md "wikilink")發行。此专辑為Twins固定班底，[伍樂城](../Page/伍樂城.md "wikilink")、[黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")、[李敏合力訂做](https://zh.wikipedia.org/wiki/李敏_\(香港\) "wikilink")。\[1\]
 
 ## 大碟介紹
 
-Twins出道16周年！新歌「有約」是借一個約定的經歷，同時代表了[蔡卓妍和](../Page/蔡卓妍.md "wikilink")[鍾欣潼一同攜手走過](../Page/鍾欣潼.md "wikilink")16年的姐妹情誼。《花約》還收錄了接力情歌「失約」以及「朋友以上」、「不愛之恩」等
+Twins出道16周年！新歌「有約」是借一個約定的經歷，同時代表了[蔡卓妍](../Page/蔡卓妍.md "wikilink")和[鍾欣潼](../Page/鍾欣潼.md "wikilink")一同攜手走過16年的姐妹情誼。《花約》還收錄了接力情歌「失約」以及「朋友以上」、「不愛之恩」等
 
 ## 曲目
 
@@ -15,10 +15,8 @@ Twins出道16周年！新歌「有約」是借一個約定的經歷，同時代�
 
 ## 曲目資料
 
-  - 《 [不愛之恩](../Page/不愛之恩_\(Twins單曲\).md "wikilink")
-    》為[香港電影](../Page/香港.md "wikilink")[原諒他77次插曲](https://zh.wikipedia.org/wiki/原諒他77次 "wikilink")。單曲於2016年7月14日於[iTunes上架](https://zh.wikipedia.org/wiki/iTunes "wikilink")
-  - 《 [有約](../Page/有約_\(Twins單曲\).md "wikilink")
-    》單曲於2017年4月6日於[iTunes上架](https://zh.wikipedia.org/wiki/iTunes "wikilink")
+  - 《 [不愛之恩](../Page/不愛之恩_\(Twins單曲\).md "wikilink") 》為[香港](../Page/香港.md "wikilink")電影[原諒他77次插曲](https://zh.wikipedia.org/wiki/原諒他77次 "wikilink")。單曲於2016年7月14日於[iTunes上架](https://zh.wikipedia.org/wiki/iTunes "wikilink")
+  - 《 [有約](../Page/有約_\(Twins單曲\).md "wikilink") 》單曲於2017年4月6日於[iTunes上架](https://zh.wikipedia.org/wiki/iTunes "wikilink")
 
 ## 音樂錄影帶
 
@@ -85,10 +83,6 @@ Twins出道16周年！新歌「有約」是借一個約定的經歷，同時代�
 
 ## 参考文献
 
-[Category:Twins音樂專輯](https://zh.wikipedia.org/wiki/Category:Twins音樂專輯 "wikilink")
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:英皇娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:英皇娛樂音樂專輯 "wikilink")
+[Category:Twins音樂專輯](https://zh.wikipedia.org/wiki/Category:Twins音樂專輯 "wikilink") [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:英皇娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:英皇娛樂音樂專輯 "wikilink")
 
 1.  [Twins花開有約時花落失約時6/22發行](http://skymusic.com.hk/?p=70105)

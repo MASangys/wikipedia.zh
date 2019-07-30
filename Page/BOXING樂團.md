@@ -1,15 +1,12 @@
-**BOXING**（**拳**）是台灣首支[原住民拉丁饒舌樂團](../Page/原住民.md "wikilink")，以拉丁、搖滾、嘻哈、融合風格為主。六位成員是由[屏東](https://zh.wikipedia.org/wiki/屏東 "wikilink")[排灣族的](../Page/排灣族.md "wikilink")3對兄弟組成，具有拳擊選手的背景。原名「SE樂團」，2010年正式成軍以來多在各大音樂節場合演出。2012年在歌手[張惠妹的賞識發掘之下](../Page/張惠妹.md "wikilink")，成為AMeiZING世界巡迴演唱會唯一九場的表演嘉賓樂團。2014年10月31日同步發行[排灣語專輯](../Page/排灣語.md "wikilink")《野生Boxing》和中文專輯《Boxing》，並以《野生Boxing》專輯入圍[第26屆金曲獎最佳新人獎](https://zh.wikipedia.org/wiki/第26屆金曲獎 "wikilink")、最佳樂團獎、最佳原住民語歌手獎及最佳原住民語專輯獎，最後獲得最佳新人獎。\[1\]
+**BOXING**（**拳**）是台灣首支[原住民](../Page/原住民.md "wikilink")拉丁饒舌樂團，以拉丁、搖滾、嘻哈、融合風格為主。六位成員是由[屏東](https://zh.wikipedia.org/wiki/屏東 "wikilink")[排灣族](../Page/排灣族.md "wikilink")的3對兄弟組成，具有拳擊選手的背景。原名「SE樂團」，2010年正式成軍以來多在各大音樂節場合演出。2012年在歌手[張惠妹](../Page/張惠妹.md "wikilink")的賞識發掘之下，成為AMeiZING世界巡迴演唱會唯一九場的表演嘉賓樂團。2014年10月31日同步發行[排灣語](../Page/排灣語.md "wikilink")專輯《野生Boxing》和中文專輯《Boxing》，並以《野生Boxing》專輯入圍[第26屆金曲獎最佳新人獎](https://zh.wikipedia.org/wiki/第26屆金曲獎 "wikilink")、最佳樂團獎、最佳原住民語歌手獎及最佳原住民語專輯獎，最後獲得最佳新人獎。\[1\]
 
 2016年3月18日上映的電影《[只要我長大](https://zh.wikipedia.org/wiki/只要我長大_\(電影\) "wikilink")》中，鼓手曉龍飾演男配角杜曉龍，並獲得第18屆台北電影獎最佳新演員獎。其餘樂團成員也參與電影客串演出，這是他們的首部電影作品。\[2\]
 
 ### 軼事
 
-  - 2007年 -
-    主唱好樂迪在[陸軍神龍小組上士服役期間](https://zh.wikipedia.org/wiki/台灣陸軍 "wikilink")，與其他九位隊員在國人面前表演過高難度動作的花式跳傘。
-  - 2008年 -
-    鼓手曉龍和高喬中參與《[第四屆超級星光大道](../Page/超級星光大道_\(第四屆\).md "wikilink")》一對一踢館賽，以[Soler](../Page/Soler.md "wikilink")<陌生人>(14分)一曲對戰[張心傑演唱](../Page/張心傑.md "wikilink")[張信哲](../Page/張信哲.md "wikilink")<別怕我傷心>(17分)。
-  - 2010年 -
-    Bass手洛克斯以國手身份前往[泰國參加泰拳比賽](https://zh.wikipedia.org/wiki/泰國 "wikilink")，贏得佳績。
+  - 2007年 - 主唱好樂迪在[陸軍神龍小組上士服役期間](https://zh.wikipedia.org/wiki/台灣陸軍 "wikilink")，與其他九位隊員在國人面前表演過高難度動作的花式跳傘。
+  - 2008年 - 鼓手曉龍和高喬中參與《[第四屆超級星光大道](../Page/超級星光大道_\(第四屆\).md "wikilink")》一對一踢館賽，以[Soler](../Page/Soler.md "wikilink")<陌生人>(14分)一曲對戰[張心傑](../Page/張心傑.md "wikilink")演唱[張信哲](../Page/張信哲.md "wikilink")<別怕我傷心>(17分)。
+  - 2010年 - Bass手洛克斯以國手身份前往[泰國參加泰拳比賽](https://zh.wikipedia.org/wiki/泰國 "wikilink")，贏得佳績。
 
 ### 現任成員
 
@@ -153,13 +150,11 @@
   - 2010 行政院原創流行音樂大賽首獎(敗壞社會)現場表演獎
   - 2011 貢寮海洋音樂季-海洋大賞
   - 2011 墾丁春浪音樂節-春浪大賞亞軍
-  - 2015
-    [第26屆金曲獎最佳新人獎](https://zh.wikipedia.org/wiki/第26屆金曲獎 "wikilink")
+  - 2015 [第26屆金曲獎最佳新人獎](https://zh.wikipedia.org/wiki/第26屆金曲獎 "wikilink")
 
 ### 個人
 
-  - 2016 柯曉龍
-    第18屆[台北電影獎最佳新演員獎](https://zh.wikipedia.org/wiki/台北電影獎 "wikilink")
+  - 2016 柯曉龍 第18屆[台北電影獎最佳新演員獎](https://zh.wikipedia.org/wiki/台北電影獎 "wikilink")
 
 ## 參考資料
 
@@ -167,11 +162,7 @@
 
   - [Boxing（拳）](https://www.facebook.com/Boxing6/)
 
-[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
-[Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink")
-[Category:台灣搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣搖滾樂團 "wikilink")
-[Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink")
-[Category:台灣流行搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣流行搖滾樂團 "wikilink")
+[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink") [Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink") [Category:台灣搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣搖滾樂團 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:台灣流行搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣流行搖滾樂團 "wikilink")
 
 1.
 2.

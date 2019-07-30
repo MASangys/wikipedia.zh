@@ -1,5 +1,4 @@
-《The Best
-Day》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[DAY6所推出的第一張](../Page/DAY6.md "wikilink")[韓語精選專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，於2018年6月6日在日本發行，由[日本華納音樂發行](../Page/日本華納音樂.md "wikilink")。共收錄十七首曲目。
+《The Best Day》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[DAY6](../Page/DAY6.md "wikilink")所推出的第一張[韓語精選專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，於2018年6月6日在日本發行，由[日本華納音樂](../Page/日本華納音樂.md "wikilink")發行。共收錄十七首曲目。
 
 ## 背景
 
@@ -20,15 +19,13 @@ Day》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[D
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量 | 總銷量 | 停留時間 | 參考資料 |-| | 單曲週榜 | \#38 | 1,911 | / | 2週 | \[1\] |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量 | 總銷量 | 停留時間 | 參考資料 |-| | 單曲週榜 | \#38 | 1,911 | / | 2週 | \[1\] |
 | ---------------------------------------- | ---- | --- | --- | ---- | -------- | :--- | ---- | ----- | - | -- | ----- |
 
 ## 參考資料
 
 ### 引用來源
 
-[Category:DAY6音樂專輯](https://zh.wikipedia.org/wiki/Category:DAY6音樂專輯 "wikilink")
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:日本華納音樂音樂專輯](https://zh.wikipedia.org/wiki/Category:日本華納音樂音樂專輯 "wikilink")
+[Category:DAY6音樂專輯](https://zh.wikipedia.org/wiki/Category:DAY6音樂專輯 "wikilink") [Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:日本華納音樂音樂專輯](https://zh.wikipedia.org/wiki/Category:日本華納音樂音樂專輯 "wikilink")
 
 1.

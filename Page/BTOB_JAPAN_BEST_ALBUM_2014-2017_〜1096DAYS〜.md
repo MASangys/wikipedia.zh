@@ -1,6 +1,4 @@
-《**BTOB JAPAN BEST ALBUM 2014-2017
-〜1096DAYS〜**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB的首張日語精選輯](../Page/BTOB.md "wikilink")，收錄自2014年[日本出道以來的](../Page/日本.md "wikilink")1096天，從首張單曲《[WOW（JPN
-ver.）](../Page/WOW（JPN_ver.）.md "wikilink")》到2017年所發行之單曲、專輯中的精選歌曲。2018年2月28日於[日本發行](../Page/日本.md "wikilink")。\[1\]\[2\]
+《**BTOB JAPAN BEST ALBUM 2014-2017 〜1096DAYS〜**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的首張日語精選輯，收錄自2014年[日本](../Page/日本.md "wikilink")出道以來的1096天，從首張單曲《[WOW（JPN ver.）](../Page/WOW（JPN_ver.）.md "wikilink")》到2017年所發行之單曲、專輯中的精選歌曲。2018年2月28日於[日本](../Page/日本.md "wikilink")發行。\[1\]\[2\]
 
 ## 曲目
 
@@ -8,7 +6,7 @@ ver.）](../Page/WOW（JPN_ver.）.md "wikilink")》到2017年所發行之單曲
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置     | 銷售量 | 總銷量 | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置     | 銷售量 | 總銷量 | 停留時間 |
 | ---------------------------------------- | -------- | --- | --- | ---- |
 | 專輯週榜                                     | 45 \[3\] | －   | －   | 1週   |
 | 專輯月榜                                     | －        | －   |     |      |
@@ -43,15 +41,8 @@ KISS娛樂</p></td>
 
   -
 
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:BTOB音樂專輯](https://zh.wikipedia.org/wiki/Category:BTOB音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
+[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:BTOB音樂專輯](https://zh.wikipedia.org/wiki/Category:BTOB音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
 
-1.  [BTOB初の日本ベストアルバム「BTOB JAPAN BEST ALBUM 2014-2017
-    〜1096DAYS〜」発売決定！](https://btobofficial.jp/contents/158886)
-    2018-2-15
-2.  [BTOBの魅力溢れる至極の初BEST ALBUM『 BTOB JAPAN BEST ALBUM 2014-2017 〜1096DAYS
-    〜
-    』2018年 2月28日（水）発売決定\!\!](https://prtimes.jp/main/html/rd/p/000000167.000009426.html)
+1.  [BTOB初の日本ベストアルバム「BTOB JAPAN BEST ALBUM 2014-2017 〜1096DAYS〜」発売決定！](https://btobofficial.jp/contents/158886) 2018-2-15
+2.  [BTOBの魅力溢れる至極の初BEST ALBUM『 BTOB JAPAN BEST ALBUM 2014-2017 〜1096DAYS 〜 』2018年 2月28日（水）発売決定\!\!](https://prtimes.jp/main/html/rd/p/000000167.000009426.html)
 3.

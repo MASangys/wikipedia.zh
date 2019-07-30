@@ -1,12 +1,10 @@
-**Hit The
-Stage**（）是韓國[Mnet電視台的舞蹈競技綜藝節目](../Page/Mnet媒體.md "wikilink")，自2016年7月27日起，逢韓國時間星期三晚間11時開始播放，每集約60分鐘。主持人為[全炫茂和](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")[李秀根](https://zh.wikipedia.org/wiki/李秀根 "wikilink")。
+**Hit The Stage**（）是韓國[Mnet電視台的舞蹈競技綜藝節目](../Page/Mnet媒體.md "wikilink")，自2016年7月27日起，逢韓國時間星期三晚間11時開始播放，每集約60分鐘。主持人為[全炫茂和](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")[李秀根](https://zh.wikipedia.org/wiki/李秀根 "wikilink")。
 
 韓國的明星和偶像在節目中與專業的舞者搭檔，每兩集以一主題為核心挑戰各種不同的舞蹈，並由200名現場觀眾及數名藝人評審票選排名。\[1\]\[2\]
 
 ## 節目形式
 
-2016年6月24日，Mnet預告將拍攝名為《Hit The
-Stage》的舞蹈競技節目，首集將有8名明星參加，每集亦會加入新明星。參加的明星會伙拍專業的舞蹈員，根據不同舞蹈的主題進行比賽，舞蹈類型包括街舞、現代舞等。
+2016年6月24日，Mnet預告將拍攝名為《Hit The Stage》的舞蹈競技節目，首集將有8名明星參加，每集亦會加入新明星。參加的明星會伙拍專業的舞蹈員，根據不同舞蹈的主題進行比賽，舞蹈類型包括街舞、現代舞等。
 
 ## 參賽者
 
@@ -181,8 +179,7 @@ Stage》的舞蹈競技節目，首集將有8名明星參加，每集亦會加�
 ### Devil
 
   - 播出日期：2016年7月27日、8月3日
-  - 藝人評審團：<small>J
-    Black、[黃光熙](../Page/黃光熙.md "wikilink")（[ZE:A](../Page/ZE:A.md "wikilink")）、[朴娜萊](https://zh.wikipedia.org/wiki/朴娜萊_\(喜劇演員\) "wikilink")、[文熙俊](../Page/文熙俊.md "wikilink")、[金希珍](https://zh.wikipedia.org/wiki/金希珍 "wikilink")、[朴俊炯](../Page/朴俊炯.md "wikilink")（[g.o.d](https://zh.wikipedia.org/wiki/g.o.d "wikilink")）、[具俊曄](https://zh.wikipedia.org/wiki/具俊曄 "wikilink")（[酷龍](../Page/酷龍.md "wikilink")）、、[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[志效](https://zh.wikipedia.org/wiki/朴志效 "wikilink")、[彩瑛](../Page/彩瑛.md "wikilink")、[定延](../Page/定延.md "wikilink")、[娜璉](../Page/娜璉.md "wikilink")、[Sana](https://zh.wikipedia.org/wiki/湊崎紗夏 "wikilink")、[子瑜](../Page/周子瑜.md "wikilink")、[Mina](../Page/Mina_\(TWICE\).md "wikilink")、[多賢](../Page/多賢.md "wikilink")）</small>
+  - 藝人評審團：<small>J Black、[黃光熙](../Page/黃光熙.md "wikilink")（[ZE:A](../Page/ZE:A.md "wikilink")）、[朴娜萊](https://zh.wikipedia.org/wiki/朴娜萊_\(喜劇演員\) "wikilink")、[文熙俊](../Page/文熙俊.md "wikilink")、[金希珍](https://zh.wikipedia.org/wiki/金希珍 "wikilink")、[朴俊炯](../Page/朴俊炯.md "wikilink")（[g.o.d](https://zh.wikipedia.org/wiki/g.o.d "wikilink")）、[具俊曄](https://zh.wikipedia.org/wiki/具俊曄 "wikilink")（[酷龍](../Page/酷龍.md "wikilink")）、、[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[志效](https://zh.wikipedia.org/wiki/朴志效 "wikilink")、[彩瑛](../Page/彩瑛.md "wikilink")、[定延](../Page/定延.md "wikilink")、[娜璉](../Page/娜璉.md "wikilink")、[Sana](https://zh.wikipedia.org/wiki/湊崎紗夏 "wikilink")、[子瑜](../Page/周子瑜.md "wikilink")、[Mina](../Page/Mina_\(TWICE\).md "wikilink")、[多賢](../Page/多賢.md "wikilink")）</small>
 
 <table>
 <tbody>
@@ -303,8 +300,7 @@ Priest Kim Ver.) + Opening + Sabbath</p></td>
 ### This Love
 
   - 播出日期：2016年8月10日、8月17日
-  - 藝人評審團：<small>、、黃光熙（ZE:A）、朴娜萊、文熙俊、[李國主](../Page/李國主.md "wikilink")、朴俊炯（g.o.d）、具俊燁（酷龍）、裴允貞、J
-    Black</small>
+  - 藝人評審團：<small>、、黃光熙（ZE:A）、朴娜萊、文熙俊、[李國主](../Page/李國主.md "wikilink")、朴俊炯（g.o.d）、具俊燁（酷龍）、裴允貞、J Black</small>
 
 |    |                    |                                              |                                              |                |      |     |    |
 | -- | ------------------ | -------------------------------------------- | -------------------------------------------- | -------------- | ---- | --- | -- |
@@ -323,8 +319,7 @@ Priest Kim Ver.) + Opening + Sabbath</p></td>
 ### Uniform
 
   - 播出日期：2016年8月24日、8月31日
-  - 藝人評審團：<small>具俊燁（酷龍）、朴俊炯（g.o.d）、[朴娜勑](../Page/朴娜勑.md "wikilink")、[梁世炯](../Page/梁世炯.md "wikilink")、李國主、文熙俊、[金在德](../Page/金在德.md "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")）、裴允貞、[鄭珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")（[2AM](../Page/2AM.md "wikilink")）、J
-    Black
+  - 藝人評審團：<small>具俊燁（酷龍）、朴俊炯（g.o.d）、[朴娜勑](../Page/朴娜勑.md "wikilink")、[梁世炯](../Page/梁世炯.md "wikilink")、李國主、文熙俊、[金在德](../Page/金在德.md "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")）、裴允貞、[鄭珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")（[2AM](../Page/2AM.md "wikilink")）、J Black
 
 <table>
 <tbody>
@@ -445,8 +440,7 @@ Cuban Pete (Arkin Movie Mix)</p></td>
 ### Crazy
 
   - 播出日期：2016年9月7日、9月14日
-  - 藝人評審團：黃光熙（ZE:A）、朴娜萊、具俊燁（酷龍）、朴俊炯（g.o.d）、李國主、文熙俊、金在德（水晶男孩）、裴允貞、、J
-    Black
+  - 藝人評審團：黃光熙（ZE:A）、朴娜萊、具俊燁（酷龍）、朴俊炯（g.o.d）、李國主、文熙俊、金在德（水晶男孩）、裴允貞、、J Black
 
 <table>
 <tbody>
@@ -699,13 +693,10 @@ Turn down for what(dotcom's twerk remix)</p></td>
   - [官方網站](http://mnettv.interest.me/hitthestage/main)
 
   -
-  - [Hit The Stage](http://tvcast.naver.com/cjenm.hitthestage)的NAVER
-    tvcast專頁
+  - [Hit The Stage](http://tvcast.naver.com/cjenm.hitthestage)的NAVER tvcast專頁
 
   -
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
-[Category:韩国电视节目](https://zh.wikipedia.org/wiki/Category:韩国电视节目 "wikilink")
+[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink") [Category:韩国电视节目](https://zh.wikipedia.org/wiki/Category:韩国电视节目 "wikilink")
 
 1.
 2.

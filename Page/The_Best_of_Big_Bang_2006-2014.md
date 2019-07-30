@@ -1,17 +1,14 @@
-《**The Best of Big Bang
-2006-2014**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG的](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[日本](../Page/日本.md "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，由所屬經紀公司[YG娛樂與日本唱片公司](../Page/YG娛樂.md "wikilink")[AVEX共同創立的新公司](../Page/愛貝克思集團.md "wikilink")[YGEX製作發行](https://zh.wikipedia.org/wiki/YGEX "wikilink")，於2014年11月24日在日本推出。\[1\]
+《**The Best of Big Bang 2006-2014**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG的](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[日本](../Page/日本.md "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，由所屬經紀公司[YG娛樂](../Page/YG娛樂.md "wikilink")與日本唱片公司[AVEX共同創立的新公司](../Page/愛貝克思集團.md "wikilink")[YGEX製作發行](https://zh.wikipedia.org/wiki/YGEX "wikilink")，於2014年11月24日在日本推出。\[1\]
 
 ## 背景
 
-《The Best of Big Bang
-2006-2014》的推出是為了慶祝BIGBANG在日本出道五週年以及用來支持2013年至2014年於日本五大巨蛋舉行的「」巡迴演唱會所製作的紀念精選輯。
+《The Best of Big Bang 2006-2014》的推出是為了慶祝BIGBANG在日本出道五週年以及用來支持2013年至2014年於日本五大巨蛋舉行的「」巡迴演唱會所製作的紀念精選輯。
 
 ### 發行版本
 
 此專輯共分為兩種發行版本，一版本為3CD+2DVD，二版本為3CD。\[2\]
 
-  - 3CD+2DVD版（編號：AVCY-58270）：此版本含初回盤成員小卡（5款隨機1款封入）、特典明信片、三片收錄50首歌曲的CD與二片DVD，DVD共收錄32部全韓語音樂錄影帶及「a-nation
-    stadium fes. 2014」演出影像。
+  - 3CD+2DVD版（編號：AVCY-58270）：此版本含初回盤成員小卡（5款隨機1款封入）、特典明信片、三片收錄50首歌曲的CD與二片DVD，DVD共收錄32部全韓語音樂錄影帶及「a-nation stadium fes. 2014」演出影像。
 
 <!-- end list -->
 
@@ -19,8 +16,7 @@
 
 ## 發行成績
 
-《The Best of Big Bang
-2006-2014》在發行的第一天即售出了93,226張，並旋即登上[日本公信榜專輯排行榜日榜冠軍](https://zh.wikipedia.org/wiki/日本公信榜 "wikilink")\[3\]，一週後以12萬張的銷售量打破自身於2011年5月11日在日本發售的正規專輯《》的6萬5千張銷售紀錄並再次登上日本公信榜專輯排行榜週榜第一名的位置。\[4\]
+《The Best of Big Bang 2006-2014》在發行的第一天即售出了93,226張，並旋即登上[日本公信榜專輯排行榜日榜冠軍](https://zh.wikipedia.org/wiki/日本公信榜 "wikilink")\[3\]，一週後以12萬張的銷售量打破自身於2011年5月11日在日本發售的正規專輯《》的6萬5千張銷售紀錄並再次登上日本公信榜專輯排行榜週榜第一名的位置。\[4\]
 
 ## 曲目
 
@@ -54,7 +50,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon榜單</a></p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>榜單</p></th>
 <th><p>最高位置</p></th>
 <th><p>首次銷售量</p></th>
 <th><p>總銷量</p></th>
@@ -155,11 +151,7 @@
 
   -
 
-[Category:BIGBANG音樂專輯](https://zh.wikipedia.org/wiki/Category:BIGBANG音樂專輯 "wikilink")
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
-[Category:2014年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:BIGBANG音樂專輯](https://zh.wikipedia.org/wiki/Category:BIGBANG音樂專輯 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink") [Category:2014年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.
 

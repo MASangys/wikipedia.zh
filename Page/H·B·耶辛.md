@@ -1,4 +1,4 @@
-**H·B·耶辛**（，），原名漢斯·巴格·耶辛（），[印度尼西亞](https://zh.wikipedia.org/wiki/印度尼西亞 "wikilink")（印尼）文學評論家、文獻學家、教授。他在[哥倫打洛市出生](https://zh.wikipedia.org/wiki/哥倫打洛市 "wikilink")，父親在石油公司工作，喜歡看書；他自己則在就讀小學期間養成閱讀習慣，還在高中畢業之前開始撰寫文學評論。他在畢業之後曾經在助理駐紮官府工作過一陣子，然後又接受邀請前往巴達維亞（今[雅加達](https://zh.wikipedia.org/wiki/雅加達 "wikilink")），在國營出版社[圖書編譯局工作](../Page/圖書編譯局.md "wikilink")。他在1950年代先後入讀[印度尼西亚大学和](https://zh.wikipedia.org/wiki/印度尼西亚大学 "wikilink")[耶鲁大学](../Page/耶鲁大学.md "wikilink")；回國後除了擔任教職，他還參加過《文學》、《地平線》雜誌的編務。他在主編《文學》雜誌期間，刊登了一篇運用擬人法描寫[安拉的短篇小說](../Page/安拉.md "wikilink")，卻拒絕公開化名作者的身分，因此法庭裁定這篇小說褻瀆宗教，判處耶辛監禁一年，緩刑兩年。
+**H·B·耶辛**（，），原名漢斯·巴格·耶辛（），[印度尼西亞](https://zh.wikipedia.org/wiki/印度尼西亞 "wikilink")（印尼）文學評論家、文獻學家、教授。他在[哥倫打洛市出生](https://zh.wikipedia.org/wiki/哥倫打洛市 "wikilink")，父親在石油公司工作，喜歡看書；他自己則在就讀小學期間養成閱讀習慣，還在高中畢業之前開始撰寫文學評論。他在畢業之後曾經在助理駐紮官府工作過一陣子，然後又接受邀請前往巴達維亞（今[雅加達](https://zh.wikipedia.org/wiki/雅加達 "wikilink")），在國營出版社[圖書編譯局](../Page/圖書編譯局.md "wikilink")工作。他在1950年代先後入讀[印度尼西亚大学和](https://zh.wikipedia.org/wiki/印度尼西亚大学 "wikilink")[耶鲁大学](../Page/耶鲁大学.md "wikilink")；回國後除了擔任教職，他還參加過《文學》、《地平線》雜誌的編務。他在主編《文學》雜誌期間，刊登了一篇運用擬人法描寫[安拉](../Page/安拉.md "wikilink")的短篇小說，卻拒絕公開化名作者的身分，因此法庭裁定這篇小說褻瀆宗教，判處耶辛監禁一年，緩刑兩年。
 
 耶辛在刑期屆滿之後成立[耶辛文学文献中心](https://zh.wikipedia.org/wiki/耶辛文学文献中心 "wikilink")，負責記錄印尼文學。他在晚年六度中風，並於2000年逝世，遺體在[卡利巴達英雄陵園安葬](https://zh.wikipedia.org/wiki/卡利巴達英雄陵園 "wikilink")。他被稱為「印度尼西亞文學教皇」，除了在工作方面獲得好評，還獲得多項獎項。
 
@@ -6,11 +6,11 @@
 
 耶辛在1917年7月31日生於[哥倫打洛](https://zh.wikipedia.org/wiki/哥倫打洛市 "wikilink")，他的父親巴格·曼圖·耶辛（）是一位穆斯林，在[巴達維亞石油公司工作](https://zh.wikipedia.org/wiki/巴達維亞石油公司 "wikilink")，[喜歡看書](https://zh.wikipedia.org/wiki/愛書族 "wikilink")。老耶辛和妻子哈比巴·瑤（）生了六個孩子。他在哥倫打洛就讀荷印學校（，為[土著開設的荷蘭語小學](https://zh.wikipedia.org/wiki/印尼原住民 "wikilink")）期間養成博覽群書的習慣，然後隨家人遷居[棉蘭](../Page/棉蘭.md "wikilink")（今屬[北苏门答腊省](../Page/北苏门答腊省.md "wikilink")），並在就讀國民中學（，為土著而設的五年制中學）期間開始向當地的雜誌社投稿，發表文學評論。當時他還讀過很多西方的文學作品。
 
-在棉蘭完成中學課程之後，耶辛就回到哥倫打洛，在助理[駐紮官府擔任不受薪的職務](https://zh.wikipedia.org/wiki/駐紮官 "wikilink")。他在1940年接受[蘇丹·達迪爾·阿里夏巴納的邀請](../Page/蘇丹·達迪爾·阿里夏巴納.md "wikilink")，到荷蘭殖民政府經營的出版社[圖書編譯局工作](../Page/圖書編譯局.md "wikilink")——阿里夏巴納也是圖書編譯局的總編輯。他也在同一年加入《[新作家](../Page/新作家.md "wikilink")》月刊的編輯部，直至月刊在兩年後停刊為止。耶辛剛剛加入圖書編譯局的時候創作的作品以短篇小說和詩歌居多，後來則在好友[爾敏·巴奈的引導下](../Page/爾敏·巴奈.md "wikilink")，開始成為文學評論家和文獻學家。他曾經在[日本佔領荷屬東印度期間向日本人主辦的](../Page/荷屬東印度日佔時期.md "wikilink")《[大亞洲](../Page/大亞洲.md "wikilink")》日報投稿，發表詩歌和短篇小說，並參與《圖書旗幟》（）雜誌的編務。從1945年[印尼獨立至](../Page/印度尼西亞獨立宣言.md "wikilink")1957年耶辛出國留學期間，他還參加過《印尼論壇》（）、《天才》（）、《語言及文化》（）、《故事》（）、《藝術》（）等雜誌的編務。
+在棉蘭完成中學課程之後，耶辛就回到哥倫打洛，在助理[駐紮官府擔任不受薪的職務](https://zh.wikipedia.org/wiki/駐紮官 "wikilink")。他在1940年接受[蘇丹·達迪爾·阿里夏巴納](../Page/蘇丹·達迪爾·阿里夏巴納.md "wikilink")的邀請，到荷蘭殖民政府經營的出版社[圖書編譯局](../Page/圖書編譯局.md "wikilink")工作——阿里夏巴納也是圖書編譯局的總編輯。他也在同一年加入《[新作家](../Page/新作家.md "wikilink")》月刊的編輯部，直至月刊在兩年後停刊為止。耶辛剛剛加入圖書編譯局的時候創作的作品以短篇小說和詩歌居多，後來則在好友[爾敏·巴奈](../Page/爾敏·巴奈.md "wikilink")的引導下，開始成為文學評論家和文獻學家。他曾經在[日本佔領荷屬東印度期間向日本人主辦的](../Page/荷屬東印度日佔時期.md "wikilink")《[大亞洲](../Page/大亞洲.md "wikilink")》日報投稿，發表詩歌和短篇小說，並參與《圖書旗幟》（）雜誌的編務。從1945年[印尼獨立至](../Page/印度尼西亞獨立宣言.md "wikilink")1957年耶辛出國留學期間，他還參加過《印尼論壇》（）、《天才》（）、《語言及文化》（）、《故事》（）、《藝術》（）等雜誌的編務。
 
-耶辛從1953年開始擔任[印度尼西亚大学](https://zh.wikipedia.org/wiki/印度尼西亚大学 "wikilink")（印尼大學）的講師，教授與印尼文學有關的課程，也在同時修讀印尼大學的文學課程。他在1957年從印尼大學畢業，並於同年到[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[耶鲁大学進修兩年](../Page/耶鲁大学.md "wikilink")，主修[比较文学](https://zh.wikipedia.org/wiki/比较文学 "wikilink")。返回雅加達之後，耶辛除了回到印尼大學擔任講師，還加入《文學》（）雜誌社，擔任總編輯。1966年[穆赫塔爾·盧比斯創辦文學雜誌](../Page/穆赫塔爾·盧比斯.md "wikilink")《地平線》之後，耶辛參加過這份雜誌的編務，與盧比斯、[陶菲克·伊斯邁爾](https://zh.wikipedia.org/wiki/陶菲克·伊斯邁爾 "wikilink")、[史福仁共同擔任雜誌社的編輯](https://zh.wikipedia.org/wiki/史福仁 "wikilink")。耶辛是1963年《[文化宣言](https://zh.wikipedia.org/wiki/文化宣言 "wikilink")》的主要簽署人之一，他們發表這份宣言的目的就是應對左派組織（以[人民文化協會最為突出](../Page/人民文化協會.md "wikilink")）持續壓迫文壇的行為。印尼政府在1964年5月禁止《文化宣言》，還對《文化宣言》的簽署人進行處分，因此耶辛在1964年被印尼大學解僱。
+耶辛從1953年開始擔任[印度尼西亚大学](https://zh.wikipedia.org/wiki/印度尼西亚大学 "wikilink")（印尼大學）的講師，教授與印尼文學有關的課程，也在同時修讀印尼大學的文學課程。他在1957年從印尼大學畢業，並於同年到[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[耶鲁大学](../Page/耶鲁大学.md "wikilink")進修兩年，主修[比较文学](https://zh.wikipedia.org/wiki/比较文学 "wikilink")。返回雅加達之後，耶辛除了回到印尼大學擔任講師，還加入《文學》（）雜誌社，擔任總編輯。1966年[穆赫塔爾·盧比斯](../Page/穆赫塔爾·盧比斯.md "wikilink")創辦文學雜誌《地平線》之後，耶辛參加過這份雜誌的編務，與盧比斯、[陶菲克·伊斯邁爾](https://zh.wikipedia.org/wiki/陶菲克·伊斯邁爾 "wikilink")、[史福仁共同擔任雜誌社的編輯](https://zh.wikipedia.org/wiki/史福仁 "wikilink")。耶辛是1963年《[文化宣言](https://zh.wikipedia.org/wiki/文化宣言 "wikilink")》的主要簽署人之一，他們發表這份宣言的目的就是應對左派組織（以[人民文化協會](../Page/人民文化協會.md "wikilink")最為突出）持續壓迫文壇的行為。印尼政府在1964年5月禁止《文化宣言》，還對《文化宣言》的簽署人進行處分，因此耶辛在1964年被印尼大學解僱。
 
-耶辛在1971年被控上法庭，原因是當年由他主編的《文學》雜誌刊登了一篇題為〈[天越來越陰沉](https://zh.wikipedia.org/wiki/天越來越陰沉 "wikilink")〉（）的短篇小說，並拒絕公開作者的真實姓名，涉嫌觸犯褻瀆宗教罪。這篇小說由基·潘吉·庫斯敏（，筆名）創作，形容真主[安拉和人類有着相似的特徵](../Page/安拉.md "wikilink")。耶辛的答辯《對想像的辯護》（）在印尼文學史上意義重大，不過法庭還是判處耶辛監禁一年，緩刑兩年。刑期屆滿之後，耶辛再一次回到了印尼大學，擔任常任講師，至1973年離職。為了表揚耶辛對印尼文學界的貢獻，印尼大學在1975年向他頒授榮譽博士學位。耶辛在1976年成立[耶辛文學文獻中心](https://zh.wikipedia.org/wiki/耶辛文學文獻中心 "wikilink")，這座中心位於[伊斯迈尔·马祖基公園](https://zh.wikipedia.org/wiki/伊斯迈尔·马祖基公園 "wikilink")，收藏了耶辛從1940年開始收集的書籍。
+耶辛在1971年被控上法庭，原因是當年由他主編的《文學》雜誌刊登了一篇題為〈[天越來越陰沉](https://zh.wikipedia.org/wiki/天越來越陰沉 "wikilink")〉（）的短篇小說，並拒絕公開作者的真實姓名，涉嫌觸犯褻瀆宗教罪。這篇小說由基·潘吉·庫斯敏（，筆名）創作，形容真主[安拉](../Page/安拉.md "wikilink")和人類有着相似的特徵。耶辛的答辯《對想像的辯護》（）在印尼文學史上意義重大，不過法庭還是判處耶辛監禁一年，緩刑兩年。刑期屆滿之後，耶辛再一次回到了印尼大學，擔任常任講師，至1973年離職。為了表揚耶辛對印尼文學界的貢獻，印尼大學在1975年向他頒授榮譽博士學位。耶辛在1976年成立[耶辛文學文獻中心](https://zh.wikipedia.org/wiki/耶辛文學文獻中心 "wikilink")，這座中心位於[伊斯迈尔·马祖基公園](https://zh.wikipedia.org/wiki/伊斯迈尔·马祖基公園 "wikilink")，收藏了耶辛從1940年開始收集的書籍。
 
 耶辛在1978年以詩歌（而不是傳統使用的散文）的格式把《[古兰经](../Page/古兰经.md "wikilink")》翻譯成印尼文，結果引起爭議，因為當時公眾認為耶辛既不會說[阿拉伯语](https://zh.wikipedia.org/wiki/阿拉伯语 "wikilink")，也缺乏對伊斯蘭教的知識。後來耶辛又完成了另一部譯作《詩歌中的古蘭經》（），同樣引起爭議。
 
@@ -22,7 +22,7 @@
 
 ## 評價
 
-詩人加尤斯·夏基安（）把耶辛稱為「印度尼西亞文學教皇」（），因為當時人們認為印尼人要成為作家，就必須得到耶辛的認可。印尼前總統[阿卜杜拉赫曼·瓦希德說耶辛是一名](../Page/阿卜杜拉赫曼·瓦希德.md "wikilink")「文壇巨人」，他也是讀着耶辛的著作長大的。詩人[薩帕爾迪·佐科·達莫諾則認為耶辛對印尼文學的貢獻](https://zh.wikipedia.org/wiki/薩帕爾迪·佐科·達莫諾 "wikilink")，以及他嚴謹的治學態度，都是無與倫比的，還說耶辛「不但會留住作家的作品，還會留住作家的貢獻。」
+詩人加尤斯·夏基安（）把耶辛稱為「印度尼西亞文學教皇」（），因為當時人們認為印尼人要成為作家，就必須得到耶辛的認可。印尼前總統[阿卜杜拉赫曼·瓦希德](../Page/阿卜杜拉赫曼·瓦希德.md "wikilink")說耶辛是一名「文壇巨人」，他也是讀着耶辛的著作長大的。詩人[薩帕爾迪·佐科·達莫諾則認為耶辛對印尼文學的貢獻](https://zh.wikipedia.org/wiki/薩帕爾迪·佐科·達莫諾 "wikilink")，以及他嚴謹的治學態度，都是無與倫比的，還說耶辛「不但會留住作家的作品，還會留住作家的貢獻。」
 
 ### 榮譽
 
@@ -77,7 +77,7 @@
   - 《忠臣藏》（**，原作者為鹽谷榮，與卡林·哈林合譯；1945年）
   - 《夜航》（**，原作者為[安托万·德圣埃克絮佩里](../Page/安托万·德圣埃克絮佩里.md "wikilink")；1947年）
   - 《班基故事的比較研究》（**，原作者為[普爾巴札拉卡](https://zh.wikipedia.org/wiki/普爾巴札拉卡 "wikilink")；1966年）
-  - 《[马格斯·哈弗拉尔，或荷蘭貿易公司的咖啡買賣](../Page/马格斯·哈弗拉尔.md "wikilink")》（**，原作者為[穆尔塔图里](../Page/穆尔塔图里.md "wikilink")；1972年）
+  - 《[马格斯·哈弗拉尔](../Page/马格斯·哈弗拉尔.md "wikilink")，或荷蘭貿易公司的咖啡買賣》（**，原作者為[穆尔塔图里](../Page/穆尔塔图里.md "wikilink")；1972年）
   - 《凱里爾·安哇爾詩歌全集》（**，與廖裕芳合譯；1974年）
   - 《瓜達拉哈拉起義》（**，原作者為[揚·斯勞爾霍夫](https://zh.wikipedia.org/wiki/揚·斯勞爾霍夫 "wikilink")；1976年）
   - 《[古蘭經](https://zh.wikipedia.org/wiki/古蘭經 "wikilink")》（**，1978年）
@@ -100,11 +100,4 @@
   -
   -
   -
-[Category:麥格塞塞獎獲得者](https://zh.wikipedia.org/wiki/Category:麥格塞塞獎獲得者 "wikilink")
-[Category:印度尼西亞社會科學家](https://zh.wikipedia.org/wiki/Category:印度尼西亞社會科學家 "wikilink")
-[Category:印度尼西亞翻譯家](https://zh.wikipedia.org/wiki/Category:印度尼西亞翻譯家 "wikilink")
-[Category:文學評論家](https://zh.wikipedia.org/wiki/Category:文學評論家 "wikilink")
-[Category:古兰经翻译者](https://zh.wikipedia.org/wiki/Category:古兰经翻译者 "wikilink")
-[Category:20世纪翻译家](https://zh.wikipedia.org/wiki/Category:20世纪翻译家 "wikilink")
-[Category:印度尼西亞大學校友](https://zh.wikipedia.org/wiki/Category:印度尼西亞大學校友 "wikilink")
-[Category:耶魯大學校友](https://zh.wikipedia.org/wiki/Category:耶魯大學校友 "wikilink")
+[Category:麥格塞塞獎獲得者](https://zh.wikipedia.org/wiki/Category:麥格塞塞獎獲得者 "wikilink") [Category:印度尼西亞社會科學家](https://zh.wikipedia.org/wiki/Category:印度尼西亞社會科學家 "wikilink") [Category:印度尼西亞翻譯家](https://zh.wikipedia.org/wiki/Category:印度尼西亞翻譯家 "wikilink") [Category:文學評論家](https://zh.wikipedia.org/wiki/Category:文學評論家 "wikilink") [Category:古兰经翻译者](https://zh.wikipedia.org/wiki/Category:古兰经翻译者 "wikilink") [Category:20世纪翻译家](https://zh.wikipedia.org/wiki/Category:20世纪翻译家 "wikilink") [Category:印度尼西亞大學校友](https://zh.wikipedia.org/wiki/Category:印度尼西亞大學校友 "wikilink") [Category:耶魯大學校友](https://zh.wikipedia.org/wiki/Category:耶魯大學校友 "wikilink")

@@ -9,9 +9,7 @@
   - [Twitter](https://twitter.com/ESIgroup)
   - [LinkedIn](http://www.linkedin.com/company/esi-group)
 
-[Category:法國軟體公司](https://zh.wikipedia.org/wiki/Category:法國軟體公司 "wikilink")
-[Category:模擬軟體](https://zh.wikipedia.org/wiki/Category:模擬軟體 "wikilink")
-[Category:1973年建立](https://zh.wikipedia.org/wiki/Category:1973年建立 "wikilink")
+[Category:法國軟體公司](https://zh.wikipedia.org/wiki/Category:法國軟體公司 "wikilink") [Category:模擬軟體](https://zh.wikipedia.org/wiki/Category:模擬軟體 "wikilink") [Category:1973年建立](https://zh.wikipedia.org/wiki/Category:1973年建立 "wikilink")
 
 1.
 2.  [關於ESI集團](https://www.esi-group.com/cn/company/about-esi-group)

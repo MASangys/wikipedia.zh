@@ -1,12 +1,8 @@
-《**Jelly Box - 꽃길 (Prod. By
-지코([ZICO](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")))**》是韓國女歌手[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")（女子團體《[gu9udan](https://zh.wikipedia.org/wiki/gu9udan "wikilink")》主唱）的數位單曲，也是[Jellyfish娛樂的音樂企劃](../Page/Jellyfish娛樂.md "wikilink")“”第三首作品。由Jellyfish娛樂於2016年11月23日發行\[1\]\[2\]\[3\]\[4\]。
+《**Jelly Box - 꽃길 (Prod. By 지코([ZICO](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")))**》是韓國女歌手[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")（女子團體《[gu9udan](https://zh.wikipedia.org/wiki/gu9udan "wikilink")》主唱）的數位單曲，也是[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")的音樂企劃“”第三首作品。由Jellyfish娛樂於2016年11月23日發行\[1\]\[2\]\[3\]\[4\]。
 
 ## 發行
 
-〈꽃길（Flower
-Way）〉是一首以金世正與母親的故事創作的歌曲，擁有感人的歌詞與動人的旋律，是一首與金世正嗓音完美融合的抒情歌曲。在音源公開11小時後，於八大音源排行榜皆獲得實時一位，完成實時
-All Kill\[5\]\[6\]\[7\]。11月30日，以特別企劃短短一星期時間，於《[Show
-Champion](../Page/Show_Champion.md "wikilink")》獲得世正個人名義出道首個一位\[8\]\[9\]\[10\]\[11\]。
+〈꽃길（Flower Way）〉是一首以金世正與母親的故事創作的歌曲，擁有感人的歌詞與動人的旋律，是一首與金世正嗓音完美融合的抒情歌曲。在音源公開11小時後，於八大音源排行榜皆獲得實時一位，完成實時 All Kill\[5\]\[6\]\[7\]。11月30日，以特別企劃短短一星期時間，於《[Show Champion](../Page/Show_Champion.md "wikilink")》獲得世正個人名義出道首個一位\[8\]\[9\]\[10\]\[11\]。
 
 ## 曲目
 

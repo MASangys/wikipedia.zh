@@ -1,6 +1,4 @@
-《**K歌大明星**》，官方英文名***One in a
-Million***，是台灣[中視的音樂互動](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，[友松娛樂製作](../Page/友松娛樂.md "wikilink")，中視、友松娛樂、[嘉毅國際共同投資](https://zh.wikipedia.org/wiki/嘉毅國際 "wikilink")，主持人為[張小燕](../Page/張小燕_\(臺灣\).md "wikilink")、[阿Ken](../Page/林暐恆.md "wikilink")\[1\]
-\[2\]，於2017年7月1日起每[週六](https://zh.wikipedia.org/wiki/週六 "wikilink")20:00於[中視主頻首播](https://zh.wikipedia.org/wiki/中視主頻 "wikilink")。因版權問題，[中華電信MOD與](../Page/中華電信MOD.md "wikilink")[四季線上影視以](https://zh.wikipedia.org/wiki/四季線上影視 "wikilink")《[萬秀豬王](https://zh.wikipedia.org/wiki/萬秀豬王 "wikilink")》覆蓋。
+《**K歌大明星**》，官方英文名***One in a Million***，是台灣[中視的音樂互動](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，[友松娛樂](../Page/友松娛樂.md "wikilink")製作，中視、友松娛樂、[嘉毅國際共同投資](https://zh.wikipedia.org/wiki/嘉毅國際 "wikilink")，主持人為[張小燕](../Page/張小燕_\(臺灣\).md "wikilink")、[阿Ken](../Page/林暐恆.md "wikilink")\[1\] \[2\]，於2017年7月1日起每[週六](https://zh.wikipedia.org/wiki/週六 "wikilink")20:00於[中視主頻首播](https://zh.wikipedia.org/wiki/中視主頻 "wikilink")。因版權問題，[中華電信MOD](../Page/中華電信MOD.md "wikilink")與[四季線上影視以](https://zh.wikipedia.org/wiki/四季線上影視 "wikilink")《[萬秀豬王](https://zh.wikipedia.org/wiki/萬秀豬王 "wikilink")》覆蓋。
 
 ## 播出時間
 
@@ -292,7 +290,7 @@ Million***，是台灣[中視的音樂互動](https://zh.wikipedia.org/wiki/中�
 </table>
 
   - <small>同時段綜藝節目：[台視](../Page/臺灣電視台.md "wikilink")《[綜藝3國智](../Page/綜藝3國智.md "wikilink")》、[民視](https://zh.wikipedia.org/wiki/民視 "wikilink")《[台灣那麼旺](../Page/台灣那麼旺_Taiwan_NO.1.md "wikilink")》
-  - 由[AC尼尔森調查](../Page/AC尼尔森.md "wikilink")，調查範圍是四歲以上收看電視之觀眾。
+  - 由[AC尼尔森](../Page/AC尼尔森.md "wikilink")調查，調查範圍是四歲以上收看電視之觀眾。
   - 資料來源：[凱絡媒體週報](https://twncarat.wordpress.com/)</small>
 
 ## 註釋
@@ -302,18 +300,13 @@ Million***，是台灣[中視的音樂互動](https://zh.wikipedia.org/wiki/中�
 ## 外部連結
 
   -
-  - [inLive 硬直播-K歌大明星在App
-    Store的下載頁面](https://itunes.apple.com/tw/app/id1204119414?l=zh&ls=1&mt=8)
+  - [inLive 硬直播-K歌大明星在App Store的下載頁面](https://itunes.apple.com/tw/app/id1204119414?l=zh&ls=1&mt=8)
 
-  - [硬直播-K歌大明星在Google
-    Play的下載頁面](https://play.google.com/store/apps/details?id=tw.chiae.inlive&hl=zh_TW)
+  - [硬直播-K歌大明星在Google Play的下載頁面](https://play.google.com/store/apps/details?id=tw.chiae.inlive&hl=zh_TW)
 
 ## 節目的變遷
 
-[Category:中視電視節目](https://zh.wikipedia.org/wiki/Category:中視電視節目 "wikilink")
-[Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink")
-[Category:中天電視節目](https://zh.wikipedia.org/wiki/Category:中天電視節目 "wikilink")
-[Category:友松傳播製作電視節目](https://zh.wikipedia.org/wiki/Category:友松傳播製作電視節目 "wikilink")
+[Category:中視電視節目](https://zh.wikipedia.org/wiki/Category:中視電視節目 "wikilink") [Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink") [Category:中天電視節目](https://zh.wikipedia.org/wiki/Category:中天電視節目 "wikilink") [Category:友松傳播製作電視節目](https://zh.wikipedia.org/wiki/Category:友松傳播製作電視節目 "wikilink")
 
 1.  [《中國時報》：《K歌大明星》1集海砸300萬](http://www.chinatimes.com/newspapers/20170613000661-260112)
 2.

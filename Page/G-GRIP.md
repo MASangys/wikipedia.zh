@@ -13,8 +13,7 @@ G-GRIP的前身是曾在[TBS電視節目](../Page/TBS電視台.md "wikilink")《
 
 在那之後才改名為現在團名**G-GRIP**，成員由川野美紀、佐藤麻由美、木下由美、德橋亞紀子共4人組成。翌年1990年發行她們的首張單曲正式出道。
 
-其團名之意為**GARBO
-GRIP**（），而命名的由來來自[瑞典女演員](../Page/瑞典.md "wikilink")[葛麗泰·嘉寶在電影劇中美麗的擁抱場面](https://zh.wikipedia.org/wiki/葛麗泰·嘉寶 "wikilink")。
+其團名之意為**GARBO GRIP**（），而命名的由來來自[瑞典](../Page/瑞典.md "wikilink")女演員[葛麗泰·嘉寶在電影劇中美麗的擁抱場面](https://zh.wikipedia.org/wiki/葛麗泰·嘉寶 "wikilink")。
 
 ## 歌曲列表
 
@@ -101,7 +100,7 @@ PSCR-5201（再發盤）</p></td>
 
 |     | 發行日期       | 標題                                   | 商業主打                                                                                                    | 規格編號      |
 | --- | ---------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------- | --------- |
-| 1st | 1994年1月26日 | WIND IS HIGH／BRAND NEW DREAM         | [OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")「[閃電霹靂車ZERO](../Page/閃電霹靂車.md "wikilink")」片頭曲&最終話片尾曲 | DPDX-5002 |
+| 1st | 1994年1月26日 | WIND IS HIGH／BRAND NEW DREAM         | [OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")「[閃電霹靂車](../Page/閃電霹靂車.md "wikilink")ZERO」片頭曲&最終話片尾曲 | DPDX-5002 |
 | 2nd | 1994年7月25日 | I'M RUNNIN' BACK／EVERY NIGHT AND DAY | 廣播節目「閃電霹靂車 PICTURELAND」片頭曲&片尾曲                                                                          | DPDX-5004 |
 
 ### 卡拉OK形式收錄
@@ -110,7 +109,4 @@ PSCR-5201（再發盤）</p></td>
 | ---------- | ------------- | --------- |
 | 1994年1月26日 | 閃電霹靂車 卡拉OK IV | DPDX-5025 |
 
-[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink")
-[Category:1990年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1990年成立的音樂團體 "wikilink")
-[Category:1992年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1992年解散的音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
+[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink") [Category:1990年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1990年成立的音樂團體 "wikilink") [Category:1992年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1992年解散的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")

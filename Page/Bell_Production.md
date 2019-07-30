@@ -1,6 +1,4 @@
-**株式會社Bell
-Production**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[西原](../Page/西原_\(澀谷區\).md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")（聲優事務所）。成立於2012年2月6日\[2\]。並有成立Bell
-Production附屬養成學校B☆ACE\[3\]。
+**株式會社Bell Production**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[西原](../Page/西原_\(澀谷區\).md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")（聲優事務所）。成立於2012年2月6日\[2\]。並有成立Bell Production附屬養成學校B☆ACE\[3\]。
 
 ## 所屬聲優
 
@@ -112,9 +110,7 @@ Production附屬養成學校B☆ACE\[3\]。
 
   - [株式會社Bell Production公式官網](http://bellpro.jp/index.html)
 
-[Category:Bell_Production](https://zh.wikipedia.org/wiki/Category:Bell_Production "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
+[Category:Bell_Production](https://zh.wikipedia.org/wiki/Category:Bell_Production "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
 
 1.
 

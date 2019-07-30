@@ -1,11 +1,8 @@
-《**SUPER TV**》（韓語：**슈퍼TV**）為綜藝節目，由男子團體[Super
-Junior](../Page/Super_Junior.md "wikilink")（SJ）成員出演，是一個將多種節目概念以SJ的風格重新詮釋的綜藝節目\[1\]\[2\]。
+《**SUPER TV**》（韓語：**슈퍼TV**）為綜藝節目，由男子團體[Super Junior](../Page/Super_Junior.md "wikilink")（SJ）成員出演，是一個將多種節目概念以SJ的風格重新詮釋的綜藝節目\[1\]\[2\]。
 
 ## 簡介
 
-《**SUPER
-TV**》旨為將多種節目概念（如[真人秀](https://zh.wikipedia.org/wiki/真人秀 "wikilink")、吃放、問答、[脫口秀](https://zh.wikipedia.org/wiki/脫口秀 "wikilink")、選秀）以[Super
-Junior特有的風格重新詮釋的綜藝節目](../Page/Super_Junior.md "wikilink")；在事前會議及節目中，成員們也提出了想法，例如「[進監獄體驗監獄生活](../Page/機智牢房生活.md "wikilink")」、「[用冷凍食品體驗三時三餐](https://zh.wikipedia.org/wiki/三時三餐 "wikilink")」、「[挖掘成員身上的問題](https://zh.wikipedia.org/wiki/腦性時代：問題男子 "wikilink")」、「[兩兩成員的我們同居了](../Page/我們結婚了.md "wikilink")」。
+《**SUPER TV**》旨為將多種節目概念（如[真人秀](https://zh.wikipedia.org/wiki/真人秀 "wikilink")、吃放、問答、[脫口秀](https://zh.wikipedia.org/wiki/脫口秀 "wikilink")、選秀）以[Super Junior特有的風格重新詮釋的綜藝節目](../Page/Super_Junior.md "wikilink")；在事前會議及節目中，成員們也提出了想法，例如「[進監獄體驗監獄生活](../Page/機智牢房生活.md "wikilink")」、「[用冷凍食品體驗三時三餐](https://zh.wikipedia.org/wiki/三時三餐 "wikilink")」、「[挖掘成員身上的問題](https://zh.wikipedia.org/wiki/腦性時代：問題男子 "wikilink")」、「[兩兩成員的我們同居了](../Page/我們結婚了.md "wikilink")」。
 
 2018年1月15日至17日，公開了SJ成員與電視台局長、知名製作人們的事前會議影片，並作為節目第0集（30分鐘）於播放。1月23日舉行製作發表會。\[3\]
 
@@ -163,8 +160,7 @@ Tatchara Longprasert（泰國）<br />
 
 ### 第二季－權力的遊戲
 
-**擁有出色的綜藝能力的Super
-Junior，將面對各組來賓挑戰「綜藝王」的寶座，若能五連勝，將獲得豪華海外旅行。第八集改為三連勝可獲得國內旅行。**
+**擁有出色的綜藝能力的Super Junior，將面對各組來賓挑戰「綜藝王」的寶座，若能五連勝，將獲得豪華海外旅行。第八集改為三連勝可獲得國內旅行。**
 
 <table>
 <tbody>
@@ -181,7 +177,7 @@ Junior，將面對各組來賓挑戰「綜藝王」的寶座，若能五連勝�
 <td></td>
 <td><p><a href="../Page/AOA.md" title="wikilink">AOA</a><br />
 </p></td>
-<td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior勝出</a> [注:<a href="../Page/銀赫.md" title="wikilink">銀赫因海外行程而暫時缺席</a>]</p></td>
+<td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior勝出</a> [注:<a href="../Page/銀赫.md" title="wikilink">銀赫</a>因海外行程而暫時缺席]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
@@ -189,7 +185,7 @@ Junior，將面對各組來賓挑戰「綜藝王」的寶座，若能五連勝�
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a><br />
 </p></td>
-<td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior勝出</a> [注:<a href="../Page/銀赫.md" title="wikilink">銀赫因海外行程而暫時缺席</a>]</p></td>
+<td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior勝出</a> [注:<a href="../Page/銀赫.md" title="wikilink">銀赫</a>因海外行程而暫時缺席]</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
@@ -197,7 +193,7 @@ Junior，將面對各組來賓挑戰「綜藝王」的寶座，若能五連勝�
 <td></td>
 <td><p><a href="../Page/SHINee.md" title="wikilink">SHINee</a><br />
 </p></td>
-<td><p><a href="../Page/SHINee.md" title="wikilink">SHINee勝出</a></p></td>
+<td><p><a href="../Page/SHINee.md" title="wikilink">SHINee</a>勝出</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
@@ -229,7 +225,7 @@ Junior，將面對各組來賓挑戰「綜藝王」的寶座，若能五連勝�
 <td></td>
 <td><p><a href="../Page/KARD.md" title="wikilink">KARD</a><br />
 </p></td>
-<td><p><a href="../Page/KARD.md" title="wikilink">KARD勝出</a></p></td>
+<td><p><a href="../Page/KARD.md" title="wikilink">KARD</a>勝出</p></td>
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
@@ -260,7 +256,7 @@ Junior，將面對各組來賓挑戰「綜藝王」的寶座，若能五連勝�
 <td><p>2018年8月16日</p></td>
 <td><p>三連勝濟州島旅遊</p></td>
 <td><p>-</p></td>
-<td><p>[注:<a href="../Page/厲旭.md" title="wikilink">厲旭退伍加入節目</a>]</p></td>
+<td><p>[注:<a href="../Page/厲旭.md" title="wikilink">厲旭</a>退伍加入節目]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
@@ -482,24 +478,13 @@ Junior，將面對各組來賓挑戰「綜藝王」的寶座，若能五連勝�
 ## 外部連結
 
   -
-  - [SUPER
-    TV](https://web.archive.org/web/20180407054208/http://movie.daum.net/tv/main?tvProgramId=81902)
-    [DAUM](../Page/多音.md "wikilink")
+  - [SUPER TV](https://web.archive.org/web/20180407054208/http://movie.daum.net/tv/main?tvProgramId=81902) [DAUM](../Page/多音.md "wikilink")
 
-  - [SUPER
-    TV](http://m.entertain.naver.com/tvBrand/6657810/broadcastInfo/mainCard)
-    [NAVER](../Page/NAVER.md "wikilink")
+  - [SUPER TV](http://m.entertain.naver.com/tvBrand/6657810/broadcastInfo/mainCard) [NAVER](../Page/NAVER.md "wikilink")
 
   - [SUPER TV](https://tv.naver.com/cjenm.supertv/)NAVER TV
 
-[Category:正在播放的電視節目](https://zh.wikipedia.org/wiki/Category:正在播放的電視節目 "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:tvN](https://zh.wikipedia.org/wiki/Category:tvN "wikilink")
-[Category:XtvN](https://zh.wikipedia.org/wiki/Category:XtvN "wikilink")
-[Category:FOX台灣外購節目](https://zh.wikipedia.org/wiki/Category:FOX台灣外購節目 "wikilink")
-[Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink")
-[Category:香港電視娛樂外購節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購節目 "wikilink")
+[Category:正在播放的電視節目](https://zh.wikipedia.org/wiki/Category:正在播放的電視節目 "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:tvN](https://zh.wikipedia.org/wiki/Category:tvN "wikilink") [Category:XtvN](https://zh.wikipedia.org/wiki/Category:XtvN "wikilink") [Category:FOX台灣外購節目](https://zh.wikipedia.org/wiki/Category:FOX台灣外購節目 "wikilink") [Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink") [Category:香港電視娛樂外購節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購節目 "wikilink")
 
 1.
 2.

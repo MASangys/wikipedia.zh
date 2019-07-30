@@ -1,5 +1,4 @@
-{{ otheruses | TSF (消歧義) }}
-**TSF**（），是在虛構作品中對[異性的](https://zh.wikipedia.org/wiki/異性 "wikilink")**[性轉換](https://zh.wikipedia.org/wiki/性轉換 "wikilink")**這種作品類型的總稱。是將[英語中的](https://zh.wikipedia.org/wiki/英語 "wikilink")“TG”（）和“TF”（）合併起來的一個日語特有名詞。
+{{ otheruses | TSF (消歧義) }}  **TSF**（），是在虛構作品中對[異性的](https://zh.wikipedia.org/wiki/異性 "wikilink")**[性轉換](https://zh.wikipedia.org/wiki/性轉換 "wikilink")**這種作品類型的總稱。是將[英語中的](https://zh.wikipedia.org/wiki/英語 "wikilink")“TG”（）和“TF”（）合併起來的一個日語特有名詞。
 
 ## 概要
 
@@ -73,8 +72,7 @@ TSF在廣義上一般被認為一個人在性別上“[變身](https://zh.wikipe
 
   - [Mr.Clice](https://zh.wikipedia.org/wiki/Mr.Clice "wikilink")
 
-  - [あかねちゃんOVER
-    DRIVE](https://zh.wikipedia.org/wiki/あかねちゃんOVER_DRIVE "wikilink")
+  - [あかねちゃんOVER DRIVE](https://zh.wikipedia.org/wiki/あかねちゃんOVER_DRIVE "wikilink")
 
   - [悪徳なんか怖くない](https://zh.wikipedia.org/wiki/悪徳なんか怖くない "wikilink")
 
@@ -109,8 +107,7 @@ TSF在廣義上一般被認為一個人在性別上“[變身](https://zh.wikipe
 
   - [肯普法](../Page/肯普法.md "wikilink")
 
-  - [攻殼機動隊 STAND ALONE
-    COMPLEX](../Page/攻殼機動隊_STAND_ALONE_COMPLEX.md "wikilink")
+  - [攻殼機動隊 STAND ALONE COMPLEX](../Page/攻殼機動隊_STAND_ALONE_COMPLEX.md "wikilink")
 
   - [心靈鏈環](https://zh.wikipedia.org/wiki/心靈鏈環 "wikilink")
 
@@ -211,10 +208,7 @@ TSF在廣義上一般被認為一個人在性別上“[變身](https://zh.wikipe
   - [變性](../Page/變性.md "wikilink")
   - [戀乳](https://zh.wikipedia.org/wiki/戀乳 "wikilink")
 
-[Category:戀物](https://zh.wikipedia.org/wiki/Category:戀物 "wikilink")
-[Category:性轉換作品](https://zh.wikipedia.org/wiki/Category:性轉換作品 "wikilink")
+[Category:戀物](https://zh.wikipedia.org/wiki/Category:戀物 "wikilink") [Category:性轉換作品](https://zh.wikipedia.org/wiki/Category:性轉換作品 "wikilink")
 
-1.  , "[Married to Magic: Animal Brides and Bridegrooms in Folklore and
-    Fantasy](http://www.endicott-studio.com/rdrm/rrMarriedToMagic.html)
-    "
+1.  , "[Married to Magic: Animal Brides and Bridegrooms in Folklore and Fantasy](http://www.endicott-studio.com/rdrm/rrMarriedToMagic.html) "
 2.

@@ -28,12 +28,9 @@
 
 会删除所有非字母或数字字符。
 
-tr的大多数版本，包括GNU tr和经典的Unix
-tr，都以单字节字符操作，不兼容[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")。[Heirloom
-Toolchest的实现是个例外](https://zh.wikipedia.org/wiki/Heirloom_Project "wikilink")，它提供了基本的Unicode支持。
+tr的大多数版本，包括GNU tr和经典的Unix tr，都以单字节字符操作，不兼容[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")。[Heirloom Toolchest的实现是个例外](https://zh.wikipedia.org/wiki/Heirloom_Project "wikilink")，它提供了基本的Unicode支持。
 
-[Ruby和](../Page/Ruby.md "wikilink")[Perl也有一个内置的](../Page/Perl.md "wikilink")*tr*操作符，使用方法类似\[1\]\[2\]。[Tcl的](../Page/Tcl.md "wikilink")*string
-map*命令更加通用，因为它将字符串映射到字符串，而tr将字符映射到字符\[3\]。
+[Ruby](../Page/Ruby.md "wikilink")和[Perl](../Page/Perl.md "wikilink")也有一个内置的*tr*操作符，使用方法类似\[1\]\[2\]。[Tcl](../Page/Tcl.md "wikilink")的*string map*命令更加通用，因为它将字符串映射到字符串，而tr将字符映射到字符\[3\]。
 
 ## 参见
 
@@ -53,8 +50,7 @@ map*命令更加通用，因为它将字符串映射到字符串，而tr将字�
   -
   - [examplenow.com上的使用示例](http://www.examplenow.com/tr)
 
-[Category:Unix文字处理实用工具](https://zh.wikipedia.org/wiki/Category:Unix文字处理实用工具 "wikilink")
-[Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")
+[Category:Unix文字处理实用工具](https://zh.wikipedia.org/wiki/Category:Unix文字处理实用工具 "wikilink") [Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")
 
 1.
 2.

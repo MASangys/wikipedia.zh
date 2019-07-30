@@ -1,4 +1,4 @@
-**爱琴海数字**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了用于[线形文字A](../Page/线形文字A.md "wikilink")，[线形文字B和](../Page/线形文字B.md "wikilink")[塞浦路斯音節文字的数字](../Page/塞浦路斯音節文字.md "wikilink")。\[1\]
+**爱琴海数字**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了用于[线形文字A](../Page/线形文字A.md "wikilink")，[线形文字B](../Page/线形文字B.md "wikilink")和[塞浦路斯音節文字](../Page/塞浦路斯音節文字.md "wikilink")的数字。\[1\]
 
 ## 历史
 

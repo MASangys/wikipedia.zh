@@ -1,4 +1,4 @@
-**麻將牌**是一個[Unicode區段包含了](../Page/Unicode區段.md "wikilink")[麻將遊戲中使用的標準排張之字符](https://zh.wikipedia.org/wiki/麻將 "wikilink")。
+**麻將牌**是一個[Unicode區段](../Page/Unicode區段.md "wikilink")包含了[麻將遊戲中使用的標準排張之字符](https://zh.wikipedia.org/wiki/麻將 "wikilink")。
 
 ## 繪文字
 

@@ -831,7 +831,7 @@ Gary、哈哈、宋智孝</p></td>
 <td><p>將數字「1470」<br />
 變為「0」</p></td>
 <td><p>金鐘國、金泰宇，Gary、Ailee，宋智孝、任瑟雍<strong>勝出</strong><br />
-其餘的隊伍必須到台灣接受大懲罰「笑傲飛鷹」，並完成任務，但<a href="../Page/宋恩伊.md" title="wikilink">宋恩伊因行程無法到台灣接受懲罰</a>[18]</p></td>
+其餘的隊伍必須到台灣接受大懲罰「笑傲飛鷹」，並完成任務，但<a href="../Page/宋恩伊.md" title="wikilink">宋恩伊</a>因行程無法到台灣接受懲罰[18]</p></td>
 </tr>
 <tr class="odd">
 <td><p>212<br />
@@ -1216,8 +1216,7 @@ Gary、劉在錫、宋智孝</span><br />
 
 ## 收视率
 
-以下紀錄《**Running
-Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink")》整體收視，<span style=color:red>**紅色**</span>表示為該年度最高收視率，<span style=color:blue>**藍色**</span>則表示為該年度最低收視率。
+以下紀錄《**Running Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink")》整體收視，<span style=color:red>**紅色**</span>表示為該年度最高收視率，<span style=color:blue>**藍色**</span>則表示為該年度最低收視率。
 
 <table>
 <thead>
@@ -1578,8 +1577,7 @@ Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink
 </tbody>
 </table>
 
-  - <small>註：2014年9月28日，因轉播[仁川亞運會賽事](https://zh.wikipedia.org/wiki/2014年亞洲運動會 "wikilink")，《星期天真好》一部《Roommate》停播，因此《Running
-    Man》單獨收視即為《星期天真好》整體收視。</small>
+  - <small>註：2014年9月28日，因轉播[仁川亞運會賽事](https://zh.wikipedia.org/wiki/2014年亞洲運動會 "wikilink")，《星期天真好》一部《Roommate》停播，因此《Running Man》單獨收視即為《星期天真好》整體收視。</small>
 
 ## 註釋
 
@@ -1590,37 +1588,29 @@ Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink
   -
   -
   -
-[Category:Running_Man](https://zh.wikipedia.org/wiki/Category:Running_Man "wikilink")
-[Category:韓國電視節目各集列表](https://zh.wikipedia.org/wiki/Category:韓國電視節目各集列表 "wikilink")
-[Category:2014年電視節目列表](https://zh.wikipedia.org/wiki/Category:2014年電視節目列表 "wikilink")
+[Category:Running_Man](https://zh.wikipedia.org/wiki/Category:Running_Man "wikilink") [Category:韓國電視節目各集列表](https://zh.wikipedia.org/wiki/Category:韓國電視節目各集列表 "wikilink") [Category:2014年電視節目列表](https://zh.wikipedia.org/wiki/Category:2014年電視節目列表 "wikilink")
 
 1.
 2.
 3.  金鐘國和李光洙於本集分別以女性角色「金鐘淑」（김종숙） 和「李光子」（이광자）身份參與錄影，背部名牌上的名字亦有更改。
-4.  宣傳電影《》，[金相慶](https://zh.wikipedia.org/wiki/金相慶 "wikilink")、[朴泰桓](../Page/朴泰桓.md "wikilink")、[池珍熙](../Page/池珍熙.md "wikilink")、[薛耿求](../Page/薛耿求.md "wikilink")、、[李棟旭](../Page/李棟旭.md "wikilink")、[高洙](../Page/高洙.md "wikilink")、[金惠秀](../Page/金惠秀.md "wikilink")、[朴明洙驚喜聲演](../Page/朴明洙.md "wikilink")。
+4.  宣傳電影《》，[金相慶](https://zh.wikipedia.org/wiki/金相慶 "wikilink")、[朴泰桓](../Page/朴泰桓.md "wikilink")、[池珍熙](../Page/池珍熙.md "wikilink")、[薛耿求](../Page/薛耿求.md "wikilink")、、[李棟旭](../Page/李棟旭.md "wikilink")、[高洙](../Page/高洙.md "wikilink")、[金惠秀](../Page/金惠秀.md "wikilink")、[朴明洙](../Page/朴明洙.md "wikilink")驚喜聲演。
 5.  概念來自[2014年索契冬奧](https://zh.wikipedia.org/wiki/2014年冬季奧運會 "wikilink")，特別出演。
-6.  概念來自[SBS水木劇](https://zh.wikipedia.org/wiki/SBS水木迷你連續劇 "wikilink")《[來自星星的你](../Page/來自星星的你.md "wikilink")》，[金賢秀特別出演](../Page/金賢秀.md "wikilink")。
+6.  概念來自[SBS水木劇](https://zh.wikipedia.org/wiki/SBS水木迷你連續劇 "wikilink")《[來自星星的你](../Page/來自星星的你.md "wikilink")》，[金賢秀](../Page/金賢秀.md "wikilink")特別出演。
 7.  權海驍、孔炯軫、金知碩、李相侖、具惠善、姜河那、勝利參演集數提前於澳洲冒險之間播放。
 8.  宣傳[SBS週末劇](../Page/SBS週末特別計劃劇.md "wikilink")《[天使之眼](../Page/天使之眼.md "wikilink")》。
-9.  [李孝利驚喜出演](../Page/李孝利.md "wikilink")。
+9.  [李孝利](../Page/李孝利.md "wikilink")驚喜出演。
 10. 趙正治因行程無法參加第二環節，他的空缺由Eddy Kim暫代。
-11. [劉在錫於本集以主持身份出演](../Page/劉在錫.md "wikilink")，[Eddy
-    Kim特別出演](https://zh.wikipedia.org/wiki/艾迪·金 "wikilink")。
+11. [劉在錫](../Page/劉在錫.md "wikilink")於本集以主持身份出演，[Eddy Kim特別出演](https://zh.wikipedia.org/wiki/艾迪·金 "wikilink")。
 12. 好\&Chow成員（）特別出演。
 13. [A Pink特別出演](https://zh.wikipedia.org/wiki/A_Pink "wikilink")。
-14. [白智榮](../Page/白智榮.md "wikilink")、[珉雅](https://zh.wikipedia.org/wiki/方珉雅 "wikilink")（[Girl's
-    Day](../Page/Girl's_Day.md "wikilink")）驚喜出演，[車範根](../Page/車範根.md "wikilink")、[薛琦鉉](../Page/薛琦鉉.md "wikilink")、[李昶旻](../Page/李昶旻.md "wikilink")（[2AM](../Page/2AM.md "wikilink")）、[尹斗俊](../Page/尹斗俊.md "wikilink")、[梁耀燮](../Page/梁耀燮.md "wikilink")、[李起光](../Page/李起光.md "wikilink")（[BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")）、[Leo](../Page/VIXX.md "wikilink")（[VIXX](../Page/VIXX.md "wikilink")）、[旼赫](../Page/BTOB.md "wikilink")（[BTOB](../Page/BTOB.md "wikilink")）、[金桐俊](../Page/金桐俊.md "wikilink")（[ZE:A](../Page/ZE:A.md "wikilink")）、[Baro](../Page/B1A4.md "wikilink")（[B1A4](../Page/B1A4.md "wikilink")）特別出演。
-15. [車範根特別出演](../Page/車範根.md "wikilink")。
-16. 宣傳電影《》，[劉在錫於本集以主持身份出演](../Page/劉在錫.md "wikilink")。
-17. 、、[盧士燕](../Page/盧士燕.md "wikilink")、、、、鄭孝妍、[Jia](../Page/孟佳.md "wikilink")([miss
-    A](https://zh.wikipedia.org/wiki/miss_A "wikilink"))、[譽恩](https://zh.wikipedia.org/wiki/朴譽恩 "wikilink")、[宣美](https://zh.wikipedia.org/wiki/李宣美 "wikilink")、[李正信](../Page/CNBLUE.md "wikilink")（[CNBLUE](../Page/CNBLUE.md "wikilink")）、[金素英](../Page/金素英.md "wikilink")、[薔薇旅館](../Page/玫瑰旅館.md "wikilink")、、Garlixx、、、[首爾SK騎士](../Page/首爾SK騎士.md "wikilink")、[燦盛](https://zh.wikipedia.org/wiki/2PM "wikilink")（[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")）、[姜敏赫](../Page/姜敏赫.md "wikilink")（[CNBLUE](../Page/CNBLUE.md "wikilink")）、[AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")、申智勳、李哲雨、泰恩、、驚喜出演。
+14. [白智榮](../Page/白智榮.md "wikilink")、[珉雅](https://zh.wikipedia.org/wiki/方珉雅 "wikilink")（[Girl's Day](../Page/Girl's_Day.md "wikilink")）驚喜出演，[車範根](../Page/車範根.md "wikilink")、[薛琦鉉](../Page/薛琦鉉.md "wikilink")、[李昶旻](../Page/李昶旻.md "wikilink")（[2AM](../Page/2AM.md "wikilink")）、[尹斗俊](../Page/尹斗俊.md "wikilink")、[梁耀燮](../Page/梁耀燮.md "wikilink")、[李起光](../Page/李起光.md "wikilink")（[BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")）、[Leo](../Page/VIXX.md "wikilink")（[VIXX](../Page/VIXX.md "wikilink")）、[旼赫](../Page/BTOB.md "wikilink")（[BTOB](../Page/BTOB.md "wikilink")）、[金桐俊](../Page/金桐俊.md "wikilink")（[ZE:A](../Page/ZE:A.md "wikilink")）、[Baro](../Page/B1A4.md "wikilink")（[B1A4](../Page/B1A4.md "wikilink")）特別出演。
+15. [車範根](../Page/車範根.md "wikilink")特別出演。
+16. 宣傳電影《》，[劉在錫](../Page/劉在錫.md "wikilink")於本集以主持身份出演。
+17. 、、[盧士燕](../Page/盧士燕.md "wikilink")、、、、鄭孝妍、[Jia](../Page/孟佳.md "wikilink")([miss A](https://zh.wikipedia.org/wiki/miss_A "wikilink"))、[譽恩](https://zh.wikipedia.org/wiki/朴譽恩 "wikilink")、[宣美](https://zh.wikipedia.org/wiki/李宣美 "wikilink")、[李正信](../Page/CNBLUE.md "wikilink")（[CNBLUE](../Page/CNBLUE.md "wikilink")）、[金素英](../Page/金素英.md "wikilink")、[薔薇旅館](../Page/玫瑰旅館.md "wikilink")、、Garlixx、、、[首爾SK騎士](../Page/首爾SK騎士.md "wikilink")、[燦盛](https://zh.wikipedia.org/wiki/2PM "wikilink")（[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")）、[姜敏赫](../Page/姜敏赫.md "wikilink")（[CNBLUE](../Page/CNBLUE.md "wikilink")）、[AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")、申智勳、李哲雨、泰恩、、驚喜出演。
 18. 本集尾段提前播放下集。
-19. 概念來自[KBS月火劇](https://zh.wikipedia.org/wiki/SBS水木迷你連續劇 "wikilink")《[交響情人夢](../Page/交響情人夢_\(韓國電視劇\).md "wikilink")》，[鄭恩地](../Page/鄭恩地.md "wikilink")（[A
-    Pink](https://zh.wikipedia.org/wiki/A_Pink "wikilink")）因行程關係提前離開。
+19. 概念來自[KBS月火劇](https://zh.wikipedia.org/wiki/SBS水木迷你連續劇 "wikilink")《[交響情人夢](../Page/交響情人夢_\(韓國電視劇\).md "wikilink")》，[鄭恩地](../Page/鄭恩地.md "wikilink")（[A Pink](https://zh.wikipedia.org/wiki/A_Pink "wikilink")）因行程關係提前離開。
 20. 宣傳[SBS週末劇](../Page/SBS週末特別計劃劇.md "wikilink")《[美女的誕生](../Page/美女的誕生.md "wikilink")》。
 21. 本集原定於10月20日進行錄影，唯在錄影開始期間因天雨關係而取消該天錄影，改於10月27日進行錄影。
-22. 劉在錫、金鐘國、Gary、哈哈和李光洙於本集分別以女性角色「劉在順」（유재순） 、「金鐘淑」（김종숙） 、「Ga恩」（개은）
-    、「哈娜」（하나） 和「李光子」（이광자） 身份參與錄影，背部名牌上的名字亦有更改。
-23. 概念來自[TvN金土連續劇](https://zh.wikipedia.org/wiki/TvN金土連續劇 "wikilink")《[未生](../Page/未生.md "wikilink")》，、[Brad](../Page/Busker_Busker.md "wikilink")、、Greg
-    Priester、Mark Taylor、Chris Johnson、Jake、John特別出演及傳達任務。
+22. 劉在錫、金鐘國、Gary、哈哈和李光洙於本集分別以女性角色「劉在順」（유재순） 、「金鐘淑」（김종숙） 、「Ga恩」（개은） 、「哈娜」（하나） 和「李光子」（이광자） 身份參與錄影，背部名牌上的名字亦有更改。
+23. 概念來自[TvN金土連續劇](https://zh.wikipedia.org/wiki/TvN金土連續劇 "wikilink")《[未生](../Page/未生.md "wikilink")》，、[Brad](../Page/Busker_Busker.md "wikilink")、、Greg Priester、Mark Taylor、Chris Johnson、Jake、John特別出演及傳達任務。
 24. 宣傳電影《》。

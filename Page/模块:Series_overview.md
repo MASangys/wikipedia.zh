@@ -1,7 +1,6 @@
 \-- This module implements .
 
-require('Module:No globals') local yesno = require('Module:Yesno') local
-HTMLcolor = mw.loadData( 'Module:Color contrast/colors' )
+require('Module:No globals') local yesno = require('Module:Yesno') local HTMLcolor = mw.loadData( 'Module:Color contrast/colors' )
 
 -----
 
@@ -11,8 +10,7 @@ HTMLcolor = mw.loadData( 'Module:Color contrast/colors' )
 
 local SeriesOverview = {}
 
-function SeriesOverview.cellspan(SeasonEntries, SeasonEntries_ordered,
-key, cell)
+function SeriesOverview.cellspan(SeasonEntries, SeasonEntries_ordered, key, cell)
 
 `   local spanlength = 1`
 `   for i = cell+1, #SeasonEntries_ordered do`
@@ -47,8 +45,7 @@ end
 
 end
 
-\-- Function to add either text or  to cell function
-SeriesOverview.season_cell(text, frame)
+\-- Function to add either text or  to cell function SeriesOverview.season_cell(text, frame)
 
 `   local cell`
 `   `
@@ -67,8 +64,7 @@ SeriesOverview.season_cell(text, frame)
 
 end
 
-\-- Allow usages of  cells function
-SeriesOverview.series_attributes(infoParam)
+\-- Allow usages of  cells function SeriesOverview.series_attributes(infoParam)
 
 `   local entries = {}`
 `   local infoCell = mw.html.create('td')`
@@ -319,9 +315,7 @@ function SeriesOverview.new(frame, args)
 `                   seasonRow:tag('td')`
 `                       :attr('rowspan', splitSeason and splits or nil)`
 `                       :attr('colspan', entry.special and not entry.episodes and 3+numAuxCells or 1)`
-`                       :wikitext((entry.link and '`[`'``   ``..``
- ``(entry.linkT``   ``or``   ``season)``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._entry.link_.._' "wikilink")`' or (entry.linkT or season)) .. (entry.linkR or ''))`
+`                       :wikitext((entry.link and '`[`'``   ``..``   ``(entry.linkT``   ``or``   ``season)``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._entry.link_.._' "wikilink")`' or (entry.linkT or season)) .. (entry.linkR or ''))`
 `               end`
 `               `
 `               -- Aux cells`

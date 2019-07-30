@@ -1,5 +1,4 @@
-**中日韩统一表意文字扩展区E**（）是一个[Unicode标准](https://zh.wikipedia.org/wiki/Unicode "wikilink")，在2015年6月17日发布的Unicode
-8.0中被引入。
+**中日韩统一表意文字扩展区E**（）是一个[Unicode标准](https://zh.wikipedia.org/wiki/Unicode "wikilink")，在2015年6月17日发布的Unicode 8.0中被引入。
 
 扩展E区共收录5762个汉字，编码范围为 U+2B820-U+2CEAF。
 
@@ -27,10 +26,9 @@
   - 日本：
       - JK：日本国字集415字
   - 澳门：
-      - MAC：澳门信息系统字集48字
+      - MAC：澳門資訊系統字集48字
   - 台湾：
-      - TC：[CNS
-        11643-1992第](https://zh.wikipedia.org/wiki/國家標準中文交換碼 "wikilink")12字面（台湾人名用字）323字
+      - TC：[CNS 11643-1992第](https://zh.wikipedia.org/wiki/國家標準中文交換碼 "wikilink")12字面（台湾人名用字）323字
       - TD：CNS 11643-1992第13字面（台湾人名用字）595字
       - TE：CNS 11643-1992第14字面（台湾人名用字）339字
   - 美国：
@@ -51,10 +49,8 @@
 
 ### 來源
 
-  - [Unicode定義的PDF文件](http://www.unicode.org/charts/PDF/U2B820.pdf)
-    (English)
+  - [Unicode定義的PDF文件](http://www.unicode.org/charts/PDF/U2B820.pdf) (English)
 
-[Category:CJK](https://zh.wikipedia.org/wiki/Category:CJK "wikilink")
-[Category:Unicode區段](https://zh.wikipedia.org/wiki/Category:Unicode區段 "wikilink")
+[Category:CJK](https://zh.wikipedia.org/wiki/Category:CJK "wikilink") [Category:Unicode區段](https://zh.wikipedia.org/wiki/Category:Unicode區段 "wikilink")
 
 1.

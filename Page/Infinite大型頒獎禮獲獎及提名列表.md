@@ -1,4 +1,4 @@
-本條目列出韓國男子組合[INFINITE由出道至今之獲獎與提名](../Page/INFINITE.md "wikilink")。
+本條目列出韓國男子組合[INFINITE](../Page/INFINITE.md "wikilink")由出道至今之獲獎與提名。
 
 |  |
 |  |
@@ -845,9 +845,7 @@
 
 ## 音樂節目獎項
 
-成員個人活動（[金聖圭](../Page/金聖圭.md "wikilink")、[南優鉉](../Page/南優賢.md "wikilink")）、及子團（[INFINITE
-H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")、[INFINITE
-F](../Page/INFINITE_F.md "wikilink")、[Toheart](../Page/Toheart.md "wikilink")）所獲獎項請參閱各成員及子團之條目。
+成員個人活動（[金聖圭](../Page/金聖圭.md "wikilink")、[南優鉉](../Page/南優賢.md "wikilink")）、及子團（[INFINITE H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")、[INFINITE F](../Page/INFINITE_F.md "wikilink")、[Toheart](../Page/Toheart.md "wikilink")）所獲獎項請參閱各成員及子團之條目。
 
 <table>
 <thead>

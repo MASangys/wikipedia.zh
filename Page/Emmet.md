@@ -1,9 +1,6 @@
-**Emmet**（以前名为**Zen
-Coding**\[1\]）是一套面向[文本编辑器的](../Page/文本编辑器.md "wikilink")[插件](../Page/插件.md "wikilink")，它允许通过[内容辅助高速度的编写和编辑](../Page/内容辅助.md "wikilink")[HTML](../Page/HTML.md "wikilink")、[XML](../Page/XML.md "wikilink")、[XSL和其他结构化的代码格式](../Page/可扩展样式语言.md "wikilink")。此项目2008年由Vadim
-Makeev发起\[2\]，并由Sergey Chikuyonok和其他Emmet用户基于Zen Coding
-2.0的概念继续积极开发。\[3\]这套工具已经被一些高端的文本编辑器采纳，以及存在于Emmet团队开发或其他人独立实现的插件中。不过，Emmet独立于任何文本编辑器，它的引擎可以直接处理文本，而无需与任何特定软件相关。\[4\]
+**Emmet**（以前名为**Zen Coding**\[1\]）是一套面向[文本编辑器](../Page/文本编辑器.md "wikilink")的[插件](../Page/插件.md "wikilink")，它允许通过[内容辅助](../Page/内容辅助.md "wikilink")高速度的编写和编辑[HTML](../Page/HTML.md "wikilink")、[XML](../Page/XML.md "wikilink")、[XSL和其他结构化的代码格式](../Page/可扩展样式语言.md "wikilink")。此项目2008年由Vadim Makeev发起\[2\]，并由Sergey Chikuyonok和其他Emmet用户基于Zen Coding 2.0的概念继续积极开发。\[3\]这套工具已经被一些高端的文本编辑器采纳，以及存在于Emmet团队开发或其他人独立实现的插件中。不过，Emmet独立于任何文本编辑器，它的引擎可以直接处理文本，而无需与任何特定软件相关。\[4\]
 
-Emmet以[MIT許可證开源](../Page/MIT許可證.md "wikilink")。
+Emmet以[MIT許可證](../Page/MIT許可證.md "wikilink")开源。
 
 ## 功能
 
@@ -70,8 +67,7 @@ Emmet团队为以下文本编辑器开发了插件：
 
   - [Sublime Text](../Page/Sublime_Text.md "wikilink")（跨平台）
 
-  - [Visual
-    Studio](../Page/Microsoft_Visual_Studio.md "wikilink")（Windows）
+  - [Visual Studio](../Page/Microsoft_Visual_Studio.md "wikilink")（Windows）
 
   - [Visual Studio Code](../Page/Visual_Studio_Code.md "wikilink")（跨平台）
 
@@ -92,8 +88,7 @@ Emmet团队为以下文本编辑器开发了插件：
 下列文本编辑器的插件为独立开发，使用不同的Emmet引擎：
 
   - [Emacs](../Page/Emacs.md "wikilink")（跨平台）
-  - [IntelliJ
-    IDEA](../Page/IntelliJ_IDEA.md "wikilink")/[WebStorm](../Page/JetBrains.md "wikilink")/（跨平台）
+  - [IntelliJ IDEA](../Page/IntelliJ_IDEA.md "wikilink")/[WebStorm](../Page/JetBrains.md "wikilink")/（跨平台）
   - [RJ TextEd](../Page/RJ_TextEd.md "wikilink")（Windows）
   - Tincta Pro（Mac）
   - [Vim](../Page/Vim.md "wikilink")（跨平台）
@@ -103,24 +98,15 @@ Emmet团队为以下文本编辑器开发了插件：
 ## 外部链接
 
   - [Emmet project page](http://emmet.io/)
-  - [Zen Coding Google Project
-    Page](http://code.google.com/p/zen-coding/)
-  - [How to Use Zen
-    Coding](http://www.emeditor.com/text-editor-features/extensibility/plug-ins/snippets/how-to-use-zen-coding/)
+  - [Zen Coding Google Project Page](http://code.google.com/p/zen-coding/)
+  - [How to Use Zen Coding](http://www.emeditor.com/text-editor-features/extensibility/plug-ins/snippets/how-to-use-zen-coding/)
 
-[Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink")
-[Category:使用MIT许可证的软件](https://zh.wikipedia.org/wiki/Category:使用MIT许可证的软件 "wikilink")
+[Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink") [Category:使用MIT许可证的软件](https://zh.wikipedia.org/wiki/Category:使用MIT许可证的软件 "wikilink")
 
 1.
-2.  [First announcement of Zen HTML and Zen CSS bundles for
-    TextMate](http://pepelsbey.net/2008/08/zen-html/)
-3.  [Zen Coding 2.0
-    concept](http://pepelsbey.net/2009/04/zen-coding-concept/)
-4.  [Smashing Magazine: Zen Coding: A Speedy Way To Write HTML/CSS
-    Code](http://www.smashingmagazine.com/2009/11/21/zen-coding-a-new-way-to-write-html-code/)
-5.  [Monday By Noon: The Art of zen-coding: Bringing Snippets to a New
-    Level](https://mondaybynoon.com/the-art-of-zen-coding-bringing-snippets-to-a-new-level/)
-6.  [Download Squad
-    Review](http://www.downloadsquad.com/2010/04/30/if-you-code-html-zen-coding-will-change-your-life/)
-7.  [Smashing Magazine: Zen Coding: A Speedy Way to Write HTML/CSS
-    Code](http://www.smashingmagazine.com/2009/11/21/zen-coding-a-new-way-to-write-html-code/)
+2.  [First announcement of Zen HTML and Zen CSS bundles for TextMate](http://pepelsbey.net/2008/08/zen-html/)
+3.  [Zen Coding 2.0 concept](http://pepelsbey.net/2009/04/zen-coding-concept/)
+4.  [Smashing Magazine: Zen Coding: A Speedy Way To Write HTML/CSS Code](http://www.smashingmagazine.com/2009/11/21/zen-coding-a-new-way-to-write-html-code/)
+5.  [Monday By Noon: The Art of zen-coding: Bringing Snippets to a New Level](https://mondaybynoon.com/the-art-of-zen-coding-bringing-snippets-to-a-new-level/)
+6.  [Download Squad Review](http://www.downloadsquad.com/2010/04/30/if-you-code-html-zen-coding-will-change-your-life/)
+7.  [Smashing Magazine: Zen Coding: A Speedy Way to Write HTML/CSS Code](http://www.smashingmagazine.com/2009/11/21/zen-coding-a-new-way-to-write-html-code/)

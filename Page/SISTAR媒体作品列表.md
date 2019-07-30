@@ -1,4 +1,4 @@
-《**SISTAR媒体作品列表**》主要列举[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女子音乐组合](../Page/女子音乐组合.md "wikilink")[SISTAR历年参与各类电视节目](../Page/SISTAR.md "wikilink")、固定节目及电视剧。
+《**SISTAR媒体作品列表**》主要列举[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女子音乐组合](../Page/女子音乐组合.md "wikilink")[SISTAR](../Page/SISTAR.md "wikilink")历年参与各类电视节目、固定节目及电视剧。
 
 ## 專屬電視節目
 
@@ -123,7 +123,7 @@
 | 日期                     | 電視頻道                                                    | 節目名稱                                                                | 參演成員  | 集數         | 備註                                                                                                                                                                                                                                                                                  |
 | 2011年                  | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")   | 《不朽的名曲2》                                                            | 孝琳    | 第1-15集、25集 | 固定成員                                                                                                                                                                                                                                                                                |
 | 2011年9月2日－11月17日       | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") Joy | 《[Hello Baby](https://zh.wikipedia.org/wiki/Hello_Baby "wikilink")》 | 全體    | 12集        | 與[Super Junior](../Page/Super_Junior.md "wikilink")[利特](../Page/利特.md "wikilink")                                                                                                                                                                                                   |
-| 2011-2012年             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")   | 《[青春不敗2](../Page/青春不敗.md "wikilink")》                               | 寶拉    | 46集        | G5成員                                                                                                                                                                                                                                                                                |
+| 2011-2012年             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")   | 《[青春不敗](../Page/青春不敗.md "wikilink")2》                               | 寶拉    | 46集        | G5成員                                                                                                                                                                                                                                                                                |
 | 2013年8月23日-9月13日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")     | 《Star Diving Show Splash》                                           | 韶宥    | 3集         | 固定成員                                                                                                                                                                                                                                                                                |
 | 2013年11月18日-2014年2月2日  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")     | 《時尚王Korea》                                                          | 寶拉    |            |                                                                                                                                                                                                                                                                                     |
 | 2013年11月27日-2014年2月19日 | [JTBC](../Page/JTBC.md "wikilink")                      | 《厲害的婆家》                                                             | 韶宥    | 13集        |                                                                                                                                                                                                                                                                                     |
@@ -673,5 +673,4 @@
 
 ## 參考資料
 
-[Category:SISTAR](https://zh.wikipedia.org/wiki/Category:SISTAR "wikilink")
-[Category:作品列表](https://zh.wikipedia.org/wiki/Category:作品列表 "wikilink")
+[Category:SISTAR](https://zh.wikipedia.org/wiki/Category:SISTAR "wikilink") [Category:作品列表](https://zh.wikipedia.org/wiki/Category:作品列表 "wikilink")

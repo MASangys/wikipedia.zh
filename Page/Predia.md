@@ -1,21 +1,10 @@
-***predia*** ( プレディア
-)是[日本的女子](../Page/日本.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")。宣傳語是「只是可愛已經不夠了，歡迎來到大人的遊樂場！」（)。\[1\]
-[PLATINUM
-PASSPORT所屬](https://zh.wikipedia.org/wiki/w:ja:プラチナムプロダクション "wikilink")，唱片公司為[日本皇冠旗下的品牌CROWN](https://zh.wikipedia.org/wiki/w:ja:日本クラウン "wikilink")
-GOLD。
+***predia*** ( プレディア )是[日本](../Page/日本.md "wikilink")的女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")。宣傳語是「只是可愛已經不夠了，歡迎來到大人的遊樂場！」（)。\[1\] [PLATINUM PASSPORT所屬](https://zh.wikipedia.org/wiki/w:ja:プラチナムプロダクション "wikilink")，唱片公司為[日本皇冠旗下的品牌CROWN](https://zh.wikipedia.org/wiki/w:ja:日本クラウン "wikilink") GOLD。
 
 ## 概要
 
 於2010年11月23日，作為**[PASSPO☆](../Page/PASSPO☆.md "wikilink")**的姊妹團體於**PASSPO☆**的單獨Live[開場表演宣布結成](https://zh.wikipedia.org/wiki/w:en:opening_act "wikilink")。起先的團體名稱是「**pre-dia**」，取自[鑽石](https://zh.wikipedia.org/wiki/鑽石 "wikilink")(diamond)的[原石](https://zh.wikipedia.org/wiki/礦石 "wikilink")(pre-)的含意；2011年12月，將中間連字號(-)去除，正式名稱變更為「**predia**」，沿用至今。由於成員年齡比起常見的偶像團體要長許多，常自稱大人偶像（大人アイドル）\[2\]。
-編曲部分多以強烈的[電子合成器構成的](https://zh.wikipedia.org/wiki/電子合成器 "wikilink")[舞曲作為基調](../Page/舞曲.md "wikilink")，不時搭上[電吉他演奏的方式呈現](https://zh.wikipedia.org/wiki/電吉他 "wikilink")，另一方面亦有[抒情歌曲與較為輕快的歌曲](https://zh.wikipedia.org/wiki/w:ja:叙情歌 "wikilink")。將[Live演唱會稱為](https://zh.wikipedia.org/wiki/演唱會 "wikilink")「[party](../Page/派對.md "wikilink")」（），演出時成員的穿著以[高跟鞋與露肩剪裁的表演服為主](../Page/高跟鞋.md "wikilink")。經過數年[地下時期以及團體部分成員的人事更動後](../Page/獨立音樂.md "wikilink")，2014年8月6日透過日本皇冠發行單曲「**」，正式主流出道。
-較具規模的公演，始於2016年年尾舉行的成團6周年紀念巡迴公演「**predia 6th Anniversary
-tour**」，巡迴日本全國5城市。\[3\]2017年4月起，為配合主流第6張單曲「**」的發布，於日本國內舉辦單曲發布巡迴公演「**predia
-release tour 2017
-～ワインとかけて、女と解く。その心は～**」，並首度踏足除首都圈與大阪、名古屋等人口集中地區以外的縣份進行單獨演出。\[4\]2017年9月起，伴隨主流第7張單曲「*Ms.Frontier*」發布，並紀念組合迎來7周年，舉辦成團7周年紀念巡迴公演「**predia
-7th Anniversar Tour**」，組合在此次巡演中首度登陸北海道進行公演。\[5\]2018年的秋季巡演「**predia tour
-"THE ONE"**」中，於首站福岡宣布將於同年12月19日發行主流出道以來的首張精選輯「*Best of predia "THE
-ONE"*」\[6\]，2019年2月2日於東京TOKYO DOME CITY
-HALL舉行的同巡演最終公演，宣布青山、林、岡村、松本等4名成員自團體畢業。\[7\]
+編曲部分多以強烈的[電子合成器構成的](https://zh.wikipedia.org/wiki/電子合成器 "wikilink")[舞曲](../Page/舞曲.md "wikilink")作為基調，不時搭上[電吉他演奏的方式呈現](https://zh.wikipedia.org/wiki/電吉他 "wikilink")，另一方面亦有[抒情歌曲與較為輕快的歌曲](https://zh.wikipedia.org/wiki/w:ja:叙情歌 "wikilink")。將[Live演唱會稱為](https://zh.wikipedia.org/wiki/演唱會 "wikilink")「[party](../Page/派對.md "wikilink")」（），演出時成員的穿著以[高跟鞋](../Page/高跟鞋.md "wikilink")與露肩剪裁的表演服為主。經過數年[地下時期以及團體部分成員的人事更動後](../Page/獨立音樂.md "wikilink")，2014年8月6日透過日本皇冠發行單曲「**」，正式主流出道。
+較具規模的公演，始於2016年年尾舉行的成團6周年紀念巡迴公演「**predia 6th Anniversary tour**」，巡迴日本全國5城市。\[3\]2017年4月起，為配合主流第6張單曲「**」的發布，於日本國內舉辦單曲發布巡迴公演「**predia release tour 2017 ～ワインとかけて、女と解く。その心は～**」，並首度踏足除首都圈與大阪、名古屋等人口集中地區以外的縣份進行單獨演出。\[4\]2017年9月起，伴隨主流第7張單曲「*Ms.Frontier*」發布，並紀念組合迎來7周年，舉辦成團7周年紀念巡迴公演「**predia 7th Anniversar Tour**」，組合在此次巡演中首度登陸北海道進行公演。\[5\]2018年的秋季巡演「**predia tour "THE ONE"**」中，於首站福岡宣布將於同年12月19日發行主流出道以來的首張精選輯「*Best of predia "THE ONE"*」\[6\]，2019年2月2日於東京TOKYO DOME CITY HALL舉行的同巡演最終公演，宣布青山、林、岡村、松本等4名成員自團體畢業。\[7\]
 
 ## 成員
 
@@ -814,21 +803,16 @@ CD</p></td>
 
 ### 麻糬加起司（）
 
-湊與岡村、村上三人在2013年12月，與同事務所的女子樂團[BAND-MAID成員的廣瀨茜](../Page/BAND-MAID.md "wikilink")、遠乃歌波共組[原樂器伴奏演唱團體](https://zh.wikipedia.org/wiki/原音樂 "wikilink")「****」，由湊與村上主唱、岡村負責鍵盤樂器、廣瀨擔當木箱鼓、遠乃彈奏吉他。並曾於2015年9月時發行單曲「**」。\[31\]
-\=== Odd Eye（） ===
-澤口自2016年開始，固定擔當深夜網路廣播節目「」的每週二助理主持人。以此為契機，澤口與該節目的冠名主持人鷲崎健，以及週三助理主持人青木佑磨三人組成音樂團體「****」。並在2017年9月22日，透過節目所屬廣播公司[文化放送發行原創音樂CD](https://zh.wikipedia.org/wiki/株式會社文化放送 "wikilink")「**」。\[32\]
+湊與岡村、村上三人在2013年12月，與同事務所的女子樂團[BAND-MAID](../Page/BAND-MAID.md "wikilink")成員的廣瀨茜、遠乃歌波共組[原樂器伴奏演唱團體](https://zh.wikipedia.org/wiki/原音樂 "wikilink")「****」，由湊與村上主唱、岡村負責鍵盤樂器、廣瀨擔當木箱鼓、遠乃彈奏吉他。並曾於2015年9月時發行單曲「**」。\[31\]
+\=== Odd Eye（） === 澤口自2016年開始，固定擔當深夜網路廣播節目「」的每週二助理主持人。以此為契機，澤口與該節目的冠名主持人鷲崎健，以及週三助理主持人青木佑磨三人組成音樂團體「****」。並在2017年9月22日，透過節目所屬廣播公司[文化放送發行原創音樂CD](https://zh.wikipedia.org/wiki/株式會社文化放送 "wikilink")「**」。\[32\]
 
 ## 節目出演
 
 ### 電視劇
 
 **2015年**
-\***[給夢的女孩](https://zh.wikipedia.org/wiki/w:ja:夢を与える "wikilink")**\[33\]（暫譯）（2015年5月16日
--
-6月6日、[WOWOW](../Page/WOWOW.md "wikilink")）-青山、林、前田、松本、湊、村上等6人飾演[夏帆在劇中所屬的二線女子團體](../Page/夏帆.md "wikilink")「ニャンギャル7」的團員，岡村、櫻子、澤口、水野在劇中亦有客串演出。
-**2017年**
-\***[東京妄想女子](../Page/東京白日夢女.md "wikilink")**\[34\]
-（2017年1月18日-、[NTV](../Page/日本電視台.md "wikilink")）-前田、松本（客串）
+\***[給夢的女孩](https://zh.wikipedia.org/wiki/w:ja:夢を与える "wikilink")**\[33\]（暫譯）（2015年5月16日 - 6月6日、[WOWOW](../Page/WOWOW.md "wikilink")）-青山、林、前田、松本、湊、村上等6人飾演[夏帆](../Page/夏帆.md "wikilink")在劇中所屬的二線女子團體「ニャンギャル7」的團員，岡村、櫻子、澤口、水野在劇中亦有客串演出。 **2017年**
+\***[東京妄想女子](../Page/東京白日夢女.md "wikilink")**\[34\] （2017年1月18日-、[NTV](../Page/日本電視台.md "wikilink")）-前田、松本（客串）
 
 ### 綜藝節目
 
@@ -836,8 +820,7 @@ CD</p></td>
 
 ### 網路直播
 
-  - **prediaの大人のオモチャ箱** （隔週四出演）\[35\] （2014年4月15日
-    -、[SHOWROOM](https://zh.wikipedia.org/wiki/w:ja:SHOWROOM "wikilink")）
+  - **prediaの大人のオモチャ箱** （隔週四出演）\[35\] （2014年4月15日 -、[SHOWROOM](https://zh.wikipedia.org/wiki/w:ja:SHOWROOM "wikilink")）
 
 ## 定期公演
 
@@ -854,8 +837,7 @@ CD</p></td>
 12月28日、東京・Zepp Tokyo
 
 **2017年**
-\***predia release tour 2017 〜ワインとかけて、女と解く。その心は〜**
-4月16日、千葉・柏PALOOZA（2回公演）
+\***predia release tour 2017 〜ワインとかけて、女と解く。その心は〜** 4月16日、千葉・柏PALOOZA（2回公演）
 4月30日、仙台・CLUB JUNKBOX（2回公演）
 5月3日、福岡・BEAT STATION（2回公演）
 5月5日、大阪・ESAKA MUSE（2回公演）
@@ -889,8 +871,7 @@ CD</p></td>
 12月2日、東京・ヒューリックホール東京
 
 **2019年**
-\***predia tour "THE ONE"**(Continued) 2月2日、東京・TOKYO DOME CITY HALL
-(Tour Final)
+\***predia tour "THE ONE"**(Continued) 2月2日、東京・TOKYO DOME CITY HALL (Tour Final)
 
 ## 外部連結
 
@@ -906,115 +887,74 @@ CD</p></td>
 
 ## 資料來源
 
-[Category:predia](https://zh.wikipedia.org/wiki/Category:predia "wikilink")
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
-[Category:PLATINUM_PRODUCTION所屬藝人](https://zh.wikipedia.org/wiki/Category:PLATINUM_PRODUCTION所屬藝人 "wikilink")
-[Category:日本CROWN所屬音樂團體](https://zh.wikipedia.org/wiki/Category:日本CROWN所屬音樂團體 "wikilink")
+[Category:predia](https://zh.wikipedia.org/wiki/Category:predia "wikilink") [Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink") [Category:PLATINUM_PRODUCTION所屬藝人](https://zh.wikipedia.org/wiki/Category:PLATINUM_PRODUCTION所屬藝人 "wikilink") [Category:日本CROWN所屬音樂團體](https://zh.wikipedia.org/wiki/Category:日本CROWN所屬音樂團體 "wikilink")
 
-1.  [predia Official Site |
-    Profile](http://predia-party.jp/biography)，2016年7月29日查詢。
+1.  [predia Official Site | Profile](http://predia-party.jp/biography)，2016年7月29日查詢。
 
 2.
-3.  [- 偶像團體predia舉辦全國巡迴演會 最終站場地再次選擇Zepp Tokyo -
-    夢樂園日本藝能娛樂綜合資訊網](http://www.jparadise.com.tw/mynews/mynews_view_tw/621)，2016年8月3日查詢。
+3.  [- 偶像團體predia舉辦全國巡迴演會 最終站場地再次選擇Zepp Tokyo - 夢樂園日本藝能娛樂綜合資訊網](http://www.jparadise.com.tw/mynews/mynews_view_tw/621)，2016年8月3日查詢。
 
-4.  [predia Official Site | 【全国ツアー特設ページ】predia release tour 2017
-    ～ワインとかけて、女と解く。その心は～](http://predia-party.jp/news/69159)
-    ，2017年4月17日查詢。
+4.  [predia Official Site | 【全国ツアー特設ページ】predia release tour 2017 ～ワインとかけて、女と解く。その心は～](http://predia-party.jp/news/69159) ，2017年4月17日查詢。
 
-5.  [predia、Jazzin'park提供のニューシングルリリース＆7周年ツアー開催 -
-    音楽ナタリー](http://natalie.mu/music/news/243683)，2017年11月25日查詢。
+5.  [predia、Jazzin'park提供のニューシングルリリース＆7周年ツアー開催 - 音楽ナタリー](http://natalie.mu/music/news/243683)，2017年11月25日查詢。
 
-6.  [predia、ベスト盤発売＆TDCホールでツアーファイナル開催決定 |
-    BARKS](https://www.barks.jp/news/?id=1000159567)，2018年9月29日查詢。
+6.  [predia、ベスト盤発売＆TDCホールでツアーファイナル開催決定 | BARKS](https://www.barks.jp/news/?id=1000159567)，2018年9月29日查詢。
 
-7.  [【ライブレポート】prediaの4人が満員のTDCホールにて笑顔で卒業、新体制初シングルが決定（写真16枚） -
-    音楽ナタリー](https://natalie.mu/music/news/318538)，2019年3月26日查詢。
+7.  [【ライブレポート】prediaの4人が満員のTDCホールにて笑顔で卒業、新体制初シングルが決定（写真16枚） - 音楽ナタリー](https://natalie.mu/music/news/318538)，2019年3月26日查詢。
 
 8.
-9.  [predia (プレディア) - プロフィール｜日本クラウン株式会社
-    クラウンレコード](http://www.crownrecord.co.jp/artist/predia/profile.html)，2016年10月14日查詢。
+9.  [predia (プレディア) - プロフィール｜日本クラウン株式会社 クラウンレコード](http://www.crownrecord.co.jp/artist/predia/profile.html)，2016年10月14日查詢。
 
-10. [Dia Love | pre-dia | ORICON
-    STYLE](http://www.oricon.co.jp/prof/532667/products/904540/2/)，2016年7月29日查詢。
+10. [Dia Love | pre-dia | ORICON STYLE](http://www.oricon.co.jp/prof/532667/products/904540/2/)，2016年7月29日查詢。
 
-11. [Dream Of Love | pre-dia | ORICON
-    STYLE](http://www.oricon.co.jp/prof/532667/products/925982/2/)，2016年7月29日查詢。
+11. [Dream Of Love | pre-dia | ORICON STYLE](http://www.oricon.co.jp/prof/532667/products/925982/2/)，2016年7月29日查詢。
 
-12. [ハニーB | pre-dia | ORICON
-    STYLE](http://www.oricon.co.jp/prof/532667/products/939242/2/)，2016年7月29日查詢。
+12. [ハニーB | pre-dia | ORICON STYLE](http://www.oricon.co.jp/prof/532667/products/939242/2/)，2016年7月29日查詢。
 
-13. [Crazy Cat | pre-dia | ORICON
-    STYLE](http://www.oricon.co.jp/prof/532667/products/1018516/1/)，2016年7月29日查詢。
+13. [Crazy Cat | pre-dia | ORICON STYLE](http://www.oricon.co.jp/prof/532667/products/1018516/1/)，2016年7月29日查詢。
 
-14. [Invitation | pre-dia | ORICON
-    STYLE](http://www.oricon.co.jp/prof/532667/products/961366/1/)，2016年7月29日查詢。
+14. [Invitation | pre-dia | ORICON STYLE](http://www.oricon.co.jp/prof/532667/products/961366/1/)，2016年7月29日查詢。
 
-15. [Escort me? | pre-dia | ORICON
-    STYLE](http://www.oricon.co.jp/prof/532667/products/999376/1/)，2016年7月29日查詢。
+15. [Escort me? | pre-dia | ORICON STYLE](http://www.oricon.co.jp/prof/532667/products/999376/1/)，2016年7月29日查詢。
 
-16. [Best of predia 2010-2013～Reception～ | pre-dia | ORICON
-    STYLE](http://www.oricon.co.jp/prof/532667/products/1072488/1/)，2016年7月29日查詢。
+16. [Best of predia 2010-2013～Reception～ | pre-dia | ORICON STYLE](http://www.oricon.co.jp/prof/532667/products/1072488/1/)，2016年7月29日查詢。
 
-17. [predia (プレディア) - ディスコグラフィ｜日本クラウン株式会社
-    クラウンレコード](http://www.crownrecord.co.jp/artist/predia/discography.html)，2016年11月06日查詢。
+17. [predia (プレディア) - ディスコグラフィ｜日本クラウン株式会社 クラウンレコード](http://www.crownrecord.co.jp/artist/predia/discography.html)，2016年11月06日查詢。
 
-18. [ | pre-dia | ORICON
-    STYLE](http://www.oricon.co.jp/prof/532667/products/1078773/1/)，2016年7月29日查詢。
+18. [ | pre-dia | ORICON STYLE](http://www.oricon.co.jp/prof/532667/products/1078773/1/)，2016年7月29日查詢。
 
-19. [ | pre-dia | ORICON
-    STYLE](http://www.oricon.co.jp/prof/532667/products/1100227/1/)，2016年7月29日查詢。
+19. [ | pre-dia | ORICON STYLE](http://www.oricon.co.jp/prof/532667/products/1100227/1/)，2016年7月29日查詢。
 
-20. [ | pre-dia | ORICON
-    STYLE](http://www.oricon.co.jp/prof/532667/products/1132852/1/)，2016年7月29日查詢。
+20. [ | pre-dia | ORICON STYLE](http://www.oricon.co.jp/prof/532667/products/1132852/1/)，2016年7月29日查詢。
 
-21. [ | pre-dia | ORICON
-    STYLE](http://www.oricon.co.jp/prof/532667/products/1156447/1/)，2016年7月29日查詢。
+21. [ | pre-dia | ORICON STYLE](http://www.oricon.co.jp/prof/532667/products/1156447/1/)，2016年7月29日查詢。
 
-22. [ | pre-dia | ORICON
-    NEWS](http://www.oricon.co.jp/prof/532667/products/1208495/1/)，2017年2月1日查詢。
+22. [ | pre-dia | ORICON NEWS](http://www.oricon.co.jp/prof/532667/products/1208495/1/)，2017年2月1日查詢。
 
-23. [ | pre-dia | ORICON
-    NEWS](http://www.oricon.co.jp/prof/532667/products/1228893/1/)，2017年6月29日查詢。
+23. [ | pre-dia | ORICON NEWS](http://www.oricon.co.jp/prof/532667/products/1228893/1/)，2017年6月29日查詢。
 
-24. [Ms.Frontier(Type-A) | pre-dia | ORICON
-    NEWS](https://www.oricon.co.jp/prof/532667/products/1245813/1/)，2017年11月1日查詢。
+24. [Ms.Frontier(Type-A) | pre-dia | ORICON NEWS](https://www.oricon.co.jp/prof/532667/products/1245813/1/)，2017年11月1日查詢。
 
-25. [カーテンコール(Type-A) | pre-dia | ORICON
-    NEWS](https://www.oricon.co.jp/prof/532667/products/1283941/1/)，2018年7月14日查詢。
+25. [カーテンコール(Type-A) | pre-dia | ORICON NEWS](https://www.oricon.co.jp/prof/532667/products/1283941/1/)，2018年7月14日查詢。
 
-26. [孤高のダリアにくちづけを(Type-A) | pre-dia | ORICON
-    STYLE](http://www.oricon.co.jp/prof/532667/products/1108872/1/)，2016年7月29日查詢。
+26. [孤高のダリアにくちづけを(Type-A) | pre-dia | ORICON STYLE](http://www.oricon.co.jp/prof/532667/products/1108872/1/)，2016年7月29日查詢。
 
-27. [predia : 〔LIVE REPORT〕 predia，再度挑戰新宿BLAZE公演 | BARKS
-    News](http://www.zh-tw.barks.jp/news/?id=1000003593) ，2017年11月25日查詢。
+27. [predia : 〔LIVE REPORT〕 predia，再度挑戰新宿BLAZE公演 | BARKS News](http://www.zh-tw.barks.jp/news/?id=1000003593) ，2017年11月25日查詢。
 
-28. [ファビュラス＜Type-A＞ | pre-dia | ORICON
-    NEWS](https://www.oricon.co.jp/prof/532667/products/1260927/1/)，2018年3月5日查詢。
+28. [ファビュラス＜Type-A＞ | pre-dia | ORICON NEWS](https://www.oricon.co.jp/prof/532667/products/1260927/1/)，2018年3月5日查詢。
 
-29. [白夜のヴィオラにいだかれて(TYPE-A) | pre-dia | ORICON
-    STYLE](http://www.oricon.co.jp/prof/532667/products/1176791/1/)，2016年7月29日查詢。
+29. [白夜のヴィオラにいだかれて(TYPE-A) | pre-dia | ORICON STYLE](http://www.oricon.co.jp/prof/532667/products/1176791/1/)，2016年7月29日查詢。
 
-30. [Best of predia”THE ONE”(Type-A) | pre-dia | ORICON
-    NEWS](https://www.oricon.co.jp/prof/532667/products/1297238/1/)，2018年9月28日查詢。
+30. [Best of predia”THE ONE”(Type-A) | pre-dia | ORICON NEWS](https://www.oricon.co.jp/prof/532667/products/1297238/1/)，2018年9月28日查詢。
 
-31. [もちとちーずオフィシャルブログ Powered by
-    Ameba](http://ameblo.jp/mochitocheeze/)，2017年4月23日查詢。
+31. [もちとちーずオフィシャルブログ Powered by Ameba](http://ameblo.jp/mochitocheeze/)，2017年4月23日查詢。
 
-32. [番組からお知らせ！（CD予約受付中＆イベント開催決定） -
-    鷲崎健のヨルナイト×ヨルナイト](http://www.joqr.co.jp/yonayona/2017/10/cd.html)，2017年10月2日查詢。
+32. [番組からお知らせ！（CD予約受付中＆イベント開催決定） - 鷲崎健のヨルナイト×ヨルナイト](http://www.joqr.co.jp/yonayona/2017/10/cd.html)，2017年10月2日查詢。
 
-33. [predia、犬童一心監督作品・WOWOW連続ドラマW「夢を与える」に出演決定！｜prediaオフィシャルブログ Powered by
-    Ameba](http://ameblo.jp/pre-dia/entry-12002607719.html)，2017年1月17日查詢。
+33. [predia、犬童一心監督作品・WOWOW連続ドラマW「夢を与える」に出演決定！｜prediaオフィシャルブログ Powered by Ameba](http://ameblo.jp/pre-dia/entry-12002607719.html)，2017年1月17日查詢。
 
 34. [【1月18日メディア出演情報】](https://twitter.com/pre_dia/status/821342978530607104)predia官方推特2017年1月17日推文
 
-35. [prediaの大人のオモチャ箱 - SHOWROOM](https://www.showroom-live.com/predia)
-    predia的SHOWROOM直播頻道。
+35. [prediaの大人のオモチャ箱 - SHOWROOM](https://www.showroom-live.com/predia) predia的SHOWROOM直播頻道。
 
-36. [定例公演 | H.I.P. HAYASHI INTERNATIONAL
-    PROMOTION](http://www.hipjpn.co.jp/archives/43007) 公演資訊。
+36. [定例公演 | H.I.P. HAYASHI INTERNATIONAL PROMOTION](http://www.hipjpn.co.jp/archives/43007) 公演資訊。

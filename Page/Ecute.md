@@ -26,8 +26,7 @@ ecute的意思是eki（車站）、center（中心處）、universal（綜合）
 
 ## 年表
 
-  - 2001年（[平成](../Page/平成.md "wikilink")13年) 1月 -
-    JR東日本事業創造本部成立「立川站、大宮站開發專案團隊」（2004年更名為「站內商場專案團隊」）
+  - 2001年（[平成](../Page/平成.md "wikilink")13年) 1月 - JR東日本事業創造本部成立「立川站、大宮站開發專案團隊」（2004年更名為「站內商場專案團隊」）
   - 2003年（平成15年）
       - 4月 - 第1回JR東日本集團內社員公開招募
       - 9月12日 - 「株式會社JR東日本車站零售」成立
@@ -63,38 +62,21 @@ ecute的意思是eki（車站）、center（中心處）、universal（綜合）
 
 ## ecute所在的車站
 
-無特別記載的商場皆由JR東日本車站零售開發營運。
-[Ecute_Omiya.jpg](https://zh.wikipedia.org/wiki/File:Ecute_Omiya.jpg "fig:Ecute_Omiya.jpg")
-[Ueno_Sta_ecute.jpg](https://zh.wikipedia.org/wiki/File:Ueno_Sta_ecute.jpg "fig:Ueno_Sta_ecute.jpg")
+無特別記載的商場皆由JR東日本車站零售開發營運。 [Ecute_Omiya.jpg](https://zh.wikipedia.org/wiki/File:Ecute_Omiya.jpg "fig:Ecute_Omiya.jpg") [Ueno_Sta_ecute.jpg](https://zh.wikipedia.org/wiki/File:Ueno_Sta_ecute.jpg "fig:Ueno_Sta_ecute.jpg")
 
-  - [大宮站](https://zh.wikipedia.org/wiki/大宮站_\(埼玉縣\) "wikilink") -
-    位於中央剪票口（南）內，占地2300m<sup>2</sup>，76店鋪。商店概念是「Market
-    Avenue」、環境概念是「Parkside Market」\[6\]。
+  - [大宮站](https://zh.wikipedia.org/wiki/大宮站_\(埼玉縣\) "wikilink") - 位於中央剪票口（南）內，占地2300m<sup>2</sup>，76店鋪。商店概念是「Market Avenue」、環境概念是「Parkside Market」\[6\]。
   - [品川站](https://zh.wikipedia.org/wiki/品川站 "wikilink")（分為兩個營運主體）
-      - エキュート品川 - 位於中央剪票口內，占地1600m<sup>2</sup>，46店鋪。共有兩層。商店概念是「Premium
-        Private」、環境概念是は「J-Style Terrace」\[7\]。
-      - ecute品川 South\[8\] -
-        位於中央剪票口內（舊Dila品川），占地1800m<sup>2</sup>，39店鋪。商店概念是「Smart
-        Heartful Style」、環境概念是「Shinagawa Sunny Gardens」。開發營運為JR東日本零售網。
-  - [立川站](../Page/立川站.md "wikilink") -
-    位於南剪票口內外，占地4300m<sup>2</sup>，88店鋪。共有四層。商店概念是「自我訂製」（自分カスタマイズ）、環境概念是「My
-    Habit」。
-  - [日暮里站](https://zh.wikipedia.org/wiki/日暮里站 "wikilink") -
-    位於北剪票口內，占地380m<sup>2</sup>，17店鋪。商店概念是「不易流行」、環境概念是「下町摩登」。車站改建中，預計將繼續擴大營業。
-  - [東京站](https://zh.wikipedia.org/wiki/東京站 "wikilink") -
-    位於1樓剪票口內南區（舊Dila東京Media區），占地1300m<sup>2</sup>，31店鋪。商店概念是「日本Re-STANDARD」、環境概念是「ennichi（緣日）」\[9\]<ref>
+      - エキュート品川 - 位於中央剪票口內，占地1600m<sup>2</sup>，46店鋪。共有兩層。商店概念是「Premium Private」、環境概念是は「J-Style Terrace」\[7\]。
+      - ecute品川 South\[8\] - 位於中央剪票口內（舊Dila品川），占地1800m<sup>2</sup>，39店鋪。商店概念是「Smart Heartful Style」、環境概念是「Shinagawa Sunny Gardens」。開發營運為JR東日本零售網。
+  - [立川站](../Page/立川站.md "wikilink") - 位於南剪票口內外，占地4300m<sup>2</sup>，88店鋪。共有四層。商店概念是「自我訂製」（自分カスタマイズ）、環境概念是「My Habit」。
+  - [日暮里站](https://zh.wikipedia.org/wiki/日暮里站 "wikilink") - 位於北剪票口內，占地380m<sup>2</sup>，17店鋪。商店概念是「不易流行」、環境概念是「下町摩登」。車站改建中，預計將繼續擴大營業。
+  - [東京站](https://zh.wikipedia.org/wiki/東京站 "wikilink") - 位於1樓剪票口內南區（舊Dila東京Media區），占地1300m<sup>2</sup>，31店鋪。商店概念是「日本Re-STANDARD」、環境概念是「ennichi（緣日）」\[9\]<ref>
 
-[東京駅サウスコートから新たなニッポンを発信](http://www.ecute.jp/pdf/100303-1.pdf)
-JR東日本ステーションリテイリング・プレスリリース2010年3月3日</ref>\[10\]。
+[東京駅サウスコートから新たなニッポンを発信](http://www.ecute.jp/pdf/100303-1.pdf)  JR東日本ステーションリテイリング・プレスリリース2010年3月3日</ref>\[10\]。
 
-  - [上野站](https://zh.wikipedia.org/wiki/上野站 "wikilink") -
-    位於3樓剪票口內（舊Dila上野），占地4800m<sup>2</sup>，78店鋪。商店概念是「每日工作室之旅」、環境概念是「Artisan
-    Promenade（アルチザン プロムナード）」\[11\]\[12\]。開發營運為JR東日本零售網\[13\]。
-  - [赤羽站](../Page/赤羽站.md "wikilink") -
-    位於北剪票口內（含舊ARCARD赤羽1），占地約2100m<sup>2</sup>，55店鋪。商店概念是「心Reset」、環境概念是「PASSAGE」。開發營運為JR東日本都市開發
-    \[14\]。
-  - [萬世橋站](https://zh.wikipedia.org/wiki/萬世橋站 "wikilink") - mAAch
-    ecute神田萬世橋，舊萬世橋站高架橋、車站月台內10店鋪等期間限定店鋪。為[交通博物館用地](https://zh.wikipedia.org/wiki/交通博物館 "wikilink")。是以歷史建築物再生作為營運概念。
+  - [上野站](https://zh.wikipedia.org/wiki/上野站 "wikilink") - 位於3樓剪票口內（舊Dila上野），占地4800m<sup>2</sup>，78店鋪。商店概念是「每日工作室之旅」、環境概念是「Artisan Promenade（アルチザン プロムナード）」\[11\]\[12\]。開發營運為JR東日本零售網\[13\]。
+  - [赤羽站](../Page/赤羽站.md "wikilink") - 位於北剪票口內（含舊ARCARD赤羽1），占地約2100m<sup>2</sup>，55店鋪。商店概念是「心Reset」、環境概念是「PASSAGE」。開發營運為JR東日本都市開發 \[14\]。
+  - [萬世橋站](https://zh.wikipedia.org/wiki/萬世橋站 "wikilink") - mAAch ecute神田萬世橋，舊萬世橋站高架橋、車站月台內10店鋪等期間限定店鋪。為[交通博物館用地](https://zh.wikipedia.org/wiki/交通博物館 "wikilink")。是以歷史建築物再生作為營運概念。
 
 {{-}}
 
@@ -102,8 +84,7 @@ JR東日本ステーションリテイリング・プレスリリース2010年3�
 
 **株式會社JR東日本車站零售**（）是JR東日本集團所屬企業，總部位於東京都。
 
-經營ecute各店（上野店、品川Soth店、赤羽店除外）、エキタマ（[田町站](https://zh.wikipedia.org/wiki/田町車站_\(東京都\) "wikilink")）及mAAch
-ecute（[萬世橋站](https://zh.wikipedia.org/wiki/萬世橋站 "wikilink")）。
+經營ecute各店（上野店、品川Soth店、赤羽店除外）、エキタマ（[田町站](https://zh.wikipedia.org/wiki/田町車站_\(東京都\) "wikilink")）及mAAch ecute（[萬世橋站](https://zh.wikipedia.org/wiki/萬世橋站 "wikilink")）。
 
 ### 醜聞
 
@@ -113,8 +94,7 @@ ecute（[萬世橋站](https://zh.wikipedia.org/wiki/萬世橋站 "wikilink")）
 
 ## 參考文獻
 
-  - 『私たちのエキナカプロジェクトecute物語』 JR東日本ステーションリテイリング 鎌田由美子+社員一同著, かんき出版,
-    2007年10月9日発行
+  - 『私たちのエキナカプロジェクトecute物語』 JR東日本ステーションリテイリング 鎌田由美子+社員一同著, かんき出版, 2007年10月9日発行
 
 ## 備註
 
@@ -129,40 +109,26 @@ ecute（[萬世橋站](https://zh.wikipedia.org/wiki/萬世橋站 "wikilink")）
 2.
 
 3.
-4.  [2009年3月29日（日）エキナカ新ブランド"ecute
-    cutte"誕生](http://www.ecute.jp/pdf/20090318.pdf)
-    株式会社JR東日本ステーションリテイリング・2009年3月18日
+4.  [2009年3月29日（日）エキナカ新ブランド"ecute cutte"誕生](http://www.ecute.jp/pdf/20090318.pdf) 株式会社JR東日本ステーションリテイリング・2009年3月18日
 
-5.  [エキュート大宮に“Conoha
-    Garden”誕生！](http://www.ecute.jp/omiya/pdf/cmm/1007omiyarn.pdf)
-     株式会社JR東日本ステーションリテイリング・2010年4月8日
+5.  [エキュート大宮に“Conoha Garden”誕生！](http://www.ecute.jp/omiya/pdf/cmm/1007omiyarn.pdf)  株式会社JR東日本ステーションリテイリング・2010年4月8日
 
-6.  [JR東日本プレリリース
-    エキナカ商業空間「ecute大宮」の店舗が決定 2005年1月7日](http://www.jreast.co.jp/press/2004_2/20050102/)
+6.  [JR東日本プレリリース エキナカ商業空間「ecute大宮」の店舗が決定 2005年1月7日](http://www.jreast.co.jp/press/2004_2/20050102/)
 
-7.  [JR東日本プレリリース
-    エキナカ商業施設第2弾「ecute(エキュート品川)」 2005年7月6日](http://www.jreast.co.jp/press/2005_1/20050702.pdf)
+7.  [JR東日本プレリリース エキナカ商業施設第2弾「ecute(エキュート品川)」 2005年7月6日](http://www.jreast.co.jp/press/2005_1/20050702.pdf)
 
-8.  [品川駅中央改札内『ディラ品川』が『エキュート品川
-    サウス』に生まれ変わります！](http://www.j-retail.co.jp/ekinaka/20101220shinagawa.pdf)
-    JR東日本リテールネット
+8.  [品川駅中央改札内『ディラ品川』が『エキュート品川 サウス』に生まれ変わります！](http://www.j-retail.co.jp/ekinaka/20101220shinagawa.pdf) JR東日本リテールネット
 
-9.  [東京駅改札内に「South Court（サウスコート）」誕生](http://www.ecute.jp/pdf/100218.pdf)
-     JR東日本ステーションリテイリング・プレスリリース2010年2月18日
+9.  [東京駅改札内に「South Court（サウスコート）」誕生](http://www.ecute.jp/pdf/100218.pdf)  JR東日本ステーションリテイリング・プレスリリース2010年2月18日
 
-10. [エキュート東京 ショップ一覧](http://www.ecute.jp/pdf/100303-2.pdf)
-    JR東日本ステーションリテイリング・プレスリリース2010年3月3日
+10. [エキュート東京 ショップ一覧](http://www.ecute.jp/pdf/100303-2.pdf)  JR東日本ステーションリテイリング・プレスリリース2010年3月3日
 
-11. [2010年12月18日（土）「ecute上野」第I期オープン](http://www.j-retail.co.jp/cgi-bin/news.cgi?data_id=1289868695)
-    JR東日本リテールネット
+11. [2010年12月18日（土）「ecute上野」第I期オープン](http://www.j-retail.co.jp/cgi-bin/news.cgi?data_id=1289868695) JR東日本リテールネット
 
-12. [2011年3月、首都圏主要3駅のエキナカが生まれ変わります！](http://www.jreast.co.jp/press/2010/20100905.pdf)
-    JR東日本プレスリリース 2010年9月7日
+12. [2011年3月、首都圏主要3駅のエキナカが生まれ変わります！](http://www.jreast.co.jp/press/2010/20100905.pdf) JR東日本プレスリリース 2010年9月7日
 
-13. [JR東日本/上野駅にエキュート開業](http://www.ryutsuu.biz/store/c111614.html)
-    流通ニュース 2010年11月16日
+13. [JR東日本/上野駅にエキュート開業](http://www.ryutsuu.biz/store/c111614.html)  流通ニュース 2010年11月16日
 
-14. [2011年夏、赤羽駅が生まれ変わります](http://www.jreast.co.jp/press/2010/20110107.pdf)
-    JR東日本・2011年1月19日
+14. [2011年夏、赤羽駅が生まれ変わります](http://www.jreast.co.jp/press/2010/20110107.pdf) JR東日本・2011年1月19日
 
 15. 【NHK】2014年4月23日付[「消費税転嫁拒否「エキナカ」会社に勧告」](http://www3.nhk.or.jp/news/html/20140423/k10013974231000.html)

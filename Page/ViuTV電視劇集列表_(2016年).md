@@ -1,4 +1,4 @@
-本列表列出[香港](../Page/香港.md "wikilink")[ViuTV於](../Page/ViuTV.md "wikilink")2016年所播放的[電視連續劇集](https://zh.wikipedia.org/wiki/電視連續劇集 "wikilink")。
+本列表列出[香港](../Page/香港.md "wikilink")[ViuTV](../Page/ViuTV.md "wikilink")於2016年所播放的[電視連續劇集](https://zh.wikipedia.org/wiki/電視連續劇集 "wikilink")。
 
 除特別註明外，所有劇集播放時均為高清製作。
 
@@ -6,7 +6,7 @@
 
 ### 早上劇集時段
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")10:00-11:00播出，逢星期二至六00:45-01:45（8月23日至9月24日改為逢星期二及四至六00:45-01:45、逢星期三01:15-02:15）重播
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五10:00-11:00播出，逢星期二至六00:45-01:45（8月23日至9月24日改為逢星期二及四至六00:45-01:45、逢星期三01:15-02:15）重播
 
 <table style="width:344%;">
 <colgroup>
@@ -154,7 +154,7 @@ The War Of Beauties</p></td>
 
 ### 下午劇集時段
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")13:30-14:30播出（**除特別-{注}-明外，逢公眾假期暫停播映**）
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五13:30-14:30播出（**除特別-{注}-明外，逢公眾假期暫停播映**）
 
 <table style="width:344%;">
 <colgroup>
@@ -257,7 +257,7 @@ Wise and Foolish Special</p></td>
 
 #### 星期一至五
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")19:00-20:00播出，逢星期二至五及下星期一13:30-14:30重播。
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五19:00-20:00播出，逢星期二至五及下星期一13:30-14:30重播。
 
 <table style="width:344%;">
 <colgroup>
@@ -335,7 +335,7 @@ Amour et Pâtisserie</p></td>
 
 #### 星期一至三／星期一至五（8月22日起）
 
-[香港時間逢星期一至三](../Page/香港時間.md "wikilink")20:30-22:00播出；8月22日起改為逢星期一至五20:30-21:55/22:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至三20:30-22:00播出；8月22日起改為逢星期一至五20:30-21:55/22:00播出
 
 <table style="width:344%;">
 <colgroup>
@@ -502,7 +502,7 @@ Goodbye Mr. Black</p></td>
 
 #### 星期四、五
 
-[香港時間逢星期四](../Page/香港時間.md "wikilink")、五20:30-22:00播出。
+[香港時間](../Page/香港時間.md "wikilink")逢星期四、五20:30-22:00播出。
 
 <table style="width:344%;">
 <colgroup>
@@ -575,7 +575,7 @@ Marry Me, or Not?</p></td>
 
 #### 星期一、二
 
-[香港時間逢星期一至二](../Page/香港時間.md "wikilink")23:00-23:30播出；10月4日起逢星期二至三01:45-02:15重播。
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至二23:00-23:30播出；10月4日起逢星期二至三01:45-02:15重播。
 
 <table style="width:344%;">
 <colgroup>
@@ -651,7 +651,7 @@ Before Green Bean</p></td>
 
 #### 星期三、四
 
-[香港時間逢星期三](../Page/香港時間.md "wikilink")、四22:00-22:30播出。
+[香港時間](../Page/香港時間.md "wikilink")逢星期三、四22:00-22:30播出。
 
 <table style="width:344%;">
 <colgroup>
@@ -720,7 +720,7 @@ Neko Samurai Season S2</p></td>
 
 #### 星期五
 
-[香港時間逢星期五](../Page/香港時間.md "wikilink")22:00-23:30播出。
+[香港時間](../Page/香港時間.md "wikilink")逢星期五22:00-23:30播出。
 
 <table style="width:344%;">
 <colgroup>
@@ -800,7 +800,7 @@ Green Bean: David</p></td>
 
 ### 第三線劇集
 
-[香港時間逢星期一](../Page/香港時間.md "wikilink")23:45-00:45播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一23:45-00:45播出
 
 <table style="width:344%;">
 <colgroup>
@@ -845,7 +845,7 @@ Love Song</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>01/08-<br />
 15/08</p></td>
-<td style="text-align: center;"><p><a href="../Page/太陽的後裔.md" title="wikilink">太陽的後裔特別篇</a><br />
+<td style="text-align: center;"><p><a href="../Page/太陽的後裔.md" title="wikilink">太陽的後裔</a>特別篇<br />
 Descendant of Sun Special</p></td>
 <td style="text-align: center;"><p>3</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
@@ -866,7 +866,7 @@ Descendant of Sun Special</p></td>
 
 ### 早上劇集時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")11:00-12:00播出。
+[香港時間](../Page/香港時間.md "wikilink")逢星期六11:00-12:00播出。
 
 <table style="width:344%;">
 <colgroup>
@@ -956,7 +956,7 @@ Mischievous Kiss 2 - Love in Tokyo</p></td>
 
 ### 第一線劇集
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")20:30-21:30播出。
+[香港時間](../Page/香港時間.md "wikilink")逢星期六20:30-21:30播出。
 
 <table style="width:344%;">
 <colgroup>
@@ -1044,7 +1044,7 @@ The Sparks</p></td>
 
 ### 第二線劇集
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")<small>（星期六凌晨）</small>播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日<small>（星期六凌晨）</small>播出
 
 <table style="width:344%;">
 <colgroup>
@@ -1154,7 +1154,7 @@ The Woman Who Took The Local Paper</p></td>
 
 ### 早上劇集時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")10:30-11:30播出。
+[香港時間](../Page/香港時間.md "wikilink")逢星期日10:30-11:30播出。
 
 <table style="width:344%;">
 <colgroup>
@@ -1243,7 +1243,7 @@ The Late Night Stop</p></td>
 
 ### 中午劇集時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")12:30-15:00播出；12月25日起改為12:30-14:30播出（**每次播映兩集**）
+[香港時間](../Page/香港時間.md "wikilink")逢星期日12:30-15:00播出；12月25日起改為12:30-14:30播出（**每次播映兩集**）
 
 <table style="width:344%;">
 <colgroup>
@@ -1345,7 +1345,7 @@ Reply 1994</p></td>
 
 ### 第一線劇集
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")20:30-21:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日20:30-21:30播出
 
 <table style="width:344%;">
 <colgroup>
@@ -1434,7 +1434,7 @@ Specialist</p></td>
 
 ### 第二線劇集
 
-[香港時間逢星期一](../Page/香港時間.md "wikilink")<small>（星期日深夜）</small>00:00-00:30/00:35播出；8月29日至11月28日改為00:00-01:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一<small>（星期日深夜）</small>00:00-00:30/00:35播出；8月29日至11月28日改為00:00-01:00播出
 
 <table style="width:344%;">
 <colgroup>
@@ -1644,5 +1644,4 @@ The Woman Who Took The Local Paper</p></td>
 
   - [ViuTV節目表](http://viu.tv/epg/99)
 
-[Category:香港電視娛樂節目列表](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目列表 "wikilink")
-[Category:香港電視節目列表](https://zh.wikipedia.org/wiki/Category:香港電視節目列表 "wikilink")
+[Category:香港電視娛樂節目列表](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目列表 "wikilink") [Category:香港電視節目列表](https://zh.wikipedia.org/wiki/Category:香港電視節目列表 "wikilink")

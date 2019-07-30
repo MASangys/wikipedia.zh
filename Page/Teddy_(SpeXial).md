@@ -1,13 +1,12 @@
-**陳向熙**（英文名：Teddy，），藝名**Teddy**，台灣男藝人。粉絲名為「蜂蜜」。曾參加上海模特選拔，是上海模特兒比賽出身，透過網路被星探發掘。此後成為台灣團體[SpeXial第二期成員](../Page/SpeXial.md "wikilink")，與[晨翔](https://zh.wikipedia.org/wiki/晨翔 "wikilink")、[Evan於](../Page/Evan_\(SpeXial\).md "wikilink")2014年6月5日正式從SpeXial
-出道。現為《[綜藝3國智](../Page/綜藝3國智.md "wikilink")》、《[完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")》的主持人。
+**陳向熙**（英文名：Teddy，），藝名**Teddy**，台灣男藝人。粉絲名為「蜂蜜」。曾參加上海模特選拔，是上海模特兒比賽出身，透過網路被星探發掘。此後成為台灣團體[SpeXial](../Page/SpeXial.md "wikilink")第二期成員，與[晨翔](https://zh.wikipedia.org/wiki/晨翔 "wikilink")、[Evan於](../Page/Evan_\(SpeXial\).md "wikilink")2014年6月5日正式從SpeXial 出道。現為《[綜藝3國智](../Page/綜藝3國智.md "wikilink")》、《[完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")》的主持人。
 
 ## 音樂作品
 
-<small>所屬團體[SpeXial之團體音樂作品](../Page/SpeXial.md "wikilink")，請參考[SpeXial](../Page/SpeXial.md "wikilink")。</small>
+<small>所屬團體[SpeXial](../Page/SpeXial.md "wikilink")之團體音樂作品，請參考[SpeXial](../Page/SpeXial.md "wikilink")。</small>
 
 ## 影視作品
 
-<small>所屬團體[SpeXial之團體影視作品](../Page/SpeXial.md "wikilink")，請參考[SpeXial](../Page/SpeXial.md "wikilink")。</small>
+<small>所屬團體[SpeXial](../Page/SpeXial.md "wikilink")之團體影視作品，請參考[SpeXial](../Page/SpeXial.md "wikilink")。</small>
 
 ### 戲劇
 
@@ -179,13 +178,11 @@
 
 ## 參考資料
 
-  - [SpeXial尬惡女
-    Teddy榮登NG王](http://udn.com/NEWS/ENTERTAINMENT/ENT7/9097980.shtml)
+  - [SpeXial尬惡女 Teddy榮登NG王](http://udn.com/NEWS/ENTERTAINMENT/ENT7/9097980.shtml)
   - [Teddy被公認是NG王](http://www.chinatimes.com/realtimenews/20141128003797-260404)
   - [帥氣Teddy當主角壓力大　文雨非見證：他魔王變影帝！](http://www.ettoday.net/news/20150108/448689.htm)
   - [SpeXial晨翔與Teddy玩親親　狂吐送醫打點滴](http://www.appledaily.com.tw/realtimenews/article/new/20141221/527976/)
-  - [SpeXial玩遊戲
-    Teddy貼臉粉絲](http://news.ltn.com.tw/news/entertainment/paper/807183)
+  - [SpeXial玩遊戲 Teddy貼臉粉絲](http://news.ltn.com.tw/news/entertainment/paper/807183)
   - [晨翔同志天菜 Teddy總當好人](http://udn.com/news/story/7260/608366)
   - [分享你糗問答／引路人熊亞告訴你　SpeXial裡誰最Special！](http://angelanddevil.fanily.com.tw/detail.do?id=946670039191747)
   - [人氣惡女來啦！　快睜大你的眼睛看仔細～](http://angelanddevil.fanily.com.tw/detail.do?id=906313766427287)
@@ -195,10 +192,8 @@
 <!-- end list -->
 
   - [明星APP／熊亞守護《終極惡女》銅時空正義，樂與《太極熊貓》並肩作戰](https://tw.celebrity.yahoo.com/news/%E6%98%8E%E6%98%9Fapp-%E7%86%8A%E4%BA%9E%E5%AE%88%E8%AD%B7-%E7%B5%82%E6%A5%B5%E6%83%A1%E5%A5%B3-%E9%8A%85%E6%99%82%E7%A9%BA%E6%AD%A3%E7%BE%A9-%E6%A8%82%E8%88%87-%E5%A4%AA%E6%A5%B5%E7%86%8A%E8%B2%93-%E4%B8%A6%E8%82%A9%E4%BD%9C%E6%88%B0-041347309.html)
-  - [明星APP／《終極惡女》熊亞、查理聯手結盟
-    熱血對戰《太極熊貓》](https://tw.celebrity.yahoo.com/news/%E6%98%8E%E6%98%9Fapp-%E7%B5%82%E6%A5%B5%E6%83%A1%E5%A5%B3-%E7%86%8A%E4%BA%9E-%E6%9F%A5%E7%90%86%E8%81%AF%E6%89%8B%E7%B5%90%E7%9B%9F-%E7%86%B1%E8%A1%80%E5%B0%8D%E6%88%B0-%E5%A4%AA%E6%A5%B5%E7%86%8A%E8%B2%93-023415952.html)
-  - [終極惡女 X
-    太極熊貓：熊貓不是熊篇](https://tw.celebrity.yahoo.com/video/%E7%B5%82%E6%A5%B5%E6%83%A1%E5%A5%B3-x-%E5%A4%AA%E6%A5%B5%E7%86%8A%E8%B2%93-%E6%AD%90%E9%BA%BB%E9%BA%BB%E8%B3%BC%E7%89%A9%E5%8F%B0-072439991.html)
+  - [明星APP／《終極惡女》熊亞、查理聯手結盟 熱血對戰《太極熊貓》](https://tw.celebrity.yahoo.com/news/%E6%98%8E%E6%98%9Fapp-%E7%B5%82%E6%A5%B5%E6%83%A1%E5%A5%B3-%E7%86%8A%E4%BA%9E-%E6%9F%A5%E7%90%86%E8%81%AF%E6%89%8B%E7%B5%90%E7%9B%9F-%E7%86%B1%E8%A1%80%E5%B0%8D%E6%88%B0-%E5%A4%AA%E6%A5%B5%E7%86%8A%E8%B2%93-023415952.html)
+  - [終極惡女 X 太極熊貓：熊貓不是熊篇](https://tw.celebrity.yahoo.com/video/%E7%B5%82%E6%A5%B5%E6%83%A1%E5%A5%B3-x-%E5%A4%AA%E6%A5%B5%E7%86%8A%E8%B2%93-%E6%AD%90%E9%BA%BB%E9%BA%BB%E8%B3%BC%E7%89%A9%E5%8F%B0-072439991.html)
 
 ## 外部連結
 

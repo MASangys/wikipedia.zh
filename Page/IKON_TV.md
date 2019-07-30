@@ -1,5 +1,4 @@
-《**iKON
-TV**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC的綜藝節目](../Page/JTBC.md "wikilink")\[1\]，由[iKON親自制作](https://zh.wikipedia.org/wiki/iKON "wikilink")\[2\]，即從頭參與創意企劃與拍攝，至後期制作等全部節目製作\[3\]\[4\]。
+《**iKON TV**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")的綜藝節目\[1\]，由[iKON親自制作](https://zh.wikipedia.org/wiki/iKON "wikilink")\[2\]，即從頭參與創意企劃與拍攝，至後期制作等全部節目製作\[3\]\[4\]。
 
 ## 節目進行方式
 
@@ -28,10 +27,7 @@ TV**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTB
 
   - [官方網站](http://tv.jtbc.joins.com/cast/pr10010776)
 
-[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:IKON](https://zh.wikipedia.org/wiki/Category:IKON "wikilink")
+[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:IKON](https://zh.wikipedia.org/wiki/Category:IKON "wikilink")
 
 1.
 2.

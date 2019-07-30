@@ -1,4 +1,4 @@
-**DBC華語歌曲流行指數**是香港的[數碼電台](https://zh.wikipedia.org/wiki/數碼電台 "wikilink")[DBC於](https://zh.wikipedia.org/wiki/DBC "wikilink")2015年11月20日開始的華語歌曲流行榜，報榜時間為逢星期五17:00至19:00\[1\]（2016年4月24日開始改為逢星期日17:00至19:00）\[2\]，每星期更新一次，每次上榜20首。主持人為同時在[有線球彩台講波的](https://zh.wikipedia.org/wiki/有線球彩台 "wikilink")「大頭」[許諾](https://zh.wikipedia.org/wiki/許諾 "wikilink")。首支冠軍歌是[吳業坤的](../Page/吳業坤.md "wikilink")《[陽光點的歌](../Page/KWAN_GOR_坤哥.md "wikilink")》。
+**DBC華語歌曲流行指數**是香港的[數碼電台](https://zh.wikipedia.org/wiki/數碼電台 "wikilink")[DBC於](https://zh.wikipedia.org/wiki/DBC "wikilink")2015年11月20日開始的華語歌曲流行榜，報榜時間為逢星期五17:00至19:00\[1\]（2016年4月24日開始改為逢星期日17:00至19:00）\[2\]，每星期更新一次，每次上榜20首。主持人為同時在[有線球彩台講波的](https://zh.wikipedia.org/wiki/有線球彩台 "wikilink")「大頭」[許諾](https://zh.wikipedia.org/wiki/許諾 "wikilink")。首支冠軍歌是[吳業坤](../Page/吳業坤.md "wikilink")的《[陽光點的歌](../Page/KWAN_GOR_坤哥.md "wikilink")》。
 
 2016年8月8日，DBC數碼電台宣布交還聲音廣播牌照，並定於9月7日停播\[3\]，故2016年9月4日（2016年第35期）之DBC華語歌曲流行指數會是最後一期DBC華語歌曲流行指數。
 
@@ -17,7 +17,7 @@ DBC華語歌曲流行指數是結合DBC每週播放率和DJ評分的總和後，
 | 一 \[46\]  | 陽光點的歌         | [吳業坤](../Page/吳業坤.md "wikilink")                                                                       |
 | 二 \[47\]  | 有人共鳴          | [林奕匡](../Page/林奕匡.md "wikilink")                                                                       |
 | 三 \[48\]  | \-{后}-會無期     | [C AllStar](../Page/C_AllStar.md "wikilink") feat. [梁詠琪](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink") |
-| 四 \[49\]  | 也可以           | [閻奕格](https://zh.wikipedia.org/wiki/閻奕格 "wikilink")                                                    |
+| 四 \[49\]  | 也可以           | [閻奕格](../Page/閻奕格.md "wikilink")                                                                       |
 | 五 \[50\]  | 矛盾一生          | [JW](https://zh.wikipedia.org/wiki/JW "wikilink")                                                      |
 | 六 \[51\]  | 第一次擁抱         | [狄易達](https://zh.wikipedia.org/wiki/狄易達 "wikilink")                                                    |
 | 七 \[52\]  | Children Song | [周國賢](../Page/周國賢.md "wikilink")                                                                       |

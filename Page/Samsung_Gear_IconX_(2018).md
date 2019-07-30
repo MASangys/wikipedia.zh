@@ -1,6 +1,4 @@
-2018版Gear IconX，以及Gear Sport和Gear Fit2
-Pro是[三星电子](https://zh.wikipedia.org/wiki/三星电子 "wikilink")2017年8月發布的手表产品。Gear
-IconX（2018）採用比前代產品更大的電池。\[1\]
+2018版Gear IconX，以及Gear Sport和Gear Fit2 Pro是[三星电子](https://zh.wikipedia.org/wiki/三星电子 "wikilink")2017年8月發布的手表产品。Gear IconX（2018）採用比前代產品更大的電池。\[1\]
 
 ## 较前代产品的变化
 
@@ -63,8 +61,7 @@ IconX（2018）採用比前代產品更大的電池。\[1\]
 
 [三星官方網站](https://www.samsung.com/us/mobile/audio/headphones/gear-iconx--black-sm-r140nzkaxar/)
 
-[Category:三星可穿戴式设备](https://zh.wikipedia.org/wiki/Category:三星可穿戴式设备 "wikilink")
-[Category:耳機](https://zh.wikipedia.org/wiki/Category:耳機 "wikilink")
+[Category:三星可穿戴式设备](https://zh.wikipedia.org/wiki/Category:三星可穿戴式设备 "wikilink") [Category:耳機](https://zh.wikipedia.org/wiki/Category:耳機 "wikilink")
 
 1.
 2.

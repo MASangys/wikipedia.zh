@@ -4,8 +4,6 @@
 
 ## 專輯派台歌曲成績
 
-[Category:蔣嘉瑩音樂專輯](https://zh.wikipedia.org/wiki/Category:蔣嘉瑩音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:蔣嘉瑩音樂專輯](https://zh.wikipedia.org/wiki/Category:蔣嘉瑩音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
-[Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

@@ -1,12 +1,10 @@
-《**namie amuro LIVE STYLE 2016-2017**》（安室奈美惠
-2016-2017巡迴演唱會時尚現場）為[日本歌手](../Page/日本.md "wikilink")[安室奈美惠於](../Page/安室奈美惠.md "wikilink")2017年5月3日發行的影音作品。
+《**namie amuro LIVE STYLE 2016-2017**》（安室奈美惠 2016-2017巡迴演唱會時尚現場）為[日本](../Page/日本.md "wikilink")歌手[安室奈美惠](../Page/安室奈美惠.md "wikilink")於2017年5月3日發行的影音作品。
 
 ## 簡介
 
-本作收錄於2016年8月19日至2017年5月3日舉行的全國巡迴演唱會情況，其中4月3日至5月3日的為追加公演，由原本的88場增加至101場（但其中的鳥取公演因地震而取消，實際為100場），為安室史上最多場次的巡迴演出。本作收錄的為2017年1月15日於[名古屋國際會議場世紀廳的場次](../Page/名古屋國際會議場.md "wikilink")。
+本作收錄於2016年8月19日至2017年5月3日舉行的全國巡迴演唱會情況，其中4月3日至5月3日的為追加公演，由原本的88場增加至101場（但其中的鳥取公演因地震而取消，實際為100場），為安室史上最多場次的巡迴演出。本作收錄的為2017年1月15日於[名古屋國際會議場](../Page/名古屋國際會議場.md "wikilink")世紀廳的場次。
 
-DVD（2枚組）與藍光收錄本編以外的聖誕版本的《Christmas Wish》與《Dear Diary》，以及萬聖節版本的《Chit
-Chat》與《Anything》的安可曲。
+DVD（2枚組）與藍光收錄本編以外的聖誕版本的《Christmas Wish》與《Dear Diary》，以及萬聖節版本的《Chit Chat》與《Anything》的安可曲。
 
 初回限定盤為外盒式樣，先行預約特典為B2尺寸非賣品海報，演唱會會場限定預約特典為托特包。
 
@@ -87,8 +85,6 @@ Chat》與《Anything》的安可曲。
 
   - [官方網站 - 發行情報](http://namieamuro.jp/discography/dvd21.html)
 
-[分類:安室奈美惠影像作品](https://zh.wikipedia.org/wiki/分類:安室奈美惠影像作品 "wikilink")
-[分類:2016年巡迴演唱會](https://zh.wikipedia.org/wiki/分類:2016年巡迴演唱會 "wikilink")
-[分類:2017年巡迴演唱會](https://zh.wikipedia.org/wiki/分類:2017年巡迴演唱會 "wikilink")
+[分類:安室奈美惠影像作品](https://zh.wikipedia.org/wiki/分類:安室奈美惠影像作品 "wikilink") [分類:2016年巡迴演唱會](https://zh.wikipedia.org/wiki/分類:2016年巡迴演唱會 "wikilink") [分類:2017年巡迴演唱會](https://zh.wikipedia.org/wiki/分類:2017年巡迴演唱會 "wikilink")
 
 [Category:2017年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2017年音樂相關影像作品 "wikilink")

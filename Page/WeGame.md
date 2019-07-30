@@ -1,4 +1,4 @@
-**WeGame**（原**腾讯游戏平台**），是[腾讯推出的数位发行平台](../Page/腾讯.md "wikilink")，于2017年9月1日正式上线。\[1\]
+**WeGame**（原**腾讯游戏平台**），是[腾讯](../Page/腾讯.md "wikilink")推出的数位发行平台，于2017年9月1日正式上线。\[1\]
 
 ## 简介
 
@@ -16,14 +16,7 @@
 
   - [官方网站](http://www.wegame.com/client)
 
-[Category:2017年建立的网站](https://zh.wikipedia.org/wiki/Category:2017年建立的网站 "wikilink")
-[Category:腾讯软件](https://zh.wikipedia.org/wiki/Category:腾讯软件 "wikilink")
-[Category:电子商务](https://zh.wikipedia.org/wiki/Category:电子商务 "wikilink")
-[Category:數位版權管理](https://zh.wikipedia.org/wiki/Category:數位版權管理 "wikilink")
-[Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink")
-[Category:软件分发平台](https://zh.wikipedia.org/wiki/Category:软件分发平台 "wikilink")
-[Category:電子遊戲線上零售商](https://zh.wikipedia.org/wiki/Category:電子遊戲線上零售商 "wikilink")
-[Category:虛擬經濟](https://zh.wikipedia.org/wiki/Category:虛擬經濟 "wikilink")
+[Category:2017年建立的网站](https://zh.wikipedia.org/wiki/Category:2017年建立的网站 "wikilink") [Category:腾讯软件](https://zh.wikipedia.org/wiki/Category:腾讯软件 "wikilink") [Category:电子商务](https://zh.wikipedia.org/wiki/Category:电子商务 "wikilink") [Category:數位版權管理](https://zh.wikipedia.org/wiki/Category:數位版權管理 "wikilink") [Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink") [Category:软件分发平台](https://zh.wikipedia.org/wiki/Category:软件分发平台 "wikilink") [Category:電子遊戲線上零售商](https://zh.wikipedia.org/wiki/Category:電子遊戲線上零售商 "wikilink") [Category:虛擬經濟](https://zh.wikipedia.org/wiki/Category:虛擬經濟 "wikilink")
 
 1.  [腾讯TGP升级WeGame，就这几款腾讯游戏能刚Steam？](http://news.candou.com/771430.shtml)
 2.  [腾讯TGP进化新生：WeGame，共建全球游戏新生态](http://up.qq.com/webplat/info/news_version3/7694/28378/28379/28395/m17345/201704/574701.shtml)

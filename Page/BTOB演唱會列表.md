@@ -563,7 +563,7 @@
 | --------- |
 | 2019年演出列表 |
 | 日期        |
-| 6月8日      |
+| 8月23日     |
 |           |
 
 ## 參考文獻
@@ -572,10 +572,6 @@
 
   -
   -
-[Category:BTOB](https://zh.wikipedia.org/wiki/Category:BTOB "wikilink")
-[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink")
-[Category:巡迴演唱會列表](https://zh.wikipedia.org/wiki/Category:巡迴演唱會列表 "wikilink")
+[Category:BTOB](https://zh.wikipedia.org/wiki/Category:BTOB "wikilink") [Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink") [Category:巡迴演唱會列表](https://zh.wikipedia.org/wiki/Category:巡迴演唱會列表 "wikilink")
 
-1.  [BTOB紅毯不忘搞笑
-    成員大Show恩光醜照](http://www.koreastardaily.com/tc/news/95211)
-    2017-06-16 韓星網
+1.  [BTOB紅毯不忘搞笑 成員大Show恩光醜照](http://www.koreastardaily.com/tc/news/95211) 2017-06-16 韓星網

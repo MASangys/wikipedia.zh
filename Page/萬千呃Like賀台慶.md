@@ -1,16 +1,14 @@
-《**萬千呃like賀台慶**》（**Happy TVMost Birthday to
-Me**）為[毛記電視慶祝開台一周年而設的大型台慶匯演](../Page/毛記電視.md "wikilink")，於2016年5月11日在[香港](../Page/香港.md "wikilink")[灣仔會議展覽中心展覽廳](https://zh.wikipedia.org/wiki/灣仔會議展覽中心 "wikilink")5BC\[1\]舉行，由[實惠家居冠名贊助](../Page/實惠家居.md "wikilink")。這是繼《[第一屆十大勁曲金曲分獎典禮](../Page/毛記電視第一屆十大勁曲金曲分獎典禮.md "wikilink")》後，毛記電視所舉辦的大型實體綜藝表演節目。
+《**萬千呃like賀台慶**》（**Happy TVMost Birthday to Me**）為[毛記電視](../Page/毛記電視.md "wikilink")慶祝開台一周年而設的大型台慶匯演，於2016年5月11日在[香港](../Page/香港.md "wikilink")[灣仔會議展覽中心展覽廳](https://zh.wikipedia.org/wiki/灣仔會議展覽中心 "wikilink")5BC\[1\]舉行，由[實惠家居](../Page/實惠家居.md "wikilink")冠名贊助。這是繼《[第一屆十大勁曲金曲分獎典禮](../Page/毛記電視第一屆十大勁曲金曲分獎典禮.md "wikilink")》後，毛記電視所舉辦的大型實體綜藝表演節目。
 
-[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")[ViuTV於晚上八時半起加入](../Page/ViuTV.md "wikilink")[現場直播](../Page/現場直播.md "wikilink")，為[香港電視史上首個進駐免費電視的網絡大型匯演](https://zh.wikipedia.org/wiki/香港電視史 "wikilink")，號稱「人類史上首個由其他電視台直播的電視台台慶」，節目同時於其官方網站及應用程式直播。
+[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")[ViuTV](../Page/ViuTV.md "wikilink")於晚上八時半起加入[現場直播](../Page/現場直播.md "wikilink")，為[香港電視史上首個進駐免費電視的網絡大型匯演](https://zh.wikipedia.org/wiki/香港電視史 "wikilink")，號稱「人類史上首個由其他電視台直播的電視台台慶」，節目同時於其官方網站及應用程式直播。
 
-節目最終超時，於0時01分完結，延遲逾31分鐘。整個台慶歷時約四小時，其中ViuTV直播部份超過三小時三十分鐘，當日轉播台慶後播出的節目全數延遲播放。毛記電視創辦人[林日曦以及毛毛](../Page/林日曦.md "wikilink")（即毛記員工）亦就此向觀眾致謝及致歉。\[2\]
+節目最終超時，於0時01分完結，延遲逾31分鐘。整個台慶歷時約四小時，其中ViuTV直播部份超過三小時三十分鐘，當日轉播台慶後播出的節目全數延遲播放。毛記電視創辦人[林日曦](../Page/林日曦.md "wikilink")以及毛毛（即毛記員工）亦就此向觀眾致謝及致歉。\[2\]
 
 ## 籌辦過程
 
 ### 申請現場轉播
 
-2016年4月，毛記電視創辦人[林日曦](../Page/林日曦.md "wikilink")，在其[facebook張貼一張疑似](https://zh.wikipedia.org/wiki/facebook "wikilink")2016年5月11日的[ViuTV節目表](../Page/ViuTV.md "wikilink")，並表示「將會公佈一件小事」，引起不少網民猜測ViuTV會否直播毛記電視台慶節目。\[3\]。
-最終有關消息在2016年5月3日晚上得到證實，ViuTV同意在毛記電視台慶當晚會提供現場直播。\[4\]\[5\]
+2016年4月，毛記電視創辦人[林日曦](../Page/林日曦.md "wikilink")，在其[facebook張貼一張疑似](https://zh.wikipedia.org/wiki/facebook "wikilink")2016年5月11日的[ViuTV](../Page/ViuTV.md "wikilink")節目表，並表示「將會公佈一件小事」，引起不少網民猜測ViuTV會否直播毛記電視台慶節目。\[3\]。 最終有關消息在2016年5月3日晚上得到證實，ViuTV同意在毛記電視台慶當晚會提供現場直播。\[4\]\[5\]
 
 ## 前奏
 
@@ -115,7 +113,7 @@ Me**）為[毛記電視慶祝開台一周年而設的大型台慶匯演](../Page
 <tr class="even">
 <td><p>13</p></td>
 <td><p>2016年4月14日</p></td>
-<td><p><a href="../Page/黎明.md" title="wikilink">黎明請你不要來</a></p></td>
+<td><p><a href="../Page/黎明.md" title="wikilink">黎明</a>請你不要來</p></td>
 <td><p>東方昇</p></td>
 <td><p><a href="http://www.tvmost.com.hk/201603162016_video_prehb_13">13</a></p></td>
 </tr>
@@ -138,7 +136,7 @@ Me**）為[毛記電視慶祝開台一周年而設的大型台慶匯演](../Page
 <td><p>2016年4月27日</p></td>
 <td><p>萬千街坊賀台慶</p></td>
 <td><p>主持：東方昇、羅若off<br />
-受訪者：<a href="../Page/葵涌.md" title="wikilink">葵涌街坊</a></p></td>
+受訪者：<a href="../Page/葵涌.md" title="wikilink">葵涌</a>街坊</p></td>
 <td><p><a href="http://www.tvmost.com.hk/201603162016_video_prehb_16">16</a></p></td>
 </tr>
 <tr class="even">
@@ -173,7 +171,7 @@ Me**）為[毛記電視慶祝開台一周年而設的大型台慶匯演](../Page
 
 毛記電視將動員[全台男女偽員進行賀壽表演](https://zh.wikipedia.org/wiki/毛記電視#偽員 "wikilink")、施展渾身解數，全力爭取網民讚好（呃Like）。\[16\]
 
-毛記電視官方Facebook專頁提供即場後台訪問及進行部份直播，[100毛官方Facebook專頁負責發表相片即時回顧各項環節重點名言及圖片精華](../Page/100毛.md "wikilink")（包括現場獨家環節）。亦有毛毛（即毛記員工）借用各偽員Facebook專頁分享相關片段及貼文。
+毛記電視官方Facebook專頁提供即場後台訪問及進行部份直播，[100毛](../Page/100毛.md "wikilink")官方Facebook專頁負責發表相片即時回顧各項環節重點名言及圖片精華（包括現場獨家環節）。亦有毛毛（即毛記員工）借用各偽員Facebook專頁分享相關片段及貼文。
 
 現場觀眾可透過現場提供的指定無線網絡（wi-fi）連線至指定網站（like.tvmost.com.hk），向心儀節目「俾Like」（讚好）。抽獎環節從獲得最多讚好的節目中抽出兩位現場觀眾，爭奪大獎。獎品為毛記電視全體員工籌錢購買的「七手名車」。
 
@@ -192,7 +190,7 @@ Me**）為[毛記電視慶祝開台一周年而設的大型台慶匯演](../Page
 <td><p>1</p></td>
 <td><p>人魚樂毛窮</p></td>
 <td><p>-</p></td>
-<td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV晚上</a>8:30起加入現場直播</p></td>
+<td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>晚上8:30起加入現場直播</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -324,7 +322,7 @@ Me**）為[毛記電視慶祝開台一周年而設的大型台慶匯演](../Page
 <tr class="even">
 <td><p>17</p></td>
 <td><p>演唱《-{现咩尽}-》<br />
-<small>（<a href="https://zh.wikipedia.org/wiki/Imagine_(歌曲)" title="wikilink">Imagine</a> <a href="../Page/二次創作.md" title="wikilink">二次創作版</a>）</small></p></td>
+<small>（<a href="https://zh.wikipedia.org/wiki/Imagine_(歌曲)" title="wikilink">Imagine</a> <a href="../Page/二次創作.md" title="wikilink">二次創作</a>版）</small></p></td>
 <td><p>-{庄靓龙}-（美術部明豬）</p></td>
 <td><p>ViuTV廣告時間，現場獨家環節</p></td>
 <td><p><a href="http://www.tvmost.com.hk/201605121528_video_hb_16">34</a></p></td>
@@ -510,7 +508,7 @@ Me**）為[毛記電視慶祝開台一周年而設的大型台慶匯演](../Page
 </tr>
 <tr class="even">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/2016_香港奧運直擊" title="wikilink">2016 香港奧運直擊</a>》<br />
-演唱《<a href="https://zh.wikipedia.org/wiki/Victory_海港" title="wikilink">Victory 海港</a>》<small>（<a href="https://zh.wikipedia.org/wiki/Victory" title="wikilink">Victory</a> <a href="../Page/二次創作.md" title="wikilink">二次創作版</a>）</small></p></td>
+演唱《<a href="https://zh.wikipedia.org/wiki/Victory_海港" title="wikilink">Victory 海港</a>》<small>（<a href="https://zh.wikipedia.org/wiki/Victory" title="wikilink">Victory</a> <a href="../Page/二次創作.md" title="wikilink">二次創作</a>版）</small></p></td>
 <td><p>游泳勤</p></td>
 <td><p>《Victory 海港》為《勁曲金曲》冠軍歌之一</p></td>
 <td></td>
@@ -523,7 +521,7 @@ Me**）為[毛記電視慶祝開台一周年而設的大型台慶匯演](../Page
 </tr>
 <tr class="even">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/港珠" title="wikilink">港珠</a>》<br />
-<small>（<a href="https://zh.wikipedia.org/wiki/龍珠" title="wikilink">龍珠</a> <a href="../Page/二次創作.md" title="wikilink">二次創作版</a>）</small></p></td>
+<small>（<a href="https://zh.wikipedia.org/wiki/龍珠" title="wikilink">龍珠</a> <a href="../Page/二次創作.md" title="wikilink">二次創作</a>版）</small></p></td>
 <td><p><a href="../Page/張崇基.md" title="wikilink">堅‧張崇基</a>[33]、<a href="../Page/張崇德.md" title="wikilink">堅‧張崇德</a>[34]</p></td>
 <td></td>
 <td></td>
@@ -533,7 +531,7 @@ Me**）為[毛記電視慶祝開台一周年而設的大型台慶匯演](../Page
 
 ## 重溫及致歉
 
-由於節目出現失誤及逾時，事後公司創辦人[林日曦以及](../Page/林日曦.md "wikilink")「毛毛」（毛記員工）亦於其官方Facebook發表致歉及致謝文章。官方網站亦陸續上載重溫，片段將經過適量剪輯，並稱為「少啲甩轆版重溫」（較少失誤版）。\[35\]
+由於節目出現失誤及逾時，事後公司創辦人[林日曦](../Page/林日曦.md "wikilink")以及「毛毛」（毛記員工）亦於其官方Facebook發表致歉及致謝文章。官方網站亦陸續上載重溫，片段將經過適量剪輯，並稱為「少啲甩轆版重溫」（較少失誤版）。\[35\]
 
 ## ViuTV直播收視
 
@@ -548,24 +546,19 @@ Me**）為[毛記電視慶祝開台一周年而設的大型台慶匯演](../Page
 
   - [《萬千呃like賀台慶》官方網站專頁](http://www.tvmost.com.hk/hb)
   - [《萬千呃like賀台慶前奏》節目重溫](https://web.archive.org/web/20160716101921/http://www.tvmost.com.hk/2016_prehb)
-  - [《萬千呃Like賀台慶
-    （少啲甩轆版）》重溫](http://tvmost.com.hk/201605121505_programme_happybirthdaytome)
+  - [《萬千呃Like賀台慶 （少啲甩轆版）》重溫](http://tvmost.com.hk/201605121505_programme_happybirthdaytome)
 
-[分類:毛記電視節目](https://zh.wikipedia.org/wiki/分類:毛記電視節目 "wikilink")
-[分類:2016年香港電視娛樂節目](https://zh.wikipedia.org/wiki/分類:2016年香港電視娛樂節目 "wikilink")
+[分類:毛記電視節目](https://zh.wikipedia.org/wiki/分類:毛記電視節目 "wikilink") [分類:2016年香港電視娛樂節目](https://zh.wikipedia.org/wiki/分類:2016年香港電視娛樂節目 "wikilink")
 
 1.  宣傳期間冠名為「灣仔會展毛記電視城5BC錄影廠」
 
 2.  [facebook：林日曦](https://www.facebook.com/linrixi/posts/1018532834905388)
 
-3.  [facebook：林日曦 -
-    （非突發）如無意外，呢幾日內，毛記電視同某電視台將會公佈一件小事。如無意外。](https://www.facebook.com/linrixi/photos/pb.450867315005279.-2207520000.1462380437./1010557055702966/?type=3&theater)
+3.  [facebook：林日曦 - （非突發）如無意外，呢幾日內，毛記電視同某電視台將會公佈一件小事。如無意外。](https://www.facebook.com/linrixi/photos/pb.450867315005279.-2207520000.1462380437./1010557055702966/?type=3&theater)
 
-4.  [facebook：ViuTV -
-    （非突然）終於宣布得：ViuTV 99台　5月11日晚8:30原定之實驗電視、真人實況、潮流選擇節目《TBC》會改名為：毛記電視《\#萬千呃Like賀台慶》現場直播](https://www.facebook.com/ViuTV.hk/photos/a.1565829617005787.1073741828.1555649141357168/1633982170190531/?type=3&theater)
+4.  [facebook：ViuTV - （非突然）終於宣布得：ViuTV 99台　5月11日晚8:30原定之實驗電視、真人實況、潮流選擇節目《TBC》會改名為：毛記電視《\#萬千呃Like賀台慶》現場直播](https://www.facebook.com/ViuTV.hk/photos/a.1565829617005787.1073741828.1555649141357168/1633982170190531/?type=3&theater)
 
-5.  [facebook：100毛 - 正式落實！人類史上首個由人哋電視台直播嘅電視台台慶… 毛記電視主辦 ViuTV獨家直播
-    Pricerite呈獻《萬千呃Like賀台慶》 5月11日晚上8點30分．免費電視99台](https://www.facebook.com/100most/photos/a.292832474177740.66479.273813022746352/894972890630359/?type=3&theater)
+5.  [facebook：100毛 - 正式落實！人類史上首個由人哋電視台直播嘅電視台台慶… 毛記電視主辦 ViuTV獨家直播 Pricerite呈獻《萬千呃Like賀台慶》 5月11日晚上8點30分．免費電視99台](https://www.facebook.com/100most/photos/a.292832474177740.66479.273813022746352/894972890630359/?type=3&theater)
 
 6.
 7.
@@ -592,9 +585,7 @@ Me**）為[毛記電視慶祝開台一周年而設的大型台慶匯演](../Page
 24.
 25.
 26.
-27. 毛記電視習慣以此電影的簡體中文版作為填充提名，而毛記更經常自嘲不懂得拼寫主角[里安納度·狄卡比奧的名字全稱](https://zh.wikipedia.org/wiki/里安納度·狄卡比奧 "wikilink")，版本包括「Leonardo
-    Di唔識串」、「Leonardo
-    [Pikachu](https://zh.wikipedia.org/wiki/比卡超 "wikilink")」等等。
+27. 毛記電視習慣以此電影的簡體中文版作為填充提名，而毛記更經常自嘲不懂得拼寫主角[里安納度·狄卡比奧的名字全稱](https://zh.wikipedia.org/wiki/里安納度·狄卡比奧 "wikilink")，版本包括「Leonardo Di唔識串」、「Leonardo [Pikachu](https://zh.wikipedia.org/wiki/比卡超 "wikilink")」等等。
 
 28.
 29.

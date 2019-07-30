@@ -1,21 +1,14 @@
-《**Yaman
-TV**》（），是韓國[Mnet電視台在](https://zh.wikipedia.org/wiki/Mnet "wikilink")2015年1月5日試播的節目，主持人為[HAHA及hiphop歌手MINO崔民浩](https://zh.wikipedia.org/wiki/HAHA "wikilink")。之後成為正規節目於1月26日起正式播出，除了HAHA、MINO兩位主持人，再加入前籃球選手[徐章煇共同主持](../Page/徐章煇.md "wikilink")。播出時間為韓國時間每周一下午6：00-6：50。
+《**Yaman TV**》（），是韓國[Mnet電視台在](https://zh.wikipedia.org/wiki/Mnet "wikilink")2015年1月5日試播的節目，主持人為[HAHA及hiphop歌手MINO崔民浩](https://zh.wikipedia.org/wiki/HAHA "wikilink")。之後成為正規節目於1月26日起正式播出，除了HAHA、MINO兩位主持人，再加入前籃球選手[徐章煇](../Page/徐章煇.md "wikilink")共同主持。播出時間為韓國時間每周一下午6：00-6：50。
 
 ## 節目主旨
 
-正式新人舞台節目！節目每周邀請不同嘉賓，希望可以發掘那些有才華卻未能發光的朋友們，讓任何人都能有一個可以充分盡情展示自己才華的空間。節目名稱《Ya
-Man》即「YES man」牙買加式的說法，意指未經雕琢的原始狀態\[1\]。
+正式新人舞台節目！節目每周邀請不同嘉賓，希望可以發掘那些有才華卻未能發光的朋友們，讓任何人都能有一個可以充分盡情展示自己才華的空間。節目名稱《Ya Man》即「YES man」牙買加式的說法，意指未經雕琢的原始狀態\[1\]。
 
 ## 節目內容
 
-節目出演者被稱做**YAMAN 人（야만인）**，原意為「比起自身能力和才藝，認知度還不夠高的《Yaman
-TV》出演者」。在節目中會拍攝**野心影片（야망.동영상）**，是「為了成為明星裝載有野心的影片（스타가
-되기 위한 야망을 담은
-동영상）」的略縮詞。節目會將影片上傳至Mnet官網，讓觀眾票選最有趣的影片，每周票數第一名的野心影片者將獲得《Yaman
-TV》節目隨時自由出演券。
+節目出演者被稱做**YAMAN 人（야만인）**，原意為「比起自身能力和才藝，認知度還不夠高的《Yaman TV》出演者」。在節目中會拍攝**野心影片（야망.동영상）**，是「為了成為明星裝載有野心的影片（스타가 되기 위한 야망을 담은 동영상）」的略縮詞。節目會將影片上傳至Mnet官網，讓觀眾票選最有趣的影片，每周票數第一名的野心影片者將獲得《Yaman TV》節目隨時自由出演券。
 
-節目從第十集起改版，改為兩組嘉賓同時登場進行遊戲對決，三位主持人則隨機分配成為裁判與兩組嘉賓的隊長。裁判擁有絕對權力決定在遊戲中要給予兩隊多少彩球，遊戲例如：好感度測試、福不福測試、5秒關鍵詞（5.키）、野心影片（야.동
-TIME）等。彩球內放有分數，最終以確認彩球內分數總和較多者獲勝，並獲得《Yaman TV》節目隨時自由出演券、片尾MV播放等獎品。
+節目從第十集起改版，改為兩組嘉賓同時登場進行遊戲對決，三位主持人則隨機分配成為裁判與兩組嘉賓的隊長。裁判擁有絕對權力決定在遊戲中要給予兩隊多少彩球，遊戲例如：好感度測試、福不福測試、5秒關鍵詞（5.키）、野心影片（야.동 TIME）等。彩球內放有分數，最終以確認彩球內分數總和較多者獲勝，並獲得《Yaman TV》節目隨時自由出演券、片尾MV播放等獎品。
 
 ## 節目列表
 
@@ -170,14 +163,9 @@ Cheetah、LilCham、Tymee（Unpretty Rap Star）</p></td>
 ## 外部連結
 
   - [Yaman TV 官方網站](http://tv.mnet.com/program/1371)
-  - [Mnet官方Youtube
-    YamanTV播放清單](https://www.youtube.com/playlist?list=PLjUVzlcpeN4Qm-yE-aXD7tjpyfp21yByR)
+  - [Mnet官方Youtube YamanTV播放清單](https://www.youtube.com/playlist?list=PLjUVzlcpeN4Qm-yE-aXD7tjpyfp21yByR)
   - [Mnet 官方Twitter](https://twitter.com/MnetKR)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
-1.  [HAHA徐章勳將主持《Ya Man
-    TV》 26日首播](http://www.allthatstar.com/tw/view.php?action=&postID=29646)
-    .全星網.2015-01-18.
+1.  [HAHA徐章勳將主持《Ya Man TV》 26日首播](http://www.allthatstar.com/tw/view.php?action=&postID=29646) .全星網.2015-01-18.

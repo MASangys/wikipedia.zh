@@ -1,9 +1,8 @@
-**女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）权益**在[哈萨克斯坦的法律和社会领域中都没有保障](../Page/哈萨克斯坦.md "wikilink")。在哈萨克斯坦，同性性行为是合法的，但同性伴侣和家庭没有办法获得与异性已婚夫妇同样的法律保护。\[1\]
+**女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）权益**在[哈萨克斯坦](../Page/哈萨克斯坦.md "wikilink")的法律和社会领域中都没有保障。在哈萨克斯坦，同性性行为是合法的，但同性伴侣和家庭没有办法获得与异性已婚夫妇同样的法律保护。\[1\]
 
 ## 同性性行为的合法性
 
-[LGBT_flag_map_of_Kazakhstan.svg](https://zh.wikipedia.org/wiki/File:LGBT_flag_map_of_Kazakhstan.svg "fig:LGBT_flag_map_of_Kazakhstan.svg")
-哈萨克斯坦从1998年开始将男性或女性的同性性行为合法化。\[2\]同意年龄是16岁。\[3\]
+[LGBT_flag_map_of_Kazakhstan.svg](https://zh.wikipedia.org/wiki/File:LGBT_flag_map_of_Kazakhstan.svg "fig:LGBT_flag_map_of_Kazakhstan.svg") 哈萨克斯坦从1998年开始将男性或女性的同性性行为合法化。\[2\]同意年龄是16岁。\[3\]
 
 1997年以前，《哈萨克斯坦刑法典》第104条习惯将“肛交”定为犯罪。这一立法遵循了前苏联相应的第121条，该条只对男性之间的肛交进行专门的定罪。\[4\]
 
@@ -17,7 +16,7 @@ LGBT人群被禁止在军队服役。\[7\]
 
 ## 宣传禁令
 
-2015年5月26日，哈萨克斯坦宪法委员会宣布一项待决法案，禁止“非传统的性取向宣传”的法案违宪。理事会因为措辞模糊而拒绝。该裁决于2015年2月获得[哈萨克斯坦议会上院参议院通过](https://zh.wikipedia.org/wiki/哈萨克斯坦议会 "wikilink")，并被交由[努尔苏丹·纳扎尔巴耶夫总统签署](../Page/努尔苏丹·纳扎尔巴耶夫.md "wikilink")。它已经得到了下院[馬日利斯的批准](../Page/馬日利斯.md "wikilink")。\[8\][人权观察组织说](../Page/人权观察.md "wikilink")：“哈萨克斯坦的宪法委员会通过驳斥这一宣传法案，为通过歧视性立法开了一个重要的先例。”
+2015年5月26日，哈萨克斯坦宪法委员会宣布一项待决法案，禁止“非传统的性取向宣传”的法案违宪。理事会因为措辞模糊而拒绝。该裁决于2015年2月获得[哈萨克斯坦议会上院参议院通过](https://zh.wikipedia.org/wiki/哈萨克斯坦议会 "wikilink")，并被交由[努尔苏丹·纳扎尔巴耶夫](../Page/努尔苏丹·纳扎尔巴耶夫.md "wikilink")总统签署。它已经得到了下院[馬日利斯](../Page/馬日利斯.md "wikilink")的批准。\[8\][人权观察](../Page/人权观察.md "wikilink")组织说：“哈萨克斯坦的宪法委员会通过驳斥这一宣传法案，为通过歧视性立法开了一个重要的先例。”
 
 ## 公众意见
 
@@ -60,44 +59,26 @@ LGBT人群被禁止在军队服役。\[7\]
 ## 外部链接
 
   - [Kok.team：哈萨克斯坦LGBT议程网站](https://www.kok.team/en)
-  - [OMOO AS AKTIV](https://www.facebook.com/vko.aktiv) -
-    来自Ust-Kamenogorsk的LGBT组织
+  - [OMOO AS AKTIV](https://www.facebook.com/vko.aktiv) - 来自Ust-Kamenogorsk的LGBT组织
 
-[Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink")
-[Category:欧洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:欧洲各国LGBT权益 "wikilink")
-[Category:哈萨克斯坦政治](https://zh.wikipedia.org/wiki/Category:哈萨克斯坦政治 "wikilink")
+[Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink") [Category:欧洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:欧洲各国LGBT权益 "wikilink") [Category:哈萨克斯坦政治](https://zh.wikipedia.org/wiki/Category:哈萨克斯坦政治 "wikilink")
 
 1.
 2.
-3.  [National Laws Legislation of Interpol – member states on sexual
-    offences against children –
-    Kazakhstan](http://www.interpol.int/pv_obj_cache/pv_obj_id_C2390CF1285A7921ECD2D294F7B2110B45520000/filename/csaKazakhstan.pdf)
+3.  [National Laws Legislation of Interpol – member states on sexual offences against children – Kazakhstan](http://www.interpol.int/pv_obj_cache/pv_obj_id_C2390CF1285A7921ECD2D294F7B2110B45520000/filename/csaKazakhstan.pdf)
 
 4.  [KAZAKHSTAN](http://ilga.org/ilga/en/countries/KAZAKHSTAN/Law)
 
-5.  [Violations by Kazakhstan of the Right of Transgender Persons to
-    Legal Recognition of Gender
-    Identity](http://tbinternet.ohchr.org/Treaties/CCPR/Shared%20Documents/KAZ/INT_CCPR_CSS_KAZ_24305_E.pdf)
+5.  [Violations by Kazakhstan of the Right of Transgender Persons to Legal Recognition of Gender Identity](http://tbinternet.ohchr.org/Treaties/CCPR/Shared%20Documents/KAZ/INT_CCPR_CSS_KAZ_24305_E.pdf)
 
-6.  [Kazakhstan: LGBT Community Living in
-    Fear](http://www.refworld.org/docid/55b20c664.html)
+6.  [Kazakhstan: LGBT Community Living in Fear](http://www.refworld.org/docid/55b20c664.html)
 
 7.
 
-8.  [Kazakhstan: Anti-Gay Laws Found
-    Unconstitutional](https://www.hrw.org/news/2015/05/28/kazakhstan-anti-gay-laws-found-unconstitutional)
-    Human Rights Watch
+8.  [Kazakhstan: Anti-Gay Laws Found Unconstitutional](https://www.hrw.org/news/2015/05/28/kazakhstan-anti-gay-laws-found-unconstitutional) Human Rights Watch
 
-9.  [The Gay Happiness Index. The very first worldwide country ranking,
-    based on the input of 115,000 gay
-    men](https://www.planetromeo.com/en/lgbt/gay-happiness-index/)
-    Planet Romeo
+9.  [The Gay Happiness Index. The very first worldwide country ranking, based on the input of 115,000 gay men](https://www.planetromeo.com/en/lgbt/gay-happiness-index/) Planet Romeo
 
-10. [Unacknowledged and Unprotected: Lesbian, Gay, Bisexual and
-    Transgender People in Kazakhstan by Soros
-    Foundation](http://www.soros.kz/en/publications/monitoring_and_researches/unacknowledged-and-unprotected-lesbian-gay-bisexual-and-trans)
+10. [Unacknowledged and Unprotected: Lesbian, Gay, Bisexual and Transgender People in Kazakhstan by Soros Foundation](http://www.soros.kz/en/publications/monitoring_and_researches/unacknowledged-and-unprotected-lesbian-gay-bisexual-and-trans)
 
-
-11. [Cross-national Differences in Attitudes towards Homosexuality by
-    NORC/University of
-    Chicago](http://www3.law.ucla.edu/williamsinstitute/pdf/Smith-CrossNational-NORC-May2011.pdf)
+11. [Cross-national Differences in Attitudes towards Homosexuality by NORC/University of Chicago](http://www3.law.ucla.edu/williamsinstitute/pdf/Smith-CrossNational-NORC-May2011.pdf)

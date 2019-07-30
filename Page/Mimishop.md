@@ -1,6 +1,4 @@
-《**Mimishop**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")4的綜藝節目\[1\]，由[Tony
-An](https://zh.wikipedia.org/wiki/Tony_An "wikilink")、[Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")、[Cheetah](../Page/Cheetah.md "wikilink")、[申素律](../Page/申素律.md "wikilink")、[金珍京](https://zh.wikipedia.org/wiki/金珍京 "wikilink")、[Park
-Yury等人共同主持](https://zh.wikipedia.org/wiki/Park_Yury "wikilink")\[2\]\[3\]，節目主軸為真正有一家名為「Mimishop」店舖\[4\]，而主持人們會根據顧客的要求來定制妝容，也就是個人故事與化妝相結合\[5\]。
+《**Mimishop**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")4的綜藝節目\[1\]，由[Tony An](https://zh.wikipedia.org/wiki/Tony_An "wikilink")、[Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")、[Cheetah](../Page/Cheetah.md "wikilink")、[申素律](../Page/申素律.md "wikilink")、[金珍京](https://zh.wikipedia.org/wiki/金珍京 "wikilink")、[Park Yury等人共同主持](https://zh.wikipedia.org/wiki/Park_Yury "wikilink")\[2\]\[3\]，節目主軸為真正有一家名為「Mimishop」店舖\[4\]，而主持人們會根據顧客的要求來定制妝容，也就是個人故事與化妝相結合\[5\]。
 
 ## 各集內容
 
@@ -83,14 +81,12 @@ Yury等人共同主持](https://zh.wikipedia.org/wiki/Park_Yury "wikilink")\[2\]
 ## 外部連結
 
   -
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
 
 1.
 2.
 3.
-4.  位於[首爾](../Page/首爾.md "wikilink")[麻浦區西橋洞](../Page/麻浦區.md "wikilink")。
+4.  位於[首爾](../Page/首爾.md "wikilink")[麻浦區](../Page/麻浦區.md "wikilink")西橋洞。
 5.
 6.
 7.

@@ -2,7 +2,7 @@
 
 ## 歷史
 
-Drugs.com這個[域名原本由](../Page/域名.md "wikilink")[柏尼·紐貝克在](https://zh.wikipedia.org/wiki/Bonnie_Neubeck "wikilink")1994年註冊。\[1\]
+Drugs.com這個[域名](../Page/域名.md "wikilink")原本由[柏尼·紐貝克在](https://zh.wikipedia.org/wiki/Bonnie_Neubeck "wikilink")1994年註冊。\[1\]
 
 1999年，[網際網路正處於快速發展期](https://zh.wikipedia.org/wiki/網際網路 "wikilink")，[艾瑞克·麥可弗從紐貝克手中買下了這個網域](https://zh.wikipedia.org/wiki/Eric_MacIver "wikilink")。\[2\]
 
@@ -18,8 +18,7 @@ Drugs.com這個[域名原本由](../Page/域名.md "wikilink")[柏尼·紐貝克
 
   - [Drugs.com](http://www.drugs.com/)
 
-[Category:医学网站](https://zh.wikipedia.org/wiki/Category:医学网站 "wikilink")
-[Category:2001年成立的公司](https://zh.wikipedia.org/wiki/Category:2001年成立的公司 "wikilink")
+[Category:医学网站](https://zh.wikipedia.org/wiki/Category:医学网站 "wikilink") [Category:2001年成立的公司](https://zh.wikipedia.org/wiki/Category:2001年成立的公司 "wikilink")
 
 1.
 2.

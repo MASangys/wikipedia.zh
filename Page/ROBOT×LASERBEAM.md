@@ -1,5 +1,4 @@
-《**ROBOT×LASERBEAM
-機器人的雷射高爾夫**》（）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[藤卷忠俊所作的一部運動](../Page/藤卷忠俊.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》2017年16號開始連載\[1\]\[2\]\[3\]。
+《**ROBOT×LASERBEAM 機器人的雷射高爾夫**》（）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[藤卷忠俊](../Page/藤卷忠俊.md "wikilink")所作的一部運動[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》2017年16號開始連載\[1\]\[2\]\[3\]。
 
 ## 故事大綱
 
@@ -100,12 +99,9 @@
 
 ## 外部連結
 
-  - [週刊少年JUMP官方網站 －
-    ROBOT×LASERBEAM](http://www.shonenjump.com/j/rensai/robolb.html)
+  - [週刊少年JUMP官方網站 － ROBOT×LASERBEAM](http://www.shonenjump.com/j/rensai/robolb.html)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink")
-[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink")
 
 1.
 2.

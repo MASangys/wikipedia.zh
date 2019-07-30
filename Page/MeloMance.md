@@ -1,7 +1,6 @@
 **MeloMance**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：멜로망스）是韓國男子雙人組音樂團體。成員有金珉碩、鄭東煥，2015年3月10日發行首張專輯《Sentimental》正式出道。\[1\]
 
-MeloMance
-在2017年7月發行的迷你專輯《Moonlight》主打歌《禮物》，時隔三個月後攻占音源排行榜上位圈，被稱為新一代「逆襲歌曲」。\[2\]\[3\]。
+MeloMance 在2017年7月發行的迷你專輯《Moonlight》主打歌《禮物》，時隔三個月後攻占音源排行榜上位圈，被稱為新一代「逆襲歌曲」。\[2\]\[3\]。
 
 ## 成員資料
 
@@ -312,18 +311,10 @@ MeloMance
   -
   -
   -
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
 
-1.  [音樂專題22:「No3.Naul」的
-    MeloMance](https://www.kpopn.com/2017/05/10/%E9%9F%B3%E6%A8%82%E5%B0%88%E9%A1%8C22%E3%80%8Cno3-naul%E3%80%8D%E7%9A%84-melomance/)kpopn
-    2017-05-10
-2.  [“역주행의 승리”..멜로망스, ‘선물’ 3개
-    차트 1위](http://entertain.naver.com/topic/999390/999390/read?oid=109&aid=0003642062)
-    OSEN 2017-10-20
-3.  [20171203 人氣歌謠一位：MINSEO vs RV vs
-    MeloMance](https://www.kpopn.com/2017/12/03/20171203-%E4%BA%BA%E6%B0%A3%E6%AD%8C%E8%AC%A0%E4%B8%80%E4%BD%8D%EF%BC%9Aminseo-vs-red-velvet-vs-melomance)kpopn
-    2017-12-03
+1.  [音樂專題22:「No3.Naul」的 MeloMance](https://www.kpopn.com/2017/05/10/%E9%9F%B3%E6%A8%82%E5%B0%88%E9%A1%8C22%E3%80%8Cno3-naul%E3%80%8D%E7%9A%84-melomance/)kpopn 2017-05-10
+2.  [“역주행의 승리”..멜로망스, ‘선물’ 3개 차트 1위](http://entertain.naver.com/topic/999390/999390/read?oid=109&aid=0003642062) OSEN 2017-10-20
+3.  [20171203 人氣歌謠一位：MINSEO vs RV vs MeloMance](https://www.kpopn.com/2017/12/03/20171203-%E4%BA%BA%E6%B0%A3%E6%AD%8C%E8%AC%A0%E4%B8%80%E4%BD%8D%EF%BC%9Aminseo-vs-red-velvet-vs-melomance)kpopn 2017-12-03
 4.
 5.

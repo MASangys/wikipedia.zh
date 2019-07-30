@@ -10,9 +10,9 @@
 
 用于收录一个位置上，周边所有图像信息的照片，被称作[全景照片](https://zh.wikipedia.org/wiki/全景照片 "wikilink")；这样的照片可以通过多次拍摄-后期拼合的方式获得，也可以使用专门设计的相机来获取。
 
-全景的拍摄与暗房工作在胶片时代费时费力，而数码摄影的诞生，特别是数字暗房方面，诸多[照片拼接软件的涌现](../Page/影像拼接.md "wikilink")，为全景图带来了新的机遇。全景图的应用方面，一些机构，如[Google街景将全景用于展现城市风貌](https://zh.wikipedia.org/wiki/Google街景 "wikilink")，用户在一个位置上，可以转动画面看到该处的所有建筑与街道，就如同在实地真的转身观看一般；一些地标建筑，如[伦敦大火纪念碑也配置了全景系统以记录伦敦的天气和活动](../Page/伦敦大火纪念碑.md "wikilink")。
+全景的拍摄与暗房工作在胶片时代费时费力，而数码摄影的诞生，特别是数字暗房方面，诸多[照片拼接软件的涌现](../Page/影像拼接.md "wikilink")，为全景图带来了新的机遇。全景图的应用方面，一些机构，如[Google街景将全景用于展现城市风貌](https://zh.wikipedia.org/wiki/Google街景 "wikilink")，用户在一个位置上，可以转动画面看到该处的所有建筑与街道，就如同在实地真的转身观看一般；一些地标建筑，如[伦敦大火纪念碑](../Page/伦敦大火纪念碑.md "wikilink")也配置了全景系统以记录伦敦的天气和活动。
 
-随着2007年以[iPhone的发布](https://zh.wikipedia.org/wiki/iPhone "wikilink")，以及[Android开放手机联盟的诞生为标志的](../Page/Android.md "wikilink")[智能手机浪潮掀起](../Page/智能手机.md "wikilink")，随时随地的[SNS需求改变了摄影的需求](https://zh.wikipedia.org/wiki/SNS "wikilink")。既有的全景产品，在便携性和易用性上不能满足分享需求，以此为契机，理光公司的全景产品投入了开发\[1\]。
+随着2007年以[iPhone的发布](https://zh.wikipedia.org/wiki/iPhone "wikilink")，以及[Android](../Page/Android.md "wikilink")开放手机联盟的诞生为标志的[智能手机](../Page/智能手机.md "wikilink")浪潮掀起，随时随地的[SNS需求改变了摄影的需求](https://zh.wikipedia.org/wiki/SNS "wikilink")。既有的全景产品，在便携性和易用性上不能满足分享需求，以此为契机，理光公司的全景产品投入了开发\[1\]。
 
 ### 基本设计
 
@@ -20,9 +20,7 @@
 
 理光THETA系列产品，从初代机到最新的V，一直保持了差不多的外形样貌——类似钢笔长度的薄板两侧正对位置各安置一枚[鱼眼镜头](../Page/鱼眼镜头.md "wikilink"),一面的镜头下方安防了快门钮，而其他的按键都排布在机身侧面。必要的充电与数据接口安排在机身底部，同时底部正中保留了照相机上通行的1/4英寸螺纹，可以接驳脚架等的安装。
 
-在2012年[Photokina展览会及](https://zh.wikipedia.org/wiki/Photokina展览会 "wikilink")2013年时披露的原型机，则展现了更为朴素的设计思维，两个相对的镜头部突出机身，如[双髻鲨造型](../Page/双髻鲨.md "wikilink")\[2\]。而最终于2013年下半发布的消费版机型，则大大缩小了突出部分，究其原因，在于对内部光路加入了潜望式光学系统（
-），在二十一世纪的第一个十年，由[美能达DiMAGE
-X系列率先应用](../Page/柯尼卡美能達DiMAGE系列.md "wikilink")，随后其他厂商跟进而掀起了一波卡片机的热潮。
+在2012年[Photokina展览会及](https://zh.wikipedia.org/wiki/Photokina展览会 "wikilink")2013年时披露的原型机，则展现了更为朴素的设计思维，两个相对的镜头部突出机身，如[双髻鲨](../Page/双髻鲨.md "wikilink")造型\[2\]。而最终于2013年下半发布的消费版机型，则大大缩小了突出部分，究其原因，在于对内部光路加入了潜望式光学系统（ ），在二十一世纪的第一个十年，由[美能达DiMAGE X系列率先应用](../Page/柯尼卡美能達DiMAGE系列.md "wikilink")，随后其他厂商跟进而掀起了一波卡片机的热潮。
 
 [RicohThetaV_SectionView.jpg](https://zh.wikipedia.org/wiki/File:RicohThetaV_SectionView.jpg "fig:RicohThetaV_SectionView.jpg")
 
@@ -36,18 +34,11 @@ X系列率先应用](../Page/柯尼卡美能達DiMAGE系列.md "wikilink")，随
 
 该系列的第二款，后缀m15的机型保留了基本硬件设计的同时，尝试性地追加了视频功能。
 
-[RicohThetaS_HDMIoutput.jpg](https://zh.wikipedia.org/wiki/File:RicohThetaS_HDMIoutput.jpg "fig:RicohThetaS_HDMIoutput.jpg")
-之后于2015年发布的[RICOH THETA
-S](../Page/理光THETA_S.md "wikilink")，做了较大改进，将系列带入了新的阶段。传感器升级到1/2.3英寸的主流规格，此为便携类特殊用途数码机（如[GoPro](../Page/GoPro.md "wikilink")）的一个常用规格；为了对应新的传感器尺寸，镜头也重新设计以匹配，光圈定为F2。视频除了延长单段持续时间到25分钟外，并没有提升分辨率，但为[直播应用设计了UVC支持](https://zh.wikipedia.org/wiki/直播 "wikilink")，在底部给出了[Micro
-HDMI接口](../Page/HDMI.md "wikilink")，但受限于处理机能，视频与输出的画面无法实时拼合。
+[RicohThetaS_HDMIoutput.jpg](https://zh.wikipedia.org/wiki/File:RicohThetaS_HDMIoutput.jpg "fig:RicohThetaS_HDMIoutput.jpg") 之后于2015年发布的[RICOH THETA S](../Page/理光THETA_S.md "wikilink")，做了较大改进，将系列带入了新的阶段。传感器升级到1/2.3英寸的主流规格，此为便携类特殊用途数码机（如[GoPro](../Page/GoPro.md "wikilink")）的一个常用规格；为了对应新的传感器尺寸，镜头也重新设计以匹配，光圈定为F2。视频除了延长单段持续时间到25分钟外，并没有提升分辨率，但为[直播应用设计了UVC支持](https://zh.wikipedia.org/wiki/直播 "wikilink")，在底部给出了[Micro HDMI接口](../Page/HDMI.md "wikilink")，但受限于处理机能，视频与输出的画面无法实时拼合。
 
-THETA S对于直播推流的尝试，在理光公司内产生了另外的分支项目——**RICOH
-R**\[4\]。该机主打视频直播的研究应用，根据Watch
-Impress的报道，该机在开发过程中参考了THETA S的既有设计并且进行了改进\[5\]。这一项目在CES
-2017披露，平行于THETA系列并无隶属关系。
+THETA S对于直播推流的尝试，在理光公司内产生了另外的分支项目——**RICOH R**\[4\]。该机主打视频直播的研究应用，根据Watch Impress的报道，该机在开发过程中参考了THETA S的既有设计并且进行了改进\[5\]。这一项目在CES 2017披露，平行于THETA系列并无隶属关系。
 
-2017年的THETA
-V将视频分辨率提到4K规格，同时在机内设置了4个麦克风，可以收录全向的音频信息，于回放的时候根据头部方向参数进行混合重整\[6\]。该全景声技术（）理论基础可追溯到起源于20世纪70年代的，但以发布时的视频容器格式无法支持，仅能在对应手机APP观看与[Youtube分享渠道获得该体验](https://zh.wikipedia.org/wiki/Youtube "wikilink")\[7\]。V由于内部处理器性能提升，推流时可直接输出以等距矩形投影规格的画面。同时内置了[Android系统](../Page/Android.md "wikilink")，并且针对第三方开发者开放，允许编写插件在V上执行；其内置了一款使用[Miracast进行无线投屏的插件](../Page/Miracast.md "wikilink")，可在智能电视或支持的OTT盒上，播放机内的全景照片与视频，V机身可当作遥控器使用\[8\]。
+2017年的THETA V将视频分辨率提到4K规格，同时在机内设置了4个麦克风，可以收录全向的音频信息，于回放的时候根据头部方向参数进行混合重整\[6\]。该全景声技术（）理论基础可追溯到起源于20世纪70年代的，但以发布时的视频容器格式无法支持，仅能在对应手机APP观看与[Youtube分享渠道获得该体验](https://zh.wikipedia.org/wiki/Youtube "wikilink")\[7\]。V由于内部处理器性能提升，推流时可直接输出以等距矩形投影规格的画面。同时内置了[Android](../Page/Android.md "wikilink")系统，并且针对第三方开发者开放，允许编写插件在V上执行；其内置了一款使用[Miracast](../Page/Miracast.md "wikilink")进行无线投屏的插件，可在智能电视或支持的OTT盒上，播放机内的全景照片与视频，V机身可当作遥控器使用\[8\]。
 
 ## 历代机型
 
@@ -59,34 +50,25 @@ V将视频分辨率提到4K规格，同时在机内设置了4个麦克风，可�
 
   - RICOH THETA m15
 
-2014年11月发布\[9\]\[10\]。加入了视频录制功能，以MPEG-4
-AVC/H.264编码。在2015年的固件更新中，视频录制时间延长到最长5分钟\[11\]。具有蓝黄红白四色。
+2014年11月发布\[9\]\[10\]。加入了视频录制功能，以MPEG-4 AVC/H.264编码。在2015年的固件更新中，视频录制时间延长到最长5分钟\[11\]。具有蓝黄红白四色。
 
   - [RICOH THETA S](../Page/理光THETA_S.md "wikilink")
 
-2015年9月发布\[12\]\[13\]，外观不变，感光元件升级到1/2.3英寸规格，镜头也使用新设计的6群7枚，开放光圈F2\[14\]。静止图像支持最高5376×2688规格，视频拍摄时间延长到15分；此外，底部提供了
-type D 型的[HDMI输出接口](../Page/HDMI.md "wikilink")。仅提供黑色款。
+2015年9月发布\[12\]\[13\]，外观不变，感光元件升级到1/2.3英寸规格，镜头也使用新设计的6群7枚，开放光圈F2\[14\]。静止图像支持最高5376×2688规格，视频拍摄时间延长到15分；此外，底部提供了 type D 型的[HDMI](../Page/HDMI.md "wikilink")输出接口。仅提供黑色款。
 
   - RICOH THETA SC
 
-2016年10月推出，基本规格与THETA
-S类似，缩短视频时长，不提供底部的HDMI输出串流，但提供四种颜色可选\[15\]。可视作经济版机型。
+2016年10月推出，基本规格与THETA S类似，缩短视频时长，不提供底部的HDMI输出串流，但提供四种颜色可选\[15\]。可视作经济版机型。
 
-2017年8月，理光为[初音未來诞生十周年](../Page/初音未來.md "wikilink")，推出特别联名版本**THETA SC
-Type HATSUNE
-MIKU**，机身为标志性蓝绿色，其具有初音未来形象\[16\]。除了基本的功能外，可以在专属APP中为全景照片添加miku形象。该特别版全球限量发售3939台。
+2017年8月，理光为[初音未來](../Page/初音未來.md "wikilink")诞生十周年，推出特别联名版本**THETA SC Type HATSUNE MIKU**，机身为标志性蓝绿色，其具有初音未来形象\[16\]。除了基本的功能外，可以在专属APP中为全景照片添加miku形象。该特别版全球限量发售3939台。
 
   - RICOH THETA V
 
-2017年9月发布机型，相比S主要在视频录制上有较大进步，增加了对4K规格视频记录的支持；同时内部处理器使用了[高通公司的](https://zh.wikipedia.org/wiki/高通公司 "wikilink")[骁龙产品](https://zh.wikipedia.org/wiki/驍龍 "wikilink")，提升机内性能的同时降低了功耗。除加速度感應器以外同時搭載陀螺儀，並新增Wi-Fi
-5GHz頻段支援與藍芽通信。伴随的功能改进还有全景声收录的支持，同時能透過安裝插件方式新增功能。
+2017年9月发布机型，相比S主要在视频录制上有较大进步，增加了对4K规格视频记录的支持；同时内部处理器使用了[高通公司的](https://zh.wikipedia.org/wiki/高通公司 "wikilink")[骁龙产品](https://zh.wikipedia.org/wiki/驍龍 "wikilink")，提升机内性能的同时降低了功耗。除加速度感應器以外同時搭載陀螺儀，並新增Wi-Fi 5GHz頻段支援與藍芽通信。伴随的功能改进还有全景声收录的支持，同時能透過安裝插件方式新增功能。
 
   - RICOH THETA Z1
 
-2019年2月發布\[17\]，機身材質變更為鎂鋁合金，感光元件升級為1英吋規格，鏡頭升級為10群14枚並具有可調式光圈 （f/2.1,
-f/3.5,
-f/5.6），靜止圖像支持最高6720×3360規格，能同時輸出[JPEG與](../Page/JPEG.md "wikilink")[Adobe
-DNG格式Raw檔案](https://zh.wikipedia.org/wiki/DNG "wikilink")。Wi-Fi新增[IEEE_802.11ac支援以達到更高的傳送速度](../Page/IEEE_802.11ac.md "wikilink")。新增的OLED螢幕能確認拍攝狀態與電池容量。
+2019年2月發布\[17\]，機身材質變更為鎂鋁合金，感光元件升級為1英吋規格，鏡頭升級為10群14枚並具有可調式光圈 （f/2.1, f/3.5, f/5.6），靜止圖像支持最高6720×3360規格，能同時輸出[JPEG](../Page/JPEG.md "wikilink")與[Adobe DNG格式Raw檔案](https://zh.wikipedia.org/wiki/DNG "wikilink")。Wi-Fi新增[IEEE_802.11ac](../Page/IEEE_802.11ac.md "wikilink")支援以達到更高的傳送速度。新增的OLED螢幕能確認拍攝狀態與電池容量。
 
 <table>
 <caption>THETA系列机型参数对照[18]</caption>
@@ -383,35 +365,25 @@ HDR合成<br />
 
 此外，还可以与迷你脚架结合，拍摄固定位置的全景照片\[19\]。
 
-RICOH THETA S and TH-1 case.jpg|防护壳TH-1 RICOH THETA S on selfie
-stick.jpg|在自拍杆端的THETA S Ricoh Theta S, tripod, hard cover.jpg|THETA与迷你脚架
+RICOH THETA S and TH-1 case.jpg|防护壳TH-1 RICOH THETA S on selfie stick.jpg|在自拍杆端的THETA S Ricoh Theta S, tripod, hard cover.jpg|THETA与迷你脚架
 
 ## 评价
 
 ## 影响
 
-  - 2014年，会同策划了利用[气象气球携带THETA进入大气层](https://zh.wikipedia.org/wiki/气象气球 "wikilink")，进行持续拍照观测的活动。该活动在2014年6月14日施行，放球地址为[高知县](../Page/高知县.md "wikilink")[高冈郡](https://zh.wikipedia.org/wiki/高冈郡 "wikilink")[梼原町](https://zh.wikipedia.org/wiki/梼原町 "wikilink")，最终于[室戶岬西方冲](../Page/室戶岬.md "wikilink")10km的地点回收\[20\]。
+  - 2014年，会同策划了利用[气象气球携带THETA进入大气层](https://zh.wikipedia.org/wiki/气象气球 "wikilink")，进行持续拍照观测的活动。该活动在2014年6月14日施行，放球地址为[高知县](../Page/高知县.md "wikilink")[高冈郡](https://zh.wikipedia.org/wiki/高冈郡 "wikilink")[梼原町](https://zh.wikipedia.org/wiki/梼原町 "wikilink")，最终于[室戶岬](../Page/室戶岬.md "wikilink")西方冲10km的地点回收\[20\]。
 
 <!-- end list -->
 
-  - 2015～2016年，伴随THETA
-    S的发布，画质得到较大改善，同时也有其他竞争机型涌入，[Google街景开始鼓励用户以全景相机拍摄的图片](https://zh.wikipedia.org/wiki/Google街景 "wikilink")，上传以丰富其图库；THETA
-    S即为推荐的工具机型\[21\]。同时，略有实验性质地推出针对经营性场所的全景拍摄聘请计划，商户和可信的全景摄影师通过Google街景服务作为中间介绍人，由摄影师为商户拍摄店内全景图以上传街景服务\[22\]；其演示视频即出现了THETA
-    S\[23\]。
+  - 2015～2016年，伴随THETA S的发布，画质得到较大改善，同时也有其他竞争机型涌入，[Google街景开始鼓励用户以全景相机拍摄的图片](https://zh.wikipedia.org/wiki/Google街景 "wikilink")，上传以丰富其图库；THETA S即为推荐的工具机型\[21\]。同时，略有实验性质地推出针对经营性场所的全景拍摄聘请计划，商户和可信的全景摄影师通过Google街景服务作为中间介绍人，由摄影师为商户拍摄店内全景图以上传街景服务\[22\]；其演示视频即出现了THETA S\[23\]。
 
 <!-- end list -->
 
-  - 2016年，随着[PS
-    VR的推出](https://zh.wikipedia.org/wiki/PS_VR "wikilink")，理光将THETA
-    S与SC与其进行了联动。使得配合[PlayStation
-    4在PS](../Page/PlayStation_4.md "wikilink") VR中可以直接观看连线的THETA
-    S、SC内的全景图片与视频\[24\]\[25\]。
+  - 2016年，随着[PS VR的推出](https://zh.wikipedia.org/wiki/PS_VR "wikilink")，理光将THETA S与SC与其进行了联动。使得配合[PlayStation 4在PS](../Page/PlayStation_4.md "wikilink") VR中可以直接观看连线的THETA S、SC内的全景图片与视频\[24\]\[25\]。
 
 事实上，与PlayStation开发密切相关的[SIE](https://zh.wikipedia.org/wiki/SIE "wikilink")，其全球工作室总裁[吉田修平就是一名THETA用户](https://zh.wikipedia.org/wiki/吉田修平 "wikilink")，其经常在[推特上晒出自己用THETA拍摄的合影](https://zh.wikipedia.org/wiki/推特 "wikilink")\[26\]\[27\]\[28\]。
 
-  - 2017年5月，理光员工Olivier
-    Vriesendorp登顶[珠穆朗玛峰](https://zh.wikipedia.org/wiki/珠穆朗玛峰 "wikilink")，使用[THETA
-    S进行了拍摄](../Page/理光THETA_S.md "wikilink")\[29\]。
+  - 2017年5月，理光员工Olivier Vriesendorp登顶[珠穆朗玛峰](https://zh.wikipedia.org/wiki/珠穆朗玛峰 "wikilink")，使用[THETA S进行了拍摄](../Page/理光THETA_S.md "wikilink")\[29\]。
 
 ## 参见
 
@@ -424,17 +396,11 @@ stick.jpg|在自拍杆端的THETA S Ricoh Theta S, tripod, hard cover.jpg|THETA�
 
   - [RICOH THETA专属网站](https://theta360cn.com/)（中国大陆）
   - [RICOH THETA专属网站](https://theta360.com/ct/)
-  - [RICOH THETA公共主页](https://www.facebook.com/ricoh.theta.global/) -
-    [Facebook](../Page/Facebook.md "wikilink")
-  - [RICOH
-    THETA](https://www.instagram.com/theta360official/)(theta360official)
-    - [Instagram](../Page/Instagram.md "wikilink")
-  - [RICOH
-    THETA](https://www.youtube.com/channel/UCwx0Aw3cmECMNBGCNckRgIg) -
-    [Youtube频道](https://zh.wikipedia.org/wiki/Youtube "wikilink")
+  - [RICOH THETA公共主页](https://www.facebook.com/ricoh.theta.global/) - [Facebook](../Page/Facebook.md "wikilink")
+  - [RICOH THETA](https://www.instagram.com/theta360official/)(theta360official) - [Instagram](../Page/Instagram.md "wikilink")
+  - [RICOH THETA](https://www.youtube.com/channel/UCwx0Aw3cmECMNBGCNckRgIg) - [Youtube频道](https://zh.wikipedia.org/wiki/Youtube "wikilink")
 
-[Category:理光數位相機](https://zh.wikipedia.org/wiki/Category:理光數位相機 "wikilink")
-[Category:全景相机](https://zh.wikipedia.org/wiki/Category:全景相机 "wikilink")
+[Category:理光數位相機](https://zh.wikipedia.org/wiki/Category:理光數位相機 "wikilink") [Category:全景相机](https://zh.wikipedia.org/wiki/Category:全景相机 "wikilink")
 
 1.
 
@@ -446,41 +412,28 @@ stick.jpg|在自拍杆端的THETA S Ricoh Theta S, tripod, hard cover.jpg|THETA�
 
 5.
 
-6.  [360度空間音訊](https://theta360.com/ct/about/theta/technology.html#sec_03)
-    - Theta360
+6.  [360度空間音訊](https://theta360.com/ct/about/theta/technology.html#sec_03) - Theta360
 
 7.
 
 8.
 
-9.  [1ショットで360度の全天球イメージが撮影できる 「RICOH
-    THETA」ニューモデル新発売](http://news.ricoh-imaging.co.jp/rim_info/2014/20141028_005994.html)
-    ricoh-imaging.co.jp
+9.  [1ショットで360度の全天球イメージが撮影できる 「RICOH THETA」ニューモデル新発売](http://news.ricoh-imaging.co.jp/rim_info/2014/20141028_005994.html) ricoh-imaging.co.jp
 
-10. [動画撮影が可能になったリコーの全天球カメラ「THETA
-    m15」](http://av.watch.impress.co.jp/docs/news/20141028_673417.html)
-    - DC Watch Impress
+10. [動画撮影が可能になったリコーの全天球カメラ「THETA m15」](http://av.watch.impress.co.jp/docs/news/20141028_673417.html) - DC Watch Impress
 
-11. [「RICOH THETA」の純正防滴ケースが登場
-    新ファームウェア・新スマホアプリも近日リリース](http://dc.watch.impress.co.jp/docs/news/20150707_710450.html)
-    - DC Watch Impress
+11. [「RICOH THETA」の純正防滴ケースが登場 新ファームウェア・新スマホアプリも近日リリース](http://dc.watch.impress.co.jp/docs/news/20150707_710450.html) - DC Watch Impress
 
-12. [ワンショットで360度の高画質な撮影ができる 「RICOH THETA
-    S」新発売](http://news.ricoh-imaging.co.jp/rim_info/2015/20150904_009355.html)
-    ricoh-imaging.co.jp
+12. [ワンショットで360度の高画質な撮影ができる 「RICOH THETA S」新発売](http://news.ricoh-imaging.co.jp/rim_info/2015/20150904_009355.html) ricoh-imaging.co.jp
 
-13. [360度カメラのハイスペック版「RICOH THETA S」 新型センサー&新開発レンズで高画質化
-    ライブビューや長秒撮影も](http://dc.watch.impress.co.jp/docs/news/20150904_719491.html)
-    - DC Watch Impress
+13. [360度カメラのハイスペック版「RICOH THETA S」 新型センサー&新開発レンズで高画質化 ライブビューや長秒撮影も](http://dc.watch.impress.co.jp/docs/news/20150904_719491.html) - DC Watch Impress
 
 14.
 15. [THETA SC|产品|理光](https://theta360.com/ct/about/theta/sc.html)
 
 16. [RICOH THETA SC Type HATSUNE MIKU](http://miku.ricoh/en/)
 
-17. [ワンショットで360°の全天球イメージを撮影できるカメラ 「RICOH THETA
-    Z1」を新発売](http://news.ricoh-imaging.co.jp/rim_info/2019/20190225_027277.html)
-    ricoh-imaging.co.jp
+17. [ワンショットで360°の全天球イメージを撮影できるカメラ 「RICOH THETA Z1」を新発売](http://news.ricoh-imaging.co.jp/rim_info/2019/20190225_027277.html) ricoh-imaging.co.jp
 
 18. [RICOH 理光 THETA系列机型简介](http://www.jianshu.com/p/6d3e9de37c2c) - 简书
 
@@ -496,16 +449,12 @@ stick.jpg|在自拍杆端的THETA S Ricoh Theta S, tripod, hard cover.jpg|THETA�
 
 24.
 
-25. [如何使用PlayStation4与PS VR查看RICOH
-    THETA上的静态图像和视频](https://theta360cn.com/cn/psvr/) |
-    RICOH THETA
+25. [如何使用PlayStation4与PS VR查看RICOH THETA上的静态图像和视频](https://theta360cn.com/cn/psvr/) | RICOH THETA
 
 26.
 
-27. [Shuhei Yoshida](https://twitter.com/yosp)(@yosp) -
-    [Twitter](../Page/Twitter.md "wikilink")
+27. [Shuhei Yoshida](https://twitter.com/yosp)(@yosp) - [Twitter](../Page/Twitter.md "wikilink")
 
-28. [与[小岛秀夫的合影](../Page/小岛秀夫.md "wikilink")](https://twitter.com/yosp/status/684967432885112832/photo/1)
-    - [Twitter](../Page/Twitter.md "wikilink")
+28. [与[小岛秀夫](../Page/小岛秀夫.md "wikilink")的合影](https://twitter.com/yosp/status/684967432885112832/photo/1) - [Twitter](../Page/Twitter.md "wikilink")
 
 29.

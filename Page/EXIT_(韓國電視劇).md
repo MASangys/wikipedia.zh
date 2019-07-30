@@ -99,12 +99,9 @@
 
 ## 同時段競爭作品
 
-  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
-    [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[我們遇見的奇蹟](../Page/我們遇見的奇蹟.md "wikilink")》
-  - [MBC](../Page/文化廣播公司.md "wikilink")
-    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[偉大的誘惑者](../Page/偉大的誘惑者.md "wikilink")》
-  - [tvN](../Page/TVN.md "wikilink")
-    [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[致忘了詩的你](../Page/致忘了詩的你.md "wikilink")》
+  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[我們遇見的奇蹟](../Page/我們遇見的奇蹟.md "wikilink")》
+  - [MBC](../Page/文化廣播公司.md "wikilink") [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[偉大的誘惑者](../Page/偉大的誘惑者.md "wikilink")》
+  - [tvN](../Page/TVN.md "wikilink") [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[致忘了詩的你](../Page/致忘了詩的你.md "wikilink")》
 
 ## 參考資料
 
@@ -114,8 +111,7 @@
 
 [Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
 
-1.  [崔泰俊確定出演《EXIT-出口》，出道首次擔任網劇男主角](https://www.kpopn.com/2018/01/21/%E5%B4%94%E6%B3%B0%E4%BF%8A%E7%A2%BA%E5%AE%9A%E5%87%BA%E6%BC%94%E3%80%8Aexit-%E5%87%BA%E5%8F%A3%E3%80%8B%EF%BC%8C%E5%87%BA%E9%81%93%E9%A6%96%E6%AC%A1%E6%93%94%E4%BB%BB%E7%B6%B2%E5%8A%87%E7%94%B7%E4%B8%BB%E8%A7%92/)
-    ，Kpopn，2018-01-21
+1.  [崔泰俊確定出演《EXIT-出口》，出道首次擔任網劇男主角](https://www.kpopn.com/2018/01/21/%E5%B4%94%E6%B3%B0%E4%BF%8A%E7%A2%BA%E5%AE%9A%E5%87%BA%E6%BC%94%E3%80%8Aexit-%E5%87%BA%E5%8F%A3%E3%80%8B%EF%BC%8C%E5%87%BA%E9%81%93%E9%A6%96%E6%AC%A1%E6%93%94%E4%BB%BB%E7%B6%B2%E5%8A%87%E7%94%B7%E4%B8%BB%E8%A7%92/) ，Kpopn，2018-01-21
 2.  [首次担纲电视剧男主角！崔泰俊将主演SBS新独幕剧《EXIT-出口》](http://hz.edushi.com/bang/info/4-110-n4258163.html)，E都市首页，2018-01-22
 3.
 4.

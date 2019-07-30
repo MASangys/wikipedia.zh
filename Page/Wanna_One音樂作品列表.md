@@ -1,7 +1,4 @@
-《**Wanna
-One音樂作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[Wanna
-One在出道限定期間內發行及參與之各類音樂作品](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。該團體隸屬於[YMC娛樂在](../Page/YMC娛樂.md "wikilink")2017年8月7日正式出道，將進行為期一年半的固定期限活動。迄今，Wanna
-One共發行了2張迷你專輯、1張改版專輯及1張特別專輯。
+《**Wanna One音樂作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[Wanna One在出道限定期間內發行及參與之各類音樂作品](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。該團體隸屬於[YMC娛樂](../Page/YMC娛樂.md "wikilink")在2017年8月7日正式出道，將進行為期一年半的固定期限活動。迄今，Wanna One共發行了2張迷你專輯、1張改版專輯及1張特別專輯。
 
 ## 迷你專輯
 
@@ -511,9 +508,7 @@ One共發行了2張迷你專輯、1張改版專輯及1張特別專輯。
 ## 外部連結
 
   -
-[Category:Wanna_One](https://zh.wikipedia.org/wiki/Category:Wanna_One "wikilink")
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
-[Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
+[Category:Wanna_One](https://zh.wikipedia.org/wiki/Category:Wanna_One "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.
 2.

@@ -2,19 +2,15 @@
 
 ## 早期生活
 
-斯特林·K·布朗出生於[密蘇里州](../Page/密蘇里州.md "wikilink")[聖路易](https://zh.wikipedia.org/wiki/聖路易_\(密蘇里州\) "wikilink")。他是小斯特林·布朗（Sterling
-Brown Jr.）和阿拉班·班克斯·布朗（Aralean Banks
-Brown）的五名小孩之一；他有兩名姊妹和兩名兄弟\[3\]\[4\]。布朗的父親在他10歲時過世；他的中間名為「凱爾比（Kelby）」，在孩童時期，直到他16歲起才開始使用「斯特林（Sterling）」一名來紀念已故的父親\[5\]。布朗主要是在密蘇里州長大，並在那就讀了\[6\]。布朗於1998年於[史丹佛大學畢業並獲得了](../Page/史丹佛大學.md "wikilink")[文學士的學位](https://zh.wikipedia.org/wiki/文學士 "wikilink")。他最初想從事商業工作，但卻愛上了一名大學新生（即他未來的妻子）。之後，布朗從[紐約大學的](https://zh.wikipedia.org/wiki/紐約大學 "wikilink")中獲得了[藝術創作碩士的學位](https://zh.wikipedia.org/wiki/藝術創作碩士 "wikilink")\[7\]。
+斯特林·K·布朗出生於[密蘇里州](../Page/密蘇里州.md "wikilink")[聖路易](https://zh.wikipedia.org/wiki/聖路易_\(密蘇里州\) "wikilink")。他是小斯特林·布朗（Sterling Brown Jr.）和阿拉班·班克斯·布朗（Aralean Banks Brown）的五名小孩之一；他有兩名姊妹和兩名兄弟\[3\]\[4\]。布朗的父親在他10歲時過世；他的中間名為「凱爾比（Kelby）」，在孩童時期，直到他16歲起才開始使用「斯特林（Sterling）」一名來紀念已故的父親\[5\]。布朗主要是在密蘇里州長大，並在那就讀了\[6\]。布朗於1998年於[史丹佛大學](../Page/史丹佛大學.md "wikilink")畢業並獲得了[文學士的學位](https://zh.wikipedia.org/wiki/文學士 "wikilink")。他最初想從事商業工作，但卻愛上了一名大學新生（即他未來的妻子）。之後，布朗從[紐約大學的](https://zh.wikipedia.org/wiki/紐約大學 "wikilink")中獲得了[藝術創作碩士的學位](https://zh.wikipedia.org/wiki/藝術創作碩士 "wikilink")\[7\]。
 
 ## 職業生涯
 
-大學畢業後，布朗在地區劇院中出演多名角色。布朗的職業生涯起於2002年，他在[瑞克·法穆易瓦的電影](../Page/瑞克·法穆易瓦.md "wikilink")《》中飾演了一名小角色，並於同年起在電視劇《》（第三季至第五季）中參演\[8\]。之後，布朗相繼於電視劇《》（2004年）、《[執法悍將](https://zh.wikipedia.org/wiki/執法悍將 "wikilink")》（2004年）和《》（2005年）中擔任小配角\[9\]。此外，他於2005年時還在[伊旺·麥奎格主演的電影](https://zh.wikipedia.org/wiki/伊旺·麥奎格 "wikilink")《》中飾演了一名小角色\[10\]。2006年至2007年間，布朗在[CW電視劇](../Page/CW電視網.md "wikilink")《[超自然檔案](https://zh.wikipedia.org/wiki/超自然檔案 "wikilink")》中擔任常駐演員，他在劇中所飾演的是一名吸血鬼獵人高登·沃克\[11\]。而在2007年至2013年，他在電視劇《》中主演一角\[12\]。
+大學畢業後，布朗在地區劇院中出演多名角色。布朗的職業生涯起於2002年，他在[瑞克·法穆易瓦](../Page/瑞克·法穆易瓦.md "wikilink")的電影《》中飾演了一名小角色，並於同年起在電視劇《》（第三季至第五季）中參演\[8\]。之後，布朗相繼於電視劇《》（2004年）、《[執法悍將](https://zh.wikipedia.org/wiki/執法悍將 "wikilink")》（2004年）和《》（2005年）中擔任小配角\[9\]。此外，他於2005年時還在[伊旺·麥奎格主演的電影](https://zh.wikipedia.org/wiki/伊旺·麥奎格 "wikilink")《》中飾演了一名小角色\[10\]。2006年至2007年間，布朗在[CW電視劇](../Page/CW電視網.md "wikilink")《[超自然檔案](https://zh.wikipedia.org/wiki/超自然檔案 "wikilink")》中擔任常駐演員，他在劇中所飾演的是一名吸血鬼獵人高登·沃克\[11\]。而在2007年至2013年，他在電視劇《》中主演一角\[12\]。
 
-布朗除了電視劇和電影外亦會參演舞台劇；如2014年，他在的[奧德賽戲劇](https://zh.wikipedia.org/wiki/奧德賽 "wikilink")《Father
-Comes Home From the
-Wars》中飾演英雄，該劇於[紐約市的](https://zh.wikipedia.org/wiki/紐約市 "wikilink")中演出\[13\]。
+布朗除了電視劇和電影外亦會參演舞台劇；如2014年，他在的[奧德賽戲劇](https://zh.wikipedia.org/wiki/奧德賽 "wikilink")《Father Comes Home From the Wars》中飾演英雄，該劇於[紐約市的](https://zh.wikipedia.org/wiki/紐約市 "wikilink")中演出\[13\]。
 
-2016年，布朗在[FX電視劇](https://zh.wikipedia.org/wiki/FX_\(電視頻道\) "wikilink")《[公眾與O·J·辛普森的對決：美國犯罪故事](../Page/公眾與O·J·辛普森的對決：美國犯罪故事.md "wikilink")》（2016年）中飾演主要角色；在劇中，他是一名負責[O·J·辛普森公訴案的檢察官](../Page/O·J·辛普森.md "wikilink")\[14\]。布朗所詮釋的達登獲得了普遍讚譽，並在[第68屆黃金時段艾美獎上贏得了](../Page/第68屆黃金時段艾美獎.md "wikilink")\[15\]。2016年起，他於[NBC電視劇](https://zh.wikipedia.org/wiki/國家廣播公司 "wikilink")《[這就是我們](../Page/這就是我們.md "wikilink")》中飾演藍道爾·皮爾森一角。2017年，布朗也因在《這就是我們》中的演出而贏得了\[16\]。在2018年的[第75屆金球獎上](https://zh.wikipedia.org/wiki/第75屆金球獎 "wikilink")，他憑《這就是我們》贏得了，這也象徵著布朗是首位贏得該獎項的非裔美國人演員\[17\]。布朗在頒獎典禮上表示，「我站在這拿著這個獎杯。我希望從現在的75年起也能有另一名黑人演員站在這拿著它。」\[18\]
+2016年，布朗在[FX電視劇](https://zh.wikipedia.org/wiki/FX_\(電視頻道\) "wikilink")《[公眾與O·J·辛普森的對決：美國犯罪故事](../Page/公眾與O·J·辛普森的對決：美國犯罪故事.md "wikilink")》（2016年）中飾演主要角色；在劇中，他是一名負責[O·J·辛普森](../Page/O·J·辛普森.md "wikilink")公訴案的檢察官\[14\]。布朗所詮釋的達登獲得了普遍讚譽，並在[第68屆黃金時段艾美獎](../Page/第68屆黃金時段艾美獎.md "wikilink")上贏得了\[15\]。2016年起，他於[NBC電視劇](https://zh.wikipedia.org/wiki/國家廣播公司 "wikilink")《[這就是我們](../Page/這就是我們.md "wikilink")》中飾演藍道爾·皮爾森一角。2017年，布朗也因在《這就是我們》中的演出而贏得了\[16\]。在2018年的[第75屆金球獎上](https://zh.wikipedia.org/wiki/第75屆金球獎 "wikilink")，他憑《這就是我們》贏得了，這也象徵著布朗是首位贏得該獎項的非裔美國人演員\[17\]。布朗在頒獎典禮上表示，「我站在這拿著這個獎杯。我希望從現在的75年起也能有另一名黑人演員站在這拿著它。」\[18\]
 
 2016年11月，宣布布朗將出演[漫威電影宇宙電影](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")《[黑豹](../Page/黑豹_\(電影\).md "wikilink")》，該片於2018年上映\[19\]\[20\]。後於2017年初，他也被證實將會參演由[沙恩·布萊克執導的電影](https://zh.wikipedia.org/wiki/沙恩·布萊克 "wikilink")《[終極戰士：掠奪者](../Page/終極戰士：掠奪者.md "wikilink")》\[21\]。
 
@@ -370,13 +366,7 @@ Wars》中飾演英雄，該劇於[紐約市的](https://zh.wikipedia.org/wiki/�
   -
   -
   -
-[Category:21世紀美國男演員](https://zh.wikipedia.org/wiki/Category:21世紀美國男演員 "wikilink")
-[Category:美國電影男演員](https://zh.wikipedia.org/wiki/Category:美國電影男演員 "wikilink")
-[Category:美國電視男演員](https://zh.wikipedia.org/wiki/Category:美國電視男演員 "wikilink")
-[Category:非洲裔美国男演员](https://zh.wikipedia.org/wiki/Category:非洲裔美国男演员 "wikilink")
-[Category:史丹佛大學校友](https://zh.wikipedia.org/wiki/Category:史丹佛大學校友 "wikilink")
-[Category:黃金時段艾美獎迷你影集或電影最佳男配角](https://zh.wikipedia.org/wiki/Category:黃金時段艾美獎迷你影集或電影最佳男配角 "wikilink")
-[Category:金球獎最佳電視男主角獲得者](https://zh.wikipedia.org/wiki/Category:金球獎最佳電視男主角獲得者 "wikilink")
+[Category:21世紀美國男演員](https://zh.wikipedia.org/wiki/Category:21世紀美國男演員 "wikilink") [Category:美國電影男演員](https://zh.wikipedia.org/wiki/Category:美國電影男演員 "wikilink") [Category:美國電視男演員](https://zh.wikipedia.org/wiki/Category:美國電視男演員 "wikilink") [Category:非洲裔美国男演员](https://zh.wikipedia.org/wiki/Category:非洲裔美国男演员 "wikilink") [Category:史丹佛大學校友](https://zh.wikipedia.org/wiki/Category:史丹佛大學校友 "wikilink") [Category:黃金時段艾美獎迷你影集或電影最佳男配角](https://zh.wikipedia.org/wiki/Category:黃金時段艾美獎迷你影集或電影最佳男配角 "wikilink") [Category:金球獎最佳電視男主角獲得者](https://zh.wikipedia.org/wiki/Category:金球獎最佳電視男主角獲得者 "wikilink")
 
 1.
 2.

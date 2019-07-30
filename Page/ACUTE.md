@@ -11,9 +11,7 @@
 
 ### 收錄
 
-收錄於專輯[EXIT TUNES PRESENTS Vocalocluster
-feat.初音未來](../Page/EXIT_TUNES_PRESENTS_Vocalocluster_feat.初音未來.md "wikilink")、遊戲ACUTE
--Project DIVA- f version
+收錄於專輯[EXIT TUNES PRESENTS Vocalocluster feat.初音未來](../Page/EXIT_TUNES_PRESENTS_Vocalocluster_feat.初音未來.md "wikilink")、遊戲ACUTE -Project DIVA- f version
 
 ## 漫畫
 
@@ -55,8 +53,7 @@ ReAct 輪迴重演</p></td>
 
 ## 參考資料
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink")
 
 1.
 

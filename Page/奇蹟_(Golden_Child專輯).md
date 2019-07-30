@@ -1,7 +1,4 @@
-《**奇蹟
-(기적)**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Golden
-Child第二張迷你韓語專輯](../Page/Golden_Child.md "wikilink")，此張專輯為成員[在錫退團後組合首次以十人體制發行的作品](https://zh.wikipedia.org/wiki/在錫 "wikilink")，於2018年1月29日由[Woollim娛樂和](../Page/Woollim娛樂.md "wikilink")[LOEN娛樂發行](https://zh.wikipedia.org/wiki/kakao "wikilink")，主打歌為〈너라고
-(It's U)〉。
+《**奇蹟 (기적)**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Golden Child第二張迷你韓語專輯](../Page/Golden_Child.md "wikilink")，此張專輯為成員[在錫退團後組合首次以十人體制發行的作品](https://zh.wikipedia.org/wiki/在錫 "wikilink")，於2018年1月29日由[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")和[LOEN娛樂發行](https://zh.wikipedia.org/wiki/kakao "wikilink")，主打歌為〈너라고 (It's U)〉。
 
 ## 曲目
 
@@ -202,11 +199,7 @@ Child第二張迷你韓語專輯](../Page/Golden_Child.md "wikilink")，此張�
 
 \== 參考資料 ==
 
-  - [genie -Golden Child 2nd Mini Album "奇跡
-    (기적)"](http://www.genie.co.kr/detail/albumInfo?axnm=81027337)
-  - [第二張迷你專輯《奇蹟
-    (기적)》namuwiki](https://namu.wiki/w/%E5%A5%87%E8%B7%A1\(%EA%B8%B0%EC%A0%81\))
+  - [genie -Golden Child 2nd Mini Album "奇跡 (기적)"](http://www.genie.co.kr/detail/albumInfo?axnm=81027337)
+  - [第二張迷你專輯《奇蹟 (기적)》namuwiki](https://namu.wiki/w/%E5%A5%87%E8%B7%A1\(%EA%B8%B0%EC%A0%81\))
 
-
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")

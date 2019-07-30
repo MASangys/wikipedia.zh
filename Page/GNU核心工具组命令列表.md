@@ -1,5 +1,4 @@
-这是一个 [GNU
-核心工具组的命令列表](../Page/GNU核心工具组.md "wikilink")。这些命令可以在Unix操作系统及大多数[类Unix操作系统上找到](https://zh.wikipedia.org/wiki/类Unix操作系统 "wikilink")。
+这是一个 [GNU 核心工具组的命令列表](../Page/GNU核心工具组.md "wikilink")。这些命令可以在Unix操作系统及大多数[类Unix操作系统上找到](https://zh.wikipedia.org/wiki/类Unix操作系统 "wikilink")。
 
 ## 列表
 
@@ -416,7 +415,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Readlink_(Unix)" title="wikilink">readlink</a></p></td>
-<td><p>显示<a href="../Page/符号链接.md" title="wikilink">符号链接的指向</a></p></td>
+<td><p>显示<a href="../Page/符号链接.md" title="wikilink">符号链接</a>的指向</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -537,17 +536,12 @@
 
 ## 外部链接
 
-  - [GNU Core Utilities
-    主页](https://www.gnu.org/software/coreutils/coreutils.html)
+  - [GNU Core Utilities 主页](https://www.gnu.org/software/coreutils/coreutils.html)
 
 <!-- end list -->
 
-  - [Rosetta Stone For \*Nix](http://bhami.com/rosetta.html) – \*
-    nix系统的等效程序的可配置列表。
-  - [The Unix Acronym List](http://roesler-ac.de/wolfram/acro/index.htm)
-    – 解释许多Unix命令的名称。
+  - [Rosetta Stone For \*Nix](http://bhami.com/rosetta.html) – \* nix系统的等效程序的可配置列表。
+  - [The Unix Acronym List](http://roesler-ac.de/wolfram/acro/index.htm) – 解释许多Unix命令的名称。
   - [The UNIX System Homepage](http://unix.org/)
 
-[Category:软件列表](https://zh.wikipedia.org/wiki/Category:软件列表 "wikilink")
-[Category:系统管理](https://zh.wikipedia.org/wiki/Category:系统管理 "wikilink")
-[Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")
+[Category:软件列表](https://zh.wikipedia.org/wiki/Category:软件列表 "wikilink") [Category:系统管理](https://zh.wikipedia.org/wiki/Category:系统管理 "wikilink") [Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")

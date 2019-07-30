@@ -1,5 +1,4 @@
-**B.Gs**，為一隊[香港](../Page/香港.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，現任成員包括鄒莉盈（Ceci）、方堯（Yona）、周汶希（Jovi）、霍柔心（Riley）及唐菲（Toffee），B.Gs
-於2015年正式加入樂壇。
+**B.Gs**，為一隊[香港](../Page/香港.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，現任成員包括鄒莉盈（Ceci）、方堯（Yona）、周汶希（Jovi）、霍柔心（Riley）及唐菲（Toffee），B.Gs 於2015年正式加入樂壇。
 
 ### EP
 
@@ -82,5 +81,4 @@
   -
   - [B.Gs加入新成員再戰寫真玩SheShe](http://hk.on.cc/hk/bkn/cnt/entertainment/20150628/bkn-20150628213651011-0628_00862_001.html)
 
-[Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink")
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
+[Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")

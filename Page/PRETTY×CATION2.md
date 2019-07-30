@@ -1,6 +1,4 @@
-《**PRETTY×CATION2**》（全名：PRETTY×CATION2 I wish I could be with you
-forever.）是日本[AKABEiSOFT2公司的旗下品牌hibiki](../Page/AKABEiSOFT2.md "wikilink")
-works在2015年4月24日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]CATION系列的第四作。
+《**PRETTY×CATION2**》（全名：PRETTY×CATION2 I wish I could be with you forever.）是日本[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")公司的旗下品牌hibiki works在2015年4月24日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]CATION系列的第四作。
 
 ## 遊戲系統
 
@@ -104,7 +102,7 @@ works在2015年4月24日發售的[成人遊戲](../Page/日本成人遊戲.md "w
 <!-- end list -->
 
   -
-    發售日：2015年4月22日　發售：[5pb.Records](../Page/5pb..md "wikilink")
+    發售日：2015年4月22日　發售：[5pb.](../Page/5pb..md "wikilink")Records
 
 <!-- end list -->
 
@@ -160,25 +158,14 @@ PRETTY×CATION2在2015年由Getchu.com舉辦的美少女遊戲大賞2015中獲�
 
   - [hibiki works](http://www.hibiki-site.com/)（限日本地區瀏覽）
 
-[Category:2015年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2015年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:2016年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2016年日本成人動畫 "wikilink")
+[Category:2015年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2015年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:2016年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2016年日本成人動畫 "wikilink")
 
-1.  [PRETTY×CATION2
-    初回限定版](http://www.getchu.com/soft.phtml?id=836910)Getchu.com
-2.  [Pretty x Cation 2](https://vndb.org/v16340)The Visual Novel
-    Database
+1.  [PRETTY×CATION2 初回限定版](http://www.getchu.com/soft.phtml?id=836910)Getchu.com
+2.  [Pretty x Cation 2](https://vndb.org/v16340)The Visual Novel Database
 3.  [PRETTY×CATION2](http://erogetrailers.com/soft/12954)ErogeTrailers
-4.  [PRETTY×CATION2](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=21328)ErogameScape
-    -エロゲー批評空間-
-5.  [PRETTY×CATION2 THE ANIMATION \#1
-    二人の休日](http://www.pinkpineapple.co.jp/products/detail.php?product_id=1091)PinkPineapple
-6.  [PRETTY×CATION 2 THE ANIMATION
-    ＃1「二人の休日」](http://www.getchu.com/soft.phtml?id=924006)Getchu.com
-7.  [美少女ゲーム大賞2015
-    －システム部門投票・結果発表－](http://www.getchu.com/pc/2015_g_ranking/system.html)Getchu.com
+4.  [PRETTY×CATION2](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=21328)ErogameScape -エロゲー批評空間-
+5.  [PRETTY×CATION2 THE ANIMATION \#1 二人の休日](http://www.pinkpineapple.co.jp/products/detail.php?product_id=1091)PinkPineapple
+6.  [PRETTY×CATION 2 THE ANIMATION ＃1「二人の休日」](http://www.getchu.com/soft.phtml?id=924006)Getchu.com
+7.  [美少女ゲーム大賞2015 －システム部門投票・結果発表－](http://www.getchu.com/pc/2015_g_ranking/system.html)Getchu.com
 8.  [2015年間ランキング](http://moe-gameaward.com/annual/2015.html)[萌えゲーアワード](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")
 9.  [2015年4月発売タイトル月間賞投票](http://moe-gameaward.com/ranking/index.html?year_id=2015&month_id=10)萌えゲーアワード

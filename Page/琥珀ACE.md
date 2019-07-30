@@ -1,14 +1,12 @@
-是[經驗值繪畫的](https://zh.wikipedia.org/wiki/經驗值_\(漫畫家\) "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，以《[月姬](../Page/月姬.md "wikilink")》琥珀與遠野秋葉為主角，回顧[TYPE-MOON歷史的漫畫](../Page/TYPE-MOON.md "wikilink")，涉及TYPE-MOON的所有作品。《[Comptiq](../Page/Comptiq.md "wikilink")》2011年6月號開始連載，用「TYPE-MOON
-10周年記念漫畫」宣傳\[1\]。
+是[經驗值繪畫的](https://zh.wikipedia.org/wiki/經驗值_\(漫畫家\) "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，以《[月姬](../Page/月姬.md "wikilink")》琥珀與遠野秋葉為主角，回顧[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")歷史的漫畫，涉及TYPE-MOON的所有作品。《[Comptiq](../Page/Comptiq.md "wikilink")》2011年6月號開始連載，用「TYPE-MOON 10周年記念漫畫」宣傳\[1\]。
 
-《[幻想嘉年華](../Page/幻想嘉年華.md "wikilink")》亦有該作的登場，《琥珀ACE GO》並有《Fate/KOHA-ACE
-帝都聖杯奇譚》連載。
+《[幻想嘉年華](../Page/幻想嘉年華.md "wikilink")》亦有該作的登場，《琥珀ACE GO》並有《Fate/KOHA-ACE 帝都聖杯奇譚》連載。
 
 ## 登場角色
 
   -
     出自《[月姬](../Page/月姬.md "wikilink")》。
-    主人公。擔當[TYPE-MOON作品的解說擔當](../Page/TYPE-MOON.md "wikilink")。
+    主人公。擔當[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")作品的解說擔當。
 
 <!-- end list -->
 
@@ -18,8 +16,7 @@
 <!-- end list -->
 
   -
-    出自《[Fate/stay
-    night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》。
+    出自《[Fate/stay night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》。
 
 <!-- end list -->
 
@@ -65,22 +62,19 @@
 <!-- end list -->
 
   -
-    出自《[Fate/Grand
-    Order](https://zh.wikipedia.org/wiki/Fate/Grand_Order "wikilink")》。
+    出自《[Fate/Grand Order](https://zh.wikipedia.org/wiki/Fate/Grand_Order "wikilink")》。
     新選組副長，櫻Saber的上司。作為從者時的職階是Berserker。
-    只在[LINE貼圖中登場](../Page/LINE.md "wikilink")。
+    只在[LINE](../Page/LINE.md "wikilink")貼圖中登場。
 
 <!-- end list -->
 
   -
-    出自《[Fate/Grand
-    Order](https://zh.wikipedia.org/wiki/Fate/Grand_Order "wikilink")》。
-    魔人Archer的弟弟。只在[LINE貼圖中登場](../Page/LINE.md "wikilink")。
+    出自《[Fate/Grand Order](https://zh.wikipedia.org/wiki/Fate/Grand_Order "wikilink")》。
+    魔人Archer的弟弟。只在[LINE](../Page/LINE.md "wikilink")貼圖中登場。
 
 ### Fate/KOHA-ACE
 
-※聲優為《[Fate/Grand
-Order](https://zh.wikipedia.org/wiki/Fate/Grand_Order "wikilink")》的陣容。
+※聲優為《[Fate/Grand Order](https://zh.wikipedia.org/wiki/Fate/Grand_Order "wikilink")》的陣容。
 
   -
 
@@ -92,7 +86,7 @@ Order](https://zh.wikipedia.org/wiki/Fate/Grand_Order "wikilink")》的陣容。
 
   -
     穿著[大正時代風格和服的女性](https://zh.wikipedia.org/wiki/大正時代 "wikilink")，有著淡淡的櫻花色短髮。有著平易近人、好相處的個性，但戰鬥時卻表現得非常冷酷的天才劍士。
-    真名是[新選組一番隊隊長](../Page/新選組.md "wikilink")**[沖田總司](../Page/沖田總司.md "wikilink")**，史實中是男性，另外也擁有Assassin的適性。
+    真名是[新選組](../Page/新選組.md "wikilink")一番隊隊長**[沖田總司](../Page/沖田總司.md "wikilink")**，史實中是男性，另外也擁有Assassin的適性。
     本次聖杯戰爭中的御主是琥珀。
 
 <!-- end list -->
@@ -193,13 +187,11 @@ Order](https://zh.wikipedia.org/wiki/Fate/Grand_Order "wikilink")》的陣容。
 
 <!-- end list -->
 
-  - [Fate/kaleid liner
-    魔法少女☆伊莉雅](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
+  - [Fate/kaleid liner 魔法少女☆伊莉雅](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
 
 <!-- end list -->
 
-  - [Fate/Grand
-    Order](https://zh.wikipedia.org/wiki/Fate/Grand_Order "wikilink")
+  - [Fate/Grand Order](https://zh.wikipedia.org/wiki/Fate/Grand_Order "wikilink")
     官方正式漫畫《》、《》
 
 ## 參考資料

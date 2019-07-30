@@ -1,9 +1,8 @@
-，為2016年10月9日起毎週日晚間9:00－9:54於[富士電視台聯播網播出的連續劇](../Page/富士電視台.md "wikilink")\[1\]。本劇由[玉木宏主演](../Page/玉木宏.md "wikilink")，是一部原創戲劇作品\[2\]\[3\]。
+，為2016年10月9日起毎週日晚間9:00－9:54於[富士電視台](../Page/富士電視台.md "wikilink")聯播網播出的連續劇\[1\]。本劇由[玉木宏](../Page/玉木宏.md "wikilink")主演，是一部原創戲劇作品\[2\]\[3\]。
 
 ## 故事概要
 
-毫無官僚氣息，完全不擺架子的和平主義者遠山金志郎（[玉木宏](../Page/玉木宏.md "wikilink")
-飾），接任北町署新任警察署長後，以「親自走訪現場了解案情」、「試著以嫌犯的心情了解為何嫌犯要犯案」的查案模式，釐清一件件懸而未決的刑事案件…
+毫無官僚氣息，完全不擺架子的和平主義者遠山金志郎（[玉木宏](../Page/玉木宏.md "wikilink") 飾），接任北町署新任警察署長後，以「親自走訪現場了解案情」、「試著以嫌犯的心情了解為何嫌犯要犯案」的查案模式，釐清一件件懸而未決的刑事案件…
 
 ## 登場人物
 
@@ -14,7 +13,7 @@
 <!-- end list -->
 
   -
-    具有國家公務員身分，北町署新就任的警察署長。階級是[警視正](../Page/警視正.md "wikilink")。名字與江戶時代後期的幕臣、旗本（德川家康旗下名望最高的家臣）[遠山景元的通稱](../Page/遠山景元.md "wikilink")「金四郎」日文發音相同，北町署刑事課的刑警私下稱他為「遠山的金先生」。親生父親是北町署警官櫻井周平。「遠山」為金志郎繼父的姓氏。
+    具有國家公務員身分，北町署新就任的警察署長。階級是[警視正](../Page/警視正.md "wikilink")。名字與江戶時代後期的幕臣、旗本（德川家康旗下名望最高的家臣）[遠山景元](../Page/遠山景元.md "wikilink")的通稱「金四郎」日文發音相同，北町署刑事課的刑警私下稱他為「遠山的金先生」。親生父親是北町署警官櫻井周平。「遠山」為金志郎繼父的姓氏。
 
 <!-- end list -->
 
@@ -700,13 +699,7 @@
   - [《Career～打破常規的警察署長～》－富士電視台官方網站](http://www.fujitv.co.jp/career/)
   - [《Career～打破常規的警察署長～》－富士電視台官方預告片](http://www.youtube.com/watch?v=EZmCyfiAaQc)
 
-[Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:富士電視台週日晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週日晚間九點連續劇 "wikilink")
-[Category:共同電視製作電視劇](https://zh.wikipedia.org/wiki/Category:共同電視製作電視劇 "wikilink")
-[Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink")
-[Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:富士電視台週日晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週日晚間九點連續劇 "wikilink") [Category:共同電視製作電視劇](https://zh.wikipedia.org/wiki/Category:共同電視製作電視劇 "wikilink") [Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink") [Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
 1.
 

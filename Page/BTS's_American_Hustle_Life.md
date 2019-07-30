@@ -1,7 +1,4 @@
-《**BTS's American Hustle
-Life**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Big
-Hit娛樂公司旗下](../Page/Big_Hit娛樂.md "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[防彈少年團的第二個電視](../Page/防彈少年團.md "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，是Mnet突破以往做出的實境秀新嘗試。\[1\]於2014年6月底至8月，防彈少年團與製作人[房時爀在](../Page/房時爀.md "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯製作與準備新專輯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")《[DARK
-& WILD](../Page/DARK_&_WILD.md "wikilink")》時所拍攝。\[2\]
+《**BTS's American Hustle Life**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Big Hit娛樂公司旗下](../Page/Big_Hit娛樂.md "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[防彈少年團](../Page/防彈少年團.md "wikilink")的第二個電視[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，是Mnet突破以往做出的實境秀新嘗試。\[1\]於2014年6月底至8月，防彈少年團與製作人[房時爀](../Page/房時爀.md "wikilink")在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯製作與準備新專輯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")《[DARK & WILD](../Page/DARK_&_WILD.md "wikilink")》時所拍攝。\[2\]
 
 節目在韓國時間2014年7月24日晚上八點首播，之後每週四晚上七點半於[Mnet播出](https://zh.wikipedia.org/wiki/Mnet "wikilink")，播映至2014年9月11日結束，總共八集。
 
@@ -9,8 +6,7 @@ Hit娛樂公司旗下](../Page/Big_Hit娛樂.md "wikilink")[男子團體](https:
 
 防彈少年團前往嘻哈饒舌發源地美國L.A.，在意想不到的突發狀況之下開始每天24小時與嘻哈導師一起生活，並且與製作人、饒舌歌手、DJ等多位老師見面－－其中包括美國傳奇嘻哈人物和－－透過各式各樣的任務接觸真正的嘻哈文化。
 
-節目製作人：「嘻哈偶像防彈少年團在毫無準備的情況之下展開美國當地homestay生活，在節目中可以看到他們的真實面貌，以及LA日常生活的互動樂趣。他們克服了陌生文化，接觸當地嘻哈，而且見到了嘻哈傳奇Warren
-G和Coolio，展現成長。」\[3\]\[4\]
+節目製作人：「嘻哈偶像防彈少年團在毫無準備的情況之下展開美國當地homestay生活，在節目中可以看到他們的真實面貌，以及LA日常生活的互動樂趣。他們克服了陌生文化，接觸當地嘻哈，而且見到了嘻哈傳奇Warren G和Coolio，展現成長。」\[3\]\[4\]
 
 ## 演出團員
 
@@ -128,10 +124,7 @@ B-boy組：Rap Monster、Jimin<br />
 
   - 參考來源
 
-[Category:防彈少年團](https://zh.wikipedia.org/wiki/Category:防彈少年團 "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink")
+[Category:防彈少年團](https://zh.wikipedia.org/wiki/Category:防彈少年團 "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink")
 
 1.
 2.

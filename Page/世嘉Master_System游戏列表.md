@@ -1,5 +1,4 @@
-本电子游戏列表列举了[世嘉Master
-System的](../Page/世嘉Master_System.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")。
+本电子游戏列表列举了[世嘉Master System的](../Page/世嘉Master_System.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")。
 
 ## 游戏列表
 
@@ -3592,8 +3591,7 @@ System的](../Page/世嘉Master_System.md "wikilink")[电子游戏](../Page/电�
 
 ## 参考资料
 
-[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
-[Category:世嘉Master_System游戏](https://zh.wikipedia.org/wiki/Category:世嘉Master_System游戏 "wikilink")
+[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink") [Category:世嘉Master_System游戏](https://zh.wikipedia.org/wiki/Category:世嘉Master_System游戏 "wikilink")
 
 1.
 2.

@@ -1,12 +1,12 @@
-**Serena**（），[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")。出身於[東京都](../Page/東京都.md "wikilink")\[1\]。
+**Serena**（），[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")。出身於[東京都](../Page/東京都.md "wikilink")\[1\]。
 
 ## 來歷
 
-Serena說她從小在父親對音樂的興趣之下，自己開始接觸音樂\[2\]。高中2年級的時候，將自己的[樣本唱片寄到藝人經紀公司](../Page/樣本唱片.md "wikilink")[研音之後](../Page/研音.md "wikilink")，隔天與公司締結契約\[3\]。並從出道前夕的2012年秋天開始進行巡迴演唱。翌年2013年8月21日，其個人首張單曲《粉紅色的子彈》發行（同名單曲也被選為[富士電視台](../Page/富士電視台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")《[庶務二課2013](https://zh.wikipedia.org/wiki/庶務二課#第4季（2013年） "wikilink")》主題歌曲使用），從此正式在歌壇出道\[4\]\[5\]。緊接在同年11月13日，第2張單曲「CHANGE\!\!」發行（同名單曲也被選為[TBS電視劇](../Page/TBS電視台.md "wikilink")《[丈夫的女朋友](../Page/丈夫的女朋友.md "wikilink")》主題歌曲使用）\[6\]。
+Serena說她從小在父親對音樂的興趣之下，自己開始接觸音樂\[2\]。高中2年級的時候，將自己的[樣本唱片](../Page/樣本唱片.md "wikilink")寄到藝人經紀公司[研音](../Page/研音.md "wikilink")之後，隔天與公司締結契約\[3\]。並從出道前夕的2012年秋天開始進行巡迴演唱。翌年2013年8月21日，其個人首張單曲《粉紅色的子彈》發行（同名單曲也被選為[富士電視台](../Page/富士電視台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")《[庶務二課2013](https://zh.wikipedia.org/wiki/庶務二課#第4季（2013年） "wikilink")》主題歌曲使用），從此正式在歌壇出道\[4\]\[5\]。緊接在同年11月13日，第2張單曲「CHANGE\!\!」發行（同名單曲也被選為[TBS電視劇](../Page/TBS電視台.md "wikilink")《[丈夫的女朋友](../Page/丈夫的女朋友.md "wikilink")》主題歌曲使用）\[6\]。
 
 2014年夏天，Serena她在歌壇出道將近1年之後，為準備前往[美國留學](https://zh.wikipedia.org/wiki/美國 "wikilink")，於是宣布暫時休止歌手活動。並從2015年12月起，全面專心目前的學業而停止音樂活動\[7\]。
 
-Serena她說自己的目標是像名[克莉絲汀·阿奎萊拉的人物](../Page/克莉絲汀·阿奎萊拉.md "wikilink")\[8\]。
+Serena她說自己的目標是像名[克莉絲汀·阿奎萊拉](../Page/克莉絲汀·阿奎萊拉.md "wikilink")的人物\[8\]。
 
 ## 歌曲一覽
 
@@ -169,21 +169,15 @@ BVCL-575（通常盤）</p></td>
 
 ## 外部連結
 
-  - [Serena OFFICIAL WEB SITE](http://www.serena-web.com/)
-    －所屬唱片公司官方網站歌曲介紹頁面。
+  - [Serena OFFICIAL WEB SITE](http://www.serena-web.com/) －所屬唱片公司官方網站歌曲介紹頁面。
 
   - －Serena的官方部落格。
 
   - [rankingbox官方網站](http://rankingbox.jp/article/84)的專訪紀錄 （2013年12月）
 
-  - [Pia官方網站](http://kansai.pia.co.jp/interview/music/2013-11/serenachange.html)的專訪紀錄
-    （2013年12月）
+  - [Pia官方網站](http://kansai.pia.co.jp/interview/music/2013-11/serenachange.html)的專訪紀錄 （2013年12月）
 
-[Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink")
-[Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
-[Category:1994年出生](https://zh.wikipedia.org/wiki/Category:1994年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:前研音所屬藝人](https://zh.wikipedia.org/wiki/Category:前研音所屬藝人 "wikilink")
+[Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink") [Category:1994年出生](https://zh.wikipedia.org/wiki/Category:1994年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:前研音所屬藝人](https://zh.wikipedia.org/wiki/Category:前研音所屬藝人 "wikilink")
 
 1.
 2.

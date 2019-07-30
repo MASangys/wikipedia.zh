@@ -1,5 +1,4 @@
-**3unshine**，中國流行[女子演唱團體](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink")，由队长Abby（吉星月）、Cindy（范麗娜）和Dora（王小蝶）三位就讀於安徽[亳州三中的同班高中女生组成](https://zh.wikipedia.org/wiki/亳州 "wikilink")。原[Sunshine組合成員](../Page/Sunshine.md "wikilink")，2016年因不滿原公司不正當競爭行為和利益分配問題\[1\]，三人另名3unshine並開展組合活動。
-出道至今由於音樂曲風迥異和不尋常的外在打扮而備受爭議。2018年，三人參加[騰訊視頻製作的偶像女團真人秀](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")《[创造101](https://zh.wikipedia.org/wiki/创造101 "wikilink")》，但Cindy和Dora未能晉級，後Abby宣布退賽。\[2\]2019年1月12日，获得第3届金骨朵网络影视盛典年度网络新势力艺人奖。\[3\]
+**3unshine**，中國流行[女子演唱團體](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink")，由队长Abby（吉星月）、Cindy（范麗娜）和Dora（王小蝶）三位就讀於安徽[亳州三中的同班高中女生组成](https://zh.wikipedia.org/wiki/亳州 "wikilink")。原[Sunshine](../Page/Sunshine.md "wikilink")組合成員，2016年因不滿原公司不正當競爭行為和利益分配問題\[1\]，三人另名3unshine並開展組合活動。 出道至今由於音樂曲風迥異和不尋常的外在打扮而備受爭議。2018年，三人參加[騰訊視頻製作的偶像女團真人秀](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")《[创造101](https://zh.wikipedia.org/wiki/创造101 "wikilink")》，但Cindy和Dora未能晉級，後Abby宣布退賽。\[2\]2019年1月12日，获得第3届金骨朵网络影视盛典年度网络新势力艺人奖。\[3\]
 
 ## 音乐作品
 

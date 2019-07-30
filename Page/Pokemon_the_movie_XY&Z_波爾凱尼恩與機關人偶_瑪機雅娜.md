@@ -1,4 +1,4 @@
-《**-{zh-tw:波爾凱尼恩與機關人偶瑪機雅娜;zh-cn:波尔凯尼恩与机巧的玛机雅娜}-**》是[神奇寶貝動畫版的第十九部](https://zh.wikipedia.org/wiki/神奇寶貝動畫版 "wikilink")、同時是XY系列的第三部及最後一部電影版。標語為「**灼熱靈魂（魂心）的聲音有聽到嗎\!?**」，也是香港第二代小智[陳凱婷離職](../Page/陳凱婷.md "wikilink")[無綫後首部為小智配音的電影](https://zh.wikipedia.org/wiki/無綫 "wikilink")。
+《**-{zh-tw:波爾凱尼恩與機關人偶瑪機雅娜;zh-cn:波尔凯尼恩与机巧的玛机雅娜}-**》是[神奇寶貝動畫版的第十九部](https://zh.wikipedia.org/wiki/神奇寶貝動畫版 "wikilink")、同時是XY系列的第三部及最後一部電影版。標語為「**灼熱靈魂（魂心）的聲音有聽到嗎\!?**」，也是香港第二代小智[陳凱婷](../Page/陳凱婷.md "wikilink")離職[無綫後首部為小智配音的電影](https://zh.wikipedia.org/wiki/無綫 "wikilink")。
 
 ## 劇情簡介
 
@@ -47,15 +47,12 @@
 ## 音樂
 
   - 片頭曲：「**XY\&Z -movie ver.-**」
-      - 作詞、作曲：佐香智久 / 編曲：佐香智久、Saku /
-        歌：[松本梨香](../Page/松本梨香.md "wikilink")（[SME
-        Records](../Page/SME_Records.md "wikilink")）
+      - 作詞、作曲：佐香智久 / 編曲：佐香智久、Saku / 歌：[松本梨香](../Page/松本梨香.md "wikilink")（[SME Records](../Page/SME_Records.md "wikilink")）
 
 <!-- end list -->
 
   - 片尾曲：「**ポストに声を投げ入れて**」
-      - 作詞：YUKI / 作曲：横山裕章 / 編曲：YUKI、玉井健二、百田留衣 /
-        歌：YUKI（[史詩唱片日本](https://zh.wikipedia.org/wiki/史詩唱片日本 "wikilink")）
+      - 作詞：YUKI / 作曲：横山裕章 / 編曲：YUKI、玉井健二、百田留衣 / 歌：YUKI（[史詩唱片日本](https://zh.wikipedia.org/wiki/史詩唱片日本 "wikilink")）
 
 ## 關聯項目
 
@@ -66,23 +63,15 @@
 
 ## 外部連結
 
-  - [Pokemon the movie XY\&Z
-    波爾凱尼恩與機關人偶瑪機雅娜](http://www.pokemon-movie.jp/)
+  - [Pokemon the movie XY\&Z 波爾凱尼恩與機關人偶瑪機雅娜](http://www.pokemon-movie.jp/)
 
-
-  - [Pokemon the movie XY\&Z
-    波爾凱尼恩與機關人偶瑪機雅娜](https://www.pokemon.com.tw/Movie19/)
-
+  - [Pokemon the movie XY\&Z 波爾凱尼恩與機關人偶瑪機雅娜](https://www.pokemon.com.tw/Movie19/)
 
   -
   -
-  - [寵物小精靈 電影版 - 波爾凱尼恩與機關人偶瑪機雅娜 - Yahoo
-    電影](https://movie.yahoo-leisure.hk/movie/details/vbp5V)
+  - [寵物小精靈 電影版 - 波爾凱尼恩與機關人偶瑪機雅娜 - Yahoo 電影](https://movie.yahoo-leisure.hk/movie/details/vbp5V)
 
-[Category:精靈寶可夢劇場版](https://zh.wikipedia.org/wiki/Category:精靈寶可夢劇場版 "wikilink")
-[Category:2016年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2016年日本劇場動畫 "wikilink")
-[Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
+[Category:精靈寶可夢劇場版](https://zh.wikipedia.org/wiki/Category:精靈寶可夢劇場版 "wikilink") [Category:2016年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2016年日本劇場動畫 "wikilink") [Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
 
-1.  [2016/6/12.
-    三間雅文ツイッターより](https://twitter.com/Sunma47/status/741586568322813953)2016年6月12日閲覧
+1.  [2016/6/12. 三間雅文ツイッターより](https://twitter.com/Sunma47/status/741586568322813953)2016年6月12日閲覧
 2.  『XY』シリーズで様々な登場人物とポケモンを演じる寺崎裕香が長編に出演するのは本作が初である。

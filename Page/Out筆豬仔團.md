@@ -1,7 +1,6 @@
-《**Out筆豬仔團**》（**To Sacrifice To
-Satisfy**），原名《**寧願少喫餐，OO錢咪慳**》，為[香港電視娛樂製作的](../Page/香港電視娛樂.md "wikilink")[旅遊及](https://zh.wikipedia.org/wiki/旅遊 "wikilink")[真人騷節目](https://zh.wikipedia.org/wiki/真人騷 "wikilink")，2017年7月4日至10月10日逢星期二22:30-23:00於[ViuTV播出](../Page/ViuTV.md "wikilink")\[1\]，由[劉秉賓](../Page/劉秉賓.md "wikilink")、[羅伊婷](../Page/羅伊婷.md "wikilink")、（Suzuki）及[趙詠瑤主持](../Page/趙詠瑤.md "wikilink")。
+《**Out筆豬仔團**》（**To Sacrifice To Satisfy**），原名《**寧願少喫餐，OO錢咪慳**》，為[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的[旅遊及](https://zh.wikipedia.org/wiki/旅遊 "wikilink")[真人騷節目](https://zh.wikipedia.org/wiki/真人騷 "wikilink")，2017年7月4日至10月10日逢星期二22:30-23:00於[ViuTV](../Page/ViuTV.md "wikilink")播出\[1\]，由[劉秉賓](../Page/劉秉賓.md "wikilink")、[羅伊婷](../Page/羅伊婷.md "wikilink")、（Suzuki）及[趙詠瑤](../Page/趙詠瑤.md "wikilink")主持。
 
-四位節目主持分成兩組到[新西蘭旅遊](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")，[劉秉賓及](../Page/劉秉賓.md "wikilink")[羅伊婷被分派到北島](../Page/羅伊婷.md "wikilink")，而及[趙詠瑤被分派到南島](../Page/趙詠瑤.md "wikilink")[皇后鎮](https://zh.wikipedia.org/wiki/皇后鎮_\(新西蘭\) "wikilink")，但是他們只有很少旅費，所以整個行程都要省吃儉用，務求達成世界級慳錢之旅\[2\]\[3\]\[4\]\[5\]。
+四位節目主持分成兩組到[新西蘭旅遊](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")，[劉秉賓](../Page/劉秉賓.md "wikilink")及[羅伊婷](../Page/羅伊婷.md "wikilink")被分派到北島，而及[趙詠瑤](../Page/趙詠瑤.md "wikilink")被分派到南島[皇后鎮](https://zh.wikipedia.org/wiki/皇后鎮_\(新西蘭\) "wikilink")，但是他們只有很少旅費，所以整個行程都要省吃儉用，務求達成世界級慳錢之旅\[2\]\[3\]\[4\]\[5\]。
 
 ## 每集一覽
 
@@ -30,13 +29,10 @@ Satisfy**），原名《**寧願少喫餐，OO錢咪慳**》，為[香港電視�
 
   - [ViuTV：Out筆豬仔團](http://viu.tv/encore/to-sacrifice-to-satisfy)
 
-[Category:2017年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2017年香港電視娛樂節目 "wikilink")
-[Category:香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目 "wikilink")
-[Category:香港綜藝節目](https://zh.wikipedia.org/wiki/Category:香港綜藝節目 "wikilink")
+[Category:2017年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2017年香港電視娛樂節目 "wikilink") [Category:香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目 "wikilink") [Category:香港綜藝節目](https://zh.wikipedia.org/wiki/Category:香港綜藝節目 "wikilink")
 
 1.  節目原定於2017年4月9日首播，但最後由於節目調動關係被抽起。
-2.  [四萬勇闖紐西蘭14日
-    ViuTV主持養活8人豬仔團](http://hkm.appledaily.com/detail.php?guid=56935133&category_guid=7018882&category=instant&issue=20170710)
+2.  [四萬勇闖紐西蘭14日 ViuTV主持養活8人豬仔團](http://hkm.appledaily.com/detail.php?guid=56935133&category_guid=7018882&category=instant&issue=20170710)
 3.  [趙詠瑤遭ViuTV賣豬仔](http://hk.apple.nextmedia.com/entertainment/art/20170711/20085167)
 4.  [天價利誘！羅伊婷趙詠瑤慘被「賣豬仔」](http://hk.on.cc/hk/bkn/cnt/entertainment/20170704/bkn-20170704051514584-0704_00862_001.html)
 5.  [旅行先嚟病！羅伊婷紐西蘭玩乜都冇感覺](http://hk.on.cc/hk/bkn/cnt/entertainment/20170716/bkn-20170716054536250-0716_00862_001.html?eventsection=hk_entertainment&eventid=402882b04f6e8e58014f8143a7741e4d)

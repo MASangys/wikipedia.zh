@@ -1,14 +1,10 @@
-《**Cars
-3：閃電再起**》（）是一部由[皮克斯動畫工作室製作](https://zh.wikipedia.org/wiki/皮克斯動畫工作室 "wikilink")、並由[華特迪士尼發行的](https://zh.wikipedia.org/wiki/華特迪士尼影業 "wikilink")2017年美國[3D](../Page/3D電影.md "wikilink")[電腦動畫電影](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")，為執導。本片為2011年的電影《[Cars
-2：世界大賽](../Page/Cars_2：世界大賽.md "wikilink")》的續集，北美於2017年6月16日上映\[1\]。
+《**Cars 3：閃電再起**》（）是一部由[皮克斯動畫工作室製作](https://zh.wikipedia.org/wiki/皮克斯動畫工作室 "wikilink")、並由[華特迪士尼發行的](https://zh.wikipedia.org/wiki/華特迪士尼影業 "wikilink")2017年美國[3D](../Page/3D電影.md "wikilink")[電腦動畫電影](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")，為執導。本片為2011年的電影《[Cars 2：世界大賽](../Page/Cars_2：世界大賽.md "wikilink")》的續集，北美於2017年6月16日上映\[1\]。
 
 ## 劇情
 
-賽車界新秀風暴傑森（Jackson Storm）在比賽中搶盡閃電麥坤（Lightning
-McQueen）的風頭，成為媒體和觀眾矚目的焦點，在一輛輛舊時代的賽車退出賽車場，心急如焚的麥坤卻在活塞盃季末的最後一場比賽發生重大車禍被迫退出比賽。為了避免落得韓大夫的下場，麥坤必須想盡辦法以新姿態重回賽道，參加佛羅里達500圈賽車，以重溫往日的榮耀。
+賽車界新秀風暴傑森（Jackson Storm）在比賽中搶盡閃電麥坤（Lightning McQueen）的風頭，成為媒體和觀眾矚目的焦點，在一輛輛舊時代的賽車退出賽車場，心急如焚的麥坤卻在活塞盃季末的最後一場比賽發生重大車禍被迫退出比賽。為了避免落得韓大夫的下場，麥坤必須想盡辦法以新姿態重回賽道，參加佛羅里達500圈賽車，以重溫往日的榮耀。
 
-之後麥坤在克魯茲·拉米雷斯（Cruz
-Ramirez）的幫助下進行訓練，但是並不如預期所想的那般，新的觀念、新的科技以及新的訓練方式都讓麥坤難以接受，而之後的意外，反而讓贊助麥坤的史特林（Sterling）覺得麥坤不行了，並勸說麥坤代言一系列產品，但卻反讓麥坤說服，史特林跟麥坤訂下約定，如果之後的一場比賽麥坤輸了以後就得成為他底下的品牌，協助他販售產品，相反的如果麥坤贏了不僅不用代言，還能決定自己何時要退休。離開賽車中心的麥坤帶著克魯茲前往海灘，在這裡麥坤決定拋開賽車中心的訓練方式，但是克魯茲卻極度不適應...
+之後麥坤在克魯茲·拉米雷斯（Cruz Ramirez）的幫助下進行訓練，但是並不如預期所想的那般，新的觀念、新的科技以及新的訓練方式都讓麥坤難以接受，而之後的意外，反而讓贊助麥坤的史特林（Sterling）覺得麥坤不行了，並勸說麥坤代言一系列產品，但卻反讓麥坤說服，史特林跟麥坤訂下約定，如果之後的一場比賽麥坤輸了以後就得成為他底下的品牌，協助他販售產品，相反的如果麥坤贏了不僅不用代言，還能決定自己何時要退休。離開賽車中心的麥坤帶著克魯茲前往海灘，在這裡麥坤決定拋開賽車中心的訓練方式，但是克魯茲卻極度不適應...
 
 ## 配音員
 
@@ -202,7 +198,7 @@ Disney
 
 ### 評價
 
-[爛番茄上根據](../Page/爛番茄.md "wikilink")211條評論，持有69%的新鮮度，平均得分為6.1/10\[8\]，而在[Metacritic上則獲得了](../Page/Metacritic.md "wikilink")59分，綜合結果為「混合或中等評價」\[9\]。據[CinemaScore所進行的調查](https://zh.wikipedia.org/wiki/影院評分 "wikilink")，觀眾的平均評價於A+至F間落於「A」\[10\]。
+[爛番茄](../Page/爛番茄.md "wikilink")上根據211條評論，持有69%的新鮮度，平均得分為6.1/10\[8\]，而在[Metacritic](../Page/Metacritic.md "wikilink")上則獲得了59分，綜合結果為「混合或中等評價」\[9\]。據[CinemaScore所進行的調查](https://zh.wikipedia.org/wiki/影院評分 "wikilink")，觀眾的平均評價於A+至F間落於「A」\[10\]。
 
 ### 票房
 
@@ -236,15 +232,7 @@ Disney
   -
   -
   -
-[Category:汽車總動員](https://zh.wikipedia.org/wiki/Category:汽車總動員 "wikilink")
-[Category:2017年美國動畫電影](https://zh.wikipedia.org/wiki/Category:2017年美國動畫電影 "wikilink")
-[Category:2017年3D电影](https://zh.wikipedia.org/wiki/Category:2017年3D电影 "wikilink")
-[Category:美国續集電影](https://zh.wikipedia.org/wiki/Category:美国續集電影 "wikilink")
-[Category:美国3D电影](https://zh.wikipedia.org/wiki/Category:美国3D电影 "wikilink")
-[Category:賽車電影](https://zh.wikipedia.org/wiki/Category:賽車電影 "wikilink")
-[Category:擬人化角色電影](https://zh.wikipedia.org/wiki/Category:擬人化角色電影 "wikilink")
-[Category:佛羅里達州背景電影](https://zh.wikipedia.org/wiki/Category:佛羅里達州背景電影 "wikilink")
-[Category:報復題材動畫電影](https://zh.wikipedia.org/wiki/Category:報復題材動畫電影 "wikilink")
+[Category:汽車總動員](https://zh.wikipedia.org/wiki/Category:汽車總動員 "wikilink") [Category:2017年美國動畫電影](https://zh.wikipedia.org/wiki/Category:2017年美國動畫電影 "wikilink") [Category:2017年3D电影](https://zh.wikipedia.org/wiki/Category:2017年3D电影 "wikilink") [Category:美国續集電影](https://zh.wikipedia.org/wiki/Category:美国續集電影 "wikilink") [Category:美国3D电影](https://zh.wikipedia.org/wiki/Category:美国3D电影 "wikilink") [Category:賽車電影](https://zh.wikipedia.org/wiki/Category:賽車電影 "wikilink") [Category:擬人化角色電影](https://zh.wikipedia.org/wiki/Category:擬人化角色電影 "wikilink") [Category:佛羅里達州背景電影](https://zh.wikipedia.org/wiki/Category:佛羅里達州背景電影 "wikilink") [Category:報復題材動畫電影](https://zh.wikipedia.org/wiki/Category:報復題材動畫電影 "wikilink")
 
 1.
 2.

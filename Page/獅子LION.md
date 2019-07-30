@@ -1,4 +1,4 @@
-**獅子LION**原名為獅子合唱團，是歌手[蕭敬騰在出道](../Page/蕭敬騰.md "wikilink")8年後所組的搖滾樂團。2015年8月蕭敬騰在籌備一張搖滾走向的個人專輯，經紀公司找了樂手[力Q編曲](https://zh.wikipedia.org/wiki/力Q "wikilink")，做了幾首歌後讓喜愛搖滾的蕭敬騰覺得不用樂團方式呈現會不夠真實，說服力也不足，遂與公司溝通後於2016年9月發行第一張樂團專輯LION，圓了出道多年來的組團夢。\[1\]\[2\]
+**獅子LION**原名為獅子合唱團，是歌手[蕭敬騰](../Page/蕭敬騰.md "wikilink")在出道8年後所組的搖滾樂團。2015年8月蕭敬騰在籌備一張搖滾走向的個人專輯，經紀公司找了樂手[力Q編曲](https://zh.wikipedia.org/wiki/力Q "wikilink")，做了幾首歌後讓喜愛搖滾的蕭敬騰覺得不用樂團方式呈現會不夠真實，說服力也不足，遂與公司溝通後於2016年9月發行第一張樂團專輯LION，圓了出道多年來的組團夢。\[1\]\[2\]
 
 團名由來是Lion這首歌在副歌的旋律很像Lion發音，最後就討論出簡單直接有力的Lion當團名。\[3\]
 
@@ -6,7 +6,7 @@
 
 ## 成員介紹
 
-[蕭敬騰在](../Page/蕭敬騰.md "wikilink")2015冬天邀請合作5年多的樂手力Q與鄒強組團，並於2016年初挑上經紀公司海選的鼓手阿矩組成獅子合唱團。\[4\]
+[蕭敬騰](../Page/蕭敬騰.md "wikilink")在2015冬天邀請合作5年多的樂手力Q與鄒強組團，並於2016年初挑上經紀公司海選的鼓手阿矩組成獅子合唱團。\[4\]
 
 2018-12-01 鼓手阿矩因家庭因素離開獅子合唱團。\[5\]
 
@@ -125,25 +125,19 @@
 
 ## 演出
 
-1.  (首度亮相)
-    [HITO流行音樂獎頒獎典禮](https://zh.wikipedia.org/wiki/HITO流行音樂獎頒獎典禮 "wikilink")
-    2016年6月5日/台北小巨蛋
+1.  (首度亮相) [HITO流行音樂獎頒獎典禮](https://zh.wikipedia.org/wiki/HITO流行音樂獎頒獎典禮 "wikilink") 2016年6月5日/台北小巨蛋
 2.  戶外新歌演唱會 2016年10月8日/新北市市民廣場
 3.  ELLE 25週年公益演唱會 2016年10月21日
-4.  校園演唱會
-    2016年10月28日/[南山中學校慶演唱會](https://zh.wikipedia.org/wiki/:新北市私立南山高級中學 "wikilink")
+4.  校園演唱會 2016年10月28日/[南山中學校慶演唱會](https://zh.wikipedia.org/wiki/:新北市私立南山高級中學 "wikilink")
 5.  [新北市歡樂耶誕城](../Page/新北市歡樂耶誕城.md "wikilink") 2016年12月18日
 6.  花蓮太平洋觀光節 2017年1月1日
-7.  [2017超級巨星紅白藝能大賞紅隊](../Page/2017超級巨星紅白藝能大賞.md "wikilink")
+7.  [2017超級巨星紅白藝能大賞](../Page/2017超級巨星紅白藝能大賞.md "wikilink")紅隊
 8.  雪佛蘭探界者Equinox上市發布會 2017年4月7日
-9.  校園演唱會
-    2017年12月3日/[建國中學校慶舞會ATLANTIS](../Page/臺北市立建國高級中學.md "wikilink")
+9.  校園演唱會 2017年12月3日/[建國中學校慶舞會ATLANTIS](../Page/臺北市立建國高級中學.md "wikilink")
 10. 湖南衛視 2017年12月31日 跨年演唱會 - 《It's My Life》 《LION》
 11. 第八屆京都念慈菴[全球流行音樂金榜](https://zh.wikipedia.org/wiki/全球流行音樂金榜 "wikilink")－《我們的愛》
 12. 2018年12月1日「桃園鐵玫瑰音樂節」/桃園高鐵站前廣場
-13. (新成員加入後首度亮相)
-    [HITO流行音樂獎頒獎典禮](https://zh.wikipedia.org/wiki/HITO流行音樂獎頒獎典禮 "wikilink")
-    2019年6月2日/台北小巨蛋
+13. (新成員加入後首度亮相) [HITO流行音樂獎頒獎典禮](https://zh.wikipedia.org/wiki/HITO流行音樂獎頒獎典禮 "wikilink") 2019年6月2日/台北小巨蛋
 
 ## 戲劇作品
 
@@ -184,14 +178,11 @@
 
   - 2017年：[歌手2017](../Page/歌手2017.md "wikilink")－季軍
   - 2017年：第七屆京都念慈菴[全球流行音樂金榜](https://zh.wikipedia.org/wiki/全球流行音樂金榜 "wikilink")－最受歡迎樂團、最佳舞臺演繹、年度二十大金曲《最後的請求》
-  - 2017年：2017
-    [HITO流行音樂獎頒獎典禮](https://zh.wikipedia.org/wiki/HITO流行音樂獎頒獎典禮 "wikilink")－最受歡迎樂團、HITO年度十大華語歌曲《LION》
+  - 2017年：2017 [HITO流行音樂獎頒獎典禮](https://zh.wikipedia.org/wiki/HITO流行音樂獎頒獎典禮 "wikilink")－最受歡迎樂團、HITO年度十大華語歌曲《LION》
   - 2018年：第八屆京都念慈菴[全球流行音樂金榜](https://zh.wikipedia.org/wiki/全球流行音樂金榜 "wikilink")－最受歡迎樂團、內地電臺點播冠軍《我們的愛》、年度二十大金曲《我們的愛》
   - 2018年：第17屆[全球華語歌曲排行榜](../Page/全球華語歌曲排行榜.md "wikilink")－最受歡迎樂隊
-  - 2018年：2018
-    [HITO流行音樂獎頒獎典禮](https://zh.wikipedia.org/wiki/HITO流行音樂獎頒獎典禮 "wikilink")－最受歡迎樂團
-  - 2018年：2018
-    [華人歌曲音樂盛典](https://zh.wikipedia.org/wiki/華人歌曲音樂盛典 "wikilink")－年度最佳樂隊及組合
+  - 2018年：2018 [HITO流行音樂獎頒獎典禮](https://zh.wikipedia.org/wiki/HITO流行音樂獎頒獎典禮 "wikilink")－最受歡迎樂團
+  - 2018年：2018 [華人歌曲音樂盛典](https://zh.wikipedia.org/wiki/華人歌曲音樂盛典 "wikilink")－年度最佳樂隊及組合
 
 **<small>《金曲獎》**</small>
 
@@ -228,11 +219,7 @@
 
   -
   -
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:獅子合唱團](https://zh.wikipedia.org/wiki/Category:獅子合唱團 "wikilink")
-[Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink")
-[Category:台灣搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣搖滾樂團 "wikilink")
-[Category:台灣流行搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣流行搖滾樂團 "wikilink")
+[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:獅子合唱團](https://zh.wikipedia.org/wiki/Category:獅子合唱團 "wikilink") [Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink") [Category:台灣搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣搖滾樂團 "wikilink") [Category:台灣流行搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣流行搖滾樂團 "wikilink")
 
 1.
 2.

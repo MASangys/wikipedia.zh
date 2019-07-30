@@ -1,4 +1,4 @@
-《**Roundabout**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周柏豪的第](../Page/周柏豪.md "wikilink")12張音樂專輯，於2015年11月27日發行。
+《**Roundabout**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周柏豪](../Page/周柏豪.md "wikilink")的第12張音樂專輯，於2015年11月27日發行。
 
 ## 曲目
 
@@ -17,6 +17,4 @@
 
   - 2015勁歌金曲優秀選第二回——得獎歌曲《相安無事》
 
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:周柏豪音樂專輯](https://zh.wikipedia.org/wiki/Category:周柏豪音樂專輯 "wikilink")
+[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:周柏豪音樂專輯](https://zh.wikipedia.org/wiki/Category:周柏豪音樂專輯 "wikilink")

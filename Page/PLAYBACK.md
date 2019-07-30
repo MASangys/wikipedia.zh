@@ -1,20 +1,14 @@
-<span>**PLAYBACK**是[Coridel娱乐旗下的五人韩国](../Page/Coridel娛樂.md "wikilink")[女子团体](../Page/女子音乐组合.md "wikilink")，</span>组合于2015年6月25日携数位单曲《Playback》正式出道。\[1\]组合成员分别为：允祉、夏瑩、有真
-、友琳和恩珍。
+<span>**PLAYBACK**是[Coridel娱乐旗下的五人韩国](../Page/Coridel娛樂.md "wikilink")[女子团体](../Page/女子音乐组合.md "wikilink")，</span>组合于2015年6月25日携数位单曲《Playback》正式出道。\[1\]组合成员分别为：允祉、夏瑩、有真 、友琳和恩珍。
 
 ## 经历
 
-友琳在加入PLAYBACK前曾在[JYP娱乐当了](../Page/JYP娛樂.md "wikilink")3年的练习生。曾参加韩国[Mnet电视台的综艺节目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[看见你的声音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》，演唱了[爱莉安娜·格兰德的](../Page/爱莉安娜·格兰德.md "wikilink")《Problem》后迅速獲得知名度。
+友琳在加入PLAYBACK前曾在[JYP娱乐当了](../Page/JYP娛樂.md "wikilink")3年的练习生。曾参加韩国[Mnet电视台的综艺节目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[看见你的声音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》，演唱了[爱莉安娜·格兰德](../Page/爱莉安娜·格兰德.md "wikilink")的《Problem》后迅速獲得知名度。
 
-PLAYBACK在2015年6月25日发布同名单曲专辑《Playback》。三个月后，组合计划在9月2日推出一张全新的单曲专辑。\[2\] 该专辑叫《没有吗
-(No?)》，该专辑与[Eric
-Nam合作录制](../Page/Eric_Nam.md "wikilink")。\[3\] 该歌曲吸引了媒体的关注，因为歌曲制作团队是挪威的'元素'。\[4\]
+PLAYBACK在2015年6月25日发布同名单曲专辑《Playback》。三个月后，组合计划在9月2日推出一张全新的单曲专辑。\[2\] 该专辑叫《没有吗 (No?)》，该专辑与[Eric Nam合作录制](../Page/Eric_Nam.md "wikilink")。\[3\] 该歌曲吸引了媒体的关注，因为歌曲制作团队是挪威的'元素'。\[4\]
 
-恩珍在《[K-pop Star
-6](../Page/K-pop_Star_6.md "wikilink")》中被淘汰后，2017年4月13日加入到组合中。\[5\]
+恩珍在《[K-pop Star 6](../Page/K-pop_Star_6.md "wikilink")》中被淘汰后，2017年4月13日加入到组合中。\[5\]
 
-2017年10月13日，[Coridel娱乐通过官方fan](../Page/Coridel娛樂.md "wikilink")
-cafe发布组合将参加《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，并打算在10月中旬发布一张专辑。\[6\]2017年10月20日，发布第三张数字单曲《没能说出的话(Unable
-to say anything)》。2017年10月28日发布第四张单曲《告诉我 (Tell me)》。
+2017年10月13日，[Coridel娱乐通过官方fan](../Page/Coridel娛樂.md "wikilink") cafe发布组合将参加《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，并打算在10月中旬发布一张专辑。\[6\]2017年10月20日，发布第三张数字单曲《没能说出的话(Unable to say anything)》。2017年10月28日发布第四张单曲《告诉我 (Tell me)》。
 
 2019年4月17日，夏瑩與Management Nangman簽訂了專屬合約，開始演員活動，參與網路劇《在校園裏》。
 
@@ -176,9 +170,7 @@ to say anything)》。2017年10月28日发布第四张单曲《告诉我 (Tell m
 
   -
   -
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
+[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
 
 1.
 2.

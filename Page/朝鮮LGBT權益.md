@@ -1,4 +1,4 @@
-[同性戀以及](../Page/同性戀.md "wikilink")[跨性別者在北韓](../Page/跨性別.md "wikilink")「[原則上](https://zh.wikipedia.org/wiki/de_jure "wikilink")」並不違法，但政府並不承認[LGBT的權利](../Page/各地LGBT權利.md "wikilink")。根據[朝鮮友好協會的说法](https://zh.wikipedia.org/wiki/朝鮮友好協會 "wikilink")，雖然同性戀人士不會受到來自政府的迫害，但「……朝鮮民主主義人民共和國（DPRK）拒絕接受西方流行的同性戀文化中的各項特色，這被認為是接納消費主義、古典主義以及濫交」\[1\]。
+[同性戀](../Page/同性戀.md "wikilink")以及[跨性別](../Page/跨性別.md "wikilink")者在北韓「[原則上](https://zh.wikipedia.org/wiki/de_jure "wikilink")」並不違法，但政府並不承認[LGBT的權利](../Page/各地LGBT權利.md "wikilink")。根據[朝鮮友好協會的说法](https://zh.wikipedia.org/wiki/朝鮮友好協會 "wikilink")，雖然同性戀人士不會受到來自政府的迫害，但「……朝鮮民主主義人民共和國（DPRK）拒絕接受西方流行的同性戀文化中的各項特色，這被認為是接納消費主義、古典主義以及濫交」\[1\]。
 
 ## 刑法
 
@@ -14,7 +14,7 @@
 
 ## 家庭政策
 
-在北韓，[同性戀的觀念在絕大多數人們的印象中並不存在](../Page/同性戀.md "wikilink")，因為這並不是平常社會上會討論的話題。對國內研究人類性行為的學者而言，官方的觀點是認為這是[資產階級的變態反常行為](../Page/資產階級.md "wikilink")，只存在於資本主義社會當中，並且根據GlobalGayz.com，「很有可能所有〔在北韓的〕的男女同性戀者都是被適應或被脅迫進入〔異性戀〕婚姻，他們習慣了如此生活，從來沒有試著理解心中矛盾的心情」\[4\]。
+在北韓，[同性戀](../Page/同性戀.md "wikilink")的觀念在絕大多數人們的印象中並不存在，因為這並不是平常社會上會討論的話題。對國內研究人類性行為的學者而言，官方的觀點是認為這是[資產階級](../Page/資產階級.md "wikilink")的變態反常行為，只存在於資本主義社會當中，並且根據GlobalGayz.com，「很有可能所有〔在北韓的〕的男女同性戀者都是被適應或被脅迫進入〔異性戀〕婚姻，他們習慣了如此生活，從來沒有試著理解心中矛盾的心情」\[4\]。
 
 據報導，自從1990年代起，北韓政府開始願意對婚前性行為及通姦「裝作沒看見」，只不過這種程度的社會自由主義似乎並不適用於LGBT族群\[5\]。
 
@@ -78,8 +78,7 @@
 
 ## 參考資料
 
-[Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink")
-[Category:朝鮮民主主義人民共和國人權](https://zh.wikipedia.org/wiki/Category:朝鮮民主主義人民共和國人權 "wikilink")
+[Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink") [Category:朝鮮民主主義人民共和國人權](https://zh.wikipedia.org/wiki/Category:朝鮮民主主義人民共和國人權 "wikilink")
 
 1.
 2.

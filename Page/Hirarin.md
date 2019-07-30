@@ -82,7 +82,7 @@
 <td><p>－</p></td>
 <td><p>角川書店／KADOKAWA</p></td>
 <td><p>－</p></td>
-<td><p>收錄在《<a href="../Page/黑鷺屍體宅配便.md" title="wikilink">黑鷺屍體宅配便傑作精選</a>》文庫版<br />
+<td><p>收錄在《<a href="../Page/黑鷺屍體宅配便.md" title="wikilink">黑鷺屍體宅配便</a>傑作精選》文庫版<br />
 第3冊－第5冊的同名作品</p></td>
 </tr>
 <tr class="even">
@@ -112,7 +112,7 @@
 
 ## 插畫
 
-  - 6理論「方」（作：，[ASCII新書](../Page/ASCII.md "wikilink")）
+  - 6理論「方」（作：，[ASCII](../Page/ASCII.md "wikilink")新書）
 
   - 物語命題 6講座（作：大塚英志，ASCII新書）
 
@@ -124,10 +124,7 @@
 
 ### 來源
 
-[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink")
-[Category:漫畫原作者](https://zh.wikipedia.org/wiki/Category:漫畫原作者 "wikilink")
-[Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:漫畫原作者](https://zh.wikipedia.org/wiki/Category:漫畫原作者 "wikilink") [Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.  來自《多重人格偵探》交換卡片組附贈小冊子內的Hirarin小檔案。
 2.  單行本發行時原作者掛名「」，後來發行新書版改成「大塚英志事務所」。

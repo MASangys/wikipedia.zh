@@ -1,6 +1,4 @@
-《**Moonrise**》是韓國[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[DAY6第二張專輯](../Page/DAY6.md "wikilink")，由[JYP娛樂企劃](../Page/JYP娛樂.md "wikilink")，於2017年12月6日發行。專輯一共收錄18首歌曲，包括三首新曲、透過年度計畫「Every
-Day6」發行之7月至11月單曲以及其首張迷你專輯《[The
-Day](../Page/The_Day_\(DAY6迷你專輯\).md "wikilink")》五首歌曲之新版本。\[1\]\[2\]
+《**Moonrise**》是韓國[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[DAY6](../Page/DAY6.md "wikilink")第二張專輯，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")企劃，於2017年12月6日發行。專輯一共收錄18首歌曲，包括三首新曲、透過年度計畫「Every Day6」發行之7月至11月單曲以及其首張迷你專輯《[The Day](../Page/The_Day_\(DAY6迷你專輯\).md "wikilink")》五首歌曲之新版本。\[1\]\[2\]
 
 ## 曲目
 
@@ -162,9 +160,7 @@ Day](../Page/The_Day_\(DAY6迷你專輯\).md "wikilink")》五首歌曲之新版
 
   - [官網專輯資訊](http://day6.jype.com/discography.asp?idx=14&page=1)
 
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
-[Category:DAY6音樂專輯](https://zh.wikipedia.org/wiki/Category:DAY6音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:DAY6音樂專輯](https://zh.wikipedia.org/wiki/Category:DAY6音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

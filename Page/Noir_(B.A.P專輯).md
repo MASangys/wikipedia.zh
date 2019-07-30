@@ -1,35 +1,28 @@
-《**Noir**》是韓國組合[B.A.P的第二張正規專輯](../Page/B.A.P.md "wikilink")，於2016年11月7日發行，主打曲為〈Skydive〉。專輯發行前，TS娛樂宣布隊長方容國因[恐慌症將不參與本張專輯宣傳](../Page/恐慌症.md "wikilink")。
+《**Noir**》是韓國組合[B.A.P](../Page/B.A.P.md "wikilink")的第二張正規專輯，於2016年11月7日發行，主打曲為〈Skydive〉。專輯發行前，TS娛樂宣布隊長方容國因[恐慌症](../Page/恐慌症.md "wikilink")將不參與本張專輯宣傳。
 
 ## 概要
 
-本作與上一張正規專輯《[First
-Sensibility](../Page/First_Sensibility.md "wikilink")》發行相隔有2年之多。專輯名稱「Noir」在法文中有「黑色」的含義，可單指顏色，或比喻為任何一種黑的代表。\[1\]
+本作與上一張正規專輯《[First Sensibility](../Page/First_Sensibility.md "wikilink")》發行相隔有2年之多。專輯名稱「Noir」在法文中有「黑色」的含義，可單指顏色，或比喻為任何一種黑的代表。\[1\]
 
 ## 公開
 
-2016年10月18日，TS娛樂公開《Noir》預告及標題字「Who is
-X?」\[2\]。21日公開回歸時程，並確定於11月7日發行專輯\[3\]。11月7日，公開長達10分鐘的音樂錄影帶\[4\]，同日舉行Showcase，正式開始宣傳活動。\[5\]
+2016年10月18日，TS娛樂公開《Noir》預告及標題字「Who is X?」\[2\]。21日公開回歸時程，並確定於11月7日發行專輯\[3\]。11月7日，公開長達10分鐘的音樂錄影帶\[4\]，同日舉行Showcase，正式開始宣傳活動。\[5\]
 
 ## 隊長暫停活動
 
-10月25日，TS娛樂宣布由於隊長方容國被診斷患有[恐慌症](../Page/恐慌症.md "wikilink")，在與成員們討論後，決定以其健康狀況為優先考慮，將不會參加本張專輯的宣傳活動\[6\]，消息公開後，方容國在個人[Twitter上表達遺憾抱歉心情](../Page/Twitter.md "wikilink")\[7\]，其後成員在節目上坦言「方容國留下的位置好大」，盼他早日康復。\[8\]
+10月25日，TS娛樂宣布由於隊長方容國被診斷患有[恐慌症](../Page/恐慌症.md "wikilink")，在與成員們討論後，決定以其健康狀況為優先考慮，將不會參加本張專輯的宣傳活動\[6\]，消息公開後，方容國在個人[Twitter](../Page/Twitter.md "wikilink")上表達遺憾抱歉心情\[7\]，其後成員在節目上坦言「方容國留下的位置好大」，盼他早日康復。\[8\]
 
 ## 收錄歌曲
 
 本張專輯共收錄11首歌曲：
 
-1.  Le
-    Noir：繼〈〉後再次與[爵士鋼琴家宋永洲](../Page/爵士鋼琴.md "wikilink")（송영주）合作，是一首[swing
-    jazz歌曲](https://zh.wikipedia.org/wiki/搖擺樂 "wikilink")。
-2.  Skydive：與韓國首位獲[告示牌Dance](https://zh.wikipedia.org/wiki/告示牌 "wikilink")
-    Club排行榜首位的作曲家崔晉石（최진석）合作，歌曲融合多種電子音樂元素；歌詞寓意為自己將投身這個世界，不斷奔跑、不隨波逐流，依然在現實世界裡追求著自我。
-3.  Ribbon In The
-    Sky：在強烈[銅管與鼓聲中針對社會的歌曲](https://zh.wikipedia.org/wiki/銅管 "wikilink")，蘊含憤怒與希望的訊息。
-4.  Killer：由[電子吉他與](https://zh.wikipedia.org/wiki/電子吉他 "wikilink")[合成器交織而成的歌曲](../Page/合成器.md "wikilink")。
+1.  Le Noir：繼〈〉後再次與[爵士鋼琴](../Page/爵士鋼琴.md "wikilink")家宋永洲（송영주）合作，是一首[swing jazz歌曲](https://zh.wikipedia.org/wiki/搖擺樂 "wikilink")。
+2.  Skydive：與韓國首位獲[告示牌Dance](https://zh.wikipedia.org/wiki/告示牌 "wikilink") Club排行榜首位的作曲家崔晉石（최진석）合作，歌曲融合多種電子音樂元素；歌詞寓意為自己將投身這個世界，不斷奔跑、不隨波逐流，依然在現實世界裡追求著自我。
+3.  Ribbon In The Sky：在強烈[銅管與鼓聲中針對社會的歌曲](https://zh.wikipedia.org/wiki/銅管 "wikilink")，蘊含憤怒與希望的訊息。
+4.  Killer：由[電子吉他與](https://zh.wikipedia.org/wiki/電子吉他 "wikilink")[合成器](../Page/合成器.md "wikilink")交織而成的歌曲。
 5.  Fermata：為一首[不插電](https://zh.wikipedia.org/wiki/不插電 "wikilink")[節奏藍調歌曲](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")。
 6.  給予：時隔5年，子團[Bang & Zelo的新曲](../Page/Bang_&_Zelo.md "wikilink")。
-7.  I Guess I Need You：[Slow
-    R\&B風格的歌曲](https://zh.wikipedia.org/wiki/Slow_R&B "wikilink")。
+7.  I Guess I Need You：[Slow R\&B風格的歌曲](https://zh.wikipedia.org/wiki/Slow_R&B "wikilink")。
 8.  Chiquita：以[和聲為特色的](https://zh.wikipedia.org/wiki/和聲 "wikilink")[流行舞曲](../Page/流行舞曲.md "wikilink")。
 9.  走走吧：描寫分手後，男子苦澀地走在清晨街頭的心境。
 10. 現在：成員[文鐘業的首支自創曲](https://zh.wikipedia.org/wiki/文鐘業 "wikilink")，由[木吉他及合成器的聲音交織而成](https://zh.wikipedia.org/wiki/木吉他 "wikilink")
@@ -37,12 +30,9 @@ X?」\[2\]。21日公開回歸時程，並確定於11月7日發行專輯\[3\]。
 
 ## 曲目
 
-{{ Track listing | headline = 所有版本 | lyrics_credits = yes |
-music_credits = yes | arranger_credits = yes
+{{ Track listing | headline = 所有版本 | lyrics_credits = yes | music_credits = yes | arranger_credits = yes
 
-| title1 = Le Noir | lyrics1 =
-[方容國](https://zh.wikipedia.org/wiki/方容國 "wikilink") | music1
-= 方容國
+| title1 = Le Noir | lyrics1 = [方容國](https://zh.wikipedia.org/wiki/方容國 "wikilink") | music1 = 方容國
 金昌樂（김창락）
 姜基勳（강기훈）（Clumsy）
 李知雨（이지우）（Clumsy） | arranger1 = 姜基勳（Clumsy）
@@ -100,15 +90,13 @@ Breadbeat | arranger9 = Wonderkid
 Breadbeat
 Roydo | length9 = 3:56
 
-| title10 = 現在（鐘業獨唱） | note10 = 지금 / Now | lyrics10 =
-[文鐘業](https://zh.wikipedia.org/wiki/文鐘業 "wikilink")
+| title10 = 現在（鐘業獨唱） | note10 = 지금 / Now | lyrics10 = [文鐘業](https://zh.wikipedia.org/wiki/文鐘業 "wikilink")
 河主昊（하주호） | music10 = 文鐘業
 河主昊 | arranger10 = 朴秀錫 | length10 = 3:10
 
 | title11 = Kingdom | note11 = 韓文版 | lyrics11 = 朴秀錫
 朴仁宇（박인우）
-[Sleepy](https://zh.wikipedia.org/wiki/Sleepy "wikilink") | music11 =
-朴秀錫
+[Sleepy](https://zh.wikipedia.org/wiki/Sleepy "wikilink") | music11 = 朴秀錫
 朴仁宇 | arranger11 = 朴秀錫
 朴仁宇 | length11 = 3:50
 
@@ -203,9 +191,7 @@ Devil Cat | length13 = 3:23 }}
 
 ## 引用資料
 
-[Category:B.A.P音樂專輯](https://zh.wikipedia.org/wiki/Category:B.A.P音樂專輯 "wikilink")
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:B.A.P音樂專輯](https://zh.wikipedia.org/wiki/Category:B.A.P音樂專輯 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

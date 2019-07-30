@@ -1,26 +1,17 @@
-\--[---------------------------------- Lua module implementing the
-{{webarchive}} template. A merger of the functionality of three
-templates: {{wayback}}, {{webcite}} and {{cite
-archives}}](https://zh.wikipedia.org/wiki/----------------------------------_Lua_module_implementing_the_{{webarchive}}_template._A_merger_of_the_functionality_of_three_templates:_{{wayback}},_{{webcite}}_and_{{cite_archives}} "wikilink")
+\--[---------------------------------- Lua module implementing the {{webarchive}} template. A merger of the functionality of three templates: {{wayback}}, {{webcite}} and {{cite archives}}](https://zh.wikipedia.org/wiki/----------------------------------_Lua_module_implementing_the_{{webarchive}}_template._A_merger_of_the_functionality_of_three_templates:_{{wayback}},_{{webcite}}_and_{{cite_archives}} "wikilink")
 
 local p = {}
 
-\--[--------------------------\< inlineError \>-----------------------
-Critical error. Render output completely in red. Add to tracking
-category.](https://zh.wikipedia.org/wiki/--------------------------\<_inlineError_\>-----------------------_Critical_error._Render_output_completely_in_red._Add_to_tracking_category. "wikilink")
+\--[--------------------------\< inlineError \>----------------------- Critical error. Render output completely in red. Add to tracking category.](https://zh.wikipedia.org/wiki/--------------------------\<_inlineError_\>-----------------------_Critical_error._Render_output_completely_in_red._Add_to_tracking_category. "wikilink")
 
 local function inlineError(arg, msg)
 
 ` track["Category:Webarchive模板错误"] = 1`
-` return '`<span style="font-size:100%" class="error citation-comment">`webarchive模板错误：检查|'
-.. arg .. '=参数。' .. msg  .. '`</span>`'`
+` return '`<span style="font-size:100%" class="error citation-comment">`webarchive模板错误：检查|' .. arg .. '=参数。' .. msg  .. '`</span>`'`
 
 end
 
-\--[--------------------------\< inlineRed \>-----------------------
-Render a text fragment in red, such as a warning as part of the final
-output. Add tracking
-category.](https://zh.wikipedia.org/wiki/--------------------------\<_inlineRed_\>-----------------------_Render_a_text_fragment_in_red,_such_as_a_warning_as_part_of_the_final_output._Add_tracking_category. "wikilink")
+\--[--------------------------\< inlineRed \>----------------------- Render a text fragment in red, such as a warning as part of the final output. Add tracking category.](https://zh.wikipedia.org/wiki/--------------------------\<_inlineRed_\>-----------------------_Render_a_text_fragment_in_red,_such_as_a_warning_as_part_of_the_final_output._Add_tracking_category. "wikilink")
 
 local function inlineRed(msg, trackmsg)
 
@@ -34,11 +25,7 @@ local function inlineRed(msg, trackmsg)
 
 end
 
-\--[--------------------------\< trimArg \>-----------------------
-trimArg returns nil if arg is "" while trimArg2 returns 'true' if arg is
-"" trimArg2 is for args that might accept an empty value, as an on/off
-switch like
-nolink=](https://zh.wikipedia.org/wiki/--------------------------\<_trimArg_\>-----------------------_trimArg_returns_nil_if_arg_is_""_while_trimArg2_returns_'true'_if_arg_is_""_trimArg2_is_for_args_that_might_accept_an_empty_value,_as_an_on/off_switch_like_nolink= "wikilink")
+\--[--------------------------\< trimArg \>----------------------- trimArg returns nil if arg is "" while trimArg2 returns 'true' if arg is "" trimArg2 is for args that might accept an empty value, as an on/off switch like nolink=](https://zh.wikipedia.org/wiki/--------------------------\<_trimArg_\>-----------------------_trimArg_returns_nil_if_arg_is_""_while_trimArg2_returns_'true'_if_arg_is_""_trimArg2_is_for_args_that_might_accept_an_empty_value,_as_an_on/off_switch_like_nolink= "wikilink")
 
 local function trimArg(arg)
 
@@ -58,9 +45,7 @@ end local function trimArg2(arg)
 
 end
 
-\--[--------------------------\< base62 \>-----------------------
-Convert base-62 to base-10 Credit:
-https://de.wikipedia.org/wiki/Modul:Expr](https://zh.wikipedia.org/wiki/--------------------------\<_base62_\>-----------------------_Convert_base-62_to_base-10_Credit:_https://de.wikipedia.org/wiki/Modul:Expr "wikilink")
+\--[--------------------------\< base62 \>----------------------- Convert base-62 to base-10 Credit: https://de.wikipedia.org/wiki/Modul:Expr](https://zh.wikipedia.org/wiki/--------------------------\<_base62_\>-----------------------_Convert_base-62_to_base-10_Credit:_https://de.wikipedia.org/wiki/Modul:Expr "wikilink")
 
 local function base62( value )
 
@@ -91,9 +76,7 @@ local function base62( value )
 
 end
 
-\--[--------------------------\< tableLength \>-----------------------
-Given a 1-D table, return number of
-elements](https://zh.wikipedia.org/wiki/--------------------------\<_tableLength_\>-----------------------_Given_a_1-D_table,_return_number_of_elements "wikilink")
+\--[--------------------------\< tableLength \>----------------------- Given a 1-D table, return number of elements](https://zh.wikipedia.org/wiki/--------------------------\<_tableLength_\>-----------------------_Given_a_1-D_table,_return_number_of_elements "wikilink")
 
 local function tableLength(T)
 
@@ -103,10 +86,7 @@ local function tableLength(T)
 
 end
 
-\--[--------------------------\< dateFormat \>-----------------------
-Given a date string, return its format: dmy, mdy, iso, ymd If unable to
-determine return
-nil](https://zh.wikipedia.org/wiki/--------------------------\<_dateFormat_\>-----------------------_Given_a_date_string,_return_its_format:_dmy,_mdy,_iso,_ymd_If_unable_to_determine_return_nil "wikilink")
+\--[--------------------------\< dateFormat \>----------------------- Given a date string, return its format: dmy, mdy, iso, ymd If unable to determine return nil](https://zh.wikipedia.org/wiki/--------------------------\<_dateFormat_\>-----------------------_Given_a_date_string,_return_its_format:_dmy,_mdy,_iso,_ymd_If_unable_to_determine_return_nil "wikilink")
 
 local function dateFormat(date)
 
@@ -144,10 +124,7 @@ local function dateFormat(date)
 
 end
 
-\--[--------------------------\< makeDate \>-----------------------
-Given a zero-padded 4-digit year, 2-digit month and 2-digit day, return
-a full date in df format df = mdy, dmy, iso,
-ymd](https://zh.wikipedia.org/wiki/--------------------------\<_makeDate_\>-----------------------_Given_a_zero-padded_4-digit_year,_2-digit_month_and_2-digit_day,_return_a_full_date_in_df_format_df_=_mdy,_dmy,_iso,_ymd "wikilink")
+\--[--------------------------\< makeDate \>----------------------- Given a zero-padded 4-digit year, 2-digit month and 2-digit day, return a full date in df format df = mdy, dmy, iso, ymd](https://zh.wikipedia.org/wiki/--------------------------\<_makeDate_\>-----------------------_Given_a_zero-padded_4-digit_year,_2-digit_month_and_2-digit_day,_return_a_full_date_in_df_format_df_=_mdy,_dmy,_iso,_ymd "wikilink")
 
 local function makeDate(year, month, day, df)
 
@@ -193,11 +170,7 @@ local function makeDate(year, month, day, df)
 
 end
 
-\--[--------------------------\< decodeWebciteDate
-\>----------------------- Given a URI-path to Webcite (eg. /67xHmVFWP)
-return the encoded date in df
-format](https://zh.wikipedia.org/wiki/--------------------------\<_decodeWebciteDate_\>-----------------------_Given_a_URI-path_to_Webcite_\(eg._/67xHmVFWP\)_return_the_encoded_date_in_df_format "wikilink")
-local function decodeWebciteDate(path, df)
+\--[--------------------------\< decodeWebciteDate \>----------------------- Given a URI-path to Webcite (eg. /67xHmVFWP) return the encoded date in df format](https://zh.wikipedia.org/wiki/--------------------------\<_decodeWebciteDate_\>-----------------------_Given_a_URI-path_to_Webcite_\(eg._/67xHmVFWP\)_return_the_encoded_date_in_df_format "wikilink") local function decodeWebciteDate(path, df)
 
 `   local dt = {}`
 `   dt.split = {}`
@@ -245,12 +218,7 @@ local function decodeWebciteDate(path, df)
 
 end
 
-\--[--------------------------\< snapDateToString
-\>----------------------- Given a URI-path to Wayback (eg.
-/web/20160901010101/http://example.com ) return the formatted date eg.
-"September 1, 2016" in df format Handle non-digits in snapshot ID such
-as "re_" and "-" and
-"\*"](https://zh.wikipedia.org/wiki/--------------------------\<_snapDateToString_\>-----------------------_Given_a_URI-path_to_Wayback_\(eg._/web/20160901010101/http://example.com_\)_return_the_formatted_date_eg._"September_1,_2016"_in_df_format_Handle_non-digits_in_snapshot_ID_such_as_"re_"_and_"-"_and_"*" "wikilink")
+\--[--------------------------\< snapDateToString \>----------------------- Given a URI-path to Wayback (eg. /web/20160901010101/http://example.com ) return the formatted date eg. "September 1, 2016" in df format Handle non-digits in snapshot ID such as "re_" and "-" and "\*"](https://zh.wikipedia.org/wiki/--------------------------\<_snapDateToString_\>-----------------------_Given_a_URI-path_to_Wayback_\(eg._/web/20160901010101/http://example.com_\)_return_the_formatted_date_eg._"September_1,_2016"_in_df_format_Handle_non-digits_in_snapshot_ID_such_as_"re_"_and_"-"_and_"*" "wikilink")
 
 local function decodeWaybackDate(path, df)
 
@@ -306,17 +274,13 @@ local function decodeWaybackDate(path, df)
 
 end
 
-\--[--------------------------\< serviceName \>-----------------------
-Given a domain extracted by mw.uri.new() (eg. web.archive.org) set tail
-string and service
-ID](https://zh.wikipedia.org/wiki/--------------------------\<_serviceName_\>-----------------------_Given_a_domain_extracted_by_mw.uri.new\(\)_\(eg._web.archive.org\)_set_tail_string_and_service_ID "wikilink")
+\--[--------------------------\< serviceName \>----------------------- Given a domain extracted by mw.uri.new() (eg. web.archive.org) set tail string and service ID](https://zh.wikipedia.org/wiki/--------------------------\<_serviceName_\>-----------------------_Given_a_domain_extracted_by_mw.uri.new\(\)_\(eg._web.archive.org\)_set_tail_string_and_service_ID "wikilink")
 
 local function serviceName(frame, host, nolink)
 
 ` local tracking = "Category:Webarchive模板其他存档站点"`
 
-` local bracketopen = "`[`"``   ``local``   ``bracketclose``   ``=``
- ``"`](https://zh.wikipedia.org/wiki/"_local_bracketclose_=_" "wikilink")`"`
+` local bracketopen = "`[`"``   ``local``   ``bracketclose``   ``=``   ``"`](https://zh.wikipedia.org/wiki/"_local_bracketclose_=_" "wikilink")`"`
 ` if nolink then`
 `   bracketopen = ""`
 `   bracketclose = ""`
@@ -355,8 +319,7 @@ local function serviceName(frame, host, nolink)
 ` elseif mw.ustring.find( host, "webharvest.gov", 1, plain ) then`
 `   ulx.url1.name = bracketopen .. "國家檔案和記錄管理局" .. bracketclose`
 ` elseif mw.ustring.find( host, "bibalex.org", 1, plain ) then`
-`   ulx.url1.name = "`[`Bibliotheca``
- ``Alexandrina`](https://zh.wikipedia.org/wiki/Bibliotheca_Alexandrina#Internet_Archive_partnership "wikilink")`"`
+`   ulx.url1.name = "`[`Bibliotheca``   ``Alexandrina`](https://zh.wikipedia.org/wiki/Bibliotheca_Alexandrina#Internet_Archive_partnership "wikilink")`"`
 ` elseif mw.ustring.find( host, "collectionscanada", 1, plain ) then`
 `   ulx.url1.name = "Canadian Government Web Archive"`
 ` elseif mw.ustring.find( host, "haw.nsk", 1, plain ) then`
@@ -364,16 +327,13 @@ local function serviceName(frame, host, nolink)
 ` elseif mw.ustring.find( host, "veebiarhiiv.digar.ee", 1, plain ) then`
 `   ulx.url1.name = "Estonian Web Archive"`
 ` elseif mw.ustring.find( host, "vefsafn.is", 1, plain ) then`
-`   ulx.url1.name = "`[`National``   ``and``   ``University``
- ``Library``   ``of``
- ``Iceland`](https://zh.wikipedia.org/wiki/National_and_University_Library_of_Iceland "wikilink")`"`
+`   ulx.url1.name = "`[`National``   ``and``   ``University``   ``Library``   ``of``   ``Iceland`](https://zh.wikipedia.org/wiki/National_and_University_Library_of_Iceland "wikilink")`"`
 ` elseif mw.ustring.find( host, "proni.gov", 1, plain ) then`
 `   ulx.url1.name = frame:expandTemplate{ title = "Link-en", args = {"北愛爾蘭公共記錄辦公室", "Public Record Office of Northern Ireland"} }`
 ` elseif mw.ustring.find( host, "uni[-]lj.si", 1, plain ) then`
 `   ulx.url1.name = "Slovenian Web Archive"`
 ` elseif mw.ustring.find( host, "stanford.edu", 1, plain ) then`
-`   ulx.url1.name = "`[`Stanford``   ``Web``
- ``Archive`](https://zh.wikipedia.org/wiki/Stanford_University_Libraries "wikilink")`"`
+`   ulx.url1.name = "`[`Stanford``   ``Web``   ``Archive`](https://zh.wikipedia.org/wiki/Stanford_University_Libraries "wikilink")`"`
 ` elseif mw.ustring.find( host, "nationalarchives.gov.uk", 1, plain ) then`
 `   ulx.url1.name = frame:expandTemplate{ title = "Link-en", args = {"英國政府網際網路檔案館", "UK Government Web Archive", "英國政府-{zh-cn:互联网; zh-tw:網際網路; zh-hk:互聯網;}-檔案館"} }`
 ` elseif mw.ustring.find( host, "parliament.uk", 1, plain ) then`
@@ -410,8 +370,7 @@ local function serviceName(frame, host, nolink)
 
 end
 
-\--\[\[--------------------------\< parseExtraArgs
-\>-----------------------
+\--\[\[--------------------------\< parseExtraArgs \>-----------------------
 
 `    Parse numbered arguments starting at 2, such as url2..url10, date2..date10, title2..title10`
 `      For example: `
@@ -459,9 +418,7 @@ local function parseExtraArgs()
 
 end
 
-\--[--------------------------\< comma \>----------------------- Given a
-date string, return "," if it's
-MDY](https://zh.wikipedia.org/wiki/--------------------------\<_comma_\>-----------------------_Given_a_date_string,_return_","_if_it's_MDY "wikilink")
+\--[--------------------------\< comma \>----------------------- Given a date string, return "," if it's MDY](https://zh.wikipedia.org/wiki/--------------------------\<_comma_\>-----------------------_Given_a_date_string,_return_","_if_it's_MDY "wikilink")
 
 local function comma(date)
 
@@ -476,8 +433,7 @@ local function comma(date)
 
 end
 
-\--\[\[--------------------------\< createTracking
-\>-----------------------
+\--\[\[--------------------------\< createTracking \>-----------------------
 
 `    Return data in track[] ie. tracking categories`
 
@@ -488,16 +444,14 @@ local function createTracking()
 ` local sand = ""`
 ` if tableLength(track) > 0 then                        `
 `   for key,_ in pairs(track) do`
-`     sand = sand .. "`[`"``   ``..``   ``key``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._key_.._" "wikilink")`"`
+`     sand = sand .. "`[`"``   ``..``   ``key``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._key_.._" "wikilink")`"`
 `   end`
 ` end`
 ` return sand`
 
 end
 
-\--\[\[--------------------------\< createRendering
-\>-----------------------
+\--\[\[--------------------------\< createRendering \>-----------------------
 
 `    Return a rendering of the data in ulx[][]`
 
@@ -692,9 +646,7 @@ function p.webarchive(frame)
 
 ` local rend = createRendering()`
 ` if not rend then`
-`   rend = '`<span style="font-size:100%" class="error citation-comment">`Error in `[`:Template:'``
- ``..``   ``tname``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/:Template:'_.._tname_.._' "wikilink")`: Unknown problem. Please report on template talk page.`</span>`'`
+`   rend = '`<span style="font-size:100%" class="error citation-comment">`Error in `[`:Template:'``   ``..``   ``tname``   ``..``   ``'`](https://zh.wikipedia.org/wiki/:Template:'_.._tname_.._' "wikilink")`: Unknown problem. Please report on template talk page.`</span>`'`
 `   track["Category:Webarchive模板错误"] = 1 `
 ` end`
 

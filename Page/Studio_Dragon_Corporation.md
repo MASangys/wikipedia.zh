@@ -1,5 +1,4 @@
-**Studio Dragon Corporation**
-（為韓國娛樂財團將旗下電視劇事業部門獨立設置營運的電視劇綜合製作公司。主要業務為電視劇製作、策畫與全球行銷。\[1\]\[2\]\[3\]\[4\]
+**Studio Dragon Corporation** （為韓國娛樂財團將旗下電視劇事業部門獨立設置營運的電視劇綜合製作公司。主要業務為電視劇製作、策畫與全球行銷。\[1\]\[2\]\[3\]\[4\]
 
 **Studio Dragon** 已經在2017年11月24日透過IPO方式，納入韓國交易所KOSDAQ指數。\[5\]
 
@@ -23,7 +22,7 @@
 | 6    | 《[需要浪漫2012](../Page/需要浪漫2012.md "wikilink")》         | I Need Romance 2012                                         | tvN                                                 |                                     |                   |
 | 9    | 《[玻璃假面](../Page/玻璃假面_\(韓國電視劇\).md "wikilink")》       | Glass Mask                                                  | tvN                                                 |                                     |                   |
 | 9    | 《[第三醫院](../Page/第三醫院.md "wikilink")》                 | The 3rd Hospital                                            | tvN                                                 |                                     |                   |
-| 9    | 《[吸血鬼檢察官2](../Page/吸血鬼檢察官.md "wikilink") 》           | Vampire Prosecutor                                          | OCN                                                 |                                     |                   |
+| 9    | 《[吸血鬼檢察官](../Page/吸血鬼檢察官.md "wikilink")2 》           | Vampire Prosecutor                                          | OCN                                                 |                                     |                   |
 | 2013 |                                                      | 《[Nine：九回時間旅行](../Page/Nine：九回時間旅行.md "wikilink")》          | 9: Nine Time Travels                                | tvN                                 |                   |
 |      | 3                                                    | 《[病毒](../Page/病毒_\(電視劇\).md "wikilink")》                    | The Virus                                           | OCN                                 |                   |
 |      | 4                                                    | 《[瘋狂愛情](../Page/瘋狂愛情.md "wikilink")》                        | Crazy Love                                          | tvN                                 |                   |
@@ -41,44 +40,24 @@
 
 #### 2016年
 
-  - [湖南卫视](../Page/湖南卫视.md "wikilink")
-    《[相爱穿梭千年2：月光下的交换](../Page/相爱穿梭千年2：月光下的交换.md "wikilink")》
-    ([湖南卫视](../Page/湖南卫视.md "wikilink")、
-    [天娱传媒与合作伙伴关系](../Page/天娱传媒.md "wikilink"))
-  - [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")
-    《[又，吳海英](../Page/又，吳海英.md "wikilink")》
-    ([綠蛇傳媒与合作伙伴关系](../Page/綠蛇傳媒.md "wikilink"))
-  - tvN 《[Dear My Friends](../Page/Dear_My_Friends.md "wikilink")》
-    ([GT:st与合作伙伴关系](https://zh.wikipedia.org/wiki/GT:st "wikilink"))
-  - [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")
-    《[38師機動隊](../Page/38師機動隊.md "wikilink")》 ([SM
-    C\&C与合作伙伴关系](../Page/SM娛樂.md "wikilink"))
+  - [湖南卫视](../Page/湖南卫视.md "wikilink") 《[相爱穿梭千年2：月光下的交换](../Page/相爱穿梭千年2：月光下的交换.md "wikilink")》 ([湖南卫视](../Page/湖南卫视.md "wikilink")、 [天娱传媒](../Page/天娱传媒.md "wikilink")与合作伙伴关系)
+  - [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") 《[又，吳海英](../Page/又，吳海英.md "wikilink")》 ([綠蛇傳媒](../Page/綠蛇傳媒.md "wikilink")与合作伙伴关系)
+  - tvN 《[Dear My Friends](../Page/Dear_My_Friends.md "wikilink")》 ([GT:st与合作伙伴关系](https://zh.wikipedia.org/wiki/GT:st "wikilink"))
+  - [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") 《[38師機動隊](../Page/38師機動隊.md "wikilink")》 ([SM C\&C与合作伙伴关系](../Page/SM娛樂.md "wikilink"))
   - tvN 《[法妻當自強 (The Good Wife)](../Page/法妻當自強.md "wikilink")》
-  - [KBS](../Page/韓國放送公社.md "wikilink")
-    [2TV](../Page/KBS第2频道.md "wikilink")
-    《[通往機場的路](../Page/通往機場的路.md "wikilink")》
-  - [MBC](../Page/文化廣播公司.md "wikilink")
-    《[拖旅行箱的女人](../Page/拖旅行箱的女人.md "wikilink")》
+  - [KBS](../Page/韓國放送公社.md "wikilink") [2TV](../Page/KBS第2频道.md "wikilink") 《[通往機場的路](../Page/通往機場的路.md "wikilink")》
+  - [MBC](../Page/文化廣播公司.md "wikilink") 《[拖旅行箱的女人](../Page/拖旅行箱的女人.md "wikilink")》
   - tvN 《[entourage](../Page/Entourage_\(韓國電視劇\).md "wikilink")》
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    《[藍色海洋的傳說](https://zh.wikipedia.org/wiki/藍色海洋的傳說 "wikilink")》
-    ([Culture Depot
-    Entertainment与合作伙伴关系](https://zh.wikipedia.org/wiki/Culture_Depot_Entertainment "wikilink"))
-  - tvN 《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》 ([Hwa\&Dam
-    Pictures与合作伙伴关系](https://zh.wikipedia.org/wiki/Hwa&Dam_Pictures "wikilink"))
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink") 《[藍色海洋的傳說](https://zh.wikipedia.org/wiki/藍色海洋的傳說 "wikilink")》 ([Culture Depot Entertainment与合作伙伴关系](https://zh.wikipedia.org/wiki/Culture_Depot_Entertainment "wikilink"))
+  - tvN 《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》 ([Hwa\&Dam Pictures与合作伙伴关系](https://zh.wikipedia.org/wiki/Hwa&Dam_Pictures "wikilink"))
 
 #### 2017年
 
-  - tvN 《[Circle：相連的兩個世界](../Page/Circle：相連的兩個世界.md "wikilink")》
-    ([tvN](https://zh.wikipedia.org/wiki/tvN "wikilink"),
-    [KPJ与合作伙伴关系](https://zh.wikipedia.org/wiki/KPJ "wikilink"))
+  - tvN 《[Circle：相連的兩個世界](../Page/Circle：相連的兩個世界.md "wikilink")》 ([tvN](https://zh.wikipedia.org/wiki/tvN "wikilink"), [KPJ与合作伙伴关系](https://zh.wikipedia.org/wiki/KPJ "wikilink"))
   - KBS 2TV 《[我的黃金光輝人生](../Page/我的黃金光輝人生.md "wikilink")》
-  - SBS 《[Bravo My Life](../Page/Bravo_My_Life.md "wikilink")》 (Hwa\&Dam
-    Pictures与合作伙伴关系)
-  - tvN 《[tvN Drama
-    Stage](https://zh.wikipedia.org/wiki/tvN_Drama_Stage "wikilink")》
-  - tvN 《[世上最美麗的離別](../Page/世上最美麗的離別_\(2017年電視劇\).md "wikilink")》
-    (GT:st与合作伙伴关系)
+  - SBS 《[Bravo My Life](../Page/Bravo_My_Life.md "wikilink")》 (Hwa\&Dam Pictures与合作伙伴关系)
+  - tvN 《[tvN Drama Stage](https://zh.wikipedia.org/wiki/tvN_Drama_Stage "wikilink")》
+  - tvN 《[世上最美麗的離別](../Page/世上最美麗的離別_\(2017年電視劇\).md "wikilink")》 (GT:st与合作伙伴关系)
 
 #### 2018年
 
@@ -90,74 +69,52 @@
 
 #### 2016年
 
-  - tvN 《[打架吧鬼神](../Page/打架吧鬼神.md "wikilink")》 (, [THE
-    UNICORN的生产](https://zh.wikipedia.org/wiki/THE_UNICORN "wikilink"))
-  - tvN 《[灰姑娘與四騎士](../Page/灰姑娘與四騎士.md "wikilink")》
-    ([HB娛樂的生产](https://zh.wikipedia.org/wiki/HB娛樂 "wikilink"))
+  - tvN 《[打架吧鬼神](../Page/打架吧鬼神.md "wikilink")》 (, [THE UNICORN的生产](https://zh.wikipedia.org/wiki/THE_UNICORN "wikilink"))
+  - tvN 《[灰姑娘與四騎士](../Page/灰姑娘與四騎士.md "wikilink")》 ([HB娛樂的生产](https://zh.wikipedia.org/wiki/HB娛樂 "wikilink"))
   - tvN 《[THE K2](../Page/THE_K2.md "wikilink")》 (HB娛樂的生产)
 
 #### 2017年
 
-  - OCN 《[Voice](../Page/Voice.md "wikilink")》 ([CONTENT
-    K的生产](../Page/Keyeast.md "wikilink"))
-  - tvN 《[內向的老闆](../Page/內向的老闆.md "wikilink")》 (,
-    [內向的老闆文化產業專門會社的生产](https://zh.wikipedia.org/wiki/內向的老闆文化產業專門會社 "wikilink"))
+  - OCN 《[Voice](../Page/Voice.md "wikilink")》 ([CONTENT K的生产](../Page/Keyeast.md "wikilink"))
+  - tvN 《[內向的老闆](../Page/內向的老闆.md "wikilink")》 (, [內向的老闆文化產業專門會社的生产](https://zh.wikipedia.org/wiki/內向的老闆文化產業專門會社 "wikilink"))
   - tvN 《[明天和你](../Page/明天和你.md "wikilink")》 (的生产)
-  - tvN 《[她愛上了我的謊](../Page/她愛上了我的謊_\(韓國電視劇\).md "wikilink")》 ([BON
-    FACTORY的生产](https://zh.wikipedia.org/wiki/BON_FACTORY "wikilink"))
+  - tvN 《[她愛上了我的謊](../Page/她愛上了我的謊_\(韓國電視劇\).md "wikilink")》 ([BON FACTORY的生产](https://zh.wikipedia.org/wiki/BON_FACTORY "wikilink"))
   - OCN 《[隧道](../Page/隧道_\(電視劇\).md "wikilink")》 (THE UNICORN的生产)
-  - tvN 《[芝加哥打字機](../Page/芝加哥打字機_\(電視劇\).md "wikilink")》 (THE
-    UNICORN的生产)
+  - tvN 《[芝加哥打字機](../Page/芝加哥打字機_\(電視劇\).md "wikilink")》 (THE UNICORN的生产)
   - OCN 《[Duel](../Page/Duel.md "wikilink")》 (綠蛇傳媒的生产)
-  - tvN 《[秘密森林](../Page/秘密森林.md "wikilink")》 (, [IOK
-    Company的生产](https://zh.wikipedia.org/wiki/IOK_Company "wikilink"))
-  - tvN 《[河伯的新娘 2017](../Page/河伯的新娘_2017.md "wikilink")》 ([Number Three
-    Pictures的生产](https://zh.wikipedia.org/wiki/Number_Three_Pictures "wikilink"))
-  - tvN 《[犯罪心理 (CRIMINAL MINDS)](../Page/犯罪心理_\(韩国电视剧\).md "wikilink")》
-    (的生产)
+  - tvN 《[秘密森林](../Page/秘密森林.md "wikilink")》 (, [IOK Company的生产](https://zh.wikipedia.org/wiki/IOK_Company "wikilink"))
+  - tvN 《[河伯的新娘 2017](../Page/河伯的新娘_2017.md "wikilink")》 ([Number Three Pictures的生产](https://zh.wikipedia.org/wiki/Number_Three_Pictures "wikilink"))
+  - tvN 《[犯罪心理 (CRIMINAL MINDS)](../Page/犯罪心理_\(韩国电视剧\).md "wikilink")》 (的生产)
   - OCN 《[救救我](../Page/救救我.md "wikilink")》 (的生产)
   - tvN 《[名不虛傳](../Page/名不虛傳.md "wikilink")》 (BON FACTORY的生产)
-  - tvN 《[ARGON](../Page/Argon_\(電視劇\).md "wikilink")》 ([Daydream
-    Entertainment的生产](https://zh.wikipedia.org/wiki/Daydream_Entertainment "wikilink"))
+  - tvN 《[ARGON](../Page/Argon_\(電視劇\).md "wikilink")》 ([Daydream Entertainment的生产](https://zh.wikipedia.org/wiki/Daydream_Entertainment "wikilink"))
   - OCN 《[Black](../Page/Black_\(韓國電視劇\).md "wikilink")》 (的生产)
   - OCN 《[壞傢伙們：惡的都市](../Page/壞傢伙們：惡的都市.md "wikilink")》 (的生产)
   - tvN 《[付岩洞復仇者們](../Page/付岩洞復仇者們.md "wikilink")》 (的生产)
-  - tvN 《[卞赫的愛情](../Page/卞赫的愛情.md "wikilink")》 ([Samhwa
-    Networks的生产](../Page/Samhwa_Networks.md "wikilink"))
-  - tvN 《[今生是第一次](../Page/今生是第一次.md "wikilink")》 ([MI
-    Inc.的生产](https://zh.wikipedia.org/wiki/MI_Inc. "wikilink"))
+  - tvN 《[卞赫的愛情](../Page/卞赫的愛情.md "wikilink")》 ([Samhwa Networks的生产](../Page/Samhwa_Networks.md "wikilink"))
+  - tvN 《[今生是第一次](../Page/今生是第一次.md "wikilink")》 ([MI Inc.的生产](https://zh.wikipedia.org/wiki/MI_Inc. "wikilink"))
   - tvN 《[和遊記](../Page/和遊記.md "wikilink")》 (JSpictures的生产)
 
 #### 2018年
 
-  - tvN 《[Mother](../Page/Mother_\(韓國電視劇\).md "wikilink")》 (THE
-    UNICORN的生产)
+  - tvN 《[Mother](../Page/Mother_\(韓國電視劇\).md "wikilink")》 (THE UNICORN的生产)
   - tvN 《[Cross](../Page/Cross_\(電視劇\).md "wikilink")》 (的生产)
   - tvN 《[我的大叔](../Page/我的大叔.md "wikilink")》 (綠蛇傳媒的生产)
-  - OCN 《[Life on
-    Mars](https://zh.wikipedia.org/wiki/Life_on_Mars_\(韓國電視劇\) "wikilink")》
-    (由Production H製作)
-  - tvN
-    《[阿爾罕布拉宮的回憶](https://zh.wikipedia.org/wiki/阿爾罕布拉宮的回憶 "wikilink")》
-    (綠蛇傳媒的生產)
+  - OCN 《[Life on Mars](https://zh.wikipedia.org/wiki/Life_on_Mars_\(韓國電視劇\) "wikilink")》 (由Production H製作)
+  - tvN 《[阿爾罕布拉宮的回憶](https://zh.wikipedia.org/wiki/阿爾罕布拉宮的回憶 "wikilink")》 (綠蛇傳媒的生產)
 
 ## 相关公司
 
 ### 子公司
 
-  - [Culture Depot
-    Entertainment](https://zh.wikipedia.org/wiki/Culture_Depot_Entertainment "wikilink")
+  - [Culture Depot Entertainment](https://zh.wikipedia.org/wiki/Culture_Depot_Entertainment "wikilink")
 
   -
   - [KPJ](https://zh.wikipedia.org/wiki/KPJ "wikilink")
 
 ### 合資公司
 
-  - [MEGA
-    MONSTER](https://zh.wikipedia.org/wiki/MEGA_MONSTER "wikilink")
-    ([kakao
-    M（原LOEN娛樂）共同拥有](https://zh.wikipedia.org/wiki/kakao_M "wikilink");
-    STORY PLANT前身为)\[6\]\[7\]
+  - [MEGA MONSTER](https://zh.wikipedia.org/wiki/MEGA_MONSTER "wikilink") ([kakao M（原LOEN娛樂）共同拥有](https://zh.wikipedia.org/wiki/kakao_M "wikilink"); STORY PLANT前身为)\[6\]\[7\]
 
 ### 附属公司
 
@@ -210,29 +167,17 @@
 ## 外部連結
 
   -
-[Category:电视制作公司](https://zh.wikipedia.org/wiki/Category:电视制作公司 "wikilink")
-[Category:韓國公司](https://zh.wikipedia.org/wiki/Category:韓國公司 "wikilink")
-[Category:韓國證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:韓國證券交易所上市公司 "wikilink")
-[Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink")
-[Category:2016年成立的公司](https://zh.wikipedia.org/wiki/Category:2016年成立的公司 "wikilink")
-[Category:2017年IPO](https://zh.wikipedia.org/wiki/Category:2017年IPO "wikilink")
+[Category:电视制作公司](https://zh.wikipedia.org/wiki/Category:电视制作公司 "wikilink") [Category:韓國公司](https://zh.wikipedia.org/wiki/Category:韓國公司 "wikilink") [Category:韓國證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:韓國證券交易所上市公司 "wikilink") [Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink") [Category:2016年成立的公司](https://zh.wikipedia.org/wiki/Category:2016年成立的公司 "wikilink") [Category:2017年IPO](https://zh.wikipedia.org/wiki/Category:2017年IPO "wikilink")
 
-1.  [CJ E\&M, 드라마 전문
-    제작사‘스튜디오드래곤’설립](http://sports.donga.com/3/02/20160205/76333730/1)
-2.  [몸값 1조' 스튜디오 드래곤, 24일 코스닥
-    상장](http://www.sedaily.com/NewsView/1ONIGX5XBO)
-3.  [CJ그룹에도 직격탄, 스튜디오드래곤 IPO
-    불똥](http://www.thebell.co.kr/front/free/contents/news/article_view.asp?key=201703070100011900000767)
-4.  [스튜디오드래곤·진에어·티슈진, 4분기 兆단위 IPO대어
-    주목](http://vip.mk.co.kr/news/view/21/20/1539315.html)
+1.  [CJ E\&M, 드라마 전문 제작사‘스튜디오드래곤’설립](http://sports.donga.com/3/02/20160205/76333730/1)
+2.  [몸값 1조' 스튜디오 드래곤, 24일 코스닥 상장](http://www.sedaily.com/NewsView/1ONIGX5XBO)
+3.  [CJ그룹에도 직격탄, 스튜디오드래곤 IPO 불똥](http://www.thebell.co.kr/front/free/contents/news/article_view.asp?key=201703070100011900000767)
+4.  [스튜디오드래곤·진에어·티슈진, 4분기 兆단위 IPO대어 주목](http://vip.mk.co.kr/news/view/21/20/1539315.html)
 5.
-6.  [카카오, \`로엔\` 주축 자체 제작 동영상
-    강화](http://www.dt.co.kr/contents.html?article_no=2017082502101231043001)
+6.  [카카오, \`로엔\` 주축 자체 제작 동영상 강화](http://www.dt.co.kr/contents.html?article_no=2017082502101231043001)
 7.  [SM、YG、JYP、FNC等娛樂公司涉足「韓劇」事業的市場衝擊](http://www.koreastardaily.com/tc/news/95532)
-8.  [Studio Dragon to debut on
-    KOSDAQ](http://www.koreatimes.co.kr/www/biz/2017/11/488_239009.html)
-9.  [CJ E\&M 신인작가그룹 ‘오펜’, 코스콤
-    방문](http://www.ddaily.co.kr/news/article.html?no=159529)
+8.  [Studio Dragon to debut on KOSDAQ](http://www.koreatimes.co.kr/www/biz/2017/11/488_239009.html)
+9.  [CJ E\&M 신인작가그룹 ‘오펜’, 코스콤 방문](http://www.ddaily.co.kr/news/article.html?no=159529)
 10.
 11.  Soompi|accessdate=2018-01-15|work=www.soompi.com|language=en-US}}
 12.

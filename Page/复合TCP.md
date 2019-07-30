@@ -1,7 +1,4 @@
-**复合TCP**（，简称**CTCP**）是[微软自](../Page/微软.md "wikilink")[Windows
-Vista及Window](../Page/Windows_Vista.md "wikilink") Server
-2008开始在[TCP栈中引入的一个算法](../Page/传输控制协议.md "wikilink")。它旨在积极调整发送方的，以在不损害的基础上（[HSTCP同样遵循](https://zh.wikipedia.org/wiki/高速TCP "wikilink")）优化TCP对高[带宽时延积连接的表现](https://zh.wikipedia.org/wiki/带宽时延积 "wikilink")。该方案还可在Linux、Windows
-XP以及Windows Server 2003上使用。\[1\]
+**复合TCP**（，简称**CTCP**）是[微软](../Page/微软.md "wikilink")自[Windows Vista及Window](../Page/Windows_Vista.md "wikilink") Server 2008开始在[TCP栈中引入的一个算法](../Page/传输控制协议.md "wikilink")。它旨在积极调整发送方的，以在不损害的基础上（[HSTCP同样遵循](https://zh.wikipedia.org/wiki/高速TCP "wikilink")）优化TCP对高[带宽时延积连接的表现](https://zh.wikipedia.org/wiki/带宽时延积 "wikilink")。该方案还可在Linux、Windows XP以及Windows Server 2003上使用。\[1\]
 
 ## 操作原理
 
@@ -35,68 +32,40 @@ CTCP在Beta版的Windows Server 2008中被默认启用，在Windows Vista和7上
 
 `netsh interface tcp show global`
 
-“附加拥塞控制提供程序”（Add-On Congestion Control
-Provider）参数为“none”表示CTCP已禁用，为“ctcp”表示它已启用。
+“附加拥塞控制提供程序”（Add-On Congestion Control Provider）参数为“none”表示CTCP已禁用，为“ctcp”表示它已启用。
 
 ### Windows 8 / 8.1
 
-Windows
-8/8.1需使用[PowerShell命令](../Page/Windows_PowerShell.md "wikilink")（见
-<https://web.archive.org/web/20131029184023/http://technet.microsoft.com/en-us/library/hh826132.aspx%3Cnowiki/%3E%EF%BC%89%E4%BF%AE%E6%94%B9%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6%E7%AE%97%E6%B3%95>。
+Windows 8/8.1需使用[PowerShell命令](../Page/Windows_PowerShell.md "wikilink")（见 <https://web.archive.org/web/20131029184023/http://technet.microsoft.com/en-us/library/hh826132.aspx%3Cnowiki/%3E%EF%BC%89%E4%BF%AE%E6%94%B9%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6%E7%AE%97%E6%B3%95>。
 
 ### Linux
 
-除了Windows支持，CTCP还被Angelo P.
-Castellani移植到了[Linux](../Page/Linux.md "wikilink")。Caltech开发的一个补丁包含了CTCP's
-TUning By Emulation
-(TUBE)。此补丁由于[软件专利而仅供研究人员使用](https://zh.wikipedia.org/wiki/软件专利 "wikilink")。该模块已不兼容内核2.6.17及以上版本，将由于内核API变更而编译失败。\[3\]
+除了Windows支持，CTCP还被Angelo P. Castellani移植到了[Linux](../Page/Linux.md "wikilink")。Caltech开发的一个补丁包含了CTCP's TUning By Emulation (TUBE)。此补丁由于[软件专利而仅供研究人员使用](https://zh.wikipedia.org/wiki/软件专利 "wikilink")。该模块已不兼容内核2.6.17及以上版本，将由于内核API变更而编译失败。\[3\]
 
 ## 参见
 
   -
   - [显式拥塞通知](../Page/显式拥塞通知.md "wikilink")
 
-  - [传输控制协议（TCP） -
-    发展过程](https://zh.wikipedia.org/wiki/传输控制协议#發展過程 "wikilink")
+  - [传输控制协议（TCP） - 发展过程](https://zh.wikipedia.org/wiki/传输控制协议#發展過程 "wikilink")
 
 ## 参考资料
 
 ## 外部链接
 
-  - [Compound TCP
-    Internet-Draft](http://tools.ietf.org/html/draft-sridharan-tcpm-ctcp)
-  - ["A Compound TCP Approach for High-speed and Long Distance
-    Networks"](http://research.microsoft.com/research/pubs/view.aspx?type=Technical%20Report&id=940)
-    July 2005
-  - [Performance Enhancements in the Next Generation TCP/IP
-    Stack](https://web.archive.org/web/20060506095853/http://www.microsoft.com/technet/community/columns/cableguy/cg1105.mspx),
-    The Cable Guy
-  - [The Compound TCP for High-speed and Long Distance
-    Networks](http://research.microsoft.com/en-us/projects/ctcp/),
-    Microsoft Research publication
-  - [Vista's TCP/IP Promises and
-    Perils](http://www.networkperformancedaily.com/2006/12/vistas_tcpip_promises_and_peri.html),
-    Article at Network Performance Daily
-  - [Caltech's Compound TCP patch for
-    Linux](https://web.archive.org/web/20080802222857/http://netlab.caltech.edu/lachlan/ctcp/)
-  - Enabling CTCP on 2003/XP x64:
-    [1](http://blog.tiensivu.com/aaron/archives/1537-KB-949316-Add-Compound-TCP-CTCP-support-to-XP-and-Server-2003.html),\[<http://blog.tiensivu.com/aaron/archives/901-Compound-TCP-congestion-control-algorithm-in-Vista-can-make-lossyhigh-latency-connections-behave-better>..html\]
-  - [Report on experimental evaluation of Compound
-    TCP](http://www.hamilton.ie/net/delay_tests_final.pdf) [Hamilton
-    Institute](http://www.hamilton.ie) and
-    [Caltech](http://netlab.caltech.edu), March 2008.
-  - [A simulation-based study of Compound
-    TCP](http://www.comp.nus.edu.sg/~wuxiucha/research/reactive/publication/ctcp_study.pdf)
-     July 14, 2008
-  - [CTCP进驻Windows的故事](http://blog.sina.com.cn/s/blog_4caedc7a0100gd8f.html)，[微软亚洲研究院的博客](../Page/微软亚洲研究院.md "wikilink")，2009年10月27日
-
+  - [Compound TCP Internet-Draft](http://tools.ietf.org/html/draft-sridharan-tcpm-ctcp)
+  - ["A Compound TCP Approach for High-speed and Long Distance Networks"](http://research.microsoft.com/research/pubs/view.aspx?type=Technical%20Report&id=940) July 2005
+  - [Performance Enhancements in the Next Generation TCP/IP Stack](https://web.archive.org/web/20060506095853/http://www.microsoft.com/technet/community/columns/cableguy/cg1105.mspx), The Cable Guy
+  - [The Compound TCP for High-speed and Long Distance Networks](http://research.microsoft.com/en-us/projects/ctcp/), Microsoft Research publication
+  - [Vista's TCP/IP Promises and Perils](http://www.networkperformancedaily.com/2006/12/vistas_tcpip_promises_and_peri.html), Article at Network Performance Daily
+  - [Caltech's Compound TCP patch for Linux](https://web.archive.org/web/20080802222857/http://netlab.caltech.edu/lachlan/ctcp/)
+  - Enabling CTCP on 2003/XP x64: [1](http://blog.tiensivu.com/aaron/archives/1537-KB-949316-Add-Compound-TCP-CTCP-support-to-XP-and-Server-2003.html),\[<http://blog.tiensivu.com/aaron/archives/901-Compound-TCP-congestion-control-algorithm-in-Vista-can-make-lossyhigh-latency-connections-behave-better>..html\]
+  - [Report on experimental evaluation of Compound TCP](http://www.hamilton.ie/net/delay_tests_final.pdf) [Hamilton Institute](http://www.hamilton.ie) and [Caltech](http://netlab.caltech.edu), March 2008.
+  - [A simulation-based study of Compound TCP](http://www.comp.nus.edu.sg/~wuxiucha/research/reactive/publication/ctcp_study.pdf)  July 14, 2008
+  - [CTCP进驻Windows的故事](http://blog.sina.com.cn/s/blog_4caedc7a0100gd8f.html)，[微软亚洲研究院](../Page/微软亚洲研究院.md "wikilink")的博客，2009年10月27日
 
 [Category:TCP拥塞控制](https://zh.wikipedia.org/wiki/Category:TCP拥塞控制 "wikilink")
 
-1.  [A hotfix that adds Compound TCP (CTCP) support to computers that
-    are running Windows Server 2003 or Windows XP is
-    available](http://support.microsoft.com/kb/949316)
-2.  [A hotfix that adds Compound TCP (CTCP) support to computers that
-    are running Windows Server 2003 or Windows XP is
-    available](http://support.microsoft.com/kb/949316)
+1.  [A hotfix that adds Compound TCP (CTCP) support to computers that are running Windows Server 2003 or Windows XP is available](http://support.microsoft.com/kb/949316)
+2.  [A hotfix that adds Compound TCP (CTCP) support to computers that are running Windows Server 2003 or Windows XP is available](http://support.microsoft.com/kb/949316)
 3.

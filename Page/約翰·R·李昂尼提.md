@@ -1,4 +1,4 @@
-**約翰·羅伯特·李昂尼提**（，）是一名[美國男攝影師和導演](https://zh.wikipedia.org/wiki/美國 "wikilink")\[1\]，隸屬於\[2\]。他時常與導演[溫子仁合作](../Page/溫子仁.md "wikilink")，在他的電影中擔任攝影師。
+**約翰·羅伯特·李昂尼提**（，）是一名[美國男攝影師和導演](https://zh.wikipedia.org/wiki/美國 "wikilink")\[1\]，隸屬於\[2\]。他時常與導演[溫子仁](../Page/溫子仁.md "wikilink")合作，在他的電影中擔任攝影師。
 
 ## 作品列表
 
@@ -162,10 +162,7 @@
 
   -
   -
-[Category:1956年出生](https://zh.wikipedia.org/wiki/Category:1956年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:美国电影摄影师](https://zh.wikipedia.org/wiki/Category:美国电影摄影师 "wikilink")
-[Category:美國電影導演](https://zh.wikipedia.org/wiki/Category:美國電影導演 "wikilink")
+[Category:1956年出生](https://zh.wikipedia.org/wiki/Category:1956年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:美国电影摄影师](https://zh.wikipedia.org/wiki/Category:美国电影摄影师 "wikilink") [Category:美國電影導演](https://zh.wikipedia.org/wiki/Category:美國電影導演 "wikilink")
 
 1.
 2.

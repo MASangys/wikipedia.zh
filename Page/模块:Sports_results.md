@@ -1,5 +1,4 @@
-\-- Module to build results cross-tables for standings in Sports -- See
-documentation for details
+\-- Module to build results cross-tables for standings in Sports -- See documentation for details
 
 require('Module:No globals')
 

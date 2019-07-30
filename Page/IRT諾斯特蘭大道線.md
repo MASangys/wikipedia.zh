@@ -1,4 +1,4 @@
-**諾斯特蘭大道線**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT的一條](../Page/跨區捷運公司.md "wikilink")[地鐵路線](../Page/地鐵.md "wikilink")，在[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[布魯克林諾斯特蘭大道下方運行](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")。任何時候都有[2號線列車](https://zh.wikipedia.org/wiki/紐約地鐵2號線 "wikilink")，平日日間還有[5號線列車](../Page/紐約地鐵5號線.md "wikilink")。
+**諾斯特蘭大道線**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT的一條](../Page/跨區捷運公司.md "wikilink")[地鐵](../Page/地鐵.md "wikilink")路線，在[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[布魯克林諾斯特蘭大道下方運行](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")。任何時候都有[2號線列車](https://zh.wikipedia.org/wiki/紐約地鐵2號線 "wikilink")，平日日間還有[5號線列車](../Page/紐約地鐵5號線.md "wikilink")。
 
 ## 服務形式
 
@@ -129,8 +129,7 @@
 
 ## 參考資料
 
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1920年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1920年啟用的鐵路線 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1920年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1920年啟用的鐵路線 "wikilink")
 
 1.
 2.

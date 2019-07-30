@@ -1,6 +1,4 @@
-**Raven Software**（又称**Raven Entertainment Software,
-Inc.**），是一家总部位于美国威斯康星州的游戏开发公司，成立于1990年。1997年，乌鸦取得了与动视的独家出版协议，随后被动视收购。收购完成后，该工作室的大部分开发者离开工作室并成立Human
-Head Studios。
+**Raven Software**（又称**Raven Entertainment Software, Inc.**），是一家总部位于美国威斯康星州的游戏开发公司，成立于1990年。1997年，乌鸦取得了与动视的独家出版协议，随后被动视收购。收购完成后，该工作室的大部分开发者离开工作室并成立Human Head Studios。
 
 ## 旗下游戏
 
@@ -44,10 +42,7 @@ Head Studios。
 ## 外部链接
 
   -
-[Category:1990年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1990年開業電子遊戲公司 "wikilink")
-[Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink")
-[Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
+[Category:1990年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1990年開業電子遊戲公司 "wikilink") [Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
 1.
 

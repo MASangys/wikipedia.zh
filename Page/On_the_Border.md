@@ -1,12 +1,8 @@
-《**On The
-Border**》是[老鹰乐队](../Page/老鹰_\(乐队\).md "wikilink")1974年发行的第三张专辑，由Asylum发行。
+《**On The Border**》是[老鹰乐队](../Page/老鹰_\(乐队\).md "wikilink")1974年发行的第三张专辑，由Asylum发行。
 
 ## 背景
 
-这张专辑最初由Glyn
-Johns制作，并在伦敦的奥林匹克工作室录制，但在专辑制作过程中，老鹰乐队与制片人之间出现分歧。乐队试图倾向更硬的摇滚音乐，他们觉得制片人Glyn
-Thomas
-Johns突出他们受国家影响的摇滚音乐。之后乐队在洛杉矶的录音工作室录制了专辑的其余部分。他们希望更多地了解专辑的创作方式，Frey觉得自己喜欢Szymczyk在制作专辑时更加自由。\[1\]
+这张专辑最初由Glyn Johns制作，并在伦敦的奥林匹克工作室录制，但在专辑制作过程中，老鹰乐队与制片人之间出现分歧。乐队试图倾向更硬的摇滚音乐，他们觉得制片人Glyn Thomas Johns突出他们受国家影响的摇滚音乐。之后乐队在洛杉矶的录音工作室录制了专辑的其余部分。他们希望更多地了解专辑的创作方式，Frey觉得自己喜欢Szymczyk在制作专辑时更加自由。\[1\]
 
 ## 人员
 
@@ -122,6 +118,5 @@ Rick Griffin - 刻字
 
 [Category:Elektra_Records音乐专辑](https://zh.wikipedia.org/wiki/Category:Elektra_Records音乐专辑 "wikilink")
 
-1.   Biography & History {{\!}}
-    AllMusic|accessdate=2017-08-17|work=AllMusic}}
+1.   Biography & History {{\!}} AllMusic|accessdate=2017-08-17|work=AllMusic}}
 2.

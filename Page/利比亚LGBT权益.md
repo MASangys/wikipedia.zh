@@ -1,12 +1,12 @@
-**女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群在**利比亚**面临着法律问题。[利比亚将男性或女性的同性间性行为视为犯罪](../Page/利比亚.md "wikilink")。
+**女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群在**利比亚**面临着法律问题。[利比亚](../Page/利比亚.md "wikilink")将男性或女性的同性间性行为视为犯罪。
 
 ## 刑法
 
 利比亚的刑法禁止合法婚姻以外的所有性行为。根据《利比亚刑法》第410条，成年人之间的私下自愿的同性性行为是违法的。\[1\]
 
-在20世纪90年代，利比亚领导人[穆阿迈尔·卡扎菲开始颁布](../Page/穆阿迈尔·卡扎菲.md "wikilink")“净化法”，旨在强制对人民实行严格的[伊斯兰教法](https://zh.wikipedia.org/wiki/伊斯兰教法 "wikilink")。利比亚法院有权对被发现违反传统伊斯兰道德的人采取截肢，[鞭打和其他残忍的惩罚](https://zh.wikipedia.org/wiki/鞭打 "wikilink")。\[2\]
+在20世纪90年代，利比亚领导人[穆阿迈尔·卡扎菲](../Page/穆阿迈尔·卡扎菲.md "wikilink")开始颁布“净化法”，旨在强制对人民实行严格的[伊斯兰教法](https://zh.wikipedia.org/wiki/伊斯兰教法 "wikilink")。利比亚法院有权对被发现违反传统伊斯兰道德的人采取截肢，[鞭打和其他残忍的惩罚](https://zh.wikipedia.org/wiki/鞭打 "wikilink")。\[2\]
 
-2010年，《中东同性恋》博客报道说，两名成年男子被指控“不雅行为”，这意味着[異裝和同性恋行为](../Page/異裝.md "wikilink")。\[3\]
+2010年，《中东同性恋》博客报道说，两名成年男子被指控“不雅行为”，这意味着[異裝](../Page/異裝.md "wikilink")和同性恋行为。\[3\]
 
 女性同性恋也是违法的，同样公开承认一个人是同性恋者也违法。2010年，[法国的一个](https://zh.wikipedia.org/wiki/法国 "wikilink")[庇护案涉及一名利比亚女孩](../Page/庇護權.md "wikilink")，她在网络公开表示她是同性恋后被监禁，被强奸，回家后被家人强迫与男人结婚，因而寻求法国政府庇护。\[4\]
 
@@ -43,8 +43,7 @@
 
 ## 参考资料
 
-[Category:利比亞政治](https://zh.wikipedia.org/wiki/Category:利比亞政治 "wikilink")
-[Category:非洲LGBT權益](https://zh.wikipedia.org/wiki/Category:非洲LGBT權益 "wikilink")
+[Category:利比亞政治](https://zh.wikipedia.org/wiki/Category:利比亞政治 "wikilink") [Category:非洲LGBT權益](https://zh.wikipedia.org/wiki/Category:非洲LGBT權益 "wikilink")
 
 1.
 2.

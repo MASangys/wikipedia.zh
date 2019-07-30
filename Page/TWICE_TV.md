@@ -1,12 +1,10 @@
-**TWICE TV**
-是一系列由[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TWICE出演的](https://zh.wikipedia.org/wiki/TWICE "wikilink")[綜藝](https://zh.wikipedia.org/wiki/綜藝 "wikilink")[採訪節目](https://zh.wikipedia.org/wiki/採訪 "wikilink")。
+**TWICE TV** 是一系列由[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TWICE出演的](https://zh.wikipedia.org/wiki/TWICE "wikilink")[綜藝](https://zh.wikipedia.org/wiki/綜藝 "wikilink")[採訪節目](https://zh.wikipedia.org/wiki/採訪 "wikilink")。
 
 節目將通過詳細的採訪，呈現[TWICE今後的抱負](https://zh.wikipedia.org/wiki/TWICE "wikilink")、豐富的小故事、不為人知的心路歷程。
 
 ## 第一季
 
-第一季於2015年7月17日起，每週五下午五點（韓國時間）在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-TVcast播出。\[1\]
+第一季於2015年7月17日起，每週五下午五點（韓國時間）在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") TVcast播出。\[1\]
 
 |    |            |                                                                                                                                                                                 |
 | -- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,9 +18,7 @@ TVcast播出。\[1\]
 
 ## 第二季
 
-第二季於2015年10月23日起，每週五下午五點(韓國時間)在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。\[2\]
-[TWICE_TV2.png](https://zh.wikipedia.org/wiki/File:TWICE_TV2.png "fig:TWICE_TV2.png")
+第二季於2015年10月23日起，每週五下午五點(韓國時間)在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。\[2\] [TWICE_TV2.png](https://zh.wikipedia.org/wiki/File:TWICE_TV2.png "fig:TWICE_TV2.png")
 
 |    |             |      |
 | -- | ----------- | ---- |
@@ -40,9 +36,7 @@ V app 播出。\[2\]
 
 ## 第三季 （TWICE TV3 in JEJU ）
 
-第三季於2016年4月29日起，每週五下午五點(韓國時間)在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。\[3\]
-[TWICE_TV3.png](https://zh.wikipedia.org/wiki/File:TWICE_TV3.png "fig:TWICE_TV3.png")
+第三季於2016年4月29日起，每週五下午五點(韓國時間)在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。\[3\] [TWICE_TV3.png](https://zh.wikipedia.org/wiki/File:TWICE_TV3.png "fig:TWICE_TV3.png")
 
 |    |            |      |
 | -- | ---------- | ---- |
@@ -58,9 +52,7 @@ V app 播出。\[3\]
 
 ## 第四季
 
-第四季於2016年10月31日起，每週一中午十二點(韓國時間)在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。\[4\]
-[TWICE_TV4.png](https://zh.wikipedia.org/wiki/File:TWICE_TV4.png "fig:TWICE_TV4.png")
+第四季於2016年10月31日起，每週一中午十二點(韓國時間)在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。\[4\] [TWICE_TV4.png](https://zh.wikipedia.org/wiki/File:TWICE_TV4.png "fig:TWICE_TV4.png")
 
 |    |             |                    |
 | -- | ----------- | ------------------ |
@@ -86,8 +78,7 @@ V app 播出。\[4\]
 
 ## 第五季（TWICE TV5 in SWITZERLAND）
 
-第五季於2017年5月22日起，每週一、三、五下午六點(韓國時間)在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。\[5\]\[6\]
+第五季於2017年5月22日起，每週一、三、五下午六點(韓國時間)在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。\[5\]\[6\]
 
 |    |            |      |
 | -- | ---------- | ---- |
@@ -119,8 +110,7 @@ V app 播出。\[5\]\[6\]
 
 ## 第六季（TWICE TV6 in SINGAPORE）
 
-第六季於2017年11月8日起，每週三.六中午十二點(韓國時間)在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。\[7\]
+第六季於2017年11月8日起，每週三.六中午十二點(韓國時間)在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。\[7\]
 
 |    |             |      |
 | -- | ----------- | ---- |
@@ -142,9 +132,7 @@ V app 播出。\[7\]
 
 ### BEGINS
 
-BEGINS於2016年6月29日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。\[8\]
-[TWICE_TV_BEGINS.png](https://zh.wikipedia.org/wiki/File:TWICE_TV_BEGINS.png "fig:TWICE_TV_BEGINS.png")
+BEGINS於2016年6月29日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。\[8\] [TWICE_TV_BEGINS.png](https://zh.wikipedia.org/wiki/File:TWICE_TV_BEGINS.png "fig:TWICE_TV_BEGINS.png")
 
 |    |            |      |
 | -- | ---------- | ---- |
@@ -160,9 +148,7 @@ V app 播出。\[8\]
 
 ### 伙食團的大冒險
 
-伙食團的大冒險於2016年8月28日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。\[9\]
-[TWICE_TV_School_Meal_Club.png](https://zh.wikipedia.org/wiki/File:TWICE_TV_School_Meal_Club.png "fig:TWICE_TV_School_Meal_Club.png")
+伙食團的大冒險於2016年8月28日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。\[9\] [TWICE_TV_School_Meal_Club.png](https://zh.wikipedia.org/wiki/File:TWICE_TV_School_Meal_Club.png "fig:TWICE_TV_School_Meal_Club.png")
 
 |    |            |             |
 | -- | ---------- | ----------- |
@@ -172,10 +158,7 @@ V app 播出。\[9\]
 
 ### MELODY PROJECT
 
-MELODY
-PROJECT於2016年9月15日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。\[10\]
-[TWICE_TV_Melody_Project.png](https://zh.wikipedia.org/wiki/File:TWICE_TV_Melody_Project.png "fig:TWICE_TV_Melody_Project.png")
+MELODY PROJECT於2016年9月15日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。\[10\] [TWICE_TV_Melody_Project.png](https://zh.wikipedia.org/wiki/File:TWICE_TV_Melody_Project.png "fig:TWICE_TV_Melody_Project.png")
 
 |    |            |      |                                                      |
 | -- | ---------- | ---- | ---------------------------------------------------- |
@@ -187,8 +170,7 @@ V app 播出。\[10\]
 
 ### TWICE TV SPECIAL
 
-SPECIAL於2017年2月27日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。
+SPECIAL於2017年2月27日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。
 
 |    |            |      |
 | -- | ---------- | ---- |
@@ -202,8 +184,7 @@ V app 播出。
 
 ### TWICE 김쯔위（周子瑜）
 
-周子瑜於2017年3月12日期，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。
+周子瑜於2017年3月12日期，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。
 
 |    |            |                  |    |
 | -- | ---------- | ---------------- | -- |
@@ -213,8 +194,7 @@ V app 播出。
 
 ### MINI
 
-MINI於2017年7月7日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。
+MINI於2017年7月7日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。
 
 |    |            |      |
 | -- | ---------- | ---- |
@@ -225,9 +205,7 @@ V app 播出。
 
 ### MO彩 TV
 
-MO彩 TV（韓語：모챙
-TV）於2017年9月19日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。
+MO彩 TV（韓語：모챙 TV）於2017年9月19日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。
 
 |    |             |            |
 | -- | ----------- | ---------- |
@@ -243,9 +221,7 @@ V app 播出。
 
 ### TWICE TV 2018
 
-TWICE TV
-2018於2018年1月14日起，每兩周周日在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。
+TWICE TV 2018於2018年1月14日起，每兩周周日在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。
 
 |    |             |       |
 | -- | ----------- | ----- |
@@ -267,9 +243,7 @@ V app 播出。
 
 ### MO彩 TV2
 
-MO彩 TV2（韓語：모챙
-TV2）於2018年3月12日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。
+MO彩 TV2（韓語：모챙 TV2）於2018年3月12日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。
 
 |    |            |                             |
 | -- | ---------- | --------------------------- |
@@ -281,9 +255,7 @@ V app 播出。
 
 ### TWICE TV "What is Love?"
 
-TWICE TV "What is
-Love?"於2018年4月18日起，每週三、六在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。
+TWICE TV "What is Love?"於2018年4月18日起，每週三、六在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。
 
 |    |            |                      |
 | -- | ---------- | -------------------- |
@@ -301,9 +273,7 @@ V app 播出。
 
 ### TWICE 5分鐘廣播
 
-TWICE 5分鐘廣播（韓語：TWICE 5분
-라디오）於2018年6月5日起，每週二在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。
+TWICE 5分鐘廣播（韓語：TWICE 5분 라디오）於2018年6月5日起，每週二在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。
 
 |    |            |           |    |
 | -- | ---------- | --------- | -- |
@@ -316,9 +286,7 @@ V app 播出。
 
 ### TWICE TV "Dance The Night Away"
 
-TWICE TV "Dance The Night
-Away"於2018年7月9日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。
+TWICE TV "Dance The Night Away"於2018年7月9日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。
 
 |    |            |      |
 | -- | ---------- | ---- |
@@ -331,9 +299,7 @@ V app 播出。
 
 ### 二SaMo秀 TuesdaySanaMomoShow
 
-二SaMo秀 TuesdaySanaMomoShow（韓語：화사모쇼
-TuesdaySanaMomoShow）於2018年7月10日起，每週二在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。
+二SaMo秀 TuesdaySanaMomoShow（韓語：화사모쇼 TuesdaySanaMomoShow）於2018年7月10日起，每週二在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。
 
 |    |            |                           |                 |
 | -- | ---------- | ------------------------- | --------------- |
@@ -344,8 +310,7 @@ V app 播出。
 
 ### 娜璉TV
 
-娜璉TV於2018年9月13日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。
+娜璉TV於2018年9月13日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。
 
 |        |             |            |
 | ------ | ----------- | ---------- |
@@ -357,9 +322,7 @@ V app 播出。
 
 ### TWICE TV "YES or YES"
 
-TWICE TV "YES or
-YES"於2018年11月12日起，每周一、四在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。
+TWICE TV "YES or YES"於2018年11月12日起，每周一、四在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。
 
 |    |             |       |     |
 | -- | ----------- | ----- | --- |
@@ -376,9 +339,7 @@ V app 播出。
 
 ### TWICE TV "The Best Thing I Ever Did"
 
-TWICE TV "The Best Thing I Ever
-Did"於2018年12月21日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。
+TWICE TV "The Best Thing I Ever Did"於2018年12月21日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。
 
 |    |             |      |
 | -- | ----------- | ---- |
@@ -388,9 +349,7 @@ V app 播出。
 
 ### TWICE TV "YES or YES" Special
 
-TWICE TV "YES or YES" Special
-於2019年1月13日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。
+TWICE TV "YES or YES" Special 於2019年1月13日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。
 
 |    |            |      |
 | -- | ---------- | ---- |
@@ -401,9 +360,7 @@ V app 播出。
 
 ### TWICE TV 花絮合輯
 
-此TWICE TV
-以花絮為主並無特定主題，特此整合，於2019年2月1日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。
+此TWICE TV 以花絮為主並無特定主題，特此整合，於2019年2月1日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。
 
 |            |                         |          |
 | ---------- | ----------------------- | -------- |
@@ -421,12 +378,11 @@ V app 播出。
 | 2019年4月12日 | V re:memVer PARTY       |          |
 | 2019年4月23日 | TOKYO DOME              |          |
 | 2019年5月24日 | FANCY SHOWCASE          |          |
+| 2019年6月7日  | THE FACT MUSIC AWARDS   |          |
 
 ### TWICE "Star Road"
 
-TWICE "Star
-Road"於2019年3月5日起，每週二、四、六在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。
+TWICE "Star Road"於2019年3月5日起，每週二、四、六在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。
 
 |    |            |                 |
 | -- | ---------- | --------------- |
@@ -458,9 +414,7 @@ V app 播出。
 
 ### TWICE Vlog"FANCY"
 
-TWICE Vlog "FANCY" 主要由成員 [彩瑛](../Page/彩瑛.md "wikilink")
-拍攝並剪輯，於2019年4月8日起，每週一、三、五在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。
+TWICE Vlog "FANCY" 主要由成員 [彩瑛](../Page/彩瑛.md "wikilink") 拍攝並剪輯，於2019年4月8日起，每週一、三、五在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。
 
 |    |            |                            |
 | -- | ---------- | -------------------------- |
@@ -477,9 +431,7 @@ V app 播出。
 
 ### TWICE TV "FANCY"
 
-TWICE TV
-"FANCY"於2019年4月30日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。
+TWICE TV "FANCY"於2019年4月30日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。
 
 |    |            |       |     |
 | -- | ---------- | ----- | --- |
@@ -496,9 +448,7 @@ V app 播出。
 
 ### TWICE TV "FANCY" COMEBACK WEEK
 
-TWICE TV
-"FANCY"於2019年5月31日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V app 播出。
+TWICE TV "FANCY" COMEBACK WEEK 於2019年5月31日起，每週五在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。
 
 |    |            |      |
 | -- | ---------- | ---- |
@@ -507,6 +457,18 @@ V app 播出。
 | 2  | 2019年6月14日 |      |
 | 3  | 2019年6月21日 |      |
 | 4  | 2019年6月28日 |      |
+| 5  | 2019年7月5日  |      |
+
+### TWICE TV "TWICE ENTERTAINMENT"
+
+TWICE TV "TWICE ENTERTAINMENT"於2019年7月5日起，每週五在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。
+
+|    |            |            |                             |
+| -- | ---------- | ---------- | --------------------------- |
+| 集數 | 播放日期       | 參與成員       | 備註                          |
+| 1  | 2019年7月5日  | 娜璉、SANA、彩瑛 | MARKETING TEAM VER.         |
+| 2  | 2019年7月12日 | 定延、MOMO、多賢 | A\&R TEAM VER.              |
+| 3  | 2019年7月19日 | 志效、MINA、子瑜 | BUSINESS PLANNING TEAM VER. |
 
 ## 註釋
 
@@ -517,26 +479,16 @@ V app 播出。
   - [JYPnation Naver TVcast頻道](http://tvcast.naver.com/jypnation)
   - [V APP專屬頻道](http://www.vlive.tv/channels/EDBF)
 
-[Category:TWICE](https://zh.wikipedia.org/wiki/Category:TWICE "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:TWICE](https://zh.wikipedia.org/wiki/Category:TWICE "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
-1.  [JYP 신인 걸그룹 트와이스, 17일 '트와이스 TV' 첫
-    선](http://osen.mt.co.kr/article/G1110200924)
-2.  [TWICE TV2 EP.01 on V TWICE CHANNEL
-    at 5PM](https://twitter.com/JYPETWICE/status/657452459439230976)
+1.  [JYP 신인 걸그룹 트와이스, 17일 '트와이스 TV' 첫 선](http://osen.mt.co.kr/article/G1110200924)
+2.  [TWICE TV2 EP.01 on V TWICE CHANNEL at 5PM](https://twitter.com/JYPETWICE/status/657452459439230976)
 3.  [TWICE TV3 TEASER](http://www.vlive.tv/video/7825)
-4.  [TWICE TV4 V
-    Exclusive](https://twitter.com/JYPETWICE/status/792742895438573568)
-5.  [TWICE TV5 TWICE in
-    SWITZERLAND](https://twitter.com/JYPETWICE/status/863958380368478208)
-6.  [TWICE TV5 - TWICE in SWITZERLAND-
-    EP.01](https://twitter.com/JYPETWICE/status/866599690699022336)
-7.  [TWICE TV6 -TWICE in SINGAPORE-
-    EP.01](https://twitter.com/JYPETWICE/status/928095120989216768)
-8.  [TWICE TV PREQUEL & SPIN OFF COMING
-    SOON](https://twitter.com/JYPETWICE/status/743820554960961536)
-9.  [TWICE TV 급식단 EP.01
-    공개](https://twitter.com/JYPETWICE/status/769721589273284608)
-10. [TWICE TV MELODY
-    PROJECT](https://twitter.com/jypetwice/status/769187735483523072)
+4.  [TWICE TV4 V Exclusive](https://twitter.com/JYPETWICE/status/792742895438573568)
+5.  [TWICE TV5 TWICE in SWITZERLAND](https://twitter.com/JYPETWICE/status/863958380368478208)
+6.  [TWICE TV5 - TWICE in SWITZERLAND- EP.01](https://twitter.com/JYPETWICE/status/866599690699022336)
+7.  [TWICE TV6 -TWICE in SINGAPORE- EP.01](https://twitter.com/JYPETWICE/status/928095120989216768)
+8.  [TWICE TV PREQUEL & SPIN OFF COMING SOON](https://twitter.com/JYPETWICE/status/743820554960961536)
+9.  [TWICE TV 급식단 EP.01 공개](https://twitter.com/JYPETWICE/status/769721589273284608)
+10. [TWICE TV MELODY PROJECT](https://twitter.com/jypetwice/status/769187735483523072)
 11. 命名《志效的小夜曲》

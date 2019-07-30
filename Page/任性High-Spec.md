@@ -1,22 +1,12 @@
-是由MADOSOFT（，窗軟體
-）於2016年4月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。此作品為MADOSOFT的第3部作品，日文簡稱「」\[1\]。2017年8月25日發售續篇《任性High-Spec
-OC》（）\[2\]。
+是由MADOSOFT（，窗軟體 ）於2016年4月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。此作品為MADOSOFT的第3部作品，日文簡稱「」\[1\]。2017年8月25日發售續篇《任性High-Spec OC》（）\[2\]。
 
 ## 概要
 
-《任性High-Spec》於2015年6月19日在官方網站發表，6月20日於成人遊戲雑誌《[TECH
-GIAN](../Page/TECH_GIAN.md "wikilink")》、《[PUSH\!\!](https://zh.wikipedia.org/wiki/PUSH!! "wikilink")》刊載相關消息\[3\]\[4\]。與前2作《傲慢Delation》、《嫉妒Stream》不同，原畫師改由擔當。
+《任性High-Spec》於2015年6月19日在官方網站發表，6月20日於成人遊戲雑誌《[TECH GIAN](../Page/TECH_GIAN.md "wikilink")》、《[PUSH\!\!](https://zh.wikipedia.org/wiki/PUSH!! "wikilink")》刊載相關消息\[3\]\[4\]。與前2作《傲慢Delation》、《嫉妒Stream》不同，原畫師改由擔當。
 
-2015年8月14日在遊戲還未發表發售日期時便以在「[Comic
-Market](../Page/Comic_Market.md "wikilink")88」發表改編電視動畫的消息\[5\]\[6\]\[7\]。9月25日公開遊戲宣傳影片，並發表遊戲的發售日與動畫播放皆在2016年4月的消息\[8\]。
+2015年8月14日在遊戲還未發表發售日期時便以在「[Comic Market](../Page/Comic_Market.md "wikilink")88」發表改編電視動畫的消息\[5\]\[6\]\[7\]。9月25日公開遊戲宣傳影片，並發表遊戲的發售日與動畫播放皆在2016年4月的消息\[8\]。
 
-2015年10月25日於[品川 Stellar
-Ball舉辦的](https://zh.wikipedia.org/wiki/品川_Stellar_Ball "wikilink")「[EGG
--Extra Games
-Garden-](https://zh.wikipedia.org/wiki/EGG_-Extra_Games_Garden- "wikilink")」中發表會由演唱主題曲《Miracle
-Heart\!\!》。11月25日公開遊戲的片頭影片及公布4位女主角的擔當聲優。12月24日於[Getchu.com公開遊戲的](https://zh.wikipedia.org/wiki/Getchu.com "wikilink")[體驗版](https://zh.wikipedia.org/wiki/體驗版 "wikilink")\[9\]\[10\]。2015年末的「Comic
-Market
-89」中與MADOSOFT與[NanaWind合作展出](../Page/NanaWind.md "wikilink")，並販售《任性High-Spec》的相關商品\[11\]。
+2015年10月25日於[品川 Stellar Ball舉辦的](https://zh.wikipedia.org/wiki/品川_Stellar_Ball "wikilink")「[EGG -Extra Games Garden-](https://zh.wikipedia.org/wiki/EGG_-Extra_Games_Garden- "wikilink")」中發表會由演唱主題曲《Miracle Heart\!\!》。11月25日公開遊戲的片頭影片及公布4位女主角的擔當聲優。12月24日於[Getchu.com公開遊戲的](https://zh.wikipedia.org/wiki/Getchu.com "wikilink")[體驗版](https://zh.wikipedia.org/wiki/體驗版 "wikilink")\[9\]\[10\]。2015年末的「Comic Market 89」中與MADOSOFT與[NanaWind](../Page/NanaWind.md "wikilink")合作展出，並販售《任性High-Spec》的相關商品\[11\]。
 
 ## 故事簡介
 
@@ -37,8 +27,7 @@ Market
   -
     幸樹的妹妹，櫻翠學園的一年級生，知道哥哥從事漫畫家活動的事。不喜歡出門，經常在家上網與玩遊戲。擁有電腦程式設計師的專門知識，並靠著開發智慧型手機應用程式賺進高額收入，與幸樹同樣加入學生會並擔任會計。喜歡以薯類做成的料理。
   -
-    兔亞的朋友，櫻翠學園的一年級生。家裡經營名為「洋食
-    宮瀨」的餐廳，擅長料理。與兔亞同樣知道幸樹在從事漫畫家活動的事情。由於在入學試驗中取得最好的成績，因此被招攬進學生會。有著容易被動物喜歡的體質。
+    兔亞的朋友，櫻翠學園的一年級生。家裡經營名為「洋食 宮瀨」的餐廳，擅長料理。與兔亞同樣知道幸樹在從事漫畫家活動的事情。由於在入學試驗中取得最好的成績，因此被招攬進學生會。有著容易被動物喜歡的體質。
 
 ### 其他角色
 
@@ -62,8 +51,7 @@ Market
 
 ## 電視動畫
 
-[TOKYO
-MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[SUN電視台於](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")2016年4月11日開始播放。\[13\]由[AXsiZ製作動畫](../Page/AXsiZ.md "wikilink")、監督為[清水聰](https://zh.wikipedia.org/wiki/清水聰 "wikilink")、系列構成由[中村浩二郎](https://zh.wikipedia.org/wiki/中村浩二郎 "wikilink")、人物設定由[野村雅史擔當](https://zh.wikipedia.org/wiki/野村雅史 "wikilink")\[14\]。
+[TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[SUN電視台於](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")2016年4月11日開始播放。\[13\]由[AXsiZ](../Page/AXsiZ.md "wikilink")製作動畫、監督為[清水聰](https://zh.wikipedia.org/wiki/清水聰 "wikilink")、系列構成由[中村浩二郎](https://zh.wikipedia.org/wiki/中村浩二郎 "wikilink")、人物設定由[野村雅史擔當](https://zh.wikipedia.org/wiki/野村雅史 "wikilink")\[14\]。
 
 ### 各話列表
 
@@ -180,14 +168,11 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[SUN電視台於](https
 
 ## 網路廣播
 
-[網路廣播節目](https://zh.wikipedia.org/wiki/網路廣播 "wikilink")《任性High-Spec
-RADIO》（）在[音泉從](../Page/音泉.md "wikilink")2016年4月6日到6月15日期間隔周星期三線上播放共6回，由後藤麻衣（鳴海兔亞）擔任主持人。\[17\]
+[網路廣播節目](https://zh.wikipedia.org/wiki/網路廣播 "wikilink")《任性High-Spec RADIO》（）在[音泉](../Page/音泉.md "wikilink")從2016年4月6日到6月15日期間隔周星期三線上播放共6回，由後藤麻衣（鳴海兔亞）擔任主持人。\[17\]
 
 ## 評價
 
-任性High-Spec在Getchu.com舉辦的美少女遊戲大賞2016中獲得綜合部門第18名\[18\]、角色部門鳴海兔亞第11名\[19\]。於2016年度「[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")」獲得大賞\[20\]與用戶支持賞\[21\]，並於年間排名獲得第1名\[22\]。任性High-Spec
-OC在Getchu.com舉辦的美少女遊戲大賞2017中獲得繪圖部門第5名\[23\]、音樂部門第4名\[24\]、影片部門第5名\[25\]、角色部門四月一日奏戀第4名\[26\]。於2017年度「萌系遊戲大賞」獲得Fan
-disc賞\[27\]。
+任性High-Spec在Getchu.com舉辦的美少女遊戲大賞2016中獲得綜合部門第18名\[18\]、角色部門鳴海兔亞第11名\[19\]。於2016年度「[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")」獲得大賞\[20\]與用戶支持賞\[21\]，並於年間排名獲得第1名\[22\]。任性High-Spec OC在Getchu.com舉辦的美少女遊戲大賞2017中獲得繪圖部門第5名\[23\]、音樂部門第4名\[24\]、影片部門第5名\[25\]、角色部門四月一日奏戀第4名\[26\]。於2017年度「萌系遊戲大賞」獲得Fan disc賞\[27\]。
 
 ## 參考來源
 
@@ -197,8 +182,7 @@ disc賞\[27\]。
 
   - 書籍
 
-:\*《[TECH
-GIAN](../Page/TECH_GIAN.md "wikilink")》2015年8月號28-31頁（[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")）
+:\*《[TECH GIAN](../Page/TECH_GIAN.md "wikilink")》2015年8月號28-31頁（[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")）
 
 :\*《[PUSH\!\!](https://zh.wikipedia.org/wiki/PUSH!! "wikilink")》2015年8月號46-49頁（MAX）
 
@@ -217,17 +201,7 @@ GIAN](../Page/TECH_GIAN.md "wikilink")》2015年8月號28-31頁（[enterbrain](h
   -
   -
   -
-[Category:2016年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2016年日本成人遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink")
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:校園動畫](https://zh.wikipedia.org/wiki/Category:校園動畫 "wikilink")
-[Category:學生會題材作品](https://zh.wikipedia.org/wiki/Category:學生會題材作品 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
-[Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink")
+[Category:2016年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2016年日本成人遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:校園動畫](https://zh.wikipedia.org/wiki/Category:校園動畫 "wikilink") [Category:學生會題材作品](https://zh.wikipedia.org/wiki/Category:學生會題材作品 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink")
 
 1.
 2.

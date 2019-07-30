@@ -1,25 +1,14 @@
-《**花樣年華 Young
-Forever**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[防彈少年團的韓語特別專輯](../Page/防彈少年團.md "wikilink")，「青春二部曲」系列專輯的收尾作品。2016年5月2日由[Big
-Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")\[1\]，主打曲目為〈불타오르네（FIRE）〉。
+《**花樣年華 Young Forever**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[防彈少年團](../Page/防彈少年團.md "wikilink")的韓語特別專輯，「青春二部曲」系列專輯的收尾作品。2016年5月2日由[Big Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")\[1\]，主打曲目為〈불타오르네（FIRE）〉。
 
 ## 簡介
 
-2016年3月21日，[Big
-Hit娛樂公布團體將推出特別專輯](../Page/Big_Hit娛樂.md "wikilink")，同時在專輯推出後舉行宣傳演唱會《》\[2\]。到4月18日，官方敲定專輯會拍攝三支音樂錄影帶\[3\]，並在兩天後發放先行曲〈EPILOGUE
-: Young Forever〉的音樂錄影帶\[4\]；專輯概念照則緊接在4月22日、25日及26日分三批發放\[5\]\[6\]\[7\]。
+2016年3月21日，[Big Hit娛樂公布團體將推出特別專輯](../Page/Big_Hit娛樂.md "wikilink")，同時在專輯推出後舉行宣傳演唱會《》\[2\]。到4月18日，官方敲定專輯會拍攝三支音樂錄影帶\[3\]，並在兩天後發放先行曲〈EPILOGUE : Young Forever〉的音樂錄影帶\[4\]；專輯概念照則緊接在4月22日、25日及26日分三批發放\[5\]\[6\]\[7\]。
 
 4月27日，專輯曲目名單公開\[8\]，次日（28日），報導指出專輯已獲超過30萬張的訂單\[9\]。主打曲〈불타오르네（FIRE）〉之音樂錄影帶在5月2日隨專輯音源公開\[10\]。
 
-5月2日，主打歌〈燃燒起來（FIRE）〉發行數小時後取得韓國八大數位音樂榜即時榜第一名，達成「All-Kill」\[11\]。《花樣年華
-Young Forever》登上iTunes綜合專輯榜第九名，並蟬聯三日iTunes
-MV綜合排行榜首。5月5日韓國時間凌晨三點，〈燃燒起來（FIRE）〉MV點擊數突破1000萬次\[12\]。5月10日，《花樣年華
-Young Forever》以第107名打進美國告示牌200，專輯10首歌曲進入世界數位歌曲榜，主打歌、收錄曲〈Save
-Me〉和〈Epilogue: Young
-Forever〉成為該排行榜前三名\[13\]。6月9日，Youtube5月份全球K-POP
-MV觀看次數，〈FIRE〉和〈Save ME〉分別奪下冠亞軍\[14\]。
+5月2日，主打歌〈燃燒起來（FIRE）〉發行數小時後取得韓國八大數位音樂榜即時榜第一名，達成「All-Kill」\[11\]。《花樣年華 Young Forever》登上iTunes綜合專輯榜第九名，並蟬聯三日iTunes MV綜合排行榜首。5月5日韓國時間凌晨三點，〈燃燒起來（FIRE）〉MV點擊數突破1000萬次\[12\]。5月10日，《花樣年華 Young Forever》以第107名打進美國告示牌200，專輯10首歌曲進入世界數位歌曲榜，主打歌、收錄曲〈Save Me〉和〈Epilogue: Young Forever〉成為該排行榜前三名\[13\]。6月9日，Youtube5月份全球K-POP MV觀看次數，〈FIRE〉和〈Save ME〉分別奪下冠亞軍\[14\]。
 
-9月7日，[蘋果公司舉行](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")7發表會並且介紹Apple
-Music新服務，《花樣年華 Young Forever》成為展示牆上七十張專輯當中唯一的韓語專輯。\[15\]
+9月7日，[蘋果公司舉行](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")7發表會並且介紹Apple Music新服務，《花樣年華 Young Forever》成為展示牆上七十張專輯當中唯一的韓語專輯。\[15\]
 
 ## 曲目
 
@@ -227,7 +216,7 @@ Music新服務，《花樣年華 Young Forever》成為展示牆上七十張專�
 
 #### 日本版
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置     | 銷售量 | 總銷量 | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置     | 銷售量 | 總銷量 | 停留時間 |
 | ---------------------------------------- | -------- | --- | --- | ---- |
 | 專輯日榜                                     | 25\[28\] | \-  |     | 星期   |
 | 專輯週榜                                     |          |     |     |      |
@@ -300,11 +289,7 @@ Music新服務，《花樣年華 Young Forever》成為展示牆上七十張專�
 
 ## 參考資料
 
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:防彈少年團音樂專輯](https://zh.wikipedia.org/wiki/Category:防彈少年團音樂專輯 "wikilink")
-[Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2016年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯月榜冠軍作品 "wikilink")
+[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:防彈少年團音樂專輯](https://zh.wikipedia.org/wiki/Category:防彈少年團音樂專輯 "wikilink") [Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink") [Category:2016年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯月榜冠軍作品 "wikilink")
 
 1.
 
@@ -327,8 +312,7 @@ Music新服務，《花樣年華 Young Forever》成為展示牆上七十張專�
 
 11.
 
-12. [75小時點擊率破1000萬！防彈少年團《FIRE》再創新紀錄！](http://www.vlovekpop.com/20160506-bts-2/)
-    vlovekpop
+12. [75小時點擊率破1000萬！防彈少年團《FIRE》再創新紀錄！](http://www.vlovekpop.com/20160506-bts-2/) vlovekpop
 
 13.
 
@@ -350,17 +334,11 @@ Music新服務，《花樣年華 Young Forever》成為展示牆上七十張專�
 
 22.
 
-23.  Top Heatseekers|url =
-    [http://www.billboard.com/artist/5912948/bts/chart?f=324|website](http://www.billboard.com/artist/5912948/bts/chart?f=324%7Cwebsite)
-    = www.billboard.com|accessdate = 2016-05-10}}
+23.  Top Heatseekers|url = [http://www.billboard.com/artist/5912948/bts/chart?f=324|website](http://www.billboard.com/artist/5912948/bts/chart?f=324%7Cwebsite) = www.billboard.com|accessdate = 2016-05-10}}
 
-24.  Independent Albums|url =
-    [http://www.billboard.com/artist/5912948/bts/chart?f=326|website](http://www.billboard.com/artist/5912948/bts/chart?f=326%7Cwebsite)
-    = www.billboard.com|accessdate = 2016-05-10}}
+24.  Independent Albums|url = [http://www.billboard.com/artist/5912948/bts/chart?f=326|website](http://www.billboard.com/artist/5912948/bts/chart?f=326%7Cwebsite) = www.billboard.com|accessdate = 2016-05-10}}
 
-25.  World Albums|url =
-    [http://www.billboard.com/artist/5912948/bts/chart?f=339|website](http://www.billboard.com/artist/5912948/bts/chart?f=339%7Cwebsite)
-    = www.billboard.com|accessdate = 2016-05-10}}
+25.  World Albums|url = [http://www.billboard.com/artist/5912948/bts/chart?f=339|website](http://www.billboard.com/artist/5912948/bts/chart?f=339%7Cwebsite) = www.billboard.com|accessdate = 2016-05-10}}
 
 26.
 

@@ -8,13 +8,8 @@
 
 ## 參考
 
-[Category:機炮](https://zh.wikipedia.org/wiki/Category:機炮 "wikilink")
-[Category:37毫米口徑武器](https://zh.wikipedia.org/wiki/Category:37毫米口徑武器 "wikilink")
+[Category:機炮](https://zh.wikipedia.org/wiki/Category:機炮 "wikilink") [Category:37毫米口徑武器](https://zh.wikipedia.org/wiki/Category:37毫米口徑武器 "wikilink")
 
 1.
 2.
-3.  "...my paper strength will be 2,400 mounted men, 6 guns, and 8
-    pom-poms". Brigadier [Henry
-    Rawlinson](https://zh.wikipedia.org/wiki/Henry_Rawlinson,_1st_Baron_Rawlinson "wikilink"),
-    2 January 1902, in South Africa. From "The Life of General Lord
-    Rawlinson of Trent", by Sir Frederick Maurice. London: Cassell, 1928
+3.  "...my paper strength will be 2,400 mounted men, 6 guns, and 8 pom-poms". Brigadier [Henry Rawlinson](https://zh.wikipedia.org/wiki/Henry_Rawlinson,_1st_Baron_Rawlinson "wikilink"), 2 January 1902, in South Africa. From "The Life of General Lord Rawlinson of Trent", by Sir Frederick Maurice. London: Cassell, 1928

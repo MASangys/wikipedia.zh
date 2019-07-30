@@ -1,7 +1,4 @@
-《**BREAKERS**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet綜藝節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")\[1\]，由[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")（[SHINee](../Page/SHINee.md "wikilink")）主持\[2\]\[3\]，而知名創作歌手PENOMECO、Colde、Cha
-Ji Hye、[周永](../Page/周永_\(歌手\).md "wikilink")、[Samuel
-Seo](../Page/Samuel_Seo.md "wikilink")、20 Years of Age、Mia、Jeong
-Jae、[Hui等人參與](../Page/李會澤.md "wikilink")，節目主軸為創作型歌手的音樂對決，並結合觀眾和網友投票評判高下。
+《**BREAKERS**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet綜藝節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")\[1\]，由[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")（[SHINee](../Page/SHINee.md "wikilink")）主持\[2\]\[3\]，而知名創作歌手PENOMECO、Colde、Cha Ji Hye、[周永](../Page/周永_\(歌手\).md "wikilink")、[Samuel Seo](../Page/Samuel_Seo.md "wikilink")、20 Years of Age、Mia、Jeong Jae、[Hui等人參與](../Page/李會澤.md "wikilink")，節目主軸為創作型歌手的音樂對決，並結合觀眾和網友投票評判高下。
 
 ## 各集內容
 
@@ -240,12 +237,9 @@ Jae、[Hui等人參與](../Page/李會澤.md "wikilink")，節目主軸為創作
   - [BREAKERS 官方網站](http://onair.mnet.com/breakers)
   - [BREAKERS的FaceBook](https://www.facebook.com/mnetsmtm/posts/1935317613447199)
   - [BREAKERS的Twitter](https://twitter.com/mnet_smtm)
-  - [BREAKERS Youtube
-    頻道](https://www.youtube.com/channel/UC7hHLL5Ve9pB7nNKFOHCFNQ)
+  - [BREAKERS Youtube 頻道](https://www.youtube.com/channel/UC7hHLL5Ve9pB7nNKFOHCFNQ)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
 1.
 2.

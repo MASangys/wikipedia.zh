@@ -1,5 +1,4 @@
-是由同人組織[上海愛莉絲幻樂團發布的](../Page/上海愛莉絲幻樂團.md "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，為[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")15作。
-[Th15_gameplay.png](https://zh.wikipedia.org/wiki/File:Th15_gameplay.png "fig:Th15_gameplay.png")
+是由同人組織[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")發布的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，為[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")15作。 [Th15_gameplay.png](https://zh.wikipedia.org/wiki/File:Th15_gameplay.png "fig:Th15_gameplay.png")
 
 ## 劇情簡介
 
@@ -7,9 +6,7 @@
 
 在眾人皆在謠傳都市傳說時，由於深秘錄突然出現七個超神祕球體、其中一個在月之都，[魔理沙為此神秘事件前往調查](../Page/霧雨魔理沙.md "wikilink")。此時不知所措的魔理沙遇見了已服用永琳的強化藥的[鈴仙](https://zh.wikipedia.org/wiki/鈴仙·優曇華院·稻葉 "wikilink")，引領靈夢等人前進。
 
-無法阻止金屬蜘蛛淨化的步伐。
-眼睜睜看著草木枯萎。凡蜘蛛走過之處只留下荒瘠。在幻想鄉被完全淨化之時，就成為完整的世界了吧，一顆美麗且毫無生息的行星。
-\[1\]
+無法阻止金屬蜘蛛淨化的步伐。 眼睜睜看著草木枯萎。凡蜘蛛走過之處只留下荒瘠。在幻想鄉被完全淨化之時，就成為完整的世界了吧，一顆美麗且毫無生息的行星。 \[1\]
 
 ## 角色
 
@@ -67,8 +64,7 @@
 
 ## 發布
 
-於2015年4月20日ZUN在官網發布關於第15彈的公告，表示「乍看之下跟以前一樣、此次的系統卻是相當地冒險。或許會與從前的玩法有很大的變化。」（）
-\[2\]
+於2015年4月20日ZUN在官網發布關於第15彈的公告，表示「乍看之下跟以前一樣、此次的系統卻是相當地冒險。或許會與從前的玩法有很大的變化。」（） \[2\]
 
 ## 關卡流程
 
@@ -277,18 +273,13 @@ Evel Trinity</p></td>
 ## 外部連結
 
   - [東方紺珠伝人物介紹](http://155384.co/thread-190673-1-1.html)
-  - [steam上的《東方紺珠伝 ～ Legacy of Lunatic
-    Kingdom.》](https://store.steampowered.com/app/937580)
+  - [steam上的《東方紺珠伝 ～ Legacy of Lunatic Kingdom.》](https://store.steampowered.com/app/937580)
 
 ## 註釋
 
 
 
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink")
-[Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
-[Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
 
 1.  收錄於遊戲目錄Manual的ストーリー中
 2.

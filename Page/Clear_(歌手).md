@@ -1,9 +1,8 @@
-clear（，）是日本的男性歌手。暱稱クリア、dear、會長等等。在[NICONICO動畫上發表自己的翻唱作品](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")，以[VOCALOID的歌曲為主](../Page/VOCALOID.md "wikilink")。第一張專輯『Dearest』在[Oricon公信榜上得到第九名的紀錄](../Page/Oricon公信榜.md "wikilink")\[1\]。特色是和名字「clear」一樣乾淨透徹的聲音。
+clear（，）是日本的男性歌手。暱稱クリア、dear、會長等等。在[NICONICO動畫上發表自己的翻唱作品](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")，以[VOCALOID](../Page/VOCALOID.md "wikilink")的歌曲為主。第一張專輯『Dearest』在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")上得到第九名的紀錄\[1\]。特色是和名字「clear」一樣乾淨透徹的聲音。
 
 ## niconico動畫
 
-  - 2008年12月9日投稿的「アナザー：ワールドイズマイン-Band
-    Edition-」翻唱，在2009年6月13日再生數到達10萬，為第一個達到10萬再生數的個人作品。
+  - 2008年12月9日投稿的「アナザー：ワールドイズマイン-Band Edition-」翻唱，在2009年6月13日再生數到達10萬，為第一個達到10萬再生數的個人作品。
   - 2009年5月18日與蛇足合唱「magnet」進而造成だそくりあ的討論風潮，並在2009年12月9日20時55分左右播放數破百萬。
   - 2012年6月5日投稿的「再一次翻唱『Fire◎Flower』」為個人作品首次突破百萬撥放數。
 
@@ -17,8 +16,7 @@ clear（，）是日本的男性歌手。暱稱クリア、dear、會長等等�
 
   - 2010年1月29日首次投稿clear和nero共同翻唱的「カンタレラ」
   - 2010年12月nero正式組成「cleanero」。
-  - 2015年2月28日宣布將於7月12日「～LIVE TOUR 2015～Still on the
-    way」巡迴演出最後一場之後暫時停止「cleanero」的活動，分別以個人名義繼續活動。
+  - 2015年2月28日宣布將於7月12日「～LIVE TOUR 2015～Still on the way」巡迴演出最後一場之後暫時停止「cleanero」的活動，分別以個人名義繼續活動。
 
 ## 音樂作品
 
@@ -175,9 +173,6 @@ clear（，）是日本的男性歌手。暱稱クリア、dear、會長等等�
   - [cleanero官方網站](http://cleanero.com)
   - [nico百科](http://dic.nicovideo.jp/a/clear\(歌い手\))
 
-[Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink")
-[Category:熊本縣出身人物](https://zh.wikipedia.org/wiki/Category:熊本縣出身人物 "wikilink")
-[Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")
-[Category:同人歌手](https://zh.wikipedia.org/wiki/Category:同人歌手 "wikilink")
+[Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink") [Category:熊本縣出身人物](https://zh.wikipedia.org/wiki/Category:熊本縣出身人物 "wikilink") [Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink") [Category:同人歌手](https://zh.wikipedia.org/wiki/Category:同人歌手 "wikilink")
 
 1.

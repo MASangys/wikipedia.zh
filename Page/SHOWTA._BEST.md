@@ -1,5 +1,4 @@
-『**SHOWTA.
-BEST**』是[蒼井翔太在](../Page/蒼井翔太.md "wikilink")「SHOWTA.」時期的精選輯。2016年7月6日發售。
+『**SHOWTA. BEST**』是[蒼井翔太](../Page/蒼井翔太.md "wikilink")在「SHOWTA.」時期的精選輯。2016年7月6日發售。
 
 ## 概要
 
@@ -42,9 +41,6 @@ BEST**』是[蒼井翔太在](../Page/蒼井翔太.md "wikilink")「SHOWTA.」�
 
   - [蒼井翔太 BROCCOLI OFFICIAL SITE](https://www.broccoli.co.jp/aoi/)
   - [蒼井翔太OFFICIAL SITE](http://www.shouta-aoi.jp/index.html)
-  - [SHOWTA. 「SHOWTA.
-    BEST」特設網站](http://cnt.kingrecords.co.jp/showta-best/)
+  - [SHOWTA. 「SHOWTA. BEST」特設網站](http://cnt.kingrecords.co.jp/showta-best/)
 
-[Category:蒼井翔太的專輯](https://zh.wikipedia.org/wiki/Category:蒼井翔太的專輯 "wikilink")
-[Category:2016年的專輯](https://zh.wikipedia.org/wiki/Category:2016年的專輯 "wikilink")
-[Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
+[Category:蒼井翔太的專輯](https://zh.wikipedia.org/wiki/Category:蒼井翔太的專輯 "wikilink") [Category:2016年的專輯](https://zh.wikipedia.org/wiki/Category:2016年的專輯 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")

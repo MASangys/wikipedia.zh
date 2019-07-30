@@ -1,17 +1,4 @@
-250px\]\]\[ \[<File:S-TRAIN> logo.svg |pxl = 250px |圖像說明 =
-S-TRAIN官方LOGO的样子、使用西武40000系电力动车组走行的S-Train优等列车 |日文原名 = |平假名 =
-|羅馬拼音 = |營運商 =
-[西武铁道](https://zh.wikipedia.org/wiki/西武铁道 "wikilink")（西武铁道）
-|列車種類 =
-[特急列車](https://zh.wikipedia.org/wiki/特别急行列车 "wikilink")、[座席指定制列车](https://zh.wikipedia.org/wiki/座席指定制列车 "wikilink")(工作日·休息日运行)
-|運行路段 =
-[元町·中华街](https://zh.wikipedia.org/wiki/元町·中华街站 "wikilink")－[西武秩父](https://zh.wikipedia.org/wiki/西武秩父站 "wikilink")（休息日）、[丰洲](https://zh.wikipedia.org/wiki/丰洲站 "wikilink")－[所泽](https://zh.wikipedia.org/wiki/所泽站 "wikilink")
-|主要途徑路線 =
-[横滨高速铁道港未来线](https://zh.wikipedia.org/wiki/横滨高速铁道港未来线 "wikilink")、[东急东横线](https://zh.wikipedia.org/wiki/东急东横线 "wikilink")、[东京地铁副都心线](https://zh.wikipedia.org/wiki/东京地铁副都心线 "wikilink")、[东京地铁有乐町线](https://zh.wikipedia.org/wiki/东京地铁有乐町线 "wikilink")、[西武有樂町線](../Page/西武有樂町線.md "wikilink")、[西武池袋线](../Page/池袋線_\(西武鐵道\).md "wikilink")、[西武秩父线](../Page/西武秩父线.md "wikilink")
-|使用車輛 =
-[西武40000系电力动车组](https://zh.wikipedia.org/wiki/西武40000系电力动车组 "wikilink")
-|服務開始日 = 2017年3月25日 |服務停止日 = |備註 = 优等列车 |全寬備註 = }}
-**S-Train**是由[西武铁道运营](https://zh.wikipedia.org/wiki/西武铁道 "wikilink")，在[东京地下铁](https://zh.wikipedia.org/wiki/东京地下铁 "wikilink")、[东京急行电铁和](https://zh.wikipedia.org/wiki/东京急行电铁 "wikilink")[横滨高速铁道线路交路](https://zh.wikipedia.org/wiki/横滨高速铁道 "wikilink")[直通运行的对号入座制特别](https://zh.wikipedia.org/wiki/直通运行 "wikilink")[急行列车服务](https://zh.wikipedia.org/wiki/急行列车 "wikilink")，于2017年3月25日正式上线运营。
+250px\]\]\[ \[<File:S-TRAIN> logo.svg |pxl = 250px |圖像說明 = S-TRAIN官方LOGO的样子、使用西武40000系电力动车组走行的S-Train优等列车 |日文原名 = |平假名 = |羅馬拼音 = |營運商 = [西武铁道](https://zh.wikipedia.org/wiki/西武铁道 "wikilink")（西武铁道） |列車種類 = [特急列車](https://zh.wikipedia.org/wiki/特别急行列车 "wikilink")、[座席指定制列车](https://zh.wikipedia.org/wiki/座席指定制列车 "wikilink")(工作日·休息日运行) |運行路段 = [元町·中华街](https://zh.wikipedia.org/wiki/元町·中华街站 "wikilink")－[西武秩父](https://zh.wikipedia.org/wiki/西武秩父站 "wikilink")（休息日）、[丰洲](https://zh.wikipedia.org/wiki/丰洲站 "wikilink")－[所泽](https://zh.wikipedia.org/wiki/所泽站 "wikilink") |主要途徑路線 = [横滨高速铁道港未来线](https://zh.wikipedia.org/wiki/横滨高速铁道港未来线 "wikilink")、[东急东横线](https://zh.wikipedia.org/wiki/东急东横线 "wikilink")、[东京地铁副都心线](https://zh.wikipedia.org/wiki/东京地铁副都心线 "wikilink")、[东京地铁有乐町线](https://zh.wikipedia.org/wiki/东京地铁有乐町线 "wikilink")、[西武有樂町線](../Page/西武有樂町線.md "wikilink")、[西武池袋线](../Page/池袋線_\(西武鐵道\).md "wikilink")、[西武秩父线](../Page/西武秩父线.md "wikilink") |使用車輛 = [西武40000系电力动车组](https://zh.wikipedia.org/wiki/西武40000系电力动车组 "wikilink") |服務開始日 = 2017年3月25日 |服務停止日 = |備註 = 优等列车 |全寬備註 = }} **S-Train**是由[西武铁道运营](https://zh.wikipedia.org/wiki/西武铁道 "wikilink")，在[东京地下铁](https://zh.wikipedia.org/wiki/东京地下铁 "wikilink")、[东京急行电铁和](https://zh.wikipedia.org/wiki/东京急行电铁 "wikilink")[横滨高速铁道线路交路](https://zh.wikipedia.org/wiki/横滨高速铁道 "wikilink")[直通运行的对号入座制特别](https://zh.wikipedia.org/wiki/直通运行 "wikilink")[急行列车服务](https://zh.wikipedia.org/wiki/急行列车 "wikilink")，于2017年3月25日正式上线运营。
 
 ## 概要
 
@@ -348,17 +335,10 @@ S-TRAIN官方LOGO的样子、使用西武40000系电力动车组走行的S-Train
 
   - [S-TRAIN](https://www.seiburailway.jp/express/s-train/)
 
-[Category:西武鐵道](https://zh.wikipedia.org/wiki/Category:西武鐵道 "wikilink")
-[Category:東京地下鐵](https://zh.wikipedia.org/wiki/Category:東京地下鐵 "wikilink")
-[Category:橫濱高速鐵道](https://zh.wikipedia.org/wiki/Category:橫濱高速鐵道 "wikilink")
+[Category:西武鐵道](https://zh.wikipedia.org/wiki/Category:西武鐵道 "wikilink") [Category:東京地下鐵](https://zh.wikipedia.org/wiki/Category:東京地下鐵 "wikilink") [Category:橫濱高速鐵道](https://zh.wikipedia.org/wiki/Category:橫濱高速鐵道 "wikilink")
 
 1.
 2.
 3.
-4.  所泽站 -
-    [練馬站](https://zh.wikipedia.org/wiki/練馬站 "wikilink")：**西武池袋線**、練馬站
-    - [小竹向原站](https://zh.wikipedia.org/wiki/小竹向原站 "wikilink")：**西武有楽町線**
-5.  西武秩父站 -
-    [吾野站](https://zh.wikipedia.org/wiki/吾野站 "wikilink")：**西武秩父線**、吾野駅
-    - [練馬站](https://zh.wikipedia.org/wiki/練馬站 "wikilink")：**西武池袋線**、練馬站
-    - [小竹向原站](https://zh.wikipedia.org/wiki/小竹向原站 "wikilink")：**西武有楽町線**
+4.  所泽站 - [練馬站](https://zh.wikipedia.org/wiki/練馬站 "wikilink")：**西武池袋線**、練馬站 - [小竹向原站](https://zh.wikipedia.org/wiki/小竹向原站 "wikilink")：**西武有楽町線**
+5.  西武秩父站 - [吾野站](https://zh.wikipedia.org/wiki/吾野站 "wikilink")：**西武秩父線**、吾野駅 - [練馬站](https://zh.wikipedia.org/wiki/練馬站 "wikilink")：**西武池袋線**、練馬站 - [小竹向原站](https://zh.wikipedia.org/wiki/小竹向原站 "wikilink")：**西武有楽町線**

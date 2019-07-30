@@ -1,15 +1,10 @@
-**宇宙
-Meki**（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")、[乐华娱乐和](../Page/乐华娱乐.md "wikilink")[Fantagio聯手推出的](../Page/Fantagio.md "wikilink")4人企劃組合，為代言企劃的第二個組合，代言韓國[百事可樂及](../Page/百事可樂.md "wikilink")等產品。成員由[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")、[乐华娱乐旗下團體](../Page/乐华娱乐.md "wikilink")[宇宙少女的](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")[雪娥](../Page/雪娥.md "wikilink")、[Luda和](../Page/Luda.md "wikilink")[Fantagio旗下團體](../Page/Fantagio.md "wikilink")[Weki
-Meki的](../Page/Weki_Meki.md "wikilink")[有情](../Page/磪有情.md "wikilink")、[度延所組成](../Page/金度延.md "wikilink")，於2018年6月1日出道。
+**宇宙 Meki**（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")、[乐华娱乐](../Page/乐华娱乐.md "wikilink")和[Fantagio](../Page/Fantagio.md "wikilink")聯手推出的4人企劃組合，為代言企劃的第二個組合，代言韓國[百事可樂](../Page/百事可樂.md "wikilink")及等產品。成員由[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")、[乐华娱乐](../Page/乐华娱乐.md "wikilink")旗下團體[宇宙少女的](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")[雪娥](../Page/雪娥.md "wikilink")、[Luda](../Page/Luda.md "wikilink")和[Fantagio](../Page/Fantagio.md "wikilink")旗下團體[Weki Meki的](../Page/Weki_Meki.md "wikilink")[有情](../Page/磪有情.md "wikilink")、[度延所組成](../Page/金度延.md "wikilink")，於2018年6月1日出道。
 
 ## 歷程
 
 ### 2018年：企劃組合「宇宙Meki」、公佈個人預告圖、出道曲《STRONG》
 
-5月1日，[宇宙少女及](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")[Weki
-Meki方同時在各自的官方社群帳號中公開了企劃組合](../Page/Weki_Meki.md "wikilink")「宇宙Meki」（）的預告圖\[1\]\[2\]，該組合由宇宙少女雪娥、Luda及Weki
-Meki成員[有情](../Page/磪有情.md "wikilink")、[度延組成](../Page/金度延.md "wikilink")，宣傳共同代言的廣告產品。\[3\]\[4\]\[5\]5月15日，[宇宙少女在官方社群帳號公開了雪娥](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")、度延的個人預告圖。\[6\]5月16日，公開Luda、有情的個人預告圖。\[7\]。5月17日公開團體預告圖。\[8\]6月1日，韓國時間下午六時發布了宇宙Meki的出道單曲
-《STRONG》。
+5月1日，[宇宙少女及](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")[Weki Meki方同時在各自的官方社群帳號中公開了企劃組合](../Page/Weki_Meki.md "wikilink")「宇宙Meki」（）的預告圖\[1\]\[2\]，該組合由宇宙少女雪娥、Luda及Weki Meki成員[有情](../Page/磪有情.md "wikilink")、[度延組成](../Page/金度延.md "wikilink")，宣傳共同代言的廣告產品。\[3\]\[4\]\[5\]5月15日，[宇宙少女在官方社群帳號公開了雪娥](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")、度延的個人預告圖。\[6\]5月16日，公開Luda、有情的個人預告圖。\[7\]。5月17日公開團體預告圖。\[8\]6月1日，韓國時間下午六時發布了宇宙Meki的出道單曲 《STRONG》。
 
 ## 成員資料
 
@@ -119,17 +114,13 @@ Meki成員[有情](../Page/磪有情.md "wikilink")、[度延組成](../Page/金
   -
   -
   -
-  - [Weki
-    Meki官方網站](https://web.archive.org/web/20180426165401/http://www.fantagio.kr/cn/artists/wekimeki/profile/)
+  - [Weki Meki官方網站](https://web.archive.org/web/20180426165401/http://www.fantagio.kr/cn/artists/wekimeki/profile/)
 
   - [Weki Meki官方Cafe](http://cafe.daum.net/WekiMeki)
 
   - [Weki Meki官方V Live頻道](http://channels.vlive.tv/E3B36F/video)
 
-[Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
-[Category:2018年韓國建立](https://zh.wikipedia.org/wiki/Category:2018年韓國建立 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
+[Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink") [Category:2018年韓國建立](https://zh.wikipedia.org/wiki/Category:2018年韓國建立 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
 
 1.
 2.

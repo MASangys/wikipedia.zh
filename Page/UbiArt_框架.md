@@ -1,15 +1,8 @@
-**UbiArt
-框架**（）是一个由[育碧蒙彼利埃开发的](https://zh.wikipedia.org/wiki/育碧蒙彼利埃 "wikilink")
-2.5D [电子游戏引擎](../Page/游戏引擎.md "wikilink")。他可以将 2D
-动画[矢量图形](../Page/矢量图形.md "wikilink") \[1\] 组织成一个可玩的电子游戏而无需大量的编程。\[2\]
+**UbiArt 框架**（）是一个由[育碧蒙彼利埃开发的](https://zh.wikipedia.org/wiki/育碧蒙彼利埃 "wikilink") 2.5D [电子游戏引擎](../Page/游戏引擎.md "wikilink")。他可以将 2D 动画[矢量图形](../Page/矢量图形.md "wikilink") \[1\] 组织成一个可玩的电子游戏而无需大量的编程。\[2\]
 
 ## 历史
 
-2010 年,
-[育碧发布了](../Page/育碧.md "wikilink")《*雷曼：起源》*，起初只是迈克尔·安赛尔设计并由五人小团队开发的情景游戏，但之后被宣布改变为一个完整游戏。该作由育碧蒙彼利埃和安赛尔使用
-UBIart 框架开发而成。UBIart
-是一个让艺术家和动画师可以轻松地在互动环境中创建内容并使用的开发者平台。\[3\] 该引擎同时针对高清分辨率进行了优化，使其能够在超过
-[1080p](../Page/1080p.md "wikilink") 的分辨率下以每秒 60 帧的帧率流畅运行游戏。
+2010 年, [育碧](../Page/育碧.md "wikilink")发布了《*雷曼：起源》*，起初只是迈克尔·安赛尔设计并由五人小团队开发的情景游戏，但之后被宣布改变为一个完整游戏。该作由育碧蒙彼利埃和安赛尔使用 UBIart 框架开发而成。UBIart 是一个让艺术家和动画师可以轻松地在互动环境中创建内容并使用的开发者平台。\[3\] 该引擎同时针对高清分辨率进行了优化，使其能够在超过 [1080p](../Page/1080p.md "wikilink") 的分辨率下以每秒 60 帧的帧率流畅运行游戏。
 
 安赛尔表示他希望该引擎可以对所有人开放以用于开发游戏\[4\]，但是到目前为止该引擎并没有放出任何公开发行版和授权方式。
 
@@ -91,14 +84,11 @@ UBIart 框架开发而成。UBIart
 
 ## 外部链接
 
-  - [Rayman Legends: UbiArt Engine Explored
-    (video)](https://www.youtube.com/watch?v=XoLpPw864eA)
+  - [Rayman Legends: UbiArt Engine Explored (video)](https://www.youtube.com/watch?v=XoLpPw864eA)
 
-[Category:育碧](https://zh.wikipedia.org/wiki/Category:育碧 "wikilink")
-[Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink")
+[Category:育碧](https://zh.wikipedia.org/wiki/Category:育碧 "wikilink") [Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink")
 
 1.
 2.
-3.  [How do you create an animation in UBIart Framework?,
-    UBIart](http://ubi-art.uk.ubi.com/2010/07/07/how-do-you-create-an-animation-in-ubiart-framework/)
+3.  [How do you create an animation in UBIart Framework?, UBIart](http://ubi-art.uk.ubi.com/2010/07/07/how-do-you-create-an-animation-in-ubiart-framework/)
 4.

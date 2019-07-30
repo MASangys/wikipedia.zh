@@ -16,6 +16,4 @@
   -
 |-   |-
 
-[Category:懷俄明州聯邦眾議員](https://zh.wikipedia.org/wiki/Category:懷俄明州聯邦眾議員 "wikilink")
-[Category:美国共和党联邦众议员](https://zh.wikipedia.org/wiki/Category:美国共和党联邦众议员 "wikilink")
-[Category:密蘇里州人](https://zh.wikipedia.org/wiki/Category:密蘇里州人 "wikilink")
+[Category:懷俄明州聯邦眾議員](https://zh.wikipedia.org/wiki/Category:懷俄明州聯邦眾議員 "wikilink") [Category:美国共和党联邦众议员](https://zh.wikipedia.org/wiki/Category:美国共和党联邦众议员 "wikilink") [Category:密蘇里州人](https://zh.wikipedia.org/wiki/Category:密蘇里州人 "wikilink")

@@ -1,8 +1,4 @@
-是日本[SMEE在](../Page/HOOKSOFT.md "wikilink")2013年6月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\][DMM.com在](../Page/DMM.com.md "wikilink")2015年2月13日發售DL版\[3\]，另外在2016年4月15日發售HD版。\[4\]2014年8月15日（[Comic
-Market](../Page/Comic_Market.md "wikilink") 86）發售《**Friend to Lover Mini
-Fandisc**》（フレラバ ミニファンディスク）。\[5\]2015年3月26日由KAGA
-CREATE（加賀クリエイト）發售[PSV版](../Page/PlayStation_Vita.md "wikilink")《**Friend
-to Lover 〜フレラバ〜**》。\[6\]
+是日本[SMEE在](../Page/HOOKSOFT.md "wikilink")2013年6月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\][DMM.com](../Page/DMM.com.md "wikilink")在2015年2月13日發售DL版\[3\]，另外在2016年4月15日發售HD版。\[4\]2014年8月15日（[Comic Market](../Page/Comic_Market.md "wikilink") 86）發售《**Friend to Lover Mini Fandisc**》（フレラバ ミニファンディスク）。\[5\]2015年3月26日由KAGA CREATE（加賀クリエイト）發售[PSV版](../Page/PlayStation_Vita.md "wikilink")《**Friend to Lover 〜フレラバ〜**》。\[6\]
 
 ## 故事
 
@@ -133,8 +129,7 @@ to Lover 〜フレラバ〜**》。\[6\]
 
 ## 評價
 
-《Friend to
-Lover》在Getchu.com的美少女遊戲大賞2013中獲得綜合部門第14名。\[10\]另外PSV版在電玩周刊[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")2015年4月2、9日合併號的クロスレビュー中獲得32分（滿分40分）並且進入金殿堂。\[11\]
+《Friend to Lover》在Getchu.com的美少女遊戲大賞2013中獲得綜合部門第14名。\[10\]另外PSV版在電玩周刊[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")2015年4月2、9日合併號的クロスレビュー中獲得32分（滿分40分）並且進入金殿堂。\[11\]
 
 ## 參考來源
 
@@ -142,36 +137,19 @@ Lover》在Getchu.com的美少女遊戲大賞2013中獲得綜合部門第14名�
 
   - [SMEE](http://www.hook-net.jp/smee/)
   - [フレラバ ～Friend to Lover～](http://www.hook-net.jp/smee/friendlover/)
-  - [Friend to Lover
-    〜フレラバ〜](https://web.archive.org/web/20151209135315/http://www.kaga-create.co.jp/Ftolover/index.html)加賀クリエイト
+  - [Friend to Lover 〜フレラバ〜](https://web.archive.org/web/20151209135315/http://www.kaga-create.co.jp/Ftolover/index.html)加賀クリエイト
   - [英文版官方網站](https://fureraba.nekonyansoft.com/)NekoNyan
 
-[Category:2013年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2013年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
-[Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
+[Category:2013年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2013年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
 
 1.  [フレラバ 初回版](http://www.getchu.com/soft.phtml?id=761824)Getchu.com
-2.  [Fureraba \~Friend to Lover\~](https://vndb.org/v11856)The Visual
-    Novel Database
+2.  [Fureraba \~Friend to Lover\~](https://vndb.org/v11856)The Visual Novel Database
 3.
-4.  [フレラバ 〜Friend to Lover〜 HD Renewal
-    Edition](http://dlsoft.dmm.co.jp/detail/has_0014/)DMM.com
-5.  [Fureraba Mini Fandisk](https://vndb.org/v15602)The Visual Novel
-    Database
-6.  [Friend to Lover
-    ～フレラバ～](http://www.4gamer.net/games/284/G028476/)[4Gamer.net](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")
-7.  [フレラバ ～Friend to
-    Lover～](http://erogetrailers.com/soft/9939)ErogeTrailers
-8.  [Friend to Lover
-    ～フレラバ～](http://erogetrailers.com/soft/13010)ErogeTrailers
-9.  [フレラバ ～Friend to
-    Lover～](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=18018)ErogameScape
-    -エロゲー批評空間-
-10. [美少女ゲーム大賞2013
-    －総合部門投票・結果発表－](http://www.getchu.com/pc/2013_g_ranking/)Getchu.com
-11. [Friend to Lover
-    〜フレラバ〜](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=31649)ファミ通.com
+4.  [フレラバ 〜Friend to Lover〜 HD Renewal Edition](http://dlsoft.dmm.co.jp/detail/has_0014/)DMM.com
+5.  [Fureraba Mini Fandisk](https://vndb.org/v15602)The Visual Novel Database
+6.  [Friend to Lover ～フレラバ～](http://www.4gamer.net/games/284/G028476/)[4Gamer.net](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")
+7.  [フレラバ ～Friend to Lover～](http://erogetrailers.com/soft/9939)ErogeTrailers
+8.  [Friend to Lover ～フレラバ～](http://erogetrailers.com/soft/13010)ErogeTrailers
+9.  [フレラバ ～Friend to Lover～](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=18018)ErogameScape -エロゲー批評空間-
+10. [美少女ゲーム大賞2013 －総合部門投票・結果発表－](http://www.getchu.com/pc/2013_g_ranking/)Getchu.com
+11. [Friend to Lover 〜フレラバ〜](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=31649)ファミ通.com

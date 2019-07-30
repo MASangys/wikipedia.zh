@@ -1,5 +1,4 @@
-**BLACK6IX**（），是[韓國Black](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-Hole Entertainment旗下首个男子组合，组合成员有六人，团名意味着「拥有无限可能的六名少年」。
+**BLACK6IX**（），是[韓國Black](https://zh.wikipedia.org/wiki/韓國 "wikilink") Hole Entertainment旗下首个男子组合，组合成员有六人，团名意味着「拥有无限可能的六名少年」。
 
 ## 經歷
 
@@ -272,10 +271,7 @@ Hole Entertainment旗下首个男子组合，组合成员有六人，团名意�
 
   -
   -
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
 
 1.
 2.

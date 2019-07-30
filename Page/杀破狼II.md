@@ -1,4 +1,4 @@
-《**杀破狼II**》（）中国大陆和香港联合制作的[动作片](https://zh.wikipedia.org/wiki/动作片 "wikilink")，[郑保瑞导演](../Page/郑保瑞.md "wikilink")，[李忠志动作指导](../Page/李忠志.md "wikilink")，并由[東尼嘉](https://zh.wikipedia.org/wiki/東尼嘉 "wikilink")、[吴京](../Page/吳京_\(演員\).md "wikilink")、[任达华及](https://zh.wikipedia.org/wiki/任达华 "wikilink")[张晋领衔主演](https://zh.wikipedia.org/wiki/张晋 "wikilink")；[卢惠光](https://zh.wikipedia.org/wiki/卢惠光 "wikilink")、[恭碩良](../Page/恭碩良.md "wikilink")、[林嘉华及](https://zh.wikipedia.org/wiki/林嘉华 "wikilink")[蔡瀚亿主演](https://zh.wikipedia.org/wiki/蔡瀚亿 "wikilink")；[古天乐特別演出](https://zh.wikipedia.org/wiki/古天乐 "wikilink")。\[1\]\[2\]中国大陸、香港、台灣于2015年6月18日上映。此片與前作一樣，都获得了[香港电影金像奖最佳动作设计奖](https://zh.wikipedia.org/wiki/香港电影金像奖 "wikilink")。
+《**杀破狼II**》（）中国大陆和香港联合制作的[动作片](https://zh.wikipedia.org/wiki/动作片 "wikilink")，[郑保瑞](../Page/郑保瑞.md "wikilink")导演，[李忠志](../Page/李忠志.md "wikilink")动作指导，并由[東尼嘉](https://zh.wikipedia.org/wiki/東尼嘉 "wikilink")、[吴京](../Page/吳京_\(演員\).md "wikilink")、[任达华及](https://zh.wikipedia.org/wiki/任达华 "wikilink")[张晋领衔主演](https://zh.wikipedia.org/wiki/张晋 "wikilink")；[卢惠光](https://zh.wikipedia.org/wiki/卢惠光 "wikilink")、[恭碩良](../Page/恭碩良.md "wikilink")、[林嘉华及](https://zh.wikipedia.org/wiki/林嘉华 "wikilink")[蔡瀚亿主演](https://zh.wikipedia.org/wiki/蔡瀚亿 "wikilink")；[古天乐特別演出](https://zh.wikipedia.org/wiki/古天乐 "wikilink")。\[1\]\[2\]中国大陸、香港、台灣于2015年6月18日上映。此片與前作一樣，都获得了[香港电影金像奖最佳动作设计奖](https://zh.wikipedia.org/wiki/香港电影金像奖 "wikilink")。
 
 ## 剧情
 
@@ -46,7 +46,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/東尼嘉" title="wikilink">東尼嘉</a></p></td>
 <td><p>阿　猜</p></td>
-<td><p><a href="../Page/泰国.md" title="wikilink">泰国北孔普雷监狱獄警</a><br />
+<td><p><a href="../Page/泰国.md" title="wikilink">泰国</a>北孔普雷监狱獄警<br />
 黃光之好友<br />
 莎之父<br />
 高晉之下屬，後反目</p></td>
@@ -69,7 +69,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/张晋" title="wikilink">張　晉</a></p></td>
 <td><p>高　晉</p></td>
-<td><p><a href="../Page/泰国.md" title="wikilink">泰国北孔普雷监狱獄長</a><br />
+<td><p><a href="../Page/泰国.md" title="wikilink">泰国</a>北孔普雷监狱獄長<br />
 泰國華僑<br />
 多年前被洪文剛所救<br />
 阿猜之上司，後反目<br />
@@ -181,21 +181,19 @@
 
 盧惠光擔任策劃顧問。
 
-该片泰国功夫明星[Tony
-Jaa加盟](https://zh.wikipedia.org/wiki/Tony_Jaa "wikilink")，他曾出演《[拳霸](../Page/拳霸.md "wikilink")》。\[3\]
+该片泰国功夫明星[Tony Jaa加盟](https://zh.wikipedia.org/wiki/Tony_Jaa "wikilink")，他曾出演《[拳霸](../Page/拳霸.md "wikilink")》。\[3\]
 
 ## 上映
 
 《[杀破狼](https://zh.wikipedia.org/wiki/杀破狼 "wikilink")》因暴力元素曾无缘中国大陆电影市场。
 
-《杀破狼II》于2015年6月18日在[中国大陆](../Page/中国大陆.md "wikilink")、[香港](../Page/香港.md "wikilink")、[台灣上映](https://zh.wikipedia.org/wiki/台灣 "wikilink")，6月25日在[马来西亚](../Page/马来西亚.md "wikilink")、[汶莱上映](https://zh.wikipedia.org/wiki/汶莱 "wikilink")，7月2日在[新加坡上映](../Page/新加坡.md "wikilink")。
+《杀破狼II》于2015年6月18日在[中国大陆](../Page/中国大陆.md "wikilink")、[香港](../Page/香港.md "wikilink")、[台灣上映](https://zh.wikipedia.org/wiki/台灣 "wikilink")，6月25日在[马来西亚](../Page/马来西亚.md "wikilink")、[汶莱上映](https://zh.wikipedia.org/wiki/汶莱 "wikilink")，7月2日在[新加坡](../Page/新加坡.md "wikilink")上映。
 
 ## 评价
 
-[新浪观影团的大多观众给出了好评](../Page/新浪.md "wikilink")，认为情节紧张，打斗精彩\[4\]。M1905电影网认为，本片在动作上下足功夫，不同的动作流派在不同的场景展开不同的对决，避免了动作片的重复性和单一性；不过剧情有不少漏洞。\[5\]“昆明影视频道”批评本片的3D效果，认为小女孩夜晚外出遭遇恶[狼这个情节很离谱](../Page/狼.md "wikilink")、表达的意思也含糊不清。\[6\]
+[新浪](../Page/新浪.md "wikilink")观影团的大多观众给出了好评，认为情节紧张，打斗精彩\[4\]。M1905电影网认为，本片在动作上下足功夫，不同的动作流派在不同的场景展开不同的对决，避免了动作片的重复性和单一性；不过剧情有不少漏洞。\[5\]“昆明影视频道”批评本片的3D效果，认为小女孩夜晚外出遭遇恶[狼](../Page/狼.md "wikilink")这个情节很离谱、表达的意思也含糊不清。\[6\]
 
-《殺破狼 2》的英文名字「A Time For
-Consequences」，更能表達出整個故事的感覺，因為整套電影，給觀眾有種好強烈的「因果」關係，而這種「因果」關係放入角色之間的互動，就令故事性更加完整\[7\]。
+《殺破狼 2》的英文名字「A Time For Consequences」，更能表達出整個故事的感覺，因為整套電影，給觀眾有種好強烈的「因果」關係，而這種「因果」關係放入角色之間的互動，就令故事性更加完整\[7\]。
 
 ## 票房
 
@@ -262,22 +260,7 @@ Consequences」，更能表達出整個故事的感覺，因為整套電影，�
   -
   -
   -
-[Category:泰国取景电影](https://zh.wikipedia.org/wiki/Category:泰国取景电影 "wikilink")
-[Category:泰国背景电影](https://zh.wikipedia.org/wiki/Category:泰国背景电影 "wikilink")
-[Category:中国动作片](https://zh.wikipedia.org/wiki/Category:中国动作片 "wikilink")
-[Category:香港动作片](https://zh.wikipedia.org/wiki/Category:香港动作片 "wikilink")
-[Category:2015年电影](https://zh.wikipedia.org/wiki/Category:2015年电影 "wikilink")
-[Category:华语电影](https://zh.wikipedia.org/wiki/Category:华语电影 "wikilink")
-[Category:香港续集电影](https://zh.wikipedia.org/wiki/Category:香港续集电影 "wikilink")
-[Category:郑保瑞电影](https://zh.wikipedia.org/wiki/Category:郑保瑞电影 "wikilink")
-[Category:博纳影业电影](https://zh.wikipedia.org/wiki/Category:博纳影业电影 "wikilink")
-[Category:银都机构电影](https://zh.wikipedia.org/wiki/Category:银都机构电影 "wikilink")
-[Category:泰語電影](https://zh.wikipedia.org/wiki/Category:泰語電影 "wikilink")
-[Category:监狱背景电影](https://zh.wikipedia.org/wiki/Category:监狱背景电影 "wikilink")
-[Category:卧底题材电影](https://zh.wikipedia.org/wiki/Category:卧底题材电影 "wikilink")
-[Category:活擇器官題材電影](https://zh.wikipedia.org/wiki/Category:活擇器官題材電影 "wikilink")
-[Category:香港電影金像獎最佳動作設計獲獎電影](https://zh.wikipedia.org/wiki/Category:香港電影金像獎最佳動作設計獲獎電影 "wikilink")
-[Category:太陽娛樂文化電影](https://zh.wikipedia.org/wiki/Category:太陽娛樂文化電影 "wikilink")
+[Category:泰国取景电影](https://zh.wikipedia.org/wiki/Category:泰国取景电影 "wikilink") [Category:泰国背景电影](https://zh.wikipedia.org/wiki/Category:泰国背景电影 "wikilink") [Category:中国动作片](https://zh.wikipedia.org/wiki/Category:中国动作片 "wikilink") [Category:香港动作片](https://zh.wikipedia.org/wiki/Category:香港动作片 "wikilink") [Category:2015年电影](https://zh.wikipedia.org/wiki/Category:2015年电影 "wikilink") [Category:华语电影](https://zh.wikipedia.org/wiki/Category:华语电影 "wikilink") [Category:香港续集电影](https://zh.wikipedia.org/wiki/Category:香港续集电影 "wikilink") [Category:郑保瑞电影](https://zh.wikipedia.org/wiki/Category:郑保瑞电影 "wikilink") [Category:博纳影业电影](https://zh.wikipedia.org/wiki/Category:博纳影业电影 "wikilink") [Category:银都机构电影](https://zh.wikipedia.org/wiki/Category:银都机构电影 "wikilink") [Category:泰語電影](https://zh.wikipedia.org/wiki/Category:泰語電影 "wikilink") [Category:监狱背景电影](https://zh.wikipedia.org/wiki/Category:监狱背景电影 "wikilink") [Category:卧底题材电影](https://zh.wikipedia.org/wiki/Category:卧底题材电影 "wikilink") [Category:活擇器官題材電影](https://zh.wikipedia.org/wiki/Category:活擇器官題材電影 "wikilink") [Category:香港電影金像獎最佳動作設計獲獎電影](https://zh.wikipedia.org/wiki/Category:香港電影金像獎最佳動作設計獲獎電影 "wikilink") [Category:太陽娛樂文化電影](https://zh.wikipedia.org/wiki/Category:太陽娛樂文化電影 "wikilink")
 
 1.
 2.
@@ -286,7 +269,5 @@ Consequences」，更能表達出整個故事的感覺，因為整套電影，�
 5.
 6.
 7.
-8.  [内地票房：《侏罗纪》三连冠
-    赵薇新片3天1.7亿](http://www.1905.com/news/20150630/906303.shtml#p1)
-9.  [内地票房：周票房终破10亿
-    两部青春片拉动大盘](http://www.1905.com/news/20150714/910824.shtml)
+8.  [内地票房：《侏罗纪》三连冠 赵薇新片3天1.7亿](http://www.1905.com/news/20150630/906303.shtml#p1)
+9.  [内地票房：周票房终破10亿 两部青春片拉动大盘](http://www.1905.com/news/20150714/910824.shtml)

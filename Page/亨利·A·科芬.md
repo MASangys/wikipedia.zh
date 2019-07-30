@@ -11,6 +11,4 @@
 ## 参考文献
 
   -
-[Category:懷俄明州聯邦眾議員](https://zh.wikipedia.org/wiki/Category:懷俄明州聯邦眾議員 "wikilink")
-[Category:美国民主党联邦众议员](https://zh.wikipedia.org/wiki/Category:美国民主党联邦众议员 "wikilink")
-[Category:俄亥俄州人](https://zh.wikipedia.org/wiki/Category:俄亥俄州人 "wikilink")
+[Category:懷俄明州聯邦眾議員](https://zh.wikipedia.org/wiki/Category:懷俄明州聯邦眾議員 "wikilink") [Category:美国民主党联邦众议员](https://zh.wikipedia.org/wiki/Category:美国民主党联邦众议员 "wikilink") [Category:俄亥俄州人](https://zh.wikipedia.org/wiki/Category:俄亥俄州人 "wikilink")

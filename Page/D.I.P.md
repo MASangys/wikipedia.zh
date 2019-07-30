@@ -1,5 +1,4 @@
-**D.I.P**（），是[韓國Inter](https://zh.wikipedia.org/wiki/韓國 "wikilink") BD
-娛樂旗下首个男子组合，現组合成员有六人。
+**D.I.P**（），是[韓國Inter](https://zh.wikipedia.org/wiki/韓國 "wikilink") BD娛樂於2016年推出的六人男子組合，成員包括勝湖、洙民、B.Nish、柳迥、太河及Z.One。
 
 ## 經歷
 
@@ -193,8 +192,7 @@
 
   - D.I.P [官方Facebook](https://www.facebook.com/DIPclass6/)
 
-  - D.I.P
-    [官方Youtube](https://www.youtube.com/channel/UCYAQwJ7zwhk-GH4UDxierFQ)
+  - D.I.P [官方Youtube](https://www.youtube.com/channel/UCYAQwJ7zwhk-GH4UDxierFQ)
 
   - D.I.P [官方Twitter](https://twitter.com/DIP_class)
 
@@ -212,10 +210,7 @@
 
       - [迥成](https://www.instagram.com/monday1120/)
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
 
 1.
 2.

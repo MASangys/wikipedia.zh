@@ -1,5 +1,4 @@
-**諾基亞Asha
-502**是[諾基亞生產的平板式](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，2013年10月22日發布。
+**諾基亞Asha 502**是[諾基亞生產的平板式](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，2013年10月22日發布。
 
 ## 規格
 

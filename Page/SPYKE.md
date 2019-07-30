@@ -4,9 +4,7 @@
 
   - **柴田浩之**（，）
     作詞、[主唱](../Page/歌手.md "wikilink")。出身於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")。A型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")。
-    SPYKE解散之後，加入過其它樂團But Sweet、WILD
-    SPYKE、JEAL等持續音樂活動的演出之外，還擔任過[KONAMI](../Page/科樂美.md "wikilink")[音樂遊戲](../Page/音樂遊戲.md "wikilink")《[drummania](https://zh.wikipedia.org/wiki/狂熱鼓手系列 "wikilink")》、《[GUITARFREAKS](../Page/吉他高手.md "wikilink")》的收錄樂曲\[1\]和樂團[PSYCHIC
-    LOVER歌曲的合音](../Page/PSYCHIC_LOVER.md "wikilink")\[2\]。
+    SPYKE解散之後，加入過其它樂團But Sweet、WILD SPYKE、JEAL等持續音樂活動的演出之外，還擔任過[KONAMI](../Page/科樂美.md "wikilink")[音樂遊戲](../Page/音樂遊戲.md "wikilink")《[drummania](https://zh.wikipedia.org/wiki/狂熱鼓手系列 "wikilink")》、《[GUITARFREAKS](../Page/吉他高手.md "wikilink")》的收錄樂曲\[1\]和樂團[PSYCHIC LOVER歌曲的合音](../Page/PSYCHIC_LOVER.md "wikilink")\[2\]。
   - **森川浩憲**（，）
     作曲、[吉他](../Page/吉他.md "wikilink")。出身於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")。O型血。
     SPYKE解散之後，主要參加樂團Rubbish以持續音樂活動。
@@ -15,9 +13,7 @@
 
 1994年結成。次年7月以單曲《Vision of life》出道。
 
-1997年加入[King Records](../Page/國王唱片.md "wikilink")，成為King
-Records的旗下藝人之後發行2張單曲，該2張單曲同年被採用成為[東京電視台](../Page/東京電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[HARELUYA
-II BØY](../Page/BØY_\(漫畫\).md "wikilink")》的主題歌曲。
+1997年加入[King Records](../Page/國王唱片.md "wikilink")，成為King Records的旗下藝人之後發行2張單曲，該2張單曲同年被採用成為[東京電視台](../Page/東京電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[HARELUYA II BØY](../Page/BØY_\(漫畫\).md "wikilink")》的主題歌曲。
 
 1998年8月30日舉行最後一場現場演唱會，並在此宣布解散。
 
@@ -43,7 +39,7 @@ II BØY](../Page/BØY_\(漫畫\).md "wikilink")》的主題歌曲。
 <td><p>1995年7月21日</p></td>
 <td><p><strong>Vision of life</strong></p></td>
 <td><p>振向</p></td>
-<td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台綜藝節目</a>「」片尾曲</p></td>
+<td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a>綜藝節目「」片尾曲</p></td>
 <td><p>SPYKE（#1）</p></td>
 <td><p>BVDR-1049</p></td>
 </tr>
@@ -52,7 +48,7 @@ II BØY](../Page/BØY_\(漫畫\).md "wikilink")》的主題歌曲。
 <td><p>1995年11月1日</p></td>
 <td><p><strong>見</strong></p></td>
 <td><p>刺激受止</p></td>
-<td><p><a href="../Page/日本電視台.md" title="wikilink">日本電視台體育節目</a>「」片尾曲</p></td>
+<td><p><a href="../Page/日本電視台.md" title="wikilink">日本電視台</a>體育節目「」片尾曲</p></td>
 <td><p>BVDR-1064</p></td>
 <td></td>
 </tr>
@@ -143,11 +139,7 @@ II BØY](../Page/BØY_\(漫畫\).md "wikilink")》的主題歌曲。
   - [SPYKE - 動畫歌曲資料庫](http://anison.info/data/person/377.html)
   - [柴田浩之的官方個人部落格](https://web.archive.org/web/20131227092445/http://blog.jeal.jp/)
 
-
-[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink")
-[Category:King_Records旗下藝人](https://zh.wikipedia.org/wiki/Category:King_Records旗下藝人 "wikilink")
-[Category:1994年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1994年成立的音樂團體 "wikilink")
-[Category:1998年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1998年解散的音樂團體 "wikilink")
+[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink") [Category:King_Records旗下藝人](https://zh.wikipedia.org/wiki/Category:King_Records旗下藝人 "wikilink") [Category:1994年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1994年成立的音樂團體 "wikilink") [Category:1998年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1998年解散的音樂團體 "wikilink")
 
 1.
 2.

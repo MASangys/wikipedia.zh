@@ -1,5 +1,4 @@
-**WOT - 安全网上冲浪**（WOT
-Services）是一款适用于[Chrome与](https://zh.wikipedia.org/wiki/Chrome "wikilink")[Firefox浏览器的隐私保护扩展](../Page/Firefox.md "wikilink")，通过以交通灯的方式告知用户即将访问网站的安全性。2016年时，该扩展曾因涉嫌窃取、贩卖用户隐私数据而被下架。\[1\]
+**WOT - 安全网上冲浪**（WOT Services）是一款适用于[Chrome与](https://zh.wikipedia.org/wiki/Chrome "wikilink")[Firefox](../Page/Firefox.md "wikilink")浏览器的隐私保护扩展，通过以交通灯的方式告知用户即将访问网站的安全性。2016年时，该扩展曾因涉嫌窃取、贩卖用户隐私数据而被下架。\[1\]
 
 ## 声誉等级
 
@@ -15,7 +14,7 @@ Services）是一款适用于[Chrome与](https://zh.wikipedia.org/wiki/Chrome "w
 
 ## 争议
 
-  - 2016年11月，[德国安全研究员发现WOT扩展存在窃取](../Page/德国.md "wikilink")、贩卖用户隐私数据的行为，且随后的调查发现该扩展可以在任意页面执行任意代码。\[2\]\[3\]\[4\]在该事件曝光后，[Mozilla与](../Page/Mozilla.md "wikilink")[Google迅速将WOT从附加组件商店中移除](../Page/Google.md "wikilink")，\[5\]\[6\]但不久后Firefox与Google附加组件商店皆出现了WOT的身影并引起用户不满。
+  - 2016年11月，[德国](../Page/德国.md "wikilink")安全研究员发现WOT扩展存在窃取、贩卖用户隐私数据的行为，且随后的调查发现该扩展可以在任意页面执行任意代码。\[2\]\[3\]\[4\]在该事件曝光后，[Mozilla](../Page/Mozilla.md "wikilink")与[Google](../Page/Google.md "wikilink")迅速将WOT从附加组件商店中移除，\[5\]\[6\]但不久后Firefox与Google附加组件商店皆出现了WOT的身影并引起用户不满。
 
 <!-- end list -->
 
@@ -25,9 +24,7 @@ Services）是一款适用于[Chrome与](https://zh.wikipedia.org/wiki/Chrome "w
 
 <references />
 
-[Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink")
-[Category:Google_Chrome扩展](https://zh.wikipedia.org/wiki/Category:Google_Chrome扩展 "wikilink")
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
+[Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink") [Category:Google_Chrome扩展](https://zh.wikipedia.org/wiki/Category:Google_Chrome扩展 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
 
 1.
 2.

@@ -1,9 +1,6 @@
-\-- This module implements . It converts a year in the Julian --
-calendar to the equivalent year of the ancient Greek era organized by
-Olympiads.
+\-- This module implements . It converts a year in the Julian -- calendar to the equivalent year of the ancient Greek era organized by Olympiads.
 
-local data = mw.loadData( 'Module:Ancient Olympiads/data' ) local lang =
-mw.language.getContentLanguage()
+local data = mw.loadData( 'Module:Ancient Olympiads/data' ) local lang = mw.language.getContentLanguage()
 
 local p = {}
 
@@ -41,8 +38,7 @@ function p._main( inputYear )
 `       if inputYear > t.year then`
 `           -- Years 2-4 of the Olympiad, test with = p._main( -494 )  etc.`
 `           -- It would be nice, if the string could be as follows:`
-`           -- '`[`%s`](https://zh.wikipedia.org/wiki/%s "wikilink")` `[`Olympiad`](https://zh.wikipedia.org/wiki/Olympiad "wikilink")`, `[`year``
- ``%d`](https://zh.wikipedia.org/wiki/%d_BC "wikilink")`',`
+`           -- '`[`%s`](https://zh.wikipedia.org/wiki/%s "wikilink")` `[`Olympiad`](https://zh.wikipedia.org/wiki/Olympiad "wikilink")`, `[`year``   ``%d`](https://zh.wikipedia.org/wiki/%d_BC "wikilink")`',`
 `           -- t.numberOl, inputYear * - 1 + 1, inputYear - t.year`
 `           -- but unfortunately it links to the very same page and won't be displayed as a link but in bold.`
 `           return string.format(`

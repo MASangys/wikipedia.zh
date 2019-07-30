@@ -1,6 +1,6 @@
-**最受喜歡的YouTube影片列表**列出了[YouTube網站上喜歡數最多的](../Page/YouTube.md "wikilink")30支影片，這些數據直接來自於YouTube。\[1\]YouTube在2010年3月開始使用「喜歡和討厭」功能，用來替網站上的影片評分，並取代先前的[五星評分制度](https://zh.wikipedia.org/wiki/五星評分 "wikilink")。\[2\]
+**最受喜歡的YouTube影片列表**列出了[YouTube](../Page/YouTube.md "wikilink")網站上喜歡數最多的30支影片，這些數據直接來自於YouTube。\[1\]YouTube在2010年3月開始使用「喜歡和討厭」功能，用來替網站上的影片評分，並取代先前的[五星評分制度](https://zh.wikipedia.org/wiki/五星評分 "wikilink")。\[2\]
 
-截至2019年4月，韓國男團[防彈少年團是擁有最多最受喜歡的影片的歌手](../Page/防彈少年團.md "wikilink")，總共有4支影片在前30的名單中，而英國歌手[紅髮艾德則以](../Page/紅髮艾德.md "wikilink")3支影片位居第二，[小賈斯汀及](https://zh.wikipedia.org/wiki/小賈斯汀 "wikilink")[魔力紅各有](../Page/魔力紅.md "wikilink")2支影片進入前30。
+截至2019年4月，韓國男團[防彈少年團](../Page/防彈少年團.md "wikilink")是擁有最多最受喜歡的影片的歌手，總共有4支影片在前30的名單中，而英國歌手[紅髮艾德](../Page/紅髮艾德.md "wikilink")則以3支影片位居第二，[小賈斯汀及](https://zh.wikipedia.org/wiki/小賈斯汀 "wikilink")[魔力紅](../Page/魔力紅.md "wikilink")各有2支影片進入前30。
 
 ## 最受喜歡的YouTube影片列表
 
@@ -34,7 +34,7 @@
 </center></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Despacito" title="wikilink">Despacito</a>[3]</p></td>
 <td><p><a href="../Page/慢慢來_(路易斯·方辛歌曲).md" title="wikilink">慢慢來</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/路易斯·方辛" title="wikilink">路易斯·方辛</a><small>（<a href="../Page/洋基老爹.md" title="wikilink">洋基老爹伴唱</a>）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/路易斯·方辛" title="wikilink">路易斯·方辛</a><small>（<a href="../Page/洋基老爹.md" title="wikilink">洋基老爹</a>伴唱）</small></p></td>
 <td><p>32,866,639</p></td>
 <td><p>%}}</p></td>
 <td><p>2017年1月12日</p></td>
@@ -46,7 +46,7 @@
 </center></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/再見你一面" title="wikilink">See You Again</a>[4]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/再見你一面" title="wikilink">再見你一面</a></p></td>
-<td><p><a href="../Page/维兹·卡利法.md" title="wikilink">维兹·卡利法</a><small>（<a href="../Page/查理·普斯.md" title="wikilink">查理·普斯伴唱</a>）</small></p></td>
+<td><p><a href="../Page/维兹·卡利法.md" title="wikilink">维兹·卡利法</a><small>（<a href="../Page/查理·普斯.md" title="wikilink">查理·普斯</a>伴唱）</small></p></td>
 <td><p>23,707,531</p></td>
 <td><p>%}}</p></td>
 <td><p>2015年4月6日</p></td>
@@ -106,7 +106,7 @@
 </center></td>
 <td><p>[9]</p></td>
 <td></td>
-<td><p><a href="../Page/魔力紅.md" title="wikilink">魔力紅</a><small>（<a href="../Page/卡迪·B.md" title="wikilink">卡迪·B伴唱</a>）</small></p></td>
+<td><p><a href="../Page/魔力紅.md" title="wikilink">魔力紅</a><small>（<a href="../Page/卡迪·B.md" title="wikilink">卡迪·B</a>伴唱）</small></p></td>
 <td><p>13,413,011</p></td>
 <td><p>%}}</p></td>
 <td><p>2018年5月30日</p></td>
@@ -178,7 +178,7 @@
 </center></td>
 <td><p>[15]</p></td>
 <td></td>
-<td><p><a href="../Page/DJ蛇王.md" title="wikilink">DJ蛇王</a><small>（<a href="https://zh.wikipedia.org/wiki/席琳娜·戈梅茲" title="wikilink">席琳娜·戈梅茲</a>、、<a href="../Page/卡迪·B.md" title="wikilink">卡迪·B伴唱</a>）</small></p></td>
+<td><p><a href="../Page/DJ蛇王.md" title="wikilink">DJ蛇王</a><small>（<a href="https://zh.wikipedia.org/wiki/席琳娜·戈梅茲" title="wikilink">席琳娜·戈梅茲</a>、、<a href="../Page/卡迪·B.md" title="wikilink">卡迪·B</a>伴唱）</small></p></td>
 <td><p>10,707,555</p></td>
 <td><p>%}}</p></td>
 <td><p>2018年10月9日</p></td>
@@ -190,7 +190,7 @@
 </center></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/依靠_(歌曲)" title="wikilink">Lean On</a>[16]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/依靠_(歌曲)" title="wikilink">依靠</a></p></td>
-<td><p>、<a href="../Page/DJ蛇王.md" title="wikilink">DJ蛇王</a> <small>（<a href="../Page/MØ.md" title="wikilink">MØ伴唱</a>）</small></p></td>
+<td><p>、<a href="../Page/DJ蛇王.md" title="wikilink">DJ蛇王</a> <small>（<a href="../Page/MØ.md" title="wikilink">MØ</a>伴唱）</small></p></td>
 <td><p>10,502,405</p></td>
 <td><p>%}}</p></td>
 <td><p>2015年3月22日</p></td>

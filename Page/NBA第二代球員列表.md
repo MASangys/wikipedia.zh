@@ -19,7 +19,7 @@
 <a href="https://zh.wikipedia.org/wiki/德魯·巴里" title="wikilink">德魯·貝瑞</a></p></td>
 <td><p>{{•}}瑞克和布倫特是聯盟第二組皆擁有<a href="https://zh.wikipedia.org/wiki/NBA總冠軍" title="wikilink">總冠軍的父子組合</a><br />
 {{•}}瑞克、瓊和布倫特都曾效力過<a href="https://zh.wikipedia.org/wiki/休士頓火箭" title="wikilink">休士頓火箭</a>，並於該隊結束職業生涯<br />
-{{•}}瑞克、瓊和德魯都曾為<a href="../Page/金州勇士.md" title="wikilink">金州勇士效力過</a></p></td>
+{{•}}瑞克、瓊和德魯都曾為<a href="../Page/金州勇士.md" title="wikilink">金州勇士</a>效力過</p></td>
 <td><p>[1]</p></td>
 </tr>
 <tr class="even">
@@ -529,8 +529,7 @@
 
   - 具體
 
-[Category:NBA列表](https://zh.wikipedia.org/wiki/Category:NBA列表 "wikilink")
-[Category:體育家族](https://zh.wikipedia.org/wiki/Category:體育家族 "wikilink")
+[Category:NBA列表](https://zh.wikipedia.org/wiki/Category:NBA列表 "wikilink") [Category:體育家族](https://zh.wikipedia.org/wiki/Category:體育家族 "wikilink")
 
 1.
 

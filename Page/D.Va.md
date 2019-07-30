@@ -1,11 +1,10 @@
-**D.Va**是一名虚构的角色，出现于[暴雪娱乐开发的](../Page/暴雪娛樂.md "wikilink")[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")《[守望先锋](https://zh.wikipedia.org/wiki/守望先锋 "wikilink")》及其相关媒介。D.Va出身[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[釜山](https://zh.wikipedia.org/wiki/釜山 "wikilink")，本名为**宋哈娜**（
-/ ） 。
+**D.Va**是一名虚构的角色，出现于[暴雪娱乐开发的](../Page/暴雪娛樂.md "wikilink")[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")《[守望先锋](https://zh.wikipedia.org/wiki/守望先锋 "wikilink")》及其相关媒介。D.Va出身[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[釜山](https://zh.wikipedia.org/wiki/釜山 "wikilink")，本名为**宋哈娜**（ / ） 。
 
 ## 开发与设计
 
 D.Va最早与源氏和[小美一起于](https://zh.wikipedia.org/wiki/周美靈 "wikilink")2015年10月公布，她是《守望先锋》正式发行前最后引入的英雄之一\[1\]\[2\]。D.Va被设计成一个[坦克型人物](../Page/坦克_\(电子游戏\).md "wikilink")，使用粉红色[外骨骼](../Page/動力服.md "wikilink")[机甲服战斗](https://zh.wikipedia.org/wiki/机甲 "wikilink")\[3\]。作为移动的坦克型人物，D.Va也被设计为“前锋”角色\[4\]。
 
-游戏发行后不久，D.Va被指出具有低伤害输出；游戏首席设计师杰夫·古德曼（）证实“D.Va的伤害绝对位于下游，这很像[温斯顿](../Page/温斯顿.md "wikilink")。这种设计都出于同样的原因：他们的机动性强并且难于击杀”\[5\]。D.Va还被指出在游戏中面对多个对手时，由于缺乏护盾，她容易受到比其他坦克型角色更多的伤害\[6\]。古德曼把它与低伤害输出一起归结与《守望先锋》开发人员对角色的平衡性调整，指出“游戏中的每一个角色都有自己的优点和弱点，这样才能使团队配合更好。”\[7\]古德曼透露，在她的开发初期，D.Va能应对更多的伤害，但这种伤害输出降低了，因为“这样的结果会是她飞到别人面前，消灭他们，然后又飞走。因为她的强机动性，几乎没有人可以应对。”\[8\]尽管同意有反馈称D.Va的动力不足，但古德曼表示对角色的改进“不太可能是显著增加她的伤害输出”，他补充道“我们的目标是她应该是一个攻击性突击坦克，就像温斯顿那样。”\[9\]对[增益D](https://zh.wikipedia.org/wiki/状态效果 "wikilink").Va的讨论也与对削弱角色麦克雷的讨论相撞，这一角色曾被指出能很快消灭坦克角色；游戏总监[杰夫瑞·卡普兰解释道D](../Page/杰夫瑞·卡普兰.md "wikilink").Va的增益需要更长的时间来制定和实施\[10\]。卡普兰说开发团队将探索改进她的伤害输出和生存能力，虽然可能只会“选择一个方向来进行”\[11\]。
+游戏发行后不久，D.Va被指出具有低伤害输出；游戏首席设计师杰夫·古德曼（）证实“D.Va的伤害绝对位于下游，这很像[温斯顿](../Page/温斯顿.md "wikilink")。这种设计都出于同样的原因：他们的机动性强并且难于击杀”\[5\]。D.Va还被指出在游戏中面对多个对手时，由于缺乏护盾，她容易受到比其他坦克型角色更多的伤害\[6\]。古德曼把它与低伤害输出一起归结与《守望先锋》开发人员对角色的平衡性调整，指出“游戏中的每一个角色都有自己的优点和弱点，这样才能使团队配合更好。”\[7\]古德曼透露，在她的开发初期，D.Va能应对更多的伤害，但这种伤害输出降低了，因为“这样的结果会是她飞到别人面前，消灭他们，然后又飞走。因为她的强机动性，几乎没有人可以应对。”\[8\]尽管同意有反馈称D.Va的动力不足，但古德曼表示对角色的改进“不太可能是显著增加她的伤害输出”，他补充道“我们的目标是她应该是一个攻击性突击坦克，就像温斯顿那样。”\[9\]对[增益D](https://zh.wikipedia.org/wiki/状态效果 "wikilink").Va的讨论也与对削弱角色麦克雷的讨论相撞，这一角色曾被指出能很快消灭坦克角色；游戏总监[杰夫瑞·卡普兰](../Page/杰夫瑞·卡普兰.md "wikilink")解释道D.Va的增益需要更长的时间来制定和实施\[10\]。卡普兰说开发团队将探索改进她的伤害输出和生存能力，虽然可能只会“选择一个方向来进行”\[11\]。
 
 ## 玩法
 
@@ -21,25 +20,19 @@ D.Va在《守望先锋》中是一名[坦克型角色](../Page/坦克_\(电子�
 
 ### 《风暴英雄》
 
-在2017年5月发布的《[风暴英雄
-2.0](../Page/风暴英雄.md "wikilink")》中，D.Va作为一名新增角色被加入到游戏中。她是《风暴英雄》里第五名来自《守望先锋》的角色。\[30\]
+在2017年5月发布的《[风暴英雄 2.0](../Page/风暴英雄.md "wikilink")》中，D.Va作为一名新增角色被加入到游戏中。她是《风暴英雄》里第五名来自《守望先锋》的角色。\[30\]
 
 ## 评价
 
-D.Va受到了游戏社区的积极评价。[Kotaku报道称游戏的粉丝群是让角色爆红的原因](../Page/Kotaku.md "wikilink")，粉丝给她起绰号为“小精灵D.Va”（），并为她创作[Q版](https://zh.wikipedia.org/wiki/超級變形 "wikilink")[绘图](../Page/粉絲繪圖.md "wikilink")。在玩家的固定形象中，她被描绘为“天真无邪”的D.Va\[31\]。
+D.Va受到了游戏社区的积极评价。[Kotaku](../Page/Kotaku.md "wikilink")报道称游戏的粉丝群是让角色爆红的原因，粉丝给她起绰号为“小精灵D.Va”（），并为她创作[Q版](https://zh.wikipedia.org/wiki/超級變形 "wikilink")[绘图](../Page/粉絲繪圖.md "wikilink")。在玩家的固定形象中，她被描绘为“天真无邪”的D.Va\[31\]。
 
-在专业评价领域，《[Tech
-Insider](../Page/商业内幕.md "wikilink")》的史蒂夫科瓦奇（）称D.Va是他最喜欢的角色\[32\]。
+在专业评价领域，《[Tech Insider](../Page/商业内幕.md "wikilink")》的史蒂夫科瓦奇（）称D.Va是他最喜欢的角色\[32\]。
 
-在韩国，D.Va被视为D.Va国家协会的代表，后者由一群支持女性与[LGBTQ权利的守望先锋玩家组成](https://zh.wikipedia.org/wiki/LGBTQ "wikilink")，以抗议总统[朴槿惠](../Page/朴槿惠.md "wikilink")。他们使用D.Va的图像和她的粉红色兔子标志作为抗议材料的一部分，其中一些出现在了对[2017年女性大游行的国际报道中](../Page/2017年女性大游行.md "wikilink")\[33\]。
+在韩国，D.Va被视为D.Va国家协会的代表，后者由一群支持女性与[LGBTQ权利的守望先锋玩家组成](https://zh.wikipedia.org/wiki/LGBTQ "wikilink")，以抗议总统[朴槿惠](../Page/朴槿惠.md "wikilink")。他们使用D.Va的图像和她的粉红色兔子标志作为抗议材料的一部分，其中一些出现在了对[2017年女性大游行](../Page/2017年女性大游行.md "wikilink")的国际报道中\[33\]。
 
 ## 参考资料
 
-[Category:虛構女性電子遊戲角色](https://zh.wikipedia.org/wiki/Category:虛構女性電子遊戲角色 "wikilink")
-[Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink")
-[Category:軍人電子遊戲角色](https://zh.wikipedia.org/wiki/Category:軍人電子遊戲角色 "wikilink")
-[Category:守望先锋角色](https://zh.wikipedia.org/wiki/Category:守望先锋角色 "wikilink")
-[Category:2016年推出的電子遊戲角色](https://zh.wikipedia.org/wiki/Category:2016年推出的電子遊戲角色 "wikilink")
+[Category:虛構女性電子遊戲角色](https://zh.wikipedia.org/wiki/Category:虛構女性電子遊戲角色 "wikilink") [Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink") [Category:軍人電子遊戲角色](https://zh.wikipedia.org/wiki/Category:軍人電子遊戲角色 "wikilink") [Category:守望先锋角色](https://zh.wikipedia.org/wiki/Category:守望先锋角色 "wikilink") [Category:2016年推出的電子遊戲角色](https://zh.wikipedia.org/wiki/Category:2016年推出的電子遊戲角色 "wikilink")
 
 1.
 
@@ -83,8 +76,7 @@ Insider](../Page/商业内幕.md "wikilink")》的史蒂夫科瓦奇（）称D.V
 28.
 29.
 
-30. [韩国美少女电竞选手现已正式加入《风暴英雄》测试服](http://www.g-cores.com/articles/24659)
-    .机核网.2017-05-09.\[2017-05-22\].
+30. [韩国美少女电竞选手现已正式加入《风暴英雄》测试服](http://www.g-cores.com/articles/24659) .机核网.2017-05-09.\[2017-05-22\].
 
 31.
 

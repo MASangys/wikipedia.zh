@@ -16,8 +16,7 @@
 
   - ，英國的馬球管理機構。
 
-  - Hertfordshire Pedal Aeronauts, builders of the  human-powered
-    aircraft
+  - Hertfordshire Pedal Aeronauts, builders of the  human-powered aircraft
 
 ## 人名
 
@@ -27,19 +26,16 @@
 
   - [百帕斯卡](https://zh.wikipedia.org/wiki/百帕斯卡 "wikilink")（hPa，Hectopascal），壓力單位。
 
-  - [杂多酸](../Page/杂多酸.md "wikilink")（Heteropoly
-    acid），是一種有特定[金屬及](https://zh.wikipedia.org/wiki/金屬 "wikilink")[非金屬組成的](https://zh.wikipedia.org/wiki/非金屬 "wikilink")[含氧酸](../Page/含氧酸.md "wikilink")。
+  - [杂多酸](../Page/杂多酸.md "wikilink")（Heteropoly acid），是一種有特定[金屬及](https://zh.wikipedia.org/wiki/金屬 "wikilink")[非金屬組成的](https://zh.wikipedia.org/wiki/非金屬 "wikilink")[含氧酸](../Page/含氧酸.md "wikilink")。
 
   - [人类外貌](../Page/人类外貌.md "wikilink")（Human physical appearance），人類學術語
 
-  - [人類血小板抗原](https://zh.wikipedia.org/wiki/人類血小板抗原 "wikilink")（Human
-    platelet antigens），人類血小板上的特有抗原。
+  - [人類血小板抗原](https://zh.wikipedia.org/wiki/人類血小板抗原 "wikilink")（Human platelet antigens），人類血小板上的特有抗原。
 
   - , a biological database
 
   -
-  - [下丘脑-垂体-肾上腺轴](../Page/下丘脑-垂体-肾上腺轴.md "wikilink")（Hypothalamic-pituitary-adrenal
-    axis）生理學術語。
+  - [下丘脑-垂体-肾上腺轴](../Page/下丘脑-垂体-肾上腺轴.md "wikilink")（Hypothalamic-pituitary-adrenal axis）生理學術語。
 
 ## 科技
 
@@ -59,4 +55,4 @@
 
 ## 其他
 
-  - ，[IATA](https://zh.wikipedia.org/wiki/IATA "wikilink")[代碼為HPA](https://zh.wikipedia.org/wiki/IATA機場代碼 "wikilink")，[東加的機場](../Page/東加.md "wikilink")
+  - ，[IATA](https://zh.wikipedia.org/wiki/IATA "wikilink")[代碼為HPA](https://zh.wikipedia.org/wiki/IATA機場代碼 "wikilink")，[東加](../Page/東加.md "wikilink")的機場

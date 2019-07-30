@@ -1,6 +1,4 @@
-**Nemasomatidae** <small>Bollman,
-1893</small>是[馬陸的一個科](https://zh.wikipedia.org/wiki/馬陸 "wikilink")，是[姬馬陸目之下的一個分類元](https://zh.wikipedia.org/wiki/姬馬陸目 "wikilink")\[1\]。它是[Nemasomatoidea總科](https://zh.wikipedia.org/wiki/Nemasomatoidea "wikilink")
-<small>Bollman, 1893</small>的成員。
+**Nemasomatidae** <small>Bollman, 1893</small>是[馬陸的一個科](https://zh.wikipedia.org/wiki/馬陸 "wikilink")，是[姬馬陸目之下的一個分類元](https://zh.wikipedia.org/wiki/姬馬陸目 "wikilink")\[1\]。它是[Nemasomatoidea總科](https://zh.wikipedia.org/wiki/Nemasomatoidea "wikilink") <small>Bollman, 1893</small>的成員。
 
 ## 分類
 
@@ -24,8 +22,7 @@
   -
   -
   -
-[Category:姬马陆目](https://zh.wikipedia.org/wiki/Category:姬马陆目 "wikilink")
-[Category:害蟲](https://zh.wikipedia.org/wiki/Category:害蟲 "wikilink")
+[Category:姬马陆目](https://zh.wikipedia.org/wiki/Category:姬马陆目 "wikilink") [Category:害蟲](https://zh.wikipedia.org/wiki/Category:害蟲 "wikilink")
 
 1.
 

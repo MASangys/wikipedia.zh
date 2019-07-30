@@ -1,7 +1,4 @@
-魅族
-魅蓝note3是魅族科技在2016年4月16日发行的魅蓝系列手机。该手机有银白、灰黑、金三种颜色外观，可更换多种颜色手机外壳。产品搭载基于[Android
-5.1深度定制的](https://zh.wikipedia.org/wiki/Android_5.1 "wikilink")[Flyme
-OS](https://zh.wikipedia.org/wiki/Flyme_OS "wikilink")5.1系统。
+魅族 魅蓝note3是魅族科技在2016年4月16日发行的魅蓝系列手机。该手机有银白、灰黑、金三种颜色外观，可更换多种颜色手机外壳。产品搭载基于[Android 5.1深度定制的](https://zh.wikipedia.org/wiki/Android_5.1 "wikilink")[Flyme OS](https://zh.wikipedia.org/wiki/Flyme_OS "wikilink")5.1系统。
 
 ## 手机制式
 
@@ -53,10 +50,8 @@ OS](https://zh.wikipedia.org/wiki/Flyme_OS "wikilink")5.1系统。
 
   - [笔戈科技-魅蓝note3评测](http://bbs.meizu.cn/viewthread.php?tid=5926317&highlight=%E9%AD%85%E8%93%9Dnote3%20%E8%AF%84%E6%B5%8B)
   - [魅蓝note3体验评测-持久力带来的满足感](http://bbs.meizu.cn/viewthread.php?tid=6130525&highlight=%E9%AD%85%E8%93%9Dnote3%20%E8%AF%84%E6%B5%8B)
-  - [魅藍 Note 3
-    評測：不再只是「青年良品」](http://chinese.engadget.com/2016/05/23/meizu-meilan-note-3-review/)
-  - [究竟哪個好
-    紅米Note 3對比魅藍Note 3](http://sina.com.hk/news/article/20160428/0/5/2/%E7%A9%B6%E7%AB%9F%E5%93%AA%E5%80%8B%E5%A5%BD-%E7%B4%85%E7%B1%B3Note-3%E5%B0%8D%E6%AF%94%E9%AD%85%E8%97%8DNote-3-5744394.html)
+  - [魅藍 Note 3 評測：不再只是「青年良品」](http://chinese.engadget.com/2016/05/23/meizu-meilan-note-3-review/)
+  - [究竟哪個好 紅米Note 3對比魅藍Note 3](http://sina.com.hk/news/article/20160428/0/5/2/%E7%A9%B6%E7%AB%9F%E5%93%AA%E5%80%8B%E5%A5%BD-%E7%B4%85%E7%B1%B3Note-3%E5%B0%8D%E6%AF%94%E9%AD%85%E8%97%8DNote-3-5744394.html)
 
 ## 外部链接
 
@@ -64,9 +59,4 @@ OS](https://zh.wikipedia.org/wiki/Flyme_OS "wikilink")5.1系统。
   - [m3 note-参数](http://www.meizu.com/in/products/m3note/spec.html)
   - [港版m3 note-参数](http://www.meizu.com/hk/products/m3note/spec.html)
 
-[Category:多點觸控](https://zh.wikipedia.org/wiki/Category:多點觸控 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:2016年面世的手機](https://zh.wikipedia.org/wiki/Category:2016年面世的手機 "wikilink")
-[Category:魅族科技手機](https://zh.wikipedia.org/wiki/Category:魅族科技手機 "wikilink")
+[Category:多點觸控](https://zh.wikipedia.org/wiki/Category:多點觸控 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2016年面世的手機](https://zh.wikipedia.org/wiki/Category:2016年面世的手機 "wikilink") [Category:魅族科技手機](https://zh.wikipedia.org/wiki/Category:魅族科技手機 "wikilink")

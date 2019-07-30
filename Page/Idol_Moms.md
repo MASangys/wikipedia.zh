@@ -1,5 +1,4 @@
-《*' Idol
-Moms*'》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Lifetime的綜藝節目](https://zh.wikipedia.org/wiki/Lifetime "wikilink")\[1\]，由[KANGTA主持並擔任學員的導師](https://zh.wikipedia.org/wiki/KANGTA "wikilink")，[張真英和金泰宇則分別為學生Vocal和舞蹈老師](../Page/張真英.md "wikilink")\[2\]，節目以想培養兒女為明星的媽媽之故事為主軸，同時也會公開[SM的偶像培養系統](../Page/SM娛樂.md "wikilink")\[3\]。
+《*' Idol Moms*'》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Lifetime的綜藝節目](https://zh.wikipedia.org/wiki/Lifetime "wikilink")\[1\]，由[KANGTA主持並擔任學員的導師](https://zh.wikipedia.org/wiki/KANGTA "wikilink")，[張真英](../Page/張真英.md "wikilink")和金泰宇則分別為學生Vocal和舞蹈老師\[2\]，節目以想培養兒女為明星的媽媽之故事為主軸，同時也會公開[SM的偶像培養系統](../Page/SM娛樂.md "wikilink")\[3\]。
 
 ## 固定出演者
 
@@ -15,7 +14,7 @@ Moms*'》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[L
 
 | 姓名                                                        | 經歷                                                            |
 | --------------------------------------------------------- | ------------------------------------------------------------- |
-| [KANGTA](https://zh.wikipedia.org/wiki/KANGTA "wikilink") | 歌手（[H.O.T.成員](../Page/H.O.T..md "wikilink")），SM娛樂理事，將擔任MC及導師。 |
+| [KANGTA](https://zh.wikipedia.org/wiki/KANGTA "wikilink") | 歌手（[H.O.T.](../Page/H.O.T..md "wikilink")成員），SM娛樂理事，將擔任MC及導師。 |
 | [張振英](https://zh.wikipedia.org/wiki/張振英 "wikilink")       | SM的VOCAL老師。                                                   |
 | [KASPER](https://zh.wikipedia.org/wiki/KASPER "wikilink") | SM的编舞老師。                                                      |
 
@@ -45,9 +44,7 @@ Moms*'》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[L
 
   - [官方網站](http://lifetimekorea.kr/program/38)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Lifetime](https://zh.wikipedia.org/wiki/Category:Lifetime "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Lifetime](https://zh.wikipedia.org/wiki/Category:Lifetime "wikilink")
 
 1.
 2.
@@ -56,5 +53,4 @@ Moms*'》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[L
 5.
 6.
 7.
-8.  [시카고 타자기
-    Naver](https://search.naver.com/search.naver?where=nexearch&query=시카고+타자기)
+8.  [시카고 타자기 Naver](https://search.naver.com/search.naver?where=nexearch&query=시카고+타자기)

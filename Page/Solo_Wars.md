@@ -1,5 +1,4 @@
-《**Solo
-Wars**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC的綜藝節目](../Page/JTBC.md "wikilink")，由[金九拉主持](https://zh.wikipedia.org/wiki/金九拉 "wikilink")，節目以邀請100位一般人士為參與者，而所有參與者處於同一空間中，並須於一天內找到另一半，屬於具有心理、大腦遊戲因素成份的大規模相親節目\[1\]。
+《**Solo Wars**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")的綜藝節目，由[金九拉主持](https://zh.wikipedia.org/wiki/金九拉 "wikilink")，節目以邀請100位一般人士為參與者，而所有參與者處於同一空間中，並須於一天內找到另一半，屬於具有心理、大腦遊戲因素成份的大規模相親節目\[1\]。
 
 ## 收視率
 
@@ -15,13 +14,10 @@ Wars**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC
 
 ## 參考資料
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
 
 1.
 2.
 3.
 4.
-5.  [시카고 타자기
-    Naver](https://search.naver.com/search.naver?where=nexearch&query=시카고+타자기)
+5.  [시카고 타자기 Naver](https://search.naver.com/search.naver?where=nexearch&query=시카고+타자기)

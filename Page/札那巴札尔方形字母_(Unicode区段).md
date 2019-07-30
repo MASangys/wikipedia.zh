@@ -1,4 +1,4 @@
-**札那巴札尔方形字母**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了[哲布尊丹巴·罗桑丹贝坚赞](https://zh.wikipedia.org/wiki/哲布尊丹巴·罗桑丹贝坚赞 "wikilink")（札那巴札尔）发明的，用于拼写[蒙古语的横排方形字母](../Page/蒙古语.md "wikilink")。
+**札那巴札尔方形字母**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了[哲布尊丹巴·罗桑丹贝坚赞](https://zh.wikipedia.org/wiki/哲布尊丹巴·罗桑丹贝坚赞 "wikilink")（札那巴札尔）发明的，用于拼写[蒙古语](../Page/蒙古语.md "wikilink")的横排方形字母。
 
 ## 历史
 
@@ -215,7 +215,6 @@
 
 ## 外部链接
 
-  - [BabelStone
-    的札那巴札尔方形字母字体](http://www.babelstone.co.uk/Fonts/Zanabazar.html)
+  - [BabelStone 的札那巴札尔方形字母字体](http://www.babelstone.co.uk/Fonts/Zanabazar.html)
 
 [Category:Unicode区段](https://zh.wikipedia.org/wiki/Category:Unicode区段 "wikilink")

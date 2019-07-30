@@ -1,23 +1,14 @@
-《**TWICEcoaster: LANE
-2**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE於](https://zh.wikipedia.org/wiki/TWICE "wikilink")2016年10月推出的第三張韓語迷你專輯《[TWICEcoaster:
-LANE
-1](../Page/TWICEcoaster:_LANE_1.md "wikilink")》的改版特別專輯，同時也是TWICE的第一張特別專輯。由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，KT音樂發行，於2017年2月20日推出。主打歌曲為〈KNOCK
-KNOCK〉。
+《**TWICEcoaster: LANE 2**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE於](https://zh.wikipedia.org/wiki/TWICE "wikilink")2016年10月推出的第三張韓語迷你專輯《[TWICEcoaster: LANE 1](../Page/TWICEcoaster:_LANE_1.md "wikilink")》的改版特別專輯，同時也是TWICE的第一張特別專輯。由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，KT音樂發行，於2017年2月20日推出。主打歌曲為〈KNOCK KNOCK〉。
 
 ## 背景
 
-2017年2月2日，[JYP娛樂通過官方SNS宣佈TWICE將於](../Page/JYP娛樂.md "wikilink")2月20日回歸\[1\]。2月12日公開專輯曲目表\[2\]，並陸續公開專輯配置、預購資訊、概念照、MV預告等。
+2017年2月2日，[JYP娛樂](../Page/JYP娛樂.md "wikilink")通過官方SNS宣佈TWICE將於2月20日回歸\[1\]。2月12日公開專輯曲目表\[2\]，並陸續公開專輯配置、預購資訊、概念照、MV預告等。
 
 ## 概要
 
-此次專輯《TWICEcoaster: LANE 2》是以特別專輯形式推出，同時也是去年推出的迷你三輯《[TWICEcoaster: LANE
-1](../Page/TWICEcoaster:_LANE_1.md "wikilink")》的改版專輯。除了收錄上輯的7首歌曲之外，還加入2首新曲，實體專輯版本更特別追加過往3首主打的純音樂版本及迷你三輯主打〈TT〉的Remix版本。不僅專輯內容有著關聯，主打曲〈KNOCK
-KNOCK〉的音樂錄影帶也跟上輯主打〈TT〉有所銜接。
+此次專輯《TWICEcoaster: LANE 2》是以特別專輯形式推出，同時也是去年推出的迷你三輯《[TWICEcoaster: LANE 1](../Page/TWICEcoaster:_LANE_1.md "wikilink")》的改版專輯。除了收錄上輯的7首歌曲之外，還加入2首新曲，實體專輯版本更特別追加過往3首主打的純音樂版本及迷你三輯主打〈TT〉的Remix版本。不僅專輯內容有著關聯，主打曲〈KNOCK KNOCK〉的音樂錄影帶也跟上輯主打〈TT〉有所銜接。
 
-此次專輯主打曲〈KNOCK
-KNOCK〉是由JYP娛樂內作曲家及日本唱作人共同創作，有別於過往三首主打曲，這是首次使用非[黑眼必勝的作品作為主打](../Page/黑眼必勝.md "wikilink")。歌曲結合了流行樂、搖滾、迪斯科三種音樂風格，以動感活力的House
-Beat編曲形式呈現出具TWICE特色的活潑、可愛風貌。歌曲以中毒性的節奏配合反覆出現的「KNOCK
-KNOCK」歌詞，描述女孩希望有人能敲開她心房的故事\[3\]。
+此次專輯主打曲〈KNOCK KNOCK〉是由JYP娛樂內作曲家及日本唱作人共同創作，有別於過往三首主打曲，這是首次使用非[黑眼必勝](../Page/黑眼必勝.md "wikilink")的作品作為主打。歌曲結合了流行樂、搖滾、迪斯科三種音樂風格，以動感活力的House Beat編曲形式呈現出具TWICE特色的活潑、可愛風貌。歌曲以中毒性的節奏配合反覆出現的「KNOCK KNOCK」歌詞，描述女孩希望有人能敲開她心房的故事\[3\]。
 
 ### 音樂錄影帶
 
@@ -478,27 +469,16 @@ KNOCK」歌詞，描述女孩希望有人能敲開她心房的故事\[3\]。
 
 ## 參考資料
 
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:TWICE音樂專輯](https://zh.wikipedia.org/wiki/Category:TWICE音樂專輯 "wikilink")
-[Category:2017年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2017年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2017年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon數位下載週榜冠軍作品 "wikilink")
-[Category:2017年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon流媒體週榜冠軍作品 "wikilink")
-[Category:2017年Gaon流媒體月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon流媒體月榜冠軍作品 "wikilink")
+[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:TWICE音樂專輯](https://zh.wikipedia.org/wiki/Category:TWICE音樂專輯 "wikilink") [Category:2017年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon專輯週榜冠軍作品 "wikilink") [Category:2017年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon單曲週榜冠軍作品 "wikilink") [Category:2017年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2017年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon流媒體週榜冠軍作品 "wikilink") [Category:2017年Gaon流媒體月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon流媒體月榜冠軍作品 "wikilink")
 
 1.
 2.
 3.
-4.  [2017年3月 Gaon Digital
-    Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=03&hitYear=2017&termGbn=month)
-5.  [2017年3月 Gaon Download
-    Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=S1020&targetTime=03&hitYear=2017&termGbn=month)
-6.  [2017年3月 Gaon Streaming
-    Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=S1040&targetTime=03&hitYear=2017&termGbn=month)
-7.  [2017年2月 Gaon Album
-    Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=02&hitYear=2017&termGbn=month)
-8.
-    Billboard|accessdate=2017-03-17|work=www.billboard.com|language=en}}
+4.  [2017年3月 Gaon Digital Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=03&hitYear=2017&termGbn=month)
+5.  [2017年3月 Gaon Download Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=S1020&targetTime=03&hitYear=2017&termGbn=month)
+6.  [2017年3月 Gaon Streaming Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=S1040&targetTime=03&hitYear=2017&termGbn=month)
+7.  [2017年2月 Gaon Album Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=02&hitYear=2017&termGbn=month)
+8.   Billboard|accessdate=2017-03-17|work=www.billboard.com|language=en}}
 9.
 10.
 11.

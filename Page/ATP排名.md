@@ -191,8 +191,7 @@ ATP排名於1973年推出\[3\]，是用來確定各項網球賽事中單打與�
 
 ## 外部連結
 
-[Category:ATP巡迴賽](https://zh.wikipedia.org/wiki/Category:ATP巡迴賽 "wikilink")
-[Category:運動世界排名](https://zh.wikipedia.org/wiki/Category:運動世界排名 "wikilink")
+[Category:ATP巡迴賽](https://zh.wikipedia.org/wiki/Category:ATP巡迴賽 "wikilink") [Category:運動世界排名](https://zh.wikipedia.org/wiki/Category:運動世界排名 "wikilink")
 
 1.
 

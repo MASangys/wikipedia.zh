@@ -1,36 +1,20 @@
-**Plan A娛樂**（），前稱**A
-Cube娛樂**（），是於2011年在[韓國創辦的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，主要經營娛樂製作及藝人管理。2015年，[LOEN娛樂收購](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")70%股份，成為旗下子公司。2018年，[Kakao
-M收購餘下](../Page/Kakao_M.md "wikilink")30%股份，成为全资子公司。2019年，[Kakao
-M旗下子公司Plan](../Page/Kakao_M.md "wikilink")
-A娛樂與[FAVE娛樂合併](https://zh.wikipedia.org/wiki/FAVE娛樂 "wikilink")，新公司名為**[Play
-M娛樂](https://zh.wikipedia.org/wiki/Play_M娛樂 "wikilink")**（）。
+**Plan A娛樂**（），前稱**A Cube娛樂**（），是於2011年在[韓國創辦的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，主要經營娛樂製作及藝人管理。2015年，[LOEN娛樂收購](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")70%股份，成為旗下子公司。2018年，[Kakao M收購餘下](../Page/Kakao_M.md "wikilink")30%股份，成为全资子公司。2019年，[Kakao M旗下子公司Plan](../Page/Kakao_M.md "wikilink") A娛樂與[FAVE娛樂合併](https://zh.wikipedia.org/wiki/FAVE娛樂 "wikilink")，新公司名為**[Play M娛樂](https://zh.wikipedia.org/wiki/Play_M娛樂 "wikilink")**（）。
 
 ## 歷史
 
-  - 2011年，於[韓國創辦](https://zh.wikipedia.org/wiki/韓國 "wikilink")，總部設於[首爾市](../Page/首爾.md "wikilink")[麻浦區](../Page/麻浦區.md "wikilink")476-44號（世界盃路12段10號）SiYeon大樓3層。
-  - 同年4月19日，旗下首隊亦是目前唯一一隊女子流行音樂團體[Apink正式出道](../Page/Apink.md "wikilink")。\[1\]
-  - 同年9月16日，旗下首位個人男歌手[許閣正式出道](../Page/許閣.md "wikilink")，其參與[Mnet歌唱選秀節目](../Page/Mnet媒體.md "wikilink")《》時奪冠並獲得簽約資格。
+  - 2011年，於[韓國創辦](https://zh.wikipedia.org/wiki/韓國 "wikilink")，總部設於[首爾](../Page/首爾.md "wikilink")市[麻浦區](../Page/麻浦區.md "wikilink")476-44號（世界盃路12段10號）SiYeon大樓3層。
+  - 同年4月19日，旗下首隊亦是目前唯一一隊女子流行音樂團體[Apink](../Page/Apink.md "wikilink")正式出道。\[1\]
+  - 同年9月16日，旗下首位個人男歌手[許閣](../Page/許閣.md "wikilink")正式出道，其參與[Mnet歌唱選秀節目](../Page/Mnet媒體.md "wikilink")《》時奪冠並獲得簽約資格。
   - 2014年9月，總部遷至首爾市麻浦區58-6號（城山路8段6號）ChangGang大樓2層。
-  - 2015年11月25日，[LOEN娛樂以現金](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")126億韓圓購入A
-    Cube娛樂70%股份以此成為旗下音樂品牌之一，但[LOEN娛樂不會介入A](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")
-    Cube娛樂的日常運作。
-  - 2016年3月2日，A Cube娛樂宣佈正式更名為「Plan
-    A娛樂」，賦予公司名稱「按預期計劃進行所有事項」、「以最佳的策劃製作內容」等意義。這是自LOEN娛樂收購後基於新的運營體系而作出的決定。\[2\]\[3\]
+  - 2015年11月25日，[LOEN娛樂以現金](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")126億韓圓購入A Cube娛樂70%股份以此成為旗下音樂品牌之一，但[LOEN娛樂不會介入A](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink") Cube娛樂的日常運作。
+  - 2016年3月2日，A Cube娛樂宣佈正式更名為「Plan A娛樂」，賦予公司名稱「按預期計劃進行所有事項」、「以最佳的策劃製作內容」等意義。這是自LOEN娛樂收購後基於新的運營體系而作出的決定。\[2\]\[3\]
   - 同年8月5日，全面使用更名後的新商標。
-  - 同年11月9日，旗下首隊男子流行音樂團體[VICTON正式出道](../Page/VICTON.md "wikilink")。
-  - 同年12月，辦公室遷至首爾市江南區奉恩寺路151 6樓。練習室，工作室則在城東區聖水洞，，口號為「Asian No.1
-    Entertainment Group」（亞洲第一娛樂集團）
+  - 同年11月9日，旗下首隊男子流行音樂團體[VICTON](../Page/VICTON.md "wikilink")正式出道。
+  - 同年12月，辦公室遷至首爾市江南區奉恩寺路151 6樓。練習室，工作室則在城東區聖水洞，，口號為「Asian No.1 Entertainment Group」（亞洲第一娛樂集團）
   - 2018年1月，创办人兼共同代表崔镇浩辞去共同代表职务并担任内部董事，單獨代表理事更改為김영석。
-  - 2018年5月，崔镇浩辞去内部董事职务，[Kakao
-    M以](../Page/Kakao_M.md "wikilink")35.1億韓圓購入Plan
-    A娛樂剩下的30%股份，成为全资子公司。
-  - 2019年2月13日，[Kakao
-    M宣佈旗下子公司](../Page/Kakao_M.md "wikilink")[FAVE娛樂與Plan](https://zh.wikipedia.org/wiki/FAVE娛樂 "wikilink")
-    A娛樂合併，4月1日成立新公司。\[4\]
-  - 2019年4月1日，[FAVE娛樂與](https://zh.wikipedia.org/wiki/FAVE娛樂 "wikilink")[Plan
-    A娛樂合併](../Page/Plan_A娛樂.md "wikilink")，新公司名為[Play
-    M娛樂](https://zh.wikipedia.org/wiki/Play_M娛樂 "wikilink")，意思是“The
-    Playground for Music and You” 。\[5\]\[6\]
+  - 2018年5月，崔镇浩辞去内部董事职务，[Kakao M以](../Page/Kakao_M.md "wikilink")35.1億韓圓購入Plan A娛樂剩下的30%股份，成为全资子公司。
+  - 2019年2月13日，[Kakao M宣佈旗下子公司](../Page/Kakao_M.md "wikilink")[FAVE娛樂與Plan](https://zh.wikipedia.org/wiki/FAVE娛樂 "wikilink") A娛樂合併，4月1日成立新公司。\[4\]
+  - 2019年4月1日，[FAVE娛樂與](https://zh.wikipedia.org/wiki/FAVE娛樂 "wikilink")[Plan A娛樂合併](../Page/Plan_A娛樂.md "wikilink")，新公司名為[Play M娛樂](https://zh.wikipedia.org/wiki/Play_M娛樂 "wikilink")，意思是“The Playground for Music and You” 。\[5\]\[6\]
 
 ## 所屬藝人
 
@@ -208,9 +192,7 @@ M娛樂](https://zh.wikipedia.org/wiki/Play_M娛樂 "wikilink")**（）。
   -
   -
   -
-[Category:Plan_A娛樂](https://zh.wikipedia.org/wiki/Category:Plan_A娛樂 "wikilink")
-[Category:Kakao_M](https://zh.wikipedia.org/wiki/Category:Kakao_M "wikilink")
-[Category:Play_M娛樂](https://zh.wikipedia.org/wiki/Category:Play_M娛樂 "wikilink")
+[Category:Plan_A娛樂](https://zh.wikipedia.org/wiki/Category:Plan_A娛樂 "wikilink") [Category:Kakao_M](https://zh.wikipedia.org/wiki/Category:Kakao_M "wikilink") [Category:Play_M娛樂](https://zh.wikipedia.org/wiki/Category:Play_M娛樂 "wikilink")
 
 1.
 2.

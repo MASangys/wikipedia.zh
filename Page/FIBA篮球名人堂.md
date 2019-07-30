@@ -1,6 +1,4 @@
-[FIBA_Hall_of_Fame_Alcobendas_-_04.jpg](https://zh.wikipedia.org/wiki/File:FIBA_Hall_of_Fame_Alcobendas_-_04.jpg "fig:FIBA_Hall_of_Fame_Alcobendas_-_04.jpg")
-**FIBA篮球名人堂**（英语：FIBA Hall of
-Fame）位于[西班牙](../Page/西班牙.md "wikilink")[阿尔科文达斯](../Page/阿尔科文达斯.md "wikilink")，以纪念为[篮球运动作出卓越贡献的球员](../Page/篮球.md "wikilink")、教练、裁判及其他貢獻者，又或者是特殊的球隊。成立于1991年。
+[FIBA_Hall_of_Fame_Alcobendas_-_04.jpg](https://zh.wikipedia.org/wiki/File:FIBA_Hall_of_Fame_Alcobendas_-_04.jpg "fig:FIBA_Hall_of_Fame_Alcobendas_-_04.jpg") **FIBA篮球名人堂**（英语：FIBA Hall of Fame）位于[西班牙](../Page/西班牙.md "wikilink")[阿尔科文达斯](../Page/阿尔科文达斯.md "wikilink")，以纪念为[篮球](../Page/篮球.md "wikilink")运动作出卓越贡献的球员、教练、裁判及其他貢獻者，又或者是特殊的球隊。成立于1991年。
 
 ## 入选者和候选人
 
@@ -630,11 +628,8 @@ Key:
 
 **NB:**
 
-  - Newell was born in Canada, but is classified as American because he
-    became a U.S. citizen as a young adult and made his coaching mark in
-    the U.S.
-  - In addition, Newell is a member of the Naismith Memorial Hall of
-    Fame as a contributor, not as a coach.
+  - Newell was born in Canada, but is classified as American because he became a U.S. citizen as a young adult and made his coaching mark in the U.S.
+  - In addition, Newell is a member of the Naismith Memorial Hall of Fame as a contributor, not as a coach.
 
 ### Technical officials (referees)
 
@@ -763,101 +758,55 @@ Key:
 
 #### Inductees
 
-The eight founding Federations of
-[FIBA](https://zh.wikipedia.org/wiki/FIBA "wikilink") were those of
-Argentina, Czechoslovakia, Greece, Italy, Latvia, Portugal, Romania and
-Switzerland.
+The eight founding Federations of [FIBA](https://zh.wikipedia.org/wiki/FIBA "wikilink") were those of Argentina, Czechoslovakia, Greece, Italy, Latvia, Portugal, Romania and Switzerland.
 
-  - **Serbia**: [Nebojša
-    Popović](https://zh.wikipedia.org/wiki/Nebojša_Popović "wikilink"),
-    [Borislav
-    Stanković](https://zh.wikipedia.org/wiki/Borislav_Stanković "wikilink"),
-    [Radomir
-    Šaper](https://zh.wikipedia.org/wiki/Radomir_Šaper "wikilink")
+  - **Serbia**: [Nebojša Popović](https://zh.wikipedia.org/wiki/Nebojša_Popović "wikilink"), [Borislav Stanković](https://zh.wikipedia.org/wiki/Borislav_Stanković "wikilink"), [Radomir Šaper](https://zh.wikipedia.org/wiki/Radomir_Šaper "wikilink")
 
-  - **Spain**: [Anselmo
-    López](https://zh.wikipedia.org/wiki/Anselmo_López_\(basketball\) "wikilink"),
-    [Raimundo
-    Saporta](https://zh.wikipedia.org/wiki/Raimundo_Saporta "wikilink"),
-    [Ernesto Segura de
-    Luna](https://zh.wikipedia.org/wiki/Ernesto_Segura_de_Luna "wikilink"),
-    [Juan Antonio
-    Samaranch](https://zh.wikipedia.org/wiki/Juan_Antonio_Samaranch "wikilink")
+  - **Spain**: [Anselmo López](https://zh.wikipedia.org/wiki/Anselmo_López_\(basketball\) "wikilink"), [Raimundo Saporta](https://zh.wikipedia.org/wiki/Raimundo_Saporta "wikilink"), [Ernesto Segura de Luna](https://zh.wikipedia.org/wiki/Ernesto_Segura_de_Luna "wikilink"), [Juan Antonio Samaranch](https://zh.wikipedia.org/wiki/Juan_Antonio_Samaranch "wikilink")
 
-  - **USA**: [Willard N.
-    Greim](https://zh.wikipedia.org/wiki/Willard_N._Greim "wikilink"),
-    [George
-    Killian](https://zh.wikipedia.org/wiki/George_E._Killian "wikilink"),
-    [Edward S.
-    Steitz](https://zh.wikipedia.org/wiki/Ed_Steitz "wikilink"), [David
-    Stern](https://zh.wikipedia.org/wiki/David_Stern "wikilink")
+  - **USA**: [Willard N. Greim](https://zh.wikipedia.org/wiki/Willard_N._Greim "wikilink"), [George Killian](https://zh.wikipedia.org/wiki/George_E._Killian "wikilink"), [Edward S. Steitz](https://zh.wikipedia.org/wiki/Ed_Steitz "wikilink"), [David Stern](https://zh.wikipedia.org/wiki/David_Stern "wikilink")
 
-  - **Italy**: [Decio
-    Scuri](https://zh.wikipedia.org/wiki/Decio_Scuri "wikilink"), [Aldo
-    Vitale](https://zh.wikipedia.org/wiki/Aldo_Vitale "wikilink")
+  - **Italy**: [Decio Scuri](https://zh.wikipedia.org/wiki/Decio_Scuri "wikilink"), [Aldo Vitale](https://zh.wikipedia.org/wiki/Aldo_Vitale "wikilink")
 
-  - **Brazil**: [Antonio dos Reis
-    Carneiro](https://zh.wikipedia.org/wiki/Antonio_dos_Reis_Carneiro "wikilink"),
-    [José Claudio Dos
-    Reis](https://zh.wikipedia.org/wiki/José_Claudio_Dos_Reis "wikilink")
+  - **Brazil**: [Antonio dos Reis Carneiro](https://zh.wikipedia.org/wiki/Antonio_dos_Reis_Carneiro "wikilink"), [José Claudio Dos Reis](https://zh.wikipedia.org/wiki/José_Claudio_Dos_Reis "wikilink")
 
-  - **Egypt**: [Abdel Azim
-    Ashry](https://zh.wikipedia.org/wiki/Abdel_Azim_Ashry "wikilink"),
-    [Abdel Moneim
-    Wahby](https://zh.wikipedia.org/wiki/Abdel_Moneim_Wahby "wikilink")
+  - **Egypt**: [Abdel Azim Ashry](https://zh.wikipedia.org/wiki/Abdel_Azim_Ashry "wikilink"), [Abdel Moneim Wahby](https://zh.wikipedia.org/wiki/Abdel_Moneim_Wahby "wikilink")
 
-  - **Russia**: [Nikolai
-    Semashko](https://zh.wikipedia.org/wiki/Nikolai_Semashko_\(basketball\) "wikilink")
+  - **Russia**: [Nikolai Semashko](https://zh.wikipedia.org/wiki/Nikolai_Semashko_\(basketball\) "wikilink")
 
-  - **France**: [Robert
-    Busnel](https://zh.wikipedia.org/wiki/Robert_Busnel "wikilink")
+  - **France**: [Robert Busnel](https://zh.wikipedia.org/wiki/Robert_Busnel "wikilink")
 
-  - **UK**: [Renato William
-    Jones](https://zh.wikipedia.org/wiki/Renato_William_Jones "wikilink")
+  - **UK**: [Renato William Jones](https://zh.wikipedia.org/wiki/Renato_William_Jones "wikilink")
 
-  - **Turkey**: [Turgut
-    Atakol](https://zh.wikipedia.org/wiki/Turgut_Atakol "wikilink")
+  - **Turkey**: [Turgut Atakol](https://zh.wikipedia.org/wiki/Turgut_Atakol "wikilink")
 
-  - **Poland**: [Marian
-    Kozlowski](https://zh.wikipedia.org/wiki/Marian_Kozlowski "wikilink")
+  - **Poland**: [Marian Kozlowski](https://zh.wikipedia.org/wiki/Marian_Kozlowski "wikilink")
 
-  - **Hungary**: [Ferenc
-    Hepp](https://zh.wikipedia.org/wiki/Ferenc_Hepp "wikilink")
+  - **Hungary**: [Ferenc Hepp](https://zh.wikipedia.org/wiki/Ferenc_Hepp "wikilink")
 
-  - **Austria**: [August
-    Pitzl](https://zh.wikipedia.org/wiki/August_Pitzl "wikilink")
+  - **Austria**: [August Pitzl](https://zh.wikipedia.org/wiki/August_Pitzl "wikilink")
 
-  - **Switzerland**: [Léon
-    Bouffard](https://zh.wikipedia.org/wiki/Léon_Bouffard "wikilink")
+  - **Switzerland**: [Léon Bouffard](https://zh.wikipedia.org/wiki/Léon_Bouffard "wikilink")
 
   - **Canada**: [詹姆斯·奈史密斯](../Page/詹姆斯·奈史密斯.md "wikilink")
 
-  - **Peru**: [Eduardo Airaldi
-    Rivarola](https://zh.wikipedia.org/wiki/Eduardo_Airaldi_Rivarola "wikilink")
+  - **Peru**: [Eduardo Airaldi Rivarola](https://zh.wikipedia.org/wiki/Eduardo_Airaldi_Rivarola "wikilink")
 
-  - **Philippines**: [Dionisio "Chito"
-    Calvo](https://zh.wikipedia.org/wiki/Dionisio_Calvo "wikilink")
+  - **Philippines**: [Dionisio "Chito" Calvo](https://zh.wikipedia.org/wiki/Dionisio_Calvo "wikilink")
 
-  - **Japan**: [Yoshimi
-    Ueda](https://zh.wikipedia.org/wiki/Yoshimi_Ueda "wikilink")
+  - **Japan**: [Yoshimi Ueda](https://zh.wikipedia.org/wiki/Yoshimi_Ueda "wikilink")
 
-  - **South Korea**: [Yoon
-    Duk-Joo](https://zh.wikipedia.org/wiki/Yoon_Duk-Joo "wikilink")
+  - **South Korea**: [Yoon Duk-Joo](https://zh.wikipedia.org/wiki/Yoon_Duk-Joo "wikilink")
 
-  - **Australia**: [Al
-    Ramsay](https://zh.wikipedia.org/wiki/Al_Ramsay "wikilink")
+  - **Australia**: [Al Ramsay](https://zh.wikipedia.org/wiki/Al_Ramsay "wikilink")
 
-  - **Argentina**: [Luis
-    Martín](https://zh.wikipedia.org/wiki/Luis_Martín_\(basketball\) "wikilink")
+  - **Argentina**: [Luis Martín](https://zh.wikipedia.org/wiki/Luis_Martín_\(basketball\) "wikilink")
 
-  - **Germany**: [Hans-Joachim
-    Otto](https://zh.wikipedia.org/wiki/Hans-Joachim_Otto "wikilink")
+  - **Germany**: [Hans-Joachim Otto](https://zh.wikipedia.org/wiki/Hans-Joachim_Otto "wikilink")
 
-  - **Senegal**: [Abdoulaye Sèye
-    Moreau](https://zh.wikipedia.org/wiki/Abdoulaye_Seye "wikilink")
+  - **Senegal**: [Abdoulaye Sèye Moreau](https://zh.wikipedia.org/wiki/Abdoulaye_Seye "wikilink")
 
-  - **Israel**: [Noah
-    Klieger](https://zh.wikipedia.org/wiki/Noah_Klieger "wikilink")
+  - **Israel**: [Noah Klieger](https://zh.wikipedia.org/wiki/Noah_Klieger "wikilink")
 
 ## 参见
 
@@ -867,12 +816,9 @@ Switzerland.
 
 ## 外部链接
 
-  - [FIBA Hall of
-    Fame](https://web.archive.org/web/20070812094244/http://www.halloffame.fiba.com/)
-    official webpage
+  - [FIBA Hall of Fame](https://web.archive.org/web/20070812094244/http://www.halloffame.fiba.com/) official webpage
 
-[Category:篮球名人堂](https://zh.wikipedia.org/wiki/Category:篮球名人堂 "wikilink")
-[Category:1991年西班牙建立](https://zh.wikipedia.org/wiki/Category:1991年西班牙建立 "wikilink")
+[Category:篮球名人堂](https://zh.wikipedia.org/wiki/Category:篮球名人堂 "wikilink") [Category:1991年西班牙建立](https://zh.wikipedia.org/wiki/Category:1991年西班牙建立 "wikilink")
 
 1.
 2.

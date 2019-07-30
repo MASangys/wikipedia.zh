@@ -1,5 +1,4 @@
-《**SNH48
-少女的巴別塔**》（）是以女子偶像組合[SNH48為主角的](https://zh.wikipedia.org/wiki/SNH48 "wikilink")[紀錄電影](https://zh.wikipedia.org/wiki/紀錄電影 "wikilink")，在[SNH48星夢劇院首映](https://zh.wikipedia.org/wiki/SNH48星夢劇院 "wikilink")\[1\]，電影紀錄由[SNH48第一屆總選舉至](../Page/SNH48第一屆總選舉.md "wikilink")[SNH48第二屆總選舉前SNH](https://zh.wikipedia.org/wiki/SNH48第二屆總選舉 "wikilink")48團體中發生的事跡。由[彭曉海執導](https://zh.wikipedia.org/wiki/彭曉海 "wikilink")。
+《**SNH48 少女的巴別塔**》（）是以女子偶像組合[SNH48為主角的](https://zh.wikipedia.org/wiki/SNH48 "wikilink")[紀錄電影](https://zh.wikipedia.org/wiki/紀錄電影 "wikilink")，在[SNH48星夢劇院首映](https://zh.wikipedia.org/wiki/SNH48星夢劇院 "wikilink")\[1\]，電影紀錄由[SNH48第一屆總選舉](../Page/SNH48第一屆總選舉.md "wikilink")至[SNH48第二屆總選舉前SNH](https://zh.wikipedia.org/wiki/SNH48第二屆總選舉 "wikilink")48團體中發生的事跡。由[彭曉海執導](https://zh.wikipedia.org/wiki/彭曉海 "wikilink")。
 
 ## 簡介
 
@@ -29,12 +28,11 @@ S隊成員，同時第一屆總選舉冠軍的吳哲唅因與粉絲私聯暫停�
 
   - SNH48年度金曲大賞BEST 30 2015
 
-[SNH48年度金曲大賞BEST 30
-2015四期生首次發佈](https://zh.wikipedia.org/wiki/SNH48年度金曲大賞BEST_30_2015 "wikilink")
+[SNH48年度金曲大賞BEST 30 2015四期生首次發佈](https://zh.wikipedia.org/wiki/SNH48年度金曲大賞BEST_30_2015 "wikilink")
 
   - 李宇琪私聯事件
 
-繼吳哲唅後，S隊成員李宇琪也因與粉絲私聯暫停一切演藝活動，S隊隊長莫寒因兩位成員接連受到處罰，在李宇琪發言時衝出舞台後並產生呼吸困難和[抽搐等情況](../Page/抽搐.md "wikilink")。
+繼吳哲唅後，S隊成員李宇琪也因與粉絲私聯暫停一切演藝活動，S隊隊長莫寒因兩位成員接連受到處罰，在李宇琪發言時衝出舞台後並產生呼吸困難和[抽搐](../Page/抽搐.md "wikilink")等情況。
 
   - 李藝彤生日公演
 
@@ -51,9 +49,6 @@ S隊成員，同時第一屆總選舉冠軍的吳哲唅因與粉絲私聯暫停�
 
 ## 参考文献
 
-[Category:SNH48](https://zh.wikipedia.org/wiki/Category:SNH48 "wikilink")
-[Category:2015年電影](https://zh.wikipedia.org/wiki/Category:2015年電影 "wikilink")
-[Category:中國紀錄片](https://zh.wikipedia.org/wiki/Category:中國紀錄片 "wikilink")
-[Category:中国青春电影](https://zh.wikipedia.org/wiki/Category:中国青春电影 "wikilink")
+[Category:SNH48](https://zh.wikipedia.org/wiki/Category:SNH48 "wikilink") [Category:2015年電影](https://zh.wikipedia.org/wiki/Category:2015年電影 "wikilink") [Category:中國紀錄片](https://zh.wikipedia.org/wiki/Category:中國紀錄片 "wikilink") [Category:中国青春电影](https://zh.wikipedia.org/wiki/Category:中国青春电影 "wikilink")
 
 1.

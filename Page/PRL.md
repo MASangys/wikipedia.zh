@@ -2,8 +2,7 @@
 
 ## 地名
 
-  - [波兰人民共和国](../Page/波兰人民共和国.md "wikilink")（*Polska Rzeczpospolita
-    Ludowa*），波蘭1952年至1989年間的正式名稱。
+  - [波兰人民共和国](../Page/波兰人民共和国.md "wikilink")（*Polska Rzeczpospolita Ludowa*），波蘭1952年至1989年間的正式名稱。
 
 ## 出版品
 
@@ -18,8 +17,7 @@
 
 ## 科技
 
-  - 請求參數表（Parameter Request
-    List），一[动态主机设置协议選項](../Page/动态主机设置协议.md "wikilink")。
+  - 請求參數表（Parameter Request List），一[动态主机设置协议](../Page/动态主机设置协议.md "wikilink")選項。
 
   - , used in CDMA phones
 

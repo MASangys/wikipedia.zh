@@ -1,14 +1,10 @@
-**崔裕娜**\[1\]（，，），藝名**Yuju**（），[韓國女](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source
-Music旗下](https://zh.wikipedia.org/wiki/Source_Music "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[GFRIEND的成員](../Page/GFRIEND.md "wikilink")，在隊內擔任主唱，是K-pop
-4代女團中最優秀的主唱之一。她曾經是[Cube娛樂](../Page/Cube娛樂.md "wikilink")(2011年)和[LOEN娛樂](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")(2012年)的練習生，練習生生涯總長為2-3年(國二至高二)，中間休息過一段時間，高一離開了練習了一年半的公司([LOEN娛樂](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink"))
+**崔裕娜**\[1\]（，，），藝名**Yuju**（），[韓國女](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source Music旗下](https://zh.wikipedia.org/wiki/Source_Music "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的成員，在隊內擔任主唱，是K-pop 4代女團中最優秀的主唱之一。她曾經是[Cube娛樂](../Page/Cube娛樂.md "wikilink")(2011年)和[LOEN娛樂](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")(2012年)的練習生，練習生生涯總長為2-3年(國二至高二)，中間休息過一段時間，高一離開了練習了一年半的公司([LOEN娛樂](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink"))
 
 ## 簡歷
 
 ### 出道前
 
-她在2011年參加《[K-pop Star
-1](../Page/K-pop_Star_1.md "wikilink")》，演唱[GUMMY的](https://zh.wikipedia.org/wiki/GUMMY "wikilink")《Because
-It's You》，結果第一回合被淘汰。
+她在2011年參加《[K-pop Star 1](../Page/K-pop_Star_1.md "wikilink")》，演唱[GUMMY的](https://zh.wikipedia.org/wiki/GUMMY "wikilink")《Because It's You》，結果第一回合被淘汰。
 
 她在2012年參加\[京畿道高陽市青少年綜合藝術節\]，獲得最優秀獎（初三）。
 
@@ -16,19 +12,17 @@ It's You》，結果第一回合被淘汰。
 
 ### 2015年
 
-她與Loco為電視劇《[看見味道的少女](../Page/看見味道的少女.md "wikilink")》演唱的OST《偶然的春天》備受關注。這首歌曲**連續十周**獲得《[Music
-Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》OST榜首位，並在第7屆[甜瓜音樂獎獲得](../Page/甜瓜音樂獎.md "wikilink")**原聲帶獎**，gaon累計數據超過一億流媒體及250萬下載。
+她與Loco為電視劇《[看見味道的少女](../Page/看見味道的少女.md "wikilink")》演唱的OST《偶然的春天》備受關注。這首歌曲**連續十周**獲得《[Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》OST榜首位，並在第7屆[甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")獲得**原聲帶獎**，gaon累計數據超過一億流媒體及250萬下載。
 
 9月5日，GFRIEND在江原道參加公演時因下雨致舞台濕滑而發生多次摔倒，該影片在網路上傳播後點擊觀看超過1000萬次，並得到了世界各地網友稱讚成員敬業。\[2\]\[3\]
 
-10月21日，她在《[Weekly
-Idol](../Page/Weekly_Idol.md "wikilink")》對於最近在雨中表演摔倒而逆襲獲得人氣的事表示：謝謝大家了解我們，之後也會給大家帶來更好的樣子，繼續長久的看我們吧，謝謝。
+10月21日，她在《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》對於最近在雨中表演摔倒而逆襲獲得人氣的事表示：謝謝大家了解我們，之後也會給大家帶來更好的樣子，繼續長久的看我們吧，謝謝。
 
 ### 2016年
 
 2月，在第11屆《[MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》以全勝姿態奪下女子田徑60米金牌。
 
-3月，她與[UP10TION的善燏推出合作單曲](../Page/UP10TION.md "wikilink")《Cherish》。\[4\]
+3月，她與[UP10TION](../Page/UP10TION.md "wikilink")的善燏推出合作單曲《Cherish》。\[4\]
 
 8月，在第12屆《MBC偶像明星運動會》成功衛冕女子田徑60米金牌。在初賽也以9.16秒打破比賽紀錄, 也因為手指受傷，而不能挑戰女子韻律體操。
 
@@ -40,21 +34,15 @@ Idol](../Page/Weekly_Idol.md "wikilink")》對於最近在雨中表演摔倒而�
 
 1月，在第13屆《MBC偶像明星運動會》奪下女子田徑60米銀牌，亦首度挑戰女子韻律體操。
 
-10月27日，与[IZ的志厚推出合作单曲](https://zh.wikipedia.org/wiki/IZ "wikilink")《Heart
-Signal (하트시그널)》。
+10月27日，与[IZ的志厚推出合作单曲](https://zh.wikipedia.org/wiki/IZ "wikilink")《Heart Signal (하트시그널)》。
 
 ### 2018年: 首張單曲專輯《Love Rain》
 
 6月24日，透過官方SNS公開Yuju將於29日發首張單曲專輯的預告。公開的預告圖中畫有一朵淋著雨的紅色花朵，上方寫有Yuju的名字，但單曲名稱、風格和伴唱歌手的身份尚未公開，讓粉絲十分好奇與期待。
 
-27日，GFRIEND透過官方SNS正式公開資訊，Yuju將於與[Suran](../Page/Suran.md "wikilink")（申秀蘭）合作新曲《Love
-Rain》，本次的《Love Rain》是Yuju在出道後首次以個人名義發行的單曲。28日，《Love Rain》的歌詞版預告短片，Yuju
-溫柔清亮的歌聲和 Suran 沙啞中略帶稚氣的獨特音質既能鮮明獨立也能完美融合。 由知名製作人 EDEN 創作的 "Love Rain"
-是一首奠基在 swing 風格上的中板 R\&B 歌曲，藉由傾瀉而下的大雨比喻以不同態度面對愛情的女子。
+27日，GFRIEND透過官方SNS正式公開資訊，Yuju將於與[Suran](../Page/Suran.md "wikilink")（申秀蘭）合作新曲《Love Rain》，本次的《Love Rain》是Yuju在出道後首次以個人名義發行的單曲。28日，《Love Rain》的歌詞版預告短片，Yuju 溫柔清亮的歌聲和 Suran 沙啞中略帶稚氣的獨特音質既能鮮明獨立也能完美融合。 由知名製作人 EDEN 創作的 "Love Rain" 是一首奠基在 swing 風格上的中板 R\&B 歌曲，藉由傾瀉而下的大雨比喻以不同態度面對愛情的女子。
 
-8月24日，Yuju為 tvN 月火劇《一起吃飯吧3》獻唱第三波 OST《Just This Song (이 노래만)》，MV 公開。《Just
-This Song》是一首由簡潔的鋼琴旋律組合而成的抒情曲，歌詞描寫劇中李智友 (白珍熙 飾) 向著具大英 (尹斗俊 飾)
-的心意，裕株這次放下平時充滿爆發的演唱功力，以溫柔的歌聲更添加了歌曲的感性，也完美詮釋出劇中主角們的心情。
+8月24日，Yuju為 tvN 月火劇《一起吃飯吧3》獻唱第三波 OST《Just This Song (이 노래만)》，MV 公開。《Just This Song》是一首由簡潔的鋼琴旋律組合而成的抒情曲，歌詞描寫劇中李智友 (白珍熙 飾) 向著具大英 (尹斗俊 飾) 的心意，裕株這次放下平時充滿爆發的演唱功力，以溫柔的歌聲更添加了歌曲的感性，也完美詮釋出劇中主角們的心情。
 
 11月，Yuju曾於2018/11月暫停本月所有行程，公司暫未說明缺席的確切原因。
 
@@ -88,7 +76,7 @@ This Song》是一首由簡潔的鋼琴旋律組合而成的抒情曲，歌詞�
 <td><p>2015年4月8日</p></td>
 <td><p>《<a href="../Page/看見味道的少女.md" title="wikilink">看見味道的少女</a>》OST Part.2</p></td>
 <td><p>偶然的春天（우연히 봄）</p></td>
-<td><p>Loco</p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年5月20日</p></td>
@@ -316,15 +304,7 @@ This Song》是一首由簡潔的鋼琴旋律組合而成的抒情曲，歌詞�
   -
   - 的V LIVE頻道
 
-[Category:GFRIEND](https://zh.wikipedia.org/wiki/Category:GFRIEND "wikilink")
-[Category:1997年出生](https://zh.wikipedia.org/wiki/Category:1997年出生 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓國舞者](https://zh.wikipedia.org/wiki/Category:韓國舞者 "wikilink")
-[Category:韓國電視主持人](https://zh.wikipedia.org/wiki/Category:韓國電視主持人 "wikilink")
-[Category:京畿道出身人物](https://zh.wikipedia.org/wiki/Category:京畿道出身人物 "wikilink")
-[Category:高陽市出身人物](https://zh.wikipedia.org/wiki/Category:高陽市出身人物 "wikilink")
-[Category:崔姓](https://zh.wikipedia.org/wiki/Category:崔姓 "wikilink")
+[Category:GFRIEND](https://zh.wikipedia.org/wiki/Category:GFRIEND "wikilink") [Category:1997年出生](https://zh.wikipedia.org/wiki/Category:1997年出生 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國舞者](https://zh.wikipedia.org/wiki/Category:韓國舞者 "wikilink") [Category:韓國電視主持人](https://zh.wikipedia.org/wiki/Category:韓國電視主持人 "wikilink") [Category:京畿道出身人物](https://zh.wikipedia.org/wiki/Category:京畿道出身人物 "wikilink") [Category:高陽市出身人物](https://zh.wikipedia.org/wiki/Category:高陽市出身人物 "wikilink") [Category:崔姓](https://zh.wikipedia.org/wiki/Category:崔姓 "wikilink")
 
 1.  유是富裕(부유)，나是取韓文國家(나라)的首字，意思是富裕之國，未有漢字表記，由韓語音譯可推知為「崔裕娜」
 2.

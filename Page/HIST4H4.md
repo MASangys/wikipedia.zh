@@ -4,8 +4,7 @@
 
 ## 拓展閱讀
 
-[Category:染色体](https://zh.wikipedia.org/wiki/Category:染色体 "wikilink")
-[Category:蛋白质](https://zh.wikipedia.org/wiki/Category:蛋白质 "wikilink")
+[Category:染色体](https://zh.wikipedia.org/wiki/Category:染色体 "wikilink") [Category:蛋白质](https://zh.wikipedia.org/wiki/Category:蛋白质 "wikilink")
 
 1.
 2.

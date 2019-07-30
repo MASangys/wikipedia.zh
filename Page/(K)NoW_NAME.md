@@ -1,4 +1,4 @@
-**(K)NoW_NAME**簡稱**(K)_N**，是[日本的](../Page/日本.md "wikilink")[音樂創作團體](https://zh.wikipedia.org/wiki/音樂 "wikilink")，隸屬。
+**(K)NoW_NAME**簡稱**(K)_N**，是[日本](../Page/日本.md "wikilink")的[音樂創作團體](https://zh.wikipedia.org/wiki/音樂 "wikilink")，隸屬。
 
 電視動畫《[灰與幻想的格林姆迦爾](../Page/灰與幻想的格林姆迦爾.md "wikilink")》的所有歌曲及配樂皆由本團體創作\[1\]。於2017年4月播出的《[櫻花任務](https://zh.wikipedia.org/wiki/櫻花任務 "wikilink")》也由本團體提供音樂\[2\]。
 
@@ -169,11 +169,7 @@
   - [(K)NoW_NAME官方網站](http://knowname.jp/)
 
   -
-[Category:日本作詞家](https://zh.wikipedia.org/wiki/Category:日本作詞家 "wikilink")
-[Category:動畫音樂作曲家](https://zh.wikipedia.org/wiki/Category:動畫音樂作曲家 "wikilink")
-[Category:日本編曲家](https://zh.wikipedia.org/wiki/Category:日本編曲家 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:東寶](https://zh.wikipedia.org/wiki/Category:東寶 "wikilink")
+[Category:日本作詞家](https://zh.wikipedia.org/wiki/Category:日本作詞家 "wikilink") [Category:動畫音樂作曲家](https://zh.wikipedia.org/wiki/Category:動畫音樂作曲家 "wikilink") [Category:日本編曲家](https://zh.wikipedia.org/wiki/Category:日本編曲家 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:東寶](https://zh.wikipedia.org/wiki/Category:東寶 "wikilink")
 
 1.
 2.

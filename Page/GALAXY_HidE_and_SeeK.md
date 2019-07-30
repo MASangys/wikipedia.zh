@@ -1,5 +1,4 @@
-《**GALAXY HidE and
-SeeK**》是AZALEA於2017年5月31日所發行的第二張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+《**GALAXY HidE and SeeK**》是AZALEA於2017年5月31日所發行的第二張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要
 
@@ -23,6 +22,4 @@ SeeK**》是AZALEA於2017年5月31日所發行的第二張[單曲](https://zh.wi
 
   - [Lantis 網頁上的介绍](http://www.lantis.jp/release-item/LACM-14602.html)
 
-[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink")
-[Category:LoveLive\!音樂](https://zh.wikipedia.org/wiki/Category:LoveLive!音樂 "wikilink")
-[Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink")
+[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink") [Category:LoveLive\!音樂](https://zh.wikipedia.org/wiki/Category:LoveLive!音樂 "wikilink") [Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink")

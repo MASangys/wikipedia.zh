@@ -2,8 +2,7 @@ require('Module:No globals')
 
 local wpsu={}
 
-\--\[\[-------------------------\< S H I P P R E F I X L I S T
-\>-----------------------------------------------
+\--\[\[-------------------------\< S H I P P R E F I X L I S T \>-----------------------------------------------
 
 This is a list of currently supported ship prefixes.
 
@@ -110,11 +109,9 @@ local ship_prefix_list =
 `   ['USS'] = true,                                                             -- United States Ship`
 `   }`
 
-\--\[\[--------------------------\< N A T I O N A L I T Y
-\>--------------------------------------------------------
+\--\[\[--------------------------\< N A T I O N A L I T Y \>--------------------------------------------------------
 
-Article titles for ships in navies that do not use a standardized prefix
-follow the title format:
+Article titles for ships in navies that do not use a standardized prefix follow the title format:
 
 `   `<nationality>` `<ship type>` `<name>` <(disambiguator)>`
 
@@ -124,8 +121,7 @@ To add to this list the form is:
 
 `   ['Nationality'] = true,`
 
-the trailing comma is important. Use the adjective form for nationality,
-always capitalize. Please insert nationalities in alphabetical order.
+the trailing comma is important. Use the adjective form for nationality, always capitalize. Please insert nationalities in alphabetical order.
 
 \]\]
 
@@ -179,40 +175,27 @@ local nationality_list =
 `   ['Yugoslav'] = true,`
 `   }`
 
-\--\[\[--------------------------\< S H I P T Y P E
-\>------------------------------------------------------------
+\--\[\[--------------------------\< S H I P T Y P E \>------------------------------------------------------------
 
-Article titles for ships in navies that do not use a standardized prefix
-follow the title format:
+Article titles for ships in navies that do not use a standardized prefix follow the title format:
 
 `   `<nationality>` `<ship type>` `<name>` <(disambiguator)>`
 
-Article titles for ships may or may not be naval ships may follow the
-title format:
+Article titles for ships may or may not be naval ships may follow the title format:
 
 `   `<name>` <(disambiguator)>`
 
-where \<(disambiguator)\> may be some form of ship type, hull designator
-or pennant number, or year. This tool will format ship names that
-contain a recognized ship type in \<(disambiguator)\>.
+where \<(disambiguator)\> may be some form of ship type, hull designator or pennant number, or year. This tool will format ship names that contain a recognized ship type in \<(disambiguator)\>.
 
-This list is used to <find ship> when the article title begins with a
-nationality. This is important because the tool needs to know where the
-<ship type> ends and <name> begins so that it can properly place the
-italic markup. The search will find an exact match (including case) for
-ship types that are 1 to 4 words long.
+This list is used to <find ship> when the article title begins with a nationality. This is important because the tool needs to know where the <ship type> ends and <name> begins so that it can properly place the italic markup. The search will find an exact match (including case) for ship types that are 1 to 4 words long.
 
-This list is also used to find ship type in \<(disambiguator)\>. The
-search is whole word; use the simplest form. For example, because
-'icebreaker' is defined, that ship type is sufficient to cause the tool
-to properly format:
+This list is also used to find ship type in \<(disambiguator)\>. The search is whole word; use the simplest form. For example, because 'icebreaker' is defined, that ship type is sufficient to cause the tool to properly format:
 
 `   Astrolabe (icebreaker)`
 `   Krassin (1917 icebreaker)`
 `   Taymyr (nuclear icebreaker)`
 
-Searches for ship type in \<(disambiguator)\> are whole word. When
-looking for 'ship', the tool will find
+Searches for ship type in \<(disambiguator)\> are whole word. When looking for 'ship', the tool will find
 
 `   Auguste (ship)`
 `   Queen of Nations (clipper ship)`
@@ -221,16 +204,13 @@ but will not find:
 
 `   Sibir (steamship icebreaker) – the search for 'icebreaker' will`
 
-This is a list of ship types. When adding new ship types, do not be too
-specific: 'aircraft carrier' but not 'light aircraft carrier'
+This is a list of ship types. When adding new ship types, do not be too specific: 'aircraft carrier' but not 'light aircraft carrier'
 
 To add to this list the form is:
 
 `   ['ship type'] = true,`
 
-the trailing comma is important. At the time of this writing, a ship
-type may be one to four words, almost always lowercase. Please insert
-ship types in alphabetical order.
+the trailing comma is important. At the time of this writing, a ship type may be one to four words, almost always lowercase. Please insert ship types in alphabetical order.
 
 \]\]
 
@@ -376,33 +356,13 @@ local ship_type_list =
 `   ['yawl'] = true,`
 `   }`
 
-\--[--------------------------\< I S _ S E T
-\>------------------------------------------------------------------
-Returns true if argument is set; false otherwise. Argument is 'set' when
-it exists (not nil) or when it is not an empty
-string.](https://zh.wikipedia.org/wiki/--------------------------\<_I_S_S_E_T_\>------------------------------------------------------------------_Returns_true_if_argument_is_set;_false_otherwise._Argument_is_'set'_when_it_exists_\(not_nil\)_or_when_it_is_not_an_empty_string. "wikilink")
-local function is_set( var )
+\--[--------------------------\< I S _ S E T \>------------------------------------------------------------------ Returns true if argument is set; false otherwise. Argument is 'set' when it exists (not nil) or when it is not an empty string.](https://zh.wikipedia.org/wiki/--------------------------\<_I_S_S_E_T_\>------------------------------------------------------------------_Returns_true_if_argument_is_set;_false_otherwise._Argument_is_'set'_when_it_exists_\(not_nil\)_or_when_it_is_not_an_empty_string. "wikilink") local function is_set( var )
 
 `   return not (var == nil or var == '');`
 
 end
 
-\--[--------------------------\< S I Z E O F _ S H I P _ T Y P E
-\>---------------------------------------------- Returns the size in
-words of ship type. Inputs are the fragment table, the number of
-elements in the fragment table, and the number of words that make up
-nationality. The number of fragments (words) in a ship name dictate the
-possible sizes of ship type. If nationality takes one fragment, and ship
-type takes four fragments, then the minimum number of fragments in a
-composite ship name is: 5 = 1 (nationality) + 3 (ship type) + 1 (ship
-name) (same as 4 fragments (words) after nationality) This function
-starts at the longest possible series of fragments that might be ship
-type. This order is important becuase some ship types might begin with
-similar fragments: 'ship' and 'ship of the line'. Starting with the
-least possible series of fragments (1) would find 'ship' and make 'of
-the line' part of the italicized name. Returns 0 if there is no
-recognizable ship
-type.](https://zh.wikipedia.org/wiki/--------------------------\<_S_I_Z_E_O_F_S_H_I_P_T_Y_P_E_\>----------------------------------------------_Returns_the_size_in_words_of_ship_type._Inputs_are_the_fragment_table,_the_number_of_elements_in_the_fragment_table,_and_the_number_of_words_that_make_up_nationality._The_number_of_fragments_\(words\)_in_a_ship_name_dictate_the_possible_sizes_of_ship_type._If_nationality_takes_one_fragment,_and_ship_type_takes_four_fragments,_then_the_minimum_number_of_fragments_in_a_composite_ship_name_is:_5_=_1_\(nationality\)_+_3_\(ship_type\)_+_1_\(ship_name\)_\(same_as_4_fragments_\(words\)_after_nationality\)_This_function_starts_at_the_longest_possible_series_of_fragments_that_might_be_ship_type._This_order_is_important_becuase_some_ship_types_might_begin_with_similar_fragments:_'ship'_and_'ship_of_the_line'._Starting_with_the_least_possible_series_of_fragments_\(1\)_would_find_'ship'_and_make_'of_the_line'_part_of_the_italicized_name._Returns_0_if_there_is_no_recognizable_ship_type. "wikilink")
+\--[--------------------------\< S I Z E O F _ S H I P _ T Y P E \>---------------------------------------------- Returns the size in words of ship type. Inputs are the fragment table, the number of elements in the fragment table, and the number of words that make up nationality. The number of fragments (words) in a ship name dictate the possible sizes of ship type. If nationality takes one fragment, and ship type takes four fragments, then the minimum number of fragments in a composite ship name is: 5 = 1 (nationality) + 3 (ship type) + 1 (ship name) (same as 4 fragments (words) after nationality) This function starts at the longest possible series of fragments that might be ship type. This order is important becuase some ship types might begin with similar fragments: 'ship' and 'ship of the line'. Starting with the least possible series of fragments (1) would find 'ship' and make 'of the line' part of the italicized name. Returns 0 if there is no recognizable ship type.](https://zh.wikipedia.org/wiki/--------------------------\<_S_I_Z_E_O_F_S_H_I_P_T_Y_P_E_\>----------------------------------------------_Returns_the_size_in_words_of_ship_type._Inputs_are_the_fragment_table,_the_number_of_elements_in_the_fragment_table,_and_the_number_of_words_that_make_up_nationality._The_number_of_fragments_\(words\)_in_a_ship_name_dictate_the_possible_sizes_of_ship_type._If_nationality_takes_one_fragment,_and_ship_type_takes_four_fragments,_then_the_minimum_number_of_fragments_in_a_composite_ship_name_is:_5_=_1_\(nationality\)_+_3_\(ship_type\)_+_1_\(ship_name\)_\(same_as_4_fragments_\(words\)_after_nationality\)_This_function_starts_at_the_longest_possible_series_of_fragments_that_might_be_ship_type._This_order_is_important_becuase_some_ship_types_might_begin_with_similar_fragments:_'ship'_and_'ship_of_the_line'._Starting_with_the_least_possible_series_of_fragments_\(1\)_would_find_'ship'_and_make_'of_the_line'_part_of_the_italicized_name._Returns_0_if_there_is_no_recognizable_ship_type. "wikilink")
 
 local function sizeof_ship_type (frag, frag_len, nat_len)
 
@@ -435,14 +395,7 @@ local function sizeof_ship_type (frag, frag_len, nat_len)
 
 end
 
-\--[--------------------------\< S I Z E O F _ N A T I O N A L I T Y
-\>------------------------------------------ This function the size (in
-words) of the nationality from the fragments table. Nationality may be
-one or two words that occupy the first one or two positions in the
-table. Returns the number of words that identify the nationality: 1 for
-French or German, etc. 2 for United States; 0 when table doesn't have a
-recognizable
-nationality](https://zh.wikipedia.org/wiki/--------------------------\<_S_I_Z_E_O_F_N_A_T_I_O_N_A_L_I_T_Y_\>------------------------------------------_This_function_the_size_\(in_words\)_of_the_nationality_from_the_fragments_table._Nationality_may_be_one_or_two_words_that_occupy_the_first_one_or_two_positions_in_the_table._Returns_the_number_of_words_that_identify_the_nationality:_1_for_French_or_German,_etc._2_for_United_States;_0_when_table_doesn't_have_a_recognizable_nationality "wikilink")
+\--[--------------------------\< S I Z E O F _ N A T I O N A L I T Y \>------------------------------------------ This function the size (in words) of the nationality from the fragments table. Nationality may be one or two words that occupy the first one or two positions in the table. Returns the number of words that identify the nationality: 1 for French or German, etc. 2 for United States; 0 when table doesn't have a recognizable nationality](https://zh.wikipedia.org/wiki/--------------------------\<_S_I_Z_E_O_F_N_A_T_I_O_N_A_L_I_T_Y_\>------------------------------------------_This_function_the_size_\(in_words\)_of_the_nationality_from_the_fragments_table._Nationality_may_be_one_or_two_words_that_occupy_the_first_one_or_two_positions_in_the_table._Returns_the_number_of_words_that_identify_the_nationality:_1_for_French_or_German,_etc._2_for_United_States;_0_when_table_doesn't_have_a_recognizable_nationality "wikilink")
 
 local function sizeof_nationality (frag, frag_len)
 
@@ -463,12 +416,9 @@ local function sizeof_nationality (frag, frag_len)
 
 end
 
-\--\[\[-------------------------\< S H I P _ N A M E _ F O R M A T
-\>-----------------------------------------------
+\--\[\[-------------------------\< S H I P _ N A M E _ F O R M A T \>-----------------------------------------------
 
-This function applies correct styling to ship and ship-class names.
-These names are, for example, ship-article titles used by templates , ,
-where the article title is to be rendered with proper styling.
+This function applies correct styling to ship and ship-class names. These names are, for example, ship-article titles used by templates , , where the article title is to be rendered with proper styling.
 
 This function requires one argument:
 
@@ -490,8 +440,7 @@ to call this function locally:
 `   args = {['name=name'], ['dab']=dab, ['sclass']=sclass, ['adj']=adj, ['showerrs']=showerrs};`
 `   do_ship_name_format (args)`
 
-The function returns the formatted name or, if unable to format the
-name, the original name and an unformatted error message.
+The function returns the formatted name or, if unable to format the name, the original name and an unformatted error message.
 
 \]\]
 
@@ -506,13 +455,11 @@ local function do_ship_name_format (args)
 `   local name = '';                                                            -- the reassembles and formatted ship name`
 `   local error_msg = '';                                                       -- a repository for error messages if any`
 
-\-- args.name = mw.text.decode (args.name); -- replace html entities in
-title with their characters; doesn't work for & and & in prefix
+\-- args.name = mw.text.decode (args.name); -- replace html entities in title with their characters; doesn't work for & and & in prefix
 
 `   args.name = args.name:gsub ("'", "\'");                                 -- replace html appostrophe with the character`
 
-\-- args.name = args.name:gsub ("&", "&"); -- args.name = args.name:gsub
-("&", "&"); -- args.name = args.name:gsub ("&", "&");
+\-- args.name = args.name:gsub ("&", "&"); -- args.name = args.name:gsub ("&", "&"); -- args.name = args.name:gsub ("&", "&");
 
 `   if args.name:match ('.+%-class%s+%a+') then                                 -- if a ship-class`
 `       fragments = mw.text.split (args.name, '-class' );                       -- split at -class`
@@ -523,11 +470,9 @@ title with their characters; doesn't work for & and & in prefix
 `           return args.name;                                                   -- nothing to do so return original unformatted name`
 `       end`
 `       if 'off' == args.adj then`
-`           return "`*`"``   ``..``   ``fragments[1]``   ``..``
- ``"`*` class";                          -- for infobox caption do noun form `<name>` class (no hyphen, no ship type)`
+`           return "`*`"``   ``..``   ``fragments[1]``   ``..``   ``"`*` class";                          -- for infobox caption do noun form `<name>` class (no hyphen, no ship type)`
 `       end`
-`       return "`*`"``   ``..``   ``fragments[1]``   ``..``
- ``"`*`-class" .. fragments[2];              -- and return formatted adjectival name`
+`       return "`*`"``   ``..``   ``fragments[1]``   ``..``   ``"`*`-class" .. fragments[2];              -- and return formatted adjectival name`
 `   end`
 `                                                                               -- not a ship class so try to format a ship name`
 `   name_sans_dab, dab = args.name:match('^(.+)%s+(%b())%s*$');                 -- split name into name_sans_dab and dab`
@@ -544,9 +489,7 @@ title with their characters; doesn't work for & and & in prefix
 `   if 0 < nat_len then                                                         -- if not zero we have a valid nationality`
 `       type_len = sizeof_ship_type (fragments, #fragments, nat_len);           -- get the number of words in the ship type`
 `       if 0 < type_len then                                                    -- if not zero, ship type is valid; nationality and type not italics, the rest is name`
-`           name = "`*`"``   ``..``   ``table.concat``
- ``(fragments,``   ``'``   ``',``   ``nat_len``   ``+``   ``type_len``
- ``+``   ``1)``   ``..``   ``"`*`";   -- format name`
+`           name = "`*`"``   ``..``   ``table.concat``   ``(fragments,``   ``'``   ``',``   ``nat_len``   ``+``   ``type_len``   ``+``   ``1)``   ``..``   ``"`*`";   -- format name`
 `           if 'none' == args.dab then                                          -- for |infobox caption=nodab`
 `               return name;                                                    -- return the formatted name without the nationality or ship type or dab`
 `           end`
@@ -556,9 +499,7 @@ title with their characters; doesn't work for & and & in prefix
 `       end`
 `   elseif ship_prefix_list[fragments[1]] then                                  -- if the first fragment is a ship prefix`
 `       name = table.remove (fragments, 1);                                     -- fetch it from the table`
-`       name = name .. " `*`"``   ``..``   ``table.concat``
- ``(fragments,``   ``'``   ``')``   ``..``
- ``"`*`";          -- assemble formatted name`
+`       name = name .. " `*`"``   ``..``   ``table.concat``   ``(fragments,``   ``'``   ``')``   ``..``   ``"`*`";          -- assemble formatted name`
 `   else`
 `       error_msg = ' no nationality or prefix;';                               -- invalid nationality and first word in ship name not a valid prefix`
 `   end`
@@ -575,9 +516,7 @@ title with their characters; doesn't work for & and & in prefix
 `           dab:match ('%(%d+[%- ]?%u+%)') or                                   -- one or more digits, optional space or hyphen, one or more uppercase letters`
 `           dab:match ('%(%u[%u%-]*%-%d+%)') or                                 -- one or more uppercase letters with hyphens, a hyphen, one or more digits (e.g., T-AO-157)`
 `           dab:match ('%([12]%d%d%d%)') then                                   -- four digits representing year in the range 1000–2999`
-`               name = "`*`"``   ``..``   ``table.concat``
- ``(fragments,``   ``'``   ``')``   ``..``
- ``"`*`";           -- format the name`
+`               name = "`*`"``   ``..``   ``table.concat``   ``(fragments,``   ``'``   ``')``   ``..``   ``"`*`";           -- format the name`
 `               if 'none' == args.dab then                                      -- for |infobox caption=nodab`
 `                   return name;                                                -- return the formatted name without the dab`
 `               end`
@@ -586,9 +525,7 @@ title with their characters; doesn't work for & and & in prefix
 `                                                                               -- last chance, is there a ship type in the dab?`
 `       for key, _ in pairs (ship_type_list) do                                 -- spin through the ship type list and see if there is a ship type (key) in the dab`
 `           if dab:find ('%f[%a]' .. key .. '%f[^%a]') then                     -- avoid matches that are not whole word`
-`               name = "`*`"``   ``..``   ``table.concat``
- ``(fragments,``   ``'``   ``')``   ``..``
- ``"`*`";           -- format the name`
+`               name = "`*`"``   ``..``   ``table.concat``   ``(fragments,``   ``'``   ``')``   ``..``   ``"`*`";           -- format the name`
 `               if 'none' == args.dab then                                      -- for |infobox caption=nodab`
 `                   return name;                                                -- return the formatted name without the dab`
 `               end`
@@ -606,8 +543,7 @@ title with their characters; doesn't work for & and & in prefix
 
 end
 
-\--\[\[-------------------------\< S H I P _ N A M E _ F O R M A T
-\>-----------------------------------------------
+\--\[\[-------------------------\< S H I P _ N A M E _ F O R M A T \>-----------------------------------------------
 
 This function is the external interface to do_ship_name_format().
 
@@ -628,17 +564,11 @@ Other optional parameters:
 `   |showerrs=yes – marginally useful; can display error messages if the module invocation is not buried in a template`
 `   `
 
-Values from the above parameters are placed in a table and that table
-passed as an argument in the call to do_ship_name_format().
+Values from the above parameters are placed in a table and that table passed as an argument in the call to do_ship_name_format().
 
-do_ship_name_format() returns two strings: a name and an error
-message. If do_ship_name_format() could format the name, it returns
-the formatted name and an empty string for the error message. If it
-could not format the name, do_ship_name_format() returns the original
-name and an error message.
+do_ship_name_format() returns two strings: a name and an error message. If do_ship_name_format() could format the name, it returns the formatted name and an empty string for the error message. If it could not format the name, do_ship_name_format() returns the original name and an error message.
 
-Formatting of the error message, in response to |showerrs=yes is the
-responsibility of the calling function.
+Formatting of the error message, in response to |showerrs=yes is the responsibility of the calling function.
 
 \]\]
 
@@ -664,11 +594,9 @@ function wpsu.ship_name_format(frame)
 
 end
 
-\--\[\[--------------------------\< H N S A
-\>----------------------------------------------------------------------
+\--\[\[--------------------------\< H N S A \>----------------------------------------------------------------------
 
-Similar to , this code supports  by attempting to construct a link to a
-ship article at the the Historic Nava Ships Association website.
+Similar to , this code supports  by attempting to construct a link to a ship article at the the Historic Nava Ships Association website.
 
 The template has the form:
 
@@ -717,9 +645,7 @@ function wpsu.hnsa (frame)
 `       if pframe.args[2] == article_title or                                   -- is name same as article title?`
 `           nil ~= article_title:find ('%f[%a]' .. escaped_name .. '%f[%s]') or -- is name a word or words substring of article title?`
 `           nil ~= article_title:find ('%f[%a]' .. escaped_name .. '$') then    -- is name a word or words substring that ends article title?`
-`               ship_name = "`*`"``   ``..``   ``pframe.args[2]``
- ``..``
- ``"`*`";                     -- non-standard 'name'; perhaps just the name without prefix and dab;`
+`               ship_name = "`*`"``   ``..``   ``pframe.args[2]``   ``..``   ``"`*`";                     -- non-standard 'name'; perhaps just the name without prefix and dab;`
 `               error_msg = '';                                                 -- unset because we think we have a name`
 `       end`
 `   end`
@@ -742,10 +668,7 @@ function wpsu.hnsa (frame)
 
 end
 
-\--[--------------------------\< N A V S O U R C E
-\>------------------------------------------------------------ This
-version of the template {{navsource}} was added as a test vehicle for
-do_ship_name_format().](https://zh.wikipedia.org/wiki/--------------------------\<_N_A_V_S_O_U_R_C_E_\>------------------------------------------------------------_This_version_of_the_template_{{navsource}}_was_added_as_a_test_vehicle_for_do_ship_name_format\(\). "wikilink")
+\--[--------------------------\< N A V S O U R C E \>------------------------------------------------------------ This version of the template {{navsource}} was added as a test vehicle for do_ship_name_format().](https://zh.wikipedia.org/wiki/--------------------------\<_N_A_V_S_O_U_R_C_E_\>------------------------------------------------------------_This_version_of_the_template_{{navsource}}_was_added_as_a_test_vehicle_for_do_ship_name_format\(\). "wikilink")
 
 function wpsu.navsource (frame)
 
@@ -779,9 +702,7 @@ function wpsu.navsource (frame)
 `       if pframe.args[2] == article_title or                                   -- is name same as article title?`
 `           nil ~= article_title:find ('%f[%a]' .. escaped_name .. '%f[%s]') or -- is name a word or words substring of article title?`
 `           nil ~= article_title:find ('%f[%a]' .. escaped_name .. '$') then    -- is name a word or words substring that ends article title?`
-`               ship_name = "`*`"``   ``..``   ``pframe.args[2]``
- ``..``
- ``"`*`";                     -- non-standard 'name'; perhaps just the name without prefix and dab;`
+`               ship_name = "`*`"``   ``..``   ``pframe.args[2]``   ``..``   ``"`*`";                     -- non-standard 'name'; perhaps just the name without prefix and dab;`
 `               error_msg = '';                                                 -- unset because we think we have a name`
 `       end`
 `   end`
@@ -804,11 +725,7 @@ function wpsu.navsource (frame)
 
 end
 
-\--[--------------------------\< _ S H I P
-\>--------------------------------------------------------------------
-This is a possible replacement for the template {{ship}}. It has better
-error detection and
-handling.](https://zh.wikipedia.org/wiki/--------------------------\<_S_H_I_P_\>--------------------------------------------------------------------_This_is_a_possible_replacement_for_the_template_{{ship}}._It_has_better_error_detection_and_handling. "wikilink")
+\--[--------------------------\< _ S H I P \>-------------------------------------------------------------------- This is a possible replacement for the template {{ship}}. It has better error detection and handling.](https://zh.wikipedia.org/wiki/--------------------------\<_S_H_I_P_\>--------------------------------------------------------------------_This_is_a_possible_replacement_for_the_template_{{ship}}._It_has_better_error_detection_and_handling. "wikilink")
 
 local function _ship (prefix, name, dab, control, unlinked_prefix)
 
@@ -839,20 +756,13 @@ local function _ship (prefix, name, dab, control, unlinked_prefix)
 `   end`
 `   `
 `   local link_name;`
-`   local link = '`[`'``   ``..``   ``link_name``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/';_if_is_set_\(prefix\)_then_link_=_link_.._prefix_.._'_'_.._name;_--_begin_assembling_the_article_name_portion_of_the_wikilink_else_link_=_link_.._name;_end_if_is_set_\(dab\)_then_link_=_link_.._'_\('_.._dab_.._'\)';_--_wrap_dab_in_parentheses_end_name_=_"''"_.._name_.._"''";_--_name_is_always_italicized_so_do_it_now_if_'1'_==_control_then_link_name_=_dab;_--_special_case_when_displaying_only_the_dab,_don't_wrap_in_parentheses_end_if_is_set_\(dab\)_then_dab_=_'_\('_.._dab_.._'\)';_--_for_all_other_cases_that_display_dab_end_if_not_is_set_\(control\)_then_--_when_control_not_set:_prefix,_name,_and_dab_if_unlinked_prefix_then_--_'unlinked_prefix'?_link_=_prefix_.._'_'_.._link;_--_yes,_modify_link_so_that_prefix_is_not_linked_in_final_render_link_name_=_name_.._dab;_elseif_is_set_\(prefix\)_then_link_name_=_prefix_.._'_'_.._name_.._dab;_else_link_name_=_name_.._dab;_end_else_--_when_control_is_not_1_or_none_if_'2'_==_control_then_--_name_only_link_name_=_name;_elseif_'3'_==_control_then_--_name_and_dab_link_name_=_name_.._dab;_elseif_'5'_==_control_then_--_prefix_and_dab_if_unlinked_prefix_then_--_'unlinked_prefix'?_link_=_prefix_.._'_'_.._link;_--_yes,_modify_link_so_that_prefix_is_not_linked_in_final_render_link_name_=_dab;_else_link_name_=_prefix_.._dab;_end_elseif_'6'_==_control_then_--_prefix_and_name_if_unlinked_prefix_then_--_'unlinked_prefix'?_link_=_prefix_.._'_'_.._link;_--_yes,_modify_link_so_that_prefix_is_not_linked_in_final_render_link_name_=_name;_else_link_name_=_prefix_.._'_'_.._name;_end_end_end_return_link_.._' "wikilink")`';`
+`   local link = '`[`'``   ``..``   ``link_name``   ``..``   ``'`](https://zh.wikipedia.org/wiki/';_if_is_set_\(prefix\)_then_link_=_link_.._prefix_.._'_'_.._name;_--_begin_assembling_the_article_name_portion_of_the_wikilink_else_link_=_link_.._name;_end_if_is_set_\(dab\)_then_link_=_link_.._'_\('_.._dab_.._'\)';_--_wrap_dab_in_parentheses_end_name_=_"''"_.._name_.._"''";_--_name_is_always_italicized_so_do_it_now_if_'1'_==_control_then_link_name_=_dab;_--_special_case_when_displaying_only_the_dab,_don't_wrap_in_parentheses_end_if_is_set_\(dab\)_then_dab_=_'_\('_.._dab_.._'\)';_--_for_all_other_cases_that_display_dab_end_if_not_is_set_\(control\)_then_--_when_control_not_set:_prefix,_name,_and_dab_if_unlinked_prefix_then_--_'unlinked_prefix'?_link_=_prefix_.._'_'_.._link;_--_yes,_modify_link_so_that_prefix_is_not_linked_in_final_render_link_name_=_name_.._dab;_elseif_is_set_\(prefix\)_then_link_name_=_prefix_.._'_'_.._name_.._dab;_else_link_name_=_name_.._dab;_end_else_--_when_control_is_not_1_or_none_if_'2'_==_control_then_--_name_only_link_name_=_name;_elseif_'3'_==_control_then_--_name_and_dab_link_name_=_name_.._dab;_elseif_'5'_==_control_then_--_prefix_and_dab_if_unlinked_prefix_then_--_'unlinked_prefix'?_link_=_prefix_.._'_'_.._link;_--_yes,_modify_link_so_that_prefix_is_not_linked_in_final_render_link_name_=_dab;_else_link_name_=_prefix_.._dab;_end_elseif_'6'_==_control_then_--_prefix_and_name_if_unlinked_prefix_then_--_'unlinked_prefix'?_link_=_prefix_.._'_'_.._link;_--_yes,_modify_link_so_that_prefix_is_not_linked_in_final_render_link_name_=_name;_else_link_name_=_prefix_.._'_'_.._name;_end_end_end_return_link_.._' "wikilink")`';`
 
 end
 
-\--[--------------------------\< W P S U . S H I P
-\>------------------------------------------------------------ This is a
-possible replacement for the template {{ship}}. It has better error
-detection and handling. This function is the externally accessible entry
-point for template {{ship}}, {{HMS}}, {{USS}},
-etc](https://zh.wikipedia.org/wiki/--------------------------\<_W_P_S_U_._S_H_I_P_\>------------------------------------------------------------_This_is_a_possible_replacement_for_the_template_{{ship}}._It_has_better_error_detection_and_handling._This_function_is_the_externally_accessible_entry_point_for_template_{{ship}},_{{HMS}},_{{USS}},_etc "wikilink")
+\--[--------------------------\< W P S U . S H I P \>------------------------------------------------------------ This is a possible replacement for the template {{ship}}. It has better error detection and handling. This function is the externally accessible entry point for template {{ship}}, {{HMS}}, {{USS}}, etc](https://zh.wikipedia.org/wiki/--------------------------\<_W_P_S_U_._S_H_I_P_\>------------------------------------------------------------_This_is_a_possible_replacement_for_the_template_{{ship}}._It_has_better_error_detection_and_handling._This_function_is_the_externally_accessible_entry_point_for_template_{{ship}},_{{HMS}},_{{USS}},_etc "wikilink")
 
-function wpsu.ship (frame) -- this version not supported from the
-template yet
+function wpsu.ship (frame) -- this version not supported from the template yet
 
 `   local prefix = mw.text.trim (frame.args[1] or '');                          -- fetch positional parameters into named variables for readability`
 `   local name =  mw.text.trim (frame.args[2] or '');                           -- stripped of leading and trailing whitespace `
@@ -864,21 +774,7 @@ template yet
 
 end
 
-\--[--------------------------\< L I S T _ E R R O R
-\>---------------------------------------------------------- Assembles
-an error message, the original parameter value and, if appropriate a
-category. The error message precedes the existing value of the
-parameter. If the first non-whitespace character in the parameter is a
-'\*', set prefix to a '\*' and sep to '\\n'. For line-break lists, set
-prefix to empty string and sep to '\<br /\>'. Category is appended to
-the end of the returned value only for pages in article space. Inputs:
-prefix – a string of characters that precede the error message span;
-typically '' and '\*' message – the error message to be displayed; goes
-inside the span sep – a string of characters that separates the span
-from the parameter value; typically '\\n' and '\<br /\>' param_val –
-the unmodified parameter value showerrs – a boolean, true to display the
-error message
-text](https://zh.wikipedia.org/wiki/--------------------------\<_L_I_S_T_E_R_R_O_R_\>----------------------------------------------------------_Assembles_an_error_message,_the_original_parameter_value_and,_if_appropriate_a_category._The_error_message_precedes_the_existing_value_of_the_parameter._If_the_first_non-whitespace_character_in_the_parameter_is_a_'*',_set_prefix_to_a_'*'_and_sep_to_'\\n'._For_line-break_lists,_set_prefix_to_empty_string_and_sep_to_'\<br_/\>'._Category_is_appended_to_the_end_of_the_returned_value_only_for_pages_in_article_space._Inputs:_prefix_–_a_string_of_characters_that_precede_the_error_message_span;_typically_''_and_'*'_message_–_the_error_message_to_be_displayed;_goes_inside_the_span_sep_–_a_string_of_characters_that_separates_the_span_from_the_parameter_value;_typically_'\\n'_and_'\<br_/\>'_param_val_–_the_unmodified_parameter_value_showerrs_–_a_boolean,_true_to_display_the_error_message_text "wikilink")
+\--[--------------------------\< L I S T _ E R R O R \>---------------------------------------------------------- Assembles an error message, the original parameter value and, if appropriate a category. The error message precedes the existing value of the parameter. If the first non-whitespace character in the parameter is a '\*', set prefix to a '\*' and sep to '\\n'. For line-break lists, set prefix to empty string and sep to '\<br /\>'. Category is appended to the end of the returned value only for pages in article space. Inputs: prefix – a string of characters that precede the error message span; typically '' and '\*' message – the error message to be displayed; goes inside the span sep – a string of characters that separates the span from the parameter value; typically '\\n' and '\<br /\>' param_val – the unmodified parameter value showerrs – a boolean, true to display the error message text](https://zh.wikipedia.org/wiki/--------------------------\<_L_I_S_T_E_R_R_O_R_\>----------------------------------------------------------_Assembles_an_error_message,_the_original_parameter_value_and,_if_appropriate_a_category._The_error_message_precedes_the_existing_value_of_the_parameter._If_the_first_non-whitespace_character_in_the_parameter_is_a_'*',_set_prefix_to_a_'*'_and_sep_to_'\\n'._For_line-break_lists,_set_prefix_to_empty_string_and_sep_to_'\<br_/\>'._Category_is_appended_to_the_end_of_the_returned_value_only_for_pages_in_article_space._Inputs:_prefix_–_a_string_of_characters_that_precede_the_error_message_span;_typically_''_and_'*'_message_–_the_error_message_to_be_displayed;_goes_inside_the_span_sep_–_a_string_of_characters_that_separates_the_span_from_the_parameter_value;_typically_'\\n'_and_'\<br_/\>'_param_val_–_the_unmodified_parameter_value_showerrs_–_a_boolean,_true_to_display_the_error_message_text "wikilink")
 
 local function list_error (prefix, message, sep, param_val, showerrs)
 
@@ -896,15 +792,11 @@ local function list_error (prefix, message, sep, param_val, showerrs)
 
 end
 
-\--\[\[--------------------------\< I N F O B O X _ L I S T S
-\>----------------------------------------------------
+\--\[\[--------------------------\< I N F O B O X _ L I S T S \>----------------------------------------------------
 
-Mediawiki:Common.css imposes limitations on plain, unbulleted lists. The
-template  does not render this correctly:  The above renders without
-proper indents for items marked \*\* and \*\*\*.
+Mediawiki:Common.css imposes limitations on plain, unbulleted lists. The template  does not render this correctly:  The above renders without proper indents for items marked \*\* and \*\*\*.
 
-If the list is not wrapped in  then the above list is rendered with
-bullets which is contrary to the Infobox ship usage guide.
+If the list is not wrapped in  then the above list is rendered with bullets which is contrary to the Infobox ship usage guide.
 
 This code translates a bulleted list into an html unordered list:
 
@@ -943,11 +835,7 @@ There are rules:
 `       *item`
 `       ***item`
 
-When any of these rules are violated, wpsu.unbulleted_list() returns
-the original text and adds the article to Category:WPSHIPS:Infobox list
-errors. Error messaging in this function is somewhat sketchy so they are
-disabled. After initial adoption, better error messaging could/should be
-implemented.
+When any of these rules are violated, wpsu.unbulleted_list() returns the original text and adds the article to Category:WPSHIPS:Infobox list errors. Error messaging in this function is somewhat sketchy so they are disabled. After initial adoption, better error messaging could/should be implemented.
 
 This function receives the content of one parameter:
 
@@ -962,8 +850,7 @@ function wpsu.unbulleted_list (frame)
 
 <li style="padding-left: .4em; text-indent: -.4em;">
 
-'; -- hanging indent markup; everything moves right with padding-left;
-first line moved left by neg indent
+'; -- hanging indent markup; everything moves right with padding-left; first line moved left by neg indent
 
 `   if nil == frame.args[1]:match ('^%s*%*') then                               -- parameter value must begin with a splat (ignoring leading white space)`
 `       if frame.args[1]:match ('<[%s/]*[Bb][Rr][%s/]*>') then                  -- if the parameter value has a list using variants of `
@@ -1071,8 +958,7 @@ until level counted down to zero
 
 end
 
-\--\[=\[-------------------------\< I N F O B O X _ S H I P _ F L A G
-\>--------------------------------------------
+\--\[=\[-------------------------\< I N F O B O X _ S H I P _ F L A G \>--------------------------------------------
 
 Output of :
 
@@ -1083,11 +969,7 @@ Image syntax:
 
 `   `[`Type`](https://zh.wikipedia.org/wiki/File:Name "fig:Type")
 
-This function standardizes the size of flag images in the infobox ship
-career header by simply overwriting the Size parameter value in the
-Image wikilink with |100x28px. This size leave a 1px gap between the top
-and bottom of the flag image and the header edge. A similar left-side
-gap of 2px is supplied by .
+This function standardizes the size of flag images in the infobox ship career header by simply overwriting the Size parameter value in the Image wikilink with |100x28px. This size leave a 1px gap between the top and bottom of the flag image and the header edge. A similar left-side gap of 2px is supplied by .
 
 \]=\]
 

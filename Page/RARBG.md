@@ -28,8 +28,7 @@ RARBG在以下国家受到屏蔽：
 ## 外部链接
 
   -
-[Category:BitTorrent網站](https://zh.wikipedia.org/wiki/Category:BitTorrent網站 "wikilink")
-[Category:2008年建立的网站](https://zh.wikipedia.org/wiki/Category:2008年建立的网站 "wikilink")
+[Category:BitTorrent網站](https://zh.wikipedia.org/wiki/Category:BitTorrent網站 "wikilink") [Category:2008年建立的网站](https://zh.wikipedia.org/wiki/Category:2008年建立的网站 "wikilink")
 
 1.
 2.

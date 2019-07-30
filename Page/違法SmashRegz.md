@@ -133,9 +133,6 @@
   -
   -
   -
-[Category:台灣饒舌歌手](https://zh.wikipedia.org/wiki/Category:台灣饒舌歌手 "wikilink")
-[Category:台灣嘻哈歌手](https://zh.wikipedia.org/wiki/Category:台灣嘻哈歌手 "wikilink")
-[Category:台灣嘻哈音樂家](https://zh.wikipedia.org/wiki/Category:台灣嘻哈音樂家 "wikilink")
-[Category:團體](https://zh.wikipedia.org/wiki/Category:團體 "wikilink")
+[Category:台灣饒舌歌手](https://zh.wikipedia.org/wiki/Category:台灣饒舌歌手 "wikilink") [Category:台灣嘻哈歌手](https://zh.wikipedia.org/wiki/Category:台灣嘻哈歌手 "wikilink") [Category:台灣嘻哈音樂家](https://zh.wikipedia.org/wiki/Category:台灣嘻哈音樂家 "wikilink") [Category:團體](https://zh.wikipedia.org/wiki/Category:團體 "wikilink")
 
 1.

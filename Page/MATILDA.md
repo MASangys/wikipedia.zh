@@ -1,15 +1,11 @@
-''' MATILDA '''（）為 [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink") BOX
-Media旗下的一組
-[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，是由Haena、Dan-A、Semmi、SaeByeol四名成員組成，於2016年3月17號以《Macarena》一曲正式出道，18日在KBS《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》上初亮相，以《Macarena》表演出道舞台。
-隊名MATILDA，是在電影[Léon](https://zh.wikipedia.org/wiki/Léon "wikilink")
-（終極追殺令）中，自信又聰明的角色Matilda上獲得的靈感。Matilda雖然小，但堅強又勇敢的意思去命名。\[1\]
+''' MATILDA '''（）為 [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink") BOX Media旗下的一組 [女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，是由Haena、Dan-A、Semmi、SaeByeol四名成員組成，於2016年3月17號以《Macarena》一曲正式出道，18日在KBS《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》上初亮相，以《Macarena》表演出道舞台。
+隊名MATILDA，是在電影[Léon](https://zh.wikipedia.org/wiki/Léon "wikilink") （終極追殺令）中，自信又聰明的角色Matilda上獲得的靈感。Matilda雖然小，但堅強又勇敢的意思去命名。\[1\]
 
 ## 簡歷
 
 ### 出道前
 
-海娜是在2014年推出的四人女子團體[Kiss\&Cry的成員](../Page/Kiss&Cry.md "wikilink")，其後退出。海娜曾在2014年參與《[SUPER
-STAR K](../Page/SUPER_STAR_K.md "wikilink")6》。
+海娜是在2014年推出的四人女子團體[Kiss\&Cry](../Page/Kiss&Cry.md "wikilink")的成員，其後退出。海娜曾在2014年參與《[SUPER STAR K](../Page/SUPER_STAR_K.md "wikilink")6》。
 
 ### 出道後
 
@@ -17,13 +13,9 @@ STAR K](../Page/SUPER_STAR_K.md "wikilink")6》。
 
 2016年7月6日發行第二張單曲"Summer Again"。
 
-2016年10月19日在首爾麻浦區弘大YES24 Muv Hall 舉辦出道首場showcase，發行第三張單曲"넌 Bad 날 울리지마
-你是Bad
-別讓我哭"。[1](http://enews24.interest.me/news/article.asp?nsID=1114965)
+2016年10月19日在首爾麻浦區弘大YES24 Muv Hall 舉辦出道首場showcase，發行第三張單曲"넌 Bad 날 울리지마 你是Bad 別讓我哭"。[1](http://enews24.interest.me/news/article.asp?nsID=1114965)
 
-2017年10月28日[The Unit開播](../Page/The_Unit.md "wikilink")，海娜(3 Boot)、丹雅(4
-Boot)、世美(4 Boot)、賽星(2
-Boot)入選，賽星第7集淘汰，最終排名49名；海娜第10集淘汰，最終排名40名；丹雅和世美進入決賽，丹雅最終排名14名，世美意外落馬，排名從第2名下降到13名，無緣出道。
+2017年10月28日[The Unit開播](../Page/The_Unit.md "wikilink")，海娜(3 Boot)、丹雅(4 Boot)、世美(4 Boot)、賽星(2 Boot)入選，賽星第7集淘汰，最終排名49名；海娜第10集淘汰，最終排名40名；丹雅和世美進入決賽，丹雅最終排名14名，世美意外落馬，排名從第2名下降到13名，無緣出道。
 
 ## 成員資料
 
@@ -107,7 +99,7 @@ Boot)入選，賽星第7集淘汰，最終排名49名；海娜第10集淘汰，�
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>《''' <a href="../Page/爸爸，我來伺候你.md" title="wikilink">爸爸，我來伺候你OST</a> Part. 3 '''》</p>
+<td><p>《''' <a href="../Page/爸爸，我來伺候你.md" title="wikilink">爸爸，我來伺候你</a>OST Part. 3 '''》</p>
 <ul>
 <li>發行日期：2016年11月26日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
@@ -666,12 +658,6 @@ Boot)入選，賽星第7集淘汰，最終排名49名；海娜第10集淘汰，�
       -
       -
       -
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
+[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 
-1.  [MATILDA 夏天下定了絕心
-    四人四色魅力"超了不起"](http://star.mk.co.kr/new/view.php?mc=ST&no=539479&year=2016)
-    2016年7月28日
+1.  [MATILDA 夏天下定了絕心 四人四色魅力"超了不起"](http://star.mk.co.kr/new/view.php?mc=ST&no=539479&year=2016) 2016年7月28日

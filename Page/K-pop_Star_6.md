@@ -15,8 +15,7 @@
 
 ## 公司分組對抗
 
-由各公司選的選手，進行一對一的比賽，第一名為TOP10，第二名需進行第二名再對抗，第三名淘汰 （YG vs JYP vs Antenna
-Music）
+由各公司選的選手，進行一對一的比賽，第一名為TOP10，第二名需進行第二名再對抗，第三名淘汰 （YG vs JYP vs Antenna Music）
 
 | 分組   | 第一名 (TOP 10)                   | 第二名 (再對抗)                                                                                                                                           | 第三名 (淘汰) |
 | ---- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
@@ -76,11 +75,7 @@ Music）
 
 ## 外部連結
 
-  - （韓文） [*K-pop Star 6* Official
-    Homepage](http://program.sbs.co.kr/dynamic/programMainList.do?pgm_id=22000007885)
+  - （韓文） [*K-pop Star 6* Official Homepage](http://program.sbs.co.kr/dynamic/programMainList.do?pgm_id=22000007885)
   - （韓文）
 
-[Category:韩国音乐比赛](https://zh.wikipedia.org/wiki/Category:韩国音乐比赛 "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
+[Category:韩国音乐比赛](https://zh.wikipedia.org/wiki/Category:韩国音乐比赛 "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")

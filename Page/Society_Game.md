@@ -1,9 +1,7 @@
-《**Society
-Game**》（），是韓國[TVN電視台的心理戰遊戲綜藝節目](../Page/TVN.md "wikilink")\[1\]，此節目由心理戰遊戲綜藝節目《[The
-Genius](../Page/The_Genius.md "wikilink")》的導演[鄭中淵擔任導演](https://zh.wikipedia.org/wiki/鄭中淵 "wikilink")\[2\]。由製作單位挑選22名參賽者\[3\]一起合宿2周，期間有許多遊戲將會進行。生存到最後的玩家最多可獲得一億五千萬韓圓獎金。
+《**Society Game**》（），是韓國[TVN](../Page/TVN.md "wikilink")電視台的心理戰遊戲綜藝節目\[1\]，此節目由心理戰遊戲綜藝節目《[The Genius](../Page/The_Genius.md "wikilink")》的導演[鄭中淵擔任導演](https://zh.wikipedia.org/wiki/鄭中淵 "wikilink")\[2\]。由製作單位挑選22名參賽者\[3\]一起合宿2周，期間有許多遊戲將會進行。生存到最後的玩家最多可獲得一億五千萬韓圓獎金。
 
 除此之外，製作單位亦會於進行中增加改變之設定(詳見下方特殊事件)，使村莊結構有所改變。
-第一季2016年6月起，第二季2017年5月21日皆有於網上募集參賽者\[4\]，而於同年8月25日起播出第二季，參賽者將包含笑星[張東民等](../Page/張東民.md "wikilink")22人參與\[5\]\[6\]。
+第一季2016年6月起，第二季2017年5月21日皆有於網上募集參賽者\[4\]，而於同年8月25日起播出第二季，參賽者將包含笑星[張東民](../Page/張東民.md "wikilink")等22人參與\[5\]\[6\]。
 
 ## 節目形式
 
@@ -274,7 +272,7 @@ Genius](../Page/The_Genius.md "wikilink")》的導演[鄭中淵擔任導演](htt
 <tr class="odd">
 <td><p>金會吉</p></td>
 <td><p>김회길</p></td>
-<td><p>健美模特、韓國陸軍士官學校畢業、<a href="../Page/龍仁大學.md" title="wikilink">龍仁大學學士</a></p></td>
+<td><p>健美模特、韓國陸軍士官學校畢業、<a href="../Page/龍仁大學.md" title="wikilink">龍仁大學</a>學士</p></td>
 </tr>
 <tr class="even">
 <td><p>朴賢碩</p></td>
@@ -289,7 +287,7 @@ Genius](../Page/The_Genius.md "wikilink")》的導演[鄭中淵擔任導演](htt
 <tr class="even">
 <td><p>孫泰浩</p></td>
 <td><p>손태호</p></td>
-<td><p>前PD，目前待業中，<a href="../Page/高麗大學.md" title="wikilink">高麗大學學士</a>。</p></td>
+<td><p>前PD，目前待業中，<a href="../Page/高麗大學.md" title="wikilink">高麗大學</a>學士。</p></td>
 </tr>
 <tr class="odd">
 <td><p>金荷娜</p></td>
@@ -431,8 +429,7 @@ Genius](../Page/The_Genius.md "wikilink")》的導演[鄭中淵擔任導演](htt
 
 1.  各村選出3位跑者於跑步機上跑步。
 2.  剩下村民輪流對目標板投球。
-3.  當己方村落擊落一枚目標板時，可指定對手村落某一台跑步機加速（跑步機速度有七段，分別為8、10、12、13、14、15與16
-    km/h），但必須要於10秒內決定，不然決定權將落到對手村手上。
+3.  當己方村落擊落一枚目標板時，可指定對手村落某一台跑步機加速（跑步機速度有七段，分別為8、10、12、13、14、15與16 km/h），但必須要於10秒內決定，不然決定權將落到對手村手上。
 4.  若3名跑者都淘汰則成為失敗村（或最後剩下較多跑者的村落獲勝）。
 
 <!-- end list -->
@@ -510,8 +507,7 @@ Genius](../Page/The_Genius.md "wikilink")》的導演[鄭中淵擔任導演](htt
 \*第十四天村落對抗遊戲(最終回合)：**不屈的跑者Ⅱ**
 
 1.  負責體力領域的村民擔任跑者，站在靜止不動的跑步機上。
-    備註：該跑步機一開始速度為零，後續的速度等級各自分別為4、6、8、10、11、12、13、14、15、16
-    km/hr，若升至16km/hr後將不會再上升。
+    備註：該跑步機一開始速度為零，後續的速度等級各自分別為4、6、8、10、11、12、13、14、15、16 km/hr，若升至16km/hr後將不會再上升。
 2.  負責智力領域的村民，將螢幕公開的數字與算符排列成等號成立之算式；或將螢幕公開的文字，排列成通順之句子。排完後以抓住木棒的方式進行搶答。
     備註：回答時，需用數字、算符或文字下方的英文代碼回答，而非直接講出答案。
 3.  若對方回答出正確答案，則己方負責感官領域的村民，需在僅有一次投環機會的投擲遊戲中，將環順利投入指定之木棒中，則負責體力領域的村民之跑步機將維持原本的速度；若未將環投進指定的木棒中，則跑步機的速度將會提升一級。
@@ -1361,8 +1357,7 @@ Pharoh：0票</p></td>
   - 製作單位於第四集開放村民交換(因無人自願，雙方領導者自行指定：馬村韓星←→高村Oliver張)；第十集馬村權雅率←→高村黃仁善
   - 第五集馬村第二次叛亂（由李慧星發起）時，當時的領導者楊尚國亦前往敲鑼（希望能讓自己下台）。
   - 第八集馬村叛亂（由李秉觀發起）時，當時的領導者李慧星亦前往敲鑼（希望能讓自己下台）。
-  - 第十一集馬村縣慶烈叛亂成功後，鄭仁職即時再次叛亂；同時高村於早上領導者選舉時，村民Pharoh
-    使用「領導者的名牌」之道具，故於當集直接成為高村領導者。
+  - 第十一集馬村縣慶烈叛亂成功後，鄭仁職即時再次叛亂；同時高村於早上領導者選舉時，村民Pharoh 使用「領導者的名牌」之道具，故於當集直接成為高村領導者。
   - 第十二集馬村進決賽之三位村民共同協議，讓縣慶烈以馬村領導者頭銜入場，因此讓縣慶烈使用額外的「叛亂的鑰匙」，並成功叛亂。
 
 ### 第二季
@@ -2228,14 +2223,11 @@ Pharoh<br />
 
   - : 第六天，高村開放彩票球機，高村Macho尹獲得500萬元，Pharoh則失去100萬元，其他村民沒有改變。
 
-  - :
-    第七天，因馬村熱身賽勝利，而於馬村開放監獄，只要關一名村民進去，即可每小時獲得100萬韓元，最多可關10小時(即最多獲得1000萬韓元)，而獲得獎金由馬村領導者分配。
+  - : 第七天，因馬村熱身賽勝利，而於馬村開放監獄，只要關一名村民進去，即可每小時獲得100萬韓元，最多可關10小時(即最多獲得1000萬韓元)，而獲得獎金由馬村領導者分配。
 
-  - :
-    第八天舉辦特別拍賣，村民將可用自己獲得得獎金參與拍賣活動，拍賣價從100萬韓元開始，每次喊價將以100萬韓元增長。最後高村尹Macho以200萬元中標。
+  - : 第八天舉辦特別拍賣，村民將可用自己獲得得獎金參與拍賣活動，拍賣價從100萬韓元開始，每次喊價將以100萬韓元增長。最後高村尹Macho以200萬元中標。
 
-  - :
-    第十一天因天氣預報會下雨，所以沒有民主選舉、對抗遊戲、叛亂等，同時熄燈前將不限制任何村民進入領導者的房間。此外，午餐由製作單位無條件提供拉麵給全部的參賽者。
+  - : 第十一天因天氣預報會下雨，所以沒有民主選舉、對抗遊戲、叛亂等，同時熄燈前將不限制任何村民進入領導者的房間。此外，午餐由製作單位無條件提供拉麵給全部的參賽者。
 
   - : 馬村因尚剩五位村民，因此必需由馬村領導者決定淘汰2位村民後，剩下3位村民方可進入決賽。
 
@@ -2940,20 +2932,12 @@ Yury<br />
 
   - \[7\]
 
-[Category:TvN](https://zh.wikipedia.org/wiki/Category:TvN "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:TvN](https://zh.wikipedia.org/wiki/Category:TvN "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
-1.  [全新益智節目《SOCIETY GAME》海報公開
-    模擬社會鬥智鬥勇](http://www.allthatstar.com/tw/view.php?action=5211&postID=267790)
-2.  [《SOCIETY GAME》導演談《The Genius》
-    正面回應昔日爭議](http://www.allthatstar.com/tw/view.php?action=5211&postID=281261)
-3.  [《SOCIETY GAME》導演曝出演者選拔標準：與《The
-    Genius》相似](http://www.allthatstar.com/tw/view.php?action=5211&postID=281282)
+1.  [全新益智節目《SOCIETY GAME》海報公開 模擬社會鬥智鬥勇](http://www.allthatstar.com/tw/view.php?action=5211&postID=267790)
+2.  [《SOCIETY GAME》導演談《The Genius》 正面回應昔日爭議](http://www.allthatstar.com/tw/view.php?action=5211&postID=281261)
+3.  [《SOCIETY GAME》導演曝出演者選拔標準：與《The Genius》相似](http://www.allthatstar.com/tw/view.php?action=5211&postID=281282)
 4.  [tvN制作“Society Game”第2季 8月播出](http://kpophui.com/news/24397.html)
-5.  [고우리, ‘소사이어티 게임2’ 출연…22명 포스터
-    공개](http://news.mk.co.kr/newsRead.php?year=2017&no=521180)
-6.  [張東民加盟《SOCIETY GAME》
-    其餘出演人員日後公開](http://www.allthatstar.com/tw/view.php?action=5205&postID=350603)
-7.  \[<http://news.joins.com/article/21831505> '음주운전' 구새봄 아나, 인스타그램 사진 다
-    지우고 남긴 글
+5.  [고우리, ‘소사이어티 게임2’ 출연…22명 포스터 공개](http://news.mk.co.kr/newsRead.php?year=2017&no=521180)
+6.  [張東民加盟《SOCIETY GAME》 其餘出演人員日後公開](http://www.allthatstar.com/tw/view.php?action=5205&postID=350603)
+7.  \[<http://news.joins.com/article/21831505> '음주운전' 구새봄 아나, 인스타그램 사진 다 지우고 남긴 글

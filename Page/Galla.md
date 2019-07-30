@@ -6,9 +6,7 @@
     **[主唱](../Page/歌手.md "wikilink")**
       -
         **麻田響也（）**
-        出身於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[神戶市](https://zh.wikipedia.org/wiki/神戶市 "wikilink")[長田區](../Page/長田區.md "wikilink")。後改名「」，目前從事廣播節目DJ和[音樂劇演員的工作](../Page/音樂劇.md "wikilink")。並唱過「[幪面超人劍](https://zh.wikipedia.org/wiki/幪面超人劍 "wikilink")」的形象歌曲「Never
-        too
-        late」和「[押忍！戰鬥！應援團](../Page/押忍！戰鬥！應援團.md "wikilink")」的翻唱歌曲、「」的主題歌曲「空色軌跡」。
+        出身於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[神戶市](https://zh.wikipedia.org/wiki/神戶市 "wikilink")[長田區](../Page/長田區.md "wikilink")。後改名「」，目前從事廣播節目DJ和[音樂劇](../Page/音樂劇.md "wikilink")演員的工作。並唱過「[幪面超人劍](https://zh.wikipedia.org/wiki/幪面超人劍 "wikilink")」的形象歌曲「Never too late」和「[押忍！戰鬥！應援團](../Page/押忍！戰鬥！應援團.md "wikilink")」的翻唱歌曲、「」的主題歌曲「空色軌跡」。
 
 <!-- end list -->
 
@@ -16,8 +14,7 @@
     **[吉他](../Page/吉他.md "wikilink")**
       -
         **田中雄二（）**
-        出身於[東京都](../Page/東京都.md "wikilink")[江東區](https://zh.wikipedia.org/wiki/江東區 "wikilink")\[1\]。目前以個人樂團「KOHAK」自由參與「OUT
-        OF MIND」等樂團的音樂活動。
+        出身於[東京都](../Page/東京都.md "wikilink")[江東區](https://zh.wikipedia.org/wiki/江東區 "wikilink")\[1\]。目前以個人樂團「KOHAK」自由參與「OUT OF MIND」等樂團的音樂活動。
 
 <!-- end list -->
 
@@ -204,11 +201,7 @@ Galla的成員是由4位男性所組成，1995年組團時名為GALA，1998年�
 
   -
 
-[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink")
-[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
-[Category:1995年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1995年成立的音樂團體 "wikilink")
-[Category:2000年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2000年解散的音樂團體 "wikilink")
-[Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink")
+[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:1995年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1995年成立的音樂團體 "wikilink") [Category:2000年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2000年解散的音樂團體 "wikilink") [Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink")
 
 1.  於樂團的官方網站稱出身於三鷹市。
 2.  於樂團的官方網站稱出身於名古屋市。

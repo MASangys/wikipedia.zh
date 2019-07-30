@@ -1,4 +1,4 @@
-**Mikani型**（**ミカニ**）是[朝鲜总督府铁道配置的一种采用](../Page/朝鲜总督府铁道.md "wikilink")[2-8-2轮式配置的](../Page/2-8-2.md "wikilink")[煤水车式](https://zh.wikipedia.org/wiki/煤水车 "wikilink")[蒸汽机车](https://zh.wikipedia.org/wiki/蒸汽机车 "wikilink")。该款机车与[Mikai型](../Page/朝鲜总督府铁道Mikai型蒸汽机车.md "wikilink")（ミカイ）均由朝鲜总督府铁道于1919年由美国订购。
+**Mikani型**（**ミカニ**）是[朝鲜总督府铁道](../Page/朝鲜总督府铁道.md "wikilink")配置的一种采用[2-8-2](../Page/2-8-2.md "wikilink")轮式配置的[煤水车式](https://zh.wikipedia.org/wiki/煤水车 "wikilink")[蒸汽机车](https://zh.wikipedia.org/wiki/蒸汽机车 "wikilink")。该款机车与[Mikai型](../Page/朝鲜总督府铁道Mikai型蒸汽机车.md "wikilink")（ミカイ）均由朝鲜总督府铁道于1919年由美国订购。
 
 ## 概况
 
@@ -8,10 +8,9 @@
 
 ## 战后运用情况
 
-[第二次世界大战结束后](../Page/第二次世界大战.md "wikilink")，朝鲜铁道省和韩国铁道厅接收了此款机车。朝鲜铁道省将原鲜铁ミカニ型编为**미가두**（Migadu），后改为**6200系列**；韩国铁道厅将原鲜铁ミカニ型编为**미카2**（Mika2）
-。然而各自接收的具体数量不明。
+[第二次世界大战](../Page/第二次世界大战.md "wikilink")结束后，朝鲜铁道省和韩国铁道厅接收了此款机车。朝鲜铁道省将原鲜铁ミカニ型编为**미가두**（Migadu），后改为**6200系列**；韩国铁道厅将原鲜铁ミカニ型编为**미카2**（Mika2） 。然而各自接收的具体数量不明。
 
-目前已知的一辆原鲜铁ミカニ型机车为ミカニ2。该机车在二战结束后被朝鲜铁道省编为미가두4，但毁于[朝鲜战争期间](../Page/朝鲜战争.md "wikilink")，后被[美国陆军带往韩国拆除零件](../Page/美国陆军.md "wikilink")。\[3\]
+目前已知的一辆原鲜铁ミカニ型机车为ミカニ2。该机车在二战结束后被朝鲜铁道省编为미가두4，但毁于[朝鲜战争](../Page/朝鲜战争.md "wikilink")期间，后被[美国陆军](../Page/美国陆军.md "wikilink")带往韩国拆除零件。\[3\]
 
 ## 参见
 
@@ -22,15 +21,10 @@
 
 ## 备注
 
-[Category:2-8-2轮式机车](https://zh.wikipedia.org/wiki/Category:2-8-2轮式机车 "wikilink")
-[Category:ALCO制铁路机车](https://zh.wikipedia.org/wiki/Category:ALCO制铁路机车 "wikilink")
-[Category:朝鲜总督府铁道](https://zh.wikipedia.org/wiki/Category:朝鲜总督府铁道 "wikilink")
-[Category:朝鲜蒸汽机车](https://zh.wikipedia.org/wiki/Category:朝鲜蒸汽机车 "wikilink")
-[Category:韩国蒸汽机车](https://zh.wikipedia.org/wiki/Category:韩国蒸汽机车 "wikilink")
+[Category:2-8-2轮式机车](https://zh.wikipedia.org/wiki/Category:2-8-2轮式机车 "wikilink") [Category:ALCO制铁路机车](https://zh.wikipedia.org/wiki/Category:ALCO制铁路机车 "wikilink") [Category:朝鲜总督府铁道](https://zh.wikipedia.org/wiki/Category:朝鲜总督府铁道 "wikilink") [Category:朝鲜蒸汽机车](https://zh.wikipedia.org/wiki/Category:朝鲜蒸汽机车 "wikilink") [Category:韩国蒸汽机车](https://zh.wikipedia.org/wiki/Category:韩国蒸汽机车 "wikilink")
 
 1.
 
-2.  [Korean National RR
-    MIKA-2 2-8-2](http://donsdepot.donrossgroup.net/dr144.htm)
+2.  [Korean National RR MIKA-2 2-8-2](http://donsdepot.donrossgroup.net/dr144.htm)
 
 3.

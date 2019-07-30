@@ -1,21 +1,10 @@
-[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG於](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")2006年開始他們的歌手職業生涯，組合剛出道時成果雖尚未顯著但也是相當成功的，首張正規專輯《[Bigbang
-Vol.1](../Page/BIGBANG_Vol.1_\(BIGBANG專輯\).md "wikilink")》的淨銷售量已超過15萬張\[1\]。2007年發行首張迷你專輯《[Always](../Page/Always_\(BIGBANG迷你專輯\).md "wikilink")》，包含成名作品〈謊言〉（韓語：거짓말），成為團體首張熱門專輯。後續發行的迷你專輯取得與先前一樣的成功，《[Hot
-Issue](../Page/Hot_Issue_\(BIGBANG迷你專輯\).md "wikilink")》帶來了〈最後的問候〉（韓語：마지막
-인사），而《[Stand
-Up](../Page/Stand_Up_\(BIGBANG迷你專輯\).md "wikilink")》則帶來〈一天一天〉（韓語：하루하루），兩首主打曲均居於榜單前列\[2\]\[3\]。第二張韓語正規專輯《[Remember](https://zh.wikipedia.org/wiki/Remember_\(BIGBANG專輯\) "wikilink")》在2008年11月5日發行，主打曲〈紅霞〉也成為BIGBANG歷年發行的作品最熱門的歌曲之一。
+[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG於](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")2006年開始他們的歌手職業生涯，組合剛出道時成果雖尚未顯著但也是相當成功的，首張正規專輯《[Bigbang Vol.1](../Page/BIGBANG_Vol.1_\(BIGBANG專輯\).md "wikilink")》的淨銷售量已超過15萬張\[1\]。2007年發行首張迷你專輯《[Always](../Page/Always_\(BIGBANG迷你專輯\).md "wikilink")》，包含成名作品〈謊言〉（韓語：거짓말），成為團體首張熱門專輯。後續發行的迷你專輯取得與先前一樣的成功，《[Hot Issue](../Page/Hot_Issue_\(BIGBANG迷你專輯\).md "wikilink")》帶來了〈最後的問候〉（韓語：마지막 인사），而《[Stand Up](../Page/Stand_Up_\(BIGBANG迷你專輯\).md "wikilink")》則帶來〈一天一天〉（韓語：하루하루），兩首主打曲均居於榜單前列\[2\]\[3\]。第二張韓語正規專輯《[Remember](https://zh.wikipedia.org/wiki/Remember_\(BIGBANG專輯\) "wikilink")》在2008年11月5日發行，主打曲〈紅霞〉也成為BIGBANG歷年發行的作品最熱門的歌曲之一。
 
-2007年末，BIGBANG進軍日本音樂產業，首張日語迷你專輯《[For the
-World](https://zh.wikipedia.org/wiki/For_the_World_\(BIGBANG日語迷你專輯\) "wikilink")》發行於2008年初\[4\]</ref>，而在2009年8月19日推出日語正規二輯《[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG_\(2009年專輯\) "wikilink")》\[5\]\[6\]，收錄了兩首主打曲《[My
-Heaven](https://zh.wikipedia.org/wiki/My_Heaven "wikilink")》以及《[Gara
-Gara
-GO\!\!](https://zh.wikipedia.org/wiki/Gara_Gara_GO!! "wikilink")》，其中〈[My
-Heaven](https://zh.wikipedia.org/wiki/My_Heaven "wikilink")〉空降[Oricon公信榜第三名](../Page/Oricon公信榜.md "wikilink")，取得了不錯的成績。\[7\]\[8\]\[9\]
+2007年末，BIGBANG進軍日本音樂產業，首張日語迷你專輯《[For the World](https://zh.wikipedia.org/wiki/For_the_World_\(BIGBANG日語迷你專輯\) "wikilink")》發行於2008年初\[4\]</ref>，而在2009年8月19日推出日語正規二輯《[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG_\(2009年專輯\) "wikilink")》\[5\]\[6\]，收錄了兩首主打曲《[My Heaven](https://zh.wikipedia.org/wiki/My_Heaven "wikilink")》以及《[Gara Gara GO\!\!](https://zh.wikipedia.org/wiki/Gara_Gara_GO!! "wikilink")》，其中〈[My Heaven](https://zh.wikipedia.org/wiki/My_Heaven "wikilink")〉空降[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")第三名，取得了不錯的成績。\[7\]\[8\]\[9\]
 
-BIGBANG在2009年與同經紀公司女團[2NE1合作推出歌曲](../Page/2NE1.md "wikilink")《》以宣傳[LG
-Cyon的Lollipop手機](https://zh.wikipedia.org/wiki/LG集團 "wikilink")\[10\]</ref>，甫公開後便在多個榜單上位於第一。《[Tonight](https://zh.wikipedia.org/wiki/Tonight_\(BIGBANG迷你專輯\) "wikilink")》是他們繼兩年的空窗期後在韓國發行的作品\[11\]，而在2012年是BIGBANG演藝生涯的高峰期，憑著《》他們成為首位韓語專輯進入[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[告示牌200大專輯榜的韓國藝人](https://zh.wikipedia.org/wiki/告示牌200大專輯榜 "wikilink")\[12\]，專輯的主打歌〈Blue〉均登上各大榜單之首\[13\]。在近三年的空窗期後，BIGBANG以完整體回歸韓國樂壇，為他們的第三張韓語正規專輯《[MADE](https://zh.wikipedia.org/wiki/MADE_\(BIGBANG專輯\) "wikilink")》在發行前先以企劃「Made
-Series」逐月推出的形式，依次每月發佈《[M](../Page/M_\(BIGBANG單曲\).md "wikilink")》、《[A](../Page/A_\(BIGBANG單曲\).md "wikilink")》、《[D](../Page/D_\(BIGBANG單曲\).md "wikilink")》及《[E](../Page/E_\(BIGBANG單曲\).md "wikilink")》\[14\]，專輯的所有歌曲在公開後全數進入[Gaon排行榜前三名](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")，其中有五首位居第一。
+BIGBANG在2009年與同經紀公司女團[2NE1](../Page/2NE1.md "wikilink")合作推出歌曲《》以宣傳[LG Cyon的Lollipop手機](https://zh.wikipedia.org/wiki/LG集團 "wikilink")\[10\]</ref>，甫公開後便在多個榜單上位於第一。《[Tonight](https://zh.wikipedia.org/wiki/Tonight_\(BIGBANG迷你專輯\) "wikilink")》是他們繼兩年的空窗期後在韓國發行的作品\[11\]，而在2012年是BIGBANG演藝生涯的高峰期，憑著《》他們成為首位韓語專輯進入[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[告示牌200大專輯榜的韓國藝人](https://zh.wikipedia.org/wiki/告示牌200大專輯榜 "wikilink")\[12\]，專輯的主打歌〈Blue〉均登上各大榜單之首\[13\]。在近三年的空窗期後，BIGBANG以完整體回歸韓國樂壇，為他們的第三張韓語正規專輯《[MADE](https://zh.wikipedia.org/wiki/MADE_\(BIGBANG專輯\) "wikilink")》在發行前先以企劃「Made Series」逐月推出的形式，依次每月發佈《[M](../Page/M_\(BIGBANG單曲\).md "wikilink")》、《[A](../Page/A_\(BIGBANG單曲\).md "wikilink")》、《[D](../Page/D_\(BIGBANG單曲\).md "wikilink")》及《[E](../Page/E_\(BIGBANG單曲\).md "wikilink")》\[14\]，專輯的所有歌曲在公開後全數進入[Gaon排行榜前三名](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")，其中有五首位居第一。
 
-自[Gaon榜單開始追蹤銷量起](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")，包括成員個人發行的曲目，BIGBANG已售出超過1億4千萬張的唱片，加上先前韓國音樂產業協會（MIAK）、韓國音樂內容產業協會（KMCIA）發行的銷量以及國家銷量已突破1億8千1百萬張，而在韓國、[日本及亞洲其他地區的數位單曲擁有超過](../Page/日本.md "wikilink")1億2千8百萬張的銷量，平均每首主打歌下載量為430萬，非主打歌下載量為150萬，專輯銷量則超過1千3百萬張，這使其成為亞洲史上數位專輯最熱賣的團體。\[15\]\[16\]\[17\]\[18\]\[19\]
+自[Gaon榜單開始追蹤銷量起](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")，包括成員個人發行的曲目，BIGBANG已售出超過1億4千萬張的唱片，加上先前韓國音樂產業協會（MIAK）、韓國音樂內容產業協會（KMCIA）發行的銷量以及國家銷量已突破1億8千1百萬張，而在韓國、[日本](../Page/日本.md "wikilink")及亞洲其他地區的數位單曲擁有超過1億2千8百萬張的銷量，平均每首主打歌下載量為430萬，非主打歌下載量為150萬，專輯銷量則超過1千3百萬張，這使其成為亞洲史上數位專輯最熱賣的團體。\[15\]\[16\]\[17\]\[18\]\[19\]
 
 ## 韓語作品
 
@@ -1737,9 +1726,7 @@ Hot 100</a><br />
 
   -
 
-[Category:BIGBANG](https://zh.wikipedia.org/wiki/Category:BIGBANG "wikilink")
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
-[Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
+[Category:BIGBANG](https://zh.wikipedia.org/wiki/Category:BIGBANG "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
 
 1.
 
@@ -1763,8 +1750,7 @@ Hot 100</a><br />
 
 12.
 
-13. ["This links to current week - select the week from drop down
-    menu"](http://ichart.instiz.net/) *iChart*. Retrieved 2012-03-01
+13. ["This links to current week - select the week from drop down menu"](http://ichart.instiz.net/) *iChart*. Retrieved 2012-03-01
 
 14.
 

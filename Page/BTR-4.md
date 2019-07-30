@@ -1,11 +1,10 @@
-BTR-4是乌克兰以[苏联时代的BTR](../Page/苏联.md "wikilink")-60/70/80装甲车基础上，自行开发的8×8轮式装甲车。
+BTR-4是乌克兰以[苏联](../Page/苏联.md "wikilink")时代的BTR-60/70/80装甲车基础上，自行开发的8×8轮式装甲车。
 
 ## 概述
 
 ## 设计
 
-BTR-4总体沿用了BTR-80装甲车的布局，但在细节设计上向德制的狐式装甲车靠拢。官方公开资讯显示，BTR-4可抵御50-100公尺内发射的12.7毫米口径子弹和155毫米口径榴弹破片的袭击(贴上模组化附加装甲，防弹能力可进一步提高)。
-车长及驾驶员的位置在底盘前部(车长右，驾驶员左)。车长和驾驶员身侧均有侧门，头顶也分别开有顶门。驾驶员、车长座椅均为整体吊装式，可依身高进行调节并能向左右转动。车前风挡、侧窗都安装有防弹玻璃。闭窗驾驶(用装甲板遮住前风挡和侧窗玻璃)时，驾驶员可使用一具潜望镜观察前方状况，车长则使用其上方舱门前方的3具潜望镜观察前方及左右方。此外，车长座位前方装有大萤幕显示器。在车长后方有一过道，可让车长和驾驶员进入后部载员舱。从整体布置情况看，BTR-4的车首布局可提供给驾驶员和车长良好的前向及侧向视野，观察范围比BTR-80更佳。宽敞的载员舱前中部可安装多种炮塔；载员数量因所选装的武器系统不同而有所不同，但基本型可运送7\~8人。在车尾有两扇分别向左右开启的舱门，载员舱上方亦有两个舱门。载员两侧也分别设有3～4个射击孔，在右侧尾门上也有1个射击孔，可供载员用随身武器向外射击；顶部两侧设有潜望镜供载员观察外部情况。\[1\]
+BTR-4总体沿用了BTR-80装甲车的布局，但在细节设计上向德制的狐式装甲车靠拢。官方公开资讯显示，BTR-4可抵御50-100公尺内发射的12.7毫米口径子弹和155毫米口径榴弹破片的袭击(贴上模组化附加装甲，防弹能力可进一步提高)。 车长及驾驶员的位置在底盘前部(车长右，驾驶员左)。车长和驾驶员身侧均有侧门，头顶也分别开有顶门。驾驶员、车长座椅均为整体吊装式，可依身高进行调节并能向左右转动。车前风挡、侧窗都安装有防弹玻璃。闭窗驾驶(用装甲板遮住前风挡和侧窗玻璃)时，驾驶员可使用一具潜望镜观察前方状况，车长则使用其上方舱门前方的3具潜望镜观察前方及左右方。此外，车长座位前方装有大萤幕显示器。在车长后方有一过道，可让车长和驾驶员进入后部载员舱。从整体布置情况看，BTR-4的车首布局可提供给驾驶员和车长良好的前向及侧向视野，观察范围比BTR-80更佳。宽敞的载员舱前中部可安装多种炮塔；载员数量因所选装的武器系统不同而有所不同，但基本型可运送7\~8人。在车尾有两扇分别向左右开启的舱门，载员舱上方亦有两个舱门。载员两侧也分别设有3～4个射击孔，在右侧尾门上也有1个射击孔，可供载员用随身武器向外射击；顶部两侧设有潜望镜供载员观察外部情况。\[1\]
 
    
 
@@ -208,11 +207,9 @@ KT-7.62mm同轴机枪<br />
 
   -   - **伊拉克陆军** - 订购420辆。\[7\]
 
-  -   - **[哈萨克陆军](https://zh.wikipedia.org/wiki/哈萨克陆军 "wikilink")** -
-        装备100辆。
+  -   - **[哈萨克陆军](https://zh.wikipedia.org/wiki/哈萨克陆军 "wikilink")** - 装备100辆。
 
-  -   - **[尼日利亚警察](https://zh.wikipedia.org/wiki/尼日利亚警察 "wikilink")** -
-        使用5辆。\[8\] \[9\]
+  -   - **[尼日利亚警察](https://zh.wikipedia.org/wiki/尼日利亚警察 "wikilink")** - 使用5辆。\[8\] \[9\]
 
   -   - **[乌克兰陆军](../Page/乌克兰陆军.md "wikilink")**
       - **[乌克兰民族卫队](../Page/乌克兰民族卫队.md "wikilink")**
@@ -235,64 +232,27 @@ KT-7.62mm同轴机枪<br />
 
 ## 外部链接
 
-  - [BTR-4 Technical data sheet and
-    pictures](http://www.armyrecognition.com/index.php?option=com_content&task=view&id=816)
-  - [BTR-4 Armoured Personnel
-    Carrier](https://web.archive.org/web/20070514031718/http://www.morozov.com.ua/eng/body/btr4.php?menu=m1.php)
-    at KMDB
-  - [The Ukrainian BTR-4 APC
-    Family](http://tanknutdave.com/the-ukrainian-btr-4-apc-family/) at
-    TankNutDave.com (includes video, pictures and drawings)
+  - [BTR-4 Technical data sheet and pictures](http://www.armyrecognition.com/index.php?option=com_content&task=view&id=816)
+  - [BTR-4 Armoured Personnel Carrier](https://web.archive.org/web/20070514031718/http://www.morozov.com.ua/eng/body/btr4.php?menu=m1.php) at KMDB
+  - [The Ukrainian BTR-4 APC Family](http://tanknutdave.com/the-ukrainian-btr-4-apc-family/) at TankNutDave.com (includes video, pictures and drawings)
 
 [Category:裝甲運兵車](https://zh.wikipedia.org/wiki/Category:裝甲運兵車 "wikilink")
 
-1.  [伊拉克接收BTR-4輪式裝甲車
-    可充當攻堅主力](http://hk.huaxia.com/thjq/jswz/2012/11/3065429.html)
-2.  [Kharkiv Machine Design Bureau designed new version of BTR-4 with
-    additional
-    protection](http://wartime.org.ua/9610-hkbm-vigotovilo-noviy-varant-btr-4e1-z-dodatkovim-zahistom.html)
-    . Military panorama. March 12, 2014.
-3.  [SpetsTechnoExport of Ukraine awarded contract to supply 5 BTR-4 8x8
-    armoured to
-    Indonesia](http://www.armyrecognition.com/january_2014_global_defense_security_news_industry/spetstechnoexport_of_ukraine_awarded_contract_to_supply_5_btr-4_8x8_armoured_to_indonesia_2401143.html)
-    - Armyrecognition.com, 24 January 2014.
+1.  [伊拉克接收BTR-4輪式裝甲車 可充當攻堅主力](http://hk.huaxia.com/thjq/jswz/2012/11/3065429.html)
+2.  [Kharkiv Machine Design Bureau designed new version of BTR-4 with additional protection](http://wartime.org.ua/9610-hkbm-vigotovilo-noviy-varant-btr-4e1-z-dodatkovim-zahistom.html) . Military panorama. March 12, 2014.
+3.  [SpetsTechnoExport of Ukraine awarded contract to supply 5 BTR-4 8x8 armoured to Indonesia](http://www.armyrecognition.com/january_2014_global_defense_security_news_industry/spetstechnoexport_of_ukraine_awarded_contract_to_supply_5_btr-4_8x8_armoured_to_indonesia_2401143.html) - Armyrecognition.com, 24 January 2014.
 4.
-5.  [SpetsTechnoExport of Ukraine awarded contract to supply 5 BTR-4 8x8
-    armoured to
-    Indonesia](http://www.armyrecognition.com/january_2014_global_defense_security_news_industry/spetstechnoexport_of_ukraine_awarded_contract_to_supply_5_btr-4_8x8_armoured_to_indonesia_2401143.html)
-    - Armyrecognition.com, 24 January 2014.
+5.  [SpetsTechnoExport of Ukraine awarded contract to supply 5 BTR-4 8x8 armoured to Indonesia](http://www.armyrecognition.com/january_2014_global_defense_security_news_industry/spetstechnoexport_of_ukraine_awarded_contract_to_supply_5_btr-4_8x8_armoured_to_indonesia_2401143.html) - Armyrecognition.com, 24 January 2014.
 6.
 7.
 8.
 9.
 10.
-11. [«Укроборонпром» до октября передаст военным первые бронированные
-    «скорые» на базе
-    БТР-4Е](http://health.unian.net/country/951849-ukroboronprom-do-oktyabrya-peredast-voennyim-pervyie-bronirovannyie-skoryie-na-baze-btr-4e.html)
-    //
-    "[УНИАН](https://zh.wikipedia.org/wiki/Ukrainian_Independent_Information_Agency "wikilink")"
-    от 15 августа 2014
-12. "*Ранее государство закупило для нужд Нацгвардии 40 новейших БТР-4 в
-    Харькове*"
-    [Нацгвардия получила пять новых БТР-3Е Киевского бронетанкового
-    завода -
-    СМИ](http://www.unian.net/politics/933030-natsgvardiya-poluchila-pyat-novyih-btr-3e-kievskogo-bronetankovogo-zavoda-smi.html)
-    //
-    "[УНИАН](https://zh.wikipedia.org/wiki/Ukrainian_Independent_Information_Agency "wikilink")"
-    от 25 июня 2014
+11. [«Укроборонпром» до октября передаст военным первые бронированные «скорые» на базе БТР-4Е](http://health.unian.net/country/951849-ukroboronprom-do-oktyabrya-peredast-voennyim-pervyie-bronirovannyie-skoryie-na-baze-btr-4e.html) // "[УНИАН](https://zh.wikipedia.org/wiki/Ukrainian_Independent_Information_Agency "wikilink")" от 15 августа 2014
+12. "*Ранее государство закупило для нужд Нацгвардии 40 новейших БТР-4 в Харькове*"
+    [Нацгвардия получила пять новых БТР-3Е Киевского бронетанкового завода - СМИ](http://www.unian.net/politics/933030-natsgvardiya-poluchila-pyat-novyih-btr-3e-kievskogo-bronetankovogo-zavoda-smi.html) // "[УНИАН](https://zh.wikipedia.org/wiki/Ukrainian_Independent_Information_Agency "wikilink")" от 25 июня 2014
 13.
-14. [«Укроборонпром» до октября передаст военным первые бронированные
-    «скорые» на базе
-    БТР-4Е](http://health.unian.net/country/951849-ukroboronprom-do-oktyabrya-peredast-voennyim-pervyie-bronirovannyie-skoryie-na-baze-btr-4e.html)
-    //
-    "[УНИАН](https://zh.wikipedia.org/wiki/Ukrainian_Independent_Information_Agency "wikilink")"
-    от 15 августа 2014
-15. "*Ранее государство закупило для нужд Нацгвардии 40 новейших БТР-4 в
-    Харькове*"
-    [Нацгвардия получила пять новых БТР-3Е Киевского бронетанкового
-    завода -
-    СМИ](http://www.unian.net/politics/933030-natsgvardiya-poluchila-pyat-novyih-btr-3e-kievskogo-bronetankovogo-zavoda-smi.html)
-    //
-    "[УНИАН](https://zh.wikipedia.org/wiki/Ukrainian_Independent_Information_Agency "wikilink")"
-    от 25 июня 2014
+14. [«Укроборонпром» до октября передаст военным первые бронированные «скорые» на базе БТР-4Е](http://health.unian.net/country/951849-ukroboronprom-do-oktyabrya-peredast-voennyim-pervyie-bronirovannyie-skoryie-na-baze-btr-4e.html) // "[УНИАН](https://zh.wikipedia.org/wiki/Ukrainian_Independent_Information_Agency "wikilink")" от 15 августа 2014
+15. "*Ранее государство закупило для нужд Нацгвардии 40 новейших БТР-4 в Харькове*"
+    [Нацгвардия получила пять новых БТР-3Е Киевского бронетанкового завода - СМИ](http://www.unian.net/politics/933030-natsgvardiya-poluchila-pyat-novyih-btr-3e-kievskogo-bronetankovogo-zavoda-smi.html) // "[УНИАН](https://zh.wikipedia.org/wiki/Ukrainian_Independent_Information_Agency "wikilink")" от 25 июня 2014
 16.

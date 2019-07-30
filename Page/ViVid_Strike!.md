@@ -1,11 +1,10 @@
-《**ViVid
-Strike\!**》（）是[都築真紀製作的](../Page/都築真紀.md "wikilink")[魔法少女奈葉系列完全原创作品](../Page/魔法少女奈葉系列.md "wikilink")，沿用[魔法少女奈葉ViVid的部分角色与制作班底](../Page/魔法少女奈葉ViVid.md "wikilink")，故事时间设定在ViVid时间线一年后。
+《**ViVid Strike\!**》（）是[都築真紀](../Page/都築真紀.md "wikilink")製作的[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")完全原创作品，沿用[魔法少女奈葉ViVid](../Page/魔法少女奈葉ViVid.md "wikilink")的部分角色与制作班底，故事时间设定在ViVid时间线一年后。
 
 [电视动画於](https://zh.wikipedia.org/wiki/电视动画 "wikilink")2016年10月開始播出\[1\]。
 
 ## 故事
 
-風香與凜音從小在[孤兒院一起長大](https://zh.wikipedia.org/wiki/孤兒院 "wikilink")，既是[青梅竹馬又有著如同姐妹般的關係](../Page/青梅竹馬.md "wikilink")，即使生活貧困依然嚮往著光明的未來。長大後，風香先離開孤兒院，一個人租屋、努力打工過生活──這是她們的第一次離別。
+風香與凜音從小在[孤兒院一起長大](https://zh.wikipedia.org/wiki/孤兒院 "wikilink")，既是[青梅竹馬](../Page/青梅竹馬.md "wikilink")又有著如同姐妹般的關係，即使生活貧困依然嚮往著光明的未來。長大後，風香先離開孤兒院，一個人租屋、努力打工過生活──這是她們的第一次離別。
 
 風香在外謀生，性格變得比較陽剛，但她的心中仍然惦記著嬌小的凜音，並希望未來有一天能夠重逢。可惜事與願違，造訪了風香與凜音的「二次離別」，改變了兩人的命運。
 
@@ -117,24 +116,18 @@ Strike\!**》（）是[都築真紀製作的](../Page/都築真紀.md "wikilink"
   - 編輯：關一彦
   - 音響製作：Glovision Inc.
   - 音樂：吉川洋一郎
-  - 動畫製作：[Seven Arcs
-    Pictures](../Page/Seven_Arcs_Pictures.md "wikilink")
-  - 製作：ViVid Strike PROJECT（[King
-    Records](../Page/國王唱片.md "wikilink")、[Seven
-    Arcs](../Page/Seven_Arcs.md "wikilink")、、）
+  - 動畫製作：[Seven Arcs Pictures](../Page/Seven_Arcs_Pictures.md "wikilink")
+  - 製作：ViVid Strike PROJECT（[King Records](../Page/國王唱片.md "wikilink")、[Seven Arcs](../Page/Seven_Arcs.md "wikilink")、、）
 
 ## 主題曲
 
   - 片頭曲 「Future Strike」
-    作詞：服部祐希 / 作曲：[俊龍](../Page/俊龍.md "wikilink") /
-    编曲：[小高光太郎](https://zh.wikipedia.org/wiki/小高光太郎 "wikilink")
-    / 主唱：[小倉唯](../Page/小倉唯.md "wikilink")
+    作詞：服部祐希 / 作曲：[俊龍](../Page/俊龍.md "wikilink") / 编曲：[小高光太郎](https://zh.wikipedia.org/wiki/小高光太郎 "wikilink") / 主唱：[小倉唯](../Page/小倉唯.md "wikilink")
 
 <!-- end list -->
 
   - 片尾曲 「[Starry Wish](../Page/Starry_Wish.md "wikilink")」
-    作詞：nozomi / 作曲：KOUGA、nozomi / 编曲：KOUGA /
-    主唱：[水瀨祈](../Page/水瀨祈.md "wikilink")
+    作詞：nozomi / 作曲：KOUGA、nozomi / 编曲：KOUGA / 主唱：[水瀨祈](../Page/水瀨祈.md "wikilink")
 
 ## 各話列表
 
@@ -374,10 +367,7 @@ Strike\!**》（）是[都築真紀製作的](../Page/都築真紀.md "wikilink"
 
   - [《ViVid Strike\!》官方首頁](http://vivid-strike.com/)
 
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:魔法少女奈叶](https://zh.wikipedia.org/wiki/Category:魔法少女奈叶 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:2017年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2017年日本OVA動畫 "wikilink")
+[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:魔法少女奈叶](https://zh.wikipedia.org/wiki/Category:魔法少女奈叶 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:2017年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2017年日本OVA動畫 "wikilink")
 
 1.
 

@@ -1,18 +1,8 @@
-[Windows
-95的开发过程最早从](../Page/Windows_95.md "wikilink")1992年3月开始，此时Windows
-3.1系统刚刚发售，微软公司把多个计划开发的系统提上了日程，包括Windows NT 3.1、Windows for Workgroups
-3.1，以及一个新的操作系统Cairo。Cairo被计划设计为一个可以基于对象的系统，采用Windows
-NT内核，有着更先进的用户界面，但这个设计一直没能真正实现，后来改名为WinFS继续开发。
+[Windows 95的开发过程最早从](../Page/Windows_95.md "wikilink")1992年3月开始，此时Windows 3.1系统刚刚发售，微软公司把多个计划开发的系统提上了日程，包括Windows NT 3.1、Windows for Workgroups 3.1，以及一个新的操作系统Cairo。Cairo被计划设计为一个可以基于对象的系统，采用Windows NT内核，有着更先进的用户界面，但这个设计一直没能真正实现，后来改名为WinFS继续开发。
 
-Windows 3.1在市面上炙手可热，但随后IBM凭借[OS/2
-2.0系统前来抢占市场](https://zh.wikipedia.org/wiki/OS/2 "wikilink")，微软公司决定开发一套新的系统用以对抗对手
-—— 这个系统完全支持32位应用程序，支持多任务同时处理，配置要求必须很低（不同于当时的Windows NT）。
-代号为“Chicago”的下一代Windows被提上日程，微软最初并没有打算针对Windows
-3.1进行太大幅度的修改，仅是降低安装、联网等设定的操作难度。
+Windows 3.1在市面上炙手可热，但随后IBM凭借[OS/2 2.0系统前来抢占市场](https://zh.wikipedia.org/wiki/OS/2 "wikilink")，微软公司决定开发一套新的系统用以对抗对手 —— 这个系统完全支持32位应用程序，支持多任务同时处理，配置要求必须很低（不同于当时的Windows NT）。 代号为“Chicago”的下一代Windows被提上日程，微软最初并没有打算针对Windows 3.1进行太大幅度的修改，仅是降低安装、联网等设定的操作难度。
 
-Chicago被计划在1993年底与MS-DOS
-7.0同期发售，但两个系统混合到了代号为Jaguar和Cougar的下一代系统，进化为Windows
-95，而MS-DOS 7.0没有再单独发行。时任微软高级副总裁Brad Silverberg负责指导、开发了Windows Chicago。
+Chicago被计划在1993年底与MS-DOS 7.0同期发售，但两个系统混合到了代号为Jaguar和Cougar的下一代系统，进化为Windows 95，而MS-DOS 7.0没有再单独发行。时任微软高级副总裁Brad Silverberg负责指导、开发了Windows Chicago。
 
 自从1992年开始，微软着手开发的与Windows 95有关的产品如下：
 
@@ -32,12 +22,7 @@ Chicago被计划在1993年底与MS-DOS
 | "Cairo"             | 1996年7月  | 让Windows 95成为一个基于对象的系统，并加入新的用户操作界面                            | Windows NT 4.0，但它并不“基于对象”                                                                                                          |
 | "Nashville"         | 1996年8月  | 针对Windows 95的更新，版本号可能为build 999                               | 未发售                                                                                                                                |
 
-Windows
-95的开发计划在1992年9月30日定下，当时暂定名称为“**Chicago”**，基于开发代号为Cougar的MS-DOS系统进行开发。
-微软公司在美国进行了Windows
-95测试（预览）版本的公开邀请，用户支付19.95美元即可取得测试版本的安装软盘，同时可以免费参加MSN（[The
-Microsoft Network](../Page/MSN.md "wikilink")）的测试。用于预览的Windows
-95在1995年11月以后不能再次使用。
+Windows 95的开发计划在1992年9月30日定下，当时暂定名称为“**Chicago”**，基于开发代号为Cougar的MS-DOS系统进行开发。 微软公司在美国进行了Windows 95测试（预览）版本的公开邀请，用户支付19.95美元即可取得测试版本的安装软盘，同时可以免费参加MSN（[The Microsoft Network](../Page/MSN.md "wikilink")）的测试。用于预览的Windows 95在1995年11月以后不能再次使用。
 
 Windows 95正式发售之前，有如下对外发布的测试版本：
 

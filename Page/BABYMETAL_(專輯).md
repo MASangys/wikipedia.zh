@@ -1,32 +1,22 @@
-《**BABYMETAL**》是日本團體[BABYMETAL在](../Page/BABYMETAL.md "wikilink")2014年2月26日發行的首張同名[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")\[1\]\[2\]\[3\]。專輯由13首歌曲組成\[4\]。在此之前BABYMETAL已發行過5張單曲，包括首張獨立作品\[5\]〈[心跳☆早晨](../Page/心跳☆早晨.md "wikilink")〉\[6\]、合作作品《[BABYMETAL
-× Kiba of
-Akiba](../Page/BABYMETAL_×_Kiba_of_Akiba.md "wikilink")》中收錄的〈Iine\!〉\[7\]、第3張獨立作品〈[HeadBanger\!\!](../Page/HeadBanger!!.md "wikilink")〉\[8\]、正式主流作品〈[欺凌、絕對、不行](../Page/欺凌、絕對、不行.md "wikilink")〉\[9\]、專輯發行前的最新單曲〈[女狐](../Page/女狐.md "wikilink")〉\[10\]，以及B面的歌曲，均收錄此專輯中\[11\]。主唱SU-METAL（[中元鈴香](../Page/中元鈴香.md "wikilink")）說「既是首張專輯，也是精選專輯」\[12\]。
+《**BABYMETAL**》是日本團體[BABYMETAL](../Page/BABYMETAL.md "wikilink")在2014年2月26日發行的首張同名[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")\[1\]\[2\]\[3\]。專輯由13首歌曲組成\[4\]。在此之前BABYMETAL已發行過5張單曲，包括首張獨立作品\[5\]〈[心跳☆早晨](../Page/心跳☆早晨.md "wikilink")〉\[6\]、合作作品《[BABYMETAL × Kiba of Akiba](../Page/BABYMETAL_×_Kiba_of_Akiba.md "wikilink")》中收錄的〈Iine\!〉\[7\]、第3張獨立作品〈[HeadBanger\!\!](../Page/HeadBanger!!.md "wikilink")〉\[8\]、正式主流作品〈[欺凌、絕對、不行](../Page/欺凌、絕對、不行.md "wikilink")〉\[9\]、專輯發行前的最新單曲〈[女狐](../Page/女狐.md "wikilink")〉\[10\]，以及B面的歌曲，均收錄此專輯中\[11\]。主唱SU-METAL（[中元鈴香](../Page/中元鈴香.md "wikilink")）說「既是首張專輯，也是精選專輯」\[12\]。
 
 ## 發行
 
-2013年12月21日在專場公演「[LEGEND "1997"
-SU-METAL聖誕祭](https://zh.wikipedia.org/wiki/LEGEND_"1997"_SU-METAL聖誕祭 "wikilink")」中第一次透露了新專輯計畫\[13\]。之後，在2014年1月24日公布了新專輯名為《BABYMETAL》\[14\]。
+2013年12月21日在專場公演「[LEGEND "1997" SU-METAL聖誕祭](https://zh.wikipedia.org/wiki/LEGEND_"1997"_SU-METAL聖誕祭 "wikilink")」中第一次透露了新專輯計畫\[13\]。之後，在2014年1月24日公布了新專輯名為《BABYMETAL》\[14\]。
 
-販賣形態分為首批限量版（CD+DVD）・普通版（僅CD）。首批限量版中的DVD收錄5曲的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")、\[15\]及三名成員的評論音軌\[16\]，也收錄〈[給我巧克力\!\!](../Page/給我巧克力!!.md "wikilink")〉的現場錄影\[17\]、「[SUMMER
-SONIC](../Page/SUMMER_SONIC.md "wikilink") 2013」音樂節中登台的影像\[18\]。
+販賣形態分為首批限量版（CD+DVD）・普通版（僅CD）。首批限量版中的DVD收錄5曲的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")、\[15\]及三名成員的評論音軌\[16\]，也收錄〈[給我巧克力\!\!](../Page/給我巧克力!!.md "wikilink")〉的現場錄影\[17\]、「[SUMMER SONIC](../Page/SUMMER_SONIC.md "wikilink") 2013」音樂節中登台的影像\[18\]。
 
-WEB會員網站「BABYMETAL APOCALYPSE WEB」上，發行會員才能購買的WEB會員限定版「BABYMETAL
-APOCALYPSE LIMITED
-EDITION」（CD+小冊子）\[19\]。同時收錄〈紅月-アカツキ-<small>（Unfinished
-ver.）</small>〉、〈4の歌<small>（444 ver.）</small>〉兩首重新混音編曲的版本\[20\]。
+WEB會員網站「BABYMETAL APOCALYPSE WEB」上，發行會員才能購買的WEB會員限定版「BABYMETAL APOCALYPSE LIMITED EDITION」（CD+小冊子）\[19\]。同時收錄〈紅月-アカツキ-<small>（Unfinished ver.）</small>〉、〈4の歌<small>（444 ver.）</small>〉兩首重新混音編曲的版本\[20\]。
 
-2014年2月25日，日本[淘兒唱片新宿店舉辦的](../Page/淘兒唱片.md "wikilink")「世界最速販売“25の祭”」活動中，於2月25日00:00搶先發行這張專輯\[21\]。
+2014年2月25日，日本[淘兒唱片](../Page/淘兒唱片.md "wikilink")新宿店舉辦的「世界最速販売“25の祭”」活動中，於2月25日00:00搶先發行這張專輯\[21\]。
 
-2014年7月26日，再次發行為紀念「BABYMETAL WORLD TOUR
-2014」世界巡演的首批限量版（CD+DVD）\[22\]。2015年6月17日，發行為紀念「BABYMETAL
-WORLD TOUR 2015」的限量生產12吋[黑膠唱片](../Page/黑膠唱片.md "wikilink")\[23\]。
+2014年7月26日，再次發行為紀念「BABYMETAL WORLD TOUR 2014」世界巡演的首批限量版（CD+DVD）\[22\]。2015年6月17日，發行為紀念「BABYMETAL WORLD TOUR 2015」的限量生產12吋[黑膠唱片](../Page/黑膠唱片.md "wikilink")\[23\]。
 
-之後，收錄附贈曲目的追加海外版也製作了。歐版在13個國家、美版在3個國家發行\[24\]。歐版分為首批限量版（CD+DVD）與普通版（CD）、美版分為普通版（CD）與限量版（黑膠唱片）。但日版限量版DVD中的評論音軌和SUMMER
-SONIC 2013演出，並沒有收錄在歐版限量版中。
+之後，收錄附贈曲目的追加海外版也製作了。歐版在13個國家、美版在3個國家發行\[24\]。歐版分為首批限量版（CD+DVD）與普通版（CD）、美版分為普通版（CD）與限量版（黑膠唱片）。但日版限量版DVD中的評論音軌和SUMMER SONIC 2013演出，並沒有收錄在歐版限量版中。
 
 ### 認證
 
-2014年12月在日本國內累計突破10萬張銷售量，[日本唱片協會頒授](../Page/日本唱片協會.md "wikilink")[金唱片認證獎項](../Page/金唱片.md "wikilink")\[25\]。
+2014年12月在日本國內累計突破10萬張銷售量，[日本唱片協會](../Page/日本唱片協會.md "wikilink")頒授[金唱片](../Page/金唱片.md "wikilink")認證獎項\[25\]。
 
 ## 發行日期列表
 
@@ -369,48 +359,40 @@ EMU-0210400</p></td>
 
 ## 樂曲內容
 
-專輯製作人為小林啟（），也是該團體2010年組建以來的製作人\[52\]。專輯的音樂結構很多樣化，融合日本偶像流行音樂、動漫音樂與各種重金屬音樂，應用了強力和弦、快速鼓點和死腔。\[53\]樂曲創作上也由二十人以上的臨時團隊組成，包括著名的日本音樂人如的、的、[VOCALOID製作人](../Page/VOCALOID.md "wikilink")、名製作人等等\[54\]。
+專輯製作人為小林啟（），也是該團體2010年組建以來的製作人\[52\]。專輯的音樂結構很多樣化，融合日本偶像流行音樂、動漫音樂與各種重金屬音樂，應用了強力和弦、快速鼓點和死腔。\[53\]樂曲創作上也由二十人以上的臨時團隊組成，包括著名的日本音樂人如的、的、[VOCALOID](../Page/VOCALOID.md "wikilink")製作人、名製作人等等\[54\]。
 
 1.  **〈Babymetal Death〉**
     融合[旋律死亡金屬](../Page/死亡旋律金屬.md "wikilink")、[鞭擊金屬與](https://zh.wikipedia.org/wiki/敲擊金屬 "wikilink")[交響金屬](../Page/交響金屬.md "wikilink")，這首以成員自我介紹為詞的曲子，經常作為現場演出的開場曲\[55\]。
 2.  **〈女狐〉**
-    融合[民謠金屬](https://zh.wikipedia.org/wiki/民謠金屬 "wikilink")、[金屬蕊](../Page/金屬蕊.md "wikilink")、[力量金屬與典型的日本文化](https://zh.wikipedia.org/wiki/力量金屬 "wikilink")，運用日本傳統樂器太鼓與[三味線](https://zh.wikipedia.org/wiki/三味線 "wikilink")，以及融入[江戶時代民謠](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")〈[櫻花](../Page/樱花_\(民谣\).md "wikilink")〉、狐神祭典等元素\[56\]。它的主題是女權，為如[大和撫子這樣的傳統女性發聲](../Page/大和撫子.md "wikilink")。此曲錄製了36種不同版本後才定案發表\[57\]。至2016年底的Youtube點播數是3600萬次。
+    融合[民謠金屬](https://zh.wikipedia.org/wiki/民謠金屬 "wikilink")、[金屬蕊](../Page/金屬蕊.md "wikilink")、[力量金屬與典型的日本文化](https://zh.wikipedia.org/wiki/力量金屬 "wikilink")，運用日本傳統樂器太鼓與[三味線](https://zh.wikipedia.org/wiki/三味線 "wikilink")，以及融入[江戶時代民謠](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")〈[櫻花](../Page/樱花_\(民谣\).md "wikilink")〉、狐神祭典等元素\[56\]。它的主題是女權，為如[大和撫子](../Page/大和撫子.md "wikilink")這樣的傳統女性發聲。此曲錄製了36種不同版本後才定案發表\[57\]。至2016年底的Youtube點播數是3600萬次。
 3.  **〈給我巧克力\!\!〉**
-    融合鞭擊金屬與[Techno](https://zh.wikipedia.org/wiki/Techno "wikilink")。主題是少女為了保持身材控制飲食，但又禁不起巧克力的誘惑\[58\]。此曲在歐美地區極受歡迎，至2016年底的Youtube點播數是6400萬次。
+    融合鞭擊金屬與[Techno](../Page/Techno.md "wikilink")。主題是少女為了保持身材控制飲食，但又禁不起巧克力的誘惑\[58\]。此曲在歐美地區極受歡迎，至2016年底的Youtube點播數是6400萬次。
 4.  **〈Iine\!〉**
     融合[電子核](https://zh.wikipedia.org/wiki/電子核 "wikilink")、[饒舌](../Page/饒舌.md "wikilink")、[青少年流行音樂](../Page/青少年流行音樂.md "wikilink")、[電子舞曲](../Page/電子舞曲.md "wikilink")、死腔和重金屬吉他。各種音樂風格在行進中交錯驟變\[59\]。至2016年底的Youtube點播數是1200萬次。
 5.  **〈紅月-Akatsuki-〉**
-    融合力量金屬、[速度金屬以及](https://zh.wikipedia.org/wiki/速度金屬 "wikilink")[X
-    JAPAN式的](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[敘事曲](https://zh.wikipedia.org/wiki/敘事曲 "wikilink")、雙吉他對位演奏法，被普遍認為是向X
-    JAPAN的〈[紅](../Page/紅_\(X單曲\).md "wikilink")〉致敬。這首曲子由主唱SU-METAL獨唱，為抒情主題\[60\]。巴西「」網站評論說「這首歌有著[Helloween](../Page/萬聖節樂團.md "wikilink")、[Edguy和](../Page/刀鋒邊緣.md "wikilink")[騰雲樂團這種力量金屬名曲的感覺](../Page/騰雲樂團.md "wikilink")，且聽起來有如15年前的日本金屬樂」\[61\]。
+    融合力量金屬、[速度金屬以及](https://zh.wikipedia.org/wiki/速度金屬 "wikilink")[X JAPAN式的](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[敘事曲](https://zh.wikipedia.org/wiki/敘事曲 "wikilink")、雙吉他對位演奏法，被普遍認為是向X JAPAN的〈[紅](../Page/紅_\(X單曲\).md "wikilink")〉致敬。這首曲子由主唱SU-METAL獨唱，為抒情主題\[60\]。巴西「」網站評論說「這首歌有著[Helloween](../Page/萬聖節樂團.md "wikilink")、[Edguy和](../Page/刀鋒邊緣.md "wikilink")[騰雲樂團](../Page/騰雲樂團.md "wikilink")這種力量金屬名曲的感覺，且聽起來有如15年前的日本金屬樂」\[61\]。
 6.  **〈心跳☆早晨〉**
     融合和重金屬的實驗曲，是BABYMETAL最早的歌曲。主題是關於少女早上賴床來不及出門的日常生活\[62\]。至2016年底的Youtube點播數是1700萬次。
 7.  **〈撒嬌大作戰〉**
-    是一首標準[Limp
-    Bizkit式的](../Page/林普巴茲提特.md "wikilink")[饒舌金屬](../Page/饒舌金屬.md "wikilink")、[新金屬](../Page/新金屬.md "wikilink")，的人聲音軌也在此曲出現\[63\]。這首是YUIMETAL與MOAMETAL組成子團體「BLACK
-    BABYMETAL」的曲子，但SU-METAL的和聲也有短暫出現。主題是小女孩向父親撒嬌購買物品，隨著成員的年齡增長，近來這首曲子已不再於現場表演\[64\]。
+    是一首標準[Limp Bizkit式的](../Page/林普巴茲提特.md "wikilink")[饒舌金屬](../Page/饒舌金屬.md "wikilink")、[新金屬](../Page/新金屬.md "wikilink")，的人聲音軌也在此曲出現\[63\]。這首是YUIMETAL與MOAMETAL組成子團體「BLACK BABYMETAL」的曲子，但SU-METAL的和聲也有短暫出現。主題是小女孩向父親撒嬌購買物品，隨著成員的年齡增長，近來這首曲子已不再於現場表演\[64\]。
 8.  **〈4之歌〉**
-    詞曲由YUIMETAL與MOAMETAL創作，「BLACK
-    BABYMETAL」的曲子。融合[雷鬼音樂與重金屬](../Page/雷鬼音樂.md "wikilink")\[65\]。
+    詞曲由YUIMETAL與MOAMETAL創作，「BLACK BABYMETAL」的曲子。融合[雷鬼音樂](../Page/雷鬼音樂.md "wikilink")與重金屬\[65\]。
 9.  **〈歡樂★午夜〉**
-    結合[迴響貝斯與金屬蕊](../Page/迴響貝斯.md "wikilink")，主題是少女抗拒門禁，夢想著參加玩樂派對\[66\]。
+    結合[迴響貝斯](../Page/迴響貝斯.md "wikilink")與金屬蕊，主題是少女抗拒門禁，夢想著參加玩樂派對\[66\]。
 10. **〈Catch me if you can〉**
-    融合較重的[工業金屬](../Page/工業金屬.md "wikilink")，以及[Dir en
-    grey與](../Page/Dir_en_grey.md "wikilink")[HIDE式的Cyber](https://zh.wikipedia.org/wiki/HIDE "wikilink")
-    Rock\[67\]。主題是根據日本文學《[哭泣的紅鬼](../Page/哭泣的紅鬼.md "wikilink")》延伸而來。
+    融合較重的[工業金屬](../Page/工業金屬.md "wikilink")，以及[Dir en grey與](../Page/Dir_en_grey.md "wikilink")[HIDE式的Cyber](https://zh.wikipedia.org/wiki/HIDE "wikilink") Rock\[67\]。主題是根據日本文學《[哭泣的紅鬼](../Page/哭泣的紅鬼.md "wikilink")》延伸而來。
 11. **〈惡夢的輪舞曲〉**
-    融合[前衛金屬與敘事曲](../Page/前衛金屬.md "wikilink")，SU-METAL獨唱，主題是憂鬱的意念\[68\]。
+    融合[前衛金屬](../Page/前衛金屬.md "wikilink")與敘事曲，SU-METAL獨唱，主題是憂鬱的意念\[68\]。
 12. **〈HeadBanger\!\!〉**
     融合鞭擊金屬（接近[灣區鞭擊金屬](../Page/灣區鞭擊金屬.md "wikilink")）、力量金屬與旋律死亡金屬。曲名代表重金屬音樂中甩頭的動作。主題是主唱在15歲生日膜拜金屬之神、透過金屬魂的降臨來擺脫過去\[69\]。音樂錄影帶中，用護頸來象徵金屬之神，以及現場演出的甩頭、昏倒等動作，來向因打鼓導致頸椎永久受損的[YOSHIKI致敬](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")。至2016年底的Youtube點播數是1100萬次。
 13. **〈欺凌、絕對、不行〉**
-    融合速度金屬、力量金屬與旋律死亡金屬。主題是反霸凌、鼓勵弱者，描述在校園欺凌中自我與他人之間的抗爭\[70\]。此曲通常放在現場演出的最後一首。在限量版單曲裡收錄了[Arch
-    Enemy前吉他手](../Page/邪神大敵.md "wikilink")彈奏電吉他的版本。至2016年底的Youtube點播數是1800萬次。
+    融合速度金屬、力量金屬與旋律死亡金屬。主題是反霸凌、鼓勵弱者，描述在校園欺凌中自我與他人之間的抗爭\[70\]。此曲通常放在現場演出的最後一首。在限量版單曲裡收錄了[Arch Enemy前吉他手](../Page/邪神大敵.md "wikilink")彈奏電吉他的版本。至2016年底的Youtube點播數是1800萬次。
 
 
 : <small>歐版／美版附贈曲目</small>
 
 1.  **〈Road of Resistance〉**
-    融合速度金屬、力量金屬、旋律交響金屬與[頌歌](../Page/頌歌.md "wikilink")，是與[DragonForce一起創作的曲子](https://zh.wikipedia.org/wiki/DragonForce "wikilink")，吉他部分由[李康敏與](../Page/李康敏.md "wikilink")負責\[71\]。主題是BABYMETAL的金屬抗爭之路\[72\]。至2016年底的Youtube點播數是1100萬次。
+    融合速度金屬、力量金屬、旋律交響金屬與[頌歌](../Page/頌歌.md "wikilink")，是與[DragonForce一起創作的曲子](https://zh.wikipedia.org/wiki/DragonForce "wikilink")，吉他部分由[李康敏](../Page/李康敏.md "wikilink")與負責\[71\]。主題是BABYMETAL的金屬抗爭之路\[72\]。至2016年底的Youtube點播數是1100萬次。
 
 ## 評價
 
@@ -418,23 +400,19 @@ EMU-0210400</p></td>
 
   - 宗像明将於雑誌《》雜誌評價「這張專輯的歌曲，表現了[重金屬音樂的多樣性](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")，是一張極富趣味的怪異作品」\[74\]
 
-  - 土屋恵介在雑誌《MARQUEE》中針對音樂的多樣性評價「有重金屬音樂、[電子音樂和](../Page/電子音樂.md "wikilink")[嘻哈音樂](../Page/嘻哈音樂.md "wikilink")，它融合了各式各樣的聲音」\[75\]
+  - 土屋恵介在雑誌《MARQUEE》中針對音樂的多樣性評價「有重金屬音樂、[電子音樂](../Page/電子音樂.md "wikilink")和[嘻哈音樂](../Page/嘻哈音樂.md "wikilink")，它融合了各式各樣的聲音」\[75\]
 
   - 於雑誌《CDJournal》中也給予高評價「當中的收錄曲，融合了[流行音樂和重金屬音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")，BABYMETAL生動的將音樂碰撞出美麗火花，這種正面衝突的路線是非常新鮮的」\[76\]
 
-  - 山村哲也在音樂網站《》上評價「在正統金屬上融合了[鞭擊金屬](https://zh.wikipedia.org/wiki/敲擊金屬 "wikilink")、、[死亡金屬](../Page/死亡金屬音樂.md "wikilink")、[金屬蕊各種流派](../Page/金屬蕊.md "wikilink")，另外還加入了[電子核](https://zh.wikipedia.org/wiki/電子核 "wikilink")、和[Trance
-    music](https://zh.wikipedia.org/wiki/出神音樂 "wikilink")，BABYMETAL打開了一扇通往搖滾夢幻世界的大門」\[77\]
+  - 山村哲也在音樂網站《》上評價「在正統金屬上融合了[鞭擊金屬](https://zh.wikipedia.org/wiki/敲擊金屬 "wikilink")、、[死亡金屬](../Page/死亡金屬音樂.md "wikilink")、[金屬蕊](../Page/金屬蕊.md "wikilink")各種流派，另外還加入了[電子核](https://zh.wikipedia.org/wiki/電子核 "wikilink")、和[Trance music](https://zh.wikipedia.org/wiki/出神音樂 "wikilink")，BABYMETAL打開了一扇通往搖滾夢幻世界的大門」\[77\]
 
-  - Tim
-    Sendra於雑誌《[Allmusic](https://zh.wikipedia.org/wiki/Allmusic "wikilink")》中評價「如果你是個金屬頭，只喜歡那種符合清晰定義的金屬樂，或者你是個J-POP迷，討厭大段吉他即興彈奏，那這張專輯顯然不是你的菜；但如果你根本不介意什麼金屬樂規則，只想聽超乎想像最原始最快樂的音樂，那在BABYMET​​AL這張超凡的處女作中，你會發現以前從未夢想過的境界」\[78\]
+  - Tim Sendra於雑誌《[Allmusic](https://zh.wikipedia.org/wiki/Allmusic "wikilink")》中評價「如果你是個金屬頭，只喜歡那種符合清晰定義的金屬樂，或者你是個J-POP迷，討厭大段吉他即興彈奏，那這張專輯顯然不是你的菜；但如果你根本不介意什麼金屬樂規則，只想聽超乎想像最原始最快樂的音樂，那在BABYMET​​AL這張超凡的處女作中，你會發現以前從未夢想過的境界」\[78\]
 
   - 重金屬雑誌《》主編梅沢直幸評價「光是〈4之歌〉這一首就值回票價了。她們風格多樣化的音樂全是精心編排所創造出來的，正是這種精緻的質量吸引並打動了她們的粉絲。金屬之中可以細分為多種流派，如[前衛金屬](../Page/前衛金屬.md "wikilink")、[旋律死亡金屬等](../Page/死亡旋律金屬.md "wikilink")，只有極少數的樂團會同時演奏數種流派的金屬樂。然而這張專輯卻超乎尋常的在表現著各種金屬流派之餘，甚至還懷著敬意，譜寫出彷如金屬名曲般的旋律及演奏法」\[79\]
 
-  - 音樂專門雑誌《》主編増田勇一評價「這是一件藝術品，不僅是商品而已。雖然有人取笑它，但實際上我們不能忽視它極高的完成度，這不是一兩個人就能輕易否定的」。另一位編輯Jun
-    Kawai評價「整張專輯都是扎實的金屬樂，這是真正的刺激」\[80\]
+  - 音樂專門雑誌《》主編増田勇一評價「這是一件藝術品，不僅是商品而已。雖然有人取笑它，但實際上我們不能忽視它極高的完成度，這不是一兩個人就能輕易否定的」。另一位編輯Jun Kawai評價「整張專輯都是扎實的金屬樂，這是真正的刺激」\[80\]
 
-  - James Paul Matthews於雜誌《Hit The
-    Floor》中評價「透過首張專輯證明了，BABYMETAL就是絕對的天才。是的，天才。全世界每一個聽者通通都在問自己〝我喜歡這個？〞或〝我討厭這個？〞，光是做到這一點就完全令人興奮了。BABYMETAL的首張專輯是最有趣也最令人困惑的，不僅僅是二十一世紀，說不定還是有史以來」\[81\]
+  - James Paul Matthews於雜誌《Hit The Floor》中評價「透過首張專輯證明了，BABYMETAL就是絕對的天才。是的，天才。全世界每一個聽者通通都在問自己〝我喜歡這個？〞或〝我討厭這個？〞，光是做到這一點就完全令人興奮了。BABYMETAL的首張專輯是最有趣也最令人困惑的，不僅僅是二十一世紀，說不定還是有史以來」\[81\]
 
 [BabyMetal_Sonisphere_2014_in_the_United_Kingdom_03.jpg](https://zh.wikipedia.org/wiki/File:BabyMetal_Sonisphere_2014_in_the_United_Kingdom_03.jpg "fig:BabyMetal_Sonisphere_2014_in_the_United_Kingdom_03.jpg")
 
@@ -468,13 +446,11 @@ EMU-0210400</p></td>
 
 **日本國外**
 
-日本國外展開的數位販售中\[108\]，[iTunes
-Store在美國](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、加拿大、英國、德國、台灣、印度尼西亞等地區都贏得音樂專輯榜下載第1名\[109\]、愛爾蘭、瑞典、加拿大第10名\[110\]\[111\]。由於它的急速上升，立刻引起了像《[今日美國](../Page/今日美國.md "wikilink")》這樣的專業樂評們注意\[112\]。
+日本國外展開的數位販售中\[108\]，[iTunes Store在美國](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、加拿大、英國、德國、台灣、印度尼西亞等地區都贏得音樂專輯榜下載第1名\[109\]、愛爾蘭、瑞典、加拿大第10名\[110\]\[111\]。由於它的急速上升，立刻引起了像《[今日美國](../Page/今日美國.md "wikilink")》這樣的專業樂評們注意\[112\]。
 
 在美國《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》「」中，2014年3月15日以第20名空降\[113\]，隔週升上第4名\[114\]、[告示牌200大專輯榜中為第](https://zh.wikipedia.org/wiki/告示牌200大專輯榜 "wikilink")187名\[115\]、頂尖搖滾專輯榜50名\[116\]、硬搖滾專輯榜第12名\[117\]、全球專輯榜第2名\[118\]之後，9月20日上升到全球專輯榜第1名，之後總計四度位居第1名\[119\]。年底，位居2014年度世界專輯總榜第7名\[120\]。
 
 在[英國官方排行榜公司中](https://zh.wikipedia.org/wiki/英國官方排行榜公司 "wikilink")，2014年3月15日空降搖滾金屬專輯榜第38名\[121\]、3月22日登上獨立專輯榜第19名\[122\]，7月19日位於搖滾與金屬專輯榜第37名\[123\]、獨立專輯突破榜上升到第7名\[124\]。
-
 
 <table>
 <thead>
@@ -757,7 +733,7 @@ Store在美國](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、加拿�
 
 在中，2015年6月6日在百大專輯榜居第90名\[159\]。
 
-在[比利時Ultratop榜中](https://zh.wikipedia.org/wiki/Ultratop榜 "wikilink")，2015年6月13日在200大專輯榜中居第181名\[160\]。
+在[比利時Ultratop榜中](../Page/Ultratop榜.md "wikilink")，2015年6月13日在200大專輯榜中居第181名\[160\]。
 
 在日本公信榜中，2015年6月15日週榜第20名登場\[161\]（一週後上升為第18名\[162\]）。
 
@@ -911,9 +887,7 @@ Store在美國](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、加拿�
 
 ## 製作
 
-參與製作的部門與人員名單來自專輯內頁註記、專輯《》內頁註記、單曲《Babymetal × Kiba of Akiba》封底註記、單曲《Head
-Bangya\!\!》內頁註記、單曲《欺淩、不行、絕對》普通版和首批限量版 "I" 版內頁註記，以及單曲《女狐》普通版和首批限量版"ツ"
-版的內頁註記。
+參與製作的部門與人員名單來自專輯內頁註記、專輯《》內頁註記、單曲《Babymetal × Kiba of Akiba》封底註記、單曲《Head Bangya\!\!》內頁註記、單曲《欺淩、不行、絕對》普通版和首批限量版 "I" 版內頁註記，以及單曲《女狐》普通版和首批限量版"ツ" 版的內頁註記。
 
 ### 參與人員
 
@@ -1102,12 +1076,8 @@ Bangya\!\!》內頁註記、單曲《欺淩、不行、絕對》普通版和首�
 
 ### 參與部門
 
-  - <small>錄音: S.O.L.I.D. Sound Lab、Heartbeat Recording
-    Studio、MukuStudio、Sound Arts Studio、Wacken Open Studio、ABS
-    Recording</small>
-  - <small>混音: S.O.L.I.D. Sound Lab、Heartbeat Recording Studio、Art Pop
-    Entertainment、Hama Shobo Studio(滨书房スタジオ)、King Sekiguchidai
-    Studio</small>
+  - <small>錄音: S.O.L.I.D. Sound Lab、Heartbeat Recording Studio、MukuStudio、Sound Arts Studio、Wacken Open Studio、ABS Recording</small>
+  - <small>混音: S.O.L.I.D. Sound Lab、Heartbeat Recording Studio、Art Pop Entertainment、Hama Shobo Studio(滨书房スタジオ)、King Sekiguchidai Studio</small>
   - <small>母帶處理: Form the Master、Parasight Mastering</small>
 
 ### 現場演奏
@@ -1156,8 +1126,7 @@ Bangya\!\!》內頁註記、單曲《欺淩、不行、絕對》普通版和首�
 
     <li value="6">
 
-    <small>ギミチョコ\!\!（from LEGEND “1997” SU-METAL 聖誕祭 at 幕張メッセイベントホール
-    Dec/21/2013）／Gimme Chocolate\!\! </small>
+    <small>ギミチョコ\!\!（from LEGEND “1997” SU-METAL 聖誕祭 at 幕張メッセイベントホール Dec/21/2013）／Gimme Chocolate\!\! </small>
 
 <!-- end list -->
 
@@ -1205,8 +1174,7 @@ Bangya\!\!》內頁註記、單曲《欺淩、不行、絕對》普通版和首�
 
 ## 翻唱
 
-2015年，爵士鋼琴樂手西山瞳翻唱了專輯收錄曲〈悪夢の輪舞曲〉，收錄在她的專輯《New Heritage Of Real Heavy Metal
-/ NHORHM》中第8曲\[185\]。她表示，非常喜歡主唱SU-METAL直率的唱歌方式\[186\]
+2015年，爵士鋼琴樂手西山瞳翻唱了專輯收錄曲〈悪夢の輪舞曲〉，收錄在她的專輯《New Heritage Of Real Heavy Metal / NHORHM》中第8曲\[185\]。她表示，非常喜歡主唱SU-METAL直率的唱歌方式\[186\]
 
 ## 註釋
 
@@ -1215,21 +1183,15 @@ Bangya\!\!》內頁註記、單曲《欺淩、不行、絕對》普通版和首�
 ## 外部連結
 
   -
-  - [DISCOGRAPHY](http://www.toysfactory.co.jp/artist/babymetal/disco) -
-    TOY'S FACTORY 官方網站
+  - [DISCOGRAPHY](http://www.toysfactory.co.jp/artist/babymetal/disco) - TOY'S FACTORY 官方網站
 
-  - [1st
-    Album「BABYMETAL」發售決定DEATH！！](http://www.babymetal.jp/news/0/12357/)
-    - 新聞 - BABYMETAL 官方網站
+  - [1st Album「BABYMETAL」發售決定DEATH！！](http://www.babymetal.jp/news/0/12357/) - 新聞 - BABYMETAL 官方網站
 
   - [BABYMETAL的MusicBrainz音樂資料庫](https://musicbrainz.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550)
 
   - [BABYMETAL的Discogs音樂資料庫](https://www.discogs.com/ja/release/5687993)
 
-[Category:BABYMETAL](https://zh.wikipedia.org/wiki/Category:BABYMETAL "wikilink")
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:TOY'S_FACTORY音樂專輯](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY音樂專輯 "wikilink")
-[Category:CD店大獎獲獎作品](https://zh.wikipedia.org/wiki/Category:CD店大獎獲獎作品 "wikilink")
+[Category:BABYMETAL](https://zh.wikipedia.org/wiki/Category:BABYMETAL "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:TOY'S_FACTORY音樂專輯](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY音樂專輯 "wikilink") [Category:CD店大獎獲獎作品](https://zh.wikipedia.org/wiki/Category:CD店大獎獲獎作品 "wikilink")
 
 1.
 
@@ -1248,9 +1210,7 @@ Bangya\!\!》內頁註記、單曲《欺淩、不行、絕對》普通版和首�
 10.
 11.
 
-12. [MARQUEE
-    vol.101](https://zh.wikipedia.org/wiki/#MARQUEE101-memberinterview "wikilink")
-    19頁
+12. [MARQUEE vol.101](https://zh.wikipedia.org/wiki/#MARQUEE101-memberinterview "wikilink") 19頁
 
 13.
 
@@ -1344,9 +1304,7 @@ Bangya\!\!》內頁註記、單曲《欺淩、不行、絕對》普通版和首�
 
 73.
 74.
-75. [MARQUEE
-    vol.101](https://zh.wikipedia.org/wiki/#MARQUEE101-memberinterview "wikilink")
-    18頁
+75. [MARQUEE vol.101](https://zh.wikipedia.org/wiki/#MARQUEE101-memberinterview "wikilink") 18頁
 
 76.
 77.

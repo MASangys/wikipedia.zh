@@ -1,5 +1,4 @@
-**高級Z轉換**（英語：Advanced z-transform，或 modified
-z-transform）是[Z轉換的延伸](https://zh.wikipedia.org/wiki/Z轉換 "wikilink")，是[數學及](https://zh.wikipedia.org/wiki/數學 "wikilink")[信號處理領域中的工具](https://zh.wikipedia.org/wiki/信號處理 "wikilink")，它將不是[取樣週期整數倍的延遲考慮進去](https://zh.wikipedia.org/wiki/取樣週期 "wikilink")。具有以下形式
+**高級Z轉換**（英語：Advanced z-transform，或 modified z-transform）是[Z轉換的延伸](https://zh.wikipedia.org/wiki/Z轉換 "wikilink")，是[數學及](https://zh.wikipedia.org/wiki/數學 "wikilink")[信號處理領域中的工具](https://zh.wikipedia.org/wiki/信號處理 "wikilink")，它將不是[取樣週期整數倍的延遲考慮進去](https://zh.wikipedia.org/wiki/取樣週期 "wikilink")。具有以下形式
 
 \[F(z, m) = \sum_{k=0}^{\infty} f(k T + m)z^{-k}\]
 
@@ -55,7 +54,6 @@ F(z, m) & = \mathcal{Z} \left\{ \cos \left(\omega \left(k T + m \right) \right) 
 
 ## 參考文獻
 
-  - Eliahu Ibrahim Jury, *Theory and Application of the z-Transform
-    Method*, Krieger Pub Co, 1973. .
+  - Eliahu Ibrahim Jury, *Theory and Application of the z-Transform Method*, Krieger Pub Co, 1973. .
 
 [分類:變換](https://zh.wikipedia.org/wiki/分類:變換 "wikilink")

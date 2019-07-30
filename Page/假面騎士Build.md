@@ -1,7 +1,6 @@
-《**假面騎士Build**》（），為2017年9月3日於[朝日電視台](../Page/朝日電視台.md "wikilink")08:00\~08:30，\[1\]播放的日本[特攝電視劇](https://zh.wikipedia.org/wiki/特攝 "wikilink")\[2\]\[3\]，為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》第19部[平成系列作品](../Page/平成.md "wikilink")，假面騎士Build
-也是本作主角變身的英雄的名字。口號是「勝利的法則已被確定\! 」\[4\]
+《**假面騎士Build**》（），為2017年9月3日於[朝日電視台](../Page/朝日電視台.md "wikilink")08:00\~08:30，\[1\]播放的日本[特攝電視劇](https://zh.wikipedia.org/wiki/特攝 "wikilink")\[2\]\[3\]，為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》第19部[平成](../Page/平成.md "wikilink")系列作品，假面騎士Build 也是本作主角變身的英雄的名字。口號是「勝利的法則已被確定\! 」\[4\]
 
-香港方面，在無線電視取消假面騎士時段導致《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》被跳過播放之後，[香港電視娛樂購入了](../Page/香港電視娛樂.md "wikilink")《-{幪面超人系列}-》版權，并由該作開始播放，並將本作譯名為《-{幪面超人Build}-》，由2018年12月30日開始，於[ViuTV每週日上午](../Page/ViuTV.md "wikilink")11:00－11:30雙語廣播粵語配音版及日語版（第二至十集，週日中午12:00－12:30；第十一至十三集，週六深夜00:30－01:00重播；第十四集起，週六深夜00:35－01:00重播）。粵語配音版配上繁體中文字幕後進行網上直播。提供約7日節目重溫。此作是[香港電視娛樂首部播放的](../Page/香港電視娛樂.md "wikilink")《-{幪面超人系列}-》作品。
+香港方面，在無線電視取消假面騎士時段導致《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》被跳過播放之後，[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")購入了《-{幪面超人系列}-》版權，并由該作開始播放，並將本作譯名為《-{幪面超人Build}-》，由2018年12月30日開始，於[ViuTV](../Page/ViuTV.md "wikilink")每週日上午11:00－11:30雙語廣播粵語配音版及日語版（第二至十集，週日中午12:00－12:30；第十一至十三集，週六深夜00:30－01:00重播；第十四集起，週六深夜00:35－01:00重播）。粵語配音版配上繁體中文字幕後進行網上直播。提供約7日節目重溫。此作是[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")首部播放的《-{幪面超人系列}-》作品。
 
 中國大陸[騰訊視頻于](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")2019年2月10日全集上架該作日語版本。
 
@@ -35,52 +34,33 @@
 ## 本作特色
 
   - 本作邀請到以電視版本的《[電車男](../Page/電車男.md "wikilink")》及電影《[熱血高校](../Page/熱血高校.md "wikilink")》、《[羅馬浴場](https://zh.wikipedia.org/wiki/羅馬浴場 "wikilink")》為著名代表作的編劇武藤將吾擔任編劇\[5\]。
-  - 本作的主角騎士假面騎士Build
-    是以「[生物](../Page/生物.md "wikilink")」及「[非生物](https://zh.wikipedia.org/wiki/非生物 "wikilink")」造型及交錯配色為設計概念。
+  - 本作的主角騎士假面騎士Build 是以「[生物](../Page/生物.md "wikilink")」及「[非生物](https://zh.wikipedia.org/wiki/非生物 "wikilink")」造型及交錯配色為設計概念。
   - 本作繼《[假面騎士Kabuto](https://zh.wikipedia.org/wiki/假面騎士Kabuto "wikilink")》、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》後再次繼續採用連貫式劇本，而劇中亦首次出現暗示性的情節，令人可以大致上想像後續的劇情。
   - 本作自《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》起連續四套均有使用「假面騎士」的稱呼，為平成假面騎士系列的首次\[6\]，同時亦是系列第二次設定上將假面騎士作爲政府組織所製造並用以軍事用途\[7\]。本作在第15集至今第一次以戰爭在故事中期開始
   - 本作繼前作《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》後再次出現多於三名假面騎士，亦是繼《[假面騎士Kabuto](https://zh.wikipedia.org/wiki/假面騎士Kabuto "wikilink")》後連續兩部作品出現多於三名假面騎士。
   - 本作主角為《平成假面騎士系列》中智商（IQ）最高的主角\[8\]，同時亦是首位被設定為科學家\[9\]的平成男主角。
-      - 正因爲男主角被設定為科學家，所以劇中經常出現不同算式，如每話的開頭顯示該話的標題時首先會顯示出與該話數相關的算式，之後才會顯示正式的話數（如第1話就首先顯示「\(1010^0\)」，之後就會顯示「1」，因爲「\(1010^0\)
-        = 1」\[10\]）；變身時和發出必殺技均出現算式彈幕。
+      - 正因爲男主角被設定為科學家，所以劇中經常出現不同算式，如每話的開頭顯示該話的標題時首先會顯示出與該話數相關的算式，之後才會顯示正式的話數（如第1話就首先顯示「\(1010^0\)」，之後就會顯示「1」，因爲「\(1010^0\) = 1」\[10\]）；變身時和發出必殺技均出現算式彈幕。
   - 本作主打最大尺度的世界觀\[11\]，也因此其世界觀是獨立，並非以往新平成系列作所在的世界觀\[12\]，也相對地時間流速與以往系列作有所不同\[13\]。
-  - 本作自《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》以來連續三年選用[JUNON
-    SUPER BOY大獎得主為主角假面騎士](../Page/JUNON_SUPER_BOY.md "wikilink")\[14\]。
+  - 本作自《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》以來連續三年選用[JUNON SUPER BOY大獎得主為主角假面騎士](../Page/JUNON_SUPER_BOY.md "wikilink")\[14\]。
   - 本作繼演唱《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》主題曲的土屋安娜後睽違6年再度由女性歌手演唱《假面騎士系列》作品的主題曲\[15\]。
   - 自《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》後，再次調整回9月初首播假面騎士\[16\]，並在片頭曲開始時再有旁白介紹劇情簡介。
   - 自《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》期間，除笫1話和最終回，大多數集數不先播放上回提要和故事開頭，先播片頭曲再進入上回提要和故事開頭，至本作恢復播放上回提要和故事開頭。
   - 自《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》起，連續3部假面騎士作品第1話沒有常規電視片頭曲片段和主題曲的MV中無假面騎士參與演出的畫面，此外部份話數沒有播放常規電視片頭曲片段，是繼《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》再次有相關安排。
   - 本作是首部官方主題曲宣傳片段（電視版長度）早過電視版流出\[17\]。
-  - 本作主角是《假面騎士系列》中創下最早由人類直接變身成具有戰鬥力的非基本型態戰鬥，於第2話桐生戰兔與夜霸戰鬥時，直接變身成Trial
-    型態－刺蝟坦克形態戰鬥\[18\]。
+  - 本作主角是《假面騎士系列》中創下最早由人類直接變身成具有戰鬥力的非基本型態戰鬥，於第2話桐生戰兔與夜霸戰鬥時，直接變身成Trial 型態－刺蝟坦克形態戰鬥\[18\]。
   - 本作的片尾閉幕畫面會出現當話登場的最佳配對型態的滿裝瓶\[19\]並在其後播放下回預告\[20\]。
   - 本作在每話開始前由兩位男主角以[對口相聲形式敘述上話概要](https://zh.wikipedia.org/wiki/對口相聲 "wikilink")\[21\]\[22\]（女主角石動美空及男配角石動惣一偶爾也會插入話題中\[23\]，之後其他角色也會不定期的亂入其中）\[24\]。
   - 從此網上片段可知\[25\]，假面騎士Build有多達32種最佳配對形態，即共有64個滿裝瓶\[26\]。如果沒有限制設定，可能已達到1024種（32X32=1024），遠超《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》，是假面騎士系列中擁有最多形態，尚未包括進階和最終形態的騎士\[27\]
   - 本作採用了部分歷作元素，部分設定上較為雷同、相似：
       - 與《[假面騎士顎門](https://zh.wikipedia.org/wiki/假面騎士顎門 "wikilink")》、《[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")》一樣主角騎士失去以往的記憶。
-      - 與《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》、《[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")》、《[假面騎士KIVA](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")》和《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》一樣，亦採用幻想種生物之一「龍」，其中假面騎士Cross-Z飛踢必殺技更像假面騎士龍騎。亦繼《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》後,再度出現已死的假面騎士變身者於最終回復活。\[28\]
-      - 與《[假面騎士555](../Page/假面騎士555.md "wikilink")》、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》、《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》一樣，變身者必須擁有特定條件，普通人類不能變身\[29\]。此外由於假面騎士Build是使用外掛型變身腰帶的關係,除《[假面騎士空我](../Page/假面騎士空我.md "wikilink")》、《[假面騎士顎門](https://zh.wikipedia.org/wiki/假面騎士顎門 "wikilink")》、《[假面騎士響鬼](https://zh.wikipedia.org/wiki/假面騎士響鬼 "wikilink")》、《[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")》與《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》之外,與以往所有使用外掛型變身腰帶的平成騎士一樣,本作再次有複數變身者存在\[30\];而且繼《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的假面騎士斬月
-        (吳島貴虎) VS
-        假面騎士斬月．真(吳島光實)、《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的假面騎士Dark
-        Drive(泊英志) VS 假面騎士超Dead Heat
-        Drive(泊進之介)、《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》的假面騎士Specter
-        (深海誠複製體) VS 假面騎士Deep Specter
-        (深海誠)、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的假面騎士Brave
-        (鏡飛彩) VS 假面騎士True Brave
-        (遊戲世界的鏡飛彩)、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的假面騎士
-        Gamedeus Cronus (檀正宗) VS
-        假面騎士Cronus(花家大我),本作第六次有複數騎士形態對決—假面騎士Build
-        坦克坦克型態(桐生戰兔) vs 假面騎士Build (葛城忍)。
+      - 與《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》、《[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")》、《[假面騎士KIVA](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")》和《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》一樣，亦採用幻想種生物之一「龍」，其中假面騎士Cross-Z飛踢必殺技更像假面騎士龍騎。亦繼《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》後，再度出現已死的假面騎士變身者於最終回復活。\[28\]
+      - 與《[假面騎士555](../Page/假面騎士555.md "wikilink")》、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》、《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》一樣，變身者必須擁有特定條件，普通人類不能變身\[29\]。此外由於假面騎士Build是使用外掛型變身腰帶的關係,除《[假面騎士空我](../Page/假面騎士空我.md "wikilink")》、《[假面騎士顎門](https://zh.wikipedia.org/wiki/假面騎士顎門 "wikilink")》、《[假面騎士響鬼](https://zh.wikipedia.org/wiki/假面騎士響鬼 "wikilink")》、《[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")》與《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》之外,與以往所有使用外掛型變身腰帶的平成騎士一樣,本作再次有複數變身者存在\[30\];而且繼《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的假面騎士斬月 (吳島貴虎) VS 假面騎士斬月．真(吳島光實)、《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的假面騎士Dark Drive(泊英志) VS 假面騎士超Dead Heat Drive(泊進之介)、《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》的假面騎士Specter (深海誠複製體) VS 假面騎士Deep Specter (深海誠)、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的假面騎士Brave (鏡飛彩) VS 假面騎士True Brave (遊戲世界的鏡飛彩)、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的假面騎士 Gamedeus Cronus (檀正宗) VS 假面騎士Cronus(花家大我),本作第六次有複數騎士形態對決—假面騎士Build 坦克坦克型態(桐生戰兔) vs 假面騎士Build (葛城忍)。
       - 與《[假面騎士劍](https://zh.wikipedia.org/wiki/假面騎士劍 "wikilink")》一樣，敵人被打敗後雖然出現綠色火焰的爆炸，但只是身體機能停止運作，並不會被打爆，之後透過道具將敵人封印或吸收。
       - 與《[假面騎士Kabuto](https://zh.wikipedia.org/wiki/假面騎士Kabuto "wikilink")》一樣與主角假面騎士敵對的政府組織。而且第二男主角兼第二位假面騎士先於第1話登場,曾首次嘗試變身但失敗,並在故事中期獲得變身能力和先後使用不同變身器變身不同騎士。\[31\]
       - 與《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》的鏡像真司、《[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")》的異魔神、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的帕拉德、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的光金一樣，艾博魯特可附身其他人類以變身其騎士姿態,直至第38話艾博魯特因恢復到完全姿態而無需靠附身人類來變身,但擬態成其他人樣貌,與《[假面騎士KABUTO](https://zh.wikipedia.org/wiki/假面騎士KABUTO "wikilink")》的怪人異蟲,《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的怪人Roidmude一樣。
-      - 與《[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")》一樣，Build的世界觀與新平成騎士世界如OOO、Fourze和EX-AID等完全獨立\[32\]，可視為2個地球，因此劇場版《[假面騎士平成Generations
-        FINAL Build & EX-AID with
-        傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》解釋出EX-AID世界沒有天空之壁。此劇場版亦描述反派角色「最上魁星」利用平行世界移動裝置Enigma，讓兩個地球互相衝突，想把Build世界的最上魁星與另一個自己融合並企圖獲取不老不死的肉體，此情節猶如Decade一樣，Decade都是不同騎士存在的9個平行世界正開始融合而崩解。\[33\]此外Build可變身成平成歷代騎士，如Ex-aid，但只限此劇場版<ref group="注">不像過去新平成騎士變身歷代騎士時，因應該騎士特徵而需特別設計，如Ex-aid於上一個聯動劇場版變身成Ghost
-        Gamer
+      - 與《[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")》一樣，Build的世界觀與新平成騎士世界如OOO、Fourze和EX-AID等完全獨立\[32\]，可視為2個地球，因此劇場版《[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》解釋出EX-AID世界沒有天空之壁。此劇場版亦描述反派角色「最上魁星」利用平行世界移動裝置Enigma，讓兩個地球互相衝突，想把Build世界的最上魁星與另一個自己融合並企圖獲取不老不死的肉體，此情節猶如Decade一樣，Decade都是不同騎士存在的9個平行世界正開始融合而崩解。\[33\]此外Build可變身成平成歷代騎士，如Ex-aid，但只限此劇場版<ref group="注">不像過去新平成騎士變身歷代騎士時，因應該騎士特徵而需特別設計，如Ex-aid於上一個聯動劇場版變身成Ghost Gamer
 
-Level
-2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍保留風鏡設計。可是Build變身Ex-aid，Build的交錯配色特徵被忽略，變成好像Decade般只是平成歷代騎士皮套配Build腰帶模樣</ref>。
+Level 2，由於Ex-aid的特徵是風鏡，因此整個外型似Ghost，但仍保留風鏡設計。可是Build變身Ex-aid，Build的交錯配色特徵被忽略，變成好像Decade般只是平成歷代騎士皮套配Build腰帶模樣</ref>。
 
   -   - 與《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》一樣以兩種變身要素作為變身設定，並在變身時於腰帶前方浮現變身道具的圖像，以及寵物型的變身道具。同時再次出現主角的角色名並非其真名\[34\]。亦因為題材類似，本作的劇名註冊時被誤傳為《假面騎士W》的相同题材作品。另外本作敵人包括夜霸、血逐、堅硬猛擊者和凱撒系統,同W的怪人Dopant一樣,使用變身器變身和發出電子語音的怪人。
       - 與《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》一樣，變身音效因應聯組而出現特別聲效，同樣地只有聯組才能發揮出完全的戰鬥力，而且機車也是藉助與獅子相關的道具來變形，且敵人亦會搶奪主角的變身道具。
@@ -93,11 +73,9 @@ Level
       - 與《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》的淺倉威、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的檀正宗一樣，萬丈龍我在故事開始初期以囚犯身份登場,後來成為假面騎士，然而與前兩者不同的是，前面兩人皆為反派而萬丈為正派立場。
       - 與《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》的菲理普、《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》的歌星賢吾一樣，第二男主角萬丈龍我在故事後期發現自己不是人類\[41\]\[42\]。
       - 第34話至第36話採用人物關係圖的形式做前情提要，與《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》的偶數回一樣
-      - 本作最終首腦Evolto/假面騎士Evol為繼《[假面騎士555](../Page/假面騎士555.md "wikilink")》中的乾巧/假面騎士555/狼型操冥使徒、《[假面騎士劍](https://zh.wikipedia.org/wiki/假面騎士劍 "wikilink")》中的相川始/假面騎士聖杯/Joker、《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》中的火野映司/假面騎士OOO/映司Greeed、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》中的笛木奏/假面騎士Wiseman/卡巴克魯、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》中的驅紋戒斗/假面騎士男爵/帝王巴隆、《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的Chase
-        /假面騎士Chaser/零原型後再次出現同時擁有騎士與怪人型態的戰士
+      - 本作最終首腦Evolto/假面騎士Evol為繼《[假面騎士555](../Page/假面騎士555.md "wikilink")》中的乾巧/假面騎士555/狼型操冥使徒、《[假面騎士劍](https://zh.wikipedia.org/wiki/假面騎士劍 "wikilink")》中的相川始/假面騎士聖杯/Joker、《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》中的火野映司/假面騎士OOO/映司Greeed、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》中的笛木奏/假面騎士Wiseman/卡巴克魯、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》中的驅紋戒斗/假面騎士男爵/帝王巴隆、《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的Chase /假面騎士Chaser/零原型後再次出現同時擁有騎士與怪人型態的戰士
 
-  - 本作劇情中出現一個關於與前作《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》相關的小連結，就是第2話中女主角石動美空所玩的手遊畫面，正是聯動劇場版《[平成Generations](../Page/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士.md "wikilink")》中登場的角色清宮東吾所開發的遊戲「Hatesate
-    Puzzle（ハテサテパズル）」。
+  - 本作劇情中出現一個關於與前作《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》相關的小連結，就是第2話中女主角石動美空所玩的手遊畫面，正是聯動劇場版《[平成Generations](../Page/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士.md "wikilink")》中登場的角色清宮東吾所開發的遊戲「Hatesate Puzzle（ハテサテパズル）」。
 
   - 本作的第一男主角－桐生戰兔是《假面騎士系列》中少數同時身兼假面騎士變身者及道具裝備開發者的主角騎士\[43\]。
 
@@ -115,13 +93,11 @@ Level
 
   - 繼《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》的假面騎士Meteor、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》的假面騎士Beast後，本作的二騎最終形態第三次早於主角騎士登場，也是首次於本篇劇情就有三重以上變身形態的二騎\[52\]。
 
-  - 本作的假面騎士Build天才形態是新平成主角騎士中最晚登場的最終型態，於第39話登場\[53\],但已被後作《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》打破
-    \[54\]。
+  - 本作的假面騎士Build天才形態是新平成主角騎士中最晚登場的最終型態，於第39話登場\[53\],但已被後作《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》打破 \[54\]。
 
   - 由《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》起，二騎均會在故事中後期短暫地叛變到敵方陣營\[55\]\[56\]。
 
-  - 繼《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》的假面騎士Birth，《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的假面騎士Drive
-    / Mach後，本作第三次有騎士頭部內部特寫畫面，暫時只有假面騎士Build, Cross-Z和Rogue。
+  - 繼《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》的假面騎士Birth，《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的假面騎士Drive / Mach後，本作第三次有騎士頭部內部特寫畫面，暫時只有假面騎士Build, Cross-Z和Rogue。
 
   - 本作繼《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》後再次在春季不與超級戰隊系列聯動劇情\[57\]。
 
@@ -133,11 +109,9 @@ Level
 
   - 本作繼《[假面騎士555](../Page/假面騎士555.md "wikilink")》和《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》後再次由一人編劇完成整部劇本。
 
-  - 本作繼《[假面騎士KIVA](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")》和《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》後再次出現危險性變身，即變身一次有機會致命。如紅音也（假面騎士DARK
-    KIVA）和吳島光實（假面騎士龍玄．黃泉）。巧合地，有份參演本作的之前在《[假面騎士KIVA](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")》中飾演紅音也，而本作同樣因危險性變身而致命，武田航平在參演本作後被冠上**「擁有五條腰帶的男人」**的稱號。
+  - 本作繼《[假面騎士KIVA](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")》和《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》後再次出現危險性變身，即變身一次有機會致命。如紅音也（假面騎士DARK KIVA）和吳島光實（假面騎士龍玄．黃泉）。巧合地，有份參演本作的之前在《[假面騎士KIVA](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")》中飾演紅音也，而本作同樣因危險性變身而致命，武田航平在參演本作後被冠上**「擁有五條腰帶的男人」**的稱號。
 
-  - 本作繼《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》,《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》,
-    《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》,《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》和《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》後第六次最終戰主角不直接變身最終型態戰鬥。\[58\]
+  - 本作繼《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》,《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》, 《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》,《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》和《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》後第六次最終戰主角不直接變身最終型態戰鬥。\[58\]
 
   - 本作繼《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》,《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》後再次沒有次作騎士/相關人物於TV版率先登場,但與W一樣TV版出現次作騎士相關道具。\[59\]
 
@@ -145,8 +119,7 @@ Level
 
 從在火星上所發現的神秘之盒－「潘朵拉之盒」被打開的瞬間，突然地出現巨大牆壁開始了本作的故事。
 
-被稱之為「天空之壁」的牆壁，將日本列島分割成三區塊，分別為「東都」、「西都」、「北都」及各自的首都也因此誕生了。
-其中於「東都」上突然出現被命名為「SMASH」的未確認生命體....。
+被稱之為「天空之壁」的牆壁，將日本列島分割成三區塊，分別為「東都」、「西都」、「北都」及各自的首都也因此誕生了。 其中於「東都」上突然出現被命名為「SMASH」的未確認生命體....。
 
 它們暗中地將人類逐漸逼進絕境。在那樣的SMASH 面前站出來一名青年－桐生戰兔，其腰上繫著腰帶，他的手上握有著不可思議的瓶子。
 
@@ -248,7 +221,7 @@ Level
 
       -
         原文： / Hokuto
-        因天空之璧而將日本列島分割成三塊後所形成的三個區域之一，覆蓋著北[本州和](../Page/本州.md "wikilink")[北海道](../Page/北海道.md "wikilink")。首相為多治見喜子。
+        因天空之璧而將日本列島分割成三塊後所形成的三個區域之一，覆蓋著北[本州](../Page/本州.md "wikilink")和[北海道](../Page/北海道.md "wikilink")。首相為多治見喜子。
         因社會福利充實而相當穩定，大力支持育兒及農業發展，並開始製造武器強化軍隊。街上到處都是軍隊，很多居民都想偷渡出去。
         但因天然資源不豐富，再加上因天空之壁的關係和土壤發生變化，而導致無法進口其他國家的糧食和貨物以及种植農作物，繼而使得經濟變得相當紧迫惡化，也因此失去社會安定。
         亦因經濟接近崩潰，大部分家庭無法負擔每日的基本開支，尤其是兒童的學習，所以有很多人願意為小童做義學\[69\]。
@@ -269,9 +242,7 @@ Level
 
       -
         原文： / Hokuto Sanba Kalas
-        北都政府所屬的特殊部隊，成員為赤羽、青羽和黃羽\[71\]，三人皆可變身成Hard
-        SMASH\[72\]，由假面騎士Grease
-        的變身者猿渡一海統帥該部隊。第25集隨著赤羽被幻德殺死，已經全員陣亡。
+        北都政府所屬的特殊部隊，成員為赤羽、青羽和黃羽\[71\]，三人皆可變身成Hard SMASH\[72\]，由假面騎士Grease 的變身者猿渡一海統帥該部隊。第25集隨著赤羽被幻德殺死，已經全員陣亡。
         第46話被艾博魯特的遗传因子拟態而成，并变身成Lost SMASH，和猿渡對戰，最后全军覆没。
         \*三羽鴉，又稱「三羽烏」，意思是某一領域特別優秀的三人組。
 
@@ -288,11 +259,9 @@ Level
 
   - Faust
     原文：
-    最近三年出現的[恐怖组织](https://zh.wikipedia.org/wiki/恐怖组织 "wikilink")\[73\]，濫用火星上發現的潘朵拉之盒內的技術來對人體進行一系列實驗並制造出SMASH
-    。
+    最近三年出現的[恐怖组织](https://zh.wikipedia.org/wiki/恐怖组织 "wikilink")\[73\]，濫用火星上發現的潘朵拉之盒內的技術來對人體進行一系列實驗並制造出SMASH 。
     以**創造出究極的SMASH** 和**製造騎士作為軍事兵器**為首要目的，而將SMASH 放置在東都內作亂。
-    創立者是葛城巧和冰室幻德，同時也由「夜霸（Night Rouge）」充當最高首領，「血逐（Blood
-    Stalk）」亦是該組織的幹部之一，而難波重工的會長難波重三郎則是該組織的幕後資助者。
+    創立者是葛城巧和冰室幻德，同時也由「夜霸（Night Rouge）」充當最高首領，「血逐（Blood Stalk）」亦是該組織的幹部之一，而難波重工的會長難波重三郎則是該組織的幕後資助者。
     其勢力已蔓延至日本三都，已知組織架构由「幹部 → SMASH → 保衛者」构成，此外也有不少的科學家及研究員為其效力。
     另外該組織以「」來分類所實驗的人體對象。
     目前因難波重三郎的命令及冰室幻德的設計下，使得內海成彰背上Faust 首領的黑鍋，但也因此成功轉移人民的視線。
@@ -353,8 +322,7 @@ Level
   - 創世計劃
     原文： / *-{Project Build}-*
     由葛城巧所定下的一个計劃方案，為Faust 的起始之路、使SMASH 诞生的主因以及騎士系統的制作來源。
-    後從艾博魯特口中得知整個創世計劃最終目的在於利用科學的力量讓Build 超越人體的極限，然後艾博魯特自己將超越人體極限的Build
-    吞噬吸收並進化成完全姿態。
+    後從艾博魯特口中得知整個創世計劃最終目的在於利用科學的力量讓Build 超越人體的極限，然後艾博魯特自己將超越人體極限的Build 吞噬吸收並進化成完全姿態。
     雖然使用者利用變身系統變身成假面騎士後可大大提升使用者的戰鬥力及危險等級，但因要使用星雲氣體戰鬥，所以對使用者來說使用變身系統是一個非常大的負擔，解除變身後短期内再變身使用者的肉體有機會灰飛煙滅。如果使用者的身體本身無法負荷危險等級的急速提升更會加快其消散\[76\]。
     葛城巧亦為創世計劃製造了影像檔案，後因追加葛城忍的研究資料的關係，內容更加完善充足，主要在檔案中提供有關檔案的使用説明，其中：
       - 檔案001：
@@ -381,9 +349,7 @@ Level
         原文： / *-{Transteam System}-*
         夜霸與血逐所用的變身系統，其開發者亦為葛城巧。
         不同於會隨著使用者的危險等級上升而成長的騎士系統，其危險等級在設定中已經固定，是葛城巧參考最上魁星的凱撒系統開發出來的系統。
-        其中血逐在葛城巧的介紹影片中被其稱作「提升Build
-        危險等級的最強對手」，從這點來看此系統似乎是因為被葛城巧當成了提升Build
-        力量的「磨刀石」，所以危險等級才會被設定成固定的狀態。由於危險等級已經固定，所以裝備者只能依賴自身的技巧，能力和經驗來作戰。
+        其中血逐在葛城巧的介紹影片中被其稱作「提升Build 危險等級的最強對手」，從這點來看此系統似乎是因為被葛城巧當成了提升Build 力量的「磨刀石」，所以危險等級才會被設定成固定的狀態。由於危險等級已經固定，所以裝備者只能依賴自身的技巧，能力和經驗來作戰。
         第31話中得知血逐的固定危險等級只是假象，實際上他的危險等級遠高於其他人。
 
 :; 壓縮系統
@@ -401,8 +367,7 @@ Level
 
       -
         原文： / *-{ Kaiser System}-*
-        更多資訊：[假面騎士平成Generations FINAL Build & EX-AID with
-        傳說騎士\#用語](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士#用語 "wikilink")
+        更多資訊：[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士\#用語](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士#用語 "wikilink")
 
 :; 新凱撒系統
 
@@ -410,10 +375,8 @@ Level
 
       -
         原文： / *-{New Kaiser System}-*
-        Remocon Bros 與Engine Bros
-        所用的變身系統，是內海成彰繼承最上魁星所開發出的「凱撒系統」並加以改良後的版本。
-        此系統的集大成之作為Hell Bros\[77\]，但唯一的弱点就是难以承受假面騎士Build「鲨鱼机车形態（SameBike
-        Form）」那鲨鱼的电感受器之力和机车的机动能力\[78\]。
+        Remocon Bros 與Engine Bros 所用的變身系統，是內海成彰繼承最上魁星所開發出的「凱撒系統」並加以改良後的版本。
+        此系統的集大成之作為Hell Bros\[77\]，但唯一的弱点就是难以承受假面騎士Build「鲨鱼机车形態（SameBike Form）」那鲨鱼的电感受器之力和机车的机动能力\[78\]。
 
 :; 進化系統
 
@@ -475,12 +438,10 @@ Level
     原文： / *-{Pandora Box}-*
     10年前在火星所發現的方块型神秘之盒，被認為是某個文明所制作的器具，也是造成日本列島被「天空之壁」分割成三大區域的主要關鍵。
     盒子的外壳為雙重構造，並且擁有紅、藍和緑三個顏色的兩個外層表面，以應對其外層的六個金屬嵌板。裏面藏有著比核能更強大的能量物質，致使本作騎士所使用的變身道具均從該盒的成分中提出\[82\]。
-    因「天空之壁的悲劇」的關係，所有金屬嵌板因此全數脫落，更遭到Faust
-    盜走，並分布於三都，導致現在的潘朵拉之盒事實上是並無金屬嵌板的模樣。
+    因「天空之壁的悲劇」的關係，所有金屬嵌板因此全數脫落，更遭到Faust 盜走，並分布於三都，導致現在的潘朵拉之盒事實上是並無金屬嵌板的模樣。
     透過冰室幻德得知，此盒子所散發出的光芒，會引發人類內心的好戰性格\[83\]，也因此導致三都之間的關係逐漸地不太融洽，甚至快達到引發戰爭的地步。
     在被放置於東都先端物質學研究所內的前一年，曾由葛城巧負責一系列的解析工作，現由桐生戰兔正負責進行\[84\]。
-    第10話時因冰室幻德的設計下，遭到Faust
-    劫走，但之後被血逐獨自帶走，雖然在第13話時被戰兔跟龍我一度給奪回，但在該話結尾時仍遭到石動惣一（血逐）連帶20枚滿裝瓶及嵌板一起帶走（然而實際上被帶走的滿裝瓶都是戰兔事先製作然後掉包的仿冒品，「章魚（Octopus）」和「光（Light）」滿裝瓶除外）。
+    第10話時因冰室幻德的設計下，遭到Faust 劫走，但之後被血逐獨自帶走，雖然在第13話時被戰兔跟龍我一度給奪回，但在該話結尾時仍遭到石動惣一（血逐）連帶20枚滿裝瓶及嵌板一起帶走（然而實際上被帶走的滿裝瓶都是戰兔事先製作然後掉包的仿冒品，「章魚（Octopus）」和「光（Light）」滿裝瓶除外）。
     第14話石動惣一將此盒、滿裝瓶及嵌板留在他們戰鬥之處\[85\]給戰兔，之後由戰兔交給東都首相冰室泰山親自看管，但在第16話在血逐襲擊首相冰室泰山後再次地落入冰室幻德手中。
     第17話成為北都大舉侵略東都的藉口\[86\]，而冰室幻德更以此威脅戰兔和龍我必須參與戰爭防衛東都\[87\]。
     第20話曾一度被其父冰室泰山回歸而下台的冰室幻德怒而搶走，但在戰兔的保護下取回。
@@ -508,10 +469,8 @@ Level
 
       -
         原文： / *-{Sky Wall}-*
-        10年前（ASW
-        1年）的9月12日，因「極」計劃的成果报告兼火星探測器的歸還儀式之時，潘朵拉之盒被某個神秘人——石動惣一（當時被艾博魯特附身）打開的關係下，發出光亮，而從地面上所隆起的神祕巨大牆壁。
-        不僅造成眾多市民的無辜犧牲，更將日本列島分割成現在的三大區域，此事件在後來被稱之為「天空之壁的悲劇」（ / *-{Sky
-        Wall Disaster}-*）。
+        10年前（ASW 1年）的9月12日，因「極」計劃的成果报告兼火星探測器的歸還儀式之時，潘朵拉之盒被某個神秘人——石動惣一（當時被艾博魯特附身）打開的關係下，發出光亮，而從地面上所隆起的神祕巨大牆壁。
+        不僅造成眾多市民的無辜犧牲，更將日本列島分割成現在的三大區域，此事件在後來被稱之為「天空之壁的悲劇」（ / *-{Sky Wall Disaster}-*）。
         牆壁的上方延伸出相當高的紅光屏障，接觸了這道牆壁的物品都會被毀壞，因此無法強行通過，但似乎還是有著少數的缺口能夠讓人安全通過。
         當時日本列島的生命線均被切断，但現在已被修復，能與其它地區通過邮件等方式進行聯係。
         因為墙壁没有向海上延伸，使到光芒的断絕处可通過船隻來往于各地區域，但因出航许可很难拿到，導致发生了偷渡横行的情况。
@@ -529,13 +488,9 @@ Level
 
       -
         原文： / *-{Nebula Gas}-*
-        從天空之壁提取出来的特殊氣體，具有使細胞分裂的作用，為SMASH
-        的主要成分、滿裝瓶的主要元素以及解除被光照射之者的好戰本性的唯一良藥\[89\]。
-        假面騎士Build 將SMASH
-        打倒並利用空白瓶抽取其成份後，會將該氣體帶回實驗室，由石動美空利用手镯内的力量將其净化並將其提煉成滿裝瓶\[90\]。
-        如果普通人類直接近距離接觸該氣體的話會變成SMASH或提升危險等級至2.0
-        或以上（詳情參見[危險等級](https://zh.wikipedia.org/wiki/#危險等級 "wikilink")）；如果危險等級4.0
-        或以上的人體直接接觸該氣體的話會使其變得好戰。
+        從天空之壁提取出来的特殊氣體，具有使細胞分裂的作用，為SMASH 的主要成分、滿裝瓶的主要元素以及解除被光照射之者的好戰本性的唯一良藥\[89\]。
+        假面騎士Build 將SMASH 打倒並利用空白瓶抽取其成份後，會將該氣體帶回實驗室，由石動美空利用手镯内的力量將其净化並將其提煉成滿裝瓶\[90\]。
+        如果普通人類直接近距離接觸該氣體的話會變成SMASH或提升危險等級至2.0 或以上（詳情參見[危險等級](https://zh.wikipedia.org/wiki/#危險等級 "wikilink")）；如果危險等級4.0 或以上的人體直接接觸該氣體的話會使其變得好戰。
         後從貝魯娜姬口中得知星雲氣體的真面目其實就是星球所散發出的能量，而空白瓶吸收這些能量就會轉化成滿裝瓶的能量。
 
 :; 潘朵拉之塔
@@ -569,13 +524,10 @@ Level
   - [滿裝瓶](https://zh.wikipedia.org/wiki/假面騎士Build#滿裝瓶（FullBottle） "wikilink")
     原文： / *-{FullBottle}-*
     本作假面騎士和敵役騎士所使用的[瓶型道具](https://zh.wikipedia.org/wiki/瓶 "wikilink")，體积如同手掌大小般，造型為空白瓶的造型基础上加上對应颜色与瓶體上方的標签。
-    由假面騎士Build 利用空白瓶將打倒的SMASH
-    體內的星雲氣體吸取後，透過地下基地內他所開發的能將石動美空的淨化能力放大的裝置淨化而成。
-    第36話得知此類工具是艾博魯特根據石動惣一的记忆制造出来的，單是潘朵拉之盒所屬的就共有60枚，另外還有额外的10枚Faust
-    製滿裝瓶、\[95\]和6枚特殊的滿裝瓶\[96\]。
+    由假面騎士Build 利用空白瓶將打倒的SMASH 體內的星雲氣體吸取後，透過地下基地內他所開發的能將石動美空的淨化能力放大的裝置淨化而成。
+    第36話得知此類工具是艾博魯特根據石動惣一的记忆制造出来的，單是潘朵拉之盒所屬的就共有60枚，另外還有额外的10枚Faust 製滿裝瓶、\[95\]和6枚特殊的滿裝瓶\[96\]。
     分别有代表「動物 & 有機物質」的及「機械 & 無機物質」的。
-    這兩種類型的滿裝瓶分别存在著-{「}-**最佳配對（Best Match）**-{」}-或-{「}-**進化配對（Evol
-    Match）**-{」}-型態的組合方式，也只有在最佳配對下所使用的滿裝瓶組合，才能發揮出本身效能，另外也存在著任意配對的組合方式，也就是-{「}-**實驗（Trial）**-{」}-型態\[97\]。
+    這兩種類型的滿裝瓶分别存在著-{「}-**最佳配對（Best Match）**-{」}-或-{「}-**進化配對（Evol Match）**-{」}-型態的組合方式，也只有在最佳配對下所使用的滿裝瓶組合，才能發揮出本身效能，另外也存在著任意配對的組合方式，也就是-{「}-**實驗（Trial）**-{」}-型態\[97\]。
     在搭配創造驅動器和壓縮驅動器時，需打开開上方的瓶蓋，摇動一段時間後扭紧瓶蓋，再倒立插入驅動器的插槽中；而当搭配變壓蒸氣槍或部分專屬武裝時，使用前兩個步驟後再直接插入槍的插槽中。
     本身亦可直接使用，但前提是使用者必須事先經歷過注入星雲氣體的人體實驗而仍能維持着人類的樣貌，所以目前只有桐生戰兔、萬丈龍我和北都三羽鴉能使用該能力。其中桐生戰兔和萬丈龍我需要搭配創造驅動器使用，而北都三羽鴉則將滿裝瓶插進左臂。
     目前提供給桐生戰兔（葛城巧）、萬丈龍我、冰室幻德、石動惣一、猿渡一海、北都三羽鴉和内海成彰使用。
@@ -606,11 +558,9 @@ Level
         原文： / *-{Legend Rider Full Bottle}-*
         與普通的空白瓶相當的新型满裝瓶，裏面的成分為對應假面騎士的星雲氣體。
         目前共分别有12枚單屬滿裝瓶\[101\]、6枚各取自其中一位傳奇騎士之力的滿裝瓶\[102\]。
-        能變身成傳奇騎士的普通满裝瓶罐組合則稱為-{「}-**傳奇混合（Legend
-        Mix）**-{」}-，音效為對应騎士的名稱加上對应的原版基本形態變身音效\[103\]，单獨使用該满裝瓶後的混合音效亦如此。
+        能變身成傳奇騎士的普通满裝瓶罐組合則稱為-{「}-**傳奇混合（Legend Mix）**-{」}-，音效為對应騎士的名稱加上對应的原版基本形態變身音效\[103\]，单獨使用該满裝瓶後的混合音效亦如此。
 
-:;
-[失落滿裝瓶](https://zh.wikipedia.org/wiki/假面騎士Build#失落滿裝瓶（Lost_Full_Bottle） "wikilink")
+:; [失落滿裝瓶](https://zh.wikipedia.org/wiki/假面騎士Build#失落滿裝瓶（Lost_Full_Bottle） "wikilink")
 
   -
 
@@ -618,8 +568,7 @@ Level
         原文： / *-{Lost Full Bottle}-*
         除了潘朵拉之盒內所屬的60個滿裝瓶外的謎之滿裝瓶，由葛城忍所開發製造的惡魔之物\[104\]。
         其前身為Faust 製滿裝瓶，共有10個，艾博魯特為了不讓葛城巧知道相關訊息而將葛城忍的研究資料中關於該瓶種的資料刪除掉。
-        第40話時艾博魯特除了讓自己再進化和超越一切物理法则而打算將此瓶種集齊以外，也利用此瓶開發出最強的SMASH - Lost
-        SMASH。
+        第40話時艾博魯特除了讓自己再進化和超越一切物理法则而打算將此瓶種集齊以外，也利用此瓶開發出最強的SMASH - Lost SMASH。
         外傳中得知其中4個是實驗意外中的產生物。
 
 <!-- end list -->
@@ -663,9 +612,7 @@ Level
     被注入星雲氣體後的人類將會暫時失去人類的意識，而且只听從Faust 的指令行事，因此無法与之沟通。
     血逐將蒸氣劍改裝之後無需依靠儀器，可透過「Devil Steam！」強行向人類注入「星雲氣體」令其變成SMASH 。
     由於是實驗人體的關係，被擊敗後身體不會被打爆，只會出現綠色火焰的爆炸，之後SMASH 本體就會進入停滯狀態\[109\]。
-    在被打倒並抽取其體內的星雲氣體後會變回人類，但會失去變成SMASH
-    期間的記憶，情况較嚴重者甚至會失去至今為止的記憶，正因如此導致SMASH
-    無法擁有正常的語言能力，該人類被改造的次數越多，戰鬥力會越强，但相對地失去的記憶亦會越來越多。
+    在被打倒並抽取其體內的星雲氣體後會變回人類，但會失去變成SMASH 期間的記憶，情况較嚴重者甚至會失去至今為止的記憶，正因如此導致SMASH 無法擁有正常的語言能力，該人類被改造的次數越多，戰鬥力會越强，但相對地失去的記憶亦會越來越多。
     在第16話中卻揭示了接受實驗的人最多只會失去接受實驗前後幾個小時的記憶，唯独鍋島正弘和桐生戰兔兩人，虽然這都是石動惣一動的手腳，但还是會隨著時間逐漸恢復記憶。
     另外，如果被蒸氣劍注入特殊成分后，無論是哪個SMASH 都可巨大化。
     本作登場的假面騎士和敵對騎士皆為「Faust」組織的實驗人體，而且被注入星雲氣體後仍維持著人類的樣貌\[110\]。
@@ -692,8 +639,7 @@ Level
 
   - 坚硬猛击者
     原文： / *-{Hard Smash}-*
-    SMASH 的進化型態，不同於變身後失去自我意識的SMASH，即使變身後仍保有意識甚至能說話，另外其戰鬥力亦高於SMASH 和SMASH
-    Hazard 。
+    SMASH 的進化型態，不同於變身後失去自我意識的SMASH，即使變身後仍保有意識甚至能說話，另外其戰鬥力亦高於SMASH 和SMASH Hazard 。
     變身方式不同於SMASH 是因注入星雲氣體而變身的，Hard SMASH 是使用Faust 製滿裝瓶進行變身\[112\]。
     造型上除了對應瓶種的外形，下半身皆是蓝色和位于腰部的北都标志\[113\]。
 
@@ -703,8 +649,7 @@ Level
 
       -
         原文： / *-{Hazard Smash}-*
-        Hard SMASH 的強化型態，和SMASH Hazard
-        一樣是透過危險扳機將星雲氣體直接注入實驗者的身體變化而成\[114\]。
+        Hard SMASH 的強化型態，和SMASH Hazard 一樣是透過危險扳機將星雲氣體直接注入實驗者的身體變化而成\[114\]。
         除了體色與Hard SMASH 不同之外，能力及危險等級亦比Hard SMASH 有所急速提升。
         但相對地代價就是一旦被擊倒，其變身者的肉體就會面臨灰飛煙滅的風險\[115\]。
 
@@ -714,14 +659,10 @@ Level
 
       -
         原文： / *-{Lost Smash}-*
-        SMASH 的最終型態，部分的品種\[116\]與Hazard SMASH
-        有著共同的外型，而且戰鬥力也比其更強，足以與假面騎士匹敵。
-        此SMASH為艾博魯特藉由難波重工的技術將兩體Clone SMASH
-        透過失落滿裝瓶的力量與實驗人體進行融合，使得變身後的Lost
-        SMASH更為狂暴。
+        SMASH 的最終型態，部分的品種\[116\]與Hazard SMASH 有著共同的外型，而且戰鬥力也比其更強，足以與假面騎士匹敵。
+        此SMASH為艾博魯特藉由難波重工的技術將兩體Clone SMASH 透過失落滿裝瓶的力量與實驗人體進行融合，使得變身後的Lost SMASH更為狂暴。
         變身方式和Hard SMASH 一樣是使用滿裝瓶進行變身，但因为是使用失落滿裝瓶的缘故，使用後所呈现的狂暴程度已是最高。
-        另外也與Hazard
-        SMASH同樣地因變身者體內被注入高濃度的星雲氣體的關係，一旦遭到擊倒的話其肉體也隨之灰飛煙滅\[117\]。
+        另外也與Hazard SMASH同樣地因變身者體內被注入高濃度的星雲氣體的關係，一旦遭到擊倒的話其肉體也隨之灰飛煙滅\[117\]。
         第40話從艾博魯特口中得知假面騎士的變身者是他選定的最佳Lost SMASH實驗人體。
 
 <!-- end list -->
@@ -835,18 +776,14 @@ Level
 ### 假面騎士Build
 
   -
-    變身者：桐生戰兔（葛城巧） / 葛城忍 / 基魯巴斯（替身演員：绳田雄哉 → 高岩成二 / 岡田和也（葛城忍版Build） /
-    中田裕士、CV：犬飼貴丈 / 小久保丈二 / ）
+    變身者：桐生戰兔（葛城巧） / 葛城忍 / 基魯巴斯（替身演員：绳田雄哉 → 高岩成二 / 岡田和也（葛城忍版Build） / 中田裕士、CV：犬飼貴丈 / 小久保丈二 / ）
     原文： / *Kamen Rider Build*
 
 #### 結構
 
   - 半分軀體
     原文： / *Half Body*
-    类似於[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")
-    的左右半身的假面騎士Build
-    的身體結構，由創造驅動器搭配使用满裝瓶後生成，不同的搭配會對应成為假面騎士Build
-    的各種形態。
+    类似於[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink") 的左右半身的假面騎士Build 的身體結構，由創造驅動器搭配使用满裝瓶後生成，不同的搭配會對应成為假面騎士Build 的各種形態。
     由分别代表着與各自满裝瓶對应的化學實驗中的「有機物」与「無機物」属性的裝甲构成，有機物属性裝甲分别覆蓋于頭部的斜線左側部分和軀幹的斜線右側部分以及左腿与左腳，而無機物属性裝甲則覆蓋于腰部以外的部位。
 
 <table>
@@ -1040,7 +977,7 @@ Level
 首先利用鑽石的能力製造龍捲風，然後利用猩猩的拳擊力將敵人與人類强制分離並將敵人本體打入龍捲風裏面，最後將敵人消滅。或者利用多粒鑽石製造一個防護盾，之後利用猩猩的拳擊力打向防護盾直衝敵人。</p></td>
 </tr>
 <tr class="even">
-<td><p>HawkGatling Form<br />
+<td><p>&lt;HawkGatling Form<br />
 '''鷹格林機槍形態</p></td>
 <td><p>原文：<br />
 使用「Taka」和「Gatling」滿裝瓶變身的形態[129]<br />
@@ -2206,7 +2143,7 @@ Level
 該型態在充溢模式下的必殺技。以繚繞著漆黑能量的右腳踢向對方</p></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|<strong>SmaphoWolf Hazard Form</strong><br />
+<td><p>style="text-align:centercenter”|<strong>SmaphoWolf Hazard Form</strong><br />
 <strong>手機狼危險形態</strong></p></td>
 <td><p>原文：<br />
 使用「Wolf」和「Smapho」滿裝瓶搭配「Hazard Trigger」變身的形態<br />
@@ -2449,10 +2386,8 @@ Level
 在衝擊槍劍模式下裝填滿裝滿裝兔子坦克瓶後，纏著繞紅色球體狀的能量並將敵人斬裂。</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Cross-ZBuild<br />
-Form</strong><br />
-<strong>Cross-ZBuild<br />
-形態</strong></p></td>
+<td><p><strong>Cross-ZBuild Form</strong><br />
+<strong>迫近創造形態</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2580,10 +2515,9 @@ Form</strong><br />
 
   -
     原文： / *-{Drill Crusher}-*
-    主要為假面騎士Build
-    所有型態皆可使用的可變形[劍型](../Page/劍.md "wikilink")[武器](../Page/武器.md "wikilink")。
-    在[劍模式下](../Page/劍.md "wikilink")，按下扳機後，其劍刃部件便自動旋轉，在未裝填满裝瓶的情况下可對敵人施以近身攻擊。
-    在[槍模式下](../Page/槍.md "wikilink")，按下扳機後，上方未連接剑刃部件的连接装置便自動旋轉，在未裝填满裝瓶的情况下一樣能對敵人施以遠距离射擊。
+    主要為假面騎士Build 所有型態皆可使用的可變形[劍](../Page/劍.md "wikilink")型[武器](../Page/武器.md "wikilink")。
+    在[劍](../Page/劍.md "wikilink")模式下，按下扳機後，其劍刃部件便自動旋轉，在未裝填满裝瓶的情况下可對敵人施以近身攻擊。
+    在[槍](../Page/槍.md "wikilink")模式下，按下扳機後，上方未連接剑刃部件的连接装置便自動旋轉，在未裝填满裝瓶的情况下一樣能對敵人施以遠距离射擊。
     聲效為「Vortex Break！」（原文：）。
 
 <!-- end list -->
@@ -2594,11 +2528,9 @@ Form</strong><br />
 
   -
     原文： / *-{Hawk Gatlinger}-*
-    主要為假面騎士Build
-    所有搭配-{「}-[老鷹](https://zh.wikipedia.org/wiki/老鷹 "wikilink")（Taka）-{」}-或「[格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Gatling）」滿裝瓶的形態所使用的[槍型武器](../Page/槍.md "wikilink")。
-    於鷹格林機槍形態下使用可射出鳥形狀的子彈，当在轉動左輪以裝填[子彈後](../Page/子彈.md "wikilink")，便可發動特殊攻擊。
-    每轉動几輪的聲效為「X0！」（例如轉動一輪時，聲效為「10！」），當轉動十輪或快速轉動時，聲效為「100！Full
-    Bullets！」（原文：）。
+    主要為假面騎士Build 所有搭配-{「}-[老鷹](https://zh.wikipedia.org/wiki/老鷹 "wikilink")（Taka）-{」}-或「[格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Gatling）」滿裝瓶的形態所使用的[槍](../Page/槍.md "wikilink")型武器。
+    於鷹格林機槍形態下使用可射出鳥形狀的子彈，当在轉動左輪以裝填[子彈](../Page/子彈.md "wikilink")後，便可發動特殊攻擊。
+    每轉動几輪的聲效為「X0！」（例如轉動一輪時，聲效為「10！」），當轉動十輪或快速轉動時，聲效為「100！Full Bullets！」（原文：）。
 
 <!-- end list -->
 
@@ -2608,9 +2540,7 @@ Form</strong><br />
 
   -
     原文： / *-{4 Koma Ninpoutou}-*
-    主要為假面騎士Build
-    所有搭配「[忍者](../Page/忍者.md "wikilink")（Ninja）」或-{「}-[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")（Comic）-{」}-滿裝瓶的形態所使用的[刀型武器](https://zh.wikipedia.org/wiki/刀 "wikilink")。
-    按動觸發器選擇[忍術發動](https://zh.wikipedia.org/wiki/忍術 "wikilink")。
+    主要為假面騎士Build 所有搭配「[忍者](../Page/忍者.md "wikilink")（Ninja）」或-{「}-[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")（Comic）-{」}-滿裝瓶的形態所使用的[刀型武器](https://zh.wikipedia.org/wiki/刀 "wikilink")。 按動觸發器選擇[忍術發動](https://zh.wikipedia.org/wiki/忍術 "wikilink")。
     一共有四個聲效，分别為：
     「」：出現無數分身，作為同伴加入戰鬥，而且每個分身均具獨立意識。
     「」：刀身缠绕著激烈火焰後，再給予敵人斬擊。
@@ -2625,8 +2555,7 @@ Form</strong><br />
 
   -
     原文： / *-{Kaizoku Hassyar}-*
-    主要為假面騎士Build
-    所有搭配「[海賊](https://zh.wikipedia.org/wiki/海賊 "wikilink")（Kaizoku）」或「[列車](https://zh.wikipedia.org/wiki/列車 "wikilink")（Densha）」滿裝瓶的形態所使用的[弓型武器](../Page/弓.md "wikilink")。
+    主要為假面騎士Build 所有搭配「[海賊](https://zh.wikipedia.org/wiki/海賊 "wikilink")（Kaizoku）」或「[列車](https://zh.wikipedia.org/wiki/列車 "wikilink")（Densha）」滿裝瓶的形態所使用的[弓](../Page/弓.md "wikilink")型武器。
     一共有四個聲效，每發動一次會發出「發射！」的音效，分别為：
     \-{「}--{」}-：發動一次便發射出兩個能量炮彈。
     \-{「}--{」}-：發動一次便發射出三個能量炮彈。
@@ -2641,10 +2570,8 @@ Form</strong><br />
 
   -
     原文： / *-{Beat Closer}-*
-    為假面騎士Cross-Z使用的[劍型武器](../Page/劍.md "wikilink")，而假面騎士Build
-    所有搭配「[龍](https://zh.wikipedia.org/wiki/龍 "wikilink")（Dragon）」或「[鎖](https://zh.wikipedia.org/wiki/鎖 "wikilink")（Lock）」滿裝瓶的形態亦可使用。
-    拉動把手「Grip
-    End」可發動三種特殊[攻擊](../Page/攻擊.md "wikilink")，拉動時的聲效為「Hippare！」。
+    為假面騎士Cross-Z使用的[劍](../Page/劍.md "wikilink")型武器，而假面騎士Build 所有搭配「[龍](https://zh.wikipedia.org/wiki/龍 "wikilink")（Dragon）」或「[鎖](https://zh.wikipedia.org/wiki/鎖 "wikilink")（Lock）」滿裝瓶的形態亦可使用。
+    拉動把手「Grip End」可發動三種特殊[攻擊](../Page/攻擊.md "wikilink")，拉動時的聲效為「Hippare！」。
     在未裝填满裝瓶時，拉動時的攻击聲效为「●●Hit！」。
     而在裝填满裝瓶時，會出現「Special Tune！」的聲效，拉動時的必殺聲效為「●●Slash！」。
 
@@ -2658,8 +2585,7 @@ Form</strong><br />
     原文： / *-{Full Bottle Buster}-*
     假面騎士Build 所使用的劍炮合一型武器，具有「衝擊槍劍模式」（兔子兔子形態）和「衝擊槍加農模式」（坦克坦克形態）。
     在衝擊槍劍模式下，可對敵施以近身攻擊；反之在衝擊槍加農模式下，需拉下手把即可轉換，並且施以遠程射擊。
-    最多只能裝填4個滿裝瓶，插入普通滿裝瓶時的識别音效為「（滿裝瓶名稱）！」；插入傳奇騎士滿裝瓶時的音效為「Legend
-    Rider！」；而插入Faust 制滿裝瓶的音效則為「Full Bottle！」。
+    最多只能裝填4個滿裝瓶，插入普通滿裝瓶時的識别音效為「（滿裝瓶名稱）！」；插入傳奇騎士滿裝瓶時的音效為「Legend Rider！」；而插入Faust 制滿裝瓶的音效則為「Full Bottle！」。
     插入滿裝瓶後的識别音效為「●●是也！」，按動扳機後所發動的必殺音效为「●●Break！」。
 
 ### 假面騎士Cross-Z
@@ -2682,7 +2608,7 @@ Form</strong><br />
 <td><p><strong>必殺技</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Cross-Z<br />
+<td><p>style="text-align:center”|<strong>Cross-Z<br />
 通常形態</strong></p></td>
 <td><p>原文：[130]<br />
 配合創造驅動器及使用「Cross-Z Dragon」搭配「Dragon」滿裝瓶變身的形態<br />
@@ -2865,9 +2791,8 @@ Form</strong><br />
 
   -
     原文： / Beat Closer
-    為假面騎士Cross-Z使用的[劍型武器](../Page/劍.md "wikilink")。
-    拉動把手「Grip
-    End」可發動三種特殊[攻擊](../Page/攻擊.md "wikilink")，拉動時的聲效為「Hippare！」。
+    為假面騎士Cross-Z使用的[劍](../Page/劍.md "wikilink")型武器。
+    拉動把手「Grip End」可發動三種特殊[攻擊](../Page/攻擊.md "wikilink")，拉動時的聲效為「Hippare！」。
     在未裝填满裝瓶時，拉動時的攻击聲效为「●●Hit！」。
     而在裝填满裝瓶時，會出現「Special Tune！」的聲效，拉動時的必殺聲效為「●●Slash！」。
 
@@ -3410,11 +3335,9 @@ Form</strong><br />
 
   -
     原文： / *-{Drill Crusher}-*
-    為假面騎士Build
-    所有型態使用的可變形[劍型](../Page/劍.md "wikilink")[武器](../Page/武器.md "wikilink")，而假面騎士Evol
-    兔子形態亦可使用此武器。
-    在[劍模式下](../Page/劍.md "wikilink")，按下扳機後，其劍刃部件便自動旋轉，在未裝填满裝瓶的情况下可對敵人施以近身攻擊。
-    在[槍模式下](../Page/槍.md "wikilink")，按下扳機後，上方未連接劍刃部件的连接装置便自動旋轉，在未裝填满裝瓶的情况下一樣能對敵人施以遠距離射擊。
+    為假面騎士Build 所有型態使用的可變形[劍](../Page/劍.md "wikilink")型[武器](../Page/武器.md "wikilink")，而假面騎士Evol 兔子形態亦可使用此武器。
+    在[劍](../Page/劍.md "wikilink")模式下，按下扳機後，其劍刃部件便自動旋轉，在未裝填满裝瓶的情况下可對敵人施以近身攻擊。
+    在[槍](../Page/槍.md "wikilink")模式下，按下扳機後，上方未連接劍刃部件的连接装置便自動旋轉，在未裝填满裝瓶的情况下一樣能對敵人施以遠距離射擊。
     聲效為「Vortex Break！」（原文：）。
 
 <!-- end list -->
@@ -3425,13 +3348,10 @@ Form</strong><br />
 
   -
     原文： / *-{Hawk Gatlinger}-*
-    為假面騎士Build
-    所有搭配-{「}-[老鷹](https://zh.wikipedia.org/wiki/老鷹 "wikilink")（Taka）-{」}-或「[格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Gatling）」滿裝瓶的形態所使用的[槍型武器](../Page/槍.md "wikilink")，假面騎士Evol亦可透過「[格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Gatling）」滿裝瓶召出此武器發動**KiKanHou
-    Finish**。
+    為假面騎士Build 所有搭配-{「}-[老鷹](https://zh.wikipedia.org/wiki/老鷹 "wikilink")（Taka）-{」}-或「[格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Gatling）」滿裝瓶的形態所使用的[槍](../Page/槍.md "wikilink")型武器，假面騎士Evol亦可透過「[格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Gatling）」滿裝瓶召出此武器發動**KiKanHou Finish**。
     於鷹格林機槍形態下使用可射出鳥形狀的子彈。
-    当在轉動左輪以裝填[子彈後](../Page/子彈.md "wikilink")，便可發動特殊攻擊。
-    每轉動几輪的聲效為「X0！」（例如轉動一輪時，聲效為「10！」），當轉動十輪或快速轉動時，聲效為「100！Full
-    Bullets！」（原文：）。
+    当在轉動左輪以裝填[子彈](../Page/子彈.md "wikilink")後，便可發動特殊攻擊。
+    每轉動几輪的聲效為「X0！」（例如轉動一輪時，聲效為「10！」），當轉動十輪或快速轉動時，聲效為「100！Full Bullets！」（原文：）。
 
 <!-- end list -->
 
@@ -3441,9 +3361,8 @@ Form</strong><br />
 
   -
     原文： / Beat Closer
-    為假面騎士Cross-Z使用的[劍型武器](../Page/劍.md "wikilink")，而假面騎士Evol 龍型態亦可使用此武器。
-    拉動把手「Grip
-    End」可發動三種特殊[攻擊](../Page/攻擊.md "wikilink")，拉動時的聲效為「Hippare！」。
+    為假面騎士Cross-Z使用的[劍](../Page/劍.md "wikilink")型武器，而假面騎士Evol 龍型態亦可使用此武器。
+    拉動把手「Grip End」可發動三種特殊[攻擊](../Page/攻擊.md "wikilink")，拉動時的聲效為「Hippare！」。
     在未裝填满裝瓶時，拉動時的攻击聲效为「●●Hit！」。
     而在裝填满裝瓶時，會出現「Special Tune！」的聲效，拉動時的必殺聲效為「●●Slash！」。
 
@@ -3537,9 +3456,7 @@ Form</strong><br />
 
   -
     原文： / *-{Hawk Gatlinger}-*
-    為假面騎士Build
-    所有搭配-{「}-[海賊](https://zh.wikipedia.org/wiki/海賊 "wikilink")（Kaizoku）-{」}-或「[列車](https://zh.wikipedia.org/wiki/列車 "wikilink")（Densha）」滿裝瓶的形態所使用的[弓型武器](../Page/弓.md "wikilink")，假面騎士Mad
-    Rogue亦可透過「[海賊](https://zh.wikipedia.org/wiki/海賊 "wikilink")（Kaizoku）」滿裝瓶召出此武器。
+    為假面騎士Build 所有搭配-{「}-[海賊](https://zh.wikipedia.org/wiki/海賊 "wikilink")（Kaizoku）-{」}-或「[列車](https://zh.wikipedia.org/wiki/列車 "wikilink")（Densha）」滿裝瓶的形態所使用的[弓](../Page/弓.md "wikilink")型武器，假面騎士Mad Rogue亦可透過「[海賊](https://zh.wikipedia.org/wiki/海賊 "wikilink")（Kaizoku）」滿裝瓶召出此武器。
 
 ### 其他假面騎士（本篇以外作品）
 
@@ -3722,24 +3639,21 @@ Form</strong><br />
   -
     變身者：最上魁星（Build 世界）（替身演員：、CV：大槻賢二）
     原文： / *Kaiser（Left Kaiser）*
-    更多資訊：[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士\#本作限定登場假面騎士/形態](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士#本作限定登場假面騎士/形態 "wikilink")
+    更多資訊：[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士\#本作限定登場假面騎士/形態](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士#本作限定登場假面騎士/形態 "wikilink")
 
 ### Kaiser Reverse（右凱撒 Right Kaiser）
 
   -
     變身者：最上魁星（Ex-Aid 世界）（替身演員：、CV：大槻賢二）
     原文： / *Kaiser Reverse（Right Kaiser）*
-    更多資訊：[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士\#本作限定登場假面騎士/形態](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士#本作限定登場假面騎士/形態 "wikilink")
+    更多資訊：[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士\#本作限定登場假面騎士/形態](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士#本作限定登場假面騎士/形態 "wikilink")
 
 ### BiKaiser（雙重凱薩）
 
   -
     變身者：最上魁星\[142\]（替身演員：、CV：大槻賢二）
     原文： / *BiKaiser*
-    更多資訊：[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士\#本作限定登場假面騎士/形態](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士#本作限定登場假面騎士/形態 "wikilink")
+    更多資訊：[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士\#本作限定登場假面騎士/形態](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士#本作限定登場假面騎士/形態 "wikilink")
 
 ### Remocon Bros
 
@@ -3976,13 +3890,12 @@ Form</strong><br />
     身高：188.0cm
     體重：介於102.6 - 103.0kg之間
     特色 / 能力：集團戰鬥
-    在三年前Faust
-    正式成立後，難波重工为此所開發的稀有机械士兵，數量無限到日本三都都配備了此战力，並且能由複數的保衛者組成巨大的機械人。
+    在三年前Faust 正式成立後，難波重工为此所開發的稀有机械士兵，數量無限到日本三都都配備了此战力，並且能由複數的保衛者組成巨大的機械人。
     在東都，作為該政府特殊部隊的成員，均會穿上東都特殊部隊的灰色制服，而且本體為灰色，並且一律服從管理者的命令，以集團方式作戰。
     北都版本的是不會穿上制服，而且胸部會嵌上藍底的北都都徽，連面罩也是藍色的，還可發送可視影像。
     西都版本的和東都版本的一樣是身穿制服，不過顏色為紅色，而且臉部會嵌上紅色的面罩。
     而且於製造時就被Faust 設下了後門程序，只要接收信號就會倒戈變成負責抹殺反抗組織者的Faust 版本，而且顏色也會變更為黑色。
-    基本性能與三都所配置的保衛者差異不大，但因其面部及胸部的安全面板未安裝，使得其可進行[自爆攻擊](../Page/自爆.md "wikilink")。
+    基本性能與三都所配置的保衛者差異不大，但因其面部及胸部的安全面板未安裝，使得其可進行[自爆](../Page/自爆.md "wikilink")攻擊。
     於聯動劇場版中，財團X亦持有該種機械士兵，只是取名為「X保衛者（ / *X Guardian*）」，而且臉部會嵌上刻有財團X標誌的面罩。
 
 #### 保衛者（合體狀態）
@@ -4073,8 +3986,7 @@ Form</strong><br />
 
 ### 變身道具
 
-【「■■」代表騎士所屬音效，詳情請見「[Build
-變身模式](https://zh.wikipedia.org/wiki/假面騎士Build#Best_Match.E7.B5.84.E5.90.88 "wikilink")」】
+【「■■」代表騎士所屬音效，詳情請見「[Build 變身模式](https://zh.wikipedia.org/wiki/假面騎士Build#Best_Match.E7.B5.84.E5.90.88 "wikilink")」】
 
   - **創造驅動器**
 
@@ -4085,20 +3997,13 @@ Form</strong><br />
     音效：[小林克也](https://zh.wikipedia.org/wiki/小林克也 "wikilink")
     本作正派假面騎士和部分反派騎士的變身腰帶，由葛城巧開發和特别制造，稱爲「**騎士系統（Rider System）**」\[145\]。
     由於附加了識別功能，只限定危險等級超過3以上的人才能使用，所以在一開始只有桐生戰兔能使用該腰帶，但隨著萬丈龍我的危險等級提升至3，其於第11話起亦能使用該腰帶。
-    目前該腰帶提供給假面騎士Build 、假面騎士Cross-Z\[146\]、假面騎士Grease\[147\]、假面騎士Rogue
-    和假面騎士Blood 使用。
+    目前該腰帶提供給假面騎士Build 、假面騎士Cross-Z\[146\]、假面騎士Grease\[147\]、假面騎士Rogue 和假面騎士Blood 使用。
     在第9話透露，製造創造驅動器的目的是爲了製造假面騎士，但葛城巧亦因此不斷找白老鼠來做人體實驗改造成「SMASH」\[148\]，此舉亦是爲了尋找可成爲假面騎士的合適者\[149\]，不過卻因此惹來當年受潘朵拉之盒所散發出的光芒影響的人希望以此作爲增强自己國家的軍事能力。
     本來只搭載假面騎士Build 的變身機能\[150\]，但第13話經桐生戰兔改良後，創造驅動器亦搭載探查「Best Match」功能。
-    有兩個滿裝瓶插口，左邊是生物類型，右邊是非生物類型滿裝瓶。如該兩款滿裝瓶為最佳配對，就會發出音效「Best
-    Match」（原文「」）\[151\]，然後利用腰帶左邊的把手攪動作變身或轉換形態。雖然兩款滿裝瓶可隨意配對\[152\]，但只有「Best
-    Match」的組合才能發揮完全的戰鬥力。
-    總括來説「Best Match」形態的腰帶音效首先為「（生物類型滿裝瓶）！（非生物類型滿裝瓶）！」，然後為「Best Match！Are
-    You Ready? ■■\! Yeah\!」（原文「」\[153\]，發動必殺技的音效為「Ready Go！Vortex
-    Finish\! Yeah\!」（原文「」）
-    而「Trial」形態的腰帶音效首先為「（生物類型滿裝瓶）！（非生物類型滿裝瓶）！」，然後為「Are You Ready?
-    」（原文「」，發動必殺技的音效為「Ready Go！Vortex Attack\!」（原文「」）
-    而其他假面騎士的變身音效與假面騎士Build 的「Best Match」音效基本一樣，唯一分別為「Are You Ready? ■■\!
-    ■■\!」（原文「」\[154\]。
+    有兩個滿裝瓶插口，左邊是生物類型，右邊是非生物類型滿裝瓶。如該兩款滿裝瓶為最佳配對，就會發出音效「Best Match」（原文「」）\[151\]，然後利用腰帶左邊的把手攪動作變身或轉換形態。雖然兩款滿裝瓶可隨意配對\[152\]，但只有「Best Match」的組合才能發揮完全的戰鬥力。
+    總括來説「Best Match」形態的腰帶音效首先為「（生物類型滿裝瓶）！（非生物類型滿裝瓶）！」，然後為「Best Match！Are You Ready? ■■\! Yeah\!」（原文「」\[153\]，發動必殺技的音效為「Ready Go！Vortex Finish\! Yeah\!」（原文「」）
+    而「Trial」形態的腰帶音效首先為「（生物類型滿裝瓶）！（非生物類型滿裝瓶）！」，然後為「Are You Ready? 」（原文「」，發動必殺技的音效為「Ready Go！Vortex Attack\!」（原文「」）
+    而其他假面騎士的變身音效與假面騎士Build 的「Best Match」音效基本一樣，唯一分別為「Are You Ready? ■■\! ■■\!」（原文「」\[154\]。
 
 <!-- end list -->
 
@@ -4113,9 +4018,7 @@ Form</strong><br />
     目前該腰帶提供給假面騎士Cross-Z 、假面骑士Grease \[155\]和假面骑士Rogue \[156\]使用。
     只限定於危险等级約4的變身者使用，而最初危险等级約2-3之間的冰室幻德因接受了不人道的人體實驗，才能勉强使用。
     将「濃縮膠涷」插入驅動器裏的插槽，音效为「■■Jelly！」，下壓扳手型手把挤压濃縮膠涷即可變身，音效為「壓碎了！流動了！溢满而出了！■■！Buraa！」；反之將鱷魚裂痕滿裝瓶插入插槽後，音效則為「裂了！吞食了！粉碎而散了！■■！Oraa！」。
-    下壓手把所發動必殺音效為「Scrap Break！」（Cross-Z 充填形態）（原文：）、「Scrap
-    Finish！（原文：）」（Grease）（原文：）或「Crack Up Finish！Gabu
-    Gabu Gabu！」（Rogue）（原文：）。
+    下壓手把所發動必殺音效為「Scrap Break！」（Cross-Z 充填形態）（原文：）、「Scrap Finish！（原文：）」（Grease）（原文：）或「Crack Up Finish！Gabu Gabu Gabu！」（Rogue）（原文：）。
     當插入满裝瓶\[157\]時，所發出的音效為「●●Bottle！」，下壓手把所發動必殺音效為「壓碎不了！●●Crush！」
     由於這種系統為了完全發揮滿裝瓶成分的效果，結果是使用時相當於讓使用者直接接觸星雲氣體，進而產生和被潘朵拉之盒發出的光照到時相同的副作用\[158\]；其系統將會讓變身者變得好戰、暴躁，且每次變身都會加劇\[159\]。
 
@@ -4132,13 +4035,9 @@ Form</strong><br />
     目前該腰帶提供給假面騎士Evol \[160\]和假面騎士Mad Rogue \[161\]使用。
     根據葛城忍留下的资料，這是一種通過形成高功率推進力而產生Evolto的點火設備，其驅動器只限定於危险等级大約5以上的變身者使用\[162\]，而且要激活它的「終極」功能，該驅動器將是必不可少的。
     其驅動器里能將潘朵拉之盒的力量發揮至最大功率，而本身潘朵拉之盒的持有者就是Evolto，所以只有Evolto能發揮其強大的力量，當中的充填装置更被用來重修Evolto的躯体。
-    將進化瓶插入後，音效首先為「（指定進化瓶）！Rider System！」，然後為「Evolution！Are You Ready?
-    ■■\!
-    Fuhhahhahhahhahha\!」（原文「」）\[163\]；插入非指定進化瓶時的音效為「Creation！」（原文「」）。
-    將滿裝瓶插入後，音效則為「（生物類型滿裝瓶）！（非生物類型滿裝瓶）！」，然後為「Evol Match！Are You Ready?
-    ■■\! Fuhhahhahhahhahha\!」（原文「」。
-    發動必殺技的音效為「Ready Go！Evoltex ●●\! Ciao\!」（原文「」）；而發動技能的音效則為「Ready
-    Go！●●Finish\! Ciao\!」（原文「」）
+    將進化瓶插入後，音效首先為「（指定進化瓶）！Rider System！」，然後為「Evolution！Are You Ready? ■■\! Fuhhahhahhahhahha\!」（原文「」）\[163\]；插入非指定進化瓶時的音效為「Creation！」（原文「」）。
+    將滿裝瓶插入後，音效則為「（生物類型滿裝瓶）！（非生物類型滿裝瓶）！」，然後為「Evol Match！Are You Ready? ■■\! Fuhhahhahhahhahha\!」（原文「」。
+    發動必殺技的音效為「Ready Go！Evoltex ●●\! Ciao\!」（原文「」）；而發動技能的音效則為「Ready Go！●●Finish\! Ciao\!」（原文「」）
 
 <!-- end list -->
 
@@ -4150,8 +4049,7 @@ Form</strong><br />
     原文： / *Transteam Gun*
     音效：[小林克也](https://zh.wikipedia.org/wiki/小林克也 "wikilink")
     夜霸與血逐的變身用手鎗型武器，也是假面騎士Evol 的專屬武器，與創造驅動器同樣是由葛城巧所開發的裝備。
-    啟動時的音效為此武器的名稱，装填变身用满装瓶时，音效為「（Faust 製满装瓶）！」，按动扳机起动变身，音效為「Mist
-    Match！…Fire！（原文「」）」，再次按動扳機發動必殺技，音效為「Steam Break！（原文「」）」。
+    啟動時的音效為此武器的名稱，装填变身用满装瓶时，音效為「（Faust 製满装瓶）！」，按动扳机起动变身，音效為「Mist Match！…Fire！（原文「」）」，再次按動扳機發動必殺技，音效為「Steam Break！（原文「」）」。
     装填非变身用满装瓶时，音效为「Full Bottle！」，再按动扳机发动必杀技，音效为「Steam Attack！（原文「」）」。
     可與蒸氣刃合成為步鎗模式。
     另外因夜霸的變壓蒸氣鎗內存有冰室幻德及內海成彰兩人的數據，導致兩人所變身的夜霸在能力表現上不盡相同。
@@ -4165,13 +4063,9 @@ Form</strong><br />
   -
     原文： / *Nebula steam Gun*
     音效：[小林克也](https://zh.wikipedia.org/wiki/小林克也 "wikilink")
-    Bros 系戰士\[164\]\[165\]的變身用鎗型武器，同時也是假面騎士Rogue 和假面騎士Mad
-    Rogue的武器，為變壓蒸氣鎗的原型版本，開發者為最上魁星。
-    啟動時的音效為此武器的名稱，裝填鱷魚裂痕滿裝瓶時，音效為「（滿裝瓶）！」，按動扳機發動必殺技，音效為「Funky
-    Break！（原文「」）」。
-    當裝填非變身用無最佳搭配的滿裝瓶時，音效為「Lost
-    Match！（原文「」）」」，反之在裝填非變身用有最佳搭配的滿裝瓶時，音效則為「Full
-    Bottle！」，再按動扳機發動必殺技，音效為「Funky Attack！（原文「」）」。
+    Bros 系戰士\[164\]\[165\]的變身用鎗型武器，同時也是假面騎士Rogue 和假面騎士Mad Rogue的武器，為變壓蒸氣鎗的原型版本，開發者為最上魁星。
+    啟動時的音效為此武器的名稱，裝填鱷魚裂痕滿裝瓶時，音效為「（滿裝瓶）！」，按動扳機發動必殺技，音效為「Funky Break！（原文「」）」。
+    當裝填非變身用無最佳搭配的滿裝瓶時，音效為「Lost Match！（原文「」）」」，反之在裝填非變身用有最佳搭配的滿裝瓶時，音效則為「Full Bottle！」，再按動扳機發動必殺技，音效為「Funky Attack！（原文「」）」。
     同樣地可與蒸氣刃合成為步鎗模式。
 
 <!-- end list -->
@@ -4187,8 +4081,7 @@ Form</strong><br />
     在戰兔的設定下，只需透過單一滿裝瓶就可發揮戰力，但前提是身為使用者的龍我必須與其達到情感同步狀態才能發動變身\[167\]。
     除了可隨著所搭配的滿裝瓶使出各種攻擊以外，亦可將生物體內所侵入的毒物吸出並進行吸收與分解以解毒，起動時通常會有音樂響動，不適合隱秘行動。
     配合創造驅動器及「龍（Dragon）」滿裝瓶使用即可變身成假面騎士Cross-Z「龍形態（Dragon Form）」。
-    插入其它滿裝瓶的音效為「Cross-Z Flame」（原文「」）。而插入「龍（Dragon）」滿裝瓶的音效為「Wake
-    Up\!」（原文「」），再插入創造驅動器的音效為「Cross-Z Dragon」（原文「」）。
+    插入其它滿裝瓶的音效為「Cross-Z Flame」（原文「」）。而插入「龍（Dragon）」滿裝瓶的音效為「Wake Up\!」（原文「」），再插入創造驅動器的音效為「Cross-Z Dragon」（原文「」）。
     當配合創造驅動器時使用必殺技的音效為「Ready Go！Dragonic Finish\! 」（原文「」）。
 
 <!-- end list -->
@@ -4210,8 +4103,7 @@ Form</strong><br />
     原文： / *Rabbit Tank Sparkling*
     桐生戰兔使用「兔子（Rabbit）」和「坦克（Tank）」滿裝瓶\[168\]激活吸收潘朵拉之盒所散發出的能量的空白瓶後所開發出的罐型道具。
     可透過與創造驅動器連動進行強化變身成「兔子坦克氣泡形態（RabbitTank Sparkling Form）」。
-    變身音效為「Are You Ready? ■■\! Yea！Yeah\!」（原文「」，配合創造驅動器時發動必殺技的音效為「Ready
-    Go！Sparkling Finish！」（原文：）。
+    變身音效為「Are You Ready? ■■\! Yea！Yeah\!」（原文「」，配合創造驅動器時發動必殺技的音效為「Ready Go！Sparkling Finish！」（原文：）。
 
 <!-- end list -->
 
@@ -4221,20 +4113,13 @@ Form</strong><br />
 
   -
     原文： / *Hazard Trigger*
-    葛城巧根据其父葛城忍所留下的资料所開發的強化道具，根據冰室幻德透露，大多數的SMASH 會Hazard
-    化是因為這個強化道具的緣故，繼而被稱為「禁忌的道具（禁断のアイテム）」。
-    裝在創造驅動器上或注入此道具內的Hazard
-    成份入體內可立即顯著提升使用者的危險等級，後於第45話得知此道具的最大功能是用於淨化失落滿裝瓶。
-    打開上方的防護蓋，按下按鈕後的啟動時的音效為「Hazard
-    On！」（原文：），並裝置於創造驅動器的齒輪區上方，然後轉動手把，碼表上的指針開始移動後即可變身成「危險形態（Hazard
-    Form）」。
-    此道具有著一旦使用時間過久就會失去自我甚至想要破壞眼前所有一切的副作用，所以相當地危險\[169\]。另外Hard SMASH
-    可直接將Hazard 成分打入體內，代價是被打倒會灰飛煙滅。
-    再按下按鈕後即可進入「**充溢模式**」（原文： / *Overflow Mode*），啟動時的音效為「Max Hazard
-    On！」（原文：）。
+    葛城巧根据其父葛城忍所留下的资料所開發的強化道具，根據冰室幻德透露，大多數的SMASH 會Hazard 化是因為這個強化道具的緣故，繼而被稱為「禁忌的道具（禁断のアイテム）」。
+    裝在創造驅動器上或注入此道具內的Hazard 成份入體內可立即顯著提升使用者的危險等級，後於第45話得知此道具的最大功能是用於淨化失落滿裝瓶。
+    打開上方的防護蓋，按下按鈕後的啟動時的音效為「Hazard On！」（原文：），並裝置於創造驅動器的齒輪區上方，然後轉動手把，碼表上的指針開始移動後即可變身成「危險形態（Hazard Form）」。
+    此道具有著一旦使用時間過久就會失去自我甚至想要破壞眼前所有一切的副作用，所以相當地危險\[169\]。另外Hard SMASH 可直接將Hazard 成分打入體內，代價是被打倒會灰飛煙滅。
+    再按下按鈕後即可進入「**充溢模式**」（原文： / *Overflow Mode*），啟動時的音效為「Max Hazard On！」（原文：）。
     另外，無論搭配哪個「Best Match」形態，啟動時的音效都是「■■！Yabei！」（原文：）
-    於《假面騎士Build
-    提昇危險等級的7種最佳配對》前篇中得知戰兔為了抑制危險扳機的副作用，已經設計出強制解除變身的裝置，只差補足所缺的數據就可著手開發\[170\]。
+    於《假面騎士Build 提昇危險等級的7種最佳配對》前篇中得知戰兔為了抑制危險扳機的副作用，已經設計出強制解除變身的裝置，只差補足所缺的數據就可著手開發\[170\]。
 
 <!-- end list -->
 
@@ -4245,12 +4130,8 @@ Form</strong><br />
   -
     原文： / *Evol Trigger*
     隱藏在潘朵拉之盒內的力量，同時也是危險扳機的原型，單用於進化驅動器上，開發的目的在於讓Evolto達到究極姿態。
-    初登場時呈現石化狀態，使得Evolto無法進化成究極姿態，後在第37話Evolto藉由Cross-Z 、Grease 和Rogue
-    這三名騎士踢擊的強大能量正式解封。
-    限定危險等級6以上才能使用，而且里面還具备了使Evolto达到最高境界的「**熱溢模式**」（原文： / *Fever
-    Flow*），按下按鈕後，啟動時的音效為「Over The
-    Revolution！」（原文：），並裝置於進化驅動器的齒輪區上方，然後轉動手把，可使假面騎士Evol
-    變身成「黑洞形態（Black Hole Form）」，音效為「■■！Fuhhahhahhahhahha！」（原文：）。
+    初登場時呈現石化狀態，使得Evolto無法進化成究極姿態，後在第37話Evolto藉由Cross-Z 、Grease 和Rogue 這三名騎士踢擊的強大能量正式解封。
+    限定危險等級6以上才能使用，而且里面還具备了使Evolto达到最高境界的「**熱溢模式**」（原文： / *Fever Flow*），按下按鈕後，啟動時的音效為「Over The Revolution！」（原文：），並裝置於進化驅動器的齒輪區上方，然後轉動手把，可使假面騎士Evol 變身成「黑洞形態（Black Hole Form）」，音效為「■■！Fuhhahhahhahhahha！」（原文：）。
 
 <!-- end list -->
 
@@ -4261,10 +4142,8 @@ Form</strong><br />
   -
     原文： / *Crocodile Crack FullBottle*
     為難波重工在東都对垒北都的代表戰前夕所開發出的新式滿裝瓶，擁有[鱷魚般的猛咬能力](https://zh.wikipedia.org/wiki/鱷魚 "wikilink")，现此滿裝瓶由冰室幻德所持有。
-    瓶身比一般的滿裝瓶還来得流线形，當扭动瓶盖一圈時，裂痕會發光，而且音效分别為「Danger！」、「Crocodile！」和「Piki
-    Piki 割裂不了！」，用在進化驱动器時的识别音效為「Wani」。
-    作为少數能與挤壓驅動器產生感應的滿裝瓶，搭配挤压驱动器時可变身成「假面骑士Rogue」，除此之外，在搭配創造驱动器時可與「Gear
-    Remocon」組成Best Match 組合，更能使假面骑士Build 变身成「鳄鱼遥控形態（CrocodiCon Form）」。
+    瓶身比一般的滿裝瓶還来得流线形，當扭动瓶盖一圈時，裂痕會發光，而且音效分别為「Danger！」、「Crocodile！」和「Piki Piki 割裂不了！」，用在進化驱动器時的识别音效為「Wani」。
+    作为少數能與挤壓驅動器產生感應的滿裝瓶，搭配挤压驱动器時可变身成「假面骑士Rogue」，除此之外，在搭配創造驱动器時可與「Gear Remocon」組成Best Match 組合，更能使假面骑士Build 变身成「鳄鱼遥控形態（CrocodiCon Form）」。
 
 <!-- end list -->
 
@@ -4275,13 +4154,10 @@ Form</strong><br />
   -
     原文： / *Full Full Rabbit Tank Bottle*
     原本是桐生戰兔為了抑制危險扳機的副作用而開發的強行停止裝置\[171\]，但後來變成了強化變身用的柱狀瓶型道具。
-    原因是在第26話中戰兔因「微量兔子（Low
-    Rabbit）」滿裝瓶的最佳配對實驗中發現出「兔子兔子（RabbitRabbit）」的特殊配對後才得以開發出的。
-    使用時，先不停搖動至使指示器切換為指定顏色，將兩端分離並折叠，後搭配危險扳機插入驅動器插槽，啟動充溢模式後，即可在不受危險扳機的副作用影響的情況下以追加外掛裝甲的型式變身為「兔子兔子形態（RabbitRabbit
-    Form）」或「坦克坦克形態（TankTank Form）」。
+    原因是在第26話中戰兔因「微量兔子（Low Rabbit）」滿裝瓶的最佳配對實驗中發現出「兔子兔子（RabbitRabbit）」的特殊配對後才得以開發出的。
+    使用時，先不停搖動至使指示器切換為指定顏色，將兩端分離並折叠，後搭配危險扳機插入驅動器插槽，啟動充溢模式後，即可在不受危險扳機的副作用影響的情況下以追加外掛裝甲的型式變身為「兔子兔子形態（RabbitRabbit Form）」或「坦克坦克形態（TankTank Form）」。
     第39話得知被葛城巧進行微調整過，讓變身後的型態更適合自己的身體。
-    切換模式音效為「■■！」，插入插槽時的音效則為「■■&■■！」，變身音效為「Are You
-    Ready？Overflow！■■！Yabei！■■！」（原文：）。
+    切換模式音效為「■■！」，插入插槽時的音效則為「■■&■■！」，變身音效為「Are You Ready？Overflow！■■！Yabei！■■！」（原文：）。
 
 <!-- end list -->
 
@@ -4293,15 +4169,10 @@ Form</strong><br />
     原文： / *Cross-Z Magma Knuckle*
     音效：[若本規夫](../Page/若本規夫.md "wikilink")
     假面騎士Cross-Z 的指節型強化道具，由桐生戰兔開發。
-    裝填「龍熔岩（Dragon
-    Magma）」滿裝瓶後，即可變形為小道具形態，同时設置於創造驅動器後正面部件自中央向左右兩側展開，即可變身成「熔岩形態（Magma
-    Form）」。
-    在戰鬥中可轉換為「**拳套模式**」（原文： / *Knuckle
-    Mode*），持有將滿裝瓶內的星雲氣體成分導入，使得Cross-Z的戰鬥能力大幅提升。
-    啟動時的音效為「Bottle Burn！」（原文：），變身音效為「Are You Ready? ■■\!
-    好烫烫烫烫烫烫！好烫\!」（原文「」。
-    單獨發動技能時的音效為「Volcanic
-    Knuckle！」（原文：），配合創造驅動器時發動必殺技的音效為「Volcanic●●！好燙！」（原文：）。
+    裝填「龍熔岩（Dragon Magma）」滿裝瓶後，即可變形為小道具形態，同时設置於創造驅動器後正面部件自中央向左右兩側展開，即可變身成「熔岩形態（Magma Form）」。
+    在戰鬥中可轉換為「**拳套模式**」（原文： / *Knuckle Mode*），持有將滿裝瓶內的星雲氣體成分導入，使得Cross-Z的戰鬥能力大幅提升。
+    啟動時的音效為「Bottle Burn！」（原文：），變身音效為「Are You Ready? ■■\! 好烫烫烫烫烫烫！好烫\!」（原文「」。
+    單獨發動技能時的音效為「Volcanic Knuckle！」（原文：），配合創造驅動器時發動必殺技的音效為「Volcanic●●！好燙！」（原文：）。
 
 <!-- end list -->
 
@@ -4313,12 +4184,9 @@ Form</strong><br />
     原文： / *Genius FullBottle*
     為葛城忍所遺留下來資料中所設計出來對抗艾博魯特的大瓶型道具\[172\]，可將其中一塊綠色潘朵拉嵌板透過特殊程序轉換而成，後由桐生戰兔\[173\]將其完成。
     第48話因为戰兔將置入了十个失落滿裝瓶的白色嵌板置入在潘朵拉之盒中，连同瓶子内的力量全被吸收进去，使盒子发出一道用於將另一个地球拉过来的彩色光柱，而最终失去了力量。
-    於《[Build NEW WORLD
-    假面騎士Cross-Z](https://zh.wikipedia.org/wiki/Build_NEW_WORLD#假面騎士Cross-Z "wikilink")》已經被戰兔製造另一個天才滿裝瓶
+    於《[Build NEW WORLD 假面騎士Cross-Z](https://zh.wikipedia.org/wiki/Build_NEW_WORLD#假面騎士Cross-Z "wikilink")》已經被戰兔製造另一個天才滿裝瓶
     配合創造驅動器可使假面騎士Build 變身成「天才形態（Genius Form）」。
-    按下右侧按鈕後的音效為「Great All Yay！」（原文：），變身音效為「Yay！Yay！Yay！Yay！Yay！Yay！Are
-    You
-    Ready？■■！厉害！真厉害！」（原文：）；配合創造驅動器時發動必殺技的音效為「●●Slide！Genius●●！」（原文：）。
+    按下右侧按鈕後的音效為「Great All Yay！」（原文：），變身音效為「Yay！Yay！Yay！Yay！Yay！Yay！Are You Ready？■■！厉害！真厉害！」（原文：）；配合創造驅動器時發動必殺技的音效為「●●Slide！Genius●●！」（原文：）。
 
 <!-- end list -->
 
@@ -4330,16 +4198,11 @@ Form</strong><br />
     原文： / *Grease Blizzard Knuckle*
     假面騎士Grease 的指關节道具，為Cross-Z 熔岩拳套的改色個體，具备冷冻能力。
     第44話由假面騎士Cross-Z 初次使用，并一擊擊殺了艾博魯特，之後第46話追加了Grease 的标志，并將之交由其持有。
-    裝填「北極暴風雪(North
-    Blizzard)」滿裝瓶後，即可變形為小道具形態，同时設置於創造驅動器後正面部件自中央向左右兩側展開，即可變身成「暴风雪形態（Blizzard
-    Form）」。
-    在戰鬥中可轉換為「**拳套模式**」（原文： / *Knuckle
-    Mode*），持有將滿裝瓶內的星雲氣體成分導入，使得Grease的戰鬥能力大幅提升。
+    裝填「北極暴風雪(North Blizzard)」滿裝瓶後，即可變形為小道具形態，同时設置於創造驅動器後正面部件自中央向左右兩側展開，即可變身成「暴风雪形態（Blizzard Form）」。
+    在戰鬥中可轉換為「**拳套模式**」（原文： / *Knuckle Mode*），持有將滿裝瓶內的星雲氣體成分導入，使得Grease的戰鬥能力大幅提升。
     但根据戰兔所言，此道具只能作为武器来使用，由於Grease已進行過多次人體改造使危險等級已接近人體極限，一旦用来變身的话會使变身者的危险等级暴升至灰飞烟灭。
-    啟動時的音效為「Bottle Keen！」（原文：），變身音效為「Are You Ready? ■■\!
-    好冰冰冰冰！好冰\!」（原文「」。
-    單獨發動技能時的音效為「Glacial
-    Knuckle！」（原文：），配合創造驅動器時發動必殺技的音效為「●●Ice！Glacial●●！好涷！」（原文：）。
+    啟動時的音效為「Bottle Keen！」（原文：），變身音效為「Are You Ready? ■■\! 好冰冰冰冰！好冰\!」（原文「」。
+    單獨發動技能時的音效為「Glacial Knuckle！」（原文：），配合創造驅動器時發動必殺技的音效為「●●Ice！Glacial●●！好涷！」（原文：）。
 
 <!-- end list -->
 
@@ -4403,11 +4266,8 @@ Form</strong><br />
     原文： / *-{Steam Blade}-*
     為本作恶役騎士\[174\]使用的短刀武器，可與變壓蒸氣鎗或星雲蒸氣鎗合成為步鎗模式。
     在變壓蒸氣鎗的步鎗模式下，啟動音效為該模式的名稱，而在星雲蒸氣鎗下，則加多一个「Funky！」的音效。
-    在閥門表面的箭頭「3」默認向右時，打開部件「1」，滑動部件「2」，再順時針轉動閥門90°使其箭頭「3」與箭頭「1」同向时時發動必殺技，音效為「Ice
-    ●●！」，随之再多次顺时针转动180°，聲效則以「Elek / Devil ●●！」交替更迭。
-    裝填变身用满装瓶時，音效为「XX！（所使用的满装瓶的名称）」，按動扳機發動必殺技，音效为「●●
-    Shot！XX！」；在装填非变身用满装瓶時，音效則為「Lost
-    Match！」或「Full Bottle！」，再按動扳機發動必殺技，音效为「●● Attack！」
+    在閥門表面的箭頭「3」默認向右時，打開部件「1」，滑動部件「2」，再順時針轉動閥門90°使其箭頭「3」與箭頭「1」同向时時發動必殺技，音效為「Ice ●●！」，随之再多次顺时针转动180°，聲效則以「Elek / Devil ●●！」交替更迭。
+    裝填变身用满装瓶時，音效为「XX！（所使用的满装瓶的名称）」，按動扳機發動必殺技，音效为「●● Shot！XX！」；在装填非变身用满装瓶時，音效則為「Lost Match！」或「Full Bottle！」，再按動扳機發動必殺技，音效为「●● Attack！」
     被血逐改造過後，可透過「Devil Steam！」强行向人類注入星雲氣體令其變成SMASH 而無需依靠儀器。
 
 <!-- end list -->
@@ -4419,12 +4279,8 @@ Form</strong><br />
   -
     原文： / *-{Twin Breaker}-*
     為使用挤壓驅動器再搭配濃縮膠涷的次要假面騎士\[175\]所裝備的可變型武器，一人一把地裝備於左腕\[176\]，啟動時的聲效亦如此。
-    具有「攻擊者模式（Attacker Mode）」和「光線模式（Beam
-    Mode）」兩個模式，而且也是切換模式時的聲效，而必殺聲效為「●●
-    Break！」（攻擊者模式下）和「●● Finish！」（光線模式下）。
-    在裝填满裝瓶或濃縮膠涷時，發動的聲效为「●●！」，按壓開關時的必殺聲效為「●●Break / Finish！」；在裝填Cross-Z
-    Dragon 或兔子坦克气泡時的聲效為「Ready Go！」，按壓開關時的必殺聲效為「●●Break /
-    Finish！」；而兔子坦克气泡時則在前面加多一個「Oraa！」的聲效。
+    具有「攻擊者模式（Attacker Mode）」和「光線模式（Beam Mode）」兩個模式，而且也是切換模式時的聲效，而必殺聲效為「●● Break！」（攻擊者模式下）和「●● Finish！」（光線模式下）。
+    在裝填满裝瓶或濃縮膠涷時，發動的聲效为「●●！」，按壓開關時的必殺聲效為「●●Break / Finish！」；在裝填Cross-Z Dragon 或兔子坦克气泡時的聲效為「Ready Go！」，按壓開關時的必殺聲效為「●●Break / Finish！」；而兔子坦克气泡時則在前面加多一個「Oraa！」的聲效。
 
 ### 道具
 
@@ -4444,19 +4300,13 @@ Form</strong><br />
 
   -
     原文： / *-{Pandora Panel}-*
-    原本是镶嵌在潘朵拉之盒周围的嵌板，10年前被神秘人——石動惣一碰觸之時產生顏色，且其中2面綠色的嵌板掉落，三年前時與盒子一同由東都政府所保管着，其後被Faust
-    竊走了脱落的兩面。
-    現已知其中一塊位於「nascita」地下基地內的牆壁上\[177\]，而另一塊則位於Faust
-    的實驗室内部，其後桐生戰兔得到東都的兩面嵌板，之後皆已嵌入潘朵拉之盒內。
-    每面嵌板具有最多能插入10枚滿裝瓶的插槽，而且只要為「最佳配對（Best
-    Match）」的滿裝瓶組合放置於左右兩側的鑲嵌區，其中心位置就會發光。
+    原本是镶嵌在潘朵拉之盒周围的嵌板，10年前被神秘人——石動惣一碰觸之時產生顏色，且其中2面綠色的嵌板掉落，三年前時與盒子一同由東都政府所保管着，其後被Faust 竊走了脱落的兩面。
+    現已知其中一塊位於「nascita」地下基地內的牆壁上\[177\]，而另一塊則位於Faust 的實驗室内部，其後桐生戰兔得到東都的兩面嵌板，之後皆已嵌入潘朵拉之盒內。
+    每面嵌板具有最多能插入10枚滿裝瓶的插槽，而且只要為「最佳配對（Best Match）」的滿裝瓶組合放置於左右兩側的鑲嵌區，其中心位置就會發光。
     嵌板共有6面，對應著30組60枚滿裝瓶組合，而三都間各持有兩面嵌板及20枚滿裝瓶。
-    :\* 東都：綠色，滿裝瓶：[假面騎士Build\#滿裝瓶（Full
-    Bottle）](https://zh.wikipedia.org/wiki/假面騎士Build#滿裝瓶（Full_Bottle） "wikilink")
-    :\* 北都：藍色，滿裝瓶：[假面騎士Build\#滿裝瓶（Full
-    Bottle）](https://zh.wikipedia.org/wiki/假面騎士Build#滿裝瓶（Full_Bottle） "wikilink")
-    :\* 西都：紅色，滿裝瓶：[假面騎士Build\#滿裝瓶（Full
-    Bottle）](https://zh.wikipedia.org/wiki/假面騎士Build#滿裝瓶（Full_Bottle） "wikilink")
+    :\* 東都：綠色，滿裝瓶：[假面騎士Build\#滿裝瓶（Full Bottle）](https://zh.wikipedia.org/wiki/假面騎士Build#滿裝瓶（Full_Bottle） "wikilink")
+    :\* 北都：藍色，滿裝瓶：[假面騎士Build\#滿裝瓶（Full Bottle）](https://zh.wikipedia.org/wiki/假面騎士Build#滿裝瓶（Full_Bottle） "wikilink")
+    :\* 西都：紅色，滿裝瓶：[假面騎士Build\#滿裝瓶（Full Bottle）](https://zh.wikipedia.org/wiki/假面騎士Build#滿裝瓶（Full_Bottle） "wikilink")
 
 :\***最终潘朵拉嵌板**
 
@@ -4469,10 +4319,8 @@ Form</strong><br />
         第45話在Evolto成功齐全十個失落滿裝瓶後，再借着進化扳機内的「熱溢模式」的力量，连同滿裝瓶一同塞入自己的體内，繼而進化成怪人態，在被四人騎士的四連骑士踢擊傷後，其嵌板连同滿裝瓶被排除出去。
         第46話戰兔首次透过龍我體内的遗传因子開發出白色的潘朵拉嵌板，并可插入10個失落滿裝瓶，還声称唯一能拯救世界的方法就是「將黑白兩個嵌板连接後，便能將無天空之壁和無Evolto的兩個世界融合」。
         第48話戰兔再次成功擊出Evolto體内的黑色嵌板後，龍我手中的白色嵌板成功和其完全对接至融合，最终一口气置入是潘朵拉之盒中，继而发出一道彩色光柱，将在黑洞内的另一个地球拉过来，其连接线還开出一个裂口。
-        :\* 無：黑色，失落滿裝瓶：[假面騎士Build\#失落滿裝瓶（Lost Full
-        Bottle）](https://zh.wikipedia.org/wiki/假面騎士Build#失落滿裝瓶（Lost_Full_Bottle） "wikilink")
-        :\* 無：白色，失落滿裝瓶：[假面騎士Build\#失落滿裝瓶（Lost Full
-        Bottle）](https://zh.wikipedia.org/wiki/假面騎士Build#失落滿裝瓶（Lost_Full_Bottle） "wikilink")
+        :\* 無：黑色，失落滿裝瓶：[假面騎士Build\#失落滿裝瓶（Lost Full Bottle）](https://zh.wikipedia.org/wiki/假面騎士Build#失落滿裝瓶（Lost_Full_Bottle） "wikilink")
+        :\* 無：白色，失落滿裝瓶：[假面騎士Build\#失落滿裝瓶（Lost Full Bottle）](https://zh.wikipedia.org/wiki/假面騎士Build#失落滿裝瓶（Lost_Full_Bottle） "wikilink")
 
 <!-- end list -->
 
@@ -4578,9 +4426,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Rabbit</p></td>
-<td><p>style="text-align:center”|ラビット</p></td>
-<td><p>style="text-align:center”|兔子</p></td>
+<td><p>Rabbit</p></td>
+<td><p>ラビット</p></td>
+<td><p>兔子</p></td>
 <td><p><strong>R / T</strong></p></td>
 <td><p>生物</p></td>
 <td><p>rowspan="10" style="text-align:center”|東都</p></td>
@@ -4591,9 +4439,9 @@ Form</strong><br />
 在第43話時變化成「Gold Rabbit」滿裝瓶。</p></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Gorilla</p></td>
-<td><p>style="text-align:center”|ゴリラ</p></td>
-<td><p>style="text-align:center”|猩猩</p></td>
+<td><p>Gorilla</p></td>
+<td><p>ゴリラ</p></td>
+<td><p>猩猩</p></td>
 <td><p><strong>G / D</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/猩猩" title="wikilink">猩猩般的搏擊能力</a>。</p></td>
 <td><p>可與非生物的「Diamond」組成Best Match 組合。<br />
@@ -4604,9 +4452,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Taka</p></td>
-<td><p>style="text-align:center”|タカ</p></td>
-<td><p>style="text-align:center”|老鷹</p></td>
+<td><p>Taka</p></td>
+<td><p>タカ</p></td>
+<td><p>老鷹</p></td>
 <td><p><strong>T / G</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/老鷹" title="wikilink">老鷹般的視力及飛行能力</a>。</p></td>
 <td><p>可與非生物的「Gatling」及傳説騎士的「Medal」（<strong><a href="../Page/假面騎士OOO.md" title="wikilink">假面騎士OOO</a></strong>）組成Best Match 組合。<br />
@@ -4616,11 +4464,11 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Ninja</p></td>
-<td><p>style="text-align:center”|<ruby>忍者<rp>(</rp><rt>ニンジャ</rt><rp>)</p></td>
-<td><p>style="text-align:center”|忍者</p></td>
+<td><p>Ninja</p></td>
+<td><p><ruby>忍者<rp>(</rp><rt>ニンジャ</rt><rp>)</p></td>
+<td><p>忍者</p></td>
 <td><p><strong>N / C</strong></p></td>
-<td><p>擁有<a href="../Page/忍者.md" title="wikilink">忍者般的身手及速度</a>。</p></td>
+<td><p>擁有<a href="../Page/忍者.md" title="wikilink">忍者</a>般的身手及速度。</p></td>
 <td><p>可與非生物的「Comic」組成Best Match 組合。<br />
 最佳配對下的腰帶音效為「Ninnin」（日文原文：）。<br />
 此滿裝瓶是由幻影SMASH 的星雲氣體淨化而成的。</p></td>
@@ -4628,9 +4476,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Panda</p></td>
-<td><p>style="text-align:center”|パンダ</p></td>
-<td><p>style="text-align:center”|熊貓</p></td>
+<td><p>Panda</p></td>
+<td><p>パンダ</p></td>
+<td><p>熊貓</p></td>
 <td><p><strong>P / R</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/熊貓" title="wikilink">熊貓般壓逼的身手</a>。</p></td>
 <td><p>可與非生物的「Rocket」組成Best Match 組合。<br />
@@ -4639,9 +4487,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Harinezumi</p></td>
-<td><p>style="text-align:center”|ハリネズミ</p></td>
-<td><p>style="text-align:center”|刺蝟</p></td>
+<td><p>Harinezumi</p></td>
+<td><p>ハリネズミ</p></td>
+<td><p>刺蝟</p></td>
 <td><p><strong>H / S</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/刺蝟" title="wikilink">刺蝟般的尖刺並可作攻防兩用</a>。</p></td>
 <td><p>可與非生物的「Shoubousha」組成Best Match 組合。<br />
@@ -4651,9 +4499,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Lion</p></td>
-<td><p>style="text-align:center”|ライオン</p></td>
-<td><p>style="text-align:center”|獅子</p></td>
+<td><p>Lion</p></td>
+<td><p>ライオン</p></td>
+<td><p>獅子</p></td>
 <td><p><strong>L / S</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/獅子" title="wikilink">獅子般的爆發力</a>。</p></td>
 <td><p>可與非生物的「Soujiki」組成Best Match 組合。<br />
@@ -4663,9 +4511,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Dragon</p></td>
-<td><p>style="text-align:center”|ドラゴン</p></td>
-<td><p>style="text-align:center”|龍</p></td>
+<td><p>Dragon</p></td>
+<td><p>ドラゴン</p></td>
+<td><p>龍</p></td>
 <td><p><strong>D / L</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/龍" title="wikilink">龍般的氣息</a>。</p></td>
 <td><p>可與非生物的「Lock」組成Best Match 組合。<br />
@@ -4679,9 +4527,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Kaizoku</p></td>
-<td><p>style="text-align:center”|<ruby>海賊<rp>(</rp><rt>カイゾク</rt><rp>)</rp></ruby></p></td>
-<td><p>style="text-align:center”|海賊</p></td>
+<td><p>Kaizoku</p></td>
+<td><p><ruby>海賊<rp>(</rp><rt>カイゾク</rt><rp>)</rp></ruby></p></td>
+<td><p>海賊</p></td>
 <td><p><strong>K / D</strong></p></td>
 <td><p>擁有<a href="../Page/海盗.md" title="wikilink">海賊般的身手</a>。</p></td>
 <td><p>可與非生物的「Densha」組成Best Match 組合。<br />
@@ -4691,9 +4539,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Octopus</p></td>
-<td><p>style="text-align:center”|オクトパス</p></td>
-<td><p>style="text-align:center”|章魚</p></td>
+<td><p>Octopus</p></td>
+<td><p>オクトパス</p></td>
+<td><p>章魚</p></td>
 <td><p><strong>O / L</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/章魚" title="wikilink">章魚般可自由伸縮的爪並可纏住敵人</a>。</p></td>
 <td><p>可與非生物的「Light」組成Best Match 組合。<br />
@@ -4703,9 +4551,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Phoenix</p></td>
-<td><p>style="text-align:center”|フェニックス</p></td>
-<td><p>style="text-align:center”|鳳凰</p></td>
+<td><p>Phoenix</p></td>
+<td><p>フェニックス</p></td>
+<td><p>鳳凰</p></td>
 <td><p><strong>P / R</strong></p></td>
 <td><p>rowspan="10" style="text-align:center”|北都</p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/鳳凰" title="wikilink">鳳凰般的火焰</a>、飛行及修復能力。</p></td>
@@ -4716,11 +4564,11 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Wolf</p></td>
-<td><p>style="text-align:center”|ウルフ</p></td>
-<td><p>style="text-align:center”|狼</p></td>
+<td><p>Wolf</p></td>
+<td><p>ウルフ</p></td>
+<td><p>狼</p></td>
 <td><p><strong>W / S</strong></p></td>
-<td><p>擁有<a href="../Page/狼.md" title="wikilink">狼般的反應速度</a>。</p></td>
+<td><p>擁有<a href="../Page/狼.md" title="wikilink">狼</a>般的反應速度。</p></td>
 <td><p>可與非生物的「Smaphone」組成Best Match 組合。<br />
 進化配對下的腰帶音效為「Ookami」（日文原文：）。<br />
 此滿裝瓶在葛城巧的創世計劃的視頻中首次出現。</p></td>
@@ -4728,9 +4576,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Unicorn</p></td>
-<td><p>style="text-align:center”|ユニコーン</p></td>
-<td><p>style="text-align:center”|獨角獸</p></td>
+<td><p>Unicorn</p></td>
+<td><p>ユニコーン</p></td>
+<td><p>獨角獸</p></td>
 <td><p><strong>U / K</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/獨角獸" title="wikilink">獨角獸般的突刺和解毒能力</a>。</p></td>
 <td><p>可與非生物的「Keshigomu」組成Best Match 組合。<br />
@@ -4741,9 +4589,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Rose</p></td>
-<td><p>style="text-align:center”|ローズ</p></td>
-<td><p>style="text-align:center”|薔薇</p></td>
+<td><p>Rose</p></td>
+<td><p>ローズ</p></td>
+<td><p>薔薇</p></td>
 <td><p><strong>R / H</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/薔薇" title="wikilink">薔薇般的花瓣和荊棘</a>。</p></td>
 <td><p>可與非生物的「Helicopter」組成Best Match 組合。<br />
@@ -4753,9 +4601,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Turtle</p></td>
-<td><p>style="text-align:center”|タートル</p></td>
-<td><p>style="text-align:center”|龜</p></td>
+<td><p>Turtle</p></td>
+<td><p>タートル</p></td>
+<td><p>龜</p></td>
 <td><p><strong>T / W</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/龜" title="wikilink">龜般的亀壳和防御能力</a>。</p></td>
 <td><p>可與非生物的「Watch」組成Best Match 組合。<br />
@@ -4765,9 +4613,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Kabutomushi</p></td>
-<td><p>style="text-align:center”|カブトムシ</p></td>
-<td><p>style="text-align:center”|甲蟲</p></td>
+<td><p>Kabutomushi</p></td>
+<td><p>カブトムシ</p></td>
+<td><p>甲蟲</p></td>
 <td><p><strong>K / C</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/甲蟲" title="wikilink">甲蟲般的兜角</a>。</p></td>
 <td><p>可與非生物的「Camera」組成Best Match 組合。<br />
@@ -4777,9 +4625,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Kuma</p></td>
-<td><p>style="text-align:center”|クマ</p></td>
-<td><p>style="text-align:center”|熊</p></td>
+<td><p>Kuma</p></td>
+<td><p>クマ</p></td>
+<td><p>熊</p></td>
 <td><p><strong>K / T</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/熊" title="wikilink">熊般的壓逼的和扑擊能力</a>。</p></td>
 <td><p>可與生物的「Television」組成Best Match 組合。<br />
@@ -4789,11 +4637,11 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Dog</p></td>
-<td><p>style="text-align:center”|ドッグ</p></td>
-<td><p>style="text-align:center”|犬</p></td>
+<td><p>Dog</p></td>
+<td><p>ドッグ</p></td>
+<td><p>犬</p></td>
 <td><p><strong>D / M</strong></p></td>
-<td><p>擁有<a href="../Page/犬.md" title="wikilink">犬般的吠叫和奔驰能力</a>。</p></td>
+<td><p>擁有<a href="../Page/犬.md" title="wikilink">犬</a>般的吠叫和奔驰能力。</p></td>
 <td><p>可與非生物的「Mic」組成Best Match 組合。<br />
 進化配對下的腰帶音效為「Inu」（日文原文：）。<br />
 </p></td>
@@ -4801,9 +4649,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Santa Claus</p></td>
-<td><p>style="text-align:center”|サンタクロース</p></td>
-<td><p>style="text-align:center”|聖誕老人</p></td>
+<td><p>Santa Claus</p></td>
+<td><p>サンタクロース</p></td>
+<td><p>聖誕老人</p></td>
 <td><p><strong>S / C</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/聖誕老人" title="wikilink">聖誕老人般的實現願望能力</a>。</p></td>
 <td><p>可與「Cake」組成Best Match 組合。</p></td>
@@ -4811,11 +4659,11 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Spider</p></td>
-<td><p>style="text-align:center”|スパイダー</p></td>
-<td><p>style="text-align:center”|蜘蛛</p></td>
+<td><p>Spider</p></td>
+<td><p>スパイダー</p></td>
+<td><p>蜘蛛</p></td>
 <td><p><strong>S / R</strong></p></td>
-<td><p>擁有<a href="../Page/蜘蛛.md" title="wikilink">蜘蛛般的吐丝和攀爬能力</a>。</p></td>
+<td><p>擁有<a href="../Page/蜘蛛.md" title="wikilink">蜘蛛</a>般的吐丝和攀爬能力。</p></td>
 <td><p>可與非生物的「Reizoko」組成Best Match 組合。<br />
 進化配對下的腰帶音效為「Kumo」（日文原文：）。<br />
 </p></td>
@@ -4823,23 +4671,23 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Tora</p></td>
-<td><p>style="text-align:center”|トラ</p></td>
-<td><p>style="text-align:center”|虎</p></td>
+<td><p>Tora</p></td>
+<td><p>トラ</p></td>
+<td><p>虎</p></td>
 <td><p><strong>T / U</strong></p></td>
 <td><p>rowspan="10" style="text-align:center”|西都</p></td>
-<td><p>擁有<a href="../Page/虎.md" title="wikilink">虎般的扑擊能力</a>。</p></td>
+<td><p>擁有<a href="../Page/虎.md" title="wikilink">虎</a>般的扑擊能力。</p></td>
 <td><p>可與非生物的「UFO」組成Best Match 組合。<br />
 進化配對下的腰帶音效為「Tiger」（日文原文：）。<br />
 </p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Kujira</p></td>
-<td><p>style="text-align:center”|クジラ</p></td>
-<td><p>style="text-align:center”|鯨</p></td>
+<td><p>Kujira</p></td>
+<td><p>クジラ</p></td>
+<td><p>鯨</p></td>
 <td><p><strong>K / J</strong></p></td>
-<td><p>擁有<a href="../Page/鯨.md" title="wikilink">鯨般的巨浪</a>。</p></td>
+<td><p>擁有<a href="../Page/鯨.md" title="wikilink">鯨</a>般的巨浪。</p></td>
 <td><p>可與非生物的「Jet」組成Best Match 組合。<br />
 進化配對下的腰帶音效為「Whale」（日文原文：）。<br />
 </p></td>
@@ -4847,11 +4695,11 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Shika</p></td>
-<td><p>style="text-align:center”|シカ</p></td>
-<td><p>style="text-align:center”|鹿</p></td>
+<td><p>Shika</p></td>
+<td><p>シカ</p></td>
+<td><p>鹿</p></td>
 <td><p><strong>S / P</strong></p></td>
-<td><p>擁有<a href="../Page/鹿.md" title="wikilink">鹿般的鹿角</a>。</p></td>
+<td><p>擁有<a href="../Page/鹿.md" title="wikilink">鹿</a>般的鹿角。</p></td>
 <td><p>可與非生物的「Pyramid」組成Best Match 組合。<br />
 進化配對下的腰帶音效為「Deer」（日文原文：）。<br />
 </p></td>
@@ -4859,9 +4707,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Kirin</p></td>
-<td><p>style="text-align:center”|キリン</p></td>
-<td><p>style="text-align:center”|長頸鹿</p></td>
+<td><p>Kirin</p></td>
+<td><p>キリン</p></td>
+<td><p>長頸鹿</p></td>
 <td><p><strong>K / S</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/長頸鹿" title="wikilink">長頸鹿般高昂的頸部</a>。</p></td>
 <td><p>可與非生物的「Senpuki」組成Best Match 組合。<br />
@@ -4871,20 +4719,20 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Penguin</p></td>
-<td><p>style="text-align:center”|ペンギン</p></td>
-<td><p>style="text-align:center”|企鵝</p></td>
+<td><p>Penguin</p></td>
+<td><p>ペンギン</p></td>
+<td><p>企鵝</p></td>
 <td><p><strong>P / S</strong></p></td>
-<td><p>擁有<a href="../Page/企鵝.md" title="wikilink">企鵝般的耐寒能力</a>。</p></td>
+<td><p>擁有<a href="../Page/企鵝.md" title="wikilink">企鵝</a>般的耐寒能力。</p></td>
 <td><p>可與非生物的「Sukebo」組成Best Match 組合。<br />
 </p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Obake</p></td>
-<td><p>style="text-align:center”|おばけ</p></td>
-<td><p>style="text-align:center”|幽靈</p></td>
+<td><p>Obake</p></td>
+<td><p>おばけ</p></td>
+<td><p>幽靈</p></td>
 <td><p><strong>O / M</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/幽靈" title="wikilink">幽靈般的悚吓能力</a>。</p></td>
 <td><p>可與非生物的「Magnet」及傳説騎士的「Parka」（<strong><a href="../Page/假面騎士Ghost.md" title="wikilink">假面騎士Ghost</a></strong>）組成Best Match 組合。<br />
@@ -4894,9 +4742,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Same</p></td>
-<td><p>style="text-align:center”|サメ</p></td>
-<td><p>style="text-align:center”|鯊魚</p></td>
+<td><p>Same</p></td>
+<td><p>サメ</p></td>
+<td><p>鯊魚</p></td>
 <td><p><strong>S / B</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/鯊魚" title="wikilink">鯊魚般的感知敵人能力</a>。</p></td>
 <td><p>可與非生物的「Bike」組成Best Match 組合。<br />
@@ -4906,11 +4754,11 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Bat</p></td>
-<td><p>style="text-align:center”|バット</p></td>
-<td><p>style="text-align:center”|蝙蝠</p></td>
+<td><p>Bat</p></td>
+<td><p>バット</p></td>
+<td><p>蝙蝠</p></td>
 <td><p><strong>B / E</strong></p></td>
-<td><p>擁有<a href="../Page/蝙蝠.md" title="wikilink">蝙蝠般的夜间空行能力</a>。</p></td>
+<td><p>擁有<a href="../Page/蝙蝠.md" title="wikilink">蝙蝠</a>般的夜间空行能力。</p></td>
 <td><p>可與非生物的「Engine」組成Best Match 或Evol Match組合。<br />
 進化配對下的腰帶音效為「Komori」（日文原文：「コウモリ」）。<br />
 此滿裝瓶現由内海成彰所持有。</p></td>
@@ -4918,11 +4766,11 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Hachi</p></td>
-<td><p>style="text-align:center”|ハチ</p></td>
-<td><p>style="text-align:center”|黃蜂</p></td>
+<td><p>Hachi</p></td>
+<td><p>ハチ</p></td>
+<td><p>黃蜂</p></td>
 <td><p><strong>H / S</strong></p></td>
-<td><p>擁有<a href="../Page/黄蜂.md" title="wikilink">黄蜂般的隐秘和蛰擊能力</a>。</p></td>
+<td><p>擁有<a href="../Page/黄蜂.md" title="wikilink">黄蜂</a>般的隐秘和蛰擊能力。</p></td>
 <td><p>可與非生物的「Sensuikan」組成Best Match 組合。<br />
 進化配對下的腰帶音效為「Bee」（日文原文：）。<br />
 </p></td>
@@ -4930,11 +4778,11 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Sai</p></td>
-<td><p>style="text-align:center”|サイ</p></td>
-<td><p>style="text-align:center”|犀牛</p></td>
+<td><p>Sai</p></td>
+<td><p>サイ</p></td>
+<td><p>犀牛</p></td>
 <td><p><strong>S / D</strong></p></td>
-<td><p>擁有<a href="../Page/犀牛.md" title="wikilink">犀牛般的衝擊能力</a>。</p></td>
+<td><p>擁有<a href="../Page/犀牛.md" title="wikilink">犀牛</a>般的衝擊能力。</p></td>
 <td><p>可與非生物的「Dryer」組成Best Match 組合。<br />
 進化配對下的腰帶音效為「Rhino」（日文原文：）。<br />
 </p></td>
@@ -4942,20 +4790,20 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Tank</p></td>
-<td><p>style="text-align:center”|タンク</p></td>
-<td><p>style="text-align:center”|坦克</p></td>
+<td><p>Tank</p></td>
+<td><p>タンク</p></td>
+<td><p>坦克</p></td>
 <td><p><strong>R / T</strong></p></td>
 <td><p>非生物</p></td>
 <td><p>rowspan="10" style="text-align:center”|東都</p></td>
-<td><p>擁有<a href="../Page/坦克.md" title="wikilink">坦克般的强橫力量</a>。</p></td>
+<td><p>擁有<a href="../Page/坦克.md" title="wikilink">坦克</a>般的强橫力量。</p></td>
 <td><p>可與生物的「Rabbit」組成Best Match 組合。<br />
 此滿裝瓶一開始就由桐生戰兔所持有。</p></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Diamond</p></td>
-<td><p>style="text-align:center”|ダイヤモンド</p></td>
-<td><p>style="text-align:center”|鑽石</p></td>
+<td><p>Diamond</p></td>
+<td><p>ダイヤモンド</p></td>
+<td><p>鑽石</p></td>
 <td><p><strong>G / D</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/鑽石" title="wikilink">鑽石般的堅硬防禦能力</a>。</p></td>
 <td><p>可與生物的「Gorilla」及傳説騎士的「Mahotsukai」（<strong><a href="https://zh.wikipedia.org/wiki/假面騎士Wizard" title="wikilink">假面騎士Wizard</a></strong>）組成Best Match 組合。<br />
@@ -4966,9 +4814,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Gatling</p></td>
-<td><p>style="text-align:center”|ガトリング</p></td>
-<td><p>style="text-align:center”|格林機槍</p></td>
+<td><p>Gatling</p></td>
+<td><p>ガトリング</p></td>
+<td><p>格林機槍</p></td>
 <td><p><strong>T / G</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/格林機槍" title="wikilink">格林機槍般的密集火力</a>。</p></td>
 <td><p>可與生物的「Taka」組成Best Match 組合。<br />
@@ -4978,9 +4826,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Comic</p></td>
-<td><p>style="text-align:center”|コミック</p></td>
-<td><p>style="text-align:center”|漫畫</p></td>
+<td><p>Comic</p></td>
+<td><p>コミック</p></td>
+<td><p>漫畫</p></td>
 <td><p><strong>N / C</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/漫畫" title="wikilink">漫畫般的想像化為實體的能力</a>。</p></td>
 <td><p>可與生物的「Ninja」組成Best Match 組合。<br />
@@ -4990,22 +4838,22 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Rocket</p></td>
-<td><p>style="text-align:center”|ロケット</p></td>
-<td><p>style="text-align:center”|火箭</p></td>
+<td><p>Rocket</p></td>
+<td><p>ロケット</p></td>
+<td><p>火箭</p></td>
 <td><p><strong>P / R</strong></p></td>
-<td><p>擁有<a href="../Page/火箭.md" title="wikilink">火箭般的推進力及飛行力</a>。</p></td>
+<td><p>擁有<a href="../Page/火箭.md" title="wikilink">火箭</a>般的推進力及飛行力。</p></td>
 <td><p>可與生物的「Panda」及傳説騎士的「Yuujo」（<strong><a href="../Page/假面騎士Fourze.md" title="wikilink">假面騎士Fourze</a></strong>）組成Best Match 組合。<br />
 此滿裝瓶本由Faust 所持有，後因萬丈龍我從血逐手上奪得並給予桐生戰兔下，現由桐生戰兔所持有。</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Syoubousya</p></td>
-<td><p>style="text-align:center”|<ruby>消防車<rp>(</rp><rt>ショウボウシャ</rt><rp>)</rp></ruby></p></td>
-<td><p>style="text-align:center”|消防車</p></td>
+<td><p>Syoubousya</p></td>
+<td><p></ruby>消防車<rp>(</rp><rt>ショウボウシャ</rt><rp>)</rp></ruby></p></td>
+<td><p>消防車</p></td>
 <td><p><strong>H / S</strong></p></td>
-<td><p>擁有<a href="../Page/消防車.md" title="wikilink">消防車般的噴出火焰和水的能力</a>。</p></td>
+<td><p>擁有<a href="../Page/消防車.md" title="wikilink">消防車</a>般的噴出火焰和水的能力。</p></td>
 <td><p>可與生物的「Harinezumi」組成Best Match 組合。<br />
 最佳配對下的腰帶音效為「Fire」（日文原文：）。<br />
 進化配對下的腰帶音效為「Firerescue」（日文原文：）。<br />
@@ -5014,11 +4862,11 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Soujiki</p></td>
-<td><p>style="text-align:center”|<ruby>掃除機<rp>(</rp><rt>ソウジキ</rt><rp>)</rp></ruby></p></td>
-<td><p>style="text-align:center”|吸塵機</p></td>
+<td><p>Soujiki</p></td>
+<td><p><ruby>掃除機<rp>(</rp><rt>ソウジキ</rt><rp>)</rp></ruby></p></td>
+<td><p>吸塵機</p></td>
 <td><p><strong>L / S</strong></p></td>
-<td><p>擁有<a href="../Page/吸塵機.md" title="wikilink">吸塵機般地吸走物件</a>，同時亦可吸走外來攻擊並轉化為自身戰鬥力的能力。</p></td>
+<td><p>擁有<a href="../Page/吸塵機.md" title="wikilink">吸塵機</a>般地吸走物件，同時亦可吸走外來攻擊並轉化為自身戰鬥力的能力。</p></td>
 <td><p>可與生物的「Lion」組成Best Match 組合。<br />
 最佳配對和進化配對下的腰帶音效為「Cleaner」（日文原文：）。<br />
 此滿裝瓶一開始就由桐生戰兔所持有。</p></td>
@@ -5026,9 +4874,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Lock</p></td>
-<td><p>style="text-align:center”|ロック</p></td>
-<td><p>style="text-align:center”|鎖</p></td>
+<td><p>Lock</p></td>
+<td><p>ロック</p></td>
+<td><p>鎖</p></td>
 <td><p><strong>D / L</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/鎖" title="wikilink">鎖般封鎖敵人的能力</a>。</p></td>
 <td><p>可與生物的「Dragon」及傳説騎士的「Orange」（<strong><a href="../Page/假面騎士鎧武.md" title="wikilink">假面騎士鎧武</a></strong>）組成Best Match 組合。<br />
@@ -5039,9 +4887,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Densha</p></td>
-<td><p>style="text-align:center”|<ruby>電車<rp>(</rp><rt>デンシャー</rt><rp>)</rp></ruby></p></td>
-<td><p>style="text-align:center”|列車</p></td>
+<td><p>Densha</p></td>
+<td><p><ruby>電車<rp>(</rp><rt>デンシャー</rt><rp>)</rp></ruby></p></td>
+<td><p>列車</p></td>
 <td><p><strong>K / D</strong></p></td>
 <td><p>擁有<a href="../Page/鐵路列車.md" title="wikilink">列車般的速度</a>。</p></td>
 <td><p>可與生物的「Kaizoku」及傳説騎士的「Momotaros」（<strong><a href="https://zh.wikipedia.org/wiki/假面騎士電王" title="wikilink">假面騎士電王</a></strong>）組成Best Match 組合。<br />
@@ -5052,11 +4900,11 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Light</p></td>
-<td><p>style="text-align:center”|ライト</p></td>
-<td><p>style="text-align:center”|光</p></td>
+<td><p>Light</p></td>
+<td><p>ライト</p></td>
+<td><p>光</p></td>
 <td><p><strong>O / L</strong></p></td>
-<td><p>擁有<a href="../Page/光.md" title="wikilink">光般的强光並可當閃光彈使用</a>，使敵人暫時陷入目盲。</p></td>
+<td><p>擁有<a href="../Page/光.md" title="wikilink">光</a>般的强光並可當閃光彈使用，使敵人暫時陷入目盲。</p></td>
 <td><p>可與生物的「Octopus」組成Best Match 組合。<br />
 進化配對下的腰帶音效為「Denki」（日文原文：）。<br />
 此滿裝瓶一開始就由桐生戰兔所持有。</p></td>
@@ -5064,9 +4912,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Robot</p></td>
-<td><p>style="text-align:center”|ロボット</p></td>
-<td><p>style="text-align:center”|機械人</p></td>
+<td><p>Robot</p></td>
+<td><p>ロボット</p></td>
+<td><p>機械人</p></td>
 <td><p><strong>P / R</strong></p></td>
 <td><p>rowspan="10" style="text-align:center”|北都</p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/機器人" title="wikilink">機器人般的精凖操作</a>。</p></td>
@@ -5077,9 +4925,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Smapho</p></td>
-<td><p>style="text-align:center”|スマホ</p></td>
-<td><p>style="text-align:center”|智慧型手機</p></td>
+<td><p>Smapho</p></td>
+<td><p>スマホ</p></td>
+<td><p>智慧型手機</p></td>
 <td><p><strong>W / S</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/智慧型手機" title="wikilink">智慧型手機般的搜索能力</a>。</p></td>
 <td><p>可與生物的「Wolf」組成Best Match 組合。<br />
@@ -5089,11 +4937,11 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Keshigomu</p></td>
-<td><p>style="text-align:center”|<ruby>消<rp>(</rp><rt>け</rt><rp>)</rp></ruby>しゴム</p></td>
-<td><p>style="text-align:center”|橡皮擦</p></td>
+<td><p>Keshigomu</p></td>
+<td><p><ruby>消<rp>(</rp><rt>け</rt><rp>)</rp></ruby>しゴム</p></td>
+<td><p>橡皮擦</p></td>
 <td><p><strong>U / K</strong></p></td>
-<td><p>擁有<a href="../Page/橡皮擦.md" title="wikilink">橡皮擦般的消去能力</a>。</p></td>
+<td><p>擁有<a href="../Page/橡皮擦.md" title="wikilink">橡皮擦</a>般的消去能力。</p></td>
 <td><p>可與生物的「Unicorn」組成Best Match 組合。<br />
 最佳配對下的腰帶音效為「Raser」（日文原文：）。<br />
 進化配對下的腰帶音效為「Eraser」（日文原文：）。<br />
@@ -5102,9 +4950,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Helicopter</p></td>
-<td><p>style="text-align:center”|ヘリコプター</p></td>
-<td><p>style="text-align:center”|直升機</p></td>
+<td><p>Helicopter</p></td>
+<td><p>ヘリコプター</p></td>
+<td><p>直升機</p></td>
 <td><p><strong>R / H</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/直升機" title="wikilink">直升機般的垂直飛行能力</a>。</p></td>
 <td><p>可與生物的「Rose」組成Best Match 組合。<br />
@@ -5114,9 +4962,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Watch</p></td>
-<td><p>style="text-align:center”|ウォッチ</p></td>
-<td><p>style="text-align:center”|手錶</p></td>
+<td><p>Watch</p></td>
+<td><p>ウォッチ</p></td>
+<td><p>手錶</p></td>
 <td><p><strong>T / W</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/手錶" title="wikilink">手錶般的鐘</a>。</p></td>
 <td><p>可與生物的「Turtle」組成Best Match 組合。<br />
@@ -5126,20 +4974,20 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Camera</p></td>
-<td><p>style="text-align:center”|カメラ</p></td>
-<td><p>style="text-align:center”|照相機</p></td>
+<td><p>Camera</p></td>
+<td><p>カメラ</p></td>
+<td><p>照相機</p></td>
 <td><p><strong>K / C</strong></p></td>
-<td><p>擁有<a href="../Page/照相機.md" title="wikilink">照相機般的拍摄能力</a>。</p></td>
+<td><p>擁有<a href="../Page/照相機.md" title="wikilink">照相機</a>般的拍摄能力。</p></td>
 <td><p>可與生物的「Kabutomushi」及傳説騎士的「Rider Card」（<strong><a href="../Page/假面騎士Decade.md" title="wikilink">假面騎士Decade</a></strong>）組成Best Match 組合。<br />
 </p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Televi</p></td>
-<td><p>style="text-align:center”|テレビ</p></td>
-<td><p>style="text-align:center”|電視</p></td>
+<td><p>Televi</p></td>
+<td><p>テレビ</p></td>
+<td><p>電視</p></td>
 <td><p><strong>K / T</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/電視" title="wikilink">電視般的播映能力</a>。</p></td>
 <td><p>可與生物的「Kuma」組成Best Match 組合。<br />
@@ -5149,9 +4997,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Mic</p></td>
-<td><p>style="text-align:center”|マイク</p></td>
-<td><p>style="text-align:center”|麥克風</p></td>
+<td><p>Mic</p></td>
+<td><p>マイク</p></td>
+<td><p>麥克風</p></td>
 <td><p><strong>D / M</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/麥克風" title="wikilink">麥克風般的扩音能力</a>。</p></td>
 <td><p>可與生物的「Dog」組成Best Match 組合。</p></td>
@@ -5159,21 +5007,21 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Cake</p></td>
-<td><p>style="text-align:center”|ケーキ</p></td>
-<td><p>style="text-align:center”|蛋糕</p></td>
+<td><p>Cake</p></td>
+<td><p>ケーキ</p></td>
+<td><p>蛋糕</p></td>
 <td><p><strong>S / C</strong></p></td>
-<td><p>擁有<a href="../Page/蛋糕.md" title="wikilink">蛋糕般的甜蜜</a>。</p></td>
+<td><p>擁有<a href="../Page/蛋糕.md" title="wikilink">蛋糕</a>般的甜蜜。</p></td>
 <td><p>可與「Santa Claus」組成Best Match 組合。</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Reizoko</p></td>
-<td><p>style="text-align:center”|<ruby>冷蔵庫<rp>(</rp><rt>れいぞうこ</rt><rp>)</rp></ruby></p></td>
-<td><p>style="text-align:center”|冰箱</p></td>
+<td><p>Reizoko</p></td>
+<td><p><ruby>冷蔵庫<rp>(</rp><rt>れいぞうこ</rt><rp>)</rp></ruby></p></td>
+<td><p>冰箱</p></td>
 <td><p><strong>S / R</strong></p></td>
-<td><p>擁有<a href="../Page/冰箱.md" title="wikilink">冰箱般的冷冻能力</a>。</p></td>
+<td><p>擁有<a href="../Page/冰箱.md" title="wikilink">冰箱</a>般的冷冻能力。</p></td>
 <td><p>可與生物的「Spider」組成Best Match 組合。<br />
 最佳配對下的腰帶音效為「Cooler」（日文原文：）。<br />
 進化配對下的腰帶音效為「Icebox」（日文原文：）。<br />
@@ -5182,9 +5030,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|UFO</p></td>
-<td><p>style="text-align:center”|<ruby>UFO<rp>(</rp><rt>ユーフォー</rt><rp>)</rp></ruby></p></td>
-<td><p>style="text-align:center”|UFO</p></td>
+<td><p>UFO</p></td>
+<td><p><ruby>UFO<rp>(</rp><rt>ユーフォー</rt><rp>)</rp></ruby></p></td>
+<td><p>UFO</p></td>
 <td><p><strong>T / U</strong></p></td>
 <td><p>rowspan="10" style="text-align:center”|西都</p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/UFO" title="wikilink">UFO般的空中飛行能力</a>。</p></td>
@@ -5192,9 +5040,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Jet</p></td>
-<td><p>style="text-align:center”|ジェット</p></td>
-<td><p>style="text-align:center”|噴射機</p></td>
+<td><p>Jet</p></td>
+<td><p>ジェット</p></td>
+<td><p>噴射機</p></td>
 <td><p><strong>K / J</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/噴射機" title="wikilink">噴射機般的空中飛行能力和火力</a>。</p></td>
 <td><p>可與生物的「Kujira」組成Best Match 組合。<br />
@@ -5204,20 +5052,20 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Pyramid</p></td>
-<td><p>style="text-align:center”|ピラミッド</p></td>
-<td><p>style="text-align:center”|金字塔</p></td>
+<td><p>Pyramid</p></td>
+<td><p>ピラミッド</p></td>
+<td><p>金字塔</p></td>
 <td><p><strong>S / P</strong></p></td>
-<td><p>擁有<a href="../Page/金字塔.md" title="wikilink">金字塔般的辉煌外觀</a>。</p></td>
+<td><p>擁有<a href="../Page/金字塔.md" title="wikilink">金字塔</a>般的辉煌外觀。</p></td>
 <td><p>可與生物的「Shika」組成Best Match 組合。<br />
 </p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Senpuki</p></td>
-<td><p>style="text-align:center”|<ruby>扇風機<rp>(</rp><rt>センプウキ</rt><rp>)</rp></ruby></p></td>
-<td><p>style="text-align:center”|電風扇</p></td>
+<td><p>Senpuki</p></td>
+<td><p><ruby>扇風機<rp>(</rp><rt>センプウキ</rt><rp>)</rp></ruby></p></td>
+<td><p>電風扇</p></td>
 <td><p><strong>K / S</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/電風扇" title="wikilink">電風扇般的吹袭能力</a>。</p></td>
 <td><p>可與生物的「Kirin」組成Best Match 組合。<br />
@@ -5228,11 +5076,11 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Sukebo</p></td>
-<td><p>style="text-align:center”|スケボー</p></td>
-<td><p>style="text-align:center”|滑板</p></td>
+<td><p>Sukebo</p></td>
+<td><p>スケボー</p></td>
+<td><p>滑板</p></td>
 <td><p><strong>P / S</strong></p></td>
-<td><p>擁有<a href="../Page/滑板.md" title="wikilink">滑板般的滑溜能力</a>。</p></td>
+<td><p>擁有<a href="../Page/滑板.md" title="wikilink">滑板</a>般的滑溜能力。</p></td>
 <td><p>可與生物的「Penguin」組成Best Match 組合。<br />
 最佳配對下的腰帶音效為「Skater」（日文原文：）。<br />
 </p></td>
@@ -5240,11 +5088,11 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Magnet</p></td>
-<td><p>style="text-align:center”|マグネット</p></td>
-<td><p>style="text-align:center”|磁鐵</p></td>
+<td><p>Magnet</p></td>
+<td><p>マグネット</p></td>
+<td><p>磁鐵</p></td>
 <td><p><strong>O / M</strong></p></td>
-<td><p>擁有<a href="../Page/磁鐵.md" title="wikilink">磁鐵般的吸附和排斥能力</a>。</p></td>
+<td><p>擁有<a href="../Page/磁鐵.md" title="wikilink">磁鐵</a>般的吸附和排斥能力。</p></td>
 <td><p>可與生物的「Obake」組成Best Match 組合。<br />
 最佳配對下的腰帶音效為「Mag」（日文原文：）。<br />
 進化配對下的腰帶音效為「Jishaku」（日文原文：）。<br />
@@ -5253,9 +5101,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Bike</p></td>
-<td><p>style="text-align:center”|バイク</p></td>
-<td><p>style="text-align:center”|機車</p></td>
+<td><p>Bike</p></td>
+<td><p>バイク</p></td>
+<td><p>機車</p></td>
 <td><p><strong>S / B</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/機車" title="wikilink">機車般的行走能力</a>。</p></td>
 <td><p>可與生物的「Same」組成Best Match 組合。<br />
@@ -5264,9 +5112,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Engine</p></td>
-<td><p>style="text-align:center”|エンジン</p></td>
-<td><p>style="text-align:center”|引擎</p></td>
+<td><p>Engine</p></td>
+<td><p>エンジン</p></td>
+<td><p>引擎</p></td>
 <td><p><strong>B / E</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/引擎" title="wikilink">引擎般的機動能力</a>。</p></td>
 <td><p>可與生物的「Bat」組成Best Match 或Evol Match組合。<br />
@@ -5276,11 +5124,11 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Sensuikan</p></td>
-<td><p>style="text-align:center”|<ruby>潜水艦<rp>(</rp><rt>せんすいかん</rt><rp>)</rp></ruby></p></td>
-<td><p>style="text-align:center”|潛艇</p></td>
+<td><p>Sensuikan</p></td>
+<td><p><ruby>潜水艦<rp>(</rp><rt>せんすいかん</rt><rp>)</rp></ruby></p></td>
+<td><p>潛艇</p></td>
 <td><p><strong>H / S</strong></p></td>
-<td><p>擁有<a href="../Page/潛艇.md" title="wikilink">潛艇般的潜行能力和導彈</a>。</p></td>
+<td><p>擁有<a href="../Page/潛艇.md" title="wikilink">潛艇</a>般的潜行能力和導彈。</p></td>
 <td><p>可與生物的「Hachi」組成Best Match 組合。<br />
 最佳配對下的腰帶音效為「Marine」（日文原文：）。<br />
 進化配對下的腰帶音效為「Submarine」（日文原文：）。<br />
@@ -5289,9 +5137,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Dryer</p></td>
-<td><p>style="text-align:center”|ドライヤー</p></td>
-<td><p>style="text-align:center”|吹風機</p></td>
+<td><p>Dryer</p></td>
+<td><p>ドライヤー</p></td>
+<td><p>吹風機</p></td>
 <td><p><strong>S / D</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/吹風機" title="wikilink">吹風機般的烘干能力</a>。</p></td>
 <td><p>可與生物的「Sai」組成Best Match 組合。<br />
@@ -5310,9 +5158,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Crocodile Crack</p></td>
-<td><p>style="text-align:center”|クロコダイルクラック</p></td>
-<td><p>style="text-align:center”|鱷魚裂痕</p></td>
+<td><p>Crocodile Crack</p></td>
+<td><p>クロコダイルクラック</p></td>
+<td><p>鱷魚裂痕</p></td>
 <td><p>-[179]</p></td>
 <td><p>生物</p></td>
 <td><p>西都</p></td>
@@ -5320,9 +5168,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Low Rabbit</p></td>
-<td><p>style="text-align:center”|ローラビット</p></td>
-<td><p>style="text-align:center”|微量兔子</p></td>
+<td><p>Low Rabbit</p></td>
+<td><p>ローラビット</p></td>
+<td><p>微量兔子</p></td>
 <td><p>兔子[180]</p></td>
 <td><p>東都</p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/兔子" title="wikilink">兔子般的跳跃能力</a>，但威力比较弱。</p></td>
@@ -5331,20 +5179,20 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Dragon Magma</p></td>
-<td><p>style="text-align:center”|ドラゴンマグマ</p></td>
-<td><p>style="text-align:center”|龍熔岩</p></td>
+<td><p>Dragon Magma</p></td>
+<td><p>ドラゴンマグマ</p></td>
+<td><p>龍熔岩</p></td>
 <td><p>-</p></td>
-<td><p>擁有<a href="https://zh.wikipedia.org/wiki/龍" title="wikilink">龍般的氣息和</a><a href="../Page/熔岩.md" title="wikilink">熔岩般無限燃烧的能力</a>。</p></td>
+<td><p>擁有<a href="https://zh.wikipedia.org/wiki/龍" title="wikilink">龍般的氣息和</a><a href="../Page/熔岩.md" title="wikilink">熔岩</a>般無限燃烧的能力。</p></td>
 <td><p>在「Dragon」濃縮膠涷被燒毁後，因吸收了潘朵拉之盒的火星之力而變化而成。<br />
 此滿裝瓶現由萬丈龍我持有。</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Gold Rabbit</p></td>
-<td><p>style="text-align:center”|ゴールドラビット</p></td>
-<td><p>style="text-align:center”|金兔</p></td>
+<td><p>Gold Rabbit</p></td>
+<td><p>ゴールドラビット</p></td>
+<td><p>金兔</p></td>
 <td><p><strong>R</strong></p></td>
 <td></td>
 <td></td>
@@ -5352,9 +5200,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Silver Dragon</p></td>
-<td><p>style="text-align:center”|シルバードラゴン</p></td>
-<td><p>style="text-align:center”|銀龍</p></td>
+<td><p>Silver Dragon</p></td>
+<td><p>シルバードラゴン</p></td>
+<td><p>銀龍</p></td>
 <td><p><strong>D</strong></p></td>
 <td></td>
 <td></td>
@@ -5362,9 +5210,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|North Blizzard</p></td>
-<td><p>style="text-align:center”|ノースブリザード</p></td>
-<td><p>style="text-align:center”|北極暴風雪</p></td>
+<td><p>North Blizzard</p></td>
+<td><p>ノースブリザード</p></td>
+<td><p>北極暴風雪</p></td>
 <td><p>-</p></td>
 <td><p>非生物</p></td>
 <td><p>北都</p></td>
@@ -5372,19 +5220,19 @@ Form</strong><br />
 <td><p>此滿裝瓶由桐生戰兔開發，是以三羽鴉的SMASH化資料製作而成，現由猿渡一海所持有</p></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|KillbaSpider</p></td>
-<td><p>style="text-align:center”|キルバスパイダー</p></td>
-<td><p>style="text-align:center”|Killbas蜘蛛</p></td>
+<td><p>KillbaSpider</p></td>
+<td><p>キルバスパイダー</p></td>
+<td><p>Killbas蜘蛛</p></td>
 <td><p>-</p></td>
 <td><p>生物</p></td>
 <td><p>-</p></td>
-<td><p>擁有<a href="../Page/蜘蛛.md" title="wikilink">蜘蛛般的行動能力</a>、織網捕捉能力和延伸足部攻擊的能力。</p></td>
+<td><p>擁有<a href="../Page/蜘蛛.md" title="wikilink">蜘蛛</a>般的行動能力、織網捕捉能力和延伸足部攻擊的能力。</p></td>
 <td><p>此滿裝瓶由Killbas所持有。</p></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Buttobasoru</p></td>
-<td><p>style="text-align:center”|ブットバソウル</p></td>
-<td><p>style="text-align:center”|Buttobasoru</p></td>
+<td><p>Buttobasoru</p></td>
+<td><p>ブットバソウル</p></td>
+<td><p>Buttobasoru</p></td>
 <td><p><strong>B / G</strong></p></td>
 <td><p>生物</p></td>
 <td></td>
@@ -5392,9 +5240,9 @@ Form</strong><br />
 <td><p>可與「Ganbarizing」組成Best Match 組合。</p></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Ganbarizing</p></td>
-<td><p>style="text-align:center”|ガンバライジング</p></td>
-<td><p>style="text-align:center”|Ganbarizing</p></td>
+<td><p>Ganbarizing</p></td>
+<td><p>ガンバライジング</p></td>
+<td><p>Ganbarizing</p></td>
 <td><p>非生物</p></td>
 <td></td>
 <td></td>
@@ -5402,19 +5250,19 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Super Sentai</p></td>
-<td><p>style="text-align:center”|ズーパー戦隊</p></td>
-<td><p>style="text-align:center”|超級戰隊</p></td>
+<td><p>Super Sentai</p></td>
+<td><p>ズーパー戦隊</p></td>
+<td><p>超級戰隊</p></td>
 <td><p><strong>S / K</strong></p></td>
 <td><p>生物</p></td>
 <td></td>
-<td></td>
-<td><p>可與「Kamen Rider」組成Best Match 組合。</p></td>
+<td><p>style="text-align:center”|</p></td>
+<td><p>style="text-align:center”|可與「Kamen Rider」組成Best Match 組合。</p></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Kamen Rider</p></td>
-<td><p>style="text-align:center”|仮面ライダー</p></td>
-<td><p>style="text-align:center”|假面騎士</p></td>
+<td><p>Kamen Rider</p></td>
+<td><p>仮面ライダー</p></td>
+<td><p>假面騎士</p></td>
 <td></td>
 <td></td>
 <td><p>可與「Super Sentai」組成Best Match 組合。</p></td>
@@ -5422,20 +5270,20 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Scorpion</p></td>
-<td><p>style="text-align:center”|スコーピオン</p></td>
-<td><p>style="text-align:center”|蠍子</p></td>
+<td><p>Scorpion</p></td>
+<td><p>スコーピオン</p></td>
+<td><p>蠍子</p></td>
 <td><p><strong>S / G</strong></p></td>
 <td><p>生物</p></td>
 <td></td>
-<td><p>擁有<a href="../Page/蠍子.md" title="wikilink">蠍子般的巧妙動作和迅速蛰擊的能力</a>。</p></td>
+<td><p>擁有<a href="../Page/蠍子.md" title="wikilink">蠍子</a>般的巧妙動作和迅速蛰擊的能力。</p></td>
 <td><p>可與非生物的「Gold」組成Best Match 組合。<br />
 </p></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Gold</p></td>
-<td><p>style="text-align:center”|ゴールド</p></td>
-<td><p>style="text-align:center”|黃金</p></td>
+<td><p>Gold</p></td>
+<td><p>ゴールド</p></td>
+<td><p>黃金</p></td>
 <td><p>非生物</p></td>
 <td></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/黄金" title="wikilink">黄金般的色泽</a>。</p></td>
@@ -5460,7 +5308,7 @@ Form</strong><br />
 <td><p>style="text-align:center”|一級方程式</p></td>
 <td><p>非生物</p></td>
 <td></td>
-<td><p>擁有<a href="../Page/賽車.md" title="wikilink">賽車般的加速技能</a>。</p></td>
+<td><p>擁有<a href="../Page/賽車.md" title="wikilink">賽車</a>般的加速技能。</p></td>
 <td><p>可與生物的「Kyoryu」組成Best Match 組合。</p></td>
 <td></td>
 </tr>
@@ -5471,7 +5319,7 @@ Form</strong><br />
 <td><p><strong>K</strong></p></td>
 <td><p>生物</p></td>
 <td></td>
-<td><p>擁有<a href="../Page/袋鼠.md" title="wikilink">袋鼠般的拳擊</a>、跳跃和踢擊能力。</p></td>
+<td><p>擁有<a href="../Page/袋鼠.md" title="wikilink">袋鼠</a>般的拳擊、跳跃和踢擊能力。</p></td>
 <td><p>可與生物的「Rabbit」或非生物的「Tank」組成Best Match 組合。</p></td>
 </tr>
 <tr class="odd">
@@ -5485,9 +5333,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Doctor</p></td>
-<td><p>style="text-align:center”|ドクター</p></td>
-<td><p>style="text-align:center”|醫生</p></td>
+<td><p>Doctor</p></td>
+<td><p>ドクター</p></td>
+<td><p>醫生</p></td>
 <td><p><strong>D / G</strong></p></td>
 <td></td>
 <td><p>-</p></td>
@@ -5495,9 +5343,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Game</p></td>
-<td><p>style="text-align:center”|ゲーム</p></td>
-<td><p>style="text-align:center”|遊戲</p></td>
+<td><p>Game</p></td>
+<td><p>ゲーム</p></td>
+<td><p>遊戲</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5505,9 +5353,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Parka</p></td>
-<td><p>style="text-align:center”|パーカ</p></td>
-<td><p>style="text-align:center”|風衣</p></td>
+<td><p>Parka</p></td>
+<td><p>パーカ</p></td>
+<td><p>風衣</p></td>
 <td><p><strong>O / P</strong></p></td>
 <td></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/風衣" title="wikilink">風衣般的防寒和保暖能力</a>。</p></td>
@@ -5515,9 +5363,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Orange</p></td>
-<td><p>style="text-align:center”|オレンジ</p></td>
-<td><p>style="text-align:center”|柳橙</p></td>
+<td><p>Orange</p></td>
+<td><p>オレンジ</p></td>
+<td><p>柳橙</p></td>
 <td><p><strong>O / L</strong></p></td>
 <td></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/柳橙" title="wikilink">柳橙般的酸味</a>。</p></td>
@@ -5525,9 +5373,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Mahotsukai</p></td>
-<td><p>style="text-align:center”|<ruby>魔法使<rp>(</rp><rt>マホウツカ</rt><rp>)</rp></ruby>い</p></td>
-<td><p>style="text-align:center”|魔法師</p></td>
+<td><p>Mahotsukai</p></td>
+<td><p><ruby>魔法使<rp>(</rp><rt>マホウツカ</rt><rp>)</rp></ruby>い</p></td>
+<td><p>魔法師</p></td>
 <td><p><strong>M / D</strong></p></td>
 <td></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/魔法师" title="wikilink">魔法师般的施展魔法能力</a>。</p></td>
@@ -5535,29 +5383,29 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Yuujo</p></td>
-<td><p>style="text-align:center”|<ruby>友情<rp>(</rp><rt>ユウジョウ</rt><rp>)</rp></ruby></p></td>
-<td><p>style="text-align:center”|友情</p></td>
+<td><p>Yuujo</p></td>
+<td><p><ruby>友情<rp>(</rp><rt>ユウジョウ</rt><rp>)</rp></ruby></p></td>
+<td><p>友情</p></td>
 <td><p><strong>Y / R</strong></p></td>
 <td></td>
-<td><p>擁也<a href="../Page/友情.md" title="wikilink">友情般的绝顶情义</a>。</p></td>
+<td><p>擁也<a href="../Page/友情.md" title="wikilink">友情</a>般的绝顶情义。</p></td>
 <td><p>可與非生物的「Rocket」（<strong><a href="../Page/假面騎士Fourze.md" title="wikilink">假面騎士Fourze</a></strong>）組成Best Match 組合。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Medal</p></td>
-<td><p>style="text-align:center”|メダル</p></td>
-<td><p>style="text-align:center”|硬幣</p></td>
+<td><p>Medal</p></td>
+<td><p>メダル</p></td>
+<td><p>硬幣</p></td>
 <td><p><strong>T / M</strong></p></td>
 <td></td>
-<td><p>擁有<a href="../Page/硬幣.md" title="wikilink">硬幣般的欲望</a>。</p></td>
+<td><p>擁有<a href="../Page/硬幣.md" title="wikilink">硬幣</a>般的欲望。</p></td>
 <td><p>可與生物的「Taka」（<strong><a href="../Page/假面騎士OOO.md" title="wikilink">假面騎士OOO</a></strong>）組成Best Match 組合。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Tantei</p></td>
-<td><p>style="text-align:center”|<ruby>探偵<rp>(</rp><rt>タンテイ</rt><rp>)</rp></ruby></p></td>
-<td><p>style="text-align:center”|偵探</p></td>
+<td><p>Tantei</p></td>
+<td><p><ruby>探偵<rp>(</rp><rt>タンテイ</rt><rp>)</rp></ruby></p></td>
+<td><p>偵探</p></td>
 <td><p><strong>T / U</strong></p></td>
 <td></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/偵探" title="wikilink">偵探般的偵查和逻辑性思考能力</a>。</p></td>
@@ -5565,9 +5413,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|USB Memory</p></td>
-<td><p>style="text-align:center”|USBメモリ</p></td>
-<td><p>style="text-align:center”|USB記憶體</p></td>
+<td><p>USB Memory</p></td>
+<td><p>USBメモリ</p></td>
+<td><p>USB記憶體</p></td>
 <td></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/USB記憶體" title="wikilink">USB記憶體般的數據储存能力</a>。</p></td>
 <td><p>可與傳説騎士的「Tantei」（<strong><a href="https://zh.wikipedia.org/wiki/假面騎士W" title="wikilink">假面騎士W</a></strong>）組成Best Match 組合。</p></td>
@@ -5575,9 +5423,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Rider Card</p></td>
-<td><p>style="text-align:center”|ライダーカード</p></td>
-<td><p>style="text-align:center”|騎士卡片</p></td>
+<td><p>Rider Card</p></td>
+<td><p>ライダーカード</p></td>
+<td><p>騎士卡片</p></td>
 <td><p><strong>C / C</strong></p></td>
 <td></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/騎士卡片" title="wikilink">騎士卡片的三次元解放能力</a>。</p></td>
@@ -5585,9 +5433,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Momotaros</p></td>
-<td><p>style="text-align:center”|モモタロス</p></td>
-<td><p>style="text-align:center”|桃太洛斯</p></td>
+<td><p>Momotaros</p></td>
+<td><p>モモタロス</p></td>
+<td><p>桃太洛斯</p></td>
 <td><p><strong>M / D</strong></p></td>
 <td></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/桃太洛斯" title="wikilink">桃太洛斯的異魔神能力</a>。</p></td>
@@ -5595,9 +5443,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|EX-AID</p></td>
-<td><p>style="text-align:center”|エグゼイド</p></td>
-<td><p>style="text-align:center”|EX-AID</p></td>
+<td><p>EX-AID</p></td>
+<td><p>エグゼイド</p></td>
+<td><p>EX-AID</p></td>
 <td><p><strong>E</strong></p></td>
 <td><p>傳說騎士</p></td>
 <td></td>
@@ -5605,9 +5453,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|EX-AID（Lv1 ver.）</p></td>
-<td><p>style="text-align:center”|エグゼイド（Lv1 ver.）</p></td>
-<td><p>style="text-align:center”|EX-AID（Lv1 ver.）</p></td>
+<td><p>EX-AID（Lv1 ver.）</p></td>
+<td><p>エグゼイド（Lv1 ver.）</p></td>
+<td><p>EX-AID（Lv1 ver.）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5615,9 +5463,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Ghost</p></td>
-<td><p>style="text-align:center”|ゴースト</p></td>
-<td><p>style="text-align:center”|Ghost</p></td>
+<td><p>Ghost</p></td>
+<td><p>ゴースト</p></td>
+<td><p>Ghost</p></td>
 <td><p><strong>G</strong></p></td>
 <td></td>
 <td><p>可與「EX-AID」組成Best Match 組合。</p></td>
@@ -5625,9 +5473,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Drive</p></td>
-<td><p>style="text-align:center”|ドライブ</p></td>
-<td><p>style="text-align:center”|Drive</p></td>
+<td><p>Drive</p></td>
+<td><p>ドライブ</p></td>
+<td><p>Drive</p></td>
 <td><p><strong>D</strong></p></td>
 <td></td>
 <td><p>可與「鎧武」組成Best Match 組合。</p></td>
@@ -5635,9 +5483,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Gaim</p></td>
-<td><p>style="text-align:center”|鎧武</p></td>
-<td><p>style="text-align:center”|鎧武</p></td>
+<td><p>Gaim</p></td>
+<td><p>鎧武</p></td>
+<td><p>鎧武</p></td>
 <td><p><strong>G</strong></p></td>
 <td></td>
 <td><p>可與「Drive」組成Best Match 組合。</p></td>
@@ -5645,9 +5493,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Wizard</p></td>
-<td><p>style="text-align:center”|ウィザード</p></td>
-<td><p>style="text-align:center”|Wizard</p></td>
+<td><p>Wizard</p></td>
+<td><p>ウィザード</p></td>
+<td><p>Wizard</p></td>
 <td><p><strong>W</strong></p></td>
 <td></td>
 <td><p>可與「Fourze」組成Best Match 組合。</p></td>
@@ -5655,9 +5503,9 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Fourze</p></td>
-<td><p>style="text-align:center”|フォーゼ</p></td>
-<td><p>style="text-align:center”|Fourze</p></td>
+<td><p>Fourze</p></td>
+<td><p>フォーゼ</p></td>
+<td><p>Fourze</p></td>
 <td><p><strong>F</strong></p></td>
 <td></td>
 <td><p>可與「Wizard」組成Best Match 組合。</p></td>
@@ -5694,9 +5542,9 @@ Form</strong><br />
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>style="text-align:center”|Bat</p></td>
-<td><p>style="text-align:center”|バット</p></td>
-<td><p>style="text-align:center”|蝙蝠</p></td>
+<td><p>Bat</p></td>
+<td><p>バット</p></td>
+<td><p>蝙蝠</p></td>
 <td><p><strong>B</strong></p></td>
 <td><p>生物</p></td>
 <td><p>東都</p></td>
@@ -5705,9 +5553,9 @@ Form</strong><br />
 </p></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Cobra</p></td>
-<td><p>style="text-align:center”|コブラ</p></td>
-<td><p>style="text-align:center”|眼鏡蛇</p></td>
+<td><p>Cobra</p></td>
+<td><p>コブラ</p></td>
+<td><p>眼鏡蛇</p></td>
 <td><p><strong>C</strong></p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/眼镜蛇" title="wikilink">眼镜蛇般的毒攻能力</a>。</p></td>
 <td><p>此滿裝瓶由Faust 的幹部血逐（石動惣一 / 艾博魯特）所持有，現由艾博魯特所持有，並已變化成失落滿裝瓶。</p></td>
@@ -5715,62 +5563,62 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Kuwagata</p></td>
-<td><p>style="text-align:center”|クワガタ</p></td>
-<td><p>style="text-align:center”|鍬形蟲</p></td>
+<td><p>Kuwagata</p></td>
+<td><p>クワガタ</p></td>
+<td><p>鍬形蟲</p></td>
 <td><p><strong>K</strong></p></td>
 <td><p>北都</p></td>
-<td><p>擁有<a href="../Page/鍬形蟲.md" title="wikilink">鍬形蟲般的速度</a>。</p></td>
+<td><p>擁有<a href="../Page/鍬形蟲.md" title="wikilink">鍬形蟲</a>般的速度。</p></td>
 <td><p>此滿裝瓶原為三羽鴉的青羽所持有，在三羽鴉皆消散後由猿渡一海持有。<br />
 第40話被艾博魯特奪走，並陸續地變化成失落滿裝瓶。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Fukurou</p></td>
-<td><p>style="text-align:center”|フクロウ</p></td>
-<td><p>style="text-align:center”|貓頭鷹</p></td>
+<td><p>Fukurou</p></td>
+<td><p>フクロウ</p></td>
+<td><p>貓頭鷹</p></td>
 <td><p><strong>F</strong></p></td>
-<td><p>擁有<a href="../Page/貓頭鷹.md" title="wikilink">貓頭鷹般的飛行和索敵能力</a>。</p></td>
+<td><p>擁有<a href="../Page/貓頭鷹.md" title="wikilink">貓頭鷹</a>般的飛行和索敵能力。</p></td>
 <td><p>此滿裝瓶原為三羽鴉的黃羽所持有，在三羽鴉皆消散後由猿渡一海持有。<br />
 第40話被艾博魯特奪走，並陸續地變化成失落滿裝瓶。</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Shimauma</p></td>
-<td><p>style="text-align:center”|シマウマ</p></td>
-<td><p>style="text-align:center”|斑馬</p></td>
+<td><p>Shimauma</p></td>
+<td><p>シマウマ</p></td>
+<td><p>斑馬</p></td>
 <td><p><strong>S</strong></p></td>
 <td><p>西都</p></td>
-<td><p>擁有<a href="../Page/斑馬.md" title="wikilink">斑馬般的条纹和隐蔽能力</a>。</p></td>
+<td><p>擁有<a href="../Page/斑馬.md" title="wikilink">斑馬</a>般的条纹和隐蔽能力。</p></td>
 <td><p>此滿裝瓶由艾博魯特所持有，並已變化成失落滿裝瓶。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Castle</p></td>
-<td><p>style="text-align:center”|キャッスル</p></td>
-<td><p>style="text-align:center”|城堡</p></td>
+<td><p>Castle</p></td>
+<td><p>キャッスル</p></td>
+<td><p>城堡</p></td>
 <td><p><strong>C</strong></p></td>
 <td><p>非生物</p></td>
 <td><p>北都</p></td>
-<td><p>擁有<a href="../Page/城堡.md" title="wikilink">城堡般的砲擊和防壁能力</a>。</p></td>
+<td><p>擁有<a href="../Page/城堡.md" title="wikilink">城堡</a>般的砲擊和防壁能力。</p></td>
 <td><p>此滿裝瓶原為三羽鴉的赤羽所持有，在三羽鴉皆消散後由猿渡一海持有。<br />
 第40話被艾博魯特奪走，並陸續地變化成失落滿裝瓶。</p></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Hasami</p></td>
-<td><p>style="text-align:center”|ハサミ</p></td>
-<td><p>style="text-align:center”|剪刀</p></td>
+<td><p>Hasami</p></td>
+<td><p>ハサミ</p></td>
+<td><p>剪刀</p></td>
 <td><p><strong>H</strong></p></td>
-<td><p>擁有<a href="../Page/剪刀.md" title="wikilink">剪刀般的剪斷能力</a>。</p></td>
+<td><p>擁有<a href="../Page/剪刀.md" title="wikilink">剪刀</a>般的剪斷能力。</p></td>
 <td><p>此滿裝瓶由艾博魯特所持有，並已變化成失落滿裝瓶。</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Hammer</p></td>
-<td><p>style="text-align:center”|ハンマー</p></td>
-<td><p>style="text-align:center”|鎚子</p></td>
+<td><p>Hammer</p></td>
+<td><p>ハンマー</p></td>
+<td><p>鎚子</p></td>
 <td><p>西都</p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/鎚子" title="wikilink">鎚子般的锤打能力</a>。</p></td>
 <td></td>
@@ -5778,22 +5626,22 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Spanner</p></td>
-<td><p>style="text-align:center”|スパナ</p></td>
-<td><p>style="text-align:center”|扳手</p></td>
+<td><p>Spanner</p></td>
+<td><p>スパナ</p></td>
+<td><p>扳手</p></td>
 <td><p><strong>S</strong></p></td>
 <td></td>
-<td><p>擁有<a href="../Page/扳手.md" title="wikilink">扳手般的夾擊能力</a>。</p></td>
+<td><p>擁有<a href="../Page/扳手.md" title="wikilink">扳手</a>般的夾擊能力。</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|CD</p></td>
-<td><p>style="text-align:center”|<ruby>CD<rp>(</rp><rt>シーディー</rt><rp>)</rp></ruby></p></td>
-<td><p>style="text-align:center”|光碟</p></td>
+<td><p>CD</p></td>
+<td><p><ruby>CD<rp>(</rp><rt>シーディー</rt><rp>)</rp></ruby></p></td>
+<td><p>光碟</p></td>
 <td><p><strong>C</strong></p></td>
 <td></td>
-<td><p>擁有<a href="../Page/光碟.md" title="wikilink">光碟般的音频存入的能力</a>。</p></td>
+<td><p>擁有<a href="../Page/光碟.md" title="wikilink">光碟</a>般的音频存入的能力。</p></td>
 <td><p>此滿裝瓶由艾博魯特所持有，並已變化成失落滿裝瓶。</p></td>
 <td></td>
 </tr>
@@ -5825,9 +5673,9 @@ Form</strong><br />
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>style="text-align:center”|Dragon</p></td>
-<td><p>style="text-align:center”|ドラゴン</p></td>
-<td><p>style="text-align:center”|龍</p></td>
+<td><p>Dragon</p></td>
+<td><p>ドラゴン</p></td>
+<td><p>龍</p></td>
 <td><p>生物</p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/龍" title="wikilink">龍般的氣息</a>。</p></td>
 <td><p>此濃縮膠涷由桐生戰兔使用「龍（Dragon）」滿裝瓶所開發而成，後由萬丈龍我所持有。<br />
@@ -5836,9 +5684,9 @@ Form</strong><br />
 之後此濃縮膠涷再被製作出，並由萬丈龍我交付給猿渡一海。</p></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Robot</p></td>
-<td><p>style="text-align:center”|ロボット</p></td>
-<td><p>style="text-align:center”|機器人</p></td>
+<td><p>Robot</p></td>
+<td><p>ロボット</p></td>
+<td><p>機器人</p></td>
 <td><p>非生物</p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/機器人" title="wikilink">機器人般的精準操作</a>。</p></td>
 <td><p>此濃縮膠涷由難波重工使用「機器人（Robot）」滿裝瓶所開發而成，後由猿渡一海所持有。</p></td>
@@ -5869,34 +5717,34 @@ Form</strong><br />
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>style="text-align:center”|Remocon</p></td>
-<td><p>style="text-align:center”|リモコン</p></td>
-<td><p>style="text-align:center”|遙控</p></td>
+<td><p>Remocon</p></td>
+<td><p>リモコン</p></td>
+<td><p>遙控</p></td>
 <td><p>非生物</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Remocon</p></td>
-<td><p>style="text-align:center”|リモコン</p></td>
-<td><p>style="text-align:center”|遙控</p></td>
+<td><p>Remocon</p></td>
+<td><p>リモコン</p></td>
+<td><p>遙控</p></td>
 <td><p>擁有遥控器般的随意操縱的能力。</p></td>
 <td><p>此齒輪由鷲尾兄弟的鷲尾風所持有。<br />
 直接使用可與「Crocodile Crack」組成Best Match 聯組。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Engine</p></td>
-<td><p>style="text-align:center”|エンジン</p></td>
-<td><p>style="text-align:center”|引擎</p></td>
+<td><p>Engine</p></td>
+<td><p>エンジン</p></td>
+<td><p>引擎</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Engine</p></td>
-<td><p>style="text-align:center”|エンジン</p></td>
-<td><p>style="text-align:center”|引擎</p></td>
+<td><p>Engine</p></td>
+<td><p>エンジン</p></td>
+<td><p>引擎</p></td>
 <td><p>擁有引擎的機動能力。</p></td>
 <td><p>此齒輪由鷲尾兄弟的鷲尾雷所持有。</p></td>
 <td></td>
@@ -5927,9 +5775,9 @@ Form</strong><br />
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>style="text-align:center”|Rider</p></td>
-<td><p>style="text-align:center”|ライダー</p></td>
-<td><p>style="text-align:center”|騎士</p></td>
+<td><p>Rider</p></td>
+<td><p>ライダー</p></td>
+<td><p>騎士</p></td>
 <td><p>非生物</p></td>
 <td><p>擁有騎士系統般的變身能力。</p></td>
 <td><p>此進化瓶的制造来历不明，且可與任何一個進化瓶組成「進化（Evolution）」組合。<br />
@@ -5948,22 +5796,22 @@ Form</strong><br />
 <td><p>style="text-align:center”|Tank</p></td>
 <td><p>style="text-align:center”|タンク</p></td>
 <td><p>style="text-align:center”|坦克</p></td>
-<td><p>擁有<a href="../Page/坦克.md" title="wikilink">坦克般强横的力量</a>。</p></td>
+<td><p>擁有<a href="../Page/坦克.md" title="wikilink">坦克</a>般强横的力量。</p></td>
 <td><p>可與「Rabbit」組成「Best Match」組合。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Cobra</p></td>
-<td><p>style="text-align:center”|コブラ</p></td>
-<td><p>style="text-align:center”|眼鏡蛇</p></td>
+<td><p>Cobra</p></td>
+<td><p>コブラ</p></td>
+<td><p>眼鏡蛇</p></td>
 <td><p>生物</p></td>
-<td><p>擁有<a href="../Page/眼鏡蛇.md" title="wikilink">眼鏡蛇般的毒攻能力</a>。</p></td>
+<td><p>擁有<a href="../Page/眼鏡蛇.md" title="wikilink">眼鏡蛇</a>般的毒攻能力。</p></td>
 <td><p>此進化瓶一開始就由Evolto所持有。</p></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Dragon</p></td>
-<td><p>style="text-align:center”|ドラゴン</p></td>
-<td><p>style="text-align:center”|龍</p></td>
+<td><p>Dragon</p></td>
+<td><p>ドラゴン</p></td>
+<td><p>龍</p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/龍" title="wikilink">龍般的氣息</a>。</p></td>
 <td><p>此進化瓶是由萬丈龍我體內所誕生出的。<br />
 最初由Evolto所持有，在落入萬丈龍我手中後進化成「極致龍（Great Dragon）」，之後由龍我所持有。<br />
@@ -5972,18 +5820,18 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Great Dragon</p></td>
-<td><p>style="text-align:center”|グレートドラゴン</p></td>
-<td><p>style="text-align:center”|極致龍</p></td>
+<td><p>Great Dragon</p></td>
+<td><p>グレートドラゴン</p></td>
+<td><p>極致龍</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Rabbit</p></td>
-<td><p>style="text-align:center”|ラビット</p></td>
-<td><p>style="text-align:center”|兔子</p></td>
-<td><p>擁有<a href="https://zh.wikipedia.org/wiki/兔子" title="wikilink">兔子般的跳跃能力</a>。</p></td>
+<td><p>Rabbit</p></td>
+<td><p>ラビット</p></td>
+<td><p>兔子</p></td>
+<td><p>style="text-align:center”|擁有<a href="https://zh.wikipedia.org/wiki/兔子" title="wikilink">兔子般的跳跃能力</a>。</p></td>
 <td><p>此進化瓶是由桐生戰兔體內所誕生出的，之後便由艾博魯特所持有。<br />
 可與「Tank」組成「Best Match」組合。</p></td>
 <td></td>
@@ -6015,76 +5863,76 @@ Form</strong><br />
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>style="text-align:center”|Bat</p></td>
-<td><p>style="text-align:center”|バット</p></td>
-<td><p>style="text-align:center”|蝙蝠</p></td>
+<td><p>Bat</p></td>
+<td><p>バット</p></td>
+<td><p>蝙蝠</p></td>
 <td><p>B</p></td>
 <td><p>生物</p></td>
-<td><p>擁有<a href="../Page/蝙蝠.md" title="wikilink">蝙蝠般的夜间空行能力</a>。</p></td>
+<td><p>擁有<a href="../Page/蝙蝠.md" title="wikilink">蝙蝠</a>般的夜间空行能力。</p></td>
 <td><p>此失落滿裝瓶由Faust 製「Bat」滿裝瓶變化而成的。<br />
 現目前由Evolto所持有。</p></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Kuwagata</p></td>
-<td><p>style="text-align:center”|クワガタ</p></td>
-<td><p>style="text-align:center”|鍬形蟲</p></td>
+<td><p>Kuwagata</p></td>
+<td><p>クワガタ</p></td>
+<td><p>鍬形蟲</p></td>
 <td><p>K</p></td>
-<td><p>擁有<a href="../Page/鍬形蟲.md" title="wikilink">鍬形蟲般的速度</a>。</p></td>
+<td><p>擁有<a href="../Page/鍬形蟲.md" title="wikilink">鍬形蟲</a>般的速度。</p></td>
 <td><p>此失落滿裝瓶由Faust 製「Kuwagata」滿裝瓶變化而成的。<br />
 現目前由Evolto所持有，之後由志水恭一所持有。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Fukurou</p></td>
-<td><p>style="text-align:center”|フクロウ</p></td>
-<td><p>style="text-align:center”|貓頭鷹</p></td>
+<td><p>Fukurou</p></td>
+<td><p>フクロウ</p></td>
+<td><p>貓頭鷹</p></td>
 <td><p>F</p></td>
-<td><p>擁有<a href="../Page/貓頭鷹.md" title="wikilink">貓頭鷹般的飛行及索敵能力</a>。</p></td>
+<td><p>擁有<a href="../Page/貓頭鷹.md" title="wikilink">貓頭鷹</a>般的飛行及索敵能力。</p></td>
 <td><p>此失落滿裝瓶由Faust 製「Fukurou」滿裝瓶變化而成的。<br />
 現目前由Evolto所持有，之後由多治見喜子所持有。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Cobra</p></td>
-<td><p>style="text-align:center”|コブラ</p></td>
-<td><p>style="text-align:center”|眼鏡蛇</p></td>
+<td><p>Cobra</p></td>
+<td><p>コブラ</p></td>
+<td><p>眼鏡蛇</p></td>
 <td><p>C</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Shimauma</p></td>
-<td><p>style="text-align:center”|シマウマ</p></td>
-<td><p>style="text-align:center”|斑馬</p></td>
+<td><p>Shimauma</p></td>
+<td><p>シマウマ</p></td>
+<td><p>斑馬</p></td>
 <td><p>S</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Hasami</p></td>
-<td><p>style="text-align:center”|ハサミ</p></td>
-<td><p>style="text-align:center”|剪刀</p></td>
+<td><p>Hasami</p></td>
+<td><p>ハサミ</p></td>
+<td><p>剪刀</p></td>
 <td><p>H</p></td>
 <td><p>非生物</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Castle</p></td>
-<td><p>style="text-align:center”|キャッスル</p></td>
-<td><p>style="text-align:center”|城堡</p></td>
+<td><p>Castle</p></td>
+<td><p>キャッスル</p></td>
+<td><p>城堡</p></td>
 <td><p>C</p></td>
-<td><p>擁有<a href="../Page/城堡.md" title="wikilink">城堡般的砲擊和防壁能力</a>。</p></td>
+<td><p>擁有<a href="../Page/城堡.md" title="wikilink">城堡</a>般的砲擊和防壁能力。</p></td>
 <td><p>此失落滿裝瓶由Faust 製「Castle」滿裝瓶變化而成的。<br />
 現目前由艾博魯特所持有，第45話一度被Build天才形態的攻擊淨化成Faust製滿裝瓶後被猿渡一海奪回，第48話被再次艾博魯特奪走，並再次變化成失落滿裝瓶。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|Hammer</p></td>
-<td><p>style="text-align:center”|ハンマー</p></td>
-<td><p>style="text-align:center”|鎚子</p></td>
+<td><p>Hammer</p></td>
+<td><p>ハンマー</p></td>
+<td><p>鎚子</p></td>
 <td><p>H</p></td>
 <td><p>style="text-align:center''|擁有<a href="https://zh.wikipedia.org/wiki/鎚子" title="wikilink">鎚子般的錘打能力</a>。</p></td>
 <td><p>此失落滿裝瓶由Faust 製「Hammer」滿裝瓶變化而成的。<br />
@@ -6092,21 +5940,21 @@ Form</strong><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|Spanner</p></td>
-<td><p>style="text-align:center”|スパナ</p></td>
-<td><p>style="text-align:center”|扳手</p></td>
+<td><p>Spanner</p></td>
+<td><p>スパナ</p></td>
+<td><p>扳手</p></td>
 <td><p>S</p></td>
-<td><p>擁有<a href="../Page/扳手.md" title="wikilink">扳手般的夹擊能力</a>。</p></td>
+<td><p>擁有<a href="../Page/扳手.md" title="wikilink">扳手</a>般的夹擊能力。</p></td>
 <td><p>此失落滿裝瓶由Faust 製「Spanner」滿裝瓶變化而成的。<br />
 現目前由艾博魯特所持有。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|CD</p></td>
-<td><p>style="text-align:center”|<ruby>CD<rp>(</rp><rt>シーディー</rt><rp>)</rp></ruby></p></td>
-<td><p>style="text-align:center”|光碟</p></td>
+<td><p>CD</p></td>
+<td><p><ruby>CD<rp>(</rp><rt>シーディー</rt><rp>)</rp></ruby></p></td>
+<td><p>光碟</p></td>
 <td><p>C</p></td>
-<td><p>擁有<a href="../Page/光碟.md" title="wikilink">光碟般的音频存入的能力</a>。</p></td>
+<td><p>擁有<a href="../Page/光碟.md" title="wikilink">光碟</a>般的音频存入的能力。</p></td>
 <td><p>此失落滿裝瓶由Faust 製「CD」滿裝瓶變化而成的。<br />
 現目前由艾博魯特所持有，之后由石動美空所持有。</p></td>
 <td></td>
@@ -6597,8 +6445,7 @@ Form</strong><br />
     身高：203.9cm
     體重：118.2kg
     特色 / 能力：利用黑洞进行星球间的空间扭曲移动、通过吸收与利用行星能量获得新的能力并进行強化。
-    艾博魯特齐全了十個失落滿裝瓶後再進入進化扳機所蕴含的「熱溢模式（Fever
-    Flow）」後所進化而成的最强形態，也是艾博魯特的最终阶段样貌。
+    艾博魯特齐全了十個失落滿裝瓶後再進入進化扳機所蕴含的「熱溢模式（Fever Flow）」後所進化而成的最强形態，也是艾博魯特的最终阶段样貌。
     除了整體素質有超大幅度的提升之外，可以將自身及周遭的人事物進行空間扭曲移動，但跟隨進行移動的人沒有足夠體力的話進行空间移動後會讓身體造成強大負擔。
     由于能够自由再现与发挥假面骑士Evol 黑洞形態特殊能力和各部位的机能，因此也能利用進化驱动器施展必杀技。
     必杀技：Black Hole Break
@@ -7171,12 +7018,13 @@ Form</strong><br />
 </tr>
 <tr class="odd">
 <td><p>2018/03/25</p></td>
-<td></td>
-<td><p>（<span class="math inline">1 + 2 + 4 + 7 + 14 = 28</span>[265]）<br />
+<td><p>2019/07/14[265]<br />
+2019/07/20[266]</p></td>
+<td><p>（<span class="math inline">1 + 2 + 4 + 7 + 14 = 28</span>[267]）<br />
 28</p></td>
 <td></td>
 <td><p>天才是在坦克出現時</p></td>
-<td></td>
+<td><p>天才在坦克出現時</p></td>
 <td><p>-</p></td>
 <td><p>3.3%</p></td>
 <td></td>
@@ -7196,12 +7044,15 @@ Form</strong><br />
 </tr>
 <tr class="odd">
 <td><p>2018/04/01</p></td>
-<td></td>
-<td><p>（<span class="math inline"><em>A</em>(3, 2) = <em>A</em>(2, <em>A</em>(2, <em>A</em>(2, 1))) = 29</span>[266]）<br />
+<td><p>2019/07/21[268]<br />
+2019/07/27[269]</p></td>
+<td><p>（<span class="math inline"><em>A</em>(3, 2) = <em>A</em>(2, <em>A</em>(2, <em>A</em>(2, 1))) = 29</span>[270]）<br />
 29</p></td>
 <td></td>
 <td><p>開幕的鐘聲已響起</p></td>
-<td></td>
+<td><p>開幕的鐘聲響起</p>
+<hr/>
+<p>打開的戒指</p></td>
 <td><ul>
 <li>Remocon Bros
 <ul>
@@ -7217,11 +7068,11 @@ Form</strong><br />
 <tr class="even">
 <td><p>2018/04/08</p></td>
 <td></td>
-<td><p>（<span class="math inline">arg<sub><em>n</em></sub>max [{<em>t</em><em>o</em><em>t</em><em>a</em><em>t</em><em>i</em><em>v</em><em>e</em> of n} ⊂ {<em>p</em><em>r</em><em>i</em><em>m</em><em>e</em>}] = 30</span>[267]）<br />
+<td><p>（<span class="math inline">arg<sub><em>n</em></sub>max [{<em>t</em><em>o</em><em>t</em><em>a</em><em>t</em><em>i</em><em>v</em><em>e</em> of n} ⊂ {<em>p</em><em>r</em><em>i</em><em>m</em><em>e</em>}] = 30</span>[271]）<br />
 30</p></td>
 <td></td>
 <td><p>潘朵拉之盒的真實</p></td>
-<td></td>
+<td><p>-{潘朵拉盒子的真相}-</p></td>
 <td><ul>
 <li>血逐</li>
 <li>Remocon Bros</li>
@@ -7234,7 +7085,7 @@ Form</strong><br />
 <tr class="odd">
 <td><p>2018/04/15</p></td>
 <td></td>
-<td><p>（<span class="math inline"><em>M</em><sub>5</sub> = 2<sup>5</sup> − 1 = 31</span>[268]）<br />
+<td><p>（<span class="math inline"><em>M</em><sub>5</sub> = 2<sup>5</sup> − 1 = 31</span>[272]）<br />
 31</p></td>
 <td></td>
 <td><p>狂暴的熔岩！</p></td>
@@ -7256,7 +7107,7 @@ Form</strong><br />
 <tr class="even">
 <td><p>2018/04/22</p></td>
 <td></td>
-<td><p>（<span class="math inline">#{<em>c</em><em>r</em><em>y</em><em>s</em><em>t</em><em>a</em><em>l</em> <em>c</em><em>l</em><em>a</em><em>s</em><em>s</em>} = 32</span>[269]）<br />
+<td><p>（<span class="math inline">#{<em>c</em><em>r</em><em>y</em><em>s</em><em>t</em><em>a</em><em>l</em> <em>c</em><em>l</em><em>a</em><em>s</em><em>s</em>} = 32</span>[273]）<br />
 32</p></td>
 <td></td>
 <td><p>被安排好的悲劇</p></td>
@@ -7276,7 +7127,7 @@ Form</strong><br />
 <tr class="odd">
 <td><p>2018/04/29</p></td>
 <td></td>
-<td><p>（<span class="math inline">$\sqrt{{2\sqrt{2}\pi \over 9}\sum_{n=0}^\infty{(4n!)(1103+26390n) \over ({4^n}{99^n}n!)^4}}=33$</span>[270]）<br />
+<td><p>（<span class="math inline">$\sqrt{{2\sqrt{2}\pi \over 9}\sum_{n=0}^\infty{(4n!)(1103+26390n) \over ({4^n}{99^n}n!)^4}}=33$</span>[274]）<br />
 33</p></td>
 <td></td>
 <td><p>最終兵器Evol</p></td>
@@ -7292,7 +7143,7 @@ Form</strong><br />
 <tr class="even">
 <td><p>2018/05/06</p></td>
 <td></td>
-<td><p>（<span class="math inline">⌈log<sub>10</sub>log<sub>10</sub>log<sub>10</sub><em>S</em><em>k</em><sub>1</sub>⌉ = 34</span>[271]）<br />
+<td><p>（<span class="math inline">⌈log<sub>10</sub>log<sub>10</sub>log<sub>10</sub><em>S</em><em>k</em><sub>1</sub>⌉ = 34</span>[275]）<br />
 34</p></td>
 <td></td>
 <td><p>分離四散的最佳配對</p></td>
@@ -7305,7 +7156,7 @@ Form</strong><br />
 <tr class="odd">
 <td><p>2018/05/13</p></td>
 <td></td>
-<td><p>（<span class="math inline">#{<em>n</em><em>o</em><em>n</em><em>t</em><em>r</em><em>i</em><em>v</em><em>i</em><em>a</em><em>l</em> <em>k</em><em>n</em><em>o</em><em>t</em> | <em>c</em>(<em>L</em>)  ≤ 8} = 35</span>[272]）<br />
+<td><p>（<span class="math inline">#{<em>n</em><em>o</em><em>n</em><em>t</em><em>r</em><em>i</em><em>v</em><em>i</em><em>a</em><em>l</em> <em>k</em><em>n</em><em>o</em><em>t</em> | <em>c</em>(<em>L</em>)  ≤ 8} = 35</span>[276]）<br />
 35</p></td>
 <td></td>
 <td><p>破滅之塔</p></td>
@@ -7318,7 +7169,7 @@ Form</strong><br />
 <tr class="even">
 <td><p>2018/05/20</p></td>
 <td></td>
-<td><p>（<span class="math inline">(1 + 2 + 3)<sup>2</sup> = 1<sup>3</sup> + 2<sup>3</sup> + 3<sup>3</sup> = 36</span>[273]）<br />
+<td><p>（<span class="math inline">(1 + 2 + 3)<sup>2</sup> = 1<sup>3</sup> + 2<sup>3</sup> + 3<sup>3</sup> = 36</span>[277]）<br />
 36</p></td>
 <td></td>
 <td><p>Evolto狩獵星球</p></td>
@@ -7334,7 +7185,7 @@ Form</strong><br />
 <tr class="odd">
 <td><p>2018/05/27</p></td>
 <td></td>
-<td><p>（<span class="math inline">$\underset{\rho :prime}{\arg\min}[\rho \not\in \{regular\}]=37$</span>[274]）<br />
+<td><p>（<span class="math inline">$\underset{\rho :prime}{\arg\min}[\rho \not\in \{regular\}]=37$</span>[278]）<br />
 37</p></td>
 <td></td>
 <td><p>究極的階段</p></td>
@@ -7353,7 +7204,7 @@ Form</strong><br />
 <tr class="even">
 <td><p>2018/06/03</p></td>
 <td></td>
-<td><p>（<span class="math inline"><em>M</em><sub><em>M</em><em>a</em><em>g</em><em>i</em><em>c</em><em>H</em><em>e</em><em>x</em><em>g</em><em>o</em><em>n</em></sub> = 38</span>[275]）<br />
+<td><p>（<span class="math inline"><em>M</em><sub><em>M</em><em>a</em><em>g</em><em>i</em><em>c</em><em>H</em><em>e</em><em>x</em><em>g</em><em>o</em><em>n</em></sub> = 38</span>[279]）<br />
 38</p></td>
 <td></td>
 <td><p>瘋狂的世界</p></td>
@@ -7372,7 +7223,7 @@ Form</strong><br />
 <tr class="odd">
 <td><p>2018/06/10</p></td>
 <td></td>
-<td><p>（<span class="math inline">$4\pi^2-\sum_{n=1}^\infty{16 \over n^2(n+1)^2(n+2)^2}=39$</span>[276]）<br />
+<td><p>（<span class="math inline">$4\pi^2-\sum_{n=1}^\infty{16 \over n^2(n+1)^2(n+2)^2}=39$</span>[280]）<br />
 39</p></td>
 <td></td>
 <td><p>無法阻止的天才</p></td>
@@ -7397,7 +7248,7 @@ Form</strong><br />
 <tr class="odd">
 <td><p>2018/06/17</p></td>
 <td></td>
-<td><p>（<span class="math inline">$\underset{y}{\arg\min}[x^2-77y^2=1]=40$</span>[277]）<br />
+<td><p>（<span class="math inline">$\underset{y}{\arg\min}[x^2-77y^2=1]=40$</span>[281]）<br />
 40</p></td>
 <td></td>
 <td><p>終末的變革</p></td>
@@ -7414,7 +7265,7 @@ Form</strong><br />
 <tr class="even">
 <td><p>2018/06/24</p></td>
 <td></td>
-<td><p>（<span class="math inline">$\underset{q}{\arg\max}[\forall_n\leq q-2,q^2+q+n=\rho]=41$</span>[278]）<br />
+<td><p>（<span class="math inline">$\underset{q}{\arg\max}[\forall_n\leq q-2,q^2+q+n=\rho]=41$</span>[282]）<br />
 41</p></td>
 <td></td>
 <td><p>最佳配對的真相</p></td>
@@ -7431,7 +7282,7 @@ Form</strong><br />
 <tr class="odd">
 <td><p>2018/07/01</p></td>
 <td></td>
-<td><p>（<span class="math inline"><em>p</em>(10) = 42</span>[279]）<br />
+<td><p>（<span class="math inline"><em>p</em>(10) = 42</span>[283]）<br />
 42</p></td>
 <td></td>
 <td><p>疑惑的遺產</p></td>
@@ -7448,7 +7299,7 @@ Form</strong><br />
 <tr class="even">
 <td><p>2018/07/08</p></td>
 <td></td>
-<td><p>（<span class="math inline">$({1 \over \pi} ln 884736744)^2 \simeq 43$</span>[280]）<br />
+<td><p>（<span class="math inline">$({1 \over \pi} ln 884736744)^2 \simeq 43$</span>[284]）<br />
 43</p></td>
 <td></td>
 <td><p>另外一人的Build</p></td>
@@ -7464,7 +7315,7 @@ Form</strong><br />
 <tr class="odd">
 <td><p>2018/07/15</p></td>
 <td></td>
-<td><p>（<span class="math inline">$!5=5!\sum_{k=0}^5{(-1)^k \over k!}=44$</span>[281]）<br />
+<td><p>（<span class="math inline">$!5=5!\sum_{k=0}^5{(-1)^k \over k!}=44$</span>[285]）<br />
 44</p></td>
 <td></td>
 <td><p>Evolto的末路</p></td>
@@ -7477,7 +7328,7 @@ Form</strong><br />
 <tr class="even">
 <td><p>2018/07/22</p></td>
 <td></td>
-<td><p>（<span class="math inline">3<sup>2/<em>γ</em></sup> ≃ 45</span>[282]）<br />
+<td><p>（<span class="math inline">3<sup>2/<em>γ</em></sup> ≃ 45</span>[286]）<br />
 45</p></td>
 <td></td>
 <td><p>希望的科學家</p></td>
@@ -7505,7 +7356,7 @@ Form</strong><br />
 <tr class="even">
 <td><p>2018/07/29</p></td>
 <td></td>
-<td><p>（<span class="math inline">$\sqrt[3]{3^3+36^3+37^3} =46$</span>[283]）<br />
+<td><p>（<span class="math inline">$\sqrt[3]{3^3+36^3+37^3} =46$</span>[287]）<br />
 46</p></td>
 <td></td>
 <td><p>誓言的Be The One</p></td>
@@ -7522,9 +7373,9 @@ Form</strong><br />
 <td><p>上堀內佳壽也</p></td>
 </tr>
 <tr class="odd">
-<td><p>2018/08/12[284]</p></td>
+<td><p>2018/08/12[288]</p></td>
 <td></td>
-<td><p>（<span class="math inline">$arctan({1 \over 73})+arctan({1 \over 132})=arctan({1 \over x})$</span>，<span class="math inline"><em>x</em> = 47</span>[285]）<br />
+<td><p>（<span class="math inline">$arctan({1 \over 73})+arctan({1 \over 132})=arctan({1 \over x})$</span>，<span class="math inline"><em>x</em> = 47</span>[289]）<br />
 47</p></td>
 <td></td>
 <td><p>零度之炎</p></td>
@@ -7546,7 +7397,7 @@ Form</strong><br />
 <tr class="even">
 <td><p>2018/08/19</p></td>
 <td></td>
-<td><p>（<span class="math inline">$\underset{N}{\arg\min}[\forall_n\geq N,\exists p \in(n,{9n \over 8})]=48$</span>[286]）<br />
+<td><p>（<span class="math inline">$\underset{N}{\arg\min}[\forall_n\geq N,\exists p \in(n,{9n \over 8})]=48$</span>[290]）<br />
 48</p></td>
 <td></td>
 <td><p>走向愛與和平的世界</p></td>
@@ -7564,7 +7415,7 @@ Form</strong><br />
 <tr class="odd">
 <td><p>2018/08/26</p></td>
 <td></td>
-<td><p>（<span class="math inline">6667<sup>2</sup> = 44448889</span>，<span class="math inline">7<sup>2</sup> = 49</span>[287]）<br />
+<td><p>（<span class="math inline">6667<sup>2</sup> = 44448889</span>，<span class="math inline">7<sup>2</sup> = 49</span>[291]）<br />
 49</p></td>
 <td></td>
 <td><p>Build就是創造明日</p></td>
@@ -7593,14 +7444,10 @@ Form</strong><br />
 
 ### 劇場版
 
-  - 《[劇場版 假面騎士EX-AID
-    True·Ending](../Page/劇場版_假面騎士EX-AID_True·Ending.md "wikilink")》（2017年8月5日上映）
-  - 《[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》（2017年12月9日上映）
-  - 《[劇場版 假面騎士Build Be The
-    One](../Page/劇場版_假面騎士Build_Be_The_One.md "wikilink")》（2018年8月4日上映）
-  - 《[假面騎士平成Generations
-    Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》（2018年12月22日上映）
+  - 《[劇場版 假面騎士EX-AID True·Ending](../Page/劇場版_假面騎士EX-AID_True·Ending.md "wikilink")》（2017年8月5日上映）
+  - 《[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》（2017年12月9日上映）
+  - 《[劇場版 假面騎士Build Be The One](../Page/劇場版_假面騎士Build_Be_The_One.md "wikilink")》（2018年8月4日上映）
+  - 《[假面騎士平成Generations Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》（2018年12月22日上映）
 
 ### 電視劇集
 
@@ -7628,7 +7475,7 @@ Form</strong><br />
 
   -
     （原題：）
-    月刊雜誌**《てれびくん》**2018年2月號付錄的特別篇[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")\[288\]。
+    月刊雜誌**《てれびくん》**2018年2月號付錄的特別篇[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")\[292\]。
 
 <!-- end list -->
 
@@ -7655,9 +7502,7 @@ Form</strong><br />
 <!-- end list -->
 
   -
-    2017年11月26日所播出的企劃「假面騎士藝人」第三彈，飾演主角桐生戰兔 / 假面騎士Build
-    的演員犬飼貴丈亦於該節目中登場。另外於該節目中播放由假面騎士Build、假面騎士Amazon
-    和來賓藝人田中卓志所共演的短篇影像\[289\]。
+    2017年11月26日所播出的企劃「假面騎士藝人」第三彈，飾演主角桐生戰兔 / 假面騎士Build 的演員犬飼貴丈亦於該節目中登場。另外於該節目中播放由假面騎士Build、假面騎士Amazon 和來賓藝人田中卓志所共演的短篇影像\[293\]。
 
 ### 映像商品
 
@@ -7689,8 +7534,7 @@ Form</strong><br />
 | 第二章 | DARK NIGHT FALL   | 闇夜墜落      |
 | 最終章 | KAMEN RIDER ROGUE | 假面騎士ROGUE |
 
-  - **《[Build NEW WORLD
-    假面騎士Cross-Z](https://zh.wikipedia.org/wiki/Build_NEW_WORLD#假面騎士Cross-Z "wikilink")》**
+  - **《[Build NEW WORLD 假面騎士Cross-Z](https://zh.wikipedia.org/wiki/Build_NEW_WORLD#假面騎士Cross-Z "wikilink")》**
 
 <!-- end list -->
 
@@ -7700,8 +7544,7 @@ Form</strong><br />
 
 <!-- end list -->
 
-  - **《[Build NEW WORLD
-    假面騎士Grease](https://zh.wikipedia.org/wiki/Build_NEW_WORLD#假面騎士Grease "wikilink")》**
+  - **《[Build NEW WORLD 假面騎士Grease](https://zh.wikipedia.org/wiki/Build_NEW_WORLD#假面騎士Grease "wikilink")》**
 
 <!-- end list -->
 
@@ -7712,13 +7555,13 @@ Form</strong><br />
 
 ### 主題曲
 
-  - \* 「Be The One」\[290\]
+  - \* 「Be The One」\[294\]
     演唱：PANDORA feat.Beverly
-    作詞、作曲、編曲：[小室哲哉](../Page/小室哲哉.md "wikilink")、[淺倉大介](https://zh.wikipedia.org/wiki/淺倉大介 "wikilink")\[291\]
+    作詞、作曲、編曲：[小室哲哉](../Page/小室哲哉.md "wikilink")、[淺倉大介](https://zh.wikipedia.org/wiki/淺倉大介 "wikilink")\[295\]
 
 ### 插曲
 
-  - \* 「Ready Go\!\!」\[292\]
+  - \* 「Ready Go\!\!」\[296\]
     第27、28話的插曲。
     演唱：ats-、清水武仁&渡邊徹 Feat. AXL21
     作詞：Mio Aoyama
@@ -7775,8 +7618,7 @@ Form</strong><br />
   - 怪人設計 -
   - 特攝導演 -
   - 動作指導 - （[JAE](https://zh.wikipedia.org/wiki/JAE "wikilink")）
-  - 製作單位 -
-    [東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[旭通DK](../Page/旭通DK.md "wikilink")
+  - 製作單位 - [東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[旭通DK](../Page/旭通DK.md "wikilink")
 
 ## 《[超級英雄時間](../Page/超級英雄時間.md "wikilink")》相關條目
 
@@ -7787,7 +7629,7 @@ Form</strong><br />
 
 | 播放地區                  | 播放電視台                                  | 播放日期            | 播放時間（日本時間）    | 電視網                                    |
 | --------------------- | -------------------------------------- | --------------- | ------------- | -------------------------------------- |
-| 日本國內                  | [朝日電視台系列](../Page/朝日電視台.md "wikilink") | 2017年9月3日－9月24日 | 星期日 8:00－8:30 | [全日本新聞網](../Page/全日本新聞網.md "wikilink") |
+| 日本國內                  | [朝日電視台](../Page/朝日電視台.md "wikilink")系列 | 2017年9月3日－9月24日 | 星期日 8:00－8:30 | [全日本新聞網](../Page/全日本新聞網.md "wikilink") |
 | 2017年10月1日－2018年8月26日 | 星期日 9:00－9:30                          |                 |               |                                        |
 
 <table>
@@ -7838,10 +7680,7 @@ Form</strong><br />
   - [《假面騎士Build》東映官網](http://www.toei.co.jp/tv/build/index.html)
 
   -
-[Category:平成假面騎士系列](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列 "wikilink")
-[Category:2017年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2017年開播的日本電視劇集 "wikilink")
-[Category:平行世界背景作品](https://zh.wikipedia.org/wiki/Category:平行世界背景作品 "wikilink")
-[Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
+[Category:平成假面騎士系列](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列 "wikilink") [Category:2017年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2017年開播的日本電視劇集 "wikilink") [Category:平行世界背景作品](https://zh.wikipedia.org/wiki/Category:平行世界背景作品 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
 
 1.  10月1日改為9:00-9:30
 
@@ -7853,8 +7692,7 @@ Form</strong><br />
 
 5.  因其編劇風格為人物間大量快速的對話，因此本作是以不同於以往系列作的角度來選擇劇中角色。
 
-6.  部份系列作並非以假面騎士稱呼劇中登場的騎士角色，而是有對應的獨特稱呼（例如《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》中將騎士角色稱為「魔法使」及《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》中將騎士角色稱為「Armored
-    Rider」）。
+6.  部份系列作並非以假面騎士稱呼劇中登場的騎士角色，而是有對應的獨特稱呼（例如《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》中將騎士角色稱為「魔法使」及《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》中將騎士角色稱為「Armored Rider」）。
 
 7.  首次出現的相似設定為《[假面騎士Kabuto](https://zh.wikipedia.org/wiki/假面騎士Kabuto "wikilink")》
 
@@ -7878,9 +7716,7 @@ Form</strong><br />
 
 17. 過往作品官方主題曲電視版宣傳片通常電視版播出後流出
 
-18. 《[假面騎士空我](../Page/假面騎士空我.md "wikilink")》、《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》、《[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")》中雖然首次變身並非基本型態，但只是原始型態，戰鬥力較基本型態不足一半，不算是非基本型態。《[假面騎士Kabuto](https://zh.wikipedia.org/wiki/假面騎士Kabuto "wikilink")》、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》因為設定上基本型態有兩種，亦不被包括。若在Build
-    之前最早由人類直接變身成具有戰鬥力的非基本型態戰鬥，應是《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》，天空寺尊於第四話直接變身成假面騎士Ghost
-    羅賓魂形態與書眼魔戰鬥。
+18. 《[假面騎士空我](../Page/假面騎士空我.md "wikilink")》、《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》、《[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")》中雖然首次變身並非基本型態，但只是原始型態，戰鬥力較基本型態不足一半，不算是非基本型態。《[假面騎士Kabuto](https://zh.wikipedia.org/wiki/假面騎士Kabuto "wikilink")》、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》因為設定上基本型態有兩種，亦不被包括。若在Build 之前最早由人類直接變身成具有戰鬥力的非基本型態戰鬥，應是《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》，天空寺尊於第四話直接變身成假面騎士Ghost 羅賓魂形態與書眼魔戰鬥。
 
 19. 當話若有新的最佳配對型態則以其為主
 
@@ -7892,31 +7728,21 @@ Form</strong><br />
 
 23. 例如第5話。
 
-24. 在最終回結尾得知大部分上話概要敘述,其實是由身處沒有天空牆世界的桐生戰兔把曾於天空牆世界種種經歷,分成49話並化成數據記載下來,並由其角色們以對口相聲形式錄音。可是最終回除戰兔和龍我外,所有角色喪失天空牆世界的記憶,而且艾博魯特更被消滅,理應上是做不到此敘述。直至外傳V-cinema《[Build
-    NEW WORLD
-    假面騎士Cross-Z](https://zh.wikipedia.org/wiki/Build_NEW_WORLD_假面騎士Cross-Z "wikilink")》提及潘多拉魔盒被奇魯巴斯重啟而於新世界再度出現,其所散發的光芒喚醒所有相關人物恢復天空牆世界的記憶,而艾博魯特的聲音更由來自新世界的真人聲優--金尾哲夫扮演。
+24. 在最終回結尾得知大部分上話概要敘述,其實是由身處沒有天空牆世界的桐生戰兔把曾於天空牆世界種種經歷,分成49話並化成數據記載下來,並由其角色們以對口相聲形式錄音。可是最終回除戰兔和龍我外,所有角色喪失天空牆世界的記憶,而且艾博魯特更被消滅,理應上是做不到此敘述。直至外傳V-cinema《[Build NEW WORLD 假面騎士Cross-Z](https://zh.wikipedia.org/wiki/Build_NEW_WORLD_假面騎士Cross-Z "wikilink")》提及潘多拉魔盒被奇魯巴斯重啟而於新世界再度出現,其所散發的光芒喚醒所有相關人物恢復天空牆世界的記憶,而艾博魯特的聲音更由來自新世界的真人聲優--金尾哲夫扮演。
 
 25.
 
 26. 後得知多達75個以上（不包含因特殊原因而未發行的）。
 
-27. 只計TV版所出現的滿裝瓶,可組合成30種Best Match 形態 + 870種Trial形態 + 1種強化形態(Rabbit Tank
-    Sparkling) + 30種危險 Best Match形態 + 2種進化形態(Rabbit Rabbit Form + Tank
-    Tank Form) + 最終形態 (Genius Form),假面騎士Build共有934種形態。
+27. 只計TV版所出現的滿裝瓶,可組合成30種Best Match 形態 + 870種Trial形態 + 1種強化形態(Rabbit Tank Sparkling) + 30種危險 Best Match形態 + 2種進化形態(Rabbit Rabbit Form + Tank Tank Form) + 最終形態 (Genius Form),假面騎士Build共有934種形態。
 
-28. 但與龍騎不同的是,前者神崎士郎使用了Time
-    Vent令時間倒轉，倒轉還未「騎士與騎士之間的戰鬥」的之前，與秋山蓮在花雞相見但已經不記得雙方的名字;Build則是新世界除主角桐生戰兔和萬丈龍我仍記得天空牆世界的事跡外,所有原有角色已失憶。
+28. 但與龍騎不同的是,前者神崎士郎使用了Time Vent令時間倒轉，倒轉還未「騎士與騎士之間的戰鬥」的之前，與秋山蓮在花雞相見但已經不記得雙方的名字;Build則是新世界除主角桐生戰兔和萬丈龍我仍記得天空牆世界的事跡外,所有原有角色已失憶。
 
-29. 如《[假面騎士555](../Page/假面騎士555.md "wikilink")》變身者必須是怪人操冥使徒（Orphnoch）或相關體質、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》變身者必須體内擁有魅影（Phantom）、《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》變身者必須本體是靈魂或眼魂、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》體内必須注入小量Burgster
-    病毒以產生抗體，或變身者體内本身有Burgster 病毒。而本作則變身者則必須接受注入星雲氣體的人體實驗，並且達到一定程度的危險等級。
+29. 如《[假面騎士555](../Page/假面騎士555.md "wikilink")》變身者必須是怪人操冥使徒（Orphnoch）或相關體質、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》變身者必須體内擁有魅影（Phantom）、《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》變身者必須本體是靈魂或眼魂、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》體内必須注入小量Burgster 病毒以產生抗體，或變身者體内本身有Burgster 病毒。而本作則變身者則必須接受注入星雲氣體的人體實驗，並且達到一定程度的危險等級。
 
-30. 如《假面騎士555》主角騎士Faiz共有6位變身者,包括乾巧、赤井、海堂直也、琢磨逸郎、草加雅人、木場勇治,而本作主角騎士Build有4位變身者,包括葛城巧、桐生戰兔(葛城巧)、葛城忍、奇魯巴斯(外傳V-cinema《[Build
-    NEW WORLD
-    假面騎士Cross-Z](https://zh.wikipedia.org/wiki/Build_NEW_WORLD_假面騎士Cross-Z "wikilink")》)。
+30. 如《假面騎士555》主角騎士Faiz共有6位變身者,包括乾巧、赤井、海堂直也、琢磨逸郎、草加雅人、木場勇治,而本作主角騎士Build有4位變身者,包括葛城巧、桐生戰兔(葛城巧)、葛城忍、奇魯巴斯(外傳V-cinema《[Build NEW WORLD 假面騎士Cross-Z](https://zh.wikipedia.org/wiki/Build_NEW_WORLD_假面騎士Cross-Z "wikilink")》)。
 
-31. 巧合的是，第二男主角加賀美新早已有變身腰帶，並曾於第一、二話嘗試變身假面騎士Kabuto，但未得到Kabuto
-    Zecter認證而失敗，後來先後成功變身假面騎士TheBee第二代和假面騎士Gatack；Build的萬丈龍我於第二話得到「龍」滿裝瓶，第6話曾嘗試變身假面騎士Build，但因自己身體的危險程度未達到而變身失敗，後來第11話成功變身假面騎士Cross-Z和第17話變身假面騎士Cross-Z
-    Charge。
+31. 巧合的是，第二男主角加賀美新早已有變身腰帶，並曾於第一、二話嘗試變身假面騎士Kabuto，但未得到Kabuto Zecter認證而失敗，後來先後成功變身假面騎士TheBee第二代和假面騎士Gatack；Build的萬丈龍我於第二話得到「龍」滿裝瓶，第6話曾嘗試變身假面騎士Build，但因自己身體的危險程度未達到而變身失敗，後來第11話成功變身假面騎士Cross-Z和第17話變身假面騎士Cross-Z Charge。
 
 32. 前八名新平成騎士在設定上被視為同一世界觀
 
@@ -7924,22 +7750,17 @@ Form</strong><br />
 
 34. 如菲利普的真名為園咲來人。
 
-35. 不同的是Fourze
-    是以[月球作爲故事的開端](../Page/月球.md "wikilink")，而本作則爲[火星](../Page/火星.md "wikilink")。
+35. 不同的是Fourze 是以[月球](../Page/月球.md "wikilink")作爲故事的開端，而本作則爲[火星](../Page/火星.md "wikilink")。
 
-36. 鎧武的驅紋戒斗先後使用戰極驅動器和創世紀驅動器變身假面騎士Baron和假面騎士Baron
-    次世代型,但創世紀驅動器於第43話被戰極凌馬以啟動其驅動器中的自毀裝置破壞,令戒斗被迫用回戰極驅動器與戰極凌馬(假面騎士Duke)對戰;Build的萬丈龍我先後使用創造驅動器和擠壓驅動器變身假面騎士Cross-Z和假面騎士Cross-Z
-    Charge,但用於擠壓驅動器的「Dragon」濃縮膠凍於第30話被石動惣一(艾博魯特)攻擊而燒毀,令龍我被迫用回創造驅動器用於之後對戰。
+36. 鎧武的驅紋戒斗先後使用戰極驅動器和創世紀驅動器變身假面騎士Baron和假面騎士Baron 次世代型,但創世紀驅動器於第43話被戰極凌馬以啟動其驅動器中的自毀裝置破壞,令戒斗被迫用回戰極驅動器與戰極凌馬(假面騎士Duke)對戰;Build的萬丈龍我先後使用創造驅動器和擠壓驅動器變身假面騎士Cross-Z和假面騎士Cross-Z Charge,但用於擠壓驅動器的「Dragon」濃縮膠凍於第30話被石動惣一(艾博魯特)攻擊而燒毀,令龍我被迫用回創造驅動器用於之後對戰。
 
 37. 但後來特狀課在迫不得已的情況下將進之介是假面騎士Drive 的身份公開。
 
-38. 只限劇場版《[假面騎士×假面騎士 Drive & 鎧武 MOVIE大戰Full
-    Throttle](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Drive_&_鎧武_MOVIE大戰Full_Throttle "wikilink")》,兩者均以Megahex從葛葉紘汰的記憶數據之中創造出來，以機械複製人的姿態再度「復活」》
+38. 只限劇場版《[假面騎士×假面騎士 Drive & 鎧武 MOVIE大戰Full Throttle](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Drive_&_鎧武_MOVIE大戰Full_Throttle "wikilink")》,兩者均以Megahex從葛葉紘汰的記憶數據之中創造出來，以機械複製人的姿態再度「復活」》
 
 39. 假面騎士Mad Rogue變身者內海成彰於第47話被艾博魯特擊敗後才發現自己已被改造成機械複製人。
 
-40. 巧合的是兩者某原因失去變身力量,其後恢復。寶生永夢於《EX-AID》第39話擊敗帕拉德,失去變身假面騎士EX-AID力量,但同話因在被永夢擊敗前一刻被其吸收,帕拉德依然生存,第40話恢復變身力量;龍我於《Build》第36話被艾博魯特脫離附身,但其體內的艾博魯特的基因被抽走,失去變身假面騎士Cross-Z變身力量,第37話藉「龍（Dragon）」進化瓶進化成紅金色的「極致龍（Great
-    Dragon）」恢復變身力量
+40. 巧合的是兩者某原因失去變身力量,其後恢復。寶生永夢於《EX-AID》第39話擊敗帕拉德,失去變身假面騎士EX-AID力量,但同話因在被永夢擊敗前一刻被其吸收,帕拉德依然生存,第40話恢復變身力量;龍我於《Build》第36話被艾博魯特脫離附身,但其體內的艾博魯特的基因被抽走,失去變身假面騎士Cross-Z變身力量,第37話藉「龍（Dragon）」進化瓶進化成紅金色的「極致龍（Great Dragon）」恢復變身力量
 
 41. 《W》的菲理普12年前因為意外掉進了一個坑洞而死亡，但也因此他在坑洞裡得到了地球書架的力量，所以維持了他的生命。
 
@@ -7977,8 +7798,7 @@ Form</strong><br />
 
 58. 《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》沒有官方認定TV版最終型態,但按**TV版最終聯組**是恐龍聯組;《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》第48話中的戰鬥只是泊進之介的回憶,不計算在內。
 
-59. 在《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》第47集中，曾出現財團X資助O-Medal研究的畫面;本作桐生戰兔最終戰後獲得CROSS-Z
-    騎士手錶
+59. 在《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》第47集中，曾出現財團X資助O-Medal研究的畫面;本作桐生戰兔最終戰後獲得CROSS-Z 騎士手錶
 
 60. [東都都徽](https://pre00.deviantart.net/52ad/th/pre/f/2017/248/4/4/touto_by_markolios-dbmhfw0.png)
 
@@ -8052,26 +7872,21 @@ Form</strong><br />
 
 95. 舉個例子，「Bat」和「Koumori」是屬於同一個生物類型滿裝瓶，但外型卻不一样
 
-96. 例如「微量兔子（Low Rabbit）」、「鱷魚裂痕（Crocodile Crack）」、「龍熔岩（Dragon
-    Magma）」、「金兔（Gold Rabbir）」、「銀龍（Silver
-    Dragon）」和「北极暴风雪（North Blizzard）」
+96. 例如「微量兔子（Low Rabbit）」、「鱷魚裂痕（Crocodile Crack）」、「龍熔岩（Dragon Magma）」、「金兔（Gold Rabbir）」、「銀龍（Silver Dragon）」和「北极暴风雪（North Blizzard）」
 
 97. 官方暫定共有324種。
 
-98. 于《[Build NEW WORLD
-    假面騎士Cross-Z](https://zh.wikipedia.org/wiki/Build_NEW_WORLD_假面騎士Cross-Z "wikilink")》中得知是属于血族战士的力量泉源
+98. 于《[Build NEW WORLD 假面騎士Cross-Z](https://zh.wikipedia.org/wiki/Build_NEW_WORLD_假面騎士Cross-Z "wikilink")》中得知是属于血族战士的力量泉源
 
 99. 分別對應本作中所登場的10種SMASH類型。
 
 100. 舉例河合榮多。
 
-101. 其中四枚分别是「Doctor」和「Game」、「Tantei」和「USB」，均是以假面騎士Ex-Aid和假面騎士W
-     所屬的兩枚滿裝瓶内的星雲氣體分解而得来的
+101. 其中四枚分别是「Doctor」和「Game」、「Tantei」和「USB」，均是以假面騎士Ex-Aid和假面騎士W 所屬的兩枚滿裝瓶内的星雲氣體分解而得来的
 
 102. 其中一枚在Ex-Aid專屬劇場版中出現Ex-Aid滿裝瓶，但到後來被分解進化成「医生（Doctor）」和「游戏（Game）」滿裝瓶
 
-103. 舉例：當使用「Taka」和「Medal」满裝瓶時，會出現「Are You Ready？OOO！TaToBa
-     TaToBaTaToBa！」的聲效
+103. 舉例：當使用「Taka」和「Medal」满裝瓶時，會出現「Are You Ready？OOO！TaToBa TaToBaTaToBa！」的聲效
 
 104. 會讓使用者更加狂暴
 
@@ -8081,8 +7896,7 @@ Form</strong><br />
 
 107. 而且變身後的造型一模一样
 
-108. 目前只有「Rabbit」、「Dragon」、「Cobra」和「Rider」四種，甚至還存有未知的「Tank」和「Lock」，前三個進化瓶個別附身於石動惣一、萬丈龍我、桐生戰兔的體內生成，而後「Dragon」因萬丈龍我的關係變化成「Great
-     Dragon」
+108. 目前只有「Rabbit」、「Dragon」、「Cobra」和「Rider」四種，甚至還存有未知的「Tank」和「Lock」，前三個進化瓶個別附身於石動惣一、萬丈龍我、桐生戰兔的體內生成，而後「Dragon」因萬丈龍我的關係變化成「Great Dragon」
 
 109. 類似《[假面騎士劍](https://zh.wikipedia.org/wiki/假面騎士劍 "wikilink")》的不死者（Undead）
 
@@ -8100,8 +7914,7 @@ Form</strong><br />
 
 116. 例如三羽鴉
 
-117. 目前例外為北都首相——多治見喜子 / 貓頭鷹Lost SMASH 、志水恭一 / 锹形虫Lost SMASH、石動美空 /
-     光碟Lost SMASH，三人均在被假面騎士Build 天才形態擊倒後卻因體内的星雲氣體已被中和的關係而毫髮無損
+117. 目前例外為北都首相——多治見喜子 / 貓頭鷹Lost SMASH 、志水恭一 / 锹形虫Lost SMASH、石動美空 / 光碟Lost SMASH，三人均在被假面騎士Build 天才形態擊倒後卻因體内的星雲氣體已被中和的關係而毫髮無損
 
 118. 大多都是被強迫。
 
@@ -8113,8 +7926,7 @@ Form</strong><br />
 
 122. 但有些配對組合是石動惣一為了避免破壞這些美好事物而胡亂配對。
 
-123. 举例由「蝙蝠（Koumori）」和「發動機（Hatsudoki）」組合而成的「蝙蝠引擎（BatEngine）」即可進化成「假面騎士Mad
-     Rogue」的基本形態
+123. 举例由「蝙蝠（Koumori）」和「發動機（Hatsudoki）」組合而成的「蝙蝠引擎（BatEngine）」即可進化成「假面騎士Mad Rogue」的基本形態
 
 124. 简单来说就是多達34名騎士
 
@@ -8122,13 +7934,11 @@ Form</strong><br />
 
 126. 其实在假面騎士ZI-O 第2話里，因为另类Build的关系而失去了记忆
 
-127. 「[月面空翻](https://zh.wikipedia.org/wiki/:en:Moonsault "wikilink")」為[職業摔角裏其中一種招式](../Page/職業摔角.md "wikilink")。
+127. 「[月面空翻](https://zh.wikipedia.org/wiki/:en:Moonsault "wikilink")」為[職業摔角](../Page/職業摔角.md "wikilink")裏其中一種招式。
 
-128. 以第14話爲例，在桐生戰兔製造兔子坦克氣泡罐過程當中測試不少Best
-     Match組合的滿裝瓶，但只有「Rabbit」和「Tank」的滿裝瓶能順利激活。
+128. 以第14話爲例，在桐生戰兔製造兔子坦克氣泡罐過程當中測試不少Best Match組合的滿裝瓶，但只有「Rabbit」和「Tank」的滿裝瓶能順利激活。
 
-129. 在平成假面騎士中相當少見的變身道具名稱和型態名稱不同。此類的前例是假面騎士Ghost 的羅賓魂（Robin
-     Damashi，使用的眼魂為「Robin hood」）
+129. 在平成假面騎士中相當少見的變身道具名稱和型態名稱不同。此類的前例是假面騎士Ghost 的羅賓魂（Robin Damashi，使用的眼魂為「Robin hood」）
 
 130. 劇中直接命名為「仮面ライダークローズ」。
 
@@ -8170,8 +7980,7 @@ Form</strong><br />
 
 149. 類似《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》中假面騎士誕生的情節。
 
-150. 第43話得知葛城忍所使用的創造驅動器為試驗版本，因此能發揮出滿裝瓶最大的能力，後於第46話证实其早已被假面騎士Grease
-     偷走，并用来变身成暴风雪形態。
+150. 第43話得知葛城忍所使用的創造驅動器為試驗版本，因此能發揮出滿裝瓶最大的能力，後於第46話证实其早已被假面騎士Grease 偷走，并用来变身成暴风雪形態。
 
 151. 追加安裝危险扳機後的音效則是「Super Best Match」（原文「」）
 
@@ -8191,8 +8000,7 @@ Form</strong><br />
 
 159. 萬丈龍我在第一次使用時就曾因冷靜不了而亂打一通，結果一度因在攻擊時煞不住車而讓手卡進樹幹裡。
 
-160. 假面騎士Evol
-     所持有的進化驅動器曾在火星一戰中遭到貝魯娜姬毀壞，後經葛城巧（桐生戰兔）之父葛城忍修復並製成設計圖檔案，後得知被失去記憶前的戰兔（還是葛城巧的時候）找到並藏在淨化裝置內作為動力系統，失忆後的他為了赎回被挟持的冰室泰山而將其完璧归赵於Evolto手中。
+160. 假面騎士Evol 所持有的進化驅動器曾在火星一戰中遭到貝魯娜姬毀壞，後經葛城巧（桐生戰兔）之父葛城忍修復並製成設計圖檔案，後得知被失去記憶前的戰兔（還是葛城巧的時候）找到並藏在淨化裝置內作為動力系統，失忆後的他為了赎回被挟持的冰室泰山而將其完璧归赵於Evolto手中。
 
 161. 內海成彰所持有的進化驅動器則是艾博魯特透過葛城忍的協助下將其製作而成，但該驅動器是調整成適合人類使用，所以能力方面及體力會有所限制。
 
@@ -8204,8 +8012,7 @@ Form</strong><br />
 
 165. 聯動劇場版中則是Kaiser 系戰士，而且两名戰士皆以一人一把來變身成Bi-Kaiser
 
-166. 如同《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》的「Fang
-     Memory」一樣。
+166. 如同《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》的「Fang Memory」一樣。
 
 167. 所以在第一次中只顧著想變身的龍我才因此失敗，後在第二次龍我因香澄的信激發內心的情感下終於成功變身。
 
@@ -8264,17 +8071,17 @@ Form</strong><br />
 
 195. 中午12:00-12:30播映。
 
-196. 此為[四色定理的公式](../Page/四色定理.md "wikilink")，證明任何地圖都可以只用四種顏色來著色。
+196. 此為[四色定理](../Page/四色定理.md "wikilink")的公式，證明任何地圖都可以只用四種顏色來著色。
 
 197. 此話開始調整播放時間。
 
 198. 中午12:00-12:30播映。
 
-199. 此為[五次方程的公式](../Page/五次方程.md "wikilink")，説明五次以上的方程式無法以代數方式解開。
+199. 此為[五次方程](../Page/五次方程.md "wikilink")的公式，説明五次以上的方程式無法以代數方式解開。
 
 200. 中午12:00-12:30播映。
 
-201. 此為[黎曼ζ函數的公式](../Page/黎曼ζ函數.md "wikilink")，本式為「ζ(2)=π^2/6」的變式。
+201. 此為[黎曼ζ函數](../Page/黎曼ζ函數.md "wikilink")的公式，本式為「ζ(2)=π^2/6」的變式。
 
 202. 中午12:00-12:30播映。
 
@@ -8286,7 +8093,7 @@ Form</strong><br />
 
 206. 中午12:00-12:30播映。
 
-207. 此為[卡塔蘭猜想的公式](../Page/卡塔蘭猜想.md "wikilink")，本內容為除了「8=2^3」與「9=3^2」以外，沒有連續兩個整數都是正整數的冪。
+207. 此為[卡塔蘭猜想](../Page/卡塔蘭猜想.md "wikilink")的公式，本內容為除了「8=2^3」與「9=3^2」以外，沒有連續兩個整數都是正整數的冪。
 
 208. 11月05日因播放第49屆全日本大學驛站接力賽（）而停播一次。
 
@@ -8298,8 +8105,7 @@ Form</strong><br />
 
 212. 深夜00:30-01:00重播。
 
-213. 此為[米爾斯常數的公式](https://zh.wikipedia.org/wiki/米爾斯常數 "wikilink")，其值「A≃
-     1.306377……」，本式為由米爾斯常數產生的米爾斯質數，而米爾斯質數中的第2項為11。
+213. 此為[米爾斯常數的公式](https://zh.wikipedia.org/wiki/米爾斯常數 "wikilink")，其值「A≃ 1.306377……」，本式為由米爾斯常數產生的米爾斯質數，而米爾斯質數中的第2項為11。
 
 214. 早上11:00-11:30播映。
 
@@ -8311,14 +8117,13 @@ Form</strong><br />
 
 218. 深夜00:30-01:00重播。
 
-219. 此為[阿基米德立體的公式](../Page/阿基米德立體.md "wikilink")，此式總共有13種。
+219. 此為[阿基米德立體](../Page/阿基米德立體.md "wikilink")的公式，此式總共有13種。
 
 220. 早上11:00-11:30播映。
 
 221. 深夜00:35-01:00重播。
 
-222. 此為[非歐拉商數的公式](../Page/非歐拉商數.md "wikilink")。其定義為不在[歐拉函數](https://zh.wikipedia.org/wiki/歐拉函數 "wikilink")
-     φ 值域中的整數n。除1以外，所有奇數都是非歐拉商數，而偶數中最小的非歐拉商數為14。
+222. 此為[非歐拉商數](../Page/非歐拉商數.md "wikilink")的公式。其定義為不在[歐拉函數](https://zh.wikipedia.org/wiki/歐拉函數 "wikilink") φ 值域中的整數n。除1以外，所有奇數都是非歐拉商數，而偶數中最小的非歐拉商數為14。
 
 223. 早上11:00-11:30播映。
 
@@ -8330,7 +8135,7 @@ Form</strong><br />
 
 227. 深夜00:35-01:00重播。
 
-228. 此為[高德納箭號表示法的公式](../Page/高德納箭號表示法.md "wikilink")，所謂的高德納箭號表示法是種用來表示巨大數的方法。
+228. 此為[高德納箭號表示法](../Page/高德納箭號表示法.md "wikilink")的公式，所謂的高德納箭號表示法是種用來表示巨大數的方法。
 
 229. 12月31日因逢日本新年而停播一次。
 
@@ -8338,18 +8143,17 @@ Form</strong><br />
 
 231. 深夜00:35-01:00重播。
 
-232. 此為[費馬數的公式](../Page/費馬數.md "wikilink")。其定義為「Fn = 2^2^n + 1」。
+232. 此為[費馬數](../Page/費馬數.md "wikilink")的公式。其定義為「Fn = 2^2^n + 1」。
 
 233. 早上11:00-11:30播映。
 
-234. 由於直播[NBA季後賽](../Page/NBA.md "wikilink")：聖安東尼奧馬刺VS丹佛金塊，4月28日停播第一次。
+234. 由於直播[NBA](../Page/NBA.md "wikilink")季後賽：聖安東尼奧馬刺VS丹佛金塊，4月28日停播第一次。
 
 235. 深夜00:35-01:00重播。
 
 236. 5月4日停播第二次，原定時間改播《[金田一少年之事件簿R](https://zh.wikipedia.org/wiki/金田一少年之事件簿_\(動畫\) "wikilink")》。
 
-237. 此為[魔群的公式](../Page/魔群.md "wikilink")，Finite
-     group的中文為「有限群」，而有限群中的無限族總共有18個。
+237. 此為[魔群](../Page/魔群.md "wikilink")的公式，Finite group的中文為「有限群」，而有限群中的無限族總共有18個。
 
 238. 早上11:00-11:30播映。
 
@@ -8367,7 +8171,7 @@ Form</strong><br />
 
 245. 深夜00:35-01:00重播。
 
-246. 此為[哈沙德數的公式](../Page/哈沙德數.md "wikilink")，該式的意思為「整數中並無連續21個整數都是哈沙德數」。
+246. 此為[哈沙德數](../Page/哈沙德數.md "wikilink")的公式，該式的意思為「整數中並無連續21個整數都是哈沙德數」。
 
 247. 早上11:00-11:30播映。
 
@@ -8405,63 +8209,67 @@ Form</strong><br />
 
 264. 此為第七[異種球面的視覺化](https://zh.wikipedia.org/wiki/異種球面 "wikilink")
 
-265. 此為[完全數的公式](https://zh.wikipedia.org/wiki/完全數 "wikilink")，意思是該數除了自身以外的所有因數的總和，剛好等於這個數本身。
+265. 早上11:00-11:30播映。
 
-266. 此為[阿克曼函數的公式](../Page/阿克曼函數.md "wikilink")，這是一種需要兩個自然數作為輸入值，並且能產生出巨大數的遞迴函式。
+266. 深夜00:35-01:00重播。
 
-267. 此為全部[素數的最大值](https://zh.wikipedia.org/wiki/素數 "wikilink")，英文中「totative」一詞意為「小於整數n，並與n互質的數」，而「prime」一詞意為「質數」。本式意為在一個與整數n互質且小於n的數全部都是質數（與30互質的數有1、7、11、13、17、19、23、29這八個，除1以外都是質數）的條件下，符合此條件的數字中最大的整數是30。
+267. 此為[完全數的公式](https://zh.wikipedia.org/wiki/完全數 "wikilink")，意思是該數除了自身以外的所有因數的總和，剛好等於這個數本身。
 
-268. 此為[梅森質數的公式](https://zh.wikipedia.org/wiki/梅森質數 "wikilink")，其定義是符合Mn=2^n-1的質數。
+268. 早上11:00-11:30播映。
 
-269. 此為[晶體學點群的總數](https://zh.wikipedia.org/wiki/晶體學點群 "wikilink")，「crystal
-     class」的中文意為「晶系」，而晶體學的點群總共有32種之意。
+269. 深夜00:35-01:00重播。
 
-270. 此為拉馬努金圓周率的變體
+270. 此為[阿克曼函數](../Page/阿克曼函數.md "wikilink")的公式，這是一種需要兩個自然數作為輸入值，並且能產生出巨大數的遞迴函式。
 
-271. 此為[斯奎斯數的公式](https://zh.wikipedia.org/wiki/斯奎斯數 "wikilink")，南非數學家史丹利•斯奎斯提出的巨大數的一種。斯奎斯於1933年提出了第一斯奎斯數的上界（需要黎曼假設成立）：「e^e^e^79
-     \< 10^10^10^34」
+271. 此為全部[素數的最大值](https://zh.wikipedia.org/wiki/素數 "wikilink")，英文中「totative」一詞意為「小於整數n，並與n互質的數」，而「prime」一詞意為「質數」。本式意為在一個與整數n互質且小於n的數全部都是質數（與30互質的數有1、7、11、13、17、19、23、29這八個，除1以外都是質數）的條件下，符合此條件的數字中最大的整數是30。
+
+272. 此為[梅森質數的公式](https://zh.wikipedia.org/wiki/梅森質數 "wikilink")，其定義是符合Mn=2^n-1的質數。
+
+273. 此為[晶體學點群的總數](https://zh.wikipedia.org/wiki/晶體學點群 "wikilink")，「crystal class」的中文意為「晶系」，而晶體學的點群總共有32種之意。
+
+274. 此為拉馬努金圓周率的變體
+
+275. 此為[斯奎斯數的公式](https://zh.wikipedia.org/wiki/斯奎斯數 "wikilink")，南非數學家史丹利•斯奎斯提出的巨大數的一種。斯奎斯於1933年提出了第一斯奎斯數的上界（需要黎曼假設成立）：「e^e^e^79 \< 10^10^10^34」
      由於第一斯奎斯數的值僅僅近似於10^10^10^34，以常用對數計算後得到的答案也是近似值，因此算式使用┌與┐這兩個「取頂符號」。
 
-272. 此為[素紐結的公式](https://zh.wikipedia.org/wiki/素紐結 "wikilink")，交叉數小於等於8個的素紐結，總數是35個之意。
+276. 此為[素紐結的公式](https://zh.wikipedia.org/wiki/素紐結 "wikilink")，交叉數小於等於8個的素紐結，總數是35個之意。
 
-273. 此為[立方數的公式](../Page/立方數.md "wikilink")
+277. 此為[立方數](../Page/立方數.md "wikilink")的公式
 
-274. 此為[非正規質數的公式](https://zh.wikipedia.org/wiki/非正規質數 "wikilink")，本式意為非正規質數中，最小的數字為37之意。
+278. 此為[非正規質數的公式](https://zh.wikipedia.org/wiki/非正規質數 "wikilink")，本式意為非正規質數中，最小的數字為37之意。
 
-275. 此為[六角魔方的公式](https://zh.wikipedia.org/wiki/六角魔方 "wikilink")，即任一排數字的和皆相等的魔方陣，其任何一排的總和皆為38。
+279. 此為[六角魔方的公式](https://zh.wikipedia.org/wiki/六角魔方 "wikilink")，即任一排數字的和皆相等的魔方陣，其任何一排的總和皆為38。
 
-276. 此公式目前暂不明，只知推測連續三個數的平方和分之一的值等於4π-39/16之意。
+280. 此公式目前暂不明，只知推測連續三個數的平方和分之一的值等於4π-39/16之意。
 
-277. 此為[佩爾方程的公式](https://zh.wikipedia.org/wiki/佩爾方程 "wikilink")，指的是具有x^2-ny^2=1的形式，且n為正整數的二元二次方程式。
+281. 此為[佩爾方程的公式](https://zh.wikipedia.org/wiki/佩爾方程 "wikilink")，指的是具有x^2-ny^2=1的形式，且n為正整數的二元二次方程式。
 
-278. 此為[歐拉質數生成式的公式](https://zh.wikipedia.org/wiki/歐拉質數生成式 "wikilink")，把整數帶入這項質數生成式fn(q)=q^2+q+n的n中，從第0到n-2項為止都能讓該式產生質數的整數，總共有2、3、5、11、17、41這六個，這六個數被稱為「歐拉幸運數」。
+282. 此為[歐拉質數生成式的公式](https://zh.wikipedia.org/wiki/歐拉質數生成式 "wikilink")，把整數帶入這項質數生成式fn(q)=q^2+q+n的n中，從第0到n-2項為止都能讓該式產生質數的整數，總共有2、3、5、11、17、41這六個，這六個數被稱為「歐拉幸運數」。
 
-279. 此為[整數分拆的公式](../Page/整數分拆.md "wikilink")，「p(n)」是用來表示自然數n有多少種分拆方式的表示法。
+283. 此為[整數分拆](../Page/整數分拆.md "wikilink")的公式，「p(n)」是用來表示自然數n有多少種分拆方式的表示法。
 
-280. 同樣為接近整数的公式，即「e^π√43≃
-     884736743.999777…」的變式。實際用計算機計算本式後的答案約為「43.00000000000105…」，因此本式近似值是43。
+284. 同樣為接近整数的公式，即「e^π√43≃ 884736743.999777…」的變式。實際用計算機計算本式後的答案約為「43.00000000000105…」，因此本式近似值是43。
 
-281. 此為[錯排問題](https://zh.wikipedia.org/wiki/錯排問題 "wikilink")（Derangement）的公式，錯排問題是指n個物體的置換排列中，每個排列中的每個物體都不在原本的位置上的排列順序。該數表記法可寫成「Dn」、「dn」或「\!n」。
+285. 此為[錯排問題](https://zh.wikipedia.org/wiki/錯排問題 "wikilink")（Derangement）的公式，錯排問題是指n個物體的置換排列中，每個排列中的每個物體都不在原本的位置上的排列順序。該數表記法可寫成「Dn」、「dn」或「\!n」。
 
-282. 此為[歐拉．馬斯刻若尼常數的公式](https://zh.wikipedia.org/wiki/歐拉．馬斯刻若尼常數 "wikilink")。該常數的代表符號為γ，它的近似值是「0.57721566490153…」。
+286. 此為[歐拉．馬斯刻若尼常數的公式](https://zh.wikipedia.org/wiki/歐拉．馬斯刻若尼常數 "wikilink")。該常數的代表符號為γ，它的近似值是「0.57721566490153…」。
 
-283. 此為[立方根的公式](../Page/立方根.md "wikilink")，在實數系中，實數在實數系中，實數α的立方根通常用於「³√α」和「α³」來表示。
+287. 此為[立方根](../Page/立方根.md "wikilink")的公式，在實數系中，實數在實數系中，實數α的立方根通常用於「³√α」和「α³」來表示。
 
-284. 8月05日停播一次。
+288. 8月05日停播一次。
 
-285. 此為[反正切的公式](../Page/反正切.md "wikilink")，即反三角函數的一種。
+289. 此為[反正切](../Page/反正切.md "wikilink")的公式，即反三角函數的一種。
 
-286. 此為[伯特蘭．切比雪夫定理的公式](https://zh.wikipedia.org/wiki/伯特蘭．切比雪夫定理 "wikilink")。本定理說明當整數n\>3，則至少存在一個質數p，符合「n\<p\<2n」。而本式意為當n大於等於48的時候，「n～9n/8」之間必定會存質數存在之意。
+290. 此為[伯特蘭．切比雪夫定理的公式](https://zh.wikipedia.org/wiki/伯特蘭．切比雪夫定理 "wikilink")。本定理說明當整數n\>3，則至少存在一個質數p，符合「n\<p\<2n」。而本式意為當n大於等於48的時候，「n～9n/8」之間必定會存質數存在之意。
 
-287. 此為[立面根的公式](https://zh.wikipedia.org/wiki/立面根 "wikilink")，就是兩個同樣的位数相乘的公式，例如「α²」。
+291. 此為[立面根的公式](https://zh.wikipedia.org/wiki/立面根 "wikilink")，就是兩個同樣的位数相乘的公式，例如「α²」。
 
-288. 根據官網所公佈的得知時間軸大約是在本篇第19 - 20話之間
+292. 根據官網所公佈的得知時間軸大約是在本篇第19 - 20話之間
 
-289. 田中卓志每一彈都參與演出，但每次都成修卡怪人欺負的對象。
+293. 田中卓志每一彈都參與演出，但每次都成修卡怪人欺負的對象。
 
-290. 第1話未用於片頭，而是用於片尾。
+294. 第1話未用於片頭，而是用於片尾。
 
-291. 淺倉大介亦有與貴水博之組成日本音樂組合\<<Access>\>，其中成員貴水博之亦曾於前作《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》飾演檀正宗
-     / 假面騎士Cronus （聲） 。
+295. 淺倉大介亦有與貴水博之組成日本音樂組合\<<Access>\>，其中成員貴水博之亦曾於前作《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》飾演檀正宗 / 假面騎士Cronus （聲） 。
 
-292.
+296.

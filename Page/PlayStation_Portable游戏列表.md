@@ -1,5 +1,4 @@
-本电子游戏列表列举了[索尼](../Page/索尼.md "wikilink")[PlayStation
-Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")。
+本电子游戏列表列举了[索尼](../Page/索尼.md "wikilink")[PlayStation Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")。
 
 ## 游戏列表
 
@@ -1458,7 +1457,7 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Chessmaster.md" title="wikilink">Chessmaster: The Art of Learning</a></em></p></td>
+<td><p><em><a href="../Page/Chessmaster.md" title="wikilink">Chessmaster The Art of Learning</a>:</em></p></td>
 <td><p><span style="display:None">2008-02-12</span> {{#time:F j, Y|2008-02-12}}</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft" title="wikilink">Ubisoft</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft" title="wikilink">Ubisoft</a></p></td>
@@ -10348,37 +10347,15 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 
 ## 参考资料
 
-[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
+[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
 
-1.  [Army of Two: The 40th Day for PSP - Army of Two: The 40th Day PSP
-    Game - Army of Two: The 40th Day PSP Video
-    Game](http://www.gamespot.com/psp/action/armyoftwothefortiethday/similar.html?mode=versions)
-
-2.  [Assassin's Creed: Bloodlines for PSP - Assassin's Creed: Bloodlines
-    PSP Game - Assassin's Creed: Bloodlines PSP Video
-    Game](http://www.gamespot.com/psp/action/assassinscreed/similar.html?mode=versions)
-3.  [Ben 10: Alien Force Vilgax Attack for PSP - Ben 10: Alien Force
-    Vilgax Attack PSP Game - Ben 10: Alien Force Vilgax Attack PSP Video
-    Game](http://www.gamespot.com/psp/action/ben10alienforcevilgaxattacks/similar.html?mode=versions)
-4.  [Dante's Inferno for PSP - Dante's Inferno PSP Game - Dante's
-    Inferno PSP Video
-    Game](http://www.gamespot.com/psp/action/dantesinferno/similar.html?mode=versions)
-5.  [Petz Hamsterz Bunch for PSP - Petz Hamsterz Bunch PSP Game - Petz
-    Hamsterz Bunch PSP Video
-    Game](http://www.gamespot.com/psp/puzzle/petzhamsterzbunch/similar.html?mode=versions)
-6.  [Petz: Saddle Club for PSP - Petz: Saddle Club PSP Game - Petz:
-    Saddle Club PSP Video
-    Game](http://www.gamespot.com/psp/sim/petzsaddleclub/similar.html?mode=versions)
-7.  [The Secret Saturdays: Beasts of the 5th Sun for PSP - The Secret
-    Saturdays: Beasts of the 5th Sun PSP Game - The Secret Saturdays:
-    Beasts of the 5th Sun PSP Video
-    Game](http://www.gamespot.com/psp/action/thesecretsaturdaysbeastsofthe5thsun/similar.html?mode=versions)
-8.  [SpongeBob's Truth or Square for PSP - SpongeBob's Truth or Square
-    PSP Game - SpongeBob's Truth or Square PSP Video
-    Game](http://www.gamespot.com/psp/action/spongebobstruthorsquare/similar.html?mode=versions)
-9.  [Tekken 6 for PSP - Tekken 6 PSP Game - Tekken 6 PSP Video
-    Game](http://www.gamespot.com/psp/action/tekken6/similar.html?mode=versions)
-10. [WWE SmackDown vs. Raw 2010 for PSP - WWE SmackDown vs. Raw 2010 PSP
-    Game - WWE SmackDown vs. Raw 2010 PSP Video
-    Game](http://www.gamespot.com/psp/action/wwesmackdownvsraw2010/similar.html?mode=versions)
+1.  [Army of Two: The 40th Day for PSP - Army of Two: The 40th Day PSP Game - Army of Two: The 40th Day PSP Video Game](http://www.gamespot.com/psp/action/armyoftwothefortiethday/similar.html?mode=versions)
+2.  [Assassin's Creed: Bloodlines for PSP - Assassin's Creed: Bloodlines PSP Game - Assassin's Creed: Bloodlines PSP Video Game](http://www.gamespot.com/psp/action/assassinscreed/similar.html?mode=versions)
+3.  [Ben 10: Alien Force Vilgax Attack for PSP - Ben 10: Alien Force Vilgax Attack PSP Game - Ben 10: Alien Force Vilgax Attack PSP Video Game](http://www.gamespot.com/psp/action/ben10alienforcevilgaxattacks/similar.html?mode=versions)
+4.  [Dante's Inferno for PSP - Dante's Inferno PSP Game - Dante's Inferno PSP Video Game](http://www.gamespot.com/psp/action/dantesinferno/similar.html?mode=versions)
+5.  [Petz Hamsterz Bunch for PSP - Petz Hamsterz Bunch PSP Game - Petz Hamsterz Bunch PSP Video Game](http://www.gamespot.com/psp/puzzle/petzhamsterzbunch/similar.html?mode=versions)
+6.  [Petz: Saddle Club for PSP - Petz: Saddle Club PSP Game - Petz: Saddle Club PSP Video Game](http://www.gamespot.com/psp/sim/petzsaddleclub/similar.html?mode=versions)
+7.  [The Secret Saturdays: Beasts of the 5th Sun for PSP - The Secret Saturdays: Beasts of the 5th Sun PSP Game - The Secret Saturdays: Beasts of the 5th Sun PSP Video Game](http://www.gamespot.com/psp/action/thesecretsaturdaysbeastsofthe5thsun/similar.html?mode=versions)
+8.  [SpongeBob's Truth or Square for PSP - SpongeBob's Truth or Square PSP Game - SpongeBob's Truth or Square PSP Video Game](http://www.gamespot.com/psp/action/spongebobstruthorsquare/similar.html?mode=versions)
+9.  [Tekken 6 for PSP - Tekken 6 PSP Game - Tekken 6 PSP Video Game](http://www.gamespot.com/psp/action/tekken6/similar.html?mode=versions)
+10. [WWE SmackDown vs. Raw 2010 for PSP - WWE SmackDown vs. Raw 2010 PSP Game - WWE SmackDown vs. Raw 2010 PSP Video Game](http://www.gamespot.com/psp/action/wwesmackdownvsraw2010/similar.html?mode=versions)

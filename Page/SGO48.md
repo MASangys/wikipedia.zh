@@ -1,16 +1,14 @@
-**SGO48**為以[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")[胡志明市為活動據點的女子偶像團體](../Page/胡志明市.md "wikilink")，同時也是[日本偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48的第](../Page/AKB48.md "wikilink")7個海外姐妹團。總製作人由作詞家[秋元康擔任](../Page/秋元康.md "wikilink")。\[1\]
+**SGO48**為以[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")[胡志明市](../Page/胡志明市.md "wikilink")為活動據點的女子偶像團體，同時也是[日本偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")的第7個海外姐妹團。總製作人由作詞家[秋元康](../Page/秋元康.md "wikilink")擔任。\[1\]
 
 ## 簡介
 
-團體名稱中「**SGO**」以所在地[胡志明市旧名西貢的簡寫](../Page/胡志明市.md "wikilink")（**S**ai**GO**n）命名，代表色「桃紅色」靈感來自越南國花「蓮花」。\[2\]「**SGO48**」的標誌同樣以桃紅色為底色，字樣是由白色構成。
+團體名稱中「**SGO**」以所在地[胡志明市](../Page/胡志明市.md "wikilink")旧名西貢的簡寫（**S**ai**GO**n）命名，代表色「桃紅色」靈感來自越南國花「蓮花」。\[2\]「**SGO48**」的標誌同樣以桃紅色為底色，字樣是由白色構成。
 
 ## 略歴
 
-AKB48集團2018年6月21日宣布日本海外的第7個姐妹團「SGO48」於越南胡志明市（舊名：西貢）正式成立，經紀公司「YAG
-Entertainment」宣布「SGO48」將於2018年年底開始活動\[3\]。2018年8月10日至9月9日舉辦1期生徵選活動，11月11日進行最終審査\[4\]\[5\]。11月17日於胡志明市的西貢新世界賓館舉辦1期生29名成員（包括1名日籍成員）的見面記者會\[6\]\[7\]\[8\]。次（18）日于[河内举行的](https://zh.wikipedia.org/wiki/河内 "wikilink")「交通安全越南『絆』[驛站接力賽](../Page/驛站接力賽.md "wikilink")
-2018 IN HANOI」中，SGO48成员与[AKB48](../Page/AKB48.md "wikilink") Team
-8的6名成员共同参加\[9\]\[10\]。12月22日，首場演出於胡志明市大型商場「Crescent
-Mall」舉行\[11\]。
+AKB48集團2018年6月21日宣布日本海外的第7個姐妹團「SGO48」於越南胡志明市（舊名：西貢）正式成立，經紀公司「YAG Entertainment」宣布「SGO48」將於2018年年底開始活動\[3\]。2018年8月10日至9月9日舉辦1期生徵選活動，11月11日進行最終審査\[4\]\[5\]。11月17日於胡志明市的西貢新世界賓館舉辦1期生29名成員（包括1名日籍成員）的見面記者會\[6\]\[7\]\[8\]。次（18）日于[河内举行的](https://zh.wikipedia.org/wiki/河内 "wikilink")「交通安全越南『絆』[驛站接力賽](../Page/驛站接力賽.md "wikilink") 2018 IN HANOI」中，SGO48成员与[AKB48](../Page/AKB48.md "wikilink") Team 8的6名成员共同参加\[9\]\[10\]。12月22日，首場演出於胡志明市大型商場「Crescent Mall」舉行\[11\]。
+
+2019年7月17日，正式宣布于8月25日發行首張單曲《HEAVY ROTATION》（AKB48《[無限重播](../Page/無限重播.md "wikilink")》越南語版，以卡片格式販售，憑卡面编码以[數位音樂下載](../Page/數位音樂下載.md "wikilink")方式下載歌曲），並公布首張單曲的16位選拔成員\[12\]。
 
 ## 成員
 
@@ -245,7 +243,7 @@ Mall」舉行\[11\]。
 <td></td>
 <td><p>1期</p></td>
 <td><p>2018年12月13日</p></td>
-<td><p>請辭[12]</p></td>
+<td><p>請辭[13]</p></td>
 </tr>
 <tr class="even">
 <td><p>小關優實<br />
@@ -254,8 +252,8 @@ Mall」舉行\[11\]。
 <td></td>
 <td><p>1期</p></td>
 <td><p>2019年5月31日</p></td>
-<td><p>日本國籍[13]<br />
-畢業[14]</p></td>
+<td><p>日本國籍[14]<br />
+畢業[15]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -322,30 +320,60 @@ Mall」舉行\[11\]。
 </tbody>
 </table>
 
+## 发表作品
+
+### 单曲
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>发行时间</p></th>
+<th><p>标题</p></th>
+<th><p>发售形态</p></th>
+<th><p>备注</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>2019年8月25日</p></td>
+<td><p>《HEAVY ROTATION》<br />
+（AKB48《<a href="../Page/無限重播.md" title="wikilink">無限重播</a>》越南語版）</p></td>
+<td><p>下载卡<br />
+下载卡<br />
+下载卡</p></td>
+<td><p>VERSION A<br />
+VERSION B<br />
+VERSION C</p></td>
+</tr>
+</tbody>
+</table>
+
 ## 成員徵選
 
 ### 1期生
 
-  - 徵選資格\[15\]：
+  - 徵選資格\[16\]：
 
 <!-- end list -->
 
-1.  無任何經紀約的13～22歲女性，經驗不拘\[16\]
+1.  無任何經紀約的13～22歲女性，經驗不拘\[17\]
 2.  甄选合格後能與公司簽約，並可長期在胡志明市參與培訓及演藝活動者
 3.  未滿18歲者，需要事先取得法定監護人的同意
 
 <!-- end list -->
 
   - 報名期間：2018年8月10日至9月9日
-  - 報名人數：7,626人\[17\]
+  - 報名人數：7,626人\[18\]
   - 徵選過程：
 
 <!-- end list -->
 
   -
-    一次審査－線上報名：合格者350名\[18\]
-    二次審査－面試（2018年10月20日－10月21日）：合格者120名\[19\]\[20\]
-    最終審査－歌唱（2018年11月10日－11月11日）：合格者29名\[21\]\[22\]\[23\]
+    一次審査－線上報名：合格者350名\[19\]
+    二次審査－面試（2018年10月20日－10月21日）：合格者120名\[20\]\[21\]
+    最終審査－歌唱（2018年11月10日－11月11日）：合格者29名\[22\]\[23\]\[24\]
 
 **最終合格者**（粗體字者為在籍成員）
 
@@ -364,12 +392,9 @@ Mall」舉行\[11\]。
   -
   -
   -
-[Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink")
-[Category:越南女子演唱團體](https://zh.wikipedia.org/wiki/Category:越南女子演唱團體 "wikilink")
-[Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink")
-[Category:胡志明市文化](https://zh.wikipedia.org/wiki/Category:胡志明市文化 "wikilink")
+[Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink") [Category:越南女子演唱團體](https://zh.wikipedia.org/wiki/Category:越南女子演唱團體 "wikilink") [Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink") [Category:胡志明市文化](https://zh.wikipedia.org/wiki/Category:胡志明市文化 "wikilink")
 
-1.  包括海外姐妹團在內的[AKB48家族各團均由](../Page/AKB48集團.md "wikilink")[秋元康擔任總製作人](../Page/秋元康.md "wikilink")。
+1.  包括海外姐妹團在內的[AKB48家族各團均由](../Page/AKB48集團.md "wikilink")[秋元康](../Page/秋元康.md "wikilink")擔任總製作人。
 
 2.
 
@@ -393,8 +418,8 @@ Mall」舉行\[11\]。
 12.
 
 13.
-14.
 
+14.
 15.
 
 16.
@@ -402,10 +427,12 @@ Mall」舉行\[11\]。
 17.
 
 18.
-19.
 
+19.
 20.
 
 21.
+
 22.
 23.
+24.

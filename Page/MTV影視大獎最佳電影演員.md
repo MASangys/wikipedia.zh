@@ -1,5 +1,4 @@
-**MTV影視大獎最佳電影演員**（MTV Movie & TV Awards for Best Actor in a
-Movie）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wikilink")，頒發給年度最佳電影演員，於1992年開始頒發。
+**MTV影視大獎最佳電影演員**（MTV Movie & TV Awards for Best Actor in a Movie）是[MTV影視大獎](../Page/MTV影視大獎.md "wikilink")重要的獎項之一，頒發給年度最佳電影演員，於1992年開始頒發。
 
 ## 記錄
 
@@ -1150,7 +1149,6 @@ Movie）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wi
 
 1.  本屆最佳演員不分男女組別，一同角逐獎項；本屆獎項得主為男演員。
 2.  [第25屆MTV電影頒獎禮得獎名單《太陽報》](http://the-sun.on.cc/cnt/entertainment/20150414/00476_003.html)
-3.  [MTV電影頒獎禮
-    《星球大戰》掃3獎大贏家](http://news.mingpao.com/pns/dailynews/web_tc/article/20160411/s00016/1460312276550)
+3.  [MTV電影頒獎禮 《星球大戰》掃3獎大贏家](http://news.mingpao.com/pns/dailynews/web_tc/article/20160411/s00016/1460312276550)
 4.  本屆最佳演員不分男女組別，一同角逐獎項；本屆獎項得主為女演員。
 5.  [【MTV電影電視獎】《美女與野獸》奪最佳影片　最佳親吻卻輸給他們](http://www.appledaily.com.tw/realtimenews/article/new/20170508/1113834/)

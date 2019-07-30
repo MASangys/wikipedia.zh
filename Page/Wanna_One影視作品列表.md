@@ -1,6 +1,4 @@
-**Wanna
-One影視作品列表**，主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[Wanna
-One自](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")2017年出道至今，在出道限定期間內參與過的的各類電視節目、固定節目及電視劇演出。
+**Wanna One影視作品列表**，主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[Wanna One自](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")2017年出道至今，在出道限定期間內參與過的的各類電視節目、固定節目及電視劇演出。
 
 ## 專屬綜藝節目
 

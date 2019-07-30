@@ -1,4 +1,4 @@
-**20大道車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT西城線的一個慢車](../Page/BMT西城線.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於及86街交界，設有[D線](../Page/紐約地鐵D線.md "wikilink")（任何時候停站）列車服務。
+**20大道車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT西城線](../Page/BMT西城線.md "wikilink")的一個慢車[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於及86街交界，設有[D線](../Page/紐約地鐵D線.md "wikilink")（任何時候停站）列車服務。
 
 ## 車站結構
 
@@ -36,27 +36,19 @@
 </tbody>
 </table>
 
-[20th_Avenue_(West_End)_-_NE_stair.JPG](https://zh.wikipedia.org/wiki/File:20th_Avenue_\(West_End\)_-_NE_stair.JPG "fig:20th_Avenue_(West_End)_-_NE_stair.JPG")
-此高架車站在1916年9月15日啟用，設有兩個[側式月台和三條軌道](../Page/側式月台.md "wikilink")。中央軌道正常不使用。[康尼島方向月台比](https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站_\(BMT西城線\) "wikilink")[曼哈頓方向月台稍為偏南](../Page/曼哈頓.md "wikilink")，這是因為1960年代月台延長的方向導致。
+[20th_Avenue_(West_End)_-_NE_stair.JPG](https://zh.wikipedia.org/wiki/File:20th_Avenue_\(West_End\)_-_NE_stair.JPG "fig:20th_Avenue_(West_End)_-_NE_stair.JPG") 此高架車站在1916年9月15日啟用，設有兩個[側式月台](../Page/側式月台.md "wikilink")和三條軌道。中央軌道正常不使用。[康尼島方向月台比](https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站_\(BMT西城線\) "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")方向月台稍為偏南，這是因為1960年代月台延長的方向導致。
 
 ## 參考資料
 
 ## 外部連結
 
   -
-  - Station Reporter — [D
-    Train](https://web.archive.org/web/20150112231643/http://www.stationreporter.net/dtrain.htm)
+  - Station Reporter — [D Train](https://web.archive.org/web/20150112231643/http://www.stationreporter.net/dtrain.htm)
 
-  - [20th Avenue entrance from Google Maps Street
-    View](https://maps.google.com/?ie=UTF8&ll=40.604944,-73.998928&spn=0,359.986567&z=17&layer=c&cbll=40.60474,-73.998559&panoid=597hrtUoDngRrZJgPwNWgg&cbp=12,174.64,,0,10.32)
+  - [20th Avenue entrance from Google Maps Street View](https://maps.google.com/?ie=UTF8&ll=40.604944,-73.998928&spn=0,359.986567&z=17&layer=c&cbll=40.60474,-73.998559&panoid=597hrtUoDngRrZJgPwNWgg&cbp=12,174.64,,0,10.32)
 
-  - [Platforms from Google Maps Street
-    View](https://www.google.com/maps/@40.6044083,-73.9979324,3a,75y,299.86h,80.92t/data=!3m7!1e1!3m5!1s-izGbdqTpVk8%2FWG3HVce5kKI%2FAAAAAAAAYUk%2FI01IX2QMdLYKa_rjbWMJITfncv4C9qk6gCLIB!2e4!6s%2F%2Flh6.googleusercontent.com%2F-izGbdqTpVk8%2FWG3HVce5kKI%2FAAAAAAAAYUk%2FI01IX2QMdLYKa_rjbWMJITfncv4C9qk6gCLIB%2Fw203-h100-p-k-no%2F!7i7168!8i3584!4m3!8m2!3m1!1e1)
+  - [Platforms from Google Maps Street View](https://www.google.com/maps/@40.6044083,-73.9979324,3a,75y,299.86h,80.92t/data=!3m7!1e1!3m5!1s-izGbdqTpVk8%2FWG3HVce5kKI%2FAAAAAAAAYUk%2FI01IX2QMdLYKa_rjbWMJITfncv4C9qk6gCLIB!2e4!6s%2F%2Flh6.googleusercontent.com%2F-izGbdqTpVk8%2FWG3HVce5kKI%2FAAAAAAAAYUk%2FI01IX2QMdLYKa_rjbWMJITfncv4C9qk6gCLIB%2Fw203-h100-p-k-no%2F!7i7168!8i3584!4m3!8m2!3m1!1e1)
 
-  - [20th Avenue at
-    TheSubwayNut](http://subwaynut.com/bmt/20d/index.php)
+  - [20th Avenue at TheSubwayNut](http://subwaynut.com/bmt/20d/index.php)
 
-[Category:BMT西城線車站](https://zh.wikipedia.org/wiki/Category:BMT西城線車站 "wikilink")
-[Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink")
-[Category:1916年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1916年啟用的鐵路車站 "wikilink")
-[Category:1916年紐約州建立](https://zh.wikipedia.org/wiki/Category:1916年紐約州建立 "wikilink")
+[Category:BMT西城線車站](https://zh.wikipedia.org/wiki/Category:BMT西城線車站 "wikilink") [Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink") [Category:1916年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1916年啟用的鐵路車站 "wikilink") [Category:1916年紐約州建立](https://zh.wikipedia.org/wiki/Category:1916年紐約州建立 "wikilink")

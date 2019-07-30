@@ -1,16 +1,14 @@
-[Statcast_logo.png](https://zh.wikipedia.org/wiki/File:Statcast_logo.png "fig:Statcast_logo.png")
-[美國職業棒球大聯盟](../Page/美國職業棒球大聯盟.md "wikilink")（MLB）的**Statcast**系統是一套用來分析球員動作和運動能力的高速、高準確度的自動工具。\[1\]於[2015年在大聯盟全](../Page/2015年美國職棒大聯盟球季.md "wikilink")30個球場啟用。
+[Statcast_logo.png](https://zh.wikipedia.org/wiki/File:Statcast_logo.png "fig:Statcast_logo.png") [美國職業棒球大聯盟](../Page/美國職業棒球大聯盟.md "wikilink")（MLB）的**Statcast**系統是一套用來分析球員動作和運動能力的高速、高準確度的自動工具。\[1\]於[2015年在大聯盟全](../Page/2015年美國職棒大聯盟球季.md "wikilink")30個球場啟用。
 
 ## 使用
 
-每一支MLB球隊皆有一個分析團隊，他們利用Statcast數據取得競爭優勢，所以球隊通常不願意分享他們究竟如何使用這些數字。\[2\]作為項目更為齊全的新工具，Statcast改變了傳統的測量標準。例如：[坦帕灣光芒隊的](https://zh.wikipedia.org/wiki/坦帕灣光芒隊 "wikilink")[打者被告知他們將被測量擊出球的脫離速率而不是打擊率](https://zh.wikipedia.org/wiki/打者 "wikilink")。另外，[克里斯·布萊恩將他在](../Page/克里斯·布萊恩.md "wikilink")2016年的進步歸功於休賽期間對擊球角度做的調整。\[3\]Statcast數據能透過追蹤整季的體能表現預防球員受傷，亦能延伸至全隊。例如分析守備方不同球員的傳球能力，三壘指導教練能決定是否讓跑者選擇進攻本壘，這能降低跑者出局的機率，但有時仍可能造成過分謹慎，使跑者在三壘提前止步，失去放手一搏的機會。\[4\]
+每一支MLB球隊皆有一個分析團隊，他們利用Statcast數據取得競爭優勢，所以球隊通常不願意分享他們究竟如何使用這些數字。\[2\]作為項目更為齊全的新工具，Statcast改變了傳統的測量標準。例如：[坦帕灣光芒隊的](https://zh.wikipedia.org/wiki/坦帕灣光芒隊 "wikilink")[打者被告知他們將被測量擊出球的脫離速率而不是打擊率](https://zh.wikipedia.org/wiki/打者 "wikilink")。另外，[克里斯·布萊恩](../Page/克里斯·布萊恩.md "wikilink")將他在2016年的進步歸功於休賽期間對擊球角度做的調整。\[3\]Statcast數據能透過追蹤整季的體能表現預防球員受傷，亦能延伸至全隊。例如分析守備方不同球員的傳球能力，三壘指導教練能決定是否讓跑者選擇進攻本壘，這能降低跑者出局的機率，但有時仍可能造成過分謹慎，使跑者在三壘提前止步，失去放手一搏的機會。\[4\]
 
 主播利用Statcast來向觀眾說明球員的表現，MLB官方網站的數據頁面就列出選手各方面的優秀成績。\[5\]\[6\]
 
 ## 歷史
 
-2006年季後賽，MLB啟用一種建立於攝影技術，能測量投出球軌跡、速度、旋轉、變化和位置的系統，提供客觀的資料。這些資料和統計學結合後就能更有效的衡量投手或打者。
-\[7\]
+2006年季後賽，MLB啟用一種建立於攝影技術，能測量投出球軌跡、速度、旋轉、變化和位置的系統，提供客觀的資料。這些資料和統計學結合後就能更有效的衡量投手或打者。 \[7\]
 
 Statcast首度在公開，贏得2015年會議頒布的最佳分析創新或科技獎項。\[8\]該系統於[2014年設置在三座球場測試](../Page/2014年美國職棒大聯盟球季.md "wikilink")，\[9\]隔年開季即應用於大聯盟全部30座球場。\[10\]\[11\]這種技術結合[都卜勒雷達和高解析度影像觀測球員在運動場上的各式數據](https://zh.wikipedia.org/wiki/都卜勒雷達 "wikilink")。\[12\]\[13\]
 
@@ -27,8 +25,7 @@ Statcast首度在公開，贏得2015年會議頒布的最佳分析創新或科�
   - Release：測量投手開始延伸動作至投出球的時間。
   - Extension：測量釋放球的位置至投手板的距離。
   - Velocity：測量釋放球後至本壘前緣的尖峰速率。
-  - Perceived
-    velocity：投球速率以MLB投手的平均放球點為準調整。例如同為90英里的球，在54英吋處釋放會比56英吋者來得慢。
+  - Perceived velocity：投球速率以MLB投手的平均放球點為準調整。例如同為90英里的球，在54英吋處釋放會比56英吋者來得慢。
   - Spin rate：測量從手中釋放時球的轉速。
 
 打擊
@@ -73,13 +70,11 @@ Statcast系統使用兩架攝影機模擬人類的[雙眼視覺](https://zh.wiki
 
 執行長鮑伯·波曼說：「我們已經在科技事業經營13、14年了，首要工作是清楚、快速、準確的掌握眼前的東西，這工程浩大，無法一蹴而就。這個的2.0版本是什麼？我們不一定要先知道它的樣子。我們相信雖然突如其來的事物會困擾你，但是為沒有事先規劃也不壞。我們拿出我們的成果，看看人們喜歡什麼，然後再弄清楚我們希望版本2.0是什麼樣子。」\[20\]
 
-Statcast使用[亞馬遜網路服務系統提供的](https://zh.wikipedia.org/wiki/亞馬遜網路服務系統 "wikilink")[雲端運算服務](../Page/雲端運算.md "wikilink")。\[21\]
+Statcast使用[亞馬遜網路服務系統提供的](https://zh.wikipedia.org/wiki/亞馬遜網路服務系統 "wikilink")[雲端運算](../Page/雲端運算.md "wikilink")服務。\[21\]
 
 ## 紀錄
 
-[賈恩卡洛·斯坦頓以一顆初始速率](https://zh.wikipedia.org/wiki/賈恩卡洛·斯坦頓 "wikilink")的滾地球和一支的[全壘打保持Statcast擊出球的最高速率紀錄和最遠全壘打的紀錄](https://zh.wikipedia.org/wiki/全壘打 "wikilink")。\[22\]\[23\]
-他亦擊出一支的全壘打，超越[亞倫·賈吉的](../Page/亞倫·賈吉.md "wikilink")，是為Statcast觀測到飛行速率最快的全壘打。\[24\]
-最快傳球速率紀錄的保持人是，其數字為。\[25\]
+[賈恩卡洛·斯坦頓以一顆初始速率](https://zh.wikipedia.org/wiki/賈恩卡洛·斯坦頓 "wikilink")的滾地球和一支的[全壘打保持Statcast擊出球的最高速率紀錄和最遠全壘打的紀錄](https://zh.wikipedia.org/wiki/全壘打 "wikilink")。\[22\]\[23\] 他亦擊出一支的全壘打，超越[亞倫·賈吉](../Page/亞倫·賈吉.md "wikilink")的，是為Statcast觀測到飛行速率最快的全壘打。\[24\] 最快傳球速率紀錄的保持人是，其數字為。\[25\]
 
 2016年，[阿羅魯迪斯·查普曼投出一顆](https://zh.wikipedia.org/wiki/阿羅魯迪斯·查普曼 "wikilink")的速球，平了他在2010年創下的MLB最快球速紀錄。\[26\]至2015年8月止，查普曼已經投出101顆MLB最快的球，導致Statcast必須特地增設能在瀏覽排行榜時忽略其紀錄的功能。\[27\]2016年，[菜鳥](../Page/菜鳥.md "wikilink")的速球達到了，成為查普曼以外的人的最快球速。\[28\]\[29\]
 
@@ -99,9 +94,7 @@ Statcast使用[亞馬遜網路服務系統提供的](https://zh.wikipedia.org/wi
 
 ## 參考資料
 
-[Category:美國職棒大聯盟](https://zh.wikipedia.org/wiki/Category:美國職棒大聯盟 "wikilink")
-[Category:棒球統計](https://zh.wikipedia.org/wiki/Category:棒球統計 "wikilink")
-[Category:體育科學](https://zh.wikipedia.org/wiki/Category:體育科學 "wikilink")
+[Category:美國職棒大聯盟](https://zh.wikipedia.org/wiki/Category:美國職棒大聯盟 "wikilink") [Category:棒球統計](https://zh.wikipedia.org/wiki/Category:棒球統計 "wikilink") [Category:體育科學](https://zh.wikipedia.org/wiki/Category:體育科學 "wikilink")
 
 1.
 

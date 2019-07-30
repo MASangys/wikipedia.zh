@@ -1,4 +1,4 @@
-《**真PK**》（）是由[香港電視娛樂製作的清談](../Page/香港電視娛樂.md "wikilink")[整蠱節目](https://zh.wikipedia.org/wiki/整蠱 "wikilink")，主持為[火火](../Page/火火.md "wikilink")、[Kevin](../Page/李健宏.md "wikilink")，於[ViuTV清談節目時段](../Page/ViuTV.md "wikilink")《[晚吹](../Page/晚吹.md "wikilink")》首播，播放時間為逢星期六23:30－00:00。
+《**真PK**》（）是由[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的清談[整蠱節目](https://zh.wikipedia.org/wiki/整蠱 "wikilink")，主持為[火火](../Page/火火.md "wikilink")、[Kevin](../Page/李健宏.md "wikilink")，於[ViuTV](../Page/ViuTV.md "wikilink")清談節目時段《[晚吹](../Page/晚吹.md "wikilink")》首播，播放時間為逢星期六23:30－00:00。
 
 2017年因《[晚吹](../Page/晚吹.md "wikilink")》系列重組，此節目於2017年2月4日後停止播放。
 
@@ -12,7 +12,7 @@
 
 當懲罰環節進行時，畫面皆會顯示警語，提醒觀眾內容涉及危險動作及不安畫面，切勿模仿。另自第三季中期起，節目完結時工作人員名單有特別加插聲明，指節目內容純粹戲劇效果，當中無人遭脅迫、非法或惡意傷害，該聲明又指懲罰環節所使用的食材「經過特別處理，可以食用」。
 
-ViuTV亦因應觀眾需求，安排部分集數的電視版本和無過濾版本於官方網站完整足本重溫（目前僅提供首集訪問[林雪的無過濾版本](../Page/林雪.md "wikilink")），為ViuTV首個提供網上及電視雙重版本節目。
+ViuTV亦因應觀眾需求，安排部分集數的電視版本和無過濾版本於官方網站完整足本重溫（目前僅提供首集訪問[林雪](../Page/林雪.md "wikilink")的無過濾版本），為ViuTV首個提供網上及電視雙重版本節目。
 
 ## 節目模式
 
@@ -34,8 +34,7 @@ ViuTV亦因應觀眾需求，安排部分集數的電視版本和無過濾版本
 
 競猜成功則可奪得押注的對手分數，反之則押注分數送贈對手，直至競猜成功為止，亦可以不進行競猜，然後繼續訪談。
 
-揭曉暗號之後就會轉換暗號繼續訪談，直到節目完結時得分最低的兩人將會接受大懲罰。如果首兩位出現同分，則只餘下一人接受懲罰。終極懲罰為喝光「地獄特飲」（PK
-Shake），飲品由各種嘔心動物（例如老鼠、烏蛇及水曱甴等）及醬汁混製而成。
+揭曉暗號之後就會轉換暗號繼續訪談，直到節目完結時得分最低的兩人將會接受大懲罰。如果首兩位出現同分，則只餘下一人接受懲罰。終極懲罰為喝光「地獄特飲」（PK Shake），飲品由各種嘔心動物（例如老鼠、烏蛇及水曱甴等）及醬汁混製而成。
 
 #### 各張PK牌內容
 
@@ -206,7 +205,7 @@ Shake），飲品由各種嘔心動物（例如老鼠、烏蛇及水曱甴等）
 <td><p><a href="../Page/石詠莉.md" title="wikilink">石詠莉</a></p></td>
 <td><p><strong>嘉賓</strong><br />
 由於首兩位出現同分，因此只有一人受罰<br />
-<strong>由<a href="../Page/鄧健泓.md" title="wikilink">鄧健泓頂替受罰</a></strong> </p></td>
+<strong>由<a href="../Page/鄧健泓.md" title="wikilink">鄧健泓</a>頂替受罰</strong> </p></td>
 </tr>
 <tr class="even">
 <td><p>24</p></td>
@@ -341,30 +340,24 @@ Shake），飲品由各種嘔心動物（例如老鼠、烏蛇及水曱甴等）
 ## 節目調動
 
   - 2016年4月9日：由於播出《[偵探的偵探](../Page/偵探的偵探.md "wikilink")》第一集加長版，《[恐怖醫學](https://zh.wikipedia.org/wiki/恐怖醫學 "wikilink")》第一集及《[G-1格鬥會](../Page/G-1格鬥會.md "wikilink")》第一集順延播出，本節目首集順延15分鐘播映（即23:45-00:15）。
-  - 2016年5月14日：由於直播《[西班牙甲組足球聯賽](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")
-    [格蘭納達](https://zh.wikipedia.org/wiki/格蘭納達足球會 "wikilink") 對
-    [巴塞隆拿](https://zh.wikipedia.org/wiki/巴塞隆拿足球會 "wikilink")》，本節目暫停播映。
+  - 2016年5月14日：由於直播《[西班牙甲組足球聯賽](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink") [格蘭納達](https://zh.wikipedia.org/wiki/格蘭納達足球會 "wikilink") 對 [巴塞隆拿](https://zh.wikipedia.org/wiki/巴塞隆拿足球會 "wikilink")》，本節目暫停播映。
   - 2016年6月11日：由於播出《[歐洲國家盃Online](https://zh.wikipedia.org/wiki/2016年歐洲國家盃 "wikilink")》，本節目順延至23:45-00:15播映。
   - 2016年7月2日至23日：由於播出《》第一至四集，本節目順延至23:45-00:15播映。
-  - 2016年7月30日：由於直播《[AGA](../Page/江海迦.md "wikilink") Ginadoll Concert
-    Live》超時，《[恐怖醫學](https://zh.wikipedia.org/wiki/恐怖醫學 "wikilink")》順延播出，本節目順延至翌日（7月31日）00:15-00:45播映。
+  - 2016年7月30日：由於直播《[AGA](../Page/江海迦.md "wikilink") Ginadoll Concert Live》超時，《[恐怖醫學](https://zh.wikipedia.org/wiki/恐怖醫學 "wikilink")》順延播出，本節目順延至翌日（7月31日）00:15-00:45播映。
   - 2016年8月13日：由於直播《[本地薑週末](https://zh.wikipedia.org/wiki/本地薑週末 "wikilink")》超時，《[當衝三小遇上+886MM](https://zh.wikipedia.org/wiki/當衝三小遇上+886MM "wikilink")》第三集順延播出，本節目順延至翌日（8月14日）00:00-00:30播映。
   - 2016年9月24日及10月1日：由於播出《[直美與加奈子](../Page/直美與加奈子.md "wikilink")》第一及二集加長版，《[恐怖醫學](https://zh.wikipedia.org/wiki/恐怖醫學 "wikilink")》、《》第一及二集及《》第七及八集順延播出，本節目順延至23:45-00:30播映。
   - 2016年10月8日：由於重播《[2016電動房車挑戰賽](https://zh.wikipedia.org/wiki/2016電動房車挑戰賽 "wikilink")》完整版，本節目順延至23:50-00:35播映。
-  - 2016年11月12日：由於17:45-20:00直播《[2017東亞足球錦標賽](https://zh.wikipedia.org/wiki/2017年東亞盃 "wikilink")
-    男子第二圈 - [香港](https://zh.wikipedia.org/wiki/香港足球代表隊 "wikilink") 對
-    [朝鮮](../Page/朝鮮國家足球隊.md "wikilink")》，當日《[6點新聞報道](../Page/Now新聞報道.md "wikilink")》暫停播映，並改為於當日23:30-00:00播出《[深宵新聞](../Page/Now深宵新聞.md "wikilink")》。本節目順延至翌日（11月13日）00:00-00:30播映。
+  - 2016年11月12日：由於17:45-20:00直播《[2017東亞足球錦標賽](https://zh.wikipedia.org/wiki/2017年東亞盃 "wikilink") 男子第二圈 - [香港](https://zh.wikipedia.org/wiki/香港足球代表隊 "wikilink") 對 [朝鮮](../Page/朝鮮國家足球隊.md "wikilink")》，當日《[6點新聞報道](../Page/Now新聞報道.md "wikilink")》暫停播映，並改為於當日23:30-00:00播出《[深宵新聞](../Page/Now深宵新聞.md "wikilink")》。本節目順延至翌日（11月13日）00:00-00:30播映。
   - 2016年11月19日：由於播出《[直美與加奈子](../Page/直美與加奈子.md "wikilink")》第八集加長版，《[ShowTime我主場](https://zh.wikipedia.org/wiki/ShowTime我主場 "wikilink")》第七集及《[美選D.n.A](../Page/美選D.n.A.md "wikilink")》第五集順延播出，本節目順延至23:45-00:15播映。
   - 2016年12月10日：由於播出《[美選D.n.A](../Page/美選D.n.A.md "wikilink")》第十一集加長版，本節目順延至翌日（12月11日）00:00-00:30播映。
-  - 2016年12月17日：由於播出《[陳柏宇The](../Page/陳柏宇.md "wikilink")
-    Players-10週年演唱會》，本節目順延至翌日（12月18日）00:30-01:00播映。
+  - 2016年12月17日：由於播出《[陳柏宇](../Page/陳柏宇.md "wikilink")The Players-10週年演唱會》，本節目順延至翌日（12月18日）00:30-01:00播映。
   - 2016年12月24日：由於播出《[釜山同一個亞洲文化節](https://zh.wikipedia.org/wiki/釜山同一個亞洲文化節 "wikilink")》第一集，本節目順延至翌日（12月25日）00:45-01:15播映。
   - 2016年12月31日：由於播出《[我們不離地倒數](https://zh.wikipedia.org/wiki/我們不離地倒數 "wikilink")》，本節目暫停播映。
   - 2017年1月21日：由於19:00-22:35直播《[第十二屆KKBOX風雲榜](https://zh.wikipedia.org/wiki/KKBOX數位音樂風雲榜#第十二屆_2017 "wikilink")》，當日《[8點新聞報道](../Page/Now新聞報道.md "wikilink")》暫停播映，並改為於當日22:35-23:00播出《[新聞報道](../Page/Now新聞報道.md "wikilink")》，《[財金智識Fight！](https://zh.wikipedia.org/wiki/財金智識Fight！ "wikilink")》第五集及《[碌卡大導](https://zh.wikipedia.org/wiki/碌卡大導 "wikilink")》第五集順延播出。本節目順延至翌日（1月22日）00:00-00:30播映。
 
 ## 投訴事件
 
-  - 部份集數有虐待身體畫面出現，因而有市民向[通訊事務管理局投訴節目](../Page/通訊事務管理局.md "wikilink")。投訴主要指「節目中向主持人及／或嘉賓施加的懲罰令人反感、不雅、令人不安和噁心、暴力、與性有關、變態、具侮辱性或品味低劣；罔顧傳播細菌的風險；影響在錄影廠工作的製作人員（尤其是女性員工）；等同酷刑、性騷擾、肆意殺死無害的昆蟲及浪費食物；對兒童及青少年造成不良影響；以及儘管節目被劃分為「成年觀眾」類別的節目，仍不可接受在免費電視服務播放。部分投訴人亦投訴節目包含粗鄙用語或粗言穢語，以及裸露臀部的鏡頭。此外，雖然顯示主持人的粗鄙手勢及私處的畫面已經打格處理，但有關動作及身體部分仍可被辨識。」而通訊事務管理局於2016年9月27日就節目第1-3集\[3\]，以及於10月25日就節目第4-7、10、11、13-15集\[4\]裁決投訴成立，向[ViuTV作出強烈勸喻](../Page/ViuTV.md "wikilink")。希望檢討節目內容，避免出現大量不雅畫面在節目出現。
+  - 部份集數有虐待身體畫面出現，因而有市民向[通訊事務管理局](../Page/通訊事務管理局.md "wikilink")投訴節目。投訴主要指「節目中向主持人及／或嘉賓施加的懲罰令人反感、不雅、令人不安和噁心、暴力、與性有關、變態、具侮辱性或品味低劣；罔顧傳播細菌的風險；影響在錄影廠工作的製作人員（尤其是女性員工）；等同酷刑、性騷擾、肆意殺死無害的昆蟲及浪費食物；對兒童及青少年造成不良影響；以及儘管節目被劃分為「成年觀眾」類別的節目，仍不可接受在免費電視服務播放。部分投訴人亦投訴節目包含粗鄙用語或粗言穢語，以及裸露臀部的鏡頭。此外，雖然顯示主持人的粗鄙手勢及私處的畫面已經打格處理，但有關動作及身體部分仍可被辨識。」而通訊事務管理局於2016年9月27日就節目第1-3集\[3\]，以及於10月25日就節目第4-7、10、11、13-15集\[4\]裁決投訴成立，向[ViuTV](../Page/ViuTV.md "wikilink")作出強烈勸喻。希望檢討節目內容，避免出現大量不雅畫面在節目出現。
 
 ## 相關連結
 
@@ -378,13 +371,7 @@ Shake），飲品由各種嘔心動物（例如老鼠、烏蛇及水曱甴等）
 
 ## 參考來源
 
-[Category:惡搞文化](https://zh.wikipedia.org/wiki/Category:惡搞文化 "wikilink")
-[Category:香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目 "wikilink")
-[Category:香港綜藝節目](https://zh.wikipedia.org/wiki/Category:香港綜藝節目 "wikilink")
-[Category:香港清談節目](https://zh.wikipedia.org/wiki/Category:香港清談節目 "wikilink")
-[Category:香港惡作劇節目](https://zh.wikipedia.org/wiki/Category:香港惡作劇節目 "wikilink")
-[Category:2016年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2016年香港電視娛樂節目 "wikilink")
-[Category:2017年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2017年香港電視娛樂節目 "wikilink")
+[Category:惡搞文化](https://zh.wikipedia.org/wiki/Category:惡搞文化 "wikilink") [Category:香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目 "wikilink") [Category:香港綜藝節目](https://zh.wikipedia.org/wiki/Category:香港綜藝節目 "wikilink") [Category:香港清談節目](https://zh.wikipedia.org/wiki/Category:香港清談節目 "wikilink") [Category:香港惡作劇節目](https://zh.wikipedia.org/wiki/Category:香港惡作劇節目 "wikilink") [Category:2016年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2016年香港電視娛樂節目 "wikilink") [Category:2017年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2017年香港電視娛樂節目 "wikilink")
 
 1.  第1-15集開場白
 2.  [啜胸含襪喪捽格肋底！爆腎火火聯手攻入林雪禁區](http://viu.tv/readtv/chuo-xiong-han-wa-sang-zuo-ge-lei-di-bao-shen-huo-huo-lian-shou-gong-ru-lin-xue-jin-qu)

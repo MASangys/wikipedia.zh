@@ -1,11 +1,8 @@
-**Team X 3rd
-Stage「夢想的旗幟」公演**是[SNH48的剧场公演](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，此套公演同時也是SNH48
-Team X的首套原創公演。\[1\]
+**Team X 3rd Stage「夢想的旗幟」公演**是[SNH48的剧场公演](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，此套公演同時也是SNH48 Team X的首套原創公演。\[1\]
 
 ## 概要
 
-《梦想的旗帜》是SNH48制作团队为Team
-X量身打造的一套全新原创公演，该套公演以“梦想旗帜”为指引，紧扣“冒险”主题，剧场的灯光舞美布置将切合主题，设计营造出航海寻宝的舞台氛围。
+《梦想的旗帜》是SNH48制作团队为Team X量身打造的一套全新原创公演，该套公演以“梦想旗帜”为指引，紧扣“冒险”主题，剧场的灯光舞美布置将切合主题，设计营造出航海寻宝的舞台氛围。
 
 ## 公演曲目
 
@@ -51,15 +48,18 @@ X量身打造的一套全新原创公演，该套公演以“梦想旗帜”为�
 ### SNH48 Team Ft 1st Stage「夢想的旗幟」公演
 
   - 《寻路者》移动至Encore环节，置于《闪亮加冕》之前
-  - 《寻路者》的位置替换为《ONE TWO THREE\!》，《ONE TWO THREE\!》的位置替换为《Shiny Boys
-    Shiny Girls》，《Shiny Boys Shiny Girls》的位置替换为新曲《For The
-    Future》（作詞：小7　作曲：[清水翔太](../Page/清水翔太.md "wikilink")　编曲：清水翔太）
+  - 《寻路者》的位置替换为《ONE TWO THREE\!》，《ONE TWO THREE\!》的位置替换为《Shiny Boys Shiny Girls》，《Shiny Boys Shiny Girls》的位置替换为新曲《For The Future》（作詞：小7　作曲：[清水翔太](../Page/清水翔太.md "wikilink")　编曲：清水翔太）
   - 《X基因》歌词改编为《F to T》
 
 ### CKG48 Team C 2nd Stage「夢想的旗幟」公演
 
   - 曲顺与Team X版本一致。
   - 《X基因》歌词改编为《C基因》
+
+### BEJ48 Team J 3rd Stage“梦想的旗帜”公演
+
+  - 曲顺与Team X版本一致。
+  - 《X基因》歌词改编为《J基因》
 
 ## SNH48 Team X 3rd Stage「夢想的旗幟」公演
 
@@ -114,6 +114,19 @@ X量身打造的一套全新原创公演，该套公演以“梦想旗帜”为�
       - Monster（**李恩锐**、李姗姗、谯玉珍、陶菀瑞）
       - 人鱼（冉蔚、左欣）
 
+## BEJ48 Team J 3rd Stage「梦想的旗帜」公演
+
+  - 公演期间：2019年7月13日－
+  - 出演成员
+      - 常规16人演出：柏欣妤、陈雅钰、房蕾、黄恩茹、韩家乐、何阳青青、金锣赛、刘闲、刘一菲、孙语姗、唐霖、王雨煊、叶苗苗、杨晔、张怀瑾、周湘
+      - 初日演出：柏欣妤、陈雅钰、房蕾、葛司琪、黄恩茹、韩家乐、何阳青青、金锣赛、刘闲、刘一菲、任心怡、孙语姗、唐霖、王雨煊、叶苗苗、杨晔、张怀瑾、周湘
+  - 分組曲擔當
+      - 梦（何阳青青、刘一菲、**张怀瑾**）
+      - 水手服（陈雅钰、**刘闲**、唐霖、周湘）
+      - 无可替代（柏欣妤、孙语姗、**王雨煊**）
+      - Monster（房蕾、金锣赛、叶苗苗、**杨晔**）
+      - 人鱼（黄恩茹、韩家乐）
+
 ## SNH48年度金曲大賞各曲最高排名
 
 | 歌曲                     | [第3屆](https://zh.wikipedia.org/wiki/SNH48第三屆年度金曲大賞BEST_50 "wikilink") | [第4屆](https://zh.wikipedia.org/wiki/SNH48_Group第四屆年度金曲大賞BEST_50 "wikilink") | [第5届](../Page/SNH48_Group第五届年度金曲大赏BEST_50.md "wikilink") |
@@ -140,17 +153,12 @@ X量身打造的一套全新原创公演，该套公演以“梦想旗帜”为�
 
 ## 外部連結
 
-  - 《梦想的旗帜》于SNH48官网的专页：[Team X版](http://www.snh48.com/event/s165/)/[Team
-    Ft版](http://www.snh48.com/event/s229/)
+  - 《梦想的旗帜》于SNH48官网的专页：[Team X版](http://www.snh48.com/event/s165/)/[Team Ft版](http://www.snh48.com/event/s229/)
   - [《梦想的旗帜》于CKG48官网的专页](http://www.ckg48.com/event/c9/)
 
 [Category:SNH48_Group剧场公演](https://zh.wikipedia.org/wiki/Category:SNH48_Group剧场公演 "wikilink")
 
-1.  [SNH48《梦想的旗帜》10月28日首演
-    X队成员开启冒险追梦之旅](http://www.snh48.com/html/allnews/zixun/2016/1014/1982.html)
-2.  [SNH48原创公演《梦想的旗帜》热血首演
-    X队成员闪耀绽放舞](http://www.snh48.com/html/allnews/zixun/2016/1029/2012.html)
-3.  [“我们是，SHY48 TEAM
-    HIII”| 2月19日，我们来了！](http://www.shy48.com/Home/News/detail/id/61.html)
-4.  [SNH48 TEAM Ft 首套公演《梦想的旗帜》专题上线
-    开启追梦之旅](http://www.snh48.com/html/allnews/zixun/2018/0309/2928.html)
+1.  [SNH48《梦想的旗帜》10月28日首演 X队成员开启冒险追梦之旅](http://www.snh48.com/html/allnews/zixun/2016/1014/1982.html)
+2.  [SNH48原创公演《梦想的旗帜》热血首演 X队成员闪耀绽放舞](http://www.snh48.com/html/allnews/zixun/2016/1029/2012.html)
+3.  [“我们是，SHY48 TEAM HIII”| 2月19日，我们来了！](http://www.shy48.com/Home/News/detail/id/61.html)
+4.  [SNH48 TEAM Ft 首套公演《梦想的旗帜》专题上线 开启追梦之旅](http://www.snh48.com/html/allnews/zixun/2018/0309/2928.html)

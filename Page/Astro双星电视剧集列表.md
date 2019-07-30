@@ -398,7 +398,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/人际关系事务所" title="wikilink">人际关系事务所</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/曹佑宁" title="wikilink">曹佑宁</a>、<a href="https://zh.wikipedia.org/wiki/郭书瑶" title="wikilink">郭书瑶</a>、<a href="https://zh.wikipedia.org/wiki/王柏杰" title="wikilink">王柏杰</a>、<a href="https://zh.wikipedia.org/wiki/马志翔" title="wikilink">马志翔</a>、<a href="https://zh.wikipedia.org/wiki/阳靓" title="wikilink">阳靓</a></p></td>
 <td><p><a href="https://zh-hk.facebook.com/iottBefriend/">网站</a></p></td>
-<td><p>Astro Go与<a href="../Page/爱奇艺.md" title="wikilink">爱奇艺台湾站VIP会员同步上架</a>，<br />
+<td><p>Astro Go与<a href="../Page/爱奇艺.md" title="wikilink">爱奇艺</a>台湾站VIP会员同步上架，<br />
 6月13日上架4集，6月20日起每周三上架2集。</p>
 <hr>
 <p>6月16日 14:30 - 18:00（四集连播）<br />
@@ -442,7 +442,7 @@
 <td><p><a href="../Page/1006的房客.md" title="wikilink">1006的房客</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李国毅" title="wikilink">李国毅</a>、<a href="https://zh.wikipedia.org/wiki/谢欣颖" title="wikilink">谢欣颖</a>、<a href="https://zh.wikipedia.org/wiki/谢坤达" title="wikilink">谢坤达</a>、<a href="https://zh.wikipedia.org/wiki/黄腾浩" title="wikilink">黄腾浩</a>、<a href="https://zh.wikipedia.org/wiki/谢沛恩" title="wikilink">谢沛恩</a>、<a href="https://zh.wikipedia.org/wiki/许光汉" title="wikilink">许光汉</a></p></td>
 <td><p><a href="https://web.facebook.com/meetmeat1006/?_rdc=1&amp;_rdr">网站</a></p></td>
-<td><p>Astro Go与<a href="../Page/爱奇艺.md" title="wikilink">爱奇艺台湾站VIP会员同步上架</a>，<br />
+<td><p>Astro Go与<a href="../Page/爱奇艺.md" title="wikilink">爱奇艺</a>台湾站VIP会员同步上架，<br />
 3月14日上架4集，3月21日起每周三上架2集。<br />
 </p>
 <hr>
@@ -546,7 +546,7 @@
 <td><p>47</p></td>
 <td><p>中国</p></td>
 <td><p><a href="../Page/大江大河.md" title="wikilink">大江大河</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/王凯" title="wikilink">王凯</a>、<a href="https://zh.wikipedia.org/wiki/杨烁" title="wikilink">杨烁</a>、<a href="../Page/董子健.md" title="wikilink">董子健</a>、<a href="../Page/童瑶.md" title="wikilink">童瑶</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王凯" title="wikilink">王凯</a>、<a href="../Page/杨烁.md" title="wikilink">杨烁</a>、<a href="../Page/董子健.md" title="wikilink">董子健</a>、<a href="../Page/童瑶.md" title="wikilink">童瑶</a></p></td>
 <td><p><a href="https://www.weibo.com/dajiang2018?is_hot=1">网站</a></p></td>
 <td><p>星期一至日</p></td>
 </tr>

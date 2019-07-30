@@ -1,13 +1,4 @@
-\-- Module to display an icon with a tooltip such as "Edit this at
-Wikidata" -- Icon will be linked to the Wikidata entry for the article
-where this is placed. -- This message is only displayed if a
-local_parameter is not supplied -- i.e. when called from a template, it
-can be coded not to display the message -- when a local parameter is in
-use, preventing the value form Wikidata being fetched. -- The qid of a
-Wikidata entry can optionally be supplied for testing outside the
-article. -- Usage: --
-{{\#invoke:EditAtWikidata|showMessage|local_parameter}} --
-{{\#invoke:EditAtWikidata|showMessage|qid=\<ArticleID|local_parameter}}
+\-- Module to display an icon with a tooltip such as "Edit this at Wikidata" -- Icon will be linked to the Wikidata entry for the article where this is placed. -- This message is only displayed if a local_parameter is not supplied -- i.e. when called from a template, it can be coded not to display the message -- when a local parameter is in use, preventing the value form Wikidata being fetched. -- The qid of a Wikidata entry can optionally be supplied for testing outside the article. -- Usage: -- {{\#invoke:EditAtWikidata|showMessage|local_parameter}} -- {{\#invoke:EditAtWikidata|showMessage|qid=\<ArticleID|local_parameter}}
 
 local p = {}
 

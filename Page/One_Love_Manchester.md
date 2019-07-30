@@ -1,7 +1,6 @@
-《**One Love Manchester**》是2017年6月4日舉辦的一場，
-也是英國的一個電視特別節目。該音樂會由歌手[爱莉安娜·格兰德為回應](../Page/爱莉安娜·格兰德.md "wikilink")[2017年曼彻斯特竞技场爆炸而發起](https://zh.wikipedia.org/wiki/2017年曼彻斯特竞技场爆炸 "wikilink")，\[1\]在英國[大曼彻斯特郡老特拉福德](https://zh.wikipedia.org/wiki/大曼彻斯特郡 "wikilink")舉辦，\[2\]由和主持，并由[英國廣播公司第一台現場直播](../Page/英國廣播公司第一台.md "wikilink")。音樂會的表演嘉賓包括[贾斯汀·比伯](../Page/贾斯汀·比伯.md "wikilink")、[黑眼豆豆](../Page/黑眼豆豆.md "wikilink")、\[3\][酷玩樂團](../Page/酷玩樂團.md "wikilink")、\[4\][麥莉·希拉](../Page/麥莉·希拉.md "wikilink")、、[奈爾·霍蘭](../Page/奈爾·霍蘭.md "wikilink")、[混合甜心](../Page/混合甜心.md "wikilink")、\[5\][凱蒂·佩芮](../Page/凱蒂·佩芮.md "wikilink")、[接招](../Page/接招.md "wikilink")、[伊莫珍·希普](../Page/伊莫珍·希普.md "wikilink")、[法瑞尔·威廉姆斯](../Page/法瑞尔·威廉姆斯.md "wikilink")、[罗比·威廉斯和](../Page/罗比·威廉斯.md "wikilink")[連恩·蓋勒格等](../Page/連恩·蓋勒格.md "wikilink")。\[6\]\[7\]\[8\]共計50,000人出席了這次活動。
+《**One Love Manchester**》是2017年6月4日舉辦的一場， 也是英國的一個電視特別節目。該音樂會由歌手[爱莉安娜·格兰德](../Page/爱莉安娜·格兰德.md "wikilink")為回應[2017年曼彻斯特竞技场爆炸而發起](https://zh.wikipedia.org/wiki/2017年曼彻斯特竞技场爆炸 "wikilink")，\[1\]在英國[大曼彻斯特郡老特拉福德](https://zh.wikipedia.org/wiki/大曼彻斯特郡 "wikilink")舉辦，\[2\]由和主持，并由[英國廣播公司第一台](../Page/英國廣播公司第一台.md "wikilink")現場直播。音樂會的表演嘉賓包括[贾斯汀·比伯](../Page/贾斯汀·比伯.md "wikilink")、[黑眼豆豆](../Page/黑眼豆豆.md "wikilink")、\[3\][酷玩樂團](../Page/酷玩樂團.md "wikilink")、\[4\][麥莉·希拉](../Page/麥莉·希拉.md "wikilink")、、[奈爾·霍蘭](../Page/奈爾·霍蘭.md "wikilink")、[混合甜心](../Page/混合甜心.md "wikilink")、\[5\][凱蒂·佩芮](../Page/凱蒂·佩芮.md "wikilink")、[接招](../Page/接招.md "wikilink")、[伊莫珍·希普](../Page/伊莫珍·希普.md "wikilink")、[法瑞尔·威廉姆斯](../Page/法瑞尔·威廉姆斯.md "wikilink")、[罗比·威廉斯](../Page/罗比·威廉斯.md "wikilink")和[連恩·蓋勒格](../Page/連恩·蓋勒格.md "wikilink")等。\[6\]\[7\]\[8\]共計50,000人出席了這次活動。
 
-活動取得的收益捐獻給了由和共同創辦的我們愛曼徹斯特緊急基金會（）。\[9\]而基金會收到的資金將流入爆炸事件受害者及其家屬手中。\[10\]英國紅十字會報道稱，該活動在舉辦12小時後收到了1300萬美元的募捐。\[11\]雖然有時差，但超過50個國家在[Twitter](../Page/Twitter.md "wikilink")、[Facebook和](../Page/Facebook.md "wikilink")[YouTube等平台上](../Page/YouTube.md "wikilink")\[12\]都轉播了這次活動的現場直播。\[13\]
+活動取得的收益捐獻給了由和共同創辦的我們愛曼徹斯特緊急基金會（）。\[9\]而基金會收到的資金將流入爆炸事件受害者及其家屬手中。\[10\]英國紅十字會報道稱，該活動在舉辦12小時後收到了1300萬美元的募捐。\[11\]雖然有時差，但超過50個國家在[Twitter](../Page/Twitter.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")和[YouTube](../Page/YouTube.md "wikilink")等平台上\[12\]都轉播了這次活動的現場直播。\[13\]
 
 ## 音樂表演
 
@@ -136,7 +135,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/克里斯·馬汀.md" title="wikilink">克里斯·馬汀與</a><a href="../Page/強尼·邦藍.md" title="wikilink">強尼·邦藍</a></p></td>
+<td><p><a href="../Page/克里斯·馬汀.md" title="wikilink">克里斯·馬汀</a>與<a href="../Page/強尼·邦藍.md" title="wikilink">強尼·邦藍</a></p></td>
 <td><p>* 《{{tsl|en|Don't Look Back in Anger</p></td>
 <td><p>Don't Look Back in Anger}}》 [14]</p></td>
 </tr>
@@ -179,9 +178,7 @@
 
   -
   -
-[Category:2017年音樂](https://zh.wikipedia.org/wiki/Category:2017年音樂 "wikilink")
-[Category:爱莉安娜·格兰德](https://zh.wikipedia.org/wiki/Category:爱莉安娜·格兰德 "wikilink")
-[Category:英國廣播公司電視節目](https://zh.wikipedia.org/wiki/Category:英國廣播公司電視節目 "wikilink")
+[Category:2017年音樂](https://zh.wikipedia.org/wiki/Category:2017年音樂 "wikilink") [Category:爱莉安娜·格兰德](https://zh.wikipedia.org/wiki/Category:爱莉安娜·格兰德 "wikilink") [Category:英國廣播公司電視節目](https://zh.wikipedia.org/wiki/Category:英國廣播公司電視節目 "wikilink")
 
 1.
 

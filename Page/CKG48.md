@@ -1,9 +1,8 @@
-**CKG48**是一個在2017年於[重慶成立的中國大型女子偶像組合](https://zh.wikipedia.org/wiki/重慶 "wikilink")，為[SNH48的姊妹團體](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，隸屬於[重慶絲芭文化傳媒集團有限公司](https://zh.wikipedia.org/wiki/絲芭傳媒 "wikilink")。CKG48的基本定位同樣是秉承SNH48的基本定位，基於「可面對面偶像」的造星理念，具備互聯網思維和參與感精神的近距離養成式大型女子偶像團體，充分吸收SNH48的模式特色和運營經驗，並進行區域化改造\[1\]。CKG48目前共有31名成員，擁有「IDOLS
-Ft」一項計畫。
+**CKG48**是一個在2017年於[重慶成立的中國大型女子偶像組合](https://zh.wikipedia.org/wiki/重慶 "wikilink")，為[SNH48的姊妹團體](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，隸屬於[重慶絲芭文化傳媒集團有限公司](https://zh.wikipedia.org/wiki/絲芭傳媒 "wikilink")。CKG48的基本定位同樣是秉承SNH48的基本定位，基於「可面對面偶像」的造星理念，具備互聯網思維和參與感精神的近距離養成式大型女子偶像團體，充分吸收SNH48的模式特色和運營經驗，並進行區域化改造\[1\]。CKG48目前共有32名成員，擁有「IDOLS Ft」一項計畫。
 
 ## 概要
 
-CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆 "wikilink")[中國本土化大型女子偶像團體](../Page/中國.md "wikilink")，而自2019年起運營公司宣布CKG48相關業務將全面輻射至[重慶](https://zh.wikipedia.org/wiki/重慶 "wikilink")、[四川](https://zh.wikipedia.org/wiki/四川 "wikilink")、[雲南](https://zh.wikipedia.org/wiki/雲南 "wikilink")、[貴州等西南地區](https://zh.wikipedia.org/wiki/貴州 "wikilink")。CKG48為SNH48第四個姊妹團，但與其他SNH48姊妹團不同，CKG48並非以「重慶」的[漢語拼音縮寫命名](https://zh.wikipedia.org/wiki/漢語拼音 "wikilink")，組合名稱取自「重慶」的[邮政式拼音](https://zh.wikipedia.org/wiki/邮政式拼音 "wikilink")（**C**hung**k**in**g**）的縮寫「CKG」（亦正是[重慶江北國際機場的](https://zh.wikipedia.org/wiki/重慶江北國際機場 "wikilink")[IATA代碼](https://zh.wikipedia.org/wiki/IATA代碼 "wikilink")）。2017年6月2日，絲芭傳媒舉行SNH48第四屆總決選啟動儀式宣佈SNH48第四個姊妹團CKG48成立，同時開啟一期生招募\[2\]。CKG48以重慶為中心進行演藝活動，曾为其專屬表演場地的「[CKG48星夢劇院](https://zh.wikipedia.org/wiki/CKG48星夢劇院 "wikilink")」位於[重慶](https://zh.wikipedia.org/wiki/重慶 "wikilink")[南岸区](../Page/南岸区.md "wikilink")[國瑞中心于](https://zh.wikipedia.org/wiki/國瑞中心 "wikilink")2017年11月开业，并于2018年12月31日起停止营业。
+CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆 "wikilink")[中國](../Page/中國.md "wikilink")本土化大型女子偶像團體，而自2019年起運營公司宣布CKG48相關業務將全面輻射至[重慶](https://zh.wikipedia.org/wiki/重慶 "wikilink")、[四川](https://zh.wikipedia.org/wiki/四川 "wikilink")、[雲南](https://zh.wikipedia.org/wiki/雲南 "wikilink")、[貴州等西南地區](https://zh.wikipedia.org/wiki/貴州 "wikilink")。CKG48為SNH48第四個姊妹團，但與其他SNH48姊妹團不同，CKG48並非以「重慶」的[漢語拼音縮寫命名](https://zh.wikipedia.org/wiki/漢語拼音 "wikilink")，組合名稱取自「重慶」的[邮政式拼音](https://zh.wikipedia.org/wiki/邮政式拼音 "wikilink")（**C**hung**k**in**g**）的縮寫「CKG」（亦正是[重慶江北國際機場的](https://zh.wikipedia.org/wiki/重慶江北國際機場 "wikilink")[IATA代碼](https://zh.wikipedia.org/wiki/IATA代碼 "wikilink")）。2017年6月2日，絲芭傳媒舉行SNH48第四屆總決選啟動儀式宣佈SNH48第四個姊妹團CKG48成立，同時開啟一期生招募\[2\]。CKG48以重慶為中心進行演藝活動，曾为其專屬表演場地的「[CKG48星夢劇院](https://zh.wikipedia.org/wiki/CKG48星夢劇院 "wikilink")」位於[重慶](https://zh.wikipedia.org/wiki/重慶 "wikilink")[南岸区](../Page/南岸区.md "wikilink")[國瑞中心于](https://zh.wikipedia.org/wiki/國瑞中心 "wikilink")2017年11月开业，并于2018年12月31日起停止营业。
 
 ## 略歷
 
@@ -14,8 +13,7 @@ CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆
   - 6月2日，[SNH48第四屆總決選演唱會發佈會上](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，宣布SNH48第四個官方姊妹團體CKG48成立，並啟動CKG48一期生招募活動\[3\]
   - 7月29日，CKG48聯合SNH48、BEJ48、GNZ48、SHY48開始招募SNH48九期生、BEJ48四期生、GNZ48四期生、SHY48四期生、CKG48二期生\[4\]。
   - 10月27日，舉辦成員亮相暨新聞發布會，宣告CKG48將於11月3日、11月4日正式出道\[5\]。
-  - 11月3日，Team
-    C舉行《[第1人称](https://zh.wikipedia.org/wiki/Team_NIII_2nd_Stage“第1人称”公演#CKG48_Team_C_1st_Stage「第1人称」公演 "wikilink")》首演\[6\]。
+  - 11月3日，Team C舉行《[第1人称](https://zh.wikipedia.org/wiki/Team_NIII_2nd_Stage“第1人称”公演#CKG48_Team_C_1st_Stage「第1人称」公演 "wikilink")》首演\[6\]。
   - 11月4日，Team K舉行《奇幻加冕禮》首演\[7\]。
   - 12月3日，CKG48聯合SNH48、BEJ48、GNZ48、SHY48開始招募SNH48十期生、BEJ48五期生、GNZ48五期生、SHY48五期生、CKG48三期生\[8\]。
   - 12月24日，發行第1張EP《[甜蜜盛典](https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#甜蜜盛典 "wikilink")》\[9\]。
@@ -32,20 +30,15 @@ CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆
   - 4月6日，舉行「星梦游园会」\[13\]。
   - 4月7日，公佈8名二期生成員\[14\]。
   - 4月20日，在重慶文化宮大劇院舉辦「MIXING」SNH48×CKG48 重慶站，活動由「咪咕音樂」冠名\[15\]。
-  - 5月25-26日，聯同SHY48在SNH48
-    Group專屬狼人殺APP《48狼人殺》舉辦《双城记PK赛》大型狼人殺馬拉松對抗賽，SHY48与CKG48成員在24小時裏輪流進行48場馬拉松式直播比賽\[16\]。
+  - 5月25-26日，聯同SHY48在SNH48 Group專屬狼人殺APP《48狼人殺》舉辦《双城记PK赛》大型狼人殺馬拉松對抗賽，SHY48与CKG48成員在24小時裏輪流進行48場馬拉松式直播比賽\[16\]。
   - 6月16日，Team K舉行《美麗世界》首演\[17\]。
-  - 6月29日，SNH48
-    Group运营方上海丝芭文化传媒集团有限公司正式宣布，将开启首次全集团最大规模偶像艺人招募，进一步推动新生代优质偶像的培养。本届招募包括SNH48
-    Group成员招募、丝芭传媒集团偶像练习生（韩国模式练习生）与米娜演员工作室（影视表演艺人），不限男女，入选选手将接受国内外的专业艺人培训\[18\]。
+  - 6月29日，SNH48 Group运营方上海丝芭文化传媒集团有限公司正式宣布，将开启首次全集团最大规模偶像艺人招募，进一步推动新生代优质偶像的培养。本届招募包括SNH48 Group成员招募、丝芭传媒集团偶像练习生（韩国模式练习生）与米娜演员工作室（影视表演艺人），不限男女，入选选手将接受国内外的专业艺人培训\[18\]。
   - 6月30日，Team C舉行《夢想的旗幟》首演\[19\]。
   - 8月19日，冠名[CGV影城重庆U城店](../Page/CJ_CGV.md "wikilink")，并与CGV影城合作，在影城打造CKG48冠名及专属主题影厅，并成立“CKG48冠名厅”\[20\]。
   - 9月16日，在新光天地重慶舉辦「星與心的同行」CKG48總選答謝活動。
   - 11月3日，在“一束光的梦想”一周年联合特别公演上发表以下事项：
-      - 公布CKG48星梦剧院2017-2018年度剧场MVP，分别由Team C成员冉蔚及Team
-        K成员王露皎获得；\[21\]\[22\]
-      - 预备生康兆薇升格为Team C成员，预备生曹露丹、戴紫薇、方琪、郭爽、彭榆涵、周桐冉升格为Team
-        K成员；\[23\]\[24\]
+      - 公布CKG48星梦剧院2017-2018年度剧场MVP，分别由Team C成员冉蔚及Team K成员王露皎获得；\[21\]\[22\]
+      - 预备生康兆薇升格为Team C成员，预备生曹露丹、戴紫薇、方琪、郭爽、彭榆涵、周桐冉升格为Team K成员；\[23\]\[24\]
       - 经重庆、北京两地运营方慎重考虑，及与成员本人沟通后，Team C成员柏欣妤正式兼任BEJ48 Team J。\[25\]
 
 <!-- end list -->
@@ -54,17 +47,14 @@ CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆
 
 <!-- end list -->
 
-  - 1月19日，于[SNH48 Group第五屆年度金曲大賞BEST
-    50发布以下调整](https://zh.wikipedia.org/wiki/SNH48_Group第五屆年度金曲大賞BEST_50 "wikilink")：
+  - 1月19日，于[SNH48 Group第五屆年度金曲大賞BEST 50发布以下调整](https://zh.wikipedia.org/wiki/SNH48_Group第五屆年度金曲大賞BEST_50 "wikilink")：
       - Team C以及Team K解散；
       - 部分成员移籍至[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")、[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")、[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")；
       - 部分成员加入基于互联网的偶像养成女团「IDOLS Ft」。
-  - 3月3日，运营公司宣布CKG48将舉辦CKG48《少女•山茶》系列公演。《少女•山茶》系列公演将分为「生命」、「成长」、「绽放」三个章节，这也是CKG48自2019年首次公演。
-  - 3月16日，CKG48在重庆重演时代艺术中心举行《Miss Camellia》首演。
+  - 3月3日，运营公司宣布CKG48将舉辦CKG48《少女•山茶》（Miss Camellia）系列公演。《少女•山茶》系列公演将分为「生命」、「成长」、「绽放」三个章节，这也是CKG48自2019年首次公演。
+  - 3月16日，CKG48在重庆重演时代艺术中心举行《少女•山茶•生命》公演首演。
   - 4月7日，在重慶寅派動力舉辦「青春的約定·CKG48春季限定演出」，同時有以下事項發表：
-      - 凡IDOLS
-        Ft成員均可參加CKG48的多項綜合考核，達標者可參加CKG48所有相關活動。同時宣布SHY48一期生李慧通過CKG48對於IDOLS
-        Ft成員的考核，正式加入CKG48；
+      - 凡IDOLS Ft成員均可參加CKG48的多項綜合考核，達標者可參加CKG48所有相關活動。同時宣布SHY48一期生李慧通過CKG48對於IDOLS Ft成員的考核，正式加入CKG48；
       - CKG48將聯合MAX伯爵，共同製作CKG48首檔實境真人秀「密逃少女」；
       - CKG48將啟動綜藝節目「熱血少女」，以線上綜藝和線下比賽相結合，競選CKG48五人小組合；
       - CKG48於2019年起，正式將公演、外務等相關業務，全面輻射至[重慶](https://zh.wikipedia.org/wiki/重慶 "wikilink")、[四川](https://zh.wikipedia.org/wiki/四川 "wikilink")、[雲南](https://zh.wikipedia.org/wiki/雲南 "wikilink")、[貴州等西南地區](https://zh.wikipedia.org/wiki/貴州 "wikilink")。
@@ -72,12 +62,14 @@ CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆
   - 6月2日，在重慶寅派動力舉辦「盛夏好声音·CKG48夏季限定演出」，同時有以下事項發表：
       - SHY48一期生杨允涵通過CKG48對於IDOLS Ft成員的考核，正式加入CKG48。
   - 6月22日，SHY48一期生张幼柠通過CKG48的考核，正式加入CKG48。
+  - 7月20日，在成都乐空间举行《少女•山茶•成长》公演首演，同时有以下事项发表。
+      - GNZ48六期生鄢羽蝶通过CKG48对于IDOLS Ft成员的考核，正式加入CKG48。
 
 ## 成員名單
 
 ### 正式成员
 
-  - 成员19人，全部成员目前均为[IDOLS Ft成员](../Page/IDOLS_Ft.md "wikilink")。
+  - 成员20人，全部成员目前均为[IDOLS Ft成员](../Page/IDOLS_Ft.md "wikilink")。
 
 | 正式成员 |
 | ---- |
@@ -97,6 +89,7 @@ CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆
 | 王梦竹  |
 | 魏小燕  |
 | 吴学雨  |
+| 鄢羽蝶  |
 | 杨允涵  |
 | 曾佳   |
 | 左欣   |
@@ -625,6 +618,14 @@ Team C陶菀瑞，Team K刘炅然，预备生余梦露暂休</p></td>
 <td><p>(19)</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>7月20日</p></td>
+<td><p>IDOLS Ft鄢羽蝶加入CKG48</p></td>
+<td><p>+1</p></td>
+<td><p>32</p></td>
+<td><p>(20)</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -764,17 +765,18 @@ CKG99100118</p></td>
 
   - 中國
 
-| 名稱                              | 日期     | 地點       | 備註  |
-| ------------------------------- | ------ | -------- | --- |
-| 2018年                           |        |          |     |
-| 【咪咕音乐现场】“MIXING”SNH48×CKG48 重庆站 | 4月20日  | 重庆文化宫大剧院 |     |
-| 「星与心的同行」CKG48总选答谢活动             | 9月16日  | 新光天地重庆   |     |
-| 让梦想闪耀•CKG48冬季限定演出               | 12月14日 | 重庆寅派动力   |     |
-|                                 |        |          |     |
-| 2019年                           |        |          |     |
-| 青春的约定•CKG48春季限定演出               | 4月7日   | 重庆寅派动力   |     |
-| CKG48《奇幻的加冕旅程》巡演                | 5月1-2日 | 成都乐空间    | 成都站 |
-| 盛夏好声音•CKG48夏季限定演出               | 6月2日   | 重庆寅派动力   |     |
+| 名稱                              | 日期       | 地點       | 備註  |
+| ------------------------------- | -------- | -------- | --- |
+| 2018年                           |          |          |     |
+| 【咪咕音乐现场】“MIXING”SNH48×CKG48 重庆站 | 4月20日    | 重庆文化宫大剧院 |     |
+| 「星与心的同行」CKG48总选答谢活动             | 9月16日    | 新光天地重庆   |     |
+| 让梦想闪耀•CKG48冬季限定演出               | 12月14日   | 重庆寅派动力   |     |
+|                                 |          |          |     |
+| 2019年                           |          |          |     |
+| 青春的约定•CKG48春季限定演出               | 4月7日     | 重庆寅派动力   |     |
+| CKG48《奇幻的加冕旅程》巡演                | 5月1-2日   | 成都乐空间    | 成都站 |
+| 盛夏好声音•CKG48夏季限定演出               | 6月2日     | 重庆寅派动力   |     |
+| CKG48《少女·山茶·成长》巡演               | 7月20-21日 | 成都乐空间    | 成都站 |
 
 ## 演出
 
@@ -816,7 +818,7 @@ CKG99100118</p></td>
 
 ### 于重演时代艺术中心的公演
 
-**重演时代艺术中心**，是位于中国[重慶市](https://zh.wikipedia.org/wiki/重慶市 "wikilink")[渝中区重庆](../Page/渝中区.md "wikilink")[龙湖时代天街D馆](https://zh.wikipedia.org/wiki/龙湖地产 "wikilink")3楼的一座小型剧场，重慶絲芭文化将其租用后作为CKG48的固定演出场地，但亦有部分其他话剧及舞台剧团体在此演出\[26\]。
+**重演时代艺术中心**，是位于中国[重慶市](https://zh.wikipedia.org/wiki/重慶市 "wikilink")[渝中区](../Page/渝中区.md "wikilink")重庆[龙湖时代天街D馆](https://zh.wikipedia.org/wiki/龙湖地产 "wikilink")3楼的一座小型剧场，重慶絲芭文化将其租用后作为CKG48的固定演出场地，但亦有部分其他话剧及舞台剧团体在此演出\[26\]。
 
 #### 介紹
 
@@ -843,8 +845,7 @@ CKG99100118</p></td>
 #### 附近交通
 
   - [CRT_Logo.svg](https://zh.wikipedia.org/wiki/File:CRT_Logo.svg "fig:CRT_Logo.svg")[重庆轨道交通](../Page/重庆轨道交通.md "wikilink")：
-      - [石油路站](https://zh.wikipedia.org/wiki/石油路站 "wikilink")&
-        [袁家岗站](https://zh.wikipedia.org/wiki/袁家岗站 "wikilink")
+      - [石油路站](https://zh.wikipedia.org/wiki/石油路站 "wikilink")& [袁家岗站](https://zh.wikipedia.org/wiki/袁家岗站 "wikilink")
   - [重慶公交](https://zh.wikipedia.org/wiki/重慶公交 "wikilink")：
       - 225路;403路;411路;416路;466路;471路;476路;0493路;836路;873路;T019路
 
@@ -883,11 +884,7 @@ CKG99100118</p></td>
   -
   -
   -
-[Category:SNH48_Group](https://zh.wikipedia.org/wiki/Category:SNH48_Group "wikilink")
-[Category:重慶文化](https://zh.wikipedia.org/wiki/Category:重慶文化 "wikilink")
-[Category:中国女子演唱团体](https://zh.wikipedia.org/wiki/Category:中国女子演唱团体 "wikilink")
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
-[Category:2017年中國建立](https://zh.wikipedia.org/wiki/Category:2017年中國建立 "wikilink")
+[Category:SNH48_Group](https://zh.wikipedia.org/wiki/Category:SNH48_Group "wikilink") [Category:重慶文化](https://zh.wikipedia.org/wiki/Category:重慶文化 "wikilink") [Category:中国女子演唱团体](https://zh.wikipedia.org/wiki/Category:中国女子演唱团体 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:2017年中國建立](https://zh.wikipedia.org/wiki/Category:2017年中國建立 "wikilink")
 
 1.
 2.

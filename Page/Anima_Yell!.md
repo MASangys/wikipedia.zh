@@ -1,12 +1,8 @@
-是日本漫畫家[卯花つかさ的](../Page/卯花つかさ.md "wikilink")[四格漫畫作品](../Page/四格漫畫.md "wikilink")，於[芳文社的雜誌](../Page/芳文社.md "wikilink")《[Manga
-Time Kirara
-Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2016年4月號開始連載\[1\]。已發行3冊[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")\[2\]。於《Manga
-Time Kirara
-Carat》2018年3月號宣布電視動畫化\[3\]，由[動畫工房製作](../Page/動畫工房.md "wikilink")。[AT-X等電視台於](../Page/AT-X.md "wikilink")2018年10月開始播放[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[4\]。
+是日本漫畫家[卯花つかさ](../Page/卯花つかさ.md "wikilink")的[四格漫畫](../Page/四格漫畫.md "wikilink")作品，於[芳文社](../Page/芳文社.md "wikilink")的雜誌《[Manga Time Kirara Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2016年4月號開始連載\[1\]。已發行4冊[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")\[2\]。於《Manga Time Kirara Carat》2018年3月號宣布電視動畫化\[3\]，由[動畫工房](../Page/動畫工房.md "wikilink")製作。[AT-X](../Page/AT-X.md "wikilink")等電視台於2018年10月開始播放[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[4\]。
 
 ## 故事簡介
 
-鳩谷小羽在中學畢業前，見到了河堤邊[啦啦隊為棒球隊加油的景象而入迷](../Page/啦啦隊.md "wikilink")，而打算上了高中後要加入啦啦隊社，但小羽就讀的高中並沒有啦啦隊社。在遇到了有過啦啦隊經驗的有馬日詰後，小羽下定決心要自己創立社團，而開始招募社員。說服日詰參加後，青梅竹馬猿渡宇希、同班同學館島虎徹也陸續加入，正式成立了啦啦隊同好會。
+鳩谷小羽在中學畢業前，見到了河堤邊[啦啦隊](../Page/啦啦隊.md "wikilink")為棒球隊加油的景象而入迷，而打算上了高中後要加入啦啦隊社，但小羽就讀的高中並沒有啦啦隊社。在遇到了有過啦啦隊經驗的有馬日詰後，小羽下定決心要自己創立社團，而開始招募社員。說服日詰參加後，青梅竹馬猿渡宇希、同班同學館島虎徹也陸續加入，正式成立了啦啦隊同好會。
 
 ## 登場角色
 
@@ -70,18 +66,20 @@ Carat》2018年3月號宣布電視動畫化\[3\]，由[動畫工房製作](../Pa
 <td><p>3</p></td>
 <td><p>2018年9月27日</p></td>
 </tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2019年7月25日</p></td>
+</tr>
 </tbody>
 </table>
 
 ## 電視動畫
 
-2018年10月起於[AT-X等台播出](../Page/AT-X.md "wikilink")。
+2018年10月起於[AT-X](../Page/AT-X.md "wikilink")等台播出。
 
 ### 工作人員
 
-  - 原作：[卯花つかさ](../Page/卯花つかさ.md "wikilink")（[芳文社](../Page/芳文社.md "wikilink")「[Manga
-    Time Kirara
-    Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")」連載）
+  - 原作：[卯花つかさ](../Page/卯花つかさ.md "wikilink")（[芳文社](../Page/芳文社.md "wikilink")「[Manga Time Kirara Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")」連載）
   - 導演：佐藤雅子
   - 劇本統籌、編劇：[志茂文彥](../Page/志茂文彥.md "wikilink")
   - 人物設計：
@@ -116,8 +114,7 @@ Carat》2018年3月號宣布電視動畫化\[3\]，由[動畫工房製作](../Pa
 
 :; 「」（第1、2話）
 
-::
-作詞：麻倉真琴，作曲：[浅倉大介](https://zh.wikipedia.org/wiki/浅倉大介 "wikilink")，編曲：吉田穣，主唱：XAI
+:: 作詞：麻倉真琴，作曲：[浅倉大介](https://zh.wikipedia.org/wiki/浅倉大介 "wikilink")，編曲：吉田穣，主唱：XAI
 
 :; 「The Journey」（第2、9、12話）
 
@@ -296,7 +293,7 @@ Jumondou Seoul</p></td>
 | --------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------- | --- |
 | 日本全国                                                | [AT-X](../Page/AT-X.md "wikilink")                            | 2018年10月7日 -12月23日                     | 星期日 23:30 - 星期一 0:00                                                                                          | [CS卫星](../Page/日本卫星电视广播.md "wikilink") | 有重播 |
 | [东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink") | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 2018年10月8日 -                           | 星期一 0:00 - 0:30                                                                                               |                                        | 有重播 |
-| 日本全国                                                | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")         | [BS卫星](../Page/日本卫星电视广播.md "wikilink") | [ANIME+时段](../Page/ANIME+.md "wikilink")                                                                      |                                        |     |
+| 日本全国                                                | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")         | [BS卫星](../Page/日本卫星电视广播.md "wikilink") | [ANIME+](../Page/ANIME+.md "wikilink")时段                                                                      |                                        |     |
 
 ### BD／DVD
 
@@ -315,15 +312,7 @@ Jumondou Seoul</p></td>
   - [电视动画《Anima Yell\!》官方网站](http://animayell.com/)
 
   -
-[Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink")
-[Category:女子運動題材作品](https://zh.wikipedia.org/wiki/Category:女子運動題材作品 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink")
-[Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink")
-[Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink")
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
-[Category:愛奇藝外購動畫](https://zh.wikipedia.org/wiki/Category:愛奇藝外購動畫 "wikilink")
-[Category:Bilibili外購動畫](https://zh.wikipedia.org/wiki/Category:Bilibili外購動畫 "wikilink")
+[Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink") [Category:女子運動題材作品](https://zh.wikipedia.org/wiki/Category:女子運動題材作品 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink") [Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:愛奇藝外購動畫](https://zh.wikipedia.org/wiki/Category:愛奇藝外購動畫 "wikilink") [Category:Bilibili外購動畫](https://zh.wikipedia.org/wiki/Category:Bilibili外購動畫 "wikilink")
 
 1.
 

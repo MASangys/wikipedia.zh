@@ -1,9 +1,8 @@
-《**Remember-兒子的戰爭**》（，），或稱：**記得我愛你**、**記憶復仇**，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2015年12月9日起播出的[水木迷你連續劇](https://zh.wikipedia.org/wiki/SBS水木迷你連續劇 "wikilink")，由[俞承豪](../Page/俞承豪.md "wikilink")、[朴誠雄](../Page/朴誠雄.md "wikilink")、[朴敏英](https://zh.wikipedia.org/wiki/朴敏英 "wikilink")、[鄭惠成及](../Page/鄭惠成.md "wikilink")[南宮珉主演](../Page/南宮珉.md "wikilink")，《[美女的誕生](../Page/美女的誕生.md "wikilink")》導演[李昌民執導以及](../Page/李昌民.md "wikilink")《[辯護人](../Page/辯護人_\(電影\).md "wikilink")》編劇[尹賢浩執筆](https://zh.wikipedia.org/wiki/尹賢浩 "wikilink")。
+《**Remember-兒子的戰爭**》（，），或稱：**記得我愛你**、**記憶復仇**，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2015年12月9日起播出的[水木迷你連續劇](https://zh.wikipedia.org/wiki/SBS水木迷你連續劇 "wikilink")，由[俞承豪](../Page/俞承豪.md "wikilink")、[朴誠雄](../Page/朴誠雄.md "wikilink")、[朴敏英](https://zh.wikipedia.org/wiki/朴敏英 "wikilink")、[鄭惠成](../Page/鄭惠成.md "wikilink")及[南宮珉](../Page/南宮珉.md "wikilink")主演，《[美女的誕生](../Page/美女的誕生.md "wikilink")》導演[李昌民](../Page/李昌民.md "wikilink")執導以及《[辯護人](../Page/辯護人_\(電影\).md "wikilink")》編劇[尹賢浩執筆](https://zh.wikipedia.org/wiki/尹賢浩 "wikilink")。
 
 ## 劇情簡介
 
-患有記憶過剩症候群而無法忘記任何事情的主人公——徐振宇（[俞承豪](../Page/俞承豪.md "wikilink")
-飾），雖然在別人眼裡是記憶天才，但真正的他，卻因為擁有無論是喜悅和悲傷還是痛苦，種種記憶都比普通人深刻數百倍的能力，被醫生診斷為「障礙」。
+患有記憶過剩症候群而無法忘記任何事情的主人公——徐振宇（[俞承豪](../Page/俞承豪.md "wikilink") 飾），雖然在別人眼裡是記憶天才，但真正的他，卻因為擁有無論是喜悅和悲傷還是痛苦，種種記憶都比普通人深刻數百倍的能力，被醫生診斷為「障礙」。
 
 積極樂觀的他克服自身的障礙，開始作為律師所向披靡之時，人生再一次向他拋出了殘酷命運的問卷。因為社會高層的陰謀，振宇的父親——徐載赫（[田光烈飾](../Page/田光烈_\(韓國\).md "wikilink")）被扣上了冤屈的罪名，被指證為全國民性案件「西村女大學生殺人案」的嫌疑人，宣判為死刑。
 
@@ -173,7 +172,7 @@
 
 ### 其他搭配歌曲
 
-  - 台灣[東森電視版本](../Page/東森電視.md "wikilink")
+  - 台灣[東森電視](../Page/東森電視.md "wikilink")版本
       - 片頭曲：[有感覺](../Page/有感覺.md "wikilink")《遍體鱗傷》
       - 片尾曲：[有感覺](../Page/有感覺.md "wikilink")《錯了嗎》
 
@@ -329,8 +328,7 @@
 ## 同時段競爭節目
 
   - [KBS](../Page/韓國放送公社.md "wikilink")：《[生意之神－客主2015](../Page/生意之神－客主2015.md "wikilink")》
-  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[甜蜜殺氣的家族](../Page/甜蜜殺氣的家族.md "wikilink")》、《[再一次
-    Happy Ending](../Page/再一次_Happy_Ending.md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[甜蜜殺氣的家族](../Page/甜蜜殺氣的家族.md "wikilink")》、《[再一次 Happy Ending](../Page/再一次_Happy_Ending.md "wikilink")》
 
 ## 獎項
 
@@ -431,11 +429,7 @@
 
   - [韓國SBS官方網站](http://program.sbs.co.kr/builder/programMainList.do?pgm_id=22000008869)
 
-[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink")
-[Category:律師題材電視劇](https://zh.wikipedia.org/wiki/Category:律師題材電視劇 "wikilink")
-[Category:韓國律政劇](https://zh.wikipedia.org/wiki/Category:韓國律政劇 "wikilink")
-[Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:律師題材電視劇](https://zh.wikipedia.org/wiki/Category:律師題材電視劇 "wikilink") [Category:韓國律政劇](https://zh.wikipedia.org/wiki/Category:韓國律政劇 "wikilink") [Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
 1.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 2.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)

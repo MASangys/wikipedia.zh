@@ -1,5 +1,4 @@
-《**Good Morning Call
-愛情起床號**》是[高須賀由枝的漫畫書](https://zh.wikipedia.org/wiki/高須賀由枝 "wikilink")。
+《**Good Morning Call 愛情起床號**》是[高須賀由枝的漫畫書](https://zh.wikipedia.org/wiki/高須賀由枝 "wikilink")。
 
 ## 動畫
 
@@ -12,8 +11,7 @@
 
 ## 電視劇
 
-《**Good Morning Call
-愛情起床號**》改編自[高須賀由枝的暢銷漫畫書的原創戲劇影集](https://zh.wikipedia.org/wiki/高須賀由枝 "wikilink")，這部漫畫在1997年到2002年間在集英社的少女漫畫雜誌「[Ribon](../Page/Ribon.md "wikilink")」連載。同時於2016年富士電視台網站與[Netflix網路平台上播出的原創日劇影集](../Page/Netflix.md "wikilink")。
+《**Good Morning Call 愛情起床號**》改編自[高須賀由枝的暢銷漫畫書的原創戲劇影集](https://zh.wikipedia.org/wiki/高須賀由枝 "wikilink")，這部漫畫在1997年到2002年間在集英社的少女漫畫雜誌「[Ribon](../Page/Ribon.md "wikilink")」連載。同時於2016年富士電視台網站與[Netflix](../Page/Netflix.md "wikilink")網路平台上播出的原創日劇影集。
 
 ### 故事大綱
 
@@ -57,18 +55,4 @@
 
 ## 外部連結
 
-[Category:Ribon](https://zh.wikipedia.org/wiki/Category:Ribon "wikilink")
-[Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink")
-[Category:中學背景漫畫](https://zh.wikipedia.org/wiki/Category:中學背景漫畫 "wikilink")
-[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink")
-[Category:2001年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2001年日本OVA動畫 "wikilink")
-[Category:戀愛動畫](https://zh.wikipedia.org/wiki/Category:戀愛動畫 "wikilink")
-[Category:中學背景動畫](https://zh.wikipedia.org/wiki/Category:中學背景動畫 "wikilink")
-[Category:2016年亮相的日本網絡劇](https://zh.wikipedia.org/wiki/Category:2016年亮相的日本網絡劇 "wikilink")
-[Category:2017年亮相的日本網絡劇](https://zh.wikipedia.org/wiki/Category:2017年亮相的日本網絡劇 "wikilink")
-[Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink")
-[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink")
-[Category:大學背景電視劇](https://zh.wikipedia.org/wiki/Category:大學背景電視劇 "wikilink")
-[Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink")
-[Category:Netflix原创节目](https://zh.wikipedia.org/wiki/Category:Netflix原创节目 "wikilink")
-[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
+[Category:Ribon](https://zh.wikipedia.org/wiki/Category:Ribon "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:中學背景漫畫](https://zh.wikipedia.org/wiki/Category:中學背景漫畫 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:2001年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2001年日本OVA動畫 "wikilink") [Category:戀愛動畫](https://zh.wikipedia.org/wiki/Category:戀愛動畫 "wikilink") [Category:中學背景動畫](https://zh.wikipedia.org/wiki/Category:中學背景動畫 "wikilink") [Category:2016年亮相的日本網絡劇](https://zh.wikipedia.org/wiki/Category:2016年亮相的日本網絡劇 "wikilink") [Category:2017年亮相的日本網絡劇](https://zh.wikipedia.org/wiki/Category:2017年亮相的日本網絡劇 "wikilink") [Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:大學背景電視劇](https://zh.wikipedia.org/wiki/Category:大學背景電視劇 "wikilink") [Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink") [Category:Netflix原创节目](https://zh.wikipedia.org/wiki/Category:Netflix原创节目 "wikilink") [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")

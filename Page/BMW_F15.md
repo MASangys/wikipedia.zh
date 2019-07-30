@@ -1,16 +1,14 @@
-****是[德国汽车制造商](../Page/德国.md "wikilink")[BMW所生产的一款跨界](../Page/BMW.md "wikilink")[运动型多用途车](../Page/运动型多用途车.md "wikilink")。作为[BMW
-X5的第三代车型](../Page/BMW_X5.md "wikilink")，它与前作车型使用相同的[平台](../Page/汽车平台.md "wikilink")，但有着更全面的改款，其中包括内部及外部的表面变化。该型号于2013年5月30日首次向公众发布，并在同年的[法兰克福车展率先亮相](https://zh.wikipedia.org/wiki/法兰克福车展 "wikilink")。
+****是[德国](../Page/德国.md "wikilink")汽车制造商[BMW](../Page/BMW.md "wikilink")所生产的一款跨界[运动型多用途车](../Page/运动型多用途车.md "wikilink")。作为[BMW X5的第三代车型](../Page/BMW_X5.md "wikilink")，它与前作车型使用相同的[平台](../Page/汽车平台.md "wikilink")，但有着更全面的改款，其中包括内部及外部的表面变化。该型号于2013年5月30日首次向公众发布，并在同年的[法兰克福车展率先亮相](https://zh.wikipedia.org/wiki/法兰克福车展 "wikilink")。
 
 ## 发布
 
-F15最早在2013年的[法兰克福车展揭幕](https://zh.wikipedia.org/wiki/法兰克福车展 "wikilink")\[1\]。初期提供的的X5版本包括有xDrive50i、xDrive30d和M50d，xDrive40d、xDrive35i、xDrive25d以及sDrive25d则在2013年12月加入\[2\]。而X5的美规版本是在2013年第四季度进驻[美国展厅](../Page/美国.md "wikilink")，初期的版本包括sDrive35i、xDrive35i、xDrive50i，以及随后于2014年初发布的xDrive35d\[3\]\[4\]。
+F15最早在2013年的[法兰克福车展揭幕](https://zh.wikipedia.org/wiki/法兰克福车展 "wikilink")\[1\]。初期提供的的X5版本包括有xDrive50i、xDrive30d和M50d，xDrive40d、xDrive35i、xDrive25d以及sDrive25d则在2013年12月加入\[2\]。而X5的美规版本是在2013年第四季度进驻[美国](../Page/美国.md "wikilink")展厅，初期的版本包括sDrive35i、xDrive35i、xDrive50i，以及随后于2014年初发布的xDrive35d\[3\]\[4\]。
 
 ## 设计
 
-型号为F15的第三代[BMW
-X5与前作车型](../Page/BMW_X5.md "wikilink")相比，其长度增加了5毫米、宽度增加了26毫米、高度则降低了14毫米，但轴距仍维持2933毫米。F15的前部的设计元素取自[3系列的](../Page/BMW_3系列.md "wikilink")[F30](../Page/BMW_F30.md "wikilink")，后者则与当时其它[X系列的车型类似](https://zh.wikipedia.org/wiki/BMW_X系列 "wikilink")。其外观是由BMW设计师马克·约翰逊（）所设计，它是在2010年获得批准，并于2011年敲定量产\[5\]。
+型号为F15的第三代[BMW X5与前作车型](../Page/BMW_X5.md "wikilink")相比，其长度增加了5毫米、宽度增加了26毫米、高度则降低了14毫米，但轴距仍维持2933毫米。F15的前部的设计元素取自[3系列的](../Page/BMW_3系列.md "wikilink")[F30](../Page/BMW_F30.md "wikilink")，后者则与当时其它[X系列的车型类似](https://zh.wikipedia.org/wiki/BMW_X系列 "wikilink")。其外观是由BMW设计师马克·约翰逊（）所设计，它是在2010年获得批准，并于2011年敲定量产\[5\]。
 
-BMW声称，第三代X5的车身采用超高强度钢、[热塑性塑料侧板](https://zh.wikipedia.org/wiki/热塑性塑料 "wikilink")、[铝制发动机罩和](../Page/铝.md "wikilink")[镁材仪表板](../Page/镁.md "wikilink")，多个细节的累加使其成为同级车中较轻的车型。根据版本的差异，第三代X5比上一代采用同等配置的相应车型所减轻的重量最高可达90公斤\[6\]。
+BMW声称，第三代X5的车身采用超高强度钢、[热塑性塑料侧板](https://zh.wikipedia.org/wiki/热塑性塑料 "wikilink")、[铝](../Page/铝.md "wikilink")制发动机罩和[镁](../Page/镁.md "wikilink")材仪表板，多个细节的累加使其成为同级车中较轻的车型。根据版本的差异，第三代X5比上一代采用同等配置的相应车型所减轻的重量最高可达90公斤\[6\]。
 
 F15配备了BMW的驾驶者辅助系统。车内的多媒体显示器达到10.25英寸，并被独立安置在中部位置。其系统进行了修改，同时还支持手势控制功能。通过所谓的驾驶体验按钮，驾驶者可以选择不同的驾驶模式，它们尤其可对燃油供给、换挡和转向施加影响。而选配的舒适型自适应悬架组件，则可令减震器通过驾驶体验按钮控制\[7\]。
 
@@ -239,27 +237,16 @@ F15拥有自身的汽油或柴油发动机。所有款式都提供全轮驱动�
 
   - [官方网站](http://www.bmw.de/de/neufahrzeuge/x/x5/2013/start.html)
 
-[Category:运动型多用途车](https://zh.wikipedia.org/wiki/Category:运动型多用途车 "wikilink")
-[Category:BMW車輛](https://zh.wikipedia.org/wiki/Category:BMW車輛 "wikilink")
-[Category:旅行車](https://zh.wikipedia.org/wiki/Category:旅行車 "wikilink")
-[Category:2013年面世的汽車](https://zh.wikipedia.org/wiki/Category:2013年面世的汽車 "wikilink")
+[Category:运动型多用途车](https://zh.wikipedia.org/wiki/Category:运动型多用途车 "wikilink") [Category:BMW車輛](https://zh.wikipedia.org/wiki/Category:BMW車輛 "wikilink") [Category:旅行車](https://zh.wikipedia.org/wiki/Category:旅行車 "wikilink") [Category:2013年面世的汽車](https://zh.wikipedia.org/wiki/Category:2013年面世的汽車 "wikilink")
 
-1.  [BMW at the 2013 Frankfurt International Motor Show
-    (IAA).](https://www.press.bmwgroup.com/pressclub/p/pcgl/pressDetail.html?title=bmw-at-the-2013-frankfurt-international-motor-show-iaa&outputChannelId=6&id=T0144746EN&left_menu_item=node__4249)
-2.  [The new BMW
-    X5.](https://www.press.bmwgroup.com/pressclub/p/pcgl/pressDetail.html?title=the-new-bmw-x5&outputChannelId=6&id=T0142129EN&left_menu_item=node__4249)
-3.  [All-New BMW X5 Sports Activity
-    Vehicle](https://www.press.bmwgroup.com/pressclub/p/us/pressDetail.html?title=all-new-bmw-x5-sports-activity-vehicle&outputChannelId=9&id=T0142293EN_US&left_menu_item=node__4249)
-4.  [2014 BMW X5 doesn't upset the
-    formula](http://www.autoblog.com/2013/05/29/embargo-wed-may-29-6pm-est-2014-bmw-x5-doesnt-upset-the-form/)
-5.  [autocar - new
-    x5](http://www.autocar.co.uk/car-news/new-cars/new-bmw-x5-revealed)
+1.  [BMW at the 2013 Frankfurt International Motor Show (IAA).](https://www.press.bmwgroup.com/pressclub/p/pcgl/pressDetail.html?title=bmw-at-the-2013-frankfurt-international-motor-show-iaa&outputChannelId=6&id=T0144746EN&left_menu_item=node__4249)
+2.  [The new BMW X5.](https://www.press.bmwgroup.com/pressclub/p/pcgl/pressDetail.html?title=the-new-bmw-x5&outputChannelId=6&id=T0142129EN&left_menu_item=node__4249)
+3.  [All-New BMW X5 Sports Activity Vehicle](https://www.press.bmwgroup.com/pressclub/p/us/pressDetail.html?title=all-new-bmw-x5-sports-activity-vehicle&outputChannelId=9&id=T0142293EN_US&left_menu_item=node__4249)
+4.  [2014 BMW X5 doesn't upset the formula](http://www.autoblog.com/2013/05/29/embargo-wed-may-29-6pm-est-2014-bmw-x5-doesnt-upset-the-form/)
+5.  [autocar - new x5](http://www.autocar.co.uk/car-news/new-cars/new-bmw-x5-revealed)
 6.
 7.
 8.
-9.  [BMW model update measures for
-    autumn 2013.](https://www.press.bmwgroup.com/pressclub/p/pcgl/pressDetail.html?title=bmw-model-update-measures-for-autumn-2013&outputChannelId=6&id=T0145791EN&left_menu_item=node__4249)
-10. [Secure protection for occupants, on and off road: Armoured BMW X5
-    provides superior
-    security.](https://www.press.bmwgroup.com/pressclub/p/pcgl/pressDetail.html?title=secure-protection-for-occupants-on-and-off-road-armoured-bmw-x5-provides-superior-security&outputChannelId=6&id=T0145565EN&left_menu_item=node__4249)
+9.  [BMW model update measures for autumn 2013.](https://www.press.bmwgroup.com/pressclub/p/pcgl/pressDetail.html?title=bmw-model-update-measures-for-autumn-2013&outputChannelId=6&id=T0145791EN&left_menu_item=node__4249)
+10. [Secure protection for occupants, on and off road: Armoured BMW X5 provides superior security.](https://www.press.bmwgroup.com/pressclub/p/pcgl/pressDetail.html?title=secure-protection-for-occupants-on-and-off-road-armoured-bmw-x5-provides-superior-security&outputChannelId=6&id=T0145565EN&left_menu_item=node__4249)
 11.

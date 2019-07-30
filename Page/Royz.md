@@ -1,4 +1,4 @@
-Royz是[日本的](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/:摇滚 "wikilink")[:樂團](https://zh.wikipedia.org/wiki/:樂團 "wikilink")。
+Royz是[日本](../Page/日本.md "wikilink")的[視覺系](../Page/視覺系.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/:摇滚 "wikilink")[:樂團](https://zh.wikipedia.org/wiki/:樂團 "wikilink")。
 
 ## 簡介
 

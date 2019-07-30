@@ -14,10 +14,7 @@
 
 ## 引用
 
-[Category:北京商务中心区](https://zh.wikipedia.org/wiki/Category:北京商务中心区 "wikilink")
-[Category:北京市摩天大楼](https://zh.wikipedia.org/wiki/Category:北京市摩天大楼 "wikilink")
-[Category:2017年完工建築物](https://zh.wikipedia.org/wiki/Category:2017年完工建築物 "wikilink")
-[Category:250米至299米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:250米至299米高的摩天大樓 "wikilink")
+[Category:北京商务中心区](https://zh.wikipedia.org/wiki/Category:北京商务中心区 "wikilink") [Category:北京市摩天大楼](https://zh.wikipedia.org/wiki/Category:北京市摩天大楼 "wikilink") [Category:2017年完工建築物](https://zh.wikipedia.org/wiki/Category:2017年完工建築物 "wikilink") [Category:250米至299米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:250米至299米高的摩天大樓 "wikilink")
 
 1.  [國貿中心-辦公室](http://www.cwtc.com/gmxzl.html)
 2.  [蜆殼中國-聯繫我們](http://www.shell.com.cn/zh_cn/contact-us.html)

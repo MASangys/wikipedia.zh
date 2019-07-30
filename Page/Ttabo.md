@@ -1,5 +1,4 @@
-**付英男**（[韓文漢字音](https://zh.wikipedia.org/wiki/韓文漢字音 "wikilink")：，音譯：，，），出道時藝名為**Double**（），加入[RANIA後改為](../Page/RANIA.md "wikilink")**Ttabo**（），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，曾為HY娛樂旗下中國女子組合MissMass的主Rapper、主領舞、副唱擔當以及DR
-Music旗下女子組合[RANIA的領Rapper](../Page/RANIA.md "wikilink")、領舞、副唱擔當，亦為團內唯一的中國成員\[1\]。
+**付英男**（[韓文漢字音](https://zh.wikipedia.org/wiki/韓文漢字音 "wikilink")：，音譯：，，），出道時藝名為**Double**（），加入[RANIA](../Page/RANIA.md "wikilink")後改為**Ttabo**（），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，曾為HY娛樂旗下中國女子組合MissMass的主Rapper、主領舞、副唱擔當以及DR Music旗下女子組合[RANIA](../Page/RANIA.md "wikilink")的領Rapper、領舞、副唱擔當，亦為團內唯一的中國成員\[1\]。
 
 出道前曾擔任韓星演唱會開場舞蹈員、新浪秀場主播。
 
@@ -82,10 +81,6 @@ Music旗下女子組合[RANIA的領Rapper](../Page/RANIA.md "wikilink")、領舞
   -
   -
   -
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:付姓](https://zh.wikipedia.org/wiki/Category:付姓 "wikilink")
+[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:付姓](https://zh.wikipedia.org/wiki/Category:付姓 "wikilink")
 
-1.  [원조'군통령' 걸그룹 라니아, 팀명·멤버 바꿔
-    새출발](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=022&aid=0003131305)
+1.  [원조'군통령' 걸그룹 라니아, 팀명·멤버 바꿔 새출발](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=022&aid=0003131305)

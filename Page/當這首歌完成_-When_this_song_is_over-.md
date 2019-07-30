@@ -1,13 +1,8 @@
-是日本的hourglass在2010年8月6日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，[DVDPG版是由電腦CLUB](https://zh.wikipedia.org/wiki/DVDPG "wikilink")（電脳CLUB）在2013年8月29日發售\[2\]，[PlayStation
-Vita版則是由One](../Page/PlayStation_Vita.md "wikilink")
-Draw在2014年2月27日發售DL版。\[3\]\[4\]
+是日本的hourglass在2010年8月6日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，[DVDPG版是由電腦CLUB](https://zh.wikipedia.org/wiki/DVDPG "wikilink")（電脳CLUB）在2013年8月29日發售\[2\]，[PlayStation Vita版則是由One](../Page/PlayStation_Vita.md "wikilink") Draw在2014年2月27日發售DL版。\[3\]\[4\]
 
 ## 故事
 
-鳥羽元永得知藤原藻和她妹妹響一起參加Chaos
-Promotion（）主辦的試音選考，在選考結束後藤原姊妹與白峰飛鳥組成了三人偶像團體「Primo
-Amore」（，意大利語「初戀」），元永也因此來到Chaos Promotion工作。不久之後為了製作「Primo
-Amore」出道曲的[PV](https://zh.wikipedia.org/wiki/PV "wikilink")，元永等一行人來到W縣的綾篠拍攝，但是就在拍攝結束後不久一行人卻遇到靈異恐怖的開始。
+鳥羽元永得知藤原藻和她妹妹響一起參加Chaos Promotion（）主辦的試音選考，在選考結束後藤原姊妹與白峰飛鳥組成了三人偶像團體「Primo Amore」（，意大利語「初戀」），元永也因此來到Chaos Promotion工作。不久之後為了製作「Primo Amore」出道曲的[PV](https://zh.wikipedia.org/wiki/PV "wikilink")，元永等一行人來到W縣的綾篠拍攝，但是就在拍攝結束後不久一行人卻遇到靈異恐怖的開始。
 
 ## 角色
 
@@ -42,14 +37,7 @@ Amore」出道曲的[PV](https://zh.wikipedia.org/wiki/PV "wikilink")，元永�
   - [DVDPG版官方網站](https://web.archive.org/web/20161209072416/http://www.dennoclub.com/TitleList/dcpg/DCPG295/dcpg295.htm)電脳CLUB
   - [PSV版官方網站](https://web.archive.org/web/20160407171130/http://www.konouta.com/index.html)
 
-[Category:2010年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2010年日本成人遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:恐怖遊戲](https://zh.wikipedia.org/wiki/Category:恐怖遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
-[Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink")
+[Category:2010年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2010年日本成人遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:恐怖遊戲](https://zh.wikipedia.org/wiki/Category:恐怖遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink")
 
 1.
 2.

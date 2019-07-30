@@ -1,5 +1,4 @@
-《**Think
-Big遊學團**》（）是由[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的](../Page/電視廣播有限公司.md "wikilink")[兒童節目](../Page/無綫電視兒童節目.md "wikilink")，於2015年10月24日首播，播至2017年6月24日\[1\]\[2\]\[3\]。
+《**Think Big遊學團**》（）是由[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的[兒童節目](../Page/無綫電視兒童節目.md "wikilink")，於2015年10月24日首播，播至2017年6月24日\[1\]\[2\]\[3\]。
 
 ## 每集內容
 
@@ -188,16 +187,10 @@ Big遊學團**》（）是由[香港](../Page/香港.md "wikilink")[電視廣播
 
 ## 電視節目的變遷
 
-[分類:無綫電視兒童節目](https://zh.wikipedia.org/wiki/分類:無綫電視兒童節目 "wikilink")
-[分類:2015年無綫電視節目](https://zh.wikipedia.org/wiki/分類:2015年無綫電視節目 "wikilink")
-[分類:2016年無綫電視節目](https://zh.wikipedia.org/wiki/分類:2016年無綫電視節目 "wikilink")
-[分類:2017年無綫電視節目](https://zh.wikipedia.org/wiki/分類:2017年無綫電視節目 "wikilink")
+[分類:無綫電視兒童節目](https://zh.wikipedia.org/wiki/分類:無綫電視兒童節目 "wikilink") [分類:2015年無綫電視節目](https://zh.wikipedia.org/wiki/分類:2015年無綫電視節目 "wikilink") [分類:2016年無綫電視節目](https://zh.wikipedia.org/wiki/分類:2016年無綫電視節目 "wikilink") [分類:2017年無綫電視節目](https://zh.wikipedia.org/wiki/分類:2017年無綫電視節目 "wikilink")
 
 [Category:香港兒童節目](https://zh.wikipedia.org/wiki/Category:香港兒童節目 "wikilink")
 
-1.  [拍攝TVB兒童節目「THINK
-    BIG遊學團」製作花絮](http://www.spps.edu.hk/3subject&committee/school_album/16-17/170428/)
-2.  [Think Big
-    遊學團拍攝](http://www.mosmps.edu.hk/CustomPage/39/1516/02/20160201_TVB_Think_Big_%E9%81%8A%E5%AD%B8%E5%9C%98/index.html)
-3.  [《Think Big遊學團》\!\! | ForME
-    HONEY](http://formehoney.com.hk/%E3%80%8Athink-big%E9%81%8A%E5%AD%B8%E5%9C%98%E3%80%8B/)
+1.  [拍攝TVB兒童節目「THINK BIG遊學團」製作花絮](http://www.spps.edu.hk/3subject&committee/school_album/16-17/170428/)
+2.  [Think Big 遊學團拍攝](http://www.mosmps.edu.hk/CustomPage/39/1516/02/20160201_TVB_Think_Big_%E9%81%8A%E5%AD%B8%E5%9C%98/index.html)
+3.  [《Think Big遊學團》\!\! | ForME HONEY](http://formehoney.com.hk/%E3%80%8Athink-big%E9%81%8A%E5%AD%B8%E5%9C%98%E3%80%8B/)

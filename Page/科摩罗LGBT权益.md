@@ -1,5 +1,4 @@
-**女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群在**科摩罗**面临着法律问题。[科摩罗有同性性行为被认为是违反自然的行为的法律](https://zh.wikipedia.org/wiki/科摩罗 "wikilink")。
-同意年龄为十三岁。
+**女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群在**科摩罗**面临着法律问题。[科摩罗有同性性行为被认为是违反自然的行为的法律](https://zh.wikipedia.org/wiki/科摩罗 "wikilink")。 同意年龄为十三岁。
 
 ## 有关同性性行为的法律
 
@@ -11,7 +10,7 @@
 
 ## 反歧视保障
 
-没有法律保护LGBT人群免遭基于[性取向的](../Page/性取向.md "wikilink")[歧视](https://zh.wikipedia.org/wiki/歧视 "wikilink")。
+没有法律保护LGBT人群免遭基于[性取向](../Page/性取向.md "wikilink")的[歧视](https://zh.wikipedia.org/wiki/歧视 "wikilink")。
 
 ## 生存现状
 
@@ -42,8 +41,7 @@
 
 ## 参考资料
 
-[Category:非洲LGBT權益](https://zh.wikipedia.org/wiki/Category:非洲LGBT權益 "wikilink")
-[Category:科摩罗政治](https://zh.wikipedia.org/wiki/Category:科摩罗政治 "wikilink")
+[Category:非洲LGBT權益](https://zh.wikipedia.org/wiki/Category:非洲LGBT權益 "wikilink") [Category:科摩罗政治](https://zh.wikipedia.org/wiki/Category:科摩罗政治 "wikilink")
 
 1.
 2.

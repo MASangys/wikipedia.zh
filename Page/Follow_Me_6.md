@@ -1,5 +1,4 @@
-《**Follow Me6**》（）是韓國[Fashion
-N電視台的美妝美容綜藝節目](https://zh.wikipedia.org/wiki/Fashion_N "wikilink")，由[G.Na](https://zh.wikipedia.org/wiki/G.Na "wikilink")、[Ivy](https://zh.wikipedia.org/wiki/Ivy "wikilink")、[黃承言等人主持](https://zh.wikipedia.org/wiki/黃承言 "wikilink")\[1\]，並與每一期的嘉賓一起討論美妝、美容資訊與知識的綜藝節目。
+《**Follow Me6**》（）是韓國[Fashion N電視台的美妝美容綜藝節目](https://zh.wikipedia.org/wiki/Fashion_N "wikilink")，由[G.Na](https://zh.wikipedia.org/wiki/G.Na "wikilink")、[Ivy](https://zh.wikipedia.org/wiki/Ivy "wikilink")、[黃承言等人主持](https://zh.wikipedia.org/wiki/黃承言 "wikilink")\[1\]，並與每一期的嘉賓一起討論美妝、美容資訊與知識的綜藝節目。
 
 ## 各集嘉賓
 
@@ -23,13 +22,10 @@ N電視台的美妝美容綜藝節目](https://zh.wikipedia.org/wiki/Fashion_N "
 
 ## 參考資料
 
-[Category:Fashion_N](https://zh.wikipedia.org/wiki/Category:Fashion_N "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:Fashion_N](https://zh.wikipedia.org/wiki/Category:Fashion_N "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
 1.
 2.
 3.
 4.
-5.  [시카고 타자기
-    Naver](https://search.naver.com/search.naver?where=nexearch&query=시카고+타자기)
+5.  [시카고 타자기 Naver](https://search.naver.com/search.naver?where=nexearch&query=시카고+타자기)

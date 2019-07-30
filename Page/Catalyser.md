@@ -4,8 +4,7 @@
 
 Catalyser於2012年10月組成，樂隊成員分別為主音Iron、鼓手Ana、低音吉他手Agos、鍵琴手Eugene、木吉他手Daniel，而離開成員有電吉他手Anthony及主唱Tomy。為新生代[澳門樂隊](https://zh.wikipedia.org/wiki/澳門樂隊 "wikilink")。
 站在人生不同階段的五位成員都熱愛音樂，希望用音符唱出自己的心聲，用行動證明夢想從不遙遠。深知音樂前路難走，亦清楚自艾自怨無補於事，因此樂隊積極定立音樂目標並全力爭取，不斷錄制原創作品與聽眾分享、積極參與大小型比賽及表演，成立短短數年，已在港澳比賽取得可喜成績，更創作出《倒模人生》、《心債》、《童年童話》、《態度》等多首優秀作品歌，並獲收錄於多張音樂專輯之中，並將於2016年推出樂隊首張專輯《Reflection》。
-Catalyser
-意為[催化劑](https://zh.wikipedia.org/wiki/催化劑 "wikilink")﹐大時代要令夢想和堅持卻步，讓我們用最簡單和直接的方式，把這份催化劑的能量給你，世界還有很多的愛和事物值得你和我去珍惜。一路走來，我們都相信：「我們有各自的艱難要面對，但音樂是生活的催化劑，好使我們堅持我們的路」。
+Catalyser 意為[催化劑](https://zh.wikipedia.org/wiki/催化劑 "wikilink")﹐大時代要令夢想和堅持卻步，讓我們用最簡單和直接的方式，把這份催化劑的能量給你，世界還有很多的愛和事物值得你和我去珍惜。一路走來，我們都相信：「我們有各自的艱難要面對，但音樂是生活的催化劑，好使我們堅持我們的路」。
 
 ## 成員
 
@@ -125,7 +124,6 @@ Catalyser
   - Catalyser官方微博:<http://www.weibo.com/u/3312710072>
   - Catalyser官方Instagram:<https://www.instagram.com/catalyser/>
 
-[Category:2012年建立](https://zh.wikipedia.org/wiki/Category:2012年建立 "wikilink")
-[Category:中國樂團](https://zh.wikipedia.org/wiki/Category:中國樂團 "wikilink")
+[Category:2012年建立](https://zh.wikipedia.org/wiki/Category:2012年建立 "wikilink") [Category:中國樂團](https://zh.wikipedia.org/wiki/Category:中國樂團 "wikilink")
 
 1.  [【微辣】微電影 - 《態度》](https://www.youtube.com/watch?v=9DNb5fjH3o8)

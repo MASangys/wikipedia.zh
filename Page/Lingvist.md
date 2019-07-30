@@ -21,9 +21,7 @@ Lingvist的依照大數據分析各種文章來源，如字幕或文章，以確
 
 ## 歷史發展
 
-  - Lingvist於2013年由MaitMüntel共同創立，MaitMüntel是一名物理學家，參與了在[歐洲核子研究組織](../Page/歐洲核子研究組織.md "wikilink")（CERN），Ott
-    Jalakas和Andres
-    Koern確定[Higgs-Boson的團隊](https://zh.wikipedia.org/wiki/Higgs-Boson "wikilink")。
+  - Lingvist於2013年由MaitMüntel共同創立，MaitMüntel是一名物理學家，參與了在[歐洲核子研究組織](../Page/歐洲核子研究組織.md "wikilink")（CERN），Ott Jalakas和Andres Koern確定[Higgs-Boson的團隊](https://zh.wikipedia.org/wiki/Higgs-Boson "wikilink")。
 
 <!-- end list -->
 
@@ -39,14 +37,11 @@ Lingvist的依照大數據分析各種文章來源，如字幕或文章，以確
 
 <!-- end list -->
 
-  - 2017年3月，由[網路家庭國際資訊股份有限公司](https://zh.wikipedia.org/wiki/網路家庭國際資訊股份有限公司 "wikilink")（英語：PChome
-    Online Inc.，縮寫：[PChome
-    Online](https://zh.wikipedia.org/wiki/PChome_Online "wikilink")，）代理，正式於台灣上線，提供免費版服務。
+  - 2017年3月，由[網路家庭國際資訊股份有限公司](https://zh.wikipedia.org/wiki/網路家庭國際資訊股份有限公司 "wikilink")（英語：PChome Online Inc.，縮寫：[PChome Online](https://zh.wikipedia.org/wiki/PChome_Online "wikilink")，）代理，正式於台灣上線，提供免費版服務。
 
 <!-- end list -->
 
-  - 2017年9月，針對台灣多益考試市場，Lingvist推出「TOEIC
-    多益必備單字」付費方案，Lingvist藉由AI人工智慧技術分析使用者單字量，而使用者可依學習目標，選擇不同的付費方案。\[10\]
+  - 2017年9月，針對台灣多益考試市場，Lingvist推出「TOEIC 多益必備單字」付費方案，Lingvist藉由AI人工智慧技術分析使用者單字量，而使用者可依學習目標，選擇不同的付費方案。\[10\]
 
 <!-- end list -->
 
@@ -78,13 +73,7 @@ Lingvist的依照大數據分析各種文章來源，如字幕或文章，以確
   -
   - [Lingvist Blog](https://lingvist.com/blog/)
 
-[Category:語言教育](https://zh.wikipedia.org/wiki/Category:語言教育 "wikilink")
-[Category:語言學習軟件](https://zh.wikipedia.org/wiki/Category:語言學習軟件 "wikilink")
-[Category:教育網站](https://zh.wikipedia.org/wiki/Category:教育網站 "wikilink")
-[Category:2014年建立](https://zh.wikipedia.org/wiki/Category:2014年建立 "wikilink")
-[Category:多語言網站](https://zh.wikipedia.org/wiki/Category:多語言網站 "wikilink")
-[Category:iOS软件](https://zh.wikipedia.org/wiki/Category:iOS软件 "wikilink")
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
+[Category:語言教育](https://zh.wikipedia.org/wiki/Category:語言教育 "wikilink") [Category:語言學習軟件](https://zh.wikipedia.org/wiki/Category:語言學習軟件 "wikilink") [Category:教育網站](https://zh.wikipedia.org/wiki/Category:教育網站 "wikilink") [Category:2014年建立](https://zh.wikipedia.org/wiki/Category:2014年建立 "wikilink") [Category:多語言網站](https://zh.wikipedia.org/wiki/Category:多語言網站 "wikilink") [Category:iOS软件](https://zh.wikipedia.org/wiki/Category:iOS软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
 
 1.
 

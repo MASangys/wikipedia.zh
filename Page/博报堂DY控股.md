@@ -22,9 +22,4 @@
 
   - [博报堂DY控股股份公司官方网站](http://www.hakuhodody-holdings.co.jp)
 
-[Category:博报堂DY控股](https://zh.wikipedia.org/wiki/Category:博报堂DY控股 "wikilink")
-[Category:日本企業集團](https://zh.wikipedia.org/wiki/Category:日本企業集團 "wikilink")
-[Category:日本控股公司](https://zh.wikipedia.org/wiki/Category:日本控股公司 "wikilink")
-[Category:日本广告公司](https://zh.wikipedia.org/wiki/Category:日本广告公司 "wikilink")
-[Category:2003年成立的公司](https://zh.wikipedia.org/wiki/Category:2003年成立的公司 "wikilink")
-[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
+[Category:博报堂DY控股](https://zh.wikipedia.org/wiki/Category:博报堂DY控股 "wikilink") [Category:日本企業集團](https://zh.wikipedia.org/wiki/Category:日本企業集團 "wikilink") [Category:日本控股公司](https://zh.wikipedia.org/wiki/Category:日本控股公司 "wikilink") [Category:日本广告公司](https://zh.wikipedia.org/wiki/Category:日本广告公司 "wikilink") [Category:2003年成立的公司](https://zh.wikipedia.org/wiki/Category:2003年成立的公司 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")

@@ -1,6 +1,4 @@
-《**再一次 Happy
-Ending**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2016年1月20日起播出的[水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，由[鄭敬淏](../Page/鄭敬淏.md "wikilink")、[張娜拉及](../Page/張娜拉.md "wikilink")[劉仁娜主演](https://zh.wikipedia.org/wiki/劉仁娜 "wikilink")，《[龜巖許浚](../Page/龜巖許浚.md "wikilink")》、《[媽媽的庭院](../Page/媽媽的庭院.md "wikilink")》[權聖昌導演執導](https://zh.wikipedia.org/wiki/權聖昌 "wikilink")。描述一晃眼就過了30歲的第一代妖精女團Angels成員們的未來，未婚與想婚、離婚與再婚、昨天與今天，希望能再一次得到幸福的男女。劇中傳達了單身、初婚、離婚以及再婚的內心轉折，回歸單身、單身爸爸、母胎單身和離婚沒兩樣的婚姻，看起來無法復合的已婚人，為了再次幸福而挑戰愛情的無比勇氣，愉快且痛快的閃閃發光浪漫喜劇。
-\[1\]
+《**再一次 Happy Ending**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2016年1月20日起播出的[水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，由[鄭敬淏](../Page/鄭敬淏.md "wikilink")、[張娜拉](../Page/張娜拉.md "wikilink")及[劉仁娜主演](https://zh.wikipedia.org/wiki/劉仁娜 "wikilink")，《[龜巖許浚](../Page/龜巖許浚.md "wikilink")》、《[媽媽的庭院](../Page/媽媽的庭院.md "wikilink")》[權聖昌導演執導](https://zh.wikipedia.org/wiki/權聖昌 "wikilink")。描述一晃眼就過了30歲的第一代妖精女團Angels成員們的未來，未婚與想婚、離婚與再婚、昨天與今天，希望能再一次得到幸福的男女。劇中傳達了單身、初婚、離婚以及再婚的內心轉折，回歸單身、單身爸爸、母胎單身和離婚沒兩樣的婚姻，看起來無法復合的已婚人，為了再次幸福而挑戰愛情的無比勇氣，愉快且痛快的閃閃發光浪漫喜劇。 \[1\]
 
 ## 演員列表
 
@@ -426,7 +424,7 @@ Ending**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilin
 
 ### 其他搭配歌曲
 
-  - 台灣[八大電視版本](../Page/八大電視.md "wikilink")
+  - 台灣[八大電視](../Page/八大電視.md "wikilink")版本
       - 片頭曲、片尾曲：[田馥甄](../Page/田馥甄.md "wikilink")《餘波盪漾》
 
 ## 收視率
@@ -566,14 +564,8 @@ Ending**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilin
   - [韓國MBC官方網站](http://www.imbc.com/broad/tv/drama/lovexlove/index.html)
   - [台灣GTV官方網站](http://www.gtv.com.tw/Program/P2016062301/index.html)
 
-[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink")
-[Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink")
-[Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
+[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink") [Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
 
-1.  [《再一次Happy Ending》鄭京浩–張娜拉–劉仁娜合作
-    將於1月20日首播](http://www.koreastardaily.com/tc/news/70986)
-    韓星網
+1.  [《再一次Happy Ending》鄭京浩–張娜拉–劉仁娜合作 將於1月20日首播](http://www.koreastardaily.com/tc/news/70986) 韓星網
 2.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 3.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)

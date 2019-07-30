@@ -1,4 +1,4 @@
-**古彼爾姆文**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了用来拼写[科米語的古彼爾姆文](../Page/科米語.md "wikilink")。
+**古彼爾姆文**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了用来拼写[科米語](../Page/科米語.md "wikilink")的古彼爾姆文。
 
 <table>
 <tbody>

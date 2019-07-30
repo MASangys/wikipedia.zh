@@ -1,19 +1,18 @@
-**任天堂Switch系统软件**是[任天堂Switch的可更新官方](../Page/任天堂Switch.md "wikilink")[固件及](../Page/韌體.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。
+**任天堂Switch系统软件**是[任天堂Switch](../Page/任天堂Switch.md "wikilink")的可更新官方[固件及](../Page/韌體.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。
 
 任天堂Switch系统软件基于[FreeBSD](../Page/FreeBSD.md "wikilink")。\[1\]系统软件于2017年3月3日随任天堂Switch主机一同上市。所有地区的任天堂Switch均使用同一系统软件，并不按地区区分版本。
 
 ## 概述
 
-任天堂Switch的操作系统基于[FreeBSD开发](../Page/FreeBSD.md "wikilink")，首批主机出厂默认系统软件版本为1.0.0，上市首日即可下载2.0.0更新。\[2\]系统中网页内容的呈现通过[WebKit来实现](../Page/WebKit.md "wikilink")，例如任天堂eShop，但用户目前为止无法直接访问网页。\[3\]使用者可用Joy-Con或者Pro手柄操作系统软件，也可以像使用平板设备一样通过触摸屏来操作。
+任天堂Switch的操作系统基于[FreeBSD](../Page/FreeBSD.md "wikilink")开发，首批主机出厂默认系统软件版本为1.0.0，上市首日即可下载2.0.0更新。\[2\]系统中网页内容的呈现通过[WebKit](../Page/WebKit.md "wikilink")来实现，例如任天堂eShop，但用户目前为止无法直接访问网页。\[3\]使用者可用Joy-Con或者Pro手柄操作系统软件，也可以像使用平板设备一样通过触摸屏来操作。
 
-在系统软件框架中还隐藏了[彩蛋](https://zh.wikipedia.org/wiki/彩蛋_\(媒體\) "wikilink")：以特定方式可以启动[红白机游戏](../Page/红白机.md "wikilink")《[高尔夫](../Page/高尔夫_\(游戏\).md "wikilink")》，游戏可通过Joy-Con操控。不少媒体和玩家认为该彩蛋是为了向策划任天堂Switch的已故前社长[岩田聪致敬](https://zh.wikipedia.org/wiki/岩田聪 "wikilink")，他也是《高尔夫》唯一的程序员\[4\]。這個彩蛋已於系統軟體版本4.1版起被移除。
+在系统软件框架中还隐藏了[彩蛋](https://zh.wikipedia.org/wiki/彩蛋_\(媒體\) "wikilink")：以特定方式可以启动[红白机](../Page/红白机.md "wikilink")游戏《[高尔夫](../Page/高尔夫_\(游戏\).md "wikilink")》，游戏可通过Joy-Con操控。不少媒体和玩家认为该彩蛋是为了向策划任天堂Switch的已故前社长[岩田聪致敬](https://zh.wikipedia.org/wiki/岩田聪 "wikilink")，他也是《高尔夫》唯一的程序员\[4\]。這個彩蛋已於系統軟體版本4.1版起被移除。
 
 ## 用户界面
 
 ### 主界面
 
-主界面左上角显示用户的头像，右上角显示时间、网络和电池信息。中间显示系统中现有的所有软件，包括实体版游戏和下载版游戏，以及一些其他应用软件如[niconico动画或](../Page/Niconico動畫.md "wikilink")[Netflix等](../Page/Netflix.md "wikilink")。
-下方是操作系统功能的圆形快捷方式图标，如新闻、任天堂eShop和设置等。
+主界面左上角显示用户的头像，右上角显示时间、网络和电池信息。中间显示系统中现有的所有软件，包括实体版游戏和下载版游戏，以及一些其他应用软件如[niconico动画或](../Page/Niconico動畫.md "wikilink")[Netflix](../Page/Netflix.md "wikilink")等。 下方是操作系统功能的圆形快捷方式图标，如新闻、任天堂eShop和设置等。
 
 #### 新闻
 
@@ -25,7 +24,7 @@
 
 #### 相册
 
-相册中储存了用户保存的截图和视频。用户还可对截图与视频进行简单的编辑或将其分享至[Facebook和](../Page/Facebook.md "wikilink")[Twitter](../Page/Twitter.md "wikilink")。
+相册中储存了用户保存的截图和视频。用户还可对截图与视频进行简单的编辑或将其分享至[Facebook](../Page/Facebook.md "wikilink")和[Twitter](../Page/Twitter.md "wikilink")。
 
 #### 控制器
 
@@ -66,10 +65,10 @@
 <li>接收游戏新闻</li>
 <li>可使用<a href="../Page/任天堂eShop.md" title="wikilink">任天堂eShop</a> </li>
 <li>好友功能</li>
-<li>将截图分享至<a href="../Page/Facebook.md" title="wikilink">Facebook和</a><a href="../Page/Twitter.md" title="wikilink">Twitter</a></li>
+<li>将截图分享至<a href="../Page/Facebook.md" title="wikilink">Facebook</a>和<a href="../Page/Twitter.md" title="wikilink">Twitter</a></li>
 <li>更新游戏软件</li>
 <li>获取已购入游戏软件（盒裝版）的任天堂积分</li>
-<li>新增对<a href="../Page/HDMI.md" title="wikilink">HDMI</a>-CEC的支持<small>（当<a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch开机时</a>，支持该功能的电视机也会自动打开）</small></li>
+<li>新增对<a href="../Page/HDMI.md" title="wikilink">HDMI</a>-CEC的支持<small>（当<a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a>开机时，支持该功能的电视机也会自动打开）</small></li>
 <li>显示电池电量百分比</li>
 <li>格式化<a href="https://zh.wikipedia.org/wiki/microSD" title="wikilink">microSD</a></li>
 <li>新增对<a href="../Page/MicroSD.md" title="wikilink">microSDXC的支持</a></li>
@@ -285,9 +284,7 @@
   - [系统更新官方网站](http://www.nintendo.com.hk/switch/support/system_update/index.html)
   - [系统更新官方网站](https://en-americas-support.nintendo.com/app/answers/detail/a_id/22525/p/897)
 
-[Category:2017年软件](https://zh.wikipedia.org/wiki/Category:2017年软件 "wikilink")
-[Category:任天堂Switch](https://zh.wikipedia.org/wiki/Category:任天堂Switch "wikilink")
-[Category:電子遊戲機的操作系統](https://zh.wikipedia.org/wiki/Category:電子遊戲機的操作系統 "wikilink")
+[Category:2017年软件](https://zh.wikipedia.org/wiki/Category:2017年软件 "wikilink") [Category:任天堂Switch](https://zh.wikipedia.org/wiki/Category:任天堂Switch "wikilink") [Category:電子遊戲機的操作系統](https://zh.wikipedia.org/wiki/Category:電子遊戲機的操作系統 "wikilink")
 
 1.
 

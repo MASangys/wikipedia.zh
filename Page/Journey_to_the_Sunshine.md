@@ -1,10 +1,8 @@
-《**Journey to the Sunshine**》（）是電視動畫《[LoveLive\!
-Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")》的[原聲音樂集](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")，於2018年1月31日由[Lantis發行](../Page/Lantis.md "wikilink")。
+《**Journey to the Sunshine**》（）是電視動畫《[LoveLive\! Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")》的[原聲音樂集](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")，於2018年1月31日由[Lantis](../Page/Lantis.md "wikilink")發行。
 
 ## 概要
 
-本專輯收錄了電視動畫《[LoveLive\!
-Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")》第二季所使用的背景音樂與歌曲，CD初回限定版附贈封面圖片貼紙一枚\[1\]。
+本專輯收錄了電視動畫《[LoveLive\! Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")》第二季所使用的背景音樂與歌曲，CD初回限定版附贈封面圖片貼紙一枚\[1\]。
 
 ## 收錄曲
 
@@ -34,8 +32,7 @@ Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")》�
 
 10. Raindrop Melody
 
-11. 【第3集插入歌（TV Size）】（[MY舞☆TONIGHT/MIRACLE
-    WAVE](https://zh.wikipedia.org/wiki/MY舞☆TONIGHT/MIRACLE_WAVE "wikilink")）
+11. 【第3集插入歌（TV Size）】（[MY舞☆TONIGHT/MIRACLE WAVE](https://zh.wikipedia.org/wiki/MY舞☆TONIGHT/MIRACLE_WAVE "wikilink")）
 
       - 歌：[Aqours](../Page/Aqours.md "wikilink")
 
@@ -55,8 +52,7 @@ Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")》�
 
 19. CRASH MIND【第13集插入歌（短版）】
 
-      - 歌：[Saint
-        Snow](https://zh.wikipedia.org/wiki/LoveLive!_人物列表#LoveLive!Sunshine!!登場人物 "wikilink")
+      - 歌：[Saint Snow](https://zh.wikipedia.org/wiki/LoveLive!_人物列表#LoveLive!Sunshine!!登場人物 "wikilink")
 
 20. （當時忘記的事物）
 
@@ -78,8 +74,7 @@ Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")》�
 
 28. DROPOUT\!?【第8話插入歌（短版）】
 
-      - 歌：[Saint
-        Snow](https://zh.wikipedia.org/wiki/LoveLive!_人物列表#LoveLive!Sunshine!!登場人物 "wikilink")
+      - 歌：[Saint Snow](https://zh.wikipedia.org/wiki/LoveLive!_人物列表#LoveLive!Sunshine!!登場人物 "wikilink")
 
 ### Disc2
 
@@ -87,8 +82,7 @@ Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")》�
 
 2.  （給最重要的那個人）
 
-3.  [Awaken the power](../Page/Awaken_the_power.md "wikilink")【第9集插入歌（TV
-    Size）】
+3.  [Awaken the power](../Page/Awaken_the_power.md "wikilink")【第9集插入歌（TV Size）】
 
       - 歌：Saint Aqours Snow
 
@@ -159,9 +153,7 @@ Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")》�
 
 ## 外部連結
 
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:LoveLive\!音樂](https://zh.wikipedia.org/wiki/Category:LoveLive!音樂 "wikilink")
-[Category:Lantis發行的音樂專輯](https://zh.wikipedia.org/wiki/Category:Lantis發行的音樂專輯 "wikilink")
+[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:LoveLive\!音樂](https://zh.wikipedia.org/wiki/Category:LoveLive!音樂 "wikilink") [Category:Lantis發行的音樂專輯](https://zh.wikipedia.org/wiki/Category:Lantis發行的音樂專輯 "wikilink")
 
 1.
 

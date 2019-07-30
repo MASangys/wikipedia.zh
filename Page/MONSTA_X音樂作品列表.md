@@ -1,6 +1,4 @@
-《**MONSTA
-X音樂作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[MONSTA
-X歷年發行之各類音樂作品](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")。
+《**MONSTA X音樂作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[MONSTA X歷年發行之各類音樂作品](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")。
 
 ## 正規專輯
 
@@ -417,7 +415,7 @@ Heat</a><br />
 | Stay Strong | FLOWSIK（플로우식）                         | 周憲                       |                                                                                                                                                                  |              |
 | 2015年7月30日  | Bad X（나쁜 X）                           | Bad X（나쁜 X）              | J'Kyun                                                                                                                                                           | 周憲           |
 | 2015年11月11日 | Flower Cafe                           | Flower Cafe              | Sam Ock                                                                                                                                                          | 周憲、I.M       |
-| 2015年12月2日  | STARSHIP PLANET 2015                  | 사르르 (Softly)             | [STARSHIP娛樂旗下歌手](../Page/STARSHIP娛樂.md "wikilink")                                                                                                               | 全體           |
+| 2015年12月2日  | STARSHIP PLANET 2015                  | 사르르 (Softly)             | [STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")旗下歌手                                                                                                               | 全體           |
 | 2016年6月8日   | h.ear your colors                     | 알록달록 (h.ear your colors) | [Mad Clown](../Page/Mad_Clown.md "wikilink")                                                                                                                     | 周憲           |
 | 2016年7月30日  | Rollercoaster (Remix)                 | Rollercoaster (Remix)    | Sam Ock                                                                                                                                                          | 周憲           |
 | 2016年8月6日   | Do Better                             | Do Better                | Y Teen (MONSTA X & [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink"))                                                                                        | 全體           |
@@ -591,5 +589,4 @@ Heat</a><br />
 
 ## 參考文獻
 
-[Category:MONSTA_X](https://zh.wikipedia.org/wiki/Category:MONSTA_X "wikilink")
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
+[Category:MONSTA_X](https://zh.wikipedia.org/wiki/Category:MONSTA_X "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")

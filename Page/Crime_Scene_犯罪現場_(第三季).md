@@ -1,9 +1,8 @@
-《**Crime Scene 犯罪現場
-(第三季)**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC電視台推出的推理型綜藝節目](../Page/JTBC.md "wikilink")，自稱為國內首個[RPG推理遊戲](../Page/角色扮演游戏.md "wikilink")，以神祕殺人事件為背景。參與者既要擺脫兇手嫌疑，又要一起找出真正的兇手，玩法與英國圖版遊戲[妙探尋兇](../Page/妙探尋兇.md "wikilink")（Cluedo）類似\[1\]。
+《**Crime Scene 犯罪現場 (第三季)**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")電視台推出的推理型綜藝節目，自稱為國內首個[RPG推理遊戲](../Page/角色扮演游戏.md "wikilink")，以神祕殺人事件為背景。參與者既要擺脫兇手嫌疑，又要一起找出真正的兇手，玩法與英國圖版遊戲[妙探尋兇](../Page/妙探尋兇.md "wikilink")（Cluedo）類似\[1\]。
 
 第三季於2017年4月21日起至7月14日，韓國時間每週五晚上9點播出\[2\]。
 
-2016年3月27日起中國網路平台[芒果TV播出官方授權節目](../Page/芒果TV.md "wikilink")《[明星大偵探](../Page/明星大偵探.md "wikilink")》\[3\]。
+2016年3月27日起中國網路平台[芒果TV](../Page/芒果TV.md "wikilink")播出官方授權節目《[明星大偵探](../Page/明星大偵探.md "wikilink")》\[3\]。
 
 ## 遊戲節目形式
 
@@ -358,16 +357,9 @@ NS允智<strong>勝出</strong><br />
 
   -
   -
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:推理遊戲](https://zh.wikipedia.org/wiki/Category:推理遊戲 "wikilink")
-[Category:遊戲節目](https://zh.wikipedia.org/wiki/Category:遊戲節目 "wikilink")
-[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
-[Category:香港電視娛樂外購節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購節目 "wikilink")
+[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:推理遊戲](https://zh.wikipedia.org/wiki/Category:推理遊戲 "wikilink") [Category:遊戲節目](https://zh.wikipedia.org/wiki/Category:遊戲節目 "wikilink") [Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink") [Category:香港電視娛樂外購節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購節目 "wikilink")
 
 1.
-2.  [《Crime Scene》第三季敲定檔期
-    四月底與觀眾見面](http://www.allthatstar.com/tw/view.php?action=5205&postID=323129)
-    全星網
+2.  [《Crime Scene》第三季敲定檔期 四月底與觀眾見面](http://www.allthatstar.com/tw/view.php?action=5205&postID=323129) 全星網
 3.
 4.

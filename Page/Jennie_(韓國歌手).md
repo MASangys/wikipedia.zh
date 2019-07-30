@@ -1,35 +1,26 @@
-**金珍妮**（，，，）是一名[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")，於韓國出生，曾在[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")[奧克蘭留學長達五年](../Page/奧克蘭_\(紐西蘭\).md "wikilink")\[1\]，國中之後回到韓國。出道初期曾被誤以為在[荷蘭出生](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")\[2\]。她以藝名**Jennie**（，）為人熟知，現為[YG娛樂旗下](../Page/YG娛樂.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK成員之一](../Page/BLACKPINK.md "wikilink")，在隊內擔任[饒舌及](../Page/饒舌.md "wikilink")[歌唱的角色](https://zh.wikipedia.org/wiki/歌唱 "wikilink")\[3\]。後在2018年11月12日以單曲《[Solo](../Page/Solo_\(單曲\).md "wikilink")》隻身出道。
+**金珍妮**（，，，）是一名[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")，於韓國出生，曾在[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")[奧克蘭留學長達五年](../Page/奧克蘭_\(紐西蘭\).md "wikilink")\[1\]，國中之後回到韓國。出道初期曾被誤以為在[荷蘭出生](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")\[2\]。她以藝名**Jennie**（，）為人熟知，現為[YG娛樂](../Page/YG娛樂.md "wikilink")旗下[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK](../Page/BLACKPINK.md "wikilink")成員之一，在隊內擔任[饒舌](../Page/饒舌.md "wikilink")及[歌唱的角色](https://zh.wikipedia.org/wiki/歌唱 "wikilink")\[3\]。後在2018年11月12日以單曲《[Solo](../Page/Solo_\(單曲\).md "wikilink")》隻身出道。
 
 ## 早年生活及教育
 
-Jennie於1996年1月16日出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")[江南區](../Page/江南區_\(首爾\).md "wikilink")\[4\]
-，曾被誤以為在[荷蘭出生](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")\[5\]。曾在[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")[奧克蘭留學長達五年](../Page/奧克蘭_\(紐西蘭\).md "wikilink")\[6\]，就讀於。在2006年曾拍攝[MBC](../Page/文化廣播公司.md "wikilink")[紀錄片](../Page/紀錄片.md "wikilink")《英語》，記錄[韓國人在國外加強](https://zh.wikipedia.org/wiki/韓國人 "wikilink")[英語能力和文化交流的方法](https://zh.wikipedia.org/wiki/英語 "wikilink")\[7\]。[國中之後回到](https://zh.wikipedia.org/wiki/初級中學 "wikilink")[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
+Jennie於1996年1月16日出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")[江南區](../Page/江南區_\(首爾\).md "wikilink")\[4\] ，曾被誤以為在[荷蘭出生](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")\[5\]。曾在[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")[奧克蘭留學長達五年](../Page/奧克蘭_\(紐西蘭\).md "wikilink")\[6\]，就讀於。在2006年曾拍攝[MBC](../Page/文化廣播公司.md "wikilink")[紀錄片](../Page/紀錄片.md "wikilink")《英語》，記錄[韓國人在國外加強](https://zh.wikipedia.org/wiki/韓國人 "wikilink")[英語能力和文化交流的方法](https://zh.wikipedia.org/wiki/英語 "wikilink")\[7\]。[國中之後回到](https://zh.wikipedia.org/wiki/初級中學 "wikilink")[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
 
 ## 演藝生涯
 
 ### 2012年－2015年：出道前
 
-Jennie的練習生生涯有7年之久，首次露面是在YG娛樂於2012年4月份通過官方博客登載，題為「Who’s that
-girl?」的照片上亮相。當時，Jennie被大眾廣泛譽為「神秘少女」登在韓國各大門戶網站的檢索詞排行榜第一位，引發網民熱烈的反響\[8\]，而繼同組合成員[Lisa首次在](../Page/Lisa_\(泰國歌手\).md "wikilink")5月11日通過[YouTube官方頻道公開後](../Page/YouTube.md "wikilink")\[9\]，Jennie也在同年8月29日於YG娛樂發佈的旗下練習生練習影像中亮相，也是第一位除了練習影像及年紀之外率先公開名字的練習生。\[10\]
+Jennie的練習生生涯有7年之久，首次露面是在YG娛樂於2012年4月份通過官方博客登載，題為「Who’s that girl?」的照片上亮相。當時，Jennie被大眾廣泛譽為「神秘少女」登在韓國各大門戶網站的檢索詞排行榜第一位，引發網民熱烈的反響\[8\]，而繼同組合成員[Lisa首次在](../Page/Lisa_\(泰國歌手\).md "wikilink")5月11日通過[YouTube](../Page/YouTube.md "wikilink")官方頻道公開後\[9\]，Jennie也在同年8月29日於YG娛樂發佈的旗下練習生練習影像中亮相，也是第一位除了練習影像及年紀之外率先公開名字的練習生。\[10\]
 
-在正式出道前Jennie與所屬經紀公司旗下藝人已有多次合作，包括參與[BIGBANG隊長](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[G-Dragon的首張迷你專輯](../Page/G-Dragon.md "wikilink")《[One
-of a
-Kind](https://zh.wikipedia.org/wiki/One_of_a_Kind "wikilink")》主打歌之一《》的音樂錄影帶演出，2013年參與[李遐怡正規一輯](../Page/李遐怡.md "wikilink")《》收錄曲《Special》的伴唱，並在同年相繼在8月19日參與BIGBANG成員[勝利第二張迷你專輯](../Page/勝利_\(歌手\).md "wikilink")《[Let's
-Talk About
-Love](../Page/Let's_Talk_About_Love_\(勝利韓語迷你專輯\).md "wikilink")》收錄曲《GG
-BE》，以及9月2日G-Dragon發行的正規專輯《[COUP
-D'ETAT](../Page/COUP_D'ETAT.md "wikilink")》主打曲之一的《Black》韓語版擔任伴唱，進而累積實力\[11\]\[12\]。除了參與音樂錄製之外，她也進一步首次在大螢幕前曝光，與G-Dragon一同參與音樂節目的演出，至此，Jennie已逐漸為大眾所熟知。\[13\]\[14\]
+在正式出道前Jennie與所屬經紀公司旗下藝人已有多次合作，包括參與[BIGBANG隊長](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[G-Dragon](../Page/G-Dragon.md "wikilink")的首張迷你專輯《[One of a Kind](https://zh.wikipedia.org/wiki/One_of_a_Kind "wikilink")》主打歌之一《》的音樂錄影帶演出，2013年參與[李遐怡](../Page/李遐怡.md "wikilink")正規一輯《》收錄曲《Special》的伴唱，並在同年相繼在8月19日參與BIGBANG成員[勝利第二張迷你專輯](../Page/勝利_\(歌手\).md "wikilink")《[Let's Talk About Love](../Page/Let's_Talk_About_Love_\(勝利韓語迷你專輯\).md "wikilink")》收錄曲《GG BE》，以及9月2日G-Dragon發行的正規專輯《[COUP D'ETAT](../Page/COUP_D'ETAT.md "wikilink")》主打曲之一的《Black》韓語版擔任伴唱，進而累積實力\[11\]\[12\]。除了參與音樂錄製之外，她也進一步首次在大螢幕前曝光，與G-Dragon一同參與音樂節目的演出，至此，Jennie已逐漸為大眾所熟知。\[13\]\[14\]
 
 ### 2016年至今：BLACKPINK、個人出道
 
-2016年6月1日，Jennie成為YG娛樂率先公布的首位新女團BLACKPINK成員之一\[15\]，隨後於同年8月8日正式出道\[16\]，並隨組合發行首張單曲專輯《[Square
-One](../Page/Square_One_\(BLACKPINK單曲\).md "wikilink")》。\[17\]
+2016年6月1日，Jennie成為YG娛樂率先公布的首位新女團BLACKPINK成員之一\[15\]，隨後於同年8月8日正式出道\[16\]，並隨組合發行首張單曲專輯《[Square One](../Page/Square_One_\(BLACKPINK單曲\).md "wikilink")》。\[17\]
 
 以BLACKPINK的身份活動兩年後，Jennie率先隻身展開音樂活動，其個人首張單曲《[Solo](../Page/Solo_\(單曲\).md "wikilink")》發行於2018年11月12日。
 
 ## 個人生活
 
-2019年1月1日，韓國媒體公司報導Jennie與[EXO成員](../Page/EXO.md "wikilink")[Kai正在交往的消息](../Page/Kai.md "wikilink")\[18\]，隨後YG娛樂回應：「並不知情，正在確認事實中」，而Kai所屬的經紀公司[SM娛樂在爆出戀愛緋聞的](../Page/SM娛樂.md "wikilink")4個小時後發表了官方立場，表示「兩人是互有好感的關係」\[19\]，但在同月25日，SM娛樂證實兩人已分手，恢復前後輩關係，以事業為重。\[20\]
+2019年1月1日，韓國媒體公司報導Jennie與[EXO](../Page/EXO.md "wikilink")成員[Kai](../Page/Kai.md "wikilink")正在交往的消息\[18\]，隨後YG娛樂回應：「並不知情，正在確認事實中」，而Kai所屬的經紀公司[SM娛樂](../Page/SM娛樂.md "wikilink")在爆出戀愛緋聞的4個小時後發表了官方立場，表示「兩人是互有好感的關係」\[19\]，但在同月25日，SM娛樂證實兩人已分手，恢復前後輩關係，以事業為重。\[20\]
 
 ## 音樂作品
 
@@ -265,16 +256,8 @@ One](../Page/Square_One_\(BLACKPINK單曲\).md "wikilink")》。\[17\]
 
   - [Jennie韓國官方網站](http://www.ygfamily.com/artist/Main.asp?LANGDIV=K&ATYPE=2&ARTIDX=77)
 
-
   -
-[Category:Jennie](https://zh.wikipedia.org/wiki/Category:Jennie "wikilink")
-[Category:BLACKPINK成員](https://zh.wikipedia.org/wiki/Category:BLACKPINK成員 "wikilink")
-[Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
-[Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink")
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
+[Category:Jennie](https://zh.wikipedia.org/wiki/Category:Jennie "wikilink") [Category:BLACKPINK成員](https://zh.wikipedia.org/wiki/Category:BLACKPINK成員 "wikilink") [Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink") [Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink") [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
 
 1.
 2.

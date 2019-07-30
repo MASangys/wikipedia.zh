@@ -1,6 +1,4 @@
-《**Gol-Cha\!**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Golden
-Child首張迷你韓語專輯](../Page/Golden_Child.md "wikilink")，於2017年8月28日由[Woollim娛樂和](../Page/Woollim娛樂.md "wikilink")[CJ
-E\&M發行](https://zh.wikipedia.org/wiki/CJ集團 "wikilink") ，
+《**Gol-Cha\!**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Golden Child首張迷你韓語專輯](../Page/Golden_Child.md "wikilink")，於2017年8月28日由[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")和[CJ E\&M發行](https://zh.wikipedia.org/wiki/CJ集團 "wikilink") ，
 主打歌為〈담다디 (DamDaDi)〉。
 
 ## 曲目
@@ -197,9 +195,7 @@ E\&M發行](https://zh.wikipedia.org/wiki/CJ集團 "wikilink") ，
 
 \== 參考資料 ==
 
-  - [genie -Golden Child 1st Mini Album
-    "Gol-Cha\!"](http://www.genie.co.kr/detail/albumInfo?axnm=80980965)
+  - [genie -Golden Child 1st Mini Album "Gol-Cha\!"](http://www.genie.co.kr/detail/albumInfo?axnm=80980965)
   - \[<https://namu.wiki/w/Gol-Cha>\! 首張迷你專輯《Gol-Cha\!》namuwiki\]
 
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")

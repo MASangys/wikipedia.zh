@@ -1,15 +1,10 @@
-《**Merry\&Happy**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE於](https://zh.wikipedia.org/wiki/TWICE "wikilink")2017年10月30日推出的第一張韓語正規專輯《[Twicetagram](../Page/Twicetagram.md "wikilink")》的改版特別專輯。由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，Genie音樂發行，於2017年12月11日推出。主打歌曲為〈Heart
-Shaker〉。
+《**Merry\&Happy**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE於](https://zh.wikipedia.org/wiki/TWICE "wikilink")2017年10月30日推出的第一張韓語正規專輯《[Twicetagram](../Page/Twicetagram.md "wikilink")》的改版特別專輯。由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，Genie音樂發行，於2017年12月11日推出。主打歌曲為〈Heart Shaker〉。
 
 ## 背景
 
 ## 概要
 
-此次專輯《Merry\&Happy》是以特別專輯形式推出，同時也是今年推出的正規一輯《[Twicetagram](../Page/Twicetagram.md "wikilink")》的改版專輯。除了收錄上輯的13首歌曲之外，還加入2首新歌曲。主打歌
-〈Heart
-Shaker〉的歌詞呼應正規專輯的主打歌〈LIKEY〉，以正式鼓起勇氣與心愛的人告白，跟朋友祝賀為主軸。JYP為慶祝聖誕節以及總結TWICE在過去一年的成績，於12月17日宣佈推出非主打歌曲《Merry
-&
-Happy》的MV。20日由於[SHINee成員](../Page/SHINee.md "wikilink")[鐘鉉的離世](../Page/鐘鉉.md "wikilink")，為表哀悼宣佈押後至12月22日再推出。\[1\]
+此次專輯《Merry\&Happy》是以特別專輯形式推出，同時也是今年推出的正規一輯《[Twicetagram](../Page/Twicetagram.md "wikilink")》的改版專輯。除了收錄上輯的13首歌曲之外，還加入2首新歌曲。主打歌 〈Heart Shaker〉的歌詞呼應正規專輯的主打歌〈LIKEY〉，以正式鼓起勇氣與心愛的人告白，跟朋友祝賀為主軸。JYP為慶祝聖誕節以及總結TWICE在過去一年的成績，於12月17日宣佈推出非主打歌曲《Merry & Happy》的MV。20日由於[SHINee](../Page/SHINee.md "wikilink")成員[鐘鉉](../Page/鐘鉉.md "wikilink")的離世，為表哀悼宣佈押後至12月22日再推出。\[1\]
 
 ## 曲目
 
@@ -208,19 +203,11 @@ Happy》的MV。20日由於[SHINee成員](../Page/SHINee.md "wikilink")[鐘鉉�
 
 ## 參考資料
 
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
-[Category:TWICE音樂專輯](https://zh.wikipedia.org/wiki/Category:TWICE音樂專輯 "wikilink")
-[Category:2017年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2017年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon數位下載週榜冠軍作品 "wikilink")
-[Category:2017年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:TWICE音樂專輯](https://zh.wikipedia.org/wiki/Category:TWICE音樂專輯 "wikilink") [Category:2017年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon單曲週榜冠軍作品 "wikilink") [Category:2017年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2017年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.
-3.  {{ cite
-    web|url=[http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T\&serviceGbn=ALL|title=Gaon](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL%7Ctitle=Gaon)
-    Chart 2017年 第50週 Digital
-    Chart|accessdate=2017-12-22|author=|date=|publisher=}}
+3.  {{ cite web|url=[http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T\&serviceGbn=ALL|title=Gaon](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL%7Ctitle=Gaon) Chart 2017年 第50週 Digital Chart|accessdate=2017-12-22|author=|date=|publisher=}}
 4.
 5.
 6.

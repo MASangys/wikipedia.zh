@@ -1,4 +1,4 @@
-是日本[MOONSTONE在](../Page/MOONSTONE.md "wikilink")2009年4月24日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]
+是日本[MOONSTONE](../Page/MOONSTONE.md "wikilink")在2009年4月24日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]
 
 ## 故事
 
@@ -96,8 +96,7 @@
     作詞：夕野ヨシミ，作曲：キャサリン
   - （いちゃぷり\! 〜お嬢さまとイチャラブえっちな毎日〜 片尾曲）
     作詞：夕野ヨシミ，作曲：キャサリン
-  - アイドルKiss！無敵ッス☆（[あい☆きゃん](https://zh.wikipedia.org/wiki/あい☆きゃん "wikilink")
-    片頭曲）
+  - アイドルKiss！無敵ッス☆（[あい☆きゃん](https://zh.wikipedia.org/wiki/あい☆きゃん "wikilink") 片頭曲）
     作詞：織姫よぞら，作曲：小池雅也，編曲：ケニーK
 
 ## 相關商品
@@ -170,8 +169,7 @@
 
 ## 評價
 
-《Marginal
-Skip》在2009年[萌系遊戲大賞中獲得話題賞金賞](../Page/萌系遊戲大賞.md "wikilink")。\[5\]
+《Marginal Skip》在2009年[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")中獲得話題賞金賞。\[5\]
 
 ## 參考來源
 
@@ -180,22 +178,13 @@ Skip》在2009年[萌系遊戲大賞中獲得話題賞金賞](../Page/萌系遊�
 ## 外部連結
 
   - [MOONSTONE](http://www.moon-stone.jp/)
-  - [マジスキ 〜Marginal
-    Skip〜](http://www.moon-stone.jp//product/ms08/index08.html)MOONSTONE
+  - [マジスキ 〜Marginal Skip〜](http://www.moon-stone.jp//product/ms08/index08.html)MOONSTONE
   - [デートコース](http://datecourse.from.tv/index.html)DATE COURSE官方網站
 
-[Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:魔法題材作品](https://zh.wikipedia.org/wiki/Category:魔法題材作品 "wikilink")
+[Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:魔法題材作品](https://zh.wikipedia.org/wiki/Category:魔法題材作品 "wikilink")
 
 1.
 2.
-3.  [マジスキ ～Marginal
-    Skip～](http://erogetrailers.com/soft/6085)ErogeTrailers
+3.  [マジスキ ～Marginal Skip～](http://erogetrailers.com/soft/6085)ErogeTrailers
 4.
 5.

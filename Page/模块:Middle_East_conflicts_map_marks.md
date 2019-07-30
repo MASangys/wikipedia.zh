@@ -105,10 +105,6 @@ for k in pairs(directions) do
 
 end
 
-\-- Overrides p.SDF_base = 'Abm-yellow-icon-2.png' p.IS_naval =
-'Anchor pictogram.svg' p.opp_industry = 'Icon
-NuclearPowerPlant-green.svg' p.IS_lcl = '80x80-blue-black-anim.gif'
-p.IS_Trk = '80x80-green-black-anim.gif' p.opp_naval = 'Anchor
-pictogram green.svg'
+\-- Overrides p.SDF_base = 'Abm-yellow-icon-2.png' p.IS_naval = 'Anchor pictogram.svg' p.opp_industry = 'Icon NuclearPowerPlant-green.svg' p.IS_lcl = '80x80-blue-black-anim.gif' p.IS_Trk = '80x80-green-black-anim.gif' p.opp_naval = 'Anchor pictogram green.svg'
 
 return p

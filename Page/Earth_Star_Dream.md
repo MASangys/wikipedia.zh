@@ -1,13 +1,9 @@
 {{•}} |過往成員 = {{•}}齋藤愛永{{•}}海月泉
-[中島由貴](https://zh.wikipedia.org/wiki/中島由貴 "wikilink"){{•}}{{•}} |獎項 = }}
-**Earth Star
-Dream**（）是由六位[日本女性](../Page/日本.md "wikilink")[聲優組成的](../Page/聲優.md "wikilink")[聲優組合](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")，唱片公司為EARTH
-STAR Records。
+[中島由貴](https://zh.wikipedia.org/wiki/中島由貴 "wikilink"){{•}}{{•}} |獎項 = }} **Earth Star Dream**（）是由六位[日本](../Page/日本.md "wikilink")女性[聲優](../Page/聲優.md "wikilink")組成的[聲優組合](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")，唱片公司為EARTH STAR Records。
 
 ## 簡介
 
-此聲優組合由株式會社[EARTH STAR
-Entertainment在](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wikilink")2014年舉辦的《國民聲優大賞》的受獎者組成。
+此聲優組合由株式會社[EARTH STAR Entertainment在](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wikilink")2014年舉辦的《國民聲優大賞》的受獎者組成。
 
 ## 成員
 
@@ -183,8 +179,7 @@ Entertainment在](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wikili
   - 2月27日：海月泉宣布同年3月15日退出Earth Star Dream，同時自演藝界引退。
   - 8月16日：發行第五張單曲「開運！招福！炎天歌」。
   - 10月9日：中島由貴宣布在12月底退出Earth Star Dream\[15\]。
-  - 12月14日：愛原亞里沙和谷尻麻理亞宣布在12月底退出Earth Star Dream與EARTH STAR
-    Entertainment\[16\]。
+  - 12月14日：愛原亞里沙和谷尻麻理亞宣布在12月底退出Earth Star Dream與EARTH STAR Entertainment\[16\]。
   - 12月15日：Earth Star Dream宣布在12月底停止活動\[17\]。
 
 ## 音樂作品
@@ -313,13 +308,10 @@ Entertainment在](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wikili
 
   - [Earth Star Dream官方網站](http://comic-earthstar.jp/esd/)
 
-  - [Earth Star
-    Dream官方niconico頻道](https://web.archive.org/web/20161118163947/http://ch.nicovideo.jp/esd)
+  - [Earth Star Dream官方niconico頻道](https://web.archive.org/web/20161118163947/http://ch.nicovideo.jp/esd)
 
   -
-[Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
+[Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
 
 1.
 

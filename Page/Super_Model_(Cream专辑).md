@@ -1,5 +1,4 @@
-**《Cream
-Garden》**是香港歌手李蕴前組合[Cream的第二張唱片](https://zh.wikipedia.org/wiki/Cream_\(香港樂隊\) "wikilink")，包含两张CD和一张VCD。
+**《Cream Garden》**是香港歌手李蕴前組合[Cream的第二張唱片](https://zh.wikipedia.org/wiki/Cream_\(香港樂隊\) "wikilink")，包含两张CD和一张VCD。
 
 ## 曲目列表
 
@@ -42,5 +41,4 @@ Garden》**是香港歌手李蕴前組合[Cream的第二張唱片](https://zh.wi
 | 5\. | 其实我乖 MV                                                |
 | 6\. | 不可没友 (feat. [新香蕉俱樂部](../Page/新香蕉俱樂部.md "wikilink")) MV |
 
-[Category:Cream音樂專輯](https://zh.wikipedia.org/wiki/Category:Cream音樂專輯 "wikilink")
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
+[Category:Cream音樂專輯](https://zh.wikipedia.org/wiki/Category:Cream音樂專輯 "wikilink") [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")

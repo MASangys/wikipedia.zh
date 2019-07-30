@@ -1,4 +1,4 @@
-《**ULTRAMAN-超人再現-**》是[清水榮一原作](../Page/清水榮一.md "wikilink")，[下口智裕繪畫的](../Page/下口智裕.md "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，是[圓谷製作](../Page/圓谷製作.md "wikilink")1966年的[超人力霸王系列始祖初代超人的續篇漫畫](../Page/超人力霸王系列.md "wikilink")，[小學館出版](../Page/小學館.md "wikilink")，2011年12月開始在《[月刊Hero's](../Page/月刊Hero's.md "wikilink")》創刊號連載\[1\]。
+《**ULTRAMAN-超人再現-**》是[清水榮一](../Page/清水榮一.md "wikilink")原作，[下口智裕](../Page/下口智裕.md "wikilink")繪畫的[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，是[圓谷製作](../Page/圓谷製作.md "wikilink")1966年的[超人力霸王系列](../Page/超人力霸王系列.md "wikilink")始祖初代超人的續篇漫畫，[小學館](../Page/小學館.md "wikilink")出版，2011年12月開始在《[月刊Hero's](../Page/月刊Hero's.md "wikilink")》創刊號連載\[1\]。
 
 漫画于2017年被制作为有声漫画公开，并于2019年動畫化。
 
@@ -151,7 +151,7 @@
 <td><p>13</p></td>
 <td><p>2019年3月31日</p></td>
 <td><p>ISBN 978-4-86468-624-2</p></td>
-<td></td>
+<td><p>2019年7月26日</p></td>
 </tr>
 </tbody>
 </table>
@@ -195,21 +195,19 @@
 
 ## 网络动画
 
-于2017年12月1日宣布了3DCG动画的制作决定，并在2019年4月1日由[Netflix独占在世界范围内进行串流](../Page/Netflix.md "wikilink")。\[2\]
+于2017年12月1日宣布了3DCG动画的制作决定，并在2019年4月1日由[Netflix](../Page/Netflix.md "wikilink")独占在世界范围内进行串流。\[2\]
 
 ### 制作
 
   - 原作：[圓谷製作](../Page/圓谷製作.md "wikilink")、[清水榮一](../Page/清水榮一.md "wikilink")、[下口智裕](../Page/下口智裕.md "wikilink")\[3\]
   - 导演：[神山健治](../Page/神山健治.md "wikilink")、[荒牧伸志](../Page/荒牧伸志.md "wikilink")
   - 音乐：户田信子、陣内一真
-  - 制作：[Production I.G](../Page/Production_I.G.md "wikilink")、SOLA
-    DIGITAL ARTS
+  - 制作：[Production I.G](../Page/Production_I.G.md "wikilink")、SOLA DIGITAL ARTS
 
 ### 主题曲
 
   - 「Sight Over The Battle」\[4\]
-    作詞：YORKE，作曲：[Ta_2](../Page/鈴木達央.md "wikilink")
-    ，編曲：小山寿，主唱：[OLDCODEX](../Page/OLDCODEX.md "wikilink")
+    作詞：YORKE，作曲：[Ta_2](../Page/鈴木達央.md "wikilink") ，編曲：小山寿，主唱：[OLDCODEX](../Page/OLDCODEX.md "wikilink")
 
 ### 各話列表
 
@@ -326,19 +324,9 @@
 
   - [動畫《ULTRAMAN-超人再現-》官方網站](http://anime.heros-ultraman.com/)
 
-[分類:重製漫畫](https://zh.wikipedia.org/wiki/分類:重製漫畫 "wikilink")
-[分類:超人力霸王](https://zh.wikipedia.org/wiki/分類:超人力霸王 "wikilink")
-[分類:青年漫畫](https://zh.wikipedia.org/wiki/分類:青年漫畫 "wikilink")
-[分類:2019年日本網路動畫](https://zh.wikipedia.org/wiki/分類:2019年日本網路動畫 "wikilink")
-[分類:Production
-I.G](https://zh.wikipedia.org/wiki/分類:Production_I.G "wikilink")
-[分類:漫畫改編動畫](https://zh.wikipedia.org/wiki/分類:漫畫改編動畫 "wikilink")
-[分類:動力服題材動畫](https://zh.wikipedia.org/wiki/分類:動力服題材動畫 "wikilink")
-[分類:Netflix原创节目](https://zh.wikipedia.org/wiki/分類:Netflix原创节目 "wikilink")
+[分類:重製漫畫](https://zh.wikipedia.org/wiki/分類:重製漫畫 "wikilink") [分類:超人力霸王](https://zh.wikipedia.org/wiki/分類:超人力霸王 "wikilink") [分類:青年漫畫](https://zh.wikipedia.org/wiki/分類:青年漫畫 "wikilink") [分類:2019年日本網路動畫](https://zh.wikipedia.org/wiki/分類:2019年日本網路動畫 "wikilink") [分類:Production I.G](https://zh.wikipedia.org/wiki/分類:Production_I.G "wikilink") [分類:漫畫改編動畫](https://zh.wikipedia.org/wiki/分類:漫畫改編動畫 "wikilink") [分類:動力服題材動畫](https://zh.wikipedia.org/wiki/分類:動力服題材動畫 "wikilink") [分類:Netflix原创节目](https://zh.wikipedia.org/wiki/分類:Netflix原创节目 "wikilink")
 
 1.
-2.
-    アニメイトタイムズ|url=[https://www.animatetimes.com/news/details.php?id=1512032867|work=『ULTRAMAN』フル3DCGアニメーション製作決定](https://www.animatetimes.com/news/details.php?id=1512032867%7Cwork=『ULTRAMAN』フル3DCGアニメーション製作決定)！　公開は2019年予定、監督は神山健治氏と荒牧伸志氏に
-    {{\!}} アニメイトタイムズ|accessdate=2019-03-22|language=ja}}
+2.   アニメイトタイムズ|url=[https://www.animatetimes.com/news/details.php?id=1512032867|work=『ULTRAMAN』フル3DCGアニメーション製作決定](https://www.animatetimes.com/news/details.php?id=1512032867%7Cwork=『ULTRAMAN』フル3DCGアニメーション製作決定)！　公開は2019年予定、監督は神山健治氏と荒牧伸志氏に {{\!}} アニメイトタイムズ|accessdate=2019-03-22|language=ja}}
 3.
 4.

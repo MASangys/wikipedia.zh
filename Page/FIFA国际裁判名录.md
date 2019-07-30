@@ -1,8 +1,8 @@
-**FIFA国际裁判名录**（）是由[国际足球联合会支配](../Page/国际足球联合会.md "wikilink")、涉及[足球领域](../Page/足球.md "wikilink")（包括室外足球、[室内足球和](../Page/室内五人制足球.md "wikilink")[沙滩足球](https://zh.wikipedia.org/wiki/沙滩足球 "wikilink")）的全球性[裁判名录](https://zh.wikipedia.org/wiki/足球裁判 "wikilink")。名录上的成员有资格执法国际级别的比赛，并可在制服上佩戴国际足联徽章。
+**FIFA国际裁判名录**（）是由[国际足球联合会](../Page/国际足球联合会.md "wikilink")支配、涉及[足球](../Page/足球.md "wikilink")领域（包括室外足球、[室内足球和](../Page/室内五人制足球.md "wikilink")[沙滩足球](https://zh.wikipedia.org/wiki/沙滩足球 "wikilink")）的全球性[裁判名录](https://zh.wikipedia.org/wiki/足球裁判 "wikilink")。名录上的成员有资格执法国际级别的比赛，并可在制服上佩戴国际足联徽章。
 
 ## 提名
 
-[国际足球联合会的成员国每年都会提名执法](../Page/国际足球联合会.md "wikilink")[室外足球](../Page/足球.md "wikilink")、[室内足球或](../Page/室内五人制足球.md "wikilink")[沙滩足球的男子及女子官员](https://zh.wikipedia.org/wiki/沙滩足球 "wikilink")。提名至国际足联的裁判是由每个国家的裁判委员会负责选择。\[1\]\[2\]
+[国际足球联合会](../Page/国际足球联合会.md "wikilink")的成员国每年都会提名执法[室外足球](../Page/足球.md "wikilink")、[室内足球或](../Page/室内五人制足球.md "wikilink")[沙滩足球的男子及女子官员](https://zh.wikipedia.org/wiki/沙滩足球 "wikilink")。提名至国际足联的裁判是由每个国家的裁判委员会负责选择。\[1\]\[2\]
 
 国际足联共拟有五份名录：男子及女子（室外）足球裁判\[3\]\[4\]、男子及女子室内足球裁判\[5\]\[6\]，以及沙滩足球裁判的单列名录\[7\]。室外足球名录中的官员会被提名为[裁判或](https://zh.wikipedia.org/wiki/足球裁判 "wikilink")[助理裁判](https://zh.wikipedia.org/wiki/助理裁判 "wikilink")。而国际级别的室内足球和沙滩足球通常是由2位内场裁判控制，因此并不设相应的助理裁判\[8\]。
 
@@ -25,8 +25,7 @@
 ## 外部链接
 
   -
-[Category:足球裁判](https://zh.wikipedia.org/wiki/Category:足球裁判 "wikilink")
-[Category:国际足球联合会](https://zh.wikipedia.org/wiki/Category:国际足球联合会 "wikilink")
+[Category:足球裁判](https://zh.wikipedia.org/wiki/Category:足球裁判 "wikilink") [Category:国际足球联合会](https://zh.wikipedia.org/wiki/Category:国际足球联合会 "wikilink")
 
 1.
 

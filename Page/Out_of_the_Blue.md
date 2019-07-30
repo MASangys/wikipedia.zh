@@ -1,5 +1,4 @@
-《**Out of the
-Blue**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳凱彤的第二張音樂專輯](../Page/陳凱彤.md "wikilink")，於2016年5月26日推出。
+《**Out of the Blue**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳凱彤](../Page/陳凱彤.md "wikilink")的第二張音樂專輯，於2016年5月26日推出。
 
 ## 曲目
 
@@ -19,9 +18,4 @@ Blue**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wi
 | <small>2016</small> | <small>Ah Oh</small> |         \-          |
 | <small>少女時代</small> |          18          |          1          |
 
-[Category:陳凱彤音樂專輯](https://zh.wikipedia.org/wiki/Category:陳凱彤音樂專輯 "wikilink")
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:英皇娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:英皇娛樂音樂專輯 "wikilink")
+[Category:陳凱彤音樂專輯](https://zh.wikipedia.org/wiki/Category:陳凱彤音樂專輯 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:英皇娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:英皇娛樂音樂專輯 "wikilink")

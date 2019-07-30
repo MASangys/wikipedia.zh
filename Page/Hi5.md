@@ -1,20 +1,16 @@
 \-{T|hi5}-
 
-**hi5**是一座总部位于美国[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[旧金山的](../Page/旧金山.md "wikilink")[社交網路服務](../Page/社交網路服務.md "wikilink")，于2003年成立、2004年推出正式服务。[TechCrunch曾预言称到](../Page/TechCrunch.md "wikilink")2007年hi5将成为全球第二大社交网络，仅次于[Myspace](../Page/Myspace.md "wikilink")。\[1\]2008年，报道称hi5是世界上最流行的社交网站之一（第3名），仅次于[Facebook和MySpace](../Page/Facebook.md "wikilink")。\[2\]2011年12月，（原名）收购了hi5，价格不明。\[3\]\[4\]
+**hi5**是一座总部位于美国[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[旧金山](../Page/旧金山.md "wikilink")的[社交網路服務](../Page/社交網路服務.md "wikilink")，于2003年成立、2004年推出正式服务。[TechCrunch](../Page/TechCrunch.md "wikilink")曾预言称到2007年hi5将成为全球第二大社交网络，仅次于[Myspace](../Page/Myspace.md "wikilink")。\[1\]2008年，报道称hi5是世界上最流行的社交网站之一（第3名），仅次于[Facebook](../Page/Facebook.md "wikilink")和MySpace。\[2\]2011年12月，（原名）收购了hi5，价格不明。\[3\]\[4\]
 
 ## 历史
 
-[Hi5_map.svg](https://zh.wikipedia.org/wiki/File:Hi5_map.svg "fig:Hi5_map.svg")
-hi5于2003年由创立。\[5\]在2004年前，公司在[天使投资者帮助下募集到了](../Page/天使投资者.md "wikilink")25万美元并开始盈利。
+[Hi5_map.svg](https://zh.wikipedia.org/wiki/File:Hi5_map.svg "fig:Hi5_map.svg") hi5于2003年由创立。\[5\]在2004年前，公司在[天使投资者](../Page/天使投资者.md "wikilink")帮助下募集到了25万美元并开始盈利。
 
 hi5的发展速度很快，到了2006年中期，它成为了全球第八大社交网络。\[6\]2007年，[莫尔达维多风险投资公司向hi](https://zh.wikipedia.org/wiki/莫尔达维多风险投资公司 "wikilink")5发起了一连串的风险投资，总金额高达2000万美元。hi5在欧洲、拉丁美洲和亚洲占据了大量的市场份额，玛丽·米克曾经在她2007年的技术/互联网趋势报告将其世界最大的10个网站。\[7\]
 
-2009年4月，比尔·斯曼被任命为公司首席执行官，与此同时，公司开始将自己重新定位为社交游戏平台并开始向游戏开发商开放。\[8\]2010年年初，hi5收购了社交游戏公司Big
-Six。\[9\]2010年，hi5宣布它已从莫尔达维多募集3百万张换股票据，总资金高达800万美元。\[10\]2010年7月，hi5从Crosslink
-Capital募集了1400万美元。\[11\]
+2009年4月，比尔·斯曼被任命为公司首席执行官，与此同时，公司开始将自己重新定位为社交游戏平台并开始向游戏开发商开放。\[8\]2010年年初，hi5收购了社交游戏公司Big Six。\[9\]2010年，hi5宣布它已从莫尔达维多募集3百万张换股票据，总资金高达800万美元。\[10\]2010年7月，hi5从Crosslink Capital募集了1400万美元。\[11\]
 
-[Hi5_logo_-_2015.jpg](https://zh.wikipedia.org/wiki/File:Hi5_logo_-_2015.jpg "fig:Hi5_logo_-_2015.jpg")
-2011年1月，亚历克斯·圣约翰加入并担任了hi5的总裁兼首席技术官。\[12\]据Quantcast报道，hi5的美国月度游客达到了270万，全球访客达到了46.1万。\[13\]2011年，软件业资深人士卡伦·理查森开始担任该公司的董事会主席。\[14\]
+[Hi5_logo_-_2015.jpg](https://zh.wikipedia.org/wiki/File:Hi5_logo_-_2015.jpg "fig:Hi5_logo_-_2015.jpg") 2011年1月，亚历克斯·圣约翰加入并担任了hi5的总裁兼首席技术官。\[12\]据Quantcast报道，hi5的美国月度游客达到了270万，全球访客达到了46.1万。\[13\]2011年，软件业资深人士卡伦·理查森开始担任该公司的董事会主席。\[14\]
 
 2011年12月，hi5的资产被（原名）收购。\[15\]hi5拥有属于各种流派的200多个游戏，并以每周2至3个的速度开发新游戏。
 
@@ -35,9 +31,7 @@ hi5有很多典型的社交功能，如朋友圈、分享照片、用户组和�
 ## 外部链接
 
   -
-[Category:多語言網站](https://zh.wikipedia.org/wiki/Category:多語言網站 "wikilink")
-[Category:虛擬社群](https://zh.wikipedia.org/wiki/Category:虛擬社群 "wikilink")
-[Category:2003年建立的网站](https://zh.wikipedia.org/wiki/Category:2003年建立的网站 "wikilink")
+[Category:多語言網站](https://zh.wikipedia.org/wiki/Category:多語言網站 "wikilink") [Category:虛擬社群](https://zh.wikipedia.org/wiki/Category:虛擬社群 "wikilink") [Category:2003年建立的网站](https://zh.wikipedia.org/wiki/Category:2003年建立的网站 "wikilink")
 
 1.
 2.

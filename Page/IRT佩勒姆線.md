@@ -284,8 +284,7 @@
 
 ## 参考文献
 
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1919年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1919年啟用的鐵路線 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1919年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1919年啟用的鐵路線 "wikilink")
 
 1.
 

@@ -1,5 +1,4 @@
-**《SBS
-8點新聞》**（，）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[SBS的旗艦](../Page/SBS_\(韓國\).md "wikilink")[新聞節目](https://zh.wikipedia.org/wiki/新聞 "wikilink")，於韓國標準時間每日19:55-20:55播放。這節新聞於1991年12月9日即SBS的啓播日開播，也打破了韓國的電視台於每晚9點播放主新聞的傳統，因而以「提早1小時的新聞（）」為口號。
+**《SBS 8點新聞》**（，）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[SBS的旗艦](../Page/SBS_\(韓國\).md "wikilink")[新聞節目](https://zh.wikipedia.org/wiki/新聞 "wikilink")，於韓國標準時間每日19:55-20:55播放。這節新聞於1991年12月9日即SBS的啓播日開播，也打破了韓國的電視台於每晚9點播放主新聞的傳統，因而以「提早1小時的新聞（）」為口號。
 
 [2011年](../Page/2011年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")，本節新聞與SBS一樣，迎來其開播20週年紀念日，使得本節目成為開播時間最長的一檔由民營電視台開辦的晚間新聞節目。
 
@@ -11,9 +10,8 @@
 
 ## 節目調動
 
-  - [2017年](../Page/2017年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")：因韓國憲法法院成立[朴槿惠彈劾案](https://zh.wikipedia.org/wiki/朴槿惠彈劾案 "wikilink")，節目提前至19:00播出，電視聯播網的所有分台首度全程播出《SBS
-    8點新聞》，當日分台的自製新聞暫停播出。
-  - [2018年](../Page/2018年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")：因朝鮮最高領導人[金正恩與大韓民國總統](../Page/金正恩.md "wikilink")[文在寅在板門店舉行](../Page/文在寅.md "wikilink")[2018年朝韓首腦會晤](https://zh.wikipedia.org/wiki/2018年朝韓首腦會晤 "wikilink")，提前至18:51播出（原預定19:00播出）。
+  - [2017年](../Page/2017年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")：因韓國憲法法院成立[朴槿惠彈劾案](https://zh.wikipedia.org/wiki/朴槿惠彈劾案 "wikilink")，節目提前至19:00播出，電視聯播網的所有分台首度全程播出《SBS 8點新聞》，當日分台的自製新聞暫停播出。
+  - [2018年](../Page/2018年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")：因朝鮮最高領導人[金正恩](../Page/金正恩.md "wikilink")與大韓民國總統[文在寅](../Page/文在寅.md "wikilink")在板門店舉行[2018年朝韓首腦會晤](https://zh.wikipedia.org/wiki/2018年朝韓首腦會晤 "wikilink")，提前至18:51播出（原預定19:00播出）。
 
 ## 本地新聞部分
 
@@ -102,5 +100,4 @@
   - <http://news.sbs.co.kr/indexes/news_index.html>
   - <http://news.sbs.co.kr/review/indexes/8news_index.html>
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")

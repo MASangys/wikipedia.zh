@@ -1,17 +1,16 @@
-**Sayuri**（）為来自[日本](../Page/日本.md "wikilink")[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[福岡市的](../Page/福岡市.md "wikilink")[J-pop](https://zh.wikipedia.org/wiki/J-pop "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")，又常被称为**酸欠少女さユり**。所屬[唱片公司為](../Page/唱片公司.md "wikilink")。
+**Sayuri**（）為来自[日本](../Page/日本.md "wikilink")[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[福岡市](../Page/福岡市.md "wikilink")的[J-pop](https://zh.wikipedia.org/wiki/J-pop "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")，又常被称为**酸欠少女さユり**。所屬[唱片公司](../Page/唱片公司.md "wikilink")為。
 
 ## 經歷
 
 ### 正式出道前
 
-Sayuri讀幼兒園的時候，电视上播放的《[珍珠美人鱼](https://zh.wikipedia.org/wiki/珍珠美人鱼 "wikilink")》和《[寻找满月](https://zh.wikipedia.org/wiki/寻找满月 "wikilink")》两部充满音乐元素的动画让她萌生未来当歌手的梦想\[1\]。小學六年級時，接觸到了[關西傑尼斯8等偶像團體而深受其感動](../Page/關西傑尼斯8.md "wikilink")，後來對音樂產生了興趣而買了一把木吉他\[2\]。
+Sayuri讀幼兒園的時候，电视上播放的《[珍珠美人鱼](https://zh.wikipedia.org/wiki/珍珠美人鱼 "wikilink")》和《[寻找满月](https://zh.wikipedia.org/wiki/寻找满月 "wikilink")》两部充满音乐元素的动画让她萌生未来当歌手的梦想\[1\]。小學六年級時，接觸到了[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")等偶像團體而深受其感動，後來對音樂產生了興趣而買了一把木吉他\[2\]。
 
 在中学二年級時，因為憧憬關西傑尼斯8能自己作詞作曲，自己也首次開始嘗試作曲。Sayuri还表示因为当时渐渐不适应正常学校生活了，于是有了“那就唱歌吧”的想法\[3\]。
 
 在一开始Sayuri因缺乏自信而没有单独行动\[4\]。于是在之后Sayuri曾擔任兩人組合「LONGTAL（ロングタル）」的吉他手、樂團「夢雨（むう）」的吉他手兼主唱\[5\]。Sayuri还以福岡市為據點，並多次在大阪、廣島、名古屋等地區有live活動。在這個時期從高中退學。
 
-在LONGTAL的活動期間，Sayuri在2012年1月7日參加The 5th Music Revolution的JAPAN
-FINALE並獲獎，成為4123組出場者當中最年少（15岁）的得獎者\[6\]。得獎曲《るーららるーらーるららるーらー》在2016年6月發行，為Sayuri的第三首個人單曲。
+在LONGTAL的活動期間，Sayuri在2012年1月7日參加The 5th Music Revolution的JAPAN FINALE並獲獎，成為4123組出場者當中最年少（15岁）的得獎者\[6\]。得獎曲《るーららるーらーるららるーらー》在2016年6月發行，為Sayuri的第三首個人單曲。
 
 2013年夏，高中二年级的Sayuri從學校退学并来到東京發展\[7\]。
 
@@ -19,13 +18,11 @@ FINALE並獲獎，成為4123組出場者當中最年少（15岁）的得獎者\[
 
 #### 2015年
 
-3月1日、Sayuri在东京涉谷的[展演空间TSUTAYA](https://zh.wikipedia.org/wiki/展演空间 "wikilink")
-O-nest举办了她第一次的個人live演唱會，取名为“天亮的准备”（夜明けの支度）并且门票全部售完。三月是日本高中畢業的季節，Sayuri想透过这场特别的演唱会将让自己的过去随风而去，确定自己未来的道路。这场演唱会也是她本人从“明明继续上学可以变得更好”的后悔想法中“毕业”\[8\]。
+3月1日、Sayuri在东京涉谷的[展演空间TSUTAYA](https://zh.wikipedia.org/wiki/展演空间 "wikilink") O-nest举办了她第一次的個人live演唱會，取名为“天亮的准备”（夜明けの支度）并且门票全部售完。三月是日本高中畢業的季節，Sayuri想透过这场特别的演唱会将让自己的过去随风而去，确定自己未来的道路。这场演唱会也是她本人从“明明继续上学可以变得更好”的后悔想法中“毕业”\[8\]。
 
 7月30日、開始了定期live「酸欠少女さユり 黎明平行世界实验室 supported by 2.5D × KAI-YOU」。
 
-8月26日、Sayuri以個人單曲「ミカヅキ」正式出道。這首歌也被採用為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[亂步奇譚
-拉普拉斯的遊戲](../Page/亂步奇譚_拉普拉斯的遊戲.md "wikilink")》的片尾曲\[9\]\[10\]。这次出道的艺术形象、[MV由amazarashi乐队的艺术监督YKBX操刀](https://zh.wikipedia.org/wiki/MV "wikilink")，与YKBX合作的想法也由Sayuri指名提出。怀着目前虽并不成熟，但仍坚定信念向前进、不断完善自身的想法写下了这首单曲，她表示这就如同月牙状的月亮（ミカヅキ）虽不完美但最终也会变成圆月一样。　
+8月26日、Sayuri以個人單曲「ミカヅキ」正式出道。這首歌也被採用為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[亂步奇譚 拉普拉斯的遊戲](../Page/亂步奇譚_拉普拉斯的遊戲.md "wikilink")》的片尾曲\[9\]\[10\]。这次出道的艺术形象、[MV由amazarashi乐队的艺术监督YKBX操刀](https://zh.wikipedia.org/wiki/MV "wikilink")，与YKBX合作的想法也由Sayuri指名提出。怀着目前虽并不成熟，但仍坚定信念向前进、不断完善自身的想法写下了这首单曲，她表示这就如同月牙状的月亮（ミカヅキ）虽不完美但最终也会变成圆月一样。　
 
 #### 2016年
 
@@ -35,8 +32,7 @@ O-nest举办了她第一次的個人live演唱會，取名为“天亮的准备�
 
 6月24日、發行第三首個人單曲「るーららるーらーるららるーらー｣。該曲為她15歲時所創作，並完全保留當時的詞曲發行。
 
-12月7日、由[RADWIMPS的](../Page/RADWIMPS.md "wikilink")[野田洋次郎提供樂曲](https://zh.wikipedia.org/wiki/野田洋次郎 "wikilink")、製作的「フラレガイガール」作為第四首單曲發行。
-單曲的第二首歌「アノニマス」跟手機遊戲[消滅都市合作](../Page/消滅都市.md "wikilink")，玩家能在遊戲裡收聽該曲。Sayuri的角色也在期間限定的活動裡登場。
+12月7日、由[RADWIMPS](../Page/RADWIMPS.md "wikilink")的[野田洋次郎提供樂曲](https://zh.wikipedia.org/wiki/野田洋次郎 "wikilink")、製作的「フラレガイガール」作為第四首單曲發行。 單曲的第二首歌「アノニマス」跟手機遊戲[消滅都市](../Page/消滅都市.md "wikilink")合作，玩家能在遊戲裡收聽該曲。Sayuri的角色也在期間限定的活動裡登場。
 
 #### 2017年
 
@@ -44,8 +40,7 @@ O-nest举办了她第一次的個人live演唱會，取名为“天亮的准备�
 
 3月26日、參加2017年台湾高雄大港開唱，為初次海外演出。
 
-5月17日、發行了自己的第一張原創專輯「ミカヅキの航海」，並獲得了[Oricon](../Page/Oricon.md "wikilink")
-每日專輯排行榜冠軍\[13\]。之後也獲得了每周專輯排行榜第三名。與之前的單曲相比有非常大幅度的成長，也是第一次進入了排行榜前三名\[14\]。
+5月17日、發行了自己的第一張原創專輯「ミカヅキの航海」，並獲得了[Oricon](../Page/Oricon.md "wikilink") 每日專輯排行榜冠軍\[13\]。之後也獲得了每周專輯排行榜第三名。與之前的單曲相比有非常大幅度的成長，也是第一次進入了排行榜前三名\[14\]。
 
 5月19日、時隔一年又三個月，Sayuri再次進行了街頭live\[15\]， 於新宿Suica企鵝廣場集結了2000多名觀眾\[16\]。
 
@@ -63,8 +58,7 @@ O-nest举办了她第一次的個人live演唱會，取名为“天亮的准备�
 
 喜歡的東西有番茄、味噌鯖魚、电线塔。
 
-最喜歡的動漫歌曲是[Angel
-Beats\!的劇中歌](../Page/Angel_Beats!.md "wikilink")《Alchemy》。
+最喜歡的動漫歌曲是[Angel Beats\!的劇中歌](../Page/Angel_Beats!.md "wikilink")《Alchemy》。
 
 ## 音樂唱片
 
@@ -285,12 +279,9 @@ BVCL-795（通常盤）</p></td>
 
 ### 電視節目
 
-  - [saku
-    saku](https://zh.wikipedia.org/wiki/saku_saku "wikilink")（[tvk](https://zh.wikipedia.org/wiki/テレビ神奈川 "wikilink")、2015年8月25日、2016年2月22日
-    - 2月26日）
+  - [saku saku](https://zh.wikipedia.org/wiki/saku_saku "wikilink")（[tvk](https://zh.wikipedia.org/wiki/テレビ神奈川 "wikilink")、2015年8月25日、2016年2月22日 - 2月26日）
   - [めざましテレビ](https://zh.wikipedia.org/wiki/めざましテレビ "wikilink")（[フジテレビ](https://zh.wikipedia.org/wiki/フジテレビ "wikilink")、2016年2月24日）
-  - [COUNT DOWN
-    TV](../Page/COUNT_DOWN_TV.md "wikilink")（[TBS](https://zh.wikipedia.org/wiki/TBSテレビ "wikilink")、2016年2月27日）
+  - [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")（[TBS](https://zh.wikipedia.org/wiki/TBSテレビ "wikilink")、2016年2月27日）
   - [超流派](https://zh.wikipedia.org/wiki/超流派 "wikilink")（[テレビ東京](https://zh.wikipedia.org/wiki/テレビ東京 "wikilink")、2016年7月8日）
   - [ZIP\!](https://zh.wikipedia.org/wiki/ZIP! "wikilink")（[日本テレビ](https://zh.wikipedia.org/wiki/日本テレビ "wikilink")、2016年12月22日）
 
@@ -298,17 +289,16 @@ BVCL-795（通常盤）</p></td>
 
 ## 外部連結
 
-  - [酸欠少女 さユり パラレル YouTube
-    Channel](https://www.youtube.com/channel/UC1wLdD1RVGp_rLH1NRJnD0A)
+  - [酸欠少女 さユり パラレル YouTube Channel](https://www.youtube.com/channel/UC1wLdD1RVGp_rLH1NRJnD0A)
 
   -
   - [酸欠少女さユり公式サイト](http://sayuri-web.com)
 
-  - [ヤマハミュージックアーティスト -
-    さユり](https://web.archive.org/web/20151107000106/http://www.yamaha-ma.co.jp/artists/sayuri/)
+  - [ヤマハミュージックアーティスト - さユり](https://web.archive.org/web/20151107000106/http://www.yamaha-ma.co.jp/artists/sayuri/)
 
-[Category:福岡市出身人物](https://zh.wikipedia.org/wiki/Category:福岡市出身人物 "wikilink")
-[Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
+  - [酸欠少女さユり的Instagram帳戶](https://www.instagram.com/sayuri149cm/)
+
+[Category:福岡市出身人物](https://zh.wikipedia.org/wiki/Category:福岡市出身人物 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
 
 1.
 2.
@@ -325,9 +315,7 @@ BVCL-795（通常盤）</p></td>
 8.
 9.
 
-10. [株式会社ロッキング・オン](https://zh.wikipedia.org/wiki/ロッキング・オン "wikilink")『[ROCKIN'ON
-    JAPAN](https://zh.wikipedia.org/wiki/ROCKIN'ON_JAPAN "wikilink")』2015年10月号
-    220頁
+10. [株式会社ロッキング・オン](https://zh.wikipedia.org/wiki/ロッキング・オン "wikilink")『[ROCKIN'ON JAPAN](https://zh.wikipedia.org/wiki/ROCKIN'ON_JAPAN "wikilink")』2015年10月号 220頁
 
 11.
 

@@ -1,12 +1,12 @@
-**Gathering株式會社**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")\[1\]，專門從事[動畫製作的公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於2009年\[2\]。
+**Gathering株式會社**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")\[1\]，專門從事[動畫製作的公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於2009年\[2\]。
 
 ## 概要、沿革
 
 2009年9月，由時任的董事戶田和宏成立個人工作室。
 
-2012年4月，獲[旭Production出金投資提攜該工作室](../Page/旭Production.md "wikilink")\[3\]。
+2012年4月，獲[旭Production](../Page/旭Production.md "wikilink")出金投資提攜該工作室\[3\]。
 
-2012年12月，總部搬遷至[東京都](../Page/東京都.md "wikilink")[千代田區現址](../Page/千代田區.md "wikilink")。2015年9月1日，公司改名「Gathering株式會社」\[4\]。
+2012年12月，總部搬遷至[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")現址。2015年9月1日，公司改名「Gathering株式會社」\[4\]。
 
 ## 作品履歷
 
@@ -60,12 +60,9 @@
 
   - （2015年－）
 
-  - [磯部磯兵衛物語
-    ～浮世很辛苦唷～](https://zh.wikipedia.org/wiki/磯部磯兵衛物語～浮世很辛苦唷～ "wikilink")
-    (2015年)
+  - [磯部磯兵衛物語 ～浮世很辛苦唷～](https://zh.wikipedia.org/wiki/磯部磯兵衛物語～浮世很辛苦唷～ "wikilink") (2015年)
 
-  - [灰姑娘女孩劇場
-    週二灰姑娘劇場](https://zh.wikipedia.org/wiki/灰姑娘女孩劇場 "wikilink")（2017年）
+  - [灰姑娘女孩劇場 週二灰姑娘劇場](https://zh.wikipedia.org/wiki/灰姑娘女孩劇場 "wikilink")（2017年）
 
 ## 來源
 
@@ -77,9 +74,7 @@
 
   - [Gathering株式會社公式官網](http://gathering.co.jp/)
 
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink")
-[Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink")
+[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink") [Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink")
 
 1.
 2.

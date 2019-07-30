@@ -1,13 +1,6 @@
-**LibreOffice Writer**（又稱**Writer**）
-是由[文檔基金會所開發的免費文字編輯](../Page/文檔基金會.md "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")。這一個軟件提供[Microsoft
-Word軟件包括的基本功能](../Page/Microsoft_Word.md "wikilink")，可以把文件以[ODT](https://zh.wikipedia.org/wiki/ODT "wikilink")、[DOC或](https://zh.wikipedia.org/wiki/DOC "wikilink")[PDF的形式儲存和輸出](https://zh.wikipedia.org/wiki/PDF "wikilink")。
+**LibreOffice Writer**（又稱**Writer**） 是由[文檔基金會](../Page/文檔基金會.md "wikilink")所開發的免費文字編輯[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")。這一個軟件提供[Microsoft Word軟件包括的基本功能](../Page/Microsoft_Word.md "wikilink")，可以把文件以[ODT](https://zh.wikipedia.org/wiki/ODT "wikilink")、[DOC或](https://zh.wikipedia.org/wiki/DOC "wikilink")[PDF的形式儲存和輸出](https://zh.wikipedia.org/wiki/PDF "wikilink")。
 
-LibreOffice還提供[LibreOffice
-Impress](../Page/LibreOffice_Impress.md "wikilink")、[LibreOffice
-Math](../Page/LibreOffice_Math.md "wikilink")、[LibreOffice
-Draw](../Page/LibreOffice_Draw.md "wikilink")、[LibreOffice
-Calc和](../Page/LibreOffice_Calc.md "wikilink")[LibreOffice
-Base免費下載](../Page/LibreOffice_Base.md "wikilink")。以上的軟件都有48種（尚有其他語言的版本在開發中）的不同[語言版本方便各國人士](../Page/語言.md "wikilink")。
+LibreOffice還提供[LibreOffice Impress](../Page/LibreOffice_Impress.md "wikilink")、[LibreOffice Math](../Page/LibreOffice_Math.md "wikilink")、[LibreOffice Draw](../Page/LibreOffice_Draw.md "wikilink")、[LibreOffice Calc和](../Page/LibreOffice_Calc.md "wikilink")[LibreOffice Base免費下載](../Page/LibreOffice_Base.md "wikilink")。以上的軟件都有48種（尚有其他語言的版本在開發中）的不同[語言](../Page/語言.md "wikilink")版本方便各國人士。
 
 ## 參見
 
@@ -23,5 +16,4 @@ Base免費下載](../Page/LibreOffice_Base.md "wikilink")。以上的軟件都�
 
   - [LibreOffice](https://www.libreoffice.org)
 
-[Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")
-[Category:文書處理器](https://zh.wikipedia.org/wiki/Category:文書處理器 "wikilink")
+[Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink") [Category:文書處理器](https://zh.wikipedia.org/wiki/Category:文書處理器 "wikilink")

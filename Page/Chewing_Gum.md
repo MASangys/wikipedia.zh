@@ -1,6 +1,4 @@
-《**Chewing
-Gum**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[NCT
-Dream的首張數位單曲](../Page/NCT.md "wikilink")，由[SM娛樂製作](../Page/SM娛樂.md "wikilink")，KT音樂發行，於2016年8月27日發行。
+《**Chewing Gum**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[NCT Dream的首張數位單曲](../Page/NCT.md "wikilink")，由[SM娛樂](../Page/SM娛樂.md "wikilink")製作，KT音樂發行，於2016年8月27日發行。
 
 ## 簡介
 
@@ -13,8 +11,7 @@ Dream的首張數位單曲](../Page/NCT.md "wikilink")，由[SM娛樂製作](../
   - 2016年8月22日，公開[第一波預告](https://www.youtube.com/watch?v=FksnMkMgCTA)。
   - 2016年8月23日，公開[第二波預告](https://www.youtube.com/watch?v=U6y6WicRiDk)。
   - 2016年8月24日，公開[MV](https://www.youtube.com/watch?v=fwmvF5ffmhg)。
-  - 2016年8月25日，在《[M\!
-    Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。
+  - 2016年8月25日，在《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。
 
 ### 正式發行
 
@@ -68,5 +65,4 @@ Dream的首張數位單曲](../Page/NCT.md "wikilink")，由[SM娛樂製作](../
   -
   -
   -
-[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink")
-[Category:NCT](https://zh.wikipedia.org/wiki/Category:NCT "wikilink")
+[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink") [Category:NCT](https://zh.wikipedia.org/wiki/Category:NCT "wikilink")

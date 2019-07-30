@@ -1,42 +1,28 @@
-**Show Me The Money
-4**（，简称：**SMTM4**）是[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Mnet频道制作并播出的](../Page/Mnet媒體.md "wikilink")[Hiphop](../Page/嘻哈音樂.md "wikilink")[选秀节目](../Page/真人實境秀.md "wikilink")，为[Show
-Me The
-Money系列的第四季](../Page/Show_Me_The_Money.md "wikilink")，于2015年6月26日至8月28日每逢周五晚间11时整（[KST](../Page/韩国标准时.md "wikilink")）播出。\[1\]
+**Show Me The Money 4**（，简称：**SMTM4**）是[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Mnet频道制作并播出的](../Page/Mnet媒體.md "wikilink")[Hiphop](../Page/嘻哈音樂.md "wikilink")[选秀节目](../Page/真人實境秀.md "wikilink")，为[Show Me The Money系列的第四季](../Page/Show_Me_The_Money.md "wikilink")，于2015年6月26日至8月28日每逢周五晚间11时整（[KST](../Page/韩国标准时.md "wikilink")）播出。\[1\]
 
-SMTM第四季由[YG的](../Page/YG娛樂.md "wikilink")[Jinusean](../Page/Jinusean.md "wikilink")、[Tablo](https://zh.wikipedia.org/wiki/李善雄 "wikilink")；[Brand
-New Music的](../Page/Brand_New_Music.md "wikilink")、[San
-E](../Page/San_E.md "wikilink")；的[朴載範](../Page/朴載範.md "wikilink")、[Loco以及](../Page/Loco.md "wikilink")的与[Block
-B的成员](../Page/Block_B.md "wikilink")[Zico担任导师](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")。\[2\]此季超过7000名参赛者参与面试，有越来越多的偶像Rapper、退伍军人和女Rapper报名参赛。优胜者将获得1亿韩元奖金以及一辆[起亚早安汽车](../Page/起亚早安.md "wikilink")。[Snoop
-Dogg也作为特别嘉宾参与节目](../Page/史努比狗狗.md "wikilink")，担任游击任务的评审。本季的冠军及亚军分别是[Basick和](https://zh.wikipedia.org/wiki/Basick "wikilink")[MINO](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")。
+SMTM第四季由[YG的](../Page/YG娛樂.md "wikilink")[Jinusean](../Page/Jinusean.md "wikilink")、[Tablo](https://zh.wikipedia.org/wiki/李善雄 "wikilink")；[Brand New Music的](../Page/Brand_New_Music.md "wikilink")、[San E](../Page/San_E.md "wikilink")；的[朴載範](../Page/朴載範.md "wikilink")、[Loco](../Page/Loco.md "wikilink")以及的与[Block B的成员](../Page/Block_B.md "wikilink")[Zico担任导师](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")。\[2\]此季超过7000名参赛者参与面试，有越来越多的偶像Rapper、退伍军人和女Rapper报名参赛。优胜者将获得1亿韩元奖金以及一辆[起亚早安](../Page/起亚早安.md "wikilink")汽车。[Snoop Dogg也作为特别嘉宾参与节目](../Page/史努比狗狗.md "wikilink")，担任游击任务的评审。本季的冠军及亚军分别是[Basick和](https://zh.wikipedia.org/wiki/Basick "wikilink")[MINO](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")。
 
 ## 制作人团队（导师）
 
-**[YG队](../Page/YG娛樂.md "wikilink")（[Tablo](https://zh.wikipedia.org/wiki/李善雄 "wikilink")
-& [Jinusean](../Page/Jinusean.md "wikilink")）：**
+**[YG队](../Page/YG娛樂.md "wikilink")（[Tablo](https://zh.wikipedia.org/wiki/李善雄 "wikilink") & [Jinusean](../Page/Jinusean.md "wikilink")）：**
 
-  - [Tablo](https://zh.wikipedia.org/wiki/李善雄 "wikilink")：Rapper兼制作人，音乐团体[Epik
-    High成员](../Page/Epik_High.md "wikilink")
+  - [Tablo](https://zh.wikipedia.org/wiki/李善雄 "wikilink")：Rapper兼制作人，音乐团体[Epik High成员](../Page/Epik_High.md "wikilink")
   - [Jinusean](../Page/Jinusean.md "wikilink")：Hiphop二人组，由（金正宇）和（诺胜焕）组成
 
-**队（[朴載範](../Page/Dok2.md "wikilink") &
-[Loco](../Page/Loco.md "wikilink")）：**
+**队（[朴載範](../Page/Dok2.md "wikilink") & [Loco](../Page/Loco.md "wikilink")）：**
 
   - [朴載範](../Page/朴載範.md "wikilink")：AOMG唱片CEO，Rapper兼歌手
   - [Loco](../Page/Loco.md "wikilink")：Rapper，SMTM1冠军
 
-**[Brand New Music队](../Page/Brand_New_Music.md "wikilink")（ & [San
-E](../Page/San_E.md "wikilink")）：**
+**[Brand New Music队](../Page/Brand_New_Music.md "wikilink")（ & [San E](../Page/San_E.md "wikilink")）：**
 
   - ：SMTM1导师，具有影响力的Rapper兼作词家
 
-  - [San E](../Page/San_E.md "wikilink")：嘻哈歌手，SMTM3导师及[Unpretty
-    Rapstar主持人](../Page/Unpretty_Rapstar.md "wikilink")
+  - [San E](../Page/San_E.md "wikilink")：嘻哈歌手，SMTM3导师及[Unpretty Rapstar主持人](../Page/Unpretty_Rapstar.md "wikilink")
 
-**ZiPal队（[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink") &
-）：**
+**ZiPal队（[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink") & ）：**
 
-  - [Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")：音乐团体[Block
-    B的队长](../Page/Block_B.md "wikilink")，在主流音乐领域取得成功的同时又保持了在地下Hiphop领域的声誉
+  - [Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")：音乐团体[Block B的队长](../Page/Block_B.md "wikilink")，在主流音乐领域取得成功的同时又保持了在地下Hiphop领域的声誉
 
   - ：代表人物，韩国地下Hiphop歌手
 
@@ -46,20 +32,17 @@ E](../Page/San_E.md "wikilink")）：**
 
   - ：PJR娱乐所属Rapper，曾参加SMTM4
 
-  - ：Rapper，曾参与[Block
-    B子团体BASTARZ的歌曲Feat](../Page/Block_B.md "wikilink")。节目结束后签约[YG娛樂旗下的厂牌HIGHGRND](../Page/YG娛樂.md "wikilink")。
+  - ：Rapper，曾参与[Block B子团体BASTARZ的歌曲Feat](../Page/Block_B.md "wikilink")。节目结束后签约[YG娛樂](../Page/YG娛樂.md "wikilink")旗下的厂牌HIGHGRND。
 
   - [Superbee](https://zh.wikipedia.org/wiki/Superbee "wikilink")：参加了SMTM开播至今所有的赛季，但在SMTM4之前从未通过第一轮
 
-  - ：Rapper老手，之前签约的唱片公司已倒闭，现无所属公司。曾与Jiggy Fellaz、Basick组成Double
-    Trouble活动
+  - ：Rapper老手，之前签约的唱片公司已倒闭，现无所属公司。曾与Jiggy Fellaz、Basick组成Double Trouble活动
 
 **AOMG队**
 
   - 地球人：Rhythm Power成员，隶属旗下
 
-  - ：[Geeks组合成员](https://zh.wikipedia.org/wiki/Geeks "wikilink")，隶属Grandline娱乐及[RBW旗下](../Page/Rainbow_Bridge_World.md "wikilink")。Buckwilds
-    crew成员
+  - ：[Geeks组合成员](https://zh.wikipedia.org/wiki/Geeks "wikilink")，隶属Grandline娱乐及[RBW旗下](../Page/Rainbow_Bridge_World.md "wikilink")。Buckwilds crew成员
 
   - Sik-K：Yellows mob成员，現屬AOMG旗下
 
@@ -67,9 +50,9 @@ E](../Page/San_E.md "wikilink")）：**
 
 **ZiPal队**
 
-  - [One](https://zh.wikipedia.org/wiki/鄭帝元 "wikilink")：曾作为1Punch的队长兼Rapper隶属[Brave娛樂旗下](../Page/Brave娛樂.md "wikilink")，节目结束后作为独唱歌手签约[YG](../Page/YG娛樂.md "wikilink")。\[3\]
+  - [One](https://zh.wikipedia.org/wiki/鄭帝元 "wikilink")：曾作为1Punch的队长兼Rapper隶属[Brave娛樂](../Page/Brave娛樂.md "wikilink")旗下，节目结束后作为独唱歌手签约[YG](../Page/YG娛樂.md "wikilink")。\[3\]
 
-  - [MINO](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")：[WINNER的主Rapper](../Page/WINNER.md "wikilink")，隶属[YG旗下](../Page/YG娛樂.md "wikilink")
+  - [MINO](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")：[WINNER](../Page/WINNER.md "wikilink")的主Rapper，隶属[YG旗下](../Page/YG娛樂.md "wikilink")
 
   - ：Buckwilds组合及Do'main crews的成员\[4\]
 
@@ -79,15 +62,11 @@ E](../Page/San_E.md "wikilink")）：**
 
   - ：隶属JustMusic旗下
 
-  - [Basick](https://zh.wikipedia.org/wiki/Basick "wikilink")：Rapper老手，曾与Jiggy
-    Fellaz、InnoVator组成Hiphop团体Double
-    Trouble活动。现签约[RBW](../Page/Rainbow_Bridge_World.md "wikilink")。
+  - [Basick](https://zh.wikipedia.org/wiki/Basick "wikilink")：Rapper老手，曾与Jiggy Fellaz、InnoVator组成Hiphop团体Double Trouble活动。现签约[RBW](../Page/Rainbow_Bridge_World.md "wikilink")。
 
-  - ，Rapper老手，曾与[Dok2组成Hiphop组合ALL](../Page/Dok2.md "wikilink") BLACK
+  - ，Rapper老手，曾与[Dok2](../Page/Dok2.md "wikilink")组成Hiphop组合ALL BLACK
 
-  - [Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")，[Phantom成员](../Page/Phantom_\(韓國組合\).md "wikilink")，隶属[Brand
-    New
-    Music及](../Page/Brand_New_Music.md "wikilink")[RBW旗下](../Page/Rainbow_Bridge_World.md "wikilink")
+  - [Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")，[Phantom成员](../Page/Phantom_\(韓國組合\).md "wikilink")，隶属[Brand New Music及](../Page/Brand_New_Music.md "wikilink")[RBW旗下](../Page/Rainbow_Bridge_World.md "wikilink")
 
 ## 回合
 
@@ -168,8 +147,7 @@ E](../Page/San_E.md "wikilink")）：**
 
 ### 第四轮－游击“Cypher”任务
 
-所有Rapper必须轮流进行Cypher，其中表现最差的4名Rapper将被淘汰。[Snoop
-Dogg作为特别制作人担任此轮的评审](../Page/史努比狗狗.md "wikilink")。此轮将决出24强。
+所有Rapper必须轮流进行Cypher，其中表现最差的4名Rapper将被淘汰。[Snoop Dogg作为特别制作人担任此轮的评审](../Page/史努比狗狗.md "wikilink")。此轮将决出24强。
 
 ### 第五轮－团队选择
 
@@ -197,8 +175,7 @@ Dogg作为特别制作人担任此轮的评审](../Page/史努比狗狗.md "wiki
 
 SMTM4特别公演阵容
 
-ZiPal队在投票中以18票的巨大优势获得了第一，之后的制作人选择中共有9人选择了AOMG队；6人选择了YG队；而Brand
-New队则得到了5人的选择。此轮将产生16强Rapper。
+ZiPal队在投票中以18票的巨大优势获得了第一，之后的制作人选择中共有9人选择了AOMG队；6人选择了YG队；而Brand New队则得到了5人的选择。此轮将产生16强Rapper。
 
 ### 第六轮－正式歌曲任务
 
@@ -444,8 +421,7 @@ New队则得到了5人的选择。此轮将产生16强Rapper。
 
 ### 第十轮－总决赛
 
-[Basick赢得了第一轮投票](https://zh.wikipedia.org/wiki/Basick "wikilink")，并最终获得胜利。Brand
-New队最终获得了Show Me The Money 4的胜利。
+[Basick赢得了第一轮投票](https://zh.wikipedia.org/wiki/Basick "wikilink")，并最终获得胜利。Brand New队最终获得了Show Me The Money 4的胜利。
 
 <table>
 <caption>公演对阵</caption>
@@ -494,60 +470,49 @@ New队最终获得了Show Me The Money 4的胜利。
 
   - **YG队：**、[Superbee](https://zh.wikipedia.org/wiki/Superbee "wikilink")、
   - **AOMG队：**地球人、、Sik-K
-  - **ZiPal队：**[MINO](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")、、Ja
-    Mezz
-  - **Brand
-    New队：**[Basick](https://zh.wikipedia.org/wiki/Basick "wikilink")、、[Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")
+  - **ZiPal队：**[MINO](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")、、Ja Mezz
+  - **Brand New队：**[Basick](https://zh.wikipedia.org/wiki/Basick "wikilink")、、[Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")
 
 **8强：**
 
   - **YG队：**、[Superbee](https://zh.wikipedia.org/wiki/Superbee "wikilink")、
   - **AOMG队：**地球人、
   - **ZiPal队：**[MINO](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")、
-  - **Brand
-    New队：**[Basick](https://zh.wikipedia.org/wiki/Basick "wikilink")、、
+  - **Brand New队：**[Basick](https://zh.wikipedia.org/wiki/Basick "wikilink")、、
 
 **6强：**
 
   - **YG队：**、
   - **AOMG队：**
   - **ZiPal队：**[MINO](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")
-  - **Brand
-    New队：**[Basick](https://zh.wikipedia.org/wiki/Basick "wikilink")、
+  - **Brand New队：**[Basick](https://zh.wikipedia.org/wiki/Basick "wikilink")、
 
 **半决赛：**
 
   - **YG队：**
   - **ZiPal队：**[MINO](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")
-  - **Brand
-    New队：**[Basick](https://zh.wikipedia.org/wiki/Basick "wikilink")、
+  - **Brand New队：**[Basick](https://zh.wikipedia.org/wiki/Basick "wikilink")、
 
 **决赛：**
 
   - **ZiPal队：**[MINO](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")
-  - **Brand
-    New队：**[Basick](https://zh.wikipedia.org/wiki/Basick "wikilink")
+  - **Brand New队：**[Basick](https://zh.wikipedia.org/wiki/Basick "wikilink")
 
 **冠军：**
 
-  - **Brand
-    New队：**[Basick](https://zh.wikipedia.org/wiki/Basick "wikilink")
+  - **Brand New队：**[Basick](https://zh.wikipedia.org/wiki/Basick "wikilink")
 
 ## 话题性选手
 
-  - ：[CL的Rap老师](https://zh.wikipedia.org/wiki/李彩麟 "wikilink")，签约[Brand
-    New
-    Music旗下](../Page/Brand_New_Music.md "wikilink")，是韩国Hiphop界重要影响力的人物之一。令人震惊的是仅在第二轮就因歌词失误而被淘汰。\[5\]
+  - ：[CL的Rap老师](https://zh.wikipedia.org/wiki/李彩麟 "wikilink")，签约[Brand New Music旗下](../Page/Brand_New_Music.md "wikilink")，是韩国Hiphop界重要影响力的人物之一。令人震惊的是仅在第二轮就因歌词失误而被淘汰。\[5\]
 
-  - [周宪](../Page/李周憲.md "wikilink")：[MONSTA
-    X成员](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")，在第三轮被淘汰，虽得到特别机会参与败者复活赛，但最终还是败给了One。\[6\]
+  - [周宪](../Page/李周憲.md "wikilink")：[MONSTA X成员](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")，在第三轮被淘汰，虽得到特别机会参与败者复活赛，但最终还是败给了One。\[6\]
 
   - [崔翰率](https://zh.wikipedia.org/wiki/崔翰率 "wikilink")：[Seventeen成员](../Page/Seventeen_\(組合\).md "wikilink")，因勉强通过第二轮，而其它更有经验的歌手却被淘汰而引起了争议，在第三轮与Andup的对决中被淘汰。\[7\]
 
   - [禹泰云](https://zh.wikipedia.org/wiki/禹泰云 "wikilink")：制作人[Zico的哥哥及前](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")[SPEED组合的队长](../Page/SPEED_\(韓國音樂團體\).md "wikilink")，现为独唱Rapper所属Doublekick娱乐旗下。他最高晋级至24强，但最终止步于16强。
 
-**其他参赛者：**[金旻載](../Page/金旻載.md "wikilink")（演员）、[RAVI](../Page/金元植.md "wikilink")（[VIXX成员](../Page/VIXX.md "wikilink")）、（后参加[高等Rapper获得冠军](../Page/高等Rapper.md "wikilink")）、（以擅长[Freestyle
-Rap而闻名](../Page/即興饒舌.md "wikilink")）、（SMTM3参赛者）
+**其他参赛者：**[金旻載](../Page/金旻載.md "wikilink")（演员）、[RAVI](../Page/金元植.md "wikilink")（[VIXX](../Page/VIXX.md "wikilink")成员）、（后参加[高等Rapper](../Page/高等Rapper.md "wikilink")获得冠军）、（以擅长[Freestyle Rap而闻名](../Page/即興饒舌.md "wikilink")）、（SMTM3参赛者）
 
 ## 音源销量
 
@@ -821,8 +786,7 @@ Rap而闻名](../Page/即興饒舌.md "wikilink")）、（SMTM3参赛者）
 
 ## 收视率
 
-以下纪录《**Show Me The Money
-4**》节目之全国收视，表示为该年度最高收视率，则表示为该年度最低收视率。\[9\]\[10\]
+以下纪录《**Show Me The Money 4**》节目之全国收视，表示为该年度最高收视率，则表示为该年度最低收视率。\[9\]\[10\]
 
 <table>
 <thead>
@@ -899,10 +863,7 @@ Rap而闻名](../Page/即興饒舌.md "wikilink")）、（SMTM3参赛者）
 
   - [Show Me The Money 4](http://www.mnet.com/tv/program/1454) - 官方网站
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:韩国音乐比赛](https://zh.wikipedia.org/wiki/Category:韩国音乐比赛 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:韩国音乐比赛](https://zh.wikipedia.org/wiki/Category:韩国音乐比赛 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
 1.
 2.

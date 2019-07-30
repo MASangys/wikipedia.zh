@@ -1,4 +1,4 @@
-《**中国物理C**》（）是[中国物理学会主办](../Page/中国物理学会.md "wikilink")，[中国科学院高能物理研究所与](https://zh.wikipedia.org/wiki/中国科学院高能物理研究所 "wikilink")[中国科学院近代物理研究所承办的英文](https://zh.wikipedia.org/wiki/中国科学院近代物理研究所 "wikilink")[物理学学术期刊](../Page/物理学.md "wikilink")，创办于1977年，现为月刊。《中国物理C》原名为《**高能物理与核物理**》（），接受中文和英文稿件\[1\]。2008年改为英文期刊，并将刊名定为《中国物理C》，属《[中国物理](https://zh.wikipedia.org/wiki/中国物理 "wikilink")》期刊系列。
+《**中国物理C**》（）是[中国物理学会](../Page/中国物理学会.md "wikilink")主办，[中国科学院高能物理研究所与](https://zh.wikipedia.org/wiki/中国科学院高能物理研究所 "wikilink")[中国科学院近代物理研究所承办的英文](https://zh.wikipedia.org/wiki/中国科学院近代物理研究所 "wikilink")[物理学](../Page/物理学.md "wikilink")学术期刊，创办于1977年，现为月刊。《中国物理C》原名为《**高能物理与核物理**》（），接受中文和英文稿件\[1\]。2008年改为英文期刊，并将刊名定为《中国物理C》，属《[中国物理](https://zh.wikipedia.org/wiki/中国物理 "wikilink")》期刊系列。
 
 ## 历史
 
@@ -11,9 +11,7 @@
   - [《中国物理C》](http://cpc-hepnp.ihep.ac.cn:8080/Jwk_cpc/EN/volumn/home.shtml)
   - [英国物理学会出版社《中国物理C》](http://iopscience.iop.org/1674-1137)
 
-[Category:物理学期刊](https://zh.wikipedia.org/wiki/Category:物理学期刊 "wikilink")
-[Category:中国物理学会期刊](https://zh.wikipedia.org/wiki/Category:中国物理学会期刊 "wikilink")
-[Category:1977年建立的出版物](https://zh.wikipedia.org/wiki/Category:1977年建立的出版物 "wikilink")
+[Category:物理学期刊](https://zh.wikipedia.org/wiki/Category:物理学期刊 "wikilink") [Category:中国物理学会期刊](https://zh.wikipedia.org/wiki/Category:中国物理学会期刊 "wikilink") [Category:1977年建立的出版物](https://zh.wikipedia.org/wiki/Category:1977年建立的出版物 "wikilink")
 
 1.
 2.

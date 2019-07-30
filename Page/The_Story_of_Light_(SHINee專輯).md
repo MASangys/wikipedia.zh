@@ -1,29 +1,14 @@
-《**The Story of
-Light**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee的第](../Page/SHINee.md "wikilink")6張韓語正規專輯，此張專輯為成員[鐘鉉逝世後組合首次以四人體制發行的作品](../Page/鐘鉉.md "wikilink")，整張專輯分為三張EP發行，於2018年6月25日正式發行完整版专辑。专辑中的主打曲目共有三首，分别為《**Good
-Evening**（**去接你**）》\[1\]、《**I Want You**》，以及《**Our
-Page**（**你留下的话**）》。將在9月10日推出第六張正規專輯《The Story of
-Light: Epilogue》，將收錄由三張EP構成的15首歌曲和1首新歌《**Countless**（**無數**）》，共16首歌曲。
+《**The Story of Light**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")的第6張韓語正規專輯，此張專輯為成員[鐘鉉](../Page/鐘鉉.md "wikilink")逝世後組合首次以四人體制發行的作品，整張專輯分為三張EP發行，於2018年6月25日正式發行完整版专辑。专辑中的主打曲目共有三首，分别為《**Good Evening**（**去接你**）》\[1\]、《**I Want You**》，以及《**Our Page**（**你留下的话**）》。將在9月10日推出第六張正規專輯《The Story of Light: Epilogue》，將收錄由三張EP構成的15首歌曲和1首新歌《**Countless**（**無數**）》，共16首歌曲。
 
 ## 背景
 
-2018年5月15日，SHINee宣告將於5月28日推出其第六張正規專輯，並釋出兩張預告照。正規六輯《The Story of
-Light》由三張專輯構成，5月28日公開EP.1、6月11日公開EP.2、6月25日公開EP.3，每張專輯皆會收錄全新的五首歌曲。
+2018年5月15日，SHINee宣告將於5月28日推出其第六張正規專輯，並釋出兩張預告照。正規六輯《The Story of Light》由三張專輯構成，5月28日公開EP.1、6月11日公開EP.2、6月25日公開EP.3，每張專輯皆會收錄全新的五首歌曲。
 
-兩日後，SHINee官方網站釋出一張充滿藝術風格的行程表，並於28日下午6點（韓國時間）公開包含主打曲《Good
-Evening》在內，其他全新的五首歌曲。主打曲《Good
-Evening》由成員KEY和珉豪參與Rap制作，提高了歌曲的完成度，而見面會上將首度公開新曲《Good
-Evening》的舞台。
+兩日後，SHINee官方網站釋出一張充滿藝術風格的行程表，並於28日下午6點（韓國時間）公開包含主打曲《Good Evening》在內，其他全新的五首歌曲。主打曲《Good Evening》由成員KEY和珉豪參與Rap制作，提高了歌曲的完成度，而見面會上將首度公開新曲《Good Evening》的舞台。
 
-5月18日，SHINee官方網站釋出一張預告照，公開三張專輯的主打歌歌名，分別是《Good Evening (데리러 가)》、《I Want
-You》與《Our Page (네가 남겨둔
-말)》，並且開通一個特別官方網站\[2\]，由過去十年間發表的歌曲與新專輯的提示皆在官網正中央的色盤中，讓粉絲們可以在官網中親自將所愛的
-SHINee 熱門歌曲與心目中最適合的顏色搭配，之後還會陸續公開由成員們親自將 SHINee 歌曲搭配顏色的歌單「SHINee’s
-PICK」，並推薦適合當日的 SHINee 歌單「TODAY'S PICK」。
+5月18日，SHINee官方網站釋出一張預告照，公開三張專輯的主打歌歌名，分別是《Good Evening (데리러 가)》、《I Want You》與《Our Page (네가 남겨둔 말)》，並且開通一個特別官方網站\[2\]，由過去十年間發表的歌曲與新專輯的提示皆在官網正中央的色盤中，讓粉絲們可以在官網中親自將所愛的 SHINee 熱門歌曲與心目中最適合的顏色搭配，之後還會陸續公開由成員們親自將 SHINee 歌曲搭配顏色的歌單「SHINee’s PICK」，並推薦適合當日的 SHINee 歌單「TODAY'S PICK」。
 
-9月4日，SHINee官方網站釋出一張宣傳照，宣布將在9月10日推出第六張正規專輯《The Story of Light:
-Epilogue》，將收錄《The Story of Light》由三張專輯構成的15首歌曲和1首新歌《Countless (셀 수
-없는)》，共16首歌曲。而《Countless》是一首以給人清爽感的熱帶浩室 (Tropical House) 為基礎的 R\&B
-歌曲，並使用韓文數字 (하나、둘、셋、넷) 與韓文字 (가、나、다、라) 組成如魔咒般的有趣歌詞。\[3\]。
+9月4日，SHINee官方網站釋出一張宣傳照，宣布將在9月10日推出第六張正規專輯《The Story of Light: Epilogue》，將收錄《The Story of Light》由三張專輯構成的15首歌曲和1首新歌《Countless (셀 수 없는)》，共16首歌曲。而《Countless》是一首以給人清爽感的熱帶浩室 (Tropical House) 為基礎的 R\&B 歌曲，並使用韓文數字 (하나、둘、셋、넷) 與韓文字 (가、나、다、라) 組成如魔咒般的有趣歌詞。\[3\]。
 
 ## 曲目
 
@@ -267,7 +252,7 @@ Epilogue》，將收錄《The Story of Light》由三張專輯構成的15首歌�
 
 ### Oricon公信榜
 
-| 專輯       | [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置                | 銷售量   | 總銷量                       | 停留時間 |
+| 專輯       | [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置                | 銷售量   | 總銷量                       | 停留時間 |
 | -------- | ---------------------------------------- | ------------------- | ----- | ------------------------- | ---- |
 | EP.1     | 專輯週榜                                     | 7\[20\]             | 7,854 | 9,557 \[21\]\[22\]        | 2週   |
 | 專輯月榜     | 41\[23\]                                 |                     |       |                           |      |
@@ -366,10 +351,7 @@ Epilogue》，將收錄《The Story of Light》由三張專輯構成的15首歌�
 
 ## 參考資料
 
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:SHINee音樂專輯](https://zh.wikipedia.org/wiki/Category:SHINee音樂專輯 "wikilink")
-[Category:2018年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:SHINee音樂專輯](https://zh.wikipedia.org/wiki/Category:SHINee音樂專輯 "wikilink") [Category:2018年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 

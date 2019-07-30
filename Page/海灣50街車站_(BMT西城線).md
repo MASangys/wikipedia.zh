@@ -1,4 +1,4 @@
-**海灣50街車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT西城線一個慢車](../Page/BMT西城線.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")海灣50街及斯提威爾大道交界，設有[D線](../Page/紐約地鐵D線.md "wikilink")（任何時候停站）列車服務。
+**海灣50街車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT西城線](../Page/BMT西城線.md "wikilink")一個慢車[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")海灣50街及斯提威爾大道交界，設有[D線](../Page/紐約地鐵D線.md "wikilink")（任何時候停站）列車服務。
 
 ## 車站結構
 
@@ -36,32 +36,25 @@
 </tbody>
 </table>
 
-此站設有兩個[側式月台和三條軌道](../Page/側式月台.md "wikilink")，中央軌道不營運。
+此站設有兩個[側式月台](../Page/側式月台.md "wikilink")和三條軌道，中央軌道不營運。
 
-2012年，此站在[2009年美國復蘇與再投資法案資助下翻新](../Page/2009年美國復蘇與再投資法案.md "wikilink")\[1\]。
+2012年，此站在[2009年美國復蘇與再投資法案](../Page/2009年美國復蘇與再投資法案.md "wikilink")資助下翻新\[1\]。
 
 ## 圖片
 
-<File:Extra> Emergency Gate at Bay 50th Street.jpg|海灣50街南行側緊急出口
-<File:Bay> 50 BMT sta jeh.JPG|發電站，往康尼島車廠軌道及樓梯
+<File:Extra> Emergency Gate at Bay 50th Street.jpg|海灣50街南行側緊急出口 <File:Bay> 50 BMT sta jeh.JPG|發電站，往康尼島車廠軌道及樓梯
 
 ## 參考資料
 
 ## 外部連結
 
   -
-  - Station Reporter — [D
-    Train](https://web.archive.org/web/20150112231643/http://www.stationreporter.net/dtrain.htm)
+  - Station Reporter — [D Train](https://web.archive.org/web/20150112231643/http://www.stationreporter.net/dtrain.htm)
 
-  - [Bay 50th Street entrance from Google Maps Street
-    View](https://maps.google.com/?ie=UTF8&ll=40.588008,-73.983607&spn=0,359.986567&z=17&layer=c&cbll=40.587915,-73.983591&panoid=1lsB6GdAB-ZuCJwdFqWC0A&cbp=12,9.19,,0,0.96)
+  - [Bay 50th Street entrance from Google Maps Street View](https://maps.google.com/?ie=UTF8&ll=40.588008,-73.983607&spn=0,359.986567&z=17&layer=c&cbll=40.587915,-73.983591&panoid=1lsB6GdAB-ZuCJwdFqWC0A&cbp=12,9.19,,0,0.96)
 
-  - [Platforms from Google Maps Street
-    View](https://www.google.com/maps/@40.5886269,-73.9836807,3a,75y,317.26h,88.61t/data=!3m7!1e1!3m5!1s-XfqVZUB7hb4%2FWG3HUtL21OI%2FAAAAAAAAYUc%2FTF7WYr8hMJIKVV-qk9woria9JiY8tEDmwCLIB!2e4!6s%2F%2Flh6.googleusercontent.com%2F-XfqVZUB7hb4%2FWG3HUtL21OI%2FAAAAAAAAYUc%2FTF7WYr8hMJIKVV-qk9woria9JiY8tEDmwCLIB%2Fw203-h100-p-k-no%2F!7i7168!8i3584!4m3!8m2!3m1!1e1)
+  - [Platforms from Google Maps Street View](https://www.google.com/maps/@40.5886269,-73.9836807,3a,75y,317.26h,88.61t/data=!3m7!1e1!3m5!1s-XfqVZUB7hb4%2FWG3HUtL21OI%2FAAAAAAAAYUc%2FTF7WYr8hMJIKVV-qk9woria9JiY8tEDmwCLIB!2e4!6s%2F%2Flh6.googleusercontent.com%2F-XfqVZUB7hb4%2FWG3HUtL21OI%2FAAAAAAAAYUc%2FTF7WYr8hMJIKVV-qk9woria9JiY8tEDmwCLIB%2Fw203-h100-p-k-no%2F!7i7168!8i3584!4m3!8m2!3m1!1e1)
 
-[Category:BMT西城線車站](https://zh.wikipedia.org/wiki/Category:BMT西城線車站 "wikilink")
-[Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink")
-[Category:1917年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路車站 "wikilink")
-[Category:1917年紐約州建立](https://zh.wikipedia.org/wiki/Category:1917年紐約州建立 "wikilink")
+[Category:BMT西城線車站](https://zh.wikipedia.org/wiki/Category:BMT西城線車站 "wikilink") [Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink") [Category:1917年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路車站 "wikilink") [Category:1917年紐約州建立](https://zh.wikipedia.org/wiki/Category:1917年紐約州建立 "wikilink")
 
 1.

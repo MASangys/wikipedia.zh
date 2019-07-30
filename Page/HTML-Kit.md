@@ -1,23 +1,16 @@
-**HTML-Kit**是由chami.com制作的[Microsoft
-Windows专有](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[HTML编辑器](../Page/HTML编辑器.md "wikilink")。这个应用程序是一个全功能的HTML编辑器，设计用于编辑、设计版式、验证、预览和发布[HTML](../Page/HTML.md "wikilink")、[XHTML和](../Page/XHTML.md "wikilink")[XML语言的](../Page/XML.md "wikilink")[web页面](https://zh.wikipedia.org/wiki/web "wikilink")。
+**HTML-Kit**是由chami.com制作的[Microsoft Windows专有](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[HTML编辑器](../Page/HTML编辑器.md "wikilink")。这个应用程序是一个全功能的HTML编辑器，设计用于编辑、设计版式、验证、预览和发布[HTML](../Page/HTML.md "wikilink")、[XHTML](../Page/XHTML.md "wikilink")和[XML](../Page/XML.md "wikilink")语言的[web页面](https://zh.wikipedia.org/wiki/web "wikilink")。
 
 HTML-Kit是免费软件，但是额外功能是向注册用户收费的。
 
-HTML-Kit工具的Alpha版本（以前叫Build 300）正在开发中，目前仅供注册用户下载。Build
-292是当前稳定版本，可以免费下载。
+HTML-Kit工具的Alpha版本（以前叫Build 300）正在开发中，目前仅供注册用户下载。Build 292是当前稳定版本，可以免费下载。
 
 ## 特性
 
 HTML-Kit能高亮显示HTML代码，并有内置的预览功能。它包括内部、外部、服务器端和实时预览模式；支持FTP空间上传、下载和在线编辑文件。
 
-HTML-Kit可以通过安装插件扩展功能。[程序官网](http://www.html-kit.com/tools/plugins/)上提供了400个免费插件。默认选项安装的HTML-Kit包含了一些通用的插件工具，如创建符合标准的HTML
-/ XHTML页面的HTML Tid，代码片段库和HTML颜色选择器。
+HTML-Kit可以通过安装插件扩展功能。[程序官网](http://www.html-kit.com/tools/plugins/)上提供了400个免费插件。默认选项安装的HTML-Kit包含了一些通用的插件工具，如创建符合标准的HTML / XHTML页面的HTML Tid，代码片段库和HTML颜色选择器。
 
-HTML-Kit可以运行批处理操作，如在多个文件中全局搜索和替换；支持[Internet
-Explorer和](../Page/Internet_Explorer.md "wikilink")[Mozilla](../Page/Mozilla.md "wikilink")
-/
-[Netscape并排预览](https://zh.wikipedia.org/wiki/Netscape "wikilink"),；通过HTML
-Tidy可以进行W3C Web内容可访问性检查；其他功能还包括：内部命令提示符、时间追踪器、翻译、语音合成向导和UnicodePad等。
+HTML-Kit可以运行批处理操作，如在多个文件中全局搜索和替换；支持[Internet Explorer和](../Page/Internet_Explorer.md "wikilink")[Mozilla](../Page/Mozilla.md "wikilink") / [Netscape并排预览](https://zh.wikipedia.org/wiki/Netscape "wikilink"),；通过HTML Tidy可以进行W3C Web内容可访问性检查；其他功能还包括：内部命令提示符、时间追踪器、翻译、语音合成向导和UnicodePad等。
 
 ## 语法高亮显示
 
@@ -34,8 +27,7 @@ Tidy可以进行W3C Web内容可访问性检查；其他功能还包括：内部
   - [perl](https://zh.wikipedia.org/wiki/perl "wikilink")
   - [Python](../Page/Python.md "wikilink")
   - [Ruby](../Page/Ruby.md "wikilink")
-  - [C](../Page/C.md "wikilink")
-    /[c++](https://zh.wikipedia.org/wiki/c++ "wikilink")
+  - [C](../Page/C.md "wikilink") /[c++](https://zh.wikipedia.org/wiki/c++ "wikilink")
   - [c\#](https://zh.wikipedia.org/wiki/c# "wikilink")
   - [Pascal](https://zh.wikipedia.org/wiki/Pascal "wikilink")
   - [Lisp](https://zh.wikipedia.org/wiki/Lisp "wikilink")

@@ -1,5 +1,4 @@
-《**AGEHA**》（鳳蝶）是[日本](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[GENERATIONS的第](https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")11张[单曲](../Page/单曲.md "wikilink")，於2016年1月27日由[rhythm
-zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
+《**AGEHA**》（鳳蝶）是[日本](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[GENERATIONS的第](https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")11张[单曲](../Page/单曲.md "wikilink")，於2016年1月27日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
@@ -19,9 +18,7 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     （作詞：TAKANORI (LL BROTHERS)・ALLY、作曲：T-SK・SIRIUS・BRANDNEWJIQ・BIG-F）
 3.  AGEHA (Instrumental)
 4.  LOADSTAR (Instrumental)
-5.  **[ALL FOR
-    YOU](../Page/ALL_FOR_YOU_\(GENERATIONS單曲\).md "wikilink")（English
-    version）**
+5.  **[ALL FOR YOU](../Page/ALL_FOR_YOU_\(GENERATIONS單曲\).md "wikilink")（English version）**
 
 ### DVD
 
@@ -30,6 +27,4 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 ## 外部連結
 
   -
-[Category:GENERATIONS的單曲](https://zh.wikipedia.org/wiki/Category:GENERATIONS的單曲 "wikilink")
-[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
+[Category:GENERATIONS的單曲](https://zh.wikipedia.org/wiki/Category:GENERATIONS的單曲 "wikilink") [Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")

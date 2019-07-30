@@ -1,7 +1,4 @@
-是由[FrontWing發售的](../Page/FrontWing.md "wikilink")[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")\[1\]\[2\]，第一集《來自宇宙的禮物》（Gift
-From the Galaxy）於2016年7月28日發售，第二集《自外而來的真相》（The Truth From
-Beyond）於2016年10月27日發售，第三集《跨越星際的旅行》（Journey to the
-Stars）於2017年1月26日發售\[3\] 。簡體中文版的第一集於2019年2月22日更新，剩下兩集於6月13日更新。
+是由[FrontWing](../Page/FrontWing.md "wikilink")發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")\[1\]\[2\]，第一集《來自宇宙的禮物》（Gift From the Galaxy）於2016年7月28日發售，第二集《自外而來的真相》（The Truth From Beyond）於2016年10月27日發售，第三集《跨越星際的旅行》（Journey to the Stars）於2017年1月26日發售\[3\] 。簡體中文版的第一集於2019年2月22日更新，剩下兩集於6月13日更新。
 
 ## 故事
 
@@ -52,13 +49,7 @@ Stars）於2017年1月26日發售\[3\] 。簡體中文版的第一集於2019年2
 
   - [官方網站](http://coroblo.com/jp/index.html)
 
-[Category:2016年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2016年日本成人遊戲 "wikilink")
-[Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink")
-[Category:人與外星生物接觸題材作品](https://zh.wikipedia.org/wiki/Category:人與外星生物接觸題材作品 "wikilink")
+[Category:2016年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2016年日本成人遊戲 "wikilink") [Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:人與外星生物接觸題材作品](https://zh.wikipedia.org/wiki/Category:人與外星生物接觸題材作品 "wikilink")
 
 1.
 2.

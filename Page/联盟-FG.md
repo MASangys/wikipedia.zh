@@ -1,9 +1,8 @@
 联盟-FG[运载火箭是](https://zh.wikipedia.org/wiki/运载火箭 "wikilink")[R7火箭家族的一员](../Page/R-7火箭家族.md "wikilink")，改进自联盟-U型，由位于[萨玛拉的](../Page/薩馬拉.md "wikilink")“进步”国立科研与制造航天中心（TsSKB-Progress）设计制造。她在2001年5月20日首飞，将进步M1-6货运飞船运送到[国际空间站](../Page/国际空间站.md "wikilink")。
 
-从2002年10月30日开始，联盟-FG是[俄罗斯联邦航天局唯一用于向国际空间站发射](https://zh.wikipedia.org/wiki/俄罗斯联邦航天局 "wikilink")[联盟-TMA和](https://zh.wikipedia.org/wiki/联盟-TMA "wikilink")[联盟-MS载人宇宙飞船的载具](../Page/联盟号宇宙飞船.md "wikilink")。截止到2018年10月，火箭所有56次发射的前55次均发射成功，直到第56次发射[联盟MS-10时失败](../Page/联盟MS-10.md "wikilink")。\[1\]\[2\]
+从2002年10月30日开始，联盟-FG是[俄罗斯联邦航天局唯一用于向国际空间站发射](https://zh.wikipedia.org/wiki/俄罗斯联邦航天局 "wikilink")[联盟-TMA和](https://zh.wikipedia.org/wiki/联盟-TMA "wikilink")[联盟-MS载人宇宙飞船的载具](../Page/联盟号宇宙飞船.md "wikilink")。截止到2018年10月，火箭所有56次发射的前55次均发射成功，直到第56次发射[联盟MS-10](../Page/联盟MS-10.md "wikilink")时失败。\[1\]\[2\]
 
-另一个联盟-FG的改型被称为联盟-FG/Fregat。由联盟-FG火箭加上拉沃契金联合体的[Fregat上面级组成](../Page/佛盖特上面级.md "wikilink")。
-Starsem，一个欧洲与俄罗斯合作的公司全权负责这一型号的发射。截止到2014年12月，联盟-FG/Fregat火箭已经完成了10次商业发射。\[3\] 这一型火箭首飞与2012年6月2日。
+另一个联盟-FG的改型被称为联盟-FG/Fregat。由联盟-FG火箭加上拉沃契金联合体的[Fregat上面级组成](../Page/佛盖特上面级.md "wikilink")。 Starsem，一个欧洲与俄罗斯合作的公司全权负责这一型号的发射。截止到2014年12月，联盟-FG/Fregat火箭已经完成了10次商业发射。\[3\] 这一型火箭首飞与2012年6月2日。
 
 这一型火箭所实用的模拟电子控制系统很大程度上限制了其性能，这一问题最终将在联盟-2运载火箭上改进。
 
@@ -715,8 +714,7 @@ ISS 远征队48和 远征队49</p></td>
 
 ## 参见
 
-[右](https://zh.wikipedia.org/wiki/File:Soyuz_TMA-13_arrives_at_Baikonur_Cosmodrome_launch_pad.jpg "fig:右")
-在 [哈萨克斯坦的](../Page/哈萨克斯坦.md "wikilink") 10,2008年。\]\]
+[右](https://zh.wikipedia.org/wiki/File:Soyuz_TMA-13_arrives_at_Baikonur_Cosmodrome_launch_pad.jpg "fig:右") 在 [哈萨克斯坦](../Page/哈萨克斯坦.md "wikilink")的 10,2008年。\]\]
 
   - [联盟号(飞船)](../Page/联盟号宇宙飞船.md "wikilink")
   - [联盟方案](../Page/联盟计划.md "wikilink")
@@ -729,17 +727,12 @@ ISS 远征队48和 远征队49</p></td>
   -
 ## 外部链接
 
-  - [俄罗斯联邦空间局关于联盟-FG](https://web.archive.org/web/20120117100101/http://www.roscosmos.ru/main.php?id=17&oid=32)
-    (俄罗斯)
-  - [LV的制造商TsSKB进行的关于联盟-FG](http://en.samspace.ru/products/launch_vehicles/rn_soyuz_fg/)
-    (英语)
+  - [俄罗斯联邦空间局关于联盟-FG](https://web.archive.org/web/20120117100101/http://www.roscosmos.ru/main.php?id=17&oid=32) (俄罗斯)
+  - [LV的制造商TsSKB进行的关于联盟-FG](http://en.samspace.ru/products/launch_vehicles/rn_soyuz_fg/) (英语)
 
-[Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink")
-[Category:俄罗斯火箭](https://zh.wikipedia.org/wiki/Category:俄罗斯火箭 "wikilink")
+[Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink") [Category:俄罗斯火箭](https://zh.wikipedia.org/wiki/Category:俄罗斯火箭 "wikilink")
 
 1.  <cite class="citation web">Krebs, Gunter. </cite>
-2.  [Astronauts make emergency landing after Russian Soyuz launch
-    experiences
-    failure](https://www.theverge.com/2018/10/11/17963184/russian-soyuz-rocket-launch-emergency-landing-nasa-astronauts).TheVerge.2018-10-11.\[2018-10-12\].
+2.  [Astronauts make emergency landing after Russian Soyuz launch experiences failure](https://www.theverge.com/2018/10/11/17963184/russian-soyuz-rocket-launch-emergency-landing-nasa-astronauts).TheVerge.2018-10-11.\[2018-10-12\].
 3.  <cite class="citation web">Krebs, Gunter. </cite>
 4.

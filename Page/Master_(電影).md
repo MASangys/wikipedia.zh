@@ -12,8 +12,7 @@
 
   - [嚴智苑](../Page/嚴智苑.md "wikilink") 飾演 申潔瑪
   - [吳達庶](https://zh.wikipedia.org/wiki/吳達庶 "wikilink") 飾演 黃明俊
-  - [陳慶](https://zh.wikipedia.org/wiki/陳慶_\(南韓\) "wikilink") 飾演 金美英 /
-    金夫人
+  - [陳慶](https://zh.wikipedia.org/wiki/陳慶_\(南韓\) "wikilink") 飾演 金美英 / 金夫人
   - [朴海秀](../Page/朴海秀.md "wikilink")
   - [李東鎮](https://zh.wikipedia.org/wiki/李東鎮 "wikilink")
   - [禹棹奐](https://zh.wikipedia.org/wiki/禹棹奐 "wikilink")
@@ -25,6 +24,4 @@
   - [NAVER電影](http://movie.naver.com/movie/bi/mi/basic.nhn?code=145162)
   - [Daum電影](http://movie.daum.net/moviedb/main?movieId=99826)
 
-[Category:2016年電影](https://zh.wikipedia.org/wiki/Category:2016年電影 "wikilink")
-[Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink")
-[Category:韓國犯罪片](https://zh.wikipedia.org/wiki/Category:韓國犯罪片 "wikilink")
+[Category:2016年電影](https://zh.wikipedia.org/wiki/Category:2016年電影 "wikilink") [Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink") [Category:韓國犯罪片](https://zh.wikipedia.org/wiki/Category:韓國犯罪片 "wikilink")

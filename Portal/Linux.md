@@ -8,18 +8,14 @@
 
 <div style="width:53%;display:block;float:left;">
 
-{{/box-header|新闻|/News|}} {{/News}}
-{{/box-footer|[更多时事...](https://zh.wikipedia.org/wiki/{{FULLPAGENAME}}/Current_events "wikilink")
+{{/box-header|新闻|/News|}} {{/News}} {{/box-footer|[更多时事...](https://zh.wikipedia.org/wiki/{{FULLPAGENAME}}/Current_events "wikilink")
 [维基新闻上的](https://zh.wikipedia.org/wiki/wikinews:en "wikilink")[时事](https://zh.wikipedia.org/wiki/wikinews:{{FULLPAGENAME}} "wikilink")}}
 
 </div>
 
 <div style="width:45%;display:block;float:right;">
 
-{{/box-header|你知道吗？|/Did you know|}} {{/Did you know}}
-{{/box-footer|[存档](https://zh.wikipedia.org/wiki/{{FULLPAGENAME}}/Did_you_know/archive "wikilink")
-–
-[开始一个新的条目](https://zh.wikipedia.org/wiki/Help:Starting_a_new_page "wikilink")}}
+{{/box-header|你知道吗？|/Did you know|}} {{/Did you know}} {{/box-footer|[存档](https://zh.wikipedia.org/wiki/{{FULLPAGENAME}}/Did_you_know/archive "wikilink") – [开始一个新的条目](https://zh.wikipedia.org/wiki/Help:Starting_a_new_page "wikilink")}}
 
 {{/box-header|维基专题|/专题|}} {{/专题}} {{/box-footer|}}
 
@@ -33,8 +29,7 @@
 
 {{/box-header|Topics|/Topics|}} {{/Topics}} {{/box-footer|}}
 
-{{/box-header|相关主题|/Related portals|}} {{/Related portals}}
-{{/box-footer|}}
+{{/box-header|相关主题|/Related portals|}} {{/Related portals}} {{/box-footer|}}
 
 </div>
 
@@ -56,5 +51,4 @@
 
 </div>
 
-[Category:Computing_portals](https://zh.wikipedia.org/wiki/Category:Computing_portals "wikilink")
-[Category:WikiProject_Linux_articles](https://zh.wikipedia.org/wiki/Category:WikiProject_Linux_articles "wikilink")
+[Category:Computing_portals](https://zh.wikipedia.org/wiki/Category:Computing_portals "wikilink") [Category:WikiProject_Linux_articles](https://zh.wikipedia.org/wiki/Category:WikiProject_Linux_articles "wikilink")

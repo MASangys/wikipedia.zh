@@ -6,8 +6,7 @@
 
 福克D-XXI主翼內部結構為兩條木製翼樑和膠合板翼肋，主翼表面為膠合板外覆電木塑膠布蒙皮，機身骨架為鉻鉬合金鋼管焊接而成，機身前部為鋁合金製外殼，後部為外覆帆布蒙皮，在發動機艙後為燃料箱，在左右機翼也各有一個燃料箱，福克D-XXI曾使用過英國布里斯托製水星系列，蘇聯製M25發動機和美國普惠R-1535小雙黃蜂式等多種風冷式發動機。
 
-福克D-XXI的武裝在機頭和機翼，荷蘭原廠採用7.92毫米口徑M36機槍（機頭載彈500發而機翼載彈300發），芬蘭改為7.7毫米口徑[維克斯機槍](../Page/維克斯機槍.md "wikilink")，芬蘭人更曾試過在機翼下方安裝20毫米口徑[MG
-FF機炮](../Page/MG_FF機炮.md "wikilink")。
+福克D-XXI的武裝在機頭和機翼，荷蘭原廠採用7.92毫米口徑M36機槍（機頭載彈500發而機翼載彈300發），芬蘭改為7.7毫米口徑[維克斯機槍](../Page/維克斯機槍.md "wikilink")，芬蘭人更曾試過在機翼下方安裝20毫米口徑[MG FF機炮](../Page/MG_FF機炮.md "wikilink")。
 
 ## 型號
 
@@ -52,8 +51,7 @@ FF機炮](../Page/MG_FF機炮.md "wikilink")。
 
 ## 實戰
 
-[Fokker_D.XXI.jpg](https://zh.wikipedia.org/wiki/File:Fokker_D.XXI.jpg "fig:Fokker_D.XXI.jpg")
-[Фоккер_D_XXI.jpg](https://zh.wikipedia.org/wiki/File:Фоккер_D_XXI.jpg "fig:Фоккер_D_XXI.jpg")
+[Fokker_D.XXI.jpg](https://zh.wikipedia.org/wiki/File:Fokker_D.XXI.jpg "fig:Fokker_D.XXI.jpg") [Фоккер_D_XXI.jpg](https://zh.wikipedia.org/wiki/File:Фоккер_D_XXI.jpg "fig:Фоккер_D_XXI.jpg")
 
 ### 西班牙內戰
 
@@ -63,12 +61,7 @@ FF機炮](../Page/MG_FF機炮.md "wikilink")。
 
 1940年4月，德軍入侵丹麥，丹麥空軍有8架福克D-XXI戰鬥機昇空迎戰。
 
-1940年5月10日，德軍入侵荷蘭，當時荷蘭陸軍航空隊祇有28架福克D-XXI戰鬥機，當天第1戰鬥機隊的一架福克D-XXI戰鬥機在北海上空擊落一架德國空軍[Ju
-88轟炸機](https://zh.wikipedia.org/wiki/Ju_88轟炸機 "wikilink")，第2戰鬥機隊的6架福克D-XXI戰鬥機在掩護轟炸機部隊攻擊在鹿特丹過河的德軍時遇上德國空軍9架[Bf
-109戰鬥機](https://zh.wikipedia.org/wiki/Bf_109戰鬥機 "wikilink")，一場空戰後有一架Bf
-109戰鬥機被擊落和2架被擊傷，荷蘭軍損失一架福克D-XXI戰鬥機和兩架轟炸機，直至當天傍晚已有9架福克D-XXI戰鬥機嚴重損毀但並無飛行員傷亡，為了集中力量，荷蘭軍決定把所有仍能用的福克D-XXI戰鬥機集中在阿姆斯特丹以北的依克魯斯機場，由第2日(5月11日)開始連續4日，所有福克D-XXI戰鬥機以單機或小隊執行空戰，當日又有3架Bf
-109戰鬥機和兩架[Bf
-110戰鬥機被福克D](../Page/Bf_110戰鬥機.md "wikilink")-XXI戰鬥機擊落，有一架福克D-XXI戰鬥機誤被自己人的防空炮火擊落，飛行員跳傘成功。
+1940年5月10日，德軍入侵荷蘭，當時荷蘭陸軍航空隊祇有28架福克D-XXI戰鬥機，當天第1戰鬥機隊的一架福克D-XXI戰鬥機在北海上空擊落一架德國空軍[Ju 88轟炸機](https://zh.wikipedia.org/wiki/Ju_88轟炸機 "wikilink")，第2戰鬥機隊的6架福克D-XXI戰鬥機在掩護轟炸機部隊攻擊在鹿特丹過河的德軍時遇上德國空軍9架[Bf 109戰鬥機](https://zh.wikipedia.org/wiki/Bf_109戰鬥機 "wikilink")，一場空戰後有一架Bf 109戰鬥機被擊落和2架被擊傷，荷蘭軍損失一架福克D-XXI戰鬥機和兩架轟炸機，直至當天傍晚已有9架福克D-XXI戰鬥機嚴重損毀但並無飛行員傷亡，為了集中力量，荷蘭軍決定把所有仍能用的福克D-XXI戰鬥機集中在阿姆斯特丹以北的依克魯斯機場，由第2日(5月11日)開始連續4日，所有福克D-XXI戰鬥機以單機或小隊執行空戰，當日又有3架Bf 109戰鬥機和兩架[Bf 110戰鬥機被福克D](../Page/Bf_110戰鬥機.md "wikilink")-XXI戰鬥機擊落，有一架福克D-XXI戰鬥機誤被自己人的防空炮火擊落，飛行員跳傘成功。
 
 5月14日是荷蘭軍抵抗的最後一日，當日荷蘭軍的福克D-XXI戰鬥機祇剩下16架，當收到荷蘭政府向德軍投降的消息後有8架仍留在依克魯斯機場的福克D-XXI戰鬥機被荷蘭人自己毀掉，其餘8架完好的最終都被德軍擄獲。
 
@@ -96,5 +89,4 @@ FF機炮](../Page/MG_FF機炮.md "wikilink")。
 
 ## 外部連結
 
-[Category:福克](https://zh.wikipedia.org/wiki/Category:福克 "wikilink")
-[Category:荷蘭航空器](https://zh.wikipedia.org/wiki/Category:荷蘭航空器 "wikilink")
+[Category:福克](https://zh.wikipedia.org/wiki/Category:福克 "wikilink") [Category:荷蘭航空器](https://zh.wikipedia.org/wiki/Category:荷蘭航空器 "wikilink")

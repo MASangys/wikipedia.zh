@@ -1,5 +1,4 @@
-**株式會社大阪TV talent
-bureau**（，）是一家位於[日本](../Page/日本.md "wikilink")[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北區堂島](../Page/北區_\(大阪市\).md "wikilink")，營運至2018年3月31日\[1\]為止的[聲優](../Page/聲優.md "wikilink")、[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。簡稱：**TTB**。
+**株式會社大阪TV talent bureau**（，）是一家位於[日本](../Page/日本.md "wikilink")[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北區堂島](../Page/北區_\(大阪市\).md "wikilink")，營運至2018年3月31日\[1\]為止的[聲優](../Page/聲優.md "wikilink")、[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。簡稱：**TTB**。
 
 ## 概要
 
@@ -127,8 +126,7 @@ bureau**（，）是一家位於[日本](../Page/日本.md "wikilink")[大阪府
   -
   - 井上梨
 
-  - （現藝名，現所屬：[KeKKe
-    Corporation](../Page/KeKKe_Corporation.md "wikilink")）
+  - （現藝名，現所屬：[KeKKe Corporation](../Page/KeKKe_Corporation.md "wikilink")）
 
   - （現所屬：）
 
@@ -151,8 +149,7 @@ bureau**（，）是一家位於[日本](../Page/日本.md "wikilink")[大阪府
 
   - 大屋
 
-  - [緒方莉央](../Page/緒方莉央.md "wikilink")（現所屬：[MATSURI
-    PROJECT](http://matsuri-company.com/)）
+  - [緒方莉央](../Page/緒方莉央.md "wikilink")（現所屬：[MATSURI PROJECT](http://matsuri-company.com/)）
 
   - 荻田
 
@@ -228,8 +225,7 @@ bureau**（，）是一家位於[日本](../Page/日本.md "wikilink")[大阪府
 
   - [齊藤亞紀子](../Page/齊藤亞紀子.md "wikilink")
 
-  - [佐久良貴惠](https://zh.wikipedia.org/wiki/佐久良貴惠 "wikilink")（現所屬：株式會社Chara
-    OKINAWA經理）
+  - [佐久良貴惠](https://zh.wikipedia.org/wiki/佐久良貴惠 "wikilink")（現所屬：株式會社Chara OKINAWA經理）
 
   - （現所屬：昭和Production［原[每日放送](../Page/每日放送.md "wikilink")］）
 
@@ -287,8 +283,7 @@ bureau**（，）是一家位於[日本](../Page/日本.md "wikilink")[大阪府
 
   - 西川敦子
 
-  - [西川葉月](../Page/西川葉月.md "wikilink")（現所屬：[81
-    Produce](../Page/81_Produce.md "wikilink")）
+  - [西川葉月](../Page/西川葉月.md "wikilink")（現所屬：[81 Produce](../Page/81_Produce.md "wikilink")）
 
   - 西田愛（現所屬：昭和Production）
 
@@ -395,12 +390,7 @@ bureau**（，）是一家位於[日本](../Page/日本.md "wikilink")[大阪府
   -
 ## 來源
 
-[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:1969年成立的公司](https://zh.wikipedia.org/wiki/Category:1969年成立的公司 "wikilink")
-[Category:2018年結業公司](https://zh.wikipedia.org/wiki/Category:2018年結業公司 "wikilink")
-[Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink")
-[Category:日本已結業聲優事務所](https://zh.wikipedia.org/wiki/Category:日本已結業聲優事務所 "wikilink")
+[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:1969年成立的公司](https://zh.wikipedia.org/wiki/Category:1969年成立的公司 "wikilink") [Category:2018年結業公司](https://zh.wikipedia.org/wiki/Category:2018年結業公司 "wikilink") [Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink") [Category:日本已結業聲優事務所](https://zh.wikipedia.org/wiki/Category:日本已結業聲優事務所 "wikilink")
 
 1.
 

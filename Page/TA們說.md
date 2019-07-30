@@ -1,8 +1,8 @@
-《**TA們說**》（），為出類映像所製作的同志談話節目，也是台灣第一個同志類型的節目。由[曲家瑞](../Page/曲家瑞.md "wikilink")、[威廉一同主持](https://zh.wikipedia.org/wiki/廖亦崟 "wikilink")，而[薛仕凌](../Page/薛仕凌.md "wikilink")、[戴祖雄則輪流主持](../Page/戴祖雄.md "wikilink")，同時也有**彩虹聯萌**一起談話。因話題敏感，目前無電視台同意播出，而轉至[YouTube播出的網路節目](../Page/YouTube.md "wikilink")。\[1\]由**Boyfriend交友軟體**冠名贊助播出。
+《**TA們說**》（），為出類映像所製作的同志談話節目，也是台灣第一個同志類型的節目。由[曲家瑞](../Page/曲家瑞.md "wikilink")、[威廉一同主持](https://zh.wikipedia.org/wiki/廖亦崟 "wikilink")，而[薛仕凌](../Page/薛仕凌.md "wikilink")、[戴祖雄](../Page/戴祖雄.md "wikilink")則輪流主持，同時也有**彩虹聯萌**一起談話。因話題敏感，目前無電視台同意播出，而轉至[YouTube](../Page/YouTube.md "wikilink")播出的網路節目。\[1\]由**Boyfriend交友軟體**冠名贊助播出。
 
 ## 節目內容
 
-將由主持人與彩虹聯萌探索[LGBT的世界](../Page/LGBT.md "wikilink")，聽聽他們怎麼說。每集皆會有相關人物引言後進行節目內容。
+將由主持人與彩虹聯萌探索[LGBT](../Page/LGBT.md "wikilink")的世界，聽聽他們怎麼說。每集皆會有相關人物引言後進行節目內容。
 
 ## 節目列表
 
@@ -28,10 +28,6 @@
   -
   -
   -
-[Category:台灣電視節目](https://zh.wikipedia.org/wiki/Category:台灣電視節目 "wikilink")
-[Category:清談節目](https://zh.wikipedia.org/wiki/Category:清談節目 "wikilink")
-[Category:網路節目](https://zh.wikipedia.org/wiki/Category:網路節目 "wikilink")
-[Category:台灣LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電視節目 "wikilink")
-[Category:YouTube視訊](https://zh.wikipedia.org/wiki/Category:YouTube視訊 "wikilink")
+[Category:台灣電視節目](https://zh.wikipedia.org/wiki/Category:台灣電視節目 "wikilink") [Category:清談節目](https://zh.wikipedia.org/wiki/Category:清談節目 "wikilink") [Category:網路節目](https://zh.wikipedia.org/wiki/Category:網路節目 "wikilink") [Category:台灣LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電視節目 "wikilink") [Category:YouTube視訊](https://zh.wikipedia.org/wiki/Category:YouTube視訊 "wikilink")
 
 1.

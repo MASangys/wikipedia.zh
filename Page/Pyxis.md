@@ -1,7 +1,6 @@
-**Pyxis**是由[豐田萌繪和](../Page/豐田萌繪.md "wikilink")[伊藤美來組成的](../Page/伊藤美來.md "wikilink")[日本](../Page/日本.md "wikilink")[聲優組合](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")，隸屬和新成立的唱片公司「Rokkan
-Music」。
+**Pyxis**是由[豐田萌繪](../Page/豐田萌繪.md "wikilink")和[伊藤美來](../Page/伊藤美來.md "wikilink")組成的[日本](../Page/日本.md "wikilink")[聲優組合](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")，隸屬和新成立的唱片公司「Rokkan Music」。
 
-2015年5月，豐田和伊藤在聯合[Live中宣佈組成Pyxis](https://zh.wikipedia.org/wiki/音樂會 "wikilink")，並於2016年2月舉辦首場單獨Live\[1\]，之後以[獨立音樂形式在廣播和雜誌等媒體持續進行活動](../Page/獨立音樂.md "wikilink")\[2\]。
+2015年5月，豐田和伊藤在聯合[Live中宣佈組成Pyxis](https://zh.wikipedia.org/wiki/音樂會 "wikilink")，並於2016年2月舉辦首場單獨Live\[1\]，之後以[獨立音樂](../Page/獨立音樂.md "wikilink")形式在廣播和雜誌等媒體持續進行活動\[2\]。
 
 2016年5月，Pyxis在一週年紀念活動中宣佈於同年8月發行首張專輯正式出道\[3\]。
 
@@ -110,7 +109,7 @@ TECI-618（B）</p></td>
 </tr>
 <tr class="even">
 <td><p>FLAWLESS</p></td>
-<td><p>電視動畫《<a href="../Page/決鬥大師.md" title="wikilink">決鬥大師VSRF</a>》片尾曲</p></td>
+<td><p>電視動畫《<a href="../Page/決鬥大師.md" title="wikilink">決鬥大師</a>VSRF》片尾曲</p></td>
 <td><p>2017年</p></td>
 </tr>
 <tr class="odd">
@@ -190,9 +189,7 @@ TECI-618（B）</p></td>
   - [Pyxis於帝蓄娛樂的官方網站](http://www.teichiku.co.jp/artist/pyxis/)
 
   -
-[Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
+[Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
 
 1.
 2.

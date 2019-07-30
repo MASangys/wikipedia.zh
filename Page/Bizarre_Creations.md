@@ -1,11 +1,6 @@
-**Bizarre
-Creations**（在中国大陆有时称作“南瓜头工作室”）是一家已经解散的英国电子游戏开发商。1988年工作室以Raising
-Hell Software之名在英国利物浦成立，并在1994年更名为Bizarre
-Creations。他们所制作的游戏以《》系列最为人熟知，此外工作室的作品还包括了《》系列。
+**Bizarre Creations**（在中国大陆有时称作“南瓜头工作室”）是一家已经解散的英国电子游戏开发商。1988年工作室以Raising Hell Software之名在英国利物浦成立，并在1994年更名为Bizarre Creations。他们所制作的游戏以《》系列最为人熟知，此外工作室的作品还包括了《》系列。
 
-2007年[动视宣布收购Bizarre](../Page/动视.md "wikilink")
-Creations，不过在2011年动视在出售该公司失败后宣布解散Bizarre
-Creations。\[1\]\[2\]
+2007年[动视](../Page/动视.md "wikilink")宣布收购Bizarre Creations，不过在2011年动视在出售该公司失败后宣布解散Bizarre Creations。\[1\]\[2\]
 
 ## 公司作品
 
@@ -218,18 +213,10 @@ Treasure Planet</p></td>
 
   -
   -
-[Category:1988年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1988年開業電子遊戲公司 "wikilink")
-[Category:2011年結業公司](https://zh.wikipedia.org/wiki/Category:2011年結業公司 "wikilink")
-[Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:英國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:英國已結業電子遊戲公司 "wikilink")
-[Category:利物浦公司](https://zh.wikipedia.org/wiki/Category:利物浦公司 "wikilink")
+[Category:1988年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1988年開業電子遊戲公司 "wikilink") [Category:2011年結業公司](https://zh.wikipedia.org/wiki/Category:2011年結業公司 "wikilink") [Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:英國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:英國已結業電子遊戲公司 "wikilink") [Category:利物浦公司](https://zh.wikipedia.org/wiki/Category:利物浦公司 "wikilink")
 
-1.  [ACTIVISION ACQUIRES U.K. GAME DEVELOPER BIZARRE
-    CREATIONS](http://investor.activision.com/releasedetail.cfm?releaseid=266000).Activision.2007-09-26.\[2015-10-08\].
-2.  [Bizarre Creations: a UK game development veteran closes
-    today](http://www.theguardian.com/technology/gamesblog/2011/feb/18/bizarre-creations-closes).The
-    Guardian.2011-02-18.\[2015-10-08\].
+1.  [ACTIVISION ACQUIRES U.K. GAME DEVELOPER BIZARRE CREATIONS](http://investor.activision.com/releasedetail.cfm?releaseid=266000).Activision.2007-09-26.\[2015-10-08\].
+2.  [Bizarre Creations: a UK game development veteran closes today](http://www.theguardian.com/technology/gamesblog/2011/feb/18/bizarre-creations-closes).The Guardian.2011-02-18.\[2015-10-08\].
 3.
 4.
 5.  [「世界街頭賽車 2」新畫面欣賞](http://gnn.gamer.com.tw/9/11299.html).巴哈姆特.2003-09-03.\[2015-10-08\].

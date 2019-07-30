@@ -1,9 +1,5 @@
-**Kanaban
-Graphics**（）是[日本](../Page/日本.md "wikilink")3D動畫公司，主要從事[動畫和](https://zh.wikipedia.org/wiki/動畫 "wikilink")[CG製作](https://zh.wikipedia.org/wiki/CG "wikilink")，由富岡聰執導。以製作超跨張的爆笑3D動畫聞名。《[監獄兔](../Page/監獄兔.md "wikilink")》
-為該製作公司最知名的作品。
-隨著Kanaban
-Graphics的公司的成立，將基地搬遷至[中野區中心](../Page/中野區.md "wikilink")。在各種流派中創建[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[CG動畫](https://zh.wikipedia.org/wiki/CG "wikilink")，如CF，電影，遊戲。從規劃，方向和藝術設計等最初階段開始，它就涉足了這個項目，並且工作範圍也擴大到了更具創造性的方向。這些努力將成為Kanaban
-Graphics目前工作風格的基礎。
+**Kanaban Graphics**（）是[日本](../Page/日本.md "wikilink")3D動畫公司，主要從事[動畫和](https://zh.wikipedia.org/wiki/動畫 "wikilink")[CG製作](https://zh.wikipedia.org/wiki/CG "wikilink")，由富岡聰執導。以製作超跨張的爆笑3D動畫聞名。《[監獄兔](../Page/監獄兔.md "wikilink")》 為該製作公司最知名的作品。
+隨著Kanaban Graphics的公司的成立，將基地搬遷至[中野區](../Page/中野區.md "wikilink")中心。在各種流派中創建[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[CG動畫](https://zh.wikipedia.org/wiki/CG "wikilink")，如CF，電影，遊戲。從規劃，方向和藝術設計等最初階段開始，它就涉足了這個項目，並且工作範圍也擴大到了更具創造性的方向。這些努力將成為Kanaban Graphics目前工作風格的基礎。
 
 ## 製作動畫
 

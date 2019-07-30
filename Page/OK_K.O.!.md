@@ -1,11 +1,6 @@
-**OK K.O.\!英雄讚**（全名：OK K.O.\! Let's Be Heroes﹚\[1\]是[Cartoon
-Network旗下](../Page/卡通頻道.md "wikilink")，由Ian
-Jones-Quartey創作的美國超級英雄喜劇動畫。該系列於2016年2月4日在Cartoon
-Network的YouTube頻道上首播\[2\]\[3\]。
+**OK K.O.\!英雄讚**（全名：OK K.O.\! Let's Be Heroes﹚\[1\]是[Cartoon Network旗下](../Page/卡通頻道.md "wikilink")，由Ian Jones-Quartey創作的美國超級英雄喜劇動畫。該系列於2016年2月4日在Cartoon Network的YouTube頻道上首播\[2\]\[3\]。
 
-2017年3月9日Cartoon Network正式宣佈推出其動畫系列，片头曲故事板由Studio
-Trigger的聯合創始人日本藝術家[Hiroyuki
-Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
+2017年3月9日Cartoon Network正式宣佈推出其動畫系列，片头曲故事板由Studio Trigger的聯合創始人日本藝術家[Hiroyuki Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
 
 ## 故事簡介
 
@@ -20,21 +15,19 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
   -
     配音： Stephanie Nadolny ﹙第四、五、六和十三集﹚, Courtenay Taylor
     英雄等級：0.1 (第一季结尾升級為1级，"Dendy's Power"中升級為3級)
-    全名Kaio O. "K.O." Kincaid。故事主角，年約六至十一歲，衣著有點像七、八十年代的動作遊戲主角，於Mr.
-    Gar經營的英雄供應店Bodega中工作，母親為Carol。
+    全名Kaio "K.O." Kincaid-O.。故事主角，年約六至十一歲，衣著有點像七、八十年代的動作遊戲主角，於Mr. Gar經營的英雄供應店Bodega中工作，母親為Carol。
     喜歡收集戰力卡(Pow Cards)。
     和超K.O.和解後能使用其一部份能力。
 
-**Enid**(帥妮)
+**D.J. Enid**(帥妮)
 
   -
     配音： Mena Suvari , Ashly Burch
     英雄等級：3
-    全名Enid
-    Reverie。紫色頭髮的人類女生，於英雄供應店嘎樂福擔任收銀員。平時使用忍術戰鬥，聲稱自己父母是偉大的忍者。其實父母是狼人和吸血鬼，而本身實際則是女巫。
+    全名Enid "Fireball" Reverie。紫色頭髮的人類女生，於英雄供應店嘎樂福擔任收銀員。平時使用忍術戰鬥，聲稱自己父母是偉大的忍者。其實父母是狼人和吸血鬼，而本身實際則是女巫。
     "Point to the Plaza"中被邀請加入威猛局。
 
-**Rad**(阿肌)
+**Radicles**(阿肌)
 
   -
     配音： Ian Jones-Quartey, Sterling Jarvis ﹙"Rad Likes Robots"中主唱﹚
@@ -76,56 +69,47 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
   -
     K.O.的黑暗面，戰力極強。
     由K.O.的負面思想誕生的「野獸」，在故事中是個較複雜的角色，不能將其認定為反派或正派，是劇情發展的關鍵人物。
-    以K.O.開朗、樂觀為比較，超K.O.則較為厭世、黑暗，類似青春期叛逆的少年,在T.K.O.'s
-    House裡,可以看得出來他很喜歡搖滾這類的東西。
+    以K.O.開朗、樂觀為比較，超K.O.則較為厭世、黑暗，類似青春期叛逆的少年,在T.K.O.'s House裡,可以看得出來他很喜歡搖滾這類的東西。
 
 ### 反派
 
 **Lord Boxman, Sr.**(大邪門博士)
 
   -
-    配音： [Jim
-    Cummings](https://zh.wikipedia.org/wiki/Jim_Cummings "wikilink")
+    配音： [Jim Cummings](https://zh.wikipedia.org/wiki/Jim_Cummings "wikilink")
     英雄等級： -10
-    全名Lad Boxman-Boxy,
-    Sr.-Voxy。主要反派，英雄供應店嘎樂福對面邪門區的老闆。時常派他的機器人騷擾廣場，在第一季结尾被打上太陽。
+    全名M. "Lad" Boxman-Box, Sr.。主要反派，英雄供應店嘎樂福對面邪門區的老闆。時常派他的機器人騷擾廣場，在第一季结尾被打上太陽。
 
 **Shannon Boxman**(香農·邪門)
 
   -
-    配音： [Kari
-    Wahlgren](https://zh.wikipedia.org/wiki/Kari_Wahlgren "wikilink")
+    配音： [Kari Wahlgren](https://zh.wikipedia.org/wiki/Kari_Wahlgren "wikilink")
     英雄等級: -3
-    全名Shannon Boxman-Voxy。一個全身橙色的女性青少年機器人，邪門製造的機器人女兒。
+    全名Shannon "Ominous Stranger" Boxman-Box。一個全身橙色的女性青少年BM-SHA-N0N模型機器人，邪門製造的機器人女兒。
     最初代替Darrell偽裝哄騙K.O.說闖進邪門區打敗邪門博士可以讓阿肌和帥妮驕傲。
     "Rad Likes Robots"中因為被閃電打中而和阿肌相戀。被閃電打中後眼精睛由紅色轉為紫紅色
     身體可變為網子,雙手可變為圓鋸和錘子，待增
 
-**Darrell Boxman**(大目·邪門)
+**Lord Cowboy Darrell Boxman**(大目·邪門)
 
   -
-    配音： [Ian
-    Jones-Quartey](https://zh.wikipedia.org/wiki/Ian_Jones-Quartey "wikilink")
+    配音： [Ian Jones-Quartey](https://zh.wikipedia.org/wiki/Ian_Jones-Quartey "wikilink")
     英雄等級: -4
-    全名Darrell Boxman-Voxy。一個全身紅色的男性青少年機器人，頭上的綠色透明玻璃中有一顆腦袋,Lord Boxman
-    製造的機器人兒子。要攻擊時可以變大，變形。在第一季结尾背叛Boxman(父親)接手Boxmore,成為公司的新老板。
+    全名Darrell "D.Rel." Boxman-Rel.。一個全身紅色的男性青少年BM-D-R3L模型機器人，頭上的綠色透明玻璃中有一顆腦袋,Lord Boxman 製造的機器人兒子。要攻擊時可以變大，變形。在第一季结尾背叛Boxman(父親)接手Boxmore,成為公司的新老板。
 
 **Raymond Boxman**(太子·邪門)
 
   -
     配音：Robbie Daymond
     英雄等級：-4
-    全名Raymond "Ray" Boxman-Voxy。一個全身綠色的男性青少年機器人于R.A.Y.系列，頭部呈三角型，Lord
-    Boxman的機器人兒子，主要使用運動裝備進行戰鬥，非常喜歡玫瑰。與其他兄弟姐妹相比實力較強。
+    全名Raymond "Ray" Boxman-Box。一個全身綠色的男性青少年R.A.Y.-M.O.N.D.模型機器人，頭部呈三角型，Lord Boxman的機器人兒子，主要使用運動裝備進行戰鬥，非常喜歡玫瑰。與其他兄弟姐妹相比實力較強。
     "Plaza Prom" 中因其性格喜歡炫耀而無法抵抗參加派對。
-    儘管他們性格陰險，但他們表現出關心某些人和事。
-    如Shannons出現故障並且愛上了Rad，Raymonds表現出自己為Shannons幸福著想。並且儘管遭受了Boxman的虐待，還是對他們的創造者表現出如父子的關心。
+    儘管他們性格陰險，但他們表現出關心某些人和事。 如Shannons出現故障並且愛上了Rad，Raymonds表現出自己為Shannons幸福著想。並且儘管遭受了Boxman的虐待，還是對他們的創造者表現出如父子的關心。
 
 **Lord Boxman, Jr.**(小邪門博士)
 
   -
-    全名Lad Boxman-Boxy, Jr.。Lord
-    Boxman因為機器人孩子們失敗太多而製作的機器人小兒子，使用了毒液教授給予的邪惡芯片以運作。
+    全名M. "Lad" Boxman-Box, Jr.。Lord Boxman因為BMJ系列機器人孩子們失敗太多而製作的機器人小兒子，使用了毒液教授給予的邪惡芯片以運作。
 
 ### 其他
 
@@ -148,13 +132,10 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
 **Drupe**(核果子)
 
   -
-    配音： [Melissa
-    Villaseñor](https://zh.wikipedia.org/wiki/Melissa_Villaseñor "wikilink")
+    配音： [Melissa Villaseñor](https://zh.wikipedia.org/wiki/Melissa_Villaseñor "wikilink")
     英雄等級： 0
     Red Action身邊的一個草莓人，喜歡以嘲笑別人來隱藏自己的缺點。非常喜歡Red Action。
-    「You're Everybody's
-    Sidekick,」中透露有一個時尚博客，K.O.幫助她獲得曝光度，但為保持聲望而不肯感謝K.O.。其實內心深處相當尊重K.O.
-    。
+    「You're Everybody's Sidekick,」中透露有一個時尚博客，K.O.幫助她獲得曝光度，但為保持聲望而不肯感謝K.O.。其實內心深處相當尊重K.O. 。
     跟Gregg從小就認識。
 
 **Gregg**(格雷格)
@@ -163,8 +144,7 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
     配音： Ian Jones-Quartey
     英雄等級： 0
     Red Action身邊的一個鳥人，平常不會說話，由Red Action或Drupe代為回應。
-    「You're Everybody's
-    Sidekick,」中透露自己缺乏自信，羞於表露自己的英雄夢想。與他的朋友不同，他非常感謝K.O.的幫忙。
+    「You're Everybody's Sidekick,」中透露自己缺乏自信，羞於表露自己的英雄夢想。與他的朋友不同，他非常感謝K.O.的幫忙。
     跟Drupe從小就認識。
 
 **Ms. Mummy**(木乃伊女士)
@@ -172,8 +152,7 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
   -
     配音：Ashly Burch
     英雄等級：5
-    全名Mommy Mummy。一個可愛的女性木乃伊，住在酒窖的後面。
-    她喜歡住在那裡是因為她可以使用那裡的所有商品，當中衛生紙對她來說就像挑選一件衣服。每個人似乎都忘記了她居住在酒窖。
+    全名Tanis "Mommy" Mummy, Sr.。一個可愛的女性木乃伊，住在酒窖的後面。 她喜歡住在那裡是因為她可以使用那裡的所有商品，當中衛生紙對她來說就像挑選一件衣服。每個人似乎都忘記了她居住在酒窖。
     她的母親被證明是一個帶尾巴的棕色皮膚女士，暗示她自己的外表其實只是一種裝扮風格。
 
 **Beardo**(比尔多)
@@ -181,8 +160,7 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
   -
     配音： David Herman
     英雄等級： 1
-    來自Goblin Country的妖精。用明顯的歐洲口音講話，並在Lakewood Plaza Turbo開著一台捲餅卡車。\[5\]
-    廣場的居民認為因為他是外國人所以比較了解外國事物。
+    來自Goblin Country的妖精。用明顯的歐洲口音講話，並在Lakewood Plaza Turbo開著一台捲餅卡車。\[5\] 廣場的居民認為因為他是外國人所以比較了解外國事物。
     由於使用材料問題，他製作的食物都具有有趣的效果。
 
 ### 客串
@@ -192,51 +170,40 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
   -
     配音： David Coburn
     英雄等級：星球
-    「The Power Is Yours」的客串角色，[地球超人的主角](../Page/地球超人.md "wikilink")。
+    「The Power Is Yours」的客串角色，[地球超人](../Page/地球超人.md "wikilink")的主角。
 
 **Kwame**(夸美)
 
   -
-    配音： [LeVar
-    Burton](https://zh.wikipedia.org/wiki/LeVar_Burton "wikilink")
+    配音： [LeVar Burton](https://zh.wikipedia.org/wiki/LeVar_Burton "wikilink")
     「The Power Is Yours」的客串角色，擁有能操控土地及岩石的戒指，「地球衛士」的成員之一。
     為尋找同伴的接班人而來到Lakewood Plaza Turbo購物中心。
 
 ## 生產
 
-卡通網絡首席Rob Sorcher表示在接受采訪時多次暗示說有系列完整推廣OK
-K.O.！。\[6\]\[7\]\[8\]\[9\]\[10\]\[11\]
+卡通網絡首席Rob Sorcher表示在接受采訪時多次暗示說有系列完整推廣OK K.O.！。\[6\]\[7\]\[8\]\[9\]\[10\]\[11\]
 
 ## 播放
 
-該系列於2017年8月1日在美國[卡通頻道首播](../Page/卡通頻道.md "wikilink")，並於2017年8月7日於姊妹網絡Boomerang上播出\[12\]
-。於8月1日在加拿大首映\[13\]。2018年1月27日台灣地區首播。\[14\]
+該系列於2017年8月1日在美國[卡通頻道](../Page/卡通頻道.md "wikilink")首播，並於2017年8月7日於姊妹網絡Boomerang上播出\[12\] 。於8月1日在加拿大首映\[13\]。2018年1月27日台灣地區首播。\[14\]
 
-中国地区译成**OK K.O.\!
-一起成为英雄吧**，于2018年9月26日由[腾讯视频独家播出](../Page/腾讯视频.md "wikilink")。\[15\]
+中国地区译成**OK K.O.\! 一起成为英雄吧**，于2018年9月26日由[腾讯视频](../Page/腾讯视频.md "wikilink")独家播出。\[15\]
 
 ## 遊戲
 
-*OK K.O.\! Lakewood Plaza
-Turbo*是一款由[Android](../Page/Android.md "wikilink")\[16\]
-和[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")\[17\]於2016年2月4日推出的手機遊戲。
+*OK K.O.\! Lakewood Plaza Turbo*是一款由[Android](../Page/Android.md "wikilink")\[16\] 和[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")\[17\]於2016年2月4日推出的手機遊戲。
 
-[Capybara
-Games是一款在PlayStation](https://zh.wikipedia.org/wiki/Capybara_Games "wikilink")
-4，Xbox One和Windows上推出的遊戲，於2017年發布\[18\]。
+[Capybara Games是一款在PlayStation](https://zh.wikipedia.org/wiki/Capybara_Games "wikilink") 4，Xbox One和Windows上推出的遊戲，於2017年發布\[18\]。
 
 ## 參考來源
 
 ## 外部連結
 
-  - [*OK K.O.\! Let's Be
-    Heroes*](http://www.cartoonnetwork.com/video/ok-ko/) at Cartoon
-    Network
+  - [*OK K.O.\! Let's Be Heroes*](http://www.cartoonnetwork.com/video/ok-ko/) at Cartoon Network
 
   -
   -
-[Category:2010年代美國動畫影集](https://zh.wikipedia.org/wiki/Category:2010年代美國動畫影集 "wikilink")
-[Category:卡通網絡工作室](https://zh.wikipedia.org/wiki/Category:卡通網絡工作室 "wikilink")
+[Category:2010年代美國動畫影集](https://zh.wikipedia.org/wiki/Category:2010年代美國動畫影集 "wikilink") [Category:卡通網絡工作室](https://zh.wikipedia.org/wiki/Category:卡通網絡工作室 "wikilink")
 
 1.  <http://www.cartoonnetwork.com/video/ok-ko/lakewood-plaza-turbo-episode.html?atclk_vn=nav_OK-KO-Lakewood-Plaza-Turbo>
 2.

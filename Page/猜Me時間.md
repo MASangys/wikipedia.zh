@@ -6,7 +6,7 @@
 
 ### 主持人
 
-曾有顏亦敏（敏敏）、米粒格格、米娜、恩禔兒（NT）、妙丁、凱特、嘎嘎、道奇、[混血兒韓穎](../Page/混血兒.md "wikilink")、莫菲、羅雙雙、宥叡、希妃兒，以及文飛飛…等主持人。而[黃豪平為](../Page/黃豪平.md "wikilink")「How來一比」（比手畫腳場）的特定主持人。[許維恩亦曾在特別場次進行主持過](../Page/許維恩.md "wikilink")\[1\]；[丹妮婊姐](https://www.facebook.com/danny0425/)也曾擔任過主持人；《[鬥魚](../Page/鬥魚_\(電影\).md "wikilink")》的演員[邱宇辰](../Page/邱宇辰.md "wikilink")、[虹茜](../Page/虹茜.md "wikilink")、[王淨](../Page/王淨.md "wikilink")…等人，也曾與常態主持人，如顏亦敏與NT一起主持。
+曾有顏亦敏（敏敏）、米粒格格、米娜、恩禔兒（NT）、妙丁、凱特、嘎嘎、道奇、[混血兒](../Page/混血兒.md "wikilink")韓穎、莫菲、羅雙雙、宥叡、希妃兒，以及文飛飛…等主持人。而[黃豪平](../Page/黃豪平.md "wikilink")為「How來一比」（比手畫腳場）的特定主持人。[許維恩](../Page/許維恩.md "wikilink")亦曾在特別場次進行主持過\[1\]；[丹妮婊姐](https://www.facebook.com/danny0425/)也曾擔任過主持人；《[鬥魚](../Page/鬥魚_\(電影\).md "wikilink")》的演員[邱宇辰](../Page/邱宇辰.md "wikilink")、[虹茜](../Page/虹茜.md "wikilink")、[王淨](../Page/王淨.md "wikilink")…等人，也曾與常態主持人，如顏亦敏與NT一起主持。
 
 上述之常態主持人，或者是特約主持人（如藝人、知名人士…等），均由製作單位按照班表進行安排，並由這些常態主持人或特約主持人負責主持。
 
@@ -28,7 +28,7 @@
 
 ### 獎金領取方式
 
-獎金多寡是按照場次的獎金，除以答題人數，取[小數點第二位數之](../Page/小數點.md "wikilink")[無條件捨去](https://zh.wikipedia.org/wiki/数值修约#無條件 "wikilink")。例如有一「黃金時段場」的總獎金是獎金3萬元，有750玩家全部答對，則一人可瓜分並取得40元的獎金。獲得獎金的玩家，可以選擇透過直接提領現金的方式，轉帳至指定的[PayPal](../Page/PayPal.md "wikilink")（付費之友）帳號，無最低領獎門檻，即申請即轉帳；或是轉換為App內的虛擬幣「M豆」，購買其中的虛擬禮物，將其贈給喜歡與支持的直播主主播。
+獎金多寡是按照場次的獎金，除以答題人數，取[小數點](../Page/小數點.md "wikilink")第二位數之[無條件捨去](https://zh.wikipedia.org/wiki/数值修约#無條件 "wikilink")。例如有一「黃金時段場」的總獎金是獎金3萬元，有750玩家全部答對，則一人可瓜分並取得40元的獎金。獲得獎金的玩家，可以選擇透過直接提領現金的方式，轉帳至指定的[PayPal](../Page/PayPal.md "wikilink")（付費之友）帳號，無最低領獎門檻，即申請即轉帳；或是轉換為App內的虛擬幣「M豆」，購買其中的虛擬禮物，將其贈給喜歡與支持的直播主主播。
 
 ## 節目方式
 
@@ -45,19 +45,18 @@
 
 除上述場次外，製作單位也曾經舉辦過下列場次：
 
-  - 宅宅場：為[ACG之類的](../Page/ACG.md "wikilink")[動漫或](../Page/動漫.md "wikilink")[電玩遊戲愛好者所開設的場](https://zh.wikipedia.org/wiki/電玩遊戲 "wikilink")，題目範圍均為各類ACG之類的題目。
+  - 宅宅場：為[ACG](../Page/ACG.md "wikilink")之類的[動漫](../Page/動漫.md "wikilink")或[電玩遊戲愛好者所開設的場](https://zh.wikipedia.org/wiki/電玩遊戲 "wikilink")，題目範圍均為各類ACG之類的題目。
   - 體育場：題目範圍均為各類[體育之類的題目](https://zh.wikipedia.org/wiki/體育 "wikilink")。
   - 演藝場：題目範圍均為各類[演藝或藝文活動之類的題目](https://zh.wikipedia.org/wiki/演藝 "wikilink")。
   - 考古題場：製作單位會任意選擇十二道於當周考過的題目當作此次主題。此場次至2018年十月27日播出者為最後第二次、同年十二月28日播出者為最後一次。最後一次的考古題範圍，則為曾經出現於同名粉絲團的「佛心洩題」與「主持人洩題」之題目。
 
-除平常日節目外，製作單位也會搭配特殊節日，或者是某些電影主題等，進行特別場次。例如2018年八月13日，則由主持人顏亦敏扮演[安娜貝爾](https://zh.wikipedia.org/wiki/安娜貝爾 "wikilink")，道奇扮演[唐三藏](https://zh.wikipedia.org/wiki/唐三藏 "wikilink")，並以「大家來找碴」為出題範圍，增添[鬼月濃厚氣氛](https://zh.wikipedia.org/wiki/鬼月 "wikilink")。或是2018年九月19日，主持人凱特配合《[延禧攻略](https://zh.wikipedia.org/wiki/延禧攻略 "wikilink")》，以[清朝宮廷為主題](../Page/清朝.md "wikilink")，扮演宮女並主持節目。而九月24日場次，則再請顏亦敏扮演[嫦娥](../Page/嫦娥.md "wikilink")、道奇扮演[吳剛](../Page/吳剛_\(神話\).md "wikilink")。
+除平常日節目外，製作單位也會搭配特殊節日，或者是某些電影主題等，進行特別場次。例如2018年八月13日，則由主持人顏亦敏扮演[安娜貝爾](https://zh.wikipedia.org/wiki/安娜貝爾 "wikilink")，道奇扮演[唐三藏](https://zh.wikipedia.org/wiki/唐三藏 "wikilink")，並以「大家來找碴」為出題範圍，增添[鬼月濃厚氣氛](https://zh.wikipedia.org/wiki/鬼月 "wikilink")。或是2018年九月19日，主持人凱特配合《[延禧攻略](https://zh.wikipedia.org/wiki/延禧攻略 "wikilink")》，以[清朝](../Page/清朝.md "wikilink")宮廷為主題，扮演宮女並主持節目。而九月24日場次，則再請顏亦敏扮演[嫦娥](../Page/嫦娥.md "wikilink")、道奇扮演[吳剛](../Page/吳剛_\(神話\).md "wikilink")。
 
 ## 特別場次與特別活動
 
-《猜Me時間》曾與[華視新聞合作](../Page/華視新聞.md "wikilink")，進行特別版的「猜Me新聞大會考」場次。節目場次分別於2018年五月25日、2018年六月1日、2018年六月8日，以及2018年六月15日等四次進行，每一次的開始時間均自下午1時30分開始進行，由主播[陳子見](../Page/陳子見.md "wikilink")（於「[眼球中央電視台](../Page/眼球中央電視台.md "wikilink")」的暱稱為「視網膜」）進行主持\[2\]。
+《猜Me時間》曾與[華視新聞](../Page/華視新聞.md "wikilink")合作，進行特別版的「猜Me新聞大會考」場次。節目場次分別於2018年五月25日、2018年六月1日、2018年六月8日，以及2018年六月15日等四次進行，每一次的開始時間均自下午1時30分開始進行，由主播[陳子見](../Page/陳子見.md "wikilink")（於「[眼球中央電視台](../Page/眼球中央電視台.md "wikilink")」的暱稱為「視網膜」）進行主持\[2\]。
 
-[臺大學生會亦曾與](../Page/國立臺灣大學.md "wikilink")《猜Me時間》合作，舉辦「臺大知識王 ×
-MeMe線上挑戰賽」。除了平時的帶狀節目，還有額外於2018年五月23日到2018年六月1日為止，每日額外增加兩個場次，分別在晚上9時整與9時30分，進行兩場節目。進行完特別節目的參賽者，可再於2018年六月3日，將在特別節目取得的道具於實體比賽中進行使用，與其他參賽者一決高下\[3\]。
+[臺大學生會亦曾與](../Page/國立臺灣大學.md "wikilink")《猜Me時間》合作，舉辦「臺大知識王 × MeMe線上挑戰賽」。除了平時的帶狀節目，還有額外於2018年五月23日到2018年六月1日為止，每日額外增加兩個場次，分別在晚上9時整與9時30分，進行兩場節目。進行完特別節目的參賽者，可再於2018年六月3日，將在特別節目取得的道具於實體比賽中進行使用，與其他參賽者一決高下\[3\]。
 
 ## 逸事
 
@@ -69,8 +68,8 @@ MeMe線上挑戰賽」。除了平時的帶狀節目，還有額外於2018年五
   - 美國線上[真人問答直播節目](https://zh.wikipedia.org/wiki/真人秀 "wikilink")
   - 《[一呼百應](../Page/一呼百應_\(台灣節目\).md "wikilink")》
   - 《賴咪金頭腦》（liveMe的附屬節目）
-  - [新浪微博線上節目](../Page/新浪微博.md "wikilink")*Money King*
-  - [壹傳媒的直播問答節目](../Page/壹傳媒.md "wikilink")《[動腦A](https://zh.wikipedia.org/wiki/動腦A "wikilink")》（或名《天天動腦A》）
+  - [新浪微博](../Page/新浪微博.md "wikilink")線上節目*Money King*
+  - [壹傳媒](../Page/壹傳媒.md "wikilink")的直播問答節目《[動腦A](https://zh.wikipedia.org/wiki/動腦A "wikilink")》（或名《天天動腦A》）
 
 ## 注釋
 
@@ -79,21 +78,12 @@ MeMe線上挑戰賽」。除了平時的帶狀節目，還有額外於2018年五
 ## 外部連結
 
   -
-  - [在App Store上的「MeMe直播 -
-    華人直播交友聊天平台」](https://itunes.apple.com/tw/app/meme%E7%9B%B4%E6%92%AD-%E8%8F%AF%E4%BA%BA%E7%9B%B4%E6%92%AD%E4%BA%A4%E5%8F%8B%E8%81%8A%E5%A4%A9%E5%B9%B3%E5%8F%B0/id1145312849?mt=8)
+  - [在App Store上的「MeMe直播 - 華人直播交友聊天平台」](https://itunes.apple.com/tw/app/meme%E7%9B%B4%E6%92%AD-%E8%8F%AF%E4%BA%BA%E7%9B%B4%E6%92%AD%E4%BA%A4%E5%8F%8B%E8%81%8A%E5%A4%A9%E5%B9%B3%E5%8F%B0/id1145312849?mt=8)
 
-  - [MeMe直播 -
-    華人線上Live主播電視及交友聊天平台](https://play.google.com/store/apps/details?id=chat.meme.inke&hl=zh_TW)
+  - [MeMe直播 - 華人線上Live主播電視及交友聊天平台](https://play.google.com/store/apps/details?id=chat.meme.inke&hl=zh_TW)
 
-[Category:網路節目](https://zh.wikipedia.org/wiki/Category:網路節目 "wikilink")
-[Category:遊戲節目](https://zh.wikipedia.org/wiki/Category:遊戲節目 "wikilink")
-[Category:益智節目](https://zh.wikipedia.org/wiki/Category:益智節目 "wikilink")
-[Category:觀眾參與節目](https://zh.wikipedia.org/wiki/Category:觀眾參與節目 "wikilink")
-[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
+[Category:網路節目](https://zh.wikipedia.org/wiki/Category:網路節目 "wikilink") [Category:遊戲節目](https://zh.wikipedia.org/wiki/Category:遊戲節目 "wikilink") [Category:益智節目](https://zh.wikipedia.org/wiki/Category:益智節目 "wikilink") [Category:觀眾參與節目](https://zh.wikipedia.org/wiki/Category:觀眾參與節目 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
 
 1.  [三立新聞](https://zh.wikipedia.org/wiki/三立新聞 "wikilink")：[女神許維恩首次直播節目主持人　俏皮自然反應深受網友好評](https://www.setn.com/E/news.aspx?newsid=354320)
-2.  [華視午間新聞：「華視午間新聞 × MeMe直播
-    猜Me新聞大會考」網頁](https://event.cts.com.tw/2018MEME/)
-3.  國立臺灣大學學生會網站：[「臺大知識王 x
-    MeMe線上挑戰賽」5月23日開始，一起答題爭取獲得特殊道具的機會吧！](https://ntustudents.org/site/%E3%80%8C%E8%87%BA%E5%A4%A7%E7%9F%A5%E8%AD%98%E7%8E%8B-x-meme%E7%B7%9A%E4%B8%8A%E6%8C%91%E6%88%B0%E8%B3%BD%E3%80%8D5%E6%9C%8823%E6%97%A5%E9%96%8B%E5%A7%8B%EF%BC%8C%E4%B8%80%E8%B5%B7%E7%AD%94%E9%A1%8C/)
+2.  [華視午間新聞：「華視午間新聞 × MeMe直播 猜Me新聞大會考」網頁](https://event.cts.com.tw/2018MEME/)
+3.  國立臺灣大學學生會網站：[「臺大知識王 x MeMe線上挑戰賽」5月23日開始，一起答題爭取獲得特殊道具的機會吧！](https://ntustudents.org/site/%E3%80%8C%E8%87%BA%E5%A4%A7%E7%9F%A5%E8%AD%98%E7%8E%8B-x-meme%E7%B7%9A%E4%B8%8A%E6%8C%91%E6%88%B0%E8%B3%BD%E3%80%8D5%E6%9C%8823%E6%97%A5%E9%96%8B%E5%A7%8B%EF%BC%8C%E4%B8%80%E8%B5%B7%E7%AD%94%E9%A1%8C/)

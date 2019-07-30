@@ -1,4 +1,4 @@
-**第66回[NHK紅白歌合戰](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")**（），於2015年（[平成](../Page/平成.md "wikilink")27年）12月31日（[JST](../Page/日本標準時間.md "wikilink")）晚19:15在[NHK音樂廳以](https://zh.wikipedia.org/wiki/NHK音樂廳 "wikilink")[現場直播的方式舉行](../Page/現場直播.md "wikilink")。
+**第66回[NHK紅白歌合戰](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")**（），於2015年（[平成](../Page/平成.md "wikilink")27年）12月31日（[JST](../Page/日本標準時間.md "wikilink")）晚19:15在[NHK音樂廳以](https://zh.wikipedia.org/wiki/NHK音樂廳 "wikilink")[現場直播](../Page/現場直播.md "wikilink")的方式舉行。
 
 ## 概要
 
@@ -7,15 +7,13 @@
   - 2015年9月16日
     NHK放送總局局長板野裕爾在定期記者會上公佈節目播出時間。
   - 2015年11月18日
-    公佈直播當天的第二聲道「紅白幕後Talk
-    Channel」及播出前的宣傳節目「紅白宣傳部」的主持人，為連續兩年擔任的二人搞笑組合「[香蕉人](../Page/香蕉人.md "wikilink")」（[設樂統及](../Page/設樂統.md "wikilink")[日村勇紀](https://zh.wikipedia.org/wiki/日村勇紀 "wikilink")）\[1\]。
+    公佈直播當天的第二聲道「紅白幕後Talk Channel」及播出前的宣傳節目「紅白宣傳部」的主持人，為連續兩年擔任的二人搞笑組合「[香蕉人](../Page/香蕉人.md "wikilink")」（[設樂統](../Page/設樂統.md "wikilink")及[日村勇紀](https://zh.wikipedia.org/wiki/日村勇紀 "wikilink")）\[1\]。
 
 <!-- end list -->
 
   - 2015年11月26日
-    在記者會上正式公佈獲出場的歌手及組合及本年度的主持人名單。紅組主持人是[綾瀨遙](../Page/綾瀨遙.md "wikilink")，白組主持人是[V6的](../Page/V6_\(偶像團體\).md "wikilink")[井之原快彥](../Page/井之原快彥.md "wikilink")\[2\]，而綜合主持人是[黑柳徹子和NHK主播](../Page/黑柳徹子.md "wikilink")[有働由美子](../Page/有働由美子.md "wikilink")\[3\]。
-    另外，今年的主題為「**這就是日本\!
-    這就是紅白\!**」，同時發表由[田邊誠一所設計](../Page/田邊誠一.md "wikilink")、本年度的的識別[標誌](https://zh.wikipedia.org/wiki/標誌 "wikilink")。
+    在記者會上正式公佈獲出場的歌手及組合及本年度的主持人名單。紅組主持人是[綾瀨遙](../Page/綾瀨遙.md "wikilink")，白組主持人是[V6的](../Page/V6_\(偶像團體\).md "wikilink")[井之原快彥](../Page/井之原快彥.md "wikilink")\[2\]，而綜合主持人是[黑柳徹子](../Page/黑柳徹子.md "wikilink")和NHK主播[有働由美子](../Page/有働由美子.md "wikilink")\[3\]。
+    另外，今年的主題為「**這就是日本\! 這就是紅白\!**」，同時發表由[田邊誠一](../Page/田邊誠一.md "wikilink")所設計、本年度的的識別[標誌](https://zh.wikipedia.org/wiki/標誌 "wikilink")。
 
 <!-- end list -->
 
@@ -35,7 +33,7 @@
 <!-- end list -->
 
   - 2015年12月24日
-    公布出場次序\[7\]，當中[松田聖子連續兩年成為總壓軸](../Page/松田聖子.md "wikilink")，白組壓軸為[近藤真彥](https://zh.wikipedia.org/wiki/近藤真彥 "wikilink")\[8\]，獲選理由為兩人均出道35周年。
+    公布出場次序\[7\]，當中[松田聖子](../Page/松田聖子.md "wikilink")連續兩年成為總壓軸，白組壓軸為[近藤真彥](https://zh.wikipedia.org/wiki/近藤真彥 "wikilink")\[8\]，獲選理由為兩人均出道35周年。
 
 <!-- end list -->
 
@@ -113,7 +111,7 @@
 
   - [三宅宏實](https://zh.wikipedia.org/wiki/三宅宏實 "wikilink")：女子[舉重](https://zh.wikipedia.org/wiki/舉重 "wikilink")[運動員](https://zh.wikipedia.org/wiki/運動員 "wikilink")，2016年將連續第4次參與[奧運](https://zh.wikipedia.org/wiki/奧運 "wikilink")
 
-### [阿淺來了紅白特別篇](../Page/阿淺來了.md "wikilink")
+### [阿淺來了](../Page/阿淺來了.md "wikilink")紅白特別篇
 
   - [波瑠](../Page/波瑠.md "wikilink")（飾演白岡淺）
 
@@ -131,7 +129,7 @@
 
 ### 特別嘉賓\[13\]
 
-  - ：搞笑藝人，藝名稱為「就是很開朗的安村」（），以只穿[三角褲出鏡為其標誌](../Page/三角褲.md "wikilink")。
+  - ：搞笑藝人，藝名稱為「就是很開朗的安村」（），以只穿[三角褲](../Page/三角褲.md "wikilink")出鏡為其標誌。
 
   - （）：二人搞笑組合，成員包括佐藤大樹及長谷川俊輔。
 
@@ -140,13 +138,13 @@
 <!-- end list -->
 
   -
-    （上述三組均於特別環節「紅白後台」及[細川貴志表演中出場](../Page/細川貴志.md "wikilink")，安村亦有參與[伍代夏子的演出](../Page/伍代夏子.md "wikilink")。）
+    （上述三組均於特別環節「紅白後台」及[細川貴志](../Page/細川貴志.md "wikilink")表演中出場，安村亦有參與[伍代夏子](../Page/伍代夏子.md "wikilink")的演出。）
 
 <!-- end list -->
 
   - [松下奈緒](../Page/松下奈緒.md "wikilink")：演員，2010年NHK連續電視小說《[鬼太郎之妻](https://zh.wikipedia.org/wiki/鬼太郎之妻#電視劇 "wikilink")》中飾演[武良布枝](https://zh.wikipedia.org/wiki/武良布枝 "wikilink")（於[生物股長演出前](https://zh.wikipedia.org/wiki/生物股長 "wikilink")）。
-  - 日本女子[七人欖球隊](../Page/七人制橄欖球.md "wikilink")：將出戰[2016年夏季奧林匹克運動會的團隊](../Page/2016年夏季奧林匹克運動會.md "wikilink")（於[冰川清志演出前](../Page/冰川清志.md "wikilink")）。
-  - [吉永小百合](../Page/吉永小百合.md "wikilink")：為紀念二戰結束70周年，於預錄片段中宣揚反戰的信息（於[MISIA演出前](../Page/MISIA.md "wikilink")）。
+  - 日本女子[七人欖球隊](../Page/七人制橄欖球.md "wikilink")：將出戰[2016年夏季奧林匹克運動會](../Page/2016年夏季奧林匹克運動會.md "wikilink")的團隊（於[冰川清志](../Page/冰川清志.md "wikilink")演出前）。
+  - [吉永小百合](../Page/吉永小百合.md "wikilink")：為紀念二戰結束70周年，於預錄片段中宣揚反戰的信息（於[MISIA](../Page/MISIA.md "wikilink")演出前）。
 
 ## 出場歌手
 
@@ -359,42 +357,31 @@
 
   -
   -
-  - [緯來日本台
-    第66屆紅白歌唱大賽網頁](http://japan.videoland.com.tw/channel/20151201/)
+  - [緯來日本台 第66屆紅白歌唱大賽網頁](http://japan.videoland.com.tw/channel/20151201/)
 
-[Category:2015年日本電視節目](https://zh.wikipedia.org/wiki/Category:2015年日本電視節目 "wikilink")
-[Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink")
+[Category:2015年日本電視節目](https://zh.wikipedia.org/wiki/Category:2015年日本電視節目 "wikilink") [Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink")
 
 1.
 
 2.
 
-3.  [66屆紅白名單出爐
-    綾瀨遙再執主持棒，](https://tw.news.yahoo.com/66%E5%B1%86%E7%B4%85%E7%99%BD%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90-%E7%B6%BE%E7%80%A8%E9%81%99%E5%86%8D%E5%9F%B7%E4%B8%BB%E6%8C%81%E6%A3%92-091547133.html)Yahoo奇摩新聞（轉載自民視新聞），2015年11月27日。
+3.  [66屆紅白名單出爐 綾瀨遙再執主持棒，](https://tw.news.yahoo.com/66%E5%B1%86%E7%B4%85%E7%99%BD%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90-%E7%B6%BE%E7%80%A8%E9%81%99%E5%86%8D%E5%9F%B7%E4%B8%BB%E6%8C%81%E6%A3%92-091547133.html)Yahoo奇摩新聞（轉載自民視新聞），2015年11月27日。
 
-4.  [NHK紅白
-    Apps，](https://play.google.com/store/apps/details?id=jp.or.nhk.kouhaku.android&hl=ja)Google
-    Play
+4.  [NHK紅白 Apps，](https://play.google.com/store/apps/details?id=jp.or.nhk.kouhaku.android&hl=ja)Google Play
 
 5.
 
 6.  [紅白曲目決定！松田聖子は「赤いスイートピー」](http://www.nikkansports.com/entertainment/news/1581850.html),日刊スポーツ,2015年12月21日
 
-7.  [紅白歌合戦 曲順決まる
-    大トリは松田聖子さん](http://www3.nhk.or.jp/news/html/20151224/k10010351691000.html)
-    ，NHK
+7.  [紅白歌合戦 曲順決まる 大トリは松田聖子さん](http://www3.nhk.or.jp/news/html/20151224/k10010351691000.html) ，NHK
 
 8.  [紅白歌合戦の曲順発表、大トリは松田聖子さん，](http://www.asahi.com/articles/ASHDS4TKDHDSUCVL00W.html?iref=comtop_6_05)朝日新聞，2015年12月24日
 
-9.  [ゲスト審査員が決定しました，](http://www.nhk.or.jp/kouhaku/topics/topic_151225a.html)
-    NHK
+9.  [ゲスト審査員が決定しました，](http://www.nhk.or.jp/kouhaku/topics/topic_151225a.html) NHK
 
-10. [「第66回
-    NHK紅白歌合戦」松下奈緒ら豪華ゲスト決定，](http://mdpr.jp/news/detail/1552746)ModelPress，2015年12月26日。
+10. [「第66回 NHK紅白歌合戦」松下奈緒ら豪華ゲスト決定，](http://mdpr.jp/news/detail/1552746)ModelPress，2015年12月26日。
 
-11. [朝ドラ『あさが来た』特別編放送決定
-    波瑠「うれしいかぎりです\!」](http://www.oricon.co.jp/news/2064509/full/)
-    オリコン 2015年12月27日
+11. [朝ドラ『あさが来た』特別編放送決定 波瑠「うれしいかぎりです\!」](http://www.oricon.co.jp/news/2064509/full/) オリコン 2015年12月27日
 
 12. [NHK紅白歌合戰結果公佈。](http://www.nhk.or.jp/kouhaku/result/)
 

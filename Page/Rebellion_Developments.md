@@ -1,5 +1,4 @@
-**Rebellion
-Developments**是[英國的一個](https://zh.wikipedia.org/wiki/英國 "wikilink")[電子遊戲開發商](https://zh.wikipedia.org/wiki/遊戲開發者 "wikilink")，總部位於[英格蘭的](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[牛津](../Page/牛津.md "wikilink")。
+**Rebellion Developments**是[英國的一個](https://zh.wikipedia.org/wiki/英國 "wikilink")[電子遊戲開發商](https://zh.wikipedia.org/wiki/遊戲開發者 "wikilink")，總部位於[英格蘭的](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[牛津](../Page/牛津.md "wikilink")。
 
 ## 著名作品
 
@@ -12,7 +11,4 @@ Developments**是[英國的一個](https://zh.wikipedia.org/wiki/英國 "wikilin
 
   -
   -
-[Category:1992年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1992年開業電子遊戲公司 "wikilink")
-[Category:英國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:英國電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:1992年英格蘭建立](https://zh.wikipedia.org/wiki/Category:1992年英格蘭建立 "wikilink")
+[Category:1992年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1992年開業電子遊戲公司 "wikilink") [Category:英國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:英國電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:1992年英格蘭建立](https://zh.wikipedia.org/wiki/Category:1992年英格蘭建立 "wikilink")

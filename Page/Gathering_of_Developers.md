@@ -1,21 +1,15 @@
-**Gathering of Developers**（又名为**God Games and
-Gathering**）是一个德克萨斯州的游戏出版公司，成立于1998年1月，宗旨为弥补发行商和独立游戏开发者之间的差距，允许独立开发者控制自己的项目、所有权和知识产权，并参与出版和营销决策。该公司是由几个有经验的开发公司合作的游戏发行商。该公司后来成为[Take-Two
-Interactive的子公司](../Page/Take-Two_Interactive.md "wikilink")。
+**Gathering of Developers**（又名为**God Games and Gathering**）是一个德克萨斯州的游戏出版公司，成立于1998年1月，宗旨为弥补发行商和独立游戏开发者之间的差距，允许独立开发者控制自己的项目、所有权和知识产权，并参与出版和营销决策。该公司是由几个有经验的开发公司合作的游戏发行商。该公司后来成为[Take-Two Interactive的子公司](../Page/Take-Two_Interactive.md "wikilink")。
 
-Take-Two在2000年5月将其进行收购，并试图获得德克萨斯组的管理权但不成功。创始人和G.O.D.的员工不满公司不允许开发者和知识产权所有权具备公平待遇原则。创始人道格·迈尔斯在2001年5月突然去世，促使其他合作伙伴进行谈判后不久与公司分离。最终，Take-Two接管所有操管理，此后，Gathering
-of Developers成为[2K Games的品牌](../Page/2K_Games.md "wikilink")。
+Take-Two在2000年5月将其进行收购，并试图获得德克萨斯组的管理权但不成功。创始人和G.O.D.的员工不满公司不允许开发者和知识产权所有权具备公平待遇原则。创始人道格·迈尔斯在2001年5月突然去世，促使其他合作伙伴进行谈判后不久与公司分离。最终，Take-Two接管所有操管理，此后，Gathering of Developers成为[2K Games的品牌](../Page/2K_Games.md "wikilink")。
 
 ## 开发者
 
   - [Ritual Entertainment](../Page/Ritual_Entertainment.md "wikilink")
   - [Epic Games](../Page/Epic_Games.md "wikilink")
   - [3D Realms](https://zh.wikipedia.org/wiki/3D_Realms "wikilink")
-  - [PopTop
-    Software](https://zh.wikipedia.org/wiki/PopTop_Software "wikilink")
-  - [Terminal
-    Reality](https://zh.wikipedia.org/wiki/Terminal_Reality "wikilink")
-  - [Edge of
-    Reality](https://zh.wikipedia.org/wiki/Edge_of_Reality "wikilink")
+  - [PopTop Software](https://zh.wikipedia.org/wiki/PopTop_Software "wikilink")
+  - [Terminal Reality](https://zh.wikipedia.org/wiki/Terminal_Reality "wikilink")
+  - [Edge of Reality](https://zh.wikipedia.org/wiki/Edge_of_Reality "wikilink")
 
 ## 个人
 
@@ -133,19 +127,10 @@ of Developers成为[2K Games的品牌](../Page/2K_Games.md "wikilink")。
 
 ## 外部链接
 
-  - [Games published by Gathering of
-    Developers](http://www.take2games.com/?p=games&publisher=Gathering)
-    at [Take-Two
-    Interactive](../Page/Take-Two_Interactive.md "wikilink")
-  - [*Gathering of
-    Developers*](http://www.mobygames.com/company/gathering) profile on
-    [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
+  - [Games published by Gathering of Developers](http://www.take2games.com/?p=games&publisher=Gathering) at [Take-Two Interactive](../Page/Take-Two_Interactive.md "wikilink")
+  - [*Gathering of Developers*](http://www.mobygames.com/company/gathering) profile on [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
 
-[Category:1998年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1998年開業電子遊戲公司 "wikilink")
-[Category:2004年結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2004年結業電子遊戲公司 "wikilink")
-[Category:Take-Two_Interactive的部门与子公司](https://zh.wikipedia.org/wiki/Category:Take-Two_Interactive的部门与子公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:美國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國已結業電子遊戲公司 "wikilink")
+[Category:1998年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1998年開業電子遊戲公司 "wikilink") [Category:2004年結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2004年結業電子遊戲公司 "wikilink") [Category:Take-Two_Interactive的部门与子公司](https://zh.wikipedia.org/wiki/Category:Take-Two_Interactive的部门与子公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:美國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國已結業電子遊戲公司 "wikilink")
 
 1.
 

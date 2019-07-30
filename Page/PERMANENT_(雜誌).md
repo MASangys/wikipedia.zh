@@ -1,5 +1,4 @@
-《**PERMANENT**》（）是由[日本](../Page/日本.md "wikilink")[福岡設計出版公司This](https://zh.wikipedia.org/wiki/福岡 "wikilink")
-Design旗下的PERMANENT BROS所發行之季刊雜誌，2013年1月31日創刊\[1\]。
+《**PERMANENT**》（）是由[日本](../Page/日本.md "wikilink")[福岡設計出版公司This](https://zh.wikipedia.org/wiki/福岡 "wikilink") Design旗下的PERMANENT BROS所發行之季刊雜誌，2013年1月31日創刊\[1\]。
 
 ## 刊物簡介
 
@@ -15,11 +14,11 @@ Design旗下的PERMANENT BROS所發行之季刊雜誌，2013年1月31日創刊\[
 
   - 2012年
       - 10月4日：在《PERMANENT》正式創刊之前先發行了A5尺寸、總共8頁的免費傳單\[3\]，放置在小店宣傳。
-      - 12月3日：首部《PERMANENT》宣傳影片在[Vimeo上線](../Page/Vimeo.md "wikilink")。
-      - 12月13日：編輯團隊於[Facebook公告創刊號即將在](../Page/Facebook.md "wikilink")2013年1月31日發行。
+      - 12月3日：首部《PERMANENT》宣傳影片在[Vimeo](../Page/Vimeo.md "wikilink")上線。
+      - 12月13日：編輯團隊於[Facebook](../Page/Facebook.md "wikilink")公告創刊號即將在2013年1月31日發行。
   - 2013年
       - 1月31日：創刊號第一期《PERMANENT》於[熊本](https://zh.wikipedia.org/wiki/熊本 "wikilink")、[福岡三間店舖販售](https://zh.wikipedia.org/wiki/福岡 "wikilink")，同時自己的官方網站也提供網路訂購。
-      - 2月24日：[臺灣店舖](../Page/臺灣.md "wikilink")「[時常在這裡](https://zh.wikipedia.org/wiki/時常在這裡 "wikilink")」成為《PERMANENT》海外第一間舖書地點\[4\]。
+      - 2月24日：[臺灣](../Page/臺灣.md "wikilink")店舖「[時常在這裡](https://zh.wikipedia.org/wiki/時常在這裡 "wikilink")」成為《PERMANENT》海外第一間舖書地點\[4\]。
       - 4月30日：第二期主題「種、蒔く人」發行。
       - 5月8日：六月號的《[ソトコト](https://zh.wikipedia.org/wiki/ソトコト "wikilink")》雜誌刊載介紹《PERMANENT》。
       - 8月2日：第三期「Papa, You're Crazy」發行。
@@ -28,7 +27,7 @@ Design旗下的PERMANENT BROS所發行之季刊雜誌，2013年1月31日創刊\[
   - 2014年
       - 3月8日：第五期「Heavenly Music」發行。
       - 7月31日：第六期「寄元さんの鶏」發行。
-      - 11月21日：[臺灣出版的](../Page/臺灣.md "wikilink")[日本文化誌](../Page/日本文化.md "wikilink")《[秋刀魚](https://zh.wikipedia.org/wiki/秋刀魚_\(雜誌\) "wikilink")》刊載了《PERMANENT》第一期文章〈鼻子會響的料理\[5\]〉中文版。
+      - 11月21日：[臺灣](../Page/臺灣.md "wikilink")出版的[日本文化](../Page/日本文化.md "wikilink")誌《[秋刀魚](https://zh.wikipedia.org/wiki/秋刀魚_\(雜誌\) "wikilink")》刊載了《PERMANENT》第一期文章〈鼻子會響的料理\[5\]〉中文版。
 
 ## 來源引用
 
@@ -39,9 +38,7 @@ Design旗下的PERMANENT BROS所發行之季刊雜誌，2013年1月31日創刊\[
   -
   -
   -
-[Category:季刊](https://zh.wikipedia.org/wiki/Category:季刊 "wikilink")
-[Category:杂志](https://zh.wikipedia.org/wiki/Category:杂志 "wikilink")
-[Category:日本雜誌](https://zh.wikipedia.org/wiki/Category:日本雜誌 "wikilink")
+[Category:季刊](https://zh.wikipedia.org/wiki/Category:季刊 "wikilink") [Category:杂志](https://zh.wikipedia.org/wiki/Category:杂志 "wikilink") [Category:日本雜誌](https://zh.wikipedia.org/wiki/Category:日本雜誌 "wikilink")
 
 1.
 2.

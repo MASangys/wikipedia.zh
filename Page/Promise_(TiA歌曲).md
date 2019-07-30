@@ -1,5 +1,4 @@
-《**Promise**》是[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")的第4張單曲。2005年8月3日由[EPIC
-Records Japan發行](https://zh.wikipedia.org/wiki/史詩唱片日本 "wikilink")。
+《**Promise**》是[日本](../Page/日本.md "wikilink")女性[創作歌手](../Page/創作歌手.md "wikilink")的第4張單曲。2005年8月3日由[EPIC Records Japan發行](https://zh.wikipedia.org/wiki/史詩唱片日本 "wikilink")。
 
 ## 解說
 
@@ -16,7 +15,4 @@ Records Japan發行](https://zh.wikipedia.org/wiki/史詩唱片日本 "wikilink"
       - 作詞：TiA、CROW，作曲、編曲：
 3.  Promise (Instrumental) (4:33)
 
-[Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink")
-[Category:日本史詩唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本史詩唱片歌曲 "wikilink")
-[Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")
-[Category:烘焙王](https://zh.wikipedia.org/wiki/Category:烘焙王 "wikilink")
+[Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink") [Category:日本史詩唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本史詩唱片歌曲 "wikilink") [Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink") [Category:烘焙王](https://zh.wikipedia.org/wiki/Category:烘焙王 "wikilink")

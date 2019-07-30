@@ -2,15 +2,13 @@
 
 ## 历史
 
-Lightbeam最初是Mozilla的工程师Atul
-Varma作为一个独立项目开发的扩展，后来被采纳为Mozilla项目。[福特基金会也对Lightbeam项目进行支持](../Page/福特基金會.md "wikilink")，主要是展开宣传活动，让人们了解在线数据跟踪。\[2\]\[3\]
+Lightbeam最初是Mozilla的工程师Atul Varma作为一个独立项目开发的扩展，后来被采纳为Mozilla项目。[福特基金会也对Lightbeam项目进行支持](../Page/福特基金會.md "wikilink")，主要是展开宣传活动，让人们了解在线数据跟踪。\[2\]\[3\]
 
 ## 参考资料
 
 <references />
 
-[Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink")
-[Category:互联网隐私软件](https://zh.wikipedia.org/wiki/Category:互联网隐私软件 "wikilink")
+[Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink") [Category:互联网隐私软件](https://zh.wikipedia.org/wiki/Category:互联网隐私软件 "wikilink")
 
 1.
 2.

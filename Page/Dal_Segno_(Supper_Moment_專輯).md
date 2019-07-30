@@ -1,7 +1,4 @@
-《**dal
-segno**》是[香港](../Page/香港.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")[Supper
-Moment的第七張](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，於2018年4月13日推出。此大碟收錄共10首歌曲，包括一首hidden
-track（只收錄於實體CD）。
+《**dal segno**》是[香港](../Page/香港.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")[Supper Moment的第七張](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，於2018年4月13日推出。此大碟收錄共10首歌曲，包括一首hidden track（只收錄於實體CD）。
 
 ## 曲目
 
@@ -20,8 +17,7 @@ track（只收錄於實體CD）。
 
   - 全碟作曲：Supper Moment
   - 全碟填詞：Supper Moment
-  - 全碟編曲：Supper Moment（全部曲目）、Adrian Chan（曲目1，3-10）、王雙駿
-    (曲目1-3，5-9)、[黃兆銘](../Page/黃兆銘.md "wikilink")（曲目4，6）、[Bert](https://zh.wikipedia.org/wiki/Bert "wikilink")（曲目6，10）
+  - 全碟編曲：Supper Moment（全部曲目）、Adrian Chan（曲目1，3-10）、王雙駿 (曲目1-3，5-9)、[黃兆銘](../Page/黃兆銘.md "wikilink")（曲目4，6）、[Bert](https://zh.wikipedia.org/wiki/Bert "wikilink")（曲目6，10）
   - 全碟監製：Adrian Chan （曲目1，3-10）、王雙駿 (曲目1-3，5-9)
 
 ## 專輯派台歌曲成績
@@ -39,6 +35,4 @@ track（只收錄於實體CD）。
 
 ## 參考資料
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:Supper_Moment音樂專輯](https://zh.wikipedia.org/wiki/Category:Supper_Moment音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:Supper_Moment音樂專輯](https://zh.wikipedia.org/wiki/Category:Supper_Moment音樂專輯 "wikilink")

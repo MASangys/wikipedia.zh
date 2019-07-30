@@ -1,33 +1,27 @@
-，為日本[關西電視台製作](../Page/關西電視台.md "wikilink")、[富士聯播網](../Page/富士電視台.md "wikilink")[週二晚間九點連續劇](../Page/關西電視台週二晚間九點連續劇.md "wikilink")（火九）時段，於2017年4月11日起播出的[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")。由小栗旬主演
-。\[1\]
+，為日本[關西電視台](../Page/關西電視台.md "wikilink")製作、[富士聯播網](../Page/富士電視台.md "wikilink")[週二晚間九點連續劇](../Page/關西電視台週二晚間九點連續劇.md "wikilink")（火九）時段，於2017年4月11日起播出的[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")。由小栗旬主演 。\[1\]
 
 ## 演員陣容
 
 ### 公安機動搜查隊特搜班
 
-  - 稻見
-    朗（）：[小栗旬](../Page/小栗旬.md "wikilink")（粵語配音：[鄧永健](../Page/鄧永健.md "wikilink")）
+  - 稻見 朗（）：[小栗旬](../Page/小栗旬.md "wikilink")（粵語配音：[鄧永健](../Page/鄧永健.md "wikilink")）
     **階級：**巡查部長。
-    前[自卫队搜查官](../Page/自卫队.md "wikilink")。
-  - 田丸
-    三郎（）：[西島秀俊](https://zh.wikipedia.org/wiki/西島秀俊 "wikilink")（粵語配音：[黃榮璋](../Page/黃榮璋.md "wikilink")）
+    前[自卫队](../Page/自卫队.md "wikilink")搜查官。
+  - 田丸 三郎（）：[西島秀俊](https://zh.wikipedia.org/wiki/西島秀俊 "wikilink")（粵語配音：[黃榮璋](../Page/黃榮璋.md "wikilink")）
     **階級：**巡查部長。
-  - 吉永
-    三成（）：[田中哲司](../Page/田中哲司.md "wikilink")（粵語配音：[何家裕](../Page/何家裕.md "wikilink")）
+  - 吉永 三成（）：[田中哲司](../Page/田中哲司.md "wikilink")（粵語配音：[何家裕](../Page/何家裕.md "wikilink")）
     **階級：**警部。
     搜查班班長。
   - 樫井 勇輔（）：（粵語配音：[鄧燦陽](../Page/鄧燦陽.md "wikilink")）
     **階級：**巡查部長。
     前爆裂物處理班特搜班成員。
-  - 大山
-    玲（）：[新木優子](../Page/新木優子.md "wikilink")（粵語配音：[石梓晴](../Page/石梓晴.md "wikilink")）
+  - 大山 玲（）：[新木優子](../Page/新木優子.md "wikilink")（粵語配音：[石梓晴](../Page/石梓晴.md "wikilink")）
     **階級：**巡査部長。
     精明的前[-{zh-hans:黑客;zh-hk:黑客;zh-tw:駭客;}-](../Page/黑客.md "wikilink")，網路情報分析的專家。
 
 ### 警察廳
 
-  - 鍛治
-    大輝（）：[長塚京三](../Page/長塚京三.md "wikilink")（粵語配音：[黃志明](../Page/黃志明_\(香港\).md "wikilink")）
+  - 鍛治 大輝（）：[長塚京三](../Page/長塚京三.md "wikilink")（粵語配音：[黃志明](../Page/黃志明_\(香港\).md "wikilink")）
     **階級：**警視監。
     [警察廳警備局長](../Page/警察廳_\(日本\).md "wikilink")。公安機動搜査隊特搜班的創辦者。
 
@@ -39,7 +33,7 @@
     警視廳公安部長。
   - 青沼 祐光（）：
     **階級：**警視。
-    [警視廳公安總務課長](../Page/警視廳.md "wikilink")。
+    [警視廳](../Page/警視廳.md "wikilink")公安總務課長。
   - 星野 司：
     警視廳搜查一課管理官。
   - 林 智史（）：[真島秀和](../Page/真島秀和.md "wikilink")
@@ -57,8 +51,7 @@
 ### 客串演員
 
   - 第1話
-    宇田川
-    圭介：[白洲迅](../Page/白洲迅.md "wikilink")（粵語配音：[杜景煜](../Page/杜景煜.md "wikilink")）
+    宇田川 圭介：[白洲迅](../Page/白洲迅.md "wikilink")（粵語配音：[杜景煜](../Page/杜景煜.md "wikilink")）
     23歲，[外務大臣宇田川勇介的兒子](../Page/外務大臣_\(日本\).md "wikilink")，利用父親對其的疼愛，在外面作奸犯科，雖然被搜查一課列管但都平安無事，後來被恐怖分子「平成維新軍」綁架。
   - 佐川 知廣：安藤瑠一
     22歲，大學生。宇田川圭介的朋友，與宇田川圭介一起在外做壞事。
@@ -149,13 +142,13 @@
   - 伍代 慎司：町山博彥
     弘安大學法學部學生，父親是新任內閣官房長官伍代秀義。
   - 服部 淳宏：濱田和馬\[4\]
-    嘉慶大學文學部學生，父親是[財務大臣服部五郎](../Page/財務大臣.md "wikilink")。
+    嘉慶大學文學部學生，父親是[財務大臣](../Page/財務大臣.md "wikilink")服部五郎。
   - 柘植 佳純：
-    永正大學經濟學部學生，父親是[防衛大臣柘植信光](../Page/防衛大臣.md "wikilink")。
+    永正大學經濟學部學生，父親是[防衛大臣](../Page/防衛大臣.md "wikilink")柘植信光。
   - 荒木 達雄：\[5\]
-    天治大學經濟學部學生，母親是[厚生勞動大臣荒木麻美](../Page/厚生勞動大臣.md "wikilink")。
+    天治大學經濟學部學生，母親是[厚生勞動大臣](../Page/厚生勞動大臣.md "wikilink")荒木麻美。
   - 陣內 士郎：\[6\]
-    明德大學經營學部學生，父親為[總務大臣陣內友喜](../Page/總務大臣.md "wikilink")。
+    明德大學經營學部學生，父親為[總務大臣](../Page/總務大臣.md "wikilink")陣內友喜。
 
 <!-- end list -->
 
@@ -335,8 +328,7 @@
 
 ## 關聯商品
 
-  - [角川文库](../Page/角川文库.md "wikilink")：（，原案：金城一紀，2017年3月25日，[KADOKAWA](../Page/KADOKAWA.md "wikilink")，ISBN
-    9784041053935）\[8\]
+  - [角川文库](../Page/角川文库.md "wikilink")：（，原案：金城一紀，2017年3月25日，[KADOKAWA](../Page/KADOKAWA.md "wikilink")，ISBN 9784041053935）\[8\]
       - 與電視劇版情節相異的原創小說
 
 ## 獎項
@@ -400,34 +392,16 @@
 
 ## 外部連結
 
-  - [-{CRISIS
-    公安機動搜查隊特搜班}-](http://www.ktv.jp/crisis/)－[關西電視台](../Page/關西電視台.md "wikilink")
-  - [-{CRISIS
-    特別搜查隊}-](http://twn.wakuwakujapan.tv/zh/program/detail/wj0000003043/)－WakuWaku
-    Japan
-  - [CRISIS
-    危機英雄](http://japan.videoland.com.tw/channel/20170705/default.htm)－緯來日本台
+  - [-{CRISIS 公安機動搜查隊特搜班}-](http://www.ktv.jp/crisis/)－[關西電視台](../Page/關西電視台.md "wikilink")
+  - [-{CRISIS 特別搜查隊}-](http://twn.wakuwakujapan.tv/zh/program/detail/wj0000003043/)－WakuWaku Japan
+  - [CRISIS 危機英雄](http://japan.videoland.com.tw/channel/20170705/default.htm)－緯來日本台
 
-[Category:2017年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2017年開播的日本電視劇集 "wikilink")
-[Category:關西電視台週二晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:關西電視台週二晚間九點連續劇 "wikilink")
-[Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink")
-[Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
-[Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink")
-[Category:金城一紀](https://zh.wikipedia.org/wiki/Category:金城一紀 "wikilink")
-[Category:東京國際戲劇節優秀連續劇獲獎作品](https://zh.wikipedia.org/wiki/Category:東京國際戲劇節優秀連續劇獲獎作品 "wikilink")
+[Category:2017年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2017年開播的日本電視劇集 "wikilink") [Category:關西電視台週二晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:關西電視台週二晚間九點連續劇 "wikilink") [Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink") [Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink") [Category:金城一紀](https://zh.wikipedia.org/wiki/Category:金城一紀 "wikilink") [Category:東京國際戲劇節優秀連續劇獲獎作品](https://zh.wikipedia.org/wiki/Category:東京國際戲劇節優秀連續劇獲獎作品 "wikilink")
 
 1.
-2.  [小栗旬主演ドラマで存在感
-    テロリスト役のイケメン若手俳優・大和孔太に注目＜プロフィール＞](https://news.nifty.com/article/entame/showbizd/12160-1681363/)
-    niftyニュース(2017年04月25日), 2017年04月26日閲覧。
-3.  [『CRISIS』3話メインゲストに抜擢された新人俳優・堀家一希「小栗旬さんの“心だけ熱くして”という言葉が心に響きました」](https://news.nifty.com/article/entame/showbizd/12173-oric2089767/)
-    niftyニュース(2017年04月25日), 2017年04月26日閲覧。
-4.  [関西テレビ「CRISIS
-    公安機動捜査隊特捜班」第7話出演決定！！](https://www.lespros.co.jp/news/detail/12430)[レプロエンターテイメント](https://zh.wikipedia.org/wiki/レプロエンターテイメント "wikilink")
-    (2017年05月16日)
+2.  [小栗旬主演ドラマで存在感 テロリスト役のイケメン若手俳優・大和孔太に注目＜プロフィール＞](https://news.nifty.com/article/entame/showbizd/12160-1681363/) niftyニュース(2017年04月25日), 2017年04月26日閲覧。
+3.  [『CRISIS』3話メインゲストに抜擢された新人俳優・堀家一希「小栗旬さんの“心だけ熱くして”という言葉が心に響きました」](https://news.nifty.com/article/entame/showbizd/12173-oric2089767/) niftyニュース(2017年04月25日), 2017年04月26日閲覧。
+4.  [関西テレビ「CRISIS 公安機動捜査隊特捜班」第7話出演決定！！](https://www.lespros.co.jp/news/detail/12430)[レプロエンターテイメント](https://zh.wikipedia.org/wiki/レプロエンターテイメント "wikilink") (2017年05月16日)
 5.  [明日は2番組！チェックしてください＾＾](http://ameblo.jp/ryota-official/entry-12277006497.html)小林亮太オフィシャルブログ(2017年05月22日)。
 6.  [告知です！](https://ameblo.jp/saikawa-koji/entry-12276178404.html)才川コージフィシャルブログ(2017年05月19日)
 7.  [小栗＆西島、現役レスラーと死闘の撮影](https://www.lmaga.jp/news/2017/05/24586/?cv=y)Lmagazine(2017年05月28日)

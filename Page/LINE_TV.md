@@ -1,14 +1,11 @@
-**LINE
-TV**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NAVER旗下子公司](../Page/Naver_\(公司\).md "wikilink")[LINE在](../Page/LINE_\(公司\).md "wikilink")[泰國和](https://zh.wikipedia.org/wiki/泰國 "wikilink")[臺灣推出的行動影音串流平臺](../Page/臺灣.md "wikilink")，用戶可透過[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")[行動應用程式收看](https://zh.wikipedia.org/wiki/行動應用程式 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")、[卡通](../Page/卡通.md "wikilink")、[音樂影片等線上免費影音](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")。\[1\]
+**LINE TV**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NAVER旗下子公司](../Page/Naver_\(公司\).md "wikilink")[LINE在](../Page/LINE_\(公司\).md "wikilink")[泰國和](https://zh.wikipedia.org/wiki/泰國 "wikilink")[臺灣](../Page/臺灣.md "wikilink")推出的行動影音串流平臺，用戶可透過[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")[行動應用程式收看](https://zh.wikipedia.org/wiki/行動應用程式 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")、[卡通](../Page/卡通.md "wikilink")、[音樂影片等線上免費影音](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")。\[1\]
 
 ## 營運事記
 
   - 2015年2月14日：泰國開始提供LINE TV服務，併入原LINE Music。\[2\]
-  - 2015年4月1日：LINE TV在[臺灣開始提供服務](../Page/臺灣.md "wikilink")。
-  - 2015年5月4日：臺灣LINE
-    TV首部自製[網路劇](https://zh.wikipedia.org/wiki/網路劇 "wikilink")《[同樂會](../Page/同樂會.md "wikilink")》首播。\[3\]
-  - 2018年11月20日，合併台灣[CHOCO TV](../Page/CHOCO_TV.md "wikilink")，保留[LINE
-    TV](../Page/LINE_TV.md "wikilink")，服務整合。\[4\]
+  - 2015年4月1日：LINE TV在[臺灣](../Page/臺灣.md "wikilink")開始提供服務。
+  - 2015年5月4日：臺灣LINE TV首部自製[網路劇](https://zh.wikipedia.org/wiki/網路劇 "wikilink")《[同樂會](../Page/同樂會.md "wikilink")》首播。\[3\]
+  - 2018年11月20日，合併台灣[CHOCO TV](../Page/CHOCO_TV.md "wikilink")，保留[LINE TV](../Page/LINE_TV.md "wikilink")，服務整合。\[4\]
 
 ## 自製戲劇列表
 
@@ -83,7 +80,7 @@ TV**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NAVER旗下子�
 <td><p><a href="https://zh.wikipedia.org/wiki/黃偉晉" title="wikilink">黃偉晉</a>、<a href="../Page/吳心緹.md" title="wikilink">吳心緹</a>、<a href="../Page/邱鋒澤.md" title="wikilink">邱鋒澤</a>、<a href="../Page/陳大天.md" title="wikilink">陳大天</a>、<a href="../Page/林彥君.md" title="wikilink">林彥君</a>、<a href="https://zh.wikipedia.org/wiki/林子珊" title="wikilink">林子珊</a>、<a href="https://zh.wikipedia.org/wiki/楊景涵" title="wikilink">楊景涵</a>、<a href="../Page/林怡廷.md" title="wikilink">林怡廷</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>2019年</p></td>
+<td><p>2019年4月16日</p></td>
 <td><p><a href="../Page/HIStory3.md" title="wikilink">HIStory3</a></p></td>
 <td><ul>
 <li>圈套：<a href="../Page/徐鈞浩.md" title="wikilink">徐鈞浩</a>、<a href="../Page/吳承洋_(1989年).md" title="wikilink">吳承洋</a>、<a href="../Page/卞慶華.md" title="wikilink">卞慶華</a>、<a href="../Page/陳廷軒_(演員).md" title="wikilink">陳廷軒</a>、<a href="../Page/林意箴.md" title="wikilink">林意箴</a>、<a href="../Page/丁春誠.md" title="wikilink">丁春誠</a></li>
@@ -91,7 +88,7 @@ TV**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NAVER旗下子�
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>2019年</p></td>
+<td><p>2019年7月19日</p></td>
 <td><p><a href="../Page/靈異街11號.md" title="wikilink">靈異街11號</a></p></td>
 <td><p><a href="../Page/李國毅.md" title="wikilink">李國毅</a>、<a href="../Page/簡嫚書.md" title="wikilink">簡嫚書</a>、<a href="https://zh.wikipedia.org/wiki/張翰" title="wikilink">張翰</a>、<a href="../Page/孫可芳.md" title="wikilink">孫可芳</a>、<a href="../Page/張嘉年.md" title="wikilink">張嘉年</a>、<a href="https://zh.wikipedia.org/wiki/黃遠" title="wikilink">黃遠</a>、<a href="../Page/許少瑜.md" title="wikilink">許少瑜</a>、<a href="../Page/吳珝陽.md" title="wikilink">吳珝陽</a>、<a href="../Page/林意箴.md" title="wikilink">林意箴</a>、<a href="../Page/江常輝.md" title="wikilink">江常輝</a></p></td>
 </tr>
@@ -103,8 +100,7 @@ TV**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NAVER旗下子�
 ### 台灣
 
   - [同樂會](../Page/同樂會.md "wikilink")
-  - [SpeXial
-    Life](https://zh.wikipedia.org/wiki/SpeXial_Life "wikilink")
+  - [SpeXial Life](https://zh.wikipedia.org/wiki/SpeXial_Life "wikilink")
 
 ## 首播節目
 
@@ -130,11 +126,9 @@ TV**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NAVER旗下子�
 
   - （台灣）
 
-  - \[<https://itunes.apple.com/tw/app/line-tv-%E7%B2%BE%E5%BD%A9%E9%9A%A8%E7%9C%8B/id1005557642?l=zh>|
-    LINE TV 精彩隨看\] - App Store（台灣）
+  - \[<https://itunes.apple.com/tw/app/line-tv-%E7%B2%BE%E5%BD%A9%E9%9A%A8%E7%9C%8B/id1005557642?l=zh>| LINE TV 精彩隨看\] - App Store（台灣）
 
-  - \[<https://play.google.com/store/apps/details?id=com.chocolabs.app.chocotv&hl=zh_TW>|
-    LINE TV 精彩隨看\] - Google Play（台灣）
+  - \[<https://play.google.com/store/apps/details?id=com.chocolabs.app.chocotv&hl=zh_TW>| LINE TV 精彩隨看\] - Google Play（台灣）
 
   - [LINE TV 的官方網站](http://tv.line.me)（泰國）
 
@@ -142,13 +136,7 @@ TV**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NAVER旗下子�
 
   - （泰國）
 
-[Category:韓國品牌](https://zh.wikipedia.org/wiki/Category:韓國品牌 "wikilink")
-[Category:隨選視訊服務](https://zh.wikipedia.org/wiki/Category:隨選視訊服務 "wikilink")
-[Category:台灣網站](https://zh.wikipedia.org/wiki/Category:台灣網站 "wikilink")
-[Category:网络电视](https://zh.wikipedia.org/wiki/Category:网络电视 "wikilink")
-[Category:視頻網站](https://zh.wikipedia.org/wiki/Category:視頻網站 "wikilink")
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
-[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
+[Category:韓國品牌](https://zh.wikipedia.org/wiki/Category:韓國品牌 "wikilink") [Category:隨選視訊服務](https://zh.wikipedia.org/wiki/Category:隨選視訊服務 "wikilink") [Category:台灣網站](https://zh.wikipedia.org/wiki/Category:台灣網站 "wikilink") [Category:网络电视](https://zh.wikipedia.org/wiki/Category:网络电视 "wikilink") [Category:視頻網站](https://zh.wikipedia.org/wiki/Category:視頻網站 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
 
 1.
 2.

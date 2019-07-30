@@ -1,12 +1,8 @@
-**Clip Studio
-Paint**（CSP）是由日本[CELSYS公司所開發的繪圖軟體](https://zh.wikipedia.org/wiki/CELSYS公司 "wikilink")，號稱整合[ComicStudio與](../Page/ComicStudio.md "wikilink")[IllustStudio](https://zh.wikipedia.org/wiki/IllustStudio "wikilink")，可用於漫畫原稿、插畫、動畫繪製。
+**Clip Studio Paint**（CSP）是由日本[CELSYS公司所開發的繪圖軟體](https://zh.wikipedia.org/wiki/CELSYS公司 "wikilink")，號稱整合[ComicStudio](../Page/ComicStudio.md "wikilink")與[IllustStudio](https://zh.wikipedia.org/wiki/IllustStudio "wikilink")，可用於漫畫原稿、插畫、動畫繪製。
 
 ## 概述
 
-Clip Studio Paint Pro 的上市時間為2012年5月31日，Clip Studio Paint Ex
-於隔年2012年5月31日發布，提供了實體盒裝版與下載版。另外，Pro 與 Ex
-都提供了月租方案。在北美與歐洲，則是將Clip Studio
-Paint以[MangaStudio](https://zh.wikipedia.org/wiki/MangaStudio "wikilink")5.0之形象販售。
+Clip Studio Paint Pro 的上市時間為2012年5月31日，Clip Studio Paint Ex 於隔年2012年5月31日發布，提供了實體盒裝版與下載版。另外，Pro 與 Ex 都提供了月租方案。在北美與歐洲，則是將Clip Studio Paint以[MangaStudio](https://zh.wikipedia.org/wiki/MangaStudio "wikilink")5.0之形象販售。
 
 ## 歷史
 
@@ -21,8 +17,7 @@ Paint以[MangaStudio](https://zh.wikipedia.org/wiki/MangaStudio "wikilink")5.0�
 
 ## 功能特色
 
-Clip Studio
-Paint可以快速提昇繪製的速度。檔案創建方面細分成插畫、漫畫、動畫三種用途，個別擁有不同功能。選取工具方面提供了簡易圖形、套索、筆等種類。網點方面軟體內提供了簡易網點的設置，圖庫也提供許多漫畫用的網點素材。效果線方面透過簡易的輔助工具，就可以做出需多效果線與集中線。上線方面搭配繪圖板與沾水筆工具，能直接在軟體內進行線稿的繪製。上色方面提供了鉛筆、水彩、噴槍等多种筆觸模擬工具。對話框與分隔邊框方面提供多種圖形的分隔工具以及對白框。3D模型素材方面在素材庫裡有提供3D模型可以進行任意姿勢調整與視角轉動。
+Clip Studio Paint可以快速提昇繪製的速度。檔案創建方面細分成插畫、漫畫、動畫三種用途，個別擁有不同功能。選取工具方面提供了簡易圖形、套索、筆等種類。網點方面軟體內提供了簡易網點的設置，圖庫也提供許多漫畫用的網點素材。效果線方面透過簡易的輔助工具，就可以做出需多效果線與集中線。上線方面搭配繪圖板與沾水筆工具，能直接在軟體內進行線稿的繪製。上色方面提供了鉛筆、水彩、噴槍等多种筆觸模擬工具。對話框與分隔邊框方面提供多種圖形的分隔工具以及對白框。3D模型素材方面在素材庫裡有提供3D模型可以進行任意姿勢調整與視角轉動。
 
 ## 產品類型
 
@@ -59,8 +54,7 @@ Paint可以快速提昇繪製的速度。檔案創建方面細分成插畫、漫
   - [癮科技產業消息-2012年4月26日](https://www.cool3c.com/article/58153)
   - [Clip Studio Paint繁體中文版功能介紹](http://www.clipstudio.net/tc/functions)
   - [Celsys會社概要](https://www.celsys.co.jp/company/overview/)
-  - [smithmicro-CLIP STUDIO PAINT
-    PRO](http://my.smithmicro.com/manga-studio-5.html)
+  - [smithmicro-CLIP STUDIO PAINT PRO](http://my.smithmicro.com/manga-studio-5.html)
   - [Celsys公司消息](https://www.celsys.co.jp/en/company/news/)
 
 ## 外部連結
@@ -68,7 +62,4 @@ Paint可以快速提昇繪製的速度。檔案創建方面細分成插畫、漫
   - [Clip Studio Paint 繁體中文版官方網站](http://www.clipstudio.net/tc/)
   - [Celsys官方網站](https://www.celsys.co.jp/)
 
-[Category:位图编辑软件](https://zh.wikipedia.org/wiki/Category:位图编辑软件 "wikilink")
-[Category:繪圖軟體](https://zh.wikipedia.org/wiki/Category:繪圖軟體 "wikilink")
-[Category:漫畫工具](https://zh.wikipedia.org/wiki/Category:漫畫工具 "wikilink")
-[Category:動畫軟體](https://zh.wikipedia.org/wiki/Category:動畫軟體 "wikilink")
+[Category:位图编辑软件](https://zh.wikipedia.org/wiki/Category:位图编辑软件 "wikilink") [Category:繪圖軟體](https://zh.wikipedia.org/wiki/Category:繪圖軟體 "wikilink") [Category:漫畫工具](https://zh.wikipedia.org/wiki/Category:漫畫工具 "wikilink") [Category:動畫軟體](https://zh.wikipedia.org/wiki/Category:動畫軟體 "wikilink")

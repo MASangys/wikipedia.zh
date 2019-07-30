@@ -6,18 +6,17 @@
 
 ## 早年生活
 
-傑米辛出生于美国[艾奥瓦城](../Page/艾奥瓦城_\(艾奥瓦州\).md "wikilink")，在[纽约和](../Page/纽约.md "wikilink")[莫比尔长大](../Page/莫比尔_\(阿拉巴马州\).md "wikilink")。她在马塞诸塞州居住了十年，之后来到纽约\[9\]。傑米辛在1990年到1994年间就读于[杜兰大学](../Page/杜蘭大學.md "wikilink")，并获得[心理学学位](../Page/心理学.md "wikilink")\[10\]。之后她从[馬里蘭大學學院市分校获得](../Page/馬里蘭大學學院市分校.md "wikilink")[教育硕士学位](../Page/教育学.md "wikilink")。
+傑米辛出生于美国[艾奥瓦城](../Page/艾奥瓦城_\(艾奥瓦州\).md "wikilink")，在[纽约](../Page/纽约.md "wikilink")和[莫比尔长大](../Page/莫比尔_\(阿拉巴马州\).md "wikilink")。她在马塞诸塞州居住了十年，之后来到纽约\[9\]。傑米辛在1990年到1994年间就读于[杜兰大学](../Page/杜蘭大學.md "wikilink")，并获得[心理学](../Page/心理学.md "wikilink")学位\[10\]。之后她从[馬里蘭大學學院市分校](../Page/馬里蘭大學學院市分校.md "wikilink")获得[教育硕士学位](../Page/教育学.md "wikilink")。
 
 ## 职业生涯
 
-傑米辛于2002年从“可行天国”写作训练营毕业\[11\]，作品包括长篇和短篇小说。她是波士顿地区的作家协会BRAWLers的成员，也是推想小说评论组织Altered
-Fluid的成员\[12\]。
+傑米辛于2002年从“可行天国”写作训练营毕业\[11\]，作品包括长篇和短篇小说。她是波士顿地区的作家协会BRAWLers的成员，也是推想小说评论组织Altered Fluid的成员\[12\]。
 
-她以特邀嘉宾的身份出席了2014年在[麦迪逊举办的威斯康星州科幻展览会](../Page/麦迪逊.md "wikilink")，并在2015年的波士顿Arisia科幻展览会上以特邀作家的身份出席。
+她以特邀嘉宾的身份出席了2014年在[麦迪逊](../Page/麦迪逊.md "wikilink")举办的威斯康星州科幻展览会，并在2015年的波士顿Arisia科幻展览会上以特邀作家的身份出席。
 
-2013年作为嘉宾在澳大利亚致词时，傑米辛指出在[美國科幻和奇幻作家協會的主席选举中](../Page/美國科幻和奇幻作家協會.md "wikilink")，有超过10%的会员投票给了[另类右派分子西奥多](../Page/另类右派.md "wikilink")·比尔。她在发言中称比尔“自称为性别主义者、种族主义者和反犹太主义者，以及好几种别的混账主义者。”\[13\]，并强调对这些问题保持沉默就等于任其猖狂。比尔回复称她为“受过教育的无知野人”\[14\]。他该发言的链接被发到了美國科幻和奇幻作家協會的官方推特上，最终比尔被协会除名\[15\]。
+2013年作为嘉宾在澳大利亚致词时，傑米辛指出在[美國科幻和奇幻作家協會](../Page/美國科幻和奇幻作家協會.md "wikilink")的主席选举中，有超过10%的会员投票给了[另类右派](../Page/另类右派.md "wikilink")分子西奥多·比尔。她在发言中称比尔“自称为性别主义者、种族主义者和反犹太主义者，以及好几种别的混账主义者。”\[13\]，并强调对这些问题保持沉默就等于任其猖狂。比尔回复称她为“受过教育的无知野人”\[14\]。他该发言的链接被发到了美國科幻和奇幻作家協會的官方推特上，最终比尔被协会除名\[15\]。
 
-自2016年1月起，傑米辛开始在[纽约时报上撰写题为](../Page/纽约时报.md "wikilink")《异界》的双月刊专栏\[16\]。同年5月，她通过[Patreon平台众筹到足够的资金](../Page/Patreon.md "wikilink")，让她可以辞去心理諮商的工作全力写作\[17\]。2017年，《*Bustle*》杂志将傑米辛称为“每个女性都应该读一读的科幻作家”\[18\]。
+自2016年1月起，傑米辛开始在[纽约时报](../Page/纽约时报.md "wikilink")上撰写题为《异界》的双月刊专栏\[16\]。同年5月，她通过[Patreon](../Page/Patreon.md "wikilink")平台众筹到足够的资金，让她可以辞去心理諮商的工作全力写作\[17\]。2017年，《*Bustle*》杂志将傑米辛称为“每个女性都应该读一读的科幻作家”\[18\]。
 
 ## 奖项
 
@@ -82,8 +81,7 @@ Fluid的成员\[12\]。
 
 ### 短篇小说
 
-  - 《炼金术士》，收录于双鹤出版社2004年出版的《散开、掩盖、窒息》小说集内。《年度最佳奇幻恐怖小说，第18版》中有收录该小说名目。*Escape
-    Pod* 系列Podcast中也有录制。
+  - 《炼金术士》，收录于双鹤出版社2004年出版的《散开、掩盖、窒息》小说集内。《年度最佳奇幻恐怖小说，第18版》中有收录该小说名目。*Escape Pod* 系列Podcast中也有录制。
   - 《昨天太多、明日不够》，Ideomancer杂志，2004年
   - 《云龙天空》，Strange Horizon杂志，2005年，也收录于*Escape Pod* 系列
   - 《小红帽的孩子》，Fishnet杂志，2005年
@@ -109,25 +107,19 @@ Fluid的成员\[12\]。
 ## 外部連結
 
   -
-  - [N.K. Jemisin describes
-    worldbuilding](http://www.fantasy-matters.com/2011/10/beyond-worldbuilding-cosmobuilding-or.html)
+  - [N.K. Jemisin describes worldbuilding](http://www.fantasy-matters.com/2011/10/beyond-worldbuilding-cosmobuilding-or.html)
 
-  - [Fantasy Book Review
-    Biography](http://www.fantasybookreview.co.uk/NK-Jemisin/biography.html)
+  - [Fantasy Book Review Biography](http://www.fantasybookreview.co.uk/NK-Jemisin/biography.html)
 
-  - [Carl Brandon Society Wiki
-    entry](http://www.carlbrandon.org/wiki/index.php?title=N._K._Jemisin)
+  - [Carl Brandon Society Wiki entry](http://www.carlbrandon.org/wiki/index.php?title=N._K._Jemisin)
 
-  - [Feminist Science Fiction Wiki
-    entry](http://wiki.feministsf.net/index.php?title=N._K._Jemisin)
+  - [Feminist Science Fiction Wiki entry](http://wiki.feministsf.net/index.php?title=N._K._Jemisin)
 
-  - [Odyssey Workshop
-    interview](https://odysseyworkshop.wordpress.com/2016/02/14/interview-guest-lecturer-n-k-jemisin-part-one-of-two/)
+  - [Odyssey Workshop interview](https://odysseyworkshop.wordpress.com/2016/02/14/interview-guest-lecturer-n-k-jemisin-part-one-of-two/)
 
   -
   -
-[Category:美國作家](https://zh.wikipedia.org/wiki/Category:美國作家 "wikilink")
-[Category:雨果獎獲獎作家](https://zh.wikipedia.org/wiki/Category:雨果獎獲獎作家 "wikilink")
+[Category:美國作家](https://zh.wikipedia.org/wiki/Category:美國作家 "wikilink") [Category:雨果獎獲獎作家](https://zh.wikipedia.org/wiki/Category:雨果獎獲獎作家 "wikilink")
 
 1.
 

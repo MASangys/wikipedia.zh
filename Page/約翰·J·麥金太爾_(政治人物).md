@@ -10,10 +10,4 @@
 
   -
   -
-[Category:懷俄明州聯邦眾議員](https://zh.wikipedia.org/wiki/Category:懷俄明州聯邦眾議員 "wikilink")
-[Category:美国民主党联邦众议员](https://zh.wikipedia.org/wiki/Category:美国民主党联邦众议员 "wikilink")
-[Category:奧克拉荷馬州人](https://zh.wikipedia.org/wiki/Category:奧克拉荷馬州人 "wikilink")
-[Category:美國律師](https://zh.wikipedia.org/wiki/Category:美國律師 "wikilink")
-[Category:律師出身的政治人物](https://zh.wikipedia.org/wiki/Category:律師出身的政治人物 "wikilink")
-[Category:科羅拉多大學校友](https://zh.wikipedia.org/wiki/Category:科羅拉多大學校友 "wikilink")
-[Category:美國陸軍人物](https://zh.wikipedia.org/wiki/Category:美國陸軍人物 "wikilink")
+[Category:懷俄明州聯邦眾議員](https://zh.wikipedia.org/wiki/Category:懷俄明州聯邦眾議員 "wikilink") [Category:美国民主党联邦众议员](https://zh.wikipedia.org/wiki/Category:美国民主党联邦众议员 "wikilink") [Category:奧克拉荷馬州人](https://zh.wikipedia.org/wiki/Category:奧克拉荷馬州人 "wikilink") [Category:美國律師](https://zh.wikipedia.org/wiki/Category:美國律師 "wikilink") [Category:律師出身的政治人物](https://zh.wikipedia.org/wiki/Category:律師出身的政治人物 "wikilink") [Category:科羅拉多大學校友](https://zh.wikipedia.org/wiki/Category:科羅拉多大學校友 "wikilink") [Category:美國陸軍人物](https://zh.wikipedia.org/wiki/Category:美國陸軍人物 "wikilink")

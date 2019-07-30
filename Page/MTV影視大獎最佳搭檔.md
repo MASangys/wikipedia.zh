@@ -1,5 +1,4 @@
-**MTV影視大獎最佳搭檔**（MTV Movie & TV Awards for Best
-Duo）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wikilink")，頒發給年度最佳搭檔，於1992年開始頒發。
+**MTV影視大獎最佳搭檔**（MTV Movie & TV Awards for Best Duo）是[MTV影視大獎](../Page/MTV影視大獎.md "wikilink")重要的獎項之一，頒發給年度最佳搭檔，於1992年開始頒發。
 
 ## 歷屆得主
 
@@ -615,9 +614,7 @@ Duo）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wiki
 
 [Category:MTV電影大獎](https://zh.wikipedia.org/wiki/Category:MTV電影大獎 "wikilink")
 
-1.  [「2013
-    MTV電影大獎」主要得獎名單](http://paper.wenweipo.com/2013/04/16/EN1304160033.htm)
-2.  [2014第23屆MTV電影大獎MTV Movie
-    Awards主要得獎名單](https://www.vogue.com.tw/feature/entertainment/content-14039.html)
+1.  [「2013 MTV電影大獎」主要得獎名單](http://paper.wenweipo.com/2013/04/16/EN1304160033.htm)
+2.  [2014第23屆MTV電影大獎MTV Movie Awards主要得獎名單](https://www.vogue.com.tw/feature/entertainment/content-14039.html)
 3.  [第25屆MTV電影頒獎禮得獎名單《太陽報》](http://the-sun.on.cc/cnt/entertainment/20150414/00476_003.html)
 4.  [【MTV電影電視獎】《美女與野獸》奪最佳影片　最佳親吻卻輸給他們](http://www.appledaily.com.tw/realtimenews/article/new/20170508/1113834/)

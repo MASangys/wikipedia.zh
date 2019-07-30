@@ -1,6 +1,6 @@
-在[生物信息学中](../Page/生物信息学.md "wikilink")，**FASTA格式**是一种用于记录[核酸序列或](../Page/核酸序列.md "wikilink")[肽序列的文本](https://zh.wikipedia.org/wiki/肽序列 "wikilink")[格式](../Page/檔案格式.md "wikilink")，其中的核酸或[氨基酸均以单个字母编码呈现](../Page/氨基酸.md "wikilink")。该格式同时还允许在序列之前定义名称和编写注释。这一格式最初由软件包定义，但现今已是[生物信息学领域的一项标准](../Page/生物信息学.md "wikilink")。
+在[生物信息学](../Page/生物信息学.md "wikilink")中，**FASTA格式**是一种用于记录[核酸序列](../Page/核酸序列.md "wikilink")或[肽序列的文本](https://zh.wikipedia.org/wiki/肽序列 "wikilink")[格式](../Page/檔案格式.md "wikilink")，其中的核酸或[氨基酸](../Page/氨基酸.md "wikilink")均以单个字母编码呈现。该格式同时还允许在序列之前定义名称和编写注释。这一格式最初由软件包定义，但现今已是[生物信息学](../Page/生物信息学.md "wikilink")领域的一项标准。
 
-FASTA简明的格式降低了序列操纵和分析的难度，令序列可被文本处理工具和诸如[Python](../Page/Python.md "wikilink")、[Ruby和](../Page/Ruby.md "wikilink")[Perl等](../Page/Perl.md "wikilink")[脚本语言处理](../Page/脚本语言.md "wikilink")。
+FASTA简明的格式降低了序列操纵和分析的难度，令序列可被文本处理工具和诸如[Python](../Page/Python.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")和[Perl](../Page/Perl.md "wikilink")等[脚本语言](../Page/脚本语言.md "wikilink")处理。
 
 ## 格式
 
@@ -18,8 +18,7 @@ IRRRLQLNPTQAFFLLVNQHSMVSVSTPIADIYEQEKDEDGFLYMVYASQETFGFIRENE
 
 原版FASTA/Pearson格式定义出现在[FASTA程序包的文档中](https://zh.wikipedia.org/wiki/FASTA "wikilink")。可随FASTA的任一免费版本下载（见fasta20.doc、fastaVN.doc或fastaVN.me，其中VN代表版本号）。
 
-FASTA格式中的一条序列由多行文本组成，每一行的字符数均不能超过120字符，通常不推荐超过80字符。这一限制可能与软件为单行显示预分配固定大小内存有关：当时大部分的用户都使用DEC
-VT（或其兼容）终端，而这一终端单行支持显示的字符数上限在80到132个之间。大部分人会将他们的终端配置为字号较大的80字符模式，因此在FASTA中每行只包含80字符或更少（通常为70字符）成为了推荐的做法。此外，标准打印页的一行宽度也在70到80字符之间（取决于字体）。
+FASTA格式中的一条序列由多行文本组成，每一行的字符数均不能超过120字符，通常不推荐超过80字符。这一限制可能与软件为单行显示预分配固定大小内存有关：当时大部分的用户都使用DEC VT（或其兼容）终端，而这一终端单行支持显示的字符数上限在80到132个之间。大部分人会将他们的终端配置为字号较大的80字符模式，因此在FASTA中每行只包含80字符或更少（通常为70字符）成为了推荐的做法。此外，标准打印页的一行宽度也在70到80字符之间（取决于字体）。
 
 FASTA文件的首行以一个“\>”（大于号）或“;”（分号，较不常见）起始，后者是一条注释。然而，后续以分号起始的各行却会被软件忽略。由于软件只会识别第一条注释，早期会在首行注释中编写序列摘要（以唯一的图书馆登录号起始）；但随时间推移，现在的常见做法是只使用“\>”（包括首行），不再使用任何“;”注释（因软件会忽略后者）。
 
@@ -54,8 +53,7 @@ IENY
 
 描述行（定义行）或标题行以“\>”开始，紧随着序列的名称和/或唯一标识符，除此还可包含其他信息。在过时的做法中，标题行有时可以有一条以上的标题，并以^A（Control-A）控制符分隔。
 
-在原版的Pearson FASTA格式中，以分号起始的注释可在标题行之后出现。但一些遵守[NCBI
-FASTA规范](http://www.ncbi.nlm.nih.gov/blast/fasta.shtml)的数据库和生物信息软件不会识别这些注释。如下为多序列FASTA文件的示例：
+在原版的Pearson FASTA格式中，以分号起始的注释可在标题行之后出现。但一些遵守[NCBI FASTA规范](http://www.ncbi.nlm.nih.gov/blast/fasta.shtml)的数据库和生物信息软件不会识别这些注释。如下为多序列FASTA文件的示例：
 
 ``` console
 >SEQUENCE_1
@@ -70,7 +68,7 @@ ATIGENLVVRRFATLKAGANGVVNGYIHTNGRVGVVIAAACDSAEVASKSRDLLRQICMH
 
 ### 序列表达
 
-在标题行和注释之后，是由一行或多行构成的序列数据，其中每行的长度应短于80字符。序列可以是或[核酸序列](../Page/核酸.md "wikilink")，其中可以包含空白占位或比对用字符（见[序列比对](../Page/序列比對.md "wikilink")）。序列应以标准的IUB/IUPAC[氨基酸和](../Page/氨基酸.md "wikilink")[核酸编码表达](../Page/核酸.md "wikilink")，除以下例外：允许小写字母，并会被转作大写字母；一个半角连字符可表示一个空白字符；且在氨基酸序列中，U和\*是合法字符（见下文）。标准中不允许数字，但部分数据库使用数字来表示序列的位置。
+在标题行和注释之后，是由一行或多行构成的序列数据，其中每行的长度应短于80字符。序列可以是或[核酸](../Page/核酸.md "wikilink")序列，其中可以包含空白占位或比对用字符（见[序列比对](../Page/序列比對.md "wikilink")）。序列应以标准的IUB/IUPAC[氨基酸](../Page/氨基酸.md "wikilink")和[核酸](../Page/核酸.md "wikilink")编码表达，除以下例外：允许小写字母，并会被转作大写字母；一个半角连字符可表示一个空白字符；且在氨基酸序列中，U和\*是合法字符（见下文）。标准中不允许数字，但部分数据库使用数字来表示序列的位置。
 
 支持的核酸编码如下：\[1\]\[2\]
 
@@ -121,7 +119,7 @@ ATIGENLVVRRFATLKAGANGVVNGYIHTNGRVGVVIAAACDSAEVASKSRDLLRQICMH
 <tr class="even">
 <td><p>K</p></td>
 <td><p>G、T、U</p></td>
-<td><p><a href="../Page/酮.md" title="wikilink">酮基</a>（）</p></td>
+<td><p><a href="../Page/酮.md" title="wikilink">酮</a>基（）</p></td>
 </tr>
 <tr class="odd">
 <td><p>M</p></td>
@@ -206,10 +204,9 @@ ATIGENLVVRRFATLKAGANGVVNGYIHTNGRVGVVIAAACDSAEVASKSRDLLRQICMH
 
 ## 序列标识符
 
-[NCBI标准定义了标题行中序列唯一标识符](../Page/美国国家生物技术信息中心.md "wikilink")（SeqID）的格式。在的[手册页中有写到](../Page/手册页.md "wikilink")：“formatdb可以自动地解析SeqID并创建索引，但在FASTA定义行中的数据库标识符必须遵守FASTA定义行格式的惯例。”
+[NCBI标准定义了标题行中序列唯一标识符](../Page/美国国家生物技术信息中心.md "wikilink")（SeqID）的格式。在的[手册页](../Page/手册页.md "wikilink")中有写到：“formatdb可以自动地解析SeqID并创建索引，但在FASTA定义行中的数据库标识符必须遵守FASTA定义行格式的惯例。”
 
-下表为NCBI FASTA定义行的格式（另见["The NCBI Handbook", Chapter 16, The BLAST
-Sequence Analysis Tool](http://www.ncbi.nlm.nih.gov/books/NBK21097/)）。
+下表为NCBI FASTA定义行的格式（另见["The NCBI Handbook", Chapter 16, The BLAST Sequence Analysis Tool](http://www.ncbi.nlm.nih.gov/books/NBK21097/)）。
 
 | 数据库                          | 格式                                          |
 | ---------------------------- | ------------------------------------------- |
@@ -226,7 +223,7 @@ Sequence Analysis Tool](http://www.ncbi.nlm.nih.gov/books/NBK21097/)）。
 | NCBI Reference Sequence      | `ref\|accession\|locus`                     |
 | Local Sequence identifier    | `lcl\|identifier`                           |
 
-上表中的管道符（“|”）并不是[巴科斯范式中的分隔符](../Page/巴科斯范式.md "wikilink")，而是格式本身的一部分。多个标识符可以连接，同样使用管道符分隔。
+上表中的管道符（“|”）并不是[巴科斯范式](../Page/巴科斯范式.md "wikilink")中的分隔符，而是格式本身的一部分。多个标识符可以连接，同样使用管道符分隔。
 
 ### 压缩
 
@@ -251,20 +248,15 @@ FASTA文件的压缩需要特制的压缩工具来处理文件里所包含的两
   - [FASTQ格式](../Page/FASTQ格式.md "wikilink")
 
   -
-  - [分子生物学文件格式列表](../Page/文件格式列表.md "wikilink")
-
 ## 参考文献
 
 <references />
 
 ## 外部链接
 
-  - [What is FASTA
-    Format?](http://zhanglab.ccmb.med.umich.edu/FASTA/) 什么是FASTA格式.
-  - [HUPO-PSI Standard FASTA
-    Format](https://web.archive.org/web/20170712112029/http://www.psidev.info/node/363) HUPO-PSI发表的另一种FASTA格式.
-  - [Sequence ID (seqID) Fields in the FASTA Deflines of Sequences from
-    NCBI](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/LATEST/) FASTA定义行的格式.
+  - [What is FASTA Format?](http://zhanglab.ccmb.med.umich.edu/FASTA/) 什么是FASTA格式.
+  - [HUPO-PSI Standard FASTA Format](https://web.archive.org/web/20170712112029/http://www.psidev.info/node/363) HUPO-PSI发表的另一种FASTA格式.
+  - [Sequence ID (seqID) Fields in the FASTA Deflines of Sequences from NCBI](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/LATEST/) FASTA定义行的格式.
 
 [Category:生物信息學](https://zh.wikipedia.org/wiki/Category:生物信息學 "wikilink")
 

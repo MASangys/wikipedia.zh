@@ -1,9 +1,8 @@
-**MeseMoa.**（）是以9人组成的日本男子偶像團體。剛開始活動時以10人组成的Musumen.（）名義開始活動。以投稿翻跳[早安少女組的影片作為契機而結成](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")，以及自主營運的形式進行活動\[1\]。他們以在[中野太陽廣場公演作為目標](../Page/中野太陽廣場.md "wikilink")，並在2015年8月達成該目標\[2\]。2017年2月3日，團體名字從Musumen.改成MeseMoa.。
+**MeseMoa.**（）是以9人组成的日本男子偶像團體。剛開始活動時以10人组成的Musumen.（）名義開始活動。以投稿翻跳[早安少女組的影片作為契機而結成](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")，以及自主營運的形式進行活動\[1\]。他們以在[中野太陽廣場](../Page/中野太陽廣場.md "wikilink")公演作為目標，並在2015年8月達成該目標\[2\]。2017年2月3日，團體名字從Musumen.改成MeseMoa.。
 
 Musumen.大多數單曲和專輯的作詞作曲都是由親手包辦。粉絲名稱為irumii(イルミィ)
 
-2015年11月23日，AOI（真名：今川碧海）在第28回[JUNON SUPER
-BOY比賽中獲得評審特別獎](../Page/JUNON_SUPER_BOY.md "wikilink")\[3\]。
+2015年11月23日，AOI（真名：今川碧海）在第28回[JUNON SUPER BOY比賽中獲得評審特別獎](../Page/JUNON_SUPER_BOY.md "wikilink")\[3\]。
 
 ## 成員
 
@@ -173,14 +172,10 @@ BOY比賽中獲得評審特別獎](../Page/JUNON_SUPER_BOY.md "wikilink")\[3\]�
 
 ### 2012年
 
-  - 3月30日，白服在與共同主持的節目“星期五nico
-    radio”最後一集中收到了来自早安少女组的[铃木香音的視頻訊息](https://zh.wikipedia.org/wiki/铃木香音 "wikilink")，表示希望他能夠翻跳《[戀愛獵人](../Page/戀愛獵人.md "wikilink")》\[4\]。
+  - 3月30日，白服在與共同主持的節目“星期五nico radio”最後一集中收到了来自早安少女组的[铃木香音的視頻訊息](https://zh.wikipedia.org/wiki/铃木香音 "wikilink")，表示希望他能夠翻跳《[戀愛獵人](../Page/戀愛獵人.md "wikilink")》\[4\]。
   - 5月10日，在[niconico動畫投稿了戀愛獵人的翻跳視頻](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")\[5\]。
-  - 8月18日，在「NicoNico Dance Master4～生でニコニコいかせて！～」中以morning
-    musumen.的名義參加表演了戀愛獵人。這是他們第一次出演活動。
-  - 10月10日，在niconico動畫和youtube投稿了[非常興奮 Take a
-    chance的翻跳視頻](../Page/非常興奮_Take_a_chance.md "wikilink")。\[6\]。這個作品之後，K'suke從組合中畢業，以morning
-    musumen.的舞蹈指導作為中心工作在後臺支援。
+  - 8月18日，在「NicoNico Dance Master4～生でニコニコいかせて！～」中以morning musumen.的名義參加表演了戀愛獵人。這是他們第一次出演活動。
+  - 10月10日，在niconico動畫和youtube投稿了[非常興奮 Take a chance的翻跳視頻](../Page/非常興奮_Take_a_chance.md "wikilink")。\[6\]。這個作品之後，K'suke從組合中畢業，以morning musumen.的舞蹈指導作為中心工作在後臺支援。
 
 ### 2013年
 
@@ -188,89 +183,70 @@ BOY比賽中獲得評審特別獎](../Page/JUNON_SUPER_BOY.md "wikilink")\[3\]�
   - 3月24日，在大阪amhall舉行第一次的單獨公演「Musumen.單獨公演～假裝是偶像有什么不好！～」。
   - 4月27、28日，出演「NicoNico超Party Ⅱ」，在27日的超Party中Asupara從組合中畢業。
   - **4月27日，首張單曲『War Cry 〜アイドル気取りで何が悪い！〜』發售。**
-  - 4月29日，在birth新宿舉行「Musumen.迷你單獨公演～in東京～。Tomitake作为新增成員加入。并且巫覡夜徒作为dream
-    morning musumen.加入。
+  - 4月29日，在birth新宿舉行「Musumen.迷你單獨公演～in東京～。Tomitake作为新增成員加入。并且巫覡夜徒作为dream morning musumen.加入。
   - 5月2日，在niconico動畫和youtube投稿了[One·Two·Three的翻跳視頻](https://zh.wikipedia.org/wiki/One·Two·Three/The_摩天樓_Show "wikilink")\[8\]，這是Asupara參加的最後的翻跳視頻。
   - **8月7日，第二張單曲『サマー☆ビーナス 〜真夏のアイドル〜』發售。**
-  - 8月11日，報名參加了『[SUMMER SONIC](../Page/SUMMER_SONIC.md "wikilink")
-    2013「出れんの\!?サマソニ\!?」』\[9\]。
-  - 8月18日，出演「Nico Nico D@nce M@ster
-    FINAL」。加上Tomitake以10人的陣容表演了「假装是偶像有什么不好！」\[10\]。
+  - 8月11日，報名參加了『[SUMMER SONIC](../Page/SUMMER_SONIC.md "wikilink") 2013「出れんの\!?サマソニ\!?」』\[9\]。
+  - 8月18日，出演「Nico Nico D@nce M@ster FINAL」。加上Tomitake以10人的陣容表演了「假装是偶像有什么不好！」\[10\]。
   - 2013年10月至14年1月在全國4個地方（大阪、福岡、名古屋、東京）進行第一次的巡迴演出「むすめん。単独ツアー～なりきりっ☆男子ING～」。
   - 10月19日，在巡迴演出的大阪公演中宣佈浮躁王子成為組合的副隊長。同時，野崎便當宣佈要逐漸棄用茶色假髮而以真髮亮相活動。
 
 ### 2014年
 
-  - **1月4日，第三張單曲『たじたじ＊ファンタジー
-    〜君のアイドルになりたくて〜』發售。**同日，單獨巡迴演出最後一場上，Ni-chan宣佈活動休止。
-  - 4月1日，在niconico生放送中宣佈：在Zepp Diversity
-    舉辦東京公演；發表將要發售第一張專輯的消息。另外為了更加方便進行Musumen.的活動，住在關西的浮躁王子和Zeararu.，以及住在北海道的Tomitake都會和住在東京的白服一起開始在東京的合租公寓生活。
+  - **1月4日，第三張單曲『たじたじ＊ファンタジー 〜君のアイドルになりたくて〜』發售。**同日，單獨巡迴演出最後一場上，Ni-chan宣佈活動休止。
+  - 4月1日，在niconico生放送中宣佈：在Zepp Diversity 舉辦東京公演；發表將要發售第一張專輯的消息。另外為了更加方便進行Musumen.的活動，住在關西的浮躁王子和Zeararu.，以及住在北海道的Tomitake都會和住在東京的白服一起開始在東京的合租公寓生活。
   - **4月26日，首張專輯『Wonder Dream』發售。**
-  - 4月26日及27日出演「NicoNico 超Party
-    Ⅲ」，表演[The☆Pea～ce\!的時候](https://zh.wikipedia.org/wiki/The☆Pea～ce!_/_充滿愛的大宇宙 "wikilink")，[石川梨華作为驚喜嘉賓登場](../Page/石川梨華.md "wikilink")\[11\]。和本家早安少女組。的畢業成員共同完成演出。
+  - 4月26日及27日出演「NicoNico 超Party Ⅲ」，表演[The☆Pea～ce\!的時候](https://zh.wikipedia.org/wiki/The☆Pea～ce!_/_充滿愛的大宇宙 "wikilink")，[石川梨華](../Page/石川梨華.md "wikilink")作为驚喜嘉賓登場\[11\]。和本家早安少女組。的畢業成員共同完成演出。
   - 6月14～9月6日，在全國11個都道府縣舉行「むすめん。全国巡演 2014 〜夏☆彡MEETING\!会いドル気取り真っ最chu♡〜」
   - 8月17日，AOI和Tomitake出演中國的「深圳UF動漫遊戲嘉年華」並舉行簽名會。
   - **8月23日，第四張單曲『Honey Bee』發售。**
-  - 9月12～14日，Musumen.全員（除Forgeru和野崎便當外）參與Tokyo Crazy Kawaii in
-    Taipei的舞台演出。
+  - 9月12～14日，Musumen.全員（除Forgeru和野崎便當外）參與Tokyo Crazy Kawaii in Taipei的舞台演出。
   - 9月20日，AOI和Tomitake出演「2014第二屆Bilibili線下Live」。
   - 10月2日及3日，白服、AOI、浮躁王子出演「CIAA中國昆山國際動漫藝術博覽會」，並在2日的活動中舉行粉絲見面會。
 
 ### 2015年
 
-  - **1月2日，第五張單曲『Rabbit Jump\!\!』發售。**同日，在Zepp
-    DiverCity舉行單獨公演。在公演中以驚喜形式對成員和觀眾發表同年8月16日在[中野太陽廣場舉行公演的消息](../Page/中野太陽廣場.md "wikilink")。
-  - 3月14日，白服、AOI、浮躁王子、Tomitake、Niban Senji出演中國的「BiliBili Macro Link
-    2015廣州站」，Niban Senji是代替因突發神經性耳聾而無法出演的Zeararu.。
+  - **1月2日，第五張單曲『Rabbit Jump\!\!』發售。**同日，在Zepp DiverCity舉行單獨公演。在公演中以驚喜形式對成員和觀眾發表同年8月16日在[中野太陽廣場](../Page/中野太陽廣場.md "wikilink")舉行公演的消息。
+  - 3月14日，白服、AOI、浮躁王子、Tomitake、Niban Senji出演中國的「BiliBili Macro Link 2015廣州站」，Niban Senji是代替因突發神經性耳聾而無法出演的Zeararu.。
   - 3月21日，Musumen.以全員9人陣容在中國上海舉行首場海外單獨公演。
-  - 3月25日～28日，Musumen.舞台劇「INNOCENT
-    BOYS」上演。然而Zeararu.因突發神經性耳聾而無法演出，其角色由Asupara代演。
+  - 3月25日～28日，Musumen.舞台劇「INNOCENT BOYS」上演。然而Zeararu.因突發神經性耳聾而無法演出，其角色由Asupara代演。
   - **4月25日，第二張專輯『2222』發售。**
   - 5月4日，白服、AOI、浮躁王子出演中國的「BiliBili Macro Link 2015成都站」。
   - 5月16日～8月1日，在包括沖繩在內的全國14個地方舉行夏季巡迴演唱會。
-  - 6月20日，出演[日本電視台的](../Page/日本電視台.md "wikilink")「Zoom
-    In！！Saturday」的男子偶像組合特輯（一個日本國內的手機電視節目）。
+  - 6月20日，出演[日本電視台](../Page/日本電視台.md "wikilink")的「Zoom In！！Saturday」的男子偶像組合特輯（一個日本國內的手機電視節目）。
   - **7月26日，第六張單曲『Chameleon Color』發售。**
-  - 8月16日，『むすめん。全国ツアー2015夏 ファイナルSP 〜Dream of
-    2222〜』達成了組合一直夢想在中野太陽廣場舉行公演的夢想。公演中石川梨華以驚喜的形式出演\[12\]。另外，對成員來說的驚喜有：
+  - 8月16日，『むすめん。全国ツアー2015夏 ファイナルSP 〜Dream of 2222〜』達成了組合一直夢想在中野太陽廣場舉行公演的夢想。公演中石川梨華以驚喜的形式出演\[12\]。另外，對成員來說的驚喜有：
       - ①2016年在全國47個都道府縣舉行巡迴演出。
       - ②成立官方Fan Club
       - ③舉行「Chameleon Color」的發售紀念追加合影會
       - ④8月20日出演「ETA[日本武道館](../Page/日本武道館.md "wikilink")」。
-      - ⑤發表在10月份開始於[埼玉電視台開展冠名番組節目](../Page/埼玉電視台.md "wikilink")\[13\]。同日，一直活動休止的成员Ni-chan再次開始參與活動。從這一天的中野太陽廣場公演開始，Musumen.再度以10个人的形式繼續活動。
+      - ⑤發表在10月份開始於[埼玉電視台](../Page/埼玉電視台.md "wikilink")開展冠名番組節目\[13\]。同日，一直活動休止的成员Ni-chan再次開始參與活動。從這一天的中野太陽廣場公演開始，Musumen.再度以10个人的形式繼續活動。
   - 10月3日，番組節目在埼玉電視台開始放映。第1、2集播映的时候是以「むすめん。」作为節目名稱，第3集開始節目名稱改為「むすたま。」。
-  - 11月19日，在「OTODAMA 空FES 2015
-    ～冬，與天空最接近的祭典～」中，與原早安少女組。的[田中麗奈為隊長的樂隊](https://zh.wikipedia.org/wiki/田中麗奈 "wikilink")[LoVendoЯ進行共同演出](../Page/LoVendoЯ.md "wikilink")。
+  - 11月19日，在「OTODAMA 空FES 2015 ～冬，與天空最接近的祭典～」中，與原早安少女組。的[田中麗奈為隊長的樂隊](https://zh.wikipedia.org/wiki/田中麗奈 "wikilink")[LoVendoЯ](../Page/LoVendoЯ.md "wikilink")進行共同演出。
   - 12月23～12月27日，在神奈川和大阪的、舉行冬季迷你巡迴演出「むすめん。感謝祭2015冬～Re:START～」。
   - **12月23日，第七張單曲『灼熱！鬼ヶ島DANJI』發售。**
 
 ### 2016年
 
   - 1月2日，AOI、浮躁王子、Ni-chan出演在中國的「廣州螢火蟲動漫遊戲嘉年華」。
-  - 1月22～24日，Musumen.全員（除因半月板受傷的Zeararu.以外）出演泰國曼谷的[Japan
-    Expo](../Page/日本博覽會.md "wikilink") Thailand中Tokyo Crazy
-    Kawaii的舞台演出。
+  - 1月22～24日，Musumen.全員（除因半月板受傷的Zeararu.以外）出演泰國曼谷的[Japan Expo](../Page/日本博覽會.md "wikilink") Thailand中Tokyo Crazy Kawaii的舞台演出。
   - 3月23日，AOI宣佈以Musumen.活動優先的前提下加入砂岡事務所。同日，野崎便當从北海道搬到东京，除了Nokkuso之外，全部成員都住在東京內。
   - **4月2日，第三張專輯『Thanks\!』發售。**
   - 4月9日，開始舉行『Musumen。全国47都道府県巡回演唱会〜Thanks\!〜』。
   - 7月2日，Zeararu.在『Musumen。全国47都道府県巡回演唱会〜Thanks\!〜』的神奈川公演上宣布畢業。
-  - 7月5日，白服、AOI以及Kimagure王子在電台節目《コーナーレギュラー》的东京MX規定广播《みんなでつくる
-    みんチャン！》，负责歌唱片尾主題曲。
+  - 7月5日，白服、AOI以及Kimagure王子在電台節目《コーナーレギュラー》的东京MX規定广播《みんなでつくる みんチャン！》，负责歌唱片尾主題曲。
   - 8月4日，白服、AOI以及浮躁王子，三人成立子團「信號機。」（）\[14\]。
   - **8月6日，第八張單曲『新鮮！竜宮城RENBO』發售。**
-  - 11月16日、子團「Traffic Light.」的出道单曲『Dance Dance\!\! / Traffic
-    Jam』發售。在公信榜周獲得第9位。
+  - 11月16日、子團「Traffic Light.」的出道单曲『Dance Dance\!\! / Traffic Jam』發售。在公信榜周獲得第9位。
 
 ### 2017年
 
   - **1月7日，第九張單曲『着陸！月面ZENBU』發售。**B面曲是Zeararu.的solo曲。
   - 1月8日，『Musumen.全国47都道府県ツアー 〜Thanks\!〜』的岩手公演上，發表即將更改團體名稱一事。
-  - **1月22日，第四張專輯『Musumen.』發售。**同日，『Musumen.全国47都道府県ツアーファイナル
-    ぜあらる。卒業～Special Thanks\!～』上，Zeararu.正式畢業。
+  - **1月22日，第四張專輯『Musumen.』發售。**同日，『Musumen.全国47都道府県ツアーファイナル ぜあらる。卒業～Special Thanks\!～』上，Zeararu.正式畢業。
   - 2月3日，團體名字從Musumen.改成MeseMoa.。
   - 4月7日，Ni-chan在電台FM-FUJI的節目『ぜあらる。のお雑談RADIO Returns！』當MC。
-  - 4月13日，官方YouTube發布歌曲《Shadow
-    Kiss》的MV獲得關注，MV中成員們展現壁咚Kiss，額頭Kiss，耳朵Kiss，大腿Kiss等各種Kiss\[15\]。
+  - 4月13日，官方YouTube發布歌曲《Shadow Kiss》的MV獲得關注，MV中成員們展現壁咚Kiss，額頭Kiss，耳朵Kiss，大腿Kiss等各種Kiss\[15\]。
   - **4月29日，MeseMoa.名義的首張專輯『Secret』發售。**
   - 5月1日，原成員Zeararu.以原名『篠原裕之』創立經紀唱片公司株式會社DD，並將MeseMoa.隸屬旗下。
   - **8月26日，首張單曲『Muddy Water』發售。**
@@ -296,11 +272,7 @@ BOY比賽中獲得評審特別獎](../Page/JUNON_SUPER_BOY.md "wikilink")\[3\]�
 
 ### 結成的契機
 
-白服在與共同主持的節目“星期五nico
-radio”的最後一集中收到了來自早安少女组的鈴木香音的視頻訊息，希望他能夠翻跳《戀愛獵人》。伴隨強烈的哭聲，白服立下了「絕對會翻跳」的約定。白服邀請當時在NicoNico動畫上活躍的動畫投稿者們，組織起現在的成員（除Tomitake以外）的11人，以morning
-musumen.的名義投稿了「11個男人試著跳了早安少女組。的戀愛Hunter」，這就是原morning
-musumen.的结成原因。當初也只是作為一個會投稿翻跳早安少女組的舞蹈視頻的翻跳組合morning
-musumen。來參加各類活動，在2013年的首次單獨公演後，開始了制作原創樂曲等的男子偶像團體活動。首次單獨公演的時候，出現了「以在中野太陽廣場公演作為目標」的發言，開展以「在早安家族的聖地——中野太陽廣場進行公演」為目標的連串活動。
+白服在與共同主持的節目“星期五nico radio”的最後一集中收到了來自早安少女组的鈴木香音的視頻訊息，希望他能夠翻跳《戀愛獵人》。伴隨強烈的哭聲，白服立下了「絕對會翻跳」的約定。白服邀請當時在NicoNico動畫上活躍的動畫投稿者們，組織起現在的成員（除Tomitake以外）的11人，以morning musumen.的名義投稿了「11個男人試著跳了早安少女組。的戀愛Hunter」，這就是原morning musumen.的结成原因。當初也只是作為一個會投稿翻跳早安少女組的舞蹈視頻的翻跳組合morning musumen。來參加各類活動，在2013年的首次單獨公演後，開始了制作原創樂曲等的男子偶像團體活動。首次單獨公演的時候，出現了「以在中野太陽廣場公演作為目標」的發言，開展以「在早安家族的聖地——中野太陽廣場進行公演」為目標的連串活動。
 
 ### 自主營運
 
@@ -308,11 +280,11 @@ Musumen.結成時並未隸屬於任何事務所，長期獨立活動，而在已
 
 ### 早安御宅族集團
 
-成員大多是[早安家族的粉絲](../Page/早安家族.md "wikilink")，是個早安御宅族集團。Musumen.官網中也有「早安中最喜歡的成員」一欄存在，在公演上也會翻跳和翻唱早安少女組以外的早安家族的歌曲。Musumen.組成之前，成員自身也有投稿過很多早安家族的翻跳作品，甚至浮躁王子的名字就是翻跳早安少女組的[善變的公主演變而來](../Page/善變的公主.md "wikilink")。
+成員大多是[早安家族](../Page/早安家族.md "wikilink")的粉絲，是個早安御宅族集團。Musumen.官網中也有「早安中最喜歡的成員」一欄存在，在公演上也會翻跳和翻唱早安少女組以外的早安家族的歌曲。Musumen.組成之前，成員自身也有投稿過很多早安家族的翻跳作品，甚至浮躁王子的名字就是翻跳早安少女組的[善變的公主](../Page/善變的公主.md "wikilink")演變而來。
 
 ### 動畫投稿網站出身
 
-組合成員全員本身都是在[niconico動畫上投稿的](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")。到現在也是使用投稿網站上的名字而非本名進行活動。成員基本上不會公開本名、年齡等個人資料，不過也有成員公開了部份資料的情況。另外成員們在進行組合活動時也同時兼顧自身的工作或學業。但是，在2015年8月[中野太陽廣場公演上](../Page/中野太陽廣場.md "wikilink")，白服明確表明為了今後的偶像活動將會把重心轉移為「以Musumen.作為自己的工作」上去\[16\]。
+組合成員全員本身都是在[niconico動畫上投稿的](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")。到現在也是使用投稿網站上的名字而非本名進行活動。成員基本上不會公開本名、年齡等個人資料，不過也有成員公開了部份資料的情況。另外成員們在進行組合活動時也同時兼顧自身的工作或學業。但是，在2015年8月[中野太陽廣場](../Page/中野太陽廣場.md "wikilink")公演上，白服明確表明為了今後的偶像活動將會把重心轉移為「以Musumen.作為自己的工作」上去\[16\]。
 
 ## 音樂作品
 
@@ -728,9 +700,7 @@ CD+DVD</p></td>
 
 ## 廣告代言
 
-  - Google『[Chromecast](../Page/Chromecast.md "wikilink")』網頁廣告
-    『夢中になろう。YouTube を、テレビへ。(
-    むすめん。篇）』(とみたけ、あおい、二番煎じ）曲：[BABYMETAL](../Page/BABYMETAL.md "wikilink")『ギミチョコ\!\!』\[17\]
+  - Google『[Chromecast](../Page/Chromecast.md "wikilink")』網頁廣告 『夢中になろう。YouTube を、テレビへ。( むすめん。篇）』(とみたけ、あおい、二番煎じ）曲：[BABYMETAL](../Page/BABYMETAL.md "wikilink")『ギミチョコ\!\!』\[17\]
   - 『Chameleon Color』/「ウタ娘」EDテーマ（[埼玉電視台](../Page/埼玉電視台.md "wikilink")）
   - 「眠眠打破」網頁廣告
 
@@ -744,8 +714,7 @@ CD+DVD</p></td>
 
   - MeseMoa.[官方Youtube頻道](https://www.youtube.com/channel/UC6454ctklRFUiE6CMzuw0hQ)
 
-  - MeseMoa.[Fan Club
-    M＋](https://web.archive.org/web/20160217162303/https://musumen-fc.jp/)
+  - MeseMoa.[Fan Club M＋](https://web.archive.org/web/20160217162303/https://musumen-fc.jp/)
 
   - MeseMoa.官方[LINE部落格](http://lineblog.me/musumen/)
 
@@ -753,8 +722,7 @@ CD+DVD</p></td>
 
   - MeseMoa.[官方週邊商品網店](http://musumen.shop-pro.jp/)
 
-  - MeseMoa.[Musumen.
-    niconico社群](http://com.nicovideo.jp/community/co2085896)
+  - MeseMoa.[Musumen. niconico社群](http://com.nicovideo.jp/community/co2085896)
 
   - Musumen.[Facebook](https://www.facebook.com/morningmusumen)
 
@@ -764,16 +732,12 @@ CD+DVD</p></td>
 
   - MeseMoa. Babies [官方網站](http://mesemoa-babies.com/)
 
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink")
+[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink")
 
 1.
 2.
 3.
-4.  [むすめん。中野サンプラザへの道
-    第一回](https://www.youtube.com/watch?v=kSJzx9YZjg0&list=PLUJaJAmHvHqxFPXnM4u588UQ9iRQE0YD6&index=47)，Youtube、2015年10月23日
+4.  [むすめん。中野サンプラザへの道 第一回](https://www.youtube.com/watch?v=kSJzx9YZjg0&list=PLUJaJAmHvHqxFPXnM4u588UQ9iRQE0YD6&index=47)，Youtube、2015年10月23日
 5.
 6.
 7.
@@ -786,5 +750,4 @@ CD+DVD</p></td>
 14.
 15.
 16. 「clik clap\!\!vol.6」カレイドスコープ社、2015年、95頁。
-17. [BABYMETALでむすめん。が踊る！Google
-    ChromecastのCM動画が公開](http://mov.comu.cm/4081/)，2015年07月22日。
+17. [BABYMETALでむすめん。が踊る！Google ChromecastのCM動画が公開](http://mov.comu.cm/4081/)，2015年07月22日。

@@ -1,17 +1,10 @@
-**The Clan Pt. 2.5: The Final
-Chapter〈BEAUTIFUL〉**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[MONSTA
-X的首張韓語正規專輯](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")，也是「The
-Clan」系列的收尾作品，該專輯共收錄十首歌曲，包括主打曲〈Beautiful〉，由[STARSHIP娛樂製作](../Page/STARSHIP娛樂.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，於2017年3月21日正式發售。\[1\]
+**The Clan Pt. 2.5: The Final Chapter〈BEAUTIFUL〉**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[MONSTA X的首張韓語正規專輯](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")，也是「The Clan」系列的收尾作品，該專輯共收錄十首歌曲，包括主打曲〈Beautiful〉，由[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")製作，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，於2017年3月21日正式發售。\[1\]
 
 ## 背景
 
-2017年3月5日，所屬經紀公司宣佈MONSTA X繼2016年發行的《[THE CLAN PART.1
-LOST](https://zh.wikipedia.org/wiki/THE_CLAN_PART.1_LOST "wikilink")》、《[THE
-CLAN PART.2
-GUILTY](../Page/THE_CLAN_PART.2_GUILTY.md "wikilink")》後將推出最後一部曲《The
-Clan Pt. 2.5: The Final Chapter〈BEAUTIFUL〉》，為「The Clan」系列畫下句點。\[2\]
+2017年3月5日，所屬經紀公司宣佈MONSTA X繼2016年發行的《[THE CLAN PART.1 LOST](https://zh.wikipedia.org/wiki/THE_CLAN_PART.1_LOST "wikilink")》、《[THE CLAN PART.2 GUILTY](../Page/THE_CLAN_PART.2_GUILTY.md "wikilink")》後將推出最後一部曲《The Clan Pt. 2.5: The Final Chapter〈BEAUTIFUL〉》，為「The Clan」系列畫下句點。\[2\]
 
-2017年3月21日正式發行全專線上音源及實體專輯，同一時間，Starship及1theK通過官方[YouTube頻道公開專輯主打曲](../Page/YouTube.md "wikilink")〈Beautiful〉音樂錄影帶。
+2017年3月21日正式發行全專線上音源及實體專輯，同一時間，Starship及1theK通過官方[YouTube](../Page/YouTube.md "wikilink")頻道公開專輯主打曲〈Beautiful〉音樂錄影帶。
 
 ## 曲目
 
@@ -52,9 +45,7 @@ Clan Pt. 2.5: The Final Chapter〈BEAUTIFUL〉》，為「The Clan」系列畫�
   - [官方網站](http://www.monstax-e.com/)
   - [官方網站](https://monstax-official.com/)
 
-[Category:MONSTA_X音樂專輯](https://zh.wikipedia.org/wiki/Category:MONSTA_X音樂專輯 "wikilink")
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:MONSTA_X音樂專輯](https://zh.wikipedia.org/wiki/Category:MONSTA_X音樂專輯 "wikilink") [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

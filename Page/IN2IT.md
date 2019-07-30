@@ -1,6 +1,4 @@
-**IN2IT**（）是以生存節目《[少年24](../Page/少年24.md "wikilink")》出道的[韓國七人男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，所屬經紀公司為和CJ
-E\&M
-MUSIC。IN2IT原本由九名在為期一年半的練習生團體計劃[BOYS24中勝出的成員組成](../Page/BOYS24.md "wikilink")，後因[陳成鎬及](../Page/陳成鎬.md "wikilink")[金珍燮退出](https://zh.wikipedia.org/wiki/金珍燮 "wikilink")，組合人數減至七人。
+**IN2IT**（）是以生存節目《[少年24](../Page/少年24.md "wikilink")》出道的[韓國七人男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，所屬經紀公司為和CJ E\&M MUSIC。IN2IT原本由九名在為期一年半的練習生團體計劃[BOYS24](../Page/BOYS24.md "wikilink")中勝出的成員組成，後因[陳成鎬](../Page/陳成鎬.md "wikilink")及[金珍燮退出](https://zh.wikipedia.org/wiki/金珍燮 "wikilink")，組合人數減至七人。
 
 IN2IT意思為「intuit」和「into it」，即是直覺、本能地知道並陷入其中。\[1\]
 
@@ -29,14 +27,11 @@ IN2IT意思為「intuit」和「into it」，即是直覺、本能地知道並�
 
   - 2017年9月8日，公司宣佈出道組名字為IN2IT，並在當日隨後在官方ins發佈三條SPOILER。
 
-  - 2017年9月9日，公司公佈IN2IT的logo，並在當日隨後公佈確定目標在2017年秋天出道\[5\]，並會在9月16曰前往[哈薩克斯坦參加](https://zh.wikipedia.org/wiki/哈薩克斯坦 "wikilink")\<2017
-    K-POP Festival\>。
+  - 2017年9月9日，公司公佈IN2IT的logo，並在當日隨後公佈確定目標在2017年秋天出道\[5\]，並會在9月16曰前往[哈薩克斯坦參加](https://zh.wikipedia.org/wiki/哈薩克斯坦 "wikilink")\<2017 K-POP Festival\>。
 
   - 2017年10月2日官方釋出印有「101010」字樣的團體預告照\[6\]。
 
-  - 2017年10月10日官方釋出日程海報，並公佈出道專輯名字為《Carpe
-    Diem》，並在當日開始，分別釋出各成員的個人預告<ref>《Carpe
-    Diem》個人預告:
+  - 2017年10月10日官方釋出日程海報，並公佈出道專輯名字為《Carpe Diem》，並在當日開始，分別釋出各成員的個人預告<ref>《Carpe Diem》個人預告:
 
   -
   -
@@ -47,31 +42,26 @@ IN2IT意思為「intuit」和「into it」，即是直覺、本能地知道並�
 
   - 2017年10月22日官方釋出主打歌MV預告。
 
-  - 2017年10月26日官方釋出主打歌〈Amazing〉MV\[8\]，及在同日登上[M
-    Countdown並在MESA舉行出道SHOWCASE](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")\[9\]\[10\]。
+  - 2017年10月26日官方釋出主打歌〈Amazing〉MV\[8\]，及在同日登上[M Countdown並在MESA舉行出道SHOWCASE](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")\[9\]\[10\]。
 
   - 2017年12月12日經紀公司MMO娛樂表示旗下男團IN2IT將受邀出席參加於12月31日舉行的「2018台北最HIGH新年城跨年晚會」\[11\]\[12\]。
 
 ### 2018年：開SHOWCASE、珍燮退出、SNAPSHOT及INTO THE NIGHT FEVER回歸
 
-  - 2018年2月2日、2月4日及2月10日分別於新加坡、馬來西亞及印度尼西亞舉辦海外showcase「IN2IT ASIA
-    SHOWCASE TOUR 'Carpe Diem'」\[13\]。
+  - 2018年2月2日、2月4日及2月10日分別於新加坡、馬來西亞及印度尼西亞舉辦海外showcase「IN2IT ASIA SHOWCASE TOUR 'Carpe Diem'」\[13\]。
   - 2018年3月26日經紀公司表示珍燮為了醫治梅尼爾氏症而退出IN2IT\[14\]\[15\]\[16\]。
   - 2018年4月4日官方釋出日程海報，並公佈首張單曲專輯名字為《SnapShot》，為出道後首次回歸，隨後亦釋出各成員個人照、團體照、《SnapShot》的封面相片（Backstage\&Runway）及MV等預告\[17\]。
   - 2018年4月15日出席於日本千葉市幕張展覽館舉行的KCON 2018 JAPAN\[18\]\[19\]。
   - 2018年4月18日正式公佈IN2IT隊長為[李引杓](https://zh.wikipedia.org/wiki/李引杓 "wikilink")。
   - 2018年4月19日正式回歸，釋出《SnapShot》MV\[20\]。
   - 2018年7月7日官方公佈應援色為Marsala（Pantone 18-1438）與2U（Pantone P1-2U）
-  - 2018年7月16日官方釋出日程海報，並公佈單曲專輯名字為《INTO THE NIGHT
-    FEVER》，隨後亦釋出各成員個人照、團體照及MV等預告。
+  - 2018年7月16日官方釋出日程海報，並公佈單曲專輯名字為《INTO THE NIGHT FEVER》，隨後亦釋出各成員個人照、團體照及MV等預告。
   - 2018年7月26日正式回歸，釋出《Sorry For My English》MV。
 
 ### 2019年
 
-  - MMO Entertainment於3月21日宣布成賢因參與了《[PRODUCE X
-    101](../Page/PRODUCE_X_101.md "wikilink")》，並會暫時缺席IN2IT的活動。
-  - 5月3日，成賢以STONE MUSIC練習生身份參與實境節目《[PRODUCE X
-    101](../Page/PRODUCE_X_101.md "wikilink")》。
+  - MMO Entertainment於3月21日宣布成賢因參與了《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》，並會暫時缺席IN2IT的活動。
+  - 5月3日，成賢以STONE MUSIC練習生身份參與實境節目《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》。
 
 ## 成員列表
 
@@ -325,35 +315,6 @@ IN2IT意思為「intuit」和「into it」，即是直覺、本能地知道並�
 | 2017年 | 10月18日－11月22日 | V app    | GET IN2IT | 6  | 第六集以直播的形式播出 |
 |       |               |          |           |    |             |
 
-### 綜藝節目
-
-|             |                                                            |                                                                 |                                                                |             |    |
-| ----------- | ---------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------- | ----------- | -- |
-| 年份          | 日期                                                         | 電視台／播放平台                                                        | 節目名稱                                                           | 參與成員        | 備註 |
-| 2017年       | 11月28日                                                     | Arirang TV                                                      | [After School Club](../Page/After_School_Club.md "wikilink")   | 全體          | \- |
-| 2018年       | 2月15日－2月16日                                                | MBC                                                             | [偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink") | 春節特輯        |    |
-| 5月9日        | [MBC every1](https://zh.wikipedia.org/wiki/MBC "wikilink") | [一週偶像](https://zh.wikipedia.org/wiki/一週偶像 "wikilink")           | "本週拇指偶像"環節                                                     |             |    |
-| 9月25日－9月26日 | MBC                                                        | [偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")  | 持岸、仁虎、顯旭                                                       | 中秋特輯        |    |
-| 12月11日      | tvN                                                        | [腦性時代：問題男子](https://zh.wikipedia.org/wiki/腦性時代：問題男子 "wikilink") | 顯旭                                                             | 問題的男人實習生選拔戰 |    |
-| 2019年       | 5月3日－                                                      | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")           | [PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")           | 成賢          | \- |
-|             |                                                            |                                                                 |                                                                |             |    |
-
-### 電台
-
-|            |                                                     |                  |                       |      |    |
-| ---------- | --------------------------------------------------- | ---------------- | --------------------- | ---- | -- |
-| 年份         | 日期                                                  | 電視台／播放平台         | 節目名稱                  | 參與成員 | 備註 |
-| 2017年      | 11月9日                                               | Arirang Radio    | Sound K               | 全體   | \- |
-| 11月18日     | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 樸素賢的Love Game    | 仁虎、顯旭                 | \-   |    |
-| 2018年      | 1月11日                                               | Arirang Radio    | Sound K               | 全體   | \- |
-| 1月24日      | SBS Power FM                                        | NCT的Night Night  | 仁虎、引杓                 | \-   |    |
-| 4月26日      | Arirang Radio                                       | Sound K          | 全體                    | \-   |    |
-| 8月2日       | \-                                                  |                  |                       |      |    |
-| 8月5日       | SBS Power FM                                        | 兩點出逃 Cultwo Show | \-                    |      |    |
-| 8月27日      | Arirang Radio                                       | Super K-Pop      | \-                    |      |    |
-| 9月26日 - 至今 | K-Poppin'                                           | 仁虎、引杓            | IDOL CLASS with IN2IT |      |    |
-|            |                                                     |                  |                       |      |    |
-
 ## 演唱會及其他演出
 
 ### SHOWCASE
@@ -405,62 +366,6 @@ IN2IT意思為「intuit」和「into it」，即是直覺、本能地知道並�
 | 3月16日       | DREAM STAR AUDITION 2019 IN JAPAN     | [日本](../Page/日本.md "wikilink")                                                                                 | 成賢缺席       |
 | 4月13－14日    | Korea Festival 2019                   | [印度](../Page/印度.md "wikilink")[孟買](https://zh.wikipedia.org/wiki/孟買 "wikilink")                                |            |
 |             |                                       |                                                                                                                |            |
-
-### 簽名會
-
-|                           |                 |                        |                 |
-| ------------------------- | --------------- | ---------------------- | --------------- |
-| **日期**                    | **站次**          | **舉行地點**               | **備註**          |
-| 《Carpe Diem》簽名會           |                 |                        |                 |
-| 2017年                     |                 |                        |                 |
-| 10月29日                    | 新村站             | 신촌 유플렉스 12F 제이드홀       | \-              |
-| 11月4日                     | 木洞站             | 목동 방송회관 회견장            | \-              |
-| 11月5日                     | COEX站           | COEX Live Plaza        | \-              |
-| 11月11日                    | 建大站             | Dongseoul Art Hall     | \-              |
-| 11月12日                    | 龍山站             | 중구 청소년수련관              | \-              |
-| 11月18日                    | 釜山站             | 부산 호메르스호텔 19층 세미나홀     | \-              |
-| 大邱站                       | 대구 아회아트홀        | \-                     |                 |
-| 11月19日                    | 東大門站            | 상암 에스플렉스센터 2층 다목적 공개홀  | \-              |
-| 11月25日                    | 仁川站             | 신세계백화점 인천점 4층 서비스 아카데미 | \-              |
-| 11月26日                    | 合井站             | 목동 방송회관 코바코홀           | \-              |
-| 2018年                     |                 |                        |                 |
-| 1月6日                      | 弘大站             | 동자아트홑                  | \-              |
-| 1月7日                      | 高陽站             | 목동 청소년수련관              | \-              |
-| 1月13日                     | 九老站             | 대치2문화센터 3층 대강당         | \-              |
-| 1月14日                     | 蠶室站             | 중구 청소년수련관              | \-              |
-| 《SnapShot》簽名會             |                 |                        |                 |
-| 4月21日                     | 上巖站             | KBS미디어센터 내 심석홀         | 預訂銷售發售紀念        |
-| 4月22日                     | 新村站             | 현대 유플렉스 제이드홀           | \-              |
-| 4月28日                     | 龍山站             | 당산 TCC 아트센터            | \-              |
-| 4月29日                     | 仁川站             | 신세계백화점 인천점 5층 문화홀      | \-              |
-| 5月5日                      | 漢南站             | 카오스홀                   | \-              |
-| 富川站                       | 목목동 방송회관 코바코홀   | \-                     |                 |
-| 5月6日                      | 九老站             | 동자아트홀                  | ISSAC因病缺席\[22\] |
-| 5月13日                     | 高陽站             | 스타필드 고양 중앙보이드홀         | \-              |
-| 5月19日                     | 蠶室站             | 삼성동 베어홀                | \-              |
-| 5月20日                     | 汝矣島站            | 동서울 아트홀                | \-              |
-| 5月26日                     | 狎鷗亭站            | 호원아트홀                  | \-              |
-| 5月27日                     | 合井站             | 제일라아트홀                 | \-              |
-| 6月2日                      | 蘆原站             | 목동 청소년수련관              | \-              |
-| 6月3日                      | COEX站           | 수서 청소년수련관              | \-              |
-| 6月9日                      | 釜山站             | 부산 자유회관 대강당            | \-              |
-| 大邱站                       | 롯데백화점 대구점 층 문화홑 | \-                     |                 |
-| 6月10日                     | 永登浦站            | 웨스트브릿지 라이브홀            | \-              |
-| 《Into The Night Fever》簽名會 |                 |                        |                 |
-| 7月29日                     | 龍山站             | 동자아트홀                  | 預訂銷售發售紀念        |
-| 8月4日                      | 弘大站             | 상암 에스플렉스센터 3D 영화관      | \-              |
-| 8月5日                      | 上巖站             | KBS미디어센터 내 심석홀         | \-              |
-| 8月18日                     | 金浦站             | 방화동 국제청소년회의장           | \-              |
-| 8月19日                     | 木洞站             | 목동 방송회관 회견장            | \-              |
-| 8月25日                     | 大學路站            | 제일라 아트홀                | \-              |
-| 8月26日                     | 仁川站             | 신세계백화점 인천점 5층 문화홀      | \-              |
-| 9月1日                      | 合井站             | 슈피겐홀                   | \-              |
-| 漢南站                       | 아르떼홀            | \-                     |                 |
-| 9月8日                      | 狎鷗亭站            | 일지아트홀                  | \-              |
-| 9月21日                     | 弘大站             | 당산 TCC아트센터 아트홀         | \-              |
-| 10月7日                     | 中區站             | 중구 청소년 수련관             | \-              |
-| 龍山站                       | 동자아트홀           | \-                     |                 |
-|                           |                 |                        |                 |
 
 ## 主要音樂節目榜單排名
 
@@ -521,8 +426,7 @@ IN2IT意思為「intuit」和「into it」，即是直覺、本能地知道並�
   - [官方Instagram](https://www.instagram.com/official_in2it/?hl=zh-tw//)
   - [官方Facebook](https://www.facebook.com/official.IN2IT/)
   - [官方Twitter](https://twitter.com/Official_IN2IT)
-  - [官方Youtube
-    Channel](https://www.youtube.com/channel/UC4_FlqZHf6zWPyaQpmPXChQ)
+  - [官方Youtube Channel](https://www.youtube.com/channel/UC4_FlqZHf6zWPyaQpmPXChQ)
 
 <!-- end list -->
 
@@ -533,10 +437,7 @@ IN2IT意思為「intuit」和「into it」，即是直覺、本能地知道並�
   - [官方Twitter](https://twitter.com/boys24_for_hour)
   - [官方粉絲Cafe](http://cafe.daum.net/BOYS24)
 
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink")
+[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink")
 
 1.
 2.
@@ -559,4 +460,3 @@ IN2IT意思為「intuit」和「into it」，即是直覺、本能地知道並�
 19.
 20.
 21.
-22.

@@ -1,5 +1,4 @@
-《**Born To Beat
-Time**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB的第二次單獨演唱會](../Page/BTOB.md "wikilink")，分別於2015、2016年在韓國[首爾及](../Page/首爾.md "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北舉辦共五場演唱會](https://zh.wikipedia.org/wiki/台北 "wikilink")。
+《**Born To Beat Time**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的第二次單獨演唱會，分別於2015、2016年在韓國[首爾](../Page/首爾.md "wikilink")及[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北舉辦共五場演唱會](https://zh.wikipedia.org/wiki/台北 "wikilink")。
 
 ## 簡介
 
@@ -27,14 +26,11 @@ Time**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音�
 
 ## 背景
 
-2015年11月23日，[Cube娛樂通過BTOB官方Daum宣布](../Page/Cube娛樂.md "wikilink")，BTOB於同年12月19、20日連續兩日於[首爾](../Page/首爾.md "wikilink")[獎忠體育館舉行第二次單獨演唱會](https://zh.wikipedia.org/wiki/獎忠體育館 "wikilink")《Born
-To Beat Time》 \[1\]。
+2015年11月23日，[Cube娛樂](../Page/Cube娛樂.md "wikilink")通過BTOB官方Daum宣布，BTOB於同年12月19、20日連續兩日於[首爾](../Page/首爾.md "wikilink")[獎忠體育館舉行第二次單獨演唱會](https://zh.wikipedia.org/wiki/獎忠體育館 "wikilink")《Born To Beat Time》 \[1\]。
 
-2016年3月2日，宣布BTOB於同年3月26、27日連續兩日於首爾[蠶室室內體育館舉行安可場單獨演唱會](../Page/首爾綜合運動場.md "wikilink")《Born
-To Beat Time \~ Encore \~》\[2\]\[3\]。
+2016年3月2日，宣布BTOB於同年3月26、27日連續兩日於首爾[蠶室室內體育館舉行安可場單獨演唱會](../Page/首爾綜合運動場.md "wikilink")《Born To Beat Time \~ Encore \~》\[2\]\[3\]。
 
-2016年6月16日，宣布以該主題於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北國際會議中心](../Page/台北國際會議中心.md "wikilink")（TICC）
-舉行首場台灣演唱會《Born To Beat Time in Taiwan》。\[4\]
+2016年6月16日，宣布以該主題於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北國際會議中心](../Page/台北國際會議中心.md "wikilink")（TICC） 舉行首場台灣演唱會《Born To Beat Time in Taiwan》。\[4\]
 
 ## 場次
 
@@ -120,19 +116,14 @@ To Beat Time \~ Encore \~》\[2\]\[3\]。
 6.  O-KI-YEO-CHA DI-YEO-CHA
 7.  Last Day
 8.  秘密（Insane）
-9.  Free / *[炫植](../Page/任炫植.md "wikilink") Solo Stage* (原唱：Gavin
-    DeGraw)
-10. 所謂朋友 / *[恩光](../Page/徐恩光.md "wikilink") &
-    [昌燮](../Page/李昌燮.md "wikilink") Unit Stage*
+9.  Free / *[炫植](../Page/任炫植.md "wikilink") Solo Stage* (原唱：Gavin DeGraw)
+10. 所謂朋友 / *[恩光](../Page/徐恩光.md "wikilink") & [昌燮](../Page/李昌燮.md "wikilink") Unit Stage*
     (原唱：朴孝信 & 金範修)
-    Right Now / *金斧頭與銀斧頭（昌燮 & 恩光）Unit Stage Feat.
-    山神（炫植、[Peniel](../Page/辛東根.md "wikilink")）*
+    Right Now / *金斧頭與銀斧頭（昌燮 & 恩光）Unit Stage Feat. 山神（炫植、[Peniel](../Page/辛東根.md "wikilink")）*
     (原唱：PSY)
 11. Yesterday / *星材 Solo Stage* (原唱：金俊秀)
 12. 會在這裡 / *Vocal Line*
-13. A-yo /
-    *[旼赫](../Page/李旼赫.md "wikilink")、[鎰勳](../Page/鄭鎰勳.md "wikilink")
-    Unit Stage*
+13. A-yo / *[旼赫](../Page/李旼赫.md "wikilink")、[鎰勳](../Page/鄭鎰勳.md "wikilink") Unit Stage*
 14. *Peniel Solo Stage Feat. 恩光*
 15. Neverland / *Rap Line Feat. G.NA*
 16. 回家的路
@@ -163,8 +154,7 @@ To Beat Time \~ Encore \~》\[2\]\[3\]。
     (原唱：金東律)
 14. 少女 / *恩光 & 昌燮 Unit Stage*
     (原唱：李文世)
-    Right Now / *金斧頭與銀斧頭（昌燮 & 恩光）Unit Stage Feat.
-    山神（炫植、[Peniel](../Page/辛東根.md "wikilink")）*
+    Right Now / *金斧頭與銀斧頭（昌燮 & 恩光）Unit Stage Feat. 山神（炫植、[Peniel](../Page/辛東根.md "wikilink")）*
     (原唱：PSY)
 15. Free / *炫植 Solo Stage* (原唱：Gavin DeGraw)
 16. 會在這裡 / *Vocal Line*
@@ -259,17 +249,9 @@ To Beat Time \~ Encore \~》\[2\]\[3\]。
 
   -
   -
-[Category:BTOB演唱會](https://zh.wikipedia.org/wiki/Category:BTOB演唱會 "wikilink")
-[Category:2015年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2015年巡迴演唱會 "wikilink")
-[Category:2016年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2016年巡迴演唱會 "wikilink")
+[Category:BTOB演唱會](https://zh.wikipedia.org/wiki/Category:BTOB演唱會 "wikilink") [Category:2015年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2015年巡迴演唱會 "wikilink") [Category:2016年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2016年巡迴演唱會 "wikilink")
 
-1.  [BTOB 12/19-20首爾舉辦演唱會](https://www.kpopn.com/2015/11/25/btob-1219-20%e9%a6%96%e7%88%be%e8%88%89%e8%be%a6%e6%bc%94%e5%94%b1%e6%9c%83/)
-    2017-11-30 KPOPN
-2.  [BTOB
-    將舉辦安可場演唱會](https://www.kpopn.com/2016/03/10/btob-%e5%b0%87%e8%88%89%e8%be%a6%e5%ae%89%e5%8f%af%e5%a0%b4%e6%bc%94%e5%94%b1%e6%9c%83/)
-    2017-11-30 KPOPN
-3.  [BTOB
-    首爾安可演唱會圓滿落幕](https://www.kpopn.com/2016/03/28/btob-%e9%a6%96%e7%88%be%e5%ae%89%e5%8f%af%e6%bc%94%e5%94%b1%e6%9c%83%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95/)
-    2017-11-30 KPOPN
-4.  [BTOB首次台灣開唱　三千粉絲熱情應援](http://www.koreastardaily.com/tc/news/82417)
-    2017-02-07 韓星網
+1.  [BTOB 12/19-20首爾舉辦演唱會](https://www.kpopn.com/2015/11/25/btob-1219-20%e9%a6%96%e7%88%be%e8%88%89%e8%be%a6%e6%bc%94%e5%94%b1%e6%9c%83/) 2017-11-30 KPOPN
+2.  [BTOB 將舉辦安可場演唱會](https://www.kpopn.com/2016/03/10/btob-%e5%b0%87%e8%88%89%e8%be%a6%e5%ae%89%e5%8f%af%e5%a0%b4%e6%bc%94%e5%94%b1%e6%9c%83/) 2017-11-30 KPOPN
+3.  [BTOB 首爾安可演唱會圓滿落幕](https://www.kpopn.com/2016/03/28/btob-%e9%a6%96%e7%88%be%e5%ae%89%e5%8f%af%e6%bc%94%e5%94%b1%e6%9c%83%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95/) 2017-11-30 KPOPN
+4.  [BTOB首次台灣開唱　三千粉絲熱情應援](http://www.koreastardaily.com/tc/news/82417) 2017-02-07 韓星網

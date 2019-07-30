@@ -1,5 +1,4 @@
-《**Panda
-Kill**》\[1\]\[2\]\[3\]，熊猫杀，是[熊猫TV自制的大型电竞](https://zh.wikipedia.org/wiki/熊猫TV "wikilink")、综艺类真人秀节目，是由第一季SuperLiar狼人杀真人秀全新改版而来，脱胎于狼人杀和杀人游戏。
+《**Panda Kill**》\[1\]\[2\]\[3\]，熊猫杀，是[熊猫TV自制的大型电竞](https://zh.wikipedia.org/wiki/熊猫TV "wikilink")、综艺类真人秀节目，是由第一季SuperLiar狼人杀真人秀全新改版而来，脱胎于狼人杀和杀人游戏。
 
 ## 参与嘉宾及各期板子
 

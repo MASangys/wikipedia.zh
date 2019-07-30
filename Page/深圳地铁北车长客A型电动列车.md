@@ -3,7 +3,7 @@
 ## 历史
 
   - 2006年末，长客与深圳地铁有限公司签订了深圳地铁一期工程增购车辆合同，由长客为深圳自主研制4列计24辆A型地铁客车。列车于2008年下线，于2010年投入运营。\[1\]
-  - 2011年2月23日，[2号线第](../Page/深圳地铁2号线.md "wikilink")26列及第27列车經由[平南鐵路蛇口站运抵蛇口西车辆段](../Page/平南鐵路.md "wikilink")。\[2\]
+  - 2011年2月23日，[2号线第](../Page/深圳地铁2号线.md "wikilink")26列及第27列车經由[平南鐵路](../Page/平南鐵路.md "wikilink")蛇口站运抵蛇口西车辆段。\[2\]
   - 2012年12月28日，深圳地铁集团举行了车辆增购合同签约仪式。[2号线和](../Page/深圳地铁2号线.md "wikilink")[5号线共增购](../Page/深圳地铁5号线.md "wikilink")38列车（实际到货37列），为[中国北车长春轨道客车股份有限公司制造](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")。\[3\]\[4\]
   - 2014年，深圳地铁集团向[中国北车长春轨道客车股份有限公司采购](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")70列列车（合计420辆），以供未来[7号线和](../Page/深圳地铁7号线.md "wikilink")[9号线使用](../Page/深圳地铁9号线.md "wikilink")，其中[7号线使用](../Page/深圳地铁7号线.md "wikilink")41列，[9号线使用](../Page/深圳地铁9号线.md "wikilink")29列。\[5\]
   - 2014年11月18日，[5号线首两列增购车抵段](../Page/深圳地铁5号线.md "wikilink")。\[6\]
@@ -24,8 +24,7 @@
 
 ### 2号线（201－235）
 
-相比1号线列车，2号线列车作出了许多改进。2号线列车采用国际最先进的[牵引](https://zh.wikipedia.org/wiki/牵引 "wikilink")、[制动系统及网络控制技术](https://zh.wikipedia.org/wiki/制动系统 "wikilink")，并以低碳为理念，在照明系统、墙板喷涂工艺等方面采用引领行业发展趋势的新技术。\[10\]
-主要特征：
+相比1号线列车，2号线列车作出了许多改进。2号线列车采用国际最先进的[牵引](https://zh.wikipedia.org/wiki/牵引 "wikilink")、[制动系统及网络控制技术](https://zh.wikipedia.org/wiki/制动系统 "wikilink")，并以低碳为理念，在照明系统、墙板喷涂工艺等方面采用引领行业发展趋势的新技术。\[10\] 主要特征：
 
   - 整体车身与1号线列车没有太多差别。
   - 列车采用[液晶显示器](../Page/液晶显示器.md "wikilink")，使乘客更加方便了解信息。
@@ -37,7 +36,7 @@
 
   - 车身整体没有变化，但是车灯采用全新的LED灯设计，照明效果更好。
   - 列車車頭燈組件改用類似MOVIA456列車頭燈的造型
-  - 同2号线列车一样，新车也采用[液晶显示器](../Page/液晶显示器.md "wikilink")，但比2号线列车的[液晶显示器要宽很多](../Page/液晶显示器.md "wikilink")，线路图也更加美观、大方。[1号线南车株机电动列车增购车中也采用跟本批列车类似的](https://zh.wikipedia.org/wiki/深圳地铁南车株机电动列车 "wikilink")[液晶显示器](../Page/液晶显示器.md "wikilink"),但本批列车[液晶显示器会在车门关闭后显示](../Page/液晶显示器.md "wikilink")“车辆即将离站，请您站稳扶好！”的提示。\[11\]
+  - 同2号线列车一样，新车也采用[液晶显示器](../Page/液晶显示器.md "wikilink")，但比2号线列车的[液晶显示器](../Page/液晶显示器.md "wikilink")要宽很多，线路图也更加美观、大方。[1号线南车株机电动列车增购车中也采用跟本批列车类似的](https://zh.wikipedia.org/wiki/深圳地铁南车株机电动列车 "wikilink")[液晶显示器](../Page/液晶显示器.md "wikilink"),但本批列车[液晶显示器](../Page/液晶显示器.md "wikilink")会在车门关闭后显示“车辆即将离站，请您站稳扶好！”的提示。\[11\]
   - 车卡与车卡相连处设有两盏灯。
   - 车门采用同[南车株机电动列车一样的圓角窗设计](https://zh.wikipedia.org/wiki/深圳地铁南车株机电动列车 "wikilink"),車門和其他批次一樣由南京康尼製造。
   - 0240号列車採用北車四方所牽引系統，其餘列車仍舊採用龐巴迪之牽引系統
@@ -169,12 +168,7 @@
 
 ## 图集
 
-Shenzhen Metro CNR Changchun rolling stock Wheelchair area.jpg
-|2号线车厢内的轮椅区 Shenzhen Metro CNR Changchun rolling stock
-View of doors.jpg|2号线车门上方安装了液晶显示屏 Shenzhen Metro CNR Changchun rolling
-stock LCD display.jpg|原制造用於2号线的列车，行走在5号线上，屏幕显示为5号线的运行图 Shenzhen Metro
-Line 2 New Rolling Stock Bar LCD Display.jpg|2号线新列车采用长条形线路图显示屏 Shenzhen
-Metro Line 5 2015 A Stock.jpg|5号线增购列车
+Shenzhen Metro CNR Changchun rolling stock Wheelchair area.jpg |2号线车厢内的轮椅区 Shenzhen Metro CNR Changchun rolling stock View of doors.jpg|2号线车门上方安装了液晶显示屏 Shenzhen Metro CNR Changchun rolling stock LCD display.jpg|原制造用於2号线的列车，行走在5号线上，屏幕显示为5号线的运行图 Shenzhen Metro Line 2 New Rolling Stock Bar LCD Display.jpg|2号线新列车采用长条形线路图显示屏 Shenzhen Metro Line 5 2015 A Stock.jpg|5号线增购列车
 
 ## 参考注释
 
@@ -182,20 +176,12 @@ Metro Line 5 2015 A Stock.jpg|5号线增购列车
 
 1.  [我国首列国产化A型地铁客车成功下线](http://www.jx.cn/xwzx/viewnew.asp?id=38586)2008-10-14
 2.  [2号线新列车运抵蛇口西车辆段](http://m.bendibao.com/show284600.html)2011-02-23
-3.  [深圳地铁增购新列车，2016年全部交付](http://www.s1979.com/shenzhen/201212/3069226830.shtml)
-    CUTV深圳台 2012-12-30
+3.  [深圳地铁增购新列车，2016年全部交付](http://www.s1979.com/shenzhen/201212/3069226830.shtml) CUTV深圳台 2012-12-30
 4.  注：也有网传闻因主厂忙不过来，2号线增购车改由北车黄陂轨道客车公司制造。
-5.  [中国北车揽30亿元深圳地铁大单
-    将装备7号线和9号线](http://www.sznews.com/news/content/2014-05/13/content_9490804.htm)
-    深圳新闻网 2014-05-13
-6.  [深圳地铁5号线增购项目首两列车抵达深圳现场](http://www.cccar.com.cn/news-64270.html)长春轨道客车股份有限公司
-    2014-11-18
-7.  [深圳地铁5号线新购列车
-    地铁换轨工作开始](http://jt.sz.bendibao.com/news/2015710/711249.htm)深圳本地宝
-    2015-07-10
+5.  [中国北车揽30亿元深圳地铁大单 将装备7号线和9号线](http://www.sznews.com/news/content/2014-05/13/content_9490804.htm) 深圳新闻网 2014-05-13
+6.  [深圳地铁5号线增购项目首两列车抵达深圳现场](http://www.cccar.com.cn/news-64270.html)长春轨道客车股份有限公司 2014-11-18
+7.  [深圳地铁5号线新购列车 地铁换轨工作开始](http://jt.sz.bendibao.com/news/2015710/711249.htm)深圳本地宝 2015-07-10
 8.  注：此列车非首列上线列车，之前已经上线的增购列车有（编号）：532，534,535。
 9.  [深圳地铁长客126](http://v.youku.com/v_show/id_XMjk1NDIwNzQ4.html?from=y1.2-1-176.3.2-2.1-1-1-1-0)优酷个人频道
-10. [深圳地铁2号线首列车在中国北车长客下线](http://www.doc88.com/p-9098150667848.html)道客巴巴
-    文档
-11. [视频:
-    深圳地铁5号线（环中线）532车布吉-百鸽笼](http://v.youku.com/v_show/id_XMTI2ODk5MjIxMg==.html?from=y1.7-1.2)优酷
+10. [深圳地铁2号线首列车在中国北车长客下线](http://www.doc88.com/p-9098150667848.html)道客巴巴 文档
+11. [视频: 深圳地铁5号线（环中线）532车布吉-百鸽笼](http://v.youku.com/v_show/id_XMTI2ODk5MjIxMg==.html?from=y1.7-1.2)优酷

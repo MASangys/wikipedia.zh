@@ -1,11 +1,9 @@
-《**Unnatural**》（，）是日本[TBS電視台](../Page/TBS電視台.md "wikilink")2018年1月12日至3月16日於[週五連續劇時段播出的電視劇](../Page/TBS週五連續劇.md "wikilink")，由[石原聰美主演](../Page/石原聰美.md "wikilink")\[1\]，編劇為[野木亞紀子](../Page/野木亞紀子.md "wikilink")\[2\]。
-台灣在[KKTV於每週日](../Page/KKTV.md "wikilink")24:00提供台灣正體字幕且與日本同步進行當週網路連載\[3\]，而[bilibili則於每週三提供僅限台灣IP觀看的簡體字幕版本](https://zh.wikipedia.org/wiki/bilibili "wikilink")\[4\]；香港於[myTV
-SUPER緊貼日本更新](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")\[5\]；中国大陆自4月25日16:00起在bilibili开始播出\[6\]。電視方面，台灣由[緯來日本台自](../Page/緯來日本台.md "wikilink")2018年5月15日起于晚間23:15播映。
+《**Unnatural**》（，）是日本[TBS電視台](../Page/TBS電視台.md "wikilink")2018年1月12日至3月16日於[週五連續劇時段播出的電視劇](../Page/TBS週五連續劇.md "wikilink")，由[石原聰美](../Page/石原聰美.md "wikilink")主演\[1\]，編劇為[野木亞紀子](../Page/野木亞紀子.md "wikilink")\[2\]。
+台灣在[KKTV](../Page/KKTV.md "wikilink")於每週日24:00提供台灣正體字幕且與日本同步進行當週網路連載\[3\]，而[bilibili則於每週三提供僅限台灣IP觀看的簡體字幕版本](https://zh.wikipedia.org/wiki/bilibili "wikilink")\[4\]；香港於[myTV SUPER緊貼日本更新](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")\[5\]；中国大陆自4月25日16:00起在bilibili开始播出\[6\]。電視方面，台灣由[緯來日本台](../Page/緯來日本台.md "wikilink")自2018年5月15日起于晚間23:15播映。
 
 ## 故事簡介
 
-本劇講述在日本[厚生劳动省新設立的](https://zh.wikipedia.org/wiki/厚生劳动省 "wikilink")「不自然死因研究所」，（簡稱**UDI
--{}-Lab**）』裡，由[法醫解剖人們在不自然死亡的屍體上找出其真正死因的單元劇故事](https://zh.wikipedia.org/wiki/法醫 "wikilink")。
+本劇講述在日本[厚生劳动省新設立的](https://zh.wikipedia.org/wiki/厚生劳动省 "wikilink")「不自然死因研究所」，（簡稱**UDI -{}-Lab**）』裡，由[法醫解剖人們在不自然死亡的屍體上找出其真正死因的單元劇故事](https://zh.wikipedia.org/wiki/法醫 "wikilink")。
 
 ## 登場角色
 
@@ -228,7 +226,7 @@ UDI的財源主要來自政府補助金，隨時可能關門大吉，但他並�
 <td><p>高野島渡</p></td>
 <td></td>
 <td></td>
-<td><p>在<a href="../Page/沙特阿拉伯.md" title="wikilink">沙特阿拉伯出差回來後</a>，於家中突然死亡。</p></td>
+<td><p>在<a href="../Page/沙特阿拉伯.md" title="wikilink">沙特阿拉伯</a>出差回來後，於家中突然死亡。</p></td>
 </tr>
 <tr class="odd">
 <td><p>田邊</p></td>
@@ -1094,7 +1092,7 @@ UDI的財源主要來自政府補助金，隨時可能關門大吉，但他並�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2018<a href="../Page/CONFiDENCE日劇大獎.md" title="wikilink">CONFiDENCE日劇大獎年度大獎</a>[25]</p></td>
+<td><p>2018<a href="../Page/CONFiDENCE日劇大獎.md" title="wikilink">CONFiDENCE日劇大獎</a>年度大獎[25]</p></td>
 <td><p>女主角賞</p></td>
 <td><p>石原聰美</p></td>
 <td></td>
@@ -1123,14 +1121,7 @@ UDI的財源主要來自政府補助金，隨時可能關門大吉，但他並�
 
 ## 節目變遷
 
-[Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink")
-[Category:TBS週五連續劇](https://zh.wikipedia.org/wiki/Category:TBS週五連續劇 "wikilink")
-[Category:法醫學題材電視劇](https://zh.wikipedia.org/wiki/Category:法醫學題材電視劇 "wikilink")
-[Category:野木亞紀子劇本作品](https://zh.wikipedia.org/wiki/Category:野木亞紀子劇本作品 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:CONFiDENCE日劇大獎最佳作品](https://zh.wikipedia.org/wiki/Category:CONFiDENCE日劇大獎最佳作品 "wikilink")
-[Category:日劇學院賞最佳作品](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳作品 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
+[Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink") [Category:TBS週五連續劇](https://zh.wikipedia.org/wiki/Category:TBS週五連續劇 "wikilink") [Category:法醫學題材電視劇](https://zh.wikipedia.org/wiki/Category:法醫學題材電視劇 "wikilink") [Category:野木亞紀子劇本作品](https://zh.wikipedia.org/wiki/Category:野木亞紀子劇本作品 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:CONFiDENCE日劇大獎最佳作品](https://zh.wikipedia.org/wiki/Category:CONFiDENCE日劇大獎最佳作品 "wikilink") [Category:日劇學院賞最佳作品](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳作品 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
 
 1.
 

@@ -2,11 +2,9 @@
 
 ## 運作情形
 
-查詢域名的DNS解析信息時，DNS沉洞會提供錯誤的結果，以便讓攻擊者將系統重定向到潛在的惡意攻擊目標。
-此外，DNS沉洞歷來也常被用於非惡意目的。
+查詢域名的DNS解析信息時，DNS沉洞會提供錯誤的結果，以便讓攻擊者將系統重定向到潛在的惡意攻擊目標。 此外，DNS沉洞歷來也常被用於非惡意目的。
 
-當計算機訪問DNS源以解析域名時，提供者將盡可能給出結果，如果沒結果，計算機會再次嘗試將解析請求發送給更高級別的提供者。 此鏈中的DNS
-Sinkhole越高，它接收的請求將更多，產生的影響也越大。
+當計算機訪問DNS源以解析域名時，提供者將盡可能給出結果，如果沒結果，計算機會再次嘗試將解析請求發送給更高級別的提供者。 此鏈中的DNS Sinkhole越高，它接收的請求將更多，產生的影響也越大。
 
 一台沉洞服务器并不意味着一定是一台大型DNS服务器，其只需要存储于域名解析链中即可。
 
@@ -16,11 +14,11 @@ Sinkhole越高，它接收的請求將更多，產生的影響也越大。
 
 ### 主机级禁止
 
-存储于[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Unix和](../Page/UNIX.md "wikilink")[Linux等平台上的](../Page/Linux.md "wikilink")[hosts文件可优先于DNS服务器进行解析](https://zh.wikipedia.org/wiki/hosts文件 "wikilink")，此技术同样可用于限制访问网站。
+存储于[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Unix和](../Page/UNIX.md "wikilink")[Linux](../Page/Linux.md "wikilink")等平台上的[hosts文件可优先于DNS服务器进行解析](https://zh.wikipedia.org/wiki/hosts文件 "wikilink")，此技术同样可用于限制访问网站。
 
 ## 应用
 
-沉洞技术既可以是建设性的，比如牵制[WannaCry病毒的蔓延](../Page/WannaCry.md "wikilink")\[4\]；也可以像[DoS攻击中对DNS服务器进行攻击一样具有摧枯拉朽的威力](https://zh.wikipedia.org/wiki/DoS "wikilink")。
+沉洞技术既可以是建设性的，比如牵制[WannaCry](../Page/WannaCry.md "wikilink")病毒的蔓延\[4\]；也可以像[DoS攻击中对DNS服务器进行攻击一样具有摧枯拉朽的威力](https://zh.wikipedia.org/wiki/DoS "wikilink")。
 
 它的其中一种应用方式是用于防止[僵尸网络](https://zh.wikipedia.org/wiki/僵尸网络 "wikilink")，具体为限制僵尸网络用于协调的DNS域名。基于hosts的方法则常用于屏蔽广告服务器\[5\]与[突破网络封锁](https://zh.wikipedia.org/wiki/突破网络封锁 "wikilink")。
 

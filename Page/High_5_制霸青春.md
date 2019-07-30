@@ -1,7 +1,4 @@
-《**High
-5** **制霸青春**》（），2016年[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[偶像劇](../Page/偶像劇.md "wikilink")，由[SpeXial-宏正](https://zh.wikipedia.org/wiki/羅弘証 "wikilink")、[連晨翔](https://zh.wikipedia.org/wiki/連晨翔 "wikilink")、[Janet](../Page/謝怡芬.md "wikilink")、[邱宇辰](../Page/邱宇辰.md "wikilink")、[程予希](../Page/程予希.md "wikilink")、[A'N'D宇宙](https://zh.wikipedia.org/wiki/林思宇 "wikilink")、[路斯明](../Page/路斯明.md "wikilink")、[高英軒領銜主演](../Page/高英軒.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]
-本劇以高中校園籃球為題材，2016年5月9日開鏡，2016年11月30日殺青，2016年10月15日於[八大綜合台](../Page/八大綜合台.md "wikilink")、[愛奇藝台灣站播出](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")。本劇獲得[中華民國文化部](https://zh.wikipedia.org/wiki/中華民國文化部 "wikilink")105年度高畫質電視連續劇類補助[新臺幣](../Page/新臺幣.md "wikilink")
-1,600萬元5.1聲道補助66萬元。於[第52屆金鐘獎中入圍戲劇節目男主角](https://zh.wikipedia.org/wiki/第52屆金鐘獎 "wikilink")（[宏正](https://zh.wikipedia.org/wiki/羅弘証 "wikilink")）、戲劇節目導演、攝影以及剪接四個獎項。
+《**High 5** **制霸青春**》（），2016年[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[偶像劇](../Page/偶像劇.md "wikilink")，由[SpeXial-宏正](https://zh.wikipedia.org/wiki/羅弘証 "wikilink")、[連晨翔](https://zh.wikipedia.org/wiki/連晨翔 "wikilink")、[Janet](../Page/謝怡芬.md "wikilink")、[邱宇辰](../Page/邱宇辰.md "wikilink")、[程予希](../Page/程予希.md "wikilink")、[A'N'D宇宙](https://zh.wikipedia.org/wiki/林思宇 "wikilink")、[路斯明](../Page/路斯明.md "wikilink")、[高英軒](../Page/高英軒.md "wikilink")領銜主演。\[1\]\[2\]\[3\]\[4\]\[5\] 本劇以高中校園籃球為題材，2016年5月9日開鏡，2016年11月30日殺青，2016年10月15日於[八大綜合台](../Page/八大綜合台.md "wikilink")、[愛奇藝台灣站播出](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")。本劇獲得[中華民國文化部](https://zh.wikipedia.org/wiki/中華民國文化部 "wikilink")105年度高畫質電視連續劇類補助[新臺幣](../Page/新臺幣.md "wikilink") 1,600萬元5.1聲道補助66萬元。於[第52屆金鐘獎中入圍戲劇節目男主角](https://zh.wikipedia.org/wiki/第52屆金鐘獎 "wikilink")（[宏正](https://zh.wikipedia.org/wiki/羅弘証 "wikilink")）、戲劇節目導演、攝影以及剪接四個獎項。
 
 ## 劇情大綱
 
@@ -695,7 +692,7 @@
 | ------ | -------- | ---------------------------------------------------------------------------------- | ------ | ------ |
 | **曲別** | **歌名**   | **演唱者**                                                                            | **作詞** | **作曲** |
 | 片頭曲    | 青春無敵     | [蘇見信](https://zh.wikipedia.org/wiki/蘇見信 "wikilink")                                | 蘇見信    |        |
-| 片尾曲    | 凝視       | [閻奕格](https://zh.wikipedia.org/wiki/閻奕格 "wikilink")                                | 陳信延    | 楊子樸    |
+| 片尾曲    | 凝視       | [閻奕格](../Page/閻奕格.md "wikilink")                                                   | 陳信延    | 楊子樸    |
 | 插曲     | 帥過頭      | [毛弟](https://zh.wikipedia.org/wiki/邱翊橙 "wikilink")、[王子](../Page/邱勝翊.md "wikilink") | 張家瑋    | 黃漢青    |
 | 插曲     | 來真的      | [動力火車](../Page/動力火車.md "wikilink")                                                 | 陳信延    | 張博彥    |
 | 插曲     | 都祝福      | [辰亦儒](../Page/辰亦儒.md "wikilink")                                                   | 張家瑋    | 陳徐超    |
@@ -710,8 +707,7 @@
 
 ### 電視原聲帶
 
-**HIGH 5
-制霸青春電視原聲帶**由[華研國際音樂製作發行](../Page/華研國際音樂.md "wikilink")，片數為1[CD](../Page/CD.md "wikilink")。原聲帶中收錄了劇中的所有歌曲再加入九首配樂的音樂。[台灣於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2016年12月9日發行。
+**HIGH 5 制霸青春電視原聲帶**由[華研國際音樂](../Page/華研國際音樂.md "wikilink")製作發行，片數為1[CD](../Page/CD.md "wikilink")。原聲帶中收錄了劇中的所有歌曲再加入九首配樂的音樂。[台灣於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2016年12月9日發行。
 
 ## 收視率
 
@@ -735,7 +731,7 @@
 | 平均收視率       |    |      |       |     |
 
   - <small>同時段節目：[華視](../Page/華視主頻.md "wikilink")《[名模出任務](https://zh.wikipedia.org/wiki/名模出任務 "wikilink")》、[民視](../Page/民視無線台.md "wikilink")《[台灣那麼旺](https://zh.wikipedia.org/wiki/台灣那麼旺 "wikilink")》、[中視](https://zh.wikipedia.org/wiki/中視數位台 "wikilink")《[萬秀豬王](https://zh.wikipedia.org/wiki/萬秀豬王 "wikilink")》、[台視](https://zh.wikipedia.org/wiki/台視 "wikilink")《[奇幻島](../Page/奇幻島.md "wikilink")》、《[綜藝三國智](https://zh.wikipedia.org/wiki/綜藝三國智 "wikilink")》
-  - 由[AC尼尔森調查](../Page/AC尼尔森.md "wikilink")，調查範圍是四歲以上收看電視之觀眾 。
+  - 由[AC尼尔森](../Page/AC尼尔森.md "wikilink")調查，調查範圍是四歲以上收看電視之觀眾 。
   - 資料來源：[台灣-偶像劇場](http://dorama.info/tw/drama/d_rate.php/)、[凱絡媒體週報](https://twncarat.wordpress.com/category/%E9%9B%BB%E8%A6%96%E8%A7%80%E5%AF%9F%E7%AA%97/)、[AC尼尔森](../Page/AC尼尔森.md "wikilink")</small>
 
 ## 獎項及提名
@@ -788,7 +784,7 @@
   - [台北市臺北市立大學天母校區體育館](https://zh.wikipedia.org/wiki/台北市 "wikilink")(博愛校區)
   - [陽明山美軍宿舍](https://zh.wikipedia.org/wiki/陽明山 "wikilink")
   - [板橋區江翠派出所](https://zh.wikipedia.org/wiki/板橋區 "wikilink")
-  - [新莊區輔仁大學中美堂](../Page/新莊區.md "wikilink")
+  - [新莊區](../Page/新莊區.md "wikilink")輔仁大學中美堂
   - [桃園桃園農工](https://zh.wikipedia.org/wiki/桃園 "wikilink")
   - [苗栗南湖國小](https://zh.wikipedia.org/wiki/苗栗 "wikilink")
   - [宜蘭宜蘭高中](https://zh.wikipedia.org/wiki/宜蘭 "wikilink")
@@ -926,19 +922,10 @@
   - －香港無綫電視
 
   -
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink")
-[Category:2016年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2016年台灣電視劇集 "wikilink")
-[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink")
-[Category:籃球電視劇](https://zh.wikipedia.org/wiki/Category:籃球電視劇 "wikilink")
-[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink")
-[Category:八大電視劇](https://zh.wikipedia.org/wiki/Category:八大電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:2016年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2016年台灣電視劇集 "wikilink") [Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink") [Category:籃球電視劇](https://zh.wikipedia.org/wiki/Category:籃球電視劇 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:八大電視劇](https://zh.wikipedia.org/wiki/Category:八大電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
-1.  [SpeXial宏正晨翔擔綱校園劇
-    四月開拍](http://www.epochtimes.com/b5/16/1/4/n4609148.htm)
+1.  [SpeXial宏正晨翔擔綱校園劇 四月開拍](http://www.epochtimes.com/b5/16/1/4/n4609148.htm)
 2.  [SpeXial晨翔、宏正接新戲！雙帥風靡高中球場](http://star.ettoday.net/news/624608)
 3.  [熱血籃球員SpeXial團長宏正、晨翔《制霸青春》帶著觀眾實現夢想](http://www.wownews.tw/article.php?sn=34003)
-4.  [Janet挑戰菜鳥籃球女教練
-    帶領高中球員追尋制霸之路](http://www.wownews.tw/article.php?sn=34517)
-5.  \[<http://udn.com/news/story/7264/1562919-「High-5」集訓開跑！晨翔沒睡飽性感「露毛>」
-    「High 5」集訓開跑！\]
+4.  [Janet挑戰菜鳥籃球女教練 帶領高中球員追尋制霸之路](http://www.wownews.tw/article.php?sn=34517)
+5.  \[<http://udn.com/news/story/7264/1562919-「High-5」集訓開跑！晨翔沒睡飽性感「露毛>」 「High 5」集訓開跑！\]

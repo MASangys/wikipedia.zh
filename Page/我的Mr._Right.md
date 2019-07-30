@@ -1,5 +1,4 @@
-《**我的Mr.
-Right**》（），是一部於[2015年上映的愛情喜劇電影](https://zh.wikipedia.org/wiki/2015年電影列表 "wikilink")。由[林美秀](../Page/林美秀_\(演員\).md "wikilink")、[庹宗華](../Page/庹宗華.md "wikilink")、[陳為民](../Page/陳為民.md "wikilink")、[王睿](https://zh.wikipedia.org/wiki/王睿 "wikilink")、[謝麗萍](https://zh.wikipedia.org/wiki/謝麗萍 "wikilink")、[陳佑軒領銜主演](https://zh.wikipedia.org/wiki/陳佑軒 "wikilink")。[台灣於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2015年3月6日上映。\[1\]
+《**我的Mr. Right**》（），是一部於[2015年上映的愛情喜劇電影](https://zh.wikipedia.org/wiki/2015年電影列表 "wikilink")。由[林美秀](../Page/林美秀_\(演員\).md "wikilink")、[庹宗華](../Page/庹宗華.md "wikilink")、[陳為民](../Page/陳為民.md "wikilink")、[王睿](https://zh.wikipedia.org/wiki/王睿 "wikilink")、[謝麗萍](https://zh.wikipedia.org/wiki/謝麗萍 "wikilink")、[陳佑軒領銜主演](https://zh.wikipedia.org/wiki/陳佑軒 "wikilink")。[台灣於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2015年3月6日上映。\[1\]
 
 ## 演員陣容
 
@@ -55,8 +54,6 @@ Right**》（），是一部於[2015年上映的愛情喜劇電影](https://zh.w
   -
   -
   -
-[Category:2015年劇情片](https://zh.wikipedia.org/wiki/Category:2015年劇情片 "wikilink")
-[Category:2010年代台灣電影作品](https://zh.wikipedia.org/wiki/Category:2010年代台灣電影作品 "wikilink")
-[Category:台灣劇情片](https://zh.wikipedia.org/wiki/Category:台灣劇情片 "wikilink")
+[Category:2015年劇情片](https://zh.wikipedia.org/wiki/Category:2015年劇情片 "wikilink") [Category:2010年代台灣電影作品](https://zh.wikipedia.org/wiki/Category:2010年代台灣電影作品 "wikilink") [Category:台灣劇情片](https://zh.wikipedia.org/wiki/Category:台灣劇情片 "wikilink")
 
 1.

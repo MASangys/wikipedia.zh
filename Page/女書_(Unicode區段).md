@@ -1,11 +1,10 @@
-**女書**是一個收錄了[女書字體的](https://zh.wikipedia.org/wiki/女書 "wikilink")[Unicode區段](../Page/Unicode區段.md "wikilink")。女書是一種專門由女性使用的文字，起源於中國[湖南省南部永州的](../Page/湖南省.md "wikilink")[江永縣](https://zh.wikipedia.org/wiki/江永縣 "wikilink")。
+**女書**是一個收錄了[女書字體的](https://zh.wikipedia.org/wiki/女書 "wikilink")[Unicode區段](../Page/Unicode區段.md "wikilink")。女書是一種專門由女性使用的文字，起源於中國[湖南省](../Page/湖南省.md "wikilink")南部永州的[江永縣](https://zh.wikipedia.org/wiki/江永縣 "wikilink")。
 
 大多數的女書符號都被收錄在此區段中，除了一個用來[表示疊字的符號被收錄在](https://zh.wikipedia.org/wiki/疊字符號 "wikilink")[表意符號和標點符號中](https://zh.wikipedia.org/wiki/表意符號和標點符號_\(Unicode\) "wikilink")。
 
 因為技術問題，「女書」二字的漢語拼音"*Nüshu*"在[Unicode標準中被拼為](https://zh.wikipedia.org/wiki/Unicode "wikilink")"*Nushu*"。
 
-與漢字相同，女書並沒有獨立描述女書字元的名稱。因此，各個字符的名稱是由該字符所在的碼點值所給定的。（例如：U+1B170 就被命名為 NUSHU
-CHARACTER-1B170）
+與漢字相同，女書並沒有獨立描述女書字元的名稱。因此，各個字符的名稱是由該字符所在的碼點值所給定的。（例如：U+1B170 就被命名為 NUSHU CHARACTER-1B170）
 
 ## 區段
 

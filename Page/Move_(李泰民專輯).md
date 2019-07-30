@@ -1,17 +1,12 @@
-《**MOVE**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee成員](../Page/SHINee.md "wikilink")[李泰民事隔一年十個月所發行的第二張韓語正規專輯](https://zh.wikipedia.org/wiki/李泰民 "wikilink")\[1\]，在2017年10月16日由[SM娛樂製作](../Page/SM娛樂.md "wikilink")、[KT
-Music發行](https://zh.wikipedia.org/wiki/KT_Music "wikilink")，主打曲目為同名歌曲《MOVE》，其發行消息於2017年10月10日韓國時間零時正式公佈。
+《**MOVE**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")成員[李泰民事隔一年十個月所發行的第二張韓語正規專輯](https://zh.wikipedia.org/wiki/李泰民 "wikilink")\[1\]，在2017年10月16日由[SM娛樂](../Page/SM娛樂.md "wikilink")製作、[KT Music發行](https://zh.wikipedia.org/wiki/KT_Music "wikilink")，主打曲目為同名歌曲《MOVE》，其發行消息於2017年10月10日韓國時間零時正式公佈。
 
 ## 背景
 
-2017年10月10日，SM娛樂釋出第一支李泰民第二張正規專輯的視像預告。同日開立所屬團體SHINee的官方Twitter及新浪微博帳戶。之後連續三天於各個官方官方版頁包括SMTOWN
-官方Youtube
-頻道、泰民個人的官方網站及SHINee專屬的Facebook、Twitter、Instagram和新浪微博發佈視像預告。13日發佈專輯資訊，透露主打曲目《MOVE》將有三個版本的音樂錄影帶；14日釋出預告照片。
+2017年10月10日，SM娛樂釋出第一支李泰民第二張正規專輯的視像預告。同日開立所屬團體SHINee的官方Twitter及新浪微博帳戶。之後連續三天於各個官方官方版頁包括SMTOWN 官方Youtube 頻道、泰民個人的官方網站及SHINee專屬的Facebook、Twitter、Instagram和新浪微博發佈視像預告。13日發佈專輯資訊，透露主打曲目《MOVE》將有三個版本的音樂錄影帶；14日釋出預告照片。
 
-配合新專輯發行，在2017年10月14和15日在首爾蠶室室內體育館舉行首個個人演唱會的完結版本（off-sick on
-track）；SM娛樂於13日公佈將於演唱會當天首次公開新主打曲目，並發佈首個電視公開宣傳行程為19日的M\!CountDown舞台。\[2\]
+配合新專輯發行，在2017年10月14和15日在首爾蠶室室內體育館舉行首個個人演唱會的完結版本（off-sick on track）；SM娛樂於13日公佈將於演唱會當天首次公開新主打曲目，並發佈首個電視公開宣傳行程為19日的M\!CountDown舞台。\[2\]
 
-到12月6日，SM娛樂宣布MOVE專輯將在12月11日發行改版《MOVE-ing》（12月10日先在線上發行），加收四首歌曲，主打曲則為《Day
-and Night》（），並搶先自12月8日於各音樂節目公開演繹《Day and Night》\[3\]。
+到12月6日，SM娛樂宣布MOVE專輯將在12月11日發行改版《MOVE-ing》（12月10日先在線上發行），加收四首歌曲，主打曲則為《Day and Night》（），並搶先自12月8日於各音樂節目公開演繹《Day and Night》\[3\]。
 
 ## 慨要
 
@@ -132,7 +127,7 @@ and Night》（），並搶先自12月8日於各音樂節目公開演繹《Day a
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置     | 總銷售量        |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置     | 總銷售量        |
 | ---------------------------------------- | -------- | ----------- |
 | 專輯週榜                                     | 11\[13\] | 8,738\[14\] |
 | 專輯月榜                                     | 49\[15\] |             |
@@ -176,14 +171,11 @@ and Night》（），並搶先自12月8日於各音樂節目公開演繹《Day a
 ## 外部連結
 
   -
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:SHINee音樂專輯](https://zh.wikipedia.org/wiki/Category:SHINee音樂專輯 "wikilink")
+[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:SHINee音樂專輯](https://zh.wikipedia.org/wiki/Category:SHINee音樂專輯 "wikilink")
 
 1.
 
-2.  [1](https://www.facebook.com/shinee/photos/a.793447897398536.1073741861.131034166973249/1610718752338109/?type=3&theater)，SHINee
-    Official Facebook
+2.  [1](https://www.facebook.com/shinee/photos/a.793447897398536.1073741861.131034166973249/1610718752338109/?type=3&theater)，SHINee Official Facebook
 
 3.
 

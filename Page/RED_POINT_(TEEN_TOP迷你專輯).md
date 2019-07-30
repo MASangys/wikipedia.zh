@@ -1,11 +1,8 @@
-《**RED
-POINT**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TEEN
-TOP第](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")7枚迷你韓語專輯，於2016年1月18日發行，主打歌曲為《死角地帶》（）\[1\]。
+《**RED POINT**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TEEN TOP第](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")7枚迷你韓語專輯，於2016年1月18日發行，主打歌曲為《死角地帶》（）\[1\]。
 
 ## 背景
 
-2016年1月6日，[TOP媒體在TEEN](../Page/TOP媒體.md "wikilink")
-TOP官方網站宣佈將發行新專輯\[2\]，後分別在1月9日及10日分別公開天地、Niel、創造與C.A.P、L.Joe、Ricky的個人概念照片\[3\]\[4\]；主打曲預告也在1月10日於官方Youtube頻道發放\[5\]。
+2016年1月6日，[TOP媒體](../Page/TOP媒體.md "wikilink")在TEEN TOP官方網站宣佈將發行新專輯\[2\]，後分別在1月9日及10日分別公開天地、Niel、創造與C.A.P、L.Joe、Ricky的個人概念照片\[3\]\[4\]；主打曲預告也在1月10日於官方Youtube頻道發放\[5\]。
 
 1月13日，完整專輯曲目名單公開\[6\]；1月18日隨專輯音源公開完整音樂錄影帶\[7\]。
 
@@ -68,7 +65,7 @@ TOP官方網站宣佈將發行新專輯\[2\]，後分別在1月9日及10日分�
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 總銷量    |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 總銷量    |
 | ---------------------------------------- | ---- | ------ |
 | 專輯年榜                                     | 168  | 27,238 |
 
@@ -124,11 +121,7 @@ TOP官方網站宣佈將發行新專輯\[2\]，後分別在1月9日及10日分�
 
 ## 参考文献
 
-[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
-[Category:TEEN_TOP音樂專輯](https://zh.wikipedia.org/wiki/Category:TEEN_TOP音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2016年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯月榜冠軍作品 "wikilink")
+[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:TEEN_TOP音樂專輯](https://zh.wikipedia.org/wiki/Category:TEEN_TOP音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink") [Category:2016年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯月榜冠軍作品 "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-**MTV電影大獎最佳突破演出**（MTV Movie Award for Best Breakthrough
-Performance）是[MTV電影大獎重要的獎項之一](https://zh.wikipedia.org/wiki/MTV電影大獎 "wikilink")，頒發給於電影中有突破演出的演員，於1992年開始頒發。
+**MTV電影大獎最佳突破演出**（MTV Movie Award for Best Breakthrough Performance）是[MTV電影大獎重要的獎項之一](https://zh.wikipedia.org/wiki/MTV電影大獎 "wikilink")，頒發給於電影中有突破演出的演員，於1992年開始頒發。
 
 ## 歷屆得主
 
@@ -968,5 +967,4 @@ Performance）是[MTV電影大獎重要的獎項之一](https://zh.wikipedia.org
 
 1.  本屆最佳突破演出劃分男女組別，故有兩名得獎者。
 2.  [第25屆MTV電影頒獎禮得獎名單《太陽報》](http://the-sun.on.cc/cnt/entertainment/20150414/00476_003.html)
-3.  [MTV電影頒獎禮
-    《星球大戰》掃3獎大贏家](http://news.mingpao.com/pns/dailynews/web_tc/article/20160411/s00016/1460312276550)
+3.  [MTV電影頒獎禮 《星球大戰》掃3獎大贏家](http://news.mingpao.com/pns/dailynews/web_tc/article/20160411/s00016/1460312276550)

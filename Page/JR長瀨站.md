@@ -1,7 +1,6 @@
-**JR長瀨站**（）位於日本[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[東大阪市長瀨町三丁目](../Page/東大阪市.md "wikilink")，是[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[大阪東線的](../Page/大阪東線.md "wikilink")[鐵路站](https://zh.wikipedia.org/wiki/鐵路站 "wikilink")，[車站編號是JR](../Page/車站編號.md "wikilink")-F12。位處府道大阪八尾線交叉口的北面。
+**JR長瀨站**（）位於日本[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[東大阪市](../Page/東大阪市.md "wikilink")長瀨町三丁目，是[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[大阪東線](../Page/大阪東線.md "wikilink")的[鐵路站](https://zh.wikipedia.org/wiki/鐵路站 "wikilink")，[車站編號](../Page/車站編號.md "wikilink")是JR-F12。位處府道大阪八尾線交叉口的北面。
 
-本站開業時是大阪東線内唯一一個不靠近其他鐵路線和鐵路站的車站。2018年3月17日，本站 -
-[新加美站間的](../Page/新加美站.md "wikilink")[衣摺加美北站開業](../Page/衣摺加美北站.md "wikilink")\[1\]\[2\]。
+本站開業時是大阪東線内唯一一個不靠近其他鐵路線和鐵路站的車站。2018年3月17日，本站 - [新加美站](../Page/新加美站.md "wikilink")間的[衣摺加美北站](../Page/衣摺加美北站.md "wikilink")開業\[1\]\[2\]。
 
 大阪東線的中途站均導入了車站色系，其中本站的顔色是粉紅色。
 
@@ -11,24 +10,15 @@
 
 計劃階段的臨時站名是「柏田站」\[3\]，周邊地區地名為「長瀨」，站名冠上「JR」以便與[近鐵大阪線的長瀨站區分開來](https://zh.wikipedia.org/wiki/近鐵大阪線 "wikilink")。
 
-  - [1943年](../Page/1943年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")
-    - 蛇草信号場開設。
-  - [2003年](../Page/2003年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")
-    - 受城東貨物線旅客線化工程影響，蛇草信号場廢止。
-  - [2008年](../Page/2008年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")
-    -
-    伴隨[大阪東線](../Page/大阪東線.md "wikilink")[放出站](https://zh.wikipedia.org/wiki/放出站 "wikilink")
-    - [久宝寺站之間部分的路段開業](https://zh.wikipedia.org/wiki/久宝寺站 "wikilink")。
-  - [2018年](../Page/2018年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")
-    - 導入車站編號。
-  - [2019年](../Page/2019年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")
-    -
-    隨大阪東線延伸至新大阪，編入成為[大阪市内站](https://zh.wikipedia.org/wiki/特定都区市内 "wikilink")\[4\]。
+  - [1943年](../Page/1943年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") - 蛇草信号場開設。
+  - [2003年](../Page/2003年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink") - 受城東貨物線旅客線化工程影響，蛇草信号場廢止。
+  - [2008年](../Page/2008年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink") - 伴隨[大阪東線](../Page/大阪東線.md "wikilink")[放出站](https://zh.wikipedia.org/wiki/放出站 "wikilink") - [久宝寺站之間部分的路段開業](https://zh.wikipedia.org/wiki/久宝寺站 "wikilink")。
+  - [2018年](../Page/2018年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink") - 導入車站編號。
+  - [2019年](../Page/2019年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink") - 隨大阪東線延伸至新大阪，編入成為[大阪市内站](https://zh.wikipedia.org/wiki/特定都区市内 "wikilink")\[4\]。
 
 ## 車站構造
 
-[Platform_of_JR_Nagase_station.JPG](https://zh.wikipedia.org/wiki/File:Platform_of_JR_Nagase_station.JPG "fig:Platform_of_JR_Nagase_station.JPG")
-[側式月台](../Page/側式月台.md "wikilink")，2面2線的[高架車站](../Page/高架車站.md "wikilink")，月台長度可對應8輛編成列車。本站沒有[轉轍器或](../Page/轉轍器.md "wikilink")[信號機](https://zh.wikipedia.org/wiki/日本铁路信号#主信号机 "wikilink")，所以被分類為[停留所](../Page/停車場_\(鐵路\).md "wikilink")。出入閘口位於地面層，設有一台升降機、和上下行各1部共2部扶手電梯連接月台。車站東西兩側設有站前廣場。本站以「長瀨川的小溪流水」為設計概念。
+[Platform_of_JR_Nagase_station.JPG](https://zh.wikipedia.org/wiki/File:Platform_of_JR_Nagase_station.JPG "fig:Platform_of_JR_Nagase_station.JPG") [側式月台](../Page/側式月台.md "wikilink")，2面2線的[高架車站](../Page/高架車站.md "wikilink")，月台長度可對應8輛編成列車。本站沒有[轉轍器](../Page/轉轍器.md "wikilink")或[信號機](https://zh.wikipedia.org/wiki/日本铁路信号#主信号机 "wikilink")，所以被分類為[停留所](../Page/停車場_\(鐵路\).md "wikilink")。出入閘口位於地面層，設有一台升降機、和上下行各1部共2部扶手電梯連接月台。車站東西兩側設有站前廣場。本站以「長瀨川的小溪流水」為設計概念。
 
 由[放出站管理](https://zh.wikipedia.org/wiki/放出站 "wikilink")，車站業務委托予[JR西日本交通服務](https://zh.wikipedia.org/wiki/JR西日本交通服務 "wikilink")，一部分時間無人駐守。出入閘機、售票機、精算機附近設有内綫電話，在無人駐守的時間帶可與呼叫中心的操作員聯絡，並由操作員遠程控制各種設備。本站沒有設置綠窗口，出入閘口的職員窗口亦不售票；改爲設置了綠色售票機。
 
@@ -175,11 +165,7 @@
 
   - [JR長瀬駅｜駅情報：JRおでかけネット](http://www.jr-odekake.net/eki/top.php?id=0612114)
 
-[Category:大阪府铁路车站](https://zh.wikipedia.org/wiki/Category:大阪府铁路车站 "wikilink")
-[Category:日本鐵路車站_Je](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Je "wikilink")
-[Category:2008年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2008年啟用的鐵路車站 "wikilink")
-[Category:大阪東線車站](https://zh.wikipedia.org/wiki/Category:大阪東線車站 "wikilink")
-[Category:東大阪市](https://zh.wikipedia.org/wiki/Category:東大阪市 "wikilink")
+[Category:大阪府铁路车站](https://zh.wikipedia.org/wiki/Category:大阪府铁路车站 "wikilink") [Category:日本鐵路車站_Je](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Je "wikilink") [Category:2008年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2008年啟用的鐵路車站 "wikilink") [Category:大阪東線車站](https://zh.wikipedia.org/wiki/Category:大阪東線車站 "wikilink") [Category:東大阪市](https://zh.wikipedia.org/wiki/Category:東大阪市 "wikilink")
 
 1.
 2.

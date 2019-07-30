@@ -1,44 +1,24 @@
-**Cheetah**（，），本名**金恩英**（），[韩国女](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[饶舌歌手](../Page/饒舌.md "wikilink")，2010年以组合成员的身份发表单曲《Stop
-(Money Can\`t Buy Me
-Love)》正式出道，现为[C9娱乐旗下艺人](../Page/C9娱乐.md "wikilink")。\[1\]2015年参加[真人秀竞赛节目](../Page/真人實境秀.md "wikilink")《[Unpretty
-Rapstar](../Page/Unpretty_Rapstar.md "wikilink")》并获得冠军后一举成名。
+**Cheetah**（，），本名**金恩英**（），[韩国女](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[饶舌歌手](../Page/饒舌.md "wikilink")，2010年以组合成员的身份发表单曲《Stop (Money Can\`t Buy Me Love)》正式出道，现为[C9娱乐](../Page/C9娱乐.md "wikilink")旗下艺人。\[1\]2015年参加[真人秀竞赛节目](../Page/真人實境秀.md "wikilink")《[Unpretty Rapstar](../Page/Unpretty_Rapstar.md "wikilink")》并获得冠军后一举成名。
 
 ## 生涯
 
-于音乐行业正式出道前，Cheetah曾在所属街道的高中辍学后，并作为地下饶舌歌手进行表演活动。\[2\]在2010年7月她作为嘻哈二人组的成员发表组合单曲《Stop
-(Money Can\`t Buy Me Love)》正式出道，\[3\]之后还于组合的另一名成员Lucy一同发布了《Nothing Lasts
-Forever》和《Stop》两首歌曲，然而这个组合于不久后解散。
+于音乐行业正式出道前，Cheetah曾在所属街道的高中辍学后，并作为地下饶舌歌手进行表演活动。\[2\]在2010年7月她作为嘻哈二人组的成员发表组合单曲《Stop (Money Can\`t Buy Me Love)》正式出道，\[3\]之后还于组合的另一名成员Lucy一同发布了《Nothing Lasts Forever》和《Stop》两首歌曲，然而这个组合于不久后解散。
 
-在Black List解散后，Cheetah作为独唱歌手发表了多首单曲以及参与其它饶舌歌手歌曲的配唱，还参加了嘻哈比赛节目《[Show Me
-The
-Money](../Page/Show_Me_The_Money.md "wikilink")》。\[4\]2012年，她加入了另一个与嘻哈音乐家[Crush所组成的二人组Masterpiece](../Page/Crush_\(歌手\).md "wikilink")，\[5\]两人在2012年5月发表了单曲《Rollercoaster》。然而该组合再次因为的缺乏人气及成绩不佳而解散。
+在Black List解散后，Cheetah作为独唱歌手发表了多首单曲以及参与其它饶舌歌手歌曲的配唱，还参加了嘻哈比赛节目《[Show Me The Money](../Page/Show_Me_The_Money.md "wikilink")》。\[4\]2012年，她加入了另一个与嘻哈音乐家[Crush所组成的二人组Masterpiece](../Page/Crush_\(歌手\).md "wikilink")，\[5\]两人在2012年5月发表了单曲《Rollercoaster》。然而该组合再次因为的缺乏人气及成绩不佳而解散。
 
-2014年，Cheetah发布了她的第一个迷你专辑《CHEETAH
-ITSELF》，\[6\]专辑中她展示了强有力的饶舌功底，以及作为一个独唱歌手的才华而引起了人们的注意。这张专辑后来帮助了她进入到《Show
-Me The Money》的衍生节目《[Unpretty
-Rapstar](../Page/Unpretty_Rapstar.md "wikilink")》的选手名单中。
+2014年，Cheetah发布了她的第一个迷你专辑《CHEETAH ITSELF》，\[6\]专辑中她展示了强有力的饶舌功底，以及作为一个独唱歌手的才华而引起了人们的注意。这张专辑后来帮助了她进入到《Show Me The Money》的衍生节目《[Unpretty Rapstar](../Page/Unpretty_Rapstar.md "wikilink")》的选手名单中。
 
-2015年初，Cheetah以参赛者的身份参加《Unpretty
-Rapstar》节目，\[7\]一同参与节目的选手还包括的成员[Jessi和](../Page/Jessi.md "wikilink")[K-pop女子团体](../Page/韓國流行音樂.md "wikilink")[AOA的队长兼饶舌担当](../Page/AOA.md "wikilink")[智珉以及其他地下女饶舌歌手](../Page/智珉.md "wikilink")。随着节目的进行，最终Cheetah成为了最后的获胜者。\[8\]\[9\]
+2015年初，Cheetah以参赛者的身份参加《Unpretty Rapstar》节目，\[7\]一同参与节目的选手还包括的成员[Jessi](../Page/Jessi.md "wikilink")和[K-pop女子团体](../Page/韓國流行音樂.md "wikilink")[AOA](../Page/AOA.md "wikilink")的队长兼饶舌担当[智珉](../Page/智珉.md "wikilink")以及其他地下女饶舌歌手。随着节目的进行，最终Cheetah成为了最后的获胜者。\[8\]\[9\]
 
-自从她在《Unpretty
-Rapstar》节目中获得冠军后，Cheetah的外表与时尚风格逐渐受到青睐，同时她也出现在多个代言活动中。\[10\]作为饶舌歌手的她也同时装品牌PUSH
-BUTTON合作并参与了产品的设计与发布。\[11\]
+自从她在《Unpretty Rapstar》节目中获得冠军后，Cheetah的外表与时尚风格逐渐受到青睐，同时她也出现在多个代言活动中。\[10\]作为饶舌歌手的她也同时装品牌PUSH BUTTON合作并参与了产品的设计与发布。\[11\]
 
-Cheetah于2015年8月2日推出了《Unpretty Rapstar》节目结束后的第一首单曲《My
-Number》。2015年10月Cheetah在[金俊秀的新专辑](../Page/金俊秀.md "wikilink")《Yesterday》的收录曲〈Midnight
-Show〉中合作参与配唱。同月，参加了音乐节目《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》，尽管Cheetah被公认为饶舌歌手，但她却以爵士歌手的身份出现在节目的舞台中而受到关注。\[12\]
+Cheetah于2015年8月2日推出了《Unpretty Rapstar》节目结束后的第一首单曲《My Number》。2015年10月Cheetah在[金俊秀](../Page/金俊秀.md "wikilink")的新专辑《Yesterday》的收录曲〈Midnight Show〉中合作参与配唱。同月，参加了音乐节目《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》，尽管Cheetah被公认为饶舌歌手，但她却以爵士歌手的身份出现在节目的舞台中而受到关注。\[12\]
 
-2017年1月，Cheetah以练习生饶舌导师的身份出现在真人秀选秀比赛《[Produce
-101](../Page/PRODUCE_101.md "wikilink")》的节目中。\[13\]
-
-2018年6月，Cheetah以练习生饶舌导师的身份出现在真人秀选秀比賽《[Produce
-48](../Page/PRODUCE_48.md "wikilink")》的节目中。
+2016年1月，Cheetah以练习生Rap导师的身份出现在选秀比赛《[Produce 101](../Page/PRODUCE_101.md "wikilink")》的节目中。\[13\]並連續4季擔任節目的Rap導師。
 
 ## 个人生活
 
-2007年1月，Cheetah在过马路时被一辆-{zh-cn:公交车;
-zh-tw:公車;}-撞倒，导致其重伤住院。\[14\]Cheetah昏迷了一段时间，医生认为苏醒的可能性很小，幸运的是她之后的恢复过程中没有出现任何严重的并发症，不过由于持续使用呼吸器而导致她失去了唱歌的能力。Cheetah曾表示这个惨痛的经历让她知道“生活不能有遗憾”并成为驱使她走向成功的因素之一。\[15\]
+2007年1月，Cheetah在过马路时被一辆-{zh-cn:公交车; zh-tw:公車;}-撞倒，导致其重伤住院。\[14\]Cheetah昏迷了一段时间，医生认为苏醒的可能性很小，幸运的是她之后的恢复过程中没有出现任何严重的并发症，不过由于持续使用呼吸器而导致她失去了唱歌的能力。Cheetah曾表示这个惨痛的经历让她知道“生活不能有遗憾”并成为驱使她走向成功的因素之一。\[15\]
 
 ## 音乐作品
 
@@ -287,22 +267,22 @@ zh-tw:公車;}-撞倒，导致其重伤住院。\[14\]Cheetah昏迷了一段时�
 <td><p>期望什么（뭘 바래）（with <a href="../Page/LE.md" title="wikilink">LE</a>, <a href="../Page/Yezi.md" title="wikilink">Yezi</a>, <a href="../Page/崔星俊.md" title="wikilink">崔星俊</a> &amp; 张成焕）</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
-<td><p><a href="../Page/嘻哈民族.md" title="wikilink">嘻哈民族S2 Episode 2</a></p></td>
+<td><p><a href="../Page/嘻哈民族.md" title="wikilink">嘻哈民族 Episode 2</a>S2</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>Yellow Ocean（with 张成焕）</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
-<td><p><a href="../Page/嘻哈民族.md" title="wikilink">嘻哈民族S2 Semi Final 1</a></p></td>
+<td><p><a href="../Page/嘻哈民族.md" title="wikilink">嘻哈民族 Semi Final 1</a>S2</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
-<td><p>权力的游戏-12人的制作（왕좌의 게임-12인의 프로듀서）（with <a href="../Page/李周憲.md" title="wikilink">周宪</a>、、、<a href="../Page/LE.md" title="wikilink">LE</a>、<a href="../Page/Yezi.md" title="wikilink">Yezi</a>、、<a href="https://zh.wikipedia.org/wiki/Hanhae" title="wikilink">Hanhae</a>、、、、）</p></td>
+<td><p>权力的游戏-12人的制作（왕좌의 게임-12인의 프로듀서）（with <a href="../Page/李周憲.md" title="wikilink">周宪</a>、<a href="../Page/DinDin.md" title="wikilink">DinDin</a>、、<a href="../Page/LE.md" title="wikilink">LE</a>、<a href="../Page/Yezi.md" title="wikilink">Yezi</a>、、<a href="https://zh.wikipedia.org/wiki/Hanhae" title="wikilink">Hanhae</a>、、、、）</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
-<td><p><a href="../Page/嘻哈民族.md" title="wikilink">嘻哈民族S2 Final I</a></p></td>
+<td><p><a href="../Page/嘻哈民族.md" title="wikilink">嘻哈民族 Final I</a>S2</p></td>
 </tr>
 <tr class="odd">
 <td><p>Come Follow Me（with ）</p></td>
@@ -357,8 +337,8 @@ zh-tw:公車;}-撞倒，导致其重伤住院。\[14\]Cheetah昏迷了一段时�
 | 2017         |                                                                |                                                                       |                                      |     |
 | 4月7日-6月16日   | [PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")\[33\] | [Mnet](../Page/Mnet媒體.md "wikilink")                                  |                                      |     |
 | 7月12日        | [現場脫口秀Taxi](../Page/現場脫口秀Taxi.md "wikilink")\[34\]             | [tvN](../Page/TVN.md "wikilink")                                      | 嘉宾                                   |     |
-| 2018         |                                                                | [PRODUCE 48](../Page/PRODUCE_48.md "wikilink")                        | [Mnet](../Page/Mnet媒體.md "wikilink") | 導師  |
-| 2019         |                                                                | [PRODUCE X101](https://zh.wikipedia.org/wiki/PRODUCE_X101 "wikilink") | [Mnet](../Page/Mnet媒體.md "wikilink") | 導師  |
+| 2018         | 6月15日-8月31日                                                    | [PRODUCE 48](../Page/PRODUCE_48.md "wikilink")                        | [Mnet](../Page/Mnet媒體.md "wikilink") | 導師  |
+| 2019         | 5月3日-7月19日                                                     | [PRODUCE X101](https://zh.wikipedia.org/wiki/PRODUCE_X101 "wikilink") | [Mnet](../Page/Mnet媒體.md "wikilink") | 導師  |
 
 ## 参考资料
 
@@ -367,15 +347,7 @@ zh-tw:公車;}-撞倒，导致其重伤住院。\[14\]Cheetah昏迷了一段时�
   -
   -
   -
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韩国饶舌女歌手](https://zh.wikipedia.org/wiki/Category:韩国饶舌女歌手 "wikilink")
-[Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink")
-[Category:21世纪韩国歌手](https://zh.wikipedia.org/wiki/Category:21世纪韩国歌手 "wikilink")
-[Category:2010年出道](https://zh.wikipedia.org/wiki/Category:2010年出道 "wikilink")
-[Category:釜山廣域市出身人物](https://zh.wikipedia.org/wiki/Category:釜山廣域市出身人物 "wikilink")
-[Category:Unpretty_Rapstar参赛者](https://zh.wikipedia.org/wiki/Category:Unpretty_Rapstar参赛者 "wikilink")
-[Category:蒙面歌王参赛者](https://zh.wikipedia.org/wiki/Category:蒙面歌王参赛者 "wikilink")
+[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韩国饶舌女歌手](https://zh.wikipedia.org/wiki/Category:韩国饶舌女歌手 "wikilink") [Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink") [Category:21世纪韩国歌手](https://zh.wikipedia.org/wiki/Category:21世纪韩国歌手 "wikilink") [Category:2010年出道](https://zh.wikipedia.org/wiki/Category:2010年出道 "wikilink") [Category:釜山廣域市出身人物](https://zh.wikipedia.org/wiki/Category:釜山廣域市出身人物 "wikilink") [Category:Unpretty_Rapstar参赛者](https://zh.wikipedia.org/wiki/Category:Unpretty_Rapstar参赛者 "wikilink") [Category:蒙面歌王参赛者](https://zh.wikipedia.org/wiki/Category:蒙面歌王参赛者 "wikilink")
 
 1.
 

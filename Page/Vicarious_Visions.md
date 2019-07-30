@@ -1,5 +1,4 @@
-**Vicarious Visions**，是美国游戏开发商，总部设在纽约州梅纳兹。该工作室是由兄弟Karthik Bala和Guha
-Bala于1990年成立，当时他们还在读高中。
+**Vicarious Visions**，是美国游戏开发商，总部设在纽约州梅纳兹。该工作室是由兄弟Karthik Bala和Guha Bala于1990年成立，当时他们还在读高中。
 
 2005年1月，Vicarious Visions被动视收购。
 
@@ -110,9 +109,6 @@ Bala于1990年成立，当时他们还在读高中。
 ## 外部链接
 
   -
-[Category:1990年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1990年開業電子遊戲公司 "wikilink")
-[Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
+[Category:1990年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1990年開業電子遊戲公司 "wikilink") [Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
 
 1.

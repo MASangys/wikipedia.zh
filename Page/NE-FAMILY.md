@@ -1,8 +1,6 @@
-**NE-FAMILY**（中文：**永不停步家族**，韓文：**앤이 가족**），Never
-Ending為NE的[簡寫](https://zh.wikipedia.org/wiki/簡稱 "wikilink")。中國內地網路虛擬娛樂公司。創辦於2015年2月5日，主要翻唱自創韓語中文[流行音樂](https://zh.wikipedia.org/wiki/流行音乐 "wikilink")。活動地區涵蓋[中國大陸](../Page/中国大陆.md "wikilink")、[港澳台以及](https://zh.wikipedia.org/wiki/港澳台 "wikilink")[北美地區的各大歌唱軟體](../Page/北美地区.md "wikilink")，例如[唱吧](https://zh.wikipedia.org/wiki/唱吧 "wikilink")。目前已停止大部分組合以及Solo歌手的活動，嘗試轉型主打為集體形式活動並推出第一個男子組合。\[1\]\[2\]
+**NE-FAMILY**（中文：**永不停步家族**，韓文：**앤이 가족**），Never Ending為NE的[簡寫](https://zh.wikipedia.org/wiki/簡稱 "wikilink")。中國內地網路虛擬娛樂公司。創辦於2015年2月5日，主要翻唱自創韓語中文[流行音樂](https://zh.wikipedia.org/wiki/流行音乐 "wikilink")。活動地區涵蓋[中國大陸](../Page/中国大陆.md "wikilink")、[港澳台以及](https://zh.wikipedia.org/wiki/港澳台 "wikilink")[北美地區的各大歌唱軟體](../Page/北美地区.md "wikilink")，例如[唱吧](https://zh.wikipedia.org/wiki/唱吧 "wikilink")。目前已停止大部分組合以及Solo歌手的活動，嘗試轉型主打為集體形式活動並推出第一個男子組合。\[1\]\[2\]
 
-現正在活動的旗下藝人有S-Power以及D-aber。公司前輩組合Mint Green因學業而解散，而Double
-S則因成員音樂概念不和解散。Wild Virus因家族轉型需求暫停活動。
+現正在活動的旗下藝人有S-Power以及D-aber。公司前輩組合Mint Green因學業而解散，而Double S則因成員音樂概念不和解散。Wild Virus因家族轉型需求暫停活動。
 
 2016年7月，D-aber組合成員小白正式退團，成員燦妍將繼續留在家族內進行其他活動。
 

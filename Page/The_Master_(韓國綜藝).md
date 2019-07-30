@@ -1,5 +1,4 @@
-《**The
-Master**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet於](https://zh.wikipedia.org/wiki/Mnet "wikilink")2017年製作的綜藝節目，以特級歌手間競演或生存戰為主軸的音樂節目類型綜藝\[1\]。節目預計於2017年11月開播。
+《**The Master**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet於](https://zh.wikipedia.org/wiki/Mnet "wikilink")2017年製作的綜藝節目，以特級歌手間競演或生存戰為主軸的音樂節目類型綜藝\[1\]。節目預計於2017年11月開播。
 
 ## 節目預告
 
@@ -20,8 +19,6 @@ Master**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 ## 外部連結
 
   -
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
 1.

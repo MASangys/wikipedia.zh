@@ -1,25 +1,20 @@
-**Jony
-J**（），本名**肖佳**，出生於福建省[福州市](../Page/福州市.md "wikilink")，是中國大陸嘻哈創作男歌手。
+**Jony J**（），本名**肖佳**，出生於福建省[福州市](../Page/福州市.md "wikilink")，是中國大陸嘻哈創作男歌手。
 
-2013年，發行個人首張[混音帶](../Page/混音带.md "wikilink")《J Hood》正式進入演藝圈，並憑藉歌曲《My
-City 南京》受到關注\[1\]。2016年，成立個人音樂廠牌Shooc
-Studio，並發行個人首張專輯《物女金》\[2\]。2017年，參加愛奇藝網絡綜藝節目《[中国有嘻哈](../Page/中国有嘻哈.md "wikilink")》，並晉級總決賽成為全國四強。
+2013年，發行個人首張[混音帶](../Page/混音带.md "wikilink")《J Hood》正式進入演藝圈，並憑藉歌曲《My City 南京》受到關注\[1\]。2016年，成立個人音樂廠牌Shooc Studio，並發行個人首張專輯《物女金》\[2\]。2017年，參加愛奇藝網絡綜藝節目《[中国有嘻哈](../Page/中国有嘻哈.md "wikilink")》，並晉級總決賽成為全國四強。
 
 ## 簡介
 
 1989年出生於中國福建省[福州市](../Page/福州市.md "wikilink")，後搬至中國江蘇省[盐城市](../Page/盐城市.md "wikilink")，2006年入讀[南京視覺藝術職業學院](https://zh.wikipedia.org/wiki/南京视觉艺术职业学院 "wikilink")，並在大學期間簽約了音樂公司，在試用期間在各地酒吧駐唱，之後因為認為合同內容存在不合理，且在酒吧駐唱的歌曲風格並非他所偏好，因此在正式簽約時選擇拒絕\[3\]。
 
-2011年發布一部介紹其個人如何生活與從事嘻哈音樂創作的紀錄片《Start It
-Underground》，並傳達「向下紮根，向上發展」的理念\[4\]。
+2011年發布一部介紹其個人如何生活與從事嘻哈音樂創作的紀錄片《Start It Underground》，並傳達「向下紮根，向上發展」的理念\[4\]。
 
-2013年發行個人首張[混音帶](../Page/混音带.md "wikilink")《J Hood》，其中歌曲《My City
-南京》受到關注\[5\]。同年5月至6月於中國大陸11個城市進行巡演\[6\]。
+2013年發行個人首張[混音帶](../Page/混音带.md "wikilink")《J Hood》，其中歌曲《My City 南京》受到關注\[5\]。同年5月至6月於中國大陸11個城市進行巡演\[6\]。
 
 2015年10月發行EP《Team Work》，同年12月發表《套路》、《開門見山》、《防火線》等代表性作品\[7\]。
 
 2016年初成立個人音樂廠牌Shooc Studio。同年發行個人首張專輯《物女金》，並於10月至12月於中國大陸15個城市進行巡演。
 
-2017年3月25日獲得第6屆中國嘻哈頒獎典禮最受歡迎說唱歌手\[8\]。同年5月14日於中國四川省成都市參加[草莓音樂節](../Page/草莓音樂節.md "wikilink")\[9\]。同年，參加[愛奇藝網絡綜藝節目](../Page/爱奇艺.md "wikilink")《[中国有嘻哈](../Page/中国有嘻哈.md "wikilink")》，並於節目第四期與[鬼卞進行](../Page/鬼卞.md "wikilink")「一對一對戰」時嚴重失誤忘詞而遭到淘汰\[10\]，之後因粉絲投票而敗部復活，最終於總決賽獲得年度第4名的成績\[11\]。
+2017年3月25日獲得第6屆中國嘻哈頒獎典禮最受歡迎說唱歌手\[8\]。同年5月14日於中國四川省成都市參加[草莓音樂節](../Page/草莓音樂節.md "wikilink")\[9\]。同年，參加[愛奇藝網絡綜藝節目](../Page/爱奇艺.md "wikilink")《[中国有嘻哈](../Page/中国有嘻哈.md "wikilink")》，並於節目第四期與[鬼卞](../Page/鬼卞.md "wikilink")進行「一對一對戰」時嚴重失誤忘詞而遭到淘汰\[10\]，之後因粉絲投票而敗部復活，最終於總決賽獲得年度第4名的成績\[11\]。
 
 2017年11月11日，於中國江蘇省南京市举行个人首场演唱会。
 
@@ -80,17 +75,7 @@ Underground》，並傳達「向下紮根，向上發展」的理念\[4\]。
 
 ## 參考文獻
 
-[Category:21世紀歌手](https://zh.wikipedia.org/wiki/Category:21世紀歌手 "wikilink")
-[Category:中國饒舌歌手](https://zh.wikipedia.org/wiki/Category:中國饒舌歌手 "wikilink")
-[Category:中國男歌手](https://zh.wikipedia.org/wiki/Category:中國男歌手 "wikilink")
-[Category:中國創作歌手](https://zh.wikipedia.org/wiki/Category:中國創作歌手 "wikilink")
-[Category:華語歌手](https://zh.wikipedia.org/wiki/Category:華語歌手 "wikilink")
-[Category:肖姓](https://zh.wikipedia.org/wiki/Category:肖姓 "wikilink")
-[Category:福州人](https://zh.wikipedia.org/wiki/Category:福州人 "wikilink")
-[Category:南京人](https://zh.wikipedia.org/wiki/Category:南京人 "wikilink")
-[Category:說唱歌手](https://zh.wikipedia.org/wiki/Category:說唱歌手 "wikilink")
-[Category:中國說唱歌手](https://zh.wikipedia.org/wiki/Category:中國說唱歌手 "wikilink")
-[Category:鹽城人](https://zh.wikipedia.org/wiki/Category:鹽城人 "wikilink")
+[Category:21世紀歌手](https://zh.wikipedia.org/wiki/Category:21世紀歌手 "wikilink") [Category:中國饒舌歌手](https://zh.wikipedia.org/wiki/Category:中國饒舌歌手 "wikilink") [Category:中國男歌手](https://zh.wikipedia.org/wiki/Category:中國男歌手 "wikilink") [Category:中國創作歌手](https://zh.wikipedia.org/wiki/Category:中國創作歌手 "wikilink") [Category:華語歌手](https://zh.wikipedia.org/wiki/Category:華語歌手 "wikilink") [Category:肖姓](https://zh.wikipedia.org/wiki/Category:肖姓 "wikilink") [Category:福州人](https://zh.wikipedia.org/wiki/Category:福州人 "wikilink") [Category:南京人](https://zh.wikipedia.org/wiki/Category:南京人 "wikilink") [Category:說唱歌手](https://zh.wikipedia.org/wiki/Category:說唱歌手 "wikilink") [Category:中國說唱歌手](https://zh.wikipedia.org/wiki/Category:中國說唱歌手 "wikilink") [Category:鹽城人](https://zh.wikipedia.org/wiki/Category:鹽城人 "wikilink")
 
 1.
 

@@ -1,4 +1,4 @@
-**星塵**（）是音乐社团平行四界推出的[虚拟歌手](../Page/角色.md "wikilink")，采用[Vocaloid](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")[语音合成技术](../Page/语音合成.md "wikilink")。歌声样本取自中国大陆网络歌手茶理理，形象由November透明星设计。软件产品于2016年4月13日发售。该产品为第一款以Vocaloid4引擎为基础开发的中文产品，也是上海禾念制作的首款“聲庫定制企划”产品\[1\]。
+**星塵**（）是音乐社团平行四界推出的[虚拟歌手](../Page/角色.md "wikilink")，采用[Vocaloid](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")[语音合成](../Page/语音合成.md "wikilink")技术。歌声样本取自中国大陆网络歌手茶理理，形象由November透明星设计。软件产品于2016年4月13日发售。该产品为第一款以Vocaloid4引擎为基础开发的中文产品，也是上海禾念制作的首款“聲庫定制企划”产品\[1\]。
 
 ## 角色
 
@@ -16,9 +16,7 @@
 
 ### Vocaloid 4
 
-**《VOCALOID4 Library
-星尘》**使用了[雅马哈的Vocaloid](https://zh.wikipedia.org/wiki/雅马哈 "wikilink")
-4引擎制作。其声库收录了茶理理年轻的聲音。
+**《VOCALOID4 Library 星尘》**使用了[雅马哈的Vocaloid](https://zh.wikipedia.org/wiki/雅马哈 "wikilink") 4引擎制作。其声库收录了茶理理年轻的聲音。
 
 产品内并未附带呼吸音，需要在其官方网站上单独[下载](https://web.archive.org/web/20170212164504/http://quad-stardust.com/download.html)。
 
@@ -105,9 +103,7 @@
 
   -
   -
-[Category:Vocaloid4引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid4引擎产品 "wikilink")
-[Category:Vocaloid角色](https://zh.wikipedia.org/wiki/Category:Vocaloid角色 "wikilink")
-[Category:中國虛擬歌手](https://zh.wikipedia.org/wiki/Category:中國虛擬歌手 "wikilink")
+[Category:Vocaloid4引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid4引擎产品 "wikilink") [Category:Vocaloid角色](https://zh.wikipedia.org/wiki/Category:Vocaloid角色 "wikilink") [Category:中國虛擬歌手](https://zh.wikipedia.org/wiki/Category:中國虛擬歌手 "wikilink")
 
 1.
 

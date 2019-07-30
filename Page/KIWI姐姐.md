@@ -1,4 +1,4 @@
-**KIWI姐姐**（，本名**莫允樂**），[苗栗縣出身](../Page/苗栗縣.md "wikilink")，2010年畢業於[台中青年高中舞蹈科](https://zh.wikipedia.org/wiki/台中青年高中 "wikilink")，2014年畢業於[國立台灣體育大學體育舞蹈系](https://zh.wikipedia.org/wiki/國立台灣體育大學 "wikilink")，2012年6月入選[東森幼幼台水果生力軍](../Page/東森幼幼台.md "wikilink")，於2013年正式出道。现為[YOYO家族水果生力軍成员之一](../Page/YOYO家族.md "wikilink")，並擔任東森幼幼台的節目主持人。2018年11月底開設個人YouTube頻道《Hi\!kiwiwi》。
+**KIWI姐姐**（，本名**莫允樂**），[苗栗縣](../Page/苗栗縣.md "wikilink")出身，2010年畢業於[台中青年高中舞蹈科](https://zh.wikipedia.org/wiki/台中青年高中 "wikilink")，2014年畢業於[國立台灣體育大學體育舞蹈系](https://zh.wikipedia.org/wiki/國立台灣體育大學 "wikilink")，2012年6月入選[東森幼幼台](../Page/東森幼幼台.md "wikilink")水果生力軍，於2013年正式出道。现為[YOYO家族](../Page/YOYO家族.md "wikilink")水果生力軍成员之一，並擔任東森幼幼台的節目主持人。2018年11月底開設個人YouTube頻道《Hi\!kiwiwi》。
 
 ## 主持
 
@@ -22,17 +22,14 @@
 ## 戲劇
 
   - 2014 國立台灣體育大學體育舞蹈系第十五屆畢業公演-淬鍊
-  - 2014 【如果兒童劇團】X【YOYO家族】《Go
-    Go拯救聖誕歷險記》(舞台劇)([橘子姐姐](../Page/橘子姐姐.md "wikilink")、[香蕉哥哥](../Page/香蕉哥哥.md "wikilink")、[雲朵姐姐](https://zh.wikipedia.org/wiki/雲朵姐姐 "wikilink")、**KIWI姐姐**)\[1\]
+  - 2014 【如果兒童劇團】X【YOYO家族】《Go Go拯救聖誕歷險記》(舞台劇)([橘子姐姐](../Page/橘子姐姐.md "wikilink")、[香蕉哥哥](../Page/香蕉哥哥.md "wikilink")、[雲朵姐姐](https://zh.wikipedia.org/wiki/雲朵姐姐 "wikilink")、**KIWI姐姐**)\[1\]
 
 ## 廣告、活動代言及主持
 
   - 2015 苗栗縣 104 年度「良師引導-跨世代舞蹈資優生的對話」主講人
   - 2015 東森幼幼台偶像學園節目代言(2015～至今)\[2\]\[3\]
   - 2016 「YOYO百分百」快閃活動\[4\]\[5\]
-  - 2016
-    Lamigo桃猿隊全猿主場進行兒童節開場秀並擔任開球來賓([橘子姐姐](../Page/橘子姐姐.md "wikilink")、[彩虹姐姐](https://zh.wikipedia.org/wiki/彩虹姐姐 "wikilink")、[草莓姐姐及](../Page/草莓姐姐.md "wikilink")**KIWI姐姐**)\[6\]
-    \[7\]
+  - 2016 Lamigo桃猿隊全猿主場進行兒童節開場秀並擔任開球來賓([橘子姐姐](../Page/橘子姐姐.md "wikilink")、[彩虹姐姐](https://zh.wikipedia.org/wiki/彩虹姐姐 "wikilink")、[草莓姐姐](../Page/草莓姐姐.md "wikilink")及**KIWI姐姐**)\[6\] \[7\]
 
 ## 獎項
 
@@ -82,19 +79,12 @@
   - [Kiwi姐姐個人 Facebook](https://www.facebook.com/YOYOTVSWEETKIWI)
 
   -
-[Category:莫姓](https://zh.wikipedia.org/wiki/Category:莫姓 "wikilink")
-[Category:國立台灣體育大學校友](https://zh.wikipedia.org/wiki/Category:國立台灣體育大學校友 "wikilink")
-[Category:台灣主持人](https://zh.wikipedia.org/wiki/Category:台灣主持人 "wikilink")
-[Category:苗栗人](https://zh.wikipedia.org/wiki/Category:苗栗人 "wikilink")
-[Category:YOYO家族成員](https://zh.wikipedia.org/wiki/Category:YOYO家族成員 "wikilink")
+[Category:莫姓](https://zh.wikipedia.org/wiki/Category:莫姓 "wikilink") [Category:國立台灣體育大學校友](https://zh.wikipedia.org/wiki/Category:國立台灣體育大學校友 "wikilink") [Category:台灣主持人](https://zh.wikipedia.org/wiki/Category:台灣主持人 "wikilink") [Category:苗栗人](https://zh.wikipedia.org/wiki/Category:苗栗人 "wikilink") [Category:YOYO家族成員](https://zh.wikipedia.org/wiki/Category:YOYO家族成員 "wikilink")
 
 1.  [【如果兒童劇團】X【YOYO家族】GoGo拯救聖誕歷險記](http://epaper.ifkidsdrama.com/2014new/140822_gogoXmas/edm.html)
 2.  [Kiwi姐姐代言偶像學園](https://www.youtube.com/watch?v=fXbuH1mIW8k)
 3.  [全新偶像學園MV來囉！](https://www.youtube.com/watch?v=9ZKniOjadgM)
-4.  [YOYO台哥姐快閃街頭賣藝現身 小朋友瘋狂追星，
-    Hinet新聞，2016年03月26日](http://times.hinet.net/news/17866783)
+4.  [YOYO台哥姐快閃街頭賣藝現身 小朋友瘋狂追星， Hinet新聞，2016年03月26日](http://times.hinet.net/news/17866783)
 5.  [YOYO百分百傳遞幸福快閃活動](https://www.youtube.com/watch?v=Bbrj355jhjY&nohtml5=False)
-6.  [中華職棒／桃猿：兒童節YoYo家族來了！Now
-    News新聞，2016年04月1日](http://www.nownews.com/n/2016/04/01/2049276)
-7.  [04/04 義大 vs Lamigo
-    賽前，YoYo家族以及YOYOMAN帶來開場表演並擔任開球嘉賓，中華職棒CPBL，2016年04月04日](https://www.youtube.com/watch?v=h0zfh61t0WQ&nohtml5=False)
+6.  [中華職棒／桃猿：兒童節YoYo家族來了！Now News新聞，2016年04月1日](http://www.nownews.com/n/2016/04/01/2049276)
+7.  [04/04 義大 vs Lamigo 賽前，YoYo家族以及YOYOMAN帶來開場表演並擔任開球嘉賓，中華職棒CPBL，2016年04月04日](https://www.youtube.com/watch?v=h0zfh61t0WQ&nohtml5=False)

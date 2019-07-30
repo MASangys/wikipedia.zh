@@ -1,17 +1,15 @@
-《**假面騎士平成Generations Dr. Pac-Man對EX-AID & Ghost with
-傳說騎士**》（'''），是日本特攝節目《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》和《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》聯動劇場版，日本地區於2016年12月10日上映。
+《**假面騎士平成Generations Dr. Pac-Man對EX-AID & Ghost with 傳說騎士**》（'''），是日本特攝節目《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》和《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》聯動劇場版，日本地區於2016年12月10日上映。
 
 ## 本作特色
 
   - 本作為假面騎士誕生45週年紀念作品，亦為假面騎士連動劇場版「MOVIE大戰系列」從以往的標題「MOVIE大戰」更改為新的標題「假面騎士平成Generations」後的第一部劇場版作品。
   - 首次與經典遊戲角色[食鬼](https://zh.wikipedia.org/wiki/食鬼 "wikilink")（Pac-Man）合作，食鬼將作爲本作的大反派出場。
-  - 知名演員[佐野史郎為本作演出](../Page/佐野史郎.md "wikilink")\[1\]，另外知名摔跤選手同時也是假面騎士系列作品的大Fans[棚橋弘至亦參與演出](https://zh.wikipedia.org/wiki/棚橋弘至 "wikilink")\[2\]。
+  - 知名演員[佐野史郎](../Page/佐野史郎.md "wikilink")為本作演出\[1\]，另外知名摔跤選手同時也是假面騎士系列作品的大Fans[棚橋弘至亦參與演出](https://zh.wikipedia.org/wiki/棚橋弘至 "wikilink")\[2\]。
   - 本作除了主要演出的假面騎士EX-AID和假面騎士Ghost外，同時前作系列的假面騎士Drive、假面騎士鎧武和假面騎士Wizard亦於本作中作為傳說騎士登場。
-  - 於11月24日的完成披露上映會中得知，飾演假面騎士Wizard中的主角操真晴人的演員[白石隼也及假面騎士Drive的主角泊進之介的演員](../Page/白石隼也.md "wikilink")[竹內涼真兩人亦在此劇中真人演出](../Page/竹內涼真.md "wikilink")\[3\]。
+  - 於11月24日的完成披露上映會中得知，飾演假面騎士Wizard中的主角操真晴人的演員[白石隼也](../Page/白石隼也.md "wikilink")及假面騎士Drive的主角泊進之介的演員[竹內涼真](../Page/竹內涼真.md "wikilink")兩人亦在此劇中真人演出\[3\]。
   - 電視版本篇中即將現身的雙重動作玩家Level XX於本作先行登場。
-  - 曾在[特搜戰隊刑事連者中飾演胡堂小梅](../Page/特搜戰隊刑事連者.md "wikilink") /
-    刑事粉紅及[炎神戰隊轟音者劇場版中飾演月之輪的知名聲優兼演員的](../Page/炎神戰隊轟音者.md "wikilink")[菊地美香亦在自己的推特上宣布參演本作](../Page/菊地美香.md "wikilink")，並貼出與本作監督坂本浩一的合照\[4\]。
-  - 本作與[假面騎士EX-AID本篇有著劇情上的連動](../Page/假面騎士EX-AID.md "wikilink")。
+  - 曾在[特搜戰隊刑事連者](../Page/特搜戰隊刑事連者.md "wikilink")中飾演胡堂小梅 / 刑事粉紅及[炎神戰隊轟音者](../Page/炎神戰隊轟音者.md "wikilink")劇場版中飾演月之輪的知名聲優兼演員的[菊地美香](../Page/菊地美香.md "wikilink")亦在自己的推特上宣布參演本作，並貼出與本作監督坂本浩一的合照\[4\]。
+  - 本作與[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")本篇有著劇情上的連動。
 
 ## 故事概要
 
@@ -46,11 +44,11 @@
   -
     **假面騎士EX-AID**的變身者。
 
-**天空寺尊（）**（[西銘駿飾](../Page/西銘駿.md "wikilink")）
+**天空寺尊（）**（[西銘駿](../Page/西銘駿.md "wikilink")飾）
 
   -
     **假面騎士Ghost**的變身者。
-    於[假面騎士Ghost本篇最終話時再次擁有身體](../Page/假面騎士Ghost.md "wikilink")，目前因課業延遲半年，正努力地補習及專心準備大學考試。
+    於[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")本篇最終話時再次擁有身體，目前因課業延遲半年，正努力地補習及專心準備大學考試。
 
 **泊進之介（）**（[竹内涼真飾](https://zh.wikipedia.org/wiki/竹内涼真 "wikilink")）
 
@@ -58,13 +56,13 @@
     **假面騎士Drive**的變身者。
     [腰帶先生回來（勝利後再次失去），與詩島霧子結婚一年後](../Page/假面騎士×假面騎士_Ghost_&_Drive_超MOVIE大戰_Genesis.md "wikilink")，與葛葉紘汰（假面騎士鎧武）及操真晴人（假面騎士Wizard）被稱爲傳說的假面騎士們。
 
-**葛葉紘汰（）**（[佐野岳聲音剪輯](../Page/佐野岳.md "wikilink")）
+**葛葉紘汰（）**（[佐野岳](../Page/佐野岳.md "wikilink")聲音剪輯）
 
   -
     **假面騎士鎧武**的變身者。
     自從上次和泊進之介合作保護地球後，回到高司舞一同在創造了生機的新星體兩年後，今次卻因某個原因再次回到地球。
 
-**操真晴人（）**（[白石隼也飾](../Page/白石隼也.md "wikilink")）
+**操真晴人（）**（[白石隼也](../Page/白石隼也.md "wikilink")飾）
 
   -
     **假面騎士Wizard**的變身者。
@@ -85,12 +83,12 @@
   -
     **假面騎士Lazer**的變身者。
 
-**深海誠（）**（[山本涼介飾](../Page/山本涼介.md "wikilink")）
+**深海誠（）**（[山本涼介](../Page/山本涼介.md "wikilink")飾）
 
   -
     **假面騎士Specter**的變身者。
 
-**亞蘭（）**（[磯村勇斗飾](../Page/磯村勇斗.md "wikilink")）
+**亞蘭（）**（[磯村勇斗](../Page/磯村勇斗.md "wikilink")飾）
 
   -
     **假面騎士Necrom**的變身者。
@@ -101,7 +99,7 @@
 
 **檀黎斗（）**（[岩永徹也](../Page/岩永徹也.md "wikilink") 飾）
 
-**帕拉德（）**（[甲斐翔真飾](../Page/甲斐翔真.md "wikilink")）
+**帕拉德（）**（[甲斐翔真](../Page/甲斐翔真.md "wikilink")飾）
 
 **鏡灰馬（）**（ 飾）
 
@@ -109,23 +107,22 @@
 
 ### 《假面騎士Ghost》原主要人物
 
-**月村朱里（）**（[大澤光飾](../Page/大澤光.md "wikilink")）
+**月村朱里（）**（[大澤光](../Page/大澤光.md "wikilink")飾）
 
-**山之內御成（）**（[柳喬之飾](../Page/柳喬之.md "wikilink")）
+**山之內御成（）**（[柳喬之](../Page/柳喬之.md "wikilink")飾）
 
 **深海花音（）**（飾）
 
-**八王子涉谷（）**（[溝口琢矢飾](../Page/溝口琢矢.md "wikilink")）
+**八王子涉谷（）**（[溝口琢矢](../Page/溝口琢矢.md "wikilink")飾）
 
 **成田（）**（飾）
 
 ### 本作登場人物
 
-'''財前美智彦（） '''（[佐野史郎飾](../Page/佐野史郎.md "wikilink")）
+'''財前美智彦（） '''（[佐野史郎](../Page/佐野史郎.md "wikilink")飾）
 
   -
-    次世代基因組研究所的所長，也是[遺傳因子治療的專家](https://zh.wikipedia.org/wiki/遺傳因子 "wikilink")，於本作六年前被判定死亡，其實是分離出永夢的崩源體\[5\]的時候遭病毒感染而掉入遊戲世界，現以Dr.
-    Pac-Man的身份向人類復仇，蓋諾姆斯的變身者。
+    次世代基因組研究所的所長，也是[遺傳因子治療的專家](https://zh.wikipedia.org/wiki/遺傳因子 "wikilink")，於本作六年前被判定死亡，其實是分離出永夢的崩源體\[5\]的時候遭病毒感染而掉入遊戲世界，現以Dr. Pac-Man的身份向人類復仇，蓋諾姆斯的變身者。
 
 '''來瀬莊司（） '''（飾）
 
@@ -145,8 +142,7 @@
 '''清宮東吾（） '''（飾）
 
   -
-    超高人氣的『Hatesate
-    Puzzle』\[6\]\[7\]遊戲開發者，是名興趣於開發新遊戲軟體的高中生，同時也是哈特納崩源體的寄生者。
+    超高人氣的『Hatesate Puzzle』\[6\]\[7\]遊戲開發者，是名興趣於開發新遊戲軟體的高中生，同時也是哈特納崩源體的寄生者。
 
 ## 本作限定登場假面騎士/形態
 
@@ -195,7 +191,7 @@
 跳躍力：<br />
 行動速度：</p></td>
 <td><p>全身以金色、銀色、黑色，造型則以三大名將對杜鵑不啼的態度為藍本</p></td>
-<td><p>寄宿戰國三大武將<a href="../Page/織田信長.md" title="wikilink">織田信長</a>、<a href="https://zh.wikipedia.org/wiki/豐臣秀吉" title="wikilink">豐臣秀吉和</a><a href="../Page/德川家康.md" title="wikilink">德川家康靈魂的力量</a>，能使用Ghost、Specter、Necrom三名假面騎士的專屬武器</p></td>
+<td><p>寄宿戰國三大武將<a href="../Page/織田信長.md" title="wikilink">織田信長</a>、<a href="https://zh.wikipedia.org/wiki/豐臣秀吉" title="wikilink">豐臣秀吉和</a><a href="../Page/德川家康.md" title="wikilink">德川家康</a>靈魂的力量，能使用Ghost、Specter、Necrom三名假面騎士的專屬武器</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -369,8 +365,7 @@ Level 2</strong></p></td>
 
 ### 假面騎士Snipe
 
-變身者：花家大我（替身演員：藤田慧（LV1） /
-[永德](https://zh.wikipedia.org/wiki/永德 "wikilink")（LV2、3、5）、CV：松本享恭）
+變身者：花家大我（替身演員：藤田慧（LV1） / [永德](https://zh.wikipedia.org/wiki/永德 "wikilink")（LV2、3、5）、CV：松本享恭）
 
   -
     原文： / *Kamen Rider Snipe*
@@ -494,8 +489,7 @@ Level 2</strong></p></td>
         <!-- end list -->
           -
             原文：
-            為財前美智彥使用Pac-Man頭套所偽裝的身份，後在《假面騎士Ex-Aid \[裏技\]
-            假面騎士Genm》被帕拉德拿來使用。
+            為財前美智彥使用Pac-Man頭套所偽裝的身份，後在《假面騎士Ex-Aid \[裏技\] 假面騎士Genm》被帕拉德拿來使用。
 
 :\***羅波爾崩源體**（替身演員：、CV：棚橋弘至）
 
@@ -578,7 +572,7 @@ Level 2</strong></p></td>
 <td><p>天</p></td>
 <td><p>Ghost</p></td>
 <td><p>靈魂轉換</p></td>
-<td><p>擁有統一日本的三大戰國名將<a href="../Page/織田信長.md" title="wikilink">織田信長</a>、<a href="https://zh.wikipedia.org/wiki/豐臣秀吉" title="wikilink">豐臣秀吉</a>、<a href="../Page/德川家康.md" title="wikilink">德川家康的能力</a></p></td>
+<td><p>擁有統一日本的三大戰國名將<a href="../Page/織田信長.md" title="wikilink">織田信長</a>、<a href="https://zh.wikipedia.org/wiki/豐臣秀吉" title="wikilink">豐臣秀吉</a>、<a href="../Page/德川家康.md" title="wikilink">德川家康</a>的能力</p></td>
 <td><p>變身形態 <strong>天下統一魂</strong>。<br />
 Ghost驅動器使用時音效為「Nobunaga, Hideyoshi, Ieyasu! Hatasu no wa itsu! Tenka tōitsu! 」（日文原文，中文意思「信長！秀吉！家康！心願的合一！天下統一！」）。<br />
 騎士的靈魂由信長靈魂、秀吉靈魂和家康靈魂融合而成。</p></td>
@@ -945,8 +939,7 @@ Level 2</p></td>
 
   - 作詞：藤林聖子
   - 作曲／編曲：
-  - 演唱：[鬼龍院翔](https://zh.wikipedia.org/wiki/鬼龍院翔 "wikilink") from
-    [Golden Bomber](../Page/Golden_Bomber.md "wikilink")
+  - 演唱：[鬼龍院翔](https://zh.wikipedia.org/wiki/鬼龍院翔 "wikilink") from [Golden Bomber](../Page/Golden_Bomber.md "wikilink")
 
 ## 其他相關媒體
 
@@ -959,8 +952,7 @@ Level 2</p></td>
   -
     2017年1月開始於Youtube頻道配信的特別篇故事作品。共兩部分。
     該故事時間點接在《平成Generations》後，本篇第11話前。
-    另外Part
-    3（最終傳說舞台）限定收錄於玩具商品附帶[DVD內](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+    另外Part 3（最終傳說舞台）限定收錄於玩具商品附帶[DVD內](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 #### 播放列表
 
@@ -1013,13 +1005,9 @@ Level 2</p></td>
 
 #### 演員
 
-  - 寶生永夢 / 假面騎士EX-AID -
-    [飯島寛騎](https://zh.wikipedia.org/wiki/飯島寛騎 "wikilink")
-    飾 / 聲
+  - 寶生永夢 / 假面騎士EX-AID - [飯島寛騎](https://zh.wikipedia.org/wiki/飯島寛騎 "wikilink") 飾 / 聲
   - 檀黎斗 / 假面騎士Genm - [岩永徹也](../Page/岩永徹也.md "wikilink") 飾 / 聲
-  - 仮野明日那 / Poppypipopapo -
-    [松田瑠華](https://zh.wikipedia.org/wiki/松田瑠華 "wikilink")
-    飾
+  - 仮野明日那 / Poppypipopapo - [松田瑠華](https://zh.wikipedia.org/wiki/松田瑠華 "wikilink") 飾
   - 鏡飛彩 / 假面騎士Brave - [瀨戶利樹](../Page/瀨戶利樹.md "wikilink") 飾 / 聲
   - 花家大我 / 假面騎士Snipe - [松本享恭](../Page/松本享恭.md "wikilink") 飾 / 聲
   - Dr.Pac-Man / 帕拉德 - [甲斐翔真](../Page/甲斐翔真.md "wikilink") 飾 / 聲
@@ -1037,9 +1025,7 @@ Level 2</p></td>
 ## 演員
 
   - 天空寺尊 / 假面騎士Ghost - [西銘駿](../Page/西銘駿.md "wikilink") 飾 / 聲
-  - 寶生永夢 / 假面騎士EX-AID -
-    [飯島寛騎](https://zh.wikipedia.org/wiki/飯島寛騎 "wikilink")
-    飾 / 聲
+  - 寶生永夢 / 假面騎士EX-AID - [飯島寛騎](https://zh.wikipedia.org/wiki/飯島寛騎 "wikilink") 飾 / 聲
   - 泊進之介 / 假面騎士Drive - [竹內涼真](../Page/竹內涼真.md "wikilink") 飾 / 聲
   - 操真晴人 / 假面騎士Wizard - [白石隼也](../Page/白石隼也.md "wikilink") 飾 / 聲
   - 鏡飛彩 / 假面騎士Brave - [瀨戶利樹](../Page/瀨戶利樹.md "wikilink") 飾 / 聲
@@ -1047,9 +1033,7 @@ Level 2</p></td>
   - 九條貴利矢 / 假面騎士Lazer - [小野塚勇人](../Page/小野塚勇人.md "wikilink") 飾 / 聲
   - 深海誠 / 假面騎士Specter - [山本涼介](../Page/山本涼介.md "wikilink") 飾 / 聲
   - 亞蘭 / 假面騎士Necrom - [磯村勇斗](../Page/磯村勇斗.md "wikilink") 飾 / 聲
-  - 假野明日那 / Poppypipopapo -
-    [松田瑠華](https://zh.wikipedia.org/wiki/松田瑠華 "wikilink")
-    飾
+  - 假野明日那 / Poppypipopapo - [松田瑠華](https://zh.wikipedia.org/wiki/松田瑠華 "wikilink") 飾
   - 月村朱里 - [大澤光](../Page/大澤光.md "wikilink") 飾
   - 檀黎斗 - [岩永徹也](../Page/岩永徹也.md "wikilink") 飾
   - 帕拉德 - [甲斐翔真](../Page/甲斐翔真.md "wikilink") 飾
@@ -1065,26 +1049,17 @@ Level 2</p></td>
   - 救護員 - [鈴木晃平](https://zh.wikipedia.org/wiki/鈴木晃平 "wikilink") 飾
   - 教師 - [遠藤薰](https://zh.wikipedia.org/wiki/遠藤薰 "wikilink") 飾
   - 北見勇樹 - [高梨理央](https://zh.wikipedia.org/wiki/高梨理央 "wikilink") 飾
-  - 財前美智彦 / Dr.Pac-Man / Genoms - [佐野史郎](../Page/佐野史郎.md "wikilink") 飾 /
-    聲
-  - 來瀨莊司 / 羅波爾崩源體 -
-    [棚橋弘至](https://zh.wikipedia.org/wiki/棚橋弘至 "wikilink")
-    飾 / 聲
-  - 武田上葉 / 基利爾崩源體 -
-    [山本千尋](https://zh.wikipedia.org/wiki/山本千尋 "wikilink")
-    飾
-  - 龍崎一成 / 多拉爾崩源體 - [鈴之助](https://zh.wikipedia.org/wiki/鈴之助 "wikilink")
-    飾
+  - 財前美智彦 / Dr.Pac-Man / Genoms - [佐野史郎](../Page/佐野史郎.md "wikilink") 飾 / 聲
+  - 來瀨莊司 / 羅波爾崩源體 - [棚橋弘至](https://zh.wikipedia.org/wiki/棚橋弘至 "wikilink") 飾 / 聲
+  - 武田上葉 / 基利爾崩源體 - [山本千尋](https://zh.wikipedia.org/wiki/山本千尋 "wikilink") 飾
+  - 龍崎一成 / 多拉爾崩源體 - [鈴之助](https://zh.wikipedia.org/wiki/鈴之助 "wikilink") 飾
 
 ## 聲音演出
 
   - 騎士卡帶聲音 - [影山浩宣](../Page/影山浩宣.md "wikilink")
-  - Ghost驅動器關連道具聲音、眼魂驅動器G聲音 -
-    [m.c.A.T](https://zh.wikipedia.org/wiki/m.c.A.T "wikilink")
-  - 潤眼手環 - [Peter von
-    Gomm](https://zh.wikipedia.org/wiki/Peter_von_Gomm "wikilink")
-  - 腰帶先生（Drive驅動器） - [Chris
-    Peppler](https://zh.wikipedia.org/wiki/Chris_Peppler "wikilink")
+  - Ghost驅動器關連道具聲音、眼魂驅動器G聲音 - [m.c.A.T](https://zh.wikipedia.org/wiki/m.c.A.T "wikilink")
+  - 潤眼手環 - [Peter von Gomm](https://zh.wikipedia.org/wiki/Peter_von_Gomm "wikilink")
+  - 腰帶先生（Drive驅動器） - [Chris Peppler](https://zh.wikipedia.org/wiki/Chris_Peppler "wikilink")
   - 戰極驅動器關連道具聲音 - [平床政治](https://zh.wikipedia.org/wiki/平床政治 "wikilink")
   - 信長魂 - [關智一](../Page/關智一.md "wikilink")
   - 哈特納崩源體 - [中博史](../Page/中博史.md "wikilink")
@@ -1133,8 +1108,7 @@ Level 2</p></td>
   - 動作指導 - （JAE）
   - 特攝導演 - （）
   - 發行 - [東映](../Page/東映.md "wikilink")
-  - 製作單位 - 「EX-AID &
-    Ghost」製作委員會（東映、[朝日電視台](../Page/朝日電視台.md "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、、[萬代](../Page/萬代.md "wikilink")）
+  - 製作單位 - 「EX-AID & Ghost」製作委員會（東映、[朝日電視台](../Page/朝日電視台.md "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、、[萬代](../Page/萬代.md "wikilink")）
 
 ## 註釋
 
@@ -1144,16 +1118,11 @@ Level 2</p></td>
 
 ## 参考资料
 
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
-[Category:2016年日本電影](https://zh.wikipedia.org/wiki/Category:2016年日本電影 "wikilink")
-[Category:平成假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列跨界作品 "wikilink")
+[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:2016年日本電影](https://zh.wikipedia.org/wiki/Category:2016年日本電影 "wikilink") [Category:平成假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列跨界作品 "wikilink")
 
-1.  [「仮面ライダー」新作予告にウィザード、鎧武、ドライブの変身も\!?ゲストに佐野史郎](http://natalie.mu/eiga/news/208096)
-    - 映画ナタリー
-2.  [仮面ライダー、愛してま～す！棚橋弘至が「平成ジェネレーションズ」にゲスト出演](http://natalie.mu/eiga/news/206667)
-    - 映画ナタリー
-3.  [竹内涼真が西銘駿にツッコミ「あなたも仮面ライダーだから！」](http://natalie.mu/eiga/news/210519)
-    - 映画ナタリー
+1.  [「仮面ライダー」新作予告にウィザード、鎧武、ドライブの変身も\!?ゲストに佐野史郎](http://natalie.mu/eiga/news/208096) - 映画ナタリー
+2.  [仮面ライダー、愛してま～す！棚橋弘至が「平成ジェネレーションズ」にゲスト出演](http://natalie.mu/eiga/news/206667) - 映画ナタリー
+3.  [竹内涼真が西銘駿にツッコミ「あなたも仮面ライダーだから！」](http://natalie.mu/eiga/news/210519) - 映画ナタリー
 4.
 5.  帕拉德
 6.  其後該遊戲被檀黎斗作為『Perfect Puzzle』的基礎資料。

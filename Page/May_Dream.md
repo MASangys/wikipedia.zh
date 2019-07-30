@@ -1,24 +1,20 @@
-《**May
-Dream**》，[日本女](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")12張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2016年5月18日由[PONY
-CANYON發行](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")\[1\]，此張專輯亦是aiko睽違兩年發行的創作專輯。
+《**May Dream**》，[日本](../Page/日本.md "wikilink")女[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")12張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2016年5月18日由[PONY CANYON發行](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")\[1\]，此張專輯亦是aiko睽違兩年發行的創作專輯。
 
 ## 專輯概要
 
-除了未公開發行的新歌，此張專輯亦收錄2014年11月12日至2016年3月9日發行的四張單曲，包括〈[我的對面](../Page/我的對面.md "wikilink")〉、〈[夢的間隙](../Page/夢的間隙.md "wikilink")〉、〈[正負](../Page/正負_\(aiko單曲\).md "wikilink")〉、〈[多一點](../Page/多一點_\(aiko單曲\).md "wikilink")〉。其中，〈[我的對面](../Page/我的對面.md "wikilink")〉為[關西電視台連續劇](../Page/關西電視台.md "wikilink")《[出色的選TAXI](../Page/出色的選TAXI.md "wikilink")》主題曲、〈[多一點](../Page/多一點_\(aiko單曲\).md "wikilink")〉為[TBS電視台連續劇](../Page/TBS電視台.md "wikilink")《[請和這個沒用的我談戀愛](../Page/請和這個沒用的我談戀愛.md "wikilink")》主題曲、〈暗示〉為電影《》主題曲、〈[正負](../Page/正負_\(aiko單曲\).md "wikilink")〉為[NHK
-BS Premium台連續劇](../Page/NHK_BS_Premium.md "wikilink")《》主題曲。
+除了未公開發行的新歌，此張專輯亦收錄2014年11月12日至2016年3月9日發行的四張單曲，包括〈[我的對面](../Page/我的對面.md "wikilink")〉、〈[夢的間隙](../Page/夢的間隙.md "wikilink")〉、〈[正負](../Page/正負_\(aiko單曲\).md "wikilink")〉、〈[多一點](../Page/多一點_\(aiko單曲\).md "wikilink")〉。其中，〈[我的對面](../Page/我的對面.md "wikilink")〉為[關西電視台](../Page/關西電視台.md "wikilink")連續劇《[出色的選TAXI](../Page/出色的選TAXI.md "wikilink")》主題曲、〈[多一點](../Page/多一點_\(aiko單曲\).md "wikilink")〉為[TBS電視台](../Page/TBS電視台.md "wikilink")連續劇《[請和這個沒用的我談戀愛](../Page/請和這個沒用的我談戀愛.md "wikilink")》主題曲、〈暗示〉為電影《》主題曲、〈[正負](../Page/正負_\(aiko單曲\).md "wikilink")〉為[NHK BS Premium台連續劇](../Page/NHK_BS_Premium.md "wikilink")《》主題曲。
 
 此張專輯的初回限定版A（[CD](../Page/CD.md "wikilink")＋[藍光](https://zh.wikipedia.org/wiki/藍光 "wikilink")）及初回限定版B（[CD](../Page/CD.md "wikilink")＋[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")）附贈aiko個人首次在[大阪的跨年倒數演唱會影像](https://zh.wikipedia.org/wiki/大阪 "wikilink")。而初回限定版C則是附贈特典CD，收錄四首舊歌重新編曲後的錄音室版本\[2\]。
 
 ## 銷售反應
 
-2016年5月30日公布的[Oricon公信榜的週間專輯排行榜中](../Page/Oricon公信榜.md "wikilink")，此專輯發行首週以近6.9萬張的成績取得冠軍，為aiko個人第9張冠軍專輯，亦是連續第3張專輯奪冠\[3\]。
+2016年5月30日公布的[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")的週間專輯排行榜中，此專輯發行首週以近6.9萬張的成績取得冠軍，為aiko個人第9張冠軍專輯，亦是連續第3張專輯奪冠\[3\]。
 
 ## 收錄曲目
 
 全作詞/作曲：AIKO
 編曲：
-M2、M4、M6、M7、M9、M10、M11、M12：[OSTER
-project](../Page/OSTER_project.md "wikilink")
+M2、M4、M6、M7、M9、M10、M11、M12：[OSTER project](../Page/OSTER_project.md "wikilink")
 M1、M3、M8、M13：Kano Kawashima
 
 **CD**
@@ -79,11 +75,8 @@ M1、M3、M8、M13：Kano Kawashima
 
   - [官方網站](http://aiko.com/discography/15012.html)
 
-[Category:aiko音樂專輯](https://zh.wikipedia.org/wiki/Category:aiko音樂專輯 "wikilink")
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:2016年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:aiko音樂專輯](https://zh.wikipedia.org/wiki/Category:aiko音樂專輯 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:2016年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.
-2.  [aiko、5.18新アルバム名は『May Dream』
-    初回盤特典は年越しライブ映像](http://www.oricon.co.jp/news/2070609/full/)
+2.  [aiko、5.18新アルバム名は『May Dream』 初回盤特典は年越しライブ映像](http://www.oricon.co.jp/news/2070609/full/)
 3.  [【オリコン】aiko、3作連続通算9作目のアルバム首位](http://www.oricon.co.jp/news/2072155/full/)

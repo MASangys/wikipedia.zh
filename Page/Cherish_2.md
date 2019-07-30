@@ -1,5 +1,4 @@
-《**Cherish
-2**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[馬浚偉的第](../Page/馬浚偉.md "wikilink")15張唱片，於2014年6月12日推出。
+《**Cherish 2**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[馬浚偉](../Page/馬浚偉.md "wikilink")的第15張唱片，於2014年6月12日推出。
 
 ## 曲目
 
@@ -16,6 +15,4 @@
 
 ## 獎項
 
-[Category:馬浚偉音樂專輯](https://zh.wikipedia.org/wiki/Category:馬浚偉音樂專輯 "wikilink")
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:馬浚偉音樂專輯](https://zh.wikipedia.org/wiki/Category:馬浚偉音樂專輯 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

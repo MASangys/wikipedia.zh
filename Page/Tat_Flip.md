@@ -1,28 +1,18 @@
-**Tat
-Flip樂隊**是一支於1997年成立的香港流行搖滾樂隊，其是[Beyond的第一隊旗下樂隊](../Page/Beyond.md "wikilink")，在1998年至1999年期間[Beyond是Tat](../Page/Beyond.md "wikilink")
-Flip的經理人。\[1\]
+**Tat Flip樂隊**是一支於1997年成立的香港流行搖滾樂隊，其是[Beyond](../Page/Beyond.md "wikilink")的第一隊旗下樂隊，在1998年至1999年期間[Beyond](../Page/Beyond.md "wikilink")是Tat Flip的經理人。\[1\]
 
-Tat
-Flip在1998年時期參加[蒲窩全港青少年樂隊比賽和](../Page/蒲窩青少年中心.md "wikilink")[嘉士伯流行音樂節兩個香港大型樂隊比賽](../Page/嘉士伯.md "wikilink")，兩個比賽都分別勝出。\[2\]
+Tat Flip在1998年時期參加[蒲窩全港青少年樂隊比賽和](../Page/蒲窩青少年中心.md "wikilink")[嘉士伯](../Page/嘉士伯.md "wikilink")流行音樂節兩個香港大型樂隊比賽，兩個比賽都分別勝出。\[2\]
 
-樂隊經過幾次人事變動，在1998年至1999年期間，成員人數有四名，主音羅家文 (Jan)及低音結他手高耀豐在1999年離隊。低音結他手曾懷恩
-(Ryan)1999年加入後,在2004年離隊。 2013年低音結他手陳嘉穗 (Kay) 加入至今。\[3\]\[4\]
+樂隊經過幾次人事變動，在1998年至1999年期間，成員人數有四名，主音羅家文 (Jan)及低音結他手高耀豐在1999年離隊。低音結他手曾懷恩 (Ryan)1999年加入後,在2004年離隊。 2013年低音結他手陳嘉穗 (Kay) 加入至今。\[3\]\[4\]
 
 ## 名稱由來
 
-Tat Flip他們喜歡踩滑板，而“Flip”是踩滑板的一種花式，所以Tat
-Flip用“Flip”這個字，“Tat”是相等於“that”，很多人們經常將“Tat
-Flip”讀錯為“Dak Flip”。
+Tat Flip他們喜歡踩滑板，而“Flip”是踩滑板的一種花式，所以Tat Flip用“Flip”這個字，“Tat”是相等於“that”，很多人們經常將“Tat Flip”讀錯為“Dak Flip”。
 
 ## 樂隊風格
 
-  - 1998年至1999年：四人時期 （Jan，嘉威，高豐，嘉榮）——[Rap](../Page/饒舌.md "wikilink") 、
-    Hardcore Rap
-  - 1999年至2004年：三人時期
-    （嘉威，懷恩，嘉榮）——Rap、[Metal](../Page/重金属音乐.md "wikilink")
-    、Melodic Rock
-  - 2013年至今：三人時期 （嘉威，嘉穗，嘉榮）—— Pop、Pop
-    Rock、[Funk](../Page/放克.md "wikilink")、Rap
+  - 1998年至1999年：四人時期 （Jan，嘉威，高豐，嘉榮）——[Rap](../Page/饒舌.md "wikilink") 、 Hardcore Rap
+  - 1999年至2004年：三人時期 （嘉威，懷恩，嘉榮）——Rap、[Metal](../Page/重金属音乐.md "wikilink") 、Melodic Rock
+  - 2013年至今：三人時期 （嘉威，嘉穗，嘉榮）—— Pop、Pop Rock、[Funk](../Page/放克.md "wikilink")、Rap
 
 ## 作品
 
@@ -173,19 +163,14 @@ Flip”讀錯為“Dak Flip”。
 
 ## 獎項
 
-  - 1998年，嘉士伯流行音樂節比賽，原創歌曲《Damn Fool》金獎
-    ，改編歌曲《叱吒勁歌金曲》([軟硬天師](../Page/軟硬天師.md "wikilink"))金獎。
-  - 1998年，[蒲窩全港青少年樂隊比賽](../Page/蒲窩青少年中心.md "wikilink")，原創歌曲《Damn
-    Fool》金獎，改編歌曲《叱吒勁歌金曲》([軟硬天師](../Page/軟硬天師.md "wikilink"))金獎。
+  - 1998年，嘉士伯流行音樂節比賽，原創歌曲《Damn Fool》金獎 ，改編歌曲《叱吒勁歌金曲》([軟硬天師](../Page/軟硬天師.md "wikilink"))金獎。
+  - 1998年，[蒲窩全港青少年樂隊比賽](../Page/蒲窩青少年中心.md "wikilink")，原創歌曲《Damn Fool》金獎，改編歌曲《叱吒勁歌金曲》([軟硬天師](../Page/軟硬天師.md "wikilink"))金獎。
   - 1999年，[商業電台](../Page/香港商業電台.md "wikilink")[叱吒903](../Page/叱咤903.md "wikilink")(組Band時間)第二屆組Band選舉，最受歡迎樂隊銀獎，最受歡迎結他手銀獎，最受歡迎鼓手銀獎，最受歡迎主音銅獎。
-  - 2003年，[Neway與你鋒狂千人Jam比賽](../Page/Neway.md "wikilink")，改編歌曲
-    ([謝霆鋒](../Page/謝霆鋒.md "wikilink"))《第二世》金獎。
+  - 2003年，[Neway](../Page/Neway.md "wikilink")與你鋒狂千人Jam比賽，改編歌曲 ([謝霆鋒](../Page/謝霆鋒.md "wikilink"))《第二世》金獎。
 
 ## 參考資料
 
-[Category:1997年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1997年成立的音樂團體 "wikilink")
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
-[Category:Beyond](https://zh.wikipedia.org/wiki/Category:Beyond "wikilink")
+[Category:1997年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1997年成立的音樂團體 "wikilink") [Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:Beyond](https://zh.wikipedia.org/wiki/Category:Beyond "wikilink")
 
 1.
 2.

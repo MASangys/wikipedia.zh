@@ -2,15 +2,13 @@
 
 ## 早期生活
 
-賽勒出生於[佛羅里達州的](https://zh.wikipedia.org/wiki/佛羅里達州 "wikilink")[傑克遜維爾](https://zh.wikipedia.org/wiki/傑克遜維爾_\(佛羅里達州\) "wikilink")。母親卡蒂娜（Katina）是名廚師，而父親倫納德·賽勒（Ronald
-Cyler）則是名卡車司機\[1\]。
+賽勒出生於[佛羅里達州的](https://zh.wikipedia.org/wiki/佛羅里達州 "wikilink")[傑克遜維爾](https://zh.wikipedia.org/wiki/傑克遜維爾_\(佛羅里達州\) "wikilink")。母親卡蒂娜（Katina）是名廚師，而父親倫納德·賽勒（Ronald Cyler）則是名卡車司機\[1\]。
 
 ## 職業生涯
 
-賽勒於2013年最初在短片《*Second
-Chances*》中參演\[2\]。2015年，他在[艾方索·戈梅茲-雷瓊所執導的電影](../Page/艾方索·戈梅茲-雷瓊.md "wikilink")《[我們的故事未完待續](../Page/我們的故事未完待續.md "wikilink")》中展現了突破性的演出，該片改編自的同名小說。電影於2015年1月25日在[日舞影展上首映](https://zh.wikipedia.org/wiki/日舞影展 "wikilink")，並於2015年6月12日在美國上映\[3\]。2015年10月23日，賽勒加入改編自電視劇《[金剛戰士](../Page/金剛戰士.md "wikilink")》的[重啟版電影中](https://zh.wikipedia.org/wiki/金剛戰士_\(2017年電影\) "wikilink")，飾演\[4\]\[5\]\[6\]。該片定於2017年上映。
+賽勒於2013年最初在短片《*Second Chances*》中參演\[2\]。2015年，他在[艾方索·戈梅茲-雷瓊](../Page/艾方索·戈梅茲-雷瓊.md "wikilink")所執導的電影《[我們的故事未完待續](../Page/我們的故事未完待續.md "wikilink")》中展現了突破性的演出，該片改編自的同名小說。電影於2015年1月25日在[日舞影展上首映](https://zh.wikipedia.org/wiki/日舞影展 "wikilink")，並於2015年6月12日在美國上映\[3\]。2015年10月23日，賽勒加入改編自電視劇《[金剛戰士](../Page/金剛戰士.md "wikilink")》的[重啟版電影中](https://zh.wikipedia.org/wiki/金剛戰士_\(2017年電影\) "wikilink")，飾演\[4\]\[5\]\[6\]。該片定於2017年上映。
 
-2016年，他在[HBO電視劇](../Page/HBO.md "wikilink")《[副校長的逆襲](../Page/副校長的逆襲.md "wikilink")》中參演。
+2016年，他在[HBO](../Page/HBO.md "wikilink")電視劇《[副校長的逆襲](../Page/副校長的逆襲.md "wikilink")》中參演。
 
 ## 作品列表
 
@@ -85,18 +83,9 @@ Chances*》中參演\[2\]。2015年，他在[艾方索·戈梅茲-雷瓊所執�
 ## 外部連結
 
   -
-[Category:1995年出生](https://zh.wikipedia.org/wiki/Category:1995年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:美國電影男演員](https://zh.wikipedia.org/wiki/Category:美國電影男演員 "wikilink")
-[Category:美國電視男演員](https://zh.wikipedia.org/wiki/Category:美國電視男演員 "wikilink")
-[Category:非洲裔美國男演員](https://zh.wikipedia.org/wiki/Category:非洲裔美國男演員 "wikilink")
-[Category:21世纪美国男演员](https://zh.wikipedia.org/wiki/Category:21世纪美国男演员 "wikilink")
-[Category:非洲裔美國人](https://zh.wikipedia.org/wiki/Category:非洲裔美國人 "wikilink")
+[Category:1995年出生](https://zh.wikipedia.org/wiki/Category:1995年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:美國電影男演員](https://zh.wikipedia.org/wiki/Category:美國電影男演員 "wikilink") [Category:美國電視男演員](https://zh.wikipedia.org/wiki/Category:美國電視男演員 "wikilink") [Category:非洲裔美國男演員](https://zh.wikipedia.org/wiki/Category:非洲裔美國男演員 "wikilink") [Category:21世纪美国男演员](https://zh.wikipedia.org/wiki/Category:21世纪美国男演员 "wikilink") [Category:非洲裔美國人](https://zh.wikipedia.org/wiki/Category:非洲裔美國人 "wikilink")
 
-1.  [How ‘Me and Earl and the Dying Girl’ star RJ Cyler went from
-    homeless to
-    Hollywood](http://www.thestar.com/entertainment/movies/2015/06/08/how-me-and-earl-and-the-dying-girl-star-rj-cyler-went-from-homeless-to-hollywood.html).
-    \[2015-6-8\].
+1.  [How ‘Me and Earl and the Dying Girl’ star RJ Cyler went from homeless to Hollywood](http://www.thestar.com/entertainment/movies/2015/06/08/how-me-and-earl-and-the-dying-girl-star-rj-cyler-went-from-homeless-to-hollywood.html). \[2015-6-8\].
 
 2.  <http://staticmultimedia.com/movies/movie-facts-me-and-earl-and-the-dying-girl>
 

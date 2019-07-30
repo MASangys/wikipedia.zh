@@ -1,18 +1,14 @@
-是在2012年7月27日由[Yatagarasu發售的](https://zh.wikipedia.org/wiki/Yatagarasu "wikilink")[Windows版](https://zh.wikipedia.org/wiki/Windows "wikilink")[18禁](../Page/日本成人遊戲.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。而[PlayStation
-Vita版](../Page/PlayStation_Vita.md "wikilink")《**古色迷宮輪舞曲 ～La Roue de
-fortune～**》則於2013年9月26日發售。
+是在2012年7月27日由[Yatagarasu發售的](https://zh.wikipedia.org/wiki/Yatagarasu "wikilink")[Windows版](https://zh.wikipedia.org/wiki/Windows "wikilink")[18禁](../Page/日本成人遊戲.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。而[PlayStation Vita版](../Page/PlayStation_Vita.md "wikilink")《**古色迷宮輪舞曲 ～La Roue de fortune～**》則於2013年9月26日發售。
 
 ## 概要
 
 [Yatagarasu的第四部作品](https://zh.wikipedia.org/wiki/Yatagarasu "wikilink")。本作品遊玩系統以選擇關鍵字代替一般用的選項，關鍵字為劇情進程中文本的紅色字，加上有命運度的限制(任何一人命運歸0則強制回滚游戏进程，劇情需要而歸0除外)，而且不能自由读档、存档。而該作品亦因它的難易度十分高而成為話題。 \[1\]此外，該遊戲獲選為《[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")》2012年的金獎。
 
-[PSV版本於](https://zh.wikipedia.org/wiki/PSV "wikilink")2012年12月14日公布將會發售\[2\]。其後於2013年6月24日公布『古色迷宮輪舞曲
-〜La Roue de fortune〜』將於2013年9月26日發售\[3\]。當中的追加要素為劇情中的事件CG和改善遊戲系統\[4\]。
+[PSV版本於](https://zh.wikipedia.org/wiki/PSV "wikilink")2012年12月14日公布將會發售\[2\]。其後於2013年6月24日公布『古色迷宮輪舞曲 〜La Roue de fortune〜』將於2013年9月26日發售\[3\]。當中的追加要素為劇情中的事件CG和改善遊戲系統\[4\]。
 
 ## 簡介
 
-名波行人因為生活費拮据而決定去紅茶店「童話森林」打工。就在錄取後的第一天，收到一個不明的大木箱，和打工的同事戰戰兢兢打箱子開後，裡面居然是個銀髮紅眼穿著如童話的少女(SAKI)「
-名波行人，你經歴過這事像多少回了？」少女如此問到。「若然不能平息命運之輪的狂亂，命運之輪裡的所有人將遇上不幸，而你亦不能擺脱於一週後死亡的命運。」她預言到。雖然很想當作玩笑話而置之不理，但周遭漸漸發生的一些奇怪現象卻不容人忽視，真正的真相到底是什麼呢？
+名波行人因為生活費拮据而決定去紅茶店「童話森林」打工。就在錄取後的第一天，收到一個不明的大木箱，和打工的同事戰戰兢兢打箱子開後，裡面居然是個銀髮紅眼穿著如童話的少女(SAKI)「 名波行人，你經歴過這事像多少回了？」少女如此問到。「若然不能平息命運之輪的狂亂，命運之輪裡的所有人將遇上不幸，而你亦不能擺脱於一週後死亡的命運。」她預言到。雖然很想當作玩笑話而置之不理，但周遭漸漸發生的一些奇怪現象卻不容人忽視，真正的真相到底是什麼呢？
 
 ## 角色
 
@@ -36,8 +32,7 @@ fortune～**》則於2013年9月26日發售。
 
   - 姫野 美月（ひめの みつき）
     聲優： 鈴音華月 / 飯野ユウ
-    行人就讀的學園的學姐。
-    被視為學園中的不良分子，有吸煙的習慣。在「紅茶館・童話之森」兼職工作。會因為雙胞胎妹妹姫野美星的事而突然性格大變。
+    行人就讀的學園的學姐。 被視為學園中的不良分子，有吸煙的習慣。在「紅茶館・童話之森」兼職工作。會因為雙胞胎妹妹姫野美星的事而突然性格大變。
 
 <!-- end list -->
 
@@ -49,7 +44,7 @@ fortune～**》則於2013年9月26日發售。
 
   - 姫野 美星（ひめの みほし）
     聲優：鈴音華月 / 飯野ユウ
-    姫野美月的雙胞胎妹妹。[無口屬性](../Page/無口.md "wikilink")。不熟悉與男性相處。
+    姫野美月的雙胞胎妹妹。[無口](../Page/無口.md "wikilink")屬性。不熟悉與男性相處。
 
 <!-- end list -->
 
@@ -71,8 +66,7 @@ fortune～**》則於2013年9月26日發售。
 
 ## 主題曲
 
-PC版主題曲为《La Conseil》，由tohko作詞演唱，椎名俊介作曲、編曲。\[5\]PlayStation
-Vita版主題曲《迷宮之輪舞曲》由天道紅緒作曲、作詞、編曲，绫莱理惠演唱。\[6\]
+PC版主題曲为《La Conseil》，由tohko作詞演唱，椎名俊介作曲、編曲。\[5\]PlayStation Vita版主題曲《迷宮之輪舞曲》由天道紅緒作曲、作詞、編曲，绫莱理惠演唱。\[6\]
 
 ## 工作人員
 
@@ -87,8 +81,7 @@ Vita版主題曲《迷宮之輪舞曲》由天道紅緒作曲、作詞、編曲�
 
 ## 評價
 
-本作在「[萌えゲーアワード](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")2012」中獲得程式獎的金獎。\[7\]另外PlayStation
-Vita版在《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")》1294号的クロスレビュー中獲得29/40評分。\[8\]
+本作在「[萌えゲーアワード](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")2012」中獲得程式獎的金獎。\[7\]另外PlayStation Vita版在《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")》1294号的クロスレビュー中獲得29/40評分。\[8\]
 
 ## 參考資料
 
@@ -98,12 +91,7 @@ Vita版在《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink
   - [Psvita版本的官方網站](http://www.yetigame.jp/huruiro/)
   - [古色迷宮輪舞曲的官方網站](https://web.archive.org/web/20160605065731/http://www.yatanootori.com/yatagarasu/product/furuiro/)
 
-[Category:2012年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2012年日本成人遊戲 "wikilink")
-[Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:平行世界题材游戏](https://zh.wikipedia.org/wiki/Category:平行世界题材游戏 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
+[Category:2012年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2012年日本成人遊戲 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:平行世界题材游戏](https://zh.wikipedia.org/wiki/Category:平行世界题材游戏 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
 
 1.
 2.

@@ -1,27 +1,22 @@
-「**LoveLive\! μ's Go→Go\! LoveLive\! 2015 〜Dream
-Sensation\!〜**」是[μ's在](https://zh.wikipedia.org/wiki/μ's "wikilink")2015年1月31日和2月1日於[埼玉超級體育館舉辦的演唱會](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")，並於2015年9月30日發售收錄演唱會的[藍光光碟與](../Page/藍光光碟.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+「**LoveLive\! μ's Go→Go\! LoveLive\! 2015 〜Dream Sensation\!〜**」是[μ's在](https://zh.wikipedia.org/wiki/μ's "wikilink")2015年1月31日和2月1日於[埼玉超級體育館舉辦的演唱會](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")，並於2015年9月30日發售收錄演唱會的[藍光光碟](../Page/藍光光碟.md "wikilink")與[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 概要
 
-總共發售了4個作品。有收錄了1月31日內容的『Day1』、以及2月1日的『Day2』，分別以[藍光光碟和DVD發售](../Page/藍光光碟.md "wikilink")，亦發售同時收錄兩日內容的[藍光光碟](../Page/藍光光碟.md "wikilink")『Blu-ray
-Memorial BOX』。
+總共發售了4個作品。有收錄了1月31日內容的『Day1』、以及2月1日的『Day2』，分別以[藍光光碟](../Page/藍光光碟.md "wikilink")和DVD發售，亦發售同時收錄兩日內容的[藍光光碟](../Page/藍光光碟.md "wikilink")『Blu-ray Memorial BOX』。
 
 8月29日公開了試聽動畫，Memorial BOX的外盒設計也首次曝光。
 
-2016年3月13日與3月20日的「μ's 感謝計畫 〜Road to μ'sic
-Forever〜」中，在全日本的電影院播出了演唱會的劇場特別版
-。
+2016年3月13日與3月20日的「μ's 感謝計畫 〜Road to μ'sic Forever〜」中，在全日本的電影院播出了演唱會的劇場特別版 。
 
 ## 榜單成績
 
-2015年9月29日在[Oricon公信榜的BD每日排行中得到冠軍](../Page/Oricon公信榜.md "wikilink")，並維持到隔週的10月5日。
+2015年9月29日在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")的BD每日排行中得到冠軍，並維持到隔週的10月5日。
 
-2015年10月12日止共賣出4.9萬份，獲得了[Oricon公信榜上BD總和與BD音樂每周排名第一名](../Page/Oricon公信榜.md "wikilink")\[1\]。是動漫音樂作品得到的最高成績。
+2015年10月12日止共賣出4.9萬份，獲得了[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")上BD總和與BD音樂每周排名第一名\[1\]。是動漫音樂作品得到的最高成績。
 
-它也是從「[μ's Best Album Best Live\! collection
-II](https://zh.wikipedia.org/wiki/μ's_Best_Album_Best_Live!_collection_II "wikilink")」以來，首次獲得Oricon每周排名冠軍。
+它也是從「[μ's Best Album Best Live\! collection II](https://zh.wikipedia.org/wiki/μ's_Best_Album_Best_Live!_collection_II "wikilink")」以來，首次獲得Oricon每周排名冠軍。
 
-在此之後，2015年共售出57,971份，於[Oricon公信榜年度BD音樂排名獲得第七名](../Page/Oricon公信榜.md "wikilink")\[2\]。
+在此之後，2015年共售出57,971份，於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")年度BD音樂排名獲得第七名\[2\]。
 
 ## 收錄曲目（Day1）
 
@@ -59,8 +54,7 @@ II](https://zh.wikipedia.org/wiki/μ's_Best_Album_Best_Live!_collection_II "wiki
 
 :\# Love wing bell
 
-:\#\*
-歌：星空凜（飯田里穗）、西木野真姫（Pile）、小泉花陽（久保由利香）­、絢瀨繪里（南條愛乃）、東條希（楠田亞衣奈）、矢澤日香（德井青空）
+:\#\* 歌：星空凜（飯田里穗）、西木野真姫（Pile）、小泉花陽（久保由利香）­、絢瀨繪里（南條愛乃）、東條希（楠田亞衣奈）、矢澤日香（德井青空）
 
 :\# MC3
 
@@ -172,8 +166,7 @@ II](https://zh.wikipedia.org/wiki/μ's_Best_Album_Best_Live!_collection_II "wiki
 
 :\# ラブライブ！μ's音樂的軌跡 Part2
 
-:\#「ラブライブ！μ's Go→Go\! LoveLive！2015～Dream Sensation\!～ 」Encore動畫
-0131Ver.
+:\#「ラブライブ！μ's Go→Go\! LoveLive！2015～Dream Sensation\!～ 」Encore動畫 0131Ver.
 
 ## 收錄曲目（Day2）
 
@@ -239,8 +232,7 @@ II](https://zh.wikipedia.org/wiki/μ's_Best_Album_Best_Live!_collection_II "wiki
 
 :\# Love wing bell
 
-:\#\*
-歌：星空凜（飯田里穗）、西木野真姫（Pile）、小泉花陽（久保由利香）、絢瀨繪里（南條愛乃）、東條希（楠田亞衣奈）、矢澤日香（德井青空）
+:\#\* 歌：星空凜（飯田里穗）、西木野真姫（Pile）、小泉花陽（久保由利香）、絢瀨繪里（南條愛乃）、東條希（楠田亞衣奈）、矢澤日香（德井青空）
 
 :\# MC3
 
@@ -324,14 +316,11 @@ II](https://zh.wikipedia.org/wiki/μ's_Best_Album_Best_Live!_collection_II "wiki
 
 :\# LoveLive！μ's音樂的軌跡 Part2
 
-:\# 「LoveLive！μ's Go→Go\! LoveLive！2015～Dream Sensation\!～ 」 Encore動畫
-0201Ver.
+:\# 「LoveLive！μ's Go→Go\! LoveLive！2015～Dream Sensation\!～ 」 Encore動畫 0201Ver.
 
 ## 電視播放
 
-[WOWOW Live的](../Page/WOWOW.md "wikilink")「LoveLive！ μ's Go→Go\!
-LoveLive\! 2015 ～Dream Sensation\!～ WOWOW特別編輯版」於2016年2月17日20:45 -
-18日1:50（日本時間）播放。
+[WOWOW Live的](../Page/WOWOW.md "wikilink")「LoveLive！ μ's Go→Go\! LoveLive\! 2015 ～Dream Sensation\!～ WOWOW特別編輯版」於2016年2月17日20:45 - 18日1:50（日本時間）播放。
 
   - 播放曲目
 
@@ -417,17 +406,13 @@ LoveLive\! 2015 ～Dream Sensation\!～ WOWOW特別編輯版」於2016年2月17�
 ## 外部連結
 
   - Lantis的介紹頁面
-      - [Blu-ray Memorial
-        BOX](http://lantis.jp/release-item/LABX-8110.html)
+      - [Blu-ray Memorial BOX](http://lantis.jp/release-item/LABX-8110.html)
       - [Blu-ray Day1](http://lantis.jp/release-item/LABX-8114.html)
       - [Blu-ray Day2](http://lantis.jp/release-item/LABX-8116.html)
       - [DVD Day1](http://lantis.jp/release-item/LABM-7170.html)
       - [DVD Day2](http://lantis.jp/release-item/LABM-7172.html)
 
-[Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")
-[Category:2015年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2015年音樂相關影像作品 "wikilink")
-[Category:動畫音樂會](https://zh.wikipedia.org/wiki/Category:動畫音樂會 "wikilink")
-[Category:WOWOW節目](https://zh.wikipedia.org/wiki/Category:WOWOW節目 "wikilink")
+[Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink") [Category:2015年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2015年音樂相關影像作品 "wikilink") [Category:動畫音樂會](https://zh.wikipedia.org/wiki/Category:動畫音樂會 "wikilink") [Category:WOWOW節目](https://zh.wikipedia.org/wiki/Category:WOWOW節目 "wikilink")
 
 1.
 2.

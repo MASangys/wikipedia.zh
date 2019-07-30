@@ -1,13 +1,10 @@
-《**Fantastic
-Duo：我手中的歌手**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台](../Page/SBS_\(韓國\).md "wikilink")《[星期天真好](../Page/星期天真好.md "wikilink")》一部的綜藝節目，於2016年2月9日試播，第一季於4月17日起逢[韓國時間星期日下午](https://zh.wikipedia.org/wiki/韓國 "wikilink")4時50分開始播放，每集約100分鐘，由[全炫茂擔任主持](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")\[1\]。10月26日，SBS電視台方面表示，綜藝節目《Fantastic
-Duo：我手中的歌手》將於11月20日播出最後一集\[2\]。2017年2月8日，SBS電視台方面表示，綜藝節目《Fantastic
-Duo：我手中的歌手》將於四月中旬播出第二季\[3\]，MC由[全炫茂繼續接任主持](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")\[4\]。
+《**Fantastic Duo：我手中的歌手**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台](../Page/SBS_\(韓國\).md "wikilink")《[星期天真好](../Page/星期天真好.md "wikilink")》一部的綜藝節目，於2016年2月9日試播，第一季於4月17日起逢[韓國時間星期日下午](https://zh.wikipedia.org/wiki/韓國 "wikilink")4時50分開始播放，每集約100分鐘，由[全炫茂擔任主持](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")\[1\]。10月26日，SBS電視台方面表示，綜藝節目《Fantastic Duo：我手中的歌手》將於11月20日播出最後一集\[2\]。2017年2月8日，SBS電視台方面表示，綜藝節目《Fantastic Duo：我手中的歌手》將於四月中旬播出第二季\[3\]，MC由[全炫茂繼續接任主持](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")\[4\]。
 
 ## 節目形式
 
 每集共有3\~4位歌手進行競演，而每位歌手都必須在眾多申請者中選出一位拍擋，以便於決賽舞台中進行二重唱競演。一般觀眾挑選希望能夠合唱的歌手後，需要上載其對唱視頻至手機[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")「everySing」，才可成為正式的申請者。而節目組會從首輪眾人當中選出5\~10名申請者以進入次回合；在次回合的申請者，其申請時之部份視頻會在正規節目中播放；而在次回合之數人當中，只有三名申請者能夠進入第三回合，並得到出演節目的邀請。及後此三名參賽者會在歌手面前，進行初印象及1：3對決舞台以爭奪與歌手合唱之機會。
 
-優勝組合可登上FD王座及取得獎金一千萬韓元，並需要繼續出演該節目直到五連勝或遭到淘汰為止。另獲勝隊伍在決賽舞台中的合唱歌曲，均會以單曲的形式發行，而此曲之[著作權能夠維持至往後的](../Page/著作權.md "wikilink")70年（由成功登記後一刻起計算）以及會被[韓國法律所保護](https://zh.wikipedia.org/wiki/韓國法律 "wikilink")。為保障獲勝的參賽者們能夠得到稅收，[SBS會為他們登記為](../Page/SBS_\(韓國\).md "wikilink")的一員，及後他們會自動享有作為韓國歌手的專利。
+優勝組合可登上FD王座及取得獎金一千萬韓元，並需要繼續出演該節目直到五連勝或遭到淘汰為止。另獲勝隊伍在決賽舞台中的合唱歌曲，均會以單曲的形式發行，而此曲之[著作權](../Page/著作權.md "wikilink")能夠維持至往後的70年（由成功登記後一刻起計算）以及會被[韓國法律所保護](https://zh.wikipedia.org/wiki/韓國法律 "wikilink")。為保障獲勝的參賽者們能夠得到稅收，[SBS會為他們登記為](../Page/SBS_\(韓國\).md "wikilink")的一員，及後他們會自動享有作為韓國歌手的專利。
 
 ### 1：3對決舞台
 
@@ -15,8 +12,7 @@ Duo：我手中的歌手》將於四月中旬播出第二季\[3\]，MC由[全炫
 
 ### 決賽舞台
 
-當每位歌手均選出各自的Fantastic
-Duo後，便會開始二人組合之間的最終競演。每隊的舞台完結後會由現場觀眾進行評分，在300名觀眾中取得最高票數（分數）的組合便能成為當晚的優勝者。
+當每位歌手均選出各自的Fantastic Duo後，便會開始二人組合之間的最終競演。每隊的舞台完結後會由現場觀眾進行評分，在300名觀眾中取得最高票數（分數）的組合便能成為當晚的優勝者。
 
 ## 固定嘉賓
 
@@ -1833,7 +1829,7 @@ Sea Of Love</p></td>
 <th><p>順序</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/金健模" title="wikilink">金健模組</a></p></th>
 <th><p>VS</p></th>
-<th><p><a href="../Page/金範洙.md" title="wikilink">金範洙組</a></p></th>
+<th><p><a href="../Page/金範洙.md" title="wikilink">金範洙</a>組</p></th>
 </tr>
 </thead>
 <tbody>
@@ -2084,8 +2080,7 @@ Maria </p></td>
   - [第一季官方網站](http://program.sbs.co.kr/builder/programMainList.do?pgm_id=22000008979)
   - [Everysing](http://www.everysing.com/singwithstar.sm)
 
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
+[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
 
 1.
 2.

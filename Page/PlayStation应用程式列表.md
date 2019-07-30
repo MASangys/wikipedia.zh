@@ -1,5 +1,4 @@
-目前可通過[PlayStation
-Network](../Page/PlayStation_Network.md "wikilink")（PSN）下载的[PlayStation的](../Page/PlayStation.md "wikilink")[应用程序](../Page/应用程序.md "wikilink")。
+目前可通過[PlayStation Network](../Page/PlayStation_Network.md "wikilink")（PSN）下载的[PlayStation](../Page/PlayStation.md "wikilink")的[应用程序](../Page/应用程序.md "wikilink")。
 
 ### 便携式平台 与 PC
 
@@ -1452,56 +1451,30 @@ Network](../Page/PlayStation_Network.md "wikilink")（PSN）下载的[PlayStatio
 
 ## 参考资料
 
-[Category:软件列表](https://zh.wikipedia.org/wiki/Category:软件列表 "wikilink")
-[Category:PlayStation_3](https://zh.wikipedia.org/wiki/Category:PlayStation_3 "wikilink")
-[Category:PlayStation_4](https://zh.wikipedia.org/wiki/Category:PlayStation_4 "wikilink")
-[Category:PlayStation_Network](https://zh.wikipedia.org/wiki/Category:PlayStation_Network "wikilink")
-[Category:PlayStation_Vita](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita "wikilink")
+[Category:软件列表](https://zh.wikipedia.org/wiki/Category:软件列表 "wikilink") [Category:PlayStation_3](https://zh.wikipedia.org/wiki/Category:PlayStation_3 "wikilink") [Category:PlayStation_4](https://zh.wikipedia.org/wiki/Category:PlayStation_4 "wikilink") [Category:PlayStation_Network](https://zh.wikipedia.org/wiki/Category:PlayStation_Network "wikilink") [Category:PlayStation_Vita](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita "wikilink")
 
-1.  John Koller. [PlayStation Messages App Coming to iOS and Android
-    Devices
-    Today](https://blog.us.playstation.com/2015/12/07/playstation-messages-app-coming-to-ios-and-android-devices-today/),
-    PlayStation Blog, December 7, 2015.
+1.  John Koller. [PlayStation Messages App Coming to iOS and Android Devices Today](https://blog.us.playstation.com/2015/12/07/playstation-messages-app-coming-to-ios-and-android-devices-today/), PlayStation Blog, December 7, 2015.
 
 2.
-3.  Nick Healey. [ABC iview and Plus7 now available on
-    PS4](https://www.cnet.com/au/news/abc-iview-and-plus7-now-available-on-ps4/),
-    cnet.com, 18 December, 2014.
+3.  Nick Healey. [ABC iview and Plus7 now available on PS4](https://www.cnet.com/au/news/abc-iview-and-plus7-now-available-on-ps4/), cnet.com, 18 December, 2014.
 
-4.  Nick Pino. [15 PS4 apps you need to
-    download](http://www.techradar.com/news/gaming/best-ps4-apps-10-ps4-apps-you-need-to-download-1290687),
-    techradar.com, January 11, 2017.
+4.  Nick Pino. [15 PS4 apps you need to download](http://www.techradar.com/news/gaming/best-ps4-apps-10-ps4-apps-you-need-to-download-1290687), techradar.com, January 11, 2017.
 
-5.  Sergio Figueroa. [Descarga la app de Bein Connect en PS4 para ver
-    Liga y
-    Champions](https://www.gamereactor.es/noticias/444583/Descarga+la+app+de+Bein+Connect+en+PS4+para+ver+Liga+y+Champions/),
-    gamereactor.es, October 19, 2017.
+5.  Sergio Figueroa. [Descarga la app de Bein Connect en PS4 para ver Liga y Champions](https://www.gamereactor.es/noticias/444583/Descarga+la+app+de+Bein+Connect+en+PS4+para+ver+Liga+y+Champions/), gamereactor.es, October 19, 2017.
 
-6.  Brittany Roston. [CBS All Access for PlayStation 4 now
-    available](http://www.slashgear.com/cbs-all-access-for-playstation-4-now-available-11459627/),
-    slashgear.com, October 11, 2016.
+6.  Brittany Roston. [CBS All Access for PlayStation 4 now available](http://www.slashgear.com/cbs-all-access-for-playstation-4-now-available-11459627/), slashgear.com, October 11, 2016.
 
 7.
-8.  Brittany Roston. [The best free Netflix alternatives you've never
-    heard
-    of](https://www.slashgear.com/the-best-free-netflix-alternatives-youve-never-heard-of-mid-2017-23489358/),
-    slashgear.com, June 23, 2017.
+8.  Brittany Roston. [The best free Netflix alternatives you've never heard of](https://www.slashgear.com/the-best-free-netflix-alternatives-youve-never-heard-of-mid-2017-23489358/), slashgear.com, June 23, 2017.
 
 9.
 10.
-11. Dwayne Benefield. [PS Vue: HBO, Cinemax, New Ultra Plan Arrive
-    Today](http://blog.us.playstation.com/2016/09/29/ps-vue-hbo-cinemax-new-ultra-plan-arrive-today/),
-    playstation.com, September 29, 2016.
+11. Dwayne Benefield. [PS Vue: HBO, Cinemax, New Ultra Plan Arrive Today](http://blog.us.playstation.com/2016/09/29/ps-vue-hbo-cinemax-new-ultra-plan-arrive-today/), playstation.com, September 29, 2016.
 
 12.
-13. Janko Roettgers. [Vevo and MUBI Launch Video Apps on Sony's
-    PlayStation 4](https://variety.com/2016/digital/news/vevo-mubi-ps4-apps-1201786824/),
-    variety.com, June 1, 2016.
+13. Janko Roettgers. [Vevo and MUBI Launch Video Apps on Sony's PlayStation 4](https://variety.com/2016/digital/news/vevo-mubi-ps4-apps-1201786824/), variety.com, June 1, 2016.
 
-14. NBC Sports Group Pressbox. [NBC Sports App Now Available For
-    Download On
-    PS4](http://nbcsportsgrouppressbox.com/2018/06/14/nbc-sports-app-now-available-for-download-on-playstation4/),
-    nbcsportsgrouppressbox.com, June 14, 2018.
+14. NBC Sports Group Pressbox. [NBC Sports App Now Available For Download On PS4](http://nbcsportsgrouppressbox.com/2018/06/14/nbc-sports-app-now-available-for-download-on-playstation4/), nbcsportsgrouppressbox.com, June 14, 2018.
 
 15.
 16.
@@ -1510,19 +1483,12 @@ Network](../Page/PlayStation_Network.md "wikilink")（PSN）下载的[PlayStatio
 19.
 20.
 21.
-22. Luis Bento. [Vive toda la emoción del mejor deporte con esta
-    aplicación exclusiva de
-    PS4](https://blog.es.playstation.com/2016/08/03/disfruta-del-mejor-deporte-en-tu-ps4-con-la-app-de-teledeporte/),
-    playstation.com, August 3, 2016.
+22. Luis Bento. [Vive toda la emoción del mejor deporte con esta aplicación exclusiva de PS4](https://blog.es.playstation.com/2016/08/03/disfruta-del-mejor-deporte-en-tu-ps4-con-la-app-de-teledeporte/), playstation.com, August 3, 2016.
 
 23.
-24. Staff Reporter. [Showmax comes to Sony's PlayStation 4
-    console](https://techcentral.co.za/showmax-comes-sonys-playstation-4-console/77890/),
-    Tech Central, 1 November, 2017.
+24. Staff Reporter. [Showmax comes to Sony's PlayStation 4 console](https://techcentral.co.za/showmax-comes-sonys-playstation-4-console/77890/), Tech Central, 1 November, 2017.
 
-25. [Sportsnet NOW launches on
-    PlayStation 4](https://www.snnow.ca/support/sportsnet-now-launches-playstation-4),
-    snnow.ca, April 2018.
+25. [Sportsnet NOW launches on PlayStation 4](https://www.snnow.ca/support/sportsnet-now-launches-playstation-4), snnow.ca, April 2018.
 
 26.
 27.

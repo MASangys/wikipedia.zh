@@ -1,16 +1,11 @@
-**ALcot**（）是日本CLOVER
-SOFTWARE（）公司旗下的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")。\[1\]該品牌的前身是[同人社團APPLE](https://zh.wikipedia.org/wiki/同人社團 "wikilink")
-project。原本有其他姊妹品牌**ALcot Honey Comb**（）和**ALcot Citrus**（），現在ALcot
-Citrus已併入ALcot Honey Comb。
+**ALcot**（）是日本CLOVER SOFTWARE（）公司旗下的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")。\[1\]該品牌的前身是[同人社團APPLE](https://zh.wikipedia.org/wiki/同人社團 "wikilink") project。原本有其他姊妹品牌**ALcot Honey Comb**（）和**ALcot Citrus**（），現在ALcot Citrus已併入ALcot Honey Comb。
 
 ## 歷史
 
   - 最早ALcot是彩牙公司的旗下品牌，後來彩牙公司變更成CLOVER SOFTWARE公司。
   - 2008年6月發生員工的電腦中毒導致客戶資料和遊戲製作資料流出。\[2\]
-  - 2013年6月6日在網絡電台HiBiKi Radio Station開始播送廣播節目**あるらじ\! そよぎと六花の Radio de
-    ALcot\!**。\[3\]
-  - 2014年10月29日ALcot Honey Comb將**[1/2
-    summer](https://zh.wikipedia.org/wiki/1/2_summer "wikilink")**的官方網站轉移給ブームスタイル公司旗下品牌**GLacé/Galette**使用。\[4\]
+  - 2013年6月6日在網絡電台HiBiKi Radio Station開始播送廣播節目**あるらじ\! そよぎと六花の Radio de ALcot\!**。\[3\]
+  - 2014年10月29日ALcot Honey Comb將**[1/2 summer](https://zh.wikipedia.org/wiki/1/2_summer "wikilink")**的官方網站轉移給ブームスタイル公司旗下品牌**GLacé/Galette**使用。\[4\]
 
 ## 作品列表
 
@@ -41,14 +36,12 @@ Citrus已併入ALcot Honey Comb。
 ### ALcot ハニカム
 
   - 2009年7月24日 クレナイノツキ
-  - 2010年5月28日
-    [實妹相伴的大泉君](../Page/實妹相伴的大泉君.md "wikilink")（リアル妹がいる大泉くんのばあい）
+  - 2010年5月28日 [實妹相伴的大泉君](../Page/實妹相伴的大泉君.md "wikilink")（リアル妹がいる大泉くんのばあい）
   - 2010年7月30日 Vestige -刃に残るは君の面影-
   - 2010年11月26日 キッキングホース★ラプソディ
   - 2011年6月24日 アネイロ
   - 2011年11月25日 春季限定ポコ・ア・ポコ\!
-  - 2012年6月29日 [1/2
-    summer](https://zh.wikipedia.org/wiki/1/2_summer "wikilink")
+  - 2012年6月29日 [1/2 summer](https://zh.wikipedia.org/wiki/1/2_summer "wikilink")
   - 2012年11月30日 あえて無視するキミとの未来 〜Relay broadcast〜
   - 2013年4月26日 Dang\!Dang\!団地妻 -わたしだけの旦那さま♥-
   - 2013年11月29日 赤さんと吸血鬼。
@@ -82,8 +75,5 @@ Citrus已併入ALcot Honey Comb。
 
 1.  [特定商取引法](http://alcot.cart.fc2.com/laws)ALOCT ONLINE SHOP
 2.  [お客様の個人情報及び、ゲーム製作用内部資料流出に関するまとめ](http://www.alcot.biz/drain_report.html)ALcot
-3.  [番組紹介：あるらじ！そよぎと六花の Radio de
-    ALcot！](http://hibiki-radio.jp/description/alcot)HiBiKi Radio
-    Station
-4.  [1/2 summer 移管のお知らせ](http://www.h-comb.biz/product/08/)ALcot Honey
-    Comb
+3.  [番組紹介：あるらじ！そよぎと六花の Radio de ALcot！](http://hibiki-radio.jp/description/alcot)HiBiKi Radio Station
+4.  [1/2 summer 移管のお知らせ](http://www.h-comb.biz/product/08/)ALcot Honey Comb

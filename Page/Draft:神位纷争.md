@@ -16,11 +16,6 @@
 
   - [《神位纷争》国服官方新浪微博](https://weibo.com/ragnania)
 
-[Category:2018年电子游戏](https://zh.wikipedia.org/wiki/Category:2018年电子游戏 "wikilink")
-[Category:Android游戏](https://zh.wikipedia.org/wiki/Category:Android游戏 "wikilink")
-[Category:IOS游戏](https://zh.wikipedia.org/wiki/Category:IOS游戏 "wikilink")
-[Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink")
-[Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink")
+[Category:2018年电子游戏](https://zh.wikipedia.org/wiki/Category:2018年电子游戏 "wikilink") [Category:Android游戏](https://zh.wikipedia.org/wiki/Category:Android游戏 "wikilink") [Category:IOS游戏](https://zh.wikipedia.org/wiki/Category:IOS游戏 "wikilink") [Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink") [Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink")
 
-1.
-    TapTap发现好游戏|accessdate=2018-05-08|work=[TapTap](../Page/TapTap_\(游戏社区\).md "wikilink")}}
+1.   TapTap发现好游戏|accessdate=2018-05-08|work=[TapTap](../Page/TapTap_\(游戏社区\).md "wikilink")}}

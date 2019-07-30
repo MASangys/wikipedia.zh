@@ -1,5 +1,4 @@
-***Phytobaenus amabilis amabilis***為*[Phytobaenus
-amabilis](https://zh.wikipedia.org/wiki/Phytobaenus_amabilis "wikilink")*的指名亞種，屬於[鞘翅目](../Page/鞘翅目.md "wikilink")[偽細頸蟲科](../Page/偽細頸蟲科.md "wikilink")\[1\]。
+***Phytobaenus amabilis amabilis***為*[Phytobaenus amabilis](https://zh.wikipedia.org/wiki/Phytobaenus_amabilis "wikilink")*的指名亞種，屬於[鞘翅目](../Page/鞘翅目.md "wikilink")[偽細頸蟲科](../Page/偽細頸蟲科.md "wikilink")\[1\]。
 
 ## 形態描述
 

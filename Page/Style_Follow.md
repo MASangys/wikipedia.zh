@@ -1,10 +1,8 @@
-《**Style
-Follow**》（，）是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[SBS电视台制作并播出的](../Page/SBS_\(韓國\).md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[秀英與模特兒](../Page/秀英_\(少女時代\).md "wikilink")主持。節目以[美妝為主軸](../Page/化妆.md "wikilink")\[1\]\[2\]。
+《**Style Follow**》（，）是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[SBS电视台制作并播出的](../Page/SBS_\(韓國\).md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[秀英與模特兒](../Page/秀英_\(少女時代\).md "wikilink")主持。節目以[美妝為主軸](../Page/化妆.md "wikilink")\[1\]\[2\]。
 
 ## 主持
 
-  - [秀英](../Page/秀英_\(少女時代\).md "wikilink")
-    ([少女时代](../Page/少女时代.md "wikilink"))
+  - [秀英](../Page/秀英_\(少女時代\).md "wikilink") ([少女时代](../Page/少女时代.md "wikilink"))
 
   -
 ## 播出时段
@@ -38,8 +36,7 @@ Follow**》（，）是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wiki
 
 ## 收視率
 
-以下纪录《**Style
-Follow**》节目之全国收视，<span style=color:red>**红色**</span>表示为该年度最高收视率，<span style=color:blue>**蓝色**</span>则表示为该年度最低收视率。\[3\]\[4\]
+以下纪录《**Style Follow**》节目之全国收视，<span style=color:red>**红色**</span>表示为该年度最高收视率，<span style=color:blue>**蓝色**</span>则表示为该年度最低收视率。\[3\]\[4\]
 
 ### 2017年
 
@@ -57,14 +54,11 @@ Follow**》节目之全国收视，<span style=color:red>**红色**</span>表示
 
 ## 外部連結
 
-  - [Style
-    Follow](http://program.sbs.co.kr/builder/programMainList.do?pgm_id=22000010320)
-    - 官方网站
+  - [Style Follow](http://program.sbs.co.kr/builder/programMainList.do?pgm_id=22000010320) - 官方网站
 
   -
   -
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
 1.
 2.

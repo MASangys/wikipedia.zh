@@ -1,9 +1,8 @@
-《**A New Trilogy**》
-是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Lovelyz的第二張迷你專輯](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，於2016年4月25日发布。该专辑共收入7首歌曲，主打歌曲為〈Destiny〉。
+《**A New Trilogy**》 是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Lovelyz的第二張迷你專輯](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，於2016年4月25日发布。该专辑共收入7首歌曲，主打歌曲為〈Destiny〉。
 
 ## 背景及回歸日程
 
-2016年4月4日，經紀公司[Woollim娛樂向媒體透露](../Page/Woollim娛樂.md "wikilink")：「Lovelyz在为回归做准备中，计划在本月底之前推出新的迷你专辑\[1\]。」
+2016年4月4日，經紀公司[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")向媒體透露：「Lovelyz在为回归做准备中，计划在本月底之前推出新的迷你专辑\[1\]。」
 
 4月5日，官方釋出新三部曲為首的第二張迷你專輯概念照。
 
@@ -11,10 +10,9 @@
 
 4月12日，宣布回归Showcase事项。
 
-4月15日，释出[智秀和](../Page/徐智秀.md "wikilink")[Kei的個人概念照](../Page/Kei.md "wikilink")。
+4月15日，释出[智秀和](../Page/徐智秀.md "wikilink")[Kei](../Page/Kei.md "wikilink")的個人概念照。
 
-4月16日，释出[Baby
-Soul和](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")[智爱的個人概念照](../Page/劉智愛.md "wikilink")。
+4月16日，释出[Baby Soul和](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")[智爱的個人概念照](../Page/劉智愛.md "wikilink")。
 
 4月17日，释出[美珠和](../Page/李美珠.md "wikilink")[洙正的個人概念照](../Page/柳洙正.md "wikilink")。
 
@@ -327,9 +325,7 @@ Soul和](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")[智爱的個人概�
 
 ## 參考資料
 
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:Lovelyz音乐专辑](https://zh.wikipedia.org/wiki/Category:Lovelyz音乐专辑 "wikilink")
-[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
+[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:Lovelyz音乐专辑](https://zh.wikipedia.org/wiki/Category:Lovelyz音乐专辑 "wikilink") [Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
 
 1.
 2.

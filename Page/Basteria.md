@@ -2,8 +2,7 @@
 
 ## 歷任總編輯
 
-  - [Edmund
-    Gittenberger](https://zh.wikipedia.org/wiki/Edmund_Gittenberger "wikilink")：2000年至今\[2\]
+  - [Edmund Gittenberger](https://zh.wikipedia.org/wiki/Edmund_Gittenberger "wikilink")：2000年至今\[2\]
 
   - ：上一任總編輯。
 
@@ -15,9 +14,7 @@
 
   -
   -
-[Category:荷蘭科技](https://zh.wikipedia.org/wiki/Category:荷蘭科技 "wikilink")
-[Category:英語期刊](https://zh.wikipedia.org/wiki/Category:英語期刊 "wikilink")
-[Category:雙月刊](https://zh.wikipedia.org/wiki/Category:雙月刊 "wikilink")
+[Category:荷蘭科技](https://zh.wikipedia.org/wiki/Category:荷蘭科技 "wikilink") [Category:英語期刊](https://zh.wikipedia.org/wiki/Category:英語期刊 "wikilink") [Category:雙月刊](https://zh.wikipedia.org/wiki/Category:雙月刊 "wikilink")
 
 1.
 2.

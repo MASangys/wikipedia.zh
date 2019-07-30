@@ -1,4 +1,4 @@
-**Pinkish**是[日本的女性歌舞組合](../Page/日本.md "wikilink")\[1\]，[埼玉縣](../Page/埼玉縣.md "wikilink")[加須市的](../Page/加須市.md "wikilink")[在地偶像](../Page/在地偶像.md "wikilink")。該組合於2016年停止其活動\[2\]。
+**Pinkish**是[日本](../Page/日本.md "wikilink")的女性歌舞組合\[1\]，[埼玉縣](../Page/埼玉縣.md "wikilink")[加須市](../Page/加須市.md "wikilink")的[在地偶像](../Page/在地偶像.md "wikilink")。該組合於2016年停止其活動\[2\]。
 
 ## 成員
 
@@ -66,17 +66,13 @@
 
 ## 簡介
 
-[日本](../Page/日本.md "wikilink")[埼玉縣](../Page/埼玉縣.md "wikilink")[加須市因曾經出過一位創作](../Page/加須市.md "wikilink")"[七夕](../Page/七夕_\(日本\).md "wikilink")"，"煙火"，"野菊"等[昭和初期著名](../Page/昭和.md "wikilink")[兒歌的作曲家下総皖一](../Page/兒歌.md "wikilink")([Kan'ichi
-Shimofusa](https://zh.wikipedia.org/wiki/w:en:Kan'ichi_Shimofusa "wikilink"),
-1898年3月31日 -
-1962年7月8日)的緣故，遂以「兒歌之鄉」為概念來推動當地文化建設。而Pinkish是2002年9月8日作為兒歌偶像被設立了。Pinkish的目的，是對廣泛的年齡的人們使之普及兒歌，活化本地的文化·土特產產業·觀光產業·體育\[3\]\[4\]。
+[日本](../Page/日本.md "wikilink")[埼玉縣](../Page/埼玉縣.md "wikilink")[加須市](../Page/加須市.md "wikilink")因曾經出過一位創作"[七夕](../Page/七夕_\(日本\).md "wikilink")"，"煙火"，"野菊"等[昭和](../Page/昭和.md "wikilink")初期著名[兒歌](../Page/兒歌.md "wikilink")的作曲家下総皖一([Kan'ichi Shimofusa](https://zh.wikipedia.org/wiki/w:en:Kan'ichi_Shimofusa "wikilink"), 1898年3月31日 - 1962年7月8日)的緣故，遂以「兒歌之鄉」為概念來推動當地文化建設。而Pinkish是2002年9月8日作為兒歌偶像被設立了。Pinkish的目的，是對廣泛的年齡的人們使之普及兒歌，活化本地的文化·土特產產業·觀光產業·體育\[3\]\[4\]。
 
 Pinkish的名稱代表本地特產的草莓以及女性[偶像團體清新的形象喔](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")\[5\]。
 
 ## 在台灣的公演
 
-  - 2011[台北國際電玩展](../Page/台北國際電玩展.md "wikilink")
-    (2011年2月19,20日)\[6\]\[7\]
+  - 2011[台北國際電玩展](../Page/台北國際電玩展.md "wikilink") (2011年2月19,20日)\[6\]\[7\]
   - [開拓動漫祭](../Page/開拓動漫祭.md "wikilink") FF17 (2011年2月19,20日)
   - [亞洲動漫創作展](../Page/開拓動漫祭.md "wikilink") PF20 (2014年4月26,27日)\[8\]
   - 日台IDOL交流 Mini Live (2014年4月28日)\[9\]
@@ -109,7 +105,7 @@ Pinkish的名稱代表本地特產的草莓以及女性[偶像團體清新的形
 </ol></td>
 </tr>
 <tr class="even">
-<td><p>(時機, <a href="../Page/黑色餅乾.md" title="wikilink">黑色餅乾歌曲翻拍</a>)</p>
+<td><p>(時機, <a href="../Page/黑色餅乾.md" title="wikilink">黑色餅乾</a>歌曲翻拍)</p>
 <ul>
 <li>發行日期: 2012年3月31日</li>
 <li>唱片公司: ZERO-9</li>
@@ -231,7 +227,7 @@ Pinkish的名稱代表本地特產的草莓以及女性[偶像團體清新的形
 <li>語言: 日語</li>
 </ul></td>
 <td><ol>
-<li><p>(時機, <a href="../Page/黑色餅乾.md" title="wikilink">黑色餅乾歌曲翻拍</a>)</p></li>
+<li><p>(時機, <a href="../Page/黑色餅乾.md" title="wikilink">黑色餅乾</a>歌曲翻拍)</p></li>
 <li><p>(Bokura no march, 我們的行軍)</p></li>
 <li><p>(Tanabata-sama, 七夕)</p></li>
 <li><p>(Kamome no suihei-san, 海鷗水兵先生)</p></li>
@@ -262,16 +258,11 @@ Pinkish的名稱代表本地特產的草莓以及女性[偶像團體清新的形
 ## 外部連結
 
   -
-  - [zero9channel
-    (YouTube)](https://www.youtube.com/channel/UCopq0Pf-iHSLDJocnf73DMA)
+  - [zero9channel (YouTube)](https://www.youtube.com/channel/UCopq0Pf-iHSLDJocnf73DMA)
 
   - [_a_o_i_ (17 live)](https://17.live/live/297455) - 成員Aoi的視頻分發網站
 
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:日本在地偶像](https://zh.wikipedia.org/wiki/Category:日本在地偶像 "wikilink")
-[Category:2002年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2002年成立的音樂團體 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:加須市](https://zh.wikipedia.org/wiki/Category:加須市 "wikilink")
+[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本在地偶像](https://zh.wikipedia.org/wiki/Category:日本在地偶像 "wikilink") [Category:2002年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2002年成立的音樂團體 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:加須市](https://zh.wikipedia.org/wiki/Category:加須市 "wikilink")
 
 1.
 2.

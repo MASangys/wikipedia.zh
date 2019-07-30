@@ -1,8 +1,8 @@
-《**MY**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[張賢勝的首張韓語迷你專輯](../Page/張賢勝.md "wikilink")，於2015年5月8日線上發行\[1\]，主打曲為《你是我的第一次》（）。
+《**MY**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[張賢勝](../Page/張賢勝.md "wikilink")的首張韓語迷你專輯，於2015年5月8日線上發行\[1\]，主打曲為《你是我的第一次》（）。
 
 ## 背景
 
-2015年4月20日，[Cube娛樂在](../Page/Cube娛樂.md "wikilink")[BEAST的官方](https://zh.wikipedia.org/wiki/BEAST "wikilink")[Facebook發布了賢勝的預告照片](../Page/Facebook.md "wikilink")，表示賢勝正準備個人首張專輯\[2\]，到4月27日，官方以另外一張預告照片確定張賢勝的個人迷你專輯將在5月8日線上發行，以《你是我的第一次》作主打\[3\]，並於4月28日公開專輯名稱——《MY》與其收錄曲目的詳情\[4\]。
+2015年4月20日，[Cube娛樂](../Page/Cube娛樂.md "wikilink")在[BEAST的官方](https://zh.wikipedia.org/wiki/BEAST "wikilink")[Facebook](../Page/Facebook.md "wikilink")發布了賢勝的預告照片，表示賢勝正準備個人首張專輯\[2\]，到4月27日，官方以另外一張預告照片確定張賢勝的個人迷你專輯將在5月8日線上發行，以《你是我的第一次》作主打\[3\]，並於4月28日公開專輯名稱——《MY》與其收錄曲目的詳情\[4\]。
 
 ## 曲目
 
@@ -132,9 +132,7 @@
 
 ## 參考資料
 
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:Highlight](https://zh.wikipedia.org/wiki/Category:Highlight "wikilink")
+[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:Highlight](https://zh.wikipedia.org/wiki/Category:Highlight "wikilink")
 
 1.
 

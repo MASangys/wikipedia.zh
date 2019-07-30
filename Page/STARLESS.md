@@ -1,8 +1,8 @@
-《**STARLESS**》是由[日本成人遊戲製作公司](../Page/日本成人遊戲.md "wikilink")[WillPlus旗下的](../Page/WillPlus.md "wikilink")[Empress製作的成人遊戲](https://zh.wikipedia.org/wiki/Empress "wikilink")，在2011年5月27日發售。
+《**STARLESS**》是由[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")製作公司[WillPlus](../Page/WillPlus.md "wikilink")旗下的[Empress製作的成人遊戲](https://zh.wikipedia.org/wiki/Empress "wikilink")，在2011年5月27日發售。
 
 ## 故事
 
-在[暑假時尋找打工的男主角偶然看到了一則徵人啟事](../Page/暑假.md "wikilink")，便前往位在深山的間宮家豪宅應徵[僕人](https://zh.wikipedia.org/wiki/僕人 "wikilink")，但他卻因此踏入了一個充斥著變態性慾的家族之中。
+在[暑假](../Page/暑假.md "wikilink")時尋找打工的男主角偶然看到了一則徵人啟事，便前往位在深山的間宮家豪宅應徵[僕人](https://zh.wikipedia.org/wiki/僕人 "wikilink")，但他卻因此踏入了一個充斥著變態性慾的家族之中。
 
 ## 人物
 
@@ -82,7 +82,7 @@ DVD全4卷，2016年1月29日發售完全版。
 
 ## 評價
 
-2015年的[萌系遊戲大賞媒體支持賞部門獲得金賞](../Page/萌系遊戲大賞.md "wikilink")。 \[5\]
+2015年的[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")媒體支持賞部門獲得金賞。 \[5\]
 
 ## 參考來源
 
@@ -90,11 +90,7 @@ DVD全4卷，2016年1月29日發售完全版。
 
   - [官方網站](http://www.will-game.com/empress/)
 
-[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:2012年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2012年日本成人動畫 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:BDSM題材作品](https://zh.wikipedia.org/wiki/Category:BDSM題材作品 "wikilink")
+[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:2012年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2012年日本成人動畫 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:BDSM題材作品](https://zh.wikipedia.org/wiki/Category:BDSM題材作品 "wikilink")
 
 1.
 2.

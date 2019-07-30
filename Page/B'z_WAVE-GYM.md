@@ -1,21 +1,14 @@
-『**B'z
-WAVE-GYM**』是[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[組合](../Page/音樂組合.md "wikilink")[B'z的](../Page/B'z.md "wikilink")[廣播節目](https://zh.wikipedia.org/wiki/電臺廣播 "wikilink")，在播出。
+『**B'z WAVE-GYM**』是[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")的[廣播節目](https://zh.wikipedia.org/wiki/電臺廣播 "wikilink")，在播出。
 
-[廣播主持人是B](https://zh.wikipedia.org/wiki/w:Radio_personality "wikilink")'z。起初由[松本孝弘與](../Page/松本孝弘.md "wikilink")[稻葉浩志共同主持](../Page/稻葉浩志.md "wikilink")，但[1991年](../Page/1991年.md "wikilink")[10月以後由稻葉浩志單獨主持](../Page/10月.md "wikilink")。
+[廣播主持人是B](https://zh.wikipedia.org/wiki/w:Radio_personality "wikilink")'z。起初由[松本孝弘](../Page/松本孝弘.md "wikilink")與[稻葉浩志](../Page/稻葉浩志.md "wikilink")共同主持，但[1991年](../Page/1991年.md "wikilink")[10月](../Page/10月.md "wikilink")以後由稻葉浩志單獨主持。
 
 ## 概要
 
-[1990年](../Page/1990年.md "wikilink")[1月4日首次播出](../Page/1月4日.md "wikilink")。[1991年](../Page/1991年.md "wikilink")3月一度結束播放，但在1991年10月作為節目名稱『**COME
-ON B'z
-WAVE-GYM**』復活，播放渡過2年半直至[1994年](../Page/1994年.md "wikilink")3月為止（總計3年3個月：39[季](https://zh.wikipedia.org/wiki/季度 "wikilink")）。在1991年10月以後，是星期四深夜播出的30分鐘節目。節目名稱『B'z
-WAVE-GYM』由來為B'z的演唱會名稱『[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")』。
+[1990年](../Page/1990年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")首次播出。[1991年](../Page/1991年.md "wikilink")3月一度結束播放，但在1991年10月作為節目名稱『**COME ON B'z WAVE-GYM**』復活，播放渡過2年半直至[1994年](../Page/1994年.md "wikilink")3月為止（總計3年3個月：39[季](https://zh.wikipedia.org/wiki/季度 "wikilink")）。在1991年10月以後，是星期四深夜播出的30分鐘節目。節目名稱『B'z WAVE-GYM』由來為B'z的演唱會名稱『[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")』。
 
 對於B'z而言，是首次擔任廣播電台節目的廣播主持人，亦是B'z的首個[廣播節目](https://zh.wikipedia.org/wiki/電臺廣播 "wikilink")。之後，對於稻葉浩志而言，亦是首次獨自擔任廣播主持人。
 
-本節目為節目，起初贊助商標註[JTB](../Page/JTB.md "wikilink")，途中取代為Circle
-K（現今的）。伴隨著節目名稱Title Call，起初冠名JTB公司作為『COME ON
-JTB B'z WAVE-GYM』，但[1993年以後](../Page/1993年.md "wikilink")，伴隨著贊助商換成Circle
-K，而變更為『Circle K PRESENTS B'z WAVE-GYM』（）。
+本節目為節目，起初贊助商標註[JTB](../Page/JTB.md "wikilink")，途中取代為Circle K（現今的）。伴隨著節目名稱Title Call，起初冠名JTB公司作為『COME ON JTB B'z WAVE-GYM』，但[1993年](../Page/1993年.md "wikilink")以後，伴隨著贊助商換成Circle K，而變更為『Circle K PRESENTS B'z WAVE-GYM』（）。
 
 [單曲或](https://zh.wikipedia.org/wiki/單曲 "wikilink")[BGM基本上每次皆會使用數首B](https://zh.wikipedia.org/wiki/背景音樂 "wikilink")'z樂曲。再者，所播放的樂曲會因播出集數而異，有時會以數曲[混合形式接連播放](https://zh.wikipedia.org/wiki/混合 "wikilink")。
 
@@ -64,10 +57,7 @@ K，而變更為『Circle K PRESENTS B'z WAVE-GYM』（）。
 ## 軼聞
 
   - 因是由擔任主唱及作詞的稻葉擔任主持，故會講述關於作曲中（作詞或曲名由來等）軼聞、搭檔松本或相關工作人員軼聞。
-  - 曾講述過的作曲軼聞之一，是B'z樂曲「[ZERO](../Page/ZERO_\(B'z單曲\).md "wikilink")」的曲名由來為「VOLUM
-    ZERO」。此外，「[愛のままにわがままに
-    僕は君だけを傷つけない](https://zh.wikipedia.org/wiki/愛のままにわがままに_僕は君だけを傷つけない "wikilink")」的長曲名，（對於稻葉而言）是從多年主持節目的收件人姓名及地址（郵遞區號461-03
-    東海廣播電台放送 贊助名稱 B'z WAVE GYM）得到啟發（1993年3月）等。
+  - 曾講述過的作曲軼聞之一，是B'z樂曲「[ZERO](../Page/ZERO_\(B'z單曲\).md "wikilink")」的曲名由來為「VOLUM ZERO」。此外，「[愛のままにわがままに 僕は君だけを傷つけない](https://zh.wikipedia.org/wiki/愛のままにわがままに_僕は君だけを傷つけない "wikilink")」的長曲名，（對於稻葉而言）是從多年主持節目的收件人姓名及地址（郵遞區號461-03 東海廣播電台放送 贊助名稱 B'z WAVE GYM）得到啟發（1993年3月）等。
   - 年末年初會有（當時的）支援樂手寄來新年賀辭及留言。
 
 ## 注釋
@@ -80,6 +70,4 @@ K，而變更為『Circle K PRESENTS B'z WAVE-GYM』（）。
   - [JTB](../Page/JTB.md "wikilink")
 
   -
-[Category:B'z](https://zh.wikipedia.org/wiki/Category:B'z "wikilink")
-[Category:日本廣播節目](https://zh.wikipedia.org/wiki/Category:日本廣播節目 "wikilink")
-[Category:1990年日本廣播節目](https://zh.wikipedia.org/wiki/Category:1990年日本廣播節目 "wikilink")
+[Category:B'z](https://zh.wikipedia.org/wiki/Category:B'z "wikilink") [Category:日本廣播節目](https://zh.wikipedia.org/wiki/Category:日本廣播節目 "wikilink") [Category:1990年日本廣播節目](https://zh.wikipedia.org/wiki/Category:1990年日本廣播節目 "wikilink")

@@ -1,14 +1,10 @@
-《**STEP A GO\!
-GO\!**》是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[户松遥的第](https://zh.wikipedia.org/wiki/户松遥 "wikilink")15张[单曲唱片](../Page/单曲.md "wikilink")。该曲于2015年9月30日由[Music
-Ray'n发行](../Page/Music_Ray'n.md "wikilink")。
+《**STEP A GO\! GO\!**》是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[户松遥的第](https://zh.wikipedia.org/wiki/户松遥 "wikilink")15张[单曲](../Page/单曲.md "wikilink")唱片。该曲于2015年9月30日由[Music Ray'n发行](../Page/Music_Ray'n.md "wikilink")。
 
 ## 概要
 
-《STEP A GO\!
-GO\!》为前作品《[courage](https://zh.wikipedia.org/wiki/courage "wikilink")》，亦为2015年的第1作。
+《STEP A GO\! GO\!》为前作品《[courage](https://zh.wikipedia.org/wiki/courage "wikilink")》，亦为2015年的第1作。
 
-该单曲分为2个版本推出，分别为初回生产限定盘、通常盘。初回生产限定盘附属一张DVD，内容为《STEP A GO\!
-GO\!》的[音乐影片以及该作](https://zh.wikipedia.org/wiki/音乐影片 "wikilink")15秒与30秒版本的[电视广告](https://zh.wikipedia.org/wiki/电视广告 "wikilink")。
+该单曲分为2个版本推出，分别为初回生产限定盘、通常盘。初回生产限定盘附属一张DVD，内容为《STEP A GO\! GO\!》的[音乐影片以及该作](https://zh.wikipedia.org/wiki/音乐影片 "wikilink")15秒与30秒版本的[电视广告](https://zh.wikipedia.org/wiki/电视广告 "wikilink")。
 
 ## 收录曲
 
@@ -28,8 +24,7 @@ GO\!》的[音乐影片以及该作](https://zh.wikipedia.org/wiki/音乐影片 
 
 ## 参考
 
-1.  \[<http://www.sonymusic.co.jp/artist/harukatomatsu/discography/SMCL-405>|
-    STEP A GO\!GO\!試聽\]
+1.  \[<http://www.sonymusic.co.jp/artist/harukatomatsu/discography/SMCL-405>| STEP A GO\!GO\!試聽\]
 2.  \[<http://www.kasi-time.com/item-77145.html>| STEP A GO\!GO\!歌詞\]
 
 ## 外部链接
@@ -38,6 +33,4 @@ GO\!》的[音乐影片以及该作](https://zh.wikipedia.org/wiki/音乐影片 
       - [初回生產限定盤](http://www.sonymusic.co.jp/artist/harukatomatsu/discography/SMCL-403)
       - [通常盤](http://www.sonymusic.co.jp/artist/harukatomatsu/discography/SMCL-405)
 
-[Category:戶松遙單曲](https://zh.wikipedia.org/wiki/Category:戶松遙單曲 "wikilink")
-[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
+[Category:戶松遙單曲](https://zh.wikipedia.org/wiki/Category:戶松遙單曲 "wikilink") [Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")

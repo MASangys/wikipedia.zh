@@ -1,39 +1,28 @@
-**Samsung Experience**（前身：**[Samsung
-TouchWiz](../Page/TouchWiz.md "wikilink")**）是由[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[三星电子以及其合作伙伴为基于](https://zh.wikipedia.org/wiki/三星电子 "wikilink")[Android操作系统的](../Page/Android.md "wikilink")[三星Galaxy系列设备上所开发的一款用户界面](https://zh.wikipedia.org/wiki/三星Galaxy系列 "wikilink")。\[1\]
+**Samsung Experience**（前身：**[Samsung TouchWiz](../Page/TouchWiz.md "wikilink")**）是由[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[三星电子以及其合作伙伴为基于](https://zh.wikipedia.org/wiki/三星电子 "wikilink")[Android](../Page/Android.md "wikilink")操作系统的[三星Galaxy系列设备上所开发的一款用户界面](https://zh.wikipedia.org/wiki/三星Galaxy系列 "wikilink")。\[1\]
 
 ## 历史
 
 ### TouchWiz
 
-TouchWiz是[三星电子开发的一款用户界面和图标](https://zh.wikipedia.org/wiki/三星电子 "wikilink")，最初于2010年6月4日发布，用于Galaxy
-S智能手机.\[2\]\[3\]。该界面被许多用户批评包含太多的功能和臃肿，特别是于2013年发布的Galaxy S4上基于[Android
-4.2的TouchWiz](../Page/Android.md "wikilink") Nature UX
-2.0，其中包括许多用户极少使用和不实用的功能"\[4\]。在接下来的几年内，三星逐渐删除了bloatware和额外的功能。三星于2015年发布了基于Android
-5的TouchWiz
-5.0，该版本的TouchWiz界面经过大改革后取得巨大的成功，三星认为TouchWiz已非过去的TouchWiz，因此决定更改TouchWiz的品牌名称和标志。\[5\]
+TouchWiz是[三星电子开发的一款用户界面和图标](https://zh.wikipedia.org/wiki/三星电子 "wikilink")，最初于2010年6月4日发布，用于Galaxy S智能手机.\[2\]\[3\]。该界面被许多用户批评包含太多的功能和臃肿，特别是于2013年发布的Galaxy S4上基于[Android 4.2的TouchWiz](../Page/Android.md "wikilink") Nature UX 2.0，其中包括许多用户极少使用和不实用的功能"\[4\]。在接下来的几年内，三星逐渐删除了bloatware和额外的功能。三星于2015年发布了基于Android 5的TouchWiz 5.0，该版本的TouchWiz界面经过大改革后取得巨大的成功，三星认为TouchWiz已非过去的TouchWiz，因此决定更改TouchWiz的品牌名称和标志。\[5\]
 
 ### 版权
 
-2016年12月15日，[三星电子成功在](https://zh.wikipedia.org/wiki/三星电子 "wikilink")[美国注册了一个名为](../Page/美国.md "wikilink")“Samsung
-Experience”的商标以及一个标志，这也标记着新一代的三星用户界面的诞生。\[6\]
+2016年12月15日，[三星电子成功在](https://zh.wikipedia.org/wiki/三星电子 "wikilink")[美国](../Page/美国.md "wikilink")注册了一个名为“Samsung Experience”的商标以及一个标志，这也标记着新一代的三星用户界面的诞生。\[6\]
 
 ### OneUI
 
-2018年11月22日，[三星電子在三星開發者大會中宣布以](../Page/三星電子.md "wikilink")[One
-UI取代目前Samsung](../Page/One_UI.md "wikilink")
-Experience使用者界面\[7\]。全新的[使用者界面包括黑夜模式等多項新功能](https://zh.wikipedia.org/wiki/使用者界面 "wikilink")。\[8\]
+2018年11月22日，[三星電子](../Page/三星電子.md "wikilink")在三星開發者大會中宣布以[One UI取代目前Samsung](../Page/One_UI.md "wikilink") Experience使用者界面\[7\]。全新的[使用者界面包括黑夜模式等多項新功能](https://zh.wikipedia.org/wiki/使用者界面 "wikilink")。\[8\]
 
 ## 特点
 
 ### 主屏幕
 
-**Samsung
-Experience**对原TouchWiz的主屏幕进行了多项更改。屏幕右上角有一个天气小部件。此外，用户也可以编辑应用程序网格布局。\[9\]
+**Samsung Experience**对原TouchWiz的主屏幕进行了多项更改。屏幕右上角有一个天气小部件。此外，用户也可以编辑应用程序网格布局。\[9\]
 
 ### Edge UX
 
-[Samsung_Galaxy_S7_Apps_Edge.jpg](https://zh.wikipedia.org/wiki/File:Samsung_Galaxy_S7_Apps_Edge.jpg "fig:Samsung_Galaxy_S7_Apps_Edge.jpg")手機正將界面切換到Apps
-edge\]\]
+[Samsung_Galaxy_S7_Apps_Edge.jpg](https://zh.wikipedia.org/wiki/File:Samsung_Galaxy_S7_Apps_Edge.jpg "fig:Samsung_Galaxy_S7_Apps_Edge.jpg")手機正將界面切換到Apps edge\]\]
 
   - Tasks Edge\[10\]
   - Peoples Edge
@@ -44,9 +33,7 @@ edge\]\]
 
 ### Always-on-display
 
-[Samsung_Galaxy_S7_edge_(25690678361).jpg](https://zh.wikipedia.org/wiki/File:Samsung_Galaxy_S7_edge_\(25690678361\).jpg "fig:Samsung_Galaxy_S7_edge_(25690678361).jpg")手機Always-on-display正顯示日曆和時間\]\]
-Always-on-display最早在[Galaxy
-S7上亮面](https://zh.wikipedia.org/wiki/Galaxy_S7 "wikilink")，当用户熄屏后，屏幕依然会以极低功耗的方式显示日期、时间、代办事项等普通资讯。\[13\]
+[Samsung_Galaxy_S7_edge_(25690678361).jpg](https://zh.wikipedia.org/wiki/File:Samsung_Galaxy_S7_edge_\(25690678361\).jpg "fig:Samsung_Galaxy_S7_edge_(25690678361).jpg")手機Always-on-display正顯示日曆和時間\]\] Always-on-display最早在[Galaxy S7上亮面](https://zh.wikipedia.org/wiki/Galaxy_S7 "wikilink")，当用户熄屏后，屏幕依然会以极低功耗的方式显示日期、时间、代办事项等普通资讯。\[13\]
 
 ### Files Manager
 
@@ -263,10 +250,7 @@ e Tools会合并到同一个文件夹中。在该文件夹里，系统会优化�
 
 ## 外部連結
 
-[Category:行动作业系统](https://zh.wikipedia.org/wiki/Category:行动作业系统 "wikilink")
-[Category:定制Android固件](https://zh.wikipedia.org/wiki/Category:定制Android固件 "wikilink")
-[Category:三星电子](https://zh.wikipedia.org/wiki/Category:三星电子 "wikilink")
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
+[Category:行动作业系统](https://zh.wikipedia.org/wiki/Category:行动作业系统 "wikilink") [Category:定制Android固件](https://zh.wikipedia.org/wiki/Category:定制Android固件 "wikilink") [Category:三星电子](https://zh.wikipedia.org/wiki/Category:三星电子 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
 
 1.
 
@@ -276,14 +260,12 @@ e Tools会合并到同一个文件夹中。在该文件夹里，系统会优化�
 
 4.
 
-5.   All top APPLE news, iPhone, iMac, iPad, Apple
-    Watch|language=en-US|access-date=2017-01-29}}
+5.   All top APPLE news, iPhone, iMac, iPad, Apple Watch|language=en-US|access-date=2017-01-29}}
 
 6.
 7.
 
-8.   Apps|accessdate=2018-12-05T03:15:16Z|work=The Official Samsung
-    Galaxy Site|language=en}}
+8.   Apps|accessdate=2018-12-05T03:15:16Z|work=The Official Samsung Galaxy Site|language=en}}
 
 9.
 

@@ -1,13 +1,9 @@
   -
-《**RUN=DIM**》（，，台灣：**AI特攻隊**或**丸町戰神**，香港：**機甲戰線**）是日本於2001年由[東京電視台播放的](../Page/東京電視台.md "wikilink")3D電腦動畫。由日本[IDEA
-FACTORY遊戲製作公司和韓國Digital](https://zh.wikipedia.org/wiki/IDEA_FACTORY "wikilink")
-Dream Studio動畫製作公司耗資20萬美元聯合製作。也是全亞洲首部3D電腦動畫。
+《**RUN=DIM**》（，，台灣：**AI特攻隊**或**丸町戰神**，香港：**機甲戰線**）是日本於2001年由[東京電視台](../Page/東京電視台.md "wikilink")播放的3D電腦動畫。由日本[IDEA FACTORY遊戲製作公司和韓國Digital](https://zh.wikipedia.org/wiki/IDEA_FACTORY "wikilink") Dream Studio動畫製作公司耗資20萬美元聯合製作。也是全亞洲首部3D電腦動畫。
 
 ## 故事概要
 
-西元2050年，由於[冰川加快融化](../Page/冰川.md "wikilink")，[海平面上升加速導致陸地消失](../Page/海平面上升.md "wikilink")，[日本經濟一厥不振](../Page/日本經濟.md "wikilink")。[日本政府為了拯救經濟](https://zh.wikipedia.org/wiki/日本政府 "wikilink")，成立宇宙開發組織「JESAS」，進行把[核廢料丟棄於](https://zh.wikipedia.org/wiki/核廢料 "wikilink")[太空](https://zh.wikipedia.org/wiki/太空 "wikilink")。獲[聯合國支持的國際](https://zh.wikipedia.org/wiki/聯合國 "wikilink")[民事機構](https://zh.wikipedia.org/wiki/民事 "wikilink")「GREEN
-FRONTIER」以違反國際環境條約和破壞環境為名，和JESAS對抗。而JESAS秘密進行一項連日本政府也不知道的恐怖計劃，GREEN
-FRONTIER決定誓要阻止。
+西元2050年，由於[冰川](../Page/冰川.md "wikilink")加快融化，[海平面上升](../Page/海平面上升.md "wikilink")加速導致陸地消失，[日本經濟](../Page/日本經濟.md "wikilink")一厥不振。[日本政府為了拯救經濟](https://zh.wikipedia.org/wiki/日本政府 "wikilink")，成立宇宙開發組織「JESAS」，進行把[核廢料丟棄於](https://zh.wikipedia.org/wiki/核廢料 "wikilink")[太空](https://zh.wikipedia.org/wiki/太空 "wikilink")。獲[聯合國支持的國際](https://zh.wikipedia.org/wiki/聯合國 "wikilink")[民事機構](https://zh.wikipedia.org/wiki/民事 "wikilink")「GREEN FRONTIER」以違反國際環境條約和破壞環境為名，和JESAS對抗。而JESAS秘密進行一項連日本政府也不知道的恐怖計劃，GREEN FRONTIER決定誓要阻止。
 
 ## 主要角色
 
@@ -40,19 +36,14 @@ FRONTIER決定誓要阻止。
 ### 【日本】
 
   - 主題曲「Legend」
-    作詞 - [有森聡美](https://zh.wikipedia.org/wiki/有森聡美 "wikilink") / 作曲 -
-    LEGOLGEL with
-    [見良津健雄](https://zh.wikipedia.org/wiki/見良津健雄 "wikilink")
-    / 主唱 - [LEGOLGEL](https://zh.wikipedia.org/wiki/LEGOLGEL "wikilink")
+    作詞 - [有森聡美](https://zh.wikipedia.org/wiki/有森聡美 "wikilink") / 作曲 - LEGOLGEL with [見良津健雄](https://zh.wikipedia.org/wiki/見良津健雄 "wikilink") / 主唱 - [LEGOLGEL](https://zh.wikipedia.org/wiki/LEGOLGEL "wikilink")
   - 片尾曲「Heaven Knows」
-    作詞 - 村野直球 / 作曲 - 住吉中 / 編曲 - NOV / 主唱 -
-    [水樹奈々](https://zh.wikipedia.org/wiki/水樹奈々 "wikilink")
+    作詞 - 村野直球 / 作曲 - 住吉中 / 編曲 - NOV / 主唱 - [水樹奈々](https://zh.wikipedia.org/wiki/水樹奈々 "wikilink")
 
 ### 【韓國】
 
   - 主題曲「RUSH\!」
-    作詞 - / 作曲 - / 主唱 -
-    [송용진](https://zh.wikipedia.org/wiki/송용진 "wikilink")
+    作詞 - / 作曲 - / 主唱 - [송용진](https://zh.wikipedia.org/wiki/송용진 "wikilink")
   - 片尾曲
     作詞 - / 作曲 - / 主唱 -
 
@@ -64,17 +55,13 @@ FRONTIER決定誓要阻止。
 
 ### 【香港】
 
-香港版本於2002年12月19日至2003年3月13日期間在[亞洲電視國際台播放](../Page/亞洲電視國際台.md "wikilink")，配以英語對白。由於版權關係，開頭和片尾均用韓國版主題曲，以英語主唱。加上在兒童時段播放，部份片段被刪去。\[1\]
+香港版本於2002年12月19日至2003年3月13日期間在[亞洲電視國際台](../Page/亞洲電視國際台.md "wikilink")播放，配以英語對白。由於版權關係，開頭和片尾均用韓國版主題曲，以英語主唱。加上在兒童時段播放，部份片段被刪去。\[1\]
 
 ## 家用遊戲
 
-  - THE MECH SMITH RUN＝DIM - [PlayStation
-    2用軟件](../Page/PlayStation_2.md "wikilink")。
-  - RUN=DIM AS Black Soul -
-    [DREAMCAST用軟件](https://zh.wikipedia.org/wiki/DREAMCAST "wikilink")。
-  - RUN＝DIM －Return of Earth－ - [WONDER SWAN
-    COLOUR専用軟件](https://zh.wikipedia.org/wiki/WONDER_SWAN_COLOUR "wikilink")。（[DIGITAL
-    DREAM發售](https://zh.wikipedia.org/wiki/DIGITAL_DREAM "wikilink")）
+  - THE MECH SMITH RUN＝DIM - [PlayStation 2用軟件](../Page/PlayStation_2.md "wikilink")。
+  - RUN=DIM AS Black Soul - [DREAMCAST用軟件](https://zh.wikipedia.org/wiki/DREAMCAST "wikilink")。
+  - RUN＝DIM －Return of Earth－ - [WONDER SWAN COLOUR専用軟件](https://zh.wikipedia.org/wiki/WONDER_SWAN_COLOUR "wikilink")。（[DIGITAL DREAM發售](https://zh.wikipedia.org/wiki/DIGITAL_DREAM "wikilink")）
 
 ## 外部連結
 

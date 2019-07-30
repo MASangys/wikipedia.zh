@@ -1,5 +1,4 @@
-\-- Module to build tables for standings in Sports -- See documentation
-for details
+\-- Module to build tables for standings in Sports -- See documentation for details
 
 require('Module:No globals')
 

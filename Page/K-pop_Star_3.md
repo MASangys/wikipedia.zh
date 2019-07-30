@@ -1,6 +1,4 @@
-《**K-pop Star
-3**》（）是[韓國電視台](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[SBS](../Page/SBS_\(韓國\).md "wikilink")《[星期天真好](../Page/星期天真好.md "wikilink")》綜藝時段中的一部[綜藝節目](../Page/綜藝節目.md "wikilink")，亦是K-pop
-Star 2的後續篇。節目由2013年11月24日播放至2014年4月13日。\[1\]
+《**K-pop Star 3**》（）是[韓國電視台](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[SBS](../Page/SBS_\(韓國\).md "wikilink")《[星期天真好](../Page/星期天真好.md "wikilink")》綜藝時段中的一部[綜藝節目](../Page/綜藝節目.md "wikilink")，亦是K-pop Star 2的後續篇。節目由2013年11月24日播放至2014年4月13日。\[1\]
 
 ## 播放時間
 
@@ -18,12 +16,9 @@ Star 2的後續篇。節目由2013年11月24日播放至2014年4月13日。\[1\]
 
 ### 評判
 
-  - [梁鉉錫](../Page/梁鉉錫.md "wikilink")
-    ([YG娛樂代表](../Page/YG娛樂.md "wikilink")、制作人、歌手)
-  - [朴軫永](../Page/朴軫永.md "wikilink")
-    ([JYP娛樂代表](../Page/JYP娛樂.md "wikilink")、制作人、歌手、作曲家)
-  - [柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")
-    (共同代表、制作人、歌手、作曲者、組合Toy成員)。
+  - [梁鉉錫](../Page/梁鉉錫.md "wikilink") ([YG娛樂](../Page/YG娛樂.md "wikilink")代表、制作人、歌手)
+  - [朴軫永](../Page/朴軫永.md "wikilink") ([JYP娛樂](../Page/JYP娛樂.md "wikilink")代表、制作人、歌手、作曲家)
+  - [柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink") (共同代表、制作人、歌手、作曲者、組合Toy成員)。
 
 ## 十強選手
 
@@ -200,7 +195,7 @@ Star 2的後續篇。節目由2013年11月24日播放至2014年4月13日。\[1\]
 </tr>
 <tr class="even">
 <td><p>7</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李彩燕" title="wikilink">李彩燕</a></p></td>
+<td><p><a href="../Page/李彩演.md" title="wikilink">李彩演</a></p></td>
 <td><p><a href="../Page/艾拉·費茲潔拉.md" title="wikilink">艾拉·費茲潔拉</a> - Lullaby of birdland</p></td>
 <td><p>ㅇ</p></td>
 <td><p>ㅇ</p></td>
@@ -209,7 +204,7 @@ Star 2的後續篇。節目由2013年11月24日播放至2014年4月13日。\[1\]
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
-<td><p>李彩玲</p></td>
+<td><p><a href="../Page/李彩領.md" title="wikilink">李彩領</a></p></td>
 <td><p>IU - Someday</p></td>
 <td><p>ㅇ</p></td>
 <td><p>ㅇ</p></td>
@@ -218,7 +213,7 @@ Star 2的後續篇。節目由2013年11月24日播放至2014年4月13日。\[1\]
 </tr>
 <tr class="even">
 <td><p>9</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sam_Kim" title="wikilink">Sam Kim</a></p></td>
 <td><p>阿莫斯·李 - Sweat Pea</p></td>
 <td><p>ㅇ</p></td>
 <td><p>ㅇ</p></td>
@@ -2138,56 +2133,18 @@ Star 2的後續篇。節目由2013年11月24日播放至2014年4月13日。\[1\]
 
 ## 播映後參賽者的去向
 
-<table>
-<thead>
-<tr class="header">
-<th><p>公司</p></th>
-<th><p>參賽者</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong><a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a></strong></p></td>
-<td><p>張漢娜</p></td>
-</tr>
-<tr class="even">
-<td><p><strong><a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/伯納德·朴" title="wikilink">伯納德·朴</a>,<a href="../Page/李彩領.md" title="wikilink">李彩領</a>, <a href="https://zh.wikipedia.org/wiki/李彩燕" title="wikilink">李彩燕</a> (現轉投<a href="https://zh.wikipedia.org/wiki/WM娛樂" title="wikilink">WM娛樂</a>)</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong></strong></p></td>
-<td><p>, <a href="../Page/權珍雅.md" title="wikilink">權珍雅</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>JJHolic Media</strong></p></td>
-<td><p>南英珠</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong><a href="../Page/STARSHIP娛樂.md" title="wikilink">STARSHIP娛樂</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭世雲" title="wikilink">鄭世雲</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong><a href="../Page/YNB娛樂.md" title="wikilink">YNB娛樂</a></strong></p></td>
-<td><p>Almeng</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>CS娛樂</strong></p></td>
-<td><p>汝仁慧, 劉泰晶 (矮個子們)</p></td>
-</tr>
-<tr class="even">
-<td><p><strong></strong></p></td>
-<td><p>韓熙俊</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Hug娛樂</strong></p></td>
-<td><p>朴羅貞 (矮個子們)</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Nextar娛樂</strong></p></td>
-<td><p>洪正熙</p></td>
-</tr>
-</tbody>
-</table>
+| 公司                                                 | 參賽者                                                                                                                                                                                                      |
+| -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[YG娛樂](../Page/YG娛樂.md "wikilink")**             | 張漢娜                                                                                                                                                                                                      |
+| **[JYP娛樂](../Page/JYP娛樂.md "wikilink")**           | [伯納德·朴](https://zh.wikipedia.org/wiki/伯納德·朴 "wikilink"),[李彩領](../Page/李彩領.md "wikilink"), [李彩燕](https://zh.wikipedia.org/wiki/李彩燕 "wikilink") (現轉投[WM娛樂](https://zh.wikipedia.org/wiki/WM娛樂 "wikilink")) |
+| ****                                               | [Sam Kim](https://zh.wikipedia.org/wiki/Sam_Kim "wikilink"), [權珍雅](../Page/權珍雅.md "wikilink")                                                                                                            |
+| **JJHolic Media**                                  | 南英珠                                                                                                                                                                                                      |
+| **[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")** | [鄭世雲](https://zh.wikipedia.org/wiki/鄭世雲 "wikilink")                                                                                                                                                      |
+| **[YNB娛樂](../Page/YNB娛樂.md "wikilink")**           | Almeng                                                                                                                                                                                                   |
+| **CS娛樂**                                           | 汝仁慧, 劉泰晶 (矮個子們)                                                                                                                                                                                          |
+| ****                                               | 韓熙俊                                                                                                                                                                                                      |
+| **Hug娛樂**                                          | 朴羅貞 (矮個子們)                                                                                                                                                                                               |
+| **Nextar娛樂**                                       | 洪正熙                                                                                                                                                                                                      |
 
 ## 收視率
 
@@ -2229,13 +2186,9 @@ Star 2的後續篇。節目由2013年11月24日播放至2014年4月13日。\[1\]
 
 ## 參考資料
 
-[Category:韩国音乐比赛](https://zh.wikipedia.org/wiki/Category:韩国音乐比赛 "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
+[Category:韩国音乐比赛](https://zh.wikipedia.org/wiki/Category:韩国音乐比赛 "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
 
-1.  ['K팝스타' 시즌3 치열한 막이
-    올랐](http://www.polinews.co.kr/news/article.html?no=189592)
+1.  ['K팝스타' 시즌3 치열한 막이 올랐](http://www.polinews.co.kr/news/article.html?no=189592)
 2.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv)
 3.  [AGB 닐슨 미디어 리서치 홈페이지](http://www.agbnielsen.co.kr/)
 4.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv)

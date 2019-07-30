@@ -2,8 +2,7 @@
 
 ## 音樂
 
-  - Real Street Performance或Real Street
-    Project，常簡稱[RSP](../Page/RSP_\(團體\).md "wikilink")，日本歌舞偶像團體
+  - Real Street Performance或Real Street Project，常簡稱[RSP](../Page/RSP_\(團體\).md "wikilink")，日本歌舞偶像團體
 
   - ，塞爾維亞搖滾樂隊
 
@@ -21,8 +20,7 @@
 
 ## 金融經濟
 
-  - [建議售價](https://zh.wikipedia.org/wiki/建議售價 "wikilink")（Recommended
-    Selling Price），廠商推薦零售商的對該廠商的產品之定價
+  - [建議售價](https://zh.wikipedia.org/wiki/建議售價 "wikilink")（Recommended Selling Price），廠商推薦零售商的對該廠商的產品之定價
 
   - （Retirement Savings Plan或Registered Retirement Savings Plan）
 
@@ -34,15 +32,13 @@
 
 ## 其他
 
-  - [可吸入懸浮粒子](https://zh.wikipedia.org/wiki/可吸入懸浮粒子 "wikilink")（Respirable
-    suspended particle）
+  - [可吸入懸浮粒子](https://zh.wikipedia.org/wiki/可吸入懸浮粒子 "wikilink")（Respirable suspended particle）
 
   - （Respiratory syncytial virus）
 
   - （Retail Service Provider）
 
-  - [革命社會黨](https://zh.wikipedia.org/wiki/革命社會黨 "wikilink")（Revolutionary
-    Socialist Party）
+  - [革命社會黨](https://zh.wikipedia.org/wiki/革命社會黨 "wikilink")（Revolutionary Socialist Party）
 
   - （Riverfront State Prison）
 

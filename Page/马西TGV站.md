@@ -6,7 +6,7 @@
 
 马西TGV站的地面即[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")，两个车站共同组成了巴黎南郊重要的公共交通枢纽\[1\]。
 
-马西TGV站的东北方向有一条连接线，可连接[巴黎大环线铁路并连接法国的其他几条高速铁路](../Page/巴黎大环线铁路.md "wikilink")。但由于马西TGV站的西侧与[巴黎大环线铁路不能互通](../Page/巴黎大环线铁路.md "wikilink")，因此前往[勒阿弗尔方向的TGV列车只能进](../Page/勒阿弗尔站.md "wikilink")[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")。
+马西TGV站的东北方向有一条连接线，可连接[巴黎大环线铁路](../Page/巴黎大环线铁路.md "wikilink")并连接法国的其他几条高速铁路。但由于马西TGV站的西侧与[巴黎大环线铁路](../Page/巴黎大环线铁路.md "wikilink")不能互通，因此前往[勒阿弗尔方向的TGV列车只能进](../Page/勒阿弗尔站.md "wikilink")[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")。
 
 ## 车站建设意义
 
@@ -14,8 +14,7 @@
 
   - 方便巴黎西南部郊区的乘客。
   - 由法国西部方向驶来的TGV列车，在不进入巴黎市区的情况下，可通过该站和该站北侧的联络线前往法国的其他地区。
-  - 马西TGV站也是距离[巴黎奥利机场](https://zh.wikipedia.org/wiki/巴黎奥利机场 "wikilink")（Aéroport
-    de Paris Orly）最近的一个高铁站，该站门口有可以直达的公交车。
+  - 马西TGV站也是距离[巴黎奥利机场](https://zh.wikipedia.org/wiki/巴黎奥利机场 "wikilink")（Aéroport de Paris Orly）最近的一个高铁站，该站门口有可以直达的公交车。
 
 ## 停靠线路
 
@@ -73,12 +72,9 @@
 
 ## 前往[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")
 
-马西TGV站地面就是[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")（Gare de
-Massy-Palaiseau），出站即可看见。
+马西TGV站地面就是[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")（Gare de Massy-Palaiseau），出站即可看见。
 
-在马西帕莱索站可换乘巴黎大区块铁B线（RER B）和巴黎大区块铁C线（RER
-C），前往巴黎市区以及巴黎附近的于维西（Juvisy）、凡尔赛（Versaille）、戴高乐机场（Aéroport
-CDG）等地。同时该站还经停由马赛前往勒阿弗尔的TGV列车，可前往[勒阿弗尔和](../Page/勒阿弗尔.md "wikilink")[鲁昂等地](../Page/鲁昂.md "wikilink")。
+在马西帕莱索站可换乘巴黎大区块铁B线（RER B）和巴黎大区块铁C线（RER C），前往巴黎市区以及巴黎附近的于维西（Juvisy）、凡尔赛（Versaille）、戴高乐机场（Aéroport CDG）等地。同时该站还经停由马赛前往勒阿弗尔的TGV列车，可前往[勒阿弗尔](../Page/勒阿弗尔.md "wikilink")和[鲁昂](../Page/鲁昂.md "wikilink")等地。
 
 ## 配套交通
 

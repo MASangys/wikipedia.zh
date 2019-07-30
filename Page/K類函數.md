@@ -1,6 +1,4 @@
-**\(\mathcal{K}\)類函數**（Class kappa
-function）也稱為是在[控制理論中判斷非](https://zh.wikipedia.org/wiki/控制理論 "wikilink")[自治系統](https://zh.wikipedia.org/wiki/自治系統 "wikilink")（nonautonomous
-system）是否穩定時會用到的一類函數，會將其他函數和\(\mathcal{K}\)類函數比較，以確認系統的[穩定性](https://zh.wikipedia.org/wiki/穩定性 "wikilink")。
+**\(\mathcal{K}\)類函數**（Class kappa function）也稱為是在[控制理論中判斷非](https://zh.wikipedia.org/wiki/控制理論 "wikilink")[自治系統](https://zh.wikipedia.org/wiki/自治系統 "wikilink")（nonautonomous system）是否穩定時會用到的一類函數，會將其他函數和\(\mathcal{K}\)類函數比較，以確認系統的[穩定性](https://zh.wikipedia.org/wiki/穩定性 "wikilink")。
 
 [連續函數](https://zh.wikipedia.org/wiki/連續函數 "wikilink")\(\alpha : [0, a) \rightarrow [0, \infty)\)若滿足以下條件，則屬於\(\mathcal{K}\)類函數：
 
@@ -26,7 +24,6 @@ system）是否穩定時會用到的一類函數，會將其他函數和\(\mathc
 
 ## 參考資料
 
-  - H. K. Khalil, Nonlinear systems, Prentice-Hall 2001. Sec. 4.4 - Def.
-    4.2.
+  - H. K. Khalil, Nonlinear systems, Prentice-Hall 2001. Sec. 4.4 - Def. 4.2.
 
 [Category:控制理論](https://zh.wikipedia.org/wiki/Category:控制理論 "wikilink")

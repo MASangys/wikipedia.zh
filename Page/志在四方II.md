@@ -1,22 +1,20 @@
-《**志在四方II**》（[英文](../Page/英语.md "wikilink")：），[新加坡](../Page/新加坡.md "wikilink")[新傳媒私人有限公司時裝](https://zh.wikipedia.org/wiki/新傳媒私人有限公司 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[鄭惠玉](https://zh.wikipedia.org/wiki/鄭惠玉 "wikilink")、[李南星](../Page/李南星.md "wikilink")、[黃碧仁](https://zh.wikipedia.org/wiki/黃碧仁 "wikilink")、[歐萱](../Page/歐萱.md "wikilink")、[瑞恩及](../Page/瑞恩.md "wikilink")[戚玉武領銜主演](https://zh.wikipedia.org/wiki/戚玉武 "wikilink")，[劉松仁及](../Page/劉松仁.md "wikilink")[陳美鳳特別客串](../Page/陳美鳳_\(台灣\).md "wikilink")，監製為[袁樹偉及](https://zh.wikipedia.org/wiki/袁樹偉 "wikilink")[黃芬菲](https://zh.wikipedia.org/wiki/黃芬菲 "wikilink")。此劇為新傳媒在第21屆上海電視節、中國國際影視展2015所推介的電視劇之一，亦是新傳媒52周年台慶劇。
+《**志在四方II**》（[英文](../Page/英语.md "wikilink")：），[新加坡](../Page/新加坡.md "wikilink")[新傳媒私人有限公司時裝](https://zh.wikipedia.org/wiki/新傳媒私人有限公司 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[鄭惠玉](https://zh.wikipedia.org/wiki/鄭惠玉 "wikilink")、[李南星](../Page/李南星.md "wikilink")、[黃碧仁](https://zh.wikipedia.org/wiki/黃碧仁 "wikilink")、[歐萱](../Page/歐萱.md "wikilink")、[瑞恩](../Page/瑞恩.md "wikilink")及[戚玉武領銜主演](https://zh.wikipedia.org/wiki/戚玉武 "wikilink")，[劉松仁](../Page/劉松仁.md "wikilink")及[陳美鳳特別客串](../Page/陳美鳳_\(台灣\).md "wikilink")，監製為[袁樹偉及](https://zh.wikipedia.org/wiki/袁樹偉 "wikilink")[黃芬菲](https://zh.wikipedia.org/wiki/黃芬菲 "wikilink")。此劇為新傳媒在第21屆上海電視節、中國國際影視展2015所推介的電視劇之一，亦是新傳媒52周年台慶劇。
 
 ## 故事概要
 
 延续前一部的节奏，背景同样设定在凯旋电视台，不过这次将更深入呈现幕后工作人员的办公室斗争，同时探讨什么是真，什么是假。
 
-周薇芸（[郑惠玉饰](../Page/郑惠玉.md "wikilink")）从综艺组调到戏剧组担任VP已三年。自从余凡（[陈汉玮饰](https://zh.wikipedia.org/wiki/陈汉玮 "wikilink")）死后，薇芸看透了世事，人豁达开朗很多，待人处事也多了人情味。她带着失智的母亲和女佣一起住，过着单身贵族的日子，寄情于工作。这时期的她，作品讲求诚意和言之有物，由于她不制作通俗作品迎合观众口味，加上网络视频的普及，戏剧节目的收视率下降，广告收益也递减，恶性循环无法突破。
+周薇芸（[郑惠玉](../Page/郑惠玉.md "wikilink")饰）从综艺组调到戏剧组担任VP已三年。自从余凡（[陈汉玮饰](https://zh.wikipedia.org/wiki/陈汉玮 "wikilink")）死后，薇芸看透了世事，人豁达开朗很多，待人处事也多了人情味。她带着失智的母亲和女佣一起住，过着单身贵族的日子，寄情于工作。这时期的她，作品讲求诚意和言之有物，由于她不制作通俗作品迎合观众口味，加上网络视频的普及，戏剧节目的收视率下降，广告收益也递减，恶性循环无法突破。
 
-上司见她无法让戏剧赚钱，于是聘请了在商场上叱咤风云的女强人官谢恩（[黄碧仁饰](../Page/黄碧仁.md "wikilink")）来当戏剧组的另一个VP，直接给薇芸压力。官谢恩是个商业管理奇才，善于推广销售、开源节流，一来便刮分了薇芸戏剧组一半的制作，虽然是负责7点档，但因为带来了赞助商，所以也“抢”到了9点黄金档的戏剧，直接与薇芸竞争。有事业心的她，企图排挤薇芸出局，独当一面。开始时对薇芸还留些面子，后来熟悉戏剧组的运作后，便不把薇芸放在眼里，态度嚣张。戏剧组从此分成两组，一些趋炎附势的下属背弃薇芸，要投诚到谢恩的组别，哪知谢恩却把这些毫无诚信的下属全推回给薇芸，
-对员工杀一儆百，手段高明。
+上司见她无法让戏剧赚钱，于是聘请了在商场上叱咤风云的女强人官谢恩（[黄碧仁](../Page/黄碧仁.md "wikilink")饰）来当戏剧组的另一个VP，直接给薇芸压力。官谢恩是个商业管理奇才，善于推广销售、开源节流，一来便刮分了薇芸戏剧组一半的制作，虽然是负责7点档，但因为带来了赞助商，所以也“抢”到了9点黄金档的戏剧，直接与薇芸竞争。有事业心的她，企图排挤薇芸出局，独当一面。开始时对薇芸还留些面子，后来熟悉戏剧组的运作后，便不把薇芸放在眼里，态度嚣张。戏剧组从此分成两组，一些趋炎附势的下属背弃薇芸，要投诚到谢恩的组别，哪知谢恩却把这些毫无诚信的下属全推回给薇芸， 对员工杀一儆百，手段高明。
 
-薇芸出掌戏剧组后，综艺组交由新VP林韬（[李南星饰](../Page/李南星.md "wikilink")）负责。林韬做节目新奇点子多，爱不按牌理出牌，善于造假制造节目效果，推高收视率。他接管综艺组之后屡创收视奇迹，表现远超薇芸时期。其实林韬誓言要成功，是因为他心中带着怨恨。多年前他和好友Richard（[陈泰铭饰](https://zh.wikipedia.org/wiki/陈泰铭 "wikilink")）创立制作公司，后来Richard私吞了他的钱，还抢走了他的女朋友！所以林韬定意要在这个圈子做出成绩，证明他的实力给Richard看！
+薇芸出掌戏剧组后，综艺组交由新VP林韬（[李南星](../Page/李南星.md "wikilink")饰）负责。林韬做节目新奇点子多，爱不按牌理出牌，善于造假制造节目效果，推高收视率。他接管综艺组之后屡创收视奇迹，表现远超薇芸时期。其实林韬誓言要成功，是因为他心中带着怨恨。多年前他和好友Richard（[陈泰铭饰](https://zh.wikipedia.org/wiki/陈泰铭 "wikilink")）创立制作公司，后来Richard私吞了他的钱，还抢走了他的女朋友！所以林韬定意要在这个圈子做出成绩，证明他的实力给Richard看！
 
 三个高级副总裁各有不同的人生目标，不同的处事态度，亦敌亦友，既彼此竞争，又必须彼此辅助，展开职场上斗智斗勇的篇章。。。在感情方面，林韬似乎对薇芸有意，又似对谢恩有情。三人似乎完全没有关系，但其实在10年前，林韬曾无意间救了薇芸；那时郑守义（[刘松仁饰](https://zh.wikipedia.org/wiki/刘松仁 "wikilink")）正在跳楼，而正在开车的林韬因差点撞到薇芸而无意间救了薇芸。外表似乎很没人性的林韬实际上有着恻隐之心，他曾帮助一个偷窃的少年人Eddy（[吴劲威饰](https://zh.wikipedia.org/wiki/吴劲威 "wikilink")），四年来一直看顾着他，教导他靠自己的本事赚钱，必能出人头地。认了Eddy为干儿子后，林韬发现原来Eddy是谢恩的儿子。
 
 谢恩当年拼搏事业，和丈夫离婚并放弃两个儿子的抚养权。Eddy对谢恩充满怨恨，弟弟Eden则被大人蒙骗，以为妈妈死了。谢恩的前夫癌症过世后，两个孩子跟着她住，一直自责没当好妈妈的谢恩很努力想做个好妈妈，却得不到孩子的体谅，林韬便成了谢恩和孩子的桥梁。薇芸的侄儿Joey（[方伟杰饰](https://zh.wikipedia.org/wiki/方伟杰 "wikilink")）进入了演艺圈，未红先骄，态度非常傲慢，薇芸时常教训之，使得二人关系紧张。薇芸赞助弟弟和弟妹去希腊旅游，不料旅游巴士却翻滚下山坡，二人双双身亡！Joey从悲痛中振作起来后，变得更为偏激，薇芸愧对Joey，尝试弥补她的内疚。这两个年轻人介入薇芸和谢恩的生命中，让她们有了共同的话题，距离被拉近了。
 
-方彤琳（[瑞恩饰](../Page/瑞恩.md "wikilink")）主持演戏成绩都很亮眼，造成电视台阿姐赵非儿（[欧萱饰](https://zh.wikipedia.org/wiki/欧萱 "wikilink")）很大的压力。彤琳发现在Jason（[戚玉武饰](https://zh.wikipedia.org/wiki/戚玉武 "wikilink")）和非儿心中，都为彼此留了一个位子，非儿这个初恋占据Jason的那个位子，是她无法取代的。彤琳心里很不好受，但她对Jason的感情坚信不疑，感情日趋稳定，到了谈婚论嫁的地步。Jason拍了三年的电影，票房一直不好，但又不屑拍低俗的商业片，最后被薇芸盛情邀约，回到电视台当监制和导演。虽然当上了戏剧组的监制，但仍不改他的艺术家脾气，对很多事情依然坚持，在电视台树敌无数。Jason和彤琳拍拖了那么多年但Jason却依然未向彤琳求婚，心急的彤琳毅然决定向Jason求婚！彤琳在节目上向Jason求婚成功，对Jason依旧恋恋不忘的非儿，对好友彤琳又嫉妒又羡慕。非儿与红遍中港台的影视红星钟一鸣（[陈罗密欧饰](https://zh.wikipedia.org/wiki/陈罗密欧 "wikilink")）的配搭深得观众喜爱，被谢恩塑造成荧幕情侣，但私底下，非儿对极度爱美自恋的一鸣很不满，她很看不惯一鸣演戏时不认真的态度，因此间接得罪一鸣，一鸣常因小事而针对非儿，拍戏时处处恶整她，非儿不甘吃亏，悄悄反击，重现以前有心机的赵非儿。为恶整非儿，一鸣假意追求非儿，但当一鸣陷入人生低潮时，却是非儿帮助他振作起来。一鸣不知不觉爱上了她，默默为她付出。一鸣以为他是靠实力得到今天的地位，其实他是母亲钟倩怡（[陈美凤饰](https://zh.wikipedia.org/wiki/陈美凤 "wikilink")）银弹攻势打造出来的“产品”。当年初闯娱乐圈时，处处碰壁，焦头烂额，无比心疼，都是母亲暗中出资投资电影，指明要用钟一鸣。非儿还面对了出乎她意料之外的事：电视台从台湾来的新编剧董子怀（[陈欣淇饰](../Page/陈欣淇.md "wikilink")）竟然是她同父同母的妹妹，原来当年母亲离家出走后，到了台湾，嫁了台湾小混混，生了子怀。子怀从小就一直被继父虐打、被母亲挨骂，命十分地坎坷。
-非儿认回妹妹子怀后，因为同情子怀身世凄凉，对她非常好。子怀看起来善良、单纯，实则城府很深，工于心计，急功近利。她用手段，很快升上了故事人的位置，并因为妒忌非儿所拥有的一切，暗地里策划陷害非儿，令非儿陷入忧郁。
+方彤琳（[瑞恩](../Page/瑞恩.md "wikilink")饰）主持演戏成绩都很亮眼，造成电视台阿姐赵非儿（[欧萱饰](https://zh.wikipedia.org/wiki/欧萱 "wikilink")）很大的压力。彤琳发现在Jason（[戚玉武饰](https://zh.wikipedia.org/wiki/戚玉武 "wikilink")）和非儿心中，都为彼此留了一个位子，非儿这个初恋占据Jason的那个位子，是她无法取代的。彤琳心里很不好受，但她对Jason的感情坚信不疑，感情日趋稳定，到了谈婚论嫁的地步。Jason拍了三年的电影，票房一直不好，但又不屑拍低俗的商业片，最后被薇芸盛情邀约，回到电视台当监制和导演。虽然当上了戏剧组的监制，但仍不改他的艺术家脾气，对很多事情依然坚持，在电视台树敌无数。Jason和彤琳拍拖了那么多年但Jason却依然未向彤琳求婚，心急的彤琳毅然决定向Jason求婚！彤琳在节目上向Jason求婚成功，对Jason依旧恋恋不忘的非儿，对好友彤琳又嫉妒又羡慕。非儿与红遍中港台的影视红星钟一鸣（[陈罗密欧饰](https://zh.wikipedia.org/wiki/陈罗密欧 "wikilink")）的配搭深得观众喜爱，被谢恩塑造成荧幕情侣，但私底下，非儿对极度爱美自恋的一鸣很不满，她很看不惯一鸣演戏时不认真的态度，因此间接得罪一鸣，一鸣常因小事而针对非儿，拍戏时处处恶整她，非儿不甘吃亏，悄悄反击，重现以前有心机的赵非儿。为恶整非儿，一鸣假意追求非儿，但当一鸣陷入人生低潮时，却是非儿帮助他振作起来。一鸣不知不觉爱上了她，默默为她付出。一鸣以为他是靠实力得到今天的地位，其实他是母亲钟倩怡（[陈美凤饰](https://zh.wikipedia.org/wiki/陈美凤 "wikilink")）银弹攻势打造出来的“产品”。当年初闯娱乐圈时，处处碰壁，焦头烂额，无比心疼，都是母亲暗中出资投资电影，指明要用钟一鸣。非儿还面对了出乎她意料之外的事：电视台从台湾来的新编剧董子怀（[陈欣淇](../Page/陈欣淇.md "wikilink")饰）竟然是她同父同母的妹妹，原来当年母亲离家出走后，到了台湾，嫁了台湾小混混，生了子怀。子怀从小就一直被继父虐打、被母亲挨骂，命十分地坎坷。 非儿认回妹妹子怀后，因为同情子怀身世凄凉，对她非常好。子怀看起来善良、单纯，实则城府很深，工于心计，急功近利。她用手段，很快升上了故事人的位置，并因为妒忌非儿所拥有的一切，暗地里策划陷害非儿，令非儿陷入忧郁。
 
 Jason拍摄Joey时发生了意外，撞伤了路人，Joey把责任全推卸到导演Jason身上，暗中却求姑姑薇芸对他网开一面，Jason看出薇芸对Joey的内疚想偏袒Joey，不想薇芸为难，毅然背起黑锅承担责任，选择辞职！辞职后的Jason当起小贩，虽然表面潇洒不在意，其实却郁郁不得志，他和名气越来越大的彤琳开始有很多的分歧，不时争吵。彤琳在和Jason结婚当天早上收到匿名人发送过来的短片，那短片竟是非儿在喝醉后和Jason接吻的短片！而发送短片的人正是子怀！最后在子怀的布局下，彤琳误会Jason与非儿藕断丝连，一时冲动和Jason闹分手。非儿面对千夫所指，演艺事业进入低谷，观众对她的演技恶评如潮，非儿越发钻牛角尖，走入极端，最后把一切归到子怀身上，对她采取极端的报复行为，却害人害己，落得悲惨下场。非儿因受不了打击，选择逃避现实，失踪了。一鸣对非儿不离不弃，不仅对外宣布自己已深深地爱上了非儿，更悬赏十万美金，只为寻回非儿！非儿是否会被一鸣的不离不弃而接受一鸣？他们是否能有情人终成眷属？另一方面，彤琳惨遭毁容！正面、积极的她该怎么面对与接受这个事情？对爱情已失望的她会否和Jason白头偕老？Jason是否会对她不离不弃？究竟是谁导致彤琳毁容呢？
 
@@ -694,48 +692,44 @@ Eddy之弟</p></td>
   - 2014年12月30日：此劇確定開拍，初步敲定的演員是[鄭惠玉](https://zh.wikipedia.org/wiki/鄭惠玉 "wikilink")、[李南星](../Page/李南星.md "wikilink")、[黃碧仁](https://zh.wikipedia.org/wiki/黃碧仁 "wikilink")、[瑞恩](../Page/瑞恩.md "wikilink")、[歐萱](../Page/歐萱.md "wikilink")、[陳欣淇](https://zh.wikipedia.org/wiki/陳欣淇 "wikilink")、[陳羅密歐](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")、[戚玉武](https://zh.wikipedia.org/wiki/戚玉武 "wikilink")、[方偉傑及](https://zh.wikipedia.org/wiki/方偉傑 "wikilink")[周崇慶](https://zh.wikipedia.org/wiki/周崇慶 "wikilink")。\[1\]
   - 2015年5月12日：[鄭惠玉](https://zh.wikipedia.org/wiki/鄭惠玉 "wikilink")、[黃碧仁](https://zh.wikipedia.org/wiki/黃碧仁 "wikilink")、[陳羅密歐為此劇試造型](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")。\[2\]
   - 2015年5月14日：[瑞恩](../Page/瑞恩.md "wikilink")、[歐萱](../Page/歐萱.md "wikilink")、[陳欣淇](https://zh.wikipedia.org/wiki/陳欣淇 "wikilink")、[劉谦益為此劇試造型](https://zh.wikipedia.org/wiki/劉谦益 "wikilink")。\[3\]\[4\]\[5\]\[6\]
-  - 2015年5月27日：[李南星為此劇試造型](../Page/李南星.md "wikilink")。
+  - 2015年5月27日：[李南星](../Page/李南星.md "wikilink")為此劇試造型。
   - 2015年6月2日：[瑞恩](../Page/瑞恩.md "wikilink")、[戚玉武](https://zh.wikipedia.org/wiki/戚玉武 "wikilink")、[吳勁威為此劇試造型](https://zh.wikipedia.org/wiki/吳勁威 "wikilink")。
   - 2015年6月10日：此劇正式開拍第一天。
   - 2015年6月19日：此劇舉行開鏡儀式，出席演員包括[李南星](../Page/李南星.md "wikilink")、[鄭惠玉](https://zh.wikipedia.org/wiki/鄭惠玉 "wikilink")、[黃碧仁](https://zh.wikipedia.org/wiki/黃碧仁 "wikilink")、[瑞恩](../Page/瑞恩.md "wikilink")、[歐萱](../Page/歐萱.md "wikilink")、[戚玉武](https://zh.wikipedia.org/wiki/戚玉武 "wikilink")、[陳美鳳](https://zh.wikipedia.org/wiki/陳美鳳 "wikilink")、[陳欣淇](https://zh.wikipedia.org/wiki/陳欣淇 "wikilink")、[陳羅密歐](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")、[張振寰](https://zh.wikipedia.org/wiki/張振寰_\(藝人\) "wikilink")、[方偉傑](https://zh.wikipedia.org/wiki/方偉傑 "wikilink")、[吳勁威](https://zh.wikipedia.org/wiki/吳勁威 "wikilink")、[周崇慶及](https://zh.wikipedia.org/wiki/周崇慶 "wikilink")[張值豪](https://zh.wikipedia.org/wiki/張值豪 "wikilink")。\[7\]\[8\]\[9\]
   - 2015年6月29日：此劇舉行海報拍攝工作，出席演員有[李南星](../Page/李南星.md "wikilink")、[鄭惠玉](https://zh.wikipedia.org/wiki/鄭惠玉 "wikilink")、[黃碧仁](https://zh.wikipedia.org/wiki/黃碧仁 "wikilink")、[瑞恩](../Page/瑞恩.md "wikilink")、[歐萱](../Page/歐萱.md "wikilink")、[戚玉武](https://zh.wikipedia.org/wiki/戚玉武 "wikilink")、[陳欣淇](https://zh.wikipedia.org/wiki/陳欣淇 "wikilink")、[陳羅密歐](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")、[張振寰及](https://zh.wikipedia.org/wiki/張振寰_\(藝人\) "wikilink")[方偉傑](https://zh.wikipedia.org/wiki/方偉傑 "wikilink")。\[10\]\[11\]
   - 2015年8月：此劇于「中國國際影視展2015」舉行推介會，出席演員有[鄭惠玉及](https://zh.wikipedia.org/wiki/鄭惠玉 "wikilink")[歐萱](../Page/歐萱.md "wikilink")。\[12\]
-  - 2015年9月：[劉松仁為此劇來新演出](../Page/劉松仁.md "wikilink")。\[13\]\[14\]\[15\]\[16\]
+  - 2015年9月：[劉松仁](../Page/劉松仁.md "wikilink")為此劇來新演出。\[13\]\[14\]\[15\]\[16\]
   - 2015年9月25日：此劇飛往澳大利亞[墨爾本拍攝](https://zh.wikipedia.org/wiki/墨爾本 "wikilink")，出席演員有[李南星](../Page/李南星.md "wikilink")、[鄭惠玉](https://zh.wikipedia.org/wiki/鄭惠玉 "wikilink")、[瑞恩](../Page/瑞恩.md "wikilink")、[歐萱](../Page/歐萱.md "wikilink")、[戚玉武及](https://zh.wikipedia.org/wiki/戚玉武 "wikilink")[陳羅密歐](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")，Toggle獨家追蹤報道。\[17\]\[18\]\[19\]\[20\]\[21\]\[22\]\[23\]
   - 2015年10月：此劇正式殺青。
   - 2015年10月24日：此劇宣佈[陳潔儀會為此劇主唱](../Page/陳潔儀_\(新加坡\).md "wikilink")。\[24\]\[25\]
-  - 2015年11月7日：此劇在Square
-    2舉行粉絲簽名會，出席演員有[鄭惠玉](https://zh.wikipedia.org/wiki/鄭惠玉 "wikilink")、[張振寰](https://zh.wikipedia.org/wiki/張振寰_\(藝人\) "wikilink")、[陳羅密歐及](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")[方偉傑](https://zh.wikipedia.org/wiki/方偉傑 "wikilink")。
-  - 2015年11月15日：此劇在Junction
-    10舉行粉絲見面會，出席演員有[鄭惠玉](https://zh.wikipedia.org/wiki/鄭惠玉 "wikilink")、[張振寰](https://zh.wikipedia.org/wiki/張振寰_\(藝人\) "wikilink")、[陳羅密歐](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")、[方偉傑及](https://zh.wikipedia.org/wiki/方偉傑 "wikilink")[周崇慶](https://zh.wikipedia.org/wiki/周崇慶 "wikilink")。
+  - 2015年11月7日：此劇在Square 2舉行粉絲簽名會，出席演員有[鄭惠玉](https://zh.wikipedia.org/wiki/鄭惠玉 "wikilink")、[張振寰](https://zh.wikipedia.org/wiki/張振寰_\(藝人\) "wikilink")、[陳羅密歐及](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")[方偉傑](https://zh.wikipedia.org/wiki/方偉傑 "wikilink")。
+  - 2015年11月15日：此劇在Junction 10舉行粉絲見面會，出席演員有[鄭惠玉](https://zh.wikipedia.org/wiki/鄭惠玉 "wikilink")、[張振寰](https://zh.wikipedia.org/wiki/張振寰_\(藝人\) "wikilink")、[陳羅密歐](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")、[方偉傑及](https://zh.wikipedia.org/wiki/方偉傑 "wikilink")[周崇慶](https://zh.wikipedia.org/wiki/周崇慶 "wikilink")。
   - 2015年11月18日：此劇舉行媒體招待會，出席演員有[鄭惠玉](https://zh.wikipedia.org/wiki/鄭惠玉 "wikilink")、[黃碧仁](https://zh.wikipedia.org/wiki/黃碧仁 "wikilink")、[瑞恩](../Page/瑞恩.md "wikilink")、[歐萱](../Page/歐萱.md "wikilink")、[戚玉武](https://zh.wikipedia.org/wiki/戚玉武 "wikilink")、[陳羅密歐](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")、[陳欣淇](https://zh.wikipedia.org/wiki/陳欣淇 "wikilink")、[張振寰](https://zh.wikipedia.org/wiki/張振寰_\(藝人\) "wikilink")、[方偉傑及](https://zh.wikipedia.org/wiki/方偉傑 "wikilink")[周崇慶](https://zh.wikipedia.org/wiki/周崇慶 "wikilink")。\[26\]\[27\]\[28\]
   - 2015年11月19日：此劇預告片在8頻道面簿、YouTube上載。
-  - 2015年12月4日：此劇於17:00在馬來西亞[Astro雙星海外首播](../Page/Astro雙星.md "wikilink")，馬來西亞觀眾優先看。
-  - 2015年12月4日：此劇於21:00在新加坡[新傳媒8頻道首播](../Page/新傳媒8頻道.md "wikilink")。
-  - 2015年12月10日：此劇演員[張振寰及](https://zh.wikipedia.org/wiki/張振寰_\(藝人\) "wikilink")[方偉傑在](https://zh.wikipedia.org/wiki/方偉傑 "wikilink")[新傳媒8頻道節目](../Page/新傳媒8頻道.md "wikilink")《獅城有約》中出現。
+  - 2015年12月4日：此劇於17:00在馬來西亞[Astro雙星](../Page/Astro雙星.md "wikilink")海外首播，馬來西亞觀眾優先看。
+  - 2015年12月4日：此劇於21:00在新加坡[新傳媒8頻道](../Page/新傳媒8頻道.md "wikilink")首播。
+  - 2015年12月10日：此劇演員[張振寰及](https://zh.wikipedia.org/wiki/張振寰_\(藝人\) "wikilink")[方偉傑在](https://zh.wikipedia.org/wiki/方偉傑 "wikilink")[新傳媒8頻道](../Page/新傳媒8頻道.md "wikilink")節目《獅城有約》中出現。
   - 2016年1月16日：此劇在全新的新傳媒舉行慈善謝幕禮，出席演員包括[鄭惠玉](https://zh.wikipedia.org/wiki/鄭惠玉 "wikilink")、[黃碧仁](https://zh.wikipedia.org/wiki/黃碧仁 "wikilink")、[陳羅密歐](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")、[陳欣淇](https://zh.wikipedia.org/wiki/陳欣淇 "wikilink")、[張振寰](https://zh.wikipedia.org/wiki/張振寰_\(藝人\) "wikilink")、[方偉傑](https://zh.wikipedia.org/wiki/方偉傑 "wikilink")、[馮瑾瑜](https://zh.wikipedia.org/wiki/馮瑾瑜 "wikilink")、[林俊良及](https://zh.wikipedia.org/wiki/林俊良 "wikilink")[張值豪](https://zh.wikipedia.org/wiki/張值豪 "wikilink")。慈善謝幕禮共籌得超过2万元，本捐款數額將捐贈給新傳媒關懷計劃的受益者。\[29\]
-  - 2017年6月1日：每逢星期一至四，於18:00在馬來西亞[Ntv7](../Page/Ntv7.md "wikilink")
-    隆重启播。
+  - 2017年6月1日：每逢星期一至四，於18:00在馬來西亞[Ntv7](../Page/Ntv7.md "wikilink") 隆重启播。
 
 ## 軼事
 
   - 此劇是繼《[信約：我們的家園](https://zh.wikipedia.org/wiki/信約：我們的家園 "wikilink")》后，新傳媒在2015年製作的第二部續集。
   - 此剧是两大阿姐[鄭惠玉及](https://zh.wikipedia.org/wiki/鄭惠玉 "wikilink")[黃碧仁](https://zh.wikipedia.org/wiki/黃碧仁 "wikilink")27年来首次同台演出。
-  - 此剧是[李南星及](../Page/李南星.md "wikilink")[劉松仁繼](../Page/劉松仁.md "wikilink")《掃冰者》后再度合作的電視劇。
+  - 此剧是[李南星](../Page/李南星.md "wikilink")及[劉松仁](../Page/劉松仁.md "wikilink")繼《掃冰者》后再度合作的電視劇。
   - 此剧是[陈美凤第一次参演的新加坡剧集](https://zh.wikipedia.org/wiki/陈美凤 "wikilink")。
   - 此剧是[黃碧仁及](https://zh.wikipedia.org/wiki/黃碧仁 "wikilink")[陳欣淇繼](https://zh.wikipedia.org/wiki/陳欣淇 "wikilink")《[三個願望](https://zh.wikipedia.org/wiki/三個願望 "wikilink")》、《[虎媽來了](../Page/虎媽來了.md "wikilink")》後連續第三度合作的電視劇。
   - 此剧是[黃碧仁及](https://zh.wikipedia.org/wiki/黃碧仁 "wikilink")[方偉傑繼](https://zh.wikipedia.org/wiki/方偉傑 "wikilink")《[虎妈来了](https://zh.wikipedia.org/wiki/虎妈来了 "wikilink")》後第二度合作的電視劇。
   - 此剧是[黃碧仁與](https://zh.wikipedia.org/wiki/黃碧仁 "wikilink")[瑞恩](../Page/瑞恩.md "wikilink")、[陳羅密歐](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")、[張振寰](https://zh.wikipedia.org/wiki/張振寰_\(藝人\) "wikilink")、[吳勁威及](https://zh.wikipedia.org/wiki/吳勁威 "wikilink")[張值豪首度合作的電視劇](https://zh.wikipedia.org/wiki/張值豪 "wikilink")。
   - 此剧是[陳欣淇继](https://zh.wikipedia.org/wiki/陳欣淇 "wikilink")《[最火搭档2](../Page/最火搭档2.md "wikilink")》后，第二次饰演反派的剧集。
   - 此剧是[張振寰及](https://zh.wikipedia.org/wiki/張振寰_\(藝人\) "wikilink")[陳欣淇繼](https://zh.wikipedia.org/wiki/陳欣淇 "wikilink")《[樂在雙城](https://zh.wikipedia.org/wiki/樂在雙城 "wikilink")》後，再度飾演情侶。
-  - 此剧是[歐萱及](../Page/歐萱.md "wikilink")[陳羅密歐繼](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")《[信約：動盪的年代](https://zh.wikipedia.org/wiki/信約：動盪的年代 "wikilink")》後，再度合作。
-  - 此剧在大结局播放了[黃文永在](../Page/黃文永.md "wikilink")2011年得奖的片段，而在片尾亦出現了向[黃文永致敬的句子](../Page/黃文永.md "wikilink")。
+  - 此剧是[歐萱](../Page/歐萱.md "wikilink")及[陳羅密歐繼](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")《[信約：動盪的年代](https://zh.wikipedia.org/wiki/信約：動盪的年代 "wikilink")》後，再度合作。
+  - 此剧在大结局播放了[黃文永](../Page/黃文永.md "wikilink")在2011年得奖的片段，而在片尾亦出現了向[黃文永](../Page/黃文永.md "wikilink")致敬的句子。
   - 此剧大结局收视破百万，共有102万观众收看大结局。
 
 ## 與史實不合之處
 
-  - 林韬在此剧对Richard
-    Ma一共讲了两次“王八蛋”，第9集发现被背叛时说一次，第15集在Eddy工作的地方看到Richard说一次，中文字幕在此剧播出时被改成“混蛋”。这不符合实际，因为在《[信约：动荡的年代](https://zh.wikipedia.org/wiki/信约：动荡的年代 "wikilink")》里，“王八蛋”改成“混蛋”没有配音，“走狗”则被改成“傀儡”，但很显然的被附上配音。
+  - 林韬在此剧对Richard Ma一共讲了两次“王八蛋”，第9集发现被背叛时说一次，第15集在Eddy工作的地方看到Richard说一次，中文字幕在此剧播出时被改成“混蛋”。这不符合实际，因为在《[信约：动荡的年代](https://zh.wikipedia.org/wiki/信约：动荡的年代 "wikilink")》里，“王八蛋”改成“混蛋”没有配音，“走狗”则被改成“傀儡”，但很显然的被附上配音。
 
 ## 争议
 
@@ -777,23 +771,7 @@ Eddy之弟</p></td>
 
 ## 註明
 
-[Category:新加坡电视剧](https://zh.wikipedia.org/wiki/Category:新加坡电视剧 "wikilink")
-[Category:2015年電視劇集](https://zh.wikipedia.org/wiki/Category:2015年電視劇集 "wikilink")
-[Category:新傳媒電視台慶劇](https://zh.wikipedia.org/wiki/Category:新傳媒電視台慶劇 "wikilink")
-[Category:新加坡背景作品](https://zh.wikipedia.org/wiki/Category:新加坡背景作品 "wikilink")
-[Category:澳大利亞背景作品](https://zh.wikipedia.org/wiki/Category:澳大利亞背景作品 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
-[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
-[Category:電視台背景作品](https://zh.wikipedia.org/wiki/Category:電視台背景作品 "wikilink")
-[Category:演藝界題材電視劇](https://zh.wikipedia.org/wiki/Category:演藝界題材電視劇 "wikilink")
-[Category:新加坡愛情劇](https://zh.wikipedia.org/wiki/Category:新加坡愛情劇 "wikilink")
-[Category:職場戀情連續劇](https://zh.wikipedia.org/wiki/Category:職場戀情連續劇 "wikilink")
-[Category:政治電視劇](https://zh.wikipedia.org/wiki/Category:政治電視劇 "wikilink")
-[Category:機能不全家庭題材電視劇](https://zh.wikipedia.org/wiki/Category:機能不全家庭題材電視劇 "wikilink")
-[Category:外遇題材電視劇](https://zh.wikipedia.org/wiki/Category:外遇題材電視劇 "wikilink")
-[Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink")
-[Category:精神病題材電視劇](https://zh.wikipedia.org/wiki/Category:精神病題材電視劇 "wikilink")
-[Category:毀容題材電視劇](https://zh.wikipedia.org/wiki/Category:毀容題材電視劇 "wikilink")
+[Category:新加坡电视剧](https://zh.wikipedia.org/wiki/Category:新加坡电视剧 "wikilink") [Category:2015年電視劇集](https://zh.wikipedia.org/wiki/Category:2015年電視劇集 "wikilink") [Category:新傳媒電視台慶劇](https://zh.wikipedia.org/wiki/Category:新傳媒電視台慶劇 "wikilink") [Category:新加坡背景作品](https://zh.wikipedia.org/wiki/Category:新加坡背景作品 "wikilink") [Category:澳大利亞背景作品](https://zh.wikipedia.org/wiki/Category:澳大利亞背景作品 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink") [Category:電視台背景作品](https://zh.wikipedia.org/wiki/Category:電視台背景作品 "wikilink") [Category:演藝界題材電視劇](https://zh.wikipedia.org/wiki/Category:演藝界題材電視劇 "wikilink") [Category:新加坡愛情劇](https://zh.wikipedia.org/wiki/Category:新加坡愛情劇 "wikilink") [Category:職場戀情連續劇](https://zh.wikipedia.org/wiki/Category:職場戀情連續劇 "wikilink") [Category:政治電視劇](https://zh.wikipedia.org/wiki/Category:政治電視劇 "wikilink") [Category:機能不全家庭題材電視劇](https://zh.wikipedia.org/wiki/Category:機能不全家庭題材電視劇 "wikilink") [Category:外遇題材電視劇](https://zh.wikipedia.org/wiki/Category:外遇題材電視劇 "wikilink") [Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink") [Category:精神病題材電視劇](https://zh.wikipedia.org/wiki/Category:精神病題材電視劇 "wikilink") [Category:毀容題材電視劇](https://zh.wikipedia.org/wiki/Category:毀容題材電視劇 "wikilink")
 
 1.  [展望2015年四方盒：本地剧有何看头？](http://entertainment.toggle.sg/zh/celebrityphotos/2015-5203682#slideshow-16)
 2.

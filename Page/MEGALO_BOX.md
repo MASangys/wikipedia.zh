@@ -1,12 +1,10 @@
-《**MEGALO
-BOX**》是由[森山洋導演](https://zh.wikipedia.org/wiki/森山洋 "wikilink")、[TMS娛樂和3×Cube製作的原創電視動畫](../Page/TMS娛樂.md "wikilink")，是以[高森朝雄和](https://zh.wikipedia.org/wiki/高森朝雄 "wikilink")[千葉徹彌的漫畫](../Page/千葉徹彌.md "wikilink")《[明日之丈](../Page/明日之丈.md "wikilink")》為藍本的[精神續作](https://zh.wikipedia.org/wiki/精神續作 "wikilink")\[1\]。
+《**MEGALO BOX**》是由[森山洋導演](https://zh.wikipedia.org/wiki/森山洋 "wikilink")、[TMS娛樂](../Page/TMS娛樂.md "wikilink")和3×Cube製作的原創電視動畫，是以[高森朝雄和](https://zh.wikipedia.org/wiki/高森朝雄 "wikilink")[千葉徹彌](../Page/千葉徹彌.md "wikilink")的漫畫《[明日之丈](../Page/明日之丈.md "wikilink")》為藍本的[精神續作](https://zh.wikipedia.org/wiki/精神續作 "wikilink")\[1\]。
 
 ## 故事簡介
 
 將肉體與「裝甲技術」融合的究極格鬥技——「MEGALOBOX」，將自己的全部賭在上面的男人們的熱血戰鬥開始！
 
-今天也立於非認可地區的賭博比賽賽場上的MEGALO拳擊手「JUNK DOG」。
-雖然具備實力，自己卻只有比賽造假賺錢這一條生存之道，他為這樣的「現在」感到心焦。但是，他與孤高的冠軍·勇利相遇後，作為一個MEGALO拳擊手，作為一個男人，向自己的「現在」發起挑戰。
+今天也立於非認可地區的賭博比賽賽場上的MEGALO拳擊手「JUNK DOG」。 雖然具備實力，自己卻只有比賽造假賺錢這一條生存之道，他為這樣的「現在」感到心焦。但是，他與孤高的冠軍·勇利相遇後，作為一個MEGALO拳擊手，作為一個男人，向自己的「現在」發起挑戰。
 
 ## 登場人物
 
@@ -77,8 +75,7 @@ BOX**》是由[森山洋導演](https://zh.wikipedia.org/wiki/森山洋 "wikilin
 
 :; 「」（第1話－第12話）
 
-::
-作詞、作曲、主唱：[NakamuraEmi](https://zh.wikipedia.org/wiki/NakamuraEmi "wikilink")，編曲：
+:: 作詞、作曲、主唱：[NakamuraEmi](https://zh.wikipedia.org/wiki/NakamuraEmi "wikilink")，編曲：
 
 :; 「The Ending」（第13話）
 
@@ -266,8 +263,7 @@ BOX**》是由[森山洋導演](https://zh.wikipedia.org/wiki/森山洋 "wikilin
 
 ### 漫畫
 
-以《**MEGALO BOX 宿命的雙拳**》（）為標題，於[少年Magazine
-Edge](https://zh.wikipedia.org/wiki/少年Magazine_Edge "wikilink")（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）2018年3月號到9月號期間進行連載\[3\]。作画由佐久間力負責。單行本全2卷。
+以《**MEGALO BOX 宿命的雙拳**》（）為標題，於[少年Magazine Edge](https://zh.wikipedia.org/wiki/少年Magazine_Edge "wikilink")（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）2018年3月號到9月號期間進行連載\[3\]。作画由佐久間力負責。單行本全2卷。
 
 1.  2018年4月17日發售\[4\]、ISBN 978-4-06-511331-8
 2.  2018年10月17日發售\[5\]、ISBN 978-4-06-513198-5
@@ -278,15 +274,7 @@ Edge](https://zh.wikipedia.org/wiki/少年Magazine_Edge "wikilink")（[講談社
 
   -
   -
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:TMS_Entertainment](https://zh.wikipedia.org/wiki/Category:TMS_Entertainment "wikilink")
-[Category:TBS深夜動畫](https://zh.wikipedia.org/wiki/Category:TBS深夜動畫 "wikilink")
-[Category:拳擊題材作品](https://zh.wikipedia.org/wiki/Category:拳擊題材作品 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
+[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:TMS_Entertainment](https://zh.wikipedia.org/wiki/Category:TMS_Entertainment "wikilink") [Category:TBS深夜動畫](https://zh.wikipedia.org/wiki/Category:TBS深夜動畫 "wikilink") [Category:拳擊題材作品](https://zh.wikipedia.org/wiki/Category:拳擊題材作品 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
 
 1.
 2.

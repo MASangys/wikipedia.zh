@@ -1,15 +1,10 @@
-****（）是由Project LoveLive\!
-Sunshine\!\!主办的日本巡回演唱会，同时也是偶像团体[Aqours的第二次大型演唱会以及Aqours以及LoveLive](../Page/Aqours.md "wikilink")\!企划首次巡回演唱会。
+****（）是由Project LoveLive\! Sunshine\!\!主办的日本巡回演唱会，同时也是偶像团体[Aqours](../Page/Aqours.md "wikilink")的第二次大型演唱会以及Aqours以及LoveLive\!企划首次巡回演唱会。
 
-本次演唱会分三次举行，分别于2017年8月5日和6日在名古屋市综合体育馆，2017年8月19日和20日在神户世界纪念馆以及2017年9月29日和30日在[西武巨蛋举办](../Page/西武巨蛋.md "wikilink")。
+本次演唱会分三次举行，分别于2017年8月5日和6日在名古屋市综合体育馆，2017年8月19日和20日在神户世界纪念馆以及2017年9月29日和30日在[西武巨蛋](../Page/西武巨蛋.md "wikilink")举办。
 
 ## 演唱会概况
 
-最先于Aqours的第一场演唱会《[LoveLive\! Sunshine\!\! Aqours First LoveLive\!
-〜Step\! ZERO to
-ONE\!\!〜](../Page/LoveLive!_Sunshine!!_Aqours_First_LoveLive!_〜Step!_ZERO_to_ONE!!〜.md "wikilink")》的第二天披露了本次演唱会的信息并确定本次演唱会主题为“HAPPY
-PARTY TRAIN
-TOUR”。2017年3月30日，演唱会通贩信息公开\[1\]，除以上场所外，官方亦在日本国内和国外的多个电影院设置了多个转播场。
+最先于Aqours的第一场演唱会《[LoveLive\! Sunshine\!\! Aqours First LoveLive\! 〜Step\! ZERO to ONE\!\!〜](../Page/LoveLive!_Sunshine!!_Aqours_First_LoveLive!_〜Step!_ZERO_to_ONE!!〜.md "wikilink")》的第二天披露了本次演唱会的信息并确定本次演唱会主题为“HAPPY PARTY TRAIN TOUR”。2017年3月30日，演唱会通贩信息公开\[1\]，除以上场所外，官方亦在日本国内和国外的多个电影院设置了多个转播场。
 
 ## 海外转播场
 
@@ -120,8 +115,7 @@ TOUR”。2017年3月30日，演唱会通贩信息公开\[1\]，除以上场所�
 
       - MC4
 
-17. [MIRAI
-    TICKET](https://zh.wikipedia.org/wiki/思念合而为一吧/MIRAI_TICKET "wikilink")
+17. [MIRAI TICKET](https://zh.wikipedia.org/wiki/思念合而为一吧/MIRAI_TICKET "wikilink")
 
 18.   - Encore动画
 
@@ -172,19 +166,16 @@ TOUR”。2017年3月30日，演唱会通贩信息公开\[1\]，除以上场所�
 
       - MC4
 
-17. [MIRAI
-    TICKET](https://zh.wikipedia.org/wiki/思念合而为一吧/MIRAI_TICKET "wikilink")
+17. [MIRAI TICKET](https://zh.wikipedia.org/wiki/思念合而为一吧/MIRAI_TICKET "wikilink")
 
 18.   - Encore动画
 
 19.   - MC5
-        LoveLive\!\!School Idol Festival All
-        Stars宣传PV以及动画第二季PV，发布第三次演出信息。
+        LoveLive\!\!School Idol Festival All Stars宣传PV以及动画第二季PV，发布第三次演出信息。
         MC6
 
 20.
-21. [Landing action
-    Yeah\!\!](../Page/Landing_action_Yeah!!.md "wikilink")
+21. [Landing action Yeah\!\!](../Page/Landing_action_Yeah!!.md "wikilink")
 
 ## BD与DVD
 
@@ -200,12 +191,9 @@ TOUR”。2017年3月30日，演唱会通贩信息公开\[1\]，除以上场所�
 
 ## 外部链接
 
-[分类:动画音乐会](https://zh.wikipedia.org/wiki/分类:动画音乐会 "wikilink")
-[分类:2017年音乐相关影像作品](https://zh.wikipedia.org/wiki/分类:2017年音乐相关影像作品 "wikilink")
+[分类:动画音乐会](https://zh.wikipedia.org/wiki/分类:动画音乐会 "wikilink") [分类:2017年音乐相关影像作品](https://zh.wikipedia.org/wiki/分类:2017年音乐相关影像作品 "wikilink")
 
-[Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")
-[Category:Love_Live\!](https://zh.wikipedia.org/wiki/Category:Love_Live! "wikilink")
+[Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink") [Category:Love_Live\!](https://zh.wikipedia.org/wiki/Category:Love_Live! "wikilink")
 
 1.
-2.  [2nd
-    LoveLive官方网站](http://www.lovelive-anime.jp/uranohoshi/sp_2ndlive_lvos.php)
+2.  [2nd LoveLive官方网站](http://www.lovelive-anime.jp/uranohoshi/sp_2ndlive_lvos.php)

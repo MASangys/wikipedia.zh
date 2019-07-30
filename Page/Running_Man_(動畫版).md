@@ -1,8 +1,4 @@
-《**Running Man**》是韓國的動畫片，根據SBS電視台的綜藝節目[Running
-Man出現的人物形象製作](../Page/Running_Man.md "wikilink")。\[1\]\[2\]動畫片看準節目老少咸宜的特性，以及在海外持續的高人氣，節目單位根據2013年推出的《動物的王國》特輯設定，由7位成員化身各種動物，主要是以兒童為目標製作24集，是描寫代表各種動物的選手們，前去參加「Running
-Man
-大賽」角逐冠軍的奇幻冒險故事，事實上也就是將「撕名牌」主題動漫化的呈現，於2017年7月29日週末晨間時段開播，以及會與通訊軟體LINE合作推出貼圖。\[3\]
-主題曲由[EXO-CBX演唱](../Page/EXO-CBX.md "wikilink")。\[4\]
+《**Running Man**》是韓國的動畫片，根據SBS電視台的綜藝節目[Running Man出現的人物形象製作](../Page/Running_Man.md "wikilink")。\[1\]\[2\]動畫片看準節目老少咸宜的特性，以及在海外持續的高人氣，節目單位根據2013年推出的《動物的王國》特輯設定，由7位成員化身各種動物，主要是以兒童為目標製作24集，是描寫代表各種動物的選手們，前去參加「Running Man 大賽」角逐冠軍的奇幻冒險故事，事實上也就是將「撕名牌」主題動漫化的呈現，於2017年7月29日週末晨間時段開播，以及會與通訊軟體LINE合作推出貼圖。\[3\] 主題曲由[EXO-CBX](../Page/EXO-CBX.md "wikilink")演唱。\[4\]
 
 第二季將預計於2019年1月5日開播，共24集。
 
@@ -277,7 +273,7 @@ B I N G O鐵鎚賓果</p></td>
 <td><p>第31話</p></td>
 <td><p>2018年1月6日</p></td>
 <td><p>리우의 필승전략<br />
-劉大的獲勝策略</p></td>
+劉大的計畫</p></td>
 </tr>
 <tr class="odd">
 <td><p>第32話</p></td>
@@ -406,16 +402,9 @@ B I N G O鐵鎚賓果</p></td>
 
 ### 侵犯肖像權
 
-2017年6月25日,
-[SBS動畫組推出了動畫版](https://zh.wikipedia.org/wiki/SBS "wikilink")《Running
-Man》的預告錄像，但據知情人士透露，《Running
-Man》團隊和明星嘉賓起初並不知道有動畫版，等預告公開後才得知，藝人們對於以自己為原型創作的動畫表露出了抗議之態。然而[SBS動畫組卻不認為這有任何問題](https://zh.wikipedia.org/wiki/SBS "wikilink")，因為「這是公司層面拍攝的內容，沒有必要和他們協商」。
-對於以跑男成員的原型創作的動物形象，該人士解釋：「只是參照了節目原型，談不上肖像權。
-」但[SBS並沒想到還有一個隱藏的問題](https://zh.wikipedia.org/wiki/SBS "wikilink")，那就是早就離開了《Running
-Man》的[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")，但動畫中卻出現了按照他創造出的「猴子」，[Gary發現問題後向](../Page/Gary_\(韓國歌手\).md "wikilink")[SBS提出了異議](https://zh.wikipedia.org/wiki/SBS "wikilink")。
+2017年6月25日, [SBS動畫組推出了動畫版](https://zh.wikipedia.org/wiki/SBS "wikilink")《Running Man》的預告錄像，但據知情人士透露，《Running Man》團隊和明星嘉賓起初並不知道有動畫版，等預告公開後才得知，藝人們對於以自己為原型創作的動畫表露出了抗議之態。然而[SBS動畫組卻不認為這有任何問題](https://zh.wikipedia.org/wiki/SBS "wikilink")，因為「這是公司層面拍攝的內容，沒有必要和他們協商」。 對於以跑男成員的原型創作的動物形象，該人士解釋：「只是參照了節目原型，談不上肖像權。 」但[SBS並沒想到還有一個隱藏的問題](https://zh.wikipedia.org/wiki/SBS "wikilink")，那就是早就離開了《Running Man》的[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")，但動畫中卻出現了按照他創造出的「猴子」，[Gary發現問題後向](../Page/Gary_\(韓國歌手\).md "wikilink")[SBS提出了異議](https://zh.wikipedia.org/wiki/SBS "wikilink")。
 
-動畫組向明星嘉賓致歉，沒有事先告訴他們，[Gary方面也提出了異議](../Page/Gary_\(韓國歌手\).md "wikilink")，對此動畫組也致以深深的歉意，雖然他們不知道[Gary會因為他們使用了這個形象而感到不開心](../Page/Gary_\(韓國歌手\).md "wikilink")，但當時他們確實沒有將其作為一個問題來看。此外，據悉動畫組沒有讓《Running
-Man》中的任何一名成員參加動畫的配音工作。\[5\]\[6\]
+動畫組向明星嘉賓致歉，沒有事先告訴他們，[Gary方面也提出了異議](../Page/Gary_\(韓國歌手\).md "wikilink")，對此動畫組也致以深深的歉意，雖然他們不知道[Gary會因為他們使用了這個形象而感到不開心](../Page/Gary_\(韓國歌手\).md "wikilink")，但當時他們確實沒有將其作為一個問題來看。此外，據悉動畫組沒有讓《Running Man》中的任何一名成員參加動畫的配音工作。\[5\]\[6\]
 
 ## 註釋
 
@@ -423,11 +412,9 @@ Man》中的任何一名成員參加動畫的配音工作。\[5\]\[6\]
 
   - [Running Man動畫官方網站](http://www.runningman-ani.com)
   - [Running Man動畫官方部落格](http://blog.naver.com/runningman_animation)
-  - [Running
-    Man動畫Youtube官方頻道](https://www.youtube.com/channel/UCHTeBVPmUtbJ1Mfqo_YK9YQ/featured)
+  - [Running Man動畫Youtube官方頻道](https://www.youtube.com/channel/UCHTeBVPmUtbJ1Mfqo_YK9YQ/featured)
 
-[Category:2017年動畫](https://zh.wikipedia.org/wiki/Category:2017年動畫 "wikilink")
-[Category:2018年動畫](https://zh.wikipedia.org/wiki/Category:2018年動畫 "wikilink")
+[Category:2017年動畫](https://zh.wikipedia.org/wiki/Category:2017年動畫 "wikilink") [Category:2018年動畫](https://zh.wikipedia.org/wiki/Category:2018年動畫 "wikilink")
 
 1.
 2.

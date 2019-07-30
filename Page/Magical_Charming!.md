@@ -1,6 +1,4 @@
-《**Magical Charming\!**》是[Lump of
-Sugar在](../Page/Lump_of_Sugar.md "wikilink")2013年5月31日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。中文版預定由HIKARI
-FIELD在[Steam平台發行](../Page/Steam.md "wikilink")\[2\]。
+《**Magical Charming\!**》是[Lump of Sugar在](../Page/Lump_of_Sugar.md "wikilink")2013年5月31日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。中文版預定由HIKARI FIELD在[Steam](../Page/Steam.md "wikilink")平台發行\[2\]。
 
 ## 故事簡介
 
@@ -35,8 +33,7 @@ FIELD在[Steam平台發行](../Page/Steam.md "wikilink")\[2\]。
 ## 主題曲
 
   - 片頭曲「Graceful Anomaly」
-    主唱：[ave;new](https://zh.wikipedia.org/wiki/ave;new "wikilink")
-    feat.[佐倉紗織](../Page/佐倉紗織.md "wikilink")，作詞：佐倉紗織，作曲、編曲：a.k.a.dRESS
+    主唱：[ave;new](https://zh.wikipedia.org/wiki/ave;new "wikilink") feat.[佐倉紗織](../Page/佐倉紗織.md "wikilink")，作詞：佐倉紗織，作曲、編曲：a.k.a.dRESS
   - 片尾曲「Sugar Ripple」
     主唱：ave;new feat.佐倉紗織，作詞：佐倉紗織，作曲、編曲：a.k.a.dRESS
   - 特別片尾曲「 ～I'm engulfed in sorrow～」
@@ -44,8 +41,7 @@ FIELD在[Steam平台發行](../Page/Steam.md "wikilink")\[2\]。
 
 ## 評價
 
-Magical
-Charming\!在2013年Getchu.com舉辦的美少女遊戲大賞中獲得綜合部門第19名\[3\]、系統部門第6名\[4\]、角色部門葉山秋音第11名\[5\]。於2013年度「[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")」獲得角色設計賞金賞\[6\]。
+Magical Charming\!在2013年Getchu.com舉辦的美少女遊戲大賞中獲得綜合部門第19名\[3\]、系統部門第6名\[4\]、角色部門葉山秋音第11名\[5\]。於2013年度「[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")」獲得角色設計賞金賞\[6\]。
 
 ## 參考來源
 
@@ -54,12 +50,7 @@ Charming\!在2013年Getchu.com舉辦的美少女遊戲大賞中獲得綜合部�
   - [日文版遊戲官網](http://www.lumpofsugar.co.jp/product/magicha/index.php)
   - [中文版遊戲官網](http://www.hikarifield.com/magicha/index.html)
 
-[Category:2013年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2013年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink")
-[Category:魔法學校背景作品](https://zh.wikipedia.org/wiki/Category:魔法學校背景作品 "wikilink")
+[Category:2013年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2013年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:魔法學校背景作品](https://zh.wikipedia.org/wiki/Category:魔法學校背景作品 "wikilink")
 
 1.
 2.

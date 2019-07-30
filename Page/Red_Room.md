@@ -1,38 +1,24 @@
-'''Red Velvet First Concert "Red Room" '''是韓國女子組合[Red
-Velvet于](../Page/Red_Velvet.md "wikilink")2017年舉辦的第一次單獨亚洲巡回演唱會。
+'''Red Velvet First Concert "Red Room" '''是韓國女子組合[Red Velvet于](../Page/Red_Velvet.md "wikilink")2017年舉辦的第一次單獨亚洲巡回演唱會。
 
 ## 概述
 
-[SM娛樂在](../Page/SM娛樂.md "wikilink")2017年7月宣布舉辦這次演唱會。門票銷售從7月13日開始，由YES24網站負責票務。
+[SM娛樂](../Page/SM娛樂.md "wikilink")在2017年7月宣布舉辦這次演唱會。門票銷售從7月13日開始，由YES24網站負責票務。
 
-演唱會演出了[Red
-Velvet的出道單曲](../Page/Red_Velvet.md "wikilink")《[행복(Happiness)](https://zh.wikipedia.org/wiki/Happiness_\(Red_Velvet單曲\) "wikilink")》、《[Be
-Natural](https://zh.wikipedia.org/wiki/Be_Natural "wikilink")》、四張迷你專輯《[Ice
-Cream
-Cake](https://zh.wikipedia.org/wiki/Ice_Cream_Cake "wikilink")》、《[The
-Velvet](../Page/The_Velvet.md "wikilink")》、《[Russian
-Roulette](https://zh.wikipedia.org/wiki/Russian_Roulette_\(Red_Velvet_EP\) "wikilink")》、《[Rookie](../Page/Rookie.md "wikilink")》、一張夏日特別專輯《[The
-Red Summer](../Page/The_Red_Summer.md "wikilink")》及一張正規專輯《[The
-Red](../Page/The_Red.md "wikilink")》的大部分曲目。以[首爾為首站拉開序幕](../Page/首爾.md "wikilink")\[1\]\[2\]。
+演唱會演出了[Red Velvet的出道單曲](../Page/Red_Velvet.md "wikilink")《[행복(Happiness)](https://zh.wikipedia.org/wiki/Happiness_\(Red_Velvet單曲\) "wikilink")》、《[Be Natural](https://zh.wikipedia.org/wiki/Be_Natural "wikilink")》、四張迷你專輯《[Ice Cream Cake](https://zh.wikipedia.org/wiki/Ice_Cream_Cake "wikilink")》、《[The Velvet](../Page/The_Velvet.md "wikilink")》、《[Russian Roulette](https://zh.wikipedia.org/wiki/Russian_Roulette_\(Red_Velvet_EP\) "wikilink")》、《[Rookie](../Page/Rookie.md "wikilink")》、一張夏日特別專輯《[The Red Summer](../Page/The_Red_Summer.md "wikilink")》及一張正規專輯《[The Red](../Page/The_Red.md "wikilink")》的大部分曲目。以[首爾](../Page/首爾.md "wikilink")為首站拉開序幕\[1\]\[2\]。
 
 ## 簡介
 
 ## 巡演事件
 
-  - 首爾場：原定於8月19-20日於首爾奧林匹克公園奧林匹克大廳舉行的《Red Velvet First Concert: Red
-    Room》，因在門票開賣不到0.81秒後全數售罄，加上粉絲強烈要求，SM娛樂宣布將於8月18日加開第3場\[3\]。追加預售將於7月31日下午8點（韓國時間）進行，為了家庭觀眾安排的‘Happy
-    family’座位及為了殘疾人安排的‘輪椅座位’也​​于当天上午10點開始預售。
+  - 首爾場：原定於8月19-20日於首爾奧林匹克公園奧林匹克大廳舉行的《Red Velvet First Concert: Red Room》，因在門票開賣不到0.81秒後全數售罄，加上粉絲強烈要求，SM娛樂宣布將於8月18日加開第3場\[3\]。追加預售將於7月31日下午8點（韓國時間）進行，為了家庭觀眾安排的‘Happy family’座位及為了殘疾人安排的‘輪椅座位’也​​于当天上午10點開始預售。
 
 <!-- end list -->
 
-  - 東京场：于2017年11月6日，Red Velvet首次日本Showcase《Red Velvet F'U'N ROOM "
-    ReVeluv-baby " Premium Showcase in Japan》场地外以海报公布《Red Velvet First
-    Concert: Red Room in Japan》将于2018年3月28-29日于東京武藏森林体育中心举行。
+  - 東京场：于2017年11月6日，Red Velvet首次日本Showcase《Red Velvet F'U'N ROOM " ReVeluv-baby " Premium Showcase in Japan》场地外以海报公布《Red Velvet First Concert: Red Room in Japan》将于2018年3月28-29日于東京武藏森林体育中心举行。
 
 <!-- end list -->
 
-  - 2018年2月26日，Red Velvet日本官網公佈《Red Velvet Hall Tour in JAPAN "Red
-    Room"》的巡演時間與地點。\[4\]
+  - 2018年2月26日，Red Velvet日本官網公佈《Red Velvet Hall Tour in JAPAN "Red Room"》的巡演時間與地點。\[4\]
 
 ## 巡迴時間表
 
@@ -169,8 +155,7 @@ Red](../Page/The_Red.md "wikilink")》的大部分曲目。以[首爾為首站�
 
 <!-- end list -->
 
-  - [Red
-    Velvet](../Page/Red_Velvet.md "wikilink")（[Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")、[Seulgi](../Page/瑟琪.md "wikilink")、[Wendy](../Page/Wendy_\(Red_Velvet\).md "wikilink")、[Joy](../Page/Joy_\(Red_Velvet\).md "wikilink")、[Yeri](../Page/Yeri.md "wikilink")）
+  - [Red Velvet](../Page/Red_Velvet.md "wikilink")（[Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")、[Seulgi](../Page/瑟琪.md "wikilink")、[Wendy](../Page/Wendy_\(Red_Velvet\).md "wikilink")、[Joy](../Page/Joy_\(Red_Velvet\).md "wikilink")、[Yeri](../Page/Yeri.md "wikilink")）
 
 <!-- end list -->
 
@@ -178,8 +163,7 @@ Red](../Page/The_Red.md "wikilink")》的大部分曲目。以[首爾為首站�
 
 <!-- end list -->
 
-  - [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
+  - [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
   - [avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")
 
 <!-- end list -->
@@ -217,9 +201,7 @@ Red](../Page/The_Red.md "wikilink")》的大部分曲目。以[首爾為首站�
 
   - [Red Velvet的V Live頻道](http://channels.vlive.tv/DCF447)
 
-[Category:Red_Velvet](https://zh.wikipedia.org/wiki/Category:Red_Velvet "wikilink")
-[Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink")
-[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
+[Category:Red_Velvet](https://zh.wikipedia.org/wiki/Category:Red_Velvet "wikilink") [Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink") [Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
 
 1.
 2.

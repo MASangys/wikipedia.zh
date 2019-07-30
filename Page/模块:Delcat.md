@@ -10,8 +10,7 @@ local p={
 `   },`
 `   nullstr = ''`
 
-} local strings = require( 'Module:String' ) local TlParLib = {} local
-lib_arg = {} --主函數 function p.main(frame)
+} local strings = require( 'Module:String' ) local TlParLib = {} local lib_arg = {} --主函數 function p.main(frame)
 
 `   if not getArgs then`
 `       getArgs = require('Module:Arguments').getArgs`
@@ -324,8 +323,18 @@ function p.include(frame)
 `   else`
 `       show_t = true`
 `   end`
+`   if mw.text.trim(pagename or '') == '' then return '' end`
 
 `   local chaptername = ''`
+`   local input_fullpagename = tostring(pagename)`
+`   local InIsSubst, InIsSSubst, InIsMsgnw`
+`   pagename, InIsSubst = mw.ustring.gsub(pagename, "^subst:","")`
+`   pagename, InIsMsgnw = mw.ustring.gsub(pagename, "^msgnw:","")`
+`   pagename, InIsSSubst = mw.ustring.gsub(pagename, "^safesubst:","")`
+`   pagename = mw.ustring.gsub(pagename, "^raw:","")`
+`   pagename = mw.ustring.gsub(pagename, "^int:","MediaWiki:")`
+`   InIsSubst = InIsSubst > 0 or InIsMsgnw > 0`
+`   InIsMsgnw = InIsMsgnw > 0`
 `   local mark_pos,_  = mw.ustring.find(pagename, '%#') --分析章節語法(#)`
 `   if mark_pos then `
 `       chaptername = mw.ustring.sub(pagename,mark_pos+1,#pagename) `
@@ -338,20 +347,28 @@ function p.include(frame)
 `       chaptername = mw.ustring.sub(chapterfullname,1,mark_pos-1) `
 `       chapterid = tonumber(mw.ustring.sub(chapterfullname,mark_pos+1,#chapterfullname)) or 1`
 `   end`
+`   local chapterothername = tostring(chaptername)`
 `   local body = ''`
+`   `
+`   if mw.text.trim(pagename) == '' then return '' end`
 `   `
 `   --取得引用頁名稱`
 `   local check_includetitle, is_namespace0 = mw.text.trim(pagename), 0`
 `   check_includetitle, is_namespace0 = mw.ustring.gsub(check_includetitle, "^%s-:","")`
-`   local check_includetitle_namespace = mw.title.new( check_includetitle ).namespace`
-`   if check_includetitle_namespace == 0 and is_namespace0 > 0 then --有冒號表示指名名字空間(預設是 Template )`
+`   local check_includetitle_obj = (mw.title.new( check_includetitle ) or {})`
+`   local check_includetitle_namespace = check_includetitle_obj.namespace or 10`
+`   local check_isExternal = check_includetitle_obj.isExternal`
+`   if check_isExternal == nil then check_isExternal = false end`
+`   if check_includetitle_namespace == 0 and is_namespace0 > 0 and not check_isExternal then --有冒號表示指名名字空間(預設是 Template )`
 `       check_includetitle = mw.title.new( check_includetitle )`
-`   elseif check_includetitle_namespace == 0 then --沒有冒號表示預設是 Template`
+`   elseif check_includetitle_namespace == 0 and not check_isExternal then --沒有冒號表示預設是 Template`
 `       check_includetitle = mw.title.new( "Template:" .. check_includetitle )`
 `   else --其餘情況就用解析到的名字空間`
 `       check_includetitle = mw.title.new( check_includetitle )`
 `   end`
-
+`   if check_includetitle == nil then check_includetitle = check_includetitle or { `
+`       fullText = mw.text.trim(pagename) , text = mw.text.trim(pagename), isErrorTitle=true`
+`   } end`
 `   --建立解析器，解析模板語法`
 `   local include_frame = mw.getCurrentFrame()`
 `   local include_parent_frame = include_frame:getParent()`
@@ -362,11 +379,45 @@ function p.include(frame)
 `   end`
 
 `   local input_str = working_frame:preprocess( "``" ) --析出頁面原碼`
-`   input_str =  mw.text.decode(input_str) --解析網頁符號 (&#XXX;)`
-
+`   local redirectTarget = check_includetitle.redirectTarget`
+`   if redirectTarget ~= false and redirectTarget ~= nil then check_includetitle = redirectTarget end`
+`   local subst_error = false`
+`   if mw.isSubsting() then `
+`       --這部份似乎無解，subst:和msgnw:無法同時疊加`
+`       xpcall( function() `
+`               input_str = working_frame:expandTemplate{ title = ":" .. check_includetitle.fullText, args = new_args }`
+`               --針對章節標提移除擴展標籤，使subst後系統自動生成新的`
+``               input_str = mw.text.trim(mw.ustring.gsub(input_str,"\127\'\"`UNIQ%-%-h%-.-QINU`\"\'\127", p.nullstr))``
+`           end,  function(message) `
+`               input_str = ''`
+`               subst_error = true`
+`           end )`
+`   else`
+`       input_str =  mw.text.decode(input_str) --解析網頁符號 (&#XXX;)`
+`   end`
+`   if (#input_str <= (12 + #check_includetitle.fullText) ) or subst_error==true then`
+`       if TlParLib._getEscapeString == nil then TlParLib = require('Module:TemplateParameters') end`
+`       local new_str, replaced = mw.ustring.gsub(mw.ustring.lower(input_str),`
+`               "[%[%{][%[%{][^%]%}]-:(" ..`
+`               TlParLib._getEscapeString(mw.ustring.lower(check_includetitle.fullText)) ..`
+`               ")[%]%}][%]%}]"`
+`               ,"[[:%1"`
+`           )`
+`       if replaced > 0 or subst_error==true then `
+`           if subst_error==true then new_str = "[[:" .. check_includetitle.fullText end`
+`           if check_includetitle.isErrorTitle then return check_includetitle.fullText end`
+`           input_str = new_str .. '#' .. chapterfullname .. '|'`
+`           if mw.text.trim(check_includetitle.nsText or '') ~= '' then input_str = input_str .. check_includetitle.nsText .. ':' end`
+`           input_str = input_str .. check_includetitle.text`
+`           if mw.text.trim(chapterfullname) ~= '' then input_str = input_str .. '#' .. chaptername end`
+`           input_str = input_str .. "]]"`
+`           return input_str`
+`       end`
+`   end`
+`   `
 `   --去除擴展標籤之前，由於章節(== XX ==)也是一種列入strip的擴展標籤，因此要先儲存起來，避免資料遺失`
 `   local htagstrip_table = {}`
-`   if not mw.isSubsting() then `
+`   if not mw.isSubsting() then --subst需保留擴展標籤 (subst後會自動還原)`
 ``       local htagstrip_matcher = "\127\'\"`UNIQ%-%-h%-.-QINU`\"\'\127%s-[^\n]-%s-=+%s-\n"``
 `       local htagstrip_start, htagstrip_end = mw.ustring.find(input_str, htagstrip_matcher, 1)`
 `       `
@@ -383,14 +434,7 @@ function p.include(frame)
 `           }`
 `           htagstrip_start, htagstrip_end = mw.ustring.find(input_str, htagstrip_matcher, htagstrip_end+1)`
 `       end`
-`   end`
-`       `
-`   input_str =  mw.text.killMarkers( input_str ) --去除擴展標籤`
-`   `
-`   if mw.isSubsting() then `
-`       local cut_UNIQ = mw.text.split(mw.text.decode(tostring(input_str)),"....UNIQ%-.+%-QINU....")`
-`       input_str = table.concat( cut_UNIQ, '' )`
-`       return mw.ustring.sub(cut_UNIQ[1],20,30)`
+`       input_str =  mw.text.killMarkers( input_str ) --去除擴展標籤`
 `   end`
 
 `   input_str = '\n\n' .. input_str .. '\n\n' --使規表達式不會在首行和末行出現邊界情況`
@@ -400,7 +444,8 @@ function p.include(frame)
 
 `   local is_htag = false`
 `   local function htag_regex(chname) `
-`       if mw.isSubsting() then return "\n=+[^=]-" .. chname .. "%s-=+%s-\n" end`
+`       --用於處理subst不同的載入方式`
+`       if mw.isSubsting() then return "\n=+ -" .. chname .. " -=+ -\n" end`
 `       return "\n=+%s-" .. chname .. "%s-=+%s-\n" `
 `   end`
 `   local function spantag_regex(chname) return "%<%s-span[^%>]+id=[%\"%\']" .. chname .. "[%\"%\']" end`
@@ -416,9 +461,7 @@ function p.include(frame)
 `       if finded_title_begin then return finded_title_begin, finded_title_end end`
 `   end`
 `   local next_title_matcher = htag_regex("[^\n]-")`
-`   `
-`    if mw.isSubsting() then return "check=" .. chapterfullname .. tostring(finded_title_begin) .. tostring(finded_title_end) end`
-`   `
+
 `   if mw.text.trim(chapterfullname) ~= '' then`
 `       local finded_title_begin, finded_title_end = find_chtag(chapterfullname_regex_pattern, input_str)`
 `       local next_title_begin, next_title_end = #input_str, nil; next_title_end = next_title_begin`
@@ -448,9 +491,20 @@ function p.include(frame)
 `               if is_htag == false then --分析章節標題`
 `                   local re_find = mw.ustring.sub(input_str, 1, finded_title_begin)`
 `                   re_find = re_find:reverse()`
-`                   local temp_title_begin, temp_title_end = mw.ustring.find(re_find, htag_regex("[^\n]-"), 1)`
-`                   if temp_title_begin then finded_title_string = mw.ustring.sub(re_find, temp_title_begin, temp_title_end) end`
+`                   local temp_title_begin, temp_title_end`
+`                   if(mw.ustring.isutf8(re_find) == true )then`
+`                       temp_title_begin, temp_title_end = mw.ustring.find(re_find, htag_regex("[^\n]-"), 1)`
+`                       if temp_title_begin then finded_title_string = mw.ustring.sub(re_find, temp_title_begin, temp_title_end) end`
+`                   else`
+`                       temp_title_begin, temp_title_end = re_find:find(htag_regex("[^\n]-"), 1)`
+`                       if temp_title_begin then finded_title_string = re_find:sub(temp_title_begin, temp_title_end) end`
+`                   end`
 `                   finded_title_string = finded_title_string:reverse()`
+`                   if(mw.ustring.isutf8(finded_title_string) == true )then`
+`                       chapterothername = mw.ustring.gsub(finded_title_string,"=",'')`
+`                   else`
+`                       chapterothername = finded_title_string:gsub("=",'')`
+`                   end`
 `               end`
 `               --獲得章節標題的級數`
 `               if htag_level==nil then`
@@ -517,7 +571,7 @@ function p.include(frame)
 `           local check_title_matcher=TlParLib._getEscapeString(check_title)`
 `           local htagstrip_table_item={} --獲得原始標題的擴展標籤strip標記符號`
 `           for ik, iv in ipairs(htagstrip_table) do`
-`               if iv.name == check_title_matcher then`
+`               if iv.name == check_title or iv.name == chapterothername then`
 `                   htagstrip_table_item = iv`
 `                   if title_first_match == true then`
 `                       min_title = ik`
@@ -536,9 +590,8 @@ function p.include(frame)
 `   end`
 
 `   body = mw.text.trim(body)`
-`   `
-`       if mw.isSubsting() then return chapterfullname .. tostring(#body)  end`
-`   --if mw.isSubsting() then return mw.text.killMarkers(body) end`
+`   --subst無須復位`
+`   if mw.isSubsting() then return body end`
 `   `
 ``   if min_title > 1 then body = "\127\'\"`UNIQ____TITLE__TAG__PATTERN____QINU`\"\'\127\n" .. body``
 `       for _=2,min_title do body = "== ==\n" .. body end `
@@ -644,9 +697,9 @@ function p.find_title(str, title, keep_title)
 `       end`
 
 `       if show_t then if keep_title then body = finded_title .. body else body = p.deltitle(finded_title) .. body end end`
-`       return  mw.text.trim(body .. `[`CAT:使用將淘汰函數的頁面`](https://zh.wikipedia.org/wiki/CAT:使用將淘汰函數的頁面 "wikilink")`)`
+`       return  mw.text.trim(body)`
 `   end`
-`   return '' .. `[`CAT:使用將淘汰函數的頁面`](https://zh.wikipedia.org/wiki/CAT:使用將淘汰函數的頁面 "wikilink")
+`   return ''`
 
 end
 

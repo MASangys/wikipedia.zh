@@ -1,7 +1,5 @@
 
-[缩略图](https://zh.wikipedia.org/wiki/File:MemlingJudgmentCentre.jpg "fig:缩略图")
-****** ([\[ˈdi.ɛs
-ˈi.rɛ](https://zh.wikipedia.org/wiki/Help:拉丁語國際音標 "wikilink")\];"震怒之日")是一个[拉丁语](../Page/拉丁语.md "wikilink")[讚美詩](https://zh.wikipedia.org/wiki/讚美詩 "wikilink")。\[1\]
+[缩略图](https://zh.wikipedia.org/wiki/File:MemlingJudgmentCentre.jpg "fig:缩略图") ****** ([\[ˈdi.ɛs ˈi.rɛ](https://zh.wikipedia.org/wiki/Help:拉丁語國際音標 "wikilink")\];"震怒之日")是一个[拉丁语](../Page/拉丁语.md "wikilink")[讚美詩](https://zh.wikipedia.org/wiki/讚美詩 "wikilink")。\[1\]
 
 
 
@@ -159,9 +157,7 @@ Dona eis requiem. Amen.</p></td>
 
 
 
-[Category:天主教礼拜仪式](https://zh.wikipedia.org/wiki/Category:天主教礼拜仪式 "wikilink")
-[Category:天主教音樂](https://zh.wikipedia.org/wiki/Category:天主教音樂 "wikilink")
-[Category:安魂曲](https://zh.wikipedia.org/wiki/Category:安魂曲 "wikilink")
+[Category:天主教礼拜仪式](https://zh.wikipedia.org/wiki/Category:天主教礼拜仪式 "wikilink") [Category:天主教音樂](https://zh.wikipedia.org/wiki/Category:天主教音樂 "wikilink") [Category:安魂曲](https://zh.wikipedia.org/wiki/Category:安魂曲 "wikilink")
 
 1.
 2.

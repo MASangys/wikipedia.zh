@@ -1,4 +1,4 @@
-《**VenusBlood**》是由日本遊戲品牌DualMage製作於2007年4月20日發售的[模擬類型](../Page/模擬遊戲.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，VenusBlood系列的第一部作品，DualMage後來改名為dualtail並且在2008年6月19日發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[2\]後來在臺灣由[未來數位公司代理正體中文版並於](../Page/未來數位.md "wikilink")2012年6月8日發售。
+《**VenusBlood**》是由日本遊戲品牌DualMage製作於2007年4月20日發售的[模擬類型](../Page/模擬遊戲.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，VenusBlood系列的第一部作品，DualMage後來改名為dualtail並且在2008年6月19日發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[2\]後來在臺灣由[未來數位](../Page/未來數位.md "wikilink")公司代理正體中文版並於2012年6月8日發售。
 
 ## 故事
 
@@ -23,10 +23,8 @@
 
 ## 相關條目
 
-  - [VenusBlood
-    -DESIRE-](../Page/VenusBlood_-DESIRE-.md "wikilink")：VenusBlood系列的第三部作品。
-  - [VenusBlood
-    -FRONTIER-](../Page/VenusBlood_-FRONTIER-.md "wikilink")：VenusBlood系列的第五部作品。
+  - [VenusBlood -DESIRE-](../Page/VenusBlood_-DESIRE-.md "wikilink")：VenusBlood系列的第三部作品。
+  - [VenusBlood -FRONTIER-](../Page/VenusBlood_-FRONTIER-.md "wikilink")：VenusBlood系列的第五部作品。
 
 ## 參考來源
 
@@ -36,12 +34,7 @@
   - [DVDPG版官方網站](http://www.ninetail.tk/tddv01/VenusBlood_index.htm)ninetail
   - [中文版官方網站](http://future-digi.com/DualTail/venusblood/index.html)未來數位
 
-[Category:2007年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2007年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:模擬遊戲](https://zh.wikipedia.org/wiki/Category:模擬遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
-[Category:報復題材電子遊戲](https://zh.wikipedia.org/wiki/Category:報復題材電子遊戲 "wikilink")
+[Category:2007年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2007年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:模擬遊戲](https://zh.wikipedia.org/wiki/Category:模擬遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:報復題材電子遊戲](https://zh.wikipedia.org/wiki/Category:報復題材電子遊戲 "wikilink")
 
 1.
 2.

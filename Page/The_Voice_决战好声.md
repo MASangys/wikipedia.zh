@@ -1,6 +1,4 @@
-**《The Voice
-决战好声》**，是马来西亚与新加坡联合打造的音乐真人选秀节目，荷兰[Talpa公司旗下电视节目](https://zh.wikipedia.org/wiki/Talpa公司 "wikilink")《[The
-Voice](../Page/The_Voice.md "wikilink")》的新马版本。第一季于2017年9月17日开播\[1\]\[2\]。
+**《The Voice 决战好声》**，是马来西亚与新加坡联合打造的音乐真人选秀节目，荷兰[Talpa公司旗下电视节目](https://zh.wikipedia.org/wiki/Talpa公司 "wikilink")《[The Voice](../Page/The_Voice.md "wikilink")》的新马版本。第一季于2017年9月17日开播\[1\]\[2\]。
 
 ## 播出时间
 
@@ -237,8 +235,7 @@ Voice](../Page/The_Voice.md "wikilink")》的新马版本。第一季于2017年9
 
 ## 参考资料
 
-[Category:The_Voice系列](https://zh.wikipedia.org/wiki/Category:The_Voice系列 "wikilink")
-[Category:音乐比赛](https://zh.wikipedia.org/wiki/Category:音乐比赛 "wikilink")
+[Category:The_Voice系列](https://zh.wikipedia.org/wiki/Category:The_Voice系列 "wikilink") [Category:音乐比赛](https://zh.wikipedia.org/wiki/Category:音乐比赛 "wikilink")
 
 1.
 2.

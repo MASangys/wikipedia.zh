@@ -1,12 +1,8 @@
-《**Ruby Ruby Love**》（）是一部 OnStyle
-網路劇\[1\]，於2017年1月18日在[Naver播出](https://zh.wikipedia.org/wiki/Naver "wikilink")，由[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")（[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")）\[2\]\[3\]、[李哲宇](../Page/李哲宇.md "wikilink")、[李伊庚主演](../Page/李伊庚.md "wikilink")。全劇共有五集，將於1月18日連續公開第一、二集，並於19日、25日、26日各公開一集。本劇為[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[徐玄第一次出演和主演的網路劇](https://zh.wikipedia.org/wiki/徐玄 "wikilink")。
+《**Ruby Ruby Love**》（）是一部 OnStyle 網路劇\[1\]，於2017年1月18日在[Naver播出](https://zh.wikipedia.org/wiki/Naver "wikilink")，由[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")（[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")）\[2\]\[3\]、[李哲宇](../Page/李哲宇.md "wikilink")、[李伊庚](../Page/李伊庚.md "wikilink")主演。全劇共有五集，將於1月18日連續公開第一、二集，並於19日、25日、26日各公開一集。本劇為[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[徐玄第一次出演和主演的網路劇](https://zh.wikipedia.org/wiki/徐玄 "wikilink")。
 
 ## 劇情
 
-此劇描述有人群恐懼症的女主角Ruby
-Lee（[徐玄飾演](https://zh.wikipedia.org/wiki/徐玄 "wikilink")），在偶然獲得的魔法戒指幫助下，成長為珠寶設計師的故事，而Ruby
-Lee唯一的朋友元錫（李哲宇飾演），看著因社交恐懼症無法發揮才能的 Ruby 感到可惜，為了幫助 Ruby 實現夢想而努力尋找機會，也將與
-Ruby 形成介於友情與愛情之間的微妙羅曼史。
+此劇描述有人群恐懼症的女主角Ruby Lee（[徐玄飾演](https://zh.wikipedia.org/wiki/徐玄 "wikilink")），在偶然獲得的魔法戒指幫助下，成長為珠寶設計師的故事，而Ruby Lee唯一的朋友元錫（李哲宇飾演），看著因社交恐懼症無法發揮才能的 Ruby 感到可惜，為了幫助 Ruby 實現夢想而努力尋找機會，也將與 Ruby 形成介於友情與愛情之間的微妙羅曼史。
 
 ## 演出陣容
 
@@ -53,16 +49,10 @@ Ruby 形成介於友情與愛情之間的微妙羅曼史。
 
 ## 外部連結
 
-  - *[Ruby Ruby
-    Love](https://web.archive.org/web/20170118051211/http://movie.daum.net/tv/main?tvProgramId=78896)*
-    on
-    [Daum](https://zh.wikipedia.org/wiki/Daum_\(web_portal\) "wikilink")
+  - *[Ruby Ruby Love](https://web.archive.org/web/20170118051211/http://movie.daum.net/tv/main?tvProgramId=78896)* on [Daum](https://zh.wikipedia.org/wiki/Daum_\(web_portal\) "wikilink")
   - <http://tv.naver.com/cjenm.LubyLubyLove/>
 
-[Category:2017年韩国网络剧](https://zh.wikipedia.org/wiki/Category:2017年韩国网络剧 "wikilink")
-[Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink")
-[Category:魔法題材電視劇](https://zh.wikipedia.org/wiki/Category:魔法題材電視劇 "wikilink")
-[Category:珠寶題材作品](https://zh.wikipedia.org/wiki/Category:珠寶題材作品 "wikilink")
+[Category:2017年韩国网络剧](https://zh.wikipedia.org/wiki/Category:2017年韩国网络剧 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:魔法題材電視劇](https://zh.wikipedia.org/wiki/Category:魔法題材電視劇 "wikilink") [Category:珠寶題材作品](https://zh.wikipedia.org/wiki/Category:珠寶題材作品 "wikilink")
 
 1.  <http://kpopn.niusnews.com/=K0nhong8>
 2.  <http://www.koreastardaily.com/tc/news/89891>

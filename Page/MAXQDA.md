@@ -1,24 +1,20 @@
 **MAXQDA**是一个为学术、科研以及商业机构设计的，借助计算机对质性和混合方法数据、文本和多媒体材料进行分析的软件项目。
 
-MAXQDA可以用于质性、量化以及混合方法研究。\[1\]
-MAXQDA注重将其应用范围延伸至质性研究之外，体现在它广泛的功能属性（在项目中称为变量）以及项目较快地处理大量访谈材料的能力。
+MAXQDA可以用于质性、量化以及混合方法研究。\[1\] MAXQDA注重将其应用范围延伸至质性研究之外，体现在它广泛的功能属性（在项目中称为变量）以及项目较快地处理大量访谈材料的能力。
 
 ## 产品
 
 ### MAXQDA Standard
 
-MAXQDA适用于Mac OS X以及Windows系统的标准版本（MAXQDA Standard)\[2\]
-为组织和分析质性数据提供工具，包括文本、音频、图像、视频以及书目文件和调查数据、Tweeter推文或者焦点小组转录材料。这些数据在MAXQDA的四个窗口借助代码和备忘录得到分析，而分析结果则通过MAXQDA的可视化功能以及输出选项得到便捷地呈现。另外，MAXQDA也含有一些量化数据分析工具，例如混合方法工具。\[3\]
+MAXQDA适用于Mac OS X以及Windows系统的标准版本（MAXQDA Standard)\[2\] 为组织和分析质性数据提供工具，包括文本、音频、图像、视频以及书目文件和调查数据、Tweeter推文或者焦点小组转录材料。这些数据在MAXQDA的四个窗口借助代码和备忘录得到分析，而分析结果则通过MAXQDA的可视化功能以及输出选项得到便捷地呈现。另外，MAXQDA也含有一些量化数据分析工具，例如混合方法工具。\[3\]
 
 ### MAXQDA Plus
 
-MAXQDA Plus (MAXQDA升级版)是MAXQDA的一个拓展版本，增加了MAXDictio 模块。\[4\]
-MAXDictio可以用于创建词典以及搜索和过滤文本文件。另外，词汇以及单词频率分析可以用于支持质性研究的发现。
+MAXQDA Plus (MAXQDA升级版)是MAXQDA的一个拓展版本，增加了MAXDictio 模块。\[4\] MAXDictio可以用于创建词典以及搜索和过滤文本文件。另外，词汇以及单词频率分析可以用于支持质性研究的发现。
 
 ### MAXQDA Analytics Pro
 
-MAXQDA Analytics
-Pro是MAXQDA的最高版本，除了MAXDictio模块，他还嵌入了质性数据统计分析的综合模块。Stats模块为MAXQDA项目数据分析、输入以及处理外部来自Excel或者SPSS的量化数据集提供工具。
+MAXQDA Analytics Pro是MAXQDA的最高版本，除了MAXDictio模块，他还嵌入了质性数据统计分析的综合模块。Stats模块为MAXQDA项目数据分析、输入以及处理外部来自Excel或者SPSS的量化数据集提供工具。
 
 ### MAXQDA Reader
 
@@ -72,14 +68,8 @@ MAXApp是一个在Android和iOS系统中都可以使用的免费移动应用终�
 
 ## 扩展阅读
 
-  - Juliet Corbin and Anselm Strauss: Basics of Qualitative Research:
-    Techniques and Procedures for Developing Grounded Theory, 3rd
-    edition, 2008, [Sage Publications](../Page/賽吉出版公司.md "wikilink"),
-    Los Angeles, London, New Delhi, Singapore
-  - Ann Lewins and Christina Silver: Using Software in Qualitative
-    Research: A Step-by-Step Guide, 2nd edition, 2014, [Sage
-    Publications](../Page/賽吉出版公司.md "wikilink"), Los Angeles, London,
-    New Delhi, Singapore
+  - Juliet Corbin and Anselm Strauss: Basics of Qualitative Research: Techniques and Procedures for Developing Grounded Theory, 3rd edition, 2008, [Sage Publications](../Page/賽吉出版公司.md "wikilink"), Los Angeles, London, New Delhi, Singapore
+  - Ann Lewins and Christina Silver: Using Software in Qualitative Research: A Step-by-Step Guide, 2nd edition, 2014, [Sage Publications](../Page/賽吉出版公司.md "wikilink"), Los Angeles, London, New Delhi, Singapore
 
 ## 參考文獻
 
@@ -96,11 +86,6 @@ MAXApp是一个在Android和iOS系统中都可以使用的免费移动应用终�
 [Category:定性研究](https://zh.wikipedia.org/wiki/Category:定性研究 "wikilink")
 
 1.  <http://www.restore.ac.uk/lboro/research/software/maxqda.php>
-2.  <cite class="citation web">["MAXQDA products for Qualitative and
-    Mixed Methods Data
-    Analysis"](http://www.maxqda.com/products/maxqda).
-    *maxqda.com*<span class="reference-accessdate">.</span></cite>
-3.  <cite class="citation web">["MAXQDA's Mixed Methods
-    features"](http://www.maxqda.com/products/maxqda/mixed-methods-functions).
-    *maxqda.com*<span class="reference-accessdate"></span></cite>
+2.  <cite class="citation web">["MAXQDA products for Qualitative and Mixed Methods Data Analysis"](http://www.maxqda.com/products/maxqda). *maxqda.com*<span class="reference-accessdate">.</span></cite>
+3.  <cite class="citation web">["MAXQDA's Mixed Methods features"](http://www.maxqda.com/products/maxqda/mixed-methods-functions). *maxqda.com*<span class="reference-accessdate"></span></cite>
 4.

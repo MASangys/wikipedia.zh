@@ -1,11 +1,10 @@
-，2017年1月15日至2017年3月19日於[TBS電視台](../Page/TBS電視台.md "wikilink")「[周日劇場](../Page/周日劇場.md "wikilink")」時段播出的連續劇。由[木村拓哉主演](../Page/木村拓哉.md "wikilink")\[1\]\[2\]，編劇為《》系列的編劇[橋部敦子](../Page/橋部敦子.md "wikilink")。
+，2017年1月15日至2017年3月19日於[TBS電視台](../Page/TBS電視台.md "wikilink")「[周日劇場](../Page/周日劇場.md "wikilink")」時段播出的連續劇。由[木村拓哉](../Page/木村拓哉.md "wikilink")主演\[1\]\[2\]，編劇為《》系列的編劇[橋部敦子](../Page/橋部敦子.md "wikilink")。
 
 ## 劇情概要
 
 外科醫木村拓哉與竹內結子，曾經被認為是最速配的情侶。但隨著木村拓哉遠赴西雅圖，時間跟距離，讓一切都產生了變化。經過無數次手術的試煉，木村拓哉成了最強外科醫，女友卻已經嫁給自己的好友。當他再度回到日本，兩人互動依然那麼熟悉，曖昧情愫悄然滋長。當深愛的人變成病患，他不計一切用盡心力，就是要她好好的！
 
-外科醫沖田一光（[木村拓哉飾演](../Page/木村拓哉.md "wikilink")）
-因為遭人陷害失去一切，被迫離開壇上紀念醫院，隻身前往美國。經過10年歲月，在美國努力磨練醫術的他，成為獨當一面的超級外科醫。沖田為了拯救罹患重症的院長，重返壇上醫院。但院長女兒，同時也是前女友深冬（[竹內結子飾演](../Page/竹內結子.md "wikilink")），卻已成為好友壯大（[淺野忠信飾演](../Page/淺野忠信.md "wikilink")）的妻子。為了拯救恩師，他面臨各種人生試煉。當醫院只想花錢解決醫療糾紛，醫生一心趨炎附勢，只有他不畏權勢，竭盡全力完成每一場手術，誓言拯救每一個生命！
+外科醫沖田一光（[木村拓哉](../Page/木村拓哉.md "wikilink")飾演） 因為遭人陷害失去一切，被迫離開壇上紀念醫院，隻身前往美國。經過10年歲月，在美國努力磨練醫術的他，成為獨當一面的超級外科醫。沖田為了拯救罹患重症的院長，重返壇上醫院。但院長女兒，同時也是前女友深冬（[竹內結子](../Page/竹內結子.md "wikilink")飾演），卻已成為好友壯大（[淺野忠信](../Page/淺野忠信.md "wikilink")飾演）的妻子。為了拯救恩師，他面臨各種人生試煉。當醫院只想花錢解決醫療糾紛，醫生一心趨炎附勢，只有他不畏權勢，竭盡全力完成每一場手術，誓言拯救每一個生命！
 
 ## 登場人物
 
@@ -16,7 +15,7 @@
 <!-- end list -->
 
   -
-    [心臟](../Page/心臟.md "wikilink")[血管與兒童外科醫生](../Page/血管.md "wikilink")。當年將女友留在日本前往美國[西雅圖研習](../Page/西雅圖.md "wikilink")，成為了醫學知識與實際開刀經驗豐富的外科醫生，生涯已主刀過手術6千多次。因恩師的手術，而回到日本東京壇上紀念醫院。
+    [心臟](../Page/心臟.md "wikilink")[血管](../Page/血管.md "wikilink")與兒童外科醫生。當年將女友留在日本前往美國[西雅圖](../Page/西雅圖.md "wikilink")研習，成為了醫學知識與實際開刀經驗豐富的外科醫生，生涯已主刀過手術6千多次。因恩師的手術，而回到日本東京壇上紀念醫院。
 
 <!-- end list -->
 
@@ -70,7 +69,7 @@
 <!-- end list -->
 
   -
-    腦科醫生，壇上紀念醫院副院長。[入贅至壇上家](../Page/入贅.md "wikilink")，妻子為壇上深冬。
+    腦科醫生，壇上紀念醫院副院長。[入贅](../Page/入贅.md "wikilink")至壇上家，妻子為壇上深冬。
 
 ### 壇上紀念醫院
 
@@ -254,9 +253,7 @@
   - 綜合醫療監修：
   - 後援：東京都醫師會
   - 特別協力：昭和大學江東豐洲醫院
-  - 主題曲：《[Still
-    Alive](https://zh.wikipedia.org/wiki/聲明/Still_Alive "wikilink")》[B'z](../Page/B'z.md "wikilink")（[VERMILLION
-    RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")）
+  - 主題曲：《[Still Alive](https://zh.wikipedia.org/wiki/聲明/Still_Alive "wikilink")》[B'z](../Page/B'z.md "wikilink")（[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")）
   - 副導演：塩崎遵
   - 企劃：
   - 導演：[平川雄一朗](../Page/平川雄一朗.md "wikilink")、加藤新、
@@ -389,18 +386,10 @@
   -
   - [緯來日本台官方網站](http://japan.videoland.com.tw/channel/A_Life/)
 
-[Category:周日劇場](https://zh.wikipedia.org/wiki/Category:周日劇場 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:2017年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2017年開播的日本電視劇集 "wikilink")
-[Category:日本醫學劇](https://zh.wikipedia.org/wiki/Category:日本醫學劇 "wikilink")
-[Category:橋部敦子劇本電視劇](https://zh.wikipedia.org/wiki/Category:橋部敦子劇本電視劇 "wikilink")
-[Category:木村拓哉](https://zh.wikipedia.org/wiki/Category:木村拓哉 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
+[Category:周日劇場](https://zh.wikipedia.org/wiki/Category:周日劇場 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:2017年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2017年開播的日本電視劇集 "wikilink") [Category:日本醫學劇](https://zh.wikipedia.org/wiki/Category:日本醫學劇 "wikilink") [Category:橋部敦子劇本電視劇](https://zh.wikipedia.org/wiki/Category:橋部敦子劇本電視劇 "wikilink") [Category:木村拓哉](https://zh.wikipedia.org/wiki/Category:木村拓哉 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
 
 1.  [木村拓哉が職人肌の外科医役「逃げずに挑みたい」](http://www.nikkansports.com/entertainment/news/1736382.html)
-2.  [木村拓哉、外科医役でドラマ「A
-    LIFE～愛しき人～」に主演！竹内結子、菜々緒ら豪華キャスト](http://www.rbbtoday.com/article/2016/11/11/146913.html)
+2.  [木村拓哉、外科医役でドラマ「A LIFE～愛しき人～」に主演！竹内結子、菜々緒ら豪華キャスト](http://www.rbbtoday.com/article/2016/11/11/146913.html)
 3.
 4.
 5.

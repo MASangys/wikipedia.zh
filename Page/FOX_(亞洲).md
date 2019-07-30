@@ -1,14 +1,10 @@
-**FOX
-Asia**是[福斯傳媒集團旗下的頻道](../Page/福斯傳媒集團.md "wikilink")，遍佈[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[日本](../Page/日本.md "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[汶萊](https://zh.wikipedia.org/wiki/汶萊 "wikilink")、[馬爾地夫](https://zh.wikipedia.org/wiki/馬爾地夫 "wikilink")、[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")。
+**FOX Asia**是[福斯傳媒集團](../Page/福斯傳媒集團.md "wikilink")旗下的頻道，遍佈[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[日本](../Page/日本.md "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[汶萊](https://zh.wikipedia.org/wiki/汶萊 "wikilink")、[馬爾地夫](https://zh.wikipedia.org/wiki/馬爾地夫 "wikilink")、[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")。
 
-[日本於](../Page/日本.md "wikilink")1998年2月率先開播。[SkyCable於](https://zh.wikipedia.org/wiki/SkyCable "wikilink")2010年1月5日在[菲律賓開始發送](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")，[新加坡](../Page/新加坡.md "wikilink")[星和視界則隨後於同年](https://zh.wikipedia.org/wiki/新加坡電視頻道列表 "wikilink")2月1日開播。\[1\]
+[日本](../Page/日本.md "wikilink")於1998年2月率先開播。[SkyCable於](https://zh.wikipedia.org/wiki/SkyCable "wikilink")2010年1月5日在[菲律賓開始發送](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")，[新加坡](../Page/新加坡.md "wikilink")[星和視界則隨後於同年](https://zh.wikipedia.org/wiki/新加坡電視頻道列表 "wikilink")2月1日開播。\[1\]
 
-2012年年初至2月中旬，亞洲FOX的電視台字樣從FOX
-HD全面改為FOX。FOX日本與FOX韓國從亞洲版分離，但節目與廣告仍與FOX亞洲相同，但節目的編成由各國家自行編排。
+2012年年初至2月中旬，亞洲FOX的電視台字樣從FOX HD全面改為FOX。FOX日本與FOX韓國從亞洲版分離，但節目與廣告仍與FOX亞洲相同，但節目的編成由各國家自行編排。
 
-2012年9月1日，FOX娛樂台取代[Channel V](../Page/Channel_V.md "wikilink")，而FOX
-HD則於[中華電信MOD上播送](../Page/中華電信MOD.md "wikilink")。2014年1月1日，[FOX台灣正式取代FOX娛樂台](../Page/FOX_\(台灣頻道\).md "wikilink")，並與FOX
-HD整合。
+2012年9月1日，FOX娛樂台取代[Channel V](../Page/Channel_V.md "wikilink")，而FOX HD則於[中華電信MOD](../Page/中華電信MOD.md "wikilink")上播送。2014年1月1日，[FOX台灣正式取代FOX娛樂台](../Page/FOX_\(台灣頻道\).md "wikilink")，並與FOX HD整合。
 
 ## 台灣版本
 
@@ -27,7 +23,7 @@ HD整合。
 
   - [犯罪心理](https://zh.wikipedia.org/wiki/犯罪心理_\(電視劇\) "wikilink")
 
-  - [蓋酷家庭／住家男人](../Page/蓋酷家庭.md "wikilink")
+  - [蓋酷家庭](../Page/蓋酷家庭.md "wikilink")／住家男人
 
   - [菜鳥新移民](../Page/菜鳥新移民.md "wikilink")
 
@@ -230,7 +226,7 @@ HD整合。
   -
   - [英雄](https://zh.wikipedia.org/wiki/英雄_\(電視劇\) "wikilink")
 
-  - [英雄重生／英雄回歸](../Page/英雄重生.md "wikilink")
+  - [英雄重生](../Page/英雄重生.md "wikilink")／英雄回歸
 
   - [硬漢老爸](https://zh.wikipedia.org/wiki/最後的男人 "wikilink")
 
@@ -261,13 +257,6 @@ HD整合。
 
   - \- FOX亞洲頻道
 
-[Category:星空傳媒](https://zh.wikipedia.org/wiki/Category:星空傳媒 "wikilink")
-[Category:東南亞電視台](https://zh.wikipedia.org/wiki/Category:東南亞電視台 "wikilink")
-[Category:台灣電視播放頻道](https://zh.wikipedia.org/wiki/Category:台灣電視播放頻道 "wikilink")
-[Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink")
-[Category:福斯娛樂集團](https://zh.wikipedia.org/wiki/Category:福斯娛樂集團 "wikilink")
-[Category:福斯傳媒集團](https://zh.wikipedia.org/wiki/Category:福斯傳媒集團 "wikilink")
+[Category:星空傳媒](https://zh.wikipedia.org/wiki/Category:星空傳媒 "wikilink") [Category:東南亞電視台](https://zh.wikipedia.org/wiki/Category:東南亞電視台 "wikilink") [Category:台灣電視播放頻道](https://zh.wikipedia.org/wiki/Category:台灣電視播放頻道 "wikilink") [Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:福斯娛樂集團](https://zh.wikipedia.org/wiki/Category:福斯娛樂集團 "wikilink") [Category:福斯傳媒集團](https://zh.wikipedia.org/wiki/Category:福斯傳媒集團 "wikilink")
 
-1.  [Christmas kick-off for FOX
-    roll-out](http://www.onscreenasia.com/article-6360-christmaskickoffforfoxrollout-onscreenasia.html)
-     retrieved via onscreenasia.com 1-18-2009
+1.  [Christmas kick-off for FOX roll-out](http://www.onscreenasia.com/article-6360-christmaskickoffforfoxrollout-onscreenasia.html)  retrieved via onscreenasia.com 1-18-2009

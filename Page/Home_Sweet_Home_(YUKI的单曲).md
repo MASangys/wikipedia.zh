@@ -3,16 +3,14 @@
 ## 简介
 
   - 前作「ハミングバード」和专辑『commune』发行之后，因为怀孕生产而暂时停止活动1年5个月后的最新单曲。
-  - B面曲「AIR
-    WAVE」不仅在后来的专辑『joy』中收录，其演唱会版本还在单曲「歓びの种」中收录，作为B面曲被这么多专辑收录是比较少见的\[1\]。
+  - B面曲「AIR WAVE」不仅在后来的专辑『joy』中收录，其演唱会版本还在单曲「歓びの种」中收录，作为B面曲被这么多专辑收录是比较少见的\[1\]。
   - 在ORICON周间单曲榜有最高第9位记录，自「スタンドアップ\!シスター」以来隔了两首单曲再次进入前10位。
 
 ## 歌曲出处
 
 Home Sweet Home
 
-动画电影
-《[火影忍者剧场版：大活剧！雪姬忍法帖！！](https://zh.wikipedia.org/wiki/火影忍者剧场版：大活剧！雪姬忍法帖！！ "wikilink")》主题曲
+动画电影 《[火影忍者剧场版：大活剧！雪姬忍法帖！！](https://zh.wikipedia.org/wiki/火影忍者剧场版：大活剧！雪姬忍法帖！！ "wikilink")》主题曲
 
 作词：YUKI
 
@@ -36,8 +34,7 @@ Home Sweet Home
 
 ## 收录专辑
 
-  - [joy](https://zh.wikipedia.org/wiki/Joy_\(YUKI的专辑\) "wikilink")（\#1,
-    \#2）
+  - [joy](https://zh.wikipedia.org/wiki/Joy_\(YUKI的专辑\) "wikilink")（\#1, \#2）
   - [five-star](https://zh.wikipedia.org/wiki/Five-star_\(YUKI的专辑\) "wikilink")（\#1）
 
 ## 参考资料

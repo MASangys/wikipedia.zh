@@ -1,4 +1,4 @@
-《**TMD天堂**》（），2017年[中視](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")[電視電影](../Page/電視電影.md "wikilink")，由[廖慧珍](../Page/廖慧珍.md "wikilink")、[藍葦華](../Page/藍葦華.md "wikilink")、[謝飛](https://zh.wikipedia.org/wiki/謝飛_\(童星\) "wikilink")、[陳天霖](https://zh.wikipedia.org/wiki/陳天霖 "wikilink")、[葳薾森](https://zh.wikipedia.org/wiki/葳薾森 "wikilink")、[蔡明修領銜主演](../Page/蔡明修.md "wikilink")。\[1\]\[2\][中視主頻於](../Page/中視_\(頻道\).md "wikilink")2017年4月21日上檔。本劇講述[社工與社會低階層家庭的故事](https://zh.wikipedia.org/wiki/社工 "wikilink")。\[3\]
+《**TMD天堂**》（），2017年[中視](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")[電視電影](../Page/電視電影.md "wikilink")，由[廖慧珍](../Page/廖慧珍.md "wikilink")、[藍葦華](../Page/藍葦華.md "wikilink")、[謝飛](https://zh.wikipedia.org/wiki/謝飛_\(童星\) "wikilink")、[陳天霖](https://zh.wikipedia.org/wiki/陳天霖 "wikilink")、[葳薾森](https://zh.wikipedia.org/wiki/葳薾森 "wikilink")、[蔡明修](../Page/蔡明修.md "wikilink")領銜主演。\[1\]\[2\][中視主頻於](../Page/中視_\(頻道\).md "wikilink")2017年4月21日上檔。本劇講述[社工與社會低階層家庭的故事](https://zh.wikipedia.org/wiki/社工 "wikilink")。\[3\]
 
 ## 播出時間
 
@@ -177,16 +177,8 @@
 ## 外部連結
 
   -
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink")
-[Category:2017年電視電影](https://zh.wikipedia.org/wiki/Category:2017年電視電影 "wikilink")
-[Category:中視電視節目](https://zh.wikipedia.org/wiki/Category:中視電視節目 "wikilink")
-[Category:社會問題題材作品](https://zh.wikipedia.org/wiki/Category:社會問題題材作品 "wikilink")
-[Category:大臺北取景電影](https://zh.wikipedia.org/wiki/Category:大臺北取景電影 "wikilink")
-[Category:台北市背景電影](https://zh.wikipedia.org/wiki/Category:台北市背景電影 "wikilink")
-[Category:貧窮題材電影](https://zh.wikipedia.org/wiki/Category:貧窮題材電影 "wikilink")
-[Category:公視外購電視節目](https://zh.wikipedia.org/wiki/Category:公視外購電視節目 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:2017年電視電影](https://zh.wikipedia.org/wiki/Category:2017年電視電影 "wikilink") [Category:中視電視節目](https://zh.wikipedia.org/wiki/Category:中視電視節目 "wikilink") [Category:社會問題題材作品](https://zh.wikipedia.org/wiki/Category:社會問題題材作品 "wikilink") [Category:大臺北取景電影](https://zh.wikipedia.org/wiki/Category:大臺北取景電影 "wikilink") [Category:台北市背景電影](https://zh.wikipedia.org/wiki/Category:台北市背景電影 "wikilink") [Category:貧窮題材電影](https://zh.wikipedia.org/wiki/Category:貧窮題材電影 "wikilink") [Category:公視外購電視節目](https://zh.wikipedia.org/wiki/Category:公視外購電視節目 "wikilink")
 
 1.  [廖慧珍路邊辛苦撿回收！慘遭路人鄙視「好受傷」](http://star.ettoday.net/news/899353)
-2.  [昔日《小象隊》路邊拾荒
-    被路人鄙視好受傷](http://ent.ltn.com.tw/news/breakingnews/2027709)
+2.  [昔日《小象隊》路邊拾荒 被路人鄙視好受傷](http://ent.ltn.com.tw/news/breakingnews/2027709)
 3.  [中視新劇TMD天堂 描摹底層人物困境](https://www.101newsmedia.com/news/31846)

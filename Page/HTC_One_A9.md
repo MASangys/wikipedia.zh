@@ -1,5 +1,4 @@
-**HTC One
-A9**是一支由[HTC製造的安卓智慧型手機](https://zh.wikipedia.org/wiki/HTC "wikilink")，該部手機發表於美國時間的2015年10月20日。.
+**HTC One A9**是一支由[HTC製造的安卓智慧型手機](https://zh.wikipedia.org/wiki/HTC "wikilink")，該部手機發表於美國時間的2015年10月20日。.
 
 這部手機是基於HTC 2015年旗艦機皇HTC One M9/M9+的重新設計姊妹機，然而這部手機在全球市場定位上是屬於中階手機。
 
@@ -125,14 +124,9 @@ F2.0 大光圈、具備 HDR 功能、1080p Full HD 錄影</p></td>
 
 ### 硬體
 
-外型相似於 [One M8](../Page/HTC_One_\(M8\).md "wikilink")，這部手機採用一體成型的金屬機身，全機重
-，機身高度145.75公釐，寬度70.8公釐，厚度7.26公釐\[4\]。面板採用五吋的[Super
-AMOLED](https://zh.wikipedia.org/wiki/AMOLED#Super_AMOLED "wikilink")，
-1920 x 1080 [畫素](https://zh.wikipedia.org/wiki/畫素 "wikilink")，以及 440
-ppi\[5\]。
+外型相似於 [One M8](../Page/HTC_One_\(M8\).md "wikilink")，這部手機採用一體成型的金屬機身，全機重 ，機身高度145.75公釐，寬度70.8公釐，厚度7.26公釐\[4\]。面板採用五吋的[Super AMOLED](https://zh.wikipedia.org/wiki/AMOLED#Super_AMOLED "wikilink")， 1920 x 1080 [畫素](https://zh.wikipedia.org/wiki/畫素 "wikilink")，以及 440 ppi\[5\]。
 
-中央處理器採用高通Snapdragon 617八核心處理器。但該手機有兩個不同的版本一種是內部記憶體(ROM) 16 GB搭配 2 GB RAM
-；另外一種是內部記憶體32 GB搭配 3 GB RAM。兩種裝置都可以透過microSD card 擴充，上限至2 TB。
+中央處理器採用高通Snapdragon 617八核心處理器。但該手機有兩個不同的版本一種是內部記憶體(ROM) 16 GB搭配 2 GB RAM ；另外一種是內部記憶體32 GB搭配 3 GB RAM。兩種裝置都可以透過microSD card 擴充，上限至2 TB。
 
 該裝置也有一個指紋辨識感應器，可以用來解除螢幕鎖定畫面、或當HOME鍵使用。
 
@@ -140,23 +134,15 @@ ppi\[5\]。
 
 主鏡頭，搭載1300萬畫素的感光元件（SONY IMX 214）、F2.0 光圈、與雙色溫感光燈、光學防手震。前後鏡頭也都支援1080p攝影。
 
-本次加入新的相機功能，在自動模式下可以0.1秒儲存相片，另外「**Hyperlapse
-高動態縮時攝影**」可以提供最高12倍速的動態縮時攝影，也把「**Zoe
-Camera動態拍照**」功能給加回來。A9也提供搭載於旗鑑上才有的**RAW**拍照功能。
+本次加入新的相機功能，在自動模式下可以0.1秒儲存相片，另外「**Hyperlapse 高動態縮時攝影**」可以提供最高12倍速的動態縮時攝影，也把「**Zoe Camera動態拍照**」功能給加回來。A9也提供搭載於旗鑑上才有的**RAW**拍照功能。
 
 ### 軟體
 
-A9 預先安裝 [Android 6.0
-Marshmallow](../Page/Android_Marshmallow.md "wikilink")
-版本的作業系統，並搭配HTC自行研發的 [HTC Sense
-7使用者介面與軟體組合](../Page/HTC_Sense.md "wikilink")，並強調與[Google緊密合作](../Page/Google.md "wikilink")，在美國地區的「解鎖版」可以提供「在Nexus更新後的15天內提供更新」的服務\[6\]\[7\]。
+A9 預先安裝 [Android 6.0 Marshmallow](../Page/Android_Marshmallow.md "wikilink") 版本的作業系統，並搭配HTC自行研發的 [HTC Sense 7使用者介面與軟體組合](../Page/HTC_Sense.md "wikilink")，並強調與[Google](../Page/Google.md "wikilink")緊密合作，在美國地區的「解鎖版」可以提供「在Nexus更新後的15天內提供更新」的服務\[6\]\[7\]。
 
 ## 軼事
 
-A9外觀太像[IPhone
-6](../Page/IPhone_6.md "wikilink")，包括凸起的後鏡頭、閃光燈、指紋辨識器，背面天線，就連未發佈之前的諜照也長的太像[IPhone
-6](../Page/IPhone_6.md "wikilink")，外媒還稱：「一台跑著Android
-6.0系統、售價399美元的iPhone」。
+A9外觀太像[IPhone 6](../Page/IPhone_6.md "wikilink")，包括凸起的後鏡頭、閃光燈、指紋辨識器，背面天線，就連未發佈之前的諜照也長的太像[IPhone 6](../Page/IPhone_6.md "wikilink")，外媒還稱：「一台跑著Android 6.0系統、售價399美元的iPhone」。
 
 ## 發售資訊
 
@@ -180,11 +166,7 @@ A9外觀太像[IPhone
   -
 ## 參考資料
 
-[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
+[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
 
 1.
 2.

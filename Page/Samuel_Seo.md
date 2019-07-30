@@ -1,5 +1,4 @@
-**Samuel
-Seo**，（，），本名為**徐東賢**（音譯），（，），是[韓國的創作歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")，於2010年發行《Raindrop》。\[1\]\[2\]
+**Samuel Seo**，（，），本名為**徐東賢**（音譯），（，），是[韓國的創作歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")，於2010年發行《Raindrop》。\[1\]\[2\]
 
 ## 音樂作品
 
@@ -38,19 +37,14 @@ Seo**，（，），本名為**徐東賢**（音譯），（，），是[韓國�
 
 ## 獲獎紀錄
 
-  - 2016：[韓國音樂大獎](../Page/韓國音樂大獎.md "wikilink")，Best R\&B & Soul
-    Album，《Frameworks》\[14\]
+  - 2016：[韓國音樂大獎](../Page/韓國音樂大獎.md "wikilink")，Best R\&B & Soul Album，《Frameworks》\[14\]
 
 ## 參考
 
 ## 連結
 
   -
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:韓國創作歌手](https://zh.wikipedia.org/wiki/Category:韓國創作歌手 "wikilink")
-[Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink")
+[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國創作歌手](https://zh.wikipedia.org/wiki/Category:韓國創作歌手 "wikilink") [Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink")
 
 1.
 2.

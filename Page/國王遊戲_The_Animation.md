@@ -1,15 +1,6 @@
-《**國王遊戲 The
-Animation**》（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：）。由日本同名暢銷小說作家[金澤伸明代表作](https://zh.wikipedia.org/wiki/金澤伸明 "wikilink")《[國王遊戲](../Page/國王遊戲_\(小說\).md "wikilink")》改編而成的電視動畫，在2017年10月5日起[AT-X電視台首播](../Page/AT-X.md "wikilink")。電視動畫將描寫結合系列第1作《國王遊戲》及第2作《國王遊戲
-終極》兩個故事構成的原創劇本。\[1\]
+《**國王遊戲 The Animation**》（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：）。由日本同名暢銷小說作家[金澤伸明代表作](https://zh.wikipedia.org/wiki/金澤伸明 "wikilink")《[國王遊戲](../Page/國王遊戲_\(小說\).md "wikilink")》改編而成的電視動畫，在2017年10月5日起[AT-X](../Page/AT-X.md "wikilink")電視台首播。電視動畫將描寫結合系列第1作《國王遊戲》及第2作《國王遊戲 終極》兩個故事構成的原創劇本。\[1\]
 
-主要聲優陣容方面則有[宮野真守](../Page/宮野真守.md "wikilink")（飾
-金澤伸明）、[堀江由衣](../Page/堀江由衣.md "wikilink")（飾
-本多奈津子）、[M·A·O](../Page/市道真央.md "wikilink")（飾
-本多智惠美）、[Pile](../Page/Pile.md "wikilink")（飾
-岩村莉愛）、[佐佐木祐輔](https://zh.wikipedia.org/wiki/佐佐木祐輔 "wikilink")（飾
-赤松健太）、[立花慎之介](../Page/立花慎之介.md "wikilink")（飾
-橋本直也）、[上原明里](../Page/上原明里.md "wikilink")（飾
-松本里緒菜） 等48名參與配音聲優出演。\[2\]
+主要聲優陣容方面則有[宮野真守](../Page/宮野真守.md "wikilink")（飾 金澤伸明）、[堀江由衣](../Page/堀江由衣.md "wikilink")（飾 本多奈津子）、[M·A·O](../Page/市道真央.md "wikilink")（飾 本多智惠美）、[Pile](../Page/Pile.md "wikilink")（飾 岩村莉愛）、[佐佐木祐輔](https://zh.wikipedia.org/wiki/佐佐木祐輔 "wikilink")（飾 赤松健太）、[立花慎之介](../Page/立花慎之介.md "wikilink")（飾 橋本直也）、[上原明里](../Page/上原明里.md "wikilink")（飾 松本里緒菜） 等48名參與配音聲優出演。\[2\]
 
 ## 劇情
 
@@ -392,15 +383,10 @@ Animation**》（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：）
   - 音樂製作 - SPACEY MUSIC ENTERTAINMENT
   - 音響監督 - [大室正勝](https://zh.wikipedia.org/wiki/大室正勝 "wikilink")
   - 音樂製作人 - 安田spacey尊行
-  - 製作人 -
-    小沼利行、小林泰久、柱山泰佐、森田剛、石原直樹、阿部直樹、安田spacey尊行、伊藤大河、竹内崇剛、鈴木英昭、三枝俊光、吉田裕二、菊島憲文、磯谷德知
+  - 製作人 - 小沼利行、小林泰久、柱山泰佐、森田剛、石原直樹、阿部直樹、安田spacey尊行、伊藤大河、竹内崇剛、鈴木英昭、三枝俊光、吉田裕二、菊島憲文、磯谷德知
   - 動畫製作人 - 石原直樹
   - 動畫製作 - [Seven](../Page/Animation_StudiO_Seven.md "wikilink")
-  - 製作 - 「國王遊戲 The
-    Animation」製作委員会（[博報堂](../Page/博報堂.md "wikilink")、[雙葉社](https://zh.wikipedia.org/wiki/雙葉社 "wikilink")、Seven、[日本華納音樂](../Page/日本華納音樂.md "wikilink")、SPACEY
-    MUSIC
-    ENTERTAINMENT、エイ・クラフト、[Amuse](../Page/Amuse.md "wikilink")、Blue、[東販](../Page/東販.md "wikilink")、[Kakao
-    Japan](../Page/KakaoTalk.md "wikilink")、[KADOKAWA](../Page/KADOKAWA.md "wikilink")、AT-X）
+  - 製作 - 「國王遊戲 The Animation」製作委員会（[博報堂](../Page/博報堂.md "wikilink")、[雙葉社](https://zh.wikipedia.org/wiki/雙葉社 "wikilink")、Seven、[日本華納音樂](../Page/日本華納音樂.md "wikilink")、SPACEY MUSIC ENTERTAINMENT、エイ・クラフト、[Amuse](../Page/Amuse.md "wikilink")、Blue、[東販](../Page/東販.md "wikilink")、[Kakao Japan](../Page/KakaoTalk.md "wikilink")、[KADOKAWA](../Page/KADOKAWA.md "wikilink")、AT-X）
 
 ## 主題曲
 
@@ -564,14 +550,10 @@ Hwang Youngsik</p></td>
 
   - [電視動畫「國王遊戲 The Animation」公式官網](http://kingsgame-anime.com)
 
-  - [電視動畫「國王遊戲 The
-    Animation」巴哈姆特動畫瘋直播專題](https://ani.gamer.com.tw/animeVideo.php?sn=8783)
+  - [電視動畫「國王遊戲 The Animation」巴哈姆特動畫瘋直播專題](https://ani.gamer.com.tw/animeVideo.php?sn=8783)
 
   -
-[Category:2017年日本電視動画](https://zh.wikipedia.org/wiki/Category:2017年日本電視動画 "wikilink")
-[Category:小說改編動畫](https://zh.wikipedia.org/wiki/Category:小說改編動畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
-[Category:死亡遊戲題材作品](https://zh.wikipedia.org/wiki/Category:死亡遊戲題材作品 "wikilink")
+[Category:2017年日本電視動画](https://zh.wikipedia.org/wiki/Category:2017年日本電視動画 "wikilink") [Category:小說改編動畫](https://zh.wikipedia.org/wiki/Category:小說改編動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:死亡遊戲題材作品](https://zh.wikipedia.org/wiki/Category:死亡遊戲題材作品 "wikilink")
 
 1.
 

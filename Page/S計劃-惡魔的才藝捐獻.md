@@ -1,5 +1,4 @@
-《**S計劃-惡魔的才藝捐獻**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet的綜藝節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")，由
-[申廷煥](https://zh.wikipedia.org/wiki/申廷煥 "wikilink")、[卓在勳主持](https://zh.wikipedia.org/wiki/卓在勳 "wikilink")\[1\]\[2\]，兩人需尋找需要自己的地方進行才藝捐獻，同時也一起找回初心\[3\]\[4\]。
+《**S計劃-惡魔的才藝捐獻**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet的綜藝節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")，由 [申廷煥](../Page/申廷煥.md "wikilink")、[卓在勳](../Page/卓在勳.md "wikilink")主持\[1\]\[2\]，兩人需尋找需要自己的地方進行才藝捐獻，同時也一起找回初心\[3\]\[4\]。
 
 ## 各集內容
 
@@ -28,9 +27,7 @@
 
 ## 參考資料
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
 1.
 2.
@@ -39,5 +36,4 @@
 5.
 6.
 7.
-8.  [시카고 타자기
-    Naver](https://search.naver.com/search.naver?where=nexearch&query=시카고+타자기)
+8.  [시카고 타자기 Naver](https://search.naver.com/search.naver?where=nexearch&query=시카고+타자기)

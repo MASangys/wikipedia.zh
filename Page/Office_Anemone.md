@@ -1,10 +1,8 @@
-**株式會社Office
-Anemone**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")、[演員經紀公司](../Page/演員.md "wikilink")。
+**株式會社Office Anemone**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")、[演員](../Page/演員.md "wikilink")經紀公司。
 
 ## 概要
 
-2009年8月3日\[2\]，由聲優[井上喜久子與胞姊關本彌生](../Page/井上喜久子.md "wikilink")
-2人一起從個人事務所起家而成立。而「Anemone」這個名稱取自於[銀蓮花花種的日文名稱](https://zh.wikipedia.org/wiki/銀蓮花 "wikilink")，並以「（\[3\]）」之意所命名。
+2009年8月3日\[2\]，由聲優[井上喜久子](../Page/井上喜久子.md "wikilink")與胞姊關本彌生 2人一起從個人事務所起家而成立。而「Anemone」這個名稱取自於[銀蓮花花種的日文名稱](https://zh.wikipedia.org/wiki/銀蓮花 "wikilink")，並以「（\[3\]）」之意所命名。
 
 ## 所屬聲優
 
@@ -59,9 +57,7 @@ Anemone**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京�
 
   - [@manbow-井上喜久子官方網站](http://www.manbow.com/)
 
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
-[Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink")
+[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink") [Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink")
 
 1.
 

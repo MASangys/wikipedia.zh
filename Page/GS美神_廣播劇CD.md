@@ -1,20 +1,12 @@
-《**GS美神
-廣播劇CD**》（）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[椎名高志的](../Page/椎名高志.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[廣播劇](../Page/廣播劇.md "wikilink")《[GS美神
-極樂大作戰\!\!](../Page/GS美神_極樂大作戰！！.md "wikilink")》收錄的廣播劇CD系列。
+《**GS美神 廣播劇CD**》（）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[椎名高志](../Page/椎名高志.md "wikilink")的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[廣播劇](../Page/廣播劇.md "wikilink")《[GS美神 極樂大作戰\!\!](../Page/GS美神_極樂大作戰！！.md "wikilink")》收錄的廣播劇CD系列。
 
-全4枚。1994年8月24日至1995年12月21日全由[King
-Records發行](../Page/國王唱片.md "wikilink")。
+全4枚。1994年8月24日至1995年12月21日全由[King Records發行](../Page/國王唱片.md "wikilink")。
 
 ## 概要
 
-《GS美神
-廣播劇CD》是同名漫畫原作者[椎名高志的](../Page/椎名高志.md "wikilink")[漫畫改編](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[廣播劇CD系列](../Page/廣播劇.md "wikilink")。此系列總共4部，系列第一部「被囚禁的小絹」於1994年8月24日發行，但是是以「GS美神
-極樂大作戰\!\!」的名稱販售。至於「GS美神 REROTS.○」3部系列於1995年4月21日至同年12月21日為止發行，並且將「[GS美神
-極樂音樂大作戰\!\!](../Page/GS美神_極樂音樂大作戰!!.md "wikilink")」未收錄的原聲帶音源當作各枚CD的後半內容收錄。
+《GS美神 廣播劇CD》是同名漫畫原作者[椎名高志](../Page/椎名高志.md "wikilink")的[漫畫改編](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[廣播劇](../Page/廣播劇.md "wikilink")CD系列。此系列總共4部，系列第一部「被囚禁的小絹」於1994年8月24日發行，但是是以「GS美神 極樂大作戰\!\!」的名稱販售。至於「GS美神 REROTS.○」3部系列於1995年4月21日至同年12月21日為止發行，並且將「[GS美神 極樂音樂大作戰\!\!](../Page/GS美神_極樂音樂大作戰!!.md "wikilink")」未收錄的原聲帶音源當作各枚CD的後半內容收錄。
 
-還有，《GS美神
-廣播劇CD》的劇本是全都由動畫編劇[松井亞彌負責](../Page/松井亞彌.md "wikilink")。插圖的部分，系列第一部「被囚禁的小絹」的封面插圖則是由同名漫畫的原作者[椎名高志親筆繪製](../Page/椎名高志.md "wikilink")。至於「GS美神
-REROTS.○」3部系列的CD封面插圖是由動畫版負責[人物設定的](../Page/人物設計.md "wikilink")繪製。
+還有，《GS美神 廣播劇CD》的劇本是全都由動畫編劇[松井亞彌](../Page/松井亞彌.md "wikilink")負責。插圖的部分，系列第一部「被囚禁的小絹」的封面插圖則是由同名漫畫的原作者[椎名高志](../Page/椎名高志.md "wikilink")親筆繪製。至於「GS美神 REROTS.○」3部系列的CD封面插圖是由動畫版負責[人物設定的](../Page/人物設計.md "wikilink")繪製。
 
 ## GS美神 極樂大作戰\!\!
 
@@ -25,14 +17,13 @@ REROTS.○」3部系列的CD封面插圖是由動畫版負責[人物設定的](.
 1.  **[GHOST SWEEPER](../Page/GHOST_SWEEPER.md "wikilink")** \[3:43\]
       - 主唱：
       - 作詞：，作曲：，編曲：
-      - [朝日放送等](../Page/朝日放送.md "wikilink")[朝日電視網](../Page/朝日電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[GS美神](https://zh.wikipedia.org/wiki/GS美神_極樂大作戰！！#電視動畫 "wikilink")》片頭主題曲
+      - [朝日放送](../Page/朝日放送.md "wikilink")等[朝日電視網](../Page/朝日電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[GS美神](https://zh.wikipedia.org/wiki/GS美神_極樂大作戰！！#電視動畫 "wikilink")》片頭主題曲
 2.  **捕 Act.1** \[10:01\]
 3.  **捕 Act.2** \[10:00\]
 4.  **[BEATS the BAND](../Page/My_Jolly_Days.md "wikilink")** \[4:49\]
       - 主唱：[奧井雅美](../Page/奧井雅美.md "wikilink")
       - 作詞：Mamie.D.Lee，作曲：池永慎，編曲：
-      - [電影動畫](https://zh.wikipedia.org/wiki/電影動畫 "wikilink")《[劇場版
-        GS美神](https://zh.wikipedia.org/wiki/GS美神_極樂大作戰！！#電影動畫 "wikilink")》劇中插入歌
+      - [電影動畫](https://zh.wikipedia.org/wiki/電影動畫 "wikilink")《[劇場版 GS美神](https://zh.wikipedia.org/wiki/GS美神_極樂大作戰！！#電影動畫 "wikilink")》劇中插入歌
 5.  **捕 Act.3** \[9:50\]
 6.  **捕 Act.4** \[10:01\]
 7.  **背中 I LOVE YOU** \[4:58\]
@@ -58,9 +49,7 @@ REROTS.○」3部系列的CD封面插圖是由動畫版負責[人物設定的](.
 3.  **遠記憶\*** \[4:14\]
 4.  **夢扉\*** \[9:14\]
 5.  **決時！\*** \[9:38\]
-6.  **[SINGLE
-    FAKE](https://zh.wikipedia.org/wiki/GS美神_Gorgeous_Songs "wikilink")**
-    \[2:22\]
+6.  **[SINGLE FAKE](https://zh.wikipedia.org/wiki/GS美神_Gorgeous_Songs "wikilink")** \[2:22\]
       - 主唱：松村香澄
       - 作詞：有森聰美，作曲、編曲：五島翔
 7.  **** \[1:02\]
@@ -86,9 +75,7 @@ REROTS.○」3部系列的CD封面插圖是由動畫版負責[人物設定的](.
 3.  **\*** \[9:32\]
 4.  **愛特訓日\*** \[9:41\]
 5.  **頂上決\*** \[9:33\]
-6.  **[BELIEVE
-    ME](../Page/BELIEVE_ME_\(小坂由美子歌曲\).md "wikilink")（TVsize）**
-    \[1:36\]
+6.  **[BELIEVE ME](../Page/BELIEVE_ME_\(小坂由美子歌曲\).md "wikilink")（TVsize）** \[1:36\]
       - 主唱：[小坂由美子](../Page/小坂由美子.md "wikilink")
       - 作詞：有森聡美，作曲：西岡治彥，編曲：岩本正樹
       - 朝日放送等朝日電視網電視動畫《GS美神》片尾主題曲
@@ -149,7 +136,4 @@ REROTS.○」3部系列的CD封面插圖是由動畫版負責[人物設定的](.
   - 彼得・戴・布拉德：[森川智之](../Page/森川智之.md "wikilink")
   - 見鬼娃娃：[青野武](../Page/青野武.md "wikilink")
 
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
-[Category:1994年音樂專輯](https://zh.wikipedia.org/wiki/Category:1994年音樂專輯 "wikilink")
-[Category:1995年音樂專輯](https://zh.wikipedia.org/wiki/Category:1995年音樂專輯 "wikilink")
-[Category:King_Records音樂專輯](https://zh.wikipedia.org/wiki/Category:King_Records音樂專輯 "wikilink")
+[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:1994年音樂專輯](https://zh.wikipedia.org/wiki/Category:1994年音樂專輯 "wikilink") [Category:1995年音樂專輯](https://zh.wikipedia.org/wiki/Category:1995年音樂專輯 "wikilink") [Category:King_Records音樂專輯](https://zh.wikipedia.org/wiki/Category:King_Records音樂專輯 "wikilink")

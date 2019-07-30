@@ -1,12 +1,6 @@
-**RAINZ**（），團名起源於"在下雨天見面"，含意為"**RA**pturously **IN**spiriting
-boy**Z**"，成員由《[PRODUCE 101
-第二季](../Page/PRODUCE_101_第二季.md "wikilink")》參賽者[金聲利](https://zh.wikipedia.org/wiki/金聲利 "wikilink")、朱元鐸、李基遠、張大賢、洪殷基、邊賢民、徐晟赫7位組成，是繼[JBJ後第二組出道的粉絲假想團體](../Page/JBJ.md "wikilink")。確定於2017年10月12日以迷你專輯出道，由《나야
-나》製作人製作， 編舞則為權宰勝。\[1\]
+**RAINZ**（），團名起源於"在下雨天見面"，含意為"**RA**pturously **IN**spiriting boy**Z**"，成員由《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》參賽者[金聲利](https://zh.wikipedia.org/wiki/金聲利 "wikilink")、朱元鐸、李基遠、張大賢、洪殷基、邊賢民、徐晟赫7位組成，是繼[JBJ](../Page/JBJ.md "wikilink")後第二組出道的粉絲假想團體。確定於2017年10月12日以迷你專輯出道，由《나야 나》製作人製作， 編舞則為權宰勝。\[1\]
 
-RAINZ的官方顏色為紫丁香Lilac Breeze和水天藍Aqua
-Sky，包含『初戀』和『年輕時候的回憶』等涵義，代表著粉絲們對RAINZ來說是初戀般的存在，以及《PRODUCE
-101》第二季是大家共同的年輕時的回憶。另外，Aqua
-Sky為雨後天晴的水天藍色，同時也代表著成員們經歷了艱辛的練習生時期後，終將面對幸福、向大眾傳遞積極正能量的意義。\[2\]
+RAINZ的官方顏色為紫丁香Lilac Breeze和水天藍Aqua Sky，包含『初戀』和『年輕時候的回憶』等涵義，代表著粉絲們對RAINZ來說是初戀般的存在，以及《PRODUCE 101》第二季是大家共同的年輕時的回憶。另外，Aqua Sky為雨後天晴的水天藍色，同時也代表著成員們經歷了艱辛的練習生時期後，終將面對幸福、向大眾傳遞積極正能量的意義。\[2\]
 
 2018年10月16日，官方公佈組合會在10月28日完成日本活動後解散，成員均回到原本所屬的經紀公司。\[3\]
 
@@ -107,7 +101,7 @@ SOLO</p></td>
 <td><p>A</p></td>
 <td><p>黃色</p></td>
 <td><p>GON</p></td>
-<td><p>-</p></td>
+<td><p>SOLO</p></td>
 <td><p>38</p></td>
 <td></td>
 <td></td>
@@ -310,19 +304,9 @@ SOLO</p></td>
 
 ## 参考文献
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
-[Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink")
-[Category:PRODUCE_101](https://zh.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink")
-[Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
-[Category:已解散的韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國男子演唱團體 "wikilink")
-[Category:2018年韓國廢除](https://zh.wikipedia.org/wiki/Category:2018年韓國廢除 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink") [Category:PRODUCE_101](https://zh.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink") [Category:期間限定團體](https://zh.wikipedia.org/wiki/Category:期間限定團體 "wikilink") [Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:已解散的韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國男子演唱團體 "wikilink") [Category:2018年韓國廢除](https://zh.wikipedia.org/wiki/Category:2018年韓國廢除 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
-1.  ['프듀2' 레인즈 7人 멤버 확정, 10월
-    데뷔](http://entertain.naver.com/read?oid=109&aid=0003604822&lfrom=twitter)
+1.  ['프듀2' 레인즈 7人 멤버 확정, 10월 데뷔](http://entertain.naver.com/read?oid=109&aid=0003604822&lfrom=twitter)
 2.
 3.
 4.

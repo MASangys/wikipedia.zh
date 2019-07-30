@@ -2,11 +2,9 @@
 
 ## 技术特点
 
-[China_Railways_GKD1A.jpg](https://zh.wikipedia.org/wiki/File:China_Railways_GKD1A.jpg "fig:China_Railways_GKD1A.jpg")
-GKD1A型电传动内燃机车是东风4D型内燃机车的系列产品，以GKD1型机车为基础重新设计而成的。
+[China_Railways_GKD1A.jpg](https://zh.wikipedia.org/wiki/File:China_Railways_GKD1A.jpg "fig:China_Railways_GKD1A.jpg") GKD1A型电传动内燃机车是东风4D型内燃机车的系列产品，以GKD1型机车为基础重新设计而成的。
 
-GKD1A型机车按铁道部对新造机车的规范化要求，对机车油、水、空气管路和电气线路及司机室进行了规范化设计；采用模块化设计手段，提升了制造工艺水平，提高了机车零部件的通用互换性；按照商品化要求，改进了机车外观，充分体现了以人为本的设计理念，方便了用户维修保养工作，并为乘务人员提供了舒适的工作环境。这一设计大大降低了运用、维修保养的成本。使经济性大大的提高。动力装置采用6240ZJD型中速柴油机，耐久可靠，经济性好；机车采用交-直流电传动，传动效率高，起动加速性能好，操纵灵活方便；机车采用两轴转向架，可通过70米的小曲线半径，更适合于曲线多、半径小的作业环境使用。机车标称功率为820
-kW，柴油机最大运用功率为1 100 kW。
+GKD1A型机车按铁道部对新造机车的规范化要求，对机车油、水、空气管路和电气线路及司机室进行了规范化设计；采用模块化设计手段，提升了制造工艺水平，提高了机车零部件的通用互换性；按照商品化要求，改进了机车外观，充分体现了以人为本的设计理念，方便了用户维修保养工作，并为乘务人员提供了舒适的工作环境。这一设计大大降低了运用、维修保养的成本。使经济性大大的提高。动力装置采用6240ZJD型中速柴油机，耐久可靠，经济性好；机车采用交-直流电传动，传动效率高，起动加速性能好，操纵灵活方便；机车采用两轴转向架，可通过70米的小曲线半径，更适合于曲线多、半径小的作业环境使用。机车标称功率为820 kW，柴油机最大运用功率为1 100 kW。
 
 ## 参看
 
@@ -21,7 +19,4 @@ kW，柴油机最大运用功率为1 100 kW。
 
   - [非人狂想屋：GKD1A型内燃机车](http://www.trainnets.com/archives/6072)
 
-[Category:中國柴油機車](https://zh.wikipedia.org/wiki/Category:中國柴油機車 "wikilink")
-[Category:Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo軸式機車 "wikilink")
-[Category:中车大连制铁路机车](https://zh.wikipedia.org/wiki/Category:中车大连制铁路机车 "wikilink")
-[Category:调车机车](https://zh.wikipedia.org/wiki/Category:调车机车 "wikilink")
+[Category:中國柴油機車](https://zh.wikipedia.org/wiki/Category:中國柴油機車 "wikilink") [Category:Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo軸式機車 "wikilink") [Category:中车大连制铁路机车](https://zh.wikipedia.org/wiki/Category:中车大连制铁路机车 "wikilink") [Category:调车机车](https://zh.wikipedia.org/wiki/Category:调车机车 "wikilink")

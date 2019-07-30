@@ -1,8 +1,4 @@
-《**高等Rapper
-2**》（）為[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Mnet在](../Page/Mnet媒體.md "wikilink")[高等Rapper結束一年後打造的第二季](../Page/高等Rapper.md "wikilink")[高中生](https://zh.wikipedia.org/wiki/高中生 "wikilink")[Rapper](../Page/饒舌.md "wikilink")[选秀](../Page/选秀.md "wikilink")[节目](../Page/綜藝節目.md "wikilink")。製作組於2017年12月19日起至隔年1月7日期間募集參賽者，選拔出32名學生參與節目錄製，並於2018年2月23日播出第一集。
-\[1\] 第二季擴大招募範圍，開放準高中生（招募時為國三生，節目播出時為高一生）報名。 優勝者將獲得獎學金一千萬韓元及發售音源的機會。
-曾參與[高等Rapper第一季的參賽者為](../Page/高等Rapper.md "wikilink")：趙元優\[2\]、尹炳浩、吳譚律、金允浩、房載民、李智恩、金夏溫。\[3\]
-第二季冠軍為金夏溫。
+《**高等Rapper 2**》（）為[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Mnet在](../Page/Mnet媒體.md "wikilink")[高等Rapper](../Page/高等Rapper.md "wikilink")結束一年後打造的第二季[高中生](https://zh.wikipedia.org/wiki/高中生 "wikilink")[Rapper](../Page/饒舌.md "wikilink")[选秀](../Page/选秀.md "wikilink")[节目](../Page/綜藝節目.md "wikilink")。製作組於2017年12月19日起至隔年1月7日期間募集參賽者，選拔出32名學生參與節目錄製，並於2018年2月23日播出第一集。 \[1\] 第二季擴大招募範圍，開放準高中生（招募時為國三生，節目播出時為高一生）報名。 優勝者將獲得獎學金一千萬韓元及發售音源的機會。 曾參與[高等Rapper](../Page/高等Rapper.md "wikilink")第一季的參賽者為：趙元優\[2\]、尹炳浩、吳譚律、金允浩、房載民、李智恩、金夏溫。\[3\] 第二季冠軍為金夏溫。
 
 ## 主持
 
@@ -12,8 +8,7 @@
   - [GroovyRoom](https://zh.wikipedia.org/wiki/GroovyRoom "wikilink")
 
   -
-  - [San
-    E](../Page/San_E.md "wikilink")、[Cheetah](../Page/Cheetah.md "wikilink")
+  - [San E](../Page/San_E.md "wikilink")、[Cheetah](../Page/Cheetah.md "wikilink")
 
   - 、
 
@@ -76,8 +71,7 @@
   - 於2018年2月23日首播
   - 內容 : 依據年級分組[cypher](https://zh.wikipedia.org/wiki/cypher "wikilink")
 
-準高一、高一、高二、高三，共分成四組進行cypher。 由參賽者們評比，選出該年級優勝，而各年級優勝可以選擇隊員。 此階段不淘汰參賽者。
-（高一cypher於第二集播出）
+準高一、高一、高二、高三，共分成四組進行cypher。 由參賽者們評比，選出該年級優勝，而各年級優勝可以選擇隊員。 此階段不淘汰參賽者。 （高一cypher於第二集播出）
 
 | 各年級cypher優勝 |
 | ----------- |
@@ -205,9 +199,7 @@
 
 ## 备注
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
 1.
 2.  於個人instagram正名 <https://www.instagram.com/p/BgYbMrQHJn2/>

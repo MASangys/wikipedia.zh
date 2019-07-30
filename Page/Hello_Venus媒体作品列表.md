@@ -1,6 +1,4 @@
-《**Hello
-Venus媒体作品列表**》主要列举[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女子音乐组合](../Page/女子音乐组合.md "wikilink")[Hello
-Venus历年参与各类电视节目](../Page/Hello_Venus.md "wikilink")、固定节目及电视剧。
+《**Hello Venus媒体作品列表**》主要列举[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女子音乐组合](../Page/女子音乐组合.md "wikilink")[Hello Venus历年参与各类电视节目](../Page/Hello_Venus.md "wikilink")、固定节目及电视剧。
 
 ## 影視作品
 
@@ -69,7 +67,7 @@ Venus历年参与各类电视节目](../Page/Hello_Venus.md "wikilink")、固定
 | 2012年5月17日  | 神童的深深打破                               | 全體            |
 | 2012年5月27日  | 鄭善姬像今天這樣的夜晚                           | 全體            |
 | 2012年6月3日   | Boom's Young Street                   | 全體            |
-| 2012年6月20日  | [洪真慶的兩點電台](../Page/洪真慶.md "wikilink") | 全體            |
+| 2012年6月20日  | [洪真慶](../Page/洪真慶.md "wikilink")的兩點電台 | 全體            |
 | 2012年7月12日  | Boom's Young Street                   | 瑜瑛            |
 | 2012年7月17日  | 潤荷星光燦爛的夜晚                             | 全體            |
 | 2012年7月19日  | 神童的深深打破                               | 全體            |
@@ -225,5 +223,4 @@ Venus历年参与各类电视节目](../Page/Hello_Venus.md "wikilink")、固定
 
 ## 參考資料
 
-[Category:Hello_Venus](https://zh.wikipedia.org/wiki/Category:Hello_Venus "wikilink")
-[Category:作品列表](https://zh.wikipedia.org/wiki/Category:作品列表 "wikilink")
+[Category:Hello_Venus](https://zh.wikipedia.org/wiki/Category:Hello_Venus "wikilink") [Category:作品列表](https://zh.wikipedia.org/wiki/Category:作品列表 "wikilink")

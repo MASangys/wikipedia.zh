@@ -4,11 +4,7 @@
 
 ### Windows Phone 8.0
 
-第一代 預裝Windows Phone 8的裝置，可升級至Windows Phone 8.1作業系統。Windows Phone
-8采用与[Windows
-8相同的](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[NT内核](../Page/Windows_NT.md "wikilink")。所有设备均采用[高通公司的](https://zh.wikipedia.org/wiki/高通公司 "wikilink")[系统单芯片](https://zh.wikipedia.org/wiki/系统单芯片 "wikilink")。Windows
-Phone 8几乎兼容所有Windows Phone 7.5的应用程序，但Windows Phone 8的所有原生程序无法在Windows
-Phone 7.X上运行，属于单向兼容。\[1\]
+第一代 預裝Windows Phone 8的裝置，可升級至Windows Phone 8.1作業系統。Windows Phone 8采用与[Windows 8相同的](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[NT内核](../Page/Windows_NT.md "wikilink")。所有设备均采用[高通公司的](https://zh.wikipedia.org/wiki/高通公司 "wikilink")[系统单芯片](https://zh.wikipedia.org/wiki/系统单芯片 "wikilink")。Windows Phone 8几乎兼容所有Windows Phone 7.5的应用程序，但Windows Phone 8的所有原生程序无法在Windows Phone 7.X上运行，属于单向兼容。\[1\]
 
 <table>
 <thead>

@@ -1,13 +1,10 @@
-《**妖怪少女MONSTER
-GIRL**》（）是由日本漫畫家[船津一輝](https://zh.wikipedia.org/wiki/船津一輝 "wikilink")（）所作的一部漫畫，於[集英社](../Page/集英社.md "wikilink")《[週刊YOUNG
-JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》2014年14號開始連載。
+《**妖怪少女MONSTER GIRL**》（）是由日本漫畫家[船津一輝](https://zh.wikipedia.org/wiki/船津一輝 "wikilink")（）所作的一部漫畫，於[集英社](../Page/集英社.md "wikilink")《[週刊YOUNG JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》2014年14號開始連載。
 
-單行本日文版由[集英社出版發行](../Page/集英社.md "wikilink")，正體中文版由[東立出版社代理發行](../Page/東立出版社.md "wikilink")。
+單行本日文版由[集英社](../Page/集英社.md "wikilink")出版發行，正體中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理發行。
 
 ## 簡介
 
-在秋葉原的雜貨店打工飛特族西水流八喜，乍看只是個喜歡去女僕咖啡廳的平凡宅男，但實則他有個不為人知的特殊能力，即是能看見幽靈。
-某天在八喜面前突然出現的美少女轆花，在一連串的巧合下兩人越走越近，看似即將有機會擺脫處男之身的八喜，卻意外得知轆花其實是妖怪的驚人真面目？
+在秋葉原的雜貨店打工飛特族西水流八喜，乍看只是個喜歡去女僕咖啡廳的平凡宅男，但實則他有個不為人知的特殊能力，即是能看見幽靈。 某天在八喜面前突然出現的美少女轆花，在一連串的巧合下兩人越走越近，看似即將有機會擺脫處男之身的八喜，卻意外得知轆花其實是妖怪的驚人真面目？
 
 ## 登場人物
 
@@ -25,9 +22,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》2014年14號開始連載。
 <!-- end list -->
 
   -
-    隨著故事進行，八喜和妖怪日漸相處下，明白妖怪和人類一樣，也有好有壞，49話中最初和Gcup合作，共同進行妖怪退治，但發現其目標是已改過自新的姫瑠依，因不滿Gcup對妖怪趕盡殺絕的做法，加上殺死姫瑠依的行為，決定和Gcup決裂敵對，決心要成為人類和妖怪之間的「橋樑」。八喜日後戰鬥亦和Gcup為主。
-    81話，和兒時好友兼Gcup隊長新谷優吾單挑，但因實力懸殊而慘遭秒殺。101話，即使已「人妖一體」，但重傷狀態下加上實力不足，和優吾再度對決亦不敵，並被貫穿心臟而死。但同時，體內「守人」的真正力量覺醒，並失去了理性。在守人的力量下，輕鬆力壓優吾和轆花等人的合擊，和大天狗戰鬥亦不相伯仲。後來轆花爲了幫助八喜找回自我，
-    犧牲了自己的靈魂，使八喜回復理性，但轆花亦因此昏迷不醒，而八喜平常和轆花靈子合體的左手亦失去知覺。八喜找回自我後，想起過去的回憶，即是第1話開首，原來小時候曾和轆花見面和玩耍，途中因失足而身受重傷，並和守人見面，被守人用血救回一命。因後悔在失去理性時的所作所為和連累大家，一度失落，後來被大家鼓勵下，決心要把轆花找回來，和大夥一起向靜岡出發。
+    隨著故事進行，八喜和妖怪日漸相處下，明白妖怪和人類一樣，也有好有壞，49話中最初和Gcup合作，共同進行妖怪退治，但發現其目標是已改過自新的姫瑠依，因不滿Gcup對妖怪趕盡殺絕的做法，加上殺死姫瑠依的行為，決定和Gcup決裂敵對，決心要成為人類和妖怪之間的「橋樑」。八喜日後戰鬥亦和Gcup為主。 81話，和兒時好友兼Gcup隊長新谷優吾單挑，但因實力懸殊而慘遭秒殺。101話，即使已「人妖一體」，但重傷狀態下加上實力不足，和優吾再度對決亦不敵，並被貫穿心臟而死。但同時，體內「守人」的真正力量覺醒，並失去了理性。在守人的力量下，輕鬆力壓優吾和轆花等人的合擊，和大天狗戰鬥亦不相伯仲。後來轆花爲了幫助八喜找回自我， 犧牲了自己的靈魂，使八喜回復理性，但轆花亦因此昏迷不醒，而八喜平常和轆花靈子合體的左手亦失去知覺。八喜找回自我後，想起過去的回憶，即是第1話開首，原來小時候曾和轆花見面和玩耍，途中因失足而身受重傷，並和守人見面，被守人用血救回一命。因後悔在失去理性時的所作所為和連累大家，一度失落，後來被大家鼓勵下，決心要把轆花找回來，和大夥一起向靜岡出發。
 
 <!-- end list -->
 
@@ -89,7 +84,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》2014年14號開始連載。
 <!-- end list -->
 
   -
-    [河童玩偶的](../Page/河童.md "wikilink")[人形神](https://zh.wikipedia.org/wiki/日語 "wikilink")。特技是以刀片切碎衣服。
+    [河童](../Page/河童.md "wikilink")玩偶的[人形神](https://zh.wikipedia.org/wiki/日語 "wikilink")。特技是以刀片切碎衣服。
 
 <!-- end list -->
 
@@ -99,9 +94,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》2014年14號開始連載。
 
 ### GCUP
 
-正式名稱為The Laboratory of Global Contemporary Unscientific
-Phenomenon（國際現代非科學現象研究所）。LTP：Low Temperature
-Plasma（低温等離子）。獵犬（ハウンドメンバー）：GCUP的戰鬥組織。
+正式名稱為The Laboratory of Global Contemporary Unscientific Phenomenon（國際現代非科學現象研究所）。LTP：Low Temperature Plasma（低温等離子）。獵犬（ハウンドメンバー）：GCUP的戰鬥組織。
 
   -
     GCUP的法人，人事部(HDR)的副部長
@@ -236,9 +229,7 @@ Plasma（低温等離子）。獵犬（ハウンドメンバー）：GCUP的戰�
 
 ## 参考文献
 
-[Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:妖怪題材漫畫](https://zh.wikipedia.org/wiki/Category:妖怪題材漫畫 "wikilink")
+[Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:妖怪題材漫畫](https://zh.wikipedia.org/wiki/Category:妖怪題材漫畫 "wikilink")
 
 1.
 2.

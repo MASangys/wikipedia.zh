@@ -1,5 +1,4 @@
-**Escu:de**（エスクード）是日本Element（エレメント）公司的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，於1998年5月在[大阪市成立](../Page/大阪市.md "wikilink")。\[1\]\[2\]2008年和[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")（あかべぇそふとつぅ）共同製作《こんぼく麻雀
-〜こんな麻雀があったら僕はロン\!〜》。\[3\]
+**Escu:de**（エスクード）是日本Element（エレメント）公司的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，於1998年5月在[大阪市](../Page/大阪市.md "wikilink")成立。\[1\]\[2\]2008年和[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")（あかべぇそふとつぅ）共同製作《こんぼく麻雀 〜こんな麻雀があったら僕はロン\!〜》。\[3\]
 
 ## 作品列表
 
@@ -277,5 +276,4 @@ Masaya、明地雫</p></td>
 
 1.  [会社概要](http://www.escude.co.jp/company.html#data)Escu:de
 2.  [Escu:de](https://vndb.org/p403)The Visual Novel Database
-3.  [こんぼく麻雀
-    〜こんな麻雀があったら僕はロン\!〜](http://www.getchu.com/soft.phtml?id=453145)Getchu.com
+3.  [こんぼく麻雀 〜こんな麻雀があったら僕はロン\!〜](http://www.getchu.com/soft.phtml?id=453145)Getchu.com

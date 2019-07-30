@@ -1,5 +1,4 @@
-《**EXID's
-SHOWTIME**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")的[真人實境秀](../Page/真人實境秀.md "wikilink")，由[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[EXID五位成員擔當主角](https://zh.wikipedia.org/wiki/EXID "wikilink")\[1\]，2015年7月9日起逢星期四[韓國時間](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")18點至19點播出。\[2\]
+《**EXID's SHOWTIME**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")的[真人實境秀](../Page/真人實境秀.md "wikilink")，由[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[EXID五位成員擔當主角](https://zh.wikipedia.org/wiki/EXID "wikilink")\[1\]，2015年7月9日起逢星期四[韓國時間](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")18點至19點播出。\[2\]
 
 ## 節目介紹
 
@@ -191,16 +190,12 @@ SHOWTIME**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikil
 ## 系列節目
 
 1.  《[EXO's SHOWTIME](../Page/EXO's_SHOWTIME.md "wikilink")》（2013－2014年）
-2.  《[SHOWTIME - Burning the
-    BEAST](../Page/SHOWTIME_-_Burning_the_BEAST.md "wikilink")》（2014年）
+2.  《[SHOWTIME - Burning the BEAST](../Page/SHOWTIME_-_Burning_the_BEAST.md "wikilink")》（2014年）
 3.  《[Apink's SHOWTIME](../Page/Apink's_SHOWTIME.md "wikilink")》（2014年）
-4.  《[Sistar's
-    SHOWTIME](https://zh.wikipedia.org/wiki/Sistar's_SHOWTIME "wikilink")》（2015年）
+4.  《[Sistar's SHOWTIME](https://zh.wikipedia.org/wiki/Sistar's_SHOWTIME "wikilink")》（2015年）
 5.  《**EXID's SHOWTIME**》（2015年）
-6.  《[INFINITE's
-    SHOWTIME](../Page/SHOWTIME_Infinite.md "wikilink")》（2015－2016年）
-7.  《[SHOWTIME MAMAMOO X
-    GFRIEND](../Page/Showtime_Mamamoo_X_GFriend.md "wikilink")》（2016年）
+6.  《[INFINITE's SHOWTIME](../Page/SHOWTIME_Infinite.md "wikilink")》（2015－2016年）
+7.  《[SHOWTIME MAMAMOO X GFRIEND](../Page/Showtime_Mamamoo_X_GFriend.md "wikilink")》（2016年）
 
 ## 參考資料
 
@@ -209,12 +204,7 @@ SHOWTIME**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikil
   -
 ## 作品的變遷
 
-[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink")
-[Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink")
-[Category:觀眾參與節目](https://zh.wikipedia.org/wiki/Category:觀眾參與節目 "wikilink")
-[Category:EXID](https://zh.wikipedia.org/wiki/Category:EXID "wikilink")
+[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink") [Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink") [Category:觀眾參與節目](https://zh.wikipedia.org/wiki/Category:觀眾參與節目 "wikilink") [Category:EXID](https://zh.wikipedia.org/wiki/Category:EXID "wikilink")
 
 1.
 2.

@@ -1,13 +1,8 @@
-**2K
-Australia**，是总部设在[澳大利亚](../Page/澳大利亚.md "wikilink")[堪培拉的游戏开发商](../Page/堪培拉.md "wikilink")。该工作室成立于2000年，由Irrational
-Canberra和Jonathan Chey负责；在2007年，改名为2K
-Australia。根据新闻，该工作室的主要重点是开发新的[知识产权和与其他](../Page/知识产权.md "wikilink")2K工作室共同开发产品。
+**2K Australia**，是总部设在[澳大利亚](../Page/澳大利亚.md "wikilink")[堪培拉](../Page/堪培拉.md "wikilink")的游戏开发商。该工作室成立于2000年，由Irrational Canberra和Jonathan Chey负责；在2007年，改名为2K Australia。根据新闻，该工作室的主要重点是开发新的[知识产权](../Page/知识产权.md "wikilink")和与其他2K工作室共同开发产品。
 
-该工作室原本是Irrational Games的一部分。在2010年，2K Australia为新的XCOM游戏宣布加入[2K
-Marin](../Page/2K_Marin.md "wikilink")。然而，在2011年底2K Marin和2K
-Australia分开。\[1\]
+该工作室原本是Irrational Games的一部分。在2010年，2K Australia为新的XCOM游戏宣布加入[2K Marin](../Page/2K_Marin.md "wikilink")。然而，在2011年底2K Marin和2K Australia分开。\[1\]
 
-在2015年4月16日，该工作室宣布关闭，原因是在澳大利亚工作室的[成本太高](../Page/成本.md "wikilink")。\[2\]
+在2015年4月16日，该工作室宣布关闭，原因是在澳大利亚工作室的[成本](../Page/成本.md "wikilink")太高。\[2\]
 
 ## 游戏列表
 
@@ -73,11 +68,7 @@ Australia分开。\[1\]
 ## 外部链接
 
   -
-[Category:2000年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2000年開業電子遊戲公司 "wikilink")
-[Category:2015年結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2015年結業電子遊戲公司 "wikilink")
-[Category:Take-Two_Interactive的部门与子公司](https://zh.wikipedia.org/wiki/Category:Take-Two_Interactive的部门与子公司 "wikilink")
-[Category:澳洲電子遊戲公司](https://zh.wikipedia.org/wiki/Category:澳洲電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
+[Category:2000年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2000年開業電子遊戲公司 "wikilink") [Category:2015年結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2015年結業電子遊戲公司 "wikilink") [Category:Take-Two_Interactive的部门与子公司](https://zh.wikipedia.org/wiki/Category:Take-Two_Interactive的部门与子公司 "wikilink") [Category:澳洲電子遊戲公司](https://zh.wikipedia.org/wiki/Category:澳洲電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
 1.
 2.

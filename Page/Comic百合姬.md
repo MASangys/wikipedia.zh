@@ -1,9 +1,8 @@
-《**Comic百合姬**》（）是[日本](../Page/日本.md "wikilink")[一迅社發行的](../Page/一迅社.md "wikilink")[百合主題](../Page/百合_\(藝術類型\).md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")\[1\]，原則上每月18日發售\[2\]。[簡體中文電子版由](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")[布卡漫畫代理](https://zh.wikipedia.org/wiki/布卡漫畫 "wikilink")。
+《**Comic百合姬**》（）是[日本](../Page/日本.md "wikilink")[一迅社](../Page/一迅社.md "wikilink")發行的[百合主題](../Page/百合_\(藝術類型\).md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")\[1\]，原則上每月18日發售\[2\]。[簡體中文電子版由](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")[布卡漫畫代理](https://zh.wikipedia.org/wiki/布卡漫畫 "wikilink")。
 
 ## 歷史
 
-  - 2005年7月：《》休刊後，《Comic百合姬》作為《[Comic
-    ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》的增刊號創刊，當時為季刊。
+  - 2005年7月：《》休刊後，《Comic百合姬》作為《[Comic ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》的增刊號創刊，當時為季刊。
   - 2007年6月：姐妹雜誌《》創刊。
   - 2008年1月：獨立創刊。
   - 2010年11月：與《百合姬S》合併，由季刊變更為雙月刊\[3\]\[4\]。
@@ -122,8 +121,7 @@
 
   - 福爾摩斯推理不來（）
 
-  - [捏造陷阱
-    -NTR-](../Page/捏造陷阱_-NTR-.md "wikilink")（[Kodamanaoko](../Page/Kodamanaoko.md "wikilink")）
+  - [捏造陷阱 -NTR-](../Page/捏造陷阱_-NTR-.md "wikilink")（[Kodamanaoko](../Page/Kodamanaoko.md "wikilink")）
 
   - （）
 
@@ -131,8 +129,7 @@
 
   - 你是少女（）
 
-  - [citrus
-    ～柑橘味香氣～](https://zh.wikipedia.org/wiki/citrus_～柑橘味香氣～ "wikilink")（三郎太）\[7\]
+  - [citrus ～柑橘味香氣～](https://zh.wikipedia.org/wiki/citrus_～柑橘味香氣～ "wikilink")（三郎太）\[7\]
 
   - 水色空蒙（岩見樹代子）
 
@@ -150,9 +147,7 @@
   -
   - [百合姬@pixiv](https://comic.pixiv.net/magazines/206)
 
-[Category:Comic百合姬](https://zh.wikipedia.org/wiki/Category:Comic百合姬 "wikilink")
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:2005年建立的出版物](https://zh.wikipedia.org/wiki/Category:2005年建立的出版物 "wikilink")
+[Category:Comic百合姬](https://zh.wikipedia.org/wiki/Category:Comic百合姬 "wikilink") [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:2005年建立的出版物](https://zh.wikipedia.org/wiki/Category:2005年建立的出版物 "wikilink")
 
 1.
 2.

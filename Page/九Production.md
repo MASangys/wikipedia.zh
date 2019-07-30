@@ -1,4 +1,4 @@
-**株式會社九Production**（）是[日本一家以前位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[新宿區](../Page/新宿區.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。
+**株式會社九Production**（）是[日本](../Page/日本.md "wikilink")一家以前位於[東京都](../Page/東京都.md "wikilink")[新宿區](../Page/新宿區.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。
 
 ## 概要
 
@@ -6,7 +6,7 @@
 
 2004年10月3日，九Production創辦人及執行社長、聲優[平林尚三](../Page/平林尚三.md "wikilink")\[3\]病逝，因此在同年10月31日最後決定解散。
 
-九Production解散後，所有的聲優各自轉移至其它中、大型聲優經紀公司繼續從事聲優事業，當中又以[惟Production或](https://zh.wikipedia.org/wiki/惟Production "wikilink")[Production★A組較多](../Page/Production★A組.md "wikilink")。
+九Production解散後，所有的聲優各自轉移至其它中、大型聲優經紀公司繼續從事聲優事業，當中又以[惟Production或](https://zh.wikipedia.org/wiki/惟Production "wikilink")[Production★A組](../Page/Production★A組.md "wikilink")較多。
 
 ## 過往所屬演員、聲優
 
@@ -207,13 +207,9 @@
 
 ## 參考來源
 
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:日本已結業聲優事務所](https://zh.wikipedia.org/wiki/Category:日本已結業聲優事務所 "wikilink")
-[Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink")
-[Category:2004年結業公司](https://zh.wikipedia.org/wiki/Category:2004年結業公司 "wikilink")
+[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:日本已結業聲優事務所](https://zh.wikipedia.org/wiki/Category:日本已結業聲優事務所 "wikilink") [Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink") [Category:2004年結業公司](https://zh.wikipedia.org/wiki/Category:2004年結業公司 "wikilink")
 
-1.  掛尾良夫編「所屬Production索引」《聲優事典 第二版》，，1996年3月30日，第680頁 ISBN
-    4-87376-160-3。
+1.  掛尾良夫編「所屬Production索引」《聲優事典 第二版》，，1996年3月30日，第680頁 ISBN 4-87376-160-3。
 2.
 3.
 4.

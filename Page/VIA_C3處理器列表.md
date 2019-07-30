@@ -1,5 +1,4 @@
-**[C3](../Page/VIA_C3.md "wikilink")**系列處理器為
-[VIA第五代處理器](https://zh.wikipedia.org/wiki/VIA "wikilink")，主要面向桌上與移動板平台市場
+**[C3](../Page/VIA_C3.md "wikilink")**系列處理器為 [VIA第五代處理器](https://zh.wikipedia.org/wiki/VIA "wikilink")，主要面向桌上與移動板平台市場
 
 ## 桌上型核心
 
@@ -7,10 +6,7 @@
 
 #### "Samuel 2" (150 nm)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [3DNow\!](../Page/3DNow!.md "wikilink"),
-    [LongHaul](https://zh.wikipedia.org/wiki/LongHaul "wikilink")*
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [3DNow\!](../Page/3DNow!.md "wikilink"), [LongHaul](https://zh.wikipedia.org/wiki/LongHaul "wikilink")*
   - FPU運行時脈為核心時脈的一半
 
 | 型號     | 時脈     | [L2快取](https://zh.wikipedia.org/wiki/L2快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | [倍頻](https://zh.wikipedia.org/wiki/倍頻 "wikilink") | 核心電壓 | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | 腳位                                             | 發表時間           | 產品編號 |
@@ -23,10 +19,7 @@
 
 #### "Ezra"/"Ezra-T" (130 nm)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [3DNow\!](../Page/3DNow!.md "wikilink"),
-    [LongHaul](https://zh.wikipedia.org/wiki/LongHaul "wikilink")*
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [3DNow\!](../Page/3DNow!.md "wikilink"), [LongHaul](https://zh.wikipedia.org/wiki/LongHaul "wikilink")*
   - FPU運行時脈為核心時脈的一半
 
 | 型號      | 時脈      | [L2快取](https://zh.wikipedia.org/wiki/L2快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | [倍頻](https://zh.wikipedia.org/wiki/倍頻 "wikilink") | 核心電壓  | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | 腳位                                             | 發表時間               | 產品編號 |
@@ -43,11 +36,7 @@
 
 #### ["Nehemiah"](https://zh.wikipedia.org/wiki/VIA_C3#Nehemiah "wikilink") (130 nm)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    VIA PadLock (AES, RNG),
-    [LongHaul](https://zh.wikipedia.org/wiki/LongHaul "wikilink")*
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), VIA PadLock (AES, RNG), [LongHaul](https://zh.wikipedia.org/wiki/LongHaul "wikilink")*
 
 | 型號      | 時脈       | [L2快取](https://zh.wikipedia.org/wiki/L2快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | [倍頻](https://zh.wikipedia.org/wiki/倍頻 "wikilink") | 核心電壓   | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | 腳位                                             | 發表時間             | 產品編號 |
 | ------- | -------- | ----------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------- | ------ | -------------------------------------------------------------------- | ---------------------------------------------- | ---------------- | ---- |
@@ -71,10 +60,7 @@
 
 #### "Ezra"/"Ezra-T" (130 nm)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [3DNow\!](../Page/3DNow!.md "wikilink"),
-    [LongHaul](https://zh.wikipedia.org/wiki/LongHaul "wikilink")*
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [3DNow\!](../Page/3DNow!.md "wikilink"), [LongHaul](https://zh.wikipedia.org/wiki/LongHaul "wikilink")*
   - FPU運行時脈為核心時脈的一半
 
 | 型號       | 時脈      | [L2快取](https://zh.wikipedia.org/wiki/L2快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | [倍頻](https://zh.wikipedia.org/wiki/倍頻 "wikilink") | 核心電壓   | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | 腳位     | 發表時間           | 產品編號 |
@@ -83,12 +69,8 @@
 
 #### ["Nehemiah"](https://zh.wikipedia.org/wiki/VIA_C3#Nehemiah "wikilink") (130 nm)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    VIA PadLock (AES, RNG)*
-  - 支援[VIA
-    PowerSaver](https://zh.wikipedia.org/wiki/PowerSaver "wikilink")
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), VIA PadLock (AES, RNG)*
+  - 支援[VIA PowerSaver](https://zh.wikipedia.org/wiki/PowerSaver "wikilink")
 
 | 型號        | 時脈       | [L2快取](https://zh.wikipedia.org/wiki/L2快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | [倍頻](https://zh.wikipedia.org/wiki/倍頻 "wikilink") | 核心電壓   | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | 腳位   | 發表時間         | 產品編號 |
 | --------- | -------- | ----------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------- | ------ | -------------------------------------------------------------------- | ---- | ------------ | ---- |
@@ -103,14 +85,10 @@
 
 ## 參考條目
 
-  - [VIA C3 product
-    page](http://www.via.com.tw/en/products/processors/c3/)
-  - [VIA C3-M product
-    page](https://web.archive.org/web/20080329185232/http://www.via.com.tw/en/products/processors/c3-m/)
-  - [VIA Processor specification
-    comparison](https://web.archive.org/web/20080329185323/http://www.via.com.tw/en/products/processors/specs.jsp)
-  - [VIA C3 Kernel for
-    FreeBSD](https://web.archive.org/web/20090226201250/http://chaucer.homeunix.net/pages/download.php)
+  - [VIA C3 product page](http://www.via.com.tw/en/products/processors/c3/)
+  - [VIA C3-M product page](https://web.archive.org/web/20080329185232/http://www.via.com.tw/en/products/processors/c3-m/)
+  - [VIA Processor specification comparison](https://web.archive.org/web/20080329185323/http://www.via.com.tw/en/products/processors/specs.jsp)
+  - [VIA C3 Kernel for FreeBSD](https://web.archive.org/web/20090226201250/http://chaucer.homeunix.net/pages/download.php)
 
 ## 另見
 
@@ -119,5 +97,4 @@
   - **[VIA C7處理器列表](../Page/VIA_C7處理器列表.md "wikilink")**
   - **[威盛處理器列表](../Page/威盛處理器列表.md "wikilink")**
 
-[Category:威勝處理器](https://zh.wikipedia.org/wiki/Category:威勝處理器 "wikilink")
-[Category:微處理器列表](https://zh.wikipedia.org/wiki/Category:微處理器列表 "wikilink")
+[Category:威勝處理器](https://zh.wikipedia.org/wiki/Category:威勝處理器 "wikilink") [Category:微處理器列表](https://zh.wikipedia.org/wiki/Category:微處理器列表 "wikilink")

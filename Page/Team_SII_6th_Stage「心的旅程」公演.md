@@ -1,12 +1,8 @@
-**Team SII 6th
-Stage「心的旅程」公演**是[SNH48的剧场公演](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，此套公演同時也是SNH48的首套原創公演，由Team
-SII演繹。\[1\]
+**Team SII 6th Stage「心的旅程」公演**是[SNH48的剧场公演](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，此套公演同時也是SNH48的首套原創公演，由Team SII演繹。\[1\]
 
 ## 概要
 
-《心的旅程》是SNH48历史上首场原创公演。《心的旅程》是SNH48制作团队在2016年为Team
-SII全力打造出的首套原创新公演。在音乐制作上根据Team
-SII的特点加入了更多元化风格的尝试，带来全新的音乐体验。此次公演作为SNH48史上首场原创音乐公演，更是代表SNH48迈向一个新阶段的开始。
+《心的旅程》是SNH48历史上首场原创公演。《心的旅程》是SNH48制作团队在2016年为Team SII全力打造出的首套原创新公演。在音乐制作上根据Team SII的特点加入了更多元化风格的尝试，带来全新的音乐体验。此次公演作为SNH48史上首场原创音乐公演，更是代表SNH48迈向一个新阶段的开始。
 
 不同于AKB48的剧场公演作词由秋元康一人担纲，自这一部公演开始，SNH48所有的曲目由多名作词人共同写作。
 
@@ -144,18 +140,12 @@ SII的特点加入了更多元化风格的尝试，带来全新的音乐体验�
   - [BEJ48 Team B官方网站的介绍](http://www.bej48.com/event/b005/)
   - [GNZ48 Team G官方网站的介绍](http://www.gnz48.com/event/g010/)
 
-[Category:SNH48_Group剧场公演](https://zh.wikipedia.org/wiki/Category:SNH48_Group剧场公演 "wikilink")
-[Category:AKB48集团公演](https://zh.wikipedia.org/wiki/Category:AKB48集团公演 "wikilink")
+[Category:SNH48_Group剧场公演](https://zh.wikipedia.org/wiki/Category:SNH48_Group剧场公演 "wikilink") [Category:AKB48集团公演](https://zh.wikipedia.org/wiki/Category:AKB48集团公演 "wikilink")
 
 1.
-2.  [SNH48《心的旅程》启航
-    开启全新音乐旅程](http://www.snh48.com/html/allnews/zixun/2016/0521/1700.html)
-3.  [SNH48原创公演《心的旅程》今日首演
-    S队成员分享难忘瞬间](http://www.snh48.com/html/allnews/zixun/2016/0520/1696.html)
-4.  [BEJ48
-    TeamB《心的旅程》首演——星梦剧院活力上演](http://www.bej48.com/news/show-257.html)
-5.  [GNZ48 Team
-    G《心的旅程》首演——GNZ48号已起航](http://www.gnz48.com/html/news/info/201610/231.html)
+2.  [SNH48《心的旅程》启航 开启全新音乐旅程](http://www.snh48.com/html/allnews/zixun/2016/0521/1700.html)
+3.  [SNH48原创公演《心的旅程》今日首演 S队成员分享难忘瞬间](http://www.snh48.com/html/allnews/zixun/2016/0520/1696.html)
+4.  [BEJ48 TeamB《心的旅程》首演——星梦剧院活力上演](http://www.bej48.com/news/show-257.html)
+5.  [GNZ48 Team G《心的旅程》首演——GNZ48号已起航](http://www.gnz48.com/html/news/info/201610/231.html)
 6.  [首演福利|来观看1月12日SHY48首演的粉丝们请看这里！](http://www.shy48.com/Home/News/detail/id/50.html)
-7.  [SNH48姐妹团SHY48出道
-    《心的旅程》开启追梦之旅](http://ent.qianlong.com/2017/0113/1311392.shtml)
+7.  [SNH48姐妹团SHY48出道 《心的旅程》开启追梦之旅](http://ent.qianlong.com/2017/0113/1311392.shtml)

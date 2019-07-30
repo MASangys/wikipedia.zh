@@ -1,18 +1,8 @@
-**紅米Note
-2**是[小米科技於](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2015年8月13日所推出的中階[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，為[紅米手機千元旗艦系列中的第二款產品](https://zh.wikipedia.org/wiki/紅米手機 "wikilink")，搭載[Android](../Page/Android.md "wikilink")
-[5.0](https://zh.wikipedia.org/wiki/Android歷史版本 "wikilink")、5.5吋[Full
-HD螢幕](../Page/Full_HD.md "wikilink")、[MediaTek](https://zh.wikipedia.org/wiki/MediaTek "wikilink")
-[Helio](https://zh.wikipedia.org/wiki/Helio_系列 "wikilink")™ X10 64位元處理器
-、2GB記憶體、16GB / 32GB 儲存空間，共有三種版本。
+**紅米Note 2**是[小米科技於](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2015年8月13日所推出的中階[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，為[紅米手機千元旗艦系列中的第二款產品](https://zh.wikipedia.org/wiki/紅米手機 "wikilink")，搭載[Android](../Page/Android.md "wikilink") [5.0](https://zh.wikipedia.org/wiki/Android歷史版本 "wikilink")、5.5吋[Full HD螢幕](../Page/Full_HD.md "wikilink")、[MediaTek](https://zh.wikipedia.org/wiki/MediaTek "wikilink") [Helio](https://zh.wikipedia.org/wiki/Helio_系列 "wikilink")™ X10 64位元處理器 、2GB記憶體、16GB / 32GB 儲存空間，共有三種版本。
 
 ## 历史
 
-2015年8月13日，小米公司发布[红米Note2](https://zh.wikipedia.org/wiki/红米Note2 "wikilink")\[1\]，处理器使用联发科
-[Heilo](https://zh.wikipedia.org/wiki/Heilo "wikilink") X10八核心处理器，搭配2GB
-RAM、5.5英寸 1080P
-IPS屏幕，网络制式分为移动版/双网通版，移动版支持移动4G+GSM双卡双待、双网通版支持移动/联通4G+GSM双卡双待。双网通版配置分为标准版/增强版，标准版CPU频率为2.0GHz、搭配16GB
-ROM，增强版CPU频率为2.2GHz、搭配32GB
-ROM，移动版配置仅有标准版。移动版售价为799元人民幣，双网通版售价为899/999元人民幣。
+2015年8月13日，小米公司发布[红米Note2](https://zh.wikipedia.org/wiki/红米Note2 "wikilink")\[1\]，处理器使用联发科 [Heilo](https://zh.wikipedia.org/wiki/Heilo "wikilink") X10八核心处理器，搭配2GB RAM、5.5英寸 1080P IPS屏幕，网络制式分为移动版/双网通版，移动版支持移动4G+GSM双卡双待、双网通版支持移动/联通4G+GSM双卡双待。双网通版配置分为标准版/增强版，标准版CPU频率为2.0GHz、搭配16GB ROM，增强版CPU频率为2.2GHz、搭配32GB ROM，移动版配置仅有标准版。移动版售价为799元人民幣，双网通版售价为899/999元人民幣。
 
 ## 硬件配置\[2\]
 
@@ -153,13 +143,8 @@ ROM，移动版配置仅有标准版。移动版售价为799元人民幣，双�
 
 ## 参考与引用
 
-[Category:小米手机](https://zh.wikipedia.org/wiki/Category:小米手机 "wikilink")
-[Category:智能手机](https://zh.wikipedia.org/wiki/Category:智能手机 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
+[Category:小米手机](https://zh.wikipedia.org/wiki/Category:小米手机 "wikilink") [Category:智能手机](https://zh.wikipedia.org/wiki/Category:智能手机 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
 
 1.  [小米秋季新品发布会：红米NOTE2发布！](http://www.25pp.com/news/news_76596.html)
 2.  [参数](http://www.mi.com/note2/specs)
-3.  [红米note2发布会屏幕部分讲解，攻击虚假宣传的可以散了](http://toutiao.com/a6187206213034508802/)
-    — 今日头条
+3.  [红米note2发布会屏幕部分讲解，攻击虚假宣传的可以散了](http://toutiao.com/a6187206213034508802/) — 今日头条

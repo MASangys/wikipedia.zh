@@ -1,5 +1,4 @@
-是由日本遊戲品牌自宅すたじお製作並於2017年1月27日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，後來在2018年1月26日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Real
-Eroge Situation\! H×3》。\[2\]
+是由日本遊戲品牌自宅すたじお製作並於2017年1月27日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，後來在2018年1月26日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Real Eroge Situation\! H×3》。\[2\]
 
 ## 故事
 
@@ -12,7 +11,7 @@ Eroge Situation\! H×3》。\[2\]
   - 長門忍（OVA聲優：夏村伊介）
     雙親因工作出差長期時間不在家而獨自居住，一年前開始暗戀環奈後為了她而離開[二次元同好會並且脫離](https://zh.wikipedia.org/wiki/二次元 "wikilink")[御宅族](../Page/御宅族.md "wikilink")。
   - 天咲彩愛（聲優：橘まお）\[3\]
-    忍的同學，原本是位[辣妹後來成為御宅族](../Page/辣妹.md "wikilink")。對還是御宅的忍一見鍾情而加入二次元同好會，但此時忍卻已脫離御宅離開同好會，因此希望忍能成為御宅。
+    忍的同學，原本是位[辣妹](../Page/辣妹.md "wikilink")後來成為御宅族。對還是御宅的忍一見鍾情而加入二次元同好會，但此時忍卻已脫離御宅離開同好會，因此希望忍能成為御宅。
   - 宮之上環奈（聲優：水野七海）
     忍的同學兼朋友，不擅長與御宅族交流，一年前受到忍的幫忙而喜歡上他。
   - 里神ゆり（聲優：綾瀬あかり）
@@ -50,14 +49,11 @@ Eroge Situation\! H×3》。\[2\]
 
 ## OVA
 
-OVA版《Real Eroge Situation\! THE
-ANIMATION》是由[Seven製作的成人動畫](../Page/Animation_StudiO_Seven.md "wikilink")，第一集於2018年1月26日發售\[6\]，第二集為H×3的OVA於2018年8月31日發售\[7\]。
+OVA版《Real Eroge Situation\! THE ANIMATION》是由[Seven製作的成人動畫](../Page/Animation_StudiO_Seven.md "wikilink")，第一集於2018年1月26日發售\[6\]，第二集為H×3的OVA於2018年8月31日發售\[7\]。
 
 ## 評價
 
-《Real Eroge Situation\!》在Getchu.com舉辦的「美少女遊戲大賞2017」中獲得情色部門第3名。\[8\]《Real
-Eroge Situation\!
-H×3》獲得[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")2018的色情系作品獎PINK。\[9\]
+《Real Eroge Situation\!》在Getchu.com舉辦的「美少女遊戲大賞2017」中獲得情色部門第3名。\[8\]《Real Eroge Situation\! H×3》獲得[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")2018的色情系作品獎PINK。\[9\]
 
 ## 參考來源
 
@@ -66,11 +62,7 @@ H×3》獲得[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")2018�
   - [官方網站](http://j-studio.net/reaero/)自宅すたじお
   - [H×3官方網站](http://j-studio.net/reaero_h3/)自宅すたじお
 
-[Category:2017年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2017年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:2018年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2018年日本成人動畫 "wikilink")
+[Category:2017年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2017年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:2018年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2018年日本成人動畫 "wikilink")
 
 1.
 2.

@@ -1,19 +1,10 @@
-該頁面列出并比較由[HTC](https://zh.wikipedia.org/wiki/HTC "wikilink")、[三星](https://zh.wikipedia.org/wiki/三星 "wikilink")、[LG](https://zh.wikipedia.org/wiki/LG "wikilink")、[戴爾](../Page/戴爾.md "wikilink")、[富士通](../Page/富士通.md "wikilink")、[諾基亞](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")、[宏碁](../Page/宏碁.md "wikilink")、[阿爾卡特和](https://zh.wikipedia.org/wiki/阿爾卡特 "wikilink")[中興推出的微軟](../Page/中興.md "wikilink")[Windows
-Phone
-7作業系統的裝置](https://zh.wikipedia.org/wiki/Windows_Phone_7 "wikilink")。
-在其整個生命週期中，Windows Phone 7在28個獨一無二的裝置上運行着。該列表包含已確認並製造商正式推出的裝置。所有Windows
-Phone 7设备均无法升级至Windows Phone 8。
+該頁面列出并比較由[HTC](https://zh.wikipedia.org/wiki/HTC "wikilink")、[三星](https://zh.wikipedia.org/wiki/三星 "wikilink")、[LG](https://zh.wikipedia.org/wiki/LG "wikilink")、[戴爾](../Page/戴爾.md "wikilink")、[富士通](../Page/富士通.md "wikilink")、[諾基亞](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")、[宏碁](../Page/宏碁.md "wikilink")、[阿爾卡特和](https://zh.wikipedia.org/wiki/阿爾卡特 "wikilink")[中興](../Page/中興.md "wikilink")推出的微軟[Windows Phone 7作業系統的裝置](https://zh.wikipedia.org/wiki/Windows_Phone_7 "wikilink")。 在其整個生命週期中，Windows Phone 7在28個獨一無二的裝置上運行着。該列表包含已確認並製造商正式推出的裝置。所有Windows Phone 7设备均无法升级至Windows Phone 8。
 
 ## 已推出
 
 ### Windows Phone 7.0
 
-第一代 預裝Windows Phone 7的裝置可升級至Windows Phone 7.5和7.8作業系統。該列表所有設備均配備1 GHz
-[Scorpion單核處理器](../Page/Scorpion_\(CPU\).md "wikilink")，512 MB內存，480×800
-WVGA分辨率的屏幕，5百萬像素的後置攝像頭和內置數字羅盤。非LG裝置所配備的芯片組是的Snapdragon
-QSD8250，LG裝置配備Snapdragon QSD8650。有兩個例外，[戴爾Venue
-Pro不配備指南針](https://zh.wikipedia.org/wiki/戴爾Venue_Pro "wikilink")，HTC
-7 Mozart配備一個800萬像素後置攝像頭，而不是500萬像素。
+第一代 預裝Windows Phone 7的裝置可升級至Windows Phone 7.5和7.8作業系統。該列表所有設備均配備1 GHz [Scorpion單核處理器](../Page/Scorpion_\(CPU\).md "wikilink")，512 MB內存，480×800 WVGA分辨率的屏幕，5百萬像素的後置攝像頭和內置數字羅盤。非LG裝置所配備的芯片組是的Snapdragon QSD8250，LG裝置配備Snapdragon QSD8650。有兩個例外，[戴爾Venue Pro不配備指南針](https://zh.wikipedia.org/wiki/戴爾Venue_Pro "wikilink")，HTC 7 Mozart配備一個800萬像素後置攝像頭，而不是500萬像素。
 
 <table>
 <thead>
@@ -108,11 +99,7 @@ Pro不配備指南針](https://zh.wikipedia.org/wiki/戴爾Venue_Pro "wikilink")
 
 ### Windows Phone 7.5
 
-第二代 預裝[Windows Phone
-7.5](https://zh.wikipedia.org/wiki/Windows_Phone_7.5 "wikilink") “Mango”
-版的Windows Phone作業系統或更高。該列表中的所有裝置均配備單核處理器，480×800 WVGA分辨率的屏幕，并（除[HTC
-Radar](https://zh.wikipedia.org/wiki/HTC_Radar "wikilink")）內置數字[指南針](https://zh.wikipedia.org/wiki/指南針 "wikilink")。由於需求變化，一些第二代裝置配備速度較低的處理器或少於512
-MB的RAM。
+第二代 預裝[Windows Phone 7.5](https://zh.wikipedia.org/wiki/Windows_Phone_7.5 "wikilink") “Mango” 版的Windows Phone作業系統或更高。該列表中的所有裝置均配備單核處理器，480×800 WVGA分辨率的屏幕，并（除[HTC Radar](https://zh.wikipedia.org/wiki/HTC_Radar "wikilink")）內置數字[指南針](https://zh.wikipedia.org/wiki/指南針 "wikilink")。由於需求變化，一些第二代裝置配備速度較低的處理器或少於512 MB的RAM。
 
 <table>
 <thead>
@@ -324,9 +311,7 @@ MB的RAM。
 
 ### Windows Phone 7.8
 
-第三代 微軟發佈Windows Phone 7.8更新，作为Windows Phone 7.5无法升级[Windows Phone
-8的补偿](../Page/Windows_Phone_8.md "wikilink")。僅一臺Windows Phone
-7.8裝置被推出。
+第三代 微軟發佈Windows Phone 7.8更新，作为Windows Phone 7.5无法升级[Windows Phone 8的补偿](../Page/Windows_Phone_8.md "wikilink")。僅一臺Windows Phone 7.8裝置被推出。
 
 <table>
 <thead>
@@ -381,9 +366,7 @@ MB的RAM。
 
   - [Windows 7行動裝置應用程序列表](https://web.archive.org/web/20141016235427/http://www.thewindowsapps.com/)
 
-[Category:Windows_Phone設備](https://zh.wikipedia.org/wiki/Category:Windows_Phone設備 "wikilink")
-[Category:科技相關列表](https://zh.wikipedia.org/wiki/Category:科技相關列表 "wikilink")
-[Category:行動電話列表](https://zh.wikipedia.org/wiki/Category:行動電話列表 "wikilink")
+[Category:Windows_Phone設備](https://zh.wikipedia.org/wiki/Category:Windows_Phone設備 "wikilink") [Category:科技相關列表](https://zh.wikipedia.org/wiki/Category:科技相關列表 "wikilink") [Category:行動電話列表](https://zh.wikipedia.org/wiki/Category:行動電話列表 "wikilink")
 
 1.
 2.

@@ -5,11 +5,7 @@
   -
     \(\mathrm{octaves} = \log_2\left(\frac{f_2}{f_1}\right)\)
 
-放大器及濾波器的規格可能包括在一定頻率範圍內，頻率響應±6dB，表示當頻率變化2倍時，功率增益變化±6
-[dB](https://zh.wikipedia.org/wiki/分貝 "wikilink")（相當於功率變為4倍）。其斜率±6dB per
-octave（更精準的說法是 \(10\log_{10}(4) \approx 6.0206\) decibels per
-octave）表示其增益會隨頻率而變化，其比例等於±20dB per
-[decade](../Page/Decade_\(對數尺度\).md "wikilink")（頻率變化10倍，振幅增益變化10倍），這是一階[濾波器的特徵](https://zh.wikipedia.org/wiki/電子濾波器 "wikilink")。
+放大器及濾波器的規格可能包括在一定頻率範圍內，頻率響應±6dB，表示當頻率變化2倍時，功率增益變化±6 [dB](https://zh.wikipedia.org/wiki/分貝 "wikilink")。其斜率±6dB per octave（更精準的說法是 \(10\log_{10}(4) \approx 6.0206\) decibels per octave）表示其增益會隨頻率而變化，其比例等於±20dB per [decade](../Page/Decade_\(對數尺度\).md "wikilink")（頻率變化10倍，振幅增益變化10倍），這是一階[濾波器的特徵](https://zh.wikipedia.org/wiki/電子濾波器 "wikilink")。
 
 ## 例子
 
@@ -28,10 +24,7 @@ octave）表示其增益會隨頻率而變化，其比例等於±20dB per
 
 ## 參考資料
 
-[Category:声学](https://zh.wikipedia.org/wiki/Category:声学 "wikilink")
-[Category:音频电子学](https://zh.wikipedia.org/wiki/Category:音频电子学 "wikilink")
+[Category:声学](https://zh.wikipedia.org/wiki/Category:声学 "wikilink") [Category:音频电子学](https://zh.wikipedia.org/wiki/Category:音频电子学 "wikilink")
 
-1.  Levine, William S. (2010). *The Control Handbook: Control System
-    Fundamentals*, p.9-29. ISBN 9781420073621/ISBN 9781420073669.
-2.  Perdikaris, G. (1991). *Computer Controlled Systems: Theory and
-    Applications*, p.117. ISBN 9780792314226.
+1.  Levine, William S. (2010). *The Control Handbook: Control System Fundamentals*, p.9-29. ISBN 9781420073621/ISBN 9781420073669.
+2.  Perdikaris, G. (1991). *Computer Controlled Systems: Theory and Applications*, p.117. ISBN 9780792314226.

@@ -142,22 +142,21 @@
 `   if source ~= '' then`
 `       ss = ss .. '|-\n!colspan=2|資料來源||' .. source  .. '\n'`
 `   end`
-`   ss = ss .. '|-\n!align=center colspan=3|`<sup>`N`</sup>`：代表`[`值域介於`](../Page/值域.md "wikilink")`0～255之間\n'`
+`   ss = ss .. '|-\n!align=center colspan=3|`<sup>`N`</sup>`：代表`[`值域`](../Page/值域.md "wikilink")介於`0～255之間\n'`
 `   ss = ss .. '|-\n|align=center colspan=3|`
 
 <div class="notice metadata NavFrame collapsed" id="spoiler" style="border: 0px;">
 
 <div class="NavHead" style="border: 0px; background: #E4E4E4">
 
-[Nuvola_apps_kcoloredit.svg](https://zh.wikipedia.org/wiki/File:Nuvola_apps_kcoloredit.svg "fig:Nuvola_apps_kcoloredit.svg")
-\\'\\'\\'注意事項\\'\\'\\'
+[Nuvola_apps_kcoloredit.svg](https://zh.wikipedia.org/wiki/File:Nuvola_apps_kcoloredit.svg "fig:Nuvola_apps_kcoloredit.svg") \\'\\'\\'注意事項\\'\\'\\'
 
 </div>
 
 <div class="NavContent">
 
 1.  本條目的顏色值可能只是參考，並非共通標準。
-2.  本條目包含了使用[顏色標示的內容](https://zh.wikipedia.org/wiki/顏色 "wikilink")，可能會因為不同的閱讀環境而產生差異。參見[網頁親和力](../Page/網頁親和力.md "wikilink")。[色盲人士或黑白](../Page/色盲.md "wikilink")[螢幕使用者需要非色盲人士或使用彩色螢幕來幫助](https://zh.wikipedia.org/wiki/螢幕 "wikilink")，或是使用無障礙軟體幫助。
+2.  本條目包含了使用[顏色標示的內容](https://zh.wikipedia.org/wiki/顏色 "wikilink")，可能會因為不同的閱讀環境而產生差異。參見[網頁親和力](../Page/網頁親和力.md "wikilink")。[色盲](../Page/色盲.md "wikilink")人士或黑白[螢幕使用者需要非色盲人士或使用彩色螢幕來幫助](https://zh.wikipedia.org/wiki/螢幕 "wikilink")，或是使用無障礙軟體幫助。
 
 </div>
 

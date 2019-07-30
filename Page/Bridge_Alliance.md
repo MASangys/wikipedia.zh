@@ -1,5 +1,4 @@
-**Bridge Alliance** （原**Bridge Mobile
-Alliance**）是一個國際商業聯盟，[亞太地區最大行動通訊聯盟](https://zh.wikipedia.org/wiki/亞太地區 "wikilink")，由36個各大電信營運商公司在[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[非洲和](../Page/非洲.md "wikilink")[中東地區建立聯盟在國際間無縫連接的](https://zh.wikipedia.org/wiki/中東 "wikilink")[漫遊服務和提供方便且合理優惠的](../Page/漫遊.md "wikilink")[語音](../Page/語音.md "wikilink")[數據漫遊服務](https://zh.wikipedia.org/wiki/數據 "wikilink")，使所有聯盟成員的用戶，都能漫遊對方的網絡；並促進會員間產品和商業策略的合作平台。同時與在歐洲[FreeMove聯盟有合作關係](https://zh.wikipedia.org/wiki/FreeMove "wikilink")。\[1\]
+**Bridge Alliance** （原**Bridge Mobile Alliance**）是一個國際商業聯盟，[亞太地區最大行動通訊聯盟](https://zh.wikipedia.org/wiki/亞太地區 "wikilink")，由36個各大電信營運商公司在[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[非洲](../Page/非洲.md "wikilink")和[中東地區建立聯盟在國際間無縫連接的](https://zh.wikipedia.org/wiki/中東 "wikilink")[漫遊](../Page/漫遊.md "wikilink")服務和提供方便且合理優惠的[語音](../Page/語音.md "wikilink")[數據漫遊服務](https://zh.wikipedia.org/wiki/數據 "wikilink")，使所有聯盟成員的用戶，都能漫遊對方的網絡；並促進會員間產品和商業策略的合作平台。同時與在歐洲[FreeMove聯盟有合作關係](https://zh.wikipedia.org/wiki/FreeMove "wikilink")。\[1\]
 
 ## Bridge Alliance 會員
 
@@ -52,7 +51,4 @@ Alliance**）是一個國際商業聯盟，[亞太地區最大行動通訊聯盟
 
 [Category:移动电话运营联盟](https://zh.wikipedia.org/wiki/Category:移动电话运营联盟 "wikilink")
 
-1.  [FreeMove and Bridge Mobile Alliance to establish
-    alliance-to-alliance
-    cooperation](http://www.bridgealliance.com/news/news_270307.html) ,
-    Bridge Mobile Press Release, March 27, 2007
+1.  [FreeMove and Bridge Mobile Alliance to establish alliance-to-alliance cooperation](http://www.bridgealliance.com/news/news_270307.html) , Bridge Mobile Press Release, March 27, 2007

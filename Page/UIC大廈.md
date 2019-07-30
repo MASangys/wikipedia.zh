@@ -1,12 +1,10 @@
-**UIC大廈**（）是一棟位於[新加坡](../Page/新加坡.md "wikilink")[珊頓道的](https://zh.wikipedia.org/wiki/珊頓道 "wikilink")[摩天大樓](../Page/摩天大樓.md "wikilink")，其全名為**聯合工業有限公司大廈**（）。大廈於1973年完工，共40層樓，建築高度與[文華大酒店二座](https://zh.wikipedia.org/wiki/文華大酒店 "wikilink")\[1\]、[雪佛龍大廈](../Page/雪佛龍大廈.md "wikilink")\[2\]同為。在1973年完工時與文華大酒店二座同為[新加坡最高的建築物](../Page/新加坡摩天大樓列表.md "wikilink")\[3\]
-，然而僅過一年就被建築高度為的[大華銀行大廈二座超越](../Page/大華銀行大廈.md "wikilink")。\[4\]
+**UIC大廈**（）是一棟位於[新加坡](../Page/新加坡.md "wikilink")[珊頓道的](https://zh.wikipedia.org/wiki/珊頓道 "wikilink")[摩天大樓](../Page/摩天大樓.md "wikilink")，其全名為**聯合工業有限公司大廈**（）。大廈於1973年完工，共40層樓，建築高度與[文華大酒店二座](https://zh.wikipedia.org/wiki/文華大酒店 "wikilink")\[1\]、[雪佛龍大廈](../Page/雪佛龍大廈.md "wikilink")\[2\]同為。在1973年完工時與文華大酒店二座同為[新加坡最高的建築物](../Page/新加坡摩天大樓列表.md "wikilink")\[3\] ，然而僅過一年就被建築高度為的[大華銀行大廈](../Page/大華銀行大廈.md "wikilink")二座超越。\[4\]
 
 ## 歷史
 
 UIC大廈於1973年完工，建築風格以[粗野主義為主](https://zh.wikipedia.org/wiki/粗野主義 "wikilink")。該建築於1986年重新裝修，在新的混凝土外牆[立面上顯示粗野主義建築風格](https://zh.wikipedia.org/wiki/立面 "wikilink")。\[5\]
 
-2007年，聯合工業有限公司將原非其擁有的21.2%UIC大廈股權全數收購，準備將其拆除，並在原地重建新大廈。\[6\]新大廈名稱將定為珊頓道五號（V
-on Shenton），建築類型以住商混合為主，舊大樓則於2013年拆除完畢。\[7\]
+2007年，聯合工業有限公司將原非其擁有的21.2%UIC大廈股權全數收購，準備將其拆除，並在原地重建新大廈。\[6\]新大廈名稱將定為珊頓道五號（V on Shenton），建築類型以住商混合為主，舊大樓則於2013年拆除完畢。\[7\]
 
 ## 新建築
 
@@ -20,10 +18,7 @@ on Shenton），建築類型以住商混合為主，舊大樓則於2013年拆除
 
 ## 參考來源
 
-[Category:1973年完工建築物](https://zh.wikipedia.org/wiki/Category:1973年完工建築物 "wikilink")
-[Category:150米至199米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大樓 "wikilink")
-[Category:新加坡摩天大樓](https://zh.wikipedia.org/wiki/Category:新加坡摩天大樓 "wikilink")
-[Category:2013年廢除](https://zh.wikipedia.org/wiki/Category:2013年廢除 "wikilink")
+[Category:1973年完工建築物](https://zh.wikipedia.org/wiki/Category:1973年完工建築物 "wikilink") [Category:150米至199米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大樓 "wikilink") [Category:新加坡摩天大樓](https://zh.wikipedia.org/wiki/Category:新加坡摩天大樓 "wikilink") [Category:2013年廢除](https://zh.wikipedia.org/wiki/Category:2013年廢除 "wikilink")
 
 1.
 

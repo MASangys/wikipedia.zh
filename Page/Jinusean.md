@@ -1,7 +1,4 @@
-**Jinusean**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG
-Entertainment推出的嘻哈團體](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")，成員包括Jinu、sean。
-用當時非主流的嘻哈音樂打動當時韓國粉絲的心而造成轟動，應援顏色為紅色，現在為[YG
-Entertainment理事](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")。
+**Jinusean**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG Entertainment推出的嘻哈團體](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")，成員包括Jinu、sean。 用當時非主流的嘻哈音樂打動當時韓國粉絲的心而造成轟動，應援顏色為紅色，現在為[YG Entertainment理事](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")。
 
 ## 成員資料
 
@@ -155,7 +152,4 @@ Entertainment理事](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")�
 
   -
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:1998年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1998年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:1998年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1998年成立的音樂團體 "wikilink")

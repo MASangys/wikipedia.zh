@@ -1,4 +1,4 @@
-**霹靂TBG足球會**（）是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[霹靂州的足球會](../Page/霹靂州.md "wikilink")，於1951年成立，現時參與[馬來西亞超級足球聯賽](../Page/馬來西亞超級足球聯賽.md "wikilink")。
+**霹靂TBG足球會**（）是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[霹靂州](../Page/霹靂州.md "wikilink")的足球會，於1951年成立，現時參與[馬來西亞超級足球聯賽](../Page/馬來西亞超級足球聯賽.md "wikilink")。
 
 ## 簡歷
 
@@ -8,7 +8,6 @@
 
 ## 球隊主場
 
-球隊主場設立在[霹靂](https://zh.wikipedia.org/wiki/霹靂 "wikilink")[怡保的](../Page/怡保.md "wikilink")[霹靂體育館](https://zh.wikipedia.org/wiki/霹靂體育館 "wikilink")，能容納4萬2千人。
+球隊主場設立在[霹靂](https://zh.wikipedia.org/wiki/霹靂 "wikilink")[怡保](../Page/怡保.md "wikilink")的[霹靂體育館](https://zh.wikipedia.org/wiki/霹靂體育館 "wikilink")，能容納4萬2千人。
 
-[Category:马来西亚足球俱乐部](https://zh.wikipedia.org/wiki/Category:马来西亚足球俱乐部 "wikilink")
-[Category:霹靂](https://zh.wikipedia.org/wiki/Category:霹靂 "wikilink")
+[Category:马来西亚足球俱乐部](https://zh.wikipedia.org/wiki/Category:马来西亚足球俱乐部 "wikilink") [Category:霹靂](https://zh.wikipedia.org/wiki/Category:霹靂 "wikilink")

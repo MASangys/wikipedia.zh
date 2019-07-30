@@ -1,16 +1,14 @@
-是一款由[NCsoft開發的](../Page/NCsoft.md "wikilink")[角色扮演遊戲](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")，改編自1998年推出的[大型多人線上角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人線上角色扮演遊戲 "wikilink")《[天堂](../Page/天堂_\(遊戲\).md "wikilink")》。該遊戲在[南韓由NCsoft定於](https://zh.wikipedia.org/wiki/南韓 "wikilink")2017年12月11日在[Android和](../Page/Android.md "wikilink")[iOS平台上發行](https://zh.wikipedia.org/wiki/iOS "wikilink")，而臺灣則由[遊戲橘子所代理](../Page/遊戲橘子.md "wikilink")\[1\]。自遊戲發行以來，在韓國和臺灣皆獲得了廣大的迴響；其中，還使臺灣代理商遊戲橘子的營收轉虧為盈，但其營運和機制則引起了爭議。
+是一款由[NCsoft](../Page/NCsoft.md "wikilink")開發的[角色扮演遊戲](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")，改編自1998年推出的[大型多人線上角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人線上角色扮演遊戲 "wikilink")《[天堂](../Page/天堂_\(遊戲\).md "wikilink")》。該遊戲在[南韓由NCsoft定於](https://zh.wikipedia.org/wiki/南韓 "wikilink")2017年12月11日在[Android](../Page/Android.md "wikilink")和[iOS平台上發行](https://zh.wikipedia.org/wiki/iOS "wikilink")，而臺灣則由[遊戲橘子](../Page/遊戲橘子.md "wikilink")所代理\[1\]。自遊戲發行以來，在韓國和臺灣皆獲得了廣大的迴響；其中，還使臺灣代理商遊戲橘子的營收轉虧為盈，但其營運和機制則引起了爭議。
 
 ## 發行
 
-《天堂M》於2017年5月起在南韓開放事前登錄，其登錄人數超過400萬人次\[2\]。在臺灣，該中文版遊戲由[遊戲橘子代理](../Page/遊戲橘子.md "wikilink")，並於2017年10月10日開放預先登錄，且在首日的會員人數達54萬人次\[3\]。為了紓解於12月11日的龐大下載流量，遊戲橘子提前於12月8日開放[Android版本先行下載](../Page/Android.md "wikilink")，好讓玩家事先載好遊戲後等待伺服器的開放\[4\]。
+《天堂M》於2017年5月起在南韓開放事前登錄，其登錄人數超過400萬人次\[2\]。在臺灣，該中文版遊戲由[遊戲橘子](../Page/遊戲橘子.md "wikilink")代理，並於2017年10月10日開放預先登錄，且在首日的會員人數達54萬人次\[3\]。為了紓解於12月11日的龐大下載流量，遊戲橘子提前於12月8日開放[Android](../Page/Android.md "wikilink")版本先行下載，好讓玩家事先載好遊戲後等待伺服器的開放\[4\]。
 
 2018年1月18日，據報導，《天堂M》在臺灣發行一個月後，其會員數已超過300萬人，這使遊戲橘子花在該遊戲的行銷預算已經回本\[5\]\[6\]。遊戲橘子也憑《天堂M》使公司的股價大漲、轉虧為盈\[7\]\[8\]。2018年5月9日，遊戲橘子宣布集團合併營收為15.5億元，這歸功於《天堂M》的人氣迴響而較去年同期大幅成長172%\[9\]\[10\]。
 
 ## 爭議
 
-《天堂M》在臺灣於2017年12月11日正式開放伺服器後，儘管有著116萬名會員的登入，有許多玩家批評遊戲橘子擅改寶物掉落率、升級經驗值、每日福利等機制，甚至有玩家付了44萬元新臺幣仍抽不到神級虛擬寶物\[11\]\[12\]；此外，由於該遊戲的高人氣，使得斷線狀況時常發生\[13\]。當許多玩家無法登入遊戲和擅自更改原版遊戲數值的爭議爆發後，《天堂M》在[Google
-Play和](../Page/Google_Play.md "wikilink")[App
-Store平台上被許多不滿的玩家將評價洗至一星](https://zh.wikipedia.org/wiki/App_Store "wikilink")；對此遊戲橘子在不久後宣布，已將該遊戲的機制數值改回韓國原版，但這仍難以平息眾怒\[14\]\[15\]。
+《天堂M》在臺灣於2017年12月11日正式開放伺服器後，儘管有著116萬名會員的登入，有許多玩家批評遊戲橘子擅改寶物掉落率、升級經驗值、每日福利等機制，甚至有玩家付了44萬元新臺幣仍抽不到神級虛擬寶物\[11\]\[12\]；此外，由於該遊戲的高人氣，使得斷線狀況時常發生\[13\]。當許多玩家無法登入遊戲和擅自更改原版遊戲數值的爭議爆發後，《天堂M》在[Google Play和](../Page/Google_Play.md "wikilink")[App Store平台上被許多不滿的玩家將評價洗至一星](https://zh.wikipedia.org/wiki/App_Store "wikilink")；對此遊戲橘子在不久後宣布，已將該遊戲的機制數值改回韓國原版，但這仍難以平息眾怒\[14\]\[15\]。
 
 2017年12月15日，在遊戲內，課長代表著花費台幣甚多的玩家，而遊戲內部出現稀有寶物時會有全伺服器公告。每次爭議過後，便出現稀有寶物於公告內的情況，許多玩家認為是遊戲公司工讀生為求吸引玩家充值而為\[16\]。
 
@@ -20,8 +18,7 @@ Store平台上被許多不滿的玩家將評價洗至一星](https://zh.wikipedi
 
 ### 序章：Black Flame（黑燄）
 
-NCSoft 於《天堂M》一週年大會中揭露遊戲將不再完全依循 PC 版的影子與設定，於 2018年5月30日正式推出序章《EP.1 Black
-Flame》（黑燄）並且推出全新職業「神槍手」，透過不同的移動與攻擊邏輯顛覆玩家對《天堂》遊戲的既有印象，而序章只是作為《天堂M》改變的開始。
+NCSoft 於《天堂M》一週年大會中揭露遊戲將不再完全依循 PC 版的影子與設定，於 2018年5月30日正式推出序章《EP.1 Black Flame》（黑燄）並且推出全新職業「神槍手」，透過不同的移動與攻擊邏輯顛覆玩家對《天堂》遊戲的既有印象，而序章只是作為《天堂M》改變的開始。
 
 因應各方面考量，在宣布推出序章的同時亦宣布將重新設計遊戲畫面以高解析度呈現\[18\]。
 
@@ -34,10 +31,7 @@ Flame》（黑燄）並且推出全新職業「神槍手」，透過不同的移
   - （韓國）
 
   -
-[Category:2017年电子游戏](https://zh.wikipedia.org/wiki/Category:2017年电子游戏 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink")
-[Category:角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:角色扮演遊戲 "wikilink")
+[Category:2017年电子游戏](https://zh.wikipedia.org/wiki/Category:2017年电子游戏 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink") [Category:角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:角色扮演遊戲 "wikilink")
 
 1.
 

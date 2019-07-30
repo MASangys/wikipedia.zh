@@ -2,9 +2,9 @@
 
 ## 經歷
 
-在九歲時期李柏·M便開始於家鄉的一些樂團裡擔任演唱，之後十二歲時[EMI旗下在南非的公司曾替他錄製一張單曲](../Page/EMI.md "wikilink")。後續李柏·M因不滿南非音樂界有著種族歧視問題，而轉向前往鄰國[賴索托在一些旅店或吧台裡駐唱](https://zh.wikipedia.org/wiki/賴索托 "wikilink")。\[1\]
+在九歲時期李柏·M便開始於家鄉的一些樂團裡擔任演唱，之後十二歲時[EMI](../Page/EMI.md "wikilink")旗下在南非的公司曾替他錄製一張單曲。後續李柏·M因不滿南非音樂界有著種族歧視問題，而轉向前往鄰國[賴索托在一些旅店或吧台裡駐唱](https://zh.wikipedia.org/wiki/賴索托 "wikilink")。\[1\]
 
-十五歲時一名美國當地大使注意到李柏·M的個人演唱能力後，推薦他前往位於美國[華盛頓一帶的高中演出](https://zh.wikipedia.org/wiki/華盛頓哥倫比亞特區 "wikilink")，該演出機會之後讓李柏·M興起在美國發展的想法，但之後李柏·M在美國的經歷並不順利。直到1988年[第60屆奧斯卡金像獎會場上](https://zh.wikipedia.org/wiki/第60屆奧斯卡金像獎 "wikilink")；李柏·M擔任會場中一段演唱的合唱團一員，而李柏·M當時的表現則讓他自己開始獲得關注。\[2\]隨後李柏·M有被介紹與[漢斯·季默合作](../Page/漢斯·季默.md "wikilink")，替1992年電影《[小子要自強](https://zh.wikipedia.org/wiki/小子要自強 "wikilink")》處理配樂事務。\[3\]而1994年漢斯·季默指名讓李柏·M擔任替[迪士尼動畫](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")《[獅子王](https://zh.wikipedia.org/wiki/獅子王 "wikilink")》開頭曲《[生生不息](../Page/生生不息.md "wikilink")》演唱，該曲目隨後也讓李柏·M拿下1995年[葛萊美獎的最佳器樂編曲伴唱獎項](../Page/葛萊美獎.md "wikilink")。\[4\]而李柏·M往後也有多次為《獅子王》所衍生的動畫續集、音樂劇或是其它迪士尼出品動畫處理作品配樂歌曲事項。
+十五歲時一名美國當地大使注意到李柏·M的個人演唱能力後，推薦他前往位於美國[華盛頓一帶的高中演出](https://zh.wikipedia.org/wiki/華盛頓哥倫比亞特區 "wikilink")，該演出機會之後讓李柏·M興起在美國發展的想法，但之後李柏·M在美國的經歷並不順利。直到1988年[第60屆奧斯卡金像獎會場上](https://zh.wikipedia.org/wiki/第60屆奧斯卡金像獎 "wikilink")；李柏·M擔任會場中一段演唱的合唱團一員，而李柏·M當時的表現則讓他自己開始獲得關注。\[2\]隨後李柏·M有被介紹與[漢斯·季默](../Page/漢斯·季默.md "wikilink")合作，替1992年電影《[小子要自強](https://zh.wikipedia.org/wiki/小子要自強 "wikilink")》處理配樂事務。\[3\]而1994年漢斯·季默指名讓李柏·M擔任替[迪士尼動畫](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")《[獅子王](https://zh.wikipedia.org/wiki/獅子王 "wikilink")》開頭曲《[生生不息](../Page/生生不息.md "wikilink")》演唱，該曲目隨後也讓李柏·M拿下1995年[葛萊美獎](../Page/葛萊美獎.md "wikilink")的最佳器樂編曲伴唱獎項。\[4\]而李柏·M往後也有多次為《獅子王》所衍生的動畫續集、音樂劇或是其它迪士尼出品動畫處理作品配樂歌曲事項。
 
 ## 參與作品音樂
 
@@ -24,8 +24,7 @@
   - [獅子王](https://zh.wikipedia.org/wiki/獅子王 "wikilink")（1994年）
   - [獅子王2：辛巴的榮耀](https://zh.wikipedia.org/wiki/獅子王2：辛巴的榮耀 "wikilink")（1998年）
   - [恐龍](../Page/恐龍_\(電影\).md "wikilink")（2000年）
-  - [獅子王3：Hakuna
-    Matata](https://zh.wikipedia.org/wiki/獅子王3：Hakuna_Matata "wikilink")（2004年）
+  - [獅子王3：Hakuna Matata](https://zh.wikipedia.org/wiki/獅子王3：Hakuna_Matata "wikilink")（2004年）
   - One by One（2004年）
   - [泰山2](../Page/泰山2.md "wikilink")（2005年）
 
@@ -52,8 +51,7 @@
   -
 ## 參考資料
 
-[Category:葛萊美獎獲得者](https://zh.wikipedia.org/wiki/Category:葛萊美獎獲得者 "wikilink")
-[Category:南非歌手](https://zh.wikipedia.org/wiki/Category:南非歌手 "wikilink")
+[Category:葛萊美獎獲得者](https://zh.wikipedia.org/wiki/Category:葛萊美獎獲得者 "wikilink") [Category:南非歌手](https://zh.wikipedia.org/wiki/Category:南非歌手 "wikilink")
 
 1.
 

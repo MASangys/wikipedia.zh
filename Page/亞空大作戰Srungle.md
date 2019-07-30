@@ -1,4 +1,4 @@
-『**亞空大作戰**』（原題：）是[日本](../Page/日本.md "wikilink")[國際映畫社制作的](https://zh.wikipedia.org/wiki/國際映畫社 "wikilink")[機器人動畫](../Page/機器人動畫.md "wikilink")。由[朝日電視台在](../Page/朝日電視台.md "wikilink")1983年1月21日至1984年1月27日播放，全53話（本編52話＋總集編1話）。
+『**亞空大作戰**』（原題：）是[日本](../Page/日本.md "wikilink")[國際映畫社制作的](https://zh.wikipedia.org/wiki/國際映畫社 "wikilink")[機器人動畫](../Page/機器人動畫.md "wikilink")。由[朝日電視台](../Page/朝日電視台.md "wikilink")在1983年1月21日至1984年1月27日播放，全53話（本編52話＋總集編1話）。
 
 ## 各話一覽
 
@@ -507,7 +507,4 @@
 
   - [亜空大作戦スラングル](http://www.allcinema.net/prog/show_c.php?num_c=89316)
 
-[Category:1983年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1983年日本電視動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink")
-[Category:朝日電視台動畫](https://zh.wikipedia.org/wiki/Category:朝日電視台動畫 "wikilink")
+[Category:1983年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1983年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink") [Category:朝日電視台動畫](https://zh.wikipedia.org/wiki/Category:朝日電視台動畫 "wikilink")

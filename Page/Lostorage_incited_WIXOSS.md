@@ -1,18 +1,10 @@
 《**失憶煽動WIXOSS**》（、）是[J.C.STAFF製作的原創電視動畫](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")。2016年10月起首播\[1\]。
 
-在動畫第12話尾段，宣告推出續篇《失憶融合WIXOSS》（Lostorage conflated
-WIXOSS），並從2018年4月起播出\[2\]，前作《**[Selector](../Page/Selector_infected_WIXOSS.md "wikilink")**》篇的主角們也再次登場\[3\]。
+在動畫第12話尾段，宣告推出續篇《失憶融合WIXOSS》（Lostorage conflated WIXOSS），並從2018年4月起播出\[2\]，前作《**[Selector](../Page/Selector_infected_WIXOSS.md "wikilink")**》篇的主角們也再次登場\[3\]。
 
 ## 概要
 
-本作是[Takara
-Tomy發行的](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")[交換卡片遊戲](../Page/交換卡片遊戲.md "wikilink")《》自2014年播出《selector》系列以來（《[selector
-infected
-WIXOSS](https://zh.wikipedia.org/wiki/selector_infected_WIXOSS "wikilink")》及《selector
-spread
-WIXOSS》），全新的電視動畫系列\[4\]。2016年4月16日，由擔任嘉賓的[日本華納娛樂製作人](https://zh.wikipedia.org/wiki/日本華納娛樂 "wikilink")參加出席「WIXOSS
-2週年紀念賞花大會」的活動上宣布動畫製作決定和首播時期的訊息\[5\]。同年8月7日在活動『WIXOSS Summer
-Store』公布製作人員和[聲優陣容](../Page/聲優.md "wikilink")\[6\]。
+本作是[Takara Tomy發行的](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")[交換卡片遊戲](../Page/交換卡片遊戲.md "wikilink")《》自2014年播出《selector》系列以來（《[selector infected WIXOSS](https://zh.wikipedia.org/wiki/selector_infected_WIXOSS "wikilink")》及《selector spread WIXOSS》），全新的電視動畫系列\[4\]。2016年4月16日，由擔任嘉賓的[日本華納娛樂製作人](https://zh.wikipedia.org/wiki/日本華納娛樂 "wikilink")參加出席「WIXOSS 2週年紀念賞花大會」的活動上宣布動畫製作決定和首播時期的訊息\[5\]。同年8月7日在活動『WIXOSS Summer Store』公布製作人員和[聲優](../Page/聲優.md "wikilink")陣容\[6\]。
 
 ## 登場人物
 
@@ -174,23 +166,19 @@ Store』公布製作人員和[聲優陣容](../Page/聲優.md "wikilink")\[6\]�
 <!-- end list -->
 
   -
-    清衣在Selector系列中第一个LRIG，最早在外传《peeping analyze》出现，之后也在Selector
-    incited中清衣的回忆中出现。
+    清衣在Selector系列中第一个LRIG，最早在外传《peeping analyze》出现，之后也在Selector incited中清衣的回忆中出现。
     作为人类时，小时候是學校的受歡迎同學，並不斷欺凌过清衣，在成为清衣的LRIG后清衣没认出，对战胜出后取代了清衣的肉体并害死了坂口歩美。在亚美花持有作为LRIG的清衣时以清衣的肉体身份相遇，清衣阻止亚美花成为LRIG而导致Remember胜出。原本想回到自己的肉体但被自己肉体的持有者将其長期封藏，直到露子结束了Selector系列的对战才恢复人类身份。
-    恢复成為人类後，也無法擺脫被長期封藏帶來的心理傷痕，就讀高中時更被其他同學排擠。
-    之后認定自己的失落是因為不能欺凌清衣，被Lostorage的对战看上，重新成为LRIG而被苍井晶持有。
+    恢复成為人类後，也無法擺脫被長期封藏帶來的心理傷痕，就讀高中時更被其他同學排擠。 之后認定自己的失落是因為不能欺凌清衣，被Lostorage的对战看上，重新成为LRIG而被苍井晶持有。
 
 ### 其他角色
 
   -
-    外传《peeping
-    analyze》中，清衣在Selector系列最后一次作为LRIG时的主人，与坂口歩美容貌相近。在一次对战意外发现了清衣被LRIG替代后的本人，并对战中作为LRIG的清衣阻止了其成为新LRIG的机会。之后conflated篇中清衣本人重新与其相遇。担心为了终结WIXOSS对战而努力的清衣本人。
+    外传《peeping analyze》中，清衣在Selector系列最后一次作为LRIG时的主人，与坂口歩美容貌相近。在一次对战意外发现了清衣被LRIG替代后的本人，并对战中作为LRIG的清衣阻止了其成为新LRIG的机会。之后conflated篇中清衣本人重新与其相遇。担心为了终结WIXOSS对战而努力的清衣本人。
 
 <!-- end list -->
 
   -
-    外传《peeping
-    analyze》中，清衣的同班同学，曾经经常缠着作为人类时的清衣玩WIXOSS纸牌游戏。由于一次交通意外而昏迷，清衣有愧于此而投入到WIXOSS对战中，在胜利后清衣成为LRIG后，却发现代替其实现愿望的LRIG实际是强行害死了她。清衣在Lostorage系列里丢失重要记忆中的人。
+    外传《peeping analyze》中，清衣的同班同学，曾经经常缠着作为人类时的清衣玩WIXOSS纸牌游戏。由于一次交通意外而昏迷，清衣有愧于此而投入到WIXOSS对战中，在胜利后清衣成为LRIG后，却发现代替其实现愿望的LRIG实际是强行害死了她。清衣在Lostorage系列里丢失重要记忆中的人。
 
 ## 電視動畫
 
@@ -616,17 +604,12 @@ BSP、Hwang In Chcol<br />
 
 ## 外部連結
 
-  - [電視動畫『Lostorage incited
-    WIXOSS』官方網站](http://lostorage-wixoss.com/incited/)
+  - [電視動畫『Lostorage incited WIXOSS』官方網站](http://lostorage-wixoss.com/incited/)
 
   - [電視動畫『Lostorage conflated WIXOSS』官方網站](http://lostorage-wixoss.com/)
 
   -
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:J.C.STAFF](https://zh.wikipedia.org/wiki/Category:J.C.STAFF "wikilink")
-[Category:交換卡片遊戲題材動畫](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材動畫 "wikilink")
+[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:J.C.STAFF](https://zh.wikipedia.org/wiki/Category:J.C.STAFF "wikilink") [Category:交換卡片遊戲題材動畫](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材動畫 "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-\-- This module implements
-[Template:IPAc-en](https://zh.wikipedia.org/wiki/Template:IPAc-en "wikilink").
+\-- This module implements [Template:IPAc-en](https://zh.wikipedia.org/wiki/Template:IPAc-en "wikilink").
 
 local data = mw.loadData('模块:IPAc-en/data') local p = {}
 
@@ -11,9 +10,7 @@ local data = mw.loadData('模块:IPAc-en/data') local p = {}
 
 end
 
-\-- This implements
-[Template:Nowrap](https://zh.wikipedia.org/wiki/Template:Nowrap "wikilink").
-local function makeNowrapSpan(s)
+\-- This implements [Template:Nowrap](https://zh.wikipedia.org/wiki/Template:Nowrap "wikilink"). local function makeNowrapSpan(s)
 
 `   local span = mw.html.create('span')`
 `       :addClass('nowrap')`
@@ -58,9 +55,7 @@ local function makeAudioLink(file)
 
 end
 
-\-- This adds a tooltip icon to a label. It implements
-[Template:H:title](https://zh.wikipedia.org/wiki/Template:H:title "wikilink").
-local function makeTooltip(label, tooltip)
+\-- This adds a tooltip icon to a label. It implements [Template:H:title](https://zh.wikipedia.org/wiki/Template:H:title "wikilink"). local function makeTooltip(label, tooltip)
 
 `   local span = mw.html.create('span')`
 `       :attr('title', tooltip)`

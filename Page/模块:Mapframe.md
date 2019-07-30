@@ -1,14 +1,8 @@
-\-- Note: Originally written on English Wikipedia at
-<https://en.wikipedia.org/wiki/Module:Mapframe> -- \#\#\#\#\#
-Localisation (L10n) settings \#\#\#\#\# -- Replace values in quotes ("")
-with localised values
+\-- Note: Originally written on English Wikipedia at <https://en.wikipedia.org/wiki/Module:Mapframe> -- \#\#\#\#\# Localisation (L10n) settings \#\#\#\#\# -- Replace values in quotes ("") with localised values
 
 local L10n = {}
 
-\-- Template parameter names (unnumbered versions only) -- Specify each
-as either a single string, or a table of strings (aliases) -- Aliases
-are checked left-to-right, i.e. \`{ "one", "two" }\` is equivalent to
-using \` }}}\` in a template L10n.para = {
+\-- Template parameter names (unnumbered versions only) -- Specify each as either a single string, or a table of strings (aliases) -- Aliases are checked left-to-right, i.e. \`{ "one", "two" }\` is equivalent to using \` }}}\` in a template L10n.para = {
 
 `   display     = "display",`
 `   type        = "type",`

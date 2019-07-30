@@ -1,4 +1,4 @@
-**2018年Oricon單曲週榜冠軍作品列表**列出2018年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+**2018年Oricon單曲週榜冠軍作品列表**列出2018年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 冠軍單曲列表
 
@@ -192,7 +192,7 @@
 <tr class="even">
 <td><p>6月25日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Are_you_happy?_/_A_gonna" title="wikilink">Are you happy? / A gonna</a></p></td>
-<td><p><a href="../Page/早安少女組。.md" title="wikilink">早安少女組。'18</a></p></td>
+<td><p><a href="../Page/早安少女組。.md" title="wikilink">早安少女組。</a>'18</p></td>
 <td><p>11.4</p></td>
 <td><p>1</p></td>
 </tr>
@@ -394,6 +394,4 @@
 
 ## 參考資料
 
-[Category:2018年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
-[Category:2018年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2018年音樂排行榜 "wikilink")
+[Category:2018年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink") [Category:2018年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2018年音樂排行榜 "wikilink")

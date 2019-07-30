@@ -1,9 +1,8 @@
-本列表為[X戰警電影系列演員列表](../Page/X戰警電影系列.md "wikilink")，記述電影出現過的變種人及在電影中使用過的超能力。
+本列表為[X戰警電影系列](../Page/X戰警電影系列.md "wikilink")演員列表，記述電影出現過的變種人及在電影中使用過的超能力。
 
 ## 主要角色演员
 
-\<blockquote class="toccolours" style="text-align:justify; width:"95%";
-float:center; padding: 5px 5px 5px 5px; display:table;"\>
+\<blockquote class="toccolours" style="text-align:justify; width:"95%"; float:center; padding: 5px 5px 5px 5px; display:table;"\>
 
 <center>
 
@@ -222,8 +221,7 @@ Brett Morris</p></td>
 
   -
     **原名：**Scott Summers（史考特·桑瑪斯）
-    在X教授的學校擔任老師，是**X戰警**其中一員兼隊長。雙眼會不斷發出的鐳射光，需配戴特製紅石英眼罩阻擋。和琴葛雷“Jean
-    Grey”是情侶。
+    在X教授的學校擔任老師，是**X戰警**其中一員兼隊長。雙眼會不斷發出的鐳射光，需配戴特製紅石英眼罩阻擋。和琴葛雷“Jean Grey”是情侶。
     **技能：**利用眼睛發出極具殺傷力且可通过特制眼镜调节的鐳射，作為攻擊武器
     **超能力：**眼睛會發出鐳射
 
@@ -393,8 +391,7 @@ Brett Morris</p></td>
 
   -
     **原名：**Theresa Cassidy（泰芮莎·卡西迪）
-    是X教授的學校的學生。是William
-    Stryker闖入學校抓走的學生。是X戰警:第一戰裡的海妖[海妖的女兒](../Page/海妖_\(西恩·卡西迪\).md "wikilink")
+    是X教授的學校的學生。是William Stryker闖入學校抓走的學生。是X戰警:第一戰裡的海妖[海妖的女兒](../Page/海妖_\(西恩·卡西迪\).md "wikilink")
     **技能：**從口發出極高分貝的尖叫(於X戰警中穿上由漢基設計的衣服，捕捉反彈回來的超聲波就可以飛行，同時可充當海底聲納)
     **超能力：**尖叫、超音波
 
@@ -702,5 +699,4 @@ Brett Morris</p></td>
 
 ## 資料來源
 
-[Category:X战警电影](https://zh.wikipedia.org/wiki/Category:X战警电影 "wikilink")
-[Category:系列电影](https://zh.wikipedia.org/wiki/Category:系列电影 "wikilink")
+[Category:X战警电影](https://zh.wikipedia.org/wiki/Category:X战警电影 "wikilink") [Category:系列电影](https://zh.wikipedia.org/wiki/Category:系列电影 "wikilink")

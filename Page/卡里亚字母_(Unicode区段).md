@@ -1,4 +1,4 @@
-**卡里亚字母**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了用来拼写[卡里亚地区和](../Page/卡里亚.md "wikilink")[埃及使用的](../Page/埃及.md "wikilink")[卡里亚语的字母](https://zh.wikipedia.org/wiki/卡里亚语 "wikilink")。
+**卡里亚字母**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了用来拼写[卡里亚](../Page/卡里亚.md "wikilink")地区和[埃及](../Page/埃及.md "wikilink")使用的[卡里亚语的字母](https://zh.wikipedia.org/wiki/卡里亚语 "wikilink")。
 
 ## 历史
 

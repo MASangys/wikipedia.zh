@@ -1,5 +1,4 @@
-[第4回](../Page/第4回TVnavi日劇年度大賞.md "wikilink") ← **第5回** →
-[第6回](../Page/第6回TVnavi日劇年度大賞.md "wikilink")
+[第4回](../Page/第4回TVnavi日劇年度大賞.md "wikilink") ← **第5回** → [第6回](../Page/第6回TVnavi日劇年度大賞.md "wikilink")
 
 **第5回[TVnavi日劇年度大賞](../Page/TVnavi日劇年度大賞.md "wikilink")**是針對2008年春季至2009年冬季播出的連續劇做出的觀眾投票，以下為入圍及得獎名單。
 
@@ -185,6 +184,4 @@
 
   - [TVnavi日劇年度大賞第5回得獎名單](http://www.tvnaviweb.jp/TVnavi_contents/doYear/2008index.html)
 
-
-[Category:2008年日本](https://zh.wikipedia.org/wiki/Category:2008年日本 "wikilink")
-[Category:2008年电视奖项](https://zh.wikipedia.org/wiki/Category:2008年电视奖项 "wikilink")
+[Category:2008年日本](https://zh.wikipedia.org/wiki/Category:2008年日本 "wikilink") [Category:2008年电视奖项](https://zh.wikipedia.org/wiki/Category:2008年电视奖项 "wikilink")

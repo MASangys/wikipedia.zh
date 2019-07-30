@@ -1,8 +1,6 @@
-**NU'EST影視作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[NU'EST歷年參與之各類電視節目](../Page/NU'EST.md "wikilink")、固定節目、戲劇演出、電台節目、雜誌畫報等影視作品。
+**NU'EST影視作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[NU'EST](../Page/NU'EST.md "wikilink")歷年參與之各類電視節目、固定節目、戲劇演出、電台節目、雜誌畫報等影視作品。
 
-成員[旼炫於](../Page/黃旼炫.md "wikilink")[Wanna
-One時期作品](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")，請參閱：[Wanna
-One\#影視作品](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BD.B1.E8.A6.96.E4.BD.9C.E5.93.81 "wikilink")
+成員[旼炫於](../Page/黃旼炫.md "wikilink")[Wanna One時期作品](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")，請參閱：[Wanna One\#影視作品](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BD.B1.E8.A6.96.E4.BD.9C.E5.93.81 "wikilink")
 
 ## 專屬節目
 
@@ -184,39 +182,52 @@ One\#影視作品](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BD.B1.E8.A6.96.E4
 
 ### 2019年
 
-|                      |                                      |           |
-| -------------------- | ------------------------------------ | --------- |
-| **日期**               | **單元名稱**                             | **參與成員**  |
-| 2019年                |                                      |           |
-| 1月15日                | \[NU'EST W\] 咿呀啊啊～～ 驚喜登場🤗            | NU'EST W  |
-| 1月23日                | \[NU'EST\] 今天，我們☺️                   | 白虎        |
-| 1月26日                | \[NU'EST\] 是Aron唷👻👻                  | Aron      |
-| 1月31日                | \[NU'EST\] 旼炫來了！❤                    | 旼炫        |
-| 2月14日                | NU'EST Happy Valentine's Day         | 全體成員      |
-| 2月22日                | \[Special V ONLY\] NU'EST的禮物 春天大慶典   |           |
-| 3月5日                 | \[NU'EST\] 非常特別的星期二😎                 |           |
-| 3月8日                 | \[NU'EST\] 要聽聽聲音嗎？                   | JR、白虎、Ren |
-| 3月10日                | \[NU'EST\] 6點 點心😋                    | 全體成員      |
-| 3月12日                | \[NU'EST\] Renny Hyunny 幸運的～Voice～🍀  | 旼炫、Ren    |
-| 3月28日                | \[NU'EST\] 🚨🚨白劇透注意🚨🚨                 | 白虎、旼炫、Ren |
-| 3月31日                | \[NU'EST\] 吃飯了嗎？                     | JR        |
-| 4月12日                | \[NU'EST\] 花開的 我們的春天🌸                | 全體成員      |
-| 4月14日                | \[NU'EST\] 永遠都是 我們的季節🌸               |           |
-| 4月29日                | \[V ONLY\] NU'EST 'BET BET' M/V拍攝花絮  |           |
-| 5月3日                 | \[NU'EST\] 我們的選擇是LOVE呀🥰              |           |
-| 5月4日                 | \[NU'EST\] 現場直播😎                     |           |
-| 5月8日                 | \[NU'EST\] NU'EST 初一位🥳               |           |
-| 5月9日                 | \[NU'EST\] LOVE們 一位 恭喜🎉💕             |           |
-| 5月10日                | \[NU'EST\] 像夢一樣的星期五😊😊                |           |
-| 5月14日                | \[NU'EST\] NU'EST 與SPOONZ一起的特別Vlive  |           |
-| 5月16日                | \[NU'EST\] 🚨🚨NU'EST CONCEPT ZONE劇透🚨🚨 |           |
-| 5月21日                | \[NU'EST\] Happy Aron's Day 🐶❤️      | Aron      |
-| 5月25日                | \[NU'EST\] 嘎貢😍                       | 全體成員      |
-| 6月8日                 | \[NU'EST\] COUNTDOWN JR's Day🐢💕      | JR        |
-| \[NU'EST\] JR熊的一天🐻❤️ |                                      |           |
-| 6月10日                | \[NU'EST\] ☺️                        | 旼炫        |
-| 6月20日                | \[NU'EST\] 為了LOVE們的愛心信號💕             | 全體成員      |
-| 6月26日                | \[NU'EST\] 想念我吧？                     | Ren       |
+|                             |                                      |           |
+| --------------------------- | ------------------------------------ | --------- |
+| **日期**                      | **單元名稱**                             | **參與成員**  |
+| 2019年                       |                                      |           |
+| 1月15日                       | \[NU'EST W\] 咿呀啊啊～～ 驚喜登場🤗            | NU'EST W  |
+| 1月23日                       | \[NU'EST\] 今天，我們☺️                   | 白虎        |
+| 1月26日                       | \[NU'EST\] 是Aron唷👻👻                  | Aron      |
+| 1月31日                       | \[NU'EST\] 旼炫來了！❤                    | 旼炫        |
+| 2月14日                       | NU'EST Happy Valentine's Day         | 全體成員      |
+| 2月22日                       | \[Special V ONLY\] NU'EST的禮物 春天大慶典   |           |
+| 3月5日                        | \[NU'EST\] 非常特別的星期二😎                 |           |
+| 3月8日                        | \[NU'EST\] 要聽聽聲音嗎？                   | JR、白虎、Ren |
+| 3月10日                       | \[NU'EST\] 6點 點心😋                    | 全體成員      |
+| 3月12日                       | \[NU'EST\] Renny Hyunny 幸運的～Voice～🍀  | 旼炫、Ren    |
+| 3月28日                       | \[NU'EST\] 🚨🚨白劇透注意🚨🚨                 | 白虎、旼炫、Ren |
+| 3月31日                       | \[NU'EST\] 吃飯了嗎？                     | JR        |
+| 4月12日                       | \[NU'EST\] 花開的 我們的春天🌸                | 全體成員      |
+| 4月14日                       | \[NU'EST\] 永遠都是 我們的季節🌸               |           |
+| 4月29日                       | \[V ONLY\] NU'EST 'BET BET' M/V拍攝花絮  |           |
+| 5月3日                        | \[NU'EST\] 我們的選擇是LOVE呀🥰              |           |
+| 5月4日                        | \[NU'EST\] 現場直播😎                     |           |
+| 5月8日                        | \[NU'EST\] NU'EST 初一位🥳               |           |
+| 5月9日                        | \[NU'EST\] LOVE們 一位 恭喜🎉💕             |           |
+| 5月10日                       | \[NU'EST\] 像夢一樣的星期五😊😊                |           |
+| 5月14日                       | \[NU'EST\] NU'EST 與SPOONZ一起的特別Vlive  |           |
+| 5月16日                       | \[NU'EST\] 🚨🚨NU'EST CONCEPT ZONE劇透🚨🚨 |           |
+| 5月21日                       | \[NU'EST\] Happy Aron's Day 🐶❤️      | Aron      |
+| 5月25日                       | \[NU'EST\] 嘎貢😍                       | 全體成員      |
+| 6月8日                        | \[NU'EST\] COUNTDOWN JR's Day🐢💕      | JR        |
+| \[NU'EST\] JR熊的一天🐻❤️        |                                      |           |
+| 6月10日                       | \[NU'EST\] ☺️                        | 旼炫        |
+| 6月20日                       | \[NU'EST\] 為了LOVE們的愛心信號💕             | 全體成員      |
+| 6月26日                       | \[NU'EST\] 想念我吧？                     | Ren       |
+| 7月3日                        | \[NU'EST\] 白虎ISLAND Part3 🛤          | 白虎        |
+| \[NU'EST\] 白虎ISLAND Part3 🏸 |                                      |           |
+| \[NU'EST\] 白虎ISLAND Part3 🍽 |                                      |           |
+| 7月4日                        | \[NU'EST\] Spider Ron與JR熊📻           | JR、Aron   |
+| 7月11日                       | \[NU'EST\] 我來哄你們睡覺哦                  | Ren       |
+| 7月13日                       | \[NU'EST\] LOVE們.. 書..               | Ren       |
+| 7月14日                       | 🤗                                    | 旼炫        |
+| 7月17日                       | \[NU'EST\] NU'EST出現啦📢📢               | 全體成員      |
+| 7月18日                       | \[NU'EST\] 還沒說完的話🤗                   | 白虎        |
+| 7月20日                       | \[NU'EST\] 晚上！                       | JR、Aron   |
+| 7月21日                       | \[NU'EST\] 我來了🐶                      | Aron、旼炫   |
+| 在這麼晚，失禮了🙈                   | 旼炫                                   |           |
+| \[NU'EST\] 謝謝🐯              | 白虎                                   |           |
 
 ## 主持節目
 
@@ -323,7 +334,7 @@ One\#影視作品](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BD.B1.E8.A6.96.E4
 <tr class="odd">
 <td><p>2018年6月29日-9月14日</p></td>
 <td><p>JTBC2</p></td>
-<td><p><a href="../Page/自討苦吃.md" title="wikilink">自討苦吃S</a>2</p></td>
+<td><p><a href="../Page/自討苦吃.md" title="wikilink">自討苦吃</a>S2</p></td>
 <td><p>固定成員</p></td>
 <td><p>EP1-12</p></td>
 <td></td>
@@ -418,7 +429,7 @@ One\#影視作品](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BD.B1.E8.A6.96.E4
 <tr class="odd">
 <td><p>2017年8月6日</p></td>
 <td><p><a href="../Page/韓國職棒聯賽.md" title="wikilink">韓國職棒聯賽</a></p></td>
-<td><p><a href="../Page/LG雙子.md" title="wikilink">LG雙子對</a><a href="https://zh.wikipedia.org/wiki/斗山熊" title="wikilink">斗山熊三連戰</a></p></td>
+<td><p><a href="../Page/LG雙子.md" title="wikilink">LG雙子</a>對<a href="https://zh.wikipedia.org/wiki/斗山熊" title="wikilink">斗山熊三連戰</a></p></td>
 <td><p>第三場開球嘉賓</p></td>
 <td><p>JR</p></td>
 <td></td>
@@ -619,7 +630,7 @@ One\#影視作品](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BD.B1.E8.A6.96.E4
 | 2018年         |                                    |                                                                                               |                                                    |           |
 | 1月6日          | SBS                                | Master Key                                                                                    | JR、Ren                                             | EP13      |
 | 1月14日         | JTBC                               | [Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink") 2            | NU'EST W                                           | EP1       |
-| 2月2日-3月2日     | SBS                                | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")-[巴塔哥尼亞篇](../Page/巴塔哥尼亞.md "wikilink") | JR                                                 | EP1-4     |
+| 2月2日-3月2日     | SBS                                | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")-[巴塔哥尼亞](../Page/巴塔哥尼亞.md "wikilink")篇 | JR                                                 | EP1-4     |
 | 2月15日-2月16日   | MBC                                | 18春節偶像明星運動會                                                                                   | NU'EST W                                           |           |
 | 3月21日         | MTV Taiwan                         | 我愛偶像 Idols of Asia                                                                            | Aron、白虎、Ren                                        |           |
 | 4月11日         | MBC every1                         | 一週的偶像                                                                                         | JR                                                 | EP350     |
@@ -660,6 +671,7 @@ One\#影視作品](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BD.B1.E8.A6.96.E4
 | 5月11日      | tvN        | [驚人的星期六](../Page/驚人的星期六.md "wikilink")                                                        | JR、旼炫                  | EP58   |
 | 5月15日      | JTBC       | [請給一頓飯](../Page/請給一頓飯.md "wikilink")                                                          | 旼炫                     | EP126  |
 | 5月26日      | KBS 2      | [搞笑演唱會](../Page/搞笑演唱會.md "wikilink")                                                          | 全體成員                   | EP1000 |
+| 6月16日      | Mnet Japan | KCON 2019 Japan Backstage                                                                     |                        |        |
 
 ## 網路節目
 
@@ -1383,7 +1395,36 @@ One\#影視作品](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BD.B1.E8.A6.96.E4
 | 6月21日                                                                  | OSEN                                                                                            | Vlive                     | STAR ROAD EP19 NU'EST 黃旼炫發光的美貌秘訣是？ / EP20 NU'EST RenX白虎X旼炫煮的海帶湯味道是？！                           | 旼炫 / 白虎、旼炫、Ren            |
 | 6月24日                                                                  | STAR ROAD EP21 NU'EST，終於聚餐時間 / EP22 NU'EST 喜歡的宵夜菜單是？                                            | 全體成員                      |                                                                                                |                           |
 | 6月24日                                                                  | 愛我請舉手                                                                                           | Weibo Live                | NU'EST                                                                                         | 全體成員                      |
-| 6月25日                                                                  | emkmusical                                                                                      | Youtube                   | 瑪麗安東尼 2019 CAST INTERVIEW                                                                      | 旼炫                        |
+| 6月25日 / 6月28日                                                          | emkmusical                                                                                      | Youtube                   | 瑪麗安東尼 2019 CAST INTERVIEW / \[瑪麗安東尼音樂劇\] profile拍攝幕後🌹                                          | 旼炫                        |
+| 6月28日                                                                  | OSEN                                                                                            | Vlive                     | STAR ROAD EP23 NU'EST，真誠的Talk Time / EP24 NU'EST，非常可惜的最終回                                      | 全體成員                      |
+
+### 2019年7月至12月
+
+|                                                        |                          |          |                                                                                           |                           |
+| ------------------------------------------------------ | ------------------------ | -------- | ----------------------------------------------------------------------------------------- | ------------------------- |
+| **播放日期**                                               | **製作單位**                 | **播放平台** | **節目名稱**                                                                                  | **參與成員**                  |
+| 2019年                                                  |                          |          |                                                                                           |                           |
+| 7月5日                                                   | Kakao Page               | kakao TV | \[蜘蛛人：離家日\] 湯姆霍蘭德 X 傑克葛倫霍 追業一致訪問！（feat.Aron）                                              | Aron（訪問主持人）               |
+| 7月5日                                                   | emkmusical               | Youtube  | \[瑪麗安東尼音樂劇\] 2019 CAST SPECIAL 🌹✨                                                         | 旼炫                        |
+| 7月8日                                                   | Cake                     | Cake App | NU'EST Aron & Ren 的英語教室                                                                   | Aron、Ren                  |
+| 7月9日                                                   | Billboard                | Youtube  | NU'EST Recall First Impressions of One Another, Their Last Playful Bet & More | Billboard | 全體成員                      |
+| 7月9日                                                   | OSEN                     | Vlive    | ★☆NU'EST 'STAR ROAD' 驚喜禮物公開★☆                                                             |                           |
+| STAR ROAD NU'EST Ren，無法不陷入的'孩天妖王'（孩子天使妖精王子）\#highlight |                          |          |                                                                                           |                           |
+| STAR ROAD NU'EST 白虎，性感可愛全都可以 \#highlight               |                          |          |                                                                                           |                           |
+| 7月11日                                                  | NU'EST 採訪大公開 in Vietnam  |          |                                                                                           |                           |
+| 7月11日                                                  | Dispatch                 | Youtube  | NU'EST Dispatch HD Photo Slides                                                           | 白虎 / JR / Ren / 旼炫 / Aron |
+| 7月12日                                                  | V TODAY VIETNAM OFFICIAL | Vlive    | 挑戰NU'EST的記憶：白虎，旼炫精神出走                                                                     | 全體成員                      |
+| 7月13日                                                  | OSEN                     | Vlive    | STAR ROAD NU'EST 黃旼炫，一分一秒心動 \#highlight                                                   |                           |
+| STAR ROAD NU'EST Aron，非常可愛的大哥 \#highlight              |                          |          |                                                                                           |                           |
+| STAR ROAD NU'EST JR，無法不著迷的Bugi \#highlight             |                          |          |                                                                                           |                           |
+| 7月15日                                                  | Cake                     | Cake App | NU'EST Aron & Ren 的英語教室 會場篇                                                               | Aron、Ren                  |
+| 7月16日                                                  | V TODAY VIETNAM OFFICIAL | Vlive    | NU'EST 對越南爆炸性菜餚展示愛意                                                                       | 全體成員                      |
+| 7月17日                                                  | EmilyGhoul               | Youtube  | KCON NY + Playing games with idols                                                        |                           |
+| 7月17日                                                  | V HEARTBEAT              | Vlive    | NU'EST 祝 V HEARTBEAT 一週年快樂！                                                               |                           |
+| 7月18日                                                  | 留學少女                     | NAVER    | \[拍攝前\] 找到 '我們家' 的 JR & 旼炫                                                                | JR、旼炫                     |
+| 7月19日                                                  | Mnet K-POP               | Youtube  | 留學少女 療癒的甜蜜嗓音♥ㅣ故事講述者 JR&旼炫 幕後花絮\#1 / \#2                                                   |                           |
+| 7月22日                                                  | JREKML                   | Youtube  | BODY ROLLING with KPOP IDOLS！                                                             | 全體成員                      |
+| 7月22日                                                  | Cake                     | Cake App | NU'EST Aron & Ren 的英語教室 餐廳 & 飯店篇                                                          | Aron、Ren                  |
 
 ## 電影及戲劇
 
@@ -1601,7 +1642,7 @@ One\#影視作品](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BD.B1.E8.A6.96.E4
 |        |              |                |          |
 | ------ | ------------ | -------------- | -------- |
 | **日期** | **電台**       | **節目名稱**       | **參與成員** |
-| 2015年  |              |                |          |
+| 2019年  |              |                |          |
 | 4月30日  | SBS Power FM | 崔華靜的POWER TIME | 全體成員     |
 | 5月1日   | MBC FM4U     | 兩點的約會，我是池錫辰    |          |
 | 5月7日   | MBC FM4U     | 正午的希望曲         |          |
@@ -1642,6 +1683,8 @@ One\#影視作品](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BD.B1.E8.A6.96.E4
 | CHICTEEN 小資風尚      | 5月號        | Aron；封面人物（與[周潔瓊](../Page/周潔瓊.md "wikilink")） |
 | 時裝 L'OFFICIEL      | 6月號（別冊）    | Aron；封面人物（與周潔瓊）                              |
 | COSMOPOLITAN KOREA | 7月號        | JR                                           |
+| VOGUE KOREA        | 8月號        | 旼炫                                           |
+| ELLE KOREA         | 9月號        | 旼炫                                           |
 
 ## 参考文献
 

@@ -1,5 +1,4 @@
-**Firaxis
-Games**，是席德·梅尔，杰夫·布里格斯和布赖恩·雷诺兹离开MicroProse在1996年成立的美国电子游戏开发商，现在是Take-Two公司的全资子公司。该公司最出名的是文明系列游戏。
+**Firaxis Games**，是席德·梅尔，杰夫·布里格斯和布赖恩·雷诺兹离开MicroProse在1996年成立的美国电子游戏开发商，现在是Take-Two公司的全资子公司。该公司最出名的是文明系列游戏。
 
 ## 游戏
 
@@ -189,12 +188,6 @@ Games**，是席德·梅尔，杰夫·布里格斯和布赖恩·雷诺兹离开M
 ## 外部链接
 
   -
-  - [Firaxis Games'](http://www.mobygames.com/company/firaxis-games-inc)
-    profile at
-    [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
+  - [Firaxis Games'](http://www.mobygames.com/company/firaxis-games-inc) profile at [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
 
-[Category:1996年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1996年開業電子遊戲公司 "wikilink")
-[Category:Take-Two_Interactive的部门与子公司](https://zh.wikipedia.org/wiki/Category:Take-Two_Interactive的部门与子公司 "wikilink")
-[Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:馬里蘭州公司](https://zh.wikipedia.org/wiki/Category:馬里蘭州公司 "wikilink")
+[Category:1996年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1996年開業電子遊戲公司 "wikilink") [Category:Take-Two_Interactive的部门与子公司](https://zh.wikipedia.org/wiki/Category:Take-Two_Interactive的部门与子公司 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:馬里蘭州公司](https://zh.wikipedia.org/wiki/Category:馬里蘭州公司 "wikilink")

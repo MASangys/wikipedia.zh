@@ -1,5 +1,4 @@
-**Standing EGG**（），為2010年出道的韓國的獨立樂團，由Egg 1、Egg 2、Egg 3組成。2016年夏，單曲《여름밤에
-우린（仲夏夜的我們）》橫掃韓國各大音源榜單\[1\]，逐漸打響大眾知名度。
+**Standing EGG**（），為2010年出道的韓國的獨立樂團，由Egg 1、Egg 2、Egg 3組成。2016年夏，單曲《여름밤에 우린（仲夏夜的我們）》橫掃韓國各大音源榜單\[1\]，逐漸打響大眾知名度。
 
 ## 現場表演成員
 
@@ -254,8 +253,8 @@
 | ------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | 年份            | 曲名                                                                                                                        | 收錄專輯                                                                                                             |
 | 2016年         | 데리러 갈게 (我會帶你走)                                                                                                            | [MBC水木劇](https://zh.wikipedia.org/wiki/MBC "wikilink")《[舉重妖精金福珠](../Page/舉重妖精金福珠.md "wikilink")》OST Part. 5\[2\] |
-| 2017年         | 어떨까（會怎麼樣）                                                                                                                 | [JTBC金土劇](../Page/JTBC.md "wikilink")《[大力女子都奉順](../Page/大力女子都奉順.md "wikilink")》OST Part. 3                       |
-| 마음의 지도（心的地圖）  | [JTBC金土劇](../Page/JTBC.md "wikilink")《[Man to Man](../Page/Man_to_Man.md "wikilink")》OST Part.7                           |                                                                                                                  |
+| 2017年         | 어떨까（會怎麼樣）                                                                                                                 | [JTBC](../Page/JTBC.md "wikilink")金土劇《[大力女子都奉順](../Page/大力女子都奉順.md "wikilink")》OST Part. 3                       |
+| 마음의 지도（心的地圖）  | [JTBC](../Page/JTBC.md "wikilink")金土劇《[Man to Man](../Page/Man_to_Man.md "wikilink")》OST Part.7                           |                                                                                                                  |
 | 보통의 날（普通的日子）  | [MBC月火劇](https://zh.wikipedia.org/wiki/MBC "wikilink")《[20世紀少男少女](../Page/20世紀少男少女.md "wikilink")》OST Part.1              |                                                                                                                  |
 | 넌 내 안에（你在我心裡） | [KBS1週日劇](https://zh.wikipedia.org/wiki/KBS第1频道 "wikilink")《[Andante](../Page/Andante_\(韓國電視劇\).md "wikilink")》OST Part.3 |                                                                                                                  |
 | 2018年         | 항상 너의 곁에 내가 있을게（總在你身邊）                                                                                                    | [KBS2水木劇](../Page/KBS第2频道.md "wikilink")《[就算死也喜歡](../Page/就算死也喜歡.md "wikilink")》OST Part.2                       |
@@ -301,11 +300,11 @@
 |            |                                                    |                                                                |
 | ---------- | -------------------------------------------------- | -------------------------------------------------------------- |
 | 日期         | 演唱會場次                                              | 舉行地點                                                           |
-| 2013年6月29日 | [首爾場](../Page/首爾.md "wikilink")                    | [弘益大學大學路藝術中心](../Page/弘益大學.md "wikilink") 大劇場                  |
+| 2013年6月29日 | [首爾](../Page/首爾.md "wikilink")場                    | [弘益大學](../Page/弘益大學.md "wikilink")大學路藝術中心 大劇場                  |
 | 2013年7月5日  | [大田場](https://zh.wikipedia.org/wiki/大田 "wikilink") | [忠南大學](https://zh.wikipedia.org/wiki/忠南大學 "wikilink") 白馬Hall   |
 | 2013年7月19日 | [大邱場](https://zh.wikipedia.org/wiki/大邱 "wikilink") | 嶺南大學天馬藝術中心 Chamber Hall                                        |
 | 2013年7月20日 | [釜山場](https://zh.wikipedia.org/wiki/釜山 "wikilink") | [海雲台文化會館](https://zh.wikipedia.org/wiki/海雲台 "wikilink") 海雲Hall |
-| 2013年7月26日 | [光州場](../Page/光州.md "wikilink")                    | 518紀念文化中心 MinJu Hall                                           |
+| 2013年7月26日 | [光州](../Page/光州.md "wikilink")場                    | 518紀念文化中心 MinJu Hall                                           |
 
   - Standing Egg **SHINE** Tour
 
@@ -313,7 +312,7 @@
 | ----------- | -------------------------------------------------- | ---------------------------------------------------------------------- |
 | 日期          | 演唱會場次                                              | 舉行地點                                                                   |
 | 2013年12月1日  | [釜山場](https://zh.wikipedia.org/wiki/釜山 "wikilink") | 釜山市民會館大劇場                                                              |
-| 2013年12月14日 | [首爾場](../Page/首爾.md "wikilink")                    | 麻浦藝術中心                                                                 |
+| 2013年12月14日 | [首爾](../Page/首爾.md "wikilink")場                    | 麻浦藝術中心                                                                 |
 | 2013年12月15日 |                                                    |                                                                        |
 | 2013年12月20日 | [大田場](https://zh.wikipedia.org/wiki/大田 "wikilink") | [忠南大學](https://zh.wikipedia.org/wiki/忠南大學 "wikilink") 白馬Hall           |
 | 2013年12月28日 | [大邱場](https://zh.wikipedia.org/wiki/大邱 "wikilink") | [嶺南大學天馬藝術中心](https://zh.wikipedia.org/wiki/嶺南大學 "wikilink") Grand Hall |
@@ -325,7 +324,7 @@
 |            |                                                    |                                                              |
 | ---------- | -------------------------------------------------- | ------------------------------------------------------------ |
 | 日期         | 演唱會場次                                              | 舉行地點                                                         |
-| 2014年7月4日  | [首爾場](../Page/首爾.md "wikilink")                    | [建國大學新千年館](../Page/建國大學.md "wikilink")                       |
+| 2014年7月4日  | [首爾](../Page/首爾.md "wikilink")場                    | [建國大學](../Page/建國大學.md "wikilink")新千年館                       |
 | 2014年7月5日  |                                                    |                                                              |
 | 2014年7月12日 | [大邱場](https://zh.wikipedia.org/wiki/大邱 "wikilink") | 壽城藝術中心                                                       |
 | 2014年7月26日 | [釜山場](https://zh.wikipedia.org/wiki/釜山 "wikilink") | Centum City                                                  |
@@ -341,9 +340,9 @@
 | 日期          | 演唱會場次                                              | 舉行地點                                                         |
 | 2014年12月6日  | 昌源場                                                | 3.15藝術中心                                                     |
 | 2014年12月7日  | [大田場](https://zh.wikipedia.org/wiki/大田 "wikilink") | [忠南大學](https://zh.wikipedia.org/wiki/忠南大學 "wikilink") 白馬Hall |
-| 2014年12月13日 | [光州場](../Page/光州.md "wikilink")                    | 518紀念文化中心 MinJu Hall                                         |
-| 2014年12月14日 | [全州場](https://zh.wikipedia.org/wiki/全州 "wikilink") | [全北大學三星文化會館](../Page/全北大學.md "wikilink")                     |
-| 2014年12月24日 | [首爾場](../Page/首爾.md "wikilink")                    | [祥明大學藝術中心](../Page/祥明大學.md "wikilink")                       |
+| 2014年12月13日 | [光州](../Page/光州.md "wikilink")場                    | 518紀念文化中心 MinJu Hall                                         |
+| 2014年12月14日 | [全州場](https://zh.wikipedia.org/wiki/全州 "wikilink") | [全北大學](../Page/全北大學.md "wikilink")三星文化會館                     |
+| 2014年12月24日 | [首爾](../Page/首爾.md "wikilink")場                    | [祥明大學](../Page/祥明大學.md "wikilink")藝術中心                       |
 | 2014年12月25日 |                                                    |                                                              |
 | 2014年12月27日 | [大邱場](https://zh.wikipedia.org/wiki/大邱 "wikilink") | 壽城藝術中心                                                       |
 | 2014年12月28日 | [釜山場](https://zh.wikipedia.org/wiki/釜山 "wikilink") | 海雲台文化會館                                                      |
@@ -359,8 +358,8 @@
 | 2015年6月21日 | [大田場](https://zh.wikipedia.org/wiki/大田 "wikilink") | [忠南大學](https://zh.wikipedia.org/wiki/忠南大學 "wikilink") 白馬Hall |
 | 2015年6月27日 | [釜山場](https://zh.wikipedia.org/wiki/釜山 "wikilink") | 電影殿堂 天空演奏劇場                                                  |
 | 2015年6月28日 | 昌源場                                                | 3.15藝術中心                                                     |
-| 2015年7月4日  | [光州場](../Page/光州.md "wikilink")                    | 518紀念文化中心 MinJu Hall                                         |
-| 2015年7月11日 | [首爾場](../Page/首爾.md "wikilink")                    | 韓電藝術中心                                                       |
+| 2015年7月4日  | [光州](../Page/光州.md "wikilink")場                    | 518紀念文化中心 MinJu Hall                                         |
+| 2015年7月11日 | [首爾](../Page/首爾.md "wikilink")場                    | 韓電藝術中心                                                       |
 | 2015年7月12日 |                                                    |                                                              |
 
   - Standing Egg **LOVING FOREST GARDEN**
@@ -368,7 +367,7 @@
 |             |                                 |        |
 | ----------- | ------------------------------- | ------ |
 | 日期          | 演唱會場次                           | 舉行地點   |
-| 2015年10月17日 | [首爾場](../Page/首爾.md "wikilink") | 奧林匹克公園 |
+| 2015年10月17日 | [首爾](../Page/首爾.md "wikilink")場 | 奧林匹克公園 |
 
   - Standing Egg **inner** Tour
 
@@ -376,8 +375,8 @@
 | ----------- | -------------------------------------------------- | ------------------------------------------------------------ |
 | 日期          | 演唱會場次                                              | 舉行地點                                                         |
 | 2015年12月4日  | [大田場](https://zh.wikipedia.org/wiki/大田 "wikilink") | [忠南大學](https://zh.wikipedia.org/wiki/忠南大學 "wikilink") 白馬Hall |
-| 2015年12月12日 | [光州場](../Page/光州.md "wikilink")                    | 518紀念文化中心 MinJu Hall                                         |
-| 2015年12月19日 | [首爾場](../Page/首爾.md "wikilink")                    | [祥明大學藝術中心](../Page/祥明大學.md "wikilink")                       |
+| 2015年12月12日 | [光州](../Page/光州.md "wikilink")場                    | 518紀念文化中心 MinJu Hall                                         |
+| 2015年12月19日 | [首爾](../Page/首爾.md "wikilink")場                    | [祥明大學](../Page/祥明大學.md "wikilink")藝術中心                       |
 | 2015年12月20日 |                                                    |                                                              |
 | 2015年12月25日 | [大邱場](https://zh.wikipedia.org/wiki/大邱 "wikilink") | 嶺南大學天馬藝術中心 Chamber Hall                                      |
 | 2015年12月31日 | [釜山場](https://zh.wikipedia.org/wiki/釜山 "wikilink") | 電影殿堂 天空演奏劇場                                                  |
@@ -389,7 +388,7 @@
 |            |                                 |        |
 | ---------- | ------------------------------- | ------ |
 | 日期         | 演唱會場次                           | 舉行地點   |
-| 2016年2月13日 | [首爾場](../Page/首爾.md "wikilink") | 環球藝術中心 |
+| 2016年2月13日 | [首爾](../Page/首爾.md "wikilink")場 | 環球藝術中心 |
 | 2016年2月14日 |                                 |        |
 
   - Standing Egg **Rainbow** Tour
@@ -397,12 +396,12 @@
 |            |                                                    |                                                              |
 | ---------- | -------------------------------------------------- | ------------------------------------------------------------ |
 | 日期         | 演唱會場次                                              | 舉行地點                                                         |
-| 2016年6月18日 | [光州場](../Page/光州.md "wikilink")                    | 518紀念文化中心 MinJu Hall                                         |
+| 2016年6月18日 | [光州](../Page/光州.md "wikilink")場                    | 518紀念文化中心 MinJu Hall                                         |
 | 2016年6月25日 | [釜山場](https://zh.wikipedia.org/wiki/釜山 "wikilink") | 電影殿堂 天空演奏劇場                                                  |
 | 2016年6月26日 | 昌源場                                                | 3.15藝術中心                                                     |
 | 2016年7月1日  | [濟州場](https://zh.wikipedia.org/wiki/濟州 "wikilink") |                                                              |
 | 2016年7月2日  | [大田場](https://zh.wikipedia.org/wiki/大田 "wikilink") | [忠南大學](https://zh.wikipedia.org/wiki/忠南大學 "wikilink") 白馬Hall |
-| 2016年7月9日  | [首爾場](../Page/首爾.md "wikilink")                    | 韓電藝術中心                                                       |
+| 2016年7月9日  | [首爾](../Page/首爾.md "wikilink")場                    | 韓電藝術中心                                                       |
 | 2016年7月10日 |                                                    |                                                              |
 | 2016年7月16日 | [大邱場](https://zh.wikipedia.org/wiki/大邱 "wikilink") | 壽城藝術中心                                                       |
 
@@ -420,9 +419,9 @@
 | 日期          | 演唱會場次                                              | 舉行地點                                                         |
 | 2016年12月9日  | [大田場](https://zh.wikipedia.org/wiki/大田 "wikilink") | [忠南大學](https://zh.wikipedia.org/wiki/忠南大學 "wikilink") 白馬Hall |
 | 2016年12月17日 | [大邱場](https://zh.wikipedia.org/wiki/大邱 "wikilink") | 嶺南大學天馬藝術中心 Chamber Hall                                      |
-| 2016年12月24日 | [首爾場](../Page/首爾.md "wikilink")                    | [祥明大學藝術中心](../Page/祥明大學.md "wikilink")                       |
+| 2016年12月24日 | [首爾](../Page/首爾.md "wikilink")場                    | [祥明大學](../Page/祥明大學.md "wikilink")藝術中心                       |
 | 2016年12月25日 |                                                    |                                                              |
-| 2016年12月30日 | [光州場](../Page/光州.md "wikilink")                    | 光州市民文化會館                                                     |
+| 2016年12月30日 | [光州](../Page/光州.md "wikilink")場                    | 光州市民文化會館                                                     |
 | 2016年12月31日 | [釜山場](https://zh.wikipedia.org/wiki/釜山 "wikilink") | MBC藝術中心                                                      |
 
 ### 2017年
@@ -432,7 +431,7 @@
 |            |                                 |        |
 | ---------- | ------------------------------- | ------ |
 | 日期         | 演唱會場次                           | 舉行地點   |
-| 2017年3月10日 | [首爾場](../Page/首爾.md "wikilink") | 韓電藝術中心 |
+| 2017年3月10日 | [首爾](../Page/首爾.md "wikilink")場 | 韓電藝術中心 |
 | 2017年3月11日 |                                 |        |
 | 2017年3月12日 |                                 |        |
 
@@ -448,7 +447,7 @@
 |             |                                 |                                                         |
 | ----------- | ------------------------------- | ------------------------------------------------------- |
 | 日期          | 演唱會場次                           | 舉行地點                                                    |
-| 2017年10月14日 | [香港場](../Page/香港.md "wikilink") | [九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink") Music Zone |
+| 2017年10月14日 | [香港](../Page/香港.md "wikilink")場 | [九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink") Music Zone |
 
   - Standing Egg **Summer Night You & I** Tour
 
@@ -456,8 +455,8 @@
 | ---------- | -------------------------------------------------- | ------------------------------------------------------------ |
 | 日期         | 演唱會場次                                              | 舉行地點                                                         |
 | 2017年7月1日  | [大田場](https://zh.wikipedia.org/wiki/大田 "wikilink") | [忠南大學](https://zh.wikipedia.org/wiki/忠南大學 "wikilink") 白馬Hall |
-| 2017年7月8日  | [光州場](../Page/光州.md "wikilink")                    | 光州市民文化會館                                                     |
-| 2017年7月15日 | [首爾場](../Page/首爾.md "wikilink")                    | 環球藝術中心                                                       |
+| 2017年7月8日  | [光州](../Page/光州.md "wikilink")場                    | 光州市民文化會館                                                     |
+| 2017年7月15日 | [首爾](../Page/首爾.md "wikilink")場                    | 環球藝術中心                                                       |
 | 2017年7月16日 |                                                    |                                                              |
 | 2017年7月22日 | [大邱場](https://zh.wikipedia.org/wiki/大邱 "wikilink") | 壽城藝術中心                                                       |
 | 2017年7月29日 | 昌源場                                                | 3.15藝術中心                                                     |
@@ -472,8 +471,8 @@
 | 2017年11月25日 | [蔚山場](https://zh.wikipedia.org/wiki/蔚山 "wikilink") | 蔚山現代藝術館                                                      |
 | 2017年12月2日  | [大田場](https://zh.wikipedia.org/wiki/大田 "wikilink") | [忠南大學](https://zh.wikipedia.org/wiki/忠南大學 "wikilink") 白馬Hall |
 | 2017年12月3日  | 昌源場                                                | 3.15藝術中心                                                     |
-| 2017年12月9日  | [光州場](../Page/光州.md "wikilink")                    | 光州市民文化會館                                                     |
-| 2017年12月16日 | [首爾場](../Page/首爾.md "wikilink")                    | 環球藝術中心                                                       |
+| 2017年12月9日  | [光州](../Page/光州.md "wikilink")場                    | 光州市民文化會館                                                     |
+| 2017年12月16日 | [首爾](../Page/首爾.md "wikilink")場                    | 環球藝術中心                                                       |
 | 2017年12月17日 |                                                    |                                                              |
 | 2017年12月23日 | [大邱場](https://zh.wikipedia.org/wiki/大邱 "wikilink") | 嶺南大學天馬藝術中心 Chamber Hall                                      |
 | 2017年12月24日 |                                                    |                                                              |
@@ -548,9 +547,7 @@
   -
   -
   -
-[分類:韓國演唱團體](https://zh.wikipedia.org/wiki/分類:韓國演唱團體 "wikilink")
-[分類:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/分類:2010年成立的音樂團體 "wikilink")
-[分類:韓國流行音樂團體](https://zh.wikipedia.org/wiki/分類:韓國流行音樂團體 "wikilink")
+[分類:韓國演唱團體](https://zh.wikipedia.org/wiki/分類:韓國演唱團體 "wikilink") [分類:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/分類:2010年成立的音樂團體 "wikilink") [分類:韓國流行音樂團體](https://zh.wikipedia.org/wiki/分類:韓國流行音樂團體 "wikilink")
 
 1.
 2.

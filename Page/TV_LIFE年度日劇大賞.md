@@ -68,7 +68,7 @@
 
 ### 最佳劇集
 
-最佳劇集中，[富士電視台和](../Page/富士電視台.md "wikilink")[TBS電視台的電視劇佔絕大多數](../Page/TBS電視台.md "wikilink")，兩台相加所占比例約70%。
+最佳劇集中，[富士電視台](../Page/富士電視台.md "wikilink")和[TBS電視台](../Page/TBS電視台.md "wikilink")的電視劇佔絕大多數，兩台相加所占比例約70%。
 
   - 最佳劇集所屬電視台統計
 
@@ -115,8 +115,8 @@
 </tbody>
 </table>
 
-  - 身為四大民營電視台之一的[朝日電視台直至](../Page/朝日電視台.md "wikilink")2014年才憑《[死神君](../Page/死神君.md "wikilink")》首次獲獎。
-  - 五大在京[核心局之一的](../Page/核心局.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")，至今仍未有劇集獲獎。
+  - 身為四大民營電視台之一的[朝日電視台](../Page/朝日電視台.md "wikilink")直至2014年才憑《[死神君](../Page/死神君.md "wikilink")》首次獲獎。
+  - 五大在京[核心局](../Page/核心局.md "wikilink")之一的[東京電視台](../Page/東京電視台.md "wikilink")，至今仍未有劇集獲獎。
 
 最佳劇集所屬電視劇播放時段前兩名分別為富士電視台和TBS電視台的兩大看板強檔，即以往以戀愛王道題材知名的「[月9](../Page/富士電視台週一晚間九點連續劇.md "wikilink")」，以及常敢於嘗試新穎題材的「[金10](../Page/TBS週五連續劇.md "wikilink")」。
 
@@ -140,50 +140,44 @@
 ### 最佳男主角
 
   - 獲得最多次最佳男主角的演員為5度奪奬的[大野智](../Page/大野智.md "wikilink")。
-  - [嵐是最佳男主角的大蠃家](../Page/嵐.md "wikilink")，雖然截至2019年，[二宮和也仍未得奬](../Page/二宮和也.md "wikilink")，但其餘四位成員合共奪得該奬10次，包攬了三分之一；同時由2010年開始，所有的得獎者均是[嵐的成員](../Page/嵐.md "wikilink")。
-  - 截至2019年，只有[木村拓哉一人兩度連續兩年獲獎](../Page/木村拓哉.md "wikilink")，分別是[第6回](https://zh.wikipedia.org/wiki/第6回TV_LIFE年度日劇大賞 "wikilink")《[悠長假期](../Page/悠長假期.md "wikilink")》及[第7回](https://zh.wikipedia.org/wiki/第7回TV_LIFE年度日劇大賞 "wikilink")《[戀愛世紀](https://zh.wikipedia.org/wiki/戀愛世紀 "wikilink")》；[第10回](https://zh.wikipedia.org/wiki/第10回TV_LIFE年度日劇大賞 "wikilink")《[美麗人生](../Page/美麗人生_\(日本電視劇\).md "wikilink")》及[第11回](https://zh.wikipedia.org/wiki/第11回TV_LIFE年度日劇大賞 "wikilink")《[HERO](../Page/HERO_\(日本電視劇\).md "wikilink")》。
-  - 截至2019年，有20次男主角得主為[傑尼斯事務所的藝人](../Page/傑尼斯事務所.md "wikilink")。
+  - [嵐](../Page/嵐.md "wikilink")是最佳男主角的大蠃家，雖然截至2019年，[二宮和也](../Page/二宮和也.md "wikilink")仍未得奬，但其餘四位成員合共奪得該奬10次，包攬了三分之一；同時由2010年開始，所有的得獎者均是[嵐](../Page/嵐.md "wikilink")的成員。
+  - 截至2019年，只有[木村拓哉](../Page/木村拓哉.md "wikilink")一人兩度連續兩年獲獎，分別是[第6回](https://zh.wikipedia.org/wiki/第6回TV_LIFE年度日劇大賞 "wikilink")《[悠長假期](../Page/悠長假期.md "wikilink")》及[第7回](https://zh.wikipedia.org/wiki/第7回TV_LIFE年度日劇大賞 "wikilink")《[戀愛世紀](https://zh.wikipedia.org/wiki/戀愛世紀 "wikilink")》；[第10回](https://zh.wikipedia.org/wiki/第10回TV_LIFE年度日劇大賞 "wikilink")《[美麗人生](../Page/美麗人生_\(日本電視劇\).md "wikilink")》及[第11回](https://zh.wikipedia.org/wiki/第11回TV_LIFE年度日劇大賞 "wikilink")《[HERO](../Page/HERO_\(日本電視劇\).md "wikilink")》。
+  - 截至2019年，有20次男主角得主為[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")的藝人。
 
 ### 最佳女主角
 
   - 獲得最多次最佳女主角的演員為3度奪奬的[仲間由紀惠](https://zh.wikipedia.org/wiki/仲間由紀惠 "wikilink")，亦是唯一一位蟬聯此奬項的女演員（[第12回及](https://zh.wikipedia.org/wiki/第12回TV_LIFE年度日劇大賞 "wikilink")[第13回](https://zh.wikipedia.org/wiki/第13回TV_LIFE年度日劇大賞 "wikilink")）。
   - 最年輕的得主是[第16回的](../Page/第16回TV_LIFE年度日劇大賞.md "wikilink")[志田未來](../Page/志田未來.md "wikilink")《[14歲媽媽](../Page/14歲媽媽.md "wikilink")》，得奬時只有13歲。
-  - [松嶋菜菜子於](../Page/松嶋菜菜子.md "wikilink")1999年首次摘下最佳女主角，直至2011年才第二度獲獎，相隔了12年，為獲獎時間相隔最長的女演員。
+  - [松嶋菜菜子](../Page/松嶋菜菜子.md "wikilink")於1999年首次摘下最佳女主角，直至2011年才第二度獲獎，相隔了12年，為獲獎時間相隔最長的女演員。
   - 截至2019年，共有3位女演員因演出[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")[晨間劇獲頒最佳女主角](../Page/連續電視小說.md "wikilink")，依次為[第22回的](https://zh.wikipedia.org/wiki/第22回TV_LIFE年度日劇大賞 "wikilink")[堀北真希](../Page/堀北真希.md "wikilink")《[小梅醫生](../Page/小梅醫生.md "wikilink")》、[第23回的](../Page/第23回TV_LIFE年度日劇大賞.md "wikilink")[能年玲奈](../Page/能年玲奈.md "wikilink")《[小海女](https://zh.wikipedia.org/wiki/小海女 "wikilink")》以及[第24回的](../Page/第24回TV_LIFE年度日劇大賞.md "wikilink")[杏](../Page/杏_\(演員\).md "wikilink")《[多謝款待](../Page/多謝款待.md "wikilink")》，創下三連霸紀錄。
-  - 截至2019年，僅有[宮崎葵以](../Page/宮崎葵.md "wikilink")[NHK大河劇獲得最佳女主角](../Page/NHK大河劇.md "wikilink")，得獎作品為[第18回的](../Page/第18回TV_LIFE年度日劇大賞.md "wikilink")《[篤姬](../Page/篤姬_\(電視劇\).md "wikilink")》。
+  - 截至2019年，僅有[宮崎葵](../Page/宮崎葵.md "wikilink")以[NHK大河劇](../Page/NHK大河劇.md "wikilink")獲得最佳女主角，得獎作品為[第18回的](../Page/第18回TV_LIFE年度日劇大賞.md "wikilink")《[篤姬](../Page/篤姬_\(電視劇\).md "wikilink")》。
 
 ### 最佳男配角
 
-  - 獲得最多次最佳男配角的演員是[木村拓哉](../Page/木村拓哉.md "wikilink")、[山下智久](../Page/山下智久.md "wikilink")、[香川照之和](../Page/香川照之.md "wikilink")[西村雅彥](../Page/西村雅彥.md "wikilink")，各獲兩次。
-  - [香川照之唯一一個憑同系列劇集兩度獲獎的男演員](../Page/香川照之.md "wikilink")，分別第26回《0.1無罪真相》，及第28回的《0.1無罪真相2》，亦是其中一位相隔最短時間重奪（只相隔1屆），另一位是[山下智久](../Page/山下智久.md "wikilink")。
+  - 獲得最多次最佳男配角的演員是[木村拓哉](../Page/木村拓哉.md "wikilink")、[山下智久](../Page/山下智久.md "wikilink")、[香川照之](../Page/香川照之.md "wikilink")和[西村雅彥](../Page/西村雅彥.md "wikilink")，各獲兩次。
+  - [香川照之](../Page/香川照之.md "wikilink")唯一一個憑同系列劇集兩度獲獎的男演員，分別第26回《0.1無罪真相》，及第28回的《0.1無罪真相2》，亦是其中一位相隔最短時間重奪（只相隔1屆），另一位是[山下智久](../Page/山下智久.md "wikilink")。
   - 截至2019年，曾奪得最佳男主角及最佳男配角兩奬的共有2人，分別是木村拓哉和[豐川悅司](../Page/豐川悅司.md "wikilink")。
 
 ### 最佳女配角
 
   - 獲得最多次最佳女配角的演員為3度奪奬的[稻森泉](../Page/稻森泉.md "wikilink")。
-  - 截至2019年，有兩位女演員曾連續兩年獲獎，分別是[稻森泉](../Page/稻森泉.md "wikilink")
-    ([第6回及](https://zh.wikipedia.org/wiki/第6回TV_LIFE年度日劇大賞 "wikilink")[第7回](https://zh.wikipedia.org/wiki/第7回TV_LIFE年度日劇大賞 "wikilink"))；及[矢田亞希子](../Page/矢田亞希子.md "wikilink")
-    ([第13回及](https://zh.wikipedia.org/wiki/第13回TV_LIFE年度日劇大賞 "wikilink")[第14回](https://zh.wikipedia.org/wiki/第14回TV_LIFE年度日劇大賞 "wikilink"))。
+  - 截至2019年，有兩位女演員曾連續兩年獲獎，分別是[稻森泉](../Page/稻森泉.md "wikilink") ([第6回及](https://zh.wikipedia.org/wiki/第6回TV_LIFE年度日劇大賞 "wikilink")[第7回](https://zh.wikipedia.org/wiki/第7回TV_LIFE年度日劇大賞 "wikilink"))；及[矢田亞希子](../Page/矢田亞希子.md "wikilink") ([第13回及](https://zh.wikipedia.org/wiki/第13回TV_LIFE年度日劇大賞 "wikilink")[第14回](https://zh.wikipedia.org/wiki/第14回TV_LIFE年度日劇大賞 "wikilink"))。
   - 截至2019年，曾奪得最佳女主角及最佳女配角兩奬的共有7人，分別是：[酒井法子](https://zh.wikipedia.org/wiki/酒井法子 "wikilink")、[櫻井幸子](https://zh.wikipedia.org/wiki/櫻井幸子 "wikilink")、[山口智子](../Page/山口智子.md "wikilink")、[堀北真希](../Page/堀北真希.md "wikilink")、[新垣結衣](../Page/新垣結衣.md "wikilink")、[杏及](../Page/杏_\(演員\).md "wikilink")[石原聰美](../Page/石原聰美.md "wikilink")。
 
 ### 最佳新演員
 
   - 最年輕的得主為《[愛母罪](https://zh.wikipedia.org/wiki/愛母罪 "wikilink")》的[蘆田愛菜](../Page/蘆田愛菜.md "wikilink")，獲獎時只有6歲。
   - 截至2019年：
-      - 同屆獲得最佳女主角及最佳新演員有兩位，分別是[志田未來](../Page/志田未來.md "wikilink")
-        ([第16回](../Page/第16回TV_LIFE年度日劇大賞.md "wikilink")《[14歲媽媽](../Page/14歲媽媽.md "wikilink")》)，及[能年玲奈](../Page/能年玲奈.md "wikilink")
-        ([第23回](../Page/第23回TV_LIFE年度日劇大賞.md "wikilink")《[小海女](https://zh.wikipedia.org/wiki/小海女 "wikilink")》)
-      - 同屆獲得最佳男配角及最佳新演員有兩位，分別是[鈴木福](../Page/鈴木福.md "wikilink")
-        ([第21回](../Page/第21回TV_LIFE年度日劇大賞.md "wikilink")《[妖怪人間](https://zh.wikipedia.org/wiki/妖怪人間 "wikilink")》)，及[窪田正孝](https://zh.wikipedia.org/wiki/窪田正孝 "wikilink")
-        ([第24回](../Page/第24回TV_LIFE年度日劇大賞.md "wikilink")《[為了N](../Page/為了N.md "wikilink")》、《[花子與安妮](../Page/花子與安妮.md "wikilink")》)
+      - 同屆獲得最佳女主角及最佳新演員有兩位，分別是[志田未來](../Page/志田未來.md "wikilink") ([第16回](../Page/第16回TV_LIFE年度日劇大賞.md "wikilink")《[14歲媽媽](../Page/14歲媽媽.md "wikilink")》)，及[能年玲奈](../Page/能年玲奈.md "wikilink") ([第23回](../Page/第23回TV_LIFE年度日劇大賞.md "wikilink")《[小海女](https://zh.wikipedia.org/wiki/小海女 "wikilink")》)
+      - 同屆獲得最佳男配角及最佳新演員有兩位，分別是[鈴木福](../Page/鈴木福.md "wikilink") ([第21回](../Page/第21回TV_LIFE年度日劇大賞.md "wikilink")《[妖怪人間](https://zh.wikipedia.org/wiki/妖怪人間 "wikilink")》)，及[窪田正孝](https://zh.wikipedia.org/wiki/窪田正孝 "wikilink") ([第24回](../Page/第24回TV_LIFE年度日劇大賞.md "wikilink")《[為了N](../Page/為了N.md "wikilink")》、《[花子與安妮](../Page/花子與安妮.md "wikilink")》)
 
 ### 最佳主題曲
 
-  - [嵐在此獎項創下最多紀錄](../Page/嵐.md "wikilink")，其中包括：
+  - [嵐](../Page/嵐.md "wikilink")在此獎項創下最多紀錄，其中包括：
       - 獲獎最多，一共10次，佔整體三分之一
       - 連續獲獎最多，由2010年開始，已連續9年獲得主題曲獎
-      - 主題曲所屬之劇集，均與同屆的最佳男主角得主(即[嵐的成員](../Page/嵐.md "wikilink"))所演出的劇集相同
-      - 得獎歌曲之中，以嵐的隊長[大野智所主演的劇集主題曲獲得最多](../Page/大野智.md "wikilink")，一共5首
+      - 主題曲所屬之劇集，均與同屆的最佳男主角得主(即[嵐](../Page/嵐.md "wikilink")的成員)所演出的劇集相同
+      - 得獎歌曲之中，以嵐的隊長[大野智](../Page/大野智.md "wikilink")所主演的劇集主題曲獲得最多，一共5首
 
 ## 歷屆得獎名單
 
@@ -729,7 +723,7 @@
 <td><p><a href="../Page/山下智久.md" title="wikilink">山下智久</a> (2)<br />
 <small>《<a href="../Page/我命中注定的人.md" title="wikilink">我命中注定的人</a>》</small></p></td>
 <td><p><a href="../Page/新垣結衣.md" title="wikilink">新垣結衣</a> (2)<br />
-<small>《<a href="../Page/空中急診英雄.md" title="wikilink">空中急診英雄3</a>》</small></p></td>
+<small>《<a href="../Page/空中急診英雄.md" title="wikilink">空中急診英雄</a>3》</small></p></td>
 <td><p><br />
 <small>《<a href="https://zh.wikipedia.org/wiki/外貌協會100%25" title="wikilink">外貌協會100%25</a>》</small></p></td>
 <td><p>《I'll be there》- <a href="../Page/嵐.md" title="wikilink">嵐</a><br />
@@ -766,12 +760,8 @@
 
   - [TV LIFE年度日劇大賞](http://www.tvlife.jp/dramaaward)
 
-[Category:TV_LIFE年度日劇大賞](https://zh.wikipedia.org/wiki/Category:TV_LIFE年度日劇大賞 "wikilink")
-[Category:日本电视奖项](https://zh.wikipedia.org/wiki/Category:日本电视奖项 "wikilink")
+[Category:TV_LIFE年度日劇大賞](https://zh.wikipedia.org/wiki/Category:TV_LIFE年度日劇大賞 "wikilink") [Category:日本电视奖项](https://zh.wikipedia.org/wiki/Category:日本电视奖项 "wikilink")
 
-1.  [TV
-    LIFE年間ドラマ大賞 1990年代(1991年～1999年)](http://entamedata.web.fc2.com/tv2/dorama_award1990.html)
-2.  [TV
-    LIFE年間ドラマ大賞 2000年代(2000年～2009年)](http://entamedata.web.fc2.com/tv2/dorama_award2000.html)
-3.  [TV
-    LIFE年間ドラマ大賞 2010年代(2010年～)](http://entamedata.web.fc2.com/tv2/dorama_award2010.html)
+1.  [TV LIFE年間ドラマ大賞 1990年代(1991年～1999年)](http://entamedata.web.fc2.com/tv2/dorama_award1990.html)
+2.  [TV LIFE年間ドラマ大賞 2000年代(2000年～2009年)](http://entamedata.web.fc2.com/tv2/dorama_award2000.html)
+3.  [TV LIFE年間ドラマ大賞 2010年代(2010年～)](http://entamedata.web.fc2.com/tv2/dorama_award2010.html)

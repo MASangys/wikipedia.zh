@@ -75,6 +75,4 @@
 
 [Category:美國音樂專輯](https://zh.wikipedia.org/wiki/Category:美國音樂專輯 "wikilink")
 
-1.   Rolling Stone Music {{\!}} Lists"|last=|first=|publisher=Rolling
-    Stone. 2012. Retrieved January 22,
-    2016.|year=|isbn=|location=|pages=}}
+1.   Rolling Stone Music {{\!}} Lists"|last=|first=|publisher=Rolling Stone. 2012. Retrieved January 22, 2016.|year=|isbn=|location=|pages=}}

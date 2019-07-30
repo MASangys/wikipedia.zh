@@ -12,6 +12,4 @@
 |     <small>2015</small>      |  <small>疼妳</small>  |         \-          |
 | <small>Unforgettable</small> |         \-          |         \-          |
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
-[Category:蔚雨芯音樂專輯](https://zh.wikipedia.org/wiki/Category:蔚雨芯音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:蔚雨芯音樂專輯](https://zh.wikipedia.org/wiki/Category:蔚雨芯音樂專輯 "wikilink")

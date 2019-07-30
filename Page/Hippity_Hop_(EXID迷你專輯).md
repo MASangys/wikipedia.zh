@@ -1,15 +1,12 @@
-《**Hippity
-Hop**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[EXID首張迷你專輯](https://zh.wikipedia.org/wiki/EXID "wikilink")，於2012年8月13日發行。
+《**Hippity Hop**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[EXID首張迷你專輯](https://zh.wikipedia.org/wiki/EXID "wikilink")，於2012年8月13日發行。
 
 ## 簡介
 
-2012年4月30日，EXID所屬經紀公司AB娛樂（2014年更名為Gamgak娛樂）表示，成員多美、有智及海嶺因其他因素而退出組合，剩下的三名成員[LE](https://zh.wikipedia.org/wiki/安孝珍 "wikilink")、[哈妮](https://zh.wikipedia.org/wiki/安喜延 "wikilink")、[正花將與另外加入的兩名新成員](../Page/正花.md "wikilink")，以全新的五人之姿活動\[1\]。7月31日，於官方SNS公開兩名新成員[率智及](../Page/率智.md "wikilink")[慧潾的概念照](https://zh.wikipedia.org/wiki/徐慧潾 "wikilink")\[2\]並表示將於8月回歸\[3\]。8月6日，正式宣佈將於8月13日推出首張迷你專輯回歸樂壇\[4\]，此次的回歸是EXID以全新陣容首次亮相。成員LE參與此次專輯多首歌曲詞曲創作。
+2012年4月30日，EXID所屬經紀公司AB娛樂（2014年更名為Gamgak娛樂）表示，成員多美、有智及海嶺因其他因素而退出組合，剩下的三名成員[LE](https://zh.wikipedia.org/wiki/安孝珍 "wikilink")、[哈妮](https://zh.wikipedia.org/wiki/安喜延 "wikilink")、[正花](../Page/正花.md "wikilink")將與另外加入的兩名新成員，以全新的五人之姿活動\[1\]。7月31日，於官方SNS公開兩名新成員[率智](../Page/率智.md "wikilink")及[慧潾的概念照](https://zh.wikipedia.org/wiki/徐慧潾 "wikilink")\[2\]並表示將於8月回歸\[3\]。8月6日，正式宣佈將於8月13日推出首張迷你專輯回歸樂壇\[4\]，此次的回歸是EXID以全新陣容首次亮相。成員LE參與此次專輯多首歌曲詞曲創作。
 
 ## 概要
 
-  - 〈I Feel
-    Good〉為此張專輯的主打曲目，於2012年8月17日以[KBS音樂節目](https://zh.wikipedia.org/wiki/KBS "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》舉行首次復出舞台，9月13日以[Mnet音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
-    Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》為最後的舞台後結束宣傳期。
+  - 〈I Feel Good〉為此張專輯的主打曲目，於2012年8月17日以[KBS音樂節目](https://zh.wikipedia.org/wiki/KBS "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》舉行首次復出舞台，9月13日以[Mnet音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》為最後的舞台後結束宣傳期。
 
 ## 曲目
 
@@ -136,9 +133,7 @@ Hop**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音�
 
   -
 
-[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:EXID音樂專輯](https://zh.wikipedia.org/wiki/Category:EXID音樂專輯 "wikilink")
+[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:EXID音樂專輯](https://zh.wikipedia.org/wiki/Category:EXID音樂專輯 "wikilink")
 
 1.
 2.

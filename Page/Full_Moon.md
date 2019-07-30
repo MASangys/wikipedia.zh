@@ -1,21 +1,18 @@
-《**Full
-Moon**》是前[韓國組合](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Wonder
-Girls成員](../Page/Wonder_Girls.md "wikilink")[李善美的首張迷你專輯](https://zh.wikipedia.org/wiki/李善美 "wikilink")，於2014年2月17日發行，主打曲為〈滿月〉。
+《**Full Moon**》是前[韓國組合](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Wonder Girls成員](../Page/Wonder_Girls.md "wikilink")[李善美的首張迷你專輯](https://zh.wikipedia.org/wiki/李善美 "wikilink")，於2014年2月17日發行，主打曲為〈滿月〉。
 
 ## 發行歷程
 
 2013年8月26日，善美以單曲《[24小時也不夠](../Page/24小時也不夠.md "wikilink")》Solo出道。\[1\]
 
-2014年1月31日，宣布善美預計於2月17日攜首張迷你專輯回歸歌壇\[2\]\[3\]\[4\]\[5\]。2月6日，公開專輯預告\[6\]。2月10日，公開專輯曲目，收錄歌曲包括其出道單曲《[24小時也不夠](../Page/24小時也不夠.md "wikilink")》，同時公開專輯客串陣容，包括[Wonder
-Girls成員](../Page/Wonder_Girls.md "wikilink")[婑斌及](https://zh.wikipedia.org/wiki/婑斌 "wikilink")[譽恩](https://zh.wikipedia.org/wiki/譽恩 "wikilink")、[GOT7成員](../Page/GOT7.md "wikilink")[Jackson以及JYP娛樂旗下練習生朴Lena](../Page/王嘉爾.md "wikilink")\[7\]。2月17日，專輯正式發行。\[8\]
+2014年1月31日，宣布善美預計於2月17日攜首張迷你專輯回歸歌壇\[2\]\[3\]\[4\]\[5\]。2月6日，公開專輯預告\[6\]。2月10日，公開專輯曲目，收錄歌曲包括其出道單曲《[24小時也不夠](../Page/24小時也不夠.md "wikilink")》，同時公開專輯客串陣容，包括[Wonder Girls成員](../Page/Wonder_Girls.md "wikilink")[婑斌及](https://zh.wikipedia.org/wiki/婑斌 "wikilink")[譽恩](https://zh.wikipedia.org/wiki/譽恩 "wikilink")、[GOT7](../Page/GOT7.md "wikilink")成員[Jackson以及JYP娛樂旗下練習生朴Lena](../Page/王嘉爾.md "wikilink")\[7\]。2月17日，專輯正式發行。\[8\]
 
 ## 歌曲
 
 專輯共收錄6首歌曲：
 
-  - **滿月**：由[勇敢兄弟製作](../Page/勇敢兄弟.md "wikilink")，將[黃銅及](https://zh.wikipedia.org/wiki/黃銅 "wikilink")[吉他的聲音作為主軸](../Page/吉他.md "wikilink")，以「滿月」比喻愛情，音樂錄影帶則講述吸血鬼少女在滿月之後等待愛情的故事。
+  - **滿月**：由[勇敢兄弟](../Page/勇敢兄弟.md "wikilink")製作，將[黃銅及](https://zh.wikipedia.org/wiki/黃銅 "wikilink")[吉他](../Page/吉他.md "wikilink")的聲音作為主軸，以「滿月」比喻愛情，音樂錄影帶則講述吸血鬼少女在滿月之後等待愛情的故事。
   - **[24小時也不夠](../Page/24小時也不夠.md "wikilink")**：本曲是善美的個人出道單曲。
-  - **停止了的時間**：由[GOT7的](../Page/GOT7.md "wikilink")[Jackson參與本曲的](../Page/王嘉爾.md "wikilink")[饒舌](../Page/饒舌.md "wikilink")。
+  - **停止了的時間**：由[GOT7](../Page/GOT7.md "wikilink")的[Jackson參與本曲的](../Page/王嘉爾.md "wikilink")[饒舌](../Page/饒舌.md "wikilink")。
   - **如果那就是你**：與譽恩合唱之版本，僅收錄於實體專輯中。
 
 ## 曲目
@@ -122,14 +119,10 @@ Girls成員](../Page/Wonder_Girls.md "wikilink")[婑斌及](https://zh.wikipedia
 
 ## 引用資料
 
-[Category:Wonder_Girls音樂專輯](https://zh.wikipedia.org/wiki/Category:Wonder_Girls音樂專輯 "wikilink")
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2014年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon數位下載週榜冠軍作品 "wikilink")
+[Category:Wonder_Girls音樂專輯](https://zh.wikipedia.org/wiki/Category:Wonder_Girls音樂專輯 "wikilink") [Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2014年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon數位下載週榜冠軍作品 "wikilink")
 
 1.
-2.
-    allkpop.com|url=[https://www.allkpop.com/article/2014/01/sunmi-to-make-comeback-with-first-mini-album-in-february|website=allkpop|accessdate=2018-01-19|language=en|date=2014-01-31](https://www.allkpop.com/article/2014/01/sunmi-to-make-comeback-with-first-mini-album-in-february%7Cwebsite=allkpop%7Caccessdate=2018-01-19%7Clanguage=en%7Cdate=2014-01-31)}}
+2.   allkpop.com|url=[https://www.allkpop.com/article/2014/01/sunmi-to-make-comeback-with-first-mini-album-in-february|website=allkpop|accessdate=2018-01-19|language=en|date=2014-01-31](https://www.allkpop.com/article/2014/01/sunmi-to-make-comeback-with-first-mini-album-in-february%7Cwebsite=allkpop%7Caccessdate=2018-01-19%7Clanguage=en%7Cdate=2014-01-31)}}
 3.
 4.
 5.

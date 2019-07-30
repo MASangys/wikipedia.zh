@@ -1,16 +1,10 @@
 -----
 
-\-- Module:Rfx -- -- This is a library for retrieving information about
-requests -- -- for adminship and requests for bureaucratship on the
-English -- -- Wikipedia. Please see the module documentation for
-instructions. --
+\-- Module:Rfx -- -- This is a library for retrieving information about requests -- -- for adminship and requests for bureaucratship on the English -- -- Wikipedia. Please see the module documentation for instructions. --
 
 -----
 
-local libraryUtil = require('libraryUtil') local lang =
-mw.getContentLanguage() local textSplit = mw.text.split local umatch =
-mw.ustring.match local newTitle = mw.title.new local validSignPrefixes =
-{
+local libraryUtil = require('libraryUtil') local lang = mw.getContentLanguage() local textSplit = mw.text.split local umatch = mw.ustring.match local newTitle = mw.title.new local validSignPrefixes = {
 
 `   ['u']=1, ['user']=1, ['用户']=1, ['用戶']=1,`
 `   ['ut']=1, ['user talk']=1, ['用户讨论']=1, ['用戶討論']=1,`

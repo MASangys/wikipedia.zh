@@ -1,6 +1,4 @@
-《**She
-is**》（），是韓國男子組合[SHINee成員](../Page/SHINee.md "wikilink")[金鐘鉉首張韓語正規專輯](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")，在2016年5月24日由SM娛樂製作、KT
-Music發行\[1\]，主打曲目為《喜歡》（）。
+《**She is**》（），是韓國男子組合[SHINee](../Page/SHINee.md "wikilink")成員[金鐘鉉首張韓語正規專輯](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")，在2016年5月24日由SM娛樂製作、KT Music發行\[1\]，主打曲目為《喜歡》（）。
 
 ## 曲目\[2\]
 
@@ -83,7 +81,7 @@ Music發行\[1\]，主打曲目為《喜歡》（）。
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置    | 銷售量   | 總銷量    | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置    | 銷售量   | 總銷量    | 停留時間 |
 | ---------------------------------------- | ------- | ----- | ------ | ---- |
 | 專輯週榜                                     | 21\[6\] | 3,279 | 4,714+ | 2星期  |
 
@@ -148,10 +146,7 @@ Music發行\[1\]，主打曲目為《喜歡》（）。
 ## 外部連結
 
   -
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:鐘鉉音樂專輯](https://zh.wikipedia.org/wiki/Category:鐘鉉音樂專輯 "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:鐘鉉音樂專輯](https://zh.wikipedia.org/wiki/Category:鐘鉉音樂專輯 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 

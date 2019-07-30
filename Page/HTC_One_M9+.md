@@ -1,13 +1,4 @@
-**HTC One
-M9+**是[台灣手機公司](https://zh.wikipedia.org/wiki/台湾 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏达电 "wikilink")2015年所開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")，属於[HTC
-One
-系列中的高階旗艦機型](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")，運行最新的[Android](../Page/Android.md "wikilink")[5.0
-Lollipop操作系统](../Page/Android_Lollipop.md "wikilink")，競爭對手為[Samsung
-Galaxy S6
-edge+](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S6_edge+ "wikilink")、[LG
-V10](https://zh.wikipedia.org/wiki/LG_V10 "wikilink")、[Sony Xperia Z5
-Premium](../Page/Sony_Xperia_Z5_Premium.md "wikilink")、[Apple iPhone 6s
-Plus](https://zh.wikipedia.org/wiki/iPhone_6s "wikilink")。
+**HTC One M9+**是[台灣手機公司](https://zh.wikipedia.org/wiki/台湾 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏达电 "wikilink")2015年所開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")，属於[HTC One 系列中的高階旗艦機型](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")，運行最新的[Android](../Page/Android.md "wikilink")[5.0 Lollipop操作系统](../Page/Android_Lollipop.md "wikilink")，競爭對手為[Samsung Galaxy S6 edge+](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S6_edge+ "wikilink")、[LG V10](https://zh.wikipedia.org/wiki/LG_V10 "wikilink")、[Sony Xperia Z5 Premium](../Page/Sony_Xperia_Z5_Premium.md "wikilink")、[Apple iPhone 6s Plus](https://zh.wikipedia.org/wiki/iPhone_6s "wikilink")。
 
 ## 簡介
 
@@ -18,8 +9,7 @@ Plus](https://zh.wikipedia.org/wiki/iPhone_6s "wikilink")。
   - 與M9相同主打全金屬機身（M7約為70%、M8約90%），過去機種的的雙前置喇叭為金屬風格貼片，本次改由金屬框製成。
   - 相機延續先前的雙鏡頭，也將400萬像素的UltraPixel移至前鏡頭，主鏡頭換成東芝的2000萬畫素感光元件。
   - 為提升外放音效，兩個喇叭從過去各放一個單體提升到兩個單體，且略增大喇叭孔來降低失真。
-  - HTC新SENSE
-    7加入更多個人化的應用，可以依據地點推薦餐廳、依據工作或上班地點自動更換所需APP、自動更換桌布圖片來形成主題等\[1\]。
+  - HTC新SENSE 7加入更多個人化的應用，可以依據地點推薦餐廳、依據工作或上班地點自動更換所需APP、自動更換桌布圖片來形成主題等\[1\]。
   - 增加螢幕下方指紋辨識鈕，兼具Home鍵功能。
 
 <!-- end list -->
@@ -229,8 +219,7 @@ F2.0 大光圈、等效焦距 26.8mm 超廣角鏡頭、具備 HDR 功能、1080p
 ## 参见
 
   - [HTC One M9](../Page/HTC_One_M9.md "wikilink") ·
-  - [HTC One
-    系列](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")
+  - [HTC One 系列](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")
   - [宏達國際電子手機列表](https://zh.wikipedia.org/wiki/宏达国际电子手机列表 "wikilink")
 
 ## 参考资料
@@ -238,14 +227,9 @@ F2.0 大光圈、等效焦距 26.8mm 超廣角鏡頭、具備 HDR 功能、1080p
 ## 外部連結
 
   - [HTC One M9+](http://www.htc.com/tw/smartphones/htc-one-m9-plus/)
-  - [HTC One
-    M9+（光學防手震極速對焦）](http://www.htc.com/tw/smartphones/htc-one-m9-plus-supreme-camera/)
+  - [HTC One M9+（光學防手震極速對焦）](http://www.htc.com/tw/smartphones/htc-one-m9-plus-supreme-camera/)
 
-[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
+[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
 
 1.
 2.

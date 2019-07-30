@@ -1,7 +1,6 @@
-《**SEVENTEEN
-美好的一天**》（）是韓國[MBC電視台的綜藝節目](https://zh.wikipedia.org/wiki/MBC "wikilink")，由[SEVENTEEN出演](../Page/Seventeen_\(組合\).md "wikilink")。製作單位讓[SEVENTEEN全員自給自足生活](../Page/Seventeen_\(組合\).md "wikilink")，記錄生存過程的真人秀綜藝節目。\[1\]
+《**SEVENTEEN 美好的一天**》（）是韓國[MBC電視台的綜藝節目](https://zh.wikipedia.org/wiki/MBC "wikilink")，由[SEVENTEEN出演](../Page/Seventeen_\(組合\).md "wikilink")。製作單位讓[SEVENTEEN全員自給自足生活](../Page/Seventeen_\(組合\).md "wikilink")，記錄生存過程的真人秀綜藝節目。\[1\]
 
-第一季標題為《13少年漂流記》（），成員前往位在[全羅南道的](../Page/全羅南道.md "wikilink")，進行為期五天的島上生活。
+第一季標題為《13少年漂流記》（），成員前往位在[全羅南道](../Page/全羅南道.md "wikilink")的，進行為期五天的島上生活。
 
 第二季於2017年公開，標題為《13少年旅遊大亨》（），成為《美好的一天》節目史上第一組再次出演的藝人。
 
@@ -40,14 +39,9 @@
 
 ## 外部連結
 
-  - [MBC MUSIC SEVENTEEN 美好的一天
-    Twitter](https://twitter.com/mbcmusic_13boys)
-  - [MBC MUSIC SEVENTEEN 美好的一天
-    IG](https://www.instagram.com/mbcmusic_13boys/)
+  - [MBC MUSIC SEVENTEEN 美好的一天 Twitter](https://twitter.com/mbcmusic_13boys)
+  - [MBC MUSIC SEVENTEEN 美好的一天 IG](https://www.instagram.com/mbcmusic_13boys/)
 
-[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Seventeen](https://zh.wikipedia.org/wiki/Category:Seventeen "wikilink")
+[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Seventeen](https://zh.wikipedia.org/wiki/Category:Seventeen "wikilink")
 
 1.  <http://www.koreastardaily.com/tc/photo/74818>

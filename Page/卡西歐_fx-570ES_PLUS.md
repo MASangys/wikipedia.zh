@@ -1,18 +1,14 @@
 **卡西歐 fx-570ES PLUS**是一款由卡西歐推出的科學函數計算器，為卡西歐 fx-570ES的改進型號。
 
-本型號與[卡西歐 fx-991ES
-PLUS功能完全相同](../Page/卡西歐_fx-991ES_PLUS.md "wikilink")，僅為供電方式、尺寸和質量的分別。fx-991ES
-PLUS使用內置的大陽能電池以及一粒LR44電池，尺寸較小而質量較小。本型號使用一粒AAA電池，尺寸較大而質量較大。
+本型號與[卡西歐 fx-991ES PLUS功能完全相同](../Page/卡西歐_fx-991ES_PLUS.md "wikilink")，僅為供電方式、尺寸和質量的分別。fx-991ES PLUS使用內置的大陽能電池以及一粒LR44電池，尺寸較小而質量較小。本型號使用一粒AAA電池，尺寸較大而質量較大。
 
 [Fx-570es_plus-2.jpg](https://zh.wikipedia.org/wiki/File:Fx-570es_plus-2.jpg "fig:Fx-570es_plus-2.jpg")
 
 ## 歷史
 
   -
-    fx-570ES PLUS 的前身，fx-570ES，於2000年代中上市。該計算器並不太普及，而其姊妹型號,fx-991ES
-    銷量更好。
-    fx-570ES PLUS 於2000年代末上市，功能有所改進，而 fx-570ES 亦逐漸退出了市場。但至今，fx-570ES
-    PLUS 的流行程度仍不及fx-991ES PLUS。
+    fx-570ES PLUS 的前身，fx-570ES，於2000年代中上市。該計算器並不太普及，而其姊妹型號,fx-991ES 銷量更好。
+    fx-570ES PLUS 於2000年代末上市，功能有所改進，而 fx-570ES 亦逐漸退出了市場。但至今，fx-570ES PLUS 的流行程度仍不及fx-991ES PLUS。
 
 ## 計算模式
 
@@ -55,7 +51,6 @@ PLUS使用內置的大陽能電池以及一粒LR44電池，尺寸較小而質量
 
 ## 參考資料
 
-[fx-570 ES PLUS fx-991ES PLUS
-用戶說明書](http://support.casio.com/storage/tw/manual/pdf/TW/004/fx-570_991ES_PLUS_TW.pdf%7C卡西歐)
+[fx-570 ES PLUS fx-991ES PLUS 用戶說明書](http://support.casio.com/storage/tw/manual/pdf/TW/004/fx-570_991ES_PLUS_TW.pdf%7C卡西歐)
 
 [Category:卡西歐計算機](https://zh.wikipedia.org/wiki/Category:卡西歐計算機 "wikilink")

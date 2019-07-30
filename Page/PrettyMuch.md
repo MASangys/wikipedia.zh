@@ -1,5 +1,4 @@
-PrettyMuch
-(風格化為**PRETTYMUCH**)是一個[美](https://zh.wikipedia.org/wiki/美國 "wikilink")[加](../Page/加拿大.md "wikilink")[流行](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，是由[英國唱片製作人](https://zh.wikipedia.org/wiki/英國 "wikilink")[西蒙·高維爾於](../Page/西蒙·高維爾.md "wikilink")2016年推出的男子組合，官方粉絲名稱為BEANZ\[1\]\[2\]。現為[賽科音樂和](https://zh.wikipedia.org/wiki/賽科音樂 "wikilink")[哥倫比亞唱片旗下藝人](https://zh.wikipedia.org/wiki/哥倫比亞唱片 "wikilink")。
+PrettyMuch (風格化為**PRETTYMUCH**)是一個[美](https://zh.wikipedia.org/wiki/美國 "wikilink")[加](../Page/加拿大.md "wikilink")[流行](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，是由[英國唱片製作人](https://zh.wikipedia.org/wiki/英國 "wikilink")[西蒙·高維爾](../Page/西蒙·高維爾.md "wikilink")於2016年推出的男子組合，官方粉絲名稱為BEANZ\[1\]\[2\]。現為[賽科音樂和](https://zh.wikipedia.org/wiki/賽科音樂 "wikilink")[哥倫比亞唱片旗下藝人](https://zh.wikipedia.org/wiki/哥倫比亞唱片 "wikilink")。
 
 ## 成員列表
 
@@ -267,8 +266,7 @@ Brandon Michael Lee Arreaga</p></td>
 
 #### PrettyMuch 無處不在巡迴演唱會
 
-PrettyMuch 無處不在巡迴演唱會
-()是PrettyMuch與[Fujifilm在](https://zh.wikipedia.org/wiki/富士膠片 "wikilink")2018年合作的巡迴演唱會，一共有九場演出。\[24\]
+PrettyMuch 無處不在巡迴演唱會 ()是PrettyMuch與[Fujifilm在](https://zh.wikipedia.org/wiki/富士膠片 "wikilink")2018年合作的巡迴演唱會，一共有九場演出。\[24\]
 
 **場次**
 
@@ -409,10 +407,7 @@ PrettyMuch 無處不在巡迴演唱會
 
 ## 參考資料
 
-[Category:男子演唱團體](https://zh.wikipedia.org/wiki/Category:男子演唱團體 "wikilink")
-[Category:美國男子演唱團體](https://zh.wikipedia.org/wiki/Category:美國男子演唱團體 "wikilink")
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:哥倫比亞唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:哥倫比亞唱片旗下藝人 "wikilink")
+[Category:男子演唱團體](https://zh.wikipedia.org/wiki/Category:男子演唱團體 "wikilink") [Category:美國男子演唱團體](https://zh.wikipedia.org/wiki/Category:美國男子演唱團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:哥倫比亞唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:哥倫比亞唱片旗下藝人 "wikilink")
 
 1.
 2.

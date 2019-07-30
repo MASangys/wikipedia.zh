@@ -765,7 +765,7 @@ vs<br />
 沒有隊伍</p></td>
 <td><p>到達最終場所並撕掉一名成員的姓名牌</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a><strong>勝出</strong><br />
-獲得特級<a href="../Page/金.md" title="wikilink">金徽章兩個及</a><a href="../Page/匈牙利.md" title="wikilink">匈牙利餐券</a>，但由於金鐘國遺失了特級金徽章，所以它將放置於下一期並由該勝出隊伍獲得[26]</p></td>
+獲得特級<a href="../Page/金.md" title="wikilink">金</a>徽章兩個及<a href="../Page/匈牙利.md" title="wikilink">匈牙利</a>餐券，但由於金鐘國遺失了特級金徽章，所以它將放置於下一期並由該勝出隊伍獲得[26]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -812,7 +812,7 @@ vs<br />
 <span style=color:#008000>李光洙、李美珠</strong></p></td>
 <td><p>擊敗其餘的隊伍</p></td>
 <td><p>Gary、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a><strong>勝出</strong><br />
-獲得<a href="../Page/金.md" title="wikilink">金徽章及</a><a href="../Page/金.md" title="wikilink">金后冠</a>[28]</p></td>
+獲得<a href="../Page/金.md" title="wikilink">金</a>徽章及<a href="../Page/金.md" title="wikilink">金</a>后冠[28]</p></td>
 </tr>
 <tr class="odd">
 <td><p>265</p></td>
@@ -1103,7 +1103,7 @@ vs<br />
 <span style=color:#FF1493>宋智孝、李光洙</p></td>
 <td><p>前四名找到兩個金箱子</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、<a href="../Page/張度練.md" title="wikilink">張度練</a>，Gary、<a href="../Page/珉豪.md" title="wikilink">珉豪</a>，<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a>、<a href="https://zh.wikipedia.org/wiki/金俊鉉" title="wikilink">金俊鉉</a>，<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/李光洙.md" title="wikilink">李光洙</a><strong>勝出</strong><br />
-劉在錫、徐智慧，池錫辰、梁世燦需要通過最終測試，由於池錫辰、梁世燦擁有炸彈箱子，所以須接受面粉炸彈懲罰[34]</p></td>
+劉在錫、徐智慧，池錫辰、梁世燦經最終測試後由擁有炸彈箱子的池錫辰、梁世燦接受麵粉炸彈懲罰[[34]</p></td>
 </tr>
 <tr class="even">
 <td><p>275</p></td>
@@ -1269,8 +1269,7 @@ Gary獲得由Running Man成員們贈送的紀念品[36]</p></td>
 
 ## 收视率
 
-以下紀錄《**Running
-Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink")》整體收視，<span style=color:red>**紅色**</span>表示為該年度最高收視率，<span style=color:blue>**藍色**</span>則表示為該年度最低收視率。
+以下紀錄《**Running Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink")》整體收視，<span style=color:red>**紅色**</span>表示為該年度最高收視率，<span style=color:blue>**藍色**</span>則表示為該年度最低收視率。
 
 <table>
 <thead>
@@ -1640,50 +1639,45 @@ Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink
   -
   -
   -
-[Category:Running_Man](https://zh.wikipedia.org/wiki/Category:Running_Man "wikilink")
-[Category:韓國電視節目各集列表](https://zh.wikipedia.org/wiki/Category:韓國電視節目各集列表 "wikilink")
-[Category:2016年電視節目列表](https://zh.wikipedia.org/wiki/Category:2016年電視節目列表 "wikilink")
+[Category:Running_Man](https://zh.wikipedia.org/wiki/Category:Running_Man "wikilink") [Category:韓國電視節目各集列表](https://zh.wikipedia.org/wiki/Category:韓國電視節目各集列表 "wikilink") [Category:2016年電視節目列表](https://zh.wikipedia.org/wiki/Category:2016年電視節目列表 "wikilink")
 
 1.
 2.
-3.  [林智妍於本集以嘉賓主持身份出演](../Page/林智妍.md "wikilink")。
+3.  [林智妍](../Page/林智妍.md "wikilink")於本集以嘉賓主持身份出演。
 4.
 5.  金泰映、金東進、金在成、丁一宇、韓國榮只參演第283集。
 6.  概念來自電影《[暗殺](https://zh.wikipedia.org/wiki/暗殺_\(2015年電影\) "wikilink")》
 7.  特別出演。
 8.  概念來自電影《[高年級實習生](https://zh.wikipedia.org/wiki/高年級實習生 "wikilink")》。
-9.  [金信英驚喜聲演](../Page/金信英.md "wikilink")。
+9.  [金信英](../Page/金信英.md "wikilink")驚喜聲演。
 10. 金炳俊（教授）、金鐘明（金鐘國哥哥）特別出演。
-11. [金泰希驚喜聲演](../Page/金泰希.md "wikilink")，本集為[Lizzy離隊後首次以嘉賓身份參與錄影](https://zh.wikipedia.org/wiki/朴修映 "wikilink")。
+11. [金泰希](../Page/金泰希.md "wikilink")驚喜聲演，本集為[Lizzy離隊後首次以嘉賓身份參與錄影](https://zh.wikipedia.org/wiki/朴修映 "wikilink")。
 12. 概念來自[2016年韓國國會選舉](https://zh.wikipedia.org/wiki/2016年大韓民國國會選舉 "wikilink")，（）、[柳演錫](https://zh.wikipedia.org/wiki/柳演錫 "wikilink")、[徐玄](../Page/徐朱玄.md "wikilink")（[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")）、[朴寶劍](../Page/朴寶劍.md "wikilink")、[雪炫](https://zh.wikipedia.org/wiki/金雪炫 "wikilink")（[AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")）特別出演，[郭東延](../Page/郭東延.md "wikilink")、[柳俊烈](../Page/柳俊烈.md "wikilink")、[鄭恩地](../Page/鄭恩地.md "wikilink")（[Apink](../Page/Apink.md "wikilink")）驚喜聲演。
 13. 特別出演。
-14. [-{文熙俊}-](../Page/文熙俊.md "wikilink")（[H.O.T.](../Page/H.O.T..md "wikilink")）、[李枖原](../Page/李枖原.md "wikilink")、、[圭賢](../Page/圭賢.md "wikilink")（[Super
-    Junior](../Page/Super_Junior.md "wikilink")）、[朴敘俊特別出演](../Page/朴敘俊.md "wikilink")，[金昌完](../Page/金昌完.md "wikilink")、文-{}-熙俊媽媽驚喜聲演。
+14. [-{文熙俊}-](../Page/文熙俊.md "wikilink")（[H.O.T.](../Page/H.O.T..md "wikilink")）、[李枖原](../Page/李枖原.md "wikilink")、、[圭賢](../Page/圭賢.md "wikilink")（[Super Junior](../Page/Super_Junior.md "wikilink")）、[朴敘俊](../Page/朴敘俊.md "wikilink")特別出演，[金昌完](../Page/金昌完.md "wikilink")、文-{}-熙俊媽媽驚喜聲演。
 15. [李文世](../Page/李文世.md "wikilink")、[李承俊](../Page/李承俊.md "wikilink")、、[蔡煐引](../Page/蔡煐引.md "wikilink")、廉英姬老師、趙惠善（金鐘國媽媽）、慧珍（李光洙朋友）特別出演。
 16. 池錫辰、金鐘國於本集以女性角色身份參與錄影。
-17. [洪真英因行程關係而未能參與最終任務](../Page/洪真英.md "wikilink")。
-18. [防彈少年團特別出演](../Page/防彈少年團.md "wikilink")。
+17. [洪真英](../Page/洪真英.md "wikilink")因行程關係而未能參與最終任務。
+18. [防彈少年團](../Page/防彈少年團.md "wikilink")特別出演。
 19. TWICE全員只參與最終任務。
 20. 宣傳電影《[狩獵](../Page/狩獵_\(電影\).md "wikilink")》。
-21. 宋智孝、朴信惠和李聖經於本集以女神角色「神智孝」（갓지효）、「神信惠」（갓신혜） 、
-    和「神聖經」（갓성경）身份參與錄影，背部名牌上的名字亦有更改。
+21. 宋智孝、朴信惠和李聖經於本集以女神角色「神智孝」（갓지효）、「神信惠」（갓신혜） 、 和「神聖經」（갓성경）身份參與錄影，背部名牌上的名字亦有更改。
 22. 宣傳[SBS月火劇](../Page/SBS月火連續劇.md "wikilink")《[Doctors](../Page/Doctors.md "wikilink")》，金昭希（跆拳道選手）特別出演。
 23. 宣傳電影《Trick》，、、特別出演。
 24. 概念來自電視劇《[霹靂游龍](../Page/护滩使者.md "wikilink")》。
 25. 池錫辰於本集以女性角色身份參與錄影。
-26. [金濟東驚喜聲演](../Page/金濟東.md "wikilink")。
-27. 在八月期間，如果Running Man成員比賽期間違規（背叛或使用犯規手段阻止對方勝出）三次，該成員將會禁止拍攝Running
-    Man節目一日，、[韓惠軫](../Page/韓惠軫.md "wikilink")、、[金伊娜特別出演](../Page/金伊娜.md "wikilink")。
-28. [安吉強與他的兩名女兒特別出演](../Page/安吉強.md "wikilink")。
+26. [金濟東](../Page/金濟東.md "wikilink")驚喜聲演。
+27. 在八月期間，如果Running Man成員比賽期間違規（背叛或使用犯規手段阻止對方勝出）三次，該成員將會禁止拍攝Running Man節目一日，、[韓惠軫](../Page/韓惠軫.md "wikilink")、、[金伊娜](../Page/金伊娜.md "wikilink")特別出演。
+28. [安吉強](../Page/安吉強.md "wikilink")與他的兩名女兒特別出演。
 29. 宣傳[SBS月火劇](../Page/SBS月火連續劇.md "wikilink")《[月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink")》
 30. 概念來自電影《[釜山行](../Page/屍速列車.md "wikilink")》，[GOT7](../Page/GOT7.md "wikilink")、[孝琳](https://zh.wikipedia.org/wiki/金孝靜 "wikilink")（[SISTAR](../Page/SISTAR.md "wikilink")）特別出演。
 31. 、[朴詩妍](https://zh.wikipedia.org/wiki/朴詩妍 "wikilink")、[Mikey](https://zh.wikipedia.org/wiki/趙明翼 "wikilink")（[Turbo](../Page/Turbo_\(韓國男子團體\).md "wikilink")）、[Sleepy](https://zh.wikipedia.org/wiki/Sleepy "wikilink")（[Untouchable](https://zh.wikipedia.org/wiki/Untouchable_\(南韓組合\) "wikilink")）、、[韓昇延](../Page/韓昇延.md "wikilink")、[燦盛](../Page/黃燦盛.md "wikilink")（[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")）、[宋枝恩](../Page/宋枝恩.md "wikilink")（[Secret](../Page/Secret_\(組合\).md "wikilink")）、[林智妍](../Page/林智妍.md "wikilink")、[Crush](../Page/Crush_\(歌手\).md "wikilink")（VV:D）、[Mark](../Page/段宜恩.md "wikilink")、[珍榮](../Page/朴珍榮.md "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）、[李善彬](../Page/李善彬.md "wikilink")、[金昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")（[I.B.I](../Page/I.B.I.md "wikilink")）特別出演，[文瑾瑩](../Page/文瑾瑩.md "wikilink")、[鄭恩地](../Page/鄭恩地.md "wikilink")（[Apink](../Page/Apink.md "wikilink")）驚喜聲演。
-32. 宣傳舞台劇《黑鳥》，[宋在喜](../Page/宋在喜.md "wikilink")、、[沈志浩](../Page/沈志浩.md "wikilink")、[李莞](../Page/李莞.md "wikilink")、、[宋再臨](../Page/宋再臨.md "wikilink")、[金玟錫](https://zh.wikipedia.org/wiki/金玟錫 "wikilink")、[宋枝恩](../Page/宋枝恩.md "wikilink")（[Secret](../Page/Secret_\(組合\).md "wikilink")）、[孔昇延](https://zh.wikipedia.org/wiki/孔昇延 "wikilink")、[定延](../Page/定延.md "wikilink")（[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")）、[宇宙少女驚喜出演](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，[景收真驚喜聲演](../Page/景收真.md "wikilink")。概念來自遊戲《[精靈寶可夢GO](../Page/精靈寶可夢GO.md "wikilink")》。
+32. 宣傳舞台劇《黑鳥》，[宋在喜](../Page/宋在喜.md "wikilink")、、[沈志浩](../Page/沈志浩.md "wikilink")、[李莞](../Page/李莞.md "wikilink")、、[宋再臨](../Page/宋再臨.md "wikilink")、[金玟錫](https://zh.wikipedia.org/wiki/金玟錫 "wikilink")、[宋枝恩](../Page/宋枝恩.md "wikilink")（[Secret](../Page/Secret_\(組合\).md "wikilink")）、[孔昇延](https://zh.wikipedia.org/wiki/孔昇延 "wikilink")、[定延](../Page/定延.md "wikilink")（[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")）、[宇宙少女驚喜出演](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，[景收真](../Page/景收真.md "wikilink")驚喜聲演。概念來自遊戲《[精靈寶可夢GO](../Page/精靈寶可夢GO.md "wikilink")》。
 33. 特別出演。
 34. 概念來自電影《[阿凡達](https://zh.wikipedia.org/wiki/阿凡達 "wikilink")》
 35. 本集為[Gary最後一次以成員身份參與錄影](../Page/Gary_\(韓國歌手\).md "wikilink")。
 36. 本集為[Gary離隊後首次以嘉賓身份參與錄影](../Page/Gary_\(韓國歌手\).md "wikilink")。
 37. 宣傳電影《[哥哥](../Page/哥哥_\(電影\).md "wikilink")》。
-38. [金所泫於本集以嘉賓主持身份出演](../Page/金所泫.md "wikilink")。
+38. [金所泫](../Page/金所泫.md "wikilink")於本集以嘉賓主持身份出演。
 39. 由此週開始收視調查公司改為分別公佈星期天真好1部跟2部收視。
 40. 此週開始[MBC同時段播放新節目](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[隱秘而偉大](https://zh.wikipedia.org/wiki/隱秘而偉大_\(綜藝節目\) "wikilink")》，取代《[真正的男人](../Page/真正的男人.md "wikilink")》。

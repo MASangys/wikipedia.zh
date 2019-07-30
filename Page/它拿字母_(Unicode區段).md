@@ -1,4 +1,4 @@
-**它拿字母**是一個位於第一輔助平面的[Unicode區段](../Page/Unicode區段.md "wikilink")，其中收錄了[它拿字母字元共](../Page/它拿字母.md "wikilink")50個。這種字母主要用於拼寫[馬爾地夫官方語言](https://zh.wikipedia.org/wiki/馬爾地夫 "wikilink")[迪維希語](https://zh.wikipedia.org/wiki/迪維希語 "wikilink")，書寫方向由右向左。
+**它拿字母**是一個位於第一輔助平面的[Unicode區段](../Page/Unicode區段.md "wikilink")，其中收錄了[它拿字母](../Page/它拿字母.md "wikilink")字元共50個。這種字母主要用於拼寫[馬爾地夫官方語言](https://zh.wikipedia.org/wiki/馬爾地夫 "wikilink")[迪維希語](https://zh.wikipedia.org/wiki/迪維希語 "wikilink")，書寫方向由右向左。
 
 ## 歷史
 

@@ -1,6 +1,4 @@
-《**TABOO
-TATTOO－禁忌咒紋－**》（）是一部由真所作的漫畫作品，於2010年1月開始在[KADOKAWA的](../Page/KADOKAWA.md "wikilink")[月刊Comic
-Alive上連載](../Page/月刊Comic_Alive.md "wikilink")。
+《**TABOO TATTOO－禁忌咒紋－**》（）是一部由真所作的漫畫作品，於2010年1月開始在[KADOKAWA](../Page/KADOKAWA.md "wikilink")的[月刊Comic Alive上連載](../Page/月刊Comic_Alive.md "wikilink")。
 
 2015年1月宣佈動畫化，於2016年7月4日開播\[1\]。
 
@@ -175,8 +173,7 @@ Alive上連載](../Page/月刊Comic_Alive.md "wikilink")。
 ### 主題曲
 
   - 片頭曲「Belief」
-    作詞：空谷泉身，作曲：KENT / TOMOYA (SALTY
-    DOG)，編曲：高橋浩一郎（onetrap），主唱：[May'n](../Page/May'n.md "wikilink")
+    作詞：空谷泉身，作曲：KENT / TOMOYA (SALTY DOG)，編曲：高橋浩一郎（onetrap），主唱：[May'n](../Page/May'n.md "wikilink")
 
 <!-- end list -->
 
@@ -374,23 +371,14 @@ Alive上連載](../Page/月刊Comic_Alive.md "wikilink")。
 
 ## 外部連結
 
-  - [《TABOO TATTOO－禁忌咒紋－》Media
-    Factory官方網站](http://www.mediafactory.co.jp/comic-alive/taboo-tattoo/)
-
+  - [《TABOO TATTOO－禁忌咒紋－》Media Factory官方網站](http://www.mediafactory.co.jp/comic-alive/taboo-tattoo/)
 
   - [《TABOO TATTOO－禁忌咒紋－》動畫官方網站](http://tabootattoo-anime.com/)
 
-  - [《TABOO
-    TATTOO－禁忌咒紋－》東京電視台TX動畫專頁](http://www.tv-tokyo.co.jp/anime/tabootattoo/)
-
+  - [《TABOO TATTOO－禁忌咒紋－》東京電視台TX動畫專頁](http://www.tv-tokyo.co.jp/anime/tabootattoo/)
 
   -
-[Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
-[Category:J.C.STAFF](https://zh.wikipedia.org/wiki/Category:J.C.STAFF "wikilink")
-[Category:2016年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2016年東京電視網動畫 "wikilink")
-[Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink") [Category:J.C.STAFF](https://zh.wikipedia.org/wiki/Category:J.C.STAFF "wikilink") [Category:2016年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2016年東京電視網動畫 "wikilink") [Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 

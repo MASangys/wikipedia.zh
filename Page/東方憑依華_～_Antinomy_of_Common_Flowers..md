@@ -1,11 +1,10 @@
-是由[上海愛莉絲幻樂團與](../Page/上海愛莉絲幻樂團.md "wikilink")[黃昏邊境共同製作的](../Page/黃昏邊境.md "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，為[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")15.5作，也是該系列发布在Windows平台上的第十个小数点作。\[1\]
+是由[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")與[黃昏邊境](../Page/黃昏邊境.md "wikilink")共同製作的[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，為[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")15.5作，也是該系列发布在Windows平台上的第十个小数点作。\[1\]
 
 本作是上一格斗作《[深秘录](https://zh.wikipedia.org/wiki/东方深秘录 "wikilink")》故事剧情的延续。
 
 ## 故事概要
 
-都市传说之后，到处都发生了被称为『完全凭依』的奇异现象。
-那是一种不仅是精神，连肉体都会被替换成毫不相干的人的现象。巫女[博麗靈夢找到了这一现象出现的原因](../Page/博麗靈夢.md "wikilink")。并準備解決它。
+都市传说之后，到处都发生了被称为『完全凭依』的奇异现象。 那是一种不仅是精神，连肉体都会被替换成毫不相干的人的现象。巫女[博麗靈夢](../Page/博麗靈夢.md "wikilink")找到了这一现象出现的原因。并準備解決它。
 
 ## 遊戲系統
 
@@ -35,8 +34,7 @@
 
   - [哆来咪·苏伊特](https://zh.wikipedia.org/wiki/哆来咪·苏伊特 "wikilink")
   - [比那名居天子](https://zh.wikipedia.org/wiki/比那名居天子 "wikilink")
-  - [八云紫](https://zh.wikipedia.org/wiki/八云紫 "wikilink")（附加[八雲藍和](https://zh.wikipedia.org/wiki/八雲藍 "wikilink")[橙](../Page/橙.md "wikilink")）
-    **主題曲**：凭坐于梦与现实之间　～ Necro-Fantasia（ ）
+  - [八云紫](https://zh.wikipedia.org/wiki/八云紫 "wikilink")（附加[八雲藍和](https://zh.wikipedia.org/wiki/八雲藍 "wikilink")[橙](../Page/橙.md "wikilink")） **主題曲**：凭坐于梦与现实之间　～ Necro-Fantasia（ ）
 
 ### 本作新登场人物
 
@@ -59,9 +57,6 @@
 
   - [东方凭依华 官方网站（黄昏边境）（日文）](http://tasofro.net/touhou155/index.html)
 
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
-[Category:2017年电子游戏](https://zh.wikipedia.org/wiki/Category:2017年电子游戏 "wikilink")
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
+[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:2017年电子游戏](https://zh.wikipedia.org/wiki/Category:2017年电子游戏 "wikilink") [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
 
 1.

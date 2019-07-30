@@ -1,9 +1,6 @@
-**Cadence
-SKILL**是一种由[Cadence公司设计的](../Page/Cadence.md "wikilink")[编程语言](../Page/编程语言.md "wikilink")。它是[LISP语言的一种分支](../Page/LISP.md "wikilink")。\[1\]\[2\]
+**Cadence SKILL**是一种由[Cadence](../Page/Cadence.md "wikilink")公司设计的[编程语言](../Page/编程语言.md "wikilink")。它是[LISP](../Page/LISP.md "wikilink")语言的一种分支。\[1\]\[2\]
 
-SKILL最初是根据Franz
-Lisp发展而来，由[加州大學柏克萊分校的Richard](https://zh.wikipedia.org/wiki/加州大學柏克萊分校 "wikilink")
-J. Fateman创造。\[3\]
+SKILL最初是根据Franz Lisp发展而来，由[加州大學柏克萊分校的Richard](https://zh.wikipedia.org/wiki/加州大學柏克萊分校 "wikilink") J. Fateman创造。\[3\]
 
 ## 语法
 
@@ -52,8 +49,7 @@ procedure (factorial(n)
 
 ## 参考资料
 
-[Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink")
-[Category:LISP程式語言家族](https://zh.wikipedia.org/wiki/Category:LISP程式語言家族 "wikilink")
+[Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink") [Category:LISP程式語言家族](https://zh.wikipedia.org/wiki/Category:LISP程式語言家族 "wikilink")
 
 1.
 2.

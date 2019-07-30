@@ -1,18 +1,10 @@
-**LG
-G6**是由[LG電子製造的一款](../Page/LG電子.md "wikilink")[Android](../Page/Android.md "wikilink")[智慧型手機](../Page/智能手机.md "wikilink")，於2017年2月26日在2017年[MWC發布](../Page/世界行動通訊大會.md "wikilink")，為[LG
-G5的後續機種](../Page/LG_G5.md "wikilink")。G6放棄了模組化，增加了IP68防水防塵，並且採用了較高的18:9
-5.7吋螢幕。\[1\]\[2\]\[3\]\[4\]\[5\]同期最大的競爭對手為[三星Galaxy
-S8](../Page/三星Galaxy_S8.md "wikilink")、[Sony Xperia XZ
-Premium](../Page/Sony_Xperia_XZ_Premium.md "wikilink")、[HTC U
-Ultra](../Page/HTC_U_Ultra.md "wikilink")。
+**LG G6**是由[LG電子](../Page/LG電子.md "wikilink")製造的一款[Android](../Page/Android.md "wikilink")[智慧型手機](../Page/智能手机.md "wikilink")，於2017年2月26日在2017年[MWC發布](../Page/世界行動通訊大會.md "wikilink")，為[LG G5的後續機種](../Page/LG_G5.md "wikilink")。G6放棄了模組化，增加了IP68防水防塵，並且採用了較高的18:9 5.7吋螢幕。\[1\]\[2\]\[3\]\[4\]\[5\]同期最大的競爭對手為[三星Galaxy S8](../Page/三星Galaxy_S8.md "wikilink")、[Sony Xperia XZ Premium](../Page/Sony_Xperia_XZ_Premium.md "wikilink")、[HTC U Ultra](../Page/HTC_U_Ultra.md "wikilink")。
 
 ## 技術規格
 
-  - 後置攝像頭：Sony IMX258 1300萬像素光學防手震鏡頭(f/1.8, OIS,
-    3-axis)+1300萬像素雷射自動對焦廣角鏡頭(f/2.4)
+  - 後置攝像頭：Sony IMX258 1300萬像素光學防手震鏡頭(f/1.8, OIS, 3-axis)+1300萬像素雷射自動對焦廣角鏡頭(f/2.4)
   - 前置攝像頭：500萬像素
-  - 內存：4 [GB](https://zh.wikipedia.org/wiki/十億位元組 "wikilink")
-    [RAM](../Page/随机存取存储器.md "wikilink")
+  - 內存：4 [GB](https://zh.wikipedia.org/wiki/十億位元組 "wikilink") [RAM](../Page/随机存取存储器.md "wikilink")
   - 存儲：32/64 GB
   - 電池：3300 mAh
   - 尺寸：5.7寸
@@ -25,9 +17,7 @@ Ultra](../Page/HTC_U_Ultra.md "wikilink")。
 
 <references />
 
-[Category:LG手機](https://zh.wikipedia.org/wiki/Category:LG手機 "wikilink")
-[Category:全螢幕手機](https://zh.wikipedia.org/wiki/Category:全螢幕手機 "wikilink")
-[Category:2017年面世的手機](https://zh.wikipedia.org/wiki/Category:2017年面世的手機 "wikilink")
+[Category:LG手機](https://zh.wikipedia.org/wiki/Category:LG手機 "wikilink") [Category:全螢幕手機](https://zh.wikipedia.org/wiki/Category:全螢幕手機 "wikilink") [Category:2017年面世的手機](https://zh.wikipedia.org/wiki/Category:2017年面世的手機 "wikilink")
 
 1.
 2.

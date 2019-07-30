@@ -31,14 +31,13 @@
 
   - （Carotid endarterectomy）
 
-  - [杏仁核之中央核](../Page/杏仁核.md "wikilink")，常簡寫為「CeA」
+  - [杏仁核](../Page/杏仁核.md "wikilink")之中央核，常簡寫為「CeA」
 
   - ，犬隻的先天眼睛異常。
 
 ### 其他用法
 
-  - [資本支出](https://zh.wikipedia.org/wiki/資本支出 "wikilink")（Capital
-    expenditure）
+  - [資本支出](https://zh.wikipedia.org/wiki/資本支出 "wikilink")（Capital expenditure）
 
   -
   - [集體談判](../Page/集體談判.md "wikilink")（Collective employment agreement）

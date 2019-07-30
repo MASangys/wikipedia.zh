@@ -1,21 +1,16 @@
-是一只来自[韩国的职业](https://zh.wikipedia.org/wiki/韩国 "wikilink")[电子竞技队伍](../Page/电子竞技.md "wikilink")，该战队的前身为Anarchy战队，2015年12月30日，[AfreecaTV收购了Anarchy战队](../Page/AfreecaTV.md "wikilink")，并将其改为现名。目前该战队拥有[英雄联盟和](../Page/英雄联盟.md "wikilink")[絕地求生分部](../Page/絕地求生.md "wikilink")，其中绝地求生分部拥有Afreeca
-Freecs Ares和Afreeca Freecs Fatal两支队伍。
+是一只来自[韩国的职业](https://zh.wikipedia.org/wiki/韩国 "wikilink")[电子竞技](../Page/电子竞技.md "wikilink")队伍，该战队的前身为Anarchy战队，2015年12月30日，[AfreecaTV](../Page/AfreecaTV.md "wikilink")收购了Anarchy战队，并将其改为现名。目前该战队拥有[英雄联盟](../Page/英雄联盟.md "wikilink")和[絕地求生](../Page/絕地求生.md "wikilink")分部，其中绝地求生分部拥有Afreeca Freecs Ares和Afreeca Freecs Fatal两支队伍。
 
 ## 发展历程
 
-2015年12月30日，韩国影音网站[AfreecaTV收购Anarchy战队](../Page/AfreecaTV.md "wikilink")，并将其改名为Afreeca
-Freecs，ikssu，lira、Mickey，Sangyoon及SnowFlower亦于此时加入该战队。\[1\]随后，该战队聘请了原教练姜显宗作为该队的主教练，并建立了自己的训练室。\[2\]
+2015年12月30日，韩国影音网站[AfreecaTV](../Page/AfreecaTV.md "wikilink")收购Anarchy战队，并将其改名为Afreeca Freecs，ikssu，lira、Mickey，Sangyoon及SnowFlower亦于此时加入该战队。\[1\]随后，该战队聘请了原教练姜显宗作为该队的主教练，并建立了自己的训练室。\[2\]
 
-在于2016年6月22日所举行的2016年[LCK夏季赛Afreeca](../Page/英雄联盟韩国冠军联赛.md "wikilink")
-Freecs对阵[SK Telecom T1的比赛中](../Page/SK_Telecom_T1.md "wikilink")，Afreeca
-Freecs以2:0战胜SK Telecom T1。\[3\]
+在于2016年6月22日所举行的2016年[LCK夏季赛Afreeca](../Page/英雄联盟韩国冠军联赛.md "wikilink") Freecs对阵[SK Telecom T1的比赛中](../Page/SK_Telecom_T1.md "wikilink")，Afreeca Freecs以2:0战胜SK Telecom T1。\[3\]
 
 2017年[LCK春季賽開打前](../Page/英雄联盟韩国冠军联赛.md "wikilink")，大部分隊員轉往。\[4\]
 
 現任遊戲部門總監督為退役著名星海爭霸選手""崔然星。\[5\] 於2019年5月升職為現職位。\[6\]
 
-戰隊在2018年春季賽成功勝出季後賽，首次躋身決賽。\[7\]可惜與Kingzone DragonX的決賽戰以1-3
-落敗，未能奪冠，僅取得亞軍。
+戰隊在2018年春季賽成功勝出季後賽，首次躋身決賽。\[7\]可惜與Kingzone DragonX的決賽戰以1-3 落敗，未能奪冠，僅取得亞軍。
 
 ## 成员
 
@@ -506,15 +501,12 @@ Freecs以2:0战胜SK Telecom T1。\[3\]
 
 ## 参考資料
 
-[Category:英雄聯盟競技團隊](https://zh.wikipedia.org/wiki/Category:英雄聯盟競技團隊 "wikilink")
-[Category:韩国电子竞技团队](https://zh.wikipedia.org/wiki/Category:韩国电子竞技团队 "wikilink")
+[Category:英雄聯盟競技團隊](https://zh.wikipedia.org/wiki/Category:英雄聯盟競技團隊 "wikilink") [Category:韩国电子竞技团队](https://zh.wikipedia.org/wiki/Category:韩国电子竞技团队 "wikilink")
 
 1.
-2.  [电竞与体育行业的完美结合：LCK十支战队全有赞助商](http://sz.edushi.com/bang/info/113-115-n2713658.html)
-    \[2016.01.07\]
+2.  [电竞与体育行业的完美结合：LCK十支战队全有赞助商](http://sz.edushi.com/bang/info/113-115-n2713658.html) \[2016.01.07\]
 3.
-4.  \[<https://www.4gamers.com.tw/news/detail/31101/RapidStar-joined-SKT-T1-coach-and-2017-ROX-Tigers-roster-announced>|
-    ROX公布2017戰隊陣容，前EDG教練加入SKT\]
+4.  \[<https://www.4gamers.com.tw/news/detail/31101/RapidStar-joined-SKT-T1-coach-and-2017-ROX-Tigers-roster-announced>| ROX公布2017戰隊陣容，前EDG教練加入SKT\]
 5.
 6.
 7.

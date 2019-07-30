@@ -1,7 +1,6 @@
-**百老匯線**（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[曼哈頓的](../Page/曼哈頓.md "wikilink")[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵路線](../Page/地鐵.md "wikilink")。此線有4條服務路線營運，全部以黃色顯示，平日快車軌道上有列車，慢車軌道上有（深夜時以慢車運行，如同線週末時）。路線通常稱為「N及R」\[1\]\[2\]，因為該兩條路線是[曼哈頓大橋南軌道關閉重建期間唯二的服務路線](../Page/曼哈頓大橋.md "wikilink")。百老匯線為（後來的[BMT](../Page/布魯克林-曼哈頓運輸股份有限公司.md "wikilink")）提供進出[曼哈頓中城的路線](../Page/曼哈頓中城.md "wikilink")。
+**百老匯線**（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")的[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵](../Page/地鐵.md "wikilink")路線。此線有4條服務路線營運，全部以黃色顯示，平日快車軌道上有列車，慢車軌道上有（深夜時以慢車運行，如同線週末時）。路線通常稱為「N及R」\[1\]\[2\]，因為該兩條路線是[曼哈頓大橋](../Page/曼哈頓大橋.md "wikilink")南軌道關閉重建期間唯二的服務路線。百老匯線為（後來的[BMT](../Page/布魯克林-曼哈頓運輸股份有限公司.md "wikilink")）提供進出[曼哈頓中城](../Page/曼哈頓中城.md "wikilink")的路線。
 
-此線在至[第七大道](https://zh.wikipedia.org/wiki/第七大道_\(曼哈頓\) "wikilink")（[時報廣場](../Page/時報廣場.md "wikilink")）之間在[百老匯下方營運](../Page/百老匯.md "wikilink")，因而得名。此外，路線也下穿[曼哈頓下城的維希街](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")、、及，以及[曼哈頓中城的第七大道](../Page/曼哈頓中城.md "wikilink")、[59街與](https://zh.wikipedia.org/wiki/59街_\(曼哈頓\) "wikilink")。慢車軌道來往兩條[東河隧道下方](../Page/東河_\(紐約市\).md "wikilink")，[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")[BMT第四大道線的](https://zh.wikipedia.org/wiki/BMT第四大道線 "wikilink")及[皇后區](../Page/皇后區.md "wikilink")[BMT阿斯托利亞線的](https://zh.wikipedia.org/wiki/BMT阿斯托利亞線 "wikilink")[60街隧道](https://zh.wikipedia.org/wiki/60街隧道 "wikilink")。中央快車軌道在[堅尼街至](https://zh.wikipedia.org/wiki/堅尼街車站_\(BMT百老匯線\) "wikilink")[57街之間存在](https://zh.wikipedia.org/wiki/57街-第七大道車站_\(BMT百老匯線\) "wikilink")，在堅尼街轉往[曼哈頓大橋南側軌道](../Page/曼哈頓大橋.md "wikilink")，之後在[中央公園下方繼續向北和向東](../Page/中央公園.md "wikilink")，成為[IND/BMT
-63街線](../Page/63街線.md "wikilink")（與[第二大道線連接](../Page/第二大道線.md "wikilink")）。百老匯線是1967年前曼哈頓以北唯一的BMT路線。1967年，超過一半的[BMT布萊頓線及全部](https://zh.wikipedia.org/wiki/BMT布萊頓線 "wikilink")[BMT西城線列車都途經新的](../Page/BMT西城線.md "wikilink")移動到[IND第六大道線](../Page/IND第六大道線.md "wikilink")。
+此線在至[第七大道](https://zh.wikipedia.org/wiki/第七大道_\(曼哈頓\) "wikilink")（[時報廣場](../Page/時報廣場.md "wikilink")）之間在[百老匯](../Page/百老匯.md "wikilink")下方營運，因而得名。此外，路線也下穿[曼哈頓下城的維希街](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")、、及，以及[曼哈頓中城](../Page/曼哈頓中城.md "wikilink")的第七大道、[59街與](https://zh.wikipedia.org/wiki/59街_\(曼哈頓\) "wikilink")。慢車軌道來往兩條[東河隧道下方](../Page/東河_\(紐約市\).md "wikilink")，[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")[BMT第四大道線的](https://zh.wikipedia.org/wiki/BMT第四大道線 "wikilink")及[皇后區](../Page/皇后區.md "wikilink")[BMT阿斯托利亞線的](https://zh.wikipedia.org/wiki/BMT阿斯托利亞線 "wikilink")[60街隧道](https://zh.wikipedia.org/wiki/60街隧道 "wikilink")。中央快車軌道在[堅尼街至](https://zh.wikipedia.org/wiki/堅尼街車站_\(BMT百老匯線\) "wikilink")[57街之間存在](https://zh.wikipedia.org/wiki/57街-第七大道車站_\(BMT百老匯線\) "wikilink")，在堅尼街轉往[曼哈頓大橋](../Page/曼哈頓大橋.md "wikilink")南側軌道，之後在[中央公園](../Page/中央公園.md "wikilink")下方繼續向北和向東，成為[IND/BMT 63街線](../Page/63街線.md "wikilink")（與[第二大道線](../Page/第二大道線.md "wikilink")連接）。百老匯線是1967年前曼哈頓以北唯一的BMT路線。1967年，超過一半的[BMT布萊頓線及全部](https://zh.wikipedia.org/wiki/BMT布萊頓線 "wikilink")[BMT西城線](../Page/BMT西城線.md "wikilink")列車都途經新的移動到[IND第六大道線](../Page/IND第六大道線.md "wikilink")。
 
 ## 路線服務
 
@@ -235,7 +234,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>快車軌道途經<a href="../Page/曼哈頓大橋.md" title="wikilink">曼哈頓大橋南側軌道</a>（）繼續前往布魯克林</p></td>
+<td><p>快車軌道途經<a href="../Page/曼哈頓大橋.md" title="wikilink">曼哈頓大橋</a>南側軌道（）繼續前往布魯克林</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -315,30 +314,16 @@ IND第八大道線（），<a href="https://zh.wikipedia.org/wiki/世界貿易�
 
 ## 参考文献
 
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1917年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路線 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1917年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路線 "wikilink")
 
-1.  Randy Kennedy, [New York
-    Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"),
-    [Honoring the
-    Champions](https://select.nytimes.com/gst/abstract.html?res=FB0C15F839540C728FDDA90994D8404482),
-    October 31, 2000, section B, page 10: "And the only reason she was
-    standing in the middle of Broadway was that she was below it.
-    Underground. In the N and R subway station."
+1.  Randy Kennedy, [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), [Honoring the Champions](https://select.nytimes.com/gst/abstract.html?res=FB0C15F839540C728FDDA90994D8404482), October 31, 2000, section B, page 10: "And the only reason she was standing in the middle of Broadway was that she was below it. Underground. In the N and R subway station."
 
-2.  Susan Saulny, [New York
-    Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), [In
-    Subway Changes, W Follows V, but for Riders It's Not So
-    Simple](https://select.nytimes.com/gst/abstract.html?res=F50B15F73F580C768CDDAB0994D8404482),
-    section B, page 1: "The Q, N, R and W trains would all run on N and
-    R tracks in Manhattan."
+2.  Susan Saulny, [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), [In Subway Changes, W Follows V, but for Riders It's Not So Simple](https://select.nytimes.com/gst/abstract.html?res=F50B15F73F580C768CDDAB0994D8404482), section B, page 1: "The Q, N, R and W trains would all run on N and R tracks in Manhattan."
 
 3.
 
 4.
-5.  *The New York Times*, [Subway to Open Two New
-    Stations](https://www.nytimes.com/1919/08/31/archives/subway-to-open-two-new-stations-broadway-line-of-brt-will-extend-to.html),
-    August 31, 1919, page 25
+5.  *The New York Times*, [Subway to Open Two New Stations](https://www.nytimes.com/1919/08/31/archives/subway-to-open-two-new-stations-broadway-line-of-brt-will-extend-to.html), August 31, 1919, page 25
 
 6.
 

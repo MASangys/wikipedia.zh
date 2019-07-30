@@ -1,14 +1,8 @@
-《**FLIGHT LOG :
-ARRIVAL**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7所推出的第六張](../Page/GOT7.md "wikilink")[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，同時也是FLIGHT
-LOG（飛行日誌）系列專輯的最後一張作品，於2017年3月13日發行，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，唱片公司為KT
-Music。共收錄八首曲目，主打歌為《Never Ever》。
+《**FLIGHT LOG : ARRIVAL**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")所推出的第六張[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，同時也是FLIGHT LOG（飛行日誌）系列專輯的最後一張作品，於2017年3月13日發行，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為KT Music。共收錄八首曲目，主打歌為《Never Ever》。
 
 ## 背景
 
-2017年2月5日，GOT7藉著在首爾舉辦出道三周年粉絲見面會的機會，透過短片率先預告即將於三月帶著新專輯《FLIGHT LOG :
-ARRIVAL》回歸。\[1\]2月27日GOT7官方網站、臉書、推特同步公開回歸日程表，並於2月28日公開Trailer及專輯曲目清單。\[2\]3月1日開始依序釋出成員個人概念照、預告短片，10日公開團體概念照及《Never
-Ever》MV預告，13日中午12點整（韓國時間）同步發布專輯音源與《Never Ever》MV，當晚透過V
-LIVE直播新歌Showcase，成員[Jackson因健康狀態不佳未能出席](../Page/王嘉爾.md "wikilink")\[3\]，並休養至3月25日才痊癒復工\[4\]。
+2017年2月5日，GOT7藉著在首爾舉辦出道三周年粉絲見面會的機會，透過短片率先預告即將於三月帶著新專輯《FLIGHT LOG : ARRIVAL》回歸。\[1\]2月27日GOT7官方網站、臉書、推特同步公開回歸日程表，並於2月28日公開Trailer及專輯曲目清單。\[2\]3月1日開始依序釋出成員個人概念照、預告短片，10日公開團體概念照及《Never Ever》MV預告，13日中午12點整（韓國時間）同步發布專輯音源與《Never Ever》MV，當晚透過V LIVE直播新歌Showcase，成員[Jackson因健康狀態不佳未能出席](../Page/王嘉爾.md "wikilink")\[3\]，並休養至3月25日才痊癒復工\[4\]。
 
 ### 發行版本
 
@@ -135,7 +129,7 @@ LIVE直播新歌Showcase，成員[Jackson因健康狀態不佳未能出席](../P
 </tr>
 <tr class="even">
 <td><p>比利時</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ultratop榜" title="wikilink">Ultratop榜</a></p></td>
+<td><p><a href="../Page/Ultratop榜.md" title="wikilink">Ultratop榜</a></p></td>
 <td><p>專輯榜</p></td>
 <td><p>2017年3月11日－17日</p></td>
 <td><p>#182</p></td>
@@ -211,8 +205,7 @@ LIVE直播新歌Showcase，成員[Jackson因健康狀態不佳未能出席](../P
 
 ## 外部連結
 
-  - [GOT7 \<FLIGHT LOG : ARRIVAL\> THE FIRST STAGE-
-    全場](http://www.vlive.tv/video/24662?channelCode=ECDF)
+  - [GOT7 \<FLIGHT LOG : ARRIVAL\> THE FIRST STAGE- 全場](http://www.vlive.tv/video/24662?channelCode=ECDF)
 
   -
   -
@@ -224,32 +217,18 @@ LIVE直播新歌Showcase，成員[Jackson因健康狀態不佳未能出席](../P
   -
   -
   -
-[Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink")
-[Category:GOT7音樂專輯](https://zh.wikipedia.org/wiki/Category:GOT7音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2017年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2017年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon專輯月榜冠軍作品 "wikilink")
+[Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink") [Category:GOT7音樂專輯](https://zh.wikipedia.org/wiki/Category:GOT7音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2017年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon專輯週榜冠軍作品 "wikilink") [Category:2017年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon專輯月榜冠軍作品 "wikilink")
 
 1.
 2.
 3.
 4.
 5.
-6.  [2017년 11주차 Download
-    Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=11&hitYear=2017&termGbn=week)
-    Gaon Chart. \[2017-03-23\]
-7.  [2017년 3월 Digital
-    Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=03&hitYear=2017&termGbn=month)Gaon
-    Chart. \[2017-04-09\]
-8.  [2017년 11주차 Album
-    Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=11&hitYear=2017&termGbn=week)Gaon
-    Chart. \[2017-03-23\]
-9.  [2017년 03월 Album
-    Chart](http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=03&hitYear=2017&termGbn=month)
-    Gaon Chart. \[2017-04-09\]
-10. [2017년 Album
-    Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=year)
-    Gaon Chart. \[2018-01-14\]
+6.  [2017년 11주차 Download Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=11&hitYear=2017&termGbn=week) Gaon Chart. \[2017-03-23\]
+7.  [2017년 3월 Digital Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=03&hitYear=2017&termGbn=month)Gaon Chart. \[2017-04-09\]
+8.  [2017년 11주차 Album Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=11&hitYear=2017&termGbn=week)Gaon Chart. \[2017-03-23\]
+9.  [2017년 03월 Album Chart](http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=03&hitYear=2017&termGbn=month) Gaon Chart. \[2017-04-09\]
+10. [2017년 Album Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=year) Gaon Chart. \[2018-01-14\]
 11.
 12.
 13.

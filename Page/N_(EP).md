@@ -4,7 +4,6 @@
 
 ## 專輯派台歌曲成績
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:曾詠欣音樂專輯](https://zh.wikipedia.org/wiki/Category:曾詠欣音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:曾詠欣音樂專輯](https://zh.wikipedia.org/wiki/Category:曾詠欣音樂專輯 "wikilink")
 
 [Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")

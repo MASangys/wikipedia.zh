@@ -1,5 +1,4 @@
-\-- This module implements [Template:Team appearances
-list](https://zh.wikipedia.org/wiki/Template:Team_appearances_list "wikilink").
+\-- This module implements [Template:Team appearances list](https://zh.wikipedia.org/wiki/Template:Team_appearances_list "wikilink").
 
 local p = {}
 
@@ -229,8 +228,7 @@ function p._main(args)
 `                   display = '`<i>`' .. display .. '`</i>`'`
 `               end`
 `               if disqualified_years[y] then`
-`                   display = '`~~`'``   ``..``   ``display``   ``..``
- ``'`~~`'`
+`                   display = '`~~`'``   ``..``   ``display``   ``..``   ``'`~~`'`
 `               end`
 `               table.insert(appearances, string.format(`
 `                   '`[`%s`](https://zh.wikipedia.org/wiki/%d年%s%s代表團 "wikilink")`',`

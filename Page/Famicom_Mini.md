@@ -1,5 +1,4 @@
-是一系列[红白机](../Page/红白机.md "wikilink")（Famicom）的[Game Boy
-Advance移植游戏](../Page/Game_Boy_Advance.md "wikilink")。
+是一系列[红白机](../Page/红白机.md "wikilink")（Famicom）的[Game Boy Advance移植游戏](../Page/Game_Boy_Advance.md "wikilink")。
 
 日版发行目的为红白机20周年纪念。
 
@@ -13,25 +12,10 @@ Advance移植游戏](../Page/Game_Boy_Advance.md "wikilink")。
 
 ## 参考文献
 
-[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink")
-[Category:红白机](https://zh.wikipedia.org/wiki/Category:红白机 "wikilink")
-[Category:Game_Boy_Advance遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance遊戲 "wikilink")
-[Category:任天堂游戏](https://zh.wikipedia.org/wiki/Category:任天堂游戏 "wikilink")
-[Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink")
+[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:红白机](https://zh.wikipedia.org/wiki/Category:红白机 "wikilink") [Category:Game_Boy_Advance遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance遊戲 "wikilink") [Category:任天堂游戏](https://zh.wikipedia.org/wiki/Category:任天堂游戏 "wikilink") [Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink")
 
-1.  Harris, Craig. [IGN: Xevious (Classic NES Series)
-    Review](http://gameboy.ign.com/articles/500/500563p1.html). June 4,
-    2004.
-2.  Gerstmann, Jeff. [GameSpot: Super Mario Bros.
-    review](http://gamespot.com/gba/action/famicomminisupermariobros/review.html)
-    . [GameSpot](../Page/GameSpot.md "wikilink"). June 8, 2004
-3.  Harris, Craig. ["Super Mario Bros."
-    review](http://gameboy.ign.com/articles/499/499470p1.html). IGN.
-    June 4, 2004.
-4.  Gerstmann, Jeff. ["Classic NES Series: The Legend of Zelda for Game
-    Boy Advance
-    Review"](http://gamespot.com/gba/rpg/famicomminithelegendofzelda/review.html)
-    . GameSpot. June 8, 2004.
-5.  Harris, Craig. ["IGN: The Legend of Zelda (Classic NES Series)
-    Review](http://gameboy.ign.com/articles/499/499860p1.html). IGN.
-    June 4, 2004.
+1.  Harris, Craig. [IGN: Xevious (Classic NES Series) Review](http://gameboy.ign.com/articles/500/500563p1.html). June 4, 2004.
+2.  Gerstmann, Jeff. [GameSpot: Super Mario Bros. review](http://gamespot.com/gba/action/famicomminisupermariobros/review.html) . [GameSpot](../Page/GameSpot.md "wikilink"). June 8, 2004
+3.  Harris, Craig. ["Super Mario Bros." review](http://gameboy.ign.com/articles/499/499470p1.html). IGN. June 4, 2004.
+4.  Gerstmann, Jeff. ["Classic NES Series: The Legend of Zelda for Game Boy Advance Review"](http://gamespot.com/gba/rpg/famicomminithelegendofzelda/review.html) . GameSpot. June 8, 2004.
+5.  Harris, Craig. ["IGN: The Legend of Zelda (Classic NES Series) Review](http://gameboy.ign.com/articles/499/499860p1.html). IGN. June 4, 2004.

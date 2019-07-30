@@ -1,7 +1,4 @@
-**Gacharic Spin**
-是[日本的](../Page/日本.md "wikilink")5人女子搖滾樂團，於2009年6月組成。現任成員有F
-チョッパー
-KOGA、はな、TOMO-ZO、オレオレオナ與[1號まい](../Page/森下真依.md "wikilink")，團員組成有[主唱](../Page/歌手.md "wikilink")、[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")、[貝斯手](https://zh.wikipedia.org/wiki/贝斯手 "wikilink")、[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")、[鍵盤手與表演者](https://zh.wikipedia.org/wiki/键盘手 "wikilink")，主要音樂類型為[J-POP與](../Page/日本流行音樂.md "wikilink")[搖滾樂等](../Page/摇滚乐.md "wikilink")\[1\]
+**Gacharic Spin** 是[日本](../Page/日本.md "wikilink")的5人女子搖滾樂團，於2009年6月組成。現任成員有F チョッパー KOGA、はな、TOMO-ZO、オレオレオナ與[1號まい](../Page/森下真依.md "wikilink")，團員組成有[主唱](../Page/歌手.md "wikilink")、[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")、[貝斯手](https://zh.wikipedia.org/wiki/贝斯手 "wikilink")、[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")、[鍵盤手與表演者](https://zh.wikipedia.org/wiki/键盘手 "wikilink")，主要音樂類型為[J-POP與](../Page/日本流行音樂.md "wikilink")[搖滾樂等](../Page/摇滚乐.md "wikilink")\[1\]
 
 ## 成員
 
@@ -521,8 +518,7 @@ KOGA、はな、TOMO-ZO、オレオレオナ與[1號まい](../Page/森下真依
 
 ### 電視節目
 
-  - 2010年7月4日 - [NHK](../Page/日本廣播協會.md "wikilink")「[MUSIC
-    JAPAN](../Page/MUSIC_JAPAN.md "wikilink")」
+  - 2010年7月4日 - [NHK](../Page/日本廣播協會.md "wikilink")「[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")」
   - 2014年3月21日 - [日本電視台](../Page/日本電視台.md "wikilink")「ミュージックドラゴン」
 
 ### 網路節目
@@ -536,51 +532,36 @@ KOGA、はな、TOMO-ZO、オレオレオナ與[1號まい](../Page/森下真依
   - <small>2012年6月 - Super ガチャピ～ンチ\!\! in OSAKA</small>
   - <small>2012年7月 - 「ヌーディリズム」発売記念ミニライブ</small>
   - <small>2013年3月 - 「Delicious」発売記念 ミニライブ</small>
-  - <small>2013年4月 - Gacharic Spin レコ発"Delicious"TOUR -FANJtwice9th
-    Anniversary-</small>
+  - <small>2013年4月 - Gacharic Spin レコ発"Delicious"TOUR -FANJtwice9th Anniversary-</small>
   - <small>2013年5月28日－6月21日 - Gacharic Spin レコ発"Delicious"TOUR</small>
   - <small>2013年7月15日 - 渋谷O-EAST ワンマン</small>
-  - <small>2013年10月26日－11月22日 - 4th Anniversary
-    ガチ4～ピースの向こう側に在るもの～</small>
-  - <small>2014年3月30日－4月26日 -
-    僕だけのシンデレラ\&WINNERリリースツアー「ガチャレンジ2014」</small>
+  - <small>2013年10月26日－11月22日 - 4th Anniversary ガチ4～ピースの向こう側に在るもの～</small>
+  - <small>2014年3月30日－4月26日 - 僕だけのシンデレラ\&WINNERリリースツアー「ガチャレンジ2014」</small>
   - <small>2014年6月7日 - 僕だけのシンデレラ\&WINNERリリースツアー『ガチャレンジ2014』ファイナル</small>
-  - <small>2014年9月21日 - Gacharic Spin presents 『ガチャんこ対決\!\!
-    Vol.1』</small>
-  - <small>2014年10月5日 - Gacharic Spin 5th Anniversary ガチャレンジFINAL\!\!
-    ～お台場決勝戦～</small>
-  - <small>2014年10月14日－10月22日 - Gacharic Spin 5th Anniversary
-    GACHALLENGE 「WINNER」 中国ツアー</small>
-  - <small>2014年11月16日 -
-    「ガチャっとBEST\<2010-2014\>」ディスクユニオン購入者限定スペシャル招待ライブ</small>
+  - <small>2014年9月21日 - Gacharic Spin presents 『ガチャんこ対決\!\! Vol.1』</small>
+  - <small>2014年10月5日 - Gacharic Spin 5th Anniversary ガチャレンジFINAL\!\! ～お台場決勝戦～</small>
+  - <small>2014年10月14日－10月22日 - Gacharic Spin 5th Anniversary GACHALLENGE 「WINNER」 中国ツアー</small>
+  - <small>2014年11月16日 - 「ガチャっとBEST\<2010-2014\>」ディスクユニオン購入者限定スペシャル招待ライブ</small>
   - <small>2015年3月1日－5月3日 - 赤裸ライアーツアー</small>
   - <small>2015年6月30日 - まいBirthdaySpecialLive</small>
-  - <small>2015年9月6日－10月4日 - Gacharic Spin 6th Anniversary 2MAN
-    TOUR</small>
+  - <small>2015年9月6日－10月4日 - Gacharic Spin 6th Anniversary 2MAN TOUR</small>
   - <small>2015年10月11日－11月29日 - 6th Anniversary ONEMAN TOUR</small>
   - <small>2015年11月7日 - 2015 Gacharic Spin Live in KOREA Vol.2</small>
   - <small>2015年12月19日 - Gacharic Spin LIVE in Taipei</small>
   - <small>2015年12月22日 - F チョッパーKOGA Birthday Special Live</small>
   - <small>2016年3月12日 - ガチャんこ対決Vol.3</small>
   - <small>2016年4月29日 - Gacharic Spin 2016年ワンマンツアー前夜祭</small>
-  - <small>2016年4月30日－5月28日 - 春のワンマンツアー「オレオさんの婚活ツアー′16春
-    ～新しい出会いを求めて～」</small>
-  - <small>2016年9月5日－9月11日 - Gacharic Spin
-    7日間連続2マンライブ「な・な・なんと7日間\!\!\!\!\!\!\!」w/jealkb
-    / モーモールルギャバン / アルカラ / METALLIC SPIN / heidi. / 生ハムと焼うどん /
-    LINDBERG</small>
+  - <small>2016年4月30日－5月28日 - 春のワンマンツアー「オレオさんの婚活ツアー′16春 ～新しい出会いを求めて～」</small>
+  - <small>2016年9月5日－9月11日 - Gacharic Spin 7日間連続2マンライブ「な・な・なんと7日間\!\!\!\!\!\!\!」w/jealkb / モーモールルギャバン / アルカラ / METALLIC SPIN / heidi. / 生ハムと焼うどん / LINDBERG</small>
 
 <!-- end list -->
 
   - <small>2016年10月8日－11月12日 - ワンマンツアー「な・な・なんと7周年\!\!\!\!\!\!\!」</small>
-  - <small>2017年5月28日－6月3日 - な・な・なんと7日間\!\!\!\!\!\!\!～名古屋編～w/THE イナズマ戦隊
-    / SAKANAMON / SEX MACHINEGUNS / The Winking Owl / LUNKHEAD / 田村直美 /
-    ベイビーレイズJAPAN</small>
+  - <small>2017年5月28日－6月3日 - な・な・なんと7日間\!\!\!\!\!\!\!～名古屋編～w/THE イナズマ戦隊 / SAKANAMON / SEX MACHINEGUNS / The Winking Owl / LUNKHEAD / 田村直美 / ベイビーレイズJAPAN</small>
 
 <!-- end list -->
 
-  - <small>2017年6月24日 - Gacharic Spin Special Live ～2017 春～
-    ライバー大宴祭</small>
+  - <small>2017年6月24日 - Gacharic Spin Special Live ～2017 春～ ライバー大宴祭</small>
 
 ### 參與演出
 
@@ -597,26 +578,22 @@ KOGA、はな、TOMO-ZO、オレオレオナ與[1號まい](../Page/森下真依
   - <small>2013年8月24日 - Electric Lady Loud</small>
   - <small>2013年9月27日 - Da Ya Think Wonderful Tonight?vol.1</small>
   - <small>2013年11月16日 - G∀LMET Plesents「MUSUBI」～60分4本勝負\!\!～</small>
-  - <small>2013年11月17日 - Gacharic Spin × Mary AngelG 『Match
-    UP\!\!』</small>
+  - <small>2013年11月17日 - Gacharic Spin × Mary AngelG 『Match UP\!\!』</small>
   - <small>2014年2月22日 - ゾロ目でゾロゾロ -五番勝負-</small>
   - <small>2014年2月23日 - 下北沢パトロール2014</small>
   - <small>2014年3月1日 - JUICY GIRLS Vol.6</small>
   - <small>2014年4月29日 - NAONのYAON 2014</small>
   - <small>2014年5月3日 - SEX MACHINEGUNS 春の祭典 2DAYS</small>
   - <small>2014年5月17日・18日・08月2日 - WWフェイス</small>
-  - <small>2014年7月16日 - Bass Magazine Presents The Power of
-    Low-End</small>
+  - <small>2014年7月16日 - Bass Magazine Presents The Power of Low-End</small>
   - <small>2014年7月18日 - 『激突\!Battle -4-』</small>
   - <small>2014年7月19日 - GRINDHOUSE show -Beauty\&Stupid-</small>
-  - <small>2014年8月9日 - FUKUOKA GIRLS ATTACK\!\!ver.1 chay×Gacharic
-    Spin×たんこぶちん</small>
+  - <small>2014年8月9日 - FUKUOKA GIRLS ATTACK\!\!ver.1 chay×Gacharic Spin×たんこぶちん</small>
   - <small>2014年8月17日 - SUMMER SONIC 2014</small>
   - <small>2014年8月20日 - GIRLS ROCK SUMMER SPLASH\!\! 2014</small>
   - <small>2014年8月22日 - TREASURE05X 2014 ～burning diamonds～</small>
   - <small>2014年8月23日 - Electric Lady Loud</small>
-  - <small>2014年8月24日 - ☆GALAXY PARADISE MATCH☆【COLORFUL CRAZY
-    PARTY@PALOOZA 】</small>
+  - <small>2014年8月24日 - ☆GALAXY PARADISE MATCH☆【COLORFUL CRAZY PARTY@PALOOZA 】</small>
   - <small>2014年8月30日 - 異物混入～混ぜるなキケン～ Vol.1</small>
   - <small>2014年9月9日 - アップアップガールズ（仮）対バンROCKS(仮)～東京決戦 3DAYS～</small>
   - <small>2014年9月10日 - 最後か\!?14回目のバースデー?</small>
@@ -626,14 +603,12 @@ KOGA、はな、TOMO-ZO、オレオレオナ與[1號まい](../Page/森下真依
   - <small>2014年10月12日 - Mt.Ena Rock Festival</small>
   - <small>2014年11月1日 - 横浜メタル地獄 スペシャル\! アコースティック編\!\!</small>
   - <small>2014年11月2日 - 愛知大学名古屋キャンパス 第68回愛大祭</small>
-  - <small>2014年11月3日 - teena×ESP学園楽園祭コラボイベント teena Girls' Party
-    Vol.1</small>
+  - <small>2014年11月3日 - teena×ESP学園楽園祭コラボイベント teena Girls' Party Vol.1</small>
   - <small>2014年11月15日 - コリアングルメフェスタ2014</small>
   - <small>2014年12月2日 - 四星球4thフルアルバム「もはやCDではない」レコ発ツアー 『もはや…』</small>
   - <small>2014年12月14日 - 「Lady's Go\!\!」東京編</small>
   - <small>2014年12月22日 - 「Lady's Go\!\!」名古屋編</small>
-  - <small>2014年12月23日 - Thunder Snake ATSUGI 12th Anniversary SPECIAL
-    2MAN LIVE\!\!</small>
+  - <small>2014年12月23日 - Thunder Snake ATSUGI 12th Anniversary SPECIAL 2MAN LIVE\!\!</small>
   - <small>2014年12月26日 - 「Lady's Go\!\!」大阪編</small>
   - <small>2014年12月30日 - COUNTDOWN JAPAN 14/15</small>
   - <small>2015年1月29日 - V.V.POPS vol.2</small>
@@ -644,30 +619,24 @@ KOGA、はな、TOMO-ZO、オレオレオナ與[1號まい](../Page/森下真依
   - <small>2015年2月28日 - GIRLS ROCK SPLASH\!\! 2015 WINTER</small>
   - <small>2015年3月14日 - HAPPY JACK 2015</small>
   - <small>2015年4月29日 - NAONのYAON 2015</small>
-  - <small>2015年6月5日 - HIBIKI HALL ROCK ON\!\! 2015 SPECIAL Gacharic
-    Spin × ベイビーレイズJAPAN</small>
+  - <small>2015年6月5日 - HIBIKI HALL ROCK ON\!\! 2015 SPECIAL Gacharic Spin × ベイビーレイズJAPAN</small>
   - <small>2015年6月14日・21日・07月26日 - GIRLS CONNECTION</small>
   - <small>2015年7月11日 - ESP学園presents COLORS2015</small>
   - <small>2015年7月19日 - JOIN ALIVE 2015</small>
-  - <small>2015年7月25日 - UCHUSENTAI:NOIZ × ESAKA MUSE Presents RAVE UP
-    BIG BOMBER</small>
+  - <small>2015年7月25日 - UCHUSENTAI:NOIZ × ESAKA MUSE Presents RAVE UP BIG BOMBER</small>
   - <small>2015年7月30日 - めざましライブ 2015</small>
   - <small>2015年8月6日 - SORAMIMI PRESENTS 魔女カーニバル</small>
   - <small>2015年8月7日\~08月9日 - J-POP SUMMIT 2015</small>
-  - <small>2015年8月16日 - SAITAMA Summer Rock FestivalLiven UP\!\! freedom
-    generation</small>
+  - <small>2015年8月16日 - SAITAMA Summer Rock FestivalLiven UP\!\! freedom generation</small>
   - <small>2015年8月23日 - NAONのYAON 2015～SUMMER～</small>
-  - <small>2015年9月4日 - 新宿ReNY 1st ANNIVERSARY IWAI MEDETAYA 2015
-    part.1</small>
+  - <small>2015年9月4日 - 新宿ReNY 1st ANNIVERSARY IWAI MEDETAYA 2015 part.1</small>
   - <small>2015年9月12日 - Electric Lady Loud</small>
   - <small>2015年9月19日 - イナズマロックフェス 2015</small>
   - <small>2015年10月9日 - MBS音祭2015 Opening Party</small>
   - <small>2015年10月24日 - OKINAWA de Gacha</small>
   - <small>2015年11月1日 - ROXYPARTY vol.3</small>
-  - <small>2015年12月1日 - 東海ラジオ、@FM、ZIP-FM presents 「RADIO Steady Go\!
-    SPADE BOX Open Special Month\!」</small>
-  - <small>2015年12月13日 - hide Birthday Party 2015 ～MIX LEMONed JELLY pre
-    collection～</small>
+  - <small>2015年12月1日 - 東海ラジオ、@FM、ZIP-FM presents 「RADIO Steady Go\! SPADE BOX Open Special Month\!」</small>
+  - <small>2015年12月13日 - hide Birthday Party 2015 ～MIX LEMONed JELLY pre collection～</small>
   - <small>2016年1月15日 - ビクターロック祭り 番外編「Dog Run Night vol.1」</small>
   - <small>2016年1月16日 - VSCIRCUIT jealkbvsGacharic Spin</small>
   - <small>2016年2月3日 - 共鳴レンサ</small>
@@ -692,8 +661,7 @@ KOGA、はな、TOMO-ZO、オレオレオナ與[1號まい](../Page/森下真依
   - <small>2016年9月3日 - JUICY GIRLS</small>
   - <small>2016年9月4日 - Gacharic Spin×SHOW-YA</small>
   - <small>2016年9月18日 - Electric Lady Loud</small>
-  - <small>2016年10月9日 - ビクターロック祭り×MBS音祭～2016大阪・秋の陣～supported by
-    uP\!\!</small>
+  - <small>2016年10月9日 - ビクターロック祭り×MBS音祭～2016大阪・秋の陣～supported by uP\!\!</small>
 
 ## 參考資料
 
@@ -702,19 +670,13 @@ KOGA、はな、TOMO-ZO、オレオレオナ與[1號まい](../Page/森下真依
 ## 外部連結
 
   - [官方網站](http://www.gacharicspin.com/)
-  - [GacharicSpin
-    ガチャリック](https://twitter.com/Gachapin_info) (@Gachapin_info)
-    - [Twitter](../Page/Twitter.md "wikilink")
-  - [Gacharic Spin](https://www.youtube.com/user/gacharicspinch) -
-    [YouTube](../Page/YouTube.md "wikilink")
-  - [Gacharic
-    Spin](https://www.facebook.com/gacharicspin) - [Facebook](../Page/Facebook.md "wikilink")
+  - [GacharicSpin ガチャリック](https://twitter.com/Gachapin_info) (@Gachapin_info) - [Twitter](../Page/Twitter.md "wikilink")
+  - [Gacharic Spin](https://www.youtube.com/user/gacharicspinch) - [YouTube](../Page/YouTube.md "wikilink")
+  - [Gacharic Spin](https://www.facebook.com/gacharicspin) - [Facebook](../Page/Facebook.md "wikilink")
   - [ガチャンネル](http://ch.nicovideo.jp/gachannel) - [ニコニコチャンネル](https://zh.wikipedia.org/wiki/ニコニコチャンネル "wikilink")
-  - [まい_Gacharic
-    Spin(mai_gacharicspin)](https://www.instagram.com/mai_gacharicspin/) - [Instagram](../Page/Instagram.md "wikilink")
+  - [まい_Gacharic Spin(mai_gacharicspin)](https://www.instagram.com/mai_gacharicspin/) - [Instagram](../Page/Instagram.md "wikilink")
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink")
 
 1.
 2.

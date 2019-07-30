@@ -1,16 +1,12 @@
-**OMG（Oh My
-God）电子竞技俱乐部**是一家成立于2012年6月的中国电子竞技俱乐部。该队目前有《英雄联盟》、《绝地求生》、《FIFA》等分部。
+**OMG（Oh My God）电子竞技俱乐部**是一家成立于2012年6月的中国电子竞技俱乐部。该队目前有《英雄联盟》、《绝地求生》、《FIFA》等分部。
 
 ## 英雄联盟分部
 
-OMG英雄联盟战队为OMG俱乐部最早的分部，为中国英雄联盟职业化初期强队之一，也是迄今为止[英雄联盟职业联赛各参赛队伍中唯一始终坚持](../Page/英雄联盟职业联赛.md "wikilink")“全华班”阵容者。其曾获得首届英雄联盟职业联赛冠军，并曾在2013与2014年参加[英雄联盟全球总决赛](../Page/英雄联盟全球总决赛.md "wikilink")。OMG因在两次世界赛上多次战胜来自韩国的战队而收获众多粉丝，也曾在[英雄联盟2014赛季全球总决赛小组赛阶段面对](../Page/英雄联盟2014赛季全球总决赛.md "wikilink")[Fnatic时上演过在对方传送偷家本方基地仅剩丝血的情况下回城防守成功并最终取胜的高光时刻](../Page/Fnatic.md "wikilink")，该场比赛也被认为是英雄联盟世界赛的经典镜头之一，并出现在[英雄联盟2016赛季全球总决赛的宣传动画中](../Page/英雄联盟2016赛季全球总决赛.md "wikilink")。惟其在2013、2014两年的世界赛中均被拥有[Uzi的](../Page/简自豪.md "wikilink")[皇族战队淘汰](../Page/皇族电子竞技俱乐部.md "wikilink")。
+OMG英雄联盟战队为OMG俱乐部最早的分部，为中国英雄联盟职业化初期强队之一，也是迄今为止[英雄联盟职业联赛](../Page/英雄联盟职业联赛.md "wikilink")各参赛队伍中唯一始终坚持“全华班”阵容者。其曾获得首届英雄联盟职业联赛冠军，并曾在2013与2014年参加[英雄联盟全球总决赛](../Page/英雄联盟全球总决赛.md "wikilink")。OMG因在两次世界赛上多次战胜来自韩国的战队而收获众多粉丝，也曾在[英雄联盟2014赛季全球总决赛](../Page/英雄联盟2014赛季全球总决赛.md "wikilink")小组赛阶段面对[Fnatic](../Page/Fnatic.md "wikilink")时上演过在对方传送偷家本方基地仅剩丝血的情况下回城防守成功并最终取胜的高光时刻，该场比赛也被认为是英雄联盟世界赛的经典镜头之一，并出现在[英雄联盟2016赛季全球总决赛](../Page/英雄联盟2016赛季全球总决赛.md "wikilink")的宣传动画中。惟其在2013、2014两年的世界赛中均被拥有[Uzi的](../Page/简自豪.md "wikilink")[皇族战队淘汰](../Page/皇族电子竞技俱乐部.md "wikilink")。
 
-OMG俱乐部在2015年从皇族买入Uzi后其豪华阵容一度被形容为“银河战舰”，然而随后队员之间出现严重不和，致使OMG成绩一落千丈，不仅从此无缘世界赛，甚至在2016年两度进入保级赛。虽然其在2017年成绩有所起色，以LPL春季赛第四名身份参加当年[洲际系列赛并与WE](https://zh.wikipedia.org/wiki/洲际系列赛 "wikilink")、RNG、EDG一同夺冠，但在夏季赛中队员与管理层间再度爆发矛盾。在OMG在[英雄联盟2017赛季全球总决赛中国赛区的冒泡赛中被](../Page/英雄联盟2017赛季全球总决赛.md "wikilink")[IG淘汰后](../Page/IG电子竞技俱乐部.md "wikilink")，队中主力AD
-Smlz离队，而OMG的成绩也再度滑坡，在2018年春季赛小组赛中以5胜14负排名西部倒数第二无缘季后赛，所幸当赛季LPL已取消降级制度。
+OMG俱乐部在2015年从皇族买入Uzi后其豪华阵容一度被形容为“银河战舰”，然而随后队员之间出现严重不和，致使OMG成绩一落千丈，不仅从此无缘世界赛，甚至在2016年两度进入保级赛。虽然其在2017年成绩有所起色，以LPL春季赛第四名身份参加当年[洲际系列赛并与WE](https://zh.wikipedia.org/wiki/洲际系列赛 "wikilink")、RNG、EDG一同夺冠，但在夏季赛中队员与管理层间再度爆发矛盾。在OMG在[英雄联盟2017赛季全球总决赛](../Page/英雄联盟2017赛季全球总决赛.md "wikilink")中国赛区的冒泡赛中被[IG淘汰后](../Page/IG电子竞技俱乐部.md "wikilink")，队中主力AD Smlz离队，而OMG的成绩也再度滑坡，在2018年春季赛小组赛中以5胜14负排名西部倒数第二无缘季后赛，所幸当赛季LPL已取消降级制度。
 
-OMG目前有两支英雄联盟战队，分别为参加LPL的OMG战队和参加LDL的OMD(Oh My
-Dream)战队，此外其曾有一支全部由女性选手组成的"Oh My
-Girls"战队，但现已解散。
+OMG目前有两支英雄联盟战队，分别为参加LPL的OMG战队和参加LDL的OMD(Oh My Dream)战队，此外其曾有一支全部由女性选手组成的"Oh My Girls"战队，但现已解散。
 
 ### OMG战队
 
@@ -258,7 +254,7 @@ Girls"战队，但现已解散。
 
 ## 绝地求生分部
 
-OMG[绝地求生分部成立于](https://zh.wikipedia.org/wiki/绝地求生 "wikilink")2017年8月，该队在2018年的“绝地求生中国职业邀请赛(PCPI)”中获得FPP（第一人称视角）模式冠军，并获得参加当年在[德国](../Page/德国.md "wikilink")[柏林举办的PGI](../Page/柏林.md "wikilink")（[绝地求生全球邀请赛](https://zh.wikipedia.org/wiki/绝地求生全球邀请赛 "wikilink")）的资格。
+OMG[绝地求生分部成立于](https://zh.wikipedia.org/wiki/绝地求生 "wikilink")2017年8月，该队在2018年的“绝地求生中国职业邀请赛(PCPI)”中获得FPP（第一人称视角）模式冠军，并获得参加当年在[德国](../Page/德国.md "wikilink")[柏林](../Page/柏林.md "wikilink")举办的PGI（[绝地求生全球邀请赛](https://zh.wikipedia.org/wiki/绝地求生全球邀请赛 "wikilink")）的资格。
 
 在2018年绝地求生全球邀请赛FPP（第一人称视角）模式中，OMG战队在第一天四场比赛中三次吃鸡（第一名），并最终获得FPP模式总冠军。OMG也成为继2005年[CS项目的wNv之后第二支在](../Page/反恐精英.md "wikilink")[FPS类游戏中获得世界冠军的中国战队](../Page/第一人称射击游戏.md "wikilink")。
 
@@ -316,5 +312,4 @@ OMG[绝地求生分部成立于](https://zh.wikipedia.org/wiki/绝地求生 "wik
   - **[绝地求生全球邀请赛](https://zh.wikipedia.org/wiki/绝地求生全球邀请赛 "wikilink")(PGI)-FPP（第一人称视角）模式：**2018
   - **[绝地求生中国职业邀请赛](https://zh.wikipedia.org/wiki/绝地求生中国职业邀请赛 "wikilink")(PCPI)：**2018
 
-[Category:中国大陆电子竞技团队](https://zh.wikipedia.org/wiki/Category:中国大陆电子竞技团队 "wikilink")
-[Category:英雄联盟竞技团队](https://zh.wikipedia.org/wiki/Category:英雄联盟竞技团队 "wikilink")
+[Category:中国大陆电子竞技团队](https://zh.wikipedia.org/wiki/Category:中国大陆电子竞技团队 "wikilink") [Category:英雄联盟竞技团队](https://zh.wikipedia.org/wiki/Category:英雄联盟竞技团队 "wikilink")

@@ -1,18 +1,12 @@
-**iOS
-11**是[苹果公司开发的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iOS的第](https://zh.wikipedia.org/wiki/iOS "wikilink")11个版本，于2017年6月5日召开的[WWDC](https://zh.wikipedia.org/wiki/WWDC "wikilink")2017首日公布，是[iOS
-10的后继版本](https://zh.wikipedia.org/wiki/iOS_10 "wikilink")。正式版於2017年9月20日推出。
+**iOS 11**是[苹果公司开发的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iOS的第](https://zh.wikipedia.org/wiki/iOS "wikilink")11个版本，于2017年6月5日召开的[WWDC](https://zh.wikipedia.org/wiki/WWDC "wikilink")2017首日公布，是[iOS 10的后继版本](https://zh.wikipedia.org/wiki/iOS_10 "wikilink")。正式版於2017年9月20日推出。
 
-iOS 11
-新增許多功能，iPad交互變化更是相當大。如通知中心與鎖定畫面合二為一，使得通知可以直接在鎖定畫面中顯示，並且可以上滑或下滑來顯示或隱藏內容。[iMessage可以轉帳](https://zh.wikipedia.org/wiki/iMessage "wikilink")\[1\]。Live
-Photo 亦有多種特效\[2\]。控制中心，從iOS 10的多頁式面板合併為單頁，搭配[3D
-Touch可使用更多功能](../Page/3D_Touch.md "wikilink")，例如開關行動數據、省電模式，使用者更可自訂選單內容。地圖亦加入室內地圖與室內導航。[Siri聲音更人性化且可以翻譯](../Page/Siri.md "wikilink")（目前只可以將英語翻譯為中文、法文、德文、意大利文及西班牙文）。皆為[64位元版本](../Page/64位元.md "wikilink")，[32位元以下的蘋果裝置無法升級](../Page/32位元.md "wikilink")。本代系統也因為bug相當多而備受批評。
+iOS 11 新增許多功能，iPad交互變化更是相當大。如通知中心與鎖定畫面合二為一，使得通知可以直接在鎖定畫面中顯示，並且可以上滑或下滑來顯示或隱藏內容。[iMessage可以轉帳](https://zh.wikipedia.org/wiki/iMessage "wikilink")\[1\]。Live Photo 亦有多種特效\[2\]。控制中心，從iOS 10的多頁式面板合併為單頁，搭配[3D Touch可使用更多功能](../Page/3D_Touch.md "wikilink")，例如開關行動數據、省電模式，使用者更可自訂選單內容。地圖亦加入室內地圖與室內導航。[Siri](../Page/Siri.md "wikilink")聲音更人性化且可以翻譯（目前只可以將英語翻譯為中文、法文、德文、意大利文及西班牙文）。皆為[64位元](../Page/64位元.md "wikilink")版本，[32位元](../Page/32位元.md "wikilink")以下的蘋果裝置無法升級。本代系統也因為bug相當多而備受批評。
 
 ## 历史
 
 ### iOS 11.0
 
-  - 2017年6月5日，在[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[WWDC
-    2017上首次公布](https://zh.wikipedia.org/wiki/WWDC "wikilink")，并在当日提供[开发者测试版供注册开发者下载](../Page/軟件版本週期.md "wikilink")。
+  - 2017年6月5日，在[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[WWDC 2017上首次公布](https://zh.wikipedia.org/wiki/WWDC "wikilink")，并在当日提供[开发者测试版供注册开发者下载](../Page/軟件版本週期.md "wikilink")。
 
 <!-- end list -->
 
@@ -168,8 +162,7 @@ Touch可使用更多功能](../Page/3D_Touch.md "wikilink")，例如開關行動
 
 <!-- end list -->
 
-  - 2017年12月14日，發布了開發者測試版 iOS 11.2.5 Developer Beta 1，罕有地跳過了 iOS 11.2.2,
-    11.2.3, 11.2.4。此版本對效能進行優化及修復bug，但續航仍未見改善。
+  - 2017年12月14日，發布了開發者測試版 iOS 11.2.5 Developer Beta 1，罕有地跳過了 iOS 11.2.2, 11.2.3, 11.2.4。此版本對效能進行優化及修復bug，但續航仍未見改善。
 
 <!-- end list -->
 
@@ -257,8 +250,7 @@ Touch可使用更多功能](../Page/3D_Touch.md "wikilink")，例如開關行動
 
 <!-- end list -->
 
-  - 2018年5月15日，發佈了開發者測試版的 iOS 11.4 beta
-    5，此版本修復了在控制中心調整音量時音量圖示動畫不會隨著更新的問題。
+  - 2018年5月15日，發佈了開發者測試版的 iOS 11.4 beta 5，此版本修復了在控制中心調整音量時音量圖示動畫不會隨著更新的問題。
 
 <!-- end list -->
 
@@ -307,8 +299,7 @@ Touch可使用更多功能](../Page/3D_Touch.md "wikilink")，例如開關行動
 5.  App Store 中，App 頁面包含更多預覽影片、編輯精選標記、位置更顯目的使用者評論和關於 App 內購買的資訊。
 6.  新的 [Siri](../Page/Siri.md "wikilink") 聲音變得更自然生動。
 7.  可以將英文字詞翻譯成簡體中文、法文、德文、義大利文或西班牙文（beta版）。
-8.  [Siri](../Page/Siri.md "wikilink") 可以根據您在
-    Safari、News、「郵件」和「訊息」中的使用方式提出建議。
+8.  [Siri](../Page/Siri.md "wikilink") 可以根據您在 Safari、News、「郵件」和「訊息」中的使用方式提出建議。
 9.  [Siri](../Page/Siri.md "wikilink") 可與其他備忘錄 App 搭配使用來製作待辦事項、備忘錄和提醒事項。
 10. [Siri](../Page/Siri.md "wikilink") 可與銀行 App 搭配使用來轉帳和顯示餘額。
 11. [Siri](../Page/Siri.md "wikilink") 可與其他 App 搭配使用來顯示行動條碼。
@@ -329,34 +320,21 @@ Touch可使用更多功能](../Page/3D_Touch.md "wikilink")，例如開關行動
 26. 在「地圖」App 中移動裝置來進行 Flyover\[4\] 互動。
 27. 「勿擾模式」中新增「開車勿擾模式」的選項，可在開車時自動將通知靜音，保持 iPhone 靜音並關閉顯示器。
 28. 在「開車勿擾模式」中，可選擇透過 iMessage 的自動回覆，提示所選聯絡人你正在開車。
-29. 全新 Dock 欄可快速打開喜愛和最近使用的 App，還可在執行中的 App
-    上方顯示。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
-30. Dock 欄可加入所有喜愛的
-    App，並會自動調整大小方便使用。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
-31. Dock 欄中最近使用和接續互通的 App
-    會在右側顯示。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
-32. 可在[iPad上使用增強的](https://zh.wikipedia.org/wiki/iPad "wikilink") Slide
-    Over 和 Split View
-    功能\[5\]。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
-33. 從 Dock 欄可以輕鬆開啟 App 的 Slide Over 和 Split View
-    顯示方式。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
-34. Slide Over 和背景 App
-    現在可以同時執行。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
-35. Slide Over 和 Split View 中的 App
-    現可顯示在螢幕左側。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
-36. 可使用拖移在不同 App
-    間搬移文字、影像和檔案。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
+29. 全新 Dock 欄可快速打開喜愛和最近使用的 App，還可在執行中的 App 上方顯示。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
+30. Dock 欄可加入所有喜愛的 App，並會自動調整大小方便使用。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
+31. Dock 欄中最近使用和接續互通的 App 會在右側顯示。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
+32. 可在[iPad上使用增強的](https://zh.wikipedia.org/wiki/iPad "wikilink") Slide Over 和 Split View 功能\[5\]。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
+33. 從 Dock 欄可以輕鬆開啟 App 的 Slide Over 和 Split View 顯示方式。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
+34. Slide Over 和背景 App 現在可以同時執行。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
+35. Slide Over 和 Split View 中的 App 現可顯示在螢幕左側。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
+36. 可使用拖移在不同 App 間搬移文字、影像和檔案。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
 37. 可使用 Multi-Touch 同時搬移多個項目。
-38. 可使用自動開合功能在不同 App
-    間搬移內容。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
+38. 可使用自動開合功能在不同 App 間搬移內容。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
 39. 可在文件、PDF、網頁、照片等地方加入「標示」。
-40. 不管在哪裡，只要將 Apple Pencil
-    放在想要做記號的地方，就可以立即標示。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
+40. 不管在哪裡，只要將 Apple Pencil 放在想要做記號的地方，就可以立即標示。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
 41. 製作 PDF 後可在所有可以被列印出來的畫面上標示。
-42. 用 Apple Pencil
-    點一下鎖定畫面來立即製作新的備忘錄。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
-43. 將 Apple Pencil
-    放在備忘錄內文來使用內文塗鴉。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
+42. 用 Apple Pencil 點一下鎖定畫面來立即製作新的備忘錄。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
+43. 將 Apple Pencil 放在備忘錄內文來使用內文塗鴉。<small>([iPad特有功能](https://zh.wikipedia.org/wiki/iPad "wikilink"))</small>
 44. 可在「備忘錄」App 中搜尋手寫文字。
 45. 「備忘錄」App 中的文件掃描器會自動修正傾斜問題並使用影像濾鏡來移除陰影。
 46. 「備忘錄」App 現在支援加入表格來整理和顯示資訊。
@@ -373,17 +351,13 @@ Touch可使用更多功能](../Page/3D_Touch.md "wikilink")，例如開關行動
 57. 新增 AirPlay 2 揚聲器、灑水器和水龍頭等配件類型。
 58. 增加有人在場、時間和配件等條件的觸發器。
 59. 支援行動條碼和點一下來配對配件的設定。
-60. 透過[擴增實境技術](../Page/擴增實境.md "wikilink")，App Store 中的 App
-    可以將互動式遊戲、身歷其境的購物體驗、工業設計的內容帶入現實世界的場景。
-61. 透過核心機器學習技術，App Store 中的 App
-    可以運用裝置上經過處理，提供高執行效能和保護使用者隱私的機器學習資料，打造出更智慧的功能。
+60. 透過[擴增實境](../Page/擴增實境.md "wikilink")技術，App Store 中的 App 可以將互動式遊戲、身歷其境的購物體驗、工業設計的內容帶入現實世界的場景。
+61. 透過核心機器學習技術，App Store 中的 App 可以運用裝置上經過處理，提供高執行效能和保護使用者隱私的機器學習資料，打造出更智慧的功能。
 62. 經過重新設計的「控制中心」可在同一頁面上顯示所有控制項目。
 63. 「控制中心」的自定控制項目包含輔助使用、引導使用模式、放大鏡、文字大小、螢幕錄製和 Wallet
 64. Apple Music 現可協助你與朋友一起發現好音樂。也可以製作個人檔案，讓朋友聆聽你分享的播放列表，並查看你最常聽的音樂。
-65. Podcast
-    採用全新設計。使用「立即收聽」輕鬆播放最新單集，或從上次中斷的地方繼續收聽。節目現在還可以包含全季節目、預告片和附贈單集。
-66. 「自動設定」可以使用您的 Apple ID 將您登入 iCloud、「鑰匙圈」、iTunes、App Store、iMessage 和
-    FaceTime。
+65. Podcast 採用全新設計。使用「立即收聽」輕鬆播放最新單集，或從上次中斷的地方繼續收聽。節目現在還可以包含全季節目、預告片和附贈單集。
+66. 「自動設定」可以使用您的 Apple ID 將您登入 iCloud、「鑰匙圈」、iTunes、App Store、iMessage 和 FaceTime。
 67. 「自動設定」回復的裝置設定包含：語言、區域、網路、鍵盤偏好設定、您常去的位置、您如何與 Siri 對話，還有家庭和健康資料。
 68. 分享 Wi-Fi 網路取用權限變得更輕鬆了。
 69. 新增儲存空間最佳化通知，可在「設定」中釋放「照片」、「訊息」等 App 的空間。
@@ -409,21 +383,14 @@ Touch可使用更多功能](../Page/3D_Touch.md "wikilink")，例如開關行動
 
 ### iOS 11.0.2
 
-1.  修正小部分 [iPhone 8](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")
-    及 [iPhone 8
-    Plus](https://zh.wikipedia.org/wiki/iPhone_8_Plus "wikilink")
-    裝置通話時可能發出劈啪聲雜音的問題。
+1.  修正小部分 [iPhone 8](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink") 及 [iPhone 8 Plus](https://zh.wikipedia.org/wiki/iPhone_8_Plus "wikilink") 裝置通話時可能發出劈啪聲雜音的問題。
 2.  解決部分相片無法顯示的問題。
 3.  修正受 S/MIME 加密的電郵附件無法打開的問題。
 
 ### iOS 11.0.3
 
-1.  修正部分 [iPhone 7](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink") 和
-    [iPhone 7
-    Plus](https://zh.wikipedia.org/wiki/iPhone_7_Plus "wikilink")
-    裝置上音訊和觸覺回報無法正常運作的問題。
-2.  解決部分 [iPhone 6s](https://zh.wikipedia.org/wiki/iPhone_6s "wikilink")
-    顯示器因為維修時使用了非原廠 Apple 零件，導致觸控輸入無法回應的問題。
+1.  修正部分 [iPhone 7](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink") 和 [iPhone 7 Plus](https://zh.wikipedia.org/wiki/iPhone_7_Plus "wikilink") 裝置上音訊和觸覺回報無法正常運作的問題。
+2.  解決部分 [iPhone 6s](https://zh.wikipedia.org/wiki/iPhone_6s "wikilink") 顯示器因為維修時使用了非原廠 Apple 零件，導致觸控輸入無法回應的問題。
 
 ### iOS 11.1
 
@@ -454,28 +421,18 @@ iOS 11.1 推出超過 70 多個新的表情符號，並包含錯誤修正和改�
 
 ### iOS 11.1.2
 
-1.  修正 [iPhone X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")
-    在溫度急速下降後暫時無法觸控的問題。
-2.  修正 [iPhone X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink") 在拍攝
-    Live Photos 及影片時可能造成失真的問題。
+1.  修正 [iPhone X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink") 在溫度急速下降後暫時無法觸控的問題。
+2.  修正 [iPhone X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink") 在拍攝 Live Photos 及影片時可能造成失真的問題。
 
 ### iOS 11.2
 
-iOS 11.2 加入 Apple Pay Cash（只限美國），可使用 Apple Pay
-來向親朋好友付款、請款和收款。此更新項目同時包含了錯誤修正和改進功能。
+iOS 11.2 加入 Apple Pay Cash（只限美國），可使用 Apple Pay 來向親朋好友付款、請款和收款。此更新項目同時包含了錯誤修正和改進功能。
 
 詳細新增及修復內容如下：
 
-1.  在「訊息」或透過 [Siri](../Page/Siri.md "wikilink") 使用 [Apple
-    Pay](https://zh.wikipedia.org/wiki/Apple_Pay "wikilink")
-    在親友間付款、請款與收款（只限美國）。
-2.  [iPhone
-    8](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")、[iPhone 8
-    Plus](https://zh.wikipedia.org/wiki/iPhone_8_Plus "wikilink") 和
-    [iPhone X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")
-    可通過兼容的第三方配件進行無線快速充電。
-3.  [iPhone X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")
-    新增三張實況牆紙。
+1.  在「訊息」或透過 [Siri](../Page/Siri.md "wikilink") 使用 [Apple Pay](https://zh.wikipedia.org/wiki/Apple_Pay "wikilink") 在親友間付款、請款與收款（只限美國）。
+2.  [iPhone 8](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")、[iPhone 8 Plus](https://zh.wikipedia.org/wiki/iPhone_8_Plus "wikilink") 和 [iPhone X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink") 可通過兼容的第三方配件進行無線快速充電。
+3.  [iPhone X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink") 新增三張實況牆紙。
 4.  提高攝影機的穩定性。
 5.  [Podcast](../Page/播客.md "wikilink") 支援自動播放同一個節目中的下一集。
 6.  HealthKit 支援高山滑雪運動距離為一種數據類型。
@@ -505,8 +462,7 @@ iOS 11.2 加入 Apple Pay Cash（只限美國），可使用 Apple Pay
 
 ### iOS 11.2.5
 
-iOS 11.2.5 新增 HomePod 支援並加入了讓 Siri
-朗讀新聞的功能（只限美國、英國和澳洲）。此更新項目同時包含了錯誤修正和改進功能。
+iOS 11.2.5 新增 HomePod 支援並加入了讓 Siri 朗讀新聞的功能（只限美國、英國和澳洲）。此更新項目同時包含了錯誤修正和改進功能。
 
 詳細新增及修復內容如下：
 
@@ -514,9 +470,7 @@ iOS 11.2.5 新增 HomePod 支援並加入了讓 Siri
 2.  [Siri](../Page/Siri.md "wikilink") 朗讀新聞(僅適用於英文語系國家）。
 3.  修正 chaiOS 漏洞問題。
 4.  解決了「電話」App 在通話列表中顯示不完整資訊的問題。
-5.  修正了透過 Face ID 解鎖 [iPhone
-    X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink") 時，部分 Exchange
-    帳號的「郵件」通知會在鎖定畫面中消失的問題。
+5.  修正了透過 Face ID 解鎖 [iPhone X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink") 時，部分 Exchange 帳號的「郵件」通知會在鎖定畫面中消失的問題。
 6.  解決了「訊息」對話會暫時出現亂序排列的問題。
 7.  修正了 CarPlay「播放中」的控制項目可能會在更改多次音軌後變得無法回應的問題。
 8.  新增宣告播放目標和 AirPod 電池電量的 VoiceOver 功能。
@@ -528,20 +482,16 @@ iOS 11.2.5 新增 HomePod 支援並加入了讓 Siri
 
 ### iOS 11.3
 
-iOS 11.3 推出的新功能包含 ARKit 1.5：支援更令人身歷其境的擴增實境體驗、iPhone 電池健康度（Beta 版）、為
-iPhone X 使用者設計的全新 Animoji 等等。此次更新也改進了穩定性並修正錯誤。
+iOS 11.3 推出的新功能包含 ARKit 1.5：支援更令人身歷其境的擴增實境體驗、iPhone 電池健康度（Beta 版）、為 iPhone X 使用者設計的全新 Animoji 等等。此次更新也改進了穩定性並修正錯誤。
 
 詳細新增和修復內容如下：
 
 1.  新的 ARKit 1.5 允許開發者將數位物件放在牆壁和門板等垂直表面上。
 2.  ARKit 現在支援偵測和整合電影海報或插圖等影像到 AR 體驗當中。
 3.  現在使用 [AR](../Page/擴增實境.md "wikilink") 體驗時，顯示較高解析度的真實世界相機影像。
-4.  新的 iPhone 電池健康度（Beta 版）可顯示 iPhone
-    最大電池容量和高峰期效能容量的資訊，顯示是否已開啟效能管理功能（以動態方式管理最大效能來防止無預警關機）並包含停用此功能的選項，且建議電池是否需要維修服務。
-5.  在 [iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")
-    長時間連接電源時維持其電池健康度。
-6.  推出四款 [iPhone X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")
-    的全新 Animoji 角色：獅子、熊、龍和骷顱頭。
+4.  新的 iPhone 電池健康度（Beta 版）可顯示 iPhone 最大電池容量和高峰期效能容量的資訊，顯示是否已開啟效能管理功能（以動態方式管理最大效能來防止無預警關機）並包含停用此功能的選項，且建議電池是否需要維修服務。
+5.  在 [iPad](https://zh.wikipedia.org/wiki/iPad "wikilink") 長時間連接電源時維持其電池健康度。
+6.  推出四款 [iPhone X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink") 的全新 Animoji 角色：獅子、熊、龍和骷顱頭。
 7.  若有 Apple 功能要求使用您的個人資訊，會出現「隱私權」頁面，其中會詳細說明您的資料如何被使用和保護。
 8.  「音樂」推出新的音樂錄影帶功能，包含更新過的「音樂錄影帶」區域和獨家的影片播放列表。
 9.  瀏覽 App Store 時，可在其 App 頁面中可依照「最有幫助」、「最高評價」、「最低評價」或「最新評價」來排序評論。
@@ -556,8 +506,7 @@ iPhone X 使用者設計的全新 Animoji 等等。此次更新也改進了穩�
 18. 啟用在聽寫後只要點一下即可切換回鍵盤的功能。
 19. 「智慧型反相」支援網頁和「郵件」中的影像。
 20. 解決了自動修正可能會將部分字母不正確轉換成大寫的問題。
-21. 修正了在 [iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
-    上連接限制網路的 Wi-Fi 存取點後，iPad Smart Keyboard 停止運作的問題。
+21. 修正了在 [iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink") 上連接限制網路的 Wi-Fi 存取點後，iPad Smart Keyboard 停止運作的問題。
 22. 修正了泰文鍵盤會在橫向模式中不正確切換到數字佈局的問題。
 23. App Store 加入支援粗體和放大文字，讓使用者能自定顯示「智慧型反相」支援網頁和「郵件」中的影像。
 24. 解決了 VoiceOver 不正確描述藍牙狀態和標記圖像的問題。
@@ -582,24 +531,18 @@ iPhone X 使用者設計的全新 Animoji 等等。此次更新也改進了穩�
 
 ### iOS 11.3.1
 
-解決了部分 [iPhone 8](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")
-使用非原廠螢幕導致觸控輸入變得無法回應的問題。
+解決了部分 [iPhone 8](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink") 使用非原廠螢幕導致觸控輸入變得無法回應的問題。
 
 ### iOS 11.4
 
-iOS 11.4 包含 AirPlay 2 多房音訊，支援 HomePod 立體聲配對以及 iCloud
-雲端「訊息」。此更新項目也包含錯誤修正和改進內容。
+iOS 11.4 包含 AirPlay 2 多房音訊，支援 HomePod 立體聲配對以及 iCloud 雲端「訊息」。此更新項目也包含錯誤修正和改進內容。
 
 詳細新增和修復內容如下︰
 
 1.  現在可使用 Messages in iCloud。
 2.  現在支援AirPlay 2。
-3.  為 [iPhone 8](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink") 和
-    [iPhone 8
-    Plus](https://zh.wikipedia.org/wiki/iPhone_8_Plus "wikilink")
-    增加紅色新桌布。
-4.  [iPhone X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink") 使用皮革
-    Folio 保護殼新增自動鎖定設定。
+3.  為 [iPhone 8](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink") 和 [iPhone 8 Plus](https://zh.wikipedia.org/wiki/iPhone_8_Plus "wikilink") 增加紅色新桌布。
+4.  [iPhone X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink") 使用皮革 Folio 保護殼新增自動鎖定設定。
 5.  加入「USB 限制模式」防止 GrayKey 解鎖你的 iPhone。
 6.  Siri 支援 AirPlay 遙距播放音樂。
 7.  Siri 支援行事曆查詢和編輯。
@@ -620,22 +563,13 @@ iOS 11.4 包含 AirPlay 2 多房音訊，支援 HomePod 立體聲配對以及 iC
 
 ## 軟硬體支援
 
-iOS 11移除了对[32位元處理器的支援](../Page/32位元.md "wikilink")，因此[iPhone
-5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")、[iPhone
-5c及](https://zh.wikipedia.org/wiki/iPhone_5c "wikilink")[iPad
-4等使用](https://zh.wikipedia.org/wiki/iPad_4 "wikilink")[A6处理器或更早的处理器之舊款產品無法更新到iOS](../Page/Apple_A6.md "wikilink")
-11。[蘋果公司也於](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2016年提醒[App開發者需更新其開發的App至](https://zh.wikipedia.org/wiki/App "wikilink")[64位元架構](../Page/64位元.md "wikilink")，32位元架構的App無法繼續在iOS
-11內執行\[6\]。
+iOS 11移除了对[32位元](../Page/32位元.md "wikilink")處理器的支援，因此[iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")、[iPhone 5c及](https://zh.wikipedia.org/wiki/iPhone_5c "wikilink")[iPad 4等使用](https://zh.wikipedia.org/wiki/iPad_4 "wikilink")[A6处理器或更早的处理器之舊款產品無法更新到iOS](../Page/Apple_A6.md "wikilink") 11。[蘋果公司也於](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2016年提醒[App開發者需更新其開發的App至](https://zh.wikipedia.org/wiki/App "wikilink")[64位元](../Page/64位元.md "wikilink")架構，32位元架構的App無法繼續在iOS 11內執行\[6\]。
 
 ## 中文化（僅[简体中文版](https://zh.wikipedia.org/wiki/简体中文 "wikilink")）
 
 2017年11月初的更新，对许多原为英文的功能名称进行了[本地化](https://zh.wikipedia.org/wiki/本地化 "wikilink")，以便于用户使用和理解，汉化分为原义呈现、混合搭配和巧思创意三种方式。\[7\]
 
-當中，[AirPlay的中文名稱為](https://zh.wikipedia.org/wiki/AirPlay "wikilink")**隔空播放**，[AirDrop的中文名称为](https://zh.wikipedia.org/wiki/AirDrop "wikilink")**隔空投送**，[Handoff的中文名稱為](https://zh.wikipedia.org/wiki/Handoff "wikilink")**接力**，[CarPlay則稱為](../Page/CarPlay.md "wikilink")**CarPlay
-車載**，[iMovie改成](https://zh.wikipedia.org/wiki/iMovie "wikilink")**iMovie剪輯**，[Touch
-ID改成](https://zh.wikipedia.org/wiki/Touch_ID "wikilink")**觸控ID**，[Live
-Photos改叫](https://zh.wikipedia.org/wiki/Live_Photos "wikilink")**实況照片**，[iCloud
-Drive叫](https://zh.wikipedia.org/wiki/iCloud_Drive "wikilink")**iCloud雲盤**，[Dock改為](https://zh.wikipedia.org/wiki/Dock "wikilink")**程序塢**等。
+當中，[AirPlay的中文名稱為](https://zh.wikipedia.org/wiki/AirPlay "wikilink")**隔空播放**，[AirDrop的中文名称为](https://zh.wikipedia.org/wiki/AirDrop "wikilink")**隔空投送**，[Handoff的中文名稱為](https://zh.wikipedia.org/wiki/Handoff "wikilink")**接力**，[CarPlay](../Page/CarPlay.md "wikilink")則稱為**CarPlay 車載**，[iMovie改成](https://zh.wikipedia.org/wiki/iMovie "wikilink")**iMovie剪輯**，[Touch ID改成](https://zh.wikipedia.org/wiki/Touch_ID "wikilink")**觸控ID**，[Live Photos改叫](https://zh.wikipedia.org/wiki/Live_Photos "wikilink")**实況照片**，[iCloud Drive叫](https://zh.wikipedia.org/wiki/iCloud_Drive "wikilink")**iCloud雲盤**，[Dock改為](https://zh.wikipedia.org/wiki/Dock "wikilink")**程序塢**等。
 
 ## 参考资料
 
@@ -652,5 +586,4 @@ Drive叫](https://zh.wikipedia.org/wiki/iCloud_Drive "wikilink")**iCloud雲盤**
 
 6.  [32位元掰掰　iOS11全面邁向64位元時代](http://www.nownews.com/n/2017/06/07/2552474)
 
-7.  [功能变中文名！苹果iOS11.2测试版更加本土化 - 苹果,iOS11.2 -
-    IT之家](https://www.ithome.com/html/iphone/332305.htm)
+7.  [功能变中文名！苹果iOS11.2测试版更加本土化 - 苹果,iOS11.2 - IT之家](https://www.ithome.com/html/iphone/332305.htm)

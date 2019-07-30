@@ -1,11 +1,8 @@
-《**千萬Holic，Coming
-Soon**》（；）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Channel
-A的電影](../Page/Channel_A.md "wikilink")[脫口秀節目](https://zh.wikipedia.org/wiki/脫口秀 "wikilink")，由[申東燁](../Page/申東燁.md "wikilink")、[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")、[倞利](https://zh.wikipedia.org/wiki/倞利 "wikilink")、[金基邦](../Page/金基邦.md "wikilink")、主持。節目於2018年2月23日至5月19日播出\[1\]\[2\]，每集均會邀請近期上映的電影主要演員擔任嘉賓，與主持一起對該電影作深度討論\[3\]。
+《**千萬Holic，Coming Soon**》（；）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Channel A的電影](../Page/Channel_A.md "wikilink")[脫口秀節目](https://zh.wikipedia.org/wiki/脫口秀 "wikilink")，由[申東燁](../Page/申東燁.md "wikilink")、[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")、[倞利](https://zh.wikipedia.org/wiki/倞利 "wikilink")、[金基邦](../Page/金基邦.md "wikilink")、主持。節目於2018年2月23日至5月19日播出\[1\]\[2\]，每集均會邀請近期上映的電影主要演員擔任嘉賓，與主持一起對該電影作深度討論\[3\]。
 
 ## 節目形式
 
-《**千萬Holic，Coming
-Soon**》為[韓國首個以介紹最新電影為主軸的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[綜藝](https://zh.wikipedia.org/wiki/綜藝 "wikilink")[脫口秀節目](https://zh.wikipedia.org/wiki/脫口秀 "wikilink")。節目錄影前，主持會預先觀看即將介紹的電影之高潮部分，以了解該電影的看點。每集節目均會邀請近期上映的電影主要演員擔任嘉賓，分享拍攝時的趣事及感想，並與主持一起對該電影的主題及情節作深度討論。此外，該電影的導演及其他演員如配角、新人演員等會於節目中段的特別環節出演。
+《**千萬Holic，Coming Soon**》為[韓國首個以介紹最新電影為主軸的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[綜藝](https://zh.wikipedia.org/wiki/綜藝 "wikilink")[脫口秀節目](https://zh.wikipedia.org/wiki/脫口秀 "wikilink")。節目錄影前，主持會預先觀看即將介紹的電影之高潮部分，以了解該電影的看點。每集節目均會邀請近期上映的電影主要演員擔任嘉賓，分享拍攝時的趣事及感想，並與主持一起對該電影的主題及情節作深度討論。此外，該電影的導演及其他演員如配角、新人演員等會於節目中段的特別環節出演。
 
 ## 主持
 
@@ -33,7 +30,7 @@ Soon**》為[韓國首個以介紹最新電影為主軸的](https://zh.wikipedia
 <td><p><a href="https://zh.wikipedia.org/wiki/殷志源" title="wikilink">殷志源</a></p></td>
 <td><p>은지원</p></td>
 <td></td>
-<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩成員</a>）</p></td>
+<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>成員）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/倞利" title="wikilink">倞利</a></p></td>
@@ -66,15 +63,12 @@ Soon**》為[韓國首個以介紹最新電影為主軸的](https://zh.wikipedia
 
 ## 節目環節
 
-  - 臉紅的演出履歷<small>（볼빨간
-    필모）</small>：由主持讀出嘉賓的演出履歷，同時播出剪輯片段，以介紹嘉賓過往演出的作品及獲獎紀錄。
-  - 電影之神請客<small>（영화의 신이
-    쏜다）</small>：主持與嘉賓在觀看電影片段後，需回答片段中隱藏的問題，答對者將以其名義送出該集介紹電影之戲票100張。
+  - 臉紅的演出履歷<small>（볼빨간 필모）</small>：由主持讀出嘉賓的演出履歷，同時播出剪輯片段，以介紹嘉賓過往演出的作品及獲獎紀錄。
+  - 電影之神請客<small>（영화의 신이 쏜다）</small>：主持與嘉賓在觀看電影片段後，需回答片段中隱藏的問題，答對者將以其名義送出該集介紹電影之戲票100張。
 
 ## 播出列表
 
-以下是[Channel A](../Page/Channel_A.md "wikilink")《**千萬Holic，Coming
-Soon**》的播出列表\[5\]。
+以下是[Channel A](../Page/Channel_A.md "wikilink")《**千萬Holic，Coming Soon**》的播出列表\[5\]。
 
 ### 2018年
 
@@ -197,8 +191,7 @@ Soon**》的播出列表\[5\]。
 
 ## 收視率
 
-以下紀錄《**千萬Holic，Coming
-Soon**》節目之全國收視，<span style=color:red>**紅色**</span>表示為該年度最高收視率，<span style=color:blue>**藍色**</span>則表示為該年度最低收視率\[6\]\[7\]。
+以下紀錄《**千萬Holic，Coming Soon**》節目之全國收視，<span style=color:red>**紅色**</span>表示為該年度最高收視率，<span style=color:blue>**藍色**</span>則表示為該年度最低收視率\[6\]\[7\]。
 
 ### 2018年
 
@@ -288,19 +281,14 @@ Soon**》節目之全國收視，<span style=color:red>**紅色**</span>表示�
 
 ## 外部連結
 
-  - [千萬Holic，Coming
-    Soon](http://ichannela.com/program/template/program_refinement.do?cateCode=0500&subCateCode=050029&pgm_id=WPG2170150D)官方網站
+  - [千萬Holic，Coming Soon](http://ichannela.com/program/template/program_refinement.do?cateCode=0500&subCateCode=050029&pgm_id=WPG2170150D)官方網站
 
   -
-  - [千萬Holic，Coming
-    Soon](http://tv.naver.com/channela.comingsoon)的[Naver
-    TV頻道](https://zh.wikipedia.org/wiki/Naver_TV "wikilink")
+  - [千萬Holic，Coming Soon](http://tv.naver.com/channela.comingsoon)的[Naver TV頻道](https://zh.wikipedia.org/wiki/Naver_TV "wikilink")
 
 ## 作品的變遷
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Channel_A](https://zh.wikipedia.org/wiki/Category:Channel_A "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Channel_A](https://zh.wikipedia.org/wiki/Category:Channel_A "wikilink")
 
 1.
 2.

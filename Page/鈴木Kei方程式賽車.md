@@ -1,12 +1,8 @@
-**鈴木Kei方程式賽車**（）乃是[日本鈴木運動公司](../Page/日本.md "wikilink")（[IRD公司前身](../Page/IRD公司.md "wikilink")，[鈴木公司子公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")）製造販售的入門級方程式賽車。
+**鈴木Kei方程式賽車**（）乃是[日本](../Page/日本.md "wikilink")鈴木運動公司（[IRD公司](../Page/IRD公司.md "wikilink")前身，[鈴木公司子公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")）製造販售的入門級方程式賽車。
 
 ## 內容與概要
 
-2001年起鈴木公司開始舉行「鈴木方程式」[賽車活動](../Page/賽車.md "wikilink")，由旗下鈴木運動公司（今[IRD公司](../Page/IRD公司.md "wikilink")）製造出品**鈴木Kei方程式賽車**、[鈴木隼方程式賽車等二部競技專用車款](../Page/鈴木隼方程式賽車.md "wikilink")，並於同年5月15日起發售\[1\]。其中前者搭載[鈴木Kei
-Works所使用的](../Page/鈴木Kei.md "wikilink")658c.c.直列三缸DOHC
-[K6A型](https://zh.wikipedia.org/wiki/鈴木K族引擎#K6A型 "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")（附中冷器），最高出力64ps
-/ 6,500rpm、最大扭力10.8kg・m /
-3,500rpm，搭配五速手排變速箱。由於屬於入門級，配置[FRP引擎整流罩](https://zh.wikipedia.org/wiki/玻璃鋼 "wikilink")、15吋輪圈、四輪碟煞制動系統等，售價215萬[日圓](../Page/日圓.md "wikilink")。不過原廠至2008年為止不再舉辦鈴木方程式比賽，本車款亦不再使用。
+2001年起鈴木公司開始舉行「鈴木方程式」[賽車](../Page/賽車.md "wikilink")活動，由旗下鈴木運動公司（今[IRD公司](../Page/IRD公司.md "wikilink")）製造出品**鈴木Kei方程式賽車**、[鈴木隼方程式賽車](../Page/鈴木隼方程式賽車.md "wikilink")等二部競技專用車款，並於同年5月15日起發售\[1\]。其中前者搭載[鈴木Kei Works所使用的](../Page/鈴木Kei.md "wikilink")658c.c.直列三缸DOHC [K6A型](https://zh.wikipedia.org/wiki/鈴木K族引擎#K6A型 "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")（附中冷器），最高出力64ps / 6,500rpm、最大扭力10.8kg・m / 3,500rpm，搭配五速手排變速箱。由於屬於入門級，配置[FRP引擎整流罩](https://zh.wikipedia.org/wiki/玻璃鋼 "wikilink")、15吋輪圈、四輪碟煞制動系統等，售價215萬[日圓](../Page/日圓.md "wikilink")。不過原廠至2008年為止不再舉辦鈴木方程式比賽，本車款亦不再使用。
 
 ### 機械規格參數
 
@@ -45,17 +41,14 @@ Works所使用的](../Page/鈴木Kei.md "wikilink")658c.c.直列三缸DOHC
 
 ## 參考資料
 
-  - [FORMULA
-    SUZUKI](http://www.suzuki.co.jp/dom4/motor/01/formulaSUZUKI/frame1-2.htm)
+  - [FORMULA SUZUKI](http://www.suzuki.co.jp/dom4/motor/01/formulaSUZUKI/frame1-2.htm)
 
 ## 外部連結
 
   - [スズキスポーツ](https://web.archive.org/web/20151104163507/http://www.suzukisport.com/j/index.html)
 
-  - [webCG:
-    スズキ、2台のレース用フォーミュラカーを発売](http://www.webcg.net/articles/-/19628)
+  - [webCG: スズキ、2台のレース用フォーミュラカーを発売](http://www.webcg.net/articles/-/19628)
 
 [Category:鈴木車輛](https://zh.wikipedia.org/wiki/Category:鈴木車輛 "wikilink")
 
-1.  [webCG:
-    スズキ、2台のレース用フォーミュラカーを発売](http://www.webcg.net/articles/-/19628)。
+1.  [webCG: スズキ、2台のレース用フォーミュラカーを発売](http://www.webcg.net/articles/-/19628)。

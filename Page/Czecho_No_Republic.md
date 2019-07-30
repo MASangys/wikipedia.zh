@@ -1,16 +1,12 @@
-**Czecho No
-Republic**（チェコ・ノー・リパブリック）是一個[日本的](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。現在的成員有武井優心、ロマンス（ex.山崎正太郎）、八木類、砂川一黄、タカハシマイ五個人。所屬唱片公司是[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")
-。
+**Czecho No Republic**（チェコ・ノー・リパブリック）是一個[日本](../Page/日本.md "wikilink")的[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。現在的成員有武井優心、ロマンス（ex.山崎正太郎）、八木類、砂川一黄、タカハシマイ五個人。所屬唱片公司是[日本古倫美亞](../Page/日本古倫美亞.md "wikilink") 。
 
 ## 簡介
 
-2010年，由原本隸屬於Veni Vidi
-Vicious的武井優心和ロマンス（ex.山崎正太郎）組成樂團。原本只是因為前樂團活動休止，為了按照原訂計畫，出席預訂好的行程而臨時組成。本人也比喻當初組團就像是運動比賽中那些無關勝負的比賽一樣，只是為了填補空缺\[1\]。
+2010年，由原本隸屬於Veni Vidi Vicious的武井優心和ロマンス（ex.山崎正太郎）組成樂團。原本只是因為前樂團活動休止，為了按照原訂計畫，出席預訂好的行程而臨時組成。本人也比喻當初組團就像是運動比賽中那些無關勝負的比賽一樣，只是為了填補空缺\[1\]。
 
 ### 團名
 
-樂團組成後為了參加演出，想團名時想到了“Czecho”這個詞，覺得唸起來語感很好而採用。然而[捷克的正式名稱是Czech](../Page/捷克.md "wikilink")
-Republic，因為樂團跟捷克沒有關係，所以在中間放進No這個詞\[2\]。
+樂團組成後為了參加演出，想團名時想到了“Czecho”這個詞，覺得唸起來語感很好而採用。然而[捷克](../Page/捷克.md "wikilink")的正式名稱是Czech Republic，因為樂團跟捷克沒有關係，所以在中間放進No這個詞\[2\]。
 
 ## 成員
 
@@ -19,12 +15,11 @@ Republic，因為樂團跟捷克沒有關係，所以在中間放進No這個詞\
   - Veni Vidi Vicious的前貝斯手和的前支援貝斯手。
   - 撰寫了大部分的歌的詞曲，是樂團的中心。
   - 樂曲風格是受到[The Strokes的啟發](../Page/鼓擊樂團.md "wikilink")。\[3\]。
-  - 最初是因為[SPITZ的關係喜歡上音樂](../Page/SPITZ.md "wikilink")。國中的時候在音樂節目上看到SPITZ時開始覺得「我也想要組樂團」，之後開始聽各式各樣的音樂時，聽到[龐克搖滾後價值觀跟著大幅改變](https://zh.wikipedia.org/wiki/龐克音樂 "wikilink")。因為非常喜歡的和，所以開始聽他們在受訪時提到的樂團，因而有過「只有龐克最帥氣」「用木吉他太遜了」這種時期\[4\]。
+  - 最初是因為[SPITZ](../Page/SPITZ.md "wikilink")的關係喜歡上音樂。國中的時候在音樂節目上看到SPITZ時開始覺得「我也想要組樂團」，之後開始聽各式各樣的音樂時，聽到[龐克搖滾後價值觀跟著大幅改變](https://zh.wikipedia.org/wiki/龐克音樂 "wikilink")。因為非常喜歡的和，所以開始聽他們在受訪時提到的樂團，因而有過「只有龐克最帥氣」「用木吉他太遜了」這種時期\[4\]。
   - 高中時寫了第一首歌，由當時一起玩樂團的朋友用吉他隨便彈和弦，武井再加上旋律。寫出來的是像[雷蒙斯合唱團一樣的流行龐克曲風](https://zh.wikipedia.org/wiki/雷蒙斯合唱團 "wikilink")。在那之後完全沒有寫歌，一直到在前樂團時才又開始寫，等到Czecho樂團活動開始後才第一次讓人聽自己寫的歌。\[5\]
   - 2014年5月，舉辦了名為「AXドリンクバイトをクビになった武井がついに演者として帰ってきた！最初で最後！武井のAX帰還ギグ！〜そして伝説へ〜」（被AX吧台開除的武井終於以表演者的身分回來了！第一次也是最後一次！武井的AX回歸GIG！～而後成為傳奇）的個唱\[6\]。
   - 作為Veni Vidi Vicious的貝斯手時曾留過爆炸頭。喜歡吃納豆和紅甜薑。
-  - 是成員裡唯一從頭到尾都有參加從2014年4月到2015年3月24日為止的Czecho No Republic的ALL NIGHT
-    NIPPON 0節目。和在節目中認識的變成好朋友。
+  - 是成員裡唯一從頭到尾都有參加從2014年4月到2015年3月24日為止的Czecho No Republic的ALL NIGHT NIPPON 0節目。和在節目中認識的變成好朋友。
   - 最近也開始做一些配音的工作。
 
 
@@ -32,38 +27,28 @@ Republic，因為樂團跟捷克沒有關係，所以在中間放進No這個詞\
 
   - Veni Vidi Vicious的前鼓手。
   - 音樂是受到的啟發\[7\]。
-  - 是[THE YELLOW
-    MONKEY的粉絲](../Page/THE_YELLOW_MONKEY.md "wikilink")，曾經參加過2015年10月舉辦的『フジソニック2015』中，THE
-    YELLOW MONKEY的主唱的演出樂團\[8\]。
-  - 某天因為睡過頭而錯過了樂團的團練。當時對Czecho No
-    Republic的評價中有「看起來很耀眼的帥哥美女樂團」這樣讓成員們覺得不適應的意見，因此作為懲罰，在2014年5月的SHIBUYA-AX個唱中，前所未聞得在演唱會中公開用電動剃刀把得意的長髮剃成光頭。
-  - 因為以前在蛋糕店工作過的關係，所以會在蛋糕上寫訊息裝飾。曾在糖果上用巧克力寫字做成演唱會的歡迎板，參加CountDown Japan
-    2012時，也在慶祝武井優心生日的蛋糕上寫訊息送給他。(CNRMAGAZINE Vol.2,武井優心撰寫CNR blog中提及)
-  - 2016年1月7日，在Ust配信節目「Czecho No Republicのやっぱ葉巻でしょ」（Czecho No
-    Republic之果然還是雪茄好）中從山崎正太郎改名為ロマンス（ROMANCE）。以後只要在戒菸時抽菸的話就要改名。
+  - 是[THE YELLOW MONKEY的粉絲](../Page/THE_YELLOW_MONKEY.md "wikilink")，曾經參加過2015年10月舉辦的『フジソニック2015』中，THE YELLOW MONKEY的主唱的演出樂團\[8\]。
+  - 某天因為睡過頭而錯過了樂團的團練。當時對Czecho No Republic的評價中有「看起來很耀眼的帥哥美女樂團」這樣讓成員們覺得不適應的意見，因此作為懲罰，在2014年5月的SHIBUYA-AX個唱中，前所未聞得在演唱會中公開用電動剃刀把得意的長髮剃成光頭。
+  - 因為以前在蛋糕店工作過的關係，所以會在蛋糕上寫訊息裝飾。曾在糖果上用巧克力寫字做成演唱會的歡迎板，參加CountDown Japan 2012時，也在慶祝武井優心生日的蛋糕上寫訊息送給他。(CNRMAGAZINE Vol.2,武井優心撰寫CNR blog中提及)
+  - 2016年1月7日，在Ust配信節目「Czecho No Republicのやっぱ葉巻でしょ」（Czecho No Republic之果然還是雪茄好）中從山崎正太郎改名為ロマンス（ROMANCE）。以後只要在戒菸時抽菸的話就要改名。
 
 
 **八木 類** （やぎ るい YAGI RUI、吉他手・合成器・合聲）
 
   - 2011年2月加入樂團。武井在找會吉他也會用合成器的成員時經由朋友介紹而加入。作過幾首歌的詞曲。
   - 音樂受到的啟發\[9\]。
-  - 高中時是網球社，練習時被隊友沒拿穩不小心飛過來的球拍打到後腦勺。雖然萬幸的傷勢輕微，但也沒有再上過球場，從此回到下課後沒有參加社團、直接回家的“回家社”。(在CNRMAGAZINE
-    vol.2中提及)
+  - 高中時是網球社，練習時被隊友沒拿穩不小心飛過來的球拍打到後腦勺。雖然萬幸的傷勢輕微，但也沒有再上過球場，從此回到下課後沒有參加社團、直接回家的“回家社”。(在CNRMAGAZINE vol.2中提及)
   - 加入當時，沒有什麼所謂時髦衣服的八木，從成員那拿時髦的衣服穿過。
 
 
 **砂川 一黄** （すながわ かずき SUNAGAWA KAZUKI、吉他手）
 
-  - 2012年8月，以支援成員的身分加入，2013年1月正式加入。caroline rocks的前成員。也擔任過The
-    sisi的主唱和吉他手。吉田アディム退出時，Czecho No
-    Republic的經紀人對剛好是酒友的砂川提到這件事，於是順勢加入樂團。
+  - 2012年8月，以支援成員的身分加入，2013年1月正式加入。caroline rocks的前成員。也擔任過The sisi的主唱和吉他手。吉田アディム退出時，Czecho No Republic的經紀人對剛好是酒友的砂川提到這件事，於是順勢加入樂團。
   - 音樂受到的啟發\[10\]。
   - 是的粉絲，吉他的撥弦技巧就是受到吉他手的影響\[11\]。
   - 使用的是Fender Japan Telecaster。1984年製的「JV Serial」。琴橋為了調音方便而從三孔式變成六孔式。
-  - 是樂團的開心果。在Czecho No Republic的ALL NIGHT NIPPON
-    0中，有砂川老師、夏威夷人TETSUYA、人氣DJ、毒KAZU君等多種角色。特別是因為節目剛開始時就被叫做是砂川老師，Oh
-    Yeah\!\!\!\!\!\!\!初回限定盤的特典附贈內容就是砂川先生的有聲吊飾。
-  - 擁有[空手道黑帶](../Page/空手道.md "wikilink")(ALL NIGHT NIPPON中提及)。
+  - 是樂團的開心果。在Czecho No Republic的ALL NIGHT NIPPON 0中，有砂川老師、夏威夷人TETSUYA、人氣DJ、毒KAZU君等多種角色。特別是因為節目剛開始時就被叫做是砂川老師，Oh Yeah\!\!\!\!\!\!\!初回限定盤的特典附贈內容就是砂川先生的有聲吊飾。
+  - 擁有[空手道](../Page/空手道.md "wikilink")黑帶(ALL NIGHT NIPPON中提及)。
 
 
 **タカハシ マイ** （たかはし まい TAKAHASHI MAI、合聲・主唱・合成器・打擊樂器）
@@ -71,24 +56,17 @@ Republic，因為樂團跟捷克沒有關係，所以在中間放進No這個詞\
   - 2012年8月作為支援成員參加，2013年1月正式加入。
   - 除了作為藝人以外，同時也是模特兒。樂團演唱會時常會見到模仿她的穿著打扮的女生。
   - 音樂是受到[múm的啟發](https://zh.wikipedia.org/wiki/múm "wikilink")\[12\]。
-  - 從小就很喜歡唱歌，在學校時也總是很期待聲樂課。小學六年級時聽到[椎名林檎後開始喜歡上音樂](../Page/椎名林檎.md "wikilink")。因為是從未聽過的音樂類型，受到很大的衝擊，從此開始聽起她自己也介紹過的[Radiohead](https://zh.wikipedia.org/wiki/電台司令 "wikilink")、、[Björk等人的音樂](../Page/碧玉_\(歌手\).md "wikilink")。同時也開始對時尚有興趣，覺得大七歲的表姊看著『』雜誌穿著復古衣的樣子很帥氣，因此開始對獨具個性的服飾有興趣。不過因為父母管教嚴格，所以都是自己一個人偷偷到原宿買東西。\[13\]
-  - 高中時開始寫歌。當時聽著像是THEE MICHELLE GUN
-    ELEPHANT的[車庫搖滾也組了樂團](../Page/車庫搖滾.md "wikilink")，不過因為其他成員都是男生，身為主唱的她表演時總像是在喊叫一樣。\[14\]\[15\]。樂團在18歳時解散後，度過了一個人唱歌的時期\[16\]。
-  - 18歳左右時開始和武井成為朋友。Czecho No Republic的第一張迷你專輯『erectionary』以TOWER
-    RECORD限定版發行後，由朋友介紹給正在尋找女主唱的武井。之後，從獨立時期的第一張單曲Casually開始就作為合聲，參加之後所有的作品。\[17\]
+  - 從小就很喜歡唱歌，在學校時也總是很期待聲樂課。小學六年級時聽到[椎名林檎](../Page/椎名林檎.md "wikilink")後開始喜歡上音樂。因為是從未聽過的音樂類型，受到很大的衝擊，從此開始聽起她自己也介紹過的[Radiohead](https://zh.wikipedia.org/wiki/電台司令 "wikilink")、、[Björk等人的音樂](../Page/碧玉_\(歌手\).md "wikilink")。同時也開始對時尚有興趣，覺得大七歲的表姊看著『』雜誌穿著復古衣的樣子很帥氣，因此開始對獨具個性的服飾有興趣。不過因為父母管教嚴格，所以都是自己一個人偷偷到原宿買東西。\[13\]
+  - 高中時開始寫歌。當時聽著像是THEE MICHELLE GUN ELEPHANT的[車庫搖滾](../Page/車庫搖滾.md "wikilink")也組了樂團，不過因為其他成員都是男生，身為主唱的她表演時總像是在喊叫一樣。\[14\]\[15\]。樂團在18歳時解散後，度過了一個人唱歌的時期\[16\]。
+  - 18歳左右時開始和武井成為朋友。Czecho No Republic的第一張迷你專輯『erectionary』以TOWER RECORD限定版發行後，由朋友介紹給正在尋找女主唱的武井。之後，從獨立時期的第一張單曲Casually開始就作為合聲，參加之後所有的作品。\[17\]
   - 曾經在別的公司裡決定要獨自以歌手身分出道，但是沒辦法做自己想做的音樂的環境。煩惱得和武井和朋友商量後，婉拒了出道的事情並加入現在的樂團。\[18\]
-  - 有一點傻大姊個性。曾經很平常得把[灌籃高手的](https://zh.wikipedia.org/wiki/灌籃高手 "wikilink")[櫻木花道說成是](https://zh.wikipedia.org/wiki/櫻木花道 "wikilink")[速水茂虎道](https://zh.wikipedia.org/wiki/速水茂虎道 "wikilink")。(ALL
-    NIGHT
-    NIPPON中武井優心提及)武井問她大象的英文是什麼？她的回答是「ヌー(NU)」(音似日文的大象ゾウ(ZOU))。要吃慰問品的壽司時，沒有把上面蓋著的透明膜拿掉就直接加醬油後準備吃下去。(以上兩則都來自武井撰寫的CNR
-    BLOG)同時也有小時候在家裡放養蟬、在白飯上澆水之後就用手直接吃等等這種率性狂野的一面。
+  - 有一點傻大姊個性。曾經很平常得把[灌籃高手的](https://zh.wikipedia.org/wiki/灌籃高手 "wikilink")[櫻木花道說成是](https://zh.wikipedia.org/wiki/櫻木花道 "wikilink")[速水茂虎道](https://zh.wikipedia.org/wiki/速水茂虎道 "wikilink")。(ALL NIGHT NIPPON中武井優心提及)武井問她大象的英文是什麼？她的回答是「ヌー(NU)」(音似日文的大象ゾウ(ZOU))。要吃慰問品的壽司時，沒有把上面蓋著的透明膜拿掉就直接加醬油後準備吃下去。(以上兩則都來自武井撰寫的CNR BLOG)同時也有小時候在家裡放養蟬、在白飯上澆水之後就用手直接吃等等這種率性狂野的一面。
 
 ### 舊成員
 
 **吉田 アディム** （よしだ あでぃむ YOSHIDA ADEIMU、吉他手）
 
-  - 2010年4月加入。
-    2012年8月25日脱退。爸爸是[坦尚尼亞人](https://zh.wikipedia.org/wiki/坦尚尼亞 "wikilink")，媽媽是日本人。現在是擔任繪製演唱會周邊商品等工作，作為幕後人員和樂團一起活動（[推特帳號](https://zh.wikipedia.org/wiki/推特 "wikilink")
-    @adim_adim_）。
+  - 2010年4月加入。 2012年8月25日脱退。爸爸是[坦尚尼亞人](https://zh.wikipedia.org/wiki/坦尚尼亞 "wikilink")，媽媽是日本人。現在是擔任繪製演唱會周邊商品等工作，作為幕後人員和樂團一起活動（[推特帳號](https://zh.wikipedia.org/wiki/推特 "wikilink") @adim_adim_）。
   - 現在也和樂團成員們的活動有所關連。演唱會時會作為觀眾在台下和粉絲們交流，有時候也會幫粉絲簽名和合照。
 
 ## 經歴
@@ -97,8 +75,7 @@ Republic，因為樂團跟捷克沒有關係，所以在中間放進No這個詞\
 
 <!-- end list -->
 
-  - 3月 - Veni Vidi
-    Vicious的前貝斯手武井優心和前鼓手ロマンス(ex.山崎正太郎)組成樂團。同月31日在[下北澤舉辦第一次演唱會](../Page/下北澤.md "wikilink")。
+  - 3月 - Veni Vidi Vicious的前貝斯手武井優心和前鼓手ロマンス(ex.山崎正太郎)組成樂團。同月31日在[下北澤](../Page/下北澤.md "wikilink")舉辦第一次演唱會。
   - 4月 - 吉田アディム作為支援吉他手正式加入。
   - 5月 - 武井和吉田アディム作為支援成員參加了的巡迴演唱會。
   - 11月 - 透過獨立唱片公司「Muffin Discs」在TOWER RECORD限定發行『erectionary』。
@@ -122,8 +99,7 @@ Republic，因為樂團跟捷克沒有關係，所以在中間放進No這個詞\
 
   - 6月 - 發行第二張迷你專輯『DINOSAUR』。並到全國八個場所舉辦巡迴演唱會。
       - 「ダイナソー」被採用為tvk(神奈川電視)『Mutoma』的六月份開頭和片尾主題曲。
-  - 7月 -
-    「ダイナソー」被採用為[東京電視台](../Page/東京電視台.md "wikilink")「」（毎週日晚上7:00播出）的片尾曲。
+  - 7月 - 「ダイナソー」被採用為[東京電視台](../Page/東京電視台.md "wikilink")「」（毎週日晚上7:00播出）的片尾曲。
   - 8月 - 25日，吉田アディム為了專注在畫畫上而退團。
   - 9月 - タカハシマイ、砂川一黄做為支援成員加入，並參加、等夏日音樂祭。
   - 11月 - 發行第二張單曲「アイボリー」。在全國七個場所舉辦巡迴演唱會「森の妖精6万匹TOUR」。
@@ -140,12 +116,10 @@ Republic，因為樂團跟捷克沒有關係，所以在中間放進No這個詞\
   - 1月 - 一直以來都是以支援成員形式參加的タカハシマイ（Cho/Syn/Ag）、砂川一黄（Gt/Cho），在1月1日以正式成員身分加入。
   - 2〜4月 - 在渋谷eggman舉辦活動，連續三個月舉辦對BAND企劃「エンジョイ！春のチェコ祭り」。
   - 4月 - タカハシマイ（Cho/Syn/Ag)成為東京電視台「音流〜On Ryu〜」的主持人。
-  - 5月 - 參加[NOTTV的音樂談話性節目](../Page/NOTTV.md "wikilink")「LOVE &
-    ROCK」。\[19\]
+  - 5月 - 參加[NOTTV](../Page/NOTTV.md "wikilink")的音樂談話性節目「LOVE & ROCK」。\[19\]
   - 6月 - 發行第三張單曲「Festival」。是東京電視台「」的六月份片尾曲。
   - 7月 - 第一次以五人體制舉辦名為「エンジョイ！夏の東名阪ワンマンツアー」的巡迴個唱。在公演中發表了主流出道的消息。
-  - 10月 -
-    透過[日本古倫美亞主流出道](../Page/日本古倫美亞.md "wikilink")，並發行主流出道第一張專輯「NEVERLAND」。專輯收錄曲"MUSIC"被採用為10/4深夜0:52播出的東京電視台日劇「[一幣通關小子：我們的電玩史](../Page/一幣通關小子：我們的電玩史.md "wikilink")」片尾曲。
+  - 10月 - 透過[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")主流出道，並發行主流出道第一張專輯「NEVERLAND」。專輯收錄曲"MUSIC"被採用為10/4深夜0:52播出的東京電視台日劇「[一幣通關小子：我們的電玩史](../Page/一幣通關小子：我們的電玩史.md "wikilink")」片尾曲。
   - 11月 – 舉辦橫跨到翌年2月、為期三個月的巡迴演唱會「エンジョイ！冬のネバーランドリリースツアー」。
   - 12月 - 參加COUNTDOWN JAPAN。
 
@@ -157,17 +131,10 @@ Republic，因為樂團跟捷克沒有關係，所以在中間放進No這個詞\
 
   - 1月 - 專輯「NEVERLAND」入圍了[CD店大獎](../Page/CD店大獎.md "wikilink")。
   - 4月 - 1日開始擔任『』每個禮拜二凌晨三點 - 五點的主持人。節目名稱是。
-  - 7月 -
-    發行主流出道第二張專輯「MANTLE」。不同於第一張專輯「NEVERLAND」中主要收錄重新錄製之獨立時期歌曲，此次是收錄完整的新歌。專輯更找了幾個製作人一起協力製作，音樂性也更加接近成員們想傳達的概念。首次進榜[ORICON拿到第](https://zh.wikipedia.org/wiki/ORICON "wikilink")17名。專輯收錄曲「Amazing
-    Parade」是東京電視台毎週1:45分播出的節目[神之舌片尾曲](../Page/神之舌.md "wikilink")。
-  - 8月 - 以專輯「MANTLE」召開全國巡迴演唱會。結束在關東近郊舉辦的有嘉賓形式的三場公演後(Kidori
-    Kidori,go\!go\!vanillas,The
-    Flickers)，9月中旬開始在[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")、[仙台](https://zh.wikipedia.org/wiki/仙台 "wikilink")、[新潟](https://zh.wikipedia.org/wiki/新潟 "wikilink")、[廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")、[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")、[大阪和](https://zh.wikipedia.org/wiki/大阪 "wikilink")[名古屋舉辦個唱](https://zh.wikipedia.org/wiki/名古屋 "wikilink")。最終場是10月10日星期五在赤坂BLITZ舉行。
-  - 8月 -
-    23日在樂團官方推特發表了2014年11月7日到11月9日在[幕張展覽館舉辦的日本最大運動腳踏車展](../Page/幕張展覽館.md "wikilink")「CYCLE
-    MODE international 2014」，主題曲將採用專輯「MANTLE」的收錄曲「Crazy Crazy Love」。
-  - 9月 - 公佈將在11月12日發行主流出道首張單曲「Oh Yeah\!\!\!\!\!\!\!」。封面曲「Oh
-    Yeah\!\!\!\!\!\!\!」同時也是[富士電視台動畫](../Page/富士電視台.md "wikilink")「[七龍珠改](../Page/七龍珠改.md "wikilink")」的片尾曲。
+  - 7月 - 發行主流出道第二張專輯「MANTLE」。不同於第一張專輯「NEVERLAND」中主要收錄重新錄製之獨立時期歌曲，此次是收錄完整的新歌。專輯更找了幾個製作人一起協力製作，音樂性也更加接近成員們想傳達的概念。首次進榜[ORICON拿到第](https://zh.wikipedia.org/wiki/ORICON "wikilink")17名。專輯收錄曲「Amazing Parade」是東京電視台毎週1:45分播出的節目[神之舌](../Page/神之舌.md "wikilink")片尾曲。
+  - 8月 - 以專輯「MANTLE」召開全國巡迴演唱會。結束在關東近郊舉辦的有嘉賓形式的三場公演後(Kidori Kidori,go\!go\!vanillas,The Flickers)，9月中旬開始在[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")、[仙台](https://zh.wikipedia.org/wiki/仙台 "wikilink")、[新潟](https://zh.wikipedia.org/wiki/新潟 "wikilink")、[廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")、[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")、[大阪和](https://zh.wikipedia.org/wiki/大阪 "wikilink")[名古屋舉辦個唱](https://zh.wikipedia.org/wiki/名古屋 "wikilink")。最終場是10月10日星期五在赤坂BLITZ舉行。
+  - 8月 - 23日在樂團官方推特發表了2014年11月7日到11月9日在[幕張展覽館](../Page/幕張展覽館.md "wikilink")舉辦的日本最大運動腳踏車展「CYCLE MODE international 2014」，主題曲將採用專輯「MANTLE」的收錄曲「Crazy Crazy Love」。
+  - 9月 - 公佈將在11月12日發行主流出道首張單曲「Oh Yeah\!\!\!\!\!\!\!」。封面曲「Oh Yeah\!\!\!\!\!\!\!」同時也是[富士電視台](../Page/富士電視台.md "wikilink")動畫「[七龍珠改](../Page/七龍珠改.md "wikilink")」的片尾曲。
   - 11月 - 發行主流出道單曲「Oh Yeah\!\!\!\!\!\!\!」。
 
 <!-- end list -->
@@ -176,8 +143,7 @@ Republic，因為樂團跟捷克沒有關係，所以在中間放進No這個詞\
 
 <!-- end list -->
 
-  - 1月 - Pocky×Czecho No Rupublic的合作廣告，1日開始在SPACE SHOWER
-    TV和涉谷[行人保護時相的](../Page/行人保護時相.md "wikilink")[江崎固力果廣告牆撥放](../Page/江崎固力果.md "wikilink")。
+  - 1月 - Pocky×Czecho No Rupublic的合作廣告，1日開始在SPACE SHOWER TV和涉谷[行人保護時相](../Page/行人保護時相.md "wikilink")的[江崎固力果](../Page/江崎固力果.md "wikilink")廣告牆撥放。
   - 2月 - 發行第二張單曲「For You」。
   - 9月 - 發行第三張專輯「Santa Fe」
   - 10月 - 專輯「Santa Fe」中收錄曲「Fireworks」被採用為東京電視台綜藝節目「」片尾曲。
@@ -658,7 +624,7 @@ COCP-39172:通常盤</p></td>
 
 | 曲名       | 搭配作品                                                                     |
 | -------- | ------------------------------------------------------------------------ |
-| Firework | [東京電視台綜藝節目](../Page/東京電視台.md "wikilink")『SICKS 〜みんながみんな、何かの病気〜』主題曲\[20\] |
+| Firework | [東京電視台](../Page/東京電視台.md "wikilink")綜藝節目『SICKS 〜みんながみんな、何かの病気〜』主題曲\[20\] |
 |          |                                                                          |
 
 ## 演唱會
@@ -684,16 +650,14 @@ COCP-39172:通常盤</p></td>
   - 2014年 - 「MANTLE TOUR」 ～2014年宇宙の旅～
       -
         w///
-  - 2014年 - Czecho No Republicプレゼンツ 熱戦・烈戦・超激戦
-    天下一仮装会～チェコに元気を分けてくれSPARKING2014～
+  - 2014年 - Czecho No Republicプレゼンツ 熱戦・烈戦・超激戦 天下一仮装会～チェコに元気を分けてくれSPARKING2014～
   - 2015年 - Oh Yeah\!\!\!\!\!\!\!TOUR
   - 2015年7月12日 - 帰ってきたドリームシャワー 夏だ\!野音だ\!Czecho No Republicだ\!初の日比谷野音ワンマン
   - 2015年9月18日〜10月17日 - 『Santa Fe』リリース記念 聖なる行進TOUR
 
 ### 參加演唱會
 
-  - 2011年8月2日 - 音霊 OTODAMA SEA STUDIO 2011 「雷鳴2011 Supported by J-WAVE
-    TOKYO REAL-EYES」
+  - 2011年8月2日 - 音霊 OTODAMA SEA STUDIO 2011 「雷鳴2011 Supported by J-WAVE TOKYO REAL-EYES」
   - 2011年10月7日 - スペースシャワー列伝 第86巻 ～音楽隊(ブレーメン)の宴～
   - 2012年4月10日 - ツタヤロックンロールキャンペーン "ツタロック" スペシャルライブ
   - 2012年6月2日 - RUSH BALL★R
@@ -715,8 +679,7 @@ COCP-39172:通常盤</p></td>
   - 2013年3月18日 - ATF+BEA presents「春のBEAAT IT \!\!\! 2013」
   - 2013年3月20日 - SANUKI ROCK COLOSSEUM
   - 2013年4月27日 - The Mirraz presents PYRAMID de 427 part6
-  - 2013年5月10日 - FM NORTH WAVE & WESS presents IMPACT\!IV(Powered By
-    Radio WE\!)
+  - 2013年5月10日 - FM NORTH WAVE & WESS presents IMPACT\!IV(Powered By Radio WE\!)
   - 2013年6月1日 - RUSH BALL★R
   - 2013年6月2日 - "TOKYO CAMP 2013" supported by TOWER RECORDS
   - 2013年6月14日・16日 - HighApps Tours
@@ -730,8 +693,7 @@ COCP-39172:通常盤</p></td>
   - 2013年10月5日 - MEGA★ROCKS 2013
   - 2013年10月12日 - MINAMI WHEEL 2013 EXTRA -MIDNIGHT EDITION-
   - 2013年11月27日 - キュウソネコカミ レコ発「がんばれ光彦\!\!」TOUR
-  - 2013年12月15日 - a flood of circle「Tour I'M FREE
-    “AFOCの47都道府県制覇！形ないものを爆破しにいくツアー”」
+  - 2013年12月15日 - a flood of circle「Tour I'M FREE “AFOCの47都道府県制覇！形ないものを爆破しにいくツアー”」
   - 2013年12月28日 - FM802 ROCK FESTIVAL RADIO CRAZY
   - 2013年12月30日 - COUNTDOWN JAPAN 13/14
   - 2013年12月31日 - LIVE DI:GA JUDGEMENT 2013
@@ -746,10 +708,8 @@ COCP-39172:通常盤</p></td>
   - 2014年3月28日 - トーキングロック！プレゼンツ「ニューロック計画！2014」
   - 2014年5月3日 - OTOSATA Rock Festival 2014
   - 2014年5月5日 - [VIVA LA ROCK](../Page/VIVA_LA_ROCK.md "wikilink")
-  - 2014年5月11日 - FM802 25th Anniversary 802GO\! presents Rockin'Radio\!
-    -OSAKAJOH YAON- supported by SPACE SHOWER TV
-  - 2014年5月17日 - THE NOVEMBERS「THE NOVEMBERS TOUR -The World Will
-    Listen-」
+  - 2014年5月11日 - FM802 25th Anniversary 802GO\! presents Rockin'Radio\! -OSAKAJOH YAON- supported by SPACE SHOWER TV
+  - 2014年5月17日 - THE NOVEMBERS「THE NOVEMBERS TOUR -The World Will Listen-」
   - 2014年5月31日 - TAICOCLUB'14
   - 2014年6月7日 - SAKAE SP-RING 2014
   - 2014年6月24日 - 音楽ノチカラ 3rd LIVE ～ITSUZAI 2014～
@@ -760,8 +720,7 @@ COCP-39172:通常盤</p></td>
   - 2014年8月2日 - ROCK IN JAPAN FESTIVAL 2014
   - 2014年8月15日 - RISING SUN ROCK FESTIVAL 2014 in EZO
   - 2014年8月24日 - Re:mix 2014
-  - 2014年8月26日 - RADIO BERRY 20th ANNIVERSARY ベリテンライブ2014 ～HEAVEN'S ROCK
-    Utsunomiya VJ-2～
+  - 2014年8月26日 - RADIO BERRY 20th ANNIVERSARY ベリテンライブ2014 ～HEAVEN'S ROCK Utsunomiya VJ-2～
   - 2014年8月31日 - RUSH BALL 2014
   - 2014年9月6日 - BAYCAMP 2014
   - 2014年9月14日 - ニッポン放送開局60周年記念 オードリーのオールナイトニッポン5周年記念 史上最大のショーパブ祭り
@@ -777,8 +736,7 @@ COCP-39172:通常盤</p></td>
   - 2015年1月24日 - ニッポン放送 LIVE EXPO TOKYO 2015. ALL LIVE NIPPON VOL.3
   - 2015年2月15日 - Coming Next 2015 NHKホール
   - 2015年2月16日 - murffin discs LABEL NIGHT in OKINAWA
-  - 2015年3月11日・3月12日 - KEYTALK “遥々、春バラーバはちもくがあなたの街まで春をお届けに参ります、候。\~桜\~”
-    対バンツアー
+  - 2015年3月11日・3月12日 - KEYTALK “遥々、春バラーバはちもくがあなたの街まで春をお届けに参ります、候。\~桜\~” 対バンツアー
   - 2015年3月21日 - MUSIC CUBE 15 広島 CLUB QUATTRO
   - 2015年3月22日 - BEA x Zepp Fukuoka presents FX2015 Zepp Fukuoka
   - 2015年3月29日 - 音流大演会 2015 -Spring Festival- 寄ってけ渋谷店！ 渋谷O-EAST
@@ -804,8 +762,7 @@ COCP-39172:通常盤</p></td>
   - 2015年9月6日 - RADIO BERRY ベリテンライブ2015 Special
   - 2015年10月24日 - 第46回山陽学園大学祭 Czecho No Republic LIVE
   - 2015年10月25日 - 常磐大学 2015ときわ祭 ～TOKIWA FES.～
-  - 2015年12月31日 - COUNTDOWN JAPAN 15/16 Supported by Windows10 GALAXY
-    STAGE
+  - 2015年12月31日 - COUNTDOWN JAPAN 15/16 Supported by Windows10 GALAXY STAGE
   - 2016年1月26日 - ツタロックスペシャルライブ“3MAN\!\!”
   - 2016年2月6日 - BAYCAMP 2016
   - 2016年3月12日 - ガリゲル音楽祭「おとあい5」
@@ -833,17 +790,14 @@ COCP-39172:通常盤</p></td>
 
   - [mini muff records（唱片公司網站）](http://murffindiscs.com/)
 
-  - [Czecho No Republic官方部落格 - Powered by
-    LINE](http://lineblog.me/cnr_official/)
+  - [Czecho No Republic官方部落格 - Powered by LINE](http://lineblog.me/cnr_official/)
 
   -   -
       -
       -
       -
       -
-[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink")
-[Category:日本古倫美亞旗下藝人](https://zh.wikipedia.org/wiki/Category:日本古倫美亞旗下藝人 "wikilink")
-[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
+[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink") [Category:日本古倫美亞旗下藝人](https://zh.wikipedia.org/wiki/Category:日本古倫美亞旗下藝人 "wikilink") [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
 
 1.
 

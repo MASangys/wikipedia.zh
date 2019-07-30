@@ -1,5 +1,4 @@
-**Microvision**是首部使用可更換卡帶的掌上遊戲機，由（Milton
-Bradley）於1979年11月發售，售價為51.25[美元](../Page/美元.md "wikilink")\[1\]。由於其可攜帶性及使用卡帶為媒介，在發售初期獲得不俗的成績。但是，由於遊戲數量過少、螢幕太細及缺乏遊戲公司的支援，導致它於1981年停止發售。
+**Microvision**是首部使用可更換卡帶的掌上遊戲機，由（Milton Bradley）於1979年11月發售，售價為51.25[美元](../Page/美元.md "wikilink")\[1\]。由於其可攜帶性及使用卡帶為媒介，在發售初期獲得不俗的成績。但是，由於遊戲數量過少、螢幕太細及缺乏遊戲公司的支援，導致它於1981年停止發售。
 
 ## 簡介
 
@@ -20,12 +19,10 @@ Microvision共推出12款遊戲\[3\]。
   - 1979年
       - *Block Buster*（打磚塊遊戲、隨主機推出）\[4\]
       - *Bowling*（保齡球、隨主機推出）\[5\]
-      - *Connect
-        Four*（[四子棋](https://zh.wikipedia.org/wiki/屏風式四子棋 "wikilink")、隨主機推出）\[6\]
+      - *Connect Four*（[四子棋](https://zh.wikipedia.org/wiki/屏風式四子棋 "wikilink")、隨主機推出）\[6\]
       - *Pinball*（[彈珠台](../Page/彈珠台.md "wikilink")、隨主機推出）\[7\]
       - *Mindbuster*（智力遊戲）\[8\]
-      - *Star Trek: Phaser Strike*（後期改稱*Phaser Strike*，另外亦稱*Shooting
-        Star*或*Cannon Phaser*）\[9\]\[10\]
+      - *Star Trek: Phaser Strike*（後期改稱*Phaser Strike*，另外亦稱*Shooting Star*或*Cannon Phaser*）\[9\]\[10\]
       - *Vegas Slots*（拉斯維加斯老虎機）\[11\]
   - 1980年
       - *Baseball*（棒球）\[12\]
@@ -45,14 +42,10 @@ Microvision共推出12款遊戲\[3\]。
 
 ## 外部链接
 
-  - [Electronic Handheld Game
-    Museum](http://www.handheldmuseum.com/MB/uVUS.htm)
+  - [Electronic Handheld Game Museum](http://www.handheldmuseum.com/MB/uVUS.htm)
   - [Microvision](http://www.atari2600land.com/microvision/)
 
-[Category:掌上遊戲機](https://zh.wikipedia.org/wiki/Category:掌上遊戲機 "wikilink")
-[Category:电子游戏系列](https://zh.wikipedia.org/wiki/Category:电子游戏系列 "wikilink")
-[Category:第二世代遊戲機](https://zh.wikipedia.org/wiki/Category:第二世代遊戲機 "wikilink")
-[Category:1979年面世的產品](https://zh.wikipedia.org/wiki/Category:1979年面世的產品 "wikilink")
+[Category:掌上遊戲機](https://zh.wikipedia.org/wiki/Category:掌上遊戲機 "wikilink") [Category:电子游戏系列](https://zh.wikipedia.org/wiki/Category:电子游戏系列 "wikilink") [Category:第二世代遊戲機](https://zh.wikipedia.org/wiki/Category:第二世代遊戲機 "wikilink") [Category:1979年面世的產品](https://zh.wikipedia.org/wiki/Category:1979年面世的產品 "wikilink")
 
 1.
 2.

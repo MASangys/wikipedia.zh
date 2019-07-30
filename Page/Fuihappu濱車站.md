@@ -24,11 +24,4 @@
   - [北海道鐵路路線](https://zh.wikipedia.org/wiki/北海道鐵路路線 "wikilink")
   - [日本鐵路車站列表](../Page/日本鐵路車站列表.md "wikilink")
 
-[Category:北海道旅客鐵道廢站](https://zh.wikipedia.org/wiki/Category:北海道旅客鐵道廢站 "wikilink")
-[Category:北海道廢站](https://zh.wikipedia.org/wiki/Category:北海道廢站 "wikilink")
-[Category:日本鐵路車站_Fu](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Fu "wikilink")
-[Category:日高町_(北海道)](https://zh.wikipedia.org/wiki/Category:日高町_\(北海道\) "wikilink")
-[Category:1989年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1989年啟用的鐵路車站 "wikilink")
-[Category:1993年關閉的鐵路車站](https://zh.wikipedia.org/wiki/Category:1993年關閉的鐵路車站 "wikilink")
-[Category:日高管內鐵路車站](https://zh.wikipedia.org/wiki/Category:日高管內鐵路車站 "wikilink")
-[Category:日高本線車站](https://zh.wikipedia.org/wiki/Category:日高本線車站 "wikilink")
+[Category:北海道旅客鐵道廢站](https://zh.wikipedia.org/wiki/Category:北海道旅客鐵道廢站 "wikilink") [Category:北海道廢站](https://zh.wikipedia.org/wiki/Category:北海道廢站 "wikilink") [Category:日本鐵路車站_Fu](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Fu "wikilink") [Category:日高町_(北海道)](https://zh.wikipedia.org/wiki/Category:日高町_\(北海道\) "wikilink") [Category:1989年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1989年啟用的鐵路車站 "wikilink") [Category:1993年關閉的鐵路車站](https://zh.wikipedia.org/wiki/Category:1993年關閉的鐵路車站 "wikilink") [Category:日高管內鐵路車站](https://zh.wikipedia.org/wiki/Category:日高管內鐵路車站 "wikilink") [Category:日高本線車站](https://zh.wikipedia.org/wiki/Category:日高本線車站 "wikilink")

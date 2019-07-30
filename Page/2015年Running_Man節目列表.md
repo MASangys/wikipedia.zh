@@ -195,7 +195,7 @@
 <td><p><a href="../Page/金成鈴.md" title="wikilink">金成鈴</a>、<a href="../Page/裕善.md" title="wikilink">裕善</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/延政勳" title="wikilink">延政勳</a>、<a href="../Page/Shoo.md" title="wikilink">Shoo</a>（<a href="../Page/S.E.S._(組合).md" title="wikilink">S.E.S.</a>）、<br />
 <a href="../Page/瑞雨.md" title="wikilink">瑞雨</a>、<a href="../Page/王霏霏.md" title="wikilink">Fei</a>（<a href="https://zh.wikipedia.org/wiki/miss_A" title="wikilink">miss A</a>）、<br />
-<a href="https://zh.wikipedia.org/wiki/玉澤演" title="wikilink">玉澤演</a>（<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a>）</p></td>
+<a href="../Page/玉澤演.md" title="wikilink">玉澤演</a>（<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a>）</p></td>
 <td><p>MTP Mall<br />
 <small>（<a href="../Page/仁川廣域市.md" title="wikilink">仁川廣域市</a><br />
 <a href="../Page/西區_(仁川).md" title="wikilink">西區</a>）</small></p></td>
@@ -696,7 +696,7 @@ Gary、秀英</span><br />
 <td><p>7月19日<br />
 <small>（7月1日）</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金閔俊" title="wikilink">Jun. K</a>、<a href="../Page/Nichkhun.md" title="wikilink">Nichkhun</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/玉澤演" title="wikilink">澤演</a>、<a href="https://zh.wikipedia.org/wiki/張祐榮" title="wikilink">祐榮</a>、<br />
+<a href="../Page/玉澤演.md" title="wikilink">澤演</a>、<a href="https://zh.wikipedia.org/wiki/張祐榮" title="wikilink">祐榮</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/李俊昊" title="wikilink">俊昊</a>、<a href="../Page/黃燦盛.md" title="wikilink">燦盛</a>（<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a>）、<br />
 <a href="../Page/白珍熙.md" title="wikilink">白珍熙</a></p></td>
 <td><p>WiCity一山Xi公寓<br />
@@ -1300,8 +1300,7 @@ Gary<br />
 
 ## 收视率
 
-以下紀錄《**Running
-Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink")》整體收視，<span style=color:red>**紅色**</span>表示為該年度最高收視率，<span style=color:blue>**藍色**</span>則表示為該年度最低收視率。
+以下紀錄《**Running Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink")》整體收視，<span style=color:red>**紅色**</span>表示為該年度最高收視率，<span style=color:blue>**藍色**</span>則表示為該年度最低收視率。
 
 <table>
 <thead>
@@ -1674,8 +1673,7 @@ Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink
 </tbody>
 </table>
 
-  - <small>註：2015年11月8日及11月15日，《星期天真好》一部《[拜託爸爸](../Page/拜託爸爸.md "wikilink")》終止播出，因此《Running
-    Man》單獨收視即為《星期天真好》整體收視。</small>
+  - <small>註：2015年11月8日及11月15日，《星期天真好》一部《[拜託爸爸](../Page/拜託爸爸.md "wikilink")》終止播出，因此《Running Man》單獨收視即為《星期天真好》整體收視。</small>
 
 ## 註釋
 
@@ -1686,25 +1684,23 @@ Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink
   -
   -
   -
-[Category:Running_Man](https://zh.wikipedia.org/wiki/Category:Running_Man "wikilink")
-[Category:韓國電視節目各集列表](https://zh.wikipedia.org/wiki/Category:韓國電視節目各集列表 "wikilink")
-[Category:2015年電視節目列表](https://zh.wikipedia.org/wiki/Category:2015年電視節目列表 "wikilink")
+[Category:Running_Man](https://zh.wikipedia.org/wiki/Category:Running_Man "wikilink") [Category:韓國電視節目各集列表](https://zh.wikipedia.org/wiki/Category:韓國電視節目各集列表 "wikilink") [Category:2015年電視節目列表](https://zh.wikipedia.org/wiki/Category:2015年電視節目列表 "wikilink")
 
 1.
 2.
 3.  李瑞鎮只參演第229集。
 4.
 5.  宣傳電影《[今天的戀愛](../Page/今天的戀愛.md "wikilink")》金志勛（選手）特別出演
-6.  [朴志胤因行程關係提前離開](../Page/朴志胤.md "wikilink")
+6.  [朴志胤](../Page/朴志胤.md "wikilink")因行程關係提前離開
 7.  傳達任務
-8.  [宋智孝於本集以主持身份出演](../Page/宋智孝.md "wikilink")
+8.  [宋智孝](../Page/宋智孝.md "wikilink")於本集以主持身份出演
 9.  宣傳2015大邱-慶北[世界水資源論壇](https://zh.wikipedia.org/wiki/世界水資源論壇 "wikilink")
 10. 宣傳電影《[二十](https://zh.wikipedia.org/wiki/二十_\(電影\) "wikilink")》、車仁浩、全英俊、梁勝浩、金昌賢（綜合格鬥選手）特別出演
-11. 宣傳電影《[惡意編年史](../Page/惡意編年史.md "wikilink")》[瑞雨特別出演](../Page/瑞雨.md "wikilink")
+11. 宣傳電影《[惡意編年史](../Page/惡意編年史.md "wikilink")》[瑞雨](../Page/瑞雨.md "wikilink")特別出演
 12. 李宗浩（李光洙爸爸）特別出演
 13. 概念來自[2015年世界一級方程式錦標賽](https://zh.wikipedia.org/wiki/2015年世界一級方程式錦標賽 "wikilink")
-14. [趙寅成](../Page/趙寅成.md "wikilink")、[林周煥](../Page/林周煥.md "wikilink")、[宋仲基驚喜出演](../Page/宋仲基.md "wikilink")
-15. 柳秀晶、池賢宇（池錫辰妻子、兒子）特別出演，李卓秀（[李鐘赫兒子](../Page/李鐘赫.md "wikilink")）驚喜出演
+14. [趙寅成](../Page/趙寅成.md "wikilink")、[林周煥](../Page/林周煥.md "wikilink")、[宋仲基](../Page/宋仲基.md "wikilink")驚喜出演
+15. 柳秀晶、池賢宇（池錫辰妻子、兒子）特別出演，李卓秀（[李鐘赫](../Page/李鐘赫.md "wikilink")兒子）驚喜出演
 16. [曹薰鉉](https://zh.wikipedia.org/wiki/曹薰鉉 "wikilink")、、、、、特別出演
 17. 特別出演
 18. 黄英瓏（鞋設計師、放送媒體人）、（[DJ DOC](../Page/DJ_DOC.md "wikilink")）、（）驚喜出演
@@ -1715,10 +1711,9 @@ Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink
 23. Gary、哈哈、圭賢、John Park、譽恩、Rap Monster本集以本名作為任務所需的姓名牌。
 24. 宣傳電影《[突然變異](https://zh.wikipedia.org/wiki/突然變異_\(电影\) "wikilink")》千成文（宋智孝弟弟）驚喜出演，李宗浩（李光洙爸爸）、朴寶英媽媽驚喜聲演
 25. 李成美及其後之嘉賓只參演第272集
-26. [GFRIEND特別出演](../Page/GFRIEND.md "wikilink")、[李國主](../Page/李國主.md "wikilink")、[趙寅成](../Page/趙寅成.md "wikilink")、[李棟旭](../Page/李棟旭.md "wikilink")、[金志秀](../Page/金志秀.md "wikilink")、[金東賢驚喜聲演](../Page/金東賢.md "wikilink")、、[沈亨倬](../Page/沈亨倬.md "wikilink")、、[林周煥](../Page/林周煥.md "wikilink")、[朴娜萊](https://zh.wikipedia.org/wiki/朴娜萊_\(喜劇演員\) "wikilink")、[任瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")、[U-ie因行程關係提前離開](https://zh.wikipedia.org/wiki/金幽珍 "wikilink")
+26. [GFRIEND](../Page/GFRIEND.md "wikilink")特別出演、[李國主](../Page/李國主.md "wikilink")、[趙寅成](../Page/趙寅成.md "wikilink")、[李棟旭](../Page/李棟旭.md "wikilink")、[金志秀](../Page/金志秀.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")驚喜聲演、、[沈亨倬](../Page/沈亨倬.md "wikilink")、、[林周煥](../Page/林周煥.md "wikilink")、[朴娜萊](https://zh.wikipedia.org/wiki/朴娜萊_\(喜劇演員\) "wikilink")、[任瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")、[U-ie因行程關係提前離開](https://zh.wikipedia.org/wiki/金幽珍 "wikilink")
 27. '尋笑人的家人們特別出演
-28. 概念來自[AMC電視劇](https://zh.wikipedia.org/wiki/AMC_\(電視頻道\) "wikilink")《[陰屍路](../Page/屍行者.md "wikilink")》[申世輝特別出演](../Page/申世輝.md "wikilink")
-29. [劉在錫於本集以主持身份出演](../Page/劉在錫.md "wikilink")，坤、高潔、碧土、宇信、曉悟（[UP10TION](../Page/UP10TION.md "wikilink")）特別出演
+28. 概念來自[AMC電視劇](https://zh.wikipedia.org/wiki/AMC_\(電視頻道\) "wikilink")《[陰屍路](../Page/屍行者.md "wikilink")》[申世輝](../Page/申世輝.md "wikilink")特別出演
+29. [劉在錫](../Page/劉在錫.md "wikilink")於本集以主持身份出演，坤、高潔、碧土、宇信、曉悟（[UP10TION](../Page/UP10TION.md "wikilink")）特別出演
 30. 朴成俊（曆術家）、Queeny（塔羅牌大師）、姜民元（曆術家）特別出演
-31. [NAVER 런닝맨 － TNMS
-    제공](http://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&ie=utf8&query=런닝맨)
+31. [NAVER 런닝맨 － TNMS 제공](http://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&ie=utf8&query=런닝맨)

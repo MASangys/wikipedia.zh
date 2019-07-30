@@ -1,5 +1,4 @@
-《**慳D啦 Honey**》（**Money vs
-Honey**）是[香港電視娛樂製作的](../Page/香港電視娛樂.md "wikilink")[真人騷愛情競賽節目](https://zh.wikipedia.org/wiki/真人騷 "wikilink")，2016年5月30日至6月28日期間，逢星期一至二晚上22:00-23:00在[ViuTV播出](../Page/ViuTV.md "wikilink")。節目旁白為。
+《**慳D啦 Honey**》（**Money vs Honey**）是[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的[真人騷愛情競賽節目](https://zh.wikipedia.org/wiki/真人騷 "wikilink")，2016年5月30日至6月28日期間，逢星期一至二晚上22:00-23:00在[ViuTV](../Page/ViuTV.md "wikilink")播出。節目旁白為。
 
 ## 節目簡介
 
@@ -26,7 +25,7 @@ Honey**）是[香港電視娛樂製作的](../Page/香港電視娛樂.md "wikili
 <td><p>葉子文「阿文」（38）</p></td>
 <td><p>Pan Pan（38）</p></td>
 <td><p>背包客<br />
-阿文現於<a href="../Page/ViuTV.md" title="wikilink">ViuTV工作</a><br />
+阿文現於<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>工作<br />
 Pan Pan現於<a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB工作</a></p></td>
 </tr>
 <tr class="even">
@@ -146,7 +145,7 @@ Pan Pan現於<a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB工
 
 有媒體報道，節目中的四對素人情侶是跟劇本演戲。\[2\]\[3\]\[4\]
 
-其中自稱無業的全職浪遊人阿文為前[無綫電視員工](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")，現於[ViuTV擔任導演](../Page/ViuTV.md "wikilink")。太太現時為無綫電視員工，兩者均於節目播出後才擔任現時職位。\[5\]
+其中自稱無業的全職浪遊人阿文為前[無綫電視員工](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")，現於[ViuTV](../Page/ViuTV.md "wikilink")擔任導演。太太現時為無綫電視員工，兩者均於節目播出後才擔任現時職位。\[5\]
 
 ## 備註
 
@@ -160,10 +159,7 @@ Pan Pan現於<a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB工
 [Category:香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目 "wikilink")
 
 1.  以節目標題為準
-2.  [ViuTv《慳啲啦Honey》真人騷 4對情侶個性大不同](https://www.nmplus.hk/enterainment/%E6%85%B3%E5%95%B2%E5%95%A6honey/)，New
-    Monday，2016-06-03
-3.  [《 慳D啦Honey 》道盡香港情侶 5
-    大吵架金句\!\!\!](https://www.weekendhk.com/lifestyle/viutv-%E6%85%B3d%E5%95%A6honey-%E7%9C%9F%E4%BA%BAshow/)，新假期，2016-06-08
-4.  [四對慳D啦Honey
-    私隱被揪　感情越好](https://hk.entertainment.appledaily.com/entertainment/daily/article/20160614/19652714)，蘋果娛樂，2016-06-14
+2.  [ViuTv《慳啲啦Honey》真人騷 4對情侶個性大不同](https://www.nmplus.hk/enterainment/%E6%85%B3%E5%95%B2%E5%95%A6honey/)，New Monday，2016-06-03
+3.  [《 慳D啦Honey 》道盡香港情侶 5 大吵架金句\!\!\!](https://www.weekendhk.com/lifestyle/viutv-%E6%85%B3d%E5%95%A6honey-%E7%9C%9F%E4%BA%BAshow/)，新假期，2016-06-08
+4.  [四對慳D啦Honey 私隱被揪　感情越好](https://hk.entertainment.appledaily.com/entertainment/daily/article/20160614/19652714)，蘋果娛樂，2016-06-14
 5.  [《慳D啦Honey》監製否認做假](http://hk.apple.nextmedia.com/entertainment/art/20160604/19640545)，蘋果娛樂，2016-06-04

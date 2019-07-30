@@ -1,5 +1,4 @@
-\-- This module implements  local p = {} local root = nil local lang
-=mw.getContentLanguage()
+\-- This module implements  local p = {} local root = nil local lang =mw.getContentLanguage()
 
 local function formatnumR(num)
 
@@ -12,8 +11,7 @@ local function isnotempty(s)
 
 `   return s and s:match( '^%s*(.-)%s*$' ) ~= ''`
 
-end local function addheader(header1, header2, series_summary, compact,
-winner_only,
+end local function addheader(header1, header2, series_summary, compact, winner_only,
 
 `   compact_score, nonumber, nolocation, trophy_series, notes, notes_label,`
 `   date_width, location_width)`
@@ -53,8 +51,7 @@ winner_only,
 
 end
 
-local function series_text(team1name, team1wins, team2name, team2wins,
-ties, leads)
+local function series_text(team1name, team1wins, team2name, team2wins, ties, leads)
 
 `   local res = ''`
 `   local t1 = mw.ustring.gsub(team1name, '%s*/.*', '')`

@@ -1,10 +1,6 @@
-\-- This module defines an "era" class for processing eras in the
-Japanese calendar. -- It also contains functions to export the class
-properties to \#invoke.
+\-- This module defines an "era" class for processing eras in the Japanese calendar. -- It also contains functions to export the class properties to \#invoke.
 
-local eras = mw.loadData( 'Module:Japanese calendar/data' ) local
-halfToFull = require( 'Module:Convert character width' ).full --
-Converts half-width characters to full-width characters.
+local eras = mw.loadData( 'Module:Japanese calendar/data' ) local halfToFull = require( 'Module:Convert character width' ).full -- Converts half-width characters to full-width characters.
 
 -----
 
@@ -233,8 +229,7 @@ local function getLinkAndEraYearKanji( obj )
 
 end
 
-\-- Process the arguments from \#invoke. local function makeWrapper(
-func )
+\-- Process the arguments from \#invoke. local function makeWrapper( func )
 
 `   return function( frame )`
 `       -- If called via #invoke, use the args passed into the invoking`
@@ -268,8 +263,7 @@ func )
 `       table.insert( otherEraArgs, args.previous )`
 `       table.insert( otherEraArgs, args.old )`
 `       if #otherEraArgs > 1 then`
-`           return '`<strong class="error">[`Module:Japanese``
- ``calendar`](https://zh.wikipedia.org/wiki/Module:Japanese_calendar "wikilink")` error: you can only specify one parameter out of "next", "previous" and "old".`</strong>`'`
+`           return '`<strong class="error">[`Module:Japanese``   ``calendar`](https://zh.wikipedia.org/wiki/Module:Japanese_calendar "wikilink")` error: you can only specify one parameter out of "next", "previous" and "old".`</strong>`'`
 `       elseif args.next then`
 `           myEra = era:new( args ):getNextEra()`
 `       elseif args.previous then`

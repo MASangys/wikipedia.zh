@@ -1,40 +1,18 @@
-《非凡歲月》（英語：Giant Days﹚是由約翰阿利森﹙John Allison﹚編寫，由馬克斯沙林﹙Max
-Sarin﹚和莉莎特雷曼﹙Lissa Treiman﹚創作的一部持續喜劇漫畫。 該故事內容為三位年輕女性 -
-Esther de Groot，Susan Ptolemy和Daisy Wooton--在大學里共同生活。
-該作最初是約翰阿利森以前作品[Scary Go
-Round中衍生的一個網絡漫畫](https://zh.wikipedia.org/wiki/Scary_Go_Round "wikilink")，然後作為一系列小型新聞漫畫出版，隨後被[Boom\!工作室以六個故事的迷你故事出版](../Page/Boom!工作室.md "wikilink")，然後是改為每月出版。
-2016年，Giant Days獲得兩項艾斯納獎和四項哈維獎提名。\[1\]\[2\]
+《非凡歲月》（英語：Giant Days﹚是由約翰阿利森﹙John Allison﹚編寫，由馬克斯沙林﹙Max Sarin﹚和莉莎特雷曼﹙Lissa Treiman﹚創作的一部持續喜劇漫畫。 該故事內容為三位年輕女性 - Esther de Groot，Susan Ptolemy和Daisy Wooton--在大學里共同生活。 該作最初是約翰阿利森以前作品[Scary Go Round中衍生的一個網絡漫畫](https://zh.wikipedia.org/wiki/Scary_Go_Round "wikilink")，然後作為一系列小型新聞漫畫出版，隨後被[Boom\!工作室](../Page/Boom!工作室.md "wikilink")以六個故事的迷你故事出版，然後是改為每月出版。 2016年，Giant Days獲得兩項艾斯納獎和四項哈維獎提名。\[1\]\[2\]
 
 ## 創作
 
 ### Wed版
 
-「非凡歲月」跟約翰阿利森以前作品[Scary Go
-Round為同一背景](https://zh.wikipedia.org/wiki/Scary_Go_Round "wikilink")。當2009年的[Scary
-Go
-Round完結後](https://zh.wikipedia.org/wiki/Scary_Go_Round "wikilink")，約翰阿利森開始了另一部作品[Bad
-Machinery](https://zh.wikipedia.org/wiki/Bad_Machinery "wikilink")。但[Bad
-Machinery故事有別於](https://zh.wikipedia.org/wiki/Bad_Machinery "wikilink")[Scary
-Go
-Round艾莉森擔心新作可能會疏遠他原本讀者](https://zh.wikipedia.org/wiki/Scary_Go_Round "wikilink")，於是開始準備另一部作品，以[Scary
-Go
-Round的人物Esther](https://zh.wikipedia.org/wiki/Scary_Go_Round "wikilink")
-de Groot為主的故事作為替補\[3\]。儘管[Bad
-Machinery最終帶來成功](https://zh.wikipedia.org/wiki/Bad_Machinery "wikilink")，但他仍在[Bad
-Machinery製作了三篇](https://zh.wikipedia.org/wiki/Bad_Machinery "wikilink")「非凡歲月」的短篇故事，隨後由Allison發行\[4\]。
+「非凡歲月」跟約翰阿利森以前作品[Scary Go Round為同一背景](https://zh.wikipedia.org/wiki/Scary_Go_Round "wikilink")。當2009年的[Scary Go Round完結後](https://zh.wikipedia.org/wiki/Scary_Go_Round "wikilink")，約翰阿利森開始了另一部作品[Bad Machinery](https://zh.wikipedia.org/wiki/Bad_Machinery "wikilink")。但[Bad Machinery故事有別於](https://zh.wikipedia.org/wiki/Bad_Machinery "wikilink")[Scary Go Round艾莉森擔心新作可能會疏遠他原本讀者](https://zh.wikipedia.org/wiki/Scary_Go_Round "wikilink")，於是開始準備另一部作品，以[Scary Go Round的人物Esther](https://zh.wikipedia.org/wiki/Scary_Go_Round "wikilink") de Groot為主的故事作為替補\[3\]。儘管[Bad Machinery最終帶來成功](https://zh.wikipedia.org/wiki/Bad_Machinery "wikilink")，但他仍在[Bad Machinery製作了三篇](https://zh.wikipedia.org/wiki/Bad_Machinery "wikilink")「非凡歲月」的短篇故事，隨後由Allison發行\[4\]。
 
 ### 正在進行的系列
 
-在2013年，[Boom\!工作室推出了](../Page/Boom!工作室.md "wikilink")“Boom！Box”系列，一個為業餘作者的的實驗性漫畫創作平台\[5\]。其間艾莉森和Boom！編輯香農·沃特斯﹙Shannon
-Watters﹚成為朋友，沃特斯在一個會議時抓住了艾莉森，看到了“Boom！Box”非常適合用來繼續「非凡歲月」的故事。該系列最初是由迪士尼動畫製作人莉莎特雷曼（Lissa
-Treiman）撰寫的六個限量系列作品。這是艾莉森第一次只作為漫畫編寫而沒有繪畫。「非凡歲月」取得了成功，在最後一期迷你劇被選為正式連載後，馬克斯沙林﹙Max
-Sarin﹚取代了莉莎特雷曼（雖然莉莎特雷曼直到第24期仍然登在封面）\[6\]。
+在2013年，[Boom\!工作室](../Page/Boom!工作室.md "wikilink")推出了“Boom！Box”系列，一個為業餘作者的的實驗性漫畫創作平台\[5\]。其間艾莉森和Boom！編輯香農·沃特斯﹙Shannon Watters﹚成為朋友，沃特斯在一個會議時抓住了艾莉森，看到了“Boom！Box”非常適合用來繼續「非凡歲月」的故事。該系列最初是由迪士尼動畫製作人莉莎特雷曼（Lissa Treiman）撰寫的六個限量系列作品。這是艾莉森第一次只作為漫畫編寫而沒有繪畫。「非凡歲月」取得了成功，在最後一期迷你劇被選為正式連載後，馬克斯沙林﹙Max Sarin﹚取代了莉莎特雷曼（雖然莉莎特雷曼直到第24期仍然登在封面）\[6\]。
 
 ## 背景
 
-故事背景發生在虛構小鎮Tackleford的謝菲爾德大學，與艾莉森的其他漫畫相比較寫實同時少了超自然氣氛。該系列以「Scary Go
-Round」的角色Esther de Groot開始，搬到她的住所大廳並與新鄰居結交：在家學習性格開朗的Daisy
-Wooton和說話多刺但樸實的Susan Ptolemy。
+故事背景發生在虛構小鎮Tackleford的謝菲爾德大學，與艾莉森的其他漫畫相比較寫實同時少了超自然氣氛。該系列以「Scary Go Round」的角色Esther de Groot開始，搬到她的住所大廳並與新鄰居結交：在家學習性格開朗的Daisy Wooton和說話多刺但樸實的Susan Ptolemy。
 
 ## 人物
 

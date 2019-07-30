@@ -1,5 +1,4 @@
-"**Toxicity**"
-是亞美尼亞裔[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[重金屬樂隊](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")[墮落體制的EP](https://zh.wikipedia.org/wiki/墮落體制 "wikilink")，於2002年發行。此曲同時收錄於[同名專輯](../Page/Toxicity_\(專輯\).md "wikilink")。
+"**Toxicity**" 是亞美尼亞裔[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[重金屬樂隊](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")[墮落體制的EP](https://zh.wikipedia.org/wiki/墮落體制 "wikilink")，於2002年發行。此曲同時收錄於[同名專輯](../Page/Toxicity_\(專輯\).md "wikilink")。
 被稱作新金屬的經典之作(Nu-Metal Classic)\[1\]。
 
 ## 配樂
@@ -28,13 +27,9 @@
   -
 ## 參考文獻
 
-[Category:墮落體制](https://zh.wikipedia.org/wiki/Category:墮落體制 "wikilink")
-[Category:墮落體制的歌曲](https://zh.wikipedia.org/wiki/Category:墮落體制的歌曲 "wikilink")
+[Category:墮落體制](https://zh.wikipedia.org/wiki/Category:墮落體制 "wikilink") [Category:墮落體制的歌曲](https://zh.wikipedia.org/wiki/Category:墮落體制的歌曲 "wikilink")
 
 1.
-2.  *"VH1 40 Greatest Metal Songs"*, 1–4 May 2006, *VH1* Channel,
-    reported by
-    [VH1.com](http://www.vh1.com/shows/dyn/the_greatest/103446/episode_this_list.jhtml);
-    last accessed September 10, 2006
+2.  *"VH1 40 Greatest Metal Songs"*, 1–4 May 2006, *VH1* Channel, reported by [VH1.com](http://www.vh1.com/shows/dyn/the_greatest/103446/episode_this_list.jhtml); last accessed September 10, 2006
 
 3.

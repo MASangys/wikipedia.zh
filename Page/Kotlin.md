@@ -1,25 +1,18 @@
-**Kotlin**是一種在[Java虛擬機上執行的](https://zh.wikipedia.org/wiki/Java虛擬機 "wikilink")[靜態型別](../Page/類型系統.md "wikilink")[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，它也可以被編譯成為[JavaScript原始碼](../Page/JavaScript.md "wikilink")。它主要是由[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[聖彼得堡的](https://zh.wikipedia.org/wiki/聖彼得堡 "wikilink")[JetBrains開發團隊所發展出來的程式語言](../Page/JetBrains.md "wikilink")，其名稱來自於聖彼得堡附近的[科特林島](https://zh.wikipedia.org/wiki/科特林島 "wikilink")。\[1\]2012年1月，著名期刊《》中Kotlin被认定为該月的最佳語言。\[2\]雖然与Java語法並不相容，但Kotlin被設計成可以和Java程式碼相互運作，並可以重複使用如[Java集合框架等的現有](../Page/Java集合框架.md "wikilink")。Hathibelagal写道，“如果你正在为Android开发寻找一种替代编程语言，那么应该试下Kotlin。它很容易在Android项目中替代Java或者同Java一起使用。”
+**Kotlin**是一種在[Java虛擬機上執行的](https://zh.wikipedia.org/wiki/Java虛擬機 "wikilink")[靜態型別](../Page/類型系統.md "wikilink")[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，它也可以被編譯成為[JavaScript](../Page/JavaScript.md "wikilink")原始碼。它主要是由[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[聖彼得堡的](https://zh.wikipedia.org/wiki/聖彼得堡 "wikilink")[JetBrains](../Page/JetBrains.md "wikilink")開發團隊所發展出來的程式語言，其名稱來自於聖彼得堡附近的[科特林島](https://zh.wikipedia.org/wiki/科特林島 "wikilink")。\[1\]2012年1月，著名期刊《》中Kotlin被认定为該月的最佳語言。\[2\]雖然与Java語法並不相容，但Kotlin被設計成可以和Java程式碼相互運作，並可以重複使用如[Java集合框架](../Page/Java集合框架.md "wikilink")等的現有。Hathibelagal写道，“如果你正在为Android开发寻找一种替代编程语言，那么应该试下Kotlin。它很容易在Android项目中替代Java或者同Java一起使用。”
 
 ## 历史
 
-2011年7月，JetBrains推出Kotlin项目，这是一个面向JVM的新语言，它已被开发一年之久。\[3\]JetBrains负责人Dmitry
-Jemerov说，大多数语言没有他们正在寻找的特性，但是[Scala除外](../Page/Scala.md "wikilink")。但是，他指出Scala的编译时间過慢这一明显缺陷。\[4\]Kotlin的既定目标之一是像Java一样快速编译。2012年2月，JetBrains以[Apache
-2许可证开源此项目](../Page/Apache许可证.md "wikilink")。\[5\]
+2011年7月，JetBrains推出Kotlin项目，这是一个面向JVM的新语言，它已被开发一年之久。\[3\]JetBrains负责人Dmitry Jemerov说，大多数语言没有他们正在寻找的特性，但是[Scala](../Page/Scala.md "wikilink")除外。但是，他指出Scala的编译时间過慢这一明显缺陷。\[4\]Kotlin的既定目标之一是像Java一样快速编译。2012年2月，JetBrains以[Apache 2许可证开源此项目](../Page/Apache许可证.md "wikilink")。\[5\]
 
-Jetbrains希望这个新语言能够推动[IntelliJ
-IDEA的销售](../Page/IntelliJ_IDEA.md "wikilink")。\[6\]
+Jetbrains希望这个新语言能够推动[IntelliJ IDEA的销售](../Page/IntelliJ_IDEA.md "wikilink")。\[6\]
 
-Kotlin
-v1.0于2016年2月15日发布。\[7\]这被认为是第一个官方稳定版本，并且JetBrains已准备从该版本开始的长期向后兼容性。
+Kotlin v1.0于2016年2月15日发布。\[7\]这被认为是第一个官方稳定版本，并且JetBrains已准备从该版本开始的长期向后兼容性。
 
-在[Google I/O](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")
-2017中，[Google宣布在](../Page/Google.md "wikilink")[Android上为Kotlin提供最佳支持](../Page/Android.md "wikilink")。\[8\]
+在[Google I/O](https://zh.wikipedia.org/wiki/Google_I/O "wikilink") 2017中，[Google](../Page/Google.md "wikilink")宣布在[Android](../Page/Android.md "wikilink")上为Kotlin提供最佳支持。\[8\]
 
 ## 语法
 
-Kotlin很明顯受到Java、C\#、JavaScript、Scala、Groovy等语言的影响。例如Kotlin可以直接通过`println("Hello,
-{name}")`或`println("Hello, $name")`来使用字串模板，和古老的shell
-script类似。又如Kotlin中的分号是可选的，这类似JavaScript，而且Groovy、Scala也有同样的能力。Kotlin常量定义关键字是`val`（不同於变量定义关键字`var`），表示固定值，这功能来自Scala，Swift也有类似功能。
+Kotlin很明顯受到Java、C\#、JavaScript、Scala、Groovy等语言的影响。例如Kotlin可以直接通过`println("Hello, {name}")`或`println("Hello, $name")`来使用字串模板，和古老的shell script类似。又如Kotlin中的分号是可选的，这类似JavaScript，而且Groovy、Scala也有同样的能力。Kotlin常量定义关键字是`val`（不同於变量定义关键字`var`），表示固定值，这功能来自Scala，Swift也有类似功能。
 
 需要注意，Kotlin没有关键字`new`。
 
@@ -53,10 +46,7 @@ fun sum(a: Int, b: Int): Int {
 
 ### Main 進入點
 
-Kotlin的main函数是不依赖类別的，所以main函数是一个top-level函数。支持[Perl和Unix](../Page/Perl.md "wikilink")/Linux
-[shell
-script的字符串插值](https://zh.wikipedia.org/wiki/shell_script "wikilink")（String
-interpolation），同樣也支持[类型推定](../Page/类型推论.md "wikilink")。
+Kotlin的main函数是不依赖类別的，所以main函数是一个top-level函数。支持[Perl](../Page/Perl.md "wikilink")和Unix/Linux [shell script的字符串插值](https://zh.wikipedia.org/wiki/shell_script "wikilink")（String interpolation），同樣也支持[类型推定](../Page/类型推论.md "wikilink")。
 
 ``` kotlin numberLines
 
@@ -69,8 +59,7 @@ fun main(args: Array<String>) {
 
 ### 函数扩展
 
-Kotlin與C\#、JavaScript类似，能够扩展類別的新功能，而无需继承该類別，或使用像装饰器（decorator）这样的任何类型的设计模式（design
-pattern）。扩展函数可以称为Kotlin的核心，在标准库里到处充斥着扩展函数。
+Kotlin與C\#、JavaScript类似，能够扩展類別的新功能，而无需继承该類別，或使用像装饰器（decorator）这样的任何类型的设计模式（design pattern）。扩展函数可以称为Kotlin的核心，在标准库里到处充斥着扩展函数。
 
 扩展函数是静态分发的，也就是說，它们不是以接收者类型为准的虚擬函數。这意味着调用的扩展函数是由函数调用所在的表达式的类型来决定的，而不是由表达式运行时求值结果决定的。
 
@@ -209,8 +198,7 @@ private
 
 ### 主构造函数 vs. 二級构造函数
 
-在Kotlin
-中類別可以有一个主构造函数以及多个二级构造函数。如果主构造函数没有注解或可见性说明，则`constructor`关键字可以省略。如果构造函数中没有其它操作，大括号也可以省略。
+在Kotlin 中類別可以有一个主构造函数以及多个二级构造函数。如果主构造函数没有注解或可见性说明，则`constructor`关键字可以省略。如果构造函数中没有其它操作，大括号也可以省略。
 
 ``` kotlin numberLines
      // Example of class using primary constructor syntax
@@ -246,8 +234,7 @@ Kotlin 的二級构造函数更类似於 C++, C\#, 和 Java。
 
 ### Anko library
 
-Anko 是一組為Kotlin 打造的函数库，其功能是用來開發[Android](../Page/Android.md "wikilink")
-UI 應用程式。\[10\]
+Anko 是一組為Kotlin 打造的函数库，其功能是用來開發[Android](../Page/Android.md "wikilink") UI 應用程式。\[10\]
 
 ``` kotlin numberLines
         fun Activity.showAreYouSureAlert(process: () -> Unit) {
@@ -278,8 +265,7 @@ Welcome to the Kotlin Shell
 
 ### Kotlin 也是腳本語言
 
-Kotlin 亦可視為腳本語言（scripting language）。其腳本存成 Kotlin source file
-(.kts)，即成為可執行檔。
+Kotlin 亦可視為腳本語言（scripting language）。其腳本存成 Kotlin source file (.kts)，即成為可執行檔。
 
 ``` kotlin numberLines
 // list_folders.kts
@@ -323,20 +309,13 @@ fun String.print() = println(this)
 
 ### 空变量及其运算
 
-Kotlin对可以为空（nullable）的变量和不可以为空（non-nullable）的变量作了区分。所有的可空对象（nullable
-objects）必須在定义時加上 "?" 後置於类型之後。開發人员遇到nullable objects時要先確認: null-check
-須被執行過，才能赋值。可空性是Kotlin类型系统中帮助开发者避免以往Java的[NullPointerException错误的特性](https://zh.wikipedia.org/wiki/NullPointerException "wikilink")。
+Kotlin对可以为空（nullable）的变量和不可以为空（non-nullable）的变量作了区分。所有的可空对象（nullable objects）必須在定义時加上 "?" 後置於类型之後。開發人员遇到nullable objects時要先確認: null-check 須被執行過，才能赋值。可空性是Kotlin类型系统中帮助开发者避免以往Java的[NullPointerException错误的特性](https://zh.wikipedia.org/wiki/NullPointerException "wikilink")。
 
 Kotlin 提供空安全（null-safe）运算符給開發人員:
 
-  - ([safe navigation
-    operator](https://zh.wikipedia.org/wiki/safe_navigation_operator "wikilink"))
-    可用於安全存取（safely access） 可能是空对象的函數或屬性。如果 object 為空（null）, the method
-    將不被调用，而且表达式必运算（evaluate）為空（null）。
+  - ([safe navigation operator](https://zh.wikipedia.org/wiki/safe_navigation_operator "wikilink")) 可用於安全存取（safely access） 可能是空对象的函數或屬性。如果 object 為空（null）, the method 將不被调用，而且表达式必运算（evaluate）為空（null）。
 
-  - ([null coalescing
-    operator](https://zh.wikipedia.org/wiki/null_coalescing_operator "wikilink"))
-    經常參照到艾维斯运算符（Elvis operator）:
+  - ([null coalescing operator](https://zh.wikipedia.org/wiki/null_coalescing_operator "wikilink")) 經常參照到艾维斯运算符（Elvis operator）:
 
 <!-- end list -->
 
@@ -361,8 +340,7 @@ fun sayHello(maybe: String?, neverNull: Int) {
 
 ### 高阶函数与lambda
 
-Kotlin
-亦支持高阶函数和lambdas功能。lambda是一种匿名函数，允许开发者直接将表达式定义为函数，这类似于Python。\[11\]
+Kotlin 亦支持高阶函数和lambdas功能。lambda是一种匿名函数，允许开发者直接将表达式定义为函数，这类似于Python。\[11\]
 
 ``` kotlin
   // the following function takes a lambda, f, and executes f passing it the string, "lambda"
@@ -390,14 +368,7 @@ Lambdas 可用大括弧來定义。如果lambda 夾帶參數，他們可定义�
 
   - [官方網站 - 中文翻譯](https://www.kotlincn.net)
 
-[Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink")
-[Category:Java平台](https://zh.wikipedia.org/wiki/Category:Java平台 "wikilink")
-[Category:JVM程式語言](https://zh.wikipedia.org/wiki/Category:JVM程式語言 "wikilink")
-[Category:面向对象的编程语言](https://zh.wikipedia.org/wiki/Category:面向对象的编程语言 "wikilink")
-[Category:静态类型编程语言](https://zh.wikipedia.org/wiki/Category:静态类型编程语言 "wikilink")
-[Category:使用Apache许可证的软件](https://zh.wikipedia.org/wiki/Category:使用Apache许可证的软件 "wikilink")
-[Category:自由軟體計劃](https://zh.wikipedia.org/wiki/Category:自由軟體計劃 "wikilink")
-[Category:2011年软件](https://zh.wikipedia.org/wiki/Category:2011年软件 "wikilink")
+[Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink") [Category:Java平台](https://zh.wikipedia.org/wiki/Category:Java平台 "wikilink") [Category:JVM程式語言](https://zh.wikipedia.org/wiki/Category:JVM程式語言 "wikilink") [Category:面向对象的编程语言](https://zh.wikipedia.org/wiki/Category:面向对象的编程语言 "wikilink") [Category:静态类型编程语言](https://zh.wikipedia.org/wiki/Category:静态类型编程语言 "wikilink") [Category:使用Apache许可证的软件](https://zh.wikipedia.org/wiki/Category:使用Apache许可证的软件 "wikilink") [Category:自由軟體計劃](https://zh.wikipedia.org/wiki/Category:自由軟體計劃 "wikilink") [Category:2011年软件](https://zh.wikipedia.org/wiki/Category:2011年软件 "wikilink")
 
 1.
 

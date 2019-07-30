@@ -1,4 +1,4 @@
-**西非書面文字**是一個位於基本多文種平面的[Unicode區段](../Page/Unicode區段.md "wikilink")，其中收錄了[西非書面字母字元共](../Page/西非書面字母.md "wikilink")59個。
+**西非書面文字**是一個位於基本多文種平面的[Unicode區段](../Page/Unicode區段.md "wikilink")，其中收錄了[西非書面字母](../Page/西非書面字母.md "wikilink")字元共59個。
 
 ## 歷史
 

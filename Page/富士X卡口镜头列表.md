@@ -1,6 +1,6 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:130128_Fujifilm_X-Pro1_003.jpg "fig:缩略图")
 
-本条目收录[富士X卡口上使用的镜头](../Page/富士X卡口.md "wikilink")，包括[富士胶片自己生产XF](../Page/富士胶片.md "wikilink")、XC镜头，及第三方兼容之镜头。
+本条目收录[富士X卡口](../Page/富士X卡口.md "wikilink")上使用的镜头，包括[富士胶片](../Page/富士胶片.md "wikilink")自己生产XF、XC镜头，及第三方兼容之镜头。
 
 ## 定焦镜头
 
@@ -53,8 +53,7 @@
 
 富士X卡口具备17.7mm[法兰距](https://zh.wikipedia.org/wiki/法兰距 "wikilink")，在可换镜头无反中属于较短的法兰距数值，可转接许多其他系统（单反、旁轴）镜头。
 
-富士公司自己生产兼容**Leica M**于X系列机身上使用的接环（M MOUNT
-ADAPTER）\[36\]\[37\]。其他厂家也为富士X生产兼容接环。
+富士公司自己生产兼容**Leica M**于X系列机身上使用的接环（M MOUNT ADAPTER）\[36\]\[37\]。其他厂家也为富士X生产兼容接环。
 
 ## 参见
 
@@ -68,115 +67,42 @@ ADAPTER）\[36\]\[37\]。其他厂家也为富士X生产兼容接环。
   - [富士胶片X主题站](http://fujifilm-x.com/zh/)
       - [XF镜头](http://fujifilm-x.com/zh/xf-lens/) 富士胶片X主题站
 
-[Category:鏡頭](https://zh.wikipedia.org/wiki/Category:鏡頭 "wikilink")
-[Category:富士](https://zh.wikipedia.org/wiki/Category:富士 "wikilink")
+[Category:鏡頭](https://zh.wikipedia.org/wiki/Category:鏡頭 "wikilink") [Category:富士](https://zh.wikipedia.org/wiki/Category:富士 "wikilink")
 
-1.  [富士龙镜头 XF 14mm F2.8
-    R](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf14mmf28_r/)
-    — 富士胶片（中国）
-2.  [富士龙镜头 XF 16mm F1.4 R
-    WR](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf16mmf14_r_wr/)
-    — 富士胶片（中国）
-3.  [富士龙镜头 XF 18mm F2
-    R](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf18mmf2_r/)
-    — 富士胶片（中国）
-4.  [富士龙镜头 XF 23mm F1.4
-    R](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf23mmf14_r/specifications/)
-    — 富士胶片（中国）
-5.  [富士龙镜头 XF 23mm F2 R
-    WR](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf23mmf2_r_wr/specifications/)
-    — 富士胶片（中国）
-6.  [Xマウントフィルターレンズ　XM-FL](http://fujifilm.jp/personal/digitalcamera/accessories/lens/filterlens/#xmfl)
-    — Fujifilm
-7.  [富士フイルム、「Xマウントフィルターレンズ」を正式発表](http://dc.watch.impress.co.jp/docs/news/20150205_686794.html)
-    - DC Watch Impress
-8.  [富士龙镜头 XF 27mm
-    F2.8](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf27mmf28/)
-    — 富士胶片（中国）
-9.  [富士龙镜头 XF 35mm F1.4
-    R](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf35mmf14_r/)
-    — 富士胶片（中国）
-10. [富士龙镜头 XF 35mm F2 R
-    WR](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf35mmf2_r_wr/)
-    — 富士胶片（中国）
-11. [XF 50mm F2 R
-    WR](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf50mmf2_r_wr/)
-    — 富士胶片（中国）
-12. [富士龙镜头 XF 56mm F1.2
-    R](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf56mmf12_r/)
-    — 富士胶片（中国）
-13. [富士龙镜头 XF 56mm F1.2 R
-    APD](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf56mmf12_r_apd/)
-    — 富士胶片（中国）
-14. [ボケへのこだわり――富士フイルム「XF 56mm F1.2 R
-    APD」](http://dc.watch.impress.co.jp/docs/news/interview/20141029_671964.html)
-    - DC Watch Impress
-15. [富士龙镜头 XF 60mm F2.4 R
-    Macro](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf60mmf24_r_macro/)
-    — 富士胶片（中国）
-16. [Fujifilm
-    Global](http://www.fujifilm.com/products/digital_cameras/x/fujinon_lens_xf80mmf28_r_lm_ois_wr_macro/)
-    — Fujifilm Global
-17. [富士龙镜头 XF 90mm F2 R LM
-    WR](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf90mmf2_r_lm_wr/)
-    — 富士胶片（中国）
-18. [ZEISS Touit 2.8/12
-    极目之远](http://www.zeiss.com.cn/camera-lenses/zh_cn/camera_lenses/touit/touit2812.html)
-    — ZEISS（中国）
-19. [ZEISS Touit 1.8/32
-    捕捉瞬间的魔术师](http://www.zeiss.com.cn/camera-lenses/zh_cn/camera_lenses/touit/touit1832.html)
-    — ZEISS（中国）
-20. [ZEISS Touit 2.8/50M
-    着眼于细节的完美主义者](http://www.zeiss.com.cn/camera-lenses/zh_cn/camera_lenses/touit/touit2850m.html)
-    — ZEISS（中国）
-21. [SAMYANG 8mm F2.8
-    II](http://www.syopt.com/en/product/photo-lenses-8mm-F2.8-Fish-eye-Lens.php)
-     — Samyang Optics
-22. [SAMYANG 12mm F2.0 NCS
-    CS](http://www.syopt.com/en/product/photo-lenses-12mm-F2.0-NCS-CS.php)
-     — Samyang Optics
-23. [SAMYANG 21mm F1.4 ED AS UMC
-    CS](http://www.syopt.com/en/product/photo-lenses-21mm-F1.4-ED-AS-UMC-CS.php)
-     — Samyang Optics
-24. [SAMYANG 50mm F1.2 AS UMC
-    CS](http://www.syopt.com/en/product/photo-lenses-50mm-F1.2-ED-AS-UMC-CS.php)
-     — Samyang Optics
-25. [FREEWALKER 24mm
-    F1.7](http://www.syzygx.com/index.php/2014-07-28-14-07-50/2014-07-29-11-45-47.html)
-    — 沈阳中一光学
-26. [SPEEDMASTER 35mm
-    F0.95](http://www.syzygx.com/index.php/2014-07-28-14-07-50/2014-07-29-11-45-45.html)
-    — 沈阳中一光学
-27. [富士龙镜头 XF 10-24mm F4 R
-    OIS](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf10_24mmf4_r_ois/)
-    — 富士胶片（中国）
-28. [富士龙镜头 XF 16-55mm F2.8 R LM
-    WR](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf16_55mmf28_r_lm_wr/)
-    — 富士胶片（中国）
-29. [富士龙镜头 XF 18-55mm F2.8-4 R LM
-    OIS](http://www.fujifilm.com.tw/personal/digitalcamera/fujinon_lens_xf18_55mmf28_4_r_lm_ois/specs.html)
-    — 富士胶片（中国）
-30. [富士龙镜头 XF 18-135mm F3.5-5.6 R LM OIS
-    WR](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf18_135mmf35_56_r_lm_ois_wr/)
-    — 富士胶片（中国）
-31. [富士龙镜头 XF 50-140mm F2.8 R LM OIS
-    WR](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf50_140mmf28_r_lm_ois_wr/)
-    — 富士胶片（中国）
-32. [富士龙镜头 XF 55-200mm F3.5-4.8 R LM
-    OIS](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf55_200mmf35_48_r_lm_ois/)
-    — 富士胶片（中国）
-33. [富士龙镜头 XF 100-400mm F4.5-5.6 R LM OIS
-    WR](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf100_400mmf45_56_r_lm_ois_wr/)
-    — 富士胶片（中国）
-34. [富士龙镜头 XC 16-50mm F3.5-5.6
-    OIS](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xc16_50mmf35_56_ois/)
-    — 富士胶片（中国）
-35. [富士龙镜头 XC 50-230mm F4.5-6.7
-    OIS](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xc50_230mmf45_67_ois/)
-    — 富士胶片（中国）
-36. [FUJIFILM M MOUNT
-    ADAPTER](http://www.fujifilm.com/products/digital_cameras/accessories/lens/mount/fujifilm_m_mount_adapter/index.html)
-    - FUJIFILM
-37. [FUJIFILM
-    M卡口适配器](http://www.fujifilm.com.cn/products/digital_cameras/accessories/lens/mount/fujifilm_m_mount_adapter/index.html)
-    - 富士胶片（中国）
+1.  [富士龙镜头 XF 14mm F2.8 R](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf14mmf28_r/) — 富士胶片（中国）
+2.  [富士龙镜头 XF 16mm F1.4 R WR](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf16mmf14_r_wr/) — 富士胶片（中国）
+3.  [富士龙镜头 XF 18mm F2 R](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf18mmf2_r/) — 富士胶片（中国）
+4.  [富士龙镜头 XF 23mm F1.4 R](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf23mmf14_r/specifications/) — 富士胶片（中国）
+5.  [富士龙镜头 XF 23mm F2 R WR](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf23mmf2_r_wr/specifications/) — 富士胶片（中国）
+6.  [Xマウントフィルターレンズ　XM-FL](http://fujifilm.jp/personal/digitalcamera/accessories/lens/filterlens/#xmfl) — Fujifilm
+7.  [富士フイルム、「Xマウントフィルターレンズ」を正式発表](http://dc.watch.impress.co.jp/docs/news/20150205_686794.html) - DC Watch Impress
+8.  [富士龙镜头 XF 27mm F2.8](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf27mmf28/) — 富士胶片（中国）
+9.  [富士龙镜头 XF 35mm F1.4 R](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf35mmf14_r/) — 富士胶片（中国）
+10. [富士龙镜头 XF 35mm F2 R WR](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf35mmf2_r_wr/) — 富士胶片（中国）
+11. [XF 50mm F2 R WR](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf50mmf2_r_wr/) — 富士胶片（中国）
+12. [富士龙镜头 XF 56mm F1.2 R](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf56mmf12_r/) — 富士胶片（中国）
+13. [富士龙镜头 XF 56mm F1.2 R APD](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf56mmf12_r_apd/) — 富士胶片（中国）
+14. [ボケへのこだわり――富士フイルム「XF 56mm F1.2 R APD」](http://dc.watch.impress.co.jp/docs/news/interview/20141029_671964.html) - DC Watch Impress
+15. [富士龙镜头 XF 60mm F2.4 R Macro](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf60mmf24_r_macro/) — 富士胶片（中国）
+16. [Fujifilm Global](http://www.fujifilm.com/products/digital_cameras/x/fujinon_lens_xf80mmf28_r_lm_ois_wr_macro/) — Fujifilm Global
+17. [富士龙镜头 XF 90mm F2 R LM WR](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf90mmf2_r_lm_wr/) — 富士胶片（中国）
+18. [ZEISS Touit 2.8/12 极目之远](http://www.zeiss.com.cn/camera-lenses/zh_cn/camera_lenses/touit/touit2812.html) — ZEISS（中国）
+19. [ZEISS Touit 1.8/32 捕捉瞬间的魔术师](http://www.zeiss.com.cn/camera-lenses/zh_cn/camera_lenses/touit/touit1832.html) — ZEISS（中国）
+20. [ZEISS Touit 2.8/50M 着眼于细节的完美主义者](http://www.zeiss.com.cn/camera-lenses/zh_cn/camera_lenses/touit/touit2850m.html) — ZEISS（中国）
+21. [SAMYANG 8mm F2.8 II](http://www.syopt.com/en/product/photo-lenses-8mm-F2.8-Fish-eye-Lens.php)  — Samyang Optics
+22. [SAMYANG 12mm F2.0 NCS CS](http://www.syopt.com/en/product/photo-lenses-12mm-F2.0-NCS-CS.php)  — Samyang Optics
+23. [SAMYANG 21mm F1.4 ED AS UMC CS](http://www.syopt.com/en/product/photo-lenses-21mm-F1.4-ED-AS-UMC-CS.php)  — Samyang Optics
+24. [SAMYANG 50mm F1.2 AS UMC CS](http://www.syopt.com/en/product/photo-lenses-50mm-F1.2-ED-AS-UMC-CS.php)  — Samyang Optics
+25. [FREEWALKER 24mm F1.7](http://www.syzygx.com/index.php/2014-07-28-14-07-50/2014-07-29-11-45-47.html) — 沈阳中一光学
+26. [SPEEDMASTER 35mm F0.95](http://www.syzygx.com/index.php/2014-07-28-14-07-50/2014-07-29-11-45-45.html) — 沈阳中一光学
+27. [富士龙镜头 XF 10-24mm F4 R OIS](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf10_24mmf4_r_ois/) — 富士胶片（中国）
+28. [富士龙镜头 XF 16-55mm F2.8 R LM WR](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf16_55mmf28_r_lm_wr/) — 富士胶片（中国）
+29. [富士龙镜头 XF 18-55mm F2.8-4 R LM OIS](http://www.fujifilm.com.tw/personal/digitalcamera/fujinon_lens_xf18_55mmf28_4_r_lm_ois/specs.html) — 富士胶片（中国）
+30. [富士龙镜头 XF 18-135mm F3.5-5.6 R LM OIS WR](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf18_135mmf35_56_r_lm_ois_wr/) — 富士胶片（中国）
+31. [富士龙镜头 XF 50-140mm F2.8 R LM OIS WR](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf50_140mmf28_r_lm_ois_wr/) — 富士胶片（中国）
+32. [富士龙镜头 XF 55-200mm F3.5-4.8 R LM OIS](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf55_200mmf35_48_r_lm_ois/) — 富士胶片（中国）
+33. [富士龙镜头 XF 100-400mm F4.5-5.6 R LM OIS WR](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xf100_400mmf45_56_r_lm_ois_wr/) — 富士胶片（中国）
+34. [富士龙镜头 XC 16-50mm F3.5-5.6 OIS](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xc16_50mmf35_56_ois/) — 富士胶片（中国）
+35. [富士龙镜头 XC 50-230mm F4.5-6.7 OIS](http://www.fujifilm.com.cn/products/digital_cameras/x/fujinon_lens_xc50_230mmf45_67_ois/) — 富士胶片（中国）
+36. [FUJIFILM M MOUNT ADAPTER](http://www.fujifilm.com/products/digital_cameras/accessories/lens/mount/fujifilm_m_mount_adapter/index.html) - FUJIFILM
+37. [FUJIFILM M卡口适配器](http://www.fujifilm.com.cn/products/digital_cameras/accessories/lens/mount/fujifilm_m_mount_adapter/index.html) - 富士胶片（中国）

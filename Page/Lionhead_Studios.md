@@ -1,10 +1,4 @@
-**Lionhead
-Studios**（有译为“狮头工作室”），是一家英国的电子游戏开发商，由英国著名游戏制作人[彼得·莫利纽克斯创立](https://zh.wikipedia.org/wiki/彼得·莫利纽克斯 "wikilink")，在2006年4月被微软收购，并开始脱离[Bullfrog
-Productions](https://zh.wikipedia.org/wiki/Bullfrog_Productions "wikilink")。Lionhead
-Studios第一款游戏是《黑与白》，由[艺电发行](../Page/艺电.md "wikilink")。该工作室以Mark
-Webley的仓鼠命名。2016年3月，微软宣布取消由Lionhead
-Studios开发多年的多人网络游戏《》，并宣布将考虑关闭工作室；4月29日，微软正式宣布关闭Lionhead
-Studios。\[1\]\[2\]
+**Lionhead Studios**（有译为“狮头工作室”），是一家英国的电子游戏开发商，由英国著名游戏制作人[彼得·莫利纽克斯创立](https://zh.wikipedia.org/wiki/彼得·莫利纽克斯 "wikilink")，在2006年4月被微软收购，并开始脱离[Bullfrog Productions](https://zh.wikipedia.org/wiki/Bullfrog_Productions "wikilink")。Lionhead Studios第一款游戏是《黑与白》，由[艺电](../Page/艺电.md "wikilink")发行。该工作室以Mark Webley的仓鼠命名。2016年3月，微软宣布取消由Lionhead Studios开发多年的多人网络游戏《》，并宣布将考虑关闭工作室；4月29日，微软正式宣布关闭Lionhead Studios。\[1\]\[2\]
 
 ## 游戏
 
@@ -96,22 +90,16 @@ Studios。\[1\]\[2\]
 
 ### 已取消
 
-  - *[Unity](https://zh.wikipedia.org/wiki/Unity_\(video_game\) "wikilink")*
-    (GameCube)
-  - *[BC](https://zh.wikipedia.org/wiki/BC_\(video_game\) "wikilink")*
-    (Xbox)
+  - *[Unity](https://zh.wikipedia.org/wiki/Unity_\(video_game\) "wikilink")* (GameCube)
+  - *[BC](https://zh.wikipedia.org/wiki/BC_\(video_game\) "wikilink")* (Xbox)
   - *Black & White: Titan* (Xbox, PlayStation 2)
   - *Black & White* (PlayStation, Dreamcast)
   - *InkQuest*\[5\]
   - *Black & White 3* (PC)
   - *The Movies* (GameCube, Xbox, PlayStation 2)
-  - *[Milo &
-    Kate](https://zh.wikipedia.org/wiki/Project_Milo "wikilink")* (Xbox
-    360 Kinect)
+  - *[Milo & Kate](https://zh.wikipedia.org/wiki/Project_Milo "wikilink")* (Xbox 360 Kinect)
   - *Fable II* (PC).
-  - *Fable Legends* ([Xbox One](../Page/Xbox_One.md "wikilink"),
-    [Microsoft
-    Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"))
+  - *Fable Legends* ([Xbox One](../Page/Xbox_One.md "wikilink"), [Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"))
 
 ## 参考资料
 
@@ -119,16 +107,10 @@ Studios。\[1\]\[2\]
 
   -
   -
-[Category:1996年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1996年開業電子遊戲公司 "wikilink")
-[Category:2016年結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2016年結業電子遊戲公司 "wikilink")
-[Category:微软的部门与子公司](https://zh.wikipedia.org/wiki/Category:微软的部门与子公司 "wikilink")
-[Category:英國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:英國已結業電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
+[Category:1996年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1996年開業電子遊戲公司 "wikilink") [Category:2016年結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2016年結業電子遊戲公司 "wikilink") [Category:微软的部门与子公司](https://zh.wikipedia.org/wiki/Category:微软的部门与子公司 "wikilink") [Category:英國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:英國已結業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
-1.  [Microsoft cancels Fable Legends, plans to shut down Lionhead
-    Studios](http://www.polygon.com/2016/3/7/11172408/fable-legends-canceled-lionhead-studios-closing).Polygon.2016-03-07.\[2016-03-08\].
-2.  [Lionhead Studios shuts its doors
-    today](http://www.polygon.com/2016/4/29/11537392/lionhead-studios-closed).Polygon.2016-04-29.\[2016-05-01\].
+1.  [Microsoft cancels Fable Legends, plans to shut down Lionhead Studios](http://www.polygon.com/2016/3/7/11172408/fable-legends-canceled-lionhead-studios-closing).Polygon.2016-03-07.\[2016-03-08\].
+2.  [Lionhead Studios shuts its doors today](http://www.polygon.com/2016/4/29/11537392/lionhead-studios-closed).Polygon.2016-04-29.\[2016-05-01\].
 3.
 4.  <http://www.eurogamer.net/articles/2014-01-21-yes-lionhead-is-working-on-something-that-isnt-fable-esque>
 5.

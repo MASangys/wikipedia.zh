@@ -1,5 +1,4 @@
-**Gateway敬拜團**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：Gateway
-Worship）是一個成立於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[德州](../Page/德克萨斯州.md "wikilink")[達拉斯的](../Page/達拉斯.md "wikilink")[基督教敬拜樂團](../Page/基督教.md "wikilink")\[1\]，2003年成立，目前在帶領敬拜，不時會到世界各地巡迴。Gateway敬拜團也是一個[当代基督教音乐的樂團](../Page/当代基督教音乐.md "wikilink")，原先由牧師領導，直到牧師在Gateway教會擔任新的職位後再交由他領導。
+**Gateway敬拜團**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：Gateway Worship）是一個成立於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[德州](../Page/德克萨斯州.md "wikilink")[達拉斯](../Page/達拉斯.md "wikilink")的[基督教](../Page/基督教.md "wikilink")敬拜樂團\[1\]，2003年成立，目前在帶領敬拜，不時會到世界各地巡迴。Gateway敬拜團也是一個[当代基督教音乐](../Page/当代基督教音乐.md "wikilink")的樂團，原先由牧師領導，直到牧師在Gateway教會擔任新的職位後再交由他領導。
 
 ## 專輯列表
 
@@ -9,14 +8,10 @@ Worship）是一個成立於[美國](https://zh.wikipedia.org/wiki/美國 "wikil
 
   - Living for You（為你而活） (2006)：在美國德州的Gateway教會舊南湖分堂現場錄音
   - Wake Up the World*（\*喚醒世界）*(2008)：在美國德州南湖Gateway教會舊南湖分堂現場錄音
-  - God Be
-    Praised（頌讚歸於你）(2010)：在美國德州南湖Gateway教會舊南湖分堂兩個晚上的現場錄音，這是在Gateway教會舊南湖校園錄製的最後一張專輯
-  - Great Great God
-    (EP)（偉大奇妙神）(2012)：在美國德州南湖Gateway教會新南湖分堂一個週末的現場錄音，這是在Gateway
-    Church新南湖校園錄製的第一張專輯
+  - God Be Praised（頌讚歸於你）(2010)：在美國德州南湖Gateway教會舊南湖分堂兩個晚上的現場錄音，這是在Gateway教會舊南湖校園錄製的最後一張專輯
+  - Great Great God (EP)（偉大奇妙神）(2012)：在美國德州南湖Gateway教會新南湖分堂一個週末的現場錄音，這是在Gateway Church新南湖校園錄製的第一張專輯
   - Forever Yours（永遠屬於你） (2012)：在美國德州南湖Gateway教會新南湖分堂現場錄音
-  - Walls（城牆）
-    (2015)：在美國德州南湖Gateway教會新南湖分堂現場錄音，榮登美國[告示牌雜誌的基督教音樂專輯排行榜上排名第一](../Page/告示牌_\(雜誌\).md "wikilink")。
+  - Walls（城牆） (2015)：在美國德州南湖Gateway教會新南湖分堂現場錄音，榮登美國[告示牌雜誌的基督教音樂專輯排行榜上排名第一](../Page/告示牌_\(雜誌\).md "wikilink")。
 
 ### 錄音室專輯
 
@@ -142,8 +137,6 @@ Worship）是一個成立於[美國](https://zh.wikipedia.org/wiki/美國 "wikil
   -
   -
   -
-[Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink")
-[Category:美国乐团](https://zh.wikipedia.org/wiki/Category:美国乐团 "wikilink")
-[Category:基督教音乐团体](https://zh.wikipedia.org/wiki/Category:基督教音乐团体 "wikilink")
+[Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink") [Category:美国乐团](https://zh.wikipedia.org/wiki/Category:美国乐团 "wikilink") [Category:基督教音乐团体](https://zh.wikipedia.org/wiki/Category:基督教音乐团体 "wikilink")
 
 1.

@@ -2,8 +2,7 @@
 
 ## 生平
 
-Hanae在十三歲時將一個[樣本唱片送到](../Page/樣本唱片.md "wikilink")[EMI音樂日本的面試計畫](../Page/EMI音樂日本.md "wikilink")「Great
-Hunting」，得到唱片公司的赞赏。\[1\]
+Hanae在十三歲時將一個[樣本唱片](../Page/樣本唱片.md "wikilink")送到[EMI音樂日本](../Page/EMI音樂日本.md "wikilink")的面試計畫「Great Hunting」，得到唱片公司的赞赏。\[1\]
 
 2011年6月1日，第一张单曲《羽根》发售而主流出道。
 
@@ -132,7 +131,7 @@ Hunting」，得到唱片公司的赞赏。\[1\]
 
   - [個人官方網站](http://hanae-web.com/)
 
-  - 在[Ameba上的](../Page/Ameba.md "wikilink")[官方網站](http://ameblo.jp/hanae-officialblog/)
+  - 在[Ameba](../Page/Ameba.md "wikilink")上的[官方網站](http://ameblo.jp/hanae-officialblog/)
 
   -
   -
@@ -140,8 +139,6 @@ Hunting」，得到唱片公司的赞赏。\[1\]
   -
   - [Hanae](http://www.universal-music.co.jp/hanae/)在[日本環球音樂的官方網站](https://zh.wikipedia.org/wiki/日本環球音樂 "wikilink")
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink")
-[Category:前研音所屬藝人](https://zh.wikipedia.org/wiki/Category:前研音所屬藝人 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink") [Category:前研音所屬藝人](https://zh.wikipedia.org/wiki/Category:前研音所屬藝人 "wikilink")
 
 1.

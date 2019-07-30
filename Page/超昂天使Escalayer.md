@@ -1,7 +1,4 @@
-是日本[ALICESOFT在](../Page/ALICESOFT.md "wikilink")2002年8月2日發售的[冒險類型](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2014年7月25日發售重製版《超昂天使Escalayer
-R》（超昂天使エスカレイヤー・リブート）\[3\]\[4\]，同時附贈收錄在《Alice 2010》（アリス2010）的FD《[超昂閃忍遥 ～遥
-vs Escalayer～](https://zh.wikipedia.org/wiki/超昂閃忍遥 "wikilink")》（超昂閃忍ハルカ
-～ハルカ vs エスカレイヤー～）。\[5\]除了遊戲外也發售OVA、漫畫、小說等相關作品。
+是日本[ALICESOFT](../Page/ALICESOFT.md "wikilink")在2002年8月2日發售的[冒險類型](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2014年7月25日發售重製版《超昂天使Escalayer R》（超昂天使エスカレイヤー・リブート）\[3\]\[4\]，同時附贈收錄在《Alice 2010》（アリス2010）的FD《[超昂閃忍遥 ～遥 vs Escalayer～](https://zh.wikipedia.org/wiki/超昂閃忍遥 "wikilink")》（超昂閃忍ハルカ ～ハルカ vs エスカレイヤー～）。\[5\]除了遊戲外也發售OVA、漫畫、小說等相關作品。
 
 ## 故事
 
@@ -84,8 +81,7 @@ vs Escalayer～](https://zh.wikipedia.org/wiki/超昂閃忍遥 "wikilink")》（
 
 ## OVA
 
-OVA是由Pink Pineapple在2002年開始發售的成人動畫，全部共3話，2008年2月29日發售合集，英文版是由Kitty
-Media代理發售。\[8\]
+OVA是由Pink Pineapple在2002年開始發售的成人動畫，全部共3話，2008年2月29日發售合集，英文版是由Kitty Media代理發售。\[8\]
 
 ### 各卷列表
 
@@ -120,26 +116,22 @@ Media代理發售。\[8\]
 ### 漫畫
 
   - 超昂天使エスカレイヤー アンソロジーコミックス\[9\]
-    由[enterbrain於](https://zh.wikipedia.org/wiki/enterbrain "wikilink")2002年11月30日發售共一冊（ISBN
-    4-7577-1235-9）。
+    由[enterbrain於](https://zh.wikipedia.org/wiki/enterbrain "wikilink")2002年11月30日發售共一冊（ISBN 4-7577-1235-9）。
 
 <!-- end list -->
 
   - 超昂天使エスカレイヤー・リブート
-    2014年於《[TECH
-    GIAN](../Page/TECH_GIAN.md "wikilink")》7月號開始連載，由作畫。\[10\]
+    2014年於《[TECH GIAN](../Page/TECH_GIAN.md "wikilink")》7月號開始連載，由作畫。\[10\]
 
 <!-- end list -->
 
   - 超昂天使エスカレイヤー THE COMIC
-    時丸佳久作畫，由Kill Time Communication於2015年12月25日發售共一冊（ISBN
-    978-4799208335）。
+    時丸佳久作畫，由Kill Time Communication於2015年12月25日發售共一冊（ISBN 978-4799208335）。
 
 ### 小說
 
   - 超昂天使エスカレイヤー
-    作者：雑賀匡　插畫：[みけおう](https://zh.wikipedia.org/wiki/みけおう "wikilink")　文庫：PARADIGM
-    NOVELS　出版社：[PARADIGM](../Page/PARADIGM.md "wikilink")
+    作者：雑賀匡　插畫：[みけおう](https://zh.wikipedia.org/wiki/みけおう "wikilink")　文庫：PARADIGM NOVELS　出版社：[PARADIGM](../Page/PARADIGM.md "wikilink")
 
 | 卷名 | 發售日        | [ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink") |
 | -- | ---------- | ----------------------------------------------------- |
@@ -158,31 +150,16 @@ Media代理發售。\[8\]
 
   - [ALICESOFT](https://web.archive.org/web/20060827120749/http://www.alicesoft.com/)限日本地區瀏覽
 
-[Category:2002年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2002年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:變身女主角](https://zh.wikipedia.org/wiki/Category:變身女主角 "wikilink")
-[Category:變身女主角動畫](https://zh.wikipedia.org/wiki/Category:變身女主角動畫 "wikilink")
-[Category:2002年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2002年日本成人動畫 "wikilink")
-[Category:天使题材电子游戏](https://zh.wikipedia.org/wiki/Category:天使题材电子游戏 "wikilink")
-[Category:养成游戏](https://zh.wikipedia.org/wiki/Category:养成游戏 "wikilink")
+[Category:2002年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2002年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:變身女主角](https://zh.wikipedia.org/wiki/Category:變身女主角 "wikilink") [Category:變身女主角動畫](https://zh.wikipedia.org/wiki/Category:變身女主角動畫 "wikilink") [Category:2002年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2002年日本成人動畫 "wikilink") [Category:天使题材电子游戏](https://zh.wikipedia.org/wiki/Category:天使题材电子游戏 "wikilink") [Category:养成游戏](https://zh.wikipedia.org/wiki/Category:养成游戏 "wikilink")
 
-1.  [超昂天使エスカレイヤー -Beat Angel Escalayer-
-    DVD-ROM版](http://www.getchu.com/soft.phtml?id=39581)Getchu.com
+1.  [超昂天使エスカレイヤー -Beat Angel Escalayer- DVD-ROM版](http://www.getchu.com/soft.phtml?id=39581)Getchu.com
 2.
 3.
 4.  [超昂天使エスカレイヤー・リブート](http://www.getchu.com/soft.phtml?id=808454)Getchu.com
-5.  [超昂閃忍ハルカ ～ハルカ vs
-    エスカレイヤー～](http://www.getchu.com/soft.phtml?id=817827)Getchu.com
+5.  [超昂閃忍ハルカ ～ハルカ vs エスカレイヤー～](http://www.getchu.com/soft.phtml?id=817827)Getchu.com
 6.  [超昂天使エスカレイヤー](http://erogetrailers.com/soft/739)ErogeTrailers
 7.  [超昂天使エスカレイヤー・リブート](http://erogetrailers.com/soft/12112)ErogeTrailers
-8.  [Beat Angel Escalayer
-    (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4057)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
-9.  [超昂天使エスカレイヤー
-    アンソロジーコミックス](http://www.enterbrain.co.jp/product/comic/comic_mgcalcute/02307701.html)[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")
+8.  [Beat Angel Escalayer (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4057)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+9.  [超昂天使エスカレイヤー アンソロジーコミックス](http://www.enterbrain.co.jp/product/comic/comic_mgcalcute/02307701.html)[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")
 10.
-11. [超昂天使エスカレイヤー
-    ビジュアルファンブック](http://www.enterbrain.co.jp/product/mook/mook_entame/214_magi_cu/02307401.html)enterbrain
+11. [超昂天使エスカレイヤー ビジュアルファンブック](http://www.enterbrain.co.jp/product/mook/mook_entame/214_magi_cu/02307401.html)enterbrain

@@ -1,5 +1,4 @@
-《**2012 BIGBANG Alive Tour Live
-Album**》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG推出的第六張韓語](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[現場專輯](../Page/現場專輯.md "wikilink")，由[YG娛樂製作發佈](../Page/YG娛樂.md "wikilink")，在2013年1月10日正式發行。該專輯收錄於2012年3月2日至3月4日在[首爾奧林匹克體操競技場舉行為期三天的演唱會](../Page/首尔奥林匹克体操竞技场.md "wikilink")。\[1\]
+《**2012 BIGBANG Alive Tour Live Album**》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG推出的第六張韓語](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[現場專輯](../Page/現場專輯.md "wikilink")，由[YG娛樂](../Page/YG娛樂.md "wikilink")製作發佈，在2013年1月10日正式發行。該專輯收錄於2012年3月2日至3月4日在[首爾奧林匹克體操競技場舉行為期三天的演唱會](../Page/首尔奥林匹克体操竞技场.md "wikilink")。\[1\]
 
 ## 概要
 
@@ -51,10 +50,7 @@ BIGBANG在2012年2月推出韓語第五張迷你專輯《》之後，隨即在3�
 
   -
 
-[Category:BIGBANG音樂專輯](https://zh.wikipedia.org/wiki/Category:BIGBANG音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:現場專輯](https://zh.wikipedia.org/wiki/Category:現場專輯 "wikilink")
+[Category:BIGBANG音樂專輯](https://zh.wikipedia.org/wiki/Category:BIGBANG音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:現場專輯](https://zh.wikipedia.org/wiki/Category:現場專輯 "wikilink")
 
 1.
 2.

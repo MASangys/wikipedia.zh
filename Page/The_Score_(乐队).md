@@ -1,32 +1,24 @@
-**The
-Score**是[美国](../Page/美国.md "wikilink")[纽约的一支](../Page/纽约.md "wikilink")[独立流行乐队](../Page/独立流行.md "wikilink")\[1\]，由埃迪·安东尼和伊丹·多佛组成。
+**The Score**是[美国](../Page/美国.md "wikilink")[纽约](../Page/纽约.md "wikilink")的一支[独立流行](../Page/独立流行.md "wikilink")乐队\[1\]，由埃迪·安东尼和伊丹·多佛组成。
 
 ## 历史
 
 ### 2015: 发布《Oh My Love》,唱片合约与首张EP
 
-2015年初，他们的单曲《Oh My
-Love》被[沃尔玛旗下的英国超市连锁店](../Page/沃尔玛.md "wikilink")[阿斯达选中](../Page/阿斯达.md "wikilink")，成为广告配乐。该系列广告是阿斯达“Save
-Money, Live Better”宣传活动的一部分。根据阿斯达工作人员克里斯·查尔默斯（Chris
-Chalmers）的说法，这支乐队的歌曲被选为广告配乐的原因是“The
-Score能如此受人欢迎的部分原因是他们没有与音乐公司签约过，也很少有人听说过他们”。\[2\]
+2015年初，他们的单曲《Oh My Love》被[沃尔玛](../Page/沃尔玛.md "wikilink")旗下的英国超市连锁店[阿斯达](../Page/阿斯达.md "wikilink")选中，成为广告配乐。该系列广告是阿斯达“Save Money, Live Better”宣传活动的一部分。根据阿斯达工作人员克里斯·查尔默斯（Chris Chalmers）的说法，这支乐队的歌曲被选为广告配乐的原因是“The Score能如此受人欢迎的部分原因是他们没有与音乐公司签约过，也很少有人听说过他们”。\[2\]
 
 这首歌在2015年7月登上了[英国单曲排行榜的第](../Page/英國單曲排行榜.md "wikilink")43位，成为公众关注的焦点。从2015年开始到现在，这首歌依然是[Shazamed上最受欢迎的歌曲之一](../Page/Shazam_\(服務\).md "wikilink")。\[3\]此歌也在2015年的电影《[鼠来宝4：萌在囧途](https://zh.wikipedia.org/wiki/鼠来宝4：萌在囧途 "wikilink")》中出现。
 
-在《Oh My Love》取得成功之后，The Score 成功与共和国唱片签约。他们在2015年9月发布了首张EP《Where Do You
-Run》。\[4\]
+在《Oh My Love》取得成功之后，The Score 成功与共和国唱片签约。他们在2015年9月发布了首张EP《Where Do You Run》。\[4\]
 
-另一首歌曲《On and On》曾在[HBO的春季节目中出现](../Page/HBO.md "wikilink")。
+另一首歌曲《On and On》曾在[HBO](../Page/HBO.md "wikilink")的春季节目中出现。
 
 ### 2016: 发布EP《Unstoppable》
 
-The Score
-在社交媒体上宣布将发布新的EP。2016年9月23日，《Unstoppable》正式发布。该曲曾出现在2017年电影《[超凡战队](https://zh.wikipedia.org/wiki/金剛戰士_\(2017年電影\) "wikilink")》中。此外，这首歌曲也在2016年福克斯电视节目的第7集播出。且被用作2017年[世界扑克大赛的主题曲](../Page/世界扑克大赛.md "wikilink")。
+The Score 在社交媒体上宣布将发布新的EP。2016年9月23日，《Unstoppable》正式发布。该曲曾出现在2017年电影《[超凡战队](https://zh.wikipedia.org/wiki/金剛戰士_\(2017年電影\) "wikilink")》中。此外，这首歌曲也在2016年福克斯电视节目的第7集播出。且被用作2017年[世界扑克大赛](../Page/世界扑克大赛.md "wikilink")的主题曲。
 
 ### 2017: 发布专辑《Myths & Legends》、《Atlas》
 
-The Score 宣布将会发布新专辑《Myths &
-Legends》。新专辑于2017年4月14日正式发行，其中包括新曲“Higher”和“Miracle”。 
+The Score 宣布将会发布新专辑《Myths & Legends》。新专辑于2017年4月14日正式发行，其中包括新曲“Higher”和“Miracle”。 
 
 在专辑《Atlas》中，包含有新曲“Never Going Back”。《Atlas》于10月13日正式发行。
 
@@ -196,9 +188,7 @@ Legends》。新专辑于2017年4月14日正式发行，其中包括新曲“Hig
 ## 外部链接
 
   -
-[Category:2015年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:2015年加利福尼亞州建立 "wikilink")
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
-[Category:美国音樂團體](https://zh.wikipedia.org/wiki/Category:美国音樂團體 "wikilink")
+[Category:2015年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:2015年加利福尼亞州建立 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink") [Category:美国音樂團體](https://zh.wikipedia.org/wiki/Category:美国音樂團體 "wikilink")
 
 1.
 2.

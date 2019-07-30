@@ -1,4 +1,4 @@
-是由[TNK製作的OVA作品](../Page/TNK.md "wikilink")，於2002年發售共三集，中文版由臺灣的[元美國際映像代理發售](../Page/元美國際映像.md "wikilink")\[1\]。
+是由[TNK](../Page/TNK.md "wikilink")製作的OVA作品，於2002年發售共三集，中文版由臺灣的[元美國際映像](../Page/元美國際映像.md "wikilink")代理發售\[1\]。
 
 ## 故事
 
@@ -112,11 +112,11 @@
 
   - 漫畫
 
-同名漫畫由酒月ほまれ作畫，單行本由[角川書店在](../Page/角川書店.md "wikilink")2002年8月1日發售，中文版由臺灣的[東立出版社代理發售](../Page/東立出版社.md "wikilink")。
+同名漫畫由酒月ほまれ作畫，單行本由[角川書店](../Page/角川書店.md "wikilink")在2002年8月1日發售，中文版由臺灣的[東立出版社](../Page/東立出版社.md "wikilink")代理發售。
 
   - 原聲帶
 
-原聲帶《さんとらCOMPLEX》由[Lantis在](../Page/Lantis.md "wikilink")2002年9月25日發售。
+原聲帶《さんとらCOMPLEX》由[Lantis](../Page/Lantis.md "wikilink")在2002年9月25日發售。
 
 ## 參考來源
 
@@ -124,11 +124,7 @@
 
   - [官方網站](http://www.wonderfarm.co.jp/cosplex/index.html)
 
-[Category:2002年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2002年日本OVA動畫 "wikilink")
-[Category:搞笑動畫](https://zh.wikipedia.org/wiki/Category:搞笑動畫 "wikilink")
-[Category:日本原創動畫](https://zh.wikipedia.org/wiki/Category:日本原創動畫 "wikilink")
-[Category:角川書店](https://zh.wikipedia.org/wiki/Category:角川書店 "wikilink")
-[Category:Cosplay](https://zh.wikipedia.org/wiki/Category:Cosplay "wikilink")
+[Category:2002年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2002年日本OVA動畫 "wikilink") [Category:搞笑動畫](https://zh.wikipedia.org/wiki/Category:搞笑動畫 "wikilink") [Category:日本原創動畫](https://zh.wikipedia.org/wiki/Category:日本原創動畫 "wikilink") [Category:角川書店](https://zh.wikipedia.org/wiki/Category:角川書店 "wikilink") [Category:Cosplay](https://zh.wikipedia.org/wiki/Category:Cosplay "wikilink")
 
 1.
 2.

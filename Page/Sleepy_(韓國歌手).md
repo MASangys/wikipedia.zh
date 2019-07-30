@@ -1,17 +1,14 @@
-**Sleepy**（，），本名**金成源**（），[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[饶舌](../Page/饒舌.md "wikilink")[男歌手及](../Page/歌手.md "wikilink")[嘻哈音樂](../Page/嘻哈音樂.md "wikilink")[团体](../Page/男子音乐组合.md "wikilink")[Untouchable的队长](../Page/Untouchable_\(韓國團體\).md "wikilink")，隶属[TS娛樂旗下艺人](../Page/TS娛樂.md "wikilink")。\[1\]
+**Sleepy**（，），本名**金成源**（），[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[饶舌](../Page/饒舌.md "wikilink")[男歌手及](../Page/歌手.md "wikilink")[嘻哈音樂](../Page/嘻哈音樂.md "wikilink")[团体](../Page/男子音乐组合.md "wikilink")[Untouchable的队长](../Page/Untouchable_\(韓國團體\).md "wikilink")，隶属[TS娛樂](../Page/TS娛樂.md "wikilink")旗下艺人。\[1\]
 
 ## 生平与经历
 
-Sleepy出生在[仁川廣域市](../Page/仁川廣域市.md "wikilink")，并于廣告設計系毕业。\[2\]2008年10月10日他作为[Untouchable的成员以单曲专辑](../Page/Untouchable_\(韓國團體\).md "wikilink")《It's
-Okay》正式出道。
+Sleepy出生在[仁川廣域市](../Page/仁川廣域市.md "wikilink")，并于廣告設計系毕业。\[2\]2008年10月10日他作为[Untouchable的成员以单曲专辑](../Page/Untouchable_\(韓國團體\).md "wikilink")《It's Okay》正式出道。
 
 2011年8月2日他与同组合的成员D.Action一同履行了强制性兵役，并于2013年4月28日服满退役。\[3\]
 
 2015年，他出演了[MBC的节目](../Page/文化廣播公司.md "wikilink")《[真正的男人](../Page/真正的男人.md "wikilink")》。\[4\]在节目中他展现了一个永不放弃的弱者形象，这个形象让他获得了“僵尸士兵”的称号，并因此获得了大量的人气。
 
-2015年6月16日，Sleepy与[Secret成员](../Page/Secret_\(組合\).md "wikilink")[宋枝恩合作发布歌曲](../Page/宋枝恩.md "wikilink")《Cool
-Night》。\[5\]随后于同年10月20日发布了他的首张单曲专辑《F/W》并邀请[白娥娟参与主打曲](../Page/白娥娟.md "wikilink")〈都怪心情〉的配唱，\[6\]自此起他正式开始了他的独唱生涯。2016年4月发布了他的第二张单曲专辑《BODY
-LOTION》，同名主打曲由制作，并邀请[B.A.P的成员](../Page/B.A.P.md "wikilink")[方容國参与配唱](https://zh.wikipedia.org/wiki/方容國 "wikilink")。\[7\]
+2015年6月16日，Sleepy与[Secret成员](../Page/Secret_\(組合\).md "wikilink")[宋枝恩](../Page/宋枝恩.md "wikilink")合作发布歌曲《Cool Night》。\[5\]随后于同年10月20日发布了他的首张单曲专辑《F/W》并邀请[白娥娟](../Page/白娥娟.md "wikilink")参与主打曲〈都怪心情〉的配唱，\[6\]自此起他正式开始了他的独唱生涯。2016年4月发布了他的第二张单曲专辑《BODY LOTION》，同名主打曲由制作，并邀请[B.A.P](../Page/B.A.P.md "wikilink")的成员[方容國参与配唱](https://zh.wikipedia.org/wiki/方容國 "wikilink")。\[7\]
 
 ## 音乐作品
 
@@ -374,8 +371,7 @@ LOTION》，同名主打曲由制作，并邀请[B.A.P的成员](../Page/B.A.P.m
 
 ### [MBC演藝大獎](https://zh.wikipedia.org/wiki/MBC演藝大獎 "wikilink")
 
-|- |2015 |最佳男新人奖—综艺部门 |[真正的男人](../Page/真正的男人.md "wikilink") |\[47\] |-
-|2016 |优秀奖—综艺部门 |[我們結婚了](../Page/我們結婚了.md "wikilink") | |}
+|- |2015 |最佳男新人奖—综艺部门 |[真正的男人](../Page/真正的男人.md "wikilink") |\[47\] |- |2016 |优秀奖—综艺部门 |[我們結婚了](../Page/我們結婚了.md "wikilink") | |}
 
 ## 参考资料
 
@@ -384,19 +380,7 @@ LOTION》，同名主打曲由制作，并邀请[B.A.P的成员](../Page/B.A.P.m
   -
   -
   -
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink")
-[Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink")
-[Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink")
-[Category:韩国饶舌男歌手](https://zh.wikipedia.org/wiki/Category:韩国饶舌男歌手 "wikilink")
-[Category:21世纪韩国歌手](https://zh.wikipedia.org/wiki/Category:21世纪韩国歌手 "wikilink")
-[Category:2000年代歌手](https://zh.wikipedia.org/wiki/Category:2000年代歌手 "wikilink")
-[Category:2010年代歌手](https://zh.wikipedia.org/wiki/Category:2010年代歌手 "wikilink")
-[Category:2008年出道](https://zh.wikipedia.org/wiki/Category:2008年出道 "wikilink")
-[Category:韩国嘻哈音乐家](https://zh.wikipedia.org/wiki/Category:韩国嘻哈音乐家 "wikilink")
-[Category:仁川廣域市出身人物](https://zh.wikipedia.org/wiki/Category:仁川廣域市出身人物 "wikilink")
-[Category:Show_Me_The_Money参赛者](https://zh.wikipedia.org/wiki/Category:Show_Me_The_Money参赛者 "wikilink")
+[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink") [Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink") [Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink") [Category:韩国饶舌男歌手](https://zh.wikipedia.org/wiki/Category:韩国饶舌男歌手 "wikilink") [Category:21世纪韩国歌手](https://zh.wikipedia.org/wiki/Category:21世纪韩国歌手 "wikilink") [Category:2000年代歌手](https://zh.wikipedia.org/wiki/Category:2000年代歌手 "wikilink") [Category:2010年代歌手](https://zh.wikipedia.org/wiki/Category:2010年代歌手 "wikilink") [Category:2008年出道](https://zh.wikipedia.org/wiki/Category:2008年出道 "wikilink") [Category:韩国嘻哈音乐家](https://zh.wikipedia.org/wiki/Category:韩国嘻哈音乐家 "wikilink") [Category:仁川廣域市出身人物](https://zh.wikipedia.org/wiki/Category:仁川廣域市出身人物 "wikilink") [Category:Show_Me_The_Money参赛者](https://zh.wikipedia.org/wiki/Category:Show_Me_The_Money参赛者 "wikilink")
 
 1.
 

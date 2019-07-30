@@ -2,7 +2,7 @@
 
 ## 韓語作品
 
-  - **成員個人**發行之單曲、專輯請參見**[鄭鎰勳](../Page/鄭鎰勳.md "wikilink")**、**[李昌燮](../Page/李昌燮.md "wikilink")**、**[李旼赫](../Page/李旼赫.md "wikilink")**，**分隊**之作品請參見**[BTOB－BLUE](../Page/BTOB－BLUE.md "wikilink")**。
+  - **成員個人**發行之單曲、專輯請參見**[鄭鎰勳](../Page/鄭鎰勳.md "wikilink")**、**[李昌燮](../Page/李昌燮.md "wikilink")**、**[李旼赫](../Page/李旼赫.md "wikilink")**、**[Peniel](../Page/辛東根.md "wikilink")**，**分隊**之作品請參見**[BTOB－BLUE](../Page/BTOB－BLUE.md "wikilink")**。
 
 ### 正規專輯
 
@@ -772,8 +772,7 @@
 
 ### PIECE OF BTOB
 
-《[PIECE OF
-BTOB](../Page/PIECE_OF_BTOB.md "wikilink")》是自2017年4月起，以每月一位成員推出Solo單曲的方式進行的特別企劃。
+《[PIECE OF BTOB](../Page/PIECE_OF_BTOB.md "wikilink")》是自2017年4月起，以每月一位成員推出Solo單曲的方式進行的特別企劃。
 
 <table>
 <tbody>
@@ -1588,11 +1587,6 @@ Remake Ver.</p></td>
 
   - [CUBE](https://www.youtube.com/user/theunitedcube) 官方Youtube頻道
 
-  - [CUBE
-    JAPAN](https://www.youtube.com/channel/UC0-VecYNeMa0hMlMkCVAvHg)
-    官方Youtube頻道
+  - [CUBE JAPAN](https://www.youtube.com/channel/UC0-VecYNeMa0hMlMkCVAvHg) 官方Youtube頻道
 
-[Category:BTOB](https://zh.wikipedia.org/wiki/Category:BTOB "wikilink")
-[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink")
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
-[Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
+[Category:BTOB](https://zh.wikipedia.org/wiki/Category:BTOB "wikilink") [Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")

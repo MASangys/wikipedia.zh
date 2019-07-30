@@ -36,7 +36,7 @@
 </tbody>
 </table>
 
-此高架車站在1919年3月16日啟用，設有兩個[側式月台和三條軌道](../Page/側式月台.md "wikilink")，中央軌道正常情況下不使用。
+此高架車站在1919年3月16日啟用，設有兩個[側式月台](../Page/側式月台.md "wikilink")和三條軌道，中央軌道正常情況下不使用。
 
 2016年6月7日至2017年5月1日，此站南行月台關閉以便進行翻新\[1\]\[2\]。而曼哈頓方向月台則自2017年5月22日關閉至2018年初\[3\]\[4\]。
 
@@ -45,22 +45,15 @@
 ## 外部連結
 
   -
-  - Station Reporter — [F
-    Train](https://web.archive.org/web/20120204051254/http://www.stationreporter.net/ftrain.htm)
+  - Station Reporter — [F Train](https://web.archive.org/web/20120204051254/http://www.stationreporter.net/ftrain.htm)
 
-  - The Subway Nut — [Avenue P
-    Pictures](http://www.subwaynut.com/ind/ave_pf/index.php)
+  - The Subway Nut — [Avenue P Pictures](http://www.subwaynut.com/ind/ave_pf/index.php)
 
-  - [Avenue P entrance from Google Maps Street
-    View](https://maps.google.com/?ie=UTF8&ll=40.608797,-73.972996&spn=0,0.006657&t=h&z=18&layer=c&cbll=40.608648,-73.972972&panoid=CsxFLKi9OnapgEPUAGGWfw&cbp=12,303.91,,0,-1.02)
+  - [Avenue P entrance from Google Maps Street View](https://maps.google.com/?ie=UTF8&ll=40.608797,-73.972996&spn=0,0.006657&t=h&z=18&layer=c&cbll=40.608648,-73.972972&panoid=CsxFLKi9OnapgEPUAGGWfw&cbp=12,303.91,,0,-1.02)
 
-  - [Platforms from Google Maps Street
-    View](https://www.google.com/maps/@40.6088852,-73.9729888,3a,75y,150.67h,90.37t/data=!3m8!1e1!3m6!1sAF1QipOHhOXqqYRRICIp2h16Z43MqbvQ0LVWQIpGkZQo!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOHhOXqqYRRICIp2h16Z43MqbvQ0LVWQIpGkZQo%3Dw203-h100-k-no-pi-0-ya78.415436-ro-0-fo100!7i7776!8i3888)
+  - [Platforms from Google Maps Street View](https://www.google.com/maps/@40.6088852,-73.9729888,3a,75y,150.67h,90.37t/data=!3m8!1e1!3m6!1sAF1QipOHhOXqqYRRICIp2h16Z43MqbvQ0LVWQIpGkZQo!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOHhOXqqYRRICIp2h16Z43MqbvQ0LVWQIpGkZQo%3Dw203-h100-k-no-pi-0-ya78.415436-ro-0-fo100!7i7776!8i3888)
 
-[Category:IND卡爾弗線車站](https://zh.wikipedia.org/wiki/Category:IND卡爾弗線車站 "wikilink")
-[Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink")
-[Category:1919年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1919年啟用的鐵路車站 "wikilink")
-[Category:1919年紐約州建立](https://zh.wikipedia.org/wiki/Category:1919年紐約州建立 "wikilink")
+[Category:IND卡爾弗線車站](https://zh.wikipedia.org/wiki/Category:IND卡爾弗線車站 "wikilink") [Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink") [Category:1919年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1919年啟用的鐵路車站 "wikilink") [Category:1919年紐約州建立](https://zh.wikipedia.org/wiki/Category:1919年紐約州建立 "wikilink")
 
 1.
 2.

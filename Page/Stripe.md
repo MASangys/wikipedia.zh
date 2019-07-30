@@ -6,8 +6,7 @@
 
 ## 歷史
 
-和在2010年成立了Stripe\[4\]，該[創始公司初期名叫](https://zh.wikipedia.org/wiki/創始公司 "wikilink")「/dev/payments」。這個名字在公司外經常被人拼錯造成了混淆，所以便改名為「Stripe」\[5\]。2010年6月，Stripe由[Y
-Combinator獲得了種子基金](../Page/Y_Combinator_\(公司\).md "wikilink")\[6\]。2011年5月，Stripe由投資者[彼得·泰爾和投資公司](../Page/彼得·泰爾.md "wikilink")[紅杉資本及](../Page/紅杉資本.md "wikilink")中取得了200萬美元\[7\]。2012年2月，Stripe在紅杉資本所帶領的一輪A系列投資中取得180萬美元，估值達一億美元\[8\]。Stripe在大規模的私人[Beta測試後在](../Page/軟件版本週期.md "wikilink")2011年9月公開推出\[9\]。在公開推出後不足一年，Stripe便由、紅杉資本、彼得·泰爾、、[克里斯·迪克森和](../Page/克里斯·迪克森.md "wikilink")[亞倫·萊維的B系列投資中取得二千萬美元投資](../Page/亞倫·萊維.md "wikilink")\[10\]。2013年3月，Stripe收購了程式Kickoff\[11\]。
+和在2010年成立了Stripe\[4\]，該[創始公司初期名叫](https://zh.wikipedia.org/wiki/創始公司 "wikilink")「/dev/payments」。這個名字在公司外經常被人拼錯造成了混淆，所以便改名為「Stripe」\[5\]。2010年6月，Stripe由[Y Combinator獲得了種子基金](../Page/Y_Combinator_\(公司\).md "wikilink")\[6\]。2011年5月，Stripe由投資者[彼得·泰爾](../Page/彼得·泰爾.md "wikilink")和投資公司[紅杉資本](../Page/紅杉資本.md "wikilink")及中取得了200萬美元\[7\]。2012年2月，Stripe在紅杉資本所帶領的一輪A系列投資中取得180萬美元，估值達一億美元\[8\]。Stripe在大規模的私人[Beta測試後在](../Page/軟件版本週期.md "wikilink")2011年9月公開推出\[9\]。在公開推出後不足一年，Stripe便由、紅杉資本、彼得·泰爾、、[克里斯·迪克森](../Page/克里斯·迪克森.md "wikilink")和[亞倫·萊維](../Page/亞倫·萊維.md "wikilink")的B系列投資中取得二千萬美元投資\[10\]。2013年3月，Stripe收購了程式Kickoff\[11\]。
 
 2014年3月，行政總裁帕特里克·科里森宣佈Stripe將會支援使用[比特幣付款](https://zh.wikipedia.org/wiki/比特幣 "wikilink")\[12\]。
 
@@ -25,14 +24,7 @@ Combinator獲得了種子基金](../Page/Y_Combinator_\(公司\).md "wikilink")\
 ## 外部連結
 
   -
-[Category:网络应用程序](https://zh.wikipedia.org/wiki/Category:网络应用程序 "wikilink")
-[Category:电子商务](https://zh.wikipedia.org/wiki/Category:电子商务 "wikilink")
-[Category:網站開發](https://zh.wikipedia.org/wiki/Category:網站開發 "wikilink")
-[Category:支付系统](https://zh.wikipedia.org/wiki/Category:支付系统 "wikilink")
-[Category:市场营销](https://zh.wikipedia.org/wiki/Category:市场营销 "wikilink")
-[Category:信息技术](https://zh.wikipedia.org/wiki/Category:信息技术 "wikilink")
-[Category:Y_Combinator公司](https://zh.wikipedia.org/wiki/Category:Y_Combinator公司 "wikilink")
-[Category:2010年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:2010年加利福尼亞州建立 "wikilink")
+[Category:网络应用程序](https://zh.wikipedia.org/wiki/Category:网络应用程序 "wikilink") [Category:电子商务](https://zh.wikipedia.org/wiki/Category:电子商务 "wikilink") [Category:網站開發](https://zh.wikipedia.org/wiki/Category:網站開發 "wikilink") [Category:支付系统](https://zh.wikipedia.org/wiki/Category:支付系统 "wikilink") [Category:市场营销](https://zh.wikipedia.org/wiki/Category:市场营销 "wikilink") [Category:信息技术](https://zh.wikipedia.org/wiki/Category:信息技术 "wikilink") [Category:Y_Combinator公司](https://zh.wikipedia.org/wiki/Category:Y_Combinator公司 "wikilink") [Category:2010年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:2010年加利福尼亞州建立 "wikilink")
 
 1.
 

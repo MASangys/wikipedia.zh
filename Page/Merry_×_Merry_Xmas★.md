@@ -1,15 +1,10 @@
-《**Merry × Merry
-Xmas★**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")15张[单曲](../Page/单曲.md "wikilink")，於2015年12月23日由[rhythm
-zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
+《**Merry × Merry Xmas★**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")15张[单曲](../Page/单曲.md "wikilink")，於2015年12月23日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
   - A面曲《Merry × Merry Xmas★》 是品牌Samantha Thavasa「祝你聖誕快樂」的電視廣告歌曲
-  - B面曲《Boom Boom Christmas》是繼《[Move It\! -Dream & E-girls
-    TIME-](../Page/Mr._Snowman.md "wikilink")》、《[Express -Do Your
-    Dance-](../Page/Dance_Dance_Dance_\(E-girls單曲\).md "wikilink")》後，第3首以Dream為主軸的樂曲。
-  - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《Merry × Merry
-    Xmas★》的Music Video。
+  - B面曲《Boom Boom Christmas》是繼《[Move It\! -Dream & E-girls TIME-](../Page/Mr._Snowman.md "wikilink")》、《[Express -Do Your Dance-](../Page/Dance_Dance_Dance_\(E-girls單曲\).md "wikilink")》後，第3首以Dream為主軸的樂曲。
+  - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《Merry × Merry Xmas★》的Music Video。
   - 在1月4日於[公信榜单曲週排行榜取得第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")4位。
 
 ## 選抜成员
@@ -25,10 +20,8 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 <!-- end list -->
 
-  - 上一首單曲《[Dance Dance
-    Dance](../Page/Dance_Dance_Dance_\(E-girls單曲\).md "wikilink")》的選拔成員全部入選了本次的選拔成員。[Aya](https://zh.wikipedia.org/wiki/高本彩 "wikilink")、[MIYUU](https://zh.wikipedia.org/wiki/有磯實結 "wikilink")、[川本璃](https://zh.wikipedia.org/wiki/川本璃 "wikilink")、[重留真波繼](https://zh.wikipedia.org/wiki/重留真波 "wikilink")《[Highschool♡love](../Page/Highschool♡love.md "wikilink")》後重回選拔組。
-  - Aya、川本璃繼《[E.G. Anthem -WE ARE
-    VENUS-](../Page/E.G._Anthem_-WE_ARE_VENUS-.md "wikilink")》後再選拔為主唱
+  - 上一首單曲《[Dance Dance Dance](../Page/Dance_Dance_Dance_\(E-girls單曲\).md "wikilink")》的選拔成員全部入選了本次的選拔成員。[Aya](https://zh.wikipedia.org/wiki/高本彩 "wikilink")、[MIYUU](https://zh.wikipedia.org/wiki/有磯實結 "wikilink")、[川本璃](https://zh.wikipedia.org/wiki/川本璃 "wikilink")、[重留真波繼](https://zh.wikipedia.org/wiki/重留真波 "wikilink")《[Highschool♡love](../Page/Highschool♡love.md "wikilink")》後重回選拔組。
+  - Aya、川本璃繼《[E.G. Anthem -WE ARE VENUS-](../Page/E.G._Anthem_-WE_ARE_VENUS-.md "wikilink")》後再選拔為主唱
   - [市來杏香因已離隊而沒有在選拔名單上](https://zh.wikipedia.org/wiki/市來杏香 "wikilink")。[Erie因已引退E](https://zh.wikipedia.org/wiki/阿部繪里惠 "wikilink")-girls主唱及表演者的身份而沒有在選拔名單上。
 
 ### White Angel
@@ -85,7 +78,4 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 </noinclude>
 
-[Category:E-girls歌曲](https://zh.wikipedia.org/wiki/Category:E-girls歌曲 "wikilink")
-[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink")
-[Category:冬天題材樂曲](https://zh.wikipedia.org/wiki/Category:冬天題材樂曲 "wikilink")
-[Category:聖誕節歌曲](https://zh.wikipedia.org/wiki/Category:聖誕節歌曲 "wikilink")
+[Category:E-girls歌曲](https://zh.wikipedia.org/wiki/Category:E-girls歌曲 "wikilink") [Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:冬天題材樂曲](https://zh.wikipedia.org/wiki/Category:冬天題材樂曲 "wikilink") [Category:聖誕節歌曲](https://zh.wikipedia.org/wiki/Category:聖誕節歌曲 "wikilink")

@@ -559,7 +559,7 @@ IU、Gary、哈哈<br />
 <td><p>擊敗其餘的Running Man</p></td>
 <td><p>金鐘國、Gary<strong>勝出</strong><br />
 獲得亞洲夢想盃出賽權<br />
-<em><strong>註：</strong><a href="../Page/鄭大世.md" title="wikilink">鄭大世</a>、<a href="../Page/宋仲基.md" title="wikilink">宋仲基特別出演</a><br />
+<em><strong>註：</strong><a href="../Page/鄭大世.md" title="wikilink">鄭大世</a>、<a href="../Page/宋仲基.md" title="wikilink">宋仲基</a>特別出演<br />
 <a href="../Page/里奧·費迪南.md" title="wikilink">-{zh-hans:里奥·费迪南德;zh-hk:里奧·費迪南;zh-tw:里奧·費迪南德}-驚喜出演</a></em></p></td>
 <td></td>
 <td></td>
@@ -683,7 +683,7 @@ Gary、哈哈</p></td>
 獲得黃金龜<br />
 <em><strong>註：</strong><br />
 <a href="https://zh.wikipedia.org/wiki/李德華" title="wikilink">李德華傳達任務</a><br />
-<a href="../Page/孫賢周.md" title="wikilink">孫賢周驚喜出演</a></em></p></td>
+<a href="../Page/孫賢周.md" title="wikilink">孫賢周</a>驚喜出演</em></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -745,7 +745,7 @@ Gary、哈哈</p></td>
 <td><p>偶像隊<strong>勝出</strong><br />
 獲得黃金獎牌<br />
 <em><strong>註：</strong><br />
-<a href="../Page/鄭在炯.md" title="wikilink">鄭在炯特別出演</a><br />
+<a href="../Page/鄭在炯.md" title="wikilink">鄭在炯</a>特別出演<br />
 概念來自<a href="https://zh.wikipedia.org/wiki/2012年夏季奧林匹克運動會" title="wikilink">2012倫敦奧運會</a></em></p></td>
 </tr>
 <tr class="odd">
@@ -808,7 +808,7 @@ Gary、哈哈</p></td>
 <small>(<em>8月13日</em>)</small></p></td>
 <td><p><a href="../Page/金相中.md" title="wikilink">金相中</a>、<a href="https://zh.wikipedia.org/wiki/張新英" title="wikilink">張新英</a>、<br />
 (<a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a>)[8]</p></td>
-<td><p><a href="../Page/延世大學.md" title="wikilink">延世大學國際校區</a><br />
+<td><p><a href="../Page/延世大學.md" title="wikilink">延世大學</a>國際校區<br />
 <small>(<a href="../Page/仁川廣域市.md" title="wikilink">仁川廣域市</a><a href="../Page/延壽區.md" title="wikilink">延壽區</a><br />
 <a href="../Page/松島國際都市.md" title="wikilink">松島國際都市</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>追擊者外傳</strong></span><br />
@@ -1237,8 +1237,7 @@ Gary、哈哈</p></td>
 
 ## 收视率
 
-以下紀錄《**Running
-Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink")》整體收視，<span style=color:red>**紅色**</span>表示為該年度最高收視率，<span style=color:blue>**藍色**</span>則表示為該年度最低收視率。
+以下紀錄《**Running Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink")》整體收視，<span style=color:red>**紅色**</span>表示為該年度最高收視率，<span style=color:blue>**藍色**</span>則表示為該年度最低收視率。
 
 <table>
 <thead>
@@ -1614,9 +1613,7 @@ Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink
   -
   -
   -
-[Category:Running_Man](https://zh.wikipedia.org/wiki/Category:Running_Man "wikilink")
-[Category:韓國電視節目各集列表](https://zh.wikipedia.org/wiki/Category:韓國電視節目各集列表 "wikilink")
-[Category:2012年電視節目列表](https://zh.wikipedia.org/wiki/Category:2012年電視節目列表 "wikilink")
+[Category:Running_Man](https://zh.wikipedia.org/wiki/Category:Running_Man "wikilink") [Category:韓國電視節目各集列表](https://zh.wikipedia.org/wiki/Category:韓國電視節目各集列表 "wikilink") [Category:2012年電視節目列表](https://zh.wikipedia.org/wiki/Category:2012年電視節目列表 "wikilink")
 
 1.
 2.  IU只參演第77集。

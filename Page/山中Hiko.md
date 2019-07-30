@@ -1,4 +1,4 @@
-**山中Hiko**（，），[日本女性](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")[O型](https://zh.wikipedia.org/wiki/ABO血型系統 "wikilink")\[1\]。她的作品主要在[BL雜誌](../Page/BL_\(和製英語\).md "wikilink")\[2\]和女性雜誌\[3\]發表。
+**山中Hiko**（，），[日本](../Page/日本.md "wikilink")女性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")[O型](https://zh.wikipedia.org/wiki/ABO血型系統 "wikilink")\[1\]。她的作品主要在[BL雜誌](../Page/BL_\(和製英語\).md "wikilink")\[2\]和女性雜誌\[3\]發表。
 
 ## 作品列表
 
@@ -164,7 +164,7 @@
 <td><p>全1冊</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/深夜烘焙坊.md" title="wikilink">深夜烘焙坊系列</a>（）</p></td>
+<td><p><a href="../Page/深夜烘焙坊.md" title="wikilink">深夜烘焙坊</a>系列（）</p></td>
 <td></td>
 <td><p><br />
  <a href="https://zh.wikipedia.org/wiki/三采文化" title="wikilink">三采文化</a></p></td>
@@ -172,7 +172,7 @@
 <td><p>已發行5冊（2016年3月）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/春&amp;夏事件簿.md" title="wikilink">春&amp;夏事件簿系列</a>（）</p></td>
+<td><p><a href="../Page/春&amp;夏事件簿.md" title="wikilink">春&amp;夏事件簿</a>系列（）</p></td>
 <td><p><a href="../Page/初野晴.md" title="wikilink">初野晴</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/角川文庫" title="wikilink">角川文庫</a><br />
  <a href="../Page/獨步文化.md" title="wikilink">獨步文化</a></p></td>
@@ -225,11 +225,7 @@
 
   -
 
-[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink")
-[Category:BL漫畫家](https://zh.wikipedia.org/wiki/Category:BL漫畫家 "wikilink")
-[Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink")
-[Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:BL漫畫家](https://zh.wikipedia.org/wiki/Category:BL漫畫家 "wikilink") [Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink") [Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.
 2.

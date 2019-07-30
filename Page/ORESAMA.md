@@ -1,15 +1,14 @@
-**ORESAMA**是[日本的二人音乐組合](../Page/日本.md "wikilink")，由PON與小島英也所組成。2014年組成。
+**ORESAMA**是[日本](../Page/日本.md "wikilink")的二人音乐組合，由PON與小島英也所組成。2014年組成。
 
 ## 概要
 
 [長野縣諏訪清陵高中](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[民謠部四人組成的樂團](https://zh.wikipedia.org/wiki/民俗音樂 "wikilink")「オレサマ。」，在縣高中輕音樂演奏會中獲得最優秀獎。去了東京後，在大學一年級時組成。
 
-2013年1月13日，在SHIBUYA-AX由Yamaha主辦的\[1\]「The 6th Music Revolution JAPAN
-FINAL」以歌曲「青春ランナー」獲得優秀賞\[2\]。
+2013年1月13日，在SHIBUYA-AX由Yamaha主辦的\[1\]「The 6th Music Revolution JAPAN FINAL」以歌曲「青春ランナー」獲得優秀賞\[2\]。
 
-此後，以[澀谷為活動中心在YASHIBU舉行演出](../Page/澀谷.md "wikilink")，2014年12月3日透過VAP發售首張單曲「狼少女之心」已正式出道。
+此後，以[澀谷](../Page/澀谷.md "wikilink")為活動中心在YASHIBU舉行演出，2014年12月3日透過VAP發售首張單曲「狼少女之心」已正式出道。
 
-2017年5月24日，演唱電視動畫「[愛麗絲與藏六](https://zh.wikipedia.org/wiki/愛麗絲與藏六 "wikilink")」片頭曲\[3\]，透過[Lantis重新出道](../Page/Lantis.md "wikilink")。
+2017年5月24日，演唱電視動畫「[愛麗絲與藏六](https://zh.wikipedia.org/wiki/愛麗絲與藏六 "wikilink")」片頭曲\[3\]，透過[Lantis](../Page/Lantis.md "wikilink")重新出道。
 
 ## 成員
 
@@ -59,19 +58,16 @@ FINAL」以歌曲「青春ランナー」獲得優秀賞\[2\]。
 
   - [ORESAMA 官方網站](http://www.orsm.jp/#top)
   - [ORESAMA 官方Twitter](https://twitter.com/o_oresama)（@o_oresama）
-  - [ORESAMA Yamaha Music Entertainment
-    Holdings頁面](http://www.yamaha-meh.co.jp/business/artist/oresama.html)
+  - [ORESAMA Yamaha Music Entertainment Holdings頁面](http://www.yamaha-meh.co.jp/business/artist/oresama.html)
   - [ORESAMA Lantis頁面](http://www.lantis.jp/artist/oresama/)
-  - [ORESAMA
-    官方Youtube](https://www.youtube.com/channel/UCwJpCPxmkVoTBqshUhF0ghg)
+  - [ORESAMA 官方Youtube](https://www.youtube.com/channel/UCwJpCPxmkVoTBqshUhF0ghg)
   - [ORESAMA Fackbook專頁](https://www.facebook.com/oresamagic)
 
 **成員官方網站**
 
   - [小島英也 官方網站](http://hideyakojima.jp/)
   - [PON 官方Twitter](https://twitter.com/pon_oresama)（@pon_oresama）
-  - [小島英也
-    官方Twitter](https://twitter.com/Kojima_oresama)（@Kojima_oresama）
+  - [小島英也 官方Twitter](https://twitter.com/Kojima_oresama)（@Kojima_oresama）
 
 [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
 

@@ -8,11 +8,9 @@
 
 2015年6月22日，在澀谷的[O-EAST完成了新體制的第一次亞洲巡迴公演](../Page/TSUTAYA_O-EAST.md "wikilink")，其足跡遍佈札幌、大阪、台北、雅加達、馬尼拉等地，最後在東京完美的收尾\[3\]。
 
-自2015年7月19日起，被起用為電視動畫「[Cardfight Vanguard
-G](../Page/卡片戰鬥先導者.md "wikilink")」片尾曲的演出，為成立七年以來最大的機會\[4\]。
+自2015年7月19日起，被起用為電視動畫「[Cardfight Vanguard G](../Page/卡片戰鬥先導者.md "wikilink")」片尾曲的演出，為成立七年以來最大的機會\[4\]。
 
-在2015年8月1\~2日的東京偶像祭典(Tokyo Idol
-Festival，TIF)的活動中，STARMARIE則是第一次有機會參與閉幕式的演出，成員木下望與高森紫乃代表團體在舞台上與來自各地的偶像們一起共襄盛舉。\[5\]
+在2015年8月1\~2日的東京偶像祭典(Tokyo Idol Festival，TIF)的活動中，STARMARIE則是第一次有機會參與閉幕式的演出，成員木下望與高森紫乃代表團體在舞台上與來自各地的偶像們一起共襄盛舉。\[5\]
 
 2015年11月3日將在新宿BLAZE舉辦睽違五個月的單獨公演「STARMARIE 単独公演〜魔力が消える！〜」。
 
@@ -43,11 +41,9 @@ Festival，TIF)的活動中，STARMARIE則是第一次有機會參與閉幕式�
 
 1.  [Starmarieに新メンバー3人加入。新生・STARMARIEへ](http://www.barks.jp/news/?id=1000104858)
 2.  [STARMARIE 7月起將舉行台灣定期公演！](http://newweb.my-cartoon.com.tw/front/news/main_02.php?id=3990)
-3.  [STARMARIEのアジアツアーが大団円\!
-    スタマリとマリストが生み出した文化の極みだよ](http://girlsnews.tv/unit/230096)
+3.  [STARMARIEのアジアツアーが大団円\! スタマリとマリストが生み出した文化の極みだよ](http://girlsnews.tv/unit/230096)
 4.  [久しぶりでごめんなさい！｜STARMARIE高森紫乃☆안녕\~\~♪](http://ameblo.jp/takamorishino/entry-12048229283.html)
 5.  [STARMARIEのTIF2015に隠された二つの感動秘話](http://utaten.com/news/index/2391)
 6.
 7.
-8.  [STARMARIE 第十三次台灣公演
-    流暢中文介紹出身地靜岡讓人驚喜](https://memeon-music.com/2018/01/22/starmarie-livereport-3/)
+8.  [STARMARIE 第十三次台灣公演 流暢中文介紹出身地靜岡讓人驚喜](https://memeon-music.com/2018/01/22/starmarie-livereport-3/)

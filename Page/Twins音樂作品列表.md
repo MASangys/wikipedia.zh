@@ -1,4 +1,4 @@
-本條目列舉[香港](../Page/香港.md "wikilink")[女子演唱團體](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink")[Twins的音樂作品](https://zh.wikipedia.org/wiki/Twins "wikilink")。2000年簽約於[英皇娛樂](../Page/英皇娛樂.md "wikilink")，2001年發行同名EP於香江竄紅。2005年進軍國語市場，遠赴台灣推行首張國語專輯[見習愛神](../Page/見習愛神.md "wikilink")。隔年發行第二張國語專輯[八十塊環遊世界衝破百萬銷量](../Page/八十塊環遊世界.md "wikilink")，奠定孖女的音樂作品在華人市場具影響力。\[1\]\[2\]\[3\]\[4\]
+本條目列舉[香港](../Page/香港.md "wikilink")[女子演唱團體](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink")[Twins的音樂作品](https://zh.wikipedia.org/wiki/Twins "wikilink")。2000年簽約於[英皇娛樂](../Page/英皇娛樂.md "wikilink")，2001年發行同名EP於香江竄紅。2005年進軍國語市場，遠赴台灣推行首張國語專輯[見習愛神](../Page/見習愛神.md "wikilink")。隔年發行第二張國語專輯[八十塊環遊世界](../Page/八十塊環遊世界.md "wikilink")衝破百萬銷量，奠定孖女的音樂作品在華人市場具影響力。\[1\]\[2\]\[3\]\[4\]
 
 ## 發行公司
 
@@ -23,11 +23,8 @@
 
   - 、 合作代理
 
-      - <s>[Music
-        Street](https://zh.wikipedia.org/wiki/Music_Street "wikilink")/[Play
-        Music](https://zh.wikipedia.org/wiki/Play_Music "wikilink")</s>（2001年新馬地區代理發行合作，2006年底終止）
-      - <s>[EQ
-        Music](https://zh.wikipedia.org/wiki/EQ_Music "wikilink")</s>（2012年新馬地區代理發行合作，2014年結束）
+      - <s>[Music Street](https://zh.wikipedia.org/wiki/Music_Street "wikilink")/[Play Music](https://zh.wikipedia.org/wiki/Play_Music "wikilink")</s>（2001年新馬地區代理發行合作，2006年底終止）
+      - <s>[EQ Music](https://zh.wikipedia.org/wiki/EQ_Music "wikilink")</s>（2012年新馬地區代理發行合作，2014年結束）
 
 ## EP（組合個人國/粵語）
 
@@ -78,8 +75,7 @@
 
 ## 精選專輯
 
-  - [Happy Together](../Page/Happy_Together_\(Twins專輯\).md "wikilink")
-    （2002年）
+  - [Happy Together](../Page/Happy_Together_\(Twins專輯\).md "wikilink") （2002年）
   - [Such a Better Day](../Page/Such_a_Better_Day.md "wikilink") （2004年）
   - [我們相愛6年](../Page/我們相愛6年.md "wikilink") （2007年）
   - [人人彈起](../Page/人人彈起_\(Twins專輯\).md "wikilink")（2010年）
@@ -124,15 +120,11 @@
 
   - [蔡卓妍的iTunes](https://itunes.apple.com/tw/artist/cai-zhuo-yan/id616827020?l=zh)
 
-  - [鍾欣潼/英皇娛樂
-    Official](https://web.archive.org/web/20160315115058/http://www.eegmusic.com/artist/index.php/index/211/%e9%92%9f%e6%ac%a3%e6%a1%90)
+  - [鍾欣潼/英皇娛樂 Official](https://web.archive.org/web/20160315115058/http://www.eegmusic.com/artist/index.php/index/211/%e9%92%9f%e6%ac%a3%e6%a1%90)
 
-  - [蔡卓妍/英皇娛樂
-    Official](https://web.archive.org/web/20121026214341/http://www.eegmusic.com/artist/index.php/index/210/%E8%94%A1%E5%8D%93%E5%A6%8D)
+  - [蔡卓妍/英皇娛樂 Official](https://web.archive.org/web/20121026214341/http://www.eegmusic.com/artist/index.php/index/210/%E8%94%A1%E5%8D%93%E5%A6%8D)
 
-[Category:Twins](https://zh.wikipedia.org/wiki/Category:Twins "wikilink")
-[Category:香港音樂作品列表](https://zh.wikipedia.org/wiki/Category:香港音樂作品列表 "wikilink")
-[Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
+[Category:Twins](https://zh.wikipedia.org/wiki/Category:Twins "wikilink") [Category:香港音樂作品列表](https://zh.wikipedia.org/wiki/Category:香港音樂作品列表 "wikilink") [Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
 
 1.  [Twins助陣超女發布會天后組合傳授偶像心得](http://ent.qq.com/a/20160622/037247.htm)
 2.  [Twins歷年音樂作品](https://itunes.apple.com/tw/artist/twins/id157607218?l=zh)

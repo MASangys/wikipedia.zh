@@ -1,5 +1,4 @@
-《**PRIMAL×HEARTS**》是日本[MARMALADE](../Page/MARMALADE.md "wikilink")（ま～まれぇど）在2014年3月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2015年10月30日發售續作《[PRIMAL×HEARTS2](../Page/PRIMAL×HEARTS2.md "wikilink")》\[3\]，初回限定版的特典是本作Fan
-Disc《倉賀野聖良Love Love After》（倉賀野聖良らぶらぶアフター）。\[4\]
+《**PRIMAL×HEARTS**》是日本[MARMALADE](../Page/MARMALADE.md "wikilink")（ま～まれぇど）在2014年3月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2015年10月30日發售續作《[PRIMAL×HEARTS2](../Page/PRIMAL×HEARTS2.md "wikilink")》\[3\]，初回限定版的特典是本作Fan Disc《倉賀野聖良Love Love After》（倉賀野聖良らぶらぶアフター）。\[4\]
 
 ## 故事
 
@@ -61,13 +60,11 @@ Disc《倉賀野聖良Love Love After》（倉賀野聖良らぶらぶアフタ�
 
 ## CD
 
-2014年8月29日由luminouscore發售PRIMAL×HEARTS
-キャラクターソング&サウンドアルバム\[6\]，收錄各女主角的ED歌曲和遊戲的BGM。\[7\]
+2014年8月29日由luminouscore發售PRIMAL×HEARTS キャラクターソング&サウンドアルバム\[6\]，收錄各女主角的ED歌曲和遊戲的BGM。\[7\]
 
 ## 評價
 
-PRIMAL×HEARTS獲得[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")2014的エロス系作品賞PINK金賞和8月的月間賞\[8\]，在2014年間排名中獲得第11名。\[9\]
-另外在Getchu.com的美少女遊戲大賞2014中獲得綜合部門第18名\[10\]、繪圖部門第2名\[11\]、角色部門**倉賀野聖良**第20名\[12\]、エロ部門第5名。\[13\]
+PRIMAL×HEARTS獲得[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")2014的エロス系作品賞PINK金賞和8月的月間賞\[8\]，在2014年間排名中獲得第11名。\[9\] 另外在Getchu.com的美少女遊戲大賞2014中獲得綜合部門第18名\[10\]、繪圖部門第2名\[11\]、角色部門**倉賀野聖良**第20名\[12\]、エロ部門第5名。\[13\]
 
 ## 參考來源
 
@@ -75,33 +72,18 @@ PRIMAL×HEARTS獲得[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink
 
   - [MARMALADE](http://www.web-marmalade.com/)
 
-[Category:2014年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2014年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:學生會題材作品](https://zh.wikipedia.org/wiki/Category:學生會題材作品 "wikilink")
+[Category:2014年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2014年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:學生會題材作品](https://zh.wikipedia.org/wiki/Category:學生會題材作品 "wikilink")
 
-1.  [PRIMAL×HEARTS
-    初回限定版](http://www.getchu.com/soft.phtml?id=805382)Getchu.com
+1.  [PRIMAL×HEARTS 初回限定版](http://www.getchu.com/soft.phtml?id=805382)Getchu.com
 2.  [Primal x Hearts](https://vndb.org/v14887)The Visual Novel Database
-3.  [PRIMAL×HEARTS2
-    初回限定版](http://www.getchu.com/soft.phtml?id=850597)Getchu.com
-4.  [Primal x Hearts 2](https://vndb.org/v17038)The Visual Novel
-    Database
-5.  [プライマルハーツ
-    PRIMAL×HEARTS](http://erogetrailers.com/soft/11879)ErogeTrailers
-6.  [PRIMAL×HEARTS
-    キャラクターソング&サウンドアルバム](http://www.amazon.co.jp/luminouscore-PRIMAL%C3%97HEARTS-%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%B3%E3%82%B0-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/dp/B00MTJDYSA)[amazon.com](https://zh.wikipedia.org/wiki/amazon.com "wikilink")
-7.  [PRIMAL×HEARTS
-    キャラクターソング＆サウンドアルバム](http://www.getchu.com/soft.phtml?id=815320)Getchu.com
+3.  [PRIMAL×HEARTS2 初回限定版](http://www.getchu.com/soft.phtml?id=850597)Getchu.com
+4.  [Primal x Hearts 2](https://vndb.org/v17038)The Visual Novel Database
+5.  [プライマルハーツ PRIMAL×HEARTS](http://erogetrailers.com/soft/11879)ErogeTrailers
+6.  [PRIMAL×HEARTS キャラクターソング&サウンドアルバム](http://www.amazon.co.jp/luminouscore-PRIMAL%C3%97HEARTS-%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%B3%E3%82%B0-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/dp/B00MTJDYSA)[amazon.com](https://zh.wikipedia.org/wiki/amazon.com "wikilink")
+7.  [PRIMAL×HEARTS キャラクターソング＆サウンドアルバム](http://www.getchu.com/soft.phtml?id=815320)Getchu.com
 8.  [金賞・エロス系作品賞PINK](http://moe-gameaward.com/prize/2014/pink.html#p02)[萌えゲーアワード](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")
 9.  [2014年間ランキング](http://moe-gameaward.com/annual/2014.html)萌えゲーアワード
-10. [美少女ゲーム大賞2014
-    －総合部門投票・結果発表－](http://www.getchu.com/pc/2014_g_ranking/)Getchu.com
-11. [美少女ゲーム大賞2014
-    －グラフィック部門投票・結果発表－](http://www.getchu.com/pc/2014_g_ranking/graphic.html)Getchu.com
-12. [美少女ゲーム大賞2014
-    －キャラクター部門投票・結果発表－](http://www.getchu.com/pc/2014_g_ranking/chara.html)Getchu.com
-13. [美少女ゲーム大賞2014
-    －エロ部門投票・結果発表－](http://www.getchu.com/pc/2014_g_ranking/graphic.html)Getchu.com
+10. [美少女ゲーム大賞2014 －総合部門投票・結果発表－](http://www.getchu.com/pc/2014_g_ranking/)Getchu.com
+11. [美少女ゲーム大賞2014 －グラフィック部門投票・結果発表－](http://www.getchu.com/pc/2014_g_ranking/graphic.html)Getchu.com
+12. [美少女ゲーム大賞2014 －キャラクター部門投票・結果発表－](http://www.getchu.com/pc/2014_g_ranking/chara.html)Getchu.com
+13. [美少女ゲーム大賞2014 －エロ部門投票・結果発表－](http://www.getchu.com/pc/2014_g_ranking/graphic.html)Getchu.com

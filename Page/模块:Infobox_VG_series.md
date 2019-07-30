@@ -26,8 +26,7 @@ local parameterList = {
 
 local p = {}
 
-local getArgs = require('Module:Arguments').getArgs local infobox =
-require('Module:Infobox').infobox
+local getArgs = require('Module:Arguments').getArgs local infobox = require('Module:Infobox').infobox
 
 local function getData(args, idx)
 

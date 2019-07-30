@@ -1,32 +1,16 @@
-**HTC
-U11**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2017年開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，目前運行[Android
-9.0.0](../Page/Android_Pie.md "wikilink")（出廠版本為[Android
-7.1.1](../Page/Android_Nougat.md "wikilink")）操作系统，同級競品為[Samsung Galaxy
-S8](../Page/三星Galaxy_S8.md "wikilink")、[Sony Xperia XZ
-Premium](../Page/Sony_Xperia_XZ_Premium.md "wikilink")、[Asus ZenFone 4
-Pro](https://zh.wikipedia.org/wiki/華碩ZenFone_4_\(2017\) "wikilink")、[LG
-G6](../Page/LG_G6.md "wikilink")、[iPhone
-8](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")。
+**HTC U11**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2017年開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，目前運行[Android 9.0.0](../Page/Android_Pie.md "wikilink")（出廠版本為[Android 7.1.1](../Page/Android_Nougat.md "wikilink")）操作系统，同級競品為[Samsung Galaxy S8](../Page/三星Galaxy_S8.md "wikilink")、[Sony Xperia XZ Premium](../Page/Sony_Xperia_XZ_Premium.md "wikilink")、[Asus ZenFone 4 Pro](https://zh.wikipedia.org/wiki/華碩ZenFone_4_\(2017\) "wikilink")、[LG G6](../Page/LG_G6.md "wikilink")、[iPhone 8](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")。
 
 ## 簡介
 
-U11為U系列2017年的旗艦手機，由HTC董事長[王雪紅親自命名](../Page/王雪紅.md "wikilink")\[1\]。新的U系列採用「Liquid設計」，揮別過往的金屬機殼改用玻璃機身，別於U
-Ultra，U11加入了「炫藍銀」與「豔陽紅」兩新色，且採用鏡面設計。原訂5月26日台灣出貨提早到5月20日出貨，為台灣首先上市的高通驍龍835機種。
+U11為U系列2017年的旗艦手機，由HTC董事長[王雪紅](../Page/王雪紅.md "wikilink")親自命名\[1\]。新的U系列採用「Liquid設計」，揮別過往的金屬機殼改用玻璃機身，別於U Ultra，U11加入了「炫藍銀」與「豔陽紅」兩新色，且採用鏡面設計。原訂5月26日台灣出貨提早到5月20日出貨，為台灣首先上市的高通驍龍835機種。
 
-此機具有「Edge Sense
-側框感應」，讓使用者能透過握壓機身來操作手機的特定功能。搭載了[驍龍835](https://zh.wikipedia.org/wiki/驍龍 "wikilink")、並加入[IP67防水防塵](../Page/国际防护等级认证.md "wikilink")，台灣、中國大陸、香港地區發售兩種規格，分別是4GB
-RAM/64GB ROM及6GB RAM/128GB ROM。
+此機具有「Edge Sense 側框感應」，讓使用者能透過握壓機身來操作手機的特定功能。搭載了[驍龍835](https://zh.wikipedia.org/wiki/驍龍 "wikilink")、並加入[IP67防水防塵](../Page/国际防护等级认证.md "wikilink")，台灣、中國大陸、香港地區發售兩種規格，分別是4GB RAM/64GB ROM及6GB RAM/128GB ROM。
 
-有別於先前的UltraPixel 2相機，全新的UltraPixel 3相機使用UltraSpeed AF、自動HDR
-Boost™功能使得U11相機在知名評測機構[DxOMark的手機項目獲得第一的](../Page/DxOMark.md "wikilink")90分高分，高於對手S8的88分。
+有別於先前的UltraPixel 2相機，全新的UltraPixel 3相機使用UltraSpeed AF、自動HDR Boost™功能使得U11相機在知名評測機構[DxOMark](../Page/DxOMark.md "wikilink")的手機項目獲得第一的90分高分，高於對手S8的88分。
 
-U11亦延續了U
-Ultra的四顆[麥克風](https://zh.wikipedia.org/wiki/麥克風 "wikilink")，可進行3D收音以及可
-Zoom-in針對被射主體收音的「Acoustic Focus」強化錄影時的音效。
+U11亦延續了U Ultra的四顆[麥克風](https://zh.wikipedia.org/wiki/麥克風 "wikilink")，可進行3D收音以及可 Zoom-in針對被射主體收音的「Acoustic Focus」強化錄影時的音效。
 
-2019年5月27日，開放更新[Android 9.0
-Pie](https://zh.wikipedia.org/wiki/Android_9 "wikilink")，同日晚間11點，官方停止推送[Android
-9.0 Pie更新](https://zh.wikipedia.org/wiki/Android_9 "wikilink")。
+2019年5月27日，開放更新[Android 9.0 Pie](https://zh.wikipedia.org/wiki/Android_9 "wikilink")，同日晚間11點，因為部分使用者反應更新後無法解鎖手機，官方暫停推送[Android 9.0 Pie更新](https://zh.wikipedia.org/wiki/Android_9 "wikilink")，現已重新開放。
 
 ## 詳細規格
 
@@ -149,7 +133,7 @@ Super LCD 5<br />
 </tr>
 <tr class="odd">
 <td><p>ROM</p></td>
-<td><p>| 64GB/128GB，<a href="../Page/通用闪存存储.md" title="wikilink">UFS 2.1</a>，<a href="../Page/MicroSD.md" title="wikilink">MicroSD™擴充最高</a> 2TB</p></td>
+<td><p>| 64GB/128GB，<a href="../Page/通用闪存存储.md" title="wikilink">UFS 2.1</a>，<a href="../Page/MicroSD.md" title="wikilink">MicroSD</a>™擴充最高 2TB</p></td>
 </tr>
 <tr class="even">
 <td><p>尺寸</p></td>
@@ -208,51 +192,39 @@ Super LCD 5<br />
 
 ### 外型
 
-與先前的M系列以及HTC 10的金屬材質不同，本次的U系列採用雙面玻璃，背面為三軸對稱曲面3D
-玻璃，且使用了HTC研究的分光混合成色技術（Optical
-Spectrum Hybrid Deposition），在光線照射下，會反射出不同的色系。
+與先前的M系列以及HTC 10的金屬材質不同，本次的U系列採用雙面玻璃，背面為三軸對稱曲面3D 玻璃，且使用了HTC研究的分光混合成色技術（Optical Spectrum Hybrid Deposition），在光線照射下，會反射出不同的色系。
 
 本次亦加入了炫藍銀與豔陽紅兩個新色，炫藍銀本色是帶有淡藍色的銀色，在特定角度會有紫色的反光，豔陽紅則是在特定角度反射出金色的反光，兩新色皆採用鏡面設計，因豔陽紅的決定量產時間晚所以第一波上市時間並未推出而將在後續上市。
 
 ### 音效
 
-本次搭載了4顆多向性麥克風，可以錄製3D音效，且搭配Always listening功能，在休眠時，麥克風也能持續收音，用戶可直接說出OK
-Google啟動 Google Now 語音助理。在美國、英國、德國也可以用戶可直接說出Alexa啟動[Amazon
-Alexa智慧語音助理](https://zh.wikipedia.org/wiki/Amazon "wikilink")。
+本次搭載了4顆多向性麥克風，可以錄製3D音效，且搭配Always listening功能，在休眠時，麥克風也能持續收音，用戶可直接說出OK Google啟動 Google Now 語音助理。在美國、英國、德國也可以用戶可直接說出Alexa啟動[Amazon Alexa智慧語音助理](https://zh.wikipedia.org/wiki/Amazon "wikilink")。
 
-另外本次附贈的HTC USonic™耳機採用[USB
-Type-C格式](../Page/USB_Type-C.md "wikilink")，能夠依照用戶調整個人化音效，且掃描使用者耳道結構，並調整耳機音效，符合每個人的聆聽喜好，並且會主動偵測環境噪音進行主動式降噪功能。
+另外本次附贈的HTC USonic™耳機採用[USB Type-C格式](../Page/USB_Type-C.md "wikilink")，能夠依照用戶調整個人化音效，且掃描使用者耳道結構，並調整耳機音效，符合每個人的聆聽喜好，並且會主動偵測環境噪音進行主動式降噪功能。
 
-HTC BoomSound™ Hi-Fi 超聲動音響相較[HTC
-10大幅提升](../Page/HTC_10.md "wikilink")，改良的喇叭，音量提升，底部的低頻揚聲器發出的聲音更飽滿，高音部分可發揮音箱作用，使高、中音表現的更有層次。
+HTC BoomSound™ Hi-Fi 超聲動音響相較[HTC 10大幅提升](../Page/HTC_10.md "wikilink")，改良的喇叭，音量提升，底部的低頻揚聲器發出的聲音更飽滿，高音部分可發揮音箱作用，使高、中音表現的更有層次。
 
-附贈的[USB
-Type-C轉](../Page/USB_Type-C.md "wikilink")3.5mm耳機孔的傳輸線內建[DAC](https://zh.wikipedia.org/wiki/DAC "wikilink")，提供使用3.5mm耳機的使用者有更好的聽覺效果。
+附贈的[USB Type-C轉](../Page/USB_Type-C.md "wikilink")3.5mm耳機孔的傳輸線內建[DAC](https://zh.wikipedia.org/wiki/DAC "wikilink")，提供使用3.5mm耳機的使用者有更好的聽覺效果。
 
 ### 相機
 
-U11採用UltraPixel 3相機，使用SONY IMX362感光元件，使用了UltraSpeed AF （Dual
-Pixel技術）將對焦時間縮短到0.3秒內 ，另外自動HDR升級成自動HDR
-Boost™強化了自動HDR的處理速度以及觸發時間，無需等待HDR處理即可進行下一張拍攝，大幅強化了拍照的畫質。
+U11採用UltraPixel 3相機，使用SONY IMX362感光元件，使用了UltraSpeed AF （Dual Pixel技術）將對焦時間縮短到0.3秒內 ，另外自動HDR升級成自動HDR Boost™強化了自動HDR的處理速度以及觸發時間，無需等待HDR處理即可進行下一張拍攝，大幅強化了拍照的畫質。
 
 本次的相機也將光學防手震（OIS）及電子防手震（EIS）結合升級成5軸防手震等級，大幅了強化拍照體驗。
 
-相機在評測機構[DxOMark的手機項目得到了最高分](../Page/DxOMark.md "wikilink")90分（2017年5月16日時點）\[4\]。
+相機在評測機構[DxOMark](../Page/DxOMark.md "wikilink")的手機項目得到了最高分90分（2017年5月16日時點）\[4\]。
 
 錄影方面提供了3D音效錄影，並可使用Acoustic Focus在畫面拉近被攝對象時，讓收音指向被攝主體上。
 
 ### 人工智慧
 
-本次HTC導入了自己的人工智慧HTC Sense
-Companion，可以辨識聲紋來透過聲控來進行解鎖、接聽、發送簡訊、取消鬧鐘等，並觀察用戶的行為適時於小螢幕提供相關資訊。
+本次HTC導入了自己的人工智慧HTC Sense Companion，可以辨識聲紋來透過聲控來進行解鎖、接聽、發送簡訊、取消鬧鐘等，並觀察用戶的行為適時於小螢幕提供相關資訊。
 
-HTC亦結合[Google智能助理以及](https://zh.wikipedia.org/wiki/Google智能助理 "wikilink")[Amazon開發的](https://zh.wikipedia.org/wiki/Amazon "wikilink")[Alexa個人助理](https://zh.wikipedia.org/wiki/Alexa "wikilink")，可以切換進行運用。中國版則採用[百度開發的度秘智能助理程式](../Page/百度.md "wikilink")。
+HTC亦結合[Google智能助理以及](https://zh.wikipedia.org/wiki/Google智能助理 "wikilink")[Amazon開發的](https://zh.wikipedia.org/wiki/Amazon "wikilink")[Alexa個人助理](https://zh.wikipedia.org/wiki/Alexa "wikilink")，可以切換進行運用。中國版則採用[百度](../Page/百度.md "wikilink")開發的度秘智能助理程式。
 
 ### Edge Sense\[5\]
 
-HTC採用了新的側框感壓（Edge
-Sense），能夠讓使用者透過邊框的按壓力道來啟動特定的應用或拍照等手勢，帶著手套也能感應啟動，主要分為短握與長壓，可以分別啟用1種功能。稍後7月份則將推出支援更多程式功能的Edge
-Sense for any App
+HTC採用了新的側框感壓（Edge Sense），能夠讓使用者透過邊框的按壓力道來啟動特定的應用或拍照等手勢，帶著手套也能感應啟動，主要分為短握與長壓，可以分別啟用1種功能。稍後7月份則將推出支援更多程式功能的Edge Sense for any App
 
 ## 零件供應商
 
@@ -262,8 +234,7 @@ Sense for any App
   - 電源管理 IC 與 4G 通訊晶片：[高通](../Page/高通.md "wikilink")
   - 後鏡頭感光元件：[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink") IMX362
   - 前鏡頭感光元件：[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink") IMX351
-  - 指紋辨識：[Fingerprint
-    Cards](https://zh.wikipedia.org/wiki/Fingerprint_Cards "wikilink")
+  - 指紋辨識：[Fingerprint Cards](https://zh.wikipedia.org/wiki/Fingerprint_Cards "wikilink")
 
 ## 發售資訊\[6\]
 
@@ -275,8 +246,7 @@ Sense for any App
   - 2017年5月26日至5月31日HTC網路商店與HTC專賣店同步搶先開賣。
   - 預購贈品價值新台幣1000元的限量專屬U黑曜金高腳杯。
   - 2017年6月鋪貨四大電信。
-  - 盒裝附贈：HTC QC 3.0快速充電、USB Type-C 傳輸線、USB-C對3.5公釐耳機插孔轉接器、HTC清透保護殼、HTC
-    USonic™耳機（Type-C）、擦拭布、退SIM卡針
+  - 盒裝附贈：HTC QC 3.0快速充電、USB Type-C 傳輸線、USB-C對3.5公釐耳機插孔轉接器、HTC清透保護殼、HTC USonic™耳機（Type-C）、擦拭布、退SIM卡針
 
 ### 官方新機定價
 
@@ -311,11 +281,7 @@ Sense for any App
 
 ## 参考资料
 
-[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:2017年面世的手機](https://zh.wikipedia.org/wiki/Category:2017年面世的手機 "wikilink")
+[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2017年面世的手機](https://zh.wikipedia.org/wiki/Category:2017年面世的手機 "wikilink")
 
 1.
 2.

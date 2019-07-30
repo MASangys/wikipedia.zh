@@ -1,13 +1,8 @@
-《**鄭俊弘The Red Concert
-2015演唱會**》是香港男歌手[鄭俊弘第二個人演唱會](../Page/鄭俊弘.md "wikilink")，於2015年9月5日假九龍灣國際展貿中心舉行，名字全寫為「Ecco呈獻：鄭俊弘
-The Red Concert 2015 演唱會」。
+《**鄭俊弘The Red Concert 2015演唱會**》是香港男歌手[鄭俊弘](../Page/鄭俊弘.md "wikilink")第二個人演唱會，於2015年9月5日假九龍灣國際展貿中心舉行，名字全寫為「Ecco呈獻：鄭俊弘 The Red Concert 2015 演唱會」。
 
 ## 簡介
 
-自2014年11月1日首次個人演唱會之後，[星夢娛樂於](https://zh.wikipedia.org/wiki/星夢娛樂 "wikilink")2015年7月13日舉行記者會正式宣佈鄭俊弘的第二次個人演唱會《ECCO呈獻：鄭俊弘
-THE RED CONCERT 2015 紅色演唱會》
-，定在2015年9月5日於[九龍灣國際展貿中心舉行](../Page/九龍灣國際展貿中心.md "wikilink")。樂迷專程從[澳門](../Page/澳門.md "wikilink")、[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")、[新](../Page/新加坡.md "wikilink")[馬](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[美](https://zh.wikipedia.org/wiki/美國 "wikilink")[加等地遠赴香港觀看](../Page/加拿大.md "wikilink")。鄭俊弘以歌唱、舞蹈、演奏結他、打鼓，作突破性多元化表演中英名曲\[1\]，亦首次現場Live演唱《當狗愛上貓》。星夢娛樂於2015年10月7日在其官方網站發放Radio
-Edit版本，同步在iTunes供付款下載，上架一小時即排行廣東歌及單曲銷量榜等等五大銷量排行榜冠軍，雖然在還沒有拍MV及還沒有開始宣傳的情況下上架發售，《當狗愛上貓》並且也連續九天穩佔iTunes粵語音樂銷售排行榜第一位，上榜十三天仍然佔第二位，其後更奪得IFPI香港唱片銷量大獎頒獎禮2015十大數碼暢銷歌曲。
+自2014年11月1日首次個人演唱會之後，[星夢娛樂於](https://zh.wikipedia.org/wiki/星夢娛樂 "wikilink")2015年7月13日舉行記者會正式宣佈鄭俊弘的第二次個人演唱會《ECCO呈獻：鄭俊弘 THE RED CONCERT 2015 紅色演唱會》 ，定在2015年9月5日於[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")舉行。樂迷專程從[澳門](../Page/澳門.md "wikilink")、[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")、[新](../Page/新加坡.md "wikilink")[馬](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[美](https://zh.wikipedia.org/wiki/美國 "wikilink")[加等地遠赴香港觀看](../Page/加拿大.md "wikilink")。鄭俊弘以歌唱、舞蹈、演奏結他、打鼓，作突破性多元化表演中英名曲\[1\]，亦首次現場Live演唱《當狗愛上貓》。星夢娛樂於2015年10月7日在其官方網站發放Radio Edit版本，同步在iTunes供付款下載，上架一小時即排行廣東歌及單曲銷量榜等等五大銷量排行榜冠軍，雖然在還沒有拍MV及還沒有開始宣傳的情況下上架發售，《當狗愛上貓》並且也連續九天穩佔iTunes粵語音樂銷售排行榜第一位，上榜十三天仍然佔第二位，其後更奪得IFPI香港唱片銷量大獎頒獎禮2015十大數碼暢銷歌曲。
 
 ## 演唱會主辦機構
 
@@ -19,7 +14,7 @@ Edit版本，同步在iTunes供付款下載，上架一小時即排行廣東歌�
 
 ## 演唱會嘉賓
 
-[太極樂隊之成員](../Page/太極樂隊.md "wikilink")[鄧建明與](../Page/鄧建明.md "wikilink")[雷有暉](../Page/雷有暉.md "wikilink")、[樂隊HOME](../Page/HOME_\(樂隊\).md "wikilink")
+[太極樂隊](../Page/太極樂隊.md "wikilink")之成員[鄧建明](../Page/鄧建明.md "wikilink")與[雷有暉](../Page/雷有暉.md "wikilink")、[樂隊HOME](../Page/HOME_\(樂隊\).md "wikilink")
 
 ## 演唱會曲目
 
@@ -68,7 +63,7 @@ Edit版本，同步在iTunes供付款下載，上架一小時即排行廣東歌�
 <td><p>紅色跑車</p></td>
 <td><p><a href="../Page/因葵.md" title="wikilink">因葵</a></p></td>
 <td><p><a href="../Page/因葵.md" title="wikilink">因葵</a></p></td>
-<td><p>與嘉賓<a href="../Page/鄧建明.md" title="wikilink">鄧建明及</a><a href="../Page/雷有暉.md" title="wikilink">雷有暉合唱</a></p></td>
+<td><p>與嘉賓<a href="../Page/鄧建明.md" title="wikilink">鄧建明</a>及<a href="../Page/雷有暉.md" title="wikilink">雷有暉</a>合唱</p></td>
 </tr>
 <tr class="even">
 <td><div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
@@ -140,7 +135,7 @@ Edit版本，同步在iTunes供付款下載，上架一小時即排行廣東歌�
 <td><p>留住我吧</p></td>
 <td><p><a href="../Page/太極樂隊.md" title="wikilink">太極</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/潘源良" title="wikilink">潘源良</a></p></td>
-<td><p>與嘉賓<a href="../Page/鄧建明.md" title="wikilink">鄧建明及</a><a href="../Page/雷有暉.md" title="wikilink">雷有暉合唱</a></p></td>
+<td><p>與嘉賓<a href="../Page/鄧建明.md" title="wikilink">鄧建明</a>及<a href="../Page/雷有暉.md" title="wikilink">雷有暉</a>合唱</p></td>
 </tr>
 <tr class="even">
 <td><div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
@@ -298,8 +293,7 @@ Edit版本，同步在iTunes供付款下載，上架一小時即排行廣東歌�
 
 ## 主題贊助
 
-[丹麥鞋履品牌 ECCO
-Shoes](https://www.facebook.com/media/set/?set=a.857830790976589.1073741863.241139389312402&type=3)
+[丹麥鞋履品牌 ECCO Shoes](https://www.facebook.com/media/set/?set=a.857830790976589.1073741863.241139389312402&type=3)
 
 ## 其他贊助機構
 
@@ -321,14 +315,11 @@ Shoes](https://www.facebook.com/media/set/?set=a.857830790976589.1073741863.2411
 
 ## 參考資料
 
-  - [《娛樂新聞台
-    再度舉行個人演唱會，鄭俊弘感激各方支持》](https://www.youtube.com/watch?v=G5I-R14smTw)
-  - [《鄭俊弘 2015紅色演唱會
-    娛樂新聞報道 2015-09-06》](https://www.youtube.com/watch?v=Rh6TsFeXGLo)
+  - [《娛樂新聞台 再度舉行個人演唱會，鄭俊弘感激各方支持》](https://www.youtube.com/watch?v=G5I-R14smTw)
+  - [《鄭俊弘 2015紅色演唱會 娛樂新聞報道 2015-09-06》](https://www.youtube.com/watch?v=Rh6TsFeXGLo)
   - [鄭俊弘個唱跳辣身舞騷肌](http://news.mingpao.com/ins/%E9%84%AD%E4%BF%8A%E5%BC%98%E5%80%8B%E5%94%B1%E8%B7%B3%E8%BE%A3%E8%BA%AB%E8%88%9E%E9%A8%B7%E8%82%8C/web_tc/article/20150906/s00007/1441522924381?utm_source=weibolife)
   - [鄭俊弘唔夠一年再開騷　粉絲排隊上台送禮](http://hk.on.cc/hk/bkn/cnt/entertainment/20150906/bkn-20150906010457237-0906_00862_001.html)
 
 [Category:香港演唱會](https://zh.wikipedia.org/wiki/Category:香港演唱會 "wikilink")
 
-1.  [《鄭俊弘 2015紅色演唱會
-    娛樂新聞報導 2015-09-06》](https://www.youtube.com/watch?v=Rh6TsFeXGLo)
+1.  [《鄭俊弘 2015紅色演唱會 娛樂新聞報導 2015-09-06》](https://www.youtube.com/watch?v=Rh6TsFeXGLo)

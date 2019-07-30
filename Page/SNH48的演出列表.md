@@ -32,7 +32,7 @@
 | 2019年 | [追球](../Page/追球.md "wikilink")                                          | 李艺彤                            | 网络剧   |  |       |                                                                     |     |     |
 | 待播出   | [亲爱的孩子](https://zh.wikipedia.org/wiki/亲爱的孩子 "wikilink")                 | 黄婷婷                            | 电视剧   |  |       |                                                                     |     |     |
 | 待播出   | [平行迷途](../Page/平行迷途.md "wikilink")                                      | 许佳琪、陆婷                         | 网络剧   |  |       |                                                                     |     |     |
-| 待播出   | [请赐我一双翅膀](https://zh.wikipedia.org/wiki/请赐我一双翅膀 "wikilink")             | 鞠婧禕                            |       |  |       |                                                                     |     |     |
+| 待播出   | [请赐我一双翅膀](../Page/请赐我一双翅膀.md "wikilink")                                | 鞠婧禕                            |       |  |       |                                                                     |     |     |
 | 待播出   | [小夜曲](https://zh.wikipedia.org/wiki/小夜曲_\(電視劇\) "wikilink")             | 黄婷婷、林思意、谢蕾蕾、吴哲晗、张语格、姜杉、徐子轩、孙珍妮 | 电视剧   |  |       |                                                                     |     |     |
 | 待播出   | [鬼吹灯](https://zh.wikipedia.org/wiki/鬼吹灯 "wikilink")                     | 李艺彤                            |       |  |       |                                                                     |     |     |
 | 待播出   | [美人暮白首](https://zh.wikipedia.org/wiki/美人暮白首 "wikilink")                 | 李艺彤                            |       |  |       |                                                                     |     |     |
@@ -165,7 +165,7 @@
 </tr>
 <tr class="even">
 <td><p>2016年1月8日—4月1日</p></td>
-<td><p><a href="../Page/最强大脑.md" title="wikilink">最强大脑第三季</a></p></td>
+<td><p><a href="../Page/最强大脑.md" title="wikilink">最强大脑</a>第三季</p></td>
 <td><p><a href="../Page/江苏卫视.md" title="wikilink">江苏卫视</a></p></td>
 <td><p>孙芮作为科学助理參與整季演出[3]</p></td>
 </tr>

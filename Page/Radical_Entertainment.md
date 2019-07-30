@@ -1,5 +1,4 @@
-**Radical
-Entertainment**，是总部设在加拿大不列颠哥伦比亚省温哥华的游戏开发商。它成立于1991年，先前的游戏由其他游戏发行商发行。2005年，该工作室被收购维旺迪游戏，现在为动视暴雪的子公司。\[1\]该工作室是不列颠哥伦比亚省最古老的游戏工作室，一个完全拥有的子公司，常常被称为温哥华游戏业中的骨干力量。\[2\]
+**Radical Entertainment**，是总部设在加拿大不列颠哥伦比亚省温哥华的游戏开发商。它成立于1991年，先前的游戏由其他游戏发行商发行。2005年，该工作室被收购维旺迪游戏，现在为动视暴雪的子公司。\[1\]该工作室是不列颠哥伦比亚省最古老的游戏工作室，一个完全拥有的子公司，常常被称为温哥华游戏业中的骨干力量。\[2\]
 
 该工作室在2012年6月28日进行大幅裁员导致不能制作原创游戏，并用来支持动视的游戏作品，\[3\]裁员的原因是因为温哥华的游戏设计市场陨落\[4\]，不过，后来证实裁员并不是那么严重。\[5\]
 
@@ -75,20 +74,13 @@ Entertainment**，是总部设在加拿大不列颠哥伦比亚省温哥华的�
 ## 外部链接
 
   -
-  - [IGN
-    profile](https://web.archive.org/web/20051121132923/http://games.ign.com/objects/025/025473.html)
+  - [IGN profile](https://web.archive.org/web/20051121132923/http://games.ign.com/objects/025/025473.html)
 
-  - [Radical
-    Entertainment](http://www.mobygames.com/company/radical-entertainment-inc)
-    at [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
+  - [Radical Entertainment](http://www.mobygames.com/company/radical-entertainment-inc) at [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
 
-[Category:1991年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1991年開業電子遊戲公司 "wikilink")
-[Category:加拿大電子遊戲公司](https://zh.wikipedia.org/wiki/Category:加拿大電子遊戲公司 "wikilink")
-[Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
+[Category:1991年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1991年開業電子遊戲公司 "wikilink") [Category:加拿大電子遊戲公司](https://zh.wikipedia.org/wiki/Category:加拿大電子遊戲公司 "wikilink") [Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
-1.  2005-03-23. Gamers Hell:
-    <http://www.gamershell.com/companies/v_u_g_/220157.html>
+1.  2005-03-23. Gamers Hell: <http://www.gamershell.com/companies/v_u_g_/220157.html>
 
 2.
 

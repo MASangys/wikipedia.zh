@@ -1,7 +1,4 @@
-《**食好D
-食平D**》第一輯（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的飲食節目](../Page/電視廣播有限公司.md "wikilink")**食平D系列**之一，共二輯，由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明擔任主持](../Page/陸浩明.md "wikilink")。第一輯於[香港時間](../Page/香港時間.md "wikilink")2018年5月7日起，逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")、[myTV
-SUPER播出](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")，並於[myTV
-SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除）。\[1\]\[2\]
+《**食好D 食平D**》第一輯（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的飲食節目**食平D系列**之一，共二輯，由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明](../Page/陸浩明.md "wikilink")擔任主持。第一輯於[香港時間](../Page/香港時間.md "wikilink")2018年5月7日起，逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")、[myTV SUPER播出](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")，並於[myTV SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除）。\[1\]\[2\]
 
 《**食好D 食平D**》第二輯（）於2019年4月1日播出\[3\]。
 
@@ -752,19 +749,13 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 
 ## 外部連結
 
-  - [無綫電視節目網頁 - 食好D
-    食平D（第一輯）](http://programme.tvb.com/foodandtravel/goodcheapeatssr7)
-  - [無綫電視節目網頁 - 食好D
-    食平D（第二輯）](http://programme.tvb.com/foodandtravel/goodcheapeatssr8)
+  - [無綫電視節目網頁 - 食好D 食平D（第一輯）](http://programme.tvb.com/foodandtravel/goodcheapeatssr7)
+  - [無綫電視節目網頁 - 食好D 食平D（第二輯）](http://programme.tvb.com/foodandtravel/goodcheapeatssr8)
 
 ## 電視節目的變遷
 
-[Category:2018年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2018年無綫電視節目 "wikilink")
-[Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink")
-[Category:食平D系列](https://zh.wikipedia.org/wiki/Category:食平D系列 "wikilink")
-[Category:無綫電視飲食節目](https://zh.wikipedia.org/wiki/Category:無綫電視飲食節目 "wikilink")
+[Category:2018年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2018年無綫電視節目 "wikilink") [Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink") [Category:食平D系列](https://zh.wikipedia.org/wiki/Category:食平D系列 "wikilink") [Category:無綫電視飲食節目](https://zh.wikipedia.org/wiki/Category:無綫電視飲食節目 "wikilink")
 
 1.  [【又新一輯】肥媽陸浩明繼續《食平D》：畀師奶多些玩意](https://ol.mingpao.com/php/showbiz3.php?nodeid=1520849914618&subcate=latest&issue=20180312)
 2.  [肥媽《食平D》加10倍買餸錢](http://std.stheadline.com/daily/news-content.php?id=1764611&target=2)
-3.  \[<https://www.am730.com.hk/news/娛樂/【求節目名>】《食平d》開拍第8輯-肥媽︰做夠80輯都得-164813
-    《食平d》開拍第8輯-肥媽︰做夠80輯都得\]
+3.  \[<https://www.am730.com.hk/news/娛樂/【求節目名>】《食平d》開拍第8輯-肥媽︰做夠80輯都得-164813 《食平d》開拍第8輯-肥媽︰做夠80輯都得\]

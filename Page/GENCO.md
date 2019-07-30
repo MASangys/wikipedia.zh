@@ -1,4 +1,4 @@
-**株式會社GENCO**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區的](../Page/港區_\(東京都\).md "wikilink")[動畫企劃製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。[日本動畫協會正式會員](../Page/日本動畫協會.md "wikilink")。
+**株式會社GENCO**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[港區的](../Page/港區_\(東京都\).md "wikilink")[動畫企劃製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。[日本動畫協會](../Page/日本動畫協會.md "wikilink")正式會員。
 
 ## 概要、沿革
 
@@ -6,9 +6,7 @@
 
 2004年5月，GENCO被廣告製作公司收購，成為TYO的旗下公司。不過在2005年12月，TYO透過[管理層收購](https://zh.wikipedia.org/wiki/管理層收購 "wikilink")（MBO）的運作方針將GENCO的所有股份轉讓予社長真木，從此GENCO脫離TYO集團。
 
-2007年3月，電子公司取得GENCO的過半股權，從此成為Imagica Robot
-Holdings集團的旗下公司。直到2013年6月，真木透過MBO的運作方針將所有股份轉讓予株式會社GC
-Holdings。
+2007年3月，電子公司取得GENCO的過半股權，從此成為Imagica Robot Holdings集團的旗下公司。直到2013年6月，真木透過MBO的運作方針將所有股份轉讓予株式會社GC Holdings。
 
 ## 提攜作品
 
@@ -115,7 +113,7 @@ Holdings。
 
 <!-- end list -->
 
-  - [忍者少女！](../Page/忍者少女.md "wikilink")
+  - [忍者少女](../Page/忍者少女.md "wikilink")！
 
   - [不平衡抽籤](../Page/不平衡抽籤.md "wikilink")
 
@@ -165,8 +163,7 @@ Holdings。
 
   - [瑪莉亞狂熱](../Page/瑪莉亞狂熱.md "wikilink")
   - [女王之刃](../Page/女王之刃_\(動畫\).md "wikilink")
-  - [Phantom ～Requiem for the
-    Phantom～](https://zh.wikipedia.org/wiki/Phantom_-PHANTOM_OF_INFERNO-#電視動畫 "wikilink")
+  - [Phantom ～Requiem for the Phantom～](https://zh.wikipedia.org/wiki/Phantom_-PHANTOM_OF_INFERNO-#電視動畫 "wikilink")
   - [魔力充電娘](../Page/魔力充電娘.md "wikilink")
 
 <!-- end list -->
@@ -179,7 +176,7 @@ Holdings。
   - 交響情人夢 最終篇
   - 一騎当千 XTREME XECUTOR
   - [最後大魔王](../Page/最後大魔王.md "wikilink")
-  - [野狼大神與七位夥伴](../Page/野狼大神.md "wikilink")
+  - [野狼大神](../Page/野狼大神.md "wikilink")與七位夥伴
   - [百花繚亂 SAMURAI GIRLS](../Page/百花繚亂_SAMURAI_GIRLS.md "wikilink")
   - [海月姬](../Page/海月姬.md "wikilink")
 
@@ -229,10 +226,8 @@ Holdings。
 
 <!-- end list -->
 
-  - [超級索尼子 -SUPER SONICO THE
-    ANIMATION-](https://zh.wikipedia.org/wiki/超級索尼子_\(動畫\) "wikilink")
-  - [WIZARD BARRISTERS
-    弁魔士賽希爾](../Page/WIZARD_BARRISTERS～弁魔士賽希爾.md "wikilink")
+  - [超級索尼子 -SUPER SONICO THE ANIMATION-](https://zh.wikipedia.org/wiki/超級索尼子_\(動畫\) "wikilink")
+  - [WIZARD BARRISTERS 弁魔士賽希爾](../Page/WIZARD_BARRISTERS～弁魔士賽希爾.md "wikilink")
   - [健全機鬥士](../Page/健全機鬥士.md "wikilink")
   - [極黑的布倫希爾德](../Page/極黑的布倫希爾德.md "wikilink")
   - [精靈使的劍舞](https://zh.wikipedia.org/wiki/精靈使的劍舞 "wikilink")
@@ -298,7 +293,9 @@ Holdings。
 <!-- end list -->
 
   - [偶像夢幻祭](../Page/偶像夢幻祭.md "wikilink")
+  - [胡蝶綺 ～少年信長～](../Page/胡蝶綺_～少年信長～.md "wikilink")
   - [YU-NO 在這世界盡頭詠唱愛的少女](../Page/YU-NO_在這世界盡頭詠唱愛的少女.md "wikilink")
+  - [小書痴的下剋上](../Page/小書痴的下剋上.md "wikilink")：為了成為圖書管理員不擇手段！
 
 ### OVA
 
@@ -370,8 +367,7 @@ Holdings。
 <!-- end list -->
 
   - [超級娃娃戰士★麗佳：麗佳絕體絕命！奇蹟的娃娃騎士](../Page/麗佳公主.md "wikilink")
-  - [天地無用！in LOVE 2
-    遙遠的思念](https://zh.wikipedia.org/wiki/天地無用！#天地無用!_in_LOVE_2_遙遠的思念 "wikilink")
+  - [天地無用！in LOVE 2 遙遠的思念](https://zh.wikipedia.org/wiki/天地無用！#天地無用!_in_LOVE_2_遙遠的思念 "wikilink")
 
 <!-- end list -->
 
@@ -431,10 +427,7 @@ Holdings。
 
   - [株式會社GENCO官方網站](https://www.genco.co.jp/cn/)
 
-[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
-[Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink")
-[Category:1997年成立的公司](https://zh.wikipedia.org/wiki/Category:1997年成立的公司 "wikilink")
-[Category:1997年日本建立](https://zh.wikipedia.org/wiki/Category:1997年日本建立 "wikilink")
+[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink") [Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink") [Category:1997年成立的公司](https://zh.wikipedia.org/wiki/Category:1997年成立的公司 "wikilink") [Category:1997年日本建立](https://zh.wikipedia.org/wiki/Category:1997年日本建立 "wikilink")
 
 1.
 2.

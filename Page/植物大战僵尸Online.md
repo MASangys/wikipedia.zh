@@ -1,4 +1,4 @@
-《**植物大战僵尸Online**》是由[Popcap开发](https://zh.wikipedia.org/wiki/Popcap "wikilink")、[腾讯代理的一款兼具](../Page/腾讯.md "wikilink")[卡牌和](../Page/卡片遊戲.md "wikilink")[塔防两种类型的](https://zh.wikipedia.org/wiki/塔防 "wikilink")[网页游戏](../Page/网页游戏.md "wikilink")。游戏使用[QQ号来登录](https://zh.wikipedia.org/wiki/騰訊QQ "wikilink")，同一个帐号可以登录不同的服务器，但不同的服务器之间的游戏数据不互通。目前，游戏内共有[植物](../Page/植物.md "wikilink")63种，[僵尸](https://zh.wikipedia.org/wiki/僵尸 "wikilink")32种。\[1\]塔防模式关卡共5章，分别是秦始皇陵、埃及沙漠、海盗湾、未来世界和东海龙宫，每一章包含主线和支线关卡。
+《**植物大战僵尸Online**》是由[Popcap开发](https://zh.wikipedia.org/wiki/Popcap "wikilink")、[腾讯](../Page/腾讯.md "wikilink")代理的一款兼具[卡牌和](../Page/卡片遊戲.md "wikilink")[塔防两种类型的](https://zh.wikipedia.org/wiki/塔防 "wikilink")[网页游戏](../Page/网页游戏.md "wikilink")。游戏使用[QQ号来登录](https://zh.wikipedia.org/wiki/騰訊QQ "wikilink")，同一个帐号可以登录不同的服务器，但不同的服务器之间的游戏数据不互通。目前，游戏内共有[植物](../Page/植物.md "wikilink")63种，[僵尸](https://zh.wikipedia.org/wiki/僵尸 "wikilink")32种。\[1\]塔防模式关卡共5章，分别是秦始皇陵、埃及沙漠、海盗湾、未来世界和东海龙宫，每一章包含主线和支线关卡。
 
 ## 玩法
 
@@ -10,15 +10,8 @@
 
 ## 参考资料
 
-[Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink")
-[Category:塔防游戏](https://zh.wikipedia.org/wiki/Category:塔防游戏 "wikilink")
-[Category:电子卡牌游戏](https://zh.wikipedia.org/wiki/Category:电子卡牌游戏 "wikilink")
-[Category:网页游戏](https://zh.wikipedia.org/wiki/Category:网页游戏 "wikilink")
-[Category:腾讯游戏](https://zh.wikipedia.org/wiki/Category:腾讯游戏 "wikilink")
+[Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:塔防游戏](https://zh.wikipedia.org/wiki/Category:塔防游戏 "wikilink") [Category:电子卡牌游戏](https://zh.wikipedia.org/wiki/Category:电子卡牌游戏 "wikilink") [Category:网页游戏](https://zh.wikipedia.org/wiki/Category:网页游戏 "wikilink") [Category:腾讯游戏](https://zh.wikipedia.org/wiki/Category:腾讯游戏 "wikilink")
 
-1.  腾讯游戏. [游戏资料](http://pvz.qq.com/web201406/tujian.shtml).
-    \[2016-02-16\]
-2.  一游网.
-    [植物大战僵尸OL先攻值怎么算的](http://www.eeyy.com/webgame/zwdzjsol/20151218250903.html).
-    2015-12-18
+1.  腾讯游戏. [游戏资料](http://pvz.qq.com/web201406/tujian.shtml). \[2016-02-16\]
+2.  一游网. [植物大战僵尸OL先攻值怎么算的](http://www.eeyy.com/webgame/zwdzjsol/20151218250903.html). 2015-12-18
 3.  [PVZ每周礼包](http://pvz.qq.com/cp/a20160707wxzl/index.html). 2016.8.1

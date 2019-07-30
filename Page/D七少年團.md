@@ -1,5 +1,4 @@
-**D七少年團**(英語：**DSB**)是[中國](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[上海絲芭文化傳媒旗下子公司](https://zh.wikipedia.org/wiki/上海絲芭文化傳媒 "wikilink")[上海火核文化傳媒於](https://zh.wikipedia.org/wiki/上海火核文化傳媒 "wikilink")2018年推出的男子演唱組合。組合分為TeamD、TeamS、TeamB三支隊伍，每支隊伍固定成員人數為七人。TeamD於2018年3月30日於上海梅赛德私奔馳文化中心Mixing
-Room正式出道亮相。
+**D七少年團**(英語：**DSB**)是[中國](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[上海絲芭文化傳媒旗下子公司](https://zh.wikipedia.org/wiki/上海絲芭文化傳媒 "wikilink")[上海火核文化傳媒於](https://zh.wikipedia.org/wiki/上海火核文化傳媒 "wikilink")2018年推出的男子演唱組合。組合分為TeamD、TeamS、TeamB三支隊伍，每支隊伍固定成員人數為七人。TeamD於2018年3月30日於上海梅赛德私奔馳文化中心Mixing Room正式出道亮相。
 
 ## 成員資料
 

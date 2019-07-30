@@ -1,5 +1,4 @@
-是[タチ創作的日本](https://zh.wikipedia.org/wiki/タチ "wikilink")[四格漫畫](../Page/四格漫畫.md "wikilink")。2016年3月26日在《[COMIC
-CUNE](https://zh.wikipedia.org/wiki/COMIC_CUNE "wikilink")》2016年5月號開始連載。作品於2018年4月27日完結，單行本全出版3冊。
+是[タチ創作的日本](https://zh.wikipedia.org/wiki/タチ "wikilink")[四格漫畫](../Page/四格漫畫.md "wikilink")。2016年3月26日在《[COMIC CUNE](https://zh.wikipedia.org/wiki/COMIC_CUNE "wikilink")》2016年5月號開始連載。作品於2018年4月27日完結，單行本全出版3冊。
 
 ## 故事簡介
 
@@ -52,5 +51,4 @@ CUNE](https://zh.wikipedia.org/wiki/COMIC_CUNE "wikilink")》2016年5月號開�
   - [戀願成真LoveSick的COMIC CUNE官方網站](http://comiccune.jp/work/1616/)
 
   -
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink")

@@ -1,9 +1,8 @@
-《**IMMORAL**》是BLUE
-GALE在2004年6月24日發售的冒險類型[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，2004年12月22日發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")，後來也改編成OVA和小說發售。
+《**IMMORAL**》是BLUE GALE在2004年6月24日發售的冒險類型[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，2004年12月22日發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")，後來也改編成OVA和小說發售。
 
 ## 故事
 
-岡村武志在[同人誌會場買成人同人誌時卻被心儀的對象安達恭子和河井愛美撞見](../Page/同人誌.md "wikilink")，隔天恭子對武志的態度出現變化而導致兩人開始疏離，不久之後武志得知恭子有了男朋友後而大受打擊。沮喪的武志就在夜晚獨自在店家喝酒後遇到一位神秘老人，老人在聽完武志的訴苦後就將催淫噴霧器交給他，武志便決定要利用這個噴霧器將恭子奪回。
+岡村武志在[同人誌](../Page/同人誌.md "wikilink")會場買成人同人誌時卻被心儀的對象安達恭子和河井愛美撞見，隔天恭子對武志的態度出現變化而導致兩人開始疏離，不久之後武志得知恭子有了男朋友後而大受打擊。沮喪的武志就在夜晚獨自在店家喝酒後遇到一位神秘老人，老人在聽完武志的訴苦後就將催淫噴霧器交給他，武志便決定要利用這個噴霧器將恭子奪回。
 
 ## 角色
 
@@ -66,8 +65,7 @@ GALE在2004年6月24日發售的冒險類型[成人遊戲](../Page/日本成人�
 
 ## 小說
 
-同名小說是由布施はるか擔任寫作、鋼丸S擔任插畫，由[PARADIGM於](../Page/PARADIGM.md "wikilink")2004年8月發售共一冊（ISBN
-978-4894907287）。
+同名小說是由布施はるか擔任寫作、鋼丸S擔任插畫，由[PARADIGM](../Page/PARADIGM.md "wikilink")於2004年8月發售共一冊（ISBN 978-4894907287）。
 
 ## 參考來源
 
@@ -75,14 +73,7 @@ GALE在2004年6月24日發售的冒險類型[成人遊戲](../Page/日本成人�
 
   - [BLUE GALE](http://www.bluegale.com/)
 
-[Category:2004年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2004年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:2005年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2005年日本成人動畫 "wikilink")
-[Category:教師主角作品](https://zh.wikipedia.org/wiki/Category:教師主角作品 "wikilink")
-[Category:師生戀題材作品](https://zh.wikipedia.org/wiki/Category:師生戀題材作品 "wikilink")
+[Category:2004年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2004年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:2005年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2005年日本成人動畫 "wikilink") [Category:教師主角作品](https://zh.wikipedia.org/wiki/Category:教師主角作品 "wikilink") [Category:師生戀題材作品](https://zh.wikipedia.org/wiki/Category:師生戀題材作品 "wikilink")
 
 1.
 2.

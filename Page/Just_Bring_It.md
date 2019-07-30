@@ -1,10 +1,8 @@
-『**Just Bring
-It**』\[1\]是[BAND-MAID出道以來首張](../Page/BAND-MAID.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2017年1月11日由[日本皇冠發售](https://zh.wikipedia.org/wiki/日本皇冠 "wikilink")。
+『**Just Bring It**』\[1\]是[BAND-MAID](../Page/BAND-MAID.md "wikilink")出道以來首張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2017年1月11日由[日本皇冠發售](https://zh.wikipedia.org/wiki/日本皇冠 "wikilink")。
 
 ## 概要
 
-分為CD+DVD初回限定盤（Type-A）、CD通常盤（Type-B）兩種形式發售。
-BAND-MAID出道以來第1張專輯（13首歌），以往的都是迷你專輯（8\~9首歌）。
+分為CD+DVD初回限定盤（Type-A）、CD通常盤（Type-B）兩種形式發售。 BAND-MAID出道以來第1張專輯（13首歌），以往的都是迷你專輯（8\~9首歌）。
 
 ## 收錄曲
 
@@ -80,7 +78,6 @@ BAND-MAID出道以來第1張專輯（13首歌），以往的都是迷你專輯�
 
 [DISCOGRAPHY](http://bandmaid.tokyo/music) - BAND-MAID OFFICIAL WEBSITE
 
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
-[Category:BAND-MAID音樂專輯](https://zh.wikipedia.org/wiki/Category:BAND-MAID音樂專輯 "wikilink")
+[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:BAND-MAID音樂專輯](https://zh.wikipedia.org/wiki/Category:BAND-MAID音樂專輯 "wikilink")
 
 1.

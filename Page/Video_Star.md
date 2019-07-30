@@ -1,8 +1,4 @@
-《**Video
-Star**》（）是于2016年7月12日起在[MBC有线频道](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")中播出的[脱口秀](../Page/脱口秀.md "wikilink")[节目](../Page/綜藝節目.md "wikilink")。《Video
-Star》是MBC电视台播出的《[Radio
-Star](../Page/黄金渔场_Radio_Star.md "wikilink")》中衍生出的节目，\[1\]节目形式与《Radio
-Star》基本相同，不同的是《Video Star》的主持全部由女艺人担当。\[2\]
+《**Video Star**》（）是于2016年7月12日起在[MBC有线频道](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")中播出的[脱口秀](../Page/脱口秀.md "wikilink")[节目](../Page/綜藝節目.md "wikilink")。《Video Star》是MBC电视台播出的《[Radio Star](../Page/黄金渔场_Radio_Star.md "wikilink")》中衍生出的节目，\[1\]节目形式与《Radio Star》基本相同，不同的是《Video Star》的主持全部由女艺人担当。\[2\]
 
 ## 主持
 
@@ -209,14 +205,14 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 最强爱情老手TOP3：<a href="https://zh.wikipedia.org/wiki/鄭珍云" title="wikilink">鄭珍云</a> (<a href="../Page/2AM.md" title="wikilink">2AM</a>)、、<a href="https://zh.wikipedia.org/wiki/朴成真" title="wikilink">朴成真</a><br />
 性感明星TOP3：<a href="https://zh.wikipedia.org/wiki/倞利" title="wikilink">倞利</a> (<a href="https://zh.wikipedia.org/wiki/Nine_Muses" title="wikilink">Nine Muses</a>)、<a href="https://zh.wikipedia.org/wiki/婑斌" title="wikilink">婑斌</a> (<a href="../Page/Wonder_Girls.md" title="wikilink">Wonder Girls</a>)、</p></td>
 <td><p>“VS一等功臣TOP10”特辑</p></td>
-<td><p>此期为之前的精彩片段。自此期起<a href="../Page/曹璐.md" title="wikilink">曹璐退出主持</a>。</p></td>
+<td><p>此期为之前的精彩片段。自此期起<a href="../Page/曹璐.md" title="wikilink">曹璐</a>退出主持。</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
 <td><p>10月18日</p></td>
 <td><p><a href="../Page/Bada_(歌手).md" title="wikilink">Bada</a> (<a href="../Page/S.E.S._(組合).md" title="wikilink">S.E.S.</a>)、、、<a href="../Page/率滨.md" title="wikilink">率滨</a> (<a href="../Page/LABOUM.md" title="wikilink">LABOUM</a>)</p></td>
 <td><p>“阻击女心！进攻的姐姐们”特辑（上）</p></td>
-<td><p>自此期起<a href="../Page/全烋星.md" title="wikilink">全烋星加入主持</a>。</p></td>
+<td><p>自此期起<a href="../Page/全烋星.md" title="wikilink">全烋星</a>加入主持。</p></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
@@ -328,7 +324,7 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <td><p>1月24日</p></td>
 <td><p><a href="../Page/宋在喜.md" title="wikilink">宋在喜</a>、<a href="../Page/金鎮祐.md" title="wikilink">金鎮祐</a>、<a href="https://zh.wikipedia.org/wiki/李民雄_(歌手)" title="wikilink">李民雄</a>、</p></td>
 <td><p>“CALL ME”特辑</p></td>
-<td><p><a href="../Page/朴娜勑.md" title="wikilink">朴娜勑缺席</a>，作为特别MC主持。</p></td>
+<td><p><a href="../Page/朴娜勑.md" title="wikilink">朴娜勑</a>缺席，作为特别MC主持。</p></td>
 </tr>
 <tr class="odd">
 <td><p>30</p></td>
@@ -377,14 +373,14 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <td><p>3月14日</p></td>
 <td><p>、、、<a href="../Page/梁世燦.md" title="wikilink">梁世燦</a>、<a href="https://zh.wikipedia.org/wiki/黃泰京" title="wikilink">黃泰京</a></p></td>
 <td><p>“好生好事！爱情人的全盛时代”特辑</p></td>
-<td><p><a href="../Page/朴素賢.md" title="wikilink">朴素賢缺席</a>，<a href="../Page/朴真熙.md" title="wikilink">朴真熙作为特别MC主持</a>。</p></td>
+<td><p><a href="../Page/朴素賢.md" title="wikilink">朴素賢</a>缺席，<a href="../Page/朴真熙.md" title="wikilink">朴真熙</a>作为特别MC主持。</p></td>
 </tr>
 <tr class="even">
 <td><p>37</p></td>
 <td><p>3月21日</p></td>
 <td><p><a href="../Page/柳太準.md" title="wikilink">柳太準</a>、<a href="../Page/郭熙聖.md" title="wikilink">郭熙聖</a>、<a href="https://zh.wikipedia.org/wiki/赵泰宽" title="wikilink">赵泰宽</a>、</p></td>
 <td><p>“大卫的后裔”特辑</p></td>
-<td><p><a href="../Page/朴素賢.md" title="wikilink">朴素賢</a>、<a href="https://zh.wikipedia.org/wiki/朴娜萊_(喜劇演員)" title="wikilink">全烋星缺席</a>，<a href="../Page/朴真熙.md" title="wikilink">朴真熙</a>、<a href="../Page/率滨.md" title="wikilink">率滨作为特别MC主持</a>。</p></td>
+<td><p><a href="../Page/朴素賢.md" title="wikilink">朴素賢</a>、<a href="https://zh.wikipedia.org/wiki/朴娜萊_(喜劇演員)" title="wikilink">全烋星缺席</a>，<a href="../Page/朴真熙.md" title="wikilink">朴真熙</a>、<a href="../Page/率滨.md" title="wikilink">率滨</a>作为特别MC主持。</p></td>
 </tr>
 <tr class="odd">
 <td><p>38</p></td>
@@ -601,7 +597,7 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <td><p>10月24日</p></td>
 <td><p><a href="../Page/宋恩伊.md" title="wikilink">宋恩伊</a>、<a href="../Page/鄭詩雅.md" title="wikilink">鄭詩雅</a>、<a href="../Page/申奉仙.md" title="wikilink">申奉仙</a>、<a href="../Page/安英美.md" title="wikilink">安英美</a>、<a href="../Page/皇甫惠貞.md" title="wikilink">皇甫惠貞</a>、</p></td>
 <td></td>
-<td><p>紅毯主持：<a href="../Page/朴瑟琪.md" title="wikilink">朴瑟琪</a>、<a href="../Page/尹智慧.md" title="wikilink">尹智慧特別出演</a>。</p></td>
+<td><p>紅毯主持：<a href="../Page/朴瑟琪.md" title="wikilink">朴瑟琪</a>、<a href="../Page/尹智慧.md" title="wikilink">尹智慧</a>特別出演。</p></td>
 </tr>
 <tr class="even">
 <td><p>69</p></td>
@@ -960,7 +956,7 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <td><p>10月9日</p></td>
 <td><p><a href="../Page/鄭尚勳.md" title="wikilink">鄭尚勳</a>、<a href="../Page/金吝勸.md" title="wikilink">金吝勸</a>、<a href="../Page/孫淡妃.md" title="wikilink">孫淡妃</a>、<a href="../Page/金聖喆.md" title="wikilink">金聖喆</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李順圭" title="wikilink">Sunny缺席</a>，<a href="../Page/南太鉉.md" title="wikilink">南太鉉作為特別MC主持</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李順圭" title="wikilink">Sunny缺席</a>，<a href="../Page/南太鉉.md" title="wikilink">南太鉉</a>作為特別MC主持。</p></td>
 </tr>
 <tr class="odd">
 <td><p>115</p></td>
@@ -1051,7 +1047,7 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <td><p>1月1日</p></td>
 <td><p>、、、</p></td>
 <td></td>
-<td><p><a href="../Page/申雅英.md" title="wikilink">申雅英作為特別MC主持</a>。</p></td>
+<td><p><a href="../Page/申雅英.md" title="wikilink">申雅英</a>作為特別MC主持。</p></td>
 </tr>
 <tr class="even">
 <td><p>126</p></td>
@@ -1079,7 +1075,7 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <td><p>5月14日</p></td>
 <td><p><a href="../Page/高耀太.md" title="wikilink">高耀太</a>、<a href="https://zh.wikipedia.org/wiki/Ailee" title="wikilink">Ailee</a></p></td>
 <td></td>
-<td><p><a href="../Page/KARD.md" title="wikilink">KARD作特別嘉賓</a>。</p></td>
+<td><p><a href="../Page/KARD.md" title="wikilink">KARD</a>作特別嘉賓。</p></td>
 </tr>
 </tbody>
 </table>
@@ -1452,15 +1448,9 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 
 ## 外部链接
 
-  - [Video
-    Star](https://www.mbcplus.com/web/program/contentList.do?programInfoSeq=51)
-    - 官方网站
+  - [Video Star](https://www.mbcplus.com/web/program/contentList.do?programInfoSeq=51) - 官方网站
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:正在播放的电视节目](https://zh.wikipedia.org/wiki/Category:正在播放的电视节目 "wikilink")
-[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink")
-[Category:電視影集衍生作品](https://zh.wikipedia.org/wiki/Category:電視影集衍生作品 "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:正在播放的电视节目](https://zh.wikipedia.org/wiki/Category:正在播放的电视节目 "wikilink") [Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink") [Category:電視影集衍生作品](https://zh.wikipedia.org/wiki/Category:電視影集衍生作品 "wikilink")
 
 1.
 2.

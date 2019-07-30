@@ -4,10 +4,7 @@ local Text = { serial = "2017-11-01",
 
 \--\[=\[ Text utilities \]=\]
 
-\-- local globals local PatternCJK = false local PatternCombined = false
-local PatternLatin = false local PatternTerminated = false local
-QuoteLang = false local QuoteType = false local RangesLatin = false
-local SeekQuote = false
+\-- local globals local PatternCJK = false local PatternCombined = false local PatternLatin = false local PatternTerminated = false local QuoteLang = false local QuoteType = false local RangesLatin = false local SeekQuote = false
 
 local function factoryQuote()
 

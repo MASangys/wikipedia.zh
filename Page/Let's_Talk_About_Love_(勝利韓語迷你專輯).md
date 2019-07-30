@@ -1,13 +1,8 @@
-**Let's Talk About
-Love**是韓國歌手[勝利的第二張迷你專輯](../Page/勝利_\(歌手\).md "wikilink")，專輯總共收錄了7首歌曲，專輯于2013年8月19日在線上發行並在8月21日發行實體專輯。專輯的〈我有話要說〉一曲為此專輯的主打歌\[1\]。
+**Let's Talk About Love**是韓國歌手[勝利的第二張迷你專輯](../Page/勝利_\(歌手\).md "wikilink")，專輯總共收錄了7首歌曲，專輯于2013年8月19日在線上發行並在8月21日發行實體專輯。專輯的〈我有話要說〉一曲為此專輯的主打歌\[1\]。
 
 ## 概要
 
-《**Let's Talk About
-Love**》是韓國歌手勝利繼2011年首張個人迷你專輯《V.V.I.P》后，時隔兩年再推出的第二張個人迷你專輯，整張迷你專輯的作詞以及作曲都是勝利親自操刀\[2\]，一共收錄了7首不同曲風的歌曲。其中，與專輯同名一曲的〈Let's
-Talk About
-Love〉除了被列為是一首“19禁”歌曲\[3\]以外，更是找來了同團的[G-Dragon以及](../Page/G-Dragon.md "wikilink")[太陽擔任作詞人和伴唱歌手](../Page/太陽_\(歌手\).md "wikilink")\[4\]。〈我有話要說〉是一首帶有[電子樂和抒情的歌曲](https://zh.wikipedia.org/wiki/電子樂 "wikilink")，講述著男女之间的感情，此歌曲的曲風和[BIGBANG的歌曲](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")〈Blue〉、〈Ego〉等曲風類似\[5\]。〈GG
-BE〉一曲是一首轻快曲風的歌曲，講述著女生在感情上背叛了男生卻以為男生一無所知但其實男生早已知道了一切，勝利將這首歌曲以逗趣的歌詞來呈現并無傷大雅的一首歌曲\[6\]。
+《**Let's Talk About Love**》是韓國歌手勝利繼2011年首張個人迷你專輯《V.V.I.P》后，時隔兩年再推出的第二張個人迷你專輯，整張迷你專輯的作詞以及作曲都是勝利親自操刀\[2\]，一共收錄了7首不同曲風的歌曲。其中，與專輯同名一曲的〈Let's Talk About Love〉除了被列為是一首“19禁”歌曲\[3\]以外，更是找來了同團的[G-Dragon](../Page/G-Dragon.md "wikilink")以及[太陽擔任作詞人和伴唱歌手](../Page/太陽_\(歌手\).md "wikilink")\[4\]。〈我有話要說〉是一首帶有[電子樂和抒情的歌曲](https://zh.wikipedia.org/wiki/電子樂 "wikilink")，講述著男女之间的感情，此歌曲的曲風和[BIGBANG的歌曲](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")〈Blue〉、〈Ego〉等曲風類似\[5\]。〈GG BE〉一曲是一首轻快曲風的歌曲，講述著女生在感情上背叛了男生卻以為男生一無所知但其實男生早已知道了一切，勝利將這首歌曲以逗趣的歌詞來呈現并無傷大雅的一首歌曲\[6\]。
 
 ## 曲目
 
@@ -88,9 +83,7 @@ BE〉一曲是一首轻快曲風的歌曲，講述著女生在感情上背叛了
 
 ## 參考資料
 
-[Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2013年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2013年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

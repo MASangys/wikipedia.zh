@@ -35,8 +35,7 @@ function getCandidateList(pageName, currentTime)
 
 end
 
-function pickCandidate(candidateList, currentTime, timeStart,
-timeInterval)
+function pickCandidate(candidateList, currentTime, timeStart, timeInterval)
 
 `   local processedTime = timeStart`
 `   local currentDisplayStart =`

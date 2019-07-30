@@ -1,6 +1,4 @@
-**Gor**是美國作家John
-Norman在1960年代先後完成的一系列[反地球小說](https://zh.wikipedia.org/wiki/反地球 "wikilink")。以其包含哲學、情色和奇幻色彩的寫作風格而出名。本書最主要也最有名的特色為高度的[父權社會架構](https://zh.wikipedia.org/wiki/父權社會 "wikilink")，女性在Gor的世界中常被高度奴隸化。依據[科幻小說百科全書的評價](../Page/科幻小說百科全書.md "wikilink")，Norman的「性哲學」是「廣為厭惡的」\[1\]。儘管受到女權組織及媒體的高度抨擊，本書無庸置疑的啟發了一系列的[次文化<ref>{{Cite
-web](../Page/次文化.md "wikilink")\[\[Gor\#cite_note-2|<span class="mw-reflink-text">\[2\]</span>\]\]。
+**Gor**是美國作家John Norman在1960年代先後完成的一系列[反地球小說](https://zh.wikipedia.org/wiki/反地球 "wikilink")。以其包含哲學、情色和奇幻色彩的寫作風格而出名。本書最主要也最有名的特色為高度的[父權社會架構](https://zh.wikipedia.org/wiki/父權社會 "wikilink")，女性在Gor的世界中常被高度奴隸化。依據[科幻小說百科全書](../Page/科幻小說百科全書.md "wikilink")的評價，Norman的「性哲學」是「廣為厭惡的」\[1\]。儘管受到女權組織及媒體的高度抨擊，本書無庸置疑的啟發了一系列的[次文化<ref>{{Cite web](../Page/次文化.md "wikilink")\[\[Gor\#cite_note-2|<span class="mw-reflink-text">\[2\]</span>\]\]。
 
 ## 簡介
 
@@ -49,16 +47,13 @@ Gor星球的天然[重力場非常微弱](https://zh.wikipedia.org/wiki/重力�
 29. *Swordsmen of Gor* (2010), E-Reads,
 30. *Mariners of Gor* (2011), E-Reads, *The Mariner*
 31. *Conspirators of Gor* (2012), E-Reads, *Allison Ashton-Baker*
-32. *Smugglers of Gor* (2012), E-Reads, *Margaret Alyssa Cameron*, *The
-    Scribe* and *The Merchant*
+32. *Smugglers of Gor* (2012), E-Reads, *Margaret Alyssa Cameron*, *The Scribe* and *The Merchant*
 33. *Rebels of Gor* (2013), E-Reads,
 34. *Plunder of Gor* (August 2016), E-Reads,
 
 ## 參考文獻
 
-[Category:虛構行星](https://zh.wikipedia.org/wiki/Category:虛構行星 "wikilink")
-[Category:科幻小說系列](https://zh.wikipedia.org/wiki/Category:科幻小說系列 "wikilink")
-[Category:丛书](https://zh.wikipedia.org/wiki/Category:丛书 "wikilink")
+[Category:虛構行星](https://zh.wikipedia.org/wiki/Category:虛構行星 "wikilink") [Category:科幻小說系列](https://zh.wikipedia.org/wiki/Category:科幻小說系列 "wikilink") [Category:丛书](https://zh.wikipedia.org/wiki/Category:丛书 "wikilink")
 
 1.
 2.

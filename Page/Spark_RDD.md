@@ -1,6 +1,4 @@
-**Spark
-RDD**（，弹性分布式数据集）是一种数据存储集合。只能由它支持的数据源或是由其他RDD经过一定的转换（Transformation）来产生。在RDD上可以执行的操作有两种转换（Transformation）和行动（Action），每个
-RDD 都记录了自己是如何由持久化存储中的源数据计算得出的，即其血统（Lineage）。
+**Spark RDD**（，弹性分布式数据集）是一种数据存储集合。只能由它支持的数据源或是由其他RDD经过一定的转换（Transformation）来产生。在RDD上可以执行的操作有两种转换（Transformation）和行动（Action），每个 RDD 都记录了自己是如何由持久化存储中的源数据计算得出的，即其血统（Lineage）。
 
 ## 转换
 

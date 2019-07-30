@@ -1,6 +1,4 @@
-《**The Friends in
-亞得里亞海**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[K
-STAR的綜藝節目](https://zh.wikipedia.org/wiki/K_STAR "wikilink")，由[GFRIEND全體成員主持與出演](../Page/GFRIEND.md "wikilink")，節目主軸為[GFRIEND紀念出道](../Page/GFRIEND.md "wikilink")1000日為主題的團綜\[1\]\[2\]\[3\]。
+《**The Friends in 亞得里亞海**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[K STAR的綜藝節目](https://zh.wikipedia.org/wiki/K_STAR "wikilink")，由[GFRIEND](../Page/GFRIEND.md "wikilink")全體成員主持與出演，節目主軸為[GFRIEND](../Page/GFRIEND.md "wikilink")紀念出道1000日為主題的團綜\[1\]\[2\]\[3\]。
 
 ## 各集內容
 
@@ -34,9 +32,7 @@ STAR的綜藝節目](https://zh.wikipedia.org/wiki/K_STAR "wikilink")，由[GFRI
 ## 外部連結
 
   -
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:K_STAR](https://zh.wikipedia.org/wiki/Category:K_STAR "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:K_STAR](https://zh.wikipedia.org/wiki/Category:K_STAR "wikilink")
 
 1.
 2.
@@ -44,5 +40,4 @@ STAR的綜藝節目](https://zh.wikipedia.org/wiki/K_STAR "wikilink")，由[GFRI
 4.
 5.
 6.
-7.  [시카고 타자기
-    Naver](https://search.naver.com/search.naver?where=nexearch&query=시카고+타자기)
+7.  [시카고 타자기 Naver](https://search.naver.com/search.naver?where=nexearch&query=시카고+타자기)

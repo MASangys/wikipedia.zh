@@ -1,4 +1,4 @@
-《**BIGBANG錄像作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG歷年發行的演唱會DVD](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")、藍光，及歷年在[YouTube上發佈的音樂錄影帶](../Page/YouTube.md "wikilink")。
+《**BIGBANG錄像作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG歷年發行的演唱會DVD](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")、藍光，及歷年在[YouTube](../Page/YouTube.md "wikilink")上發佈的音樂錄影帶。
 
 ## 音樂錄影帶
 
@@ -1848,8 +1848,7 @@ DVD</a><br />
   - [YG LIFE 官方部落格](http://www.yg-life.com/)
 
   -
-[Category:BIGBANG](https://zh.wikipedia.org/wiki/Category:BIGBANG "wikilink")
-[Category:韓國錄像作品列表](https://zh.wikipedia.org/wiki/Category:韓國錄像作品列表 "wikilink")
+[Category:BIGBANG](https://zh.wikipedia.org/wiki/Category:BIGBANG "wikilink") [Category:韓國錄像作品列表](https://zh.wikipedia.org/wiki/Category:韓國錄像作品列表 "wikilink")
 
 1.
 

@@ -1,94 +1,54 @@
-**AMD Ryzen**（
-）是美商[超微開發並推出市場的x](https://zh.wikipedia.org/wiki/超微 "wikilink")86微處理器品牌，AMD
-[Zen微架構的微處理器產品之一](https://zh.wikipedia.org/wiki/Zen微架構 "wikilink")，其純CPU產品線於2017年3月上市販售，以Ryzen為品牌命名的[APU產品線於](https://zh.wikipedia.org/wiki/AMD_APU "wikilink")2017年10月上架。「Ryzen」品牌於2016年12月13日AMD的New
-Horizon峰會上發表。\[1\]中文名為「**锐龙**」（2017年3月到8月之间的中文名称为「锐龙AMD
-Ryzen」，2017年8月之后的中文名称为「AMD锐龙」）。
+**AMD Ryzen**（ ）是美商[超微開發並推出市場的x](https://zh.wikipedia.org/wiki/超微 "wikilink")86微處理器品牌，AMD [Zen微架構的微處理器產品之一](https://zh.wikipedia.org/wiki/Zen微架構 "wikilink")，其純CPU產品線於2017年3月上市販售，以Ryzen為品牌命名的[APU產品線於](https://zh.wikipedia.org/wiki/AMD_APU "wikilink")2017年10月上架。「Ryzen」品牌於2016年12月13日AMD的New Horizon峰會上發表。\[1\]中文名為「**锐龙**」（2017年3月到8月之间的中文名称为「锐龙AMD Ryzen」，2017年8月之后的中文名称为「AMD锐龙」）。
 
-2017年2月22日發表代號「Summit Ridge」的第一代Ryzen系列，取代[AMD
-FX系列](../Page/AMD_FX.md "wikilink")；\[2\]2017年10月發表代號「Raven
-Ridge」的Ryzen APU產品線；2018年4月發表了代號「Pinnacle
-Ridge」的第二代Ryzen系列，是第一代Ryzen系列的小幅改良版；\[3\]於2019年消費電子展中宣佈將於同年年中發表代號「Matisse」，\[4\]采用7納米製程及支援PCIe
-4.0之第三代Ryzen處理器。\[5\]
+2017年2月22日發表代號「Summit Ridge」的第一代Ryzen系列，取代[AMD FX系列](../Page/AMD_FX.md "wikilink")；\[2\]2017年10月發表代號「Raven Ridge」的Ryzen APU產品線；2018年4月發表了代號「Pinnacle Ridge」的第二代Ryzen系列，是第一代Ryzen系列的小幅改良版；\[3\]於2019年消費電子展中宣佈將於同年年中發表代號「Matisse」，\[4\]采用7納米製程及支援PCIe 4.0之第三代Ryzen處理器（整合Vega內顯的第三代Ryzen仍然是PCIe 3.0）。\[5\]\[6\]
 
 ## 概覽
 
 ### Zen微架構
 
-AMD
-Zen是AMD於2016年中發表的[x86-64微架構](https://zh.wikipedia.org/wiki/x86-64 "wikilink")，接替[Bulldozer微架構及其改進版本](https://zh.wikipedia.org/wiki/Bulldozer微架構 "wikilink")。Zen微架構有兩種晶片，一種是代號「Zeppelin」的八CPU核心晶片，一種是代號「Raven
-Ridge」四CPU核心+GPU的晶片。
-[Socket_AM4_X370_multi_GPU.svg](https://zh.wikipedia.org/wiki/File:Socket_AM4_X370_multi_GPU.svg "fig:Socket_AM4_X370_multi_GPU.svg")
-[ATX_computer_case_-_left_-_2018-05-18.jpg](https://zh.wikipedia.org/wiki/File:ATX_computer_case_-_left_-_2018-05-18.jpg "fig:ATX_computer_case_-_left_-_2018-05-18.jpg")
-[AMD@14nm@Zen(Zeppelin)@Summit_Ridge@Ryzen_3_1200@YD1200BBM4KAE_UA_1724PGT_9GW9105S70241_DSC01421_(36260250762).jpg](https://zh.wikipedia.org/wiki/File:AMD@14nm@Zen\(Zeppelin\)@Summit_Ridge@Ryzen_3_1200@YD1200BBM4KAE_UA_1724PGT_9GW9105S70241_DSC01421_\(36260250762\).jpg "fig:AMD@14nm@Zen(Zeppelin)@Summit_Ridge@Ryzen_3_1200@YD1200BBM4KAE_UA_1724PGT_9GW9105S70241_DSC01421_(36260250762).jpg")
-[AMD_Ryzen_1800X_DSC_0251.jpg](https://zh.wikipedia.org/wiki/File:AMD_Ryzen_1800X_DSC_0251.jpg "fig:AMD_Ryzen_1800X_DSC_0251.jpg")
+AMD Zen是AMD於2016年中發表的[x86-64微架構](https://zh.wikipedia.org/wiki/x86-64 "wikilink")，接替[Bulldozer微架構及其改進版本](https://zh.wikipedia.org/wiki/Bulldozer微架構 "wikilink")。Zen微架構有兩種晶片，一種是代號「Zeppelin」的八CPU核心晶片，一種是代號「Raven Ridge」四CPU核心+GPU的晶片。 [Socket_AM4_X370_multi_GPU.svg](https://zh.wikipedia.org/wiki/File:Socket_AM4_X370_multi_GPU.svg "fig:Socket_AM4_X370_multi_GPU.svg") [ATX_computer_case_-_left_-_2018-05-18.jpg](https://zh.wikipedia.org/wiki/File:ATX_computer_case_-_left_-_2018-05-18.jpg "fig:ATX_computer_case_-_left_-_2018-05-18.jpg") [AMD@14nm@Zen(Zeppelin)@Summit_Ridge@Ryzen_3_1200@YD1200BBM4KAE_UA_1724PGT_9GW9105S70241_DSC01421_(36260250762).jpg](https://zh.wikipedia.org/wiki/File:AMD@14nm@Zen\(Zeppelin\)@Summit_Ridge@Ryzen_3_1200@YD1200BBM4KAE_UA_1724PGT_9GW9105S70241_DSC01421_\(36260250762\).jpg "fig:AMD@14nm@Zen(Zeppelin)@Summit_Ridge@Ryzen_3_1200@YD1200BBM4KAE_UA_1724PGT_9GW9105S70241_DSC01421_(36260250762).jpg") [AMD_Ryzen_1800X_DSC_0251.jpg](https://zh.wikipedia.org/wiki/File:AMD_Ryzen_1800X_DSC_0251.jpg "fig:AMD_Ryzen_1800X_DSC_0251.jpg")
 
 #### 「Summit Ridge」/「Whitehaven」核心
 
-  - 主流效能級平台使用[μPGA封裝](https://zh.wikipedia.org/wiki/插针网格阵列封装 "wikilink")，[Socket
-    AM4插座](../Page/Socket_AM4.md "wikilink")。\[6\]\[7\]極致效能型號採用與[Epyc相同的LGA封裝](../Page/AMD_Epyc.md "wikilink")，與[Socket
-    SP3相同規格的](../Page/Socket_SP3.md "wikilink")[Socket
-    TR4](../Page/Socket_TR4.md "wikilink")。
-  - 僅支援[DDR4記憶體](https://zh.wikipedia.org/wiki/DDR4 "wikilink")，支援DDR4-2666單面（Rank）記憶體模組規格或DDR4-2400雙面記憶體模組規格、DDR4-2133單面模組或DDR4-1866雙面模組，\[8\]\[9\]不過，2017年3月下旬開始新推出的AM4主機板、更新舊AM4主機板的BIOS修正檔以後能支援至最高DDR4-3200之規格。\[10\]
-  - 保留大部分[AMD
-    FX時代的指令集支援](../Page/AMD_FX.md "wikilink")，包括[x87](https://zh.wikipedia.org/wiki/x87 "wikilink")、[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")/[SSE2](../Page/SSE2.md "wikilink")/[SSE3](../Page/SSE3.md "wikilink")/[SSSE3](../Page/SSSE3.md "wikilink")/SSE4.1/SSE4.2、[AES](../Page/AES指令集.md "wikilink")、CLMUL、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")/AVX2、[FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink")、CVT16/F16C、ABM、BMI1/BMI2、SHA。\[11\]
-  - 8核心處理器的晶片面積最大為192平方毫米，48億個晶體管，\[12\]\[13\]\[14\]\[15\]8核心型號的正式產品[步進版本為B](../Page/步進等級.md "wikilink")1。\[16\]而8核心以上的處理器型號採用[多晶片模組的方式](../Page/多晶片模組.md "wikilink")，將兩顆8核心的晶片拼接在一塊[PCB基板上](https://zh.wikipedia.org/wiki/PCB板 "wikilink")。
-  - 最初的Ryzen Threadripper、Ryzen 7、Ryzen 5、Ryzen
-    3系列皆為無內建GPU的設計，需要搭配獨立[顯示卡方能組建PC](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")。後來推出的行動型AMD
-    APU產品線以Ryzen品牌行銷，內建有GPU。
-  - 全系列不鎖定倍頻設定。\[17\]
-  - 部分盒裝包裝的產品會搭配「Wraith Stealth」、「Wraith Spire」以及「Wraith
-    Max」之原裝散熱器，後兩者還配備了RGB彩色LED燈光效果。\[18\]舊有散熱器部分需要改裝扣具方能在AM4平台上使用
-  - 4顆x86處理器核心及相應的L2、L3快取為一個Zen模組，模組之間和[記憶體控制器](https://zh.wikipedia.org/wiki/記憶體控制器 "wikilink")、[PCIe控制器等使用Infinity](https://zh.wikipedia.org/wiki/PCIe "wikilink")
-    Fabric匯流排連接，Infinity
-    Fabric是[HyperTransport的擴展集](../Page/HyperTransport.md "wikilink")。
-  - AMD SenseMI，\[19\]\[20\]\[21\]使用AMD Infinity Control Fabric提供以下功能：
-      - Pure Power，取代[Cool &
-        Quiet](../Page/Cool'n'Quiet.md "wikilink")，監控晶片[電壓和](../Page/電壓.md "wikilink")[時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")，調整處理器的節電狀態
-      - Precision Boost，取代Turbo
-        Core，在熱設計功耗和溫度的限制下在預設時脈之上進行動態加速，對於有負載分配的核心盡可能加速，其餘閒置的CPU核心則盡可能進入休眠狀態。
-      - XFR，全稱eXtended Frequency
-        Range，動態時脈擴展，在散熱條件允許的情況下盡可能將時脈和電壓（必要時）提升至超過Precision
-        Boost所能提供的時脈加速幅度，但是這個功能需要[主機板](https://zh.wikipedia.org/wiki/主機板 "wikilink")[晶片組提供支援](https://zh.wikipedia.org/wiki/晶片組 "wikilink")。\[22\]
-      - 使用[人工智能的神經網絡式預測和智慧型快取](../Page/人工智能.md "wikilink")，實現快取管理、對指令工作流進行最佳化。
+  - 主流效能級平台使用[μPGA封裝](https://zh.wikipedia.org/wiki/插针网格阵列封装 "wikilink")，[Socket AM4插座](../Page/Socket_AM4.md "wikilink")。\[7\]\[8\]極致效能型號採用與[Epyc相同的LGA封裝](../Page/AMD_Epyc.md "wikilink")，與[Socket SP3相同規格的](../Page/Socket_SP3.md "wikilink")[Socket TR4](../Page/Socket_TR4.md "wikilink")。
+  - 僅支援[DDR4記憶體](https://zh.wikipedia.org/wiki/DDR4 "wikilink")，支援DDR4-2666單面（Rank）記憶體模組規格或DDR4-2400雙面記憶體模組規格、DDR4-2133單面模組或DDR4-1866雙面模組，\[9\]\[10\]不過，2017年3月下旬開始新推出的AM4主機板、更新舊AM4主機板的BIOS修正檔以後能支援至最高DDR4-3200之規格。\[11\]
+  - 保留大部分[AMD FX時代的指令集支援](../Page/AMD_FX.md "wikilink")，包括[x87](https://zh.wikipedia.org/wiki/x87 "wikilink")、[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")/[SSE2](../Page/SSE2.md "wikilink")/[SSE3](../Page/SSE3.md "wikilink")/[SSSE3](../Page/SSSE3.md "wikilink")/SSE4.1/SSE4.2、[AES](../Page/AES指令集.md "wikilink")、CLMUL、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")/AVX2、[FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink")、CVT16/F16C、ABM、BMI1/BMI2、SHA。\[12\]
+  - 8核心處理器的晶片面積最大為192平方毫米，48億個晶體管，\[13\]\[14\]\[15\]\[16\]8核心型號的正式產品[步進版本為B](../Page/步進等級.md "wikilink")1。\[17\]而8核心以上的處理器型號採用[多晶片模組](../Page/多晶片模組.md "wikilink")的方式，將兩顆8核心的晶片拼接在一塊[PCB基板上](https://zh.wikipedia.org/wiki/PCB板 "wikilink")。
+  - 最初的Ryzen Threadripper、Ryzen 7、Ryzen 5、Ryzen 3系列皆為無內建GPU的設計，需要搭配獨立[顯示卡方能組建PC](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")。後來推出的行動型AMD APU產品線以Ryzen品牌行銷，內建有GPU。
+  - 全系列不鎖定倍頻設定。\[18\]
+  - 部分盒裝包裝的產品會搭配「Wraith Stealth」、「Wraith Spire」以及「Wraith Max」之原裝散熱器，後兩者還配備了RGB彩色LED燈光效果。\[19\]舊有散熱器部分需要改裝扣具方能在AM4平台上使用
+  - 4顆x86處理器核心及相應的L2、L3快取為一個Zen模組，模組之間和[記憶體控制器](https://zh.wikipedia.org/wiki/記憶體控制器 "wikilink")、[PCIe控制器等使用Infinity](https://zh.wikipedia.org/wiki/PCIe "wikilink") Fabric匯流排連接，Infinity Fabric是[HyperTransport](../Page/HyperTransport.md "wikilink")的擴展集。
+  - AMD SenseMI，\[20\]\[21\]\[22\]使用AMD Infinity Control Fabric提供以下功能：
+      - Pure Power，取代[Cool & Quiet](../Page/Cool'n'Quiet.md "wikilink")，監控晶片[電壓](../Page/電壓.md "wikilink")和[時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")，調整處理器的節電狀態
+      - Precision Boost，取代Turbo Core，在熱設計功耗和溫度的限制下在預設時脈之上進行動態加速，對於有負載分配的核心盡可能加速，其餘閒置的CPU核心則盡可能進入休眠狀態。
+      - XFR，全稱eXtended Frequency Range，動態時脈擴展，在散熱條件允許的情況下盡可能將時脈和電壓（必要時）提升至超過Precision Boost所能提供的時脈加速幅度，但是這個功能需要[主機板](https://zh.wikipedia.org/wiki/主機板 "wikilink")[晶片組提供支援](https://zh.wikipedia.org/wiki/晶片組 "wikilink")。\[23\]
+      - 使用[人工智能](../Page/人工智能.md "wikilink")的神經網絡式預測和智慧型快取，實現快取管理、對指令工作流進行最佳化。
 
 #### 「Raven Ridge」核心
 
-AMD的執行長在2017年3月於[Reddit的AMD板塊中透露AMD](../Page/Reddit.md "wikilink")
-APU產品線核心代號「Raven
-Ridge」，換上Zen微架構的CPU核心和新的GPU核心，APU處理器型號以Ryzen品牌行銷。\[23\]2017年5月，AMD在ComputeX上表示Ryzen
-APU系列內建4個CPU核心和基於「Vega」GPU微架構的GPU，除了桌上型電腦以外還有筆電型號設計的Ryzen
-Mobile系列。\[24\]
+AMD的執行長在2017年3月於[Reddit](../Page/Reddit.md "wikilink")的AMD板塊中透露AMD APU產品線核心代號「Raven Ridge」，換上Zen微架構的CPU核心和新的GPU核心，APU處理器型號以Ryzen品牌行銷。\[24\]2017年5月，AMD在ComputeX上表示Ryzen APU系列內建4個CPU核心和基於「Vega」GPU微架構的GPU，除了桌上型電腦以外還有筆電型號設計的Ryzen Mobile系列。\[25\]
 
-2017年10月，AMD發表Ryzen Mobile系列，首發型號有Ryzen 7 2700U和Ryzen 5
-2500U，主要規格：\[25\]\[26\]
+2017年10月，AMD發表Ryzen Mobile系列，首發型號有Ryzen 7 2700U和Ryzen 5 2500U，主要規格：\[26\]\[27\]
 
   - 改進的4核心8執行緒的CPU部分，每個CPU核心 512 KB 二級快取，共用 4 MB 三級快取，時脈 2.0/2.2～3.8 GHz
   - 降低對二級快取、記憶體存取時所需的時鐘週期
   - 約 49.5 億顆電晶體，晶粒面積 210 平方毫米
   - 支援雙通道DDR4記憶體，支援的記憶體時脈也高達DDR4-2933，如果記憶體模組有XMP/AMP支援，可達到DDR4-3400+之譜
-  - GPU部分為Vega架構、8～11 CU的規格、配備[UVD等單元](../Page/UVD.md "wikilink")，時脈
-    1.1～1.3 GHz
-  - 內建[SATA](../Page/SATA.md "wikilink")、[PCIe](https://zh.wikipedia.org/wiki/PCIe "wikilink")（包括[NVMe](https://zh.wikipedia.org/wiki/NVMe "wikilink")）、[USB等外接I](../Page/USB.md "wikilink")/O，可無需外接晶片組作為[SoC使用](https://zh.wikipedia.org/wiki/SoC "wikilink")
+  - GPU部分為Vega架構、8～11 CU的規格、配備[UVD](../Page/UVD.md "wikilink")等單元，時脈 1.1～1.3 GHz
+  - 內建[SATA](../Page/SATA.md "wikilink")、[PCIe](https://zh.wikipedia.org/wiki/PCIe "wikilink")（包括[NVMe](https://zh.wikipedia.org/wiki/NVMe "wikilink")）、[USB](../Page/USB.md "wikilink")等外接I/O，可無需外接晶片組作為[SoC使用](https://zh.wikipedia.org/wiki/SoC "wikilink")
   - 改進的電源管理，支援 cTDP（可配置 TDP） 從 12 W \~ 45 W
 
 ### Zen+ 微架構
 
-Zen+是Zen的小幅改進版，採用「12奈米」LP（Leading
-Performance）工藝製作，該製程工藝實際上是同廠[14奈米LPP工藝的改良版](https://zh.wikipedia.org/wiki/14奈米製程 "wikilink")。主要的改進在於二級快取的存取效能、記憶體存取效能、AMD
-SenseMI的改進（包括XFR2），以達到更平穩的時脈和電壓的階梯級切換。
+Zen+是Zen的小幅改進版，採用「12奈米」LP（Leading Performance）工藝製作，該製程工藝實際上是同廠[14奈米LPP工藝的改良版](https://zh.wikipedia.org/wiki/14奈米製程 "wikilink")。主要的改進在於二級快取的存取效能、記憶體存取效能、AMD SenseMI的改進（包括XFR2），以達到更平穩的時脈和電壓的階梯級切換。
 
 #### 「Pinnacle Ridge」/「Colfax」核心
 
-與「Summit Ridge」相同的無GPU設計，不過CPU核心引入了來自「Raven
-Ridge」之CPU核心的改良要素。\[27\]除此以外包括：
+與「Summit Ridge」相同的無GPU設計，不過CPU核心引入了來自「Raven Ridge」之CPU核心的改良要素。\[28\]除此以外包括：
 
   - 改善每個CCX之間的通訊延時，尤其是使用低時脈參數的記憶體時
 
-不過，儘管仍維持不鎖定處理器倍頻的設定，對Ryzen 7
-2700X的實測表明其本身的可超頻空間不高，在[風冷的情況下也很難達成](../Page/風冷.md "wikilink")
-4.5 GHz以上的時脈，此時的CPU核心電壓已經處於危險水平。而對手Intel的Core i7
-8700K預設就高達4.7GHz的加速時脈，儘管它也必須大幅強化供電及解熱組件（一般需要[液冷套件](https://zh.wikipedia.org/wiki/電腦水冷 "wikilink")）方能達成超頻至5
-GHz的結果。
+不過，儘管仍維持不鎖定處理器倍頻的設定，對Ryzen 7 2700X的實測表明其本身的可超頻空間不高，在[風冷](../Page/風冷.md "wikilink")的情況下也很難達成 4.5 GHz以上的時脈，此時的CPU核心電壓已經處於危險水平。而對手Intel的Core i7 8700K預設就高達4.7GHz的加速時脈，儘管它也必須大幅強化供電及解熱組件（一般需要[液冷套件](https://zh.wikipedia.org/wiki/電腦水冷 "wikilink")）方能達成超頻至5 GHz的結果。
 
 ## 處理器列表
 
@@ -98,9 +58,7 @@ GHz的結果。
 
 ##### Ryzen Threadripper 系列
 
-本系列採用Socket
-TR4插座，支援[四通道記憶體](https://zh.wikipedia.org/wiki/四通道 "wikilink")（由兩個雙通道記憶體控制器提供支援），最多提供64個PCIe通道，本系列採用[多晶片模組](../Page/多晶片模組.md "wikilink")，代號「Whitehaven」，實際上是將4個代號為「Zeppelin」的8核心晶片封裝於處理器基板上（視良率而開啓部分CPU核心等部分），也是第二款消費級電腦平台上使用[NUMA結構的處理器系列](https://zh.wikipedia.org/wiki/NUMA "wikilink")（上一款是[AMD
-Quad FX](../Page/AMD_Quad_FX平台.md "wikilink")）\[28\]
+本系列採用Socket TR4插座，支援[四通道記憶體](https://zh.wikipedia.org/wiki/四通道 "wikilink")（由兩個雙通道記憶體控制器提供支援），最多提供64個PCIe通道，本系列採用[多晶片模組](../Page/多晶片模組.md "wikilink")，代號「Whitehaven」，實際上是將4個代號為「Zeppelin」的8核心晶片封裝於處理器基板上（視良率而開啓部分CPU核心等部分），也是第二款消費級電腦平台上使用[NUMA結構的處理器系列](https://zh.wikipedia.org/wiki/NUMA "wikilink")（上一款是[AMD Quad FX](../Page/AMD_Quad_FX平台.md "wikilink")）\[29\]
 
 <table>
 <thead>
@@ -212,12 +170,11 @@ YD190XA8AEWOF</p></td>
 </tbody>
 </table>
 
-資料來源：\[29\]\[30\]\[31\]
+資料來源：\[30\]\[31\]\[32\]
 
 ##### Ryzen 7 系列
 
-本系列採用Socket AM4插座，代號「Summit
-Ridge」，採用一顆「Zeppelin」、完整開啓兩個CCX所有CPU核心但原生無內建GPU的晶片，支援[雙通道記憶體](https://zh.wikipedia.org/wiki/雙通道 "wikilink")，最多可為顯示卡提供16條PCIe通道\[32\]\[33\]
+本系列採用Socket AM4插座，代號「Summit Ridge」，採用一顆「Zeppelin」、完整開啓兩個CCX所有CPU核心但原生無內建GPU的晶片，支援[雙通道記憶體](https://zh.wikipedia.org/wiki/雙通道 "wikilink")，最多可為顯示卡提供16條PCIe通道\[33\]\[34\]
 
 <table>
 <thead>
@@ -353,12 +310,11 @@ YD1700BBAEBOX</p></td>
 </tbody>
 </table>
 
-資料來源：\[34\]\[35\]\[36\]\[37\]\[38\]
+資料來源：\[35\]\[36\]\[37\]\[38\]\[39\]
 
 ##### Ryzen 5 系列
 
-本系列採用Socket AM4插座，本系列分為兩種晶片設定。
-無GPU的型號採用一顆「Zeppelin」、開啓兩個CCX中的部分CPU核心、原生無內建GPU的晶片，支援雙通道記憶體，最多可為顯示卡提供16個PCIe通道\[39\]\[40\]
+本系列採用Socket AM4插座，本系列分為兩種晶片設定。 無GPU的型號採用一顆「Zeppelin」、開啓兩個CCX中的部分CPU核心、原生無內建GPU的晶片，支援雙通道記憶體，最多可為顯示卡提供16個PCIe通道\[40\]\[41\]
 
 <table>
 <thead>
@@ -507,11 +463,9 @@ YD1400BBAEBOX</p></td>
 </tbody>
 </table>
 
-資料來源：\[41\]\[42\]\[43\]\[44\]\[45\]\[46\]\[47\]\[48\]
+資料來源：\[42\]\[43\]\[44\]\[45\]\[46\]\[47\]\[48\]\[49\]
 
-內建GPU的型號代號為「Raven
-Ridge」，採用原生有一個CCX、有內建GPU的晶片，支援雙通道記憶體，最多可為顯示卡提供8個PCIe通道\[49\]\[50\]\[51\]；GPU代號Radeon
-Vega 11，配置有11組CU；型號結尾帶「E」的為低功耗版本：
+內建GPU的型號代號為「Raven Ridge」，採用原生有一個CCX、有內建GPU的晶片，支援雙通道記憶體，最多可為顯示卡提供8個PCIe通道\[50\]\[51\]\[52\]；GPU代號Radeon Vega 11，配置有11組CU；型號結尾帶「E」的為低功耗版本：
 
 <table>
 <thead>
@@ -636,12 +590,11 @@ Vega 11，配置有11組CU；型號結尾帶「E」的為低功耗版本：
 </tbody>
 </table>
 
-資料來源：\[52\]\[53\]\[54\]\[55\]\[56\]\[57\]\[58\]\[59\]\[60\]\[61\]\[62\]\[63\]\[64\]\[65\]\[66\]
+資料來源：\[53\]\[54\]\[55\]\[56\]\[57\]\[58\]\[59\]\[60\]\[61\]\[62\]\[63\]\[64\]\[65\]\[66\]\[67\]
 
 ##### Ryzen 3 系列
 
-本系列採用Socket AM4插座，本系列分為兩種晶片配置。
-無GPU的型號採用一顆「Zeppelin」、開啓兩個CCX中的部分CPU核心、原生無內建GPU的晶片，無同步多執行緒的支援，支援雙通道記憶體，最多可為顯示卡提供16個PCIe通道\[67\]：
+本系列採用Socket AM4插座，本系列分為兩種晶片配置。 無GPU的型號採用一顆「Zeppelin」、開啓兩個CCX中的部分CPU核心、原生無內建GPU的晶片，無同步多執行緒的支援，支援雙通道記憶體，最多可為顯示卡提供16個PCIe通道\[68\]：
 
 <table>
 <thead>
@@ -764,11 +717,9 @@ YD1200BBAEBOX</p></td>
 </tbody>
 </table>
 
-資料來源：\[68\]\[69\]\[70\]\[71\]\[72\]
+資料來源：\[69\]\[70\]\[71\]\[72\]\[73\]
 
-有GPU的型號代號為「Raven Ridge」，採用原生有一個CCX、有內建GPU的晶片，但與Ryzen
-5系列的相比原生關閉了同步多執行緒，支援雙通道記憶體，最多可為顯示卡提供8個PCIe通道\[73\]；GPU為Radeon
-Vega 8，配置有8組CU；型號結尾帶「E」的為低功耗版本：
+有GPU的型號代號為「Raven Ridge」，採用原生有一個CCX、有內建GPU的晶片，但與Ryzen 5系列的相比原生關閉了同步多執行緒，支援雙通道記憶體，最多可為顯示卡提供8個PCIe通道\[74\]；GPU為Radeon Vega 8，配置有8組CU；型號結尾帶「E」的為低功耗版本：
 
 <table>
 <thead>
@@ -893,13 +844,11 @@ Vega 8，配置有8組CU；型號結尾帶「E」的為低功耗版本：
 </tbody>
 </table>
 
-資料來源：\[74\]\[75\]\[76\]\[77\]\[78\]\[79\]\[80\]\[81\]\[82\]\[83\]\[84\]\[85\]
+資料來源：\[75\]\[76\]\[77\]\[78\]\[79\]\[80\]\[81\]\[82\]\[83\]\[84\]\[85\]\[86\]
 
 ##### Athlon 系列
 
-本系列採用Socket AM4插座，均為原生有一個CCX、有內建GPU的「Raven
-Ridge」晶片，只有兩個CPU核心被開啟，但支援同步多執行緒，支援雙通道記憶體；GPU爲Radeon
-Vega 3，配置有3組CU；型號結尾帶「E」的爲低功耗版本：
+本系列採用Socket AM4插座，均為原生有一個CCX、有內建GPU的「Raven Ridge」晶片，只有兩個CPU核心被開啟，但支援同步多執行緒，支援雙通道記憶體；GPU爲Radeon Vega 3，配置有3組CU；型號結尾帶「E」的爲低功耗版本：
 
 <table>
 <thead>
@@ -1024,21 +973,17 @@ Vega 3，配置有3組CU；型號結尾帶「E」的爲低功耗版本：
 </tbody>
 </table>
 
-資料來源：\[86\]\[87\]\[88\]\[89\]\[90\]\[91\]\[92\]
+資料來源：\[87\]\[88\]\[89\]\[90\]\[91\]\[92\]\[93\]
 
 表格清單附註：
 
 #### 行動型處理器
 
-目前推出的 Ryzen Mobile
-系列處理器主要用於[超極致筆電](../Page/Ultrabook.md "wikilink")，\[93\]全數使用「Raven
-Ridge」晶片，含一個CCX（有4個CPU核心），[BGA封裝的](../Page/球柵陣列封裝.md "wikilink")[Socket
-FP5](https://zh.wikipedia.org/wiki/Socket_FP5 "wikilink")，支援雙通道記憶體，內建GPU，部分型號還不會開啓[同步多執行緒](https://zh.wikipedia.org/wiki/同步多執行緒 "wikilink")。
+目前推出的 Ryzen Mobile 系列處理器主要用於[超極致筆電](../Page/Ultrabook.md "wikilink")，\[94\]全數使用「Raven Ridge」晶片，含一個CCX（有4個CPU核心），[BGA封裝的](../Page/球柵陣列封裝.md "wikilink")[Socket FP5](https://zh.wikipedia.org/wiki/Socket_FP5 "wikilink")，支援雙通道記憶體，內建GPU，部分型號還不會開啓[同步多執行緒](https://zh.wikipedia.org/wiki/同步多執行緒 "wikilink")。
 
 ##### Ryzen 7 Mobile 系列
 
-Ryzen 7 2800H的GPU部分為Radeon Vega 11，Ryzen 7 2700U及Pro 2700U的GPU部分為Radeon
-Vega 10
+Ryzen 7 2800H的GPU部分為Radeon Vega 11，Ryzen 7 2700U及Pro 2700U的GPU部分為Radeon Vega 10
 
 <table>
 <thead>
@@ -1154,7 +1099,7 @@ Vega 10
 </tbody>
 </table>
 
-資料來源：\[94\]\[95\]\[96\]\[97\]\[98\]\[99\]\[100\]\[101\]
+資料來源：\[95\]\[96\]\[97\]\[98\]\[99\]\[100\]\[101\]\[102\]
 
 ##### Ryzen 5 Mobile 系列
 
@@ -1274,7 +1219,7 @@ Vega 10
 </tbody>
 </table>
 
-資料來源：\[102\]\[103\]\[104\]\[105\]\[106\]\[107\]\[108\]\[109\]
+資料來源：\[103\]\[104\]\[105\]\[106\]\[107\]\[108\]\[109\]\[110\]
 
 ##### Ryzen 3 Mobile 系列
 
@@ -1384,13 +1329,11 @@ Vega 10
 </tbody>
 </table>
 
-資料來源：\[110\]\[111\]\[112\]\[113\]\[114\]\[115\]
+資料來源：\[111\]\[112\]\[113\]\[114\]\[115\]\[116\]
 
 #### 嵌入式平臺
 
-2018年1月，AMD發表了Ryzen Embedded
-V1000系列APU，適用於嵌入式裝置（如工業[過程控制用主機](https://zh.wikipedia.org/wiki/過程控制 "wikilink")、[POS機台](../Page/銷售時點情報系統.md "wikilink")、[精簡客戶端](https://zh.wikipedia.org/wiki/精簡客戶端 "wikilink")、醫療衛生影像、[數位電子看板等](https://zh.wikipedia.org/wiki/數位電子看板 "wikilink")）。\[116\]全部均支援雙通道DDR4記憶體，含內建GPU（Radeon
-Vega 3、Vega 8以及Vega 11，以CU數為GPU型號結尾），使用BGA封裝的Socket FP5介面。
+2018年1月，AMD發表了Ryzen Embedded V1000系列APU，適用於嵌入式裝置（如工業[過程控制用主機](https://zh.wikipedia.org/wiki/過程控制 "wikilink")、[POS機台](../Page/銷售時點情報系統.md "wikilink")、[精簡客戶端](https://zh.wikipedia.org/wiki/精簡客戶端 "wikilink")、醫療衛生影像、[數位電子看板等](https://zh.wikipedia.org/wiki/數位電子看板 "wikilink")）。\[117\]全部均支援雙通道DDR4記憶體，含內建GPU（Radeon Vega 3、Vega 8以及Vega 11，以CU數為GPU型號結尾），使用BGA封裝的Socket FP5介面。
 
 <table>
 <thead>
@@ -1497,7 +1440,7 @@ Vega 3、Vega 8以及Vega 11，以CU數為GPU型號結尾），使用BGA封裝�
 </tbody>
 </table>
 
-資料來源：\[117\]\[118\]\[119\]\[120\]
+資料來源：\[118\]\[119\]\[120\]\[121\]
 
 表格清單附註：
 
@@ -1505,18 +1448,11 @@ Vega 3、Vega 8以及Vega 11，以CU數為GPU型號結尾），使用BGA封裝�
 
 #### 桌上型處理器
 
-第二代Ryzen系列代號「Pinnacle Ridge」，是「Summit Ridge」的改良版本，除了 Threadripper
-系列使用Socket TR4並支援最高八通道記憶體以外，均採用Socket
-AM4連接介面和支援[雙通道記憶體](https://zh.wikipedia.org/wiki/雙通道 "wikilink")。
+第二代Ryzen系列代號「Pinnacle Ridge」，是「Summit Ridge」的改良版本，除了 Threadripper 系列使用Socket TR4並支援最高八通道記憶體以外，均採用Socket AM4連接介面和支援[雙通道記憶體](https://zh.wikipedia.org/wiki/雙通道 "wikilink")。
 
 ##### Ryzen Threadripper 系列
 
-Threadripper 2000系列於2018年Computex上發表，採用[Socket
-TR4插座](../Page/Socket_TR4.md "wikilink")，支援最高[四通道記憶體](../Page/多通道記憶體技術.md "wikilink")（由四個雙通道記憶體控制器提供支援），最多提供64個PCIe通道，本系列採用[多晶片模組](../Page/多晶片模組.md "wikilink")，代號「Colfax」，實際上是將4個與「Pinnacle
-Ridge」相同的8核心晶片封裝於處理器基板上（視良率而開啓部分CPU核心等部分），最高會有32個CPU核心的配置，3.0
-GHz以上的基準時脈，最高TDP也達到180W～250W，其盒裝版本配備了一個高達14條導熱管的大體積散熱器。\[121\]若主機板廠商提供BIOS韌體更新的話，Threadripper
-2000系列也會相容於供電設計足夠、已有的使用AMD
-X399晶片組的主機板上。\[122\]不過，由於仍維持四通道記憶體的規格，四顆晶片共用其中的兩個[記憶體控制器](https://zh.wikipedia.org/wiki/記憶體控制器 "wikilink")，面對記憶體存取吃重的應用程式可能會有存取延時加大的問題。\[123\]
+Threadripper 2000系列於2018年Computex上發表，採用[Socket TR4插座](../Page/Socket_TR4.md "wikilink")，支援最高[四通道記憶體](../Page/多通道記憶體技術.md "wikilink")（由四個雙通道記憶體控制器提供支援），最多提供64個PCIe通道，本系列採用[多晶片模組](../Page/多晶片模組.md "wikilink")，代號「Colfax」，實際上是將4個與「Pinnacle Ridge」相同的8核心晶片封裝於處理器基板上（視良率而開啓部分CPU核心等部分），最高會有32個CPU核心的配置，3.0 GHz以上的基準時脈，最高TDP也達到180W～250W，其盒裝版本配備了一個高達14條導熱管的大體積散熱器。\[122\]若主機板廠商提供BIOS韌體更新的話，Threadripper 2000系列也會相容於供電設計足夠、已有的使用AMD X399晶片組的主機板上。\[123\]不過，由於仍維持四通道記憶體的規格，四顆晶片共用其中的兩個[記憶體控制器](https://zh.wikipedia.org/wiki/記憶體控制器 "wikilink")，面對記憶體存取吃重的應用程式可能會有存取延時加大的問題。\[124\]
 
 <table>
 <thead>
@@ -1626,7 +1562,7 @@ YD299XAZAFWOF</p></td>
 </tbody>
 </table>
 
-資料來源：\[124\]\[125\]\[126\]\[127\]\[128\]\[129\]
+資料來源：\[125\]\[126\]\[127\]\[128\]\[129\]\[130\]
 
 ##### Ryzen 7 系列
 
@@ -1765,7 +1701,7 @@ YD2700BBAFBOX</p></td>
 </tbody>
 </table>
 
-資料來源：\[130\]\[131\]\[132\]\[133\]\[134\]\[135\]
+資料來源：\[131\]\[132\]\[133\]\[134\]\[135\]\[136\]
 
 ##### Ryzen 5 系列
 
@@ -1916,7 +1852,7 @@ YD2600BBAFBOX</p></td>
 </tbody>
 </table>
 
-資料來源：\[136\]\[137\]\[138\]\[139\]\[140\]\[141\]\[142\]\[143\]\[144\]
+資料來源：\[137\]\[138\]\[139\]\[140\]\[141\]\[142\]\[143\]\[144\]\[145\]
 
 ##### Ryzen 3 系列
 
@@ -2309,7 +2245,7 @@ YD2600BBAFBOX</p></td>
 </tbody>
 </table>
 
-資料來源：\[145\]\[146\]\[147\]\[148\]
+資料來源：\[146\]\[147\]\[148\]\[149\]
 
 表格清單附註：
 
@@ -2331,15 +2267,11 @@ YD2600BBAFBOX</p></td>
 
   - [AMD「Ryzen 7」の半導体チップの姿](https://pc.watch.impress.co.jp/docs/column/kaigai/1047507.html)
 
-  - [cpu-collection.de](http://www.cpu-collection.de/?tn=0&l0=co&l1=AMD&l2=Athlon)
-    AMD Athlon processor images and descriptions
+  - [cpu-collection.de](http://www.cpu-collection.de/?tn=0&l0=co&l1=AMD&l2=Athlon) AMD Athlon processor images and descriptions
 
-  - [AMD's New Horizon
-    summit](http://www.youtube.com/watch?v=1v44wWAOHn8&sf58130647=1)
-    Ryzen 7 發表
+  - [AMD's New Horizon summit](http://www.youtube.com/watch?v=1v44wWAOHn8&sf58130647=1) Ryzen 7 發表
 
-[Category:2017年面世的產品](https://zh.wikipedia.org/wiki/Category:2017年面世的產品 "wikilink")
-[Category:AMD處理器](https://zh.wikipedia.org/wiki/Category:AMD處理器 "wikilink")
+[Category:2017年面世的產品](https://zh.wikipedia.org/wiki/Category:2017年面世的產品 "wikilink") [Category:AMD處理器](https://zh.wikipedia.org/wiki/Category:AMD處理器 "wikilink")
 
 1.
 
@@ -2351,15 +2283,14 @@ YD2600BBAFBOX</p></td>
 
 5.
 
-6.
+6.  <https://www.amd.com/zh-hant/products/apu/amd-ryzen-5-3400g>
 
 7.
 
 8.
-9.  [Tips for Building a Better AMD Ryzen™
-    System](http://community.amd.com/community/gaming/blog/2017/03/14/tips-for-building-a-better-amd-ryzen-system)
 
-10.
+9.
+10. [Tips for Building a Better AMD Ryzen™ System](http://community.amd.com/community/gaming/blog/2017/03/14/tips-for-building-a-better-amd-ryzen-system)
 
 11.
 
@@ -2378,8 +2309,8 @@ YD2600BBAFBOX</p></td>
 18.
 
 19.
-20.
 
+20.
 21.
 
 22.
@@ -2388,11 +2319,9 @@ YD2600BBAFBOX</p></td>
 
 24.
 
-25. ，編譯自[Ryzen Mobile is Launched: AMD APUs for Laptops, with Vega and
-    Updated Zen , by Ian
-    Cutress](https://www.anandtech.com/show/11964/ryzen-mobile-is-launched-amd-apus-for-laptops-with-vega-and-updated-zen)
+25.
 
-26.
+26. ，編譯自[Ryzen Mobile is Launched: AMD APUs for Laptops, with Vega and Updated Zen , by Ian Cutress](https://www.anandtech.com/show/11964/ryzen-mobile-is-launched-amd-apus-for-laptops-with-vega-and-updated-zen)
 
 27.
 
@@ -2404,11 +2333,11 @@ YD2600BBAFBOX</p></td>
 
 31.
 
-32. <https://rog.asus.com/articles/technologies/your-guide-to-the-ryzen-am4-platform-and-its-x370-b350-and-a320-chipsets/>
+32.
 
-33. <https://www.amd.com/en/products/cpu/amd-ryzen-7-1700x>
+33. <https://rog.asus.com/articles/technologies/your-guide-to-the-ryzen-am4-platform-and-its-x370-b350-and-a320-chipsets/>
 
-34.
+34. <https://www.amd.com/en/products/cpu/amd-ryzen-7-1700x>
 
 35.
 
@@ -2418,11 +2347,11 @@ YD2600BBAFBOX</p></td>
 
 38.
 
-39. <https://rog.asus.com/articles/technologies/your-guide-to-the-ryzen-am4-platform-and-its-x370-b350-and-a320-chipsets/>
+39.
 
-40. <https://www.amd.com/en/products/cpu/amd-ryzen-5-1600x>
+40. <https://rog.asus.com/articles/technologies/your-guide-to-the-ryzen-am4-platform-and-its-x370-b350-and-a320-chipsets/>
 
-41.
+41. <https://www.amd.com/en/products/cpu/amd-ryzen-5-1600x>
 
 42.
 
@@ -2430,21 +2359,21 @@ YD2600BBAFBOX</p></td>
 
 44.
 
-45. ，原載於[1](https://elchapuzasinformatico.com/2017/04/amd-ryzen-5-1600-review/5/)
+45.
 
-46.
+46. ，原載於[1](https://elchapuzasinformatico.com/2017/04/amd-ryzen-5-1600-review/5/)
 
 47.
 
 48.
 
-49. <https://www.amd.com/zh-hant/products/apu/amd-ryzen-5-2400g>
+49.
 
-50. <https://rog.asus.com/articles/technologies/your-guide-to-the-ryzen-am4-platform-and-its-x370-b350-and-a320-chipsets/>
+50. <https://www.amd.com/zh-hant/products/apu/amd-ryzen-5-2400g>
 
-51. <https://www.techpowerup.com/241444/amd-ryzen-raven-ridge-comes-with-a-limited-pcie-interface>
+51. <https://rog.asus.com/articles/technologies/your-guide-to-the-ryzen-am4-platform-and-its-x370-b350-and-a320-chipsets/>
 
-52.
+52. <https://www.techpowerup.com/241444/amd-ryzen-raven-ridge-comes-with-a-limited-pcie-interface>
 
 53.
 
@@ -2474,27 +2403,27 @@ YD2600BBAFBOX</p></td>
 
 66.
 
-67. <https://rog.asus.com/articles/technologies/your-guide-to-the-ryzen-am4-platform-and-its-x370-b350-and-a320-chipsets/>
+67.
 
-68.
+68. <https://rog.asus.com/articles/technologies/your-guide-to-the-ryzen-am4-platform-and-its-x370-b350-and-a320-chipsets/>
 
-69. ，原載於Computerbase、ASRock、usb.org、hardware.fr
+69.
 
-70.
+70. ，原載於Computerbase、ASRock、usb.org、hardware.fr
 
 71.
 
 72.
 
-73. <https://www.amd.com/zh-hant/products/apu/amd-ryzen-3-2200g>
+73.
 
-74.
+74. <https://www.amd.com/zh-hant/products/apu/amd-ryzen-3-2200g>
+
 75.
 76.
 77.
 78.
 79.
-
 80.
 
 81.
@@ -2540,8 +2469,8 @@ YD2600BBAFBOX</p></td>
 101.
 
 102.
-103.
 
+103.
 104.
 
 105.
@@ -2607,8 +2536,8 @@ YD2600BBAFBOX</p></td>
 135.
 
 136.
-137.
 
+137.
 138.
 
 139.
@@ -2624,7 +2553,9 @@ YD2600BBAFBOX</p></td>
 144.
 
 145.
+
 146.
 147.
-
 148.
+
+149.

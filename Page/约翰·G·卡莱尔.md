@@ -1,4 +1,4 @@
-**约翰·格里芬·卡莱尔**（，），著名的美国政治家、[美国民主党重要人物之一](https://zh.wikipedia.org/wiki/美国民主党 "wikilink")。1883年至1889年，他担任[美国众议院议长](https://zh.wikipedia.org/wiki/美国众议院议长 "wikilink")；1893年至1897年，担任[美国财政部长](../Page/美国财政部长.md "wikilink")，期间遭遇[1893年大恐慌](https://zh.wikipedia.org/wiki/1893年大恐慌 "wikilink")。作为成员，他曾经是[格罗弗·克利夫兰总统时期的党内保守](../Page/格罗弗·克利夫兰.md "wikilink")、利商派的领袖。
+**约翰·格里芬·卡莱尔**（，），著名的美国政治家、[美国民主党重要人物之一](https://zh.wikipedia.org/wiki/美国民主党 "wikilink")。1883年至1889年，他担任[美国众议院议长](https://zh.wikipedia.org/wiki/美国众议院议长 "wikilink")；1893年至1897年，担任[美国财政部长](../Page/美国财政部长.md "wikilink")，期间遭遇[1893年大恐慌](https://zh.wikipedia.org/wiki/1893年大恐慌 "wikilink")。作为成员，他曾经是[格罗弗·克利夫兰](../Page/格罗弗·克利夫兰.md "wikilink")总统时期的党内保守、利商派的领袖。
 
 ## 生平
 
@@ -8,10 +8,9 @@
 
 1875年，当副州长任期一满，他开始在竞选[美国参议员席位](https://zh.wikipedia.org/wiki/美国参议员 "wikilink")，并成功获选。在当时主要争议的银币铸造和流通问题上，他支持制度，并支持更低的[关税](../Page/关税.md "wikilink")。他是民主党中的低税派领导人；1833年，他因此成为民主党主控国会的[众议院议长](https://zh.wikipedia.org/wiki/众议院议长 "wikilink")，胜过党内税收保护主义派的领导人[西蒙·J·兰德尔](https://zh.wikipedia.org/wiki/西蒙·J·兰德尔 "wikilink")。
 
-卡莱尔成为保守的领袖，并被提示成为总统候选人，民主党人分别在1880年和1884年在民主党大会上进行讨论。然而美国内战刚结束，提名一个南方政治家会导致选举不安，于是被迫导致他未能提名。1892年，卡莱尔再次在民主党全国大会上被建议竞选总统，但是他要求不去考虑自己。卡莱尔的退出也是基于他清楚，一旦[格罗弗·克利夫兰竞选成功](../Page/格罗弗·克利夫兰.md "wikilink")，后者将任命他进去内阁。
+卡莱尔成为保守的领袖，并被提示成为总统候选人，民主党人分别在1880年和1884年在民主党大会上进行讨论。然而美国内战刚结束，提名一个南方政治家会导致选举不安，于是被迫导致他未能提名。1892年，卡莱尔再次在民主党全国大会上被建议竞选总统，但是他要求不去考虑自己。卡莱尔的退出也是基于他清楚，一旦[格罗弗·克利夫兰](../Page/格罗弗·克利夫兰.md "wikilink")竞选成功，后者将任命他进去内阁。
 
-[CARLISLE,_John_Griffin-Treasury_(BEP_engraved_portrait).jpg](https://zh.wikipedia.org/wiki/File:CARLISLE,_John_Griffin-Treasury_\(BEP_engraved_portrait\).jpg "fig:CARLISLE,_John_Griffin-Treasury_(BEP_engraved_portrait).jpg")
-1890年，卡莱尔当选[美国参议员](https://zh.wikipedia.org/wiki/美国参议员 "wikilink")，以填补的空位。1892年，当克利夫兰成功连任美国总统，克利夫兰任命卡莱尔为新的[美国财政部长](../Page/美国财政部长.md "wikilink")。
+[CARLISLE,_John_Griffin-Treasury_(BEP_engraved_portrait).jpg](https://zh.wikipedia.org/wiki/File:CARLISLE,_John_Griffin-Treasury_\(BEP_engraved_portrait\).jpg "fig:CARLISLE,_John_Griffin-Treasury_(BEP_engraved_portrait).jpg") 1890年，卡莱尔当选[美国参议员](https://zh.wikipedia.org/wiki/美国参议员 "wikilink")，以填补的空位。1892年，当克利夫兰成功连任美国总统，克利夫兰任命卡莱尔为新的[美国财政部长](../Page/美国财政部长.md "wikilink")。
 
 然而，卡莱尔的财政部长生涯却被[1893年大恐慌摧毁](https://zh.wikipedia.org/wiki/1893年大恐慌 "wikilink")，这起金融和经济灾难直接扼杀了他的政治生涯。为了保证美国的黄金供给，卡莱尔强行终止银币制造。此外，他强烈反对1894年《》。这两个事情引起了农业界的民主党人广泛的不满。1896年，卡莱尔极力反对1896年民主党总统候选人[威廉·詹宁斯·布赖恩](https://zh.wikipedia.org/wiki/威廉·詹宁斯·布赖恩 "wikilink")，转而支持（黄金民主党）候选人、伊利诺伊州州长\[1\]。1896年，由于货币管理声名狼藉，卡莱尔在家乡卡温顿的一次演讲中，遭到接二连三的臭鸡蛋袭击，最终被迫中途离场。
 
@@ -23,40 +22,23 @@
 
 ### 书籍
 
-  - Barnes, James A. *John G. Carlisle: Financial Statesman*. New York :
-    Dodd, Mead, 1931.
+  - Barnes, James A. *John G. Carlisle: Financial Statesman*. New York : Dodd, Mead, 1931.
 
-  - Beito, David T., and Linda Royster Beito. [*Gold Democrats and the
-    Decline of Classical Liberalism from 1896
-    to 1900,*](http://www.independent.org/publications/tir/article.asp?issueID=22&articleID=261)
-    Independent Review 4 (Spring 2000), 555-75.
+  - Beito, David T., and Linda Royster Beito. [*Gold Democrats and the Decline of Classical Liberalism from 1896 to 1900,*](http://www.independent.org/publications/tir/article.asp?issueID=22&articleID=261) Independent Review 4 (Spring 2000), 555-75.
 
   -
-  - Garraty, John A. and Mark C. Carnes. *American National Biography*,
-    vol. 4, "Carlisle, John G.". New York : Oxford University Press,
-    1999. <small>(ISBN 0-19-512783-8)</small>
+  - Garraty, John A. and Mark C. Carnes. *American National Biography*, vol. 4, "Carlisle, John G.". New York : Oxford University Press, 1999. <small>(ISBN 0-19-512783-8)</small>
 
   -
-  - Williams, R. Hal. *Years of Decision: American Politics in the
-    1890s*. New York : Wiley, 1978.
+  - Williams, R. Hal. *Years of Decision: American Politics in the 1890s*. New York : Wiley, 1978.
 
 ## 外部链接
 
-  - [John G.
-    Carlisle](https://sites.google.com/site/lgcemetery/about/history) at
-    Linden Grove Cemetery
+  - [John G. Carlisle](https://sites.google.com/site/lgcemetery/about/history) at Linden Grove Cemetery
 
   -
-[Category:美国众议院议长](https://zh.wikipedia.org/wiki/Category:美国众议院议长 "wikilink")
-[Category:肯塔基州副州长](https://zh.wikipedia.org/wiki/Category:肯塔基州副州长 "wikilink")
-[Category:肯塔基州联邦参议员](https://zh.wikipedia.org/wiki/Category:肯塔基州联邦参议员 "wikilink")
-[Category:肯塔基州联邦众议员](https://zh.wikipedia.org/wiki/Category:肯塔基州联邦众议员 "wikilink")
-[Category:美国民主党联邦众议员](https://zh.wikipedia.org/wiki/Category:美国民主党联邦众议员 "wikilink")
-[Category:美国民主党联邦参议员](https://zh.wikipedia.org/wiki/Category:美国民主党联邦参议员 "wikilink")
+[Category:美国众议院议长](https://zh.wikipedia.org/wiki/Category:美国众议院议长 "wikilink") [Category:肯塔基州副州长](https://zh.wikipedia.org/wiki/Category:肯塔基州副州长 "wikilink") [Category:肯塔基州联邦参议员](https://zh.wikipedia.org/wiki/Category:肯塔基州联邦参议员 "wikilink") [Category:肯塔基州联邦众议员](https://zh.wikipedia.org/wiki/Category:肯塔基州联邦众议员 "wikilink") [Category:美国民主党联邦众议员](https://zh.wikipedia.org/wiki/Category:美国民主党联邦众议员 "wikilink") [Category:美国民主党联邦参议员](https://zh.wikipedia.org/wiki/Category:美国民主党联邦参议员 "wikilink")
 
-1.  David T. Beito and Linda Royster Beito, ["Gold Democrats and the
-    Decline of Classical
-    Liberalism, 1896-1900,"](http://www.independent.org/publications/tir/article.asp?issueID=22&articleID=261)
-    Independent Review 4 (Spring 2000), 555-75
+1.  David T. Beito and Linda Royster Beito, ["Gold Democrats and the Decline of Classical Liberalism, 1896-1900,"](http://www.independent.org/publications/tir/article.asp?issueID=22&articleID=261) Independent Review 4 (Spring 2000), 555-75
 2.
 3.

@@ -1,9 +1,8 @@
-《**OVER 10
-YEARS**》是[韓國的男子樂隊](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland的組團十周年紀念專輯](../Page/FTIsland.md "wikilink")，於2017年6月7日發行，並以《**Wind**》為此專輯的主打曲目\[1\]。
+《**OVER 10 YEARS**》是[韓國的男子樂隊](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")的組團十周年紀念專輯，於2017年6月7日發行，並以《**Wind**》為此專輯的主打曲目\[1\]。
 
 ## 背景
 
-2017年4月，有媒體報導FTIsland將會在6月發表出道十周年紀念專輯，其時[FNC娛樂則表示一切尚未落實](../Page/FNC娛樂.md "wikilink")\[2\]；到5月22日，官方宣布他們的十周年紀念專輯定於其出道日——6月7日發行\[3\]。
+2017年4月，有媒體報導FTIsland將會在6月發表出道十周年紀念專輯，其時[FNC娛樂](../Page/FNC娛樂.md "wikilink")則表示一切尚未落實\[2\]；到5月22日，官方宣布他們的十周年紀念專輯定於其出道日——6月7日發行\[3\]。
 
 5月23日，FTIsland在其官方Facebook專頁發佈動態海報，公告新專輯會以翻唱出道作《愛情病》（）為先行曲，並邀得《》參賽者[金娜英合唱](https://zh.wikipedia.org/wiki/金娜英 "wikilink")\[4\]；而主打曲目《Wind》之宣傳海報亦於5月30日公開\[5\]。
 
@@ -61,7 +60,7 @@ YEARS**》是[韓國的男子樂隊](https://zh.wikipedia.org/wiki/韓國 "wikil
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 總銷量        |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 總銷量        |
 | ---------------------------------------- | ---- | ---------- |
 | 專輯周榜                                     | 34   | 2,148\[9\] |
 
@@ -98,9 +97,7 @@ YEARS**》是[韓國的男子樂隊](https://zh.wikipedia.org/wiki/韓國 "wikil
 
 ## 参考文献
 
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:FTIsland音樂專輯](https://zh.wikipedia.org/wiki/Category:FTIsland音樂專輯 "wikilink")
+[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:FTIsland音樂專輯](https://zh.wikipedia.org/wiki/Category:FTIsland音樂專輯 "wikilink")
 
 1.
 

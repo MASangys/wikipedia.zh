@@ -1,14 +1,8 @@
-[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女子组合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[AOA共发行两张](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")[录音室专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")、一张[合辑](https://zh.wikipedia.org/wiki/合輯 "wikilink")、四张[迷你专辑和十六首](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")[单曲](../Page/单曲.md "wikilink")（包括十首[CD单曲和六首数字单曲](../Page/CD.md "wikilink")）。
+[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女子组合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[AOA共发行两张](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")[录音室专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")、一张[合辑](https://zh.wikipedia.org/wiki/合輯 "wikilink")、四张[迷你专辑和十六首](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")[单曲](../Page/单曲.md "wikilink")（包括十首[CD](../Page/CD.md "wikilink")单曲和六首数字单曲）。
 
-2012年7月，AOA发行数字单曲《Elvis》和首张单曲专辑《[Angels'
-Story](../Page/Angels'_Story.md "wikilink")》出道\[1\]。3个月后第二张单曲专辑《[Wanna
-Be](https://zh.wikipedia.org/wiki/Wanna_Be_\(AOA单曲\) "wikilink")》推出。2013年AOA发行两首单曲《Moya》和《[Red
-Motion](../Page/RED_MOTION.md "wikilink")》。2014年，第五首单曲《[短裙](../Page/短裙_\(AOA单曲\).md "wikilink")》发行并首次冲进Gaon榜前20名。同年，AOA发行迷你专辑《[短发](https://zh.wikipedia.org/wiki/短髮_\(AOA迷你專輯\) "wikilink")》和《[猫步轻悄](https://zh.wikipedia.org/wiki/猫步轻悄_\(AOA迷你专辑\) "wikilink")》。第三张EP《[怦然心动](../Page/怦然心动_\(AOA迷你专辑\).md "wikilink")》（2015）是AOA在韩国销量最高的专辑，实体总销量超过4.5万。第四张EP《[Good
-Luck](../Page/Good_Luck_\(AOA迷你专辑\).md "wikilink")》于2016年5月释出。
+2012年7月，AOA发行数字单曲《Elvis》和首张单曲专辑《[Angels' Story](../Page/Angels'_Story.md "wikilink")》出道\[1\]。3个月后第二张单曲专辑《[Wanna Be](https://zh.wikipedia.org/wiki/Wanna_Be_\(AOA单曲\) "wikilink")》推出。2013年AOA发行两首单曲《Moya》和《[Red Motion](../Page/RED_MOTION.md "wikilink")》。2014年，第五首单曲《[短裙](../Page/短裙_\(AOA单曲\).md "wikilink")》发行并首次冲进Gaon榜前20名。同年，AOA发行迷你专辑《[短发](https://zh.wikipedia.org/wiki/短髮_\(AOA迷你專輯\) "wikilink")》和《[猫步轻悄](https://zh.wikipedia.org/wiki/猫步轻悄_\(AOA迷你专辑\) "wikilink")》。第三张EP《[怦然心动](../Page/怦然心动_\(AOA迷你专辑\).md "wikilink")》（2015）是AOA在韩国销量最高的专辑，实体总销量超过4.5万。第四张EP《[Good Luck](../Page/Good_Luck_\(AOA迷你专辑\).md "wikilink")》于2016年5月释出。
 
-2014年10月，《短裙》的日语版推出，成为AOA的首张日语专辑。专辑在Oricon周单曲榜达到13名。一年后的2015年10月，AOA释出首张标准长度日语录音室专辑《[Ace
-of
-Angels](https://zh.wikipedia.org/wiki/Ace_of_Angels "wikilink")》。AOA的第四首也是首次原生日语单曲《给我爱》于2016年4月发行，其中日本歌手[西川贵教](../Page/西川贵教.md "wikilink")（T.M.Revolution）伴唱。
+2014年10月，《短裙》的日语版推出，成为AOA的首张日语专辑。专辑在Oricon周单曲榜达到13名。一年后的2015年10月，AOA释出首张标准长度日语录音室专辑《[Ace of Angels](https://zh.wikipedia.org/wiki/Ace_of_Angels "wikilink")》。AOA的第四首也是首次原生日语单曲《给我爱》于2016年4月发行，其中日本歌手[西川贵教](../Page/西川贵教.md "wikilink")（T.M.Revolution）伴唱。
 
 2015年7月，AOA发布《怦然心动》中文版，这是AOA的首个中文歌。
 
@@ -47,7 +41,7 @@ Angels](https://zh.wikipedia.org/wiki/Ace_of_Angels "wikilink")》。AOA的第�
 <td><p><a href="https://zh.wikipedia.org/wiki/Ace_of_Angels_(AOA专辑)" title="wikilink">Ace of Angels</a></p></td>
 <td><ul>
 <li>发行：2015年10月14日<small>（日本）</small></li>
-<li>唱片公司：<a href="../Page/环球唱片.md" title="wikilink">环球唱片日本</a></li>
+<li>唱片公司：<a href="../Page/环球唱片.md" title="wikilink">环球唱片</a>日本</li>
 <li>形式： <a href="../Page/CD.md" title="wikilink">CD</a>、<a href="https://zh.wikipedia.org/wiki/数字下载" title="wikilink">数字下载</a></li>
 </ul></td>
 <td><p>—</p></td>
@@ -369,7 +363,7 @@ Angels](https://zh.wikipedia.org/wiki/Ace_of_Angels "wikilink")》。AOA的第�
 <td><p>6</p></td>
 </tr>
 <tr class="even">
-<td><p>"给我爱" <small>（<a href="../Page/西川贵教.md" title="wikilink">西川贵教伴唱</a>）</small></p></td>
+<td><p>"给我爱" <small>（<a href="../Page/西川贵教.md" title="wikilink">西川贵教</a>伴唱）</small></p></td>
 <td><p>2016</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -489,8 +483,7 @@ Angels](https://zh.wikipedia.org/wiki/Ace_of_Angels "wikilink")》。AOA的第�
 
 3.
 
-4.  [Oricon Weekly
-    Chart 26-10-2015](http://www.oricon.co.jp/rank/ja/w/2015-10-26/)
+4.  [Oricon Weekly Chart 26-10-2015](http://www.oricon.co.jp/rank/ja/w/2015-10-26/)
 
 5.
 6.

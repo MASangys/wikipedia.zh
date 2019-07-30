@@ -1,6 +1,4 @@
-**《BRUTUS》**（）是由[日本出版社](../Page/日本.md "wikilink") [Magazine
-House](../Page/Magazine_House.md "wikilink")
-於1980年5月創刊的男性雜誌，每月1日與15日發行，雜誌標題原自美國漫畫《[大力水手](../Page/大力水手.md "wikilink")》的布魯托\[1\]，發行商也以其他兩位主角奧莉薇和卜派各發行過刊物，近年則轉變為刊載日本文化與生活風格為主的內容\[2\]，臺灣由[慕客館文化事業進口經銷](https://zh.wikipedia.org/wiki/慕客館文化事業 "wikilink")。
+**《BRUTUS》**（）是由[日本](../Page/日本.md "wikilink")出版社 [Magazine House](../Page/Magazine_House.md "wikilink") 於1980年5月創刊的男性雜誌，每月1日與15日發行，雜誌標題原自美國漫畫《[大力水手](../Page/大力水手.md "wikilink")》的布魯托\[1\]，發行商也以其他兩位主角奧莉薇和卜派各發行過刊物，近年則轉變為刊載日本文化與生活風格為主的內容\[2\]，臺灣由[慕客館文化事業進口經銷](https://zh.wikipedia.org/wiki/慕客館文化事業 "wikilink")。
 
 ## 簡介
 
@@ -31,9 +29,7 @@ House](../Page/Magazine_House.md "wikilink")
   - [BRUTUS的官方網站](http://magazineworld.jp/brutus)
 
   -
-[Category:日本雜誌](https://zh.wikipedia.org/wiki/Category:日本雜誌 "wikilink")
-[Category:1980年日本建立](https://zh.wikipedia.org/wiki/Category:1980年日本建立 "wikilink")
-[Category:1980年建立的出版物](https://zh.wikipedia.org/wiki/Category:1980年建立的出版物 "wikilink")
+[Category:日本雜誌](https://zh.wikipedia.org/wiki/Category:日本雜誌 "wikilink") [Category:1980年日本建立](https://zh.wikipedia.org/wiki/Category:1980年日本建立 "wikilink") [Category:1980年建立的出版物](https://zh.wikipedia.org/wiki/Category:1980年建立的出版物 "wikilink")
 
 1.
 2.

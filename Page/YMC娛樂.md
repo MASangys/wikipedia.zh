@@ -1,5 +1,4 @@
-**YMC娛樂**（，）是[韓國的一家](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，由韓國歌手於2008年創辦\[1\]，在2015年7月1日[Imagine
-Asia聯同](../Page/Imagine_Asia.md "wikilink")購入合共其80%的股份並由DreamTea娛樂管理。\[2\]
+**YMC娛樂**（，）是[韓國的一家](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，由韓國歌手於2008年創辦\[1\]，在2015年7月1日[Imagine Asia聯同](../Page/Imagine_Asia.md "wikilink")購入合共其80%的股份並由DreamTea娛樂管理。\[2\]
 
 ## 旗下藝人
 
@@ -29,9 +28,7 @@ Asia聯同](../Page/Imagine_Asia.md "wikilink")購入合共其80%的股份並由
 ## 外部連結
 
   -
-[Category:2008年成立的公司](https://zh.wikipedia.org/wiki/Category:2008年成立的公司 "wikilink")
-[Category:韓國公司](https://zh.wikipedia.org/wiki/Category:韓國公司 "wikilink")
-[Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
+[Category:2008年成立的公司](https://zh.wikipedia.org/wiki/Category:2008年成立的公司 "wikilink") [Category:韓國公司](https://zh.wikipedia.org/wiki/Category:韓國公司 "wikilink") [Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
 
 1.
 2.

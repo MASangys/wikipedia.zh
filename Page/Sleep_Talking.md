@@ -1,18 +1,14 @@
-**《Sleep
-Talking》**是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NU'EST第三張韓語迷你專輯](../Page/NU'EST.md "wikilink")，於2013年8月22日發行，主打歌曲為〈Sleep
-Talking〉（）。
+**《Sleep Talking》**是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NU'EST](../Page/NU'EST.md "wikilink")第三張韓語迷你專輯，於2013年8月22日發行，主打歌曲為〈Sleep Talking〉（）。
 
 ## 背景
 
 2013年8月，NU'EST發行第三張迷你專輯《Sleep Talking》回歸樂壇。\[1\]
 
-2017年，JR、白虎、旼泫、Ren參加《[PRODUCE 101
-第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，四人在舞台上出色的表現讓觀眾眼前一亮\[2\]，使NU'EST所有發行過的專輯自五月在韓國HANTEO榜、Aladdin和Yes24等多個銷量排行榜持續逆行\[3\]。
+2017年，JR、白虎、旼泫、Ren參加《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，四人在舞台上出色的表現讓觀眾眼前一亮\[2\]，使NU'EST所有發行過的專輯自五月在韓國HANTEO榜、Aladdin和Yes24等多個銷量排行榜持續逆行\[3\]。
 
 ## 簡介
 
-主打歌〈Sleep
-Talking〉描述對心儀的女孩子只敢在夢中告白的心情。專輯採用青春活潑、鮮豔色系的造型來突顯其神秘夢幻感\[4\]。隊長JR參與三首收錄曲的Rap製作。\[5\]
+主打歌〈Sleep Talking〉描述對心儀的女孩子只敢在夢中告白的心情。專輯採用青春活潑、鮮豔色系的造型來突顯其神秘夢幻感\[4\]。隊長JR參與三首收錄曲的Rap製作。\[5\]
 
 ## 曲目
 

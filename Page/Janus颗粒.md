@@ -1,5 +1,4 @@
-[Janus_nanoparticle.svg](https://zh.wikipedia.org/wiki/File:Janus_nanoparticle.svg "fig:Janus_nanoparticle.svg")
-**Janus颗粒**是表面由两个或两个以上不同物理性质的成分构成的特殊类型的[纳米颗粒](https://zh.wikipedia.org/wiki/纳米颗粒 "wikilink")。\[1\]这种独特的Janus纳米颗粒表面可以让两种不同类型的化学性质呈现在同一颗粒上。一个简单的例子就是将纳米颗粒分割为两个不同的部分，每个部分都由不同的材料或者修饰有不同的官能团构成的，这样便得到了Janus纳米颗粒。\[2\]例如，Janus纳米颗粒的表面可以由一半[亲水基团和一半](https://zh.wikipedia.org/wiki/亲水 "wikilink")[疏水基团构成](https://zh.wikipedia.org/wiki/疏水 "wikilink")。\[3\]这使这些颗粒具有与其不对称结构和（或）其功能化相关的独特性质。\[4\]
+[Janus_nanoparticle.svg](https://zh.wikipedia.org/wiki/File:Janus_nanoparticle.svg "fig:Janus_nanoparticle.svg") **Janus颗粒**是表面由两个或两个以上不同物理性质的成分构成的特殊类型的[纳米颗粒](https://zh.wikipedia.org/wiki/纳米颗粒 "wikilink")。\[1\]这种独特的Janus纳米颗粒表面可以让两种不同类型的化学性质呈现在同一颗粒上。一个简单的例子就是将纳米颗粒分割为两个不同的部分，每个部分都由不同的材料或者修饰有不同的官能团构成的，这样便得到了Janus纳米颗粒。\[2\]例如，Janus纳米颗粒的表面可以由一半[亲水基团和一半](https://zh.wikipedia.org/wiki/亲水 "wikilink")[疏水基团构成](https://zh.wikipedia.org/wiki/疏水 "wikilink")。\[3\]这使这些颗粒具有与其不对称结构和（或）其功能化相关的独特性质。\[4\]
 
 ## 合成
 

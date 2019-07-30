@@ -1,5 +1,4 @@
-*' tvN Drama
-Stage*'（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2017年12月2日起，每逢周六午夜12時起播出的特別短劇（tvN稱為[獨幕劇](https://zh.wikipedia.org/wiki/獨幕劇 "wikilink")）系列。\[1\]此劇集時段旨在促進電視劇及電影創作生態系統的發展，並透過這個時段令新人編劇得以憑藉他們的創作，而在影視圈中出道。\[2\]\[3\]\[4\]
+*' tvN Drama Stage*'（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2017年12月2日起，每逢周六午夜12時起播出的特別短劇（tvN稱為[獨幕劇](https://zh.wikipedia.org/wiki/獨幕劇 "wikilink")）系列。\[1\]此劇集時段旨在促進電視劇及電影創作生態系統的發展，並透過這個時段令新人編劇得以憑藉他們的創作，而在影視圈中出道。\[2\]\[3\]\[4\]
 
 ## 播放時間
 
@@ -175,22 +174,12 @@ Stage*'（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN
 
 ## 外部連結
 
-  - [tvN Drama Stage
-    官方網站](http://program.tving.com/tvn/dramastage/1/Contents/Html)
+  - [tvN Drama Stage 官方網站](http://program.tving.com/tvn/dramastage/1/Contents/Html)
 
   -
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink")
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
-[Category:TvN電視劇](https://zh.wikipedia.org/wiki/Category:TvN電視劇 "wikilink")
-[Category:TvN深夜劇集](https://zh.wikipedia.org/wiki/Category:TvN深夜劇集 "wikilink")
-[Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink")
+[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink") [Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink") [Category:TvN電視劇](https://zh.wikipedia.org/wiki/Category:TvN電視劇 "wikilink") [Category:TvN深夜劇集](https://zh.wikipedia.org/wiki/Category:TvN深夜劇集 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink")
 
-1.  [TVN Drama Stage
-    Facebook](https://www.facebook.com/tvNdramastage/photos/a.131485054232308.1073741826.131484977565649/131485057565641/?type=1&theater)，tvN，2017-11-15
-2.  [단독 tvN 개국 최초 단막극 열 편 '12월
-    첫선'](http://entertain.naver.com/read?oid=241&aid=0002697747)
-    ，NAVER，2017-08-08
+1.  [TVN Drama Stage Facebook](https://www.facebook.com/tvNdramastage/photos/a.131485054232308.1073741826.131484977565649/131485057565641/?type=1&theater)，tvN，2017-11-15
+2.  [단독 tvN 개국 최초 단막극 열 편 '12월 첫선'](http://entertain.naver.com/read?oid=241&aid=0002697747) ，NAVER，2017-08-08
 3.  [金烔完公司確定出演tvn獨幕劇](http://shinhwaofsix.pixnet.net/blog/post/179447187-%E2%96%BA%E6%96%B0%E8%81%9E%E2%97%84170821-%E9%87%91%E7%83%94%E5%AE%8C%E5%85%AC%E5%8F%B8%E2%80%9C%E7%A2%BA%E5%AE%9A%E5%87%BA%E6%BC%94tvn%E7%8D%A8%E5%B9%95)，Mydaily，2017-08-21
 4.  [gugudan美娜有望出演tvN獨幕劇](http://m.sina.com.hk/news/article/20170822/0/3/58/gugudan%E7%BE%8E%E5%A8%9C%E6%9C%89%E6%9C%9B%E5%87%BA%E6%BC%94tvN%E7%8D%A8%E5%B9%95%E5%8A%87-7821747.html)，bntNews，2017-08-22

@@ -1,17 +1,10 @@
-**AMD
-Epyc**（或者全大寫字母**EPYC**）是[AMD推出的](https://zh.wikipedia.org/wiki/AMD "wikilink")[x86架構](https://zh.wikipedia.org/wiki/x86 "wikilink")[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[微處理器產品線](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，中文名为“霄龙”，採用[Zen微架構](../Page/AMD_Zen.md "wikilink")。與2017年6月發表並開始供貨，取代推出已有14年歷史的[Opteron系列](https://zh.wikipedia.org/wiki/AMD_Opteron "wikilink")。\[1\]
+**AMD Epyc**（或者全大寫字母**EPYC**）是[AMD推出的](https://zh.wikipedia.org/wiki/AMD "wikilink")[x86架構](https://zh.wikipedia.org/wiki/x86 "wikilink")[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[微處理器產品線](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，中文名为“霄龙”，採用[Zen微架構](../Page/AMD_Zen.md "wikilink")。與2017年6月發表並開始供貨，取代推出已有14年歷史的[Opteron系列](https://zh.wikipedia.org/wiki/AMD_Opteron "wikilink")。\[1\]
 
 ## 設計概略
 
-當前EPYC全系列採用[多晶片模組設計](../Page/多晶片模組.md "wikilink")，將多顆8核心、代號「Zeppelin」的[晶片](https://zh.wikipedia.org/wiki/晶片 "wikilink")（與[Ryzen系列搭載的](https://zh.wikipedia.org/wiki/Ryzen "wikilink")「Summit
-Ridge」同源）整合在一塊[處理器基板上](https://zh.wikipedia.org/wiki/印刷電路板 "wikilink")，AMD表示這樣可以有效利用晶片電路（每顆晶片內的CCX、核心等電路單元可單獨關閉或遮蔽，可提升晶片可用率）、產品線的推出更容易多樣化、並且最重要的是晶片成本的降低帶來的低建置成本。\[2\]\[3\]當前最高規格為4顆8核心晶片組成32核心[NUMA結構](https://zh.wikipedia.org/wiki/NUMA "wikilink")，每顆8核心的處理器晶片都採用Zen微架構，晶片之間採用高頻寬、低延時的[Infinity
-Fabric互聯架構連接](https://zh.wikipedia.org/wiki/Infinity_Fabric "wikilink")。處理器容許最高雙處理器配置，之間也採用Infinity
-Fabric連接。\[4\]每顆處理器內由4個處理器晶片各自提供雙通道[記憶體控制器](https://zh.wikipedia.org/wiki/記憶體控制器 "wikilink")，組成[八通道的配置](../Page/多通道記憶體技術.md "wikilink")，每顆處理器有128條[PCIe
-3.0通道](https://zh.wikipedia.org/wiki/PCIe "wikilink")，但如果在雙處理器系統內，128條需除去CPU之間通過Infinity
-Fabric互聯佔用的64條。\[5\]
+當前EPYC全系列採用[多晶片模組](../Page/多晶片模組.md "wikilink")設計，將多顆8核心、代號「Zeppelin」的[晶片](https://zh.wikipedia.org/wiki/晶片 "wikilink")（與[Ryzen系列搭載的](https://zh.wikipedia.org/wiki/Ryzen "wikilink")「Summit Ridge」同源）整合在一塊[處理器基板上](https://zh.wikipedia.org/wiki/印刷電路板 "wikilink")，AMD表示這樣可以有效利用晶片電路（每顆晶片內的CCX、核心等電路單元可單獨關閉或遮蔽，可提升晶片可用率）、產品線的推出更容易多樣化、並且最重要的是晶片成本的降低帶來的低建置成本。\[2\]\[3\]當前最高規格為4顆8核心晶片組成32核心[NUMA結構](https://zh.wikipedia.org/wiki/NUMA "wikilink")，每顆8核心的處理器晶片都採用Zen微架構，晶片之間採用高頻寬、低延時的[Infinity Fabric互聯架構連接](https://zh.wikipedia.org/wiki/Infinity_Fabric "wikilink")。處理器容許最高雙處理器配置，之間也採用Infinity Fabric連接。\[4\]每顆處理器內由4個處理器晶片各自提供雙通道[記憶體控制器](https://zh.wikipedia.org/wiki/記憶體控制器 "wikilink")，組成[八通道的配置](../Page/多通道記憶體技術.md "wikilink")，每顆處理器有128條[PCIe 3.0通道](https://zh.wikipedia.org/wiki/PCIe "wikilink")，但如果在雙處理器系統內，128條需除去CPU之間通過Infinity Fabric互聯佔用的64條。\[5\]
 
-此外，和Ryzen系列一樣，處理器內均內建有[SATA](../Page/SATA.md "wikilink")/[SATA
-Express](../Page/SATA_Express.md "wikilink")（支援[AHCI](../Page/AHCI.md "wikilink")、[NVMe](https://zh.wikipedia.org/wiki/NVMe "wikilink")）、[USB控制器](../Page/USB.md "wikilink")，佈滿晶片內各處的數位控制[LDO和時鐘電路](https://zh.wikipedia.org/wiki/LDO "wikilink")，[主機板可無需搭載](https://zh.wikipedia.org/wiki/主機板 "wikilink")[南橋晶片](https://zh.wikipedia.org/wiki/南橋晶片 "wikilink")。這是AMD首次面向企業級市場推出如此高整合度的半[SoC化處理器產品](https://zh.wikipedia.org/wiki/SoC "wikilink")，被認為是面向[雲端運算高密度](../Page/雲端運算.md "wikilink")[資料中心的設計](https://zh.wikipedia.org/wiki/資料中心 "wikilink")，即使是老對手[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")，其[Xeon產品線也從未有過如此高整合度的產品](https://zh.wikipedia.org/wiki/Xeon "wikilink")。\[6\]
+此外，和Ryzen系列一樣，處理器內均內建有[SATA](../Page/SATA.md "wikilink")/[SATA Express](../Page/SATA_Express.md "wikilink")（支援[AHCI](../Page/AHCI.md "wikilink")、[NVMe](https://zh.wikipedia.org/wiki/NVMe "wikilink")）、[USB](../Page/USB.md "wikilink")控制器，佈滿晶片內各處的數位控制[LDO和時鐘電路](https://zh.wikipedia.org/wiki/LDO "wikilink")，[主機板可無需搭載](https://zh.wikipedia.org/wiki/主機板 "wikilink")[南橋晶片](https://zh.wikipedia.org/wiki/南橋晶片 "wikilink")。這是AMD首次面向企業級市場推出如此高整合度的半[SoC化處理器產品](https://zh.wikipedia.org/wiki/SoC "wikilink")，被認為是面向[雲端運算](../Page/雲端運算.md "wikilink")高密度[資料中心的設計](https://zh.wikipedia.org/wiki/資料中心 "wikilink")，即使是老對手[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")，其[Xeon產品線也從未有過如此高整合度的產品](https://zh.wikipedia.org/wiki/Xeon "wikilink")。\[6\]
 
 ## 處理器列表
 
@@ -19,9 +12,7 @@ Express](../Page/SATA_Express.md "wikilink")（支援[AHCI](../Page/AHCI.md "wik
 
 #### 伺服器
 
-  - [缩略图](https://zh.wikipedia.org/wiki/File:EpycProcessor.jpg "fig:缩略图")本系列採用[Socket
-    SP3插座](../Page/Socket_SP3.md "wikilink")，支援[八通道記憶體](../Page/多通道記憶體技術.md "wikilink")（由四個雙通道記憶體控制器提供支援），最多提供128個PCIe通道。EPYC系列不提供XFR，僅提供Precision
-    Boost動態加速。
+  - [缩略图](https://zh.wikipedia.org/wiki/File:EpycProcessor.jpg "fig:缩略图")本系列採用[Socket SP3插座](../Page/Socket_SP3.md "wikilink")，支援[八通道記憶體](../Page/多通道記憶體技術.md "wikilink")（由四個雙通道記憶體控制器提供支援），最多提供128個PCIe通道。EPYC系列不提供XFR，僅提供Precision Boost動態加速。
 
 <table>
 <thead>
@@ -224,8 +215,7 @@ Express](../Page/SATA_Express.md "wikilink")（支援[AHCI](../Page/AHCI.md "wik
 </tbody>
 </table>
 
-[缩略图](https://zh.wikipedia.org/wiki/File:AMD_EPYC_die.jpg "fig:缩略图")
-資料來源：\[7\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[16\]\[17\]\[18\]\[19\]\[20\]
+[缩略图](https://zh.wikipedia.org/wiki/File:AMD_EPYC_die.jpg "fig:缩略图") 資料來源：\[7\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[16\]\[17\]\[18\]\[19\]\[20\]
 
 #### 嵌入式平台
 
@@ -374,8 +364,7 @@ DDR4-2666</p></td>
   -
   -
   -
-[Category:AMD處理器](https://zh.wikipedia.org/wiki/Category:AMD處理器 "wikilink")
-[Category:2017年面世的產品](https://zh.wikipedia.org/wiki/Category:2017年面世的產品 "wikilink")
+[Category:AMD處理器](https://zh.wikipedia.org/wiki/Category:AMD處理器 "wikilink") [Category:2017年面世的產品](https://zh.wikipedia.org/wiki/Category:2017年面世的產品 "wikilink")
 
 1.
 2.  <https://www.pcper.com/reviews/Processors/AMD-EPYC-7000-Series-Data-Center-Processor-Launch-Gunning-Xeon/Architectural-Outl>

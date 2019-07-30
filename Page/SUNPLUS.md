@@ -1,6 +1,4 @@
-**SUNPLUS**，是由 [Sun
-Music](https://zh.wikipedia.org/wiki/Sun_Music "wikilink")
-組成的[日本年輕](../Page/日本.md "wikilink")[男演員團體](../Page/演員.md "wikilink")。\[1\]
+**SUNPLUS**，是由 [Sun Music](https://zh.wikipedia.org/wiki/Sun_Music "wikilink") 組成的[日本](../Page/日本.md "wikilink")年輕[男演員團體](../Page/演員.md "wikilink")。\[1\]
 
 ## 摘要
 
@@ -41,8 +39,7 @@ SUNPLUS於2015年1月成軍。\[2\]
 
 #### 目前參與演出的節目
 
-  - 猫のひたいほどワイド（[テレビ神奈川](../Page/神奈川電視台.md "wikilink")、2016年4月 - ）-
-    固定班底・曜日記者（星期二：[山形匠](https://zh.wikipedia.org/wiki/山形匠 "wikilink")・星期三：[谷水力](https://zh.wikipedia.org/wiki/谷水力 "wikilink")）\[3\]
+  - 猫のひたいほどワイド（[テレビ神奈川](../Page/神奈川電視台.md "wikilink")、2016年4月 - ）- 固定班底・曜日記者（星期二：[山形匠](https://zh.wikipedia.org/wiki/山形匠 "wikilink")・星期三：[谷水力](https://zh.wikipedia.org/wiki/谷水力 "wikilink")）\[3\]
 
 <!-- end list -->
 
@@ -51,8 +48,7 @@ SUNPLUS於2015年1月成軍。\[2\]
 
 #### 過去參與演出的節目
 
-  - さしめし（LINE LIVE、2016年4月22日） -
-    [山形匠](https://zh.wikipedia.org/wiki/山形匠 "wikilink")、[勧修寺玲旺](https://zh.wikipedia.org/wiki/勧修寺玲旺 "wikilink")、[井澤巧麻](../Page/井澤巧麻.md "wikilink")、[蔵田尚樹](https://zh.wikipedia.org/wiki/蔵田尚樹 "wikilink")、[平田雄也](https://zh.wikipedia.org/wiki/平田雄也 "wikilink")\[4\]
+  - さしめし（LINE LIVE、2016年4月22日） - [山形匠](https://zh.wikipedia.org/wiki/山形匠 "wikilink")、[勧修寺玲旺](https://zh.wikipedia.org/wiki/勧修寺玲旺 "wikilink")、[井澤巧麻](../Page/井澤巧麻.md "wikilink")、[蔵田尚樹](https://zh.wikipedia.org/wiki/蔵田尚樹 "wikilink")、[平田雄也](https://zh.wikipedia.org/wiki/平田雄也 "wikilink")\[4\]
 
 ## 活動
 
@@ -181,13 +177,11 @@ SUNPLUS於2015年1月成軍。\[2\]
   - [SUNPLUS官方網站](http://sunmusic-plus.com/)
   - [官方Twitter](https://twitter.com/sunmusicplus)
   - [Youtube官方頻道](https://www.youtube.com/channel/UCuNagCM3A3UiLqopG-RRWvw)
-  - [SUNPLUS微博](https://www.weibo.com/sunmusicplus) -
-    [微博](../Page/新浪微博.md "wikilink")
+  - [SUNPLUS微博](https://www.weibo.com/sunmusicplus) - [微博](../Page/新浪微博.md "wikilink")
 
 [Category:日本男演員](https://zh.wikipedia.org/wiki/Category:日本男演員 "wikilink")
 
 1.
 2.
-3.   デジタル3ch
-    テレビ神奈川|accessdate=2018-05-21|work=www.tvk-yokohama.com|language=ja}}
+3.   デジタル3ch テレビ神奈川|accessdate=2018-05-21|work=www.tvk-yokohama.com|language=ja}}
 4.

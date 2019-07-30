@@ -1,5 +1,4 @@
-《**Page
-Turner**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2016年3月26日起播出的特別劇，由《[聽見你的聲音](../Page/聽見你的聲音.md "wikilink")》、《[皮諾丘](https://zh.wikipedia.org/wiki/皮諾丘 "wikilink")》[朴惠蓮編劇執筆](../Page/朴惠蓮.md "wikilink")。以鋼琴為主題，描繪三位年輕人青春故事的作品。\[1\]
+《**Page Turner**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2016年3月26日起播出的特別劇，由《[聽見你的聲音](../Page/聽見你的聲音.md "wikilink")》、《[皮諾丘](https://zh.wikipedia.org/wiki/皮諾丘 "wikilink")》[朴惠蓮](../Page/朴惠蓮.md "wikilink")編劇執筆。以鋼琴為主題，描繪三位年輕人青春故事的作品。\[1\]
 
 ## 演員陣容
 
@@ -105,10 +104,7 @@ Turner**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 
   - [韓國KBS官方網站](http://www.kbs.co.kr/drama/pageturner/index.html)
 
-[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink")
-[Category:韓國校園劇](https://zh.wikipedia.org/wiki/Category:韓國校園劇 "wikilink")
-[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink")
-[Category:鋼琴與鋼琴家題材電視劇](https://zh.wikipedia.org/wiki/Category:鋼琴與鋼琴家題材電視劇 "wikilink")
+[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:韓國校園劇](https://zh.wikipedia.org/wiki/Category:韓國校園劇 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:鋼琴與鋼琴家題材電視劇](https://zh.wikipedia.org/wiki/Category:鋼琴與鋼琴家題材電視劇 "wikilink")
 
 1.  [金所炫、Jisoo確定出演KBS特別劇](http://kpopn.com/2015/11/18/317395/) Kpopn
 2.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)

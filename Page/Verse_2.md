@@ -1,24 +1,15 @@
-《**Verse 2**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JJ
-Project所推出的第一張](../Page/JJ_Project.md "wikilink")[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，同時也是他們時隔五年的回歸，於2017年7月31日發行，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，[Genie音樂發行](../Page/Genie音樂.md "wikilink")。共收錄八首曲目，主打歌為《Tomorrow,
-Today》。
+《**Verse 2**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JJ Project所推出的第一張](../Page/JJ_Project.md "wikilink")[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，同時也是他們時隔五年的回歸，於2017年7月31日發行，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，[Genie音樂](../Page/Genie音樂.md "wikilink")發行。共收錄八首曲目，主打歌為《Tomorrow, Today》。
 
 ## 背景
 
-在6月尾，JYP突然透過媒體宣佈JJ
-Project將於下半年回歸，這是他們時隔五年回歸音壇。\[1\]7月15日，在[GOT7官方網站](../Page/GOT7.md "wikilink")、臉書、推特同步公開回歸日程表\[2\]，並於7月21日至24日陸續公開專輯曲目，25、26日公開個人預告照，27日公開團體預告照，28、29日先後公開MV預告及專輯試聽。31日音源與實體專輯同步發行，並開放為期一週的
-\<내일, 오늘: PHOTO EXHIBITION\> 攝影展，中午釋出主打歌《Tomorrow, Today》的MV，晚間8點透過V
-LIVE同步直播《VERSE'2》Showcase，現場表演《Tomorrow, Today》、《Coming Home》、《Don't
-Wanna Know》及《Icarus》四首新歌。
+在6月尾，JYP突然透過媒體宣佈JJ Project將於下半年回歸，這是他們時隔五年回歸音壇。\[1\]7月15日，在[GOT7](../Page/GOT7.md "wikilink")官方網站、臉書、推特同步公開回歸日程表\[2\]，並於7月21日至24日陸續公開專輯曲目，25、26日公開個人預告照，27日公開團體預告照，28、29日先後公開MV預告及專輯試聽。31日音源與實體專輯同步發行，並開放為期一週的 \<내일, 오늘: PHOTO EXHIBITION\> 攝影展，中午釋出主打歌《Tomorrow, Today》的MV，晚間8點透過V LIVE同步直播《VERSE'2》Showcase，現場表演《Tomorrow, Today》、《Coming Home》、《Don't Wanna Know》及《Icarus》四首新歌。
 
 ### 發行版本
 
 ※ 攝影小品為預購特典。
 
-  - Tomorrow版：內含CD、寫真本一本（4款隨機）、攝影小品、寫真卡三張（Clear版2款、Boyfriend版2款、Childhood版2款，共6款隨機）、歌詞卡一張
-    (6款隨機)、復古海報一張（2款隨機）、首批限量海報（2款隨機）
-  - Today版:
-    內含CD、寫真本一本（4款隨機）、攝影小品、寫真卡三張（Clear版2款、Boyfriend版2款、Childhood版2款，共6款隨機）、歌詞卡一張
-    (6款隨機)、復古海報一張（2款隨機）、首批限量海報（2款隨機）\[3\]
+  - Tomorrow版：內含CD、寫真本一本（4款隨機）、攝影小品、寫真卡三張（Clear版2款、Boyfriend版2款、Childhood版2款，共6款隨機）、歌詞卡一張 (6款隨機)、復古海報一張（2款隨機）、首批限量海報（2款隨機）
+  - Today版: 內含CD、寫真本一本（4款隨機）、攝影小品、寫真卡三張（Clear版2款、Boyfriend版2款、Childhood版2款，共6款隨機）、歌詞卡一張 (6款隨機)、復古海報一張（2款隨機）、首批限量海報（2款隨機）\[3\]
 
 ## 曲目
 
@@ -152,8 +143,7 @@ Wanna Know》及《Icarus》四首新歌。
 
 ### 引用來源
 
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink")
+[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink")
 
 1.
 2.

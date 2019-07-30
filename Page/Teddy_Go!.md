@@ -1,11 +1,8 @@
-《**Teddy Go\!**》（） ，2015年10月10日起每周六23:40 -
-0:05（[JST](https://zh.wikipedia.org/wiki/JST "wikilink")）於[富士電視台播出的](../Page/富士電視台.md "wikilink")「[六劇](../Page/六劇.md "wikilink")」，改編自的小說，此劇亦是[森川葵個人初次主演連續劇](../Page/森川葵.md "wikilink")\[1\]。
+《**Teddy Go\!**》（） ，2015年10月10日起每周六23:40 - 0:05（[JST](https://zh.wikipedia.org/wiki/JST "wikilink")）於[富士電視台](../Page/富士電視台.md "wikilink")播出的「[六劇](../Page/六劇.md "wikilink")」，改編自的小說，此劇亦是[森川葵](../Page/森川葵.md "wikilink")個人初次主演連續劇\[1\]。
 
 ## 劇情概要
 
-主角山瀨和子（[森川葵](../Page/森川葵.md "wikilink")
-飾）是個缺乏毅力、失去工作的23歳[飛特族女子](../Page/飛特族.md "wikilink")。有一天，買了一隻一見鍾情的針織熊回家，結果針織熊突然開始說起話來。這隻針織熊原本的主人是雙親被殺害的五歲小孩。在這個事件調查中殉職的老爹刑事天野康雄（[哀川翔](https://zh.wikipedia.org/wiki/哀川翔 "wikilink")
-飾）的魂魄附身在熊身上。兩人一邊爭吵一邊合作，找出老爹刑事生前追求事件的真相。
+主角山瀨和子（[森川葵](../Page/森川葵.md "wikilink") 飾）是個缺乏毅力、失去工作的23歳[飛特族](../Page/飛特族.md "wikilink")女子。有一天，買了一隻一見鍾情的針織熊回家，結果針織熊突然開始說起話來。這隻針織熊原本的主人是雙親被殺害的五歲小孩。在這個事件調查中殉職的老爹刑事天野康雄（[哀川翔](https://zh.wikipedia.org/wiki/哀川翔 "wikilink") 飾）的魂魄附身在熊身上。兩人一邊爭吵一邊合作，找出老爹刑事生前追求事件的真相。
 
 ## 登場人物
 
@@ -47,9 +44,6 @@
   - [官方網站](http://www.fujitv.co.jp/teddygo/index.html)
   - [官方twitter](https://twitter.com/teddygo_fuji)
 
-[Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink")
-[Category:人偶主角故事](https://zh.wikipedia.org/wiki/Category:人偶主角故事 "wikilink")
-[Category:日本推理小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本推理小說改編電視劇 "wikilink")
-[Category:熱海市背景作品](https://zh.wikipedia.org/wiki/Category:熱海市背景作品 "wikilink")
+[Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink") [Category:人偶主角故事](https://zh.wikipedia.org/wiki/Category:人偶主角故事 "wikilink") [Category:日本推理小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本推理小說改編電視劇 "wikilink") [Category:熱海市背景作品](https://zh.wikipedia.org/wiki/Category:熱海市背景作品 "wikilink")
 
 1.

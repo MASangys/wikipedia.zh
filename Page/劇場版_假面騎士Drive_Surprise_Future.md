@@ -1,15 +1,12 @@
-《**劇場版 假面騎士Drive SURPRISE
-FUTURE**》（），是日本特攝節目《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的獨立劇場版。日本地區於2015年8月8日上映。
+《**劇場版 假面騎士Drive SURPRISE FUTURE**》（），是日本特攝節目《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的獨立劇場版。日本地區於2015年8月8日上映。
 
-此外[超級戰隊系列作品](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")《[手裏劍戰隊忍忍者](../Page/手裏劍戰隊忍忍者.md "wikilink")》劇場版《[手裏劍戰隊忍忍者
-THE MOVIE
-恐龍殿下的驚天忍法帖！](../Page/手裏劍戰隊忍忍者_THE_MOVIE_恐龍殿下的驚天忍法帖！.md "wikilink")》亦同步上映。
+此外[超級戰隊系列作品](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")《[手裏劍戰隊忍忍者](../Page/手裏劍戰隊忍忍者.md "wikilink")》劇場版《[手裏劍戰隊忍忍者 THE MOVIE 恐龍殿下的驚天忍法帖！](../Page/手裏劍戰隊忍忍者_THE_MOVIE_恐龍殿下的驚天忍法帖！.md "wikilink")》亦同步上映。
 
 本作劇場版的口號為「最後究極的高潮！」、「未來、是否還有希望。假面騎士Drive、是導致人類滅亡的〈惡魔〉」。
 
 ## 本作特色
 
-知名演員[千葉真一兒子](https://zh.wikipedia.org/wiki/千葉真一 "wikilink")[真劍佑會為本作演出](https://zh.wikipedia.org/wiki/真劍佑 "wikilink")，另外[筧美和子和](../Page/筧美和子.md "wikilink")[柳澤慎吾亦參演電影](../Page/柳澤慎吾.md "wikilink")。\[1\]\[2\]
+知名演員[千葉真一兒子](https://zh.wikipedia.org/wiki/千葉真一 "wikilink")[真劍佑會為本作演出](https://zh.wikipedia.org/wiki/真劍佑 "wikilink")，另外[筧美和子](../Page/筧美和子.md "wikilink")和[柳澤慎吾](../Page/柳澤慎吾.md "wikilink")亦參演電影。\[1\]\[2\]
 
 此外相隔《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》及《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的獨立劇場版系列過後，再度引用讓未公開的續作假面騎士先行登場的慣例，即是下一部系列作品《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》的主角假面騎士會在本作登場。\[3\]
 
@@ -19,8 +16,7 @@ THE MOVIE
 
 來自未來的英志目的是為了警示父親，在2015年8月5日「腰帶先生」開始暴走，成為契機一年後惡路程式會征服世界。但接著「預言」真的說中了，「腰帶先生」發生異常並發動大規模的破壞行為，市民的英雄假面騎士Drive成為了全國通緝犯。
 
-根據英志所說「腰帶先生」的系統本身就是克里姆‧施丹伯特為了毀滅人類而策劃的程式，進之介起初都無法相信，但在這危機的旋渦中從未來追踪英志，駕駛次世賽特朗的神秘戰士假面騎士Dark
-Drive出現！並以壓倒性的力量擊敗假面騎士Mach和假面騎士Chaser。前所未有的強大敵人，逼近中的最壞未來……一直以來，任何時候都一起戰鬥的搭檔成為了人類最大的威脅。剩下的路只有一條，唯有由自己對搭檔動手。
+根據英志所說「腰帶先生」的系統本身就是克里姆‧施丹伯特為了毀滅人類而策劃的程式，進之介起初都無法相信，但在這危機的旋渦中從未來追踪英志，駕駛次世賽特朗的神秘戰士假面騎士Dark Drive出現！並以壓倒性的力量擊敗假面騎士Mach和假面騎士Chaser。前所未有的強大敵人，逼近中的最壞未來……一直以來，任何時候都一起戰鬥的搭檔成為了人類最大的威脅。剩下的路只有一條，唯有由自己對搭檔動手。
 
 為了未來、守護人類，被逼著做出決斷的進之介終於親手-{把}-「腰帶先生」破壞了！
 
@@ -50,13 +46,13 @@ Drive出現！並以壓倒性的力量擊敗假面騎士Mach和假面騎士Chase
     **假面騎士Mach**的變身者。詩島霧子的親弟。
     與警視廳共同追捕泊進之介時卻因而捲入了惡鬥之中。
 
-**Chase（）**（[上遠野太洸飾](../Page/上遠野太洸.md "wikilink")）
+**Chase（）**（[上遠野太洸](../Page/上遠野太洸.md "wikilink")飾）
 
   -
     **假面騎士Chaser**的變身者。
     為了泊進之介被通緝之事獨自找上了Heart，從對方的情報當中懷疑事件可能與惡路程式108有關。
 
-**詩島霧子（）**（[內田理央飾](../Page/內田理央.md "wikilink")）
+**詩島霧子（）**（[內田理央](../Page/內田理央.md "wikilink")飾）
 
   -
     警視廳的巡查，隸屬特狀課的女警，詩島剛的親姊，泊進之介的妻子，泊英志的母親。
@@ -73,22 +69,22 @@ Drive出現！並以壓倒性的力量擊敗假面騎士Mach和假面騎士Chase
   -
     警視廳的警視，亦是特狀課的創立人兼課長。
 
-**澤神鈴奈（）**（[吉井怜飾](../Page/吉井怜.md "wikilink")）
+**澤神鈴奈（）**（[吉井怜](../Page/吉井怜.md "wikilink")飾）
 
   -
     電子物理研究學家，警視廳所外派至特狀課負責技術支援。
 
-**西城究（）**（[濱野謙太飾](../Page/濱野謙太.md "wikilink")）
+**西城究（）**（[濱野謙太](../Page/濱野謙太.md "wikilink")飾）
 
   -
     警視廳外派至特狀課，負責情報搜索的網絡研究家。
 
-**追田現八郎（）**（[井俣太良飾](../Page/井俣太良.md "wikilink")）
+**追田現八郎（）**（[井俣太良](../Page/井俣太良.md "wikilink")飾）
 
   -
     警視廳搜查一課的警部補，與特狀課聯繫的特派成員。
 
-**Heart（）**（[蕨野友也飾](../Page/蕨野友也.md "wikilink")）
+**Heart（）**（[蕨野友也](../Page/蕨野友也.md "wikilink")飾）
 
   -
     統領一眾惡路程式的幹部之一。
@@ -178,9 +174,7 @@ Drive出現！並以壓倒性的力量擊敗假面騎士Mach和假面騎士Chase
 
   -
     原文： / *NexTridoron*
-    假面騎士Drive及假面騎士Dark
-    Drive的交通工具，現實中原形是[梅賽德斯-賓士AMG](../Page/梅賽德斯-賓士.md "wikilink")
-    GT。
+    假面騎士Drive及假面騎士Dark Drive的交通工具，現實中原形是[梅賽德斯-賓士](../Page/梅賽德斯-賓士.md "wikilink")AMG GT。
     未來開發的新型號賽特朗，同樣可以連接Drive驅動器的人工智能進行遙距操作，車身各部位能夠產生能量體砲台發射光束彈攻擊。
 
 ##### 專屬武裝
@@ -245,7 +239,7 @@ Drive出現！並以壓倒性的力量擊敗假面騎士Mach和假面騎士Chase
   -
     原文：
     Drive驅動器的記憶晶片兼賽特朗的車鑰，儲存了從以前到現在的戰鬥數據和「腰帶先生」所有的記憶資料。
-    使用性質與移速戰車及信號摩托相同，接入Mach驅動器內作變身的[USB型工具](../Page/USB.md "wikilink")。
+    使用性質與移速戰車及信號摩托相同，接入Mach驅動器內作變身的[USB](../Page/USB.md "wikilink")型工具。
 
 ##### 交通工具
 
@@ -330,8 +324,7 @@ Drive出現！並以壓倒性的力量擊敗假面騎士Mach和假面騎士Chase
   - \* **悖論惡路程式**
     :原文： / *Paradox Roidmude*
     :由未來2035年與現代2015年兩者的惡路程式108融合後進化的形態。
-    :所發動別稱為「永遠的Global
-    Freeze」的「重加速」足以覆蓋全世界，達至除[悖論外使一切萬物完全靜止的效果](https://zh.wikipedia.org/wiki/悖論 "wikilink")。
+    :所發動別稱為「永遠的Global Freeze」的「重加速」足以覆蓋全世界，達至除[悖論外使一切萬物完全靜止的效果](https://zh.wikipedia.org/wiki/悖論 "wikilink")。
 
 <!-- end list -->
 
@@ -432,7 +425,7 @@ Drive出現！並以壓倒性的力量擊敗假面騎士Mach和假面騎士Chase
 
   -
     原題：
-    [朝日電視台於](../Page/朝日電視台.md "wikilink")2015年7月19日劇集本編第38話開始，在結尾部份播出共四集的一分鐘短劇。
+    [朝日電視台](../Page/朝日電視台.md "wikilink")於2015年7月19日劇集本編第38話開始，在結尾部份播出共四集的一分鐘短劇。
     故事描述2035年泊英志被假面騎士Dark Drive追擊同時，亦一邊設法到達2015年。
 
 <table>
@@ -488,10 +481,8 @@ Drive出現！並以壓倒性的力量擊敗假面騎士Mach和假面騎士Chase
 <!-- end list -->
 
   - **《劇場版 假面騎士Drive SURPRISE FUTURE》**珍藏版（2016年1月6日發行）
-      - 電影本編 [Blu-ray](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")
-        / [DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")
-      - 映像特典 [Blu-ray](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")
-        / [DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")
+      - 電影本編 [Blu-ray](https://zh.wikipedia.org/wiki/Blu-ray "wikilink") / [DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")
+      - 映像特典 [Blu-ray](https://zh.wikipedia.org/wiki/Blu-ray "wikilink") / [DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")
           - 製作發表記者會
           - 完成披露活動
           - 完成披露上映舞台見面會
@@ -504,15 +495,12 @@ Drive出現！並以壓倒性的力量擊敗假面騎士Mach和假面騎士Chase
 
 ## 演員
 
-  - 泊進之介 / 假面騎士Drive / 假面騎士超Dead Heat Drive -
-    [竹內涼真](../Page/竹內涼真.md "wikilink") 飾/聲
-  - 詩島剛 / 假面騎士Mach - [稻葉友](https://zh.wikipedia.org/wiki/稻葉友 "wikilink")
-    飾/聲
+  - 泊進之介 / 假面騎士Drive / 假面騎士超Dead Heat Drive - [竹內涼真](../Page/竹內涼真.md "wikilink") 飾/聲
+  - 詩島剛 / 假面騎士Mach - [稻葉友](https://zh.wikipedia.org/wiki/稻葉友 "wikilink") 飾/聲
   - Chase / 假面騎士Chaser - [上遠野太洸](../Page/上遠野太洸.md "wikilink") 飾/聲
   - 詩島霧子 - [內田理央](../Page/內田理央.md "wikilink") 飾
   - 克里姆‧施丹伯特 / 腰帶先生（Drive驅動器）、惡路程式004（人類形態） -  飾/聲
-  - 泊英志、惡路程式108（人類形態）/ 假面騎士Dark Drive -
-    [真劍佑](https://zh.wikipedia.org/wiki/真劍佑 "wikilink") 飾/聲
+  - 泊英志、惡路程式108（人類形態）/ 假面騎士Dark Drive - [真劍佑](https://zh.wikipedia.org/wiki/真劍佑 "wikilink") 飾/聲
   - 花咲未来 - [筧美和子](../Page/筧美和子.md "wikilink") 飾
   - 古葉進次 - [柳澤慎吾](../Page/柳澤慎吾.md "wikilink") 飾
   - 本願寺純 -  飾
@@ -589,12 +577,8 @@ Drive出現！並以壓倒性的力量擊敗假面騎士Mach和假面騎士Chase
 ## 製作人員
 
   - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")
-  - 製作 -
-    （[東映](../Page/東映.md "wikilink")）、（[朝日電視台](../Page/朝日電視台.md "wikilink")）、高木勝裕（[TOEI
-    ANIMATION](https://zh.wikipedia.org/wiki/TOEI_ANIMATION "wikilink")）、間宮登良松（）、高木智悌（[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")）、松田英史（）、垰義孝（[萬代](../Page/萬代.md "wikilink")）
-  - 企劃 - （東映）、林雄一郎（朝日電視台）、（TOEI ANIMATION）、加藤和夫（TOEI
-    VIDEO）、波多野淳一（旭通廣告）、正田和樹（TOEI
-    ADVERTISING）、小野口征（萬代）
+  - 製作 - （[東映](../Page/東映.md "wikilink")）、（[朝日電視台](../Page/朝日電視台.md "wikilink")）、高木勝裕（[TOEI ANIMATION](https://zh.wikipedia.org/wiki/TOEI_ANIMATION "wikilink")）、間宮登良松（）、高木智悌（[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")）、松田英史（）、垰義孝（[萬代](../Page/萬代.md "wikilink")）
+  - 企劃 - （東映）、林雄一郎（朝日電視台）、（TOEI ANIMATION）、加藤和夫（TOEI VIDEO）、波多野淳一（旭通廣告）、正田和樹（TOEI ADVERTISING）、小野口征（萬代）
   - 監製 - 小野寺章（石森プロ）
   - 執行製作人 - （朝日電視台）
   - 製作人 - 、望月卓（東映）、菅野亞由美（朝日電視台）
@@ -633,8 +617,7 @@ Drive出現！並以壓倒性的力量擊敗假面騎士Mach和假面騎士Chase
 
   - 製作生產 - TOEI TV Production
   - 發行 - [東映](../Page/東映.md "wikilink")
-  - 製作單位 - 「Drive・忍忍者」製作委員會（東映、朝日電視台、TOEI ANIMATION、TOEI VIDEO、旭通廣告、TOEI
-    ADVERTISING,LTD.、萬代）
+  - 製作單位 - 「Drive・忍忍者」製作委員會（東映、朝日電視台、TOEI ANIMATION、TOEI VIDEO、旭通廣告、TOEI ADVERTISING,LTD.、萬代）
   - 導演 -
 
 ## 外部連結
@@ -643,8 +626,7 @@ Drive出現！並以壓倒性的力量擊敗假面騎士Mach和假面騎士Chase
 
 ## 参考资料
 
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
-[Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink")
+[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink")
 
 1.  [『仮面ライダードライブ』『手裏剣戦隊ニンニンジャー』劇場版ゲスト出演者が決定！](http://cinema.pia.co.jp/news/167157/63016/)
 2.  [真剣佑から千葉真一に伝言、仮面ライダードライブ＆ニンニンジャー製作会見](http://natalie.mu/eiga/news/150094)

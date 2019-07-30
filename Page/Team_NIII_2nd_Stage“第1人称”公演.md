@@ -1,11 +1,8 @@
-**GNZ48 Team NIII 2nd
-Stage「第1人稱」公演**是[GNZ48的剧场公演](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")，此套公演同時也是GNZ48的首套原創公演，由Team
-NIII演繹\[1\]。
+**GNZ48 Team NIII 2nd Stage「第1人稱」公演**是[GNZ48的剧场公演](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")，此套公演同時也是GNZ48的首套原創公演，由Team NIII演繹\[1\]。
 
 ## 概要
 
-本场公演为GNZ48首台原创公演，是GNZ48數字系列公演的開山之作。与前一套公演不一样的是，Team
-NIII的成员们在本次新公演中尝试了多种舞蹈表演方式，挑战了不同的曲风。為將來的原創公演積累經驗。
+本场公演为GNZ48首台原创公演，是GNZ48數字系列公演的開山之作。与前一套公演不一样的是，Team NIII的成员们在本次新公演中尝试了多种舞蹈表演方式，挑战了不同的曲风。為將來的原創公演積累經驗。
 
 ## 公演曲目
 
@@ -94,8 +91,7 @@ NIII的成员们在本次新公演中尝试了多种舞蹈表演方式，挑战�
 
 ## 轶事
 
-  - 该公演曾于2018年6月30日成为SNH48
-    Group各套公演中由同一队伍表演场次最多的公演，惟该记录于2019年3月1日被《[双面偶像](https://zh.wikipedia.org/wiki/Team_G_3rd_Stage“双面偶像”公演 "wikilink")》打破。
+  - 该公演曾于2018年6月30日成为SNH48 Group各套公演中由同一队伍表演场次最多的公演，惟该记录于2019年3月1日被《[双面偶像](https://zh.wikipedia.org/wiki/Team_G_3rd_Stage“双面偶像”公演 "wikilink")》打破。
 
 ## 參考資料
 

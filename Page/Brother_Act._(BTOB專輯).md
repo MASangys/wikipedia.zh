@@ -1,55 +1,36 @@
-《**Brother
-Act.**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB的第二張](../Page/BTOB.md "wikilink")[韓語正規專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，專輯名稱的靈感來自於[美國電影](https://zh.wikipedia.org/wiki/美國 "wikilink")《[修女也瘋狂](https://zh.wikipedia.org/wiki/修女也瘋狂 "wikilink")》（），是一張以BTOB獨有的音樂風格、從第一首到最後一首歌曲都像戲劇般表現的專輯，於2017年10月16日發行，主打歌曲為《想念》（）。\[1\]
+《**Brother Act.**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的第二張[韓語正規專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，專輯名稱的靈感來自於[美國電影](https://zh.wikipedia.org/wiki/美國 "wikilink")《[修女也瘋狂](https://zh.wikipedia.org/wiki/修女也瘋狂 "wikilink")》（），是一張以BTOB獨有的音樂風格、從第一首到最後一首歌曲都像戲劇般表現的專輯，於2017年10月16日發行，主打歌曲為《想念》（）。\[1\]
 
 ## 背景
 
 2017年9月15日，韓國媒體表示BTOB將於10月中旬回歸樂壇，並透露主打曲是能完美展現BTOB音樂世界的抒情歌曲 \[2\]。
 
-9月22日，正式宣布回歸日期為10月16日 \[3\]。 9月25日，公開專輯概念照與專輯名稱 \[4\]。9月26日，公開專輯日程表
-\[5\]。
+9月22日，正式宣布回歸日期為10月16日 \[3\]。 9月25日，公開專輯概念照與專輯名稱 \[4\]。9月26日，公開專輯日程表 \[5\]。
 
 9月27日，公開第一波團體及七名成員的概念照 \[6\]；9月29日，公開第二波概念照 \[7\]。
 
-10月2－8日，依序公開七名成員的[預告影片](https://zh.wikipedia.org/wiki/Brother_Act._\(BTOB專輯\)_#預告影片 "wikilink")。10月10日，公開Track
-List \[8\] 及專輯配置圖 \[9\]。
+10月2－8日，依序公開七名成員的[預告影片](https://zh.wikipedia.org/wiki/Brother_Act._\(BTOB專輯\)_#預告影片 "wikilink")。10月10日，公開Track List \[8\] 及專輯配置圖 \[9\]。
 
-10月12日，公開全專輯試聽影片 \[10\]\[11\]。10月13日，公開第一波《想念》MV Teaser
-\[12\]\[13\]；10月16日，公開第二波MV Teaser \[14\]\[15\]。
+10月12日，公開全專輯試聽影片 \[10\]\[11\]。10月13日，公開第一波《想念》MV Teaser \[12\]\[13\]；10月16日，公開第二波MV Teaser \[14\]\[15\]。
 
-10月16日，韓國時間17時於V Live進行回歸直播放送
-\[16\]，並於18時公開《想念》完整版MV及全專輯音源。10月17日，公開《想念》應援教學影片
-\[17\]。
+10月16日，韓國時間17時於V Live進行回歸直播放送 \[16\]，並於18時公開《想念》完整版MV及全專輯音源。10月17日，公開《想念》應援教學影片 \[17\]。
 
-主打歌曲《想念》，由成員[炫植作曲填詞編曲](https://zh.wikipedia.org/wiki/炫植 "wikilink")，[旼赫](https://zh.wikipedia.org/wiki/旼赫 "wikilink")、[Peniel](https://zh.wikipedia.org/wiki/Peniel "wikilink")、[鎰勳參與Rap填詞](https://zh.wikipedia.org/wiki/鎰勳 "wikilink")，表述對離別的戀人淡然的表達仍然想念的心情，是BTOB擅長的感性抒情曲
-\[18\]。歌曲也在副歌歌詞「一年就過去了」和「想念著你」的部分將[手語加入編舞之中](../Page/手語.md "wikilink")
-\[19\]。
+主打歌曲《想念》，由成員[炫植作曲填詞編曲](https://zh.wikipedia.org/wiki/炫植 "wikilink")，[旼赫](https://zh.wikipedia.org/wiki/旼赫 "wikilink")、[Peniel](https://zh.wikipedia.org/wiki/Peniel "wikilink")、[鎰勳參與Rap填詞](https://zh.wikipedia.org/wiki/鎰勳 "wikilink")，表述對離別的戀人淡然的表達仍然想念的心情，是BTOB擅長的感性抒情曲 \[18\]。歌曲也在副歌歌詞「一年就過去了」和「想念著你」的部分將[手語](../Page/手語.md "wikilink")加入編舞之中 \[19\]。
 
 ## 迴響
 
-2017年10月16日，音源公開即空降音源實時榜 Naver
-Music2位、Genie、Bugs、MelOn3位、Soribada13位、Mnet18位。特別是MelOn、Soribada、Naver
-Music、Genie、Bugs五榜中，其餘十一首收錄歌曲均佔據榜單上游位置，而後主打曲於韓國時間21時在MelOn、Genie、Bugs、Naver
-Music、Monkey3、Olleh等六榜上升至1位
-\[20\]。Genie、Bugs、Olleh三榜自韓國時間16日21時起至17日15時為止，連續20小時位於榜單1位；而MelOn於韓國時間16日20時起至20日11時連續86小時蟬聯1位，打破自身紀錄。\[21\]\[22\]
+2017年10月16日，音源公開即空降音源實時榜 Naver Music2位、Genie、Bugs、MelOn3位、Soribada13位、Mnet18位。特別是MelOn、Soribada、Naver Music、Genie、Bugs五榜中，其餘十一首收錄歌曲均佔據榜單上游位置，而後主打曲於韓國時間21時在MelOn、Genie、Bugs、Naver Music、Monkey3、Olleh等六榜上升至1位 \[20\]。Genie、Bugs、Olleh三榜自韓國時間16日21時起至17日15時為止，連續20小時位於榜單1位；而MelOn於韓國時間16日20時起至20日11時連續86小時蟬聯1位，打破自身紀錄。\[21\]\[22\]
 
-2017年10月21日，《想念》獲得2017年[Gaon數位下載榜第](../Page/2017年Gaon數位下載冠軍作品列表.md "wikilink")42週週榜冠軍
-\[23\]。
+2017年10月21日，《想念》獲得2017年[Gaon數位下載榜第](../Page/2017年Gaon數位下載冠軍作品列表.md "wikilink")42週週榜冠軍 \[23\]。
 
-2017年10月25日，於[MBC Music](../Page/MBC_Plus_Media.md "wikilink")《[Show
-Champion](../Page/Show_Champion.md "wikilink")》獲得回歸後首個一位。10月26日，於[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M
-Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》獲得一位。10月27日，於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Music
-Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》獲得一位。10月29日，獲得[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》初一位
-\[24\]。
+2017年10月25日，於[MBC Music](../Page/MBC_Plus_Media.md "wikilink")《[Show Champion](../Page/Show_Champion.md "wikilink")》獲得回歸後首個一位。10月26日，於[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》獲得一位。10月27日，於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》獲得一位。10月29日，獲得[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》初一位 \[24\]。
 
-2017年11月1、2、5日，分別於《Show Champion》、《M Countdown》、《人氣歌謠》連續兩週獲得一位。
-\[25\]\[26\]。本次回歸BTOB以《想念》連續獲得一位成為七冠王。
+2017年11月1、2、5日，分別於《Show Champion》、《M Countdown》、《人氣歌謠》連續兩週獲得一位。 \[25\]\[26\]。本次回歸BTOB以《想念》連續獲得一位成為七冠王。
 
-2018年10月，《想念》在Gaon Chart音源榜單的在線收聽人數流媒體突破一億，是韓國歷年來第五個擁有流媒破億歌曲的男團
-\[27\]；該曲在Melon的首日收聽人數為631,907人次。\[28\]
+2018年10月，《想念》在Gaon Chart音源榜單的在線收聽人數流媒體突破一億，是韓國歷年來第五個擁有流媒破億歌曲的男團 \[27\]；該曲在Melon的首日收聽人數為631,907人次。\[28\]
 
 2019年2月，《想念》在Gaon Chart獲得串流媒體量突破1億、下載量突破250萬之認證。\[29\]
 
-2019年3月，《想念》在[Spotify的串流媒體數突破](../Page/Spotify.md "wikilink")1千萬。
+2019年3月，《想念》在[Spotify](../Page/Spotify.md "wikilink")的串流媒體數突破1千萬。
 
 截至2019年6月，《想念》自發行至今未掉出Melon TOP100週榜榜單之外。\[30\]
 
@@ -61,8 +42,7 @@ Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》獲得一位。10�
 
 | music_credits = yes | lyrics_credits = yes | arranger_credits = yes
 
-| title1 = 序曲：一天 | note1 =  | music1 = [任炫植](../Page/任炫植.md "wikilink")
-| lyrics1 = | arranger1 = | length1 = 0:59
+| title1 = 序曲：一天 | note1 =  | music1 = [任炫植](../Page/任炫植.md "wikilink") | lyrics1 = | arranger1 = | length1 = 0:59
 
 | title2 = **想念** | note2 =  | music2 = 任炫植
 EDEN | lyrics2 = 任炫植
@@ -97,8 +77,7 @@ Ferdy | length4 = 3:29
 Peniel（RAP）
 鄭鎰勳（RAP） | arranger5 = 徐在宇 | length5 = 3:57
 
-| title6 = 間奏曲：Brother Act. | note6 = Interlude：Brother Act. | music6 =
-| lyrics6 = | arranger6 = | length6 = 2:19
+| title6 = 間奏曲：Brother Act. | note6 = Interlude：Brother Act. | music6 = | lyrics6 = | arranger6 = | length6 = 2:19
 
 | title7 = Na Na Na | note7 =  | music7 = 朴三楚（빅싼초）
 趙成浩（조성호） | lyrics7 = 朴三楚
@@ -429,46 +408,28 @@ COMEBACK V LIVE</a></p></td>
 
 ## 外部連結
 
-  - [BTOB Official YouTube
-    Channel](https://www.youtube.com/channel/UCgB7A457ULlgm5c3948vr-w)
-  - [1theK Channel
-    BTOB](https://www.youtube.com/playlist?list=PLID4CZACkMJTYTBLU2rDe1HcJ3vTiaE5A)
+  - [BTOB Official YouTube Channel](https://www.youtube.com/channel/UCgB7A457ULlgm5c3948vr-w)
+  - [1theK Channel BTOB](https://www.youtube.com/playlist?list=PLID4CZACkMJTYTBLU2rDe1HcJ3vTiaE5A)
 
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
-[Category:BTOB音樂專輯](https://zh.wikipedia.org/wiki/Category:BTOB音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2017年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon數位下載週榜冠軍作品 "wikilink")
+[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:BTOB音樂專輯](https://zh.wikipedia.org/wiki/Category:BTOB音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2017年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon數位下載週榜冠軍作品 "wikilink")
 
-1.  [因信賴而聆聽！BTOB
-    公開曲目表　首首都有成員參與創作](http://www.koreastardaily.com/tc/news/98862)
-    2017-10-10 韓星網
+1.  [因信賴而聆聽！BTOB 公開曲目表　首首都有成員參與創作](http://www.koreastardaily.com/tc/news/98862) 2017-10-10 韓星網
 
-2.  [BTOB 有望於10月發表新專輯回歸！](https://kpopn.niusnews.com/=K1xcbvb2)
-    2017-09-25 KPOPN
+2.  [BTOB 有望於10月發表新專輯回歸！](https://kpopn.niusnews.com/=K1xcbvb2) 2017-09-25 KPOPN
 
-3.  [BTOB 確定10月16日以正規專輯回歸](https://kpopn.niusnews.com/=K1d9c9d4)
-    2017-09-25 KPOPN
+3.  [BTOB 確定10月16日以正規專輯回歸](https://kpopn.niusnews.com/=K1d9c9d4) 2017-09-25 KPOPN
 
-4.  [BTOB 2nd Album〔Brother
-    Act.〕](https://twitter.com/OFFICIALBTOB/status/911968598775574528)
-    OFFICIALBTOB Twitter
+4.  [BTOB 2nd Album〔Brother Act.〕](https://twitter.com/OFFICIALBTOB/status/911968598775574528) OFFICIALBTOB Twitter
 
-5.  [BTOB 2nd Album〔Brother Act.〕Comeback
-    Schedule](https://twitter.com/OFFICIALBTOB/status/912330898359513088)
-    OFFICIALBTOB Twitter
+5.  [BTOB 2nd Album〔Brother Act.〕Comeback Schedule](https://twitter.com/OFFICIALBTOB/status/912330898359513088) OFFICIALBTOB Twitter
 
-6.  [BTOB《Brother Act.》秋日氣息概念照](https://kpopn.niusnews.com/=K32wwp83)
-    2017-09-29 KPOPN
+6.  [BTOB《Brother Act.》秋日氣息概念照](https://kpopn.niusnews.com/=K32wwp83) 2017-09-29 KPOPN
 
-7.  [BTOB《Brother Act.》第二波概念照](https://kpopn.niusnews.com/=K2jppp76)
-    2017-09-29 KPOPN
+7.  [BTOB《Brother Act.》第二波概念照](https://kpopn.niusnews.com/=K2jppp76) 2017-09-29 KPOPN
 
-8.  [BTOB《Brother Act.》曲目表公開](https://kpopn.niusnews.com/=K0mwgal6)
-    2017-10-12 KPOPN
+8.  [BTOB《Brother Act.》曲目表公開](https://kpopn.niusnews.com/=K0mwgal6) 2017-10-12 KPOPN
 
-9.  [BTOB 두 번째 정규앨범〔Brother Act.〕예약 판매
-    안내](https://twitter.com/OFFICIALBTOB/status/917576051512840192)
-    OFFICIALBTOB Twitter
+9.  [BTOB 두 번째 정규앨범〔Brother Act.〕예약 판매 안내](https://twitter.com/OFFICIALBTOB/status/917576051512840192) OFFICIALBTOB Twitter
 
 10.
 
@@ -486,70 +447,45 @@ COMEBACK V LIVE</a></p></td>
 
 17.
 
-18. [비투비, 임현식 자작곡으로 컴백..정규2집 트랙리스트
-    공개](http://entertain.naver.com/read?oid=109&aid=0003633928&lfrom=twitter)
-    2017-10-10 NAVER
+18. [비투비, 임현식 자작곡으로 컴백..정규2집 트랙리스트 공개](http://entertain.naver.com/read?oid=109&aid=0003633928&lfrom=twitter) 2017-10-10 NAVER
 
-19. [BTOB新歌有巧思！　對應歌詞「手語編舞」全為失聰粉絲](https://star.ettoday.net/news/1036271)
-    2017-10-22 ETtoday
+19. [BTOB新歌有巧思！　對應歌詞「手語編舞」全為失聰粉絲](https://star.ettoday.net/news/1036271) 2017-10-22 ETtoday
 
-20. ["믿고 듣는 비투비표 발라드"···'그리워하다' 5개
-    음원차트 1위](http://m.entertain.naver.com/read?oid=011&aid=0003131190)
-    2017-10-17 NAVER
+20. ["믿고 듣는 비투비표 발라드"···'그리워하다' 5개 음원차트 1위](http://m.entertain.naver.com/read?oid=011&aid=0003131190) 2017-10-17 NAVER
 
-21. [BTOB《Missing
-    You》音源榜一位感言「想把榮耀歸給粉絲」](https://www.kpopn.com/2017/10/18/btob%e3%80%8amissing-you%e3%80%8b%e9%9f%b3%e6%ba%90%e6%a6%9c%e4%b8%80%e4%bd%8d%e6%84%9f%e8%a8%80%e3%80%8c%e6%83%b3%e6%8a%8a%e6%a6%ae%e8%80%80%e6%ad%b8%e7%b5%a6%e7%b2%89%e7%b5%b2%e3%80%8d/)
-    2017-10-19 KPOPN
+21. [BTOB《Missing You》音源榜一位感言「想把榮耀歸給粉絲」](https://www.kpopn.com/2017/10/18/btob%e3%80%8amissing-you%e3%80%8b%e9%9f%b3%e6%ba%90%e6%a6%9c%e4%b8%80%e4%bd%8d%e6%84%9f%e8%a8%80%e3%80%8c%e6%83%b3%e6%8a%8a%e6%a6%ae%e8%80%80%e6%ad%b8%e7%b5%a6%e7%b2%89%e7%b5%b2%e3%80%8d/) 2017-10-19 KPOPN
 
-22. [비투비, "꿈만 같은 1위···이만큼 큰 사랑 받을
-    자격있을까"](http://m.entertain.naver.com/read?oid=011&aid=0003132156)
-    2017-10-18 NAVER
+22. [비투비, "꿈만 같은 1위···이만큼 큰 사랑 받을 자격있을까"](http://m.entertain.naver.com/read?oid=011&aid=0003132156) 2017-10-18 NAVER
 
-23. [2017년 42주차 Download
-    Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=S1020&targetTime=42&hitYear=2017&termGbn=week)
+23. [2017년 42주차 Download Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=S1020&targetTime=42&hitYear=2017&termGbn=week)
 
-24. [出道後第一次！BTOB
-    今日在《人氣歌謠》奪冠](https://www.koreastardaily.com/tc/news/99398)
-    2017-10-30 韓星網
+24. [出道後第一次！BTOB 今日在《人氣歌謠》奪冠](https://www.koreastardaily.com/tc/news/99398) 2017-10-30 韓星網
 
-25. [BTOB 的季節來臨　〈Missing
-    You〉第五冠入袋！](https://www.koreastardaily.com/tc/news/99503)
-    2017-11-02 韓星網
+25. [BTOB 的季節來臨　〈Missing You〉第五冠入袋！](https://www.koreastardaily.com/tc/news/99503) 2017-11-02 韓星網
 
-26. [BTOB 氣勢大開　今日蟬聯《M\!
-    Countdown》雙週冠軍！](https://www.koreastardaily.com/tc/news/99532)
-    2017-11-02 韓星網
+26. [BTOB 氣勢大開　今日蟬聯《M\! Countdown》雙週冠軍！](https://www.koreastardaily.com/tc/news/99532) 2017-11-02 韓星網
 
 27.
 
-28. [2018年Melon改版後男偶像24小時收聽人數排名](https://www.instiz.net/name_enter/58602542)
-    instiz
+28. [2018年Melon改版後男偶像24小時收聽人數排名](https://www.instiz.net/name_enter/58602542) instiz
 
-29. [GAON′s
-    관찰노트](http://gaonchart.co.kr/main/section/article/view.gaon?idx=15014&sgenre=opinion&search_str=)
+29. [GAON′s 관찰노트](http://gaonchart.co.kr/main/section/article/view.gaon?idx=15014&sgenre=opinion&search_str=)
 
 30.
 
-31. [BTOB 2nd Album〔Brother
-    Act.〕그짤 01](https://twitter.com/OFFICIALBTOB/status/914710335831121920)
+31. [BTOB 2nd Album〔Brother Act.〕그짤 01](https://twitter.com/OFFICIALBTOB/status/914710335831121920)
 
-32. [BTOB 2nd Album〔Brother
-    Act.〕그짤 02](https://twitter.com/OFFICIALBTOB/status/915010512974372864)
+32. [BTOB 2nd Album〔Brother Act.〕그짤 02](https://twitter.com/OFFICIALBTOB/status/915010512974372864)
 
-33. [BTOB 2nd Album〔Brother
-    Act.〕그짤 03](https://twitter.com/OFFICIALBTOB/status/915443682488102913)
+33. [BTOB 2nd Album〔Brother Act.〕그짤 03](https://twitter.com/OFFICIALBTOB/status/915443682488102913)
 
-34. [BTOB 2nd Album〔Brother
-    Act.〕그짤 04](https://twitter.com/OFFICIALBTOB/status/915746907661639680)
+34. [BTOB 2nd Album〔Brother Act.〕그짤 04](https://twitter.com/OFFICIALBTOB/status/915746907661639680)
 
-35. [BTOB 2nd Album〔Brother
-    Act.〕그짤 05](https://twitter.com/OFFICIALBTOB/status/916163055834165248)
+35. [BTOB 2nd Album〔Brother Act.〕그짤 05](https://twitter.com/OFFICIALBTOB/status/916163055834165248)
 
-36. [BTOB 2nd Album〔Brother
-    Act.〕그짤 06](https://twitter.com/OFFICIALBTOB/status/916459064728489984)
+36. [BTOB 2nd Album〔Brother Act.〕그짤 06](https://twitter.com/OFFICIALBTOB/status/916459064728489984)
 
-37. [BTOB 2nd Album〔Brother
-    Act.〕그짤 07](https://twitter.com/OFFICIALBTOB/status/916876209182597120)
+37. [BTOB 2nd Album〔Brother Act.〕그짤 07](https://twitter.com/OFFICIALBTOB/status/916876209182597120)
 
 38. 11月11日為「肢體殘障人日」。
 

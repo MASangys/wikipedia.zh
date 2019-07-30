@@ -1,12 +1,8 @@
-**ZERO-G**是一家動畫企劃與製作以及相關業務為主的日本公司。由導演[根岸弘成立](../Page/根岸弘.md "wikilink")。並取得RADIX
-MOBANIMATION動畫作品的相關所有版權。
+**ZERO-G**是一家動畫企劃與製作以及相關業務為主的日本公司。由導演[根岸弘](../Page/根岸弘.md "wikilink")成立。並取得RADIX MOBANIMATION動畫作品的相關所有版權。
 
-ZERO-G名稱繼承自根岸弘在1991年創立的動畫公司ZERO-G-ROOM（），而ZERO-G-ROOM在90年代以來經過一系列公司重組合併為[RADIX
-ACE ENTERTAINMENT](../Page/RADIX_ACE_ENTERTAINMENT.md "wikilink")。
+ZERO-G名稱繼承自根岸弘在1991年創立的動畫公司ZERO-G-ROOM（），而ZERO-G-ROOM在90年代以來經過一系列公司重組合併為[RADIX ACE ENTERTAINMENT](../Page/RADIX_ACE_ENTERTAINMENT.md "wikilink")。
 
-2006年10月1日被母公司Wedge Holdings吸收合併後設立RADIX
-MOBANIMATION。2012年9月1日，ZERO-G取得RADIX
-MOBANIMATION相關動畫作品的所有版權。
+2006年10月1日被母公司Wedge Holdings吸收合併後設立RADIX MOBANIMATION。2012年9月1日，ZERO-G取得RADIX MOBANIMATION相關動畫作品的所有版權。
 
 ## 作品列表
 
@@ -81,7 +77,7 @@ MOBANIMATION相關動畫作品的所有版權。
 <td><p>4月13日－6月29日</p></td>
 <td><p>倉谷涼一</p></td>
 <td><p>漫畫</p></td>
-<td><p>與<a href="../Page/TNK.md" title="wikilink">TNK共同製作</a></p></td>
+<td><p>與<a href="../Page/TNK.md" title="wikilink">TNK</a>共同製作</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -134,8 +130,6 @@ MOBANIMATION相關動畫作品的所有版權。
 
   - [官方網站](http://zerog2.jp/)
 
-[Category:2011年成立的公司](https://zh.wikipedia.org/wiki/Category:2011年成立的公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
+[Category:2011年成立的公司](https://zh.wikipedia.org/wiki/Category:2011年成立的公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
 
 1.

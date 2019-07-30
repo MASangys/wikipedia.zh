@@ -1,36 +1,59 @@
-是[波麗佳音和](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")[Comptiq推出的](../Page/Comptiq.md "wikilink")[日本](../Page/日本.md "wikilink")[跨媒體製作作品](../Page/跨媒體製作.md "wikilink")。由[和泉Tsubasu擔任原畫](../Page/和泉Tsubasu.md "wikilink")、team
-yoree負責原作劇本、音樂由波麗佳音製作\[1\]。內容為中學女生想要成為偶像的故事。2018年7月1日在「Re:Stage！PRISM☆LIVE\!\!～2ndSTAGE～Ready
-for Dream」的活動會場中宣布改編為電視動畫\[2\]。
+是[波麗佳音和](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")[Comptiq](../Page/Comptiq.md "wikilink")推出的[日本](../Page/日本.md "wikilink")[跨媒體製作](../Page/跨媒體製作.md "wikilink")作品。由[和泉Tsubasu](../Page/和泉Tsubasu.md "wikilink")擔任原畫、team yoree負責原作劇本、音樂由波麗佳音製作\[1\]。內容為中學女生想要成為偶像的故事。2018年7月1日在「Re:Stage！PRISM☆LIVE\!\!～2ndSTAGE～Ready for Dream」的活動會場中宣布改編為電視動畫\[2\]。
 
 ## 登場角色
 
 ### KiRaRe
 
   -
-
-
-
-
+    私立稀星學園高尾校中等部一年級生，個性穩重但帶點消極。
+    擁有出眾的音感與舞蹈才能。原本是稀星學園本校的學生，但因為在本校感受到了壓力而放棄成為偶像，並轉學到高尾校。
+  -
+    私立稀星學園高尾校中等部一年級生，個性認真且直率。
+    小時候曾參加各地的偶像大會，原本想要讀附設藝能科的本校，但遭到家人反對而放棄。
+  -
+    私立稀星學園高尾校中等部三年級生，謠舞社社長。家裡是神社，因此擅長[神樂](../Page/神樂.md "wikilink")與[日本舞](../Page/日本舞.md "wikilink")。
+  -
+    私立稀星學園高尾校中等部一年級生，性格文靜，擅長操作各種電子產品。
+  -
+    私立稀星學園高尾校中等部二年級生，喜歡[生存遊戲](../Page/生存遊戲_\(射擊運動\).md "wikilink")。
+  -
+    私立稀星學園高尾校中等部三年級生，本名為，學生會副會長。
 
 ### ortensia
 
   -
+    鈴村女子中學一年級生，個性開朗且大而化之，喜歡吃肉。
+  -
+    鈴村女子中學二年級生，個性冷靜，年紀雖然較長但卻是紫的姪女。
 
 ### Stella maris
 
   -
-
+    私立稀星學園本校中等部三年級生，舞菜的姐姐，對舞菜非常溺愛。
+  -
+    私立稀星學園本校中等部三年級生，偶像社的社長。
+  -
+    私立稀星學園本校中等部一年級生，視舞菜和紗由為勁敵，非常崇拜碧音。
 
 ### TORIS ANGES
 
   -
-
+    私立稀星學園本校中等部三年級生，擁有天使般的歌聲，由於從小被當作掌上明珠養大，有著不懂人情世故的一面。
+  -
+    私立稀星學園本校中等部三年級生，和天葉是青梅竹馬，自詡是TORIS ANGES的參謀。
+  -
+    私立稀星學園本校中等部二年級生，稱自己是保護天葉和奏的騎士。
 
 ### Tetrarkhia
 
   -
-
-
+    中學三年級生，對於自己的名字抱持複雜的情緒。
+  -
+    中學一年級生，個性沉默寡言並喜歡獨處。
+  -
+    中學三年級生，待人處事皆十分得體。
+  -
+    中學二年級生，頭腦聰明且分析力強，是Tetrarkhia的參謀。
 
 ## 音樂作品
 
@@ -191,7 +214,7 @@ for Dream」的活動會場中宣布改編為電視動畫\[2\]。
 
 ## 電視動畫
 
-預定2019年7月播出，標題為《Re:Stage！Dream Days♪》\[20\]。
+於2019年7月7日播出，標題為《Re:Stage！Dream Days♪》\[20\]。
 
 ### 製作人員
 
@@ -203,10 +226,80 @@ for Dream」的活動會場中宣布改編為電視動畫\[2\]。
 
 ### 主題曲
 
-  - 片頭曲「Don’t think,\!\!」
+  - 片頭曲「Don't think,\!\!」
     作詞：高瀨愛虹，作曲、編曲：伊藤翼，主唱：[KiRaRe](https://zh.wikipedia.org/wiki/#KiRaRe "wikilink")
+
   - 片尾曲「憧れFuture Sign（Piano Strings Arrange）」
     作詞：，作曲、編曲：伊藤翼，主唱：KiRaRe
+
+  - 插入曲
+
+:; 「Brilliant Wings」（第1話）
+
+:: 作詞、作曲、編曲：久保正貴，主唱：[Stellamaris](https://zh.wikipedia.org/wiki/#Stellamaris "wikilink")
+
+:; 「」（第1、2話）
+
+  -
+
+      -
+        作詞：高瀨愛虹，作曲、編曲：伊藤翼，主唱：
+
+### 各話列表
+
+<table>
+<thead>
+<tr class="header">
+<th><p>話數</p></th>
+<th><p>日文標題</p></th>
+<th><p>中文標題</p></th>
+<th><p>劇本</p></th>
+<th><p>分鏡</p></th>
+<th><p>演出</p></th>
+<th><p>作畫監督</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>#01</p></td>
+<td></td>
+<td><p>加起來就是謠舞社</p></td>
+<td><p><a href="../Page/浦畑達彥.md" title="wikilink">浦畑達彥</a></p></td>
+<td><p>片貝慎</p></td>
+<td><p>鹿谷拓史、小坂春女</p></td>
+<td><p>野田智弘、北條裕之<br />
+江口麻里、東美帆</p></td>
+</tr>
+<tr class="even">
+<td><p>#02</p></td>
+<td></td>
+<td><p>完全就是水蚤</p></td>
+<td><p>木宮茂</p></td>
+<td><p>萩原省智、櫻井拓郎<br />
+金海淑</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>#03</p></td>
+<td></td>
+<td><p>我不是說了我沒興趣嗎</p></td>
+<td><p>富田賴子</p></td>
+<td><p><a href="../Page/於地紘仁.md" title="wikilink">於地紘仁</a></p></td>
+<td><p>山田晃</p></td>
+<td><p>&lt;!--|-</p></td>
+</tr>
+<tr class="even">
+<td><p>#05</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>--&gt;</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考資料
 
@@ -219,17 +312,7 @@ for Dream」的活動會場中宣布改編為電視動畫\[2\]。
   - [Re:Stage！電視動畫官方網站](https://rst-anime.com//)
 
   -
-[Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink")
-[Category:中學背景漫畫](https://zh.wikipedia.org/wiki/Category:中學背景漫畫 "wikilink")
-[Category:偶像漫畫](https://zh.wikipedia.org/wiki/Category:偶像漫畫 "wikilink")
-[Category:多摩地域背景作品](https://zh.wikipedia.org/wiki/Category:多摩地域背景作品 "wikilink")
-[Category:2017年電子遊戲](https://zh.wikipedia.org/wiki/Category:2017年電子遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink")
-[Category:2019年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2019年日本電視動畫 "wikilink")
-[Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink")
-[Category:偶像題材動畫](https://zh.wikipedia.org/wiki/Category:偶像題材動畫 "wikilink")
+[Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink") [Category:中學背景漫畫](https://zh.wikipedia.org/wiki/Category:中學背景漫畫 "wikilink") [Category:偶像漫畫](https://zh.wikipedia.org/wiki/Category:偶像漫畫 "wikilink") [Category:多摩地域背景作品](https://zh.wikipedia.org/wiki/Category:多摩地域背景作品 "wikilink") [Category:2017年電子遊戲](https://zh.wikipedia.org/wiki/Category:2017年電子遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:2019年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2019年日本電視動畫 "wikilink") [Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink") [Category:偶像題材動畫](https://zh.wikipedia.org/wiki/Category:偶像題材動畫 "wikilink")
 
 1.
 2.

@@ -1,12 +1,8 @@
-**lol**（）是[avex
-trax培訓的](https://zh.wikipedia.org/wiki/avex_trax "wikilink")[日本男女混合五人歌舞表演團體](../Page/日本.md "wikilink")。2015年8月12日以首張單曲『[fire\!](https://zh.wikipedia.org/wiki/fire! "wikilink")』主流出道。
+**lol**（）是[avex trax培訓的](https://zh.wikipedia.org/wiki/avex_trax "wikilink")[日本](../Page/日本.md "wikilink")男女混合五人歌舞表演團體。2015年8月12日以首張單曲『[fire\!](https://zh.wikipedia.org/wiki/fire! "wikilink")』主流出道。
 
 ## 概要
 
-2014年9月結成，繼[TRF跟](../Page/TRF.md "wikilink")[AAA之後](../Page/AAA_\(團體\).md "wikilink")[avex
-trax推出的男女混合歌舞團體](https://zh.wikipedia.org/wiki/avex_trax "wikilink")，全體成員都兼任舞蹈與歌唱職務。團體名稱的由來是**laugh
-out loud**的字母簡稱，意為讓人展露出笑容。飽含著感動大家、讓大家綻放笑容的象徵意義。\[1\]。粉絲的名稱為**lol
-family**，又稱為**L Fami（エルファミ）**。
+2014年9月結成，繼[TRF](../Page/TRF.md "wikilink")跟[AAA之後](../Page/AAA_\(團體\).md "wikilink")[avex trax推出的男女混合歌舞團體](https://zh.wikipedia.org/wiki/avex_trax "wikilink")，全體成員都兼任舞蹈與歌唱職務。團體名稱的由來是**laugh out loud**的字母簡稱，意為讓人展露出笑容。飽含著感動大家、讓大家綻放笑容的象徵意義。\[1\]。粉絲的名稱為**lol family**，又稱為**L Fami（エルファミ）**。
 
 ## 成員
 
@@ -81,53 +77,33 @@ avex artist academy大阪校出身。</p></td>
 ### 2014年
 
   - 4月17日、佐藤友祐獲獎「avex audition MAX 2013」演員部門Grand Prix。
-  - 9月6日、hibiki通過「第19回 [東京 Girls
-    Collection](https://zh.wikipedia.org/wiki/東京_Girls_Collection "wikilink")
-    2014 秋/冬」內舉行的「TOKYO GIRLS AUDITION 2014 AUTUMN/WINTER Powered by
-    meba」最終審查、獲獎藝人部門準Grand Prix。
+  - 9月6日、hibiki通過「第19回 [東京 Girls Collection](https://zh.wikipedia.org/wiki/東京_Girls_Collection "wikilink") 2014 秋/冬」內舉行的「TOKYO GIRLS AUDITION 2014 AUTUMN/WINTER Powered by meba」最終審查、獲獎藝人部門準Grand Prix。
   - 9月某日、1萬人以上參加徵選合格的佐藤友祐、小見山直人、moca、hibiki、honoka5人結成團體「**lol**」。
-  - 9月23日、「[Tribe Cool
-    Crew](https://zh.wikipedia.org/wiki/Tribe_Cool_Crew "wikilink")」製作發表記者見面會首次公開。
-  - 9月28日、主題曲及擔任寫實部分的領航者[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")「[Tribe
-    Cool
-    Crew](https://zh.wikipedia.org/wiki/Tribe_Cool_Crew "wikilink")」([朝日電視台系列](../Page/朝日電視台.md "wikilink"))開始播送。(其餘Tie
-    Up請參照[\#Tie
-    Up總表](https://zh.wikipedia.org/wiki/#Tie_Up總表 "wikilink")。)
+  - 9月23日、「[Tribe Cool Crew](https://zh.wikipedia.org/wiki/Tribe_Cool_Crew "wikilink")」製作發表記者見面會首次公開。
+  - 9月28日、主題曲及擔任寫實部分的領航者[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")「[Tribe Cool Crew](https://zh.wikipedia.org/wiki/Tribe_Cool_Crew "wikilink")」([朝日電視台](../Page/朝日電視台.md "wikilink")系列)開始播送。(其餘Tie Up請參照[\#Tie Up總表](https://zh.wikipedia.org/wiki/#Tie_Up總表 "wikilink")。)
   - 11月16日、官方TwitCasting「[lolo](http://twitcasting.tv/lol_avex)」開始配信。
 
 ### 2015年
 
-  - 5月30日、[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")・[池袋](../Page/池袋.md "wikilink")[PARCO](https://zh.wikipedia.org/wiki/PARCO "wikilink")
-    Nico袋Studio發表8月12日首張單曲『[fire\!](https://zh.wikipedia.org/wiki/fire! "wikilink")』CD出道。同時發表舉行全國迷你巡演特典會「lol
-    live circuit
-    2015～fire\!～」。且透過[NicoNico生放送即時轉播](https://zh.wikipedia.org/wiki/NicoNico "wikilink")。
-  - 5月31日- 8月16日、舉辦CD出道記念Mini Live Tour「lol live circuit
-    2015～fire\!～」，共31場。
-  - 8月2日、[iTunes進行先行限定配信](https://zh.wikipedia.org/wiki/iTunes "wikilink")『fire\!
-    -debut edition-』。
+  - 5月30日、[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")・[池袋](../Page/池袋.md "wikilink")[PARCO](https://zh.wikipedia.org/wiki/PARCO "wikilink") Nico袋Studio發表8月12日首張單曲『[fire\!](https://zh.wikipedia.org/wiki/fire! "wikilink")』CD出道。同時發表舉行全國迷你巡演特典會「lol live circuit 2015～fire\!～」。且透過[NicoNico生放送即時轉播](https://zh.wikipedia.org/wiki/NicoNico "wikilink")。
+  - 5月31日- 8月16日、舉辦CD出道記念Mini Live Tour「lol live circuit 2015～fire\!～」，共31場。
+  - 8月2日、[iTunes進行先行限定配信](https://zh.wikipedia.org/wiki/iTunes "wikilink")『fire\! -debut edition-』。
   - 8月10日、「lol live circuit 2015～fire\!～」全部完成。
   - 8月12日、1st單曲『fire\!』CD出道。
-  - 8月15日、佐藤友祐出演「dTV原創影劇『[進撃の巨人
-    反撃の狼煙](https://zh.wikipedia.org/wiki/進撃の巨人#スピンオフドラマ "wikilink")』」公開。
+  - 8月15日、佐藤友祐出演「dTV原創影劇『[進撃の巨人 反撃の狼煙](https://zh.wikipedia.org/wiki/進撃の巨人#スピンオフドラマ "wikilink")』」公開。
   - 8月23日、「a-nation stadium fes. 」大阪公演首次販售原創週邊商品。
-  - 10月1日、開始新節目「lol studio」。節目內發表了2nd單曲『ladi dadi』系列及相關Tour第2彈「lol live
-    circuit 2015-2016～ladi dadi～」。
-  - 10月2日、受音樂獎項「[MTV](https://zh.wikipedia.org/wiki/MTV "wikilink") VMAJ
-    2015」特別部門 Next Break Artist獎提名。
-  - 10月10日- 2016年1月31日、舉辦2nd單曲『ladi dadi』系列記念Mini Live Tour「lol live
-    circuit 2015-2016～ladi dadi～」，共49場。
+  - 10月1日、開始新節目「lol studio」。節目內發表了2nd單曲『ladi dadi』系列及相關Tour第2彈「lol live circuit 2015-2016～ladi dadi～」。
+  - 10月2日、受音樂獎項「[MTV](https://zh.wikipedia.org/wiki/MTV "wikilink") VMAJ 2015」特別部門 Next Break Artist獎提名。
+  - 10月10日- 2016年1月31日、舉辦2nd單曲『ladi dadi』系列記念Mini Live Tour「lol live circuit 2015-2016～ladi dadi～」，共49場。
   - 11月20日、受「第57回 日本唱片大賞 新人獎」提名。
   - 12月30日、獲獎第57回日本唱片大賞新人獎。
 
 ### 2016年
 
-  - 1月30日、發表將於2016年5月4日舉行首次單獨公演「lol live 2016"lolol"-laugh out loud over
-    lap-」。
+  - 1月30日、發表將於2016年5月4日舉行首次單獨公演「lol live 2016"lolol"-laugh out loud over lap-」。
   - 2月15日、官方粉絲團「[lolol](https://lol.fc.avex.jp)」成立。
-  - 4月1日、發表3rd單曲『spank\!\!』系列及Mini Live Tour「lol live circuit
-    2016～spank\!\!～」。
-  - 4月2日-7月3日、舉辦3rd單曲『spank\!\!』系列記念Mini Live Tour「lol live circuit
-    2016～spank\!\!～」，共37場。
+  - 4月1日、發表3rd單曲『spank\!\!』系列及Mini Live Tour「lol live circuit 2016～spank\!\!～」。
+  - 4月2日-7月3日、舉辦3rd單曲『spank\!\!』系列記念Mini Live Tour「lol live circuit 2016～spank\!\!～」，共37場。
 
 ## 作品
 
@@ -574,8 +550,7 @@ AVCG-70113</p></td>
 
 不包含擔任來賓的項目。
 
-  - Tribe Cool Crew寫實部分定期演出（2014 - 2015、朝日電視台） - 佐藤友祐, moca, hibiki,
-    honoka
+  - Tribe Cool Crew寫實部分定期演出（2014 - 2015、朝日電視台） - 佐藤友祐, moca, hibiki, honoka
       - 「Tribe Cool Crew DANCE BOX」領航者
       - 「Tribe Cool Crew 舞蹈比賽\!」領航者
 
@@ -701,39 +676,33 @@ AVCG-70113</p></td>
   - 10月18日、「Next Star Stage Vol4～SPECIAL～」擔任來賓演出。
   - 11月8日、「キラットエンタメチャレンジコンテスト2014 決勝大会」擔任來賓演出。
   - 11月16日、「高校生Live MUSIC DAYS 2014 FINAL」演出。
-  - 12月13日-14日、[Avex舉辦的](https://zh.wikipedia.org/wiki/Avex "wikilink")「VOCAL
-    TRY STAGE東京」擔任來賓演出。
+  - 12月13日-14日、[Avex舉辦的](https://zh.wikipedia.org/wiki/Avex "wikilink")「VOCAL TRY STAGE東京」擔任來賓演出。
   - 12月26日、「OSAKA REVORHYTHM Vol.3～年末Special～」擔任特別嘉賓演出。
   - 12月31日、倒數活動「PiNuP Winters Collection～COUNTDOWN PARTY～」演出。
 
 ### 2015年
 
   - 1月10日、「TRANS CITY - ENTERTAINMENT CITY BEPPU 2015 -」擔任來賓演出。
-  - 1月17日-18日、『HEARTBEAT』擔任世界最大型舞蹈活動[JSDA主題曲](https://zh.wikipedia.org/wiki/JSDA "wikilink")，於「[JSDA](https://zh.wikipedia.org/wiki/JSDA "wikilink")
-    presents DANCE NATION」舞台演出。
+  - 1月17日-18日、『HEARTBEAT』擔任世界最大型舞蹈活動[JSDA主題曲](https://zh.wikipedia.org/wiki/JSDA "wikilink")，於「[JSDA](https://zh.wikipedia.org/wiki/JSDA "wikilink") presents DANCE NATION」舞台演出。
   - 2月21日、aaa音樂課程大型活動「a★Star2015」演出。
   - 2月22日、「DANCE KINGDOM NAGOYA」演出。
   - 3月15日、「LIVE\&DANCE fes vol.2＠よみうりランド」擔任來賓演出。
   - 5月9日、「oricon Sound Blowin'2015～spring～」演出。
   - 5月16日、「メ～テレ KAZOKU FES 2015」擔任開場嘉賓演出。
-  - 7月4日、日本電視台大型音樂節目「THE MUSIC DAY
-    音樂是太陽。」的[汐留舞台演出](../Page/汐留.md "wikilink")。[NicoNico生放送即時轉播](https://zh.wikipedia.org/wiki/NicoNico "wikilink")。
+  - 7月4日、日本電視台大型音樂節目「THE MUSIC DAY 音樂是太陽。」的[汐留](../Page/汐留.md "wikilink")舞台演出。[NicoNico生放送即時轉播](https://zh.wikipedia.org/wiki/NicoNico "wikilink")。
   - 7月20日、「SUMMER FES in LAGUNA TEN BOSCH」演出。
   - 7月24日、Kaleido×iTSCOM主催「Fanfare」演出。
   - 7月25日、「CBCラジオ 夏祭2015」演出。
-  - 8月1日、『gimme gimme』作為官方主題歌於「DANCE CLUB CHAMPIONSHIP Vol.3
-    全國高中舞蹈社團選手權」進行來賓表演。「東京 Summer Land presents
-    God Bless Saturday SPECIAL」官方生放送演出。
+  - 8月1日、『gimme gimme』作為官方主題歌於「DANCE CLUB CHAMPIONSHIP Vol.3 全國高中舞蹈社團選手權」進行來賓表演。「東京 Summer Land presents God Bless Saturday SPECIAL」官方生放送演出。
   - 8月2日、「音靈 OTODAMA SEA STUDIO 2015 我們的暑假 2015'」演出。
-  - 8月6日、「[a-nation
-    island](https://zh.wikipedia.org/wiki/a-nation "wikilink")　AsiaProgress～Twinkle～」擔任開場嘉賓演出。
+  - 8月6日、「[a-nation island](https://zh.wikipedia.org/wiki/a-nation "wikilink")　AsiaProgress～Twinkle～」擔任開場嘉賓演出。
   - 8月7日、「Campus summit 2015」演出。
 
 ### 2016年
 
   - 3月31日、「制服High School 卒業PARTY 2016」演出。
   - 4月11日、「Coming Next 2016」演出。
-  - 11月26日、擔任[FlowBack三週年演唱會神秘嘉賓](../Page/FlowBack.md "wikilink")。
+  - 11月26日、擔任[FlowBack](../Page/FlowBack.md "wikilink")三週年演唱會神秘嘉賓。
 
 ## Tie Up總表
 
@@ -777,14 +746,11 @@ AVCG-70113</p></td>
 
 :\*[lol 官方 Blog](http://lineblog.me/lol)
 
-:\*[Official Facebook](http://www.facebook.com/lol.avex.official) -
-[Facebook](../Page/Facebook.md "wikilink")
+:\*[Official Facebook](http://www.facebook.com/lol.avex.official) - [Facebook](../Page/Facebook.md "wikilink")
 
-:\*[Official Youtube Channel](https://www.youtube.com/user/lolavextrax)
-- [youtube](https://zh.wikipedia.org/wiki/youtube "wikilink")
+:\*[Official Youtube Channel](https://www.youtube.com/user/lolavextrax) - [youtube](https://zh.wikipedia.org/wiki/youtube "wikilink")
 
-:\*[lol 官方 Casting (lolo)](http://twitcasting.tv/lol_avex) -
-[TwitCasting](https://zh.wikipedia.org/wiki/TwitCasting "wikilink")
+:\*[lol 官方 Casting (lolo)](http://twitcasting.tv/lol_avex) - [TwitCasting](https://zh.wikipedia.org/wiki/TwitCasting "wikilink")
 
   - Twitter
 
@@ -828,11 +794,9 @@ AVCG-70113</p></td>
 
   - 其他
 
-:\*[lol(エルオーエル) hibikiオフィシャルブログ](http://s.ameblo.jp/lol-hibiki/) -
-[アメーバブログ](https://zh.wikipedia.org/wiki/アメーバブログ "wikilink")
+:\*[lol(エルオーエル) hibikiオフィシャルブログ](http://s.ameblo.jp/lol-hibiki/) - [アメーバブログ](https://zh.wikipedia.org/wiki/アメーバブログ "wikilink")
 
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
+[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
 
 1.
 2.

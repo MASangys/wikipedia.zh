@@ -1,12 +1,8 @@
-**SNH48第三屆總決選「比翼齊飛」**，亦稱作「SNH48第三屆偶像年度人氣總決選」，是中國女子團體[SNH48於](https://zh.wikipedia.org/wiki/SNH48 "wikilink")2016年6月至7月間舉辦的投票活動，由歌迷以投票的方式，選出第1至16名（即高飛組「Top
-Girls」）、第17至32名（即夢想組「Under Girls」）成員、第33至48名（即起飛組「Next
-Girls」）成員，選出成員演唱新EP的歌曲，配合是次總選舉推出的EP《[夢想島](../Page/夢想島.md "wikilink")》於5月20日發售。\[1\]
-由本屆總選舉開始，官方從總選舉一詞改稱為“總決選”。另外政見發布也更名為“總選宣言”。
+**SNH48第三屆總決選「比翼齊飛」**，亦稱作「SNH48第三屆偶像年度人氣總決選」，是中國女子團體[SNH48於](https://zh.wikipedia.org/wiki/SNH48 "wikilink")2016年6月至7月間舉辦的投票活動，由歌迷以投票的方式，選出第1至16名（即高飛組「Top Girls」）、第17至32名（即夢想組「Under Girls」）成員、第33至48名（即起飛組「Next Girls」）成員，選出成員演唱新EP的歌曲，配合是次總選舉推出的EP《[夢想島](../Page/夢想島.md "wikilink")》於5月20日發售。\[1\] 由本屆總選舉開始，官方從總選舉一詞改稱為“總決選”。另外政見發布也更名為“總選宣言”。
 
 ## 概要
 
-“比翼齊飛”SNH48第三屆偶像年度人氣總決選將在SNH48及姐妹團體BEJ48和GNZ48三大團體共計超過160名參選成員中，由粉絲和社會公眾按照指定渠道投票選出48名人氣成員，代表各自團體參演SNH48集團年度重大音樂、影視劇、電影和大型綜藝節目作品並參與重點商業代言活動。今年首次參加總決選的姐妹團體BEJ48和GNZ48將各自按照參選成員在本屆總決選活動中的得票排名，選出各自的TOP
-7成員。
+“比翼齊飛”SNH48第三屆偶像年度人氣總決選將在SNH48及姐妹團體BEJ48和GNZ48三大團體共計超過160名參選成員中，由粉絲和社會公眾按照指定渠道投票選出48名人氣成員，代表各自團體參演SNH48集團年度重大音樂、影視劇、電影和大型綜藝節目作品並參與重點商業代言活動。今年首次參加總決選的姐妹團體BEJ48和GNZ48將各自按照參選成員在本屆總決選活動中的得票排名，選出各自的TOP 7成員。
 
 經紀公司於6月1日舉行總決選啟動儀式並由演唱總選EP同名歌曲《[夢想島](../Page/夢想島.md "wikilink")》的其中15位成員作首次現場表演\[2\]，同時公開為總決選製作的紀錄片《比翼齐飞——偶像绝密档案全纪录》。《比翼齐飞》全片已於翌日上載至各大視頻網站\[3\]。
 
@@ -18,19 +14,16 @@ Girls」）成員，選出成員演唱新EP的歌曲，配合是次總選舉推�
 
 该次总决选首次開啟了全球范围内的直播。
 
-  - [广东卫视全国独家电视直播](../Page/广东卫视.md "wikilink")（剪辑播出演唱会部分，主演播室设在广州的广东广播电视台演播室）
+  - [广东卫视](../Page/广东卫视.md "wikilink")全国独家电视直播（剪辑播出演唱会部分，主演播室设在广州的广东广播电视台演播室）
       - 时间：7月30日21点10分
-  - [腾讯视频全国独家网络直播](../Page/腾讯视频.md "wikilink")（全程直播）
+  - [腾讯视频](../Page/腾讯视频.md "wikilink")全国独家网络直播（全程直播）
       - 时间：7月30日18点48分
-  - [YouTube海外直播](../Page/YouTube.md "wikilink")（全程直播，SNH48官方帐号“ChinaSNH48”）
+  - [YouTube](../Page/YouTube.md "wikilink")海外直播（全程直播，SNH48官方帐号“ChinaSNH48”）
       - 时间：7月30日18点48分
 
 ## 候選人員
 
-所有SNH48集團正式成員均為總決選候選人，但在5月23日總決選網站更新時，发布了Team
-SII成員[趙嘉敏因腰傷和需在異地考試](../Page/趙嘉敏.md "wikilink")、Team
-NII成員董豔芸及孟玥因身體原因，均不會參選的消息。另一名Team
-NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有被列入參選成員名單中，但唐安琪在經紀公司和家長規勸後仍堅持參加本屆總決選，並希望在總決選發布演唱會現場向粉絲和觀眾表達早日治癒歸隊的願望。經紀公司為尊重唐安琪本人意願，決定同意她參選，同時將對她參加總決選、發布演唱會及匯報作品的整個過程作出相應的特殊安排。\[5\]
+所有SNH48集團正式成員均為總決選候選人，但在5月23日總決選網站更新時，发布了Team SII成員[趙嘉敏](../Page/趙嘉敏.md "wikilink")因腰傷和需在異地考試、Team NII成員董豔芸及孟玥因身體原因，均不會參選的消息。另一名Team NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有被列入參選成員名單中，但唐安琪在經紀公司和家長規勸後仍堅持參加本屆總決選，並希望在總決選發布演唱會現場向粉絲和觀眾表達早日治癒歸隊的願望。經紀公司為尊重唐安琪本人意願，決定同意她參選，同時將對她參加總決選、發布演唱會及匯報作品的整個過程作出相應的特殊安排。\[5\]
 
 ### 参选者
 
@@ -294,9 +287,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 
 ## 速報
 
-  - 速報發表時間為2016年6月17日Team
-    X紀念公演《十八個閃耀瞬間》首演結束後，地點為上海SNH48星夢劇院。BEJ48和GNZ48分別在當晚Team
-    E及Team G公演結束後同步轉播上海速報現場情況。
+  - 速報發表時間為2016年6月17日Team X紀念公演《十八個閃耀瞬間》首演結束後，地點為上海SNH48星夢劇院。BEJ48和GNZ48分別在當晚Team E及Team G公演結束後同步轉播上海速報現場情況。
   - 本次速報公布了截至同日下午5時正暫時排名前48位的成員的總得票數為158,973.3票（小數點後數字不作四捨五入），以及暫時排名前48位的成員姓名及得票數。
   - 各隊入選成員數目如下:
       - SNH48
@@ -391,8 +382,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 
 ## 中間發表
 
-  - 中表于2016年7月8日Team X公演结束后在SNH48星梦剧院发表。BEJ48和GNZ48分别在当晚Team E公演及SNH48
-    Team SII广州公演结束后同步转播上海现场情况。
+  - 中表于2016年7月8日Team X公演结束后在SNH48星梦剧院发表。BEJ48和GNZ48分别在当晚Team E公演及SNH48 Team SII广州公演结束后同步转播上海现场情况。
   - 本次中報公布了截至同日下午5時正暫時排名前48位的成員的總得票數為665,699.9票（小數點後數字不作四捨五入），以及暫時排名前48位的成員姓名及得票數。
   - 各隊入選成員數目如下:
       - SNH48
@@ -497,43 +487,30 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 2.  《[夢想島](../Page/夢想島.md "wikilink")》 - MV選拔組
 3.  《[媽咪媽咪轟](../Page/源動力.md "wikilink")》 - Team XII
 4.  《[我想對你說](../Page/源動力.md "wikilink")》 - Team X
-5.  《[Shake it\! Shake
-    it\!](../Page/Team_NII_5th_Stage「專屬派對」公演.md "wikilink")》
-    - Team NII
+5.  《[Shake it\! Shake it\!](../Page/Team_NII_5th_Stage「專屬派對」公演.md "wikilink")》 - Team NII
 6.  《[少女進化論](../Page/源動力.md "wikilink")》 - Team HII
-7.  《[Don't touch](../Page/Team_NII_5th_Stage「專屬派對」公演.md "wikilink")》 -
-    [馮薪朵](../Page/馮薪朵.md "wikilink")、陸婷、[趙粵](../Page/趙粵.md "wikilink")
+7.  《[Don't touch](../Page/Team_NII_5th_Stage「專屬派對」公演.md "wikilink")》 - [馮薪朵](../Page/馮薪朵.md "wikilink")、陸婷、[趙粵](../Page/趙粵.md "wikilink")
 8.  《[相遇的季節](../Page/夢想島.md "wikilink")》 - Team X
-9.  《[新世界](https://zh.wikipedia.org/wiki/心的旅程 "wikilink")》 -
-    李宇琪、莫寒、[李藝彤](../Page/李藝彤.md "wikilink")
+9.  《[新世界](https://zh.wikipedia.org/wiki/心的旅程 "wikilink")》 - 李宇琪、莫寒、[李藝彤](../Page/李藝彤.md "wikilink")
 10. 《[戀愛味道](../Page/夢想島.md "wikilink")》 - Team XII
-11. 《[少女的遺憾](https://zh.wikipedia.org/wiki/Team_B_4th_Stage「偶像的黎明」#SNH48_Team_HII_3rd_Stage「偶像的黎明」公演 "wikilink")》
-    - 萬麗娜、易嘉愛、[曾艷芬](https://zh.wikipedia.org/wiki/曾艷芬 "wikilink")
+11. 《[少女的遺憾](https://zh.wikipedia.org/wiki/Team_B_4th_Stage「偶像的黎明」#SNH48_Team_HII_3rd_Stage「偶像的黎明」公演 "wikilink")》 - 萬麗娜、易嘉愛、[曾艷芬](https://zh.wikipedia.org/wiki/曾艷芬 "wikilink")
 12. 《[LA LA LA](../Page/夢想島.md "wikilink")》 - Team SII
-13. 《[紳士](https://zh.wikipedia.org/wiki/紳士_\(歌曲\) "wikilink")》 -
-    [朴載相](https://zh.wikipedia.org/wiki/朴載相 "wikilink")
+13. 《[紳士](https://zh.wikipedia.org/wiki/紳士_\(歌曲\) "wikilink")》 - [朴載相](https://zh.wikipedia.org/wiki/朴載相 "wikilink")
 14. 《[江南Style](../Page/江南Style.md "wikilink")》 - 朴載相
 15. 《[青春的約定](../Page/青春的約定.md "wikilink")》 - BEJ48
 16. 《[第一隻兔子](https://zh.wikipedia.org/wiki/嗚吒 "wikilink")》 - GNZ48
 17. 《[紐約夢](https://zh.wikipedia.org/wiki/心的旅程 "wikilink")》 - Team SII
 18. 《[正義之手](../Page/源動力.md "wikilink")》 - Team NII
-19. 《[巧克力之吻](https://zh.wikipedia.org/wiki/Team_B_4th_Stage「偶像的黎明」#SNH48_Team_HII_3rd_Stage「偶像的黎明」公演 "wikilink")》
-    - 孔肖吟、邱欣怡、張語格
+19. 《[巧克力之吻](https://zh.wikipedia.org/wiki/Team_B_4th_Stage「偶像的黎明」#SNH48_Team_HII_3rd_Stage「偶像的黎明」公演 "wikilink")》 - 孔肖吟、邱欣怡、張語格
 20. 《[夏日悸動](../Page/夢想島.md "wikilink")》 - Team HII
-21. 《[暮蟬之戀](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage“我的太阳”#SNH48_Team_NII_4th_Stage「我的太陽」公演 "wikilink")》
-    -
-    [戴萌](https://zh.wikipedia.org/wiki/戴萌 "wikilink")、[黃婷婷](https://zh.wikipedia.org/wiki/黃婷婷 "wikilink")
-22. 《[女王殿下](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage“我的太阳”#SNH48_Team_NII_4th_Stage「我的太陽」公演 "wikilink")》<small>(電音版本)</small>
-    - [鞠婧禕](../Page/鞠婧禕.md "wikilink")
+21. 《[暮蟬之戀](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage“我的太阳”#SNH48_Team_NII_4th_Stage「我的太陽」公演 "wikilink")》 - [戴萌](https://zh.wikipedia.org/wiki/戴萌 "wikilink")、[黃婷婷](https://zh.wikipedia.org/wiki/黃婷婷 "wikilink")
+22. 《[女王殿下](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage“我的太阳”#SNH48_Team_NII_4th_Stage「我的太陽」公演 "wikilink")》<small>(電音版本)</small> - [鞠婧禕](../Page/鞠婧禕.md "wikilink")
 23. 《[源動力](../Page/源動力.md "wikilink")》 - MV選拔組
 24. 《二次元大冒險》 - Color Girls
 25. 《[開拓者](../Page/愛的幸運曲奇.md "wikilink")》 - Team SII
-26. 《[BINGO\!](../Page/Team_NII_5th_Stage「專屬派對」公演.md "wikilink")》 - Team
-    NII
-27. 《[正義之拳](https://zh.wikipedia.org/wiki/Team_B_4th_Stage「偶像的黎明」#SNH48_Team_HII_3rd_Stage「偶像的黎明」公演 "wikilink")》
-    - Team HII
-28. 《[青春號角](https://zh.wikipedia.org/wiki/心的旅程 "wikilink")》 - Team
-    X+Team XII
+26. 《[BINGO\!](../Page/Team_NII_5th_Stage「專屬派對」公演.md "wikilink")》 - Team NII
+27. 《[正義之拳](https://zh.wikipedia.org/wiki/Team_B_4th_Stage「偶像的黎明」#SNH48_Team_HII_3rd_Stage「偶像的黎明」公演 "wikilink")》 - Team HII
+28. 《[青春號角](https://zh.wikipedia.org/wiki/心的旅程 "wikilink")》 - Team X+Team XII
 29. 《[一心向前](../Page/一心向前.md "wikilink")》 - 全員
 30. 《[我的舞台](https://zh.wikipedia.org/wiki/心的旅程 "wikilink")》 - 全員
 31. 《[比翼齊飛](../Page/你鼓舞了我.md "wikilink")》 - 第二屆總選16人
@@ -1252,10 +1229,9 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 
 ### 音樂及MV作品
 
-本屆總決選所决定的成员演唱的三首歌曲，將邀請亞洲著名歌手及音樂制作人[林俊傑](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")、[陶喆親自操刀制作](../Page/陶喆.md "wikilink")。
+本屆總決選所决定的成员演唱的三首歌曲，將邀請亞洲著名歌手及音樂制作人[林俊傑](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")、[陶喆](../Page/陶喆.md "wikilink")親自操刀制作。
 
-  - 高飛組（Top
-    Girls）將赴[西班牙](../Page/西班牙.md "wikilink")[马德里拍攝MV](../Page/马德里.md "wikilink")，並將同時錄制VR版本。
+  - 高飛組（Top Girls）將赴[西班牙](../Page/西班牙.md "wikilink")[马德里](../Page/马德里.md "wikilink")拍攝MV，並將同時錄制VR版本。
   - 夢想組（Under Girls）和起飛組（Next Girls）將前往韓國，分別拍攝兩支MV。
   - 獲得第一名成員的個人SOLO曲也將打造個人專屬MV。
 
@@ -1285,8 +1261,7 @@ BEJ48 TOP 7成員、GNZ48 TOP 7成員將由各自所屬團體拍攝專屬時尚�
 
 ## 參考資料
 
-[Category:SNH48](https://zh.wikipedia.org/wiki/Category:SNH48 "wikilink")
-[Category:SNH48的演唱會](https://zh.wikipedia.org/wiki/Category:SNH48的演唱會 "wikilink")
+[Category:SNH48](https://zh.wikipedia.org/wiki/Category:SNH48 "wikilink") [Category:SNH48的演唱會](https://zh.wikipedia.org/wiki/Category:SNH48的演唱會 "wikilink")
 
 1.  [SNH48攜姐妹團“比翼齊飛”第三屆年度人氣總決選5月啟動！](http://www.snh48.com/html/allnews/zixun/2016/0513/1683.html)
 

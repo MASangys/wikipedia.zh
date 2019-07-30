@@ -1,6 +1,4 @@
-是由Paul Holmes与Martin
-Walker（音乐）开发，1991年由[动视发售于](../Page/动视.md "wikilink")[Amiga与](../Page/Amiga.md "wikilink")[雅達利ST的](https://zh.wikipedia.org/wiki/雅達利ST "wikilink")3D[开放世界](https://zh.wikipedia.org/wiki/开放世界 "wikilink")[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")。游戏中，玩家置身于群岛之中，可以驾驶丰富的载具进行探索并完成任务。由于该作品对3D画面和[沙盒类游戏的大胆实验和充分探索](https://zh.wikipedia.org/wiki/沙盒类游戏 "wikilink")，人们常将它与随后发行的其他类似的沙盒游戏，如[俠盜獵車手系列和](../Page/俠盜獵車手系列.md "wikilink")《[孤岛惊魂2](../Page/極地戰嚎2.md "wikilink")》相比较。
-\[1\]\[2\]
+是由Paul Holmes与Martin Walker（音乐）开发，1991年由[动视](../Page/动视.md "wikilink")发售于[Amiga](../Page/Amiga.md "wikilink")与[雅達利ST的](https://zh.wikipedia.org/wiki/雅達利ST "wikilink")3D[开放世界](https://zh.wikipedia.org/wiki/开放世界 "wikilink")[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")。游戏中，玩家置身于群岛之中，可以驾驶丰富的载具进行探索并完成任务。由于该作品对3D画面和[沙盒类游戏的大胆实验和充分探索](https://zh.wikipedia.org/wiki/沙盒类游戏 "wikilink")，人们常将它与随后发行的其他类似的沙盒游戏，如[俠盜獵車手系列](../Page/俠盜獵車手系列.md "wikilink")和《[孤岛惊魂2](../Page/極地戰嚎2.md "wikilink")》相比较。 \[1\]\[2\]
 
 ## 游戏玩法
 
@@ -30,8 +28,7 @@ Walker（音乐）开发，1991年由[动视发售于](../Page/动视.md "wikili
 
 游戏世界是一个三维多边形区域，由岛屿、山丘、湖泊和大片海洋组成。除了各种建筑物和车辆外，还有一些树木、植物和岩石，这些均是3D建模。但游戏中颜色使用较为有限，以绿色、橘色和蓝色为主。24小时制的游戏时间系统是其一大亮点，环境亮度取决游戏中的时间。虽然夜间亮度较低，但使用照明弹可以照亮夜晚的环境，以便玩家观察。
 
-游戏中唯一的音乐是由Martin
-Walker创作的主题音乐，是游戏处于标题屏幕界面时的背景音乐。音响效果包括引擎声、炮声、爆炸声、海浪声和海鸥的叫声。在在视觉上和音效上，相较于[雅達利ST](https://zh.wikipedia.org/wiki/雅達利ST "wikilink")，该游戏在[Amiga上的表现更优](../Page/Amiga.md "wikilink")，Amiga使用更多的颜色和数字化的音效，而雅達利ST版本则出现不同程度的画面抖动（如海洋画面），其音效也是合成音。
+游戏中唯一的音乐是由Martin Walker创作的主题音乐，是游戏处于标题屏幕界面时的背景音乐。音响效果包括引擎声、炮声、爆炸声、海浪声和海鸥的叫声。在在视觉上和音效上，相较于[雅達利ST](https://zh.wikipedia.org/wiki/雅達利ST "wikilink")，该游戏在[Amiga](../Page/Amiga.md "wikilink")上的表现更优，Amiga使用更多的颜色和数字化的音效，而雅達利ST版本则出现不同程度的画面抖动（如海洋画面），其音效也是合成音。
 
 ## 评价
 
@@ -81,23 +78,15 @@ Walker创作的主题音乐，是游戏处于标题屏幕界面时的背景音�
 
 《Hunter》发售后，各个媒体对其反响很好（评分均在85-95之间，满分100分）。虽然游戏仍有显示错误\[8\]\[9\]，动画过于简单\[10\]的缺陷，但大多数游戏媒体都认为《Hunter》是有史以来第一个内容完整的3D游戏。\[11\]\[12\]\[13\]该作品被认为是3D矢量游戏的一大突破进展\[14\]，是游戏界发展中具有里程碑意义的一步\[15\]。
 
-然而，最吸引人的是游戏的广袤的行动范围和开放世界。《Amiga
-Computing》的弗雷德·里根认为“除了时间以外，你在游戏中的任务没有任何限制。你可以使用任何你喜欢的载具或设备。这种自由感让玩家充分探索和实验各种载具和设备的组合使用。”\[16\]，《CU
-Amiga》的马克·帕特森认为“尽管这些任务有时间限制，但对于如何完成它们没有限制，而且这种灵活性在过去的3D游戏的实验中极其缺乏。”\[17\]，《ZERO》的大卫·威尔逊认为“我喜欢这个自由控制角色的点子，可以在不同的地点穿行，使用各种载具，还可以在没有‘许可’的情况下自由进出那些建筑物。”\[18\]。
+然而，最吸引人的是游戏的广袤的行动范围和开放世界。《Amiga Computing》的弗雷德·里根认为“除了时间以外，你在游戏中的任务没有任何限制。你可以使用任何你喜欢的载具或设备。这种自由感让玩家充分探索和实验各种载具和设备的组合使用。”\[16\]，《CU Amiga》的马克·帕特森认为“尽管这些任务有时间限制，但对于如何完成它们没有限制，而且这种灵活性在过去的3D游戏的实验中极其缺乏。”\[17\]，《ZERO》的大卫·威尔逊认为“我喜欢这个自由控制角色的点子，可以在不同的地点穿行，使用各种载具，还可以在没有‘许可’的情况下自由进出那些建筑物。”\[18\]。
 
-虽然大多数评论家对游戏世界的设定和具有代入感的环境不吝赞词，但仍有些人认为游戏世界太小，几个小时就可以完成探索。\[19\]\[20\]此外，游戏音乐的缺乏和音效的质量太差也是一个很大的缺点。\[21\]\[22\]尽管有这些缺点，《Hunter》还是被许多评论家认为是一个表现良好的3D动作冒险。如乔纳森·戴维斯在Amiga
-Power杂志上评论道“《Hunter》是个真正的全能型选手。在这个高水准制作的3D世界里，每个人都能找到自己的惊喜和乐趣。打开《Hunter》，你可以在其中沉浸良久。”\[23\]
+虽然大多数评论家对游戏世界的设定和具有代入感的环境不吝赞词，但仍有些人认为游戏世界太小，几个小时就可以完成探索。\[19\]\[20\]此外，游戏音乐的缺乏和音效的质量太差也是一个很大的缺点。\[21\]\[22\]尽管有这些缺点，《Hunter》还是被许多评论家认为是一个表现良好的3D动作冒险。如乔纳森·戴维斯在Amiga Power杂志上评论道“《Hunter》是个真正的全能型选手。在这个高水准制作的3D世界里，每个人都能找到自己的惊喜和乐趣。打开《Hunter》，你可以在其中沉浸良久。”\[23\]
 
 {{-}}
 
 ## 参考文献
 
-[Category:1991年电子游戏](https://zh.wikipedia.org/wiki/Category:1991年电子游戏 "wikilink")
-[Category:开放世界游戏](https://zh.wikipedia.org/wiki/Category:开放世界游戏 "wikilink")
-[Category:动作冒险游戏](https://zh.wikipedia.org/wiki/Category:动作冒险游戏 "wikilink")
-[Category:Amiga遊戲](https://zh.wikipedia.org/wiki/Category:Amiga遊戲 "wikilink")
-[Category:雅達利ST遊戲](https://zh.wikipedia.org/wiki/Category:雅達利ST遊戲 "wikilink")
-[Category:英国开发电子游戏](https://zh.wikipedia.org/wiki/Category:英国开发电子游戏 "wikilink")
+[Category:1991年电子游戏](https://zh.wikipedia.org/wiki/Category:1991年电子游戏 "wikilink") [Category:开放世界游戏](https://zh.wikipedia.org/wiki/Category:开放世界游戏 "wikilink") [Category:动作冒险游戏](https://zh.wikipedia.org/wiki/Category:动作冒险游戏 "wikilink") [Category:Amiga遊戲](https://zh.wikipedia.org/wiki/Category:Amiga遊戲 "wikilink") [Category:雅達利ST遊戲](https://zh.wikipedia.org/wiki/Category:雅達利ST遊戲 "wikilink") [Category:英国开发电子游戏](https://zh.wikipedia.org/wiki/Category:英国开发电子游戏 "wikilink")
 
 1.
 

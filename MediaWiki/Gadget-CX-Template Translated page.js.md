@@ -27,8 +27,7 @@
 `               var revision = ( data.query.pages[data.query.pageids[0]].revisions || [] )[0] || {}, params = {`
 `                   action: 'edit',`
 `                   title: talk.getPrefixedText(),`
-`                   summary: '为翻译页面标记{\{`[`Translated``
- ``page`](https://zh.wikipedia.org/wiki/Template:Translated_page "wikilink")`}\}',`
+`                   summary: '为翻译页面标记{\{`[`Translated``   ``page`](https://zh.wikipedia.org/wiki/Template:Translated_page "wikilink")`}\}',`
 `                   starttimestamp: data.curtimestamp`
 `               }, text = revision['*'];`
 `               if ( text !== undefined ) {`

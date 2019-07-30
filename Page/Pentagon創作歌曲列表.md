@@ -854,15 +854,15 @@ E'Dawn Yuto 禹奭 小娟</p></td>
 | 1 Sided Love                      | Kriz Feat. Kino                                     | 1 Sided Love             | Kriz Kino                                             | Kriz Kino Dart                                             | Kriz                                   |    |
 | Dramatic                          | [BVNDIT](../Page/BVNDIT.md "wikilink")              | Dramatic                 | Hui, Flow Blow, The Proof                             | Hui, Flow Blow, The Proof                                  | Flow Blow, The Proof                   |    |
 | Heart Sign                        | [邕聖祐](https://zh.wikipedia.org/wiki/邕聖祐 "wikilink") | Heart Sign               | Flow Blow Hui                                         | Hui 禹奭 Flow Blow                                           | Flow Blow                              |    |
+| 그녀의 목소리 Her Voice                 | Yeo One                                             | Cube Youtube             | Yeo One                                               | Yeo One                                                    | Yeo One                                |    |
+| 接近禁止 (Prod. By Giriboy)           | PENTAGON                                            | Sum(me:r)                | Giriboy Hui                                           | Hui Giriboy 禹奭                                             | Giriboy                                |    |
+| Fantasystic (Prod. By Giriboy)    | PENTAGON                                            | Sum(me:r)                | Giriboy Minit Hui                                     | Hui 禹奭                                                     | Giriboy Minit                          |    |
+| Summer                            | PENTAGON                                            | Sum(me:r)                | Albin Nordqvist Andreas Oberg                         | 珍虎 禹奭                                                      | Albin Nordqvist Andreas Oberg          |    |
+| Round 2                           | PENTAGON                                            | Sum(me:r)                | PTG全體 MosPick                                         | PTG全體                                                      | MosPick                                |    |
 
 ## 參考資料
 
-[Category:PENTAGON](https://zh.wikipedia.org/wiki/Category:PENTAGON "wikilink")
-[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink")
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
-[Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
-[Category:創作歌曲列表](https://zh.wikipedia.org/wiki/Category:創作歌曲列表 "wikilink")
-[Category:作品列表](https://zh.wikipedia.org/wiki/Category:作品列表 "wikilink")
+[Category:PENTAGON](https://zh.wikipedia.org/wiki/Category:PENTAGON "wikilink") [Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink") [Category:創作歌曲列表](https://zh.wikipedia.org/wiki/Category:創作歌曲列表 "wikilink") [Category:作品列表](https://zh.wikipedia.org/wiki/Category:作品列表 "wikilink")
 
 1.
 2.

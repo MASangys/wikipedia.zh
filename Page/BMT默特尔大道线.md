@@ -1,4 +1,4 @@
-**默特爾大道線**（），又稱「默特爾大道高架鐵路」（）\[1\]，是[紐約地鐵一條全線](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[高架鐵路的路線](https://zh.wikipedia.org/wiki/高架鐵路 "wikilink")，屬於[BMT分部](../Page/布魯克林-曼哈頓運輸股份有限公司.md "wikilink")。此線是[布魯克林其中一個最後殘餘的高架鐵路](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")。該路線作為[BMT牙買加線的分岔前往](https://zh.wikipedia.org/wiki/BMT牙買加線 "wikilink")[布什維克](https://zh.wikipedia.org/wiki/布什維克 "wikilink")、及，在其原初的東端總站，路德墓地對面為總站。直至1969年為止，路線可一直延至，在1944年前更可跨過[布魯克林大橋到](../Page/布魯克林大橋.md "wikilink")[曼哈頓的](../Page/曼哈頓.md "wikilink")為總站。
+**默特爾大道線**（），又稱「默特爾大道高架鐵路」（）\[1\]，是[紐約地鐵一條全線](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[高架鐵路的路線](https://zh.wikipedia.org/wiki/高架鐵路 "wikilink")，屬於[BMT分部](../Page/布魯克林-曼哈頓運輸股份有限公司.md "wikilink")。此線是[布魯克林其中一個最後殘餘的高架鐵路](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")。該路線作為[BMT牙買加線的分岔前往](https://zh.wikipedia.org/wiki/BMT牙買加線 "wikilink")[布什維克](https://zh.wikipedia.org/wiki/布什維克 "wikilink")、及，在其原初的東端總站，路德墓地對面為總站。直至1969年為止，路線可一直延至，在1944年前更可跨過[布魯克林大橋](../Page/布魯克林大橋.md "wikilink")到[曼哈頓](../Page/曼哈頓.md "wikilink")的為總站。
 
 ## 服務
 
@@ -294,36 +294,22 @@
 
 ## 延伸閱讀
 
-  - "The New Road Opened", *[The New York
-    Times](https://zh.wikipedia.org/wiki/The_New_York_Times "wikilink")*,
-    April 11, 1888, page 8
-  - "City and Suburban News", *[The New York
-    Times](https://zh.wikipedia.org/wiki/The_New_York_Times "wikilink")*,
-    April 28, 1889, page 6
-  - "New of the Railroads", *[The New York
-    Times](https://zh.wikipedia.org/wiki/The_New_York_Times "wikilink")*,
-    January 9, 1896, page 15
-  - "Park Row to Sheepshead Bay", *[The New York
-    Times](https://zh.wikipedia.org/wiki/The_New_York_Times "wikilink")*,
-    June 19, 1898, page 5
-  - "1,200 on Last Trip on Myrtle Ave. El; Cars Are Stripped", *[The New
-    York
-    Times](https://zh.wikipedia.org/wiki/The_New_York_Times "wikilink")*,
-    October 4, 1969, page 23
+  - "The New Road Opened", *[The New York Times](https://zh.wikipedia.org/wiki/The_New_York_Times "wikilink")*, April 11, 1888, page 8
+  - "City and Suburban News", *[The New York Times](https://zh.wikipedia.org/wiki/The_New_York_Times "wikilink")*, April 28, 1889, page 6
+  - "New of the Railroads", *[The New York Times](https://zh.wikipedia.org/wiki/The_New_York_Times "wikilink")*, January 9, 1896, page 15
+  - "Park Row to Sheepshead Bay", *[The New York Times](https://zh.wikipedia.org/wiki/The_New_York_Times "wikilink")*, June 19, 1898, page 5
+  - "1,200 on Last Trip on Myrtle Ave. El; Cars Are Stripped", *[The New York Times](https://zh.wikipedia.org/wiki/The_New_York_Times "wikilink")*, October 4, 1969, page 23
 
 ## 外部連結
 
   -
   -
   -
-  - [NYCsubway.org – BMT Myrtle
-    Branch](http://www.nycsubway.org/bmt/myrtle/)
+  - [NYCsubway.org – BMT Myrtle Branch](http://www.nycsubway.org/bmt/myrtle/)
 
-  - ["Myrtle Ave El, Oct. 1969, plus a few earlier
-    shots"](http://pcullinan.smugmug.com/Brooklyn/The-Myrtle-Avenue-El/Myrtle-Ave-El-Oct-1969/2075217_wHdr3P#!i=227947275&k=5PZfXkM)
+  - ["Myrtle Ave El, Oct. 1969, plus a few earlier shots"](http://pcullinan.smugmug.com/Brooklyn/The-Myrtle-Avenue-El/Myrtle-Ave-El-Oct-1969/2075217_wHdr3P#!i=227947275&k=5PZfXkM)
 
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1889年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1889年啟用的鐵路線 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1889年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1889年啟用的鐵路線 "wikilink")
 
 1.
 

@@ -1,27 +1,12 @@
-**离散对数 Pollard Rho 算法** 是 [John
-Pollard](https://zh.wikipedia.org/wiki/John_Pollard_\(mathematician\) "wikilink")
-在1978年发明的解决 [离散对数](../Page/离散对数.md "wikilink") 问题的算法, 区别于解决
-[整数分解](../Page/整数分解.md "wikilink") 问题的同名算法。
+**离散对数 Pollard Rho 算法** 是 [John Pollard](https://zh.wikipedia.org/wiki/John_Pollard_\(mathematician\) "wikilink") 在1978年发明的解决 [离散对数](../Page/离散对数.md "wikilink") 问题的算法, 区别于解决 [整数分解](../Page/整数分解.md "wikilink") 问题的同名算法。
 
-算法的目标是求 \(\gamma\) 使得 \(\alpha ^ \gamma = \beta\)，其中 \(\beta\) 属于一个由
-\(\alpha\) 生成的 [循环群](https://zh.wikipedia.org/wiki/循环群 "wikilink")
-\(G\)。该算法寻找 \(a\), \(b\), \(A\), \(B\) 使得
-\(\alpha^a \beta^b = \alpha^A \beta^B\)。若他们基于的群是一个 \(n\) 阶的循环群，则
-\(\gamma\) 是方程 \((B-b)\gamma = (a-A) \pmod{n}\) 的其中一个解。
+算法的目标是求 \(\gamma\) 使得 \(\alpha ^ \gamma = \beta\)，其中 \(\beta\) 属于一个由 \(\alpha\) 生成的 [循环群](https://zh.wikipedia.org/wiki/循环群 "wikilink") \(G\)。该算法寻找 \(a\), \(b\), \(A\), \(B\) 使得 \(\alpha^a \beta^b = \alpha^A \beta^B\)。若他们基于的群是一个 \(n\) 阶的循环群，则 \(\gamma\) 是方程 \((B-b)\gamma = (a-A) \pmod{n}\) 的其中一个解。
 
-为求得 \(a\), \(b\), \(A\), \(B\)， 该算法使用
-[Floyd判圈算法](../Page/Floyd判圈算法.md "wikilink") 在数列
-\(x_i = \alpha^{a_i} \beta^{b_i}\) 中寻找一个环。 假设映射
-\(f: x_i \mapsto x_{i+1}\) 是近似于随机的，则有可能在约 \(\sqrt{\frac{\pi n}{2}}\)
-步后发现一个环。可使用一下规则来生成一个此类映射：将 \(G\) 分割为三个不相交的子集 \(S_0\)，\(S_1\)
-，\(S_2\) ，且其所含元素数量大致相等，如果 \(x_i \in S_0\) 则将 \(a\) 和 \(b\) 加倍； 如果
-\(x_i \in S_1\) 则将 \(a\) 自增； 如果 \(x_i \in S_2\) 则将 \(b\) 自增。
+为求得 \(a\), \(b\), \(A\), \(B\)， 该算法使用 [Floyd判圈算法](../Page/Floyd判圈算法.md "wikilink") 在数列 \(x_i = \alpha^{a_i} \beta^{b_i}\) 中寻找一个环。 假设映射 \(f: x_i \mapsto x_{i+1}\) 是近似于随机的，则有可能在约 \(\sqrt{\frac{\pi n}{2}}\) 步后发现一个环。可使用一下规则来生成一个此类映射：将 \(G\) 分割为三个不相交的子集 \(S_0\)，\(S_1\) ，\(S_2\) ，且其所含元素数量大致相等，如果 \(x_i \in S_0\) 则将 \(a\) 和 \(b\) 加倍； 如果 \(x_i \in S_1\) 则将 \(a\) 自增； 如果 \(x_i \in S_2\) 则将 \(b\) 自增。
 
 ## 算法
 
-使  是一个  阶的 [循环群](https://zh.wikipedia.org/wiki/循环群 "wikilink"), 且有
-\(\alpha, \beta\in G\), 以及一个分割 \(G = S_0\cup S_1\cup S_2\), 定义映射
-\(f:G\to G\)
+使  是一个  阶的 [循环群](https://zh.wikipedia.org/wiki/循环群 "wikilink"), 且有 \(\alpha, \beta\in G\), 以及一个分割 \(G = S_0\cup S_1\cup S_2\), 定义映射 \(f:G\to G\)
 
 \[f(x) = \begin{cases}
 \beta x & x\in S_0\\
@@ -29,8 +14,7 @@ x^2 & x\in S_1\\
 \alpha x & x\in S_2
 \end{cases}\]
 
-并据以下方式定义映射 \(g:G\times\mathbb{Z}\to\mathbb{Z}\) 和
-\(h:G\times\mathbb{Z}\to\mathbb{Z}\)
+并据以下方式定义映射 \(g:G\times\mathbb{Z}\to\mathbb{Z}\) 和 \(h:G\times\mathbb{Z}\to\mathbb{Z}\)
 
 \[\begin{align}
 g(x,n) &= \begin{cases}
@@ -74,9 +58,7 @@ n & x\in S_2
 
 ## 举例
 
-考虑，举例来说，一个由 2 模 \(N=1019\)
-生成的群(群的阶是\(n=1018\)，2是生成元，生成群的元素模1019同余)。这个算法可由以下
-[C++](../Page/C++.md "wikilink") 程序实现。
+考虑，举例来说，一个由 2 模 \(N=1019\) 生成的群(群的阶是\(n=1018\)，2是生成元，生成群的元素模1019同余)。这个算法可由以下 [C++](../Page/C++.md "wikilink") 程序实现。
 
 ``` cpp
  #include <stdio.h>
@@ -125,20 +107,14 @@ n & x\in S_2
 `50   505 680 378   101 300 415`
 `51  1010 681 378  1010 301 416`
 
-可见 \(2^{681} 5^{378} = 1010 = 2^{301} 5^{416} \pmod{1019}\) 以及
-\((416-378)\gamma = 681-301 \pmod{1018}\)。 正如预期，其中 \(\gamma_1=10\)
-是一个解。由于 \(n=1018\) 不是素数，因此存在另一个解 \(\gamma_2=519\)，使得
-\(2^{519} = 1014 = -5\pmod{1019}\) 成立。
+可见 \(2^{681} 5^{378} = 1010 = 2^{301} 5^{416} \pmod{1019}\) 以及 \((416-378)\gamma = 681-301 \pmod{1018}\)。 正如预期，其中 \(\gamma_1=10\) 是一个解。由于 \(n=1018\) 不是素数，因此存在另一个解 \(\gamma_2=519\)，使得 \(2^{519} = 1014 = -5\pmod{1019}\) 成立。
 
 ## 复杂度
 
-时间复杂度近似于 \(\mathcal{O}(\sqrt{n})\)。如果配合使用算法 [Pohlig-Hellman
-algorithm](https://zh.wikipedia.org/wiki/Pohlig–Hellman_algorithm "wikilink")，则整体时间复杂度近似于
-\(\mathcal{O}(\sqrt{p})\)， 其中 \(p\) 是 \(n\) 的最大质因数。
+时间复杂度近似于 \(\mathcal{O}(\sqrt{n})\)。如果配合使用算法 [Pohlig-Hellman algorithm](https://zh.wikipedia.org/wiki/Pohlig–Hellman_algorithm "wikilink")，则整体时间复杂度近似于 \(\mathcal{O}(\sqrt{p})\)， 其中 \(p\) 是 \(n\) 的最大质因数。
 
 ## 参考文献
 
   -
   -
-[Category:Logarithms](https://zh.wikipedia.org/wiki/Category:Logarithms "wikilink")
-[Category:Number_theoretic_algorithms](https://zh.wikipedia.org/wiki/Category:Number_theoretic_algorithms "wikilink")
+[Category:Logarithms](https://zh.wikipedia.org/wiki/Category:Logarithms "wikilink") [Category:Number_theoretic_algorithms](https://zh.wikipedia.org/wiki/Category:Number_theoretic_algorithms "wikilink")

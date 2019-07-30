@@ -1,14 +1,8 @@
-**tmux**
-是一个优秀的[终端复用器类](https://zh.wikipedia.org/wiki/终端复用器 "wikilink")[自由软件](../Page/自由软件.md "wikilink")，功能类似
-[GNU Screen](../Page/GNU_Screen.md "wikilink")，但使用 [BSD
-许可发布](../Page/BSD许可证.md "wikilink")。用户可以通过 tmux
-在一个[终端内管理多个分离的会话](https://zh.wikipedia.org/wiki/终端 "wikilink")，窗口及面板，对于同时使用多个[命令行](https://zh.wikipedia.org/wiki/命令行 "wikilink")，或多个任务时非常方便。
+**tmux** 是一个优秀的[终端复用器类](https://zh.wikipedia.org/wiki/终端复用器 "wikilink")[自由软件](../Page/自由软件.md "wikilink")，功能类似 [GNU Screen](../Page/GNU_Screen.md "wikilink")，但使用 [BSD 许可发布](../Page/BSD许可证.md "wikilink")。用户可以通过 tmux 在一个[终端内管理多个分离的会话](https://zh.wikipedia.org/wiki/终端 "wikilink")，窗口及面板，对于同时使用多个[命令行](https://zh.wikipedia.org/wiki/命令行 "wikilink")，或多个任务时非常方便。
 
 ## 概念模型
 
-tmux 采用
-[client/server](https://zh.wikipedia.org/wiki/client/server "wikilink")
-模型，主要由以下模块组成：
+tmux 采用 [client/server](https://zh.wikipedia.org/wiki/client/server "wikilink") 模型，主要由以下模块组成：
 
 | 模块      | 简介                          |
 | ------- | --------------------------- |
@@ -45,14 +39,11 @@ tmux 采用
 
   - 不能使用 [ZMODEM](../Page/ZMODEM.md "wikilink")（rz/sz）操作
   - 结对编程时界面受字号大小影响
-  - 部分系统接口访问受限，如 Mac OS 中需要安装
-    [reattach-to-user-namespace](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard)
-    才可以正常使用与 pbcopy/pbpaste
+  - 部分系统接口访问受限，如 Mac OS 中需要安装 [reattach-to-user-namespace](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard) 才可以正常使用与 pbcopy/pbpaste
 
 ## 相似软件
 
-  - [Byobu
-    (software)](https://zh.wikipedia.org/wiki/Byobu_\(software\) "wikilink")
+  - [Byobu (software)](https://zh.wikipedia.org/wiki/Byobu_\(software\) "wikilink")
   - [GNU Screen](../Page/GNU_Screen.md "wikilink")
 
 ## 参考
@@ -60,11 +51,9 @@ tmux 采用
   -
 ### 网络书籍
 
-  - [9781934356968 tmux: Productive Mouse-Free Development
-    ISBN 9781934356968](https://books.google.com/books?id=qINFMwEACAAJ&dq=ISBN)
+  - [9781934356968 tmux: Productive Mouse-Free Development ISBN 9781934356968](https://books.google.com/books?id=qINFMwEACAAJ&dq=ISBN)
 
-  - [tmux: Productive Mouse-Free Development
-    中文翻译](https://archive.is/20151104153159/https://www.gitbook.com/book/aquaregia/tmux-productive-mouse-free-development_zh/details)
+  - [tmux: Productive Mouse-Free Development 中文翻译](https://archive.is/20151104153159/https://www.gitbook.com/book/aquaregia/tmux-productive-mouse-free-development_zh/details)
 
 ### 网络资料
 

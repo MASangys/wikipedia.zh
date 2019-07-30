@@ -2,9 +2,7 @@
 
 ## 劇情
 
-SIESTA賭場開業前，出現在張泰英(金秀賢 飾)面前的暗黑組織老大曹源根(成東鎰
-飾)主張自己擁有賭場的所有權，陷入賭場搶奪危機的張泰英去拜訪了投資者。某天，不僅是姓名連外貌都一樣的可疑投資者(金秀賢
-飾)出現並提出把曹源根一起解決的方案。隨著可疑投資者的登場，與曹源根之間爭奪賭場的戰爭正式開始，圍繞著他們的巨大秘密和陰謀漸漸浮出水面。
+SIESTA賭場開業前，出現在張泰英(金秀賢 飾)面前的暗黑組織老大曹源根(成東鎰 飾)主張自己擁有賭場的所有權，陷入賭場搶奪危機的張泰英去拜訪了投資者。某天，不僅是姓名連外貌都一樣的可疑投資者(金秀賢 飾)出現並提出把曹源根一起解決的方案。隨著可疑投資者的登場，與曹源根之間爭奪賭場的戰爭正式開始，圍繞著他們的巨大秘密和陰謀漸漸浮出水面。
 
 ## 演員
 
@@ -37,15 +35,9 @@ SIESTA賭場開業前，出現在張泰英(金秀賢 飾)面前的暗黑組織�
 
   - [NAVER電影](http://movie.naver.com/movie/bi/mi/basic.nhn?code=137008)
   - [Daum電影](http://movie.daum.net/moviedb/main?movieId=93283)
-  - [China's Alibaba Pictures to Invest in South Korean Film
-    'Real'](https://www.hollywoodreporter.com/news/alibaba-pictures-invest-korean-film-831286)
-  - [Alibaba Pictures In ‘Real’ Deal; Pacts For First Korean Film
-    Investment](http://deadline.com/2015/10/alibaba-pictures-real-korean-film-investment-kim-soo-hyun-1201576486/)
+  - [China's Alibaba Pictures to Invest in South Korean Film 'Real'](https://www.hollywoodreporter.com/news/alibaba-pictures-invest-korean-film-831286)
+  - [Alibaba Pictures In ‘Real’ Deal; Pacts For First Korean Film Investment](http://deadline.com/2015/10/alibaba-pictures-real-korean-film-investment-kim-soo-hyun-1201576486/)
 
-[Category:2017年電影](https://zh.wikipedia.org/wiki/Category:2017年電影 "wikilink")
-[Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink")
-[Category:韓國動作片](https://zh.wikipedia.org/wiki/Category:韓國動作片 "wikilink")
-[Category:韓國犯罪片](https://zh.wikipedia.org/wiki/Category:韓國犯罪片 "wikilink")
-[Category:韓國驚悚片](https://zh.wikipedia.org/wiki/Category:韓國驚悚片 "wikilink")
+[Category:2017年電影](https://zh.wikipedia.org/wiki/Category:2017年電影 "wikilink") [Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink") [Category:韓國動作片](https://zh.wikipedia.org/wiki/Category:韓國動作片 "wikilink") [Category:韓國犯罪片](https://zh.wikipedia.org/wiki/Category:韓國犯罪片 "wikilink") [Category:韓國驚悚片](https://zh.wikipedia.org/wiki/Category:韓國驚悚片 "wikilink")
 
 1.  [瘋電影／REAL　金秀賢一人飾三角](https://www.ettoday.net/news/20170811/975480.htm)ettoday.賴賴.2017-08-11

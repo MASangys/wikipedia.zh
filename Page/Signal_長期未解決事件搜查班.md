@@ -1,6 +1,4 @@
-**《Signal
-長期未解決事件搜查班》**（），為日本[富士電視台於](../Page/富士電視台.md "wikilink")2018年4月10日起播出的[火九連續劇](../Page/關西電視台週二晚間九點連續劇.md "wikilink")。改編自2016年的同名韓國刑偵劇《[Signal
-信號](../Page/Signal_\(電視劇\).md "wikilink")》。本劇亦為[坂口健太郎的初次主演劇作](../Page/坂口健太郎.md "wikilink")。
+**《Signal 長期未解決事件搜查班》**（），為日本[富士電視台](../Page/富士電視台.md "wikilink")於2018年4月10日起播出的[火九連續劇](../Page/關西電視台週二晚間九點連續劇.md "wikilink")。改編自2016年的同名韓國刑偵劇《[Signal 信號](../Page/Signal_\(電視劇\).md "wikilink")》。本劇亦為[坂口健太郎](../Page/坂口健太郎.md "wikilink")的初次主演劇作。
 
 ## 登場人物
 
@@ -22,7 +20,7 @@
 <p>三枝健人</p></td>
 <td><center>
 <p>朴海英</p></td>
-<td><p>原城西署地域課巡警。2010年時前往美國進修，2018年學成歸國，並加入長期未解決事件搜查班擔任<a href="../Page/罪犯側寫.md" title="wikilink">罪犯側寫師</a>。階級從<a href="../Page/巡查.md" title="wikilink">巡查晉升至</a><a href="../Page/警部補.md" title="wikilink">警部補</a>。</p></td>
+<td><p>原城西署地域課巡警。2010年時前往美國進修，2018年學成歸國，並加入長期未解決事件搜查班擔任<a href="../Page/罪犯側寫.md" title="wikilink">罪犯側寫</a>師。階級從<a href="../Page/巡查.md" title="wikilink">巡查</a>晉升至<a href="../Page/警部補.md" title="wikilink">警部補</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -31,7 +29,7 @@
 <p>櫻井美咲</p></td>
 <td><center>
 <p>車秀賢</p></td>
-<td><p>原城西署刑事課刑警，現為搜查一課長期未解決事件捜査班班長。<a href="../Page/巡查部長.md" title="wikilink">巡查部長晉升至警部補</a>。</p></td>
+<td><p>原城西署刑事課刑警，現為搜查一課長期未解決事件捜査班班長。<a href="../Page/巡查部長.md" title="wikilink">巡查部長</a>晉升至警部補。</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -820,8 +818,7 @@
   - 腳本：[尾崎將也](https://zh.wikipedia.org/wiki/尾崎將也 "wikilink")、[大久保朋美](https://zh.wikipedia.org/wiki/大久保朋美 "wikilink")
   - 音樂：[林友樹](https://zh.wikipedia.org/wiki/林友樹 "wikilink")、橘麻美
   - 主題曲：[防彈少年團](../Page/防彈少年團.md "wikilink")《Don't Leave Me》
-  - 插曲：[miwa](https://zh.wikipedia.org/wiki/miwa "wikilink")《Unchained
-    Love》
+  - 插曲：[miwa](https://zh.wikipedia.org/wiki/miwa "wikilink")《Unchained Love》
   - 導演：内片輝、[鈴木浩介](https://zh.wikipedia.org/wiki/鈴木浩介_\(導演\) "wikilink")
   - 製作人：萩原崇（KTV）、笠置高弘（KTV）、石田麻衣
   - 製作·著作：[關西電視台](../Page/關西電視台.md "wikilink")
@@ -839,19 +836,7 @@
   -
   -
   -
-[Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink")
-[Category:關西電視台週二晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:關西電視台週二晚間九點連續劇 "wikilink")
-[Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink")
-[Category:翻拍韓國電視劇的電視劇](https://zh.wikipedia.org/wiki/Category:翻拍韓國電視劇的電視劇 "wikilink")
-[Category:日本懸疑劇](https://zh.wikipedia.org/wiki/Category:日本懸疑劇 "wikilink")
-[Category:程序型罪案调查剧](https://zh.wikipedia.org/wiki/Category:程序型罪案调查剧 "wikilink")
-[Category:日本犯罪劇](https://zh.wikipedia.org/wiki/Category:日本犯罪劇 "wikilink")
-[Category:日本科幻劇](https://zh.wikipedia.org/wiki/Category:日本科幻劇 "wikilink")
-[Category:日本奇幻劇](https://zh.wikipedia.org/wiki/Category:日本奇幻劇 "wikilink")
-[Category:Horipro電視劇](https://zh.wikipedia.org/wiki/Category:Horipro電視劇 "wikilink")
-[Category:廣播題材電視劇](https://zh.wikipedia.org/wiki/Category:廣播題材電視劇 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
+[Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink") [Category:關西電視台週二晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:關西電視台週二晚間九點連續劇 "wikilink") [Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink") [Category:翻拍韓國電視劇的電視劇](https://zh.wikipedia.org/wiki/Category:翻拍韓國電視劇的電視劇 "wikilink") [Category:日本懸疑劇](https://zh.wikipedia.org/wiki/Category:日本懸疑劇 "wikilink") [Category:程序型罪案调查剧](https://zh.wikipedia.org/wiki/Category:程序型罪案调查剧 "wikilink") [Category:日本犯罪劇](https://zh.wikipedia.org/wiki/Category:日本犯罪劇 "wikilink") [Category:日本科幻劇](https://zh.wikipedia.org/wiki/Category:日本科幻劇 "wikilink") [Category:日本奇幻劇](https://zh.wikipedia.org/wiki/Category:日本奇幻劇 "wikilink") [Category:Horipro電視劇](https://zh.wikipedia.org/wiki/Category:Horipro電視劇 "wikilink") [Category:廣播題材電視劇](https://zh.wikipedia.org/wiki/Category:廣播題材電視劇 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
 
 1.  [坂口健太郎主演「シグナル　長期未解決事件捜査班」初回視聴率は関東９・７％　関西は１２・９％で２ケタ発進](http://www.hochi.co.jp/entertainment/20180411-OHT1T50057.html)
 2.  [坂口健太郎主演「シグナル」第２話視聴率は関東８・４％、関西は１４・３％の高数字](http://www.hochi.co.jp/entertainment/20180418-OHT1T50059.html)

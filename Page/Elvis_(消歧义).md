@@ -6,8 +6,7 @@
 
   - ，男子名。
 
-  - [艾維斯·卡斯提洛](../Page/艾維斯·卡斯提洛.md "wikilink")（），本名戴克蘭·派崔克·麥克曼努斯（Declan
-    Patrick MacManus），一名音樂家，1954年出生於英格蘭倫敦西敏市帕丁頓。
+  - [艾維斯·卡斯提洛](../Page/艾維斯·卡斯提洛.md "wikilink")（），本名戴克蘭·派崔克·麥克曼努斯（Declan Patrick MacManus），一名音樂家，1954年出生於英格蘭倫敦西敏市帕丁頓。
 
   - ，科特迪瓦足球運動員，1983年生。
 
@@ -116,7 +115,7 @@
 
   - ，談話性節目（**）中的一位主持。
 
-  - ，電視影集[邁阿密風雲裡一隻虛構的鱷魚](../Page/邁阿密風雲.md "wikilink")。
+  - ，電視影集[邁阿密風雲](../Page/邁阿密風雲.md "wikilink")裡一隻虛構的鱷魚。
 
   - ，的作品中一位的私家偵探。
 
@@ -142,8 +141,7 @@
 
   - （），位在威爾斯錫爾迪金郡。
 
-  - ，[諾基亞Lumia
-    1020的代碼名稱](https://zh.wikipedia.org/wiki/諾基亞Lumia_1020 "wikilink")。
+  - ，[諾基亞Lumia 1020的代碼名稱](https://zh.wikipedia.org/wiki/諾基亞Lumia_1020 "wikilink")。
 
   - 〈ELVIS〉，女團[AOA的歌](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")。
 
@@ -153,8 +151,7 @@
 
   -
   -
-  - [艾維斯·普里斯萊
-    (消歧義)](https://zh.wikipedia.org/wiki/艾維斯·普里斯萊_\(消歧義\) "wikilink")
+  - [艾維斯·普里斯萊 (消歧義)](https://zh.wikipedia.org/wiki/艾維斯·普里斯萊_\(消歧義\) "wikilink")
 
   - [貓王 (消歧義)](https://zh.wikipedia.org/wiki/貓王_\(消歧義\) "wikilink")
 
@@ -162,5 +159,4 @@
 
 ## 相關連結
 
-[Category:非中文名稱消歧義](https://zh.wikipedia.org/wiki/Category:非中文名稱消歧義 "wikilink")
-[Category:埃爾維斯·皮禮士利](https://zh.wikipedia.org/wiki/Category:埃爾維斯·皮禮士利 "wikilink")
+[Category:非中文名稱消歧義](https://zh.wikipedia.org/wiki/Category:非中文名稱消歧義 "wikilink") [Category:埃爾維斯·皮禮士利](https://zh.wikipedia.org/wiki/Category:埃爾維斯·皮禮士利 "wikilink")

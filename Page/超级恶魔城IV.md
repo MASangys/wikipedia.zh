@@ -12,10 +12,7 @@
 
   - [悪魔城ドラキュラシリーズ総合サイト](http://www.konami.jp/gs/game/dracula/)
 
-[Category:1991年电子游戏](https://zh.wikipedia.org/wiki/Category:1991年电子游戏 "wikilink")
-[Category:恶魔城系列电子游戏](https://zh.wikipedia.org/wiki/Category:恶魔城系列电子游戏 "wikilink")
-[Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink")
-[Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink")
+[Category:1991年电子游戏](https://zh.wikipedia.org/wiki/Category:1991年电子游戏 "wikilink") [Category:恶魔城系列电子游戏](https://zh.wikipedia.org/wiki/Category:恶魔城系列电子游戏 "wikilink") [Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink") [Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink")
 
 1.
 2.

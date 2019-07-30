@@ -1,5 +1,4 @@
-**FFG**（全名：Fight Factory
-Gym，又名：FFG武術健身中心），是香港的一間健身中心，由[杜恆霖創辦](https://zh.wikipedia.org/wiki/杜恆霖 "wikilink")，現有4間分店，分店規模為香港第四大\[1\]。
+**FFG**（全名：Fight Factory Gym，又名：FFG武術健身中心），是香港的一間健身中心，由[杜恆霖創辦](https://zh.wikipedia.org/wiki/杜恆霖 "wikilink")，現有4間分店，分店規模為香港第四大\[1\]。
 
 FFG的銷售手法多次惹起關注，屢次以不良銷售手法游說客人簽下鉅額課程合約，而FFG往往不願承認責任\[2\]。在2016年4月，FFG被揭發教唆一名輕度智障男子借貸以簽下5份合共逾25.3萬元的課程合約，貸款金額料逾100萬元，受害人報警及向[香港消委會投訴](https://zh.wikipedia.org/wiki/香港消委會 "wikilink")，但拳館只願退款7萬元，事件在社會上引發廣泛討論。\[3\]
 
@@ -10,7 +9,7 @@ FFG的銷售手法多次惹起關注，屢次以不良銷售手法游說客人�
 
 <!-- end list -->
 
-  - 2014年9月20日，有報道指FFG泰拳班以轟炸形式推銷課程，不准飲水逼市民入會。當事人購買四堂泰拳班，甫上堂即被職員瘋狂推銷，遭取去[身份證及](https://zh.wikipedia.org/wiki/身份證 "wikilink")[信用卡後被迫簽約購買整個課程](../Page/信用卡.md "wikilink")；亦有市民簽約後，職員才填上總收費金額。海關將研究事件是否牴觸《商品說明條例》；法律界人士則指消費者倘能提供證據證明被強迫簽約，將可推翻合約之合法性。\[4\]
+  - 2014年9月20日，有報道指FFG泰拳班以轟炸形式推銷課程，不准飲水逼市民入會。當事人購買四堂泰拳班，甫上堂即被職員瘋狂推銷，遭取去[身份證及](https://zh.wikipedia.org/wiki/身份證 "wikilink")[信用卡](../Page/信用卡.md "wikilink")後被迫簽約購買整個課程；亦有市民簽約後，職員才填上總收費金額。海關將研究事件是否牴觸《商品說明條例》；法律界人士則指消費者倘能提供證據證明被強迫簽約，將可推翻合約之合法性。\[4\]
 
 <!-- end list -->
 
@@ -42,10 +41,7 @@ FFG的銷售手法多次惹起關注，屢次以不良銷售手法游說客人�
 
 [Category:香港健身中心](https://zh.wikipedia.org/wiki/Category:香港健身中心 "wikilink")
 
-1.  現時香港共有6家接待男女賓的大型健身連鎖店，包括[舒適堡](../Page/舒適堡.md "wikilink")（21間分店）、[Pure
-    Fitness](../Page/Pure_Fitness.md "wikilink")（9間分店）、[Fitness
-    First](../Page/菲力斯第一.md "wikilink")（9間分店）、[搏藝中心](../Page/搏藝中心.md "wikilink")（9間分店）、[Goji
-    Studios](../Page/Goji_Studios.md "wikilink")（8間分店）及[FFG武術健身中心](../Page/FFG.md "wikilink")（4間分店），不包括[康文署在各區設立之健身室及](https://zh.wikipedia.org/wiki/康文署健身室 "wikilink")[菲力偉](https://zh.wikipedia.org/wiki/菲力偉 "wikilink")2間女子與1間男子健身店。
+1.  現時香港共有6家接待男女賓的大型健身連鎖店，包括[舒適堡](../Page/舒適堡.md "wikilink")（21間分店）、[Pure Fitness](../Page/Pure_Fitness.md "wikilink")（9間分店）、[Fitness First](../Page/菲力斯第一.md "wikilink")（9間分店）、[搏藝中心](../Page/搏藝中心.md "wikilink")（9間分店）、[Goji Studios](../Page/Goji_Studios.md "wikilink")（8間分店）及[FFG](../Page/FFG.md "wikilink")武術健身中心（4間分店），不包括[康文署在各區設立之健身室及](https://zh.wikipedia.org/wiki/康文署健身室 "wikilink")[菲力偉](https://zh.wikipedia.org/wiki/菲力偉 "wikilink")2間女子與1間男子健身店。
 2.
 3.
 4.

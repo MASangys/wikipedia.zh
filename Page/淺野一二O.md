@@ -1,4 +1,4 @@
-**淺野一二O**，是[日本男性](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。
+**淺野一二O**，是[日本](../Page/日本.md "wikilink")男性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。
 
 ## 經歷
 
@@ -14,19 +14,17 @@
 
 ## 作品
 
-  - 多美好的人生（）（2002～2004）[東販出版](../Page/東販.md "wikilink") 全2卷
+  - 多美好的人生（）（2002～2004）[東販](../Page/東販.md "wikilink")出版 全2卷
 
-  - 虹之原Horograph（）（2003～2005）[東販出版](../Page/東販.md "wikilink") 全1卷
+  - 虹之原Horograph（）（2003～2005）[東販](../Page/東販.md "wikilink")出版 全1卷
 
-  - 光之城（） （2004～2005）[東販出版](../Page/東販.md "wikilink") 全1卷
+  - 光之城（） （2004～2005）[東販](../Page/東販.md "wikilink")出版 全1卷
 
-  - [SOLANIN](https://zh.wikipedia.org/wiki/Solanin "wikilink")（ソラニン）（2005～2006）[東販出版](../Page/東販.md "wikilink")
-    全2卷
+  - [SOLANIN](https://zh.wikipedia.org/wiki/Solanin "wikilink")（ソラニン）（2005～2006）[東販](../Page/東販.md "wikilink")出版 全2卷
 
-  - [晚安，布布](../Page/晚安，布布.md "wikilink")（おやすみプンプン）（2007～2013）[東販出版](../Page/東販.md "wikilink")
-    全13卷
+  - [晚安，布布](../Page/晚安，布布.md "wikilink")（おやすみプンプン）（2007～2013）[東販](../Page/東販.md "wikilink")出版 全13卷
 
-  - 世界末日與黎明前（）（2008年、小學館）[東販出版](../Page/東販.md "wikilink") 全1卷
+  - 世界末日與黎明前（）（2008年、小學館）[東販](../Page/東販.md "wikilink")出版 全1卷
 
       - 無題（）
       - 黎明前（）
@@ -43,7 +41,7 @@
 
   - （2008～2011）全1卷
 
-  - 錯位的青春 （）（2009～2013）[東販出版](../Page/東販.md "wikilink") 全2卷
+  - 錯位的青春 （）（2009～2013）[東販](../Page/東販.md "wikilink")出版 全2卷
 
   - DEAD DEAD DEMON'S DEDEDEDE DESTRUCTION 惡魔的破壞（） （2014～連載中）共6卷
 
@@ -53,7 +51,7 @@
 
 ## 畫集
 
-  - Ctrl+T淺野一二O的漫畫世界（）[東販出版](../Page/東販.md "wikilink")（2010年、小學館）
+  - Ctrl+T淺野一二O的漫畫世界（）[東販](../Page/東販.md "wikilink")出版（2010年、小學館）
   - Ctrl+T mini 浅野いにおWORKS 台灣未代理（2010年、小學館）
 
 收錄短篇： 《春天快來》（はるよこい）、《向日葵》（ひまわり）
@@ -74,10 +72,8 @@
 
 <!-- end list -->
 
-  - [鳥渕佑紀](https://zh.wikipedia.org/wiki/鳥渕佑紀 "wikilink") - [Big Comic
-    Spirits増刊Casual的新人](../Page/Big_Comic_Spirits.md "wikilink")。
-  - [佐藤五月](https://zh.wikipedia.org/wiki/佐藤五月 "wikilink") -
-    [週刊少年Sunday的新人](../Page/週刊少年Sunday.md "wikilink")。
+  - [鳥渕佑紀](https://zh.wikipedia.org/wiki/鳥渕佑紀 "wikilink") - [Big Comic Spirits増刊Casual的新人](../Page/Big_Comic_Spirits.md "wikilink")。
+  - [佐藤五月](https://zh.wikipedia.org/wiki/佐藤五月 "wikilink") - [週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")的新人。
   - [柏葉ヒロ](https://zh.wikipedia.org/wiki/柏葉ヒロ "wikilink")：漫畫家。
   - CG助手：[斎藤 央](https://zh.wikipedia.org/wiki/斎藤_央 "wikilink")
   - 協力：くまつと、[岩間康正](https://zh.wikipedia.org/wiki/岩間康正 "wikilink")

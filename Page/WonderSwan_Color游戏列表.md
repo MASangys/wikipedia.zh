@@ -1,5 +1,4 @@
-本电子游戏列表列举了[萬代](../Page/萬代.md "wikilink")[WonderSwan
-Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")。
+本电子游戏列表列举了[萬代](../Page/萬代.md "wikilink")[WonderSwan Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")。
 
 ## 游戏
 
@@ -939,8 +938,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 
 ## 参考资料
 
-[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
-[Category:WonderSwan_Color遊戲](https://zh.wikipedia.org/wiki/Category:WonderSwan_Color遊戲 "wikilink")
+[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink") [Category:WonderSwan_Color遊戲](https://zh.wikipedia.org/wiki/Category:WonderSwan_Color遊戲 "wikilink")
 
 1.
 

@@ -1,5 +1,4 @@
-是[Pokelabo與](../Page/Pokelabo.md "wikilink")[SQUARE
-ENIX共同開發的手機遊戲](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")。[橫尾太郎負責原作兼創意監督](https://zh.wikipedia.org/wiki/橫尾太郎 "wikilink")，他監督過《[尼爾](../Page/尼爾_\(遊戲\).md "wikilink")》和《[誓血龍騎士](../Page/誓血龍騎士.md "wikilink")》系列作，[岡部啟一和](https://zh.wikipedia.org/wiki/岡部啟一 "wikilink")[MONACA編撰音樂](https://zh.wikipedia.org/wiki/MONACA "wikilink")，角色插畫則由[ZINO負責](https://zh.wikipedia.org/wiki/ZINO "wikilink")。遊戲以囚禁的圖書館為舞台講述眾多有着黑暗面美少女的冒險故事。《SINoALICE》在日本時間2017年6月6日推出\[1\]\[2\]。繁體中文版2018年11月29日上線。
+是[Pokelabo](../Page/Pokelabo.md "wikilink")與[SQUARE ENIX共同開發的手機遊戲](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")。[橫尾太郎負責原作兼創意監督](https://zh.wikipedia.org/wiki/橫尾太郎 "wikilink")，他監督過《[尼爾](../Page/尼爾_\(遊戲\).md "wikilink")》和《[誓血龍騎士](../Page/誓血龍騎士.md "wikilink")》系列作，[岡部啟一和](https://zh.wikipedia.org/wiki/岡部啟一 "wikilink")[MONACA編撰音樂](https://zh.wikipedia.org/wiki/MONACA "wikilink")，角色插畫則由[ZINO負責](https://zh.wikipedia.org/wiki/ZINO "wikilink")。遊戲以囚禁的圖書館為舞台講述眾多有着黑暗面美少女的冒險故事。《SINoALICE》在日本時間2017年6月6日推出\[1\]\[2\]。繁體中文版2018年11月29日上線。
 
 ## 遊戲內容
 
@@ -86,6 +85,10 @@ ENIX共同開發的手機遊戲](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wiki
   -
     雙胞胎姊妹，因此對兩人相依為命過活的尼爾與約娜特別關照。
 
+### 叛逆的魯魯修
+
+  -
+
 ## 角色職業及武器
 
 遊戲進行主要靠角色以武器來打倒敵人，而一名角色可以擁有數個職業。職業的特點在於「得意武器」，使用特定武器時會有增幅效果；培養該職業也能強化其得意武器的威力。遊戲剛推出時共有七種職業，分別對應一種武器類型\[5\]：
@@ -120,12 +123,7 @@ ENIX共同開發的手機遊戲](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wiki
   -
   -
   -
-[Category:2017年電子遊戲](https://zh.wikipedia.org/wiki/Category:2017年電子遊戲 "wikilink")
-[Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:史克威爾艾尼克斯遊戲](https://zh.wikipedia.org/wiki/Category:史克威爾艾尼克斯遊戲 "wikilink")
-[Category:民間傳說與童話題材作品](https://zh.wikipedia.org/wiki/Category:民間傳說與童話題材作品 "wikilink")
-[Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink")
+[Category:2017年電子遊戲](https://zh.wikipedia.org/wiki/Category:2017年電子遊戲 "wikilink") [Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:史克威爾艾尼克斯遊戲](https://zh.wikipedia.org/wiki/Category:史克威爾艾尼克斯遊戲 "wikilink") [Category:民間傳說與童話題材作品](https://zh.wikipedia.org/wiki/Category:民間傳說與童話題材作品 "wikilink") [Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink")
 
 1.
 2.

@@ -6,11 +6,8 @@
 
 ## 参考文献
 
-[Category:SING女團歌曲](https://zh.wikipedia.org/wiki/Category:SING女團歌曲 "wikilink")
-[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink")
+[Category:SING女團歌曲](https://zh.wikipedia.org/wiki/Category:SING女團歌曲 "wikilink") [Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink")
 
 1.  [【SING女团】「寄明月」正式版MV、电子国风单曲](https://www.bilibili.com/video/av15342695/)，SING女团官方BiliBili账号
-2.  [SING女团发布《寄明月》
-    融合传统乐器与电子乐](http://ent.sina.com.cn/y/yneidi/2017-09-26/doc-ifymesii5815698.shtml/)
-    ，新浪娱乐
+2.  [SING女团发布《寄明月》 融合传统乐器与电子乐](http://ent.sina.com.cn/y/yneidi/2017-09-26/doc-ifymesii5815698.shtml/) ，新浪娱乐
 3.  [ 寄明月-SING女团](https://y.qq.com/n/yqq/song/002yP4Gd0Mjr30.html)，QQ音乐

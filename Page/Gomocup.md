@@ -1,18 +1,14 @@
-**Gomocup**是[五子棋](../Page/五子棋.md "wikilink")[人工智能的世界性比赛](../Page/人工智能.md "wikilink")。自2000年以来，每年举办一次\[1\]
-。截至2017年\[2\]，它是国际上最大且最有影响力的五子棋人工智能赛事，有来自约10个国家与地区的40余位作者参与。
+**Gomocup**是[五子棋](../Page/五子棋.md "wikilink")[人工智能](../Page/人工智能.md "wikilink")的世界性比赛。自2000年以来，每年举办一次\[1\] 。截至2017年\[2\]，它是国际上最大且最有影响力的五子棋人工智能赛事，有来自约10个国家与地区的40余位作者参与。
 
 ## 规则
 
-基于20x20的棋盘下的无禁手自由（freestyle
-gomoku）规则是Gomocup创立之出就被采用的规则\[3\]。2009年，无禁手标准规则（standard
-gomoku）作为一个新的竞赛规则被引入了Gomocup。该规则下，棋盘大小为15x15，且超过5个子不算赢也不算输\[4\]。2016年，[连珠规则作为又一个新的竞赛规则加入了Gomocup](../Page/连珠.md "wikilink")。该规则下，棋盘大小为15x15，且黑棋有禁手\[5\]。由于参与无禁手自由规则角逐的程序数量较多，该规则的比赛被分成了若干小组，同时增设了该规则下的快棋比赛\[6\]。
+基于20x20的棋盘下的无禁手自由（freestyle gomoku）规则是Gomocup创立之出就被采用的规则\[3\]。2009年，无禁手标准规则（standard gomoku）作为一个新的竞赛规则被引入了Gomocup。该规则下，棋盘大小为15x15，且超过5个子不算赢也不算输\[4\]。2016年，[连珠](../Page/连珠.md "wikilink")规则作为又一个新的竞赛规则加入了Gomocup。该规则下，棋盘大小为15x15，且黑棋有禁手\[5\]。由于参与无禁手自由规则角逐的程序数量较多，该规则的比赛被分成了若干小组，同时增设了该规则下的快棋比赛\[6\]。
 
 因为原始的没有附加规则的五子棋先手必胜\[7\]，从2006年开始，Gomocup使用五子棋专家准备的平衡开局作为对局的起点\[8\]。
 
 ## 人机对战
 
-2006年、2011年，在[捷克举办了两届人机比赛](../Page/捷克.md "wikilink")。其中，2006年比赛的对战双方是当年Gomocup排名前3的程序与3位排名捷克五子棋在线（Piškvorky
-online\[9\]）前10的棋手，每位棋手与程序进行2局比赛。比赛的结果是程序1胜1和1负，总比分为3:3\[10\]。2011年比赛的对战双方是Gomocup排名前4的程序与捷克等级分排名前4的棋手。与第一届比赛类似，每位棋手与程序进行2局比赛。比赛的结果是程序3平1胜，总比分为5:3\[11\]。
+2006年、2011年，在[捷克](../Page/捷克.md "wikilink")举办了两届人机比赛。其中，2006年比赛的对战双方是当年Gomocup排名前3的程序与3位排名捷克五子棋在线（Piškvorky online\[9\]）前10的棋手，每位棋手与程序进行2局比赛。比赛的结果是程序1胜1和1负，总比分为3:3\[10\]。2011年比赛的对战双方是Gomocup排名前4的程序与捷克等级分排名前4的棋手。与第一届比赛类似，每位棋手与程序进行2局比赛。比赛的结果是程序3平1胜，总比分为5:3\[11\]。
 
 ## Elo等级分
 
@@ -988,11 +984,7 @@ Sebastian Nowozin</p></td>
 
 ## 参考文献
 
-[Category:五子棋類遊戲](https://zh.wikipedia.org/wiki/Category:五子棋類遊戲 "wikilink")
-[Category:紙筆遊戲](https://zh.wikipedia.org/wiki/Category:紙筆遊戲 "wikilink")
-[Category:傳統圖版遊戲](https://zh.wikipedia.org/wiki/Category:傳統圖版遊戲 "wikilink")
-[Category:日本游戏](https://zh.wikipedia.org/wiki/Category:日本游戏 "wikilink")
-[Category:人工智能](https://zh.wikipedia.org/wiki/Category:人工智能 "wikilink")
+[Category:五子棋類遊戲](https://zh.wikipedia.org/wiki/Category:五子棋類遊戲 "wikilink") [Category:紙筆遊戲](https://zh.wikipedia.org/wiki/Category:紙筆遊戲 "wikilink") [Category:傳統圖版遊戲](https://zh.wikipedia.org/wiki/Category:傳統圖版遊戲 "wikilink") [Category:日本游戏](https://zh.wikipedia.org/wiki/Category:日本游戏 "wikilink") [Category:人工智能](https://zh.wikipedia.org/wiki/Category:人工智能 "wikilink")
 
 1.
 
@@ -1014,8 +1006,7 @@ Sebastian Nowozin</p></td>
 
 10.
 
-11.  Česká federace piškvorek a
-    renju|website=www.piskvorky.cz|access-date=2016-06-02}}
+11.  Česká federace piškvorek a renju|website=www.piskvorky.cz|access-date=2016-06-02}}
 
 12.
 

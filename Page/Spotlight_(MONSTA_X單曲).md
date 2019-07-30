@@ -1,14 +1,10 @@
-《**Spotlight**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[MONSTA
-X的第三張日語單曲](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")，由Albin
-Nordqvist、Adrian
-McKinnon、GASHIMA作曲、ZERO（YVES\&ADAMS）填詞，並在2018年1月31日以三個不同版本推出\[1\]。
+《**Spotlight**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[MONSTA X的第三張日語單曲](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")，由Albin Nordqvist、Adrian McKinnon、GASHIMA作曲、ZERO（YVES\&ADAMS）填詞，並在2018年1月31日以三個不同版本推出\[1\]。
 
 ## 背景
 
-2017年11月17日，STARSHIP娛樂在MONSTA
-X日本官方網站公布宣布組合將發行首張原創單曲，同時公布單曲詳細資訊\[2\]\[3\]。
+2017年11月17日，STARSHIP娛樂在MONSTA X日本官方網站公布宣布組合將發行首張原創單曲，同時公布單曲詳細資訊\[2\]\[3\]。
 
-單曲發售首天售出47,304張，取得[Oricon公信榜單曲銷售榜第二名](../Page/Oricon公信榜.md "wikilink")\[4\]，也憑售出76,324張獲得[日本公告牌單曲銷售榜第二名](../Page/日本公告牌.md "wikilink")，均僅次於[STU48的出道單曲](../Page/STU48.md "wikilink")《[黑暗](https://zh.wikipedia.org/wiki/黑暗_\(單曲\) "wikilink")》\[5\]。
+單曲發售首天售出47,304張，取得[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲銷售榜第二名\[4\]，也憑售出76,324張獲得[日本公告牌](../Page/日本公告牌.md "wikilink")單曲銷售榜第二名，均僅次於[STU48](../Page/STU48.md "wikilink")的出道單曲《[黑暗](https://zh.wikipedia.org/wiki/黑暗_\(單曲\) "wikilink")》\[5\]。
 
 ### 發行版本
 
@@ -30,7 +26,7 @@ X日本官方網站公布宣布組合將發行首張原創單曲，同時公布�
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置    | 銷售量    | 總銷量     | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置    | 銷售量    | 總銷量     | 停留時間 |
 | ---------------------------------------- | ------- | ------ | ------- | ---- |
 | 單曲日榜                                     | 2\[9\]  | 47,304 | 70,624+ | 3星期  |
 | 單曲週榜                                     | 2\[10\] | 70,624 |         |      |
@@ -64,9 +60,7 @@ X日本官方網站公布宣布組合將發行首張原創單曲，同時公布�
 
   -
 
-[Category:2018年單曲](https://zh.wikipedia.org/wiki/Category:2018年單曲 "wikilink")
-[Category:MONSTA_X](https://zh.wikipedia.org/wiki/Category:MONSTA_X "wikilink")
-[Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
+[Category:2018年單曲](https://zh.wikipedia.org/wiki/Category:2018年單曲 "wikilink") [Category:MONSTA_X](https://zh.wikipedia.org/wiki/Category:MONSTA_X "wikilink") [Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
 
 1.
 

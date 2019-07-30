@@ -1,7 +1,6 @@
-**Jellyfish娛樂**（，）是韓國一間經紀公司，於2007年創立，社長為黃世俊（황세준）。2014年與CJ
-E\&M簽訂合約成為合作夥伴。
+**Jellyfish娛樂**（，）是韓國一間經紀公司，於2007年創立，社長為黃世俊（황세준）。2014年與CJ E\&M簽訂合約成為合作夥伴。
 
-當前旗下藝人為[VIXX](../Page/VIXX.md "wikilink")、[gu9udan](https://zh.wikipedia.org/wiki/gu9udan "wikilink")、[VERIVERY等](../Page/VERIVERY.md "wikilink")。
+當前旗下藝人為[VIXX](../Page/VIXX.md "wikilink")、[gu9udan](https://zh.wikipedia.org/wiki/gu9udan "wikilink")、[VERIVERY](../Page/VERIVERY.md "wikilink")等。
 
 ## 旗下藝人
 
@@ -95,18 +94,16 @@ E\&M簽訂合約成為合作夥伴。
 
 ### 子團組合/企劃組合
 
-|            |                                                                           |    |                                                                                                                                      |                                                     |     |                                                             |                 |             |
-| ---------- | ------------------------------------------------------------------------- | -- | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- | --- | ----------------------------------------------------------- | --------------- | ----------- |
-| 出道日期       | 組合名稱                                                                      | 性別 | 成員                                                                                                                                   | 隊長                                                  | 狀況  | 所屬團體                                                        | 官方粉絲名           | 官方應援物       |
-| 2015年8月7日  | [VIXX LR](../Page/VIXX_LR.md "wikilink")                                  | 男  | [Leo](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")、[Ravi](../Page/金元植.md "wikilink")                                                | [Leo](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink") | 活動中 | [VIXX](../Page/VIXX.md "wikilink")                          | ST★RLIGHT       | 星光棒手燈、應援毛巾  |
-| 2017年8月10日 | [gugudan OGUOGU](https://zh.wikipedia.org/wiki/gugudan_OGUOGU "wikilink") | 女  | [美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[慧妍](https://zh.wikipedia.org/wiki/趙慧妍 "wikilink")                                | [美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")  | 解散  | [gugudan](https://zh.wikipedia.org/wiki/gugudan "wikilink") | 단짝（Dear Friend） | rowspan="2" |
-| 2018年7月10日 | [gugudan SEMINA](https://zh.wikipedia.org/wiki/gugudan_SEMINA "wikilink") | 女  | [娜英](../Page/娜英.md "wikilink")、[世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink") | [娜英](../Page/娜英.md "wikilink")                      | 活動中 |                                                             |                 |             |
+|            |                                                                           |    |                                                                                                                                      |                                                     |     |                                                             |                       |            |
+| ---------- | ------------------------------------------------------------------------- | -- | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- | --- | ----------------------------------------------------------- | --------------------- | ---------- |
+| 出道日期       | 組合名稱                                                                      | 性別 | 成員                                                                                                                                   | 隊長                                                  | 狀況  | 所屬團體                                                        | 官方粉絲名                 | 官方應援物      |
+| 2015年8月7日  | [VIXX LR](../Page/VIXX_LR.md "wikilink")                                  | 男  | [Leo](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")、[Ravi](../Page/金元植.md "wikilink")                                                | [Leo](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink") | 活動中 | [VIXX](../Page/VIXX.md "wikilink")                          | ST★RLIGHT             | 星光棒手燈、應援毛巾 |
+| 2018年7月10日 | [gugudan SEMINA](https://zh.wikipedia.org/wiki/gugudan_SEMINA "wikilink") | 女  | [娜英](../Page/娜英.md "wikilink")、[世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink") | [娜英](../Page/娜英.md "wikilink")                      | 活動中 | [gugudan](https://zh.wikipedia.org/wiki/gugudan "wikilink") | |단짝(Dear Friend) （摯友） | 未公布        |
+|            |                                                                           |    |                                                                                                                                      |                                                     |     |                                                             |                       |            |
 
 ### 演員
 
   - [李鍾原](../Page/李鍾原.md "wikilink")
-
-  - [姜至奐](../Page/姜至奐.md "wikilink")
 
   -
   - [朱利安·姜](../Page/朱利安·姜.md "wikilink")
@@ -135,7 +132,7 @@ E\&M簽訂合約成為合作夥伴。
   -
   - [金藝元](../Page/金藝元.md "wikilink")
 
-  - [祉潏](https://zh.wikipedia.org/wiki/祉潏 "wikilink")（女子團體[Dal★Shabet前成員](../Page/Dal★Shabet.md "wikilink")）
+  - [祉潏](https://zh.wikipedia.org/wiki/祉潏 "wikilink")（女子團體[Dal★Shabet](../Page/Dal★Shabet.md "wikilink")前成員）
 
   - [曹惠晶](../Page/曹惠晶.md "wikilink")
 
@@ -143,9 +140,9 @@ E\&M簽訂合約成為合作夥伴。
 ## 過去旗下藝人
 
   - [朴孝信](../Page/朴孝信.md "wikilink")
+  - [姜至奐](../Page/姜至奐.md "wikilink")
   - [Gyun Woo](https://zh.wikipedia.org/wiki/Gyun_Woo "wikilink")
-  - [Kim Hyung
-    Joong](https://zh.wikipedia.org/wiki/Kim_Hyung_Joong "wikilink")
+  - [Kim Hyung Joong](https://zh.wikipedia.org/wiki/Kim_Hyung_Joong "wikilink")
   - [麗莎](https://zh.wikipedia.org/wiki/Lisa_\(1980年\) "wikilink")
   - [朴學基](https://zh.wikipedia.org/wiki/朴學基 "wikilink")
   - [朱玟奎](../Page/朱玟奎.md "wikilink")
@@ -154,32 +151,27 @@ E\&M簽訂合約成為合作夥伴。
   - [高允](../Page/高允_\(演員\).md "wikilink")
   - [徐仁國](../Page/徐仁國.md "wikilink")
   - [成始璄](../Page/成始璄.md "wikilink")
-  - [Ravi](../Page/金元植.md "wikilink")
+  - [Ravi](../Page/金元植.md "wikilink")（仍會參與團體活動，雙方維持合作關係）
 
 ## 練習生
 
   - [趙慧妍](https://zh.wikipedia.org/wiki/趙慧妍 "wikilink")（前[gugudan成員](https://zh.wikipedia.org/wiki/gugudan "wikilink")）
-  - [金旻奎](../Page/金敏圭.md "wikilink")（[PRODUCE X
-    101](../Page/PRODUCE_X_101.md "wikilink")）
+  - [金旻奎](../Page/金旻奎_\(歌手\).md "wikilink")（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
   - 崔俊聖（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
 
 ## 昔日練習生
 
-  - 曺侑彬（[Pink
-    Fantasy成員](https://zh.wikipedia.org/wiki/Pink_Fantasy "wikilink")、《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》參賽者）
+  - 曺侑彬（[Pink Fantasy成員](https://zh.wikipedia.org/wiki/Pink_Fantasy "wikilink")、《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》參賽者）
   - [李子璇](../Page/李子璇.md "wikilink")（《[加油！美少女](https://zh.wikipedia.org/wiki/加油！美少女 "wikilink")》及《[創造101](https://zh.wikipedia.org/wiki/創造101 "wikilink")》參賽者）
-  - [李海印](../Page/李海印.md "wikilink")（《[PRODUCE
-    101](../Page/PRODUCE_101.md "wikilink")》及《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》參賽者）
-  - 裴恩英（《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》及《[PRODUCE
-    48](../Page/PRODUCE_48.md "wikilink")》參賽者，現為Stone Music娛樂練習生）
+  - [李海印](../Page/李海印.md "wikilink")（《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》及《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》參賽者）
+  - [李權哲](../Page/李權哲.md "wikilink")（《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》參賽者，現為[樂華七子](../Page/樂華七子.md "wikilink")成員）
+  - 裴恩英（《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》及《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》參賽者，現為Stone Music娛樂練習生）
   - [韓瑞希](../Page/韓瑞希.md "wikilink")
-  - 李大元（[VIXX預備成員](../Page/VIXX.md "wikilink")、現為BNF成員）
-  - 金珍燮（前[IN2IT成員](../Page/IN2IT.md "wikilink")、《[少年24](../Page/少年24.md "wikilink")》參賽者）
+  - 李大元（[VIXX](../Page/VIXX.md "wikilink")預備成員、現為BNF成員）
+  - 金珍燮（前[IN2IT](../Page/IN2IT.md "wikilink")成員、《[少年24](../Page/少年24.md "wikilink")》參賽者）
   - 高智炯（《[少年24](../Page/少年24.md "wikilink")》參賽者）
-  - 尹熙錫（《[PRODUCE
-    101第二季](https://zh.wikipedia.org/wiki/PRODUCE_101第二季 "wikilink")》參賽者，現為[LIMITLESS成員](../Page/LIMITLESS_\(男子團體\).md "wikilink")）
-  - 朴晙喜（[A.C.E成員](https://zh.wikipedia.org/wiki/A.C.E "wikilink")、《[The
-    Unit](../Page/The_Unit.md "wikilink")》參賽者）
+  - 尹熙錫（《[PRODUCE 101第二季](https://zh.wikipedia.org/wiki/PRODUCE_101第二季 "wikilink")》參賽者，現為[LIMITLESS成員](../Page/LIMITLESS_\(男子團體\).md "wikilink")）
+  - 朴晙喜（[A.C.E成員](https://zh.wikipedia.org/wiki/A.C.E "wikilink")、《[The Unit](../Page/The_Unit.md "wikilink")》參賽者）
 
 ## 参考文献
 
@@ -189,6 +181,4 @@ E\&M簽訂合約成為合作夥伴。
 
   -
   -
-[Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
-[Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink")
-[Category:韓國公司](https://zh.wikipedia.org/wiki/Category:韓國公司 "wikilink")
+[Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink") [Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink") [Category:韓國公司](https://zh.wikipedia.org/wiki/Category:韓國公司 "wikilink")

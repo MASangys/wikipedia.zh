@@ -38,11 +38,7 @@
   - （官方賬號）
 
   -
-[分類:2016年日本電影](https://zh.wikipedia.org/wiki/分類:2016年日本電影 "wikilink")
-[分類:午夜凶鈴](https://zh.wikipedia.org/wiki/分類:午夜凶鈴 "wikilink")
-[分類:日本恐怖片](https://zh.wikipedia.org/wiki/分類:日本恐怖片 "wikilink")
-[分類:驅魔電影](https://zh.wikipedia.org/wiki/分類:驅魔電影 "wikilink")
-[分類:電影跨界作品](https://zh.wikipedia.org/wiki/分類:電影跨界作品 "wikilink")
+[分類:2016年日本電影](https://zh.wikipedia.org/wiki/分類:2016年日本電影 "wikilink") [分類:午夜凶鈴](https://zh.wikipedia.org/wiki/分類:午夜凶鈴 "wikilink") [分類:日本恐怖片](https://zh.wikipedia.org/wiki/分類:日本恐怖片 "wikilink") [分類:驅魔電影](https://zh.wikipedia.org/wiki/分類:驅魔電影 "wikilink") [分類:電影跨界作品](https://zh.wikipedia.org/wiki/分類:電影跨界作品 "wikilink")
 
 1.
 2.

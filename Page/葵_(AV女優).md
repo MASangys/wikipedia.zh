@@ -1,5 +1,4 @@
-**葵**（，1994年12月3日 -
-），[日本的](../Page/日本.md "wikilink")[AV女優](../Page/AV女優.md "wikilink")，[秋田縣出身](https://zh.wikipedia.org/wiki/秋田縣 "wikilink")。现為「[S1](https://zh.wikipedia.org/wiki/S1_\(AV公司\) "wikilink")」的專屬女優\[1\]，所屬於「[T-POWERS](../Page/T-POWERS.md "wikilink")」事務所。
+**葵**（，1994年12月3日 - ），[日本](../Page/日本.md "wikilink")的[AV女優](../Page/AV女優.md "wikilink")，[秋田縣出身](https://zh.wikipedia.org/wiki/秋田縣 "wikilink")。现為「[S1](https://zh.wikipedia.org/wiki/S1_\(AV公司\) "wikilink")」的專屬女優\[1\]，所屬於「[T-POWERS](../Page/T-POWERS.md "wikilink")」事務所。
 
 ## 人物
 
@@ -9,8 +8,8 @@
   - 她是[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[迷](https://zh.wikipedia.org/wiki/愛好者 "wikilink")，包括《[烙印勇士](https://zh.wikipedia.org/wiki/烙印勇士 "wikilink")》、《[凡爾賽玫瑰](../Page/凡爾賽玫瑰.md "wikilink")》、《[福星小子](../Page/福星小子.md "wikilink")》，喜歡《[七龍珠](https://zh.wikipedia.org/wiki/七龍珠 "wikilink")》裡面的人物培植人（栽培マン）\[5\]。
   - 喜歡[春天和](https://zh.wikipedia.org/wiki/春天 "wikilink")[旅行還有](https://zh.wikipedia.org/wiki/旅行 "wikilink")[貓熊](https://zh.wikipedia.org/wiki/貓熊 "wikilink")\[6\]。喜歡吃的東西有[軟糖](https://zh.wikipedia.org/wiki/軟糖 "wikilink")、[章魚燒](../Page/章魚燒.md "wikilink")、[鰻魚](https://zh.wikipedia.org/wiki/鰻魚 "wikilink")、[赤鯥](../Page/赤鯥.md "wikilink")、[麵包](../Page/麵包.md "wikilink")、[竹輪](../Page/竹輪.md "wikilink")、[黃瓜](https://zh.wikipedia.org/wiki/黃瓜 "wikilink")、[草莓](../Page/草莓.md "wikilink")、[奶油起司等等](https://zh.wikipedia.org/wiki/奶油芝士 "wikilink")，不喜歡[冷](../Page/冷.md "wikilink")、[豆沙](https://zh.wikipedia.org/wiki/豆沙 "wikilink")、[巧克力](../Page/巧克力.md "wikilink")、[餅乾](https://zh.wikipedia.org/wiki/餅乾 "wikilink")\[7\]。她也不喜歡[昆蟲和](https://zh.wikipedia.org/wiki/昆蟲 "wikilink")[蛇](../Page/蛇.md "wikilink")，但是喜歡[蜥蜴](../Page/蜥蜴.md "wikilink")\[8\]。
   - 首次亮相的機會是透過熟人的介紹，因為沒有明確的細節，所以只演出了一部作品並在臉部打上[馬賽克](https://zh.wikipedia.org/wiki/馬賽克 "wikilink")\[9\]。
-  - 在「葵」這個[藝名決定之前曾經有人建議叫做](../Page/藝名.md "wikilink")「冴羽葵」\[10\]。
-  - 曾在個人[Twitter上發文控訴剪髮店家在](../Page/Twitter.md "wikilink")[染髮時導致她髮質嚴重受損](../Page/染髮.md "wikilink")，生活受到嚴重影響\[11\]。
+  - 在「葵」這個[藝名](../Page/藝名.md "wikilink")決定之前曾經有人建議叫做「冴羽葵」\[10\]。
+  - 曾在個人[Twitter](../Page/Twitter.md "wikilink")上發文控訴剪髮店家在[染髮](../Page/染髮.md "wikilink")時導致她髮質嚴重受損，生活受到嚴重影響\[11\]。
 
 ## 簡歷
 
@@ -51,9 +50,7 @@
   - 痴漢願望の女 変態女教師編（7月7日）
   - 下着モデルをさせられて…（8月7日）
   - 葵 S1ギリモザ8時間ベスト Vol.1（8月19日）※個人精選
-  - エスワン七姉妹と同棲ハーレム性活（9月1日）共演：[葵司](../Page/葵司.md "wikilink")、[奥田咲](../Page/奥田咲.md "wikilink")、[小島南](https://zh.wikipedia.org/wiki/小島南 "wikilink")、[美里有紗](../Page/美里有紗.md "wikilink")
-    、[天使萌](../Page/天使萌.md "wikilink")
-    、[星野娜美](../Page/星野娜美.md "wikilink")
+  - エスワン七姉妹と同棲ハーレム性活（9月1日）共演：[葵司](../Page/葵司.md "wikilink")、[奥田咲](../Page/奥田咲.md "wikilink")、[小島南](https://zh.wikipedia.org/wiki/小島南 "wikilink")、[美里有紗](../Page/美里有紗.md "wikilink") 、[天使萌](../Page/天使萌.md "wikilink") 、[星野娜美](../Page/星野娜美.md "wikilink")
   - 美乳がポロリ（9月7日）
   - ポルチオ開発されたあの日から…（10月7日）
   - スーパーボディWキャスト4時間 葵 星野ナミ…（11月7日）共演：星野娜美
@@ -69,8 +66,7 @@
   - 素人初解禁！！ 葵ファン感謝祭 全員挿入OK！素人お宅訪問ツアー（2月7日）
   - 新米教師のわたしは、オッパイが大きいせいか思春期の生徒たちのオモチャにされ皆がいる前で全裸授業をさせられています。 (3月7日)
   - 完全固定されて身動きが取れない 葵 腰がガクガク砕けるまでイッてもイッても止めない無限ピストンSEX（4月7日）
-  - 葵 S1ギリモザ8時間ベストVol．2
-    （ブルーレイ）（5月19日）※個人精選，同時發行[Blu-ray版本](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")
+  - 葵 S1ギリモザ8時間ベストVol．2 （ブルーレイ）（5月19日）※個人精選，同時發行[Blu-ray版本](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")
   - 中から出てくる白濁汁（6月7日）
   - どこでも出張風俗デリバリー！街角で素人さんを逆ナンパしてHcup葵がご奉仕風俗プレイしちゃいます！（7月7日）
   - 1ヵ月間セックスもオナニーも禁止されムラムラ全開でアドレナリン爆発！痙攣しまくり性欲剥き出しFUCK（8月7日）
@@ -103,16 +99,14 @@
 <!-- end list -->
 
   - 葵 S1 8時間ベストVol.4（1月19日）※個人精選，同時發行Blu-ray版本
-  - 盗撮リアルドキュメント！
-    密着46日、葵のプライベートを激撮し、紹介されたバーの店員に扮したイケメンナンパ師に引っ掛かって、SEXまでしちゃった一部始終（4月6日）
+  - 盗撮リアルドキュメント！ 密着46日、葵のプライベートを激撮し、紹介されたバーの店員に扮したイケメンナンパ師に引っ掛かって、SEXまでしちゃった一部始終（4月6日）
   - 挑発的なお姉ちゃんがアナタの妄想を叶えるド鉄板激エロシチュエーション（5月7日）
   - 愛妻NTR 取引先の肉弾接待に使われた巨乳妻の寝とられVTR（6月7日）
   - 究極の焦らしテクニックがウリのやみつきスローSEX専門風俗店（7月7日）
   - オッパイ･尻肉ぶるんぶるん\!\!何度も自分で連続イキしちゃうわがまま腰うねり騎乗位ファック（8月7日）
   - 3DCG同人史上もっともヌかれた名作を実写化！ 夏の約束 ～お姉ちゃんとひと夏の思い出～（9月7日）\[24\]
   - バレたくない状況で声も出せない 女教師サイレント強制レ●プ（10月7日）
-  - エスワン15周年スペシャル大共演 第1弾 4大スーパーボディ4輪車
-    最高級ハーレム風俗マンションへようこそ（10月19日）共演：奥田咲、星野娜美、[松本菜奈實](https://zh.wikipedia.org/wiki/松本菜奈實 "wikilink")
+  - エスワン15周年スペシャル大共演 第1弾 4大スーパーボディ4輪車 最高級ハーレム風俗マンションへようこそ（10月19日）共演：奥田咲、星野娜美、[松本菜奈實](https://zh.wikipedia.org/wiki/松本菜奈實 "wikilink")
   - 優し過ぎて本番までご奉仕ハッスル！！ Hcupプルプルおっパブ嬢（11月7日）
   - 絶対にお持ち帰りできる海の家ナンパ相席居酒屋（12月7日）\[25\]
 
@@ -132,10 +126,8 @@
 
 ### VR
 
-  - 長尺VR×S1
-    超リアルAV体験！Hcup葵の初VRド迫力セックス！【巨乳エステお姉さまの裏オプ・パイズリサービス】【のぞきVR！漫喫の個室でこっそり手コキしてる葵をピーピング】【おっぱい採用されたドM巨乳秘書の下から目線ご奉仕セックス】（2017年9月7日）
-  - エスワン初！HQ超高画質！！ リベンジVR
-    昔、僕をパシリにしていたイジメッ子がデリヘル嬢に転落し立場逆転！？本番無理強い完全いいなり報復VR（2019年1月25日）
+  - 長尺VR×S1 超リアルAV体験！Hcup葵の初VRド迫力セックス！【巨乳エステお姉さまの裏オプ・パイズリサービス】【のぞきVR！漫喫の個室でこっそり手コキしてる葵をピーピング】【おっぱい採用されたドM巨乳秘書の下から目線ご奉仕セックス】（2017年9月7日）
+  - エスワン初！HQ超高画質！！ リベンジVR 昔、僕をパシリにしていたイジメッ子がデリヘル嬢に転落し立場逆転！？本番無理強い完全いいなり報復VR（2019年1月25日）
 
 ### 寫真影像
 
@@ -152,11 +144,9 @@
 
 ### 雜誌
 
-  - [週刊プレイボーイ](../Page/週刊Playboy.md "wikilink")
-    2014年12月號（2014年11月25日、[集英社](../Page/集英社.md "wikilink")）
+  - [週刊プレイボーイ](../Page/週刊Playboy.md "wikilink") 2014年12月號（2014年11月25日、[集英社](../Page/集英社.md "wikilink")）
 
-  - [FRIDAY](https://zh.wikipedia.org/wiki/星期五_\(雜誌\) "wikilink")
-    2014年12月號（2014年12月19日、[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）
+  - [FRIDAY](https://zh.wikipedia.org/wiki/星期五_\(雜誌\) "wikilink") 2014年12月號（2014年12月19日、[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）
 
   - 2014年12月號（2014年12月18日、日本ジャーナル出版）
 
@@ -168,13 +158,11 @@
 
 ### 寫真集
 
-  - らぶぱら（2014年12月20日、[竹書房](../Page/竹書房.md "wikilink")、撮影：マキハラススム）ISBN
-    978-4-8019-0129-2
+  - らぶぱら（2014年12月20日、[竹書房](../Page/竹書房.md "wikilink")、撮影：マキハラススム）ISBN 978-4-8019-0129-2
 
 ### 模特兒
 
-  - スーパー・ポーズブック ヌード編 6（2015年10月16日、コスミック出版、撮影：KANJI）ISBN
-    978-4-7747-9128-9
+  - スーパー・ポーズブック ヌード編 6（2015年10月16日、コスミック出版、撮影：KANJI）ISBN 978-4-7747-9128-9
 
 ## 演出
 
@@ -190,7 +178,7 @@
 
 ## 台灣活動
 
-  - 2015年1月，受到有「AV達人」之稱的[一劍浣春秋邀約](../Page/一劍浣春秋.md "wikilink")，首次來台舉辦個人攝影會\[26\]，並於同年12月再度受邀來台一連舉辦三場攝影會\[27\]\[28\]\[29\]。
+  - 2015年1月，受到有「AV達人」之稱的[一劍浣春秋](../Page/一劍浣春秋.md "wikilink")邀約，首次來台舉辦個人攝影會\[26\]，並於同年12月再度受邀來台一連舉辦三場攝影會\[27\]\[28\]\[29\]。
 
 ## 參考資料
 
@@ -202,18 +190,13 @@
 
   - [葵 - Official Blog](http://blog.livedoor.jp/aoi_1203)
 
-  - [葵 - Official
-    Profile](https://web.archive.org/web/20170430071824/http://lantana-pro.com/aoi.html)
-    - 株式会社LANTANA
+  - [葵 - Official Profile](https://web.archive.org/web/20170430071824/http://lantana-pro.com/aoi.html) - 株式会社LANTANA
 
   - [AV女優情報：葵](https://www.s1s1s1.com/actress/detail/1026934/) - エスワン
 
 [Category:秋田縣出身人物](https://zh.wikipedia.org/wiki/Category:秋田縣出身人物 "wikilink")
 
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:1994年出生](https://zh.wikipedia.org/wiki/Category:1994年出生 "wikilink")
-[Category:日本AV女優](https://zh.wikipedia.org/wiki/Category:日本AV女優 "wikilink")
-[Category:S1女優](https://zh.wikipedia.org/wiki/Category:S1女優 "wikilink")
+[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:1994年出生](https://zh.wikipedia.org/wiki/Category:1994年出生 "wikilink") [Category:日本AV女優](https://zh.wikipedia.org/wiki/Category:日本AV女優 "wikilink") [Category:S1女優](https://zh.wikipedia.org/wiki/Category:S1女優 "wikilink")
 
 1.
 

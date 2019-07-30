@@ -1,7 +1,6 @@
 **傑瑞德·吉爾摩爾**（, ）是美國青少年演員。
 
-他最為人知的角色為[广告狂人內的](../Page/广告狂人.md "wikilink") Bobby Draper
-以及[童话镇的](../Page/童话镇.md "wikilink") 亨利·米爾斯 一角。
+他最為人知的角色為[广告狂人](../Page/广告狂人.md "wikilink")內的 Bobby Draper 以及[童话镇](../Page/童话镇.md "wikilink")的 亨利·米爾斯 一角。
 
 ## 影視作品
 
@@ -26,7 +25,4 @@
   -
   -
   -
-[Category:儿童演员](https://zh.wikipedia.org/wiki/Category:儿童演员 "wikilink")
-[Category:21世纪美国演员](https://zh.wikipedia.org/wiki/Category:21世纪美国演员 "wikilink")
-[Category:美國電影演員](https://zh.wikipedia.org/wiki/Category:美國電影演員 "wikilink")
-[Category:美國電視演員](https://zh.wikipedia.org/wiki/Category:美國電視演員 "wikilink")
+[Category:儿童演员](https://zh.wikipedia.org/wiki/Category:儿童演员 "wikilink") [Category:21世纪美国演员](https://zh.wikipedia.org/wiki/Category:21世纪美国演员 "wikilink") [Category:美國電影演員](https://zh.wikipedia.org/wiki/Category:美國電影演員 "wikilink") [Category:美國電視演員](https://zh.wikipedia.org/wiki/Category:美國電視演員 "wikilink")

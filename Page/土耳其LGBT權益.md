@@ -1,4 +1,4 @@
-在**[土耳其](../Page/土耳其.md "wikilink")**，**女同性恋、男同性恋、双性恋与跨性别者**可能會面臨一些非LGBT群體不必面對的法律挑戰。同性性行為在[奥斯曼帝国時代的](../Page/奥斯曼帝国.md "wikilink")1858年即合法化。而自1923年土耳其共和國成立以來，同性性行為亦一直合法。\[1\]自1951年起，[LGBT群體可依](../Page/LGBT.md "wikilink")《[日内瓦公约](../Page/日内瓦公约.md "wikilink")》在土耳其尋求庇護。\[2\]然而，同性伴侶關係並未得到該國承認。自1988年起，[變性在該國得以合法化](../Page/變性.md "wikilink")。雖有對LGBT群體的反歧視保障提議，但該提議尚未合法化。土耳其民眾對同性戀議題的態度普遍保守，LGBT群體近年在該國飽受歧視、骚扰甚至暴力。
+在**[土耳其](../Page/土耳其.md "wikilink")**，**女同性恋、男同性恋、双性恋与跨性别者**可能會面臨一些非LGBT群體不必面對的法律挑戰。同性性行為在[奥斯曼帝国](../Page/奥斯曼帝国.md "wikilink")時代的1858年即合法化。而自1923年土耳其共和國成立以來，同性性行為亦一直合法。\[1\]自1951年起，[LGBT](../Page/LGBT.md "wikilink")群體可依《[日内瓦公约](../Page/日内瓦公约.md "wikilink")》在土耳其尋求庇護。\[2\]然而，同性伴侶關係並未得到該國承認。自1988年起，[變性](../Page/變性.md "wikilink")在該國得以合法化。雖有對LGBT群體的反歧視保障提議，但該提議尚未合法化。土耳其民眾對同性戀議題的態度普遍保守，LGBT群體近年在該國飽受歧視、骚扰甚至暴力。
 
 ## 概況
 
@@ -26,8 +26,7 @@
 
 ## 參考來源
 
-[Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink")
-[Category:欧洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:欧洲各国LGBT权益 "wikilink")
+[Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink") [Category:欧洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:欧洲各国LGBT权益 "wikilink")
 
 1.
 2.

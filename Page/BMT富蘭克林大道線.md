@@ -1,4 +1,4 @@
-**富蘭克林大道線**（），又稱「布萊頓-富蘭克林線」，是[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[布魯克林區](https://zh.wikipedia.org/wiki/布魯克林區 "wikilink")[紐約地鐵的一條](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[地鐵路線](../Page/地鐵.md "wikilink")。所有服務都是由[富蘭克林大道接駁線提供](../Page/富蘭克林大道接駁線.md "wikilink")。
+**富蘭克林大道線**（），又稱「布萊頓-富蘭克林線」，是[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[布魯克林區](https://zh.wikipedia.org/wiki/布魯克林區 "wikilink")[紐約地鐵的一條](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[地鐵](../Page/地鐵.md "wikilink")路線。所有服務都是由[富蘭克林大道接駁線](../Page/富蘭克林大道接駁線.md "wikilink")提供。
 
 ## 服務
 
@@ -156,8 +156,7 @@ A2是通常富蘭克林大道接駁線使用的軌道</p></td>
 ## 外部連結
 
   -
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1878年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1878年啟用的鐵路線 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1878年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1878年啟用的鐵路線 "wikilink")
 
 1.
 

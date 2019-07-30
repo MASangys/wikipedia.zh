@@ -1,6 +1,4 @@
-魅族
-魅蓝note2是[魅族科技于](../Page/魅族科技.md "wikilink")2015年6月2日发行的魅蓝系列手机。该手机有蓝、白、粉、灰\[1\]四种颜色外观，可更换多种颜色背壳。产品搭载基于[Android](../Page/Android.md "wikilink")5.1的[Flyme
-OS](https://zh.wikipedia.org/wiki/Flyme_OS "wikilink")4.5系统。
+魅族 魅蓝note2是[魅族科技](../Page/魅族科技.md "wikilink")于2015年6月2日发行的魅蓝系列手机。该手机有蓝、白、粉、灰\[1\]四种颜色外观，可更换多种颜色背壳。产品搭载基于[Android](../Page/Android.md "wikilink")5.1的[Flyme OS](https://zh.wikipedia.org/wiki/Flyme_OS "wikilink")4.5系统。
 
 ## 手机制式
 
@@ -21,7 +19,7 @@ OS](https://zh.wikipedia.org/wiki/Flyme_OS "wikilink")4.5系统。
 | ---------- | -------- | ------ | --------- | ---------------- |
 | 4G：FDD-LTE | 3G：WCDMA | 2G：GSM | 4G：TD-LTE | 3G：TD-SCDMA\[4\] |
 
-### [印度制式](../Page/印度.md "wikilink")
+### [印度](../Page/印度.md "wikilink")制式
 
 FDD-LTE / TD-LTE / TD-SCDMA / WCDMA / GSM\[5\]
 
@@ -29,8 +27,7 @@ FDD-LTE / TD-LTE / TD-SCDMA / WCDMA / GSM\[5\]
 
 ### 手机系统
 
-基于[Android](../Page/Android.md "wikilink") 5.1内核Flyme
-4.5系列，搭载[mBack返回键](https://zh.wikipedia.org/wiki/mBack "wikilink")。
+基于[Android](../Page/Android.md "wikilink") 5.1内核Flyme 4.5系列，搭载[mBack返回键](https://zh.wikipedia.org/wiki/mBack "wikilink")。
 
 ### 传感系统
 
@@ -64,16 +61,10 @@ FDD-LTE / TD-LTE / TD-SCDMA / WCDMA / GSM\[5\]
 
 <references />
 
-[Category:多點觸控](https://zh.wikipedia.org/wiki/Category:多點觸控 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
-[Category:魅族科技手機](https://zh.wikipedia.org/wiki/Category:魅族科技手機 "wikilink")
+[Category:多點觸控](https://zh.wikipedia.org/wiki/Category:多點觸控 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink") [Category:魅族科技手機](https://zh.wikipedia.org/wiki/Category:魅族科技手機 "wikilink")
 
 1.  灰色版本为磨砂质感。
 2.  魅蓝note2 移动联通版的主副卡均支持 4G 网络，但同一时间仅限 1 个卡槽启用 4G 网络，默认为开启移动数据的卡。
-3.  根据官网资料，电信定制版存储格式只有16GB制式机型。电信版只有主卡（里侧）可以使用电信 4G 网络，副卡（外侧）只能使用移动联通 2G
-    网络，或者是安装 TF 卡。
+3.  根据官网资料，电信定制版存储格式只有16GB制式机型。电信版只有主卡（里侧）可以使用电信 4G 网络，副卡（外侧）只能使用移动联通 2G 网络，或者是安装 TF 卡。
 4.  香港、台湾同样通讯制式机型。
 5.  印度m2note只有16GB机型。

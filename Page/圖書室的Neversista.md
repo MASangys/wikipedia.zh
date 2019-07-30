@@ -1,6 +1,4 @@
-是2010年由日本[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")[TARHS
-Entertainment](http://www.tarhs.com/top.html)製作並發行的[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")
-。腳本由[都志見文太撰寫](https://zh.wikipedia.org/wiki/都志見文太 "wikilink")，立繪與插圖由かずまこを繪製。\[1\]3DS平台版本即將由カタルヒト發行。\[2\]
+是2010年由日本[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")[TARHS Entertainment](http://www.tarhs.com/top.html)製作並發行的[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink") 。腳本由[都志見文太撰寫](https://zh.wikipedia.org/wiki/都志見文太 "wikilink")，立繪與插圖由かずまこを繪製。\[1\]3DS平台版本即將由カタルヒト發行。\[2\]
 
 ## 劇情
 
@@ -16,10 +14,7 @@ Entertainment](http://www.tarhs.com/top.html)製作並發行的[視覺小說](ht
 
 
 
-[Category:2010年電子遊戲](https://zh.wikipedia.org/wiki/Category:2010年電子遊戲 "wikilink")
-[Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink")
+[Category:2010年電子遊戲](https://zh.wikipedia.org/wiki/Category:2010年電子遊戲 "wikilink") [Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink")
 
 1.  <http://www.tarhs.com/nevspec.html>
 2.  <http://www.gamer.ne.jp/news/201610310064/>

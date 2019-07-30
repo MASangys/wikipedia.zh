@@ -1,6 +1,4 @@
-此列表列出華語地區以最快的速度達成1億點閱率的YouTube影片，目前突破1億的影片中僅有來自[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[中國](../Page/中國.md "wikilink")。其中「NO.93集【復活即法身】-【宋七力主講】」是在突破1億影片中的非音樂錄影帶。另外，「[姊的時代
-Iron Ladies｜EP1
-火辣莉莎姊與混血男模！](https://www.youtube.com/watch?v=4BV8owHcfGw)」於129天即達到3.87億的觀看次數，理應為最快達到1億的影片，但因無確切的數字，因此暫不放入下方表格內。
+此列表列出華語地區以最快的速度達成1億點閱率的YouTube影片，目前突破1億的影片中僅有來自[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[中國](../Page/中國.md "wikilink")。其中「NO.93集【復活即法身】-【宋七力主講】」是在突破1億影片中的非音樂錄影帶。另外，「[姊的時代 Iron Ladies｜EP1 火辣莉莎姊與混血男模！](https://www.youtube.com/watch?v=4BV8owHcfGw)」於129天即達到3.87億的觀看次數，理應為最快達到1億的影片，但因無確切的數字，因此暫不放入下方表格內。
 
 ## 突破1億的影片列表
 
@@ -10,7 +8,7 @@ Iron Ladies｜EP1
 | -- | ------------------------------------------------------- | ------------- | ----------- | ----------- | ----- | ------ |
 | 1  | NO.93集【復活即法身】-【宋七力主講】\[1\]                              | 大日宗           | 2017年8月19日  | 2017年12月11日 | 114天  | \[2\]  |
 | 2  | 告白氣球\[3\]                                               | 周杰倫           | 2016年10月27日 | 2017年8月12日  | 289天  | \[4\]  |
-| 3  | 飄向北方\[5\]                                               | 黃明志&王力宏       | 2017年3月4日   | 2017年12月19日 | 290天  | \[6\]  |
+| 3  | 漂向北方\[5\]                                               | 黃明志&王力宏       | 2017年3月4日   | 2017年12月19日 | 290天  | \[6\]  |
 | 4  | 我們不一樣\[7\]                                              | 大壯            | 2017年11月28日 | 2018年12月7日  | 375天  |        |
 | 5  | 光年之外\[8\]                                               | 鄧紫棋           | 2016年12月29日 | 2018年1月17日  | 383天  | \[9\]  |
 | 6  | 小幸運\[10\]                                               | 田馥甄           | 2015年7月20日  | 2016年8月20日  | 397天  | \[11\] |
@@ -31,9 +29,7 @@ Iron Ladies｜EP1
 
 <references />
 
-[Category:網際網路統計表](https://zh.wikipedia.org/wiki/Category:網際網路統計表 "wikilink")
-[Category:YouTube視訊](https://zh.wikipedia.org/wiki/Category:YouTube視訊 "wikilink")
-[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
+[Category:網際網路統計表](https://zh.wikipedia.org/wiki/Category:網際網路統計表 "wikilink") [Category:YouTube視訊](https://zh.wikipedia.org/wiki/Category:YouTube視訊 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-《**A Little
-Louder**》，是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")、[平原習作成員](https://zh.wikipedia.org/wiki/平原習作 "wikilink")[小塵埃的第二張個人](../Page/小塵埃.md "wikilink")[粵語流行音樂專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於2016年9月26日推出。
+《**A Little Louder**》，是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")、[平原習作成員](https://zh.wikipedia.org/wiki/平原習作 "wikilink")[小塵埃](../Page/小塵埃.md "wikilink")的第二張個人[粵語流行音樂專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於2016年9月26日推出。
 
 ## 創作意念
 
@@ -51,22 +50,15 @@ Louder**》，是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.m
 
 ## 外部連結
 
-  - [Music76：小塵埃《A LITTLE LOUDER》新碟勇奪 ITUNES
-    廣東歌冠軍寶座](https://web.archive.org/web/20170107100503/http://www.music76.hk/2016/09/30/11333/)
-  - [Spill:小塵埃《A Little
-    Louder》：靈性也許存在於萬物](http://www.spill.hk/creativity/music/lil-ashes-a-little-louder-review)
+  - [Music76：小塵埃《A LITTLE LOUDER》新碟勇奪 ITUNES 廣東歌冠軍寶座](https://web.archive.org/web/20170107100503/http://www.music76.hk/2016/09/30/11333/)
+  - [Spill:小塵埃《A Little Louder》：靈性也許存在於萬物](http://www.spill.hk/creativity/music/lil-ashes-a-little-louder-review)
 
 ## 參考文獻
 
-[Category:小塵埃音樂專輯](https://zh.wikipedia.org/wiki/Category:小塵埃音樂專輯 "wikilink")
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:平原習作](https://zh.wikipedia.org/wiki/Category:平原習作 "wikilink")
+[Category:小塵埃音樂專輯](https://zh.wikipedia.org/wiki/Category:小塵埃音樂專輯 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:平原習作](https://zh.wikipedia.org/wiki/Category:平原習作 "wikilink")
 
-1.  [SPILL HK 2016 年 20
-    張最佳本地專輯選](http://www.spill.hk/creativity/music/the-20-best-albums-of-the-year-2016-part-2)
+1.  [SPILL HK 2016 年 20 張最佳本地專輯選](http://www.spill.hk/creativity/music/the-20-best-albums-of-the-year-2016-part-2)
 2.  [香港樂評選’2016](http://www.hkmc2.com/hkmc2_2016)
 3.  [香港樂評選’2016 年度唱片](http://www.hkmc2.com/top10album2016)
-4.  [SPILL HK 2016 年 30
-    首最佳本地歌曲選](http://www.spill.hk/creativity/music/the-30-best-songs-of-the-year-2016-part-3)
+4.  [SPILL HK 2016 年 30 首最佳本地歌曲選](http://www.spill.hk/creativity/music/the-30-best-songs-of-the-year-2016-part-3)
 5.  [1](http://www.hkmc2.com/top10single2016)

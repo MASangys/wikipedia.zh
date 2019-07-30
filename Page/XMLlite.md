@@ -1,12 +1,8 @@
-**XMLlite**是[Windows操作系统提供的了一组服务](https://zh.wikipedia.org/wiki/Windows操作系统 "wikilink")，用户可以使用C/C++语言和其它微软的开发工具开发基于[XML的本机应用程序](../Page/XML.md "wikilink")。它支持XML
-1.0、[SAX](https://zh.wikipedia.org/wiki/Simple_API_for_XML "wikilink")、[XSLT](https://zh.wikipedia.org/wiki/XSL_Transformations "wikilink")
-1.0，并提供了包括[XSD和](https://zh.wikipedia.org/wiki/XSD "wikilink")[XDR在内的](https://zh.wikipedia.org/wiki/XDR_Schema "wikilink")[XML
-Schema
-语言](../Page/XML_Schema_语言.md "wikilink")、[XMLHttpRequest](../Page/XMLHttpRequest.md "wikilink")、[XPath等技术](../Page/XPath.md "wikilink")。
+**XMLlite**是[Windows操作系统提供的了一组服务](https://zh.wikipedia.org/wiki/Windows操作系统 "wikilink")，用户可以使用C/C++语言和其它微软的开发工具开发基于[XML](../Page/XML.md "wikilink")的本机应用程序。它支持XML 1.0、[SAX](https://zh.wikipedia.org/wiki/Simple_API_for_XML "wikilink")、[XSLT](https://zh.wikipedia.org/wiki/XSL_Transformations "wikilink") 1.0，并提供了包括[XSD和](https://zh.wikipedia.org/wiki/XSD "wikilink")[XDR在内的](https://zh.wikipedia.org/wiki/XDR_Schema "wikilink")[XML Schema 语言](../Page/XML_Schema_语言.md "wikilink")、[XMLHttpRequest](../Page/XMLHttpRequest.md "wikilink")、[XPath](../Page/XPath.md "wikilink")等技术。
 
 XMLlite是前向读写XML文件，不缓冲或者建立XML文件的结构。
 
-XMLlite并不是[COM组件](https://zh.wikipedia.org/wiki/Component_Object_Model "wikilink")，因此不能给[VB.Net](https://zh.wikipedia.org/wiki/VB.Net "wikilink")、[VBScript等使用](../Page/VBScript.md "wikilink")。XMLlite使用的COM技术有：
+XMLlite并不是[COM组件](https://zh.wikipedia.org/wiki/Component_Object_Model "wikilink")，因此不能给[VB.Net](https://zh.wikipedia.org/wiki/VB.Net "wikilink")、[VBScript](../Page/VBScript.md "wikilink")等使用。XMLlite使用的COM技术有：
 
   - XMLlite的接口使用IUnknown接口的方式来做生存期管理；
   - 数据存储使用了COM的IStream；
@@ -18,15 +14,11 @@ XMLlite并不是[COM组件](https://zh.wikipedia.org/wiki/Component_Object_Model
 
 从2006年10月开始，XMLlite运行时文件Xmllite.dll，包含在下述操作系统或软件安装中：\[1\]
 
-  - [Windows Server
-    2008及更高版本](../Page/Windows_Server_2008.md "wikilink")
+  - [Windows Server 2008及更高版本](../Page/Windows_Server_2008.md "wikilink")
   - [Windows Vista及更高版本](../Page/Windows_Vista.md "wikilink")
-  - [Windows XP with Service Pack
-    3及更高版本](https://zh.wikipedia.org/wiki/Windows_XP_Service_Pack_3 "wikilink")
-  - [Windows Server 2003 with Service Pack
-    2及更高版本](../Page/Windows_Server_2003.md "wikilink")
-  - Microsoft [Internet Explorer
-    7及更高版本](../Page/Internet_Explorer_7.md "wikilink")
+  - [Windows XP with Service Pack 3及更高版本](https://zh.wikipedia.org/wiki/Windows_XP_Service_Pack_3 "wikilink")
+  - [Windows Server 2003 with Service Pack 2及更高版本](../Page/Windows_Server_2003.md "wikilink")
+  - Microsoft [Internet Explorer 7及更高版本](../Page/Internet_Explorer_7.md "wikilink")
 
 ## SAX
 
@@ -148,11 +140,7 @@ writer->SetProperty(XmlWriterProperty_Indent, TRUE);//写入之前，可以修�
 
 <references/>
 
-[Category:微軟API](https://zh.wikipedia.org/wiki/Category:微軟API "wikilink")
-[Category:XML](https://zh.wikipedia.org/wiki/Category:XML "wikilink")
+[Category:微軟API](https://zh.wikipedia.org/wiki/Category:微軟API "wikilink") [Category:XML](https://zh.wikipedia.org/wiki/Category:XML "wikilink")
 
-1.  \[<https://msdn.microsoft.com/EN-US/library/ee388577(v=VS.85,d=hv.2>).aspx
-    Installing XmlLite in
-    [MSDN](https://zh.wikipedia.org/wiki/MSDN "wikilink")\]
-2.  Kenny Kerr : XmlLite-A Small And Fast XML Parser For Native C++,
-    published in MSDN Magazine, April 2007.
+1.  \[<https://msdn.microsoft.com/EN-US/library/ee388577(v=VS.85,d=hv.2>).aspx Installing XmlLite in [MSDN](https://zh.wikipedia.org/wiki/MSDN "wikilink")\]
+2.  Kenny Kerr : XmlLite-A Small And Fast XML Parser For Native C++, published in MSDN Magazine, April 2007.

@@ -1,5 +1,4 @@
-**Quazal
-Technologies**，是一家成立于1998年的公司。该公司原本为机构投资者支持的私营公司，2008年7月被管理层收购并为管理团队所拥有。
+**Quazal Technologies**，是一家成立于1998年的公司。该公司原本为机构投资者支持的私营公司，2008年7月被管理层收购并为管理团队所拥有。
 
 Quazal提供游戏相关的托管服务和在线网络以及为多人游戏牵线搭桥的中间人。使用其产品的游戏发行商和开发商遍布世界各地。
 
@@ -15,10 +14,6 @@ Quazal是由两个单词构成，分别为“羽蛇神（Quetzalcóatl）”（�
 
   - [Quazal 官方网站](http://www.quazal.com/)
 
-[Category:1998年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1998年開業電子遊戲公司 "wikilink")
-[Category:加拿大電子遊戲公司](https://zh.wikipedia.org/wiki/Category:加拿大電子遊戲公司 "wikilink")
-[Category:育碧的部门与子公司](https://zh.wikipedia.org/wiki/Category:育碧的部门与子公司 "wikilink")
-[Category:蒙特利尔公司](https://zh.wikipedia.org/wiki/Category:蒙特利尔公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
+[Category:1998年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1998年開業電子遊戲公司 "wikilink") [Category:加拿大電子遊戲公司](https://zh.wikipedia.org/wiki/Category:加拿大電子遊戲公司 "wikilink") [Category:育碧的部门与子公司](https://zh.wikipedia.org/wiki/Category:育碧的部门与子公司 "wikilink") [Category:蒙特利尔公司](https://zh.wikipedia.org/wiki/Category:蒙特利尔公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
 1.

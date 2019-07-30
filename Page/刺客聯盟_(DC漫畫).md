@@ -1,10 +1,8 @@
-**刺客聯盟**（），有時又稱作**影武者聯盟**（）、**影子公會**（），是登場於[DC漫畫的一個虛構組織](../Page/DC漫畫.md "wikilink")，該組織自成立以來即從事刺殺、恐怖攻擊等犯罪行動，在聯盟的首領拉斯·奧·古的帶領下，認為高譚市是必須要清除掉的人類罪惡象徵，於是成了和決意要守護高譚市的[蝙蝠俠所對抗的邪惡勢力之一](../Page/蝙蝠俠.md "wikilink")。
+**刺客聯盟**（），有時又稱作**影武者聯盟**（）、**影子公會**（），是登場於[DC漫畫](../Page/DC漫畫.md "wikilink")的一個虛構組織，該組織自成立以來即從事刺殺、恐怖攻擊等犯罪行動，在聯盟的首領拉斯·奧·古的帶領下，認為高譚市是必須要清除掉的人類罪惡象徵，於是成了和決意要守護高譚市的[蝙蝠俠](../Page/蝙蝠俠.md "wikilink")所對抗的邪惡勢力之一。
 
 ## 出版經歷
 
-刺客聯盟初次登場於《Strange Adventures》 \#215（1968年11-12月），由[Denny
-O'Neil和](https://zh.wikipedia.org/wiki/Denny_O'Neil "wikilink")[Neal
-Adams所創作](https://zh.wikipedia.org/wiki/Neal_Adams "wikilink")。
+刺客聯盟初次登場於《Strange Adventures》 \#215（1968年11-12月），由[Denny O'Neil和](https://zh.wikipedia.org/wiki/Denny_O'Neil "wikilink")[Neal Adams所創作](https://zh.wikipedia.org/wiki/Neal_Adams "wikilink")。
 
 ## 虛構歷史
 
@@ -18,12 +16,9 @@ Adams所創作](https://zh.wikipedia.org/wiki/Neal_Adams "wikilink")。
 
   - ：忍者大師的次女，塔莉亞同父異母的妹妹。
 
-  - ：妮莎的情人、與[奧利弗·昆恩出遊時遇難](../Page/綠箭俠.md "wikilink")，最後輾轉加入刺客聯盟，並習得一身武術。（[綠箭宇宙限定](../Page/綠箭宇宙.md "wikilink")）
+  - 埃布尼澤·戴克（Ebeneezer Darrk）：又稱「戴克教授」，原是忍者大師最初選擇的聯盟領導者，但他由於體力和武術均不精，反而擅長用歪門邪道來達成任務。
 
-  - 埃布尼澤·戴克（Ebeneezer
-    Darrk）：又稱「戴克教授」，原是忍者大師最初選擇的聯盟領導者，但他由於體力和武術均不精，反而擅長用歪門邪道來達成任務。
-
-  - ：來自[香港的年長武術高手](../Page/香港.md "wikilink")，戴克的副手，但他和戴克一樣殘酷不忠。
+  - ：來自[香港](../Page/香港.md "wikilink")的年長武術高手，戴克的副手，但他和戴克一樣殘酷不忠。
 
   - Doctor Moon
 
@@ -40,26 +35,14 @@ Adams所創作](https://zh.wikipedia.org/wiki/Neal_Adams "wikilink")。
 ### 動畫
 
   - 《[蝙蝠俠：動畫系列](https://zh.wikipedia.org/wiki/蝙蝠俠：動畫系列 "wikilink")》：以影子公會的名稱登場。
-
-<!-- end list -->
-
   - 《Beware the Batman》\[1\]
-
-<!-- end list -->
-
   - 《未來蝙蝠俠》：以刺客公會的名稱登場。
-
-<!-- end list -->
-
   - 《[蝙蝠俠智勇悍將](../Page/蝙蝠俠智勇悍將.md "wikilink")》
-
-<!-- end list -->
-
   - 《[少年正義聯盟](../Page/少年正義聯盟_\(動畫\).md "wikilink")》
 
 ### 電視劇
 
-  - **[綠箭宇宙](../Page/綠箭宇宙.md "wikilink")**
+  - **[綠箭宇宙](../Page/綠箭宇宙.md "wikilink")**：主線劇情出現於《[綠箭俠](https://zh.wikipedia.org/wiki/綠箭俠_\(電視劇\) "wikilink")》第三季。該劇部分角色的能力也是來自刺客聯盟，如。
       - 《[綠箭俠](https://zh.wikipedia.org/wiki/綠箭俠_\(電視劇\) "wikilink")》
       - 《[明日傳奇](../Page/明日傳奇.md "wikilink")》
 
@@ -70,34 +53,19 @@ Adams所創作](https://zh.wikipedia.org/wiki/Neal_Adams "wikilink")。
 ### 電影
 
   - 《[蝙蝠俠：開戰時刻](../Page/蝙蝠俠：開戰時刻.md "wikilink")》：以影武者聯盟之名登場。
-
-<!-- end list -->
-
   - 《[黑暗騎士：黎明昇起](../Page/黑暗騎士：黎明昇起.md "wikilink")》
-
-<!-- end list -->
-
   - 《[蝙蝠俠之子](../Page/蝙蝠俠之子.md "wikilink")》：動畫電影。
 
 ### 電子遊戲
 
   - 《[蝙蝠俠：阿卡漢城市](https://zh.wikipedia.org/wiki/蝙蝠俠：阿卡漢城市 "wikilink")》
-
-<!-- end list -->
-
   - 《[蝙蝠俠：阿卡漢騎士](../Page/蝙蝠俠：阿卡漢騎士.md "wikilink")》：登場於DLC「Shadow War」。
 
 ## 參考資料
 
 ## 外部連結
 
-[分類:虛構刺客](https://zh.wikipedia.org/wiki/分類:虛構刺客 "wikilink")
-[分類:DC漫畫組織](https://zh.wikipedia.org/wiki/分類:DC漫畫組織 "wikilink")
-[分類:蝙蝠俠](https://zh.wikipedia.org/wiki/分類:蝙蝠俠 "wikilink")
-[分類:DC漫畫武術家](https://zh.wikipedia.org/wiki/分類:DC漫畫武術家 "wikilink")
-[分類:虛構祕密結社](https://zh.wikipedia.org/wiki/分類:虛構祕密結社 "wikilink")
-[分類:虛構大宗謀殺犯](https://zh.wikipedia.org/wiki/分類:虛構大宗謀殺犯 "wikilink")
-[分類:1968年首次亮相的漫畫角色](https://zh.wikipedia.org/wiki/分類:1968年首次亮相的漫畫角色 "wikilink")
+[分類:虛構刺客](https://zh.wikipedia.org/wiki/分類:虛構刺客 "wikilink") [分類:DC漫畫組織](https://zh.wikipedia.org/wiki/分類:DC漫畫組織 "wikilink") [分類:蝙蝠俠](https://zh.wikipedia.org/wiki/分類:蝙蝠俠 "wikilink") [分類:DC漫畫武術家](https://zh.wikipedia.org/wiki/分類:DC漫畫武術家 "wikilink") [分類:虛構祕密結社](https://zh.wikipedia.org/wiki/分類:虛構祕密結社 "wikilink") [分類:虛構大宗謀殺犯](https://zh.wikipedia.org/wiki/分類:虛構大宗謀殺犯 "wikilink") [分類:1968年首次亮相的漫畫角色](https://zh.wikipedia.org/wiki/分類:1968年首次亮相的漫畫角色 "wikilink")
 
 1.
 2.

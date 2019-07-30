@@ -1,5 +1,4 @@
-local getArgs = require('Module:Arguments').getArgs local yesno =
-require('Module:Yesno')
+local getArgs = require('Module:Arguments').getArgs local yesno = require('Module:Yesno')
 
 local p = {}
 

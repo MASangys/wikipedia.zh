@@ -1,4 +1,4 @@
-**阿斯托利亞線**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT](../Page/布魯克林-曼哈頓運輸股份有限公司.md "wikilink")的[地鐵路線](../Page/地鐵.md "wikilink")，服務[皇后區的](../Page/皇后區.md "wikilink")。此線自阿斯托利亞的[迪特馬斯林蔭路開始到](https://zh.wikipedia.org/wiki/阿斯托利亞-迪特馬斯林蔭路車站_\(BMT阿斯托利亞線\) "wikilink")[長島市](../Page/長島市.md "wikilink")31街上方的[39大道](../Page/39大道車站_\(BMT阿斯托利亞線\).md "wikilink")。之後轉向西前往[皇后區廣場而不是](https://zh.wikipedia.org/wiki/皇后區廣場車站 "wikilink")[皇后廣場](https://zh.wikipedia.org/wiki/皇后廣場車站_\(IND皇后林蔭路線\) "wikilink")。
+**阿斯托利亞線**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT](../Page/布魯克林-曼哈頓運輸股份有限公司.md "wikilink")的[地鐵](../Page/地鐵.md "wikilink")路線，服務[皇后區](../Page/皇后區.md "wikilink")的。此線自阿斯托利亞的[迪特馬斯林蔭路開始到](https://zh.wikipedia.org/wiki/阿斯托利亞-迪特馬斯林蔭路車站_\(BMT阿斯托利亞線\) "wikilink")[長島市](../Page/長島市.md "wikilink")31街上方的[39大道](../Page/39大道車站_\(BMT阿斯托利亞線\).md "wikilink")。之後轉向西前往[皇后區廣場而不是](https://zh.wikipedia.org/wiki/皇后區廣場車站 "wikilink")[皇后廣場](https://zh.wikipedia.org/wiki/皇后廣場車站_\(IND皇后林蔭路線\) "wikilink")。
 
 全線任何時候都有[N線列車服務](../Page/紐約地鐵N線.md "wikilink")，平日還有[W線列車一同服務](../Page/紐約地鐵W線.md "wikilink")\[1\]\[2\]。興建時是作為的一部分，由[IRT和BMT使用IRT規格列車共同營運至](../Page/跨區捷運公司.md "wikilink")1949年。該年此線月台全部削邊以容許較寬的BMT列車停靠，共同營運也自然終止。
 
@@ -165,8 +165,7 @@
 
 ## 參考資料
 
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1917年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路線 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1917年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路線 "wikilink")
 
 1.
 

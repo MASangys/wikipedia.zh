@@ -2,7 +2,7 @@
 
 ## 經歷
 
-2009年[美國職棒選秀會中被](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")[亞利桑那響尾蛇隊在第](../Page/亞利桑那響尾蛇.md "wikilink")1輪第17順位選進。2011年入選第十六屆[泛美運動會美國代表隊](https://zh.wikipedia.org/wiki/泛美運動會 "wikilink")。2014年5月26日，面對[聖地牙哥教士擊出生涯首支](https://zh.wikipedia.org/wiki/聖地牙哥教士 "wikilink")[再見全壘打](https://zh.wikipedia.org/wiki/再見全壘打 "wikilink")。2015年7月15日，與隊友[保羅·高施密特共同入選明星賽](../Page/保羅·高施密特.md "wikilink")。
+2009年[美國職棒選秀會中被](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")[亞利桑那響尾蛇](../Page/亞利桑那響尾蛇.md "wikilink")隊在第1輪第17順位選進。2011年入選第十六屆[泛美運動會美國代表隊](https://zh.wikipedia.org/wiki/泛美運動會 "wikilink")。2014年5月26日，面對[聖地牙哥教士擊出生涯首支](https://zh.wikipedia.org/wiki/聖地牙哥教士 "wikilink")[再見全壘打](https://zh.wikipedia.org/wiki/再見全壘打 "wikilink")。2015年7月15日，與隊友[保羅·高施密特](../Page/保羅·高施密特.md "wikilink")共同入選明星賽。
 
 2015年整季繳出國聯第二多的192支安打，以及20支全壘打、76分打點、39次盜壘與.315的打擊率，季後獲得球團兩年513萬美金續約，避免仲裁。
 
@@ -264,12 +264,8 @@
 
   -
   -
-[Category:康涅狄格州人](https://zh.wikipedia.org/wiki/Category:康涅狄格州人 "wikilink")
-[Category:美國棒球選手](https://zh.wikipedia.org/wiki/Category:美國棒球選手 "wikilink")
-[Category:美國職棒大聯盟球員](https://zh.wikipedia.org/wiki/Category:美國職棒大聯盟球員 "wikilink")
+[Category:康涅狄格州人](https://zh.wikipedia.org/wiki/Category:康涅狄格州人 "wikilink") [Category:美國棒球選手](https://zh.wikipedia.org/wiki/Category:美國棒球選手 "wikilink") [Category:美國職棒大聯盟球員](https://zh.wikipedia.org/wiki/Category:美國職棒大聯盟球員 "wikilink")
 
-[Category:亞利桑那響尾蛇隊球員](https://zh.wikipedia.org/wiki/Category:亞利桑那響尾蛇隊球員 "wikilink")
-[Category:國家聯盟全明星球員](https://zh.wikipedia.org/wiki/Category:國家聯盟全明星球員 "wikilink")
+[Category:亞利桑那響尾蛇隊球員](https://zh.wikipedia.org/wiki/Category:亞利桑那響尾蛇隊球員 "wikilink") [Category:國家聯盟全明星球員](https://zh.wikipedia.org/wiki/Category:國家聯盟全明星球員 "wikilink")
 
-1.  [波洛克單場3響砲
-    Z魔神二刀流助響尾蛇奪勝](https://tw.news.yahoo.com/mlb-%E6%B3%A2%E6%B4%9B%E5%85%8B%E5%96%AE%E5%A0%B43%E9%9F%BF%E7%A0%B2-z%E9%AD%94%E7%A5%9E%E4%BA%8C%E5%88%80%E6%B5%81%E5%8A%A9%E9%9F%BF%E5%B0%BE%E8%9B%87%E5%A5%AA%E5%8B%9D-081255254.html)，[今日新聞網](https://zh.wikipedia.org/wiki/今日新聞網 "wikilink")，2018-05-01
+1.  [波洛克單場3響砲 Z魔神二刀流助響尾蛇奪勝](https://tw.news.yahoo.com/mlb-%E6%B3%A2%E6%B4%9B%E5%85%8B%E5%96%AE%E5%A0%B43%E9%9F%BF%E7%A0%B2-z%E9%AD%94%E7%A5%9E%E4%BA%8C%E5%88%80%E6%B5%81%E5%8A%A9%E9%9F%BF%E5%B0%BE%E8%9B%87%E5%A5%AA%E5%8B%9D-081255254.html)，[今日新聞網](https://zh.wikipedia.org/wiki/今日新聞網 "wikilink")，2018-05-01

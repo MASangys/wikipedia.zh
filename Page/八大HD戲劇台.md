@@ -1,4 +1,4 @@
-**八大HD戲劇台**，是[八大電視旗下的頻道](../Page/八大電視.md "wikilink")，是[中華電信MOD的特規頻道](../Page/中華電信MOD.md "wikilink")。成立於2015年1月20日，並於2016年10月1日於MOD下架停播。
+**八大HD戲劇台**，是[八大電視](../Page/八大電視.md "wikilink")旗下的頻道，是[中華電信MOD](../Page/中華電信MOD.md "wikilink")的特規頻道。成立於2015年1月20日，並於2016年10月1日於MOD下架停播。
 
 ## 沿革
 
@@ -8,7 +8,7 @@
 
 ## 曾播映過節目
 
-重播旗下三個頻道[八大第一台](../Page/八大第一台.md "wikilink")、[八大綜合台](../Page/八大綜合台.md "wikilink")、[八大戲劇台及](../Page/八大戲劇台.md "wikilink")[八大娛樂台具有高畫質片源的節目](../Page/八大娛樂台.md "wikilink")。
+重播旗下三個頻道[八大第一台](../Page/八大第一台.md "wikilink")、[八大綜合台](../Page/八大綜合台.md "wikilink")、[八大戲劇台](../Page/八大戲劇台.md "wikilink")及[八大娛樂台](../Page/八大娛樂台.md "wikilink")具有高畫質片源的節目。
 
 ## 參考文獻
 
@@ -20,7 +20,4 @@
 
 ## 外部連結
 
-[Category:2015年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2015年成立的电视台或电视频道 "wikilink")
-[Category:八大電視](https://zh.wikipedia.org/wiki/Category:八大電視 "wikilink")
-[Category:台灣已停播的電視頻道](https://zh.wikipedia.org/wiki/Category:台灣已停播的電視頻道 "wikilink")
-[Category:2016年停播的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2016年停播的電視台或電視頻道 "wikilink")
+[Category:2015年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2015年成立的电视台或电视频道 "wikilink") [Category:八大電視](https://zh.wikipedia.org/wiki/Category:八大電視 "wikilink") [Category:台灣已停播的電視頻道](https://zh.wikipedia.org/wiki/Category:台灣已停播的電視頻道 "wikilink") [Category:2016年停播的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2016年停播的電視台或電視頻道 "wikilink")

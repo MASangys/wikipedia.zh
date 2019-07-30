@@ -1,5 +1,4 @@
-《**極限逃生**》（，）這是導演李相槿的第一部作品，由[曹政奭](../Page/曹政奭.md "wikilink")、[林潤娥所領銜主演](https://zh.wikipedia.org/wiki/林潤娥 "wikilink")，描述男女主人公从被毒气瞬間覆盖的城市逃生的故事，\[1\]\[2\]\[3\]於2018年8月4日開機，2019年7月31日於韓國上映，\[4\]
-台灣上映時間2019年8月30日。\[5\]
+《**極限逃生**》（，）這是導演李相槿的第一部作品，由[曹政奭](../Page/曹政奭.md "wikilink")、[林潤娥所領銜主演](https://zh.wikipedia.org/wiki/林潤娥 "wikilink")，描述男女主人公从被毒气瞬間覆盖的城市逃生的故事，\[1\]\[2\]\[3\]於2018年8月4日開機，2019年7月31日於韓國上映，\[4\] 台灣上映時間2019年8月30日。\[5\]
 
 ## 演員陣容
 
@@ -34,9 +33,7 @@
   - {{@movies|fekr45036440}}
 
   -
-[Category:2019年電影](https://zh.wikipedia.org/wiki/Category:2019年電影 "wikilink")
-[Category:2010年代韓國電影作品](https://zh.wikipedia.org/wiki/Category:2010年代韓國電影作品 "wikilink")
-[Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink")
+[Category:2019年電影](https://zh.wikipedia.org/wiki/Category:2019年電影 "wikilink") [Category:2010年代韓國電影作品](https://zh.wikipedia.org/wiki/Category:2010年代韓國電影作品 "wikilink") [Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink")
 
 1.
 2.

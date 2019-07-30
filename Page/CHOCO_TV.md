@@ -1,7 +1,4 @@
-**CHOCO TV 追劇瘋** 曾是巧克科技新媒體有限公司（CHOCO
-Media）旗下台灣原生行動串流影音平台，2015年起與海外各大電視台與製作公司合作，2016年起投入自製內容，2018年獲得[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NAVER集團旗下](../Page/NAVER.md "wikilink")[日本](../Page/日本.md "wikilink")[LINE公司透過](../Page/LINE_\(公司\).md "wikilink")[Mirai
-Fund注資千萬美元](https://zh.wikipedia.org/wiki/Mirai_Fund "wikilink")，巧克科技新媒體有限公司納入Naver集團旗下，於同年11月20日，終止服務，並併入[LINE
-TV](../Page/LINE_TV.md "wikilink")。 \[1\] \[2\] \[3\]
+**CHOCO TV 追劇瘋** 曾是巧克科技新媒體有限公司（CHOCO Media）旗下台灣原生行動串流影音平台，2015年起與海外各大電視台與製作公司合作，2016年起投入自製內容，2018年獲得[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NAVER](../Page/NAVER.md "wikilink")集團旗下[日本](../Page/日本.md "wikilink")[LINE公司透過](../Page/LINE_\(公司\).md "wikilink")[Mirai Fund注資千萬美元](https://zh.wikipedia.org/wiki/Mirai_Fund "wikilink")，巧克科技新媒體有限公司納入Naver集團旗下，於同年11月20日，終止服務，並併入[LINE TV](../Page/LINE_TV.md "wikilink")。 \[1\] \[2\] \[3\]
 
 ## 自製節目列表
 
@@ -86,17 +83,11 @@ TV](../Page/LINE_TV.md "wikilink")。 \[1\] \[2\] \[3\]
 
   -
   -
-  - [CHOCO
-    TV追劇瘋](https://itunes.apple.com/tw/app/choco-tv-%E8%BF%BD%E5%8A%87%E7%98%8B/id1005557642?l=zh&mt=8)
-    - App Store
+  - [CHOCO TV追劇瘋](https://itunes.apple.com/tw/app/choco-tv-%E8%BF%BD%E5%8A%87%E7%98%8B/id1005557642?l=zh&mt=8) - App Store
 
-  - [CHOCO
-    TV追劇瘋](https://play.google.com/store/apps/details?id=com.chocolabs.app.chocotv&hl=zh_TW)
-    - Google Play
+  - [CHOCO TV追劇瘋](https://play.google.com/store/apps/details?id=com.chocolabs.app.chocotv&hl=zh_TW) - Google Play
 
-[Category:视频网站](https://zh.wikipedia.org/wiki/Category:视频网站 "wikilink")
-[Category:网络电视](https://zh.wikipedia.org/wiki/Category:网络电视 "wikilink")
-[Category:台灣網站](https://zh.wikipedia.org/wiki/Category:台灣網站 "wikilink")
+[Category:视频网站](https://zh.wikipedia.org/wiki/Category:视频网站 "wikilink") [Category:网络电视](https://zh.wikipedia.org/wiki/Category:网络电视 "wikilink") [Category:台灣網站](https://zh.wikipedia.org/wiki/Category:台灣網站 "wikilink")
 
 1.
 2.

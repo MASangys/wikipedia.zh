@@ -1,15 +1,10 @@
-**NVIDIA GeForce
-10系列**\[1\]是[英伟达研发並推出的图形处理器系列](../Page/英伟达.md "wikilink")，被用以取代[NVIDIA
-GeForce
-900系列圖形處理器](../Page/NVIDIA_GeForce_900.md "wikilink")。新系列采用[帕斯卡微架构来代替之前的麦克斯韦微架构](https://zh.wikipedia.org/wiki/帕斯卡_\(微架构\) "wikilink")，并采用[台积电的](https://zh.wikipedia.org/wiki/台灣積體電路製造公司 "wikilink")16纳米及[Samsung的](https://zh.wikipedia.org/wiki/Samsung "wikilink")14纳米鰭式[多閘極電晶體工藝](../Page/多閘極電晶體.md "wikilink")（[Fin-FET](https://zh.wikipedia.org/wiki/FinFET "wikilink")）來製造。\[2\]
+**NVIDIA GeForce 10系列**\[1\]是[英伟达](../Page/英伟达.md "wikilink")研发並推出的图形处理器系列，被用以取代[NVIDIA GeForce 900系列圖形處理器](../Page/NVIDIA_GeForce_900.md "wikilink")。新系列采用[帕斯卡微架构来代替之前的麦克斯韦微架构](https://zh.wikipedia.org/wiki/帕斯卡_\(微架构\) "wikilink")，并采用[台积电的](https://zh.wikipedia.org/wiki/台灣積體電路製造公司 "wikilink")16纳米及[Samsung的](https://zh.wikipedia.org/wiki/Samsung "wikilink")14纳米鰭式[多閘極電晶體](../Page/多閘極電晶體.md "wikilink")工藝（[Fin-FET](https://zh.wikipedia.org/wiki/FinFET "wikilink")）來製造。\[2\]
 
 ## 架构特性
 
-NVIDIA GeForce
-10系列的微架构命名为帕斯卡，根据17世纪的法国数学家[布莱兹·帕斯卡而得名](../Page/布莱兹·帕斯卡.md "wikilink")，Nvidia在2016年5月6日召开发布会。\[3\]
+NVIDIA GeForce 10系列的微架构命名为帕斯卡，根据17世纪的法国数学家[布莱兹·帕斯卡](../Page/布莱兹·帕斯卡.md "wikilink")而得名，Nvidia在2016年5月6日召开发布会。\[3\]
 
-Nvidia已经宣布，帕斯卡GPU最高規格采用四組4-Hi
-HBM2显存，高端消费级显卡显存可达16GB，\[4\]採用台積電的16nm製程及FinFET技术\[5\]，其中面向高效能運算的，核心代號為「GP100」的GPU，還配備[共享内存技術以及](https://zh.wikipedia.org/wiki/共享内存 "wikilink")[NVLink匯流排](../Page/NVLink.md "wikilink")。\[6\]
+Nvidia已经宣布，帕斯卡GPU最高規格采用四組4-Hi HBM2显存，高端消费级显卡显存可达16GB，\[4\]採用台積電的16nm製程及FinFET技术\[5\]，其中面向高效能運算的，核心代號為「GP100」的GPU，還配備[共享内存技術以及](https://zh.wikipedia.org/wiki/共享内存 "wikilink")[NVLink](../Page/NVLink.md "wikilink")匯流排。\[6\]
 
 ## 晶片規格
 
@@ -17,9 +12,7 @@ HBM2显存，高端消费级显卡显存可达16GB，\[4\]採用台積電的16nm
 
 ### 桌上型平台顯示核心
 
-  - [NVIDIA SLI支援](../Page/NVIDIA_SLI.md "wikilink")2路[SLI
-    HB](https://zh.wikipedia.org/wiki/SLI "wikilink")，或2/3/4路普通SLI配置。只有NVIDIA
-    TITAN X/Xp、GeForce GTX 1080 Ti/1080/1070 Ti/1070開放SLI功能，其餘的不支援SLI。
+  - [NVIDIA SLI支援](../Page/NVIDIA_SLI.md "wikilink")2路[SLI HB](https://zh.wikipedia.org/wiki/SLI "wikilink")，或2/3/4路普通SLI配置。只有NVIDIA TITAN X/Xp、GeForce GTX 1080 Ti/1080/1070 Ti/1070開放SLI功能，其餘的不支援SLI。
   - 基於GP102的顯示卡没有DVI插槽，GeForce GTX 1080 Ti只有3組DP及一組HDMI插槽。
 
 <table>
@@ -278,8 +271,7 @@ $699 (創始版)</p></td>
 
 注：
 
-資料來源： \[7\] \[8\] \[9\] \[10\] \[11\] \[12\] \[13\] \[14\] \[15\] \[16\]
-\[17\]
+資料來源： \[7\] \[8\] \[9\] \[10\] \[11\] \[12\] \[13\] \[14\] \[15\] \[16\] \[17\]
 
 \[18\] \[19\] \[20\]
 

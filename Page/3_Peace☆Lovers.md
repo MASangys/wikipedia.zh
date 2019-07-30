@@ -1,8 +1,6 @@
-**3Peace☆Lovers**，日本男子音乐组合。2012年6月26日於日本正式出道，並發行首張日文單曲《Virtual
-Love》。同年11月6日發行單曲《Love Evolution》。
+**3Peace☆Lovers**，日本男子音乐组合。2012年6月26日於日本正式出道，並發行首張日文單曲《Virtual Love》。同年11月6日發行單曲《Love Evolution》。
 
-2013年4月30日，3Peace☆Lovers發行單曲《Illusion / My True
-Love》。同年6月24日，3Peace☆Lovers首張發行專輯《3Peace☆Lovers》。
+2013年4月30日，3Peace☆Lovers發行單曲《Illusion / My True Love》。同年6月24日，3Peace☆Lovers首張發行專輯《3Peace☆Lovers》。
 
 ## 成員資料
 
@@ -99,5 +97,4 @@ Love》。同年6月24日，3Peace☆Lovers首張發行專輯《3Peace☆Lovers�
 </tbody>
 </table>
 
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:2012年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2012年成立的音乐团体 "wikilink")
+[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:2012年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2012年成立的音乐团体 "wikilink")

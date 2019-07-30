@@ -1,19 +1,16 @@
-**unmarshalling**，或译作“解集”，是[计算机科学中把已经变换为适合于存储或](../Page/计算机科学.md "wikilink")[传输的](../Page/数据传输.md "wikilink")[对象的表示](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink")，变换为[可执行的对象表示的过程](https://zh.wikipedia.org/wiki/可执行 "wikilink")。一个unmarshalling接口把[序列化对象变换为可执行形式](../Page/序列化.md "wikilink")。*Unmarshalling*是[marshalling的逆过程](../Page/Marshalling_\(计算机科学\).md "wikilink")。
+**unmarshalling**，或译作“解集”，是[计算机科学](../Page/计算机科学.md "wikilink")中把已经变换为适合于存储或[传输的](../Page/数据传输.md "wikilink")[对象的表示](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink")，变换为[可执行的对象表示的过程](https://zh.wikipedia.org/wiki/可执行 "wikilink")。一个unmarshalling接口把[序列化](../Page/序列化.md "wikilink")对象变换为可执行形式。*Unmarshalling*是[marshalling的逆过程](../Page/Marshalling_\(计算机科学\).md "wikilink")。
 
 ## 用途
 
-通常，[进程间通信时](https://zh.wikipedia.org/wiki/进程间通信 "wikilink")，需要发送[XML对象](../Page/XML.md "wikilink")。接收到数据的进程需要把它转化回可执行对象以便使用。因此unmarshalling通常用于[Java远程方法调用](https://zh.wikipedia.org/wiki/Java远程方法调用 "wikilink")（RMI）与[远程过程调用](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink")（RPC）机制实现的接收端以把传送的对象转化为可执行形式。
+通常，[进程间通信时](https://zh.wikipedia.org/wiki/进程间通信 "wikilink")，需要发送[XML](../Page/XML.md "wikilink")对象。接收到数据的进程需要把它转化回可执行对象以便使用。因此unmarshalling通常用于[Java远程方法调用](https://zh.wikipedia.org/wiki/Java远程方法调用 "wikilink")（RMI）与[远程过程调用](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink")（RPC）机制实现的接收端以把传送的对象转化为可执行形式。
 
 ### JAXB
 
-[JAXB或](../Page/JAXB.md "wikilink")[Java语言架构的](https://zh.wikipedia.org/wiki/Java语言 "wikilink")是最常用的架构，实现marshal与unmarshal
-Java对象。JAXB提供了在Java的基本数据类型与[XML
-schema标准支持的数据类型之间的相互转化](https://zh.wikipedia.org/wiki/XML_schema "wikilink")。\[1\]
+[JAXB](../Page/JAXB.md "wikilink")或[Java语言架构的](https://zh.wikipedia.org/wiki/Java语言 "wikilink")是最常用的架构，实现marshal与unmarshal Java对象。JAXB提供了在Java的基本数据类型与[XML schema标准支持的数据类型之间的相互转化](https://zh.wikipedia.org/wiki/XML_schema "wikilink")。\[1\]
 
 ### XmlSerializer
 
-XmlSerializer是[C\#实现marshal与unmarshal](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")
-C\#对象的框架。由于包含XmlSerializer类，C\#本地支持marshalling。\[2\]
+XmlSerializer是[C\#实现marshal与unmarshal](https://zh.wikipedia.org/wiki/C_Sharp "wikilink") C\#对象的框架。由于包含XmlSerializer类，C\#本地支持marshalling。\[2\]
 
 ### XML与可执行程序的表示
 
@@ -133,15 +130,14 @@ Unmarshal方法可以反序列化（deserialize）整个XML文档或者它的一
 
 ## 与反序列化的对比
 
-对象的[序列化是把它表示为字节流](../Page/序列化.md "wikilink")；反序列化是转化为最初对象的副本。
+对象的[序列化](../Page/序列化.md "wikilink")是把它表示为字节流；反序列化是转化为最初对象的副本。
 
 对象被marshalled是从最初的内存状态与所包含的codebase记录下来；unmarshaller接口自动转化被marshalled的数据为Java在JAXB中可执行的代码。可被反序列化的对象就可被unmarshalled；反之不然。
 
 ## 参见
 
   - [Marshalling (计算机科学)](../Page/Marshalling_\(计算机科学\).md "wikilink")
-  - [Java Architecture for XML
-    Binding](https://zh.wikipedia.org/wiki/Java_Architecture_for_XML_Binding "wikilink")
+  - [Java Architecture for XML Binding](https://zh.wikipedia.org/wiki/Java_Architecture_for_XML_Binding "wikilink")
 
 ## 参考文献
 

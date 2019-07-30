@@ -1,5 +1,4 @@
-**株式會社Max
-Mix**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[中央區](../Page/中央區_\(東京都\).md "wikilink")[新富](../Page/新富_\(東京都中央區\).md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")、[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")、[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")、[模特兒](../Page/模特兒.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")（聲優事務所）。成立於2007年3月30日\[2\]。
+**株式會社Max Mix**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[中央區](../Page/中央區_\(東京都\).md "wikilink")[新富](../Page/新富_\(東京都中央區\).md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")、[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")、[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")、[模特兒](../Page/模特兒.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")（聲優事務所）。成立於2007年3月30日\[2\]。
 
 ## 所屬聲優
 
@@ -216,7 +215,7 @@ Mix**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](.
 
   - [葵井歌菜](../Page/葵井歌菜.md "wikilink")（現所屬：）
 
-  - （現所屬：[Aksent準所屬](../Page/Aksent.md "wikilink")）
+  - （現所屬：[Aksent](../Page/Aksent.md "wikilink")準所屬）
 
   - （現所屬：[Amuleto](../Page/Amuleto.md "wikilink")）
 
@@ -240,9 +239,7 @@ Mix**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](.
 
   - [株式會社Max Mix公式官網](http://www.maxmix.co.jp/)
 
-[Category:Max_Mix](https://zh.wikipedia.org/wiki/Category:Max_Mix "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:中央區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:中央區公司_\(東京都\) "wikilink")
+[Category:Max_Mix](https://zh.wikipedia.org/wiki/Category:Max_Mix "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:中央區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:中央區公司_\(東京都\) "wikilink")
 
 1.
 

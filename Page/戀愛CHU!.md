@@ -1,9 +1,4 @@
-是日本[Visual Art's公司旗下品牌](../Page/Visual_Art's.md "wikilink")[SAGA
-PLANETS在](../Page/SAGA_PLANETS.md "wikilink")2001年3月23日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，2001年8月31日發售[Fan
-disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《****》。\[1\][GN
-Software在](../Page/GN_Software.md "wikilink")2003年11月27日發售[Dreamcast版](../Page/Dreamcast.md "wikilink")《**戀愛CHU\!
-Happy Perfect**》（）。\[2\]2005年3月25日發售《**ウソツキは天使のはじまり
--天CHU\!スペシャルBOX-**》，收錄兩作的XP版。\[3\]除了發售遊戲外也還發售CD、小說等相關作品。
+是日本[Visual Art's公司旗下品牌](../Page/Visual_Art's.md "wikilink")[SAGA PLANETS在](../Page/SAGA_PLANETS.md "wikilink")2001年3月23日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，2001年8月31日發售[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《****》。\[1\][GN Software在](../Page/GN_Software.md "wikilink")2003年11月27日發售[Dreamcast](../Page/Dreamcast.md "wikilink")版《**戀愛CHU\! Happy Perfect**》（）。\[2\]2005年3月25日發售《**ウソツキは天使のはじまり -天CHU\!スペシャルBOX-**》，收錄兩作的XP版。\[3\]除了發售遊戲外也還發售CD、小說等相關作品。
 
 ## 故事
 
@@ -60,8 +55,7 @@ Happy Perfect**》（）。\[2\]2005年3月25日發售《**ウソツキは天使
 <!-- end list -->
 
   -
-    作詞：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")　作曲：中澤伴行　歌：KOTOKO
-    TO AKI
+    作詞：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")　作曲：中澤伴行　歌：KOTOKO TO AKI
 
   -
 
@@ -77,39 +71,26 @@ Happy Perfect**》（）。\[2\]2005年3月25日發售《**ウソツキは天使
 ## 相關商品
 
   - 小說
-    [PARADIGM在](../Page/PARADIGM.md "wikilink")2001年發售（ISBN
-    978-4894901247）和（ISBN 978-4894901285），作者和插畫和遊戲一樣是TAMAMI和有末つかさ。
+    [PARADIGM](../Page/PARADIGM.md "wikilink")在2001年發售（ISBN 978-4894901247）和（ISBN 978-4894901285），作者和插畫和遊戲一樣是TAMAMI和有末つかさ。
 
   - CD
 
-    是[Lantis公司在](../Page/Lantis.md "wikilink")2001年9月5日發售，全部收錄26曲。\[6\]
+    是[Lantis](../Page/Lantis.md "wikilink")公司在2001年9月5日發售，全部收錄26曲。\[6\]
 
 ## 參考來源
 
 ## 外部連結
 
   - [SAGA PLANETS](http://sagaplanets.product.co.jp/)
-  - [](http://sagaplanets.product.co.jp/works/renchu/renchu.htm)SAGA
-    PLANETS
-  - [](http://sagaplanets.product.co.jp/works/lovechu/fandisc.htm)SAGA
-    PLANETS
-  - [](https://web.archive.org/web/20080303111857/http://www.goodnavigate.com/GN/products/chu/)GN
-    Software
+  - [](http://sagaplanets.product.co.jp/works/renchu/renchu.htm)SAGA PLANETS
+  - [](http://sagaplanets.product.co.jp/works/lovechu/fandisc.htm)SAGA PLANETS
+  - [](https://web.archive.org/web/20080303111857/http://www.goodnavigate.com/GN/products/chu/)GN Software
 
-[Category:2001年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2001年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink")
-[Category:男裝作品](https://zh.wikipedia.org/wiki/Category:男裝作品 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
+[Category:2001年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2001年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink") [Category:男裝作品](https://zh.wikipedia.org/wiki/Category:男裝作品 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
 
-1.  [Ren'ai Chu\! \~Kanojo no Himitsu wa Otoko no
-    Ko?\~](https://vndb.org/v4967)The Visual Novel Database
+1.  [Ren'ai Chu\! \~Kanojo no Himitsu wa Otoko no Ko?\~](https://vndb.org/v4967)The Visual Novel Database
 2.  [](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=12236)ファミ通.com
-3.  [ウソツキは天使のはじまり
-    -天CHU\!スペシャルBOX-](http://www.getchu.com/soft.phtml?id=137281)Getchu.com
+3.  [ウソツキは天使のはじまり -天CHU\!スペシャルBOX-](http://www.getchu.com/soft.phtml?id=137281)Getchu.com
 4.  [](http://erogetrailers.com/soft/3199)ErogeTrailers
 5.  [](http://erogetrailers.com/soft/3200)ErogeTrailers
-6.  [恋愛 CHU\!
-    コンプリートアルバム](http://tsutaya.tsite.jp/item/music/PTA00008880D)TSUTAYA
+6.  [恋愛 CHU\! コンプリートアルバム](http://tsutaya.tsite.jp/item/music/PTA00008880D)TSUTAYA

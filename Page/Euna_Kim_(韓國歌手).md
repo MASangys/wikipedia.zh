@@ -1,7 +1,4 @@
-**金宥娜**（；），藝名**Euna
-Kim**（)，出生于[美国](../Page/美国.md "wikilink")[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")，美籍韩裔女艺人，為前[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Music
-K娛樂旗下的五人女子歌唱團體](../Page/Music_K娛樂.md "wikilink")[THE
-ARK的成員](../Page/THE_ARK.md "wikilink")。於2015年4月12日，在[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》正式出道。在團體內擔任主Rapper。2016年7月，退出组合。现为Maroo娱乐旗下雙人組合[KHAN成員](https://zh.wikipedia.org/wiki/KHAN "wikilink")。
+**金宥娜**（；），藝名**Euna Kim**（)，出生于[美国](../Page/美国.md "wikilink")[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")，美籍韩裔女艺人，為前[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Music K娛樂旗下的五人女子歌唱團體](../Page/Music_K娛樂.md "wikilink")[THE ARK的成員](../Page/THE_ARK.md "wikilink")。於2015年4月12日，在[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》正式出道。在團體內擔任主Rapper。2016年7月，退出组合。现为Maroo娱乐旗下雙人組合[KHAN成員](https://zh.wikipedia.org/wiki/KHAN "wikilink")。
 
 ## 個人生活
 
@@ -11,34 +8,21 @@ ARK的成員](../Page/THE_ARK.md "wikilink")。於2015年4月12日，在[SBS](ht
 
 ### 出道前
 
-**金宥娜**在2011年Mnet選秀節目《Super star
-K》第三季初露鋒芒，擅長[饒舌的Euna雖於十強止步](../Page/饒舌.md "wikilink")，但得到[YG娛樂青睞獲得了練習機會](../Page/YG娛樂.md "wikilink")，亦曾是YG新女團[BLACKPINK的預備成員之一](../Page/BLACKPINK.md "wikilink")。後來因為感到自己的不足而離開YG打算返回美國繼續學業\[1\]，被經紀公司Music
-K娱乐勸說才留下。2014年5月23日，與合作推出數位單曲《Without You
-Now》。7月15日，与[全珉柱合作推出數位單位](../Page/全珉柱.md "wikilink")《Good
-Bye Rain》（Feat. HyunKyu Of Bromance）。7月18日，Music
-K娱乐释出组合概念照\[2\]，宣布将于2015年上半年以五人组合[THE
-ARK出道](../Page/THE_ARK.md "wikilink")。
+**金宥娜**在2011年Mnet選秀節目《Super star K》第三季初露鋒芒，擅長[饒舌](../Page/饒舌.md "wikilink")的Euna雖於十強止步，但得到[YG娛樂](../Page/YG娛樂.md "wikilink")青睞獲得了練習機會，亦曾是YG新女團[BLACKPINK](../Page/BLACKPINK.md "wikilink")的預備成員之一。後來因為感到自己的不足而離開YG打算返回美國繼續學業\[1\]，被經紀公司Music K娱乐勸說才留下。2014年5月23日，與合作推出數位單曲《Without You Now》。7月15日，与[全珉柱](../Page/全珉柱.md "wikilink")合作推出數位單位《Good Bye Rain》（Feat. HyunKyu Of Bromance）。7月18日，Music K娱乐释出组合概念照\[2\]，宣布将于2015年上半年以五人组合[THE ARK出道](../Page/THE_ARK.md "wikilink")。
 
 ### 出道后
 
-2015年3月30日，Music K娛樂公開**Euna Kim**的概念照拍攝花絮及個人簡介\[3\]。4月12日，以藝名**Euna
-Kim**與成員[珉柱](../Page/全珉柱.md "wikilink")、有珍、[漢拏](https://zh.wikipedia.org/wiki/李繡至 "wikilink")、[Jane在](https://zh.wikipedia.org/wiki/千載寅 "wikilink")[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》正式出道。
+2015年3月30日，Music K娛樂公開**Euna Kim**的概念照拍攝花絮及個人簡介\[3\]。4月12日，以藝名**Euna Kim**與成員[珉柱](../Page/全珉柱.md "wikilink")、有珍、[漢拏](https://zh.wikipedia.org/wiki/李繡至 "wikilink")、[Jane在](https://zh.wikipedia.org/wiki/千載寅 "wikilink")[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》正式出道。
 
-2016年6月4日，开通个人Instagram。7月13日，所属公司宣布与[珉柱退出THE](../Page/全珉柱.md "wikilink")
-ARK\[4\]。7月15日，以《Unpretty Rapstar》第三季的参赛者，首次出现《Show Me The
-Money》第五季的舞台中。12月，与Maroo娱乐签署合约。
+2016年6月4日，开通个人Instagram。7月13日，所属公司宣布与[珉柱退出THE](../Page/全珉柱.md "wikilink") ARK\[4\]。7月15日，以《Unpretty Rapstar》第三季的参赛者，首次出现《Show Me The Money》第五季的舞台中。12月，与Maroo娱乐签署合约。
 
-2017年11月3日，以前組合**THE
-ARK**成員的身份出演[KBS2偶像重振計劃](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[The
-Unit](../Page/The_Unit.md "wikilink")》\[5\]。
+2017年11月3日，以前組合**THE ARK**成員的身份出演[KBS2偶像重振計劃](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[The Unit](../Page/The_Unit.md "wikilink")》\[5\]。
 
-2018年3月26日，據媒體報導，將和[全珉柱組成分隊](../Page/全珉柱.md "wikilink")，並獲得公司證實正在討論相關細節\[6\]。
+2018年3月26日，據媒體報導，將和[全珉柱](../Page/全珉柱.md "wikilink")組成分隊，並獲得公司證實正在討論相關細節\[6\]。
 
-2018年4月12日，[Maroo企劃表示](../Page/Maroo企劃.md "wikilink")[全珉柱與Euna](../Page/全珉柱.md "wikilink")
-Kim組成了雙人組合[KHAN](https://zh.wikipedia.org/wiki/KHAN "wikilink")，目前正以5月中旬出道為目標進行相關準備工作\[7\]。
+2018年4月12日，[Maroo企劃](../Page/Maroo企劃.md "wikilink")表示[全珉柱](../Page/全珉柱.md "wikilink")與Euna Kim組成了雙人組合[KHAN](https://zh.wikipedia.org/wiki/KHAN "wikilink")，目前正以5月中旬出道為目標進行相關準備工作\[7\]。
 
-2018年5月23日，Euna
-Kim正式以雙人組合[KHAN出道](https://zh.wikipedia.org/wiki/KHAN "wikilink")。
+2018年5月23日，Euna Kim正式以雙人組合[KHAN出道](https://zh.wikipedia.org/wiki/KHAN "wikilink")。
 
 ## 音乐作品
 
@@ -147,19 +131,12 @@ KMTV Asia</p></td>
   -
   -
   -
-[Category:1994年出生](https://zh.wikipedia.org/wiki/Category:1994年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
+[Category:1994年出生](https://zh.wikipedia.org/wiki/Category:1994年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 
 1.
 2.
-3.  [디아크(THE ARK)_유나킴(YUNA KIM)_Image
-    film](https://www.youtube.com/watch?v=TdRoSdvMaRU)
+3.  [디아크(THE ARK)_유나킴(YUNA KIM)_Image film](https://www.youtube.com/watch?v=TdRoSdvMaRU)
 4.
-5.  [Euna Kim And Lee Suji Open Up About The Ark’s Disbandment And
-    Perform On “The
-    Unit”](https://www.soompi.com/2017/11/04/watch-euna-kim-lee-suji-open-the-arks-disbandment-perform-unit/)
-6.  [마루기획 측 "유나킴X전민주, 앨범 논의
-    단계"](http://entertain.naver.com/read?oid=117&aid=0003028364)
-7.  [YUNA
-    KIM、全珉柱將組成雙人組合KHAN，預定於5月出道](https://www.kpopn.com/2018/04/13/yuna-kim%E3%80%81%E5%85%A8%E7%8F%89%E6%9F%B1%E5%B0%87%E7%B5%84%E6%88%90%E9%9B%99%E4%BA%BA%E7%B5%84-khan%EF%BC%8C%E9%A0%90%E5%AE%9A%E6%96%BC5%E6%9C%88%E5%87%BA%E9%81%93%EF%BC%81/)
+5.  [Euna Kim And Lee Suji Open Up About The Ark’s Disbandment And Perform On “The Unit”](https://www.soompi.com/2017/11/04/watch-euna-kim-lee-suji-open-the-arks-disbandment-perform-unit/)
+6.  [마루기획 측 "유나킴X전민주, 앨범 논의 단계"](http://entertain.naver.com/read?oid=117&aid=0003028364)
+7.  [YUNA KIM、全珉柱將組成雙人組合KHAN，預定於5月出道](https://www.kpopn.com/2018/04/13/yuna-kim%E3%80%81%E5%85%A8%E7%8F%89%E6%9F%B1%E5%B0%87%E7%B5%84%E6%88%90%E9%9B%99%E4%BA%BA%E7%B5%84-khan%EF%BC%8C%E9%A0%90%E5%AE%9A%E6%96%BC5%E6%9C%88%E5%87%BA%E9%81%93%EF%BC%81/)

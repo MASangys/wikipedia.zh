@@ -1,4 +1,4 @@
-是日本[MOONSTONE公司於](../Page/MOONSTONE.md "wikilink")2013年6月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，電腦CLUB於2014年7月31日發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")\[2\]，萌えAPP於2014年分別發售[Android版和](../Page/Android.md "wikilink")[iOS版](https://zh.wikipedia.org/wiki/iOS "wikilink")。\[3\]
+是日本[MOONSTONE](../Page/MOONSTONE.md "wikilink")公司於2013年6月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，電腦CLUB於2014年7月31日發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")\[2\]，萌えAPP於2014年分別發售[Android](../Page/Android.md "wikilink")版和[iOS版](https://zh.wikipedia.org/wiki/iOS "wikilink")。\[3\]
 
 ## 故事
 
@@ -66,17 +66,7 @@
   - [Android版和iOS版官方網站](http://moeapp.net/special/mml.html)萌えAPP
   - [英文版官方網站](http://mangagamer.org/mml/)MangaGamer
 
-[Category:2013年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2013年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:公主主角題材作品](https://zh.wikipedia.org/wiki/Category:公主主角題材作品 "wikilink")
-[Category:傳說生物題材作品](https://zh.wikipedia.org/wiki/Category:傳說生物題材作品 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
+[Category:2013年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2013年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:公主主角題材作品](https://zh.wikipedia.org/wiki/Category:公主主角題材作品 "wikilink") [Category:傳說生物題材作品](https://zh.wikipedia.org/wiki/Category:傳說生物題材作品 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
 
 1.
 2.

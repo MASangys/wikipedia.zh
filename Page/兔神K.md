@@ -1,4 +1,4 @@
-**兔神K**（）\[1\]是[玛雅城邦](https://zh.wikipedia.org/wiki/玛雅 "wikilink")已知的两名统治者之一。他是[8号头骨的继承者](../Page/8号头骨.md "wikilink")。他的母亲是[Ik夫人](../Page/Ik夫人.md "wikilink")。
+**兔神K**（）\[1\]是[玛雅城邦](https://zh.wikipedia.org/wiki/玛雅 "wikilink")已知的两名统治者之一。他是[8号头骨](../Page/8号头骨.md "wikilink")的继承者。他的母亲是[Ik夫人](../Page/Ik夫人.md "wikilink")。
 
 石碑记载了之王于790年10月11日对Ixkun的访问，当时为兔神K执政。
 

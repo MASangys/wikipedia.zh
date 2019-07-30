@@ -2,58 +2,29 @@
 
 出道時，本名漢字正名為“李炅卓”（，），藝名為“LEE GEON”（），來自其父親年輕時，夢想當歌手所準備的藝名。\[1\]\[2\]
 
-2014年，以藝名“LEE
-GEON”於韓國男子組合[MADTOWN的主唱出道](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")，2017年，[MADTOWN團體解散後](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")，參加《[The
-Unit](../Page/The_Unit.md "wikilink")》偶像生存節目，2018年，以藝名“LEE WOO”開始抒情歌手活動。
+2014年，以藝名“LEE GEON”於韓國男子組合[MADTOWN的主唱出道](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")，2017年，[MADTOWN團體解散後](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")，參加《[The Unit](../Page/The_Unit.md "wikilink")》偶像生存節目，2018年，以藝名“LEE WOO”開始抒情歌手活動。
 
 ## 经历
 
 ### 出道前
 
-曾是DQ Agency Dance Team的Dancer，曾為K.Will、任昌丁、Sistar、EXO、Key & SNSD
-Tifanny伴舞。\[3\]曾是ABM娱乐練習生，2012年至2014年期間，於JTC練習兩年。
+曾是DQ Agency Dance Team的Dancer，曾為K.Will、任昌丁、Sistar、EXO、Key & SNSD Tifanny伴舞。\[3\]曾是ABM娱乐練習生，2012年至2014年期間，於JTC練習兩年。
 
 ### 團體出道
 
-2014年：9月25日，J. Tune
-Camp公司公開团体[MADTOWN主唱LEE](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")
-GEON照片。\[4\]\[5\]
-10月6日，[MADTOWN發行迷你一輯](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")《Mad
-Town》。
-10月9日，以[MADTOWN团体身份於](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道\[6\]。
+2014年：9月25日，J. Tune Camp公司公開团体[MADTOWN主唱LEE](https://zh.wikipedia.org/wiki/MADTOWN "wikilink") GEON照片。\[4\]\[5\] 10月6日，[MADTOWN發行迷你一輯](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")《Mad Town》。 10月9日，以[MADTOWN团体身份於](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道\[6\]。
 
-2015年：3月12日，[MADTOWN發行第二張專輯](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")
-《Welcome to MADTOWN》。\[7\]\[8\]
-11月12日，[MADTOWN發行首張韓語單曲](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")《OMGT》。\[9\]
+2015年：3月12日，[MADTOWN發行第二張專輯](https://zh.wikipedia.org/wiki/MADTOWN "wikilink") 《Welcome to MADTOWN》。\[7\]\[8\] 11月12日，[MADTOWN發行首張韓語單曲](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")《OMGT》。\[9\]
 
-2016年：6月21日，[MADTOWN發行迷你三輯](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")《EMOTION》。\[10\]
-7月31日，[MADTOWN在日本發行首張迷你專輯](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")《MADTOWN
-JAPAN DEBUT MINI ALBUM》。\[11\]
-12月22日，[MADTOWN所屬社變更為](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")[GNI娱乐](https://zh.wikipedia.org/wiki/GNI娱乐 "wikilink")。\[12\]\[13\]
+2016年：6月21日，[MADTOWN發行迷你三輯](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")《EMOTION》。\[10\] 7月31日，[MADTOWN在日本發行首張迷你專輯](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")《MADTOWN JAPAN DEBUT MINI ALBUM》。\[11\] 12月22日，[MADTOWN所屬社變更為](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")[GNI娱乐](https://zh.wikipedia.org/wiki/GNI娱乐 "wikilink")。\[12\]\[13\]
 
-2017年：9月12日，所屬社無法運作，成員向首爾中央地方法院申請終止合約。\[14\]\[15\]\[16\]
-10月28日起，參與錄製《[The
-Unit](../Page/The_Unit.md "wikilink")》偶像生存節目。\[17\]\[18\]
-11月8日，法院終止合約效力，成員同意團體解散，LEE
-GEON繼續進行歌手活動。\[19\]\[20\] 11月17日，參與的选秀节目《[The
-Unit](../Page/The_Unit.md "wikilink")》在[音乐银行表演](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")《My
-Turn》。\[21\]\[22\] 12月3日，參與《RAIN IS BACK》表演。\[23\]
-12月29日，參與《KBS歌謠大祝祭》表演。
-12月31日，參與《KBS演技大賞》表演。\[24\]
+2017年：9月12日，所屬社無法運作，成員向首爾中央地方法院申請終止合約。\[14\]\[15\]\[16\] 10月28日起，參與錄製《[The Unit](../Page/The_Unit.md "wikilink")》偶像生存節目。\[17\]\[18\] 11月8日，法院終止合約效力，成員同意團體解散，LEE GEON繼續進行歌手活動。\[19\]\[20\] 11月17日，參與的选秀节目《[The Unit](../Page/The_Unit.md "wikilink")》在[音乐银行表演](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")《My Turn》。\[21\]\[22\] 12月3日，參與《RAIN IS BACK》表演。\[23\] 12月29日，參與《KBS歌謠大祝祭》表演。 12月31日，參與《KBS演技大賞》表演。\[24\]
 
-2018年：1月26日，參與《[Music
-Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》表演Question。\[25\]
-2月11日，參與《[The Unit](../Page/The_Unit.md "wikilink")》Final決賽。\[26\]\[27\]
-3月3日，[MADTOWN前团员Dae](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")
-Won表示：與LEE GEON今後的活動方向，仍在討論中。\[28\]
+2018年：1月26日，參與《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》表演Question。\[25\] 2月11日，參與《[The Unit](../Page/The_Unit.md "wikilink")》Final決賽。\[26\]\[27\] 3月3日，[MADTOWN前团员Dae](https://zh.wikipedia.org/wiki/MADTOWN "wikilink") Won表示：與LEE GEON今後的活動方向，仍在討論中。\[28\]
 
 ### Solo活動
 
-2018年：9月22日，參與捉迷藏OST《Someday》。10月5日，簽約Soribada，開始Solo歌手活動。\[29\]
-10月25日，參與Celuv TV Live Day Concert。10月27日，以LEE WOO名義發行首張個人單曲《 If
-I Know》。11月20日，官方正式公告藝名改為LEE WOO，11月23日，發行第二張個人單曲《010》。\[30\]
-12月20日，公告本名改為LEE SHI WOO。12月21日，發行第三張個人單曲《If I Could》。
+2018年：9月22日，參與捉迷藏OST《Someday》。10月5日，簽約Soribada，開始Solo歌手活動。\[29\] 10月25日，參與Celuv TV Live Day Concert。10月27日，以LEE WOO名義發行首張個人單曲《 If I Know》。11月20日，官方正式公告藝名改為LEE WOO，11月23日，發行第二張個人單曲《010》。\[30\] 12月20日，公告本名改為LEE SHI WOO。12月21日，發行第三張個人單曲《If I Could》。
 
 2019年：1月26日，發行第四張個人單曲《告白》。
 
@@ -173,18 +144,13 @@ I Know》。11月20日，官方正式公告藝名改為LEE WOO，11月23日，�
 
   -
   -
-  - [Lee Woo
-    官方](http://people.search.naver.com/search.naver?where=nexearch&query=%EC%9D%B4%EA%B1%B4&sm=tab_etc&ie=utf8&key=PeopleService&os=2072614)的Naver連結
+  - [Lee Woo 官方](http://people.search.naver.com/search.naver?where=nexearch&query=%EC%9D%B4%EA%B1%B4&sm=tab_etc&ie=utf8&key=PeopleService&os=2072614)的Naver連結
 
   -
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
+[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 
 1.
-2.  [Pops in Seoul _ MADTOWN(매드타운) _ LEE GEON(이건) _ Profile
-    (藝名含義)](https://www.youtube.com/watch?v=b8oy03jjNj8)
+2.  [Pops in Seoul _ MADTOWN(매드타운) _ LEE GEON(이건) _ Profile (藝名含義)](https://www.youtube.com/watch?v=b8oy03jjNj8)
 3.
 4.
 5.

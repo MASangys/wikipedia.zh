@@ -1,24 +1,16 @@
-《**MYNAME
-is**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[MYNAME的第五張日語](../Page/MYNAME.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，也是他們在[日本環球音樂的第二張作品以及大哥](https://zh.wikipedia.org/wiki/日本環球音樂 "wikilink")[仁秀入伍前最後一張團體作品](https://zh.wikipedia.org/wiki/姜仁秀 "wikilink")\[1\]，於2017年7月19日以七個版不同版本推出\[2\]。
+《**MYNAME is**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[MYNAME](../Page/MYNAME.md "wikilink")的第五張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，也是他們在[日本環球音樂的第二張作品以及大哥](https://zh.wikipedia.org/wiki/日本環球音樂 "wikilink")[仁秀入伍前最後一張團體作品](https://zh.wikipedia.org/wiki/姜仁秀 "wikilink")\[1\]，於2017年7月19日以七個版不同版本推出\[2\]。
 
 ## 背景
 
-2017年6月1日，H2media娛樂在MYNAME日本官方網站公布第五張專輯將在7月19日發行，同時公開造型照片\[3\]。6月16日，公開封面和專輯詳細資訊，包含初回限定盤、通常盤及五個成員個人封面盤\[4\]，並宣布8月25日在[東京國際論壇Hall](../Page/東京國際論壇.md "wikilink")
-A舉行專輯紀念演唱會《MYNAME LIVE 2017「MYNAME～Starting with goodbye
-STORY～」》（）\[5\]。
+2017年6月1日，H2media娛樂在MYNAME日本官方網站公布第五張專輯將在7月19日發行，同時公開造型照片\[3\]。6月16日，公開封面和專輯詳細資訊，包含初回限定盤、通常盤及五個成員個人封面盤\[4\]，並宣布8月25日在[東京國際論壇](../Page/東京國際論壇.md "wikilink")Hall A舉行專輯紀念演唱會《MYNAME LIVE 2017「MYNAME～Starting with goodbye STORY～」》（）\[5\]。
 
-6月23日，MYNAME日本官方[Youtube頻道公開專輯主打曲](https://zh.wikipedia.org/wiki/Youtube "wikilink")《Baby
-Tonight》的短版音樂錄影帶\[6\]。到專輯發售首天，《MYNAME
-is》售出13,316張，取得[Oricon公信榜專輯銷售日榜第二名](../Page/Oricon公信榜.md "wikilink")\[7\]；也獲得[TOWER
-RECORDS每周銷售榜第四名](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")\[8\]。
+6月23日，MYNAME日本官方[Youtube頻道公開專輯主打曲](https://zh.wikipedia.org/wiki/Youtube "wikilink")《Baby Tonight》的短版音樂錄影帶\[6\]。到專輯發售首天，《MYNAME is》售出13,316張，取得[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯銷售日榜第二名\[7\]；也獲得[TOWER RECORDS每周銷售榜第四名](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")\[8\]。
 
 ### 發行版本
 
 此單曲共分為7個發行版本，包括限量版本、通常版本及個人封面版本。
 
-  - 初回限定盤：這版本包括了一片CD和一片收錄《Baby Tonight》和《遇見你》音樂錄影帶及制作花絮片段、《MYNAME
-    is》封套製作和專輯製作片段與《MYNAME 2017 LIVE TOUR
-    ～ALIVE～》部分演唱片段的DVD\[9\]。
+  - 初回限定盤：這版本包括了一片CD和一片收錄《Baby Tonight》和《遇見你》音樂錄影帶及制作花絮片段、《MYNAME is》封套製作和專輯製作片段與《MYNAME 2017 LIVE TOUR ～ALIVE～》部分演唱片段的DVD\[9\]。
 
 <!-- end list -->
 
@@ -42,7 +34,7 @@ RECORDS每周銷售榜第四名](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wi
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置     | 銷售量          | 總銷量     | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置     | 銷售量          | 總銷量     | 停留時間 |
 | ---------------------------------------- | -------- | ------------ | ------- | ---- |
 | 專輯日榜                                     | 2\[12\]  | 13,316       | 22,325+ | 4星期  |
 | 專輯週榜                                     | 4\[13\]  | 20,575       |         |      |
@@ -77,13 +69,9 @@ RECORDS每周銷售榜第四名](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wi
 
   -
 
-  - [MYNAME專輯《MYNAME
-    is》訪問（）](http://www.billboard-japan.com/special/detail/2039)，專輯專題訪問
+  - [MYNAME專輯《MYNAME is》訪問（）](http://www.billboard-japan.com/special/detail/2039)，專輯專題訪問
 
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
-[Category:MYNAME音樂專輯](https://zh.wikipedia.org/wiki/Category:MYNAME音樂專輯 "wikilink")
-[Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
+[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:MYNAME音樂專輯](https://zh.wikipedia.org/wiki/Category:MYNAME音樂專輯 "wikilink") [Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
 
 1.
 

@@ -1,11 +1,8 @@
-《**崩壞3rd**》（简称“崩坏3”）是由[中国游戏开发商](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[米哈遊開發的的手機](https://zh.wikipedia.org/wiki/米哈游网络科技 "wikilink")3D动作遊戲。[崩壞學園系列的第](https://zh.wikipedia.org/wiki/崩壞學園 "wikilink")3作，遊戲沿用了前作《[崩壞學園2](https://zh.wikipedia.org/wiki/崩壞學園2 "wikilink")》角色\[1\]。故事背景、劇情和世界觀与《崩坏学园2》有所不同。讲述了第三次崩坏起源，女武神部队的发展，圣痕秘话的相关故事\[2\]。游戏为[ACT类型游戏](../Page/动作游戏.md "wikilink")。\[3\]
+《**崩壞3rd**》（国内官方名称“崩坏3”）是由[中国游戏开发商](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[米哈遊開發的的手機](https://zh.wikipedia.org/wiki/米哈游网络科技 "wikilink")3D动作遊戲。[崩壞學園系列的第](https://zh.wikipedia.org/wiki/崩壞學園 "wikilink")3作，遊戲沿用了前作《[崩壞學園2](https://zh.wikipedia.org/wiki/崩壞學園2 "wikilink")》角色\[1\]。故事背景、劇情和世界觀与《崩坏学园2》有所不同。讲述了第三次崩坏起源，女武神部队的发展，圣痕秘话的相关故事\[2\]。游戏为[ACT类型游戏](../Page/动作游戏.md "wikilink")。\[3\]
 
 ## 评价
 
-[Honkai_Impact_3_booth,_Taipei_Game_Show_20180126.jpg](https://zh.wikipedia.org/wiki/File:Honkai_Impact_3_booth,_Taipei_Game_Show_20180126.jpg "fig:Honkai_Impact_3_booth,_Taipei_Game_Show_20180126.jpg")，《崩壞3rd》攤位\]\]
-《崩坏3》曾获得《2016 [Tap Tap](../Page/TapTap_\(游戏社区\).md "wikilink")
-年度最佳游戏提名》\[4\]和《2016 TapTap
-年度最佳视觉奖》\[5\]。在製作成遊戲之前，還於《[有妖气](../Page/有妖气.md "wikilink")》、《[布卡漫画](../Page/布卡漫画.md "wikilink")》等漫画平台連載漫畫。
+[Honkai_Impact_3_booth,_Taipei_Game_Show_20180126.jpg](https://zh.wikipedia.org/wiki/File:Honkai_Impact_3_booth,_Taipei_Game_Show_20180126.jpg "fig:Honkai_Impact_3_booth,_Taipei_Game_Show_20180126.jpg")，《崩壞3rd》攤位\]\] 《崩坏3》曾获得《2016 [Tap Tap](../Page/TapTap_\(游戏社区\).md "wikilink") 年度最佳游戏提名》\[4\]和《2016 TapTap 年度最佳视觉奖》\[5\]。在製作成遊戲之前，還於《[有妖气](../Page/有妖气.md "wikilink")》、《[布卡漫画](../Page/布卡漫画.md "wikilink")》等漫画平台連載漫畫。
 
 ## 背景概念
 
@@ -65,6 +62,7 @@
       - 次元边界突破（初始S级角色）
       - 银狼的黎明（初始A级角色），驱动装·山吹的觉醒角色
       - 异度黑核侵蚀（初始S级角色），雪地狙击的觉醒角色
+      - 理之律者（初始S级角色）
 
 <!-- end list -->
 
@@ -218,8 +216,7 @@
   -
 
       -
-        第一次崩坏（在德国）幸存者，被认为是第一律者
-        囚禁了三年。后来与爱因斯坦、特斯拉、爱迪生等人去往北美调查古文明遗迹。后与特斯拉等人和天命组织闹翻，和奥托的对抗中引发了一场小型崩坏，瓦尔特·乔伊斯为阻止破坏而牺牲。将自己律者核心交给了瓦尔特·杨。
+        第一次崩坏（在德国）幸存者，被认为是第一律者 囚禁了三年。后来与爱因斯坦、特斯拉、爱迪生等人去往北美调查古文明遗迹。后与特斯拉等人和天命组织闹翻，和奥托的对抗中引发了一场小型崩坏，瓦尔特·乔伊斯为阻止破坏而牺牲。将自己律者核心交给了瓦尔特·杨。
 
 :\*瓦尔特·杨
 
@@ -241,6 +238,13 @@
 
       -
         瓦尔特二号复制体，在新加坡执行任务时被符华解决。
+
+:\*约阿西姆
+
+  -
+
+      -
+        在量子之海中瓦尔特·杨的分身。封印量子之海中的敌人并阻止人进入量子之海。
 
 <!-- end list -->
 
@@ -291,18 +295,13 @@
 
 ### 动画
 
-  - 《女武神的餐桌》
+《[女武神的餐桌](https://zh.wikipedia.org/wiki/女武神的餐桌 "wikilink")》由米哈游出品的《崩坏3》的番外漫画《[女武神的餐桌](https://zh.wikipedia.org/wiki/女武神的餐桌 "wikilink")》改编，在2019年6月28日（暑期）以[泡面番的形式上架](https://zh.wikipedia.org/wiki/泡面番 "wikilink")。
 
-<!-- end list -->
-
-  -
-    由米哈游出品的《崩坏3》的番外漫画《[女武神的餐桌](https://zh.wikipedia.org/wiki/女武神的餐桌 "wikilink")》改编，预计将于2019年暑假以[泡面番的形式上架](https://zh.wikipedia.org/wiki/泡面番 "wikilink")。
-
-<!-- end list -->
-
-  - 《崩坏3rd》动画短片「Reburn」
-  - 《崩坏3rd》动画短片「女王降临」
-  - 《崩坏3rd》动画短片「最后一课」
+  - 《崩坏3rd》动画短片
+      - 「Reburn」
+      - 「女王降临」
+      - 「最后一课」
+      - 「天使重构」
 
 ### 漫画
 
@@ -324,6 +323,7 @@
     《Reburn》（演唱者：茶理理）
     《Befall》（演唱者：尚雯婕）
     《Nightglow》（演唱者：蔡健雅）
+    《Cyberangel》（演唱者：hanser）
   - 角色曲
     八重樱同名角色曲：《》
     符华的角色曲：《》（《千年之羽》）
@@ -390,12 +390,7 @@
   - [崩壞3rd官方網站](http://www.global.honkaiimpact3.com/)
 
   -
-[Category:2016年电子游戏](https://zh.wikipedia.org/wiki/Category:2016年电子游戏 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink")
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
+[Category:2016年电子游戏](https://zh.wikipedia.org/wiki/Category:2016年电子游戏 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
 
 1.  <http://www.bh3.com/valkyria.html> 崩坏3官网全角色介绍
 2.  <http://www.bh3.com/story.html> 崩坏3故事背景

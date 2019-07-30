@@ -1,4 +1,4 @@
-本列表列出了最为畅销的[任天堂DS游戏](../Page/任天堂DS.md "wikilink")，列出的游戏都售出超过100万份。至2011年3月31日，共有140款游戏售出超过100万份。\[1\]
+本列表列出了最为畅销的[任天堂DS](../Page/任天堂DS.md "wikilink")游戏，列出的游戏都售出超过100万份。至2011年3月31日，共有140款游戏售出超过100万份。\[1\]
 
 ## 列表
 
@@ -653,8 +653,7 @@ Total Nintendo DS games sold as of March 31, 2014: 943.98 million.\[91\]
 
 ## 参考资料
 
-[Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink")
-[Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
+[Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
 
 1.
 
@@ -679,10 +678,7 @@ Total Nintendo DS games sold as of March 31, 2014: 943.98 million.\[91\]
 
 16.
 
-17. {{ cite
-    web|url=[https://www.nintendo.co.jp/ir/pdf/2011/110426e.pdf\#page=6|title=Supplementary](https://www.nintendo.co.jp/ir/pdf/2011/110426e.pdf#page=6%7Ctitle=Supplementary)
-    Information about Earnings
-    Release|publisher=[任天堂](../Page/任天堂.md "wikilink")|date=2011-04-26|format=pdf|accessdate=2011-04-26|pages=11}}
+17. {{ cite web|url=[https://www.nintendo.co.jp/ir/pdf/2011/110426e.pdf\#page=6|title=Supplementary](https://www.nintendo.co.jp/ir/pdf/2011/110426e.pdf#page=6%7Ctitle=Supplementary) Information about Earnings Release|publisher=[任天堂](../Page/任天堂.md "wikilink")|date=2011-04-26|format=pdf|accessdate=2011-04-26|pages=11}}
 
 18.
 19.

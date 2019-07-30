@@ -1,6 +1,4 @@
-《**Big Show
-2009**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG演唱會Big](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")
-Show系列的第一場演出，原定於[首爾奧林匹克體操競技場舉辦兩天共](../Page/首尔奥林匹克体操竞技场.md "wikilink")3場的演唱會，包括1月31日及2月1號的演出，但因部分歌迷要求加場，所屬經紀公司[YG娛樂經過商量後決定再加開](../Page/YG娛樂.md "wikilink")1場1月30號的公演。\[1\]\[2\]
+《**Big Show 2009**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG演唱會Big](https://zh.wikipedia.org/wiki/BIGBANG "wikilink") Show系列的第一場演出，原定於[首爾奧林匹克體操競技場舉辦兩天共](../Page/首尔奥林匹克体操竞技场.md "wikilink")3場的演唱會，包括1月31日及2月1號的演出，但因部分歌迷要求加場，所屬經紀公司[YG娛樂](../Page/YG娛樂.md "wikilink")經過商量後決定再加開1場1月30號的公演。\[1\]\[2\]
 
 ## 演唱歌單
 
@@ -92,9 +90,7 @@ Show系列的第一場演出，原定於[首爾奧林匹克體操競技場舉辦
 
   -
 
-[Category:BIGBANG巡迴演唱會](https://zh.wikipedia.org/wiki/Category:BIGBANG巡迴演唱會 "wikilink")
-[Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink")
-[Category:2009年演唱會](https://zh.wikipedia.org/wiki/Category:2009年演唱會 "wikilink")
+[Category:BIGBANG巡迴演唱會](https://zh.wikipedia.org/wiki/Category:BIGBANG巡迴演唱會 "wikilink") [Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink") [Category:2009年演唱會](https://zh.wikipedia.org/wiki/Category:2009年演唱會 "wikilink")
 
 1.
 2.

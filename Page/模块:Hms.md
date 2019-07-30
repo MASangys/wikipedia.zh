@@ -69,5 +69,4 @@ end
 
 return p
 
-[Category:输入值出现错误的持续时间](https://zh.wikipedia.org/wiki/Category:输入值出现错误的持续时间 "wikilink")
-[Category:不含hAudio微格式的持续时间](https://zh.wikipedia.org/wiki/Category:不含hAudio微格式的持续时间 "wikilink")
+[Category:输入值出现错误的持续时间](https://zh.wikipedia.org/wiki/Category:输入值出现错误的持续时间 "wikilink") [Category:不含hAudio微格式的持续时间](https://zh.wikipedia.org/wiki/Category:不含hAudio微格式的持续时间 "wikilink")

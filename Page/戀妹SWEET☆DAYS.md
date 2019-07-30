@@ -1,4 +1,4 @@
-是日本[Parasol在](../Page/Parasol.md "wikilink")2012年5月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]
+是日本[Parasol](../Page/Parasol.md "wikilink")在2012年5月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]
 
 ## 故事
 
@@ -74,17 +74,9 @@
 
   - [Parasol](http://www.parasol-soft.com/)
 
-[Category:2012年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2012年日本成人遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:亂倫題材遊戲](https://zh.wikipedia.org/wiki/Category:亂倫題材遊戲 "wikilink")
+[Category:2012年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2012年日本成人遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:亂倫題材遊戲](https://zh.wikipedia.org/wiki/Category:亂倫題材遊戲 "wikilink")
 
-1.  [恋妹SWEET☆DAYS
-    初回版](http://www.getchu.com/soft.phtml?id=729591)Getchu.com
+1.  [恋妹SWEET☆DAYS 初回版](http://www.getchu.com/soft.phtml?id=729591)Getchu.com
 2.  [Koiimo SWEET☆DAYS](https://vndb.org/v9095)The Visual Novel Database
 3.  [恋妹SWEET☆DAYS](http://erogetrailers.com/soft/8446#layout_page)ErogeTrailers
-4.  [恋妹SWEET☆DAYS](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=16535#ad)ErogameScape
-    -エロゲー批評空間-
+4.  [恋妹SWEET☆DAYS](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=16535#ad)ErogameScape -エロゲー批評空間-

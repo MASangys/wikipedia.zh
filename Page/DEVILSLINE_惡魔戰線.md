@@ -157,8 +157,7 @@ ISBN 978-4-06-514671-2<small>（限定版）</small></p></td>
 
 ## 電視動畫
 
-2017年7月發表動畫化的消息\[16\]、2018年4月開始在[AT-X](../Page/AT-X.md "wikilink")、[TOKYO
-MX頻道放送中](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")\[17\]。
+2017年7月發表動畫化的消息\[16\]、2018年4月開始在[AT-X](../Page/AT-X.md "wikilink")、[TOKYO MX頻道放送中](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")\[17\]。
 
 ### 製作團隊
 
@@ -350,29 +349,13 @@ MX頻道放送中](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")\[17\]。
 
 ## 外部連結
 
-  - [DEVILSLINE 惡魔戰線 / 花田陵 Morning官方網站 -
-    Moai](http://morning.moae.jp/lineup/151)
+  - [DEVILSLINE 惡魔戰線 / 花田陵 Morning官方網站 - Moai](http://morning.moae.jp/lineup/151)
 
   -
   - [電視動畫《DEVILSLINE 惡魔戰線》官方網站](http://devilsline.jp/)
 
   -
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink")
-[Category:Morning連載作品](https://zh.wikipedia.org/wiki/Category:Morning連載作品 "wikilink")
-[Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink")
-[Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink")
-[Category:吸血鬼題材漫畫](https://zh.wikipedia.org/wiki/Category:吸血鬼題材漫畫 "wikilink")
-[Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink")
-[Category:2018年UHF動畫](https://zh.wikipedia.org/wiki/Category:2018年UHF動畫 "wikilink")
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
-[Category:AT-X動畫](https://zh.wikipedia.org/wiki/Category:AT-X動畫 "wikilink")
-[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
-[Category:吸血鬼題材動畫](https://zh.wikipedia.org/wiki/Category:吸血鬼題材動畫 "wikilink")
-[Category:戀愛動畫](https://zh.wikipedia.org/wiki/Category:戀愛動畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink") [Category:Morning連載作品](https://zh.wikipedia.org/wiki/Category:Morning連載作品 "wikilink") [Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:吸血鬼題材漫畫](https://zh.wikipedia.org/wiki/Category:吸血鬼題材漫畫 "wikilink") [Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink") [Category:2018年UHF動畫](https://zh.wikipedia.org/wiki/Category:2018年UHF動畫 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:AT-X動畫](https://zh.wikipedia.org/wiki/Category:AT-X動畫 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:吸血鬼題材動畫](https://zh.wikipedia.org/wiki/Category:吸血鬼題材動畫 "wikilink") [Category:戀愛動畫](https://zh.wikipedia.org/wiki/Category:戀愛動畫 "wikilink")
 
 1.
 2.

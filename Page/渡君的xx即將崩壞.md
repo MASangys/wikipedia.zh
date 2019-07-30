@@ -1,10 +1,8 @@
-《**渡君的xx即將崩壞**》（），由日本女性漫畫家[鳴見奈留繪畫的漫畫](../Page/鳴見奈留.md "wikilink")，在2014年8月4日開始連載於《[Young
-Ace](../Page/Young_Ace.md "wikilink")》\[1\]，後來於2015年11月20日移籍至《》連載\[2\]。
+《**渡君的xx即將崩壞**》（），由日本女性漫畫家[鳴見奈留](../Page/鳴見奈留.md "wikilink")繪畫的漫畫，在2014年8月4日開始連載於《[Young Ace](../Page/Young_Ace.md "wikilink")》\[1\]，後來於2015年11月20日移籍至《》連載\[2\]。
 
 ## 概要
 
-《渡君的xx即將崩壞》是[鳴見奈留的第](../Page/鳴見奈留.md "wikilink")5部作品，前作為已改編為電視劇的《[愛吃拉麵的小泉同學](../Page/愛吃拉麵的小泉同學.md "wikilink")》\[3\]。作品在2014年8月於[漫畫月刊](../Page/日本漫畫雜誌.md "wikilink")《[Young
-Ace](../Page/Young_Ace.md "wikilink")》連載，後來於2015年11月移籍至[講談社旗下的](https://zh.wikipedia.org/wiki/講談社 "wikilink")《》\[4\]。[角川書店出版的](../Page/角川書店.md "wikilink")[單行本第](https://zh.wikipedia.org/wiki/單行本 "wikilink")1集於2015年2月12日發售，但後來因移籍的關係，講談社決定重印第1冊，內頁亦與角川版有許多的不同\[5\]。而第1冊與第2冊的發行時間也相差逾1年半。
+《渡君的xx即將崩壞》是[鳴見奈留](../Page/鳴見奈留.md "wikilink")的第5部作品，前作為已改編為電視劇的《[愛吃拉麵的小泉同學](../Page/愛吃拉麵的小泉同學.md "wikilink")》\[3\]。作品在2014年8月於[漫畫月刊](../Page/日本漫畫雜誌.md "wikilink")《[Young Ace](../Page/Young_Ace.md "wikilink")》連載，後來於2015年11月移籍至[講談社旗下的](https://zh.wikipedia.org/wiki/講談社 "wikilink")《》\[4\]。[角川書店](../Page/角川書店.md "wikilink")出版的[單行本第](https://zh.wikipedia.org/wiki/單行本 "wikilink")1集於2015年2月12日發售，但後來因移籍的關係，講談社決定重印第1冊，內頁亦與角川版有許多的不同\[5\]。而第1冊與第2冊的發行時間也相差逾1年半。
 
 ## 故事簡介
 
@@ -13,7 +11,7 @@ Ace](../Page/Young_Ace.md "wikilink")》連載，後來於2015年11月移籍至[
 ## 登場人物
 
   -
-    本作主人公。16歲，高中2年級生，為學生委員會成員之一。原居於[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")，但因後來父母雙亡的關係而輾轉寄居於各親戚的家，現居於[東京都郊外的姑姑家](../Page/東京都.md "wikilink")\[6\]。與妹妹鈴白相依為命，日常生活亦以妹妹為中心，也因此被同學認為是妹控。個性細心、為人著想，擅長廚藝，雖甘願為妹妹做各種事，但意識到如果她一直依賴自己的話長大後會一無是處，所以希望她能自立。與紗月為青梅竹馬，但6年前紗月無故破壞他的田地後不再與直人見面而疏遠，對轉學至此的紗月處處防備，但實質上仍很關心她。
+    本作主人公。16歲，高中2年級生，為學生委員會成員之一。原居於[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")，但因後來父母雙亡的關係而輾轉寄居於各親戚的家，現居於[東京都](../Page/東京都.md "wikilink")郊外的姑姑家\[6\]。與妹妹鈴白相依為命，日常生活亦以妹妹為中心，也因此被同學認為是妹控。個性細心、為人著想，擅長廚藝，雖甘願為妹妹做各種事，但意識到如果她一直依賴自己的話長大後會一無是處，所以希望她能自立。與紗月為青梅竹馬，但6年前紗月無故破壞他的田地後不再與直人見面而疏遠，對轉學至此的紗月處處防備，但實質上仍很關心她。
     在19話被紫告白，於第22話以「試試看」的名義開始交往。
 
 <!-- end list -->
@@ -116,15 +114,9 @@ Ace](../Page/Young_Ace.md "wikilink")》連載，後來於2015年11月移籍至[
 
 ## 外部連結
 
-  - [月刊Young
-    Magazine的官方網站](http://yanmaga.jp/contents/watarikunnoxxgahoukaisunzen)
+  - [月刊Young Magazine的官方網站](http://yanmaga.jp/contents/watarikunnoxxgahoukaisunzen)
 
-
-[Category:月刊Young_Magazine](https://zh.wikipedia.org/wiki/Category:月刊Young_Magazine "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink")
-[Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink")
-[Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink")
+[Category:月刊Young_Magazine](https://zh.wikipedia.org/wiki/Category:月刊Young_Magazine "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink")
 
 1.
 

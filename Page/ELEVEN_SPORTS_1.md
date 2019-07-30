@@ -1,5 +1,4 @@
-**ELEVEN SPORTS
-1**，是英商[壹拾壹體育網旗下的體育頻道](../Page/壹拾壹體育網.md "wikilink")，前身為名字與集團名稱相同的**ELEVEN**，2018年1月1日更為現名。
+**ELEVEN SPORTS 1**，是英商[壹拾壹體育網](../Page/壹拾壹體育網.md "wikilink")旗下的體育頻道，前身為名字與集團名稱相同的**ELEVEN**，2018年1月1日更為現名。
 
 ## 頻道歷史
 
@@ -7,9 +6,7 @@
   - 2017年7月1日，頻道正式上架[中華電信MOD](../Page/中華電信MOD.md "wikilink")，定頻於180頻道。
   - 2017年11月1日，因應MOD頻道變更政策，ELEVEN的頻道號碼從改為第213台（2字頭為體育區塊頻道）。
   - 2018年1月1日，頻道名稱更改為「ELEVEN SPORTS 1台」。
-  - 2018年7月1日，頻道自[中華電信MOD下架](../Page/中華電信MOD.md "wikilink")，改由[ELEVEN
-    SPORTS
-    PLUS由特規頻道形式播出](https://zh.wikipedia.org/wiki/ELEVEN_SPORTS_PLUS "wikilink")。
+  - 2018年7月1日，頻道自[中華電信MOD](../Page/中華電信MOD.md "wikilink")下架，改由[ELEVEN SPORTS PLUS由特規頻道形式播出](https://zh.wikipedia.org/wiki/ELEVEN_SPORTS_PLUS "wikilink")。
   - ELEVEN SPORTS 1台，全面定頻在CH75台（台灣大寬頻、凱擘大寬頻、中嘉系統、數位天空）。
 
 ## 註釋

@@ -1,12 +1,9 @@
-《**酒私風雲 卷1：HBO劇集音樂**》（***Boardwalk Empire Volume 1: Music from the HBO
-Original
-Series***）是一輯[HBO電視劇](../Page/HBO.md "wikilink")《[酒私風雲](../Page/酒私風雲.md "wikilink")》的原聲帶，由唱片公司在2011年9月發行。\[1\]本專輯達到《[告示牌雜誌](https://zh.wikipedia.org/wiki/告示牌雜誌 "wikilink")》最高爵士樂專輯排行榜的第八位，也獲得[2012年格林美獎](https://zh.wikipedia.org/wiki/第54屆格林美獎 "wikilink")。
+《**酒私風雲 卷1：HBO劇集音樂**》（***Boardwalk Empire Volume 1: Music from the HBO Original Series***）是一輯[HBO](../Page/HBO.md "wikilink")電視劇《[酒私風雲](../Page/酒私風雲.md "wikilink")》的原聲帶，由唱片公司在2011年9月發行。\[1\]本專輯達到《[告示牌雜誌](https://zh.wikipedia.org/wiki/告示牌雜誌 "wikilink")》最高爵士樂專輯排行榜的第八位，也獲得[2012年格林美獎](https://zh.wikipedia.org/wiki/第54屆格林美獎 "wikilink")。
 
 ## 曲目列表
 
 1.  ""，表演者：和
-2.  "The Dumber They Come the Better I Like
-    'Em"，表演者：[史蒂芬·德羅薩](../Page/史蒂芬·德羅薩.md "wikilink")
+2.  "The Dumber They Come the Better I Like 'Em"，表演者：[史蒂芬·德羅薩](../Page/史蒂芬·德羅薩.md "wikilink")
 3.  ""，表演者：[蕾吉娜·史派克特](../Page/蕾吉娜·史派克特.md "wikilink")
 4.  ""，表演者：文斯·焦爾達諾和Nighthawks
 5.  ""，表演者：
@@ -31,8 +28,6 @@ Series***）是一輯[HBO電視劇](../Page/HBO.md "wikilink")《[酒私風雲](
 
 ## 參考資料
 
-[Category:酒私風雲](https://zh.wikipedia.org/wiki/Category:酒私風雲 "wikilink")
-[Category:2011年原聲帶](https://zh.wikipedia.org/wiki/Category:2011年原聲帶 "wikilink")
-[Category:電視原聲帶](https://zh.wikipedia.org/wiki/Category:電視原聲帶 "wikilink")
+[Category:酒私風雲](https://zh.wikipedia.org/wiki/Category:酒私風雲 "wikilink") [Category:2011年原聲帶](https://zh.wikipedia.org/wiki/Category:2011年原聲帶 "wikilink") [Category:電視原聲帶](https://zh.wikipedia.org/wiki/Category:電視原聲帶 "wikilink")
 
 1.

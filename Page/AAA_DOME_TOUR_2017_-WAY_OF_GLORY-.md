@@ -1,10 +1,9 @@
-《''' AAA DOME TOUR 2017 -WAY OF GLORY-
-'''》是[日本團體](../Page/日本.md "wikilink")[AAA於](../Page/AAA_\(團體\).md "wikilink")2018年1月17日發售的第20張影像作品。
+《''' AAA DOME TOUR 2017 -WAY OF GLORY- '''》是[日本](../Page/日本.md "wikilink")團體[AAA於](../Page/AAA_\(團體\).md "wikilink")2018年1月17日發售的第20張影像作品。
 
 ## 概要
 
   - 收錄2017年9月14日在東京巨蛋舉行的「AAA DOME TOUR 2017 -WAY OF GLORY-」影像。\[1\]。
-  - 2017年3月底[伊藤千晃畢業後](../Page/伊藤千晃.md "wikilink")，6人體制的首張演唱會影像作品。
+  - 2017年3月底[伊藤千晃](../Page/伊藤千晃.md "wikilink")畢業後，6人體制的首張演唱會影像作品。
 
 ## 收錄曲目
 
@@ -71,10 +70,6 @@
 
 ## 外部連結
 
-[Category:AAA影像作品](https://zh.wikipedia.org/wiki/Category:AAA影像作品 "wikilink")
-[Category:2018年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2018年音樂相關影像作品 "wikilink")
-[Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")
+[Category:AAA影像作品](https://zh.wikipedia.org/wiki/Category:AAA影像作品 "wikilink") [Category:2018年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2018年音樂相關影像作品 "wikilink") [Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")
 
-1.  [3/22に「AAA Special Live 2016 in Dome -FANTASTIC OVER-」DVD &
-    Blu-ray発売決定！！](http://avex.jp/aaa/news/detail.php?id=1045522#)
-    2017年1月27日 AAAオフィシャルサイト
+1.  [3/22に「AAA Special Live 2016 in Dome -FANTASTIC OVER-」DVD & Blu-ray発売決定！！](http://avex.jp/aaa/news/detail.php?id=1045522#) 2017年1月27日 AAAオフィシャルサイト

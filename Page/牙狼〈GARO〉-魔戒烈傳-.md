@@ -1,11 +1,10 @@
-《**牙狼〈GARO〉-魔戒烈傳-**》（），是[日本特摄剧集](../Page/日本.md "wikilink")《[牙狼〈GARO〉](../Page/牙狼〈GARO〉.md "wikilink")》系列10週年的紀念作品，於2016年4月8日至6月25日在[東京電視台聯播網的深夜時段播出](../Page/東京電視台.md "wikilink")，全12集。
+《**牙狼〈GARO〉-魔戒烈傳-**》（），是[日本](../Page/日本.md "wikilink")特摄剧集《[牙狼〈GARO〉](../Page/牙狼〈GARO〉.md "wikilink")》系列10週年的紀念作品，於2016年4月8日至6月25日在[東京電視台](../Page/東京電視台.md "wikilink")聯播網的深夜時段播出，全12集。
 
 而在本篇播畢後，隔週7月1日接續播出特別篇《牙狼〈GARO〉-阿修羅-》
 
 ## 本劇特色
 
-特攝劇《牙狼〈GARO〉》系列自2005年10月所開播的第一部作品《牙狼〈GARO〉》為開始，到了2015年也迎來了10年的歷史。為了10週年的紀念，官方特別製作出這部「牙狼10週年全明星作品」。
-以往的牙狼系列作品皆是以「黃金騎士牙狼」作為主角所產生的故事，本作特別以歷代作品中登場的魔戒騎士、魔戒法師作為主角，以一集一單元的形式講述各個主要角色的故事。
+特攝劇《牙狼〈GARO〉》系列自2005年10月所開播的第一部作品《牙狼〈GARO〉》為開始，到了2015年也迎來了10年的歷史。為了10週年的紀念，官方特別製作出這部「牙狼10週年全明星作品」。 以往的牙狼系列作品皆是以「黃金騎士牙狼」作為主角所產生的故事，本作特別以歷代作品中登場的魔戒騎士、魔戒法師作為主角，以一集一單元的形式講述各個主要角色的故事。
 
 ## 故事大綱
 
@@ -58,8 +57,7 @@
 <!-- end list -->
 
   -
-    《[牙狼〈GARO〉-GOLDSTORM-
-    翔](../Page/牙狼〈GARO〉-GOLDSTORM-_翔.md "wikilink")》登場的火羅·亞美里魔戒法師時期的樣貌，第2話的主角。
+    《[牙狼〈GARO〉-GOLDSTORM- 翔](../Page/牙狼〈GARO〉-GOLDSTORM-_翔.md "wikilink")》登場的火羅·亞美里魔戒法師時期的樣貌，第2話的主角。
 
 <!-- end list -->
 
@@ -132,8 +130,7 @@
 <!-- end list -->
 
   -
-    《[絶狼〈ZERO〉-Black
-    Blood-](https://zh.wikipedia.org/wiki/絶狼〈ZERO〉-Black_Blood- "wikilink")》登場的魔戒法師少女，第5話的主角。
+    《[絶狼〈ZERO〉-Black Blood-](https://zh.wikipedia.org/wiki/絶狼〈ZERO〉-Black_Blood- "wikilink")》登場的魔戒法師少女，第5話的主角。
 
 <!-- end list -->
 
@@ -237,9 +234,7 @@
 
 <!-- end list -->
 
-  - **D・蘋果**（青年：[石田卓也](../Page/石田卓也.md "wikilink")
-    老年：[泉谷茂](https://zh.wikipedia.org/wiki/泉谷茂 "wikilink")
-    飾）
+  - **D・蘋果**（青年：[石田卓也](../Page/石田卓也.md "wikilink") 老年：[泉谷茂](https://zh.wikipedia.org/wiki/泉谷茂 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -441,6 +436,4 @@
   - [東京電視台『牙狼〈GARO〉-魔戒烈傳-』節目情報網頁](http://www.tv-tokyo.co.jp/anime/garo-retsuden/)
 
   -
-[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink")
-[Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink")
-[Category:2010年代特攝作品](https://zh.wikipedia.org/wiki/Category:2010年代特攝作品 "wikilink")
+[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink") [Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink") [Category:2010年代特攝作品](https://zh.wikipedia.org/wiki/Category:2010年代特攝作品 "wikilink")

@@ -1,7 +1,6 @@
-**W·R·格雷斯大楼**是一座位于[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")[曼哈顿的摩天大楼](https://zh.wikipedia.org/wiki/曼哈顿 "wikilink")。
-该建筑的设计主要是由[戈登·邦沙夫特设计](../Page/戈登·邦沙夫特.md "wikilink")，在1974年完工。\[1\] 大楼业主为W·R·格雷斯公司，[德勤会计师事务所亦位于此楼中](https://zh.wikipedia.org/wiki/德勤会计师事务所 "wikilink")。
+**W·R·格雷斯大楼**是一座位于[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")[曼哈顿的摩天大楼](https://zh.wikipedia.org/wiki/曼哈顿 "wikilink")。 该建筑的设计主要是由[戈登·邦沙夫特](../Page/戈登·邦沙夫特.md "wikilink")设计，在1974年完工。\[1\] 大楼业主为W·R·格雷斯公司，[德勤会计师事务所亦位于此楼中](https://zh.wikipedia.org/wiki/德勤会计师事务所 "wikilink")。
 
-该建筑地址为[第六大街](../Page/第六大道.md "wikilink")1114号，但是主入口位于[42街上](../Page/42街_\(曼哈頓\).md "wikilink")，第五、第六大道之间。大楼俯视[布莱恩公园和](../Page/布莱恩特公园.md "wikilink")[纽约公共图书馆的总部](../Page/纽约公共图书馆.md "wikilink")。建筑物面积大约为1,518,000平方英尺（可租赁面积）。
+该建筑地址为[第六大街](../Page/第六大道.md "wikilink")1114号，但是主入口位于[42街上](../Page/42街_\(曼哈頓\).md "wikilink")，第五、第六大道之间。大楼俯视[布莱恩公园和](../Page/布莱恩特公园.md "wikilink")[纽约公共图书馆](../Page/纽约公共图书馆.md "wikilink")的总部。建筑物面积大约为1,518,000平方英尺（可租赁面积）。
 
 ## 租户
 
@@ -29,11 +28,8 @@
   -
   - [in-Arch.net：建筑信息](https://web.archive.org/web/20160618133626/http://www.in-arch.net/NYC/nyc3b.html#71)
 
-[Category:曼哈顿摩天大楼](https://zh.wikipedia.org/wiki/Category:曼哈顿摩天大楼 "wikilink")
-[Category:150米至199米高的摩天大楼](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大楼 "wikilink")
+[Category:曼哈顿摩天大楼](https://zh.wikipedia.org/wiki/Category:曼哈顿摩天大楼 "wikilink") [Category:150米至199米高的摩天大楼](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大楼 "wikilink")
 
 1.
-2.  [Bain New York
-    City](http://www.bain.com/offices/newyork/en_us/index.aspx)
-3.  [Cooley LLP | About Us | Offices | New
-    York](http://www.cooley.com/newyork)
+2.  [Bain New York City](http://www.bain.com/offices/newyork/en_us/index.aspx)
+3.  [Cooley LLP | About Us | Offices | New York](http://www.cooley.com/newyork)

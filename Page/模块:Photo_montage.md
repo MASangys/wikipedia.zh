@@ -1,6 +1,4 @@
-\-- implements
-[template:photomontage](https://zh.wikipedia.org/wiki/template:photomontage "wikilink")
-local p = {}
+\-- implements [template:photomontage](https://zh.wikipedia.org/wiki/template:photomontage "wikilink") local p = {}
 
 local function isnotempty(s)
 
@@ -143,5 +141,4 @@ end
 
 return p
 
-[Category:Pages_using_photo_montage_without_center_alignment](https://zh.wikipedia.org/wiki/Category:Pages_using_photo_montage_without_center_alignment "wikilink")
-[Category:Pages_using_photo_montage_with_one_or_fewer_images](https://zh.wikipedia.org/wiki/Category:Pages_using_photo_montage_with_one_or_fewer_images "wikilink")
+[Category:Pages_using_photo_montage_without_center_alignment](https://zh.wikipedia.org/wiki/Category:Pages_using_photo_montage_without_center_alignment "wikilink") [Category:Pages_using_photo_montage_with_one_or_fewer_images](https://zh.wikipedia.org/wiki/Category:Pages_using_photo_montage_with_one_or_fewer_images "wikilink")

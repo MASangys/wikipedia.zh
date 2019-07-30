@@ -1,9 +1,9 @@
-**Pro-Fit聲優養成所**（）是[日本一家總部位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[中野區的](../Page/中野區.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")[Pro-Fit附屬的聲優養成所](../Page/Pro-Fit.md "wikilink")。另有位在[新宿區的工作室](../Page/新宿區.md "wikilink")。成立於2004年4月。
+**Pro-Fit聲優養成所**（）是[日本](../Page/日本.md "wikilink")一家總部位於[東京都](../Page/東京都.md "wikilink")[中野區](../Page/中野區.md "wikilink")的[經紀公司](../Page/經紀公司.md "wikilink")[Pro-Fit](../Page/Pro-Fit.md "wikilink")附屬的聲優養成所。另有位在[新宿區](../Page/新宿區.md "wikilink")的工作室。成立於2004年4月。
 
 ## 概要
 
   - 在學期間有在聲優界出道的可能。
-  - 由現任[音效指導的聲優或資深聲優](../Page/音效指導.md "wikilink")（[鹽屋翼](../Page/鹽屋翼.md "wikilink")、[龜山俊樹](../Page/龜山俊樹.md "wikilink")、[島本須美等人](../Page/島本須美.md "wikilink")）擔任講師。
+  - 由現任[音效指導](../Page/音效指導.md "wikilink")的聲優或資深聲優（[鹽屋翼](../Page/鹽屋翼.md "wikilink")、[龜山俊樹](../Page/龜山俊樹.md "wikilink")、[島本須美](../Page/島本須美.md "wikilink")等人）擔任講師。
   - 至第6期為止僅本科的教學周期為1年，從2007年度的第7期開始新增設可接受2年教學周期的基礎科。
 
 ## 主要出身聲優
@@ -124,5 +124,4 @@
 
   - [Pro-Fit聲優養成所的公式官網](http://www.profit-v.com/)
 
-[Category:Pro-Fit](https://zh.wikipedia.org/wiki/Category:Pro-Fit "wikilink")
-[Category:聲優養成所](https://zh.wikipedia.org/wiki/Category:聲優養成所 "wikilink")
+[Category:Pro-Fit](https://zh.wikipedia.org/wiki/Category:Pro-Fit "wikilink") [Category:聲優養成所](https://zh.wikipedia.org/wiki/Category:聲優養成所 "wikilink")

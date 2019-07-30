@@ -1,7 +1,4 @@
-**2NB**
-（）是[韓國Friday娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2006年3月成立的女子二人重唱團體。2NB的意思為「兩色的[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")」，號稱是女子版的「[Fly
-to the
-Sky](../Page/Fly_to_the_Sky.md "wikilink")」\[1\]。原始成員為金嘉熙與[許率智](https://zh.wikipedia.org/wiki/許率智 "wikilink")。2007年金嘉熙退出。2008年新成員[金頌怡加入](../Page/加頻.md "wikilink")\[2\]。2011年許率智退出。2012年金頌怡退出，組合解散。2016年8月31日甜甜圈文化的社長宣佈解散五年的2NB將以2期回歸，新的團員為金孝珍、孫酉奈\[3\]。
+**2NB** （）是[韓國Friday娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2006年3月成立的女子二人重唱團體。2NB的意思為「兩色的[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")」，號稱是女子版的「[Fly to the Sky](../Page/Fly_to_the_Sky.md "wikilink")」\[1\]。原始成員為金嘉熙與[許率智](https://zh.wikipedia.org/wiki/許率智 "wikilink")。2007年金嘉熙退出。2008年新成員[金頌怡加入](../Page/加頻.md "wikilink")\[2\]。2011年許率智退出。2012年金頌怡退出，組合解散。2016年8月31日甜甜圈文化的社長宣佈解散五年的2NB將以2期回歸，新的團員為金孝珍、孫酉奈\[3\]。
 
 ## 經歷
 
@@ -19,8 +16,7 @@ Sky](../Page/Fly_to_the_Sky.md "wikilink")」\[1\]。原始成員為金嘉熙與
 
 ### 2008年 新成員加入
 
-2008年，許率智以個人歌手活動，個人出道單曲《Challenge》\[6\]。 新成員金頌怡加入。 2009年，金頌怡發行出道單曲《사랑이
-고프다(愛是飢渴的》\[7\]。
+2008年，許率智以個人歌手活動，個人出道單曲《Challenge》\[6\]。 新成員金頌怡加入。 2009年，金頌怡發行出道單曲《사랑이 고프다(愛是飢渴的》\[7\]。
 
 ### 2011年 許率智退出
 
@@ -103,7 +99,7 @@ Sky](../Page/Fly_to_the_Sky.md "wikilink")」\[1\]。原始成員為金嘉熙與
 <li>生日：1989年9月18日</li>
 <li>出生地：<a href="../Page/釜山廣域市.md" title="wikilink">釜山廣域市</a></li>
 <li>教育程度： 休學中</li>
-<li>改名為Gabin（<a href="../Page/加頻.md" title="wikilink">加頻</a>, 가빈），現為女子團體<a href="../Page/BLADY.md" title="wikilink">BLADY成員</a>[19]</li>
+<li>改名為Gabin（<a href="../Page/加頻.md" title="wikilink">加頻</a>, 가빈），現為女子團體<a href="../Page/BLADY.md" title="wikilink">BLADY</a>成員[19]</li>
 <li>隊內擔當：主唱、忙內</li>
 </ul></td>
 </tr>
@@ -124,8 +120,7 @@ Sky](../Page/Fly_to_the_Sky.md "wikilink")」\[1\]。原始成員為金嘉熙與
 
 註：2007年11月30日[金頌怡即以](../Page/加頻.md "wikilink")2NB的隊員身份參與了W7'Project的專輯，並出現在MV中。
 2013年5月4日播出的[隱藏歌手](../Page/隱藏歌手.md "wikilink")，[金頌怡稱已經結束合約](../Page/加頻.md "wikilink")，復學\[20\]。
-但是2013年6月20日發行的電影原聲帶《샤랄라
-Sharala》，依然稱她為2NB的[金頌怡](../Page/加頻.md "wikilink")\[21\]。
+但是2013年6月20日發行的電影原聲帶《샤랄라 Sharala》，依然稱她為2NB的[金頌怡](../Page/加頻.md "wikilink")\[21\]。
 
 ## 音樂作品
 
@@ -255,7 +250,7 @@ Sharala》，依然稱她為2NB的[金頌怡](../Page/加頻.md "wikilink")\[21\
 <li>눈감아 줄게요 (김가희 金嘉熙 Ver.)</li>
 <li>눈감아 줄게요 (Inst.)</li>
 </ol></td>
-<td><p>EveR是韓國的<a href="../Page/人形機器人.md" title="wikilink">人形機器人計劃</a>。</p></td>
+<td><p>EveR是韓國的<a href="../Page/人形機器人.md" title="wikilink">人形機器人</a>計劃。</p></td>
 </tr>
 <tr class="even">
 <td><p>2006年12月12日</p></td>
@@ -685,20 +680,13 @@ Sharala》，依然稱她為2NB的[金頌怡](../Page/加頻.md "wikilink")\[21\
 
 ## 參考資料
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink")
 
-1.  [투앤비, '여자 플라이투더스카이'로
-    인정받아](http://star.mt.co.kr/stview_sports.htm?no=2006040616054333419)
-    Star News
+1.  [투앤비, '여자 플라이투더스카이'로 인정받아](http://star.mt.co.kr/stview_sports.htm?no=2006040616054333419) Star News
 
-2.  ['새 멤버 영입' 투앤비, 신인탈출의
-    날갯짓](http://m.entertain.naver.com/read?oid=076&aid=0001969330)
-    Sports Chosun
+2.  ['새 멤버 영입' 투앤비, 신인탈출의 날갯짓](http://m.entertain.naver.com/read?oid=076&aid=0001969330) Sports Chosun
 
-3.  [투앤비, 해체 5년 만에 새 멤버 김효진-손유나 영입 ‘2기 체제
-    컴백’](http://www.etnews.com/20160831000391) etnews
+3.  [투앤비, 해체 5년 만에 새 멤버 김효진-손유나 영입 ‘2기 체제 컴백’](http://www.etnews.com/20160831000391) etnews
 
 4.  [First Story - 김현주](http://www.mnet.com/album/8821) Mnet
 
@@ -708,21 +696,15 @@ Sharala》，依然稱她為2NB的[金頌怡](../Page/加頻.md "wikilink")\[21\
 
 7.  [사랑이 고프다 (Single) - 김송이](http://www.mnet.com/album/175929) Mnet
 
-8.  [허솔지, 소속사와 계약만료로 투앤비
-    탈퇴](http://sports.donga.com/3//20110621/38196455/1) dongA.com
+8.  [허솔지, 소속사와 계약만료로 투앤비 탈퇴](http://sports.donga.com/3//20110621/38196455/1) dongA.com
 
 9.  [EXID 公開二位新成員](http://kpopn.com/2012/07/31/136269/)  Kpopn
 
-10. [복학생 백지영, 2NB의 '김송이'\! -
-    히든싱어 10회](https://www.youtube.com/watch?v=ANdm30iTWeQ)
-    JTBC Entertainment
+10. [복학생 백지영, 2NB의 '김송이'\! - 히든싱어 10회](https://www.youtube.com/watch?v=ANdm30iTWeQ) JTBC Entertainment
 
-11. [k-pop 걸그룹 블레이디 예능 첫 신고식 가빈 편
-    blady-tv.kim](https://www.youtube.com/watch?v=zcI6Q647IIs)
-    blady-tv.kim
+11. [k-pop 걸그룹 블레이디 예능 첫 신고식 가빈 편 blady-tv.kim](https://www.youtube.com/watch?v=zcI6Q647IIs) blady-tv.kim
 
-12. [Blady經紀公司
-    Profile](http://tenspace.iptime.org/star/blady/?page_id=1557)
+12. [Blady經紀公司 Profile](http://tenspace.iptime.org/star/blady/?page_id=1557)
 
 13.
 14. [2NB官方Profile](http://www.donutsculture.com/main/page.html?pid=98)
@@ -733,18 +715,12 @@ Sharala》，依然稱她為2NB的[金頌怡](../Page/加頻.md "wikilink")\[21\
 17.
 18. [粉絲詢問有關BLADY正名，公司以羅馬拼音及漢字回答](http://1.bp.blogspot.com/-oGbaYhghIlg/VR_kbTTC63I/AAAAAAAAGKs/kBOEP4bGRcc/s1600/11076018_796404280434975_1385512098_n.jpg)
 
-19. [EXID 솔지, 前투앤비 동료 가빈 걸그룹 블레이디 합류 현장
-    방문..'의리'](http://star.mt.co.kr/view/stview.php?no=2015030917372129035)
-    Star News
+19. [EXID 솔지, 前투앤비 동료 가빈 걸그룹 블레이디 합류 현장 방문..'의리'](http://star.mt.co.kr/view/stview.php?no=2015030917372129035) Star News
 
 20.
-21. [영화 홀리OST \`샤랄라\` - 2NB 김송이 (민아 Of
-    걸스데이주연)_MV](https://www.youtube.com/watch?v=r7C2_2uXF40)
-    Soribada (소리바다)
+21. [영화 홀리OST \`샤랄라\` - 2NB 김송이 (민아 Of 걸스데이주연)_MV](https://www.youtube.com/watch?v=r7C2_2uXF40) Soribada (소리바다)
 
-22. [女子組合2NB發行單曲
-    翻唱KISS《因為是女人》](http://yule.sohu.com/20070531/n250326565.shtml)
-    Mydaily
+22. [女子組合2NB發行單曲 翻唱KISS《因為是女人》](http://yule.sohu.com/20070531/n250326565.shtml) Mydaily
 
 23. [2NB 推出新歌\[그대죠](http://kpopn.com/2010/11/11/40325/)\] Kpopn
 

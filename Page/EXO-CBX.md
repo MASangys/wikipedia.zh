@@ -1,5 +1,4 @@
-**EXO-CBX**（，）是[SM娛樂旗下](../Page/SM娛樂.md "wikilink")[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[EXO的子團體小分隊](../Page/EXO.md "wikilink")，組合名稱是由三位成員**X**iumin、**B**aekhyun和**C**hen的英文名開頭字母所組成，於2016年10月31日推出首張迷你專輯《Hey
-Mama\!》。
+**EXO-CBX**（，）是[SM娛樂](../Page/SM娛樂.md "wikilink")旗下[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[EXO](../Page/EXO.md "wikilink")的子團體小分隊，組合名稱是由三位成員**X**iumin、**B**aekhyun和**C**hen的英文名開頭字母所組成，於2016年10月31日推出首張迷你專輯《Hey Mama\!》。
 
 該小分組沒有隊長，2016年10月31日，EXO-CBX第一次活動由抽選選出一日隊長Xiumin。\[1\]
 
@@ -7,52 +6,25 @@ Mama\!》。
 
 ### 2016年：出道、《Hey Mama\!》
 
-2016年，CHEN、伯賢、XIUMIN 在同年七月舉行的 EXO 第三次單獨演唱會《[EXO PLANET \#3 - The
-EXO'rDIUM
--](../Page/EXOPLANET_＃3_-_The_EXO'rDIUM_-.md "wikilink")》上，以「Reservoir
-Idols」之名公開 MV 影像，之後便在粉絲間傳出他們會組成子團的傳言，8月10日，三人則為《月之戀人-步步驚心：麗》演唱首波
-OST《為了你》 ，獲得粉絲們一片好評。
+2016年，CHEN、伯賢、XIUMIN 在同年七月舉行的 EXO 第三次單獨演唱會《[EXO PLANET \#3 - The EXO'rDIUM -](../Page/EXOPLANET_＃3_-_The_EXO'rDIUM_-.md "wikilink")》上，以「Reservoir Idols」之名公開 MV 影像，之後便在粉絲間傳出他們會組成子團的傳言，8月10日，三人則為《月之戀人-步步驚心：麗》演唱首波 OST《為了你》 ，獲得粉絲們一片好評。
 
-10月5日，SM娛樂表示EXO成員伯賢、XIUMIN和CHEN 將組成子團並發行專輯\[2\]，22日在官方視頻公開出道預告影片。24日由
-CHEN、伯賢、XIUMIN 組成的 EXO 第一個子團 EXO-CBX 將於31日發行首張迷你專輯《Hey
-Mama\!》出道，並透過官方網站公開子團的動態 LOGO\[3\]。隔天於官方 Vyrl
-平台公開首張迷你專輯《Hey Mama\!》的預告照，並以11月3日的 Mnet 音樂節目《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》為起點開始宣傳活動。\[4\]。30日，於S.M.Entertainment
-官方 YouTube 頻道公開主打歌《Hey Mama\!》的預告影片。此外，EXO-CBX
-將在10月31日零時透過各大線上音源網站公開《Hey
-Mama\!》音源，當天晚上8點會於 COEX 東側廣場特設舞台，舉辦《EXO-CBX HOT DEBUT STAGE》，並透過
-Naver V app 進行直播\[5\]。隔天透過各大音源網站發行首張迷你專輯《Hey Mama\!》，並透過 SMTOWN 官方
-YouTube 頻道公開同名主打歌《Hey Mama\!》MV\[6\]。
+10月5日，SM娛樂表示EXO成員伯賢、XIUMIN和CHEN 將組成子團並發行專輯\[2\]，22日在官方視頻公開出道預告影片。24日由 CHEN、伯賢、XIUMIN 組成的 EXO 第一個子團 EXO-CBX 將於31日發行首張迷你專輯《Hey Mama\!》出道，並透過官方網站公開子團的動態 LOGO\[3\]。隔天於官方 Vyrl 平台公開首張迷你專輯《Hey Mama\!》的預告照，並以11月3日的 Mnet 音樂節目《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》為起點開始宣傳活動。\[4\]。30日，於S.M.Entertainment 官方 YouTube 頻道公開主打歌《Hey Mama\!》的預告影片。此外，EXO-CBX 將在10月31日零時透過各大線上音源網站公開《Hey Mama\!》音源，當天晚上8點會於 COEX 東側廣場特設舞台，舉辦《EXO-CBX HOT DEBUT STAGE》，並透過 Naver V app 進行直播\[5\]。隔天透過各大音源網站發行首張迷你專輯《Hey Mama\!》，並透過 SMTOWN 官方 YouTube 頻道公開同名主打歌《Hey Mama\!》MV\[6\]。
 
-11月7日，S.M. Entertainment 官方 YouTube 7日釋出 EXO 子團 EXO-CBX 首張迷你專輯《Hey
-Mama\!》收錄曲《The One》，曾在《EXO PLANET \#3 - The EXO'rDIUM -》演唱會上公開的特別版
-MV\[7\]。
+11月7日，S.M. Entertainment 官方 YouTube 7日釋出 EXO 子團 EXO-CBX 首張迷你專輯《Hey Mama\!》收錄曲《The One》，曾在《EXO PLANET \#3 - The EXO'rDIUM -》演唱會上公開的特別版 MV\[7\]。
 
 ### 2017年：日本出道、《GIRLS》
 
-2017年5月1日，EXO-CBX公開第一張日語迷你專輯《GIRLS》的主打曲《Ka-CHING\!》的短版音樂錄影帶。5月24日，EXO-CBX於日本出道並發行第一張日語迷你專輯《GIRLS》\[8\]\[9\]。7月29日，EXO-CBX為動畫版《[Running
-Man](../Page/Running_Man.md "wikilink")》演唱主題曲《It's Running
-Time\!》並公開了音樂錄影帶\[10\]。9月22日，EXO-CBX為日劇《最後的生命：即使你明天消失》演唱OST《Cry》。\[11\]
+2017年5月1日，EXO-CBX公開第一張日語迷你專輯《GIRLS》的主打曲《Ka-CHING\!》的短版音樂錄影帶。5月24日，EXO-CBX於日本出道並發行第一張日語迷你專輯《GIRLS》\[8\]\[9\]。7月29日，EXO-CBX為動畫版《[Running Man](../Page/Running_Man.md "wikilink")》演唱主題曲《It's Running Time\!》並公開了音樂錄影帶\[10\]。9月22日，EXO-CBX為日劇《最後的生命：即使你明天消失》演唱OST《Cry》。\[11\]
 
 ### 2018年：Magical Circus、《Blooming Days》、《Magic》
 
-2018年1月，EXO-CBX公佈他們將展開首次日本競技場巡演《Magical
-Circus》。此次巡演一共有8場，會在橫濱、福岡、名古屋和大阪4個城市舉行\[12\]。3月25日，EXO-CBX為電視劇《[Live](../Page/Live_\(韓國電視劇\).md "wikilink")》演唱的OST《Someone
-Like
-You》音源公開\[13\]。3月26日，所屬經紀公司SM娛樂宣佈，EXO-CBX將於4月10日以迷你二輯回歸韓國樂壇，這次回歸是繼2016年10月後時隔一年半在韓國活動。4月3日，在SNS上公開是次回歸的專輯名為《[Blooming
-Days](../Page/Blooming_Days.md "wikilink")》，共收錄七首歌曲，以一星期（月曜日至日曜日）作為主題。4月6日，EXO-CBX宣佈將會在4月9日-4月15日期間通過
-Naver V
-LIVE進行直播《月火水木CBX》，而直播的内容每天都不一樣，將會以7種不同的風格進行直播\[14\]。4月10日，EXO-CBX於韓國各大音樂平臺發佈第二張韓語迷你專輯《Blooming
-Days》，並公開主打曲《花요일 (Blooming Day)》的音樂錄影帶。\[15\] 《Blooming Days》登上了韓國Gaon
-Chart一位，並在36個地區的iTunes專輯總榜拿到第一，印證了EXO-CBX的全球知名度\[16\]。5月9日，EXO-CBX發行第一張日語正規專輯《Magic》，專輯在發行當天取得Oricon公信榜日榜单第一名，而且專輯的首日銷量就已經超過兩萬張。\[17\]
+2018年1月，EXO-CBX公佈他們將展開首次日本競技場巡演《Magical Circus》。此次巡演一共有8場，會在橫濱、福岡、名古屋和大阪4個城市舉行\[12\]。3月25日，EXO-CBX為電視劇《[Live](../Page/Live_\(韓國電視劇\).md "wikilink")》演唱的OST《Someone Like You》音源公開\[13\]。3月26日，所屬經紀公司SM娛樂宣佈，EXO-CBX將於4月10日以迷你二輯回歸韓國樂壇，這次回歸是繼2016年10月後時隔一年半在韓國活動。4月3日，在SNS上公開是次回歸的專輯名為《[Blooming Days](../Page/Blooming_Days.md "wikilink")》，共收錄七首歌曲，以一星期（月曜日至日曜日）作為主題。4月6日，EXO-CBX宣佈將會在4月9日-4月15日期間通過 Naver V LIVE進行直播《月火水木CBX》，而直播的内容每天都不一樣，將會以7種不同的風格進行直播\[14\]。4月10日，EXO-CBX於韓國各大音樂平臺發佈第二張韓語迷你專輯《Blooming Days》，並公開主打曲《花요일 (Blooming Day)》的音樂錄影帶。\[15\] 《Blooming Days》登上了韓國Gaon Chart一位，並在36個地區的iTunes專輯總榜拿到第一，印證了EXO-CBX的全球知名度\[16\]。5月9日，EXO-CBX發行第一張日語正規專輯《Magic》，專輯在發行當天取得Oricon公信榜日榜单第一名，而且專輯的首日銷量就已經超過兩萬張。\[17\]
 
-2019年4月12日，EXO-CBX發行首張日語數位單曲《Paper
-Cuts》\[18\]。4月16日，EXO-CBX開始日本巡演《EXO-CBX “MAGICAL
-CIRCUS” 2019 –Special Edition》\[19\]。
+2019年4月12日，EXO-CBX發行首張日語數位單曲《Paper Cuts》\[18\]。4月16日，EXO-CBX開始日本巡演《EXO-CBX “MAGICAL CIRCUS” 2019 –Special Edition》\[19\]。7月17日，EXO-CBX為網劇《戀愛播放列表第四季》演唱的OST《Be My Love》公開音源\[20\]。
 
 ## 成員列表
 
-| 成員列表\[20\]\[21\]                                         |
+| 成員列表\[21\]\[22\]                                         |
 | -------------------------------------------------------- |
 | 藝名                                                       |
 | 藝名                                                       |
@@ -79,7 +51,7 @@ CIRCUS” 2019 –Special Edition》\[19\]。
 <ul>
 <li>發行日期：2018年5月9日</li>
 <li>語言：日語</li>
-<li>銷量：56,884+（Oricon）[22]<br />
+<li>銷量：56,884+（Oricon）[23]<br />
 64,417+（Billboard）<ref>《Magic》于Billboard日本统计銷量:</li>
 <li></li>
 <li></li>
@@ -105,7 +77,7 @@ CIRCUS” 2019 –Special Edition》\[19\]。
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Hey_Mama!" title="wikilink">Hey Mama!</a></strong>》[23]</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Hey_Mama!" title="wikilink">Hey Mama!</a></strong>》[24]</p>
 <ul>
 <li>發行日期：2016年10月31日</li>
 <li>語言：韓語</li>
@@ -116,8 +88,8 @@ CIRCUS” 2019 –Special Edition》\[19\]。
 <li></li>
 <li><p></ref></p>
 <ul>
-<li>日本: 11,445+[24]</li>
-<li>美國: 2000+[25]</li>
+<li>日本: 11,445+[25]</li>
+<li>美國: 2000+[26]</li>
 </ul></li>
 </ul></td>
 <td></td>
@@ -130,9 +102,9 @@ CIRCUS” 2019 –Special Edition》\[19\]。
 <li>語言：韓語</li>
 <li>銷量：
 <ul>
-<li>南韓：360,362+[26]</li>
-<li>中國：93,953+[27]</li>
-<li>日本：13,513+[28]</li>
+<li>南韓：360,362+[27]</li>
+<li>中國：93,953+[28]</li>
+<li>日本：13,513+[29]</li>
 </ul></li>
 </ul></td>
 <td></td>
@@ -158,7 +130,7 @@ CIRCUS” 2019 –Special Edition》\[19\]。
 <li>發行日期：2017年5月24日</li>
 <li>語言：日語</li>
 <li>唱片公司：Avex Trax</li>
-<li>銷量：JPN: 71,933+[29]</li>
+<li>銷量：JPN: 71,933+[30]</li>
 </ul></td>
 <td><p>CBX版（CD、DVD）<br />
 Chen、Baekhyun、Xiumin版（CD）<br />
@@ -178,7 +150,7 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong>Paper Cuts</strong>》[30]</p>
+<td><p>《<strong>Paper Cuts</strong>》[31]</p>
 <ul>
 <li>發行日期：2019年4月12日</li>
 <li>語言：日語</li>
@@ -198,7 +170,7 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 | 2017年7月29日 | [SBS](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink")                           | 《Running Man 動畫版》                              | It's Running Time\! |
 | 2017年9月22日 | [Amazon Prime Video](https://zh.wikipedia.org/wiki/Amazon_Prime_Video "wikilink") | 《最後的生命：即使你明天消失》                                | Cry                 |
 | 2018年3月24日 | tvN                                                                               | 《[Live](../Page/Live_\(韓國電視劇\).md "wikilink")》 | Someone Like You    |
-| 2019年      | Naver TV Cast                                                                     | 《戀愛播放列表第四季》                                    | Be My Love          |
+| 2019年7月17日 | Naver TV Cast                                                                     | 《戀愛播放列表第四季》                                    | Be My Love          |
 
 ### 廣告 / 宣傳歌曲
 
@@ -250,10 +222,18 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p>《'''EXO-CBX "MAGICAL CIRCUS" TOUR 2018 '''》[31]</p>
+<td><p>《'''EXO-CBX "MAGICAL CIRCUS" TOUR 2018 '''》[32]</p>
 <ul>
 <li>發行日期：2018年9月26日</li>
 <li>語言：韓語</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2nd</p></td>
+<td><p>《<strong>EXO-CBX “MAGICAL CIRCUS” 2019 -Special Edition-</strong>》</p>
+<ul>
+<li>發行日期：2019年8月21日</li>
 </ul></td>
 <td></td>
 </tr>
@@ -264,18 +244,17 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 
 ### 音樂錄影帶
 
-|        |                           |                                                                    |                                                               |
-| ------ | ------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------- |
-| 年份     | 發佈日期                      | 歌曲名稱                                                               | 專輯                                                            |
-| 2016年  | 8月25日                     | For You\[32\]                                                      | 《[月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink") OST Part 1》 |
-| 10月31日 | Hey Mama\!\[33\]          | 《[Hey Mama\!](https://zh.wikipedia.org/wiki/Hey_Mama! "wikilink")》 |                                                               |
-| 11月7日  | The One\[34\]             |                                                                    |                                                               |
-| 12月26日 | Crush U\[35\]             | 《劍靈 Blade & Soul》                                                  |                                                               |
-| 2017年  | 5月1日                      | Ka-CHING\!\[36\]                                                   | 《[GIRLS](../Page/GIRLS_\(EXO-CBX迷你專輯\).md "wikilink")》        |
-| 7月29日  | It's Running Time\!       | 《[Running Man (動畫版)](../Page/Running_Man_\(動畫版\).md "wikilink")》   |                                                               |
-| 2018年  | 4月10日                     | 花요일 (Blooming Day)                                                 | 《Blooming Days》                                               |
-| 4月25日  | Horololo                  | 《Magic》                                                            |                                                               |
-| 4月29日  | Beautiful World (아름다운 강산) | 《KONA Electric（[現代汽車](../Page/現代汽車.md "wikilink")）》                |                                                               |
+|        |                           |                                                                  |                                                                    |
+| ------ | ------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 年份     | 發佈日期                      | 歌曲名稱                                                             | 專輯                                                                 |
+| 2016年  | 10月31日                    | Hey Mama\!\[33\]                                                 | 《[Hey Mama\!](https://zh.wikipedia.org/wiki/Hey_Mama! "wikilink")》 |
+| 11月7日  | The One\[34\]             |                                                                  |                                                                    |
+| 12月26日 | Crush U\[35\]             | 《劍靈 Blade & Soul》                                                |                                                                    |
+| 2017年  | 5月1日                      | Ka-CHING\!\[36\]                                                 | 《[GIRLS](../Page/GIRLS_\(EXO-CBX迷你專輯\).md "wikilink")》             |
+| 7月29日  | It's Running Time\!       | 《[Running Man (動畫版)](../Page/Running_Man_\(動畫版\).md "wikilink")》 |                                                                    |
+| 2018年  | 4月10日                     | 花요일 (Blooming Day)                                               | 《Blooming Days》                                                    |
+| 4月25日  | Horololo                  | 《Magic》                                                          |                                                                    |
+| 4月29日  | Beautiful World (아름다운 강산) | 《KONA Electric（[現代汽車](../Page/現代汽車.md "wikilink")）》              |                                                                    |
 
 ### 專屬節目
 
@@ -622,13 +601,9 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 
   -
   -
-[EXO](https://zh.wikipedia.org/wiki/分類:EXO "wikilink")
-[分類:SM娛樂](https://zh.wikipedia.org/wiki/分類:SM娛樂 "wikilink")
+[EXO](https://zh.wikipedia.org/wiki/分類:EXO "wikilink") [分類:SM娛樂](https://zh.wikipedia.org/wiki/分類:SM娛樂 "wikilink")
 
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
+[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
 
 1.
 
@@ -638,8 +613,7 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 
 4.  [EXO-CBX《Hey Mama\!》預告照](http://kpopn.niusnews.com/=K034ag13)Kpopn
 
-5.  [XO-CBX《Hey Mama\!》MV
-    預告公開](http://kpopn.niusnews.com/=K19mmrb5E)Kpopn{{zh}
+5.  [XO-CBX《Hey Mama\!》MV 預告公開](http://kpopn.niusnews.com/=K19mmrb5E)Kpopn{{zh}
 
 6.  [EXO-CBX《Hey Mama\!》MV、音源](http://kpopn.niusnews.com/=K1dllcd4)Kpopn
 
@@ -670,10 +644,9 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 
 22.
 
-23. [最特別的生日禮物！EXO首個SOLO成員Lay，將於7日中韓同步公開作品](http://www.vlovekpop.com/20161006-lay/)
-    vlovekpop
+23.
 
-24.
+24. [最特別的生日禮物！EXO首個SOLO成員Lay，將於7日中韓同步公開作品](http://www.vlovekpop.com/20161006-lay/) vlovekpop
 
 25.
 

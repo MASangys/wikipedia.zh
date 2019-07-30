@@ -1,5 +1,4 @@
-《**Battle
-Likes**》（韓語：배틀라이크）是韓國[KBS電視台的綜藝節目](https://zh.wikipedia.org/wiki/KBS "wikilink")，由不同藝人與明星出演。節目將展現藝人與明星體驗韓國文化樣子,同時在節目中能看見藝人與明星展現各種不同的面貌。
+《**Battle Likes**》（韓語：배틀라이크）是韓國[KBS電視台的綜藝節目](https://zh.wikipedia.org/wiki/KBS "wikilink")，由不同藝人與明星出演。節目將展現藝人與明星體驗韓國文化樣子,同時在節目中能看見藝人與明星展現各種不同的面貌。
 
 ## 各集資訊
 
@@ -47,6 +46,4 @@ Likes**》（韓語：배틀라이크）是韓國[KBS電視台的綜藝節目](h
 
 ## 參考資料
 
-[Category:KBS](https://zh.wikipedia.org/wiki/Category:KBS "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:KBS](https://zh.wikipedia.org/wiki/Category:KBS "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")

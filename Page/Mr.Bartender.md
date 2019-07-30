@@ -1,6 +1,4 @@
-《**Mr.Bartender**》（又名《**巴爾坦德先生**》），得利影視股份有限公司in微創為IP版權所有公司。《Mr.
-Bartender》作為原創網路影集，從周遭朋友的故事出發，內容闡述了許多發生在酒吧裡的故事，找出現在社會上的癥結。由[SELFPICK團隊製作](https://zh.wikipedia.org/wiki/SELFPICK "wikilink")。藉由[調酒師與客人之間的互動探討各種人生議題](../Page/調酒師.md "wikilink")。2016年推出第二季，改由知名演員演出。\[1\]
-本劇預計會推出五季以及一部電影版剪輯，第二季第4集即是重啟集資製作而成，在製作完第三季後，劇組將轉而製作《[私室](../Page/私室.md "wikilink")》，本劇的計畫而暫時停止。
+《**Mr.Bartender**》（又名《**巴爾坦德先生**》），得利影視股份有限公司in微創為IP版權所有公司。《Mr. Bartender》作為原創網路影集，從周遭朋友的故事出發，內容闡述了許多發生在酒吧裡的故事，找出現在社會上的癥結。由[SELFPICK團隊製作](https://zh.wikipedia.org/wiki/SELFPICK "wikilink")。藉由[調酒師](../Page/調酒師.md "wikilink")與客人之間的互動探討各種人生議題。2016年推出第二季，改由知名演員演出。\[1\] 本劇預計會推出五季以及一部電影版剪輯，第二季第4集即是重啟集資製作而成，在製作完第三季後，劇組將轉而製作《[私室](../Page/私室.md "wikilink")》，本劇的計畫而暫時停止。
 
 ## 簡介
 
@@ -157,8 +155,7 @@ Bartender》作為原創網路影集，從周遭朋友的故事出發，內容�
   - 製作助理：沈柔君（第1季）、蔡宇-{杰}-（Ep 5－7）、吳孟倫（Ep 8－15）、高靖瑀（Ep 8－15）
   - 編劇：徐嘉凱、高浩敏（Ep 8－15）
   - 攝影師：林子堯、游子毅（Ep 5－7）、周賢晏（Ep 8－15）、李建翰（Ep 8－15）
-  - 攝影助理：邱立中（Ep 1－4、8－15）、林京佑、劉政偉（Ep 8－15）、多奧·阿季（第2－3季）、謝季廷（Ep
-    8－15）、呂紹暐（Ep 8－15）
+  - 攝影助理：邱立中（Ep 1－4、8－15）、林京佑、劉政偉（Ep 8－15）、多奧·阿季（第2－3季）、謝季廷（Ep 8－15）、呂紹暐（Ep 8－15）
   - 現場錄音師：白仕安（Ep 1－7）、徐宗詮（Ep 8－15）
   - 現場錄音助理：王明涵（第1季）
   - 收音師：郭晉華（第2季）、王明涵（Ep 5－7）、陳偉峰（Ep 8－15）、郭逸寧（Ep 8－15）
@@ -191,15 +188,7 @@ Bartender》作為原創網路影集，從周遭朋友的故事出發，內容�
   -
   -
   -
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink")
-[Category:2015年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2015年台灣電視劇集 "wikilink")
-[Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink")
-[Category:酒題材作品](https://zh.wikipedia.org/wiki/Category:酒題材作品 "wikilink")
-[Category:餐館背景電視劇](https://zh.wikipedia.org/wiki/Category:餐館背景電視劇 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:2015年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2015年台灣電視劇集 "wikilink") [Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink") [Category:酒題材作品](https://zh.wikipedia.org/wiki/Category:酒題材作品 "wikilink") [Category:餐館背景電視劇](https://zh.wikipedia.org/wiki/Category:餐館背景電視劇 "wikilink")
 
-1.  [影集辯人生
-    「他」批年輕人：全副武裝卻躊躇不前](http://news.ltn.com.tw/news/life/breakingnews/1634010),2016-03-16
-    [自由時報](../Page/自由時報.md "wikilink")
-2.  [從聽故事的人，到說故事給你聽，SELF PICK
-    自製原創影集《Mr.Bartender》](http://www.damanwoo.com/node/87310),2015.11.03
-    [大人物](https://zh.wikipedia.org/wiki/大人物 "wikilink")
+1.  [影集辯人生 「他」批年輕人：全副武裝卻躊躇不前](http://news.ltn.com.tw/news/life/breakingnews/1634010),2016-03-16 [自由時報](../Page/自由時報.md "wikilink")
+2.  [從聽故事的人，到說故事給你聽，SELF PICK 自製原創影集《Mr.Bartender》](http://www.damanwoo.com/node/87310),2015.11.03 [大人物](https://zh.wikipedia.org/wiki/大人物 "wikilink")

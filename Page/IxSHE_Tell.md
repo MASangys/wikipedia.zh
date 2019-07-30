@@ -1,6 +1,4 @@
-《**IxSHE
-Tell**》是由[HOOKSOFT在](../Page/HOOKSOFT.md "wikilink")2018年2月23日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，\[1\]\[2\]2018年7月27日發售[Fan
-disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《》。
+《**IxSHE Tell**》是由[HOOKSOFT](../Page/HOOKSOFT.md "wikilink")在2018年2月23日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，\[1\]\[2\]2018年7月27日發售[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《》。
 
 ## 故事
 
@@ -56,11 +54,7 @@ disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《》。
   - [官方網站](http://www.hook-net.jp/ixshetell/index.html)
   - [Fandisc官方網站](http://www.hook-net.jp/ixshetell/fd/index.html)
 
-[Category:2018年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2018年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
+[Category:2018年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2018年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
 
 1.
 2.

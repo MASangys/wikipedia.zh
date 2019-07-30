@@ -1,14 +1,10 @@
-**MOBB**（）是[YG娛樂於](../Page/YG娛樂.md "wikilink")2016年9月所推出的新組合，由旗下兩組團體[WINNER的成員](../Page/WINNER.md "wikilink")[MINO以及](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")[iKON的成員](https://zh.wikipedia.org/wiki/iKON "wikilink")[BOBBY所組成的小分隊](../Page/金知元_\(饒舌者\).md "wikilink")。並於2016年9月9日發行數位單曲《HIT
-ME》（）以及《FULL HOUSE》（）\[1\]。
+**MOBB**（）是[YG娛樂](../Page/YG娛樂.md "wikilink")於2016年9月所推出的新組合，由旗下兩組團體[WINNER](../Page/WINNER.md "wikilink")的成員[MINO以及](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")[iKON的成員](https://zh.wikipedia.org/wiki/iKON "wikilink")[BOBBY所組成的小分隊](../Page/金知元_\(饒舌者\).md "wikilink")。並於2016年9月9日發行數位單曲《HIT ME》（）以及《FULL HOUSE》（）\[1\]。
 
 ## 經歷
 
-2016年8月29日，[YG娛樂透過官方部落格公開了](../Page/YG娛樂.md "wikilink")[BOBBY的預告照并註明了](https://zh.wikipedia.org/wiki/BOBBY "wikilink")「COMING
-SOON」的字樣\[2\]。並在8月31日再次公開了[宋旻浩的預告照同樣的註明了](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")「COMING
-SOON」的字樣\[3\]。
+2016年8月29日，[YG娛樂](../Page/YG娛樂.md "wikilink")透過官方部落格公開了[BOBBY的預告照并註明了](https://zh.wikipedia.org/wiki/BOBBY "wikilink")「COMING SOON」的字樣\[2\]。並在8月31日再次公開了[宋旻浩的預告照同樣的註明了](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")「COMING SOON」的字樣\[3\]。
 
-2016年9月5日，[YG娛樂公開了兩人所組成的小分隊預告照并將會在](../Page/YG娛樂.md "wikilink")2016年9月9日的0時發行兩首數位單曲以及MV，在預告照可看見團體名為「MOBB」\[4\]。隔天，官方再公開團體的首張迷你專輯預告照，專輯名為「THE
-MOBB」\[5\]。
+2016年9月5日，[YG娛樂](../Page/YG娛樂.md "wikilink")公開了兩人所組成的小分隊預告照并將會在2016年9月9日的0時發行兩首數位單曲以及MV，在預告照可看見團體名為「MOBB」\[4\]。隔天，官方再公開團體的首張迷你專輯預告照，專輯名為「THE MOBB」\[5\]。
 
 ## 成員列表
 
@@ -228,11 +224,7 @@ MOBB」\[5\]。
 
   -
   -
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink")
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
 
 1.
 2.

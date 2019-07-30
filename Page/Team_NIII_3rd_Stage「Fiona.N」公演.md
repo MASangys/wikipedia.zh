@@ -1,12 +1,8 @@
-**Team NIII 3rd
-Stage「Fiona.N」公演**是[GNZ48的剧场公演](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")，此套公演是GNZ48
-Team NIII的第二套原創公演，也是GNZ48「Miss」系列公演的首套公演\[1\]。
+**Team NIII 3rd Stage「Fiona.N」公演**是[GNZ48的剧场公演](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")，此套公演是GNZ48 Team NIII的第二套原創公演，也是GNZ48「Miss」系列公演的首套公演\[1\]。
 
 ## 概要
 
-《Fiona.N》是GNZ48 Team
-NIII的第二套原創公演，也是GNZ48「Miss」系列公演的首套公演\[2\]\[3\]。《Fiona.N》作为GNZ48全新原创公演系列「Miss」系列的首套公演，将增强与其他公演的故事联动性。《Fiona.N》将成为串联起系列公演《Victoria.G》和《Mia.Z》的关键序章。本场公演将风格具象化。新公演将融入更多音乐风格和舞蹈、舞台元素，呈现风格突出和个性鲜明的Team
-NIII\[4\]。
+《Fiona.N》是GNZ48 Team NIII的第二套原創公演，也是GNZ48「Miss」系列公演的首套公演\[2\]\[3\]。《Fiona.N》作为GNZ48全新原创公演系列「Miss」系列的首套公演，将增强与其他公演的故事联动性。《Fiona.N》将成为串联起系列公演《Victoria.G》和《Mia.Z》的关键序章。本场公演将风格具象化。新公演将融入更多音乐风格和舞蹈、舞台元素，呈现风格突出和个性鲜明的Team NIII\[4\]。
 
 ## 公演曲目
 
@@ -34,8 +30,7 @@ NIII\[4\]。
 11. 谁是傻瓜
     （作词：Mayu Huang 黄枫宜　作曲：Mayu Huang 黄枫宜　编曲：任中强）
 12. 给Victoria的秘密 / Listen to Mia / 内心戏
-    （作词：Kiyou　作曲：OKBOYS　编曲：OKBOYS）/（作词：Mayu Huang
-    黄枫宜　作曲：金源奕　编曲：金源奕）/（作词：冯嘉希、田纳　作曲：金源奕、朴志娟　编曲：金源奕）
+    （作词：Kiyou　作曲：OKBOYS　编曲：OKBOYS）/（作词：Mayu Huang 黄枫宜　作曲：金源奕　编曲：金源奕）/（作词：冯嘉希、田纳　作曲：金源奕、朴志娟　编曲：金源奕）
 13. 人生经验
     （作词：甘世佳　作曲：Shaliponte　编曲：Shaliponte）
 14. 不完美
@@ -102,10 +97,8 @@ GNZ48于2018年7月9-10日分批释出了该公演全部曲目的音源。
 [Category:SNH48_Group剧场公演](https://zh.wikipedia.org/wiki/Category:SNH48_Group剧场公演 "wikilink")
 
 1.  [GNZ48全新原创公演Miss系列首套公演《Fiona.N》完整版宣传片重磅来袭](https://www.weibo.com/5675361083/Go2L0blJ3?from=page_1004065675361083_profile&wvr=6&mod=weibotime&type=comment)
-2.  [GNZ48出道两周年庆典
-    与粉丝朋友们一起展望未来](http://www.gnz48.com/html/news/info/201805/369.html)
-3.  [被粉丝封为“女团教父” 的他
-    亲临GNZ48两周年办签售](http://ent.qianlong.com/2018/0502/2549630.shtml)
+2.  [GNZ48出道两周年庆典 与粉丝朋友们一起展望未来](http://www.gnz48.com/html/news/info/201805/369.html)
+3.  [被粉丝封为“女团教父” 的他 亲临GNZ48两周年办签售](http://ent.qianlong.com/2018/0502/2549630.shtml)
 4.  [GNZ48官方网站的介绍](http://www.gnz48.com/event/g033/)
 5.
 6.

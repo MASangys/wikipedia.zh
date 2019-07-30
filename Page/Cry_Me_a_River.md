@@ -1,10 +1,4 @@
-***Cry Me A River***
-是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[爵士樂女歌手](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")[茱莉·倫敦的第一張](../Page/茱莉·倫敦.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由London
-Records於1955年10月發行，為單聲道形式。\[1\] \[2\] 此單曲「Cry Me A
-River(淚流成河)」受到極大的成功，廣為傳唱，也是她最知名的代表作，讓她成為50～60年代最受歡迎的[爵士樂女歌手](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")。此曲的作者「Arthur
-Hamilton」是「Julie London」高中同學，有趣的是此曲原本是要讓黑人爵士名伶，有爵士第一夫人美譽的「[Ella
-Fitzgerald](https://zh.wikipedia.org/wiki/Ella_Fitzgerald "wikilink")」演唱，陰錯陽差下卻成為「Julie
-London」最知名的歌曲。
+***Cry Me A River*** 是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[爵士樂女歌手](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")[茱莉·倫敦](../Page/茱莉·倫敦.md "wikilink")的第一張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由London Records於1955年10月發行，為單聲道形式。\[1\] \[2\] 此單曲「Cry Me A River(淚流成河)」受到極大的成功，廣為傳唱，也是她最知名的代表作，讓她成為50～60年代最受歡迎的[爵士樂女歌手](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")。此曲的作者「Arthur Hamilton」是「Julie London」高中同學，有趣的是此曲原本是要讓黑人爵士名伶，有爵士第一夫人美譽的「[Ella Fitzgerald](https://zh.wikipedia.org/wiki/Ella_Fitzgerald "wikilink")」演唱，陰錯陽差下卻成為「Julie London」最知名的歌曲。
 
 ## 曲目和格式
 
@@ -39,10 +33,7 @@ London」最知名的歌曲。
 
 ## 備註
 
-[Category:茱莉·倫敦音樂專輯](https://zh.wikipedia.org/wiki/Category:茱莉·倫敦音樂專輯 "wikilink")
-[Category:1955年歌曲](https://zh.wikipedia.org/wiki/Category:1955年歌曲 "wikilink")
-[Category:美國音樂專輯](https://zh.wikipedia.org/wiki/Category:美國音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:茱莉·倫敦音樂專輯](https://zh.wikipedia.org/wiki/Category:茱莉·倫敦音樂專輯 "wikilink") [Category:1955年歌曲](https://zh.wikipedia.org/wiki/Category:1955年歌曲 "wikilink") [Category:美國音樂專輯](https://zh.wikipedia.org/wiki/Category:美國音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
 1.
 2.

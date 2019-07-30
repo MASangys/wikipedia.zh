@@ -74,12 +74,9 @@
 
 ## 参考资料
 
-  - [Offonoff to make official
-    debut](http://www.koreaherald.com/view.php?ud=20160920000359)
-  - [EPIK HIGHのTABLO、新人デュオoffonoffを公開！“ビジュアル＆音楽の両方を発展させた形態” - MUSIC -
-    韓流・韓国芸能ニュースはKstyle](http://news.kstyle.com/article.ksn?articleNo=2053078)
-  - [신예 오프온오프(offonoff), 첫 정규앨범 ‘boy.’ 24일
-    발매..‘기대↑’:브레이크뉴스](http://www.breaknews.com/sub_read.html?uid=521610)
+  - [Offonoff to make official debut](http://www.koreaherald.com/view.php?ud=20160920000359)
+  - [EPIK HIGHのTABLO、新人デュオoffonoffを公開！“ビジュアル＆音楽の両方を発展させた形態” - MUSIC - 韓流・韓国芸能ニュースはKstyle](http://news.kstyle.com/article.ksn?articleNo=2053078)
+  - [신예 오프온오프(offonoff), 첫 정규앨범 ‘boy.’ 24일 발매..‘기대↑’:브레이크뉴스](http://www.breaknews.com/sub_read.html?uid=521610)
 
 ## 外部連結
 

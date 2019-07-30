@@ -1,5 +1,4 @@
-**MIL-STD-105**是[美國國防部軍用標準提供產品](https://zh.wikipedia.org/wiki/美國國防部 "wikilink")[抽樣標準](../Page/抽樣.md "wikilink")，來自於[修華特](https://zh.wikipedia.org/wiki/修華特 "wikilink")(Shewhart)，[哈利羅米格和](https://zh.wikipedia.org/wiki/哈利羅米格 "wikilink")[Dodge
-Roming抽樣檢驗理論和數學公式](https://zh.wikipedia.org/wiki/Dodge_Roming "wikilink")。除了應用軍事採購程序外，也是世界上應用最普及的抽樣標準，目前最新版本為1989年改版的**MIL-STD-105E**。
+**MIL-STD-105**是[美國國防部軍用標準提供產品](https://zh.wikipedia.org/wiki/美國國防部 "wikilink")[抽樣](../Page/抽樣.md "wikilink")標準，來自於[修華特](https://zh.wikipedia.org/wiki/修華特 "wikilink")(Shewhart)，[哈利羅米格和](https://zh.wikipedia.org/wiki/哈利羅米格 "wikilink")[Dodge Roming抽樣檢驗理論和數學公式](https://zh.wikipedia.org/wiki/Dodge_Roming "wikilink")。除了應用軍事採購程序外，也是世界上應用最普及的抽樣標準，目前最新版本為1989年改版的**MIL-STD-105E**。
 
 ## 歷史
 
@@ -21,12 +20,9 @@ Roming抽樣檢驗理論和數學公式](https://zh.wikipedia.org/wiki/Dodge_Rom
 
 ## 外部連結
 
-  - [MIL-STD-105E - Internet
-    Archive](https://archive.org/details/MIL-STD-105E_1)
-  - [MIL-STD-105E and MIL-STD-1916 calculators (SQC
-    Online)](http://www.sqconline.com/)
-  - [Choosing a Sampling Plan: MIL
-    Standard 105D](http://www.itl.nist.gov/div898/handbook/pmc/section2/pmc231.htm)
+  - [MIL-STD-105E - Internet Archive](https://archive.org/details/MIL-STD-105E_1)
+  - [MIL-STD-105E and MIL-STD-1916 calculators (SQC Online)](http://www.sqconline.com/)
+  - [Choosing a Sampling Plan: MIL Standard 105D](http://www.itl.nist.gov/div898/handbook/pmc/section2/pmc231.htm)
 
 ## 參考資料
 

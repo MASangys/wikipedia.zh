@@ -19,20 +19,17 @@ Trilogy Another・Ending</p></td>
 </tbody>
 </table>
 
-《*'EX-AID Trilogy Another・Ending
-**》（）是特摄片《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》衍生的[錄影帶首映故事系列作品](https://zh.wikipedia.org/wiki/錄影帶首映 "wikilink")，**東映VCINEMA*'的名義系列商品之一。为平成[假面骑士系列的第五系列](https://zh.wikipedia.org/wiki/假面骑士系列 "wikilink")[錄影帶首映作品](https://zh.wikipedia.org/wiki/錄影帶首映 "wikilink")\[1\]。
+《*'EX-AID Trilogy Another・Ending **》（）是特摄片《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》衍生的[錄影帶首映故事系列作品](https://zh.wikipedia.org/wiki/錄影帶首映 "wikilink")，**東映VCINEMA*'的名義系列商品之一。为平成[假面骑士系列的第五系列](https://zh.wikipedia.org/wiki/假面骑士系列 "wikilink")[錄影帶首映作品](https://zh.wikipedia.org/wiki/錄影帶首映 "wikilink")\[1\]。
 
 ## 概要
 
-本作品是以『[劇場版 假面騎士EX-AID
-True·Ending](../Page/劇場版_假面騎士EX-AID_True·Ending.md "wikilink")』的時間點兩年後的世界為後日談的劇情舞台，並以檀黎斗脫獄後再次為惡來描述劇情，另外在本篇中有些疑問於此外傳中給予相關解答\[2\]\[3\]\[4\]\[5\]。
+本作品是以『[劇場版 假面騎士EX-AID True·Ending](../Page/劇場版_假面騎士EX-AID_True·Ending.md "wikilink")』的時間點兩年後的世界為後日談的劇情舞台，並以檀黎斗脫獄後再次為惡來描述劇情，另外在本篇中有些疑問於此外傳中給予相關解答\[2\]\[3\]\[4\]\[5\]。
 
 ## 假面騎士Brave ＆ Snipe
 
 ### 本作特色
 
-《假面騎士Brave ＆ Snipe》（）為《EX-AID Trilogy Another・Ending》三部曲的第一彈。主要講述鏡飛彩 /
-假面騎士Brave和花家大我 / 假面騎士Snipe兩人的故事。
+《假面騎士Brave ＆ Snipe》（）為《EX-AID Trilogy Another・Ending》三部曲的第一彈。主要講述鏡飛彩 / 假面騎士Brave和花家大我 / 假面騎士Snipe兩人的故事。
 
 ### 故事概要
 
@@ -49,8 +46,7 @@ True·Ending](../Page/劇場版_假面騎士EX-AID_True·Ending.md "wikilink")�
   -
     聖都大學附屬醫院再生醫療中心的研究員，同時也是遺傳因子醫療的權威，實際上私下是跟檀黎斗有某個目的的合作關係。
 
-'''路克・基曼
-'''（[Harry杉山飾](https://zh.wikipedia.org/wiki/Harry杉山 "wikilink")）
+'''路克・基曼 '''（[Harry杉山飾](https://zh.wikipedia.org/wiki/Harry杉山 "wikilink")）
 
   -
     來自美國的玩家，拉夫利卡崩源體的感染者。
@@ -88,9 +84,7 @@ True·Ending](../Page/劇場版_假面騎士EX-AID_True·Ending.md "wikilink")�
 
 ### 本作特色
 
-《假面騎士Para-DX with Poppy》（）為《EX-AID Trilogy
-Another・Ending》三部曲的第二彈。主要講述帕拉德 /
-假面騎士Para-DX和仮野明日那 / Poppypipopapo / 假面騎士Poppy兩人的故事。
+《假面騎士Para-DX with Poppy》（）為《EX-AID Trilogy Another・Ending》三部曲的第二彈。主要講述帕拉德 / 假面騎士Para-DX和仮野明日那 / Poppypipopapo / 假面騎士Poppy兩人的故事。
 
 ### 故事概要
 
@@ -115,14 +109,13 @@ Another・Ending》三部曲的第二彈。主要講述帕拉德 /
     在本篇中請求永夢等人幫忙實驗新遊戲「培育崩源體！」，但實際上卻暗中對付帕拉德，並把Poppy囚禁。
     另外在本篇中正式得知她的真實身份為財前美智彥的女兒。
 
-**Another 帕拉德**（[甲斐翔真飾](../Page/甲斐翔真.md "wikilink")）
+**Another 帕拉德**（[甲斐翔真](../Page/甲斐翔真.md "wikilink")飾）
 
   -
     **假面騎士 Another Para-DX**的變身者。
     樣貌與帕拉德相似，身分是由復活後的檀正宗身上分離出來的再生崩源體，有著比天才玩家M還要好的技術。
     和帕拉德同樣對遊戲擁有強大的執著，但與帕拉德認真跟對手決勝負的個性相反，會為了獲勝而不擇手段甚至先將對手殘害後在獲得勝利，遭到帕拉德擊敗後被一旁的檀黎斗給吸收，後於結尾時利用此製造（神極限全力X）卡帶。
-    而在下一篇《假面騎士Genm VS Lazer》中因為已經製作出（神極限全力X）卡帶而失去利用價值，被檀黎斗封閉在Gashacon
-    Bugviser II內，該武器之後由檀黎斗為了讓檀正宗當玩家的理由而丟給了他後消失，檀正宗也將其吸入回去自身體內。
+    而在下一篇《假面騎士Genm VS Lazer》中因為已經製作出（神極限全力X）卡帶而失去利用價值，被檀黎斗封閉在Gashacon Bugviser II內，該武器之後由檀黎斗為了讓檀正宗當玩家的理由而丟給了他後消失，檀正宗也將其吸入回去自身體內。
 
 ### 本作登場假面騎士
 
@@ -284,22 +277,18 @@ Level 99[11]</p></td>
 
 ### 本作特色
 
-《假面騎士Genm VS Lazer》（）為《EX-AID Trilogy
-Another・Ending》三部曲的第三彈，同時也是最終作。主要講述檀黎斗
-/ 假面騎士Genm和九條貴利矢 / 假面騎士Lazer兩人的故事。
+《假面騎士Genm VS Lazer》（）為《EX-AID Trilogy Another・Ending》三部曲的第三彈，同時也是最終作。主要講述檀黎斗 / 假面騎士Genm和九條貴利矢 / 假面騎士Lazer兩人的故事。
 
 ### 故事概要
 
-Genm，終於覺醒了！入手新卡帶「God Maximum Mighty X」的檀黎斗所製作地·最後的遊戲「Zombie
-Chronicle」卻讓世界陷入前所未有的恐慌。發現到阻止獲得不下於無敵之力的黎斗關鍵的貴利矢，從正宗那託付的承諾，獨自一人面對Genm。究竟這兩人及世界的命運如何...?\[12\]
+Genm，終於覺醒了！入手新卡帶「God Maximum Mighty X」的檀黎斗所製作地·最後的遊戲「Zombie Chronicle」卻讓世界陷入前所未有的恐慌。發現到阻止獲得不下於無敵之力的黎斗關鍵的貴利矢，從正宗那託付的承諾，獨自一人面對Genm。究竟這兩人及世界的命運如何...?\[12\]
 
 ### 用語
 
   - 喪屍編年史
     原文： / *Zombie Chronicle*
     由檀黎斗經由**神極限全力X**的創造遊戲能力所製造的喪屍遊戲。
-    一旦啟動便讓遊戲領域無限展開並在遊戲領域內生出無數的喪屍玩家Level
-    X(10)，若被喪屍玩家攻擊的人類會變成喪屍模樣的崩源體病毒，變成病毒的人類也會透過攻擊將病毒持續散播。
+    一旦啟動便讓遊戲領域無限展開並在遊戲領域內生出無數的喪屍玩家Level X(10)，若被喪屍玩家攻擊的人類會變成喪屍模樣的崩源體病毒，變成病毒的人類也會透過攻擊將病毒持續散播。
     在此遊戲的規則下只要打敗一個喪屍玩家就能選擇復活一個因崩源體病毒而死去的人，可是被變成崩源體病毒的人類將永遠維持此型態無法拯救。
     在最後因檀黎斗被擊敗而遊戲結束。
 
@@ -516,8 +505,7 @@ Level Billion</strong></p></td>
 
   - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")
   - 劇本 - [高橋悠也](https://zh.wikipedia.org/wiki/高橋悠也 "wikilink")
-  - 音楽 -
-    [ats-](https://zh.wikipedia.org/wiki/ats- "wikilink"),[清水武仁](https://zh.wikipedia.org/wiki/清水武仁 "wikilink")&[渡邊徹](https://zh.wikipedia.org/wiki/渡邊徹 "wikilink")
+  - 音楽 - [ats-](https://zh.wikipedia.org/wiki/ats- "wikilink"),[清水武仁](https://zh.wikipedia.org/wiki/清水武仁 "wikilink")&[渡邊徹](https://zh.wikipedia.org/wiki/渡邊徹 "wikilink")
   - 導演 - [鈴村展弘](https://zh.wikipedia.org/wiki/鈴村展弘 "wikilink")
 
 ## 相關條目
@@ -532,35 +520,20 @@ Level Billion</strong></p></td>
 
 ## 參考資料
 
-[Category:2018年日本剧场动画](https://zh.wikipedia.org/wiki/Category:2018年日本剧场动画 "wikilink")
-[Category:日本电影作品](https://zh.wikipedia.org/wiki/Category:日本电影作品 "wikilink")
-[Category:日语电影](https://zh.wikipedia.org/wiki/Category:日语电影 "wikilink")
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
+[Category:2018年日本剧场动画](https://zh.wikipedia.org/wiki/Category:2018年日本剧场动画 "wikilink") [Category:日本电影作品](https://zh.wikipedia.org/wiki/Category:日本电影作品 "wikilink") [Category:日语电影](https://zh.wikipedia.org/wiki/Category:日语电影 "wikilink") [Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
 
-1.  前四作分別為《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》的『W
-    RETURNS』、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的『鎧武外傳』、《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的『Drive
-    SAGA』、《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》的『Ghost
-    RE:BIRTH』。
+1.  前四作分別為《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》的『W RETURNS』、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的『鎧武外傳』、《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的『Drive SAGA』、《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》的『Ghost RE:BIRTH』。
 2.  [Vシネマ「仮面ライダーエグゼイド　トリロジー　アナザー・エンディング」特報](https://www.youtube.com/watch?v=DT4RQ1DueY4)
-3.  [すべてのエグゼイドロスの方に朗報！Vシネマ『仮面ライダーエグゼイド トリロジー
-    アナザー・エンディング』](http://www.toei.co.jp/release/dvd/1210413_965.html)
-    東映オフィシャルサイト
-4.  [Vシネマ『仮面ライダーエグゼイド トリロジー
-    アナザー・エンディング』3大ニュース発表！第1作予告編解禁！劇場上映期間決定！3作のストーリー発表！](http://hobby.dengeki.com/news/485389/)
-    電撃ホビー編集部
-5.  [「ゲンムVSレーザー」岩永徹也＆貴水博之が裸の苦労語る、舞台挨拶が“黎斗劇場”に](https://headlines.yahoo.co.jp/hl?a=20180130-00000071-nataliee-movi)
-     映画ナタリー
-6.  [仮面ライダーエグゼイド　トリロジー　アナザー・エンディング　仮面ライダーブレイブ＆スナイプ
-    予告編](https://www.youtube.com/watch?v=HxpJbhLcO3c)
-7.  [仮面ライダーエグゼイド　トリロジー　アナザー・エンディング　仮面ライダーパラドクスwithポッピー
-    予告編](https://www.youtube.com/watch?v=vULkgk4ZvCA)
+3.  [すべてのエグゼイドロスの方に朗報！Vシネマ『仮面ライダーエグゼイド トリロジー アナザー・エンディング』](http://www.toei.co.jp/release/dvd/1210413_965.html) 東映オフィシャルサイト
+4.  [Vシネマ『仮面ライダーエグゼイド トリロジー アナザー・エンディング』3大ニュース発表！第1作予告編解禁！劇場上映期間決定！3作のストーリー発表！](http://hobby.dengeki.com/news/485389/) 電撃ホビー編集部
+5.  [「ゲンムVSレーザー」岩永徹也＆貴水博之が裸の苦労語る、舞台挨拶が“黎斗劇場”に](https://headlines.yahoo.co.jp/hl?a=20180130-00000071-nataliee-movi)  映画ナタリー
+6.  [仮面ライダーエグゼイド　トリロジー　アナザー・エンディング　仮面ライダーブレイブ＆スナイプ 予告編](https://www.youtube.com/watch?v=HxpJbhLcO3c)
+7.  [仮面ライダーエグゼイド　トリロジー　アナザー・エンディング　仮面ライダーパラドクスwithポッピー 予告編](https://www.youtube.com/watch?v=vULkgk4ZvCA)
 8.  也就是Another 帕拉德
-9.  先由八乙女紗衣子將檀正宗體內的Another 帕拉德分離出來，再利用該遊戲將檀正宗的遺傳因子交給Another
-    帕拉德，等到最後時機成熟時藉機吸收其並注入體內
+9.  先由八乙女紗衣子將檀正宗體內的Another 帕拉德分離出來，再利用該遊戲將檀正宗的遺傳因子交給Another 帕拉德，等到最後時機成熟時藉機吸收其並注入體內
 10. 按照本篇帕拉德對Another 帕拉德的對話及Another 帕拉德不反駁對其的說法來看，等級也應該是99等
 11. 按照本篇帕拉德對Another 帕拉德的對話及Another 帕拉德不反駁對其的說法來看，等級也應該是99等
-12. [仮面ライダーエグゼイド　トリロジー　アナザー・エンディング　仮面ライダーゲンムVSレーザー
-    予告編](https://www.youtube.com/watch?v=URUf_T3LCZQ)
+12. [仮面ライダーエグゼイド　トリロジー　アナザー・エンディング　仮面ライダーゲンムVSレーザー 予告編](https://www.youtube.com/watch?v=URUf_T3LCZQ)
 13. 但是於小說《假面騎士EX-AID》中判明儘管可以在數值上壓制無敵玩家，但由於無敵玩家對一切攻擊的無效化及不存在騎士值上限，作為變身者的永夢=天才玩家M依然有攻略神極限玩家的可能性
 14. 分離裝甲戰鬥，另外分離時除了靈敏速度外嘴巴也能吐出喪屍的毒氣將一切進入範圍內的攻擊無效化。在裝甲狀態時手腳伸長攻擊，裝甲的眼睛放出雷射等等
 15. 裝甲本身腳上擁有著推進器可以進行空中戰

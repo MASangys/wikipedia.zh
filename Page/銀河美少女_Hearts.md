@@ -1,6 +1,4 @@
-《**銀河美少女
-Hearts**》（）是日本漫畫家天津冴的漫畫作品，在[月刊少年Ace連載](../Page/月刊少年Ace.md "wikilink")，單行本是由[角川書店發售共](../Page/角川書店.md "wikilink")8冊\[1\]，中文版在臺灣是由[長鴻出版社代理發售](../Page/長鴻出版社.md "wikilink")。\[2\]另外在2003年發售《守護之心》\[3\]和2005年發售《守護之心
-Power Up\!》\[4\]兩部OVA作品。
+《**銀河美少女 Hearts**》（）是日本漫畫家天津冴的漫畫作品，在[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")連載，單行本是由[角川書店](../Page/角川書店.md "wikilink")發售共8冊\[1\]，中文版在臺灣是由[長鴻出版社](../Page/長鴻出版社.md "wikilink")代理發售。\[2\]另外在2003年發售《守護之心》\[3\]和2005年發售《守護之心 Power Up\!》\[4\]兩部OVA作品。
 
 ## 故事
 
@@ -101,8 +99,7 @@ Power Up\!》\[4\]兩部OVA作品。
 
 ## OVA
 
-OVA共有發售兩部系列，第一部是《守護之心》是由臺灣的[木棉花國際代理發售中文字幕版](../Page/木棉花國際.md "wikilink")，共有3卷6話\[5\]，第1卷和第3卷同日發售限定版。第二部是《守護之心
-Power Up\!》（）\[6\]，2卷4話同日發售限定版。
+OVA共有發售兩部系列，第一部是《守護之心》是由臺灣的[木棉花國際](../Page/木棉花國際.md "wikilink")代理發售中文字幕版，共有3卷6話\[5\]，第1卷和第3卷同日發售限定版。第二部是《守護之心 Power Up\!》（）\[6\]，2卷4話同日發售限定版。
 
 ### 各話列表
 
@@ -336,27 +333,13 @@ Power Up\!》（）\[6\]，2卷4話同日發售限定版。
 ## 外部連結
 
   - [守護之心官方網站](http://anime.softgarage.com/gartsu/index.html)Softgarage
-  - [守護之心 Power
-    Up\!官方網站](http://anime.softgarage.com/gartsu_p/)Softgarage
+  - [守護之心 Power Up\!官方網站](http://anime.softgarage.com/gartsu_p/)Softgarage
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊少年Ace](https://zh.wikipedia.org/wiki/Category:月刊少年Ace "wikilink")
-[Category:2003年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2003年日本OVA動畫 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:變身女主角](https://zh.wikipedia.org/wiki/Category:變身女主角 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊少年Ace](https://zh.wikipedia.org/wiki/Category:月刊少年Ace "wikilink") [Category:2003年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2003年日本OVA動畫 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:變身女主角](https://zh.wikipedia.org/wiki/Category:變身女主角 "wikilink")
 
-1.  [Guardian Hearts
-    (manga)](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=8927)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
-2.  [銀河美少女
-    Hearts 8](http://www.silkbook.com/book_detail.asp?goods_ser=kk0189366&flag=,1)新絲路購物網
+1.  [Guardian Hearts (manga)](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=8927)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+2.  [銀河美少女 Hearts 8](http://www.silkbook.com/book_detail.asp?goods_ser=kk0189366&flag=,1)新絲路購物網
 3.  [がぁーでぃあんHearts](http://www.allcinema.net/prog/show_c.php?num_c=240391)allcinema
-4.  [がぁーでぃあんHearts
-    ぱわ〜あっぷ\!](http://www.allcinema.net/prog/show_c.php?num_c=321480)allcinema
-5.  [Guardian Hearts
-    (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2671)Anime
-    News Network
-6.  [Guardian Hearts Power Up\!
-    (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8897)Anime
-    News Network
+4.  [がぁーでぃあんHearts ぱわ〜あっぷ\!](http://www.allcinema.net/prog/show_c.php?num_c=321480)allcinema
+5.  [Guardian Hearts (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2671)Anime News Network
+6.  [Guardian Hearts Power Up\! (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8897)Anime News Network

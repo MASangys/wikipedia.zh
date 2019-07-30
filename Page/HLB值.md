@@ -1,5 +1,4 @@
-[右](https://zh.wikipedia.org/wiki/File:HLB_scale.svg "fig:右")
-**HLB值**，亦稱**親水親油平衡值**是用來表示[表面活性剂](../Page/表面活性剂.md "wikilink")[親水性或](https://zh.wikipedia.org/wiki/親水性 "wikilink")[親脂性的程度](https://zh.wikipedia.org/wiki/親脂性 "wikilink")。1949\[1\]和1954\[2\]年格利芬（Griffin）提出的概念，另外有於1957年大衛（Davies）提出的方法。\[3\]
+[右](https://zh.wikipedia.org/wiki/File:HLB_scale.svg "fig:右") **HLB值**，亦稱**親水親油平衡值**是用來表示[表面活性剂](../Page/表面活性剂.md "wikilink")[親水性或](https://zh.wikipedia.org/wiki/親水性 "wikilink")[親脂性的程度](https://zh.wikipedia.org/wiki/親脂性 "wikilink")。1949\[1\]和1954\[2\]年格利芬（Griffin）提出的概念，另外有於1957年大衛（Davies）提出的方法。\[3\]
 
 ## 格利芬法
 

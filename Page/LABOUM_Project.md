@@ -1,6 +1,4 @@
-《**LABOUM
-Project**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
-Music的綜藝節目](https://zh.wikipedia.org/wiki/MBC_Music "wikilink")，由女團[LABOUM的柔廷](../Page/LABOUM.md "wikilink")、昭娟、ZN、海仁、率濱、律喜等人出演。節目為[LABOUM成員參與的偶像團綜](../Page/LABOUM.md "wikilink")，主軸為「女團恐懼症」克服計畫，同時成員們將展示各自不同的個性和魅力，同時也將會展現成員們真實的日常生活\[1\]。
+《**LABOUM Project**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC Music的綜藝節目](https://zh.wikipedia.org/wiki/MBC_Music "wikilink")，由女團[LABOUM](../Page/LABOUM.md "wikilink")的柔廷、昭娟、ZN、海仁、率濱、律喜等人出演。節目為[LABOUM](../Page/LABOUM.md "wikilink")成員參與的偶像團綜，主軸為「女團恐懼症」克服計畫，同時成員們將展示各自不同的個性和魅力，同時也將會展現成員們真實的日常生活\[1\]。
 
 ## 收視率
 
@@ -15,13 +13,10 @@ Music的綜藝節目](https://zh.wikipedia.org/wiki/MBC_Music "wikilink")，由�
 
 ## 參考資料
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink")
 
 1.
 2.
 3.
 4.
-5.  [시카고 타자기
-    Naver](https://search.naver.com/search.naver?where=nexearch&query=시카고+타자기)
+5.  [시카고 타자기 Naver](https://search.naver.com/search.naver?where=nexearch&query=시카고+타자기)

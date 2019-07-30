@@ -1,42 +1,24 @@
-**HTML郵件**（HTML
-email）用於一個[子集在](../Page/子集.md "wikilink")[HTML提供格式化和](../Page/HTML.md "wikilink")[語義標記功能在](../Page/语义网.md "wikilink")[email裡是個不合宜的計畫文本](../Page/电子邮件.md "wikilink")\[1\]
-。文本可以連接而不用顯示統一資源定位服，或是闖入統一資源定位服，多件的事件被包裹在適當寬度的視窗裡，而不是均勻的打破每一行在78個文字裡
-。它允許在自行間包容影像、表格，以及圖或是數學公式影像，那些除此以外的傳達困難(一般使用[ASCIIart](../Page/ASCII艺术.md "wikilink"))
-。
+**HTML郵件**（HTML email）用於一個[子集](../Page/子集.md "wikilink")在[HTML](../Page/HTML.md "wikilink")提供格式化和[語義標記功能在](../Page/语义网.md "wikilink")[email裡是個不合宜的計畫文本](../Page/电子邮件.md "wikilink")\[1\] 。文本可以連接而不用顯示統一資源定位服，或是闖入統一資源定位服，多件的事件被包裹在適當寬度的視窗裡，而不是均勻的打破每一行在78個文字裡 。它允許在自行間包容影像、表格，以及圖或是數學公式影像，那些除此以外的傳達困難(一般使用[ASCIIart](../Page/ASCII艺术.md "wikilink")) 。
 
 ## 採用
 
-大多數圖形的電郵客戶支持HTML郵件，還有很多默認它
-。很多的客戶包含一個[GUI編輯者來構成構成HTML電子郵件以及用於顯示接收到的HTML電子郵件的呈現引擎](../Page/图形用户界面.md "wikilink")
-。
+大多數圖形的電郵客戶支持HTML郵件，還有很多默認它 。很多的客戶包含一個[GUI編輯者來構成構成HTML電子郵件以及用於顯示接收到的HTML電子郵件的呈現引擎](../Page/图形用户界面.md "wikilink") 。
 
-從它的概念以來
-，一些人有聲音反對整個HTMLemail（和甚至[MIME本身](../Page/多用途互聯網郵件擴展.md "wikilink")），由於各種不同的理由\[2\]
-。舉例來說，[ASCII Ribbon
-運動主張全部的電子郵件應該被放進去](https://zh.wikipedia.org/wiki/ASCII絲帶行動 "wikilink")[ASCII文字格式](../Page/ASCII.md "wikilink")
-，而這個運動是不成功的而在2013被放棄了\[3\]\[4\]
-。當持續思考不當在很多的新聞群組的發表和郵件清單，它採用個人和商務郵件隨著時間的推移而增加
-。一些強烈反對它的人當它首度出現至今我們視它為無害\[5\] 。
+從它的概念以來 ，一些人有聲音反對整個HTMLemail（和甚至[MIME本身](../Page/多用途互聯網郵件擴展.md "wikilink")），由於各種不同的理由\[2\] 。舉例來說，[ASCII Ribbon 運動主張全部的電子郵件應該被放進去](https://zh.wikipedia.org/wiki/ASCII絲帶行動 "wikilink")[ASCII](../Page/ASCII.md "wikilink")文字格式 ，而這個運動是不成功的而在2013被放棄了\[3\]\[4\] 。當持續思考不當在很多的新聞群組的發表和郵件清單，它採用個人和商務郵件隨著時間的推移而增加 。一些強烈反對它的人當它首度出現至今我們視它為無害\[5\] 。
 
-根據線上市場公司調查 ，採用HTML能夠讓電郵用戶現今能幾乎普遍 ，憑著小於3%報告他們的純文本客戶端
-\[6\]。大多數用戶喜歡通過純文本接收HTML電子郵件\[7\]\[8\] 。
+根據線上市場公司調查 ，採用HTML能夠讓電郵用戶現今能幾乎普遍 ，憑著小於3%報告他們的純文本客戶端 \[6\]。大多數用戶喜歡通過純文本接收HTML電子郵件\[7\]\[8\] 。
 
 ## 相容性
 
-郵件軟體符合規定是靠著 RFC 2822 只需要支持純文本，不是將HTML格式化
-。發送HTML格式的電子郵件可以因此導致問題如果收件人的電郵客戶沒有支持它
-。在最糟的案子裡 收件人將會看到HTML碼而不是預期的訊息。
+郵件軟體符合規定是靠著 RFC 2822 只需要支持純文本，不是將HTML格式化 。發送HTML格式的電子郵件可以因此導致問題如果收件人的電郵客戶沒有支持它 。在最糟的案子裡 收件人將會看到HTML碼而不是預期的訊息。
 
-那些支持HTML的電子郵件客戶端，有些沒有給予它[W3C始終如一規格](../Page/万维网联盟.md "wikilink")
-，許多HTML電子郵件也無法相容，那些可能造成翻譯或呈現問題
-，特別是[Gmail的用戶](../Page/Gmail.md "wikilink")。
+那些支持HTML的電子郵件客戶端，有些沒有給予它[W3C始終如一規格](../Page/万维网联盟.md "wikilink") ，許多HTML電子郵件也無法相容，那些可能造成翻譯或呈現問題 ，特別是[Gmail](../Page/Gmail.md "wikilink")的用戶。
 
 尤其是<code>
 
 <head>
 
-</code>的標記，它用於容納CSS樣式規則在整個HTML裡文件，沒有很好的支持，有時完全剝離，導致在線樣式聲明成為事實上的標準，即使在線樣式聲明效率低下，也無法充分利用HTML的能力從內容分離風格
-。儘管已經制定了解決方法，\[9\]這已經在通訊開發人員中引起了不少挫折，催生基層電子郵件標準項目，對電子郵件客戶端進行酸性測試的評分，受到Web標準項目的啟發，並遊說開發商改進他們的產品。\[10\]說服Google改善Gmail中的呈現，例如，他們發表了一個鬼臉網絡開發者的視頻剪輯，引起員工的注意。
+</code>的標記，它用於容納CSS樣式規則在整個HTML裡文件，沒有很好的支持，有時完全剝離，導致在線樣式聲明成為事實上的標準，即使在線樣式聲明效率低下，也無法充分利用HTML的能力從內容分離風格 。儘管已經制定了解決方法，\[9\]這已經在通訊開發人員中引起了不少挫折，催生基層電子郵件標準項目，對電子郵件客戶端進行酸性測試的評分，受到Web標準項目的啟發，並遊說開發商改進他們的產品。\[10\]說服Google改善Gmail中的呈現，例如，他們發表了一個鬼臉網絡開發者的視頻剪輯，引起員工的注意。
 
 <table>
 <caption>"電子郵件標準項目“酸性測試比較（截至2013年1月)<a href="http://www.email-standards.org/">2</a></caption>
@@ -186,9 +168,7 @@ RFC15217.2.3。多部分/替代子類型
 
 ## 參考資料
 
-[Category:电子邮件](https://zh.wikipedia.org/wiki/Category:电子邮件 "wikilink")
-[Category:網路術語](https://zh.wikipedia.org/wiki/Category:網路術語 "wikilink")
-[Category:HTML](https://zh.wikipedia.org/wiki/Category:HTML "wikilink")
+[Category:电子邮件](https://zh.wikipedia.org/wiki/Category:电子邮件 "wikilink") [Category:網路術語](https://zh.wikipedia.org/wiki/Category:網路術語 "wikilink") [Category:HTML](https://zh.wikipedia.org/wiki/Category:HTML "wikilink")
 
 1.  ThunderMailer–MassEmailingSoftware|url=[http://www.thundermailer.com/text-email-vs-html-email-the-pros-and-cons/|website=www.thundermailer.com|access-date=2016-01-30](http://www.thundermailer.com/text-email-vs-html-email-the-pros-and-cons/%7Cwebsite=www.thundermailer.com%7Caccess-date=2016-01-30)}}
 2.

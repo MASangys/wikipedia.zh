@@ -12,10 +12,7 @@
 
 ### [金唱片奖](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")
 
-|- | rowspan="1"|2015 | 音源本赏\[4\] | 《短裙》 |  |- | rowspan="4"|2016 |
-数字唱片本赏 | 《[怦然心动](../Page/怦然心动_\(AOA迷你专辑\).md "wikilink")》 |
-|- | 数字单曲本赏 | rowspan="2"|《怦然心动》 |  |- | 音源本赏\[5\] |  |- | 人气奖 | AOA |
-|- |}
+|- | rowspan="1"|2015 | 音源本赏\[4\] | 《短裙》 |  |- | rowspan="4"|2016 | 数字唱片本赏 | 《[怦然心动](../Page/怦然心动_\(AOA迷你专辑\).md "wikilink")》 |  |- | 数字单曲本赏 | rowspan="2"|《怦然心动》 |  |- | 音源本赏\[5\] |  |- | 人气奖 | AOA |  |- |}
 
 ### MBC Music [Show Champion奖](../Page/Show_Champion.md "wikilink")
 
@@ -23,19 +20,11 @@
 
 ### [甜瓜音乐奖](../Page/甜瓜音樂獎.md "wikilink")
 
-|- | rowspan="4"|2014 | Top 10艺人 | AOA |  |- | 最佳歌曲 | rowspan="3"|《短裙》 |
- |- | 最佳舞蹈作品 |  |- | 最佳音乐视频 |  |- | rowspan="2"|2015 | Top 10艺人\[7\] |
-AOA |  |- | 最佳舞蹈作品\[8\] | 《怦然心动》 |  |}
+|- | rowspan="4"|2014 | Top 10艺人 | AOA |  |- | 最佳歌曲 | rowspan="3"|《短裙》 |  |- | 最佳舞蹈作品 |  |- | 最佳音乐视频 |  |- | rowspan="2"|2015 | Top 10艺人\[7\] | AOA |  |- | 最佳舞蹈作品\[8\] | 《怦然心动》 |  |}
 
 ### [Mnet亚洲音乐大奖](../Page/Mnet亞洲音樂大獎.md "wikilink")
 
-|- | rowspan="2"|2012 | 年度艺人\[9\] | rowspan="2"|AOA |  |- |
-最佳新人女组合\[10\] |  |- | rowspan="2"|2014 | 最佳舞蹈表演-女子组合 |
-rowspan="2"|《短裙》 |  |- | 银联年度歌曲 |  |- | rowspan="4"|2015 | 最佳女子组合\[11\]
-| rowspan="2"|AOA |  |- | 银联年度歌手\[12\] |  |- | 最佳舞蹈表演-女子组合\[13\] |
-rowspan="2"|《怦然心动》 |  |- | 银联年度歌曲\[14\] |  |- | rowspan="2"|2016 |
-最佳舞蹈表演-女子组合 | rowspan="2"|《Good Luck》 |  |- | HotelsCombined
-年度歌曲 |  |- | 2018 | 最佳舞蹈表演-女子组合 | 《Bingle Bangle》 |  |}
+|- | rowspan="2"|2012 | 年度艺人\[9\] | rowspan="2"|AOA |  |- | 最佳新人女组合\[10\] |  |- | rowspan="2"|2014 | 最佳舞蹈表演-女子组合 | rowspan="2"|《短裙》 |  |- | 银联年度歌曲 |  |- | rowspan="4"|2015 | 最佳女子组合\[11\] | rowspan="2"|AOA |  |- | 银联年度歌手\[12\] |  |- | 最佳舞蹈表演-女子组合\[13\] | rowspan="2"|《怦然心动》 |  |- | 银联年度歌曲\[14\] |  |- | rowspan="2"|2016 | 最佳舞蹈表演-女子组合 | rowspan="2"|《Good Luck》 |  |- | HotelsCombined 年度歌曲 |  |- | 2018 | 最佳舞蹈表演-女子组合 | 《Bingle Bangle》 |  |}
 
 ### [SBS歌谣大战](https://zh.wikipedia.org/wiki/SBS歌谣大战 "wikilink")
 
@@ -55,9 +44,7 @@ rowspan="2"|《怦然心动》 |  |- | 银联年度歌曲\[14\] |  |- | rowspan=
 
 ### [首尔音乐奖](https://zh.wikipedia.org/wiki/首尔音乐奖 "wikilink")
 
-|- | rowspan="2"| 2012 | 新人赏\[16\] | rowspan="2"| AOA |  |- | 人气赏\[17\]
-|  |- | 2015 | 本赏\[18\] | 《短裙》 |  |- | rowspan="2"| 2016 | 本赏 |
-rowspan="2"| AOA |  |- | 人气赏 |  |}
+|- | rowspan="2"| 2012 | 新人赏\[16\] | rowspan="2"| AOA |  |- | 人气赏\[17\] |  |- | 2015 | 本赏\[18\] | 《短裙》 |  |- | rowspan="2"| 2016 | 本赏 | rowspan="2"| AOA |  |- | 人气赏 |  |}
 
 ### 亚洲明星盛典
 
@@ -75,9 +62,7 @@ rowspan="2"| AOA |  |- | 人气赏 |  |}
 
 ### [Show Champion](../Page/Show_Champion.md "wikilink")
 
-|- | 2014 | 11月19日 | 《猫步轻悄》 |- | 2015 | 7月1日 |《怦然心动》 |- | 2016 | 5月25日 |
-《Good Luck》\[20\] |- | rowspan=2|2017 | 1月18日 | rowspan=2|《Excuse Me》 |-
-| 1月25日 |}
+|- | 2014 | 11月19日 | 《猫步轻悄》 |- | 2015 | 7月1日 |《怦然心动》 |- | 2016 | 5月25日 | 《Good Luck》\[20\] |- | rowspan=2|2017 | 1月18日 | rowspan=2|《Excuse Me》 |- | 1月25日 |}
 
 ### [Show\! 音乐中心](https://zh.wikipedia.org/wiki/Show!_音乐中心 "wikilink")
 

@@ -296,11 +296,7 @@
 
 [Category:CASH金帆音樂獎](https://zh.wikipedia.org/wiki/Category:CASH金帆音樂獎 "wikilink")
 
-1.  [2014 CASH 週年晚宴暨金帆音樂獎頒獎典禮
-    頒發獎項名單](http://www.cash.org.hk/files/pdf/press_release/2014/2014%20-%20Awards%20Results_C.pdf)
-2.  [《2015 CASH 金帆音樂獎》
-    入圍名單](http://www.cash.org.hk/files/pdf/cash_news/2015/CASH%20Finalists%202015.pdf)
-3.  [《2016 CASH 金帆音樂獎》
-    入圍名單](http://www.cash.org.hk/files/pdf/cash_news/2016/Finalists%202016.pdf)
-4.  [《2017 CASH 金帆音樂獎》
-    入圍名單](http://www.cash.org.hk/files/pdf/cash_news/2017/Finalists%202017.pdf)
+1.  [2014 CASH 週年晚宴暨金帆音樂獎頒獎典禮 頒發獎項名單](http://www.cash.org.hk/files/pdf/press_release/2014/2014%20-%20Awards%20Results_C.pdf)
+2.  [《2015 CASH 金帆音樂獎》 入圍名單](http://www.cash.org.hk/files/pdf/cash_news/2015/CASH%20Finalists%202015.pdf)
+3.  [《2016 CASH 金帆音樂獎》 入圍名單](http://www.cash.org.hk/files/pdf/cash_news/2016/Finalists%202016.pdf)
+4.  [《2017 CASH 金帆音樂獎》 入圍名單](http://www.cash.org.hk/files/pdf/cash_news/2017/Finalists%202017.pdf)

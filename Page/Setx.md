@@ -1,16 +1,14 @@
-**setx**是一个微软Window操作系统的一个管理工具/命令。setx是英文**S**et
-**X**，即用于设置环境变量，是Windows系统中运维需要的命令。
+**setx**是一个微软Window操作系统的一个管理工具/命令。setx是英文**S**et **X**，即用于设置环境变量，是Windows系统中运维需要的命令。
 
 ## 历史
 
-适用于：Windows Vista, Windows Server 2008, Windows Server 2012, Windows
-8，Windows 10
+适用于：Windows Vista, Windows Server 2008, Windows Server 2012, Windows 8，Windows 10
 
 `setx`首次出现于Windows Vista.
 
 ## 使用方法
 
-在操作系统中都有[环境变量的概念](../Page/环境变量.md "wikilink")，表示操作系统中用来指定操作系统运行环境的一些参数。
+在操作系统中都有[环境变量](../Page/环境变量.md "wikilink")的概念，表示操作系统中用来指定操作系统运行环境的一些参数。
 
 该命令 setx 用于 不依赖脚本和编程，直接创建或者修改 用户或者系统的环境变量。并可用于检索注册表项的值并将它们写进文本文件。
 

@@ -1,5 +1,4 @@
-《'''I am Sorry 姜男具
-'''》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2016年12月19日起播出的[晨間連續劇](../Page/SBS晨間連續劇.md "wikilink")，由《[Punch](../Page/Punch_\(電視劇\).md "wikilink")》金孝彥導演執導與《[TV小說－恩熙](../Page/恩熙.md "wikilink")》安洪蘭作家合作打造。此劇講述原本與丈夫擁有平凡生活的侔娥，其夫突然被發現為財閥集團失散多年的兒子後，從而逐漸被背叛及陷害的故事。
+《'''I am Sorry 姜男具 '''》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2016年12月19日起播出的[晨間連續劇](../Page/SBS晨間連續劇.md "wikilink")，由《[Punch](../Page/Punch_\(電視劇\).md "wikilink")》金孝彥導演執導與《[TV小說－恩熙](../Page/恩熙.md "wikilink")》安洪蘭作家合作打造。此劇講述原本與丈夫擁有平凡生活的侔娥，其夫突然被發現為財閥集團失散多年的兒子後，從而逐漸被背叛及陷害的故事。
 
 ## 演員陣容
 
@@ -287,7 +286,7 @@
 
 ## 其他搭配歌曲
 
-  - 台灣[八大戲劇台版本](../Page/八大戲劇台.md "wikilink")
+  - 台灣[八大戲劇台](../Page/八大戲劇台.md "wikilink")版本
       - 片頭曲：[曾沛慈](../Page/曾沛慈.md "wikilink")《你離開他了嗎》、[黃霆睿](https://zh.wikipedia.org/wiki/黃霆睿 "wikilink")《天堂不是想像》
       - 片尾曲：[D.L](../Page/羅時豐.md "wikilink")《單向人生》、《為了什麼》
 
@@ -1046,10 +1045,8 @@
 
 ### 同一劇集時段作品
 
-  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
-    [TV小說](../Page/KBS_TV小說.md "wikilink")：《[在天空中的太陽](../Page/在天空中的太陽.md "wikilink")》、《[那女人的大海](../Page/那女人的大海.md "wikilink")》
-  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")
-    [晨間連續劇](../Page/MBC晨間連續劇.md "wikilink")：《[春日常在](../Page/春日常在.md "wikilink")》、《[訓長吳純南](../Page/訓長吳純南.md "wikilink")》
+  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") [TV小說](../Page/KBS_TV小說.md "wikilink")：《[在天空中的太陽](../Page/在天空中的太陽.md "wikilink")》、《[那女人的大海](../Page/那女人的大海.md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") [晨間連續劇](../Page/MBC晨間連續劇.md "wikilink")：《[春日常在](../Page/春日常在.md "wikilink")》、《[訓長吳純南](../Page/訓長吳純南.md "wikilink")》
 
 ## 記事
 
@@ -1064,11 +1061,9 @@
   - [韓國SBS官方網站](http://program.sbs.co.kr/builder/programMainList.do?pgm_id=22000010063)
 
   -
-[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink")
-[Category:韓國家庭劇](https://zh.wikipedia.org/wiki/Category:韓國家庭劇 "wikilink")
-[Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
+[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:韓國家庭劇](https://zh.wikipedia.org/wiki/Category:韓國家庭劇 "wikilink") [Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
 
 1.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 2.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)
 3.  1月9日因直播PGA高爾夫球賽事而停播一次。
-4.  3月10日因直播[韩国宪法法院针对](../Page/韩国宪法法院.md "wikilink")[朴槿惠弹劾案的判决而只播出](../Page/朴槿惠弹劾案.md "wikilink")25分钟。
+4.  3月10日因直播[韩国宪法法院](../Page/韩国宪法法院.md "wikilink")针对[朴槿惠弹劾案](../Page/朴槿惠弹劾案.md "wikilink")的判决而只播出25分钟。

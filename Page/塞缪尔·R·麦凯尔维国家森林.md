@@ -2,7 +2,6 @@
 
 ## 参考资料
 
-[Category:1971年设立的保护区](https://zh.wikipedia.org/wiki/Category:1971年设立的保护区 "wikilink")
-[Category:内布拉斯加州国家森林](https://zh.wikipedia.org/wiki/Category:内布拉斯加州国家森林 "wikilink")
+[Category:1971年设立的保护区](https://zh.wikipedia.org/wiki/Category:1971年设立的保护区 "wikilink") [Category:内布拉斯加州国家森林](https://zh.wikipedia.org/wiki/Category:内布拉斯加州国家森林 "wikilink")
 
 1.

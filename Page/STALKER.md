@@ -1,9 +1,8 @@
-《**STALKER**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS第十一張韓語迷你專輯](../Page/U-KISS.md "wikilink")，於2016年6月7日發行，主打歌曲為《Stalker》\[1\]。
+《**STALKER**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")第十一張韓語迷你專輯，於2016年6月7日發行，主打歌曲為《Stalker》\[1\]。
 
 ## 背景
 
-2016年5月初，U-KISS隊長秀鉉曾在[Twitter表示將會在](../Page/Twitter.md "wikilink")6月回歸歌壇\[2\]；到5月24日[NH
-Media在U](../Page/NH_Media.md "wikilink")-KISS官方Facebook宣佈新專輯《STALKER》將於6月7日發行，同時公開行程表\[3\]。
+2016年5月初，U-KISS隊長秀鉉曾在[Twitter](../Page/Twitter.md "wikilink")表示將會在6月回歸歌壇\[2\]；到5月24日[NH Media在U](../Page/NH_Media.md "wikilink")-KISS官方Facebook宣佈新專輯《STALKER》將於6月7日發行，同時公開行程表\[3\]。
 
 5月31日，主打曲預告於官方Youtube頻道發放\[4\]；曲目名單則在6月2日公布\[5\]；6月7日隨專輯音源公開完整音樂錄影帶\[6\]。
 
@@ -97,9 +96,7 @@ Media在U](../Page/NH_Media.md "wikilink")-KISS官方Facebook宣佈新專輯《S
 
 ## 参考文献
 
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
-[Category:U-KISS音樂專輯](https://zh.wikipedia.org/wiki/Category:U-KISS音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:U-KISS音樂專輯](https://zh.wikipedia.org/wiki/Category:U-KISS音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

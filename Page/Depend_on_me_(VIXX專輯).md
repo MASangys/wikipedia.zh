@@ -1,6 +1,4 @@
-《**Depend on
-me**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX的首張日語正規專輯](../Page/VIXX.md "wikilink")，於2016年1月27日發行\[1\]，主打曲目為《Depend
-on me》。
+《**Depend on me**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX](../Page/VIXX.md "wikilink")的首張日語正規專輯，於2016年1月27日發行\[1\]，主打曲目為《Depend on me》。
 
 ## 曲目
 
@@ -11,7 +9,7 @@ on me》。
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon榜單</a></p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>榜單</p></th>
 <th><p>最高位置</p></th>
 <th><p>銷售量</p></th>
 <th><p>總銷量</p></th>
@@ -63,10 +61,7 @@ on me》。
 
   -
 
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:VIXX音樂專輯](https://zh.wikipedia.org/wiki/Category:VIXX音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:勝利娛樂歌曲](https://zh.wikipedia.org/wiki/Category:勝利娛樂歌曲 "wikilink")
+[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:VIXX音樂專輯](https://zh.wikipedia.org/wiki/Category:VIXX音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:勝利娛樂歌曲](https://zh.wikipedia.org/wiki/Category:勝利娛樂歌曲 "wikilink")
 
 1.
 2.

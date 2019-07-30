@@ -1,11 +1,8 @@
-**Openfire**（以前称为**Wildfire**和**Jive
-Messenger**）是一个[即時通訊](../Page/即時通訊.md "wikilink")（IM）和[群聊服务器](https://zh.wikipedia.org/wiki/網路聊天室 "wikilink")，它使用[Java编写的](../Page/Java.md "wikilink")[XMPP](https://zh.wikipedia.org/wiki/XMPP "wikilink")[服务器](../Page/服务器.md "wikilink")，并以[Apache
-License](../Page/Apache许可证.md "wikilink") 2.0发布。\[1\]
+**Openfire**（以前称为**Wildfire**和**Jive Messenger**）是一个[即時通訊](../Page/即時通訊.md "wikilink")（IM）和[群聊服务器](https://zh.wikipedia.org/wiki/網路聊天室 "wikilink")，它使用[Java](../Page/Java.md "wikilink")编写的[XMPP](https://zh.wikipedia.org/wiki/XMPP "wikilink")[服务器](../Page/服务器.md "wikilink")，并以[Apache License](../Page/Apache许可证.md "wikilink") 2.0发布。\[1\]
 
 ## 历史
 
-该项目由Jive Software于2002年左右发起，部分原因是为了支持FastPath基于Web的客户支持工具，如**Jive
-Messenger**，并于2005年更名为**Wildfire**。由于商标问题，2007年又将其更名为**Openfire**。该项目于2008完全移交给社区。Jive在2016年前继续托管该项目。
+该项目由Jive Software于2002年左右发起，部分原因是为了支持FastPath基于Web的客户支持工具，如**Jive Messenger**，并于2005年更名为**Wildfire**。由于商标问题，2007年又将其更名为**Openfire**。该项目于2008完全移交给社区。Jive在2016年前继续托管该项目。
 
 ## 目前管理模式
 
@@ -24,8 +21,7 @@ Openfire支持以下功能：
   - 可定制
   - [SSL/TLS支持](../Page/傳輸層安全性協定.md "wikilink")\[2\]
   - 用户友好的Web界面和引导安装
-  - 数据库连接（即嵌入式[HSQLDB](../Page/HSQLDB.md "wikilink")，或其他带有[JDBC](../Page/Java数据库连接.md "wikilink")
-    3驱动的DBMS）用于存储消息和用户详细信息
+  - 数据库连接（即嵌入式[HSQLDB](../Page/HSQLDB.md "wikilink")，或其他带有[JDBC](../Page/Java数据库连接.md "wikilink") 3驱动的DBMS）用于存储消息和用户详细信息
   - [LDAP连接](../Page/轻型目录访问协议.md "wikilink")
   - 平台独立，纯[Java](../Page/Java.md "wikilink")
   - 完全集成
@@ -47,8 +43,7 @@ Openfire允许多个服务器实例在一个集群环境中一起工作。有一
   -
   - [GitHub repository](https://github.com/igniterealtime/Openfire)
 
-[Category:Java平台軟體](https://zh.wikipedia.org/wiki/Category:Java平台軟體 "wikilink")
-[Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink")
+[Category:Java平台軟體](https://zh.wikipedia.org/wiki/Category:Java平台軟體 "wikilink") [Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink")
 
 1.
 2.

@@ -1,8 +1,6 @@
-**Behaviour Santiago**（原名**Wanako Studios**），是Behaviour
-Interactive所持有的智利游戏开发商。
+**Behaviour Santiago**（原名**Wanako Studios**），是Behaviour Interactive所持有的智利游戏开发商。
 
-该公司在2002年由steban Sosnik, Tiburcio de la Carcova和Wenceslao
-Casares成立，总部设在纽约市，在智利圣地亚哥有一个主站点，该工作室是拉美地区最大的游戏开发工作室。
+该公司在2002年由steban Sosnik, Tiburcio de la Carcova和Wenceslao Casares成立，总部设在纽约市，在智利圣地亚哥有一个主站点，该工作室是拉美地区最大的游戏开发工作室。
 
 2007年2月20日，该工作室宣布，已被维旺迪游戏公司旗下的Sierra Entertainment收购。\[1\]
 
@@ -143,20 +141,10 @@ Casares成立，总部设在纽约市，在智利圣地亚哥有一个主站点�
 
 ## 外部链接
 
-  - [Behaviour official
-    website](https://web.archive.org/web/20131224013845/http://www.bhvr.com/en/)
-  - [Wanako
-    Studios](http://www.mobygames.com/company/wanako-studios-ltd) (as
-    Wanako Games) from
-    [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
+  - [Behaviour official website](https://web.archive.org/web/20131224013845/http://www.bhvr.com/en/)
+  - [Wanako Studios](http://www.mobygames.com/company/wanako-studios-ltd) (as Wanako Games) from [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
 
-[Category:2002年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2002年開業電子遊戲公司 "wikilink")
-[Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink")
-[Category:智利電子遊戲公司](https://zh.wikipedia.org/wiki/Category:智利電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
+[Category:2002年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2002年開業電子遊戲公司 "wikilink") [Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink") [Category:智利電子遊戲公司](https://zh.wikipedia.org/wiki/Category:智利電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
 1.
-2.  [A2M Acquires Wanako
-    Games](http://news.teamxbox.com/xbox/18221/A2M-Acquires-Wanako-Games/)
-     from [Team
-    Xbox](https://zh.wikipedia.org/wiki/Team_Xbox "wikilink")
+2.  [A2M Acquires Wanako Games](http://news.teamxbox.com/xbox/18221/A2M-Acquires-Wanako-Games/)  from [Team Xbox](https://zh.wikipedia.org/wiki/Team_Xbox "wikilink")

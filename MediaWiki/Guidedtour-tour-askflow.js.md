@@ -56,5 +56,4 @@
 `   } );`
 `   }`
 
-// The following should be the last line of your tour. } ( window,
-document, jQuery, mediaWiki, mediaWiki.guidedTour ) );
+// The following should be the last line of your tour. } ( window, document, jQuery, mediaWiki, mediaWiki.guidedTour ) );

@@ -1,5 +1,4 @@
-《**Love is
-Madness**》（）是[韓國組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[15&的第](https://zh.wikipedia.org/wiki/15& "wikilink")4張單曲，於2015年2月9日發行。
+《**Love is Madness**》（）是[韓國組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[15&的第](https://zh.wikipedia.org/wiki/15& "wikilink")4張單曲，於2015年2月9日發行。
 
 ## 概要
 
@@ -41,9 +40,7 @@ Madness**》（）是[韓國組合](https://zh.wikipedia.org/wiki/韓國 "wikili
 
 ## 引用資料
 
-[Category:15&音樂專輯](https://zh.wikipedia.org/wiki/Category:15&音樂專輯 "wikilink")
-[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:15&音樂專輯](https://zh.wikipedia.org/wiki/Category:15&音樂專輯 "wikilink") [Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

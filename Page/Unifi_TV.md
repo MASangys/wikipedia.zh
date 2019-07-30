@@ -1,5 +1,4 @@
-**Unifi
-TV**（前称“HyppTV”\[1\]）是由[马来西亚电讯运营的](https://zh.wikipedia.org/wiki/马来西亚电讯 "wikilink")[宽频电视服务](https://zh.wikipedia.org/wiki/宽频电视 "wikilink")。
+**Unifi TV**（前称“HyppTV”\[1\]）是由[马来西亚电讯运营的](https://zh.wikipedia.org/wiki/马来西亚电讯 "wikilink")[宽频电视服务](https://zh.wikipedia.org/wiki/宽频电视 "wikilink")。
 
 ## 电视频道
 
@@ -23,7 +22,7 @@ TV**（前称“HyppTV”\[1\]）是由[马来西亚电讯运营的](https://zh.
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/16:9" title="wikilink">16:9</a> <a href="https://zh.wikipedia.org/wiki/标清电视" title="wikilink">标清电视</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/马来西亚广播电视" title="wikilink">马来西亚广播电视</a>（Radio Television Malaysia）的<a href="../Page/马来语.md" title="wikilink">马来语综合频道</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/马来西亚广播电视" title="wikilink">马来西亚广播电视</a>（Radio Television Malaysia）的<a href="../Page/马来语.md" title="wikilink">马来语</a>综合频道。</p></td>
 </tr>
 <tr class="even">
 <td><p>102</p></td>
@@ -31,7 +30,7 @@ TV**（前称“HyppTV”\[1\]）是由[马来西亚电讯运营的](https://zh.
 <td></td>
 <td></td>
 <td><p>马来西亚广播电视的第二个综合频道。<br />
-此频道每天播出华语、英语与淡米尔语新闻，此外还会播放<a href="../Page/好莱坞.md" title="wikilink">好莱坞电影</a>。</p></td>
+此频道每天播出华语、英语与淡米尔语新闻，此外还会播放<a href="../Page/好莱坞.md" title="wikilink">好莱坞</a>电影。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -40,7 +39,7 @@ TV**（前称“HyppTV”\[1\]）是由[马来西亚电讯运营的](https://zh.
 <td><p><a href="../Page/TV3_(马来西亚).md" title="wikilink">TV3</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/首要媒体.md" title="wikilink">首要媒体</a>（Media Prima）旗下的马来語综合频道，也有播放<a href="../Page/好莱坞.md" title="wikilink">好莱坞电影</a>，少许英语节目和部分的中文电影。</p></td>
+<td><p><a href="../Page/首要媒体.md" title="wikilink">首要媒体</a>（Media Prima）旗下的马来語综合频道，也有播放<a href="../Page/好莱坞.md" title="wikilink">好莱坞</a>电影，少许英语节目和部分的中文电影。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -200,11 +199,11 @@ TV**（前称“HyppTV”\[1\]）是由[马来西亚电讯运营的](https://zh.
 </tr>
 <tr class="odd">
 <td><p>231<sub>HD</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Now_TV" title="wikilink">now International HD</a></p></td>
+<td><p><a href="../Page/Now_TV.md" title="wikilink">now International HD</a></p></td>
 <td><p>免費頻道</p></td>
 <td></td>
 <td></td>
-<td><p>now首个中文频道，二十四小时播出<a href="../Page/香港.md" title="wikilink">香港娱乐节目和本地圈制作的节目</a>，媒介语为<a href="../Page/粤语.md" title="wikilink">粤语</a>，也会随时播出台湾连续剧 。</p></td>
+<td><p>now首个中文频道，二十四小时播出<a href="../Page/香港.md" title="wikilink">香港</a>娱乐节目和本地圈制作的节目，媒介语为<a href="../Page/粤语.md" title="wikilink">粤语</a>，也会随时播出台湾连续剧 。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -218,7 +217,7 @@ TV**（前称“HyppTV”\[1\]）是由[马来西亚电讯运营的](https://zh.
 </tr>
 <tr class="odd">
 <td><p>233<sub>HD</sub></p></td>
-<td><p><a href="../Page/NowJelli紫金國際台.md" title="wikilink">NowJelli紫金國際台HD</a></p></td>
+<td><p><a href="../Page/NowJelli紫金國際台.md" title="wikilink">NowJelli紫金國際台</a>HD</p></td>
 <td></td>
 <td></td>
 <td><p>nowJelli紫金国际台是now宽频电视一条由now与江苏省广播电视总台的江苏卫视、江苏国际频道合办的海外华语资讯娱乐频道。该频道于2015年2月1日正式启播，海外播出地区覆盖香港、马来西亚和泰国等。该频道主要内容为江苏卫视及其他江苏省广播电视总台旗下频道自制的综艺娱乐及资讯节目，主要节目为一站到底，缘来不晚和非诚勿扰。同时亦有整合中国国内其它影视的内容为优酷，腾讯视频和爱奇艺，意味着没有新的节目为江苏卫视，就会抽出最新独家综艺节目。</p></td>
@@ -603,7 +602,7 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 <td><p>免费频道</p></td>
 <td></td>
 <td></td>
-<td><p>亞洲新聞台從各個亞洲角度匯集重要新聞資訊和時事動態，為您作深入、徹底的報道，使您跟上亞洲及全球其他國家和地區的發展趨勢。其他節目包括生活、體育及紀錄片等。由<a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="../Page/新传媒私人有限公司.md" title="wikilink">新传媒私人有限公司製作</a>。</p></td>
+<td><p>亞洲新聞台從各個亞洲角度匯集重要新聞資訊和時事動態，為您作深入、徹底的報道，使您跟上亞洲及全球其他國家和地區的發展趨勢。其他節目包括生活、體育及紀錄片等。由<a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="../Page/新传媒私人有限公司.md" title="wikilink">新传媒私人有限公司</a>製作。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -750,17 +749,24 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 
 ## 稍后启播的频道
 
-  - Cartoon Network HD (551频道) (8月开播)
+**（8月1日可能会有）**
 
-  - CNN HD (604频道) (8月开播)
+  - Cartoon Network HD (551频道)
+  - CNN 國際新聞 (604频道)
+
+*' （9月1日可能）*'
+
+  - ITV choice HD (475頻道)
+
+**即将计划电视频道**
 
   - WakuWaku Japan HD (216频道)
 
   - Sony GEM HD (217频道)
 
-  - 东森亚洲台 (230频道)
+  - 中天亚洲台 (230频道)
 
-  - 中天亚洲台 (242频道)
+  - 东森亚洲台 (235频道)
 
   - 东森亚洲新闻台 (261频道)
 
@@ -778,43 +784,29 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 
   - (456频道)
 
-  - DIVA HD (457频道)
+  - DIVA HD (459频道)
 
-  - [HITS HD](https://zh.wikipedia.org/wiki/Hits_\(电视频道\) "wikilink")
-    (459频道)
+  - E\! HD (479频道)
 
-  - ITV Choice HD (475頻道)
+  - Love Nature 4K (502頻道)
 
-  - DMAX HD (477频道)
+  - 探索頻道HD (504頻道)
 
-  - E\! HD (478频道)
+  - CRIME+INVESTIGATION HD (505頻道)
 
-  - Love Nature HD (502頻道)
+  - 探索亞洲頻道HD (507頻道)
 
-  - Discovery Channel HD (503频道)
+  - 動物星球頻道HD (510頻道)
 
-  - Discovery Asia HD (504频道)
+  - 亞洲食物頻道HD (514頻道)
 
-  - Discovery Science HD (505频道)
-
-  - [Animal Planet HD](https://zh.wikipedia.org/wiki/動物星球 "wikilink")
-    (506頻道)
-
-  - Asian Food Channel HD (513频道)
-
-  - TLC HD (514频道)
-
-  - Food Network HD (515频道)
-
-  - HGTV HD (516频道)
+  - TLC HD (517頻道)
 
   - [HISTORY HD](../Page/歷史頻道.md "wikilink") (522頻道)
 
   - H2 HD (523頻道)
 
-  - CRIME+INVESTIGATION HD (525頻道)
-
-  - Makeful HD (529频道，预定取代LUXE.TV HD)
+  - Makeful Channel HD (529頻道，計定取代LUXE.TV HD)
 
   - ZooMoo HD (559频道)
 
@@ -822,19 +814,15 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 
   - [FOX News Channel](../Page/福斯新聞頻道.md "wikilink")(605頻道)
 
-  - [France 24](https://zh.wikipedia.org/wiki/France_24 "wikilink")
-    (English) HD (609頻道)
+  - [France 24](https://zh.wikipedia.org/wiki/France_24 "wikilink") (English) HD (609頻道)
 
   - TRT World (610頻道)
 
-  - [Russia Today](https://zh.wikipedia.org/wiki/RT電視台 "wikilink")
-    (613頻道)
+  - [Russia Today](https://zh.wikipedia.org/wiki/RT電視台 "wikilink") (613頻道)
 
-  - [CNBC Asia](https://zh.wikipedia.org/wiki/CNBC亚洲台 "wikilink")
-    (620頻道)
+  - [CNBC Asia](https://zh.wikipedia.org/wiki/CNBC亚洲台 "wikilink") (620頻道)
 
-  - [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")
-    (644頻道)
+  - [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") (644頻道)
 
   - beIN SPORTS 1 HD (701頻道)
 
@@ -844,28 +832,21 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 
   - beIN SPORTS MAX HD (704頻道)
 
-  - Eurosport (705頻道)
+  - EuroSports HD (705频道)
 
-  - Setanta Sports - HD (709頻道)
+  - [Golf Channel HD](https://zh.wikipedia.org/wiki/美國高爾夫頻道 "wikilink") (711頻道)
 
-  - [Golf Channel HD](https://zh.wikipedia.org/wiki/美國高爾夫頻道 "wikilink")
-    (711頻道)
+  - Setanta Sports HD (712频道)
 
-  - Ten Cricket (712頻道)
-
-**Unifi中文频道**
-
-  - Hypp 长城台 (234, 大陆华语综合频道)
-  - 优化影院台 (227, 中文电影频道與本地，新加波，香港，台湾和大陆, 包含日文电影和韩文電影+中文字幕。)
-  - Hypp 黄金台 (235, 香港粤语综合频道)
+  - Ten Cricket (713頻道)
 
 **Unifi馬來語原創頻道**
 
-  - Anak HD (120,馬來兒童頻道)
-  - Panorama HD (123,馬來語配音紀實頻道)
-  - Berita Keris HD (125,馬來語新聞頻道)
-  - Muzik Satu HD (126,馬來語音樂頻道)
-  - Dunia Niaga HD (127,馬來語資訊頻道)
+  - Hypp Anak HD (120,馬來兒童頻道)
+  - Hypp Panorama HD (123,馬來語配音紀實頻道)
+  - Hypp Satu HD (125,馬來語新聞頻道)
+  - Hypp Mix HD (126,馬來語音樂頻道)
+  - Hypp Niaga HD (127,馬來語資訊頻道)
   - Hypp Komedi HD (129, 馬來語喜劇頻道)
 
 **即将来临的地面电视频道**
@@ -938,7 +919,7 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 | 频道  | 标志／名字                                                                                   | 停播日期                                                                                                       | 详细                                                                                             |
 | --- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | 612 | [Universal Channel HD](../Page/環球影劇頻道_\(亞洲\).md "wikilink")                             | 2017年7月1日                                                                                                  | 2017年7月起由[Universal Channel亞洲地區停播](https://zh.wikipedia.org/wiki/Universal_Channel "wikilink") |
-| 611 | [Syfy HD](../Page/Syfy_\(亞洲\).md "wikilink")                                            | 2017年7月1日                                                                                                  | 2017年7月起由[Syfy亞洲地區停播](../Page/Syfy.md "wikilink")                                              |
+| 611 | [Syfy HD](../Page/Syfy_\(亞洲\).md "wikilink")                                            | 2017年7月1日                                                                                                  | 2017年7月起由[Syfy](../Page/Syfy.md "wikilink")亞洲地區停播                                              |
 | 142 | FTV                                                                                     | 2012年5月31日                                                                                                 | 頻道商停播                                                                                          |
 | 190 | SS TV                                                                                   | 2012年12月31日                                                                                                | 頻道商宣佈停播                                                                                        |
 | 708 | Fox Football Channel Plus HD                                                            | 2013年7月31日                                                                                                 | 頻道商宣佈停播                                                                                        |
@@ -969,7 +950,7 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 | 634 | Channel W HD                                                                            | Unifi TV出品停播。\[9\]                                                                                         |                                                                                                |
 | 741 | Outdoor Channel HD                                                                      | 戶外頻道與Unifi TV終止授權而停播,由FOX Sports HD取代.\[10\]                                                               |                                                                                                |
 | 238 | [now华剧台](https://zh.wikipedia.org/wiki/now华剧台 "wikilink")                               | 2019年3月1日                                                                                                  | now华剧台國際版频道商宣布停播，但以点播形式继续提供。                                                                   |
-| 457 | [Sony Channel HD](../Page/Sony_Channel_\(亞洲\).md "wikilink")                            | 2019年6月1日                                                                                                  | Turner Broadcasting System旗下Sony Channel亞洲地區索尼影视电视停播\[11\]                                     |
+| 457 | [Sony Channel HD](../Page/Sony_Channel_\(亞洲\).md "wikilink")                            | 2019年6月1日                                                                                                  | 索尼影業電視旗下Sony Channel亞洲地區停播\[11\]                                                               |
 | 711 | MUTV HD                                                                                 | [Manchester United與Unifi](https://zh.wikipedia.org/wiki/Manchester_United_F.C. "wikilink") TV終止授權而停播\[12\] |                                                                                                |
 |     |                                                                                         |                                                                                                            |                                                                                                |
 

@@ -4,12 +4,7 @@
 
 ## 背景
 
-此單曲是由新沙洞老虎與崔圭成（）共同製作，在MBC節目《K-pop Star Captivating the
-World》中曾透露，[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[龍俊亨也給了這首單曲不少的製作建議與協助進行名稱制定](../Page/龍俊亨.md "wikilink")\[2\]。T-ARA的經紀公司Core
-Contents Media曾在2012年10月對外宣布T-ARA將在11月攜新曲回歸樂壇\[3\]，而Core Contents
-Media原本是規劃將此單曲與前首專輯主打曲《Cry
-Cry》一起發表，但礙於曲風不同，直到最後一刻才決定將《Lovey-Dovey》發表於《Cry
-Cry》之後\[4\]。
+此單曲是由新沙洞老虎與崔圭成（）共同製作，在MBC節目《K-pop Star Captivating the World》中曾透露，[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[龍俊亨](../Page/龍俊亨.md "wikilink")也給了這首單曲不少的製作建議與協助進行名稱制定\[2\]。T-ARA的經紀公司Core Contents Media曾在2012年10月對外宣布T-ARA將在11月攜新曲回歸樂壇\[3\]，而Core Contents Media原本是規劃將此單曲與前首專輯主打曲《Cry Cry》一起發表，但礙於曲風不同，直到最後一刻才決定將《Lovey-Dovey》發表於《Cry Cry》之後\[4\]。
 
 ## 曲目列表
 
@@ -37,7 +32,7 @@ Cry》之後\[4\]。
 <thead>
 <tr class="header">
 <th><p>釋出日期</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon公信榜</a></p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>公信榜</p></th>
 <th><p>排名</p></th>
 <th><p>首週銷售</p></th>
 <th><p>總銷售</p></th>
@@ -79,7 +74,7 @@ Popdust的主持人凱薩琳·聖·亞薩（）表示：《Lovey-Dovey》在當�
 
 ## 熱潮
 
-T-ara推出《Lovey-Dovey》後迅速引起熱潮，當年的單曲下載量高達375萬次，僅次於南韓歌手[PSY的單曲](../Page/PSY.md "wikilink")《[江南Style](../Page/江南Style.md "wikilink")》\[13\]。而歌曲的舞蹈重點則以複雜輕快的絢爛腳步動作聞名。T-ara在舞步上展現了整齊的刀群舞，而《Lovey-Dovey》的舞蹈在當時引起很大的討論\[14\]。
+T-ara推出《Lovey-Dovey》後迅速引起熱潮，當年的單曲下載量高達375萬次，僅次於南韓歌手[PSY](../Page/PSY.md "wikilink")的單曲《[江南Style](../Page/江南Style.md "wikilink")》\[13\]。而歌曲的舞蹈重點則以複雜輕快的絢爛腳步動作聞名。T-ara在舞步上展現了整齊的刀群舞，而《Lovey-Dovey》的舞蹈在當時引起很大的討論\[14\]。
 
 ## 獲獎紀錄
 
@@ -87,18 +82,15 @@ T-ara推出《Lovey-Dovey》後迅速引起熱潮，當年的單曲下載量高�
 
 #### Gaon Chart Awards
 
-|- |align="center"|2013 |align="center"|Lovey-Dovey |align="center"|年度歌手
-- 1月份\[15\] | |}
+|- |align="center"|2013 |align="center"|Lovey-Dovey |align="center"|年度歌手 - 1月份\[15\] | |}
 
 #### 金唱片獎
 
-|- |align="center"|2012 |align="center"|Lovey-Dovey |align="center"|音源本賞
-| |}
+|- |align="center"|2012 |align="center"|Lovey-Dovey |align="center"|音源本賞 | |}
 
 #### Soompi Gayo Awards
 
-|- |align="center"|2012 |align="center"|Lovey-Dovey |align="center"|Top
-50 Songs (第八名) |\[16\] |}
+|- |align="center"|2012 |align="center"|Lovey-Dovey |align="center"|Top 50 Songs (第八名) |\[16\] |}
 
 ### 音樂節目
 
@@ -143,14 +135,11 @@ T-ara推出《Lovey-Dovey》後迅速引起熱潮，當年的單曲下載量高�
 
 ### 音樂錄影帶版本
 
-T-ARA的經紀公司Core Contents
-Media透露將釋出5種版本的Lovey-Dovey音樂錄影帶\[22\]，包含了劇場版、舞蹈版及Club版\[23\]
-。但在最終釋出的版本僅有「劇場版」、「殭屍版」及「Lovey-Dovey in
-Tokyo」。而後來在日本發佈的單曲精選輯有另外重製過音樂錄影帶。
+T-ARA的經紀公司Core Contents Media透露將釋出5種版本的Lovey-Dovey音樂錄影帶\[22\]，包含了劇場版、舞蹈版及Club版\[23\] 。但在最終釋出的版本僅有「劇場版」、「殭屍版」及「Lovey-Dovey in Tokyo」。而後來在日本發佈的單曲精選輯有另外重製過音樂錄影帶。
 
 ### 人氣歌謠放送事故
 
-在2012年1月29日[SBS播送的音樂節目](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")[人氣歌謠中](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")，當時負責Rap的[柳和榮意外露胸造成放送事故](../Page/柳和榮.md "wikilink")，而讓許多人質疑為何沒有在打歌服中穿搭防護措施\[24\]。T-ARA的經紀公司表示：「和榮因為這件事受到了很大打擊。因為花英還未成年，心理承受力脆弱，所以十分傷心緊張，覺得很可怕，受到了相當大的打擊」，人氣歌謠的製播小組也發表聲明表示當日的節目將不提供網絡回放\[25\]。
+在2012年1月29日[SBS播送的音樂節目](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")[人氣歌謠中](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")，當時負責Rap的[柳和榮](../Page/柳和榮.md "wikilink")意外露胸造成放送事故，而讓許多人質疑為何沒有在打歌服中穿搭防護措施\[24\]。T-ARA的經紀公司表示：「和榮因為這件事受到了很大打擊。因為花英還未成年，心理承受力脆弱，所以十分傷心緊張，覺得很可怕，受到了相當大的打擊」，人氣歌謠的製播小組也發表聲明表示當日的節目將不提供網絡回放\[25\]。
 
 ### 音樂銀行放送事故
 
@@ -161,23 +150,15 @@ Tokyo」。而後來在日本發佈的單曲精選輯有另外重製過音樂錄
   -
 ## 參考來源
 
-[Category:T-ara音樂專輯](https://zh.wikipedia.org/wiki/Category:T-ara音樂專輯 "wikilink")
-[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:2012年歌曲](https://zh.wikipedia.org/wiki/Category:2012年歌曲 "wikilink")
-[Category:日语歌曲](https://zh.wikipedia.org/wiki/Category:日语歌曲 "wikilink")
+[Category:T-ara音樂專輯](https://zh.wikipedia.org/wiki/Category:T-ara音樂專輯 "wikilink") [Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:2012年歌曲](https://zh.wikipedia.org/wiki/Category:2012年歌曲 "wikilink") [Category:日语歌曲](https://zh.wikipedia.org/wiki/Category:日语歌曲 "wikilink")
 
 1.
 2.
 3.
 4.
 5.
-6.
-    Billboard.com|url=[http://www.billboard.com/charts/2012-01-21/k-pop-hot-100|work=Billboard|publisher=Prometheus](http://www.billboard.com/charts/2012-01-21/k-pop-hot-100%7Cwork=Billboard%7Cpublisher=Prometheus)
-    Global|accessdate=2012-05-23|archive-url=[https://web.archive.org/web/20130624131820/http://www.billboard.com/charts/2012-01-21/k-pop-hot-100|archive-date=2013-06-24|dead-url=no](https://web.archive.org/web/20130624131820/http://www.billboard.com/charts/2012-01-21/k-pop-hot-100%7Carchive-date=2013-06-24%7Cdead-url=no)}}
-7.
-    Billboard.com|url=[http://www.billboard.com/charts/2012-06-09/japan-hot-100?begin=11\&order=position|work=Billboard|publisher=Prometheus](http://www.billboard.com/charts/2012-06-09/japan-hot-100?begin=11&order=position%7Cwork=Billboard%7Cpublisher=Prometheus)
-    Global|accessdate=2012-05-31}}
+6.   Billboard.com|url=[http://www.billboard.com/charts/2012-01-21/k-pop-hot-100|work=Billboard|publisher=Prometheus](http://www.billboard.com/charts/2012-01-21/k-pop-hot-100%7Cwork=Billboard%7Cpublisher=Prometheus) Global|accessdate=2012-05-23|archive-url=[https://web.archive.org/web/20130624131820/http://www.billboard.com/charts/2012-01-21/k-pop-hot-100|archive-date=2013-06-24|dead-url=no](https://web.archive.org/web/20130624131820/http://www.billboard.com/charts/2012-01-21/k-pop-hot-100%7Carchive-date=2013-06-24%7Cdead-url=no)}}
+7.   Billboard.com|url=[http://www.billboard.com/charts/2012-06-09/japan-hot-100?begin=11\&order=position|work=Billboard|publisher=Prometheus](http://www.billboard.com/charts/2012-06-09/japan-hot-100?begin=11&order=position%7Cwork=Billboard%7Cpublisher=Prometheus) Global|accessdate=2012-05-31}}
 8.
 9.
 10.

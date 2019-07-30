@@ -1,4 +1,4 @@
-《**激動戰士MAN勃哥**》（）是一部2011年[加拿大](../Page/加拿大.md "wikilink")[科幻](https://zh.wikipedia.org/wiki/科幻片 "wikilink")[動作片](../Page/動作片.md "wikilink")，由史蒂芬·卡斯坦斯基執導和監製，並與傑瑞米·吉萊斯皮共同編劇。本片為[Astron-6製作](../Page/Astron-6.md "wikilink")，在片中仿效了1980年代的拙劣畫面和特效。
+《**激動戰士MAN勃哥**》（）是一部2011年[加拿大](../Page/加拿大.md "wikilink")[科幻](https://zh.wikipedia.org/wiki/科幻片 "wikilink")[動作片](../Page/動作片.md "wikilink")，由史蒂芬·卡斯坦斯基執導和監製，並與傑瑞米·吉萊斯皮共同編劇。本片為[Astron-6](../Page/Astron-6.md "wikilink")製作，在片中仿效了1980年代的拙劣畫面和特效。
 
 該片於2011年9月22日在[奇幻電影節上首映](https://zh.wikipedia.org/wiki/奇幻電影節 "wikilink")。
 
@@ -28,14 +28,6 @@
 
   -
   -
-[Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink")
-[Category:加拿大電影作品](https://zh.wikipedia.org/wiki/Category:加拿大電影作品 "wikilink")
-[Category:2011年電影](https://zh.wikipedia.org/wiki/Category:2011年電影 "wikilink")
-[Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink")
-[Category:2010年代動作片](https://zh.wikipedia.org/wiki/Category:2010年代動作片 "wikilink")
-[Category:加拿大科幻片](https://zh.wikipedia.org/wiki/Category:加拿大科幻片 "wikilink")
-[Category:加拿大動作片](https://zh.wikipedia.org/wiki/Category:加拿大動作片 "wikilink")
-[Category:文明崩潰後世界題材電影](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材電影 "wikilink")
-[Category:反烏托邦電影](https://zh.wikipedia.org/wiki/Category:反烏托邦電影 "wikilink")
+[Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:加拿大電影作品](https://zh.wikipedia.org/wiki/Category:加拿大電影作品 "wikilink") [Category:2011年電影](https://zh.wikipedia.org/wiki/Category:2011年電影 "wikilink") [Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink") [Category:2010年代動作片](https://zh.wikipedia.org/wiki/Category:2010年代動作片 "wikilink") [Category:加拿大科幻片](https://zh.wikipedia.org/wiki/Category:加拿大科幻片 "wikilink") [Category:加拿大動作片](https://zh.wikipedia.org/wiki/Category:加拿大動作片 "wikilink") [Category:文明崩潰後世界題材電影](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材電影 "wikilink") [Category:反烏托邦電影](https://zh.wikipedia.org/wiki/Category:反烏托邦電影 "wikilink")
 
 1.

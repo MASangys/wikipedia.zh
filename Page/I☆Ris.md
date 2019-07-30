@@ -1,10 +1,8 @@
-**I☆Ris**（）是日本的一支由六名[聲優所組成的偶像組合](../Page/聲優.md "wikilink")\[1\]，所屬經紀公司為，唱片公司為。
+**I☆Ris**（）是日本的一支由六名[聲優](../Page/聲優.md "wikilink")所組成的偶像組合\[1\]，所屬經紀公司為，唱片公司為。
 
 ## 概要
 
-2012年，著名唱片公司AVEX與聲優事務所[81
-Produce在同年舉辦的](../Page/81_Produce.md "wikilink")「Anison
-Vocal Audition」中挑選6名合格者並組成組合\[2\]。
+2012年，著名唱片公司AVEX與聲優事務所[81 Produce在同年舉辦的](../Page/81_Produce.md "wikilink")「Anison Vocal Audition」中挑選6名合格者並組成組合\[2\]。
 
 2012年11月，組合正式出道，並推出首支單曲「Color」\[3\]。
 
@@ -99,7 +97,7 @@ Vocal Audition」中挑選6名合格者並組成組合\[2\]。
 <th><p>發售日</p></th>
 <th><p>標題</p></th>
 <th><p>規格編號</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon周榜</a><br />
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>周榜<br />
 最高位</p></th>
 </tr>
 </thead>
@@ -248,7 +246,7 @@ Vocal Audition」中挑選6名合格者並組成組合\[2\]。
 <th><p>發售日</p></th>
 <th><p>標題</p></th>
 <th><p>規格編號</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon周榜</a><br />
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>周榜<br />
 最高位</p></th>
 </tr>
 </thead>
@@ -320,10 +318,7 @@ Vocal Audition」中挑選6名合格者並組成組合\[2\]。
 
   -
 
-[分類:日本配音員團體](https://zh.wikipedia.org/wiki/分類:日本配音員團體 "wikilink")
-[分類:日本演唱團體](https://zh.wikipedia.org/wiki/分類:日本演唱團體 "wikilink")
-[分類:動畫歌手](https://zh.wikipedia.org/wiki/分類:動畫歌手 "wikilink")
-[分類:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/分類:愛貝克思集團藝人 "wikilink")
+[分類:日本配音員團體](https://zh.wikipedia.org/wiki/分類:日本配音員團體 "wikilink") [分類:日本演唱團體](https://zh.wikipedia.org/wiki/分類:日本演唱團體 "wikilink") [分類:動畫歌手](https://zh.wikipedia.org/wiki/分類:動畫歌手 "wikilink") [分類:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/分類:愛貝克思集團藝人 "wikilink")
 
 1.
 

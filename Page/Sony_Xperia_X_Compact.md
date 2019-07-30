@@ -1,16 +1,9 @@
-**Sony Xperia X
-Compact**是[索尼於](../Page/索尼.md "wikilink")2016年9月1日在IFA柏林展发表的旗艦手機，同時發佈了同為X系列的[Sony
-Xperia
-XZ](../Page/Sony_Xperia_XZ.md "wikilink")。XC搭載4.6吋螢幕、高通[骁龙](https://zh.wikipedia.org/wiki/骁龙 "wikilink")650處理器、3GB記憶體、搭载全新2300万像素Exmor
-RS相机模组，带有三重影像技术，支持混合对焦，激光自动对焦，0.6秒快速启动，24mm广角G
-Lens镜头，BIONZ移动图像处理器，SteadyShot五轴电子防抖。
+**Sony Xperia X Compact**是[索尼](../Page/索尼.md "wikilink")於2016年9月1日在IFA柏林展发表的旗艦手機，同時發佈了同為X系列的[Sony Xperia XZ](../Page/Sony_Xperia_XZ.md "wikilink")。XC搭載4.6吋螢幕、高通[骁龙](https://zh.wikipedia.org/wiki/骁龙 "wikilink")650處理器、3GB記憶體、搭载全新2300万像素Exmor RS相机模组，带有三重影像技术，支持混合对焦，激光自动对焦，0.6秒快速启动，24mm广角G Lens镜头，BIONZ移动图像处理器，SteadyShot五轴电子防抖。
 Sony Xperia X Compact亦是Compact系列中首次内存搭载3G RAM的机型。
 
 ## 设计
 
-新一代Compact抛弃了之前采用的全平衡设计，改用全新的Unified
-Design(合一设计)，使用了2.5D第4代的康宁大猩猩玻璃作为前面板，并且Compact此次不支援防尘防水（日規仍維持IP65/IP68的防塵防水）。
-由於新世代的CPU發熱量驚人，Compact系列為小型手機，為了讓手機順暢運作廠商不得以調降了規格，使得本系列不如以往如同旗艦機的規格的縮小版本。
+新一代Compact抛弃了之前采用的全平衡设计，改用全新的Unified Design(合一设计)，使用了2.5D第4代的康宁大猩猩玻璃作为前面板，并且Compact此次不支援防尘防水（日規仍維持IP65/IP68的防塵防水）。 由於新世代的CPU發熱量驚人，Compact系列為小型手機，為了讓手機順暢運作廠商不得以調降了規格，使得本系列不如以往如同旗艦機的規格的縮小版本。
 
 ## 詳細規格
 
@@ -122,10 +115,6 @@ LTE</p></td>
 
 ## 参考资料
 
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")
-[Category:2016年面世的手機](https://zh.wikipedia.org/wiki/Category:2016年面世的手機 "wikilink")
+[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink") [Category:2016年面世的手機](https://zh.wikipedia.org/wiki/Category:2016年面世的手機 "wikilink")
 
 1.

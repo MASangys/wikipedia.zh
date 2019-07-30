@@ -4,20 +4,15 @@
 
 「VIERA」的由來是「Vision」（映像）的「Vi」以及「Era」（時代）。2011年日本的[液晶電視](https://zh.wikipedia.org/wiki/液晶電視 "wikilink")（小於40英寸）的市佔率約為15％，居第三位；[等離子電視的市佔率為約](https://zh.wikipedia.org/wiki/等離子電視 "wikilink")74％，居首位。
 
-Panasonic
-VIERA電漿電視全球銷售第一，一直以來都是龍頭老大，陸續併購[Pioneer](https://zh.wikipedia.org/wiki/Pioneer "wikilink")、[日立等電漿廠](https://zh.wikipedia.org/wiki/日立 "wikilink")。2006年全球最大103吋電漿電視亮相。
+Panasonic VIERA電漿電視全球銷售第一，一直以來都是龍頭老大，陸續併購[Pioneer](https://zh.wikipedia.org/wiki/Pioneer "wikilink")、[日立等電漿廠](https://zh.wikipedia.org/wiki/日立 "wikilink")。2006年全球最大103吋電漿電視亮相。
 
-2009年可說是VIERA電漿在市場中最為活躍的一年，推出搭載全新等離子面板的NEO
-PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低的售價，也直接鞏固了其在電視市場佔的有率。
+2009年可說是VIERA電漿在市場中最為活躍的一年，推出搭載全新等離子面板的NEO PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低的售價，也直接鞏固了其在電視市場佔的有率。
 
-2009至2012年間生產IPS-alpha液晶電視面板，並有多款液晶電視搭載。2010年發表第一代[3D電視](https://zh.wikipedia.org/wiki/3D電視 "wikilink")，並於同年度在[台灣上市P](https://zh.wikipedia.org/wiki/台灣 "wikilink")50VT20W日本製電漿電視。2010年全球最大[3D](https://zh.wikipedia.org/wiki/3D "wikilink")
-152吋電漿電視及152吋[4K電漿電視亮相](https://zh.wikipedia.org/wiki/4K "wikilink")。
+2009至2012年間生產IPS-alpha液晶電視面板，並有多款液晶電視搭載。2010年發表第一代[3D電視](https://zh.wikipedia.org/wiki/3D電視 "wikilink")，並於同年度在[台灣上市P](https://zh.wikipedia.org/wiki/台灣 "wikilink")50VT20W日本製電漿電視。2010年全球最大[3D](https://zh.wikipedia.org/wiki/3D "wikilink") 152吋電漿電視及152吋[4K電漿電視亮相](https://zh.wikipedia.org/wiki/4K "wikilink")。
 
 2012年[IFA展全球最大](https://zh.wikipedia.org/wiki/IFA "wikilink")145吋[8K電漿電視亮相](https://zh.wikipedia.org/wiki/8K "wikilink")。2013年在歐洲發表第一代4K高畫質液晶電視L65WT600，並為業界第一台搭載HDMI2.0/Displaport1.2a/並支援4K60p輸入的規格，同時也於2013年底在台灣上市L65WT600W（日本製）。
 
-因為不敵液晶攻勢，2014年宣布停止生產電漿電視。2015年於[歐洲IFA展發表第一代OLED](https://zh.wikipedia.org/wiki/歐洲 "wikilink")
-65CZ950。2017年美國CES展發表第二代OLED
-65EZ1000，隨後也在歐洲、日本陸續發表EZ1000/EZ950等系列OLED，也是在台灣上市第一代OLED電視65EZ1000W（日本製）。
+因為不敵液晶攻勢，2014年宣布停止生產電漿電視。2015年於[歐洲IFA展發表第一代OLED](https://zh.wikipedia.org/wiki/歐洲 "wikilink") 65CZ950。2017年美國CES展發表第二代OLED 65EZ1000，隨後也在歐洲、日本陸續發表EZ1000/EZ950等系列OLED，也是在台灣上市第一代OLED電視65EZ1000W（日本製）。
 
 ## 相關技術
 
@@ -26,11 +21,7 @@ PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低�
 <!-- end list -->
 
   -
-    用了新的Neo
-    [PDP面板](https://zh.wikipedia.org/wiki/PDP "wikilink")，加大前面板的[電極間距](https://zh.wikipedia.org/wiki/電極 "wikilink")，擴大[放電領域](https://zh.wikipedia.org/wiki/放電 "wikilink")，提升約2倍發光效率（與07年VIERA機種相比），降低約40%的[耗電量](https://zh.wikipedia.org/wiki/耗電量 "wikilink")，大幅提升畫質與節能表現。更透過低背型電源迴路、高密度實裝技術、PDP自發光面板薄型化等科技，創造出超薄美型機種、精細畫質機種，讓次世代影像有更多豐富的可能性。全新世代Neo
-    PDP面板，透過高發光效率技術，提升約4倍發光效率（與07年VIERA機種相比），同時搭載Infinite
-    Black純黑艷彩科技，實現500萬：1超高對比，看見前所未見的黑色層次與艷麗色彩，演出更豐富細膩的畫面質感。2011年，NeoPDP
-    進化到第14代 All New NeoPlasma 結合最新技術帶來革命性畫質躍進。
+    用了新的Neo [PDP面板](https://zh.wikipedia.org/wiki/PDP "wikilink")，加大前面板的[電極間距](https://zh.wikipedia.org/wiki/電極 "wikilink")，擴大[放電領域](https://zh.wikipedia.org/wiki/放電 "wikilink")，提升約2倍發光效率（與07年VIERA機種相比），降低約40%的[耗電量](https://zh.wikipedia.org/wiki/耗電量 "wikilink")，大幅提升畫質與節能表現。更透過低背型電源迴路、高密度實裝技術、PDP自發光面板薄型化等科技，創造出超薄美型機種、精細畫質機種，讓次世代影像有更多豐富的可能性。全新世代Neo PDP面板，透過高發光效率技術，提升約4倍發光效率（與07年VIERA機種相比），同時搭載Infinite Black純黑艷彩科技，實現500萬：1超高對比，看見前所未見的黑色層次與艷麗色彩，演出更豐富細膩的畫面質感。2011年，NeoPDP 進化到第14代 All New NeoPlasma 結合最新技術帶來革命性畫質躍進。
 
 <!-- end list -->
 
@@ -48,10 +39,7 @@ PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低�
 <!-- end list -->
 
   -
-    2012、2013年的Plasma重點技術為聚焦[快閃](https://zh.wikipedia.org/wiki/快閃 "wikilink")（Focused
-    Field Drive），利用高速反應螢光體做出 0.4
-    毫秒的反應速度，讓畫面更新[頻率最高可以衝到相當於](https://zh.wikipedia.org/wiki/頻率 "wikilink")
-    2500Hz 的表現（2013年提升為3000Hz）。
+    2012、2013年的Plasma重點技術為聚焦[快閃](https://zh.wikipedia.org/wiki/快閃 "wikilink")（Focused Field Drive），利用高速反應螢光體做出 0.4 毫秒的反應速度，讓畫面更新[頻率最高可以衝到相當於](https://zh.wikipedia.org/wiki/頻率 "wikilink") 2500Hz 的表現（2013年提升為3000Hz）。
 
 <!-- end list -->
 
@@ -60,8 +48,7 @@ PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低�
 <!-- end list -->
 
   -
-    日本液晶面板，由[日立製作所](../Page/日立製作所.md "wikilink")、松下電器、[東芝發表成立液晶面板合資公司](https://zh.wikipedia.org/wiki/東芝 "wikilink")--IPS
-    Alpha Technology公司開發。
+    日本液晶面板，由[日立製作所](../Page/日立製作所.md "wikilink")、松下電器、[東芝發表成立液晶面板合資公司](https://zh.wikipedia.org/wiki/東芝 "wikilink")--IPS Alpha Technology公司開發。
 
 <!-- end list -->
 
@@ -70,8 +57,7 @@ PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低�
 <!-- end list -->
 
   -
-    類似S牌的MotionFlow技術，透過「畫面補插」（Frame
-    Interpolation）、「背光閃爍控制」以及「背光掃描」等技術，將畫面增幅，來提升動態表現，並產生更流暢的影像，減少畫面播放過程中產生的[殘影](https://zh.wikipedia.org/wiki/殘影 "wikilink")，使動態影像表現都如親臨現場般完美，清晰的速度感以及精準的細膩感，讓影像流暢度再進化。
+    類似S牌的MotionFlow技術，透過「畫面補插」（Frame Interpolation）、「背光閃爍控制」以及「背光掃描」等技術，將畫面增幅，來提升動態表現，並產生更流暢的影像，減少畫面播放過程中產生的[殘影](https://zh.wikipedia.org/wiki/殘影 "wikilink")，使動態影像表現都如親臨現場般完美，清晰的速度感以及精準的細膩感，讓影像流暢度再進化。
 
 <!-- end list -->
 
@@ -80,9 +66,7 @@ PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低�
 <!-- end list -->
 
   -
-    SMART VIERA ENGINE PRO
-    晶片的技術運作有三個重點，第一個是[影像修復](https://zh.wikipedia.org/wiki/影像 "wikilink")，首先會針對動態影像的邊緣和斜線處來做補正並抑制相關雜訊，然後再調校邊緣；接著第二步則處理色彩表現，包括清晰邊緣讓影像更銳利、膚色調校、優化對比以及色彩；最後則是關於[網路影像的處理](https://zh.wikipedia.org/wiki/網路 "wikilink")，有些透過運算插補的影片在部份畫面上多少會有些模糊抖動的狀況，而
-    SMART VIERA ENGINE PRO 晶片 就會針對這部份來做模糊修正，使網路影像可以更清晰。
+    SMART VIERA ENGINE PRO 晶片的技術運作有三個重點，第一個是[影像修復](https://zh.wikipedia.org/wiki/影像 "wikilink")，首先會針對動態影像的邊緣和斜線處來做補正並抑制相關雜訊，然後再調校邊緣；接著第二步則處理色彩表現，包括清晰邊緣讓影像更銳利、膚色調校、優化對比以及色彩；最後則是關於[網路影像的處理](https://zh.wikipedia.org/wiki/網路 "wikilink")，有些透過運算插補的影片在部份畫面上多少會有些模糊抖動的狀況，而 SMART VIERA ENGINE PRO 晶片 就會針對這部份來做模糊修正，使網路影像可以更清晰。
 
 <!-- end list -->
 
@@ -118,8 +102,7 @@ PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低�
 <!-- end list -->
 
   -
-    [Panasonic](https://zh.wikipedia.org/wiki/Panasonic "wikilink")
-    [好萊塢實驗所的技術累積及訣竅](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")，實現將[藍光或](https://zh.wikipedia.org/wiki/藍光 "wikilink")[DVD中預先壓縮的色域能夠擴展重現原本的色域](https://zh.wikipedia.org/wiki/DVD "wikilink")，能呈現更自然逼真的色彩。
+    [Panasonic](https://zh.wikipedia.org/wiki/Panasonic "wikilink") [好萊塢實驗所的技術累積及訣竅](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")，實現將[藍光或](https://zh.wikipedia.org/wiki/藍光 "wikilink")[DVD中預先壓縮的色域能夠擴展重現原本的色域](https://zh.wikipedia.org/wiki/DVD "wikilink")，能呈現更自然逼真的色彩。
 
 <!-- end list -->
 
@@ -137,8 +120,7 @@ PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低�
 <!-- end list -->
 
   -
-    針對影像訊號輸入端不論是SD、HD、BD Full
-    HD、4K等等不同等級，內建有12萬個圖像樣本，並使用圖庫針對不同的訊號來源做比對與計算，輔以超解像技術的filter[濾波器](https://zh.wikipedia.org/wiki/濾波器 "wikilink")，將原始訊號源重新生成（Remaster）細緻低失真高精細度的影像。再將Detail超解像，讓細小的紋路更清晰、材質更明顯。
+    針對影像訊號輸入端不論是SD、HD、BD Full HD、4K等等不同等級，內建有12萬個圖像樣本，並使用圖庫針對不同的訊號來源做比對與計算，輔以超解像技術的filter[濾波器](https://zh.wikipedia.org/wiki/濾波器 "wikilink")，將原始訊號源重新生成（Remaster）細緻低失真高精細度的影像。再將Detail超解像，讓細小的紋路更清晰、材質更明顯。
 
 <!-- end list -->
 
@@ -147,8 +129,7 @@ PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低�
 <!-- end list -->
 
   -
-    由原本RGB[三原色](https://zh.wikipedia.org/wiki/三原色 "wikilink")，再另外加上YCM[三輔色](https://zh.wikipedia.org/wiki/三輔色 "wikilink")，以六軸控制來達到更廣色域（DCIP3
-    90%以上甚至99%色域）。
+    由原本RGB[三原色](https://zh.wikipedia.org/wiki/三原色 "wikilink")，再另外加上YCM[三輔色](https://zh.wikipedia.org/wiki/三輔色 "wikilink")，以六軸控制來達到更廣色域（DCIP3 90%以上甚至99%色域）。
 
 <!-- end list -->
 
@@ -157,9 +138,7 @@ PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低�
 <!-- end list -->
 
   -
-    影像處理器（CPU），其中HCX全名為「Hollywood Cinema
-    Experience」，Panasonic多年來與好萊塢電影專業團隊合作，由由萊塢專業配色師Mike
-    Sowa親手調校，並榮獲好萊塢專業人仕肯定的色彩畫質認證。
+    影像處理器（CPU），其中HCX全名為「Hollywood Cinema Experience」，Panasonic多年來與好萊塢電影專業團隊合作，由由萊塢專業配色師Mike Sowa親手調校，並榮獲好萊塢專業人仕肯定的色彩畫質認證。
 
 <!-- end list -->
 
@@ -168,8 +147,7 @@ PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低�
 <!-- end list -->
 
   -
-    全新Studio Colour HCX2 4K 影像處理器象徵Panasonic
-    影像處理的顛峰之作。以電漿電視及專業播放設備所獲得的色彩、黑色層次和亮度知識技術，該系統也經由好萊塢色彩調校師校正的最佳4K影像處理技術。
+    全新Studio Colour HCX2 4K 影像處理器象徵Panasonic 影像處理的顛峰之作。以電漿電視及專業播放設備所獲得的色彩、黑色層次和亮度知識技術，該系統也經由好萊塢色彩調校師校正的最佳4K影像處理技術。
 
 <!-- end list -->
 
@@ -178,8 +156,7 @@ PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低�
 <!-- end list -->
 
   -
-    松下獨有的蜂巢結構技術，採用業界最多512個可獨立控制的打光區，每一區皆與鄰區嚴密分隔，即使是微小的區域，也能表現出極高層次的對比。因此透過這樣的技術，可以達到完美的區域控光，以達到更加優越的
-    HDR 效能。
+    松下獨有的蜂巢結構技術，採用業界最多512個可獨立控制的打光區，每一區皆與鄰區嚴密分隔，即使是微小的區域，也能表現出極高層次的對比。因此透過這樣的技術，可以達到完美的區域控光，以達到更加優越的 HDR 效能。
 
 <!-- end list -->
 
@@ -189,8 +166,7 @@ PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低�
 <!-- end list -->
 
   -
-    Panasonic聯網電視[網路介面](https://zh.wikipedia.org/wiki/網路 "wikilink")，後來演進為VIERA
-    connect。
+    Panasonic聯網電視[網路介面](https://zh.wikipedia.org/wiki/網路 "wikilink")，後來演進為VIERA connect。
 
 <!-- end list -->
 
@@ -199,9 +175,7 @@ PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低�
 <!-- end list -->
 
   -
-    Panasonic智慧電視網路介面，VIERA Connect
-    是一個讓人們很舒適地在客廳中，輕易的從[YouTube搜尋並觀賞線上影片](../Page/YouTube.md "wikilink")，或透過[Skype提供免費的線上影音通訊服務的使用界面](../Page/Skype.md "wikilink")。其前身為VIERA
-    cast，之後演進為yHomeScreen 我的首頁介面。
+    Panasonic智慧電視網路介面，VIERA Connect 是一個讓人們很舒適地在客廳中，輕易的從[YouTube](../Page/YouTube.md "wikilink")搜尋並觀賞線上影片，或透過[Skype](../Page/Skype.md "wikilink")提供免費的線上影音通訊服務的使用界面。其前身為VIERA cast，之後演進為yHomeScreen 我的首頁介面。
 
 <!-- end list -->
 
@@ -210,8 +184,7 @@ PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低�
 <!-- end list -->
 
   -
-    松下 VIERA 電視有自己的 Market Service
-    服務，提供國內外電視[APP可供下載](https://zh.wikipedia.org/wiki/APP "wikilink")。
+    松下 VIERA 電視有自己的 Market Service 服務，提供國內外電視[APP可供下載](https://zh.wikipedia.org/wiki/APP "wikilink")。
 
 <!-- end list -->
 
@@ -220,8 +193,7 @@ PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低�
 <!-- end list -->
 
   -
-    入口畫面選單可讓您存取各式各樣的內容，包括[網際網路影片和](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[相片](../Page/相片.md "wikilink")。只要一開電視，就可以完整使用這項功能。按一下圖片，即可查看「我的首頁」許多令人感到振奮的使用範例。目前為第二代
-    myHomeScreen 2.0 搭載FirefoxOS作業系統（每年也有些許介面持續改款升級）。
+    入口畫面選單可讓您存取各式各樣的內容，包括[網際網路影片和](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[相片](../Page/相片.md "wikilink")。只要一開電視，就可以完整使用這項功能。按一下圖片，即可查看「我的首頁」許多令人感到振奮的使用範例。目前為第二代 myHomeScreen 2.0 搭載FirefoxOS作業系統（每年也有些許介面持續改款升級）。
 
 <!-- end list -->
 
@@ -230,9 +202,7 @@ PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低�
 <!-- end list -->
 
   -
-    目前為2.0版本，[Android跟](../Page/Android.md "wikilink")[iOS都有此APP可下載](https://zh.wikipedia.org/wiki/iOS "wikilink")，可透過此APP控制（遙控）電視，其中也會有多項互動功能（如wipe
-    &
-    Share分享、Browser網頁瀏覽及Media[多媒體功能](https://zh.wikipedia.org/wiki/多媒體 "wikilink")），在高階機種還提供了色彩校正調校功能。
+    目前為2.0版本，[Android](../Page/Android.md "wikilink")跟[iOS都有此APP可下載](https://zh.wikipedia.org/wiki/iOS "wikilink")，可透過此APP控制（遙控）電視，其中也會有多項互動功能（如wipe & Share分享、Browser網頁瀏覽及Media[多媒體功能](https://zh.wikipedia.org/wiki/多媒體 "wikilink")），在高階機種還提供了色彩校正調校功能。
 
 <!-- end list -->
 
@@ -259,8 +229,7 @@ PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低�
 <!-- end list -->
 
   -
-    可用在Panasonic電漿電視跟4K
-    tablet畫畫、寫字、註記……等等（類似[電子白板技術](https://zh.wikipedia.org/wiki/電子白板 "wikilink")）。
+    可用在Panasonic電漿電視跟4K tablet畫畫、寫字、註記……等等（類似[電子白板技術](https://zh.wikipedia.org/wiki/電子白板 "wikilink")）。
 
 <!-- end list -->
 
@@ -287,9 +256,7 @@ PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低�
 <!-- end list -->
 
   -
-    “x.v.Color.” 此一革新的技術符合
-    “[xvYCC](https://zh.wikipedia.org/wiki/xvYCC "wikilink")”（eXtended
-    Video YCC ，動態影像廣泛色彩空間）的國際標準，可創造接近百分之百人類肉眼可接收的色彩程度。
+    “x.v.Color.” 此一革新的技術符合 “[xvYCC](https://zh.wikipedia.org/wiki/xvYCC "wikilink")”（eXtended Video YCC ，動態影像廣泛色彩空間）的國際標準，可創造接近百分之百人類肉眼可接收的色彩程度。
 
 ## 型號命名方式
 
@@ -336,10 +303,8 @@ PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低�
 
   - 2014
       - 4K 日本製：85X940W、65AX800W、58AX800W
-      - [FHD](https://zh.wikipedia.org/wiki/FHD "wikilink")
-        日本製：60AS800W、55AS800W
-      - FHD
-        台灣製：60AS700W、55AS700W、50AS630W、42AS630W、50AS610W、42AS610W、50A410W、42A410W、32A410W、60A420W
+      - [FHD](https://zh.wikipedia.org/wiki/FHD "wikilink") 日本製：60AS800W、55AS800W
+      - FHD 台灣製：60AS700W、55AS700W、50AS630W、42AS630W、50AS610W、42AS610W、50A410W、42A410W、32A410W、60A420W
 
 <!-- end list -->
 
@@ -353,19 +318,15 @@ PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低�
   - 2016
       - 4K 日本製：65DX900W、65DX700W、58DX700W
       - 4K 台灣製：55DX650W、49DX650W、40DX650W、55DX500W
-      - FHD
-        台灣製：55DS630W、49DS630W、43DS630W、49D410W、43D410W、32D410W、40DS500W、40D400W、58D300W
+      - FHD 台灣製：55DS630W、49DS630W、43DS630W、49D410W、43D410W、32D410W、40DS500W、40D400W、58D300W
 
 <!-- end list -->
 
   - 2017
-      - [OLED](https://zh.wikipedia.org/wiki/OLED "wikilink") 4K
-        日本製：65EZ1000W
+      - [OLED](https://zh.wikipedia.org/wiki/OLED "wikilink") 4K 日本製：65EZ1000W
       - 4K 日本製：75EX780W、65EX780W
-      - 4K
-        台灣製：58EX750W、50EX750W、65EX600W、55EX600W、49EX600W、43EX600W、65EX550W、55EX550W、50EX550W
-      - FHD
-        台灣製：55ES630W、49ES630W、43ES630W、49E410W、43E410W、32E410W、40E400W、55E300W、43E300W、32E300W
+      - 4K 台灣製：58EX750W、50EX750W、65EX600W、55EX600W、49EX600W、43EX600W、65EX550W、55EX550W、50EX550W
+      - FHD 台灣製：55ES630W、49ES630W、43ES630W、49E410W、43E410W、32E410W、40E400W、55E300W、43E300W、32E300W
 
 ## 參閱
 
@@ -379,5 +340,4 @@ PDP系列機種，具有更省電、高動態解析、無鉛製程以及更低�
   - [VIERA-台灣](http://www.panasonic.com/tw/consumer/digital-av/viera/)
   - [VIERA-台灣介紹](http://www.panasonic.com/tw/consumer/digital-av/viera-learn-more.html?sort=Featured)
 
-[Category:Panasonic產品](https://zh.wikipedia.org/wiki/Category:Panasonic產品 "wikilink")
-[Category:电视机](https://zh.wikipedia.org/wiki/Category:电视机 "wikilink")
+[Category:松下產品](https://zh.wikipedia.org/wiki/Category:松下產品 "wikilink") [Category:电视机](https://zh.wikipedia.org/wiki/Category:电视机 "wikilink")

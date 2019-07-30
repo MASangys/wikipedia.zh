@@ -1,21 +1,17 @@
-**μ's**（假名轉寫：****，中文轉寫：**繆斯**、**謬斯**）是《[電擊G's
-magazine](../Page/電擊G's_magazine.md "wikilink")》杂志、[ASCII Media
-Works与](../Page/ASCII_Media_Works.md "wikilink")[Lantis唱片公司共同推出的的一个用户互动型企划作品](../Page/Lantis.md "wikilink")[LoveLive\!中登场的女性校园偶像团体或](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")[声优组成的组合](https://zh.wikipedia.org/wiki/声优 "wikilink")。名字來自於[希臘神話中主司藝術與科學的九位文藝女神的總稱](https://zh.wikipedia.org/wiki/希臘神話 "wikilink")「[繆斯](https://zh.wikipedia.org/wiki/繆斯 "wikilink")」。现实中，“μ's”的名称由一位名为“御儿勇马”的粉丝提供，并在之后的投票中获选。
+**μ's**（假名轉寫：****，中文轉寫：**繆斯**、**謬斯**）是《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》杂志、[ASCII Media Works与](../Page/ASCII_Media_Works.md "wikilink")[Lantis](../Page/Lantis.md "wikilink")唱片公司共同推出的的一个用户互动型企划作品[LoveLive\!中登场的女性校园偶像团体或](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")[声优组成的组合](https://zh.wikipedia.org/wiki/声优 "wikilink")。名字來自於[希臘神話中主司藝術與科學的九位文藝女神的總稱](https://zh.wikipedia.org/wiki/希臘神話 "wikilink")「[繆斯](https://zh.wikipedia.org/wiki/繆斯 "wikilink")」。现实中，“μ's”的名称由一位名为“御儿勇马”的粉丝提供，并在之后的投票中获选。
 
 官方已於2016年3月31日與4月1日舉行Final Live，但許多支持者仍以「μ'sic forever」表示將會持續應援。
 
 ## 介紹
 
-在现实中，μ's所属的唱片公司为[Lantis](../Page/Lantis.md "wikilink")，2015年於[NHK紅白歌合戰登台](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")，並於2016年4月在[東京巨蛋進行最終演唱會](../Page/東京巨蛋.md "wikilink")，成為繼[水樹奈奈之後第二個以声优為主的歌唱單位參與NHK紅白歌合戰和首位以動畫組合在東京巨蛋舉行演唱會](../Page/水樹奈奈.md "wikilink")\[1\]。而“最终演唱会”的提法也引发了外界对于μ's可能会解散的猜测，但高坂穗乃果的声优[新田惠海在接受采访时表示μ](../Page/新田惠海.md "wikilink")'s不会解散\[2\]。
+在现实中，μ's所属的唱片公司为[Lantis](../Page/Lantis.md "wikilink")，2015年於[NHK紅白歌合戰登台](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")，並於2016年4月在[東京巨蛋](../Page/東京巨蛋.md "wikilink")進行最終演唱會，成為繼[水樹奈奈](../Page/水樹奈奈.md "wikilink")之後第二個以声优為主的歌唱單位參與NHK紅白歌合戰和首位以動畫組合在東京巨蛋舉行演唱會\[1\]。而“最终演唱会”的提法也引发了外界对于μ's可能会解散的猜测，但高坂穗乃果的声优[新田惠海](../Page/新田惠海.md "wikilink")在接受采访时表示μ's不会解散\[2\]。
 
-2019年5月30日，在LoveLive\! 九周年发表会上，官方宣布μ's将参加于2020年1月18日和19日举办的“LoveLive\!
-Fes”，这将是μ's中止活动三年零九个月之后再次登台表演。\[3\]关键词“μ's复活”（）也一度成为Twitter全球趋势第一。
+2019年5月30日，在LoveLive\! 九周年发表会上，官方宣布μ's将参加于2020年1月18日和19日举办的“LoveLive\! Fes”，这将是μ's中止活动三年零九个月之后再次登台表演。\[3\]关键词“μ's复活”（）也一度成为Twitter全球趋势第一。
 
 ## 成員
 
   - 在校园偶像团体这一层面上，μ's由以下9名成員構成，隊長為高坂穗乃果。
-  - μ's之下又分為3個三人小队，分別是：「**Printemps**」（）、**BiBi**（）、「**lily
-    white**」（），小队有時也單獨活動。此外亦有「日香凜花陽（）」等非官方的小队存在。
+  - μ's之下又分為3個三人小队，分別是：「**Printemps**」（）、**BiBi**（）、「**lily white**」（），小队有時也單獨活動。此外亦有「日香凜花陽（）」等非官方的小队存在。
   - 現實的演唱會中有一個不成文的規定：在每位成员报数的时候，當絢瀨繪里（聲：[南條愛乃](../Page/南條愛乃.md "wikilink")）報完「9」之後，觀眾會報「10」，表示自己是μ's的「第10人」\[4\]，強調與μ's同在。
 
 ### 基本資料
@@ -603,13 +599,10 @@ Fes”，这将是μ's中止活动三年零九个月之后再次登台表演。\
 <!-- end list -->
 
   - LoveLive\! μ's New Year LoveLive\! 2013（）
-    在2013年1月3日於[TOKYO DOME CITY
-    HALL舉辦第二場的演唱會](https://zh.wikipedia.org/wiki/MEETS_PORT#東京巨蛋城表演廳 "wikilink")。
+    在2013年1月3日於[TOKYO DOME CITY HALL舉辦第二場的演唱會](https://zh.wikipedia.org/wiki/MEETS_PORT#東京巨蛋城表演廳 "wikilink")。
     擔任絢瀨繪里聲優的[南條愛乃](../Page/南條愛乃.md "wikilink")，因為時間上的衝突，並沒有參與這次演唱會的演出<ref>
 
-Vol.18、メディアボーイ、2013年8月。ISBN
-978-4-86388-146-4</ref>。BiBi空缺的部分由飯田里穗和楠田亞衣奈來特別編成補缺。\[6\]。不過在演唱會播出的動畫PV上仍然有絢瀨繪里的位置。並在演唱會最後公布了「3rd
-Anniversary LoveLive\!」的相關消息。
+Vol.18、メディアボーイ、2013年8月。ISBN 978-4-86388-146-4</ref>。BiBi空缺的部分由飯田里穗和楠田亞衣奈來特別編成補缺。\[6\]。不過在演唱會播出的動畫PV上仍然有絢瀨繪里的位置。並在演唱會最後公布了「3rd Anniversary LoveLive\!」的相關消息。
 
   -
     這次演唱會的影片分成三個段落，收錄於電視動畫的第1期藍光光碟第2、4、6回之中的特典。
@@ -617,16 +610,14 @@ Anniversary LoveLive\!」的相關消息。
 <!-- end list -->
 
   - LoveLive\! μ's 3rd Anniversary LoveLive\!（）
-    在2013年6月16日於[橫濱國際平和會議場舉辦第三場的演唱會](../Page/橫濱國際平和會議場.md "wikilink")。
-    第一次開放日本國內51個電影場所進行衛星連線轉播。並在演唱會中公布了電視動畫版的角色個性設定。如同前兩次的演唱會，在最後也公布了Next
-    Project的第三彈（LoveLive School Idol Paradise PSVita遊戲）、第4彈（4th
-    Live演唱會）、第5彈（電視動畫第二期）的消息。
+    在2013年6月16日於[橫濱國際平和會議場](../Page/橫濱國際平和會議場.md "wikilink")舉辦第三場的演唱會。
+    第一次開放日本國內51個電影場所進行衛星連線轉播。並在演唱會中公布了電視動畫版的角色個性設定。如同前兩次的演唱會，在最後也公布了Next Project的第三彈（LoveLive School Idol Paradise PSVita遊戲）、第4彈（4th Live演唱會）、第5彈（電視動畫第二期）的消息。
     演唱會當天的紀錄影片《》於2013年12月25日發行。
 
 <!-- end list -->
 
   - LoveLive\! μ's →NEXT LoveLive\! 2014 〜ENDLESS PARADE〜（）
-    在2014年2月8日和9日於[埼玉超級競技場舉辦第四場的演唱會](../Page/埼玉超級競技場.md "wikilink")。
+    在2014年2月8日和9日於[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")舉辦第四場的演唱會。
     這次演唱會使用了體育館可容納17000人的劇場模式。
     首次开放了日本国外的轉播點。日本國內53個轉播會場、日本國外7個轉播會場（新加坡1會場、香港2會場、台灣1會場、韓國3會場）來進行轉播。
     在演唱會的第二天結束前公布了μ's NEXT LIVE將在原場地舉辦，並擴大場地為體育場模式（可容納约3万人）。
@@ -638,9 +629,7 @@ Anniversary LoveLive\!」的相關消息。
     在2015年1月31日和2月1日於埼玉超級競技場舉辦第五場的演唱會。
     這次演唱使用了體育館可容納约3万人的劇場模式。
     比前次演唱會增加了轉播點，日本國內117個轉播會場、日本國外7個轉播會場（香港2個會場，新加坡、台灣、韓國、印尼、泰國各1個會場）來進行轉播。演唱會第二天結束時公佈了下一場live將會在2016年冬天舉行。
-    演唱会第一天和第二天的影片全部收录于2015年9月30日发行的《[LoveLive\! μ's Go→Go\! LoveLive\!
-    2015 〜Dream
-    Sensation\!〜](../Page/LoveLive!_μ's_Go→Go!_LoveLive!_2015_〜Dream_Sensation!〜.md "wikilink")》蓝光光碟。\[7\]
+    演唱会第一天和第二天的影片全部收录于2015年9月30日发行的《[LoveLive\! μ's Go→Go\! LoveLive\! 2015 〜Dream Sensation\!〜](../Page/LoveLive!_μ's_Go→Go!_LoveLive!_2015_〜Dream_Sensation!〜.md "wikilink")》蓝光光碟。\[7\]
 
 <!-- end list -->
 
@@ -648,23 +637,14 @@ Anniversary LoveLive\!」的相關消息。
     在2016年3月31日和4月1日于[东京巨蛋举办的第六场演唱会](https://zh.wikipedia.org/wiki/东京巨蛋 "wikilink")，也是μ's最后一次专场演唱会。
     擔任絢瀨繪里聲優的南條愛乃，為顧及她的膝部傷患，其演出環節大幅縮減。
     这次演唱会也使用了东京巨蛋的器材席和完全见切席。\[8\]
-    相比于上次演唱会，这次演唱会增加了大量日本国外转播点（
-    臺灣10个会场，中国大陆2个会场，香港4个会场，韩国8个会场，新加坡、泰国、印尼、马来西亚、菲律宾、澳大利亚各1个会场），日本国内及国外部分转播点还在4月2日安排了重播。
-    演唱会第一天和第二天的影片全部收錄於2016年9月28日發行的《[LoveLive\! μ's Final LoveLive\!
-    2016 ～μ’sic
-    Forever♪♪♪♪♪♪♪♪♪～](../Page/LoveLive!_μ's_Final_LoveLive!_2016_～μ’sic_Forever♪♪♪♪♪♪♪♪♪～.md "wikilink")》蓝光光碟。
+    相比于上次演唱会，这次演唱会增加了大量日本国外转播点（ 臺灣10个会场，中国大陆2个会场，香港4个会场，韩国8个会场，新加坡、泰国、印尼、马来西亚、菲律宾、澳大利亚各1个会场），日本国内及国外部分转播点还在4月2日安排了重播。
+    演唱会第一天和第二天的影片全部收錄於2016年9月28日發行的《[LoveLive\! μ's Final LoveLive\! 2016 ～μ’sic Forever♪♪♪♪♪♪♪♪♪～](../Page/LoveLive!_μ's_Final_LoveLive!_2016_～μ’sic_Forever♪♪♪♪♪♪♪♪♪～.md "wikilink")》蓝光光碟。
 
 ## 注释
 
 ## 參考文獻
 
-[Category:Love_Live\!](https://zh.wikipedia.org/wiki/Category:Love_Live! "wikilink")
-[Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink")
-[Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink")
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:Oricon動畫單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon動畫單曲年榜冠軍獲得者 "wikilink")
+[Category:Love_Live\!](https://zh.wikipedia.org/wiki/Category:Love_Live! "wikilink") [Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink") [Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:Oricon動畫單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon動畫單曲年榜冠軍獲得者 "wikilink")
 
 1.
 2.

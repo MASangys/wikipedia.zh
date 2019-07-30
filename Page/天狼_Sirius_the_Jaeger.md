@@ -2,12 +2,9 @@
 
 ## 概要
 
-2018年3月22日，從P.A.WORKS與本作品的官方[Twitter發表訊息](../Page/Twitter.md "wikilink")。2018年7月12日至9月28日每週四，在[AT-X](../Page/AT-X.md "wikilink"),、[TOKYO
-MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、
-[BS11及](../Page/日本BS放送.md "wikilink")[鬱金香電視台首播](https://zh.wikipedia.org/wiki/鬱金香電視台 "wikilink")\[2\]。
+2018年3月22日，從P.A.WORKS與本作品的官方[Twitter](../Page/Twitter.md "wikilink")發表訊息。2018年7月12日至9月28日每週四，在[AT-X](../Page/AT-X.md "wikilink"),、[TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、 [BS11及](../Page/日本BS放送.md "wikilink")[鬱金香電視台首播](https://zh.wikipedia.org/wiki/鬱金香電視台 "wikilink")\[2\]。
 
-導演是執導過《[異邦人
-無皇刃譚](../Page/異邦人_無皇刃譚.md "wikilink")》、《[CANAAN](../Page/CANAAN.md "wikilink")》、《[花開物語](../Page/花開物語.md "wikilink")》的[安藤真裕](../Page/安藤真裕.md "wikilink")，同時是安藤第二次執導、與[P.A.WORKS合力製作的懸疑加動作取向類型動畫](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")\[3\]；劇本由小柳啓伍執筆；人物原案由遊戲公司[卡普空出身的插畫家](../Page/卡普空.md "wikilink")[西村絹提供](../Page/西村絹.md "wikilink")，動畫版人物造型由松浦麻衣與佐古宗一郎2人共同擔任，並兼任總作畫監督；音樂由[橫山克負責](https://zh.wikipedia.org/wiki/橫山克 "wikilink")\[4\]；竹內志保負責概念設計\[5\]。
+導演是執導過《[異邦人 無皇刃譚](../Page/異邦人_無皇刃譚.md "wikilink")》、《[CANAAN](../Page/CANAAN.md "wikilink")》、《[花開物語](../Page/花開物語.md "wikilink")》的[安藤真裕](../Page/安藤真裕.md "wikilink")，同時是安藤第二次執導、與[P.A.WORKS合力製作的懸疑加動作取向類型動畫](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")\[3\]；劇本由小柳啓伍執筆；人物原案由遊戲公司[卡普空](../Page/卡普空.md "wikilink")出身的插畫家[西村絹](../Page/西村絹.md "wikilink")提供，動畫版人物造型由松浦麻衣與佐古宗一郎2人共同擔任，並兼任總作畫監督；音樂由[橫山克負責](https://zh.wikipedia.org/wiki/橫山克 "wikilink")\[4\]；竹內志保負責概念設計\[5\]。
 
 ## 劇情簡介
 
@@ -98,8 +95,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、
 <!-- end list -->
 
   -
-    日本外科醫師，專科為心臟，育有一位女兒**華田咲**（華田
-    咲，聲：[石見舞菜香](../Page/石見舞菜香.md "wikilink")）。妻子死於心臟病後，與一名助手一同從事人工心臟的開發，想以此復活妻子。結果研究受到吸血鬼的注目，導致他被自家女僕出賣，其後被愛葛莎變為吸血鬼，即將咬傷咲之際被尤里一槍刺穿喉嚨身亡。
+    日本外科醫師，專科為心臟，育有一位女兒**華田咲**（華田 咲，聲：[石見舞菜香](../Page/石見舞菜香.md "wikilink")）。妻子死於心臟病後，與一名助手一同從事人工心臟的開發，想以此復活妻子。結果研究受到吸血鬼的注目，導致他被自家女僕出賣，其後被愛葛莎變為吸血鬼，即將咬傷咲之際被尤里一槍刺穿喉嚨身亡。
 
 ## 設定解說
 
@@ -293,7 +289,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、
 
 ## 播放電視台
 
-[Netflix於](../Page/Netflix.md "wikilink")2018年7月20日起於日本先行同步上架，並於2018年12月21日在全球上架\[10\]。
+[Netflix](../Page/Netflix.md "wikilink")於2018年7月20日起於日本先行同步上架，並於2018年12月21日在全球上架\[10\]。
 
 ## 藍光BOX
 
@@ -310,13 +306,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、
 
   -
 
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:P.A._Works](https://zh.wikipedia.org/wiki/Category:P.A._Works "wikilink")
-[Category:日本戰前昭和時代背景作品](https://zh.wikipedia.org/wiki/Category:日本戰前昭和時代背景作品 "wikilink")
-[Category:吸血鬼題材動畫](https://zh.wikipedia.org/wiki/Category:吸血鬼題材動畫 "wikilink")
-[Category:狼人題材作品](https://zh.wikipedia.org/wiki/Category:狼人題材作品 "wikilink")
-[Category:Netflix外購動畫](https://zh.wikipedia.org/wiki/Category:Netflix外購動畫 "wikilink")
+[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:P.A._Works](https://zh.wikipedia.org/wiki/Category:P.A._Works "wikilink") [Category:日本戰前昭和時代背景作品](https://zh.wikipedia.org/wiki/Category:日本戰前昭和時代背景作品 "wikilink") [Category:吸血鬼題材動畫](https://zh.wikipedia.org/wiki/Category:吸血鬼題材動畫 "wikilink") [Category:狼人題材作品](https://zh.wikipedia.org/wiki/Category:狼人題材作品 "wikilink") [Category:Netflix外購動畫](https://zh.wikipedia.org/wiki/Category:Netflix外購動畫 "wikilink")
 
 1.
 

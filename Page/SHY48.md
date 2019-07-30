@@ -2,7 +2,7 @@
 
 ## 概要
 
-SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳 "wikilink")[中國本土化大型女子偶像團體](../Page/中國.md "wikilink")，組合名稱取自「瀋陽」拼音（**Sh**en**y**ang）的縮寫「SHY」，為SNH48第三個姊妹團。2016年7月30日，絲芭傳媒於SNH48第三屆總決選演唱會宣佈SNH48第三個姊妹團SHY48成立，同時開啟一期生招募。SHY48以瀋陽為中心進行演藝活動，其專屬表演場地「[SHY48星夢劇院](https://zh.wikipedia.org/wiki/SHY48星夢劇院 "wikilink")」位於[瀋陽](https://zh.wikipedia.org/wiki/瀋陽 "wikilink")[中街](https://zh.wikipedia.org/wiki/中街 "wikilink")[豫瓏城](https://zh.wikipedia.org/wiki/豫瓏城 "wikilink")，於2017年1月12日開業\[2\]，并于2018年12月31日起停止营业。
+SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳 "wikilink")[中國](../Page/中國.md "wikilink")本土化大型女子偶像團體，組合名稱取自「瀋陽」拼音（**Sh**en**y**ang）的縮寫「SHY」，為SNH48第三個姊妹團。2016年7月30日，絲芭傳媒於SNH48第三屆總決選演唱會宣佈SNH48第三個姊妹團SHY48成立，同時開啟一期生招募。SHY48以瀋陽為中心進行演藝活動，其專屬表演場地「[SHY48星夢劇院](https://zh.wikipedia.org/wiki/SHY48星夢劇院 "wikilink")」位於[瀋陽](https://zh.wikipedia.org/wiki/瀋陽 "wikilink")[中街](https://zh.wikipedia.org/wiki/中街 "wikilink")[豫瓏城](https://zh.wikipedia.org/wiki/豫瓏城 "wikilink")，於2017年1月12日開業\[2\]，并于2018年12月31日起停止营业。
 
 ## 略歷
 
@@ -39,21 +39,15 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 
 <!-- end list -->
 
-  - 1月13日，公布SHY48星梦剧院2017年年度MVP，分别由Team SIII成员韩家乐及Team
-    HIII成员刘静晗获得。\[15\]
+  - 1月13日，公布SHY48星梦剧院2017年年度MVP，分别由Team SIII成员韩家乐及Team HIII成员刘静晗获得。\[15\]
   - 3月3日，Team HIII舉行「怦然33℃」公演首演，並發表以下事項:
       - 曲悅萌獲委任為第一任Team HIII隊長，張愛靜為副隊長\[16\]。
   - 3月26日，發行第3張EP《[戀愛密語](https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#未來的樂章 "wikilink")》\[17\]。
   - 4月29日，Team SIII舉行「少女進化論」公演首演。
-  - 5月25-26日，聯同CKG48在SNH48
-    Group專屬狼人殺APP《48狼人殺》舉辦《双城记PK赛》大型狼人殺馬拉松對抗賽，SHY48与CKG48成員在24小時裏輪流進行48場馬拉松式直播比賽\[18\]。
-  - 6月29日，SNH48
-    Group运营方上海丝芭文化传媒集团有限公司正式宣布，将开启首次全集团最大规模偶像艺人招募，进一步推动新生代优质偶像的培养。本届招募包括SNH48
-    Group成员招募、丝芭传媒集团偶像练习生（韩国模式练习生）与米娜演员工作室（影视表演艺人），不限男女，入选选手将接受国内外的专业艺人培训\[19\]。
-  - 9月1日，在[大連眾藝大劇院舉辦SHY](https://zh.wikipedia.org/wiki/大連 "wikilink")48「WE
-    ARE THE SHY」大連巡演。
-  - 9月7日，與[BEJ48參與了由中國演出行業協會主辦的](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")「2018中國（北京）演藝博覽會」；同日，Team
-    HIII舉行「命運的H號」公演首演。
+  - 5月25-26日，聯同CKG48在SNH48 Group專屬狼人殺APP《48狼人殺》舉辦《双城记PK赛》大型狼人殺馬拉松對抗賽，SHY48与CKG48成員在24小時裏輪流進行48場馬拉松式直播比賽\[18\]。
+  - 6月29日，SNH48 Group运营方上海丝芭文化传媒集团有限公司正式宣布，将开启首次全集团最大规模偶像艺人招募，进一步推动新生代优质偶像的培养。本届招募包括SNH48 Group成员招募、丝芭传媒集团偶像练习生（韩国模式练习生）与米娜演员工作室（影视表演艺人），不限男女，入选选手将接受国内外的专业艺人培训\[19\]。
+  - 9月1日，在[大連眾藝大劇院舉辦SHY](https://zh.wikipedia.org/wiki/大連 "wikilink")48「WE ARE THE SHY」大連巡演。
+  - 9月7日，與[BEJ48參與了由中國演出行業協會主辦的](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")「2018中國（北京）演藝博覽會」；同日，Team HIII舉行「命運的H號」公演首演。
   - 9月22日，Team SIII舉行「Idol.S」公演首演。
   - 9月29日，在[抚顺盛文](https://zh.wikipedia.org/wiki/抚顺 "wikilink")·北方新生活舉辦SHY48盛文·北方新生活「抚顺我们来啦」粉丝见面会。
   - 9月30日，冠名大地影院沈北华强店，並與大地影院合作，在影城打造SHY48冠名及專屬主題影廳，並成立「SHY48冠名廳」。
@@ -67,8 +61,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 
 <!-- end list -->
 
-  - 2019年1月19日，于[SNH48 Group第五屆年度金曲大賞BEST
-    50上公布以下调整](https://zh.wikipedia.org/wiki/SNH48_Group第五屆年度金曲大賞BEST_50 "wikilink")：
+  - 2019年1月19日，于[SNH48 Group第五屆年度金曲大賞BEST 50上公布以下调整](https://zh.wikipedia.org/wiki/SNH48_Group第五屆年度金曲大賞BEST_50 "wikilink")：
       - Team SIII以及Team HIII解散；
       - 部分成员移籍至[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")、[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")、[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")；
       - 部分成员选送前往海外进行两年培训练习生；
@@ -1488,12 +1481,7 @@ SHY77100319</p></td>
   -
   -
   -
-[Category:SHY48](https://zh.wikipedia.org/wiki/Category:SHY48 "wikilink")
-[Category:SNH48_Group](https://zh.wikipedia.org/wiki/Category:SNH48_Group "wikilink")
-[Category:瀋陽文化](https://zh.wikipedia.org/wiki/Category:瀋陽文化 "wikilink")
-[Category:中国女子演唱团体](https://zh.wikipedia.org/wiki/Category:中国女子演唱团体 "wikilink")
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
-[Category:2017年中國建立](https://zh.wikipedia.org/wiki/Category:2017年中國建立 "wikilink")
+[Category:SHY48](https://zh.wikipedia.org/wiki/Category:SHY48 "wikilink") [Category:SNH48_Group](https://zh.wikipedia.org/wiki/Category:SNH48_Group "wikilink") [Category:瀋陽文化](https://zh.wikipedia.org/wiki/Category:瀋陽文化 "wikilink") [Category:中国女子演唱团体](https://zh.wikipedia.org/wiki/Category:中国女子演唱团体 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:2017年中國建立](https://zh.wikipedia.org/wiki/Category:2017年中國建立 "wikilink")
 
 1.
 2.

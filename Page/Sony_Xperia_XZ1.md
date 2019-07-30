@@ -1,12 +1,6 @@
-**Xperia
-XZ1**是[索尼行動通訊於](https://zh.wikipedia.org/wiki/索尼行動通訊 "wikilink")2017年8月底在德國[柏林國際電子消費品展覽會與](https://zh.wikipedia.org/wiki/柏林國際電子消費品展覽會 "wikilink")[Xperia
-XZ1
-Compact一同發布的高階手機](https://zh.wikipedia.org/wiki/Xperia_XZ1_Compact "wikilink")，為首款搭載[Android
-Oreo的智慧型手機](../Page/Android_Oreo.md "wikilink")。\[1\]\[2\]\[3\]
+**Xperia XZ1**是[索尼行動通訊於](https://zh.wikipedia.org/wiki/索尼行動通訊 "wikilink")2017年8月底在德國[柏林國際電子消費品展覽會與](https://zh.wikipedia.org/wiki/柏林國際電子消費品展覽會 "wikilink")[Xperia XZ1 Compact一同發布的高階手機](https://zh.wikipedia.org/wiki/Xperia_XZ1_Compact "wikilink")，為首款搭載[Android Oreo的智慧型手機](../Page/Android_Oreo.md "wikilink")。\[1\]\[2\]\[3\]
 
-Xperia XZ1搭載1900萬像素Motion
-Eye™相機，配備五軸光學防震、三重影像感測技術，高通[驍龍](https://zh.wikipedia.org/wiki/驍龍 "wikilink")835處理器，5.2吋螢幕，4GB記憶體、64GB
-ROM，同時支持IP65/68級防水。
+Xperia XZ1搭載1900萬像素Motion Eye™相機，配備五軸光學防震、三重影像感測技術，高通[驍龍](https://zh.wikipedia.org/wiki/驍龍 "wikilink")835處理器，5.2吋螢幕，4GB記憶體、64GB ROM，同時支持IP65/68級防水。
 
 本機在2017年9月於臺灣和香港上市，採用的型號為G8342雙卡版。
 
@@ -121,16 +115,11 @@ ROM，同時支持IP65/68級防水。
 
 <references />
 
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:智慧型手機](https://zh.wikipedia.org/wiki/Category:智慧型手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")
-[Category:2017年面世的手機](https://zh.wikipedia.org/wiki/Category:2017年面世的手機 "wikilink")
+[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智慧型手機](https://zh.wikipedia.org/wiki/Category:智慧型手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink") [Category:2017年面世的手機](https://zh.wikipedia.org/wiki/Category:2017年面世的手機 "wikilink")
 
 1.
 2.
-3.   ePrice 比價王|accessdate=2018-02-27|last=比價王|first=ePrice|work=ePrice
-    比價王|language=zh-TW}}
+3.   ePrice 比價王|accessdate=2018-02-27|last=比價王|first=ePrice|work=ePrice 比價王|language=zh-TW}}
 4.   it之家|accessdate=2018-03-10|last=it之家|work=it之家|language=zh-CN}}
 5.  [1](https://www.sonymobile.com/hk/products/phones/xperia-xz1/specifications/)
 6.  [2](https://www.sonymobile.com/tw/products/phones/xperia-xz1/specifications/)

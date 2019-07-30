@@ -1,12 +1,4 @@
-**HTC
-U11+**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2017年開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，運行[Android
-8.0.0操作系统](../Page/Android_Oreo.md "wikilink")，同級競品為[Samsung Galaxy Note
-8](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_8 "wikilink")、[Sony
-Xperia XZ1](../Page/Sony_Xperia_XZ1.md "wikilink")、[Asus ZenFone 4
-Pro](https://zh.wikipedia.org/wiki/華碩ZenFone_4_\(2017\) "wikilink")、[iPhone
-X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")、[Google Pixel 2
-XL](../Page/Google_Pixel.md "wikilink")、[LG
-V30](../Page/LG_V30.md "wikilink")。
+**HTC U11+**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2017年開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，運行[Android 8.0.0操作系统](../Page/Android_Oreo.md "wikilink")，可透過系統更新至[Android 9.0](../Page/Android_Pie.md "wikilink")，同級競品為[Samsung Galaxy Note 8](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_8 "wikilink")、[Sony Xperia XZ1](../Page/Sony_Xperia_XZ1.md "wikilink")、[Asus ZenFone 4 Pro](https://zh.wikipedia.org/wiki/華碩ZenFone_4_\(2017\) "wikilink")、[iPhone X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")、[Google Pixel 2 XL](../Page/Google_Pixel.md "wikilink")、[LG V30](../Page/LG_V30.md "wikilink")。
 
 ## 簡介\[1\]
 
@@ -14,7 +6,7 @@ V30](../Page/LG_V30.md "wikilink")。
   - 除了螢幕升級成6吋18:9的QHD以外也支持了DCI-P廣色域、HDR10標準。
   - U11+的電量從U11的3000mAh提升至3930mAh的大電量。
   - Edge Sense介面更加升級，加入Edge launcher、Swipe Anywhere來增強單手操作的功能。
-  - 本次再次與[五月天合作代言](../Page/五月天.md "wikilink")，HTC與其曾在2013到2015年合作過這次再度合作，擔任大中華區的代言人\[2\]。
+  - 本次再次與[五月天](../Page/五月天.md "wikilink")合作代言，HTC與其曾在2013到2015年合作過這次再度合作，擔任大中華區的代言人\[2\]。
 
 ## 詳細規格
 
@@ -32,7 +24,8 @@ V30](../Page/LG_V30.md "wikilink")。
 </tr>
 <tr class="even">
 <td><p>系統</p></td>
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a> <a href="https://zh.wikipedia.org/wiki/Android歷史版本" title="wikilink">8.0</a></p></td>
+<td><p><a href="../Page/Android.md" title="wikilink">Android</a> <a href="https://zh.wikipedia.org/wiki/Android歷史版本" title="wikilink">8.0</a><br />
+（可更新至Android 9.0）</p></td>
 </tr>
 <tr class="odd">
 <td><p>介面</p></td>
@@ -127,7 +120,7 @@ DCI-P3 廣色域、HDR10標準</p></td>
 </tr>
 <tr class="even">
 <td><p>顏色</p></td>
-<td><p><font color=black>■</font>極鏡黑、<font color=gray>■</font>透視黑、<font color=Silver>■</font>炫藍銀</p></td>
+<td><p><font color=black>■</font>極鏡黑、<font color=gray>■</font>透視黑、<font color=Silver>■</font>炫藍銀、<font color=red>■</font>豔陽紅</p></td>
 </tr>
 <tr class="odd">
 <td><p>感應</p></td>
@@ -149,8 +142,7 @@ DCI-P3 廣色域、HDR10標準</p></td>
 
 ### 外型
 
-因螢幕提升為18:9比例的6吋螢幕，原本的前置指紋移到了背部。本次延續U系列的Liquid
-Surface設計風格，又增加了一個能夠透視內部元件的半透明透視黑，相當特別。
+因螢幕提升為18:9比例的6吋螢幕，原本的前置指紋移到了背部。本次延續U系列的Liquid Surface設計風格，又增加了一個能夠透視內部元件的半透明透視黑，相當特別。
 
 ### 螢幕
 
@@ -162,8 +154,7 @@ Surface設計風格，又增加了一個能夠透視內部元件的半透明透�
 
 ### Edge Sense、Sense首頁
 
-Edge Sense本次也更將提升，加入了Edge
-Launcher能夠按壓然後出現圓盤，可以加入並選擇更多APP，也能指定圓盤在左右邊顯示，方便個人的慣用手方式。
+Edge Sense本次也更將提升，加入了Edge Launcher能夠按壓然後出現圓盤，可以加入並選擇更多APP，也能指定圓盤在左右邊顯示，方便個人的慣用手方式。
 
 Swipe Anywhere改變以往的SENSE首頁滑動方式，能夠在桌面任意地點上滑叫出程式介面，下滑出現通知，方便單手操作。
 
@@ -175,10 +166,10 @@ Swipe Anywhere改變以往的SENSE首頁滑動方式，能夠在桌面任意地�
   - 螢幕：JDI TD4353
   - 電源管理 IC 與 4G 通訊晶片：高通
   - 主鏡頭感光元件：[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink") IMX362
-  - 觸控IC:synaptics 4353
-  - 指紋:FPC1272+歐菲光
-  - 內建儲存空間:SK hynix海力士128G的UFS 系統文件系統為EXT 4
-  - 電池:ATL
+  - 觸控IC：synaptics 4353
+  - 指紋：FPC1272+歐菲光
+  - 內建儲存空間：SK hynix海力士128G的UFS 系統文件系統為EXT 4
+  - 電池：ATL
 
 ## 發售資訊
 
@@ -225,12 +216,7 @@ Swipe Anywhere改變以往的SENSE首頁滑動方式，能夠在桌面任意地�
 
 ## 参考资料
 
-[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:全螢幕手機](https://zh.wikipedia.org/wiki/Category:全螢幕手機 "wikilink")
-[Category:2017年面世的手機](https://zh.wikipedia.org/wiki/Category:2017年面世的手機 "wikilink")
+[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:全螢幕手機](https://zh.wikipedia.org/wiki/Category:全螢幕手機 "wikilink") [Category:2017年面世的手機](https://zh.wikipedia.org/wiki/Category:2017年面世的手機 "wikilink")
 
 1.
 2.

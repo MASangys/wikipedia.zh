@@ -1,5 +1,4 @@
-本條目為[韓國綜藝節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")《**[Running
-Man](../Page/Running_Man.md "wikilink")**》在歷年得獎與提名列表。
+本條目為[韓國綜藝節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")《**[Running Man](../Page/Running_Man.md "wikilink")**》在歷年得獎與提名列表。
 
 <table>
 <thead>
@@ -111,7 +110,7 @@ Man](../Page/Running_Man.md "wikilink")**》在歷年得獎與提名列表。
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS演藝大賞#2015年" title="wikilink">第九屆SBS演藝大賞</a></p></td>
 <td><ul>
-<li><strong>大賞</strong>（대상）：<a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>（與<a href="../Page/金炳萬.md" title="wikilink">金炳萬共同獲獎</a>）</li>
+<li><strong>大賞</strong>（대상）：<a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>（與<a href="../Page/金炳萬.md" title="wikilink">金炳萬</a>共同獲獎）</li>
 <li>觀眾之選最佳節目賞（시청자가 뽑은 최고프로그램상）：《<strong>Running Man</strong>》</li>
 <li>觀眾之選最高人氣賞（시청자가 뽑은 최고인기상）：<a href="../Page/劉在錫.md" title="wikilink">劉在錫</a></li>
 <li>實境部門最優秀獎（최우수상）：<a href="../Page/Gary_(韓國歌手).md" title="wikilink">Gary</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a></li>

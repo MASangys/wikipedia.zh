@@ -1,8 +1,6 @@
-**SWANKY
-DANK**是日本樂團，[千葉市](../Page/千葉市.md "wikilink")[稲毛区出身](https://zh.wikipedia.org/wiki/稲毛区 "wikilink")。
+**SWANKY DANK**是日本樂團，[千葉市](../Page/千葉市.md "wikilink")[稲毛区出身](https://zh.wikipedia.org/wiki/稲毛区 "wikilink")。
 由吉他兼主唱的哥哥松尾雄一及貝斯手兼主唱的弟弟松尾光次為中心組成。
-前身樂團VOXPOP於2007年3月16日解散，改名為**SWANKY
-DANK**並以YUICHI跟KOJI名義開始活動。2012年8月鼓手SHUN加入。2014年2月吉他手KO-TA加入。
+前身樂團VOXPOP於2007年3月16日解散，改名為**SWANKY DANK**並以YUICHI跟KOJI名義開始活動。2012年8月鼓手SHUN加入。2014年2月吉他手KO-TA加入。
 
 ## 成員
 

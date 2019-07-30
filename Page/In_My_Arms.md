@@ -1,15 +1,10 @@
-《**In My
-Arms**》是澳大利亞歌手[凱莉·米洛為第十張錄音室專輯](../Page/凯莉·米洛.md "wikilink")《[X](../Page/X_\(凱莉·米洛專輯\).md "wikilink")》錄製的一首歌。該歌曲由凱莉·米洛、Calvin
-Harris、Richard "Biff" Stannard、Paul Harris、Julian Peake創作，Calvin
-Harris、Stannard監製。該歌曲作為專輯的全球第二主打單曲於2008年2月15日發行，但在英國、澳大利亞、新西蘭是作為第三主打單曲。
+《**In My Arms**》是澳大利亞歌手[凱莉·米洛為第十張錄音室專輯](../Page/凯莉·米洛.md "wikilink")《[X](../Page/X_\(凱莉·米洛專輯\).md "wikilink")》錄製的一首歌。該歌曲由凱莉·米洛、Calvin Harris、Richard "Biff" Stannard、Paul Harris、Julian Peake創作，Calvin Harris、Stannard監製。該歌曲作為專輯的全球第二主打單曲於2008年2月15日發行，但在英國、澳大利亞、新西蘭是作為第三主打單曲。
 
 ## 其它版本
 
-[臺灣百代唱片於](../Page/百代唱片_\(台灣\).md "wikilink")2007年10月15日公布凱莉·米洛與臺灣歌手[蔡依林錄製合唱歌曲](../Page/蔡依林.md "wikilink")《In
-My Arms》（中文：愛的抱抱）\[1\]\[2\] 。該歌曲收錄於2007年11月發行的專輯《X》的亞洲版\[3\]。
+[臺灣百代唱片於](../Page/百代唱片_\(台灣\).md "wikilink")2007年10月15日公布凱莉·米洛與臺灣歌手[蔡依林](../Page/蔡依林.md "wikilink")錄製合唱歌曲《In My Arms》（中文：愛的抱抱）\[1\]\[2\] 。該歌曲收錄於2007年11月發行的專輯《X》的亞洲版\[3\]。
 
-[百代唱片於](../Page/EMI.md "wikilink")2008年年初邀請墨西哥創作歌手[阿萊克斯·西恩特於該歌曲用西班牙語錄製一些聲音](https://zh.wikipedia.org/wiki/阿萊克斯·西恩特 "wikilink")。該歌曲於2008年4月24日通過阿萊克斯·西恩特的[YouTube官方頁面首度發表](../Page/YouTube.md "wikilink")\[4\]，之後被百代唱片和墨西哥媒體確認該歌曲確實存在並計劃於4月最後一週於墨西哥電台發表\[5\]。該歌曲之後被確認將收錄於阿萊克斯·西恩特於2008年6月發行的合輯《Best
-of 1989-2009》。專輯《X》墨西哥特別版原計劃於5月發行，但被延宕至2008年8月26日發行\[6\]。
+[百代唱片於](../Page/EMI.md "wikilink")2008年年初邀請墨西哥創作歌手[阿萊克斯·西恩特於該歌曲用西班牙語錄製一些聲音](https://zh.wikipedia.org/wiki/阿萊克斯·西恩特 "wikilink")。該歌曲於2008年4月24日通過阿萊克斯·西恩特的[YouTube](../Page/YouTube.md "wikilink")官方頁面首度發表\[4\]，之後被百代唱片和墨西哥媒體確認該歌曲確實存在並計劃於4月最後一週於墨西哥電台發表\[5\]。該歌曲之後被確認將收錄於阿萊克斯·西恩特於2008年6月發行的合輯《Best of 1989-2009》。專輯《X》墨西哥特別版原計劃於5月發行，但被延宕至2008年8月26日發行\[6\]。
 
 ## 格式和曲目
 
@@ -17,14 +12,8 @@ of 1989-2009》。專輯《X》墨西哥特別版原計劃於5月發行，但被
 
 1.  "In My Arms" — 3:32
 2.  "In My Arms" (Death Metal Disco Scene Remix) — 5:43
-3.  "In My Arms" ([Sebastien
-    Leger](https://zh.wikipedia.org/wiki/Sébastien_Léger "wikilink")
-    Mix) — 7:05
-4.  "[Can't Get You Out of My
-    Head](https://zh.wikipedia.org/wiki/Can't_Get_You_Out_of_My_Head "wikilink")"
-    ([Greg
-    Kurstin](https://zh.wikipedia.org/wiki/Greg_Kurstin "wikilink")
-    Remix) — 4:05
+3.  "In My Arms" ([Sebastien Leger](https://zh.wikipedia.org/wiki/Sébastien_Léger "wikilink") Mix) — 7:05
+4.  "[Can't Get You Out of My Head](https://zh.wikipedia.org/wiki/Can't_Get_You_Out_of_My_Head "wikilink")" ([Greg Kurstin](https://zh.wikipedia.org/wiki/Greg_Kurstin "wikilink") Remix) — 4:05
 
 \*;德國CD single
 
@@ -57,17 +46,13 @@ of 1989-2009》。專輯《X》墨西哥特別版原計劃於5月發行，但被
 
 \*;墨西哥digital download
 
-1.  "In My Arms" featuring [Aleks
-    Syntek](https://zh.wikipedia.org/wiki/Aleks_Syntek "wikilink") —
-    3:37
+1.  "In My Arms" featuring [Aleks Syntek](https://zh.wikipedia.org/wiki/Aleks_Syntek "wikilink") — 3:37
 
 \*;德國digital download (3-track)
 
 1.  "In My Arms" — 3:31
 2.  "In My Arms" (Spitzer Remix) — 3:33
-3.  "In My Arms" ([Chris
-    Lake](https://zh.wikipedia.org/wiki/Chris_Lake "wikilink") Vocal
-    Mix) — 6:37
+3.  "In My Arms" ([Chris Lake](https://zh.wikipedia.org/wiki/Chris_Lake "wikilink") Vocal Mix) — 6:37
 
 \*;德國digital download (4-track)
 
@@ -191,8 +176,7 @@ of 1989-2009》。專輯《X》墨西哥特別版原計劃於5月發行，但被
 
 ## 參考資料
 
-[Category:2007年歌曲](https://zh.wikipedia.org/wiki/Category:2007年歌曲 "wikilink")
-[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")
+[Category:2007年歌曲](https://zh.wikipedia.org/wiki/Category:2007年歌曲 "wikilink") [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")
 
 1.
 2.

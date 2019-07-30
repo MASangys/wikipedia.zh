@@ -1,5 +1,4 @@
-**Global
-Warning巡迴演唱會**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG第一次舉辦的亞洲巡迴演唱會](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，該巡演共造訪5個國家11座城市，共動員20萬名歌迷進場觀賞。\[1\]
+**Global Warning巡迴演唱會**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG第一次舉辦的亞洲巡迴演唱會](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，該巡演共造訪5個國家11座城市，共動員20萬名歌迷進場觀賞。\[1\]
 
 ## 演唱歌單
 
@@ -19,8 +18,7 @@ Warning巡迴演唱會**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "
 14. Dirty Cash（Remix版）
 15. V.I.P
 16. La La La（Remix版）
-17. Look at Me,
-    Gwisoon（[大聲](https://zh.wikipedia.org/wiki/大聲 "wikilink")）
+17. Look at Me, Gwisoon（[大聲](https://zh.wikipedia.org/wiki/大聲 "wikilink")）
 18. This Love（[G-Dragon](../Page/G-Dragon.md "wikilink")）
 19. But I Love U（G-dragon）
 20. We Belong Together
@@ -178,9 +176,7 @@ Warning巡迴演唱會**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "
 
   -
 
-[Category:BIGBANG巡迴演唱會](https://zh.wikipedia.org/wiki/Category:BIGBANG巡迴演唱會 "wikilink")
-[Category:各艺人巡回演唱会](https://zh.wikipedia.org/wiki/Category:各艺人巡回演唱会 "wikilink")
-[Category:2008年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2008年巡迴演唱會 "wikilink")
+[Category:BIGBANG巡迴演唱會](https://zh.wikipedia.org/wiki/Category:BIGBANG巡迴演唱會 "wikilink") [Category:各艺人巡回演唱会](https://zh.wikipedia.org/wiki/Category:各艺人巡回演唱会 "wikilink") [Category:2008年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2008年巡迴演唱會 "wikilink")
 
 1.
 2.

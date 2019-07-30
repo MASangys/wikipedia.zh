@@ -1,6 +1,4 @@
-**fhána**（）為[日本](../Page/日本.md "wikilink")[Lantis所屬的音樂團體](../Page/Lantis.md "wikilink")，由FLEET的佐藤純一、s10rw的yuxuki
-waga以及Leggysalad的kevin
-mitsunaga3名男性所組成，之後在2012年秋時女性主唱towana正式加入。fhána主要為[動漫與](../Page/動漫.md "wikilink")[電視動畫發行片頭](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")、片尾曲。
+**fhána**（）為[日本](../Page/日本.md "wikilink")[Lantis](../Page/Lantis.md "wikilink")所屬的音樂團體，由FLEET的佐藤純一、s10rw的yuxuki waga以及Leggysalad的kevin mitsunaga3名男性所組成，之後在2012年秋時女性主唱towana正式加入。fhána主要為[動漫](../Page/動漫.md "wikilink")與[電視動畫發行片頭](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")、片尾曲。
 
 ## 經歷
 
@@ -8,7 +6,7 @@ mitsunaga3名男性所組成，之後在2012年秋時女性主唱towana正式加
 
 <!-- end list -->
 
-  - 8月21日發行第一單曲「[ケセラセラ](../Page/Que_Sera,_Sera_\(fhána歌曲\).md "wikilink")」，為[有頂天家族片尾曲](../Page/有頂天家族.md "wikilink")。
+  - 8月21日發行第一單曲「[ケセラセラ](../Page/Que_Sera,_Sera_\(fhána歌曲\).md "wikilink")」，為[有頂天家族](../Page/有頂天家族.md "wikilink")片尾曲。
   - 10月23日發行第二張單曲「tiny lamp」，為[銀狐片頭曲](../Page/銀狐_\(漫畫\).md "wikilink")。
 
 <!-- end list -->
@@ -17,10 +15,9 @@ mitsunaga3名男性所組成，之後在2012年秋時女性主唱towana正式加
 
 <!-- end list -->
 
-  - 1月22日發行第三張單曲「divine
-    intervention」，為[魔女的使命片頭曲](../Page/魔女的使命.md "wikilink")。
-  - 4月30日發行第四張單曲「」，為[我們大家的河合莊片頭曲](../Page/我們大家的河合莊.md "wikilink")。
-  - 11月5日發行第五張單曲「」，為[天體運行式片尾曲](https://zh.wikipedia.org/wiki/天體運行式 "wikilink")，第5張單曲[Oricon最高到達了第](../Page/Oricon.md "wikilink")22位。
+  - 1月22日發行第三張單曲「divine intervention」，為[魔女的使命](../Page/魔女的使命.md "wikilink")片頭曲。
+  - 4月30日發行第四張單曲「」，為[我們大家的河合莊](../Page/我們大家的河合莊.md "wikilink")片頭曲。
+  - 11月5日發行第五張單曲「」，為[天體運行式片尾曲](https://zh.wikipedia.org/wiki/天體運行式 "wikilink")，第5張單曲[Oricon](../Page/Oricon.md "wikilink")最高到達了第22位。
 
 <!-- end list -->
 
@@ -29,9 +26,8 @@ mitsunaga3名男性所組成，之後在2012年秋時女性主唱towana正式加
 <!-- end list -->
 
   - 2月4日發行第一張專輯「 Outside of Melancholy」。
-  - 8月5日發行第六張單曲「」，為[Fate/kaleid liner 魔法少女☆伊莉雅
-    第3期片頭曲](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")。
-  - 10月28日發行第七張單曲「」，為[彗星·路西法形象歌曲](../Page/彗星·路西法.md "wikilink")、片頭曲。
+  - 8月5日發行第六張單曲「」，為[Fate/kaleid liner 魔法少女☆伊莉雅 第3期片頭曲](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")。
+  - 10月28日發行第七張單曲「」，為[彗星·路西法](../Page/彗星·路西法.md "wikilink")形象歌曲、片頭曲。
 
 <!-- end list -->
 
@@ -39,9 +35,9 @@ mitsunaga3名男性所組成，之後在2012年秋時女性主唱towana正式加
 
 <!-- end list -->
 
-  - 1月28日發行第八張單曲「」，為[春&夏事件簿片頭曲](../Page/春&夏事件簿.md "wikilink")。
+  - 1月28日發行第八張單曲「」，為[春&夏事件簿](../Page/春&夏事件簿.md "wikilink")片頭曲。
   - 4月27日發行第二張專輯「What a Wonderful World Line」。
-  - 8月3日發行第九張單曲「calling」，為[熱情傳奇片尾曲](../Page/熱情傳奇.md "wikilink")。
+  - 8月3日發行第九張單曲「calling」，為[熱情傳奇](../Page/熱情傳奇.md "wikilink")片尾曲。
 
 <!-- end list -->
 
@@ -50,10 +46,9 @@ mitsunaga3名男性所組成，之後在2012年秋時女性主唱towana正式加
 <!-- end list -->
 
   - 1月25日發行第十張單曲「」，為[小林家的女僕龍片頭曲](https://zh.wikipedia.org/wiki/小林家的女僕龍 "wikilink")。
-  - 4月26日發行第十一張單曲「」，為[有頂天家族2片尾曲](../Page/有頂天家族.md "wikilink")。
+  - 4月26日發行第十一張單曲「」，為[有頂天家族](../Page/有頂天家族.md "wikilink")2片尾曲。
   - 6月20日音樂MV「」破一千萬人觀看\[1\]\[2\]。
-  - 8月2日發行第十二張單曲「Hello\!My
-    World\!\!」，為[騎士&魔法片頭曲](../Page/騎士&魔法.md "wikilink")。
+  - 8月2日發行第十二張單曲「Hello\!My World\!\!」，為[騎士&魔法](../Page/騎士&魔法.md "wikilink")片頭曲。
 
 <!-- end list -->
 
@@ -61,8 +56,7 @@ mitsunaga3名男性所組成，之後在2012年秋時女性主唱towana正式加
 
 <!-- end list -->
 
-  - 1月31日發行第十三張單曲「 ～My Uncompleted
-    Story～」，為[童話魔法使片頭曲](../Page/童話魔法使.md "wikilink")。
+  - 1月31日發行第十三張單曲「 ～My Uncompleted Story～」，為[童話魔法使](../Page/童話魔法使.md "wikilink")片頭曲。
   - 3月28日發行第三張專輯「World Atlas」。
   - 12月12日發行五周年最佳專輯「STORIES」，當中收錄五年來為電視動畫所發行的片頭、片尾曲，合計13首歌。
 
@@ -72,7 +66,7 @@ mitsunaga3名男性所組成，之後在2012年秋時女性主唱towana正式加
 
 <!-- end list -->
 
-  - 8月7日發行第十四張單曲「」，為[實況主的逃脫遊戲【直播中】片尾曲](../Page/實況主的逃脫遊戲【直播中】.md "wikilink")。
+  - 8月7日發行第十四張單曲「」，為[實況主的逃脫遊戲【直播中】](../Page/實況主的逃脫遊戲【直播中】.md "wikilink")片尾曲。
 
 ## 成員
 
@@ -86,8 +80,7 @@ mitsunaga3名男性所組成，之後在2012年秋時女性主唱towana正式加
   -
     本名・和賀裕希，北海道出生。
 
-**Kevin Mitsunaga（）** -
-唱片製作人、[取樣器](https://zh.wikipedia.org/wiki/取樣器 "wikilink")
+**Kevin Mitsunaga（）** - 唱片製作人、[取樣器](https://zh.wikipedia.org/wiki/取樣器 "wikilink")
 
 **Towana（）** - 主唱、作詞
 
@@ -99,7 +92,7 @@ mitsunaga3名男性所組成，之後在2012年秋時女性主唱towana正式加
 **林英樹** - 作詞
 
   -
-    擔當樂曲的作詞。之前同樣佐藤純一領導的樂團FLEET，都是由林英樹所作詞的，所以fhána的樂曲作詞大多數都由林英樹所作。與在所屬的腳本家[林直孝為兄弟關係](../Page/林直孝.md "wikilink")。
+    擔當樂曲的作詞。之前同樣佐藤純一領導的樂團FLEET，都是由林英樹所作詞的，所以fhána的樂曲作詞大多數都由林英樹所作。與在所屬的腳本家[林直孝](../Page/林直孝.md "wikilink")為兄弟關係。
 
 ## 音樂唱片
 
@@ -112,7 +105,7 @@ mitsunaga3名男性所組成，之後在2012年秋時女性主唱towana正式加
 <th><p>發售日</p></th>
 <th><p>名稱</p></th>
 <th><p>規格品番（動畫盤）</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon週榜最高位</a>[3]</p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>週榜最高位[3]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -268,7 +261,7 @@ LACM-14887</p></td>
 | **calling**                                                   | 電視動畫『[熱情傳奇](../Page/熱情傳奇.md "wikilink")』片尾曲                                                                    |                                               |
 | ****                                                          | 電視動畫『[小林家的女僕龍](https://zh.wikipedia.org/wiki/小林家的女僕龍 "wikilink")』片頭曲                                           | 2017年                                         |
 | **Do you realize?**                                           | [手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")『刀鋒之戰』主題曲                                                 |                                               |
-| ****                                                          | 電視動畫『[有頂天家族2](../Page/有頂天家族.md "wikilink")』片尾曲                                                                 |                                               |
+| ****                                                          | 電視動畫『[有頂天家族](../Page/有頂天家族.md "wikilink")2』片尾曲                                                                 |                                               |
 | '''Hello\!My World                                            | '''                                                                                                            | 電視動畫『[騎士&魔法](../Page/騎士&魔法.md "wikilink")』片頭曲 |
 | ** ～My Uncompleted Story～**                                   | 電視動畫『[童話魔法使](../Page/童話魔法使.md "wikilink")』片頭曲                                                                  | 2018年                                         |
 | ****                                                          | 電視動畫『[實況主的逃脫遊戲【直播中】](../Page/實況主的逃脫遊戲【直播中】.md "wikilink")』片尾曲                                                  | 2019年                                         |
@@ -344,9 +337,7 @@ LACM-14887</p></td>
   -
   -
   -
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:Lantis](https://zh.wikipedia.org/wiki/Category:Lantis "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:Lantis](https://zh.wikipedia.org/wiki/Category:Lantis "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
 
 1.
 2.

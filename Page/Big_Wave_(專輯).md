@@ -1,6 +1,4 @@
-《**Big
-wave**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB成員](../Page/BTOB.md "wikilink")[鄭鎰勳的首張個人韓語迷你專輯](../Page/鄭鎰勳.md "wikilink")，於2018年3月8日正式發行。主打歌曲為《She's
-gone》。
+《**Big wave**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")成員[鄭鎰勳](../Page/鄭鎰勳.md "wikilink")的首張個人韓語迷你專輯，於2018年3月8日正式發行。主打歌曲為《She's gone》。
 
 ## 背景
 
@@ -20,14 +18,11 @@ gone》。
 
 3月8日，音源正式發行並公開主打曲《She's gone》完整版MV \[9\]。 3月18日，釋出收錄曲《Always》MV \[10\]。
 
-主打曲《She's gone》曾於2017年《[BTOB TIME
-～我們的演唱會～](../Page/BTOB_TIME_～我們的演唱會～.md "wikilink")》公開演唱。
+主打曲《She's gone》曾於2017年《[BTOB TIME ～我們的演唱會～](../Page/BTOB_TIME_～我們的演唱會～.md "wikilink")》公開演唱。
 
-收錄曲《Fancy Shoes》先前已以《[PIECE OF
-BTOB](../Page/PIECE_OF_BTOB.md "wikilink")》企劃發行，此次收錄版本為Remake版。
+收錄曲《Fancy Shoes》先前已以《[PIECE OF BTOB](../Page/PIECE_OF_BTOB.md "wikilink")》企劃發行，此次收錄版本為Remake版。
 
-收錄曲《Always》先行於《[想念著
-Melody](../Page/成為你的Melody演唱會.md "wikilink")》演唱會公開演唱。
+收錄曲《Always》先行於《[想念著 Melody](../Page/成為你的Melody演唱會.md "wikilink")》演唱會公開演唱。
 
 ## 曲目
 
@@ -210,37 +205,23 @@ Feat. <a href="../Page/任炫植.md" title="wikilink">任炫植</a></p></td>
 
 ## 外部連結
 
-  - [BTOB Official YouTube
-    Channel](https://www.youtube.com/channel/UCgB7A457ULlgm5c3948vr-w)
+  - [BTOB Official YouTube Channel](https://www.youtube.com/channel/UCgB7A457ULlgm5c3948vr-w)
 
-  - [1theK Channel
-    BTOB](https://www.youtube.com/playlist?list=PLID4CZACkMJTYTBLU2rDe1HcJ3vTiaE5A)
+  - [1theK Channel BTOB](https://www.youtube.com/playlist?list=PLID4CZACkMJTYTBLU2rDe1HcJ3vTiaE5A)
 
   -
   -
-[Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
-1.  [BTOB 鎰勳將在3月8日發行首張個人專輯《Big
-    wave》](https://www.kpopn.com/2018/02/27/btob-%E9%8E%B0%E5%8B%B3%E5%B0%87%E5%9C%A83%E6%9C%888%E6%97%A5%E7%99%BC%E8%A1%8C%E9%A6%96%E5%BC%B5%E5%80%8B%E4%BA%BA%E5%B0%88%E8%BC%AF%E3%80%8Abig-wave%E3%80%8B/)
-    2018-03-06 KPOPN
-2.  [BTOB 鎰勳首張個人迷你專輯《Big
-    wave》行程表公開](https://www.kpopn.com/2018/02/28/btob-%e9%8e%b0%e5%8b%b3%e9%a6%96%e5%bc%b5%e5%80%8b%e4%ba%ba%e8%bf%b7%e4%bd%a0%e5%b0%88%e8%bc%af%e3%80%8abig-wave%e3%80%8b%e8%a1%8c%e7%a8%8b%e8%a1%a8%e5%85%ac%e9%96%8b/)
-    2018-03-06 KPOPN
-3.  [鎰勳首張個人迷你專輯《Big
-    wave》首波神秘、夢幻概念照公開](https://www.kpopn.com/2018/03/02/%e9%8e%b0%e5%8b%b3%e9%a6%96%e5%bc%b5%e5%80%8b%e4%ba%ba%e8%bf%b7%e4%bd%a0%e5%b0%88%e8%bc%af%e3%80%8abig-wave%e3%80%8b%e9%a6%96%e6%b3%a2%e7%a5%9e%e7%a7%98%e3%80%81%e5%a4%a2%e5%b9%bb%e6%a6%82%e5%bf%b5%e7%85%a7%e5%85%ac%e9%96%8b/)
-     2018-03-06 KPOPN
-4.  [鎰勳首張個人迷你專輯《Big
-    wave》第二波自由、休閒風概念照](https://www.kpopn.com/2018/03/03/%e9%8e%b0%e5%8b%b3%e9%a6%96%e5%bc%b5%e5%80%8b%e4%ba%ba%e8%bf%b7%e4%bd%a0%e5%b0%88%e8%bc%af%e3%80%8abig-wave%e3%80%8b%e7%ac%ac%e4%ba%8c%e6%b3%a2%e8%87%aa%e7%94%b1%e3%80%81%e4%bc%91%e9%96%92%e9%a2%a8%e6%a6%82%e5%bf%b5%e7%85%a7/)
-     2018-03-06 KPOPN
-5.  [鎰勳《Big wave》曲目表公開，炫植、Jin Ho
-    參與配唱](https://www.kpopn.com/2018/03/04/%e9%8e%b0%e5%8b%b3%e3%80%8abig-wave%e3%80%8b%e6%9b%b2%e7%9b%ae%e8%a1%a8%e5%85%ac%e9%96%8b%ef%bc%8c%e7%82%ab%e6%a4%8d%e3%80%81jin-ho-%e5%8f%83%e8%88%87%e9%85%8d%e5%94%b1/)
-    2018-03-06 KPOPN
+1.  [BTOB 鎰勳將在3月8日發行首張個人專輯《Big wave》](https://www.kpopn.com/2018/02/27/btob-%E9%8E%B0%E5%8B%B3%E5%B0%87%E5%9C%A83%E6%9C%888%E6%97%A5%E7%99%BC%E8%A1%8C%E9%A6%96%E5%BC%B5%E5%80%8B%E4%BA%BA%E5%B0%88%E8%BC%AF%E3%80%8Abig-wave%E3%80%8B/) 2018-03-06 KPOPN
+2.  [BTOB 鎰勳首張個人迷你專輯《Big wave》行程表公開](https://www.kpopn.com/2018/02/28/btob-%e9%8e%b0%e5%8b%b3%e9%a6%96%e5%bc%b5%e5%80%8b%e4%ba%ba%e8%bf%b7%e4%bd%a0%e5%b0%88%e8%bc%af%e3%80%8abig-wave%e3%80%8b%e8%a1%8c%e7%a8%8b%e8%a1%a8%e5%85%ac%e9%96%8b/) 2018-03-06 KPOPN
+3.  [鎰勳首張個人迷你專輯《Big wave》首波神秘、夢幻概念照公開](https://www.kpopn.com/2018/03/02/%e9%8e%b0%e5%8b%b3%e9%a6%96%e5%bc%b5%e5%80%8b%e4%ba%ba%e8%bf%b7%e4%bd%a0%e5%b0%88%e8%bc%af%e3%80%8abig-wave%e3%80%8b%e9%a6%96%e6%b3%a2%e7%a5%9e%e7%a7%98%e3%80%81%e5%a4%a2%e5%b9%bb%e6%a6%82%e5%bf%b5%e7%85%a7%e5%85%ac%e9%96%8b/)  2018-03-06 KPOPN
+4.  [鎰勳首張個人迷你專輯《Big wave》第二波自由、休閒風概念照](https://www.kpopn.com/2018/03/03/%e9%8e%b0%e5%8b%b3%e9%a6%96%e5%bc%b5%e5%80%8b%e4%ba%ba%e8%bf%b7%e4%bd%a0%e5%b0%88%e8%bc%af%e3%80%8abig-wave%e3%80%8b%e7%ac%ac%e4%ba%8c%e6%b3%a2%e8%87%aa%e7%94%b1%e3%80%81%e4%bc%91%e9%96%92%e9%a2%a8%e6%a6%82%e5%bf%b5%e7%85%a7/)  2018-03-06 KPOPN
+5.  [鎰勳《Big wave》曲目表公開，炫植、Jin Ho 參與配唱](https://www.kpopn.com/2018/03/04/%e9%8e%b0%e5%8b%b3%e3%80%8abig-wave%e3%80%8b%e6%9b%b2%e7%9b%ae%e8%a1%a8%e5%85%ac%e9%96%8b%ef%bc%8c%e7%82%ab%e6%a4%8d%e3%80%81jin-ho-%e5%8f%83%e8%88%87%e9%85%8d%e5%94%b1/) 2018-03-06 KPOPN
 6.
 7.
 8.
-9.  [Big wave -
-    Melon](http://www.melon.com/album/detail.htm?albumId=10145978)
+9.  [Big wave - Melon](http://www.melon.com/album/detail.htm?albumId=10145978)
 10.
 11.
 12.

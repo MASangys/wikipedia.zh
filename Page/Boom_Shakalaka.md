@@ -1,5 +1,4 @@
-《*' Boom Shakalaka*'》（韓語：추석특집
-붐샤카라카）是韓國[KBS的綜藝節目](https://zh.wikipedia.org/wiki/KBS "wikilink")，由[車銀優](../Page/車銀優.md "wikilink")（[ASTRO](https://zh.wikipedia.org/wiki/ASTRO "wikilink")）、[李起光](../Page/李起光.md "wikilink")（[BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")）、[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")（[gu9udan](https://zh.wikipedia.org/wiki/gu9udan "wikilink")）等人出演。節目為出演者以1980年代至2000年代，在韓國掀起熱潮的舞曲進行舞蹈對決的節目，除了能讓觀眾欣賞到藝人們的舞蹈實力外，還會與大家一起重溫不同年代流行的舞蹈，回顧那時代的回憶\[1\]\[2\]。
+《*' Boom Shakalaka*'》（韓語：추석특집 붐샤카라카）是韓國[KBS的綜藝節目](https://zh.wikipedia.org/wiki/KBS "wikilink")，由[車銀優](../Page/車銀優.md "wikilink")（[ASTRO](https://zh.wikipedia.org/wiki/ASTRO "wikilink")）、[李起光](../Page/李起光.md "wikilink")（[BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")）、[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")（[gu9udan](https://zh.wikipedia.org/wiki/gu9udan "wikilink")）等人出演。節目為出演者以1980年代至2000年代，在韓國掀起熱潮的舞曲進行舞蹈對決的節目，除了能讓觀眾欣賞到藝人們的舞蹈實力外，還會與大家一起重溫不同年代流行的舞蹈，回顧那時代的回憶\[1\]\[2\]。
 
 ## 參與來賓
 
@@ -30,18 +29,11 @@
 
 ## 參考資料
 
-[Category:KBS](https://zh.wikipedia.org/wiki/Category:KBS "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:KBS](https://zh.wikipedia.org/wiki/Category:KBS "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
 1.  <http://www.koreastardaily.com/tc/news/83746>
 2.  <http://www.yonhapnews.co.kr/bulletin/2016/09/04/0200000000AKR20160904039700033.HTML>
-3.  [AGB尼爾森
-    网页](http://www.nielsenkorea.co.kr/tv_terrestrial_day.asp?menu=Tit_1&sub_menu=3_1)
-
-4.  [케이블 일일시청률
-    Daum](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
-5.  [시카고 타자기
-    Daum](http://search.daum.net/search?nil_suggest=btn&w=tot&DA=SBC&q=%EC%8B%9C%EC%B9%B4%EA%B3%A0+%ED%83%80%EC%9E%90%EA%B8%B0)
-6.  [시카고 타자기
-    Naver](https://search.naver.com/search.naver?where=nexearch&query=시카고+타자기)
+3.  [AGB尼爾森 网页](http://www.nielsenkorea.co.kr/tv_terrestrial_day.asp?menu=Tit_1&sub_menu=3_1)
+4.  [케이블 일일시청률 Daum](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
+5.  [시카고 타자기 Daum](http://search.daum.net/search?nil_suggest=btn&w=tot&DA=SBC&q=%EC%8B%9C%EC%B9%B4%EA%B3%A0+%ED%83%80%EC%9E%90%EA%B8%B0)
+6.  [시카고 타자기 Naver](https://search.naver.com/search.naver?where=nexearch&query=시카고+타자기)

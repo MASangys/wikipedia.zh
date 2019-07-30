@@ -1506,7 +1506,7 @@ Asmik Ace Entertainment <sup>NA</sup></p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Chessmaster.md" title="wikilink">Chessmaster, The</a></em></p></td>
+<td><p><em><a href="../Page/Chessmaster.md" title="wikilink">Chessmaster The</a>,</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Park_Place_Productions" title="wikilink">Park Place Productions</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Hi_Tech_Expressions" title="wikilink">Hi Tech Expressions</a> <sup>NA</sup><br />
 <a href="https://zh.wikipedia.org/wiki/Nintendo" title="wikilink">Nintendo</a> <sup>EU</sup><br />
@@ -10066,9 +10066,6 @@ Gremlin Graphics<sup>EU</sup></p></td>
 
 ## 参考资料
 
-[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
-[Category:Game_Boy游戏](https://zh.wikipedia.org/wiki/Category:Game_Boy游戏 "wikilink")
+[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink") [Category:Game_Boy游戏](https://zh.wikipedia.org/wiki/Category:Game_Boy游戏 "wikilink")
 
-1.  [Game Boy (original) games
-    list](https://www.nintendo.com/consumer/downloads/dmg_games.pdf)  at
-    [Nintendo](https://zh.wikipedia.org/wiki/Nintendo "wikilink").com
+1.  [Game Boy (original) games list](https://www.nintendo.com/consumer/downloads/dmg_games.pdf)  at [Nintendo](https://zh.wikipedia.org/wiki/Nintendo "wikilink").com

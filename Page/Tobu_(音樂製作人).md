@@ -2,14 +2,13 @@
 
 ## 早年
 
-Burkovskis於11歲，初嘗製作音樂。其17歲時，爲成爲音樂製作人，而買一個[FL
-Studio同一個常見之](https://zh.wikipedia.org/wiki/:en:FL_Studio "wikilink")[數碼聲音工作站](https://zh.wikipedia.org/wiki/:en:Digital_audio_workstation "wikilink")。其於靠[YouTube教學自學](../Page/YouTube.md "wikilink")，原無有關音樂之學歷。另外，其製作人朋友都教其一些技術，亦有協助其。
+Burkovskis於11歲，初嘗製作音樂。其17歲時，爲成爲音樂製作人，而買一個[FL Studio同一個常見之](https://zh.wikipedia.org/wiki/:en:FL_Studio "wikilink")[數碼聲音工作站](https://zh.wikipedia.org/wiki/:en:Digital_audio_workstation "wikilink")。其於靠[YouTube](../Page/YouTube.md "wikilink")教學自學，原無有關音樂之學歷。另外，其製作人朋友都教其一些技術，亦有協助其。
 
 Burkovskis之製作過程，受電子音樂製作人[鼠來寶之歌](../Page/鼠來寶_\(DJ\).md "wikilink")《[Strobe](https://zh.wikipedia.org/wiki/:en:Strobe_\(song\) "wikilink")》同音樂家[Avicii之歌](https://zh.wikipedia.org/wiki/Avicii "wikilink")《[Levels](https://zh.wikipedia.org/wiki/:en:Levels_\(Avicii_song\) "wikilink")》所啟發。另外，音樂製作人Archie都有影響到其。\[1\]
 
 ## 事業
 
-直到2019年5月25日爲止，其[YouTube頻道有超過](../Page/YouTube.md "wikilink")100萬之訂閱數量同超過70首歌。\[2\]
+直到2019年5月25日爲止，其[YouTube](../Page/YouTube.md "wikilink")頻道有超過100萬之訂閱數量同超過70首歌。\[2\]
 
 ## 音樂作品
 
@@ -41,10 +40,7 @@ Burkovskis之製作過程，受電子音樂製作人[鼠來寶之歌](../Page/�
 
 ## 參考
 
-[Category:Electro_house_musicians](https://zh.wikipedia.org/wiki/Category:Electro_house_musicians "wikilink")
-[Category:21世紀音樂家](https://zh.wikipedia.org/wiki/Category:21世紀音樂家 "wikilink")
-[Category:里加人](https://zh.wikipedia.org/wiki/Category:里加人 "wikilink")
-[Category:拉脫維亞音樂家](https://zh.wikipedia.org/wiki/Category:拉脫維亞音樂家 "wikilink")
+[Category:Electro_house_musicians](https://zh.wikipedia.org/wiki/Category:Electro_house_musicians "wikilink") [Category:21世紀音樂家](https://zh.wikipedia.org/wiki/Category:21世紀音樂家 "wikilink") [Category:里加人](https://zh.wikipedia.org/wiki/Category:里加人 "wikilink") [Category:拉脫維亞音樂家](https://zh.wikipedia.org/wiki/Category:拉脫維亞音樂家 "wikilink")
 
 1.
 2.

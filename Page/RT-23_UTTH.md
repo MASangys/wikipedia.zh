@@ -1,11 +1,8 @@
-**RT-23
-UTTH“好样的”洲际弹道导弹**（，拉丁化：，北约代号：“手术刀”修改版2/修改版3）是[俄罗斯的一款洲际弹道导弹](../Page/俄罗斯.md "wikilink")，它是由[RT-23洲际弹道导弹改进而来](https://zh.wikipedia.org/wiki/RT-23 "wikilink")。目前已经全部从[俄罗斯战略火箭军中退役](https://zh.wikipedia.org/wiki/俄罗斯战略火箭军 "wikilink")\[1\]。
+**RT-23 UTTH“好样的”洲际弹道导弹**（，拉丁化：，北约代号：“手术刀”修改版2/修改版3）是[俄罗斯](../Page/俄罗斯.md "wikilink")的一款洲际弹道导弹，它是由[RT-23洲际弹道导弹改进而来](https://zh.wikipedia.org/wiki/RT-23 "wikilink")。目前已经全部从[俄罗斯战略火箭军中退役](https://zh.wikipedia.org/wiki/俄罗斯战略火箭军 "wikilink")\[1\]。
 
 ## 历史
 
-1982年，[苏联政府开始了对](https://zh.wikipedia.org/wiki/苏联政府 "wikilink")[RT-23洲际弹道导弹的升级工作](https://zh.wikipedia.org/wiki/RT-23 "wikilink")，1985年开始了RT-23
-UTTH“好样的”际弹道导弹进行测试，RT-23
-UTTH中的15ZH61子类型导弹的服役时间为1987年至2005年，15P060子类型的导弹的服役时间为1988年至2001年\[2\]\[3\]。
+1982年，[苏联政府开始了对](https://zh.wikipedia.org/wiki/苏联政府 "wikilink")[RT-23洲际弹道导弹的升级工作](https://zh.wikipedia.org/wiki/RT-23 "wikilink")，1985年开始了RT-23 UTTH“好样的”际弹道导弹进行测试，RT-23 UTTH中的15ZH61子类型导弹的服役时间为1987年至2005年，15P060子类型的导弹的服役时间为1988年至2001年\[2\]\[3\]。
 
 ## 性能
 
@@ -34,8 +31,7 @@ UTTH中的15ZH61子类型导弹的服役时间为1987年至2005年，15P060子�
 
 [R](https://zh.wikipedia.org/wiki/分类:俄罗斯弹道导弹 "wikilink")
 
-1.  [«Молодец» прятался в поезде стратегического
-    назначения](http://zdr.gudok.ru/pub/20/203611/)
+1.  [«Молодец» прятался в поезде стратегического назначения](http://zdr.gudok.ru/pub/20/203611/)
 
 2.
 3.

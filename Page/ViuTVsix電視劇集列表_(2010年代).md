@@ -1,4 +1,4 @@
-本列表是[ViuTVsix電視劇集列表的子列表](https://zh.wikipedia.org/wiki/ViuTVsix電視劇集列表 "wikilink")，列出2010年代的[ViuTVsix劇集](../Page/ViuTVsix.md "wikilink")。
+本列表是[ViuTVsix電視劇集列表的子列表](https://zh.wikipedia.org/wiki/ViuTVsix電視劇集列表 "wikilink")，列出2010年代的[ViuTVsix](../Page/ViuTVsix.md "wikilink")劇集。
 
 除特別註明外，所有劇集均為高清製作且不設粵語配音。
 
@@ -1280,12 +1280,22 @@ Rizzoli &amp; Isles (season 5)</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>7月27日</p></td>
+<td><p>24</p></td>
+<td><p>美國</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/老友記" title="wikilink">老友記</a>（<a href="https://zh.wikipedia.org/wiki/老友記_(第五季)" title="wikilink">第五季</a>）<br />
+Friends (season 5)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/珍妮花·安妮斯頓" title="wikilink">珍妮花·安妮斯頓</a>、<a href="../Page/柯特妮·考克斯.md" title="wikilink">歌迪妮·覺絲</a>、<a href="https://zh.wikipedia.org/wiki/麗莎·庫卓" title="wikilink">麗莎·庫卓</a>、<a href="../Page/麥特·勒布郎.md" title="wikilink">麥特·勒布郎</a>、<a href="../Page/馬修·派瑞.md" title="wikilink">馬修·派瑞</a>、<a href="https://zh.wikipedia.org/wiki/大衛·史威默" title="wikilink">大衛·舒溫瑪</a></p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
 ## 預定播放劇集
 
-以下列出[ViuTVsix於節目宣傳片公佈的預定播放劇集](../Page/ViuTVsix.md "wikilink")。
+以下列出[ViuTVsix](../Page/ViuTVsix.md "wikilink")於節目宣傳片公佈的預定播放劇集。
 
 <table style="width:208%;">
 <colgroup>
@@ -1481,16 +1491,6 @@ The Middle (season 9)</p></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
-<td><p>24</p></td>
-<td><p>美國</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/老友記" title="wikilink">老友記</a>（<a href="https://zh.wikipedia.org/wiki/老友記_(第五季)" title="wikilink">第五季</a>）<br />
-Friends (season 5)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/珍妮花·安妮斯頓" title="wikilink">珍妮花·安妮斯頓</a>、<a href="../Page/柯特妮·考克斯.md" title="wikilink">歌迪妮·覺絲</a>、<a href="https://zh.wikipedia.org/wiki/麗莎·庫卓" title="wikilink">麗莎·庫卓</a>、<a href="../Page/麥特·勒布郎.md" title="wikilink">麥特·勒布郎</a>、<a href="../Page/馬修·派瑞.md" title="wikilink">馬修·派瑞</a>、<a href="https://zh.wikipedia.org/wiki/大衛·史威默" title="wikilink">大衛·舒溫瑪</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>未定</p></td>
 <td><p>25</p></td>
 <td><p>美國</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/老友記" title="wikilink">老友記</a>（<a href="https://zh.wikipedia.org/wiki/老友記_(第六季)" title="wikilink">第六季</a>）<br />
@@ -1499,7 +1499,7 @@ Friends (season 6)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>未定</p></td>
 <td><p>24</p></td>
 <td><p>美國</p></td>
@@ -1509,7 +1509,7 @@ Friends (season 7)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>未定</p></td>
 <td><p>24</p></td>
 <td><p>美國</p></td>
@@ -1519,7 +1519,7 @@ Friends (season 8)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>未定</p></td>
 <td><p>24</p></td>
 <td><p>美國</p></td>
@@ -1529,7 +1529,7 @@ Friends (season 9)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>未定</p></td>
 <td><p>18</p></td>
 <td><p>美國</p></td>
@@ -1549,5 +1549,4 @@ Friends (season 10)</p></td>
   - [ViuTV節目表](http://viu.tv/epg/96)
 
   -
-[Category:香港電視娛樂節目列表](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目列表 "wikilink")
-[Category:香港電視節目列表](https://zh.wikipedia.org/wiki/Category:香港電視節目列表 "wikilink")
+[Category:香港電視娛樂節目列表](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目列表 "wikilink") [Category:香港電視節目列表](https://zh.wikipedia.org/wiki/Category:香港電視節目列表 "wikilink")

@@ -1,12 +1,8 @@
-《**LIVE 〜LEGEND I、D、Z
-APOCALYPSE〜**》（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：ライブ
-〜レジェンド アイ、ディー、ゼット
-アポカリプス〜）是[BABYMETAL在](../Page/BABYMETAL.md "wikilink")2013年發行的第一張現場影像作品\[1\]。
+《**LIVE 〜LEGEND I、D、Z APOCALYPSE〜**》（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：ライブ 〜レジェンド アイ、ディー、ゼット アポカリプス〜）是[BABYMETAL](../Page/BABYMETAL.md "wikilink")在2013年發行的第一張現場影像作品\[1\]。
 
 ## 概況
 
-收錄2012年到2013年間一系列的專場演唱會影像，2013年10月19日發行DVD版、2013年11月20日發行藍光板，以及1500張限量版DVD（3枚組[DVD-BOX](https://zh.wikipedia.org/wiki/Boxset "wikilink")）\[2\]。限量版內容物包含披風，僅在日本[淘兒唱片門市販售](../Page/淘兒唱片.md "wikilink")\[3\]\[4\]。10月18日於[赤坂BLITZ舉辦淘兒唱片新宿店](../Page/赤坂BLITZ.md "wikilink")
-15周年大感謝祭「15の夜」，在會場先行販售\[5\]。
+收錄2012年到2013年間一系列的專場演唱會影像，2013年10月19日發行DVD版、2013年11月20日發行藍光板，以及1500張限量版DVD（3枚組[DVD-BOX](https://zh.wikipedia.org/wiki/Boxset "wikilink")）\[2\]。限量版內容物包含披風，僅在日本[淘兒唱片](../Page/淘兒唱片.md "wikilink")門市販售\[3\]\[4\]。10月18日於[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")舉辦淘兒唱片新宿店 15周年大感謝祭「15の夜」，在會場先行販售\[5\]。
 
 ## 銷售成績
 
@@ -36,8 +32,7 @@ APOCALYPSE〜**》（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：�
 
     3.  歡樂★午夜
 
-    4.  [White Love](../Page/White_Love.md "wikilink") -Angel Of Death
-        ver.-
+    4.  [White Love](../Page/White_Love.md "wikilink") -Angel Of Death ver.-
 
     5.  \-Rising Force ver.-
 
@@ -113,30 +108,16 @@ APOCALYPSE〜**》（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：�
   - 現場實況剪輯
       -
       -
-  - [DISCOGRAPHY](https://web.archive.org/web/20160303172200/http://www.babymetal.jp/discography/)
-    - BABYMETAL 官方網站
-  - [DISCOGRAPHY](http://www.toysfactory.co.jp/artist/babymetal/disco) -
-    TOY'S FACTORY 官方網站
-  - [首張Blu-ray\&DVD-BOX『LIVE〜LEGEND I、D、Z
-    APOCALYPSE〜』發行決定DEATH！！](http://www.babymetal.jp/news/0/10221/)
-    - 新聞 - BABYMETAL 官方網站
-  - [BABYMETAL: LIVE \~LEGEND I、D、Z APOCALYPSE\~ LEGEND
-    I](https://itunes.apple.com/jp/movie/babymetal-live-legend-i-d/id814180776)
-    - iTunes
-  - [BABYMETAL: LIVE \~LEGEND I、D、Z APOCALYPSE\~ LEGEND D SU-METAL
-    聖誕祭](https://itunes.apple.com/jp/movie/babymetal-live-legend-i-d/id814960527)
-    - iTunes
-  - [BABYMETAL: LIVE \~LEGEND I、D、Z APOCALYPSE\~ LEGEND
-    Z](https://itunes.apple.com/jp/movie/babymetal-live-legend-i-d/id814971204)
-    - iTunes
-  - [Legend I,D,Z
-    Apocalypse的MusicBrainz音樂資料庫](https://musicbrainz.org/release/f9920a33-a729-4367-a14d-7709822412db)
-  - [Legend I,D,Z
-    Apocalypse的Discogs音樂資料庫](https://www.discogs.com/ja/release/6669965)
+  - [DISCOGRAPHY](https://web.archive.org/web/20160303172200/http://www.babymetal.jp/discography/) - BABYMETAL 官方網站
+  - [DISCOGRAPHY](http://www.toysfactory.co.jp/artist/babymetal/disco) - TOY'S FACTORY 官方網站
+  - [首張Blu-ray\&DVD-BOX『LIVE〜LEGEND I、D、Z APOCALYPSE〜』發行決定DEATH！！](http://www.babymetal.jp/news/0/10221/) - 新聞 - BABYMETAL 官方網站
+  - [BABYMETAL: LIVE \~LEGEND I、D、Z APOCALYPSE\~ LEGEND I](https://itunes.apple.com/jp/movie/babymetal-live-legend-i-d/id814180776) - iTunes
+  - [BABYMETAL: LIVE \~LEGEND I、D、Z APOCALYPSE\~ LEGEND D SU-METAL 聖誕祭](https://itunes.apple.com/jp/movie/babymetal-live-legend-i-d/id814960527) - iTunes
+  - [BABYMETAL: LIVE \~LEGEND I、D、Z APOCALYPSE\~ LEGEND Z](https://itunes.apple.com/jp/movie/babymetal-live-legend-i-d/id814971204) - iTunes
+  - [Legend I,D,Z Apocalypse的MusicBrainz音樂資料庫](https://musicbrainz.org/release/f9920a33-a729-4367-a14d-7709822412db)
+  - [Legend I,D,Z Apocalypse的Discogs音樂資料庫](https://www.discogs.com/ja/release/6669965)
 
-[Category:2013年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2013年音樂相關影像作品 "wikilink")
-[Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")
-[Category:BABYMETAL](https://zh.wikipedia.org/wiki/Category:BABYMETAL "wikilink")
+[Category:2013年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2013年音樂相關影像作品 "wikilink") [Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink") [Category:BABYMETAL](https://zh.wikipedia.org/wiki/Category:BABYMETAL "wikilink")
 
 1.  不包括DVD形式的單曲。
 2.  「LEGEND I」、「LEGEND D」、「LEGEND Z」分別收錄。

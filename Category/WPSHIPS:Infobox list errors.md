@@ -1,28 +1,11 @@
-This is a tracking category for list errors in
-[WP:SHIPS](https://zh.wikipedia.org/wiki/WP:SHIPS "wikilink") infoboxes.
-Lists in the various infobox templates use the common unordered list
-(\*) markup. The templates read the list markup and produce the correct
-HTML for unbulleted lists. This overcomes limitations that exist in the
-[Mediawiki:Common.css](https://zh.wikipedia.org/wiki/Mediawiki:Common.css "wikilink")
-`plainlist` class and the templates  and .
+This is a tracking category for list errors in [WP:SHIPS](https://zh.wikipedia.org/wiki/WP:SHIPS "wikilink") infoboxes. Lists in the various infobox templates use the common unordered list (\*) markup. The templates read the list markup and produce the correct HTML for unbulleted lists. This overcomes limitations that exist in the [Mediawiki:Common.css](https://zh.wikipedia.org/wiki/Mediawiki:Common.css "wikilink") `plainlist` class and the templates  and .
 
-In the past, the [WP:SHIPS infobox usage
-guide](https://zh.wikipedia.org/wiki/Template:Infobox_ship_begin/Usage_guide "wikilink")
-required unbulleted lists for reasons of limited available space and for
-aesthetics. Editors used a variety of other methods to create lists in
-infoboxes. These included  line break HTML tags and the use of  and
-templates. Problems with these methods are:
+In the past, the [WP:SHIPS infobox usage guide](https://zh.wikipedia.org/wiki/Template:Infobox_ship_begin/Usage_guide "wikilink") required unbulleted lists for reasons of limited available space and for aesthetics. Editors used a variety of other methods to create lists in infoboxes. These included  line break HTML tags and the use of  and  templates. Problems with these methods are:
 
-  - use of  makes visually 'correct' lists that are not correct for
-    those who use screen readers. See [MOS:ACCESS §Vertical
-    lists](https://zh.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Accessibility#Vertical_lists "wikilink").
-  - limitations in Mediawiki:Common.css, prevent  and  from correctly
-    rendering multi-level lists
+  - use of  makes visually 'correct' lists that are not correct for those who use screen readers. See [MOS:ACCESS §Vertical lists](https://zh.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Accessibility#Vertical_lists "wikilink").
+  - limitations in Mediawiki:Common.css, prevent  and  from correctly rendering multi-level lists
 
-The WP:SHIPS infobox templates can detect certain list formatting
-errors. When those errors are detected, the page is added to this
-category. In some cases, an error message is rendered in place of the
-list. The error conditions are:
+The WP:SHIPS infobox templates can detect certain list formatting errors. When those errors are detected, the page is added to this category. In some cases, an error message is rendered in place of the list. The error conditions are:
 
 <table>
 <caption>error messages and their meanings</caption>
@@ -78,5 +61,4 @@ list</span></p></td>
 </tbody>
 </table>
 
-[Category:需要清理的信息框模板](https://zh.wikipedia.org/wiki/Category:需要清理的信息框模板 "wikilink")
-[Category:船舶专题](https://zh.wikipedia.org/wiki/Category:船舶专题 "wikilink")
+[Category:需要清理的信息框模板](https://zh.wikipedia.org/wiki/Category:需要清理的信息框模板 "wikilink") [Category:船舶专题](https://zh.wikipedia.org/wiki/Category:船舶专题 "wikilink")

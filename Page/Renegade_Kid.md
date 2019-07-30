@@ -1,10 +1,6 @@
-**Renegade
-Kid**是一家美国的电子游戏开发商。公司于2007年在[德克萨斯州](../Page/德克萨斯州.md "wikilink")[奧斯汀市成立](../Page/奧斯汀.md "wikilink")，于2016年8月解散。\[1\]公司以在[任天堂DS平台开发的第一人称冒险游戏](../Page/任天堂DS.md "wikilink")《》系列和《》开始为人知晓，而后在多个平台上发布的[银河恶魔城游戏](https://zh.wikipedia.org/wiki/银河恶魔城游戏 "wikilink")《Mutant
-Mudds》受到了更多的关注。
+**Renegade Kid**是一家美国的电子游戏开发商。公司于2007年在[德克萨斯州](../Page/德克萨斯州.md "wikilink")[奧斯汀](../Page/奧斯汀.md "wikilink")市成立，于2016年8月解散。\[1\]公司以在[任天堂DS](../Page/任天堂DS.md "wikilink")平台开发的第一人称冒险游戏《》系列和《》开始为人知晓，而后在多个平台上发布的[银河恶魔城游戏](https://zh.wikipedia.org/wiki/银河恶魔城游戏 "wikilink")《Mutant Mudds》受到了更多的关注。
 
-公司在解散后，其所属游戏系列版权由两位创始人分别创立的新游戏工作室瓜分。\[2\]朱尔斯·沃特申的Atooi拿到了《Mutant
-Mudds》、《Xeodrifter》、《Bomb
-Monkey》、《Treasurenauts》等2D横版游戏的版权，而格雷格·哈格罗夫的Infitizmo则获得了《病房》、《月球惊魂》、《ATV越野》等3D游戏系列的版权。\[3\]
+公司在解散后，其所属游戏系列版权由两位创始人分别创立的新游戏工作室瓜分。\[2\]朱尔斯·沃特申的Atooi拿到了《Mutant Mudds》、《Xeodrifter》、《Bomb Monkey》、《Treasurenauts》等2D横版游戏的版权，而格雷格·哈格罗夫的Infitizmo则获得了《病房》、《月球惊魂》、《ATV越野》等3D游戏系列的版权。\[3\]
 
 ## 公司作品
 
@@ -135,20 +131,10 @@ Steam、PS4、PSV：[5]</p></td>
 ## 外部链接
 
   -
-[Category:2007年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2007年開業電子遊戲公司 "wikilink")
-[Category:2016年結業公司](https://zh.wikipedia.org/wiki/Category:2016年結業公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:已結業電子遊戲公司 "wikilink")
-[Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
-[Category:德克薩斯州公司](https://zh.wikipedia.org/wiki/Category:德克薩斯州公司 "wikilink")
+[Category:2007年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2007年開業電子遊戲公司 "wikilink") [Category:2016年結業公司](https://zh.wikipedia.org/wiki/Category:2016年結業公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:已結業電子遊戲公司 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:德克薩斯州公司](https://zh.wikipedia.org/wiki/Category:德克薩斯州公司 "wikilink")
 
-1.  [MUTANT MUDDS DEV RENEGADE KID SHUTS
-    DOWN](http://www.ign.com/articles/2016/08/29/mutant-mudds-dev-renegade-kid-shuts-down).IGN.2016-08-29.\[2016-08-31\].
-2.  [Studio's Closure Leads to an Unusual Split for Its Many
-    Franchises](http://www.gamespot.com/articles/studios-closure-leads-to-an-unusual-split-for-its-/1100-6443106/).GameSpot.2016-08-29.\[2016-08-31\].
-3.  [Renegade Kid, makers of Mutant Mudds and Xeodrifter, shuts
-    down](http://www.technobuffalo.com/2016/08/29/renegade-kid-studio-shuts-down/).TechnoBuffalo.2016-08-29.\[2016-11-07\].
-4.  [Moon on Mastiff](http://www.mastiff-games.com/games/moon)
-    .Mastiff.\[2016-08-31\].
-5.  [Xeodrifter on
-    Gambitious](http://www.gambitious.com/games/xeodrifter).gambitious.\[2016-11-07\].
+1.  [MUTANT MUDDS DEV RENEGADE KID SHUTS DOWN](http://www.ign.com/articles/2016/08/29/mutant-mudds-dev-renegade-kid-shuts-down).IGN.2016-08-29.\[2016-08-31\].
+2.  [Studio's Closure Leads to an Unusual Split for Its Many Franchises](http://www.gamespot.com/articles/studios-closure-leads-to-an-unusual-split-for-its-/1100-6443106/).GameSpot.2016-08-29.\[2016-08-31\].
+3.  [Renegade Kid, makers of Mutant Mudds and Xeodrifter, shuts down](http://www.technobuffalo.com/2016/08/29/renegade-kid-studio-shuts-down/).TechnoBuffalo.2016-08-29.\[2016-11-07\].
+4.  [Moon on Mastiff](http://www.mastiff-games.com/games/moon) .Mastiff.\[2016-08-31\].
+5.  [Xeodrifter on Gambitious](http://www.gambitious.com/games/xeodrifter).gambitious.\[2016-11-07\].

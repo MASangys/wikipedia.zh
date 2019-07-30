@@ -1,11 +1,10 @@
 《**偶像活動Friends！**》（）是[BANDAI於](../Page/萬代.md "wikilink")2018年4月發售的「」系統[街機卡片遊戲](https://zh.wikipedia.org/wiki/街機 "wikilink")，《[偶像活動](../Page/Aikatsu！偶像活動！.md "wikilink")》系列的第3作。
 
-電視動畫第1期於2018年4月5日在[東京電視網開始播放](../Page/東京電視網.md "wikilink")。第2期於2019年4月4日起在東京電視網播放。
+電視動畫第1期於2018年4月5日在[東京電視網](../Page/東京電視網.md "wikilink")開始播放。第2期於2019年4月4日起在東京電視網播放。
 
 ## 遊戲概要
 
-從2012年開始推出第1作《偶像活動！》系列，繼2016年推出的第2作《偶像活動Stars！》後推出。本作與前作《偶像活動Stars！》同樣使用**DATA
-CARDDASS T**型機台進行遊戲。
+從2012年開始推出第1作《偶像活動！》系列，繼2016年推出的第2作《偶像活動Stars！》後推出。本作與前作《偶像活動Stars！》同樣使用**DATA CARDDASS T**型機台進行遊戲。
 
 《偶像活動Friends！》的主題是「**與朋友一起進行偶像-{}-活動！**」，組成雙人組合的組合以頂級偶像稱號「**鑽石友誼**」為目標\[1\]。
 
@@ -27,8 +26,7 @@ CARDDASS T**型機台進行遊戲。
 
 <!-- end list -->
 
-  - 「閃耀的寶石」季度：增加服裝對應的 Jewelry Rare (JLR) 等級和新系統卡片 Full code。 FR 與 BFR
-    分別移至 R 與 PR 。
+  - 「閃耀的寶石」季度：增加服裝對應的 Jewelry Rare (JLR) 等級和新系統卡片 Full code。 FR 與 BFR 分別移至 R 與 PR 。
 
 | 季度      | 推動開始日       | Card數量                                                                         |
 | ------- | ----------- | ------------------------------------------------------------------------------ |
@@ -40,6 +38,7 @@ CARDDASS T**型機台進行遊戲。
 | 6彈      | 2019年1月31日  | 全91張（普通12+稀有27+Premium特級稀有15+Friend Rare朋友稀有8+Best Friend Rare好朋友稀有16+活動稀有12）  |
 | 閃耀的寶石1彈 | 2019年3月28日  | 全64張（普通12+稀有20+Premium特級稀有4+Jewelry Rare寶石稀有12+活動稀有16）                         |
 | 閃耀的寶石2彈 | 2019年6月6日   | 全84張（普通12+稀有20+Premium特級稀有12+Jewelry Rare寶石稀有16+活動稀有24）                        |
+| 閃耀的寶石3彈 | 2019年8月1日   | 全 張（普通 +稀有 +Premium特級稀有 +Jewelry Rare寶石稀有8+活動稀有32）                             |
 |         |             |                                                                                |
 
 ### 增設舞台
@@ -98,21 +97,11 @@ CARDDASS T**型機台進行遊戲。
 
   - 第1期（第1話 - 第50話）
 
-以**鑽石友誼**為目標，一起偶像-{}-活動吧！
-為了進行偶像-{}-活動，展現偶像們之間努力與友情以及成長的故事，**『偶像學園Friends！』**
-就讀於**星睦學園**普通科的**友希愛音**，是一位喜歡交朋友的女孩。 與學校裡頂級偶像**湊美緒**成為朋友，一起出現在舞臺上！？
-等待她們的是**蝶乃舞花**、**日向繪麻**等與富有個性的偶像們相遇，還接到藝能界的工作，每天過著忙碌的校園生活！ 2
-人組成**Friends**組合，目標是頂級偶像獲得的閃耀光芒的稱號**鑽石友誼**！**神城凱倫**、**明日香未來**，她們兩位穿上的服裝所發出的光芒簡直就是鑽石級！
-每張收集到的卡片都是有它的故事！快使用「偶像-{}-活動卡片」來裝扮吧！ 粉絲是朋友，卡片也是朋友！朋友多多，夢想滿天！
-**『偶像學園Friends！』**開始了！
+以**鑽石友誼**為目標，一起偶像-{}-活動吧！ 為了進行偶像-{}-活動，展現偶像們之間努力與友情以及成長的故事，**『偶像學園Friends！』** 就讀於**星睦學園**普通科的**友希愛音**，是一位喜歡交朋友的女孩。 與學校裡頂級偶像**湊美緒**成為朋友，一起出現在舞臺上！？ 等待她們的是**蝶乃舞花**、**日向繪麻**等與富有個性的偶像們相遇，還接到藝能界的工作，每天過著忙碌的校園生活！ 2 人組成**Friends**組合，目標是頂級偶像獲得的閃耀光芒的稱號**鑽石友誼**！**神城凱倫**、**明日香未來**，她們兩位穿上的服裝所發出的光芒簡直就是鑽石級！ 每張收集到的卡片都是有它的故事！快使用「偶像-{}-活動卡片」來裝扮吧！ 粉絲是朋友，卡片也是朋友！朋友多多，夢想滿天！ **『偶像學園Friends！』**開始了！
 
   - 第2期（第51話 - ）
 
-發光吧！閃耀吧！這就是我的偶像-{}-活動！
-成為高中生的愛音和美緒面前突然出現的**天翔響**是進行宇宙偶像-{}-活動的偶像-{}-活動藝人。
-響所持有的「寶石禮服」是被選中的偶像才能穿上，能綻放特別光芒的衣服。 曾經和**艾麗西亞·夏洛特**組成傳說中的Friends！
-如果要實現響的願望，首先需要愛音和美緒的「友情力量」！？
-在舞花、繪麻之後，咲夜、輝夜也加入了星睦學園。充滿光輝的寶石禮服也會登場！！愛音和美緒的偶像-{}-活動還在繼續！
+發光吧！閃耀吧！這就是我的偶像-{}-活動！ 成為高中生的愛音和美緒面前突然出現的**天翔響**是進行宇宙偶像-{}-活動的偶像-{}-活動藝人。 響所持有的「寶石禮服」是被選中的偶像才能穿上，能綻放特別光芒的衣服。 曾經和**艾麗西亞·夏洛特**組成傳說中的Friends！ 如果要實現響的願望，首先需要愛音和美緒的「友情力量」！？ 在舞花、繪麻之後，咲夜、輝夜也加入了星睦學園。充滿光輝的寶石禮服也會登場！！愛音和美緒的偶像-{}-活動還在繼續！
 
 ## 人物介紹
 
@@ -199,8 +188,7 @@ CARDDASS T**型機台進行遊戲。
 
       -
         作詞：松原さらり（onetrap），作曲、編曲：SHOW（Digz, Inc. Group）
-        主唱：あいね（友希愛音）、みお（湊美緒）、[舞花](../Page/美山加戀.md "wikilink")（蝶乃舞花）、（日向繪麻）
-        from BEST FRIENDS！
+        主唱：あいね（友希愛音）、みお（湊美緒）、[舞花](../Page/美山加戀.md "wikilink")（蝶乃舞花）、（日向繪麻） from BEST FRIENDS！
 
 <!-- end list -->
 
@@ -208,12 +196,9 @@ CARDDASS T**型機台進行遊戲。
 
 :; 「Believe it」（第1話 - 第25話）
 
-:: 作詞：松原さらり（onetrap），作曲：Coffee
-Creamers（Digiz,lnc.Group），編曲：SHOW（Digiz,lnc.Group）
+:: 作詞：松原さらり（onetrap），作曲：Coffee Creamers（Digiz,lnc.Group），編曲：SHOW（Digiz,lnc.Group）
 
-::
-主唱：[カレン](../Page/田所梓.md "wikilink")（神城凱倫）、[ミライ](../Page/大橋彩香.md "wikilink")（明日香未來）
-from BEST FRIENDS！（第2、5、28、40話插入曲）
+:: 主唱：[カレン](../Page/田所梓.md "wikilink")（神城凱倫）、[ミライ](../Page/大橋彩香.md "wikilink")（明日香未來） from BEST FRIENDS！（第2、5、28、40話插入曲）
 
 :; 「プライド」（第26話 - 第50話）
 
@@ -227,8 +212,7 @@ from BEST FRIENDS！（第2、5、28、40話插入曲）
 
       -
         作詞：松原さらり（onetrap），作曲、編曲：Maozon、YUKI FUNAKOSHI（Digz, Inc. Group）
-        主唱：[ひびき](../Page/日笠陽子.md "wikilink")（天翔響） from BEST
-        FRIENDS！（第51、56、60話插入曲）
+        主唱：[ひびき](../Page/日笠陽子.md "wikilink")（天翔響） from BEST FRIENDS！（第51、56、60話插入曲）
 
 <!-- end list -->
 
@@ -276,11 +260,13 @@ from BEST FRIENDS！（第2、5、28、40話插入曲）
 
 :: 主唱：舞花（蝶乃舞花）、エマ（日向繪麻） from BEST FRIENDS！（第14、18話）
 
-:; 「みんなみんな\!」（第16、19、26、33、39話）
+:; 「みんなみんな\!」（第16、19、26、33、39、66話）
 
 :: 作詞：松原さらり（onetrap），作曲：石田秀登，編曲：Mitsu.J（Digz, Inc. Group）
 
 :: 主唱：あいね（友希愛音）、みお（湊美緒） from BEST FRIENDS！（第16、19、26、33、39話）
+
+:: 主唱：みお（湊美緒）、（春風若葉） from BEST FRIENDS！（第66話）
 
 :; 「導かれて」（第17、22、35、38話）
 
@@ -298,8 +284,7 @@ from BEST FRIENDS！（第2、5、28、40話插入曲）
 
 :: 作詞：松原さらり（onetrap），作曲：藤末樹，編曲：片山將太
 
-:: 主唱：さくや（白百合咲夜）、[かぐや](../Page/桑原由氣.md "wikilink")（白百合輝夜） from BEST
-FRIENDS！（第27、40話）
+:: 主唱：さくや（白百合咲夜）、[かぐや](../Page/桑原由氣.md "wikilink")（白百合輝夜） from BEST FRIENDS！（第27、40話）
 
 :; 「偶然、必然。」（第30、35、38話）
 
@@ -307,14 +292,13 @@ FRIENDS！（第27、40話）
 
 :: 主唱：かぐや（白百合輝夜） from BEST FRIENDS！（第30、35、38話）
 
-:; 「みつけようよ♪」（第32、39、48、55話）
+:; 「みつけようよ♪」（第32、39、48、55、64話）
 
 :: 作詞：松原さらり（onetrap），作曲、編曲：MItsu.J（Digiz,lnc.Group）
 
-:: 主唱：舞花（蝶乃舞花）、エマ（日向繪麻） from BEST FRIENDS！（第32、39、48、55話）
+:: 主唱：舞花（蝶乃舞花）、エマ（日向繪麻） from BEST FRIENDS！（第32、39、48、55、64話）
 
-:; 「[We wish you a merry Christmas](../Page/我們祝你聖誕快樂.md "wikilink") BEST
-FRIENDS\! Ver.」（第37話）
+:; 「[We wish you a merry Christmas](../Page/我們祝你聖誕快樂.md "wikilink") BEST FRIENDS\! Ver.」（第37話）
 
 :: 作詞：こだまさおり，作曲、編曲：岡部啓一（MONACA）
 
@@ -352,20 +336,19 @@ FRIENDS\! Ver.」（第37話）
 
 :: 主唱：ミライ（明日香未來） from BEST FRIENDS！（第59、62話）
 
-:; 「あるがまま」（第61話）
+:; 「あるがまま」（第61、65話）
 
 :: 作詞：松原さらり（onetrap），作曲、編曲：Maozon、YUKI FUNAKOSHI（Digz, Inc. Group）
 
-:: 主唱：[アリシア](../Page/大西沙織.md "wikilink")（艾麗西亞·夏洛特） from BEST
-FRIENDS！（第61話）
+:: 主唱：[アリシア](../Page/大西沙織.md "wikilink")（艾麗西亞·夏洛特） from BEST FRIENDS！（第61、65話）
 
-:; 「強く美しく優しく」（第63話）
+:; 「強く美しく優しく」（第63、64話）
 
   -
 
       -
         作詞：松原さらり（onetrap），作曲、編曲：
-        主唱：カレン（神城凱倫） from BEST FRIENDS！（第63話）
+        主唱：カレン（神城凱倫） from BEST FRIENDS！（第63、64話）
 
 <!-- end list -->
 
@@ -1110,6 +1093,58 @@ FRIENDS！（第61話）
 細田沙織</p></td>
 <td><p>7月4日</p></td>
 </tr>
+<tr class="odd">
+<td><p>第65話</p></td>
+<td></td>
+<td><p>心跳不已♥Friends約會</p></td>
+<td><p>成田良美</p></td>
+<td><p>田頭真理惠</p></td>
+<td><p>大川貴大</p></td>
+<td><p>高橋晃</p></td>
+<td><p>7月11日</p></td>
+</tr>
+<tr class="even">
+<td><p>第66話</p></td>
+<td></td>
+<td><p>若葉、完美進行中！</p></td>
+<td><p>大知慶一郎</p></td>
+<td><p>山本惠</p></td>
+<td><p>西島加奈<br />
+竹森由加</p></td>
+<td><p>7月18日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第67話</p></td>
+<td></td>
+<td><p>從未來、到未來</p></td>
+<td><p>千葉美鈴</p></td>
+<td><p>青木康直</p></td>
+<td><p>蓮井隆弘</p></td>
+<td><p>中島里惠<br />
+中村沙由貴</p></td>
+<td><p>7月25日 &lt;!--</p></td>
+</tr>
+<tr class="even">
+<td><p>第68話</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>8月1日</p></td>
+</tr>
+<tr class="odd">
+<td><p>第69話</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>8月8日 --&gt;</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -1244,7 +1279,7 @@ FRIENDS！（第61話）
 | BOX1 | 2018年10月4日   | 第1話 - 第13話  | BIXA-9006                              |
 | BOX2 | 2019年1月9日    | 第14話 - 第25話 | BIXA-9007                              |
 | BOX3 | 2019年4月2日    | 第26話 - 第38話 | BIXA-9008                              |
-| BOX4 | 2019年7月2日預定  | 第39話 - 第50話 | BIXA-9009                              |
+| BOX4 | 2019年7月2日    | 第39話 - 第50話 | BIXA-9009                              |
 | 1    | 2018年9月4日    | 第1話 - 第3話   |                                        |
 | 2    | 2018年10月2日   | 第4話 - 第9話   | BIBA-3302                              |
 | 3    | 2018年12月4日   | 第10話 - 第15話 | BIBA-3303                              |
@@ -1252,7 +1287,7 @@ FRIENDS！（第61話）
 | 5    | 2019年3月2日    | 第22話 - 第27話 | BIBA-3305                              |
 | 6    | 2019年4月2日    | 第28話 - 第33話 | BIBA-3306                              |
 | 7    | 2019年6月4日    | 第34話 - 第39話 | BIBA-3307                              |
-| 8    | 2019年7月2日預定  | 第40話 - 第45話 | BIBA-3308                              |
+| 8    | 2019年7月2日    | 第40話 - 第45話 | BIBA-3308                              |
 | 9    | 2019年8月2日預定  | 第46話 - 第50話 | BIBA-3309                              |
 | 第2期  |              |             |                                        |
 | BOX5 | 2019年10月2日預定 | 第51話 - 第63話 | BIXA-9055                              |
@@ -1270,13 +1305,11 @@ FRIENDS！（第61話）
 
   -
     第1作 - [Aikatsu！偶像活動！(動畫)](../Page/偶像活動！_\(動畫\).md "wikilink")
-    第2作 -
-    [偶像活動Stars！](https://zh.wikipedia.org/wiki/偶像活動Stars！ "wikilink")
+    第2作 - [偶像活動Stars！](https://zh.wikipedia.org/wiki/偶像活動Stars！ "wikilink")
 
 <!-- end list -->
 
-  - 角色條目 -
-    [Aikatsu！偶像活動！角色列表](../Page/Aikatsu！偶像活動！角色列表.md "wikilink")、[偶像活動Stars！角色列表](../Page/偶像活動Stars！角色列表.md "wikilink")
+  - 角色條目 - [Aikatsu！偶像活動！角色列表](../Page/Aikatsu！偶像活動！角色列表.md "wikilink")、[偶像活動Stars！角色列表](../Page/偶像活動Stars！角色列表.md "wikilink")
   - 配唱條目 - [STAR☆ANIS](../Page/STAR☆ANIS.md "wikilink")、
 
 ## 註解
@@ -1310,13 +1343,7 @@ FRIENDS！（第61話）
 
       - [《偶像活動Friends！二期》Bandai萬代頻道免費播放專題](https://www.b-ch.com/ttl/index.php?ttl_c=6495)
 
-[Category:Aikatsu！偶像活動！](https://zh.wikipedia.org/wiki/Category:Aikatsu！偶像活動！ "wikilink")
-[Category:2018年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2018年東京電視網動畫 "wikilink")
-[Category:2018年电子游戏](https://zh.wikipedia.org/wiki/Category:2018年电子游戏 "wikilink")
-[Category:萬代南夢宮遊戲](https://zh.wikipedia.org/wiki/Category:萬代南夢宮遊戲 "wikilink")
-[Category:藝術學校背景作品](https://zh.wikipedia.org/wiki/Category:藝術學校背景作品 "wikilink")
-[Category:街機卡片遊戲](https://zh.wikipedia.org/wiki/Category:街機卡片遊戲 "wikilink")
-[Category:中學背景作品](https://zh.wikipedia.org/wiki/Category:中學背景作品 "wikilink")
+[Category:Aikatsu！偶像活動！](https://zh.wikipedia.org/wiki/Category:Aikatsu！偶像活動！ "wikilink") [Category:2018年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2018年東京電視網動畫 "wikilink") [Category:2018年电子游戏](https://zh.wikipedia.org/wiki/Category:2018年电子游戏 "wikilink") [Category:萬代南夢宮遊戲](https://zh.wikipedia.org/wiki/Category:萬代南夢宮遊戲 "wikilink") [Category:藝術學校背景作品](https://zh.wikipedia.org/wiki/Category:藝術學校背景作品 "wikilink") [Category:街機卡片遊戲](https://zh.wikipedia.org/wiki/Category:街機卡片遊戲 "wikilink") [Category:中學背景作品](https://zh.wikipedia.org/wiki/Category:中學背景作品 "wikilink")
 
 1.
 2.

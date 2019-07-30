@@ -1,9 +1,6 @@
-***Pluscula
-cuica***是[頭楯目](../Page/頭楯目.md "wikilink")[壳蛞蝓总科之下的一個](../Page/壳蛞蝓总科.md "wikilink")[海洋](https://zh.wikipedia.org/wiki/海洋生物 "wikilink")[腹足綱](https://zh.wikipedia.org/wiki/腹足綱 "wikilink")[軟體動物的物種](https://zh.wikipedia.org/wiki/軟體動物 "wikilink")\[1\]\[2\]。
+***Pluscula cuica***是[頭楯目](../Page/頭楯目.md "wikilink")[壳蛞蝓总科](../Page/壳蛞蝓总科.md "wikilink")之下的一個[海洋](https://zh.wikipedia.org/wiki/海洋生物 "wikilink")[腹足綱](https://zh.wikipedia.org/wiki/腹足綱 "wikilink")[軟體動物的物種](https://zh.wikipedia.org/wiki/軟體動物 "wikilink")\[1\]\[2\]。
 
-*Pluscula
-cuica*一直都是**''Pluscula***屬唯一的一個物種\[3\]；而*Pluscula''屬一直都是**Plusculidae**科
-唯一的一個屬，直到2010年被認為是[Philinoglossidae科的異名](https://zh.wikipedia.org/wiki/Philinoglossidae "wikilink")\[4\]而被吸收。
+*Pluscula cuica*一直都是**''Pluscula***屬唯一的一個物種\[3\]；而*Pluscula''屬一直都是**Plusculidae**科 唯一的一個屬，直到2010年被認為是[Philinoglossidae科的異名](https://zh.wikipedia.org/wiki/Philinoglossidae "wikilink")\[4\]而被吸收。
 
 ## 分佈
 
@@ -13,8 +10,7 @@ cuica*一直都是**''Pluscula***屬唯一的一個物種\[3\]；而*Pluscula''�
 
 ## 外部連結
 
-[Category:壳蛞蝓总科](https://zh.wikipedia.org/wiki/Category:壳蛞蝓总科 "wikilink")
-[Category:單種屬軟體動物](https://zh.wikipedia.org/wiki/Category:單種屬軟體動物 "wikilink")
+[Category:壳蛞蝓总科](https://zh.wikipedia.org/wiki/Category:壳蛞蝓总科 "wikilink") [Category:單種屬軟體動物](https://zh.wikipedia.org/wiki/Category:單種屬軟體動物 "wikilink")
 
 1.
 

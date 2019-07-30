@@ -1,16 +1,10 @@
-《**Just be
-conscious**》是[日本女性](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")[林原惠的第](../Page/林原惠.md "wikilink")13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1996年7月5日由[STARCHILD](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")（[King
-Records旗下公司](../Page/國王唱片.md "wikilink")）發行。
+《**Just be conscious**》是[日本](../Page/日本.md "wikilink")女性[聲優](../Page/聲優.md "wikilink")[林原惠](../Page/林原惠.md "wikilink")的第13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1996年7月5日由[STARCHILD](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")（[King Records旗下公司](../Page/國王唱片.md "wikilink")）發行。
 
 ## 簡介
 
-同名標題曲「Just be
-conscious」是1996年8月3日在日本上映的[電影動畫](https://zh.wikipedia.org/wiki/電影動畫 "wikilink")《[秀逗魔導士
-RETURN](https://zh.wikipedia.org/wiki/秀逗魔導士_\(動畫\)#Slayers_RETURN "wikilink")》選用的主題歌曲。還有，該歌曲是同名動畫系列作品主角[莉娜·因巴斯的聲優](../Page/莉娜·因巴斯.md "wikilink")、林原惠以該角色生活方式的設定做為歌詞填寫的主題。並表示，莉娜在故事中的表現也包含在這首歌曲的歌詞中。
+同名標題曲「Just be conscious」是1996年8月3日在日本上映的[電影動畫](https://zh.wikipedia.org/wiki/電影動畫 "wikilink")《[秀逗魔導士 RETURN](https://zh.wikipedia.org/wiki/秀逗魔導士_\(動畫\)#Slayers_RETURN "wikilink")》選用的主題歌曲。還有，該歌曲是同名動畫系列作品主角[莉娜·因巴斯](../Page/莉娜·因巴斯.md "wikilink")的聲優、林原惠以該角色生活方式的設定做為歌詞填寫的主題。並表示，莉娜在故事中的表現也包含在這首歌曲的歌詞中。
 
-該單曲發行之後的首週，在[Oricon排行榜中創下第](../Page/Oricon公信榜.md "wikilink")11名的最高紀錄，也是至2007年為止在林原惠個人的歷年單曲銷售成績排名中，夾在《[Give
-a reason](../Page/Give_a_reason.md "wikilink")》（在Oricon中排名第9）和《[don't be
-discouraged](https://zh.wikipedia.org/wiki/don't_be_discouraged "wikilink")》（在Oricon中排名第4）之間的單曲。
+該單曲發行之後的首週，在[Oricon排行榜中創下第](../Page/Oricon公信榜.md "wikilink")11名的最高紀錄，也是至2007年為止在林原惠個人的歷年單曲銷售成績排名中，夾在《[Give a reason](../Page/Give_a_reason.md "wikilink")》（在Oricon中排名第9）和《[don't be discouraged](https://zh.wikipedia.org/wiki/don't_be_discouraged "wikilink")》（在Oricon中排名第4）之間的單曲。
 
 ## 收錄歌曲
 
@@ -18,15 +12,13 @@ discouraged](https://zh.wikipedia.org/wiki/don't_be_discouraged "wikilink")》�
       -
         作詞：[MEGUMI](../Page/林原惠.md "wikilink")，作曲：，編曲：添田啓二，合音編曲：[奧井雅美](../Page/奧井雅美.md "wikilink")
     <!-- end list -->
-      - [東映配給](../Page/東映.md "wikilink")[電影動畫](https://zh.wikipedia.org/wiki/電影動畫 "wikilink")《[秀逗魔導士
-        RETURN](https://zh.wikipedia.org/wiki/秀逗魔導士_\(動畫\)#Slayers_RETURN "wikilink")》主題歌
+      - [東映](../Page/東映.md "wikilink")配給[電影動畫](https://zh.wikipedia.org/wiki/電影動畫 "wikilink")《[秀逗魔導士 RETURN](https://zh.wikipedia.org/wiki/秀逗魔導士_\(動畫\)#Slayers_RETURN "wikilink")》主題歌
 2.  **RUN ALL THE WAY\!** \[4:55\]
       -
         作詞：，作曲、編曲：
     <!-- end list -->
       - 東映配給電影動畫《秀逗魔導士RETURN》形象歌曲
-      - [OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")《[秀逗魔導士
-        SPECIAL](https://zh.wikipedia.org/wiki/秀逗魔導士_\(動畫\)#SLAYERS_SPECIAL "wikilink")》第3話劇中插入歌（1997年）
+      - [OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")《[秀逗魔導士 SPECIAL](https://zh.wikipedia.org/wiki/秀逗魔導士_\(動畫\)#SLAYERS_SPECIAL "wikilink")》第3話劇中插入歌（1997年）
 3.  Just be conscious（off vocal version）
 4.  RUN ALL THE WAY！（off vocal version）
 
@@ -66,11 +58,6 @@ discouraged](https://zh.wikipedia.org/wiki/don't_be_discouraged "wikilink")》�
 
 ## 注釋
 
-[Category:林原惠單曲](https://zh.wikipedia.org/wiki/Category:林原惠單曲 "wikilink")
-[Category:1996年單曲](https://zh.wikipedia.org/wiki/Category:1996年單曲 "wikilink")
-[Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")
-[Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink")
-[Category:秀逗魔導士歌曲](https://zh.wikipedia.org/wiki/Category:秀逗魔導士歌曲 "wikilink")
+[Category:林原惠單曲](https://zh.wikipedia.org/wiki/Category:林原惠單曲 "wikilink") [Category:1996年單曲](https://zh.wikipedia.org/wiki/Category:1996年單曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink") [Category:秀逗魔導士歌曲](https://zh.wikipedia.org/wiki/Category:秀逗魔導士歌曲 "wikilink")
 
-1.  從《[秀逗魔導士](../Page/秀逗魔導士_\(動畫\).md "wikilink")》原聲專輯《秀逗魔導士RETURN THE
-    MOTION PICTURE"R"》的音源收錄。
+1.  從《[秀逗魔導士](../Page/秀逗魔導士_\(動畫\).md "wikilink")》原聲專輯《秀逗魔導士RETURN THE MOTION PICTURE"R"》的音源收錄。

@@ -1,20 +1,16 @@
-《**Tiramisu
-love**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[超新星成員](https://zh.wikipedia.org/wiki/超新星_\(韓國組合\) "wikilink")[尹成模之首張日語](https://zh.wikipedia.org/wiki/尹成模 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，在2015年8月4日以兩個版本：通常盤、初回盤
-Type-A及初回盤 Type-B推出\[1\]，主打曲目為《Butterfly》。
+《**Tiramisu love**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[超新星成員](https://zh.wikipedia.org/wiki/超新星_\(韓國組合\) "wikilink")[尹成模之首張日語](https://zh.wikipedia.org/wiki/尹成模 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，在2015年8月4日以兩個版本：通常盤、初回盤 Type-A及初回盤 Type-B推出\[1\]，主打曲目為《Butterfly》。
 
 ## 背景
 
-早於2015年5月9日，超新星在東京武道館進行全國巡迴演唱會時，就宣布成模在是年夏天推出首張個人作品\[2\]。但直到6月5日，超新星日本官方網站才公布了成模將會在8月4日出版迷你專輯\[3\]，當中收錄了超新星2011年演出的電影《我們的課後》（）他主唱的曲目《Only
-you》等六首曲目\[4\]，並決定在7月至8月期間舉行八場小型演唱與握手會及兩場二人合照攝影會以宣傳專輯\[5\]。
+早於2015年5月9日，超新星在東京武道館進行全國巡迴演唱會時，就宣布成模在是年夏天推出首張個人作品\[2\]。但直到6月5日，超新星日本官方網站才公布了成模將會在8月4日出版迷你專輯\[3\]，當中收錄了超新星2011年演出的電影《我們的課後》（）他主唱的曲目《Only you》等六首曲目\[4\]，並決定在7月至8月期間舉行八場小型演唱與握手會及兩場二人合照攝影會以宣傳專輯\[5\]。
 
-到6月30日，專輯的三種封面公開\[6\]；而主打曲《Butterfly》之短版[音樂錄影帶則在](../Page/音樂錄影帶.md "wikilink")7月14日發布\[7\]。
+到6月30日，專輯的三種封面公開\[6\]；而主打曲《Butterfly》之短版[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")則在7月14日發布\[7\]。
 
 ### 發行版本
 
 此專輯共分為3個發行版本：
 
-  - 初回盤
-    Type-A（編號：YRCS-95039）：此版本包括一片CD及一片收錄主打歌《Butterfly》之音樂錄影帶與製作花絮之DVD\[8\]。
+  - 初回盤 Type-A（編號：YRCS-95039）：此版本包括一片CD及一片收錄主打歌《Butterfly》之音樂錄影帶與製作花絮之DVD\[8\]。
 
 <!-- end list -->
 
@@ -30,7 +26,7 @@ you》等六首曲目\[4\]，並決定在7月至8月期間舉行八場小型演�
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
 | ---------------------------------------- | ---- | ------ | ------- | ---- |
 | 專輯日榜                                     | 1    | 18,429 | 26,896+ | 2星期  |
 | 專輯週榜                                     | 3    | 25,362 |         |      |
@@ -48,10 +44,7 @@ you》等六首曲目\[4\]，並決定在7月至8月期間舉行八場小型演�
 
   - [成模在YOSHIMOTO R and C的頁面](http://www.randc.jp/artist/sungmo/)
 
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:超新星音樂專輯](https://zh.wikipedia.org/wiki/Category:超新星音樂專輯 "wikilink")
-[Category:YOSHIMOTO_R_and_C音樂專輯](https://zh.wikipedia.org/wiki/Category:YOSHIMOTO_R_and_C音樂專輯 "wikilink")
+[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:超新星音樂專輯](https://zh.wikipedia.org/wiki/Category:超新星音樂專輯 "wikilink") [Category:YOSHIMOTO_R_and_C音樂專輯](https://zh.wikipedia.org/wiki/Category:YOSHIMOTO_R_and_C音樂專輯 "wikilink")
 
 1.
 2.

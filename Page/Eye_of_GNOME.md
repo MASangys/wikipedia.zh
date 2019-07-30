@@ -1,17 +1,11 @@
-**Eye of
-GNOME**（影像檢視器）是[GNOME官方的影像檢視器軟體](../Page/GNOME.md "wikilink")，簡稱eog。該軟體具簡易功能如放大縮小、旋轉等功能。Eye
-of GNOME
-將取代[Sushi及GNOME](https://zh.wikipedia.org/wiki/Sushi_\(軟體\) "wikilink")
-Photos。\[1\]
+**Eye of GNOME**（影像檢視器）是[GNOME](../Page/GNOME.md "wikilink")官方的影像檢視器軟體，簡稱eog。該軟體具簡易功能如放大縮小、旋轉等功能。Eye of GNOME 將取代[Sushi及GNOME](https://zh.wikipedia.org/wiki/Sushi_\(軟體\) "wikilink") Photos。\[1\]
 
 ## 檔案格式
 
 Eye of GNOME 支援以上格式:
 
-  - [ANI](https://zh.wikipedia.org/wiki/ANI_\(file_format\) "wikilink")
-    – Animation
-  - [BMP](https://zh.wikipedia.org/wiki/Windows_點陣圖 "wikilink") –
-    Windows 點陣圖
+  - [ANI](https://zh.wikipedia.org/wiki/ANI_\(file_format\) "wikilink") – Animation
+  - [BMP](https://zh.wikipedia.org/wiki/Windows_點陣圖 "wikilink") – Windows 點陣圖
   - [GIF](../Page/GIF.md "wikilink") (圖像互換格式)
   - [ICO](../Page/ICO.md "wikilink")
   - [JPEG](../Page/JPEG.md "wikilink")

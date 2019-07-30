@@ -1,24 +1,18 @@
-**Show Me The Money
-3**（，简称：**SMTM3**）是[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Mnet频道制作并播出的](../Page/Mnet媒體.md "wikilink")[Hiphop](../Page/嘻哈音樂.md "wikilink")[选秀节目](../Page/真人實境秀.md "wikilink")，为[Show
-Me The
-Money系列的第三季](../Page/Show_Me_The_Money.md "wikilink")，于2014年播出。自此季起，由韩国知名的Hiphop音乐制作人担任导师。包括地下Rapper、非韩国人、学生、前SMTM参赛者在内的超过3000人报名参赛，是上一季的1.5倍。\[1\]优胜者将获得1亿韩元奖金、音源贩卖及举办特别公演的机会。
+**Show Me The Money 3**（，简称：**SMTM3**）是[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Mnet频道制作并播出的](../Page/Mnet媒體.md "wikilink")[Hiphop](../Page/嘻哈音樂.md "wikilink")[选秀节目](../Page/真人實境秀.md "wikilink")，为[Show Me The Money系列的第三季](../Page/Show_Me_The_Money.md "wikilink")，于2014年播出。自此季起，由韩国知名的Hiphop音乐制作人担任导师。包括地下Rapper、非韩国人、学生、前SMTM参赛者在内的超过3000人报名参赛，是上一季的1.5倍。\[1\]优胜者将获得1亿韩元奖金、音源贩卖及举办特别公演的机会。
 
-部分具有话题性但未进入前16强的选手包括Vismajor、Be-all、[CHANGMO](https://zh.wikipedia.org/wiki/CHANGMO "wikilink")、SAPO、、姜春赫（朝鲜说唱歌手）、、、[Kisum](../Page/Kisum.md "wikilink")、U.L.T、Born
-Kim、Tarae。
+部分具有话题性但未进入前16强的选手包括Vismajor、Be-all、[CHANGMO](https://zh.wikipedia.org/wiki/CHANGMO "wikilink")、SAPO、、姜春赫（朝鲜说唱歌手）、、、[Kisum](../Page/Kisum.md "wikilink")、U.L.T、Born Kim、Tarae。
 
 然而节目被导师及参赛者批评为“恶魔剪辑”。\[2\]尽管如此，节目的音源依然不止一次的成功主导各大音乐排行榜。\[3\]\[4\]
 
 ## 制作人团队（导师）
 
-**[Brand New Music队](../Page/Brand_New_Music.md "wikilink")（ & [San
-E](../Page/San_E.md "wikilink")）：**
+**[Brand New Music队](../Page/Brand_New_Music.md "wikilink")（ & [San E](../Page/San_E.md "wikilink")）：**
 
   - ：SMTM2参赛者
 
   - [San E](../Page/San_E.md "wikilink")
 
-**[ILLIONAIRE队](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")（[Dok2](../Page/Dok2.md "wikilink")
-& [The Quiett](../Page/The_Quiett.md "wikilink")）：**
+**[ILLIONAIRE队](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")（[Dok2](../Page/Dok2.md "wikilink") & [The Quiett](../Page/The_Quiett.md "wikilink")）：**
 
   - [Dok2](../Page/Dok2.md "wikilink")
   - [The Quiett](../Page/The_Quiett.md "wikilink")
@@ -27,8 +21,7 @@ E](../Page/San_E.md "wikilink")）：**
 
   - [YDG](../Page/梁東根.md "wikilink")
 
-**[YG队](../Page/YG娛樂.md "wikilink")（[Tablo](https://zh.wikipedia.org/wiki/李善雄 "wikilink")
-& [Masta Wu](../Page/Masta_Wu.md "wikilink")）：**
+**[YG队](../Page/YG娛樂.md "wikilink")（[Tablo](https://zh.wikipedia.org/wiki/李善雄 "wikilink") & [Masta Wu](../Page/Masta_Wu.md "wikilink")）：**
 
   - [Tablo](https://zh.wikipedia.org/wiki/李善雄 "wikilink")
   - [Masta Wu](../Page/Masta_Wu.md "wikilink")
@@ -152,15 +145,13 @@ SMTM3将举行一个特别公演，每组制作人团队分别进行表演。之
 
 SMTM3特别公演阵容
 
-参赛者将依次选择他们希望加入的制作人团队并进入相应房间。在最初选择房间后，参赛者将被给予一个更换房间的机会，这挽救了起初只有3名成员而濒临淘汰的ILLIONAIRE队。25名说唱歌手晋级到此轮。共有8人选择了YG队；Brand
-New及ILLIONAIRE队各得到了6人的选择；而YDG队则得到了5人的选择。制作人团队必须从所有选择自己团队的Rapper中选出4名组成自己的团队，而未被选中的歌手将会被淘汰。这一轮将产生SMTM3的16强Rapper。
+参赛者将依次选择他们希望加入的制作人团队并进入相应房间。在最初选择房间后，参赛者将被给予一个更换房间的机会，这挽救了起初只有3名成员而濒临淘汰的ILLIONAIRE队。25名说唱歌手晋级到此轮。共有8人选择了YG队；Brand New及ILLIONAIRE队各得到了6人的选择；而YDG队则得到了5人的选择。制作人团队必须从所有选择自己团队的Rapper中选出4名组成自己的团队，而未被选中的歌手将会被淘汰。这一轮将产生SMTM3的16强Rapper。
 
 ### 第五轮－个人表演
 
 在表演之前，将由制作人根据自定的方法从组内成员中淘汰一员。\[9\]这一轮将产生12强Rapper。
 
-Rapper的表演顺序是随机抽选的，观众投票将决定排名第一名至第十二名的Rapper，共有195名观众参与了投票。团队总分是由每名成员表演得票相加而来，团队排名为：ILLIONAIRE队垫底；YDG队第三；虽然YG队的两名Rapper忘记了歌词但依旧获得了第二名；以及Brand
-New队获得了第一。名次最高的团队将在第六轮的对决中获得决定性的优势。
+Rapper的表演顺序是随机抽选的，观众投票将决定排名第一名至第十二名的Rapper，共有195名观众参与了投票。团队总分是由每名成员表演得票相加而来，团队排名为：ILLIONAIRE队垫底；YDG队第三；虽然YG队的两名Rapper忘记了歌词但依旧获得了第二名；以及Brand New队获得了第一。名次最高的团队将在第六轮的对决中获得决定性的优势。
 
 <table>
 <caption>表演集锦（部分）</caption>
@@ -303,8 +294,7 @@ New队获得了第一。名次最高的团队将在第六轮的对决中获得�
 
 ### 第六轮－首轮公演
 
-由第五轮获胜的团队决定各团队的对阵：Brand
-New队对阵ILLIONAIRE队；YDG队对阵YG队。各团队成员的第1、2、3顺位由第五轮表演的排名决定，获得团队第一名的Rapper将自动得到公演的机会并晋级下一轮，而第二及第三名将分别准备同一首歌的两个版本，在公演日当天彩排时由制作人根据Rapper的表现，从中淘汰一人。\[11\]此轮产生了6强Rapper。上一轮、、[Bobby和](../Page/金知元_\(饒舌者\).md "wikilink")[B.I分别在各团队中排名第一](../Page/B.I.md "wikilink")，获得此轮公演的机会并提前晋级此轮公演。
+由第五轮获胜的团队决定各团队的对阵：Brand New队对阵ILLIONAIRE队；YDG队对阵YG队。各团队成员的第1、2、3顺位由第五轮表演的排名决定，获得团队第一名的Rapper将自动得到公演的机会并晋级下一轮，而第二及第三名将分别准备同一首歌的两个版本，在公演日当天彩排时由制作人根据Rapper的表现，从中淘汰一人。\[11\]此轮产生了6强Rapper。上一轮、、[Bobby和](../Page/金知元_\(饒舌者\).md "wikilink")[B.I](../Page/B.I.md "wikilink")分别在各团队中排名第一，获得此轮公演的机会并提前晋级此轮公演。
 
 公演进行中，观众将根据公演Rapper的表现进行投票，投票对应的票数则为Rapper获得的公演收入（Money）。由各团队每名成员获得的公演收入相加得出各团队获得的总收入。在团队对决中失败的团队将淘汰公演中获得收入最低的表演者。
 
@@ -531,9 +521,7 @@ New队对阵ILLIONAIRE队；YDG队对阵YG队。各团队成员的第1、2、3�
 
 ### 第八轮－半决赛
 
-由上一轮的获胜者[C Jamm决定选手对阵名单](../Page/C_Jamm.md "wikilink")。此轮竞演主题为“钱”。Brand
-New队之前保持的不败记录在此轮被打破，但获胜的[Bobby仅比](../Page/金知元_\(饒舌者\).md "wikilink")多出10票，\[13\]Brand
-New队全员遭淘汰。
+由上一轮的获胜者[C Jamm决定选手对阵名单](../Page/C_Jamm.md "wikilink")。此轮竞演主题为“钱”。Brand New队之前保持的不败记录在此轮被打破，但获胜的[Bobby仅比](../Page/金知元_\(饒舌者\).md "wikilink")多出10票，\[13\]Brand New队全员遭淘汰。
 
 <table>
 <caption>公演对阵</caption>
@@ -603,8 +591,7 @@ New队全员遭淘汰。
 
 ### 第九轮－最终回合
 
-[Bobby赢得了第一轮投票](../Page/金知元_\(饒舌者\).md "wikilink")，并最终获得胜利。在本赛季前期接连失利的ILLIONAIRE队最终获得了Show
-Me The Money 3的胜利。
+[Bobby赢得了第一轮投票](../Page/金知元_\(饒舌者\).md "wikilink")，并最终获得胜利。在本赛季前期接连失利的ILLIONAIRE队最终获得了Show Me The Money 3的胜利。
 
 | ILLIONAIRE队                                                  | VS                 | YDG队 |
 | ------------------------------------------------------------ | ------------------ | ---- |
@@ -936,8 +923,7 @@ Me The Money 3的胜利。
 
 ## 收视率
 
-以下纪录《**Show Me The Money
-3**》节目之全国收视，表示为该年度最高收视率，则表示为该年度最低收视率。\[17\]\[18\]
+以下纪录《**Show Me The Money 3**》节目之全国收视，表示为该年度最高收视率，则表示为该年度最低收视率。\[17\]\[18\]
 
 <table>
 <thead>
@@ -1007,10 +993,7 @@ Me The Money 3的胜利。
 
   - [Show Me The Money 3](http://www.mnet.com/tv/program/1054) - 官方网站
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:韩国音乐比赛](https://zh.wikipedia.org/wiki/Category:韩国音乐比赛 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:韩国音乐比赛](https://zh.wikipedia.org/wiki/Category:韩国音乐比赛 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
 1.
 2.

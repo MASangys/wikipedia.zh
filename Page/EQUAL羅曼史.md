@@ -1,5 +1,4 @@
-《**EQUAL羅曼史**》（）是[日本](../Page/日本.md "wikilink")[女子偶像組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[CoCo的首張單曲](../Page/CoCo_\(組合\).md "wikilink")。1989年9月6日由[Pony
-Canyon發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+《**EQUAL羅曼史**》（）是[日本](../Page/日本.md "wikilink")[女子偶像組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[CoCo的首張單曲](../Page/CoCo_\(組合\).md "wikilink")。1989年9月6日由[Pony Canyon發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 解說
 
@@ -28,23 +27,16 @@ Canyon發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
   - 翻唱版曾被[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[鈴鐺貓娘Nyo](../Page/Di_Gi_Charat.md "wikilink")》當作片尾主題曲使用。並在同名作品所採用的片尾曲中實屬異例。
 
-  - [福圓美里](../Page/福圓美里.md "wikilink")&[釘宮理惠翻唱版則收錄在電視動畫](../Page/釘宮理惠.md "wikilink")《[十字架與吸血鬼](../Page/十字架與吸血鬼.md "wikilink")》衍生的CD專輯《[十字架+吸血姬
-    IDOL COVER
-    BEST](https://zh.wikipedia.org/wiki/十字架與吸血鬼#CD "wikilink")》。另外該CD專輯大多收錄了1980年代偶像歌手歌曲的翻唱版。
+  - [福圓美里](../Page/福圓美里.md "wikilink")&[釘宮理惠](../Page/釘宮理惠.md "wikilink")翻唱版則收錄在電視動畫《[十字架與吸血鬼](../Page/十字架與吸血鬼.md "wikilink")》衍生的CD專輯《[十字架+吸血姬 IDOL COVER BEST](https://zh.wikipedia.org/wiki/十字架與吸血鬼#CD "wikilink")》。另外該CD專輯大多收錄了1980年代偶像歌手歌曲的翻唱版。
 
-  - [長嶋陽香翻唱版則是由](../Page/長嶋陽香.md "wikilink")[前山田健一／hyadain擔任編曲](../Page/前山田健一.md "wikilink")。後當作萌系線上麻雀遊戲「桃色大戰」的主題歌曲收錄。
+  - [長嶋陽香](../Page/長嶋陽香.md "wikilink")翻唱版則是由[前山田健一](../Page/前山田健一.md "wikilink")／hyadain擔任編曲。後當作萌系線上麻雀遊戲「桃色大戰」的主題歌曲收錄。
 
 ## 逸話
 
-  - [演員](../Page/演員.md "wikilink")[仲間由紀惠曾說自己在國中時期是](https://zh.wikipedia.org/wiki/仲間由紀惠 "wikilink")《亂馬》的大粉絲。因此在2003年，仲間上電視節目「[24小時電視
-    「愛心救地球」](../Page/24小時電視_「愛心救地球」.md "wikilink")」時，曾主動要求節目點播『EQUAL羅曼史』這首歌曲。
+  - [演員](../Page/演員.md "wikilink")[仲間由紀惠曾說自己在國中時期是](https://zh.wikipedia.org/wiki/仲間由紀惠 "wikilink")《亂馬》的大粉絲。因此在2003年，仲間上電視節目「[24小時電視 「愛心救地球」](../Page/24小時電視_「愛心救地球」.md "wikilink")」時，曾主動要求節目點播『EQUAL羅曼史』這首歌曲。
 
 ## 相關項目
 
-  - －[桑島由一的](../Page/桑島由一.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")。在第2冊的副標題「乙女」文中表示是對『EQUAL羅曼史』這首單曲表示[致敬](../Page/致敬.md "wikilink")。
+  - －[桑島由一](../Page/桑島由一.md "wikilink")的[輕小說](../Page/輕小說.md "wikilink")。在第2冊的副標題「乙女」文中表示是對『EQUAL羅曼史』這首單曲表示[致敬](../Page/致敬.md "wikilink")。
 
-[Category:1989年單曲](https://zh.wikipedia.org/wiki/Category:1989年單曲 "wikilink")
-[Category:亂馬½](https://zh.wikipedia.org/wiki/Category:亂馬½ "wikilink")
-[Category:富士電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:富士電視台動畫主題曲 "wikilink")
-[Category:波麗佳音歌曲](https://zh.wikipedia.org/wiki/Category:波麗佳音歌曲 "wikilink")
-[Category:翻唱歌曲](https://zh.wikipedia.org/wiki/Category:翻唱歌曲 "wikilink")
+[Category:1989年單曲](https://zh.wikipedia.org/wiki/Category:1989年單曲 "wikilink") [Category:亂馬½](https://zh.wikipedia.org/wiki/Category:亂馬½ "wikilink") [Category:富士電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:富士電視台動畫主題曲 "wikilink") [Category:波麗佳音歌曲](https://zh.wikipedia.org/wiki/Category:波麗佳音歌曲 "wikilink") [Category:翻唱歌曲](https://zh.wikipedia.org/wiki/Category:翻唱歌曲 "wikilink")

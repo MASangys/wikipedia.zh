@@ -1,18 +1,6 @@
-**Sony Xperia Z5 Premium**(国行名为：Xperia
-Z5尊享版，通称Z5P)，是[索尼於](../Page/索尼.md "wikilink")2015年9月2日在柏林發表的旗艦手機，也是[Xperia系列中首部Premium机型](../Page/Xperia.md "wikilink")。搭載5.5吋螢幕、[高通](../Page/高通.md "wikilink")
-[Snapdragon 810](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")
-MSM8994 2.0GHz + 1.5GHz 八核心處理器、3GB記憶體、2,300萬畫素 25mm
-G鏡且支援4K錄影，120fps慢動作錄影，支援 IP65 / 68
-防水、防塵功能，配有指紋傳感器。\[1\]
+**Sony Xperia Z5 Premium**(国行名为：Xperia Z5尊享版，通称Z5P)，是[索尼](../Page/索尼.md "wikilink")於2015年9月2日在柏林發表的旗艦手機，也是[Xperia](../Page/Xperia.md "wikilink")系列中首部Premium机型。搭載5.5吋螢幕、[高通](../Page/高通.md "wikilink") [Snapdragon 810](https://zh.wikipedia.org/wiki/Snapdragon "wikilink") MSM8994 2.0GHz + 1.5GHz 八核心處理器、3GB記憶體、2,300萬畫素 25mm G鏡且支援4K錄影，120fps慢動作錄影，支援 IP65 / 68 防水、防塵功能，配有指紋傳感器。\[1\]
 
-Xperia Z5 Premium為安卓作業系統的旗艦級高階智慧型手機。同期的主要競爭對手有[Samsung Galaxy Note
-5](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_5 "wikilink")、[Samsung
-Galaxy Galaxy S6
-edge+](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Galaxy_S6_edge+ "wikilink")、[LG
-V10](https://zh.wikipedia.org/wiki/LG_V10 "wikilink")、[HTC One
-M9+](../Page/HTC_One_M9+.md "wikilink")、[Microsoft Lumia 950
-XL](https://zh.wikipedia.org/wiki/Microsoft_Lumia_950_XL "wikilink")、[Apple
-iPhone 6s Plus](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")。
+Xperia Z5 Premium為安卓作業系統的旗艦級高階智慧型手機。同期的主要競爭對手有[Samsung Galaxy Note 5](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_5 "wikilink")、[Samsung Galaxy Galaxy S6 edge+](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Galaxy_S6_edge+ "wikilink")、[LG V10](https://zh.wikipedia.org/wiki/LG_V10 "wikilink")、[HTC One M9+](../Page/HTC_One_M9+.md "wikilink")、[Microsoft Lumia 950 XL](https://zh.wikipedia.org/wiki/Microsoft_Lumia_950_XL "wikilink")、[Apple iPhone 6s Plus](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")。
 
 Xperia Z5 Premium亦為Sony Xperia Z系列旗艦機中最後一部手機。
 
@@ -28,10 +16,8 @@ Xperia Z5 Premium亦為Sony Xperia Z系列旗艦機中最後一部手機。
 
 ### 螢幕
 
-Xperia Z5
-Premium是全球首部搭载4K分辨率的智慧型手機，ppi高達806。但一般情怳下為減免電量消耗過度，只會輸出1080P，在看圖和影片時才輸出4K畫質。
-自[Android
-6.0之后](../Page/Android_Marshmallow.md "wikilink")，系统以全局4K输出，但大部分第三方App没有进行4K的优化，仍旧以1080P输出。\[2\]
+Xperia Z5 Premium是全球首部搭载4K分辨率的智慧型手機，ppi高達806。但一般情怳下為減免電量消耗過度，只會輸出1080P，在看圖和影片時才輸出4K畫質。
+自[Android 6.0之后](../Page/Android_Marshmallow.md "wikilink")，系统以全局4K输出，但大部分第三方App没有进行4K的优化，仍旧以1080P输出。\[2\]
 
 ### 相機
 
@@ -144,11 +130,7 @@ LTE</p></td>
 
 ## 參考資料
 
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")
-[Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
+[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink") [Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
 
 1.
 2.

@@ -1,17 +1,14 @@
-《**機動戰士高達
-鐵血的孤兒**》（）是2015年10月4日播出的[鋼彈動畫作品](https://zh.wikipedia.org/wiki/鋼彈 "wikilink")。這套作品的消息，由[每日放送](../Page/每日放送.md "wikilink")(MBS)於2015年7月15日首次公布\[1\]\[2\]，於2016年10月2日上映第二季。本作口號為「生命之糧，就在戰場」，並受日本知名雜誌「[Animage](../Page/Animage.md "wikilink")」獲選為ANIME
-GRAND-PRIX第39回年度最佳動畫大獎第一名，並且在同年由日本[NHK電視台所舉辦的](https://zh.wikipedia.org/wiki/NHK電視台 "wikilink")「BestAnime100」萬作票選中得到了第70名的殊榮，為前一百名內的三部鋼彈作品之一。
+《**機動戰士高達 鐵血的孤兒**》（）是2015年10月4日播出的[鋼彈動畫作品](https://zh.wikipedia.org/wiki/鋼彈 "wikilink")。這套作品的消息，由[每日放送](../Page/每日放送.md "wikilink")(MBS)於2015年7月15日首次公布\[1\]\[2\]，於2016年10月2日上映第二季。本作口號為「生命之糧，就在戰場」，並受日本知名雜誌「[Animage](../Page/Animage.md "wikilink")」獲選為ANIME GRAND-PRIX第39回年度最佳動畫大獎第一名，並且在同年由日本[NHK電視台所舉辦的](https://zh.wikipedia.org/wiki/NHK電視台 "wikilink")「BestAnime100」萬作票選中得到了第70名的殊榮，為前一百名內的三部鋼彈作品之一。
 
 ## 製作背景
 
-由聯手創作過《[我們仍未知道那天所看見的花的名字。](../Page/我們仍未知道那天所看見的花的名字。.md "wikilink")》的[長井龍雪和](https://zh.wikipedia.org/wiki/長井龍雪 "wikilink")[岡田麿里擔當監督和系列构成](../Page/岡田麿里.md "wikilink")。作品將圍繞兩種關鍵字展開，一是「具有強烈戲劇性，以少年故事為主的鋼彈」，二是「實現階段性變革的鋼彈」。與其他鋼彈作品不同之处是，監督長井龍雪曾在雜誌訪談裡表示「戰艦會被一發光束幹掉太奇怪」，所以本作是自鋼彈誕生至今以來首部完全沒有採用「光束兵器」，而是採用「實體質量兵器」為主的新鋼彈系列作品，除此之外由於監督本人也表明「沒有體驗過戰爭」，因此本作是以描寫日本黑社會歴史作品《[無仁義之戰](../Page/無仁義之戰.md "wikilink")》作為參考題材。
+由聯手創作過《[我們仍未知道那天所看見的花的名字。](../Page/我們仍未知道那天所看見的花的名字。.md "wikilink")》的[長井龍雪和](https://zh.wikipedia.org/wiki/長井龍雪 "wikilink")[岡田麿里](../Page/岡田麿里.md "wikilink")擔當監督和系列构成。作品將圍繞兩種關鍵字展開，一是「具有強烈戲劇性，以少年故事為主的鋼彈」，二是「實現階段性變革的鋼彈」。與其他鋼彈作品不同之处是，監督長井龍雪曾在雜誌訪談裡表示「戰艦會被一發光束幹掉太奇怪」，所以本作是自鋼彈誕生至今以來首部完全沒有採用「光束兵器」，而是採用「實體質量兵器」為主的新鋼彈系列作品，除此之外由於監督本人也表明「沒有體驗過戰爭」，因此本作是以描寫日本黑社會歴史作品《[無仁義之戰](../Page/無仁義之戰.md "wikilink")》作為參考題材。
 
 ## 故事簡介
 
 ### 第一季
 
-本作開始於P.D.（Post
-Disaster）323年。三百年前，地球發生了名為「[厄祭戰爭](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒#世界觀、歷史 "wikilink")」的大戰，大戰結束後，[地球圈捨棄了過去的統治方式](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒#地球 "wikilink")，以新的支配體系，構築了全新的世界。但就在遙遠的[火星圈裏](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒#火星 "wikilink")，那些從屬於地球圈的殖民地上，開始了來自民眾的不滿與躁動。火星都市[克里斯上的人](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒#地名、設施 "wikilink")，希望從地球勢力統治下經濟獨立。身為獨立派領袖的[庫德莉雅·藍那·伯恩斯坦](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒角色列表#主要人物 "wikilink")，成為地球勢力一方的眼中釘。地球勢力一方派遣「[加拉爾號角](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒#地球 "wikilink")」前去火星，企圖暗殺或控制庫德莉雅。「加拉爾號角」是個以戰力凌人的武裝組織，負責摘除任何叛亂、危害地球圈利益的可能因子。
+本作開始於P.D.（Post Disaster）323年。三百年前，地球發生了名為「[厄祭戰爭](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒#世界觀、歷史 "wikilink")」的大戰，大戰結束後，[地球圈捨棄了過去的統治方式](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒#地球 "wikilink")，以新的支配體系，構築了全新的世界。但就在遙遠的[火星圈裏](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒#火星 "wikilink")，那些從屬於地球圈的殖民地上，開始了來自民眾的不滿與躁動。火星都市[克里斯上的人](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒#地名、設施 "wikilink")，希望從地球勢力統治下經濟獨立。身為獨立派領袖的[庫德莉雅·藍那·伯恩斯坦](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒角色列表#主要人物 "wikilink")，成為地球勢力一方的眼中釘。地球勢力一方派遣「[加拉爾號角](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒#地球 "wikilink")」前去火星，企圖暗殺或控制庫德莉雅。「加拉爾號角」是個以戰力凌人的武裝組織，負責摘除任何叛亂、危害地球圈利益的可能因子。
 
 主角[三日月·奧格斯是一間獨立自治區的民營保全公司](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒角色列表#主要人物 "wikilink")「[克里斯護衛保全](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒#勢力和組織 "wikilink")」（簡稱：CGS）三號隊的成員。CGS收留窮苦無依的孤兒編入三號隊，並強行施予「[阿賴耶識系統植入手術](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒世界觀及設定#阿賴耶識系統 "wikilink")」方便駕馭機動工兵。在內部管理上，三號隊視為CGS主力部隊一號隊的後備部隊，即使擁有不凡駕駛技術的隊員三日月、[昭弘](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒角色列表#主要成員 "wikilink")、[尤真等人](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒角色列表#主要成員 "wikilink")，仍受到相當大差別的待遇。
 
@@ -66,8 +63,7 @@ P.D.325年，因為地球之旅而得知世界實情的古荻利亞設立了「[
   -
 
       -
-        作詞：Kamikaze Boy、Jean-Ken Johnny，作曲：Kamikaze Boy，編曲、主唱：[MAN WITH
-        A MISSION](../Page/MAN_WITH_A_MISSION.md "wikilink")
+        作詞：Kamikaze Boy、Jean-Ken Johnny，作曲：Kamikaze Boy，編曲、主唱：[MAN WITH A MISSION](../Page/MAN_WITH_A_MISSION.md "wikilink")
         第1話作片尾曲使用，TBS和AT-X在第1話片尾曲有搭配片頭動畫作結束，其它電視台則是在第1話片尾曲搭配幕後製作，片頭動畫一律在第2話才有播出。
 
 :;「Survivor」（第14－25話）
@@ -75,8 +71,7 @@ P.D.325年，因為地球之旅而得知世界實情的古荻利亞設立了「[
   -
 
       -
-        作詞、作曲：田邊駿一，主唱：[BLUE
-        ENCOUNT](https://zh.wikipedia.org/wiki/BLUE_ENCOUNT "wikilink")
+        作詞、作曲：田邊駿一，主唱：[BLUE ENCOUNT](https://zh.wikipedia.org/wiki/BLUE_ENCOUNT "wikilink")
 
 :;「RAGE OF DUST」（第27－38話）
 
@@ -1275,14 +1270,13 @@ P.D.325年，因為地球之旅而得知世界實情的古荻利亞設立了「[
 ### 網絡配信
 
   -
-    網絡广播《鐵華團放送局》於2015年10月4日起，每周日在音泉網配信。主持人由[河西健吾和](../Page/河西健吾.md "wikilink")[寺崎裕香担当](../Page/寺崎裕香.md "wikilink")。
+    網絡广播《鐵華團放送局》於2015年10月4日起，每周日在音泉網配信。主持人由[河西健吾](../Page/河西健吾.md "wikilink")和[寺崎裕香](../Page/寺崎裕香.md "wikilink")担当。
 
 ### 外傳
 
   - 機動戰士GUNDAM 鐵血孤兒 月鋼（）
     「月鋼」於日語中與「月光」同音，承接本篇「三日月」（新月）及「鐵華」之意像。（一說含義為「月球上的鋼彈」，故稱為「月鋼」。唯「鋼彈」於日語並無漢字，故此說不成立。）
-    於2016年春開始在GUNDAM
-    ACE上連載，第一季時間點位於本傳第一季第14集至第18集；而第二季則位於本傳第二季的一年前，也就是P.D.324年。
+    於2016年春開始在GUNDAM ACE上連載，第一季時間點位於本傳第一季第14集至第18集；而第二季則位於本傳第二季的一年前，也就是P.D.324年。
     第一季共有六話，第二季預計2017年春連載。
 
 <!-- end list -->
@@ -1310,31 +1304,15 @@ P.D.325年，因為地球之旅而得知世界實情的古荻利亞設立了「[
 
       - [機動戰士GUNDAM 鐵血的孤兒 月鋼](http://g-tekketsu.com/MSV/)（MSV外傳）
 
-  - [《機動戰士-{高}-達 鐵血-{的}-孤兒》](http://hk.gundam.info/series/tekketsu/)
-    （官方網站）
+  - [《機動戰士-{高}-達 鐵血-{的}-孤兒》](http://hk.gundam.info/series/tekketsu/) （官方網站）
 
-  - [《機動戰士-{高}-達
-    鐵血-{的}-孤兒》TVB官方網站](http://programme.tvb.com/animation/msgironbloodedorphans)
+  - [《機動戰士-{高}-達 鐵血-{的}-孤兒》TVB官方網站](http://programme.tvb.com/animation/msgironbloodedorphans)
 
   -
-[Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink")
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink")
-[Category:童兵題材作品](https://zh.wikipedia.org/wiki/Category:童兵題材作品 "wikilink")
-[Category:孤兒題材作品](https://zh.wikipedia.org/wiki/Category:孤兒題材作品 "wikilink")
-[Category:宇宙海盜題材動畫](https://zh.wikipedia.org/wiki/Category:宇宙海盜題材動畫 "wikilink")
-[Category:火星背景作品](https://zh.wikipedia.org/wiki/Category:火星背景作品 "wikilink")
-[Category:未來題材作品](https://zh.wikipedia.org/wiki/Category:未來題材作品 "wikilink")
-[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
+[Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink") [Category:童兵題材作品](https://zh.wikipedia.org/wiki/Category:童兵題材作品 "wikilink") [Category:孤兒題材作品](https://zh.wikipedia.org/wiki/Category:孤兒題材作品 "wikilink") [Category:宇宙海盜題材動畫](https://zh.wikipedia.org/wiki/Category:宇宙海盜題材動畫 "wikilink") [Category:火星背景作品](https://zh.wikipedia.org/wiki/Category:火星背景作品 "wikilink") [Category:未來題材作品](https://zh.wikipedia.org/wiki/Category:未來題材作品 "wikilink") [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 
-1.  [Sunrise Announces New Gundam
-    Series](http://www.animenewsnetwork.com/news/2015-07-04/sunrise-announces-new-gundam-series/.90081)
-2.  [The Fall 2015 Anime Preview Guide: Mobile Suit Gundam: Iron-Blooded
-    Orphans](https://www.animenewsnetwork.com/preview-guide/2015/fall/mobile-suit-gundam-iron-blooded-orphans/.93774)
+1.  [Sunrise Announces New Gundam Series](http://www.animenewsnetwork.com/news/2015-07-04/sunrise-announces-new-gundam-series/.90081)
+2.  [The Fall 2015 Anime Preview Guide: Mobile Suit Gundam: Iron-Blooded Orphans](https://www.animenewsnetwork.com/preview-guide/2015/fall/mobile-suit-gundam-iron-blooded-orphans/.93774)
 3.  [劇情簡介大陸簡體](http://cn.gundam.info/series/tekketsu)
 4.  [劇情簡介台灣正體](http://tw.gundam.info/series/tekketsu)
 5.  [劇情簡介香港繁體](http://hk.gundam.info/series/tekketsu)

@@ -1,7 +1,4 @@
-[缩略图](https://zh.wikipedia.org/wiki/File:SIMM_30_68_72.png "fig:缩略图")
-**单列直插式内存模块**（**single in-line memory
-module**，缩写**SIMM**）是一种在20世纪80年代初到90年代后期在计算机中使用的包含[随机存取存储器的内存模块](../Page/随机存取存储器.md "wikilink")。它与现今最常见的[双列直插式内存模块](../Page/DIMM.md "wikilink")（DIMM）不同之处在于，SIMM模块两侧的触点是的。SIMM根据[JEDEC](../Page/JEDEC.md "wikilink")
-JESD-21C标准进行了标准化。
+[缩略图](https://zh.wikipedia.org/wiki/File:SIMM_30_68_72.png "fig:缩略图") **单列直插式内存模块**（**single in-line memory module**，缩写**SIMM**）是一种在20世纪80年代初到90年代后期在计算机中使用的包含[随机存取存储器](../Page/随机存取存储器.md "wikilink")的内存模块。它与现今最常见的[双列直插式内存模块](../Page/DIMM.md "wikilink")（DIMM）不同之处在于，SIMM模块两侧的触点是的。SIMM根据[JEDEC](../Page/JEDEC.md "wikilink") JESD-21C标准进行了标准化。
 
 大多数早期PC[主板](../Page/主板.md "wikilink")（基于[8088的PC](../Page/Intel_8088.md "wikilink")、、和早期[AT](https://zh.wikipedia.org/wiki/IBM_PC_AT "wikilink")）采用面向[DRAM的插座式](../Page/动态随机存取存储器.md "wikilink")[雙列直插封裝](../Page/雙列直插封裝.md "wikilink")（DIP）芯片。随着计算机内存容量的增长，内存模块被用于节约主板空间和简化内存扩展。相比插入八、九个DIP芯片，只需插入一个内存模块就能增加计算机的内存。
 
@@ -9,12 +6,9 @@ JESD-21C标准进行了标准化。
 
 ## 30针SIMM
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Atari_STE_256kB_RAM_1.jpg "fig:缩略图")
-[缩略图](https://zh.wikipedia.org/wiki/File:SIMM_Bank.jpg "fig:缩略图")
-50型号主板上的\]\] 标准大小：256 KB、1 MB、4 MB、16 MB
+[缩略图](https://zh.wikipedia.org/wiki/File:Atari_STE_256kB_RAM_1.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:SIMM_Bank.jpg "fig:缩略图") 50型号主板上的\]\] 标准大小：256 KB、1 MB、4 MB、16 MB
 
-30针SIMM有12个地址行，它可以提供总计24个地址位元。对于8位数据宽度，则奇偶校验和非奇偶校验模块的绝对最大容量为16
-MB（额外的冗余位元芯片通常对可用容量无贡献）。
+30针SIMM有12个地址行，它可以提供总计24个地址位元。对于8位数据宽度，则奇偶校验和非奇偶校验模块的绝对最大容量为16 MB（额外的冗余位元芯片通常对可用容量无贡献）。
 
 | 针脚 \# | 名称             | 信号说明                  | 针脚 \# | 名称                 | 信号说明                         |
 | ----- | -------------- | --------------------- | ----- | ------------------ | ---------------------------- |
@@ -40,12 +34,9 @@ MB（额外的冗余位元芯片通常对可用容量无贡献）。
 
 ## 72针SIMM
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Edoram.jpg "fig:缩略图") 标准大小：1
-MB、2 MB、4 MB、8 MB、16 MB、32 MB、64 MB、128 MB（标准也定义了有额外地址行且最高2 GB的3.3
-V模块）
+[缩略图](https://zh.wikipedia.org/wiki/File:Edoram.jpg "fig:缩略图") 标准大小：1 MB、2 MB、4 MB、8 MB、16 MB、32 MB、64 MB、128 MB（标准也定义了有额外地址行且最高2 GB的3.3 V模块）
 
-采用12个地址线，可以提供总计24个地址位元，两个芯片Rank，以及32位元数据输出，绝对最大容量为2<sup>27</sup> = 128
-MB。
+采用12个地址线，可以提供总计24个地址位元，两个芯片Rank，以及32位元数据输出，绝对最大容量为2<sup>27</sup> = 128 MB。
 
 | 针脚 \# | 名称                      | 信号说明                                 | 针脚 \# | 名称                           | 信号说明                                               |
 | ----- | ----------------------- | ------------------------------------ | ----- | ---------------------------- | -------------------------------------------------- |
@@ -100,14 +91,11 @@ MB。
 
 ### GVP 64针
 
-用于[Commodore](../Page/康懋达国际.md "wikilink")
-[Amiga的多款CPU卡使用特殊的](../Page/Amiga.md "wikilink")64针SIMM（32位元宽，1、4或16
-MB，60 ns）。
+用于[Commodore](../Page/康懋达国际.md "wikilink") [Amiga](../Page/Amiga.md "wikilink")的多款CPU卡使用特殊的64针SIMM（32位元宽，1、4或16 MB，60 ns）。
 
 ### 苹果公司64针
 
-[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")计算机中使用[雙埠](https://zh.wikipedia.org/wiki/雙埠隨機存取記憶體 "wikilink")64针SIMM，这允许重叠的读/写周期（1、4、8、16
-MB，80 ns）。\[2\]\[3\]
+[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")计算机中使用[雙埠](https://zh.wikipedia.org/wiki/雙埠隨機存取記憶體 "wikilink")64针SIMM，这允许重叠的读/写周期（1、4、8、16 MB，80 ns）。\[2\]\[3\]
 
 | 针脚 \# | 名称   | 信号说明                            | 针脚 \# | 名称   | 信号说明                            |
 | ----- | ---- | ------------------------------- | ----- | ---- | ------------------------------- |
@@ -166,14 +154,11 @@ MB，80 ns）。\[2\]\[3\]
 
 ## 外部链接
 
-  - [General SIMM Installation
-    Guide](https://web.archive.org/web/20120716225721/http://www.edgetechcorp.com/support/installation-manuals/1000%20General%20SIMM%20Ver2%2809-04%29.pdf)
+  - [General SIMM Installation Guide](https://web.archive.org/web/20120716225721/http://www.edgetechcorp.com/support/installation-manuals/1000%20General%20SIMM%20Ver2%2809-04%29.pdf)
 
 [Category:電腦記憶體](https://zh.wikipedia.org/wiki/Category:電腦記憶體 "wikilink")
 
-1.  [JEDEC Standard No. 21-C,
-    Section 4.4.2](http://www.jedec.org/sites/default/files/docs/4_04_02R8.PDF)
-    "72 pin SIMM DRAM Module Family"
+1.  [JEDEC Standard No. 21-C, Section 4.4.2](http://www.jedec.org/sites/default/files/docs/4_04_02R8.PDF) "72 pin SIMM DRAM Module Family"
 2.  [Macintosh IIfx](http://www.lowendmac.com/ii/macintosh-iifx.html)
 3.
 4.

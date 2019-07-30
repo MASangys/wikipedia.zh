@@ -1,25 +1,23 @@
-**OTA位图**（**OTA
-Bitmap**）是[诺基亚](../Page/诺基亚.md "wikilink")（Nokia）为手机上的黑白图像定义的一个规范。
+**OTA位图**（**OTA Bitmap**）是[诺基亚](../Page/诺基亚.md "wikilink")（Nokia）为手机上的黑白图像定义的一个规范。
 
 ## 引入
 
-OTA或Over The Air位图由[诺基亚公司在其](../Page/诺基亚.md "wikilink")（Smart
-Messaging）规范中定义，用以通过一条或多条[串接的](https://zh.wikipedia.org/wiki/串接 "wikilink")[SMS文本消息发送图片](https://zh.wikipedia.org/wiki/SMS "wikilink")。该格式所支持的最大尺寸为255x255像素。OTA位图主要为72x28像素（图片消息）或72x14/72x13像素（[运营商标志](https://zh.wikipedia.org/wiki/运营商标志 "wikilink")）。该规范包含标示多色图像的数据字节，这是为未来准备，但因为[多媒體短訊的出现](https://zh.wikipedia.org/wiki/多媒體短訊 "wikilink")，它从未被实现。
+OTA或Over The Air位图由[诺基亚](../Page/诺基亚.md "wikilink")公司在其（Smart Messaging）规范中定义，用以通过一条或多条[串接的](https://zh.wikipedia.org/wiki/串接 "wikilink")[SMS文本消息发送图片](https://zh.wikipedia.org/wiki/SMS "wikilink")。该格式所支持的最大尺寸为255x255像素。OTA位图主要为72x28像素（图片消息）或72x14/72x13像素（[运营商标志](https://zh.wikipedia.org/wiki/运营商标志 "wikilink")）。该规范包含标示多色图像的数据字节，这是为未来准备，但因为[多媒體短訊的出现](https://zh.wikipedia.org/wiki/多媒體短訊 "wikilink")，它从未被实现。
 
 ## 基本格式描述
 
-**OTA位图**格式为每位元一个像素的单色、未压缩格式。该格式是为手机设计，而不是标准的计算机格式。它可以存储为[二进制文件](https://zh.wikipedia.org/wiki/二进制文件 "wikilink")，或者以十六进制格式（通常无空格）存储在文本文件中。可辨识[文件扩展名为](../Page/文件扩展名.md "wikilink")**.otb**。
+**OTA位图**格式为每位元一个像素的单色、未压缩格式。该格式是为手机设计，而不是标准的计算机格式。它可以存储为[二进制文件](https://zh.wikipedia.org/wiki/二进制文件 "wikilink")，或者以十六进制格式（通常无空格）存储在文本文件中。可辨识[文件扩展名](../Page/文件扩展名.md "wikilink")为**.otb**。
 
 ## 格式版权
 
-该格式的版权属于[诺基亚公司](../Page/诺基亚.md "wikilink")。
+该格式的版权属于[诺基亚](../Page/诺基亚.md "wikilink")公司。
 
 ## 数据头
 
 该图像本身有一个头部标识。标头宽度为四个字节。典型例子为：`00 48 1C 01`。含义如下：
 
 `  00  “信息字段”（始终保持为00）。`
-`  48  位图宽度。此例为72像素（48为72的`[`十六进制格式`](../Page/十六进制.md "wikilink")`）。`
+`  48  位图宽度。此例为72像素（48为72的`[`十六进制`](../Page/十六进制.md "wikilink")格式`）。`
 `  1C  位图高度。此例为28像素（1C为28的十六进制格式）。`
 `  01  颜色数（始终为1）。`
 
@@ -27,10 +25,9 @@ Messaging）规范中定义，用以通过一条或多条[串接的](https://zh.
 
 ## 像素编码
 
-标头之后为图像本身。下面的例子将使用下列72x28像素图像。
-最初的8个像素从左上角向右，先是白色（0），其次是七个黑色（1111111）。[二进制格式的首个](https://zh.wikipedia.org/wiki/二进制 "wikilink")[字节为](../Page/字节.md "wikilink")01111111。
+标头之后为图像本身。下面的例子将使用下列72x28像素图像。 最初的8个像素从左上角向右，先是白色（0），其次是七个黑色（1111111）。[二进制格式的首个](https://zh.wikipedia.org/wiki/二进制 "wikilink")[字节](../Page/字节.md "wikilink")为01111111。
 
-将[二进制格式的](https://zh.wikipedia.org/wiki/二进制 "wikilink")01111111转换到[十六进制格式后](../Page/十六进制.md "wikilink")，首个表示像素的字节将是7F。接下来是8个黑色（1​​1111111或FF）等等。
+将[二进制格式的](https://zh.wikipedia.org/wiki/二进制 "wikilink")01111111转换到[十六进制](../Page/十六进制.md "wikilink")格式后，首个表示像素的字节将是7F。接下来是8个黑色（1​​1111111或FF）等等。
 
 当顶行的所有像素都被编码时，只需移动到下一行。没有用于指示新行的标记，该信息包含在标头中。
 
@@ -88,11 +85,8 @@ Messaging）规范中定义，用以通过一条或多条[串接的](https://zh.
 
 ## 外部链接
 
-  - [Forum
-    Nokia](https://web.archive.org/web/20080120155220/http://www.forum.nokia.com/#navi)
-    - 诺基亚开发者网站
+  - [Forum Nokia](https://web.archive.org/web/20080120155220/http://www.forum.nokia.com/#navi) - 诺基亚开发者网站
 
-[Category:诺基亚](https://zh.wikipedia.org/wiki/Category:诺基亚 "wikilink")
-[Category:位图](https://zh.wikipedia.org/wiki/Category:位图 "wikilink")
+[Category:诺基亚](https://zh.wikipedia.org/wiki/Category:诺基亚 "wikilink") [Category:位图](https://zh.wikipedia.org/wiki/Category:位图 "wikilink")
 
 1.

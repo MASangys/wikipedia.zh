@@ -152,7 +152,7 @@
 <td><p><small><a href="../Page/希普諾夫2A72機炮.md" title="wikilink">30mm 2A72機炮</a><br />
 或<a href="../Page/KPV重機槍.md" title="wikilink">14.5 mm KPVT重機槍</a><br />
 <a href="../Page/PK通用機槍.md" title="wikilink">7.62 mm PKT機槍</a></small></p></td>
-<td><p><small>25 mm M811機砲<br />
+<td><p><small><a href="../Page/GIAT_M811機炮.md" title="wikilink">25 mm M811機砲</a><br />
 <a href="../Page/AA-52通用機槍.md" title="wikilink">NF1 7.62mm機槍</a></small></p></td>
 <td><p><small></p></td>
 <td><p><small><a href="../Page/白朗寧M2重機槍.md" title="wikilink">12.7mm白朗寧M2重機槍</a><br />
@@ -164,11 +164,11 @@
 <td><p><small><a href="../Page/CIS_40_AGL自动榴弹发射器.md" title="wikilink">CIS 40 AGL自动榴弹发射器</a><br />
 7.62 mm同轴机枪<br />
 CIS SGL</small></p></td>
-<td><p><small>ZTM-1 30mm機炮<br />
+<td><p><small><a href="../Page/希普諾夫2A72機炮.md" title="wikilink">ZTM-1 30mm機炮</a><br />
 KT-7.62mm同轴机枪<br />
 30mm自动榴弹发射器<br />
 <a href="../Page/9M133短號反坦克导弹.md" title="wikilink">9M133短號反坦克导弹</a></small></p></td>
-<td><p><small>ZTM-1 30mm機炮<br />
+<td><p><small><a href="../Page/希普諾夫2A72機炮.md" title="wikilink">ZTM-1 30mm機炮</a><br />
 KT-7.62mm同轴机枪<br />
 30mm自动榴弹发射器<br />
 <a href="../Page/9M133短號反坦克导弹.md" title="wikilink">9M133短號反坦克导弹</a></small></p></td>
@@ -227,22 +227,15 @@ KT-7.62mm同轴机枪<br />
 
 ## 外部链接
 
-  - [BTR-3U Armoured Personnel
-    Carrier](http://www.morozov.com.ua/eng/body/btr3u.php?menu=m1.php)
-    at KMDB
-  - [UN register of conventional
-    arms](https://web.archive.org/web/20081214211015/http://disarmament.un.org/UN_REGISTER.NSF)
-  - [BTR-3E1 Armoured Personnel
-    Carrier](http://www.army-technology.com/projects/btr-3e1-apc/),
-    Ukraine
+  - [BTR-3U Armoured Personnel Carrier](http://www.morozov.com.ua/eng/body/btr3u.php?menu=m1.php) at KMDB
+  - [UN register of conventional arms](https://web.archive.org/web/20081214211015/http://disarmament.un.org/UN_REGISTER.NSF)
+  - [BTR-3E1 Armoured Personnel Carrier](http://www.army-technology.com/projects/btr-3e1-apc/), Ukraine
 
 [Category:裝甲運兵車](https://zh.wikipedia.org/wiki/Category:裝甲運兵車 "wikilink")
 
 1.  [烏克蘭授權緬造8X8裝甲戰車BTR-3U駕臨果敢](http://blog.sina.cn/dpool/blog/s/blog_74da95190102vemf.html)
 2.
 3.
-4.  [List of military techniques Azerbaijan acquired over the past 7
-    years](http://en.apa.az/news.php?id=52414)
-5.  [UNITED NATIONS - Office for Disarmament
-    Affairs](http://disarmament.un.org/UN_REGISTER.nsf)
+4.  [List of military techniques Azerbaijan acquired over the past 7 years](http://en.apa.az/news.php?id=52414)
+5.  [UNITED NATIONS - Office for Disarmament Affairs](http://disarmament.un.org/UN_REGISTER.nsf)
 6.

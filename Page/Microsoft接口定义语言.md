@@ -1,12 +1,8 @@
-**Microsoft接口定义语言**（；缩写：）是[微软的基于文本的](../Page/微软.md "wikilink")[接口描述语言](../Page/接口描述语言.md "wikilink")。扩展自[DCE/RPC](https://zh.wikipedia.org/wiki/DCE/RPC "wikilink")
-IDL用于微软的[组件对象模型](../Page/组件对象模型.md "wikilink")（Component Object Model）。
-\[1\] 它的编译器是MIDL.exe（随[Windows
-SDK发行](https://zh.wikipedia.org/wiki/Windows_SDK "wikilink")）。MIDL用于[远程过程调用](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink")(RPC)的接口、[DCOM接口](https://zh.wikipedia.org/wiki/DCOM "wikilink")、[OLE自动化的类型库等的描述](https://zh.wikipedia.org/wiki/Ole "wikilink").
+**Microsoft接口定义语言**（；缩写：）是[微软](../Page/微软.md "wikilink")的基于文本的[接口描述语言](../Page/接口描述语言.md "wikilink")。扩展自[DCE/RPC](https://zh.wikipedia.org/wiki/DCE/RPC "wikilink") IDL用于微软的[组件对象模型](../Page/组件对象模型.md "wikilink")（Component Object Model）。 \[1\] 它的编译器是MIDL.exe（随[Windows SDK发行](https://zh.wikipedia.org/wiki/Windows_SDK "wikilink")）。MIDL用于[远程过程调用](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink")(RPC)的接口、[DCOM接口](https://zh.wikipedia.org/wiki/DCOM "wikilink")、[OLE自动化的类型库等的描述](https://zh.wikipedia.org/wiki/Ole "wikilink").
 
 ## 简介
 
-每个IDL文件包含一个或多个interface定义。每个interface定义由interface头部与interface体组成。interface头部给出了接口的整体信息；如果含关键字object，表示这是一个[COM接口](../Page/组件对象模型.md "wikilink")，否则表示这是一个[DCE
-RPC接口](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink")。interface体给出了所有需要暴露的信息。
+每个IDL文件包含一个或多个interface定义。每个interface定义由interface头部与interface体组成。interface头部给出了接口的整体信息；如果含关键字object，表示这是一个[COM接口](../Page/组件对象模型.md "wikilink")，否则表示这是一个[DCE RPC接口](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink")。interface体给出了所有需要暴露的信息。
 
 IDL文件中一个接口的结构信息：
 
@@ -87,12 +83,7 @@ MIDL编译器编译name.idl默认产生的文件，对于RPC接口为:
 
 ## 历史
 
-MIDL
-3.0版支持按照类似于[C\#语言的格式写idl文件](https://zh.wikipedia.org/wiki/C#语言 "wikilink")。这要求使用[Windows
-SDK](https://zh.wikipedia.org/wiki/Windows_SDK "wikilink")
-10.0.17134.0版或以上，其所包含的midl.exe 为8.01.0622版或以上，编译时使用/winrt选项。\[2\]
-接口中的非local的成员函数返回类型只能是HRESULT 或
-SCODE，早于3.0的版本还允许返回类型为void，但这种3.0版本中将编译报错。
+MIDL 3.0版支持按照类似于[C\#语言的格式写idl文件](https://zh.wikipedia.org/wiki/C#语言 "wikilink")。这要求使用[Windows SDK](https://zh.wikipedia.org/wiki/Windows_SDK "wikilink") 10.0.17134.0版或以上，其所包含的midl.exe 为8.01.0622版或以上，编译时使用/winrt选项。\[2\] 接口中的非local的成员函数返回类型只能是HRESULT 或 SCODE，早于3.0的版本还允许返回类型为void，但这种3.0版本中将编译报错。
 
 ## 语言内容
 
@@ -102,11 +93,9 @@ SCODE，早于3.0的版本还允许返回类型为void，但这种3.0版本中�
 
 ### MIDL数据类型
 
-数组定义遵从C语言的标准，数组下界必须为0。
-一对方括号内如果只有一个数，表示数组下界为0上界为N-1；如果方括号内为\*号，表示下界为0上界在运行时确定；\[lower...upper\]明确给出上下限。多维数组只有最左维可以不在编译时指定。
+数组定义遵从C语言的标准，数组下界必须为0。 一对方括号内如果只有一个数，表示数组下界为0上界为N-1；如果方括号内为\*号，表示下界为0上界在运行时确定；\[lower...upper\]明确给出上下限。多维数组只有最左维可以不在编译时指定。
 
-封装的联合类型（encapsulated
-union）是指类型的通过switch定义的判别数据成员（discriminant）也被封装在类型中。如下例：
+封装的联合类型（encapsulated union）是指类型的通过switch定义的判别数据成员（discriminant）也被封装在类型中。如下例：
 
 ``` idl4
 typedef union _S1_TYPE switch (long l1) U1_TYPE
@@ -136,14 +125,10 @@ typedef struct _S1_TYPE
 类型库是二进制文件(.tlb)包含了一个ActiveX应用程序暴露的类型与对象的信息。可包括：
 
   - 数据类型信息，如：aliases, enumerations, structures, unions.
-  - 对象描述，每一个这样的描述称作typeinfo。如：module, interface, IDispatch interface
-    (dispinterface), component object class (coclass).
-    可以理解接口是抽象类，coclass是接口的物理实现类。
+  - 对象描述，每一个这样的描述称作typeinfo。如：module, interface, IDispatch interface (dispinterface), component object class (coclass). 可以理解接口是抽象类，coclass是接口的物理实现类。
   - 引用别的类型库的类型描述。
 
-类型库可以是midl编译产生的单独的二进制文件(.tlb，表示type
-library)。也可以用[资源编译器](https://zh.wikipedia.org/wiki/资源编译器 "wikilink")(rc.exe)把.tlb文件增加到DLL或exe文件中。带有1个或多个类型库资源的DLL典型具有文件扩展名.olb
-(object library). tlb文件在资源文件(.rc)中必须写成如下形式，带有整数辨识符、类型为TypeLib：
+类型库可以是midl编译产生的单独的二进制文件(.tlb，表示type library)。也可以用[资源编译器](https://zh.wikipedia.org/wiki/资源编译器 "wikilink")(rc.exe)把.tlb文件增加到DLL或exe文件中。带有1个或多个类型库资源的DLL典型具有文件扩展名.olb (object library). tlb文件在资源文件(.rc)中必须写成如下形式，带有整数辨识符、类型为TypeLib：
 
 `1 typelib mylib1.tlb`
 `2 typelib mylib2.tlb`
@@ -156,8 +141,7 @@ library)。也可以用[资源编译器](https://zh.wikipedia.org/wiki/资源编
 
 类型库描述语言是ODL，最顶层语法结构是library语句。
 
-MIDL的数据类型中,
-boolean基础类型等价于VT_UI1；BOOL数据类型被定义为long；如果希望使用VT_BOOL，那应该用VARIANT_BOOL数据类型。
+MIDL的数据类型中, boolean基础类型等价于VT_UI1；BOOL数据类型被定义为long；如果希望使用VT_BOOL，那应该用VARIANT_BOOL数据类型。
 
 下述代码装入并在[Windows注册表中注册一个类型库](https://zh.wikipedia.org/wiki/Windows注册表 "wikilink")：
 
@@ -186,11 +170,7 @@ if(SUCCEEDED(hr))
 
 <references/>
 
-[Category:微軟開發工具](https://zh.wikipedia.org/wiki/Category:微軟開發工具 "wikilink")
-[Category:微軟API](https://zh.wikipedia.org/wiki/Category:微軟API "wikilink")
-[Category:基于组件的软件工程](https://zh.wikipedia.org/wiki/Category:基于组件的软件工程 "wikilink")
+[Category:微軟開發工具](https://zh.wikipedia.org/wiki/Category:微軟開發工具 "wikilink") [Category:微軟API](https://zh.wikipedia.org/wiki/Category:微軟API "wikilink") [Category:基于组件的软件工程](https://zh.wikipedia.org/wiki/Category:基于组件的软件工程 "wikilink")
 
-1.  [MSDN
-    Reference](http://msdn2.microsoft.com/en-us/library/aa367091.aspx)
-2.  [MSDN:"Introduction to Microsoft Interface Definition
-    Language 3.0"](https://docs.microsoft.com/en-us/uwp/midl-3/intro)
+1.  [MSDN Reference](http://msdn2.microsoft.com/en-us/library/aa367091.aspx)
+2.  [MSDN:"Introduction to Microsoft Interface Definition Language 3.0"](https://docs.microsoft.com/en-us/uwp/midl-3/intro)

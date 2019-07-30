@@ -1,5 +1,4 @@
-《**Everybody
-Sings**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[at17的音樂專輯](https://zh.wikipedia.org/wiki/at17 "wikilink")，於2017年12月22日推出。
+《**Everybody Sings**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[at17的音樂專輯](https://zh.wikipedia.org/wiki/at17 "wikilink")，於2017年12月22日推出。
 
 ## 曲目
 
@@ -19,7 +18,4 @@ Sings**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "w
 
 ## 獎項
 
-[Category:at17音樂專輯](https://zh.wikipedia.org/wiki/Category:at17音樂專輯 "wikilink")
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:at17音樂專輯](https://zh.wikipedia.org/wiki/Category:at17音樂專輯 "wikilink") [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

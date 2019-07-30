@@ -8,8 +8,7 @@
 
 <div class="noprint" style="clear:right; border:solid #aaa 1px; margin:0 0 0em 0em; background:#eeffee; spacing:0; text-align:left; float:right;">
 
-**`Documentation``   ``of``   ``the``   ``RPC``   ``project``
- ``(concept)`**
+**`Documentation``   ``of``   ``the``   ``RPC``   ``project``   ``(concept)`**
 
 `Most of the documentation is available on VMS, with the two`
 `principle manuals being stored in the CERNDOC system.`
@@ -28,23 +27,17 @@
 `10) includes: The RPC HELP facility`
 `11) describes: THE REMOTE PROCEDURE CALL PROJECT in DD/OC`
 
-**`Help``   ``Display``   ``Select``   ``Back``   ``Quit``   ``Mark``
- ``Goto_mark``   ``Link``   ``Add``   ``Edit`**
+**`Help``   ``Display``   ``Select``   ``Back``   ``Quit``   ``Mark``   ``Goto_mark``   ``Link``   ``Add``   ``Edit`**
 
 ENQUIRE的顯示畫面\[14\]。
 
 </div>
 
-ENQUIRE由一個名為卡片的頁面和超連結所組成。這些連結具有不同的含義，作者、事物、文件和群組等都顯示在卡片上。每個人都可以看到連結之間的關係，解釋連結的需求是什麼，或者刪除卡片會發生什麼事\[15\]。任何人都可以增加新的卡片，但他們需要一張現有的卡片\[16\]。萬維網的建立是為了統一CERN現有的不同系統，如ENQUIRE、[CERNDOC](https://zh.wikipedia.org/wiki/CERNDOC "wikilink")、[VAX
-/ VMS
-Notes和](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")[Usenet](../Page/Usenet.md "wikilink")\[17\]。
+ENQUIRE由一個名為卡片的頁面和超連結所組成。這些連結具有不同的含義，作者、事物、文件和群組等都顯示在卡片上。每個人都可以看到連結之間的關係，解釋連結的需求是什麼，或者刪除卡片會發生什麼事\[15\]。任何人都可以增加新的卡片，但他們需要一張現有的卡片\[16\]。萬維網的建立是為了統一CERN現有的不同系統，如ENQUIRE、[CERNDOC](https://zh.wikipedia.org/wiki/CERNDOC "wikilink")、[VAX / VMS Notes和](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")[Usenet](../Page/Usenet.md "wikilink")\[17\]。
 
 ## 參考文獻
 
-[Category:內容管理系統](https://zh.wikipedia.org/wiki/Category:內容管理系統 "wikilink")
-[Category:網際網路的歷史](https://zh.wikipedia.org/wiki/Category:網際網路的歷史 "wikilink")
-[Category:全球資訊網](https://zh.wikipedia.org/wiki/Category:全球資訊網 "wikilink")
-[Category:超文字](https://zh.wikipedia.org/wiki/Category:超文字 "wikilink")
+[Category:內容管理系統](https://zh.wikipedia.org/wiki/Category:內容管理系統 "wikilink") [Category:網際網路的歷史](https://zh.wikipedia.org/wiki/Category:網際網路的歷史 "wikilink") [Category:全球資訊網](https://zh.wikipedia.org/wiki/Category:全球資訊網 "wikilink") [Category:超文字](https://zh.wikipedia.org/wiki/Category:超文字 "wikilink")
 
 1.
 2.

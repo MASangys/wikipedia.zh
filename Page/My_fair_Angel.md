@@ -1,5 +1,4 @@
-《**My fair Angel**》是日本[Studio
-e.go\!在](../Page/Studio_e.go!.md "wikilink")2001年7月27日發售的[戀愛模擬類型](https://zh.wikipedia.org/wiki/戀愛模擬 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2006年3月31日發售DVD版。\[2\]
+《**My fair Angel**》是日本[Studio e.go\!在](../Page/Studio_e.go!.md "wikilink")2001年7月27日發售的[戀愛模擬類型](https://zh.wikipedia.org/wiki/戀愛模擬 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2006年3月31日發售DVD版。\[2\]
 
 ## 故事
 
@@ -14,7 +13,7 @@ e.go\!在](../Page/Studio_e.go!.md "wikilink")2001年7月27日發售的[戀愛�
   - メイヴ（CV：宇佐美桃香）
     由テオ自身提供材料利用鍊金術所誕生的霍爾蒙克斯。
   - シーラ（CV：森本れおな）
-    テオ的鍊金術師父，優秀錬金術師。有著[天然呆的個性](../Page/天然呆.md "wikilink")，除了鍊金術外做其他事情容易失敗。
+    テオ的鍊金術師父，優秀錬金術師。有著[天然呆](../Page/天然呆.md "wikilink")的個性，除了鍊金術外做其他事情容易失敗。
   - エリン（CV：ダイナマイト☆亜美）
     工藝店的獨生女，テオ的青梅竹馬。小時後母親已不在，現在和父親一起生活。
 
@@ -44,8 +43,7 @@ e.go\!在](../Page/Studio_e.go!.md "wikilink")2001年7月27日發售的[戀愛�
 <!-- end list -->
 
   -
-    發售日：2001年7月19日　出版社：[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")　ISBN
-    4-7577-0551-4
+    發售日：2001年7月19日　出版社：[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")　ISBN 4-7577-0551-4
 
 <!-- end list -->
 
@@ -60,25 +58,15 @@ e.go\!在](../Page/Studio_e.go!.md "wikilink")2001年7月27日發售的[戀愛�
 
 ## 外部連結
 
-  - [Studio
-    e.go\!](https://web.archive.org/web/20110722095531/http://www.studio-ego.co.jp/)取自[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
+  - [Studio e.go\!](https://web.archive.org/web/20110722095531/http://www.studio-ego.co.jp/)取自[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
   - [Studio e･go\!](http://www.studio-ego.jp/)
   - [官方網站](http://www.studio-ego.jp/game/mfa/index.html)
 
-[Category:Studio_e.go\!](https://zh.wikipedia.org/wiki/Category:Studio_e.go! "wikilink")
-[Category:2001年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2001年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛模擬遊戲](https://zh.wikipedia.org/wiki/Category:戀愛模擬遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:鍊金術題材作品](https://zh.wikipedia.org/wiki/Category:鍊金術題材作品 "wikilink")
+[Category:Studio_e.go\!](https://zh.wikipedia.org/wiki/Category:Studio_e.go! "wikilink") [Category:2001年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2001年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛模擬遊戲](https://zh.wikipedia.org/wiki/Category:戀愛模擬遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:鍊金術題材作品](https://zh.wikipedia.org/wiki/Category:鍊金術題材作品 "wikilink")
 
-1.  [マイ・フェア・エンジェル
-    初回限定版](http://www.getchu.com/soft.phtml?id=6388)Getchu.com
+1.  [マイ・フェア・エンジェル 初回限定版](http://www.getchu.com/soft.phtml?id=6388)Getchu.com
 2.  [My Fair Angel](https://vndb.org/v676)The Visual Novel Database
 3.  [マイ・フェア・エンジェル](http://erogetrailers.com/soft/3675)ErogeTrailers
-4.  [マイ・フェア・エンジェル](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=1515)ErogameScape
-    -エロゲー批評空間-
-5.  [マイ フェア エンジェル
-    プレリュード](https://www.enterbrain.co.jp/product/mook/mook_tech_gian/212_tg_super_prelude/01243101)[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")
-6.  [My fair Angel
-    ビジュアルファンブック](https://www.enterbrain.co.jp/product/mook/mook_entame/214_magi_cu/01197101.html)enterbrain
+4.  [マイ・フェア・エンジェル](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=1515)ErogameScape -エロゲー批評空間-
+5.  [マイ フェア エンジェル プレリュード](https://www.enterbrain.co.jp/product/mook/mook_tech_gian/212_tg_super_prelude/01243101)[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")
+6.  [My fair Angel ビジュアルファンブック](https://www.enterbrain.co.jp/product/mook/mook_entame/214_magi_cu/01197101.html)enterbrain

@@ -1,33 +1,24 @@
-**Glacidorbidae**科是[腹足綱](https://zh.wikipedia.org/wiki/腹足綱 "wikilink")[軟體動物的一個](https://zh.wikipedia.org/wiki/軟體動物 "wikilink")[淡水螺](https://zh.wikipedia.org/wiki/淡水螺 "wikilink")[科](https://zh.wikipedia.org/wiki/科_\(生物\) "wikilink")，屬於[異鰓類支序的](../Page/異鰓類.md "wikilink")[泛有肺類支序](../Page/泛有肺類.md "wikilink")\[1\]。
+**Glacidorbidae**科是[腹足綱](https://zh.wikipedia.org/wiki/腹足綱 "wikilink")[軟體動物的一個](https://zh.wikipedia.org/wiki/軟體動物 "wikilink")[淡水螺](https://zh.wikipedia.org/wiki/淡水螺 "wikilink")[科](https://zh.wikipedia.org/wiki/科_\(生物\) "wikilink")，屬於[異鰓類](../Page/異鰓類.md "wikilink")支序的[泛有肺類](../Page/泛有肺類.md "wikilink")支序\[1\]。
 
 ## 分類
 
 ### 2005年分類
 
-Glacidorbidae科是**Glacidorboidea**總科之下的唯一一個科\[2\]。Glacidorboidea總科舊屬[基眼目](https://zh.wikipedia.org/wiki/基眼目 "wikilink")\[3\]，在[布歇特和洛克羅伊的腹足類分類
-(2005年)被歸入](../Page/布歇特和洛克羅伊的腹足類分類_\(2005年\).md "wikilink")[異鰓類支序的](../Page/異鰓類.md "wikilink")[下異鰓類支序](../Page/下異鰓類.md "wikilink")\[4\]。
+Glacidorbidae科是**Glacidorboidea**總科之下的唯一一個科\[2\]。Glacidorboidea總科舊屬[基眼目](https://zh.wikipedia.org/wiki/基眼目 "wikilink")\[3\]，在[布歇特和洛克羅伊的腹足類分類 (2005年)被歸入](../Page/布歇特和洛克羅伊的腹足類分類_\(2005年\).md "wikilink")[異鰓類](../Page/異鰓類.md "wikilink")支序的[下異鰓類](../Page/下異鰓類.md "wikilink")支序\[4\]。
 
 ### 2010年分類
 
-Jörger et al.
-(2010)重新定義[異鰓類支序](https://zh.wikipedia.org/wiki/異鰓類#2010年分類 "wikilink")，於2010年10月建立[泛有肺類](../Page/泛有肺類.md "wikilink")，用來取代當時被證實為[並系群的原](https://zh.wikipedia.org/wiki/並系群 "wikilink")[基眼目非正式群組](https://zh.wikipedia.org/wiki/基眼目 "wikilink")\[5\]。
+Jörger et al. (2010)重新定義[異鰓類支序](https://zh.wikipedia.org/wiki/異鰓類#2010年分類 "wikilink")，於2010年10月建立[泛有肺類](../Page/泛有肺類.md "wikilink")，用來取代當時被證實為[並系群的原](https://zh.wikipedia.org/wiki/並系群 "wikilink")[基眼目非正式群組](https://zh.wikipedia.org/wiki/基眼目 "wikilink")\[5\]。
 
 ### 屬
 
 以下為本科之下各屬\[6\]：
 
-  - *[Glacidorbis](https://zh.wikipedia.org/wiki/Glacidorbis "wikilink")*
-    [Iredale](https://zh.wikipedia.org/wiki/Tom_Iredale "wikilink"),
-    1943: 模式屬
-  - *[Gondwanorbis](https://zh.wikipedia.org/wiki/Gondwanorbis "wikilink")*
-    [Ponder](https://zh.wikipedia.org/wiki/Winston_Ponder "wikilink"),
-    1986\[7\]
-  - *[Benthodorbis](https://zh.wikipedia.org/wiki/Benthodorbis "wikilink")*
-    Ponder & Avern, 2000\[8\]
-  - *[Striadorbis](https://zh.wikipedia.org/wiki/Striadorbis "wikilink")*
-    Ponder & Avern, 2000\[9\]
-  - *[Tasmodorbis](https://zh.wikipedia.org/wiki/Tasmodorbis "wikilink")*
-    Ponder & Avern, 2000\[10\]
+  - *[Glacidorbis](https://zh.wikipedia.org/wiki/Glacidorbis "wikilink")* [Iredale](https://zh.wikipedia.org/wiki/Tom_Iredale "wikilink"), 1943: 模式屬
+  - *[Gondwanorbis](https://zh.wikipedia.org/wiki/Gondwanorbis "wikilink")* [Ponder](https://zh.wikipedia.org/wiki/Winston_Ponder "wikilink"), 1986\[7\]
+  - *[Benthodorbis](https://zh.wikipedia.org/wiki/Benthodorbis "wikilink")* Ponder & Avern, 2000\[8\]
+  - *[Striadorbis](https://zh.wikipedia.org/wiki/Striadorbis "wikilink")* Ponder & Avern, 2000\[9\]
+  - *[Tasmodorbis](https://zh.wikipedia.org/wiki/Tasmodorbis "wikilink")* Ponder & Avern, 2000\[10\]
 
 ## 分佈
 

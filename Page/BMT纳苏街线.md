@@ -1,4 +1,4 @@
-**納蘇街線**（）是曼哈頓[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的一條[地鐵路線](../Page/地鐵.md "wikilink")。此線是布魯克林的[BMT牙買加線跨過](https://zh.wikipedia.org/wiki/BMT牙買加線 "wikilink")[威廉斯堡大橋的延續](../Page/威廉斯堡大橋.md "wikilink")，繼續延長至[BMT百老匯線至](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")前，之後路線再進入布魯克林（[寬街以南自](https://zh.wikipedia.org/wiki/寬街車站_\(BMT納蘇街線\) "wikilink")2010年6月25日後沒有列車營運）
+**納蘇街線**（）是曼哈頓[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的一條[地鐵](../Page/地鐵.md "wikilink")路線。此線是布魯克林的[BMT牙買加線跨過](https://zh.wikipedia.org/wiki/BMT牙買加線 "wikilink")[威廉斯堡大橋](../Page/威廉斯堡大橋.md "wikilink")的延續，繼續延長至[BMT百老匯線至](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")前，之後路線再進入布魯克林（[寬街以南自](https://zh.wikipedia.org/wiki/寬街車站_\(BMT納蘇街線\) "wikilink")2010年6月25日後沒有列車營運）
 
 路線任何時候都有[J線列車營運](../Page/紐約地鐵J線與Z線.md "wikilink")。[Z線提供繁忙時段額外服務](../Page/紐約地鐵J線與Z線.md "wikilink")，以尖峰方向營運。
 
@@ -107,7 +107,7 @@
 <a href="../Page/IRT萊辛頓大道線.md" title="wikilink">IRT萊辛頓大道線</a>（）</p></td>
 </tr>
 <tr class="even">
-<td><p>舊連接線往<a href="../Page/曼哈頓大橋.md" title="wikilink">曼哈頓大橋南側軌道</a></p></td>
+<td><p>舊連接線往<a href="../Page/曼哈頓大橋.md" title="wikilink">曼哈頓大橋</a>南側軌道</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -168,25 +168,15 @@
 
 ## 參考資料
 
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1908年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1908年啟用的鐵路線 "wikilink")
-[Category:1908年紐約州建立](https://zh.wikipedia.org/wiki/Category:1908年紐約州建立 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1908年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1908年啟用的鐵路線 "wikilink") [Category:1908年紐約州建立](https://zh.wikipedia.org/wiki/Category:1908年紐約州建立 "wikilink")
 
 1.
 
 2.
 
-3.  [New York
-    Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"),
-    [Mayor Runs a Train Over New
-    Bridge](https://select.nytimes.com/gst/abstract.html?res=FB0B16FC3C5D16738DDDAE0994D1405B888CF1D3),
-    September 17, 1908, page 16
+3.  [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), [Mayor Runs a Train Over New Bridge](https://select.nytimes.com/gst/abstract.html?res=FB0B16FC3C5D16738DDDAE0994D1405B888CF1D3), September 17, 1908, page 16
 
-4.  [New York
-    Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"),
-    [Passenger Killed on Loop's First
-    Day](https://select.nytimes.com/gst/abstract.html?res=FB0C15FE395B13738DDDAC0894D0405B838DF1D3),
-    August 5, 1913, page 2
+4.  [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), [Passenger Killed on Loop's First Day](https://select.nytimes.com/gst/abstract.html?res=FB0C15FE395B13738DDDAC0894D0405B838DF1D3), August 5, 1913, page 2
 
 5.
 6.

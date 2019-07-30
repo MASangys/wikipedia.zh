@@ -1,6 +1,4 @@
-**CONFiDENCE日劇大獎**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：，[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[日本電視劇獎](../Page/日本电视剧.md "wikilink")，為日本知名[Oricon集團旗下公司Oricon](../Page/Oricon.md "wikilink")
-Entertainment所發行的娛樂週刊雜誌《ORIGINAL
-CONFIDENCE》主辦。每一年公布每一季得獎名單，一年共四次\[1\]\[2\]。
+**CONFiDENCE日劇大獎**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：，[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[日本電視劇獎](../Page/日本电视剧.md "wikilink")，為日本知名[Oricon](../Page/Oricon.md "wikilink")集團旗下公司Oricon Entertainment所發行的娛樂週刊雜誌《ORIGINAL CONFIDENCE》主辦。每一年公布每一季得獎名單，一年共四次\[1\]\[2\]。
 
 ## 概要
 
@@ -28,16 +26,16 @@ CONFIDENCE》主辦。每一年公布每一季得獎名單，一年共四次\[1\
 
 ### 媒體評審
 
-  - 星賀亨弘（[朝日新聞文化生活報導部記者](../Page/朝日新聞.md "wikilink")）
-  - 三品貴志（[產經新聞文化部記者](../Page/產經新聞.md "wikilink")）
-  - 赤塚佳彦（[日本經濟新聞文化部記者](../Page/日本經濟新聞.md "wikilink")）
-  - 北林靖彦（[每日新聞社學藝部編輯委員](../Page/每日新聞社.md "wikilink")）
-  - 田中誠（[讀賣新聞文化部記者](../Page/讀賣新聞.md "wikilink")）※第1回
+  - 星賀亨弘（[朝日新聞](../Page/朝日新聞.md "wikilink")文化生活報導部記者）
+  - 三品貴志（[產經新聞](../Page/產經新聞.md "wikilink")文化部記者）
+  - 赤塚佳彦（[日本經濟新聞](../Page/日本經濟新聞.md "wikilink")文化部記者）
+  - 北林靖彦（[每日新聞社](../Page/每日新聞社.md "wikilink")學藝部編輯委員）
+  - 田中誠（[讀賣新聞](../Page/讀賣新聞.md "wikilink")文化部記者）※第1回
   - 笹島拓哉（讀賣新聞文化部記者）※第2回
   - 大塚美奈（文化報導部記者）
   - 牧元一（[體育日本文化社會專門委員](https://zh.wikipedia.org/wiki/體育日本 "wikilink")）
   - 有野博幸（[體育報知文化社會部記者](https://zh.wikipedia.org/wiki/體育報知 "wikilink")）
-  - 梅田恵子（[日刊體育數位編輯部記者](../Page/日刊體育.md "wikilink")）
+  - 梅田恵子（[日刊體育](../Page/日刊體育.md "wikilink")數位編輯部記者）
   - 佐竹慎一（[共同通信社文化部記者](https://zh.wikipedia.org/wiki/共同通信社 "wikilink")）
   - 椎葉克宏（[oricon](https://zh.wikipedia.org/wiki/oricon "wikilink") ME主編）
 
@@ -73,8 +71,7 @@ CONFIDENCE》主辦。每一年公布每一季得獎名單，一年共四次\[1\
       - 最佳男主角獎：[濱田岳](../Page/濱田岳.md "wikilink")（[釣魚狂日記～新入社員濱崎傳助](https://zh.wikipedia.org/wiki/釣魚狂日記～新入社員濱崎傳助 "wikilink")）
       - 最佳女主角獎：[新垣結衣](../Page/新垣結衣.md "wikilink")（[掟上今日子的備忘錄](https://zh.wikipedia.org/wiki/忘卻偵探系列#電視劇 "wikilink")）
       - 最佳男配角獎：（）
-      - 最佳女配角獎：[菜菜緒](../Page/菜菜緒.md "wikilink")（[警報
-        刑警×女友×完全惡女](../Page/警報_刑警×女友×完全惡女.md "wikilink")）
+      - 最佳女配角獎：[菜菜緒](../Page/菜菜緒.md "wikilink")（[警報 刑警×女友×完全惡女](../Page/警報_刑警×女友×完全惡女.md "wikilink")）
       - 最佳編劇獎：[石井裕也](../Page/石井裕也.md "wikilink")、登米裕一（[糖果之家](../Page/糖果之家.md "wikilink")）
       - 最佳新人獎：[濱邊美波](../Page/濱邊美波.md "wikilink")（[無痛](https://zh.wikipedia.org/wiki/無痛#電視劇 "wikilink")）
 
@@ -98,16 +95,14 @@ CONFIDENCE》主辦。每一年公布每一季得獎名單，一年共四次\[1\
       - 最佳男配角獎：[柳樂優彌](../Page/柳樂優彌.md "wikilink")（寬鬆世代又怎樣）
       - 最佳女配角獎：[木村佳乃](../Page/木村佳乃.md "wikilink")（[我的危險妻子](../Page/我的危險妻子.md "wikilink")）
       - 最佳編劇獎：[宮藤官九郎](../Page/宮藤官九郎.md "wikilink")（寬鬆世代又怎樣）
-      - 最佳新人獎：[藤原櫻](https://zh.wikipedia.org/wiki/藤原櫻_\(歌手\) "wikilink")（[Love
-        Song](../Page/Love_Song_\(電視劇\).md "wikilink")）
+      - 最佳新人獎：[藤原櫻](https://zh.wikipedia.org/wiki/藤原櫻_\(歌手\) "wikilink")（[Love Song](../Page/Love_Song_\(電視劇\).md "wikilink")）
 
 #### 第5回
 
   - **2016年夏季**
       - 最佳作品獎：[賣房女子](../Page/賣房女子.md "wikilink")\[8\]
       - 最佳男主角獎：[三上博史](../Page/三上博史.md "wikilink")（）
-      - 最佳女主角獎：[波瑠](../Page/波瑠.md "wikilink")（[ON
-        異常犯罪搜查官·藤堂比奈子](../Page/ON_異常犯罪搜查官·藤堂比奈子.md "wikilink")）
+      - 最佳女主角獎：[波瑠](../Page/波瑠.md "wikilink")（[ON 異常犯罪搜查官·藤堂比奈子](../Page/ON_異常犯罪搜查官·藤堂比奈子.md "wikilink")）
       - 最佳男配角獎：（）
       - 最佳女配角獎：[木南晴夏](../Page/木南晴夏.md "wikilink")（[毫不保留的愛](../Page/毫不保留的愛.md "wikilink")）
       - 最佳編劇獎：[遊川和彥](../Page/遊川和彥.md "wikilink")（[初次見面，我愛你](../Page/初次見面，我愛你.md "wikilink")）
@@ -162,8 +157,7 @@ CONFIDENCE》主辦。每一年公布每一季得獎名單，一年共四次\[1\
   - **2017年秋季**
       - 最佳作品獎：[刑警弓神](../Page/刑警弓神.md "wikilink")
       - 最佳男主角獎：[淺野忠信](../Page/淺野忠信.md "wikilink")（刑警弓神）
-      - 最佳女主角獎：[綾瀨遙](../Page/綾瀨遙.md "wikilink")（[太太
-        請小心輕放](../Page/太太_請小心輕放.md "wikilink")）
+      - 最佳女主角獎：[綾瀨遙](../Page/綾瀨遙.md "wikilink")（[太太 請小心輕放](../Page/太太_請小心輕放.md "wikilink")）
       - 最佳男配角獎：[神木隆之介](https://zh.wikipedia.org/wiki/神木隆之介 "wikilink")（刑警弓神）
       - 最佳女配角獎：[手塚理美](https://zh.wikipedia.org/wiki/手塚理美 "wikilink")（[明日的約定](../Page/明日的約定.md "wikilink")）
       - 最佳編劇獎：[福田靖](https://zh.wikipedia.org/wiki/福田靖 "wikilink")（[只是先出生的我](https://zh.wikipedia.org/wiki/只是先出生的我 "wikilink")）
@@ -218,8 +212,7 @@ CONFIDENCE》主辦。每一年公布每一季得獎名單，一年共四次\[1\
   - **2019年冬季**\[11\]
       - 最佳作品獎：
       - 最佳男主角獎：（）
-      - 最佳女主角獎：[常盤貴子](../Page/常盤貴子.md "wikilink")（[The Good
-        Wife](../Page/法庭女王_\(日本電視劇\).md "wikilink")）
+      - 最佳女主角獎：[常盤貴子](../Page/常盤貴子.md "wikilink")（[The Good Wife](../Page/法庭女王_\(日本電視劇\).md "wikilink")）
       - 最佳男配角獎：（）
       - 最佳女配角獎：[松坂慶子](../Page/松坂慶子.md "wikilink")（[萬福](../Page/萬福_\(電視劇\).md "wikilink")）
       - 最佳編劇獎：[武藤將吾](../Page/武藤將吾.md "wikilink")（[3年A班－從此刻起，大家都是我的人質－](../Page/3年A班－從此刻起，大家都是我的人質－.md "wikilink")）
@@ -229,8 +222,7 @@ CONFIDENCE》主辦。每一年公布每一季得獎名單，一年共四次\[1\
 
   - **2016年度**\[12\]
       - 最佳作品賞：月薪嬌妻
-      - 最佳男主角獎：[山田孝之](../Page/山田孝之.md "wikilink")（[黑金丑島君](../Page/黑金丑島君_\(電視劇\).md "wikilink")
-        Season3、[勇者義彥和被引導的七人](../Page/勇者義彥和被引導的七人.md "wikilink")）
+      - 最佳男主角獎：[山田孝之](../Page/山田孝之.md "wikilink")（[黑金丑島君](../Page/黑金丑島君_\(電視劇\).md "wikilink") Season3、[勇者義彥和被引導的七人](../Page/勇者義彥和被引導的七人.md "wikilink")）
       - 最佳女主角獎：[滿島光](../Page/滿島光.md "wikilink")（[小荳荳電視台](../Page/小荳荳電視台.md "wikilink")）
       - 最佳男配角獎：（[真田丸](../Page/真田丸_\(大河劇\).md "wikilink")）
       - 最佳女配角獎：石田百合子（月薪嬌妻）
@@ -264,7 +256,7 @@ CONFIDENCE》主辦。每一年公布每一季得獎名單，一年共四次\[1\
 
   - [日劇學院賞](../Page/日劇學院賞.md "wikilink")
   - [東京國際戲劇節](../Page/東京國際戲劇節.md "wikilink")
-  - [日本民間放送聯盟獎](../Page/日本民間放送聯盟.md "wikilink")
+  - [日本民間放送聯盟](../Page/日本民間放送聯盟.md "wikilink")獎
 
 ## 參考資料
 
@@ -272,12 +264,11 @@ CONFIDENCE》主辦。每一年公布每一季得獎名單，一年共四次\[1\
 
   - [コンフィデンスアワード・ドラマ賞官方網站](http://confidence-award.jp/)
 
-[Category:CONFiDENCE日劇大獎](https://zh.wikipedia.org/wiki/Category:CONFiDENCE日劇大獎 "wikilink")
-[Category:2015年建立的獎項](https://zh.wikipedia.org/wiki/Category:2015年建立的獎項 "wikilink")
-[Category:Oricon](https://zh.wikipedia.org/wiki/Category:Oricon "wikilink")
+
+
+[Category:CONFiDENCE日劇大獎](https://zh.wikipedia.org/wiki/Category:CONFiDENCE日劇大獎 "wikilink") [Category:2015年建立的獎項](https://zh.wikipedia.org/wiki/Category:2015年建立的獎項 "wikilink") [Category:Oricon](https://zh.wikipedia.org/wiki/Category:Oricon "wikilink")
 
 1.  [「民王」が４部門独占！高質ドラマ選ぶ「コンフィデンスアワード」](http://www.sponichi.co.jp/entertainment/news/2015/10/15/kiji/K20151015011326390.html)
-
 2.  [コンフィデンスアワード・ドラマ賞：遠藤憲一「民王」４冠喜ぶ「菅田将暉くんと獲れた」](http://www.nikkansports.com/entertainment/news/1553437.html)
 3.
 4.  [菅田將暉憑《民王》封視帝](http://tw.on.cc/tw/bkn/cnt/entertainment/20151016/bkntw-20151016122817486-1016_04111_001.html)

@@ -2438,9 +2438,7 @@
   - [MBC特輯電視劇](../Page/MBC特輯電視劇.md "wikilink")
   - [SBS特輯電視劇](../Page/SBS特輯電視劇.md "wikilink")
 
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
 
 1.
 2.

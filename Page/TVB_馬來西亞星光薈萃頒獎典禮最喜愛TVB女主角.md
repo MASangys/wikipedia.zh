@@ -1,15 +1,10 @@
-**[TVB
-馬來西亞星光薈萃頒獎典禮最喜愛TVB女主角](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")**每年是由[香港](../Page/香港.md "wikilink")[TVB娛樂新聞台](../Page/TVB娛樂新聞台.md "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro及MY](https://zh.wikipedia.org/wiki/Astro "wikilink")
-FM聯合頒發，最初名為《[Astro華麗台電視劇大獎](https://zh.wikipedia.org/wiki/Astro華麗台電視劇大獎 "wikilink")》，及後名為《[MY
-AOD我的最爱颁奖典礼](https://zh.wikipedia.org/wiki/MY_AOD我的最爱颁奖典礼 "wikilink")》，至2013年正式易名為《TVB
-馬來西亞星光薈萃頒獎典禮》。給予年度TVB最出色的[電視劇集](https://zh.wikipedia.org/wiki/電視劇集 "wikilink")[女演員](../Page/演員.md "wikilink")，得獎者有「大馬視-{后}-」美譽。
+**[TVB 馬來西亞星光薈萃頒獎典禮最喜愛TVB女主角](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")**每年是由[香港](../Page/香港.md "wikilink")[TVB娛樂新聞台](../Page/TVB娛樂新聞台.md "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro及MY](https://zh.wikipedia.org/wiki/Astro "wikilink") FM聯合頒發，最初名為《[Astro華麗台電視劇大獎](https://zh.wikipedia.org/wiki/Astro華麗台電視劇大獎 "wikilink")》，及後名為《[MY AOD我的最爱颁奖典礼](https://zh.wikipedia.org/wiki/MY_AOD我的最爱颁奖典礼 "wikilink")》，至2013年正式易名為《TVB 馬來西亞星光薈萃頒獎典禮》。給予年度TVB最出色的[電視劇集](https://zh.wikipedia.org/wiki/電視劇集 "wikilink")[女演員](../Page/演員.md "wikilink")，得獎者有「大馬視-{后}-」美譽。
 
 最喜愛TVB女主角獎於2004年創立，至今獲獎最多的女演員是[佘詩曼](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")，合計4次。
 
 此獎項曾使用多個名字，當中有我的至愛女主角（2004-2009、2011）、我的最愛電視女主角（2010，2012），及2013年開始沿用「**最喜愛TVB女主角**」為此獎項之名字，並一直沿用至今。
 
-截至2017年，[TVB
-馬來西亞星光薈萃頒獎典禮舉辦第](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")14屆，共誕生10位視后。最近一位獲獎女演員是[宣萱](../Page/宣萱.md "wikilink")\[1\]。
+截至2017年，[TVB 馬來西亞星光薈萃頒獎典禮舉辦第](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")14屆，共誕生10位視后。最近一位獲獎女演員是[宣萱](../Page/宣萱.md "wikilink")\[1\]。
 
 ## 統計
 
@@ -1136,17 +1131,13 @@ AOD我的最爱颁奖典礼](https://zh.wikipedia.org/wiki/MY_AOD我的最爱颁
 
 ## 參見
 
-  - [MY
-    AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/MY_AOD我的最愛頒獎典禮 "wikilink")
-  - [TVB
-    馬來西亞星光薈萃頒獎典禮](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")
+  - [MY AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/MY_AOD我的最愛頒獎典禮 "wikilink")
+  - [TVB 馬來西亞星光薈萃頒獎典禮](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")
   - [萬千星輝頒獎典禮最佳女主角](https://zh.wikipedia.org/wiki/萬千星輝頒獎典禮最佳女主角 "wikilink")
 
 [Category:TVB_馬來西亞星光薈萃頒獎典禮](https://zh.wikipedia.org/wiki/Category:TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")
 
-1.  [《TVB馬來西亞星光薈萃頒獎典禮2017》 TVB馬來西亞星光薈萃頒獎典禮2017 战胜小生花旦
-    苗侨伟宣萱夺大马视帝后](http://www.kwongwah.com.my/?p=430588)
+1.  [《TVB馬來西亞星光薈萃頒獎典禮2017》 TVB馬來西亞星光薈萃頒獎典禮2017 战胜小生花旦 苗侨伟宣萱夺大马视帝后](http://www.kwongwah.com.my/?p=430588)
 2.  楊怡同年憑《名媛望族》獲得萬千星輝頒獎典禮最佳女主角
 3.  首次出現雙視-{后}-，即有兩位得獎者
-4.  [田蕊妮胡定欣封雙視后激動爆喊 TVB馬來西亞頒獎禮
-    陳展鵬稱視帝](http://news.mingpao.com/pns/dailynews/web_tc/article/20151129/s00016/1448732991071)
+4.  [田蕊妮胡定欣封雙視后激動爆喊 TVB馬來西亞頒獎禮 陳展鵬稱視帝](http://news.mingpao.com/pns/dailynews/web_tc/article/20151129/s00016/1448732991071)

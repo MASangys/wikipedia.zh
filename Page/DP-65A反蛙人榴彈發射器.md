@@ -13,6 +13,8 @@ DP-65A設計用於保護船军舰、水力結構、[自來水廠](../Page/供水
 ## 使用國
 
   -
+  - —采用本土生产型号[CS/AR1](https://zh.wikipedia.org/wiki/CS/AR1型反蛙人火箭炮 "wikilink")
+
 <File:DP-65> on the Grachonok modern antisabotage motor boat 01.jpg
 
 ## 參見
@@ -32,22 +34,15 @@ DP-65A設計用於保護船军舰、水力結構、[自來水廠](../Page/供水
 
 ## 外部連結
 
-  - —[V.A.Degtyarev Plant
-    website](http://www.zid.ru/eng/products/47/detail/230)
+  - —[V.A.Degtyarev Plant website](http://www.zid.ru/eng/products/47/detail/230)
 
-  - —[DP-65 grenade
-    launcher](https://www.youtube.com/watch?v=9jl8pa-DrPA)
+  - —[DP-65 grenade launcher](https://www.youtube.com/watch?v=9jl8pa-DrPA)
 
-  - —[Russia’s Naval Grenade Launchers: Shiver Everyone’s
-    Timbers\!](http://inventorspot.com/articles/russias_naval_grenade_launchers_shiver_everyones_timbers_16997#sthash.KI5f3vLe.dpuf)
+  - —[Russia’s Naval Grenade Launchers: Shiver Everyone’s Timbers\!](http://inventorspot.com/articles/russias_naval_grenade_launchers_shiver_everyones_timbers_16997#sthash.KI5f3vLe.dpuf)
 
   - —[国产CS/AR1型反蛙人火箭炮](http://blog.wenxuecity.com/blog/frontend.php?act=articlePrint&blogId=54804&date=201405&postId=27638)
 
-[Category:艦炮](https://zh.wikipedia.org/wiki/Category:艦炮 "wikilink")
-[Category:遙控武器系統](https://zh.wikipedia.org/wiki/Category:遙控武器系統 "wikilink")
-[Category:榴彈發射器](https://zh.wikipedia.org/wiki/Category:榴彈發射器 "wikilink")
-[Category:俄罗斯武器](https://zh.wikipedia.org/wiki/Category:俄罗斯武器 "wikilink")
-[Category:蛙人作戰](https://zh.wikipedia.org/wiki/Category:蛙人作戰 "wikilink")
+[Category:艦炮](https://zh.wikipedia.org/wiki/Category:艦炮 "wikilink") [Category:遙控武器系統](https://zh.wikipedia.org/wiki/Category:遙控武器系統 "wikilink") [Category:榴彈發射器](https://zh.wikipedia.org/wiki/Category:榴彈發射器 "wikilink") [Category:俄罗斯武器](https://zh.wikipedia.org/wiki/Category:俄罗斯武器 "wikilink") [Category:蛙人作戰](https://zh.wikipedia.org/wiki/Category:蛙人作戰 "wikilink")
 
 1.  <http://inventorspot.com/articles/russias_naval_grenade_launchers_shiver_everyones_timbers_16997>
 2.  <http://www.eaglespeak.us/2008/07/russian-anti-piracy-idea-simple-and.html>

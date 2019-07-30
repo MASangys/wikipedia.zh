@@ -2,8 +2,7 @@
 
 ## 登場角色
 
-315Pro全46名偶像，共15個組合。除了在[偶像大師系列中登場的](https://zh.wikipedia.org/wiki/偶像大師系列 "wikilink")“Jupiter”3人及在[偶像大師
-深情之星登場的秋月涼外](../Page/偶像大師_深情之星.md "wikilink")，其餘42人為原創角色。與其他偶像大師系列的角色不同的是，315Pro所有成員成為偶像前都有前職，因為事出有因(理由あって)而成為偶像。
+315Pro全46名偶像，共15個組合。除了在[偶像大師系列中登場的](https://zh.wikipedia.org/wiki/偶像大師系列 "wikilink")“Jupiter”3人及在[偶像大師 深情之星登場的秋月涼外](../Page/偶像大師_深情之星.md "wikilink")，其餘42人為原創角色。與其他偶像大師系列的角色不同的是，315Pro所有成員成為偶像前都有前職，因為事出有因(理由あって)而成為偶像。
 
 所有角色會分為Physical（フィジカル）、Intelli（インテリ）、Mental（メンタル）三大屬性。
 
@@ -275,8 +274,7 @@
 <!-- end list -->
 
   -
-    生日 - 7月2日 / 年齢 - 不明 / 星座 - 蟹座 / 血型 - A型 / 慣用手 - 雙 / 出身地 - 神奈川 / 身高 -
-    176cm / 體重 - 61kg / 鞋碼 - 26cm / 属性 - EX
+    生日 - 7月2日 / 年齢 - 不明 / 星座 - 蟹座 / 血型 - A型 / 慣用手 - 雙 / 出身地 - 神奈川 / 身高 - 176cm / 體重 - 61kg / 鞋碼 - 26cm / 属性 - EX
     315Pro事務員。
 
 <!-- end list -->
@@ -287,7 +285,7 @@
 
 ### CD
 
-全部由[Lantis發行](../Page/Lantis.md "wikilink")。
+全部由[Lantis](../Page/Lantis.md "wikilink")發行。
 
   - THE IDOLM@STER SideM ST@RTING LINE
     各組合的單曲CD系列。收錄2首新曲、1首共通曲(DRIVE A LIVE)及DRAMA PART，共15張。
@@ -400,9 +398,7 @@
 </table>
 
   - THE IDOLM@STER SideM 2nd ANNIVERSARY DISC
-    由1st
-    LIVE出演的6隊組合所發行單曲CD系列。收錄各組合的新曲1首及合作曲1首，共3張。而2017年2月17日限定發售的專輯「THE
-    IDOLM@STER SideM 2nd ANNIVERSARY SOLO COLLECTION」則收錄了同系列的樂曲的Solo版本。
+    由1st LIVE出演的6隊組合所發行單曲CD系列。收錄各組合的新曲1首及合作曲1首，共3張。而2017年2月17日限定發售的專輯「THE IDOLM@STER SideM 2nd ANNIVERSARY SOLO COLLECTION」則收錄了同系列的樂曲的Solo版本。
 
 <table>
 <tbody>
@@ -537,8 +533,7 @@
 </table>
 
   - THE IDOLM@STER SideM ANIMATION PROJECT
-    收錄TV動畫所使用的樂曲。01為1st
-    LIVE的6隊組合的合唱曲，02至07為各組合的新曲1首、共通曲1首(Reason\!\!)及新曲的Instrumental版本。08則收錄了動畫所使用過的BGM及Instrumental，以及於第13話公開的新曲。
+    收錄TV動畫所使用的樂曲。01為1st LIVE的6隊組合的合唱曲，02至07為各組合的新曲1首、共通曲1首(Reason\!\!)及新曲的Instrumental版本。08則收錄了動畫所使用過的BGM及Instrumental，以及於第13話公開的新曲。
 
 <table>
 <tbody>
@@ -730,12 +725,11 @@
   - 偶像大師SideM ストラグルハート
     2017年12月號的『電撃マオウ』開始連載。加藤ミチル作畫。
   - 偶像大師SideM コミックアンソロジー
-    由[一迅社DNAメディアコミックス發行](../Page/一迅社.md "wikilink")。
+    由[一迅社](../Page/一迅社.md "wikilink")DNAメディアコミックス發行。
     1.  2015年11月30日發行 ISBN 978-4-7580-0882-2
     2.  2015年11月30日發行 ISBN 978-4-7580-0883-9
   - 偶像大師SideM アンソロジー
-    由[KADOKAWA](../Page/KADOKAWA.md "wikilink")[EnterbrainB](../Page/Enterbrain.md "wikilink")'s-LOG
-    COMICS發行。
+    由[KADOKAWA](../Page/KADOKAWA.md "wikilink")[Enterbrain](../Page/Enterbrain.md "wikilink")B's-LOG COMICS發行。
       - 「Marvelous」、2015年12月28日發行 ISBN 978-4-04-730840-4
       - 「Miracle」、2016年2月29日發行 ISBN 978-4-04-730959-3
 
@@ -767,8 +761,7 @@
 
 出演者:仲村宗悟、内田雄馬、八代拓、高塚智人、永塚拓馬、バレッタ裕
 
-  - THE IDOLM@STER SideM 1st STAGE ～ST@RTING\!～ LIVE
-    Blu-ray～理由あってチアリング上映会！～
+  - THE IDOLM@STER SideM 1st STAGE ～ST@RTING\!～ LIVE Blu-ray～理由あってチアリング上映会！～
 
 出演者:
 2016年6月4日: 仲村宗悟、堀江瞬、渡辺紘、山谷祥生、伊東健人
@@ -1209,8 +1202,7 @@
 
 ## 外部連結
 
-  - [THE IDOLM@STER OFFICIAL
-    WEB](http://www.bandainamcogames.co.jp/cs/list/idolmaster/)
+  - [THE IDOLM@STER OFFICIAL WEB](http://www.bandainamcogames.co.jp/cs/list/idolmaster/)
 
   - [偶像大師SideM | 萬代南夢宮娛樂官方網站](http://side-m.idolmaster.jp/)
 
@@ -1218,22 +1210,11 @@
 
   -
   -
-  - [偶像大師SideM ／ THE IDOLM＠STER
-    SideM｜アニサタ｜朝日放送](https://www.asahi.co.jp/anime/imas-sidem/)
+  - [偶像大師SideM ／ THE IDOLM＠STER SideM｜アニサタ｜朝日放送](https://www.asahi.co.jp/anime/imas-sidem/)
 
   - [偶像大師SideM - 名古屋テレビ【メ～テレ】](https://www.nagoyatv.com/imas-sidem/)
 
-[Category:2014年电子游戏](https://zh.wikipedia.org/wiki/Category:2014年电子游戏 "wikilink")
-[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink")
-[Category:A-1_Pictures](https://zh.wikipedia.org/wiki/Category:A-1_Pictures "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:偶像題材動畫](https://zh.wikipedia.org/wiki/Category:偶像題材動畫 "wikilink")
-[Category:养成游戏](https://zh.wikipedia.org/wiki/Category:养成游戏 "wikilink")
-[Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink")
-[Category:電擊魔王](https://zh.wikipedia.org/wiki/Category:電擊魔王 "wikilink")
-[Category:偶像大师系列电子游戏](https://zh.wikipedia.org/wiki/Category:偶像大师系列电子游戏 "wikilink")
+[Category:2014年电子游戏](https://zh.wikipedia.org/wiki/Category:2014年电子游戏 "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:A-1_Pictures](https://zh.wikipedia.org/wiki/Category:A-1_Pictures "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:偶像題材動畫](https://zh.wikipedia.org/wiki/Category:偶像題材動畫 "wikilink") [Category:养成游戏](https://zh.wikipedia.org/wiki/Category:养成游戏 "wikilink") [Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink") [Category:電擊魔王](https://zh.wikipedia.org/wiki/Category:電擊魔王 "wikilink") [Category:偶像大师系列电子游戏](https://zh.wikipedia.org/wiki/Category:偶像大师系列电子游戏 "wikilink")
 
 1.
 2.

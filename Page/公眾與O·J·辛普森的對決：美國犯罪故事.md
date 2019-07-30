@@ -1,17 +1,16 @@
 《**公眾與O·J·辛普森的對決：美國犯罪故事**》（）為[FX](https://zh.wikipedia.org/wiki/FX_\(電視頻道\) "wikilink")[詩選劇](https://zh.wikipedia.org/wiki/詩選劇 "wikilink")《[美國犯罪故事](../Page/美國犯罪故事.md "wikilink")》（）的第一季。由開創，於2016年2月2日在FX開播。\[1\]\[2\]\[3\]本季聚焦於曾轟動全美關注的[辛普森案](../Page/辛普森案.md "wikilink")，並改編編著的《逃離人生：公眾與O·J·辛普森的對決》（）一書。\[4\]
 
-本季在首播後，獲得影評家廣泛的讚譽，並榮獲[黃金時段艾美獎](../Page/黃金時段艾美獎.md "wikilink")22項入圍、最終抱回9座獎項殊榮，同時亦受[金球獎](../Page/金球獎.md "wikilink")、[英國影藝學院電視獎](https://zh.wikipedia.org/wiki/英國學術電視獎 "wikilink")、[美國電影學會獎](https://zh.wikipedia.org/wiki/美國電影學會 "wikilink")、
-[美國製片人協會獎](https://zh.wikipedia.org/wiki/美國製片人協會 "wikilink")、[美國編劇工會獎](https://zh.wikipedia.org/wiki/美國編劇工會獎 "wikilink")、、[美國演員工會獎](../Page/美國演員工會獎.md "wikilink")、與[衛星獎等多項大獎肯定](https://zh.wikipedia.org/wiki/衛星獎 "wikilink")，[莎拉·保羅森也在各大獎中斬獲多座女演員獎](https://zh.wikipedia.org/wiki/莎拉·保羅森 "wikilink")。
+本季在首播後，獲得影評家廣泛的讚譽，並榮獲[黃金時段艾美獎](../Page/黃金時段艾美獎.md "wikilink")22項入圍、最終抱回9座獎項殊榮，同時亦受[金球獎](../Page/金球獎.md "wikilink")、[英國影藝學院電視獎](https://zh.wikipedia.org/wiki/英國學術電視獎 "wikilink")、[美國電影學會獎](https://zh.wikipedia.org/wiki/美國電影學會 "wikilink")、 [美國製片人協會獎](https://zh.wikipedia.org/wiki/美國製片人協會 "wikilink")、[美國編劇工會獎](https://zh.wikipedia.org/wiki/美國編劇工會獎 "wikilink")、、[美國演員工會獎](../Page/美國演員工會獎.md "wikilink")、與[衛星獎等多項大獎肯定](https://zh.wikipedia.org/wiki/衛星獎 "wikilink")，[莎拉·保羅森也在各大獎中斬獲多座女演員獎](https://zh.wikipedia.org/wiki/莎拉·保羅森 "wikilink")。
 
 ## 製作
 
 ### 開發
 
-2014年10月7日，[FX宣布預訂由](https://zh.wikipedia.org/wiki/FX_\(電視頻道\) "wikilink")開發兼製作，《[整形春秋](../Page/整容室.md "wikilink")》、《[歡樂合唱團](https://zh.wikipedia.org/wiki/歡樂合唱團 "wikilink")》、《[美國恐怖故事](https://zh.wikipedia.org/wiki/美國恐怖故事 "wikilink")》與《[尖叫女王](../Page/尖叫女王.md "wikilink")》的與[萊恩·墨菲共同製作的](../Page/萊恩·墨菲.md "wikilink")《美國犯罪故事》10集集數。萊恩·墨菲將執導試播集，而與布萊德·辛普森（）將加入執行製作行列。\[5\]本劇起初由[FOX開發](../Page/福斯廣播公司.md "wikilink")，後來改由同集團的有線電視網[FX製作](https://zh.wikipedia.org/wiki/FX_\(電視頻道\) "wikilink")。\[6\]
+2014年10月7日，[FX宣布預訂由](https://zh.wikipedia.org/wiki/FX_\(電視頻道\) "wikilink")開發兼製作，《[整形春秋](../Page/整容室.md "wikilink")》、《[歡樂合唱團](https://zh.wikipedia.org/wiki/歡樂合唱團 "wikilink")》、《[美國恐怖故事](https://zh.wikipedia.org/wiki/美國恐怖故事 "wikilink")》與《[尖叫女王](../Page/尖叫女王.md "wikilink")》的與[萊恩·墨菲](../Page/萊恩·墨菲.md "wikilink")共同製作的《美國犯罪故事》10集集數。萊恩·墨菲將執導試播集，而與布萊德·辛普森（）將加入執行製作行列。\[5\]本劇起初由[FOX開發](../Page/福斯廣播公司.md "wikilink")，後來改由同集團的有線電視網[FX製作](https://zh.wikipedia.org/wiki/FX_\(電視頻道\) "wikilink")。\[6\]
 
 ### 選角
 
-2014年12月9日，[小古巴·古汀與](https://zh.wikipedia.org/wiki/小庫珀·古丁 "wikilink")[莎拉·保羅森為首兩個加入演員陣容的演員](https://zh.wikipedia.org/wiki/莎拉·保羅森 "wikilink")，兩人分別飾演[O·J·辛普森與](../Page/O·J·辛普森.md "wikilink")。\[7\]隨後，宣布[大衛·史威默將飾演](https://zh.wikipedia.org/wiki/大衛·史威默 "wikilink")。\[8\]2015年1月，[約翰·屈伏塔加入演出陣容飾演](https://zh.wikipedia.org/wiki/約翰·特拉沃爾塔 "wikilink")，並將身兼製作人。\[9\]2015年2月，[寇特尼·B·凡斯加入劇組飾演](../Page/寇特尼·B·凡斯.md "wikilink")。\[10\]2015年3月，宣布將飾演配角。\[11\]2015年4月，宣布[斯特林·K·布朗將飾演](../Page/斯特林·K·布朗.md "wikilink")；\[12\][喬丹娜·布魯斯特則將飾演丹妮絲](https://zh.wikipedia.org/wiki/喬丹娜·布魯斯特 "wikilink")·布朗；\[13\]而則將飾演法官。\[14\]2015年5月，證實[莎瑪·布萊兒將飾演](../Page/莎瑪·布萊兒.md "wikilink")[克莉絲·卡戴珊](../Page/克莉絲·詹納.md "wikilink")。\[15\]2015年7月，宣布[奈森·連恩飾演](../Page/納坦·朗.md "wikilink")。\[16\]
+2014年12月9日，[小古巴·古汀與](https://zh.wikipedia.org/wiki/小庫珀·古丁 "wikilink")[莎拉·保羅森為首兩個加入演員陣容的演員](https://zh.wikipedia.org/wiki/莎拉·保羅森 "wikilink")，兩人分別飾演[O·J·辛普森](../Page/O·J·辛普森.md "wikilink")與。\[7\]隨後，宣布[大衛·史威默將飾演](https://zh.wikipedia.org/wiki/大衛·史威默 "wikilink")。\[8\]2015年1月，[約翰·屈伏塔加入演出陣容飾演](https://zh.wikipedia.org/wiki/約翰·特拉沃爾塔 "wikilink")，並將身兼製作人。\[9\]2015年2月，[寇特尼·B·凡斯](../Page/寇特尼·B·凡斯.md "wikilink")加入劇組飾演。\[10\]2015年3月，宣布將飾演配角。\[11\]2015年4月，宣布[斯特林·K·布朗](../Page/斯特林·K·布朗.md "wikilink")將飾演；\[12\][喬丹娜·布魯斯特則將飾演丹妮絲](https://zh.wikipedia.org/wiki/喬丹娜·布魯斯特 "wikilink")·布朗；\[13\]而則將飾演法官。\[14\]2015年5月，證實[莎瑪·布萊兒](../Page/莎瑪·布萊兒.md "wikilink")將飾演[克莉絲·卡戴珊](../Page/克莉絲·詹納.md "wikilink")。\[15\]2015年7月，宣布[奈森·連恩飾演](../Page/納坦·朗.md "wikilink")。\[16\]
 
 ### 拍攝
 
@@ -248,7 +247,7 @@
 <td><p><a href="../Page/李致林.md" title="wikilink">李致林</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/羅伯·莫羅" title="wikilink">羅伯·莫羅</a></p></td>
+<td><p><a href="../Page/羅伯·莫羅.md" title="wikilink">羅伯·莫羅</a></p></td>
 <td><p><br />
 </p></td>
 <td></td>
@@ -532,20 +531,15 @@
 
 ## 評價
 
-[Sarah_Paulson_by_Gage_Skidmore_2.jpg](https://zh.wikipedia.org/wiki/File:Sarah_Paulson_by_Gage_Skidmore_2.jpg "fig:Sarah_Paulson_by_Gage_Skidmore_2.jpg")的表現獲得影評家讚賞，並因本劇奪得[黃金時段艾美獎](../Page/黃金時段艾美獎.md "wikilink")\]\]
-《美國犯罪故事》獲得了評論家廣泛的好評。於[爛番茄整合的評論中](../Page/爛番茄.md "wikilink")，本季獲得97%新鮮度、8.71/10分（75位評論家），評論家共識：「《公眾與O·J·辛普森的對決：美國犯罪故事》以頂尖的編劇、導演與演技來闡明一個基於事實的局部故事
-–
-並獲得熱烈的反響。」\[36\]於[Metacritic整合的評論中](../Page/Metacritic.md "wikilink")，本季獲得了90分（滿分100分；43位評論家），屬極佳的讚譽。\[37\]
+[Sarah_Paulson_by_Gage_Skidmore_2.jpg](https://zh.wikipedia.org/wiki/File:Sarah_Paulson_by_Gage_Skidmore_2.jpg "fig:Sarah_Paulson_by_Gage_Skidmore_2.jpg")的表現獲得影評家讚賞，並因本劇奪得[黃金時段艾美獎](../Page/黃金時段艾美獎.md "wikilink")\]\] 《美國犯罪故事》獲得了評論家廣泛的好評。於[爛番茄](../Page/爛番茄.md "wikilink")整合的評論中，本季獲得97%新鮮度、8.71/10分（75位評論家），評論家共識：「《公眾與O·J·辛普森的對決：美國犯罪故事》以頂尖的編劇、導演與演技來闡明一個基於事實的局部故事 – 並獲得熱烈的反響。」\[36\]於[Metacritic](../Page/Metacritic.md "wikilink")整合的評論中，本季獲得了90分（滿分100分；43位評論家），屬極佳的讚譽。\[37\]
 
-許多評論家非常讚賞演員的演出，特別是[莎拉·保羅森與](https://zh.wikipedia.org/wiki/莎拉·保羅森 "wikilink")。\[38\]\[39\]\[40\]〈[好萊塢報導](../Page/荷里活報道.md "wikilink")〉的丹·范伯格（）寫道：「隨著克拉克的不適感上升，保羅森演出的小細節使她更顯人性\[…\]
-凡斯飾演的卡克倫有時搞笑，但他有著情緒上的流動，使他偶爾內斂的同時，亦顯得更加聰明。」\[41\]〈[綜藝雜誌](../Page/綜藝_\(雜誌\).md "wikilink")〉的布萊恩·勞瑞（）亦讚揚了與[奈森·連恩的表現](../Page/納坦·朗.md "wikilink")。\[42\]
+許多評論家非常讚賞演員的演出，特別是[莎拉·保羅森與](https://zh.wikipedia.org/wiki/莎拉·保羅森 "wikilink")。\[38\]\[39\]\[40\]〈[好萊塢報導](../Page/荷里活報道.md "wikilink")〉的丹·范伯格（）寫道：「隨著克拉克的不適感上升，保羅森演出的小細節使她更顯人性\[…\] 凡斯飾演的卡克倫有時搞笑，但他有著情緒上的流動，使他偶爾內斂的同時，亦顯得更加聰明。」\[41\]〈[綜藝雜誌](../Page/綜藝_\(雜誌\).md "wikilink")〉的布萊恩·勞瑞（）亦讚揚了與[奈森·連恩的表現](../Page/納坦·朗.md "wikilink")。\[42\]
 
 儘管其他演員獲得了讚賞，但[約翰·屈伏塔與](https://zh.wikipedia.org/wiki/約翰·特拉沃爾塔 "wikilink")[小古巴·古汀的演出卻獲得好壞參半的評價](https://zh.wikipedia.org/wiki/小庫珀·古丁 "wikilink")。〈綜藝雜誌〉的布萊恩·勞瑞表示：「沒錯，沙皮洛說話僵硬卻抑揚頓挫，但演員過分的矯飾台詞使得律師一角成了一名小丑，與其他演員細膩的演出有著鮮明的對比。」\[43\]〈[浮華世界](https://zh.wikipedia.org/wiki/名利場_\(雜誌\) "wikilink")〉的妮可·瓊斯（）稱屈伏塔的表現「不自然又刻意」。\[44\]〈好萊塢報導〉的丹·范伯格則稱其演出是「毫無吸引力的糟糕表現。」\[45\]
 
 〈綜藝雜誌〉的莫琳·萊恩（）隨著故事的推展，反而對屈伏塔有更深刻的印象：「我從一開始的困惑與懷疑，來到富有娛樂性，最終真誠的讚賞。你完全無法從約翰·屈伏塔身上移開視線，就像有著某種魔力一般。」\[46\]〈[滾石雜誌](../Page/滾石_\(雜誌\).md "wikilink")〉的伊莉莎白·加伯-保羅（）稱道：「可以說是\[屈伏塔\]在[昆汀·塔倫蒂諾](https://zh.wikipedia.org/wiki/昆汀·塔倫蒂諾 "wikilink")[讓他的演藝事業起死回生後最佳的一次演出](https://zh.wikipedia.org/wiki/低俗小說 "wikilink")。」\[47\]〈[今日美國](../Page/今日美國.md "wikilink")〉的羅伯特·比安可（）認為屈伏塔是節目中有著“表現最廣”的演員。\[48\]
 
-〈[衛報](../Page/衛報.md "wikilink")〉的戴夫·席林（）
-評論古汀的演出：「他低估、沙啞的聲音聽起來與O·J·辛普森低沉、命令式口吻完全不像。」\[49\]〈[紐約郵報](../Page/紐約郵報.md "wikilink")〉的邁克爾·斯塔爾（）亦強烈評論古汀的表現：「演繹辛普森為一個空洞、悲痛麻木與講話高分貝的人物，亦在遭逮捕後沒有絲毫的情感動搖。他是個不起眼又惱人的存在，就像只把台詞念出一樣，而他也只能做到這麼多。」\[50\]而古汀以本劇入圍[艾美獎一事](../Page/第68屆黃金時段艾美獎.md "wikilink")，則遭到不少評論家的高度嘲諷。\[51\]
+〈[衛報](../Page/衛報.md "wikilink")〉的戴夫·席林（） 評論古汀的演出：「他低估、沙啞的聲音聽起來與O·J·辛普森低沉、命令式口吻完全不像。」\[49\]〈[紐約郵報](../Page/紐約郵報.md "wikilink")〉的邁克爾·斯塔爾（）亦強烈評論古汀的表現：「演繹辛普森為一個空洞、悲痛麻木與講話高分貝的人物，亦在遭逮捕後沒有絲毫的情感動搖。他是個不起眼又惱人的存在，就像只把台詞念出一樣，而他也只能做到這麼多。」\[50\]而古汀以本劇入圍[艾美獎一事](../Page/第68屆黃金時段艾美獎.md "wikilink")，則遭到不少評論家的高度嘲諷。\[51\]
 
 不過，〈[娛樂周刊](https://zh.wikipedia.org/wiki/娛樂周刊 "wikilink")〉的喬·麥高文（）則給予古汀正面的評價，並稱其演出“極具風險”。\[52\]〈滾石雜誌〉的伊莉莎白·加伯-保羅形容其表現“一個令人不安可信，理智搖搖欲墜的淺在精神病患”。\[53\]〈〉的尼克·維納布（）亦給予古汀的演出好評，認為“確實足以讓他進入艾美獎的入圍名單中”。\[54\]
 
@@ -1141,7 +1135,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/IGN.md" title="wikilink">IGN獎</a></p></td>
+<td><p><a href="../Page/IGN.md" title="wikilink">IGN</a>獎</p></td>
 <td><p>最佳電視影集獎</p></td>
 <td></td>
 <td></td>
@@ -1176,7 +1170,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/IGN.md" title="wikilink">IGN人民選擇獎</a></p></td>
+<td><p><a href="../Page/IGN.md" title="wikilink">IGN</a>人民選擇獎</p></td>
 <td><p>最佳電視影集獎</p></td>
 <td></td>
 <td></td>
@@ -1474,11 +1468,9 @@
 
 ## 海外播出
 
-[FOX
-Crime於](../Page/福斯警匪頻道_\(亞洲\).md "wikilink")2016年2月18日晚間10點安排亞洲區首播，但後續取消同期放映的計劃，\[56\]直至同年6月6日晚間8點才進行亞洲區全季首播，\[57\]並於8月8日播出季終。\[58\][Netflix則於](../Page/Netflix.md "wikilink")2017年3月18日在亞洲華語地區上線全季集數。
+[FOX Crime於](../Page/福斯警匪頻道_\(亞洲\).md "wikilink")2016年2月18日晚間10點安排亞洲區首播，但後續取消同期放映的計劃，\[56\]直至同年6月6日晚間8點才進行亞洲區全季首播，\[57\]並於8月8日播出季終。\[58\][Netflix](../Page/Netflix.md "wikilink")則於2017年3月18日在亞洲華語地區上線全季集數。
 
-[香港除了FOX](../Page/香港.md "wikilink")
-Crime與Netflix的播映外，本季接檔《[逆天潛能](../Page/藥命效應_\(電視劇\).md "wikilink")》，在[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[明珠台自](../Page/明珠台.md "wikilink")2016年8月31日至11月2日間，於星期三22點35分或40分播映至23點35分，8月31日、9月21日、10月26日與11月2日播出時間各異動為22點35分至23點50分、22點40分至23點50分、22點35分至23點45分及22點35分至24點整，並由《[血變](https://zh.wikipedia.org/wiki/血族_\(電視劇\) "wikilink")》第3季接檔。
+[香港](../Page/香港.md "wikilink")除了FOX Crime與Netflix的播映外，本季接檔《[逆天潛能](../Page/藥命效應_\(電視劇\).md "wikilink")》，在[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[明珠台](../Page/明珠台.md "wikilink")自2016年8月31日至11月2日間，於星期三22點35分或40分播映至23點35分，8月31日、9月21日、10月26日與11月2日播出時間各異動為22點35分至23點50分、22點40分至23點50分、22點35分至23點45分及22點35分至24點整，並由《[血變](https://zh.wikipedia.org/wiki/血族_\(電視劇\) "wikilink")》第3季接檔。
 
 ## 備註
 
@@ -1489,15 +1481,7 @@ Crime與Netflix的播映外，本季接檔《[逆天潛能](../Page/藥命效應
   -
   -
   -
-[Category:美國犯罪故事](https://zh.wikipedia.org/wiki/Category:美國犯罪故事 "wikilink")
-[Category:2016年播出的電視劇季度](https://zh.wikipedia.org/wiki/Category:2016年播出的電視劇季度 "wikilink")
-[Category:美國犯罪電視劇](https://zh.wikipedia.org/wiki/Category:美國犯罪電視劇 "wikilink")
-[Category:檢察官題材電視劇](https://zh.wikipedia.org/wiki/Category:檢察官題材電視劇 "wikilink")
-[Category:警察題材電視劇](https://zh.wikipedia.org/wiki/Category:警察題材電視劇 "wikilink")
-[Category:1994年背景作品](https://zh.wikipedia.org/wiki/Category:1994年背景作品 "wikilink")
-[Category:1995年背景作品](https://zh.wikipedia.org/wiki/Category:1995年背景作品 "wikilink")
-[Category:洛杉磯背景電視節目](https://zh.wikipedia.org/wiki/Category:洛杉磯背景電視節目 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:美國犯罪故事](https://zh.wikipedia.org/wiki/Category:美國犯罪故事 "wikilink") [Category:2016年播出的電視劇季度](https://zh.wikipedia.org/wiki/Category:2016年播出的電視劇季度 "wikilink") [Category:美國犯罪電視劇](https://zh.wikipedia.org/wiki/Category:美國犯罪電視劇 "wikilink") [Category:檢察官題材電視劇](https://zh.wikipedia.org/wiki/Category:檢察官題材電視劇 "wikilink") [Category:警察題材電視劇](https://zh.wikipedia.org/wiki/Category:警察題材電視劇 "wikilink") [Category:1994年背景作品](https://zh.wikipedia.org/wiki/Category:1994年背景作品 "wikilink") [Category:1995年背景作品](https://zh.wikipedia.org/wiki/Category:1995年背景作品 "wikilink") [Category:洛杉磯背景電視節目](https://zh.wikipedia.org/wiki/Category:洛杉磯背景電視節目 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
 1.
 

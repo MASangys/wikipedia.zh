@@ -1,5 +1,4 @@
-**株式會社Animation StudiO
-Seven**（，）是[日本的](../Page/日本.md "wikilink")[動畫製作公司](../Page/日本动画.md "wikilink")。
+**株式會社Animation StudiO Seven**（，）是[日本](../Page/日本.md "wikilink")的[動畫製作公司](../Page/日本动画.md "wikilink")。
 
 ## 簡介
 
@@ -9,11 +8,9 @@ Seven**（，）是[日本的](../Page/日本.md "wikilink")[動畫製作公司]
 
 於動畫檢查、製作進行時使用**瀨分七尾**名義（即法人[筆名](../Page/筆名.md "wikilink")）。
 
-至2016年，總承包作品皆為[短篇動畫](https://zh.wikipedia.org/wiki/泡面番 "wikilink")。2013年以前多數作品改編自[竹書房的原作漫畫](../Page/竹書房.md "wikilink")，2014年以後則以[一迅社的原作漫畫為主](../Page/一迅社.md "wikilink")，大部分由製片。
+至2016年，總承包作品皆為[短篇動畫](https://zh.wikipedia.org/wiki/泡面番 "wikilink")。2013年以前多數作品改編自[竹書房](../Page/竹書房.md "wikilink")的原作漫畫，2014年以後則以[一迅社](../Page/一迅社.md "wikilink")的原作漫畫為主，大部分由製片。
 
-與總部位於[練馬區的動畫製作公司](https://zh.wikipedia.org/wiki/練馬區 "wikilink")「[Seven
-Arcs](../Page/Seven_Arcs.md "wikilink")」及「[Seven Arcs
-Pictures](../Page/Seven_Arcs_Pictures.md "wikilink")」沒有關連。
+與總部位於[練馬區的動畫製作公司](https://zh.wikipedia.org/wiki/練馬區 "wikilink")「[Seven Arcs](../Page/Seven_Arcs.md "wikilink")」及「[Seven Arcs Pictures](../Page/Seven_Arcs_Pictures.md "wikilink")」沒有關連。
 
 ## 作品列表
 
@@ -310,7 +307,7 @@ Pictures](../Page/Seven_Arcs_Pictures.md "wikilink")」沒有關連。
 </tr>
 <tr class="odd">
 <td><p>2012年</p></td>
-<td><p><a href="../Page/松本零士.md" title="wikilink">松本零士「OZUMA」</a></p></td>
+<td><p><a href="../Page/松本零士.md" title="wikilink">松本零士</a>「OZUMA」</p></td>
 <td><p>LandQ studios、GONZO</p></td>
 <td></td>
 </tr>
@@ -415,10 +412,7 @@ Pictures](../Page/Seven_Arcs_Pictures.md "wikilink")」沒有關連。
 ## 外部連結
 
   -
-[Category:Animation_StudiO_Seven](https://zh.wikipedia.org/wiki/Category:Animation_StudiO_Seven "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
-[Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink")
+[Category:Animation_StudiO_Seven](https://zh.wikipedia.org/wiki/Category:Animation_StudiO_Seven "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink") [Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink")
 
 1.
 2.

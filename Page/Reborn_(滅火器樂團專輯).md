@@ -1,10 +1,8 @@
-《**REBORN**》是[滅火器樂團的第四張專輯](https://zh.wikipedia.org/wiki/滅火器樂團 "wikilink")，於2016年3月25日由滅火器樂團創立公司[火氣音樂首張製作由](https://zh.wikipedia.org/wiki/火氣音樂 "wikilink")[五月天創立公司相關企業](../Page/五月天.md "wikilink")[相知國際發行](https://zh.wikipedia.org/wiki/相知國際 "wikilink")。\[1\]\[2\]
+《**REBORN**》是[滅火器樂團的第四張專輯](https://zh.wikipedia.org/wiki/滅火器樂團 "wikilink")，於2016年3月25日由滅火器樂團創立公司[火氣音樂首張製作由](https://zh.wikipedia.org/wiki/火氣音樂 "wikilink")[五月天](../Page/五月天.md "wikilink")創立公司相關企業[相知國際發行](https://zh.wikipedia.org/wiki/相知國際 "wikilink")。\[1\]\[2\]
 
-《繼續向前行》MV，熱血歌詞搭配日本[311大地震海嘯災區重建畫面](https://zh.wikipedia.org/wiki/311大地震 "wikilink")，讓許多樂迷看了不禁飆淚，直呼：「太感動了，眼淚完全止不住！」表示每次聽滅火器，都有心被填滿的感覺。而由於在日本拍攝，也有許多日網友在歌曲下方留言，用翻譯軟體寫成生硬中文感謝滅火器；甚至旅日[埼玉西武獅強投](../Page/埼玉西武獅.md "wikilink")[郭俊麟也忍不住在自己臉書分享](../Page/郭俊麟.md "wikilink")，直說要拿這首歌做為自己登板出場曲。
-\[3\]
+《繼續向前行》MV，熱血歌詞搭配日本[311大地震海嘯災區重建畫面](https://zh.wikipedia.org/wiki/311大地震 "wikilink")，讓許多樂迷看了不禁飆淚，直呼：「太感動了，眼淚完全止不住！」表示每次聽滅火器，都有心被填滿的感覺。而由於在日本拍攝，也有許多日網友在歌曲下方留言，用翻譯軟體寫成生硬中文感謝滅火器；甚至旅日[埼玉西武獅](../Page/埼玉西武獅.md "wikilink")強投[郭俊麟](../Page/郭俊麟.md "wikilink")也忍不住在自己臉書分享，直說要拿這首歌做為自己登板出場曲。 \[3\]
 
-2016年3月28日滅火器樂團官方臉書粉絲團宣布，6月8日由日本[Space Shower
-Music發行](https://zh.wikipedia.org/wiki/Space_Shower_Music "wikilink")《[REBORN](https://zh.wikipedia.org/wiki/REBORN_\(滅火器日本音樂專輯\) "wikilink")》日盤。是台灣搖滾樂團滅火器樂團在日本發行的第一張專輯。\[4\]\[5\]
+2016年3月28日滅火器樂團官方臉書粉絲團宣布，6月8日由日本[Space Shower Music發行](https://zh.wikipedia.org/wiki/Space_Shower_Music "wikilink")《[REBORN](https://zh.wikipedia.org/wiki/REBORN_\(滅火器日本音樂專輯\) "wikilink")》日盤。是台灣搖滾樂團滅火器樂團在日本發行的第一張專輯。\[4\]\[5\]
 
 ## 曲目
 
@@ -352,16 +350,7 @@ Music發行](https://zh.wikipedia.org/wiki/Space_Shower_Music "wikilink")《[REB
   - [【人生的音樂祭】滅火器樂團：可以被擊倒不能投降，這就是我們的態度](http://www.thenewslens.com/article/36991)
   - [熄不了熱血：浴火重生的滅火器](http://www.thenewslens.com/article/41210)
 
-[Category:滅火器樂團音樂專輯](https://zh.wikipedia.org/wiki/Category:滅火器樂團音樂專輯 "wikilink")
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:搖滾音樂專輯 "wikilink")
-[Category:相知國際股份有限公司音樂專輯](https://zh.wikipedia.org/wiki/Category:相知國際股份有限公司音樂專輯 "wikilink")
-[Category:台灣索尼唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣索尼唱片音樂專輯 "wikilink")
-[Category:Space_Shower_Music音樂專輯](https://zh.wikipedia.org/wiki/Category:Space_Shower_Music音樂專輯 "wikilink")
-[Category:火氣音樂製作音樂專輯](https://zh.wikipedia.org/wiki/Category:火氣音樂製作音樂專輯 "wikilink")
-[Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
+[Category:滅火器樂團音樂專輯](https://zh.wikipedia.org/wiki/Category:滅火器樂團音樂專輯 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:搖滾音樂專輯 "wikilink") [Category:相知國際股份有限公司音樂專輯](https://zh.wikipedia.org/wiki/Category:相知國際股份有限公司音樂專輯 "wikilink") [Category:台灣索尼唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣索尼唱片音樂專輯 "wikilink") [Category:Space_Shower_Music音樂專輯](https://zh.wikipedia.org/wiki/Category:Space_Shower_Music音樂專輯 "wikilink") [Category:火氣音樂製作音樂專輯](https://zh.wikipedia.org/wiki/Category:火氣音樂製作音樂專輯 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
 
 1.
 2.

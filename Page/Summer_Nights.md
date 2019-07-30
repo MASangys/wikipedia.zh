@@ -1,13 +1,8 @@
-《**Summer
-Nights**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE於](https://zh.wikipedia.org/wiki/TWICE "wikilink")2018年7月9日推出的第二張韓語特別專輯，是《[What
-is
-Love?](../Page/What_is_Love?.md "wikilink")》改版的特別專輯，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，是次專輯以夏日風為主題，亦是TWICE自出道以來首次的夏日回歸。主打歌曲為〈Dance
-The Night Away〉。
+《**Summer Nights**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE於](https://zh.wikipedia.org/wiki/TWICE "wikilink")2018年7月9日推出的第二張韓語特別專輯，是《[What is Love?](../Page/What_is_Love?.md "wikilink")》改版的特別專輯，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，是次專輯以夏日風為主題，亦是TWICE自出道以來首次的夏日回歸。主打歌曲為〈Dance The Night Away〉。
 
 ## 背景及回歸日程
 
-2018年6月18日，TWICE於官方推特和臉書宣布TWICE將於2018年7月9日韓國時間下午六點以〈Dance The Night
-Away〉為主打歌回歸。
+2018年6月18日，TWICE於官方推特和臉書宣布TWICE將於2018年7月9日韓國時間下午六點以〈Dance The Night Away〉為主打歌回歸。
 
 6月23日，官方宣佈TWICE第二張韓語特別專輯名稱為〈Summer Nights〉。
 
@@ -15,11 +10,9 @@ Away〉為主打歌回歸。
 
 6月27日，釋出第一波團體概念照（夜晚）。
 
-6月28日至30日，依次釋出[娜璉](../Page/娜璉.md "wikilink")、[定延](../Page/定延.md "wikilink")、[Momo](https://zh.wikipedia.org/wiki/平井桃 "wikilink")、[Sana](https://zh.wikipedia.org/wiki/湊崎紗夏 "wikilink")、[志效](../Page/志效.md "wikilink")、[Mina](https://zh.wikipedia.org/wiki/名井南 "wikilink")、[多賢](../Page/多賢.md "wikilink")、[彩瑛以及](../Page/彩瑛.md "wikilink")[子瑜的第一波個人概念照](https://zh.wikipedia.org/wiki/子瑜 "wikilink")（夜晚）。
+6月28日至30日，依次釋出[娜璉](../Page/娜璉.md "wikilink")、[定延](../Page/定延.md "wikilink")、[Momo](https://zh.wikipedia.org/wiki/平井桃 "wikilink")、[Sana](https://zh.wikipedia.org/wiki/湊崎紗夏 "wikilink")、[志效](../Page/志效.md "wikilink")、[Mina](https://zh.wikipedia.org/wiki/名井南 "wikilink")、[多賢](../Page/多賢.md "wikilink")、[彩瑛](../Page/彩瑛.md "wikilink")以及[子瑜的第一波個人概念照](https://zh.wikipedia.org/wiki/子瑜 "wikilink")（夜晚）。
 
-6月30日，公開完整專輯歌單，JYP娛樂透露主打歌由韓國知名歌手[輝晟填詞](https://zh.wikipedia.org/wiki/輝晟 "wikilink")，以及另一首新曲〈Shot
-thru the
-heart〉由團內三名日本成員[Momo](https://zh.wikipedia.org/wiki/平井桃 "wikilink")、[Sana](https://zh.wikipedia.org/wiki/湊崎紗夏 "wikilink")、[Mina填詞](https://zh.wikipedia.org/wiki/名井南 "wikilink")。
+6月30日，公開完整專輯歌單，JYP娛樂透露主打歌由韓國知名歌手[輝晟填詞](https://zh.wikipedia.org/wiki/輝晟 "wikilink")，以及另一首新曲〈Shot thru the heart〉由團內三名日本成員[Momo](https://zh.wikipedia.org/wiki/平井桃 "wikilink")、[Sana](https://zh.wikipedia.org/wiki/湊崎紗夏 "wikilink")、[Mina填詞](https://zh.wikipedia.org/wiki/名井南 "wikilink")。
 
 7月1日，釋出第二波團體概念照（海洋）。
 
@@ -368,13 +361,7 @@ heart〉由團內三名日本成員[Momo](https://zh.wikipedia.org/wiki/平井�
 
 ## 參考資料
 
-[Category:TWICE音樂專輯](https://zh.wikipedia.org/wiki/Category:TWICE音樂專輯 "wikilink")
-[Category:韩国音樂專輯](https://zh.wikipedia.org/wiki/Category:韩国音樂專輯 "wikilink")
-[Category:2018年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2018年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon數位下載週榜冠軍作品 "wikilink")
-[Category:2018年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon流媒體週榜冠軍作品 "wikilink")
-[Category:2018年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2018年Gaon數位下載月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon數位下載月榜冠軍作品 "wikilink")
+[Category:TWICE音樂專輯](https://zh.wikipedia.org/wiki/Category:TWICE音樂專輯 "wikilink") [Category:韩国音樂專輯](https://zh.wikipedia.org/wiki/Category:韩国音樂專輯 "wikilink") [Category:2018年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon單曲週榜冠軍作品 "wikilink") [Category:2018年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2018年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon流媒體週榜冠軍作品 "wikilink") [Category:2018年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon專輯週榜冠軍作品 "wikilink") [Category:2018年Gaon數位下載月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon數位下載月榜冠軍作品 "wikilink")
 
 1.
 2.

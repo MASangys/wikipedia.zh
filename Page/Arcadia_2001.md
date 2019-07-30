@@ -1,45 +1,25 @@
-**Arcadia 2001**是一款由[Emerson
-Radio於](https://zh.wikipedia.org/wiki/Emerson_Radio "wikilink")1982年發售的[第二世代](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第二世代\) "wikilink")[8位元家用遊戲機](../Page/8位元.md "wikilink")。但是由開始發售至停產，它的壽命只有18個月，亦只推出數十款遊戲\[1\]\[2\]\[3\]\[4\]。
+**Arcadia 2001**是一款由[Emerson Radio於](https://zh.wikipedia.org/wiki/Emerson_Radio "wikilink")1982年發售的[第二世代](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第二世代\) "wikilink")[8位元](../Page/8位元.md "wikilink")家用遊戲機。但是由開始發售至停產，它的壽命只有18個月，亦只推出數十款遊戲\[1\]\[2\]\[3\]\[4\]。
 
-與同時期的家用遊戲機相似，Emerson亦授權其他公司生產及發售Arcadia 2001的克隆機。據估計，全世界大約有30款Arcadia
-2001的克隆機\[5\]\[6\]，例如Advision Home Arcade（法國）、Bandai
-Arcadia（日本、售價19,800[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")）、Eduscho
-Tele-Fever（德國）、Intervision 2001（瑞士）、Leisure Dynamics Leisure
-Vision（加拿大）、Ormatu Videospiel Computer（德國）等\[7\]\[8\]。
+與同時期的家用遊戲機相似，Emerson亦授權其他公司生產及發售Arcadia 2001的克隆機。據估計，全世界大約有30款Arcadia 2001的克隆機\[5\]\[6\]，例如Advision Home Arcade（法國）、Bandai Arcadia（日本、售價19,800[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")）、Eduscho Tele-Fever（德國）、Intervision 2001（瑞士）、Leisure Dynamics Leisure Vision（加拿大）、Ormatu Videospiel Computer（德國）等\[7\]\[8\]。
 
 ## 簡介
 
-1982年，Emerson Radio決定加入當時家用遊戲機市場的競爭並推出Arcadia
-2001。雖然它的目標是爭奪[雅達利2600的領導地位](../Page/雅達利2600.md "wikilink")，而在性能上的確比雅達利2600優勢。但是，[ColecoVision及雅達利](../Page/ColecoVision.md "wikilink")2600的後繼機[雅達利5200亦於同年發售](../Page/雅達利5200.md "wikilink")，在缺乏吸引力及貧乏的遊戲選擇下，Arcadia
-2001在當時的家用遊戲機市場沒有競爭力\[9\]\[10\]\[11\]\[12\]。此外，Emerson
-Radio更在廣告內向消費者作出虛假的陳述：Arcadia 2001有24
-KB的[RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")，這嚴重地損害Emerson
-Radio及Arcadia 2001的聲譽\[13\]\[14\]。最後在18個月後，Arcadia 2001退出了家用遊戲機市場。
+1982年，Emerson Radio決定加入當時家用遊戲機市場的競爭並推出Arcadia 2001。雖然它的目標是爭奪[雅達利2600](../Page/雅達利2600.md "wikilink")的領導地位，而在性能上的確比雅達利2600優勢。但是，[ColecoVision](../Page/ColecoVision.md "wikilink")及雅達利2600的後繼機[雅達利5200](../Page/雅達利5200.md "wikilink")亦於同年發售，在缺乏吸引力及貧乏的遊戲選擇下，Arcadia 2001在當時的家用遊戲機市場沒有競爭力\[9\]\[10\]\[11\]\[12\]。此外，Emerson Radio更在廣告內向消費者作出虛假的陳述：Arcadia 2001有24 KB的[RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")，這嚴重地損害Emerson Radio及Arcadia 2001的聲譽\[13\]\[14\]。最後在18個月後，Arcadia 2001退出了家用遊戲機市場。
 
-Arcadia 2001採用當時常見的仿木機身。由於Emerson Radio想將Arcadia
-2001設計成可移動的遊戲機，因此Arcadia
-2001的尺寸比同時代的遊戲機小，亦可以使用標準的12
-[V電源](../Page/伏特.md "wikilink")，能夠在可移動的小型電視及交通工具上使用\[15\]\[16\]\[17\]\[18\]\[19\]。主機中央包括卡帶的卡槽及主要的按鈕，包括「重置」、「選擇」、「選項」、「開始」及「電源開關」。主機兩側是2個不可拆除的[Intellivision型控制器](../Page/Intellivision.md "wikilink")，控制器上有12個按鈕的鍵盤，下方為8個方向的控制桿，兩側有2個紅色的「開火」或「動作」按鈕。主機後方則有連接變壓器、電視及頻道3/4的插頭\[20\]\[21\]\[22\]。
+Arcadia 2001採用當時常見的仿木機身。由於Emerson Radio想將Arcadia 2001設計成可移動的遊戲機，因此Arcadia 2001的尺寸比同時代的遊戲機小，亦可以使用標準的12 [V電源](../Page/伏特.md "wikilink")，能夠在可移動的小型電視及交通工具上使用\[15\]\[16\]\[17\]\[18\]\[19\]。主機中央包括卡帶的卡槽及主要的按鈕，包括「重置」、「選擇」、「選項」、「開始」及「電源開關」。主機兩側是2個不可拆除的[Intellivision](../Page/Intellivision.md "wikilink")型控制器，控制器上有12個按鈕的鍵盤，下方為8個方向的控制桿，兩側有2個紅色的「開火」或「動作」按鈕。主機後方則有連接變壓器、電視及頻道3/4的插頭\[20\]\[21\]\[22\]。
 
-根據研究，Arcadia
-2001曾研發多款知名的遊戲如[食鬼](https://zh.wikipedia.org/wiki/食鬼 "wikilink")、[小蜜蜂及](https://zh.wikipedia.org/wiki/小蜜蜂_\(遊戲\) "wikilink")[保衛者等](https://zh.wikipedia.org/wiki/保衛者_\(電子遊戲\) "wikilink")，部份已到最後研發階段。但是Emerson無法將它們發售。因為雅達利成功檢控Emerson及其他公司，令這些知名遊戲只能夠在雅達利的遊戲機上發售。因此，當時除了雅達利的遊戲機外，其他家用遊戲機的生產商只能選擇將他們的家用遊戲機可以兼容雅達利的卡帶，又或是研發一些玩法相似的「盜版」遊戲。這令Arcadia
-2001等的家用遊戲機沒法擁有龐大的遊戲數量，從而缺乏競爭力\[23\]\[24\]\[25\]。
+根據研究，Arcadia 2001曾研發多款知名的遊戲如[食鬼](https://zh.wikipedia.org/wiki/食鬼 "wikilink")、[小蜜蜂及](https://zh.wikipedia.org/wiki/小蜜蜂_\(遊戲\) "wikilink")[保衛者等](https://zh.wikipedia.org/wiki/保衛者_\(電子遊戲\) "wikilink")，部份已到最後研發階段。但是Emerson無法將它們發售。因為雅達利成功檢控Emerson及其他公司，令這些知名遊戲只能夠在雅達利的遊戲機上發售。因此，當時除了雅達利的遊戲機外，其他家用遊戲機的生產商只能選擇將他們的家用遊戲機可以兼容雅達利的卡帶，又或是研發一些玩法相似的「盜版」遊戲。這令Arcadia 2001等的家用遊戲機沒法擁有龐大的遊戲數量，從而缺乏競爭力\[23\]\[24\]\[25\]。
 
-總括而言，Arcadia
-2001是一款失敗的產品。遊戲機的設計並沒有任何突出的優點，加上缺乏知名及出色的遊戲質量及數量，以及在錯誤的時間及已經飽和的遊戲機市場發售產品，令它無法成為一款成功及暢銷的產品\[26\]。
+總括而言，Arcadia 2001是一款失敗的產品。遊戲機的設計並沒有任何突出的優點，加上缺乏知名及出色的遊戲質量及數量，以及在錯誤的時間及已經飽和的遊戲機市場發售產品，令它無法成為一款成功及暢銷的產品\[26\]。
 
 ## 規格
 
   - 主處理器：[西格尼蒂克2650](https://zh.wikipedia.org/wiki/西格尼蒂克2650 "wikilink")
-      - 部份型號使用
-        [西格尼蒂克2650A](https://zh.wikipedia.org/wiki/西格尼蒂克2650 "wikilink")
-  - [RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")：1
-    [KB](https://zh.wikipedia.org/wiki/KB "wikilink")
+      - 部份型號使用 [西格尼蒂克2650A](https://zh.wikipedia.org/wiki/西格尼蒂克2650 "wikilink")
+  - [RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")：1 [KB](https://zh.wikipedia.org/wiki/KB "wikilink")
   - [ROM](https://zh.wikipedia.org/wiki/ROM "wikilink")：沒有
   - [解像度](https://zh.wikipedia.org/wiki/解像度 "wikilink")：128×208或128×104、8色
-  - 影像處理器：[西格尼蒂克](../Page/西格尼蒂克.md "wikilink")2637 UVI（3.58
-    [MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")（[NTSC](https://zh.wikipedia.org/wiki/NTSC "wikilink")）或3.55
-    [MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")（[PAL](https://zh.wikipedia.org/wiki/PAL "wikilink")））
+  - 影像處理器：[西格尼蒂克](../Page/西格尼蒂克.md "wikilink")2637 UVI（3.58 [MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")（[NTSC](https://zh.wikipedia.org/wiki/NTSC "wikilink")）或3.55 [MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")（[PAL](https://zh.wikipedia.org/wiki/PAL "wikilink")））
   - 聲效：單聲道「呼叫器」、單聲道「噪聲」
   - 硬件[精靈](https://zh.wikipedia.org/wiki/精靈_\(電腦圖形學\) "wikilink")：獨立4款、單色
   - 控制器：2×2
@@ -47,9 +27,7 @@ Arcadia 2001採用當時常見的仿木機身。由於Emerson Radio想將Arcadia
 
 ## 克隆機
 
-雖然Arcadia
-2001的壽命只有18個月，但是它的克隆機卻超過30款，並且在全世界不同國家發售。而這些克隆機主要由Emerson授權或出售Arcadia
-2001的生產資料及發售權力予其他公司，再由他們進行改良並發售遊戲機\[29\]\[30\]\[31\]\[32\]。
+雖然Arcadia 2001的壽命只有18個月，但是它的克隆機卻超過30款，並且在全世界不同國家發售。而這些克隆機主要由Emerson授權或出售Arcadia 2001的生產資料及發售權力予其他公司，再由他們進行改良並發售遊戲機\[29\]\[30\]\[31\]\[32\]。
 
 <table>
 <thead>
@@ -288,9 +266,7 @@ Arcadia 2001採用當時常見的仿木機身。由於Emerson Radio想將Arcadia
 
 ### 萬代Arcadia
 
-1982年，Arcadia
-2001的克隆機，萬代Arcadia在日本發售。而與其他克隆機不同的地方是它有4款只限於日本發售的遊戲，亦是4款不是由UA
-Ltd.研發及生產的遊戲。
+1982年，Arcadia 2001的克隆機，萬代Arcadia在日本發售。而與其他克隆機不同的地方是它有4款只限於日本發售的遊戲，亦是4款不是由UA Ltd.研發及生產的遊戲。
 
   - 多啦A夢（*Doraemon*）
   - IQ博士（*Dr. Slump*）
@@ -299,8 +275,7 @@ Ltd.研發及生產的遊戲。
 
 ## 遊戲
 
-Arcadia 2001共發售約款遊戲。除了有特別標示開發商及發行商外，遊戲開發商及發行商分別是UA
-Limited及Emerson\[33\]\[34\]\[35\]\[36\]\[37\]\[38\]。
+Arcadia 2001共發售約款遊戲。除了有特別標示開發商及發行商外，遊戲開發商及發行商分別是UA Limited及Emerson\[33\]\[34\]\[35\]\[36\]\[37\]\[38\]。
 
 <table>
 <thead>
@@ -680,12 +655,9 @@ Limited及Emerson\[33\]\[34\]\[35\]\[36\]\[37\]\[38\]。
 ## 外部链接
 
   - [Emerson Arcadia 2001 Central](http://amigan.yatho.com/)
-  - [Emerson Arcadia Library - Internet
-    Archive](https://archive.org/details/emerson_arcadia_library)
+  - [Emerson Arcadia Library - Internet Archive](https://archive.org/details/emerson_arcadia_library)
 
-[Category:家用遊戲機](https://zh.wikipedia.org/wiki/Category:家用遊戲機 "wikilink")
-[Category:第二世代遊戲機](https://zh.wikipedia.org/wiki/Category:第二世代遊戲機 "wikilink")
-[Category:1982年面世的產品](https://zh.wikipedia.org/wiki/Category:1982年面世的產品 "wikilink")
+[Category:家用遊戲機](https://zh.wikipedia.org/wiki/Category:家用遊戲機 "wikilink") [Category:第二世代遊戲機](https://zh.wikipedia.org/wiki/Category:第二世代遊戲機 "wikilink") [Category:1982年面世的產品](https://zh.wikipedia.org/wiki/Category:1982年面世的產品 "wikilink")
 
 1.
 2.

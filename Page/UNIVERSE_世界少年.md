@@ -1,6 +1,4 @@
-**UNVS**（曾名為**UNIVERSE－世界少年**，；），為UNI Entertainment
-與[寰亞唱片聯手推出的](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，最初成員包括勇勇、詩勳、蒼空、IL、旻鎬等5位。於韓國組成、培訓後，在2016年12月14日抵達[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，並展開長達三個月的出道宣傳期。2016年12月21日，在[台北舉辦出道記者會](https://zh.wikipedia.org/wiki/台北 "wikilink")，並同時發行出道單曲《I'll
-be here》，成為第一組在台灣正式出道的韓國偶像團體。\[1\]\[2\]
+**UNVS**（曾名為**UNIVERSE－世界少年**，；），為UNI Entertainment 與[寰亞唱片聯手推出的](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，最初成員包括勇勇、詩勳、蒼空、IL、旻鎬等5位。於韓國組成、培訓後，在2016年12月14日抵達[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，並展開長達三個月的出道宣傳期。2016年12月21日，在[台北舉辦出道記者會](https://zh.wikipedia.org/wiki/台北 "wikilink")，並同時發行出道單曲《I'll be here》，成為第一組在台灣正式出道的韓國偶像團體。\[1\]\[2\]
 團名「UNIVERSE」意為：期許能夠成為一個在世界各地都得到喜愛的團體。\[3\]
 
 ## 成員資料
@@ -60,17 +58,14 @@ be here》，成為第一組在台灣正式出道的韓國偶像團體。\[1\]\[
 
 ## 團體歷程
 
-　　UNIVERSE世界少年在籌備之初便以[中華圈為目標](https://zh.wikipedia.org/wiki/中華圈 "wikilink")，制定了先在中華圈活動接著逆襲韓國的計畫；而之所以選擇台灣為出道首站的原因，除了台灣相較於其他地區對[韓流文化的接受度高](../Page/韓流.md "wikilink")，另外一方面是如果能被台灣市場接受就表示能在華語音樂界帶動風向，因此，UNIVERSE
-世界少年下定決心紮根台灣，放眼世界。\[4\]
+　　UNIVERSE世界少年在籌備之初便以[中華圈為目標](https://zh.wikipedia.org/wiki/中華圈 "wikilink")，制定了先在中華圈活動接著逆襲韓國的計畫；而之所以選擇台灣為出道首站的原因，除了台灣相較於其他地區對[韓流](../Page/韓流.md "wikilink")文化的接受度高，另外一方面是如果能被台灣市場接受就表示能在華語音樂界帶動風向，因此，UNIVERSE 世界少年下定決心紮根台灣，放眼世界。\[4\]
 
 ### 2016年
 
 7月，成立官方臉書及新浪微博等社群專頁。
 12月14日，全員抵達台灣，展開出道宣傳。
-12月18日，全員現身台北[西門町與](../Page/西門町.md "wikilink")[市政府舉行](../Page/信義計畫區.md "wikilink")[快閃宣傳](https://zh.wikipedia.org/wiki/快閃 "wikilink")，此活動亦是UNIVERSE的第一個公開活動，當天現場即有眾多粉絲到場支持。\[5\]
-12月21日，於台北[三創生活園區舉辦出道記者會正式出道](https://zh.wikipedia.org/wiki/三創生活園區 "wikilink")，並發表首張數位單曲《I'll
-be here》。而《I'll be
-here》的中文版《UNI-verse你的名字是我唯一的詩》，其歌名則是特別取自團名的「UNI」（唯一）與「verse」（詩）\[6\]。
+12月18日，全員現身台北[西門町](../Page/西門町.md "wikilink")與[市政府舉行](../Page/信義計畫區.md "wikilink")[快閃宣傳](https://zh.wikipedia.org/wiki/快閃 "wikilink")，此活動亦是UNIVERSE的第一個公開活動，當天現場即有眾多粉絲到場支持。\[5\]
+12月21日，於台北[三創生活園區舉辦出道記者會正式出道](https://zh.wikipedia.org/wiki/三創生活園區 "wikilink")，並發表首張數位單曲《I'll be here》。而《I'll be here》的中文版《UNI-verse你的名字是我唯一的詩》，其歌名則是特別取自團名的「UNI」（唯一）與「verse」（詩）\[6\]。
 12月26日，參與第一個電視通告「[綜藝大熱門](../Page/綜藝大熱門.md "wikilink")」的節目錄影，該節目後於2017年1月17日播出，是UNIVERSE首次在電視節目上亮相。\[7\]
 
 ### 2017年
@@ -152,8 +147,7 @@ here》的中文版《UNI-verse你的名字是我唯一的詩》，其歌名則�
 
 <!-- end list -->
 
-  - [UNIVERSE - 世界少年 ::
-    유니버스](https://www.facebook.com/officialuniverseboys)
+  - [UNIVERSE - 世界少年 :: 유니버스](https://www.facebook.com/officialuniverseboys)
 
 <!-- end list -->
 
@@ -199,19 +193,14 @@ here》的中文版《UNI-verse你的名字是我唯一的詩》，其歌名則�
   - [IL](http://www.weibo.com/u/2970289077)
   - [旻鎬](http://weibo.com/u/6104147382)
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
 
-1.  [UNIVERSE世界少年
-    誓言以最誠懇態度來台](https://www.mymusic.net.tw/ezpc/w/editOffice/news/show/1962)
+1.  [UNIVERSE世界少年 誓言以最誠懇態度來台](https://www.mymusic.net.tw/ezpc/w/editOffice/news/show/1962)
 2.  [UNIVERSE 世界少年將來台 Long Stay！](http://kpopn.niusnews.com/=K0nh3lg8)
 3.
 4.
 5.
 6.
-7.  [UNIVERSE -
-    世界少年第一個節目播出](https://www.facebook.com/officialuniverseboys/posts/1797059670513098:0)
+7.  [UNIVERSE - 世界少年第一個節目播出](https://www.facebook.com/officialuniverseboys/posts/1797059670513098:0)
 8.
 9.

@@ -1,5 +1,4 @@
-《**宋智孝的Beautiful Life**》（，）是韓國[On
-Style的美妝綜藝節目](https://zh.wikipedia.org/wiki/On_Style "wikilink")，由[宋智孝](../Page/宋智孝.md "wikilink")、[具在伊](../Page/具在伊.md "wikilink")、[權赫秀](../Page/權赫秀.md "wikilink")、[妍雨](https://zh.wikipedia.org/wiki/妍雨 "wikilink")（[MOMOLAND](../Page/MOMOLAND.md "wikilink")）等人共同主持\[1\]\[2\]，將親自到戶外或是造訪賣場執行各種任務\[3\]\[4\]，為觀眾帶來更多共鳴與樂趣。
+《**宋智孝的Beautiful Life**》（，）是韓國[On Style的美妝綜藝節目](https://zh.wikipedia.org/wiki/On_Style "wikilink")，由[宋智孝](../Page/宋智孝.md "wikilink")、[具在伊](../Page/具在伊.md "wikilink")、[權赫秀](../Page/權赫秀.md "wikilink")、[妍雨](https://zh.wikipedia.org/wiki/妍雨 "wikilink")（[MOMOLAND](../Page/MOMOLAND.md "wikilink")）等人共同主持\[1\]\[2\]，將親自到戶外或是造訪賣場執行各種任務\[3\]\[4\]，為觀眾帶來更多共鳴與樂趣。
 
 ## 各集資訊
 
@@ -24,10 +23,7 @@ Style的美妝綜藝節目](https://zh.wikipedia.org/wiki/On_Style "wikilink")�
 
   - [官方網站](http://program.tving.com/onstyle/beautyfullife)
 
-[Category:On_Style](https://zh.wikipedia.org/wiki/Category:On_Style "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:化妝](https://zh.wikipedia.org/wiki/Category:化妝 "wikilink")
+[Category:On_Style](https://zh.wikipedia.org/wiki/Category:On_Style "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:化妝](https://zh.wikipedia.org/wiki/Category:化妝 "wikilink")
 
 1.
 2.

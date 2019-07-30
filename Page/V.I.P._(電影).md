@@ -19,7 +19,4 @@
   - [Daum電影](http://movie.daum.net/moviedb/main?movieId=105591)
 
   -
-[Category:2017年電影](https://zh.wikipedia.org/wiki/Category:2017年電影 "wikilink")
-[Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink")
-[Category:韓國犯罪片](https://zh.wikipedia.org/wiki/Category:韓國犯罪片 "wikilink")
-[Category:杀手主角题材电影](https://zh.wikipedia.org/wiki/Category:杀手主角题材电影 "wikilink")
+[Category:2017年電影](https://zh.wikipedia.org/wiki/Category:2017年電影 "wikilink") [Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink") [Category:韓國犯罪片](https://zh.wikipedia.org/wiki/Category:韓國犯罪片 "wikilink") [Category:杀手主角题材电影](https://zh.wikipedia.org/wiki/Category:杀手主角题材电影 "wikilink")

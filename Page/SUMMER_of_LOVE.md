@@ -1,16 +1,12 @@
-《**SUMMER of LOVE**》，是日本歌手倖田來未於2015年7月22日發行的首張夏日精選輯。
+《**SUMMER of LOVE**》，是日本歌手[倖田來未](../Page/倖田來未.md "wikilink")於2015年7月22日發行的首張夏日精選輯。
 
 ## 解說
 
   - 為了紀念出道15周年而發行的夏日精選輯，分「CD+藍光」、「CD+DVD」及「CD ONLY」三版本，並以特別價格發售。
   - 本作的發行標語為「夏日，就想談談愛情故事，難道不這麼想嗎？倖田來未編織的夏日記憶。\[1\]」
-  - CD收錄從2006年「[4 hot
-    wave](https://zh.wikipedia.org/wiki/4_hot_wave "wikilink")」以後發售的夏日單曲裡精選出的歌曲，並加上3首新曲「EX
-    TAPE」、「NO ONE ELSE BUT YOU 唯有你」、「HURRICANE 暴風」。
-  - 「EX
-    TAPE」的主題為「夏季某日的熱絡女子交流」。在拍攝音樂錄像帶時，倖田還因此特別聽了舞者在現實生活中的戀愛話題\[2\]\[3\]。
-  - DVD與藍光部分，則收錄「4 hot
-    wave」以後發售的夏日單曲裡精選出的歌曲以及2首新曲的[音樂錄像帶等共](https://zh.wikipedia.org/wiki/音樂錄像帶 "wikilink")16支音樂影像帶。
+  - CD收錄從2006年「[4 hot wave](https://zh.wikipedia.org/wiki/4_hot_wave "wikilink")」以後發售的夏日單曲裡精選出的歌曲，並加上3首新曲「EX TAPE」、「NO ONE ELSE BUT YOU 唯有你」、「HURRICANE 暴風」。
+  - 「EX TAPE」的主題為「夏季某日的熱絡女子交流」。在拍攝音樂錄像帶時，倖田還因此特別聽了舞者在現實生活中的戀愛話題\[2\]\[3\]。
+  - DVD與藍光部分，則收錄「4 hot wave」以後發售的夏日單曲裡精選出的歌曲以及2首新曲的[音樂錄像帶等共](https://zh.wikipedia.org/wiki/音樂錄像帶 "wikilink")16支音樂影像帶。
   - 為紀念本作發行，專輯發售翌日（7月23日）於倖田來未的官方LINE帳戶現場直播「LINE LIVE CAST」\[4\]。
 
 ## 發行版本
@@ -55,8 +51,7 @@
 
 ## 外部連結
 
-[分類:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/分類:倖田來未音樂專輯 "wikilink")
-[分類:2015年音樂專輯](https://zh.wikipedia.org/wiki/分類:2015年音樂專輯 "wikilink")
+[分類:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/分類:倖田來未音樂專輯 "wikilink") [分類:2015年音樂專輯](https://zh.wikipedia.org/wiki/分類:2015年音樂專輯 "wikilink")
 
 [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
 

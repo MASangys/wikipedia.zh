@@ -1,5 +1,4 @@
-**MYTH & ROID**（）為日本[MEDIA
-FACTORY所屬的音樂團體](https://zh.wikipedia.org/wiki/MEDIA_FACTORY "wikilink")。
+**MYTH & ROID**（）為日本[MEDIA FACTORY所屬的音樂團體](https://zh.wikipedia.org/wiki/MEDIA_FACTORY "wikilink")。
 
 ## 概要
 
@@ -11,11 +10,9 @@ FACTORY所屬的音樂團體](https://zh.wikipedia.org/wiki/MEDIA_FACTORY "wikil
 
 ## 風格
 
-Mayu是第一個歌手。她從小就受海外歌手[Britney
-Spears](https://zh.wikipedia.org/wiki/Britney_Spears "wikilink")、[Beyonce](https://zh.wikipedia.org/wiki/Beyonce "wikilink")、[P\!nk以及](https://zh.wikipedia.org/wiki/P!nk "wikilink")[Avril
-Lavigne影響](https://zh.wikipedia.org/wiki/Avril_Lavigne "wikilink")，學習歌曲，舞蹈和古典鋼琴，並希望成為一名藝術家，然後以樂隊表演和弦樂演奏。不久，這不僅是歌唱，還有英文作曲寫詞。它有各種各樣的聲音，包括Pop和R＆B，並且有獨特的日語技能，聲音和表現海外藝術家的回憶。
+Mayu是第一個歌手。她從小就受海外歌手[Britney Spears](https://zh.wikipedia.org/wiki/Britney_Spears "wikilink")、[Beyonce](https://zh.wikipedia.org/wiki/Beyonce "wikilink")、[P\!nk以及](https://zh.wikipedia.org/wiki/P!nk "wikilink")[Avril Lavigne影響](https://zh.wikipedia.org/wiki/Avril_Lavigne "wikilink")，學習歌曲，舞蹈和古典鋼琴，並希望成為一名藝術家，然後以樂隊表演和弦樂演奏。不久，這不僅是歌唱，還有英文作曲寫詞。它有各種各樣的聲音，包括Pop和R＆B，並且有獨特的日語技能，聲音和表現海外藝術家的回憶。
 
-KIHOW是第二個歌手，於eYe's首次展示。她是個有外國生活經驗的回國孩子，能夠唱出各種聲音的主管歌手。像Mayu一樣，英語非常出色。當[Tom-H@ck聆聽演示音樂時](../Page/Tom-H@ck.md "wikilink")，他被誤認為是外國人。
+KIHOW是第二個歌手，於eYe's首次展示。她是個有外國生活經驗的回國孩子，能夠唱出各種聲音的主管歌手。像Mayu一樣，英語非常出色。當[Tom-H@ck](../Page/Tom-H@ck.md "wikilink")聆聽演示音樂時，他被誤認為是外國人。
 
 Tom-H@ck，一個聲音的創造者，製片人等等，明仁的男朋友，黑松鼠大師。曾是[K-ON的音樂總監](https://zh.wikipedia.org/wiki/K-ON "wikilink")，但在2010年呈現下滑趨勢，減少了與動畫相關的工作，轉向電影和遊戲，2015年重新投入動畫歌曲工作。
 
@@ -37,9 +34,8 @@ hotaru負責所有錄音的寫作，同時也在推動樂團的音樂世界觀�
 
 <!-- end list -->
 
-  - 2月24日發行第二張單曲「ANGER/ANGER」，為電視動畫[舞武器·舞亂伎片尾曲](../Page/舞武器·舞亂伎.md "wikilink")\[2\]。
-  - 5月25日發行第三張單曲「STYX
-    HELIX」，為電視動畫[Re:從零開始的異世界生活片尾曲](../Page/Re:從零開始的異世界生活.md "wikilink")\[3\]。
+  - 2月24日發行第二張單曲「ANGER/ANGER」，為電視動畫[舞武器·舞亂伎](../Page/舞武器·舞亂伎.md "wikilink")片尾曲\[2\]。
+  - 5月25日發行第三張單曲「STYX HELIX」，為電視動畫[Re:從零開始的異世界生活](../Page/Re:從零開始的異世界生活.md "wikilink")片尾曲\[3\]。
   - 8月24日發行第四張單曲「Paradisus-Paradoxum」，為電視動畫Re:從零開始的異世界生活第二首片頭曲。
 
 <!-- end list -->
@@ -48,10 +44,8 @@ hotaru負責所有錄音的寫作，同時也在推動樂團的音樂世界觀�
 
 <!-- end list -->
 
-  - 2月8月發行第五張單曲「JINGO
-    JUNGLE」，為電視動畫[幼女戰記片頭曲](../Page/幼女戰記.md "wikilink")\[4\]。
-  - 4月26日發行第一張專輯「eYe's」\[5\]，其中「Crazy Scary Holy Fantasy」為劇場版總集篇
-    OVERLORD 不死者之王主題曲\[6\]。
+  - 2月8月發行第五張單曲「JINGO JUNGLE」，為電視動畫[幼女戰記](../Page/幼女戰記.md "wikilink")片頭曲\[4\]。
+  - 4月26日發行第一張專輯「eYe's」\[5\]，其中「Crazy Scary Holy Fantasy」為劇場版總集篇 OVERLORD 不死者之王主題曲\[6\]。
 
 <!-- end list -->
 
@@ -70,38 +64,31 @@ hotaru負責所有錄音的寫作，同時也在推動樂團的音樂世界觀�
 
 <!-- end list -->
 
-  - 2月27日發行第八張單曲「shadowgraph」，為電視動畫[幻影死神片頭曲](https://zh.wikipedia.org/wiki/幻影死神 "wikilink")\[11\]，當中收錄曲「Remembrance」，為劇場版[幼女戰記主題曲](../Page/幼女戰記.md "wikilink")\[12\]。
-  - 預定7月24日發行第九張單曲「PANTA
-    RHEI」，為電視動畫[異世界超能魔術師片頭曲](../Page/異世界超能魔術師.md "wikilink")\[13\]。
+  - 2月27日發行第八張單曲「shadowgraph」，為電視動畫[幻影死神片頭曲](https://zh.wikipedia.org/wiki/幻影死神 "wikilink")\[11\]，當中收錄曲「Remembrance」，為劇場版[幼女戰記](../Page/幼女戰記.md "wikilink")主題曲\[12\]。
+  - 7月24日發行第九張單曲「PANTA RHEI」，為電視動畫[異世界超能魔術師](../Page/異世界超能魔術師.md "wikilink")片頭曲\[13\]。
 
 ## 成員
 
 **Mayu** （前島麻由）- 主唱、作曲、寫詞（已離開）**創立成員**
 
-  - 個人Twitter:
-    [Mayu[twitter](https://zh.wikipedia.org/wiki/twitter "wikilink")](https://twitter.com/_0414Mayu)
-  - 歌手，希望能用歌声让听众释放情感，将此作为自己的信条。她那受到西方音乐强烈影响下的歌声和表现力十分超群出众。2015年加入MYTH &
-    ROID。
+  - 個人Twitter: [Mayu[twitter](https://zh.wikipedia.org/wiki/twitter "wikilink")](https://twitter.com/_0414Mayu)
+  - 歌手，希望能用歌声让听众释放情感，将此作为自己的信条。她那受到西方音乐强烈影响下的歌声和表现力十分超群出众。2015年加入MYTH & ROID。
 
-**[Tom-H@ck](../Page/Tom-H@ck.md "wikilink")** （トムハック） - 製作人、吉他手、編曲
-**創立成員**
+**[Tom-H@ck](../Page/Tom-H@ck.md "wikilink")** （トムハック） - 製作人、吉他手、編曲 **創立成員**
 
-  - 個人Twitter: [Tom
-    Oshima[twitter](https://zh.wikipedia.org/wiki/twitter "wikilink")](https://twitter.com/TomOshima_TH)
+  - 個人Twitter: [Tom Oshima[twitter](https://zh.wikipedia.org/wiki/twitter "wikilink")](https://twitter.com/TomOshima_TH)
   - 音乐制作人，MYTH & ROID的总策划，负责海内外众多歌手、影像音乐的制作。至今所与所参与制作的内容跨越了各种风格席卷了整个业界。
 
 在Tom-H@ck擔任藝人尋找歌手搭檔時觀看了Mayu的LIVE，被Tom-H@ck看中。在與Tom-H@ck初次見面Mayu時由於還是學生的緣故，還穿著學生制服\[14\]。
 
 **hotaru**- 作詞（2017年加入）
 
-  - 個人Twitter:
-    [Hotaru[twitter](https://zh.wikipedia.org/wiki/twitter "wikilink")](https://twitter.com/hotar_)
+  - 個人Twitter: [Hotaru[twitter](https://zh.wikipedia.org/wiki/twitter "wikilink")](https://twitter.com/hotar_)
   - 作词/故事策划，迄今为止担任许多歌手和人气作品的作词。近年来，除了作词以外还负责故事的策划和概念的制作。
 
 **KIHOW**- 主唱（2017年加入）
 
-  - 個人Twitter:
-    [KIHOW[twitter](https://zh.wikipedia.org/wiki/twitter "wikilink")](https://twitter.com/kihow_)
+  - 個人Twitter: [KIHOW[twitter](https://zh.wikipedia.org/wiki/twitter "wikilink")](https://twitter.com/kihow_)
   - 歌手，擅长用日英两种语言唱歌的归国子女，能够自由驾驭多种多样的歌声，其歌声被称赞为“七色歌声”。2017年加入MYTH & ROID。
 
 ## 音樂唱片
@@ -115,7 +102,7 @@ hotaru負責所有錄音的寫作，同時也在推動樂團的音樂世界觀�
 <th><p>發售日</p></th>
 <th><p>名稱</p></th>
 <th><p>規格品番</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon週榜最高位</a></p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>週榜最高位</p></th>
 </tr>
 </thead>
 <tbody>
@@ -234,13 +221,9 @@ ZMCZ-11852（初回限定盤）</p></td>
   - [MYTH & ROID官方網站粉絲俱樂部](https://mythandsecret.com/)
 
   -
-  - [MYTH &
-    ROID（公式）[twitter](https://zh.wikipedia.org/wiki/twitter "wikilink")](https://twitter.com/myth_and_roid)
+  - [MYTH & ROID（公式）[twitter](https://zh.wikipedia.org/wiki/twitter "wikilink")](https://twitter.com/myth_and_roid)
 
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:Media_Factory旗下藝人](https://zh.wikipedia.org/wiki/Category:Media_Factory旗下藝人 "wikilink")
+[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:Media_Factory旗下藝人](https://zh.wikipedia.org/wiki/Category:Media_Factory旗下藝人 "wikilink")
 
 1.
 2.

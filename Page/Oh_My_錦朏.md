@@ -1,5 +1,4 @@
-《**Oh My
-金雨**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS於](../Page/韓國放送公社.md "wikilink")2016年11月16日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")。由《[蔣英實](../Page/蔣英實_\(電視劇\).md "wikilink")》金英兆導演和全浩成、李明熙作家攜手合作。講述是一位爸爸照顧患有[尼曼匹克症](../Page/尼曼匹克症.md "wikilink")、記憶喪失的8歲女兒的過程中，體悟到人生價值的故事。
+《**Oh My 金雨**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS於](../Page/韓國放送公社.md "wikilink")2016年11月16日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")。由《[蔣英實](../Page/蔣英實_\(電視劇\).md "wikilink")》金英兆導演和全浩成、李明熙作家攜手合作。講述是一位爸爸照顧患有[尼曼匹克症](../Page/尼曼匹克症.md "wikilink")、記憶喪失的8歲女兒的過程中，體悟到人生價值的故事。
 
 ## 演員陣容
 
@@ -416,15 +415,9 @@
 
   - [韓國KBS官方網站](http://www.kbs.co.kr/drama/myfairlady/index.html)
   - [香港有線電視官方網站](http://epg.i-cable.com/ci/program/intro/524/我的金雨)
-  - [Oh My
-    金雨-BLOG](https://m.post.naver.com/my/series/detail.nhn?seriesNo=231821&memberNo=34609460)
+  - [Oh My 金雨-BLOG](https://m.post.naver.com/my/series/detail.nhn?seriesNo=231821&memberNo=34609460)
 
-[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink")
-[Category:韓國家庭劇](https://zh.wikipedia.org/wiki/Category:韓國家庭劇 "wikilink")
-[Category:神經系統疾病題材電視劇](https://zh.wikipedia.org/wiki/Category:神經系統疾病題材電視劇 "wikilink")
-[Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
-[Category:小學女生主角題材作品](https://zh.wikipedia.org/wiki/Category:小學女生主角題材作品 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
+[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:韓國家庭劇](https://zh.wikipedia.org/wiki/Category:韓國家庭劇 "wikilink") [Category:神經系統疾病題材電視劇](https://zh.wikipedia.org/wiki/Category:神經系統疾病題材電視劇 "wikilink") [Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink") [Category:小學女生主角題材作品](https://zh.wikipedia.org/wiki/Category:小學女生主角題材作品 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
 
 1.  第9集中柳珠英提到柳锦朏的名字為錦緞的錦，新月的朏。曾被誤譯為柳金雨。
 2.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)

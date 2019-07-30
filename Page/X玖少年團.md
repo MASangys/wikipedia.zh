@@ -1,6 +1,5 @@
-**X玖少年團**(英語：**X
-NINE**)是[中國](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[天娛傳媒於](https://zh.wikipedia.org/wiki/天娛傳媒 "wikilink")2016年推出的男子演唱組合\[1\]。團名中的**X**代表未知和無限可能;**玖**則代表了中國民間古老傳说“龍生九子”的涵義。\[2\]，成員包括：[肖战](https://zh.wikipedia.org/wiki/肖战 "wikilink")、[伍嘉成](../Page/伍嘉成.md "wikilink")、[谷嘉誠](../Page/谷嘉誠.md "wikilink")、[彭楚粤](../Page/彭楚粤.md "wikilink")、
-[趙磊](https://zh.wikipedia.org/wiki/趙磊 "wikilink")、[陳澤希](../Page/陳澤希.md "wikilink")、[郭子凡](../Page/郭子凡.md "wikilink")、[夏之光及](../Page/夏之光.md "wikilink")[焉栩嘉](https://zh.wikipedia.org/wiki/焉栩嘉 "wikilink")。
+**X玖少年團**(英語：**X NINE**)是[中國](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[天娛傳媒於](https://zh.wikipedia.org/wiki/天娛傳媒 "wikilink")2016年推出的男子演唱組合\[1\]。團名中的**X**代表未知和無限可能;**玖**則代表了中國民間古老傳说“龍生九子”的涵義。\[2\]，成員包括：[肖战](https://zh.wikipedia.org/wiki/肖战 "wikilink")、[伍嘉成](../Page/伍嘉成.md "wikilink")、[谷嘉誠](../Page/谷嘉誠.md "wikilink")、[彭楚粤](../Page/彭楚粤.md "wikilink")、
+[趙磊](https://zh.wikipedia.org/wiki/趙磊 "wikilink")、[陳澤希](../Page/陳澤希.md "wikilink")、[郭子凡](../Page/郭子凡.md "wikilink")、[夏之光](../Page/夏之光.md "wikilink")及[焉栩嘉](https://zh.wikipedia.org/wiki/焉栩嘉 "wikilink")。
 
 ## 成員資料
 
@@ -22,14 +21,14 @@ NINE**)是[中國](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[天娛
 
 ### 電影/網絡電影
 
-| 上映年份 | 電影                                                              | 出演成员 | 角色      | 備註   |
-| ---- | --------------------------------------------------------------- | ---- | ------- | ---- |
-| 2017 | [嫌疑人x的献身](https://zh.wikipedia.org/wiki/嫌疑人x的献身 "wikilink")     | 焉栩嘉  | 石泓（少年）  |      |
-| 2018 | [捉妖記2](https://zh.wikipedia.org/wiki/捉妖記2 "wikilink")           | 全員   | 新捉妖天團   |      |
-| 2018 | [古剑奇谭之流月昭明](https://zh.wikipedia.org/wiki/古剑奇谭之流月昭明 "wikilink") | 伍嘉成  | 樂無異（少年） |      |
-| 2019 | [男人四十上高中](https://zh.wikipedia.org/wiki/男人四十上高中 "wikilink")     | 焉栩嘉  | 李醒      | 網絡電影 |
-| 待播   | [烈火英雄](../Page/烈火英雄.md "wikilink")                              | 谷嘉诚  | 周浩      |      |
-|      |                                                                 |      |         |      |
+| 上映年份 | 電影                                                                      | 出演成员 | 角色      | 備註   |
+| ---- | ----------------------------------------------------------------------- | ---- | ------- | ---- |
+| 2017 | [嫌疑人X的献身](https://zh.wikipedia.org/wiki/嫌疑人X的獻身_\(2017年電影\) "wikilink") | 焉栩嘉  | 石泓（少年）  |      |
+| 2018 | [捉妖記2](https://zh.wikipedia.org/wiki/捉妖記2 "wikilink")                   | 全員   | 新捉妖天團   |      |
+| 2018 | [古剑奇谭之流月昭明](https://zh.wikipedia.org/wiki/古剑奇谭之流月昭明 "wikilink")         | 伍嘉成  | 樂無異（少年） |      |
+| 2019 | [男人四十上高中](https://zh.wikipedia.org/wiki/男人四十上高中 "wikilink")             | 焉栩嘉  | 李醒      | 網絡電影 |
+| 待播   | [烈火英雄](../Page/烈火英雄.md "wikilink")                                      | 谷嘉诚  | 周浩      |      |
+|      |                                                                         |      |         |      |
 
 ### 網絡劇
 
@@ -81,11 +80,11 @@ NINE**)是[中國](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[天娛
 <td><p><a href="../Page/斗破苍穹_(电视剧).md" title="wikilink">鬥破蒼穹</a></p></td>
 <td><p><a href="../Page/湖南卫视.md" title="wikilink">湖南卫视</a></p></td>
 <td><p>谷嘉誠</p></td>
-<td><p>琥嘉</p></td>
+<td><p>虎珈</p></td>
 </tr>
 <tr class="odd">
 <td><p>伍嘉成</p></td>
-<td><p>吴昊</p></td>
+<td><p>昊天</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -99,7 +98,7 @@ NINE**)是[中國](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[天娛
 </tr>
 <tr class="odd">
 <td><p>彭楚粵</p></td>
-<td><p>韓閒</p></td>
+<td><p>韓閑</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -156,7 +155,7 @@ NINE**)是[中國](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[天娛
 </tr>
 <tr class="odd">
 <td><p>待播</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小欢喜" title="wikilink">小欢喜</a></p></td>
+<td><p><a href="../Page/小欢喜.md" title="wikilink">小欢喜</a></p></td>
 <td><p>未知</p></td>
 <td><p>郭子凡</p></td>
 <td><p>季杨杨</p></td>
@@ -732,7 +731,7 @@ NINE**)是[中國](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[天娛
 | 2017年1月4日      | 电影《[捉妖记2](../Page/捉妖记2.md "wikilink")》厦门路演               |                                                           |                                             |
 | 2018年1月13日     | 烎·2018潮音发布夜                                              | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")     |                                             |
 | 2018年2月15日     | 《2018春晚倒计时》                                              | [CCTV-3](https://zh.wikipedia.org/wiki/CCTV-3 "wikilink") |                                             |
-| 2018年2月16日     | 《[王牌对王牌](../Page/王牌对王牌.md "wikilink")3》                  | [浙江卫视](../Page/浙江卫视.md "wikilink")                        | 与《[捉妖记2](../Page/捉妖记2.md "wikilink")》剧组共同录制 |
+| 2018年2月16日     | 《[王牌對王牌3 (真人秀)](../Page/王牌對王牌_\(真人秀\).md "wikilink")》    | [浙江卫视](../Page/浙江卫视.md "wikilink")                        | 与《[捉妖记2](../Page/捉妖记2.md "wikilink")》剧组共同录制 |
 | 2018年2月17日     | 《2018体育嘉年华》                                              | [东方卫视](../Page/东方卫视.md "wikilink")                        |                                             |
 | 2018年3月14日     | 《酷狗星乐坊BIG SHOW有码见面会》                                     |                                                           |                                             |
 | 2018年3月29日     | 奇妙选修课之《[哦！我的皇帝陛下](../Page/哦！我的皇帝陛下.md "wikilink")》北京校园路演 | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")     | (參與成員：谷嘉誠、伍嘉成、肖戰、彭楚粵)                       |
@@ -860,10 +859,7 @@ NINE**)是[中國](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[天娛
   -
   -
   -
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:X玖少年團](https://zh.wikipedia.org/wiki/Category:X玖少年團 "wikilink")
-[Category:中國演唱團體](https://zh.wikipedia.org/wiki/Category:中國演唱團體 "wikilink")
-[Category:中国男子演唱团体](https://zh.wikipedia.org/wiki/Category:中国男子演唱团体 "wikilink")
+[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:X玖少年團](https://zh.wikipedia.org/wiki/Category:X玖少年團 "wikilink") [Category:中國演唱團體](https://zh.wikipedia.org/wiki/Category:中國演唱團體 "wikilink") [Category:中国男子演唱团体](https://zh.wikipedia.org/wiki/Category:中国男子演唱团体 "wikilink")
 
 1.
 2.
@@ -878,15 +874,12 @@ NINE**)是[中國](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[天娛
 11.
 12.
 13.
-14. [“小冠希”RAP歌词流出
-    个性嚣张引热议：蛋堡附体](http://news.gzw.net/2016/0113/1132520.shtml)
+14. [“小冠希”RAP歌词流出 个性嚣张引热议：蛋堡附体](http://news.gzw.net/2016/0113/1132520.shtml)
 15. [《哦！我的皇帝陛下》插曲《踩影子》MV今日上线](http://k.sina.com.cn/article_2350922417_8c203ab1001005b8t.html)
 16. [X玖少年团出道首场演唱会《以己之名》4月2日登陆魔都](http://ent.chinadaily.com.cn/2017-03/03/content_28425332.htm)
-17. [X玖少年团出道首演燃爆上海
-    交出完美成绩单](http://yule.sohu.com/20170407/n486959701.shtml)
+17. [X玖少年团出道首演燃爆上海 交出完美成绩单](http://yule.sohu.com/20170407/n486959701.shtml)
 18. [X玖少年团KEEP ONLINE演唱会大麦售票网站](https://piao.damai.cn/161762.html)
-19. [X玖少年团KEEP
-    ONLINE演唱会永乐售票网站](https://www.228.com.cn/ticket-451998900.html)
+19. [X玖少年团KEEP ONLINE演唱会永乐售票网站](https://www.228.com.cn/ticket-451998900.html)
 20.
 21.
 22.

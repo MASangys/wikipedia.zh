@@ -1,9 +1,8 @@
-《**Air**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE的第三張日語](../Page/INFINITE.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2017年5月24日以三個版不同版本推出\[1\]。
+《**Air**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")的第三張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2017年5月24日以三個版不同版本推出\[1\]。
 
 ## 背景
 
-2017年4月14日，Woollim娛樂公布INFINITE將發行第三張日語專輯\[2\]，並計畫於5月27日在東京、5月28日在大阪舉行專輯發行成員個別握手會\[3\]，到5月9日公開專輯曲目和封面，又在[澀谷受歡迎的咖啡館](../Page/澀谷.md "wikilink")「L.LovesR.」進行為期一個月（5月10日－6月11日）的合作推廣——裝潢為「INFINITE
-CAFE」，展示組合歷年海報、CD及周邊產品，亦提供INFINITE限定菜單與飲品\[4\]。
+2017年4月14日，Woollim娛樂公布INFINITE將發行第三張日語專輯\[2\]，並計畫於5月27日在東京、5月28日在大阪舉行專輯發行成員個別握手會\[3\]，到5月9日公開專輯曲目和封面，又在[澀谷](../Page/澀谷.md "wikilink")受歡迎的咖啡館「L.LovesR.」進行為期一個月（5月10日－6月11日）的合作推廣——裝潢為「INFINITE CAFE」，展示組合歷年海報、CD及周邊產品，亦提供INFINITE限定菜單與飲品\[4\]。
 
 到5月17日，專輯同名主打《Air（日語版）》短版音樂錄影帶公開\[5\]；發售當日，官方決定在5月26日在[niconico動畫舉行專輯發行紀念直播](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")\[6\]。
 
@@ -29,7 +28,7 @@ CAFE」，展示組合歷年海報、CD及周邊產品，亦提供INFINITE限定
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置     | 銷售量          | 總銷量     | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置     | 銷售量          | 總銷量     | 停留時間 |
 | ---------------------------------------- | -------- | ------------ | ------- | ---- |
 | 專輯日榜                                     | 6\[10\]  | \-           | 22,528+ | 3星期  |
 | 專輯週榜                                     | 6\[11\]  | 21,856       |         |      |
@@ -70,10 +69,7 @@ CAFE」，展示組合歷年海報、CD及周邊產品，亦提供INFINITE限定
 
   -
 
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
-[Category:INFINITE音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink")
+[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:INFINITE音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink")
 
 1.
 

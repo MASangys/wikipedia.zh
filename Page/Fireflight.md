@@ -1,5 +1,4 @@
-**Fireflight**
-是來自美國的[基督搖滾樂團](https://zh.wikipedia.org/wiki/wikipedia:Christian_rock "wikilink")，在1999年於[尤斯蒂斯(佛羅里達州)組成](../Page/尤斯蒂斯_\(佛罗里达州\).md "wikilink")。\[1\]
+**Fireflight** 是來自美國的[基督搖滾樂團](https://zh.wikipedia.org/wiki/wikipedia:Christian_rock "wikilink")，在1999年於[尤斯蒂斯(佛羅里達州)組成](../Page/尤斯蒂斯_\(佛罗里达州\).md "wikilink")。\[1\]
 
 ## 歷史
 
@@ -25,16 +24,11 @@
 
 ## 唱片
 
-  - *[The Healing of Harms](../Page/The_Healing_of_Harms.md "wikilink")*
-    (2006)
-  - *[Unbreakable](https://zh.wikipedia.org/wiki/Unbreakable_\(Fireflight_album\) "wikilink")*
-    (2008)
-  - *[For Those Who Wait](../Page/For_Those_Who_Wait.md "wikilink")*
-    (2010)
-  - *[Now](https://zh.wikipedia.org/wiki/Now_\(Fireflight_album\) "wikilink")*
-    (2012)
-  - *[Innova](https://zh.wikipedia.org/wiki/Innova_\(album\) "wikilink")*
-    (2015)
+  - *[The Healing of Harms](../Page/The_Healing_of_Harms.md "wikilink")* (2006)
+  - *[Unbreakable](https://zh.wikipedia.org/wiki/Unbreakable_\(Fireflight_album\) "wikilink")* (2008)
+  - *[For Those Who Wait](../Page/For_Those_Who_Wait.md "wikilink")* (2010)
+  - *[Now](https://zh.wikipedia.org/wiki/Now_\(Fireflight_album\) "wikilink")* (2012)
+  - *[Innova](https://zh.wikipedia.org/wiki/Innova_\(album\) "wikilink")* (2015)
 
 ## 音樂錄影帶
 
@@ -47,8 +41,7 @@
 | 2012                                                                                         | "[Stay Close](https://zh.wikipedia.org/wiki/Stay_Close_\(Fireflight_song\) "wikilink")"   | *[Now](https://zh.wikipedia.org/wiki/Now_\(Fireflight_album\) "wikilink")*                 |
 | 2015                                                                                         | "We Are Alive"                                                                            | *[Innova](https://zh.wikipedia.org/wiki/Innova_\(album\) "wikilink")*                      |
 
-歌曲"For Those Who Wait"
-的音樂錄影帶被提名於[第42屆金鴿獎的最佳音樂錄影帶短片](https://zh.wikipedia.org/wiki/wikipedia:42nd_GMA_Dove_Awards "wikilink")。
+歌曲"For Those Who Wait" 的音樂錄影帶被提名於[第42屆金鴿獎的最佳音樂錄影帶短片](https://zh.wikipedia.org/wiki/wikipedia:42nd_GMA_Dove_Awards "wikilink")。
 
 ## 獎項
 
@@ -130,23 +123,12 @@
 ## 外部連結
 
   -
-  - [*You Decide* music
-    video](http://link1.streamhoster.com/?u=provident&p=%2Ffireflight%2FQT6_700kbit_you_decide0001.mov&odaid=838&prog=true)
+  - [*You Decide* music video](http://link1.streamhoster.com/?u=provident&p=%2Ffireflight%2FQT6_700kbit_you_decide0001.mov&odaid=838&prog=true)
 
-  - [Exclusive Interview with Dawn of
-    Fireflight](http://www.newreleasetuesday.com/article.php?article_id=140)
+  - [Exclusive Interview with Dawn of Fireflight](http://www.newreleasetuesday.com/article.php?article_id=140)
 
-  - [官方Youtube
-    頻道](https://www.youtube.com/channel/UCX1wM1VksbsXxxMMLvsuhYw)
+  - [官方Youtube 頻道](https://www.youtube.com/channel/UCX1wM1VksbsXxxMMLvsuhYw)
 
-[Category:1999年在佛羅里達州的機構](https://zh.wikipedia.org/wiki/Category:1999年在佛羅里達州的機構 "wikilink")
-[Category:美國的後油漬搖滾音樂團體](https://zh.wikipedia.org/wiki/Category:美國的後油漬搖滾音樂團體 "wikilink")
-[Category:來自佛羅里達州的基督搖滾團體](https://zh.wikipedia.org/wiki/Category:來自佛羅里達州的基督搖滾團體 "wikilink")
-[Category:在奧蘭多_(佛羅里達州)的基督教](https://zh.wikipedia.org/wiki/Category:在奧蘭多_\(佛羅里達州\)的基督教 "wikilink")
-[Category:Essential_Records_的藝術家](https://zh.wikipedia.org/wiki/Category:Essential_Records_的藝術家 "wikilink")
-[Category:Flicker_Records_的藝術家](https://zh.wikipedia.org/wiki/Category:Flicker_Records_的藝術家 "wikilink")
-[Category:1999年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1999年成立的音樂團體 "wikilink")
-[Category:來自奧蘭多_(佛羅里達州)的音樂團體](https://zh.wikipedia.org/wiki/Category:來自奧蘭多_\(佛羅里達州\)的音樂團體 "wikilink")
-[Category:音樂五重奏](https://zh.wikipedia.org/wiki/Category:音樂五重奏 "wikilink")
+[Category:1999年在佛羅里達州的機構](https://zh.wikipedia.org/wiki/Category:1999年在佛羅里達州的機構 "wikilink") [Category:美國的後油漬搖滾音樂團體](https://zh.wikipedia.org/wiki/Category:美國的後油漬搖滾音樂團體 "wikilink") [Category:來自佛羅里達州的基督搖滾團體](https://zh.wikipedia.org/wiki/Category:來自佛羅里達州的基督搖滾團體 "wikilink") [Category:在奧蘭多_(佛羅里達州)的基督教](https://zh.wikipedia.org/wiki/Category:在奧蘭多_\(佛羅里達州\)的基督教 "wikilink") [Category:Essential_Records_的藝術家](https://zh.wikipedia.org/wiki/Category:Essential_Records_的藝術家 "wikilink") [Category:Flicker_Records_的藝術家](https://zh.wikipedia.org/wiki/Category:Flicker_Records_的藝術家 "wikilink") [Category:1999年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1999年成立的音樂團體 "wikilink") [Category:來自奧蘭多_(佛羅里達州)的音樂團體](https://zh.wikipedia.org/wiki/Category:來自奧蘭多_\(佛羅里達州\)的音樂團體 "wikilink") [Category:音樂五重奏](https://zh.wikipedia.org/wiki/Category:音樂五重奏 "wikilink")
 
 1.

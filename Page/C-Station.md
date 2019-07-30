@@ -1,8 +1,6 @@
 **C-Station**是一家動畫企劃與製作以及相關業務為主的日本公司。
 
-2009年[BEE
-TRAIN將各部門分割為其轄下之子公司](../Page/BEE_TRAIN.md "wikilink")，在東京都國分寺市成立子公司C-station。工作室負責分包動畫製作，進行諸如、[關鍵格和各種動畫協作](../Page/關鍵格.md "wikilink")。2012年脱离BEE
-TRAIN资本自主獨立运营。
+2009年[BEE TRAIN將各部門分割為其轄下之子公司](../Page/BEE_TRAIN.md "wikilink")，在東京都國分寺市成立子公司C-station。工作室負責分包動畫製作，進行諸如、[關鍵格](../Page/關鍵格.md "wikilink")和各種動畫協作。2012年脱离BEE TRAIN资本自主獨立运营。
 
 ## 作品列表
 
@@ -135,6 +133,4 @@ TRAIN资本自主獨立运营。
 
   - [官方網站](http://cstation.jp/)
 
-[Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:2009年日本建立](https://zh.wikipedia.org/wiki/Category:2009年日本建立 "wikilink")
+[Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:2009年日本建立](https://zh.wikipedia.org/wiki/Category:2009年日本建立 "wikilink")

@@ -1,8 +1,6 @@
-**AOKP**（**Android Open Kang
-Project**的简写，意为安卓开放康计划）是一个提供给基于[Android](../Page/Android.md "wikilink")[操作系统的](../Page/操作系统.md "wikilink")[智能手机与](../Page/智能手机.md "wikilink")[平板电脑的](../Page/平板電腦.md "wikilink")[开源替代版固件](../Page/开放源代码.md "wikilink")。
+**AOKP**（**Android Open Kang Project**的简写，意为安卓开放康计划）是一个提供给基于[Android](../Page/Android.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")的[智能手机](../Page/智能手机.md "wikilink")与[平板电脑的](../Page/平板電腦.md "wikilink")[开源替代版固件](../Page/开放源代码.md "wikilink")。
 
-AOKP名稱是对单词*[kang](https://zh.wikipedia.org/wiki/wiktionary:kang "wikilink")*（術语中的失窃代码）和[AOSP](../Page/Android.md "wikilink")（安卓开源计划）的戏耍。雖然如此，該名稱却烙印在了项目之中。\[1\]此项目为罗曼·博（Roman
-Birg）基于[Google官方的](../Page/Google.md "wikilink")[AOSP打造的](../Page/Android.md "wikilink")[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")，添加了自制与第三方代码、特性及控制项。\[2\]\[3\]\[4\]\[5\]
+AOKP名稱是对单词*[kang](https://zh.wikipedia.org/wiki/wiktionary:kang "wikilink")*（術语中的失窃代码）和[AOSP](../Page/Android.md "wikilink")（安卓开源计划）的戏耍。雖然如此，該名稱却烙印在了项目之中。\[1\]此项目为罗曼·博（Roman Birg）基于[Google](../Page/Google.md "wikilink")官方的[AOSP打造的](../Page/Android.md "wikilink")[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")，添加了自制与第三方代码、特性及控制项。\[2\]\[3\]\[4\]\[5\]
 
 尽管只有小部分用户选择汇报使用数据，但截止2013年9月，全世界超过350万台设备均使用AOKP。\[6\]\[7\]
 
@@ -14,8 +12,7 @@ AOKP允许用户更改操作系统中包括外观及功能在内的任何部分�
   - 导航环：导航环可以分配给多个操作进行应用快速访问。
   - 缎带：允许用户在任意处滑动手势并启用系统级自定义应用程序快捷方式与操作。
   - 振动样式：用户可以构建自定义振动样式并分配给特定应用程序或来自特定人群的来电。
-  - 原生主题支持：下载于[Google
-    Play商店或其他来源的主题可以应用并在设备上显示出自定义外观](../Page/Google_Play.md "wikilink")。
+  - 原生主题支持：下载于[Google Play商店或其他来源的主题可以应用并在设备上显示出自定义外观](../Page/Google_Play.md "wikilink")。
   - 自定义硬件与软件按钮，包括在闭屏时快进曲目/闪光灯等操作、PIE控制及Fling导航系统
   - 用户界面控制，包括描边颜色及背景色
   - 状态栏自定义，比如电池图标样式修改以及增添网络活动信息
@@ -36,13 +33,11 @@ AOKP构建版/发行版按照[里程碑和](https://zh.wikipedia.org/wiki/里程
 
 ## 固件历史及发展
 
-在[HTC Dream](../Page/HTC_Dream.md "wikilink")（美国称为“T-Mobile
-G1”）于2008年9月发布不久之后，开发者在Android基于Linux的子系统中发现了获取特权控制（即[Root权限](https://zh.wikipedia.org/wiki/Root权限 "wikilink")） 的方法。\[12\]Root权限与Android系统的[开源天性融合在一起](https://zh.wikipedia.org/wiki/开源 "wikilink")，使得手机原厂固件可被更改并可进行重新安装。。
+在[HTC Dream](../Page/HTC_Dream.md "wikilink")（美国称为“T-Mobile G1”）于2008年9月发布不久之后，开发者在Android基于Linux的子系统中发现了获取特权控制（即[Root权限](https://zh.wikipedia.org/wiki/Root权限 "wikilink")） 的方法。\[12\]Root权限与Android系统的[开源天性融合在一起](https://zh.wikipedia.org/wiki/开源 "wikilink")，使得手机原厂固件可被更改并可进行重新安装。。
 
-接下来的几年，安卓爱好者开发并发布了多个移动设备的第三方固件。其中一位名为AOKP的罗曼·博的开发者迅速在多名高端安卓手机用户间流行起来。AOKP项目于2011年11月起步并迅速变得火热，形成了称之为AOKP团队（又名“康队”（Team
-Kang）\[13\]）。几个月内，AOKP又支持了更多设备与特性，而AOKP也成为除CyanogenMod以外最受欢迎的安卓第三方固件。\[14\]
+接下来的几年，安卓爱好者开发并发布了多个移动设备的第三方固件。其中一位名为AOKP的罗曼·博的开发者迅速在多名高端安卓手机用户间流行起来。AOKP项目于2011年11月起步并迅速变得火热，形成了称之为AOKP团队（又名“康队”（Team Kang）\[13\]）。几个月内，AOKP又支持了更多设备与特性，而AOKP也成为除CyanogenMod以外最受欢迎的安卓第三方固件。\[14\]
 
-AOKP使用[分散式版本控制系统开发](https://zh.wikipedia.org/wiki/分散式版本控制 "wikilink")，如其他开源计划一样将官方源托管在[GitHub上](../Page/GitHub.md "wikilink")。\[15\]由贡献者提交的新特性或[错误修复通过Google的源代码审查系统](../Page/程序错误.md "wikilink")[Gerrit进行检查](../Page/Gerrit.md "wikilink")。\[16\]代码贡献可被任何人所测试并可被注册用户顶或踩，最终被AOKP开发者融入代码库中。
+AOKP使用[分散式版本控制系统开发](https://zh.wikipedia.org/wiki/分散式版本控制 "wikilink")，如其他开源计划一样将官方源托管在[GitHub](../Page/GitHub.md "wikilink")上。\[15\]由贡献者提交的新特性或[错误修复通过Google的源代码审查系统](../Page/程序错误.md "wikilink")[Gerrit](../Page/Gerrit.md "wikilink")进行检查。\[16\]代码贡献可被任何人所测试并可被注册用户顶或踩，最终被AOKP开发者融入代码库中。
 
 **2011**
 
@@ -85,8 +80,7 @@ AOKP使用[分散式版本控制系统开发](https://zh.wikipedia.org/wiki/分�
 
 <!-- end list -->
 
-  - [Nexus 7 (2013)](../Page/Nexus_7_\(2013\).md "wikilink")
-    [WiFi](../Page/Wi-Fi.md "wikilink")
+  - [Nexus 7 (2013)](../Page/Nexus_7_\(2013\).md "wikilink") [WiFi](../Page/Wi-Fi.md "wikilink")
   - Nexus 7 (GSM)
   - Nexus 7 (WiFi)
   - Asus ZenFone 2 (ZE551ML)
@@ -113,10 +107,8 @@ AOKP使用[分散式版本控制系统开发](https://zh.wikipedia.org/wiki/分�
 
 <!-- end list -->
 
-  - One (国际版 / [AT\&T](../Page/AT&T.md "wikilink") /
-    [T-Mobile](../Page/T-Mobile.md "wikilink")) – 过期版本
-  - One (GSM / [Sprint](../Page/Sprint.md "wikilink") /
-    [Verizon](https://zh.wikipedia.org/wiki/威訊 "wikilink"))
+  - One (国际版 / [AT\&T](../Page/AT&T.md "wikilink") / [T-Mobile](../Page/T-Mobile.md "wikilink")) – 过期版本
+  - One (GSM / [Sprint](../Page/Sprint.md "wikilink") / [Verizon](https://zh.wikipedia.org/wiki/威訊 "wikilink"))
   - One XL (AT\&T)
 
 <!-- end list -->
@@ -125,8 +117,7 @@ AOKP使用[分散式版本控制系统开发](https://zh.wikipedia.org/wiki/分�
 
 <!-- end list -->
 
-  - [Ascend Mate 2
-    4G](https://zh.wikipedia.org/wiki/Huawei_Ascend_Mate_2_4G "wikilink")
+  - [Ascend Mate 2 4G](https://zh.wikipedia.org/wiki/Huawei_Ascend_Mate_2_4G "wikilink")
   - [Nexus 6P](../Page/Nexus_6P.md "wikilink")
 
 <!-- end list -->
@@ -144,9 +135,7 @@ AOKP使用[分散式版本控制系统开发](https://zh.wikipedia.org/wiki/分�
 <!-- end list -->
 
   - G PAD 8.3
-  - [G2](../Page/LG_G2.md "wikilink") ([GSM](../Page/GSM.md "wikilink")
-    – [LTE](../Page/長期演進技術.md "wikilink") / AT\&T / Sprint / T-Mobile
-    / Verizon)
+  - [G2](../Page/LG_G2.md "wikilink") ([GSM](../Page/GSM.md "wikilink") – [LTE](../Page/長期演進技術.md "wikilink") / AT\&T / Sprint / T-Mobile / Verizon)
   - [Nexus 4](../Page/Nexus_4.md "wikilink")
   - [Nexus 5](../Page/Nexus_5.md "wikilink")
   - Nitro HD (AT\&T)
@@ -161,15 +150,10 @@ AOKP使用[分散式版本控制系统开发](https://zh.wikipedia.org/wiki/分�
 
   - [Droid 3](https://zh.wikipedia.org/wiki/Droid_3 "wikilink") (XT862)
   - [Droid 4](https://zh.wikipedia.org/wiki/Droid_4 "wikilink") (XT894)
-  - [Droid
-    Bionic](https://zh.wikipedia.org/wiki/Droid_Bionic "wikilink")
-    (XT875)
-  - [Droid Razr](../Page/摩托罗拉Droid_RAZR.md "wikilink") (GSM / XT910 •
-    VZW / XT912)
-  - [Moto X](../Page/Moto_G.md "wikilink")(T-Mobile / Verizon Dev
-    Version)
-  - [Moto G4
-    Plus](https://zh.wikipedia.org/wiki/Moto_G4_Plus "wikilink")
+  - [Droid Bionic](https://zh.wikipedia.org/wiki/Droid_Bionic "wikilink") (XT875)
+  - [Droid Razr](../Page/摩托罗拉Droid_RAZR.md "wikilink") (GSM / XT910 • VZW / XT912)
+  - [Moto X](../Page/Moto_G.md "wikilink")(T-Mobile / Verizon Dev Version)
+  - [Moto G4 Plus](https://zh.wikipedia.org/wiki/Moto_G4_Plus "wikilink")
 
 <!-- end list -->
 
@@ -186,22 +170,16 @@ AOKP使用[分散式版本控制系统开发](https://zh.wikipedia.org/wiki/分�
 
 <!-- end list -->
 
-  - [Galaxy Nexus](../Page/Galaxy_Nexus.md "wikilink") (GSM / Sprint /
-    Verizon)
-  - [Galaxy Note 2](../Page/三星Galaxy_Note_II.md "wikilink") (GSM – LTE /
-    AT\&T / Sprint / T-Mobile / Verizon)
+  - [Galaxy Nexus](../Page/Galaxy_Nexus.md "wikilink") (GSM / Sprint / Verizon)
+  - [Galaxy Note 2](../Page/三星Galaxy_Note_II.md "wikilink") (GSM – LTE / AT\&T / Sprint / T-Mobile / Verizon)
   - [Galaxy Note 3](../Page/三星Galaxy_Note_3.md "wikilink") LTE (Unified)
-  - [Galaxy S2](../Page/三星Galaxy_S_II.md "wikilink") (国际版 Exynos,
-    国际版 Omap / T-Mobile)
-  - [Galaxy S3](../Page/三星Galaxy_S_III.md "wikilink") (国际版 / AT\&T /
-    T-Mobile / US Cellular / Verizon)
+  - [Galaxy S2](../Page/三星Galaxy_S_II.md "wikilink") (国际版 Exynos, 国际版 Omap / T-Mobile)
+  - [Galaxy S3](../Page/三星Galaxy_S_III.md "wikilink") (国际版 / AT\&T / T-Mobile / US Cellular / Verizon)
   - Galaxy S3 LTE (统一版)
-  - [Galaxy S4](../Page/三星Galaxy_S4.md "wikilink") (C Spire / Cricket /
-    C Spint / T-Mobile / US Cell / Verizon)
+  - [Galaxy S4](../Page/三星Galaxy_S4.md "wikilink") (C Spire / Cricket / C Spint / T-Mobile / US Cell / Verizon)
   - Galaxy S4 LTE (统一版)
   - Galaxy S4 Mini (GT-I9190 (3G) / GT-I9192 (DS) / GT-I9195 (LTE))
-  - [Galaxy S5](../Page/三星Galaxy_S5.md "wikilink") (GSM / Sprint / US
-    Cell / Vodafone)\[17\]
+  - [Galaxy S5](../Page/三星Galaxy_S5.md "wikilink") (GSM / Sprint / US Cell / Vodafone)\[17\]
   - [Nexus 10](../Page/Nexus_10.md "wikilink")
   - [Vibrant](../Page/三星Galaxy_S.md "wikilink") (T-Mobile)
 
@@ -250,12 +228,7 @@ AOKP使用[分散式版本控制系统开发](https://zh.wikipedia.org/wiki/分�
   -
   - 与其他安卓固件的兼容性[对比图表](http://www.gilug.org/mobils/)（加泰罗尼亚语）
 
-[Category:含有冗余参数的引用的页面](https://zh.wikipedia.org/wiki/Category:含有冗余参数的引用的页面 "wikilink")
-[Category:定制Android固件](https://zh.wikipedia.org/wiki/Category:定制Android固件 "wikilink")
-[Category:自由移动软件](https://zh.wikipedia.org/wiki/Category:自由移动软件 "wikilink")
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:Mobile_Linux](https://zh.wikipedia.org/wiki/Category:Mobile_Linux "wikilink")
-[Category:行動作業系統](https://zh.wikipedia.org/wiki/Category:行動作業系統 "wikilink")
+[Category:含有冗余参数的引用的页面](https://zh.wikipedia.org/wiki/Category:含有冗余参数的引用的页面 "wikilink") [Category:定制Android固件](https://zh.wikipedia.org/wiki/Category:定制Android固件 "wikilink") [Category:自由移动软件](https://zh.wikipedia.org/wiki/Category:自由移动软件 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:Mobile_Linux](https://zh.wikipedia.org/wiki/Category:Mobile_Linux "wikilink") [Category:行動作業系統](https://zh.wikipedia.org/wiki/Category:行動作業系統 "wikilink")
 
 1.
 2.
@@ -268,8 +241,7 @@ AOKP使用[分散式版本控制系统开发](https://zh.wikipedia.org/wiki/分�
 9.
 10.
 11.
-12. `|author=`和`|last=`只需其一
-    ([帮助](https://zh.wikipedia.org/wiki/Help:引文格式1错误#redundant_parameters "wikilink"))
+12. `|author=`和`|last=`只需其一 ([帮助](https://zh.wikipedia.org/wiki/Help:引文格式1错误#redundant_parameters "wikilink"))
 13.
 14.
 15.

@@ -1,6 +1,4 @@
-《**Goldenness**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Golden
-Child首張單曲專輯](../Page/Golden_Child.md "wikilink")，於2018年7月4日由[Woollim娛樂和](../Page/Woollim娛樂.md "wikilink")[LOEN娛樂發行](https://zh.wikipedia.org/wiki/kakao "wikilink")，主打歌為〈LET
-ME〉。
+《**Goldenness**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Golden Child首張單曲專輯](../Page/Golden_Child.md "wikilink")，於2018年7月4日由[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")和[LOEN娛樂發行](https://zh.wikipedia.org/wiki/kakao "wikilink")，主打歌為〈LET ME〉。
 
 ## 事件
 
@@ -8,26 +6,21 @@ ME〉。
 
 6月20日，宣布 Golden Child 即將帶著首張單曲〈Goldness〉回歸，同時率先公開了成員宰鉉和普閔的個人概念照。\[1\]
 
-6月21日，透過官方 Facebook
-公開Y、知範個人概念照。公開的照片中，Y、知範化身為「夏日少年」，在鮮艷色彩的背景下，以鞋子、滑板作為道具，搭配他們開朗、微笑的表情，給人充滿活力、調皮的感覺，散發出屬於他們的魅力。\[2\]
+6月21日，透過官方 Facebook 公開Y、知範個人概念照。公開的照片中，Y、知範化身為「夏日少年」，在鮮艷色彩的背景下，以鞋子、滑板作為道具，搭配他們開朗、微笑的表情，給人充滿活力、調皮的感覺，散發出屬於他們的魅力。\[2\]
 
 6月22日，公開東炫、長埈個人概念照。公開的照片中，東炫、長埈散發出屬於少年的清澀魅力，拿著道具看向鏡頭露出微笑的兩人，抓住大家的視線，特別是長埈還給人一種調皮的感覺。\[3\]
 
 6月23日，公開成員大烈、勝民的個人概念照。公開的照片以鮮豔的色彩為主，給人帶來一種活力滿滿的感覺，大烈手裡拿著擴音器露出燦爛笑容，勝民則是拿著麥克風，兩人紛紛展現青春、活潑的魅力。\[4\]
 
-6月24日，公開最後兩位成員 — 周燦、TAG 的個人概念照。公開的照片中，周燦像是在純情漫畫中登場的主角，撕開漫畫後走出來般帥氣，TAG
-則只露出側臉、看向遠方，強烈的眼神散發出屬於他的男性美，但手上拿著網球拍、道具槍的兩人，同時讓人感受到純粹的少年美。\[5\]
+6月24日，公開最後兩位成員 — 周燦、TAG 的個人概念照。公開的照片中，周燦像是在純情漫畫中登場的主角，撕開漫畫後走出來般帥氣，TAG 則只露出側臉、看向遠方，強烈的眼神散發出屬於他的男性美，但手上拿著網球拍、道具槍的兩人，同時讓人感受到純粹的少年美。\[5\]
 
-6月27日，公開新一波概念照。公開的團體概念照中，Golden Child
-十位成員穿著相同的服裝，在七彩繽紛的背景下化身為可愛男孩，而新一波的個人概念照展現出他們成熟的一面，以街拍的概念進行拍攝。\[6\]
+6月27日，公開新一波概念照。公開的團體概念照中，Golden Child 十位成員穿著相同的服裝，在七彩繽紛的背景下化身為可愛男孩，而新一波的個人概念照展現出他們成熟的一面，以街拍的概念進行拍攝。\[6\]
 
-6月29日，新一波團體概念照、專輯曲目表公開。公開的概念照中，Golden Child
-成員們各自展現個人自由奔放的樣子，同時也讓人感受到他們的少年魅力，狙擊女心的笑容與帥氣的外貌，緊緊抓住大家的視線。\[7\]
+6月29日，新一波團體概念照、專輯曲目表公開。公開的概念照中，Golden Child 成員們各自展現個人自由奔放的樣子，同時也讓人感受到他們的少年魅力，狙擊女心的笑容與帥氣的外貌，緊緊抓住大家的視線。\[7\]
 
 ### 預告片公開
 
-6月27日，公開主打歌《LET ME》短版 MV 預告。預告雖然只有短短的20秒，但已經讓人感受到《LET ME》輕快、充滿清涼感的氛圍，搭配上
-Golden Child 活力滿滿的樣子，展現出調皮大男孩的魅力，最後不停反覆著「LET ME」的歌詞。\[8\]
+6月27日，公開主打歌《LET ME》短版 MV 預告。預告雖然只有短短的20秒，但已經讓人感受到《LET ME》輕快、充滿清涼感的氛圍，搭配上 Golden Child 活力滿滿的樣子，展現出調皮大男孩的魅力，最後不停反覆著「LET ME」的歌詞。\[8\]
 
 ### MV、音源公開
 
@@ -35,16 +28,11 @@ Golden Child 活力滿滿的樣子，展現出調皮大男孩的魅力，最後�
 
 ## 創作
 
-《Goldenness》的專輯名稱取自 Golden Child
-的粉絲名，代表著成員們對給予應援的粉絲們的心意。這張專輯共收錄了3首歌曲，主打歌《LET
-ME》是 Golden Child
-風格的輕快活潑歌曲，歌詞內容則是少年要求喜歡的對象將一切交給自己的直率告白。而收錄曲《IF》是以「如果」為關鍵字，描寫悸動的單戀心情的歌曲；《Thank
-You》則是結合抒情的原生吉他與樂團演臭的歌曲，歌詞表達了思念所愛之人的心情。
+《Goldenness》的專輯名稱取自 Golden Child 的粉絲名，代表著成員們對給予應援的粉絲們的心意。這張專輯共收錄了3首歌曲，主打歌《LET ME》是 Golden Child 風格的輕快活潑歌曲，歌詞內容則是少年要求喜歡的對象將一切交給自己的直率告白。而收錄曲《IF》是以「如果」為關鍵字，描寫悸動的單戀心情的歌曲；《Thank You》則是結合抒情的原生吉他與樂團演臭的歌曲，歌詞表達了思念所愛之人的心情。
 
 ## 曲目
 
-《Goldenness》共收錄三首歌曲，分別是主打歌《LET ME》與收錄曲《IF》、《Thank You》，其中長埈與 TAG
-參與主打歌與《IF》的 Rap Making，令歌曲與專輯的完成度更高。
+《Goldenness》共收錄三首歌曲，分別是主打歌《LET ME》與收錄曲《IF》、《Thank You》，其中長埈與 TAG 參與主打歌與《IF》的 Rap Making，令歌曲與專輯的完成度更高。
 
 ## 相關影片
 
@@ -146,13 +134,10 @@ You》則是結合抒情的原生吉他與樂團演臭的歌曲，歌詞表達�
 
 ## 參考資料
 
-  - [genie -Golden Child 1st Single Album
-    'Goldenness'](http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/081/368/81081368_1530689934313_1_600x600.JPG)
-
+  - [genie -Golden Child 1st Single Album 'Goldenness'](http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/081/368/81081368_1530689934313_1_600x600.JPG)
   - [首張單曲專輯《Goldenness》namuwiki](https://namu.wiki/w/Goldenness)
 
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

@@ -1,37 +1,29 @@
-**KKTV**為[日本](../Page/日本.md "wikilink")[KDDI集團旗下](../Page/KDDI.md "wikilink")[KKBOX所成立的](../Page/KKBOX.md "wikilink")[OTT](https://zh.wikipedia.org/wiki/OTT "wikilink")(Over-The-Top)品牌，結合[日本](../Page/日本.md "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[中國大陆各地的影音內容](https://zh.wikipedia.org/wiki/中國大陆 "wikilink")，與影音串流服務，除了在[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android推出](../Page/Android.md "wikilink")[軟體提供用戶隨身收看外](https://zh.wikipedia.org/wiki/軟體 "wikilink")，也支援[中華電信MOD](../Page/中華電信MOD.md "wikilink")、[AirPlay和](https://zh.wikipedia.org/wiki/AirPlay "wikilink")[Chromecast](../Page/Chromecast.md "wikilink")，可以直接將影音內容投放到電視上使用\[1\]。
+**KKTV**為[日本](../Page/日本.md "wikilink")[KDDI](../Page/KDDI.md "wikilink")集團旗下[KKBOX](../Page/KKBOX.md "wikilink")所成立的[OTT](https://zh.wikipedia.org/wiki/OTT "wikilink")(Over-The-Top)品牌，結合[日本](../Page/日本.md "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[中國大陆各地的影音內容](https://zh.wikipedia.org/wiki/中國大陆 "wikilink")，與影音串流服務，除了在[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")推出[軟體提供用戶隨身收看外](https://zh.wikipedia.org/wiki/軟體 "wikilink")，也支援[中華電信MOD](../Page/中華電信MOD.md "wikilink")、[AirPlay和](https://zh.wikipedia.org/wiki/AirPlay "wikilink")[Chromecast](../Page/Chromecast.md "wikilink")，可以直接將影音內容投放到電視上使用\[1\]。
 
 除了海內外授權戲劇內容，KKTV也投入自製原生內容，目前已上架五部自製劇。
 
 ## 發展歷史
 
-2016年6月27日，與韓國娛樂集團CJ E\&M合作。KKTV主要與CJ
-E\&M合作其旗下[tvN與](https://zh.wikipedia.org/wiki/tvN "wikilink")[OCN二個戲劇頻道](https://zh.wikipedia.org/wiki/OCN "wikilink")。
+2016年6月27日，與韓國娛樂集團CJ E\&M合作。KKTV主要與CJ E\&M合作其旗下[tvN與](https://zh.wikipedia.org/wiki/tvN "wikilink")[OCN二個戲劇頻道](https://zh.wikipedia.org/wiki/OCN "wikilink")。
 
 2016年6月29日，與韓國[SBS電視台合作](../Page/SBS_\(韓國\).md "wikilink")，提供節目如生存綜藝《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》。
 
-2016年7月4日，與[東京電視台](../Page/東京電視台.md "wikilink")、[富士電視台合作](../Page/富士電視台.md "wikilink")，提供節目如改編於同名漫畫的《[孤獨的美食家](https://zh.wikipedia.org/wiki/孤獨的美食家 "wikilink")》和[松嶋菜菜子主演的](../Page/松嶋菜菜子.md "wikilink")[營業部長
-吉良奈津子](../Page/營業部長_吉良奈津子.md "wikilink")。
+2016年7月4日，與[東京電視台](../Page/東京電視台.md "wikilink")、[富士電視台](../Page/富士電視台.md "wikilink")合作，提供節目如改編於同名漫畫的《[孤獨的美食家](https://zh.wikipedia.org/wiki/孤獨的美食家 "wikilink")》和[松嶋菜菜子](../Page/松嶋菜菜子.md "wikilink")主演的[營業部長 吉良奈津子](../Page/營業部長_吉良奈津子.md "wikilink")。
 
 2016年7月6日，KKTV正式上架；同年8月10日，KKTV正式開台。\[2\]
 
-2016年9月6日，提供韓國CJ [M
-Countdown和SBS](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")「K
-POP
-COUNTDOWN」[人氣歌謠歌唱比賽的直播與VOD版權](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")。\[3\]
+2016年9月6日，提供韓國CJ [M Countdown和SBS](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")「K POP COUNTDOWN」[人氣歌謠歌唱比賽的直播與VOD版權](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")。\[3\]
 
-2017年7月31日，與[中華電信MOD合作](../Page/中華電信MOD.md "wikilink")。\[4\]
+2017年7月31日，與[中華電信MOD](../Page/中華電信MOD.md "wikilink")合作。\[4\]
 
-2017年8月17日，與[Yahoo奇摩合作](../Page/Yahoo奇摩.md "wikilink")。\[5\]
+2017年8月17日，與[Yahoo奇摩](../Page/Yahoo奇摩.md "wikilink")合作。\[5\]
 
 ## 版本列表
 
 根據作業平台的不同，KKTV的軟體可以分為以下類別：
 
-  - **KKTV iOS**－適用於運行[iOS
-    9.0或以上的](../Page/IOS.md "wikilink")[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPod
-    Touch與](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")。
-  - **KKTV Android**－適用於運行[Android
-    4.0.4或以上的各廠牌裝置](../Page/Android.md "wikilink")。
+  - **KKTV iOS**－適用於運行[iOS 9.0或以上的](../Page/IOS.md "wikilink")[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPod Touch與](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")。
+  - **KKTV Android**－適用於運行[Android 4.0.4或以上的各廠牌裝置](../Page/Android.md "wikilink")。
   - **中華電信MOD**－支援型號307以上機上盒設備，且需透過中華電信訂閱KKTV才能使用服務。
 
 ## 自製節目列表
@@ -88,18 +80,11 @@ COUNTDOWN」[人氣歌謠歌唱比賽的直播與VOD版權](https://zh.wikipedia
   -
   -
   -
-  - [KKTV
-    難以抗劇](https://itunes.apple.com/tw/app/kktv-難以抗劇/id1100597605?mt=8)的iOS
-    APP Store
+  - [KKTV 難以抗劇](https://itunes.apple.com/tw/app/kktv-難以抗劇/id1100597605?mt=8)的iOS APP Store
 
-  - [KKTV
-    難以抗劇](https://play.google.com/store/apps/details?id=com.kktv.kktv&hl=zh-TW)的Android
-    Google Play
+  - [KKTV 難以抗劇](https://play.google.com/store/apps/details?id=com.kktv.kktv&hl=zh-TW)的Android Google Play
 
-[Category:視頻網站](https://zh.wikipedia.org/wiki/Category:視頻網站 "wikilink")
-[Category:台灣網站](https://zh.wikipedia.org/wiki/Category:台灣網站 "wikilink")
-[Category:网络电视](https://zh.wikipedia.org/wiki/Category:网络电视 "wikilink")
-[Category:日本品牌](https://zh.wikipedia.org/wiki/Category:日本品牌 "wikilink")
+[Category:視頻網站](https://zh.wikipedia.org/wiki/Category:視頻網站 "wikilink") [Category:台灣網站](https://zh.wikipedia.org/wiki/Category:台灣網站 "wikilink") [Category:网络电视](https://zh.wikipedia.org/wiki/Category:网络电视 "wikilink") [Category:日本品牌](https://zh.wikipedia.org/wiki/Category:日本品牌 "wikilink")
 
 1.
 2.

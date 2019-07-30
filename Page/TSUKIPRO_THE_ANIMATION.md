@@ -1,15 +1,12 @@
-《**TSUKIPRO THE
-ANIMATION**》是根據Movic企劃的「月野藝能事務所」動畫化的原創電視動畫作品。動畫《TSUKIPRO》在2017年3月25日宣布TV動畫化，放送日期已確定為2017年10月4日播放。其兄弟作有《[月歌。](../Page/月歌。.md "wikilink")》。
+《**TSUKIPRO THE ANIMATION**》是根據Movic企劃的「月野藝能事務所」動畫化的原創電視動畫作品。動畫《TSUKIPRO》在2017年3月25日宣布TV動畫化，放送日期已確定為2017年10月4日播放。其兄弟作有《[月歌。](../Page/月歌。.md "wikilink")》。
 
 ## 概要
 
-《TSUKIPRO THE
-ANIMATION》（簡稱《PROANI》），講述的是在TSUKINO事務所下四個偶像組合的日常（將登場的團體有SOARA、Growth、SolidS和QUELL）。官方把動畫定義為日常系音樂動畫，各組皆有不同的音樂風格及個性。
+《TSUKIPRO THE ANIMATION》（簡稱《PROANI》），講述的是在TSUKINO事務所下四個偶像組合的日常（將登場的團體有SOARA、Growth、SolidS和QUELL）。官方把動畫定義為日常系音樂動畫，各組皆有不同的音樂風格及個性。
 
 ## 故事大綱
 
-年末慣例的「月Pro live」演唱會，在今年決定連開2天，第一天出場的是SIX
-GRAVITY、Procellarum、Fluna、Seleas四個組合，第二天出場的有SolidS、QUELL、SOARA以及Growth，演出的地點定在[武道館](https://zh.wikipedia.org/wiki/武道館 "wikilink")，而於第二天演出的各團體必須準備4首新曲子，並在演唱會當天首次公開。本作將以日常的方式呈現。
+年末慣例的「月Pro live」演唱會，在今年決定連開2天，第一天出場的是SIX GRAVITY、Procellarum、Fluna、Seleas四個組合，第二天出場的有SolidS、QUELL、SOARA以及Growth，演出的地點定在[武道館](https://zh.wikipedia.org/wiki/武道館 "wikilink")，而於第二天演出的各團體必須準備4首新曲子，並在演唱會當天首次公開。本作將以日常的方式呈現。
 
 ## 登場人物
 
@@ -63,8 +60,7 @@ GRAVITY、Procellarum、Fluna、Seleas四個組合，第二天出場的有SolidS
 ### SOARA
 
   -
-    年輕有活力的組合，原為歡送畢業生而組成的高中樂團，參加試鏡合格後出道。因為是第一次參加「月pro
-    live」，所以電視台會在旁為他們拍攝紀錄片直到演唱會結束。
+    年輕有活力的組合，原為歡送畢業生而組成的高中樂團，參加試鏡合格後出道。因為是第一次參加「月pro live」，所以電視台會在旁為他們拍攝紀錄片直到演唱會結束。
 
 :;
 
@@ -196,6 +192,7 @@ GRAVITY、Procellarum、Fluna、Seleas四個組合，第二天出場的有SolidS
       -
         年齡：17。
         壹流的雙胞胎哥哥，差別是流海向右撥，且個性較為沉著穩重。
+        在孤兒院因為被誣賴，和壹流離家出走，後因發燒而和壹流被柊羽撿到。
 
 :;
 
@@ -236,32 +233,28 @@ GRAVITY、Procellarum、Fluna、Seleas四個組合，第二天出場的有SolidS
   -
 
       -
-        主唱：SolidS
-        ［篁志季([江口拓也](../Page/江口拓也.md "wikilink"))、奧井翼([齊藤壯馬](https://zh.wikipedia.org/wiki/齊藤壯馬 "wikilink"))、村瀬大([梅原裕一郎](../Page/梅原裕一郎.md "wikilink"))、世良里津花([花江夏樹](../Page/花江夏樹.md "wikilink"))］
+        主唱：SolidS ［篁志季([江口拓也](../Page/江口拓也.md "wikilink"))、奧井翼([齊藤壯馬](https://zh.wikipedia.org/wiki/齊藤壯馬 "wikilink"))、村瀬大([梅原裕一郎](../Page/梅原裕一郎.md "wikilink"))、世良里津花([花江夏樹](../Page/花江夏樹.md "wikilink"))］
 
 :; 「エリアル -ALIEL-」(第2話)
 
   -
 
       -
-        主唱：SOARA
-        ［大原空([豐永利行](../Page/豐永利行.md "wikilink"))、在原守人([小野友樹](../Page/小野友樹.md "wikilink"))、神樂坂宗司([古川慎](../Page/古川慎.md "wikilink"))、宗像廉([村田太志](../Page/村田太志.md "wikilink"))、七瀨望([澤城千春](../Page/澤城千春.md "wikilink"))］
+        主唱：SOARA ［大原空([豐永利行](../Page/豐永利行.md "wikilink"))、在原守人([小野友樹](../Page/小野友樹.md "wikilink"))、神樂坂宗司([古川慎](../Page/古川慎.md "wikilink"))、宗像廉([村田太志](../Page/村田太志.md "wikilink"))、七瀨望([澤城千春](../Page/澤城千春.md "wikilink"))］
 
 :; 「Because you are」(第3話)
 
   -
 
       -
-        主唱：QUELL
-        ［和泉柊羽([武内駿輔](https://zh.wikipedia.org/wiki/武内駿輔 "wikilink"))、堀宮英知([西山宏太朗](../Page/西山宏太朗.md "wikilink"))、久我壹星([仲村宗悟](../Page/仲村宗悟.md "wikilink"))、久我壹流([野上翔](../Page/野上翔.md "wikilink"))］
+        主唱：QUELL ［和泉柊羽([武内駿輔](https://zh.wikipedia.org/wiki/武内駿輔 "wikilink"))、堀宮英知([西山宏太朗](../Page/西山宏太朗.md "wikilink"))、久我壹星([仲村宗悟](../Page/仲村宗悟.md "wikilink"))、久我壹流([野上翔](../Page/野上翔.md "wikilink"))］
 
 :; 「魔法のキズナ」(第4話)
 
   -
 
       -
-        主唱：Growth
-        ［衛藤昂輝([土岐隼一](../Page/土岐隼一.md "wikilink"))、八重樫劍介([山谷祥生](../Page/山谷祥生.md "wikilink"))、櫻庭涼太([山下大輝](../Page/山下大輝.md "wikilink"))、藤村衛([寺島惇太](../Page/寺島惇太.md "wikilink"))］
+        主唱：Growth ［衛藤昂輝([土岐隼一](../Page/土岐隼一.md "wikilink"))、八重樫劍介([山谷祥生](../Page/山谷祥生.md "wikilink"))、櫻庭涼太([山下大輝](../Page/山下大輝.md "wikilink"))、藤村衛([寺島惇太](../Page/寺島惇太.md "wikilink"))］
 
 <!-- end list -->
 
@@ -273,8 +266,7 @@ GRAVITY、Procellarum、Fluna、Seleas四個組合，第二天出場的有SolidS
 
       -
         作詞、作曲、編曲：泷泽章
-        主唱：SolidS
-        ［篁志季([江口拓也](../Page/江口拓也.md "wikilink"))、奧井翼([齊藤壯馬](https://zh.wikipedia.org/wiki/齊藤壯馬 "wikilink"))、村瀬大([梅原裕一郎](../Page/梅原裕一郎.md "wikilink"))、世良里津花([花江夏樹](../Page/花江夏樹.md "wikilink"))］
+        主唱：SolidS ［篁志季([江口拓也](../Page/江口拓也.md "wikilink"))、奧井翼([齊藤壯馬](https://zh.wikipedia.org/wiki/齊藤壯馬 "wikilink"))、村瀬大([梅原裕一郎](../Page/梅原裕一郎.md "wikilink"))、世良里津花([花江夏樹](../Page/花江夏樹.md "wikilink"))］
 
 :; 「FRIEND」(第2話)
 
@@ -282,8 +274,7 @@ GRAVITY、Procellarum、Fluna、Seleas四個組合，第二天出場的有SolidS
 
       -
         作詞、作曲、編曲：泷泽章
-        主唱：SOARA
-        ［大原空([豐永利行](../Page/豐永利行.md "wikilink"))、在原守人([小野友樹](../Page/小野友樹.md "wikilink"))、神樂坂宗司([古川慎](../Page/古川慎.md "wikilink"))、宗像廉([村田太志](../Page/村田太志.md "wikilink"))、七瀨望([澤城千春](../Page/澤城千春.md "wikilink"))］
+        主唱：SOARA ［大原空([豐永利行](../Page/豐永利行.md "wikilink"))、在原守人([小野友樹](../Page/小野友樹.md "wikilink"))、神樂坂宗司([古川慎](../Page/古川慎.md "wikilink"))、宗像廉([村田太志](../Page/村田太志.md "wikilink"))、七瀨望([澤城千春](../Page/澤城千春.md "wikilink"))］
 
 :; 「小さな世界」(第3話)
 
@@ -291,8 +282,7 @@ GRAVITY、Procellarum、Fluna、Seleas四個組合，第二天出場的有SolidS
 
       -
         作詞、作曲、編曲：はまたけし
-        主唱：QUELL
-        ［和泉柊羽([武内駿輔](https://zh.wikipedia.org/wiki/武内駿輔 "wikilink"))、堀宮英知([西山宏太朗](../Page/西山宏太朗.md "wikilink"))、久我壹星([仲村宗悟](../Page/仲村宗悟.md "wikilink"))、久我壹流([野上翔](../Page/野上翔.md "wikilink"))］
+        主唱：QUELL ［和泉柊羽([武内駿輔](https://zh.wikipedia.org/wiki/武内駿輔 "wikilink"))、堀宮英知([西山宏太朗](../Page/西山宏太朗.md "wikilink"))、久我壹星([仲村宗悟](../Page/仲村宗悟.md "wikilink"))、久我壹流([野上翔](../Page/野上翔.md "wikilink"))］
 
 :; 「one day」(第4話)
 
@@ -300,8 +290,7 @@ GRAVITY、Procellarum、Fluna、Seleas四個組合，第二天出場的有SolidS
 
       -
         作詞、作曲、編曲：泷泽章
-        主唱：Growth
-        ［衛藤昂輝([土岐隼一](../Page/土岐隼一.md "wikilink"))、八重樫劍介([山谷祥生](../Page/山谷祥生.md "wikilink"))、櫻庭涼太([山下大輝](../Page/山下大輝.md "wikilink"))、藤村衛([寺島惇太](../Page/寺島惇太.md "wikilink"))］
+        主唱：Growth ［衛藤昂輝([土岐隼一](../Page/土岐隼一.md "wikilink"))、八重樫劍介([山谷祥生](../Page/山谷祥生.md "wikilink"))、櫻庭涼太([山下大輝](../Page/山下大輝.md "wikilink"))、藤村衛([寺島惇太](../Page/寺島惇太.md "wikilink"))］
 
 <!-- end list -->
 
@@ -313,8 +302,7 @@ GRAVITY、Procellarum、Fluna、Seleas四個組合，第二天出場的有SolidS
 
       -
         作詞、作曲、編曲：泷泽章
-        主唱：SolidS
-        ［篁志季([江口拓也](../Page/江口拓也.md "wikilink"))、奧井翼([齊藤壯馬](https://zh.wikipedia.org/wiki/齊藤壯馬 "wikilink"))、村瀬大([梅原裕一郎](../Page/梅原裕一郎.md "wikilink"))、世良里津花([花江夏樹](../Page/花江夏樹.md "wikilink"))］
+        主唱：SolidS ［篁志季([江口拓也](../Page/江口拓也.md "wikilink"))、奧井翼([齊藤壯馬](https://zh.wikipedia.org/wiki/齊藤壯馬 "wikilink"))、村瀬大([梅原裕一郎](../Page/梅原裕一郎.md "wikilink"))、世良里津花([花江夏樹](../Page/花江夏樹.md "wikilink"))］
 
 :; 「Shall We Dance」(第1話)
 
@@ -330,8 +318,7 @@ GRAVITY、Procellarum、Fluna、Seleas四個組合，第二天出場的有SolidS
 
       -
         作詞、作曲、編曲：泷泽章
-        　主唱：SolidS
-        ［篁志季([江口拓也](../Page/江口拓也.md "wikilink"))、奧井翼([齊藤壯馬](https://zh.wikipedia.org/wiki/齊藤壯馬 "wikilink"))、村瀬大([梅原裕一郎](../Page/梅原裕一郎.md "wikilink"))、世良里津花([花江夏樹](../Page/花江夏樹.md "wikilink"))］
+        　主唱：SolidS ［篁志季([江口拓也](../Page/江口拓也.md "wikilink"))、奧井翼([齊藤壯馬](https://zh.wikipedia.org/wiki/齊藤壯馬 "wikilink"))、村瀬大([梅原裕一郎](../Page/梅原裕一郎.md "wikilink"))、世良里津花([花江夏樹](../Page/花江夏樹.md "wikilink"))］
 
 :; 「マクガフィン」(第2話)
 
@@ -339,8 +326,7 @@ GRAVITY、Procellarum、Fluna、Seleas四個組合，第二天出場的有SolidS
 
       -
         作詞、作曲、編曲：泷泽章
-        主唱：SOARA
-        ［大原空([豐永利行](../Page/豐永利行.md "wikilink"))、在原守人([小野友樹](../Page/小野友樹.md "wikilink"))、神樂坂宗司([古川慎](../Page/古川慎.md "wikilink"))、宗像廉([村田太志](../Page/村田太志.md "wikilink"))、七瀨望([澤城千春](../Page/澤城千春.md "wikilink"))］
+        主唱：SOARA ［大原空([豐永利行](../Page/豐永利行.md "wikilink"))、在原守人([小野友樹](../Page/小野友樹.md "wikilink"))、神樂坂宗司([古川慎](../Page/古川慎.md "wikilink"))、宗像廉([村田太志](../Page/村田太志.md "wikilink"))、七瀨望([澤城千春](../Page/澤城千春.md "wikilink"))］
 
 :; 「believer ～祈り～」(第3話)
 
@@ -348,8 +334,7 @@ GRAVITY、Procellarum、Fluna、Seleas四個組合，第二天出場的有SolidS
 
       -
         作詞、作曲、編曲：はまたけし
-        主唱：QUELL
-        ［和泉柊羽([武内駿輔](https://zh.wikipedia.org/wiki/武内駿輔 "wikilink"))、堀宮英知([西山宏太朗](../Page/西山宏太朗.md "wikilink"))、久我壹星([仲村宗悟](../Page/仲村宗悟.md "wikilink"))、久我壹流([野上翔](../Page/野上翔.md "wikilink"))］
+        主唱：QUELL ［和泉柊羽([武内駿輔](https://zh.wikipedia.org/wiki/武内駿輔 "wikilink"))、堀宮英知([西山宏太朗](../Page/西山宏太朗.md "wikilink"))、久我壹星([仲村宗悟](../Page/仲村宗悟.md "wikilink"))、久我壹流([野上翔](../Page/野上翔.md "wikilink"))］
 
 :; 「蒼い水」(第3話)
 
@@ -357,8 +342,7 @@ GRAVITY、Procellarum、Fluna、Seleas四個組合，第二天出場的有SolidS
 
       -
         作詞、作曲、編曲：はまたけし
-        主唱：QUELL
-        ［和泉柊羽([武内駿輔](https://zh.wikipedia.org/wiki/武内駿輔 "wikilink"))、堀宮英知([西山宏太朗](../Page/西山宏太朗.md "wikilink"))、久我壹星([仲村宗悟](../Page/仲村宗悟.md "wikilink"))、久我壹流([野上翔](../Page/野上翔.md "wikilink"))］
+        主唱：QUELL ［和泉柊羽([武内駿輔](https://zh.wikipedia.org/wiki/武内駿輔 "wikilink"))、堀宮英知([西山宏太朗](../Page/西山宏太朗.md "wikilink"))、久我壹星([仲村宗悟](../Page/仲村宗悟.md "wikilink"))、久我壹流([野上翔](../Page/野上翔.md "wikilink"))］
 
 ## 各話列表
 
@@ -390,5 +374,4 @@ GRAVITY、Procellarum、Fluna、Seleas四個組合，第二天出場的有SolidS
 
   - [TSUKIPRO THE ANIMATION 官網](http://tsukipro-anime.com/)
 
-[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink")
-[Category:偶像題材動畫](https://zh.wikipedia.org/wiki/Category:偶像題材動畫 "wikilink")
+[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:偶像題材動畫](https://zh.wikipedia.org/wiki/Category:偶像題材動畫 "wikilink")

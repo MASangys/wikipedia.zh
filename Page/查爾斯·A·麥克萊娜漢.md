@@ -21,8 +21,7 @@
 
     {| class="wikitable"
 
-|- \!姓名 \!得票 \!百分比 \!結果 |-style="background:\#FFB6B6" | |1,909 |61%
-|**勝** |-style="background:\#FFB6B6" |查爾斯·A·麥克萊娜漢 |1,223 |39% |敗 |}
+|- \!姓名 \!得票 \!百分比 \!結果 |-style="background:\#FFB6B6" | |1,909 |61% |**勝** |-style="background:\#FFB6B6" |查爾斯·A·麥克萊娜漢 |1,223 |39% |敗 |}
 
   - **1998年马里兰州众议院選舉－第三十八選區**\[4\]
 
@@ -35,8 +34,7 @@
 
     {| class="wikitable"
 
-|- \!姓名 \!得票 \!百分比 \!結果 |-style="background:\#FFB6B6" |查爾斯·A·麥克萊娜漢
-|17,112 |52% |**勝** |-style="background:\#B0CEFF" |老歐內斯特·J·皮爾伯特
+|- \!姓名 \!得票 \!百分比 \!結果 |-style="background:\#FFB6B6" |查爾斯·A·麥克萊娜漢 |17,112 |52% |**勝** |-style="background:\#B0CEFF" |老歐內斯特·J·皮爾伯特
 （Ernest J. Leatherbury Sr.） |15,711 |48% |敗 |}
 
   - **1998年马里兰州众议院選舉－第三十八選區**\[5\]
@@ -50,8 +48,7 @@
 
     {| class="wikitable"
 
-|- \!姓名 \!得票 \!百分比 \!結果 |-style="background:\#B0CEFF" | |18,284 |55%
-|**勝** |-style="background:\#FFB6B6" |克里斯托弗·米爾斯
+|- \!姓名 \!得票 \!百分比 \!結果 |-style="background:\#B0CEFF" | |18,284 |55% |**勝** |-style="background:\#FFB6B6" |克里斯托弗·米爾斯
 （Christopher Mills） |14,896 |45% |敗 |}
 
   - **1998年马里兰州众议院選舉－第三十八選區**\[6\]
@@ -66,8 +63,7 @@
     {| class="wikitable"
 
 |- \!姓名 \!得票 \!百分比 \!結果 |-style="background:\#B0CEFF" |班尼特·博茲曼
-（Bennett Bozman） |21,155 |66% |**勝** |-style="background:\#FFB6B6"
-|約瑟夫·弗雷德里克·施諾
+（Bennett Bozman） |21,155 |66% |**勝** |-style="background:\#FFB6B6" |約瑟夫·弗雷德里克·施諾
 （Joseph Frederick Schanno） |10,900 |34% |敗 |}
 
   - **1994年马里兰州众议院選舉－第三十八選區**\[7\]
@@ -82,31 +78,22 @@
     {| class="wikitable"
 
 |- \!姓名 \!得票 \!百分比 \!結果 |-style="background:\#B0CEFF" |班尼特·博茲曼
-（Bennett Bozman） |19,702 |22% |**勝** |-style="background:\#B0CEFF" |
-|17,593 |20% |**勝** |-style="background:\#FFB6B6" |**查爾斯·A·麥克萊娜漢**
-|16,700 |19% |**勝** |-style="background:\#B0CEFF" |小查爾斯·A·布魯斯
-（Charles A. Bruce Jr.） |12,591 |14% |敗 |-style="background:\#FFB6B6"
-|克里斯托弗·E·米爾斯
-（Christopher E. Mills） |12,296 |14% |敗 |-style="background:\#FFB6B6"
-|羅納德·L·布雷里斯
+（Bennett Bozman） |19,702 |22% |**勝** |-style="background:\#B0CEFF" | |17,593 |20% |**勝** |-style="background:\#FFB6B6" |**查爾斯·A·麥克萊娜漢** |16,700 |19% |**勝** |-style="background:\#B0CEFF" |小查爾斯·A·布魯斯
+（Charles A. Bruce Jr.） |12,591 |14% |敗 |-style="background:\#FFB6B6" |克里斯托弗·E·米爾斯
+（Christopher E. Mills） |12,296 |14% |敗 |-style="background:\#FFB6B6" |羅納德·L·布雷里斯
 （Ronald L. Bireley） |10,570 |12% |敗 |}
 
 ## 參考資料
 
 ## 外部連結
 
-  - [众议院前議員：查爾斯·A·麥克萊娜漢（HOUSE OF DELEGATES/FORMER DELEGATES:Charles A.
-    McClenahan, State
-    Delegate）](http://www.msa.md.gov/msa/mdmanual/06hse/former/html/msa12266.html)
+  - [众议院前議員：查爾斯·A·麥克萊娜漢（HOUSE OF DELEGATES/FORMER DELEGATES:Charles A. McClenahan, State Delegate）](http://www.msa.md.gov/msa/mdmanual/06hse/former/html/msa12266.html)
 
-[Category:北卡羅來納州人](https://zh.wikipedia.org/wiki/Category:北卡羅來納州人 "wikilink")
-[Category:馬里蘭州眾議員](https://zh.wikipedia.org/wiki/Category:馬里蘭州眾議員 "wikilink")
-[Category:馬里蘭州共和黨人](https://zh.wikipedia.org/wiki/Category:馬里蘭州共和黨人 "wikilink")
+[Category:北卡羅來納州人](https://zh.wikipedia.org/wiki/Category:北卡羅來納州人 "wikilink") [Category:馬里蘭州眾議員](https://zh.wikipedia.org/wiki/Category:馬里蘭州眾議員 "wikilink") [Category:馬里蘭州共和黨人](https://zh.wikipedia.org/wiki/Category:馬里蘭州共和黨人 "wikilink")
 
 1.
 
-2.  [Charles McClenahan, former delegate, dies
-    at 76](http://www.delmarvanow.com/story/news/local/maryland/2017/05/12/charles-mcclenahan-former-delegate-dies-76/319839001/)
+2.  [Charles McClenahan, former delegate, dies at 76](http://www.delmarvanow.com/story/news/local/maryland/2017/05/12/charles-mcclenahan-former-delegate-dies-76/319839001/)
 
 3.   Retrieved on Jan. 1, 2008
 

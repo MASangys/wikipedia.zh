@@ -1,12 +1,10 @@
-[第18回](../Page/第18回TV_LIFE年度日劇大賞.md "wikilink") ← **第19回** →
-[第20回](../Page/第20回TV_LIFE年度日劇大賞.md "wikilink")
+[第18回](../Page/第18回TV_LIFE年度日劇大賞.md "wikilink") ← **第19回** → [第20回](../Page/第20回TV_LIFE年度日劇大賞.md "wikilink")
 
-**第19回[TV
-LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2009年播出的連續劇做出的觀眾投票。
+**第19回[TV LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2009年播出的連續劇做出的觀眾投票。
 
-本屆獲獎最多的劇集是[富士電視台的](../Page/富士電視台.md "wikilink")《》，共獲5獎。
+本屆獲獎最多的劇集是[富士電視台](../Page/富士電視台.md "wikilink")的《》，共獲5獎。
 
-個人方面，[草彅剛第三度獲頒最佳男主角獎](../Page/草彅剛.md "wikilink")。
+個人方面，[草彅剛](../Page/草彅剛.md "wikilink")第三度獲頒最佳男主角獎。
 
 ## 獎項
 
@@ -427,5 +425,4 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 
 ## 參考來源
 
-[Category:2009年日本](https://zh.wikipedia.org/wiki/Category:2009年日本 "wikilink")
-[Category:2009年电视奖项](https://zh.wikipedia.org/wiki/Category:2009年电视奖项 "wikilink")
+[Category:2009年日本](https://zh.wikipedia.org/wiki/Category:2009年日本 "wikilink") [Category:2009年电视奖项](https://zh.wikipedia.org/wiki/Category:2009年电视奖项 "wikilink")

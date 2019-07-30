@@ -1,6 +1,4 @@
-《**秋葉原之旅 -THE ANIMATION-**》（*AKIBA'S TRIP -THE
-ANIMATION-*）改編自同名以[PlayStation
-Portable為平台的](../Page/PlayStation_Portable.md "wikilink")[秋葉原之旅](../Page/秋葉原之旅.md "wikilink")。2016年9月15日，於[東京電玩展2016宣佈推出電視動畫](https://zh.wikipedia.org/wiki/東京電玩展 "wikilink")\[1\]，並從2017年1月4日開始播放。
+《**秋葉原之旅 -THE ANIMATION-**》（*AKIBA'S TRIP -THE ANIMATION-*）改編自同名以[PlayStation Portable為平台的](../Page/PlayStation_Portable.md "wikilink")[秋葉原之旅](../Page/秋葉原之旅.md "wikilink")。2016年9月15日，於[東京電玩展2016宣佈推出電視動畫](https://zh.wikipedia.org/wiki/東京電玩展 "wikilink")\[1\]，並從2017年1月4日開始播放。
 
 ## 登場人物
 
@@ -129,13 +127,11 @@ Portable為平台的](../Page/PlayStation_Portable.md "wikilink")[秋葉原之�
 
 :; 「B Ambitious\!」（第1話）
 
-::
-作詞：7chi子♪，作曲：渡邊俊彥，編曲：[大久保薰](../Page/大久保薰.md "wikilink")，主唱：[唯夏織](../Page/唯夏織.md "wikilink")
+:: 作詞：7chi子♪，作曲：渡邊俊彥，編曲：[大久保薰](../Page/大久保薰.md "wikilink")，主唱：[唯夏織](../Page/唯夏織.md "wikilink")
 
 :; 「」（第2話）
 
-::
-作詞、作曲：Yuka，編曲：，主唱：[mimimemeMIMI](https://zh.wikipedia.org/wiki/mimimemeMIMI "wikilink")
+:: 作詞、作曲：Yuka，編曲：，主唱：[mimimemeMIMI](https://zh.wikipedia.org/wiki/mimimemeMIMI "wikilink")
 
 :; 「」（第3話、第4話、第12話）
 
@@ -151,13 +147,11 @@ Portable為平台的](../Page/PlayStation_Portable.md "wikilink")[秋葉原之�
 
 :; 「」（第6話）
 
-::
-作詞：，作曲、編曲：松坂康司，主唱：[every♥ing\!](https://zh.wikipedia.org/wiki/every♥ing! "wikilink")
+:: 作詞：，作曲、編曲：松坂康司，主唱：[every♥ing\!](https://zh.wikipedia.org/wiki/every♥ing! "wikilink")
 
 :; 「」（第7話）
 
-:: 作詞：，作曲、編曲：山田高弘，客串：[Lady
-Beard](https://zh.wikipedia.org/wiki/Lady_Beard "wikilink")，主唱：[中川翔子](../Page/中川翔子.md "wikilink")
+:: 作詞：，作曲、編曲：山田高弘，客串：[Lady Beard](https://zh.wikipedia.org/wiki/Lady_Beard "wikilink")，主唱：[中川翔子](../Page/中川翔子.md "wikilink")
 
 :; 「Fighting☆Dramatic」（第8話）
 
@@ -169,9 +163,7 @@ Beard](https://zh.wikipedia.org/wiki/Lady_Beard "wikilink")，主唱：[中川�
 
 :; 「」（第10話）
 
-::
-作詞：[中村彼方](https://zh.wikipedia.org/wiki/中村彼方 "wikilink")，作曲：淺原康浩，編曲：，主唱：[petit
-milady](https://zh.wikipedia.org/wiki/petit_milady "wikilink")
+:: 作詞：[中村彼方](https://zh.wikipedia.org/wiki/中村彼方 "wikilink")，作曲：淺原康浩，編曲：，主唱：[petit milady](https://zh.wikipedia.org/wiki/petit_milady "wikilink")
 
 :; 「DIVE TO LIVE」（第11話）
 
@@ -380,8 +372,6 @@ Park Jaeseok</p></td>
   -
 ## 腳註
 
-[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
-[Category:日本深夜動畫](https://zh.wikipedia.org/wiki/Category:日本深夜動畫 "wikilink")
+[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:日本深夜動畫](https://zh.wikipedia.org/wiki/Category:日本深夜動畫 "wikilink")
 
 1.

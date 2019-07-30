@@ -1,5 +1,4 @@
-是英國、愛爾蘭[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[一世代的](https://zh.wikipedia.org/wiki/一世代 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，於2015年10月22日發行。\[1\]
-這張迷你專輯包含了可以於[iTunes數位下載的四首歌曲](https://zh.wikipedia.org/wiki/iTunes "wikilink")。
+是英國、愛爾蘭[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[一世代的](https://zh.wikipedia.org/wiki/一世代 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，於2015年10月22日發行。\[1\] 這張迷你專輯包含了可以於[iTunes數位下載的四首歌曲](https://zh.wikipedia.org/wiki/iTunes "wikilink")。
 
 ## 發行背景
 
@@ -11,5 +10,4 @@
 
 [Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
 
-1.  [Perfect - EP - One
-    Direction](https://itunes.apple.com/es/album/perfect-ep/id1050977451?l=en)
+1.  [Perfect - EP - One Direction](https://itunes.apple.com/es/album/perfect-ep/id1050977451?l=en)

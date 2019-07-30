@@ -1,25 +1,14 @@
-**曼島旅游者杯**（英文：[International Isle of Man Tourist
-Trophy](https://zh.wikipedia.org/wiki/:en:Isle_of_Man_TT "wikilink")），簡稱**曼島TT賽**，為年度於[英國舉行的摩托車賽事](https://zh.wikipedia.org/wiki/英國 "wikilink")，被譽世上最危險的賽車比賽之一。
+**曼島旅游者杯**（英文：[International Isle of Man Tourist Trophy](https://zh.wikipedia.org/wiki/:en:Isle_of_Man_TT "wikilink")），簡稱**曼島TT賽**，為年度於[英國舉行的摩托車賽事](https://zh.wikipedia.org/wiki/英國 "wikilink")，被譽世上最危險的賽車比賽之一。
 
-有別於[澳門格蘭披治大賽車及](../Page/澳門格蘭披治大賽車.md "wikilink")[派克斯峰國際爬山賽等比賽](https://zh.wikipedia.org/wiki/派克斯峰國際爬山賽 "wikilink")，曼島TT賽為世上唯一的以封閉公共街道作摩托車比賽賽道。車手要跑出好成績，需要對全長60.72公里共200多個彎位的[斯納費爾山賽道](https://zh.wikipedia.org/wiki/斯納費爾山賽道 "wikilink")（Snaefell
-Mountain
-Course）非常熟悉。車手往往通過車載影片，才能牢記及掌握彎位的數量及細節。由於斯納費爾山賽道只是用作臨時賽道，賽道的路況粗糙而起伏不平，緩衝區更是寥寥可數，為車手帶來相當危險性。車手一不小心可能會撞上建築物、石牆、燈柱或樹木等等，更有可能會高速衝上半空。
-[链接=<https://en.wikipedia.org/wiki/File:2013_Isle_of_Man_TT_10.jpg>](https://zh.wikipedia.org/wiki/File:2013_Isle_of_Man_TT_10.jpg "fig:链接=https://en.wikipedia.org/wiki/File:2013_Isle_of_Man_TT_10.jpg")
-有別於[世界超級摩托車錦標賽](../Page/世界超級摩托車錦標賽.md "wikilink")（WSBK）及[世界摩托車錦標賽](https://zh.wikipedia.org/wiki/世界摩托車錦標賽 "wikilink")（MotoGP），曼島TT賽場內的裝備區會開放給車迷一睹賽車及車手的風采。另外，在曼島TT賽舉行期間會舉辦各種的派對及表演，令人們將它評為充滿“嘉年華”氣氛的摩托車比賽。
+有別於[澳門格蘭披治大賽車](../Page/澳門格蘭披治大賽車.md "wikilink")及[派克斯峰國際爬山賽等比賽](https://zh.wikipedia.org/wiki/派克斯峰國際爬山賽 "wikilink")，曼島TT賽為世上唯一的以封閉公共街道作摩托車比賽賽道。車手要跑出好成績，需要對全長60.72公里共200多個彎位的[斯納費爾山賽道](https://zh.wikipedia.org/wiki/斯納費爾山賽道 "wikilink")（Snaefell Mountain Course）非常熟悉。車手往往通過車載影片，才能牢記及掌握彎位的數量及細節。由於斯納費爾山賽道只是用作臨時賽道，賽道的路況粗糙而起伏不平，緩衝區更是寥寥可數，為車手帶來相當危險性。車手一不小心可能會撞上建築物、石牆、燈柱或樹木等等，更有可能會高速衝上半空。 [链接=<https://en.wikipedia.org/wiki/File:2013_Isle_of_Man_TT_10.jpg>](https://zh.wikipedia.org/wiki/File:2013_Isle_of_Man_TT_10.jpg "fig:链接=https://en.wikipedia.org/wiki/File:2013_Isle_of_Man_TT_10.jpg") 有別於[世界超級摩托車錦標賽](../Page/世界超級摩托車錦標賽.md "wikilink")（WSBK）及[世界摩托車錦標賽](https://zh.wikipedia.org/wiki/世界摩托車錦標賽 "wikilink")（MotoGP），曼島TT賽場內的裝備區會開放給車迷一睹賽車及車手的風采。另外，在曼島TT賽舉行期間會舉辦各種的派對及表演，令人們將它評為充滿“嘉年華”氣氛的摩托車比賽。
 
-為期兩週的賽事包括一週的練習及排位環節，一週的正賽環節。在訓練週及比賽週之間的星期日，有一個傳統的非官方活動「瘋狂禮拜日」（Mad
-Sunday），觀眾可乘坐摩托車遊覽斯納費爾山賽道。這傳統自1920年代開始至今。
+為期兩週的賽事包括一週的練習及排位環節，一週的正賽環節。在訓練週及比賽週之間的星期日，有一個傳統的非官方活動「瘋狂禮拜日」（Mad Sunday），觀眾可乘坐摩托車遊覽斯納費爾山賽道。這傳統自1920年代開始至今。
 
 ## 歷史概覽
 
-歷史第一場曼島TT賽可追溯至1904年。事沿早於1903年英國國會通過實施新的汽車法案（Motor Car Act
-1903），限制車輛行駛車速由原本的14英里增加到20英里每小時（即32
-km/h）。有見及此，當時大不列顛及愛爾蘭汽車聯會主席安奧爾德爵士認為，曼島當局將會越來越開放有關街道賽形式的賽車競賽，所以在1904年二月決定引進第一場曼島TT賽。果然，在1904年通過了批准在當地全長52.15英里（即83.93
-公里）的曼島主賽道（Highroads Course）舉辦曼島歷史第一場汽車賽事，名為哥登‧貝內特汽車計時賽（Gordon Bennett
-Car Trial）。
+歷史第一場曼島TT賽可追溯至1904年。事沿早於1903年英國國會通過實施新的汽車法案（Motor Car Act 1903），限制車輛行駛車速由原本的14英里增加到20英里每小時（即32 km/h）。有見及此，當時大不列顛及愛爾蘭汽車聯會主席安奧爾德爵士認為，曼島當局將會越來越開放有關街道賽形式的賽車競賽，所以在1904年二月決定引進第一場曼島TT賽。果然，在1904年通過了批准在當地全長52.15英里（即83.93 公里）的曼島主賽道（Highroads Course）舉辦曼島歷史第一場汽車賽事，名為哥登‧貝內特汽車計時賽（Gordon Bennett Car Trial）。
 
-1907年5月28日，正式舉辦曼島歷史第一場摩托車賽事，並將其分級為兩個組別包括單缸引擎組別（平均90mph）及雙缸引擎組別（75
-mph）賽事。
+1907年5月28日，正式舉辦曼島歷史第一場摩托車賽事，並將其分級為兩個組別包括單缸引擎組別（平均90mph）及雙缸引擎組別（75 mph）賽事。
 
 1911年正式於斯納費爾山賽道（Snaefell Mountain Course）舉辦賽事，及增開350cc青年組別及500cc成年組別。
 
@@ -37,15 +26,7 @@ mph）賽事。
 
 ## 賽道資訊
 
-[链接=<https://en.wikipedia.org/wiki/File:Isle_of_Man_TT_Course_(OpenStreetMap).png>](https://zh.wikipedia.org/wiki/File:Isle_of_Man_TT_Course_\(OpenStreetMap\).png "fig:链接=https://en.wikipedia.org/wiki/File:Isle_of_Man_TT_Course_(OpenStreetMap).png")
-曼島TT賽採用街道賽形式進行，賽道為共全長37.73英里(60.72公里)的斯納費爾山賽道（Snaefell Mountain
-Course），並以順時針方向進行，共超過二百個彎位，有大約六十個彎位已獲得命名。車手首先從位於曼島首府道格拉斯（Douglas）的主辦看台（TT
-Grandstand）出發，接著到達一英里遠的Quarterbridge離開道格拉斯，沿著A1公路行駛經過Braddan、Union
-Mills、Glen
-Vine、Crosby及Greeba等村鎮，便會到達賽道位於Ballacraine的大轉右點。轉右後就是A3公路的Castletown路到Ramsey路部份，穿過Kirk
-Michael、Ballaugh
-及Sulby村鎮的幽谷及農地後到達賽道最東北的Ramsey鎮後，便會到達A18踏上返回道格拉斯的部份。對比賽道前半部，這部份傾向於郊區環境為主。車手沿著A18公路便會登上位於Bungalow鎮名為Hailwood's
-Height的賽道最高點，其海拔有422米(1,385公尺)之高。攀過最高點後便會下山，然後返到道格拉斯的終點結束。
+[链接=<https://en.wikipedia.org/wiki/File:Isle_of_Man_TT_Course_(OpenStreetMap).png>](https://zh.wikipedia.org/wiki/File:Isle_of_Man_TT_Course_\(OpenStreetMap\).png "fig:链接=https://en.wikipedia.org/wiki/File:Isle_of_Man_TT_Course_(OpenStreetMap).png") 曼島TT賽採用街道賽形式進行，賽道為共全長37.73英里(60.72公里)的斯納費爾山賽道（Snaefell Mountain Course），並以順時針方向進行，共超過二百個彎位，有大約六十個彎位已獲得命名。車手首先從位於曼島首府道格拉斯（Douglas）的主辦看台（TT Grandstand）出發，接著到達一英里遠的Quarterbridge離開道格拉斯，沿著A1公路行駛經過Braddan、Union Mills、Glen Vine、Crosby及Greeba等村鎮，便會到達賽道位於Ballacraine的大轉右點。轉右後就是A3公路的Castletown路到Ramsey路部份，穿過Kirk Michael、Ballaugh 及Sulby村鎮的幽谷及農地後到達賽道最東北的Ramsey鎮後，便會到達A18踏上返回道格拉斯的部份。對比賽道前半部，這部份傾向於郊區環境為主。車手沿著A18公路便會登上位於Bungalow鎮名為Hailwood's Height的賽道最高點，其海拔有422米(1,385公尺)之高。攀過最高點後便會下山，然後返到道格拉斯的終點結束。
 
 ## 比賽內容及技術規格
 
@@ -61,8 +42,7 @@ Height的賽道最高點，其海拔有422米(1,385公尺)之高。攀過最高�
   - 使用最低排量750cc/最高1000cc的三汽缸四行程引擎
   - 使用最低排量850cc/最高1200cc的二汽缸四行程引擎
 
-兩個組別的比賽圈數皆為六個圈，接近兩小時的比賽相當考驗車手的體力。超級摩托組所使用的輪胎為光頭胎（slick tyre）。超級摩托組的獎項為TT
-Superbike Tourist Trophy盃，成年摩托組的獎項為Senior Tourist Trophy盃。
+兩個組別的比賽圈數皆為六個圈，接近兩小時的比賽相當考驗車手的體力。超級摩托組所使用的輪胎為光頭胎（slick tyre）。超級摩托組的獎項為TT Superbike Tourist Trophy盃，成年摩托組的獎項為Senior Tourist Trophy盃。
 
 #### 超級廠車組(Superstock TT Races)
 
@@ -86,8 +66,7 @@ Superbike Tourist Trophy盃，成年摩托組的獎項為Senior Tourist Trophy�
   - 使用最低排量600cc/最高675cc的三汽缸四行程引擎
   - 使用最低排量600cc/最高750cc的二汽缸四行程引擎
 
-超級跑車組的比賽圈數為四個圈，比賽獎項分別為青年TT盃（Junior Tourist Trophy）及經典TT盃（Classic TT
-Trophy）。
+超級跑車組的比賽圈數為四個圈，比賽獎項分別為青年TT盃（Junior Tourist Trophy）及經典TT盃（Classic TT Trophy）。
 
 #### 超級輕量組(Lightweight TT Race/ SUPERTWINS Race)
 
@@ -103,41 +82,32 @@ Trophy）。
 
 #### 零排電動組(TT Zero)
 
-作為唯一的電動摩托賽除了主張廢氣零排放，亦提倡賽車摒棄使用碳燃料作為動力來源。參賽賽車的重量限制為100公斤至300公斤，動力來源則來自蓄電池。動能回收系統（英文：Kinetic
-Energy Recovery
-System；簡稱：KERS）亦被允許使用。由於開發賽車的成本高昂，令電動組的賽車輕易成為全曼島TT賽最昂貴的賽車。
+作為唯一的電動摩托賽除了主張廢氣零排放，亦提倡賽車摒棄使用碳燃料作為動力來源。參賽賽車的重量限制為100公斤至300公斤，動力來源則來自蓄電池。動能回收系統（英文：Kinetic Energy Recovery System；簡稱：KERS）亦被允許使用。由於開發賽車的成本高昂，令電動組的賽車輕易成為全曼島TT賽最昂貴的賽車。
 
 零排電動組的比賽圈數為一個圈，比賽獎項為TT Zero Challenge Trophy盃。
 
 ## 安全性問題
 
-曼島TT賽已經有百多年歷史，但賽道性質問題依然令它成為世上最危險的賽車比賽。直至2018年，總共有257人死於比賽或練習賽中（包括曼島大獎賽“Manx
-Grand
-Prix”死亡人數），當中除了有車手之外，還有觀眾、賽道人員等。在1970的TT比賽中，一共有六人死於該活動中，為曼島TT賽中死亡人數最多的一屆。
+曼島TT賽已經有百多年歷史，但賽道性質問題依然令它成為世上最危險的賽車比賽。直至2018年，總共有257人死於比賽或練習賽中（包括曼島大獎賽“Manx Grand Prix”死亡人數），當中除了有車手之外，還有觀眾、賽道人員等。在1970的TT比賽中，一共有六人死於該活動中，為曼島TT賽中死亡人數最多的一屆。
 
 ## 參考資料
 
-  - **（英文）**[Everything You Need To Know About: The Isle of Man
-    TT](https://rideapart.com/articles/everything-need-know-isle-of-man-tt)
+  - **（英文）**[Everything You Need To Know About: The Isle of Man TT](https://rideapart.com/articles/everything-need-know-isle-of-man-tt)
 
 <!-- end list -->
 
-  - **（英文）**[International Isle of Man Tourist Trophy Races 2017
-    Regulations](https://www.iomtt.com/~/media/Files/2017/Downloads/TT_Regulations_2017_0206.pdf)
+  - **（英文）**[International Isle of Man Tourist Trophy Races 2017 Regulations](https://www.iomtt.com/~/media/Files/2017/Downloads/TT_Regulations_2017_0206.pdf)
 
 <!-- end list -->
 
-  - **（英文）**[The Ultimate Guide to the Isle of Man
-    TT](https://www.sportrider.com/ultimate-guide-to-isle-man-tt)
+  - **（英文）**[The Ultimate Guide to the Isle of Man TT](https://www.sportrider.com/ultimate-guide-to-isle-man-tt)
 
 <!-- end list -->
 
-  - **（英文）**[A Beginner's Guide to the Isle of Man TT Bike
-    Classes](https://www.bennetts.co.uk/bikesocial/news-and-views/racing/isle-of-man-tt/guides/video-iom-tt-bike-classes)
+  - **（英文）**[A Beginner's Guide to the Isle of Man TT Bike Classes](https://www.bennetts.co.uk/bikesocial/news-and-views/racing/isle-of-man-tt/guides/video-iom-tt-bike-classes)
 
 ## 外部連結
 
   - **（英文）**[曼島TT賽官方網站](https://www.iomtt.com/)
 
-[Category:曼島](https://zh.wikipedia.org/wiki/Category:曼島 "wikilink")
-[Category:摩托車運動](https://zh.wikipedia.org/wiki/Category:摩托車運動 "wikilink")
+[Category:曼島](https://zh.wikipedia.org/wiki/Category:曼島 "wikilink") [Category:摩托車運動](https://zh.wikipedia.org/wiki/Category:摩托車運動 "wikilink")

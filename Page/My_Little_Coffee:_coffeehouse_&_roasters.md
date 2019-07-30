@@ -1,12 +1,10 @@
-**My Little Coffee**是[香港一家咖啡豆專門店](../Page/香港.md "wikilink")。
+**My Little Coffee**是[香港](../Page/香港.md "wikilink")一家咖啡豆專門店。
 
 ## 成立背景
 
-該咖啡店於2015年7月25日在[尖東開業](https://zh.wikipedia.org/wiki/尖東 "wikilink")。在成立三年前，在[旺角開業的My](../Page/旺角.md "wikilink")
-Little Coffee，以售賣咖啡沖煮工具、自家烘焙咖啡豆為主。
+該咖啡店於2015年7月25日在[尖東開業](https://zh.wikipedia.org/wiki/尖東 "wikilink")。在成立三年前，在[旺角](../Page/旺角.md "wikilink")開業的My Little Coffee，以售賣咖啡沖煮工具、自家烘焙咖啡豆為主。
 
-三年後，在尖東開設咖啡店，店名後註有coffeehouse &
-roasters，以宣傳店內大部分的咖啡豆是自家烘焙。以咖啡和食物作主打，兼售賣咖啡豆及沖煮工具\[1\]。在2018年5月27日，由於尖東店的租務問題\[2\]，而搬往荃灣繼續營業。
+三年後，在尖東開設咖啡店，店名後註有coffeehouse & roasters，以宣傳店內大部分的咖啡豆是自家烘焙。以咖啡和食物作主打，兼售賣咖啡豆及沖煮工具\[1\]。在2018年5月27日，由於尖東店的租務問題\[2\]，而搬往荃灣繼續營業。
 
 ## 特色
 
@@ -26,16 +24,13 @@ roasters，以宣傳店內大部分的咖啡豆是自家烘焙。以咖啡和食
 
   - (假日市集、咖啡到會)
 
-  - [My Little
-    Coffee的Facebook專頁](https://www.facebook.com/MYLITTLECOFFEE.HK/)(旺角店)
+  - [My Little Coffee的Facebook專頁](https://www.facebook.com/MYLITTLECOFFEE.HK/)(旺角店)
 
-  - [My Little
-    Coffee的Facebook專頁](https://www.facebook.com/mylittlecoffeeTM/)(屯門店)
+  - [My Little Coffee的Facebook專頁](https://www.facebook.com/mylittlecoffeeTM/)(屯門店)
 
   - [龍耳電視訪問︰識飲識食手語行－聾情蜜意](http://www.silencetv.hk/program/%E8%AD%98%E9%A3%B2%E8%AD%98%E9%A3%9F%E6%89%8B%E8%AA%9E%E8%A1%8C%EF%BC%8D%E8%81%BE%E6%83%85%E8%9C%9C%E6%84%8F/)
 
-[Category:中国咖啡店](https://zh.wikipedia.org/wiki/Category:中国咖啡店 "wikilink")
-[Category:香港公司](https://zh.wikipedia.org/wiki/Category:香港公司 "wikilink")
+[Category:中国咖啡店](https://zh.wikipedia.org/wiki/Category:中国咖啡店 "wikilink") [Category:香港公司](https://zh.wikipedia.org/wiki/Category:香港公司 "wikilink")
 
 1.
 2.

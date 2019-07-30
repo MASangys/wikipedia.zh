@@ -1,4 +1,4 @@
-**女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群在**[马里](../Page/马里.md "wikilink")**面临着许多法律和社会方面的挑战。根据2007年[皮尤研究中心的调查显示](../Page/皮尤研究中心.md "wikilink")，98％的马里成年人认为，同性恋是社会不接受的一种生活方式，这在45个受访国家中不接受率最高。\[1\]
+**女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群在**[马里](../Page/马里.md "wikilink")**面临着许多法律和社会方面的挑战。根据2007年[皮尤研究中心](../Page/皮尤研究中心.md "wikilink")的调查显示，98％的马里成年人认为，同性恋是社会不接受的一种生活方式，这在45个受访国家中不接受率最高。\[1\]
 
 ## 有关同性性行为的法律
 
@@ -47,8 +47,7 @@
 
 ## 参考资料
 
-[Category:非洲LGBT權益](https://zh.wikipedia.org/wiki/Category:非洲LGBT權益 "wikilink")
-[Category:马里政治](https://zh.wikipedia.org/wiki/Category:马里政治 "wikilink")
+[Category:非洲LGBT權益](https://zh.wikipedia.org/wiki/Category:非洲LGBT權益 "wikilink") [Category:马里政治](https://zh.wikipedia.org/wiki/Category:马里政治 "wikilink")
 
 1.
 

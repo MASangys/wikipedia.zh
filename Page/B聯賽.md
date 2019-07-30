@@ -1,4 +1,4 @@
-**B聯賽**\[1\]為[日本男子職業](../Page/日本.md "wikilink")[籃球聯賽](https://zh.wikipedia.org/wiki/籃球 "wikilink")，於2016年9月展開首個賽季。\[2\]\[3\]本聯賽由日本職業籃球聯盟營運，為[國際籃總下屬的](https://zh.wikipedia.org/wiki/國際籃總 "wikilink")[日本籃球協會管理的日本籃球聯盟和獨立經營的](https://zh.wikipedia.org/wiki/日本籃球協會 "wikilink")[bJ聯盟合併下形成的](https://zh.wikipedia.org/wiki/bJ聯盟 "wikilink")。該項合併獲得[國際籃總的認可](https://zh.wikipedia.org/wiki/國際籃總 "wikilink")，於2014年9月解除日本籃協的禁賽處分。\[4\]每個球隊60場比賽（30場主場比賽，30場客場比賽）。
+**B聯賽**\[1\]為[日本](../Page/日本.md "wikilink")男子職業[籃球聯賽](https://zh.wikipedia.org/wiki/籃球 "wikilink")，於2016年9月展開首個賽季。\[2\]\[3\]本聯賽由日本職業籃球聯盟營運，為[國際籃總下屬的](https://zh.wikipedia.org/wiki/國際籃總 "wikilink")[日本籃球協會管理的日本籃球聯盟和獨立經營的](https://zh.wikipedia.org/wiki/日本籃球協會 "wikilink")[bJ聯盟合併下形成的](https://zh.wikipedia.org/wiki/bJ聯盟 "wikilink")。該項合併獲得[國際籃總的認可](https://zh.wikipedia.org/wiki/國際籃總 "wikilink")，於2014年9月解除日本籃協的禁賽處分。\[4\]每個球隊60場比賽（30場主場比賽，30場客場比賽）。
 
 ## 隊伍
 
@@ -49,11 +49,11 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/栃木王道" title="wikilink">栃木王道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宇都宮王道" title="wikilink">宇都宮王道</a></p></td>
 <td><p><a href="../Page/栃木縣.md" title="wikilink">栃木縣</a><a href="../Page/宇都宮市.md" title="wikilink">宇都宮市</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/宇都宮市體育館" title="wikilink">宇都宮市體育館</a></p></td>
 <td><p>NBL</p></td>
-<td></td>
+<td><p>栃木王道</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -179,7 +179,7 @@
 <tbody>
 <tr class="odd">
 <td><p>東區</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/青森熱力" title="wikilink">青森熱力</a></p></td>
+<td><p><a href="../Page/青森熱力.md" title="wikilink">青森熱力</a></p></td>
 <td><p><a href="../Page/青森縣.md" title="wikilink">青森縣</a><a href="../Page/青森市.md" title="wikilink">青森市</a></p></td>
 <td><p><em>TBA</em></p></td>
 <td><p>bj-league</p></td>
@@ -210,7 +210,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/岩手大公牛" title="wikilink">岩手大公牛</a></p></td>
+<td><p><a href="../Page/岩手大公牛.md" title="wikilink">岩手大公牛</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/岩手縣" title="wikilink">岩手縣</a><a href="../Page/盛岡市.md" title="wikilink">盛岡市</a></p></td>
 <td></td>
 <td><p>bj-league</p></td>
@@ -341,8 +341,7 @@
 
 ## 參考資料
 
-[Category:日本籃球聯賽](https://zh.wikipedia.org/wiki/Category:日本籃球聯賽 "wikilink")
-[Category:2015年日本建立](https://zh.wikipedia.org/wiki/Category:2015年日本建立 "wikilink")
+[Category:日本籃球聯賽](https://zh.wikipedia.org/wiki/Category:日本籃球聯賽 "wikilink") [Category:2015年日本建立](https://zh.wikipedia.org/wiki/Category:2015年日本建立 "wikilink")
 
 1.
 2.

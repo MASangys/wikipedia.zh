@@ -6,7 +6,7 @@
 
 2011年1月，时任卫生司法体育部长马修·贝齐乌表示，“成年人之间的自愿同性性行为”非刑罪化正在“积极考虑”。2011年10月，政府承诺对同性性行为非刑罪化。\[1\]\[2\]\[3\]
 
-根据[美国国务院的说法](../Page/美国国务院.md "wikilink")，2012年没有关于LGBT人士被起诉的报道。\[4\]
+根据[美国国务院](../Page/美国国务院.md "wikilink")的说法，2012年没有关于LGBT人士被起诉的报道。\[4\]
 
 2016年5月，[瑙鲁议会通过了](https://zh.wikipedia.org/wiki/瑙鲁议会 "wikilink")《2016年犯罪法》，废除《1899年刑法》，从而使同性性行为合法化。\[5\]\[6\]\[7\]\[8\]\[9\]
 
@@ -37,8 +37,7 @@
 
 ## 外部链接
 
-[Category:大洋洲LGBT權益](https://zh.wikipedia.org/wiki/Category:大洋洲LGBT權益 "wikilink")
-[Category:瑙鲁](https://zh.wikipedia.org/wiki/Category:瑙鲁 "wikilink")
+[Category:大洋洲LGBT權益](https://zh.wikipedia.org/wiki/Category:大洋洲LGBT權益 "wikilink") [Category:瑙鲁](https://zh.wikipedia.org/wiki/Category:瑙鲁 "wikilink")
 
 1.
 2.
@@ -49,6 +48,4 @@
 7.
 8.
 9.
-10. [Nauru, one of the smallest countries in the world, decriminalizes
-    gay
-    sex](http://www.gaystarnews.com/article/nauru-one-smallest-countries-world-decriminalizes-gay-sex/#gs.HSH02uI)
+10. [Nauru, one of the smallest countries in the world, decriminalizes gay sex](http://www.gaystarnews.com/article/nauru-one-smallest-countries-world-decriminalizes-gay-sex/#gs.HSH02uI)

@@ -387,8 +387,7 @@
 
 ## 電視動畫
 
-以『**HARELUYA II
-BØY**』為題，1997年4月7日於同年9月29日到1997年6月2日播放，全25話。於[東京電視台毎週](../Page/東京電視台.md "wikilink")[月曜日播出](https://zh.wikipedia.org/wiki/月曜日 "wikilink")。
+以『**HARELUYA II BØY**』為題，1997年4月7日於同年9月29日到1997年6月2日播放，全25話。於[東京電視台](../Page/東京電視台.md "wikilink")毎週[月曜日播出](https://zh.wikipedia.org/wiki/月曜日 "wikilink")。
 
 ### 製作人員
 
@@ -731,15 +730,7 @@ BØY**』為題，1997年4月7日於同年9月29日到1997年6月2日播放，�
 
 ## 資料來源
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink")
-[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink")
-[Category:校園暴力題材漫畫](https://zh.wikipedia.org/wiki/Category:校園暴力題材漫畫 "wikilink")
-[Category:格鬥技漫畫](https://zh.wikipedia.org/wiki/Category:格鬥技漫畫 "wikilink")
-[Category:搞笑漫畫](https://zh.wikipedia.org/wiki/Category:搞笑漫畫 "wikilink")
-[Category:犯罪漫畫](https://zh.wikipedia.org/wiki/Category:犯罪漫畫 "wikilink")
-[Category:漫畫衍生作品](https://zh.wikipedia.org/wiki/Category:漫畫衍生作品 "wikilink")
-[Category:1997年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1997年日本電視動畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:校園暴力題材漫畫](https://zh.wikipedia.org/wiki/Category:校園暴力題材漫畫 "wikilink") [Category:格鬥技漫畫](https://zh.wikipedia.org/wiki/Category:格鬥技漫畫 "wikilink") [Category:搞笑漫畫](https://zh.wikipedia.org/wiki/Category:搞笑漫畫 "wikilink") [Category:犯罪漫畫](https://zh.wikipedia.org/wiki/Category:犯罪漫畫 "wikilink") [Category:漫畫衍生作品](https://zh.wikipedia.org/wiki/Category:漫畫衍生作品 "wikilink") [Category:1997年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1997年日本電視動畫 "wikilink")
 
 1.  [逐漸遭人淡忘的台版「神行太保」日日野晴矢：孫中台](http://home.gamer.com.tw/creationDetail.php?sn=2283135)
 2.  中视版本。

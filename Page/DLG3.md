@@ -1,6 +1,4 @@
-**盘状大同系物3**（，简称**DLG3**），也被称为**神经内分泌-DLG**（）或**突触相关蛋白102**（，简称**SAP-102**），是一种由人体*DLG3基因*编码的[蛋白质](../Page/蛋白质.md "wikilink")
-。\[1\]\[2\]
-DLG3是膜相关鸟苷酸激酶（，简称MAGUK）蛋白[总科的一种](https://zh.wikipedia.org/wiki/超科 "wikilink")。
+**盘状大同系物3**（，简称**DLG3**），也被称为**神经内分泌-DLG**（）或**突触相关蛋白102**（，简称**SAP-102**），是一种由人体*DLG3基因*编码的[蛋白质](../Page/蛋白质.md "wikilink") 。\[1\]\[2\] DLG3是膜相关鸟苷酸激酶（，简称MAGUK）蛋白[总科的一种](https://zh.wikipedia.org/wiki/超科 "wikilink")。
 
 ## 与其它蛋白的相互作用
 
@@ -53,10 +51,7 @@ DLG3已经被发现可以与以下蛋白相互作用:
 
 *Dlg3* 基因剔除小鼠表现型
 
-被用来研究DLG3的[模式生物之一是称作](../Page/模式生物.md "wikilink")*Dlg3<sup>tm1a(EUCOMM)Wtsi</sup>*的条件性[基因剔除后的小鼠族系](https://zh.wikipedia.org/wiki/基因剔除小鼠 "wikilink")，由位于英国的桑格中心（Wellcome
-Trust Sanger Institute）提供。\[20\]
-其雄性与雌性个体都经历了标准化的表现型筛查\[21\]，以确保[基因剔除的结果](https://zh.wikipedia.org/wiki/基因剔除 "wikilink")。\[22\]\[23\]\[24\]\[25\]
-此外，其深度的免疫学表现型也被额外筛选。\[26\]
+被用来研究DLG3的[模式生物](../Page/模式生物.md "wikilink")之一是称作*Dlg3<sup>tm1a(EUCOMM)Wtsi</sup>*的条件性[基因剔除后的小鼠族系](https://zh.wikipedia.org/wiki/基因剔除小鼠 "wikilink")，由位于英国的桑格中心（Wellcome Trust Sanger Institute）提供。\[20\] 其雄性与雌性个体都经历了标准化的表现型筛查\[21\]，以确保[基因剔除的结果](https://zh.wikipedia.org/wiki/基因剔除 "wikilink")。\[22\]\[23\]\[24\]\[25\] 此外，其深度的免疫学表现型也被额外筛选。\[26\]
 
 ## 参考资料
 

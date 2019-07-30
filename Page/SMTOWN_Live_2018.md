@@ -1,5 +1,4 @@
-**SMTOWN Live
-2018**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")[SM娛樂的家族聯合演唱會](../Page/SM娛樂.md "wikilink")，於2018年舉行。
+**SMTOWN Live 2018**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")[SM娛樂](../Page/SM娛樂.md "wikilink")的家族聯合演唱會，於2018年舉行。
 
 ## 參與藝人
 
@@ -120,11 +119,9 @@
 
   - [東方神起](../Page/東方神起.md "wikilink")
   - [Super Junior](../Page/Super_Junior.md "wikilink")
-  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")
-    （[太妍](../Page/太妍.md "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink"))
+  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink") （[太妍](../Page/太妍.md "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink"))
   - [SHINee](../Page/SHINee.md "wikilink")
-  - [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")
-    （[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Luna](../Page/朴善英.md "wikilink")）
+  - [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink") （[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Luna](../Page/朴善英.md "wikilink")）
   - [EXO](../Page/EXO.md "wikilink")
   - [Red Velvet](../Page/Red_Velvet.md "wikilink")
   - [NCT](../Page/NCT.md "wikilink")
@@ -135,8 +132,7 @@
 
 <!-- end list -->
 
-  - [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
+  - [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
 
 ## 參考來源
 
@@ -144,12 +140,8 @@
 
   -
 
-[Category:SMTOWN巡迴演唱會](https://zh.wikipedia.org/wiki/Category:SMTOWN巡迴演唱會 "wikilink")
-[Category:2018年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2018年巡迴演唱會 "wikilink")
+[Category:SMTOWN巡迴演唱會](https://zh.wikipedia.org/wiki/Category:SMTOWN巡迴演唱會 "wikilink") [Category:2018年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2018年巡迴演唱會 "wikilink")
 
-1.  [2018
-    SMTOWN家族演唱会再来袭，7月底日本大阪连演三场！](http://www.sohu.com/a/229687586_267454/)
-2.  [The next stop for 'SMTOWN Live World Tour VI' is Osaka,
-    Japan\!](https://www.allkpop.com/article/2018/04/the-next-stop-for-smtown-live-world-tour-vi-is-osaka-japan/)
-3.  [Concert Tour SMTOWN Live 2018 in Osaka,
-    Japan](http://english.kpopsquad.com/2018/04/concert-tour-smtown-live-2018-in-osaka-japan-line-up-idol-and-artist-sm-entertainment.html)
+1.  [2018 SMTOWN家族演唱会再来袭，7月底日本大阪连演三场！](http://www.sohu.com/a/229687586_267454/)
+2.  [The next stop for 'SMTOWN Live World Tour VI' is Osaka, Japan\!](https://www.allkpop.com/article/2018/04/the-next-stop-for-smtown-live-world-tour-vi-is-osaka-japan/)
+3.  [Concert Tour SMTOWN Live 2018 in Osaka, Japan](http://english.kpopsquad.com/2018/04/concert-tour-smtown-live-2018-in-osaka-japan-line-up-idol-and-artist-sm-entertainment.html)

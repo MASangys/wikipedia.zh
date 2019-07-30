@@ -1,11 +1,8 @@
-**马孔-洛谢TGV站**（），简称马孔TGV站或马孔高铁站，是[法国高速铁路东南线](https://zh.wikipedia.org/wiki/法国高速铁路东南线 "wikilink")（LGV
-Sud-Est）上的一个高铁车站，也是整个法国最早投入运营的高铁车站之一，位于法国城市[马孔附近](../Page/马孔.md "wikilink")。
+**马孔-洛谢TGV站**（），简称马孔TGV站或马孔高铁站，是[法国高速铁路东南线](https://zh.wikipedia.org/wiki/法国高速铁路东南线 "wikilink")（LGV Sud-Est）上的一个高铁车站，也是整个法国最早投入运营的高铁车站之一，位于法国城市[马孔](../Page/马孔.md "wikilink")附近。
 
 ## 位置
 
-马孔-洛谢TGV站位于马孔市区的西南部的[洛谢副镇级街区](https://zh.wikipedia.org/wiki/洛谢 "wikilink")，距离市中心大约7公里，有公交车线路连接。车站大致呈南部走向，开口朝东，面对马孔市区。车站北距[巴黎里昂站](https://zh.wikipedia.org/wiki/巴黎里昂站 "wikilink")（Paris
-Gare de Lyon）353公里；南距[里昂帕丢站](../Page/里昂帕尔迪厄站.md "wikilink")（Gare de
-Lyon-Part-Dieu）75公里，马孔-洛谢TGV站东南大约1公里处有联络线，由[法国高速铁路东南线里昂方向的列车可在此连接](https://zh.wikipedia.org/wiki/法国高速铁路东南线 "wikilink")[巴黎－马赛铁路前往第戎方向](../Page/巴黎－马赛铁路.md "wikilink")；再向东还有另外一条联络线与连接，可通过此线前往[布雷斯地区布尔格以及](https://zh.wikipedia.org/wiki/布雷斯地区布尔格 "wikilink")[萨瓦方向](../Page/萨瓦.md "wikilink")。
+马孔-洛谢TGV站位于马孔市区的西南部的[洛谢副镇级街区](https://zh.wikipedia.org/wiki/洛谢 "wikilink")，距离市中心大约7公里，有公交车线路连接。车站大致呈南部走向，开口朝东，面对马孔市区。车站北距[巴黎里昂站](https://zh.wikipedia.org/wiki/巴黎里昂站 "wikilink")（Paris Gare de Lyon）353公里；南距[里昂帕丢站](../Page/里昂帕尔迪厄站.md "wikilink")（Gare de Lyon-Part-Dieu）75公里，马孔-洛谢TGV站东南大约1公里处有联络线，由[法国高速铁路东南线里昂方向的列车可在此连接](https://zh.wikipedia.org/wiki/法国高速铁路东南线 "wikilink")[巴黎－马赛铁路](../Page/巴黎－马赛铁路.md "wikilink")前往第戎方向；再向东还有另外一条联络线与连接，可通过此线前往[布雷斯地区布尔格以及](https://zh.wikipedia.org/wiki/布雷斯地区布尔格 "wikilink")[萨瓦](../Page/萨瓦.md "wikilink")方向。
 
 ## 周围环境
 
@@ -15,12 +12,11 @@ Lyon-Part-Dieu）75公里，马孔-洛谢TGV站东南大约1公里处有联络�
 
 ### 高铁新区
 
-马孔-洛谢TGV站北侧为雷贝尔蒂耶尔开发区（Les
-Berthilliers），该区作为高铁新区与马孔-洛谢TGV站同期投入使用。起初，当地政府希望通过马孔-洛谢TGV站的交通资源带动这一地区的经济发展，但事实上，因为马孔本身算不上大城市，而停靠马孔-洛谢TGV站的列车数量也不算太多，因此，雷贝尔蒂耶尔开发区的发展不尽人意，规模也非常有限。不过，由于该区域靠近法国国家A6号高速公路和法国国道N79线，同时也靠近马孔港，该地区仍有发展的潜力。
+马孔-洛谢TGV站北侧为雷贝尔蒂耶尔开发区（Les Berthilliers），该区作为高铁新区与马孔-洛谢TGV站同期投入使用。起初，当地政府希望通过马孔-洛谢TGV站的交通资源带动这一地区的经济发展，但事实上，因为马孔本身算不上大城市，而停靠马孔-洛谢TGV站的列车数量也不算太多，因此，雷贝尔蒂耶尔开发区的发展不尽人意，规模也非常有限。不过，由于该区域靠近法国国家A6号高速公路和法国国道N79线，同时也靠近马孔港，该地区仍有发展的潜力。
 
 ## 事故
 
-1992年12月14日，一列由[阿讷西开往](../Page/阿讷西.md "wikilink")[巴黎方向的](../Page/巴黎.md "wikilink")920次TGV列车在马孔-洛谢TGV站附近发生脱轨事故，所幸未造成人员伤亡。
+1992年12月14日，一列由[阿讷西](../Page/阿讷西.md "wikilink")开往[巴黎](../Page/巴黎.md "wikilink")方向的920次TGV列车在马孔-洛谢TGV站附近发生脱轨事故，所幸未造成人员伤亡。
 
 ## 停靠线路
 
@@ -58,16 +54,13 @@ Berthilliers），该区作为高铁新区与马孔-洛谢TGV站同期投入使�
 
 马孔洛谢TGV站配套的长途车站位于车站正门前的广场上，有提示牌。
 
-乘坐由公司提供的线路，可前往[克吕尼](https://zh.wikipedia.org/wiki/克吕尼 "wikilink")（Cluny）、科尔马丁（Cormatin）、[索恩河畔沙隆](../Page/索恩河畔沙隆.md "wikilink")（Chalon-sur-Sâone）、马莱（Malay）、泰泽（Taizé）以及马孔市区等地，并可直达世界文化遗产—[克吕尼修道院](https://zh.wikipedia.org/wiki/克吕尼修道院 "wikilink")（Abbaye
-de Cluny）。
+乘坐由公司提供的线路，可前往[克吕尼](https://zh.wikipedia.org/wiki/克吕尼 "wikilink")（Cluny）、科尔马丁（Cormatin）、[索恩河畔沙隆](../Page/索恩河畔沙隆.md "wikilink")（Chalon-sur-Sâone）、马莱（Malay）、泰泽（Taizé）以及马孔市区等地，并可直达世界文化遗产—[克吕尼修道院](https://zh.wikipedia.org/wiki/克吕尼修道院 "wikilink")（Abbaye de Cluny）。
 
 此外，当某条铁路线施工或罢工时，SNCF也会提供途径该线路沿途站点的大巴车。
 
 ### 市内交通
 
-马孔-洛谢TGV站对应的公交车站名字也叫**马孔-洛谢TGV站**（Gare TGV
-Mâcon-Loché），站台位于马孔-洛谢TGV站正门前方，由马孔公交公司（TRéMA）运营。
-停靠的公交线路包括：马孔公交E线（马孔洛谢TGV站—马孔城站）\[2\]。
+马孔-洛谢TGV站对应的公交车站名字也叫**马孔-洛谢TGV站**（Gare TGV Mâcon-Loché），站台位于马孔-洛谢TGV站正门前方，由马孔公交公司（TRéMA）运营。 停靠的公交线路包括：马孔公交E线（马孔洛谢TGV站—马孔城站）\[2\]。
 
 ## 临近车站
 

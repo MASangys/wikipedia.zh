@@ -1,5 +1,4 @@
-《**Two of
-Us**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[2R的第](../Page/2R.md "wikilink")1張音樂專輯，於2003年10月20日發行。其後分別推出了第二版及第三版。
+《**Two of Us**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[2R](../Page/2R.md "wikilink")的第1張音樂專輯，於2003年10月20日發行。其後分別推出了第二版及第三版。
 
 ## 唱片版本
 
@@ -11,6 +10,4 @@ Us**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wiki
 
 ## 派台歌曲成績
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")
-[Category:2R音樂專輯](https://zh.wikipedia.org/wiki/Category:2R音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink") [Category:2R音樂專輯](https://zh.wikipedia.org/wiki/Category:2R音樂專輯 "wikilink")

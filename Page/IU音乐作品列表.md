@@ -1,7 +1,6 @@
-[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[创作歌手兼](../Page/創作歌手.md "wikilink")[演员](../Page/演員.md "wikilink")[IU共发行](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")4张[录音室专辑、](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")10张[迷你专辑](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")、35首[单曲及](../Page/单曲.md "wikilink")37部[MV](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")。此外，她还发行了12首[合作歌曲](https://zh.wikipedia.org/wiki/合作 "wikilink")、17首[电视剧](../Page/电视剧.md "wikilink")、[电影和](../Page/电影.md "wikilink")[网络游戏的](../Page/网络游戏.md "wikilink")[原声音乐](../Page/原声音乐.md "wikilink")（包含未正式发行的原声音乐）。
+[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[创作歌手兼](../Page/創作歌手.md "wikilink")[演员](../Page/演員.md "wikilink")[IU共发行](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")4张[录音室专辑、](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")10张[迷你专辑](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")、35首[单曲](../Page/单曲.md "wikilink")及37部[MV](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")。此外，她还发行了12首[合作歌曲](https://zh.wikipedia.org/wiki/合作 "wikilink")、17首[电视剧](../Page/电视剧.md "wikilink")、[电影](../Page/电影.md "wikilink")和[网络游戏](../Page/网络游戏.md "wikilink")的[原声音乐](../Page/原声音乐.md "wikilink")（包含未正式发行的原声音乐）。
 
-在Gaon专辑榜和Gaon音源榜，IU分别有2张专辑和14首歌曲获得一位。她还6次登上美国[Billboard的韩国流行音乐百强榜](../Page/告示牌_\(雜誌\).md "wikilink")（Korea
-K-Pop Hot 100，已停止排行），成为榜单中获得一位歌曲最多的歌手。
+在Gaon专辑榜和Gaon音源榜，IU分别有2张专辑和14首歌曲获得一位。她还6次登上美国[Billboard的韩国流行音乐百强榜](../Page/告示牌_\(雜誌\).md "wikilink")（Korea K-Pop Hot 100，已停止排行），成为榜单中获得一位歌曲最多的歌手。
 
 自2008年出道以来，IU在韩国专辑销量达45万张，[数字音乐下载量](https://zh.wikipedia.org/wiki/数字音乐下载 "wikilink")7000万次（包含专辑歌曲、合作歌曲、原声音乐及其他参与歌曲）。
 
@@ -39,7 +38,7 @@ K-Pop Hot 100，已停止排行），成为榜单中获得一位歌曲最多的�
 <td><ul>
 <li>發行：2009年4月23日</li>
 <li>唱片公司：<a href="https://zh.wikipedia.org/wiki/LOEN娛樂" title="wikilink">LOEN娛樂</a></li>
-<li>形式：<a href="../Page/CD.md" title="wikilink">CD、</a><a href="../Page/數位音樂下載.md" title="wikilink">數字下載</a></li>
+<li>形式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數字下載</a></li>
 </ul></td>
 <td><p>34</p></td>
 <td><p>—</p></td>
@@ -175,7 +174,7 @@ The Stories Between U &amp; I</p></td>
 <td><ul>
 <li>發行：2008年9月23日</li>
 <li>唱片公司：<a href="https://zh.wikipedia.org/wiki/LOEN娛樂" title="wikilink">LOEN娛樂</a></li>
-<li>形式：<a href="../Page/CD.md" title="wikilink">CD、</a><a href="../Page/數位音樂下載.md" title="wikilink">數字下載</a></li>
+<li>形式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數字下載</a></li>
 </ul></td>
 <td><p>44</p></td>
 <td><p>—</p></td>
@@ -467,7 +466,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《愛情不太順》<small>(사랑이 잘)</small><br />
-<small>(與<a href="../Page/吳赫.md" title="wikilink">吳赫合唱</a>)</small></p></td>
+<small>(與<a href="../Page/吳赫.md" title="wikilink">吳赫</a>合唱)</small></p></td>
 <td><p>2017</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -590,7 +589,7 @@ Hot 100</a><br />
 </tr>
 <tr class="odd">
 <td><p>《Friend》<br />
-（<a href="../Page/安全地帶.md" title="wikilink">安全地帶原唱</a>）</p></td>
+（<a href="../Page/安全地帶.md" title="wikilink">安全地帶</a>原唱）</p></td>
 <td><p>2012</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -678,7 +677,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《嘮叨》<br />
-<small>（與<a href="../Page/2AM.md" title="wikilink">2AM的</a><a href="https://zh.wikipedia.org/wiki/任瑟雍" title="wikilink">任瑟雍合唱</a>）</small></p></td>
+<small>（與<a href="../Page/2AM.md" title="wikilink">2AM</a>的<a href="https://zh.wikipedia.org/wiki/任瑟雍" title="wikilink">任瑟雍合唱</a>）</small></p></td>
 <td><p>1</p></td>
 <td><ul>
 <li>韓國：3,043,000+ </li>
@@ -688,7 +687,7 @@ Hot 100</a><br />
 </tr>
 <tr class="odd">
 <td><p>《相信愛》<br />
-<small>（與<a href="../Page/俞承豪.md" title="wikilink">俞承豪合唱</a>）</small></p></td>
+<small>（與<a href="../Page/俞承豪.md" title="wikilink">俞承豪</a>合唱）</small></p></td>
 <td><p>11</p></td>
 <td><ul>
 <li>韓國：1,010,000+ </li>
@@ -698,7 +697,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《是你》<br />
-<small>（與<a href="../Page/成始璄.md" title="wikilink">成始璄合唱</a>）</small></p></td>
+<small>（與<a href="../Page/成始璄.md" title="wikilink">成始璄</a>合唱）</small></p></td>
 <td><p>1</p></td>
 <td><ul>
 <li>韓國：1,782,000+ </li>
@@ -726,7 +725,7 @@ Hot 100</a><br />
 </tr>
 <tr class="odd">
 <td><p>《月光海》<br />
-<small>（與<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR合唱</a>）</small></p></td>
+<small>（與<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>合唱）</small></p></td>
 <td><p>2012</p></td>
 <td><p>12</p></td>
 <td><p>10</p></td>
@@ -756,7 +755,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《昭格洞》<br />
-<small>（分為IU和<a href="../Page/徐太志.md" title="wikilink">徐太志版</a>）</small></p></td>
+<small>（分為IU和<a href="../Page/徐太志.md" title="wikilink">徐太志</a>版）</small></p></td>
 <td><p>4</p></td>
 <td><ul>
 <li>韓國：636,000+* </li>
@@ -938,7 +937,7 @@ Hot 100</a><br />
 </tr>
 <tr class="odd">
 <td><p>《Beautiful Song》<br />
-<small>(与<a href="../Page/曹政奭.md" title="wikilink">曹政奭合唱</a>；出自“<a href="../Page/最佳李純信.md" title="wikilink">最佳李纯信</a>”)</small></p></td>
+<small>(与<a href="../Page/曹政奭.md" title="wikilink">曹政奭</a>合唱；出自“<a href="../Page/最佳李純信.md" title="wikilink">最佳李纯信</a>”)</small></p></td>
 <td><p>2013</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -1097,7 +1096,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《叔叔》<br />
-<small>（<a href="../Page/李笛.md" title="wikilink">李笛参唱</a>）</small></p></td>
+<small>（<a href="../Page/李笛.md" title="wikilink">李笛</a>参唱）</small></p></td>
 <td><p>4</p></td>
 <td><p>8</p></td>
 <td><ul>
@@ -1135,7 +1134,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《Teacher》<br />
-<small>（<a href="../Page/Ra.D.md" title="wikilink">Ra.D参唱</a>）</small></p></td>
+<small>（<a href="../Page/Ra.D.md" title="wikilink">Ra.D</a>参唱）</small></p></td>
 <td><p>9</p></td>
 <td><p>25</p></td>
 <td><ul>
@@ -1200,7 +1199,7 @@ Hot 100</a><br />
 </tr>
 <tr class="odd">
 <td><p>《谁都有秘密》<br />
-<small>（<a href="../Page/Brown_Eyed_Girls.md" title="wikilink">Brown Eyed Girls的</a><a href="../Page/孙佳人.md" title="wikilink">孙佳人参唱</a>）</small></p></td>
+<small>（<a href="../Page/Brown_Eyed_Girls.md" title="wikilink">Brown Eyed Girls的</a><a href="../Page/孙佳人.md" title="wikilink">孙佳人</a>参唱）</small></p></td>
 <td><p>2013</p></td>
 <td><p>2</p></td>
 <td><p>3</p></td>
@@ -1228,7 +1227,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《忧郁时钟》<br />
-<small>（<a href="../Page/SHINee.md" title="wikilink">SHINee的</a><a href="https://zh.wikipedia.org/wiki/金钟铉_(歌手)" title="wikilink">金钟铉参唱</a>）</small></p></td>
+<small>（<a href="../Page/SHINee.md" title="wikilink">SHINee</a>的<a href="https://zh.wikipedia.org/wiki/金钟铉_(歌手)" title="wikilink">金钟铉参唱</a>）</small></p></td>
 <td><p>6</p></td>
 <td><p>11</p></td>
 <td><ul>
@@ -1322,7 +1321,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《你的意义》<br />
-<small>(<a href="../Page/金昌完.md" title="wikilink">金昌完参唱</a>；原唱）</small></p></td>
+<small>(<a href="../Page/金昌完.md" title="wikilink">金昌完</a>参唱；原唱）</small></p></td>
 <td><p>2014</p></td>
 <td><p>3</p></td>
 <td><p>3</p></td>
@@ -1332,7 +1331,7 @@ Hot 100</a><br />
 </tr>
 <tr class="odd">
 <td><p>《当爱已逝去》<br />
-<small>（<a href="../Page/李文世.md" title="wikilink">李文世原唱</a>）</small></p></td>
+<small>（<a href="../Page/李文世.md" title="wikilink">李文世</a>原唱）</small></p></td>
 <td><p>4</p></td>
 <td><p>3</p></td>
 <td><ul>
@@ -1342,7 +1341,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《小丑在对着我们微笑》<br />
-<small>（<a href="../Page/金完宣.md" title="wikilink">金完宣原唱</a>）</small></p></td>
+<small>（<a href="../Page/金完宣.md" title="wikilink">金完宣</a>原唱）</small></p></td>
 <td><p>8</p></td>
 <td><p>10</p></td>
 <td><ul>
@@ -1372,7 +1371,7 @@ Hot 100</a><br />
 </tr>
 <tr class="odd">
 <td><p>《Kungddari Shabahrah》<br />
-<small>（<a href="../Page/酷龍.md" title="wikilink">酷龍参唱且为原唱</a>）</small></p></td>
+<small>（<a href="../Page/酷龍.md" title="wikilink">酷龍</a>参唱且为原唱）</small></p></td>
 <td><p>16</p></td>
 <td><p>14</p></td>
 <td><ul>
@@ -1418,7 +1417,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《Red Queen》<br />
-<small>（<a href="../Page/Zion.T.md" title="wikilink">Zion.T参唱</a>）</small></p></td>
+<small>（<a href="../Page/Zion.T.md" title="wikilink">Zion.T</a>参唱）</small></p></td>
 <td><p>10</p></td>
 <td><ul>
 <li>韩国：314,000+* </li>
@@ -1527,7 +1526,7 @@ Hot 100</a><br />
 </tr>
 <tr class="odd">
 <td><p>《你很漂亮》<br />
-<small>（<a href="../Page/RUN.md" title="wikilink">RUN主唱</a>，IU参唱）</small></p></td>
+<small>（<a href="../Page/RUN.md" title="wikilink">RUN</a>主唱，IU参唱）</small></p></td>
 <td></td>
 <td><p>Face-Off</p></td>
 <td></td>
@@ -1707,7 +1706,7 @@ Hot 100</a><br />
 <tr class="odd">
 <td style="text-align: center;"><p>《只有我不知道的事》</p></td>
 <td style="text-align: center;"><p>2011</p></td>
-<td style="text-align: center;"><p><a href="../Page/朴宝英.md" title="wikilink">朴宝英和</a>参演</p></td>
+<td style="text-align: center;"><p><a href="../Page/朴宝英.md" title="wikilink">朴宝英</a>和参演</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
@@ -1748,7 +1747,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>《你和我》</p></td>
-<td style="text-align: center;"><p><a href="../Page/李玹雨.md" title="wikilink">李玹雨参演</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李玹雨.md" title="wikilink">李玹雨</a>参演</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1815,7 +1814,7 @@ Hot 100</a><br />
 <tr class="odd">
 <td style="text-align: center;"><p>《我的老故事》</p></td>
 <td style="text-align: center;"><p>2014</p></td>
-<td style="text-align: center;"><p><a href="../Page/崔宇植.md" title="wikilink">崔宇植参演</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/崔宇植.md" title="wikilink">崔宇植</a>参演</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
@@ -1874,7 +1873,7 @@ Hot 100</a><br />
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>《昭格洞》</p></td>
-<td style="text-align: center;"><p><a href="../Page/徐太志.md" title="wikilink">徐太志和IU</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/徐太志.md" title="wikilink">徐太志</a>和IU</p></td>
 <td style="text-align: center;"><p>和<a href="../Page/金賢秀.md" title="wikilink">金贤秀参演</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1939,6 +1938,4 @@ Hot 100</a><br />
 24.
 25.
 
-26. [IU's PV for Japanese debut single "Good Day"
-    released](http://www.allkpop.com/2012/02/ius-pv-for-japanese-debut-single-good-day-released).
-    All K-pop. (2012-02-29). Retrieved on 2012-06-05.
+26. [IU's PV for Japanese debut single "Good Day" released](http://www.allkpop.com/2012/02/ius-pv-for-japanese-debut-single-good-day-released). All K-pop. (2012-02-29). Retrieved on 2012-06-05.

@@ -1,12 +1,10 @@
-**株式會社Production
-Ace**（，）是[日本的](../Page/日本.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，主要經營[藝人及](https://zh.wikipedia.org/wiki/藝人 "wikilink")[聲優事業](../Page/聲優.md "wikilink")。
+**株式會社Production Ace**（，）是[日本](../Page/日本.md "wikilink")的[經紀公司](../Page/經紀公司.md "wikilink")，主要經營[藝人及](https://zh.wikipedia.org/wiki/藝人 "wikilink")[聲優](../Page/聲優.md "wikilink")事業。
 
 ## 簡介
 
 最初以**株式會社Trial Production**之名於1993年7月2日設立，為株式會社的子公司。
 
-2008年7月1日，成為株式會社（現[KADOKAWA](../Page/KADOKAWA.md "wikilink")）及株式會社AMUSEMENT
-MEDIA綜合學院的[合資公司](../Page/合資公司.md "wikilink")，並更改為現名\[1\]。
+2008年7月1日，成為株式會社（現[KADOKAWA](../Page/KADOKAWA.md "wikilink")）及株式會社AMUSEMENT MEDIA綜合學院的[合資公司](../Page/合資公司.md "wikilink")，並更改為現名\[1\]。
 
 旗下聲優經常一起在改編自KADOKAWA出版之[輕小說](../Page/輕小說.md "wikilink")、[漫畫的](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[動畫作品中演出及演唱主題曲](../Page/日本动画.md "wikilink")。
 
@@ -222,8 +220,7 @@ MEDIA綜合學院的[合資公司](../Page/合資公司.md "wikilink")，並更�
   -
   - [伊藤佳織](https://zh.wikipedia.org/wiki/伊藤佳織 "wikilink")
 
-  - [岩永尚子](https://zh.wikipedia.org/wiki/岩永尚子 "wikilink")（現屬[SR
-    Production](https://zh.wikipedia.org/wiki/SR_Production "wikilink")）
+  - [岩永尚子](https://zh.wikipedia.org/wiki/岩永尚子 "wikilink")（現屬[SR Production](https://zh.wikipedia.org/wiki/SR_Production "wikilink")）
 
   - \[2\]（）
 
@@ -338,8 +335,7 @@ MEDIA綜合學院的[合資公司](../Page/合資公司.md "wikilink")，並更�
   - [犬塚雅之](https://zh.wikipedia.org/wiki/犬塚雅之 "wikilink")
 
   -
-  - [小川輝晃](../Page/小川輝晃.md "wikilink")（現屬[81
-    Produce](../Page/81_Produce.md "wikilink")）
+  - [小川輝晃](../Page/小川輝晃.md "wikilink")（現屬[81 Produce](../Page/81_Produce.md "wikilink")）
 
   - [男澤修平](https://zh.wikipedia.org/wiki/男澤修平 "wikilink")
 
@@ -368,8 +364,7 @@ MEDIA綜合學院的[合資公司](../Page/合資公司.md "wikilink")，並更�
   -
   - [種田共孝](https://zh.wikipedia.org/wiki/種田共孝 "wikilink")
 
-  - （現屬[Renaissance
-    21](https://zh.wikipedia.org/wiki/Renaissance_21 "wikilink")）
+  - （現屬[Renaissance 21](https://zh.wikipedia.org/wiki/Renaissance_21 "wikilink")）
 
   - [南雲義樹](https://zh.wikipedia.org/wiki/南雲義樹 "wikilink")
 
@@ -419,12 +414,7 @@ MEDIA綜合學院的[合資公司](../Page/合資公司.md "wikilink")，並更�
 ## 外部連結
 
   -
-[Category:Production_Ace](https://zh.wikipedia.org/wiki/Category:Production_Ace "wikilink")
-[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:角川集團](https://zh.wikipedia.org/wiki/Category:角川集團 "wikilink")
-[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
-[Category:1993年成立的公司](https://zh.wikipedia.org/wiki/Category:1993年成立的公司 "wikilink")
+[Category:Production_Ace](https://zh.wikipedia.org/wiki/Category:Production_Ace "wikilink") [Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:角川集團](https://zh.wikipedia.org/wiki/Category:角川集團 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:1993年成立的公司](https://zh.wikipedia.org/wiki/Category:1993年成立的公司 "wikilink")
 
 1.
 2.

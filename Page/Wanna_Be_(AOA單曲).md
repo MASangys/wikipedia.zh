@@ -1,6 +1,4 @@
-「**Wanna
-be**」是[韓國的女子樂團和舞蹈團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[AOA的第](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")2張單曲。於2012年10月10日發行。唱片公司為[FNC
-Entertainment](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink")。
+「**Wanna be**」是[韓國的女子樂團和舞蹈團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[AOA的第](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")2張單曲。於2012年10月10日發行。唱片公司為[FNC Entertainment](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink")。
 
 ## 概要
 
@@ -12,13 +10,10 @@ Entertainment](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink")。
 
 ## 外部連結
 
-  - [AOA
-    韓國官方網站](https://web.archive.org/web/20131023102600/http://www.a-o-a.co.kr/index.html)
+  - [AOA 韓國官方網站](https://web.archive.org/web/20131023102600/http://www.a-o-a.co.kr/index.html)
 
   - [AOA - GET OUT M/V](https://www.youtube.com/watch?v=9sn_g7aWGoU)
 
   - [AOA 韓國官方YouTube](http://www.youtube.com/user/AceOfAngels8)
 
-[Category:AOA單曲](https://zh.wikipedia.org/wiki/Category:AOA單曲 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:AOA單曲](https://zh.wikipedia.org/wiki/Category:AOA單曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")

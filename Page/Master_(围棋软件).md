@@ -1,18 +1,16 @@
-**Master**是计算机围棋软件[AlphaGo的一个版本](../Page/AlphaGo.md "wikilink")，因其在2016年底至2017年初使用Master的网络账号（最初名为**Magister**，中国大陆客户端显示为**Magist**）而得名。Master于2016年12月29日至2017年1月4日出现于弈城围棋网和腾讯野狐围棋网，取得60连胜的成绩，以其空前的实力轰动了围棋界。\[1\]\[2\]中国职业棋手大多认为，即使被Master[让先仍难以获胜](https://zh.wikipedia.org/wiki/让先 "wikilink")\[3\]\[4\]。该版本也参加了2017年5月的[中国乌镇围棋峰会](../Page/中国乌镇围棋峰会.md "wikilink")\[5\]\[6\]。DeepMind团队称此版本为**AlphaGo
-Master**，是使用了1个[TPU的单机版](https://zh.wikipedia.org/wiki/TPU "wikilink")\[7\]，棋力比2016年[李世乭五番棋所用的版本提高了三子](../Page/AlphaGo李世乭五番棋.md "wikilink")，Elo等级分达到4500分以上\[8\]。
+**Master**是计算机围棋软件[AlphaGo](../Page/AlphaGo.md "wikilink")的一个版本，因其在2016年底至2017年初使用Master的网络账号（最初名为**Magister**，中国大陆客户端显示为**Magist**）而得名。Master于2016年12月29日至2017年1月4日出现于弈城围棋网和腾讯野狐围棋网，取得60连胜的成绩，以其空前的实力轰动了围棋界。\[1\]\[2\]中国职业棋手大多认为，即使被Master[让先仍难以获胜](https://zh.wikipedia.org/wiki/让先 "wikilink")\[3\]\[4\]。该版本也参加了2017年5月的[中国乌镇围棋峰会](../Page/中国乌镇围棋峰会.md "wikilink")\[5\]\[6\]。DeepMind团队称此版本为**AlphaGo Master**，是使用了1个[TPU的单机版](https://zh.wikipedia.org/wiki/TPU "wikilink")\[7\]，棋力比2016年[李世乭五番棋所用的版本提高了三子](../Page/AlphaGo李世乭五番棋.md "wikilink")，Elo等级分达到4500分以上\[8\]。
 
 ## 经过
 
-2016年12月29日，一个注册名为Magister（大陆客户端显示为Magist）的账号开始在弈城围棋网与职业棋手对弈，次日用户名改为Master。12月31日取得30连胜后，2017年1月1日Master转往[腾讯野狐围棋网对弈](../Page/腾讯.md "wikilink")。1月3日，[古力九段代表野狐公司悬赏](../Page/古力.md "wikilink")10万元人民币，奖给首个战胜Master的棋手\[9\]。最终Master在野狐也取得30连胜，总成绩为60场不败\[10\]，包括三次战胜排名世界第一的[柯洁九段](../Page/柯洁.md "wikilink")\[11\]。
+2016年12月29日，一个注册名为Magister（大陆客户端显示为Magist）的账号开始在弈城围棋网与职业棋手对弈，次日用户名改为Master。12月31日取得30连胜后，2017年1月1日Master转往[腾讯](../Page/腾讯.md "wikilink")野狐围棋网对弈。1月3日，[古力](../Page/古力.md "wikilink")九段代表野狐公司悬赏10万元人民币，奖给首个战胜Master的棋手\[9\]。最终Master在野狐也取得30连胜，总成绩为60场不败\[10\]，包括三次战胜排名世界第一的[柯洁](../Page/柯洁.md "wikilink")九段\[11\]。
 
-Master基本上保持每天10盘棋的节奏，对局之间很少休息，当时很多人猜测其是人工智能。2017年1月4日，在赢得第59场胜利之后，在野狐聊天室里，Master表明其是DeepMind公司黃士傑博士操作的\[12\]，在60局结束后，DeepMind
-CEO[杰米斯·哈萨比斯声明确认Master就是升级版AlphaGo](../Page/杰米斯·哈萨比斯.md "wikilink")\[13\]\[14\]，并称期待AlphaGo今年进行正式慢棋对局\[15\]\[16\]。
+Master基本上保持每天10盘棋的节奏，对局之间很少休息，当时很多人猜测其是人工智能。2017年1月4日，在赢得第59场胜利之后，在野狐聊天室里，Master表明其是DeepMind公司黃士傑博士操作的\[12\]，在60局结束后，DeepMind CEO[杰米斯·哈萨比斯](../Page/杰米斯·哈萨比斯.md "wikilink")声明确认Master就是升级版AlphaGo\[13\]\[14\]，并称期待AlphaGo今年进行正式慢棋对局\[15\]\[16\]。
 
 ## 对局
 
 ### 网棋60局
 
-Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。共有44位棋手出场，其中[朴廷桓](../Page/朴廷桓.md "wikilink")5局，[孟泰龄](https://zh.wikipedia.org/wiki/孟泰龄 "wikilink")4局，[连笑](https://zh.wikipedia.org/wiki/连笑 "wikilink")、[柯洁](../Page/柯洁.md "wikilink")、[陈耀烨](../Page/陈耀烨.md "wikilink")、[古力各](../Page/古力.md "wikilink")3局、[范廷钰](../Page/范廷钰.md "wikilink")2局，其他棋手各一局。Master战胜的世界冠军棋手包括柯洁、朴廷桓、[井山裕太](../Page/井山裕太.md "wikilink")、[柁嘉熹](../Page/柁嘉熹.md "wikilink")、[芈昱廷](../Page/芈昱廷.md "wikilink")、[时越](../Page/时越.md "wikilink")、陈耀烨、[李钦诚](https://zh.wikipedia.org/wiki/李钦诚 "wikilink")、古力、[唐韦星](../Page/唐韦星.md "wikilink")、范廷钰、[江维杰](https://zh.wikipedia.org/wiki/江维杰 "wikilink")、[党毅飞](../Page/党毅飞.md "wikilink")、[周俊勳](../Page/周俊勳.md "wikilink")、[金志锡](https://zh.wikipedia.org/wiki/金志锡 "wikilink")、[姜东润](../Page/姜东润.md "wikilink")、[朴永训](../Page/朴永训.md "wikilink")、[元晟溱](../Page/元晟溱.md "wikilink")，中国或韩国国内冠军或者世界亚军棋手包括连笑、[檀啸](../Page/檀啸.md "wikilink")、孟泰龄、[杨鼎新](../Page/杨鼎新.md "wikilink")、[辜梓豪](../Page/辜梓豪.md "wikilink")、[申真谞](../Page/申真谞.md "wikilink")、[安成浚](https://zh.wikipedia.org/wiki/安成浚 "wikilink")、[赵汉乘](https://zh.wikipedia.org/wiki/赵汉乘 "wikilink")。\[17\]60战基本都是3次20秒或30秒读秒的快棋，與[聶衛平交戰除外](https://zh.wikipedia.org/wiki/聶衛平 "wikilink")。全部对局由DeepMind黃士傑博士代为落子，其中第9和39局各出现了一次人为操作失误。\[18\]
+Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。共有44位棋手出场，其中[朴廷桓](../Page/朴廷桓.md "wikilink")5局，[孟泰龄](https://zh.wikipedia.org/wiki/孟泰龄 "wikilink")4局，[连笑](https://zh.wikipedia.org/wiki/连笑 "wikilink")、[柯洁](../Page/柯洁.md "wikilink")、[陈耀烨](../Page/陈耀烨.md "wikilink")、[古力](../Page/古力.md "wikilink")各3局、[范廷钰](../Page/范廷钰.md "wikilink")2局，其他棋手各一局。Master战胜的世界冠军棋手包括柯洁、朴廷桓、[井山裕太](../Page/井山裕太.md "wikilink")、[柁嘉熹](../Page/柁嘉熹.md "wikilink")、[芈昱廷](../Page/芈昱廷.md "wikilink")、[时越](../Page/时越.md "wikilink")、陈耀烨、[李钦诚](https://zh.wikipedia.org/wiki/李钦诚 "wikilink")、古力、[唐韦星](../Page/唐韦星.md "wikilink")、范廷钰、[江维杰](https://zh.wikipedia.org/wiki/江维杰 "wikilink")、[党毅飞](../Page/党毅飞.md "wikilink")、[周俊勳](../Page/周俊勳.md "wikilink")、[金志锡](https://zh.wikipedia.org/wiki/金志锡 "wikilink")、[姜东润](../Page/姜东润.md "wikilink")、[朴永训](../Page/朴永训.md "wikilink")、[元晟溱](../Page/元晟溱.md "wikilink")，中国或韩国国内冠军或者世界亚军棋手包括连笑、[檀啸](../Page/檀啸.md "wikilink")、孟泰龄、[杨鼎新](../Page/杨鼎新.md "wikilink")、[辜梓豪](../Page/辜梓豪.md "wikilink")、[申真谞](../Page/申真谞.md "wikilink")、[安成浚](https://zh.wikipedia.org/wiki/安成浚 "wikilink")、[赵汉乘](https://zh.wikipedia.org/wiki/赵汉乘 "wikilink")。\[17\]60战基本都是3次20秒或30秒读秒的快棋，與[聶衛平交戰除外](https://zh.wikipedia.org/wiki/聶衛平 "wikilink")。全部对局由DeepMind黃士傑博士代为落子，其中第9和39局各出现了一次人为操作失误。\[18\]
 
 注：该表格中所有棋手的段位均为当时对弈时的段位。
 
@@ -59,7 +57,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="even">
 <td><p>4</p></td>
 <td><p>2016年12月29日</p></td>
-<td><p><a href="../Page/谢尔豪.md" title="wikilink">谢尔豪四段</a></p></td>
+<td><p><a href="../Page/谢尔豪.md" title="wikilink">谢尔豪</a>四段</p></td>
 <td><p>卧虎(P)</p></td>
 <td><p>3次20秒读秒</p></td>
 <td><p>222</p></td>
@@ -68,7 +66,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>2016年12月29日</p></td>
-<td><p><a href="../Page/於之莹.md" title="wikilink">於之莹五段</a></p></td>
+<td><p><a href="../Page/於之莹.md" title="wikilink">於之莹</a>五段</p></td>
 <td><p>无痕(P)</p></td>
 <td><p>3次20秒读秒</p></td>
 <td><p>113</p></td>
@@ -158,7 +156,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="odd">
 <td><p>15</p></td>
 <td><p>2016年12月30日</p></td>
-<td><p><a href="../Page/朴廷桓.md" title="wikilink">朴廷桓九段</a></p></td>
+<td><p><a href="../Page/朴廷桓.md" title="wikilink">朴廷桓</a>九段</p></td>
 <td><p>XIUZHI(P)</p></td>
 <td><p>3次20秒读秒</p></td>
 <td><p>150</p></td>
@@ -185,7 +183,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="even">
 <td><p>18</p></td>
 <td><p>2016年12月30日</p></td>
-<td><p><a href="../Page/柯洁.md" title="wikilink">柯洁九段</a></p></td>
+<td><p><a href="../Page/柯洁.md" title="wikilink">柯洁</a>九段</p></td>
 <td><p>吻别(P)</p></td>
 <td><p>3次20秒读秒</p></td>
 <td><p>228</p></td>
@@ -212,7 +210,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="odd">
 <td><p>21</p></td>
 <td><p>2016年12月31日</p></td>
-<td><p><a href="../Page/陈耀烨.md" title="wikilink">陈耀烨九段</a></p></td>
+<td><p><a href="../Page/陈耀烨.md" title="wikilink">陈耀烨</a>九段</p></td>
 <td><p>龙胆(P)</p></td>
 <td><p>3次20秒读秒</p></td>
 <td><p>270</p></td>
@@ -266,7 +264,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="odd">
 <td><p>27</p></td>
 <td><p>2016年12月31日</p></td>
-<td><p><a href="../Page/范廷钰.md" title="wikilink">范廷钰九段</a></p></td>
+<td><p><a href="../Page/范廷钰.md" title="wikilink">范廷钰</a>九段</p></td>
 <td><p>ddcg</p></td>
 <td><p>3次30秒读秒</p></td>
 <td><p>215</p></td>
@@ -284,7 +282,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="odd">
 <td><p>29</p></td>
 <td><p>2016年12月31日</p></td>
-<td><p><a href="../Page/芈昱廷.md" title="wikilink">芈昱廷九段</a></p></td>
+<td><p><a href="../Page/芈昱廷.md" title="wikilink">芈昱廷</a>九段</p></td>
 <td><p>拼搏(P)</p></td>
 <td><p>3次30秒读秒</p></td>
 <td><p>311</p></td>
@@ -293,7 +291,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="even">
 <td><p>30</p></td>
 <td><p>2016年12月31日</p></td>
-<td><p><a href="../Page/唐韦星.md" title="wikilink">唐韦星九段</a></p></td>
+<td><p><a href="../Page/唐韦星.md" title="wikilink">唐韦星</a>九段</p></td>
 <td><p>930115</p></td>
 <td><p>3次30秒读秒</p></td>
 <td><p>186</p></td>
@@ -311,7 +309,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="even">
 <td><p>32</p></td>
 <td><p>2017年1月2日</p></td>
-<td><p><a href="../Page/古力.md" title="wikilink">古力九段</a></p></td>
+<td><p><a href="../Page/古力.md" title="wikilink">古力</a>九段</p></td>
 <td><p>星宿老仙</p></td>
 <td><p>1分钟+3次30秒读秒</p></td>
 <td><p>154</p></td>
@@ -329,7 +327,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="even">
 <td><p>34</p></td>
 <td><p>2017年1月2日</p></td>
-<td><p><a href="../Page/党毅飞.md" title="wikilink">党毅飞九段</a></p></td>
+<td><p><a href="../Page/党毅飞.md" title="wikilink">党毅飞</a>九段</p></td>
 <td><p>我想静静了</p></td>
 <td><p>1分钟+3次30秒读秒</p></td>
 <td><p>149</p></td>
@@ -347,7 +345,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="even">
 <td><p>36</p></td>
 <td><p>2017年1月2日</p></td>
-<td><p><a href="../Page/辜梓豪.md" title="wikilink">辜梓豪五段</a></p></td>
+<td><p><a href="../Page/辜梓豪.md" title="wikilink">辜梓豪</a>五段</p></td>
 <td><p>印城之霸</p></td>
 <td><p>1分钟+3次30秒读秒</p></td>
 <td><p>209</p></td>
@@ -356,7 +354,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="odd">
 <td><p>37</p></td>
 <td><p>2017年1月2日</p></td>
-<td><p><a href="../Page/朴永训.md" title="wikilink">朴永训九段</a></p></td>
+<td><p><a href="../Page/朴永训.md" title="wikilink">朴永训</a>九段</p></td>
 <td><p>pyh</p></td>
 <td><p>1分钟+3次30秒读秒</p></td>
 <td><p>173</p></td>
@@ -365,7 +363,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="even">
 <td><p>38</p></td>
 <td><p>2017年1月2日</p></td>
-<td><p><a href="../Page/柁嘉熹.md" title="wikilink">柁嘉熹九段</a></p></td>
+<td><p><a href="../Page/柁嘉熹.md" title="wikilink">柁嘉熹</a>九段</p></td>
 <td><p>天选</p></td>
 <td><p>1分钟+3次30秒读秒</p></td>
 <td><p>239</p></td>
@@ -374,7 +372,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="odd">
 <td><p>39</p></td>
 <td><p>2017年1月2日</p></td>
-<td><p><a href="../Page/井山裕太.md" title="wikilink">井山裕太九段</a></p></td>
+<td><p><a href="../Page/井山裕太.md" title="wikilink">井山裕太</a>九段</p></td>
 <td><p>jpgo01</p></td>
 <td><p>1分钟+3次30秒读秒</p></td>
 <td><p>135</p></td>
@@ -401,7 +399,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="even">
 <td><p>42</p></td>
 <td><p>2017年1月3日</p></td>
-<td><p><a href="../Page/杨鼎新.md" title="wikilink">杨鼎新四段</a></p></td>
+<td><p><a href="../Page/杨鼎新.md" title="wikilink">杨鼎新</a>四段</p></td>
 <td><p>时间之虫</p></td>
 <td><p>1分钟+3次30秒读秒</p></td>
 <td><p>125</p></td>
@@ -410,7 +408,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="odd">
 <td><p>43</p></td>
 <td><p>2017年1月3日</p></td>
-<td><p><a href="../Page/姜东润.md" title="wikilink">姜东润九段</a></p></td>
+<td><p><a href="../Page/姜东润.md" title="wikilink">姜东润</a>九段</p></td>
 <td><p>piaojie</p></td>
 <td><p>1分钟+3次30秒读秒</p></td>
 <td><p>165</p></td>
@@ -428,7 +426,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="odd">
 <td><p>45</p></td>
 <td><p>2017年1月3日</p></td>
-<td><p><a href="../Page/时越.md" title="wikilink">时越九段</a></p></td>
+<td><p><a href="../Page/时越.md" title="wikilink">时越</a>九段</p></td>
 <td><p>炼心</p></td>
 <td><p>1分钟+3次30秒读秒</p></td>
 <td><p>167</p></td>
@@ -446,7 +444,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="odd">
 <td><p>47</p></td>
 <td><p>2017年1月3日</p></td>
-<td><p><a href="../Page/檀啸.md" title="wikilink">檀啸七段</a></p></td>
+<td><p><a href="../Page/檀啸.md" title="wikilink">檀啸</a>七段</p></td>
 <td><p>段誉</p></td>
 <td><p>1分钟+3次30秒读秒</p></td>
 <td><p>191</p></td>
@@ -455,7 +453,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="even">
 <td><p>48</p></td>
 <td><p>2017年1月3日</p></td>
-<td><p><a href="../Page/朴廷桓.md" title="wikilink">朴廷桓九段</a></p></td>
+<td><p><a href="../Page/朴廷桓.md" title="wikilink">朴廷桓</a>九段</p></td>
 <td><p>maker</p></td>
 <td><p>1分钟+3次30秒读秒</p></td>
 <td><p>270</p></td>
@@ -464,7 +462,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="odd">
 <td><p>49</p></td>
 <td><p>2017年1月3日</p></td>
-<td><p><a href="../Page/元晟溱.md" title="wikilink">元晟溱九段</a></p></td>
+<td><p><a href="../Page/元晟溱.md" title="wikilink">元晟溱</a>九段</p></td>
 <td><p>wonfun</p></td>
 <td><p>1分钟+3次30秒读秒</p></td>
 <td><p>222</p></td>
@@ -473,7 +471,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="even">
 <td><p>50</p></td>
 <td><p>2017年1月3日</p></td>
-<td><p><a href="../Page/柯洁.md" title="wikilink">柯洁九段</a></p></td>
+<td><p><a href="../Page/柯洁.md" title="wikilink">柯洁</a>九段</p></td>
 <td><p>潜伏</p></td>
 <td><p>1分钟+3次30秒读秒</p></td>
 <td><p>178</p></td>
@@ -482,7 +480,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="odd">
 <td><p>51</p></td>
 <td><p>2017年1月4日</p></td>
-<td><p><a href="../Page/周俊勳.md" title="wikilink">周俊勳九段</a></p></td>
+<td><p><a href="../Page/周俊勳.md" title="wikilink">周俊勳</a>九段</p></td>
 <td><p>周俊勳</p></td>
 <td><p>1分钟+3次30秒读秒</p></td>
 <td><p>118</p></td>
@@ -491,7 +489,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="even">
 <td><p>52</p></td>
 <td><p>2017年1月4日</p></td>
-<td><p><a href="../Page/范廷钰.md" title="wikilink">范廷钰九段</a></p></td>
+<td><p><a href="../Page/范廷钰.md" title="wikilink">范廷钰</a>九段</p></td>
 <td><p>ykpcx</p></td>
 <td><p>1分钟+3次30秒读秒</p></td>
 <td><p>202</p></td>
@@ -500,7 +498,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="odd">
 <td><p>53</p></td>
 <td><p>2017年1月4日</p></td>
-<td><p><a href="../Page/黄云嵩.md" title="wikilink">黄云嵩五段</a></p></td>
+<td><p><a href="../Page/黄云嵩.md" title="wikilink">黄云嵩</a>五段</p></td>
 <td><p>孔明</p></td>
 <td><p>1分钟+3次30秒读秒</p></td>
 <td><p>133</p></td>
@@ -509,7 +507,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="even">
 <td><p>54</p></td>
 <td><p>2017年1月4日</p></td>
-<td><p><a href="../Page/聂卫平.md" title="wikilink">聂卫平九段</a></p></td>
+<td><p><a href="../Page/聂卫平.md" title="wikilink">聂卫平</a>九段</p></td>
 <td><p>聂卫平</p></td>
 <td><p>1分钟+3次60秒读秒</p></td>
 <td><p>254</p></td>
@@ -518,7 +516,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="odd">
 <td><p>55</p></td>
 <td><p>2017年1月4日</p></td>
-<td><p><a href="../Page/陈耀烨.md" title="wikilink">陈耀烨九段</a></p></td>
+<td><p><a href="../Page/陈耀烨.md" title="wikilink">陈耀烨</a>九段</p></td>
 <td><p>谜团</p></td>
 <td><p>1分钟+3次30秒读秒</p></td>
 <td><p>267</p></td>
@@ -536,7 +534,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="odd">
 <td><p>57</p></td>
 <td><p>2017年1月4日</p></td>
-<td><p><a href="../Page/申真谞.md" title="wikilink">申真谞六段</a></p></td>
+<td><p><a href="../Page/申真谞.md" title="wikilink">申真谞</a>六段</p></td>
 <td><p>nparadigm</p></td>
 <td><p>1分钟+3次30秒读秒</p></td>
 <td><p>139</p></td>
@@ -545,7 +543,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="even">
 <td><p>58</p></td>
 <td><p>2017年1月4日</p></td>
-<td><p><a href="../Page/常昊.md" title="wikilink">常昊九段</a></p></td>
+<td><p><a href="../Page/常昊.md" title="wikilink">常昊</a>九段</p></td>
 <td><p>小香馋猫</p></td>
 <td><p>1分钟+3次30秒读秒</p></td>
 <td><p>178</p></td>
@@ -554,7 +552,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="odd">
 <td><p>59</p></td>
 <td><p>2017年1月4日</p></td>
-<td><p><a href="../Page/周睿羊.md" title="wikilink">周睿羊九段</a></p></td>
+<td><p><a href="../Page/周睿羊.md" title="wikilink">周睿羊</a>九段</p></td>
 <td><p>Eason</p></td>
 <td><p>1分钟+3次30秒读秒</p></td>
 <td><p>161</p></td>
@@ -563,7 +561,7 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 <tr class="even">
 <td><p>60</p></td>
 <td><p>2017年1月4日</p></td>
-<td><p><a href="../Page/古力.md" title="wikilink">古力九段</a></p></td>
+<td><p><a href="../Page/古力.md" title="wikilink">古力</a>九段</p></td>
 <td><p>古力</p></td>
 <td><p>1分钟+3次30秒读秒</p></td>
 <td><p>235</p></td>
@@ -574,14 +572,13 @@ Master共取得60连胜，前30场对弈于弈城，后30场对弈于野狐。�
 
 ### 中国乌镇围棋峰会
 
-AlphaGo的Master版本也参加中国乌镇围棋峰会\[19\]，以3比0战胜柯洁，并执白战胜了由[陈耀烨](../Page/陈耀烨.md "wikilink")、[周睿羊](../Page/周睿羊.md "wikilink")、[芈昱廷](../Page/芈昱廷.md "wikilink")、[时越](../Page/时越.md "wikilink")、[唐韦星五位棋手组成的人类团队](../Page/唐韦星.md "wikilink")。在配对赛中，和[连笑配对的Master执白战胜了和](https://zh.wikipedia.org/wiki/连笑 "wikilink")[古力配对的Master](../Page/古力.md "wikilink")。
+AlphaGo的Master版本也参加中国乌镇围棋峰会\[19\]，以3比0战胜柯洁，并执白战胜了由[陈耀烨](../Page/陈耀烨.md "wikilink")、[周睿羊](../Page/周睿羊.md "wikilink")、[芈昱廷](../Page/芈昱廷.md "wikilink")、[时越](../Page/时越.md "wikilink")、[唐韦星](../Page/唐韦星.md "wikilink")五位棋手组成的人类团队。在配对赛中，和[连笑配对的Master执白战胜了和](https://zh.wikipedia.org/wiki/连笑 "wikilink")[古力](../Page/古力.md "wikilink")配对的Master。
 
 ## 创新性下法
 
 在60局网棋中，Master执黑29局，执白31局。在执黑时，只有1次采用小飞守无忧角，而17次采用小目大飞守角，5次采用小目二间跳守角；在执白的31局中，17局采用二连星开局，14局采用星小目开局，小目小飞守角4次、小目单关守角3次，没有采用过小目大飞或二间跳守角。\[20\]
 
-Master的棋风朴实，[唐韦星评论说它](../Page/唐韦星.md "wikilink")“用一把木剑就败尽天下高手”\[21\]。Master的很多下法具有创新性，一些招法看似违背棋理却偏偏能赢\[22\]。职业棋手对Master
-60局进行了很多研究\[23\]\[24\]\[25\]\[26\]\[27\]，并尝试学习其下法\[28\]\[29\]。
+Master的棋风朴实，[唐韦星](../Page/唐韦星.md "wikilink")评论说它“用一把木剑就败尽天下高手”\[21\]。Master的很多下法具有创新性，一些招法看似违背棋理却偏偏能赢\[22\]。职业棋手对Master 60局进行了很多研究\[23\]\[24\]\[25\]\[26\]\[27\]，并尝试学习其下法\[28\]\[29\]。
 
 ### 连爬二路
 
@@ -629,7 +626,7 @@ Master网棋60局之后，[朴永训](../Page/朴永训.md "wikilink")、[李喆
 </tr>
 <tr class="even">
 <td><p>2017年3月27日<a href="https://zh.wikipedia.org/wiki/梦百合杯" title="wikilink">梦百合杯预选赛</a><br />
-<a href="../Page/朴永训.md" title="wikilink">朴永训执黑对</a><a href="../Page/於之莹.md" title="wikilink">於之莹</a>，前11手[35]<br />
+<a href="../Page/朴永训.md" title="wikilink">朴永训</a>执黑对<a href="../Page/於之莹.md" title="wikilink">於之莹</a>，前11手[35]<br />
 （共235手，黑中盘胜）</p></td>
 <td></td>
 <td></td>
@@ -709,15 +706,14 @@ Master网棋60局之后，[朴永训](../Page/朴永训.md "wikilink")、[李喆
 
 2017年1月20日，DeepMind团队成员樊麾二段\[37\]和黃士傑博士\[38\]分别在社交媒体发布消息称，Master网棋60局中有两处操作者人为操作失误，导致没有下出Master本来的下法。
 
-网棋第9局，Master第107手本意是下在a位。就在DeepMind团队发布声明前的几个小时，职业棋手[胡耀宇发微博指出此局的黑](../Page/胡耀宇.md "wikilink")107手是Master的一个失误\[39\]。
+网棋第9局，Master第107手本意是下在a位。就在DeepMind团队发布声明前的几个小时，职业棋手[胡耀宇](../Page/胡耀宇.md "wikilink")发微博指出此局的黑107手是Master的一个失误\[39\]。
 
 |                                                                   |                                     |                                      |                                            |                                                |                                              |                                                |                                            |                                         |                                           |                                            |                                          |                                          |                                           |                                          |                                           |                                               |                                              |                                      |                                           |
 | ----------------------------------------------------------------- | ----------------------------------- | ------------------------------------ | ------------------------------------------ | ---------------------------------------------- | -------------------------------------------- | ---------------------------------------------- | ------------------------------------------ | --------------------------------------- | ----------------------------------------- | ------------------------------------------ | ---------------------------------------- | ---------------------------------------- | ----------------------------------------- | ---------------------------------------- | ----------------------------------------- | --------------------------------------------- | -------------------------------------------- | ------------------------------------ | ----------------------------------------- |
 | {{Goban                                                           | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | b| | | | | | | | | w| b| b| | b| | | | | w| b| | | | b| | | | | w| w| w| b| | | b| | | w| b| w| b| b| w| | | b| | b| | w| | | | | | b| b| | b| w| w| w| | | | b| w| b| w| | | | |07| w| b| b| b| b| w| | | | | | | b| w| | | | | | | w| w| w| w| w| | | | | b| | | | | | | | | | | | | b| b| b| | | | b| w| w| | | | | | | | | b| | b| w| | | | | | x| | w| w| | | x| | | | | w| w| w| | | | | w| | w| b| w| b| | | | | | | | | | | | | | | | b| b| b| w| w| | | | | | | | | | | | | | | | A| w| b| w| | | | | | w| | b| | | | | | | b| b| w| b| w| | | | | | | | | | | | | b| | b| w| w| b| | | | | | w| | | | | | | | | b| w| b| b| b| b| w| | | | | b| x| b| | | | b| b| w| w| w| w| w| w| | | | | b| | | | | | | | w| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |20}} |
 | 第9局，Master执黑对[孟泰龄](https://zh.wikipedia.org/wiki/孟泰龄 "wikilink")。 |                                     |                                      |                                            |                                                |                                              |                                                |                                            |                                         |                                           |                                            |                                          |                                          |                                           |                                          |                                           |                                               |                                              |                                      |                                           |
 
-网棋第39局，Master第99手本意是下在a位。对此，黃士傑博士解释说，当时“是我斷線重連回野狐，進房間時不小心點到棋盤了，多次斷線後，原本我想要讓棋局打掛，井山裕太九段卻很有風度的投降了”
-\[40\]。韩国国家围棋队经过研究认为，井山裕太的这一局，是Master 60局中人类棋手发挥最好的一局\[41\]。
+网棋第39局，Master第99手本意是下在a位。对此，黃士傑博士解释说，当时“是我斷線重連回野狐，進房間時不小心點到棋盤了，多次斷線後，原本我想要讓棋局打掛，井山裕太九段卻很有風度的投降了” \[40\]。韩国国家围棋队经过研究认为，井山裕太的这一局，是Master 60局中人类棋手发挥最好的一局\[41\]。
 
 |                                                   |                                     |                                     |                                         |                                           |                                      |                                       |                                     |                                     |                                      |                                        |                                              |                                              |                                                 |                                                |                                                  |                                                   |                                             |                                            |                                           |
 | ------------------------------------------------- | ----------------------------------- | ----------------------------------- | --------------------------------------- | ----------------------------------------- | ------------------------------------ | ------------------------------------- | ----------------------------------- | ----------------------------------- | ------------------------------------ | -------------------------------------- | -------------------------------------------- | -------------------------------------------- | ----------------------------------------------- | ---------------------------------------------- | ------------------------------------------------ | ------------------------------------------------- | ------------------------------------------- | ------------------------------------------ | ----------------------------------------- |
@@ -726,8 +722,7 @@ Master网棋60局之后，[朴永训](../Page/朴永训.md "wikilink")、[李喆
 
 ## 例局
 
-网棋第30局：Master（白）vs
-[唐韦星九段](../Page/唐韦星.md "wikilink")（2016年12月31日），白中盘胜。在本局中，Master通过36、38的组合拳早早奠定优势，黑棋此后再无机会\[42\]。
+网棋第30局：Master（白）vs [唐韦星](../Page/唐韦星.md "wikilink")九段（2016年12月31日），白中盘胜。在本局中，Master通过36、38的组合拳早早奠定优势，黑棋此后再无机会\[42\]。
 
 |         |                                     |                                      |                                       |                                       |                                       |                                       |                                     |                                       |                                           |                                           |                                           |                                              |                                              |                                                |                                                |                                               |                                                 |                                            |                                         |      |
 | ------- | ----------------------------------- | ------------------------------------ | ------------------------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------- | ----------------------------------- | ------------------------------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | -------------------------------------------- | -------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- | --------------------------------------------- | ----------------------------------------------- | ------------------------------------------ | --------------------------------------- | ---- |
@@ -746,8 +741,7 @@ Master网棋60局之后，[朴永训](../Page/朴永训.md "wikilink")、[李喆
 
 ## 参考资料
 
-[Category:围棋软件](https://zh.wikipedia.org/wiki/Category:围棋软件 "wikilink")
-[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
+[Category:围棋软件](https://zh.wikipedia.org/wiki/Category:围棋软件 "wikilink") [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
 
 1.
 

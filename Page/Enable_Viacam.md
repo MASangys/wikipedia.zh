@@ -1,5 +1,4 @@
-**Enable
-Viacam**\[1\]（eViacam）是一個替代[鼠標的程序](https://zh.wikipedia.org/wiki/鼠標 "wikilink")，使用常見的[攝像頭跟踪用戶頭部移動](https://zh.wikipedia.org/wiki/攝像頭 "wikilink")。
+**Enable Viacam**\[1\]（eViacam）是一個替代[鼠標的程序](https://zh.wikipedia.org/wiki/鼠標 "wikilink")，使用常見的[攝像頭跟踪用戶頭部移動](https://zh.wikipedia.org/wiki/攝像頭 "wikilink")。
 
 ## 功能
 

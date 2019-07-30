@@ -1,24 +1,18 @@
-\-- This module converts support characters from half-width to
-full-width, and vice versa. -- See [Halfwidth and fullwidth
-forms](https://zh.wikipedia.org/wiki/Halfwidth_and_fullwidth_forms "wikilink")
-for an explanation of half- and full-width characters.
+\-- This module converts support characters from half-width to full-width, and vice versa. -- See [Halfwidth and fullwidth forms](https://zh.wikipedia.org/wiki/Halfwidth_and_fullwidth_forms "wikilink") for an explanation of half- and full-width characters.
 
-\-- @todo FIXME: Needs more characters adding, needs support for
-diacritic marks.
+\-- @todo FIXME: Needs more characters adding, needs support for diacritic marks.
 
 local data = mw.loadData( 'Module:Convert character width/data' )
 
 local p = {}
 
-\-- Converts one half-width character to one full-width character. local
-function getFull( s )
+\-- Converts one half-width character to one full-width character. local function getFull( s )
 
 `   return data[ s ] or s`
 
 end
 
-\-- Converts one full-width character to one half-width character. local
-function getHalf( s )
+\-- Converts one full-width character to one half-width character. local function getHalf( s )
 
 `   for half, full in pairs( data ) do`
 `       if s == full then`
@@ -29,8 +23,7 @@ function getHalf( s )
 
 end
 
-\-- Converts multiple half-width characters to full-width characters.
-function p.full( frame )
+\-- Converts multiple half-width characters to full-width characters. function p.full( frame )
 
 `   local s = type( frame ) == 'table' and frame.args and frame.args[ 1 ] or frame`
 `   s = type( s ) == 'number' and tostring( s ) or s`
@@ -39,8 +32,7 @@ function p.full( frame )
 
 end
 
-\-- Converts multiple full-width characters to half-width characters.
-function p.half( frame )
+\-- Converts multiple full-width characters to half-width characters. function p.half( frame )
 
 `   local s = type( frame ) == 'table' and frame.args and frame.args[ 1 ] or frame`
 `   s = type( s ) == 'number' and tostring( s ) or s`

@@ -1,17 +1,10 @@
-**《Crazy
-Diamond》**是一份1993年[西德·巴雷特的三叠套装光盘](../Page/西德·巴雷特.md "wikilink")，包含了《The
-Madcap
-Laughs》和《Barrett》以及1988年发行的包含了未收录曲目的《[Opel](../Page/Opel_\(专辑\).md "wikilink")》精选集。
+**《Crazy Diamond》**是一份1993年[西德·巴雷特](../Page/西德·巴雷特.md "wikilink")的三叠套装光盘，包含了《The Madcap Laughs》和《Barrett》以及1988年发行的包含了未收录曲目的《[Opel](../Page/Opel_\(专辑\).md "wikilink")》精选集。
 
-> “我们的主要计划是在其他音乐家入选之前找到西德的声音，但我们偶然发现了一些引人注目的材料，这些材料为Syd的工作方法提供了新的亮点。” —
-> Phil Smee\[1\]
+> “我们的主要计划是在其他音乐家入选之前找到西德的声音，但我们偶然发现了一些引人注目的材料，这些材料为Syd的工作方法提供了新的亮点。” — Phil Smee\[1\]
 
 ## 设计和发行
 
-该套装包装在一个6 x 12英寸的长盒中，并且还包含一个24页的小册子。两首未公开的西德·巴雷特与平克·弗洛伊德合唱的歌曲《Scream Thy
-Last Scream》和《Vegetable Man》被Malcolm
-Jones重新混音\[2\]，并计划在《Opel》上发行，但他们被Pink
-Floyd拒绝发行。\[3\]
+该套装包装在一个6 x 12英寸的长盒中，并且还包含一个24页的小册子。两首未公开的西德·巴雷特与平克·弗洛伊德合唱的歌曲《Scream Thy Last Scream》和《Vegetable Man》被Malcolm Jones重新混音\[2\]，并计划在《Opel》上发行，但他们被Pink Floyd拒绝发行。\[3\]
 
 ## 标题
 
@@ -30,8 +23,7 @@ Floyd拒绝发行。\[3\]
 5.  "Dark Globe" – 2:02
 6.  "Here I Go" – 3:11
 7.  "Octopus" – 3:47
-8.  "Golden Hair" (西德·巴雷特和[詹姆斯·乔伊斯](../Page/詹姆斯·乔伊斯.md "wikilink")) –
-    1:59
+8.  "Golden Hair" (西德·巴雷特和[詹姆斯·乔伊斯](../Page/詹姆斯·乔伊斯.md "wikilink")) – 1:59
 9.  "Long Gone" – 2:50
 10. "She Took a Long Cold Look" – 1:55
 11. "Feel" – 2:17

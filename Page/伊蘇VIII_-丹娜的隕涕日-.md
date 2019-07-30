@@ -1,6 +1,4 @@
-由[Falcom開發](https://zh.wikipedia.org/wiki/Falcom "wikilink")，为[PlayStation
-4和](../Page/PlayStation_4.md "wikilink")[PlayStation
-Vita双平台](../Page/PlayStation_Vita.md "wikilink")\[1\]作品，PSV版2016年7月21日发售，PS4版于2017年5月25日发售。[Steam版于](../Page/Steam.md "wikilink")2018年4月17日发售。[任天堂Switch版本于](../Page/任天堂Switch.md "wikilink")2018年6月由[日本一发行](https://zh.wikipedia.org/wiki/日本一 "wikilink")。\[2\]本作获得「《[电击PlayStation](https://zh.wikipedia.org/wiki/电击PlayStation "wikilink")》Award2016」年度游戏第三名\[3\]。
+由[Falcom開發](https://zh.wikipedia.org/wiki/Falcom "wikilink")，为[PlayStation 4和](../Page/PlayStation_4.md "wikilink")[PlayStation Vita双平台](../Page/PlayStation_Vita.md "wikilink")\[1\]作品，PSV版2016年7月21日发售，PS4版于2017年5月25日发售。[Steam](../Page/Steam.md "wikilink")版于2018年4月17日发售。[任天堂Switch](../Page/任天堂Switch.md "wikilink")版本于2018年6月由[日本一发行](https://zh.wikipedia.org/wiki/日本一 "wikilink")。\[2\]本作获得「《[电击PlayStation](https://zh.wikipedia.org/wiki/电击PlayStation "wikilink")》Award2016」年度游戏第三名\[3\]。
 
 ## 故事
 
@@ -266,14 +264,8 @@ Vita双平台](../Page/PlayStation_Vita.md "wikilink")\[1\]作品，PSV版2016�
 
   -
   -
-[Category:伊苏系列](https://zh.wikipedia.org/wiki/Category:伊苏系列 "wikilink")
-[Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink")
-[Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink")
-[Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
+[Category:伊苏系列](https://zh.wikipedia.org/wiki/Category:伊苏系列 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
 
-1.  [『イースVIII -Lacrimosa of
-    DANA-』が2016年夏に発売決定！](http://www.famitsu.com/news/201512/16095462.html)
+1.  [『イースVIII -Lacrimosa of DANA-』が2016年夏に発売決定！](http://www.famitsu.com/news/201512/16095462.html)
 2.
-3.  [電撃PlayStation 2017年4/13号 Vol.635 雑誌
-    – 2017/3/30](https://www.amazon.co.jp/dp/B06XKKWSC8/)
+3.  [電撃PlayStation 2017年4/13号 Vol.635 雑誌 – 2017/3/30](https://www.amazon.co.jp/dp/B06XKKWSC8/)

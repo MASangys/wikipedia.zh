@@ -1,5 +1,4 @@
-《**A-Lin同名專輯**》
-是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[A-Lin個人第八張專輯](../Page/A-Lin.md "wikilink")，於2017年9月20日正式發行，一共收錄11首歌曲。這同時是A-Lin加入[台灣索尼音樂娛樂後發行的第二張專輯](../Page/台灣索尼音樂娛樂.md "wikilink")。
+《**A-Lin同名專輯**》 是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[A-Lin](../Page/A-Lin.md "wikilink")個人第八張專輯，於2017年9月20日正式發行，一共收錄11首歌曲。這同時是A-Lin加入[台灣索尼音樂娛樂](../Page/台灣索尼音樂娛樂.md "wikilink")後發行的第二張專輯。
 
 ## 曲目
 
@@ -109,6 +108,4 @@
 
 ## 參考資料
 
-[Category:黃麗玲音樂專輯](https://zh.wikipedia.org/wiki/Category:黃麗玲音樂專輯 "wikilink")
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
+[Category:黃麗玲音樂專輯](https://zh.wikipedia.org/wiki/Category:黃麗玲音樂專輯 "wikilink") [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")

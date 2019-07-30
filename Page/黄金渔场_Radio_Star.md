@@ -1,7 +1,4 @@
-《**黄金渔场 Radio Star**》（）亦称《**Radio
-Star**》（），是由2007年5月30日起开始在[MBC播出的综艺节目](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")，节目以“看得见的广播”的概念为主题，并通过电视播出至今。主持人分别被称为“DJ”，每次邀请艺人进行讨论。单独的受邀嘉宾一次最多4名，团体受邀嘉宾最多5名，最长的录制为三期。现在正在播出的综艺节目《》中的《Radio
-Star》栏目曾经一度被招牌栏目《》排挤，曾有被戏称为“5分钟编制”的耻辱，但2011年10月[姜虎东暂时中断活动](../Page/姜鎬童.md "wikilink")\[1\]后《》在2011年10月被同时废除，从2011年10月19日起《Radio
-Star》作为独立节目编排。
+《**黄金渔场 Radio Star**》（）亦称《**Radio Star**》（），是由2007年5月30日起开始在[MBC播出的综艺节目](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")，节目以“看得见的广播”的概念为主题，并通过电视播出至今。主持人分别被称为“DJ”，每次邀请艺人进行讨论。单独的受邀嘉宾一次最多4名，团体受邀嘉宾最多5名，最长的录制为三期。现在正在播出的综艺节目《》中的《Radio Star》栏目曾经一度被招牌栏目《》排挤，曾有被戏称为“5分钟编制”的耻辱，但2011年10月[姜虎东暂时中断活动](../Page/姜鎬童.md "wikilink")\[1\]后《》在2011年10月被同时废除，从2011年10月19日起《Radio Star》作为独立节目编排。
 
 2016年7月12日起将分拆《Radio Star》的演唱部分并通过播出。
 
@@ -9,32 +6,25 @@ Star》作为独立节目编排。
 
 ### 现任DJ (主持)
 
-  - [尹鍾信](../Page/尹鍾信.md "wikilink")（2007年5月30日 -
-    至今）(因專輯製作計劃出國，預計2019年10月離開節目。)
+  - [尹鍾信](../Page/尹鍾信.md "wikilink")（2007年5月30日 - 至今）(因專輯製作計劃出國，預計2019年10月離開節目。)
 
   - （2007年9月5日 - 至今）
 
-  - [金九拉](https://zh.wikipedia.org/wiki/金九拉 "wikilink")（2007年5月30日 -
-    2012年5月9日，2013年6月12日 - 至今）
+  - [金九拉](https://zh.wikipedia.org/wiki/金九拉 "wikilink")（2007年5月30日 - 2012年5月9日，2013年6月12日 - 至今）
 
   - [安英美](../Page/安英美.md "wikilink")（2019年6月26日 - 至今）
 
 ### 已退出DJ (主持)
 
-  - [神童](../Page/神童_\(藝人\).md "wikilink")（2007年6月6日 -
-    2007年8月29日）：筹备新专辑《[Don't
-    Don](../Page/Don't_Don.md "wikilink")》退出
+  - [神童](../Page/神童_\(藝人\).md "wikilink")（2007年6月6日 - 2007年8月29日）：筹备新专辑《[Don't Don](../Page/Don't_Don.md "wikilink")》退出
 
-  - （2007年5月30日 - 2010年9月15日）：因赴菲律宾[赌博事件退出](../Page/赌博.md "wikilink")
+  - （2007年5月30日 - 2010年9月15日）：因赴菲律宾[赌博](../Page/赌博.md "wikilink")事件退出
 
-  - [金希澈](../Page/希澈.md "wikilink")（2010年12月8日 -
-    2011年10月5日）：因服[兵役而退出](https://zh.wikipedia.org/wiki/兵役 "wikilink")（希澈是以的身分在部隊服役，屬於公益兵）
+  - [金希澈](../Page/希澈.md "wikilink")（2010年12月8日 - 2011年10月5日）：因服[兵役而退出](https://zh.wikipedia.org/wiki/兵役 "wikilink")（希澈是以的身分在部隊服役，屬於公益兵）
 
-  - [俞世潤](../Page/俞世潤.md "wikilink")（2011年12月7日 -
-    2013年6月5日）：因[酒驾事件而退出](https://zh.wikipedia.org/wiki/醉酒駕駛 "wikilink")
+  - [俞世潤](../Page/俞世潤.md "wikilink")（2011年12月7日 - 2013年6月5日）：因[酒驾事件而退出](https://zh.wikipedia.org/wiki/醉酒駕駛 "wikilink")
 
-  - [圭賢](../Page/圭賢.md "wikilink")（2011年10月19日 -
-    2017年5月31日\[2\]\[3\]）：因服[兵役而退出](https://zh.wikipedia.org/wiki/兵役 "wikilink")
+  - [圭賢](../Page/圭賢.md "wikilink")（2011年10月19日 - 2017年5月31日\[2\]\[3\]）：因服[兵役而退出](https://zh.wikipedia.org/wiki/兵役 "wikilink")
 
   - [車太鉉](../Page/車太鉉.md "wikilink")（2018年1月3日 - 2019年3月20日）：因高爾夫球賭博風坡退出
 
@@ -195,8 +185,7 @@ Star》作为独立节目编排。
 
 ## 播出列表
 
-以下是[MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《**黄金渔场
-Radio Star**》的播出列表。\[4\]
+以下是[MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《**黄金渔场 Radio Star**》的播出列表。\[4\]
 
 ### 2007年
 
@@ -667,7 +656,7 @@ Radio Star**》的播出列表。\[4\]
 <td><p>8月13日</p></td>
 <td><p>出气<br />
 （下）</p></td>
-<td><p>8月20日、8月27日停播（膝盖道士<a href="../Page/李德华.md" title="wikilink">李德华特辑编制</a>）。</p></td>
+<td><p>8月20日、8月27日停播（膝盖道士<a href="../Page/李德华.md" title="wikilink">李德华</a>特辑编制）。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -722,7 +711,7 @@ Radio Star**》的播出列表。\[4\]
 <td><p><a href="https://zh.wikipedia.org/wiki/金健模" title="wikilink">金健模</a>、<a href="../Page/玉珠鉉.md" title="wikilink">玉珠贤</a></p></td>
 <td><p>阵雨<br />
 （上）</p></td>
-<td><p>因膝盖道士<a href="../Page/Rain.md" title="wikilink">Rain特辑</a>，第二次“5分钟编制”编排。</p></td>
+<td><p>因膝盖道士<a href="../Page/Rain.md" title="wikilink">Rain</a>特辑，第二次“5分钟编制”编排。</p></td>
 </tr>
 <tr class="odd">
 <td><p>69</p></td>
@@ -1487,7 +1476,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="odd">
 <td><p>158</p></td>
 <td><p>10月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a> (<a href="https://zh.wikipedia.org/wiki/玉澤演" title="wikilink">玉泽演</a>、<a href="https://zh.wikipedia.org/wiki/張祐榮" title="wikilink">张祐荣</a>)、<a href="https://zh.wikipedia.org/wiki/miss_A" title="wikilink">miss A</a> (<a href="https://zh.wikipedia.org/wiki/李玟暎" title="wikilink">Min</a>、<a href="../Page/孟佳.md" title="wikilink">Jia</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a> (<a href="../Page/玉澤演.md" title="wikilink">玉泽演</a>、<a href="https://zh.wikipedia.org/wiki/張祐榮" title="wikilink">张祐荣</a>)、<a href="https://zh.wikipedia.org/wiki/miss_A" title="wikilink">miss A</a> (<a href="https://zh.wikipedia.org/wiki/李玟暎" title="wikilink">Min</a>、<a href="../Page/孟佳.md" title="wikilink">Jia</a>)</p></td>
 <td><p>偶像 VS 偶像<br />
 （上）</p></td>
 <td><p>特邀主持<a href="../Page/安胜浩.md" title="wikilink">Tony An</a></p></td>
@@ -1752,7 +1741,7 @@ Radio Star**》的播出列表。\[4\]
 <td><p>5月25日</p></td>
 <td><p>我爱摇滚！<br />
 （3）</p></td>
-<td><p>因《膝盖道士》<a href="../Page/廉晶雅.md" title="wikilink">廉晶雅篇</a>，最终出现延长到第3个10分的编制记录。</p></td>
+<td><p>因《膝盖道士》<a href="../Page/廉晶雅.md" title="wikilink">廉晶雅</a>篇，最终出现延长到第3个10分的编制记录。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2460,7 +2449,7 @@ Radio Star**》的播出列表。\[4\]
 <td><p>(<a href="https://zh.wikipedia.org/wiki/NRG" title="wikilink">NRG</a>)、<a href="https://zh.wikipedia.org/wiki/李在元" title="wikilink">李在元</a> (<a href="../Page/H.O.T..md" title="wikilink">H.O.T.</a>)、<a href="../Page/金在德.md" title="wikilink">金在德</a> (<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>)、<a href="../Page/安信源.md" title="wikilink">Danny安</a> (<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d</a>)</p></td>
 <td><p>长翎特辑（下）<br />
 (第1代偶像组合特辑（下）)</p></td>
-<td><p>音乐环节金在德舞台，水晶男孩出身的<a href="../Page/張水院.md" title="wikilink">張水院进行特别演出</a>。</p></td>
+<td><p>音乐环节金在德舞台，水晶男孩出身的<a href="../Page/張水院.md" title="wikilink">張水院</a>进行特别演出。</p></td>
 </tr>
 <tr class="even">
 <td><p>320</p></td>
@@ -2526,7 +2515,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="even">
 <td><p>328</p></td>
 <td><p>5月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a> (<a href="../Page/黃燦盛.md" title="wikilink">黄灿盛</a>、<a href="../Page/Nichkhun.md" title="wikilink">尼坤</a>、<a href="https://zh.wikipedia.org/wiki/玉澤演" title="wikilink">玉泽演</a>、<a href="https://zh.wikipedia.org/wiki/張祐榮" title="wikilink">张佑荣</a>、<a href="https://zh.wikipedia.org/wiki/金閔俊" title="wikilink">Jun.K</a>、<a href="https://zh.wikipedia.org/wiki/李俊昊" title="wikilink">李俊昊</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a> (<a href="../Page/黃燦盛.md" title="wikilink">黄灿盛</a>、<a href="../Page/Nichkhun.md" title="wikilink">尼坤</a>、<a href="../Page/玉澤演.md" title="wikilink">玉泽演</a>、<a href="https://zh.wikipedia.org/wiki/張祐榮" title="wikilink">张佑荣</a>、<a href="https://zh.wikipedia.org/wiki/金閔俊" title="wikilink">Jun.K</a>、<a href="https://zh.wikipedia.org/wiki/李俊昊" title="wikilink">李俊昊</a>)</p></td>
 <td><p>2PM回归特辑 - 2PM is Back</p></td>
 <td></td>
 </tr>
@@ -2832,7 +2821,7 @@ Radio Star**》的播出列表。\[4\]
 <td><p>3月5日</p></td>
 <td><p><a href="../Page/鄭容和.md" title="wikilink">郑容和</a>、<a href="../Page/姜敏赫.md" title="wikilink">姜敏赫</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫</a>、<a href="../Page/李正信.md" title="wikilink">李正信</a></p></td>
 <td><p>真的很好<br />
-(<a href="../Page/CNBLUE.md" title="wikilink">CNBLUE回归特辑</a>)</p></td>
+(<a href="../Page/CNBLUE.md" title="wikilink">CNBLUE</a>回归特辑)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2840,7 +2829,7 @@ Radio Star**》的播出列表。\[4\]
 <td><p>3月12日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">金泰妍</a>、<a href="https://zh.wikipedia.org/wiki/黃美英" title="wikilink">Tiffany</a>、<a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">Jessica</a>、<a href="https://zh.wikipedia.org/wiki/李純揆" title="wikilink">Sunny</a>、<a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">Yuri</a></p></td>
 <td><p>少女时代现在恋爱时代<br />
-(<a href="../Page/少女时代.md" title="wikilink">少女时代回归特辑</a>)</p></td>
+(<a href="../Page/少女时代.md" title="wikilink">少女时代</a>回归特辑)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3002,7 +2991,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="odd">
 <td><p>343</p></td>
 <td><p>8月27日</p></td>
-<td><p>、、、</p></td>
+<td><p>、、、<a href="../Page/DinDin.md" title="wikilink">DinDin</a></p></td>
 <td><p>不懂事的男人们特辑</p></td>
 <td></td>
 </tr>
@@ -3070,7 +3059,7 @@ Radio Star**》的播出列表。\[4\]
 <td><p>10月29日</p></td>
 <td><p>、、、 ()</p></td>
 <td><p>因为是柳在夏特辑<br />
-(<a href="../Page/柳在夏.md" title="wikilink">柳在夏追悼</a>27周年特辑)</p></td>
+(<a href="../Page/柳在夏.md" title="wikilink">柳在夏</a>追悼27周年特辑)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3229,7 +3218,7 @@ Radio Star**》的播出列表。\[4\]
 <td><p>3月18日</p></td>
 <td><p><a href="../Page/金志映_(1974年).md" title="wikilink">金智英</a>、<a href="../Page/強藝元.md" title="wikilink">姜艺媛</a>、<a href="../Page/朴河宣.md" title="wikilink">朴河宣</a>、<a href="../Page/安英美.md" title="wikilink">安英美</a></p></td>
 <td><p>“当兵的滋味你们懂吗？”特辑<br />
-(<a href="../Page/真正的男人.md" title="wikilink">真正的男人第二季女兵特辑</a>)</p></td>
+(<a href="../Page/真正的男人.md" title="wikilink">真正的男人</a>第二季女兵特辑)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3319,7 +3308,7 @@ Radio Star**》的播出列表。\[4\]
 <td><p><a href="../Page/玉珠鉉.md" title="wikilink">玉珠铉</a>、<a href="https://zh.wikipedia.org/wiki/李志勳" title="wikilink">李志勋</a>、<a href="../Page/申成祿.md" title="wikilink">申盛禄</a>、</p></td>
 <td><p>音乐剧明星特辑“duruchigi 四人份”<br />
 (音乐剧《伊丽莎白》特辑)</p></td>
-<td><p>因<a href="../Page/圭賢.md" title="wikilink">圭贤日本行程的关系</a>，特邀客座主持人<a href="../Page/SHINee.md" title="wikilink">SHINee成员</a><a href="https://zh.wikipedia.org/wiki/崔珉豪" title="wikilink">珉豪进行了主持</a>。</p></td>
+<td><p>因<a href="../Page/圭賢.md" title="wikilink">圭贤日本行程的关系</a>，特邀客座主持人<a href="../Page/SHINee.md" title="wikilink">SHINee</a>成员<a href="https://zh.wikipedia.org/wiki/崔珉豪" title="wikilink">珉豪进行了主持</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>384</p></td>
@@ -3347,7 +3336,7 @@ Radio Star**》的播出列表。\[4\]
 <td><p>7月8日</p></td>
 <td><p><a href="../Page/朴孝珠.md" title="wikilink">朴孝珠</a>、、<a href="../Page/河在淑.md" title="wikilink">河在淑</a>、</p></td>
 <td><p>“Thene stealer！只看得到你啊~”特辑</p></td>
-<td><p>因<a href="../Page/圭賢.md" title="wikilink">圭贤海外演出行程的关系</a>，特邀客座主持人演员<a href="../Page/尹博.md" title="wikilink">尹博进行了主持</a>。</p></td>
+<td><p>因<a href="../Page/圭賢.md" title="wikilink">圭贤海外演出行程的关系</a>，特邀客座主持人演员<a href="../Page/尹博.md" title="wikilink">尹博</a>进行了主持。</p></td>
 </tr>
 <tr class="even">
 <td><p>388</p></td>
@@ -3461,7 +3450,7 @@ Radio Star**》的播出列表。\[4\]
 <td><p>10月28日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/申升勋" title="wikilink">申升勋</a>、<a href="https://zh.wikipedia.org/wiki/李鉉宇" title="wikilink">李贤宇</a>、<a href="https://zh.wikipedia.org/wiki/K.Will" title="wikilink">K.Will</a></p></td>
 <td><p>《抒情歌终究会回来的》特辑</p></td>
-<td><p>在音乐特别环节《蒙面“申升勋”歌王》中，“Radio Star的棉花糖”、“拥抱太阳的升勋向日葵”<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND成员</a><a href="../Page/Yuju.md" title="wikilink">俞宙进行了特别演出</a>。</p></td>
+<td><p>在音乐特别环节《蒙面“申升勋”歌王》中，“Radio Star的棉花糖”、“拥抱太阳的升勋向日葵”<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>成员<a href="../Page/Yuju.md" title="wikilink">俞宙进行了特别演出</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>404</p></td>
@@ -3754,7 +3743,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="odd">
 <td><p>442</p></td>
 <td><p>8月24日</p></td>
-<td><p><a href="../Page/金秀路.md" title="wikilink">金秀路</a>、<a href="../Page/金旻鍾.md" title="wikilink">金民钟</a>、<a href="../Page/李漢偉.md" title="wikilink">李漢偉</a>、、<a href="../Page/YooA.md" title="wikilink">YooA</a> (<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>)</p></td>
+<td><p><a href="../Page/金秀路.md" title="wikilink">金秀路</a>、<a href="../Page/金旻鍾.md" title="wikilink">金旻鍾</a>、<a href="../Page/李漢偉.md" title="wikilink">李漢偉</a>、、<a href="../Page/YooA.md" title="wikilink">YooA</a> (<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>)</p></td>
 <td><p>“生存到最后吧，宣传行！”特辑</p></td>
 <td></td>
 </tr>
@@ -3768,14 +3757,14 @@ Radio Star**》的播出列表。\[4\]
 <tr class="odd">
 <td><p>444</p></td>
 <td><p>9月7日</p></td>
-<td><p><a href="../Page/李施彥.md" title="wikilink">李时言</a>、、<a href="https://zh.wikipedia.org/wiki/郑海均" title="wikilink">郑海均</a>、</p></td>
+<td><p><a href="../Page/李施彥.md" title="wikilink">李施彥</a>、、<a href="https://zh.wikipedia.org/wiki/郑海均" title="wikilink">郑海均</a>、</p></td>
 <td><p>“名品配角地区 - 没有主演”特辑</p></td>
-<td><p>圭贤因声带结节问题，特邀主持<a href="../Page/梁世炯.md" title="wikilink">梁世炯进行客串主持</a>。</p></td>
+<td><p>圭贤因声带结节问题，特邀主持<a href="../Page/梁世炯.md" title="wikilink">梁世炯</a>进行客串主持。</p></td>
 </tr>
 <tr class="even">
 <td><p>445</p></td>
 <td><p>9月14日</p></td>
-<td><p>、<a href="https://zh.wikipedia.org/wiki/文世允" title="wikilink">文世允</a>、、、<a href="../Page/李秀智.md" title="wikilink">李秀智</a></p></td>
+<td><p>、<a href="https://zh.wikipedia.org/wiki/文世润" title="wikilink">文世润</a>、、、<a href="../Page/李秀智.md" title="wikilink">李秀智</a></p></td>
 <td><p>“任意吃撑”特辑</p></td>
 <td></td>
 </tr>
@@ -3791,7 +3780,7 @@ Radio Star**》的播出列表。\[4\]
 <td><p>9月28日</p></td>
 <td><p><a href="../Page/孙佳人.md" title="wikilink">佳仁</a> (<a href="../Page/Brown_Eyed_Girls.md" title="wikilink">Brown Eyed Girls</a>)、、、<a href="https://zh.wikipedia.org/wiki/颂乐" title="wikilink">颂乐</a> (<a href="../Page/Mamamoo.md" title="wikilink">Mamamoo</a>)</p></td>
 <td><p>“Girl Crush诱发者们”特辑</p></td>
-<td><p>圭贤因声带结节问题，特邀主持<a href="../Page/BTOB.md" title="wikilink">BTOB成员</a><a href="../Page/陸星材.md" title="wikilink">陆星材进行客串主持</a>。</p></td>
+<td><p>圭贤因声带结节问题，特邀主持<a href="../Page/BTOB.md" title="wikilink">BTOB</a>成员<a href="../Page/陸星材.md" title="wikilink">陆星材进行客串主持</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>448</p></td>
@@ -3817,14 +3806,14 @@ Radio Star**》的播出列表。\[4\]
 <tr class="even">
 <td><p>451</p></td>
 <td><p>11月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴俊亨" title="wikilink">朴俊亨</a>、<a href="../Page/朴載範.md" title="wikilink">朴宰范</a>、<a href="https://zh.wikipedia.org/wiki/Sleepy" title="wikilink">Sleepy</a>、<a href="../Page/李國主.md" title="wikilink">李國主</a></p></td>
+<td><p><a href="../Page/朴俊炯.md" title="wikilink">朴俊炯</a>、<a href="../Page/朴載範.md" title="wikilink">朴宰范</a>、<a href="https://zh.wikipedia.org/wiki/Sleepy" title="wikilink">Sleepy</a>、<a href="../Page/李國主.md" title="wikilink">李國主</a></p></td>
 <td><p>“脸红的五春期”特辑</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>452</p></td>
 <td><p>11月9日</p></td>
-<td><p><a href="../Page/希澈.md" title="wikilink">金希澈</a> (<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>)、<a href="https://zh.wikipedia.org/wiki/李秀根" title="wikilink">李秀根</a>、<a href="https://zh.wikipedia.org/wiki/刘世允" title="wikilink">刘世允</a>、</p></td>
+<td><p><a href="../Page/希澈.md" title="wikilink">金希澈</a> (<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>)、<a href="../Page/李壽根.md" title="wikilink">李壽根</a>、<a href="../Page/俞世潤.md" title="wikilink">俞世潤</a>、</p></td>
 <td><p>“不知不觉到了第500集！周三夜晚的奇迹”特辑</p></td>
 <td><p>录制中期歌手<a href="https://zh.wikipedia.org/wiki/韩东根" title="wikilink">韩东根特别演出</a>。</p></td>
 </tr>
@@ -3903,7 +3892,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="even">
 <td><p>509</p></td>
 <td><p>1月11日</p></td>
-<td><p><a href="../Page/BewhY.md" title="wikilink">BewhY</a>、<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a> (<a href="../Page/金智秀_(歌手).md" title="wikilink">Jisoo</a>、<a href="../Page/Rosé_(韓國歌手).md" title="wikilink">Rosé</a>)、、</p></td>
+<td><p><a href="../Page/BewhY.md" title="wikilink">BewhY</a>、<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a> (<a href="../Page/金智秀_(歌手).md" title="wikilink">Jisoo</a>、<a href="../Page/Rosé_(韓國歌手).md" title="wikilink">Rosé</a>)、<a href="../Page/DinDin.md" title="wikilink">DinDin</a>、</p></td>
 <td><p>“谁都能认出怪物！”特辑</p></td>
 <td></td>
 </tr>
@@ -4010,7 +3999,7 @@ Radio Star**》的播出列表。\[4\]
 <td><p>4月26日</p></td>
 <td><p><a href="../Page/金惠恩.md" title="wikilink">金惠恩</a>、<a href="../Page/金成均.md" title="wikilink">金成均</a>、<a href="../Page/趙宇鎮.md" title="wikilink">趙宇鎮</a>、</p></td>
 <td><p>“很牛掰嘛~钟武路疯狂存在（甲）”特辑</p></td>
-<td><p>录制中期<a href="../Page/李聖旻.md" title="wikilink">李聖旻特别出演</a>。</p></td>
+<td><p>录制中期<a href="../Page/李聖旻.md" title="wikilink">李聖旻</a>特别出演。</p></td>
 </tr>
 <tr class="even">
 <td><p>525</p></td>
@@ -4031,7 +4020,7 @@ Radio Star**》的播出列表。\[4\]
 <td><p>5月17日</p></td>
 <td><p><a href="../Page/PSY.md" title="wikilink">PSY</a>、<a href="../Page/金範洙.md" title="wikilink">金範洙</a>、<a href="../Page/Zion.T.md" title="wikilink">Zion.T</a></p></td>
 <td><p>“音乐的完成靠脸”特辑</p></td>
-<td><p><a href="../Page/姜昇潤.md" title="wikilink">姜昇潤擔任特别主持</a>。</p></td>
+<td><p><a href="../Page/姜昇潤.md" title="wikilink">姜昇潤</a>擔任特别主持。</p></td>
 </tr>
 <tr class="odd">
 <td><p>528</p></td>
@@ -4043,9 +4032,9 @@ Radio Star**》的播出列表。\[4\]
 <tr class="even">
 <td><p>529</p></td>
 <td><p>5月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金俊镐" title="wikilink">金俊镐</a>、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>、<a href="../Page/朴素賢.md" title="wikilink">朴素賢</a>、<a href="../Page/Haha.md" title="wikilink">Haha</a></p></td>
+<td><p><a href="../Page/金俊昊.md" title="wikilink">金俊昊</a>、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>、<a href="../Page/朴素賢.md" title="wikilink">朴素賢</a>、<a href="../Page/Haha.md" title="wikilink">Haha</a></p></td>
 <td><p>“RS10 周年！Sure~Why not？”特辑</p></td>
-<td><p>此期放送结尾<a href="../Page/圭賢.md" title="wikilink">圭賢正式退出主持</a>。</p></td>
+<td><p>此期放送结尾<a href="../Page/圭賢.md" title="wikilink">圭賢</a>正式退出主持。</p></td>
 </tr>
 <tr class="odd">
 <td><p>530</p></td>
@@ -4059,14 +4048,14 @@ Radio Star**》的播出列表。\[4\]
 <td><p>6月14日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尹民秀" title="wikilink">尹民秀</a>、<a href="../Page/李碩薰.md" title="wikilink">李碩薰</a>、<a href="https://zh.wikipedia.org/wiki/約翰·安德魯·朴" title="wikilink">John Park</a>、<a href="https://zh.wikipedia.org/wiki/高在根" title="wikilink">高在根</a></p></td>
 <td><p>“掉进蜜糖里的嗓音”特辑</p></td>
-<td><p><a href="../Page/鄭俊英.md" title="wikilink">鄭俊英擔任特别主持</a>。</p></td>
+<td><p><a href="../Page/鄭俊英.md" title="wikilink">鄭俊英</a>擔任特别主持。</p></td>
 </tr>
 <tr class="odd">
 <td><p>532</p></td>
 <td><p>6月21日</p></td>
 <td><p><a href="../Page/李素拉.md" title="wikilink">李素拉</a>、、<a href="https://zh.wikipedia.org/wiki/韩惠珍_(模特)" title="wikilink">韩惠珍</a>、<a href="../Page/Yura.md" title="wikilink">Yura</a> (<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>)</p></td>
 <td><p>“Good Girl~Good Body~！”特辑</p></td>
-<td><p><a href="../Page/金聖圭.md" title="wikilink">金聖圭擔任特别主持</a>。</p></td>
+<td><p><a href="../Page/金聖圭.md" title="wikilink">金聖圭</a>擔任特别主持。</p></td>
 </tr>
 <tr class="even">
 <td><p>533</p></td>
@@ -4080,14 +4069,14 @@ Radio Star**》的播出列表。\[4\]
 <td><p>7月5日</p></td>
 <td><p><a href="../Page/李孝利.md" title="wikilink">李孝利</a>、、<a href="https://zh.wikipedia.org/wiki/嘉熙_(歌手)" title="wikilink">嘉熙</a>、<a href="https://zh.wikipedia.org/wiki/朴孝珍" title="wikilink">Narsha</a> (<a href="../Page/Brown_Eyed_Girls.md" title="wikilink">Brown Eyed Girls</a>)</p></td>
 <td><p>“Boss姐妹~传说的姐姐们！”特辑</p></td>
-<td><p><a href="../Page/黃致列.md" title="wikilink">黃致列擔任特别主持</a>。</p></td>
+<td><p><a href="../Page/黃致列.md" title="wikilink">黃致列</a>擔任特别主持。</p></td>
 </tr>
 <tr class="even">
 <td><p>535</p></td>
 <td><p>7月12日</p></td>
 <td><p><a href="../Page/崔民秀.md" title="wikilink">崔民秀</a>、<a href="https://zh.wikipedia.org/wiki/赵泰宽" title="wikilink">赵泰宽</a>、<a href="../Page/李昭娟.md" title="wikilink">李昭娟</a>、<a href="https://zh.wikipedia.org/wiki/黃承言" title="wikilink">黃承言</a></p></td>
 <td><p>“RS，在颤抖吗？”特辑</p></td>
-<td><p><a href="../Page/李洪基.md" title="wikilink">李洪基擔任特别主持</a>。</p></td>
+<td><p><a href="../Page/李洪基.md" title="wikilink">李洪基</a>擔任特别主持。</p></td>
 </tr>
 <tr class="odd">
 <td><p>536</p></td>
@@ -4101,7 +4090,7 @@ Radio Star**》的播出列表。\[4\]
 <td><p>7月26日</p></td>
 <td><p><a href="../Page/朴海美.md" title="wikilink">朴海美</a>、<a href="../Page/鄭埻夏.md" title="wikilink">鄭埻夏</a>、<a href="../Page/徐敏貞.md" title="wikilink">徐敏貞</a></p></td>
 <td><p>“High Kick，第二波逆袭！再一次OK？”特辑</p></td>
-<td><p><a href="../Page/銀赫.md" title="wikilink">銀赫擔任特别主持</a>。</p></td>
+<td><p><a href="../Page/銀赫.md" title="wikilink">銀赫</a>擔任特别主持。</p></td>
 </tr>
 <tr class="odd">
 <td><p>538</p></td>
@@ -4122,21 +4111,21 @@ Radio Star**》的播出列表。\[4\]
 <td><p>8月16日</p></td>
 <td><p><a href="../Page/劉俊相.md" title="wikilink">劉俊相</a>、、<a href="../Page/車智妍.md" title="wikilink">車智妍</a>、</p></td>
 <td><p>“高音满级！以呐喊为生的人们”特辑</p></td>
-<td><p><a href="../Page/振永.md" title="wikilink">振永擔任特别主持</a>。</p></td>
+<td><p><a href="../Page/振永.md" title="wikilink">振永</a>擔任特别主持。</p></td>
 </tr>
 <tr class="even">
 <td><p>541</p></td>
 <td><p>8月23日</p></td>
 <td><p><a href="../Page/白智榮.md" title="wikilink">白智榮</a>、、、</p></td>
 <td><p>“跟着朋友来〈RS〉”特辑</p></td>
-<td><p><a href="../Page/柳炳宰.md" title="wikilink">柳炳宰擔任特别主持</a>。</p></td>
+<td><p><a href="../Page/柳炳宰.md" title="wikilink">柳炳宰</a>擔任特别主持。</p></td>
 </tr>
 <tr class="odd">
 <td><p>542</p></td>
 <td><p>8月30日</p></td>
 <td><p><a href="../Page/趙敏基.md" title="wikilink">趙敏基</a>、、<a href="../Page/金應洙.md" title="wikilink">金應洙</a>、</p></td>
 <td><p>“在盐田里 呼喊YOLO”特辑</p></td>
-<td><p><a href="../Page/金智勳.md" title="wikilink">金智勳擔任特别主持</a>。</p></td>
+<td><p><a href="../Page/金智勳.md" title="wikilink">金智勳</a>擔任特别主持。</p></td>
 </tr>
 <tr class="even">
 <td><p>MBC罢工期间，节目暂停放送10周。</p></td>
@@ -4157,7 +4146,7 @@ Radio Star**》的播出列表。\[4\]
 <td><p>11月22日</p></td>
 <td><p>、<a href="../Page/姜均成.md" title="wikilink">姜均成</a>、、</p></td>
 <td><p>“祈祷 祈祷 祝愿顺利播出”特輯</p></td>
-<td><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉擔任特别主持</a>。</p></td>
+<td><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>擔任特别主持。</p></td>
 </tr>
 <tr class="odd">
 <td><p>545</p></td>
@@ -4178,21 +4167,21 @@ Radio Star**》的播出列表。\[4\]
 <td><p>12月13日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/韶宥" title="wikilink">韶宥</a>、<a href="../Page/Eric_Nam.md" title="wikilink">Eric Nam</a>、<a href="../Page/金桐俊.md" title="wikilink">金桐俊</a> (<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>)、<a href="https://zh.wikipedia.org/wiki/金浩英" title="wikilink">金浩英</a></p></td>
 <td><p>“不是你 是你的朋友”特辑</p></td>
-<td><p><a href="../Page/梁世燦.md" title="wikilink">梁世燦担任特别主持</a>。</p></td>
+<td><p><a href="../Page/梁世燦.md" title="wikilink">梁世燦</a>担任特别主持。</p></td>
 </tr>
 <tr class="even">
 <td><p>548</p></td>
 <td><p>12月20日</p></td>
 <td><p><a href="../Page/李文世.md" title="wikilink">李文世</a>、<a href="../Page/李笛.md" title="wikilink">李笛</a>、<a href="../Page/Zion.T.md" title="wikilink">Zion.T</a>、</p></td>
 <td><p>“谁在我耳边涂蜂蜜了吗？”特辑</p></td>
-<td><p>担任特别主持。</p></td>
+<td><p><a href="../Page/DinDin.md" title="wikilink">DinDin</a>担任特别主持。</p></td>
 </tr>
 <tr class="odd">
 <td><p>549</p></td>
 <td><p>12月27日</p></td>
 <td><p>、<a href="../Page/JooE.md" title="wikilink">JooE</a> (<a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND</a>)、、<a href="../Page/權玄彬.md" title="wikilink">權玄彬</a> (<a href="../Page/JBJ.md" title="wikilink">JBJ</a>)、<a href="https://zh.wikipedia.org/wiki/洪錫天" title="wikilink">洪錫天</a></p></td>
 <td><p>“2018走起~！”特辑</p></td>
-<td><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉担任特别主持</a></p></td>
+<td><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>担任特别主持</p></td>
 </tr>
 </tbody>
 </table>
@@ -4270,7 +4259,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="odd">
 <td><p>558</p></td>
 <td><p>3月7日</p></td>
-<td><p><a href="../Page/森姆·汗明頓.md" title="wikilink">森姆·汗明頓</a>、<a href="https://zh.wikipedia.org/wiki/N_(韓國歌手)" title="wikilink">N</a> (<a href="../Page/VIXX.md" title="wikilink">VIXX</a>)、、</p></td>
+<td><p><a href="../Page/森姆·汗明頓.md" title="wikilink">森姆·汗明頓</a>、<a href="https://zh.wikipedia.org/wiki/N_(韓國歌手)" title="wikilink">N</a> (<a href="../Page/VIXX.md" title="wikilink">VIXX</a>)、、<a href="https://zh.wikipedia.org/wiki/Sam_Okyere" title="wikilink">Sam Okyere</a></p></td>
 <td><p>“Sam N Sams”特辑</p></td>
 <td></td>
 </tr>
@@ -4529,7 +4518,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="even">
 <td><p>595</p></td>
 <td><p>12月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/張允珠" title="wikilink">張允珠</a>、金元中、<a href="../Page/洪真英.md" title="wikilink">洪真英</a>、</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張允珠" title="wikilink">張允珠</a>、金元中、<a href="../Page/洪真英.md" title="wikilink">洪真英</a>、<a href="../Page/DinDin.md" title="wikilink">DinDin</a></p></td>
 <td><p>“以兴致火起来了”特辑</p></td>
 <td></td>
 </tr>
@@ -4666,21 +4655,21 @@ Radio Star**》的播出列表。\[4\]
 <td><p>4月10日</p></td>
 <td><p>、<a href="../Page/CHEN_(EXO).md" title="wikilink">Chen</a>（<a href="../Page/EXO.md" title="wikilink">EXO</a>）、</p></td>
 <td><p>“这里是我的地盘哎?”特辑</p></td>
-<td><p><a href="../Page/Haha.md" title="wikilink">Haha擔任特别主持</a>。部分被剪辑。</p></td>
+<td><p><a href="../Page/Haha.md" title="wikilink">Haha</a>擔任特别主持。部分被剪辑。</p></td>
 </tr>
 <tr class="even">
 <td><p>613</p></td>
 <td><p>4月17日</p></td>
 <td><p>、、、<a href="../Page/林遥焕.md" title="wikilink">林遥焕</a></p></td>
 <td><p>“我家有艺人”特辑</p></td>
-<td><p><a href="../Page/梁世炯.md" title="wikilink">梁世炯擔任特别主持</a>。</p></td>
+<td><p><a href="../Page/梁世炯.md" title="wikilink">梁世炯</a>擔任特别主持。</p></td>
 </tr>
 <tr class="odd">
 <td><p>614</p></td>
 <td><p>4月24日</p></td>
 <td><p><a href="../Page/邊宇民.md" title="wikilink">邊宇民</a>、<a href="../Page/姜其永.md" title="wikilink">姜其永</a>、<a href="../Page/李現填.md" title="wikilink">李現填</a>、</p></td>
 <td><p>“神秘的演员词典”特辑</p></td>
-<td><p><a href="../Page/許卿煥.md" title="wikilink">許卿煥擔任特别主持</a>。</p></td>
+<td><p><a href="../Page/許卿煥.md" title="wikilink">許卿煥</a>擔任特别主持。</p></td>
 </tr>
 <tr class="even">
 <td><p>615</p></td>
@@ -4708,14 +4697,14 @@ Radio Star**》的播出列表。\[4\]
 <td><p>5月22日</p></td>
 <td><p>(<a href="../Page/Jinusean.md" title="wikilink">Jinusean</a>)、、、</p></td>
 <td><p>“多孩市 多孩区 多孩洞”特辑</p></td>
-<td><p>擔任特别主持。</p></td>
+<td><p><a href="../Page/DinDin.md" title="wikilink">DinDin</a>擔任特别主持。</p></td>
 </tr>
 <tr class="even">
 <td><p>619</p></td>
 <td><p>5月29日</p></td>
 <td><p>、、、<a href="../Page/孫賢祐.md" title="wikilink">Shownu</a> (<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>)</p></td>
 <td><p>“火热的家伙们”特辑</p></td>
-<td><p><a href="../Page/安英美.md" title="wikilink">安英美擔任特别主持</a>。</p></td>
+<td><p><a href="../Page/安英美.md" title="wikilink">安英美</a>擔任特别主持。</p></td>
 </tr>
 <tr class="odd">
 <td><p>620</p></td>
@@ -4744,6 +4733,27 @@ Radio Star**》的播出列表。\[4\]
 <td><p>、<a href="https://zh.wikipedia.org/wiki/金浩英" title="wikilink">金浩英</a>、<a href="../Page/苞娜.md" title="wikilink">苞娜</a> (<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a>) 、</p></td>
 <td><p>“黄金统领奖”特輯</p></td>
 <td><p>自此期起，安英美作为正式主持加入节目。</p></td>
+</tr>
+<tr class="odd">
+<td><p>624</p></td>
+<td><p>7月3日</p></td>
+<td><p>、、 、、</p></td>
+<td><p>“I Love U-20”特輯</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>625</p></td>
+<td><p>7月10日</p></td>
+<td><p><a href="../Page/金成鈴.md" title="wikilink">金成鈴</a> 、、<a href="../Page/金炳賢.md" title="wikilink">金炳賢</a> 、<a href="../Page/南昶熙.md" title="wikilink">南昶熙</a></p></td>
+<td><p>“向你展现截然不同的我”特輯</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>626</p></td>
+<td><p>7月17日</p></td>
+<td><p><a href="../Page/韓智慧.md" title="wikilink">韓智慧</a> 、<a href="../Page/李尚禹.md" title="wikilink">李尚禹</a>、<a href="../Page/吳知恩.md" title="wikilink">吳知恩</a> 、<a href="../Page/李太成.md" title="wikilink">李太成</a></p></td>
+<td><p>“周末小偷”特輯</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -6687,8 +6697,7 @@ Radio Star**》的播出列表。\[4\]
   - 3月31日：因海军在[西海哨戒舰沉没事件而停播](../Page/天安号沉没事件.md "wikilink")
   - 4月14日 - 5月12日：由于工会罢工停播(特别取代)
   - 6月2日：因播出第5届地方选举开票节目停播
-  - 12月29日：因转播2010
-    [MBC演艺大赏停播](https://zh.wikipedia.org/wiki/MBC演艺大赏 "wikilink")
+  - 12月29日：因转播2010 [MBC演艺大赏停播](https://zh.wikipedia.org/wiki/MBC演艺大赏 "wikilink")
 
 ### 2011年
 
@@ -6708,16 +6717,15 @@ Radio Star**》的播出列表。\[4\]
 
 ### 2013年
 
-  - 8月14日：因转播国家代表足球比赛热身赛[韩国VS](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[秘鲁停播](../Page/秘鲁.md "wikilink")
+  - 8月14日：因转播国家代表足球比赛热身赛[韩国VS](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[秘鲁](../Page/秘鲁.md "wikilink")停播
 
 ### 2014年
 
-  - 2月12日 -
-    2月19日：因转播[2014索契冬季奥运会停播两期](https://zh.wikipedia.org/wiki/2014年冬季奥林匹克运动会 "wikilink")
+  - 2月12日 - 2月19日：因转播[2014索契冬季奥运会停播两期](https://zh.wikipedia.org/wiki/2014年冬季奥林匹克运动会 "wikilink")
   - 4月16日：因得到岁月号客船沉没的消息而停播
   - 4月23日：因播出MBC特别访谈节目“正确坚持原则的社会，怎么做呢？”停播
   - 6月4日：因播出选择2014停播
-  - 12月31日：因转播2014 [MBC歌謠大祭典节目停播](../Page/MBC歌謠大祭典.md "wikilink")
+  - 12月31日：因转播2014 [MBC歌謠大祭典](../Page/MBC歌謠大祭典.md "wikilink")节目停播
 
 ### 2016年
 
@@ -6756,14 +6764,11 @@ Radio Star**》的播出列表。\[4\]
 
 ## 外部链接
 
-  - [黄金渔场](http://www.imbc.com/broad/tv/ent/goldfish/info/index.html) -
-    官方网站
+  - [黄金渔场](http://www.imbc.com/broad/tv/ent/goldfish/info/index.html) - 官方网站
 
   -
   -
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:正在播放的电视节目](https://zh.wikipedia.org/wiki/Category:正在播放的电视节目 "wikilink")
-[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink")
+[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:正在播放的电视节目](https://zh.wikipedia.org/wiki/Category:正在播放的电视节目 "wikilink") [Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink")
 
 1.
 2.
@@ -6771,5 +6776,4 @@ Radio Star**》的播出列表。\[4\]
 4.
 5.
 6.  [TNmS收视数据表](http://www.tnms.tv/rating/default.asp)
-7.  [AGB Nielsen Media
-    Research收视数据表](http://www.agbnielsen.co.kr/index.asp?ref=0)
+7.  [AGB Nielsen Media Research收视数据表](http://www.agbnielsen.co.kr/index.asp?ref=0)

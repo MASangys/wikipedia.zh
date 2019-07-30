@@ -1,4 +1,4 @@
-下表比较了[HTML5](../Page/HTML5.md "wikilink")[画布元素对绘图](../Page/Canvas_\(HTML元素\).md "wikilink")[API的支持及网页浏览器的原生支持程度](https://zh.wikipedia.org/wiki/API "wikilink")，无任何[插件](../Page/插件.md "wikilink")、附加组件或[ECMAScript工作区](../Page/ECMAScript.md "wikilink")。
+下表比较了[HTML5](../Page/HTML5.md "wikilink")[画布元素对绘图](../Page/Canvas_\(HTML元素\).md "wikilink")[API的支持及网页浏览器的原生支持程度](https://zh.wikipedia.org/wiki/API "wikilink")，无任何[插件](../Page/插件.md "wikilink")、附加组件或[ECMAScript](../Page/ECMAScript.md "wikilink")工作区。
 
 ## 画布功能
 
@@ -502,11 +502,11 @@
 
 ### [Trident参考](https://zh.wikipedia.org/wiki/Trident "wikilink")
 
-### [Gecko参考](../Page/Gecko.md "wikilink")
+### [Gecko](../Page/Gecko.md "wikilink")参考
 
 ### [Webkit参考](https://zh.wikipedia.org/wiki/Webkit "wikilink")
 
-### [Presto参考](../Page/Presto.md "wikilink")
+### [Presto](../Page/Presto.md "wikilink")参考
 
 ### 其他参考
 
@@ -515,8 +515,7 @@
   -
 {{-}}
 
-[Category:HTML5](https://zh.wikipedia.org/wiki/Category:HTML5 "wikilink")
-[Category:排版引擎比较](https://zh.wikipedia.org/wiki/Category:排版引擎比较 "wikilink")
+[Category:HTML5](https://zh.wikipedia.org/wiki/Category:HTML5 "wikilink") [Category:排版引擎比较](https://zh.wikipedia.org/wiki/Category:排版引擎比较 "wikilink")
 
 1.  <https://developer.mozilla.org/en/HTML/Element/canvas>
 

@@ -32,7 +32,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="../Page/霹靂布袋戲.md" title="wikilink">霹靂布袋戲作品年表</a></p></th>
+<th><p><a href="../Page/霹靂布袋戲.md" title="wikilink">霹靂布袋戲</a>作品年表</p></th>
 </tr>
 </thead>
 <tbody>

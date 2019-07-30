@@ -1,9 +1,4 @@
-[Asus_zenfone_zoom's_back.jpg](https://zh.wikipedia.org/wiki/File:Asus_zenfone_zoom's_back.jpg "fig:Asus_zenfone_zoom's_back.jpg")
-**ASUS ZenFone
-Zoom**是[華碩於](../Page/華碩.md "wikilink")2015年1月6日在[CES展](https://zh.wikipedia.org/wiki/CES "wikilink")\[1\]發表的光學變焦手機，搭載[Android](../Page/Android.md "wikilink")
-5.0、[64位元](../Page/64位元.md "wikilink") 2.5Ghz
-四核心處理器，是[ZenFone系列中首款以相機為重點的手機](https://zh.wikipedia.org/wiki/ASUS_ZenFone "wikilink")。搭載三倍光學變焦和四倍數位變焦，(合計為12倍)為全球第一台最薄的變焦手機。\[2\]
-[缩略图](https://zh.wikipedia.org/wiki/File:Asus_zen_fone_zoom-蓮葉.jpg "fig:缩略图")
+[Asus_zenfone_zoom's_back.jpg](https://zh.wikipedia.org/wiki/File:Asus_zenfone_zoom's_back.jpg "fig:Asus_zenfone_zoom's_back.jpg") **ASUS ZenFone Zoom**是[華碩](../Page/華碩.md "wikilink")於2015年1月6日在[CES展](https://zh.wikipedia.org/wiki/CES "wikilink")\[1\]發表的光學變焦手機，搭載[Android](../Page/Android.md "wikilink") 5.0、[64位元](../Page/64位元.md "wikilink") 2.5Ghz 四核心處理器，是[ZenFone系列中首款以相機為重點的手機](https://zh.wikipedia.org/wiki/ASUS_ZenFone "wikilink")。搭載三倍光學變焦和四倍數位變焦，(合計為12倍)為全球第一台最薄的變焦手機。\[2\] [缩略图](https://zh.wikipedia.org/wiki/File:Asus_zen_fone_zoom-蓮葉.jpg "fig:缩略图")
 
 ## 詳細規格
 
@@ -107,12 +102,7 @@ Zoom**是[華碩於](../Page/華碩.md "wikilink")2015年1月6日在[CES展](htt
 
 ## 外部連結
 
-[Category:華碩手機](https://zh.wikipedia.org/wiki/Category:華碩手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
+[Category:華碩手機](https://zh.wikipedia.org/wiki/Category:華碩手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
 
-1.  [華碩CES新品特輯：ASUS ZenFone 2、ZenFone
-    Zoom登場](http://www.sogi.com.tw/mobile/topics/ASUS_CES_ZenFone_2)
-
-2.  [羅宗惠，〈產業觀測－光學變焦
-    手機鏡頭新紀元〉，《中時電子報》轉載自《工商時報》，2015年5月27日](http://www.chinatimes.com/newspapers/20150527000367-260207)
+1.  [華碩CES新品特輯：ASUS ZenFone 2、ZenFone Zoom登場](http://www.sogi.com.tw/mobile/topics/ASUS_CES_ZenFone_2)
+2.  [羅宗惠，〈產業觀測－光學變焦 手機鏡頭新紀元〉，《中時電子報》轉載自《工商時報》，2015年5月27日](http://www.chinatimes.com/newspapers/20150527000367-260207)

@@ -1,9 +1,4 @@
-《**I Can
-Speak**》（)，)，導演為先前《[YMCA棒球隊](https://zh.wikipedia.org/wiki/YMCA野球團 "wikilink")》、《[光植的弟弟光泰](https://zh.wikipedia.org/wiki/光植的弟弟光泰 "wikilink")》、《[戀愛操作團](../Page/大鼻子情聖：戀愛操作團.md "wikilink")》之導演
-[金賢錫](https://zh.wikipedia.org/wiki/金賢錫 "wikilink")，由[羅文姬](../Page/羅文姬.md "wikilink")、[李帝勳等人所領銜主演](../Page/李帝勳.md "wikilink")，以歡喜冤家之間及慰安婦生存者的故事為主軸\[1\]。
-影片制作幕後其實一波多折，[2014年](../Page/2014年.md "wikilink")舉辦的慰安婦題材故事徵集活動中，I Can
-Speak原作脫穎而出\[2\]，製作組首選羅文姬主演，後因[韓日協議帶來的政治壓力](https://zh.wikipedia.org/wiki/韓日協議 "wikilink")，加上多位演員顧及韓流在日本地位受影響而辭演，造成制作延遲。2016年[金賢錫導演加入](https://zh.wikipedia.org/wiki/金賢錫 "wikilink")，潤色劇本，繼續選角工作。2017年[李帝勳加入後得以正式拍攝](../Page/李帝勳.md "wikilink")。
-本片於[2017年](../Page/2017年.md "wikilink")3月29日開機，6月26日殺青，9月21日在南韓上映，上映12日突破損益點180萬人次，上映一個月累計觀影人數達320萬。女主角羅文姬憑藉此片獲得韓國最具指標電影節大滿貫影后（韓國大鐘獎、韓國青龍獎、百想藝術大賞）
+《**I Can Speak**》（)，)，導演為先前《[YMCA棒球隊](https://zh.wikipedia.org/wiki/YMCA野球團 "wikilink")》、《[光植的弟弟光泰](https://zh.wikipedia.org/wiki/光植的弟弟光泰 "wikilink")》、《[戀愛操作團](../Page/大鼻子情聖：戀愛操作團.md "wikilink")》之導演 [金賢錫](https://zh.wikipedia.org/wiki/金賢錫 "wikilink")，由[羅文姬](../Page/羅文姬.md "wikilink")、[李帝勳](../Page/李帝勳.md "wikilink")等人所領銜主演，以歡喜冤家之間及慰安婦生存者的故事為主軸\[1\]。 影片制作幕後其實一波多折，[2014年](../Page/2014年.md "wikilink")舉辦的慰安婦題材故事徵集活動中，I Can Speak原作脫穎而出\[2\]，製作組首選羅文姬主演，後因[韓日協議帶來的政治壓力](https://zh.wikipedia.org/wiki/韓日協議 "wikilink")，加上多位演員顧及韓流在日本地位受影響而辭演，造成制作延遲。2016年[金賢錫導演加入](https://zh.wikipedia.org/wiki/金賢錫 "wikilink")，潤色劇本，繼續選角工作。2017年[李帝勳](../Page/李帝勳.md "wikilink")加入後得以正式拍攝。 本片於[2017年](../Page/2017年.md "wikilink")3月29日開機，6月26日殺青，9月21日在南韓上映，上映12日突破損益點180萬人次，上映一個月累計觀影人數達320萬。女主角羅文姬憑藉此片獲得韓國最具指標電影節大滿貫影后（韓國大鐘獎、韓國青龍獎、百想藝術大賞）
 
 ## 演員陣容
 
@@ -143,14 +138,7 @@ Speak原作脫穎而出\[2\]，製作組首選羅文姬主演，後因[韓日協
   -
   - [NAVER電影](http://movie.naver.com/movie/bi/mi/basic.nhn?code=161850)
 
-[Category:2017年電影](https://zh.wikipedia.org/wiki/Category:2017年電影 "wikilink")
-[Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink")
-[Category:慰安婦問題](https://zh.wikipedia.org/wiki/Category:慰安婦問題 "wikilink")
-[Category:朝鮮半島歷史](https://zh.wikipedia.org/wiki/Category:朝鮮半島歷史 "wikilink")
-[Category:日本性犯罪](https://zh.wikipedia.org/wiki/Category:日本性犯罪 "wikilink")
-[Category:在朝鮮半島及其附屬島嶼犯下的戰爭罪行](https://zh.wikipedia.org/wiki/Category:在朝鮮半島及其附屬島嶼犯下的戰爭罪行 "wikilink")
-[Category:第二次世界大戰女性人物](https://zh.wikipedia.org/wiki/Category:第二次世界大戰女性人物 "wikilink")
-[Category:日本歷史認識問題](https://zh.wikipedia.org/wiki/Category:日本歷史認識問題 "wikilink")
+[Category:2017年電影](https://zh.wikipedia.org/wiki/Category:2017年電影 "wikilink") [Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink") [Category:慰安婦問題](https://zh.wikipedia.org/wiki/Category:慰安婦問題 "wikilink") [Category:朝鮮半島歷史](https://zh.wikipedia.org/wiki/Category:朝鮮半島歷史 "wikilink") [Category:日本性犯罪](https://zh.wikipedia.org/wiki/Category:日本性犯罪 "wikilink") [Category:在朝鮮半島及其附屬島嶼犯下的戰爭罪行](https://zh.wikipedia.org/wiki/Category:在朝鮮半島及其附屬島嶼犯下的戰爭罪行 "wikilink") [Category:第二次世界大戰女性人物](https://zh.wikipedia.org/wiki/Category:第二次世界大戰女性人物 "wikilink") [Category:日本歷史認識問題](https://zh.wikipedia.org/wiki/Category:日本歷史認識問題 "wikilink")
 
 1.
 2.

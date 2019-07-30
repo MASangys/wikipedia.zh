@@ -1,7 +1,4 @@
-\-- This module is specifically the Wikidata property "prevalence"
-(P1193), due -- to its particular need for ranges and area-based
-qualifiers, and the lack of -- support for these in the main Wikidata
-module.
+\-- This module is specifically the Wikidata property "prevalence" (P1193), due -- to its particular need for ranges and area-based qualifiers, and the lack of -- support for these in the main Wikidata module.
 
 \-- Completely untested. local p = {}
 
@@ -54,9 +51,7 @@ p.main = function ( frame )
 `                                   [ 132453 ] = 'developed world'`
 `                               })[ qualId ] or mw.wikibase.label( 'Q' .. qualId )`
 `                               if link then`
-`                                   label = '`[`'``   ``..``
- ``label``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._link_.._' "wikilink")`'`
+`                                   label = '`[`'``   ``..``   ``label``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._link_.._' "wikilink")`'`
 `                               end`
 `                               pRange = pRange .. label`
 `                               `
@@ -65,9 +60,7 @@ p.main = function ( frame )
 `                       end`
 `                   end`
 `               end`
-`               --`[`--``   ``Todo:``   ``References``   ``if``
- ``prevalenceClaim.references``   ``then``
- ``end`](https://zh.wikipedia.org/wiki/--_Todo:_References_if_prevalenceClaim.references_then_end "wikilink")`--`
+`               --`[`--``   ``Todo:``   ``References``   ``if``   ``prevalenceClaim.references``   ``then``   ``end`](https://zh.wikipedia.org/wiki/--_Todo:_References_if_prevalenceClaim.references_then_end "wikilink")`--`
 `               `
 `           end`
 `           return pRange`

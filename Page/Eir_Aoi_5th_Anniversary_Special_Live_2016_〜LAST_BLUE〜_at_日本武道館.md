@@ -1,5 +1,4 @@
-『**Eir Aoi 5th Anniversary Special Live 2016 〜LAST BLUE〜 at
-日本武道館**』是[日本藝人](../Page/日本.md "wikilink")[藍井艾露無限期活動休止前最後的演唱會](../Page/藍井艾露.md "wikilink")，演唱會錄像於2017年2月15日發售。
+『**Eir Aoi 5th Anniversary Special Live 2016 〜LAST BLUE〜 at 日本武道館**』是[日本](../Page/日本.md "wikilink")藝人[藍井艾露](../Page/藍井艾露.md "wikilink")無限期活動休止前最後的演唱會，演唱會錄像於2017年2月15日發售。
 
 ## 概要
 

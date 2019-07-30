@@ -1,7 +1,4 @@
-**iKON音樂作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[iKON自](https://zh.wikipedia.org/wiki/iKON "wikilink")2015年出道至今所發行的音樂作品。該團體是透過生存節目《[MIX
-&
-MATCH](../Page/MIX_&_MATCH.md "wikilink")》所誕生的韓國七人男子團體，隸屬於[YG娛樂](../Page/YG娛樂.md "wikilink")，先以單曲《取向狙擊》在2015年9月15日正式出道，隨後發行出道正規專輯《[Welcome
-Back](../Page/WELCOME_BACK_\(iKON韓語專輯\).md "wikilink")》。迄今，iKON在韓國及日本共發行了3張正規專輯、2張迷你專輯、2張單曲及一張精選輯。
+**iKON音樂作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[iKON自](https://zh.wikipedia.org/wiki/iKON "wikilink")2015年出道至今所發行的音樂作品。該團體是透過生存節目《[MIX & MATCH](../Page/MIX_&_MATCH.md "wikilink")》所誕生的韓國七人男子團體，隸屬於[YG娛樂](../Page/YG娛樂.md "wikilink")，先以單曲《取向狙擊》在2015年9月15日正式出道，隨後發行出道正規專輯《[Welcome Back](../Page/WELCOME_BACK_\(iKON韓語專輯\).md "wikilink")》。迄今，iKON在韓國及日本共發行了3張正規專輯、2張迷你專輯、2張單曲及一張精選輯。
 
 ## 正規專輯
 
@@ -381,7 +378,7 @@ Dig.</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/WIN.md" title="wikilink">WIN：Who is next?</a>（B隊發行）</p></td>
+<td><p><a href="../Page/WIN.md" title="wikilink">WIN is next?</a>：Who（B隊發行）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -885,8 +882,6 @@ Dig.</a></p></td>
 
   -
   -
-[Category:iKON](https://zh.wikipedia.org/wiki/Category:iKON "wikilink")
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
-[Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
+[Category:iKON](https://zh.wikipedia.org/wiki/Category:iKON "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
 
 1.

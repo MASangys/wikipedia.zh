@@ -1,8 +1,8 @@
-《**Write..**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE成員](../Page/INFINITE.md "wikilink")[南優賢首張韓語迷你專輯](../Page/南優賢.md "wikilink")，於2016年5月10日發行，主打歌曲為《點頭點頭》（）\[1\]。
+《**Write..**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")成員[南優賢](../Page/南優賢.md "wikilink")首張韓語迷你專輯，於2016年5月10日發行，主打歌曲為《點頭點頭》（）\[1\]。
 
 ## 背景
 
-2016年4月，韓國媒體《[STARNEWS](https://zh.wikipedia.org/wiki/STARNEWS "wikilink")》報導指出優賢會在5月發行個人專輯，經紀公司[Woollim娛樂很快回應說明他的專輯仍在籌備中](../Page/Woollim娛樂.md "wikilink")\[2\]。直到4月27日，官方正式宣告優賢將在5月9日推出SOLO專輯\[3\]。
+2016年4月，韓國媒體《[STARNEWS](https://zh.wikipedia.org/wiki/STARNEWS "wikilink")》報導指出優賢會在5月發行個人專輯，經紀公司[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")很快回應說明他的專輯仍在籌備中\[2\]。直到4月27日，官方正式宣告優賢將在5月9日推出SOLO專輯\[3\]。
 
 4月29日，Woollim娛樂公開專輯預告照片及在Youtube頻道發布預告片\[4\]，曲目名單於5月4日公布\[5\]，而音樂錄影帶隨專輯發行時一併釋放\[6\]。
 
@@ -82,7 +82,7 @@
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置     | 銷售量   | 總銷量    | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置     | 銷售量   | 總銷量    | 停留時間 |
 | ---------------------------------------- | -------- | ----- | ------ | ---- |
 | 專輯週榜                                     | 33\[12\] | 1,612 | 2,203+ | 1星期  |
 
@@ -138,9 +138,7 @@
 
 ## 参考文献
 
-[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:INFINITE音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE音樂專輯 "wikilink")
+[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:INFINITE音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE音樂專輯 "wikilink")
 
 1.
 2.

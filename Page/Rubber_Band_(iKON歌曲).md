@@ -1,33 +1,22 @@
-《**Rubber
-Band**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[iKON的數位單曲](https://zh.wikipedia.org/wiki/iKON "wikilink")，由[YG娛樂企劃製作](../Page/YG娛樂.md "wikilink")，[Genie音樂發行](../Page/Genie音樂.md "wikilink")，於2018年3月5日下午6時通過各大音樂網站提供[數位音樂下載](../Page/數位音樂下載.md "wikilink")。\[1\]
+《**Rubber Band**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[iKON的數位單曲](https://zh.wikipedia.org/wiki/iKON "wikilink")，由[YG娛樂](../Page/YG娛樂.md "wikilink")企劃製作，[Genie音樂](../Page/Genie音樂.md "wikilink")發行，於2018年3月5日下午6時通過各大音樂網站提供[數位音樂下載](../Page/數位音樂下載.md "wikilink")。\[1\]
 
 ## 背景及預告
 
-通過第二張韓語正規專輯《[Return](../Page/Return_\(iKON專輯\).md "wikilink")》主打歌《Love
-Scenario》突破[韓國流行音樂近](../Page/韓國流行音樂.md "wikilink")10年來男子團體在音樂網站創下「一位最長時間」的記錄\[2\]\[3\]，iKON以此為由在2018年2月底表示將準備驚喜禮物回饋歌迷的熱烈支持，2月28日正式發佈全新預告海報，宣布將發表新單曲\[4\]。在公開的海報上僅以兩手牽著紅線作為背景，並標註新歌的發表日期為3月5日，未標示單曲歌名、概念、製作人等具體信息，但鑑於iKON隊長[B.I參與](../Page/B.I.md "wikilink")《Return》全專歌曲製作，韓國媒體OSEN指出這首新歌預計他也有全面參與\[5\]。而此前[YG娛樂代表](../Page/YG娛樂.md "wikilink")[梁鉉錫曾多次通過個人](../Page/梁鉉錫.md "wikilink")[社群網站](https://zh.wikipedia.org/wiki/社群網站 "wikilink")[Instagram發文預示團隊正在準備另一個項目](../Page/Instagram.md "wikilink")，但韓國媒體及歌迷未預料到這個項目是新歌發售，原因是iKON長時間全面投入在日本宣傳活動上，相對來說在韓國國內的活動減少許多，並且，他們時隔兩年推出的正規專輯剛發售沒多久，短時間內再次推出新歌，是所屬經紀公司過去少有的宣傳策略\[6\]。而YG娛樂稱，粉絲仍然渴望看到更多iKON的國內活動，因此公司選擇以新歌，而非《Return》後續歌曲延長活動時間，展開更加活躍的國內活動\[7\]，並表示這首歌曲不在先前的計劃之內，是後續準備的驚喜禮物，所以未能拍攝音樂錄影帶，但他們將通過音樂節目，配合新歌表演新的編舞。\[8\]
+通過第二張韓語正規專輯《[Return](../Page/Return_\(iKON專輯\).md "wikilink")》主打歌《Love Scenario》突破[韓國流行音樂](../Page/韓國流行音樂.md "wikilink")近10年來男子團體在音樂網站創下「一位最長時間」的記錄\[2\]\[3\]，iKON以此為由在2018年2月底表示將準備驚喜禮物回饋歌迷的熱烈支持，2月28日正式發佈全新預告海報，宣布將發表新單曲\[4\]。在公開的海報上僅以兩手牽著紅線作為背景，並標註新歌的發表日期為3月5日，未標示單曲歌名、概念、製作人等具體信息，但鑑於iKON隊長[B.I](../Page/B.I.md "wikilink")參與《Return》全專歌曲製作，韓國媒體OSEN指出這首新歌預計他也有全面參與\[5\]。而此前[YG娛樂](../Page/YG娛樂.md "wikilink")代表[梁鉉錫](../Page/梁鉉錫.md "wikilink")曾多次通過個人[社群網站](https://zh.wikipedia.org/wiki/社群網站 "wikilink")[Instagram](../Page/Instagram.md "wikilink")發文預示團隊正在準備另一個項目，但韓國媒體及歌迷未預料到這個項目是新歌發售，原因是iKON長時間全面投入在日本宣傳活動上，相對來說在韓國國內的活動減少許多，並且，他們時隔兩年推出的正規專輯剛發售沒多久，短時間內再次推出新歌，是所屬經紀公司過去少有的宣傳策略\[6\]。而YG娛樂稱，粉絲仍然渴望看到更多iKON的國內活動，因此公司選擇以新歌，而非《Return》後續歌曲延長活動時間，展開更加活躍的國內活動\[7\]，並表示這首歌曲不在先前的計劃之內，是後續準備的驚喜禮物，所以未能拍攝音樂錄影帶，但他們將通過音樂節目，配合新歌表演新的編舞。\[8\]
 
 ## 詞曲
 
-《Rubber
-Band》的詞曲製作資訊在2018年3月2日公開，在釋出的製作資訊中，這首歌曲由iKON成員B.I和[Bobby攜手同經紀公司團體](../Page/金知元_\(饒舌者\).md "wikilink")[WINNER成員](../Page/WINNER.md "wikilink")[Mino](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")、SEUNG共同填詞，B.I同時也與Mino及曾參與《Love
-Scenario》製作的Millennium（崔來星）共同作曲\[9\]。其中，《Rubber
-Band》是由iKON隊長B.I和WINNER成員Mino出道以來首次共同填詞作曲的歌曲獲韓國媒體大幅報導\[10\]\[11\]，《[中央日報](../Page/中央日報_\(韓國\).md "wikilink")》說道「他們的第一次合作既新鮮又讓人驚訝」\[12\]。YG娛樂則表示「這首歌想告訴大家iKON與WINNER不是『競爭者』而是『同伴』」\[13\]，並透露「最近兩隊共同合作的項目越來越多，我們很期待《Rubber
-Band》是個開端，未來也會出現更多兩隊共同創作的歌曲」\[14\]。而《Rubber
-Band》是一首描寫面臨分手的戀人，並以橡皮筋來比喻彼此之間緊繃且隨時可能斷裂的關係。\[15\]
+《Rubber Band》的詞曲製作資訊在2018年3月2日公開，在釋出的製作資訊中，這首歌曲由iKON成員B.I和[Bobby攜手同經紀公司團體](../Page/金知元_\(饒舌者\).md "wikilink")[WINNER](../Page/WINNER.md "wikilink")成員[Mino](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")、SEUNG共同填詞，B.I同時也與Mino及曾參與《Love Scenario》製作的Millennium（崔來星）共同作曲\[9\]。其中，《Rubber Band》是由iKON隊長B.I和WINNER成員Mino出道以來首次共同填詞作曲的歌曲獲韓國媒體大幅報導\[10\]\[11\]，《[中央日報](../Page/中央日報_\(韓國\).md "wikilink")》說道「他們的第一次合作既新鮮又讓人驚訝」\[12\]。YG娛樂則表示「這首歌想告訴大家iKON與WINNER不是『競爭者』而是『同伴』」\[13\]，並透露「最近兩隊共同合作的項目越來越多，我們很期待《Rubber Band》是個開端，未來也會出現更多兩隊共同創作的歌曲」\[14\]。而《Rubber Band》是一首描寫面臨分手的戀人，並以橡皮筋來比喻彼此之間緊繃且隨時可能斷裂的關係。\[15\]
 
 ## 宣傳
 
-在單曲音源公開後，iKON以3月11日[SBS旗下節目](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](../Page/人气歌谣.md "wikilink")》作為他們在音樂節目的第一場表演舞臺，展開《Rubber
-Band》的宣傳行程。同時，iKON也將在當天於韓國國內舉辦首場粉絲見面會「iKON Private Stage
-\[RE·-KONNECT\]」。\[16\]
+在單曲音源公開後，iKON以3月11日[SBS旗下節目](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](../Page/人气歌谣.md "wikilink")》作為他們在音樂節目的第一場表演舞臺，展開《Rubber Band》的宣傳行程。同時，iKON也將在當天於韓國國內舉辦首場粉絲見面會「iKON Private Stage \[RE·-KONNECT\]」。\[16\]
 
 ## 商業成績
 
-《Rubber
-Band》在2018年3月5日下午6時通過各大數位音樂網站公開，在線上銷售的商業表現，這首單曲在發行當天便取得[汶萊](https://zh.wikipedia.org/wiki/汶萊 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[臺灣](../Page/臺灣.md "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[柬埔寨](../Page/柬埔寨.md "wikilink")、[香港](../Page/香港.md "wikilink")、[印度尼西亞](https://zh.wikipedia.org/wiki/印度尼西亞 "wikilink")、[澳門](../Page/澳門.md "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[菲律賓等](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")11個國家與地區的[iTunes單曲排行榜冠軍](https://zh.wikipedia.org/wiki/iTunes "wikilink")\[17\]，並於當天同時在iTunes的全球單曲榜位居第29名\[18\]。在韓國則於推出新歌1小時後，在榜單首次更新期間均進入韓國六大數位音樂網站榜單上位圈，分別位列第7名\[19\]、Genie第9名、Bugs第3名、Mnet第30名、Naver第16名、Soribada第15名。
+《Rubber Band》在2018年3月5日下午6時通過各大數位音樂網站公開，在線上銷售的商業表現，這首單曲在發行當天便取得[汶萊](https://zh.wikipedia.org/wiki/汶萊 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[臺灣](../Page/臺灣.md "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[柬埔寨](../Page/柬埔寨.md "wikilink")、[香港](../Page/香港.md "wikilink")、[印度尼西亞](https://zh.wikipedia.org/wiki/印度尼西亞 "wikilink")、[澳門](../Page/澳門.md "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[菲律賓等](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")11個國家與地區的[iTunes單曲排行榜冠軍](https://zh.wikipedia.org/wiki/iTunes "wikilink")\[17\]，並於當天同時在iTunes的全球單曲榜位居第29名\[18\]。在韓國則於推出新歌1小時後，在榜單首次更新期間均進入韓國六大數位音樂網站榜單上位圈，分別位列第7名\[19\]、Genie第9名、Bugs第3名、Mnet第30名、Naver第16名、Soribada第15名。
 
-一星期後，《Rubber
-Band》綜合當週在韓國的整體成績，以14,807,474指數，位居[加翁單曲週榜第](../Page/2018年Gaon單曲冠軍作品列表.md "wikilink")27名\[20\]，它也打入了告示牌，登上第27名的位置。\[21\]
+一星期後，《Rubber Band》綜合當週在韓國的整體成績，以14,807,474指數，位居[加翁單曲週榜第](../Page/2018年Gaon單曲冠軍作品列表.md "wikilink")27名\[20\]，它也打入了告示牌，登上第27名的位置。\[21\]
 
 ## 排行榜
 
@@ -202,10 +191,7 @@ Band》綜合當週在韓國的整體成績，以14,807,474指數，位居[加�
 
 ## 參考文獻
 
-[Category:韓國歌曲](https://zh.wikipedia.org/wiki/Category:韓國歌曲 "wikilink")
-[Category:2018年單曲](https://zh.wikipedia.org/wiki/Category:2018年單曲 "wikilink")
-[Category:2018年歌曲](https://zh.wikipedia.org/wiki/Category:2018年歌曲 "wikilink")
-[Category:IKON歌曲](https://zh.wikipedia.org/wiki/Category:IKON歌曲 "wikilink")
+[Category:韓國歌曲](https://zh.wikipedia.org/wiki/Category:韓國歌曲 "wikilink") [Category:2018年單曲](https://zh.wikipedia.org/wiki/Category:2018年單曲 "wikilink") [Category:2018年歌曲](https://zh.wikipedia.org/wiki/Category:2018年歌曲 "wikilink") [Category:IKON歌曲](https://zh.wikipedia.org/wiki/Category:IKON歌曲 "wikilink")
 
 1.
 

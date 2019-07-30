@@ -1,7 +1,6 @@
-《**新宿D×D**》（），原作為日本漫畫家[安童夕馬](https://zh.wikipedia.org/wiki/安童夕馬 "wikilink")，臺灣漫畫家[彭傑作畫](../Page/彭傑.md "wikilink")，[友善文創](https://zh.wikipedia.org/wiki/友善文創 "wikilink")（Friendly
-Land）\[1\]協力製作。
+《**新宿D×D**》（），原作為日本漫畫家[安童夕馬](https://zh.wikipedia.org/wiki/安童夕馬 "wikilink")，臺灣漫畫家[彭傑](../Page/彭傑.md "wikilink")作畫，[友善文創](https://zh.wikipedia.org/wiki/友善文創 "wikilink")（Friendly Land）\[1\]協力製作。
 
-2014年於手機漫畫[app](https://zh.wikipedia.org/wiki/app "wikilink")「[漫畫王](https://zh.wikipedia.org/wiki/漫畫王 "wikilink")」上每週連載，由《[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")》發行單行本。2015年八月，官方[Twitter表示單行本只會出到第三集](../Page/Twitter.md "wikilink")。\[2\]
+2014年於手機漫畫[app](https://zh.wikipedia.org/wiki/app "wikilink")「[漫畫王](https://zh.wikipedia.org/wiki/漫畫王 "wikilink")」上每週連載，由《[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")》發行單行本。2015年八月，官方[Twitter](../Page/Twitter.md "wikilink")表示單行本只會出到第三集。\[2\]
 
 ## 概要
 
@@ -87,14 +86,7 @@ Land）\[1\]協力製作。
   - [《新宿D×D》漫畫特設介紹網站](http://kc.kodansha.co.jp/title?code=1000006762)
   - [漫畫王APP觀看《新宿D×D》網頁版](https://www.mangabox.me/reader/zh/#manga_106)
 
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:彭傑](https://zh.wikipedia.org/wiki/Category:彭傑 "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:推理漫畫](https://zh.wikipedia.org/wiki/Category:推理漫畫 "wikilink")
-[Category:醫療漫畫](https://zh.wikipedia.org/wiki/Category:醫療漫畫 "wikilink")
-[Category:新宿背景作品](https://zh.wikipedia.org/wiki/Category:新宿背景作品 "wikilink")
-[Category:醫學題材作品](https://zh.wikipedia.org/wiki/Category:醫學題材作品 "wikilink")
-[Category:臺灣漫畫家與日本漫畫家合作作品](https://zh.wikipedia.org/wiki/Category:臺灣漫畫家與日本漫畫家合作作品 "wikilink")
+[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:彭傑](https://zh.wikipedia.org/wiki/Category:彭傑 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:推理漫畫](https://zh.wikipedia.org/wiki/Category:推理漫畫 "wikilink") [Category:醫療漫畫](https://zh.wikipedia.org/wiki/Category:醫療漫畫 "wikilink") [Category:新宿背景作品](https://zh.wikipedia.org/wiki/Category:新宿背景作品 "wikilink") [Category:醫學題材作品](https://zh.wikipedia.org/wiki/Category:醫學題材作品 "wikilink") [Category:臺灣漫畫家與日本漫畫家合作作品](https://zh.wikipedia.org/wiki/Category:臺灣漫畫家與日本漫畫家合作作品 "wikilink")
 
 1.
 2.

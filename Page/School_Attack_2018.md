@@ -1,6 +1,4 @@
-《**School Attack
-2018**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")的[綜藝節目](../Page/綜藝節目.md "wikilink")\[1\]\[2\]，前身為2003年7月至2009年1月首播的熱門[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")《[School
-Attack](https://zh.wikipedia.org/wiki/School_Attack "wikilink")》\[3\]。節目主軸為人氣團體秘密造訪校園舉行突擊演唱會，並與青少年溝通交流\[4\]。節目第一季由[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")、[孫東雲](../Page/孫東雲.md "wikilink")、[珠伊主持](../Page/JooE.md "wikilink")\[5\]，自2018年6月25日至8月20日播放；第二季加入[睿隣以代替下車的](https://zh.wikipedia.org/wiki/睿隣 "wikilink")[珠伊](../Page/JooE.md "wikilink")\[6\]，自2018年10月22日至11月12日播放。
+《**School Attack 2018**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")的[綜藝節目](../Page/綜藝節目.md "wikilink")\[1\]\[2\]，前身為2003年7月至2009年1月首播的熱門[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")《[School Attack](https://zh.wikipedia.org/wiki/School_Attack "wikilink")》\[3\]。節目主軸為人氣團體秘密造訪校園舉行突擊演唱會，並與青少年溝通交流\[4\]。節目第一季由[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")、[孫東雲](../Page/孫東雲.md "wikilink")、[珠伊主持](../Page/JooE.md "wikilink")\[5\]，自2018年6月25日至8月20日播放；第二季加入[睿隣以代替下車的](https://zh.wikipedia.org/wiki/睿隣 "wikilink")[珠伊](../Page/JooE.md "wikilink")\[6\]，自2018年10月22日至11月12日播放。
 
 ## 主持
 
@@ -246,21 +244,16 @@ Attack](https://zh.wikipedia.org/wiki/School_Attack "wikilink")》\[3\]。節目
 
 ## 外部連結
 
-  - [School
-    Attack 2018](http://program.sbs.co.kr/builder/programMainList.do?pgm_id=22000010820)官方網站
+  - [School Attack 2018](http://program.sbs.co.kr/builder/programMainList.do?pgm_id=22000010820)官方網站
 
   -
-  - [School
-    Attack 2018](https://web.archive.org/web/20180712153907/https://movie.daum.net/tv/main?tvProgramId=82838)的[DAUM介紹頁面](../Page/多音.md "wikilink")
+  - [School Attack 2018](https://web.archive.org/web/20180712153907/https://movie.daum.net/tv/main?tvProgramId=82838)的[DAUM介紹頁面](../Page/多音.md "wikilink")
 
-  - [School Attack 2018](https://tv.naver.com/sbs.schoolattack)的[Naver
-    TV頻道](https://zh.wikipedia.org/wiki/Naver_TV "wikilink")
+  - [School Attack 2018](https://tv.naver.com/sbs.schoolattack)的[Naver TV頻道](https://zh.wikipedia.org/wiki/Naver_TV "wikilink")
 
   - [School Attack 2018](http://channels.vlive.tv/C62721/video)的V LIVE頻道
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
 
 1.
 2.

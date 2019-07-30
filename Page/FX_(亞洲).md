@@ -1,5 +1,4 @@
-**FX**為美國[FX電視網的](https://zh.wikipedia.org/wiki/FX_\(電視頻道\) "wikilink")[亞洲娛樂頻道](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，由[福斯傳媒集團所有](../Page/福斯傳媒集團.md "wikilink")、[星空傳媒負責發送](https://zh.wikipedia.org/wiki/星空傳媒 "wikilink")。\[1\]
-2012年，FX印度被FX亞洲取代。
+**FX**為美國[FX電視網的](https://zh.wikipedia.org/wiki/FX_\(電視頻道\) "wikilink")[亞洲娛樂頻道](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，由[福斯傳媒集團](../Page/福斯傳媒集團.md "wikilink")所有、[星空傳媒負責發送](https://zh.wikipedia.org/wiki/星空傳媒 "wikilink")。\[1\] 2012年，FX印度被FX亞洲取代。
 
 ## 首播影集
 
@@ -33,7 +32,7 @@
 
   - [含笑上台](../Page/含笑上台.md "wikilink")
 
-  - [酒吧五傑／陽光費城](../Page/酒吧五傑.md "wikilink")
+  - [酒吧五傑](../Page/酒吧五傑.md "wikilink")／陽光費城
 
   - [黑手遮天](https://zh.wikipedia.org/wiki/清道夫_\(電視劇\) "wikilink")
 
@@ -147,15 +146,10 @@
 
 ## 外部連結
 
-  - [Official
-    Site](https://web.archive.org/web/20110208040018/http://fxtvasia.com/)
+  - [Official Site](https://web.archive.org/web/20110208040018/http://fxtvasia.com/)
   - [FX - 頻道 - now TV](http://nowtv.now.com/channel/524)
   - [Official Site](http://www.fxchannel.co.kr/)
 
-[Category:福斯傳媒集團](https://zh.wikipedia.org/wiki/Category:福斯傳媒集團 "wikilink")
-[Category:香港電視台](https://zh.wikipedia.org/wiki/Category:香港電視台 "wikilink")
-[Category:2004年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2004年成立的電視台或電視頻道 "wikilink")
+[Category:福斯傳媒集團](https://zh.wikipedia.org/wiki/Category:福斯傳媒集團 "wikilink") [Category:香港電視台](https://zh.wikipedia.org/wiki/Category:香港電視台 "wikilink") [Category:2004年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2004年成立的電視台或電視頻道 "wikilink")
 
-1.  [FX: Feature
-    Channel](http://www.foxinternationalchannels.com/brands/fx) retrieve
-    via www.foxinternationalchannels.com 12-01-2010
+1.  [FX: Feature Channel](http://www.foxinternationalchannels.com/brands/fx) retrieve via www.foxinternationalchannels.com 12-01-2010

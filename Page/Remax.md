@@ -2,7 +2,7 @@
 
 ## 概要
 
-1997年（平成9年）3月24日\[2\]成立。現任代表董事社長由聲優[高乃麗（高山久子）](../Page/高乃麗.md "wikilink")\[3\]就任。加入事務所成為旗下藝人的有聲優、及從事電視報導的藝人。另外，remax也是少數未對外公開藝人出生年的事務所。
+1997年（平成9年）3月24日\[2\]成立。現任代表董事社長由聲優[高乃麗](../Page/高乃麗.md "wikilink")（高山久子）\[3\]就任。加入事務所成為旗下藝人的有聲優、及從事電視報導的藝人。另外，remax也是少數未對外公開藝人出生年的事務所。
 
 ## 所屬聲優
 
@@ -286,10 +286,7 @@
 
   - [株式會社remax公式官網](http://www.remax-web.jp/)
 
-[Category:remax](https://zh.wikipedia.org/wiki/Category:remax "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
-[Category:1997年成立的公司](https://zh.wikipedia.org/wiki/Category:1997年成立的公司 "wikilink")
+[Category:remax](https://zh.wikipedia.org/wiki/Category:remax "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink") [Category:1997年成立的公司](https://zh.wikipedia.org/wiki/Category:1997年成立的公司 "wikilink")
 
 1.
 

@@ -1,8 +1,4 @@
-***Lonely Girl***
-是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[爵士樂女](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")[歌手](../Page/歌手.md "wikilink")[茱莉·倫敦的第二張](../Page/茱莉·倫敦.md "wikilink")[密紋唱片](../Page/密紋唱片.md "wikilink")，由Liberty
-Records於1956年發行，目錄號是 LRP-3012，唱片為單聲道形式。 隨後重新處理立體聲專輯，這種立體聲版本於1959年發布，目錄號為
-LST-7029 。\[1\] 專輯的第一首單曲為「Lonely Girl(落寞少艾)」 ，此曲是她的第二任丈夫「Bobby
-Troup」為她而寫。
+***Lonely Girl*** 是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[爵士樂女](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")[歌手](../Page/歌手.md "wikilink")[茱莉·倫敦](../Page/茱莉·倫敦.md "wikilink")的第二張[密紋唱片](../Page/密紋唱片.md "wikilink")，由Liberty Records於1956年發行，目錄號是 LRP-3012，唱片為單聲道形式。 隨後重新處理立體聲專輯，這種立體聲版本於1959年發布，目錄號為 LST-7029 。\[1\] 專輯的第一首單曲為「Lonely Girl(落寞少艾)」 ，此曲是她的第二任丈夫「Bobby Troup」為她而寫。
 
 ## 曲目
 
@@ -25,10 +21,8 @@ Troup」為她而寫。
 ## 工作人員
 
   - Julie London – Vocals
-  - [Al Viola](https://zh.wikipedia.org/wiki/Al_Viola "wikilink") –
-    Guitar
-  - [Bobby Troup](https://zh.wikipedia.org/wiki/Bobby_Troup "wikilink")
-    – Producer
+  - [Al Viola](https://zh.wikipedia.org/wiki/Al_Viola "wikilink") – Guitar
+  - [Bobby Troup](https://zh.wikipedia.org/wiki/Bobby_Troup "wikilink") – Producer
   - John Neal – Engineer
   - Ray Jones – Cover photography
   - Chris Ingham – Liner Notes
@@ -47,11 +41,6 @@ Troup」為她而寫。
 ## 備註
 
   -
-[Category:Liberty_Records_albums](https://zh.wikipedia.org/wiki/Category:Liberty_Records_albums "wikilink")
-[Category:茱莉·倫敦音樂專輯](https://zh.wikipedia.org/wiki/Category:茱莉·倫敦音樂專輯 "wikilink")
-[Category:1956年音樂專輯](https://zh.wikipedia.org/wiki/Category:1956年音樂專輯 "wikilink")
-[Category:美國音樂專輯](https://zh.wikipedia.org/wiki/Category:美國音樂專輯 "wikilink")
-[Category:爵士樂音樂專輯](https://zh.wikipedia.org/wiki/Category:爵士樂音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:Liberty_Records_albums](https://zh.wikipedia.org/wiki/Category:Liberty_Records_albums "wikilink") [Category:茱莉·倫敦音樂專輯](https://zh.wikipedia.org/wiki/Category:茱莉·倫敦音樂專輯 "wikilink") [Category:1956年音樂專輯](https://zh.wikipedia.org/wiki/Category:1956年音樂專輯 "wikilink") [Category:美國音樂專輯](https://zh.wikipedia.org/wiki/Category:美國音樂專輯 "wikilink") [Category:爵士樂音樂專輯](https://zh.wikipedia.org/wiki/Category:爵士樂音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
 1.

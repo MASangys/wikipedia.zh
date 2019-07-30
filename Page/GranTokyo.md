@@ -1,13 +1,12 @@
-**GranTokyo**（）是[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")[丸之內一丁目](../Page/丸之內.md "wikilink")[東京站](https://zh.wikipedia.org/wiki/東京站 "wikilink")[八重洲口的](../Page/八重洲.md "wikilink")[摩天大樓](../Page/摩天大樓.md "wikilink")，分為43層的**GranTokyo北塔**（）與42層的**GranTokyo南塔**（）。
+**GranTokyo**（）是[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")[丸之內](../Page/丸之內.md "wikilink")一丁目[東京站](https://zh.wikipedia.org/wiki/東京站 "wikilink")[八重洲](../Page/八重洲.md "wikilink")口的[摩天大樓](../Page/摩天大樓.md "wikilink")，分為43層的**GranTokyo北塔**（）與42層的**GranTokyo南塔**（）。
 
 ## 概要
 
 為東京站再開發計畫的一環，2004年9月10日動工，2007年11月6日開幕。建築設計師是德裔美國人建築家。
 
-建於舊址的北塔，地下1樓至地上13樓是[大丸東京新店](../Page/大丸.md "wikilink")。地上17樓至42樓為、[法國巴黎銀行集團等入駐的辦公樓層](../Page/法國巴黎銀行.md "wikilink")。
+建於舊址的北塔，地下1樓至地上13樓是[大丸](../Page/大丸.md "wikilink")東京新店。地上17樓至42樓為、[法國巴黎銀行](../Page/法國巴黎銀行.md "wikilink")集團等入駐的辦公樓層。
 
-南塔地下1樓至地上2樓為商店，地下1樓有與[八重洲地下街直通的商店街](https://zh.wikipedia.org/wiki/八重洲地下街 "wikilink")「GranAge」（グランアージュ）。地上5層至41層為、[BMW
-JAPAN等入駐的辦公樓層](../Page/BMW.md "wikilink")。
+南塔地下1樓至地上2樓為商店，地下1樓有與[八重洲地下街直通的商店街](https://zh.wikipedia.org/wiki/八重洲地下街 "wikilink")「GranAge」（グランアージュ）。地上5層至41層為、[BMW JAPAN等入駐的辦公樓層](../Page/BMW.md "wikilink")。
 
 大廈竣工後，大樓（舊大丸東京店）拆除，開始進行II期工程－北塔低樓層（[大丸](../Page/大丸.md "wikilink")）擴建與雙塔四樓聯通道「GranRoof」（グランルーフ）建設工程。
 
@@ -59,14 +58,6 @@ JAPAN等入駐的辦公樓層](../Page/BMW.md "wikilink")。
   - [GranTokyo South Tower](http://www.jebl.co.jp/southtower/)
   - [Tokyo Station City中文網頁](http://www.tokyostationcity.com/tc/)
 
-[Category:千代田區摩天大樓](https://zh.wikipedia.org/wiki/Category:千代田區摩天大樓 "wikilink")
-[Category:丸之內](https://zh.wikipedia.org/wiki/Category:丸之內 "wikilink")
-[Category:日本鐵路車站建築](https://zh.wikipedia.org/wiki/Category:日本鐵路車站建築 "wikilink")
-[Category:雙塔樓](https://zh.wikipedia.org/wiki/Category:雙塔樓 "wikilink")
-[Category:200米至249米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:200米至249米高的摩天大樓 "wikilink")
-[Category:2007年完工建築物](https://zh.wikipedia.org/wiki/Category:2007年完工建築物 "wikilink")
-[Category:玻璃建築](https://zh.wikipedia.org/wiki/Category:玻璃建築 "wikilink")
-[Category:BCS獎](https://zh.wikipedia.org/wiki/Category:BCS獎 "wikilink")
+[Category:千代田區摩天大樓](https://zh.wikipedia.org/wiki/Category:千代田區摩天大樓 "wikilink") [Category:丸之內](https://zh.wikipedia.org/wiki/Category:丸之內 "wikilink") [Category:日本鐵路車站建築](https://zh.wikipedia.org/wiki/Category:日本鐵路車站建築 "wikilink") [Category:雙塔樓](https://zh.wikipedia.org/wiki/Category:雙塔樓 "wikilink") [Category:200米至249米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:200米至249米高的摩天大樓 "wikilink") [Category:2007年完工建築物](https://zh.wikipedia.org/wiki/Category:2007年完工建築物 "wikilink") [Category:玻璃建築](https://zh.wikipedia.org/wiki/Category:玻璃建築 "wikilink") [Category:BCS獎](https://zh.wikipedia.org/wiki/Category:BCS獎 "wikilink")
 
-1.  現在由八重洲投資特定目的會社所有。[固定資産の譲渡に関するお知らせ](http://www.hd.jx-group.co.jp/newsrelease/noc/2009/20100226_06_0952366.html)
-    新日本石油ニュースリリース(2010年02月26日)
+1.  現在由八重洲投資特定目的會社所有。[固定資産の譲渡に関するお知らせ](http://www.hd.jx-group.co.jp/newsrelease/noc/2009/20100226_06_0952366.html) 新日本石油ニュースリリース(2010年02月26日)

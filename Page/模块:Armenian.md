@@ -1,5 +1,4 @@
-\-- This module implements . It converts numbers to old Armenian --
-numerals, for numbers from 1-29999.
+\-- This module implements . It converts numbers to old Armenian -- numerals, for numbers from 1-29999.
 
 local p = {}
 

@@ -1,16 +1,10 @@
-《**Thunderbolt Fantasy
-東離劍遊紀**》是一部由[臺灣和](../Page/臺灣.md "wikilink")[日本雙方合作的](../Page/日本.md "wikilink")[奇幻](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[武俠](https://zh.wikipedia.org/wiki/武俠 "wikilink")[布袋戲偶電視劇集作品](../Page/布袋戲.md "wikilink")。劇本由日本編劇[虛淵玄撰寫](../Page/虛淵玄.md "wikilink")，布袋戲劇由臺灣[霹靂布袋戲製作](../Page/霹靂布袋戲.md "wikilink")，劇名由霹靂的黃強華董事長命名。\[1\]本作是[布袋戲此一傳統藝術首次進行臺灣及日本跨界合作的作品](../Page/布袋戲.md "wikilink")。自2016年7月8日起在日本首播，並由[巴哈姆特動畫瘋與](../Page/巴哈姆特電玩資訊站.md "wikilink")[愛奇藝臺灣站](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")、[哔哩哔哩及](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink")[Crunchyroll進行三地聯播](../Page/Crunchyroll.md "wikilink")。
+《**Thunderbolt Fantasy 東離劍遊紀**》是一部由[臺灣](../Page/臺灣.md "wikilink")和[日本](../Page/日本.md "wikilink")雙方合作的[奇幻](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[武俠](https://zh.wikipedia.org/wiki/武俠 "wikilink")[布袋戲](../Page/布袋戲.md "wikilink")偶電視劇集作品。劇本由日本編劇[虛淵玄](../Page/虛淵玄.md "wikilink")撰寫，布袋戲劇由臺灣[霹靂布袋戲](../Page/霹靂布袋戲.md "wikilink")製作，劇名由霹靂的黃強華董事長命名。\[1\]本作是[布袋戲](../Page/布袋戲.md "wikilink")此一傳統藝術首次進行臺灣及日本跨界合作的作品。自2016年7月8日起在日本首播，並由[巴哈姆特動畫瘋與](../Page/巴哈姆特電玩資訊站.md "wikilink")[愛奇藝臺灣站](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")、[哔哩哔哩及](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink")[Crunchyroll](../Page/Crunchyroll.md "wikilink")進行三地聯播。
 
-2017年上映外傳電影《[Thunderbolt Fantasy
-生死一劍](../Page/Thunderbolt_Fantasy_生死一劍.md "wikilink")》。2018年10月1日開播第二季《[Thunderbolt
-Fantasy 東離劍遊紀2](../Page/Thunderbolt_Fantasy_東離劍遊紀2.md "wikilink")》。
+2017年上映外傳電影《[Thunderbolt Fantasy 生死一劍](../Page/Thunderbolt_Fantasy_生死一劍.md "wikilink")》。2018年10月1日開播第二季《[Thunderbolt Fantasy 東離劍遊紀2](../Page/Thunderbolt_Fantasy_東離劍遊紀2.md "wikilink")》。
 
 ## 製作
 
-企劃起源於2014年時，[虛淵玄因臺北動漫節來台順道去看](../Page/虛淵玄.md "wikilink")[霹靂布袋戲的展覽時](../Page/霹靂布袋戲.md "wikilink")，得知布袋戲此一類藝術形式後大為訝異，並決志要「把這樣的內容也介紹給日本知道」而帶著霹靂的劇集DVD回日本向同事推廣\[2\]。之後經歷過[Nitro+](../Page/Nitro+.md "wikilink")、[Good
-Smile
-Company](../Page/Good_Smile_Company.md "wikilink")、以及[霹靂國際多媒體的三方協商後](../Page/霹靂國際多媒體.md "wikilink")，Thunderbolt
-Fantasy作品企劃就此誕生。
+企劃起源於2014年時，[虛淵玄](../Page/虛淵玄.md "wikilink")因臺北動漫節來台順道去看[霹靂布袋戲](../Page/霹靂布袋戲.md "wikilink")的展覽時，得知布袋戲此一類藝術形式後大為訝異，並決志要「把這樣的內容也介紹給日本知道」而帶著霹靂的劇集DVD回日本向同事推廣\[2\]。之後經歷過[Nitro+](../Page/Nitro+.md "wikilink")、[Good Smile Company](../Page/Good_Smile_Company.md "wikilink")、以及[霹靂國際多媒體](../Page/霹靂國際多媒體.md "wikilink")的三方協商後，Thunderbolt Fantasy作品企劃就此誕生。
 
 ### 製作團隊
 
@@ -25,8 +19,7 @@ Fantasy作品企劃就此誕生。
   - 角色設計：[Nitro+](../Page/Nitro+.md "wikilink")（三杜シノヴ、源覺、Niθ、中央東口）
   - 人偶雕刻師：洪裕傑\[7\]、洪劍山\[8\]、劉夢凡&黃偉晉\[9\]\[10\]
   - 人偶服裝造型師：樊仕清、陳有豐 \[11\]
-  - 人偶造型顧問：[Good Smile
-    Company](../Page/Good_Smile_Company.md "wikilink")
+  - 人偶造型顧問：[Good Smile Company](../Page/Good_Smile_Company.md "wikilink")
   - 武器設計：[霹靂國際多媒體](../Page/霹靂國際多媒體.md "wikilink")、石渡マコト
   - CG製作：[大畫電影文化](https://zh.wikipedia.org/wiki/大畫電影文化 "wikilink")
   - 音樂：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink")
@@ -34,8 +27,7 @@ Fantasy作品企劃就此誕生。
   - 製片人：陳義方、西本有里、北岡功、中原広絵、山田香穂
   - 助理製作人：宇佐義大、沢野麻由美
   - 執行製片人：[黃亮勛](../Page/黃亮勛.md "wikilink")、でじたろう、安藝貴範
-  - 出品：[霹靂國際多媒體](../Page/霹靂國際多媒體.md "wikilink")、Nitro+、Good Smile
-    Company
+  - 出品：[霹靂國際多媒體](../Page/霹靂國際多媒體.md "wikilink")、Nitro+、Good Smile Company
 
 ## 故事大綱
 
@@ -54,16 +46,14 @@ Fantasy作品企劃就此誕生。
 ### 主要角色
 
   -
-    操偶師：吳聖恩
-    ；[聲](../Page/配音員.md "wikilink")：[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")（日語）／[黃滙峰](https://zh.wikipedia.org/wiki/黃滙峰 "wikilink")（臺語）
+    操偶師：吳聖恩 ；[聲](../Page/配音員.md "wikilink")：[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")（日語）／[黃滙峰](https://zh.wikipedia.org/wiki/黃滙峰 "wikilink")（臺語）
     詩號：「幽夜匿形不謂隱　明光伏影是迷觀　虛實由來如一紙　誰識幻中吾真顏」
     稱號「」，又自稱「」。
     渾身散發著翩翩風度、氣質神秘的美男子，知識淵博，善於計謀，舉手投足永遠優雅從容。攜有易容用頭巾，手中常持煙管「煙月」，所吐之煙能使人產生幻覺，亦可變成破鎖工具或劍。據本人自述，自己專竊桀傲不遜之人的狂傲，意即竊取他人自尊。
     亦身負極高的武學造詣，年輕時致力於修練劍術，因其不世之天賦借由劍道抵達真理。卻也因發覺武道之路永無止盡，隨時間流逝而逐漸產生厭倦之心。最終了解只有隱瞞與欺騙才能愉悅自己的靈魂，故棄劍從賊。
     與丹翡和殤不患相遇後，提議與其一道前往蔑天骸所在的七罪塔。表面上是協助丹翡，但實乃東離一帶出名的江洋大盜，目的在奪取天刑劍，並借其接近蔑天骸。盯上的寶物是絕不放過。
     在故事最後擊敗蔑天骸，本想羞辱他但卻遭其以摧毀天刑劍之法反將一軍，因而失態暴怒。事件解決後暗中跟隨殤不患，藉此尋找下個樂趣。
-    在《Thunderbolt Fantasy
-    生死一剑》殺無生篇中雇佣殺無生作为保镖，表明劝说殺無生归入正道但实际上是通过陷害殺無生是杀人凶手导致其无法归入正道来满足自己的樂趣。在殤不患篇中大肆宣传殤不患的事迹而被殤不患找上门。
+    在《Thunderbolt Fantasy 生死一剑》殺無生篇中雇佣殺無生作为保镖，表明劝说殺無生归入正道但实际上是通过陷害殺無生是杀人凶手导致其无法归入正道来满足自己的樂趣。在殤不患篇中大肆宣传殤不患的事迹而被殤不患找上门。
 
 <!-- end list -->
 
@@ -79,8 +69,7 @@ Fantasy作品企劃就此誕生。
 <!-- end list -->
 
   -
-    操偶師：廖嘉昇
-    ；聲：[中原麻衣](../Page/中原麻衣.md "wikilink")（日語）／[鄧瑋德](https://zh.wikipedia.org/wiki/鄧瑋德 "wikilink")（臺語）
+    操偶師：廖嘉昇 ；聲：[中原麻衣](../Page/中原麻衣.md "wikilink")（日語）／[鄧瑋德](https://zh.wikipedia.org/wiki/鄧瑋德 "wikilink")（臺語）
     詩號：「膺懷丹心承天命　身負恩仇江湖行　裂棄柔絲綺羅絹　付盡情夢仗寒兵」
     稱號「聖輝丹心」
     代代相傳的護印師一族後裔，負責看守祀奉著聖劍「天刑劍」的「鍛劍祠」，以及天刑劍的劍鍔。兵器為「翠輝劍」。
@@ -123,8 +112,7 @@ Fantasy作品企劃就此誕生。
     詩號：「今朝啼鳥訴生死　眾生執迷　江湖宿命無人悟　一劍終末」
     稱號「鳴鳳決殺（メイホウケッサツ）」。兵器為雙劍「鳳啼雙聲」。
     冷酷無情、惡名昭彰的殺手，天下無雙的劍客。自視甚高，一遇上強勁的對手，便忍不住向其挑戰。因夙怨而盯上凜雪鴉，近乎偏執地追殺他。最後隻身挑战蔑天骸，被蔑天骸所杀，屍體被對方厚葬。
-    在《Thunderbolt Fantasy
-    生死一剑》成为凜雪鴉的保镖，为了走上正道而参加剑技会，并杀掉师傅铁笛仙，但因凜雪鴉藉由殺無生來毀掉劍技會的目的已達成，而在最後被凜雪鴉陷害是杀害参赛者的凶手，因此导致殺無生无法回归正道，經由此事而活下來的殺無生，十分憎恨凜雪鴉。
+    在《Thunderbolt Fantasy 生死一剑》成为凜雪鴉的保镖，为了走上正道而参加剑技会，并杀掉师傅铁笛仙，但因凜雪鴉藉由殺無生來毀掉劍技會的目的已達成，而在最後被凜雪鴉陷害是杀害参赛者的凶手，因此导致殺無生无法回归正道，經由此事而活下來的殺無生，十分憎恨凜雪鴉。
 
 ### 玄鬼宗
 
@@ -429,9 +417,7 @@ Fantasy作品企劃就此誕生。
 </tbody>
 </table>
 
-以女主角丹翡為視點描繪的外傳漫畫《Thunderbolt Fantasy 東離劍遊紀
-乙女幻遊奇（）》於2016年9月27日在日本網路漫畫雜誌CHAMPION
-CROSS開始連載。主筆者為。
+以女主角丹翡為視點描繪的外傳漫畫《Thunderbolt Fantasy 東離劍遊紀 乙女幻遊奇（）》於2016年9月27日在日本網路漫畫雜誌CHAMPION CROSS開始連載。主筆者為。
 
 <table>
 <thead>
@@ -535,9 +521,7 @@ Thunderbolt Fantasy 東離劍遊紀 創作合輯ANTHOLOGY</p></td>
 
 ### 外傳小說
 
-以刑亥篇‧殺無生篇所構成的外傳小說。
-刑亥篇由曾執筆小學館GAGAGA文庫所出版之《樂園追放mission.0》、而受到高度評價的「手代木正太郎」擔任作者。
-殺無生篇則由曾在小學館GAGAGA文庫推出的反英雄小說《殺戮兔女郎》系列的英才作家「江波光則」執筆。
+以刑亥篇‧殺無生篇所構成的外傳小說。 刑亥篇由曾執筆小學館GAGAGA文庫所出版之《樂園追放mission.0》、而受到高度評價的「手代木正太郎」擔任作者。 殺無生篇則由曾在小學館GAGAGA文庫推出的反英雄小說《殺戮兔女郎》系列的英才作家「江波光則」執筆。
 
 <table>
 <thead>
@@ -578,14 +562,7 @@ Thunderbolt Fantasy 東離劍遊紀 外傳小說</p></td>
   -
   -
   -
-[Category:霹靂布袋戲](https://zh.wikipedia.org/wiki/Category:霹靂布袋戲 "wikilink")
-[Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink")
-[Category:2016年日本電視節目](https://zh.wikipedia.org/wiki/Category:2016年日本電視節目 "wikilink")
-[Category:日本與海外合作的動畫](https://zh.wikipedia.org/wiki/Category:日本與海外合作的動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
+[Category:霹靂布袋戲](https://zh.wikipedia.org/wiki/Category:霹靂布袋戲 "wikilink") [Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink") [Category:2016年日本電視節目](https://zh.wikipedia.org/wiki/Category:2016年日本電視節目 "wikilink") [Category:日本與海外合作的動畫](https://zh.wikipedia.org/wiki/Category:日本與海外合作的動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
 
 1.
 2.

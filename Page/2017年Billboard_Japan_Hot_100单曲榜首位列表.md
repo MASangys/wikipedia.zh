@@ -1,6 +1,4 @@
-以下是2017年度**[日本热门100金曲](https://zh.wikipedia.org/wiki/日本熱門100金曲榜 "wikilink")**榜单首位曲目的列表。Billboard
-Japan Hot 100（以下简称Japan Hot 100）是日本排行榜单曲之一。Japan Hot
-100，为了体现CD唱片销售无法捕捉到的对世界的冲击感，除了CD销售量之外，还综合了数字销售量、流媒体播放次数、视频播放次数、广播点播次数、被搜索次数、推特上被推次数等7种数据。\[1\]
+以下是2017年度**[日本热门100金曲](https://zh.wikipedia.org/wiki/日本熱門100金曲榜 "wikilink")**榜单首位曲目的列表。Billboard Japan Hot 100（以下简称Japan Hot 100）是日本排行榜单曲之一。Japan Hot 100，为了体现CD唱片销售无法捕捉到的对世界的冲击感，除了CD销售量之外，还综合了数字销售量、流媒体播放次数、视频播放次数、广播点播次数、被搜索次数、推特上被推次数等7种数据。\[1\]
 
 ## 榜单履历
 
@@ -69,9 +67,7 @@ Japan Hot 100（以下简称Japan Hot 100）是日本排行榜单曲之一。Jap
 
 ## 脚注
 
-[Category:Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:Japan_Hot_100冠軍歌曲 "wikilink")
-[Category:音樂作品列表](https://zh.wikipedia.org/wiki/Category:音樂作品列表 "wikilink")
-[Category:2017年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2017年音樂排行榜 "wikilink")
+[Category:Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:Japan_Hot_100冠軍歌曲 "wikilink") [Category:音樂作品列表](https://zh.wikipedia.org/wiki/Category:音樂作品列表 "wikilink") [Category:2017年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2017年音樂排行榜 "wikilink")
 
 1.
 2.

@@ -1,6 +1,4 @@
-《**Butlers～千年百年物語～**》是[SILVER
-LINK.製作的](../Page/SILVER_LINK..md "wikilink")[日本](../Page/日本.md "wikilink")[電視動畫作品](../Page/日本電視動畫.md "wikilink")，2018年4月11日開始播放。為中國淺夏動漫開發的「Intouchable
-Butlers」（男神執事團）的[跨媒體企劃](https://zh.wikipedia.org/wiki/跨媒體企劃 "wikilink")\[1\]。
+《**Butlers～千年百年物語～**》是[SILVER LINK.製作的](../Page/SILVER_LINK..md "wikilink")[日本](../Page/日本.md "wikilink")[電視動畫作品](../Page/日本電視動畫.md "wikilink")，2018年4月11日開始播放。為中國淺夏動漫開發的「Intouchable Butlers」（男神執事團）的[跨媒體企劃](https://zh.wikipedia.org/wiki/跨媒體企劃 "wikilink")\[1\]。
 
 動畫原定於2018年1月開播，後於2017年11月宣佈延期至2018年4月中日共同播放。
 
@@ -216,14 +214,9 @@ Butlers」（男神執事團）的[跨媒體企劃](https://zh.wikipedia.org/wik
 
   -
   -
-  - [Butlers〜千年百年物語〜- Comic
-    Newtype](https://comic.webnewtype.com/contents/butlers/)
+  - [Butlers〜千年百年物語〜- Comic Newtype](https://comic.webnewtype.com/contents/butlers/)
 
-[Category:SILVER_LINK.](https://zh.wikipedia.org/wiki/Category:SILVER_LINK. "wikilink")
-[Category:時間旅行動畫](https://zh.wikipedia.org/wiki/Category:時間旅行動畫 "wikilink")
-[Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink")
-[Category:時間旅行漫畫](https://zh.wikipedia.org/wiki/Category:時間旅行漫畫 "wikilink")
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
+[Category:SILVER_LINK.](https://zh.wikipedia.org/wiki/Category:SILVER_LINK. "wikilink") [Category:時間旅行動畫](https://zh.wikipedia.org/wiki/Category:時間旅行動畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:時間旅行漫畫](https://zh.wikipedia.org/wiki/Category:時間旅行漫畫 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
 
 1.
 2.

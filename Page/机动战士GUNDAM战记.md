@@ -1,14 +1,10 @@
-是[万代南梦宫娱乐于](../Page/万代南梦宫娱乐.md "wikilink")2009年9月3日于PlayStation
-3平台发售的[动作游戏](../Page/动作游戏.md "wikilink")。
+是[万代南梦宫娱乐](../Page/万代南梦宫娱乐.md "wikilink")于2009年9月3日于PlayStation 3平台发售的[动作游戏](../Page/动作游戏.md "wikilink")。
 
-本作发售当日还发售名为“”的PS3
-Slim主机[同捆版](https://zh.wikipedia.org/wiki/同捆 "wikilink")。\[1\]
+本作发售当日还发售名为“”的PS3 Slim主机[同捆版](https://zh.wikipedia.org/wiki/同捆 "wikilink")。\[1\]
 
 ## 剧情
 
-宇宙世纪0081年，[一年战争已经结束了一年多了](../Page/一年战争.md "wikilink")，地球各地的吉翁残党仍不时发动对地球联邦的袭击。为了扫荡各地的吉翁残党，地球联邦成立了由于格·库朗担任队长的“幽灵清讨队”（Phantom
-Sweep Corps）。另一方面，埃里克·布兰克率领吉翁残党的“隐形骑士队”（Invisible Knights
-Corps），抢夺了被联邦军接收的伊夫里特夜袭型，拉开了“水天之泪”作战的序幕。
+宇宙世纪0081年，[一年战争](../Page/一年战争.md "wikilink")已经结束了一年多了，地球各地的吉翁残党仍不时发动对地球联邦的袭击。为了扫荡各地的吉翁残党，地球联邦成立了由于格·库朗担任队长的“幽灵清讨队”（Phantom Sweep Corps）。另一方面，埃里克·布兰克率领吉翁残党的“隐形骑士队”（Invisible Knights Corps），抢夺了被联邦军接收的伊夫里特夜袭型，拉开了“水天之泪”作战的序幕。
 
 ## 登场人物
 
@@ -32,8 +28,7 @@ Corps），抢夺了被联邦军接收的伊夫里特夜袭型，拉开了“水
     27岁，女。于格·库朗的顶头上司。“幽灵清讨队”的指挥官。
     在漫画中马奥·利安是于格·库朗的前女友。
   -
-    45岁。在《[機動戰士GUNDAM外傳
-    殖民地墮落之地](../Page/機動戰士GUNDAM外傳_殖民地墮落之地.md "wikilink")》中就有登场。
+    45岁。在《[機動戰士GUNDAM外傳 殖民地墮落之地](../Page/機動戰士GUNDAM外傳_殖民地墮落之地.md "wikilink")》中就有登场。
 
 #### 其他
 
@@ -43,8 +38,7 @@ Corps），抢夺了被联邦军接收的伊夫里特夜袭型，拉开了“水
 <!-- end list -->
 
   -
-    仅在本作漫画《机动战士敢达战记U.C.0081
-    -水天之泪-》中登场。《[机动战士高达0080：口袋里的战争](../Page/機動戰士GUNDAM_0080：口袋裡的戰爭.md "wikilink")》中登场的人物。
+    仅在本作漫画《机动战士敢达战记U.C.0081 -水天之泪-》中登场。《[机动战士高达0080：口袋里的战争](../Page/機動戰士GUNDAM_0080：口袋裡的戰爭.md "wikilink")》中登场的人物。
     在本作的0081年担任飞马级两栖攻击舰“纯血骏马”号的舰长。
 
 ### 吉翁军
@@ -70,8 +64,7 @@ Corps），抢夺了被联邦军接收的伊夫里特夜袭型，拉开了“水
 
 游戏《机动战士GUNDAM战记》其中一个初回特典就是动画****，时常约7分钟。
 
-剧情为于格·库朗与埃里克·布兰克在阿·巴瓦·库战役时双方的遭遇。对应漫画《机动战士GUNDAM战记U.C.0081
--水天之泪-》的Mission 16-17。
+剧情为于格·库朗与埃里克·布兰克在阿·巴瓦·库战役时双方的遭遇。对应漫画《机动战士GUNDAM战记U.C.0081 -水天之泪-》的Mission 16-17。
 
 ### 登场兵器
 
@@ -119,17 +112,6 @@ Corps），抢夺了被联邦军接收的伊夫里特夜袭型，拉开了“水
 ## 外部链接
 
   -
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:使用PhysX的電子遊戲](https://zh.wikipedia.org/wiki/Category:使用PhysX的電子遊戲 "wikilink")
-[Category:GUNDAM系列電子遊戲](https://zh.wikipedia.org/wiki/Category:GUNDAM系列電子遊戲 "wikilink")
-[Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:PlayStation_3独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3独占游戏 "wikilink")
-[Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink")
-[Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink")
-[Category:GUNDAM系列漫畫](https://zh.wikipedia.org/wiki/Category:GUNDAM系列漫畫 "wikilink")
-[Category:2009年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2009年日本OVA動畫 "wikilink")
-[Category:多人及單人電子遊戲](https://zh.wikipedia.org/wiki/Category:多人及單人電子遊戲 "wikilink")
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
+[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:使用PhysX的電子遊戲](https://zh.wikipedia.org/wiki/Category:使用PhysX的電子遊戲 "wikilink") [Category:GUNDAM系列電子遊戲](https://zh.wikipedia.org/wiki/Category:GUNDAM系列電子遊戲 "wikilink") [Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_3独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3独占游戏 "wikilink") [Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink") [Category:GUNDAM系列漫畫](https://zh.wikipedia.org/wiki/Category:GUNDAM系列漫畫 "wikilink") [Category:2009年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2009年日本OVA動畫 "wikilink") [Category:多人及單人電子遊戲](https://zh.wikipedia.org/wiki/Category:多人及單人電子遊戲 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
 
 1.

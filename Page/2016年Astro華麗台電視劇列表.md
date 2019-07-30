@@ -1,8 +1,8 @@
-本條目內之「播放日期」，是指[马来西亚](../Page/马来西亚.md "wikilink")[Astro華麗台的播放日期](../Page/Astro華麗台.md "wikilink")。
+本條目內之「播放日期」，是指[马来西亚](../Page/马来西亚.md "wikilink")[Astro華麗台](../Page/Astro華麗台.md "wikilink")的播放日期。
 
 ## 8.00港劇時段
 
-2月22日起，与[香港同步播出](../Page/香港.md "wikilink")。5月2日起，与大马版[翡翠台同步播出](../Page/翡翠台.md "wikilink")
+2月22日起，与[香港](../Page/香港.md "wikilink")同步播出。5月2日起，与大马版[翡翠台](../Page/翡翠台.md "wikilink")同步播出
 
 <table style="width:274%;">
 <colgroup>
@@ -38,7 +38,7 @@ Come Home Love</p></td>
 <a href="../Page/何君誠.md" title="wikilink">何君誠</a>、<a href="../Page/吳業坤.md" title="wikilink">吳業坤</a>、<a href="https://zh.wikipedia.org/wiki/龔嘉欣" title="wikilink">龔嘉欣</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/羅鎮岳.md" title="wikilink">羅鎮岳</a></p></td>
 <td style="text-align: center;"><p>主：愛同行（<a href="../Page/鄭俊弘.md" title="wikilink">鄭俊弘</a>）</p></td>
-<td style="text-align: center;"><p>2月22日前與<a href="../Page/香港.md" title="wikilink">香港同日播放</a>，2月8日及9日暫停播映</p></td>
+<td style="text-align: center;"><p>2月22日前與<a href="../Page/香港.md" title="wikilink">香港</a>同日播放，2月8日及9日暫停播映</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>04/04-<br />
@@ -155,7 +155,7 @@ Lord Of Shanghai</p></td>
 <a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a>、<a href="../Page/胡杏兒.md" title="wikilink">胡杏兒</a>、<a href="../Page/蘇玉華.md" title="wikilink">蘇玉華</a>、<br />
 <a href="../Page/吳卓羲.md" title="wikilink">吳卓羲</a>、<a href="../Page/陳煒.md" title="wikilink">陳　煒</a>、<a href="../Page/關禮傑.md" title="wikilink">關禮傑</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/王心慰.md" title="wikilink">王心慰</a></p></td>
-<td style="text-align: center;"><p>主：黑雨（<a href="../Page/張家誠.md" title="wikilink">張家誠作曲</a>）<br />
+<td style="text-align: center;"><p>主：黑雨（<a href="../Page/張家誠.md" title="wikilink">張家誠</a>作曲）<br />
 插：歲月無悔（<a href="https://zh.wikipedia.org/wiki/許廷鏗" title="wikilink">許廷鏗</a>）</p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -206,7 +206,7 @@ Hidden Faces</p></td>
 <a href="https://zh.wikipedia.org/wiki/楊淇" title="wikilink">楊　淇</a>、<a href="../Page/陳宇琛.md" title="wikilink">陳宇琛</a>、<a href="../Page/何思諺.md" title="wikilink">何思諺</a>、<br />
 <a href="../Page/姜麗文.md" title="wikilink">姜麗文</a>、<a href="../Page/劉玉翠.md" title="wikilink">劉玉翠</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/關樹明.md" title="wikilink">關樹明</a></p></td>
-<td style="text-align: center;"><p>主：三面形醫主題音樂（<a href="../Page/謝國維.md" title="wikilink">謝國維作曲</a>）</p></td>
+<td style="text-align: center;"><p>主：三面形醫主題音樂（<a href="../Page/謝國維.md" title="wikilink">謝國維</a>作曲）</p></td>
 <td style="text-align: center;"><p>Astro华丽台首次播放<a href="https://zh.wikipedia.org/wiki/香港电视网络" title="wikilink">香港电视的港剧</a></p></td>
 </tr>
 <tr class="odd">
@@ -405,7 +405,7 @@ The Borderline</p></td>
 <a href="../Page/周俊偉.md" title="wikilink">周俊偉</a>、<a href="../Page/蔣祖曼.md" title="wikilink">蔣祖曼</a>、<a href="../Page/廖安麗.md" title="wikilink">廖安麗</a>、<br />
 <a href="../Page/姜皓文.md" title="wikilink">姜皓文</a>、<a href="../Page/梁寶琪.md" title="wikilink">梁寶琪</a>、<a href="../Page/呂熙.md" title="wikilink">呂　熙</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/蘇萬聰.md" title="wikilink">蘇萬聰</a></p></td>
-<td style="text-align: center;"><p>主：警界線主題音樂（<a href="../Page/陳詩慧.md" title="wikilink">陳詩慧作曲</a>）</p></td>
+<td style="text-align: center;"><p>主：警界線主題音樂（<a href="../Page/陳詩慧.md" title="wikilink">陳詩慧</a>作曲）</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
@@ -572,7 +572,6 @@ Captain Of Destiny</p></td>
 
 ## 參考及連結
 
-  - [Astro華麗台
-    官方網站](https://web.archive.org/web/20160502163026/http://zhongwen.astro.com.my/Channels/WLT.aspx)
+  - [Astro華麗台 官方網站](https://web.archive.org/web/20160502163026/http://zhongwen.astro.com.my/Channels/WLT.aspx)
 
 [Category:Astro華麗台電視劇列表](https://zh.wikipedia.org/wiki/Category:Astro華麗台電視劇列表 "wikilink")

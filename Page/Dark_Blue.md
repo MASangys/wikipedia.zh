@@ -1,5 +1,4 @@
-《**Dark Blue**》是LiLiM
-DARKNESS在2009年11月27日發售的[冒險類型](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，BLUE系列的第5個作品。在2011年5月26日發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\][OVA是由PoRO發售](https://zh.wikipedia.org/wiki/OVA "wikilink")。\[4\]
+《**Dark Blue**》是LiLiM DARKNESS在2009年11月27日發售的[冒險類型](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，BLUE系列的第5個作品。在2011年5月26日發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\][OVA是由PoRO發售](https://zh.wikipedia.org/wiki/OVA "wikilink")。\[4\]
 
 ## 故事
 
@@ -101,22 +100,12 @@ DARKNESS在2009年11月27日發售的[冒險類型](https://zh.wikipedia.org/wik
 
   - [LiliM](http://s-digi.jp/lilim/)
 
-[Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
-[Category:2012年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2012年日本成人動畫 "wikilink")
-[Category:獵奇作品](https://zh.wikipedia.org/wiki/Category:獵奇作品 "wikilink")
+[Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:2012年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2012年日本成人動畫 "wikilink") [Category:獵奇作品](https://zh.wikipedia.org/wiki/Category:獵奇作品 "wikilink")
 
 1.
 2.  [Dark Blue](https://vndb.org/v2715)The Visual Novel Database
-3.  [Dark
-    Blue](http://www.dennoclub.com/TitleList/dcpg/DCPG240/dcpg240.htm)電脳CLUB
-4.  [Dark Blue
-    (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14502)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+3.  [Dark Blue](http://www.dennoclub.com/TitleList/dcpg/DCPG240/dcpg240.htm)電脳CLUB
+4.  [Dark Blue (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14502)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 5.  [Dark Blue](http://erogetrailers.com/soft/6636)ErogeTrailers
 6.
 7.

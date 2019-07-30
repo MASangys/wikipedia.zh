@@ -15,21 +15,17 @@
 
   - ，愛爾蘭通訊公司
 
-  - [Mohawk Data Sciences
-    Corporation](https://zh.wikipedia.org/wiki/Mohawk_Data_Sciences_Corporation "wikilink"),
-    a -based computer company (co-founder )
+  - [Mohawk Data Sciences Corporation](https://zh.wikipedia.org/wiki/Mohawk_Data_Sciences_Corporation "wikilink"), a -based computer company (co-founder )
 
   - （Mouvement pour la Démocratie Socialiste），前布吉納法索政黨。
 
   - （Mouvement des Démocrates Socialistes），突尼西亞政黨。
 
-  - Mushroom Distribution Services, a distributor for , an Australian
-    record label.
+  - Mushroom Distribution Services, a distributor for , an Australian record label.
 
 ## 科技
 
-  - [国际材料数据系统](https://zh.wikipedia.org/wiki/国际材料数据系统 "wikilink")（Material
-    Data Sheet）
+  - [国际材料数据系统](https://zh.wikipedia.org/wiki/国际材料数据系统 "wikilink")（Material Data Sheet）
 
   - ，一種影像檔副檔名
 
@@ -39,8 +35,7 @@
 
   - , a measure of sensitivity
 
-  - mds, a daemon in Mac OS X [Spotlight
-    (software)](https://zh.wikipedia.org/wiki/Spotlight "wikilink")
+  - mds, a daemon in Mac OS X [Spotlight (software)](https://zh.wikipedia.org/wiki/Spotlight "wikilink")
 
   - , in Microsoft SQL
 
@@ -50,8 +45,7 @@
 
 ## 醫學
 
-  - [骨髓增生异常综合症](https://zh.wikipedia.org/wiki/骨髓增生异常综合症 "wikilink")（Myelodysplastic
-    syndrome）
+  - [骨髓增生异常综合症](https://zh.wikipedia.org/wiki/骨髓增生异常综合症 "wikilink")（Myelodysplastic syndrome）
 
   - , a neurological disorder
 
@@ -64,13 +58,11 @@
 
   - [多维标度](../Page/多维标度.md "wikilink")（Multidimensional scaling），一統計工具。
 
-  - [撒哈拉沙漠馬拉松](../Page/撒哈拉沙漠馬拉松.md "wikilink")（Marathon des
-    Sables），舉辦於摩洛哥的超級馬拉松
+  - [撒哈拉沙漠馬拉松](../Page/撒哈拉沙漠馬拉松.md "wikilink")（Marathon des Sables），舉辦於摩洛哥的超級馬拉松
 
   - , in probability theory
 
-  - [最大距離分離碼](https://zh.wikipedia.org/wiki/Singleton_界 "wikilink")（Maximum
-    distance separable code）
+  - [最大距離分離碼](https://zh.wikipedia.org/wiki/Singleton_界 "wikilink")（Maximum distance separable code）
 
   - Mission Design Series, a
 

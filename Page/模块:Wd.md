@@ -1,8 +1,4 @@
-\-- Original module located at
-[:en:Module:Wd](https://zh.wikipedia.org/wiki/:en:Module:Wd "wikilink"),
-[:en:Module:Wd/i18n](https://zh.wikipedia.org/wiki/:en:Module:Wd/i18n "wikilink")
-and
-[:en:Module:Wd/aliasesP](https://zh.wikipedia.org/wiki/:en:Module:Wd/aliasesP "wikilink").
+\-- Original module located at [:en:Module:Wd](https://zh.wikipedia.org/wiki/:en:Module:Wd "wikilink"), [:en:Module:Wd/i18n](https://zh.wikipedia.org/wiki/:en:Module:Wd/i18n "wikilink") and [:en:Module:Wd/aliasesP](https://zh.wikipedia.org/wiki/:en:Module:Wd/aliasesP "wikilink").
 
 local p = {} local arg = ... local i18n
 
@@ -117,8 +113,7 @@ local hookNames = { -- {level_1, level_2}
 
 }
 
-\-- default value objects, should NOT be mutated but instead copied
-local defaultSeparators = {
+\-- default value objects, should NOT be mutated but instead copied local defaultSeparators = {
 
 `   ["sep"]      = {""},`
 `   ["sep%s"]    = {"、"},`
@@ -314,18 +309,14 @@ end
 function buildWikilink(target, label)
 
 `   if not label or target == label then`
-`       return "`[`"``   ``..``   ``target``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._target_.._" "wikilink")`"`
+`       return "`[`"``   ``..``   ``target``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._target_.._" "wikilink")`"`
 `   else`
-`       return "`[`"``   ``..``   ``label``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._target_.._" "wikilink")`"`
+`       return "`[`"``   ``..``   ``label``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._target_.._" "wikilink")`"`
 `   end`
 
 end
 
-\-- used to make frame.args mutable, to replace \#frame.args (which is
-always 0) -- with the actual amount and to simply copy tables function
-copyTable(tIn)
+\-- used to make frame.args mutable, to replace \#frame.args (which is always 0) -- with the actual amount and to simply copy tables function copyTable(tIn)
 
 `   if not tIn then`
 `       return nil`
@@ -341,8 +332,7 @@ copyTable(tIn)
 
 end
 
-\-- used to merge output arrays together; -- note that it currently
-mutates the first input array function mergeArrays(a1, a2)
+\-- used to merge output arrays together; -- note that it currently mutates the first input array function mergeArrays(a1, a2)
 
 `   for i = 1, #a2 do`
 `       a1[#a1 + 1] = a2[i]`
@@ -507,15 +497,7 @@ function alwaysTrue()
 
 end
 
-\-- The following function parses a format string. -- -- The example
-below shows how a parsed string is structured in memory. -- Variables
-other than 'str' and 'child' are left out for clarity's sake. -- --
-Example: -- "A %p B \[%s\[%q1\]\] C \[%r\] D" -- -- Structure: -- \[ --
-{ -- str = "A " -- }, -- { -- str = "%p" -- }, -- { -- str = " B ", --
-child = -- \[ -- { -- str = "%s", -- child = -- \[ -- { -- str = "%q1"
--- } -- \] -- } -- \] -- }, -- { -- str = " C ", -- child = -- \[ -- {
--- str = "%r" -- } -- \] -- }, -- { -- str = " D" -- } -- \] -- function
-parseFormat(str)
+\-- The following function parses a format string. -- -- The example below shows how a parsed string is structured in memory. -- Variables other than 'str' and 'child' are left out for clarity's sake. -- -- Example: -- "A %p B \[%s\[%q1\]\] C \[%r\] D" -- -- Structure: -- \[ -- { -- str = "A " -- }, -- { -- str = "%p" -- }, -- { -- str = " B ", -- child = -- \[ -- { -- str = "%s", -- child = -- \[ -- { -- str = "%q1" -- } -- \] -- } -- \] -- }, -- { -- str = " C ", -- child = -- \[ -- { -- str = "%r" -- } -- \] -- }, -- { -- str = " D" -- } -- \] -- function parseFormat(str)
 
 `   local chr, esc, param, root, cur, prev, new`
 `   local params = {}`
@@ -638,8 +620,7 @@ function sortOnRank(claims)
 
 end
 
-\-- if id == nil then item connected to current page is used function
-Config:getLabel(id, raw, link, short)
+\-- if id == nil then item connected to current page is used function Config:getLabel(id, raw, link, short)
 
 `   local label = nil`
 `   local title = nil`
@@ -737,8 +718,7 @@ function Config:getEditIcon()
 `       back = '`</span>`'`
 `   end`
 `   `
-`   value = "[`[`pencil.svg|frameless|text-top|10px|alt="``   ``..``
- ``i18n['info'`](File:Blue)`['edit-on-wikidata'] .. "|link=`<https://www.wikidata.org/wiki/>`" .. prefix .. self.entityID .. "?uselang=" .. self.langCode`
+`   value = "[`[`pencil.svg|frameless|text-top|10px|alt="``   ``..``   ``i18n['info'`](File:Blue)`['edit-on-wikidata'] .. "|link=`<https://www.wikidata.org/wiki/>`" .. prefix .. self.entityID .. "?uselang=" .. self.langCode`
 `   `
 `   if self.propertyID then`
 `       value = value .. "#" .. self.propertyID`
@@ -752,10 +732,7 @@ function Config:getEditIcon()
 
 end
 
-\-- used to create the final output string when it's all done, so that
-for references the -- function extensionTag("ref", ...) is only called
-when they really ended up in the final output function
-Config:concatValues(valuesArray)
+\-- used to create the final output string when it's all done, so that for references the -- function extensionTag("ref", ...) is only called when they really ended up in the final output function Config:concatValues(valuesArray)
 
 `   local outString = ""`
 `   local j, skip`
@@ -819,8 +796,7 @@ function Config:convertUnit(unit, raw, link, short, unitOnly)
 
 end
 
-function Config:getValue(snak, raw, link, short, anyLang, unitOnly,
-noSpecial)
+function Config:getValue(snak, raw, link, short, anyLang, unitOnly, noSpecial)
 
 `   if snak.snaktype == 'value' then`
 `       local datatype = snak.datavalue.type`
@@ -840,9 +816,7 @@ noSpecial)
 `               if link then`
 `                   return buildWikilink("c:File:" .. datavalue, datavalue)`
 `               elseif not raw then`
-`                   return "`[`File:"``   ``..``   ``datavalue``
- ``..``
- ``"`](https://zh.wikipedia.org/wiki/File:"_.._datavalue_.._" "fig:File:\" .. datavalue .. \"")`"`
+`                   return "`[`File:"``   ``..``   ``datavalue``   ``..``   ``"`](https://zh.wikipedia.org/wiki/File:"_.._datavalue_.._" "fig:File:\" .. datavalue .. \"")`"`
 `               else`
 `                   return datavalue`
 `               end`
@@ -1638,10 +1612,7 @@ function Config:setFormatAndSeparators(state, parsedFormat)
 
 end
 
-\-- determines if a claim has references by prefetching them from the
-claim using getReferences, -- which applies some filtering that
-determines if a reference is actually returned, -- and caches the
-references for later use function State:isSourced(claim)
+\-- determines if a claim has references by prefetching them from the claim using getReferences, -- which applies some filtering that determines if a reference is actually returned, -- and caches the references for later use function State:isSourced(claim)
 
 `   self.conf.prefetchedRefs = self:getReferences(claim)`
 `   return (#self.conf.prefetchedRefs > 0)`
@@ -1790,8 +1761,7 @@ end
 
 end
 
-\-- level 1 hook function State:getAllQualifiers(claim, param, result,
-hooks)
+\-- level 1 hook function State:getAllQualifiers(claim, param, result, hooks)
 
 `   local out = {}  -- array with value objects`
 `   local sep = self.conf.separators["sep"..parameters.qualifier][1]  -- value object`
@@ -1976,8 +1946,7 @@ end
 `           `
 `           -- then add "stated in"`
 `           if params[p.aliasesP.statedIn] then`
-`               citeParams['default'][#citeParams['default'] + 1] = "`*`"``
- ``..``   ``params[p.aliasesP.statedIn][1]``   ``..``   ``"`*`"`
+`               citeParams['default'][#citeParams['default'] + 1] = "`*`"``   ``..``   ``params[p.aliasesP.statedIn][1]``   ``..``   ``"`*`"`
 `           end`
 `           `
 `           -- remove previously added parameters so that they won't be added a second time`
@@ -2018,8 +1987,7 @@ end
 
 end
 
-\-- gets a detail of one particular type for a reference function
-State:getReferenceDetail(snaks, dType, raw, link, anyLang)
+\-- gets a detail of one particular type for a reference function State:getReferenceDetail(snaks, dType, raw, link, anyLang)
 
 `   local switchLang = anyLang`
 `   local value = nil`
@@ -2049,8 +2017,7 @@ State:getReferenceDetail(snaks, dType, raw, link, anyLang)
 
 end
 
-\-- gets the details of one particular type for a reference function
-State:getReferenceDetails(snaks, dType, raw, link, anyLang)
+\-- gets the details of one particular type for a reference function State:getReferenceDetails(snaks, dType, raw, link, anyLang)
 
 `   local values = {}`
 `   `
@@ -2134,8 +2101,7 @@ function State:callHook(param, hooks, statement, result)
 
 end
 
-\-- iterate through claims, claim's qualifiers or claim's references to
-collect values function State:iterate(statements, hooks, matchHook)
+\-- iterate through claims, claim's qualifiers or claim's references to collect values function State:iterate(statements, hooks, matchHook)
 
 `   matchHook = matchHook or alwaysTrue`
 `   `
@@ -2554,9 +2520,7 @@ function generalCommand(args, funcName)
 
 end
 
-\-- modules that include this module should call the functions with an
-underscore prepended, e.g.: p._property(args) function
-establishCommands(commandList, commandFunc)
+\-- modules that include this module should call the functions with an underscore prepended, e.g.: p._property(args) function establishCommands(commandList, commandFunc)
 
 `   for commandIndex, commandName in pairs(commandList) do`
 `       local function wikitextWrapper(frame)`
@@ -2577,11 +2541,9 @@ establishCommands(commandList, commandFunc)
 
 end
 
-establishCommands(p.claimCommands, claimCommand)
-establishCommands(p.generalCommands, generalCommand)
+establishCommands(p.claimCommands, claimCommand) establishCommands(p.generalCommands, generalCommand)
 
-\-- main function that is supposed to be used by wrapper templates
-function p.main(frame)
+\-- main function that is supposed to be used by wrapper templates function p.main(frame)
 
 `   local f, args, i, v`
 `   `

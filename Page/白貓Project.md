@@ -1,4 +1,4 @@
-是源於[日本](../Page/日本.md "wikilink")，由在日本及[韓國營運的奇幻主題](https://zh.wikipedia.org/wiki/韓國 "wikilink")[動作角色扮演](../Page/動作角色扮演遊戲.md "wikilink")[社交網絡遊戲](https://zh.wikipedia.org/wiki/社交網絡遊戲 "wikilink")，對應[Android和](../Page/Android.md "wikilink")[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")。台港澳[正體中文版版本由](https://zh.wikipedia.org/wiki/正體中文 "wikilink")[台灣碩網](../Page/So-net.md "wikilink")(So-net)代理。
+是源於[日本](../Page/日本.md "wikilink")，由在日本及[韓國營運的奇幻主題](https://zh.wikipedia.org/wiki/韓國 "wikilink")[動作角色扮演](../Page/動作角色扮演遊戲.md "wikilink")[社交網絡遊戲](https://zh.wikipedia.org/wiki/社交網絡遊戲 "wikilink")，對應[Android](../Page/Android.md "wikilink")和[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")。台港澳[正體中文版版本由](https://zh.wikipedia.org/wiki/正體中文 "wikilink")[台灣碩網](../Page/So-net.md "wikilink")(So-net)代理。
 
 ## 遊戲特色
 
@@ -26,10 +26,9 @@
 
 2016年2月19日，遊戲開發公司於官方[Youtube頻道公佈全新的遊戲任務](https://zh.wikipedia.org/wiki/Youtube "wikilink")：塔樓。玩家需要在限時內盡量完成8層會產生隨機怪物的塔樓關卡。和以往爭挑戰通關時間的神速關卡相近，玩家每擊殺一只怪物，或是打開寶箱和木箱，皆可以延長時限。塔樓有不同難度供挑戰。限時完結後，系統將會視乎關卡的難度和完成度，以及剩餘時間給予獎品。\[11\]
 
-2018年2月14日，遊戲新增 "Class Change" 系統
-（クラスチェンジ），讓玩家為個別角色選擇另一套操作和數值模或，以改善舊角色的操作手感。\[12\]
+2018年2月14日，遊戲新增 "Class Change" 系統 （クラスチェンジ），讓玩家為個別角色選擇另一套操作和數值模或，以改善舊角色的操作手感。\[12\]
 
-遊戲推出多個語言版本，並實行[本土化以切合不同語言和地域的玩家的喜好和需要](../Page/本土化.md "wikilink")，故各語言版本的系統和營運上各有特色和差異。
+遊戲推出多個語言版本，並實行[本土化](../Page/本土化.md "wikilink")以切合不同語言和地域的玩家的喜好和需要，故各語言版本的系統和營運上各有特色和差異。
 
 ## 版本歷史
 
@@ -37,40 +36,34 @@
 
 中國大陸簡體中文版由-{谷}-米中國（又稱Gumi中國）及上海晨之科信息技术有限公司(簡稱晨之科)共同營運，中國大陸版（簡稱陸版）因營運問題已於2016年8月31日結束營運。
 
-2015年7月23日，由COLOPL NI
-Inc.正式發行\[13\]的英語版向[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[泰國及](https://zh.wikipedia.org/wiki/泰國 "wikilink")[印度地區用戶開放](../Page/印度.md "wikilink")\[14\]，其後於8月13日在[加拿大推出](../Page/加拿大.md "wikilink")\[15\]。2015年10月21日及22日，英語版分別在Android和iOS平台對世界各國開放\[16\]\[17\]。
+2015年7月23日，由COLOPL NI Inc.正式發行\[13\]的英語版向[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[泰國及](https://zh.wikipedia.org/wiki/泰國 "wikilink")[印度](../Page/印度.md "wikilink")地區用戶開放\[14\]，其後於8月13日在[加拿大](../Page/加拿大.md "wikilink")推出\[15\]。2015年10月21日及22日，英語版分別在Android和iOS平台對世界各國開放\[16\]\[17\]。
 
 ## 歌曲
 
 **主題曲**
 
   - 「Stand Up\!」
-    作詞：[あさのますみ](../Page/浅野真澄.md "wikilink") ，作曲、編曲：，主唱：
-    [堀江由衣](../Page/堀江由衣.md "wikilink")
+    作詞：[あさのますみ](../Page/浅野真澄.md "wikilink") ，作曲、編曲：，主唱： [堀江由衣](../Page/堀江由衣.md "wikilink")
     在遊戲內的進行協力隊員募集及載入協力地圖時播放。
 
 <!-- end list -->
 
   - 「微力ながらGO！」
-    替入「Stand Up\!」的歌曲。2月中又協力曲再度變回「Stand
-    Up\!」收錄於2016年發行的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《校歌斉唱\!私立茶熊学園》內。
+    替入「Stand Up\!」的歌曲。2月中又協力曲再度變回「Stand Up\!」收錄於2016年發行的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《校歌斉唱\!私立茶熊学園》內。
   - 「校歌斉唱\!私立茶熊学園」
     茶熊學園活動的歌曲，收錄於2016年發行的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《校歌斉唱\!私立茶熊学園》內。
 
 ## 評價及迴響
 
-2014年12月9日，遊戲獲日本[Google
-Play選為年度最佳三十個遊戲之一](../Page/Google_Play.md "wikilink")。
-\[18\] \[19\]
+2014年12月9日，遊戲獲日本[Google Play選為年度最佳三十個遊戲之一](../Page/Google_Play.md "wikilink")。 \[18\] \[19\]
 
 2014年12月，遊戲獲iOS系統的日本App Store選為年度最佳遊戲亞軍。\[20\]
 
-2015年4月22日，此遊戲獲得日本知名電子遊戲雜誌[Fami通舉辦的](../Page/Fami通.md "wikilink")「Fami通大獎2014」新秀獎及優秀獎。\[21\]
+2015年4月22日，此遊戲獲得日本知名電子遊戲雜誌[Fami通](../Page/Fami通.md "wikilink")舉辦的「Fami通大獎2014」新秀獎及優秀獎。\[21\]
 
 2015年7月6日，此遊戲於日本「MCF」舉辦的「MAP2015」優秀賞。\[22\]\[23\]
 
-2015年12月3日，此遊戲的正體中文版獲台灣[Google
-Play選為年度最佳三十個遊戲之一](../Page/Google_Play.md "wikilink")。\[24\]
+2015年12月3日，此遊戲的正體中文版獲台灣[Google Play選為年度最佳三十個遊戲之一](../Page/Google_Play.md "wikilink")。\[24\]
 
 ## 成為抄襲對象
 
@@ -89,14 +82,12 @@ Play選為年度最佳三十個遊戲之一](../Page/Google_Play.md "wikilink")�
 
 <!-- end list -->
 
-  - [問答RPG
-    魔法使與黑貓維茲](../Page/問答RPG_魔法使與黑貓維茲.md "wikilink")（以下簡稱為「黑貓維茲」）（第一彈:2014年12月～2015年2月，第二彈:2016年3月）
+  - [問答RPG 魔法使與黑貓維茲](../Page/問答RPG_魔法使與黑貓維茲.md "wikilink")（以下簡稱為「黑貓維茲」）（第一彈:2014年12月～2015年2月，第二彈:2016年3月）
 
 <!-- end list -->
 
   -
-    作為「白猫×黒猫
-    大感謝祭」的一部份，官方在12月公佈了的女主角「維茲」的聲優，並隨即開放了供《白貓Project》玩家投票的《黑貓維茲》人氣角色總選舉。依次序首6名角色：法姆、米迦菈、麗維塔、皮諾、芙蕾、莉絲\[28\]，分別以魔法師、劍士、槍兵、弓兵、戰士和格鬥家職業，在2月於限定卡池推出。活動期間，維茲及其武器作為禮物以魔法師職業在遊戲中登場。相同的黑貓維茲人物和武器在2015年8月於台港澳版推出。
+    作為「白猫×黒猫 大感謝祭」的一部份，官方在12月公佈了的女主角「維茲」的聲優，並隨即開放了供《白貓Project》玩家投票的《黑貓維茲》人氣角色總選舉。依次序首6名角色：法姆、米迦菈、麗維塔、皮諾、芙蕾、莉絲\[28\]，分別以魔法師、劍士、槍兵、弓兵、戰士和格鬥家職業，在2月於限定卡池推出。活動期間，維茲及其武器作為禮物以魔法師職業在遊戲中登場。相同的黑貓維茲人物和武器在2015年8月於台港澳版推出。
     另外，《白貓Project》的角色：米菈、春香、安娜、蜜柑、神威、嘉妮特，也在《黑貓維茲》的卡池登場。
 
 <!-- end list -->
@@ -112,10 +103,8 @@ Play選為年度最佳三十個遊戲之一](../Page/Google_Play.md "wikilink")�
 <!-- end list -->
 
   -
-    《白貓Project》與《黑貓維茲》在中川翔子生日及CD《》推出時進行合作計劃。合作計劃的主題歌「LUCKY
-    DIP」亦收錄在內\[29\]。值得注意的是中川翔子家中本來就養了十隻[貓](https://zh.wikipedia.org/wiki/中川翔子#個人資料 "wikilink")。
-    在《白貓Project》中，中川翔子本人作為魔法師在遊戲中免費發布\[30\]。該角色除了使用她本人的配音外，技能釋放時播放的歌曲正是活動歌「LUCKY
-    DIP」。
+    《白貓Project》與《黑貓維茲》在中川翔子生日及CD《》推出時進行合作計劃。合作計劃的主題歌「LUCKY DIP」亦收錄在內\[29\]。值得注意的是中川翔子家中本來就養了十隻[貓](https://zh.wikipedia.org/wiki/中川翔子#個人資料 "wikilink")。
+    在《白貓Project》中，中川翔子本人作為魔法師在遊戲中免費發布\[30\]。該角色除了使用她本人的配音外，技能釋放時播放的歌曲正是活動歌「LUCKY DIP」。
     此外，活動期間還有全套共7個原創角色的期間卡池開放\[31\]。
 
 <!-- end list -->
@@ -137,15 +126,14 @@ Play選為年度最佳三十個遊戲之一](../Page/Google_Play.md "wikilink")�
   -
     《七大罪》中的七個角色：梅里奧達斯、黛安娜、班、金恩、哥塞爾、瑪琳、吉爾桑達，分別以雙劍士、戰士、格鬥家、槍兵、弓兵、魔法師和劍士職業，在限定卡池中登場。另外限定建築「豚の帽子」亦在遊戲中發布\[33\]。
 
-2018年5月日版推出 七大罪2 – 戒律的宴會 第二次合作 限定角色
-梅里奧達斯(劍士)、伊莉莎白(魔法師)、艾斯卡諾(戰士)其中艾斯卡諾會隨著遊戲的時間不同而出現強度變化
+2018年5月日版推出 七大罪2 – 戒律的宴會 第二次合作 限定角色 梅里奧達斯(劍士)、伊莉莎白(魔法師)、艾斯卡諾(戰士)其中艾斯卡諾會隨著遊戲的時間不同而出現強度變化
 
   - 杉田智和のアニゲラ！ディドゥーーン！！（2015年10月）\[34\]
 
 <!-- end list -->
 
   -
-    在這個《白貓Project》與男性聲優[杉田智和主持的廣播節目](../Page/杉田智和.md "wikilink")「」合作的計劃中，官方向玩家募集武器的意見，為每個遊戲職業的各設計一把武器，於2015年11月24日暫時替入2周實裝\[35\]。2個在10月下旬在廣播節目其中一個環節「フォースター☆プロジェクト」中登者的2個角色：タージ和とアジルス＆ケイオス已在在十月三十一日分別以的雙劍士及龍騎士職業加入人物普通卡池\[36\]。另外，可以提高與角色友好度增加速度的期間限定建築已於2015年10月19日開放\[37\]。
+    在這個《白貓Project》與男性聲優[杉田智和](../Page/杉田智和.md "wikilink")主持的廣播節目「」合作的計劃中，官方向玩家募集武器的意見，為每個遊戲職業的各設計一把武器，於2015年11月24日暫時替入2周實裝\[35\]。2個在10月下旬在廣播節目其中一個環節「フォースター☆プロジェクト」中登者的2個角色：タージ和とアジルス＆ケイオス已在在十月三十一日分別以的雙劍士及龍騎士職業加入人物普通卡池\[36\]。另外，可以提高與角色友好度增加速度的期間限定建築已於2015年10月19日開放\[37\]。
 
 <!-- end list -->
 
@@ -164,25 +152,20 @@ Play選為年度最佳三十個遊戲之一](../Page/Google_Play.md "wikilink")�
 
   -
     2015年12月28日單色小姐以魔導士職業，聯同其他7個角色在第17期普通卡池登場，每名用戶抽獎第一抽必中一個這期的角色。另外同日亦實裝角色的專屬武器。
-    除此以外，《白貓Project》中的白貓凱朵拉(キャトラ)曾客串登場於2015年11月20日播放的[單色小姐 -The
-    Animation-
-    第三季第](https://zh.wikipedia.org/wiki/黑白小姐 "wikilink")8話\[39\]。(單色小姐的cv和キャトラ的cv同樣為[堀江由衣](../Page/堀江由衣.md "wikilink"))
+    除此以外，《白貓Project》中的白貓凱朵拉(キャトラ)曾客串登場於2015年11月20日播放的[單色小姐 -The Animation- 第三季第](https://zh.wikipedia.org/wiki/黑白小姐 "wikilink")8話\[39\]。(單色小姐的cv和キャトラ的cv同樣為[堀江由衣](../Page/堀江由衣.md "wikilink"))
 
 <!-- end list -->
 
-  - [HUNTER×HUNTER
-    獵人](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")（2016年6月）
+  - [HUNTER×HUNTER 獵人](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")（2016年6月）
 
 <!-- end list -->
 
   -
-    Colopl於2016年6月13日宣布旗下手機遊戲《白貓Project》日版將於6月15日與知名動漫作品《HUNTER×HUNTER
-    獵人》推出合作活動，小傑、奇犽等多名《獵人》中的代表角色都將登場。
+    Colopl於2016年6月13日宣布旗下手機遊戲《白貓Project》日版將於6月15日與知名動漫作品《HUNTER×HUNTER 獵人》推出合作活動，小傑、奇犽等多名《獵人》中的代表角色都將登場。
 
 <!-- end list -->
 
-  - [FAIRY
-    TAIL](https://zh.wikipedia.org/wiki/FAIRY_TAIL "wikilink")（繁體中文版：2017年2月，日版：2017年8月）
+  - [FAIRY TAIL](https://zh.wikipedia.org/wiki/FAIRY_TAIL "wikilink")（繁體中文版：2017年2月，日版：2017年8月）
 
 <!-- end list -->
 
@@ -204,15 +187,12 @@ Play選為年度最佳三十個遊戲之一](../Page/Google_Play.md "wikilink")�
 
 <!-- end list -->
 
-  - [Thunderbolt Fantasy
-    東離劍遊紀](../Page/Thunderbolt_Fantasy_東離劍遊紀.md "wikilink")（繁體中文版：2017年7月）
+  - [Thunderbolt Fantasy 東離劍遊紀](../Page/Thunderbolt_Fantasy_東離劍遊紀.md "wikilink")（繁體中文版：2017年7月）
 
 <!-- end list -->
 
   -
-    台版推出霹靂與日本知名編劇[虛淵玄合作的布袋戲作品](../Page/虛淵玄.md "wikilink")[Thunderbolt
-    Fantasy
-    東離劍遊紀的合作角色](../Page/Thunderbolt_Fantasy_東離劍遊紀.md "wikilink")，推出三位主角：殤不換、丹翡、凜雪鴉三位角色。這波合作玩家間評價不錯。
+    台版推出霹靂與日本知名編劇[虛淵玄](../Page/虛淵玄.md "wikilink")合作的布袋戲作品[Thunderbolt Fantasy 東離劍遊紀的合作角色](../Page/Thunderbolt_Fantasy_東離劍遊紀.md "wikilink")，推出三位主角：殤不換、丹翡、凜雪鴉三位角色。這波合作玩家間評價不錯。
 
 <!-- end list -->
 
@@ -221,13 +201,12 @@ Play選為年度最佳三十個遊戲之一](../Page/Google_Play.md "wikilink")�
 <!-- end list -->
 
   -
-    台版於3週年時推出與臺灣知名漫畫家[韋宗成之代表作品](../Page/韋宗成.md "wikilink")《冥戰錄》的合作。目前正式推出角色有：林默娘、陳柏戎、牧雁涵，並且首次以臺灣本土聲優詮釋配音，其他於漫畫登場的角色預計將逐步釋出消息。
+    台版於3週年時推出與臺灣知名漫畫家[韋宗成](../Page/韋宗成.md "wikilink")之代表作品《冥戰錄》的合作。目前正式推出角色有：林默娘、陳柏戎、牧雁涵，並且首次以臺灣本土聲優詮釋配音，其他於漫畫登場的角色預計將逐步釋出消息。
 
 <!-- end list -->
 
   - [進擊的巨人聯動](https://zh.wikipedia.org/wiki/進擊的巨人聯動 "wikilink")（2018年3月）
-  - [魔法少女小圓
-    Project](https://zh.wikipedia.org/wiki/魔法少女小圓_Project "wikilink")（2019年2月）
+  - [魔法少女小圓 Project](https://zh.wikipedia.org/wiki/魔法少女小圓_Project "wikilink")（2019年2月）
 
 <!-- end list -->
 
@@ -240,8 +219,7 @@ Play選為年度最佳三十個遊戲之一](../Page/Google_Play.md "wikilink")�
 
 ## 白貓tennis
 
-2016年5月18日，日本官方於Youtube頻道公佈將於夏季在Android 及iOS
-平台上發行新遊戲\[40\]。此遊戲已於2016年7月31日在兩個平台推出日文版及正體中文版本，而正體中文版是colpol直營。\[41\]。
+2016年5月18日，日本官方於Youtube頻道公佈將於夏季在Android 及iOS 平台上發行新遊戲\[40\]。此遊戲已於2016年7月31日在兩個平台推出日文版及正體中文版本，而正體中文版是colpol直營。\[41\]。
 
 此遊戲使用《白貓Project》相同的手指觸控系統操作及類似的育成和城鎮系統。玩家可以和其他玩家單打或雙打對戰。除了部份《白貓Project》已登場的角色，亦有原創角色在遊戲中登場\[42\]。
 
@@ -249,9 +227,25 @@ Play選為年度最佳三十個遊戲之一](../Page/Google_Play.md "wikilink")�
 
 ## 電視動畫
 
-在2018年12月16日舉行的活動「COLOPL
-FES」上，製作人淺井大樹宣佈本作動畫化的消息，將於2020年播放，而故事則以三週年活動「ZERO
-CHRONICLE 零之紀元～原罪～」為主軸進行再構築\[43\]。
+在2018年12月16日舉行的活動「COLOPL FES」上，製作人淺井大樹宣佈本作動畫化的消息，將於2020年播放，而故事則以三週年活動「ZERO CHRONICLE 零之紀元～原罪～」為主軸進行再構築\[43\]。
+
+在2019年7月13日的《白貓 Project》五週年現場直播活動上，宣佈動畫將於2020年4月開始播放。
+
+### 登場人物
+
+  -
+
+<!-- end list -->
+
+  -
+
+### 製作人員
+
+  - 企劃：淺井大樹
+  - 監督、劇本：神保昌登
+  - 人物設計：奧田陽介
+  - 音樂：[岩崎琢](../Page/岩崎琢.md "wikilink")
+  - 動畫制作：[project No.9](https://zh.wikipedia.org/wiki/project_No.9 "wikilink")
 
 ## 註釋
 
@@ -268,12 +262,7 @@ CHRONICLE 零之紀元～原罪～」為主軸進行再構築\[43\]。
   -
   - [白貓網球官方網站](http://colopl.co.jp/shironekotennis/)
 
-[Category:2014年电子游戏](https://zh.wikipedia.org/wiki/Category:2014年电子游戏 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink")
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
-[Category:2020年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2020年日本電視動畫 "wikilink")
+[Category:2014年电子游戏](https://zh.wikipedia.org/wiki/Category:2014年电子游戏 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:2020年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2020年日本電視動畫 "wikilink")
 
 1.
 2.
@@ -284,30 +273,21 @@ CHRONICLE 零之紀元～原罪～」為主軸進行再構築\[43\]。
 7.
 8.  [派遣系統的使用方法和報酬解說](http://tw.dopr.net/wcproject/r102)
 9.  [如何有效率使用派遣系統](http://tw.dopr.net/wcproject/r103)
-10. [アクセサリ
-    現在入手可能な最高の組み合わせ](http://shironekoproject.gamerch.com/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA)
+10. [アクセサリ 現在入手可能な最高の組み合わせ](http://shironekoproject.gamerch.com/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA)
 11. \[<http://www.youtube.com/watch?v=2FdwgOLRctU>　浅井Pのおせニャん\#15-新イベントは「塔」\]
 12. \[<https://wiki.famitsu.com/shironeko/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88>　クラスチェンジ登場記念キャンペーンの第1弾\]
-13. [『白猫プロジェクト』の英語版をフィリピン、タイ、インドネシアで配信開始！　機能やUIなどを変更　英題は『Colopl Rune
-    Story』に](http://gamebiz.jp/?p=147085)
+13. [『白猫プロジェクト』の英語版をフィリピン、タイ、インドネシアで配信開始！　機能やUIなどを変更　英題は『Colopl Rune Story』に](http://gamebiz.jp/?p=147085)
 14.
-15. [コロプラの『白猫プロジェクト』、英語版をカナダで配信開始
-    ～今後、世界各国に向けて配信予定～](http://colopl.co.jp/news/pressrelease/2015081301.php),コロプラ.
-    2015年8月14日閲覧。
-16. [コロプラ、スマホ向けアプリ『白猫プロジェクト』の海外版を配信！
-    ～英語、フランス語、イタリア語など5カ国語に対応～](http://colopl.co.jp/news/pressrelease/2015102101.php),コロプラ.
-    2015年10月30日閲覧。
-17. [コロプラ、スマホ向けアプリ『白猫プロジェクト』の海外版をApp Storeで配信！
-    ～英語、フランス語、イタリア語など5カ国語に対応～](http://colopl.co.jp/news/pressrelease/2015102202.php),コロプラ.
-    2015年10月30日閲覧。
+15. [コロプラの『白猫プロジェクト』、英語版をカナダで配信開始 ～今後、世界各国に向けて配信予定～](http://colopl.co.jp/news/pressrelease/2015081301.php),コロプラ. 2015年8月14日閲覧。
+16. [コロプラ、スマホ向けアプリ『白猫プロジェクト』の海外版を配信！ ～英語、フランス語、イタリア語など5カ国語に対応～](http://colopl.co.jp/news/pressrelease/2015102101.php),コロプラ. 2015年10月30日閲覧。
+17. [コロプラ、スマホ向けアプリ『白猫プロジェクト』の海外版をApp Storeで配信！ ～英語、フランス語、イタリア語など5カ国語に対応～](http://colopl.co.jp/news/pressrelease/2015102202.php),コロプラ. 2015年10月30日閲覧。
 18. [Google Playが選ぶ「2014年ベストゲーム」が発表！](http://gamebiz.jp/?p=137548)
 19. [株式会社コロプラ受賞歴](http://colopl.co.jp/company/prizes/)
 20. [App Storeが選ぶ「2014年ベストゲーム」が発表](http://gamebiz.jp/?p=137712)
 21.
 22. [MPA2015審査結果発表](https://www.mcf.or.jp/mpa2015-winner)
 23. [《白貓計劃》獲MP@ward2015優秀獎](http://www.w1515.com/news/view/4982)
-24. [Google
-    Play 2015年度最佳](https://play.google.com/store/info/topic?id=bestof2015)
+24. [Google Play 2015年度最佳](https://play.google.com/store/info/topic?id=bestof2015)
 25.
 26.
 27. [船梨精x白貓project合作相關廣告](https://www.youtube.com/watch?v=FvZ2YIQYE7g)
@@ -321,13 +301,9 @@ CHRONICLE 零之紀元～原罪～」為主軸進行再構築\[43\]。
 35. [武器「オブシダンシリーズ」明日16時より入れ替え予告来たー！2週間の期間限定！](http://shironekopj.blog.jp/archives/1045801241.html)
 36. [フォースター☆プロジェクトリベンジwithアニゲラ！](http://shironekoproject.gamerch.com/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E2%98%86%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%83%AA%E3%83%99%E3%83%B3%E3%82%B8with%E3%82%A2%E3%83%8B%E3%82%B2%E3%83%A9%EF%BC%81)
 37. [限定建物混沌においでよ](http://shironekoproject.gamerch.com/%E6%B7%B7%E6%B2%8C%EF%BC%88%E3%81%86%E3%81%A1%EF%BC%89%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A7%E3%82%88)
-38. [《白貓Project》X 「星耀學園」
-    在地化頂尖合作！](http://starschool.animen.com.tw/blog.php?id=59)
+38. [《白貓Project》X 「星耀學園」 在地化頂尖合作！](http://starschool.animen.com.tw/blog.php?id=59)
 39. [『ミス・モノクローム』に出演決定！](https://twitter.com/wcat_project/status/667218887616802816)
-40. [【白猫】新作アプリ情報解禁\!
-    明かされる運動の謎\!\!](https://www.youtube.com/watch?v=Y4Ju6TfMHFQ)
-41. [白貓tennis
-    齊來打網球](http://whitecattennis.blogspot.hk/2016/08/whitecattennis-chinese-version-1.0.0-apk-download.html)
-42. [白貓角色打網球，Colopl 新 Game《白貓
-    Tennis》公佈](http://unwire.hk/2016/05/19/shironeko_tennis/game-channel/)
+40. [【白猫】新作アプリ情報解禁\! 明かされる運動の謎\!\!](https://www.youtube.com/watch?v=Y4Ju6TfMHFQ)
+41. [白貓tennis 齊來打網球](http://whitecattennis.blogspot.hk/2016/08/whitecattennis-chinese-version-1.0.0-apk-download.html)
+42. [白貓角色打網球，Colopl 新 Game《白貓 Tennis》公佈](http://unwire.hk/2016/05/19/shironeko_tennis/game-channel/)
 43.

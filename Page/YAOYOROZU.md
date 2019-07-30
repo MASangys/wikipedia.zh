@@ -1,4 +1,4 @@
-**YAOYOROZU**（）是[日本的](../Page/日本.md "wikilink")[動畫製作公司](../Page/日本动画.md "wikilink")，由石舘光太郎、[達紀及福原慶匡於](../Page/達紀.md "wikilink")2013年8月創立，主要以[卡通渲染及](../Page/卡通渲染.md "wikilink")[3D電腦圖形方式製作動畫](https://zh.wikipedia.org/wiki/3D電腦圖形 "wikilink")。
+**YAOYOROZU**（）是[日本](../Page/日本.md "wikilink")的[動畫製作公司](../Page/日本动画.md "wikilink")，由石舘光太郎、[達紀](../Page/達紀.md "wikilink")及福原慶匡於2013年8月創立，主要以[卡通渲染](../Page/卡通渲染.md "wikilink")及[3D電腦圖形方式製作動畫](https://zh.wikipedia.org/wiki/3D電腦圖形 "wikilink")。
 
 本公司附屬於藝能公司「」，是該公司的動畫事業部門\[1\]。
 
@@ -136,9 +136,7 @@ cort</p></td>
   - [官方網站](https://web.archive.org/web/20151011200823/http://yaoyorozu.info/)
 
   -
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink")
-[Category:中野區公司](https://zh.wikipedia.org/wiki/Category:中野區公司 "wikilink")
+[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink") [Category:中野區公司](https://zh.wikipedia.org/wiki/Category:中野區公司 "wikilink")
 
 1.
 2.

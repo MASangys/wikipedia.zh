@@ -1,15 +1,10 @@
-《**OPUS：地球計畫**》（）是款以探索世界、體驗劇情為主的冒險遊戲，由台灣的[SIGONO](https://zh.wikipedia.org/wiki/SIGONO "wikilink")（原[Team
-Signal](https://zh.wikipedia.org/wiki/Team_Signal "wikilink")）開發。
+《**OPUS：地球計畫**》（）是款以探索世界、體驗劇情為主的冒險遊戲，由台灣的[SIGONO](https://zh.wikipedia.org/wiki/SIGONO "wikilink")（原[Team Signal](https://zh.wikipedia.org/wiki/Team_Signal "wikilink")）開發。
 
-《OPUS：地球計畫》的[故事是發生在數百萬年後](../Page/故事.md "wikilink")，[人類因為](../Page/人類.md "wikilink")[科技進步而開始進行](https://zh.wikipedia.org/wiki/科技 "wikilink")[基因改造](https://zh.wikipedia.org/wiki/基因改造 "wikilink")，但長久下來也造成基因上的缺陷，因為缺乏人類原始基因的記錄，因此決定尋找已經成為[神話的](https://zh.wikipedia.org/wiki/神話 "wikilink")[地球](../Page/地球.md "wikilink")，希望找到彌補基因缺陷的方法。《OPUS
-地球計畫》主要透過遊戲中的[望遠鏡來探測太空](https://zh.wikipedia.org/wiki/望遠鏡 "wikilink")，找尋可能是地球的[行星](../Page/行星.md "wikilink")，同時也會隨著劇情發展解答遊戲中的謎團。
+《OPUS：地球計畫》的[故事](../Page/故事.md "wikilink")是發生在數百萬年後，[人類](../Page/人類.md "wikilink")因為[科技進步而開始進行](https://zh.wikipedia.org/wiki/科技 "wikilink")[基因改造](https://zh.wikipedia.org/wiki/基因改造 "wikilink")，但長久下來也造成基因上的缺陷，因為缺乏人類原始基因的記錄，因此決定尋找已經成為[神話的](https://zh.wikipedia.org/wiki/神話 "wikilink")[地球](../Page/地球.md "wikilink")，希望找到彌補基因缺陷的方法。《OPUS 地球計畫》主要透過遊戲中的[望遠鏡來探測太空](https://zh.wikipedia.org/wiki/望遠鏡 "wikilink")，找尋可能是地球的[行星](../Page/行星.md "wikilink")，同時也會隨著劇情發展解答遊戲中的謎團。
 
-遊戲最初於2015年10月22日在[iOS以及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")\[1\]上發售，並在2016年4月22日在[Steam上推出](../Page/Steam.md "wikilink")[Mac與](https://zh.wikipedia.org/wiki/Mac "wikilink")[Windows版本](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[2\]。2017年11月30日游戏在[任天堂Switch上发行](../Page/任天堂Switch.md "wikilink")。
+遊戲最初於2015年10月22日在[iOS以及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")\[1\]上發售，並在2016年4月22日在[Steam](../Page/Steam.md "wikilink")上推出[Mac與](https://zh.wikipedia.org/wiki/Mac "wikilink")[Windows版本](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[2\]。2017年11月30日游戏在[任天堂Switch](../Page/任天堂Switch.md "wikilink")上发行。
 
-《OPUS：地球計畫》於2016年1月1日獲選為Google
-Play編輯精選\[3\]，於2016年入圍第12屆國際行動遊戲大獎的「最富意義遊戲」提名\[4\]，並獲得IMGA
-SEA國際行動大獎的「最佳敘事獎」，以及 Indieplay 中國獨立遊戲大賽「最佳行動遊戲」獎，與「最佳音樂音效」提名，和
-2017台北電玩展「最佳故事獎」。\[5\]
+《OPUS：地球計畫》於2016年1月1日獲選為Google Play編輯精選\[3\]，於2016年入圍第12屆國際行動遊戲大獎的「最富意義遊戲」提名\[4\]，並獲得IMGA SEA國際行動大獎的「最佳敘事獎」，以及 Indieplay 中國獨立遊戲大賽「最佳行動遊戲」獎，與「最佳音樂音效」提名，和 2017台北電玩展「最佳故事獎」。\[5\]
 
 其續作為2017年推出之[OPUS：靈魂之橋](../Page/OPUS：靈魂之橋.md "wikilink")\[6\]。
 
@@ -63,7 +58,7 @@ OPUS：地球計畫是以探索為主軸，藉由探索過程逐步地揭開故�
 
 ### 行星探索
 
-由艾姆操作太空望遠鏡，透過一些線索來尋找系統偵測到的可疑行星，找到行星後進行分析比對，得出與地球的相似度。每顆行星相當於一個小的解謎任務，找到一定數量的行星後會觸發事件或者解鎖新的太空船區域。除此之外，如果在太空船內尋獲一些線索的話，也會出現輔助觀測任務，觀測的對象可能是恆星、[星系](../Page/星系.md "wikilink")、[超新星殘骸等等](../Page/超新星.md "wikilink")。找到[天體之後可以為其命名](../Page/天體.md "wikilink")。
+由艾姆操作太空望遠鏡，透過一些線索來尋找系統偵測到的可疑行星，找到行星後進行分析比對，得出與地球的相似度。每顆行星相當於一個小的解謎任務，找到一定數量的行星後會觸發事件或者解鎖新的太空船區域。除此之外，如果在太空船內尋獲一些線索的話，也會出現輔助觀測任務，觀測的對象可能是恆星、[星系](../Page/星系.md "wikilink")、[超新星](../Page/超新星.md "wikilink")殘骸等等。找到[天體](../Page/天體.md "wikilink")之後可以為其命名。
 
 ### 太空船內部探索
 
@@ -83,8 +78,7 @@ OPUS：地球計畫是以探索為主軸，藉由探索過程逐步地揭開故�
 
 《OPUS：地球計畫》原聲帶先於2015年10月21日發售\[7\]，後於Steam上架作為遊戲的可下載內容推出。收錄了遊戲中使用的17首曲目，以及4首特別收錄曲。
 
-曲風包含了[氛圍電子](https://zh.wikipedia.org/wiki/氛圍電子 "wikilink")，[超微量後搖](https://zh.wikipedia.org/wiki/超微量後搖 "wikilink")，[實驗音樂與](../Page/實驗音樂.md "wikilink")[Chill
-Out等](https://zh.wikipedia.org/wiki/Chill_Out "wikilink")，由台灣音樂家Triodust作曲。
+曲風包含了[氛圍電子](https://zh.wikipedia.org/wiki/氛圍電子 "wikilink")，[超微量後搖](https://zh.wikipedia.org/wiki/超微量後搖 "wikilink")，[實驗音樂](../Page/實驗音樂.md "wikilink")與[Chill Out等](https://zh.wikipedia.org/wiki/Chill_Out "wikilink")，由台灣音樂家Triodust作曲。
 
 | 曲名                     | 音樂家      |
 | ---------------------- | -------- |
@@ -112,8 +106,7 @@ Out等](https://zh.wikipedia.org/wiki/Chill_Out "wikilink")，由台灣音樂家
 
 ## Steam版本
 
-《OPUS：地球計畫》的Steam版本於2016年3月12日通過[Steam
-Greenlight投票](https://zh.wikipedia.org/wiki/Steam_Greenlight "wikilink")\[8\]，並於4月22日在Steam平台上架，數位版原聲帶同步發售。
+《OPUS：地球計畫》的Steam版本於2016年3月12日通過[Steam Greenlight投票](https://zh.wikipedia.org/wiki/Steam_Greenlight "wikilink")\[8\]，並於4月22日在Steam平台上架，數位版原聲帶同步發售。
 
 遊戲內容與行動平台版本大致相同，添加了全程過場動畫，並且為了從手機轉換到電腦平台做出大量細節修正，包含操作方式從觸控改為鍵盤/滑鼠操作，以及介面、美術素材的重製、高畫質化等。
 
@@ -123,20 +116,7 @@ Greenlight投票](https://zh.wikipedia.org/wiki/Steam_Greenlight "wikilink")\[8\
 
   - [《OPUS：地球計畫》官方網站](http://opus.sigono.com)
 
-[Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink")
-[Category:独立游戏](https://zh.wikipedia.org/wiki/Category:独立游戏 "wikilink")
-[Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink")
-[Category:太空背景电子游戏](https://zh.wikipedia.org/wiki/Category:太空背景电子游戏 "wikilink")
-[Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink")
-[Category:原生中文游戏](https://zh.wikipedia.org/wiki/Category:原生中文游戏 "wikilink")
-[Category:SIGONO](https://zh.wikipedia.org/wiki/Category:SIGONO "wikilink")
+[Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:独立游戏](https://zh.wikipedia.org/wiki/Category:独立游戏 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink") [Category:太空背景电子游戏](https://zh.wikipedia.org/wiki/Category:太空背景电子游戏 "wikilink") [Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink") [Category:原生中文游戏](https://zh.wikipedia.org/wiki/Category:原生中文游戏 "wikilink") [Category:SIGONO](https://zh.wikipedia.org/wiki/Category:SIGONO "wikilink")
 
 1.
 2.

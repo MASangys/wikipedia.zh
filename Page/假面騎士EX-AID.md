@@ -1,11 +1,8 @@
-《**假面騎士EX-AID**》（，），自2016年10月2日起於[朝日電視台放映](../Page/朝日電視台.md "wikilink")，每週日08:00-08:30播出的日本[特攝電視劇](https://zh.wikipedia.org/wiki/特攝 "wikilink")，假面騎士EX-AID也是該劇主角變身的名字。本作為是假面騎士系列誕生45週年紀念作\[1\]，口號是「Game
-Start\!」、「No
-Continue來改變命運吧！！」。《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》第18部[平成系列作品](../Page/平成.md "wikilink")。
+《**假面騎士EX-AID**》（，），自2016年10月2日起於[朝日電視台](../Page/朝日電視台.md "wikilink")放映，每週日08:00-08:30播出的日本[特攝電視劇](https://zh.wikipedia.org/wiki/特攝 "wikilink")，假面騎士EX-AID也是該劇主角變身的名字。本作為是假面騎士系列誕生45週年紀念作\[1\]，口號是「Game Start\!」、「No Continue來改變命運吧！！」。《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》第18部[平成](../Page/平成.md "wikilink")系列作品。
 
-播映方面，台灣於2017年9月9日至翌年2018年7月14日，週六08:30\~09:00在[東森綜合台雙語播出](../Page/東森綜合台.md "wikilink")，隔天（週日）16:30\~17:00於[東森超視台重播中文配音版](../Page/東森超視.md "wikilink")。
+播映方面，台灣於2017年9月9日至翌年2018年7月14日，週六08:30\~09:00在[東森綜合台](../Page/東森綜合台.md "wikilink")雙語播出，隔天（週日）16:30\~17:00於[東森超視](../Page/東森超視.md "wikilink")台重播中文配音版。
 
-香港同樣因無線電視取消假面騎士時段沒有播放本作，並蹺過前作《假面騎士Drive》和《假面騎士Ghost》推出此作相關商品，於2017年11月開始以「幪面超人EX-AID
-電玩救世篇」為題在少年雜誌《LUCKY》連載本作漫畫。而剧中主角宝生永梦已於2018年4月8日在無綫電視翡翠台播出的《[宇宙戰隊](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")》中先行登場。其後由2019年2月28日開始，逢星期四於視頻平台[Starnext上架日語原聲版本](https://zh.wikipedia.org/wiki/Starnext "wikilink")。
+香港同樣因無線電視取消假面騎士時段沒有播放本作，並蹺過前作《假面騎士Drive》和《假面騎士Ghost》推出此作相關商品，於2017年11月開始以「幪面超人EX-AID 電玩救世篇」為題在少年雜誌《LUCKY》連載本作漫畫。而剧中主角宝生永梦已於2018年4月8日在無綫電視翡翠台播出的《[宇宙戰隊](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")》中先行登場。其後由2019年2月28日開始，逢星期四於視頻平台[Starnext上架日語原聲版本](https://zh.wikipedia.org/wiki/Starnext "wikilink")。
 
 中國大陸于2018年10月在[騰訊視頻全集上架雙語版本](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")。
 
@@ -13,9 +10,9 @@ Continue來改變命運吧！！」。《[假面騎士系列](../Page/假面騎�
 
 被形容為「平成騎士史上超弩級的衝擊」作主打亮點。亦自《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》後再次以複數假面騎士為主及使用非單元劇的連貫式劇本。
 
-及首次以[醫院相關事物作為背景題材](../Page/醫院.md "wikilink")，亦是首次以[醫生作為主角的職業](https://zh.wikipedia.org/wiki/醫生 "wikilink")。\[2\]\[3\]
+及首次以[醫院](../Page/醫院.md "wikilink")相關事物作為背景題材，亦是首次以[醫生作為主角的職業](https://zh.wikipedia.org/wiki/醫生 "wikilink")。\[2\]\[3\]
 
-假面騎士設定上擁有迷你及等身比例形態變化的特色\[4\]，加上風鏡、眼睛色膜以及模仿頭髮的配件亦偏離過去對假面騎士所認識的印象。根據製作人表示，這是為了達成「這根本不是假面騎士」而又能讓孩子強烈意識「這是假面騎士」的設定構思。此外同年旗下的超級戰隊40週年作《[動物戰隊獸王者](../Page/動物戰隊獸王者.md "wikilink")》在某程度上同樣採用了的電玩元素的設計\[5\]，為免有所衝突而考慮了作出具動畫風格的差異化設定。於2016年9月7日進行的同年10月改編說明會上，[朝日電視台編成部長赤津一彦提及互聯網褒貶假面騎士EX](../Page/朝日電視台.md "wikilink")-AID設計的話題時，則表示有信心其他人會對其「越看越帥」。\[6\]
+假面騎士設定上擁有迷你及等身比例形態變化的特色\[4\]，加上風鏡、眼睛色膜以及模仿頭髮的配件亦偏離過去對假面騎士所認識的印象。根據製作人表示，這是為了達成「這根本不是假面騎士」而又能讓孩子強烈意識「這是假面騎士」的設定構思。此外同年旗下的超級戰隊40週年作《[動物戰隊獸王者](../Page/動物戰隊獸王者.md "wikilink")》在某程度上同樣採用了的電玩元素的設計\[5\]，為免有所衝突而考慮了作出具動畫風格的差異化設定。於2016年9月7日進行的同年10月改編說明會上，[朝日電視台](../Page/朝日電視台.md "wikilink")編成部長赤津一彦提及互聯網褒貶假面騎士EX-AID設計的話題時，則表示有信心其他人會對其「越看越帥」。\[6\]
 
 系列以來首次加入[電玩的元素](https://zh.wikipedia.org/wiki/電玩 "wikilink")，過去大森在前作《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》企劃時已打算提案，但當時主要目標並非計對玩遊戲的兒童層年代而不獲採用。直至本作提案中雖然也有反對的意見，但因為大森接觸兒童層遊戲的機會變多，以及家長的世代亦能體驗到電腦遊戲的關係，至此深信現今熟識遊戲的存在變得廣泛而決定採用。\[7\]
 
@@ -33,12 +30,9 @@ Continue來改變命運吧！！」。《[假面騎士系列](../Page/假面騎�
 
 本作是目前全假面騎士系列中最多正規女性騎士變身者\[12\]，最多惡役騎士改邪歸正，以及最多劇中死亡的騎士在後期復活\[13\]\[14\]的作品。
 
-繼《[假面騎士Kabuto](https://zh.wikipedia.org/wiki/假面騎士Kabuto "wikilink")》後，本作的仮野明日那
-/
-Poppypipopapo為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》中少數本身並非人類（不包含因外在因素而變成非人類）的女主角，亦是第二位曾中途叛變，後期改邪歸正的女主角\[15\]。
+繼《[假面騎士Kabuto](https://zh.wikipedia.org/wiki/假面騎士Kabuto "wikilink")》後，本作的仮野明日那 / Poppypipopapo為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》中少數本身並非人類（不包含因外在因素而變成非人類）的女主角，亦是第二位曾中途叛變，後期改邪歸正的女主角\[15\]。
 
-本作繼《[假面騎士Fourze](../Page/假面騎士Fourze_THE_MOVIE_大家的宇宙來了！.md "wikilink")》之後財團X再次登場，但只在《幪面超人Brave
-～Survive吧！復活的野獸騎士・小隊～》中出現。
+本作繼《[假面騎士Fourze](../Page/假面騎士Fourze_THE_MOVIE_大家的宇宙來了！.md "wikilink")》之後財團X再次登場，但只在《幪面超人Brave ～Survive吧！復活的野獸騎士・小隊～》中出現。
 
 本作自《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》起至本作連續五套作品均有出现量产骑士系统\[16\]。
 
@@ -50,29 +44,25 @@ Poppypipopapo為《[假面騎士系列](../Page/假面騎士系列.md "wikilink"
 
 本作的主角騎士名字「EX-AID」是由代表究極意思的「**EX**treme」和代表拯救意思的「**AID**」所組合的組合字。
 
-本作的角色
-檀黎斗由演員岩永徹也所飾演，其顏藝過於經典、表現浮誇，讓此作表現從後期嚴肅的劇情中帶來了歡樂氣息，可以說是此作品是歷代假面騎士更有特色突出的原因之一。
+本作的角色 檀黎斗由演員岩永徹也所飾演，其顏藝過於經典、表現浮誇，讓此作表現從後期嚴肅的劇情中帶來了歡樂氣息，可以說是此作品是歷代假面騎士更有特色突出的原因之一。
 
 本作以第45話作結，除了半年番的《[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")》（31話）及網路劇的《[假面騎士Amazons](../Page/假面騎士Amazons.md "wikilink")》（1+2季共26話）之外，為平成時期年番最少話數的假面騎士系列作品，打破前作《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的47話紀錄。
 
 本作最終首領假面騎士Cronus為繼《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》的假面騎士奧丁與《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的假面騎士邪武後再度出現由惡役騎士擔任的最終首領。
 
-本作中的檀黎斗和檀正宗為平成假面騎士系列作中父子間為敵對關係的角色\[18\]。
-在擁有衍生作品的假面騎士作品中，本作是目前最多登場騎士擁有自己的相關外傳作品\[19\]。
+本作中的檀黎斗和檀正宗為平成假面騎士系列作中父子間為敵對關係的角色\[18\]。 在擁有衍生作品的假面騎士作品中，本作是目前最多登場騎士擁有自己的相關外傳作品\[19\]。
 
 另外本作的怪人崩源體變化成人類型態的性別不一定與宿主（參考對象）相同，這在系列作中相當少見\[20\]，與前作《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》的怪人Zodiarts相似\[21\]。
 
 本作中的九条貴利矢和古拉法特的演員小野塚勇人和町井祥真倆人本因在劇情前段中戰死而無後續劇情演出\[22\]，但隨後因觀眾的擁簇而再次演出，亦是假面騎士系列首次出現因受歡迎的角色初期死去中期復活的情況。
 
-於2017年上映的《[假面騎士平成Generations FINAL Build & EX-AID with
-傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至本作實为同一世界觀。
+於2017年上映的《[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至本作實为同一世界觀。
 
 ## 故事概要
 
 2016年，因怪人崩源體（Burgster）出現，未知的電腦遊戲病毒現正開始侵蝕世界。
 
-為了拯救感染者，決心與崩源體戰鬥的天才遊戲玩家寶生永夢以變身腰帶玩家驅動器，與傳說的遊戲軟體卡帶（Gashat）變身為假面騎士Ex-Aid，與各樣遊戲類型的假面騎士們一同現身！遊戲開始（Game
-Start）！各種遊戲的高手，滅絕崩源體吧！
+為了拯救感染者，決心與崩源體戰鬥的天才遊戲玩家寶生永夢以變身腰帶玩家驅動器，與傳說的遊戲軟體卡帶（Gashat）變身為假面騎士Ex-Aid，與各樣遊戲類型的假面騎士們一同現身！遊戲開始（Game Start）！各種遊戲的高手，滅絕崩源體吧！
 
 ## 故事背景
 
@@ -133,8 +123,7 @@ Start）！各種遊戲的高手，滅絕崩源體吧！
     原文： / *Rider Gashat*
     音效：[影山浩宣](../Page/影山浩宣.md "wikilink")
     本作假面騎士變身專用道具。
-    通過玩家驅動器開啟內藏的電玩遊戲數據力量（包括專屬武裝，除了Gashacon
-    Bugwiser），遊戲領域實體化後，幫助被感染到稱為「遊戲病」的患者以戰鬥進行另類性的手術治療。另外發動必殺技時的字體會因應卡帶類型而有所變化。
+    通過玩家驅動器開啟內藏的電玩遊戲數據力量（包括專屬武裝，除了Gashacon Bugwiser），遊戲領域實體化後，幫助被感染到稱為「遊戲病」的患者以戰鬥進行另類性的手術治療。另外發動必殺技時的字體會因應卡帶類型而有所變化。
     外型上基本都是相同的，但劇中也有一部分卡匣擁有特殊的形狀，例如Gashat Gear Dual系列或Hyper Muteki。
 
 :; 原型卡帶
@@ -143,23 +132,14 @@ Start）！各種遊戲的高手，滅絕崩源體吧！
 
       -
         原文： / *Proto Gashat*
-        為騎士們最初持有的十款卡帶的原型版本，也是在本作時間5年前引發零日事件的元兇，而Genm 所持有的「原型麥提行動X（Proto
-        Mighty Action X）」就是這些原型卡帶之一，除了「原型麥提行動X（Proto Mighty Action
-        X）」以外的其他原型卡帶的特徵皆為整體為黑色，以及卡帶上的圖案為黑白色，根據花家大我在「裏技」第二話的說法，幻夢集團至今仍然保存著這些危險的卡帶。
-        雖然本作并非首次出現原型形態，但與以往不同的是原型形態會比正式形態較弱（如《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的Protodrive
-        和Drive )，而本作的原型形態卻比正式形態強（即Genm 和Ex-Aid ）。
+        為騎士們最初持有的十款卡帶的原型版本，也是在本作時間5年前引發零日事件的元兇，而Genm 所持有的「原型麥提行動X（Proto Mighty Action X）」就是這些原型卡帶之一，除了「原型麥提行動X（Proto Mighty Action X）」以外的其他原型卡帶的特徵皆為整體為黑色，以及卡帶上的圖案為黑白色，根據花家大我在「裏技」第二話的說法，幻夢集團至今仍然保存著這些危險的卡帶。
+        雖然本作并非首次出現原型形態，但與以往不同的是原型形態會比正式形態較弱（如《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的Protodrive 和Drive )，而本作的原型形態卻比正式形態強（即Genm 和Ex-Aid ）。
         根據帕拉德所敘述得知原型卡帶擁有深不可測的力量，但過度使用會引火自焚。
         後根據檀黎斗述說得知因遊戲病而消滅的人其身體數據全都保留在這十款原型卡帶中，可透過攻略「假面騎士編年史」遊戲使遭到消滅的人重新復活，但目前只有檀正宗使用假面騎士Cronus的力量將原型卡帶的數據將人復活。
-        該十款卡帶曾在第11話時被檀黎斗帶離幻夢集團，但在第22話衛生省逮捕檀黎斗時被帶走並且代為保管，第32話時在檀正宗出獄時暗中盜走並持有著，直到第36話時被九条貴利矢帶回電腦救命中心，可是第40話因檀正宗的重啟能力，所有原型卡帶（「原型衝勁運動（Proto
-        Shakariki Sports）」跟「原型噴射戰爭（Proto Jet
-        Combat）」在九條貴利矢身上之外\[24\]）回歸他的手上。
-        最終話在檀正宗遭到擊敗後，所有原型卡帶已被電腦救命中心回收。在《EX-AID Trilogy
-        Another・Endin》在檀黎斗手上，在《假面骑士Genm VS
-        Lazer》檀黎斗将「原型衝勁運動（Proto Shakariki
-        Sports）」跟「原型噴射戰爭（Proto Jet Combat）」交给九条貴利矢。
+        該十款卡帶曾在第11話時被檀黎斗帶離幻夢集團，但在第22話衛生省逮捕檀黎斗時被帶走並且代為保管，第32話時在檀正宗出獄時暗中盜走並持有著，直到第36話時被九条貴利矢帶回電腦救命中心，可是第40話因檀正宗的重啟能力，所有原型卡帶（「原型衝勁運動（Proto Shakariki Sports）」跟「原型噴射戰爭（Proto Jet Combat）」在九條貴利矢身上之外\[24\]）回歸他的手上。
+        最終話在檀正宗遭到擊敗後，所有原型卡帶已被電腦救命中心回收。在《EX-AID Trilogy Another・Endin》在檀黎斗手上，在《假面骑士Genm VS Lazer》檀黎斗将「原型衝勁運動（Proto Shakariki Sports）」跟「原型噴射戰爭（Proto Jet Combat）」交给九条貴利矢。
         如果假面騎士使用這些卡帶（除去使用「原型全力動感X」的Genm）變身的話，變身造型不變，但顏色會變成除了眼睛之外都是和卡帶本體顏色相同的黑灰色
-        而如果使用原型卡帶進行Level
-        Up的話，會召喚出變成同樣是黑灰色的Gama，而和Gama合體時除了顏色和一般Gama不同外，部分原型卡帶召喚的Gama並不會將合體的騎士的頭部進行武裝\[25\]
+        而如果使用原型卡帶進行Level Up的話，會召喚出變成同樣是黑灰色的Gama，而和Gama合體時除了顏色和一般Gama不同外，部分原型卡帶召喚的Gama並不會將合體的騎士的頭部進行武裝\[25\]
 
 :; 始源卡帶
 
@@ -167,9 +147,7 @@ Start）！各種遊戲的高手，滅絕崩源體吧！
 
       -
         原文： / *Origin Gashat*
-        比原型卡帶更早完成的卡帶．是原型卡帶的α版，因此外觀特徵跟原型卡帶一樣，跟因感染缺陷者病毒而具有危險性的原型卡帶不同，不但開啟的遊戲領域具有抑制缺陷者能力的效果，本身還具有降低觸碰到的缺陷者等級的能力\[26\]，同時擁有無視等級能命中並且產生傷害的能力，但是由於變身後的玩家等級是0，被等級高的玩家或缺陷者攻擊的話傷害也相當巨大，若被必殺技擊中極大可能直接GAME
-        OVER，因此追加續關機能，總共有99條生命（目前只確定檀黎斗的始源卡帶擁有，目前無法確認其它始源是否也有\[27\]）。目前登場的始源卡帶只有「原型全力動感X始源（Proto
-        Mighty Action X Origin）」。
+        比原型卡帶更早完成的卡帶．是原型卡帶的α版，因此外觀特徵跟原型卡帶一樣，跟因感染缺陷者病毒而具有危險性的原型卡帶不同，不但開啟的遊戲領域具有抑制缺陷者能力的效果，本身還具有降低觸碰到的缺陷者等級的能力\[26\]，同時擁有無視等級能命中並且產生傷害的能力，但是由於變身後的玩家等級是0，被等級高的玩家或缺陷者攻擊的話傷害也相當巨大，若被必殺技擊中極大可能直接GAME OVER，因此追加續關機能，總共有99條生命（目前只確定檀黎斗的始源卡帶擁有，目前無法確認其它始源是否也有\[27\]）。目前登場的始源卡帶只有「原型全力動感X始源（Proto Mighty Action X Origin）」。
 
 :; Gama
 
@@ -177,13 +155,7 @@ Start）！各種遊戲的高手，滅絕崩源體吧！
 
       -
         原文： / *Gama*
-        為變身為「Level
-        3」（「激突機械」、「DoReMiFa節拍」、「噴射戰爭」、「戰慄武士決鬥」和「幹勁全開自行車」）和「Level
-        5」（「龍騎士獵人Z」）用的卡帶召喚出來的輔助支援機械，除了Sport Gamer
-        為單車外，其餘的多為機械人的外型，和Level 2
-        的騎士合體即可變身為Level 3 和Level 5 。之後更有「Level 4」（「嚼嚼漢堡」）及「Level
-        50」（「泰特爾幻想」、「呯呯模擬」）的相關輔助支援機械登場，此外在九條貴利矢死後原本的型態為交通工具，並無型態變化能力的「爆走機車」，在「極限全力X」卡帶出現後又增加了Level
-        99 的輔助支援機械。另外原型卡帶亦有相關的輔助支援機械。
+        為變身為「Level 3」（「激突機械」、「DoReMiFa節拍」、「噴射戰爭」、「戰慄武士決鬥」和「幹勁全開自行車」）和「Level 5」（「龍騎士獵人Z」）用的卡帶召喚出來的輔助支援機械，除了Sport Gamer 為單車外，其餘的多為機械人的外型，和Level 2 的騎士合體即可變身為Level 3 和Level 5 。之後更有「Level 4」（「嚼嚼漢堡」）及「Level 50」（「泰特爾幻想」、「呯呯模擬」）的相關輔助支援機械登場，此外在九條貴利矢死後原本的型態為交通工具，並無型態變化能力的「爆走機車」，在「極限全力X」卡帶出現後又增加了Level 99 的輔助支援機械。另外原型卡帶亦有相關的輔助支援機械。
 
 <!-- end list -->
 
@@ -197,14 +169,11 @@ Start）！各種遊戲的高手，滅絕崩源體吧！
     4.變成缺陷者的人類，據檀黎斗所說，當擁有人類基因的生物轉成缺陷者時，故而可以變身\[31\]。
     特殊例子:使用Buggle Driver II變身的缺陷者\[32\]\[33\]。
     如果沒有進行相關手術的人類嘗試變身不但會變身失敗，而且更有機會感染缺陷者病毒\[34\]。
-    玩家的基本形態分為兩個等級，「Level 1」主要替患者將遊戲病病毒驅除出體外，「Level 2」起具打倒缺陷者的能力。「Level
-    2」之後在提升的型態開始為武裝形態，即以「Level 2」為基礎再進行武裝。此時該玩家以原本「Level
-    2」的能力再追加武裝形態的能力戰鬥。
+    玩家的基本形態分為兩個等級，「Level 1」主要替患者將遊戲病病毒驅除出體外，「Level 2」起具打倒缺陷者的能力。「Level 2」之後在提升的型態開始為武裝形態，即以「Level 2」為基礎再進行武裝。此時該玩家以原本「Level 2」的能力再追加武裝形態的能力戰鬥。
     只有「Level 1」才能將遊戲病病毒驅除，否則患者將會有消失的風險\[35\]。
       - 騎士量表
         原文： / *Rider Gauge*
-        每位玩家的胸口都有代表其的能量格，類似電玩中玩家的血量。當被敵人攻擊時，能量格會隨著攻擊遞減。當能量格達至零時，即代表該玩家被擊敗（稱為「[Game
-        Over](https://zh.wikipedia.org/wiki/Game_Over "wikilink")」），然後玩家會數據化死亡。所以玩家的能量格遞減至紅色範圍内多數都會選擇解除變身以免死亡\[36\]。
+        每位玩家的胸口都有代表其的能量格，類似電玩中玩家的血量。當被敵人攻擊時，能量格會隨著攻擊遞減。當能量格達至零時，即代表該玩家被擊敗（稱為「[Game Over](https://zh.wikipedia.org/wiki/Game_Over "wikilink")」），然後玩家會數據化死亡。所以玩家的能量格遞減至紅色範圍内多數都會選擇解除變身以免死亡\[36\]。
 
 <!-- end list -->
 
@@ -223,19 +192,16 @@ Start）！各種遊戲的高手，滅絕崩源體吧！
     原文： / *-{Burgster}-*
     本作所登場怪人的稱呼。
     原由電玩遊戲所產生，之後進化成能夠感染人體的電腦病毒，後透過與檀正宗對話得知真相為當初在2000年的「[千禧蟲危機](https://zh.wikipedia.org/wiki/千禧蟲危機 "wikilink")」時候一時錯誤的時候所產生的新型電腦病毒。
-    寄生於人體後再持續增值，感染者直至稱為「遊戲病」的症狀發作後會佔據整個身體並實體化異變成巨大怪物，但當被假面騎士以Level 1
-    形態分離至患者體外後會顯露原來的形態。
+    寄生於人體後再持續增值，感染者直至稱為「遊戲病」的症狀發作後會佔據整個身體並實體化異變成巨大怪物，但當被假面騎士以Level 1 形態分離至患者體外後會顯露原來的形態。
     一旦將缺陷者分離出患者體外後，就必須在逐漸透明化的患者消失前快速打倒，否則脫離的缺陷者就會佔據感染者的身體並取代患者的存在。
     根據鏡飛彩述說得知會如一般病毒一樣隨著產生對疫苗的抗藥性而變異進化，也就是每次遭到打敗後再次登場等級就會上昇，能力也就會跟著上昇。
     在帕拉德敘述下得知成為完全體的缺陷者，即使遭到消滅也能夠再次復活。
     目前已知的缺陷者類型可分爲五種：
       - Level 2 ：患者病發時首先有結合態，Level 1 的假面騎士將其驅除出患者體外後實體化並變回其原貌。
-      - (柯拉波斯缺陷者)：透過感染人病毒的同時分別插入卡帶而誕生\[40\]，與 Level
-        2狀況一樣，分離後該缺陷者根據卡帶類型獲得其力量，但卡帶被拔掉之後力量跟者能力一起消失並虛弱化。
+      - (柯拉波斯缺陷者)：透過感染人病毒的同時分別插入卡帶而誕生\[40\]，與 Level 2狀況一樣，分離後該缺陷者根據卡帶類型獲得其力量，但卡帶被拔掉之後力量跟者能力一起消失並虛弱化。
       - Level 3 - 5 ：患者病發後離開患者體外並直接變回其原貌。
       - Level 20 - 40 ：患者病發後直接變回其原貌並與患者融合。
-      - 特殊案例：從「假面騎士編年史」中在出現的缺陷者首領會根據距離首領最近區域啟動卡帶的騎士玩家將其感染該缺陷者的病毒\[41\]，而檀正宗於第39話將最快通關的騎士玩家(西馬妮可)注入蓋姆迪烏斯缺陷者的病毒，此外缺陷者首領的等級大約在Level
-        20 - 40的等級之間\[42\]並有等級更高的現象\[43\]。
+      - 特殊案例：從「假面騎士編年史」中在出現的缺陷者首領會根據距離首領最近區域啟動卡帶的騎士玩家將其感染該缺陷者的病毒\[41\]，而檀正宗於第39話將最快通關的騎士玩家(西馬妮可)注入蓋姆迪烏斯缺陷者的病毒，此外缺陷者首領的等級大約在Level 20 - 40的等級之間\[42\]並有等級更高的現象\[43\]。
   - 遊戲病
     原文： / *Game Disease*
     感染缺陷者病毒的患者發病症狀的稱呼，全名為「缺陷者病毒感染症」。
@@ -272,10 +238,7 @@ Start）！各種遊戲的高手，滅絕崩源體吧！
     當時零日事件之時檀黎斗為了繼續開發此遊戲，而把所闖下的一切罪過\[48\]嫁禍給自己父親檀正宗。
     後在帕拉德吸收古拉法特及Poppypipopapo 以及其他缺陷者的資料後，此遊戲正式完成。
     第24話開發完成後在第25話遊戲正式啓動，之後幻夢集團對外派發給普通市民使用。亦因爲遊戲的推出使幻夢集團的股價異常急升。
-    開發完成後可透過將卡帶(正版和複製版皆可)插入Buggle Driver II
-    或者使用兩枚「假面騎士編年史」卡帶(複製版)插入玩家驅動器可變身成為假面騎士Cronus。而普通市民在沒有Buggle
-    Driver
-    的情況下亦可直接使用該卡帶變身成騎士玩家，不過同時亦會將缺陷者病毒直接植入使用者體内。但與玩家\[49\]一樣遭到擊敗就會數據化消失。
+    開發完成後可透過將卡帶(正版和複製版皆可)插入Buggle Driver II 或者使用兩枚「假面騎士編年史」卡帶(複製版)插入玩家驅動器可變身成為假面騎士Cronus。而普通市民在沒有Buggle Driver 的情況下亦可直接使用該卡帶變身成騎士玩家，不過同時亦會將缺陷者病毒直接植入使用者體内。但與玩家\[49\]一樣遭到擊敗就會數據化消失。
     在帕拉德眼中認為此遊戲並非是人類對抗缺陷者的戰鬥，反過來是缺陷者對人類進行狩獵的遊戲，更是兩個種族（人類與缺陷者）決定生死存亡的平台。
     第31話得知檀黎斗創造這款遊戲的真正目的在於復活因感染缺陷者病毒而消失的母親檀櫻子。
     第32話後改由出獄並回到幻夢集團的檀正宗掌控，同時將位於上級守領的拉夫利卡永久消滅。
@@ -315,8 +278,7 @@ Start）！各種遊戲的高手，滅絕崩源體吧！
           - 第32話被檀正宗擊敗，第39話檀正宗以打倒帕拉德為由所給予永夢的訂金。
     最終首領
       - 「假面騎士編年史（KAMENRIDER CHRONICLE）」 － 蓋姆迪烏斯
-          - 第42話被檀正宗擊敗並將其數據吸收後注入於自身，在第44話在永夢等人以Level
-            1的型態將其從檀正宗身體內分離出來後，被帕拉德以「醫生全力XX」同歸於盡而消失。
+          - 第42話被檀正宗擊敗並將其數據吸收後注入於自身，在第44話在永夢等人以Level 1的型態將其從檀正宗身體內分離出來後，被帕拉德以「醫生全力XX」同歸於盡而消失。
     <!-- end list -->
       - 卡帶獎杯
         原文： / *Gashat Trophy*
@@ -325,14 +287,11 @@ Start）！各種遊戲的高手，滅絕崩源體吧！
         之後分別從檀正宗及檀黎斗手上獲得「心動危機」、「完美解謎」、「擊倒鬥士」三枚上級卡帶獎盃以及擊倒古拉法特後所獲得的「龍騎士獵人Z」卡帶獎盃下，分別代表著初級、中級和上級的十三枚卡帶獎盃終於全部集齊，並於第41話結尾時將最終首領「蓋姆迪烏斯」召喚出來。
       - 爆搜寶藏
         原文： / *Bakusou Treasure*
-        於《假面騎士EX-AID
-        \[裏技\]假面騎士Lazer》中出現的尋寶角色扮演遊戲，在九条貴利矢死亡期間，鏡飛彩於其個人電腦內所發現的遺留檔案，事實上是檀黎斗所開發出來的『假面騎士編年史』原型版本，在該遊戲中假面騎士Lazer以導航角色的身份登場，而摩塔斯缺陷者及假面騎士Genm則作為敵方及守關角色登場，而原型卡帶則是該遊戲的神祕寶藏。
+        於《假面騎士EX-AID \[裏技\]假面騎士Lazer》中出現的尋寶角色扮演遊戲，在九条貴利矢死亡期間，鏡飛彩於其個人電腦內所發現的遺留檔案，事實上是檀黎斗所開發出來的『假面騎士編年史』原型版本，在該遊戲中假面騎士Lazer以導航角色的身份登場，而摩塔斯缺陷者及假面騎士Genm則作為敵方及守關角色登場，而原型卡帶則是該遊戲的神祕寶藏。
       - 解謎迷宮
         原文： /*Nazotoki Labyrinth*
-        於《假面騎士EX-AID
-        \[裏技\]假面騎士Para-DX》中由檀黎斗製造給寶生永夢與帕拉德闖關的解謎遊戲，在該遊戲中分別有太陽、月亮、星星三種圖案房間，找出三間房間內隱藏的暗號並解答出來即可過關，星星房間則是哈特納崩源體鎮守並且其身上的數字為輸入答案的關鍵\[56\]\[57\]\[58\]。
-        實際上這是檀黎斗為了逃脫電子監獄所設計的遊戲，逃脫後的檀黎斗在之後的《假面騎士EX-AID Trilogy
-        Another・Ending》中再度作惡。
+        於《假面騎士EX-AID \[裏技\]假面騎士Para-DX》中由檀黎斗製造給寶生永夢與帕拉德闖關的解謎遊戲，在該遊戲中分別有太陽、月亮、星星三種圖案房間，找出三間房間內隱藏的暗號並解答出來即可過關，星星房間則是哈特納崩源體鎮守並且其身上的數字為輸入答案的關鍵\[56\]\[57\]\[58\]。
+        實際上這是檀黎斗為了逃脫電子監獄所設計的遊戲，逃脫後的檀黎斗在之後的《假面騎士EX-AID Trilogy Another・Ending》中再度作惡。
 
 <!-- end list -->
 
@@ -348,17 +307,15 @@ Start）！各種遊戲的高手，滅絕崩源體吧！
 
   - 麥提小說X
     原文： / *Mighty Novel X*
-    為小說《假面騎士EX-AID ～Mighty Novel X～》中出現的特殊卡帶，是檀黎斗利用God Maximum Mighty
-    X的創造遊戲能力所製造出的遊戲。
+    為小說《假面騎士EX-AID ～Mighty Novel X～》中出現的特殊卡帶，是檀黎斗利用God Maximum Mighty X的創造遊戲能力所製造出的遊戲。
 
 ## 登場人物
 
 ## 本作登場假面騎士
 
-### 假面騎士Ex-Aid
+### 假面騎士EX-AID
 
-變身者：寶生永夢 / 帕拉德\[59\]（替身演員：（LV1、X（10）） / （LV2、3、4、5、XX（20）R、99、無敵）/
-（XX（20）L）、CV：飯島寛騎 / 甲斐翔真（XX（20）R））
+變身者：寶生永夢 / 帕拉德\[59\]（替身演員：（LV1、X（10）） / （LV2、3、4、5、XX（20）R、99、無敵）/ （XX（20）L）、CV：飯島寛騎 / 甲斐翔真（XX（20）R））
 
   -
     原文： / *Kamen Rider Ex-Aid*
@@ -658,7 +615,13 @@ Level 0</strong><br />
 <strong>越野車行動玩家<br />
 Level 0</strong></p></td>
 <td><p>原文：<br />
-使用「Mighty Action X」卡帶狀態時搭配「Proto Bakusou Bike Combi Revival ver.」卡帶變身的友情武裝形態</p></td>
+使用「Mighty Action X」卡帶狀態時搭配「Proto Bakusou Bike Combi Revival ver.」卡帶變身的友情武裝形態<br />
+身高：205.0cm<br />
+體重：147.0kg<br />
+拳擊力：66.6t<br />
+踢擊力：80.7t<br />
+跳躍力：60.9m<br />
+行動速度：100m / 1.1秒</p></td>
 <td><p>全身以黃色、黑色和粉紅色為主</p></td>
 <td><p>於月刊雜誌《てれびくん》特別篇DVD中登場。</p></td>
 <td><p><strong>Bakusou Critical Strike</strong><br />
@@ -670,7 +633,13 @@ Level 39<br />
 </strong>雙重鬥士玩家<br />
 Level 39'''</p></td>
 <td><p>原文：<br />
-使用「Knock Out Fighter 2」卡帶狀態時分裂變身的形態</p></td>
+使用「Knock Out Fighter 2」卡帶狀態時分裂變身的形態<br />
+身高：205.0cm<br />
+體重：117.2kg<br />
+拳擊力：39.0t<br />
+踢擊力：63.9t<br />
+跳躍力：53.9m<br />
+行動速度：100m / 3.9秒</p></td>
 <td><p>全身以橘色、黑色和粉紅色為主，外觀與Pac Action Gamer相似</p></td>
 <td><p>於月刊雜誌《てれびくん》特別篇DVD中登場。</p></td>
 <td><p><strong>Knock Out Critical Knuckle</strong><br />
@@ -717,10 +686,8 @@ Level 2</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|<strong>Pac Action Gamer<br />
-Level 3</strong><br />
-<strong>吃豆動作玩家<br />
-Level 3</strong></p></td>
+<td><p>style="text-align:center”|<strong>Pac Action Gamer</strong><br />
+<strong>吃豆動作玩家</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -878,13 +845,13 @@ Level 4</strong><br />
 Level 4</strong></p></td>
 <td><p>原文：<br />
 使用「Taddle Quest」卡帶狀態時搭配「Night of Safari」卡帶「手術Level 4」武裝升級的形態<br />
-身高：cm<br />
-體重：kg<br />
-拳擊力：t<br />
-踢擊力：t<br />
-跳躍力：m<br />
-行動速度：m / 秒</p></td>
-<td><p>全身以豹紋色為主</p></td>
+身高：202.5cm<br />
+體重：155.0kg<br />
+拳擊力：18.0t<br />
+踢擊力：22.0t<br />
+跳躍力：47.7m<br />
+行動速度：100m / 2.6秒</p></td>
+<td><p>全身以豹紋為主</p></td>
 <td><p>以「Quest Gamer Level 2」作爲基礎再以「Safari Gamer」進行武裝的形態。</p></td>
 <td><p><strong>Night of Critical Strike</strong><br />
 原文： |-:</p></td>
@@ -949,19 +916,16 @@ Level 100</strong></p></td>
 原文：</p></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center”|<strong>Famista Quest Gamer<br />
-Level 3</strong><br />
-<strong>Famista冒險玩家<br />
-Level 3</strong></p></td>
+<td><p>style="text-align:center”|<strong>Famista Quest Gamer</strong><br />
+<strong>Famista冒險玩家</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|<strong>Galaxian Quest Gamer<br />
-</strong>银河人冒險玩家<br />
-'''</p></td>
+<td><p>style="text-align:center”|<strong>Galaxian Quest Gamer</strong><br />
+<strong>銀河人冒險玩家</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -986,8 +950,7 @@ Level 3</strong></p></td>
   -
     原文：
     為假面騎士Brave專用的劍型武器\[68\]。可變換炎與冰兩種屬性模式。
-    其實初登場時假面騎士Brave使用的是普通的勇者之劍，但後來被假面騎士Genm毀壞，其後在遊戲領域內取得傳說之劍，並且使傳說之劍變化為Gashacon
-    Sword。
+    其實初登場時假面騎士Brave使用的是普通的勇者之劍，但後來被假面騎士Genm毀壞，其後在遊戲領域內取得傳說之劍，並且使傳說之劍變化為Gashacon Sword。
     炎模式的聲效『Ka Chīn\!』（原文：）（台譯：烈火！）；冰模式的聲效『Ko Chīn\!』（原文：）（台譯：寒冰！）
 
 <!-- end list -->
@@ -1003,8 +966,7 @@ Level 3</strong></p></td>
 
 ### 假面騎士Snipe
 
-變身者：花家大我（替身演員：藤田慧（LV1） /
-[永德](https://zh.wikipedia.org/wiki/永德 "wikilink")（LV2、3、5、50）、CV：松本享恭）
+變身者：花家大我（替身演員：藤田慧（LV1） / [永德](https://zh.wikipedia.org/wiki/永德 "wikilink")（LV2、3、5、50）、CV：松本享恭）
 
   -
     原文： / *Kamen Rider Snipe*
@@ -1145,16 +1107,14 @@ Level 50</strong></p></td>
 跳躍力：53.0m<br />
 行動速度：100m / 2.3秒</p></td>
 <td><p>全身以銀色、紅色、黃綠色和深藍色為主</p></td>
-<td><p>該形態雖然由「Shooting Gamer Level 2」作爲基礎，但並沒有使用卡帶「Bang Bang Shooting」，而是檀黎斗之前透過「Bang Bang Shooting」的資料升級成「Gashat Gear Dual Beta」的其中一個卡帶。上半身裝備多具連裝砲及單發砲，而且能像<a href="../Page/戰艦.md" title="wikilink">戰艦一樣偵測複數目標再鎖定發炮攻擊</a>。</p></td>
+<td><p>該形態雖然由「Shooting Gamer Level 2」作爲基礎，但並沒有使用卡帶「Bang Bang Shooting」，而是檀黎斗之前透過「Bang Bang Shooting」的資料升級成「Gashat Gear Dual Beta」的其中一個卡帶。上半身裝備多具連裝砲及單發砲，而且能像<a href="../Page/戰艦.md" title="wikilink">戰艦</a>一樣偵測複數目標再鎖定發炮攻擊。</p></td>
 <td><p><strong>Bang Bang Critical Fire</strong><br />
 原文：<br />
 能將身上全部的發射器鎖定同一目標再同時發出致命的炮擊。</p></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|<strong>Xevious Shooting Gamer<br />
-Level 3</strong><br />
-<strong>Xevious射擊玩家<br />
-Level 3</strong></p></td>
+<td><p>style="text-align:center”|<strong>Xevious Shooting Gamer</strong><br />
+<strong>Xevious射擊玩家</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1318,8 +1278,7 @@ Level 5<br />
 
   -
     原文：
-    為假面騎士Lazer專用的輪型武器，也是Level 2時的前後輪部件。一般來說都由Level
-    1手持進行攻擊。除了能直接進行打擊攻擊外，也能夠做為遠程武器發射子彈\[72\]
+    為假面騎士Lazer專用的輪型武器，也是Level 2時的前後輪部件。一般來說都由Level 1手持進行攻擊。除了能直接進行打擊攻擊外，也能夠做為遠程武器發射子彈\[72\]
 
 <!-- end list -->
 
@@ -1329,13 +1288,11 @@ Level 5<br />
 
   -
     原文：
-    Gashacon Bugviser的改良版本，除了顏色改為青綠色外，外觀及性能皆相同
-    。「II」的發音為「Zwei」（德語中的「2」）。該武器僅外傳登場，由復活後的檀正宗被檀黎斗擊殺時，檀正宗以阻止兒子為由託付於他。
+    Gashacon Bugviser的改良版本，除了顏色改為青綠色外，外觀及性能皆相同 。「II」的發音為「Zwei」（德語中的「2」）。該武器僅外傳登場，由復活後的檀正宗被檀黎斗擊殺時，檀正宗以阻止兒子為由託付於他。
 
 ### 假面騎士Genm
 
-變身者：檀黎斗 / 寶生清長\[73\]/ 檀黎斗II\[74\]（替身演員：藤田慧（LV1） / （LV2、3、X（10）、X） /
-（0、X-0） / （LV2單車）、CV：岩永徹也）
+變身者：檀黎斗 / 寶生清長\[73\]/ 檀黎斗II\[74\]（替身演員：藤田慧（LV1） / （LV2、3、X（10）、X） / （0、X-0） / （LV2單車）、CV：岩永徹也）
 
   -
     原文： / *Kamen Rider Genm*
@@ -1573,8 +1530,7 @@ Level 2</strong></p></td>
 
   -
     原文：
-    原為假面騎士Lazer專用的武器，第12集被Genm奪走並由喪屍玩家Level X使用，第23集敗於Ex-Aid Level
-    MAX極限玩家後由Ex-Aid撿到「戰慄武士決鬥」卡帶。
+    原為假面騎士Lazer專用的武器，第12集被Genm奪走並由喪屍玩家Level X使用，第23集敗於Ex-Aid Level MAX極限玩家後由Ex-Aid撿到「戰慄武士決鬥」卡帶。
 
 <!-- end list -->
 
@@ -1584,8 +1540,7 @@ Level 2</strong></p></td>
 
   -
     原文：
-    原為假面騎士Brave專用武器，第16集被Genm奪走並由喪屍玩家Level X使用，第19集敗於Brave Level
-    50奇幻玩家後再給Brave奪回。
+    原為假面騎士Brave專用武器，第16集被Genm奪走並由喪屍玩家Level X使用，第19集敗於Brave Level 50奇幻玩家後再給Brave奪回。
 
 <!-- end list -->
 
@@ -1595,8 +1550,7 @@ Level 2</strong></p></td>
 
   -
     原文：
-    Gashacon
-    Bugviser的改良版本，除了顏色改為青綠色外，外觀及性能皆相同\[82\]。「II」的發音為「Zwei」（德語中的「2」）。Genm所使用的這部並非檀黎斗持有，而是向Poppy借用的。
+    Gashacon Bugviser的改良版本，除了顏色改為青綠色外，外觀及性能皆相同\[82\]。「II」的發音為「Zwei」（德語中的「2」）。Genm所使用的這部並非檀黎斗持有，而是向Poppy借用的。
 
 <!-- end list -->
 
@@ -1606,8 +1560,7 @@ Level 2</strong></p></td>
 
   -
     原文：
-    本為假面騎士Ex-Aid專用的近戰武器。可變換劍與槌兩種武器模式。在檀黎斗作為崩源体復活後就開始由Genm使用，但沒有說明是從永夢處拿來還是黎斗自己持有，亦沒有說明Genm是否一開始就持有\[83\]，不過在True
-    Ending中黎斗曾在永夢不在現場的情況下使用此武器，所以應該是黎斗自己持有。
+    本為假面騎士Ex-Aid專用的近戰武器。可變換劍與槌兩種武器模式。在檀黎斗作為崩源体復活後就開始由Genm使用，但沒有說明是從永夢處拿來還是黎斗自己持有，亦沒有說明Genm是否一開始就持有\[83\]，不過在True Ending中黎斗曾在永夢不在現場的情況下使用此武器，所以應該是黎斗自己持有。
     劍模式的聲效『Ja Kīn\!』（原文：ジャ・キーン！）；槌模式的聲效『Ba Kōn\!』（原文：バ・コーン！）
 
 ### 假面騎士Para-DX
@@ -1703,7 +1656,13 @@ Level 39<br />
 </strong>雙重鬥士玩家<br />
 Level 39'''</p></td>
 <td><p>原文：<br />
-使用「Knock Out Fighter 2」卡帶時分裂變身的形態</p></td>
+使用「Knock Out Fighter 2」卡帶時分裂變身的形態<br />
+身高：201.5cm<br />
+體重：110.5kg<br />
+拳擊力：39.0t<br />
+踢擊力：63.9t<br />
+跳躍力：53.9m<br />
+行動速度：100m / 3.9秒</p></td>
 <td><p>外型和鬥士玩家 level 50完全一樣，只有腰帶不同</p></td>
 <td><p>於月刊雜誌《てれびくん》特別篇DVD中登場。</p></td>
 <td><p><strong>Knock Out Critical Knuckle</strong><br />
@@ -1749,8 +1708,7 @@ Level 39'''</p></td>
     原文：
     為假面騎士Para-DX完美擊倒玩家Level 99的專用武器，可變換斧與槍兩種武器模式。
     斧模式的聲效『Zu gōn！』（原文：），與其他騎士的武器不同處在於可藉由使用按鈕的次數對敵方打擊造成該次數的傷害。\[85\]
-    槍模式的聲效『Zu
-    gān！』（原文：），與斧模式同樣可藉由使用按鈕的次數對敵方射擊該次數的彈藥發數\[86\]，且具有連射及彎曲子彈的能力。
+    槍模式的聲效『Zu gān！』（原文：），與斧模式同樣可藉由使用按鈕的次數對敵方射擊該次數的彈藥發數\[86\]，且具有連射及彎曲子彈的能力。
 
 ### 騎士玩家
 
@@ -1897,8 +1855,7 @@ Level X</strong></p></td>
 
   -
     原文：
-    Gashacon
-    Bugviser的改良版本，除了顏色改為青綠色外，外觀及性能皆相同\[94\]。「II」的發音為「Zwei」（德語中的「2」）。
+    Gashacon Bugviser的改良版本，除了顏色改為青綠色外，外觀及性能皆相同\[94\]。「II」的發音為「Zwei」（德語中的「2」）。
 
 ### 假面騎士Cronus
 
@@ -1989,8 +1946,7 @@ Level X</strong></p></td>
 
   -
     原文：
-    Gashacon
-    Bugviser的改良版本，除了顏色改為青綠色外，外觀及性能皆相同\[106\]。「II」的發音為「Zwei」（德語中的「2」）。
+    Gashacon Bugviser的改良版本，除了顏色改為青綠色外，外觀及性能皆相同\[106\]。「II」的發音為「Zwei」（德語中的「2」）。
 
 <!-- end list -->
 
@@ -2117,8 +2073,7 @@ Level 0</strong></p></td>
 
   -
     原文：
-    Gashacon
-    Bugviser的改良版本，除了顏色改為青綠色外，外觀及性能皆相同\[112\]。「II」的發音為「Zwei」（德語中的「2」）。貴利矢為了利用新檀黎斗培養疫苗而自Poppy手中借用。
+    Gashacon Bugviser的改良版本，除了顏色改為青綠色外，外觀及性能皆相同\[112\]。「II」的發音為「Zwei」（德語中的「2」）。貴利矢為了利用新檀黎斗培養疫苗而自Poppy手中借用。
 
 ### 其他（影集以外作品）
 
@@ -2177,10 +2132,7 @@ Level 0</strong></p></td>
 
 ### 變身道具
 
-【「■■」代表主騎士卡帶所屬音效，詳情請見「[騎士卡帶（Rider
-Gashat）](https://zh.wikipedia.org/wiki/假面騎士EX-AID#騎士卡帶（Rider_Gashat） "wikilink")」；「▲▲」代表騎士卡帶首個字詞，例如「Mighty
-Action X」為「Mighty」、「Taddle Quest」為「Taddle」；「●●」代表次騎士卡帶所屬音效；「XX」代表Buggle
-Driver和Gashat Gear Dual的必殺技音效】
+【「■■」代表主騎士卡帶所屬音效，詳情請見「[騎士卡帶（Rider Gashat）](https://zh.wikipedia.org/wiki/假面騎士EX-AID#騎士卡帶（Rider_Gashat） "wikilink")」；「▲▲」代表騎士卡帶首個字詞，例如「Mighty Action X」為「Mighty」、「Taddle Quest」為「Taddle」；「●●」代表次騎士卡帶所屬音效；「XX」代表Buggle Driver和Gashat Gear Dual的必殺技音效】
 
   - **玩家驅動腰帶**
 
@@ -2191,56 +2143,22 @@ Driver和Gashat Gear Dual的必殺技音效】
     本作假面騎士專用變身腰帶。
     用作引導騎士卡帶的力量，變身成所屬卡帶戰鬥風格的戰士，並將電玩遊戲領域實體化為遊戲病患者執行手術。
     內藏的裝置具有轉移戰鬥數據至腰帶的開發公司，以作自動提供補丁下載和安裝以解決系統故障；另外具有影像投射功能，除了投影遊戲場面及選單外，為了刻意加強戰鬥趣味性而在攻擊敵人時會投影出帶有電玩特色的視覺特效。
-    左方帶有接入騎士卡帶之用的雙插槽「Main Gashat
-    Slot」，要先接入於內側區的插槽和發出「Gashat\!」（原文「」，台譯：「插卡！」）音效後，再自行發出音效「Let's
-    Game\! Metcha Game\! Mutcha Game\! What's your name\!\! I'm a Kamen
-    Rider\!\!」（原文「」，中文為「開玩！玩整天！玩翻天！報上名來！？我是假面騎士！！」）以進行最初「Level 1」變身程序戰鬥。
-    傳說假面騎士卡帶「Level 1」變身音效為 「Let's Ride\! Metcha Ride\! Mutcha Ride\!
-    What's your Ride\!? I'm a Legend
-    Rider\!」（原文「」，中文為「來吧騎士！超級騎士！極致騎士！哪位騎士！？我是傳說騎士！」）
-    拉開置中的手把「Actuation Lever」和發出「Gachan\! Level Up\!
-    ■■\!」（原文「」，台譯：「開機！等級提升！■■！」）音效後以變身進階形態「Level
-    2」程序。
-    再插入次騎士卡帶時先將手把合回再打開就會發出「Gachan\! Level Up\! ■■\! I get you
-    ●●\!」（原文「」）音效後完成武裝形態「Level 3」起的程序。
-    使用雙重卡帶插入雙插槽「Main Gashat Slot」和發出「Double
-    Gashat\!」（原文「」）音效後，拉開置中的手把「Actuation
-    Lever」和發出「Gachan\! Level Up\! ■■\!」（原文「」）音效後以變身進階形態「Level X」程序。
-    再次將手把合回再打開就會發出「Gachan\! Double Up\! ■■\!」（原文「」）音效後完成分裂形態「Level
-    XX」起的程序。
-    轉動「Gashat Gear Dual Beta」上的手把至相應方向，使用「Gashat Gear Dual
-    Beta」插入雙插槽「Main Gashat Slot」和發出「Dual
-    Gashat\!」（原文「」）音效後，拉開置中的手把「Actuation
-    Lever」，發出「Gachan\! Dual Up\! ■■\!」（原文「」）音效後以變身進階形態「Level
-    50」程序。
-    使用「Gashat Gear Dual」插入雙插槽「Main Gashat Slot」和發出「Dual
-    Gashat\!」（原文「」）音效後，拉開置中的手把「Actuation
-    Lever」和發出「Gachan\! Muzzle Up\! ■■\!」（原文「」）音效後以變身進階形態「Level
-    99」程序。
-    使用「Maximum Mighty X」卡帶插入雙插槽「Main Gashat Slot」和發出「Maximum
-    Gashat\!」（原文「」）音效後，拉開置中的手把「Actuation Lever」和發出「Gachan\!
-    Level Max\! ■■\!」（原文「」）音效後以變身進階形態「Level 99」程序。
-    手把「Actuation
-    Lever」音效為「Gachon\!」（原文「」，台譯：「關機！」）；取出卡帶音效為「Gashun\!」（原文「」，台譯：「拔卡！」）
-    在「Kimewaza Slot」附近按下按鈕即發出音效「Stage
-    Select」（原文「」），此時發動者不但可選擇遊戲場面進入遊戲領域，更可強制將目標帶入遊戲領域。戰鬥完後（無論戰勝或戰敗）變身者將返回發動「Stage
-    Select」前的地方。
-    發動必殺技時先將騎士卡帶接入左腰裝置插槽「Kimewaza
-    Slot」內，發出音效「Gashat\!」（原文「」）後再按下附帶按鈕和發出「Kimewaza\!」（原文「，即是「」；中文為「絕招！」）」音效，再發出「▲▲
-    Critical Strike\!」（原文「」，台譯：「▲▲
-    超強襲衝鋒！」）以完成發動程序；最後完成整個必殺技後會自行發出「Kaishin
-    no Ippatsu\!」（原文「」，即是「」；中文為「猛烈一擊！」）。
-    「Level XX」時再次將手把「Actuation
-    Lever」合回，發出「Kimewaza\!」（原文「，即是「」；中文為「決勝技！」）」音效後，再打開手把發出「Gachan\!
-    ▲▲ Double Critical Strike\!」（原文「」）以完成發動程序。
-    「Level 50」時再次將手把「Actuation
-    Lever」合回，發出「Kimewaza\!」（原文「，即是「」；中文為「決勝技！」）」音效後，再打開手把發出「Gachan\!
-    ▲▲ Critical XX」（原文「」）以完成發動程序。
-    「Level 99」時再次將手把「Actuation Lever」合回，發出「Urawaza\!」（原文「，即是「」；中文為「
-    隱藏技！」）」音效後，再打開手把發出「Gachan\! ▲▲ Critical XX」（原文「」）以完成發動程序。
-    發動武器必殺技時先將騎士卡帶接入專屬武器的插槽「Kimewaza
-    Slot」內，發出音效「Gashat\!」（原文「」，台譯：「插卡！」）後再按下附帶按鈕和發出「Kimewaza\!」（原文「」，即是「」；中文為「絕招！」）音效，再發出「▲▲
-    Critical Finish\!」（原文「」，台譯：「▲▲ 超強襲終結！」）以完成發動程序。
+    左方帶有接入騎士卡帶之用的雙插槽「Main Gashat Slot」，要先接入於內側區的插槽和發出「Gashat\!」（原文「」，台譯：「插卡！」）音效後，再自行發出音效「Let's Game\! Metcha Game\! Mutcha Game\! What's your name\!\! I'm a Kamen Rider\!\!」（原文「」，中文為「開玩！玩整天！玩翻天！報上名來！？我是假面騎士！！」）以進行最初「Level 1」變身程序戰鬥。
+    傳說假面騎士卡帶「Level 1」變身音效為 「Let's Ride\! Metcha Ride\! Mutcha Ride\! What's your Ride\!? I'm a Legend Rider\!」（原文「」，中文為「來吧騎士！超級騎士！極致騎士！哪位騎士！？我是傳說騎士！」）
+    拉開置中的手把「Actuation Lever」和發出「Gachan\! Level Up\! ■■\!」（原文「」，台譯：「開機！等級提升！■■！」）音效後以變身進階形態「Level 2」程序。
+    再插入次騎士卡帶時先將手把合回再打開就會發出「Gachan\! Level Up\! ■■\! I get you ●●\!」（原文「」）音效後完成武裝形態「Level 3」起的程序。
+    使用雙重卡帶插入雙插槽「Main Gashat Slot」和發出「Double Gashat\!」（原文「」）音效後，拉開置中的手把「Actuation Lever」和發出「Gachan\! Level Up\! ■■\!」（原文「」）音效後以變身進階形態「Level X」程序。
+    再次將手把合回再打開就會發出「Gachan\! Double Up\! ■■\!」（原文「」）音效後完成分裂形態「Level XX」起的程序。
+    轉動「Gashat Gear Dual Beta」上的手把至相應方向，使用「Gashat Gear Dual Beta」插入雙插槽「Main Gashat Slot」和發出「Dual Gashat\!」（原文「」）音效後，拉開置中的手把「Actuation Lever」，發出「Gachan\! Dual Up\! ■■\!」（原文「」）音效後以變身進階形態「Level 50」程序。
+    使用「Gashat Gear Dual」插入雙插槽「Main Gashat Slot」和發出「Dual Gashat\!」（原文「」）音效後，拉開置中的手把「Actuation Lever」和發出「Gachan\! Muzzle Up\! ■■\!」（原文「」）音效後以變身進階形態「Level 99」程序。
+    使用「Maximum Mighty X」卡帶插入雙插槽「Main Gashat Slot」和發出「Maximum Gashat\!」（原文「」）音效後，拉開置中的手把「Actuation Lever」和發出「Gachan\! Level Max\! ■■\!」（原文「」）音效後以變身進階形態「Level 99」程序。
+    手把「Actuation Lever」音效為「Gachon\!」（原文「」，台譯：「關機！」）；取出卡帶音效為「Gashun\!」（原文「」，台譯：「拔卡！」）
+    在「Kimewaza Slot」附近按下按鈕即發出音效「Stage Select」（原文「」），此時發動者不但可選擇遊戲場面進入遊戲領域，更可強制將目標帶入遊戲領域。戰鬥完後（無論戰勝或戰敗）變身者將返回發動「Stage Select」前的地方。
+    發動必殺技時先將騎士卡帶接入左腰裝置插槽「Kimewaza Slot」內，發出音效「Gashat\!」（原文「」）後再按下附帶按鈕和發出「Kimewaza\!」（原文「，即是「」；中文為「絕招！」）」音效，再發出「▲▲ Critical Strike\!」（原文「」，台譯：「▲▲ 超強襲衝鋒！」）以完成發動程序；最後完成整個必殺技後會自行發出「Kaishin no Ippatsu\!」（原文「」，即是「」；中文為「猛烈一擊！」）。
+    「Level XX」時再次將手把「Actuation Lever」合回，發出「Kimewaza\!」（原文「，即是「」；中文為「決勝技！」）」音效後，再打開手把發出「Gachan\! ▲▲ Double Critical Strike\!」（原文「」）以完成發動程序。
+    「Level 50」時再次將手把「Actuation Lever」合回，發出「Kimewaza\!」（原文「，即是「」；中文為「決勝技！」）」音效後，再打開手把發出「Gachan\! ▲▲ Critical XX」（原文「」）以完成發動程序。
+    「Level 99」時再次將手把「Actuation Lever」合回，發出「Urawaza\!」（原文「，即是「」；中文為「 隱藏技！」）」音效後，再打開手把發出「Gachan\! ▲▲ Critical XX」（原文「」）以完成發動程序。
+    發動武器必殺技時先將騎士卡帶接入專屬武器的插槽「Kimewaza Slot」內，發出音效「Gashat\!」（原文「」，台譯：「插卡！」）後再按下附帶按鈕和發出「Kimewaza\!」（原文「」，即是「」；中文為「絕招！」）音效，再發出「▲▲ Critical Finish\!」（原文「」，台譯：「▲▲ 超強襲終結！」）以完成發動程序。
     「Rider Gauge」達至零時會發出「Game Over」的音效。
 
 <!-- end list -->
@@ -2251,19 +2169,14 @@ Driver和Gashat Gear Dual的必殺技音效】
 
   -
     原文：
-    假面騎士Genm的專用裝備，「Gashacon
-    Bugwiser」與崩源體扣帶組合而成的腰帶。組合音效為「Gachon\!」（原文「」）。
-    右方帶有接入騎士卡帶之用的插槽「Gashat
-    Slot」，要先接入騎士卡帶和發出「Gashat\!」（原文「」）音效後，按下插槽旁的紅色按鈕「Buggle
-    Up Trigger」和發出「Buggle Up\! ■■\!」（原文「」）音效後以變身進階形態「Level
-    X」程序。必殺技發出「Critical XX\!」（原文「」）以完成發動程序。
+    假面騎士Genm的專用裝備，「Gashacon Bugwiser」與崩源體扣帶組合而成的腰帶。組合音效為「Gachon\!」（原文「」）。
+    右方帶有接入騎士卡帶之用的插槽「Gashat Slot」，要先接入騎士卡帶和發出「Gashat\!」（原文「」）音效後，按下插槽旁的紅色按鈕「Buggle Up Trigger」和發出「Buggle Up\! ■■\!」（原文「」）音效後以變身進階形態「Level X」程序。必殺技發出「Critical XX\!」（原文「」）以完成發動程序。
       - **Buggle Driver II**
     <!-- end list -->
       -
         原文：
         音效：[諏訪部順一](../Page/諏訪部順一.md "wikilink")
-        假面騎士Poppy及Cronus變身用裝備，「Gashacon Bugwiser
-        II」與崩源體扣帶II組合而成的腰帶，除了顏色改為青綠色外，外觀及性能皆相同。「II」讀作「Zwei（德語中的「2」）」。
+        假面騎士Poppy及Cronus變身用裝備，「Gashacon Bugwiser II」與崩源體扣帶II組合而成的腰帶，除了顏色改為青綠色外，外觀及性能皆相同。「II」讀作「Zwei（德語中的「2」）」。
 
 <!-- end list -->
 
@@ -2274,16 +2187,12 @@ Driver和Gashat Gear Dual的必殺技音效】
   -
     原文：
     幹部級（古納法及拉夫利卡）崩源體的變身器，同時也是假面騎士Genm的專用武器。
-    套上手環時的音效為「Infection\!」（原文「」；中文為「感染！」），再自行發出音效「Let's Game\! Bad
-    Game\! Dead Game\! What's your name\!? The
-    \!\!」（原文「レッツゲーム！バッドゲーム！デッドゲーム！ワッチャネーム！？ザー
-    バグスター！！」，中文為「開玩！玩上癮！玩到掛！報上名來！？我是崩源體！！」）以完成變身程序。
+    套上手環時的音效為「Infection\!」（原文「」；中文為「感染！」），再自行發出音效「Let's Game\! Bad Game\! Dead Game\! What's your name\!? The \!\!」（原文「レッツゲーム！バッドゲーム！デッドゲーム！ワッチャネーム！？ザー バグスター！！」，中文為「開玩！玩上癮！玩到掛！報上名來！？我是崩源體！！」）以完成變身程序。
       - **Gashacon Bugwiser II**
     <!-- end list -->
       -
         原文：
-        Gashacon
-        Bugwiser的改良版本，除了顏色改為青綠色外，外觀及性能皆相同，跟一代不一樣的是此驅動器只能是純崩源體或者是完全抗體的人類才可使用，若是沒有完全抗體的人類使用會感染大量病毒死亡，轉換成崩源體的人類使用則會隨著使用時間過長而失去身體消失。
+        Gashacon Bugwiser的改良版本，除了顏色改為青綠色外，外觀及性能皆相同，跟一代不一樣的是此驅動器只能是純崩源體或者是完全抗體的人類才可使用，若是沒有完全抗體的人類使用會感染大量病毒死亡，轉換成崩源體的人類使用則會隨著使用時間過長而失去身體消失。
 
 <!-- end list -->
 
@@ -2294,20 +2203,14 @@ Driver和Gashat Gear Dual的必殺技音效】
   -
     原文：
     假面騎士Para-DX的專用騎士卡帶組合及變身器，內含「Knock Out Fighter」與「Perfect Puzzle」卡帶。
-    轉動「Gashat Gear Dual」上的手把至相應方向和發出手把音效後，按下卡帶按鈕再發出「Dual Up\!
-    ■■\!」（原文「」）音效後以變身進階形態「Level 50」程序。
-    發動必殺技時轉動「Gashat Gear
-    Dual」上的手把至相應方向和發出「Kimewaza\!」（原文「，即是「」；中文為「決勝技！」）」音效後，將「Gashat
-    Gear Dual」接入右腰雙插槽「Gear Holder」發出「Dual Gashat\!」（原文「」）音效後，再發出「▲▲
-    Critical XX\!」（原文「」）以完成發動程序。
+    轉動「Gashat Gear Dual」上的手把至相應方向和發出手把音效後，按下卡帶按鈕再發出「Dual Up\! ■■\!」（原文「」）音效後以變身進階形態「Level 50」程序。
+    發動必殺技時轉動「Gashat Gear Dual」上的手把至相應方向和發出「Kimewaza\!」（原文「，即是「」；中文為「決勝技！」）」音效後，將「Gashat Gear Dual」接入右腰雙插槽「Gear Holder」發出「Dual Gashat\!」（原文「」）音效後，再發出「▲▲ Critical XX\!」（原文「」）以完成發動程序。
       - **Gashat Gear Dual Beta**
     <!-- end list -->
       -
         原文：
-        假面騎士Brave與Snipe的專用騎士卡帶組合，內含「Taddle Fantasy」與「Bang Bang
-        Simulations」卡帶。
-        是以「Taddle Quest」和「Bang Bang
-        Shooting」兩款卡帶資料為基礎的升級版本\[115\]。原先只有一枚卡帶供應兩人使用，所以飛彩與大我必須輪流交換才行，直到第31話由檀黎斗給予大我第二枚後才可個別獨自使用。
+        假面騎士Brave與Snipe的專用騎士卡帶組合，內含「Taddle Fantasy」與「Bang Bang Simulations」卡帶。
+        是以「Taddle Quest」和「Bang Bang Shooting」兩款卡帶資料為基礎的升級版本\[115\]。原先只有一枚卡帶供應兩人使用，所以飛彩與大我必須輪流交換才行，直到第31話由檀黎斗給予大我第二枚後才可個別獨自使用。
     <!-- end list -->
       - **Gashat Gear Dual Another**
     <!-- end list -->
@@ -3316,7 +3219,7 @@ Level 2</p></td>
 Action X</p></td>
 <td><p>219.0cm</p></td>
 <td><p>127.0kg</p></td>
-<td><p>宿主發病時會變成像<a href="../Page/魔像.md" title="wikilink">魔像的巨大怪物</a>。<br />
+<td><p>宿主發病時會變成像<a href="../Page/魔像.md" title="wikilink">魔像</a>的巨大怪物。<br />
 能將一隻手縮起，並以另一隻手使出強力揮擊。</p></td>
 <td><p>以格鬥攻擊為主。<br />
 能夠以左手腕的拳套「Salty Knuckle」使出帶電的拳擊。<br />
@@ -3776,14 +3679,11 @@ Action X</p></td>
 
     幻夢集團新任社長天崎戀的真實身份，與古納法皆為完成體的崩源體，在外傳中因為檀黎斗設計下則沒有成為完全體\[140\]。
 
-    完全體情況下會召喚自身遊戲的崩源體「Lovely Girls」，自身根據對「Lovely
-    Girls」的好感度施放具有魅力的話語，並且根據「Lovely
-    Girls」對我方好感度的高低給予敵人強或弱的傷害和對敵方造成情緒控制並降低戰意等特殊效果。
+    完全體情況下會召喚自身遊戲的崩源體「Lovely Girls」，自身根據對「Lovely Girls」的好感度施放具有魅力的話語，並且根據「Lovely Girls」對我方好感度的高低給予敵人強或弱的傷害和對敵方造成情緒控制並降低戰意等特殊效果。
 
     由於所屬遊戲類型為戀愛育成遊戲，因此能力主要反映在操縱他人情感之外，還能夠使一般攻擊無效化（因為戀愛模擬遊戲不能以強硬手段通關）\[141\]，在外傳中本身追加操控無限花瓣攻擊敵人的能力。
 
-    相對的因為自己的遊戲類型影響，如果聽到從異性口中說出「討厭你」等可能導致戀愛模擬遊戲進入Bad
-    End的話語會給予相當大的傷害\[142\]，另外如果戀愛對象對敵人有好感則對手造成自己的攻擊會奏效。
+    相對的因為自己的遊戲類型影響，如果聽到從異性口中說出「討厭你」等可能導致戀愛模擬遊戲進入Bad End的話語會給予相當大的傷害\[142\]，另外如果戀愛對象對敵人有好感則對手造成自己的攻擊會奏效。
 
 <!-- end list -->
 
@@ -3806,23 +3706,17 @@ Action X</p></td>
 
     「假面騎士編年史」的最終首領，也是檀黎斗口中的究極崩源體，其真面目只有檀黎斗知道，第41話正式登場。
 
-    能夠以所裝備的寶劍「Deus Rusher」和寶盾「Deus
-    Rampart」施展「假面騎士編年史」中所有崩源體首領的特殊能力，其體力相當於騎士計量格50容量。
+    能夠以所裝備的寶劍「Deus Rusher」和寶盾「Deus Rampart」施展「假面騎士編年史」中所有崩源體首領的特殊能力，其體力相當於騎士計量格50容量。
 
     根據檀黎斗述說只有湊齊代表初、中、高級的13枚卡帶獎盃才會降臨登場，擁有與假面騎士Cronus對抗的力量與高速恢復能力。
 
-    自身散播的完全體病毒可以完全壓制住Level
-    0的抑制力量，但在病毒未激活情況下被取走的病毒樣本依舊可以抑制，另外騎士或崩源體如果體內擁有此病毒（適應狀態下）可以增強自己實力甚至超越等級\[144\]。
+    自身散播的完全體病毒可以完全壓制住Level 0的抑制力量，但在病毒未激活情況下被取走的病毒樣本依舊可以抑制，另外騎士或崩源體如果體內擁有此病毒（適應狀態下）可以增強自己實力甚至超越等級\[144\]。
 
-    第34話帕拉德及古納法進入『假面騎士編年史』的遊戲世界時，以未進化的資料型態出現，後被古納法利用Gashacon
-    Bugwiser獲取其身上微量樣本打算藉此培養並透過此樣本對抗假面騎士Cronus（也就是檀正宗）的「Pause」能力，但因為假面騎士Lazer
-    Turbo而失敗。
+    第34話帕拉德及古納法進入『假面騎士編年史』的遊戲世界時，以未進化的資料型態出現，後被古納法利用Gashacon Bugwiser獲取其身上微量樣本打算藉此培養並透過此樣本對抗假面騎士Cronus（也就是檀正宗）的「Pause」能力，但因為假面騎士Lazer Turbo而失敗。
 
-    其真實樣貌於《[劇場版 假面騎士EX-AID
-    True•Ending](https://zh.wikipedia.org/wiki/劇場版_假面騎士EX-AID_True•Ending "wikilink")》的預告映像先行公開\[145\]\[146\]。
+    其真實樣貌於《[劇場版 假面騎士EX-AID True•Ending](https://zh.wikipedia.org/wiki/劇場版_假面騎士EX-AID_True•Ending "wikilink")》的預告映像先行公開\[145\]\[146\]。
 
-    在第41話因湊齊13枚卡帶獎盃的關係，直接從「假面騎士編年史」的遊戲介面誕生，第42話因為檀正宗在程式內動手腳的關係，可自行散播崩源體病毒。最後被憤怒的檀正宗擊敗，並且其數據資料皆被檀正宗利用「Gashacon
-    Bugwiser II」吸收並殖入自身體內，並使其變身成蓋姆迪烏斯克洛諾斯。
+    在第41話因湊齊13枚卡帶獎盃的關係，直接從「假面騎士編年史」的遊戲介面誕生，第42話因為檀正宗在程式內動手腳的關係，可自行散播崩源體病毒。最後被憤怒的檀正宗擊敗，並且其數據資料皆被檀正宗利用「Gashacon Bugwiser II」吸收並殖入自身體內，並使其變身成蓋姆迪烏斯克洛諾斯。
 
   - \***超蓋姆迪烏斯**
 
@@ -3833,8 +3727,7 @@ Action X</p></td>
         體重：80.8t
         特色 / 能力：最高的戰鬥能力、遊戲病的感染擴大
         是蓋姆迪烏斯\[147\]病毒激活後所覺醒的型態，擁有與無敵玩家對抗的力量，其體力相當於騎士計量格999容量。
-        因體內有蓋姆迪烏斯病毒的關係，任何損傷都可快速修復，由於此型態類似於結合態，除了Level
-        1的騎士以外的攻擊都不會造成太大的效果及傷害\[148\]<ref>
+        因體內有蓋姆迪烏斯病毒的關係，任何損傷都可快速修復，由於此型態類似於結合態，除了Level 1的騎士以外的攻擊都不會造成太大的效果及傷害\[148\]<ref>
 
 但無敵玩家的攻擊是否奏效並能造成傷害目前不明</ref>。
 
@@ -3842,8 +3735,7 @@ Action X</p></td>
 
       -
         另外擁有可召喚出所有崩源體首領及展開相當於一個市鎮大小的遊戲領域的能力。而在該遊戲領域內會隨著時間導致遊戲病的感染率及發作率快速上升\[149\]。
-        戰鬥時能夠以伸縮自在的雙臂「Deus Fafnir」發射炸裂光線及胴體所延伸的巨大之劍「Deus
-        Calibur」切斷任何物體，甚至能以巨大身體發揮最大威力壓制敵人。
+        戰鬥時能夠以伸縮自在的雙臂「Deus Fafnir」發射炸裂光線及胴體所延伸的巨大之劍「Deus Calibur」切斷任何物體，甚至能以巨大身體發揮最大威力壓制敵人。
         由於檀正宗可以自由操控此型態，所以可以從人類、蓋姆迪烏斯克洛諾斯和超蓋姆迪烏斯這三者之間自由變化。
 
 ## 播放列表
@@ -4602,25 +4494,17 @@ Action X</p></td>
 
 ### 劇場版
 
-  - 《[劇場版 假面騎士Ghost
-    100個眼魂與Ghost命運的瞬間](https://zh.wikipedia.org/wiki/劇場版_假面騎士Ghost_100個眼魂與Ghost命運的瞬間 "wikilink")》（2016年8月6日上映）
-  - 《[假面騎士平成Generations Dr.Pac-Man對EX-AID\&Ghost with
-    傳說騎士](../Page/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士.md "wikilink")》（2016年12月10日上映）
-  - 《[假面騎士×超級戰隊 超
-    超級英雄大戰](../Page/假面騎士×超級戰隊_超_超級英雄大戰.md "wikilink")》（2017年3月25日上映）
-  - 《[劇場版 假面騎士EX-AID
-    True·Ending](../Page/劇場版_假面騎士EX-AID_True·Ending.md "wikilink")》（2017年8月5日上映）
-  - 《[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》（2017年12月9日上映）
+  - 《[劇場版 假面騎士Ghost 100個眼魂與Ghost命運的瞬間](https://zh.wikipedia.org/wiki/劇場版_假面騎士Ghost_100個眼魂與Ghost命運的瞬間 "wikilink")》（2016年8月6日上映）
+  - 《[假面騎士平成Generations Dr.Pac-Man對EX-AID\&Ghost with 傳說騎士](../Page/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士.md "wikilink")》（2016年12月10日上映）
+  - 《[假面騎士×超級戰隊 超 超級英雄大戰](../Page/假面騎士×超級戰隊_超_超級英雄大戰.md "wikilink")》（2017年3月25日上映）
+  - 《[劇場版 假面騎士EX-AID True·Ending](../Page/劇場版_假面騎士EX-AID_True·Ending.md "wikilink")》（2017年8月5日上映）
+  - 《[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》（2017年12月9日上映）
 
 ### 外傳
 
-  - **《[EX-AID Trilogy Another・Ending 假面騎士Brave ＆
-    Snipe](https://zh.wikipedia.org/wiki/EX-AID_Trilogy_Another·Ending#假面騎士Brave_＆_Snipe "wikilink")》**
-  - **《[EX-AID Trilogy Another・Ending 假面騎士Para-DX with
-    Poppy](https://zh.wikipedia.org/wiki/EX-AID_Trilogy_Another·Ending#假面騎士Para-DX_with_Poppy "wikilink")》**
-  - **《[EX-AID Trilogy Another・Ending 假面騎士Genm VS
-    Lazer](https://zh.wikipedia.org/wiki/EX-AID_Trilogy_Another·Ending#假面騎士Genm_VS_Lazer "wikilink")》**
+  - **《[EX-AID Trilogy Another・Ending 假面騎士Brave ＆ Snipe](https://zh.wikipedia.org/wiki/EX-AID_Trilogy_Another·Ending#假面騎士Brave_＆_Snipe "wikilink")》**
+  - **《[EX-AID Trilogy Another・Ending 假面騎士Para-DX with Poppy](https://zh.wikipedia.org/wiki/EX-AID_Trilogy_Another·Ending#假面騎士Para-DX_with_Poppy "wikilink")》**
+  - **《[EX-AID Trilogy Another・Ending 假面騎士Genm VS Lazer](https://zh.wikipedia.org/wiki/EX-AID_Trilogy_Another·Ending#假面騎士Genm_VS_Lazer "wikilink")》**
 
 ### 電視劇集
 
@@ -4750,8 +4634,7 @@ Action X</p></td>
     （原題：）
     2017年1月開始於Youtube頻道配信的特別篇故事作品。共兩部分。
     該故事時間點接在《[平成Generations](../Page/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士.md "wikilink")》後，本篇第11話前。
-    另外Part
-    3（最終傳說舞台）限定收錄於玩具商品附帶[DVD內](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+    另外Part 3（最終傳說舞台）限定收錄於玩具商品附帶[DVD內](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 <!-- end list -->
 
@@ -4808,8 +4691,7 @@ Action X</p></td>
   -
     （原題：）
     描述在《EX-AID Trilogy Another・Ending》後的故事
-    故事發生於Another Ending的三年後（2023年） 一天，永夢收到不明來歷的包裹，裏面的是名為「Mighty Novel
-    X」的卡帶 永夢將卡帶啟動，卻令他感染了新型的Bugster病毒....
+    故事發生於Another Ending的三年後（2023年） 一天，永夢收到不明來歷的包裹，裏面的是名為「Mighty Novel X」的卡帶 永夢將卡帶啟動，卻令他感染了新型的Bugster病毒....
     與本篇同樣地由編劇高橋悠也撰寫，於2018年6月27日發售\[160\]。
     另外在此小說中將揭露某個人物的過去與未來\[161\]，並隨書附贈「Mighty Novel X」卡匣鑰匙圈。
 
@@ -4901,10 +4783,9 @@ Action X</p></td>
   - 分鏡 - なかの★陽
   - 特攝導演 -
   - 動作指導 - （[JAE](https://zh.wikipedia.org/wiki/JAE "wikilink")）
-  - 製作單位 -
-    [東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")
+  - 製作單位 - [東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")
 
-## [超級英雄時間相關條目](../Page/超級英雄時間.md "wikilink")
+## [超級英雄時間](../Page/超級英雄時間.md "wikilink")相關條目
 
   - 《[動物戰隊獸王者](../Page/動物戰隊獸王者.md "wikilink")》
   - 《[宇宙戰隊九連者](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")》
@@ -4922,22 +4803,13 @@ Action X</p></td>
   -
 ## 參考資料
 
-[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink")
-[Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink")
-[Category:東森電視外購電視劇](https://zh.wikipedia.org/wiki/Category:東森電視外購電視劇 "wikilink")
-[Category:電子遊戲題材作品](https://zh.wikipedia.org/wiki/Category:電子遊戲題材作品 "wikilink")
-[Category:賽博朋克作品](https://zh.wikipedia.org/wiki/Category:賽博朋克作品 "wikilink")
-[Category:2016年背景作品](https://zh.wikipedia.org/wiki/Category:2016年背景作品 "wikilink")
-[Category:賽博朋克電視劇](https://zh.wikipedia.org/wiki/Category:賽博朋克電視劇 "wikilink")
-[Category:死亡遊戲題材作品](https://zh.wikipedia.org/wiki/Category:死亡遊戲題材作品 "wikilink")
+[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink") [Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink") [Category:東森電視外購電視劇](https://zh.wikipedia.org/wiki/Category:東森電視外購電視劇 "wikilink") [Category:電子遊戲題材作品](https://zh.wikipedia.org/wiki/Category:電子遊戲題材作品 "wikilink") [Category:賽博朋克作品](https://zh.wikipedia.org/wiki/Category:賽博朋克作品 "wikilink") [Category:2016年背景作品](https://zh.wikipedia.org/wiki/Category:2016年背景作品 "wikilink") [Category:賽博朋克電視劇](https://zh.wikipedia.org/wiki/Category:賽博朋克電視劇 "wikilink") [Category:死亡遊戲題材作品](https://zh.wikipedia.org/wiki/Category:死亡遊戲題材作品 "wikilink")
 
 1.  <http://www.animatetimes.com/news/details.php?id=1472529502>
 
 2.  [仮面ライダー新作「エグゼイド」主人公は初の医師　“ジュノンボーイ”飯島寛騎を起用](http://mainichi.jp/articles/20160830/dyo/00m/200/001000c)
 
-
-3.  [『仮面ライダーエグゼイド』にジュノンボーイの飯島寛騎さんら出演決定！
-    今度の主人公はシリーズ初の“医師”！](http://www.animatetimes.com/news/details.php?id=1472529502)
+3.  [『仮面ライダーエグゼイド』にジュノンボーイの飯島寛騎さんら出演決定！ 今度の主人公はシリーズ初の“医師”！](http://www.animatetimes.com/news/details.php?id=1472529502)
 
 4.  亦是繼《[假面騎士KABUTO](https://zh.wikipedia.org/wiki/假面騎士KABUTO "wikilink")》後再次基本形態分爲兩級，不過本作能直接從人類變成兩級
 
@@ -4945,8 +4817,7 @@ Action X</p></td>
 
 6.  『東映ヒーローMAX』VOLUME 54（2016 AUTUMN）
 
-7.  例如因為電玩元素的關係，在假面騎士戰鬥期間會模擬成一個遊戲場景並實體化，另外亦會出現遊戲中的字眼（如打中敵人Hit及打敗敵人之後Game
-    Clear等等）。
+7.  例如因為電玩元素的關係，在假面騎士戰鬥期間會模擬成一個遊戲場景並實體化，另外亦會出現遊戲中的字眼（如打中敵人Hit及打敗敵人之後Game Clear等等）。
 
 8.  在他所唱的組曲中最後一首。
 
@@ -4962,14 +4833,9 @@ Action X</p></td>
 
 14. 不算《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》因為被認為是無限輪迴的世界因此不同故事被認為彼此為平行世界
 
-15. Kabuto的女主角日下部日和是由擬態為天道父母的原蟲所生的小女孩，本身是擬態原蟲，於本作第31話知道真正身份，並於第43話已接受了同為原蟲的擬態天道總司
-    / 假面騎士Dark Kabuto，直到次回被真正的天道總司說服，離開了Dark Kabuto而回到了天道的身邊，至於本作的仮野明日那
-    / Poppypipopapo已於第12話率先向主角表明自己是怪人缺陷者，於第24話被天崎戀 /
-    拉夫利卡缺陷者洗腦，加入反派缺陷者行列，並於次回變身假面騎士Poppy襲擊永夢，直至第28話因永夢使用重組化能力而恢復了自我意識和其後永夢以自身的性命阻止並且說出大家一起玩樂的話語下展開笑容，也使得「DoReMiFa
-    節拍」過關和令明日那正式回歸。
+15. Kabuto的女主角日下部日和是由擬態為天道父母的原蟲所生的小女孩，本身是擬態原蟲，於本作第31話知道真正身份，並於第43話已接受了同為原蟲的擬態天道總司 / 假面騎士Dark Kabuto，直到次回被真正的天道總司說服，離開了Dark Kabuto而回到了天道的身邊，至於本作的仮野明日那 / Poppypipopapo已於第12話率先向主角表明自己是怪人缺陷者，於第24話被天崎戀 / 拉夫利卡缺陷者洗腦，加入反派缺陷者行列，並於次回變身假面騎士Poppy襲擊永夢，直至第28話因永夢使用重組化能力而恢復了自我意識和其後永夢以自身的性命阻止並且說出大家一起玩樂的話語下展開笑容，也使得「DoReMiFa 節拍」過關和令明日那正式回歸。
 
-16. 分别为《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》的假面骑士Mage，《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的黑影衛兵，《[假面骑士Drive](https://zh.wikipedia.org/wiki/假面骑士Drive "wikilink")》的量產型假面骑士Mach，《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》的假面骑士Necrom
-    P/R/B/Y和本作《[假面骑士EX-AID](https://zh.wikipedia.org/wiki/假面骑士EX-AID "wikilink")》的骑士玩家。
+16. 分别为《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》的假面骑士Mage，《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的黑影衛兵，《[假面骑士Drive](https://zh.wikipedia.org/wiki/假面骑士Drive "wikilink")》的量產型假面骑士Mach，《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》的假面骑士Necrom P/R/B/Y和本作《[假面骑士EX-AID](https://zh.wikipedia.org/wiki/假面骑士EX-AID "wikilink")》的骑士玩家。
 
 17. 《[假面騎士Stronger](../Page/假面騎士Stronger.md "wikilink")》中的電波女並非騎士，《[假面騎士顎門](https://zh.wikipedia.org/wiki/假面騎士顎門 "wikilink")》中的澤木雪菜,《[假面骑士龍騎](https://zh.wikipedia.org/wiki/假面骑士龍騎 "wikilink")》中的霧島美惠，《[假面骑士響鬼](https://zh.wikipedia.org/wiki/假面骑士響鬼 "wikilink")》中的天美晶和《[假面骑士鎧武](https://zh.wikipedia.org/wiki/假面骑士鎧武 "wikilink")》的凑耀子等人皆為女配角，《[假面騎士KIVA](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")》中麻生惠所變身的IXA官方變身者為名護啟介，《[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")》光夏海和《[假面骑士Wizard](https://zh.wikipedia.org/wiki/假面骑士Wizard "wikilink")》中的笛木歷兩位女主角則是在劇場版而非正篇內變身。
 
@@ -5003,8 +4869,7 @@ Action X</p></td>
 
 32. Poppypipopapo和復活後的九條貴利矢(外傳)。
 
-33. 由於Buggle Driver 與Buggle Driver
-    II是專門設計給缺陷者使用的(沒有人類基因的缺陷者不能使用玩家驅動器)，即使沒有人類基因也可以藉由此進行變身
+33. 由於Buggle Driver 與Buggle Driver II是專門設計給缺陷者使用的(沒有人類基因的缺陷者不能使用玩家驅動器)，即使沒有人類基因也可以藉由此進行變身
 
 34. 同樣地體內潛藏缺陷者病毒的人也會因此激發體內的病毒成為遊戲病患者。
 
@@ -5014,8 +4879,7 @@ Action X</p></td>
 
 37. 等同於手術台
 
-38. 如「Mighty Action X」的磚塊、「Taddle Quest」的寶箱、「Bang Bang
-    Shooting」的罐子和「Bakusou Bike」的獎盃等
+38. 如「Mighty Action X」的磚塊、「Taddle Quest」的寶箱、「Bang Bang Shooting」的罐子和「Bakusou Bike」的獎盃等
 
 39. 另外假面騎士Para-DX的解謎玩家型態因擁有自在操控遊戲領域內所有物體的特殊能力，所以不需要擊破或打開領域內藏寶物體就可取得能量道具。
 
@@ -5052,8 +4916,7 @@ Action X</p></td>
 
 56. 太陽房間放置「檀正宗」、「檀黎斗」、「天崎戀」幻夢集團三代社長的畫像，而解答就是三人如同父傳子般接掌幻夢集團，又因與太陽有關，而「SON」和「SUN」的英文諧音為3。
 
-57. 月亮房間放置「Maximum Gamer Level 99」、「Perfect Knock Out Gamer Level
-    99」、「CR的標誌」三枚畫像，而解答就是CR與救急相關，而救急的諧音與99相似。
+57. 月亮房間放置「Maximum Gamer Level 99」、「Perfect Knock Out Gamer Level 99」、「CR的標誌」三枚畫像，而解答就是CR與救急相關，而救急的諧音與99相似。
 
 58. 最後總合太陽與月亮房間的答案，星星房間的答案就是39，也就是「Thank You」的諧音，也是檀黎斗感謝兩位天才玩家幫他脫獄的意思。
 
@@ -5070,8 +4933,7 @@ Action X</p></td>
 
 65. 但是对Gamedeus Cronus使用时被其用Deus Rampart挡下而无效
 
-66. 《[假面騎士大亂鬥
-    GANBARIDE](https://zh.wikipedia.org/wiki/假面騎士大亂鬥_GANBARIDE "wikilink")》中使用
+66. 《[假面騎士大亂鬥 GANBARIDE](https://zh.wikipedia.org/wiki/假面騎士大亂鬥_GANBARIDE "wikilink")》中使用
 
 67. 同時魔法力場内能使敵人的攻擊無效化。
 
@@ -5097,8 +4959,7 @@ Action X</p></td>
 79. 增值出來的分身具有自我意識可對敵方攻擊，本體也可因狀況將分身吸收回去。
 
 80.
-81. 但這兩者的能力只在個別Level X 喪屍玩家(腐蝕，增值分身以及召喚不死的崩源體病毒)跟Level
-    0動作玩家(歸零)有明顯的展現出來而此型態從變身後就未將這兩者能力發揮出來，但綜合能力有明顯提升
+81. 但這兩者的能力只在個別Level X 喪屍玩家(腐蝕，增值分身以及召喚不死的崩源體病毒)跟Level 0動作玩家(歸零)有明顯的展現出來而此型態從變身後就未將這兩者能力發揮出來，但綜合能力有明顯提升
 
 82. 不過Gashacon Bugviser沒有武器專屬的必殺技，而Gashacon Bugviser II有
 
@@ -5128,8 +4989,7 @@ Action X</p></td>
 
 96. TV版中，花家大我利用玩家驅動器和兩枚複製版卡帶進行變身，雖說變身後的能力不如正常型態但還是擁有一定的威力，但花家大我自身無法掌握Cronus完全力量。在外傳中，花家大我讓自己本身注入各種崩源體病毒並壓制住病毒爆發而可以變身，但畢竟不是完全抗體，所以變身時間會有所限制。
 
-97. 雖然並無根據，但此騎士的力量取決於身體內擁有的各種崩源體病毒的加總，若病毒越弱則能力會大幅下降甚至能力消失，如最終話由於帕拉德使用醫生全力XX抑制了正宗體內的病毒而讓永夢可以過一段時間在(pause)活動以及永夢眾人以Level
-    2型態擊敗他為例。
+97. 雖然並無根據，但此騎士的力量取決於身體內擁有的各種崩源體病毒的加總，若病毒越弱則能力會大幅下降甚至能力消失，如最終話由於帕拉德使用醫生全力XX抑制了正宗體內的病毒而讓永夢可以過一段時間在(pause)活動以及永夢眾人以Level 2型態擊敗他為例。
 
 98. （已知能暫停(pause)和重置(Reset)，重置最多可以倒回去至剛變身時的所有狀態(包括所有人事物等等，但被重置的人記憶不會消失)，能否加速目前不明）
 
@@ -5137,8 +4997,7 @@ Action X</p></td>
 
 100. （但操控道具能力方面仍遜於解謎玩家，簡單來說與解謎玩家同樣操控道具的話會被搶下優先權甚至強制被奪走控制道具權）
 
-101. 本篇第35話花家大我攻擊檀正宗為例子，攻擊時會有一個時鐘型的防護盾或用手撥開一切攻擊此能力也會隨這時間上升
-     且攻擊時也隨者攻擊次數的增加力量數值也會上升10%。
+101. 本篇第35話花家大我攻擊檀正宗為例子，攻擊時會有一個時鐘型的防護盾或用手撥開一切攻擊此能力也會隨這時間上升 且攻擊時也隨者攻擊次數的增加力量數值也會上升10%。
 
 102. 但嚴格來說它並不是假面騎士而是崩源體
 
@@ -5164,8 +5023,7 @@ Action X</p></td>
 
 115. 但因為等級跨越幅度太大的關係，一般來說會使變身者的身體無法容易承受
 
-116. 此卡帶為Gashat Gear Dual的試作型，本來只是用來插入崩源體體內，藉此收集製作Gashat Gear
-     Dual的數據的，據檀黎斗的說法此卡帶因為內部注入了大量崩源體病毒，因此人類一使用就會因為感染遊戲病而死亡，所以檀黎斗對於永夢能成功使用此卡帶變身感到十分驚訝。
+116. 此卡帶為Gashat Gear Dual的試作型，本來只是用來插入崩源體體內，藉此收集製作Gashat Gear Dual的數據的，據檀黎斗的說法此卡帶因為內部注入了大量崩源體病毒，因此人類一使用就會因為感染遊戲病而死亡，所以檀黎斗對於永夢能成功使用此卡帶變身感到十分驚訝。
 
 117. 另外施展必殺技時（等級0）可召喚Bike Gamer
 
@@ -5256,14 +5114,10 @@ Action X</p></td>
 
 161. 後根據官方所貼出書籍簡介預告雖得知為本作的主角永夢，但實際上寫的是永夢及檀黎斗的過往與未來，相互映襯出封面的兩位主角。
 
-162. 第1、12、15 - 24話皆沒播放該片頭曲，反而是在第1、15、18 -
-     24話作為片尾曲使用及第4、12、16、17話時以器樂曲及插入曲使用。
+162. 第1、12、15 - 24話皆沒播放該片頭曲，反而是在第1、15、18 - 24話作為片尾曲使用及第4、12、16、17話時以器樂曲及插入曲使用。
 
 163. 繼假面騎士Ghost後，再次地假面騎士沒有參與主題曲MV演出。
 
 164. 主題曲CD於2017年1月18日發售，並首次假面騎士的主題單曲在初發售就獲得Oricon公信榜的日榜和周榜第一名。
 
-165. 2017年1月22日於代代木第一體育館所舉辦的『DAICHI MIURA LIVE TOUR 2016
-     (RE)PLAY』公演中中宣布此曲，假面騎士EX-AID
-     也同時登台，後於2017年2月3日同台的『MUSIC
-     STATION』中宣傳此曲，劇中的假面騎士EX-AID 動作玩家 Level 2及三名崩源體病毒亦也出演。
+165. 2017年1月22日於代代木第一體育館所舉辦的『DAICHI MIURA LIVE TOUR 2016 (RE)PLAY』公演中中宣布此曲，假面騎士EX-AID 也同時登台，後於2017年2月3日同台的『MUSIC STATION』中宣傳此曲，劇中的假面騎士EX-AID 動作玩家 Level 2及三名崩源體病毒亦也出演。

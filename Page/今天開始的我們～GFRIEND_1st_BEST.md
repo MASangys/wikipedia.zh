@@ -1,7 +1,4 @@
-**《今日から私たちは～GFRIEND 1st
-BEST》**是韓國女子團體[GFRIEND作為日本出道的精選專輯](../Page/GFRIEND.md "wikilink")。由[Source
-Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，[King
-Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")，於2018年5月23日於各國發行推出。
+**《今日から私たちは～GFRIEND 1st BEST》**是韓國女子團體[GFRIEND](../Page/GFRIEND.md "wikilink")作為日本出道的精選專輯。由[Source Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，[King Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")，於2018年5月23日於各國發行推出。
 
 ## 概要
 
@@ -23,7 +20,7 @@ Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")，於2018�
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 最高銷售量 | 總銷量   | 停留時間 | 參考資料 |-| | 專輯日榜 | 7 |  | 14,151+ |  | [23/5](https://www.oricon.co.jp/rank/ja/d/2018-05-23/) |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 最高銷售量 | 總銷量   | 停留時間 | 參考資料 |-| | 專輯日榜 | 7 |  | 14,151+ |  | [23/5](https://www.oricon.co.jp/rank/ja/d/2018-05-23/) |
 | ---------------------------------------- | ---- | ----- | ----- | ---- | -------- | :--- | - |  | ------- |  | ------------------------------------------------------ |
 | 專輯週榜                                     | 10   |       | \[1\] |      |          |      |   |  |         |  |                                                        |
 | 專輯月榜                                     | 25   |       | \[2\] |      |          |      |   |  |         |  |                                                        |
@@ -39,11 +36,7 @@ Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")，於2018�
 
 ### 引用來源
 
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:GFRIEND音樂專輯](https://zh.wikipedia.org/wiki/Category:GFRIEND音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
-[Category:King_Records音樂專輯](https://zh.wikipedia.org/wiki/Category:King_Records音樂專輯 "wikilink")
+[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:GFRIEND音樂專輯](https://zh.wikipedia.org/wiki/Category:GFRIEND音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink") [Category:King_Records音樂專輯](https://zh.wikipedia.org/wiki/Category:King_Records音樂專輯 "wikilink")
 
 1.
 2.

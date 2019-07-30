@@ -720,7 +720,7 @@ EMU-0210725</p></td>
 </tr>
 <tr class="even">
 <td><p>2011年10月12日</p></td>
-<td><p><strong><a href="../Page/淘兒唱片.md" title="wikilink">淘兒唱片新宿店</a> 13th Birthday 〜NO MUSIC,NO IDOL?〜</strong>[6]</p></td>
+<td><p><strong><a href="../Page/淘兒唱片.md" title="wikilink">淘兒唱片</a>新宿店 13th Birthday 〜NO MUSIC,NO IDOL?〜</strong>[6]</p></td>
 <td><p><br />
 （東京都<a href="../Page/新宿區.md" title="wikilink">新宿區</a>）</p></td>
 <td></td>
@@ -1312,7 +1312,7 @@ BABYMETAL×<a href="https://zh.wikipedia.org/wiki/閃靈樂團" title="wikilink"
 （東京都千代田區）</p></td>
 <td><p>※首次武道館專場公演<br />
 ※平均14.7歲的年齡更新了女性藝人出演武道館的最年少紀錄<br />
-※赤い夜 成員<a href="../Page/水野由結.md" title="wikilink">水野由結跌落舞台</a>、<a href="../Page/菊地最愛.md" title="wikilink">菊地最愛走道上跌倒</a>，仍續繼表演完預定節目<br />
+※赤い夜 成員<a href="../Page/水野由結.md" title="wikilink">水野由結</a>跌落舞台、<a href="../Page/菊地最愛.md" title="wikilink">菊地最愛</a>走道上跌倒，仍續繼表演完預定節目<br />
 {{hidden|演出曲目| 赤い夜：</p>
 <ol>
 <li>"女狐"</li>
@@ -2226,7 +2226,7 @@ kicks off at THE SSE ARENA WEMBLEY</p></td>
 <td><p><strong>NORTHERN INVASION</strong><br />
 <small>（BABYMETAL WORLD TOUR 2016 / US TOUR）</small></p></td>
 <td><p><br />
-（ 美國・<a href="../Page/威斯康辛州.md" title="wikilink">威斯康辛州薩默塞特</a>）</p></td>
+（ 美國・<a href="../Page/威斯康辛州.md" title="wikilink">威斯康辛州</a>薩默塞特）</p></td>
 <td><p>{{hidden|演出曲目|</p>
 <ol>
 <li>"Babymetal Death"</li>
@@ -2855,38 +2855,27 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
 
   - （[日本電視台](../Page/日本電視台.md "wikilink")，2013年1月5日）
 
-  - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")
-    （[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")，2013年1月6日）
+  - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink") （[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")，2013年1月6日）
 
-  - HOT WAVE
-    （[埼玉電視台](../Page/埼玉電視台.md "wikilink")，2013年2月13日、2013年6月19日）
+  - HOT WAVE （[埼玉電視台](../Page/埼玉電視台.md "wikilink")，2013年2月13日、2013年6月19日）
 
   - （日本電視台，2013年6月22日）
 
-  - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink") ANNEX
-    （NHK綜合頻道，2013年7月16日）
+  - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink") ANNEX （NHK綜合頻道，2013年7月16日）
 
-  - [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")
-    （[三立電視台](https://zh.wikipedia.org/wiki/三立電視台 "wikilink")，2013年11月29日、12月6日）
+  - [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink") （[三立電視台](https://zh.wikipedia.org/wiki/三立電視台 "wikilink")，2013年11月29日、12月6日）
 
-  - [MUSIC STATION](../Page/MUSIC_STATION.md "wikilink")
-    （[朝日電視台](../Page/朝日電視台.md "wikilink")，2014年2月7日、2016年4月22日）
+  - [MUSIC STATION](../Page/MUSIC_STATION.md "wikilink") （[朝日電視台](../Page/朝日電視台.md "wikilink")，2014年2月7日、2016年4月22日）
 
   - BABYMETAL現象 〜世界が熱狂する理由〜（NHK綜合頻道，2014年12月22日） - 特別節目\[28\]
 
-  - [MUSIC STATION SUPER
-    LIVE](../Page/MUSIC_STATION_SUPER_LIVE.md "wikilink")
-    （[朝日電視台](../Page/朝日電視台.md "wikilink")，2014年12月26日、2015年12月25日）
+  - [MUSIC STATION SUPER LIVE](../Page/MUSIC_STATION_SUPER_LIVE.md "wikilink") （[朝日電視台](../Page/朝日電視台.md "wikilink")，2014年12月26日、2015年12月25日）
 
-  - BABYMETAL革命 〜少女たちは世界と戦う〜（NHK綜合頻道[MUSIC
-    JAPAN](../Page/MUSIC_JAPAN.md "wikilink")，2016年4月4日、5月6日） -
-    特別節目\[29\]
+  - BABYMETAL革命 〜少女たちは世界と戦う〜（NHK綜合頻道[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")，2016年4月4日、5月6日） - 特別節目\[29\]
 
-  - [斯蒂芬•科爾伯特晚間秀](../Page/斯蒂芬·科尔伯特晚间秀.md "wikilink")
-    （[哥倫比亞廣播公司](https://zh.wikipedia.org/wiki/哥倫比亞廣播公司 "wikilink")，2016年4月5日）
+  - [斯蒂芬•科爾伯特晚間秀](../Page/斯蒂芬·科尔伯特晚间秀.md "wikilink") （[哥倫比亞廣播公司](https://zh.wikipedia.org/wiki/哥倫比亞廣播公司 "wikilink")，2016年4月5日）
 
-  - MTV INSIDE：BABYMETAL -METAL RESISTANCE-（[MTV
-    Japan](../Page/MTV_Japan.md "wikilink")，2016年4月30日） - 特別節目\[30\]
+  - MTV INSIDE：BABYMETAL -METAL RESISTANCE-（[MTV Japan](../Page/MTV_Japan.md "wikilink")，2016年4月30日） - 特別節目\[30\]
 
 ### 電台
 
@@ -2910,11 +2899,9 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
 
 ### 雜誌封面
 
-  - 《MARQUEE》（） Vol.92 - Vol.101 （連載企劃；Marquee
-    Inc，2012年8月10日－2014年2月10日）
+  - 《MARQUEE》（） Vol.92 - Vol.101 （連載企劃；Marquee Inc，2012年8月10日－2014年2月10日）
 
-  - 《VA》 1月號－6月號
-    （連載企劃；[TSUTAYA](https://zh.wikipedia.org/wiki/TSUTAYA "wikilink")，2012年12月20日－2013年5月20日）
+  - 《VA》 1月號－6月號 （連載企劃；[TSUTAYA](https://zh.wikipedia.org/wiki/TSUTAYA "wikilink")，2012年12月20日－2013年5月20日）
 
   - 《MARQUEE》 Vol.101（2014年2月10日、）\[31\]
 
@@ -2928,8 +2915,7 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
 
   - Vol.10（2016年3月28日、）\[36\]
 
-  - [《NYLON JAPAN》](https://zh.wikipedia.org/wiki/NYLON#日本版 "wikilink")
-    2016年5月號限定版（2016年3月28日〈網路限定販售〉、株式会社NYLON JAPAN）\[37\]
+  - [《NYLON JAPAN》](https://zh.wikipedia.org/wiki/NYLON#日本版 "wikilink") 2016年5月號限定版（2016年3月28日〈網路限定販售〉、株式会社NYLON JAPAN）\[37\]
 
   - 212號（2016年3月28日、Freeway Press）\[38\]
 
@@ -2953,28 +2939,20 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
 
 ### 電視廣告
 
-  - 日語字幕版（[IMAX戲院及YouTube預告片](../Page/IMAX.md "wikilink")：[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，2013年11月15日－2013年11月21日）
+  - 日語字幕版（[IMAX](../Page/IMAX.md "wikilink")戲院及YouTube預告片：[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，2013年11月15日－2013年11月21日）
 
-  - [Android](../Page/Android.md "wikilink")：みんなの and（2014年10月31日 -
-    12月31日、[Google](../Page/Google.md "wikilink") Japan）\[47\]
+  - [Android](../Page/Android.md "wikilink")：みんなの and（2014年10月31日 - 12月31日、[Google](../Page/Google.md "wikilink") Japan）\[47\]
 
-  - [Chromecast](../Page/Chromecast.md "wikilink")：夢中になろう。YouTube
-    を、テレビへ。(
-    [Musumen.篇](https://zh.wikipedia.org/wiki/Musumen. "wikilink")）（2015年7月、Google
-    Japan） - 網路限定CM\[48\]。
+  - [Chromecast](../Page/Chromecast.md "wikilink")：夢中になろう。YouTube を、テレビへ。( [Musumen.篇](https://zh.wikipedia.org/wiki/Musumen. "wikilink")）（2015年7月、Google Japan） - 網路限定CM\[48\]。
 
-  - [Google Play
-    Music](https://zh.wikipedia.org/wiki/Google_Play_Music "wikilink")：BABYMETAL篇（2015年11月20日
-    - 12月、Google Japan）\[49\]
+  - [Google Play Music](https://zh.wikipedia.org/wiki/Google_Play_Music "wikilink")：BABYMETAL篇（2015年11月20日 - 12月、Google Japan）\[49\]
 
 ## 參考資料
 
 ## 外部連結
 
   -
-[Category:BABYMETAL](https://zh.wikipedia.org/wiki/Category:BABYMETAL "wikilink")
-[Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink")
-[Category:重金屬樂團作品列表](https://zh.wikipedia.org/wiki/Category:重金屬樂團作品列表 "wikilink")
+[Category:BABYMETAL](https://zh.wikipedia.org/wiki/Category:BABYMETAL "wikilink") [Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink") [Category:重金屬樂團作品列表](https://zh.wikipedia.org/wiki/Category:重金屬樂團作品列表 "wikilink")
 
 1.
 2.

@@ -1,17 +1,14 @@
-《**Fall in Lovelyz**》
-是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Lovelyz的第三張迷你專輯](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，於2017年11月14日发布。该专辑共收入7首歌曲，主打歌曲為〈Twinkle〉。
+《**Fall in Lovelyz**》 是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Lovelyz的第三張迷你專輯](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，於2017年11月14日发布。该专辑共收入7首歌曲，主打歌曲為〈Twinkle〉。
 
 ## 背景及回歸日程
 
-2017年10月25日，經紀公司[Woollim娛樂向媒體透露](../Page/Woollim娛樂.md "wikilink")：「Lovelyz即將在11月中旬回歸，最近M/V已完成拍攝\[1\]
-。」同日，官方公布回归序幕视频（窺視版），並公布將在11月14日回歸。
+2017年10月25日，經紀公司[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")向媒體透露：「Lovelyz即將在11月中旬回歸，最近M/V已完成拍攝\[1\] 。」同日，官方公布回归序幕视频（窺視版），並公布將在11月14日回歸。
 
-10月30日，释出[智秀和](../Page/徐智秀.md "wikilink")[Kei的個人概念照和个人概念视频](../Page/Kei.md "wikilink")。
+10月30日，释出[智秀和](../Page/徐智秀.md "wikilink")[Kei](../Page/Kei.md "wikilink")的個人概念照和个人概念视频。
 
 10月31日，释出[美珠和](../Page/李美珠.md "wikilink")[洙正的個人概念照和个人概念视频](../Page/柳洙正.md "wikilink")。
 
-11月1日，释出[Baby
-Soul和](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")[智爱的個人概念照和个人概念视频](../Page/劉智愛.md "wikilink")。
+11月1日，释出[Baby Soul和](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")[智爱的個人概念照和个人概念视频](../Page/劉智愛.md "wikilink")。
 
 11月2日，释出[JIN和](../Page/Jin_\(Lovelyz\).md "wikilink")[叡仁的個人概念照和个人概念视频](../Page/鄭叡仁.md "wikilink")。同日，释出八位成员的独家概念照，宣布回归Showcase事项，释出专辑预览图及开放预购。
 
@@ -286,9 +283,7 @@ Soul和](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")[智爱的個人概�
 
 ## 參考資料
 
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:Lovelyz音乐专辑](https://zh.wikipedia.org/wiki/Category:Lovelyz音乐专辑 "wikilink")
-[Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink")
+[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:Lovelyz音乐专辑](https://zh.wikipedia.org/wiki/Category:Lovelyz音乐专辑 "wikilink") [Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink")
 
 1.
 2.

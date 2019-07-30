@@ -1,4 +1,4 @@
-《**機動戰士高達AGGRESSOR**》（）是繪畫的[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，[小學館出版](../Page/小學館.md "wikilink")，2014年10月開始在《》連載\[1\]。
+《**機動戰士高達AGGRESSOR**》（）是繪畫的[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，[小學館](../Page/小學館.md "wikilink")出版，2014年10月開始在《》連載\[1\]。
 
 ## 故事簡介
 
@@ -81,7 +81,6 @@
 
   - [機動戰士高達AGGRESSOR](https://www.shogakukan.co.jp/books/09125756)
 
-[分類:GUNDAM系列漫畫](https://zh.wikipedia.org/wiki/分類:GUNDAM系列漫畫 "wikilink")
-[分類:宇宙世紀](https://zh.wikipedia.org/wiki/分類:宇宙世紀 "wikilink")
+[分類:GUNDAM系列漫畫](https://zh.wikipedia.org/wiki/分類:GUNDAM系列漫畫 "wikilink") [分類:宇宙世紀](https://zh.wikipedia.org/wiki/分類:宇宙世紀 "wikilink")
 
 1.

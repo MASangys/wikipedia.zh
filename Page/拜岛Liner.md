@@ -25,14 +25,12 @@
   - [S-TRAIN](https://zh.wikipedia.org/wiki/S-TRAIN "wikilink")
 
   -
-  - \-
-    運行区間有竞争的[JR東日本座席指定制列車](https://zh.wikipedia.org/wiki/東日本旅客鉄道 "wikilink")
+  - \- 運行区間有竞争的[JR東日本座席指定制列車](https://zh.wikipedia.org/wiki/東日本旅客鉄道 "wikilink")
 
 ## 外部链接
 
   -
-[Category:西武铁道](https://zh.wikipedia.org/wiki/Category:西武铁道 "wikilink")
-[Category:列車类別](https://zh.wikipedia.org/wiki/Category:列車类別 "wikilink")
+[Category:西武铁道](https://zh.wikipedia.org/wiki/Category:西武铁道 "wikilink") [Category:列車类別](https://zh.wikipedia.org/wiki/Category:列車类別 "wikilink")
 
 1.
 

@@ -1,9 +1,6 @@
-下表比较了[XHTML
-1.1对一些](../Page/XHTML.md "wikilink")[排版引擎的支持与兼容性](../Page/排版引擎.md "wikilink")。
+下表比较了[XHTML 1.1对一些](../Page/XHTML.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")的支持与兼容性。
 
-XHTML 1.1主要是对[XHTML
-1.0的模块化](../Page/XHTML.md "wikilink")，其由20个元素模块（其中7个是子模块）组成，
-包括额外的[旁注模块与两个属性模块](https://zh.wikipedia.org/wiki/旁註標記 "wikilink")（服务器端图像映射模块和内部事件模块）。
+XHTML 1.1主要是对[XHTML 1.0的模块化](../Page/XHTML.md "wikilink")，其由20个元素模块（其中7个是子模块）组成， 包括额外的[旁注模块与两个属性模块](https://zh.wikipedia.org/wiki/旁註標記 "wikilink")（服务器端图像映射模块和内部事件模块）。
 
 ## 元素
 
@@ -1432,8 +1429,7 @@ XHTML 1.1主要是对[XHTML
 
 ## 参考来源
 
-[Category:HTML](https://zh.wikipedia.org/wiki/Category:HTML "wikilink")
-[Category:排版引擎比较](https://zh.wikipedia.org/wiki/Category:排版引擎比较 "wikilink")
+[Category:HTML](https://zh.wikipedia.org/wiki/Category:HTML "wikilink") [Category:排版引擎比较](https://zh.wikipedia.org/wiki/Category:排版引擎比较 "wikilink")
 
 1.
 2.

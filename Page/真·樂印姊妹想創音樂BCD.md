@@ -40,6 +40,4 @@
 | <small>2016</small> |      <small>新世界</small>       |         12          |
 | <small>謝謝你</small>  |              20               |          1          |
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:SiS樂印姊妹音樂專輯](https://zh.wikipedia.org/wiki/Category:SiS樂印姊妹音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:SiS樂印姊妹音樂專輯](https://zh.wikipedia.org/wiki/Category:SiS樂印姊妹音樂專輯 "wikilink")

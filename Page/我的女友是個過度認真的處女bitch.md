@@ -1,5 +1,4 @@
-是由創作的[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，於2015年7月20日開始在[KADOKAWA的](../Page/KADOKAWA.md "wikilink")[網路漫畫網站](https://zh.wikipedia.org/wiki/網路漫畫 "wikilink")「Comic
-Newtype」連載。[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2017年10月11日起[AT-X首播](../Page/AT-X.md "wikilink")，日文標題更名為「****」。
+是由創作的[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，於2015年7月20日開始在[KADOKAWA](../Page/KADOKAWA.md "wikilink")的[網路漫畫網站](https://zh.wikipedia.org/wiki/網路漫畫 "wikilink")「Comic Newtype」連載。[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2017年10月11日起[AT-X](../Page/AT-X.md "wikilink")首播，日文標題更名為「****」。
 
 ## 故事簡介
 
@@ -559,7 +558,7 @@ Han Se Hwan</p></td>
 
 ### 網路電台
 
-《**悠木碧的過度認真地處女bitch網路電台**》（）是一檔網路電台節目，於2017年10月17日至2018年1月16日止每周星期二在[音泉電台播放](../Page/音泉.md "wikilink")\[12\]。節目由香坂秋穂的聲優[悠木碧負責主持](../Page/悠木碧.md "wikilink")。
+《**悠木碧的過度認真地處女bitch網路電台**》（）是一檔網路電台節目，於2017年10月17日至2018年1月16日止每周星期二在[音泉](../Page/音泉.md "wikilink")電台播放\[12\]。節目由香坂秋穂的聲優[悠木碧](../Page/悠木碧.md "wikilink")負責主持。
 
 ## 參考資料
 
@@ -573,17 +572,12 @@ Han Se Hwan</p></td>
 
 ## 外部連結
 
-  - [《我的女友是個過度認真的處女bitch》於《Comic
-    Newtype》的連載頁面](https://comic.webnewtype.com/contents/shojobitch/)
+  - [《我的女友是個過度認真的處女bitch》於《Comic Newtype》的連載頁面](https://comic.webnewtype.com/contents/shojobitch/)
 
   - [電視動畫《我的女友是個過度認真的處bitch》官方網站](http://majimesugiru-anime.jp/)
 
   -
-[Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink")
-[Category:日本網絡漫畫](https://zh.wikipedia.org/wiki/Category:日本網絡漫畫 "wikilink")
-[Category:戀愛動畫](https://zh.wikipedia.org/wiki/Category:戀愛動畫 "wikilink")
-[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:日本網絡漫畫](https://zh.wikipedia.org/wiki/Category:日本網絡漫畫 "wikilink") [Category:戀愛動畫](https://zh.wikipedia.org/wiki/Category:戀愛動畫 "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 2.

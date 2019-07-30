@@ -1,18 +1,10 @@
-**「Last
-Dance」巡迴演唱會**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG在](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")2017年年末於日本四大巨蛋及首爾舉辦的巡迴演唱會，首場演唱會將在2017年11月18日的[福岡巨蛋演出並拉開巡演帷幕](../Page/福岡巨蛋.md "wikilink")，最終場次以2017年12月31日的韓國首爾[高尺天空巨蛋場次畫下句點](../Page/高尺天空巨蛋.md "wikilink")。這次的巡演將有14場通過日本四座城市舉行，預計將會有646,000名觀眾出席日本的巡演，而最終的2場則在韓國首爾舉辦，總計在5座城市共舉行16場的演出。至此，BIGBANG再次打破了自身紀錄，他們成為第一個連續5年在日本巨蛋舉辦巡迴演唱會的外國歌手，而這次的巡演[T.O.P因現階段正在韓國](../Page/T.O.P..md "wikilink")的關係，將不會出演。\[1\]
+**「Last Dance」巡迴演唱會**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG在](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")2017年年末於日本四大巨蛋及首爾舉辦的巡迴演唱會，首場演唱會將在2017年11月18日的[福岡巨蛋](../Page/福岡巨蛋.md "wikilink")演出並拉開巡演帷幕，最終場次以2017年12月31日的韓國首爾[高尺天空巨蛋](../Page/高尺天空巨蛋.md "wikilink")場次畫下句點。這次的巡演將有14場通過日本四座城市舉行，預計將會有646,000名觀眾出席日本的巡演，而最終的2場則在韓國首爾舉辦，總計在5座城市共舉行16場的演出。至此，BIGBANG再次打破了自身紀錄，他們成為第一個連續5年在日本巨蛋舉辦巡迴演唱會的外國歌手，而這次的巡演[T.O.P因現階段正在韓國](../Page/T.O.P..md "wikilink")的關係，將不會出演。\[1\]
 
 ## 背景
 
-[BIGBANG_2017_Concert_Last_Dance_in_Seoul.png](https://zh.wikipedia.org/wiki/File:BIGBANG_2017_Concert_Last_Dance_in_Seoul.png "fig:BIGBANG_2017_Concert_Last_Dance_in_Seoul.png")
-2017年8月8日，所屬日本唱片公司[YGEX通過官方網站宣佈](https://zh.wikipedia.org/wiki/YGEX "wikilink")[BIGBANG的四名成員將於年底舉辦日本巨蛋巡演](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")「BIGBANG
-Japan Dome Tour 2017 -Last
-Dance-」，除卻T.O.P外，其餘四名成員[太陽](../Page/太陽_\(歌手\).md "wikilink")、[G-Dragon](https://zh.wikipedia.org/wiki/權志龍 "wikilink")、[大聲及](../Page/姜大聲.md "wikilink")[勝利都將參與](../Page/勝利_\(歌手\).md "wikilink")，以11月18日、19日的福岡巨蛋為起點，先後經過大阪京瓷巨蛋、[名古屋巨蛋](../Page/名古屋巨蛋.md "wikilink")、[東京巨蛋](../Page/東京巨蛋.md "wikilink")，最後收官於大阪京瓷巨蛋，總計14場演出，將動員646,000名歌迷進場觀賞，而自2012年11月23日在日本首次舉辦演唱會開始，至2016年12月29日舉行的出道十週年「[0.TO.10](https://zh.wikipedia.org/wiki/0.TO.10 "wikilink")」的紀念巡演最終演唱會，期間有超過350萬名觀眾都曾進場觀看過BIGBANG的日本演唱會\[2\]\[3\]，通過這次的巡演，為BIGBANG歷年在日本舉辦的巨蛋巡演共動員的觀眾人次提升至4,205,500人次。\[4\]
+[BIGBANG_2017_Concert_Last_Dance_in_Seoul.png](https://zh.wikipedia.org/wiki/File:BIGBANG_2017_Concert_Last_Dance_in_Seoul.png "fig:BIGBANG_2017_Concert_Last_Dance_in_Seoul.png") 2017年8月8日，所屬日本唱片公司[YGEX通過官方網站宣佈](https://zh.wikipedia.org/wiki/YGEX "wikilink")[BIGBANG的四名成員將於年底舉辦日本巨蛋巡演](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")「BIGBANG Japan Dome Tour 2017 -Last Dance-」，除卻T.O.P外，其餘四名成員[太陽](../Page/太陽_\(歌手\).md "wikilink")、[G-Dragon](https://zh.wikipedia.org/wiki/權志龍 "wikilink")、[大聲及](../Page/姜大聲.md "wikilink")[勝利都將參與](../Page/勝利_\(歌手\).md "wikilink")，以11月18日、19日的福岡巨蛋為起點，先後經過大阪京瓷巨蛋、[名古屋巨蛋](../Page/名古屋巨蛋.md "wikilink")、[東京巨蛋](../Page/東京巨蛋.md "wikilink")，最後收官於大阪京瓷巨蛋，總計14場演出，將動員646,000名歌迷進場觀賞，而自2012年11月23日在日本首次舉辦演唱會開始，至2016年12月29日舉行的出道十週年「[0.TO.10](https://zh.wikipedia.org/wiki/0.TO.10 "wikilink")」的紀念巡演最終演唱會，期間有超過350萬名觀眾都曾進場觀看過BIGBANG的日本演唱會\[2\]\[3\]，通過這次的巡演，為BIGBANG歷年在日本舉辦的巨蛋巡演共動員的觀眾人次提升至4,205,500人次。\[4\]
 
-2017年10月19日，YG娛樂無預警在下午通過官方網站宣佈BIGBANG將在[首爾舉辦演唱會的消息](../Page/首爾.md "wikilink")。據官方公開的告示中，BIGBANG以2016年12月發表的歌曲名稱同名的標題「BIGBANG
-2017 Concert『Last Dance』in
-Seoul」會在年底12月30日及31日兩天於首爾[高尺天空巨蛋舉行](../Page/高尺天空巨蛋.md "wikilink")\[5\]。同日YGEX也正式開設網站宣布，BIGBANG確定將於12月13日以「BIGBANG
-Japan Dome Tour 2017 -Last Dance- Live
-Viewing」為主題，於日本國內各大電影院全程同步直播12月13日的東京巨蛋演唱會。而在日本官方網站釋出的公告中也提到，演唱會預定由G-Dragon、太陽、大聲及勝利四名成員出席。然而，該文下方附註的「出席的成員可能會在沒有告知的情況下變更，請大家理解」一段話卻引起了日本歌迷騷動。\[6\]
+2017年10月19日，YG娛樂無預警在下午通過官方網站宣佈BIGBANG將在[首爾](../Page/首爾.md "wikilink")舉辦演唱會的消息。據官方公開的告示中，BIGBANG以2016年12月發表的歌曲名稱同名的標題「BIGBANG 2017 Concert『Last Dance』in Seoul」會在年底12月30日及31日兩天於首爾[高尺天空巨蛋](../Page/高尺天空巨蛋.md "wikilink")舉行\[5\]。同日YGEX也正式開設網站宣布，BIGBANG確定將於12月13日以「BIGBANG Japan Dome Tour 2017 -Last Dance- Live Viewing」為主題，於日本國內各大電影院全程同步直播12月13日的東京巨蛋演唱會。而在日本官方網站釋出的公告中也提到，演唱會預定由G-Dragon、太陽、大聲及勝利四名成員出席。然而，該文下方附註的「出席的成員可能會在沒有告知的情況下變更，請大家理解」一段話卻引起了日本歌迷騷動。\[6\]
 
 最終首爾場次的宣傳海報於2017年10月31日上午公開，據當天官方發佈的告示中，第一輪售票將在11月16日下午8時通過Auction開啟預售，而在終場的演唱會上，G-Dragon、太陽、大聲、勝利也將表演個人舞臺，並利用頂級的影像技術和燈光設備，給觀眾帶來華麗的演出。\[7\]
 
@@ -23,11 +15,9 @@ Viewing」為主題，於日本國內各大電影院全程同步直播12月13日
 1.  Hands Up
 
 2.
-3.  [We Like 2
-    Party](../Page/We_Like_2_Party_\(BIGBANG歌曲\).md "wikilink")
+3.  [We Like 2 Party](../Page/We_Like_2_Party_\(BIGBANG歌曲\).md "wikilink")
 
-4.  [Fxxk
-    It](https://zh.wikipedia.org/wiki/Fxxk_It_\(BIGBANG歌曲\) "wikilink")
+4.  [Fxxk It](https://zh.wikipedia.org/wiki/Fxxk_It_\(BIGBANG歌曲\) "wikilink")
 
 5.
 6.
@@ -66,8 +56,7 @@ Viewing」為主題，於日本國內各大電影院全程同步直播12月13日
 23. Feeling
 
 24.
-25. [Last
-    Dance](https://zh.wikipedia.org/wiki/Last_Dance_\(BIGBANG歌曲\) "wikilink")
+25. [Last Dance](https://zh.wikipedia.org/wiki/Last_Dance_\(BIGBANG歌曲\) "wikilink")
 
 ## 巡演時間表
 
@@ -251,12 +240,8 @@ Viewing」為主題，於日本國內各大電影院全程同步直播12月13日
 
 ### 舞者
 
-  - HI-TECH：Heeyun Kim, Jung Heon Park, Young Sang Lee Sung Min Cho, Han
-    Sol Lee, Byoung Gon Jung, Woo Ryun Jung, Young Deuk Kwon, Young Don
-    Kwon
-  - CRAZY：Jung Hee Kim, Ah Yeon Won, Eun Young Park, Min Jung Kim, Hee
-    Yun Kim, Sae Bom Choi, Jung In Bae, Hye Jin Choi, Hyo Jung Bae, Ji
-    Won Lee, Jae Hee Ryu, Ji Young Yoo
+  - HI-TECH：Heeyun Kim, Jung Heon Park, Young Sang Lee Sung Min Cho, Han Sol Lee, Byoung Gon Jung, Woo Ryun Jung, Young Deuk Kwon, Young Don Kwon
+  - CRAZY：Jung Hee Kim, Ah Yeon Won, Eun Young Park, Min Jung Kim, Hee Yun Kim, Sae Bom Choi, Jung In Bae, Hye Jin Choi, Hyo Jung Bae, Ji Won Lee, Jae Hee Ryu, Ji Young Yoo
 
 ## 參考文獻
 
@@ -266,9 +251,7 @@ Viewing」為主題，於日本國內各大電影院全程同步直播12月13日
 
   -
 
-[Category:BIGBANG巡迴演唱會](https://zh.wikipedia.org/wiki/Category:BIGBANG巡迴演唱會 "wikilink")
-[Category:各艺人巡回演唱会](https://zh.wikipedia.org/wiki/Category:各艺人巡回演唱会 "wikilink")
-[Category:2017年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2017年巡迴演唱會 "wikilink")
+[Category:BIGBANG巡迴演唱會](https://zh.wikipedia.org/wiki/Category:BIGBANG巡迴演唱會 "wikilink") [Category:各艺人巡回演唱会](https://zh.wikipedia.org/wiki/Category:各艺人巡回演唱会 "wikilink") [Category:2017年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2017年巡迴演唱會 "wikilink")
 
 1.
 

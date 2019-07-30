@@ -135,8 +135,7 @@ local volumeTable = {
 `       ["Rosaceae"] = "9",`
 `       ["Staphyleaceae"] = "9",`
 
-\-- The following names in volumes 19-21 are tribes of the family
-Asteraceae.
+\-- The following names in volumes 19-21 are tribes of the family Asteraceae.
 
 `       ["Cichorieae"] = "19",`
 `       ["Arctotideae"] = "19",`
@@ -688,9 +687,7 @@ Asteraceae.
 `       ["Scrophulariaceae"] = "6",`
 `   },`
 
-}; volumeTable\["1"\] = volumeTable\["Flora of North America"\]
-volumeTable\["2"\] = volumeTable\["Flora of China"\] volumeTable\["60"\]
-= volumeTable\["Flora of Chile"\]
+}; volumeTable\["1"\] = volumeTable\["Flora of North America"\] volumeTable\["2"\] = volumeTable\["Flora of China"\] volumeTable\["60"\] = volumeTable\["Flora of Chile"\]
 
 local resources = {
 
@@ -725,9 +722,7 @@ function p.resource(frame)
 `   else`
 `       local flora = resources[floraID]`
 `       if flora == nil then`
-`           return "<span style=\"color: red;\">The resource number (flora_id) "
-.. floraID ..
-" is not recognized. See the list of supported resource numbers at `[`Module:eFloras/doc`](https://zh.wikipedia.org/wiki/Module:eFloras/doc "wikilink")</span>`"`
+`           return "<span style=\"color: red;\">The resource number (flora_id) " .. floraID .. " is not recognized. See the list of supported resource numbers at `[`Module:eFloras/doc`](https://zh.wikipedia.org/wiki/Module:eFloras/doc "wikilink")</span>`"`
 `       else`
 `           return flora`
 `       end`
@@ -796,5 +791,4 @@ p.get_volume = p.volume
 
 return p
 
-[Category:Pages_using_eFloras_template_with_unsupported_parameter_values](https://zh.wikipedia.org/wiki/Category:Pages_using_eFloras_template_with_unsupported_parameter_values "wikilink")
-[Category:Pages_using_eFloras_template_with_unsupported_parameter_values](https://zh.wikipedia.org/wiki/Category:Pages_using_eFloras_template_with_unsupported_parameter_values "wikilink")
+[Category:Pages_using_eFloras_template_with_unsupported_parameter_values](https://zh.wikipedia.org/wiki/Category:Pages_using_eFloras_template_with_unsupported_parameter_values "wikilink") [Category:Pages_using_eFloras_template_with_unsupported_parameter_values](https://zh.wikipedia.org/wiki/Category:Pages_using_eFloras_template_with_unsupported_parameter_values "wikilink")

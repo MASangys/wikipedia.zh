@@ -4,22 +4,16 @@
 
 ### 出道前
 
-  - 小時候曾因姐姐**平井波奈**的緣故萌生了跳舞的興趣。由於在影片分享網站[YouTube上傳自己跳舞的影片](../Page/YouTube.md "wikilink")，正巧讓[JYP娛樂的相關人士看到](../Page/JYP娛樂.md "wikilink")，於是進入JYP進行試鏡。\[1\]
+  - 小時候曾因姐姐**平井波奈**的緣故萌生了跳舞的興趣。由於在影片分享網站[YouTube](../Page/YouTube.md "wikilink")上傳自己跳舞的影片，正巧讓[JYP娛樂](../Page/JYP娛樂.md "wikilink")的相關人士看到，於是進入JYP進行試鏡。\[1\]
   - 2011年，與朋友以舞團身份參加第三季Superstar K Japan。
   - 2012年4月13日，與同是[關西人的](../Page/近畿地方.md "wikilink")[Sana跟JYP簽約成為練習生](https://zh.wikipedia.org/wiki/湊崎紗夏 "wikilink")。
-  - 2015年參與Mnet生存實境節目《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》，為第八位公開預告的成員\[2\]，稱號是「全體認證
-    Dancing
-    Queen」。雖然Momo在第四個任務中遭到淘汰，但由於舞蹈實力能補足其他七位成員，在最後一集和周子瑜成為追加成員之一。\[3\]\[4\]
+  - 2015年參與Mnet生存實境節目《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》，為第八位公開預告的成員\[2\]，稱號是「全體認證 Dancing Queen」。雖然Momo在第四個任務中遭到淘汰，但由於舞蹈實力能補足其他七位成員，在最後一集和[周子瑜](../Page/周子瑜.md "wikilink")成為追加成員之一。\[3\]\[4\]
 
 ### TWICE活動
 
-  - 2015年10月20日推出首張迷你專輯《[THE STORY
-    BEGINS](https://zh.wikipedia.org/wiki/THE_STORY_BEGINS_\(TWICE迷你專輯\) "wikilink")》，並舉辦出道Showcase「OOH-AHH,
-    TWICE」正式出道，同日發表主打歌〈Like OOH-AHH〉的MV\[5\]。
+  - 2015年10月20日推出首張迷你專輯《[THE STORY BEGINS](https://zh.wikipedia.org/wiki/THE_STORY_BEGINS_\(TWICE迷你專輯\) "wikilink")》，並舉辦出道Showcase「OOH-AHH, TWICE」正式出道，同日發表主打歌〈Like OOH-AHH〉的MV\[5\]。
   - 在第11屆《[MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》參加[女子摔角比賽](../Page/摔角.md "wikilink")，Momo最終以2-1不敵[EXID而獲得銀牌](https://zh.wikipedia.org/wiki/EXID "wikilink")。
-  - 2017年1月27日參加《小學生老師》，與其他海外藝人（[滑川康男](../Page/滑川康男.md "wikilink")、[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Henry](../Page/劉憲華.md "wikilink")、[The8](../Page/Seventeen_\(組合\).md "wikilink")、[Ten](../Page/NCT.md "wikilink")）進修小學六年級（10歲）程度韓語。Momo
-    試考的程度是6歲（小學二年級）。Sana 在1月31日的直播中澄清，因為Momo
-    從首爾到[釜山長途跋涉後就進行錄影](../Page/釜山廣域市.md "wikilink")，因為睡眠不足，以致表現欠佳。
+  - 2017年1月27日參加《小學生老師》，與其他海外藝人（[滑川康男](../Page/滑川康男.md "wikilink")、[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Henry](../Page/劉憲華.md "wikilink")、[The8](../Page/Seventeen_\(組合\).md "wikilink")、[Ten](../Page/NCT.md "wikilink")）進修小學六年級（10歲）程度韓語。Momo 試考的程度是6歲（小學二年級）。Sana 在1月31日的直播中澄清，因為Momo 從首爾到[釜山長途跋涉後就進行錄影](../Page/釜山廣域市.md "wikilink")，因為睡眠不足，以致表現欠佳。
   - 2017年1月30日播出的第13屆《MBC偶像明星運動會》，與彩瑛、娜璉和定延參加4x100接力，但依然排最後一名。
   - 2017年9月19日，與[孫彩瑛開設](https://zh.wikipedia.org/wiki/孫彩瑛 "wikilink")"Mo彩TV"。\[6\]
 
@@ -173,13 +167,7 @@
 
 ## 外部連結
 
-[Category:1996年出生](https://zh.wikipedia.org/wiki/Category:1996年出生 "wikilink")
-[Category:TWICE成員](https://zh.wikipedia.org/wiki/Category:TWICE成員 "wikilink")
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:京都府出身人物](https://zh.wikipedia.org/wiki/Category:京都府出身人物 "wikilink")
-[Category:在韓國的日本人](https://zh.wikipedia.org/wiki/Category:在韓國的日本人 "wikilink")
+[Category:1996年出生](https://zh.wikipedia.org/wiki/Category:1996年出生 "wikilink") [Category:TWICE成員](https://zh.wikipedia.org/wiki/Category:TWICE成員 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:京都府出身人物](https://zh.wikipedia.org/wiki/Category:京都府出身人物 "wikilink") [Category:在韓國的日本人](https://zh.wikipedia.org/wiki/Category:在韓國的日本人 "wikilink")
 
 1.  THE STAR 2015年11月號提及
 2.

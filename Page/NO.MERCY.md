@@ -1,6 +1,4 @@
-《**NO.MERCY**》（），
-韩国[STARSHIP娱乐的新偶像团真人选秀节目](../Page/STARSHIP娛樂.md "wikilink")。最终团体作为[MONSTA
-X出道](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")\[1\]。
+《**NO.MERCY**》（）， 韩国[STARSHIP娱乐的新偶像团真人选秀节目](../Page/STARSHIP娛樂.md "wikilink")。最终团体作为[MONSTA X出道](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")\[1\]。
 
 ## 导师
 
@@ -135,8 +133,7 @@ Rap导师：NUCK、[MAD CLOWN](../Page/Mad_Clown.md "wikilink")
   - 挑战获胜者，进入获胜候补区，其中Rapper跟Vocal一名获胜。
 
       - 奖励：获胜者可以参与合唱曲<发行音源>：
-          - Rapper：[San
-            E](../Page/San_E.md "wikilink")、[孝琳](../Page/孝琳.md "wikilink")
+          - Rapper：[San E](../Page/San_E.md "wikilink")、[孝琳](../Page/孝琳.md "wikilink")
           - Vocal：[Giriboy](https://zh.wikipedia.org/wiki/Giriboy "wikilink")、[昭宥](https://zh.wikipedia.org/wiki/昭宥 "wikilink")
 
 | 第三集：第2次任务\<1对1\>第一轮 |
@@ -161,8 +158,7 @@ Rap导师：NUCK、[MAD CLOWN](../Page/Mad_Clown.md "wikilink")
 
   - 挑战获胜者，进入获胜候补区，其中一名可以参与合唱曲<发行音源>：
 
-      - Rapper：[San
-        E](../Page/San_E.md "wikilink")、[孝琳](../Page/孝琳.md "wikilink")
+      - Rapper：[San E](../Page/San_E.md "wikilink")、[孝琳](../Page/孝琳.md "wikilink")
 
 | 第2次任务：Rapper获胜候补区<发行音源> |
 | ----------------------- |

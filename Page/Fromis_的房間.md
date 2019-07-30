@@ -1,11 +1,8 @@
-《**fromis_的房間**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet的綜藝節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")，由女團[fromis_9全體成員主持與出演](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")\[1\]\[2\]，節目主軸為[fromis_日常生活與合宿為主題的團綜](https://zh.wikipedia.org/wiki/fromis_ "wikilink")\[3\]\[4\]，每週抽出一天，把團隊的舉動24小時記錄，也會在每天上、下午8時進行Facebook
-Live直播, 像VLive一樣，有個人或團體放送的可能，而所有練習也會在Facebook
-Live直播，練習內表現最佳的三人可各自準備當日下午8時的FB直播題目。
+《**fromis_的房間**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet的綜藝節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")，由女團[fromis_9全體成員主持與出演](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")\[1\]\[2\]，節目主軸為[fromis_日常生活與合宿為主題的團綜](https://zh.wikipedia.org/wiki/fromis_ "wikilink")\[3\]\[4\]，每週抽出一天，把團隊的舉動24小時記錄，也會在每天上、下午8時進行Facebook Live直播, 像VLive一樣，有個人或團體放送的可能，而所有練習也會在Facebook Live直播，練習內表現最佳的三人可各自準備當日下午8時的FB直播題目。
 
 ## 課程
 
-  - 因為離出道不久，所以進行密集式全能訓練：除了歌唱、舞蹈和體能課，每週也有體檢、[Rap](../Page/饒舌.md "wikilink")、詞曲創作、樂理、外語（英語、中文、日語）、樂器（吉他、鋼琴）等課程\[5\]，師資多是[Pledis娛樂和](../Page/Pledis娛樂.md "wikilink")[CJ
-    E\&M教師群](../Page/CJ集团.md "wikilink")。
+  - 因為離出道不久，所以進行密集式全能訓練：除了歌唱、舞蹈和體能課，每週也有體檢、[Rap](../Page/饒舌.md "wikilink")、詞曲創作、樂理、外語（英語、中文、日語）、樂器（吉他、鋼琴）等課程\[5\]，師資多是[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")和[CJ E\&M教師群](../Page/CJ集团.md "wikilink")。
 
 ## 各集內容
 
@@ -40,10 +37,10 @@ Live直播，練習內表現最佳的三人可各自準備當日下午8時的FB�
 <td><p>1.體能課[11] 2.盧長今、宋副廚下廚[12]，餘下團員鬼故時間，午餐</p>
 <p>3.嚴苛的歌唱課程1[13]</p>
 <p>4.回想到<a href="https://zh.wikipedia.org/wiki/弘大_(首爾)" title="wikilink">弘大電玩晚</a>，射擊賽[14]、在年糕店吃宵夜、在漢江許願。</p>
-<p>5.回想到10月26日，盧知宣、宋河英在CJ E&amp;M與<a href="../Page/GOT7.md" title="wikilink">GOT7拍攝拍攝</a><a href="https://zh.wikipedia.org/wiki/M_Countdown" title="wikilink">M Countdown宣傳片</a> <a href="../Page/2017年Mnet亞洲音樂大獎.md" title="wikilink">2017 MAMA獎項候選人</a>、餘下團員的舞蹈課</p>
+<p>5.回想到10月26日，盧知宣、宋河英在CJ E&amp;M與<a href="../Page/GOT7.md" title="wikilink">GOT7</a>拍攝拍攝<a href="https://zh.wikipedia.org/wiki/M_Countdown" title="wikilink">M Countdown宣傳片</a> <a href="../Page/2017年Mnet亞洲音樂大獎.md" title="wikilink">2017 MAMA獎項候選人</a>、餘下團員的舞蹈課</p>
 <p>6.嚴苛的歌唱課程2 [15]</p>
 <p>7.全員舞蹈和編舞課 [16]</p>
-<p>8.在<a href="../Page/汝矣島.md" title="wikilink">汝矣島某大樓外集資籌款販賣</a>：手工香燭和<a href="../Page/芳香療法.md" title="wikilink">無火香薰</a><a href="../Page/精油.md" title="wikilink">精油</a>， 手工甜餅和棉花糖 [17]</p>
+<p>8.在<a href="../Page/汝矣島.md" title="wikilink">汝矣島</a>某大樓外集資籌款販賣：手工香燭和<a href="../Page/芳香療法.md" title="wikilink">無火香薰</a><a href="../Page/精油.md" title="wikilink">精油</a>， 手工甜餅和棉花糖 [17]</p>
 <p>9.就寢</p></td>
 </tr>
 <tr class="even">
@@ -92,9 +89,7 @@ Live直播，練習內表現最佳的三人可各自準備當日下午8時的FB�
 ## 外部連結
 
   -
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
 1.
 2.
@@ -119,16 +114,11 @@ Live直播，練習內表現最佳的三人可各自準備當日下午8時的FB�
     B:李娜炅、張奎悧、白知憲、李賽倫
 14. 夜晚9時後進行。白知憲因未滿15歲（實歲）而缺席，進行[宵禁](../Page/宵禁.md "wikilink")。部分賽果：張奎悧的爸爸雖然是[上校](../Page/上校.md "wikilink"),但她的成績很差,得零分，她反而在夾獎品機拿下禮品。宋河英得3080分，幾乎滿分冠軍，朴池原得亞軍
 15. A班老師透露失眠和聲帶狀態在出道後肯定會比出道差，因為在音樂節目錄制是一整天，甚至在深夜需完成後補或預錄拍攝。B班（白知憲缺席）老師聽取團員的難題，如李娜炅想唱出歌曲特色，李賽倫要把速度加快，因為她講話很慢，不習慣字比較密麻的歌詞。
-16. （FB
-    Live）“動”隊:宋河英、朴池原、李娜炅、白知憲（比賽當天因為生病而缺席，確診為[高血鉀引發腹絞痛](../Page/钾.md "wikilink")。）、李采映
+16. （FB Live）“動”隊:宋河英、朴池原、李娜炅、白知憲（比賽當天因為生病而缺席，確診為[高血鉀引發腹絞痛](../Page/钾.md "wikilink")。）、李采映
     “靜”隊:盧知宣、李瑞淵、張奎悧、李賽倫。
     兩隊分別為同一首歌曲編舞，按贊數量較多的隊伍可以自選活動，但得自費、自己安排交通、食物等支出。雖然老師比較喜歡靜隊，動隊以922-708票勝出。
-17. 白知憲生病，留在宿舍為兩隊結算，宋河英制造甜餅時燙傷手而中途退場，但“動”隊中沒有人可以制作甜餅。“靜”隊被稱定價過低，而令收入大打折扣。結果105000韓元
-    + 102000韓元 - 50000韓元無利息材料貸款 = 157000韓元+第二次貸款，作為自由活動資金。
-18. 李彩煐已透露自己不喜歡樓梯和上層床，另外，朴池原、李娜炅、張奎悧也有懼高症。 隊伍：『哭唧唧』隊：宋河英、張奎悧、朴池原、李彩煐 vs.
-    『烏合之眾』隊：李賽綸、盧知宣、李瑞淵、李娜炅、白知憲。 每隊派兩人，以一對一形式，最快按下登頂按鈕的成員有獎勵。 賽果：1. 朴池原
-    vs. 李娜炅 （朴池原，1分24.01秒勝） 2. 宋河英 vs. 李瑞淵 (宋河英，45.26秒反勝 李瑞淵,
-    50.70秒）（2－0，總賽局1－0，河英隊領先）
+17. 白知憲生病，留在宿舍為兩隊結算，宋河英制造甜餅時燙傷手而中途退場，但“動”隊中沒有人可以制作甜餅。“靜”隊被稱定價過低，而令收入大打折扣。結果105000韓元 + 102000韓元 - 50000韓元無利息材料貸款 = 157000韓元+第二次貸款，作為自由活動資金。
+18. 李彩煐已透露自己不喜歡樓梯和上層床，另外，朴池原、李娜炅、張奎悧也有懼高症。 隊伍：『哭唧唧』隊：宋河英、張奎悧、朴池原、李彩煐 vs. 『烏合之眾』隊：李賽綸、盧知宣、李瑞淵、李娜炅、白知憲。 每隊派兩人，以一對一形式，最快按下登頂按鈕的成員有獎勵。 賽果：1. 朴池原 vs. 李娜炅 （朴池原，1分24.01秒勝） 2. 宋河英 vs. 李瑞淵 (宋河英，45.26秒反勝 李瑞淵, 50.70秒）（2－0，總賽局1－0，河英隊領先）
 19. 每隊派4人挑戰懸掛在高空的障礙場，共有6個障礙:沒有扶手的木吊橋、過只有鋼線支撐的獨木橋、橫攀4道有洞的膠牆、網橋、跨過10個木桶盒子造成的橋，過圓木橋。
 20. 宋河英、朴池原、張圭悧、 李彩煐 vs.盧知宣、李賽綸、李娜炅、白知憲（李瑞淵休戰）
 21. 85度高牆，要以自我臂力和肌耐力撐在吊桿，它把身體升到4米後，在指令下放手，滑回波波池，撐不了上升的過程，以高度記分，最高40分。李瑞淵自稱臂力不足，而不是懼高而被迫放手，只拿下10分。白知憲休戰。
@@ -138,25 +128,14 @@ Live直播，練習內表現最佳的三人可各自準備當日下午8時的FB�
 25. 河英隊依然決定跟隊同行，李彩煐因為在河英隊，可以錯過上午班而繼續上學，白知憲則須請假而工作。整天工作是每人60000韓元，即工作9個多小時。基本工資是6470韓元/小時）
 26. 三人評審，包括園長、吳製作人、郭作家。
     朴池原 13/15
-    宋河英11/15 李賽綸 13/15 張奎悧5/15 李彩煐 15/15
-    (徒手掰開大蘋果而勝出，但因為對蘋果、櫻桃和桃子過敏，大使資格由朴池原補上。李瑞淵得第三。)
+    宋河英11/15 李賽綸 13/15 張奎悧5/15 李彩煐 15/15 (徒手掰開大蘋果而勝出，但因為對蘋果、櫻桃和桃子過敏，大使資格由朴池原補上。李瑞淵得第三。)
 27. 支出70000韓元，由蘋果園工資盈餘支付。
 28. （FB Live）任務：直播合計獲得3000愛心（4129愛心，成功）。 作業：三人一組跳經典女歌手歌曲
-    [李孝利](../Page/李孝利.md "wikilink")－《U Go
-    Girl》（宋河英、李娜炅、白知憲）、[IU](https://zh.wikipedia.org/wiki/IU "wikilink")－《粉紅鞋》（李賽綸、朴池原、盧知宣）、[寶兒](../Page/寶兒.md "wikilink")－《My
-    Name》（張圭俐、李采映、李瑞淵（缺席））
-29. 仿照[Weekly
-    Idol和](../Page/Weekly_Idol.md "wikilink")[認識的哥哥](../Page/認識的哥哥.md "wikilink")，每位團員會問一些關於自己的問題，讓其他團員猜題。
-30. 《[Show Me The Money 6](../Page/Show_Me_The_Money_6.md "wikilink")》冠軍
-    Hangzoo 授課，Boi B, Rhythm
-    Power客串。Fromis_9隊中多是完全沒有饒舌基礎，但進行即興饒舌基礎評估。李采映在放學途中加入。第一名對戰：宋河英vs.朴池原
-    （饒舌藝名：MC Megan）。朴池原以隔空對[朴軫永嗆話而獲勝](../Page/朴軫永.md "wikilink")，獲得
-    [Show Me The Money 6](../Page/Show_Me_The_Money_6.md "wikilink")
-    金項鏈。
+    [李孝利](../Page/李孝利.md "wikilink")－《U Go Girl》（宋河英、李娜炅、白知憲）、[IU](https://zh.wikipedia.org/wiki/IU "wikilink")－《粉紅鞋》（李賽綸、朴池原、盧知宣）、[寶兒](../Page/寶兒.md "wikilink")－《My Name》（張圭俐、李采映、李瑞淵（缺席））
+29. 仿照[Weekly Idol和](../Page/Weekly_Idol.md "wikilink")[認識的哥哥](../Page/認識的哥哥.md "wikilink")，每位團員會問一些關於自己的問題，讓其他團員猜題。
+30. 《[Show Me The Money 6](../Page/Show_Me_The_Money_6.md "wikilink")》冠軍 Hangzoo 授課，Boi B, Rhythm Power客串。Fromis_9隊中多是完全沒有饒舌基礎，但進行即興饒舌基礎評估。李采映在放學途中加入。第一名對戰：宋河英vs.朴池原 （饒舌藝名：MC Megan）。朴池原以隔空對[朴軫永](../Page/朴軫永.md "wikilink")嗆話而獲勝，獲得 [Show Me The Money 6](../Page/Show_Me_The_Money_6.md "wikilink") 金項鏈。
 31. 張圭俐因唇部潰瘍而缺席。最後任務：5小時內，總應援留言數超過15000。成功（19800）。
-32. 李采映、宋河英、朴池原、李瑞淵選唱 [Alicia Keys](../Page/艾莉西亚·凯斯.md "wikilink") － 《If
-    I Ain't Got You》。雖然有良好表現，但被批與年齡和團隊風格不符合。
-33. 張圭俐因唇部潰瘍而缺席。李賽綸、李采映、朴池原到[梨泰院](../Page/梨泰院洞.md "wikilink")（李賽綸遠離練習間，家和校園的療癒區，因為她轉換過多家經紀公司）、清潭洞，李采映姨母開的韓食店吃晚飯，也到JYP練習生大樓（與已出道藝人的大樓不一樣），但與盧知宣、李娜炅、宋河英在不同時間在清潭高中（朴池原母校，也是宋河英從光州到首爾遊覽的第一家高中）拍照。盧知宣帶李娜炅、宋河英回到Music
-    Works，此前到漢江公園（李娜炅曾是前經紀公司的唯一練習生）。李瑞淵、白知憲回到李瑞淵老家旁練唱的公園，和在[N首爾塔再次放愿望鎖](../Page/N首爾塔.md "wikilink")。
+32. 李采映、宋河英、朴池原、李瑞淵選唱 [Alicia Keys](../Page/艾莉西亚·凯斯.md "wikilink") － 《If I Ain't Got You》。雖然有良好表現，但被批與年齡和團隊風格不符合。
+33. 張圭俐因唇部潰瘍而缺席。李賽綸、李采映、朴池原到[梨泰院](../Page/梨泰院洞.md "wikilink")（李賽綸遠離練習間，家和校園的療癒區，因為她轉換過多家經紀公司）、清潭洞，李采映姨母開的韓食店吃晚飯，也到JYP練習生大樓（與已出道藝人的大樓不一樣），但與盧知宣、李娜炅、宋河英在不同時間在清潭高中（朴池原母校，也是宋河英從光州到首爾遊覽的第一家高中）拍照。盧知宣帶李娜炅、宋河英回到Music Works，此前到漢江公園（李娜炅曾是前經紀公司的唯一練習生）。李瑞淵、白知憲回到李瑞淵老家旁練唱的公園，和在[N首爾塔](../Page/N首爾塔.md "wikilink")再次放愿望鎖。
 34. 張圭俐原本想去的老地方。剛入學時是炎夏，再次回校已是深秋。偶像學校的營養師客串。
 35. 仿照[TWICE優雅的私生活](../Page/TWICE優雅的私生活.md "wikilink")，但每人只會寫一封對餘下8人的信。

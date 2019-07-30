@@ -1,7 +1,4 @@
-**Dean**\[1\]（；），本名**權革**（），在創作歌曲時使用的名字為Deanfluenza，是韓國[歌手兼](../Page/歌手.md "wikilink")[音樂製作人](../Page/音樂製作人.md "wikilink")。16歲成为地下嘻哈艺人，18岁加入美国加州的JOOMBAS音乐公司。2013年开始至今参与了[John
-Park](../Page/John_Park.md "wikilink")、[EXO](../Page/EXO.md "wikilink")、[VIXX](../Page/VIXX.md "wikilink")、[UNIQ](../Page/UNIQ.md "wikilink")、[Block
-B](../Page/Block_B.md "wikilink")、[李夏怡等藝人團體的歌曲创作](https://zh.wikipedia.org/wiki/李夏怡 "wikilink")。2014年为新人组合[MADTOWN主打歌的制作人](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")。2015年七月和九月在美国分別发行單曲"I'm
-Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單曲"I Love it"在韓國出道\[2\]。
+**Dean**\[1\]（；），本名**權革**（），在創作歌曲時使用的名字為Deanfluenza，是韓國[歌手](../Page/歌手.md "wikilink")兼[音樂製作人](../Page/音樂製作人.md "wikilink")。16歲成为地下嘻哈艺人，18岁加入美国加州的JOOMBAS音乐公司。2013年开始至今参与了[John Park](../Page/John_Park.md "wikilink")、[EXO](../Page/EXO.md "wikilink")、[VIXX](../Page/VIXX.md "wikilink")、[UNIQ](../Page/UNIQ.md "wikilink")、[Block B](../Page/Block_B.md "wikilink")、[李夏怡等藝人團體的歌曲创作](https://zh.wikipedia.org/wiki/李夏怡 "wikilink")。2014年为新人组合[MADTOWN主打歌的制作人](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")。2015年七月和九月在美国分別发行單曲"I'm Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單曲"I Love it"在韓國出道\[2\]。
 
 ## 作品
 
@@ -193,7 +190,7 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <tr class="odd">
 <td style="text-align: center;"><p>單曲</p></td>
 <td style="text-align: center;"><p>2015年10月27日</p></td>
-<td style="text-align: center;"><p><a href="../Page/鄭基高.md" title="wikilink">鄭基高單曲</a>《一週(247)》</p></td>
+<td style="text-align: center;"><p><a href="../Page/鄭基高.md" title="wikilink">鄭基高</a>單曲《一週(247)》</p></td>
 <td style="text-align: center;"><p>一週(247)</p></td>
 <td style="text-align: center;"><p><a href="../Page/鄭基高.md" title="wikilink">鄭基高</a> &amp; <a href="../Page/Zion.T.md" title="wikilink">Zion T</a> &amp; <a href="../Page/Crush_(歌手).md" title="wikilink">Crush</a></p></td>
 </tr>
@@ -214,7 +211,7 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <tr class="even">
 <td style="text-align: center;"><p>單曲</p></td>
 <td style="text-align: center;"><p>2016年3月28日</p></td>
-<td style="text-align: center;"><p><a href="../Page/Dok2.md" title="wikilink">Dok2單曲</a>《Bad Vibes Lonely》</p></td>
+<td style="text-align: center;"><p><a href="../Page/Dok2.md" title="wikilink">Dok2</a>單曲《Bad Vibes Lonely》</p></td>
 <td style="text-align: center;"><p>Bad Vibes Lonely</p></td>
 <td style="text-align: center;"><p><a href="../Page/Dok2.md" title="wikilink">Dok2</a></p></td>
 </tr>
@@ -285,14 +282,14 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <tr class="even">
 <td style="text-align: center;"><p>CD</p></td>
 <td style="text-align: center;"><p>2017年5月25日</p></td>
-<td style="text-align: center;"><p><a href="../Page/Loco.md" title="wikilink">Loco首張正規專輯</a>《Bleached》</p></td>
+<td style="text-align: center;"><p><a href="../Page/Loco.md" title="wikilink">Loco</a>首張正規專輯《Bleached》</p></td>
 <td style="text-align: center;"><p>지나쳐 (Too Much)</p></td>
 <td style="text-align: center;"><p><a href="../Page/Loco.md" title="wikilink">Loco</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>CD</p></td>
 <td style="text-align: center;"><p>2017年6月2日</p></td>
-<td style="text-align: center;"><p><a href="../Page/Suran.md" title="wikilink">Suran首張迷你專輯</a>《Walkin'》</p></td>
+<td style="text-align: center;"><p><a href="../Page/Suran.md" title="wikilink">Suran</a>首張迷你專輯《Walkin'》</p></td>
 <td style="text-align: center;"><p>1+1=0</p></td>
 <td style="text-align: center;"><p><a href="../Page/Suran.md" title="wikilink">Suran</a></p></td>
 </tr>
@@ -498,22 +495,12 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 
   - [DEAN 官方Facebook](https://www.facebook.com/deantheofficial/?fref=ts)
   - [DEAN 官方網站](http://officialdean.com/)
-  - [DEAN
-    Youtube](https://www.youtube.com/channel/UCnCEKlzi52Yzj2JdBFhKVEA/featured)
+  - [DEAN Youtube](https://www.youtube.com/channel/UCnCEKlzi52Yzj2JdBFhKVEA/featured)
   - [DEAN Soundcloud](https://soundcloud.com/deantrouble/)
   - [DEAN Instagram](https://www.instagram.com/deantrbl/)
   - [DEAN Twitter](https://twitter.com/deantheofficial)
 
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓國創作歌手](https://zh.wikipedia.org/wiki/Category:韓國創作歌手 "wikilink")
-[Category:韓國作詞家](https://zh.wikipedia.org/wiki/Category:韓國作詞家 "wikilink")
-[Category:韓國作曲家](https://zh.wikipedia.org/wiki/Category:韓國作曲家 "wikilink")
-[Category:韓國音樂製作人](https://zh.wikipedia.org/wiki/Category:韓國音樂製作人 "wikilink")
-[Category:權姓](https://zh.wikipedia.org/wiki/Category:權姓 "wikilink")
+[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓國創作歌手](https://zh.wikipedia.org/wiki/Category:韓國創作歌手 "wikilink") [Category:韓國作詞家](https://zh.wikipedia.org/wiki/Category:韓國作詞家 "wikilink") [Category:韓國作曲家](https://zh.wikipedia.org/wiki/Category:韓國作曲家 "wikilink") [Category:韓國音樂製作人](https://zh.wikipedia.org/wiki/Category:韓國音樂製作人 "wikilink") [Category:權姓](https://zh.wikipedia.org/wiki/Category:權姓 "wikilink")
 
-1.  [DΞΔN|
-    HIPHOPKR獨家採訪](http://hiphopkr.com/interviews/d%CE%BE%CE%B4n-hiphopkr-exclusive-interview-2/)
-2.  [Anticipated singer-songwriter Dean makes Korean
-    debut](http://www.koreatimesus.com/anticipated-singer-songwriter-dean-makes-korean-debut/)
+1.  [DΞΔN| HIPHOPKR獨家採訪](http://hiphopkr.com/interviews/d%CE%BE%CE%B4n-hiphopkr-exclusive-interview-2/)
+2.  [Anticipated singer-songwriter Dean makes Korean debut](http://www.koreatimesus.com/anticipated-singer-songwriter-dean-makes-korean-debut/)

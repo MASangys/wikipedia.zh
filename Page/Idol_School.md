@@ -19,8 +19,7 @@
 
 <!-- end list -->
 
-  - 7月30日，“TaraxaPlanning蒲公英計畫”在其官方微博正式宣佈團名為“Idol
-    School”\[3\]，並發表“出道宣言”\[4\]。
+  - 7月30日，“TaraxaPlanning蒲公英計畫”在其官方微博正式宣佈團名為“Idol School”\[3\]，並發表“出道宣言”\[4\]。
   - 8月8日，第一支MV《Your Chapter》上線公開\[5\]。
   - 8月22日，第一季公演《逆襲》在上海馬蘭花劇場首演。
   - 8月26日，第二支MV《我知道這張臉》上線公開\[6\]。
@@ -38,7 +37,7 @@
   - 1月23日，參加二次元春晚-次元覺醒。
   - 1月24日，在上海佳都劇場舉行第一次見面握手會。
   - 1月25日，第三支MV《挺你》上線公開\[8\]。
-  - 1月28日，受邀出席[太合音乐集团舉辦的](../Page/太合音乐集团.md "wikilink")“音樂太美妙·精彩合其多”2016新年媒體答謝會，並擔任了開演嘉賓。
+  - 1月28日，受邀出席[太合音乐集团](../Page/太合音乐集团.md "wikilink")舉辦的“音樂太美妙·精彩合其多”2016新年媒體答謝會，並擔任了開演嘉賓。
   - 2月3日，第五支MV《Happy Happy New Year Yeah》上線公開\[9\]。
   - 2月14日-21日，一期生赴日本東京，在Avex Artist Academy進行為期7天的聲樂與舞蹈能力強化培訓。
   - 3月22日，宣布舉辦第一屆卡拉OK大賽。
@@ -54,14 +53,11 @@
   - 8月27日，在“Class Bridge和Class River聯合特別公演”上，宣佈班長選拔正式人選為周雪。
   - 4月18日，公布Class River第二季公演《Go\! Class River\!》。
   - 9月24日，Class River第二季公演《Go Class River》首演。
-  - 10月22日，舉行“Idol School百場紀念聯合公演”，並披露了三期生21名。重新分隊，4名三期生加入Class
-    Bridge，3名三期生加入Class River，其餘三期生組成Class Flower。同時宣佈12月31日舉行《First
-    Light 2017》跨年演唱會。
+  - 10月22日，舉行“Idol School百場紀念聯合公演”，並披露了三期生21名。重新分隊，4名三期生加入Class Bridge，3名三期生加入Class River，其餘三期生組成Class Flower。同時宣佈12月31日舉行《First Light 2017》跨年演唱會。
   - 11月13日，Class Bridge成員張曉文宣布畢業。
   - 11月20日，舉行張曉文畢業公演。
   - 11月27日，Class Flower第一季公演《Phoenix》首演。
-  - 12月31日，在上海虹橋演藝中心舉辦名為「Idol School×暴走嘉年華 FIRST LIGHT
-    2017跨年演唱會暨紅鼻子慈善夜」的演唱會，并舉辦首次猜拳大賽。
+  - 12月31日，在上海虹橋演藝中心舉辦名為「Idol School×暴走嘉年華 FIRST LIGHT 2017跨年演唱會暨紅鼻子慈善夜」的演唱會，并舉辦首次猜拳大賽。
 
 <!-- end list -->
 
@@ -101,9 +97,7 @@
 
   - 2月3日，舉行名為「偶像學園IdolSchool戊戌年迎新春年會」的聯合特別公演，該場公演結束后，劇場公演無限期暫停舉辦。
   - 3月11日，四期練習生夏思渝宣佈辭退。
-  - 3月23日，Class
-    Bridge成員周雪代表團體運營公司“绒翼文化”參加騰訊視頻主辦的選秀節目「[創造101](https://zh.wikipedia.org/wiki/創造101 "wikilink")（PRODUCE
-    101 CHINA）」。
+  - 3月23日，Class Bridge成員周雪代表團體運營公司“绒翼文化”參加騰訊視頻主辦的選秀節目「[創造101](https://zh.wikipedia.org/wiki/創造101 "wikilink")（PRODUCE 101 CHINA）」。
   - 3月24日，Class Flower成員王雨可宣佈畢業。
   - 4月21日，Class Bridge成員李佳明宣佈畢業。
   - 4月25日，Class River成員陳沁宣佈畢業。
@@ -832,13 +826,13 @@ Class Flower兼任</p></td>
 
 <!-- end list -->
 
-  - 咖喱俏嬌娃（[好侍食品](../Page/好侍食品.md "wikilink")“味嘟嘟咖喱”广告主題曲）
+  - 咖喱俏嬌娃（[好侍食品](../Page/好侍食品.md "wikilink")“味嘟嘟咖喱”產品推廣曲）
 
 <!-- end list -->
 
   -
     選拔成員：周雪、俞璐、汪燕姿、王雨可、季葉、吳海旖
-    製作：Bitman
+    製作：Bitman（唐曉龍）
 
 <!-- end list -->
 
@@ -848,7 +842,7 @@ Class Flower兼任</p></td>
 
   -
     選拔成員：王瀞萱、俞璐、鄒汭伽
-    製作：Bitman
+    製作：Bitman（唐曉龍）
 
 ### 未發行單曲
 
@@ -866,7 +860,7 @@ Class Flower兼任</p></td>
 <!-- end list -->
 
   -
-    作曲：錢琳
+    作曲、作詞：錢琳 編曲：前山田健一
 
 ## 劇場公演
 
@@ -894,19 +888,13 @@ Class Flower兼任</p></td>
 
 ## 外部連結
 
-  - [IdolSchool
-    官方网站](https://web.archive.org/web/20150820010345/http://idolschool.cn/)
+  - [IdolSchool 官方网站](https://web.archive.org/web/20150820010345/http://idolschool.cn/)
 
-  - [IdolSchool
-    日文官方网站](https://web.archive.org/web/20171109081221/http://idol-school.net/)
+  - [IdolSchool 日文官方网站](https://web.archive.org/web/20171109081221/http://idol-school.net/)
 
   -
   -
-[Category:中国女子演唱团体](https://zh.wikipedia.org/wiki/Category:中国女子演唱团体 "wikilink")
-[Category:华语流行音乐团体](https://zh.wikipedia.org/wiki/Category:华语流行音乐团体 "wikilink")
-[Category:以上海为据点的女子演唱团体](https://zh.wikipedia.org/wiki/Category:以上海为据点的女子演唱团体 "wikilink")
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
-[Category:上海文化](https://zh.wikipedia.org/wiki/Category:上海文化 "wikilink")
+[Category:中国女子演唱团体](https://zh.wikipedia.org/wiki/Category:中国女子演唱团体 "wikilink") [Category:华语流行音乐团体](https://zh.wikipedia.org/wiki/Category:华语流行音乐团体 "wikilink") [Category:以上海为据点的女子演唱团体](https://zh.wikipedia.org/wiki/Category:以上海为据点的女子演唱团体 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink") [Category:上海文化](https://zh.wikipedia.org/wiki/Category:上海文化 "wikilink")
 
 1.
 2.

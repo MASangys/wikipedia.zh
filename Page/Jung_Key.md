@@ -1,5 +1,4 @@
-**Jung
-Key**\[1\]（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[作詞人及](https://zh.wikipedia.org/wiki/作詞人 "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")。\[2\]
+**Jung Key**\[1\]（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[作詞人及](https://zh.wikipedia.org/wiki/作詞人 "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")。\[2\]
 
 ## 音樂作品
 
@@ -141,8 +140,7 @@ Key**\[1\]（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[
 
 ## 節目
 
-  - 2016年6月24日 KBS
-    [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")
+  - 2016年6月24日 KBS [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")
 
 ## 獎項
 
@@ -230,11 +228,7 @@ Key**\[1\]（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[
 
   -
   -
-[Category:韓國作曲家](https://zh.wikipedia.org/wiki/Category:韓國作曲家 "wikilink")
-[Category:韓國作詞家](https://zh.wikipedia.org/wiki/Category:韓國作詞家 "wikilink")
-[Category:韓國音樂製作人](https://zh.wikipedia.org/wiki/Category:韓國音樂製作人 "wikilink")
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:首爾藝術大學校友](https://zh.wikipedia.org/wiki/Category:首爾藝術大學校友 "wikilink")
+[Category:韓國作曲家](https://zh.wikipedia.org/wiki/Category:韓國作曲家 "wikilink") [Category:韓國作詞家](https://zh.wikipedia.org/wiki/Category:韓國作詞家 "wikilink") [Category:韓國音樂製作人](https://zh.wikipedia.org/wiki/Category:韓國音樂製作人 "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:首爾藝術大學校友](https://zh.wikipedia.org/wiki/Category:首爾藝術大學校友 "wikilink")
 
 1.
 2.

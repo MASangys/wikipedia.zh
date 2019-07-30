@@ -1,5 +1,4 @@
-**桃河Rika**\[1\]（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Page/配音員.md "wikilink")。[EARLY
-WING所屬](../Page/EARLY_WING.md "wikilink")\[2\]。出身於[岡山縣](../Page/岡山縣.md "wikilink")\[3\]\[4\][津山市](../Page/津山市.md "wikilink")\[5\]。[身高](https://zh.wikipedia.org/wiki/身高 "wikilink")155cm\[6\]。B型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[7\]。
+**桃河Rika**\[1\]（，），[日本](../Page/日本.md "wikilink")女性[配音員](../Page/配音員.md "wikilink")。[EARLY WING所屬](../Page/EARLY_WING.md "wikilink")\[2\]。出身於[岡山縣](../Page/岡山縣.md "wikilink")\[3\]\[4\][津山市](../Page/津山市.md "wikilink")\[5\]。[身高](https://zh.wikipedia.org/wiki/身高 "wikilink")155cm\[6\]。B型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[7\]。
 
 ## 經歷、人物
 
@@ -83,12 +82,11 @@ WING所屬](../Page/EARLY_WING.md "wikilink")\[2\]。出身於[岡山縣](../Pag
 
 <!-- end list -->
 
-  - [溫泉女孩
-    湯之華Collection](https://zh.wikipedia.org/wiki/溫泉女孩 "wikilink")（野澤菜菜）
+  - [溫泉女孩 湯之華Collection](https://zh.wikipedia.org/wiki/溫泉女孩 "wikilink")（野澤菜菜）
 
 ### 廣播節目
 
-  - [喜多村英梨與桃河Rika的PREMIERE](../Page/喜多村英梨.md "wikilink")♪PARTY♪Radio♪
+  - [喜多村英梨](../Page/喜多村英梨.md "wikilink")與桃河Rika的PREMIERE♪PARTY♪Radio♪
 
 ### 網路節目
 
@@ -102,8 +100,7 @@ WING所屬](../Page/EARLY_WING.md "wikilink")\[2\]。出身於[岡山縣](../Pag
 
   - （2015年4月1日－6月24日，[TOKYO MX等](../Page/東京都會電視台.md "wikilink")）
 
-  - Voice Bar
-    'S（2015年10月12日，[NOTTV](../Page/NOTTV.md "wikilink")）\[23\]\[24\]
+  - Voice Bar 'S（2015年10月12日，[NOTTV](../Page/NOTTV.md "wikilink")）\[23\]\[24\]
 
 ### 其它
 
@@ -191,15 +188,11 @@ WING所屬](../Page/EARLY_WING.md "wikilink")\[2\]。出身於[岡山縣](../Pag
 
 ## 外部連結
 
-  - [EARLY
-    WING公式官網的聲優簡介](http://earlywing.co.jp/talent_w/momokawarika.html)
-
+  - [EARLY WING公式官網的聲優簡介](http://earlywing.co.jp/talent_w/momokawarika.html)
 
   -
 
-[Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink")
-[Category:EARLY_WING](https://zh.wikipedia.org/wiki/Category:EARLY_WING "wikilink")
-[Category:岡山縣出身人物](https://zh.wikipedia.org/wiki/Category:岡山縣出身人物 "wikilink")
+[Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink") [Category:EARLY_WING](https://zh.wikipedia.org/wiki/Category:EARLY_WING "wikilink") [Category:岡山縣出身人物](https://zh.wikipedia.org/wiki/Category:岡山縣出身人物 "wikilink")
 
 1.  由於沒有固定的中文正式譯名，故有時譯作“**桃河-{里}-香**”或“**桃河莉佳**”等。
 

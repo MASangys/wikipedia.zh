@@ -1,4 +1,4 @@
-《**老人Z**》是1991年9月14日在日本上映的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[喜劇類型](../Page/喜劇.md "wikilink")[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")，\[1\]，以[人口老龄化的老人問題為主題](../Page/人口老龄化.md "wikilink")，在1991年12月10日發售漫畫版《**ZeD**》。\[2\]臺灣1990年代[新潮社有限公司發售](https://zh.wikipedia.org/wiki/新潮社有限公司 "wikilink")[VHS](../Page/VHS.md "wikilink")[正體中文](https://zh.wikipedia.org/wiki/正體中文 "wikilink")[字幕版](../Page/字幕.md "wikilink")、2005年9月[普威爾國際發售](../Page/普威爾國際.md "wikilink")[DVD-Video正體中文字幕版](../Page/DVD-Video.md "wikilink")，1990年代[首華卡通頻道播放新潮社VHS版](../Page/首華卡通頻道.md "wikilink")。
+《**老人Z**》是1991年9月14日在日本上映的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[喜劇](../Page/喜劇.md "wikilink")類型[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")，\[1\]，以[人口老龄化](../Page/人口老龄化.md "wikilink")的老人問題為主題，在1991年12月10日發售漫畫版《**ZeD**》。\[2\]臺灣1990年代[新潮社有限公司發售](https://zh.wikipedia.org/wiki/新潮社有限公司 "wikilink")[VHS](../Page/VHS.md "wikilink")[正體中文](https://zh.wikipedia.org/wiki/正體中文 "wikilink")[字幕](../Page/字幕.md "wikilink")版、2005年9月[普威爾國際](../Page/普威爾國際.md "wikilink")發售[DVD-Video](../Page/DVD-Video.md "wikilink")正體中文字幕版，1990年代[首華卡通頻道](../Page/首華卡通頻道.md "wikilink")播放新潮社VHS版。
 
 ## 故事
 
@@ -52,18 +52,15 @@
 
 ### 漫畫
 
-漫畫版的標題是《**ZeD**》，[岡田鯛作畫](https://zh.wikipedia.org/wiki/岡田鯛 "wikilink")，連載於[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[MISTER
-MAGAZINE](https://zh.wikipedia.org/wiki/MISTER_MAGAZINE "wikilink")》1991年6月12日號（No.3）～1991年9月25日號（No.10），[單行本由講談社在](https://zh.wikipedia.org/wiki/單行本 "wikilink")1991年12月10日發售共一冊（ISBN
-978-4063132687）。\[4\]
+漫畫版的標題是《**ZeD**》，[岡田鯛作畫](https://zh.wikipedia.org/wiki/岡田鯛 "wikilink")，連載於[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[MISTER MAGAZINE](https://zh.wikipedia.org/wiki/MISTER_MAGAZINE "wikilink")》1991年6月12日號（No.3）～1991年9月25日號（No.10），[單行本由講談社在](https://zh.wikipedia.org/wiki/單行本 "wikilink")1991年12月10日發售共一冊（ISBN 978-4063132687）。\[4\]
 
 ### CD
 
-老人Z Soundtrack（老人Z
-サウンドトラック）是[史詩唱片日本在](https://zh.wikipedia.org/wiki/史詩唱片日本 "wikilink")1991年11月21日發售，收錄17首樂曲。\[5\]
+老人Z Soundtrack（老人Z サウンドトラック）是[史詩唱片日本在](https://zh.wikipedia.org/wiki/史詩唱片日本 "wikilink")1991年11月21日發售，收錄17首樂曲。\[5\]
 
 ## 評價
 
-1991年第46屆[每日電影獎獲得](../Page/每日電影獎.md "wikilink")[每日電影最佳動畫電影獎](https://zh.wikipedia.org/wiki/每日電影最佳動畫電影獎 "wikilink")（）。\[6\]
+1991年第46屆[每日電影獎](../Page/每日電影獎.md "wikilink")獲得[每日電影最佳動畫電影獎](https://zh.wikipedia.org/wiki/每日電影最佳動畫電影獎 "wikilink")（）。\[6\]
 
 ## 參考來源
 
@@ -71,28 +68,13 @@ MAGAZINE](https://zh.wikipedia.org/wiki/MISTER_MAGAZINE "wikilink")》1991年6�
 
 ## 外部連結
 
-  - [老人Z
-    HDマスター版](http://www.sonymusic.co.jp/Animation/roujinz/index.html)Sony
-    Music
+  - [老人Z HDマスター版](http://www.sonymusic.co.jp/Animation/roujinz/index.html)Sony Music
 
-[Category:1991年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1991年日本劇場動畫 "wikilink")
-[Category:日本原創動畫電影](https://zh.wikipedia.org/wiki/Category:日本原創動畫電影 "wikilink")
-[Category:東京背景動畫電影](https://zh.wikipedia.org/wiki/Category:東京背景動畫電影 "wikilink")
-[Category:機器人題材動畫電影](https://zh.wikipedia.org/wiki/Category:機器人題材動畫電影 "wikilink")
-[Category:鎌倉市背景電影](https://zh.wikipedia.org/wiki/Category:鎌倉市背景電影 "wikilink")
-[Category:老人題材作品](https://zh.wikipedia.org/wiki/Category:老人題材作品 "wikilink")
+[Category:1991年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1991年日本劇場動畫 "wikilink") [Category:日本原創動畫電影](https://zh.wikipedia.org/wiki/Category:日本原創動畫電影 "wikilink") [Category:東京背景動畫電影](https://zh.wikipedia.org/wiki/Category:東京背景動畫電影 "wikilink") [Category:機器人題材動畫電影](https://zh.wikipedia.org/wiki/Category:機器人題材動畫電影 "wikilink") [Category:鎌倉市背景電影](https://zh.wikipedia.org/wiki/Category:鎌倉市背景電影 "wikilink") [Category:老人題材作品](https://zh.wikipedia.org/wiki/Category:老人題材作品 "wikilink")
 
-1.  [Roujin Z
-    (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=329)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
-2.  [ZeD
-    (manga)](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=8283)Anime
-    News Network
-3.  [老人Z
-    (1991)](http://www.allcinema.net/prog/show_c.php?num_c=151494)allcinema
-4.  [ZeD（岡田
-    鯛）](http://www.interq.or.jp/blue/junya/appleparadise/html/okmiscs/ok-wri-zed.html)OTOMO
-    KATSUHIRO Misc. Comics
+1.  [Roujin Z (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=329)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+2.  [ZeD (manga)](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=8283)Anime News Network
+3.  [老人Z (1991)](http://www.allcinema.net/prog/show_c.php?num_c=151494)allcinema
+4.  [ZeD（岡田 鯛）](http://www.interq.or.jp/blue/junya/appleparadise/html/okmiscs/ok-wri-zed.html)OTOMO KATSUHIRO Misc. Comics
 5.  [老人Z サウンドトラック](http://artist.cdjournal.com/d/-/1192010519)CDJournal
 6.  [コンクールの歴史](http://mainichi.jp/enta/cinema/mfa/etc/history/46.html)[毎日新聞](https://zh.wikipedia.org/wiki/毎日新聞 "wikilink")

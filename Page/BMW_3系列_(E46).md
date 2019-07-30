@@ -1,29 +1,22 @@
-**BMW E46**是德國[寶馬公司](https://zh.wikipedia.org/wiki/寶馬 "wikilink")[BMW
-3系列車型第四代](../Page/BMW_3系列.md "wikilink")，是[E36的換代產品](https://zh.wikipedia.org/wiki/BMW_E36 "wikilink")。
+**BMW E46**是德國[寶馬公司](https://zh.wikipedia.org/wiki/寶馬 "wikilink")[BMW 3系列車型第四代](../Page/BMW_3系列.md "wikilink")，是[E36的換代產品](https://zh.wikipedia.org/wiki/BMW_E36 "wikilink")。
 
-1998年5月E46[四門轎車版首次公佈](https://zh.wikipedia.org/wiki/四門轎車 "wikilink")。次年，雙門轎跑和旅行車上市。2000年，[敞篷車和](https://zh.wikipedia.org/wiki/敞篷車 "wikilink")[掀背車型也開始發售](https://zh.wikipedia.org/wiki/掀背車 "wikilink")。掀背車型僅供應歐洲，南非，澳大利亞和新西蘭市場。E46推出市場後廣受好評，其駕駛性能是同級別車輛中的佼佼者。\[1\]2002年E46銷量達到頂峰，當年全球各型號共賣出了561,249台。.\[2\]市場主要的競爭者為[阿尔法·罗密欧](../Page/阿尔法·罗密欧.md "wikilink")[156](https://zh.wikipedia.org/wiki/阿尔法·罗密欧156 "wikilink")，[奧迪A4](../Page/奧迪A4.md "wikilink")，[凌志IS](../Page/凌志IS.md "wikilink")，[梅赛德斯-奔驰C级](../Page/梅赛德斯-奔驰C级.md "wikilink")，[紳寶9-3和](../Page/紳寶9-3.md "wikilink")[富豪](../Page/富豪汽車.md "wikilink")[S60](https://zh.wikipedia.org/wiki/沃爾沃S60 "wikilink")。
+1998年5月E46[四門轎車版首次公佈](https://zh.wikipedia.org/wiki/四門轎車 "wikilink")。次年，雙門轎跑和旅行車上市。2000年，[敞篷車和](https://zh.wikipedia.org/wiki/敞篷車 "wikilink")[掀背車型也開始發售](https://zh.wikipedia.org/wiki/掀背車 "wikilink")。掀背車型僅供應歐洲，南非，澳大利亞和新西蘭市場。E46推出市場後廣受好評，其駕駛性能是同級別車輛中的佼佼者。\[1\]2002年E46銷量達到頂峰，當年全球各型號共賣出了561,249台。.\[2\]市場主要的競爭者為[阿尔法·罗密欧](../Page/阿尔法·罗密欧.md "wikilink")[156](https://zh.wikipedia.org/wiki/阿尔法·罗密欧156 "wikilink")，[奧迪A4](../Page/奧迪A4.md "wikilink")，[凌志IS](../Page/凌志IS.md "wikilink")，[梅赛德斯-奔驰C级](../Page/梅赛德斯-奔驰C级.md "wikilink")，[紳寶9-3](../Page/紳寶9-3.md "wikilink")和[富豪](../Page/富豪汽車.md "wikilink")[S60](https://zh.wikipedia.org/wiki/沃爾沃S60 "wikilink")。
 
-[BMW
-M公司在E](../Page/BMW_M公司.md "wikilink")46的車體上開發了高性能版本[M3](../Page/BMW_M3.md "wikilink")，和基型E46相比裝備了大功率引擎，[限滑差速器](../Page/限滑差速器.md "wikilink")，運動減震裝置和空氣動力學套件。E46版M3與2001年上市，僅有雙門硬頂和雙門敞篷兩個版本，並有6速手動變速器和或電控手動變速器可供選擇。
+[BMW M公司在E](../Page/BMW_M公司.md "wikilink")46的車體上開發了高性能版本[M3](../Page/BMW_M3.md "wikilink")，和基型E46相比裝備了大功率引擎，[限滑差速器](../Page/限滑差速器.md "wikilink")，運動減震裝置和空氣動力學套件。E46版M3與2001年上市，僅有雙門硬頂和雙門敞篷兩個版本，並有6速手動變速器和或電控手動變速器可供選擇。
 
 ## 設計
 
 ### 外型特徵
 
-E46型在外型特徵上和前代E36有著革命性的變化。1991年寶馬控股美國外觀[工業設計公司DesignWorksUSA後不久](https://zh.wikipedia.org/wiki/工業設計 "wikilink")，即開始新一代BMW
-3系列設計工作。1995年，Erik
-Goplen設計了E46的初稿，並由DesignWorksUSA和BMW的工程師協作完善。1996年1月，Chris
-Bangle受命對外觀設計進行完善。2月，設計正式被採納。外觀設計從E36出發，設計組重點提升了車輛的[空氣動力學性能和增加外觀的侵略性](https://zh.wikipedia.org/wiki/空氣動力學 "wikilink")。新設計與1997年7月16日和1998年2月16日分別在德國和美國申請[專利](https://zh.wikipedia.org/wiki/專利 "wikilink")。由於前代E39深得市場認可，因此新代車外型在起初並未獲得公眾及汽車媒體廣泛讚美。新車部分設計顯得和寶馬傳統“離經叛道”，如圓角化外型，側面看傾斜的車頂曲線，招致部分寶馬資深擁躉的不滿。1996年1月至1998年1月，進行生產籌備。雙門版也由Erik
-Goplen設計，大約在1996-1997年間完成。
+E46型在外型特徵上和前代E36有著革命性的變化。1991年寶馬控股美國外觀[工業設計公司DesignWorksUSA後不久](https://zh.wikipedia.org/wiki/工業設計 "wikilink")，即開始新一代BMW 3系列設計工作。1995年，Erik Goplen設計了E46的初稿，並由DesignWorksUSA和BMW的工程師協作完善。1996年1月，Chris Bangle受命對外觀設計進行完善。2月，設計正式被採納。外觀設計從E36出發，設計組重點提升了車輛的[空氣動力學性能和增加外觀的侵略性](https://zh.wikipedia.org/wiki/空氣動力學 "wikilink")。新設計與1997年7月16日和1998年2月16日分別在德國和美國申請[專利](https://zh.wikipedia.org/wiki/專利 "wikilink")。由於前代E39深得市場認可，因此新代車外型在起初並未獲得公眾及汽車媒體廣泛讚美。新車部分設計顯得和寶馬傳統“離經叛道”，如圓角化外型，側面看傾斜的車頂曲線，招致部分寶馬資深擁躉的不滿。1996年1月至1998年1月，進行生產籌備。雙門版也由Erik Goplen設計，大約在1996-1997年間完成。
 
 ### 內飾設計
 
-全系E46搭載了多功能電腦控制的車載娛樂系統。由於在設計時預留了接口，所有E46都可以加裝BMW或第三方廠家生產的最新功能車載娛樂系統，如收音機，GPS系統，[藍牙系統](../Page/藍牙.md "wikilink")，車載電話，CD/DVD放映機，倒車顯影等。
+全系E46搭載了多功能電腦控制的車載娛樂系統。由於在設計時預留了接口，所有E46都可以加裝BMW或第三方廠家生產的最新功能車載娛樂系統，如收音機，GPS系統，[藍牙](../Page/藍牙.md "wikilink")系統，車載電話，CD/DVD放映機，倒車顯影等。
 
 ### 動力裝置
 
-E46動力裝置的設計重點在於減少[簧下質量和增加車體](https://zh.wikipedia.org/wiki/簧下質量 "wikilink")[剛性以適應大馬力發動機和劇烈操作](https://zh.wikipedia.org/wiki/剛性 "wikilink")。1998年上市首批E46中，發動機最大的328i僅僅比前E36
-328i增加了3馬力，但車體堅固程度卻增加了70%（BMW廠方聲明）。\[3\]為減輕簧下質量，大量懸掛裝置部件改為鈦合金製造。\[4\]E46有[前置後驅和](https://zh.wikipedia.org/wiki/前置後驅 "wikilink")[四輪驅動](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")（xi）兩個版本。根據傳統BMW將車總重分配前後軸各佔50%，\[5\]</ref>\[6\]\[7\]使得兩種方式下都能獲得極好的操縱性能。
+E46動力裝置的設計重點在於減少[簧下質量和增加車體](https://zh.wikipedia.org/wiki/簧下質量 "wikilink")[剛性以適應大馬力發動機和劇烈操作](https://zh.wikipedia.org/wiki/剛性 "wikilink")。1998年上市首批E46中，發動機最大的328i僅僅比前E36 328i增加了3馬力，但車體堅固程度卻增加了70%（BMW廠方聲明）。\[3\]為減輕簧下質量，大量懸掛裝置部件改為鈦合金製造。\[4\]E46有[前置後驅和](https://zh.wikipedia.org/wiki/前置後驅 "wikilink")[四輪驅動](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")（xi）兩個版本。根據傳統BMW將車總重分配前後軸各佔50%，\[5\]</ref>\[6\]\[7\]使得兩種方式下都能獲得極好的操縱性能。
 
 #### 各型號
 
@@ -306,9 +299,7 @@ E46動力裝置的設計重點在於減少[簧下質量和增加車體](https://
 
 ### 運動套件
 
-BMW針對E46 330i/Ci推出了改造套件，稱為ZHP改裝套件並在北美上市。2003-2005 330i，以及2004-2006
-330Ci均可加裝。改造件包括外觀套件以獲得更出色的空氣動力學性能。其發動機亦有小改進，[凸輪軸外型加以改進以改善氣門開閉狀態](https://zh.wikipedia.org/wiki/凸輪軸 "wikilink")，行車電腦發動機模塊（DME）的代碼也進行改動，使得發動機功率從上升到。\[43\]
-車體懸掛系統也進行較多改進：彈簧和減震器更加堅硬，加裝大型防側傾撐桿，以及更強的前控制臂球窩軸承。車輛比普通版更加低矮，轉彎時輪胎亦有更大的[外傾角](https://zh.wikipedia.org/wiki/外傾角 "wikilink")。此番改進後車輛運動性在原有基礎上有很大提升，[汽車和駕駛員雜誌在賽道上親測該車](https://zh.wikipedia.org/wiki/汽車和駕駛員 "wikilink")，結果是0-60mph加速僅需5.6秒，完成1/4英里只需14.3秒，亦接近普通版M3的性能。
+BMW針對E46 330i/Ci推出了改造套件，稱為ZHP改裝套件並在北美上市。2003-2005 330i，以及2004-2006 330Ci均可加裝。改造件包括外觀套件以獲得更出色的空氣動力學性能。其發動機亦有小改進，[凸輪軸外型加以改進以改善氣門開閉狀態](https://zh.wikipedia.org/wiki/凸輪軸 "wikilink")，行車電腦發動機模塊（DME）的代碼也進行改動，使得發動機功率從上升到。\[43\] 車體懸掛系統也進行較多改進：彈簧和減震器更加堅硬，加裝大型防側傾撐桿，以及更強的前控制臂球窩軸承。車輛比普通版更加低矮，轉彎時輪胎亦有更大的[外傾角](https://zh.wikipedia.org/wiki/外傾角 "wikilink")。此番改進後車輛運動性在原有基礎上有很大提升，[汽車和駕駛員雜誌在賽道上親測該車](https://zh.wikipedia.org/wiki/汽車和駕駛員 "wikilink")，結果是0-60mph加速僅需5.6秒，完成1/4英里只需14.3秒，亦接近普通版M3的性能。
 
 ## SULEV
 
@@ -324,24 +315,13 @@ BMW針對E46 330i/Ci推出了改造套件，稱為ZHP改裝套件並在北美上
 
 ## 圖集
 
-<File:1998-2001> BMW 328i sedan.jpg|轿车（小改前） <File:1998-2001> BMW 318i
-(E46) sedan (2011-06-15).jpg|轿车（小改前） <File:BMW> E46 front
-20080822.jpg|轿车前部（小改后） <File:BMW> E46 rear 20080822.jpg|轿车后部（小改后）
-<File:2000-2003> BMW 330Ci (E46) coupe (2011-07-17) 02.jpg|Coupe
-(pre-facelift) <File:2000-2003> BMW 330Ci (E46) coupe (2011-07-17)
-03.jpg|Coupe (pre-facelift) <File:1998-2001> BMW E46
-convertible.jpg|Cabriolet (pre-facelift) <File:BMW> E46 Cabrio rear
-20071104.jpg|Cabriolet (facelift) <File:2002-2005> BMW 320i (E46)
-Touring (2011-01-13).jpg|Touring (facelift)
+<File:1998-2001> BMW 328i sedan.jpg|轿车（小改前） <File:1998-2001> BMW 318i (E46) sedan (2011-06-15).jpg|轿车（小改前） <File:BMW> E46 front 20080822.jpg|轿车前部（小改后） <File:BMW> E46 rear 20080822.jpg|轿车后部（小改后） <File:2000-2003> BMW 330Ci (E46) coupe (2011-07-17) 02.jpg|Coupe (pre-facelift) <File:2000-2003> BMW 330Ci (E46) coupe (2011-07-17) 03.jpg|Coupe (pre-facelift) <File:1998-2001> BMW E46 convertible.jpg|Cabriolet (pre-facelift) <File:BMW> E46 Cabrio rear 20071104.jpg|Cabriolet (facelift) <File:2002-2005> BMW 320i (E46) Touring (2011-01-13).jpg|Touring (facelift)
 
 ## 參考文獻
 
 ## 外部連結
 
-[Category:1998年面世的汽車](https://zh.wikipedia.org/wiki/Category:1998年面世的汽車 "wikilink")
-[Category:中型車](https://zh.wikipedia.org/wiki/Category:中型車 "wikilink")
-[Category:BMW車輛](https://zh.wikipedia.org/wiki/Category:BMW車輛 "wikilink")
-[Category:旅行車](https://zh.wikipedia.org/wiki/Category:旅行車 "wikilink")
+[Category:1998年面世的汽車](https://zh.wikipedia.org/wiki/Category:1998年面世的汽車 "wikilink") [Category:中型車](https://zh.wikipedia.org/wiki/Category:中型車 "wikilink") [Category:BMW車輛](https://zh.wikipedia.org/wiki/Category:BMW車輛 "wikilink") [Category:旅行車](https://zh.wikipedia.org/wiki/Category:旅行車 "wikilink")
 
 1.
 

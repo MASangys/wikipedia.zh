@@ -1,13 +1,10 @@
-《**ONE PIECE 薩波特別篇 〜3兄弟的羈絆 奇跡的再會和被繼承的意志〜**》（）是電視動畫《[ONE
-PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2015年8月22日在日本[富士電視台播出](../Page/富士電視台.md "wikilink")\[1\]。
+《**ONE PIECE 薩波特別篇 〜3兄弟的羈絆 奇跡的再會和被繼承的意志〜**》（）是電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2015年8月22日在日本[富士電視台](../Page/富士電視台.md "wikilink")播出\[1\]。
 
 ## 製作
 
-該2小時特別節目為「週六PREMIUM」時段播出的《[ONE
-PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第五彈。此外該片在電視播放完畢時發表製作新電影《[ONE
-PIECE FILM GOLD](../Page/ONE_PIECE_FILM_GOLD.md "wikilink")》。
+該2小時特別節目為「週六PREMIUM」時段播出的《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第五彈。此外該片在電視播放完畢時發表製作新電影《[ONE PIECE FILM GOLD](../Page/ONE_PIECE_FILM_GOLD.md "wikilink")》。
 
-至於本作是以主角[魯夫的義兄弟](https://zh.wikipedia.org/wiki/魯夫 "wikilink")[薩波為主要軸心人物](https://zh.wikipedia.org/wiki/薩波 "wikilink")，與魯夫、[艾斯的童年回憶為重新繪製的版本](https://zh.wikipedia.org/wiki/艾斯 "wikilink")，在劇情上與原作有一定區別，本作也有原作與動畫未曾敘述過的故事，劇情主要敘述以薩波的角度潛入[多雷斯羅薩的故事](../Page/多雷斯羅薩.md "wikilink")。
+至於本作是以主角[魯夫的義兄弟](https://zh.wikipedia.org/wiki/魯夫 "wikilink")[薩波為主要軸心人物](https://zh.wikipedia.org/wiki/薩波 "wikilink")，與魯夫、[艾斯的童年回憶為重新繪製的版本](https://zh.wikipedia.org/wiki/艾斯 "wikilink")，在劇情上與原作有一定區別，本作也有原作與動畫未曾敘述過的故事，劇情主要敘述以薩波的角度潛入[多雷斯羅薩](../Page/多雷斯羅薩.md "wikilink")的故事。
 
 發售的BD/DVD光碟版將於2015年11月27日於日本地區發行。
 
@@ -418,10 +415,6 @@ PIECE FILM GOLD](../Page/ONE_PIECE_FILM_GOLD.md "wikilink")》。
 
   - [《薩波特別篇》播出情報](http://www.fujitv.co.jp/b_hp/150822premium/)
 
-[Category:ONE_PIECE](https://zh.wikipedia.org/wiki/Category:ONE_PIECE "wikilink")
-[Category:ONE_PIECE特別篇](https://zh.wikipedia.org/wiki/Category:ONE_PIECE特別篇 "wikilink")
-[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")
-[Category:富士電視台動畫](https://zh.wikipedia.org/wiki/Category:富士電視台動畫 "wikilink")
-[Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink")
+[Category:ONE_PIECE特別篇](https://zh.wikipedia.org/wiki/Category:ONE_PIECE特別篇 "wikilink") [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:富士電視台動畫](https://zh.wikipedia.org/wiki/Category:富士電視台動畫 "wikilink") [Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink")
 
 1.

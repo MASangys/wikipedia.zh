@@ -2,5 +2,4 @@
 
 ## 參考資料
 
-[Category:瘟疫](https://zh.wikipedia.org/wiki/Category:瘟疫 "wikilink")
-[Category:世界衛生組織](https://zh.wikipedia.org/wiki/Category:世界衛生組織 "wikilink")
+[Category:瘟疫](https://zh.wikipedia.org/wiki/Category:瘟疫 "wikilink") [Category:世界衛生組織](https://zh.wikipedia.org/wiki/Category:世界衛生組織 "wikilink")

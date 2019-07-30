@@ -1,5 +1,4 @@
-****是基於[假面騎士系列以及](../Page/假面騎士系列.md "wikilink") **Super Imaginative
-Chogokin** 模型的一系列模型小説，於《月刊 Hobby Japan》連載。
+****是基於[假面騎士系列](../Page/假面騎士系列.md "wikilink")以及 **Super Imaginative Chogokin** 模型的一系列模型小説，於《月刊 Hobby Japan》連載。
 
 ## 標題列表
 
@@ -1884,9 +1883,7 @@ Chogokin** 模型的一系列模型小説，於《月刊 Hobby Japan》連載。
 
 ## 參考資料
 
-[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink")
-[Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink")
-[Category:电脑奇侠](https://zh.wikipedia.org/wiki/Category:电脑奇侠 "wikilink")
+[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink") [Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink") [Category:电脑奇侠](https://zh.wikipedia.org/wiki/Category:电脑奇侠 "wikilink")
 
 1.  <http://www.jefusion.com/2011/01/sic-hero-saga-kamen-rider-555-lost.html>
 2.  <https://insidemytoybox.wordpress.com/2010/09/06/s-i-c-hero-saga-blade/>

@@ -1,6 +1,4 @@
-**MBC江原嶺東**（[朝鲜语](https://zh.wikipedia.org/wiki/朝鲜语 "wikilink")：MBC강원영동，[朝鲜汉字](https://zh.wikipedia.org/wiki/朝鲜汉字 "wikilink")：；[英语](../Page/英语.md "wikilink")：MBC
-Gangwon
-Yeongdong）是位于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[江原道的](https://zh.wikipedia.org/wiki/江原道_\(南\) "wikilink")[文化广播](../Page/文化廣播公司.md "wikilink")（MBC）的放送局。
+**MBC江原嶺東**（[朝鲜语](https://zh.wikipedia.org/wiki/朝鲜语 "wikilink")：MBC강원영동，[朝鲜汉字](https://zh.wikipedia.org/wiki/朝鲜汉字 "wikilink")：；[英语](../Page/英语.md "wikilink")：MBC Gangwon Yeongdong）是位于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[江原道的](https://zh.wikipedia.org/wiki/江原道_\(南\) "wikilink")[文化广播](../Page/文化廣播公司.md "wikilink")（MBC）的放送局。
 
 ## 所在地
 
@@ -8,7 +6,7 @@ Yeongdong）是位于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[�
 
 <!-- end list -->
 
-  - 210-112[江原道](https://zh.wikipedia.org/wiki/江原道_\(南\) "wikilink")[江陵市浦南](../Page/江陵市.md "wikilink")2洞1091-6
+  - 210-112[江原道](https://zh.wikipedia.org/wiki/江原道_\(南\) "wikilink")[江陵市](../Page/江陵市.md "wikilink")浦南2洞1091-6
 
 <!-- end list -->
 
@@ -16,7 +14,7 @@ Yeongdong）是位于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[�
 
 <!-- end list -->
 
-  - 217-010[江原道](https://zh.wikipedia.org/wiki/江原道_\(南\) "wikilink")[束草市繁荣路](../Page/束草市.md "wikilink")170
+  - 217-010[江原道](https://zh.wikipedia.org/wiki/江原道_\(南\) "wikilink")[束草市](../Page/束草市.md "wikilink")繁荣路170
 
 <!-- end list -->
 
@@ -32,7 +30,7 @@ Yeongdong）是位于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[�
 
 <!-- end list -->
 
-  - 235-800[江原道](https://zh.wikipedia.org/wiki/江原道_\(南\) "wikilink")[太白市오투路](../Page/太白市.md "wikilink")99號（黄池洞山32-18）
+  - 235-800[江原道](https://zh.wikipedia.org/wiki/江原道_\(南\) "wikilink")[太白市](../Page/太白市.md "wikilink")오투路99號（黄池洞山32-18）
 
 ## 沿革
 
@@ -43,14 +41,11 @@ Yeongdong）是位于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[�
   - 1986年2月23日 - 束草市电视发射台开通（UHF CH 23，100W）。
   - 1986年12月17日 - 襄阳郡、玉溪电视发射台开通。
   - 1989年1月20日 - 大关岭电视发射台开通（UHF CH 41，500W）。
-  - 1991年10月24日 -
-    与[日本](../Page/日本.md "wikilink")[秋田电视台结为友谊关系](https://zh.wikipedia.org/wiki/秋田电视台 "wikilink")。
-  - 1999年12月23日 -
-    [MBC标准FM开通](https://zh.wikipedia.org/wiki/MBC标准FM "wikilink")（FM96.3MHz）。
+  - 1991年10月24日 - 与[日本](../Page/日本.md "wikilink")[秋田电视台结为友谊关系](https://zh.wikipedia.org/wiki/秋田电视台 "wikilink")。
+  - 1999年12月23日 - [MBC标准FM开通](https://zh.wikipedia.org/wiki/MBC标准FM "wikilink")（FM96.3MHz）。
   - 2005年12月28日 - 数字电视开通。
-  - 2006年4月18日 -
-    与[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[宁波电视台结为友谊关系](https://zh.wikipedia.org/wiki/宁波电视台 "wikilink")。
-  - 2007年12月21日 - [DMB开通](../Page/DMB.md "wikilink")（CH 13A，2kW）。
+  - 2006年4月18日 - 与[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[宁波电视台结为友谊关系](https://zh.wikipedia.org/wiki/宁波电视台 "wikilink")。
+  - 2007年12月21日 - [DMB](../Page/DMB.md "wikilink")开通（CH 13A，2kW）。
   - 2012年10月25日 - 模拟电视停播。
 
 ## 中继局

@@ -1,21 +1,13 @@
-佳能 EOS-1D X Mark II
-是佳能公司推出的2千万像素全画幅 [数码单反相机](../Page/數位單眼相機.md "wikilink")。该机型于2016年2月发布，上市价格为5,999美元。 它是2012年推出的[佳能
-EOS-1D X的后继机型](../Page/佳能_EOS-1D_X.md "wikilink")。\[1\]\[2\]
+佳能 EOS-1D X Mark II 是佳能公司推出的2千万像素全画幅 [数码单反相机](../Page/數位單眼相機.md "wikilink")。该机型于2016年2月发布，上市价格为5,999美元。 它是2012年推出的[佳能 EOS-1D X的后继机型](../Page/佳能_EOS-1D_X.md "wikilink")。\[1\]\[2\]
 
 ## 功能
 
 超越佳能 EOS-1D X 的新功能：
 
-  - 拍摄视频时，可以使用[DCI 4K](../Page/4K解析度.md "wikilink") (4096×2160)解析度以60
-    [帧每秒](../Page/帧率.md "wikilink") (59.94
-    帧每秒)帧率拍摄，拍摄时长可达29'59"\[3\]
-  - 拍摄静态照片时，在使用自动对焦的情况下，连续拍摄的速度最高可达14帧每秒；在锁定对焦和曝光实时取景拍摄的情况下，连续拍摄的速度最高可达16帧每秒。
-    高速连续拍摄时，需要使用新的 LP-E19 型电池。EOS-1D X Mk II 也可以使用 Mk I 机型使用的 LP-E4
-    型电池，但在使用LP-E4 型电池的情况下，高速连续拍摄的性能也会减低至 Mk I 机型的 12/14 帧每秒。
-  - 拍摄全高清视频 (1920×1080) 时，支持 120 [帧每秒](../Page/帧率.md "wikilink") (119.9
-    帧每秒) 帧率
-  - 使用最大光圈为f/8的镜头时，所有的[自动对焦点都可以正常运作](../Page/自动对焦.md "wikilink")<ref name="f8 capability">`|author=`和`|last=`只需其一
-    ([帮助](https://zh.wikipedia.org/wiki/Help:引文格式1错误#redundant_parameters "wikilink"))
+  - 拍摄视频时，可以使用[DCI 4K](../Page/4K解析度.md "wikilink") (4096×2160)解析度以60 [帧每秒](../Page/帧率.md "wikilink") (59.94 帧每秒)帧率拍摄，拍摄时长可达29'59"\[3\]
+  - 拍摄静态照片时，在使用自动对焦的情况下，连续拍摄的速度最高可达14帧每秒；在锁定对焦和曝光实时取景拍摄的情况下，连续拍摄的速度最高可达16帧每秒。 高速连续拍摄时，需要使用新的 LP-E19 型电池。EOS-1D X Mk II 也可以使用 Mk I 机型使用的 LP-E4 型电池，但在使用LP-E4 型电池的情况下，高速连续拍摄的性能也会减低至 Mk I 机型的 12/14 帧每秒。
+  - 拍摄全高清视频 (1920×1080) 时，支持 120 [帧每秒](../Page/帧率.md "wikilink") (119.9 帧每秒) 帧率
+  - 使用最大光圈为f/8的镜头时，所有的[自动对焦](../Page/自动对焦.md "wikilink")点都可以正常运作<ref name="f8 capability">`|author=`和`|last=`只需其一 ([帮助](https://zh.wikipedia.org/wiki/Help:引文格式1错误#redundant_parameters "wikilink"))
 
 </ref>
 
@@ -23,12 +15,9 @@ EOS-1D X的后继机型](../Page/佳能_EOS-1D_X.md "wikilink")。\[1\]\[2\]
   - 第三代人工智能伺服自动对焦系统
   - 所有的自动对焦点都有持续点亮的红色照明
   - 支持 [CFast](../Page/CompactFlash.md "wikilink") 存储卡
-  - 内建 [GPS](../Page/全球定位系统.md "wikilink") 用于地理标记信息和
-    [UTC](../Page/协调世界时.md "wikilink") 时间同步
+  - 内建 [GPS](../Page/全球定位系统.md "wikilink") 用于地理标记信息和 [UTC](../Page/协调世界时.md "wikilink") 时间同步
   - 额外一档感光度，感光度可扩展至 ISO 409600
-  - 防闪烁功能 (此功能自 [佳能 EOS 7D
-    MarkII](https://zh.wikipedia.org/wiki/佳能_EOS_7D_MarkII "wikilink") 引入)
-    ，此功能运作时，在闪烁的日光灯照明下相机会自动调整曝光时机
+  - 防闪烁功能 (此功能自 [佳能 EOS 7D MarkII](https://zh.wikipedia.org/wiki/佳能_EOS_7D_MarkII "wikilink") 引入) ，此功能运作时，在闪烁的日光灯照明下相机会自动调整曝光时机
   - [触控](../Page/觸控式螢幕.md "wikilink")[液晶显示器](../Page/液晶显示器.md "wikilink")，方便摄影师在视频拍摄前和拍摄中用触控方式选择相机使用的自动对焦点
   - 支持无线网络用于文件传输 (外置无线收发器)\[4\]
 
@@ -56,10 +45,10 @@ EOS-1D X的后继机型](../Page/佳能_EOS-1D_X.md "wikilink")。\[1\]\[2\]
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/测光模式" title="wikilink">测光传感器</a></p></td>
 <td><p>约 100,000 像素 RGB 传感器 (使用专用的 DIGIC 4 处理器)</p></td>
-<td><p>约 360,000 像素 RGB+<a href="../Page/红外线.md" title="wikilink">红外线测光传感器</a> (使用专用的 DIGIC 6 处理器)</p></td>
+<td><p>约 360,000 像素 RGB+<a href="../Page/红外线.md" title="wikilink">红外线</a>测光传感器 (使用专用的 DIGIC 6 处理器)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/自动对焦.md" title="wikilink">自动对焦点</a></p></td>
+<td><p><a href="../Page/自动对焦.md" title="wikilink">自动对焦</a>点</p></td>
 <td><p>61 点 (41 个十字对焦点)<br />
 1-5 点 (十字对焦点) 最大光圈 f/2.8 时<br />
 10-20 点 (十字对焦点) 最大光圈 f/4.0 时<br />
@@ -165,15 +154,10 @@ EOS-1D X的后继机型](../Page/佳能_EOS-1D_X.md "wikilink")。\[1\]\[2\]
 
 ## 外部链接
 
-  - [Official web
-    page](https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/dslr/eos-1d-x-mark-ii)
-  - [Sample Images &
-    Movies](http://cweb.canon.jp/camera/eos/lineup/1dxmk2/samples/)
+  - [Official web page](https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/dslr/eos-1d-x-mark-ii)
+  - [Sample Images & Movies](http://cweb.canon.jp/camera/eos/lineup/1dxmk2/samples/)
 
-[Category:含有冗余参数的引用的页面](https://zh.wikipedia.org/wiki/Category:含有冗余参数的引用的页面 "wikilink")
-[Category:数码单反相机](https://zh.wikipedia.org/wiki/Category:数码单反相机 "wikilink")
-[Category:佳能相机](https://zh.wikipedia.org/wiki/Category:佳能相机 "wikilink")
-[Category:2016年面世的相機](https://zh.wikipedia.org/wiki/Category:2016年面世的相機 "wikilink")
+[Category:含有冗余参数的引用的页面](https://zh.wikipedia.org/wiki/Category:含有冗余参数的引用的页面 "wikilink") [Category:数码单反相机](https://zh.wikipedia.org/wiki/Category:数码单反相机 "wikilink") [Category:佳能相机](https://zh.wikipedia.org/wiki/Category:佳能相机 "wikilink") [Category:2016年面世的相機](https://zh.wikipedia.org/wiki/Category:2016年面世的相機 "wikilink")
 
 1.
 2.

@@ -8,18 +8,10 @@
 
 本屬現有15個物種，下列為部分屬於本屬的物種：
 
-  - *[Oophana
-    bulbulus](https://zh.wikipedia.org/wiki/Oophana_bulbulus "wikilink")*
-    (Morelet, 1862) - type species\[4\]
-  - *[Oophana
-    diaphanopepla](https://zh.wikipedia.org/wiki/Oophana_diaphanopepla "wikilink")*
-    van Benthem Jutting\[5\]
-  - *[Oophana
-    elisa](https://zh.wikipedia.org/wiki/Oophana_elisa "wikilink")*
-    Gould, 1856\[6\]
-  - [刁曼扭蜗牛](https://zh.wikipedia.org/wiki/刁曼扭蜗牛 "wikilink") *[Oophana
-    tiomanensis](https://zh.wikipedia.org/wiki/Oophana_tiomanensis "wikilink")*
-    Clements, 2006\[7\]
+  - *[Oophana bulbulus](https://zh.wikipedia.org/wiki/Oophana_bulbulus "wikilink")* (Morelet, 1862) - type species\[4\]
+  - *[Oophana diaphanopepla](https://zh.wikipedia.org/wiki/Oophana_diaphanopepla "wikilink")* van Benthem Jutting\[5\]
+  - *[Oophana elisa](https://zh.wikipedia.org/wiki/Oophana_elisa "wikilink")* Gould, 1856\[6\]
+  - [刁曼扭蜗牛](https://zh.wikipedia.org/wiki/刁曼扭蜗牛 "wikilink") *[Oophana tiomanensis](https://zh.wikipedia.org/wiki/Oophana_tiomanensis "wikilink")* Clements, 2006\[7\]
 
 ## 參考文獻
 
@@ -31,11 +23,7 @@
 2.
 3.
 4.
-5.  Berry A. J. (1963). "The anatomy of two Malayan limestone hill
-    Streptaxidae, *Sinoennea kanchingensis* Tomlin and *Oophana
-    diaphanopepla* van Benthem Jutting, with special reference to the
-    genital system". *Proceedings of the Malacological Society of
-    London* **35**: 139-150.
+5.  Berry A. J. (1963). "The anatomy of two Malayan limestone hill Streptaxidae, *Sinoennea kanchingensis* Tomlin and *Oophana diaphanopepla* van Benthem Jutting, with special reference to the genital system". *Proceedings of the Malacological Society of London* **35**: 139-150.
 
 6.
 7.

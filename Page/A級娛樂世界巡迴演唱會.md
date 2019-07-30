@@ -1,4 +1,4 @@
-**A級娛樂世界巡迴演唱會**，是臺灣女歌手[張惠妹的演唱會](../Page/張惠妹.md "wikilink")\[1\]。
+**A級娛樂世界巡迴演唱會**，是臺灣女歌手[張惠妹](../Page/張惠妹.md "wikilink")的演唱會\[1\]。
 
 ## 巡演場次
 
@@ -38,7 +38,7 @@
 <td><p>4</p></td>
 <td><p>2002年9月8日</p></td>
 <td><p>武漢</p></td>
-<td><p><a href="../Page/武漢體育中心.md" title="wikilink">武漢體育中心體育場</a></p></td>
+<td><p><a href="../Page/武漢體育中心.md" title="wikilink">武漢體育中心</a>體育場</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -343,9 +343,6 @@
 
 ## 參考資料
 
-[Category:張惠妹演唱會](https://zh.wikipedia.org/wiki/Category:張惠妹演唱會 "wikilink")
-[Category:2002年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2002年巡回演唱会 "wikilink")
-[Category:2003年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2003年巡回演唱会 "wikilink")
-[Category:2004年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2004年巡回演唱会 "wikilink")
+[Category:張惠妹演唱會](https://zh.wikipedia.org/wiki/Category:張惠妹演唱會 "wikilink") [Category:2002年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2002年巡回演唱会 "wikilink") [Category:2003年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2003年巡回演唱会 "wikilink") [Category:2004年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2004年巡回演唱会 "wikilink")
 
 1.

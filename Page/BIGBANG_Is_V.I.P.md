@@ -1,6 +1,4 @@
-《**BIGBANG Is
-V.I.P**》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG的第二張韓語單曲專輯](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，由[YG娛樂製作發佈](../Page/YG娛樂.md "wikilink")，在2006年9月28日正式發行。該專輯的四首新曲主要由[G-Dragon](../Page/G-Dragon.md "wikilink")、Perry參與填詞譜曲製作，而當中收錄的〈La
-La La〉及〈V.I.P〉歌詞由所有成員共同譜寫。
+《**BIGBANG Is V.I.P**》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG的第二張韓語單曲專輯](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，由[YG娛樂](../Page/YG娛樂.md "wikilink")製作發佈，在2006年9月28日正式發行。該專輯的四首新曲主要由[G-Dragon](../Page/G-Dragon.md "wikilink")、Perry參與填詞譜曲製作，而當中收錄的〈La La La〉及〈V.I.P〉歌詞由所有成員共同譜寫。
 
 ## 曲目
 
@@ -16,8 +14,7 @@ La La〉及〈V.I.P〉歌詞由所有成員共同譜寫。
 
   - My Girl（太陽Solo，韓語版）
   - My Girl（日語版/韓語版）
-  - 太陽 - My Girl（Part 2）（Feat.
-    、[G-Dragon](../Page/G-Dragon.md "wikilink")、[T.O.P](../Page/T.O.P..md "wikilink")）
+  - 太陽 - My Girl（Part 2）（Feat. 、[G-Dragon](../Page/G-Dragon.md "wikilink")、[T.O.P](../Page/T.O.P..md "wikilink")）
 
 **V.I.P**
 
@@ -49,8 +46,7 @@ La La〉及〈V.I.P〉歌詞由所有成員共同譜寫。
 
   -
 
-[Category:BIGBANG單曲](https://zh.wikipedia.org/wiki/Category:BIGBANG單曲 "wikilink")
-[Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")
+[Category:BIGBANG單曲](https://zh.wikipedia.org/wiki/Category:BIGBANG單曲 "wikilink") [Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")
 
 1.
 

@@ -1,5 +1,4 @@
-《'''Oh！ 半地下室的女神們 '''》（）
-，於在2017年10月19日[OnStyle網路播出](../Page/OnStyle.md "wikilink")\[1\]，由[夏沇秀](../Page/夏沇秀.md "wikilink")、[素珍](https://zh.wikipedia.org/wiki/素珍 "wikilink")、[車貞媛](https://zh.wikipedia.org/wiki/車貞媛 "wikilink")、[羅海嶺等人主演](https://zh.wikipedia.org/wiki/羅海嶺 "wikilink")\[2\]\[3\]。
+《'''Oh！ 半地下室的女神們 '''》（） ，於在2017年10月19日[OnStyle](../Page/OnStyle.md "wikilink")網路播出\[1\]，由[夏沇秀](../Page/夏沇秀.md "wikilink")、[素珍](https://zh.wikipedia.org/wiki/素珍 "wikilink")、[車貞媛](https://zh.wikipedia.org/wiki/車貞媛 "wikilink")、[羅海嶺等人主演](https://zh.wikipedia.org/wiki/羅海嶺 "wikilink")\[2\]\[3\]。
 
 ## 劇情
 
@@ -48,17 +47,8 @@
 ## 外部連結
 
   -
-[Category:OnStyle](https://zh.wikipedia.org/wiki/Category:OnStyle "wikilink")
-[Category:首爾特別市背景電視劇](https://zh.wikipedia.org/wiki/Category:首爾特別市背景電視劇 "wikilink")
-[Category:2017年韩国网络剧](https://zh.wikipedia.org/wiki/Category:2017年韩国网络剧 "wikilink")
-[Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink")
-[Category:希臘神話題材作品](https://zh.wikipedia.org/wiki/Category:希臘神話題材作品 "wikilink")
-[Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink")
-[Category:公寓背景電視劇](https://zh.wikipedia.org/wiki/Category:公寓背景電視劇 "wikilink")
+[Category:OnStyle](https://zh.wikipedia.org/wiki/Category:OnStyle "wikilink") [Category:首爾特別市背景電視劇](https://zh.wikipedia.org/wiki/Category:首爾特別市背景電視劇 "wikilink") [Category:2017年韩国网络剧](https://zh.wikipedia.org/wiki/Category:2017年韩国网络剧 "wikilink") [Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink") [Category:希臘神話題材作品](https://zh.wikipedia.org/wiki/Category:希臘神話題材作品 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:公寓背景電視劇](https://zh.wikipedia.org/wiki/Category:公寓背景電視劇 "wikilink")
 
-1.  ['오\! 반지하 여신들이여' 하연수X소진, 그리스 여신
-    변신](http://news.chosun.com/site/data/html_dir/2017/09/14/2017091401262.html)
-2.  [오\! 반지하 여신들 측 “하연수·소진·차정원·해령, 출연
-    확정”](http://tenasia.hankyung.com/archives/1262784)
-3.  [‘반지하여신‘ 하연수X소진X차정원X해령, 4人 캐스팅
-    확정](http://star.mk.co.kr/v2/view.php?sc=40900002&year=2017&no=507042)
+1.  ['오\! 반지하 여신들이여' 하연수X소진, 그리스 여신 변신](http://news.chosun.com/site/data/html_dir/2017/09/14/2017091401262.html)
+2.  [오\! 반지하 여신들 측 “하연수·소진·차정원·해령, 출연 확정”](http://tenasia.hankyung.com/archives/1262784)
+3.  [‘반지하여신‘ 하연수X소진X차정원X해령, 4人 캐스팅 확정](http://star.mk.co.kr/v2/view.php?sc=40900002&year=2017&no=507042)

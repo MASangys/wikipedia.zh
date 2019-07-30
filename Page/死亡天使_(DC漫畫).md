@@ -1,4 +1,4 @@
-**死亡天使**（），是一名在[DC漫畫出版的漫畫中登場的](../Page/DC漫畫.md "wikilink")[虛構人物](https://zh.wikipedia.org/wiki/虛構人物 "wikilink")，在《蝙蝠俠》漫畫裏首次現身。為一名由聖杜馬教團所創造的不死刺客，不管是行動、智商、武藝、或是神秘程度，都和蝙蝠俠旗鼓相當，一直被教團譽為能夠接替蝙蝠俠的[高譚市守](../Page/高譚市.md "wikilink")-{}-護者。
+**死亡天使**（），是一名在[DC漫畫](../Page/DC漫畫.md "wikilink")出版的漫畫中登場的[虛構人物](https://zh.wikipedia.org/wiki/虛構人物 "wikilink")，在《蝙蝠俠》漫畫裏首次現身。為一名由聖杜馬教團所創造的不死刺客，不管是行動、智商、武藝、或是神秘程度，都和蝙蝠俠旗鼓相當，一直被教團譽為能夠接替蝙蝠俠的[高譚市](../Page/高譚市.md "wikilink")守-{}-護者。
 
 ## 人物
 
@@ -22,11 +22,9 @@ LeHah為了斬草除根而打算殺死尚-保羅，但注意到LeHah與前任死
 
 ### 麥可·連恩
 
-麥可·連恩原本是一位高譚市的警察，初次登場在《蝙蝠俠的三個幽靈》系列故事中，他被Doctor Hurt選為他中意的實驗品之一。Doctor
-Hurt對他進行了改造與催眠，使他以為自己是蝙蝠俠，並開始了他殘暴的私下執法，直到他被真正的蝙蝠俠給制止。
+麥可·連恩原本是一位高譚市的警察，初次登場在《蝙蝠俠的三個幽靈》系列故事中，他被Doctor Hurt選為他中意的實驗品之一。Doctor Hurt對他進行了改造與催眠，使他以為自己是蝙蝠俠，並開始了他殘暴的私下執法，直到他被真正的蝙蝠俠給制止。
 
-直到《蝙蝠俠之死》事件，麥可才終於擺脫了Doctor Hurt的控制，而在《披風爭奪戰》的支線故事：《Azrael: Death's Dark
-Knight》中，麥可被與聖杜馬教團有同樣起源，後來走上不同道路的the Order of Purity選上，成為該教團的死亡天使。
+直到《蝙蝠俠之死》事件，麥可才終於擺脫了Doctor Hurt的控制，而在《披風爭奪戰》的支線故事：《Azrael: Death's Dark Knight》中，麥可被與聖杜馬教團有同樣起源，後來走上不同道路的the Order of Purity選上，成為該教團的死亡天使。
 
 ## 能力
 
@@ -43,7 +41,7 @@ Knight》中，麥可被與聖杜馬教團有同樣起源，後來走上不同�
 
 #### 蝙蝠俠：阿卡漢系列
 
-在[蝙蝠俠：阿卡漢系列中登場的是麥可](../Page/蝙蝠俠：阿卡漢.md "wikilink")·連恩化身的死亡天使，加上了尚-保羅版本的部分設定。由卡瑞·佩頓配音\[4\]\[5\]\[6\]。
+在[蝙蝠俠：阿卡漢](../Page/蝙蝠俠：阿卡漢.md "wikilink")系列中登場的是麥可·連恩化身的死亡天使，加上了尚-保羅版本的部分設定。由卡瑞·佩頓配音\[4\]\[5\]\[6\]。
 
   - 《[蝙蝠俠：阿卡漢城市](https://zh.wikipedia.org/wiki/蝙蝠俠：阿卡漢城市 "wikilink")》：死亡天使會從阿卡漢城市四個不同的高處觀望蝙蝠俠。
   - 《[蝙蝠俠：阿卡漢起源](https://zh.wikipedia.org/wiki/蝙蝠俠：阿卡漢起源 "wikilink")》：在PS3版的DLC「Knightfall」可以使用死亡天使擔任蝙蝠俠時期的蝙蝠戰衣。
@@ -56,36 +54,18 @@ Knight》中，麥可被與聖杜馬教團有同樣起源，後來走上不同�
 
 ## 外部連結
 
-  - [World of Black Heroes: Azrael Michael Washington Lane
-    Biography](http://worldofblackheroes.com/2011/06/10/azrael-michael-washington-lane/)
+  - [World of Black Heroes: Azrael Michael Washington Lane Biography](http://worldofblackheroes.com/2011/06/10/azrael-michael-washington-lane/)
 
-  - [Azrael (Jean-Paul Valley) at the DC Database
-    Project](https://zh.wikipedia.org/wiki/DCDatabase:Jean-Paul_Valley_\(New_Earth\) "wikilink")
+  - [Azrael (Jean-Paul Valley) at the DC Database Project](https://zh.wikipedia.org/wiki/DCDatabase:Jean-Paul_Valley_\(New_Earth\) "wikilink")
 
-  - [Azrael (Jean-Paul Ludovic Valley, the father) at the DC Database
-    Project](https://zh.wikipedia.org/wiki/DCDatabase:Jean-Paul_Ludovic_Valley_\(New_Earth\) "wikilink")
+  - [Azrael (Jean-Paul Ludovic Valley, the father) at the DC Database Project](https://zh.wikipedia.org/wiki/DCDatabase:Jean-Paul_Ludovic_Valley_\(New_Earth\) "wikilink")
 
-  - [Azrael (Michael Lane) at the DC Database
-    Project](https://zh.wikipedia.org/wiki/DCDatabase:Michael_Lane_\(New_Earth\) "wikilink")
+  - [Azrael (Michael Lane) at the DC Database Project](https://zh.wikipedia.org/wiki/DCDatabase:Michael_Lane_\(New_Earth\) "wikilink")
 
-  - [Azrael
-    Biography](http://www.batmanytb.com/bios/heroes/azrael/index.php) at
-    Batman Myth.com
+  - [Azrael Biography](http://www.batmanytb.com/bios/heroes/azrael/index.php) at Batman Myth.com
 
   -
-[Category:DC漫畫超級英雄](https://zh.wikipedia.org/wiki/Category:DC漫畫超級英雄 "wikilink")
-[Category:DC漫畫超級反派](https://zh.wikipedia.org/wiki/Category:DC漫畫超級反派 "wikilink")
-[Category:DC漫畫超人類](https://zh.wikipedia.org/wiki/Category:DC漫畫超人類 "wikilink")
-[Category:具有超人力氣的DC漫畫角色](https://zh.wikipedia.org/wiki/Category:具有超人力氣的DC漫畫角色 "wikilink")
-[Category:虛構刺客](https://zh.wikipedia.org/wiki/Category:虛構刺客 "wikilink")
-[Category:虛構治安維持者](https://zh.wikipedia.org/wiki/Category:虛構治安維持者 "wikilink")
-[Category:源自基因工程的虛構角色](https://zh.wikipedia.org/wiki/Category:源自基因工程的虛構角色 "wikilink")
-[Category:虛構非洲裔美國人](https://zh.wikipedia.org/wiki/Category:虛構非洲裔美國人 "wikilink")
-[Category:虛構騎士](https://zh.wikipedia.org/wiki/Category:虛構騎士 "wikilink")
-[Category:虛構警察](https://zh.wikipedia.org/wiki/Category:虛構警察 "wikilink")
-[Category:DC漫畫作品](https://zh.wikipedia.org/wiki/Category:DC漫畫作品 "wikilink")
-[Category:可以超人類速度移動的DC漫畫角色](https://zh.wikipedia.org/wiki/Category:可以超人類速度移動的DC漫畫角色 "wikilink")
-[Category:由葛蘭·莫瑞森創作的角色](https://zh.wikipedia.org/wiki/Category:由葛蘭·莫瑞森創作的角色 "wikilink")
+[Category:DC漫畫超級英雄](https://zh.wikipedia.org/wiki/Category:DC漫畫超級英雄 "wikilink") [Category:DC漫畫超級反派](https://zh.wikipedia.org/wiki/Category:DC漫畫超級反派 "wikilink") [Category:DC漫畫超人類](https://zh.wikipedia.org/wiki/Category:DC漫畫超人類 "wikilink") [Category:具有超人力氣的DC漫畫角色](https://zh.wikipedia.org/wiki/Category:具有超人力氣的DC漫畫角色 "wikilink") [Category:虛構刺客](https://zh.wikipedia.org/wiki/Category:虛構刺客 "wikilink") [Category:虛構治安維持者](https://zh.wikipedia.org/wiki/Category:虛構治安維持者 "wikilink") [Category:源自基因工程的虛構角色](https://zh.wikipedia.org/wiki/Category:源自基因工程的虛構角色 "wikilink") [Category:虛構非洲裔美國人](https://zh.wikipedia.org/wiki/Category:虛構非洲裔美國人 "wikilink") [Category:虛構騎士](https://zh.wikipedia.org/wiki/Category:虛構騎士 "wikilink") [Category:虛構警察](https://zh.wikipedia.org/wiki/Category:虛構警察 "wikilink") [Category:DC漫畫作品](https://zh.wikipedia.org/wiki/Category:DC漫畫作品 "wikilink") [Category:可以超人類速度移動的DC漫畫角色](https://zh.wikipedia.org/wiki/Category:可以超人類速度移動的DC漫畫角色 "wikilink") [Category:由葛蘭·莫瑞森創作的角色](https://zh.wikipedia.org/wiki/Category:由葛蘭·莫瑞森創作的角色 "wikilink")
 
 1.
 

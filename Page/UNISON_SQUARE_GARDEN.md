@@ -1,5 +1,4 @@
-**UNISON SQUARE
-GARDEN**，[日本的三人](../Page/日本.md "wikilink")[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")，2004年结成，隶属[日本索尼音乐娱乐旗下](https://zh.wikipedia.org/wiki/日本索尼音乐娱乐 "wikilink")。简称“Unizon”、“USG”。官方粉丝团名为“UNICITY”。
+**UNISON SQUARE GARDEN**，[日本](../Page/日本.md "wikilink")的三人[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")，2004年结成，隶属[日本索尼音乐娱乐旗下](https://zh.wikipedia.org/wiki/日本索尼音乐娱乐 "wikilink")。简称“Unizon”、“USG”。官方粉丝团名为“UNICITY”。
 
 ## 成员
 
@@ -10,7 +9,7 @@ GARDEN**，[日本的三人](../Page/日本.md "wikilink")[摇滚乐队](https:/
   -
 
       -
-        主音，吉他。出生于[美国](../Page/美国.md "wikilink")[纽约州](../Page/纽约州.md "wikilink")[威斯特徹斯特县](../Page/威斯特徹斯特郡.md "wikilink")，4岁之前都在美国生活，之后辗转[新加坡等多地](../Page/新加坡.md "wikilink")。日本[早稻田大学毕业](../Page/早稻田大学.md "wikilink")。
+        主音，吉他。出生于[美国](../Page/美国.md "wikilink")[纽约州](../Page/纽约州.md "wikilink")[威斯特徹斯特县](../Page/威斯特徹斯特郡.md "wikilink")，4岁之前都在美国生活，之后辗转[新加坡](../Page/新加坡.md "wikilink")等多地。日本[早稻田大学](../Page/早稻田大学.md "wikilink")毕业。
 
 <!-- end list -->
 
@@ -21,7 +20,7 @@ GARDEN**，[日本的三人](../Page/日本.md "wikilink")[摇滚乐队](https:/
   -
 
       -
-        贝司，和声、作词、作曲。出生于日本[东京](../Page/东京.md "wikilink")。日本早稻田大学毕业。田渊与斋藤是高中同学，与铃木是小学同学。2015年田渊与[畑亚贵](../Page/畑亞貴.md "wikilink")、田代智一、黑须克彦三位音乐制作人结成[Q-MHz组合](../Page/Q-MHz.md "wikilink")。
+        贝司，和声、作词、作曲。出生于日本[东京](../Page/东京.md "wikilink")。日本早稻田大学毕业。田渊与斋藤是高中同学，与铃木是小学同学。2015年田渊与[畑亚贵](../Page/畑亞貴.md "wikilink")、田代智一、黑须克彦三位音乐制作人结成[Q-MHz](../Page/Q-MHz.md "wikilink")组合。
 
 <!-- end list -->
 
@@ -36,19 +35,15 @@ GARDEN**，[日本的三人](../Page/日本.md "wikilink")[摇滚乐队](https:/
 
 ## 经历
 
-  - 2004年7月，斋藤召集田渊与铃木结成乐队。同月参加TEENS' MUSIC
-    FESTIVAL乐器店大会获得大奖。9月，乐队改名“UNISON
-    SQUARE GARDEN”。
+  - 2004年7月，斋藤召集田渊与铃木结成乐队。同月参加TEENS' MUSIC FESTIVAL乐器店大会获得大奖。9月，乐队改名“UNISON SQUARE GARDEN”。
   - 2005年，制作并发售了两枚试听CD。
   - 2007年12月，举办首场专场演唱会，约250人到场。
   - 2008年1月，发售两张迷你专辑。
-  - 2008年7月，与[TOY'S
-    FACTORY唱片公司签约并正式出道](../Page/TOY'S_FACTORY.md "wikilink")。同时发售第一张单曲。
+  - 2008年7月，与[TOY'S FACTORY唱片公司签约并正式出道](../Page/TOY'S_FACTORY.md "wikilink")。同时发售第一张单曲。
   - 2009年3月，第一首配信单曲发售。4月，第一张完整专辑发售。开始全国22个场所的巡回演唱会（其中6场为专场）。
   - 2010年4月，发售第二张专辑。5月，开始全国13个场所的专场演唱会。
   - 2011年5月，第五张单曲发售，销量首次突破1万张。7月，第三张专辑发售。
-  - 2014年2月，首次参加朝日电视台“[MUSIC
-    STATION](../Page/MUSIC_STATION.md "wikilink")”节目。3月，主唱斋藤因手术发表暂停活动通告。
+  - 2014年2月，首次参加朝日电视台“[MUSIC STATION](../Page/MUSIC_STATION.md "wikilink")”节目。3月，主唱斋藤因手术发表暂停活动通告。
   - 2015年7月，发售10周年纪念专辑并在[日本武道馆举行单独演出](../Page/日本武道館.md "wikilink")。同月参加日本电视台“バズリズム”节目。
   - 2016年7月-12月，开始乐队史上最长的全国40个场所共计44场的巡回演唱会。
 
@@ -309,7 +304,4 @@ GARDEN**，[日本的三人](../Page/日本.md "wikilink")[摇滚乐队](https:/
   -
   - [TOY'S FACTORY](http://www.toysfactory.co.jp/artist/usg)
 
-[Category:日本乐团](https://zh.wikipedia.org/wiki/Category:日本乐团 "wikilink")
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:日本男子演唱团体](https://zh.wikipedia.org/wiki/Category:日本男子演唱团体 "wikilink")
-[Category:TOY'S_FACTORY旗下藝人](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY旗下藝人 "wikilink")
+[Category:日本乐团](https://zh.wikipedia.org/wiki/Category:日本乐团 "wikilink") [Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:日本男子演唱团体](https://zh.wikipedia.org/wiki/Category:日本男子演唱团体 "wikilink") [Category:TOY'S_FACTORY旗下藝人](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY旗下藝人 "wikilink")

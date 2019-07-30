@@ -1,13 +1,8 @@
-《**Tasty Road**》（韓語：테이스티 로드）是韓國[Olive
-TV電視台製作的綜藝節目](https://zh.wikipedia.org/wiki/Olive_TV "wikilink")，第一季至第六季均由[朴秀真夥拍不同搭檔主持節目](../Page/朴秀真.md "wikilink")，包括諧星朴智宣、[金成恩](../Page/金成恩.md "wikilink")、[Lizzy](https://zh.wikipedia.org/wiki/Lizzy "wikilink")（[After
-School](../Page/After_School.md "wikilink")）\[1\]。隨著《Tasty Road
-2015》（亦即本節目系列之第六季）播出完畢，[朴秀真亦宣布告別節目](../Page/朴秀真.md "wikilink")，[Lizzy亦同時退出](https://zh.wikipedia.org/wiki/Lizzy "wikilink")。《Tasty
-Road 2016》改由[Yura](../Page/Yura.md "wikilink")（[Girl's
-Day](../Page/Girl's_Day.md "wikilink")）、[金玟廷主持](../Page/金玟廷.md "wikilink")。節目每集會指定尋找的韓國美食，並邀請藝人擔任來賓，一同與主持達成目標\[2\]。
+《**Tasty Road**》（韓語：테이스티 로드）是韓國[Olive TV電視台製作的綜藝節目](https://zh.wikipedia.org/wiki/Olive_TV "wikilink")，第一季至第六季均由[朴秀真](../Page/朴秀真.md "wikilink")夥拍不同搭檔主持節目，包括諧星朴智宣、[金成恩](../Page/金成恩.md "wikilink")、[Lizzy](https://zh.wikipedia.org/wiki/Lizzy "wikilink")（[After School](../Page/After_School.md "wikilink")）\[1\]。隨著《Tasty Road 2015》（亦即本節目系列之第六季）播出完畢，[朴秀真](../Page/朴秀真.md "wikilink")亦宣布告別節目，[Lizzy亦同時退出](https://zh.wikipedia.org/wiki/Lizzy "wikilink")。《Tasty Road 2016》改由[Yura](../Page/Yura.md "wikilink")（[Girl's Day](../Page/Girl's_Day.md "wikilink")）、[金玟廷](../Page/金玟廷.md "wikilink")主持。節目每集會指定尋找的韓國美食，並邀請藝人擔任來賓，一同與主持達成目標\[2\]。
 
 ## 節目播出相關事件
 
-主持人[朴秀真因婚事](../Page/朴秀真.md "wikilink")，而讓製作單位取消外景而改於室內拍攝\[3\]\[4\]，其後[朴秀真正式請辭](../Page/朴秀真.md "wikilink")\[5\]。
+主持人[朴秀真](../Page/朴秀真.md "wikilink")因婚事，而讓製作單位取消外景而改於室內拍攝\[3\]\[4\]，其後[朴秀真](../Page/朴秀真.md "wikilink")正式請辭\[5\]。
 
 ## 各集資訊
 
@@ -187,10 +182,7 @@ Day](../Page/Girl's_Day.md "wikilink")）、[金玟廷主持](../Page/金玟廷.
 
 ## 參考資料
 
-[Category:Olive_TV](https://zh.wikipedia.org/wiki/Category:Olive_TV "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink")
+[Category:Olive_TV](https://zh.wikipedia.org/wiki/Category:Olive_TV "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink")
 
 1.
 2.

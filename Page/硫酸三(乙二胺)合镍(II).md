@@ -2,7 +2,7 @@
 
 ## 制备
 
-该配合物由[硫酸镍和](../Page/硫酸镍.md "wikilink")[乙二胺反应得到](../Page/乙二胺.md "wikilink")。
+该配合物由[硫酸镍](../Page/硫酸镍.md "wikilink")和[乙二胺](../Page/乙二胺.md "wikilink")反应得到。
 
 ## 化学性质
 
@@ -12,13 +12,8 @@
 
 ## 外部链接
 
-[Category:乙二胺配合物](https://zh.wikipedia.org/wiki/Category:乙二胺配合物 "wikilink")
-[Category:镍配合物](https://zh.wikipedia.org/wiki/Category:镍配合物 "wikilink")
-[Category:硫酸盐](https://zh.wikipedia.org/wiki/Category:硫酸盐 "wikilink")
+[Category:乙二胺配合物](https://zh.wikipedia.org/wiki/Category:乙二胺配合物 "wikilink") [Category:镍配合物](https://zh.wikipedia.org/wiki/Category:镍配合物 "wikilink") [Category:硫酸盐](https://zh.wikipedia.org/wiki/Category:硫酸盐 "wikilink")
 
-1.  CN Caughlan, M-ul-Haque, K Emerson. Crystal and molecular structure
-    of tris(ethylenediamine)nickel(II) sulfate,
-    Ni(NH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub>)<sub>3</sub>SO<sub>4</sub>.
-    Inorganic Chemistry, 1970, 9 (11): 2421-2424
+1.  CN Caughlan, M-ul-Haque, K Emerson. Crystal and molecular structure of tris(ethylenediamine)nickel(II) sulfate, Ni(NH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub>)<sub>3</sub>SO<sub>4</sub>. Inorganic Chemistry, 1970, 9 (11): 2421-2424
 2.
 3.

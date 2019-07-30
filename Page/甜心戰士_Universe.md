@@ -1,12 +1,8 @@
-《**甜心戰士 Universe**》（Cutie Honey
-Universe）為改編自日本[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[永井豪的作品](../Page/永井豪.md "wikilink")《[甜心戰士](../Page/甜心戰士.md "wikilink")》的系列動畫，於2018年4月播出。與《[惡魔人Crybaby](https://zh.wikipedia.org/wiki/惡魔人 "wikilink")》、《[劇場版
-無敵鐵金剛 /
-INFINITY](https://zh.wikipedia.org/wiki/劇場版_無敵鐵金剛_/_INFINITY "wikilink")》同為紀念永井豪出道50周年的作品。
+《**甜心戰士 Universe**》（Cutie Honey Universe）為改編自日本[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[永井豪](../Page/永井豪.md "wikilink")的作品《[甜心戰士](../Page/甜心戰士.md "wikilink")》的系列動畫，於2018年4月播出。與《[惡魔人Crybaby](https://zh.wikipedia.org/wiki/惡魔人 "wikilink")》、《[劇場版 無敵鐵金剛 / INFINITY](https://zh.wikipedia.org/wiki/劇場版_無敵鐵金剛_/_INFINITY "wikilink")》同為紀念永井豪出道50周年的作品。
 
 ## 作品概要
 
-本作以原作漫畫為基礎，但劇情仍為了編劇需要而作出許多調整，比如姊妹吉爾不再只是隱藏在幕後的反派標誌套路，而是會化身成人類臥底在PCI內部，並且偷偷觀察如月甜心；而一線男主角早見青兒的角色設定從原作的記者，變成PCIS的成員。
-聲優[坂本真綾擔演第七代的如月甜心](https://zh.wikipedia.org/wiki/坂本真綾 "wikilink")，而閨蜜角色秋夏子則由上一代如月甜心的聲優[堀江由衣擔任](../Page/堀江由衣.md "wikilink")，而本作的如月甜心所變身的五種身分，都由其他五位聲優演出。
+本作以原作漫畫為基礎，但劇情仍為了編劇需要而作出許多調整，比如姊妹吉爾不再只是隱藏在幕後的反派標誌套路，而是會化身成人類臥底在PCI內部，並且偷偷觀察如月甜心；而一線男主角早見青兒的角色設定從原作的記者，變成PCIS的成員。 聲優[坂本真綾擔演第七代的如月甜心](https://zh.wikipedia.org/wiki/坂本真綾 "wikilink")，而閨蜜角色秋夏子則由上一代如月甜心的聲優[堀江由衣](../Page/堀江由衣.md "wikilink")擔任，而本作的如月甜心所變身的五種身分，都由其他五位聲優演出。
 
 ## 劇情大綱
 
@@ -105,8 +101,7 @@ INFINITY](https://zh.wikipedia.org/wiki/劇場版_無敵鐵金剛_/_INFINITY "wi
   - 音響監督：
   - 錄音調整：菊池一之
   - 音響效果：今野康之
-  - 音響製作：[PONYCANYON
-    ENTERPRISE](https://zh.wikipedia.org/wiki/PONYCANYON_ENTERPRISE "wikilink")
+  - 音響製作：[PONYCANYON ENTERPRISE](https://zh.wikipedia.org/wiki/PONYCANYON_ENTERPRISE "wikilink")
   - 音樂：[中山真斗](../Page/中山真斗.md "wikilink")（F.M.F）
   - 音樂製作人：磯山敦
   - 音樂製作：[EXIT TUNES](../Page/EXIT_TUNES.md "wikilink")
@@ -273,9 +268,4 @@ INFINITY](https://zh.wikipedia.org/wiki/劇場版_無敵鐵金剛_/_INFINITY "wi
 
   - [甜心戰士Universe 官網](http://cutiehoney-u.com/)
 
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
-[Category:PRODUCTION_REED](https://zh.wikipedia.org/wiki/Category:PRODUCTION_REED "wikilink")
-[Category:重製動畫](https://zh.wikipedia.org/wiki/Category:重製動畫 "wikilink")
-[Category:永井豪](https://zh.wikipedia.org/wiki/Category:永井豪 "wikilink")
-[Category:甜心戰士](https://zh.wikipedia.org/wiki/Category:甜心戰士 "wikilink")
-[Category:變身英雄](https://zh.wikipedia.org/wiki/Category:變身英雄 "wikilink")
+[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:PRODUCTION_REED](https://zh.wikipedia.org/wiki/Category:PRODUCTION_REED "wikilink") [Category:重製動畫](https://zh.wikipedia.org/wiki/Category:重製動畫 "wikilink") [Category:永井豪](https://zh.wikipedia.org/wiki/Category:永井豪 "wikilink") [Category:甜心戰士](https://zh.wikipedia.org/wiki/Category:甜心戰士 "wikilink") [Category:變身英雄](https://zh.wikipedia.org/wiki/Category:變身英雄 "wikilink")

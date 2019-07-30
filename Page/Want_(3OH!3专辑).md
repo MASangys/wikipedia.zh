@@ -1,9 +1,8 @@
-《**Want**》是美國[電子流行組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[3OH\!3的第二張專輯](../Page/3OH!3.md "wikilink")。這是他們第一張與[照片完成唱片合作的唱片](https://zh.wikipedia.org/wiki/照片完成唱片 "wikilink")。專輯由[麥特·斯奎爾和](https://zh.wikipedia.org/wiki/麥特·斯奎爾 "wikilink")[3OH\!3製作](../Page/3OH!3.md "wikilink")。歌曲《Punkbitch》在[2008年Warped巡迴演唱會中出現](https://zh.wikipedia.org/wiki/2008年Warped巡迴演唱會 "wikilink")。
+《**Want**》是美國[電子流行組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[3OH\!3](../Page/3OH!3.md "wikilink")的第二張專輯。這是他們第一張與[照片完成唱片合作的唱片](https://zh.wikipedia.org/wiki/照片完成唱片 "wikilink")。專輯由[麥特·斯奎爾和](https://zh.wikipedia.org/wiki/麥特·斯奎爾 "wikilink")[3OH\!3](../Page/3OH!3.md "wikilink")製作。歌曲《Punkbitch》在[2008年Warped巡迴演唱會中出現](https://zh.wikipedia.org/wiki/2008年Warped巡迴演唱會 "wikilink")。
 
 ## 曲目列表
 
-所有歌曲均由[肖恩·福爾曼和](../Page/3OH!3.md "wikilink")[納撒尼爾·莫特創作和製作](../Page/3OH!3.md "wikilink")，而[麥特·斯奎爾同時參與製作](https://zh.wikipedia.org/wiki/麥特·斯奎爾 "wikilink")。[班尼·布蘭科為](https://zh.wikipedia.org/wiki/班尼·布蘭科 "wikilink")《Don't
-Trust Me》和《Richman》的共同創作和製作人\[1\]。
+所有歌曲均由[肖恩·福爾曼和](../Page/3OH!3.md "wikilink")[納撒尼爾·莫特創作和製作](../Page/3OH!3.md "wikilink")，而[麥特·斯奎爾同時參與製作](https://zh.wikipedia.org/wiki/麥特·斯奎爾 "wikilink")。[班尼·布蘭科為](https://zh.wikipedia.org/wiki/班尼·布蘭科 "wikilink")《Don't Trust Me》和《Richman》的共同創作和製作人\[1\]。
 
 ## 榜單成績
 
@@ -47,9 +46,7 @@ Trust Me》和《Richman》的共同創作和製作人\[1\]。
 
 [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
 
-1.  [3OH\!3 - Want (Back
-    Cover)](http://www.coveralia.com/caratulas/3oh-3-Want-Trasera.php).
-    *Coveralia.com*. Retrieved February 18, 2015.
+1.  [3OH\!3 - Want (Back Cover)](http://www.coveralia.com/caratulas/3oh-3-Want-Trasera.php). *Coveralia.com*. Retrieved February 18, 2015.
 2.  <http://pandora.nla.gov.au/pan/23790/20090520-0000/issue1001.pdf>
 3.  <http://jam.canoe.ca/Music/Charts/ALBUMS.html>
 4.  <https://archive.is/20120723142539/http://www.chartstats.com/albuminfo.php?id=14592>

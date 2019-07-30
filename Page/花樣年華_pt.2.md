@@ -1,18 +1,10 @@
-《**花樣年華
-pt.2**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[防彈少年團第四張韓語迷你專輯](../Page/防彈少年團.md "wikilink")，為「青春二部曲」系列專輯的第二部曲。2015年11月30日由[Big
-Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")\[1\]，主打曲目為《RUN》。
+《**花樣年華 pt.2**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[防彈少年團](../Page/防彈少年團.md "wikilink")第四張韓語迷你專輯，為「青春二部曲」系列專輯的第二部曲。2015年11月30日由[Big Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")\[1\]，主打曲目為《RUN》。
 
 ## 簡介
 
-  - 2015年9月8日，團體在Naver V App與tvcast發布《花樣年華 on stage :
-    prologue》影片，當時預告《花樣年華
-    pt.2》將會在10月推出\[2\]，隨後10月28日[Big
-    Hit娛樂敲定](../Page/Big_Hit娛樂.md "wikilink")11月30日發行新專輯，並預先在11月27到29日舉行的《花樣年華
-    on stage》演唱會表演新曲\[3\]。
-    11月18日，團體在官方[Youtube頻道上傳Intro曲](https://zh.wikipedia.org/wiki/Youtube "wikilink")〈Never
-    Mind〉的動畫音樂錄影帶\[4\]，緊接在11月23日及24日發放兩批專輯概念照\[5\]\[6\]，並於11月26日公開完整專輯曲目名單\[7\]。
-  - 此張專輯於發行6週後攀上[美國告示牌世界專輯榜冠軍寶座](../Page/告示牌_\(雜誌\).md "wikilink")，取得K-POP史上在美國告示牌世界專輯榜的最初逆行。接著蟬聯4週冠軍，之後連續15週TOP
-    10，讓防彈少年團成為同一專輯最長時間位居第一名和最長期間TOP 10紀錄保持人\[8\]。
+  - 2015年9月8日，團體在Naver V App與tvcast發布《花樣年華 on stage : prologue》影片，當時預告《花樣年華 pt.2》將會在10月推出\[2\]，隨後10月28日[Big Hit娛樂敲定](../Page/Big_Hit娛樂.md "wikilink")11月30日發行新專輯，並預先在11月27到29日舉行的《花樣年華 on stage》演唱會表演新曲\[3\]。
+    11月18日，團體在官方[Youtube頻道上傳Intro曲](https://zh.wikipedia.org/wiki/Youtube "wikilink")〈Never Mind〉的動畫音樂錄影帶\[4\]，緊接在11月23日及24日發放兩批專輯概念照\[5\]\[6\]，並於11月26日公開完整專輯曲目名單\[7\]。
+  - 此張專輯於發行6週後攀上[美國告示牌世界專輯榜冠軍寶座](../Page/告示牌_\(雜誌\).md "wikilink")，取得K-POP史上在美國告示牌世界專輯榜的最初逆行。接著蟬聯4週冠軍，之後連續15週TOP 10，讓防彈少年團成為同一專輯最長時間位居第一名和最長期間TOP 10紀錄保持人\[8\]。
 
 ## 曲目
 
@@ -155,7 +147,7 @@ Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https
 
 #### 韓國版
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
 | ---------------------------------------- | ---- | ------ | ------- | ---- |
 | 專輯日榜                                     | \-   | \-     | 14,051+ | 2星期  |
 | 專輯週榜                                     | 29   | 3,890  |         |      |
@@ -163,7 +155,7 @@ Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https
 
 #### 日本版
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置     | 銷售量   | 總銷量    | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置     | 銷售量   | 總銷量    | 停留時間 |
 | ---------------------------------------- | -------- | ----- | ------ | ---- |
 | 專輯日榜                                     | 22\[13\] | \-    | 1,995+ | 1星期  |
 | 專輯週榜                                     | 45\[14\] | 1,995 |        |      |
@@ -236,12 +228,7 @@ Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https
 
 ## 參考資料
 
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:防彈少年團音樂專輯](https://zh.wikipedia.org/wiki/Category:防彈少年團音樂專輯 "wikilink")
-[Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2015年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯月榜冠軍作品 "wikilink")
-[Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:防彈少年團音樂專輯](https://zh.wikipedia.org/wiki/Category:防彈少年團音樂專輯 "wikilink") [Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink") [Category:2015年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯月榜冠軍作品 "wikilink") [Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 

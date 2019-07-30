@@ -1,5 +1,4 @@
-**King &
-Prince**是[日本六人](../Page/日本.md "wikilink")[偶像](../Page/偶像_\(日本\).md "wikilink")[男子组合](../Page/男子音乐组合.md "wikilink")，所屬經紀公司為[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")\[1\]。2015年结成，最初名為“”。2018年5月23日發行首張單曲《》並正式出道。所屬唱片公司為傑尼斯環球\[2\]。隊長為[岸優太](../Page/岸優太.md "wikilink")。團體簡稱為“”。\[3\]
+**King & Prince**是[日本](../Page/日本.md "wikilink")六人[偶像](../Page/偶像_\(日本\).md "wikilink")[男子组合](../Page/男子音乐组合.md "wikilink")，所屬經紀公司為[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")\[1\]。2015年结成，最初名為“”。2018年5月23日發行首張單曲《》並正式出道。所屬唱片公司為傑尼斯環球\[2\]。隊長為[岸優太](../Page/岸優太.md "wikilink")。團體簡稱為“”。\[3\]
 
 ## 組合成員
 
@@ -28,7 +27,7 @@ Prince**是[日本六人](../Page/日本.md "wikilink")[偶像](../Page/偶像_\
 <td><p>真紅</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/永瀨廉" title="wikilink">永瀨廉</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/永瀨廉" title="wikilink">永瀨廉</a></p></td>
 <td></td>
 <td></td>
 <td><p>日本<a href="https://zh.wikipedia.org/wiki/东京都" title="wikilink">東京都</a></p></td>
@@ -37,7 +36,7 @@ Prince**是[日本六人](../Page/日本.md "wikilink")[偶像](../Page/偶像_\
 <td><p>漆黑</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/高桥海人" title="wikilink">高橋海人</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高桥海人" title="wikilink">高橋海人</a></p></td>
 <td></td>
 <td></td>
 <td><p>日本<a href="https://zh.wikipedia.org/wiki/神奈川县" title="wikilink">神奈川縣</a></p></td>
@@ -64,7 +63,7 @@ Prince**是[日本六人](../Page/日本.md "wikilink")[偶像](../Page/偶像_\
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="../Page/岸優太.md" title="wikilink">岸優太</a></strong></p></td>
+<td><p><a href="../Page/岸優太.md" title="wikilink">岸優太</a></p></td>
 <td></td>
 <td></td>
 <td><p>日本<a href="https://zh.wikipedia.org/wiki/琦玉县" title="wikilink">琦玉縣</a></p></td>
@@ -73,7 +72,7 @@ Prince**是[日本六人](../Page/日本.md "wikilink")[偶像](../Page/偶像_\
 <td><p>紫式部[7]</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/岩橋玄樹.md" title="wikilink">岩橋玄樹</a></strong></p></td>
+<td><p><a href="../Page/岩橋玄樹.md" title="wikilink">岩橋玄樹</a></p></td>
 <td></td>
 <td></td>
 <td><p>日本<a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
@@ -82,7 +81,7 @@ Prince**是[日本六人](../Page/日本.md "wikilink")[偶像](../Page/偶像_\
 <td><p>桃紅</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/神宫寺勇太.md" title="wikilink">神宫寺勇太</a></strong></p></td>
+<td><p><a href="../Page/神宫寺勇太.md" title="wikilink">神宫寺勇太</a></p></td>
 <td></td>
 <td></td>
 <td><p>日本<a href="https://zh.wikipedia.org/wiki/千叶县" title="wikilink">千葉縣</a></p></td>
@@ -302,8 +301,7 @@ UPCJ-9010</p></td>
 
 ### 舞台劇
 
-  - JOHNNYS' King＆Prince Island
-    (2018年12月6日-2019年1月27日，[帝國劇場](../Page/帝國劇場.md "wikilink"))
+  - JOHNNYS' King＆Prince Island (2018年12月6日-2019年1月27日，[帝國劇場](../Page/帝國劇場.md "wikilink"))
 
 ## 參考資料
 
@@ -313,13 +311,9 @@ UPCJ-9010</p></td>
 
 ## 外部連結
 
-  - [杰尼斯事务所 ＞ King &
-    Prince](http://www.johnnys-net.jp/page?id=artistTop&artist=41)
+  - [杰尼斯事务所 ＞ King & Prince](http://www.johnnys-net.jp/page?id=artistTop&artist=41)
 
-[Category:King_&_Prince](https://zh.wikipedia.org/wiki/Category:King_&_Prince "wikilink")
-[Category:傑尼斯事務所正式團體](https://zh.wikipedia.org/wiki/Category:傑尼斯事務所正式團體 "wikilink")
-[Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink")
-[Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
+[Category:King_&_Prince](https://zh.wikipedia.org/wiki/Category:King_&_Prince "wikilink") [Category:傑尼斯事務所正式團體](https://zh.wikipedia.org/wiki/Category:傑尼斯事務所正式團體 "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink") [Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
 
 1.
 2.

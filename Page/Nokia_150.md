@@ -1,5 +1,4 @@
-**Nokia 150**是[HMD
-Global生產的](../Page/HMD_Global.md "wikilink")[Nokia直立式](https://zh.wikipedia.org/wiki/Nokia "wikilink")[功能型手機](../Page/功能型手機.md "wikilink")，2016年12月13日發布。\[1\]\[2\]
+**Nokia 150**是[HMD Global生產的](../Page/HMD_Global.md "wikilink")[Nokia直立式](https://zh.wikipedia.org/wiki/Nokia "wikilink")[功能型手機](../Page/功能型手機.md "wikilink")，2016年12月13日發布。\[1\]\[2\]
 
 ## 規格
 
@@ -48,8 +47,7 @@ Global生產的](../Page/HMD_Global.md "wikilink")[Nokia直立式](https://zh.wi
 
   - [Nokia 150——香港](https://www.nokia.com/zh_hk/phones/nokia-150)
 
-[Category:诺基亚手机](https://zh.wikipedia.org/wiki/Category:诺基亚手机 "wikilink")
-[Category:HMD_Global](https://zh.wikipedia.org/wiki/Category:HMD_Global "wikilink")
+[Category:诺基亚手机](https://zh.wikipedia.org/wiki/Category:诺基亚手机 "wikilink") [Category:HMD_Global](https://zh.wikipedia.org/wiki/Category:HMD_Global "wikilink")
 
 1.  <https://www.techbang.com/posts/48171>
 2.  <https://lpcomment.com/2016/12/14/hmd-announced-nokia-150/>

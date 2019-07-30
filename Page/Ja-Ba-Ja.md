@@ -1,10 +1,8 @@
-《**Ja-Ba-Ja**》（）\[1\]為日本女子偶像團體[AKB48的第](../Page/AKB48.md "wikilink")51張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")\[2\]，於2018年3月14日由[國王唱片發行](../Page/國王唱片.md "wikilink")。收錄歌曲均由[秋元康作詞](../Page/秋元康.md "wikilink")，同名[標題曲由](../Page/A面與B面.md "wikilink")[岡田奈奈擔任](../Page/岡田奈奈_\(AKB48\).md "wikilink")[Center](https://zh.wikipedia.org/wiki/AKB48組合構成#中心位置 "wikilink")（中心成員）\[3\]。
+《**Ja-Ba-Ja**》（）\[1\]為日本女子偶像團體[AKB48](../Page/AKB48.md "wikilink")的第51張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")\[2\]，於2018年3月14日由[國王唱片](../Page/國王唱片.md "wikilink")發行。收錄歌曲均由[秋元康](../Page/秋元康.md "wikilink")作詞，同名[標題曲由](../Page/A面與B面.md "wikilink")[岡田奈奈擔任](../Page/岡田奈奈_\(AKB48\).md "wikilink")[Center](https://zh.wikipedia.org/wiki/AKB48組合構成#中心位置 "wikilink")（中心成員）\[3\]。
 
 ## 發行背景
 
-本作為前作《[11月的腳鏈](https://zh.wikipedia.org/wiki/11月的腳鏈 "wikilink")》發行約4個月後之2018年第1張單曲。2018年1月20日於[東京巨蛋城表演廳舉辦的](https://zh.wikipedia.org/wiki/東京巨蛋城表演廳 "wikilink")「AKB48家族
-重溫時間 最佳曲目100
-2018」最終場公演中公布選拔成員及[Center](https://zh.wikipedia.org/wiki/AKB48組合構成#中心位置 "wikilink")（中心成員）\[4\]。岡田奈奈首度擔任單曲標題曲的Center，[太田夢莉](../Page/太田夢莉.md "wikilink")（[NMB48](../Page/NMB48.md "wikilink")）、[倉野尾成美](../Page/倉野尾成美.md "wikilink")、[馬嘉伶](../Page/馬嘉伶.md "wikilink")、[村山彩希等](../Page/村山彩希.md "wikilink")4人則首度獲選為AKB48單曲的選拔成員\[5\]，[込山榛香是繼](../Page/込山榛香.md "wikilink")《[空有願望](../Page/空有願望.md "wikilink")》以來第3度重回選拔成員行列。前作選拔成員中，[渡邊麻友已自AKB](../Page/渡邊麻友.md "wikilink")48畢業，[北原里英](../Page/北原里英.md "wikilink")（NGT48）已宣布畢業，[兒玉遙](../Page/兒玉遙.md "wikilink")（HKT48）暫停活動中，[峯岸南](../Page/峯岸南.md "wikilink")、山本彩加（NMB48）、[吉田朱里](../Page/吉田朱里.md "wikilink")（NMB48）皆未獲入選。歌曲於2018年2月22日現場播出的[日本放送深夜廣播節目](../Page/日本放送.md "wikilink")「」首次公開披露\[6\]，MV與專輯封面則在同月28日公開\[7\]。
+本作為前作《[11月的腳鏈](https://zh.wikipedia.org/wiki/11月的腳鏈 "wikilink")》發行約4個月後之2018年第1張單曲。2018年1月20日於[東京巨蛋城表演廳舉辦的](https://zh.wikipedia.org/wiki/東京巨蛋城表演廳 "wikilink")「AKB48家族 重溫時間 最佳曲目100 2018」最終場公演中公布選拔成員及[Center](https://zh.wikipedia.org/wiki/AKB48組合構成#中心位置 "wikilink")（中心成員）\[4\]。岡田奈奈首度擔任單曲標題曲的Center，[太田夢莉](../Page/太田夢莉.md "wikilink")（[NMB48](../Page/NMB48.md "wikilink")）、[倉野尾成美](../Page/倉野尾成美.md "wikilink")、[馬嘉伶](../Page/馬嘉伶.md "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")等4人則首度獲選為AKB48單曲的選拔成員\[5\]，[込山榛香](../Page/込山榛香.md "wikilink")是繼《[空有願望](../Page/空有願望.md "wikilink")》以來第3度重回選拔成員行列。前作選拔成員中，[渡邊麻友](../Page/渡邊麻友.md "wikilink")已自AKB48畢業，[北原里英](../Page/北原里英.md "wikilink")（NGT48）已宣布畢業，[兒玉遙](../Page/兒玉遙.md "wikilink")（HKT48）暫停活動中，[峯岸南](../Page/峯岸南.md "wikilink")、山本彩加（NMB48）、[吉田朱里](../Page/吉田朱里.md "wikilink")（NMB48）皆未獲入選。歌曲於2018年2月22日現場播出的[日本放送](../Page/日本放送.md "wikilink")深夜廣播節目「」首次公開披露\[6\]，MV與專輯封面則在同月28日公開\[7\]。
 
 ## 封面寫真
 
@@ -46,29 +44,23 @@ Type A・B・C・D・E皆有初回限定盤及通常盤2種版本，各版本的
 
 （中心成員：岡田奈奈）
 
-  - Team
-    A：[入山杏奈](../Page/入山杏奈.md "wikilink")、[橫山由依](../Page/橫山由依.md "wikilink")
+  - Team A：[入山杏奈](../Page/入山杏奈.md "wikilink")、[橫山由依](../Page/橫山由依.md "wikilink")
   - Team A／NMB48 Team M：[白間美瑠](../Page/白間美瑠.md "wikilink")
   - Team A／HKT48 Team KIV：[宮脇咲良](../Page/宮脇咲良.md "wikilink")
   - Team K：[向井地美音](../Page/向井地美音.md "wikilink")
-  - Team
-    B：[加藤玲奈](../Page/加藤玲奈_\(AKB48\).md "wikilink")、[馬嘉伶](../Page/馬嘉伶.md "wikilink")
+  - Team B：[加藤玲奈](../Page/加藤玲奈_\(AKB48\).md "wikilink")、[馬嘉伶](../Page/馬嘉伶.md "wikilink")
   - Team B／NGT48 Team NIII：[柏木由紀](../Page/柏木由紀.md "wikilink")
-  - Team
-    4：[小嶋真子](../Page/小嶋真子.md "wikilink")、[込山榛香](../Page/込山榛香.md "wikilink")、[高橋朱里](../Page/高橋朱里.md "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")
+  - Team 4：[小嶋真子](../Page/小嶋真子.md "wikilink")、[込山榛香](../Page/込山榛香.md "wikilink")、[高橋朱里](../Page/高橋朱里.md "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")
   - Team 4／STU48：[岡田奈奈](../Page/岡田奈奈_\(AKB48\).md "wikilink")
-  - Team
-    8：[岡部麟](../Page/岡部麟.md "wikilink")、[小栗有以](../Page/小栗有以.md "wikilink")、[倉野尾成美](../Page/倉野尾成美.md "wikilink")
+  - Team 8：[岡部麟](../Page/岡部麟.md "wikilink")、[小栗有以](../Page/小栗有以.md "wikilink")、[倉野尾成美](../Page/倉野尾成美.md "wikilink")
   - SKE48 Team S：[松井珠理奈](../Page/松井珠理奈.md "wikilink")
   - SKE48 Team KII：[小畑優奈](../Page/小畑優奈.md "wikilink")
   - SKE48 Team E：[須田亞香里](../Page/須田亞香里.md "wikilink")
   - NMB48 Team N：[山本彩](../Page/山本彩.md "wikilink")
   - NMB48 Team BII：[太田夢莉](../Page/太田夢莉.md "wikilink")
-  - HKT48 Team
-    H：[指原莉乃](../Page/指原莉乃.md "wikilink")、[田中美久](../Page/田中美久_\(HKT48\).md "wikilink")
+  - HKT48 Team H：[指原莉乃](../Page/指原莉乃.md "wikilink")、[田中美久](../Page/田中美久_\(HKT48\).md "wikilink")
   - HKT48 Team TII：[松岡花](../Page/松岡花.md "wikilink")
-  - NGT48 Team
-    NIII：[荻野由佳](../Page/荻野由佳.md "wikilink")、[中井莉加](../Page/中井莉加.md "wikilink")
+  - NGT48 Team NIII：[荻野由佳](../Page/荻野由佳.md "wikilink")、[中井莉加](../Page/中井莉加.md "wikilink")
   - STU48：[瀧野由美子](../Page/瀧野由美子.md "wikilink")
 
 ### 踏板與車輪的來時路
@@ -88,8 +80,7 @@ Type A・B・C・D・E皆有初回限定盤及通常盤2種版本，各版本的
 
   - Team 4／SKE48 Team S：[北川綾巴](../Page/北川綾巴.md "wikilink")
   - SKE48 Team S：松井珠理奈
-  - SKE48 Team
-    KII：[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、小畑優奈、北野瑠華、[惣田紗莉渚](../Page/惣田紗莉渚.md "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[竹內彩姫](https://zh.wikipedia.org/wiki/竹內彩姫 "wikilink")、日高優月、[古畑奈和](../Page/古畑奈和.md "wikilink")
+  - SKE48 Team KII：[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、小畑優奈、北野瑠華、[惣田紗莉渚](../Page/惣田紗莉渚.md "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[竹內彩姫](https://zh.wikipedia.org/wiki/竹內彩姫 "wikilink")、日高優月、[古畑奈和](../Page/古畑奈和.md "wikilink")
   - SKE48 Team E：[鎌田菜月](../Page/鎌田菜月.md "wikilink")、熊崎晴香、末永櫻花、菅原茉椰、須田亞香里
 
 ### 犯蠢
@@ -100,10 +91,8 @@ Type A・B・C・D・E皆有初回限定盤及通常盤2種版本，各版本的
 
   - Team A／NMB48 Team M：白間美瑠
   - Team 4／NMB48 Team M：[澀谷凪咲](../Page/澀谷凪咲.md "wikilink")
-  - NMB48 Team
-    N：小嶋花梨、[谷川愛梨](../Page/谷川愛梨.md "wikilink")、[三田麻央](../Page/三田麻央.md "wikilink")、山本彩加、山本彩
-  - NMB48 Team
-    M：岩田桃夏、[加藤夕夏](https://zh.wikipedia.org/wiki/加藤夕夏 "wikilink")、安田桃寧、[吉田朱里](../Page/吉田朱里.md "wikilink")
+  - NMB48 Team N：小嶋花梨、[谷川愛梨](../Page/谷川愛梨.md "wikilink")、[三田麻央](../Page/三田麻央.md "wikilink")、山本彩加、山本彩
+  - NMB48 Team M：岩田桃夏、[加藤夕夏](https://zh.wikipedia.org/wiki/加藤夕夏 "wikilink")、安田桃寧、[吉田朱里](../Page/吉田朱里.md "wikilink")
   - NMB48 Team BII：植村梓、沖田彩華、[城惠理子](../Page/城惠理子.md "wikilink")、上西怜、村瀨紗英
 
 ### 直到倒下為止
@@ -115,10 +104,8 @@ Type A・B・C・D・E皆有初回限定盤及通常盤2種版本，各版本的
   - Team A／HKT48 Team KIV：宮脇咲良
   - Team B／HKT48 Team H：[矢吹奈子](../Page/矢吹奈子.md "wikilink")
   - Team 4／HKT48 Team KIV：[朝長美櫻](../Page/朝長美櫻.md "wikilink")
-  - HKT48 Team
-    H：[神志那結衣](../Page/神志那結衣.md "wikilink")、駒田京伽、指原莉乃、[田島芽瑠](../Page/田島芽瑠.md "wikilink")、[田中美久](../Page/田中美久_\(HKT48\).md "wikilink")、豐永阿紀、[松岡菜摘](../Page/松岡菜摘.md "wikilink")
-  - HKT48 Team
-    KIV：[岩花詩乃](https://zh.wikipedia.org/wiki/岩花詩乃 "wikilink")、[冨吉明日香](https://zh.wikipedia.org/wiki/冨吉明日香 "wikilink")、[本村碧唯](../Page/本村碧唯.md "wikilink")、[森保圓](../Page/森保圓.md "wikilink")
+  - HKT48 Team H：[神志那結衣](../Page/神志那結衣.md "wikilink")、駒田京伽、指原莉乃、[田島芽瑠](../Page/田島芽瑠.md "wikilink")、[田中美久](../Page/田中美久_\(HKT48\).md "wikilink")、豐永阿紀、[松岡菜摘](../Page/松岡菜摘.md "wikilink")
+  - HKT48 Team KIV：[岩花詩乃](https://zh.wikipedia.org/wiki/岩花詩乃 "wikilink")、[冨吉明日香](https://zh.wikipedia.org/wiki/冨吉明日香 "wikilink")、[本村碧唯](../Page/本村碧唯.md "wikilink")、[森保圓](../Page/森保圓.md "wikilink")
   - HKT48 Team TII：[松岡花](../Page/松岡花.md "wikilink")、村川緋杏
 
 ### Position
@@ -127,13 +114,10 @@ Type A・B・C・D・E皆有初回限定盤及通常盤2種版本，各版本的
 
 （中心成員：向井地美音）
 
-  - Team
-    A：[谷口惠](../Page/谷口惠.md "wikilink")、[樋渡結依](../Page/樋渡結依.md "wikilink")
+  - Team A：[谷口惠](../Page/谷口惠.md "wikilink")、[樋渡結依](../Page/樋渡結依.md "wikilink")
   - Team K：久保怜音、向井地美音
-  - Team
-    B：[後藤萌咲](../Page/後藤萌咲.md "wikilink")、西川怜、[福岡聖菜](../Page/福岡聖菜.md "wikilink")、山邊步夢
-  - Team
-    4：[川本紗矢](../Page/川本紗矢.md "wikilink")、[千葉惠里](https://zh.wikipedia.org/wiki/千葉惠里 "wikilink")
+  - Team B：[後藤萌咲](../Page/後藤萌咲.md "wikilink")、西川怜、[福岡聖菜](../Page/福岡聖菜.md "wikilink")、山邊步夢
+  - Team 4：[川本紗矢](../Page/川本紗矢.md "wikilink")、[千葉惠里](https://zh.wikipedia.org/wiki/千葉惠里 "wikilink")
   - Team 8：岡部麟、小栗有以、倉野尾成美
   - Team 8／Team B：[坂口渚沙](../Page/坂口渚沙.md "wikilink")
   - 研究生：淺井七海、山內瑞葵
@@ -145,8 +129,7 @@ Type A・B・C・D・E皆有初回限定盤及通常盤2種版本，各版本的
 （中心成員：高倉萌香）
 
   - Team B／NGT48 Team NIII：柏木由紀
-  - NGT48 Team
-    NIII：荻野由佳、小熊倫實、[加藤美南](../Page/加藤美南.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、佐藤杏樹、菅原里子、高倉萌香、太野彩香、中井莉加、[西潟茉莉奈](../Page/西潟茉莉奈.md "wikilink")、長谷川玲奈、[本間日陽](../Page/本間日陽.md "wikilink")、村雲楓香、山口真帆、山田野繪
+  - NGT48 Team NIII：荻野由佳、小熊倫實、[加藤美南](../Page/加藤美南.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、佐藤杏樹、菅原里子、高倉萌香、太野彩香、中井莉加、[西潟茉莉奈](../Page/西潟茉莉奈.md "wikilink")、長谷川玲奈、[本間日陽](../Page/本間日陽.md "wikilink")、村雲楓香、山口真帆、山田野繪
 
 ### 無國境時代
 
@@ -166,9 +149,7 @@ Type A・B・C・D・E皆有初回限定盤及通常盤2種版本，各版本的
 ### 交到朋友了
 
   -
-    此為繼[JKT48成員](../Page/JKT48.md "wikilink")[Melody Nurramdhani
-    Laksani参加的](../Page/Melody_Nurramdhani_Laksani.md "wikilink")《[NEW
-    SHIP](https://zh.wikipedia.org/wiki/GIVE_ME_FIVE!#NEW_SHIP "wikilink")》後，第二度有海外姐妹團成員\[9\]參與錄製的AKB48歌曲。
+    此為繼[JKT48](../Page/JKT48.md "wikilink")成員[Melody Nurramdhani Laksani参加的](../Page/Melody_Nurramdhani_Laksani.md "wikilink")《[NEW SHIP](https://zh.wikipedia.org/wiki/GIVE_ME_FIVE!#NEW_SHIP "wikilink")》後，第二度有海外姐妹團成員\[9\]參與錄製的AKB48歌曲。
 
   - 「抹茶和伙伴們。」名義
 
@@ -178,8 +159,7 @@ Type A・B・C・D・E皆有初回限定盤及通常盤2種版本，各版本的
   - Team K：久保怜音
   - Team B：西川怜、馬嘉伶、山邊歩夢
   - Team 4：千葉惠里
-  - AKB48台湾研究生／TPE48
-    1期生：陳詩雅、陳詩媛、[邱品涵](../Page/邱品涵.md "wikilink")、林倢、國興瑀、張羽翎
+  - AKB48台湾研究生／TPE48 1期生：陳詩雅、陳詩媛、[邱品涵](../Page/邱品涵.md "wikilink")、林倢、國興瑀、張羽翎
 
 ## 注釋
 
@@ -207,21 +187,10 @@ Type A・B・C・D・E皆有初回限定盤及通常盤2種版本，各版本的
 
   -
   -
-[Category:2018年單曲](https://zh.wikipedia.org/wiki/Category:2018年單曲 "wikilink")
-[Category:AKB48歌曲](https://zh.wikipedia.org/wiki/Category:AKB48歌曲 "wikilink")
-[Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")
-[Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
-[Category:2018年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2018年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink")
-[Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink")
+[Category:2018年單曲](https://zh.wikipedia.org/wiki/Category:2018年單曲 "wikilink") [Category:AKB48歌曲](https://zh.wikipedia.org/wiki/Category:AKB48歌曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink") [Category:2018年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Oricon單曲週榜冠軍作品 "wikilink") [Category:2018年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Oricon單曲月榜冠軍作品 "wikilink") [Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink") [Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink")
 
-1.  [AKB48 51st Single《ja-ba-ja (Type-A)》03.14 實體/數位
-    與日本同日在台發行](http://www.facebook.com/WarnerMusicTaiwanJpop/photos/a.1513364845543900.1073741827.1513361392210912/2057050817841964/?type=3&theater)，台灣華納音樂JPOP臉書專頁，2018年3月8日
-2.  此統計包括只提供網路下載的單曲《[Baby\! Baby\!
-    Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")》在內所有的主要單曲作品，如果加上獨立製作時代的兩張單曲則為第53張。此數字並不包含同樣是只提供網路下載、但並不用於銷售營利的兩首慈善歌曲《[為了誰
-    -What can I do for
-    someone?-](../Page/為了誰_-What_can_I_do_for_someone?-.md "wikilink")》與《[掌心語](../Page/掌心語.md "wikilink")》。
+1.  [AKB48 51st Single《ja-ba-ja (Type-A)》03.14 實體/數位 與日本同日在台發行](http://www.facebook.com/WarnerMusicTaiwanJpop/photos/a.1513364845543900.1073741827.1513361392210912/2057050817841964/?type=3&theater)，台灣華納音樂JPOP臉書專頁，2018年3月8日
+2.  此統計包括只提供網路下載的單曲《[Baby\! Baby\! Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")》在內所有的主要單曲作品，如果加上獨立製作時代的兩張單曲則為第53張。此數字並不包含同樣是只提供網路下載、但並不用於銷售營利的兩首慈善歌曲《[為了誰 -What can I do for someone?-](../Page/為了誰_-What_can_I_do_for_someone?-.md "wikilink")》與《[掌心語](../Page/掌心語.md "wikilink")》。
 3.
 4.
 5.

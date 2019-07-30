@@ -1,6 +1,4 @@
-**noovy**（原名：'''LOOKINGFOR
-'''），台灣流行樂團，名稱由來是「newbie」（初心者）與「groovy」（精彩刺激）兩個英文單字合成的新造詞。由台灣娛樂經紀公司[伊林娛樂與日本唱片公司](../Page/伊林娛樂.md "wikilink")[Sony
-Music攜手推出](../Page/日本索尼音樂娛樂.md "wikilink")，於2014年10月9日成軍，並在2016年9月23日發行首張數位單曲《KALEIDOSCOPE》於台灣正式出道，2017年9月29日發行日本出道單曲《Garage》於日本正式出道。
+**noovy**（原名：'''LOOKINGFOR '''），台灣流行樂團，名稱由來是「newbie」（初心者）與「groovy」（精彩刺激）兩個英文單字合成的新造詞。由台灣娛樂經紀公司[伊林娛樂](../Page/伊林娛樂.md "wikilink")與日本唱片公司[Sony Music攜手推出](../Page/日本索尼音樂娛樂.md "wikilink")，於2014年10月9日成軍，並在2016年9月23日發行首張數位單曲《KALEIDOSCOPE》於台灣正式出道，2017年9月29日發行日本出道單曲《Garage》於日本正式出道。
 
 ## 成員資料
 
@@ -296,8 +294,7 @@ Music攜手推出](../Page/日本索尼音樂娛樂.md "wikilink")，於2014年1
 
 ## 外部連結
 
-  - [花美男LOOKINGFOR
-    闖日本震撼教育](https://web.archive.org/web/20170202003758/http://www.cna.com.tw/magazine/51/201611100011-1.aspx)
+  - [花美男LOOKINGFOR 闖日本震撼教育](https://web.archive.org/web/20170202003758/http://www.cna.com.tw/magazine/51/201611100011-1.aspx)
 
 官方Facebook
 

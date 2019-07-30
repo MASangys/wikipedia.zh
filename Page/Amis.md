@@ -1,12 +1,10 @@
-**李昕**（）[藝名](../Page/藝名.md "wikilink")**Amis艾蜜絲**曾在[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigirls與](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")[Fubon
-Angels擔任](../Page/Fubon_Angels.md "wikilink")[啦啦隊](../Page/啦啦隊.md "wikilink")，在臉書粉絲擁有超過30萬名粉絲有「啦啦隊女神」美稱！\[1\]
+**李昕**（）[藝名](../Page/藝名.md "wikilink")**Amis艾蜜絲**曾在[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigirls與](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")[Fubon Angels擔任](../Page/Fubon_Angels.md "wikilink")[啦啦隊](../Page/啦啦隊.md "wikilink")，在[臉書粉絲擁有超過](https://zh.wikipedia.org/wiki/臉書 "wikilink")30萬名粉絲有「啦啦隊女神」美稱！\[1\]
 
 ## 經歷
 
-  - 2013年 [壹傳媒Today](../Page/壹傳媒.md "wikilink")'s Angels
-  - 2013年\~2016年
-    [Lamigirls](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")
-  - 2014年\~2016年 [神魔之塔女將](../Page/神魔之塔.md "wikilink")
+  - 2013年 [壹傳媒](../Page/壹傳媒.md "wikilink")Today's Angels
+  - 2013年\~2016年 [Lamigirls](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")
+  - 2014年\~2016年 [神魔之塔](../Page/神魔之塔.md "wikilink")女將
   - 2017年\~2018年 [Fubon Angels](../Page/Fubon_Angels.md "wikilink")
   - 2017年\~至今 [17 Media直播主](../Page/17直播.md "wikilink")
 
@@ -54,12 +52,6 @@ Angels擔任](../Page/Fubon_Angels.md "wikilink")[啦啦隊](../Page/啦啦隊.m
 ## 參考資料
 
   -
-[Category:中華職棒](https://zh.wikipedia.org/wiki/Category:中華職棒 "wikilink")
-[Category:世新大學校友](https://zh.wikipedia.org/wiki/Category:世新大學校友 "wikilink")
-[Category:台灣女性模特兒](https://zh.wikipedia.org/wiki/Category:台灣女性模特兒 "wikilink")
-[Category:臺灣女舞者](https://zh.wikipedia.org/wiki/Category:臺灣女舞者 "wikilink")
-[Category:台灣啦啦隊](https://zh.wikipedia.org/wiki/Category:台灣啦啦隊 "wikilink")
-[Category:李姓](https://zh.wikipedia.org/wiki/Category:李姓 "wikilink")
+[Category:中華職棒](https://zh.wikipedia.org/wiki/Category:中華職棒 "wikilink") [Category:世新大學校友](https://zh.wikipedia.org/wiki/Category:世新大學校友 "wikilink") [Category:台灣女性模特兒](https://zh.wikipedia.org/wiki/Category:台灣女性模特兒 "wikilink") [Category:臺灣女舞者](https://zh.wikipedia.org/wiki/Category:臺灣女舞者 "wikilink") [Category:台灣啦啦隊](https://zh.wikipedia.org/wiki/Category:台灣啦啦隊 "wikilink") [Category:李姓](https://zh.wikipedia.org/wiki/Category:李姓 "wikilink")
 
-1.  [從LamiGirls到富邦天使　高人氣女神Amis卸啦啦隊身份](https://sports.ettoday.net/news/1389453)，ETtoday運動雲
-    2019年03月01日
+1.  [從LamiGirls到富邦天使　高人氣女神Amis卸啦啦隊身份](https://sports.ettoday.net/news/1389453)，ETtoday運動雲 2019年03月01日

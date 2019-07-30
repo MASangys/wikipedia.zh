@@ -9,8 +9,7 @@
     配音員：日：[富田美憂](../Page/富田美憂.md "wikilink")（聲）、（歌）／台：[石-{采}-薇](../Page/石采薇.md "wikilink")
     3月3日出生，[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。
     街機1彈登場玩家。動畫故事的故事主角。
-    常用品牌：**My Little Heart**→**Berry Parfait**→**Rainbow Berry
-    Parfait**。
+    常用品牌：**My Little Heart**→**Berry Parfait**→**Rainbow Berry Parfait**。
     第1部時入學的一年級新生，就讀花之歌組，因為憧憬S4而進入四星學園的女孩。
     金色長髮綁著雙馬尾，性格開朗，好奇心旺盛，很容易被事情感動。
     在S4裡特別崇拜花之歌組的白鳥姬，稱姬為「姬學姊」。而且只喜歡S4，一開始還不知道M4，特別與M4的成員昴意見不合。
@@ -22,8 +21,7 @@
     第49話時勝出S4選拔賽，於二年級時成為花之歌組的第26屆『**S4**』成員。
     第50話任命蘿拉為花之歌組的幹部生。
     第55話時為了學習星光高級稀有套裝，與蘿拉、真晝到維納斯方舟留學。之後因為維納斯方舟離開日本巡迴演出而回到四星學園。
-    於第59話公開新品牌**Berry Parfait**，並穿上精選服裝表演。為專屬服裝品牌**Berry
-    Parfait**（**Rainbow Berry Parfait**）的代表繆斯。
+    於第59話公開新品牌**Berry Parfait**，並穿上精選服裝表演。為專屬服裝品牌**Berry Parfait**（**Rainbow Berry Parfait**）的代表繆斯。
     於第73話將品牌升級為**Rainbow Berry Parfait**，並在表演中獲得地球之翼。
     第96話在偶像活動決勝排名的表演中，地球之翼套裝進化成太陽禮服後贏了艾爾莎，成為世界頂級偶像。
     第98話時勝出S4選拔賽並連任隔年的第27屆『S4』。
@@ -74,8 +72,7 @@
     為了不愧對自己的祖先，因而想要當上S4。
     於第50話被小夢任命為花之歌組的幹部生。是學園會的副會長。
     第55話時為了學習星光高級稀有套裝，與小夢、真晝到維納斯方舟留學。之後因為維納斯方舟離開日本巡迴演出而回到四星學園。
-    第62話時因如月翼到洛杉磯留學而繼承了如月翼的專屬服裝品牌**Spice Chord**。為**Spice
-    Chord**在劇中第2部時的代表繆斯。
+    第62話時因如月翼到洛杉磯留學而繼承了如月翼的專屬服裝品牌**Spice Chord**。為**Spice Chord**在劇中第2部時的代表繆斯。
     於第65話在表演中獲得火星之翼。
     於第100話後到英國留學，在之後偶像活動決勝排名的表演中表示已進化成太陽禮服。
     **星級效果**
@@ -119,7 +116,7 @@
     街機1彈登場玩家。
     常用品牌：**Shiny Smile**→**Fuwa Fuwa Dream**。
     第1部時入學的一年級新生，就讀鳥之劇組，班內的第一名。
-    橘紅色長髮綁著貓耳造型，名門出生的千金小姐，有[傲嬌特質的女孩](../Page/傲嬌.md "wikilink")。
+    橘紅色長髮綁著貓耳造型，名門出生的千金小姐，有[傲嬌](../Page/傲嬌.md "wikilink")特質的女孩。
     經常說出高傲的話，但就是難以令人討厭。視小夢為朋友和情敵。
     非常喜歡M4的昴，為了追隨昴而進入四星學園就讀。
     第46話時勝出S4選拔賽，在二年級時成為鳥之劇組的『**S4**』。
@@ -151,8 +148,7 @@
     熱愛虹野家「七彩西餅店」的西點，喜歡吃巧克力，擅長空手道（等級為黑帶）。
     時常使用自己擅長的空手道與擅長劍道的禮進行對決。
     第31話與翼、夜空組成其隊伍「Sky Girl」。
-    第47話時勝出S4選拔賽，在二年級時成為月之美組的第26屆『**S4**』成員。從夜空那裡繼承了專屬服裝品牌**Romance
-    Kiss**在劇中第2部時的代表繆斯。
+    第47話時勝出S4選拔賽，在二年級時成為月之美組的第26屆『**S4**』成員。從夜空那裡繼承了專屬服裝品牌**Romance Kiss**在劇中第2部時的代表繆斯。
     第55話時為了學習星光高級稀有套裝，與小夢、蘿拉到維納斯方舟留學。之後因為維納斯方舟離開日本巡迴演出而回到四星學園。
     於第64話在表演中獲得海王星之翼。
     第98話時勝出S4選拔賽並連任隔年的第27屆『S4』。
@@ -239,8 +235,7 @@
     深藍色長直髮，綁著單馬尾。第1部時就讀中學三年級，代表鳥之劇組的第25屆『**S4**』成員，也是可靠的學生會長。
     活躍在電視劇裡的現役人氣演員。雖然有很嚴格的一面，但也有很有趣的一面。
     第31話與夜空、真晝組成其隊伍「Sky Girl」。
-    於第50話進入高中部並退下『S4』的職務。於第62話後到洛杉磯留學，並讓蘿拉繼承了專屬服裝品牌**Spice
-    Chord**在劇中第2部時的代表繆斯，之後回國。
+    於第50話進入高中部並退下『S4』的職務。於第62話後到洛杉磯留學，並讓蘿拉繼承了專屬服裝品牌**Spice Chord**在劇中第2部時的代表繆斯，之後回國。
     **星級效果**
       - 精選 星級解放密碼（Premium Star Unchain Code）『プレミアム スターアンチェインコード』
     <!-- end list -->
@@ -377,8 +372,7 @@
 ### 幹部生
 
   -
-    詳見[\#維納斯方舟（Venus
-    Ark）](https://zh.wikipedia.org/wiki/#維納斯方舟（Venus_Ark） "wikilink")。
+    詳見[\#維納斯方舟（Venus Ark）](https://zh.wikipedia.org/wiki/#維納斯方舟（Venus_Ark） "wikilink")。
 
 <!-- end list -->
 
@@ -855,8 +849,6 @@
   - [電視動畫《偶像活動Stars！》官網人物介紹](http://www.aikatsu.net/aikatsustars_02/character/index.html)
   - [電視動畫《偶像活動Stars！》東京電視台官網人物介紹](https://www.tv-tokyo.co.jp/anime/aikatsustars/chara/)
 
-[Category:Aikatsu！偶像活動！](https://zh.wikipedia.org/wiki/Category:Aikatsu！偶像活動！ "wikilink")
-[Category:電子遊戲角色列表](https://zh.wikipedia.org/wiki/Category:電子遊戲角色列表 "wikilink")
-[Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
+[Category:Aikatsu！偶像活動！](https://zh.wikipedia.org/wiki/Category:Aikatsu！偶像活動！ "wikilink") [Category:電子遊戲角色列表](https://zh.wikipedia.org/wiki/Category:電子遊戲角色列表 "wikilink") [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
 
 1.

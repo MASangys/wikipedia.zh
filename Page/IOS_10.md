@@ -1,14 +1,6 @@
-**iOS
-10**是[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iOS第十个主要版本](https://zh.wikipedia.org/wiki/iOS "wikilink")，于旧金山当地时间2016年6月13日召开的[WWDC](https://zh.wikipedia.org/wiki/WWDC "wikilink")2016首日公布，是[iOS
-9的后继版本](https://zh.wikipedia.org/wiki/iOS_9 "wikilink")。iOS
-10的新特性主要是提供了新的-{zh-tw:鎖定螢幕;zh-hans:锁屏}-交互模式，新的控制中心，增强的[iMessage等等](https://zh.wikipedia.org/wiki/iMessage "wikilink")，正式版已于2016年9月14日发布。
+**iOS 10**是[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iOS第十个主要版本](https://zh.wikipedia.org/wiki/iOS "wikilink")，于旧金山当地时间2016年6月13日召开的[WWDC](https://zh.wikipedia.org/wiki/WWDC "wikilink")2016首日公布，是[iOS 9的后继版本](https://zh.wikipedia.org/wiki/iOS_9 "wikilink")。iOS 10的新特性主要是提供了新的-{zh-tw:鎖定螢幕;zh-hans:锁屏}-交互模式，新的控制中心，增强的[iMessage等等](https://zh.wikipedia.org/wiki/iMessage "wikilink")，正式版已于2016年9月14日发布。
 
-iOS 10 僅對採用 [Apple
-A6](../Page/Apple_A6.md "wikilink")/[A6X](../Page/Apple_A6X.md "wikilink")
-或以上等級晶片的裝置提供支援，[Apple
-A5](../Page/Apple_A5.md "wikilink")/[A5X](../Page/Apple_A5X.md "wikilink")
-或以下等級的晶片的裝置則不再支援安裝 iOS 10。另外，iOS 10繼任者iOS
-11推出後也變成蘋果最後支持32位元的系統，32位元硬體的裝置會停留在10.3.3。
+iOS 10 僅對採用 [Apple A6](../Page/Apple_A6.md "wikilink")/[A6X](../Page/Apple_A6X.md "wikilink") 或以上等級晶片的裝置提供支援，[Apple A5](../Page/Apple_A5.md "wikilink")/[A5X](../Page/Apple_A5X.md "wikilink") 或以下等級的晶片的裝置則不再支援安裝 iOS 10。另外，iOS 10繼任者iOS 11推出後也變成蘋果最後支持32位元的系統，32位元硬體的裝置會停留在10.3.4。
 
 ## 历史
 
@@ -31,14 +23,13 @@ A5](../Page/Apple_A5.md "wikilink")/[A5X](../Page/Apple_A5X.md "wikilink")
   - 2017年3月28日，發佈了測試版 iOS 10.3.2 beta 1。
   - 2017年5月16日，發布了正式版的 iOS 10.3.2。
   - 2017年7月19日，發布了正式版的 iOS 10.3.3正式版，修補重大安全漏洞及提升安全性。
+  - 2019年7月23日，为iPhone 5和iPad（第4代）的蜂窝版本发布了正式版的 iOS 10.3.4。解决了可能影响 GPS 定位性能且可能导致系统日期时间不正确的问题。
 
 ## 新功能及改進
 
 ### iOS 10.2
 
-iOS 10.2 新增的功能包含「電視」App（僅限美國，后于iOS 11开始支持所有可以在iTunes上购买电视节目的国家），在各種影片
-App 中觀賞電視節目和電影時，提供全新且一致的使用體驗。重新設計精美的表情符號，可展現更為精細的內容，並且加入了超過 100
-種新的表情符號，其中包含新的表情、食物、動物、運動和職業。此次更新也改進了穩定性並修正錯誤。\[2\]
+iOS 10.2 新增的功能包含「電視」App（僅限美國，后于iOS 11开始支持所有可以在iTunes上购买电视节目的国家），在各種影片 App 中觀賞電視節目和電影時，提供全新且一致的使用體驗。重新設計精美的表情符號，可展現更為精細的內容，並且加入了超過 100 種新的表情符號，其中包含新的表情、食物、動物、運動和職業。此次更新也改進了穩定性並修正錯誤。\[2\]
 
 #### 表情符號
 
@@ -95,8 +86,7 @@ App 中觀賞電視節目和電影時，提供全新且一致的使用體驗。�
 
 ### iOS 10.2.1
 
-iOS 10.2.1 包含錯誤修正並改善 iPhone 或 iPad 的安全性。 此外也改善尖峰工作負載期間的電源管理，避免 iPhone
-無預警關機。
+iOS 10.2.1 包含錯誤修正並改善 iPhone 或 iPad 的安全性。 此外也改善尖峰工作負載期間的電源管理，避免 iPhone 無預警關機。
 
 ### iOS 10.3
 
@@ -134,9 +124,13 @@ iOS 10.3 推出的新功能包含使用「尋找我的 iPhone」定位 AirPods �
   - 修正了「地圖」在重置「定位服務與隱私權」後，無法顯示您目前位置的問題
   - 改進了「電話」、Safari 和「郵件」中 VoiceOver 的穩定性
 
-### iOS 10.3.1
+### 10.3.1
 
 iOS 10.3.1 包含錯誤修正，並改進了 iPhone 或 iPad 的安全性。
+
+#### 10.3.4
+
+iOS 10.3.4於2019年7月22日發布，主要修正安全漏洞和GPS的問題，此問題可能會影響GPS定位效能及導致系統時間錯誤\[3\]。此更新僅提供給iPhone 5及GSM版第四代iPad\[4\]。
 
 ## 參考資料
 
@@ -148,9 +142,9 @@ iOS 10.3.1 包含錯誤修正，並改進了 iPhone 或 iPad 的安全性。
 
 {{-}}
 
-[Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink")
-[Category:2016年软件](https://zh.wikipedia.org/wiki/Category:2016年软件 "wikilink")
-[Category:2016年面世的產品](https://zh.wikipedia.org/wiki/Category:2016年面世的產品 "wikilink")
+[Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink") [Category:2016年软件](https://zh.wikipedia.org/wiki/Category:2016年软件 "wikilink") [Category:2016年面世的產品](https://zh.wikipedia.org/wiki/Category:2016年面世的產品 "wikilink")
 
 1.
 2.
+3.
+4.

@@ -1,4 +1,4 @@
-本电子游戏列表列举了[诺基亚](../Page/诺基亚.md "wikilink")[N-Gage的](../Page/N-Gage.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")。
+本电子游戏列表列举了[诺基亚](../Page/诺基亚.md "wikilink")[N-Gage](../Page/N-Gage.md "wikilink")的[电子游戏](../Page/电子游戏.md "wikilink")。
 
 ## 游戏发行
 
@@ -496,10 +496,8 @@
 ## 参考文献
 
   - [N-Gage Rarity Guide](http://www.rarityguide.com/ngage_view.php)
-  - [Gamespot N-Gage games
-    database](http://www.gamespot.com/games.html?type=games&platform=1006&mode=all&sort=title&dlx_type=all&sortdir=asc)
+  - [Gamespot N-Gage games database](http://www.gamespot.com/games.html?type=games&platform=1006&mode=all&sort=title&dlx_type=all&sortdir=asc)
 
-[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
-[Category:N-Gage游戏](https://zh.wikipedia.org/wiki/Category:N-Gage游戏 "wikilink")
+[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink") [Category:N-Gage游戏](https://zh.wikipedia.org/wiki/Category:N-Gage游戏 "wikilink")
 
 1.

@@ -1,6 +1,4 @@
-{{ infobox football tournament | current = | logo = | founded = 2002年 |
-number of teams = | region =  | current champions =
-男子組︰[銘傳大學足球隊](../Page/銘傳大學足球隊.md "wikilink")
+{{ infobox football tournament | current = | logo = | founded = 2002年 | number of teams = | region =  | current champions = 男子組︰[銘傳大學足球隊](../Page/銘傳大學足球隊.md "wikilink")
 女子組︰台灣黑熊俱樂部
 長青組︰高雄市不老足球隊
 U18男︰[民雄農工](https://zh.wikipedia.org/wiki/民雄農工 "wikilink")（第 4 次）
@@ -8,18 +6,14 @@ U18女︰[台東體中](https://zh.wikipedia.org/wiki/台東體中 "wikilink")�
 U15男︰[仁和國中](https://zh.wikipedia.org/wiki/仁和國中 "wikilink")（第 1 次）
 U15女︰[台東體中](https://zh.wikipedia.org/wiki/台東體中 "wikilink")（第 1 次）
 U12男︰[文山國小](https://zh.wikipedia.org/wiki/文山國小 "wikilink")（第 1 次）
-U12女︰[尖山國小](https://zh.wikipedia.org/wiki/尖山國小 "wikilink")（第 4 次） | most
-successful club = 男子組︰[銘傳大學足球隊](../Page/銘傳大學足球隊.md "wikilink")（5 次）
+U12女︰[尖山國小](https://zh.wikipedia.org/wiki/尖山國小 "wikilink")（第 4 次） | most successful club = 男子組︰[銘傳大學足球隊](../Page/銘傳大學足球隊.md "wikilink")（5 次）
 女子組︰[台北SCSC](https://zh.wikipedia.org/wiki/台北SCSC "wikilink")（6 次）
 U18男︰[民雄農工](https://zh.wikipedia.org/wiki/民雄農工 "wikilink")（4 次）
 U18女︰[三重商工](https://zh.wikipedia.org/wiki/三重商工 "wikilink")（2 次）
 U15男︰[佳里國中](https://zh.wikipedia.org/wiki/佳里國中 "wikilink")（3 次）
-U15女︰[明志國中](https://zh.wikipedia.org/wiki/明志國中 "wikilink")、[鳳西國中](https://zh.wikipedia.org/wiki/鳳西國中 "wikilink")（2
-次）
+U15女︰[明志國中](https://zh.wikipedia.org/wiki/明志國中 "wikilink")、[鳳西國中](https://zh.wikipedia.org/wiki/鳳西國中 "wikilink")（2 次）
 U12男︰（皆為 1 次）
-U12女︰[尖山國小](https://zh.wikipedia.org/wiki/尖山國小 "wikilink") |
-no_of_titles = 4 | website = }}
-**全國體育署盃FUTSAL錦標賽**是一項[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[五人制足球競賽](https://zh.wikipedia.org/wiki/室内五人足球 "wikilink")，由[中華民國足球協會主辦](../Page/中華民國足球協會.md "wikilink")，前名為體委會盃，與[全國五人制足球聯賽並列為台灣五人制足球兩大賽事](../Page/全國五人制足球聯賽.md "wikilink")。
+U12女︰[尖山國小](https://zh.wikipedia.org/wiki/尖山國小 "wikilink") | no_of_titles = 4 | website = }} **全國體育署盃FUTSAL錦標賽**是一項[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[五人制足球競賽](https://zh.wikipedia.org/wiki/室内五人足球 "wikilink")，由[中華民國足球協會](../Page/中華民國足球協會.md "wikilink")主辦，前名為體委會盃，與[全國五人制足球聯賽](../Page/全國五人制足球聯賽.md "wikilink")並列為台灣五人制足球兩大賽事。
 
 ## 社會男子組
 
@@ -59,7 +53,7 @@ no_of_titles = 4 | website = }}
 
 | 年度        | 冠軍                                        | 亞軍        | 季軍                                        | 殿軍        |
 | --------- | ----------------------------------------- | --------- | ----------------------------------------- | --------- |
-| 104年\[7\] | [雷鳥足球俱樂部綠](../Page/雷鳥足球俱樂部.md "wikilink") | 高雄市不老足球協會 | [雷鳥足球俱樂部紅](../Page/雷鳥足球俱樂部.md "wikilink") | 高雄市聯邦足球協會 |
+| 104年\[7\] | [雷鳥足球俱樂部](../Page/雷鳥足球俱樂部.md "wikilink")綠 | 高雄市不老足球協會 | [雷鳥足球俱樂部](../Page/雷鳥足球俱樂部.md "wikilink")紅 | 高雄市聯邦足球協會 |
 | 105年      | 高雄市不老足球隊                                  | 鴻鑫        | 府城                                        | 諸羅山       |
 
 ## 大學男足

@@ -1,18 +1,10 @@
-**Google
-Pixel**是由[Google在](../Page/Google.md "wikilink")2013年起推出的智能硬件系列，包括Android智能手机、Android平板电脑以及Chromebook笔记本电脑。该系列最大的特色是Google负责硬件设计，而相较于[Google
-Nexus系列则是主要由制造商设计硬件](../Page/Google_Nexus.md "wikilink")。\[1\]
+**Google Pixel**是由[Google](../Page/Google.md "wikilink")在2013年起推出的智能硬件系列，包括Android智能手机、Android平板电脑以及Chromebook笔记本电脑。该系列最大的特色是Google负责硬件设计，而相较于[Google Nexus系列则是主要由制造商设计硬件](../Page/Google_Nexus.md "wikilink")。\[1\]
 
 ## 智能手机
 
-**Google Pixel/Pixel
-XL**是[Google在](../Page/Google.md "wikilink")2016年10月4日推出的全新[Android](../Page/Android.md "wikilink")[智能手机系列](../Page/智能手机.md "wikilink")，接任之前的**[Nexus](../Page/Google_Nexus.md "wikilink")**系列。在2016年10月5日凌晨Google秋季发布会上，Google发布两款**Google
-Pixel**、**Pixel
-XL**智能手机，分别为5吋、5.5吋两个版本，由台湾的[HTC代工](https://zh.wikipedia.org/wiki/HTC "wikilink")，Google掌控硬件设计研发，搭载[Android
-Nougat](../Page/Android_Nougat.md "wikilink") 7.1系统，\[2\]\[3\]
-支持IP53级别防水/防尘。\[4\]
+**Google Pixel/Pixel XL**是[Google](../Page/Google.md "wikilink")在2016年10月4日推出的全新[Android](../Page/Android.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")系列，接任之前的**[Nexus](../Page/Google_Nexus.md "wikilink")**系列。在2016年10月5日凌晨Google秋季发布会上，Google发布两款**Google Pixel**、**Pixel XL**智能手机，分别为5吋、5.5吋两个版本，由台湾的[HTC代工](https://zh.wikipedia.org/wiki/HTC "wikilink")，Google掌控硬件设计研发，搭载[Android Nougat](../Page/Android_Nougat.md "wikilink") 7.1系统，\[2\]\[3\] 支持IP53级别防水/防尘。\[4\]
 
-根据Counterpoint的调查，2018年Google
-Pixel系列手机在美国高端智能手机市场上销量第三，在西欧高端智能手机市场上销量第五\[5\]。
+根据Counterpoint的调查，2018年Google Pixel系列手机在美国高端智能手机市场上销量第三，在西欧高端智能手机市场上销量第五\[5\]。
 
 ### 比較
 
@@ -188,18 +180,11 @@ Pixel系列手机在美国高端智能手机市场上销量第三，在西欧高
 
 ### Pixel Buds
 
-在谷歌2017年10月的硬件活動中，一系列無線耳機與Pixel 2智能手機一同亮相。耳機專為運行Android
-Marshmallow或更高級別的手機而設計，並可與Google智能助理配合使用。\[6\]除了音頻播放和接聽電話，耳機支持40種語言的翻譯通過[Google翻譯](https://zh.wikipedia.org/wiki/Google翻譯 "wikilink")\[7\]
-，耳機可以與[Pixel 2自動配對後](../Page/Pixel_2.md "wikilink")，可以[Pixel
-2內置應用程式裏的](../Page/Pixel_2.md "wikilink")[Google智能助理和Google](https://zh.wikipedia.org/wiki/Google智能助理 "wikilink")
-Nearby功能\[8\]。Pixel Buds顏色有Just Black,Clearly White和Kinda
-Blue。耳機的電池容量為120 mAh，而Pixel Buds附帶的充電盒的電池容量為620
-mAh。這款耳機的售價為159美元。\[9\]
+在谷歌2017年10月的硬件活動中，一系列無線耳機與Pixel 2智能手機一同亮相。耳機專為運行Android Marshmallow或更高級別的手機而設計，並可與Google智能助理配合使用。\[6\]除了音頻播放和接聽電話，耳機支持40種語言的翻譯通過[Google翻譯](https://zh.wikipedia.org/wiki/Google翻譯 "wikilink")\[7\] ，耳機可以與[Pixel 2自動配對後](../Page/Pixel_2.md "wikilink")，可以[Pixel 2內置應用程式裏的](../Page/Pixel_2.md "wikilink")[Google智能助理和Google](https://zh.wikipedia.org/wiki/Google智能助理 "wikilink") Nearby功能\[8\]。Pixel Buds顏色有Just Black,Clearly White和Kinda Blue。耳機的電池容量為120 mAh，而Pixel Buds附帶的充電盒的電池容量為620 mAh。這款耳機的售價為159美元。\[9\]
 
 ### Pixelbook Pen
 
-除了2017年10月發布的Pixelbook外，Google還宣布推出了與Pixelbook 一起使用的手寫筆 Pixelbook Pen
-。它具有壓力敏感度以及對[Google智能助理的支持](https://zh.wikipedia.org/wiki/Google智能助理 "wikilink")。該筆由可更換的AAAA電池供電，售價為99美元。\[10\]
+除了2017年10月發布的Pixelbook外，Google還宣布推出了與Pixelbook 一起使用的手寫筆 Pixelbook Pen 。它具有壓力敏感度以及對[Google智能助理的支持](https://zh.wikipedia.org/wiki/Google智能助理 "wikilink")。該筆由可更換的AAAA電池供電，售價為99美元。\[10\]
 
 ## 参考文献
 
@@ -207,18 +192,13 @@ mAh。這款耳機的售價為159美元。\[9\]
 
   - [Google Pixel](https://madeby.google.com/phone/)
 
-[Category:Google_Pixel](https://zh.wikipedia.org/wiki/Category:Google_Pixel "wikilink")
-[Category:Android](https://zh.wikipedia.org/wiki/Category:Android "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink")
+[Category:Google_Pixel](https://zh.wikipedia.org/wiki/Category:Google_Pixel "wikilink") [Category:Android](https://zh.wikipedia.org/wiki/Category:Android "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink")
 
 1.
 2.
 3.
 4.
-5.  [Apple Maintains Lead in Premium Smartphone Segment, OnePlus Enters
-    Top Five Brands for the First time
-    in 2018](https://www.counterpointresearch.com/apple-maintains-lead-premium-smartphone-segment-oneplus-enters-top-five-brands-first-time-2018/)
+5.  [Apple Maintains Lead in Premium Smartphone Segment, OnePlus Enters Top Five Brands for the First time in 2018](https://www.counterpointresearch.com/apple-maintains-lead-premium-smartphone-segment-oneplus-enters-top-five-brands-first-time-2018/)
 6.
 7.
 8.

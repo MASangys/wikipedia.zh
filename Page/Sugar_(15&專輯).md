@@ -2,8 +2,7 @@
 
 ## 概要
 
-本作收錄早前已公開的3首歌曲，分別是出道曲〈I
-Dream〉及兩首數位單曲〈Somebody〉、〈露餡了吧〉，另外公開7首新曲。專輯主軸描述15&儘管年輕但有無限可能的故事，音樂風格以[R\&B及](https://zh.wikipedia.org/wiki/R&B "wikilink")[靈魂樂為主](../Page/靈魂樂.md "wikilink")。
+本作收錄早前已公開的3首歌曲，分別是出道曲〈I Dream〉及兩首數位單曲〈Somebody〉、〈露餡了吧〉，另外公開7首新曲。專輯主軸描述15&儘管年輕但有無限可能的故事，音樂風格以[R\&B及](https://zh.wikipedia.org/wiki/R&B "wikilink")[靈魂樂](../Page/靈魂樂.md "wikilink")為主。
 
 ## 收錄歌曲
 
@@ -31,7 +30,7 @@ Dream〉及兩首數位單曲〈Somebody〉、〈露餡了吧〉，另外公開7
 
 <!-- end list -->
 
-  - **Somebody**：在曲子中加入了[錫塔琴聲與](https://zh.wikipedia.org/wiki/錫塔琴 "wikilink")[口琴聲](../Page/口琴.md "wikilink")，並以為歌曲增加記憶點\[1\]。歌詞講述了對於愛情新鮮又撒嬌般的期待感。
+  - **Somebody**：在曲子中加入了[錫塔琴聲與](https://zh.wikipedia.org/wiki/錫塔琴 "wikilink")[口琴](../Page/口琴.md "wikilink")聲，並以為歌曲增加記憶點\[1\]。歌詞講述了對於愛情新鮮又撒嬌般的期待感。
 
 <!-- end list -->
 
@@ -123,11 +122,7 @@ Dream〉及兩首數位單曲〈Somebody〉、〈露餡了吧〉，另外公開7
 
 ## 引用資料
 
-[Category:15&音樂專輯](https://zh.wikipedia.org/wiki/Category:15&音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:2014年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2014年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon數位下載週榜冠軍作品 "wikilink")
+[Category:15&音樂專輯](https://zh.wikipedia.org/wiki/Category:15&音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:2014年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon單曲週榜冠軍作品 "wikilink") [Category:2014年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon數位下載週榜冠軍作品 "wikilink")
 
 1.
 2.

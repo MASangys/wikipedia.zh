@@ -1,7 +1,4 @@
-《**Traveling
-Stars**》（）是於2015年8月28日發售\[1\]的[Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[18禁](../Page/日本成人遊戲.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，由[HOOKSOFT製作](../Page/HOOKSOFT.md "wikilink")。2016年3月18日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Traveling
-Stars MiniFanDisc ジルコニアVer.》（）。2016年11月24日由GN Software發售PlayStation
-Vita平台。\[2\]
+《**Traveling Stars**》（）是於2015年8月28日發售\[1\]的[Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[18禁](../Page/日本成人遊戲.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，由[HOOKSOFT](../Page/HOOKSOFT.md "wikilink")製作。2016年3月18日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Traveling Stars MiniFanDisc ジルコニアVer.》（）。2016年11月24日由GN Software發售PlayStation Vita平台。\[2\]
 
 ## 故事簡介
 
@@ -41,8 +38,7 @@ Vita平台。\[2\]
 
 ## 評價
 
-《Traveling
-Stars》在日本美少女游戏与动画相关商品销售网站Getchu.com的2015年8月销量榜上排名第3名\[4\]，2015年9月排名第23名\[5\]，全年排名第31名\[6\]。
+《Traveling Stars》在日本美少女游戏与动画相关商品销售网站Getchu.com的2015年8月销量榜上排名第3名\[4\]，2015年9月排名第23名\[5\]，全年排名第31名\[6\]。
 
 ## 參考資料
 
@@ -51,15 +47,10 @@ Stars》在日本美少女游戏与动画相关商品销售网站Getchu.com的20
   - [Traveling Stars官方網站](http://www.hook-net.jp/travelingstars/)
   - [PSV版官方網站](http://www.piacci.co.jp/GN/travelingstars/)
 
-[Category:2015年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2015年日本成人遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
+[Category:2015年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2015年日本成人遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
 
 1.
-2.  [トラベリングスターズ -Traveling
-    Stars-](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=34050)[ファミ通.com](https://zh.wikipedia.org/wiki/ファミ通.com "wikilink")
+2.  [トラベリングスターズ -Traveling Stars-](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=34050)[ファミ通.com](https://zh.wikipedia.org/wiki/ファミ通.com "wikilink")
 3.
 4.
 5.

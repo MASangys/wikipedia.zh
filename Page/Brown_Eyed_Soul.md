@@ -1,6 +1,4 @@
-**Brown Eyed Soul**是
-[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[節奏藍調](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")、[靈魂樂](../Page/靈魂樂.md "wikilink")4人團體。\[1\]
-2003年以首張專輯《》出道。
+**Brown Eyed Soul**是 [韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[節奏藍調](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")、[靈魂樂](../Page/靈魂樂.md "wikilink")4人團體。\[1\] 2003年以首張專輯《》出道。
 
 ## 音樂作品
 
@@ -14,8 +12,7 @@
 
 ### live專輯
 
-  - 2008年 *Brown Eyed Soul Christmas Concert Live 2007*
-    ([音源和](https://zh.wikipedia.org/wiki/音源 "wikilink")[DVD同時發行](https://zh.wikipedia.org/wiki/DVD "wikilink"))
+  - 2008年 *Brown Eyed Soul Christmas Concert Live 2007* ([音源和](https://zh.wikipedia.org/wiki/音源 "wikilink")[DVD同時發行](https://zh.wikipedia.org/wiki/DVD "wikilink"))
   - 2011年 ''Soul Fever
 
 ### 單曲
@@ -32,24 +29,15 @@
   -
   -
   -
-  - [Brown Eyed
-    Soul](https://web.archive.org/web/20121005115556/http://www.maniadb.com/artist.asp?p=105243)
-    - ManiaDB
+  - [Brown Eyed Soul](https://web.archive.org/web/20121005115556/http://www.maniadb.com/artist.asp?p=105243) - ManiaDB
 
-  - [Brown Eyed Soul](http://music.cyworld.com/artist.asp?aid=6922) -
-    Cyworld BGM
+  - [Brown Eyed Soul](http://music.cyworld.com/artist.asp?aid=6922) - Cyworld BGM
 
-  - [Brown Eyed
-    Soul](http://music.naver.com/artist/home.nhn?artistId=8858) -
-    Naver音樂
+  - [Brown Eyed Soul](http://music.naver.com/artist/home.nhn?artistId=8858) - Naver音樂
 
-  - [Brown Eyed
-    Soul](http://music.daum.net/artist/artist.do?artistDetailId=3098) -
-    Daum音樂
+  - [Brown Eyed Soul](http://music.daum.net/artist/artist.do?artistDetailId=3098) - Daum音樂
 
-  - [Brown Eyed
-    Soul](http://movie.daum.net/movieperson/Summary.do?personId=216915)
-    - Daum電影
+  - [Brown Eyed Soul](http://movie.daum.net/movieperson/Summary.do?personId=216915) - Daum電影
 
   - [다음 팬카페](http://cafe.daum.net/BrowneyedSoul)
 

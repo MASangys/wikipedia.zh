@@ -1,4 +1,4 @@
-**岸本Miyuki**（，），[日本男](../Page/日本.md "wikilink")[編劇](../Page/編劇.md "wikilink")。畢業於[近畿大學文藝學部藝術學科](https://zh.wikipedia.org/wiki/近畿大學 "wikilink")。祖父為。
+**岸本Miyuki**（，），[日本](../Page/日本.md "wikilink")男[編劇](../Page/編劇.md "wikilink")。畢業於[近畿大學文藝學部藝術學科](https://zh.wikipedia.org/wiki/近畿大學 "wikilink")。祖父為。
 
 ## 作品列表
 
@@ -145,8 +145,6 @@
 
   -
 
-[Category:日本編劇](https://zh.wikipedia.org/wiki/Category:日本編劇 "wikilink")
-[Category:動畫編劇](https://zh.wikipedia.org/wiki/Category:動畫編劇 "wikilink")
-[Category:近畿大學校友](https://zh.wikipedia.org/wiki/Category:近畿大學校友 "wikilink")
+[Category:日本編劇](https://zh.wikipedia.org/wiki/Category:日本編劇 "wikilink") [Category:動畫編劇](https://zh.wikipedia.org/wiki/Category:動畫編劇 "wikilink") [Category:近畿大學校友](https://zh.wikipedia.org/wiki/Category:近畿大學校友 "wikilink")
 
 1.

@@ -1,10 +1,6 @@
-**Apple Watch Series 1/ Series 2**是第二代的[Apple
-Watch](https://zh.wikipedia.org/wiki/Apple_Watch "wikilink")\[1\]\[2\]，在2016年的9月8日發布\[3\]。
+**Apple Watch Series 1/ Series 2**是第二代的[Apple Watch](https://zh.wikipedia.org/wiki/Apple_Watch "wikilink")\[1\]\[2\]，在2016年的9月8日發布\[3\]。
 
-Apple Watch Series
-2使用[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")\[4\]，相較於Apple
-Watch Series 1及Apple Watch (第一代，俗稱S0)，Apple Watch Series
-2加入了[GPS機能](https://zh.wikipedia.org/wiki/GPS "wikilink")，以及50米防水機能\[5\]。
+Apple Watch Series 2使用[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")\[4\]，相較於Apple Watch Series 1及Apple Watch (第一代，俗稱S0)，Apple Watch Series 2加入了[GPS機能](https://zh.wikipedia.org/wiki/GPS "wikilink")，以及50米防水機能\[5\]。
 
 ## Series 1 / 2对比
 
@@ -28,17 +24,13 @@ Watch Series 1及Apple Watch (第一代，俗稱S0)，Apple Watch Series
 
   - – official site
 
-[Category:蘋果公司硬體](https://zh.wikipedia.org/wiki/Category:蘋果公司硬體 "wikilink")
-[Category:智能手表](https://zh.wikipedia.org/wiki/Category:智能手表 "wikilink")
-[Category:无线能量转移](https://zh.wikipedia.org/wiki/Category:无线能量转移 "wikilink")
-[Category:2016年面世的產品](https://zh.wikipedia.org/wiki/Category:2016年面世的產品 "wikilink")
+[Category:蘋果公司硬體](https://zh.wikipedia.org/wiki/Category:蘋果公司硬體 "wikilink") [Category:智能手表](https://zh.wikipedia.org/wiki/Category:智能手表 "wikilink") [Category:无线能量转移](https://zh.wikipedia.org/wiki/Category:无线能量转移 "wikilink") [Category:2016年面世的產品](https://zh.wikipedia.org/wiki/Category:2016年面世的產品 "wikilink")
 
 1.
 
 2.
 
-3.  [睽違一年半再有新款，Apple Watch Series 2
-    與前一代有什麼不同？](http://technews.tw/2016/09/08/apple-watch-2-vs-1/)
+3.  [睽違一年半再有新款，Apple Watch Series 2 與前一代有什麼不同？](http://technews.tw/2016/09/08/apple-watch-2-vs-1/)
 
 4.
 

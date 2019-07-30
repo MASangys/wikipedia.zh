@@ -1,8 +1,6 @@
-**諾基亞Communicator**爲辦公優化[智慧型手機系列的品牌名稱](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，由[諾基亞銷售](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")，
-所有手機外部爲一般形式，打開[翻蓋可獲得將近裝置大小的](https://zh.wikipedia.org/wiki/翻蓋 "wikilink")[QWERTY鍵盤和液晶熒屏](../Page/QWERTY鍵盤.md "wikilink")。
+**諾基亞Communicator**爲辦公優化[智慧型手機系列的品牌名稱](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，由[諾基亞銷售](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")， 所有手機外部爲一般形式，打開[翻蓋可獲得將近裝置大小的](https://zh.wikipedia.org/wiki/翻蓋 "wikilink")[QWERTY鍵盤](../Page/QWERTY鍵盤.md "wikilink")和液晶熒屏。
 
-諾基亞Communicators具有互聯網鏈接能力、互聯網客戶端和非互聯網通信服務。早期9000系列由功能手機發展爲智慧型手機。[諾基亞E90
-Communicator](https://zh.wikipedia.org/wiki/諾基亞E90_Communicator "wikilink")，最新Communicator型號，爲[諾基亞E系列一部分](https://zh.wikipedia.org/wiki/諾基亞E系列 "wikilink")。
+諾基亞Communicators具有互聯網鏈接能力、互聯網客戶端和非互聯網通信服務。早期9000系列由功能手機發展爲智慧型手機。[諾基亞E90 Communicator](https://zh.wikipedia.org/wiki/諾基亞E90_Communicator "wikilink")，最新Communicator型號，爲[諾基亞E系列一部分](https://zh.wikipedia.org/wiki/諾基亞E系列 "wikilink")。
 
 該系列的成員：
 
@@ -86,31 +84,20 @@ ROM：256 MB（136 MB可訪問）</p></td>
 </tbody>
 </table>
 
-[諾基亞9300和](https://zh.wikipedia.org/wiki/諾基亞9300 "wikilink")[9300i](https://zh.wikipedia.org/wiki/諾基亞9300i "wikilink")（運行[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")
-version
-7.0s）非常類似諾基亞9500但諾基亞并未以Communicator之名銷售。同樣，2011年的[諾基亞E7](https://zh.wikipedia.org/wiki/諾基亞E7 "wikilink")（運行
-Symbian^3）也十分類似Communicator系列，但未以此來銷售。
+[諾基亞9300和](https://zh.wikipedia.org/wiki/諾基亞9300 "wikilink")[9300i](https://zh.wikipedia.org/wiki/諾基亞9300i "wikilink")（運行[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink") version 7.0s）非常類似諾基亞9500但諾基亞并未以Communicator之名銷售。同樣，2011年的[諾基亞E7](https://zh.wikipedia.org/wiki/諾基亞E7 "wikilink")（運行 Symbian^3）也十分類似Communicator系列，但未以此來銷售。
 
 ## 電影
 
-  - 第一次出現在電影中的諾基亞智慧型手機是諾基亞Communicator
-    9000：在1997年方·基墨主演的*[神鬼至尊](../Page/神鬼至尊.md "wikilink")*使用該裝置阻止[俄羅斯寡頭的計劃](https://zh.wikipedia.org/wiki/俄羅斯寡頭 "wikilink")。\[6\]
+  - 第一次出現在電影中的諾基亞智慧型手機是諾基亞Communicator 9000：在1997年方·基墨主演的*[神鬼至尊](../Page/神鬼至尊.md "wikilink")*使用該裝置阻止[俄羅斯寡頭的計劃](https://zh.wikipedia.org/wiki/俄羅斯寡頭 "wikilink")。\[6\]
   - 在*[魔鬼終結者3](https://zh.wikipedia.org/wiki/魔鬼終結者3 "wikilink")*中由克莉絲汀娜·羅肯飾演的「T-X」終結者，劫持了銀色雷克薩斯SC430并在車内使用諾基亞9210撥號遠程連接到本地電話系統服務器
-  - 在*[神鬼拍檔](https://zh.wikipedia.org/wiki/神鬼拍檔 "wikilink")* (2002)
-    克里斯·洛克特殊手機是諾基亞9210。
+  - 在*[神鬼拍檔](https://zh.wikipedia.org/wiki/神鬼拍檔 "wikilink")* (2002) 克里斯·洛克特殊手機是諾基亞9210。
 
 \[7\]
 
 ## 相冊
 
-[File:Nokia-9110-9000.jpg|諾基亞9000](File:Nokia-9110-9000.jpg%7C諾基亞9000)
-Communicator（右）
-諾基亞9110 Communicator（左）
-[File:Nokia-9110-2.jpg|諾基亞9110](File:Nokia-9110-2.jpg%7C諾基亞9110)
-Communicator <File:Nokia> 9210.jpg|諾基亞9210 Communicator
-[File:Julie_Carroll_Moblogging.jpg|諾基亞9500](File:Julie_Carroll_Moblogging.jpg%7C諾基亞9500)
-Communicator [File:Nokia-e90.png|諾基亞E90](File:Nokia-e90.png%7C諾基亞E90)
-Communicator Nokia-9210i-9500-e90.jpg|諾基亞9210i、9500和E90 Communicators
+[File:Nokia-9110-9000.jpg|諾基亞9000](File:Nokia-9110-9000.jpg%7C諾基亞9000) Communicator（右）
+諾基亞9110 Communicator（左） [File:Nokia-9110-2.jpg|諾基亞9110](File:Nokia-9110-2.jpg%7C諾基亞9110) Communicator <File:Nokia> 9210.jpg|諾基亞9210 Communicator [File:Julie_Carroll_Moblogging.jpg|諾基亞9500](File:Julie_Carroll_Moblogging.jpg%7C諾基亞9500) Communicator [File:Nokia-e90.png|諾基亞E90](File:Nokia-e90.png%7C諾基亞E90) Communicator Nokia-9210i-9500-e90.jpg|諾基亞9210i、9500和E90 Communicators
 
 ## 參見
 
@@ -120,23 +107,12 @@ Communicator Nokia-9210i-9500-e90.jpg|諾基亞9210i、9500和E90 Communicators
 
 ## 參考文獻
 
-[Category:诺基亚手机](https://zh.wikipedia.org/wiki/Category:诺基亚手机 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
+[Category:诺基亚手机](https://zh.wikipedia.org/wiki/Category:诺基亚手机 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
 
-1.   Technical
-    Specifications|url=[http://pdadb.net/index.php?m=specs\&id=879\&view=1\&c=nokia_9000_communicator|publisher=PDAdb.net|accessdate=15](http://pdadb.net/index.php?m=specs&id=879&view=1&c=nokia_9000_communicator%7Cpublisher=PDAdb.net%7Caccessdate=15)
-    September 2010}}
-2.   Technical
-    Specifications|url=[http://pdadb.net/index.php?m=specs\&id=881\&c=nokia_9110_communicator|publisher=PDAdb.net|accessdate=15](http://pdadb.net/index.php?m=specs&id=881&c=nokia_9110_communicator%7Cpublisher=PDAdb.net%7Caccessdate=15)
-    September 2010}}
-3.   Technical
-    Specifications|url=[http://pdadb.net/index.php?m=specs\&id=886\&c=nokia_9210_communicator|publisher=PDAdb.net|accessdate=15](http://pdadb.net/index.php?m=specs&id=886&c=nokia_9210_communicator%7Cpublisher=PDAdb.net%7Caccessdate=15)
-    September 2010}}
-4.   Technical
-    Specifications|url=[http://pdadb.net/index.php?m=specs\&id=894\&c=nokia_9500_communicator|publisher=PDAdb.net|accessdate=15](http://pdadb.net/index.php?m=specs&id=894&c=nokia_9500_communicator%7Cpublisher=PDAdb.net%7Caccessdate=15)
-    September 2010}}
-5.   Technical
-    Specifications|url=[http://pdadb.net/index.php?m=specs\&id=895\&c=nokia_e90_communicator|publisher=PDAdb.net|accessdate=15](http://pdadb.net/index.php?m=specs&id=895&c=nokia_e90_communicator%7Cpublisher=PDAdb.net%7Caccessdate=15)
-    September 2010}}
+1.   Technical Specifications|url=[http://pdadb.net/index.php?m=specs\&id=879\&view=1\&c=nokia_9000_communicator|publisher=PDAdb.net|accessdate=15](http://pdadb.net/index.php?m=specs&id=879&view=1&c=nokia_9000_communicator%7Cpublisher=PDAdb.net%7Caccessdate=15) September 2010}}
+2.   Technical Specifications|url=[http://pdadb.net/index.php?m=specs\&id=881\&c=nokia_9110_communicator|publisher=PDAdb.net|accessdate=15](http://pdadb.net/index.php?m=specs&id=881&c=nokia_9110_communicator%7Cpublisher=PDAdb.net%7Caccessdate=15) September 2010}}
+3.   Technical Specifications|url=[http://pdadb.net/index.php?m=specs\&id=886\&c=nokia_9210_communicator|publisher=PDAdb.net|accessdate=15](http://pdadb.net/index.php?m=specs&id=886&c=nokia_9210_communicator%7Cpublisher=PDAdb.net%7Caccessdate=15) September 2010}}
+4.   Technical Specifications|url=[http://pdadb.net/index.php?m=specs\&id=894\&c=nokia_9500_communicator|publisher=PDAdb.net|accessdate=15](http://pdadb.net/index.php?m=specs&id=894&c=nokia_9500_communicator%7Cpublisher=PDAdb.net%7Caccessdate=15) September 2010}}
+5.   Technical Specifications|url=[http://pdadb.net/index.php?m=specs\&id=895\&c=nokia_e90_communicator|publisher=PDAdb.net|accessdate=15](http://pdadb.net/index.php?m=specs&id=895&c=nokia_e90_communicator%7Cpublisher=PDAdb.net%7Caccessdate=15) September 2010}}
 6.
 7.

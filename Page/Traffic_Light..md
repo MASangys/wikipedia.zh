@@ -1,5 +1,4 @@
-**Traffic
-Light.**（）是[勝利娛樂旗下的](../Page/勝利娛樂.md "wikilink")3人男子團體，同時也是日本男子偶像團體[MeseMoa.的派生組合](../Page/MeseMoa..md "wikilink")。
+**Traffic Light.**（）是[勝利娛樂](../Page/勝利娛樂.md "wikilink")旗下的3人男子團體，同時也是日本男子偶像團體[MeseMoa.](../Page/MeseMoa..md "wikilink")的派生組合。
 
 ## 概要
 
@@ -7,28 +6,21 @@ Light.**（）是[勝利娛樂旗下的](../Page/勝利娛樂.md "wikilink")3人
 
 成員由動画投稿網站的9人组成的男子偶像團體『MeseMoa.』（旧名為「Musumen.」）中的成員浮躁王子・白服・碧海所結成的3人男子團體。
 
-『Traffic
-Light.』是以水貴智哉(浮躁王子)・白瀬裕大(白服)・今川碧海(碧海)活動。團名的由来是『Musumen.』中3人的顏色擔當，紅色、黄色、和青色（水色），被称为交通灯，然後『Musumen.』的「。」附着在它後面\[2\]\[3\]。
+『Traffic Light.』是以水貴智哉(浮躁王子)・白瀬裕大(白服)・今川碧海(碧海)活動。團名的由来是『Musumen.』中3人的顏色擔當，紅色、黄色、和青色（水色），被称为交通灯，然後『Musumen.』的「。」附着在它後面\[2\]\[3\]。
 
 ## 略歴
 
 ### 2016年
 
-  - 7月5日、宣布擔當[東京都會電視台原創節目](../Page/東京都會電視台.md "wikilink")「」片尾曲歌唱者。
+  - 7月5日、宣布擔當[東京都會電視台](../Page/東京都會電視台.md "wikilink")原創節目「」片尾曲歌唱者。
   - 8月4日、團體「Traffic Light.」首次亮相。
   - 11月16日，**首張/出道單曲『Dance Dance\!\! / Traffic Jam』發售。**
   - 11月28日，當日的Oricon週間榜CD单曲排名中获得第九名。
 
 ### 2017年
 
-  - 5月7日，因实现出道單曲目标（發售20,000枚以上、Oricon週間榜CD单曲排名10位以内），並在[澀谷](../Page/澀谷.md "wikilink")舉辦單人演唱會「Are
-    You Ready？」，並且分两哥部分举行。同日，發表各成員作詞的原创独唱曲（白瀬裕大『真夜中的TRUTH』、水貴智哉『My
-    Precious BLUE』、今川碧海『LOVE YOU BABY』）\[4\]。
-  - 5月22日，預告新作迷你專輯「PERFECT
-    WORLD/GEEKDOM」即將發售。収録曲「GEEKDOM」是由本郷奏多主演的W结盟[MBS](../Page/每日放送.md "wikilink")・[TBS電視台](../Page/TBS電視台.md "wikilink")「怪獣倶楽部
-    ～空想特撮青春記～」的片尾曲，而「PERFECT
-    WORLD」是於7月起的[東京電視台動漫](../Page/東京電視台.md "wikilink")「[數碼暴龍宇宙
-    應用怪獸](../Page/數碼暴龍宇宙_應用怪獸.md "wikilink")」的新片尾曲\[5\]。
+  - 5月7日，因实现出道單曲目标（發售20,000枚以上、Oricon週間榜CD单曲排名10位以内），並在[澀谷](../Page/澀谷.md "wikilink")舉辦單人演唱會「Are You Ready？」，並且分两哥部分举行。同日，發表各成員作詞的原创独唱曲（白瀬裕大『真夜中的TRUTH』、水貴智哉『My Precious BLUE』、今川碧海『LOVE YOU BABY』）\[4\]。
+  - 5月22日，預告新作迷你專輯「PERFECT WORLD/GEEKDOM」即將發售。収録曲「GEEKDOM」是由本郷奏多主演的W结盟[MBS](../Page/每日放送.md "wikilink")・[TBS電視台](../Page/TBS電視台.md "wikilink")「怪獣倶楽部 ～空想特撮青春記～」的片尾曲，而「PERFECT WORLD」是於7月起的[東京電視台](../Page/東京電視台.md "wikilink")動漫「[數碼暴龍宇宙 應用怪獸](../Page/數碼暴龍宇宙_應用怪獸.md "wikilink")」的新片尾曲\[5\]。
   - 8月2日，**首張迷你專輯「PERFECT WORLD/GEEKDOM」發售。**
 
 ## 成員
@@ -172,8 +164,7 @@ Light.』是以水貴智哉(浮躁王子)・白瀬裕大(白服)・今川碧海(
 
   - 『Dance Dance\!\!』/『』片尾曲([TOKYO MX](../Page/東京都會電視台.md "wikilink"))
   - 『VANTAN STUDENT FINAL 2017』官方支持者\[6\]
-  - 『PERFECT WORLD』/『[數碼暴龍宇宙
-    應用怪獸](../Page/數碼暴龍宇宙_應用怪獸.md "wikilink")』片尾曲（[東京電視台動漫](../Page/東京電視台.md "wikilink")）
+  - 『PERFECT WORLD』/『[數碼暴龍宇宙 應用怪獸](../Page/數碼暴龍宇宙_應用怪獸.md "wikilink")』片尾曲（[東京電視台](../Page/東京電視台.md "wikilink")動漫）
   - 『GEEKDOM』/『』片尾曲（[MBS](../Page/每日放送.md "wikilink")・[TBS](../Page/TBS電視台.md "wikilink")）
 
 ## 參考資料
@@ -186,15 +177,9 @@ Light.』是以水貴智哉(浮躁王子)・白瀬裕大(白服)・今川碧海(
 
   - Traffic Light.成員Twitter
 
-      - [白瀬裕大 (白服)](https://twitter.com/shirofuku_nico)ㆍ[今川碧海
-        (碧海)](https://twitter.com/nicodance_Aoi)ㆍ[水貴智哉
-        (浮躁王子)](https://twitter.com/kimapuriHP)
+      - [白瀬裕大 (白服)](https://twitter.com/shirofuku_nico)ㆍ[今川碧海 (碧海)](https://twitter.com/nicodance_Aoi)ㆍ[水貴智哉 (浮躁王子)](https://twitter.com/kimapuriHP)
 
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink")
-[Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
+[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
 
 1.
 2.

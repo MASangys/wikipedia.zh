@@ -1,6 +1,4 @@
-為2015年6月19日起晚間21:00 -
-22:54（[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）於[日本電視台播出的](../Page/日本電視台.md "wikilink")[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")（第1集）及於網路平台[Hulu於每週五](../Page/Hulu.md "wikilink")（[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）上傳的網路連續劇（第2至7集）\[1\]，由[唐澤壽明主演](../Page/唐澤壽明.md "wikilink")。此劇由[佐藤友治執筆改編自德國電視劇](https://zh.wikipedia.org/wiki/佐藤友治 "wikilink")《Der
-letzte Bulle》\[2\]。首集收視率為12.9%\[3\]。episode0為2015年播出的重製版及2016年播出的週六連續劇。
+為2015年6月19日起晚間21:00 - 22:54（[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）於[日本電視台](../Page/日本電視台.md "wikilink")播出的[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")（第1集）及於網路平台[Hulu](../Page/Hulu.md "wikilink")於每週五（[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）上傳的網路連續劇（第2至7集）\[1\]，由[唐澤壽明](../Page/唐澤壽明.md "wikilink")主演。此劇由[佐藤友治執筆改編自德國電視劇](https://zh.wikipedia.org/wiki/佐藤友治 "wikilink")《Der letzte Bulle》\[2\]。首集收視率為12.9%\[3\]。episode0為2015年播出的重製版及2016年播出的週六連續劇。
 
 ## 劇情概要
 
@@ -42,18 +40,14 @@ letzte Bulle》\[2\]。首集收視率為12.9%\[3\]。episode0為2015年播出�
   - 劇本：[佐藤友治](https://zh.wikipedia.org/wiki/佐藤友治 "wikilink")
   - 導演：[豬股隆一](https://zh.wikipedia.org/wiki/豬股隆一 "wikilink")（EP1,2）、[明石廣人](https://zh.wikipedia.org/wiki/明石廣人 "wikilink")（EP3,5〔前篇、後篇〕）、[長沼誠](https://zh.wikipedia.org/wiki/長沼誠 "wikilink")（EP4〔前篇、後篇〕）
   - 音樂：[得田真裕](https://zh.wikipedia.org/wiki/得田真裕 "wikilink")
-  - 主題曲：[SPYAIR](../Page/SPYAIR.md "wikilink")「Fire
-    Starter」（[索尼音樂相關記錄](https://zh.wikipedia.org/wiki/索尼音樂相關記錄 "wikilink")）\[4\]
+  - 主題曲：[SPYAIR](../Page/SPYAIR.md "wikilink")「Fire Starter」（[索尼音樂相關記錄](https://zh.wikipedia.org/wiki/索尼音樂相關記錄 "wikilink")）\[4\]
   - 聲音設計：[石井和之](https://zh.wikipedia.org/wiki/石井和之 "wikilink")
-  - 美術設計
-    -[高野雅裕](https://zh.wikipedia.org/wiki/高野雅裕 "wikilink")、渡邊俊太、松木修人
+  - 美術設計 -[高野雅裕](https://zh.wikipedia.org/wiki/高野雅裕 "wikilink")、渡邊俊太、松木修人
   - 視覺特效：[岡野正廣](https://zh.wikipedia.org/wiki/岡野正廣 "wikilink")、熱田健太郎
   - 警察監修：[吉川祐二](https://zh.wikipedia.org/wiki/吉川祐二 "wikilink")
   - 動作協調：[柴原孝典](https://zh.wikipedia.org/wiki/柴原孝典 "wikilink")
   - 行車特技：[高橋賽車](https://zh.wikipedia.org/wiki/高橋賽車 "wikilink")
-  - 技術協力：[NiTRo](https://zh.wikipedia.org/wiki/NiTRo "wikilink")、[UP
-    SIDE](https://zh.wikipedia.org/wiki/UP_SIDE "wikilink")、[VIDEO
-    STAFF](https://zh.wikipedia.org/wiki/VIDEO_STAFF "wikilink")
+  - 技術協力：[NiTRo](https://zh.wikipedia.org/wiki/NiTRo "wikilink")、[UP SIDE](https://zh.wikipedia.org/wiki/UP_SIDE "wikilink")、[VIDEO STAFF](https://zh.wikipedia.org/wiki/VIDEO_STAFF "wikilink")
   - 美術協力：[日本電視藝術](https://zh.wikipedia.org/wiki/日本電視藝術 "wikilink")
   - 音效：[SPOT](https://zh.wikipedia.org/wiki/SPOT "wikilink")
   - 台詞製作人：鈴間廣枝、松山雅則
@@ -192,21 +186,7 @@ letzte Bulle》\[2\]。首集收視率為12.9%\[3\]。episode0為2015年播出�
   - [《THE LAST COP》Hulu官方網站](http://www.hulu.jp/the-last-cop)
   - [《最後的刑警》衛視中文台官方網站](https://web.archive.org/web/20160126022253/http://www.fictw.com/scc/content.php?id=4599&pn=1)
 
-[Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink")
-[Category:日本電視台特別劇集](https://zh.wikipedia.org/wiki/Category:日本電視台特別劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:翻拍電視劇](https://zh.wikipedia.org/wiki/Category:翻拍電視劇 "wikilink")
-[Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink")
-[Category:日本電視喜劇](https://zh.wikipedia.org/wiki/Category:日本電視喜劇 "wikilink")
-[Category:橫濱市背景電視劇](https://zh.wikipedia.org/wiki/Category:橫濱市背景電視劇 "wikilink")
-[Category:1985年背景作品](https://zh.wikipedia.org/wiki/Category:1985年背景作品 "wikilink")
-[Category:星空傳媒(台灣)電視外購日劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購日劇 "wikilink")
-[Category:2015年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2015年電視特別劇集 "wikilink")
-[Category:2016年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年日本電視劇集 "wikilink")
-[Category:2015年亮相的日本網絡劇](https://zh.wikipedia.org/wiki/Category:2015年亮相的日本網絡劇 "wikilink")
-[Category:2016年亮相的日本網絡劇](https://zh.wikipedia.org/wiki/Category:2016年亮相的日本網絡劇 "wikilink")
-[Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink")
-[Category:電視劇改編電影](https://zh.wikipedia.org/wiki/Category:電視劇改編電影 "wikilink")
+[Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink") [Category:日本電視台特別劇集](https://zh.wikipedia.org/wiki/Category:日本電視台特別劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:翻拍電視劇](https://zh.wikipedia.org/wiki/Category:翻拍電視劇 "wikilink") [Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink") [Category:日本電視喜劇](https://zh.wikipedia.org/wiki/Category:日本電視喜劇 "wikilink") [Category:橫濱市背景電視劇](https://zh.wikipedia.org/wiki/Category:橫濱市背景電視劇 "wikilink") [Category:1985年背景作品](https://zh.wikipedia.org/wiki/Category:1985年背景作品 "wikilink") [Category:星空傳媒(台灣)電視外購日劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購日劇 "wikilink") [Category:2015年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2015年電視特別劇集 "wikilink") [Category:2016年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年日本電視劇集 "wikilink") [Category:2015年亮相的日本網絡劇](https://zh.wikipedia.org/wiki/Category:2015年亮相的日本網絡劇 "wikilink") [Category:2016年亮相的日本網絡劇](https://zh.wikipedia.org/wiki/Category:2016年亮相的日本網絡劇 "wikilink") [Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink") [Category:電視劇改編電影](https://zh.wikipedia.org/wiki/Category:電視劇改編電影 "wikilink")
 
 1.
 

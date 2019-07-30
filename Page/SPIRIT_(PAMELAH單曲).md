@@ -1,4 +1,4 @@
-《**SPIRIT**》是[日本女子音樂組合](../Page/日本.md "wikilink")的第7張單曲。1997年2月5日由[日本古倫美亞發行](../Page/日本古倫美亞.md "wikilink")。
+《**SPIRIT**》是[日本](../Page/日本.md "wikilink")女子音樂組合的第7張單曲。1997年2月5日由[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")發行。
 
 ## 概要
 
@@ -18,11 +18,8 @@
 
 ## 相關項目
 
-  - [Being (公司)](../Page/Being_\(公司\).md "wikilink")－舊名ZAIN
-    RECORDS，現已併入Being。
+  - [Being (公司)](../Page/Being_\(公司\).md "wikilink")－舊名ZAIN RECORDS，現已併入Being。
 
-[Category:1997年單曲](https://zh.wikipedia.org/wiki/Category:1997年單曲 "wikilink")
-[Category:朝日電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:朝日電視台動畫主題曲 "wikilink")
-[Category:靈異教師神眉](https://zh.wikipedia.org/wiki/Category:靈異教師神眉 "wikilink")
+[Category:1997年單曲](https://zh.wikipedia.org/wiki/Category:1997年單曲 "wikilink") [Category:朝日電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:朝日電視台動畫主題曲 "wikilink") [Category:靈異教師神眉](https://zh.wikipedia.org/wiki/Category:靈異教師神眉 "wikilink")
 
 1.  單行本《[靈異教師神眉](https://zh.wikipedia.org/wiki/靈異教師神眉 "wikilink")》第21冊，1997年9月，第197頁。

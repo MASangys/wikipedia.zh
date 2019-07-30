@@ -4,8 +4,7 @@ require('Module:No globals')
 
 local p = {}
 
-local getImageName = require( 'Module:Portal' ).image local yesno =
-require( 'Module:Yesno' )
+local getImageName = require( 'Module:Portal' ).image local yesno = require( 'Module:Yesno' )
 
 \-- Builds the portal bar used by . function p._main( portals, args )
 
@@ -51,8 +50,7 @@ require( 'Module:Yesno' )
 
 end
 
-\-- Processes external arguments and sends them to the other functions.
-function p.main( frame )
+\-- Processes external arguments and sends them to the other functions. function p.main( frame )
 
 `   -- If called via #invoke, use the args passed into the invoking`
 `   -- template, or the args passed to #invoke if any exist. Otherwise`

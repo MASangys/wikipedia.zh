@@ -1,9 +1,6 @@
-**THE
-LEGEND**（；即漢字**傳說**），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")5人男子組合\[1\]，於2014年7月9日發行單曲《The
-Legend》以主打歌《美·男（因為還有所迷戀）》（）出道\[2\]。
+**THE LEGEND**（；即漢字**傳說**），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")5人男子組合\[1\]，於2014年7月9日發行單曲《The Legend》以主打歌《美·男（因為還有所迷戀）》（）出道\[2\]。
 
-2015年7月，由於JK SPACE娛樂與GYM娛樂合併，故團體轉至合併後的新公司SS娛樂\[3\]。到2016年7月，THE
-LEGEND以公司未履行業務為由，向SS娛樂要求解約\[4\]\[5\]。
+2015年7月，由於JK SPACE娛樂與GYM娛樂合併，故團體轉至合併後的新公司SS娛樂\[3\]。到2016年7月，THE LEGEND以公司未履行業務為由，向SS娛樂要求解約\[4\]\[5\]。
 
 2017年5月13日，THE LEGEND隊長Listen在受訪時表示組合與SS娛樂的訴訟已勝出，並同時宣布組合解散\[6\]。
 
@@ -188,14 +185,7 @@ LEGEND以公司未履行業務為由，向SS娛樂要求解約\[4\]\[5\]。
   -
   - [THE LEGEND](http://cafe.daum.net/LEGEND5)在Daum cafe的頁面
 
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
-[Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
-[Category:2014年韓國建立](https://zh.wikipedia.org/wiki/Category:2014年韓國建立 "wikilink")
-[Category:2017年韓國廢除](https://zh.wikipedia.org/wiki/Category:2017年韓國廢除 "wikilink")
+[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink") [Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:2014年韓國建立](https://zh.wikipedia.org/wiki/Category:2014年韓國建立 "wikilink") [Category:2017年韓國廢除](https://zh.wikipedia.org/wiki/Category:2017年韓國廢除 "wikilink")
 
 1.
 
@@ -206,9 +196,7 @@ LEGEND以公司未履行業務為由，向SS娛樂要求解約\[4\]\[5\]。
 
 5.
 
-6.  [［Admin P.🌹］ Recap/Trans of \#Jaehyuk's interview about the lawsuit
-    & the
-    disbandment.](https://twitter.com/5_Herose_5/status/862766033001746437)
+6.  [［Admin P.🌹］ Recap/Trans of \#Jaehyuk's interview about the lawsuit & the disbandment.](https://twitter.com/5_Herose_5/status/862766033001746437)
 
 7.
 

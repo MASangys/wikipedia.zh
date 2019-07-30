@@ -105,10 +105,6 @@
 
 ## 外部連結
 
-  - [E
-    Channel](http://www.imtcast.com/cms/content.jsp?menucode=150300&smenucode=150301&spgmdomain=riders&iinfonum=181&mcnt=1)
+  - [E Channel](http://www.imtcast.com/cms/content.jsp?menucode=150300&smenucode=150301&spgmdomain=riders&iinfonum=181&mcnt=1)
 
-[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
-[Category:音樂電視劇](https://zh.wikipedia.org/wiki/Category:音樂電視劇 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
+[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:音樂電視劇](https://zh.wikipedia.org/wiki/Category:音樂電視劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")

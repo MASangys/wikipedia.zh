@@ -2,13 +2,11 @@
 
 ## 生平
 
-2010年获得美国[南加州大学神经科学学士学位](../Page/南加州大学.md "wikilink")。
-徐鹏曾多次讲过他父亲对他的影响很大，并且在他父亲于2015年去世后，希望能够继承并延续他父亲的事业。\[5\]毕业后，徐鹏加入了他父亲（徐荣祥医生）所创办的细胞再生研究公司—美宝。徐鹏的主要工作是进一步提升美宝在烧伤创伤等领域的成果，减轻患者在严重烧伤治疗中所受的痛苦，皮肤细胞的再生复原，以及对受损组织进行结构和功能方面的修复。\[6\]徐鹏因研发了新型烧伤治疗技术声名大噪，成为了奥巴马总统所举行的最后一次国宴的荣誉嘉宾\[7\].
+2010年获得美国[南加州大学](../Page/南加州大学.md "wikilink")神经科学学士学位。 徐鹏曾多次讲过他父亲对他的影响很大，并且在他父亲于2015年去世后，希望能够继承并延续他父亲的事业。\[5\]毕业后，徐鹏加入了他父亲（徐荣祥医生）所创办的细胞再生研究公司—美宝。徐鹏的主要工作是进一步提升美宝在烧伤创伤等领域的成果，减轻患者在严重烧伤治疗中所受的痛苦，皮肤细胞的再生复原，以及对受损组织进行结构和功能方面的修复。\[6\]徐鹏因研发了新型烧伤治疗技术声名大噪，成为了奥巴马总统所举行的最后一次国宴的荣誉嘉宾\[7\].
 
 ## 获得总统奖章
 
-由于对加州州立大学洛杉矶分校(Cal State
-LA)的学院和学生所做出的突出贡献，徐鹏被授予了加州州立大学洛杉矶分校总统奖章，此奖项自1983年设立以来总共只授予了十个人。\[8\]
+由于对加州州立大学洛杉矶分校(Cal State LA)的学院和学生所做出的突出贡献，徐鹏被授予了加州州立大学洛杉矶分校总统奖章，此奖项自1983年设立以来总共只授予了十个人。\[8\]
 
 ## 荣誉
 
@@ -25,10 +23,7 @@ LA)的学院和学生所做出的突出贡献，徐鹏被授予了加州州立�
 
 ## 参考资料
 
-[Category:中華人民共和國企業家](https://zh.wikipedia.org/wiki/Category:中華人民共和國企業家 "wikilink")
-[Category:山东企业家](https://zh.wikipedia.org/wiki/Category:山东企业家 "wikilink")
-[Category:济南人](https://zh.wikipedia.org/wiki/Category:济南人 "wikilink")
-[Category:徐姓](https://zh.wikipedia.org/wiki/Category:徐姓 "wikilink")
+[Category:中華人民共和國企業家](https://zh.wikipedia.org/wiki/Category:中華人民共和國企業家 "wikilink") [Category:山东企业家](https://zh.wikipedia.org/wiki/Category:山东企业家 "wikilink") [Category:济南人](https://zh.wikipedia.org/wiki/Category:济南人 "wikilink") [Category:徐姓](https://zh.wikipedia.org/wiki/Category:徐姓 "wikilink")
 
 1.
 2.  [新语丝](http://www.wenxuecity.com/news/2017/02/01/5982665_print.html)

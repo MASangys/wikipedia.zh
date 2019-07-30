@@ -1,8 +1,8 @@
-，是由遊戲開發公司[Cygames製作的以](../Page/Cygames.md "wikilink")[手機遊戲為主導](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，包含動畫、漫畫和音樂的多媒體企劃\[1\]。簡稱『**馬娘**（****）』。預定2018年上市\[2\]。
+，是由遊戲開發公司[Cygames](../Page/Cygames.md "wikilink")製作的以[手機遊戲為主導](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，包含動畫、漫畫和音樂的多媒體企劃\[1\]。簡稱『**馬娘**（****）』。預定2018年上市\[2\]。
 
-遊戲內容是以[競賽馬](https://zh.wikipedia.org/wiki/競賽馬 "wikilink")[萌擬人化為主題](../Page/萌擬人化.md "wikilink")，並以「系列」作稱呼在賽場上以勝利為目標的[養成遊戲](https://zh.wikipedia.org/wiki/養成遊戲 "wikilink")。
+遊戲內容是以[競賽馬](https://zh.wikipedia.org/wiki/競賽馬 "wikilink")[萌擬人化](../Page/萌擬人化.md "wikilink")為主題，並以「系列」作稱呼在賽場上以勝利為目標的[養成遊戲](https://zh.wikipedia.org/wiki/養成遊戲 "wikilink")。
 
-製作指揮由以往提攜《[偶像大師系列](https://zh.wikipedia.org/wiki/偶像大師系列 "wikilink")》的[Cygames內容製作人石原章弘擔任](../Page/Cygames.md "wikilink")\[3\]。2019年5月8日，製作人石原章弘退出Cygames\[4\]。
+製作指揮由以往提攜《[偶像大師系列](https://zh.wikipedia.org/wiki/偶像大師系列 "wikilink")》的[Cygames](../Page/Cygames.md "wikilink")內容製作人石原章弘擔任\[3\]。2019年5月8日，製作人石原章弘退出Cygames\[4\]。
 
 ## 故事簡介
 
@@ -40,8 +40,7 @@
 
   -
     隊伍「角宿一」的訓練員。
-    為人輕浮，指導方針有時候也顯得很隨便。但實際上對於「Twinkle
-    Series」投入了非同常人的熱情，比任何人都要真摯地考慮賽馬娘的事情。
+    為人輕浮，指導方針有時候也顯得很隨便。但實際上對於「Twinkle Series」投入了非同常人的熱情，比任何人都要真摯地考慮賽馬娘的事情。
     與「南門二」的訓練員華是舊識。似乎曾因某些原因而暫時離開過訓練員業……。
 
 <!-- end list -->
@@ -265,7 +264,7 @@
 <!-- end list -->
 
   -
-    2017年3月25日開始在[Cygames的官方網站](../Page/Cygames.md "wikilink")『Cycomics（）』進行更新\[5\]。作畫由S.濃擔任\[6\]。
+    2017年3月25日開始在[Cygames](../Page/Cygames.md "wikilink")的官方網站『Cycomics（）』進行更新\[5\]。作畫由S.濃擔任\[6\]。
     角色設定與動畫版相同，但是劇情與動畫版不同。
 
 <table>
@@ -342,7 +341,7 @@
 
 ## 電視動畫
 
-由[Cygames](../Page/Cygames.md "wikilink")、及[Lantis三家共同企劃製作的電視動畫](../Page/Lantis.md "wikilink")\[8\]\[9\]。2018年4月1日起首播\[10\]。動畫製作由[P.A.WORKS負責](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")\[11\]\[12\]。
+由[Cygames](../Page/Cygames.md "wikilink")、及[Lantis](../Page/Lantis.md "wikilink")三家共同企劃製作的電視動畫\[8\]\[9\]。2018年4月1日起首播\[10\]。動畫製作由[P.A.WORKS負責](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")\[11\]\[12\]。
 
 ### 製作人員
 
@@ -377,8 +376,7 @@
 
 :: 作詞：真崎，作曲：桑原聖，編曲：酒井拓也
 
-::
-主唱：特別週（和氣杏未）、無聲鈴鹿（高野麻里佳）、東海帝皇（Machico）、伏特加（大橋彩香）、大和赤驥（木村千咲）、黃金船（上田瞳）、目白麥昆（大西沙織）
+:: 主唱：特別週（和氣杏未）、無聲鈴鹿（高野麻里佳）、東海帝皇（Machico）、伏特加（大橋彩香）、大和赤驥（木村千咲）、黃金船（上田瞳）、目白麥昆（大西沙織）
 
 :;「」（第5話）
 
@@ -392,8 +390,7 @@
 
 :: 作詞：真崎，作曲：新田目翔，編曲：熊田知存
 
-::
-主唱：特別週（和氣杏未）、無聲鈴鹿（高野麻里佳）、東海帝皇（Machico）、伏特加（大橋彩香）、大和赤驥（木村千咲）、黃金船（上田瞳）、目白麥昆（大西沙織）
+:: 主唱：特別週（和氣杏未）、無聲鈴鹿（高野麻里佳）、東海帝皇（Machico）、伏特加（大橋彩香）、大和赤驥（木村千咲）、黃金船（上田瞳）、目白麥昆（大西沙織）
 
 :; 「」（第13話）
 
@@ -614,8 +611,7 @@ Kwon Hyeok-jeong、Park Ae-ri</p></td>
 
 ## 網路廣播
 
-以《**！
-～娘報部～**》為標題，2016年11月11日起在進行配信。毎週五更新。主持人由特別週的聲優[和氣杏未](../Page/和氣杏未.md "wikilink")、無聲鈴鹿的聲優[高野麻里佳](../Page/高野麻里佳.md "wikilink")、東海帝皇的聲優[Machico](../Page/Machico.md "wikilink")\[35\]共3人擔任。
+以《**！ ～娘報部～**》為標題，2016年11月11日起在進行配信。毎週五更新。主持人由特別週的聲優[和氣杏未](../Page/和氣杏未.md "wikilink")、無聲鈴鹿的聲優[高野麻里佳](../Page/高野麻里佳.md "wikilink")、東海帝皇的聲優[Machico](../Page/Machico.md "wikilink")\[35\]共3人擔任。
 
 ## 參考資料
 
@@ -625,20 +621,13 @@ Kwon Hyeok-jeong、Park Ae-ri</p></td>
 
   -
 
-  - [STARTING GATE！ -賽馬娘Pretty
-    Derby-｜Cycomic](https://cycomi.com/title.php?title_id=51)
+  - [STARTING GATE！ -賽馬娘Pretty Derby-｜Cycomic](https://cycomi.com/title.php?title_id=51)
 
   - [電視動畫「賽馬娘Pretty Derby」公式官網](http://anime-umamusume.jp/)
 
   -
 
-[Category:Cygames遊戲](https://zh.wikipedia.org/wiki/Category:Cygames遊戲 "wikilink")
-[Category:Cygames動畫作品](https://zh.wikipedia.org/wiki/Category:Cygames動畫作品 "wikilink")
-[Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink")
-[Category:萌擬人化](https://zh.wikipedia.org/wiki/Category:萌擬人化 "wikilink")
-[Category:2018年電子遊戲](https://zh.wikipedia.org/wiki/Category:2018年電子遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
+[Category:Cygames遊戲](https://zh.wikipedia.org/wiki/Category:Cygames遊戲 "wikilink") [Category:Cygames動畫作品](https://zh.wikipedia.org/wiki/Category:Cygames動畫作品 "wikilink") [Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink") [Category:萌擬人化](https://zh.wikipedia.org/wiki/Category:萌擬人化 "wikilink") [Category:2018年電子遊戲](https://zh.wikipedia.org/wiki/Category:2018年電子遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
 
 1.
 2.

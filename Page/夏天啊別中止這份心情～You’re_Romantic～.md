@@ -1,5 +1,4 @@
-《**夏天啊別中止這份心情～You』re
-Romantic～**》（）是日本樂團[flumpool主流出道的第](https://zh.wikipedia.org/wiki/flumpool "wikilink")13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2015年8月5日發行，台灣方面則由[相信音樂製作](https://zh.wikipedia.org/wiki/相信音樂 "wikilink")、[台灣索尼音樂娛樂股份有限公司發行](../Page/台灣索尼音樂娛樂.md "wikilink")。
+《**夏天啊別中止這份心情～You』re Romantic～**》（）是日本樂團[flumpool主流出道的第](https://zh.wikipedia.org/wiki/flumpool "wikilink")13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2015年8月5日發行，台灣方面則由[相信音樂製作](https://zh.wikipedia.org/wiki/相信音樂 "wikilink")、[台灣索尼音樂娛樂](../Page/台灣索尼音樂娛樂.md "wikilink")股份有限公司發行。
 
 ## 收錄歌曲
 
@@ -26,8 +25,4 @@ Romantic～**》（）是日本樂團[flumpool主流出道的第](https://zh.wik
 
 ## 參考資料
 
-[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink")
-[Category:flumpool歌曲](https://zh.wikipedia.org/wiki/Category:flumpool歌曲 "wikilink")
-[Category:A-Sketch發行單曲](https://zh.wikipedia.org/wiki/Category:A-Sketch發行單曲 "wikilink")
-[Category:台灣索尼唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣索尼唱片音樂專輯 "wikilink")
-[Category:相信音樂製作音樂專輯](https://zh.wikipedia.org/wiki/Category:相信音樂製作音樂專輯 "wikilink")
+[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:flumpool歌曲](https://zh.wikipedia.org/wiki/Category:flumpool歌曲 "wikilink") [Category:A-Sketch發行單曲](https://zh.wikipedia.org/wiki/Category:A-Sketch發行單曲 "wikilink") [Category:台灣索尼唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣索尼唱片音樂專輯 "wikilink") [Category:相信音樂製作音樂專輯](https://zh.wikipedia.org/wiki/Category:相信音樂製作音樂專輯 "wikilink")

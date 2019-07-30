@@ -1,9 +1,8 @@
-**iFile**是一款可访问系统文件的[iOS文件管理器](https://zh.wikipedia.org/wiki/iOS "wikilink")，只能在越狱的[iOS的系统上运行](https://zh.wikipedia.org/wiki/iOS "wikilink")，可在[Cydia中以](../Page/Cydia.md "wikilink")4.99美元购买，由Crasten
-Heinelt开发。\[1\]
+**iFile**是一款可访问系统文件的[iOS文件管理器](https://zh.wikipedia.org/wiki/iOS "wikilink")，只能在越狱的[iOS的系统上运行](https://zh.wikipedia.org/wiki/iOS "wikilink")，可在[Cydia](../Page/Cydia.md "wikilink")中以4.99美元购买，由Crasten Heinelt开发。\[1\]
 
 ## 主要功能
 
-  - 支持创建、复制、删除、剪切、粘贴、链接、压缩、使用文件或文件夹、使用其他程序打开文件和修改文件的所有权、查看文件的[MD5值以及编辑时间](../Page/MD5.md "wikilink").
+  - 支持创建、复制、删除、剪切、粘贴、链接、压缩、使用文件或文件夹、使用其他程序打开文件和修改文件的所有权、查看文件的[MD5](../Page/MD5.md "wikilink")值以及编辑时间.
   - 支持搜索文件(包括跨级搜索文件)
   - 支持打开编辑特殊文件或文本.
   - 支持多窗口、显示文件缩略图、更改iFile的主题风格.
@@ -18,10 +17,8 @@ iFile曾被iOS越狱社区里被评为"越狱的iOS系统必不可少的插件",
 ## 兼容性
 
   - iFile2.0.1-1 版本不支持多任务.
-  - iFile2.2.0-1版本在[iOS
-    4](https://zh.wikipedia.org/wiki/iOS_4 "wikilink").2.1系统上安装后出现半安装问题.
-  - iFile2.2.0 在[iOS 6](https://zh.wikipedia.org/wiki/iOS_6 "wikilink")
-    系统上安装出现图标显示问题.
+  - iFile2.2.0-1版本在[iOS 4](https://zh.wikipedia.org/wiki/iOS_4 "wikilink").2.1系统上安装后出现半安装问题.
+  - iFile2.2.0 在[iOS 6](https://zh.wikipedia.org/wiki/iOS_6 "wikilink") 系统上安装出现图标显示问题.
 
 ## 参见
 
@@ -33,8 +30,7 @@ iFile曾被iOS越狱社区里被评为"越狱的iOS系统必不可少的插件",
 ## 外部链接
 
   -
-[Category:IOS越獄](https://zh.wikipedia.org/wiki/Category:IOS越獄 "wikilink")
-[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
+[Category:IOS越獄](https://zh.wikipedia.org/wiki/Category:IOS越獄 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
 
 1.  [iFile.Cydia](http://cydia.saurik.com/package/eu.heinelt.ifile)
 2.  [ios7～ios9必裝%5Dios上最強大的管理員軟件](http://mrmad.pixnet.net/blog/post/170810479-%5Bcydia-for-ios7～ios9必裝%5Dios上最強大的管理員軟)

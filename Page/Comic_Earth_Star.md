@@ -1,8 +1,6 @@
-《漫畫地球之星》（；）是[Earth Star
-Entertainment發行的網路漫畫雜誌](../Page/Earth_Star_Entertainment.md "wikilink")，實體書於2011年3月11日出版\[1\]，又於2014年11月12日停刊。從2015年開始改為單純網路漫畫雜誌。
+《漫畫地球之星》（；）是[Earth Star Entertainment發行的網路漫畫雜誌](../Page/Earth_Star_Entertainment.md "wikilink")，實體書於2011年3月11日出版\[1\]，又於2014年11月12日停刊。從2015年開始改為單純網路漫畫雜誌。
 
-視頻租賃連鎖店“TSUTAYA”於2010年成立[Culture Convenience
-Club](../Page/Culture_Convenience_Club.md "wikilink")，開始於[Pixiv招募新人漫畫家和插圖師](../Page/Pixiv.md "wikilink")。
+視頻租賃連鎖店“TSUTAYA”於2010年成立[Culture Convenience Club](../Page/Culture_Convenience_Club.md "wikilink")，開始於[Pixiv](../Page/Pixiv.md "wikilink")招募新人漫畫家和插圖師。
 
 ## 連載中作品
 
@@ -115,9 +113,7 @@ Club](../Page/Culture_Convenience_Club.md "wikilink")，開始於[Pixiv招募新
   - **アタラクシア 〜戦国転生記〜**（原作：岩田やすてる）
   - **[愛麗絲仙境戰記](https://zh.wikipedia.org/wiki/愛麗絲仙境戰記 "wikilink")(アリス・ロワイヤル)**（原作：ai\&kai）
   - **エンカとハナミチ**（原作：濱元隆輔）
-  - **[WATER
-    CUBE](https://zh.wikipedia.org/wiki/WATER_CUBE "wikilink")**（原作：河一權
-    演出/絵コンテ：中村珍 作画：中澤泉汰）
+  - **[WATER CUBE](https://zh.wikipedia.org/wiki/WATER_CUBE "wikilink")**（原作：河一權 演出/絵コンテ：中村珍 作画：中澤泉汰）
   - **[鬼斬千紗](https://zh.wikipedia.org/wiki/鬼斬千紗 "wikilink")(おにぎりささ)**（原作：目黒三吉）
   - **カッテ\!RPG\!\!**（おちR）
   - **くあどら\!**（原作：とく村長）
@@ -126,11 +122,9 @@ Club](../Page/Culture_Convenience_Club.md "wikilink")，開始於[Pixiv招募新
   - **惨殺半島 赤目村**（原作：武富健治 原案協力：中島直俊）
   - **勝利の女神だって野球したい\!**（原作：松本ミトヒ。）
   - **怪（しるまし）ピルグリム**（原作：蔵人頭）
-  - **[超级索尼子](https://zh.wikipedia.org/wiki/超级索尼子 "wikilink")(すーぱーそに子
-    そにコマ)**(原作：ニトロプラス 漫画：野々原ちき)
+  - **[超级索尼子](https://zh.wikipedia.org/wiki/超级索尼子 "wikilink")(すーぱーそに子 そにコマ)**(原作：ニトロプラス 漫画：野々原ちき)
   - **全力アイドル\!**（原作：ESE 漫画：蒼木アキ）
-  - **[我要成為世界最強偶像](https://zh.wikipedia.org/wiki/我要成為世界最強偶像 "wikilink")(世界でいちばん強くなりたい\!)**（原作：ESE
-    作画：夏木きよひと キャラクターデザイン：黒獅子 演出協力：蜂文太）
+  - **[我要成為世界最強偶像](https://zh.wikipedia.org/wiki/我要成為世界最強偶像 "wikilink")(世界でいちばん強くなりたい\!)**（原作：ESE 作画：夏木きよひと キャラクターデザイン：黒獅子 演出協力：蜂文太）
   - **そろそろ兄にも本気を出してもらおう委員会 妹支部の愛と涙と青春の活動記録**（原作：耳式）
   - **D.C.III 〜ダ・カーポIII〜公式新聞部日誌**（原作：藤井理乃）
   - **ちょっと待った\!\!自殺カフェ**（原作：岬ヨウコ）
@@ -152,8 +146,7 @@ Club](../Page/Culture_Convenience_Club.md "wikilink")，開始於[Pixiv招募新
   - **マテリアルブレイブ**（原作：戯画/TEAM BALDRHEAD 漫画：abua）
   - **みちくさ やまみち**（原作：岩岡ヒサエ）
   - **モレンジャーV**（原作：小田原ドラゴン）
-  - **[RECORD](https://zh.wikipedia.org/wiki/RECORD "wikilink")**（原作協力：中島直俊
-    漫画：藤原カムイ）
+  - **[RECORD](https://zh.wikipedia.org/wiki/RECORD "wikilink")**（原作協力：中島直俊 漫画：藤原カムイ）
 
 ## 參考來源
 
@@ -162,16 +155,6 @@ Club](../Page/Culture_Convenience_Club.md "wikilink")，開始於[Pixiv招募新
   - [官方網站](http://comic-earthstar.jp/index.php)
   - [twitter](https://twitter.com/comicearthstar)
 
-[Category:日本已停刊杂志](https://zh.wikipedia.org/wiki/Category:日本已停刊杂志 "wikilink")
-[Category:Comic_Earth_Star](https://zh.wikipedia.org/wiki/Category:Comic_Earth_Star "wikilink")
-[Category:2011年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:2011年創辦的雜誌 "wikilink")
-[Category:2014年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2014年停刊的雜誌 "wikilink")
-[Category:2011年日本建立](https://zh.wikipedia.org/wiki/Category:2011年日本建立 "wikilink")
-[Category:2014年日本建立](https://zh.wikipedia.org/wiki/Category:2014年日本建立 "wikilink")
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:少年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少年漫畫雜誌 "wikilink")
-[Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink")
-[Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
-[Category:網路漫畫網站](https://zh.wikipedia.org/wiki/Category:網路漫畫網站 "wikilink")
+[Category:日本已停刊杂志](https://zh.wikipedia.org/wiki/Category:日本已停刊杂志 "wikilink") [Category:Comic_Earth_Star](https://zh.wikipedia.org/wiki/Category:Comic_Earth_Star "wikilink") [Category:2011年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:2011年創辦的雜誌 "wikilink") [Category:2014年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2014年停刊的雜誌 "wikilink") [Category:2011年日本建立](https://zh.wikipedia.org/wiki/Category:2011年日本建立 "wikilink") [Category:2014年日本建立](https://zh.wikipedia.org/wiki/Category:2014年日本建立 "wikilink") [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:少年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少年漫畫雜誌 "wikilink") [Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:網路漫畫網站](https://zh.wikipedia.org/wiki/Category:網路漫畫網站 "wikilink")
 
 1.

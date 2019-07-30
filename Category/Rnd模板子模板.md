@@ -1,10 +1,8 @@
-The following is a list of the \[ subtemplates\] of . This list excludes
-the main template and its .
+The following is a list of the \[ subtemplates\] of . This list excludes the main template and its .
 
 ## Code
 
-The main page takes two parameters: a number & the precision to which it
-is to be rounded.
+The main page takes two parameters: a number & the precision to which it is to be rounded.
 
   -
 <!-- end list -->

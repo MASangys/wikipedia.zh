@@ -1,15 +1,8 @@
-[f.lux是一个](https://zh.wikipedia.org/wiki/f.lux "wikilink")[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[计算机程序](../Page/计算机程序.md "wikilink")，根据一天的地点和时间调整显示器的[色温](../Page/色温.md "wikilink")。软件的目的是减少夜间使用时的眼睛疲劳和[昼夜节律的中断](../Page/昼夜节律.md "wikilink")。\[1\]\[2\]
+[f.lux是一个](https://zh.wikipedia.org/wiki/f.lux "wikilink")[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[计算机程序](../Page/计算机程序.md "wikilink")，根据一天的地点和时间调整显示器的[色温](../Page/色温.md "wikilink")。软件的目的是减少夜间使用时的眼睛疲劳和[昼夜节律](../Page/昼夜节律.md "wikilink")的中断。\[1\]\[2\]
 
 ## 兼容性
 
-该程序可运行在 [Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"),
-[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink") 和
-[Linux](../Page/Linux.md "wikilink")。也可在iOS设备上运行，但需要越狱。\[3\]
-由于使用了限制的开发工具，苹果AppStore不允许该应用加入其中。\[4\]
-苹果公司宣布了一项类似的功能，称为Night Shift，在iOS
-9.3中，开发人员呼吁Apple提供开发工具并允许其应用程序进入App
-Store。\[5\]Android的预览版可用。\[6\]
+该程序可运行在 [Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"), [macOS](https://zh.wikipedia.org/wiki/macOS "wikilink") 和 [Linux](../Page/Linux.md "wikilink")。也可在iOS设备上运行，但需要越狱。\[3\] 由于使用了限制的开发工具，苹果AppStore不允许该应用加入其中。\[4\] 苹果公司宣布了一项类似的功能，称为Night Shift，在iOS 9.3中，开发人员呼吁Apple提供开发工具并允许其应用程序进入App Store。\[5\]Android的预览版可用。\[6\]
 
 ## 功能
 
@@ -29,11 +22,7 @@ f.lux支持者推测，改变显示器的色温以减少夜间白蓝光的突出
 
 ## 参考资料
 
-[Category:2009年软件](https://zh.wikipedia.org/wiki/Category:2009年软件 "wikilink")
-[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
-[Category:睡眠](https://zh.wikipedia.org/wiki/Category:睡眠 "wikilink")
-[Category:可用性](https://zh.wikipedia.org/wiki/Category:可用性 "wikilink")
-[Category:Windows实用程序](https://zh.wikipedia.org/wiki/Category:Windows实用程序 "wikilink")
+[Category:2009年软件](https://zh.wikipedia.org/wiki/Category:2009年软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:睡眠](https://zh.wikipedia.org/wiki/Category:睡眠 "wikilink") [Category:可用性](https://zh.wikipedia.org/wiki/Category:可用性 "wikilink") [Category:Windows实用程序](https://zh.wikipedia.org/wiki/Category:Windows实用程序 "wikilink")
 
 1.
 

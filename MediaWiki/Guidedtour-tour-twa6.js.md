@@ -2,8 +2,7 @@
 
 ( function ( window, document, $, mw, gt ) {
 
-//automatic api:edit function to send yourself messages function
-sendMessage( targetPage, msgPage, linkTo ) {
+//automatic api:edit function to send yourself messages function sendMessage( targetPage, msgPage, linkTo ) {
 
 `   var api = new mw.Api();`
 `   api.post( {`
@@ -18,9 +17,7 @@ sendMessage( targetPage, msgPage, linkTo ) {
 
 }
 
-// Fail gracefully post-save but not postedit var postEditButtons =
-\[\]; if ( mw.config.get( 'wgAction' ) === 'view' && \!gt.isPostEdit() )
-{
+// Fail gracefully post-save but not postedit var postEditButtons = \[\]; if ( mw.config.get( 'wgAction' ) === 'view' && \!gt.isPostEdit() ) {
 
 `       postEditButtons.push( {`
 `               name: '按此返回並進行編輯',`
@@ -31,9 +28,7 @@ sendMessage( targetPage, msgPage, linkTo ) {
 
 }
 
-// Fail gracefully post-save but not postedit for visual editor var
-postEditButtonsVisual = \[\]; if ( mw.config.get( 'wgAction' ) ===
-'view' && \!gt.isPostEdit() ) {
+// Fail gracefully post-save but not postedit for visual editor var postEditButtonsVisual = \[\]; if ( mw.config.get( 'wgAction' ) === 'view' && \!gt.isPostEdit() ) {
 
 `       postEditButtonsVisual.push( {`
 `               name: '按此返回並進行編輯',`
@@ -470,8 +465,7 @@ gt.defineTour( {
 
 首先，抄錄參考資料的資訊。
 
-<b>彭學文. 歷史平衡中的地球. 科學與自然. SandNjournal.com/Earthinthebalance.
-2013-03-2013 \[\].</b>
+<b>彭學文. 歷史平衡中的地球. 科學與自然. SandNjournal.com/Earthinthebalance. 2013-03-2013 \[\].</b>
 
 ',
 
@@ -645,8 +639,7 @@ gt.defineTour( {
 `               //22`
 `               title: '第六關完成！',`
 `               description: '`
-[<File:MacLeod>`,``   ``Kevin``   ``-``   ``Stringed``   ``Disco``
- ``(short).ogg`](https://zh.wikipedia.org/wiki/File:MacLeod,_Kevin_-_Stringed_Disco_\(short\).ogg "fig:File:MacLeod, Kevin - Stringed Disco (short).ogg")
+[<File:MacLeod>`,``   ``Kevin``   ``-``   ``Stringed``   ``Disco``   ``(short).ogg`](https://zh.wikipedia.org/wiki/File:MacLeod,_Kevin_-_Stringed_Disco_\(short\).ogg "fig:File:MacLeod, Kevin - Stringed Disco (short).ogg")
 <b>`踏入第七關⋯⋯我們需要您的技能！`</b>`',`
 `               onShow: gt.parseDescription,`
 `               overlay: false,`

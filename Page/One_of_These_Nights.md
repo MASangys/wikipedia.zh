@@ -1,12 +1,8 @@
-[One of These
-Nights是老鹰乐队的第四张录音室专辑](../Page/One_of_These_Nights.md "wikilink")，于1975年发布。这张专辑是老鹰乐队第一张登公告牌第一名的专辑，此后老鹰乐队每张专辑都超过100万的销量。
+[One of These Nights是老鹰乐队的第四张录音室专辑](../Page/One_of_These_Nights.md "wikilink")，于1975年发布。这张专辑是老鹰乐队第一张登公告牌第一名的专辑，此后老鹰乐队每张专辑都超过100万的销量。
 
 ## 背景
 
-老鹰乐队于1974年底开始研究他们的第四张专辑，Glenn Frey和Don
-Henley自己写了九首歌曲中的四首，并与其他三首歌曲合作。许多歌曲都是在Frey和Henley在[比佛利山庄一个房子的时候写的](https://zh.wikipedia.org/wiki/比佛利山庄酒店 "wikilink")，其中包括"One
-of These Nights", "Lyin' Eyes", "Take It To The Limit" 和 "After The
-Thrill Is Gone"。
+老鹰乐队于1974年底开始研究他们的第四张专辑，Glenn Frey和Don Henley自己写了九首歌曲中的四首，并与其他三首歌曲合作。许多歌曲都是在Frey和Henley在[比佛利山庄一个房子的时候写的](https://zh.wikipedia.org/wiki/比佛利山庄酒店 "wikilink")，其中包括"One of These Nights", "Lyin' Eyes", "Take It To The Limit" 和 "After The Thrill Is Gone"。
 
 ## 荣誉
 
@@ -131,5 +127,4 @@ Thrill Is Gone"。
 
 <references />
 
-[Category:1975年音樂專輯](https://zh.wikipedia.org/wiki/Category:1975年音樂專輯 "wikilink")
-[Category:Elektra_Records音乐专辑](https://zh.wikipedia.org/wiki/Category:Elektra_Records音乐专辑 "wikilink")
+[Category:1975年音樂專輯](https://zh.wikipedia.org/wiki/Category:1975年音樂專輯 "wikilink") [Category:Elektra_Records音乐专辑](https://zh.wikipedia.org/wiki/Category:Elektra_Records音乐专辑 "wikilink")

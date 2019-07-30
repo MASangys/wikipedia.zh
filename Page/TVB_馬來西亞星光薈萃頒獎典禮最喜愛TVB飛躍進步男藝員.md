@@ -1,15 +1,10 @@
-**[TVB
-馬來西亞星光薈萃頒獎典禮最喜愛TVB飛躍進步男藝員](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")**每年是由[香港](../Page/香港.md "wikilink")[TVB娛樂新聞台](../Page/TVB娛樂新聞台.md "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro及MY](https://zh.wikipedia.org/wiki/Astro "wikilink")
-FM聯合頒發，最初名為《[Astro華麗台電視劇大獎](https://zh.wikipedia.org/wiki/Astro華麗台電視劇大獎 "wikilink")》，及後名為《[MY
-AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/MY_AOD我的最愛頒獎典禮 "wikilink")》，至2013年正式易名為《TVB
-馬來西亞星光薈萃頒獎典禮》。
+**[TVB 馬來西亞星光薈萃頒獎典禮最喜愛TVB飛躍進步男藝員](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")**每年是由[香港](../Page/香港.md "wikilink")[TVB娛樂新聞台](../Page/TVB娛樂新聞台.md "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro及MY](https://zh.wikipedia.org/wiki/Astro "wikilink") FM聯合頒發，最初名為《[Astro華麗台電視劇大獎](https://zh.wikipedia.org/wiki/Astro華麗台電視劇大獎 "wikilink")》，及後名為《[MY AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/MY_AOD我的最愛頒獎典禮 "wikilink")》，至2013年正式易名為《TVB 馬來西亞星光薈萃頒獎典禮》。
 
 獎項於2013年(第10屆)才設立。故Astro及MY AOD時期並沒有「最喜愛TVB飛躍進步男藝員」的得主。
 
 此獎項曾使用多個名字，當中有TVB最具潛質男藝員（2013），及2014年開始沿用「**最喜愛TVB飛躍進步男藝員**」為此獎項之名字，並一直沿用至今。
 
-截至2017年，[TVB
-馬來西亞星光薈萃頒獎典禮舉辦第](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")14屆，最近獲獎男演員是[何廣沛](../Page/何廣沛.md "wikilink")\[1\]。
+截至2017年，[TVB 馬來西亞星光薈萃頒獎典禮舉辦第](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")14屆，最近獲獎男演員是[何廣沛](../Page/何廣沛.md "wikilink")\[1\]。
 
 ## 統計
 
@@ -236,8 +231,7 @@ AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/MY_AOD我的最愛頒
 
 ## 參見
 
-  - [TVB
-    馬來西亞星光薈萃頒獎典禮](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")
+  - [TVB 馬來西亞星光薈萃頒獎典禮](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")
   - [萬千星輝頒獎典禮飛躍進步男藝員](https://zh.wikipedia.org/wiki/萬千星輝頒獎典禮飛躍進步男藝員 "wikilink")
 
 [Category:TVB_馬來西亞星光薈萃頒獎典禮](https://zh.wikipedia.org/wiki/Category:TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")

@@ -4,8 +4,7 @@
 
 同人團體「****」主宰，其名稱取自於出身地製造販售公司－的商品「朝日」。
 
-其作品主要在《[電擊文庫MAGAZINE](../Page/電擊文庫MAGAZINE.md "wikilink")》（[ASCII Media
-Works](../Page/ASCII_Media_Works.md "wikilink")）Vol.4～6插圖講座連載。
+其作品主要在《[電擊文庫MAGAZINE](../Page/電擊文庫MAGAZINE.md "wikilink")》（[ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")）Vol.4～6插圖講座連載。
 
 ## 主要商業作品
 
@@ -21,8 +20,7 @@ Works](../Page/ASCII_Media_Works.md "wikilink")）Vol.4～6插圖講座連載。
 
 <!-- end list -->
 
-  - （著：[雨宮諒](../Page/雨宮諒.md "wikilink")，[電撃文庫](https://zh.wikipedia.org/wiki/電撃文庫 "wikilink")，[MediaWorks](../Page/MediaWorks.md "wikilink")／[ASCII
-    Media Works](../Page/ASCII_Media_Works.md "wikilink")）
+  - （著：[雨宮諒](../Page/雨宮諒.md "wikilink")，[電撃文庫](https://zh.wikipedia.org/wiki/電撃文庫 "wikilink")，[MediaWorks](../Page/MediaWorks.md "wikilink")／[ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")）
 
   - （著：，電撃文庫，MediaWorks／ASCII Media Works）
 
@@ -39,7 +37,4 @@ Works](../Page/ASCII_Media_Works.md "wikilink")）Vol.4～6插圖講座連載。
 
   - －Poko的官方個人網站。
 
-[Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink")
-[Category:兵庫縣出身人物](https://zh.wikipedia.org/wiki/Category:兵庫縣出身人物 "wikilink")
-[Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink") [Category:兵庫縣出身人物](https://zh.wikipedia.org/wiki/Category:兵庫縣出身人物 "wikilink") [Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")

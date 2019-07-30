@@ -1,29 +1,22 @@
-**AlphaGo對李世乭**是由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[職業九段棋士](https://zh.wikipedia.org/wiki/圍棋棋士列表 "wikilink")[李世乭](../Page/李世乭.md "wikilink")（）與由[Google
-DeepMind開發的](https://zh.wikipedia.org/wiki/Google_DeepMind "wikilink")[電腦圍棋](https://zh.wikipedia.org/wiki/電腦圍棋 "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")[AlphaGo對弈的五局三勝制](../Page/AlphaGo.md "wikilink")[圍棋比賽](https://zh.wikipedia.org/wiki/圍棋 "wikilink")。比賽於2016年3月8日到3月15日在[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[首爾舉行](../Page/首爾.md "wikilink")，採[中國圍棋規則](https://zh.wikipedia.org/wiki/中國圍棋規則 "wikilink")：黑方給白方的[貼目為七目半](https://zh.wikipedia.org/wiki/圍棋規則 "wikilink")，思考時間每方兩小時，用完後各有三次一分鐘[讀秒](https://zh.wikipedia.org/wiki/讀秒 "wikilink")\[1\]。結果為AlphaGo以四勝一敗擊敗李世乭。賽後[韓國棋院授予AlphaGo為](https://zh.wikipedia.org/wiki/韓國棋院 "wikilink")[榮譽九段](https://zh.wikipedia.org/wiki/圍棋段位制 "wikilink")\[2\]。
+**AlphaGo對李世乭**是由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[職業九段棋士](https://zh.wikipedia.org/wiki/圍棋棋士列表 "wikilink")[李世乭](../Page/李世乭.md "wikilink")（）與由[Google DeepMind開發的](https://zh.wikipedia.org/wiki/Google_DeepMind "wikilink")[電腦圍棋](https://zh.wikipedia.org/wiki/電腦圍棋 "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")[AlphaGo](../Page/AlphaGo.md "wikilink")對弈的五局三勝制[圍棋比賽](https://zh.wikipedia.org/wiki/圍棋 "wikilink")。比賽於2016年3月8日到3月15日在[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[首爾](../Page/首爾.md "wikilink")舉行，採[中國圍棋規則](https://zh.wikipedia.org/wiki/中國圍棋規則 "wikilink")：黑方給白方的[貼目為七目半](https://zh.wikipedia.org/wiki/圍棋規則 "wikilink")，思考時間每方兩小時，用完後各有三次一分鐘[讀秒](https://zh.wikipedia.org/wiki/讀秒 "wikilink")\[1\]。結果為AlphaGo以四勝一敗擊敗李世乭。賽後[韓國棋院授予AlphaGo為](https://zh.wikipedia.org/wiki/韓國棋院 "wikilink")[榮譽九段](https://zh.wikipedia.org/wiki/圍棋段位制 "wikilink")\[2\]。
 
 ## 背景
 
-[遊戲及](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[棋類比賽一直是](https://zh.wikipedia.org/wiki/棋類比賽 "wikilink")[軟體工程師用來測試](https://zh.wikipedia.org/wiki/軟體工程師 "wikilink")[電腦運算能力與](https://zh.wikipedia.org/wiki/電腦 "wikilink")[人工智慧的最好方法](https://zh.wikipedia.org/wiki/人工智慧 "wikilink")。1952年，電腦克服了[井字遊戲](https://zh.wikipedia.org/wiki/井字遊戲 "wikilink")，1997年由[IBM的](../Page/IBM.md "wikilink")[深藍電腦擊敗俄籍](https://zh.wikipedia.org/wiki/深藍_\(電腦\) "wikilink")[西洋棋冠軍](https://zh.wikipedia.org/wiki/西洋棋 "wikilink")[卡斯巴羅夫](https://zh.wikipedia.org/wiki/卡斯巴羅夫 "wikilink")，工程師們轉往開發圍棋軟體程式，但由於圍棋的高複雜度，在2015年10月以前，電腦程式（如Zen和）的圍棋能力都略與業餘高手相當，無法在分先的情況下擊敗圍棋職業棋士，只能在受[讓四或五子的情況下擊敗九段的職業棋士](https://zh.wikipedia.org/wiki/讓子 "wikilink")\[3\]\[4\]。
+[遊戲及](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[棋類比賽一直是](https://zh.wikipedia.org/wiki/棋類比賽 "wikilink")[軟體工程師用來測試](https://zh.wikipedia.org/wiki/軟體工程師 "wikilink")[電腦運算能力與](https://zh.wikipedia.org/wiki/電腦 "wikilink")[人工智慧的最好方法](https://zh.wikipedia.org/wiki/人工智慧 "wikilink")。1952年，電腦克服了[井字遊戲](https://zh.wikipedia.org/wiki/井字遊戲 "wikilink")，1997年由[IBM](../Page/IBM.md "wikilink")的[深藍電腦擊敗俄籍](https://zh.wikipedia.org/wiki/深藍_\(電腦\) "wikilink")[西洋棋冠軍](https://zh.wikipedia.org/wiki/西洋棋 "wikilink")[卡斯巴羅夫](https://zh.wikipedia.org/wiki/卡斯巴羅夫 "wikilink")，工程師們轉往開發圍棋軟體程式，但由於圍棋的高複雜度，在2015年10月以前，電腦程式（如Zen和）的圍棋能力都略與業餘高手相當，無法在分先的情況下擊敗圍棋職業棋士，只能在受[讓四或五子的情況下擊敗九段的職業棋士](https://zh.wikipedia.org/wiki/讓子 "wikilink")\[3\]\[4\]。
 
-[AlphaGo於](../Page/AlphaGo.md "wikilink")2015年10月以5比0的成績擊敗了[歐洲圍棋冠軍二段職業棋手](../Page/歐洲圍棋大會.md "wikilink")[樊麾](../Page/樊麾.md "wikilink")，這是電腦程式第一次在未受[讓子的情況下在](https://zh.wikipedia.org/wiki/讓子 "wikilink")19路棋盤上擊敗職業棋士\[5\]\[6\]\[7\]，[谷歌決定宣佈出資](https://zh.wikipedia.org/wiki/谷歌 "wikilink")100萬美元，向[韓國最強的職業棋士挑戰](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[8\]。但是不少評論員認為樊麾的棋力與李世乭九段相距甚遠，不認為AlphaGo真的俱備了擊敗頂尖選手的實力。\[9\]部分圍棋職業棋士在AlphaGo對樊麾的對局中發現AlphaGo有失誤的情況，雖然認為AlphaGo真實的棋力還未知\[10\]，但仍普遍看好李世乭可以5:0战胜AlphaGo\[11\]\[12\]。
+[AlphaGo](../Page/AlphaGo.md "wikilink")於2015年10月以5比0的成績擊敗了[歐洲圍棋冠軍二段職業棋手](../Page/歐洲圍棋大會.md "wikilink")[樊麾](../Page/樊麾.md "wikilink")，這是電腦程式第一次在未受[讓子的情況下在](https://zh.wikipedia.org/wiki/讓子 "wikilink")19路棋盤上擊敗職業棋士\[5\]\[6\]\[7\]，[谷歌決定宣佈出資](https://zh.wikipedia.org/wiki/谷歌 "wikilink")100萬美元，向[韓國最強的職業棋士挑戰](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[8\]。但是不少評論員認為樊麾的棋力與李世乭九段相距甚遠，不認為AlphaGo真的俱備了擊敗頂尖選手的實力。\[9\]部分圍棋職業棋士在AlphaGo對樊麾的對局中發現AlphaGo有失誤的情況，雖然認為AlphaGo真實的棋力還未知\[10\]，但仍普遍看好李世乭可以5:0战胜AlphaGo\[11\]\[12\]。
 
-加拿大人工智能專家在樊麾被擊敗後把AlphaGo比喻為一個欠缺經驗的“天才兒童”，並指出“真正的成功要在與真正的頂級棋士對戰時才會出現”，但他在2016年3月卻表示相信李世乭會取得這次比賽的勝利\[13\]。Google工程师同样自信，来自Google内部的消息称「李世石胜出的可能性为0」\[14\]。
-[國際圍棋聯盟的秘書長](https://zh.wikipedia.org/wiki/國際圍棋聯盟 "wikilink")對於有人工智能能夠挑戰李世乭一事表示“非常興奮”，同時她認為兩者的勝算均等\[15\]。機器學習專家[李開復在賽前預測李世乭對上AlphaGo](../Page/李開復.md "wikilink")，每盤勝算約是89%，AlphaGo想獲勝應該還要一、兩年。
+加拿大人工智能專家在樊麾被擊敗後把AlphaGo比喻為一個欠缺經驗的“天才兒童”，並指出“真正的成功要在與真正的頂級棋士對戰時才會出現”，但他在2016年3月卻表示相信李世乭會取得這次比賽的勝利\[13\]。Google工程师同样自信，来自Google内部的消息称「李世石胜出的可能性为0」\[14\]。 [國際圍棋聯盟的秘書長](https://zh.wikipedia.org/wiki/國際圍棋聯盟 "wikilink")對於有人工智能能夠挑戰李世乭一事表示“非常興奮”，同時她認為兩者的勝算均等\[15\]。機器學習專家[李開復](../Page/李開復.md "wikilink")在賽前預測李世乭對上AlphaGo，每盤勝算約是89%，AlphaGo想獲勝應該還要一、兩年。
 
 ## 規則
 
-此次比賽採用[中國圍棋規則](https://zh.wikipedia.org/wiki/中國圍棋規則 "wikilink")，黑方給白方的[貼目為七目半](https://zh.wikipedia.org/wiki/圍棋規則 "wikilink")，思考時間每方兩小時，用完後各有三次一分鐘[讀秒](https://zh.wikipedia.org/wiki/讀秒 "wikilink")\[16\]。每一局的開始時間為13:00
-[KST](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink") (04:00
-[GMT](https://zh.wikipedia.org/wiki/GMT "wikilink")).\[17\]。勝方會獲得一百萬[美元的獎金](../Page/美元.md "wikilink")。若AlphaGo勝出，則奬金會捐給包括[聯合國兒童基金會在內的慈善機構](https://zh.wikipedia.org/wiki/聯合國兒童基金會 "wikilink")\[18\]。除了獲勝獎金之外，李世乭還會在五輪對局後獲得共十五萬美元的出場費，以及每局勝利外加二萬美元的額外獎金\[19\]。
+此次比賽採用[中國圍棋規則](https://zh.wikipedia.org/wiki/中國圍棋規則 "wikilink")，黑方給白方的[貼目為七目半](https://zh.wikipedia.org/wiki/圍棋規則 "wikilink")，思考時間每方兩小時，用完後各有三次一分鐘[讀秒](https://zh.wikipedia.org/wiki/讀秒 "wikilink")\[16\]。每一局的開始時間為13:00 [KST](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink") (04:00 [GMT](https://zh.wikipedia.org/wiki/GMT "wikilink")).\[17\]。勝方會獲得一百萬[美元](../Page/美元.md "wikilink")的獎金。若AlphaGo勝出，則奬金會捐給包括[聯合國兒童基金會在內的慈善機構](https://zh.wikipedia.org/wiki/聯合國兒童基金會 "wikilink")\[18\]。除了獲勝獎金之外，李世乭還會在五輪對局後獲得共十五萬美元的出場費，以及每局勝利外加二萬美元的額外獎金\[19\]。
 
 ## 對局
 
-比賽日期為2016年3月8日到3月15日，地點為韓國[首爾的](../Page/首爾.md "wikilink")[四季酒店](../Page/四季酒店.md "wikilink")\[20\]\[21\]，並透過[流媒体向全球直播](../Page/流媒体.md "wikilink")\[22\]。由Google
-DeepMind研究員暨台灣圍棋業餘六段棋士黃士傑替分散式運算版的AlphaGo放置棋子\[23\]，而AlphaGo則透過[雲端技術傳送至](../Page/雲端運算.md "wikilink")[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[Google](../Page/Google.md "wikilink")[伺服器上進行運算來決定棋子位置](https://zh.wikipedia.org/wiki/伺服器 "wikilink")\[24\]
-。
+比賽日期為2016年3月8日到3月15日，地點為韓國[首爾](../Page/首爾.md "wikilink")的[四季酒店](../Page/四季酒店.md "wikilink")\[20\]\[21\]，並透過[流媒体](../Page/流媒体.md "wikilink")向全球直播\[22\]。由Google DeepMind研究員暨台灣圍棋業餘六段棋士黃士傑替分散式運算版的AlphaGo放置棋子\[23\]，而AlphaGo則透過[雲端技術傳送至](../Page/雲端運算.md "wikilink")[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[Google](../Page/Google.md "wikilink")[伺服器上進行運算來決定棋子位置](https://zh.wikipedia.org/wiki/伺服器 "wikilink")\[24\] 。
 
-在第四局後，由電腦圍棋軟體的作者所架設的世界職業圍棋[等級分排行網站](https://zh.wikipedia.org/wiki/等級分 "wikilink")[Go
-Ratings](../Page/Go_Ratings.md "wikilink")，將AlphaGo排入該網站的第四名\[25\]，五番棋獲四勝後晉為該網站的第二位\[26\]。但是被該網站排為第一的中國棋士[柯潔認為此網站的排名沒有公信力](https://zh.wikipedia.org/wiki/柯潔 "wikilink")，並表示將程式與職業棋士並排也不公平。\[27\]
+在第四局後，由電腦圍棋軟體的作者所架設的世界職業圍棋[等級分排行網站](https://zh.wikipedia.org/wiki/等級分 "wikilink")[Go Ratings](../Page/Go_Ratings.md "wikilink")，將AlphaGo排入該網站的第四名\[25\]，五番棋獲四勝後晉為該網站的第二位\[26\]。但是被該網站排為第一的中國棋士[柯潔認為此網站的排名沒有公信力](https://zh.wikipedia.org/wiki/柯潔 "wikilink")，並表示將程式與職業棋士並排也不公平。\[27\]
 
 ### 摘要
 
@@ -240,7 +233,7 @@ AlphaGo（黑方）勝出第二局。
 
 ### 第四局
 
-李世乭（白方）勝出第四局；[古力將李世乭](../Page/古力.md "wikilink")78手稱為「神之一手」，AlphaGo大約在87手才發現它79手算錯了，其後AlphaGo在97手時更出現入門級別的錯誤；李世乭在這次比賽發現AlphaGo用黑子對抗白子時，若遇上不在預期內的棋步就可能出錯；其次，只要AlphaGo用黑子下棋，猶疑的時間更久\[32\]。而這些錯誤的原因，DeepMind團隊還沒有找出來\[33\]。
+李世乭（白方）勝出第四局；[古力](../Page/古力.md "wikilink")將李世乭78手稱為「神之一手」，AlphaGo大約在87手才發現它79手算錯了，其後AlphaGo在97手時更出現入門級別的錯誤；李世乭在這次比賽發現AlphaGo用黑子對抗白子時，若遇上不在預期內的棋步就可能出錯；其次，只要AlphaGo用黑子下棋，猶疑的時間更久\[32\]。而這些錯誤的原因，DeepMind團隊還沒有找出來\[33\]。
 
 |         |                                     |                                      |                                            |                                               |                                          |                                          |                                            |                                             |                                                |                                                  |                                                |                                          |                                      |                                      |                                        |                                               |                                          |                                     |                                           |
 | ------- | ----------------------------------- | ------------------------------------ | ------------------------------------------ | --------------------------------------------- | ---------------------------------------- | ---------------------------------------- | ------------------------------------------ | ------------------------------------------- | ---------------------------------------------- | ------------------------------------------------ | ---------------------------------------------- | ---------------------------------------- | ------------------------------------ | ------------------------------------ | -------------------------------------- | --------------------------------------------- | ---------------------------------------- | ----------------------------------- | ----------------------------------------- |
@@ -318,14 +311,11 @@ AlphaGo（白方）勝出第五局。
 
 ## 播放
 
-[YouTube上的第一局直播平均約有](../Page/YouTube.md "wikilink")8萬名觀眾收看，最高峰的終局時段觀眾人數達10萬\[34\]。據[微博非官方消息统计首战直播有一亿人观看](../Page/微博.md "wikilink")，其中六千万来自中国。排名最高的非東亞裔圍棋選手[邁克·雷蒙](https://zh.wikipedia.org/wiki/邁克·雷蒙 "wikilink")（Michael
-Redmond，美籍職業九段）擔任此次官方英語直播的旁述。[新浪](../Page/新浪.md "wikilink")、[乐视网](../Page/乐视网.md "wikilink")、[騰訊](https://zh.wikipedia.org/wiki/騰訊 "wikilink")、[bilibili等中国网络媒体也轉播了此次比赛](https://zh.wikipedia.org/wiki/bilibili "wikilink")\[35\]。
+[YouTube](../Page/YouTube.md "wikilink")上的第一局直播平均約有8萬名觀眾收看，最高峰的終局時段觀眾人數達10萬\[34\]。據[微博](../Page/微博.md "wikilink")非官方消息统计首战直播有一亿人观看，其中六千万来自中国。排名最高的非東亞裔圍棋選手[邁克·雷蒙](https://zh.wikipedia.org/wiki/邁克·雷蒙 "wikilink")（Michael Redmond，美籍職業九段）擔任此次官方英語直播的旁述。[新浪](../Page/新浪.md "wikilink")、[乐视网](../Page/乐视网.md "wikilink")、[騰訊](https://zh.wikipedia.org/wiki/騰訊 "wikilink")、[bilibili等中国网络媒体也轉播了此次比赛](https://zh.wikipedia.org/wiki/bilibili "wikilink")\[35\]。
 
 ## 質疑
 
-在李世乭第二盤落敗後，開始出現對於AlphaGo處理[打劫能力方面的質疑](../Page/劫_\(围棋\).md "wikilink")。圍棋棋局中[打劫是常见手段](../Page/劫_\(围棋\).md "wikilink")，而劫的存在会让人工智能增加計算量，並进一步考验人工智能的深度计算模型。前兩場對弈中未出現[劫爭](../Page/劫_\(围棋\).md "wikilink")，媒体問李世乭是否与谷歌签署保密协议不能打劫争胜，对此李世乭回答：“我中间确实有胜机，以后比赛会尽力下好（笑）。”\[36\]“棋圣”[聂卫平認為](../Page/聂卫平.md "wikilink")：“对电脑的打劫有点质疑，可能打劫时电脑的应对不太好，这两盘棋确实都没有出现打劫的局面，看看后几盘棋电脑应对打劫的时候是什么样子吧。”\[37\]人机大战裁判长樊麾則表示，2015年十月與AlphaGo對弈的棋谱里，就有过很多劫争，並沒有保密协议\[38\]。隨後AlphaGo的主要開發人員並曾撰寫[碩士](https://zh.wikipedia.org/wiki/碩士 "wikilink")[論文](https://zh.wikipedia.org/wiki/論文 "wikilink")《電腦圍棋打劫的策略》\[39\]\[40\]的黃士傑博士也在台灣的弈棋論壇做出下列聲明：“這次比賽並沒有所謂的不能打劫的保密協議。第一、第二盤棋覆盤時李世石九段都有擺出打劫的變化，只是實戰他沒有下出來。我們也想知道，AlphaGo在對陣李世石九段這種級別的棋手，打劫時的表現。
-”\[41\]\[42\]後來的第三盤後半出現了劫爭，AlphaGo仍然應對得當，證實了AlphaGo有處理打劫的能力。\[43\]
-[南韓資訊通信專業律師田石鎮則指控AlphaGo在這場對弈之中可以透過](https://zh.wikipedia.org/wiki/南韓 "wikilink")[網路隨時收集資訊](https://zh.wikipedia.org/wiki/網路 "wikilink")，並非按照已獲取的資訊落子。\[44\]然而田石鎮並未對AlphaGo連上網際網路的論述提出任何證據\[45\]，且抨擊其仰賴[暴力搜索的論述也與實際運作原理不符](../Page/暴力搜索.md "wikilink")。\[46\]
+在李世乭第二盤落敗後，開始出現對於AlphaGo處理[打劫能力方面的質疑](../Page/劫_\(围棋\).md "wikilink")。圍棋棋局中[打劫是常见手段](../Page/劫_\(围棋\).md "wikilink")，而劫的存在会让人工智能增加計算量，並进一步考验人工智能的深度计算模型。前兩場對弈中未出現[劫爭](../Page/劫_\(围棋\).md "wikilink")，媒体問李世乭是否与谷歌签署保密协议不能打劫争胜，对此李世乭回答：“我中间确实有胜机，以后比赛会尽力下好（笑）。”\[36\]“棋圣”[聂卫平](../Page/聂卫平.md "wikilink")認為：“对电脑的打劫有点质疑，可能打劫时电脑的应对不太好，这两盘棋确实都没有出现打劫的局面，看看后几盘棋电脑应对打劫的时候是什么样子吧。”\[37\]人机大战裁判长樊麾則表示，2015年十月與AlphaGo對弈的棋谱里，就有过很多劫争，並沒有保密协议\[38\]。隨後AlphaGo的主要開發人員並曾撰寫[碩士](https://zh.wikipedia.org/wiki/碩士 "wikilink")[論文](https://zh.wikipedia.org/wiki/論文 "wikilink")《電腦圍棋打劫的策略》\[39\]\[40\]的黃士傑博士也在台灣的弈棋論壇做出下列聲明：“這次比賽並沒有所謂的不能打劫的保密協議。第一、第二盤棋覆盤時李世石九段都有擺出打劫的變化，只是實戰他沒有下出來。我們也想知道，AlphaGo在對陣李世石九段這種級別的棋手，打劫時的表現。 ”\[41\]\[42\]後來的第三盤後半出現了劫爭，AlphaGo仍然應對得當，證實了AlphaGo有處理打劫的能力。\[43\] [南韓資訊通信專業律師田石鎮則指控AlphaGo在這場對弈之中可以透過](https://zh.wikipedia.org/wiki/南韓 "wikilink")[網路隨時收集資訊](https://zh.wikipedia.org/wiki/網路 "wikilink")，並非按照已獲取的資訊落子。\[44\]然而田石鎮並未對AlphaGo連上網際網路的論述提出任何證據\[45\]，且抨擊其仰賴[暴力搜索](../Page/暴力搜索.md "wikilink")的論述也與實際運作原理不符。\[46\]
 
 ## 參考資料
 
@@ -345,22 +335,17 @@ Redmond，美籍職業九段）擔任此次官方英語直播的旁述。[新浪
 <!-- end list -->
 
   - 腾讯
-      - [第一局
-        古力讲解](http://v.qq.com/cover/r/re6t02j7m052f5q.html?vid=n0019zowcaf)
-      - [第二局 古力
-        俞斌讲解](http://v.qq.com/cover/r/re6t02j7m052f5q.html?vid=s0019khdgqj)
-      - [第三局 古力
-        黄弈中讲解](http://v.qq.com/cover/r/re6t02j7m052f5q.html?vid=g00192ok6s9)
+      - [第一局 古力讲解](http://v.qq.com/cover/r/re6t02j7m052f5q.html?vid=n0019zowcaf)
+      - [第二局 古力 俞斌讲解](http://v.qq.com/cover/r/re6t02j7m052f5q.html?vid=s0019khdgqj)
+      - [第三局 古力 黄弈中讲解](http://v.qq.com/cover/r/re6t02j7m052f5q.html?vid=g00192ok6s9)
       - [第四局 古力 马笑冰 讲解](http://v.qq.com/page/w/0/j/w0019utdbzj.html)
       - [第五局 古力 常昊 俞斌 讲解](http://v.qq.com/page/k/0/e/k0019rz15ke.html)
 
 <!-- end list -->
 
   - DeepMind官方网站
-      - [樊麾解说，古力、周睿羊技术指导
-        简体中文版](https://deepmind.com/research/alphago/alphago-games-simplified-chinese/)
-      - [樊麾解说，古力、周睿羊技术指导
-        繁体中文版](https://deepmind.com/research/alphago/alphago-games-traditional-chinese/)
+      - [樊麾解说，古力、周睿羊技术指导 简体中文版](https://deepmind.com/research/alphago/alphago-games-simplified-chinese/)
+      - [樊麾解说，古力、周睿羊技术指导 繁体中文版](https://deepmind.com/research/alphago/alphago-games-traditional-chinese/)
 
 <!-- end list -->
 
@@ -371,10 +356,7 @@ Redmond，美籍職業九段）擔任此次官方英語直播的旁述。[新浪
       - 李世乭对阵AlphaGo第四局（\[//www.youtube.com/watch?v=yCALyQRN3hw 英語\]）
       - 李世乭对阵AlphaGo第五局（\[//www.youtube.com/watch?v=mzpW10DPHeQ 英語\]）
 
-[分類:韩国围棋比赛](https://zh.wikipedia.org/wiki/分類:韩国围棋比赛 "wikilink")
-[分類:韓國體育](https://zh.wikipedia.org/wiki/分類:韓國體育 "wikilink")
-[分類:2016年韓國](https://zh.wikipedia.org/wiki/分類:2016年韓國 "wikilink")
-[分類:2016年3月](https://zh.wikipedia.org/wiki/分類:2016年3月 "wikilink")
+[分類:韩国围棋比赛](https://zh.wikipedia.org/wiki/分類:韩国围棋比赛 "wikilink") [分類:韓國體育](https://zh.wikipedia.org/wiki/分類:韓國體育 "wikilink") [分類:2016年韓國](https://zh.wikipedia.org/wiki/分類:2016年韓國 "wikilink") [分類:2016年3月](https://zh.wikipedia.org/wiki/分類:2016年3月 "wikilink")
 
 1.
 2.
@@ -415,8 +397,7 @@ Redmond，美籍職業九段）擔任此次官方英語直播的旁述。[新浪
 
 22.
 
-23. [回覆: 電腦圍棋程式人工智慧大突破-Google
-    AlphaGo](http://www.yigo.org/modules/newbb/viewtopic.php?post_id=87902#forumpost87902)
+23. [回覆: 電腦圍棋程式人工智慧大突破-Google AlphaGo](http://www.yigo.org/modules/newbb/viewtopic.php?post_id=87902#forumpost87902)
 
 24.
 
@@ -426,20 +407,15 @@ Redmond，美籍職業九段）擔任此次官方英語直播的旁述。[新浪
 
 27.
 
-28. [Why the Final Game Between AlphaGo and Lee Sedol Is Such a Big Deal
-    for
-    Humanity](http://www.wired.com/2016/03/final-game-alphago-lee-sedol-big-deal-humanity/)
+28. [Why the Final Game Between AlphaGo and Lee Sedol Is Such a Big Deal for Humanity](http://www.wired.com/2016/03/final-game-alphago-lee-sedol-big-deal-humanity/)
 
-29. [捍衛人類尊嚴首戰 李世乭敗！ - The News Lens
-    關鍵評論網](http://hk.thenewslens.com/post/295134/)
-    AlphaGo所用的時間比李世乭多（它只餘下5分鐘左右，而李世乭則有還有28分）
+29. [捍衛人類尊嚴首戰 李世乭敗！ - The News Lens 關鍵評論網](http://hk.thenewslens.com/post/295134/) AlphaGo所用的時間比李世乭多（它只餘下5分鐘左右，而李世乭則有還有28分）
 
 30.
 
 31. <http://udn.com/news/story/5/1559274/> 李世乭：只是我輸了-不是全人類 - 中央社 首爾
 
-32. [棋王奪首勝
-    「發現電腦弱點」](http://www.appledaily.com.tw/appledaily/article/headline/20160314/37108499/)
+32. [棋王奪首勝 「發現電腦弱點」](http://www.appledaily.com.tw/appledaily/article/headline/20160314/37108499/)
 
 33. [AlphaGo第四戰輸了、為什麼連黃士傑也不知道原因？](http://www.setn.com/News.aspx?NewsID=131342)
 

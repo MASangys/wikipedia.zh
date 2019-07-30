@@ -1,4 +1,4 @@
-這個列表包列出[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")[Kenzie所寫的歌曲](../Page/Kenzie.md "wikilink")，包括合作歌曲。
+這個列表包列出[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")[Kenzie](../Page/Kenzie.md "wikilink")所寫的歌曲，包括合作歌曲。
 
 <table>
 <colgroup>
@@ -966,8 +966,7 @@
 
 16.
 
-17. [MIAK Monthly Chart,
-    December 2005](http://www.miak.or.kr/stat/kpop_200512.htm)
+17. [MIAK Monthly Chart, December 2005](http://www.miak.or.kr/stat/kpop_200512.htm)
 
 18.
 

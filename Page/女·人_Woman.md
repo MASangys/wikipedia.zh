@@ -1,5 +1,4 @@
-**《女·人
-Woman》**是[孫盛希的第三張創作專輯](https://zh.wikipedia.org/wiki/孫盛希 "wikilink")，於2018年7月2日開始預購，2018年7月6日數位上架，7月17日實體發行\[1\]。孫盛希首度挑戰擔綱全專輯製作人，與新銳音樂製作人[陳駿翔共同策劃](../Page/陳駿翔.md "wikilink")。專輯中作詞陣容包括[姚若龍](https://zh.wikipedia.org/wiki/姚若龍 "wikilink")、[李焯雄](https://zh.wikipedia.org/wiki/李焯雄 "wikilink")、[葛大為](https://zh.wikipedia.org/wiki/葛大為 "wikilink")、[嚴云農](../Page/嚴云農.md "wikilink")、[藍小邪等](https://zh.wikipedia.org/wiki/藍小邪 "wikilink")。
+**《女·人 Woman》**是[孫盛希的第三張創作專輯](https://zh.wikipedia.org/wiki/孫盛希 "wikilink")，於2018年7月2日開始預購，2018年7月6日數位上架，7月17日實體發行\[1\]。孫盛希首度挑戰擔綱全專輯製作人，與新銳音樂製作人[陳駿翔](../Page/陳駿翔.md "wikilink")共同策劃。專輯中作詞陣容包括[姚若龍](https://zh.wikipedia.org/wiki/姚若龍 "wikilink")、[李焯雄](https://zh.wikipedia.org/wiki/李焯雄 "wikilink")、[葛大為](https://zh.wikipedia.org/wiki/葛大為 "wikilink")、[嚴云農](../Page/嚴云農.md "wikilink")、[藍小邪等](https://zh.wikipedia.org/wiki/藍小邪 "wikilink")。
 
 ## 曲目
 
@@ -144,7 +143,6 @@ Woman》**是[孫盛希的第三張創作專輯](https://zh.wikipedia.org/wiki/�
 
 ## 參考資料
 
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
+[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
 
 1.

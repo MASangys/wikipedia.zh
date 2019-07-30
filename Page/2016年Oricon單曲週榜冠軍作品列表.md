@@ -1,4 +1,4 @@
-**2016年Oricon單曲週榜冠軍作品列表**列出2016年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2016年共有51首冠軍單曲誕生，有一首單曲能蟬聯冠軍兩周或以上。
+**2016年Oricon單曲週榜冠軍作品列表**列出2016年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2016年共有51首冠軍單曲誕生，有一首單曲能蟬聯冠軍兩周或以上。
 
 ## 冠軍單曲列表
 
@@ -24,7 +24,7 @@
 <tr class="even">
 <td><p>1月11日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/凜冽寒風與單相思_/_ENDLESS_SKY_/_One_and_Only" title="wikilink">凜冽寒風與單相思 / ENDLESS SKY / One and Only</a></p></td>
-<td><p><a href="../Page/早安少女組。.md" title="wikilink">早安少女組。'15</a></p></td>
+<td><p><a href="../Page/早安少女組。.md" title="wikilink">早安少女組。</a>'15</p></td>
 <td><p>14.3</p></td>
 <td><p>1</p></td>
 </tr>
@@ -353,7 +353,7 @@
 <tr class="odd">
 <td><p>12月5日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/性感小貓的演説_/_坦率地面對對方_/_不是這樣的" title="wikilink">性感小貓的演説 / 坦率地面對對方 / 不是這樣的</a></p></td>
-<td><p><a href="../Page/早安少女組。.md" title="wikilink">早安少女組。'16</a></p></td>
+<td><p><a href="../Page/早安少女組。.md" title="wikilink">早安少女組。</a>'16</p></td>
 <td><p>9.8</p></td>
 <td><p>1</p></td>
 </tr>
@@ -394,6 +394,4 @@
 
 ## 參考資料
 
-[Category:2016年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
-[Category:2016年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2016年音樂排行榜 "wikilink")
+[Category:2016年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink") [Category:2016年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2016年音樂排行榜 "wikilink")

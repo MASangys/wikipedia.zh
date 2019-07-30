@@ -1,12 +1,10 @@
-《**劇場版 動物戰隊獸王者 VS 忍忍者 來自未來的訊息 from
-超級戰隊**》（），是2017年1月14日預定上映的特攝電影，同時也是超級戰隊系列的《動物戰隊獸王者》和《手裏劍戰隊忍忍者》的劇場版作品。\[1\]
+《**劇場版 動物戰隊獸王者 VS 忍忍者 來自未來的訊息 from 超級戰隊**》（），是2017年1月14日預定上映的特攝電影，同時也是超級戰隊系列的《動物戰隊獸王者》和《手裏劍戰隊忍忍者》的劇場版作品。\[1\]
 
 ## 概要
 
 <big>***2017年，超級戰隊 大進擊\!***</big>
 
-日本在全世界最引以為傲的超級戰隊系列，總計達到40部作品 X
-放送2000回，迎來雙週年紀念。正因如此，歷代的40位紅戰士將會在本作全數登場。\[2\]
+日本在全世界最引以為傲的超級戰隊系列，總計達到40部作品 X 放送2000回，迎來雙週年紀念。正因如此，歷代的40位紅戰士將會在本作全數登場。\[2\]
 
 與之相對應，正是屬於兩組超級戰隊的豪華共演\!
 
@@ -90,8 +88,7 @@
   -
 
       -
-        獸王者中第二名人類戰士，自小體弱多病，而且朋友不多，故此性格比較自卑，心靈亦很脆弱。因此被吉涅斯抓走以後以變得強大作為引誘而遭強制以鱷魚、野狼、犀牛三獸人的獸人之力注入體內，這亦是後來與獸王者對抗過的特級玩家
-        「The World」，其後成為獸王者的第六人戰士。基本顏色為黑色（犀牛型態）。
+        獸王者中第二名人類戰士，自小體弱多病，而且朋友不多，故此性格比較自卑，心靈亦很脆弱。因此被吉涅斯抓走以後以變得強大作為引誘而遭強制以鱷魚、野狼、犀牛三獸人的獸人之力注入體內，這亦是後來與獸王者對抗過的特級玩家 「The World」，其後成為獸王者的第六人戰士。基本顏色為黑色（犀牛型態）。
         擁有隨時轉變其他型態之能力，轉變方法先按下獸王照明器的按鈕，然後轉動中間的方塊到自己選擇的型態並大喊「本能覺醒\!」，面罩會根據所選擇的型態而改變，但前方3個動物的圖案不會改變。於野狼型態時會變得非常敏捷，而且攻擊以槍擊為主。於鱷魚型態時會擁有更強大的肉搏戰鬥能力，而且攻擊以近戰為主。使用野性大解放後左手部跟獸王獅及獸王虎一樣會變成大爪(可抓起多重的衝擊波進行遠距離攻擊)，右手變成鱷魚尾巴(可進行狠勁的斬擊)，肩膀則追加了有角的肩甲加強防禦力。在這形態下可發動必殺技「世界衝擊」
         於本劇場版出場時遭快晴撞翻為了露營而做的料理，然後到了營地並發現遭破壞而回到真理夫的工場，最後因為被忍忍者抓走並且被指是假冒超級戰隊之時因為自己沒有王者的資格而自閉起來，甚至被粉紅忍者打暈並遭到俘虜作為談判籌碼。事後被逼供時因為露露對他使出的藤蔓面具影響而一直說錯話，後來內心的3獸人教他改以身體語言溝通，以扭動屁股的方法寫字，因而意外揭發露露的陰謀並且聯絡獸王者合力以忍術欺騙基爾瑪達，這亦是操被大和解救以後亂入忍忍者與獸王者之間戰鬥的原因。並且於基爾瑪達的陰謀跟身份敗露以後與星忍者合力迎擊被復活的晦正影。
 
@@ -291,11 +288,7 @@
         本劇場版的最終敵人，為在多個星球上成功抹殺多名英雄及其名號的特工。基爾瑪達型態的外表有如花妖。
         於本劇場版受娜莉婭委託並化身為外表較可愛的露露煽動忍忍者及獸王者互相攻擊而達到將他們消滅的目的。而且於露露型態下所發出的花粉可干擾通訊，而藤蔓不但可捆綁敵人，如果捆綁面部的話會令被捆綁者說出自己意識相反的說話。
         當她以為忍忍者及獸王者眾人死亡時出場並自揭真相，因而被眾人揭穿其陰謀，後以秘術製造5個已經被他們打敗過的敵人所製成的黑暗使魔。最後被獸王鯨以及眾人的力量結合的鯨魚變身槍打敗後吃下5枚繼續硬幣並巨大化，最後遭狂野統載手裏劍王以40隊超級戰隊的力量所擊敗。
-        負責聲演露露型態的[福原遙曾經演出過第](../Page/福原遙.md "wikilink")38作《[烈車戰隊特急者](../Page/烈車戰隊特急者.md "wikilink")》中的兩個劇場版《[烈車戰隊特急者
-        THE MOVIE
-        銀河路線SOS](../Page/烈車戰隊特急者_THE_MOVIE_銀河路線SOS.md "wikilink")》及《[烈車戰隊特急者
-        VS 強龍者 THE
-        MOVIE](../Page/烈車戰隊特急者_VS_強龍者_THE_MOVIE.md "wikilink")》的限定角色**雷迪**。而負責聲演基爾瑪達型態的[佐佐木望曾經配音過](../Page/佐佐木望.md "wikilink")《[魔法戰隊魔法連者](../Page/魔法戰隊魔法連者.md "wikilink")》的**冥府神韋分**。
+        負責聲演露露型態的[福原遙](../Page/福原遙.md "wikilink")曾經演出過第38作《[烈車戰隊特急者](../Page/烈車戰隊特急者.md "wikilink")》中的兩個劇場版《[烈車戰隊特急者 THE MOVIE 銀河路線SOS](../Page/烈車戰隊特急者_THE_MOVIE_銀河路線SOS.md "wikilink")》及《[烈車戰隊特急者 VS 強龍者 THE MOVIE](../Page/烈車戰隊特急者_VS_強龍者_THE_MOVIE.md "wikilink")》的限定角色**雷迪**。而負責聲演基爾瑪達型態的[佐佐木望](../Page/佐佐木望.md "wikilink")曾經配音過《[魔法戰隊魔法連者](../Page/魔法戰隊魔法連者.md "wikilink")》的**冥府神韋分**。
 
 ### 其他角色
 
@@ -342,18 +335,15 @@
   - 松尾凪 / 黃忍者（聲） - [中村嘉惟人](../Page/中村嘉惟人.md "wikilink")
   - 伊賀崎風花 / 白忍者（聲） - [矢野優花](../Page/矢野優花.md "wikilink")
   - 百地霞 / 粉紅忍者（聲） - [山谷花純](../Page/山谷花純.md "wikilink")
-  - 金治・瀧川 / 星忍者（聲） -
-    [多和田秀彌](https://zh.wikipedia.org/wiki/多和田秀彌 "wikilink")
-  - 伊賀崎旋風 / 赤忍者（聲） -
-    [矢柴俊博](https://zh.wikipedia.org/wiki/矢柴俊博 "wikilink")
+  - 金治・瀧川 / 星忍者（聲） - [多和田秀彌](https://zh.wikipedia.org/wiki/多和田秀彌 "wikilink")
+  - 伊賀崎旋風 / 赤忍者（聲） - [矢柴俊博](https://zh.wikipedia.org/wiki/矢柴俊博 "wikilink")
   - 巴德 - [村上幸平](../Page/村上幸平.md "wikilink")
   - 伊賀崎快晴 / 赤忍者（聲） - [石川樹](https://zh.wikipedia.org/wiki/石川樹 "wikilink")
   - 森真理夫 - [寺島進](https://zh.wikipedia.org/wiki/寺島進 "wikilink")
 
 ### 配音演出
 
-  - 天宮勇介 / 紅獵鷹 -
-    [嶋大輔](https://zh.wikipedia.org/wiki/嶋大輔 "wikilink")\[3\]
+  - 天宮勇介 / 紅獵鷹 - [嶋大輔](https://zh.wikipedia.org/wiki/嶋大輔 "wikilink")\[3\]
   - 艾札特 - [中田讓治](../Page/中田讓治.md "wikilink")
   - 庫巴爾 - [岩田光央](../Page/岩田光央.md "wikilink")
   - 娜莉亞 - [壽美菜子](../Page/壽美菜子.md "wikilink")
@@ -373,29 +363,23 @@
 ## 主題曲
 
   - 「**レッツ！ジュウオウダンス with NINJA**」
-      - 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")／作曲、編曲：[谷本貴義](../Page/谷本貴義.md "wikilink")／演唱：[大西洋平](https://zh.wikipedia.org/wiki/大西洋平 "wikilink")／合唱：[Young
-        Fresh](https://zh.wikipedia.org/wiki/Young_Fresh "wikilink")（ヤング・フレッシュ）
+      - 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")／作曲、編曲：[谷本貴義](../Page/谷本貴義.md "wikilink")／演唱：[大西洋平](https://zh.wikipedia.org/wiki/大西洋平 "wikilink")／合唱：[Young Fresh](https://zh.wikipedia.org/wiki/Young_Fresh "wikilink")（ヤング・フレッシュ）
 
 ### 插曲
 
   - 「**忍ぶどころか、本能覚醒！**」
       - 作詞、作曲：[高取秀明](../Page/高取秀明.md "wikilink")、大西洋平／編曲：[大橋恵](https://zh.wikipedia.org/wiki/大橋恵 "wikilink")／演唱：Project.R（高取秀明、大西洋平）
   - 「**動物戦隊ジュウオウジャー**」
-      - 作詞：藤林聖子／作曲：高取秀明／編曲：[籠島裕昌](https://zh.wikipedia.org/wiki/籠島裕昌 "wikilink")／演唱：高取秀明／合唱：Young
-        Fresh／演奏：[Z旗](https://zh.wikipedia.org/wiki/Z旗 "wikilink")
+      - 作詞：藤林聖子／作曲：高取秀明／編曲：[籠島裕昌](https://zh.wikipedia.org/wiki/籠島裕昌 "wikilink")／演唱：高取秀明／合唱：Young Fresh／演奏：[Z旗](https://zh.wikipedia.org/wiki/Z旗 "wikilink")
 
 ## 參考資料
 
 ## 外部連結
 
-  - [劇場版 動物戦隊ジュウオウジャーVSニンニンジャー
-    未来からのメッセージfromスーパー戦隊](https://web.archive.org/web/20161220094405/http://zyuoh-vs-ninnin.jp/)
+  - [劇場版 動物戦隊ジュウオウジャーVSニンニンジャー 未来からのメッセージfromスーパー戦隊](https://web.archive.org/web/20161220094405/http://zyuoh-vs-ninnin.jp/)
 
-[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")
-[Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink")
-[Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink")
+[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink") [Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink") [Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink")
 
 1.  <http://www.toei.co.jp/movie/details/1208670_951.html>
 2.  不包括客串的新紅戰士獅子紅。
-3.  [「ジュウオウジャーVSニンニンジャー」に歴代レッド40人、ライブマン嶋大輔も](http://natalie.mu/eiga/news/212604)
-    - 映画ナタリー
+3.  [「ジュウオウジャーVSニンニンジャー」に歴代レッド40人、ライブマン嶋大輔も](http://natalie.mu/eiga/news/212604) - 映画ナタリー

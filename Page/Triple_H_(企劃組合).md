@@ -1,5 +1,4 @@
-'''Triple H
-'''（）是[Cube娛樂旗下的特別企劃組合](../Page/Cube娛樂.md "wikilink")，成員有個人女歌手的[泫雅](https://zh.wikipedia.org/wiki/泫雅 "wikilink")、男子團體[PENTAGON的主唱和隊長](../Page/Pentagon_\(男子組合\).md "wikilink")[Hui](../Page/李會澤.md "wikilink")、主Rap和主舞[E'Dawn](../Page/金曉鐘.md "wikilink")。企劃名字取自3位成員的英文名、和\[1\]。於2017年5月1日，發表迷你一專輯《199X》正式出道。
+'''Triple H '''（）是[Cube娛樂](../Page/Cube娛樂.md "wikilink")旗下的特別企劃組合，成員有個人女歌手的[泫雅](https://zh.wikipedia.org/wiki/泫雅 "wikilink")、男子團體[PENTAGON的主唱和隊長](../Page/Pentagon_\(男子組合\).md "wikilink")[Hui](../Page/李會澤.md "wikilink")、主Rap和主舞[E'Dawn](../Page/金曉鐘.md "wikilink")。企劃名字取自3位成員的英文名、和\[1\]。於2017年5月1日，發表迷你一專輯《199X》正式出道。
 
 ## 成員
 
@@ -15,34 +14,23 @@
 
 ### 2017年：公開首張迷你專輯《199X》
 
-2017年，組合出道前，三名成員經[猜拳遊戲後](../Page/猜拳.md "wikilink")，決定把隊長職位交給泫雅。\[2\]
+2017年，組合出道前，三名成員經[猜拳](../Page/猜拳.md "wikilink")遊戲後，決定把隊長職位交給泫雅。\[2\]
 
 3月29日，公告泫雅將於5月以企劃組合形式活動。\[3\]
 
-4月3日，公告企劃組合名字為「Triple H」。\[4\]
-4月4日，公告企劃組合成員為[泫雅](../Page/金泫雅.md "wikilink")、[PENTAGON的](../Page/Pentagon_\(男子組合\).md "wikilink")[Hui和](../Page/李會澤.md "wikilink")[E'Dawn三人](../Page/金曉鐘.md "wikilink")。\[5\]
-4月5日，公告專屬綜藝節目「Triple H 興信所」將於韓國時間19日晚間8點於K STAR、[CUBE
-TV播出](https://zh.wikipedia.org/wiki/CUBE_TV "wikilink")。\[6\]
-4月12日，公告首張團體概念照。\[7\] 4月13日，公告首張個人概念照\[8\]及「[Triple H
-興新所](https://zh.wikipedia.org/wiki/Triple_H_興新所 "wikilink")」預告。\[9\]
-4月17日，公告首個概念影片，公布Triple H將在同年5月1日出道\[10\]。
+4月3日，公告企劃組合名字為「Triple H」。\[4\] 4月4日，公告企劃組合成員為[泫雅](../Page/金泫雅.md "wikilink")、[PENTAGON的](../Page/Pentagon_\(男子組合\).md "wikilink")[Hui和](../Page/李會澤.md "wikilink")[E'Dawn三人](../Page/金曉鐘.md "wikilink")。\[5\] 4月5日，公告專屬綜藝節目「Triple H 興信所」將於韓國時間19日晚間8點於K STAR、[CUBE TV播出](https://zh.wikipedia.org/wiki/CUBE_TV "wikilink")。\[6\] 4月12日，公告首張團體概念照。\[7\] 4月13日，公告首張個人概念照\[8\]及「[Triple H 興新所](https://zh.wikipedia.org/wiki/Triple_H_興新所 "wikilink")」預告。\[9\] 4月17日，公告首個概念影片，公布Triple H將在同年5月1日出道\[10\]。
 
 5月1日，公開迷你專輯《199X》音源，主打歌曲為《365 Fresh》。\[11\]。
 
-6月3日，Triple H以製作人身份，參與《[Produce 101
-第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，製作《Never》一曲。
-\[12\]\[13\]\[14\]\[15\]
+6月3日，Triple H以製作人身份，參與《[Produce 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，製作《Never》一曲。 \[12\]\[13\]\[14\]\[15\]
 
 ### 2018年：第二張迷你專輯回歸《REtro Futurism》
 
-7月5日、6日、9日、10日陸續公開泫雅，Hui、E'Dawn的個人和團體的概念照。7月11日，公開專輯曲目表。13日公開專輯試聽。17日公開歌曲預告。18日發行第二張迷你專輯《REtro
-Futurism》及主打歌〈RETRO FUTURE〉。
+7月5日、6日、9日、10日陸續公開泫雅，Hui、E'Dawn的個人和團體的概念照。7月11日，公開專輯曲目表。13日公開專輯試聽。17日公開歌曲預告。18日發行第二張迷你專輯《REtro Futurism》及主打歌〈RETRO FUTURE〉。
 
 ## 个人生活
 
-2018年8月2日，Cube娱乐否認泫雅與E'Dawn的熱戀消息\[16\]，8月3日，泫雅與E'Dawn向傳媒公開已交往两年。\[17\]\[18\]\[19\]
-9月13日，Cube娛樂公告泫雅與E'Dawn被辭退，後來指仍在商議中。\[20\]
-10月5日，歌谣界相关人士透露泫雅與E'Dawn確定离开。\[21\]10月15日，Cube娱乐公告與泫雅解除合約。\[22\]11月14日，Cube娛樂公告與E'Dawn解除合約。\[23\]
+2018年8月2日，Cube娱乐否認泫雅與E'Dawn的熱戀消息\[16\]，8月3日，泫雅與E'Dawn向傳媒公開已交往两年。\[17\]\[18\]\[19\] 9月13日，Cube娛樂公告泫雅與E'Dawn被辭退，後來指仍在商議中。\[20\] 10月5日，歌谣界相关人士透露泫雅與E'Dawn確定离开。\[21\]10月15日，Cube娱乐公告與泫雅解除合約。\[22\]11月14日，Cube娛樂公告與E'Dawn解除合約。\[23\]
 
 ## 音樂作品
 
@@ -154,9 +142,9 @@ Futurism》及主打歌〈RETRO FUTURE〉。
 
 | 專輯               | 歌曲                                             | 作曲                                              | 作詞                                  | 編曲                     |
 | ---------------- | ---------------------------------------------- | ----------------------------------------------- | ----------------------------------- | ---------------------- |
-| 《199X》           | 希望                                             | Seo Jaewoo、Kang Dongha                          | 泫雅'、 Hui、 E'Dawn、Kang Dongha        | Seo Jaewoo、Kang Dongha |
+| 《199X》           | 希望                                             | Seo Jaewoo、Kang Dongha                          | 泫雅、Hui、E'Dawn、Kang Dongha           | Seo Jaewoo、Kang Dongha |
 | 365 FRESH        | Seo Jaewoo、Kang Dongha、Devine Channel          | Seo Jaewoo、Kang Dongha、Devine Channel、泫雅、E'Dawn |                                     |                        |
-| 是夢阿 還是現實阿        | Bicksancho、Son Youngjin                        | Bicksancho、Son Youngjin、泫雅、 E'Dawn              | Bicksancho、Son Youngjin             |                        |
+| 是夢阿 還是現實阿        | Bicksancho、Son Youngjin                        | Bicksancho、Son Youngjin、泫雅、E'Dawn               | Bicksancho、Son Youngjin             |                        |
 | GIRL GIRL GIRL   | Wonderkid、Shin Koong、BreadBeat                 | Wonderkid、Shin Koong、BreadBeat、泫雅、E'Dawn        | Wonderkid、Shin Koong、BreadBeat      |                        |
 | 《REtro Futurism》 | 느낌 Feeling                                     | JayJay(MosPick) E'Dawn                          | JayJay(MosPick) 泫雅 E'Dawn           | JayJay(MosPick)        |
 | RETRO FUTURE     | Im KwangWook Bicksancho (Yummy Tone) 泫雅 E'Dawn | 泫雅 E'Dawn Im Kwangwok Bicksancho (Yummy Tone)   | Im Kwangwok Bicksancho (Yummy Tone) |                        |
@@ -349,41 +337,22 @@ Futurism》及主打歌〈RETRO FUTURE〉。
 
 ## 參考資料
 
-[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink")
-[Category:Cube娛樂旗下團體](https://zh.wikipedia.org/wiki/Category:Cube娛樂旗下團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
-[Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink")
+[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink") [Category:Cube娛樂旗下團體](https://zh.wikipedia.org/wiki/Category:Cube娛樂旗下團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink")
 
-1.  [泫雅、Hui、E'Dawn 組成「Triple H」](http://kpopn.niusnews.com/=K3102ju2)
-    2017-04-04.
+1.  [泫雅、Hui、E'Dawn 組成「Triple H」](http://kpopn.niusnews.com/=K3102ju2) 2017-04-04.
 2.  [170419 Triple H 兴新所 EP 01](http://v.yinyuetai.com/video/2844187)
-3.  [泫雅組新企劃小分隊回歸 5月初進行活動](http://www.allthatstar.com/tw/view.php?action=5205&postID=323695)
-    2017-03-21
-4.  [Triple H 企劃組合
-    Logo](https://twitter.com/cubeunited/status/848913832684736512)
-    2017-04-03.
-5.  [泫雅新小分隊logo公開 攜Hui、E'Dawn組Triple
-    H](http://www.allthatstar.com/tw/view.php?action=5207&postID=325226)
-     2017-04-04.
-6.  [Triple H 將推出綜藝節目，19日首播](http://kpopn.niusnews.com/=K1db9od4)
-    2017-04-05.
-7.  [泫雅新限定團體「Triple H」首波概念照](http://kpopn.niusnews.com/=K1drmrb4)
-    2017-04-12.
+3.  [泫雅組新企劃小分隊回歸 5月初進行活動](http://www.allthatstar.com/tw/view.php?action=5205&postID=323695) 2017-03-21
+4.  [Triple H 企劃組合 Logo](https://twitter.com/cubeunited/status/848913832684736512) 2017-04-03.
+5.  [泫雅新小分隊logo公開 攜Hui、E'Dawn組Triple H](http://www.allthatstar.com/tw/view.php?action=5207&postID=325226)  2017-04-04.
+6.  [Triple H 將推出綜藝節目，19日首播](http://kpopn.niusnews.com/=K1db9od4) 2017-04-05.
+7.  [泫雅新限定團體「Triple H」首波概念照](http://kpopn.niusnews.com/=K1drmrb4) 2017-04-12.
 8.  [Triple H 個人概念照公開](http://kpopn.niusnews.com/=K1rn4rb1) 2017-04-13.
-9.  [「Triple H 興新所」預告](https://www.youtube.com/watch?v=5GMr-l6LumY)
-    2017-04-13.
-10. [Triple H 5月1日發行新作，預告公開](http://kpopn.niusnews.com/=K0nv3o38)
-    2017-04-17.
-11. [Triple H 首張迷你專輯《199X》曲目表](http://kpopn.niusnews.com/=K03kw282)
-    2017-04-21.
-12. [PENTAGON Hui對NEVER一位還沒有實感 最感謝PRODUCE 101
-    S2的練習生](http://entertain.naver.com/read?oid=109&aid=0003551150)2017-06-05
-13. [Triple H製作歌曲Never 8個音源排行榜 All
-    Kill](http://entertain.naver.com/read?oid=215&aid=0000553962)2017-06-05
-14. [Produce排名一位Never 製作的泫雅 x Hui x E'Dawn的Triple H
-    再發現](http://entertain.naver.com/read?oid=312&aid=0000262841)2017-06-05
+9.  [「Triple H 興新所」預告](https://www.youtube.com/watch?v=5GMr-l6LumY) 2017-04-13.
+10. [Triple H 5月1日發行新作，預告公開](http://kpopn.niusnews.com/=K0nv3o38) 2017-04-17.
+11. [Triple H 首張迷你專輯《199X》曲目表](http://kpopn.niusnews.com/=K03kw282) 2017-04-21.
+12. [PENTAGON Hui對NEVER一位還沒有實感 最感謝PRODUCE 101 S2的練習生](http://entertain.naver.com/read?oid=109&aid=0003551150)2017-06-05
+13. [Triple H製作歌曲Never 8個音源排行榜 All Kill](http://entertain.naver.com/read?oid=215&aid=0000553962)2017-06-05
+14. [Produce排名一位Never 製作的泫雅 x Hui x E'Dawn的Triple H 再發現](http://entertain.naver.com/read?oid=312&aid=0000262841)2017-06-05
 15. [Hui：《Never》多虧有國民的兒子](http://kpopn.niusnews.com/=K318tf82)2017-06-06
 16.
 17.
@@ -401,28 +370,20 @@ Futurism》及主打歌〈RETRO FUTURE〉。
 29.
 30. [170410 鬧怪食堂](https://www.youtube.com/watch?v=qgYRjyDfZKQ)
 31. [170430 我們是Triple H](http://www.vlive.tv/video/29026)
-32. [170501 Triple H =
-    Player](https://www.youtube.com/watch?v=icYKHfWBXZg)
+32. [170501 Triple H = Player](https://www.youtube.com/watch?v=icYKHfWBXZg)
 33. [170504 口紅王子](https://www.youtube.com/watch?v=qvsCXgxNg8Q)
 34. [170506 音樂中心後台](http://www.vlive.tv/video/29469)
-35. [170507 Section TV
-    演藝通信](https://www.youtube.com/watch?v=-QLJxAzbtO4)
+35. [170507 Section TV 演藝通信](https://www.youtube.com/watch?v=-QLJxAzbtO4)
 36. [170512 K-RUSH](https://www.youtube.com/watch?v=ByfwwSzWzeQ)
 37. [170513 音樂中心後台](http://www.vlive.tv/video/30019)
 38. [170514 隱秘而偉大](https://www.youtube.com/watch?v=w_9J2GUH8sU)
 39. [170514 隱秘而偉大](https://www.youtube.com/watch?v=kgKoKkrgNSI)
 40. [170531 Weekly Idol](https://www.youtube.com/watch?v=pqsaCn4RRBY)
-41. [170526 PRODUCE 101
-    (第二季)](https://www.youtube.com/watch?v=LQbFb6BR0io)
-42. [170703 我愛偶像 Idols of
-    Asia](https://www.youtube.com/watch?v=EyDFJkm-3G0)
+41. [170526 PRODUCE 101 (第二季)](https://www.youtube.com/watch?v=LQbFb6BR0io)
+42. [170703 我愛偶像 Idols of Asia](https://www.youtube.com/watch?v=EyDFJkm-3G0)
 43. [180713 媽媽睡著後](https://www.youtube.com/watch?v=mGoZwJbFlfo)
 44. [170503 金信英的正午希望曲](https://www.youtube.com/watch?v=HZInVGhf95s)
 45. [170504 Cultwo Show](https://www.youtube.com/watch?v=7F30lQMToz8)
-46. [170508 李國主Young
-    Street](https://www.youtube.com/watch?v=IDS-ke9ln3Q)
-47. [SO FRESH Live in
-    Malaysia 2017](https://www.facebook.com/events/1330543416993845)
-    2017-5-16
-48. [2017 HyunA & Triple H Showcase in Hong
-    Kong](https://www.facebook.com/events/1982613388620084) 2017-8-28
+46. [170508 李國主Young Street](https://www.youtube.com/watch?v=IDS-ke9ln3Q)
+47. [SO FRESH Live in Malaysia 2017](https://www.facebook.com/events/1330543416993845) 2017-5-16
+48. [2017 HyunA & Triple H Showcase in Hong Kong](https://www.facebook.com/events/1982613388620084) 2017-8-28

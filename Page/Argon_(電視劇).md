@@ -1,4 +1,4 @@
-《**Argon**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](../Page/TVN.md "wikilink")2017年9月4日起播出的[月火連續劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink")，由《[奶酪陷阱](../Page/奶酪陷阱.md "wikilink")》[李允正導演執導與全英信](../Page/李允正.md "wikilink")、朱元奎、申河恩作家合作打造。\[1\]此劇講述在假新聞氾濫的社會中，一群只透過事實揭露真相的熱血記者們炙熱的生活故事。
+《**Argon**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](../Page/TVN.md "wikilink")2017年9月4日起播出的[月火連續劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink")，由《[奶酪陷阱](../Page/奶酪陷阱.md "wikilink")》[李允正](../Page/李允正.md "wikilink")導演執導與全英信、朱元奎、申河恩作家合作打造。\[1\]此劇講述在假新聞氾濫的社會中，一群只透過事實揭露真相的熱血記者們炙熱的生活故事。
 
 ## 演員陣容
 
@@ -347,12 +347,9 @@
 
 ## 同時段作品
 
-  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
-    [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[學校2017](../Page/學校2017.md "wikilink")》、《[內衣少女時代](../Page/內衣少女時代.md "wikilink")》
-  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")
-    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[王在相愛](../Page/王在相愛.md "wikilink")》
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[操作](../Page/操作_\(電視劇\).md "wikilink")》、《[愛情的温度](https://zh.wikipedia.org/wiki/愛情的温度 "wikilink")》
+  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[學校2017](../Page/學校2017.md "wikilink")》、《[內衣少女時代](../Page/內衣少女時代.md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[王在相愛](../Page/王在相愛.md "wikilink")》
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink") [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[操作](../Page/操作_\(電視劇\).md "wikilink")》、《[愛情的温度](https://zh.wikipedia.org/wiki/愛情的温度 "wikilink")》
 
 ## 腳註
 
@@ -360,12 +357,7 @@
 
   - [韓國tvN官方網站](http://program.tving.com/tvn/tvnargon)
 
-[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink")
-[Category:職場題材電視劇](https://zh.wikipedia.org/wiki/Category:職場題材電視劇 "wikilink")
-[Category:新聞行業題材電視節目](https://zh.wikipedia.org/wiki/Category:新聞行業題材電視節目 "wikilink")
-[Category:電視台背景作品](https://zh.wikipedia.org/wiki/Category:電視台背景作品 "wikilink")
-[Category:虛構電視節目](https://zh.wikipedia.org/wiki/Category:虛構電視節目 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
+[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink") [Category:職場題材電視劇](https://zh.wikipedia.org/wiki/Category:職場題材電視劇 "wikilink") [Category:新聞行業題材電視節目](https://zh.wikipedia.org/wiki/Category:新聞行業題材電視節目 "wikilink") [Category:電視台背景作品](https://zh.wikipedia.org/wiki/Category:電視台背景作品 "wikilink") [Category:虛構電視節目](https://zh.wikipedia.org/wiki/Category:虛構電視節目 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
 
 1.
 2.

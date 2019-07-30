@@ -1,15 +1,14 @@
-**SAICO**，[日本女性](../Page/日本.md "wikilink")[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")、[創作歌手](../Page/創作歌手.md "wikilink")。舊藝名、本名：**鈴木彩子**（****）。
-1998年藝名「****（用[片假名](../Page/片假名.md "wikilink")）」。2000年以後藝名「**SAICO**」至今。
+**SAICO**，[日本](../Page/日本.md "wikilink")女性[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")、[創作歌手](../Page/創作歌手.md "wikilink")。舊藝名、本名：**鈴木彩子**（****）。 1998年藝名「****（用[片假名](../Page/片假名.md "wikilink")）」。2000年以後藝名「**SAICO**」至今。
 
 ## 來歷
 
-SAICO於1972年出生於[宮城縣](../Page/宮城縣.md "wikilink")[岩沼市](../Page/岩沼市.md "wikilink")。學生時期曾經是在地\[1\]的[羽毛球主將](../Page/羽毛球.md "wikilink")，並多次進軍全國大賽。
+SAICO於1972年出生於[宮城縣](../Page/宮城縣.md "wikilink")[岩沼市](../Page/岩沼市.md "wikilink")。學生時期曾經是在地\[1\]的[羽毛球](../Page/羽毛球.md "wikilink")主將，並多次進軍全國大賽。
 
 後來，SAICO在朋友的強行拉攏下投入搖滾樂的活動，但沒多久便立即退學，轉而投入模特兒的事業有一段時間。到了最後，SAICO對音樂製作的渴望不斷的增加，在音樂家的推薦下（於富士電視台的員工餐廳進行面試）\[2\]。從宮城來到東京，與經紀公司訂下合約。
 
 當初，SAICO原本想將模特兒與偶像歌手的工作並行，但她覺得自己最適合當歌手唱歌。於是在1990年，加入[勝利音樂產業唱片公司](../Page/勝利娛樂.md "wikilink")（現在改名為勝利娛樂），新田一郎則擔任企劃製作為她量身訂做歌曲。
 
-1990年5月，以**鈴木彩子**名義發行自身第一張個人單曲《獨立戰爭》，同時獲選[富士電視台電視劇](../Page/富士電視台.md "wikilink")《》主題歌使用，從此正式在樂壇出道。同年6月，首張個人專輯《天地創造》發行。
+1990年5月，以**鈴木彩子**名義發行自身第一張個人單曲《獨立戰爭》，同時獲選[富士電視台](../Page/富士電視台.md "wikilink")電視劇《》主題歌使用，從此正式在樂壇出道。同年6月，首張個人專輯《天地創造》發行。
 
 1998年9月，單曲《心臟》發行同時，將出道以來的藝名「鈴木彩子」，改成「****」。同年12月15日，於東京[品川騎自行車的路上被汽車撞上受到重傷](../Page/品川區.md "wikilink")，經過醫療搶救之後雖然存活了下來，由於需要長期休養，而不得不取消原本的活動行程。
 
@@ -46,7 +45,7 @@ SAICO於1972年出生於[宮城縣](../Page/宮城縣.md "wikilink")[岩沼市](
 <td><p>1990年5月21日</p></td>
 <td><p><strong>獨立戰爭</strong>（）</p></td>
 <td><p>I Believe My Baby言</p></td>
-<td><p><a href="../Page/富士電視台.md" title="wikilink">富士電視台電視劇</a>《》主題歌</p></td>
+<td><p><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>電視劇《》主題歌</p></td>
 <td><p>[3]</p></td>
 </tr>
 <tr class="odd">
@@ -175,7 +174,7 @@ SAICO於1972年出生於[宮城縣](../Page/宮城縣.md "wikilink")[岩沼市](
 <td><p>1996年2月21日</p></td>
 <td><p><strong></strong>（）</p></td>
 <td><p>日</p></td>
-<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台晚間新聞節目</a>《》片尾主題歌</p></td>
+<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>晚間新聞節目《》片尾主題歌</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -446,8 +445,7 @@ Smile</p></td>
 
 ### 參與作品
 
-  - 「東京百歌」TOUKYO HYAKKA OMUNIBUS ALBUM Vol.1（2002）－以鈴木彩子名義收錄在「在這條道路上
-    ～Acoustic Version～」
+  - 「東京百歌」TOUKYO HYAKKA OMUNIBUS ALBUM Vol.1（2002）－以鈴木彩子名義收錄在「在這條道路上 ～Acoustic Version～」
 
 ### 錄影帶PV
 
@@ -496,28 +494,15 @@ Smile</p></td>
 
       - [SAICO](http://saico315.com/blog/) －鈴木彩子的官方個人部落格。
 
-  - [DEADGIRLS
-    co.,ltd.](https://web.archive.org/web/20080105125749/http://www.deadgirls.co.jp/saico/index.html)
-    －所屬唱片公司的官方網站。閉鎖（2008年1月5日的[檔案館](../Page/互联网档案馆.md "wikilink")）。
+  - [DEADGIRLS co.,ltd.](https://web.archive.org/web/20080105125749/http://www.deadgirls.co.jp/saico/index.html) －所屬唱片公司的官方網站。閉鎖（2008年1月5日的[檔案館](../Page/互联网档案馆.md "wikilink")）。
 
-  - [arights
-    records](https://web.archive.org/web/20090803114557/http://www.arights.co.jp/label/arightsrecords/)
-    －所屬唱片公司的官方網站。
+  - [arights records](https://web.archive.org/web/20090803114557/http://www.arights.co.jp/label/arightsrecords/) －所屬唱片公司的官方網站。
 
-  - [ideology](https://web.archive.org/web/20091007202241/http://www.ideology.jp/top.html)
-    －以SAICO為模特兒所發表的個人特色服飾官網。
+  - [ideology](https://web.archive.org/web/20091007202241/http://www.ideology.jp/top.html) －以SAICO為模特兒所發表的個人特色服飾官網。
 
   -
 
-[Category:日本音樂家](https://zh.wikipedia.org/wiki/Category:日本音樂家 "wikilink")
-[Category:日本作詞家](https://zh.wikipedia.org/wiki/Category:日本作詞家 "wikilink")
-[Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink")
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
-[Category:1972年出生](https://zh.wikipedia.org/wiki/Category:1972年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:宮城縣出身人物](https://zh.wikipedia.org/wiki/Category:宮城縣出身人物 "wikilink")
-[Category:每日電影獎最佳新人得主](https://zh.wikipedia.org/wiki/Category:每日電影獎最佳新人得主 "wikilink")
+[Category:日本音樂家](https://zh.wikipedia.org/wiki/Category:日本音樂家 "wikilink") [Category:日本作詞家](https://zh.wikipedia.org/wiki/Category:日本作詞家 "wikilink") [Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:1972年出生](https://zh.wikipedia.org/wiki/Category:1972年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:宮城縣出身人物](https://zh.wikipedia.org/wiki/Category:宮城縣出身人物 "wikilink") [Category:每日電影獎最佳新人得主](https://zh.wikipedia.org/wiki/Category:每日電影獎最佳新人得主 "wikilink")
 
 1.
 2.

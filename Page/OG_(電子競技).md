@@ -1,7 +1,4 @@
-**OG**是歐洲專業的[Dota 2電子競技戰隊](../Page/Dota_2.md "wikilink")，前身名為(monkey)
-Business之後更名為OG，OG在2015年10月31日成立。他們在組團的短短1個月內奪得首個特級錦標賽冠軍，他們的首個大賽冠軍為[法蘭克福特級錦標賽](../Page/2015年法蘭克福特級錦標賽.md "wikilink")\[1\]。除此之外，OG也很快的就在[馬尼拉特級錦標賽奪下他們的第二個特級錦標賽冠軍](../Page/2016年馬尼拉特級錦標賽.md "wikilink")\[2\]。經過了大賽後，OG進行了大換血除了中單位置的離隊以外，MoonMeander以及Cr1t-也同時離隊並且加入了[S4](../Page/S4_League.md "wikilink")，ana以及JerAx替代他們的位置\[3\]\[4\]。重新組隊的OG很快的就在[波士頓特級錦標賽奪得他們的第三座特錦賽冠軍](../Page/2016年波士頓特級錦標賽.md "wikilink")\[5\]。OG也是目前奪得最多特錦賽冠軍的隊伍。
-OG戰隊贏得了[2018年Dota
-2國際邀請賽冠軍](https://zh.wikipedia.org/wiki/2018年Dota_2國際邀請賽 "wikilink")。
+**OG**是歐洲專業的[Dota 2電子競技戰隊](../Page/Dota_2.md "wikilink")，前身名為(monkey) Business之後更名為OG，OG在2015年10月31日成立。他們在組團的短短1個月內奪得首個特級錦標賽冠軍，他們的首個大賽冠軍為[法蘭克福特級錦標賽](../Page/2015年法蘭克福特級錦標賽.md "wikilink")\[1\]。除此之外，OG也很快的就在[馬尼拉特級錦標賽奪下他們的第二個特級錦標賽冠軍](../Page/2016年馬尼拉特級錦標賽.md "wikilink")\[2\]。經過了大賽後，OG進行了大換血除了中單位置的離隊以外，MoonMeander以及Cr1t-也同時離隊並且加入了[S4](../Page/S4_League.md "wikilink")，ana以及JerAx替代他們的位置\[3\]\[4\]。重新組隊的OG很快的就在[波士頓特級錦標賽奪得他們的第三座特錦賽冠軍](../Page/2016年波士頓特級錦標賽.md "wikilink")\[5\]。OG也是目前奪得最多特錦賽冠軍的隊伍。 OG戰隊贏得了[2018年Dota 2國際邀請賽冠軍](https://zh.wikipedia.org/wiki/2018年Dota_2國際邀請賽 "wikilink")。
 
 ## 現役隊員
 
@@ -65,8 +62,7 @@ OG戰隊贏得了[2018年Dota
   - [OG官方Twitter](https://twitter.com/OGDota2)
   - [OG官方Instagram](https://www.instagram.com/ogdota2/)
 
-[Category:歐洲電子競技團體](https://zh.wikipedia.org/wiki/Category:歐洲電子競技團體 "wikilink")
-[Category:Dota_2](https://zh.wikipedia.org/wiki/Category:Dota_2 "wikilink")
+[Category:歐洲電子競技團體](https://zh.wikipedia.org/wiki/Category:歐洲電子競技團體 "wikilink") [Category:Dota_2](https://zh.wikipedia.org/wiki/Category:Dota_2 "wikilink")
 
 1.
 2.

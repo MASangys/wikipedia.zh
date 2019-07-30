@@ -1,16 +1,12 @@
-**Sass**（英文全称：**S**yntactically **A**wesome
-**S**tyle**s**heets）是一个最初由[Hampton
-Catlin设计并由](https://zh.wikipedia.org/wiki/Hampton_Catlin "wikilink")[Natalie
-Weizenbaum开发的层叠样式表语言](https://zh.wikipedia.org/wiki/Natalie_Weizenbaum "wikilink")。\[1\]\[2\]在开发最初版本之后，Weizenbaum和[Chris
-Eppstein继续通过SassScript来继续扩充Sass的功能](https://zh.wikipedia.org/wiki/Chris_Eppstein "wikilink")。SassScript是一个在Sass文件中使用的小型脚本语言。
+**Sass**（英文全称：**S**yntactically **A**wesome **S**tyle**s**heets）是一个最初由[Hampton Catlin设计并由](https://zh.wikipedia.org/wiki/Hampton_Catlin "wikilink")[Natalie Weizenbaum开发的层叠样式表语言](https://zh.wikipedia.org/wiki/Natalie_Weizenbaum "wikilink")。\[1\]\[2\]在开发最初版本之后，Weizenbaum和[Chris Eppstein继续通过SassScript来继续扩充Sass的功能](https://zh.wikipedia.org/wiki/Chris_Eppstein "wikilink")。SassScript是一个在Sass文件中使用的小型脚本语言。
 
-Sass是一个将脚本解析成[CSS的](https://zh.wikipedia.org/wiki/CSS "wikilink")[脚本语言](../Page/脚本语言.md "wikilink")，即SassScript。Sass包括两套[语法](https://zh.wikipedia.org/wiki/语法#电脑语法 "wikilink")。最开始的语法叫做“缩进语法”，与[Haml类似](https://zh.wikipedia.org/wiki/Haml "wikilink")\[3\]，使用[缩进来区分代码块](https://zh.wikipedia.org/wiki/缩进 "wikilink")，并且用-{zh-cn:回车;zh-tw:換行;}-将不同规则分隔开。而较新的语法叫做“SCSS”，使用和CSS一样的块语法，即使用大括号将不同的规则分开，使用分号将具体的样式分开。通常情况下，这两套语法通过.sass和.scss两个[文件扩展名区分开](../Page/文件扩展名.md "wikilink")。
+Sass是一个将脚本解析成[CSS的](https://zh.wikipedia.org/wiki/CSS "wikilink")[脚本语言](../Page/脚本语言.md "wikilink")，即SassScript。Sass包括两套[语法](https://zh.wikipedia.org/wiki/语法#电脑语法 "wikilink")。最开始的语法叫做“缩进语法”，与[Haml类似](https://zh.wikipedia.org/wiki/Haml "wikilink")\[3\]，使用[缩进来区分代码块](https://zh.wikipedia.org/wiki/缩进 "wikilink")，并且用-{zh-cn:回车;zh-tw:換行;}-将不同规则分隔开。而较新的语法叫做“SCSS”，使用和CSS一样的块语法，即使用大括号将不同的规则分开，使用分号将具体的样式分开。通常情况下，这两套语法通过.sass和.scss两个[文件扩展名](../Page/文件扩展名.md "wikilink")区分开。
 
 [CSS3包括一系列选择器和伪类选择器](https://zh.wikipedia.org/wiki/CSS#CSS_3 "wikilink")，Sass设计了一些语法，对选择器功能进行了扩展。虽然扩展功能不是CSS的语法，但是Sass解释器会把SassScript解释成合乎CSS语法的CSS文件。此外，Sass解释器也可以对.sass或.scss文件的修改进行监视，以及时更新css文件。\[4\]可以认为Sass在CSS基础上加入了许多[语法糖](../Page/语法糖.md "wikilink")。
 
-Sass的官方解释器是[开源的并且用](https://zh.wikipedia.org/wiki/开源 "wikilink")[Ruby语言写成](../Page/Ruby.md "wikilink")，但是也有用[PHP](../Page/PHP.md "wikilink")、[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[Java等实现的版本](../Page/Java.md "wikilink")（C语言版本叫做llibSass，Java语言版本叫做JSass）。\[5\]\[6\]\[7\]
+Sass的官方解释器是[开源的并且用](https://zh.wikipedia.org/wiki/开源 "wikilink")[Ruby](../Page/Ruby.md "wikilink")语言写成，但是也有用[PHP](../Page/PHP.md "wikilink")、[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[Java](../Page/Java.md "wikilink")等实现的版本（C语言版本叫做llibSass，Java语言版本叫做JSass）。\[5\]\[6\]\[7\]
 
-Sass中缩进是语法的一部分。SCSS是[巢状元语言](https://zh.wikipedia.org/wiki/元语言#巢状元语言 "wikilink")，一段合法的CSS代码也是一段合法的SCSS代码。Sass支持与[Firefox](../Page/Firefox.md "wikilink")[插件](https://zh.wikipedia.org/wiki/add-on_\(Mozilla\) "wikilink")[Firebug集成](../Page/Firebug.md "wikilink")。\[8\]
+Sass中缩进是语法的一部分。SCSS是[巢状元语言](https://zh.wikipedia.org/wiki/元语言#巢状元语言 "wikilink")，一段合法的CSS代码也是一段合法的SCSS代码。Sass支持与[Firefox](../Page/Firefox.md "wikilink")[插件](https://zh.wikipedia.org/wiki/add-on_\(Mozilla\) "wikilink")[Firebug](../Page/Firebug.md "wikilink")集成。\[8\]
 
 SassScript提供以下功能：[变量](../Page/变量_\(程序设计\).md "wikilink")、嵌套、混入（Mixin）、选择器[继承](https://zh.wikipedia.org/wiki/继承_\(计算机科学\) "wikilink")。\[9\]
 
@@ -288,16 +284,12 @@ Sass支持[多重继承](../Page/多重继承.md "wikilink").\[19\]
 
 ## libSass
 
-在2012年HTML5开发者大会上，Sass的创建者Hampton Catlin宣布libSass
-1.0版。libSass是一个由Catlin、Araon
-Leung和[Moovweb开发团队开发的开放源代码的C](https://zh.wikipedia.org/wiki/Moovweb "wikilink")++实现。\[20\]\[21\]
-Current Sass maintainer, Chris Eppstein, has expressed intent to
-contribute as well.\[22\]
+在2012年HTML5开发者大会上，Sass的创建者Hampton Catlin宣布libSass 1.0版。libSass是一个由Catlin、Araon Leung和[Moovweb开发团队开发的开放源代码的C](https://zh.wikipedia.org/wiki/Moovweb "wikilink")++实现。\[20\]\[21\] Current Sass maintainer, Chris Eppstein, has expressed intent to contribute as well.\[22\]
 
 libSass的设计目标是：
 
   - 性能：开发者反映，C++的实现速度是Ruby实现的10倍。\[23\]
-  - 更容易集成：因为是一个C++库，不必集成或实现Ruby解释器，因此在自行开发软件的时候事情会变得更容易。例如，libSass现在已经被应用到[Node.js](../Page/Node.js.md "wikilink")、[Go和](../Page/Go.md "wikilink")[Ruby等环境](../Page/Ruby.md "wikilink")。\[24\]
+  - 更容易集成：因为是一个C++库，不必集成或实现Ruby解释器，因此在自行开发软件的时候事情会变得更容易。例如，libSass现在已经被应用到[Node.js](../Page/Node.js.md "wikilink")、[Go](../Page/Go.md "wikilink")和[Ruby](../Page/Ruby.md "wikilink")等环境。\[24\]
   - 兼容性：libSass的目标是与Ruby实现完全兼容。但是目标尚未完全实现。\[25\]
 
 ## IDE集成
@@ -317,8 +309,7 @@ libSass的设计目标是：
 
 ## 参见
 
-  - [LESS
-    (层叠样式表)](https://zh.wikipedia.org/wiki/LESS_\(层叠样式表\) "wikilink")
+  - [LESS (层叠样式表)](https://zh.wikipedia.org/wiki/LESS_\(层叠样式表\) "wikilink")
   - [Stylus](https://zh.wikipedia.org/wiki/Stylus "wikilink")
 
 ## 参考
@@ -328,17 +319,13 @@ libSass的设计目标是：
   -
   - [Haml/Sass Google Group](https://groups.google.com/group/haml)
 
-  - [pyScss, a Python Scss library and
-    client](https://github.com/Kronuz/pyScss)
+  - [pyScss, a Python Scss library and client](https://github.com/Kronuz/pyScss)
 
-  - [Sai the mixins extension and CSS authoring framework for Less &
-    Sass/Scss (Git)](https://github.com/hapztron/sai)
+  - [Sai the mixins extension and CSS authoring framework for Less & Sass/Scss (Git)](https://github.com/hapztron/sai)
 
-  - [Sass tools and
-    resources](https://web.archive.org/web/20150323061242/http://www.logogulf.ae/blog/sass-tools-and-resources/)
+  - [Sass tools and resources](https://web.archive.org/web/20150323061242/http://www.logogulf.ae/blog/sass-tools-and-resources/)
 
-[Category:网页设计](https://zh.wikipedia.org/wiki/Category:网页设计 "wikilink")
-[Category:层叠样式表](https://zh.wikipedia.org/wiki/Category:层叠样式表 "wikilink")
+[Category:网页设计](https://zh.wikipedia.org/wiki/Category:网页设计 "wikilink") [Category:层叠样式表](https://zh.wikipedia.org/wiki/Category:层叠样式表 "wikilink")
 
 1.
 
@@ -346,8 +333,7 @@ libSass的设计目标是：
 
 3.
 
-4.  [Sass - Syntactically Awesome
-    Stylesheets](http://sass-lang.com/tutorial.html) Tutorial
+4.  [Sass - Syntactically Awesome Stylesheets](http://sass-lang.com/tutorial.html) Tutorial
 
 5.
 
@@ -355,16 +341,12 @@ libSass的设计目标是：
 
 7.
 
-8.  [Sass (Syntactically Awesome
-    StyleSheets)](http://sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html)
-    SASS_REFERENCE
+8.  [Sass (Syntactically Awesome StyleSheets)](http://sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html) SASS_REFERENCE
 
 9.
 10.
 11.
-12. [Module:
-    Sass::Script::Functions](http://sass-lang.com/docs/yardoc/Sass/Script/Functions.html)
-    Sass Functions
+12. [Module: Sass::Script::Functions](http://sass-lang.com/docs/yardoc/Sass/Script/Functions.html) Sass Functions
 
 13.
 14.

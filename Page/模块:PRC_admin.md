@@ -4,15 +4,13 @@ local function makeArticleLink( label, sitelink )
 
 `   if label ~= nil then`
 `       if sitelink ~= nil then`
-`           return '`[`'``   ``..``   ``label``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/:'_.._sitelink_.._' "wikilink")`'`
+`           return '`[`'``   ``..``   ``label``   ``..``   ``'`](https://zh.wikipedia.org/wiki/:'_.._sitelink_.._' "wikilink")`'`
 `       else`
 `           return label`
 `       end`
 `   else`
 `       if sitelink ~= nil then`
-`           return '`[`:'``   ``..``   ``sitelink``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/:'_.._sitelink_.._' "wikilink")`'`
+`           return '`[`:'``   ``..``   ``sitelink``   ``..``   ``'`](https://zh.wikipedia.org/wiki/:'_.._sitelink_.._' "wikilink")`'`
 `       else`
 `           return '' -- What's the best thing we can do here?`
 `       end`
@@ -81,11 +79,9 @@ local function makeFullNames( items )
 `   end`
 `   return mw.text.listToText( fullNames ), fullNames`
 
-end local makeFullName = makeFullNames z._makeFullNames = makeFullNames
--- For debugging
+end local makeFullName = makeFullNames z._makeFullNames = makeFullNames -- For debugging
 
-\-- items must be a table of entities local function findUpperEntities(
-entities, levels )
+\-- items must be a table of entities local function findUpperEntities( entities, levels )
 
 `   if levels <= 0 then`
 `       return entities`
@@ -101,10 +97,7 @@ entities, levels )
 
 end
 
-\-- Specify a division with item=Qxxx or defaults to current article --
-Other arguments: comment=, below=, see-also-upper=,
-see-also-upper-prefix=, see-also-upper-suffix= function z.navbox( frame,
-args )
+\-- Specify a division with item=Qxxx or defaults to current article -- Other arguments: comment=, below=, see-also-upper=, see-also-upper-prefix=, see-also-upper-suffix= function z.navbox( frame, args )
 
 `   if args == nil then`
 `       args = frame.args`
@@ -227,8 +220,7 @@ args )
 
 end
 
-\-- Specify a division with item=Qxxx or defaults to current article
-function z.children( frame, args )
+\-- Specify a division with item=Qxxx or defaults to current article function z.children( frame, args )
 
 `   if args == nil then`
 `       args = frame.args`

@@ -1,10 +1,8 @@
-**《29gram》**是由[宋智孝和](../Page/宋智孝.md "wikilink")《CELDERMA》合作的2017年[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[网路](https://zh.wikipedia.org/wiki/网路 "wikilink")[电视剧](../Page/电视剧.md "wikilink")，主要描述四位非常受欢迎的SNS
-[网红](https://zh.wikipedia.org/wiki/网红 "wikilink")，她们每日发生的事情都围绕着SNS网路世界，在SNS下生活的她们，同时需要面对不少女生会遇到的感情课题。\[1\]
+**《29gram》**是由[宋智孝](../Page/宋智孝.md "wikilink")和《CELDERMA》合作的2017年[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[网路](https://zh.wikipedia.org/wiki/网路 "wikilink")[电视剧](../Page/电视剧.md "wikilink")，主要描述四位非常受欢迎的SNS [网红](https://zh.wikipedia.org/wiki/网红 "wikilink")，她们每日发生的事情都围绕着SNS网路世界，在SNS下生活的她们，同时需要面对不少女生会遇到的感情课题。\[1\]
 
 ## 剧情描述
 
-韩宥真、车秀晶、韩多爱、金娜仁，四位SNS网红女神，组成「Pick-Cel」团，常常在SNS网站分享生活点滴，拥有许多忠实粉丝。但也因为任何事情都围绕着SNS网路世界，感情生活也赤裸祼公开在[社交网站上](https://zh.wikipedia.org/wiki/社交网站 "wikilink")，受乡民们的批判。
-\[2\]\[3\]
+韩宥真、车秀晶、韩多爱、金娜仁，四位SNS网红女神，组成「Pick-Cel」团，常常在SNS网站分享生活点滴，拥有许多忠实粉丝。但也因为任何事情都围绕着SNS网路世界，感情生活也赤裸祼公开在[社交网站上](https://zh.wikipedia.org/wiki/社交网站 "wikilink")，受乡民们的批判。 \[2\]\[3\]
 
 ## 人物介绍
 
@@ -38,12 +36,9 @@
 
 ## 外部链接
 
-  - [《29gram》 30秒预告频道](https://www.youtube.com/watch?v=hleZWzpkaB0&feature=youtu.be).
-    YouTube. \[2018-05-02\]
+  - [《29gram》 30秒预告频道](https://www.youtube.com/watch?v=hleZWzpkaB0&feature=youtu.be). YouTube. \[2018-05-02\]
 
-[Category:2017年韩国网络剧](https://zh.wikipedia.org/wiki/Category:2017年韩国网络剧 "wikilink")
-[Category:2017年背景作品](https://zh.wikipedia.org/wiki/Category:2017年背景作品 "wikilink")
-[Category:社群媒體題材作品](https://zh.wikipedia.org/wiki/Category:社群媒體題材作品 "wikilink")
+[Category:2017年韩国网络剧](https://zh.wikipedia.org/wiki/Category:2017年韩国网络剧 "wikilink") [Category:2017年背景作品](https://zh.wikipedia.org/wiki/Category:2017年背景作品 "wikilink") [Category:社群媒體題材作品](https://zh.wikipedia.org/wiki/Category:社群媒體題材作品 "wikilink")
 
 1.
 

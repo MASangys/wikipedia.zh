@@ -1,20 +1,18 @@
-**株式會社旭Production**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[練馬區](https://zh.wikipedia.org/wiki/練馬區 "wikilink")\[1\]，專門從事[動畫的攝影工作的日本動畫企業](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1973年。
+**株式會社旭Production**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[練馬區](https://zh.wikipedia.org/wiki/練馬區 "wikilink")\[1\]，專門從事[動畫的攝影工作的日本動畫企業](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1973年。
 
 ## 概要、沿革
 
-旭Production起初是一家專業攝影工作室兼宣傳影片製作的公司。1973年6月1日\[2\]該工作室創立之後，主要承包動畫公司[東京電影與關連公司東京電影新社](../Page/TMS娛樂.md "wikilink")（今已併入[TMS
-Entertainment](../Page/TMS娛樂.md "wikilink")）以及[日本日昇動畫（日昇動畫的舊名）作品的攝影工作](../Page/日昇動畫.md "wikilink")，一方面也承包保險公司或控股公司等大手企業和業界團體的宣傳影片。
+旭Production起初是一家專業攝影工作室兼宣傳影片製作的公司。1973年6月1日\[2\]該工作室創立之後，主要承包動畫公司[東京電影與關連公司東京電影新社](../Page/TMS娛樂.md "wikilink")（今已併入[TMS Entertainment](../Page/TMS娛樂.md "wikilink")）以及[日本日昇動畫（日昇動畫的舊名）作品的攝影工作](../Page/日昇動畫.md "wikilink")，一方面也承包保險公司或控股公司等大手企業和業界團體的宣傳影片。
 
-1997年9月，旭Production為了擴展業務，於[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[原宿另外開設專門進行](../Page/原宿.md "wikilink")3DCGI製作的「數位工作室」\[3\]。1999年10月，旭Production進行總部搬遷時與數位工作室整合\[4\]。可是翌年2000年，數位工作室所屬的攝影監督梅田俊之等人選擇移籍至同樣從事攝影工作的另一家公司，因此旭Production在一時之間縮小公司規模。
+1997年9月，旭Production為了擴展業務，於[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[原宿](../Page/原宿.md "wikilink")另外開設專門進行3DCGI製作的「數位工作室」\[3\]。1999年10月，旭Production進行總部搬遷時與數位工作室整合\[4\]。可是翌年2000年，數位工作室所屬的攝影監督梅田俊之等人選擇移籍至同樣從事攝影工作的另一家公司，因此旭Production在一時之間縮小公司規模。
 
-2000年代以後，旭Production開始廣泛積極地幫多家其他總承包商公司代工負責作畫、演出、背景美術、3DCGI、上色及製作，從此旭Production轉型成為動畫製作的公司。在那之後，旭Production以承包[三麗鷗角色的電視動畫](../Page/三麗鷗.md "wikilink")《》系列與《[甜點兔](../Page/甜點兔.md "wikilink")》等作品第一次挑戰獨立製作，建立了自家從作畫到背景製作的作業程序一致化。2006年，旭Production總部搬遷至[練馬區現址](https://zh.wikipedia.org/wiki/練馬區 "wikilink")，同時統合數位工作室、製作部門\[5\]。
+2000年代以後，旭Production開始廣泛積極地幫多家其他總承包商公司代工負責作畫、演出、背景美術、3DCGI、上色及製作，從此旭Production轉型成為動畫製作的公司。在那之後，旭Production以承包[三麗鷗](../Page/三麗鷗.md "wikilink")角色的電視動畫《》系列與《[甜點兔](../Page/甜點兔.md "wikilink")》等作品第一次挑戰獨立製作，建立了自家從作畫到背景製作的作業程序一致化。2006年，旭Production總部搬遷至[練馬區現址](https://zh.wikipedia.org/wiki/練馬區 "wikilink")，同時統合數位工作室、製作部門\[5\]。
 
-2010年4月，旭Production另外在[宮城縣](../Page/宮城縣.md "wikilink")[白石市的](../Page/白石市.md "wikilink")開設數位作畫工作室「宮城白石工作室」\[6\]。然後在可以聘請宮城縣民加入動畫製作團隊這部分的條件是由白石工作室所制定，以作為縣內的一環，並且與宮城縣代表吉祥物合同簽署之後，讓當地吉祥物可將其動畫的製作直接發包交給白石工作室製作。此後，白石工作室還製作過「[白石仙子](https://zh.wikipedia.org/wiki/白石仙子 "wikilink")（<small></small>）」等地方宣傳動畫。
+2010年4月，旭Production另外在[宮城縣](../Page/宮城縣.md "wikilink")[白石市](../Page/白石市.md "wikilink")的開設數位作畫工作室「宮城白石工作室」\[6\]。然後在可以聘請宮城縣民加入動畫製作團隊這部分的條件是由白石工作室所制定，以作為縣內的一環，並且與宮城縣代表吉祥物合同簽署之後，讓當地吉祥物可將其動畫的製作直接發包交給白石工作室製作。此後，白石工作室還製作過「[白石仙子](https://zh.wikipedia.org/wiki/白石仙子 "wikilink")（<small></small>）」等地方宣傳動畫。
 
 2011年，旭Production第一次以製作委員會的方式參加動畫公司[TYO動畫總承包電視動畫](https://zh.wikipedia.org/wiki/TYO動畫 "wikilink")《[幸福光暈](../Page/幸福光暈.md "wikilink")》等作品的製作，另外這也是旭Production第一次自家主動出資。另外一次是在2016年再度以製作委員會的方式參加動畫公司作品的製作（當然旭Production跟這2家公司沒有資本關係）。
 
-2014年播出的電視動畫《[偽姬物語](../Page/偽姬物語.md "wikilink")》是旭Production首度全面獨立製作的作品，在那之後陸續生產出《[我家浴室的現況](../Page/我家浴室的現況.md "wikilink")》、《[Million
-Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https://zh.wikipedia.org/wiki/溫泉幼精小箱根 "wikilink")》及《[麵包與和平！](../Page/麵包與和平！.md "wikilink")》等電視動畫作品。
+2014年播出的電視動畫《[偽姬物語](../Page/偽姬物語.md "wikilink")》是旭Production首度全面獨立製作的作品，在那之後陸續生產出《[我家浴室的現況](../Page/我家浴室的現況.md "wikilink")》、《[Million Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https://zh.wikipedia.org/wiki/溫泉幼精小箱根 "wikilink")》及《[麵包與和平！](../Page/麵包與和平！.md "wikilink")》等電視動畫作品。
 
 ## 作品列表
 
@@ -54,7 +52,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 <td><p>2006年</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/三麗鷗.md" title="wikilink">三麗鷗角色</a>「美樂蒂」原案衍生動畫系列。</p></td>
+<td><p><a href="../Page/三麗鷗.md" title="wikilink">三麗鷗</a>角色「美樂蒂」原案衍生動畫系列。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -196,10 +194,10 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
-<td></td>
 <td><p><a href="../Page/南無阿彌陀佛!-蓮台_UTENA-.md" title="wikilink">南無阿彌陀佛！ -蓮台 UTENA-</a></p></td>
 <td></td>
 <td><p>原創</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -282,7 +280,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 <td><p>2017年</p></td>
 <td></td>
 <td><p>漫畫</p></td>
-<td><p>與<a href="../Page/Success.md" title="wikilink">Success共同製作</a>。</p></td>
+<td><p>與<a href="../Page/Success.md" title="wikilink">Success</a>共同製作。</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -534,7 +532,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 </tr>
 <tr class="even">
 <td><p>2009年</p></td>
-<td><p><a href="../Page/魔神相克者.md" title="wikilink">魔神相克者2</a></p></td>
+<td><p><a href="../Page/魔神相克者.md" title="wikilink">魔神相克者</a>2</p></td>
 <td></td>
 <td><p>Seven Arcs</p></td>
 <td><p>小說</p></td>
@@ -1037,7 +1035,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/美男高校地球防衛部LOVE！.md" title="wikilink">美男高校地球防衛部LOVE！LOVE！</a></p></td>
+<td><p><a href="../Page/美男高校地球防衛部LOVE！.md" title="wikilink">美男高校地球防衛部LOVE！</a>LOVE！</p></td>
 <td><p><a href="../Page/STUDIO_COMET.md" title="wikilink">STUDIO COMET</a></p></td>
 <td><p>原創</p></td>
 <td></td>
@@ -1311,16 +1309,14 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
       - [機動新世紀鋼彈X](../Page/機動新世紀GUNDAM_X.md "wikilink")（1996年）
       - [∀鋼彈](../Page/∀GUNDAM.md "wikilink")（1999年－2000年）
       - [機動戰士鋼彈SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")（2002年－2003年）
-      - [機動戰士鋼彈SEED
-        DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")（2004年－2005年）
+      - [機動戰士鋼彈SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")（2004年－2005年）
       - [機動戰士鋼彈00](../Page/機動戰士GUNDAM_00.md "wikilink")（2007年－2008年）
       - 機動戰士鋼彈00 Second Season（2008年－2009年）
       - [機動戰士鋼彈AGE](../Page/機動戰士GUNDAM_AGE.md "wikilink")（2011年－2012年）
       - [鋼彈創戰者](../Page/GUNDAM創戰者.md "wikilink")（2013年－2014年）
       - 鋼彈創戰者TRY（2014年－2015年）
       - [鋼彈G之復國運動](https://zh.wikipedia.org/wiki/GUNDAM_G之復國運動 "wikilink")（2014年－2015年）
-      - [機動戰士鋼彈
-        鐵血的孤兒](../Page/機動戰士GUNDAM_鐵血的孤兒.md "wikilink")（2015年－2017年）
+      - [機動戰士鋼彈 鐵血的孤兒](../Page/機動戰士GUNDAM_鐵血的孤兒.md "wikilink")（2015年－2017年）
       - [機動戰士鋼彈UC RE:0096](../Page/機動戰士GUNDAM_UC.md "wikilink")（2016年）
 
   - [The☆超人力霸王](../Page/The_Ultraman.md "wikilink")（1979年－1980年）
@@ -1337,7 +1333,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 
   - [聖戰士鄧拜音](../Page/聖戰士DUNBINE.md "wikilink")（1983年－1984年）
 
-  - [重戰機L-Gaim](../Page/重戰機.md "wikilink")（1984年－1985年）
+  - [重戰機](../Page/重戰機.md "wikilink")L-Gaim（1984年－1985年）
 
   - [嘿！奔奔](https://zh.wikipedia.org/wiki/奔奔 "wikilink")（1985年－1986年）
 
@@ -1372,7 +1368,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 
   - [超時空保姆](../Page/超時空保姆.md "wikilink")（1992年）
 
-  - [秀逗泰山阿達♡](../Page/秀逗泰山.md "wikilink")（1993年－1994年）
+  - [秀逗泰山](../Page/秀逗泰山.md "wikilink")阿達♡（1993年－1994年）
 
   - （1994年、1995年）
 
@@ -1390,8 +1386,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 
   - [不可思議星球的☆雙胞胎公主](../Page/不可思議星球的雙胞胎公主.md "wikilink")（2006年－2007年）
 
-  - [家庭教師HITMAN
-    REBORN！](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")（2006年－2010年）
+  - [家庭教師HITMAN REBORN！](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")（2006年－2010年）
 
   - [銀魂系列](https://zh.wikipedia.org/wiki/銀魂_\(動畫\) "wikilink")
 
@@ -1410,8 +1405,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 
   - [王牌投手 振臂高揮](../Page/王牌投手_振臂高揮.md "wikilink")（2007年）
 
-  - [星界死者之書 -ENGAGE
-    planet-](https://zh.wikipedia.org/wiki/星界死者之書 "wikilink")（2007年）
+  - [星界死者之書 -ENGAGE planet-](https://zh.wikipedia.org/wiki/星界死者之書 "wikilink")（2007年）
 
   - [七色★星露](../Page/七色★星露.md "wikilink")（2007年）
 
@@ -1421,7 +1415,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 
   - [萌少女的戀愛時光](https://zh.wikipedia.org/wiki/萌少女的戀愛時光 "wikilink")（2007年）
 
-  - [乃木坂春香的秘密系列](../Page/乃木坂春香的秘密.md "wikilink")
+  - [乃木坂春香的秘密](../Page/乃木坂春香的秘密.md "wikilink")系列
 
       - 乃木坂春香的秘密（2008年）
       - 乃木坂春香的秘密 Purezza♪（2009年）
@@ -1439,7 +1433,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 
   - [黑神 The Animation](../Page/黑神.md "wikilink")（2009年）
 
-  - [神曲奏界紅 crimson S](../Page/神曲奏界.md "wikilink")（2009年）
+  - [神曲奏界 crimson S](../Page/神曲奏界.md "wikilink")紅（2009年）
 
   - [BASQUASH！](../Page/BASQUASH!.md "wikilink")（2009年）
 
@@ -1447,7 +1441,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 
   - [聖劍鍛造師](../Page/聖劍鍛造師.md "wikilink")（2009年）
 
-  - [笨蛋，測驗，召喚獸系列](../Page/笨蛋，測驗，召喚獸.md "wikilink")
+  - [笨蛋，測驗，召喚獸](../Page/笨蛋，測驗，召喚獸.md "wikilink")系列
 
       - 笨蛋，測驗，召喚獸（2010年）
       - 笨蛋、測驗、召喚獸2（2011年）
@@ -1456,13 +1450,13 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 
   - [學園默示錄 HIGHSCHOOL OF THE DEAD](../Page/學園默示錄.md "wikilink")（2010年）
 
-  - [只有神知道的世界系列](../Page/只有神知道的世界.md "wikilink")
+  - [只有神知道的世界](../Page/只有神知道的世界.md "wikilink")系列
 
       - 只有神知道的世界（2010年）
       - 只有神知道的世界II（2011年）
       - 只有神知道的世界 女神篇（2013年）
 
-  - [侵略！花枝娘系列](../Page/侵略！花枝娘.md "wikilink")
+  - [侵略！花枝娘](../Page/侵略！花枝娘.md "wikilink")系列
 
       - 侵略！花枝娘（2010年）
       - 侵略\!? 花枝娘（2011年）
@@ -1479,7 +1473,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 
   - [C³ -魔幻三次方-](../Page/C³_-魔幻三次方-.md "wikilink")（2011年）
 
-  - [幸福光暈系列](../Page/幸福光暈.md "wikilink")
+  - [幸福光暈](../Page/幸福光暈.md "wikilink")系列
 
       - 幸福光暈 ～hitotose～（2011年）
       - 幸福光暈 ～More Aggressive～（2013年）
@@ -1526,7 +1520,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 
   - [黑色嘉年華](../Page/黑色嘉年華.md "wikilink")（2013年）
 
-  - [進擊的巨人系列](../Page/進擊的巨人.md "wikilink")
+  - [進擊的巨人](../Page/進擊的巨人.md "wikilink")系列
 
       - 進擊的巨人（2013年）
       - 進擊的巨人 Season 2（2017年）
@@ -1535,8 +1529,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 
   - [超次元戰記 戰機少女](../Page/超次元戰記_戰機少女.md "wikilink")（2013年）
 
-  - [Fate/kaleid liner
-    魔法少女☆伊莉雅系列](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
+  - [Fate/kaleid liner 魔法少女☆伊莉雅系列](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
 
       - Fate/kaleid liner 魔法少女☆伊莉雅（2013年）
       - Fate/kaleid liner 魔法少女☆伊莉雅 2wei！（2014年）
@@ -1545,7 +1538,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 
   - [京騷戲畫](../Page/京騷戲畫.md "wikilink")（2013年）
 
-  - [飆速宅男系列](../Page/飆速宅男.md "wikilink")
+  - [飆速宅男](../Page/飆速宅男.md "wikilink")系列
 
       - 飆速宅男（2013年）
       - 飆速宅男 GRANDE ROAD（2014年）
@@ -1555,13 +1548,11 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 
   - [農林](../Page/農林.md "wikilink")（2014年）
 
-  - [WIZARD BARRISTERS
-    弁魔士賽希爾](../Page/WIZARD_BARRISTERS～弁魔士賽希爾.md "wikilink")（2014年）
+  - [WIZARD BARRISTERS 弁魔士賽希爾](../Page/WIZARD_BARRISTERS～弁魔士賽希爾.md "wikilink")（2014年）
 
   - [天雷爭霸：復仇者聯盟](../Page/天雷爭霸：復仇者聯盟.md "wikilink")（2014年－2015年）
 
-  - [Baby Steps
-    ～網球優等生～](../Page/Baby_Steps_~網球優等生~.md "wikilink")（2014年－2015年）
+  - [Baby Steps ～網球優等生～](../Page/Baby_Steps_~網球優等生~.md "wikilink")（2014年－2015年）
 
   - （2014年－2015年）
 
@@ -1571,8 +1562,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 
   - [戰國無雙](../Page/戰國無雙4.md "wikilink")（2015年）
 
-  - [妄想探索社 Spinoff
-    和噗嚕噗嚕夏露姆遊玩吧](https://zh.wikipedia.org/wiki/摸索吧！部活劇 "wikilink")（2015年）
+  - [妄想探索社 Spinoff 和噗嚕噗嚕夏露姆遊玩吧](https://zh.wikipedia.org/wiki/摸索吧！部活劇 "wikilink")（2015年）
 
   - [GANGSTA.](../Page/GANGSTA..md "wikilink")（2015年）
 
@@ -1604,7 +1594,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 
   - [終末的伊澤塔](../Page/終末的伊澤塔.md "wikilink")（2016年）
 
-  - [夢幻慶典系列](../Page/夢幻慶典.md "wikilink")
+  - [夢幻慶典](../Page/夢幻慶典.md "wikilink")系列
 
       - 夢幻慶典（2016年）
       - 夢幻慶典R（2017年）
@@ -1625,20 +1615,17 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 
   - [異世界魔王與召喚少女的奴隸魔術](../Page/異世界魔王與召喚少女的奴隸魔術.md "wikilink")（2018年）
 
-  - [Star☆Twinkle
-    光之美少女](../Page/Star☆Twinkle_光之美少女.md "wikilink")（2019年）
+  - [Star☆Twinkle 光之美少女](../Page/Star☆Twinkle_光之美少女.md "wikilink")（2019年）
 
 #### OVA
 
   - [魯邦三世 風魔一族的陰謀](../Page/魯邦三世_風魔一族的陰謀.md "wikilink")（1987年）
-  - [萌少女的戀愛時光
-    2學期](https://zh.wikipedia.org/wiki/萌少女的戀愛時光 "wikilink")（2009年）
+  - [萌少女的戀愛時光 2學期](https://zh.wikipedia.org/wiki/萌少女的戀愛時光 "wikilink")（2009年）
   - [機動戰士鋼彈UC](../Page/機動戰士GUNDAM_UC.md "wikilink")（2010年－2014年）
   - [幸福光暈](../Page/幸福光暈.md "wikilink")（2010年）
   - [笨蛋，測驗，召喚獸 ～祭～](../Page/笨蛋，測驗，召喚獸.md "wikilink")（2011年）
   - [乃木坂春香的秘密 Finale♪](../Page/乃木坂春香的秘密.md "wikilink")（2012年）
-  - [機動戰士鋼彈
-    Thunderbolt](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_Thunderbolt "wikilink")（2016年）
+  - [機動戰士鋼彈 Thunderbolt](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_Thunderbolt "wikilink")（2016年）
 
 #### 電影動畫
 
@@ -1650,8 +1637,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 
   - [紅豬](https://zh.wikipedia.org/wiki/紅豬 "wikilink")（1992年）
 
-  - [劇場版
-    櫻桃小丸子：我最喜歡的歌](https://zh.wikipedia.org/wiki/櫻桃小丸子：我最喜歡的歌 "wikilink")（1992年）
+  - [劇場版 櫻桃小丸子：我最喜歡的歌](https://zh.wikipedia.org/wiki/櫻桃小丸子：我最喜歡的歌 "wikilink")（1992年）
 
   - [蠟筆小新系列](https://zh.wikipedia.org/wiki/蠟筆小新#動畫電影 "wikilink")
 
@@ -1670,19 +1656,15 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 
   - [劇場版 銀魂：新譯紅櫻篇](../Page/銀魂劇場版_新譯紅櫻篇.md "wikilink")（2010年）
 
-  - [劇場版 機動戰士鋼彈00 -A wakening of the
-    Trailblazer-](../Page/劇場版_機動戰士GUNDAM00_-A_wakening_of_the_Trailblazer-.md "wikilink")（2010年）
+  - [劇場版 機動戰士鋼彈00 -A wakening of the Trailblazer-](../Page/劇場版_機動戰士GUNDAM00_-A_wakening_of_the_Trailblazer-.md "wikilink")（2010年）
 
-  - [劇場版 旋風管家 HEAVEN IS A PLACE ON
-    EARTH](../Page/劇場版_旋風管家_HEAVEN_IS_A_PLACE_ON_EARTH.md "wikilink")（2011年）
+  - [劇場版 旋風管家 HEAVEN IS A PLACE ON EARTH](../Page/劇場版_旋風管家_HEAVEN_IS_A_PLACE_ON_EARTH.md "wikilink")（2011年）
 
-  - [劇場版 FAIRY TAIL
-    鳳凰巫女](https://zh.wikipedia.org/wiki/FAIRY_TAIL#劇場版 "wikilink")（2012年）
+  - [劇場版 FAIRY TAIL 鳳凰巫女](https://zh.wikipedia.org/wiki/FAIRY_TAIL#劇場版 "wikilink")（2012年）
 
   - （2012年）
 
-  - [劇場版 TIGER & BUNNY -The
-    Beginning-](../Page/TIGER_&_BUNNY.md "wikilink")（2012年）
+  - [劇場版 TIGER & BUNNY -The Beginning-](../Page/TIGER_&_BUNNY.md "wikilink")（2012年）
 
   - 劇場版 TIGER & BUNNY -The Rising-（2014年）
 
@@ -1692,8 +1674,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 
   - [Planetarian ～星之人～](../Page/Planetarian～星之人～.md "wikilink")（2016年）
 
-  - [Pokemon the movie XY\&Z 波爾凱尼恩與機關人偶
-    瑪機雅娜](../Page/Pokemon_the_movie_XY&Z_波爾凱尼恩與機關人偶_瑪機雅娜.md "wikilink")（2016年）
+  - [Pokemon the movie XY\&Z 波爾凱尼恩與機關人偶 瑪機雅娜](../Page/Pokemon_the_movie_XY&Z_波爾凱尼恩與機關人偶_瑪機雅娜.md "wikilink")（2016年）
 
   - [虐殺器官](../Page/虐殺器官.md "wikilink")（2017年）
 
@@ -1749,13 +1730,9 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 ## 外部連結
 
   - [株式會社旭Production公式官網](http://www.asahi-pro.co.jp/)
-  - [Anime-ON！](http://ch.nicovideo.jp/anime-on/)
-    －[niconico頻道](https://zh.wikipedia.org/wiki/niconico頻道 "wikilink")
+  - [Anime-ON！](http://ch.nicovideo.jp/anime-on/) －[niconico頻道](https://zh.wikipedia.org/wiki/niconico頻道 "wikilink")
 
-[Category:旭Production](https://zh.wikipedia.org/wiki/Category:旭Production "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:練馬區公司](https://zh.wikipedia.org/wiki/Category:練馬區公司 "wikilink")
-[Category:1973年成立的公司](https://zh.wikipedia.org/wiki/Category:1973年成立的公司 "wikilink")
+[Category:旭Production](https://zh.wikipedia.org/wiki/Category:旭Production "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:練馬區公司](https://zh.wikipedia.org/wiki/Category:練馬區公司 "wikilink") [Category:1973年成立的公司](https://zh.wikipedia.org/wiki/Category:1973年成立的公司 "wikilink")
 
 1.
 2.

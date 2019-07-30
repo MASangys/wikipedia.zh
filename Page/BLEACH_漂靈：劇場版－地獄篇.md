@@ -1,6 +1,4 @@
-《**BLEACH 死神劇場版
-地獄篇**》（）是於2010年改编自日本漫畫家[久保帶人作品](https://zh.wikipedia.org/wiki/久保帶人 "wikilink")《[BLEACH
-死神](../Page/BLEACH.md "wikilink")》的2010年上映[劇場版第](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")4作。
+《**BLEACH 死神劇場版 地獄篇**》（）是於2010年改编自日本漫畫家[久保帶人作品](https://zh.wikipedia.org/wiki/久保帶人 "wikilink")《[BLEACH 死神](../Page/BLEACH.md "wikilink")》的2010年上映[劇場版第](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")4作。
 
 ## 故事簡介
 
@@ -64,6 +62,4 @@
 ## 外部連結
 
   -
-[Category:BLEACH](https://zh.wikipedia.org/wiki/Category:BLEACH "wikilink")
-[Category:2010年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2010年日本劇場動畫 "wikilink")
-[Category:日本電視動畫的電影版](https://zh.wikipedia.org/wiki/Category:日本電視動畫的電影版 "wikilink")
+[Category:BLEACH](https://zh.wikipedia.org/wiki/Category:BLEACH "wikilink") [Category:2010年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2010年日本劇場動畫 "wikilink") [Category:日本電視動畫的電影版](https://zh.wikipedia.org/wiki/Category:日本電視動畫的電影版 "wikilink")

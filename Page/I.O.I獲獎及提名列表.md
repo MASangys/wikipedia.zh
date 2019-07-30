@@ -1,4 +1,4 @@
-《**I.O.I獲獎及提名列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[I.O.I在出道限定期間內於頒獎典禮](../Page/I.O.I.md "wikilink")、音樂節目的獲獎與提名。
+《**I.O.I獲獎及提名列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[I.O.I](../Page/I.O.I.md "wikilink")在出道限定期間內於頒獎典禮、音樂節目的獲獎與提名。
 
 ## 韓國
 
@@ -6,26 +6,21 @@
 
 |- | 2016年 | 新星獎\[1\] | [I.O.I](../Page/I.O.I.md "wikilink") |  |}
 
-### [亞洲明星盛典（Asia Artist Awards）](../Page/亞洲明星盛典.md "wikilink")
+### [亞洲明星盛典 Artist Awards）](../Page/亞洲明星盛典.md "wikilink")（Asia
 
 |- | 2016年 | 最受歡迎藝人－Top 50\[2\] | I.O.I |  |}
 
-### [甜瓜音樂獎（Melon Music Awards）](../Page/甜瓜音樂獎.md "wikilink")
+### [甜瓜音樂獎 Music Awards）](../Page/甜瓜音樂獎.md "wikilink")（Melon
 
-|- | rowspan="4"|2016年 | Top 10\[3\] | rowspan="4"|I.O.I | |- | 新人獎 |
-|- | 網友人氣獎 |  |- | [KakaoTalk熱門明星獎](../Page/KakaoTalk.md "wikilink") |
-|- |rowspan=2| 2017年 |Top 10 |I.O.I | |- |Hot Trend獎 |陣雨 | |}
+|- | rowspan="4"|2016年 | Top 10\[3\] | rowspan="4"|I.O.I | |- | 新人獎 |  |- | 網友人氣獎 |  |- | [KakaoTalk](../Page/KakaoTalk.md "wikilink")熱門明星獎 |  |- |rowspan=2| 2017年 |Top 10 |I.O.I | |- |Hot Trend獎 |陣雨 | |}
 
 ### 大韓民國文化演藝大賞（Korean Culture Entertainment Awards）
 
 |- | 2016年 | K-pop 歌手賞 | I.O.I |  |}
 
-### [Mnet亞洲音樂大獎（Mnet Asian Music Awards）](../Page/Mnet亞洲音樂大獎.md "wikilink")
+### [Mnet亞洲音樂大獎 Asian Music Awards）](../Page/Mnet亞洲音樂大獎.md "wikilink")（Mnet
 
-|- |
-rowspan="3"|[2016年](https://zh.wikipedia.org/wiki/2016_Mnet_Asian_Music_Awards "wikilink")
-| 女子新人獎\[4\] | rowspan="3"|I.O.I |  |- | **HotelsCombined 年度歌手獎** |  |-
-| 最受海外觀眾喜愛獎 |  |}
+|- | rowspan="3"|[2016年](https://zh.wikipedia.org/wiki/2016_Mnet_Asian_Music_Awards "wikilink") | 女子新人獎\[4\] | rowspan="3"|I.O.I |  |- | **HotelsCombined 年度歌手獎** |  |- | 最受海外觀眾喜愛獎 |  |}
 
 ###
 
@@ -33,14 +28,11 @@ rowspan="3"|[2016年](https://zh.wikipedia.org/wiki/2016_Mnet_Asian_Music_Awards
 
 ### [金唱片獎（Golden Disk Awards）](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")
 
-|- | rowspan="4"|2017年 | 新人賞 | rowspan="2"|I.O.I |  |- | 全球 K-pop 藝人獎 |
-|- | 音源部門－本賞 |  |  |- | 唱片部門－本賞 |
-[Chrysalis](../Page/Chrysalis_\(I.O.I迷你專輯\).md "wikilink") |  |}
+|- | rowspan="4"|2017年 | 新人賞 | rowspan="2"|I.O.I |  |- | 全球 K-pop 藝人獎 |  |- | 音源部門－本賞 |  |  |- | 唱片部門－本賞 | [Chrysalis](../Page/Chrysalis_\(I.O.I迷你專輯\).md "wikilink") |  |}
 
 ### [首爾音樂獎（Seoul Music Awards）](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")
 
-|- | rowspan="3"| 2017年 | 新人賞 | rowspan="3"| I.O.I |  |- | High1人氣賞 |
-|- | 韓流特別賞 |  |- |}
+|- | rowspan="3"| 2017年 | 新人賞 | rowspan="3"| I.O.I |  |- | High1人氣賞 |  |- | 韓流特別賞 |  |- |}
 
 ### [Gaon Chart K-POP大獎（Gaon Chart K-POP Awards）](../Page/Gaon_Chart_K-POP大獎.md "wikilink")
 
@@ -239,13 +231,11 @@ rowspan="3"|[2016年](https://zh.wikipedia.org/wiki/2016_Mnet_Asian_Music_Awards
 
 ### MBC Music《[Show Champion](../Page/Show_Champion.md "wikilink")》
 
-|- | rowspan="2"|2016年 | 8月17日 | Whatta Man\[11\] |- | 10月26日 | Very
-Very Very\[12\] |- |}
+|- | rowspan="2"|2016年 | 8月17日 | Whatta Man\[11\] |- | 10月26日 | Very Very Very\[12\] |- |}
 
 ### Mnet《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》
 
-|- | rowspan="2"|2016年 | 8月18日 | Whatta Man\[13\] |- | 10月27日 | Very
-Very Very\[14\] |- |}
+|- | rowspan="2"|2016年 | 8月18日 | Whatta Man\[13\] |- | 10月27日 | Very Very Very\[14\] |- |}
 
 ### KBS2《[Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》
 
@@ -253,13 +243,11 @@ Very Very\[14\] |- |}
 
 ### SBS《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》
 
-|- | 2016年 | 10月30日 | Very Very Very\[16\] |- | 2017年 | 1月29日 |
-Downpour\[17\] |}
+|- | 2016年 | 10月30日 | Very Very Very\[16\] |- | 2017年 | 1月29日 | Downpour\[17\] |}
 
 ## 參考文獻
 
-[Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink")
-[Category:I.O.I](https://zh.wikipedia.org/wiki/Category:I.O.I "wikilink")
+[Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink") [Category:I.O.I](https://zh.wikipedia.org/wiki/Category:I.O.I "wikilink")
 
 1.
 2.

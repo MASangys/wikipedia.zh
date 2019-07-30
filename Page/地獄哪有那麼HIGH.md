@@ -1,30 +1,16 @@
-{{ Infobox Film | name =地獄那有那麼HIGH | original_name =  | image = |
-caption = | director = [宮藤官九郎](../Page/宮藤官九郎.md "wikilink") | producer =
-長澤修一 | writer = [宮藤官九郎](../Page/宮藤官九郎.md "wikilink") | starring =
-[長瀬智也](https://zh.wikipedia.org/wiki/長瀬智也 "wikilink")
+{{ Infobox Film | name =地獄那有那麼HIGH | original_name =  | image = | caption = | director = [宮藤官九郎](../Page/宮藤官九郎.md "wikilink") | producer = 長澤修一 | writer = [宮藤官九郎](../Page/宮藤官九郎.md "wikilink") | starring = [長瀬智也](https://zh.wikipedia.org/wiki/長瀬智也 "wikilink")
 [神木隆之介](https://zh.wikipedia.org/wiki/神木隆之介 "wikilink")
-[尾野真千子](../Page/尾野真千子.md "wikilink") | distributor =
-[東寶](https://zh.wikipedia.org/wiki/東寶株式會社 "wikilink") | released =
-2016年6月25日 | runtime = 125分鐘 | language =
-[日語](https://zh.wikipedia.org/wiki/日語 "wikilink") | imdb_id = |
-amg_id = | budget = | country = [日本](../Page/日本.md "wikilink") |
-hk_name = 早死早投胎之地獄搖滾篇 | tw_name =地獄那有那麼HIGH | }}
+[尾野真千子](../Page/尾野真千子.md "wikilink") | distributor = [東寶](https://zh.wikipedia.org/wiki/東寶株式會社 "wikilink") | released = 2016年6月25日 | runtime = 125分鐘 | language = [日語](https://zh.wikipedia.org/wiki/日語 "wikilink") | imdb_id = | amg_id = | budget = | country = [日本](../Page/日本.md "wikilink") | hk_name = 早死早投胎之地獄搖滾篇 | tw_name =地獄那有那麼HIGH | }}
 
-《**地獄那有那麼HIGH**》（トゥー ヤング トゥー ダイ\!
-わかくしてしぬ，TYTD）是2016年6月25日\[1\]上映的[日本電影](https://zh.wikipedia.org/wiki/日本電影 "wikilink")，是[宮藤官九郎第](../Page/宮藤官九郎.md "wikilink")4部導演作品，並且也是[TOKIO的](https://zh.wikipedia.org/wiki/TOKIO "wikilink")[長瀨智也以及](../Page/長瀨智也.md "wikilink")[神木隆之介雙主演作](https://zh.wikipedia.org/wiki/神木隆之介 "wikilink")。
+《**地獄那有那麼HIGH**》（トゥー ヤング トゥー ダイ\! わかくしてしぬ，TYTD）是2016年6月25日\[1\]上映的[日本電影](https://zh.wikipedia.org/wiki/日本電影 "wikilink")，是[宮藤官九郎](../Page/宮藤官九郎.md "wikilink")第4部導演作品，並且也是[TOKIO的](https://zh.wikipedia.org/wiki/TOKIO "wikilink")[長瀨智也](../Page/長瀨智也.md "wikilink")以及[神木隆之介雙主演作](https://zh.wikipedia.org/wiki/神木隆之介 "wikilink")。
 
 ## 概要
 
 最初預計於2016年1月20日上映，但由於本作劇情中發生的遊覽車翻覆交通意外會讓人聯想到當年1月15日發生的輕井澤滑雪場巴士翻覆事件，讓電影因此被迫延期到2月6日上映\[2\]。電影搶先在1月13日舉辦完成披露試映會。另外為了宣傳本作，以主角長瀬・神木為首的演員們參加的電視節目在未被其他節目替換的情況下，如預期般向大眾正常播放。
 
-還有在本作劇情中出現，專屬於地獄的搖滾樂團『地獄圖（ヘルズ）』的成員們即長瀨、神木、[桐谷健太](../Page/桐谷健太.md "wikilink")、[清野菜名等人也為了電影宣傳](../Page/清野菜名.md "wikilink")，一起參與戶外搖滾祭「[TOKYO
-METROPOLITAN ROCK FES
-TIVAL](https://zh.wikipedia.org/wiki/METROPOLITAN_ROCK_FESTIVAL "wikilink")」的演出，並因此擔任開場嘉賓
-\[3\]。另外上映前一天，他們參與[朝日電視台的節目](../Page/朝日電視台.md "wikilink")「[MUSIC
-STATION](../Page/MUSIC_STATION.md "wikilink")」的演出\[4\]。
+還有在本作劇情中出現，專屬於地獄的搖滾樂團『地獄圖（ヘルズ）』的成員們即長瀨、神木、[桐谷健太](../Page/桐谷健太.md "wikilink")、[清野菜名](../Page/清野菜名.md "wikilink")等人也為了電影宣傳，一起參與戶外搖滾祭「[TOKYO METROPOLITAN ROCK FES TIVAL](https://zh.wikipedia.org/wiki/METROPOLITAN_ROCK_FESTIVAL "wikilink")」的演出，並因此擔任開場嘉賓 \[3\]。另外上映前一天，他們參與[朝日電視台](../Page/朝日電視台.md "wikilink")的節目「[MUSIC STATION](../Page/MUSIC_STATION.md "wikilink")」的演出\[4\]。
 
-此外，本作也獲邀參加第45屆[鹿特丹影展](../Page/鹿特丹影展.md "wikilink")・VOICES部門\[5\]，以及第40屆[香港國際電影節](../Page/香港國際電影節.md "wikilink")\[6\]，以及第29屆[東京國際影展](https://zh.wikipedia.org/wiki/東京國際影展 "wikilink")・Japan
-Now部門\[7\]正式上映。
+此外，本作也獲邀參加第45屆[鹿特丹影展](../Page/鹿特丹影展.md "wikilink")・VOICES部門\[5\]，以及第40屆[香港國際電影節](../Page/香港國際電影節.md "wikilink")\[6\]，以及第29屆[東京國際影展](https://zh.wikipedia.org/wiki/東京國際影展 "wikilink")・Japan Now部門\[7\]正式上映。
 
 ## 故事大綱
 
@@ -52,8 +38,7 @@ Now部門\[7\]正式上映。
   - MOJA・MJ：[みうらじゅん](https://zh.wikipedia.org/wiki/みうらじゅん "wikilink")
   - 鬼吉他手：[Char](https://zh.wikipedia.org/wiki/Char "wikilink")
   - 地獄搖滾挑戰者：[野村義男](https://zh.wikipedia.org/wiki/野村義男 "wikilink")，[ゴンゾー](https://zh.wikipedia.org/wiki/ゴンゾー "wikilink")
-  - 純子A：[馬蒂•弗里德曼
-    (音樂家)](https://zh.wikipedia.org/wiki/馬蒂•弗里德曼_\(音樂家\) "wikilink")
+  - 純子A：[馬蒂•弗里德曼 (音樂家)](https://zh.wikipedia.org/wiki/馬蒂•弗里德曼_\(音樂家\) "wikilink")
   - 純子B：[ROLLY](https://zh.wikipedia.org/wiki/ROLLY "wikilink")
   - 地獄輕音樂部：快速東京
   - 想唱歌的小鬼：[木村充揮](https://zh.wikipedia.org/wiki/木村充揮 "wikilink")
@@ -103,11 +88,9 @@ Now部門\[7\]正式上映。
   - 宣傳設計：細川寿樹
   - 宣伝製作人：遠藤正広
   - 特別協助：イー・エス・ピー，[靜岡縣](../Page/靜岡縣.md "wikilink")[裾野市](https://zh.wikipedia.org/wiki/裾野市 "wikilink")，[オカダヤ新宿本店](https://zh.wikipedia.org/wiki/オカダヤ "wikilink")
-  - 發行：[東宝](https://zh.wikipedia.org/wiki/東宝 "wikilink")，[Asmik
-    Ace](https://zh.wikipedia.org/wiki/Asmik_Ace "wikilink")
+  - 發行：[東宝](https://zh.wikipedia.org/wiki/東宝 "wikilink")，[Asmik Ace](https://zh.wikipedia.org/wiki/Asmik_Ace "wikilink")
   - 製作公司：Asmik Ace
-  - 製作：Asmik Ace，東宝，[J
-    Storm](../Page/J_Storm.md "wikilink")，[巴而可](../Page/巴而可.md "wikilink")，[Amuse](../Page/Amuse.md "wikilink")，[大人計画](https://zh.wikipedia.org/wiki/大人計画 "wikilink")，[KDDI](../Page/KDDI.md "wikilink")，[GYAO\!](https://zh.wikipedia.org/wiki/GYAO! "wikilink")
+  - 製作：Asmik Ace，東宝，[J Storm](../Page/J_Storm.md "wikilink")，[巴而可](../Page/巴而可.md "wikilink")，[Amuse](../Page/Amuse.md "wikilink")，[大人計画](https://zh.wikipedia.org/wiki/大人計画 "wikilink")，[KDDI](../Page/KDDI.md "wikilink")，[GYAO\!](https://zh.wikipedia.org/wiki/GYAO! "wikilink")
 
 ## 原聲帶
 
@@ -131,11 +114,7 @@ Now部門\[7\]正式上映。
 
 
 
-[Category:2016年電影](https://zh.wikipedia.org/wiki/Category:2016年電影 "wikilink")
-[Category:東宝電影](https://zh.wikipedia.org/wiki/Category:東宝電影 "wikilink")
-[Category:日本喜劇片](https://zh.wikipedia.org/wiki/Category:日本喜劇片 "wikilink")
-[Category:宮藤官九郎劇本作品](https://zh.wikipedia.org/wiki/Category:宮藤官九郎劇本作品 "wikilink")
-[Category:搖滾樂題材作品](https://zh.wikipedia.org/wiki/Category:搖滾樂題材作品 "wikilink")
+[Category:2016年電影](https://zh.wikipedia.org/wiki/Category:2016年電影 "wikilink") [Category:東宝電影](https://zh.wikipedia.org/wiki/Category:東宝電影 "wikilink") [Category:日本喜劇片](https://zh.wikipedia.org/wiki/Category:日本喜劇片 "wikilink") [Category:宮藤官九郎劇本作品](https://zh.wikipedia.org/wiki/Category:宮藤官九郎劇本作品 "wikilink") [Category:搖滾樂題材作品](https://zh.wikipedia.org/wiki/Category:搖滾樂題材作品 "wikilink")
 
 1.
 2.

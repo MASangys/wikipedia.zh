@@ -1,5 +1,4 @@
-《**快打旋風II V**》（）是一部由[Group
-Tac制作](https://zh.wikipedia.org/wiki/Group_Tac "wikilink")，杉井儀三郎（）导演的改編[CAPCOM遊戲](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")《[街頭霸王II](https://zh.wikipedia.org/wiki/街頭霸王II "wikilink")》的[電視动画](https://zh.wikipedia.org/wiki/電視动画 "wikilink")，于1995年4月10日到11月27日在[日本電視台播放共](../Page/日本電視台.md "wikilink")29集。香港于1996年8月11日在[亞洲電視播放](../Page/亞洲電視.md "wikilink")。
+《**快打旋風II V**》（）是一部由[Group Tac制作](https://zh.wikipedia.org/wiki/Group_Tac "wikilink")，杉井儀三郎（）导演的改編[CAPCOM遊戲](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")《[街頭霸王II](https://zh.wikipedia.org/wiki/街頭霸王II "wikilink")》的[電視动画](https://zh.wikipedia.org/wiki/電視动画 "wikilink")，于1995年4月10日到11月27日在[日本電視台](../Page/日本電視台.md "wikilink")播放共29集。香港于1996年8月11日在[亞洲電視](../Page/亞洲電視.md "wikilink")播放。
 
 ## 主題歌
 
@@ -42,11 +41,4 @@ Tac制作](https://zh.wikipedia.org/wiki/Group_Tac "wikilink")，杉井儀三郎
       -
         作曲：沈魚、作詞：陳啟泰、歌：唐志偉
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:1995年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1995年日本電視動畫 "wikilink")
-[Category:讀賣電視台動畫](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫 "wikilink")
-[Category:日本電視台動畫](https://zh.wikipedia.org/wiki/Category:日本電視台動畫 "wikilink")
-[Category:武術動畫](https://zh.wikipedia.org/wiki/Category:武術動畫 "wikilink")
-[Category:亞洲電視外購動畫列表](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫列表 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:1995年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1995年日本電視動畫 "wikilink") [Category:讀賣電視台動畫](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫 "wikilink") [Category:日本電視台動畫](https://zh.wikipedia.org/wiki/Category:日本電視台動畫 "wikilink") [Category:武術動畫](https://zh.wikipedia.org/wiki/Category:武術動畫 "wikilink") [Category:亞洲電視外購動畫列表](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫列表 "wikilink")

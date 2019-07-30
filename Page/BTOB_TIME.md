@@ -1,5 +1,4 @@
-《**BTOB
-TIME**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB的第三次單獨演唱會](../Page/BTOB.md "wikilink")，於2017年在韓國[首爾](../Page/首爾.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北及](https://zh.wikipedia.org/wiki/台北 "wikilink")[香港舉辦共四場演唱會](../Page/香港.md "wikilink")。
+《**BTOB TIME**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的第三次單獨演唱會，於2017年在韓國[首爾](../Page/首爾.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北及](https://zh.wikipedia.org/wiki/台北 "wikilink")[香港](../Page/香港.md "wikilink")舉辦共四場演唱會。
 
 ## 簡介
 
@@ -23,14 +22,11 @@ TIME**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音�
 
 ## 背景
 
-2016年12月21日，[Cube娛樂宣布BTOB於](../Page/Cube娛樂.md "wikilink")2017年1月21、22日連續兩日於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾](../Page/首爾.md "wikilink")[奧林匹克公園SK手球競技場舉行第三次單獨演唱會](../Page/奧林匹克公園_\(首爾\).md "wikilink")《BTOB
-TIME》 \[1\]。
+2016年12月21日，[Cube娛樂](../Page/Cube娛樂.md "wikilink")宣布BTOB於2017年1月21、22日連續兩日於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾](../Page/首爾.md "wikilink")[奧林匹克公園SK手球競技場舉行第三次單獨演唱會](../Page/奧林匹克公園_\(首爾\).md "wikilink")《BTOB TIME》 \[1\]。
 
-2017年4月7日，宣布BTOB於同年5月21日以該主題於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北國際會議中心](../Page/台北國際會議中心.md "wikilink")（TICC）舉行演唱會
-\[2\]。是繼2016年後，再度於台灣同場地舉辦大型演唱會 \[3\]。
+2017年4月7日，宣布BTOB於同年5月21日以該主題於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北國際會議中心](../Page/台北國際會議中心.md "wikilink")（TICC）舉行演唱會 \[2\]。是繼2016年後，再度於台灣同場地舉辦大型演唱會 \[3\]。
 
-2017年7月14日，BTOB以該主題於[香港](../Page/香港.md "wikilink")[香港亞洲國際博覽館舉行演唱會](../Page/亞洲國際博覽館.md "wikilink")，是2015年後再次於香港開唱
-\[4\]\[5\]。
+2017年7月14日，BTOB以該主題於[香港](../Page/香港.md "wikilink")[香港亞洲國際博覽館舉行演唱會](../Page/亞洲國際博覽館.md "wikilink")，是2015年後再次於香港開唱 \[4\]\[5\]。
 
 ## 場次
 
@@ -89,20 +85,15 @@ TIME》 \[1\]。
 6.  你才要好好過
 7.  Killing Me
 8.  Forever / *[恩光](../Page/徐恩光.md "wikilink") Solo Stage* (原唱：BeWhy)
-9.  You've Fallen in to Me / *[昌燮](../Page/李昌燮.md "wikilink") Solo
-    Stage* (原唱：No Brain)
-10. [Fancy Shoes](../Page/PIECE_OF_BTOB.md "wikilink") /
-    *[鎰勳](../Page/鄭鎰勳.md "wikilink") Solo Stage* ＊ *自作曲初公開舞台* ＊
+9.  You've Fallen in to Me / *[昌燮](../Page/李昌燮.md "wikilink") Solo Stage* (原唱：No Brain)
+10. [Fancy Shoes](../Page/PIECE_OF_BTOB.md "wikilink") / *[鎰勳](../Page/鄭鎰勳.md "wikilink") Solo Stage* ＊ *自作曲初公開舞台* ＊
 11. 留在我身邊 / *[BTOB－BLUE](../Page/BTOB－BLUE.md "wikilink")*
 12. 玩火 / *黑色粉紅 (Rap Line) Feat. 昌燮* (原唱：BLACKPINK)
 13. 沒關係
 14. 第二次告白
-15. Boy Friend + Weight in Gold / *[旼赫](../Page/李旼赫.md "wikilink") Solo
-    Stage*
+15. Boy Friend + Weight in Gold / *[旼赫](../Page/李旼赫.md "wikilink") Solo Stage*
 16. Body Roll / *[Peniel](../Page/辛東根.md "wikilink") Solo Stage*
-17. [Swimming](../Page/PIECE_OF_BTOB.md "wikilink") /
-    *[炫植](../Page/任炫植.md "wikilink") Solo Stage* ＊ *自作曲初公開舞台*
-    ＊
+17. [Swimming](../Page/PIECE_OF_BTOB.md "wikilink") / *[炫植](../Page/任炫植.md "wikilink") Solo Stage* ＊ *自作曲初公開舞台* ＊
 18. 除了我都是狼
 19. 自賣自誇
 20. 過現未愛
@@ -126,8 +117,7 @@ TIME》 \[1\]。
 11. Hello Mello / *Rap Line*
 12. SOMEDAY
 13. ABOUT TIME
-14. Who Are You ([孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink") OST) /
-    *[星材](../Page/陸星材.md "wikilink") Solo Stage* (原唱：Sam Kim)
+14. Who Are You ([孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink") OST) / *[星材](../Page/陸星材.md "wikilink") Solo Stage* (原唱：Sam Kim)
 15. 第二次告白
 16. 花漾的她
 17. 除了我都是狼
@@ -231,19 +221,10 @@ TIME》 \[1\]。
 
   -
   -
-[Category:BTOB演唱會](https://zh.wikipedia.org/wiki/Category:BTOB演唱會 "wikilink")
-[Category:2017年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2017年巡迴演唱會 "wikilink")
+[Category:BTOB演唱會](https://zh.wikipedia.org/wiki/Category:BTOB演唱會 "wikilink") [Category:2017年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2017年巡迴演唱會 "wikilink")
 
-1.  [BTOB
-    明年1月21日、22日將舉行演唱會](https://www.kpopn.com/2016/12/22/btob-%e6%98%8e%e5%b9%b41%e6%9c%8821%e6%97%a5%e3%80%8122%e6%97%a5%e5%b0%87%e8%88%89%e8%a1%8c%e6%bc%94%e5%94%b1%e6%9c%83/)
-    2017-12-01 KPOPN
-2.  [BTOB
-    將在5月21日來台開唱！](https://www.kpopn.com/2017/03/21/btob-%e5%b0%87%e5%9c%a85%e6%9c%8821%e6%97%a5%e4%be%86%e5%8f%b0%e9%96%8b%e5%94%b1%ef%bc%81/)
-    2017-12-01 KPOPN
-3.  [美聲天才BTOB名不虛傳
-    陸星材重現《鬼怪》場面引尖叫](http://www.koreastardaily.com/tc/news/94713)
-    2017-05-22 韓星網
-4.  [BTOB 7月14日再度赴港開唱](https://www.kpopn.com/2017/07/15/btob-%e9%a6%99%e6%b8%af%e9%96%8b%e5%94%b1%ef%bc%8cpeniel-%e9%a6%96%e5%94%b1%e5%80%8b%e4%ba%ba%e5%96%ae%e6%9b%b2/)
-    2017-12-01 KPOPN
-5.  [BTOB 香港開唱，Peniel 首唱個人單曲](https://kpopn.niusnews.com/=K321wf83)
-    2017-07-18 KPOPN
+1.  [BTOB 明年1月21日、22日將舉行演唱會](https://www.kpopn.com/2016/12/22/btob-%e6%98%8e%e5%b9%b41%e6%9c%8821%e6%97%a5%e3%80%8122%e6%97%a5%e5%b0%87%e8%88%89%e8%a1%8c%e6%bc%94%e5%94%b1%e6%9c%83/) 2017-12-01 KPOPN
+2.  [BTOB 將在5月21日來台開唱！](https://www.kpopn.com/2017/03/21/btob-%e5%b0%87%e5%9c%a85%e6%9c%8821%e6%97%a5%e4%be%86%e5%8f%b0%e9%96%8b%e5%94%b1%ef%bc%81/) 2017-12-01 KPOPN
+3.  [美聲天才BTOB名不虛傳 陸星材重現《鬼怪》場面引尖叫](http://www.koreastardaily.com/tc/news/94713) 2017-05-22 韓星網
+4.  [BTOB 7月14日再度赴港開唱](https://www.kpopn.com/2017/07/15/btob-%e9%a6%99%e6%b8%af%e9%96%8b%e5%94%b1%ef%bc%8cpeniel-%e9%a6%96%e5%94%b1%e5%80%8b%e4%ba%ba%e5%96%ae%e6%9b%b2/) 2017-12-01 KPOPN
+5.  [BTOB 香港開唱，Peniel 首唱個人單曲](https://kpopn.niusnews.com/=K321wf83) 2017-07-18 KPOPN

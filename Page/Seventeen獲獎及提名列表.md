@@ -2,12 +2,9 @@
 
 ## 韓國
 
-### [亞洲明星盛典（Asia Artist Awards）](../Page/亞洲明星盛典.md "wikilink")
+### [亞洲明星盛典 Artist Awards）](../Page/亞洲明星盛典.md "wikilink")（Asia
 
-|- | rowspan="2"|2016年 | 最受歡迎藝人－TOP 50\[1\] | rowspan="6"|SEVENTEEN |
-|- | 歌手部門－最佳之星獎 |  |- | rowspan="2"|2017年 | 最受歡迎藝人－TOP 10\[2\] |  |- |
-歌手部門－最佳藝人獎 |  |- | rowspan="2"|2018年 | 年度藝人 |  |- | Best Artist獎 |
-|- |}
+|- | rowspan="2"|2016年 | 最受歡迎藝人－TOP 50\[1\] | rowspan="6"|SEVENTEEN |  |- | 歌手部門－最佳之星獎 |  |- | rowspan="2"|2017年 | 最受歡迎藝人－TOP 10\[2\] |  |- | 歌手部門－最佳藝人獎 |  |- | rowspan="2"|2018年 | 年度藝人 |  |- | Best Artist獎 |  |- |}
 
 ### 亞洲模特頒獎典禮（Asia Model Festival Awards）
 
@@ -15,47 +12,23 @@
 
 ### [Gaon Chart K-POP大獎（Gaon Chart K-POP Awards）](../Page/Gaon_Chart_K-POP大獎.md "wikilink")
 
-|- | 2016年 | 世界新人獎（男子部門） | rowspan="2"|SEVENTEEN |  |- | 2017年 | 火熱表演獎 |
- |- | 2018年 | 專輯部門年度歌手獎－第二季 | [Al1](../Page/Al1.md "wikilink") |  |- |
-rowspan="2"| 2019年 | 火熱表演獎 | rowspan="2"|SEVENTEEN |  |- | K-POP世界韓流明星獎
-|  |- |}
+|- | 2016年 | 世界新人獎（男子部門） | rowspan="2"|SEVENTEEN |  |- | 2017年 | 火熱表演獎 |  |- | 2018年 | 專輯部門年度歌手獎－第二季 | [Al1](../Page/Al1.md "wikilink") |  |- | rowspan="2"| 2019年 | 火熱表演獎 | rowspan="2"|SEVENTEEN |  |- | K-POP世界韓流明星獎 |  |- |}
 
 ### [金唱片獎（Golden Disk Awards）](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")
 
-|- | rowspan="4"|2016年 | 唱片部門－本賞 | BOYS BE |  |- | 新人獎 |
-rowspan="3"|SEVENTEEN |  |- | 人氣獎（韓國） |  |- | 海外人氣獎 |  |- | 2017年 |
-唱片部門－本賞 | [Love & Letter](../Page/Love_&_Letter.md "wikilink")
-|  |- | 2018年 | 唱片部門－本賞 | [TEEN,
-AGE](https://zh.wikipedia.org/wiki/TEEN,_AGE "wikilink") |  |- | 2019年 |
-唱片部門－本賞 | [YOU MAKE MY
-DAY](https://zh.wikipedia.org/wiki/YOU_MAKE_MY_DAY "wikilink") |  |}
+|- | rowspan="4"|2016年 | 唱片部門－本賞 | BOYS BE |  |- | 新人獎 | rowspan="3"|SEVENTEEN |  |- | 人氣獎（韓國） |  |- | 海外人氣獎 |  |- | 2017年 | 唱片部門－本賞 | [Love & Letter](../Page/Love_&_Letter.md "wikilink") |  |- | 2018年 | 唱片部門－本賞 | [TEEN, AGE](https://zh.wikipedia.org/wiki/TEEN,_AGE "wikilink") |  |- | 2019年 | 唱片部門－本賞 | [YOU MAKE MY DAY](https://zh.wikipedia.org/wiki/YOU_MAKE_MY_DAY "wikilink") |  |}
 
-### [Mnet亞洲音樂大獎（Mnet Asian Music Awards）](../Page/Mnet亞洲音樂大獎.md "wikilink")
+### [Mnet亞洲音樂大獎 Asian Music Awards）](../Page/Mnet亞洲音樂大獎.md "wikilink")（Mnet
 
-|- | rowspan="2"|2015年 |  | rowspan="2"|SEVENTEEN |  |- |  |  |- |
-rowspan="5"|2016年 |  | Love & Letter |  |- | 最佳亞洲風格 |
-rowspan="2"|SEVENTEEN |  |- |  |  |- |  | rowspan="2"|Pretty U |  |- |
-|  |- | rowspan="7"|[2017年](../Page/2017年Mnet亞洲音樂大獎.md "wikilink") |  |
-[Al1](../Page/Al1.md "wikilink") |  |- |  | rowspan="3"| 울고 싶지 않아 (Don't
-Wanna Cry) |  |- | \[3\] |  |- | \[4\] |  |- | \[5\] | rowspan="3"|
-SEVENTEEN |  |- |  |  |- | 國際最受歡迎藝人獎 |  |- |
-rowspan="7"|[2018年](https://zh.wikipedia.org/wiki/2018年Mnet亞洲音樂大獎 "wikilink")
-|  | rowspan="3"| SEVENTEEN |  |- |  |  |- |  |  |- |  | 《Oh My\!》 |  |-
-|  | [夫碩順](../Page/夫碩順.md "wikilink") |  |- |  | 《A-Teen》 |  |- |}
+|- | rowspan="2"|2015年 |  | rowspan="2"|SEVENTEEN |  |- |  |  |- | rowspan="5"|2016年 |  | Love & Letter |  |- | 最佳亞洲風格 | rowspan="2"|SEVENTEEN |  |- |  |  |- |  | rowspan="2"|Pretty U |  |- |  |  |- | rowspan="7"|[2017年](../Page/2017年Mnet亞洲音樂大獎.md "wikilink") |  | [Al1](../Page/Al1.md "wikilink") |  |- |  | rowspan="3"| 울고 싶지 않아 (Don't Wanna Cry) |  |- | \[3\] |  |- | \[4\] |  |- | \[5\] | rowspan="3"| SEVENTEEN |  |- |  |  |- | 國際最受歡迎藝人獎 |  |- | rowspan="7"|[2018年](https://zh.wikipedia.org/wiki/2018年Mnet亞洲音樂大獎 "wikilink") |  | rowspan="3"| SEVENTEEN |  |- |  |  |- |  |  |- |  | 《Oh My\!》 |  |- |  | [夫碩順](../Page/夫碩順.md "wikilink") |  |- |  | 《A-Teen》 |  |- |}
 
-### [甜瓜音樂獎（Melon Music Awards）](../Page/甜瓜音樂獎.md "wikilink")
+### [甜瓜音樂獎 Music Awards）](../Page/甜瓜音樂獎.md "wikilink")（Melon
 
-|- | 2015年 | 新人獎 | SEVENTEEN |  |- | rowspan="2"|2016年 | 舞蹈獎（男子部門） |
-rowspan="2"|Pretty U |  |- | MBC音樂之星獎 |  |- | rowspan="2"|2017年 | Stage
-of the Year | SEVENTEEN |  |- | Hot Trend獎 | WOOZI〈DOWNPOUR〉 |  |- |- |
-rowspan="2"|2018年 | 舞蹈獎（男子部門） | rowspan="2"|THANKS |  |}
+|- | 2015年 | 新人獎 | SEVENTEEN |  |- | rowspan="2"|2016年 | 舞蹈獎（男子部門） | rowspan="2"|Pretty U |  |- | MBC音樂之星獎 |  |- | rowspan="2"|2017年 | Stage of the Year | SEVENTEEN |  |- | Hot Trend獎 | WOOZI〈DOWNPOUR〉 |  |- |- | rowspan="2"|2018年 | 舞蹈獎（男子部門） | rowspan="2"|THANKS |  |}
 
 ### [首爾音樂獎（Seoul Music Awards）](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")
 
-|- | 2016年 | 新人賞 | SEVENTEEN |  |- | 2017年 | 本賞 | Love & Letter |  |- |
-2018年 | 本賞 | [TEEN, AGE](../Page/Teen,_Age.md "wikilink") |  |- | 2019年
-| 本賞 | [YOU MAKE MY
-DAY](https://zh.wikipedia.org/wiki/YOU_MAKE_MY_DAY "wikilink") |  |}
+|- | 2016年 | 新人賞 | SEVENTEEN |  |- | 2017年 | 本賞 | Love & Letter |  |- | 2018年 | 本賞 | [TEEN, AGE](../Page/Teen,_Age.md "wikilink") |  |- | 2019年 | 本賞 | [YOU MAKE MY DAY](https://zh.wikipedia.org/wiki/YOU_MAKE_MY_DAY "wikilink") |  |}
 
 ### 韓國有線電視大獎（Korea Cable TV Awards）
 
@@ -63,8 +36,7 @@ DAY](https://zh.wikipedia.org/wiki/YOU_MAKE_MY_DAY "wikilink") |  |}
 
 ### [韓國大眾音樂獎 （Korea Popular Music Awards）](../Page/韓國大眾音樂獎.md "wikilink")
 
-|- |rowspan=4|2018 |歌曲獎 |《Oh My\!》 | |- |歌手獎 |rowspan=3|SEVENTEEN | |-
-|團體舞蹈獎 | |- |人氣獎 | |- |}
+|- |rowspan=4|2018 |歌曲獎 |《Oh My\!》 | |- |歌手獎 |rowspan=3|SEVENTEEN | |- |團體舞蹈獎 | |- |人氣獎 | |- |}
 
 ## 其他獎項
 
@@ -266,29 +238,19 @@ DAY](https://zh.wikipedia.org/wiki/YOU_MAKE_MY_DAY "wikilink") |  |}
 
 ### MBC Music《[Show Champion](../Page/Show_Champion.md "wikilink")》
 
-|- | rowspan="3"| 2016年 | 5月4日 | rowspan="2"| Pretty U |- | 5月11日 |- |
-12月21日 | BOOMBOOM |- | rowspan="3"| 2017年 | 6月7日 | rowspan="2"| Don't
-Wanna Cry |- | 6月14日 |- | 11月15日 | CLAP |- | rowspan="2"| 2018年 | 2月14日
-| THANKS |- | 7月25日 | Oh My\! |- | rowspan="2"| 2019年 | 1月30日 |
-rowspan="2"| Home |- | 2月13日 |}
+|- | rowspan="3"| 2016年 | 5月4日 | rowspan="2"| Pretty U |- | 5月11日 |- | 12月21日 | BOOMBOOM |- | rowspan="3"| 2017年 | 6月7日 | rowspan="2"| Don't Wanna Cry |- | 6月14日 |- | 11月15日 | CLAP |- | rowspan="2"| 2018年 | 2月14日 | THANKS |- | 7月25日 | Oh My\! |- | rowspan="2"| 2019年 | 1月30日 | rowspan="2"| Home |- | 2月13日 |}
 
 ### Mnet《[M\! Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》
 
-|- | 2016年 | 12月15日 | BOOMBOOM |- | 2017年 | 6月15日 | Don't Wanna Cry |- |
-2018年 | 7月26日 | Oh My\! |- | rowspan="3"| 2019年 | 1月31日 | rowspan="3"|
-Home |- | 2月7日 |- | 2月14日 |}
+|- | 2016年 | 12月15日 | BOOMBOOM |- | 2017年 | 6月15日 | Don't Wanna Cry |- | 2018年 | 7月26日 | Oh My\! |- | rowspan="3"| 2019年 | 1月31日 | rowspan="3"| Home |- | 2月7日 |- | 2月14日 |}
 
 ### KBS2《[Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》
 
-|- | 2016年 | 12月16日 | BOOMBOOM |- | rowspan="2"|2017年 | 6月2日 | Don't
-Wanna Cry |- | 11月17日 | CLAP |- | rowspan="2"|2018年 | 2月16日 | Thanks |-
-| 7月27日 | Oh My\! |- | rowspan="3"| 2019年 | 2月1日 | rowspan="3"| Home |-
-| 2月8日 |- | 2月15日 |}
+|- | 2016年 | 12月16日 | BOOMBOOM |- | rowspan="2"|2017年 | 6月2日 | Don't Wanna Cry |- | 11月17日 | CLAP |- | rowspan="2"|2018年 | 2月16日 | Thanks |- | 7月27日 | Oh My\! |- | rowspan="3"| 2019年 | 2月1日 | rowspan="3"| Home |- | 2月8日 |- | 2月15日 |}
 
 ### SBS MTV《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》
 
-|- | rowspan="2"|2017年 | 5月30日 | rowspan="2"|Don't Wanna Cry |- | 6月13日
-|}
+|- | rowspan="2"|2017年 | 5月30日 | rowspan="2"|Don't Wanna Cry |- | 6月13日 |}
 
 ### MBC《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》
 
@@ -302,8 +264,7 @@ Wanna Cry |- | 11月17日 | CLAP |- | rowspan="2"|2018年 | 2月16日 | Thanks |
 
 ## 參考文獻
 
-[Category:Seventeen](https://zh.wikipedia.org/wiki/Category:Seventeen "wikilink")
-[Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink")
+[Category:Seventeen](https://zh.wikipedia.org/wiki/Category:Seventeen "wikilink") [Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
-**唯一**（，），本名**朴葬一**（)，韓國男演員，是所屬經紀公司Fantagio推出的演員團體[5urprise的成員之一](../Page/5urprise.md "wikilink")。
+**唯一**（，），本名**朴葬一**（)，韓國男演員，是所屬經紀公司Fantagio推出的演員團體[5urprise](../Page/5urprise.md "wikilink")的成員之一。
 
 ## 影視作品
 

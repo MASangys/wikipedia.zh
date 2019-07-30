@@ -1,42 +1,26 @@
-《**BIGBANG10 The Concert：0.TO.10 in
-Japan**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG在](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")2016年7月30日於[日本](../Page/日本.md "wikilink")[大阪](../Page/大阪市.md "wikilink")[長居陸上競技場動員](https://zh.wikipedia.org/wiki/大阪市長居陸上競技場 "wikilink")5萬5千名觀眾舉行的「[0.TO.10](https://zh.wikipedia.org/wiki/0.TO.10 "wikilink")」公演所推出的演唱會影音專輯，於2016年11月2日由[YGEX發行實體專輯及](https://zh.wikipedia.org/wiki/YGEX "wikilink")[數位音樂下載](../Page/數位音樂下載.md "wikilink")，此張演唱會專輯除了收錄「0.TO.10
-in
-Japan」的現場盛況、成員個別多角度特寫鎖定畫面，同時承載了此前經過13個國家32座城市的「」公演回憶的記錄片電影《》也收錄其中。\[1\]
+《**BIGBANG10 The Concert：0.TO.10 in Japan**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG在](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")2016年7月30日於[日本](../Page/日本.md "wikilink")[大阪](../Page/大阪市.md "wikilink")[長居陸上競技場動員](https://zh.wikipedia.org/wiki/大阪市長居陸上競技場 "wikilink")5萬5千名觀眾舉行的「[0.TO.10](https://zh.wikipedia.org/wiki/0.TO.10 "wikilink")」公演所推出的演唱會影音專輯，於2016年11月2日由[YGEX發行實體專輯及](https://zh.wikipedia.org/wiki/YGEX "wikilink")[數位音樂下載](../Page/數位音樂下載.md "wikilink")，此張演唱會專輯除了收錄「0.TO.10 in Japan」的現場盛況、成員個別多角度特寫鎖定畫面，同時承載了此前經過13個國家32座城市的「」公演回憶的記錄片電影《》也收錄其中。\[1\]
 
 ## 發行成績
 
-《**BIGBANG10 The Concert：0.TO.10 in
-Japan**》發行一週後以35,553張的銷售量登上[日本公信榜DVD綜合榜及綜合音樂影片榜冠軍](../Page/Oricon公信榜.md "wikilink")，藍光版本則以15,218張銷售量取得單週藍光唱片排行榜第一名。\[2\]\[3\]
+《**BIGBANG10 The Concert：0.TO.10 in Japan**》發行一週後以35,553張的銷售量登上[日本公信榜DVD綜合榜及綜合音樂影片榜冠軍](../Page/Oricon公信榜.md "wikilink")，藍光版本則以15,218張銷售量取得單週藍光唱片排行榜第一名。\[2\]\[3\]
 
 ## 發行版本
 
-[BIGBANG10_The_Concert_0.TO.10_In_Japan_豪華初回生產限定盤.png](https://zh.wikipedia.org/wiki/File:BIGBANG10_The_Concert_0.TO.10_In_Japan_豪華初回生產限定盤.png "fig:BIGBANG10_The_Concert_0.TO.10_In_Japan_豪華初回生產限定盤.png")
-此專輯共分為4種發行版本，包括2種豪華限量盤、2種通常盤。\[4\]
+[BIGBANG10_The_Concert_0.TO.10_In_Japan_豪華初回生產限定盤.png](https://zh.wikipedia.org/wiki/File:BIGBANG10_The_Concert_0.TO.10_In_Japan_豪華初回生產限定盤.png "fig:BIGBANG10_The_Concert_0.TO.10_In_Japan_豪華初回生產限定盤.png") 此專輯共分為4種發行版本，包括2種豪華限量盤、2種通常盤。\[4\]
 
-  - 豪華初回生產限定盤
-    4DVD+2CD+寫真書（編碼：AVBY-58427）：此版本附特別包裝，內容物含100頁寫真書與成員小卡（5款隨機1款封入）與二片收錄24首歌曲的Live
-    CD和四片DVD，DVD共收錄「0.TO.10 IN
-    JAPAN」Live影像、成員個別多角度特寫鎖定畫面、幕後花絮、記錄片電影《BIGBANG
-    MADE》。
+  - 豪華初回生產限定盤 4DVD+2CD+寫真書（編碼：AVBY-58427）：此版本附特別包裝，內容物含100頁寫真書與成員小卡（5款隨機1款封入）與二片收錄24首歌曲的Live CD和四片DVD，DVD共收錄「0.TO.10 IN JAPAN」Live影像、成員個別多角度特寫鎖定畫面、幕後花絮、記錄片電影《BIGBANG MADE》。
 
 <!-- end list -->
 
-  - 豪華初回生產限定盤
-    3藍光光碟+2CD+寫真書（編碼：AVXY-58431）：此版本附特別包裝，內容物含100頁寫真書與成員小卡（5款隨機1款封入）與二片收錄24首歌曲的Live
-    CD和四片DVD，DVD共收錄「0.TO.10 IN
-    JAPAN」Live影像、成員個別多角度特寫鎖定畫面、幕後花絮、記錄片電影《BIGBANG
-    MADE》。
+  - 豪華初回生產限定盤 3藍光光碟+2CD+寫真書（編碼：AVXY-58431）：此版本附特別包裝，內容物含100頁寫真書與成員小卡（5款隨機1款封入）與二片收錄24首歌曲的Live CD和四片DVD，DVD共收錄「0.TO.10 IN JAPAN」Live影像、成員個別多角度特寫鎖定畫面、幕後花絮、記錄片電影《BIGBANG MADE》。
 
 <!-- end list -->
 
-  - 通常盤 2DVD（編號：AVBY-58434）：此版本內容物含成員小卡（5款隨機1款封入）與二片DVD，DVD共收錄「0.TO.10
-    IN JAPAN」Live影像及記錄片電影《BIGBANG MADE》。
+  - 通常盤 2DVD（編號：AVBY-58434）：此版本內容物含成員小卡（5款隨機1款封入）與二片DVD，DVD共收錄「0.TO.10 IN JAPAN」Live影像及記錄片電影《BIGBANG MADE》。
 
 <!-- end list -->
 
-  - 通常盤
-    2藍光光碟（編號：AVXY-58436）：此版本內容物含成員小卡（5款隨機1款封入）與二片藍光光碟，藍光光碟共收錄「0.TO.10
-    IN JAPAN」Live影像及記錄片電影《BIGBANG MADE》。
+  - 通常盤 2藍光光碟（編號：AVXY-58436）：此版本內容物含成員小卡（5款隨機1款封入）與二片藍光光碟，藍光光碟共收錄「0.TO.10 IN JAPAN」Live影像及記錄片電影《BIGBANG MADE》。
 
 {{-}}
 
@@ -129,8 +113,7 @@ Japan**》發行一週後以35,553張的銷售量登上[日本公信榜DVD綜合
 
   -
 
-[Category:BIGBANG演唱會影音專輯](https://zh.wikipedia.org/wiki/Category:BIGBANG演唱會影音專輯 "wikilink")
-[Category:影音專輯](https://zh.wikipedia.org/wiki/Category:影音專輯 "wikilink")
+[Category:BIGBANG演唱會影音專輯](https://zh.wikipedia.org/wiki/Category:BIGBANG演唱會影音專輯 "wikilink") [Category:影音專輯](https://zh.wikipedia.org/wiki/Category:影音專輯 "wikilink")
 
 1.
 2.

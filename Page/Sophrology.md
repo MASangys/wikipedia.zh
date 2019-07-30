@@ -1,4 +1,4 @@
-《**Sophrology**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王嘉儀的首張個人音樂專輯](../Page/王嘉儀.md "wikilink")，於2016年11月13日首先於網上音樂平台推出。
+《**Sophrology**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王嘉儀](../Page/王嘉儀.md "wikilink")的首張個人音樂專輯，於2016年11月13日首先於網上音樂平台推出。
 
 2017年2月24日推出了實體唱片。
 
@@ -15,6 +15,4 @@
 
 ## 獎項
 
-[Category:王嘉儀音樂專輯](https://zh.wikipedia.org/wiki/Category:王嘉儀音樂專輯 "wikilink")
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:王嘉儀音樂專輯](https://zh.wikipedia.org/wiki/Category:王嘉儀音樂專輯 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

@@ -1,7 +1,4 @@
-《**Go Back夫婦**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
-2TV於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2017年10月13日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/KBS金土連續劇 "wikilink")，由《[心裡的聲音](../Page/心裡的聲音.md "wikilink")》河炳勛導演執導與權慧珠作家再次合作打造。此劇講述描述一對互看不順眼的38歲同齡夫妻在如同戰爭般的生活中，突然重新回到20歲讓他們開始重新燃起愛的火花，開始過起當年沒有經歷過的青春生活的故事。\[1\]\[2\]
-CHOCO TV自10月13日起，每週五、六上午10:00跟播。[LINE
-TV全劇上架](../Page/LINE_TV.md "wikilink")。
+《**Go Back夫婦**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS 2TV於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2017年10月13日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/KBS金土連續劇 "wikilink")，由《[心裡的聲音](../Page/心裡的聲音.md "wikilink")》河炳勛導演執導與權慧珠作家再次合作打造。此劇講述描述一對互看不順眼的38歲同齡夫妻在如同戰爭般的生活中，突然重新回到20歲讓他們開始重新燃起愛的火花，開始過起當年沒有經歷過的青春生活的故事。\[1\]\[2\] CHOCO TV自10月13日起，每週五、六上午10:00跟播。[LINE TV全劇上架](../Page/LINE_TV.md "wikilink")。
 
 ## 演員陣容
 
@@ -207,7 +204,7 @@ TV全劇上架](../Page/LINE_TV.md "wikilink")。
 
 ### 其他搭配歌曲
 
-  - 台灣[衛視中文台版本](../Page/衛視中文台.md "wikilink")
+  - 台灣[衛視中文台](../Page/衛視中文台.md "wikilink")版本
       - 片尾曲：[李玉璽](../Page/李玉璽.md "wikilink")《閉上雙眼》
 
 ## 收視率
@@ -330,9 +327,7 @@ TV全劇上架](../Page/LINE_TV.md "wikilink")。
 
 ## 同時段競爭作品
 
-  - [JTBC](../Page/JTBC.md "wikilink")
-    [金土連續劇](../Page/JTBC金土連續劇.md "wikilink")：《[The
-    Package](../Page/The_Package.md "wikilink")》
+  - [JTBC](../Page/JTBC.md "wikilink") [金土連續劇](../Page/JTBC金土連續劇.md "wikilink")：《[The Package](../Page/The_Package.md "wikilink")》
 
 ## 提名&得獎列表
 
@@ -406,11 +401,7 @@ TV全劇上架](../Page/LINE_TV.md "wikilink")。
   - [韓國KBS官方網站](http://www.kbs.co.kr/drama/gobackbubu/index.html)
   - [香港無綫電視官方網站](http://programme.tvb.com/drama/coupleonthebacktrack)
 
-[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink")
-[Category:KBS金土连续剧](https://zh.wikipedia.org/wiki/Category:KBS金土连续剧 "wikilink")
-[Category:韓國家庭劇](https://zh.wikipedia.org/wiki/Category:韓國家庭劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:星空傳媒(台灣)電視外購韓劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購韓劇 "wikilink")
+[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink") [Category:KBS金土连续剧](https://zh.wikipedia.org/wiki/Category:KBS金土连续剧 "wikilink") [Category:韓國家庭劇](https://zh.wikipedia.org/wiki/Category:韓國家庭劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:星空傳媒(台灣)電視外購韓劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購韓劇 "wikilink")
 
 1.  [孫浩俊＆張娜拉將在新劇《告白夫婦》扮演同齡CP　超強童顏不違和](https://www.koreastardaily.com/tc/news/97906)，韓星網，2017-09-08
 2.  [张娜拉和孙浩俊主演特别新剧《告白夫妇》](http://www.ntdtv.com/xtr/gb/2017/09/27/a1344061.html)，新唐人，2017-09-26

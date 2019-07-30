@@ -1,13 +1,8 @@
-《**花樣年華
-pt.1**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[防彈少年團第三張韓語迷你專輯](../Page/防彈少年團.md "wikilink")\[1\]，為「青春二部曲」系列專輯的首部曲，談述青春既美麗又不安的瞬間。\[2\]2015年4月29日由[Big
-Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")
-，主打曲目為〈I NEED U〉，後續曲為〈(Dope)〉（）。
+《**花樣年華 pt.1**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[防彈少年團](../Page/防彈少年團.md "wikilink")第三張韓語迷你專輯\[1\]，為「青春二部曲」系列專輯的首部曲，談述青春既美麗又不安的瞬間。\[2\]2015年4月29日由[Big Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink") ，主打曲目為〈I NEED U〉，後續曲為〈(Dope)〉（）。
 
 ## 簡介
 
-  - 《花樣年華
-    pt.1》於第11週GAON排行榜(2016.3.6\~2016.3.12)及HANTEO排行榜(2016.3.7\~2016.3.13)週間專輯實銷排行榜中，發行11個月後再次獲得冠軍。因專輯實銷排行榜第一名的佳績，於2016年3月18日下午播出的KBS
-    2TV《Music Bank》中也以專輯主打歌〈I NEED U〉再度擠進排行榜第13名\[3\]。
+  - 《花樣年華 pt.1》於第11週GAON排行榜(2016.3.6\~2016.3.12)及HANTEO排行榜(2016.3.7\~2016.3.13)週間專輯實銷排行榜中，發行11個月後再次獲得冠軍。因專輯實銷排行榜第一名的佳績，於2016年3月18日下午播出的KBS 2TV《Music Bank》中也以專輯主打歌〈I NEED U〉再度擠進排行榜第13名\[3\]。
 
 ## 曲目
 
@@ -129,7 +124,7 @@ Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https
 
 #### 韓國版
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量   | 總銷量    | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量   | 總銷量    | 停留時間 |
 | ---------------------------------------- | ---- | ----- | ------ | ---- |
 | 專輯日榜                                     | \-   | \-    | 5,019+ | 1星期  |
 | 專輯週榜                                     | 24   | 2,838 |        |      |
@@ -137,7 +132,7 @@ Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https
 
 #### 日本版
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量   | 總銷量    | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量   | 總銷量    | 停留時間 |
 | ---------------------------------------- | ---- | ----- | ------ | ---- |
 | 專輯日榜                                     | 6    | \-    | 8,072+ | 3星期  |
 | 專輯週榜                                     | 9    | 7,042 |        |      |
@@ -210,11 +205,7 @@ Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https
 
 ## 參考資料
 
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:防彈少年團音樂專輯](https://zh.wikipedia.org/wiki/Category:防彈少年團音樂專輯 "wikilink")
-[Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:防彈少年團音樂專輯](https://zh.wikipedia.org/wiki/Category:防彈少年團音樂專輯 "wikilink") [Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink") [Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 

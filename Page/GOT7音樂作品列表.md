@@ -1,18 +1,8 @@
-**[GOT7](../Page/GOT7.md "wikilink")**是韓國[JYP娛樂旗下男子組合](../Page/JYP娛樂.md "wikilink")，於2014年正式出道。GOT7迄今共發行3張正規專輯、7張迷你專輯及4張單曲，唱片企劃公司均為JYP娛樂，發行商分別為[Genie音樂及](../Page/Genie音樂.md "wikilink")[史詩唱片日本](https://zh.wikipedia.org/wiki/史詩唱片日本 "wikilink")。
+**[GOT7](../Page/GOT7.md "wikilink")**是韓國[JYP娛樂](../Page/JYP娛樂.md "wikilink")旗下男子組合，於2014年正式出道。GOT7迄今共發行3張正規專輯、7張迷你專輯及4張單曲，唱片企劃公司均為JYP娛樂，發行商分別為[Genie音樂](../Page/Genie音樂.md "wikilink")及[史詩唱片日本](https://zh.wikipedia.org/wiki/史詩唱片日本 "wikilink")。
 
-2016年至2017年間推出「飛行日誌（FLIGHT LOG）」系列三部曲，2016上半年，首部曲《[FLIGHT LOG :
-DEPARTURE](https://zh.wikipedia.org/wiki/FLIGHT_LOG_:_DEPARTURE "wikilink")》正式發行，主打歌為《Fly》、《Home
-Run》；2016下半年，二部曲《[FLIGHT LOG :
-TURBULENCE](https://zh.wikipedia.org/wiki/FLIGHT_LOG_:_TURBULENCE "wikilink")》發行，主打歌為《Hard
-Carry》；2017年則推出了最終曲《[FLIGHT LOG :
-ARRIVAL](https://zh.wikipedia.org/wiki/FLIGHT_LOG_:_ARRIVAL "wikilink")》，主打歌為《Never
-Ever》。
+2016年至2017年間推出「飛行日誌（FLIGHT LOG）」系列三部曲，2016上半年，首部曲《[FLIGHT LOG : DEPARTURE](https://zh.wikipedia.org/wiki/FLIGHT_LOG_:_DEPARTURE "wikilink")》正式發行，主打歌為《Fly》、《Home Run》；2016下半年，二部曲《[FLIGHT LOG : TURBULENCE](https://zh.wikipedia.org/wiki/FLIGHT_LOG_:_TURBULENCE "wikilink")》發行，主打歌為《Hard Carry》；2017年則推出了最終曲《[FLIGHT LOG : ARRIVAL](https://zh.wikipedia.org/wiki/FLIGHT_LOG_:_ARRIVAL "wikilink")》，主打歌為《Never Ever》。
 
-GOT7韓語專輯中，在Gaon Chart紀錄上除了《[Got
-it?](../Page/Got_it?_\(GOT7迷你專輯\).md "wikilink")》及《[Just
-right](../Page/Just_right_\(GOT7迷你專輯\).md "wikilink")》外，均取得週榜冠軍，其中《[GOT♡](../Page/Got_Love_\(GOT7迷你專輯\).md "wikilink")》是首次得到排行榜冠軍作品；飛行日誌最終曲《FLIGHT
-LOG :
-ARRIVAL》則為銷量最高之專輯。日語專輯中，在[Oricon紀錄上](../Page/Oricon.md "wikilink")《[翻天↑覆地](../Page/翻天↑覆地.md "wikilink")》是上榜次數最多的專輯。
+GOT7韓語專輯中，在Gaon Chart紀錄上除了《[Got it?](../Page/Got_it?_\(GOT7迷你專輯\).md "wikilink")》及《[Just right](../Page/Just_right_\(GOT7迷你專輯\).md "wikilink")》外，均取得週榜冠軍，其中《[GOT♡](../Page/Got_Love_\(GOT7迷你專輯\).md "wikilink")》是首次得到排行榜冠軍作品；飛行日誌最終曲《FLIGHT LOG : ARRIVAL》則為銷量最高之專輯。日語專輯中，在[Oricon](../Page/Oricon.md "wikilink")紀錄上《[翻天↑覆地](../Page/翻天↑覆地.md "wikilink")》是上榜次數最多的專輯。
 
 ## 韓語作品
 
@@ -1334,10 +1324,7 @@ ARRIVAL》則為銷量最高之專輯。日語專輯中，在[Oricon紀錄上](.
   - [韓國官網中的專輯資訊](http://got7.jype.com/discography.asp)
   - [日本官網中的專輯資訊](http://www.got7japan.com/discography/index.html)
 
-[Category:GOT7](https://zh.wikipedia.org/wiki/Category:GOT7 "wikilink")
-[Category:韩国音乐作品列表](https://zh.wikipedia.org/wiki/Category:韩国音乐作品列表 "wikilink")
-[Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
-[Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
+[Category:GOT7](https://zh.wikipedia.org/wiki/Category:GOT7 "wikilink") [Category:韩国音乐作品列表](https://zh.wikipedia.org/wiki/Category:韩国音乐作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink") [Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
 
 1.  〈Never Ever〉在韓國地區累積銷量統計：
 2.

@@ -16,12 +16,4 @@
 
   -
   -
-[Category:懷俄明州聯邦眾議員](https://zh.wikipedia.org/wiki/Category:懷俄明州聯邦眾議員 "wikilink")
-[Category:美国共和党联邦众议员](https://zh.wikipedia.org/wiki/Category:美国共和党联邦众议员 "wikilink")
-[Category:賓夕法尼亞州人](https://zh.wikipedia.org/wiki/Category:賓夕法尼亞州人 "wikilink")
-[Category:美國天主教大學校友](https://zh.wikipedia.org/wiki/Category:美國天主教大學校友 "wikilink")
-[Category:美國律師](https://zh.wikipedia.org/wiki/Category:美國律師 "wikilink")
-[Category:律師出身的政治人物](https://zh.wikipedia.org/wiki/Category:律師出身的政治人物 "wikilink")
-[Category:福坦莫大學校友](https://zh.wikipedia.org/wiki/Category:福坦莫大學校友 "wikilink")
-[Category:美國第一次世界大戰軍事人物](https://zh.wikipedia.org/wiki/Category:美國第一次世界大戰軍事人物 "wikilink")
-[Category:美國海軍陸戰隊軍官](https://zh.wikipedia.org/wiki/Category:美國海軍陸戰隊軍官 "wikilink")
+[Category:懷俄明州聯邦眾議員](https://zh.wikipedia.org/wiki/Category:懷俄明州聯邦眾議員 "wikilink") [Category:美国共和党联邦众议员](https://zh.wikipedia.org/wiki/Category:美国共和党联邦众议员 "wikilink") [Category:賓夕法尼亞州人](https://zh.wikipedia.org/wiki/Category:賓夕法尼亞州人 "wikilink") [Category:美國天主教大學校友](https://zh.wikipedia.org/wiki/Category:美國天主教大學校友 "wikilink") [Category:美國律師](https://zh.wikipedia.org/wiki/Category:美國律師 "wikilink") [Category:律師出身的政治人物](https://zh.wikipedia.org/wiki/Category:律師出身的政治人物 "wikilink") [Category:福坦莫大學校友](https://zh.wikipedia.org/wiki/Category:福坦莫大學校友 "wikilink") [Category:美國第一次世界大戰軍事人物](https://zh.wikipedia.org/wiki/Category:美國第一次世界大戰軍事人物 "wikilink") [Category:美國海軍陸戰隊軍官](https://zh.wikipedia.org/wiki/Category:美國海軍陸戰隊軍官 "wikilink")

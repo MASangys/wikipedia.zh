@@ -1,8 +1,4 @@
-《**撲通撲通
-LOVE**》（）（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/MBC "wikilink")2015年12月13日播出的54週年創社[特輯電視劇](../Page/MBC特輯電視劇.md "wikilink")，由[金瑟琪及](../Page/金瑟琪.md "wikilink")[尹斗俊主演](../Page/尹斗俊.md "wikilink")\[1\]
-。講述高三少女張丹菲（[金瑟琪](../Page/金瑟琪.md "wikilink")
-飾）與朝鮮時代世宗大王李裪（[尹斗俊](../Page/尹斗俊.md "wikilink")
-飾）之間的戀愛羅曼史，是一部能為想逃離不安現況的年輕世代帶來共鳴與勇氣的作品。
+《**撲通撲通 LOVE**》（）（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/MBC "wikilink")2015年12月13日播出的54週年創社[特輯電視劇](../Page/MBC特輯電視劇.md "wikilink")，由[金瑟琪](../Page/金瑟琪.md "wikilink")及[尹斗俊](../Page/尹斗俊.md "wikilink")主演\[1\] 。講述高三少女張丹菲（[金瑟琪](../Page/金瑟琪.md "wikilink") 飾）與朝鮮時代世宗大王李裪（[尹斗俊](../Page/尹斗俊.md "wikilink") 飾）之間的戀愛羅曼史，是一部能為想逃離不安現況的年輕世代帶來共鳴與勇氣的作品。
 
 ## 演員列表
 
@@ -54,7 +50,7 @@ LOVE**》（）（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 <td><p>世宗年間著名的文臣及音樂家</p>
 <hr>
 <p>電視上出現的帥氣歌手。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/莊汶錡" title="wikilink">莊汶錡</a></p></td>
+<td><p>莊汶錡</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -131,7 +127,7 @@ LOVE**》（）（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 <td><center></td>
 <td><p>丹菲的數學老師</p></td>
 <td><p>飾演(內官)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/莊汶錡" title="wikilink">莊汶錡</a></p></td>
+<td><p>莊汶錡</p></td>
 </tr>
 <tr class="odd">
 <td><center></td>
@@ -152,9 +148,8 @@ LOVE**》（）（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 
 ## 其他搭配歌曲
 
-  - 台灣[東森戲劇台版本](../Page/東森戲劇台.md "wikilink")
-      - 片頭曲：[李建軒](https://zh.wikipedia.org/wiki/李建軒 "wikilink")《I need
-        to be loved》
+  - 台灣[東森戲劇台](../Page/東森戲劇台.md "wikilink")版本
+      - 片頭曲：[李建軒](https://zh.wikipedia.org/wiki/李建軒 "wikilink")《I need to be loved》
 
 ## 腳註
 
@@ -162,20 +157,7 @@ LOVE**》（）（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 
   - [韓國MBC官方網站](http://www.imbc.com/broad/tv/drama/pdpd/)
 
-[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink")
-[Category:2015年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2015年電視特別劇集 "wikilink")
-[Category:朝鮮世宗時期背景電視劇](https://zh.wikipedia.org/wiki/Category:朝鮮世宗時期背景電視劇 "wikilink")
-[Category:時間旅行題材電視劇](https://zh.wikipedia.org/wiki/Category:時間旅行題材電視劇 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
-[Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink")
-[Category:韓國科幻劇](https://zh.wikipedia.org/wiki/Category:韓國科幻劇 "wikilink")
-[Category:奇幻愛情電視劇](https://zh.wikipedia.org/wiki/Category:奇幻愛情電視劇 "wikilink")
-[Category:跨性別題材電視劇](https://zh.wikipedia.org/wiki/Category:跨性別題材電視劇 "wikilink")
-[Category:韓國LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:韓國LGBT相關電視節目 "wikilink")
-[Category:蔣英實題材作品](https://zh.wikipedia.org/wiki/Category:蔣英實題材作品 "wikilink")
-[Category:朝鮮世宗題材作品](https://zh.wikipedia.org/wiki/Category:朝鮮世宗題材作品 "wikilink")
-[Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
-[Category:MBC深夜劇集](https://zh.wikipedia.org/wiki/Category:MBC深夜劇集 "wikilink")
+[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:2015年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2015年電視特別劇集 "wikilink") [Category:朝鮮世宗時期背景電視劇](https://zh.wikipedia.org/wiki/Category:朝鮮世宗時期背景電視劇 "wikilink") [Category:時間旅行題材電視劇](https://zh.wikipedia.org/wiki/Category:時間旅行題材電視劇 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:韓國科幻劇](https://zh.wikipedia.org/wiki/Category:韓國科幻劇 "wikilink") [Category:奇幻愛情電視劇](https://zh.wikipedia.org/wiki/Category:奇幻愛情電視劇 "wikilink") [Category:跨性別題材電視劇](https://zh.wikipedia.org/wiki/Category:跨性別題材電視劇 "wikilink") [Category:韓國LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:韓國LGBT相關電視節目 "wikilink") [Category:蔣英實題材作品](https://zh.wikipedia.org/wiki/Category:蔣英實題材作品 "wikilink") [Category:朝鮮世宗題材作品](https://zh.wikipedia.org/wiki/Category:朝鮮世宗題材作品 "wikilink") [Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink") [Category:MBC深夜劇集](https://zh.wikipedia.org/wiki/Category:MBC深夜劇集 "wikilink")
 
 1.  [金瑟祺BEAST尹斗俊雨中邂逅](http://www.koreastardaily.com/tc/news/71162《撲通撲通LOVE》預告片釋出)韓星網2015-12-13
 2.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)

@@ -1,5 +1,4 @@
-**OLM**（，，全稱**Oriental Light
-Magic**）是一家日本動畫制作公司，[日本動畫協會正會員](../Page/日本動畫協會.md "wikilink")。代表作有[精靈寶可夢](https://zh.wikipedia.org/wiki/精靈寶可夢 "wikilink")、[閃電十一人等](https://zh.wikipedia.org/wiki/閃電十一人 "wikilink")。
+**OLM**（，，全稱**Oriental Light Magic**）是一家日本動畫制作公司，[日本動畫協會](../Page/日本動畫協會.md "wikilink")正會員。代表作有[精靈寶可夢](https://zh.wikipedia.org/wiki/精靈寶可夢 "wikilink")、[閃電十一人等](https://zh.wikipedia.org/wiki/閃電十一人 "wikilink")。
 
 ## OLM團隊
 
@@ -256,7 +255,7 @@ Magic**）是一家日本動畫制作公司，[日本動畫協會正會員](../P
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鋼鐵天使.md" title="wikilink">鋼鐵天使核桃</a></p></td>
+<td><p><a href="../Page/鋼鐵天使.md" title="wikilink">鋼鐵天使</a>核桃</p></td>
 <td><p>遊戲改編</p></td>
 <td><p>1999年10月5日</p></td>
 <td><p>高橋直人</p></td>
@@ -277,7 +276,7 @@ Magic**）是一家日本動畫制作公司，[日本動畫協會正會員](../P
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鋼鐵天使.md" title="wikilink">鋼鐵天使核桃 第二季</a></p></td>
+<td><p><a href="../Page/鋼鐵天使.md" title="wikilink">鋼鐵天使 第二季</a>核桃</p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2001年4月{12日</p></td>
 <td><p>高橋直人</p></td>
@@ -312,7 +311,7 @@ Magic**）是一家日本動畫制作公司，[日本動畫協會正會員](../P
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/神魂合體.md" title="wikilink">神魂合體豪旦那</a></p></td>
+<td><p><a href="../Page/神魂合體.md" title="wikilink">神魂合體</a>豪旦那</p></td>
 <td><p>原創動畫</p></td>
 <td><p>2003年10月1日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/長岡康史" title="wikilink">長岡康史</a></p></td>
@@ -333,7 +332,7 @@ Magic**）是一家日本動畫制作公司，[日本動畫協會正會員](../P
 <td><p>與<a href="https://zh.wikipedia.org/wiki/AIC" title="wikilink">AIC共同制作</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/強殖裝甲.md" title="wikilink">強殖裝甲凱普</a></p></td>
+<td><p><a href="../Page/強殖裝甲.md" title="wikilink">強殖裝甲</a>凱普</p></td>
 <td><p>原創動畫</p></td>
 <td><p>2005年8月6日</p></td>
 <td><p>秋山勝仁</p></td>
@@ -414,7 +413,7 @@ Magic**）是一家日本動畫制作公司，[日本動畫協會正會員](../P
 <td><p>原創動畫</p></td>
 <td><p>2014年1月4日</p></td>
 <td><p>池田重隆</p></td>
-<td><p>與<a href="../Page/XEBEC.md" title="wikilink">XEBEC共同制作</a></p></td>
+<td><p>與<a href="../Page/XEBEC.md" title="wikilink">XEBEC</a>共同制作</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/交給妳了！奇跡貓團" title="wikilink">交給妳了！奇跡貓團</a></p></td>
@@ -442,7 +441,7 @@ Magic**）是一家日本動畫制作公司，[日本動畫協會正會員](../P
 <td><p>遊戲改編</p></td>
 <td><p>2016年4月2日</p></td>
 <td><p>池田重隆</p></td>
-<td><p>與<a href="../Page/XEBEC.md" title="wikilink">XEBEC共同制作</a></p></td>
+<td><p>與<a href="../Page/XEBEC.md" title="wikilink">XEBEC</a>共同制作</p></td>
 </tr>
 <tr class="odd">
 <td><p>[[卡片鬥爭</p></td>
@@ -452,7 +451,7 @@ Magic**）是一家日本動畫制作公司，[日本動畫協會正會員](../P
 <td><p><a href="../Page/川崎逸朗.md" title="wikilink">川崎逸朗</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/12歲。.md" title="wikilink">12歲。小小的胸口心跳加速 第二季</a></p></td>
+<td><p><a href="../Page/12歲。.md" title="wikilink">12歲。 第二季</a>小小的胸口心跳加速</p></td>
 <td><p>漫畫改編</p></td>
 <td><p>2016年10月2日</p></td>
 <td><p><a href="../Page/奧脇雅晴.md" title="wikilink">奧脇雅晴</a></p></td>
@@ -470,7 +469,7 @@ Magic**）是一家日本動畫制作公司，[日本動畫協會正會員](../P
 <td><p>遊戲改編</p></td>
 <td><p>2017年4月1日</p></td>
 <td><p>池田重隆</p></td>
-<td><p>與<a href="../Page/XEBEC.md" title="wikilink">XEBEC共同制作</a></p></td>
+<td><p>與<a href="../Page/XEBEC.md" title="wikilink">XEBEC</a>共同制作</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/爆旋陀螺Burst.md" title="wikilink">戰鬥陀螺 爆烈 神</a></p></td>
@@ -540,7 +539,7 @@ Magic**）是一家日本動畫制作公司，[日本動畫協會正會員](../P
 <td><p>遊戲改編</p></td>
 <td><p>2018年4月7日</p></td>
 <td><p>池田重隆</p></td>
-<td><p>與<a href="../Page/XEBEC.md" title="wikilink">XEBEC共同制作</a></p></td>
+<td><p>與<a href="../Page/XEBEC.md" title="wikilink">XEBEC</a>共同制作</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/棒球大聯盟_2nd" title="wikilink">棒球大聯盟 2nd</a></p></td>
@@ -561,7 +560,7 @@ Magic**）是一家日本動畫制作公司，[日本動畫協會正會員](../P
 <td><p>遊戲改編</p></td>
 <td><p>2018年6月2日</p></td>
 <td><p><a href="../Page/加戶譽夫.md" title="wikilink">加戸譽夫</a></p></td>
-<td><p>與<a href="../Page/XEBEC.md" title="wikilink">XEBEC共同制作</a></p></td>
+<td><p>與<a href="../Page/XEBEC.md" title="wikilink">XEBEC</a>共同制作</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/索斯機械獸WILD.md" title="wikilink">索斯機械獸WILD</a></p></td>
@@ -761,7 +760,7 @@ Magic**）是一家日本動畫制作公司，[日本動畫協會正會員](../P
 | [電影版妖怪手錶：光影之卷 鬼王的復活](../Page/電影版妖怪手錶：光影之卷_鬼王的復活.md "wikilink")                                   | 2017年12月16日 | 後信治                                |                                                                                                   |
 | [多美卡超救援 DRIVEHEAD 機動救急警察](https://zh.wikipedia.org/wiki/多美卡超救援_DRIVEHEAD_機動救急警察 "wikilink")      | 2018年8月24日  | [加戸譽夫](../Page/加戶譽夫.md "wikilink") |                                                                                                   |
 | [妖怪手表：永远的朋友](../Page/妖怪手表：永远的朋友.md "wikilink")                                                   | 2018年10月14日 | [高橋滋春](../Page/高橋滋春.md "wikilink") |                                                                                                   |
-| [二之國](../Page/第二國度系列.md "wikilink")                                                              | 2019年       | [百瀬義行](../Page/百瀨義行.md "wikilink") |                                                                                                   |
+| [第二國度](../Page/第二國度_\(動畫電影\).md "wikilink")                                                      | 2019年8月23日  | [百瀬義行](../Page/百瀨義行.md "wikilink") |                                                                                                   |
 |                                                                                                  |             |                                    |                                                                                                   |
 
 ### 網絡動畫
@@ -812,7 +811,4 @@ Magic**）是一家日本動畫制作公司，[日本動畫協會正會員](../P
 
   - [OLM公式網站](http://www.olm.co.jp/)
 
-[分類:OLM](https://zh.wikipedia.org/wiki/分類:OLM "wikilink")
-[分類:日本動畫工作室](https://zh.wikipedia.org/wiki/分類:日本動畫工作室 "wikilink")
-[分類:世田谷區公司](https://zh.wikipedia.org/wiki/分類:世田谷區公司 "wikilink")
-[分類:1990年成立的公司](https://zh.wikipedia.org/wiki/分類:1990年成立的公司 "wikilink")
+[分類:OLM](https://zh.wikipedia.org/wiki/分類:OLM "wikilink") [分類:日本動畫工作室](https://zh.wikipedia.org/wiki/分類:日本動畫工作室 "wikilink") [分類:世田谷區公司](https://zh.wikipedia.org/wiki/分類:世田谷區公司 "wikilink") [分類:1990年成立的公司](https://zh.wikipedia.org/wiki/分類:1990年成立的公司 "wikilink")

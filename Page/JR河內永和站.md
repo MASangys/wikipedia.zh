@@ -1,4 +1,4 @@
-**JR河内永和站**（）位於日本[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[東大阪市永和一丁目](../Page/東大阪市.md "wikilink")，是[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[大阪東線的](../Page/大阪東線.md "wikilink")[鐵路站](https://zh.wikipedia.org/wiki/鐵路站 "wikilink")，[車站編號是JR](../Page/車站編號.md "wikilink")-F10。
+**JR河内永和站**（）位於日本[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[東大阪市](../Page/東大阪市.md "wikilink")永和一丁目，是[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[大阪東線](../Page/大阪東線.md "wikilink")的[鐵路站](https://zh.wikipedia.org/wiki/鐵路站 "wikilink")，[車站編號](../Page/車站編號.md "wikilink")是JR-F10。
 
 大阪東線的中途站均導入了車站色系，其中本站的顔色是紫色。
 
@@ -8,17 +8,13 @@
 
 站名冠上「JR」以便與[近鐵奈良線的](https://zh.wikipedia.org/wiki/近鐵奈良線 "wikilink")區分開來。
 
-  - [2008年](../Page/2008年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")
-    - 開業。先行導入大阪環状、大和路線運行管理系統。
-  - [2018年](../Page/2018年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")
-    - 導入車站編號。\[1\]
-  - [2019年](../Page/2019年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")
-    -
-    隨大阪東線延伸新大阪，與隣隔的[高井田中央站升格為直通快速列車的停車站](../Page/高井田中央站.md "wikilink")。同時成為[大阪市内站](https://zh.wikipedia.org/wiki/特定都区市内 "wikilink")\[2\]。
+  - [2008年](../Page/2008年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink") - 開業。先行導入大阪環状、大和路線運行管理系統。
+  - [2018年](../Page/2018年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink") - 導入車站編號。\[1\]
+  - [2019年](../Page/2019年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink") - 隨大阪東線延伸新大阪，與隣隔的[高井田中央站](../Page/高井田中央站.md "wikilink")升格為直通快速列車的停車站。同時成為[大阪市内站](https://zh.wikipedia.org/wiki/特定都区市内 "wikilink")\[2\]。
 
 ## 車站構造
 
-[島式月台](../Page/島式月台.md "wikilink")，1面2線的[架空車站](https://zh.wikipedia.org/wiki/架空車站 "wikilink")，月台長度可對應8輛編成列車，月台屋頂長度為6節車廂。本站沒有[轉轍器或](../Page/轉轍器.md "wikilink")[絕對信號機](https://zh.wikipedia.org/wiki/日本铁路信号#主信号机 "wikilink")，所以被分類為[停留所](../Page/停車場_\(鐵路\).md "wikilink")。設有一台升降機、和上下行各1部共2部扶手電梯連接月台。車站入口位於與近鐵高架軌道交叉口的南側。本站沒有設置綠窗口，出入閘口的職員窗口亦不售票；改爲設置了綠色售票機。
+[島式月台](../Page/島式月台.md "wikilink")，1面2線的[架空車站](https://zh.wikipedia.org/wiki/架空車站 "wikilink")，月台長度可對應8輛編成列車，月台屋頂長度為6節車廂。本站沒有[轉轍器](../Page/轉轍器.md "wikilink")或[絕對信號機](https://zh.wikipedia.org/wiki/日本铁路信号#主信号机 "wikilink")，所以被分類為[停留所](../Page/停車場_\(鐵路\).md "wikilink")。設有一台升降機、和上下行各1部共2部扶手電梯連接月台。車站入口位於與近鐵高架軌道交叉口的南側。本站沒有設置綠窗口，出入閘口的職員窗口亦不售票；改爲設置了綠色售票機。
 
 本站以「新的都市的嶄新・熱鬧繁華」為設計概念。
 
@@ -118,7 +114,7 @@
 
 下一站[JR俊德道站距離本站約](https://zh.wikipedia.org/wiki/JR俊德道站 "wikilink")600米，可以在月台看到對站的月台。
 
-[東大阪市在車站附近設有數個自行車停放處](../Page/東大阪市.md "wikilink")\[15\]。
+[東大阪市](../Page/東大阪市.md "wikilink")在車站附近設有數個自行車停放處\[15\]。
 
 本站是大阪東線的新站中，車站周邊最熱鬧繁華的一站。
 
@@ -154,11 +150,7 @@
 
   - [JR河内永和駅｜駅情報：JRおでかけネット](http://www.jr-odekake.net/eki/top.php?id=0612112)
 
-[Category:大阪府铁路车站](https://zh.wikipedia.org/wiki/Category:大阪府铁路车站 "wikilink")
-[Category:日本鐵路車站_Je](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Je "wikilink")
-[Category:2008年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2008年啟用的鐵路車站 "wikilink")
-[Category:大阪東線車站](https://zh.wikipedia.org/wiki/Category:大阪東線車站 "wikilink")
-[Category:東大阪市](https://zh.wikipedia.org/wiki/Category:東大阪市 "wikilink")
+[Category:大阪府铁路车站](https://zh.wikipedia.org/wiki/Category:大阪府铁路车站 "wikilink") [Category:日本鐵路車站_Je](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Je "wikilink") [Category:2008年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2008年啟用的鐵路車站 "wikilink") [Category:大阪東線車站](https://zh.wikipedia.org/wiki/Category:大阪東線車站 "wikilink") [Category:東大阪市](https://zh.wikipedia.org/wiki/Category:東大阪市 "wikilink")
 
 1.
 2.

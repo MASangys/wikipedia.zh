@@ -1,22 +1,13 @@
-《Shoot Me : Youth Part
-1》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[DAY6所推出的第三張](../Page/DAY6.md "wikilink")[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，於2018年6月27日發行，由JYP娛樂製作，iRiver發行。共收錄六首曲目加一首純音樂，主打歌為《Shoot
-Me》。
+《Shoot Me : Youth Part 1》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[DAY6](../Page/DAY6.md "wikilink")所推出的第三張[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，於2018年6月27日發行，由JYP娛樂製作，iRiver發行。共收錄六首曲目加一首純音樂，主打歌為《Shoot Me》。
 
 ## 背景
 
-6月10日.官方在Facebook 上公佈了回歸行程表,宣佈Day6將會在26日發行新專輯《Shoot Me : Youth Part
-1》。6月13日,公開新專輯的曲目,並宣佈主打曲為《Shoot
-Me》。6月15日,開始陸續公開個成員個人照。6月26日6時,公佈新曲MV,並在當晚8時進行了回歸V
-Live 直播。
+6月10日.官方在Facebook 上公佈了回歸行程表,宣佈Day6將會在26日發行新專輯《Shoot Me : Youth Part 1》。6月13日,公開新專輯的曲目,並宣佈主打曲為《Shoot Me》。6月15日,開始陸續公開個成員個人照。6月26日6時,公佈新曲MV,並在當晚8時進行了回歸V Live 直播。
 
 ### 發行版本
 
-  - Bullet版：內含寫真本一本（Bullet版）、寫真卡三張（Thriller版10款、Romance版10款、Selfie
-    版20款，共40款）、海報一張（2款）、透明卡一張（5款）、紋身貼紙一張（2款）、POP-UP Card五張、
-    CD（Bullet版）、Polaroid Whit Autograph (隨機200名)
-  - Trigger版：內含寫真本一本（Trigger版）、寫真卡三張（Thriller版10款、Romance版10款、Selfie
-    版20款，共40款）、海報一張（2款）、透明卡一張（5款）、紋身貼紙一張（2款）、POP-UP Card五張、
-    CD（Trigger版）、Polaroid Whit Autograph (隨機200名)
+  - Bullet版：內含寫真本一本（Bullet版）、寫真卡三張（Thriller版10款、Romance版10款、Selfie 版20款，共40款）、海報一張（2款）、透明卡一張（5款）、紋身貼紙一張（2款）、POP-UP Card五張、 CD（Bullet版）、Polaroid Whit Autograph (隨機200名)
+  - Trigger版：內含寫真本一本（Trigger版）、寫真卡三張（Thriller版10款、Romance版10款、Selfie 版20款，共40款）、海報一張（2款）、透明卡一張（5款）、紋身貼紙一張（2款）、POP-UP Card五張、 CD（Trigger版）、Polaroid Whit Autograph (隨機200名)
 
 ## 曲目
 
@@ -76,9 +67,7 @@ Live 直播。
   -
   -
   -
-[Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink")
-[Category:DAY6音樂專輯](https://zh.wikipedia.org/wiki/Category:DAY6音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink") [Category:DAY6音樂專輯](https://zh.wikipedia.org/wiki/Category:DAY6音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

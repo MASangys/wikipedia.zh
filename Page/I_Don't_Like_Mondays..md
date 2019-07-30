@@ -4,8 +4,7 @@
 
 ### 乐队名字的由来
 
-乐队的名字叫I Don't Like
-Mondays.，这个稍有点长的名字，能给人留下深刻印象，还能让人产生好像在哪篇文章中读到过的似成相识之感。乐队还以抑郁为理由，堂而皇之地将每个星期一确定为乐队的固定休息日，而实际上，乐队成员们也都曾直言不讳地说“讨厌（星期一）
+乐队的名字叫I Don't Like Mondays.，这个稍有点长的名字，能给人留下深刻印象，还能让人产生好像在哪篇文章中读到过的似成相识之感。乐队还以抑郁为理由，堂而皇之地将每个星期一确定为乐队的固定休息日，而实际上，乐队成员们也都曾直言不讳地说“讨厌（星期一）
 
 ### 制作风格
 
@@ -51,20 +50,16 @@ Mondays.，这个稍有点长的名字，能给人留下深刻印象，还能让
 
   - 2月6日 发布“SORRY”。
   - 7月16日 发布“TONIGHT”。
-  - 9月5日　宣布和东京的奢华时尚买手店"RESTIR"合作，并成立"IDLMs. CREATIVE DIRECTION BY RESTIR
-    EDITION"品牌
+  - 9月5日　宣布和东京的奢华时尚买手店"RESTIR"合作，并成立"IDLMs. CREATIVE DIRECTION BY RESTIR EDITION"品牌
   - 9月28日 发布第二张正规专辑FULL ALBUM “FASHION”
   - 10月29日 “FASHION”中收录的歌曲“Freaky boy”被用作Google Play Music日本版CM广告曲。
-  - 10月30日 配合“FASHION“的发布，举办巡游日本全国5大都市的"FASHION"1st
-    TOUR巡演。最后一站公演在东京・ZEPP
-    DIVERCITY举办，约有2000人乐迷到现场助阵。
+  - 10月30日 配合“FASHION“的发布，举办巡游日本全国5大都市的"FASHION"1st TOUR巡演。最后一站公演在东京・ZEPP DIVERCITY举办，约有2000人乐迷到现场助阵。
 
 ### 2017年
 
   - 3月10日 举办"IDLMs. JOINT GIG TOUR"。
   - 3月17日 发布限定放送版单曲“PRINCE”
-  - 4月25日 向H\&M在日本首次独立举办的推广活动“Happy Golden Week”提供了乐曲“Shape of
-    love”，并在该活动的推广影片中出镜演出。该影片由纪嘉良担任摄影。
+  - 4月25日 向H\&M在日本首次独立举办的推广活动“Happy Golden Week”提供了乐曲“Shape of love”，并在该活动的推广影片中出镜演出。该影片由纪嘉良担任摄影。
   - 6月7日 发布E.P.“SUMMER”。
   - 12月25日 在没有事前预告的情况下惊喜发布“My Girl”
 
@@ -72,15 +67,9 @@ Mondays.，这个稍有点长的名字，能给人留下深刻印象，还能让
 
 ### 时尚
 
-成立原创时装品牌"IDLMs. by I Don't Like Mondays."。此后，和日本的潮流概念店及原创时装品牌“And
-A”成立合作品牌And A by I Don’t Like
-Mondays.。另外，在2016年9月，又与东京的精品买手店"RESTIR"合作，成立"IDLMs.
-CREATIVE DIRECTION BY RESTIR EDITION"品牌。
+成立原创时装品牌"IDLMs. by I Don't Like Mondays."。此后，和日本的潮流概念店及原创时装品牌“And A”成立合作品牌And A by I Don’t Like Mondays.。另外，在2016年9月，又与东京的精品买手店"RESTIR"合作，成立"IDLMs. CREATIVE DIRECTION BY RESTIR EDITION"品牌。
 
-参加山本宽斋主办的时装秀演出。2015年，在由摄影家纪嘉良首次担当导演的时装品牌YOHJI YAMAMOTO电影短片“THE
-INDEPENDENTS”Directed by LESLIE KEE Time 12:34 featuring YOHJI YAMAMOTO
-2015 A/W Collections中出镜演出，并担任该电影短片的音乐指导。 2017年，向H\&M在日本首次独立举办的推广活动“Happy
-Golden Week”提供了乐曲“Shape of love”，并在该活动的推广影片中出镜演出。该影片由纪嘉良担任摄影。
+参加山本宽斋主办的时装秀演出。2015年，在由摄影家纪嘉良首次担当导演的时装品牌YOHJI YAMAMOTO电影短片“THE INDEPENDENTS”Directed by LESLIE KEE Time 12:34 featuring YOHJI YAMAMOTO 2015 A/W Collections中出镜演出，并担任该电影短片的音乐指导。 2017年，向H\&M在日本首次独立举办的推广活动“Happy Golden Week”提供了乐曲“Shape of love”，并在该活动的推广影片中出镜演出。该影片由纪嘉良担任摄影。
 
 ## LIVE
 

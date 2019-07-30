@@ -1,4 +1,4 @@
-《**A.I.C.O.：化身**》（）是一部由[BONES制作的原創動畫](../Page/BONES_\(動畫製作公司\).md "wikilink")，于2018年春季於[Netflix獨家播映](../Page/Netflix.md "wikilink")\[1\]。
+《**A.I.C.O.：化身**》（）是一部由[BONES制作的原創動畫](../Page/BONES_\(動畫製作公司\).md "wikilink")，于2018年春季於[Netflix](../Page/Netflix.md "wikilink")獨家播映\[1\]。
 
 ## 故事簡介
 
@@ -281,15 +281,10 @@
 
   - [A.I.C.O.：化身 | Netflix 正式網頁](https://www.netflix.com/title/80161848)
 
-
   -
-[Category:2018年日本網路動畫](https://zh.wikipedia.org/wiki/Category:2018年日本網路動畫 "wikilink")
-[Category:Netflix原创节目](https://zh.wikipedia.org/wiki/Category:Netflix原创节目 "wikilink")
-[Category:月刊少年天狼星](https://zh.wikipedia.org/wiki/Category:月刊少年天狼星 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
+[Category:2018年日本網路動畫](https://zh.wikipedia.org/wiki/Category:2018年日本網路動畫 "wikilink") [Category:Netflix原创节目](https://zh.wikipedia.org/wiki/Category:Netflix原创节目 "wikilink") [Category:月刊少年天狼星](https://zh.wikipedia.org/wiki/Category:月刊少年天狼星 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
 
 1.
 2.
 3.
-4.   Netflix Official
-    Site|accessdate=2018-03-25|author=|date=|work=www.netflix.com|publisher=}}
+4.   Netflix Official Site|accessdate=2018-03-25|author=|date=|work=www.netflix.com|publisher=}}

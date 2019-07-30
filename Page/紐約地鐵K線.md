@@ -1,4 +1,4 @@
-**K線第八大道慢車**（），又稱**紐約地鐵K線**，是[紐約地鐵過去的](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[地鐵路線](../Page/地鐵.md "wikilink")，由於該線使用[IND第八大道線通過](https://zh.wikipedia.org/wiki/IND第八大道線 "wikilink")[曼哈頓主要地區](../Page/曼哈頓.md "wikilink")，因此路線徽號為藍色。
+**K線第八大道慢車**（），又稱**紐約地鐵K線**，是[紐約地鐵過去的](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[地鐵](../Page/地鐵.md "wikilink")路線，由於該線使用[IND第八大道線通過](https://zh.wikipedia.org/wiki/IND第八大道線 "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")主要地區，因此路線徽號為藍色。
 
 K線在日間、黃昏和週末營運，在[華盛頓高地的](https://zh.wikipedia.org/wiki/華盛頓高地_\(曼哈頓\) "wikilink")[168街途經](https://zh.wikipedia.org/wiki/168街車站_\(IND第八大道線\) "wikilink")和[第八大道來往](https://zh.wikipedia.org/wiki/第八大道_\(曼哈頓\) "wikilink")[曼哈頓下城的](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[世界貿易中心](https://zh.wikipedia.org/wiki/世界貿易中心車站_\(IND第八大道線\) "wikilink")。深夜期間，A線快車在[IND第八大道線以慢車營運](https://zh.wikipedia.org/wiki/IND第八大道線 "wikilink")。繁忙時段[C線列車來往](../Page/紐約地鐵C線.md "wikilink")[貝德福德公園林蔭路和](https://zh.wikipedia.org/wiki/貝德福德公園林蔭路車站_\(IND匯集線\) "wikilink")[尤克利德大道](https://zh.wikipedia.org/wiki/尤克利德大道車站_\(IND福爾頓街線\) "wikilink")，取代K線作為[第八大道線的慢車](https://zh.wikipedia.org/wiki/IND第八大道線 "wikilink")。此線在1988年一系列的大規模改道的情況下取消。
 
@@ -187,7 +187,7 @@ K線在日間、黃昏和週末營運，在[華盛頓高地的](https://zh.wikip
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/美鐵.md" title="wikilink">美鐵</a>、<a href="../Page/長島鐵路.md" title="wikilink">長島鐵路及</a><a href="https://zh.wikipedia.org/wiki/新澤西通勤鐵路" title="wikilink">新澤西交通</a>，<a href="https://zh.wikipedia.org/wiki/賓夕法尼亞車站_(紐約市)" title="wikilink">賓州車站</a></p></td>
+<td><p><a href="../Page/美鐵.md" title="wikilink">美鐵</a>、<a href="../Page/長島鐵路.md" title="wikilink">長島鐵路</a>及<a href="https://zh.wikipedia.org/wiki/新澤西通勤鐵路" title="wikilink">新澤西交通</a>，<a href="https://zh.wikipedia.org/wiki/賓夕法尼亞車站_(紐約市)" title="wikilink">賓州車站</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -249,13 +249,8 @@ K線在日間、黃昏和週末營運，在[華盛頓高地的](https://zh.wikip
 
 ## 外部連結
 
-  - [NYCsubway.org - Historical
-    Maps](http://www.nycsubway.org/maps/historical/)
-  - [Hey, What's a "K"
-    Train?](http://thejoekorner.com/brochures/kwhatsthek-indx.html) MTA
-    service notice, 1985
-  - Big Changes For Subways Are to Begin, [New York
-    Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink")
-    December 9, 1988 page B1
+  - [NYCsubway.org - Historical Maps](http://www.nycsubway.org/maps/historical/)
+  - [Hey, What's a "K" Train?](http://thejoekorner.com/brochures/kwhatsthek-indx.html) MTA service notice, 1985
+  - Big Changes For Subways Are to Begin, [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink") December 9, 1988 page B1
 
 [Category:已停用紐約地鐵服務路線](https://zh.wikipedia.org/wiki/Category:已停用紐約地鐵服務路線 "wikilink")

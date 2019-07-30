@@ -6,8 +6,6 @@
 
 ## 参考文献
 
-[Category:铵盐](https://zh.wikipedia.org/wiki/Category:铵盐 "wikilink")
-[Category:硫酸盐](https://zh.wikipedia.org/wiki/Category:硫酸盐 "wikilink")
-[Category:四价铈化合物](https://zh.wikipedia.org/wiki/Category:四价铈化合物 "wikilink")
+[Category:铵盐](https://zh.wikipedia.org/wiki/Category:铵盐 "wikilink") [Category:硫酸盐](https://zh.wikipedia.org/wiki/Category:硫酸盐 "wikilink") [Category:四价铈化合物](https://zh.wikipedia.org/wiki/Category:四价铈化合物 "wikilink")
 
 1.

@@ -1,6 +1,4 @@
-《**B主任和情書**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2017年起播出的[tvN
-Drama
-Stage](https://zh.wikipedia.org/wiki/tvN_Drama_Stage "wikilink")，由導演[尹賢基執導與作家申秀琳合作打造](https://zh.wikipedia.org/wiki/尹賢基 "wikilink")，主軸描述長年單身的皮鞋公司主任房佳英（[宋智孝飾演](../Page/宋智孝.md "wikilink")）\[1\]\[2\]\[3\]某日突然收到署名為S的情書，進而發生的一系列故事。
+《**B主任和情書**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2017年起播出的[tvN Drama Stage](https://zh.wikipedia.org/wiki/tvN_Drama_Stage "wikilink")，由導演[尹賢基執導與作家申秀琳合作打造](https://zh.wikipedia.org/wiki/尹賢基 "wikilink")，主軸描述長年單身的皮鞋公司主任房佳英（[宋智孝](../Page/宋智孝.md "wikilink")飾演）\[1\]\[2\]\[3\]某日突然收到署名為S的情書，進而發生的一系列故事。
 
 ## 演員陣容
 
@@ -55,10 +53,7 @@ Stage](https://zh.wikipedia.org/wiki/tvN_Drama_Stage "wikilink")，由導演[尹
   - [官方網站](http://program.tving.com/tvn/dramastage/1/Contents/Html)
   - [官方Facebook](https://www.facebook.com/tvNdramastage)
 
-[Category:2017年韩国网络剧](https://zh.wikipedia.org/wiki/Category:2017年韩国网络剧 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
-[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink")
-[Category:2017年背景作品](https://zh.wikipedia.org/wiki/Category:2017年背景作品 "wikilink")
+[Category:2017年韩国网络剧](https://zh.wikipedia.org/wiki/Category:2017年韩国网络剧 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink") [Category:2017年背景作品](https://zh.wikipedia.org/wiki/Category:2017年背景作品 "wikilink")
 
 1.
 2.

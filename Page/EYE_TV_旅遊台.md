@@ -1,17 +1,15 @@
-*' EYE TV旅遊台*'（EYE TV
-TRAVEL），是[萬達超媒體電視股份有限公司旗下的旅遊頻道](https://zh.wikipedia.org/wiki/萬達超媒體電視股份有限公司 "wikilink")。
+*' EYE TV旅遊台*'（EYE TV TRAVEL），是[萬達超媒體電視股份有限公司旗下的旅遊頻道](https://zh.wikipedia.org/wiki/萬達超媒體電視股份有限公司 "wikilink")。
 
 ## 頻道簡介
 
-2010年2月1日於[中華電信MOD正式開播](../Page/中華電信MOD.md "wikilink")，主要播放世界各地之旅遊、人文、生態高畫質（[HDTV](https://zh.wikipedia.org/wiki/HDTV "wikilink")）節目與紀錄片。
+2010年2月1日於[中華電信MOD](../Page/中華電信MOD.md "wikilink")正式開播，主要播放世界各地之旅遊、人文、生態高畫質（[HDTV](https://zh.wikipedia.org/wiki/HDTV "wikilink")）節目與紀錄片。
 
 ## 自製節目
 
   - [自遊玩家](https://zh.wikipedia.org/wiki/自遊玩家 "wikilink")
   - [旅行ING](https://zh.wikipedia.org/wiki/旅行ING "wikilink")
   - [鮮旅騎緣](https://zh.wikipedia.org/wiki/鮮旅騎緣 "wikilink")\[1\]
-  - [向左走向右走
-    (電視節目)](https://zh.wikipedia.org/wiki/向左走向右走_\(電視節目\) "wikilink")\[2\]
+  - [向左走向右走 (電視節目)](https://zh.wikipedia.org/wiki/向左走向右走_\(電視節目\) "wikilink")\[2\]
   - [一家一味](https://zh.wikipedia.org/wiki/一家一味 "wikilink")
 
 ## 主時段節目
@@ -26,27 +24,30 @@ TRAVEL），是[萬達超媒體電視股份有限公司旗下的旅遊頻道](ht
 
 ### 2019年
 
-| colspan="1" style="color:EAECF0;" "background:aqua;""width:30%" |節目名稱 | colspan="1" style="color:EAECF0;" "background:aqua;""width:15%" |英文名稱 | colspan="1" style="color:EAECF0;" "background:aqua;""width:8%" |集數 | colspan="1" style="color:EAECF0;" background:aqua;""width:30%" |主持人、旁白 |
-| --------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------- |
-| 《行李箱》                                                                 | LUGGLE                                                                | 8                                                                  |                                                                        |
-| 《[味蕾時光機](https://zh.wikipedia.org/wiki/味蕾時光機 "wikilink")》             | THE TASTE OF TIME                                                     | 10                                                                 |                                                                        |
-| 《[身在異鄉非異客](https://zh.wikipedia.org/wiki/身在異鄉非異客 "wikilink")》         | Strangers at Home                                                     | 8                                                                  |                                                                        |
-| 《[世界成人禮紀行](https://zh.wikipedia.org/wiki/世界成人禮紀行 "wikilink")》         | Becoming A Man                                                        | 8                                                                  |                                                                        |
-| 《講述》                                                                  |                                                                       | 46                                                                 |                                                                        |
-| 《[探索發現](../Page/探索·发现.md "wikilink")》                                 |                                                                       |                                                                    |                                                                        |
-| 《[型男大主廚](../Page/型男大主廚.md "wikilink")》                                | Stylish Man-The Chef                                                  | 100                                                                | [曾國城](../Page/曾國城.md "wikilink")、[夏于喬](../Page/夏于喬.md "wikilink")      |
-| 《[國寶檔案](https://zh.wikipedia.org/wiki/國寶檔案 "wikilink")》               | Files of National Treasures                                           |                                                                    |                                                                        |
-| 《三國的世界》                                                               |                                                                       | 6                                                                  |                                                                        |
-| 《喜馬拉雅天梯》                                                              | Himalaya: Ladder to Paradise                                          | 5                                                                  |                                                                        |
-| 《我在故宮修文物》                                                             | Masters In Forbidden City                                             | 3                                                                  |                                                                        |
-| 《[鋒味2018](../Page/鋒味.md "wikilink")》                                  | Chef Nic                                                              | 8                                                                  | [謝霆鋒](../Page/謝霆鋒.md "wikilink")                                       |
-| 《金陵迷霧》                                                                |                                                                       | 10                                                                 |                                                                        |
-| 《一家一味》                                                                |                                                                       | 3                                                                  |                                                                        |
-| 《風情中國》                                                                | Charm of China                                                        | 20                                                                 |                                                                        |
-| 《科技苑》                                                                 |                                                                       |                                                                    |                                                                        |
-| 《絲路味道》                                                                |                                                                       | 6                                                                  |                                                                        |
-| 《味道中山》                                                                |                                                                       | 40                                                                 |                                                                        |
-| 《肇慶古村落》                                                               | Ancient Villages of Zhaoqing                                          | 5                                                                  |                                                                        |
+| colspan="1" style="color:EAECF0;" "background:aqua;""width:30%" |節目名稱 | colspan="1" style="color:EAECF0;" "background:aqua;""width:15%" |英文名稱 | colspan="1" style="color:EAECF0;" "background:aqua;""width:8%" |集數 | colspan="1" style="color:EAECF0;" background:aqua;""width:30%" |主持人、旁白                                |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| 《[美食文化地圖](https://zh.wikipedia.org/wiki/美食文化地圖 "wikilink")》           | Delicious Journey                                                     |                                                                    |                                                                                                       |
+| 《[我們的侶行](https://zh.wikipedia.org/wiki/我們的侶行 "wikilink")》             | On The Road                                                           |                                                                    | [張昕宇](https://zh.wikipedia.org/wiki/張昕宇 "wikilink")、[梁紅](https://zh.wikipedia.org/wiki/梁紅 "wikilink") |
+| 《[丹行線](https://zh.wikipedia.org/wiki/丹行線 "wikilink")》                 | DAN'S WAY                                                             | 2                                                                  | [朱丹](../Page/朱丹.md "wikilink")                                                                        |
+| 《行李箱》                                                                 | LUGGLE                                                                | 8                                                                  |                                                                                                       |
+| 《[味蕾時光機](https://zh.wikipedia.org/wiki/味蕾時光機 "wikilink")》             | THE TASTE OF TIME                                                     | 10                                                                 |                                                                                                       |
+| 《[身在異鄉非異客](https://zh.wikipedia.org/wiki/身在異鄉非異客 "wikilink")》         | Strangers at Home                                                     | 8                                                                  |                                                                                                       |
+| 《[世界成人禮紀行](https://zh.wikipedia.org/wiki/世界成人禮紀行 "wikilink")》         | Becoming A Man                                                        | 8                                                                  |                                                                                                       |
+| 《講述》                                                                  |                                                                       | 46                                                                 |                                                                                                       |
+| 《[探索發現](../Page/探索·发现.md "wikilink")》                                 |                                                                       |                                                                    |                                                                                                       |
+| 《[型男大主廚](../Page/型男大主廚.md "wikilink")》                                | Stylish Man-The Chef                                                  | 100                                                                | [曾國城](../Page/曾國城.md "wikilink")、[夏于喬](../Page/夏于喬.md "wikilink")                                     |
+| 《[國寶檔案](https://zh.wikipedia.org/wiki/國寶檔案 "wikilink")》               | Files of National Treasures                                           |                                                                    |                                                                                                       |
+| 《三國的世界》                                                               |                                                                       | 6                                                                  |                                                                                                       |
+| 《喜馬拉雅天梯》                                                              | Himalaya: Ladder to Paradise                                          | 5                                                                  |                                                                                                       |
+| 《我在故宮修文物》                                                             | Masters In Forbidden City                                             | 3                                                                  |                                                                                                       |
+| 《[鋒味](../Page/鋒味.md "wikilink")2018》                                  | Chef Nic                                                              | 8                                                                  | [謝霆鋒](../Page/謝霆鋒.md "wikilink")                                                                      |
+| 《金陵迷霧》                                                                |                                                                       | 10                                                                 |                                                                                                       |
+| 《一家一味》                                                                |                                                                       | 3                                                                  |                                                                                                       |
+| 《風情中國》                                                                | Charm of China                                                        | 20                                                                 |                                                                                                       |
+| 《科技苑》                                                                 |                                                                       |                                                                    |                                                                                                       |
+| 《絲路味道》                                                                |                                                                       | 6                                                                  |                                                                                                       |
+| 《味道中山》                                                                |                                                                       | 40                                                                 |                                                                                                       |
+| 《肇慶古村落》                                                               | Ancient Villages of Zhaoqing                                          | 5                                                                  |                                                                                                       |
 
 ### 2018年
 
@@ -261,7 +262,7 @@ TRAVEL），是[萬達超媒體電視股份有限公司旗下的旅遊頻道](ht
 | ------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 《我在北海道》                                                             | Crystal in Hokkaido                                                 | 3                                                                | [穆熙妍](../Page/穆熙妍.md "wikilink")                                                                                                                            |
 | 《[舌尖上的中國](https://zh.wikipedia.org/wiki/舌尖上的中國 "wikilink")》         | A Bite of China                                                     | 7                                                                | [陳曉卿](https://zh.wikipedia.org/wiki/陳曉卿 "wikilink")                                                                                                         |
-| 《[台灣保庇](../Page/台灣保庇.md "wikilink")》                                |                                                                     | 13                                                               | [謝哲青](https://zh.wikipedia.org/wiki/謝哲青 "wikilink")                                                                                                         |
+| 《[台灣保庇](../Page/台灣保庇.md "wikilink")》                                |                                                                     | 13                                                               | [謝哲青](../Page/謝哲青.md "wikilink")                                                                                                                            |
 | 《淺鑑獵殺》                                                              |                                                                     | 3                                                                |                                                                                                                                                             |
 | 《魅力肯尼亞》                                                             |                                                                     | 7                                                                | [肖崴](https://zh.wikipedia.org/wiki/肖崴 "wikilink")                                                                                                           |
 | 《大漠長河》                                                              |                                                                     | 7                                                                |                                                                                                                                                             |
@@ -316,21 +317,16 @@ TRAVEL），是[萬達超媒體電視股份有限公司旗下的旅遊頻道](ht
 
 ## 外部連結
 
-  - [EYE
-    TV](https://web.archive.org/web/20170529023102/http://eyetv.com.tw/)
+  - [EYE TV](https://web.archive.org/web/20170529023102/http://eyetv.com.tw/)
 
   -
   -
   - [中華電信MOD EYE TV旅遊台頻道](http://mod.cht.com.tw/tv/channel.php?id=279)
 
-}} |title =
-[<span style="color: #ffffff;">萬達電視頻道列表</span>](https://zh.wikipedia.org/wiki/萬達電視頻道列表 "wikilink")
-|titlestyle = background:;color:\#fff; |groupstyle = background:\#eee;
+}} |title = [<span style="color: #ffffff;">萬達電視頻道列表</span>](https://zh.wikipedia.org/wiki/萬達電視頻道列表 "wikilink") |titlestyle = background:;color:\#fff; |groupstyle = background:\#eee;
 
 |abbr1=旗下頻道 |group1=旗下頻道
-|list1=[EYE TV
-戲劇台](https://zh.wikipedia.org/wiki/EYE_TV_戲劇台 "wikilink"){{\!wrap}}[EYE
-TV 旅遊台](../Page/EYE_TV_旅遊台.md "wikilink")
+|list1=[EYE TV 戲劇台](https://zh.wikipedia.org/wiki/EYE_TV_戲劇台 "wikilink"){{\!wrap}}[EYE TV 旅遊台](../Page/EYE_TV_旅遊台.md "wikilink")
 
 ` }}`
 
@@ -338,18 +334,11 @@ TV 旅遊台](../Page/EYE_TV_旅遊台.md "wikilink")
 
   - [中華電MOD營收目標成長](http://www.twtimes.com.tw/index.php?page=news&nid=77805)
   - [1/22春節除夕一小米麻糬在電視裡向你拜年\!](https://showme100.tian.yam.com/posts/46786816)
-  - [(Choyce講東京) MOD EYE
-    TV旅遊台『自遊玩家​』新春樂遊趣](https://choyce.tw/2012-01-16-3332/)
-  - [中華電MOD有信心達成百萬用戶目標
-    營收可望突破13億元](https://news.cnyes.com/news/id/3036257)
+  - [(Choyce講東京) MOD EYE TV旅遊台『自遊玩家​』新春樂遊趣](https://choyce.tw/2012-01-16-3332/)
+  - [中華電MOD有信心達成百萬用戶目標 營收可望突破13億元](https://news.cnyes.com/news/id/3036257)
   - 《明年用戶破百萬 MOD解放數位電視》，時報周刊，第1714期，2010.12.24-12.30，p.64-65。
 
-[Category:台灣電視台](https://zh.wikipedia.org/wiki/Category:台灣電視台 "wikilink")
-[Category:台灣電視播放頻道](https://zh.wikipedia.org/wiki/Category:台灣電視播放頻道 "wikilink")
-[Category:2010年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2010年成立的电视台或电视频道 "wikilink")
-[Category:總部位於臺北市內湖區的工商業機構](https://zh.wikipedia.org/wiki/Category:總部位於臺北市內湖區的工商業機構 "wikilink")
+[Category:台灣電視台](https://zh.wikipedia.org/wiki/Category:台灣電視台 "wikilink") [Category:台灣電視播放頻道](https://zh.wikipedia.org/wiki/Category:台灣電視播放頻道 "wikilink") [Category:2010年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2010年成立的电视台或电视频道 "wikilink") [Category:總部位於臺北市內湖區的工商業機構](https://zh.wikipedia.org/wiki/Category:總部位於臺北市內湖區的工商業機構 "wikilink")
 
-1.  [欣單車-鮮旅騎緣
-    看魏華萱騎著單車全台玩透透](https://solomo.xinmedia.com/bike/7372-BikeTours)
-2.  [鐵人三項》辣媽隊超夯
-    魏華萱率美女當立牌](http://sports.ltn.com.tw/news/breakingnews/2001215)
+1.  [欣單車-鮮旅騎緣 看魏華萱騎著單車全台玩透透](https://solomo.xinmedia.com/bike/7372-BikeTours)
+2.  [鐵人三項》辣媽隊超夯 魏華萱率美女當立牌](http://sports.ltn.com.tw/news/breakingnews/2001215)

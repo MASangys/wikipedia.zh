@@ -2,19 +2,13 @@
 
 ## 英雄联盟分部
 
-Gen.G英雄联盟战队前身为三星赞助的Samsung
-Galaxy(SSG)战队。2013年英雄联盟全球总决赛开始前，三星赞助了其中一只名为MVP
-Ozone的韩国入围队伍，这支队伍随后以Samsung Ozone(SSO)的名称参加了S3总决赛，但未能从小组中出线。
+Gen.G英雄联盟战队前身为三星赞助的Samsung Galaxy(SSG)战队。2013年英雄联盟全球总决赛开始前，三星赞助了其中一只名为MVP Ozone的韩国入围队伍，这支队伍随后以Samsung Ozone(SSO)的名称参加了S3总决赛，但未能从小组中出线。
 
-S3结束后，SSO扩军改组为Samsung Galaxy White(SSW，三星白)和Samsung Galaxy
-Blue（SSB，三星蓝）两支队伍，SSW和SSB在2014年英雄联盟全球总决赛的半决赛中相遇，SSW击败SSB进入决赛并最终夺得冠军。
+S3结束后，SSO扩军改组为Samsung Galaxy White(SSW，三星白)和Samsung Galaxy Blue（SSB，三星蓝）两支队伍，SSW和SSB在2014年英雄联盟全球总决赛的半决赛中相遇，SSW击败SSB进入决赛并最终夺得冠军。
 
-S4结束后，由于[Riot
-Games规定每个俱乐部只能拥有一支战队](../Page/Riot_Games.md "wikilink")，使得该俱乐部将两者重组为Samsung
-Galaxy (SSG)。\[1\]
+S4结束后，由于[Riot Games规定每个俱乐部只能拥有一支战队](../Page/Riot_Games.md "wikilink")，使得该俱乐部将两者重组为Samsung Galaxy (SSG)。\[1\]
 
-SSG与[SKT曾连续两年在全球总决赛的决赛中相遇](../Page/SK_Telecom_T1.md "wikilink")，2016年SSG
-2-3惜败对手，而后在2017年3-0横扫SKT夺得冠军。
+SSG与[SKT曾连续两年在全球总决赛的决赛中相遇](../Page/SK_Telecom_T1.md "wikilink")，2016年SSG 2-3惜败对手，而后在2017年3-0横扫SKT夺得冠军。
 
 S7结束后，三星宣布将旗下最后一只电子竞技队伍，即英雄联盟战队SSG出售给KSV，而KSV又在2018年中更名为Gen.G。\[2\]
 
@@ -153,12 +147,11 @@ Gen.G参加了2018年的英雄联盟全球总决赛，尽管作为卫冕冠军�
 
 ## 守望先锋
 
-Gen.G俱乐部是[守望先锋联赛中](../Page/守望先锋联赛.md "wikilink")[首尔王朝队的拥有者](../Page/首尔王朝.md "wikilink")。
+Gen.G俱乐部是[守望先锋联赛](../Page/守望先锋联赛.md "wikilink")中[首尔王朝](../Page/首尔王朝.md "wikilink")队的拥有者。
 
 ## 绝地求生
 
-Gen.G曾经拥有Gen.G Gold与Gen.G Black两支绝地求生战队，其中Gen.G
-Gold获得了2018年绝地求生全球邀请赛TPP（第三人称）模式的冠军。
+Gen.G曾经拥有Gen.G Gold与Gen.G Black两支绝地求生战队，其中Gen.G Gold获得了2018年绝地求生全球邀请赛TPP（第三人称）模式的冠军。
 
 现在两支队伍已经合并，以Gen.G名义参赛。
 
@@ -247,8 +240,7 @@ Gen.G风暴英雄战队成立于2017年七月，这支队伍在2018年暴雪嘉�
 
 ## 參考資料
 
-[Category:韩国电子竞技团队](https://zh.wikipedia.org/wiki/Category:韩国电子竞技团队 "wikilink")
-[Category:英雄聯盟競技團隊](https://zh.wikipedia.org/wiki/Category:英雄聯盟競技團隊 "wikilink")
+[Category:韩国电子竞技团队](https://zh.wikipedia.org/wiki/Category:韩国电子竞技团队 "wikilink") [Category:英雄聯盟競技團隊](https://zh.wikipedia.org/wiki/Category:英雄聯盟競技團隊 "wikilink")
 
 1.
 2.

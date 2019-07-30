@@ -1,13 +1,9 @@
-**YOSUKE
-KOSUKE（ヨースケコースケ）**，[日本的男性雙人歌唱團體](../Page/日本.md "wikilink")，由[創作歌手坂上庸介和演員](../Page/創作歌手.md "wikilink")[米原幸佑於](../Page/米原幸佑.md "wikilink")2014年組成，2015年1月28日發行出道專輯『IT'S
-MY WORLD』。
+**YOSUKE KOSUKE（ヨースケコースケ）**，[日本](../Page/日本.md "wikilink")的男性雙人歌唱團體，由[創作歌手](../Page/創作歌手.md "wikilink")坂上庸介和演員[米原幸佑](../Page/米原幸佑.md "wikilink")於2014年組成，2015年1月28日發行出道專輯『IT'S MY WORLD』。
 
 ## 成員
 
-  - YOSUKE(ヨースケ) - 坂上庸介（サカノウエヨースケ、1981年3月16日 -
-    、[兵庫縣出身](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")）
-  - KOSUKE(コースケ) - [米原幸佑](../Page/米原幸佑.md "wikilink")（1986年3月13日 -
-    、[大阪府出身](https://zh.wikipedia.org/wiki/大阪府 "wikilink")）
+  - YOSUKE(ヨースケ) - 坂上庸介（サカノウエヨースケ、1981年3月16日 - 、[兵庫縣出身](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")）
+  - KOSUKE(コースケ) - [米原幸佑](../Page/米原幸佑.md "wikilink")（1986年3月13日 - 、[大阪府出身](https://zh.wikipedia.org/wiki/大阪府 "wikilink")）
 
 ## 作品
 

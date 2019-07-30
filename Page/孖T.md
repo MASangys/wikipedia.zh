@@ -1,10 +1,8 @@
-[HKJC_Double_Trio.jpg](https://zh.wikipedia.org/wiki/File:HKJC_Double_Trio.jpg "fig:HKJC_Double_Trio.jpg")
-**孖T**（）是[香港賽馬其中一個設有多寶彩金](../Page/香港賽馬.md "wikilink") (Jackpot)
-的投注種類，由[香港賽馬會接受投注](../Page/香港賽馬會.md "wikilink")，在指定的連續兩場賽事均選中第一名、第二名及第三名馬匹，毋須順序。
+[HKJC_Double_Trio.jpg](https://zh.wikipedia.org/wiki/File:HKJC_Double_Trio.jpg "fig:HKJC_Double_Trio.jpg") **孖T**（）是[香港賽馬](../Page/香港賽馬.md "wikilink")其中一個設有多寶彩金 (Jackpot) 的投注種類，由[香港賽馬會](../Page/香港賽馬會.md "wikilink")接受投注，在指定的連續兩場賽事均選中第一名、第二名及第三名馬匹，毋須順序。
 
 ## 投注金額
 
-若每票投注總額少於港幣$100，每注最低投注金額為港幣$10。若每票投注總額達港幣$100或以上，可以[靈活玩方式投注](../Page/靈活玩.md "wikilink")，而每注最低投注金額為港幣$1。
+若每票投注總額少於港幣$100，每注最低投注金額為港幣$10。若每票投注總額達港幣$100或以上，可以[靈活玩](../Page/靈活玩.md "wikilink")方式投注，而每注最低投注金額為港幣$1。
 
 ## 投注方法
 
@@ -19,8 +17,7 @@
 
 ## 注碼
 
-孖T中獎需選中連續兩場賽事，總注碼為兩場賽事的注數互串，例如: 第一關選單式6號、7號、8號，第二關為6號、7號、8號、 9號,
-即是第一關1注x第二關4注，總共4注。\[1\] \[2\]
+孖T中獎需選中連續兩場賽事，總注碼為兩場賽事的注數互串，例如: 第一關選單式6號、7號、8號，第二關為6號、7號、8號、 9號, 即是第一關1注x第二關4注，總共4注。\[1\] \[2\]
 
 ## 中獎方法
 
@@ -37,13 +34,10 @@
 ## 外部連結
 
   - [香港賽馬會的官方網站](http://racing.hkjc.com?cid=OSXXDLC_WIKIPEDIA)
-  - [Racing Touch
-    流動應用程式](http://racingtouch.hkjc.com/ch/2017.aspx?cid=OSXXDLC_WIKIPEDIA)
-  - [HKJCTV
-    流動電視頻道](http://campaign.hkjc.com/ch/jctv/index.aspx?cid=OSXXDLC_WIKIPEDIA)
+  - [Racing Touch 流動應用程式](http://racingtouch.hkjc.com/ch/2017.aspx?cid=OSXXDLC_WIKIPEDIA)
+  - [HKJCTV 流動電視頻道](http://campaign.hkjc.com/ch/jctv/index.aspx?cid=OSXXDLC_WIKIPEDIA)
 
-[Category:香港賽馬](https://zh.wikipedia.org/wiki/Category:香港賽馬 "wikilink")
-[Category:香港博彩](https://zh.wikipedia.org/wiki/Category:香港博彩 "wikilink")
+[Category:香港賽馬](https://zh.wikipedia.org/wiki/Category:香港賽馬 "wikilink") [Category:香港博彩](https://zh.wikipedia.org/wiki/Category:香港博彩 "wikilink")
 
 1.
 2.

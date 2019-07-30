@@ -1,9 +1,6 @@
-\-- This module implements . It converts a year in the Gregorian --
-calendar to the equivalent year of the ancient Egyptian era organized by
-dynasties and kings.
+\-- This module implements . It converts a year in the Gregorian -- calendar to the equivalent year of the ancient Egyptian era organized by dynasties and kings.
 
-local data = mw.loadData( 'Module:Ancient Egypt era/data' ) local lang =
-mw.language.getContentLanguage()
+local data = mw.loadData( 'Module:Ancient Egypt era/data' ) local lang = mw.language.getContentLanguage()
 
 local p = {}
 

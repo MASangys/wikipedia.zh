@@ -25,15 +25,11 @@
 
 ### Tactics
 
-1998年[麻枝准](../Page/麻枝准.md "wikilink")、[樋上いたる](https://zh.wikipedia.org/wiki/樋上いたる "wikilink")、[折戶伸治等員工退社並進入](../Page/折戶伸治.md "wikilink")[Visual
-Art's公司成立](../Page/Visual_Art's.md "wikilink")[Key](../Page/Key_\(遊戲品牌\).md "wikilink")，\[4\]這些員工參與製作的**[同棲](../Page/同棲.md "wikilink")**、**[MOON.](../Page/MOON..md "wikilink")**、**[ONE
-〜輝く季節へ〜](https://zh.wikipedia.org/wiki/ONE～光輝的季節～ "wikilink")**則被轉移到NEXTON。\[5\]\[6\]Tactics的附屬品牌Tactics\*Latte和Tactics
-Luxury在發售第2作時各自更名為**Latte**和**Luxury**。
+1998年[麻枝准](../Page/麻枝准.md "wikilink")、[樋上いたる](https://zh.wikipedia.org/wiki/樋上いたる "wikilink")、[折戶伸治](../Page/折戶伸治.md "wikilink")等員工退社並進入[Visual Art's公司成立](../Page/Visual_Art's.md "wikilink")[Key](../Page/Key_\(遊戲品牌\).md "wikilink")，\[4\]這些員工參與製作的**[同棲](../Page/同棲.md "wikilink")**、**[MOON.](../Page/MOON..md "wikilink")**、**[ONE 〜輝く季節へ〜](https://zh.wikipedia.org/wiki/ONE～光輝的季節～ "wikilink")**則被轉移到NEXTON。\[5\]\[6\]Tactics的附屬品牌Tactics\*Latte和Tactics Luxury在發售第2作時各自更名為**Latte**和**Luxury**。
 
   - 1997年5月23日 [同棲](../Page/同棲.md "wikilink")
   - 1997年11月21日 [MOON.](../Page/MOON..md "wikilink")
-  - 1998年6月26日 [ONE
-    〜輝く季節へ〜](https://zh.wikipedia.org/wiki/ONE～光輝的季節～ "wikilink")
+  - 1998年6月26日 [ONE 〜輝く季節へ〜](https://zh.wikipedia.org/wiki/ONE～光輝的季節～ "wikilink")
   - 1998年8月21日 [MOON. RENEWAL](../Page/MOON..md "wikilink")
   - 1999年5月28日 鈴がうたう日
   - 2000年1月14日 夕焼け 〜November〜
@@ -84,8 +80,7 @@ Luxury在發售第2作時各自更名為**Latte**和**Luxury**。
 
 ### BaseSon
 
-BaseSon、BaseSon SPICE\*、BaseSon
-Light的作品請參閱[BaseSon](../Page/BaseSon.md "wikilink")。
+BaseSon、BaseSon SPICE\*、BaseSon Light的作品請參閱[BaseSon](../Page/BaseSon.md "wikilink")。
 
 ### Liquid
 
@@ -310,10 +305,7 @@ Light的作品請參閱[BaseSon](../Page/BaseSon.md "wikilink")。
 
   - [NEXTON-NET](http://nexton-net.jp/)
 
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:北區_(大阪市)](https://zh.wikipedia.org/wiki/Category:北區_\(大阪市\) "wikilink")
-[Category:1993年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1993年開業電子遊戲公司 "wikilink")
+[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:北區_(大阪市)](https://zh.wikipedia.org/wiki/Category:北區_\(大阪市\) "wikilink") [Category:1993年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1993年開業電子遊戲公司 "wikilink")
 
 1.  [会社概要](http://nexton-net.jp/company.html)NEXTON-NET
 2.  [ネクストン](https://vndb.org/p75)The Visual Novel Database

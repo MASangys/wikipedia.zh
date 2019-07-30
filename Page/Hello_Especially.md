@@ -1,26 +1,19 @@
-《**Hello
-Especially**》是[日本雙人](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[無限開關的第](../Page/無限開關.md "wikilink")19張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年7月31日由發行。
+《**Hello Especially**》是[日本](../Page/日本.md "wikilink")雙人[音樂組合](../Page/音樂組合.md "wikilink")[無限開關](../Page/無限開關.md "wikilink")的第19張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年7月31日由發行。
 
 ## 單曲解說
 
-《Hello
-Especially》是自從[無限開關的上一張單曲](../Page/無限開關.md "wikilink")《》以來，相隔1個月發行的最新單曲。同名標題曲「Hello
-Especially」曾被[富士電視台](../Page/富士電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[銀之匙
-Silver
-Spoon](https://zh.wikipedia.org/wiki/銀之匙_Silver_Spoon "wikilink")》選為第1期片尾主題曲使用。
+《Hello Especially》是自從[無限開關](../Page/無限開關.md "wikilink")的上一張單曲《》以來，相隔1個月發行的最新單曲。同名標題曲「Hello Especially」曾被[富士電視台](../Page/富士電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[銀之匙 Silver Spoon](https://zh.wikipedia.org/wiki/銀之匙_Silver_Spoon "wikilink")》選為第1期片尾主題曲使用。
 
 販售形式有初回生產限定盤、期間生產限定盤及動畫盤共三種，並同一時間發行。初回盤的CD是以形式錄製，並附贈DVD。期間生產限定盤的封面則選用同名電視動畫的主要角色作封面，還有只要在指定店舗購買期間生產限定盤即可先行獲得贈禮「無限開關親筆的特製另一張CD封面」。
 
 ## 收錄歌曲
 
-所有歌曲由[無限開關作詞](../Page/無限開關.md "wikilink")、作曲。
+所有歌曲由[無限開關](../Page/無限開關.md "wikilink")作詞、作曲。
 
 ### 初回生產限定盤、通常盤
 
 1.  **Hello Especially**
-      - [富士電視台](../Page/富士電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[銀之匙
-        Silver
-        Spoon](https://zh.wikipedia.org/wiki/銀之匙_Silver_Spoon "wikilink")》第1期片尾主題曲
+      - [富士電視台](../Page/富士電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[銀之匙 Silver Spoon](https://zh.wikipedia.org/wiki/銀之匙_Silver_Spoon "wikilink")》第1期片尾主題曲
       - 無限開關出道10週年紀念歌曲。[PV內容為與無限開關成員交情很深的名人和友人及後援會會員友情參加錄製演出](../Page/音樂錄影帶.md "wikilink")。
 2.  **Sound Off**（****）
 3.  **10th -typeⅡ- (instrumental)**
@@ -103,7 +96,4 @@ Spoon](https://zh.wikipedia.org/wiki/銀之匙_Silver_Spoon "wikilink")》選為
 
   -
 
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
-[Category:富士電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:富士電視台動畫主題曲 "wikilink")
-[Category:noitaminA主題曲](https://zh.wikipedia.org/wiki/Category:noitaminA主題曲 "wikilink")
+[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink") [Category:富士電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:富士電視台動畫主題曲 "wikilink") [Category:noitaminA主題曲](https://zh.wikipedia.org/wiki/Category:noitaminA主題曲 "wikilink")

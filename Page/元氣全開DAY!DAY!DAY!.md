@@ -1,5 +1,4 @@
-**《元氣全開DAY！DAY！DAY！》**（）是由[Aqours的迷你小隊](../Page/Aqours.md "wikilink")「CYaRon！」於2016年5月11日所發售的首張單曲。也是[LoveLive\!
-Sunshine\!\!系列所發售的首張小隊單曲](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")。
+**《元氣全開DAY！DAY！DAY！》**（）是由[Aqours](../Page/Aqours.md "wikilink")的迷你小隊「CYaRon！」於2016年5月11日所發售的首張單曲。也是[LoveLive\! Sunshine\!\!系列所發售的首張小隊單曲](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")。
 
 ## 概要
 
@@ -34,9 +33,7 @@ CYaRon！的成員有：高海千歌（聲：[伊波杏樹](../Page/伊波杏樹
 
   - [Lantis網站上的介紹](http://lantis.jp/release-item/LACM-14481.html)
 
-[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink")
-[Category:LoveLive\!音樂](https://zh.wikipedia.org/wiki/Category:LoveLive!音樂 "wikilink")
-[Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink")
+[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink") [Category:LoveLive\!音樂](https://zh.wikipedia.org/wiki/Category:LoveLive!音樂 "wikilink") [Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink")
 
 1.
 

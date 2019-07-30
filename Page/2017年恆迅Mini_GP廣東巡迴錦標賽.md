@@ -1,5 +1,4 @@
-**2017年恆迅Mini GP廣東巡迴錦標賽**是由恆迅摩托車服務發展有限公司贊助及主辦的第一个[Mini
-GP赛季](https://zh.wikipedia.org/wiki/Mini_GP "wikilink")。赛季由4场小型電單車赛事组成，于2017年3月份在中國深圳沙井極速賽車場揭幕，12月在佛山三水賽車場收官。比赛共分2个组别，分別為改裝組和原裝組。
+**2017年恆迅Mini GP廣東巡迴錦標賽**是由恆迅摩托車服務發展有限公司贊助及主辦的第一个[Mini GP赛季](https://zh.wikipedia.org/wiki/Mini_GP "wikilink")。赛季由4场小型電單車赛事组成，于2017年3月份在中國深圳沙井極速賽車場揭幕，12月在佛山三水賽車場收官。比赛共分2个组别，分別為改裝組和原裝組。
 
 ## 赛曆
 
@@ -311,7 +310,4 @@ GP赛季](https://zh.wikipedia.org/wiki/Mini_GP "wikilink")。赛季由4场小�
 </tbody>
 </table>
 
-[Category:賽車](https://zh.wikipedia.org/wiki/Category:賽車 "wikilink")
-[Category:摩托賽](https://zh.wikipedia.org/wiki/Category:摩托賽 "wikilink")
-[Category:Mini_GP賽季](https://zh.wikipedia.org/wiki/Category:Mini_GP賽季 "wikilink")
-[Category:2017年Mini_GP](https://zh.wikipedia.org/wiki/Category:2017年Mini_GP "wikilink")
+[Category:賽車](https://zh.wikipedia.org/wiki/Category:賽車 "wikilink") [Category:摩托賽](https://zh.wikipedia.org/wiki/Category:摩托賽 "wikilink") [Category:Mini_GP賽季](https://zh.wikipedia.org/wiki/Category:Mini_GP賽季 "wikilink") [Category:2017年Mini_GP](https://zh.wikipedia.org/wiki/Category:2017年Mini_GP "wikilink")

@@ -2,7 +2,7 @@
 
 曾在「第6回アルファポリスファンタジー小説大賞」獲得「読者賞」\[1\]。
 
-原本在[成為小說家吧網站連載](../Page/成為小說家吧.md "wikilink")，在書籍化後，受到AlphaPolis出版社要求摘要化後，被成為小說家吧官方刪除。
+原本在[成為小說家吧](../Page/成為小說家吧.md "wikilink")網站連載，在書籍化後，受到AlphaPolis出版社要求摘要化後，被成為小說家吧官方刪除。
 
 在2015年7月「青森在住の建築に興味がある人が選んだ國內小説ランキング」票選中，獲得第一名。\[2\]
 
@@ -10,8 +10,7 @@
 
 ## 故事
 
-「重啟自由之地﹙one more free
-life﹚」是一款VRMMO遊戲﹙實境網遊﹚，主角大地在遊戲中使用著被稱為廢物職業的弓使，卻慢慢組合出自己的獨有玩法。結果大地就每天在下班時間上線，過著一邊生產研發一邊四處冒險的網路日常。
+「重啟自由之地﹙one more free life﹚」是一款VRMMO遊戲﹙實境網遊﹚，主角大地在遊戲中使用著被稱為廢物職業的弓使，卻慢慢組合出自己的獨有玩法。結果大地就每天在下班時間上線，過著一邊生產研發一邊四處冒險的網路日常。
 
 ## 人物
 
@@ -410,27 +409,17 @@ life﹚」是一款VRMMO遊戲﹙實境網遊﹚，主角大地在遊戲中使�
 
 ## 外部連結
 
-  - [とあるおっさんのVRMMO活動記](http://web.archive.org/web/*/http://ncode.syosetu.com:80/n2797bm/)
-    - Web版小說(成為小說家吧 - 歷史備份)
+  - [とあるおっさんのVRMMO活動記](http://web.archive.org/web/*/http://ncode.syosetu.com:80/n2797bm/) - Web版小說(成為小說家吧 - 歷史備份)
 
-  - [とあるおっさんのVRMMO活動記](http://www.alphapolis.co.jp/content/cover/992069999/)
-    - Web版小說(刪減版)
+  - [とあるおっさんのVRMMO活動記](http://www.alphapolis.co.jp/content/cover/992069999/) - Web版小說(刪減版)
 
-  - [とあるおっさんのVRMMO活動記](http://www.alphapolis.co.jp/book/detail/1043223/1271/)
-    - 書籍版小說
+  - [とあるおっさんのVRMMO活動記](http://www.alphapolis.co.jp/book/detail/1043223/1271/) - 書籍版小說
 
-  - [とあるおっさんのVRMMO活動記](https://www.alphapolis.co.jp/manga/viewOpening/658000067/)
-    - 漫畫版
+  - [とあるおっさんのVRMMO活動記](https://www.alphapolis.co.jp/manga/viewOpening/658000067/) - 漫畫版
 
-  - [ワンモア・フリーライフ・オンライン
-    とあるおっさんのオンライン活動記](https://omf-game.alphapolis.co.jp/)
-    - Flash遊戲
+  - [ワンモア・フリーライフ・オンライン とあるおっさんのオンライン活動記](https://omf-game.alphapolis.co.jp/) - Flash遊戲
 
-[Category:成為小說家吧](https://zh.wikipedia.org/wiki/Category:成為小說家吧 "wikilink")
-[Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink")
-[Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink")
-[Category:Flash游戏](https://zh.wikipedia.org/wiki/Category:Flash游戏 "wikilink")
-[Category:AlphaPolis](https://zh.wikipedia.org/wiki/Category:AlphaPolis "wikilink")
+[Category:成為小說家吧](https://zh.wikipedia.org/wiki/Category:成為小說家吧 "wikilink") [Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink") [Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink") [Category:Flash游戏](https://zh.wikipedia.org/wiki/Category:Flash游戏 "wikilink") [Category:AlphaPolis](https://zh.wikipedia.org/wiki/Category:AlphaPolis "wikilink")
 
 1.
 2.

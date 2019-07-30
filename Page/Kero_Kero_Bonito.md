@@ -1,21 +1,13 @@
-**Kero Kero
-Bonito**（**KKB**）是來自[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦的音樂團體](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。樂團由Tom
-Kool （Sarah Midori Perry），[音樂製作人Luk](../Page/音樂製作人.md "wikilink") Mok
-（Gus Lobban）和[音樂製作人Vinc](../Page/音樂製作人.md "wikilink")•Tong（Jamie
-Bulled）所組成。Kero Kero Bonito充滿著J-pop、K-pop的氣息\[1\]，以及莎拉英語、日語互換的唸唱。
-他們使用了[Casio](https://zh.wikipedia.org/wiki/Casio "wikilink")
-SA-45寫了許多膾炙人口的歌曲。\[2\]
+**Kero Kero Bonito**（**KKB**）是來自[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦的音樂團體](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。樂團由主唱莎拉·翠·佩里（Sarah Midori Perry），[音樂製作人](../Page/音樂製作人.md "wikilink")葛斯·洛班（Gus Lobban）和[音樂製作人](../Page/音樂製作人.md "wikilink")𠎀米·布爾德（Jamie Bulled）所組成。Kero Kero Bonito充滿著J-pop、K-pop的氣息\[1\]，以及莎拉英語、日語互換的唸唱。
+他們使用了[Casio](https://zh.wikipedia.org/wiki/Casio "wikilink") SA-45寫了許多膾炙人口的歌曲。\[2\]
 
 ## 經歷
 
-[Kero_Kero_Bonito_(12113716266).jpg](https://zh.wikipedia.org/wiki/File:Kero_Kero_Bonito_\(12113716266\).jpg "fig:Kero_Kero_Bonito_(12113716266).jpg")
-洛班和布爾德在倫敦南部的郊區長大，他們也是同學。\[3\]
+[Kero_Kero_Bonito_(12113716266).jpg](https://zh.wikipedia.org/wiki/File:Kero_Kero_Bonito_\(12113716266\).jpg "fig:Kero_Kero_Bonito_(12113716266).jpg") 洛班和布爾德在倫敦南部的郊區長大，他們也是同學。\[3\]
 
 2013年他們希望與能說日語的人合作，並在在線公告牌MixB上發布公告。\[4\]\[5\]
 
-2014年8月透過唱片公司發行了他們的首張混音帶*Intro Bonito*。\[6\]\[7\]同年9月，Kero Kero
-Bonito發行了*Bonito Recycling*，這是由和等音樂家合作的EP。\[8\]2014年11月發行了單曲“Build
-It Up”。\[9\]
+2014年8月透過唱片公司發行了他們的首張混音帶*Intro Bonito*。\[6\]\[7\]同年9月，Kero Kero Bonito發行了*Bonito Recycling*，這是由和等音樂家合作的EP。\[8\]2014年11月發行了單曲“Build It Up”。\[9\]
 
 2015年8月10日宣布Kero Kero Bonito將在2015年10月，開始首次的北美巡演。.\[10\]
 
@@ -244,9 +236,7 @@ It Up”。\[9\]
   -
   -
   -
-[Category:英国乐团](https://zh.wikipedia.org/wiki/Category:英国乐团 "wikilink")
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
-[Category:英格蘭樂團](https://zh.wikipedia.org/wiki/Category:英格蘭樂團 "wikilink")
+[Category:英国乐团](https://zh.wikipedia.org/wiki/Category:英国乐团 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:英格蘭樂團](https://zh.wikipedia.org/wiki/Category:英格蘭樂團 "wikilink")
 
 1.
 

@@ -1,6 +1,6 @@
 [Kg_signals.jpg](https://zh.wikipedia.org/wiki/File:Kg_signals.jpg "fig:Kg_signals.jpg")
 
-**[鐵路號誌機的應用](../Page/铁路信号机.md "wikilink")**在[鐵路上的分佈取決與各種因素](../Page/鐵路.md "wikilink")，原則上是針對潛在衝突點、火車的速度和頻率以及需求來決定。
+**[鐵路號誌機的應用](../Page/铁路信号机.md "wikilink")**在[鐵路](../Page/鐵路.md "wikilink")上的分佈取決與各種因素，原則上是針對潛在衝突點、火車的速度和頻率以及需求來決定。
 
 ## 不提供信號
 
@@ -26,8 +26,7 @@
 
   - 和
 
-信號無法顯示「繼續前進」，除非其保護的基礎設施處於列車通過的正確位置，或者在平坦路口和交叉鐵軌上沒有其他信號因為衝突的行動而被清除。
-這是透過[連鎖系統實施的](https://zh.wikipedia.org/wiki/联锁 "wikilink")。
+信號無法顯示「繼續前進」，除非其保護的基礎設施處於列車通過的正確位置，或者在平坦路口和交叉鐵軌上沒有其他信號因為衝突的行動而被清除。 這是透過[連鎖系統實施的](https://zh.wikipedia.org/wiki/联锁 "wikilink")。
 
 ## 下班列車的保護
 
@@ -75,90 +74,41 @@
 
 ## 連接點的號誌安排
 
-The driver of a train approaching a diverging junction must be made
-aware of which direction the train will take, so that its speed can be
-regulated accordingly. A diverging route might have a significantly
-lower permissible speed than the main route, and if the route taken was
-not the one expected, it could result in
-[derailment](https://zh.wikipedia.org/wiki/脫軌 "wikilink").
+The driver of a train approaching a diverging junction must be made aware of which direction the train will take, so that its speed can be regulated accordingly. A diverging route might have a significantly lower permissible speed than the main route, and if the route taken was not the one expected, it could result in [derailment](https://zh.wikipedia.org/wiki/脫軌 "wikilink").
 
-There are two different philosophies on junction signalling. Signalling
-of British origin generally conforms to the principle of *route
-signalling*. Most railway systems around the world, however, use what is
-known as *speed signalling*.
+There are two different philosophies on junction signalling. Signalling of British origin generally conforms to the principle of *route signalling*. Most railway systems around the world, however, use what is known as *speed signalling*.
 
-Under route signalling, a driver is informed of which route the train
-will take beyond each signal (unless only one route is possible). This
-is achieved by a 'route indicator' attached to the signal. The driver
-uses his route knowledge, reinforced by speed restriction signs fixed at
-the lineside, to drive the train at the correct speed for the route to
-be taken.
+Under route signalling, a driver is informed of which route the train will take beyond each signal (unless only one route is possible). This is achieved by a 'route indicator' attached to the signal. The driver uses his route knowledge, reinforced by speed restriction signs fixed at the lineside, to drive the train at the correct speed for the route to be taken.
 
-Under speed signalling, the driver is not told which route the train
-will take, but the signal aspect informs him at what speed he may
-proceed. Speed signalling requires a far greater range of signal aspects
-than route signalling, but less dependence is placed on drivers' route
-knowledge.
+Under speed signalling, the driver is not told which route the train will take, but the signal aspect informs him at what speed he may proceed. Speed signalling requires a far greater range of signal aspects than route signalling, but less dependence is placed on drivers' route knowledge.
 
 ## Bidirectional signalling
 
-Many [double](https://zh.wikipedia.org/wiki/复线铁路 "wikilink") or multiple
-track railways have a designated direction of travel assigned to each
-track. Signals will only be installed to permit traffic to flow in one
-direction on each line (i.e. uni-directional signalling).
+Many [double](https://zh.wikipedia.org/wiki/复线铁路 "wikilink") or multiple track railways have a designated direction of travel assigned to each track. Signals will only be installed to permit traffic to flow in one direction on each line (i.e. uni-directional signalling).
 
-[The_"Enterprise"_at_Poyntzpass_-_geograph.org.uk_-_1719543.jpg](https://zh.wikipedia.org/wiki/File:The_"Enterprise"_at_Poyntzpass_-_geograph.org.uk_-_1719543.jpg "fig:The_\"Enterprise\"_at_Poyntzpass_-_geograph.org.uk_-_1719543.jpg")
-on [NIR](../Page/北愛爾蘭鐵路.md "wikilink").\]\]
+[The_"Enterprise"_at_Poyntzpass_-_geograph.org.uk_-_1719543.jpg](https://zh.wikipedia.org/wiki/File:The_"Enterprise"_at_Poyntzpass_-_geograph.org.uk_-_1719543.jpg "fig:The_\"Enterprise\"_at_Poyntzpass_-_geograph.org.uk_-_1719543.jpg") on [NIR](../Page/北愛爾蘭鐵路.md "wikilink").\]\]
 
-**Bidirectional signalling** is the provision of signalling that allows
-one or more tracks on a multiple track railway to be operated in either
-direction, whether for regular or emergency use. Bidirectional
-signalling intended for regular use will generally allow traffic to flow
-at similarly high frequency in one or other direction. If intended for
-emergency use, running in the opposite direction might only be possible
-at reduced frequency. Typically, 'reduced capacity' bidirectional
-signalling only provides a signalled route onto and off the other line
-for 'wrong' direction running, without any intermediate stop signals
-that would improve capacity.
+**Bidirectional signalling** is the provision of signalling that allows one or more tracks on a multiple track railway to be operated in either direction, whether for regular or emergency use. Bidirectional signalling intended for regular use will generally allow traffic to flow at similarly high frequency in one or other direction. If intended for emergency use, running in the opposite direction might only be possible at reduced frequency. Typically, 'reduced capacity' bidirectional signalling only provides a signalled route onto and off the other line for 'wrong' direction running, without any intermediate stop signals that would improve capacity.
 
-Bidirectional signalling is more expensive to implement as it requires
-more equipment than uni-directional operation, so it is not always
-provided. In the absence of bidirectional signalling, 'wrong direction'
-movements may still be made on a uni-directional line at times of
-disruption, through a procedure known as .
+Bidirectional signalling is more expensive to implement as it requires more equipment than uni-directional operation, so it is not always provided. In the absence of bidirectional signalling, 'wrong direction' movements may still be made on a uni-directional line at times of disruption, through a procedure known as .
 
-Bidirectional signalling is easier to implement when under the control
-of one . Before power-operated signalling became widespread, track
-layouts tended to be designed to avoid bidirectional arrangements as
-much as possible.
+Bidirectional signalling is easier to implement when under the control of one . Before power-operated signalling became widespread, track layouts tended to be designed to avoid bidirectional arrangements as much as possible.
 
-[Single track](../Page/單線鐵路.md "wikilink") railways must necessarily
-have signals for both directions. This is not regarded as bidirectional
-signalling.
+[Single track](../Page/單線鐵路.md "wikilink") railways must necessarily have signals for both directions. This is not regarded as bidirectional signalling.
 
 ## Signals for special purposes
 
 ### Train order signal
 
-Used in conjunction with the American , a train order signal advises the
-[engineer](../Page/列車駕駛.md "wikilink") of the need to pick up a train
-order at a station.
+Used in conjunction with the American , a train order signal advises the [engineer](../Page/列車駕駛.md "wikilink") of the need to pick up a train order at a station.
 
 ### Hump shunting signal
 
-In a [hump yard](../Page/編組場.md "wikilink"), special signals may control
-the speed of trains propelling vehicles towards the hump.
+In a [hump yard](../Page/編組場.md "wikilink"), special signals may control the speed of trains propelling vehicles towards the hump.
 
 ### Loading and unloading signals
 
-Signals may be installed to control the movement of freight trains
-through a facility for loading or unloading minerals, for example coal.
-Unlike ordinary signals, there may be a series of identical signals
-installed along the track so that at least one is always visible to the
-train driver at any time. All signals in the same group display the same
-indication simultaneously. A 'stop' indication means "stop
-*immediately*", even if the train is not at the signal. The signals can
-also instruct a train to reverse.
+Signals may be installed to control the movement of freight trains through a facility for loading or unloading minerals, for example coal. Unlike ordinary signals, there may be a series of identical signals installed along the track so that at least one is always visible to the train driver at any time. All signals in the same group display the same indication simultaneously. A 'stop' indication means "stop *immediately*", even if the train is not at the signal. The signals can also instruct a train to reverse.
 
 ## References
 

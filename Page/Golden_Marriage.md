@@ -1,7 +1,4 @@
-《**Golden
-Marriage**》是[ensemble在](../Page/WillPlus.md "wikilink")2014年5月30日\[1\]發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。2015年3月27日發售[Fan
-disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")\[2\]《Golden
-Marriage -Jewel Days-》。
+《**Golden Marriage**》是[ensemble在](../Page/WillPlus.md "wikilink")2014年5月30日\[1\]發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。2015年3月27日發售[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")\[2\]《Golden Marriage -Jewel Days-》。
 
 ## 故事簡介
 
@@ -91,18 +88,10 @@ Marriage -Jewel Days-》。
 
 ## 外部連結
 
-  - [Golden
-    Marriage遊戲官網](http://www.ensemble-game.com/08.goldenmarriage/index.html)
-  - [Golden Marriage -Jewel
-    Days-遊戲官網](http://www.ensemble-game.com/11.gm_jeweldays/)
+  - [Golden Marriage遊戲官網](http://www.ensemble-game.com/08.goldenmarriage/index.html)
+  - [Golden Marriage -Jewel Days-遊戲官網](http://www.ensemble-game.com/11.gm_jeweldays/)
 
-[Category:2014年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2014年日本成人遊戲 "wikilink")
-[Category:2015年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2015年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:WillPlus](https://zh.wikipedia.org/wiki/Category:WillPlus "wikilink")
+[Category:2014年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2014年日本成人遊戲 "wikilink") [Category:2015年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2015年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:WillPlus](https://zh.wikipedia.org/wiki/Category:WillPlus "wikilink")
 
 1.
 

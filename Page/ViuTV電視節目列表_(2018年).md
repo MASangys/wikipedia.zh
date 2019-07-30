@@ -1,4 +1,4 @@
-本列表列出2018年由[香港](../Page/香港.md "wikilink")[ViuTV所播放的節目](../Page/ViuTV.md "wikilink")（只限綜藝、資訊節目）。\[1\]
+本列表列出2018年由[香港](../Page/香港.md "wikilink")[ViuTV](../Page/ViuTV.md "wikilink")所播放的節目（只限綜藝、資訊節目）。\[1\]
 
 除特別註明外，所有節目均為全高清製作。
 
@@ -8,7 +8,7 @@
 
 #### 星期一
 
-[香港時間逢星期一](../Page/香港時間.md "wikilink")10:00-10:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一10:00-10:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -50,7 +50,7 @@ Cats In Japan</p></td>
 
 #### 星期一
 
-[香港時間逢星期一](../Page/香港時間.md "wikilink")12:30-13:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一12:30-13:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -144,7 +144,7 @@ Stay Overnight (Season 3)</p></td>
 
 #### 星期二
 
-[香港時間逢星期二](../Page/香港時間.md "wikilink")12:30-13:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期二12:30-13:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -238,7 +238,7 @@ Level Up</p></td>
 
 #### 星期三
 
-[香港時間逢星期三](../Page/香港時間.md "wikilink")12:30-13:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期三12:30-13:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -271,7 +271,7 @@ One Life One Earth (Sr. 4)</p></td>
 <td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/梁詠琪" title="wikilink">梁詠琪</a>、<a href="../Page/洪永城.md" title="wikilink">洪永城</a>、<a href="../Page/陳霽平.md" title="wikilink">陳霽平</a>、<a href="https://zh.wikipedia.org/wiki/李建誠" title="wikilink">李建誠</a>、<a href="../Page/黃翠如.md" title="wikilink">黃翠如</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/one-life-one-earth-s4">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
-重播<a href="../Page/Now香港台.md" title="wikilink">Now香港台節目</a>，2月28日暫停播映</p></td>
+重播<a href="../Page/Now香港台.md" title="wikilink">Now香港台</a>節目，2月28日暫停播映</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>28/03-<br />
@@ -330,7 +330,7 @@ Senior</p></td>
 
 #### 星期四
 
-[香港時間逢星期四](../Page/香港時間.md "wikilink")12:30-13:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期四12:30-13:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -410,7 +410,7 @@ Art in Progress S2</p></td>
 
 #### 星期五
 
-[香港時間逢星期五](../Page/香港時間.md "wikilink")12:30-13:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期五12:30-13:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -465,7 +465,7 @@ Canton Lyrics Lovers</p></td>
 
 ### 17:30時段
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")17:30-18:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五17:30-18:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -507,7 +507,7 @@ Joyous Alliance</p></td>
 
 #### 星期一至五／星期一、二（7月16日起）
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")19:50-20:00播出；4月30日起改為逢星期一至五20:00-20:45播出；7月16日起改為逢星期一、二20:00-20:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五19:50-20:00播出；4月30日起改為逢星期一至五20:00-20:45播出；7月16日起改為逢星期一、二20:00-20:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -581,7 +581,7 @@ Hometown Pride</p></td>
 
 #### 星期三／星期三至五（9月5日至10月5日）
 
-[香港時間逢星期三](../Page/香港時間.md "wikilink")20:00-20:30播出（9月5日至10月5日期間改為逢星期三至五20:00-20:30播出）
+[香港時間](../Page/香港時間.md "wikilink")逢星期三20:00-20:30播出（9月5日至10月5日期間改為逢星期三至五20:00-20:30播出）
 
 <table style="width:240%;">
 <colgroup>
@@ -643,7 +643,7 @@ MUCHAMITASU</p></td>
 
 #### 星期四
 
-[香港時間逢星期四](../Page/香港時間.md "wikilink")20:00-20:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期四20:00-20:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -684,7 +684,7 @@ Healthy Hour</p></td>
 
 #### 星期五
 
-[香港時間逢星期五](../Page/香港時間.md "wikilink")20:00-20:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期五20:00-20:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -749,7 +749,7 @@ Interviu</p></td>
 
 #### 星期一至五／星期一、二（4月30日至7月10日）／星期一至三（11月19日至12月5日）／星期一（12月10日起）
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")22:00-22:30播出；4月30日起改為逢星期一、二22:00-22:30播出；7月16日起改為逢星期一至五21:45-22:30播出；11月19日起改為逢星期一至三21:45-22:30播出；12月10日起改為逢星期一21:45-22:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五22:00-22:30播出；4月30日起改為逢星期一、二22:00-22:30播出；7月16日起改為逢星期一至五21:45-22:30播出；11月19日起改為逢星期一至三21:45-22:30播出；12月10日起改為逢星期一21:45-22:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -899,7 +899,7 @@ Good Night Show Mirror Go</p></td>
 
 #### 星期三／星期二、三（12月11日起）
 
-[香港時間逢星期三](../Page/香港時間.md "wikilink")22:00-22:30播出；12月11日起改為逢星期二、三21:45-22:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期三22:00-22:30播出；12月11日起改為逢星期二、三21:45-22:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -952,7 +952,7 @@ Good Night Show - The Wreak Station</p></td>
 
 #### 星期四／星期四、五（11月22日起）
 
-[香港時間逢星期四](../Page/香港時間.md "wikilink")22:00-22:30播出；11月22日起改為逢星期四、五21:45-22:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期四22:00-22:30播出；11月22日起改為逢星期四、五21:45-22:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1003,7 +1003,7 @@ Good Night Show - Raise Our Voice</p></td>
 
 #### 星期五
 
-[香港時間逢星期五](../Page/香港時間.md "wikilink")22:00-22:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期五22:00-22:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1054,7 +1054,7 @@ So Takei - The Ultimate Examiner</p></td>
 
 #### 星期一／星期一至五（4月30日起）
 
-[香港時間逢星期一](../Page/香港時間.md "wikilink")22:30-23:00播出；4月30日起改為逢星期一至五22:30-23:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一22:30-23:00播出；4月30日起改為逢星期一至五22:30-23:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1090,7 +1090,7 @@ Online Shopaholic</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;">4月2日至16日期間因播映<a href="../Page/第37屆香港電影金像獎.md" title="wikilink">第37屆香港電影金像獎特備節目</a>《金像獎新鮮人》及《金像獎璀璨一夜》的關係，本時段沒有綜藝及資訊節目播映</p>
+<p><span style="font-size:larger;">4月2日至16日期間因播映<a href="../Page/第37屆香港電影金像獎.md" title="wikilink">第37屆香港電影金像獎</a>特備節目《金像獎新鮮人》及《金像獎璀璨一夜》的關係，本時段沒有綜藝及資訊節目播映</p>
 </div>
 <p></span></p></td>
 <td style="text-align: center;"></td>
@@ -1162,7 +1162,7 @@ RUS Back Home</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>16/07-<br />
 03/08</p></td>
-<td style="text-align: center;"><p><a href="../Page/入住請敲門.md" title="wikilink">入住請敲門2</a><br />
+<td style="text-align: center;"><p><a href="../Page/入住請敲門.md" title="wikilink">入住請敲門</a>2<br />
 The Haunted Rooms 2</p></td>
 <td style="text-align: center;"><p>15</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/莫竣名.md" title="wikilink">莫竣名</a>、</p></td>
@@ -1238,7 +1238,7 @@ Where You Live</p></td>
 
 #### 星期二
 
-[香港時間逢星期二](../Page/香港時間.md "wikilink")22:30-23:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期二22:30-23:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1287,7 +1287,7 @@ Travel After The Wars</p></td>
 
 #### 星期三
 
-[香港時間逢星期三](../Page/香港時間.md "wikilink")22:30-23:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期三22:30-23:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1336,7 +1336,7 @@ Business Run</p></td>
 
 #### 星期四
 
-[香港時間逢星期四](../Page/香港時間.md "wikilink")22:30-23:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期四22:30-23:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1386,7 +1386,7 @@ Banquet Scene Inverstigation</p></td>
 
 #### 星期五
 
-[香港時間逢星期五](../Page/香港時間.md "wikilink")22:30-23:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期五22:30-23:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1435,7 +1435,7 @@ Music Choice</p></td>
 
 ### 23:00/23:30/00:00時段
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")23:00-23:15播出；4月30日起改為逢星期一至五23:30-23:45播出；7月16日起改為逢星期二至六<small>（星期一至五深夜）</small>00:00-00:15播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五23:00-23:15播出；4月30日起改為逢星期一至五23:30-23:45播出；7月16日起改為逢星期二至六<small>（星期一至五深夜）</small>00:00-00:15播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1475,7 +1475,7 @@ Music Choice</p></td>
 
 ### 23:15/23:45/00:15時段
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")23:15-23:30播出；4月30日起改為逢星期一至五23:45-00:00播出；7月16日起改為逢星期二至六<small>（星期一至五深夜）</small>00:15-00:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五23:15-23:30播出；4月30日起改為逢星期一至五23:45-00:00播出；7月16日起改為逢星期二至六<small>（星期一至五深夜）</small>00:15-00:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1513,11 +1513,11 @@ Girls' Talk</p></td>
 </tbody>
 </table>
 
-### [晚吹系列](../Page/晚吹.md "wikilink")
+### [晚吹](../Page/晚吹.md "wikilink")系列
 
 #### 星期一
 
-[香港時間逢星期一](../Page/香港時間.md "wikilink")23:30-00:00播出；4月30日起改為23:00-23:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一23:30-00:00播出；4月30日起改為23:00-23:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1565,7 +1565,7 @@ Lucky Healthy Doggies</p></td>
 
 #### 星期二
 
-[香港時間逢星期二](../Page/香港時間.md "wikilink")23:30-00:00播出；5月1日起改為23:00-23:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期二23:30-00:00播出；5月1日起改為23:00-23:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1616,7 +1616,7 @@ Fly Aboard</p></td>
 
 #### 星期三
 
-[香港時間逢星期三](../Page/香港時間.md "wikilink")23:30-00:00播出；5月2日起改為23:00-23:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期三23:30-00:00播出；5月2日起改為23:00-23:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1677,7 +1677,7 @@ Meow Meow Meow</p></td>
 
 #### 星期四
 
-[香港時間逢星期四](../Page/香港時間.md "wikilink")23:30-00:00播出；5月3日起改為23:00-23:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期四23:30-00:00播出；5月3日起改為23:00-23:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1716,7 +1716,7 @@ Helmet Intercom</p></td>
 
 #### 星期五
 
-[香港時間逢星期五](../Page/香港時間.md "wikilink")23:30-00:00播出；5月4日起改為23:00-23:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期五23:30-00:00播出；5月4日起改為23:00-23:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1760,8 +1760,7 @@ One Beside You 3</p></td>
 
 #### 星期二至五
 
-[香港時間逢星期二至五](../Page/香港時間.md "wikilink")<small>（星期一至四深夜）
-</small>00:30-01:30播出；5月29日起改為00:30-01:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期二至五<small>（星期一至四深夜） </small>00:30-01:30播出；5月29日起改為00:30-01:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1827,7 +1826,7 @@ We Are From Fresh Wave 2018</p></td>
 
 #### 星期六
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")<small>（星期五深夜）</small>00:30/00:35-01:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六<small>（星期五深夜）</small>00:30/00:35-01:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1891,7 +1890,7 @@ Soul Of Pro Wrestling</p></td>
 
 #### 星期六
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")23:30-00:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六23:30-00:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1943,7 +1942,7 @@ Movie Bugs</p></td>
 
 #### 星期日
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")23:30-00:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日23:30-00:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1997,7 +1996,7 @@ Crime</p></td>
 
 ### 08:00時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")08:00-08:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六08:00-08:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -2047,7 +2046,7 @@ Elderly vs New Age Hobbies</p></td>
 
 ### 10:30時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")10:30-12:00播出；12月8日起改為10:30-11:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六10:30-12:00播出；12月8日起改為10:30-11:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -2130,7 +2129,7 @@ School Open Day</p></td>
 
 ### 15:30時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")15:30-16:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六15:30-16:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -2206,7 +2205,7 @@ Put Your Hands Up</p></td>
 
 ### 16:00時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")16:00-16:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六16:00-16:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -2256,7 +2255,7 @@ Chi Chung's Clouds</p></td>
 
 ### 17:30時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")17:30-18:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六17:30-18:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -2298,7 +2297,7 @@ Happy Family Day</p></td>
 
 ### 19:30/20:00時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")19:30-20:00播出；5月5日起改為20:00-20:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六19:30-20:00播出；5月5日起改為20:00-20:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -2395,7 +2394,7 @@ All About Love</p></td>
 
 ### 20:30時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")20:30-21:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六20:30-21:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -2445,7 +2444,7 @@ Insider Scoop!</p></td>
 
 ### 21:30時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")21:30-22:00播出；2月24日起改為21:30-22:45播出；10月20日起改為21:30-22:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六21:30-22:00播出；2月24日起改為21:30-22:45播出；10月20日起改為21:30-22:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -2519,7 +2518,7 @@ Why did you come to Japan? S2</p></td>
 
 ### 22:00時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")22:00-22:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六22:00-22:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -2569,7 +2568,7 @@ Alan Tam Music Camp</p></td>
 
 ### 22:30時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")22:30-23:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六22:30-23:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -2666,7 +2665,7 @@ Taxi Go 2</p></td>
 
 ### 23:00時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")23:00-23:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六23:00-23:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -2728,7 +2727,7 @@ Job Trainers</p></td>
 
 ### 00:00時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")<small>（星期六深夜）</small>00:00-01:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日<small>（星期六深夜）</small>00:00-01:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -2767,7 +2766,7 @@ Miss DIVA</p></td>
 
 ### 01:00時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")<small>（星期六深夜）</small>01:00-01:45播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日<small>（星期六深夜）</small>01:00-01:45播出
 
 <table style="width:240%;">
 <colgroup>
@@ -2809,7 +2808,7 @@ Agora</p></td>
 
 ### 08:00時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")08:00-08:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日08:00-08:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -2869,7 +2868,7 @@ Two Dollar Senior Tours 3</p></td>
 
 ### 08:30時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")08:30-09:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日08:30-09:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -2929,7 +2928,7 @@ The Film Fighters</p></td>
 
 ### 11:30時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")11:30-12:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日11:30-12:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -2971,14 +2970,14 @@ Go! Japan TV (IV)</p></td>
 <td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/理惠" title="wikilink">理惠</a>、<a href="https://zh.wikipedia.org/wiki/邱忠業" title="wikilink">邱忠業</a>（日語原聲）；<a href="../Page/石梓晴.md" title="wikilink">石梓晴</a>、<a href="../Page/李家傑_(配音員).md" title="wikilink">李家傑</a>（粵語配音）</p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/go-japan-tv">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>旅遊/文化節目</strong><br />
-外購節目（<a href="../Page/香港.md" title="wikilink">香港R</a> by R Production）</p></td>
+外購節目（<a href="../Page/香港.md" title="wikilink">香港</a>R by R Production）</p></td>
 </tr>
 </tbody>
 </table>
 
 ### 12:30時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")12:30-13:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日12:30-13:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -3072,7 +3071,7 @@ Low Gear</p></td>
 
 ### 13:30時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")13:30-14:30播出；9月30日起改為13:30-14:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日13:30-14:30播出；9月30日起改為13:30-14:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -3166,7 +3165,7 @@ Super Funny Unit</p></td>
 
 ### 14:00時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")14:00-14:30播出；12月30日起改為14:00-15:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日14:00-14:30播出；12月30日起改為14:00-15:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -3218,7 +3217,7 @@ Everything About Life</p></td>
 
 ### 14:30時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")14:30-15:00播出（5月6日至6月17日改為14:30-15:30播出）
+[香港時間](../Page/香港時間.md "wikilink")逢星期日14:30-15:00播出（5月6日至6月17日改為14:30-15:30播出）
 
 <table style="width:240%;">
 <colgroup>
@@ -3325,7 +3324,7 @@ Travel Stalker - Japan</p></td>
 
 ### 15:00時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")15:00-16:00播出；7月8日起改為15:00-15:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日15:00-16:00播出；7月8日起改為15:00-15:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -3416,7 +3415,7 @@ The Film Fighters</p></td>
 
 ### 15:30時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")15:30-16:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日15:30-16:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -3464,7 +3463,7 @@ Sound And Vision</p></td>
 
 ### 17:30時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")17:30-18:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日17:30-18:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -3528,7 +3527,7 @@ HK Team Up</p></td>
 
 ### 19:30/20:00時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")19:30-20:00播出；5月6日起改為20:00-20:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日19:30-20:00播出；5月6日起改為20:00-20:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -3610,7 +3609,7 @@ Payme Holiday - Tottori</p></td>
 
 ### 20:30/20:35時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")20:30/20:35-21:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日20:30/20:35-21:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -3661,7 +3660,7 @@ Takeshi's Medical Check Up Show X</p></td>
 
 ### 21:30時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")21:30-22:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日21:30-22:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -3711,7 +3710,7 @@ Challenge 1997</p></td>
 
 ### 22:30時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")22:30-23:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日22:30-23:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -3783,7 +3782,7 @@ Super Daddy 2</p></td>
 
 ### 23:30時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")23:30-01:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日23:30-01:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -3850,7 +3849,7 @@ Sing Cantonese 2018</p></td>
 22/02,<br />
 26/04,<br />
 24/05</p></td>
-<td style="text-align: center;"><p><a href="../Page/英格蘭足總盃.md" title="wikilink">英格蘭足總盃精華</a><br />
+<td style="text-align: center;"><p><a href="../Page/英格蘭足總盃.md" title="wikilink">英格蘭足總盃</a>精華<br />
 England FA Cup Highlights</p></td>
 <td style="text-align: center;"><p>5<br />
 (7)</p></td>
@@ -3908,7 +3907,7 @@ Good Night Show - Football Fans Party</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>17/12-<br />
 21/12</p></td>
-<td style="text-align: center;"><p><a href="../Page/L.O.V.E..md" title="wikilink">L.O.V.E.臣</a><br />
+<td style="text-align: center;"><p><a href="../Page/L.O.V.E..md" title="wikilink">L.O.V.E.</a>臣<br />
 L.O.V.E.ason</p></td>
 <td style="text-align: center;"><p>5</p></td>
 <td style="text-align: center;"><p>演出：<a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a></p></td>

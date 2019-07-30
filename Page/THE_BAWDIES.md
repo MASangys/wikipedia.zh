@@ -1,6 +1,4 @@
-**THE
-BAWDIES**（ザ・ボゥディーズ）是日本的知名搖滾樂團，由ROY、TAXMAN、JIM、MARCY四位成員組成。樂團風格受到[小理查德](../Page/小理查德.md "wikilink")、[雷·查爾斯等所代表的](https://zh.wikipedia.org/wiki/雷·查爾斯 "wikilink")[節奏藍調和](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")[Rock
-and Roll的影響](../Page/摇滚.md "wikilink")，歌曲是在日本罕見得全部以英文填詞的方式發表。
+**THE BAWDIES**（ザ・ボゥディーズ）是日本的知名搖滾樂團，由ROY、TAXMAN、JIM、MARCY四位成員組成。樂團風格受到[小理查德](../Page/小理查德.md "wikilink")、[雷·查爾斯等所代表的](https://zh.wikipedia.org/wiki/雷·查爾斯 "wikilink")[節奏藍調和](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")[Rock and Roll的影響](../Page/摇滚.md "wikilink")，歌曲是在日本罕見得全部以英文填詞的方式發表。
 2014年1月18日，主唱ROY在自己的[推特發表了和日本模特兒](https://zh.wikipedia.org/wiki/推特 "wikilink")/歌手組合中的入籍結婚的消息。\[1\]
 
 ## 成員
@@ -19,39 +17,27 @@ and Roll的影響](../Page/摇滚.md "wikilink")，歌曲是在日本罕見得�
   - 2007年3月 - 發行單曲「I BEG YOU」
       - 04月 - 舉辦第一次團體個唱
       - 06月 - 舉辦第一次海外巡迴，在澳洲巡迴了八場演出。
-  - 2009年4月22日 - 由Getting Better發行主流出道專輯「THIS IS MY STORY」，內容包含了由[LOVE
-    PSYCHEDELICO 愛的魔幻的NAOKI所製作的四首歌曲](../Page/愛的魔幻.md "wikilink")。
-  - 2010年1月21日 - 專輯「THIS IS MY
-    STORY」得到第二屆[CD店大獎](../Page/CD店大獎.md "wikilink")。
-  - 2011年11月27日 -
-    第一次在[日本武道館舉辦演唱會](../Page/日本武道館.md "wikilink")，集結了12,898位觀眾。
-  - 2012年2月 -
-    發行由演員[向井理主演的](../Page/向井理.md "wikilink")[富士電視台日劇](../Page/富士電視台.md "wikilink")「[搖滾王子東京店
-    HUNGRY\!](../Page/Hungry！.md "wikilink")」主題曲「ROCK ME BABY」。
+  - 2009年4月22日 - 由Getting Better發行主流出道專輯「THIS IS MY STORY」，內容包含了由[LOVE PSYCHEDELICO 愛的魔幻的NAOKI所製作的四首歌曲](../Page/愛的魔幻.md "wikilink")。
+  - 2010年1月21日 - 專輯「THIS IS MY STORY」得到第二屆[CD店大獎](../Page/CD店大獎.md "wikilink")。
+  - 2011年11月27日 - 第一次在[日本武道館](../Page/日本武道館.md "wikilink")舉辦演唱會，集結了12,898位觀眾。
+  - 2012年2月 - 發行由演員[向井理](../Page/向井理.md "wikilink")主演的[富士電視台](../Page/富士電視台.md "wikilink")日劇「[搖滾王子東京店 HUNGRY\!](../Page/Hungry！.md "wikilink")」主題曲「ROCK ME BABY」。
   - 2013年2月〜06月 - 舉辦樂團史上最大規模的全國各縣市巡迴演唱會「1-2-3」（共59場）
       - 10月 - 舉辦第一次亞洲巡迴，巡迴國家包括韓國（含grand mint festival演出和個唱共兩場）、台灣、香港。
   - 2014年，迎來樂團組成十周年、主流出道五周年。
       - 03月 - 發行第一張翻唱專輯「GOING BACK HOME」\[2\]
       - 12月 - 發行了睽違兩年、總結了樂團組成十周年、主流出道五周年的新專輯「Boys\!」，同時舉行全國巡迴演唱會。
-  - 2015年3月29日 -
-    二度踏上日本武道館舉行「Boys\!」巡迴演唱會最終場\[3\]，同時發表將於六月舉辦首次Hall演唱會「Shake\!
-    Shout\! & Soul\!」\[4\]
+  - 2015年3月29日 - 二度踏上日本武道館舉行「Boys\!」巡迴演唱會最終場\[3\]，同時發表將於六月舉辦首次Hall演唱會「Shake\! Shout\! & Soul\!」\[4\]
       - 04月 - 延伸「Boys\!」巡迴演唱會，25日二度到台灣舉辦個唱。\[5\]
   - 2015年7月 - 舉行歐洲巡迴，巡迴的狀況以DVD形式收錄在單曲「SUNSHINE」的初回限定盤中。\[6\]
-  - 2015年8月 - 睽違三年參加「ROCK IN JAPAN FESTIVAL 2016」，在第一天(8月1日)的LAKE
-    STAGE中演出。
-  - 2016年2月28日，在「 MUSIC AWARDS」中獲得「BEST MUSIC FRIENDS（和SPACE
-    SHOWER很有緣分的藝人的獎項）」\[7\]。
+  - 2015年8月 - 睽違三年參加「ROCK IN JAPAN FESTIVAL 2016」，在第一天(8月1日)的LAKE STAGE中演出。
+  - 2016年2月28日，在「 MUSIC AWARDS」中獲得「BEST MUSIC FRIENDS（和SPACE SHOWER很有緣分的藝人的獎項）」\[7\]。
 
 ## 概要
 
-  - 音樂風格主要受到、[雷·查爾斯和](https://zh.wikipedia.org/wiki/雷·查爾斯 "wikilink")[小理查德等黑人音樂的影響](../Page/小理查德.md "wikilink")，曾受邀擔任英國歌手的演唱會暖場嘉賓，並獲得很高的評價和讚賞。\[8\]
-  - 曾和、the brixton academy、QUATTRO、PILLS
-    EMPIRE等共同演出，也多次參加由知名日本音樂評論家所舉辦的CLUB
-    SNOOZER活動。因為希望觀眾能像西方的搖滾演唱會一樣，演奏一開始就能隨心所欲的跟著節奏舞動，所以把演唱會稱為派對（PARTY）。
+  - 音樂風格主要受到、[雷·查爾斯和](https://zh.wikipedia.org/wiki/雷·查爾斯 "wikilink")[小理查德](../Page/小理查德.md "wikilink")等黑人音樂的影響，曾受邀擔任英國歌手的演唱會暖場嘉賓，並獲得很高的評價和讚賞。\[8\]
+  - 曾和、the brixton academy、QUATTRO、PILLS EMPIRE等共同演出，也多次參加由知名日本音樂評論家所舉辦的CLUB SNOOZER活動。因為希望觀眾能像西方的搖滾演唱會一樣，演奏一開始就能隨心所欲的跟著節奏舞動，所以把演唱會稱為派對（PARTY）。
   - ROY身兼貝斯和主唱是受到的難波章浩所影響。\[9\]
-  - 歌詞的英文發音有外國人的朋友幫忙檢查。\[10\]ROY表示用全英文填詞的原因，是希望能讓聽眾不需在意歌詞內容，而是放鬆身心純粹享受Rock
-    and Roll的節奏和律動。
+  - 歌詞的英文發音有外國人的朋友幫忙檢查。\[10\]ROY表示用全英文填詞的原因，是希望能讓聽眾不需在意歌詞內容，而是放鬆身心純粹享受Rock and Roll的節奏和律動。
 
 ## 作品
 
@@ -705,7 +691,7 @@ DVD[VIBL-704]</p></td>
 </div>
 </div></li>
 </ol></td>
-<td><p><a href="../Page/Oricon公信榜.md" title="wikilink">Oricon公信榜第一次排名</a>25名、上榜次數5次</p></td>
+<td><p><a href="../Page/Oricon公信榜.md" title="wikilink">Oricon公信榜</a>第一次排名25名、上榜次數5次</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年5月26日</p></td>
@@ -789,7 +775,7 @@ DVD[VIBL-704]</p></td>
 </div>
 </div></li>
 </ol></td>
-<td><p><a href="../Page/Oricon公信榜.md" title="wikilink">Oricon公信榜最高排名</a>86名</p></td>
+<td><p><a href="../Page/Oricon公信榜.md" title="wikilink">Oricon公信榜</a>最高排名86名</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年7月7日</p></td>
@@ -815,7 +801,7 @@ DVD[VIBL-704]</p></td>
 </div>
 </div></li>
 </ol></td>
-<td><p><a href="../Page/Oricon公信榜.md" title="wikilink">Oricon公信榜最高排名</a>79名、上榜次數3次</p></td>
+<td><p><a href="../Page/Oricon公信榜.md" title="wikilink">Oricon公信榜</a>最高排名79名、上榜次數3次</p></td>
 </tr>
 <tr class="even">
 <td><p>2010年12月22日</p></td>
@@ -833,7 +819,7 @@ DVD[VIBL-704]</p></td>
 </div>
 </div></li>
 </ol></td>
-<td><p><a href="../Page/Oricon公信榜.md" title="wikilink">Oricon公信榜最高排名</a>57名</p></td>
+<td><p><a href="../Page/Oricon公信榜.md" title="wikilink">Oricon公信榜</a>最高排名57名</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年3月2日</p></td>
@@ -1007,8 +993,7 @@ DVD[VIBL-704]</p></td>
 
 ## 廣播
 
-  - －－星期三 24:00 -
-    26:00／[J-WAVE](../Page/J-WAVE.md "wikilink")（2010年4月2日起只有ROY・MARCY、2010年1月7日-2011年12月29日ROY是擔任星期四的單元）
+  - －－星期三 24:00 - 26:00／[J-WAVE](../Page/J-WAVE.md "wikilink")（2010年4月2日起只有ROY・MARCY、2010年1月7日-2011年12月29日ROY是擔任星期四的單元）
 
 ## Music Video
 
@@ -1046,15 +1031,15 @@ DVD[VIBL-704]</p></td>
 </tr>
 <tr class="even">
 <td><p>「」</p></td>
-<td><p><a href="../Page/關西電視台.md" title="wikilink">關西電視台</a>・<a href="../Page/富士電視台.md" title="wikilink">富士電視台全國播放電視連續劇</a>『<a href="../Page/Hungry！.md" title="wikilink">搖滾王子東京店 HUNGRY!</a>』主題曲[12][13]</p></td>
+<td><p><a href="../Page/關西電視台.md" title="wikilink">關西電視台</a>・<a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>全國播放電視連續劇『<a href="../Page/Hungry！.md" title="wikilink">搖滾王子東京店 HUNGRY!</a>』主題曲[12][13]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台系列放送音楽節目</a>『』2012年2月份主題曲</p></td>
+<td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a>系列放送音楽節目『』2012年2月份主題曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>「」</p></td>
-<td><p><a href="../Page/關西電視台.md" title="wikilink">關西電視台</a>・<a href="../Page/富士電視台.md" title="wikilink">富士電視台全國播放電視連續劇</a>『<a href="../Page/Hungry！.md" title="wikilink">搖滾王子東京店 HUNGRY!</a>』劇中歌[14]</p></td>
+<td><p><a href="../Page/關西電視台.md" title="wikilink">關西電視台</a>・<a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>全國播放電視連續劇『<a href="../Page/Hungry！.md" title="wikilink">搖滾王子東京店 HUNGRY!</a>』劇中歌[14]</p></td>
 </tr>
 <tr class="odd">
 <td><p>「」</p></td>
@@ -1074,7 +1059,7 @@ DVD[VIBL-704]</p></td>
 </tr>
 <tr class="odd">
 <td><p>「NO WAY」</p></td>
-<td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台系列</a><a href="../Page/電視劇24.md" title="wikilink">電視劇24</a>『』片頭曲</p></td>
+<td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a>系列<a href="../Page/電視劇24.md" title="wikilink">電視劇24</a>『』片頭曲</p></td>
 </tr>
 <tr class="even">
 <td><p>「KICKS!」</p></td>
@@ -1113,9 +1098,7 @@ DVD[VIBL-704]</p></td>
   - 2014年 - ROCKIN' THIS JOINT TONIGHT
   - 2014年 - ～The 10th Anniversary～ Like a Rockin' Rollin' Stone Tour
       -
-        w/[［Alexandros］](../Page/［Alexandros］.md "wikilink")/9mm
-        Parabellum
-        Bullet//////[東京斯卡樂園管絃樂團](https://zh.wikipedia.org/wiki/東京斯卡 "wikilink")
+        w/[［Alexandros］](../Page/［Alexandros］.md "wikilink")/9mm Parabellum Bullet//////[東京斯卡樂園管絃樂團](https://zh.wikipedia.org/wiki/東京斯卡 "wikilink")
   - 2014年〜2015年 - 「Boys\!」TOUR 2014-2015
   - 2015年 - 第一次Hall公演「Shake\! Shout\! & Soul\!」
   - 2015年 - 歐洲巡迴演唱會（德國、法國、英國）
@@ -1129,29 +1112,23 @@ DVD[VIBL-704]</p></td>
   - 2009年4月4日 - FM802 SPRING LIVE CIRCUIT "SOUND GATE 2009
   - 2009年7月18日 -  '09 ～夏の魔物～
   - 2009年7月26日 - '09
-  - 2009年8月1日 - [ROCK IN JAPAN
-    FESTIVAL](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")
-    2009
+  - 2009年8月1日 - [ROCK IN JAPAN FESTIVAL](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2009
   - 2009年8月7日 - [SUMMER SONIC](../Page/SUMMER_SONIC.md "wikilink") 2009
   - 2009年8月15日 -  2009 in EZO
   - 2009年8月29日 - SPACE SHOWER  2009
-  - 2009年10月24日 - TOWER RECORDS 30th Anniversary SPECIAL FACE THE
-    MUSIC\!
+  - 2009年10月24日 - TOWER RECORDS 30th Anniversary SPECIAL FACE THE MUSIC\!
   - 2009年12月30日 - FM802 ROCK FESTIVAL  2009
   - 2009年12月31日 - COUNTDOWN JAPAN 09/10
   - 2010年1月14日・23日 - スペースシャワー列伝 JAPAN TOUR 2010
-  - 2010年1月24日 - [au by KDDI](../Page/Au_\(行動電話\).md "wikilink")
-    presents オンタマカーニバル 2010
+  - 2010年1月24日 - [au by KDDI](../Page/Au_\(行動電話\).md "wikilink") presents オンタマカーニバル 2010
   - 2010年4月4日 - MAVERICK KITCHEN
   - 2010年4月11日 - rockin'on presents  -vol.48- WEST ～山崎死闘編～
   - 2010年5月2日 - 10
-  - 2010年5月16日 - FM802 & SPACE SHOWER TV presents SWEET LOVE SHOWER 2010
-    SPRING
+  - 2010年5月16日 - FM802 & SPACE SHOWER TV presents SWEET LOVE SHOWER 2010 SPRING
   - 2010年7月17日 -  2010
   - 2010年7月19日 -  fes '10
   - 2010年7月25日 - M802 F 2010
-  - 2010年7月30日 - [FUJI ROCK](../Page/日本富士搖滾音樂祭.md "wikilink") FESTIVAL
-    '10
+  - 2010年7月30日 - [FUJI ROCK](../Page/日本富士搖滾音樂祭.md "wikilink") FESTIVAL '10
   - 2010年8月1日 - SETSTOCK'10
   - 2010年8月7日 - ROCK IN JAPAN FESTIVAL 2010
   - 2010年8月14日 - J-WAVE LIVE 2000+10
@@ -1202,12 +1179,11 @@ DVD[VIBL-704]</p></td>
   - 2013年8月31日 - SPACE SHOWER SWEET LOVE SHOWER 2013
   - 2013年9月1日 -  2013
   - 2013年9月12日 - JFL 20TH ANNIVERSARY LIVE FOR THE NEXT
-  - 2013年9月14日 - [氣志團万博](../Page/氣志團.md "wikilink")2013 〜房総爆音梁山泊〜
+  - 2013年9月14日 - [氣志團](../Page/氣志團.md "wikilink")万博2013 〜房総爆音梁山泊〜
   - 2013年9月22日 - テレビ朝日ドリームフェスティバル 2013
   - 2013年11月24日 - 東北ジャム2013 in 石巻
   - 2013年12月2日 - LIVEBURGER SPECIAL vol.2
-  - 2013年12月21日 - [マキシマム ザ
-    ホルモン](../Page/Maximum_The_Hormone.md "wikilink")"予襲復讐"ツアー
+  - 2013年12月21日 - [マキシマム ザ ホルモン](../Page/Maximum_The_Hormone.md "wikilink")"予襲復讐"ツアー
   - 2013年12月29日 - FM802 ROCK FESTIVAL RADIO CRAZY 2013
   - 2014年2月20日 - "HOT STUFF 35th Anniversary Live" ×THE BAWDIES
   - 2014年2月22日 - ビクターロック祭り〜音楽の嵐〜
@@ -1227,54 +1203,42 @@ DVD[VIBL-704]</p></td>
   - 2014年9月7日 - RADIO BERRY 20th ANNIVERSARY ベリテンライブ2014 〜井頭公園 運動広場〜
   - 2014年10月24日 - JFL presents LIVE FOR THE NEXT
   - 2014年10月26日 -  "Next Bullet Marks Tour 2014"
-  - 2014年11月1日 - [京都大学西部講堂ライブ](../Page/京都大学.md "wikilink")
-  - 2014年11月2日 - [兵庫縣立大學姫路工学キャンパス](../Page/兵庫縣立大學.md "wikilink") 第11回
-    工大祭
+  - 2014年11月1日 - [京都大学](../Page/京都大学.md "wikilink")西部講堂ライブ
+  - 2014年11月2日 - [兵庫縣立大學](../Page/兵庫縣立大學.md "wikilink")姫路工学キャンパス 第11回 工大祭
   - 2014年11月26日 - スペースシャワー列伝 100巻記念公演 第123巻 縁深力の宴
-  - 2014年11月30日 - SPACE SHOWER TV開局25周年記念感謝祭 "NEW WORLDS, NEW PASSIONS."
-    supported by uP\!\!\!
+  - 2014年11月30日 - SPACE SHOWER TV開局25周年記念感謝祭 "NEW WORLDS, NEW PASSIONS." supported by uP\!\!\!
   - 2015年5月6日 - J-WAVE & Roppongi Hills present TOKYO M.A.P.S
   - 2015年7月4日 -
   - 2015年7月19日 - KESEN ROCK FESTIVAL’15
-  - 2015年08年01日 - [ROCK IN JAPAN
-    FESTIVAL](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")
-    2015
+  - 2015年08年01日 - [ROCK IN JAPAN FESTIVAL](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2015
   - 2015年8月8日 - SOUND MARINA'15
-  - 2015年8月14日 - RISING SUN ROCK FESTIVAL 2015 in EZO, FRIDAY NIGHT
-    SESSION (※ROY only)
+  - 2015年8月14日 - RISING SUN ROCK FESTIVAL 2015 in EZO, FRIDAY NIGHT SESSION (※ROY only)
   - 2015年8月22日 - WILD BUNCH FEST.2015
   - 2015年8月23日 - MONSTER baSH 2015
   - 2015年8月29日 - SPACE SHOWER SWEET LOVE SHOWER 2015 -20thANNIVERSARY-
   - 2015年8月30日 - RUSH BALL 2015 feat. GREENS 25th Anniv.
   - 2015年9月5日 - BAYCAMP 2015
   - 2015年9月6日 - RADIO BERRY ベリテンライブ2015 Special
-  - 2015年10月2日 - [THE BACK
-    HORN](https://zh.wikipedia.org/wiki/THE_BACK_HORN "wikilink")「KYO-MEI対バンツアー」～命を叫ぶ夜～
+  - 2015年10月2日 - [THE BACK HORN](https://zh.wikipedia.org/wiki/THE_BACK_HORN "wikilink")「KYO-MEI対バンツアー」～命を叫ぶ夜～
   - 2015年10月3日 - スペースシャワー列伝15周年記念公演 特別編"大大大宴会"～西の宴～
-  - 2015年11月3日 - the telephones presents "Last Party～We are
-    DISCO\!\!\!～"
+  - 2015年11月3日 - the telephones presents "Last Party～We are DISCO\!\!\!～"
   - 2015年12月4日 -  -80th Anniversary Celebration- （※ROY only）
   - 2015年12月20日 - MERRY ROCK PARADE 2015
   - 2015年12月23日 - ROTTENGRAFFTY presents ポルノ超特急2015
   - 2016年2月14日 - ビクターロック祭り2016
   - 2016年2月19日 - SPACE SHOWER MUSIC AWARDS
-  - 2016年3月19日 - BEA×Zepp Fukuoka presents FX2016 Zepp Fukuoka Final
-    Stage
+  - 2016年3月19日 - BEA×Zepp Fukuoka presents FX2016 Zepp Fukuoka Final Stage
   - 2016年3月20日 -  唇ツーマン TOUR 2016～復活・激突・BKW\!\!の巻～
   - 2016年3月30日 - 「[THE STONE ROSES](../Page/石玫瑰.md "wikilink")」武道館追加公演
   - 2016年4月29日 - ARABAKI ROCK FES.16
   - 2016年5月5日 - JAPAN JAM BEACH 2016
-  - 2016年5月14日 - METROPOLITAN ROCK FESTIVAL
-    2016（METROCK大阪特設會場(大阪府堺市・海とのふれあい広場)）
+  - 2016年5月14日 - METROPOLITAN ROCK FESTIVAL 2016（METROCK大阪特設會場(大阪府堺市・海とのふれあい広場)）
   - 2016年5月21日 - METROPOLITAN ROCK FESTIVAL 2016（東京新木場・若洲公園）
-  - 2016年6月28日 - [CBCテレビ開局](../Page/加拿大廣播公司電視.md "wikilink")60周年記念事業
-    [THE BEATLES](../Page/披頭四樂隊.md "wikilink") 来日50周年記念コンサート『THE
-    TRIBUTE』Supported by 名古屋トヨペット（※ROY only）
+  - 2016年6月28日 - [CBCテレビ開局](../Page/加拿大廣播公司電視.md "wikilink")60周年記念事業 [THE BEATLES](../Page/披頭四樂隊.md "wikilink") 来日50周年記念コンサート『THE TRIBUTE』Supported by 名古屋トヨペット（※ROY only）
 
 ## 形象代言
 
-  - [JIMMY CHOO TOKYO STYLE ICONS FOR AW15 MEN'S
-    COLLECTION](https://www.youtube.com/watch?v=F-Ru3v1pmQU)
+  - [JIMMY CHOO TOKYO STYLE ICONS FOR AW15 MEN'S COLLECTION](https://www.youtube.com/watch?v=F-Ru3v1pmQU)
 
 ## 來源
 
@@ -1282,8 +1246,7 @@ DVD[VIBL-704]</p></td>
 
   - [THE BAWDIES官方網站](http://thebawdies.com/)
 
-  - [THE BAWDIES官方部落格「Everybody clap your hands\!」by
-    Ameba](http://ameblo.jp/thebawdies-blog/)
+  - [THE BAWDIES官方部落格「Everybody clap your hands\!」by Ameba](http://ameblo.jp/thebawdies-blog/)
 
   - （成員有各自的推特帳號。）
 
@@ -1295,11 +1258,7 @@ DVD[VIBL-704]</p></td>
   -
   -
   -
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink")
-[Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
-[Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink")
-[Category:CD店大獎獲獎者](https://zh.wikipedia.org/wiki/Category:CD店大獎獲獎者 "wikilink")
+[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink") [Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink") [Category:CD店大獎獲獎者](https://zh.wikipedia.org/wiki/Category:CD店大獎獲獎者 "wikilink")
 
 1.
 2.

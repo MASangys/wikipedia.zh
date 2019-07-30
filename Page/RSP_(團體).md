@@ -1,29 +1,16 @@
-**Real Street Performance**或**Real Street
-Project**，簡稱**RSP**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）\[1\]，曾經是[日本的一個](../Page/日本.md "wikilink")[流行音樂演唱及舞蹈團體組合](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")，曾屬於MASTERSIX
-FOUNDATION、[日本索尼音樂娛樂旗下](../Page/日本索尼音樂娛樂.md "wikilink")。官方一般描述為「[Hip-hop](../Page/嘻哈音樂.md "wikilink")/[R\&B舞蹈工作室](../Page/节奏布鲁斯.md "wikilink")」。於2013年解散。
+**Real Street Performance**或**Real Street Project**，簡稱**RSP**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）\[1\]，曾經是[日本](../Page/日本.md "wikilink")的一個[流行音樂演唱及舞蹈團體組合](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")，曾屬於MASTERSIX FOUNDATION、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")旗下。官方一般描述為「[Hip-hop](../Page/嘻哈音樂.md "wikilink")/[R\&B舞蹈工作室](../Page/节奏布鲁斯.md "wikilink")」。於2013年解散。
 
 ## 簡史
 
-Real Street
-Performance成立於日本[關西地區](https://zh.wikipedia.org/wiki/關西地區 "wikilink")，由兩名女歌手Ai及Saki、兩名男舞者（Tomo、Hiromu）及兩名女舞者（Eri、Yui）組成。日本索尼娛樂與[讀賣電視台聯合舉辦的](../Page/讀賣電視台.md "wikilink")「HIPHOP・R\&Bダンスユニット」試演活動中，從5000多名試演者中遴選出6名成員進入「Real
-Street
-Project」，是為團體的起源。2006年12月發表首張單曲《》，不久專輯銷售數字進入了關西地區Top10。後來該曲也成為了由RSP
-6名成員主演的電視劇《REAL STREET》之主題曲。
+Real Street Performance成立於日本[關西地區](https://zh.wikipedia.org/wiki/關西地區 "wikilink")，由兩名女歌手Ai及Saki、兩名男舞者（Tomo、Hiromu）及兩名女舞者（Eri、Yui）組成。日本索尼娛樂與[讀賣電視台](../Page/讀賣電視台.md "wikilink")聯合舉辦的「HIPHOP・R\&Bダンスユニット」試演活動中，從5000多名試演者中遴選出6名成員進入「Real Street Project」，是為團體的起源。2006年12月發表首張單曲《》，不久專輯銷售數字進入了關西地區Top10。後來該曲也成為了由RSP 6名成員主演的電視劇《REAL STREET》之主題曲。
 
-2007年8月樂團發表了第二支單曲《》，當年曾榮登[Oricon公信榜第](../Page/Oricon公信榜.md "wikilink")4位。該曲是2001年發表的《》的，以女性的角度重新演繹該曲。
+2007年8月樂團發表了第二支單曲《》，當年曾榮登[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")第4位。該曲是2001年發表的《》的，以女性的角度重新演繹該曲。
 
-2008年2月6日發表的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《》，也被用作動畫《[BLEACH
-死神](../Page/BLEACH_\(動畫\).md "wikilink")》的[片尾曲](https://zh.wikipedia.org/wiki/片尾曲 "wikilink")（第155話
-- 第167話）。
+2008年2月6日發表的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《》，也被用作動畫《[BLEACH 死神](../Page/BLEACH_\(動畫\).md "wikilink")》的[片尾曲](https://zh.wikipedia.org/wiki/片尾曲 "wikilink")（第155話 - 第167話）。
 
-2009年6月，樂團發表了第七支單曲《》，該曲是[嘉利吉58的](../Page/嘉利吉58.md "wikilink")《アンマー》的翻唱作品，在[沖繩縣地區指](../Page/沖繩縣.md "wikilink")[母親](../Page/母親.md "wikilink")。同年四名舞者Tomo、Eri、Hiromu及Yui離開了RSP而各自發展，剩餘的兩名歌手Ai及Saki繼續擔任團體成員。歌曲《DICE》，並沒作為單曲發表，而是在RSP的首張專輯《》中隨附發表。
+2009年6月，樂團發表了第七支單曲《》，該曲是[嘉利吉58](../Page/嘉利吉58.md "wikilink")的《アンマー》的翻唱作品，在[沖繩縣](../Page/沖繩縣.md "wikilink")地區指[母親](../Page/母親.md "wikilink")。同年四名舞者Tomo、Eri、Hiromu及Yui離開了RSP而各自發展，剩餘的兩名歌手Ai及Saki繼續擔任團體成員。歌曲《DICE》，並沒作為單曲發表，而是在RSP的首張專輯《》中隨附發表。
 
-2010年，RSP的作品《》作為動畫《BLEACH 死神》的片尾曲（第256話 -
-第265話），是為樂團第二次再為動畫獻聲，單曲也於該年3月10日發表。6月14日，RSP樂團作為官方榮譽嘉賓前往[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯的](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[Anime
-Expo登台演出](../Page/Anime_Expo.md "wikilink")。7月1日，於L.A.
-Live的諾基亞廣場舉辦了[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，演唱了包括兩支動畫《BLEACH
-死神》的片尾曲《旅立つキミへ》及《感謝。》，還發表並演唱了單曲《》，這是RSP首次日本海外現場演出。7月7日RSP的第十張單曲《アイコトバ》正式發行。9月29日RSP發表了第二張專輯《》，該專輯還包含了特典[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，內容包括幾首[MV](https://zh.wikipedia.org/wiki/MV "wikilink")、RSP的Anime
-Expo 2010的洛杉磯之旅。
+2010年，RSP的作品《》作為動畫《BLEACH 死神》的片尾曲（第256話 - 第265話），是為樂團第二次再為動畫獻聲，單曲也於該年3月10日發表。6月14日，RSP樂團作為官方榮譽嘉賓前往[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯的](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[Anime Expo登台演出](../Page/Anime_Expo.md "wikilink")。7月1日，於L.A. Live的諾基亞廣場舉辦了[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，演唱了包括兩支動畫《BLEACH 死神》的片尾曲《旅立つキミへ》及《感謝。》，還發表並演唱了單曲《》，這是RSP首次日本海外現場演出。7月7日RSP的第十張單曲《アイコトバ》正式發行。9月29日RSP發表了第二張專輯《》，該專輯還包含了特典[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，內容包括幾首[MV](https://zh.wikipedia.org/wiki/MV "wikilink")、RSP的Anime Expo 2010的洛杉磯之旅。
 
 2013年11月，於[大阪心斋桥舉辦了告別演唱會後](https://zh.wikipedia.org/wiki/大阪 "wikilink")，Ai及Saki共同宣布兩人各自發展，自此RSP正式解散。Ai表示日後以本名的名「藍」繼續於流行音樂界活動，而Saki則表示往節目主持的方向發展。\[2\]
 
@@ -71,12 +58,8 @@ Expo 2010的洛杉磯之旅。
 
 ### 參演作品
 
-  - [CLIFF
-    EDGE](https://zh.wikipedia.org/wiki/CLIFF_EDGE "wikilink")『[for
-    You](https://zh.wikipedia.org/wiki/for_You_\(CLIFF_EDGEのアルバム\) "wikilink")』（2008年9月24日）
-    M-1「また二人で… ～あの日の帰り道～ feat.RSP」
-  - [ハジ→](https://zh.wikipedia.org/wiki/ハジ→ "wikilink")『[ハジバム](https://zh.wikipedia.org/wiki/ハジバム "wikilink")』（2011年1月26日）
-    6.「指輪と合鍵。feat. Ai from RSP」
+  - [CLIFF EDGE](https://zh.wikipedia.org/wiki/CLIFF_EDGE "wikilink")『[for You](https://zh.wikipedia.org/wiki/for_You_\(CLIFF_EDGEのアルバム\) "wikilink")』（2008年9月24日） M-1「また二人で… ～あの日の帰り道～ feat.RSP」
+  - [ハジ→](https://zh.wikipedia.org/wiki/ハジ→ "wikilink")『[ハジバム](https://zh.wikipedia.org/wiki/ハジバム "wikilink")』（2011年1月26日） 6.「指輪と合鍵。feat. Ai from RSP」
 
 |                       |                                                                                                                                                                                                   |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -98,8 +81,7 @@ Expo 2010的洛杉磯之旅。
   - [RSP官方資料](http://www.sonymusic.co.jp/Music/Info/rsp/index.html)
   - [d-RSP官方資料](http://www.sonymusic.co.jp/Music/Info/d-rsp/)
   - [讀賣電視台上關於RSP的資料](https://web.archive.org/web/20070930170927/http://www.ytv.co.jp/real-st/)
-  - [Real Street Drama at Yomiuri
-    TV](https://web.archive.org/web/20070930165249/http://www.ytv.co.jp/real-st/rs/index.html)
+  - [Real Street Drama at Yomiuri TV](https://web.archive.org/web/20070930165249/http://www.ytv.co.jp/real-st/rs/index.html)
   - [RSP成員網誌](http://playlog.jp/rsp/blog/)
   - [RSPオフィシャルブログ by Ameba](http://ameblo.jp/rsp-blog/)
   - [RSPメンバーのブログ](http://playlog.jp/rsp/blog/)
@@ -110,10 +92,7 @@ Expo 2010的洛杉磯之旅。
   - [船瀬唯のゆいずむ。](http://ameblo.jp/funase-yui/)
   - [船瀬唯×seestarscrew](https://twitter.com/funaseyui)
 
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:2013年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年解散的音樂團體 "wikilink")
-[Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink")
-[Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
+[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:2013年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年解散的音樂團體 "wikilink") [Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
 
 1.
 2.

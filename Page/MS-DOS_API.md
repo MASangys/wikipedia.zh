@@ -1,36 +1,14 @@
-**MS-DOS
-API**最初是中的[应用程序接口](../Page/应用程序接口.md "wikilink")（API），并也被[MS-DOS](../Page/MS-DOS.md "wikilink")/[PC-DOS及其他](../Page/PC-DOS.md "wikilink")[DOS兼容操作系统使用](../Page/DOS.md "wikilink")。大多数对DOS
-API的调用是使用[中斷](../Page/中斷.md "wikilink")21h（ 21h）。在调用INT 21h时，在AH
-[寄存器中带有子函数号](../Page/寄存器.md "wikilink")，其他寄存器中带有其他参数，从而调用各个DOS服务。DOS服务包括键盘输入、视频输入、磁盘文件访问、执行程序、内存分配及其他事务。在1980年代后期，围绕（DPMI）的[DOS扩展器允许程序在](../Page/DOS扩展器.md "wikilink")16位元或32位元的保护模式下运行，并仍可访问DOS
-API。
+**MS-DOS API**最初是中的[应用程序接口](../Page/应用程序接口.md "wikilink")（API），并也被[MS-DOS](../Page/MS-DOS.md "wikilink")/[PC-DOS](../Page/PC-DOS.md "wikilink")及其他[DOS](../Page/DOS.md "wikilink")兼容操作系统使用。大多数对DOS API的调用是使用[中斷](../Page/中斷.md "wikilink")21h（ 21h）。在调用INT 21h时，在AH [寄存器](../Page/寄存器.md "wikilink")中带有子函数号，其他寄存器中带有其他参数，从而调用各个DOS服务。DOS服务包括键盘输入、视频输入、磁盘文件访问、执行程序、内存分配及其他事务。在1980年代后期，围绕（DPMI）的[DOS扩展器](../Page/DOS扩展器.md "wikilink")允许程序在16位元或32位元的保护模式下运行，并仍可访问DOS API。
 
 ## DOS API的历史
 
-在86-DOS和MS-DOS 1.0中的原始DOS
-API在设计上与[CP/M兼容](https://zh.wikipedia.org/wiki/CP/M "wikilink")。文件访问使用（FCB）。在MS-DOS
-2.0中的DOS
-API大大扩展了数个Unix概念，包括使用[文件描述符](../Page/文件描述符.md "wikilink")、[分层目录和设备I](../Page/目录_\(文件系统\).md "wikilink")/O控制的文件访问。\[1\]DOS
-3.1中添加了的支持。MS-DOS 3.31中，INT 25h/26h函数被增强以支持大于32MB的硬盘。MS-DOS
-5添加了使用（UMB）的支持。在MS-DOS 5之后，连续、独立发布的DOS没有改变DOS API。
+在86-DOS和MS-DOS 1.0中的原始DOS API在设计上与[CP/M兼容](https://zh.wikipedia.org/wiki/CP/M "wikilink")。文件访问使用（FCB）。在MS-DOS 2.0中的DOS API大大扩展了数个Unix概念，包括使用[文件描述符](../Page/文件描述符.md "wikilink")、[分层目录和设备I](../Page/目录_\(文件系统\).md "wikilink")/O控制的文件访问。\[1\]DOS 3.1中添加了的支持。MS-DOS 3.31中，INT 25h/26h函数被增强以支持大于32MB的硬盘。MS-DOS 5添加了使用（UMB）的支持。在MS-DOS 5之后，连续、独立发布的DOS没有改变DOS API。
 
 ## DOS API与Windows
 
-在[Windows
-9x](../Page/Windows_9x.md "wikilink")，DOS通常作为引导加载程序加载受保护模式的操作系统和图形外壳。DOS通常从一个（VDM）访问，但也可以不加载Windows而直接启动到真实模式的MS-DOS
-7.0。DOS
-API已增强国际化和[长文件名支持](https://zh.wikipedia.org/wiki/长文件名 "wikilink")，尽管长文件名支持仅在VDM中可用。随着[Windows
-95](../Page/Windows_95.md "wikilink")
-OSR2，DOS被更新到7.1，添加了[FAT32及对其DOS](https://zh.wikipedia.org/wiki/FAT32 "wikilink")
-API的支持。[Windows 98和](../Page/Windows_98.md "wikilink")[Windows
-Me也实现了MS](../Page/Windows_Me.md "wikilink")-DOS 7.1
-API，尽管Windows ME本身自称为MS-DOS 8.0。
+在[Windows 9x](../Page/Windows_9x.md "wikilink")，DOS通常作为引导加载程序加载受保护模式的操作系统和图形外壳。DOS通常从一个（VDM）访问，但也可以不加载Windows而直接启动到真实模式的MS-DOS 7.0。DOS API已增强国际化和[长文件名支持](https://zh.wikipedia.org/wiki/长文件名 "wikilink")，尽管长文件名支持仅在VDM中可用。随着[Windows 95](../Page/Windows_95.md "wikilink") OSR2，DOS被更新到7.1，添加了[FAT32及对其DOS](https://zh.wikipedia.org/wiki/FAT32 "wikilink") API的支持。[Windows 98和](../Page/Windows_98.md "wikilink")[Windows Me也实现了MS](../Page/Windows_Me.md "wikilink")-DOS 7.1 API，尽管Windows ME本身自称为MS-DOS 8.0。
 
-[Windows NT及基于它的系统](../Page/Windows_NT.md "wikilink")（例如[Windows
-XP和](../Page/Windows_XP.md "wikilink")[Windows
-Vista](../Page/Windows_Vista.md "wikilink")）不是基于MS-DOS，但也可使用一个[虛擬機器](../Page/虛擬機器.md "wikilink")——处理DOS
-API。NTVDM将DOS程序在[虚拟8086模式](https://zh.wikipedia.org/wiki/虚拟8086模式 "wikilink")（[Intel
-80386及更高处理器上可在](../Page/Intel_80386.md "wikilink")[保護模式下进行](../Page/保護模式.md "wikilink")[真實模式的仿真](../Page/真實模式.md "wikilink")）模式下运行。NTVDM支持DOS
-5.0 API。面向[Linux的](../Page/Linux.md "wikilink")使用类似的方法。
+[Windows NT及基于它的系统](../Page/Windows_NT.md "wikilink")（例如[Windows XP和](../Page/Windows_XP.md "wikilink")[Windows Vista](../Page/Windows_Vista.md "wikilink")）不是基于MS-DOS，但也可使用一个[虛擬機器](../Page/虛擬機器.md "wikilink")——处理DOS API。NTVDM将DOS程序在[虚拟8086模式](https://zh.wikipedia.org/wiki/虚拟8086模式 "wikilink")（[Intel 80386及更高处理器上可在](../Page/Intel_80386.md "wikilink")[保護模式](../Page/保護模式.md "wikilink")下进行[真實模式](../Page/真實模式.md "wikilink")的仿真）模式下运行。NTVDM支持DOS 5.0 API。面向[Linux](../Page/Linux.md "wikilink")的使用类似的方法。
 
 ## DOS使用的中断向量
 
@@ -708,9 +686,7 @@ API。NTVDM将DOS程序在[虚拟8086模式](https://zh.wikipedia.org/wiki/虚�
 
   - [PC DOS](../Page/PC-DOS.md "wikilink") - MS-DOS的IBM OEM版本
 
-  - [DR-DOS](../Page/DR-DOS.md "wikilink") -
-    数字研究DOS系列，包括[DR-DOS](../Page/DR-DOS.md "wikilink")、[DR-DOS](../Page/DR-DOS.md "wikilink"),
-    [DR-DOS等](../Page/DR-DOS.md "wikilink")。
+  - [DR-DOS](../Page/DR-DOS.md "wikilink") - 数字研究DOS系列，包括[DR-DOS](../Page/DR-DOS.md "wikilink")、[DR-DOS](../Page/DR-DOS.md "wikilink"), [DR-DOS](../Page/DR-DOS.md "wikilink")等。
 
   - \- PhysTechSoft和Paragon DOS克隆，包括
 
@@ -718,7 +694,7 @@ API。NTVDM将DOS程序在[虚拟8086模式](https://zh.wikipedia.org/wiki/虚�
 
   - [FreeDOS](../Page/FreeDOS.md "wikilink") - 自由、开源的DOS克隆
 
-  - [ReactOS](https://zh.wikipedia.org/wiki/ReactOS "wikilink")（[IA-32和](https://zh.wikipedia.org/wiki/IA-32 "wikilink")[X86-64版本](../Page/X86-64.md "wikilink")）
+  - [ReactOS](https://zh.wikipedia.org/wiki/ReactOS "wikilink")（[IA-32和](https://zh.wikipedia.org/wiki/IA-32 "wikilink")[X86-64](../Page/X86-64.md "wikilink")版本）
 
   - [Windows 95](../Page/Windows_95.md "wikilink") - 包含MS-DOS 7.0
 
@@ -742,7 +718,7 @@ API。NTVDM将DOS程序在[虚拟8086模式](https://zh.wikipedia.org/wiki/虚�
 
   - 用于[Windows NT的](../Page/Windows_NT.md "wikilink")
 
-  - 用于[Linux的](../Page/Linux.md "wikilink")
+  - 用于[Linux](../Page/Linux.md "wikilink")的
 
   - [DOSBox](../Page/DOSBox.md "wikilink")
 
@@ -759,39 +735,25 @@ API。NTVDM将DOS程序在[虚拟8086模式](https://zh.wikipedia.org/wiki/虚�
 
 ## 参考资料
 
-  - [The x86 Interrupt List](http://www.cs.cmu.edu/~ralf/files.html)
-    (a.k.a. RBIL, Ralf Brown's Interrupt List)
+  - [The x86 Interrupt List](http://www.cs.cmu.edu/~ralf/files.html) (a.k.a. RBIL, Ralf Brown's Interrupt List)
 
-  - [ctyme.com - INT Calls by
-    function](http://www.ctyme.com/intr/cat-010.htm)
+  - [ctyme.com - INT Calls by function](http://www.ctyme.com/intr/cat-010.htm)
 
-  - [wustl.edu - Description of MS-DOS
-    services](https://web.archive.org/web/20020622163518/http://www.arl.wustl.edu/~lockwood/class/cs306/books/artofasm/toc.html)
+  - [wustl.edu - Description of MS-DOS services](https://web.archive.org/web/20020622163518/http://www.arl.wustl.edu/~lockwood/class/cs306/books/artofasm/toc.html)
 
-  - *Microsoft MS-DOS Programmer's Reference - The Official Technical
-    Reference to MS-DOS*, Microsoft Press, 1993 ISBN 1556155468
+  - *Microsoft MS-DOS Programmer's Reference - The Official Technical Reference to MS-DOS*, Microsoft Press, 1993 ISBN 1556155468
 
   - *The MS-DOS Encyclopedia*, Microsoft Press, 1988, ISBN 1556151748
 
   -
-  - *The Programmer's PC Sourcebook* by Thom Hogan, Microsoft Press,
-    1991 ISBN 155615321X
+  - *The Programmer's PC Sourcebook* by Thom Hogan, Microsoft Press, 1991 ISBN 155615321X
 
-  - *The New Peter Norton Programmer's Guide to the IBM PC & PS/2* by
-    Peter Norton and Richard Wilton, Microsoft Press, 1987 ISBN
-    1-55615-131-4.
+  - *The New Peter Norton Programmer's Guide to the IBM PC & PS/2* by Peter Norton and Richard Wilton, Microsoft Press, 1987 ISBN 1-55615-131-4.
 
-  - [IBM PC DOS 7 Technical
-    Update](https://web.archive.org/web/20060721115437/http://www.redbooks.ibm.com/redbooks/pdfs/gg244459.pdf)
+  - [IBM PC DOS 7 Technical Update](https://web.archive.org/web/20060721115437/http://www.redbooks.ibm.com/redbooks/pdfs/gg244459.pdf)
 
-  - Caldera, Inc. (1997). *OpenDOS Developer's Reference Series —
-    OpenDOS Programmer's Guide — System and Programmer's Guide*. Printed
-    in the UK, August 1997. Caldera Part No. 200-DOPG-003
-    ([1](https://web.archive.org/web/20120625021802/http://www.drdos.net/documentation/sysprog/httoc.htm)).
+  - Caldera, Inc. (1997). *OpenDOS Developer's Reference Series — OpenDOS Programmer's Guide — System and Programmer's Guide*. Printed in the UK, August 1997. Caldera Part No. 200-DOPG-003 ([1](https://web.archive.org/web/20120625021802/http://www.drdos.net/documentation/sysprog/httoc.htm)).
 
-[Category:DOS技术](https://zh.wikipedia.org/wiki/Category:DOS技术 "wikilink")
-[Category:操作系统API](https://zh.wikipedia.org/wiki/Category:操作系统API "wikilink")
-[Category:X86架構](https://zh.wikipedia.org/wiki/Category:X86架構 "wikilink")
-[Category:中断](https://zh.wikipedia.org/wiki/Category:中断 "wikilink")
+[Category:DOS技术](https://zh.wikipedia.org/wiki/Category:DOS技术 "wikilink") [Category:操作系统API](https://zh.wikipedia.org/wiki/Category:操作系统API "wikilink") [Category:X86架構](https://zh.wikipedia.org/wiki/Category:X86架構 "wikilink") [Category:中断](https://zh.wikipedia.org/wiki/Category:中断 "wikilink")
 
 1.

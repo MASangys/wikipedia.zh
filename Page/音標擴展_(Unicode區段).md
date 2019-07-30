@@ -1,4 +1,4 @@
-**音標擴展**是一個[Unicode區段](../Page/Unicode區段.md "wikilink")，收錄了、[古愛爾蘭語標音符號](../Page/古愛爾蘭語.md "wikilink")、、俄式標音系統、[牛津英語詞典](../Page/牛津英語詞典.md "wikilink")、[韋伯字典等所使用的音標](https://zh.wikipedia.org/wiki/韋伯字典 "wikilink")。
+**音標擴展**是一個[Unicode區段](../Page/Unicode區段.md "wikilink")，收錄了、[古愛爾蘭語](../Page/古愛爾蘭語.md "wikilink")標音符號、、俄式標音系統、[牛津英語詞典](../Page/牛津英語詞典.md "wikilink")、[韋伯字典等所使用的音標](https://zh.wikipedia.org/wiki/韋伯字典 "wikilink")。
 
 ## 區段
 

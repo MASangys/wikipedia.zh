@@ -1,5 +1,4 @@
-**TAKE**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CI
-ENT](https://zh.wikipedia.org/wiki/CI_ENT "wikilink")\[1\]公司旗下的五人男子组合。时隔12年，TAKE以二人组合回归\[2\]。
+**TAKE**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CI ENT](https://zh.wikipedia.org/wiki/CI_ENT "wikilink")\[1\]公司旗下的五人男子组合。时隔12年，TAKE以二人组合回归\[2\]。
 
 ## 成員列表
 
@@ -182,15 +181,13 @@ ENT](https://zh.wikipedia.org/wiki/CI_ENT "wikilink")\[1\]公司旗下的五人�
 
 ## 外部連結
 
-  - TAKE
-    [官方Facebook](https://www.facebook.com/TAKE-%ED%85%8C%EC%9D%B4%ED%81%AC-163918537063922/)
+  - TAKE [官方Facebook](https://www.facebook.com/TAKE-%ED%85%8C%EC%9D%B4%ED%81%AC-163918537063922/)
 
   - [Melon专页](http://www.melon.com/artist/timeline.htm?artistId=105789)
 
   - [iTunes专页](https://itunes.apple.com/us/artist/take/id338523246)
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink")
 
 1.  CI Entertainment 官方Facebook <https://www.facebook.com/CIENT.Co/>
 2.

@@ -1,8 +1,6 @@
-《**Gossip Girls**》為台灣女子團體[Popu
-Lady的第四張音樂寫真](../Page/Popu_Lady.md "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。
+《**Gossip Girls**》為台灣女子團體[Popu Lady的第四張音樂寫真](../Page/Popu_Lady.md "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。
 
-專輯當中有打破前三張特有的電子舞曲，如：【Popu
-OK繃】－此歌曲由[MP魔幻力量](../Page/MP魔幻力量.md "wikilink")[DJ鼓鼓操刀](https://zh.wikipedia.org/wiki/DJ "wikilink")，也有他們首次嘗試的悲傷深情歌曲，如：【我不要】－此歌曲首次由韓國音樂製作人操刀。
+專輯當中有打破前三張特有的電子舞曲，如：【Popu OK繃】－此歌曲由[MP魔幻力量](../Page/MP魔幻力量.md "wikilink")[DJ鼓鼓操刀](https://zh.wikipedia.org/wiki/DJ "wikilink")，也有他們首次嘗試的悲傷深情歌曲，如：【我不要】－此歌曲首次由韓國音樂製作人操刀。
 
 其中以符合專輯概念的【花邊女孩】，結合電子音樂和古典交響樂，以小調版[天鵝湖](https://zh.wikipedia.org/wiki/天鵝湖 "wikilink")，以及[修羅場概念式歌詞](https://zh.wikipedia.org/wiki/修羅場 "wikilink")，唱出女孩為了爭寵而勾心鬥角的情境。
 
@@ -53,6 +51,4 @@ OK繃】－此歌曲由[MP魔幻力量](../Page/MP魔幻力量.md "wikilink")[DJ
 
 <references/>
 
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:台灣音樂迷你專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂迷你專輯 "wikilink")
-[Category:Popu_Lady](https://zh.wikipedia.org/wiki/Category:Popu_Lady "wikilink")
+[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:台灣音樂迷你專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂迷你專輯 "wikilink") [Category:Popu_Lady](https://zh.wikipedia.org/wiki/Category:Popu_Lady "wikilink")

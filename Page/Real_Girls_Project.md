@@ -1,8 +1,6 @@
-**Real Girls
-Project**（，简称：**R.G.P**），因韓國電視劇《[偶像大師.KR-追逐夢想](../Page/偶像大師.KR.md "wikilink")》於2016年8月成立的韓國十人女子企劃組合，推出時成員包括[素麗](https://zh.wikipedia.org/wiki/CocoSori#成员档案 "wikilink")、[憐朱](../Page/許憐朱.md "wikilink")、[來可](../Page/寺本來可.md "wikilink")、蕸書、智元、[Mint](https://zh.wikipedia.org/wiki/Tiny-G#成员资料 "wikilink")、何奈星、睿恩、[秀智](../Page/李绣至.md "wikilink")、[載寅](https://zh.wikipedia.org/wiki/載寅_\(1999年\) "wikilink")。隊長為憐朱。
+**Real Girls Project**（，简称：**R.G.P**），因韓國電視劇《[偶像大師.KR](../Page/偶像大師.KR.md "wikilink")-追逐夢想》於2016年8月成立的韓國十人女子企劃組合，推出時成員包括[素麗](https://zh.wikipedia.org/wiki/CocoSori#成员档案 "wikilink")、[憐朱](../Page/許憐朱.md "wikilink")、[來可](../Page/寺本來可.md "wikilink")、蕸書、智元、[Mint](https://zh.wikipedia.org/wiki/Tiny-G#成员资料 "wikilink")、何奈星、睿恩、[秀智](../Page/李绣至.md "wikilink")、[載寅](https://zh.wikipedia.org/wiki/載寅_\(1999年\) "wikilink")。隊長為憐朱。
 
-2016年8月25日，推出首張單曲《Dream》在[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》出道。
+2016年8月25日，推出首張單曲《Dream》在[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》出道。
 
 2016年10月13日，成員何奈星因腳傷而退出組合，由智瑟加入。
 
@@ -14,33 +12,21 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》出道。
 
 ### 出道前
 
-2006年，成員**来可**在日本作爲nicola的專屬模特活動。之後2009年在[I'm
-Enterprise作爲聲優直到](../Page/I'm_Enterprise.md "wikilink")2011年12月28日宣佈專心學業退出公司。
+2006年，成員**来可**在日本作爲nicola的專屬模特活動。之後2009年在[I'm Enterprise作爲聲優直到](../Page/I'm_Enterprise.md "wikilink")2011年12月28日宣佈專心學業退出公司。
 
-2012年8月23日，成員**Mint**作爲[Tiny-G其中一員出道](../Page/Tiny-G.md "wikilink")，該組合于2015年解散。
+2012年8月23日，成員**Mint**作爲[Tiny-G](../Page/Tiny-G.md "wikilink")其中一員出道，該組合于2015年解散。
 
-2012年11月12日，成員**憐朱**作爲[The
-SeeYa其中一員出道](../Page/The_SeeYa.md "wikilink")，該組合于2015年解散。
+2012年11月12日，成員**憐朱**作爲[The SeeYa其中一員出道](../Page/The_SeeYa.md "wikilink")，該組合于2015年解散。
 
-2015年4月12日，成員**秀智**和**載寅**作爲[THE
-ARK成員出道](../Page/THE_ARK.md "wikilink")，該組合于2016年無故解散。當中**HALLA**為**秀智**的舊藝名。
+2015年4月12日，成員**秀智**和**載寅**作爲[THE ARK成員出道](../Page/THE_ARK.md "wikilink")，該組合于2016年無故解散。當中**HALLA**為**秀智**的舊藝名。
 
-2016年1月5日，成員**素麗**作爲[CocoSori一員出道](../Page/CocoSori.md "wikilink")。
+2016年1月5日，成員**素麗**作爲[CocoSori](../Page/CocoSori.md "wikilink")一員出道。
 
 ### 出道后
 
-2016年8月24日，公開新曲《Dream》的音源\[1\]。初舞臺為[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》。隨即在《[THE
-SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》、[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》表演。9月，在弘大舉辦街頭表演。
+2016年8月24日，公開新曲《Dream》的音源\[1\]。初舞臺為[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》。隨即在《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》、[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》表演。9月，在弘大舉辦街頭表演。
 
-2017年3月30日，小分隊組合**B-Side**成立，由素麗、來可、智元、睿恩、智瑟組成。4月7日，到日本舉辦《THE
-IDOLM@STER.KR 1st ST@GE in Japan》，並推出第一張音樂專輯《THE IDOLM@STER MUSIC
-Episode
-1》\[2\]。4月28日，其主演的電視劇《[偶像大師.KR](../Page/偶像大師.KR.md "wikilink")》在SBS
-FunE 首播\[3\]。7月23日，小分隊組合**Real Girls
-Project**成立，由Sori、來可、智元、睿恩、秀智組成\[4\]。7月30日，举办组合第一次粉丝见面会。8月20日，將到日本舉辦《THE
-IDOLM@STER.KR 2nd ST@GE in Japan》。年末，部分成员参加[The
-Unit和](../Page/The_Unit.md "wikilink")[MIXNINE综艺选秀节目](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")。
+2017年3月30日，小分隊組合**B-Side**成立，由素麗、來可、智元、睿恩、智瑟組成。4月7日，到日本舉辦《THE IDOLM@STER.KR 1st ST@GE in Japan》，並推出第一張音樂專輯《THE IDOLM@STER MUSIC Episode 1》\[2\]。4月28日，其主演的電視劇《[偶像大師.KR](../Page/偶像大師.KR.md "wikilink")》在SBS FunE 首播\[3\]。7月23日，小分隊組合**Real Girls Project**成立，由Sori、來可、智元、睿恩、秀智組成\[4\]。7月30日，举办组合第一次粉丝见面会。8月20日，將到日本舉辦《THE IDOLM@STER.KR 2nd ST@GE in Japan》。年末，部分成员参加[The Unit和](../Page/The_Unit.md "wikilink")[MIXNINE综艺选秀节目](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")。
 
 ## 成員資料
 
@@ -100,9 +86,7 @@ Unit和](../Page/The_Unit.md "wikilink")[MIXNINE综艺选秀节目](https://zh.w
 
 ## 音樂作品
 
-  - 個別成員的音樂作品，請參考成員的條目：[CocoSori](../Page/CocoSori.md "wikilink")、[The
-    SeeYa](../Page/The_SeeYa.md "wikilink")、[Tiny-G](../Page/Tiny-G.md "wikilink")、[THE
-    ARK](../Page/THE_ARK.md "wikilink")。
+  - 個別成員的音樂作品，請參考成員的條目：[CocoSori](../Page/CocoSori.md "wikilink")、[The SeeYa](../Page/The_SeeYa.md "wikilink")、[Tiny-G](../Page/Tiny-G.md "wikilink")、[THE ARK](../Page/THE_ARK.md "wikilink")。
 
 ### 数位单曲
 
@@ -447,18 +431,12 @@ Unit和](../Page/The_Unit.md "wikilink")[MIXNINE综艺选秀节目](https://zh.w
   -
   - [The IDOLM@STER.KR官方網站](http://www.idolmaster-kr.com/)
 
-[Category:Real_Girls_Project](https://zh.wikipedia.org/wiki/Category:Real_Girls_Project "wikilink")
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
+[Category:Real_Girls_Project](https://zh.wikipedia.org/wiki/Category:Real_Girls_Project "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 
 1.
 2.
 3.
 4.
 5.  [IDOLMASTER_KR_OFFICIAL在微博正名](http://tw.weibo.com/idolmasterkr/4040234914609224)
-
 6.  [IDOLMASTER_KR_OFFICIAL在有關何奈星退出微博帖文中為何奈星、智瑟正名](http://tw.weibo.com/idolmasterkr/4042785113760716)
-7.  [Real Girls Project四位成員出賽The
-    Unit](http://m.entertain.naver.com/read?oid=108&aid=0002646277)
+7.  [Real Girls Project四位成員出賽The Unit](http://m.entertain.naver.com/read?oid=108&aid=0002646277)

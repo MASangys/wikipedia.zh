@@ -1,14 +1,12 @@
-**尼斯CP站**（），全名为**尼斯-普罗旺斯铁路站**（）。尼斯CP站是法国南部的一个地方性火车站，也是法国著名的米轨铁路（Voie
-Métrique）[尼斯－迪涅铁路的起点站](https://zh.wikipedia.org/wiki/尼斯－迪涅铁路 "wikilink")。
+**尼斯CP站**（），全名为**尼斯-普罗旺斯铁路站**（）。尼斯CP站是法国南部的一个地方性火车站，也是法国著名的米轨铁路（Voie Métrique）[尼斯－迪涅铁路的起点站](https://zh.wikipedia.org/wiki/尼斯－迪涅铁路 "wikilink")。
 
 ## 位置
 
-尼斯CP站位于[尼斯市区北部](../Page/尼斯.md "wikilink")，距离[尼斯站北侧大约](../Page/尼斯城站.md "wikilink")400米。尼斯CP站是一个尽头式车站，列车只能从西侧进出车站。
+尼斯CP站位于[尼斯](../Page/尼斯.md "wikilink")市区北部，距离[尼斯站北侧大约](../Page/尼斯城站.md "wikilink")400米。尼斯CP站是一个尽头式车站，列车只能从西侧进出车站。
 
 ## 车站历史
 
-尼斯CP站建于1991年，在此之前，[尼斯-迪涅铁路的起点站是与之相邻的火车南站](https://zh.wikipedia.org/wiki/尼斯-迪涅铁路 "wikilink")（Gare
-du Sud），后者已于2013年改建成为了一个博物馆。
+尼斯CP站建于1991年，在此之前，[尼斯-迪涅铁路的起点站是与之相邻的火车南站](https://zh.wikipedia.org/wiki/尼斯-迪涅铁路 "wikilink")（Gare du Sud），后者已于2013年改建成为了一个博物馆。
 
 ## 线路
 
@@ -47,8 +45,7 @@ du Sud），后者已于2013年改建成为了一个博物馆。
 
 尼斯CP站对应的大巴车上下车地点位于车站前方。当铁路线施工或罢工时，可能会提供途径该线路沿途站点的大巴车。
 
-事实上，从尼斯前往[迪涅莱班](https://zh.wikipedia.org/wiki/迪涅莱班 "wikilink")，也可乘坐由LER（即TER
-Provence Côte d'Azur提供的大巴车），后者从尼斯汽车站（Gare Routière）出发，全程大约需要3小时10分钟。
+事实上，从尼斯前往[迪涅莱班](https://zh.wikipedia.org/wiki/迪涅莱班 "wikilink")，也可乘坐由LER（即TER Provence Côte d'Azur提供的大巴车），后者从尼斯汽车站（Gare Routière）出发，全程大约需要3小时10分钟。
 
 ## 市内交通
 
@@ -56,8 +53,7 @@ Provence Côte d'Azur提供的大巴车），后者从尼斯汽车站（Gare Rou
 
 ## 前往[尼斯站](../Page/尼斯城站.md "wikilink")
 
-尼斯CP站距离[尼斯站](https://zh.wikipedia.org/wiki/尼斯站 "wikilink")（）大约500米，步行不超过10分钟。也可乘坐尼斯有轨电车1号线，在Gare
-Thiers站下车即可。
+尼斯CP站距离[尼斯站](https://zh.wikipedia.org/wiki/尼斯站 "wikilink")（）大约500米，步行不超过10分钟。也可乘坐尼斯有轨电车1号线，在Gare Thiers站下车即可。
 
 ## 临近车站
 

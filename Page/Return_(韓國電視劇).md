@@ -1,5 +1,4 @@
-[Return_SBS.png](https://zh.wikipedia.org/wiki/File:Return_SBS.png "fig:Return_SBS.png")
-《**Return**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2018年1月17日起播出的[特別劇](../Page/SBS特別劇.md "wikilink")，由《[誕生吧！家族](../Page/誕生吧！家族.md "wikilink")》[朱東民導演與](../Page/朱東民.md "wikilink")《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink")》崔景美作家合作打造。此劇講述萬年土湯匙律師和因丈夫成為殺人嫌疑犯導致工作中斷的律師，共同辯護而展開的法庭的故事。\[1\]
+[Return_SBS.png](https://zh.wikipedia.org/wiki/File:Return_SBS.png "fig:Return_SBS.png") 《**Return**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2018年1月17日起播出的[特別劇](../Page/SBS特別劇.md "wikilink")，由《[誕生吧！家族](../Page/誕生吧！家族.md "wikilink")》[朱東民](../Page/朱東民.md "wikilink")導演與《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink")》崔景美作家合作打造。此劇講述萬年土湯匙律師和因丈夫成為殺人嫌疑犯導致工作中斷的律師，共同辯護而展開的法庭的故事。\[1\]
 
 ## 演員陣容
 
@@ -561,12 +560,9 @@
 
 ## 同時段競爭作品
 
-  - [KBS](../Page/韓國放送公社.md "wikilink")
-    [水木連續劇](../Page/KBS水木連續劇.md "wikilink")：《[黑騎士](../Page/黑騎士_\(韓國電視劇\).md "wikilink")》、《[推理的女王2](../Page/推理的女王2.md "wikilink")》
-  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")
-    [水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")：《[不是機械人啊](https://zh.wikipedia.org/wiki/不是機械人啊 "wikilink")》、《[白色巨塔](../Page/白色巨塔_\(2007年韓劇\).md "wikilink")》（重播）、《[絕頂](../Page/絕頂_\(電視劇\).md "wikilink")》（重播）、《[牽著手，看夕陽西下](../Page/牽著手，看夕陽西下.md "wikilink")》
-  - [tvN](../Page/TVN.md "wikilink")
-    [水木連續劇](../Page/TvN水木連續劇.md "wikilink")：《[機智牢房生活](../Page/機智牢房生活.md "wikilink")》、《[Mother](../Page/Mother_\(韓國電視劇\).md "wikilink")》、《[我的大叔](../Page/我的大叔.md "wikilink")》
+  - [KBS](../Page/韓國放送公社.md "wikilink") [水木連續劇](../Page/KBS水木連續劇.md "wikilink")：《[黑騎士](../Page/黑騎士_\(韓國電視劇\).md "wikilink")》、《[推理的女王2](../Page/推理的女王2.md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") [水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")：《[不是機械人啊](https://zh.wikipedia.org/wiki/不是機械人啊 "wikilink")》、《[白色巨塔](../Page/白色巨塔_\(2007年韓劇\).md "wikilink")》（重播）、《[絕頂](../Page/絕頂_\(電視劇\).md "wikilink")》（重播）、《[牽著手，看夕陽西下](../Page/牽著手，看夕陽西下.md "wikilink")》
+  - [tvN](../Page/TVN.md "wikilink") [水木連續劇](../Page/TvN水木連續劇.md "wikilink")：《[機智牢房生活](../Page/機智牢房生活.md "wikilink")》、《[Mother](../Page/Mother_\(韓國電視劇\).md "wikilink")》、《[我的大叔](../Page/我的大叔.md "wikilink")》
 
 ## 記事
 
@@ -581,17 +577,11 @@
   - [韓國SBS官方網站](http://programs.sbs.co.kr/drama/return/)
   - [RETURN-NAVER](https://m.search.naver.com/search.naver?sm=mtb_hty.top&where=m&query=%EB%A6%AC%ED%84%B4&oquery=%EB%A1%9C%EB%B4%87%EC%9D%B4+%EC%95%84%EB%8B%88%EC%95%BC&tqi=TECRKdpVuposst%2FyS18ssssssKo-484421)
 
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:韓國律政劇](https://zh.wikipedia.org/wiki/Category:韓國律政劇 "wikilink")
-[Category:律師題材電視劇](https://zh.wikipedia.org/wiki/Category:律師題材電視劇 "wikilink")
-[Category:虛構電視節目](https://zh.wikipedia.org/wiki/Category:虛構電視節目 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:韓國律政劇](https://zh.wikipedia.org/wiki/Category:韓國律政劇 "wikilink") [Category:律師題材電視劇](https://zh.wikipedia.org/wiki/Category:律師題材電視劇 "wikilink") [Category:虛構電視節目](https://zh.wikipedia.org/wiki/Category:虛構電視節目 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
-1.  [李陣郁有望出演SBS新水木劇
-    《Return》男主角　回歸小螢幕](http://www.koreastardaily.com/tc/news/99647)
+1.  [李陣郁有望出演SBS新水木劇 《Return》男主角　回歸小螢幕](http://www.koreastardaily.com/tc/news/99647)
 
-2.  [15集 高賢廷→16集 朴真熙...'Return' 14日放送
-    '2人1角'](http://entertain.naver.com/ranking/read?oid=076&aid=0003214905)
+2.  [15集 高賢廷→16集 朴真熙...'Return' 14日放送 '2人1角'](http://entertain.naver.com/ranking/read?oid=076&aid=0003214905)
 
 3.  第33集離婚申請書上的漢名字為「吳太錫」
 

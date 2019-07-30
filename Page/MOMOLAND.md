@@ -1,52 +1,34 @@
-**MOMOLAND**（），是（前稱Dublekick
-Company）於2016年透過與[Mnet合作的練習生競爭節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")[《SURVIVAL
-MOMOLAND를
-찾아서》選出的女子演唱團體](../Page/尋找MOMOLAND.md "wikilink")，由10位少女在節目中挑戰不同任務，爭取出道機會，最終選出
-[慧彬](../Page/慧彬.md "wikilink")、[Nancy](../Page/南希·麥多尼.md "wikilink")、、[娜允](https://zh.wikipedia.org/wiki/娜允 "wikilink")、[妸仁](https://zh.wikipedia.org/wiki/妸仁 "wikilink")、[珠伊](../Page/JooE.md "wikilink")、JANE
-七名成員。
+**MOMOLAND**（），是（前稱Dublekick Company）於2016年透過與[Mnet合作的練習生競爭節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")[《SURVIVAL MOMOLAND를 찾아서》選出的女子演唱團體](../Page/尋找MOMOLAND.md "wikilink")，由10位少女在節目中挑戰不同任務，爭取出道機會，最終選出 [慧彬](../Page/慧彬.md "wikilink")、[Nancy](../Page/南希·麥多尼.md "wikilink")、、[娜允](https://zh.wikipedia.org/wiki/娜允 "wikilink")、[妸仁](https://zh.wikipedia.org/wiki/妸仁 "wikilink")、[珠伊](../Page/JooE.md "wikilink")、JANE 七名成員。
 
-2017年3月28日，加入在[《SURVIVAL MOMOLAND를
-찾아서》落選](../Page/尋找MOMOLAND.md "wikilink")，[JYP娛樂練習生出身的DAISY](../Page/JYP娛樂.md "wikilink")。
+2017年3月28日，加入在[《SURVIVAL MOMOLAND를 찾아서》落選](../Page/尋找MOMOLAND.md "wikilink")，[JYP娛樂](../Page/JYP娛樂.md "wikilink")練習生出身的DAISY。
 
-2017年4月10日，加入[PRODUCE
-101](../Page/PRODUCE_101.md "wikilink")、[STARSHIP娛樂練習生](../Page/STARSHIP娛樂.md "wikilink")、[宇宙少女預備成員出身的](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")（[JYJ成員](../Page/JYJ.md "wikilink")[金俊秀的堂妹](../Page/金俊秀.md "wikilink")）。
+2017年4月10日，加入[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")、[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")練習生、[宇宙少女預備成員出身的](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")（[JYJ](../Page/JYJ.md "wikilink")成員[金俊秀](../Page/金俊秀.md "wikilink")的堂妹）。
 
-MOMOLAND在打招呼時會說"Get your
-ticket\!"，可知MOMOLAND團名的含意是一座遊樂園。粉絲名為"'''Merry-go-round
-/ Merry '''"，意旨MOMOLAND就像旋轉木馬一樣老少咸宜。\[1\]
+MOMOLAND在打招呼時會說"Get your ticket\!"，可知MOMOLAND團名的含意是一座遊樂園。粉絲名為"'''Merry-go-round / Merry '''"，意旨MOMOLAND就像旋轉木馬一樣老少咸宜。\[1\]
 
 ## 經歷
 
 ### 出道前
 
-2016年8月26日，在Mnet出道生存實境節目[《SURVIVAL MOMOLAND를
-찾아서》中未能完成最終任務](../Page/尋找MOMOLAND.md "wikilink")，10位練習生在「聚集三千人」的最終任務中未能成功，現場只有約2,300多位市民參與，確定延後出道。
+2016年8月26日，在Mnet出道生存實境節目[《SURVIVAL MOMOLAND를 찾아서》中未能完成最終任務](../Page/尋找MOMOLAND.md "wikilink")，10位練習生在「聚集三千人」的最終任務中未能成功，現場只有約2,300多位市民參與，確定延後出道。
 
 ### 2016年：出道、《Welcome to MOMOLAND》
 
-11月2日，透過官方YouTube頻道、官方Facebook釋出專輯《Welcome to
-MOMOLAND》的成員個人與團體動態概念照\[2\]。
+11月2日，透過官方YouTube頻道、官方Facebook釋出專輯《Welcome to MOMOLAND》的成員個人與團體動態概念照\[2\]。
 
-11月3日，官方Facebook公開曲目表，出道曲〈JJan\! Koong\! Kwang\!(짠쿵쾅)〉由二段橫踢、Tenzo 與
-Tasco、SEION…等作曲家合力製作\[3\]。
+11月3日，官方Facebook公開曲目表，出道曲〈JJan\! Koong\! Kwang\!(짠쿵쾅)〉由二段橫踢、Tenzo 與 Tasco、SEION…等作曲家合力製作\[3\]。
 
-11月4日，官方 YouTube 頻道公開主打歌〈JJan\! Koong\! Kwang\!(짠쿵쾅)〉MV
-預告。11月7日，官方YouTube頻道公開七位成員的個人預告\[4\]。
+11月4日，官方 YouTube 頻道公開主打歌〈JJan\! Koong\! Kwang\!(짠쿵쾅)〉MV 預告。11月7日，官方YouTube頻道公開七位成員的個人預告\[4\]。
 
-11月10日，發行出道專輯《Welcome to MOMOLAND》，並透過官方YouTube頻道公開主打歌〈JJan\! Koong\!
-Kwang\!(짠쿵쾅)〉MV\[5\]。
+11月10日，發行出道專輯《Welcome to MOMOLAND》，並透過官方YouTube頻道公開主打歌〈JJan\! Koong\! Kwang\!(짠쿵쾅)〉MV\[5\]。
 
-12月21日，所屬公司Dublekick
-Company發表聲明，因受傷無限期暫休，接下來這段日子MOMOLAND將以六人團體形式持續活動\[6\]。
+12月21日，所屬公司Dublekick Company發表聲明，因受傷無限期暫休，接下來這段日子MOMOLAND將以六人團體形式持續活動\[6\]。
 
 ### 2017年：加入新成員、《Wonderful love》、《Freeze\!》
 
-3月28日，加入一起參與[《SURVIVAL MOMOLAND를
-찾아서》出道節目](../Page/尋找MOMOLAND.md "wikilink")，曾是[JYP娛樂練習生的DAISY](../Page/JYP娛樂.md "wikilink")\[7\]。DAISY直到11歲都在加拿大溫哥華生活，有良好的外語及芭蕾舞實力。
+3月28日，加入一起參與[《SURVIVAL MOMOLAND를 찾아서》出道節目](../Page/尋找MOMOLAND.md "wikilink")，曾是[JYP娛樂](../Page/JYP娛樂.md "wikilink")練習生的DAISY\[7\]。DAISY直到11歲都在加拿大溫哥華生活，有良好的外語及芭蕾舞實力。
 
-4月10日，再加入[PRODUCE
-101](../Page/PRODUCE_101.md "wikilink")、[STARSHIP娛樂練習生](../Page/STARSHIP娛樂.md "wikilink")、[宇宙少女預備成員出身的](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，也預計在26日發行全新單曲《非常非常
-(어마어마해)》。
+4月10日，再加入[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")、[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")練習生、[宇宙少女預備成員出身的](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，也預計在26日發行全新單曲《非常非常 (어마어마해)》。
 
 4月17日，陸續公開成員的個人概念照。
 
@@ -60,67 +42,45 @@ Company發表聲明，因受傷無限期暫休，接下來這段日子MOMOLAND�
 
 8月22日，透過官方YouTube頻道公開《Freeze(꼼짝마)》MV。
 
-12月11日，透過官方Facebook發佈成員們的個人概念照，經紀公司Dublekick
-Company表示MOMOLAND將於2018年1月3日發表新專輯。
+12月11日，透過官方Facebook發佈成員們的個人概念照，經紀公司Dublekick Company表示MOMOLAND將於2018年1月3日發表新專輯。
 
-12月22日，透過官方Facebook公開曲目表。專輯共收錄六首歌曲，主打歌《BBoom BBoom (뿜뿜)》由曾為
-EXID、Apink、VIXX、T-ara
-等大勢團體寫過多首熱門曲的新沙洞老虎作詞、作曲，歌詞描寫女孩想要盡全力在喜歡的男生面前展現自己的魅力。
+12月22日，透過官方Facebook公開曲目表。專輯共收錄六首歌曲，主打歌《BBoom BBoom (뿜뿜)》由曾為 EXID、Apink、VIXX、T-ara 等大勢團體寫過多首熱門曲的新沙洞老虎作詞、作曲，歌詞描寫女孩想要盡全力在喜歡的男生面前展現自己的魅力。
 
-12月26日至29日，透過官方Facebook發佈各成員宣傳影片及《BBoom BBoom (뿜뿜)》MV
-teaser。後引發抄襲俄羅斯女團Serebro為電影《SPY》獻唱的OST《Mi Mi
-Mi》之爭議，經原作者新沙洞老虎出面否認。
+12月26日至29日，透過官方Facebook發佈各成員宣傳影片及《BBoom BBoom (뿜뿜)》MV teaser。後引發抄襲俄羅斯女團Serebro為電影《SPY》獻唱的OST《Mi Mi Mi》之爭議，經原作者新沙洞老虎出面否認。
 
 ### 2018年：《GREAT\!》、七個一位、MV破億、《Fun to the World》、娜允暫停活動
 
-1月3日，發表第三張迷你專輯《GREAT\!》回歸，並舉辦回歸Showcase、主打歌《BBoom BBoom
-(뿜뿜)》首度進入各大音源排行榜的前100名\[8\]。
+1月3日，發表第三張迷你專輯《GREAT\!》回歸，並舉辦回歸Showcase、主打歌《BBoom BBoom (뿜뿜)》首度進入各大音源排行榜的前100名\[8\]。
 
-1月11日，《[BBoom BBoom](../Page/BBoom_BBoom.md "wikilink") (뿜뿜)》一曲於《[M
-Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》獲得出道以來首個一位後，主打歌《BBoom
-BBoom (뿜뿜)》音源開始逆行。1月26日，《BBoom BBoom (뿜뿜)》進入美國本周「World Digital Song Sale
-Chart」的第四位，Billboard更是以「意想不到的成長」大篇幅地介紹了她們的這首新歌，力贊「
-這首歌是該女團首個登上Billboard榜單的歌曲，對於之後的歌曲來說也是一個好兆頭」\[9\]。
+1月11日，《[BBoom BBoom](../Page/BBoom_BBoom.md "wikilink") (뿜뿜)》一曲於《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》獲得出道以來首個一位後，主打歌《BBoom BBoom (뿜뿜)》音源開始逆行。1月26日，《BBoom BBoom (뿜뿜)》進入美國本周「World Digital Song Sale Chart」的第四位，Billboard更是以「意想不到的成長」大篇幅地介紹了她們的這首新歌，力贊「 這首歌是該女團首個登上Billboard榜單的歌曲，對於之後的歌曲來說也是一個好兆頭」\[9\]。
 
-1月31日，為紀念《BBoom BBoom (뿜뿜)》的MV播放量突破1500萬，於2月3日於盆塘AK
-PLAZA舉行游擊迷你演唱會\[10\]。
+1月31日，為紀念《BBoom BBoom (뿜뿜)》的MV播放量突破1500萬，於2月3日於盆塘AK PLAZA舉行游擊迷你演唱會\[10\]。
 
-4月23日，《BBoom BBoom
-(뿜뿜)》歷經110天突破1億YouTube觀看次數，為第一首破億MV，是繼[4Minute之後第二團非韓國三大娛樂公司推出的女子音樂團體破億](https://zh.wikipedia.org/wiki/4Minute "wikilink")，也是在众多非韩国三大娱乐公司所推出的四代女团中首位拥有破亿的MV。
+4月23日，《BBoom BBoom (뿜뿜)》歷經110天突破1億YouTube觀看次數，為第一首破億MV，是繼[4Minute之後第二團非韓國三大娛樂公司推出的女子音樂團體破億](https://zh.wikipedia.org/wiki/4Minute "wikilink")，也是在众多非韩国三大娱乐公司所推出的四代女团中首位拥有破亿的MV。
 
 根据官方消息指出，MOMOLAND将会在5月中旬推出日文版的《BBoom BBoom》，而5月尾则在大阪及东京举行首次粉丝见面会。
 
 6月13日，MOMOLAND正式於日本出道\[11\]。
 
-6月12日，官方SNS公開了第4張迷你專輯《[Fun to the
-World](../Page/Fun_to_the_World.md "wikilink")》的預告照，並附文道：「MOMOLAND 4TH
-MINI ALBUM <Fun to The World> PHOTO
-TEASER.」，這是繼1月份發布第3張迷你專輯《GREAT\!》之後，時隔6個月重返歌壇\[12\]。公司相關人士說：「和新沙洞老虎合作的“BBoom
-BBoom”
-展現了絕佳默契，這次的合作成果相信也會非常棒！」並信心十足地表示：「會全力以赴展現她們一直不斷挑戰、努力的初衷。」\[13\]。為紀念最新迷你專輯發售而舉行的Show-Con結合了新專輯showcase和音樂會，除公佈新專輯收錄曲目和MV，為現場粉絲準備特別節目。這場活動全部門票都將捐獻給慈善公益機構，還將以每張票1萬韓元的標準自費捐獻\[14\]。
+6月12日，官方SNS公開了第4張迷你專輯《[Fun to the World](../Page/Fun_to_the_World.md "wikilink")》的預告照，並附文道：「MOMOLAND 4TH MINI ALBUM <Fun to The World> PHOTO TEASER.」，這是繼1月份發布第3張迷你專輯《GREAT\!》之後，時隔6個月重返歌壇\[12\]。公司相關人士說：「和新沙洞老虎合作的“BBoom BBoom” 展現了絕佳默契，這次的合作成果相信也會非常棒！」並信心十足地表示：「會全力以赴展現她們一直不斷挑戰、努力的初衷。」\[13\]。為紀念最新迷你專輯發售而舉行的Show-Con結合了新專輯showcase和音樂會，除公佈新專輯收錄曲目和MV，為現場粉絲準備特別節目。這場活動全部門票都將捐獻給慈善公益機構，還將以每張票1萬韓元的標準自費捐獻\[14\]。
 
 7月1日，官方SNS宣布，成员[娜允因晕眩而前往医院检查身体](https://zh.wikipedia.org/wiki/娜允 "wikilink")，被诊断为“耳石症”。为此，[娜允将暂停演艺活动](https://zh.wikipedia.org/wiki/娜允 "wikilink")，专心治疗，MOMOLAND也将暂时以8人体制活动。\[15\]
 
 9月26日，《BAAM》历经91天突破一亿YouTube观看次数，MOMOLAND也是目前首个非三大韩国经纪公司所推出的女团拥有2支破亿的MV。
 
-10月3日，官方SNS宣布，[娜允於](https://zh.wikipedia.org/wiki/娜允 "wikilink")「2018
-Asia Song Festival亞洲音樂節」活動上歸隊。
+10月3日，官方SNS宣布，[娜允於](https://zh.wikipedia.org/wiki/娜允 "wikilink")「2018 Asia Song Festival亞洲音樂節」活動上歸隊。
 
 11月7日，發行日本單曲《BAAM -Japanese ver.-》。
 
 ### 2019年：《Show Me》、DAISY及泰河暫停活動
 
-3月20日，發表第五張迷你專輯《[Show
-Me](../Page/Show_Me_\(MOMOLAND專輯\).md "wikilink")》，但DAISY與將不參與該迷你專輯的活動。
+3月20日，發表第五張迷你專輯《[Show Me](../Page/Show_Me_\(MOMOLAND專輯\).md "wikilink")》，但DAISY與將不參與該迷你專輯的活動。
 
-3月31日，公開《I'm So Hot -Japanese ver.-》MV。5月8日，發行日本單曲《I'm So Hot -Japanese
-ver.-》。
+3月31日，公開《I'm So Hot -Japanese ver.-》MV。5月8日，發行日本單曲《I'm So Hot -Japanese ver.-》。
 
-3月26日，于 [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")
-拿下回归后的第一个一位。
+3月26日，于 [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink") 拿下回归后的第一个一位。
 
-4月2日，于 [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")
-再次拿下回归后的第二个一位。
+4月2日，于 [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink") 再次拿下回归后的第二个一位。
 
 4月3日，于 [Show Champion](../Page/Show_Champion.md "wikilink") 拿下回归后的第三个一位。
 
@@ -180,17 +140,13 @@ ver.-》。
 
 ### 成員變遷史
 
-<timeline> ImageSize = width:650 height:350 PlotArea = width:500
-height:300 left:125 bottom:35 Alignbars = justify DateFormat =
-mm/dd/yyyy Period = from:2016 till:2019 TimeAxis =
-orientation:horizontal format:yyyy
+<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2016 till:2019 TimeAxis = orientation:horizontal format:yyyy
 
 Colors =
 
 `id:album     value:purple       legend:Studio_album`
 
-Legend = orientation:horizontal position:bottom ScaleMajor = unit:year
-increment:1 start:2016 gridcolor:black
+Legend = orientation:horizontal position:bottom ScaleMajor = unit:year increment:1 start:2016 gridcolor:black
 
 BarData =
 
@@ -214,11 +170,11 @@ PlotData =
 ` color:blue width:10 textcolor:black align:left anchor:from`
 ` bar:Jane from:11/10/2016 till:end`
 ` color:skyblue width:10 textcolor:black align:left anchor:from`
-` bar:TaeHa from:04/10/2017 till:end`
+` bar:TaeHa from:04/10/2017 till:03/20/2019`
 ` color:blue width:10 textcolor:black align:left anchor:from`
 ` bar:NaYun from:11/10/2016 till:end`
 ` color:darkblue width:10 textcolor:black align:left anchor:from`
-` bar:Daisy from:03/28/2017 till:end`
+` bar:Daisy from:03/28/2017 till:03/20/2019`
 ` color:blue width:10 textcolor:black align:left anchor:from`
 ` bar:JooE from:11/10/2016 till:end`
 ` color:blue width:10 textcolor:black align:left anchor:from`
@@ -325,7 +281,7 @@ LineData =
 <ul>
 <li>發行日期：2019年3月20日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>銷量：9,153</li>
+<li>銷量：10,418</li>
 </ul></td>
 <td></td>
 </tr>
@@ -663,8 +619,7 @@ LineData =
 
   - （日本 - J-Rock）
 
-  - [官方网站](http://www.kingrecords.co.jp/cs/artist/artist.aspx?artist=45523)（日本
-    - 國王唱片）
+  - [官方网站](http://www.kingrecords.co.jp/cs/artist/artist.aspx?artist=45523)（日本 - 國王唱片）
 
   - [MOMOLAND](http://cafe.daum.net/MOMOLAND)的Daum Cafe專頁
 
@@ -680,10 +635,7 @@ LineData =
   - 上的[MOMOLAND 官方 V Live 頻道](http://channels.vlive.tv/EF41FD)
 
   -
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:MOMOLAND](https://zh.wikipedia.org/wiki/Category:MOMOLAND "wikilink")
+[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:MOMOLAND](https://zh.wikipedia.org/wiki/Category:MOMOLAND "wikilink")
 
 1.  [MOMOLAND官方粉絲名](https://www.soompi.com/2017/04/25/girl-group-momoland-announces-fanclub-name/)
 2.  [MOMOLAND 首張迷你專輯動態概念照](http://kpopn.niusnews.com/=K3kp0815)

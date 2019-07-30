@@ -1,5 +1,4 @@
-**《NHK新闻》**（，）是[日本放送协会](https://zh.wikipedia.org/wiki/日本放送协会 "wikilink")（NHK）的新闻节目，也是日本现有的电视节目中播出历史最长的。节目在[NHK综合频道播放](https://zh.wikipedia.org/wiki/NHK综合频道 "wikilink")，部分时段的《NHK新闻》也会在[NHK
-World Premium频道播出](../Page/NHK_World_Premium.md "wikilink")。
+**《NHK新闻》**（，）是[日本放送协会](https://zh.wikipedia.org/wiki/日本放送协会 "wikilink")（NHK）的新闻节目，也是日本现有的电视节目中播出历史最长的。节目在[NHK综合频道播放](https://zh.wikipedia.org/wiki/NHK综合频道 "wikilink")，部分时段的《NHK新闻》也会在[NHK World Premium频道播出](../Page/NHK_World_Premium.md "wikilink")。
 
 ## 概况
 
@@ -9,7 +8,7 @@ World Premium频道播出](../Page/NHK_World_Premium.md "wikilink")。
 
 ### 全国联播新闻
 
-全国联播的新闻，除14:00一节由[NHK大阪放送局制作外](../Page/NHK大阪放送局.md "wikilink")，均由[NHK放送中心](../Page/NHK放送中心.md "wikilink")（NHK东京）制作。
+全国联播的新闻，除14:00一节由[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")制作外，均由[NHK放送中心](../Page/NHK放送中心.md "wikilink")（NHK东京）制作。
 
   - 0:00-0:05（周日、周一及12月39日至31日）
   - 0:15-0:22（1月1日，NHK跨年节目《》之后）
@@ -50,8 +49,7 @@ World Premium频道播出](../Page/NHK_World_Premium.md "wikilink")。
 
   - [NHK7点新闻](https://zh.wikipedia.org/wiki/NHK7点新闻 "wikilink")（原19:00《NHK新闻》）
   - [NHK新闻 早安日本](../Page/早安日本.md "wikilink")
-  - [News Watch
-    9](https://zh.wikipedia.org/wiki/News_Watch_9 "wikilink")
+  - [News Watch 9](https://zh.wikipedia.org/wiki/News_Watch_9 "wikilink")
 
 ## 参考资料
 
@@ -59,7 +57,6 @@ World Premium频道播出](../Page/NHK_World_Premium.md "wikilink")。
 
   - [NHK新闻](http://www.nhk.or.jp/toppage/navi/news.html)
 
-[Category:NHK新聞](https://zh.wikipedia.org/wiki/Category:NHK新聞 "wikilink")
-[Category:NHK電視節目](https://zh.wikipedia.org/wiki/Category:NHK電視節目 "wikilink")
+[Category:NHK新聞](https://zh.wikipedia.org/wiki/Category:NHK新聞 "wikilink") [Category:NHK電視節目](https://zh.wikipedia.org/wiki/Category:NHK電視節目 "wikilink")
 
 1.

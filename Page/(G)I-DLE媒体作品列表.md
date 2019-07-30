@@ -1,4 +1,4 @@
-**(G)I-DLE媒体作品列表**，主要列举韩国女子音乐组合[(G)I-DLE及成员个人参与过的各类音乐视频](../Page/\(G\)I-DLE.md "wikilink")、综艺节目、电台和音乐现场等。
+**(G)I-DLE媒体作品列表**，主要列举韩国女子音乐组合[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")及成员个人参与过的各类音乐视频、综艺节目、电台和音乐现场等。
 
 ## 音乐视频
 
@@ -49,6 +49,13 @@
 <td><p><a href="https://www.youtube.com/watch?v=I66oFXdf0KU">(G)I-DLE</a>、<a href="https://www.youtube.com/watch?v=ycYLPbtxU1Q">1theK</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Star_System" title="wikilink">Star System</a>[7]</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年7月11日</p></td>
+<td><p>LATATA（日语版）</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=ypNJMDlJvY4">GIDLE VEVO</a></p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -663,17 +670,73 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>7月3日</p></td>
+<td><p>1theK Originals</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=vok-tx3LadQ">心灵感应直播</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月3日</p></td>
+<td><p>The K-POP</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=2cg4Mc0-4tM">队友的营业</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月5日</p></td>
+<td><p>News-Ade</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=iZ7XtAcOsnE">福不福相机</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月6日</p></td>
+<td><p>VLIVE:V COOKIE</p></td>
+<td><p><a href="https://www.vlive.tv/video/137608">(G)I-DLE X LieV - 躺播</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月9日</p></td>
+<td><p>dingo music</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=zn_kPnx7i5w">邀请你参加孩子们的比格派对</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月10日</p></td>
+<td><p>The K-POP</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=9svWxaXSEGI">MBTI测试</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月12日</p></td>
+<td><p>Piki Pictures</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=jJrP0MFZKp0">妈妈入睡后</a></p></td>
+<td><p>美延、Minnie、穗珍</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>7月13日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p>RUN.wav</p></td>
+<td><p>全体</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>7月</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我的小电视" title="wikilink">我的小电视</a></p></td>
+<td><p>雨琦</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>7月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS_(韩国)" title="wikilink">SBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/丛林的法则" title="wikilink">丛林的法则</a></p></td>
-<td><p>雨琦</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -842,7 +905,7 @@
 <tr class="odd">
 <td><p>2月27日</p></td>
 <td><p>MBC标准FM</p></td>
-<td><p>IDOL RADIO</p></td>
+<td><p><a href="../Page/IDOL_RADIO.md" title="wikilink">IDOL RADIO</a></p></td>
 <td><p><a href="../Page/鄭鎰勳.md" title="wikilink">鄭鎰勳</a></p></td>
 <td><p>全体</p></td>
 </tr>
@@ -863,9 +926,23 @@
 <tr class="even">
 <td><p>5月21日</p></td>
 <td><p>MBC标准FM</p></td>
-<td><p>IDOL RADIO</p></td>
+<td><p><a href="../Page/IDOL_RADIO.md" title="wikilink">IDOL RADIO</a></p></td>
 <td><p><a href="../Page/鄭鎰勳.md" title="wikilink">鄭鎰勳</a></p></td>
 <td><p>Minnie</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月1日</p></td>
+<td><p>MBC标准FM</p></td>
+<td><p><a href="../Page/IDOL_RADIO.md" title="wikilink">IDOL RADIO</a></p></td>
+<td><p><a href="../Page/鄭鎰勳.md" title="wikilink">鄭鎰勳</a></p></td>
+<td><p>全体</p></td>
+</tr>
+<tr class="even">
+<td><p>7月4日</p></td>
+<td><p><a href="../Page/KBS第2FM.md" title="wikilink">KBS第2FM</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李秀贤" title="wikilink">李秀贤</a></p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -1084,32 +1161,32 @@
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=WG2VJgSmKTk">7月2日</a>、<a href="https://www.youtube.com/watch?v=D42Tj_VnqRU">7月9日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/MBC_Plus_Media.md" title="wikilink">MBC Music</a></p></td>
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
-<td><p><a href="https://www.youtube.com/watch?v=aXumrr0B-2A">6月26日</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=aXumrr0B-2A">6月26日</a>、<a href="https://www.youtube.com/watch?v=Q6UJ7eBgnk8">7月3日</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="https://www.youtube.com/watch?v=JWf7YhXTkaM">6月27日</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=JWf7YhXTkaM">6月27日</a>、<a href="https://www.youtube.com/watch?v=Q_1YKBSYLjM">7月4日</a>、7月11日</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KBS第2频道.md" title="wikilink">KBS2</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/音乐银行" title="wikilink">音乐银行</a></p></td>
-<td><p><a href="https://www.youtube.com/watch?v=A5JEXf4hd3U">6月28日</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=A5JEXf4hd3U">6月28日</a>、<a href="https://www.youtube.com/watch?v=1ysLKoJw7qk">7月5日</a>、7月12日</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Show!_音乐中心" title="wikilink">Show! 音乐中心</a></p></td>
-<td><p>6月29日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=daL4ERsp5TQ">6月29日</a>、7月13日</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
 <td><p><a href="../Page/人气歌谣.md" title="wikilink">人气歌谣</a></p></td>
-<td><p>6月30日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=iF2eaXH_sZ8">7月7日</a>、7月14日</p></td>
 </tr>
 </tbody>
 </table>
@@ -1134,38 +1211,16 @@
 
 {{(G)I-DLE}}
 
-[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink")
-[Category:(G)I-DLE](https://zh.wikipedia.org/wiki/Category:\(G\)I-DLE "wikilink")
-[Category:作品列表](https://zh.wikipedia.org/wiki/Category:作品列表 "wikilink")
+[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink") [Category:(G)I-DLE](https://zh.wikipedia.org/wiki/Category:\(G\)I-DLE "wikilink") [Category:作品列表](https://zh.wikipedia.org/wiki/Category:作品列表 "wikilink")
 
-1.  [(여자)아이들, 데뷔곡 'LATATA' MV 공개 이틀 만에 220만뷰
-    돌파](http://the-star.co.kr/site/data/html_dir/2018/05/04/2018050401669.html).
-    THE STAR. May 4,2018.
+1.  [(여자)아이들, 데뷔곡 'LATATA' MV 공개 이틀 만에 220만뷰 돌파](http://the-star.co.kr/site/data/html_dir/2018/05/04/2018050401669.html). THE STAR. May 4,2018.
 2.
-3.  [(데뷔 3개월차 (여자)아이들, 신 음원강자로
-    자리매김할까?](http://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0002466220&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news).
-    ohmynews. August 25,2018.
+3.  [(데뷔 3개월차 (여자)아이들, 신 음원강자로 자리매김할까?](http://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0002466220&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news). ohmynews. August 25,2018.
 4.
-5.  [(여자)아이들, 데뷔 후 첫 리얼리티 도전…오늘(15일)
-    시작](http://tenasia.hankyung.com/archives/1640108). tenasia.
-    January 15,2019.
-6.  [(G)I-DLE 2ND MINI ALBUM I MADE\#SENORITA CHOREO BY
-    @starsystem_kor](https://www.instagram.com/p/BuVurrZnRmA/).
-    ins@starsystem_kor. February 27,2019.
-7.  [(여자)아이들 Uh-Oh CHOREO BY
-    @starsystem_kor](https://www.instagram.com/p/BzKz_K-BMyF/).
-    ins@starsystem_kor. June 26,2019.
-8.  ['LATATA' 뮤직비디오와 함께 아이들
-    감상\!（08:00起：在我MV里出现的狐狸）](https://www.vlive.tv/video/70732).
-    V LIVE (G)I-DLE频道. May 11,2018.
-9.  [Soyeon and Miyeon used motion capture equipment to perform in the
-    K/DA “POP/STARS” music
-    video](https://dotesports.com/league-of-legends/news/soyeon-and-miyeon-used-motion-capture-equipment-to-perform-in-the-k-da-pop-stars-music-video).
-    DOT ESPORTS. November 5, 2018.
-10. [(여자)아이들((G)I-DLE) - 소확행 \#2 : 소연이의 '애정결핍' 드로잉 비디오
-    제작기](https://www.youtube.com/watch?v=7U26LjgodYU). United
-    CUBE. June 18, 2019.
-11. [Self-cam](https://www.youtube.com/watch?v=rJjMP4stNg0)、[Behind
-    Part.1](https://www.youtube.com/watch?v=dFoXDP1E_Mo)、[Behind
-    Part.2](https://www.youtube.com/watch?v=rBnlxgfGGTI). The K-POP :
-    SBS PLUS. May 23, 2019-.
+5.  [(여자)아이들, 데뷔 후 첫 리얼리티 도전…오늘(15일) 시작](http://tenasia.hankyung.com/archives/1640108). tenasia. January 15,2019.
+6.  [(G)I-DLE 2ND MINI ALBUM I MADE\#SENORITA CHOREO BY @starsystem_kor](https://www.instagram.com/p/BuVurrZnRmA/). ins@starsystem_kor. February 27,2019.
+7.  [(여자)아이들 Uh-Oh CHOREO BY @starsystem_kor](https://www.instagram.com/p/BzKz_K-BMyF/). ins@starsystem_kor. June 26,2019.
+8.  ['LATATA' 뮤직비디오와 함께 아이들 감상\!（08:00起：在我MV里出现的狐狸）](https://www.vlive.tv/video/70732). V LIVE (G)I-DLE频道. May 11,2018.
+9.  [Soyeon and Miyeon used motion capture equipment to perform in the K/DA “POP/STARS” music video](https://dotesports.com/league-of-legends/news/soyeon-and-miyeon-used-motion-capture-equipment-to-perform-in-the-k-da-pop-stars-music-video). DOT ESPORTS. November 5, 2018.
+10. [(여자)아이들((G)I-DLE) - 소확행 \#2 : 소연이의 '애정결핍' 드로잉 비디오 제작기](https://www.youtube.com/watch?v=7U26LjgodYU). United CUBE. June 18, 2019.
+11. [Self-cam](https://www.youtube.com/watch?v=rJjMP4stNg0)、[Behind Part.1](https://www.youtube.com/watch?v=dFoXDP1E_Mo)、[Behind Part.2](https://www.youtube.com/watch?v=rBnlxgfGGTI). The K-POP : SBS PLUS. May 23, 2019-.

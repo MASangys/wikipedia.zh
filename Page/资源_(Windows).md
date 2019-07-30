@@ -1,6 +1,4 @@
-[Windows操作系统的](https://zh.wikipedia.org/wiki/Windows操作系统 "wikilink")**资源**(resources)是指嵌入可执行程序([EXE](https://zh.wikipedia.org/wiki/EXE "wikilink"),
-[DLL](https://zh.wikipedia.org/wiki/Dynamic-Link_Library "wikilink"),
-[CPL](../Page/控制面板.md "wikilink"), 等)的只读数据。\[1\]\[2\]\[3\]
+[Windows操作系统的](https://zh.wikipedia.org/wiki/Windows操作系统 "wikilink")**资源**(resources)是指嵌入可执行程序([EXE](https://zh.wikipedia.org/wiki/EXE "wikilink"), [DLL](https://zh.wikipedia.org/wiki/Dynamic-Link_Library "wikilink"), [CPL](../Page/控制面板.md "wikilink"), [MUI等](../Page/多语言用户界面.md "wikilink"))的只读数据。\[1\]\[2\]\[3\]
 
 [Windows API提供了便捷访问应用程序资源的方法](../Page/Windows_API.md "wikilink")。
 
@@ -36,21 +34,18 @@ EXE或DLL文件的版本资源显示在它们的属性页的*Version* tab中。
 1.  为cursors, icons, bitmaps, dialog boxes, fonts创建单独的文件；
 2.  创建一个资源定义脚本(.rc)文件来描述应用程序用到的资源；
 3.  使用预处理器RC.exe编译该脚本:\[4\] `RC [options] script-file`
-4.  使用[链接器把编译后的资源](../Page/链接器.md "wikilink")(.res)文件加入到要生成的可执行程序中。
+4.  使用[链接器](../Page/链接器.md "wikilink")把编译后的资源(.res)文件加入到要生成的可执行程序中。
 
 ## 参考文献
 
 ## 外部链接
 
-  - [MSDN: Windows Resource Files
-    Guide](http://msdn.microsoft.com/en-us/library/cc194804.aspx)
-  - [MSDN: Better Resource File Guide with
-    reference](http://msdn.microsoft.com/en-us/library/aa380599%28v=vs.85%29.aspx)
+  - [MSDN: Windows Resource Files Guide](http://msdn.microsoft.com/en-us/library/cc194804.aspx)
+  - [MSDN: Better Resource File Guide with reference](http://msdn.microsoft.com/en-us/library/aa380599%28v=vs.85%29.aspx)
 
 [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink")
 
 1.
 2.
 3.
-4.  \[<https://msdn.microsoft.com/en-us/library/aa381055(v=vs.85>).aspx
-    MSDN:Using RC (The RC Command Line)\]
+4.  \[<https://msdn.microsoft.com/en-us/library/aa381055(v=vs.85>).aspx MSDN:Using RC (The RC Command Line)\]

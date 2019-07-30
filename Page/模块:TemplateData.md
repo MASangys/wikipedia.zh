@@ -730,8 +730,7 @@ for parameters
 `           tbl:addClass( "sortable" )`
 `       end`
 
-\-- if Config.classTable then -- tbl:addClass( Config.classTable ) --
-end
+\-- if Config.classTable then -- tbl:addClass( Config.classTable ) -- end
 
 `       if Config.stylesTable then`
 `           tbl:cssText( Config.stylesTable )`
@@ -821,8 +820,7 @@ local function flat( adjust )
 `           r = r:gsub( "`<noexport>`(.*)`</noexport>`", "" )`
 `       end`
 `       if r:find( "''", 1, true ) then`
-`           r = r:gsub( "`*`'",``   ``""``   ``):gsub(``
- ``"`*`", "" )`
+`           r = r:gsub( "`*`'",``   ``""``   ``):gsub(``   ``"`*`", "" )`
 `       end`
 `       if r:find( "<", 1, true ) then`
 `           local Text = Fetch( "Text" )`
@@ -1130,8 +1128,7 @@ local function furnish( adapt, arglist )
 `   end -- for k, v`
 `   Config.loudly = faculty( arglist.debug or adapt.debug )`
 
-\--if mw.site.server:find( "//de.wikipedia.beta.wmflabs.org", 1, true )
-then -- Config.loudly = true --end
+\--if mw.site.server:find( "//de.wikipedia.beta.wmflabs.org", 1, true ) then -- Config.loudly = true --end
 
 `   Data.lazy     = faculty( arglist.lazy )  and  not Config.loudly`
 `   Data.leading  = faculty( arglist.TOC )`
@@ -1163,10 +1160,7 @@ then -- Config.loudly = true --end
 `           end`
 `       end`
 
-\--if source and -- ( source:find( "|", 1, true ) or -- source:find(
-"}}", 1, true ) ) then -- -- \<ref --spy=string.format(
-"[Category:%s](https://zh.wikipedia.org/wiki/Category:%s "wikilink")",
-Config.strange ) --end
+\--if source and -- ( source:find( "|", 1, true ) or -- source:find( "}}", 1, true ) ) then -- -- \<ref --spy=string.format( "[Category:%s](https://zh.wikipedia.org/wiki/Category:%s "wikilink")", Config.strange ) --end
 
 `   end`
 `   if not Data.lazy  and  Config.subpage then`

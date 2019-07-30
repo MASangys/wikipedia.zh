@@ -1,5 +1,4 @@
-《**Binary
-Pot**》（）是[AUGUST製作的](../Page/AUGUST.md "wikilink")[Windows平台](https://zh.wikipedia.org/wiki/Windows "wikilink")[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，已於2002年2月22日發售\[2\]，通常版已於2004年3月26日發售\[3\]。
+《**Binary Pot**》（）是[AUGUST](../Page/AUGUST.md "wikilink")製作的[Windows平台](https://zh.wikipedia.org/wiki/Windows "wikilink")[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，已於2002年2月22日發售\[2\]，通常版已於2004年3月26日發售\[3\]。
 
 ## 遊戲系統
 
@@ -9,14 +8,12 @@ Pot**》（）是[AUGUST製作的](../Page/AUGUST.md "wikilink")[Windows平台](
 
 个人电脑的处理能力因為超大容量线路的普及而得到了飞速的进步，网络游戏的普及率也急速上升。并且，现在的大家已经不再热衷于以往的那种RPG的代入感，转而追求在游戏的世界里体验和完全真实的生活的那种感觉。于是，用于彰显「另一个自我」的一款称霸了全球的网络游戏「world」，成为了人类所居住的「第二个世界」。
 
-男主角芦原洋一由于父母前往南国小岛颐养天年，因此擔任Binary
-Pot的店长。芦原洋一、羽根井优希、吉野佳澄、诹访奈都子、川中岛里美一起全力经营着Binary·pot。芦原洋一是World的老玩家，同時也是打击犯罪的【猎人公会】中的王牌队伍的队长明樹（）。在晚上打烊後都会在World中和自己的伙伴们一同维持世界的正义与和平。但是他並不知道自己的伙伴们是現實世界中所認識的人。
+男主角芦原洋一由于父母前往南国小岛颐养天年，因此擔任Binary Pot的店长。芦原洋一、羽根井优希、吉野佳澄、诹访奈都子、川中岛里美一起全力经营着Binary·pot。芦原洋一是World的老玩家，同時也是打击犯罪的【猎人公会】中的王牌队伍的队长明樹（）。在晚上打烊後都会在World中和自己的伙伴们一同维持世界的正义与和平。但是他並不知道自己的伙伴们是現實世界中所認識的人。
 
 ## 登場角色
 
   -
-    由于双亲前往南国小岛颐养天年，因此擔任Binary
-    Pot的店长。World的老玩家，同時也是World中打擊犯罪的【猎人公会】中的王牌队伍的队长明樹。
+    由于双亲前往南国小岛颐养天年，因此擔任Binary Pot的店长。World的老玩家，同時也是World中打擊犯罪的【猎人公会】中的王牌队伍的队长明樹。
   -
     洋一的青梅竹马兼堂妹。
   -
@@ -40,10 +37,7 @@ Pot的店长。芦原洋一、羽根井优希、吉野佳澄、诹访奈都子�
 
 ## 小說
 
-成人[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")《Binary Pot
--駭客樂園-》（）已於2002年8月1日發售（ISBN
-4-434-02166-4），出版社為[HARVEST出版](../Page/HARVEST出版.md "wikilink")\[5\]。中文版由[龍成出版發售](../Page/龍成出版.md "wikilink")（ISBN
-9789574623860）。
+成人[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")《Binary Pot -駭客樂園-》（）已於2002年8月1日發售（ISBN 4-434-02166-4），出版社為[HARVEST出版](../Page/HARVEST出版.md "wikilink")\[5\]。中文版由[龍成出版](../Page/龍成出版.md "wikilink")發售（ISBN 9789574623860）。
 
 ## 評價
 
@@ -55,10 +49,7 @@ Pot的店长。芦原洋一、羽根井优希、吉野佳澄、诹访奈都子�
 
   - [Binary Pot](http://august-soft.com/binary_normal/)
 
-[Category:2002年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2002年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
+[Category:2002年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2002年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
 
 1.
 

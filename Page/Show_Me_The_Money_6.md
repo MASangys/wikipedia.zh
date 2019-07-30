@@ -1,28 +1,17 @@
-**Show Me The Money
-6**（，简称：**SMTM6**）是[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Mnet频道制作并播出的](../Page/Mnet媒體.md "wikilink")[Hiphop](../Page/嘻哈音樂.md "wikilink")[选秀节目](../Page/真人實境秀.md "wikilink")，为[Show
-Me The
-Money系列的第六季](../Page/Show_Me_The_Money.md "wikilink")，\[1\]于2017年6月30日\[2\]至9月1日每逢周五晚间播出。
+**Show Me The Money 6**（，简称：**SMTM6**）是[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Mnet频道制作并播出的](../Page/Mnet媒體.md "wikilink")[Hiphop](../Page/嘻哈音樂.md "wikilink")[选秀节目](../Page/真人實境秀.md "wikilink")，为[Show Me The Money系列的第六季](../Page/Show_Me_The_Money.md "wikilink")，\[1\]于2017年6月30日\[2\]至9月1日每逢周五晚间播出。
 
-SMTM第六季的4组制作人团队分别由[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")、[DEAN](https://zh.wikipedia.org/wiki/权革 "wikilink")；\[3\][朴載範](../Page/朴載範.md "wikilink")、[Dok2](../Page/Dok2.md "wikilink")；\[4\][Dynamic
-Duo的](../Page/Dynamic_Duo.md "wikilink")、\[5\]和、\[6\]组成。\[7\]此季吸引了比往季更多的参赛者，超过13000名选手参赛也是SMTM历史上参赛人数最多的一季，包括、、NO:EL\[8\]、[Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")\[9\]、、、、Candle、[Junoflo](../Page/Junoflo.md "wikilink")、、、、、Ja
-Mezz、[Boi
-B](../Page/Rhythm_Power.md "wikilink")、[地球人](../Page/Rhythm_Power.md "wikilink")、、、、、、、[Untouchable成员](../Page/Untouchable_\(韓國團體\).md "wikilink")[Sleepy](https://zh.wikipedia.org/wiki/Sleepy "wikilink")\[10\]、、[TEEN
-TOP成员](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")[创造](../Page/創造_\(歌手\).md "wikilink")\[11\]、珍岛狗、PENOMECO、JJK、Rudals和SMTM第一季的制作人\[12\]等在内的众多韩国Hiphop界知名或小有名气的Rapper均报名参加了此季的海选。优胜者将获得1亿韩元奖金及一辆[雪佛兰科迈罗汽车](https://zh.wikipedia.org/wiki/雪佛兰科迈罗 "wikilink")。
+SMTM第六季的4组制作人团队分别由[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")、[DEAN](https://zh.wikipedia.org/wiki/权革 "wikilink")；\[3\][朴載範](../Page/朴載範.md "wikilink")、[Dok2](../Page/Dok2.md "wikilink")；\[4\][Dynamic Duo的](../Page/Dynamic_Duo.md "wikilink")、\[5\]和、\[6\]组成。\[7\]此季吸引了比往季更多的参赛者，超过13000名选手参赛也是SMTM历史上参赛人数最多的一季，包括、、NO:EL\[8\]、[Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")\[9\]、、、、Candle、[Junoflo](../Page/Junoflo.md "wikilink")、、、、、Ja Mezz、[Boi B](../Page/Rhythm_Power.md "wikilink")、[地球人](../Page/Rhythm_Power.md "wikilink")、、、、、、、[Untouchable成员](../Page/Untouchable_\(韓國團體\).md "wikilink")[Sleepy](https://zh.wikipedia.org/wiki/Sleepy "wikilink")\[10\]、、[TEEN TOP成员](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")[创造](../Page/創造_\(歌手\).md "wikilink")\[11\]、珍岛狗、PENOMECO、JJK、Rudals和SMTM第一季的制作人\[12\]等在内的众多韩国Hiphop界知名或小有名气的Rapper均报名参加了此季的海选。优胜者将获得1亿韩元奖金及一辆[雪佛兰科迈罗汽车](https://zh.wikipedia.org/wiki/雪佛兰科迈罗 "wikilink")。
 
-节目继上季首次在韩国之外的西海岸Hiphop发源地美国[洛杉矶进行海选后](../Page/洛杉矶.md "wikilink")，此季除依旧在美国洛杉矶海选外，又首次于东海岸Hiphop发源地美国[纽约进行了海选](../Page/纽约.md "wikilink")，在纽约海选现场还特邀美国知名音乐人担任特别评审。
+节目继上季首次在韩国之外的西海岸Hiphop发源地美国[洛杉矶](../Page/洛杉矶.md "wikilink")进行海选后，此季除依旧在美国洛杉矶海选外，又首次于东海岸Hiphop发源地美国[纽约](../Page/纽约.md "wikilink")进行了海选，在纽约海选现场还特邀美国知名音乐人担任特别评审。
 
 ## 制作人团队（导师）
 
-**ZICO &
-DEAN队（[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")
-& [DEAN](https://zh.wikipedia.org/wiki/权革 "wikilink")）：**
+**ZICO & DEAN队（[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink") & [DEAN](https://zh.wikipedia.org/wiki/权革 "wikilink")）：**
 
-  - [Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")：音乐团体[Block
-    B的队长](../Page/Block_B.md "wikilink")，曾担任SMTM4导师。
+  - [Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")：音乐团体[Block B的队长](../Page/Block_B.md "wikilink")，曾担任SMTM4导师。
   - [DEAN](https://zh.wikipedia.org/wiki/权革 "wikilink")：歌手及制作人，隶属JOOMBAS旗下。
 
-**JAY PARK & Dok2队（[朴載範](../Page/朴載範.md "wikilink") &
-[Dok2](../Page/Dok2.md "wikilink")）：**
+**JAY PARK & Dok2队（[朴載範](../Page/朴載範.md "wikilink") & [Dok2](../Page/Dok2.md "wikilink")）：**
 
   - [朴載範](../Page/朴載範.md "wikilink")： CEO及歌手兼Rapper，曾担任SMTM4导师。
   - [Dok2](../Page/Dok2.md "wikilink")：[ILLIONAIRE联合CEO及Rapper](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")，曾担任SMTM3及SMTM5导师。
@@ -35,9 +24,7 @@ DEAN队（[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")
 
 **Tiger JK & BIZZY队（ & ）：**
 
-  - ：韩国Hiphop界传奇性人物，[Drunken
-    Tiger成员](../Page/醉虎幫.md "wikilink")、成员、Ghood Life
-    Crew成员，隶属。
+  - ：韩国Hiphop界传奇性人物，[Drunken Tiger成员](../Page/醉虎幫.md "wikilink")、成员、Ghood Life Crew成员，隶属。
 
   - ：[Drunken Tiger成员](../Page/醉虎幫.md "wikilink")、成员，隶属。
 
@@ -386,8 +373,7 @@ SMTM6特别公演阵容
 
 由获胜团队优先选择要对阵的对手。
 
-同样，规则仍然是观众根据Rapper们的公演表现投票累积竞演收入，获得收入相对较低的团队表演者将被淘汰。JAY PARK &
-Dok2队全员被淘汰。
+同样，规则仍然是观众根据Rapper们的公演表现投票累积竞演收入，获得收入相对较低的团队表演者将被淘汰。JAY PARK & Dok2队全员被淘汰。
 
 <table>
 <caption>公演对阵</caption>
@@ -621,32 +607,22 @@ Hangzoo在首轮以第二位的成绩晋级，并获得了最终的胜利。ZICO
 **16强：**
 
   - **ZICO & DEAN队：**、、、
-  - **JAY PARK &
-    Dok2队：**[Junoflo](../Page/Junoflo.md "wikilink")、WooddieGoChild、Ja
-    Mezz、Ness
-  - **DYNAMIC
-    DUO队：**、[Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")、[赵旴灿](https://zh.wikipedia.org/wiki/赵旴灿 "wikilink")、Rhyno
-  - **Tiger JK &
-    BIZZY队：**[禹元材](../Page/禹元材.md "wikilink")、Maniac、Asol、BLACK
-    NINE
+  - **JAY PARK & Dok2队：**[Junoflo](../Page/Junoflo.md "wikilink")、WooddieGoChild、Ja Mezz、Ness
+  - **DYNAMIC DUO队：**、[Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")、[赵旴灿](https://zh.wikipedia.org/wiki/赵旴灿 "wikilink")、Rhyno
+  - **Tiger JK & BIZZY队：**[禹元材](../Page/禹元材.md "wikilink")、Maniac、Asol、BLACK NINE
 
 **14强：**
 
   - **ZICO & DEAN队：**、、、
-  - **JAY PARK &
-    Dok2队：**[Junoflo](../Page/Junoflo.md "wikilink")、WooddieGoChild、Ja
-    Mezz
-  - **DYNAMIC
-    DUO队：**、[Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")、[赵旴灿](https://zh.wikipedia.org/wiki/赵旴灿 "wikilink")、Rhyno
-  - **Tiger JK & BIZZY队：**[禹元材](../Page/禹元材.md "wikilink")、Maniac、BLACK
-    NINE
+  - **JAY PARK & Dok2队：**[Junoflo](../Page/Junoflo.md "wikilink")、WooddieGoChild、Ja Mezz
+  - **DYNAMIC DUO队：**、[Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")、[赵旴灿](https://zh.wikipedia.org/wiki/赵旴灿 "wikilink")、Rhyno
+  - **Tiger JK & BIZZY队：**[禹元材](../Page/禹元材.md "wikilink")、Maniac、BLACK NINE
 
 **6强（半决赛）：**
 
   - **ZICO & DEAN队：**
   - **JAY PARK & Dok2队：**[Junoflo](../Page/Junoflo.md "wikilink")
-  - **DYNAMIC
-    DUO队：**、[Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")、[赵旴灿](https://zh.wikipedia.org/wiki/赵旴灿 "wikilink")
+  - **DYNAMIC DUO队：**、[Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")、[赵旴灿](https://zh.wikipedia.org/wiki/赵旴灿 "wikilink")
   - **Tiger JK & BIZZY队：**[禹元材](../Page/禹元材.md "wikilink")
 
 **决赛首轮：**
@@ -706,8 +682,7 @@ Hangzoo在首轮以第二位的成绩晋级，并获得了最终的胜利。ZICO
 | ****                                                          | \-               | 通过 |
 | **地球人**                                                       | \-               | 淘汰 |
 
-  - **其它参赛者：**Qwala（曾参加SMTM2）、[创造](../Page/創造_\(歌手\).md "wikilink")（组合[TEEN
-    TOP成员](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")）、Candle、Kanto、LTAK、、（SMTM第三季至第五季均有参赛，此季因故退赛）
+  - **其它参赛者：**Qwala（曾参加SMTM2）、[创造](../Page/創造_\(歌手\).md "wikilink")（组合[TEEN TOP成员](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")）、Candle、Kanto、LTAK、、（SMTM第三季至第五季均有参赛，此季因故退赛）
 
 ## 音源销量
 
@@ -1010,8 +985,7 @@ Hangzoo在首轮以第二位的成绩晋级，并获得了最终的胜利。ZICO
 
 ## 收视率
 
-以下纪录《**Show Me The Money
-6**》节目之全国收视，表示为该年度最高收视率，则表示为该年度最低收视率。\[17\]\[18\]
+以下纪录《**Show Me The Money 6**》节目之全国收视，表示为该年度最高收视率，则表示为该年度最低收视率。\[17\]\[18\]
 
 <table>
 <thead>
@@ -1093,10 +1067,7 @@ Hangzoo在首轮以第二位的成绩晋级，并获得了最终的胜利。ZICO
 
   - [Show Me The Money 6](http://onair.mnet.com/smtm6) - 官方网站
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:韩国音乐比赛](https://zh.wikipedia.org/wiki/Category:韩国音乐比赛 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:韩国音乐比赛](https://zh.wikipedia.org/wiki/Category:韩国音乐比赛 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
 1.
 2.

@@ -26,9 +26,7 @@
 
 ## 用途
 
-This template is to be used per the instructions at
-[Portal:Linux/Selected
-quote](https://zh.wikipedia.org/wiki/Portal:Linux/Selected_quote "wikilink").
+This template is to be used per the instructions at [Portal:Linux/Selected quote](https://zh.wikipedia.org/wiki/Portal:Linux/Selected_quote "wikilink").
 
   - **Quote** is the quote verbiage. No quotation marks needed.
   - **Quoted** is the voice behind the quotation.

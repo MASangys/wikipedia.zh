@@ -1,4 +1,4 @@
-《**成為你的Melody演唱會**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB每年例行舉辦的小型特別演唱會](../Page/BTOB.md "wikilink")，演唱會主題會隨著每年推出的專輯有所不同。配合《[成為你的Melody](https://zh.wikipedia.org/wiki/BTOB音樂作品列表#成為你的Melody "wikilink")》企劃，會在演唱會上表演鮮少演唱的翻唱曲目或未公開的創作曲，帶來特別的演出。
+《**成為你的Melody演唱會**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")每年例行舉辦的小型特別演唱會，演唱會主題會隨著每年推出的專輯有所不同。配合《[成為你的Melody](https://zh.wikipedia.org/wiki/BTOB音樂作品列表#成為你的Melody "wikilink")》企劃，會在演唱會上表演鮮少演唱的翻唱曲目或未公開的創作曲，帶來特別的演出。
 
 ## 2015年：成為你的Melody
 
@@ -14,24 +14,16 @@
 
 1.  喝吧！ / *Rap Line*
 2.  蝴蝶墳墓 / *Vocal Line*（原唱：TAKE）
-3.  All of Me /
-    *[炫植](https://zh.wikipedia.org/wiki/炫植 "wikilink")*（原唱：John
-    Legend）
-4.  Wash Away / *[旼赫](https://zh.wikipedia.org/wiki/旼赫 "wikilink") Feat.
-    炫植、[星材](https://zh.wikipedia.org/wiki/星材 "wikilink")*（原唱：Geeks）
-5.  If I Die Tomorrow /
-    *[鎰勳](https://zh.wikipedia.org/wiki/鎰勳 "wikilink")*
-6.  家族照片 / *[恩光](https://zh.wikipedia.org/wiki/恩光 "wikilink")*（原唱：SG
-    Wannabe）
+3.  All of Me / *[炫植](https://zh.wikipedia.org/wiki/炫植 "wikilink")*（原唱：John Legend）
+4.  Wash Away / *[旼赫](https://zh.wikipedia.org/wiki/旼赫 "wikilink") Feat. 炫植、[星材](https://zh.wikipedia.org/wiki/星材 "wikilink")*（原唱：Geeks）
+5.  If I Die Tomorrow / *[鎰勳](https://zh.wikipedia.org/wiki/鎰勳 "wikilink")*
+6.  家族照片 / *[恩光](https://zh.wikipedia.org/wiki/恩光 "wikilink")*（原唱：SG Wannabe）
 7.  人偶 / *旼赫 & 星材*（原唱：李志勳 & 申彗星）
-8.  三五夜皎潔的月 /
-    *[昌燮](https://zh.wikipedia.org/wiki/昌燮 "wikilink")*（原唱：金相姬）
+8.  三五夜皎潔的月 / *[昌燮](https://zh.wikipedia.org/wiki/昌燮 "wikilink")*（原唱：金相姬）
 9.  一根蠟燭（原唱：g.o.d）
 10. 語尾 / *星材*（原唱：鄭俊日）
 11. Player / *昌燮*（原唱：輝星）
-12. Nothing on You /
-    *[Peniel](https://zh.wikipedia.org/wiki/Peniel "wikilink") Feat.
-    恩光、昌燮*（原唱：B.o.B）
+12. Nothing on You / *[Peniel](https://zh.wikipedia.org/wiki/Peniel "wikilink") Feat. 恩光、昌燮*（原唱：B.o.B）
 
 ## 2016年：你和我，春天的記憶
 
@@ -96,8 +88,7 @@
 3.  MOVIE
 4.  那時 / *恩光*
 5.  名為你的奢侈（Amazing You） / *昌燮*（原唱: 韓東根）
-6.  [Always](../Page/Big_Wave_\(專輯\).md "wikilink") / *鎰勳 Feat. 星材* *＊
-    創作曲 ＊*
+6.  [Always](../Page/Big_Wave_\(專輯\).md "wikilink") / *鎰勳 Feat. 星材* *＊ 創作曲 ＊*
 7.  夢裡
 8.  Fly Away
 9.  Tell Me / *星材*
@@ -119,19 +110,13 @@
 2.  MOVIE
 3.  One Day / *昌燮*（原唱：[徐恩光](../Page/徐恩光.md "wikilink")）
 4.  .. (漸漸) / *星材* *＊ 創作曲 ＊*
-5.  抱著你的話 / *炫植* *＊ 創作曲
-    ＊*（[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[鍵盤上的鬣狗](https://zh.wikipedia.org/wiki/鍵盤上的鬣狗 "wikilink")》創作曲）
-6.  每一天，每一瞬間 (Every day, Every Moment) / *恩光*（原唱：Paul
-    Kim，[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[要先接吻嗎？](../Page/要先接吻嗎？.md "wikilink")》OST
-    Part.3）\[4\]
+5.  抱著你的話 / *炫植* *＊ 創作曲 ＊*（[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[鍵盤上的鬣狗](https://zh.wikipedia.org/wiki/鍵盤上的鬣狗 "wikilink")》創作曲）
+6.  每一天，每一瞬間 (Every day, Every Moment) / *恩光*（原唱：Paul Kim，[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[要先接吻嗎？](../Page/要先接吻嗎？.md "wikilink")》OST Part.3）\[4\]
 7.  Valentain / *Peniel* *＊ 創作曲 ＊*
-8.  即使幼稚 / *旼赫* *＊ 創作曲
-    ＊*（原唱：[金昭喜](https://zh.wikipedia.org/wiki/金昭喜_\(1999年\) "wikilink")、[金相均](../Page/金相均.md "wikilink")
-    Prod by 旼赫）
+8.  即使幼稚 / *旼赫* *＊ 創作曲 ＊*（原唱：[金昭喜](https://zh.wikipedia.org/wiki/金昭喜_\(1999年\) "wikilink")、[金相均](../Page/金相均.md "wikilink") Prod by 旼赫）
 9.  Big Wave / *鎰勳* *＊ 創作曲 ＊*
 10. Hello Mello / *Rap Line*
-11. [如果下雨的話](../Page/如果下雨的話_\(BTOB－BLUE單曲\).md "wikilink") / *Vocal
-    Line（[BTOB–BLUE](https://zh.wikipedia.org/wiki/BTOB–BLUE "wikilink")）*
+11. [如果下雨的話](../Page/如果下雨的話_\(BTOB－BLUE單曲\).md "wikilink") / *Vocal Line（[BTOB–BLUE](https://zh.wikipedia.org/wiki/BTOB–BLUE "wikilink")）*
 12. The Feeling
 13. 沒有你不行
 

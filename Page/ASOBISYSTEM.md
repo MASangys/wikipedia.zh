@@ -106,10 +106,7 @@
 
   - [公司官网](http://asobisystem.com/)
 
-[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
-[Category:市场营销公司](https://zh.wikipedia.org/wiki/Category:市场营销公司 "wikilink")
-[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink")
-[Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink")
+[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:市场营销公司](https://zh.wikipedia.org/wiki/Category:市场营销公司 "wikilink") [Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink") [Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink")
 
 1.
 2.

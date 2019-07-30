@@ -1,20 +1,12 @@
-**株式會社CloverWorks**（）是[日本](../Page/日本.md "wikilink")[Aniplex所屬製作](../Page/Aniplex.md "wikilink")[動畫的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[子公司](../Page/子公司.md "wikilink")，於2018年10月1日成為獨立公司\[1\]。
+**株式會社CloverWorks**（）是[日本](../Page/日本.md "wikilink")[Aniplex](../Page/Aniplex.md "wikilink")所屬製作[動畫的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[子公司](../Page/子公司.md "wikilink")，於2018年10月1日成為獨立公司\[1\]。
 
 ## 概要
 
-原為[A-1
-Pictures位於東京都杉並區的高圓寺工作室](../Page/A-1_Pictures.md "wikilink")。2018年4月1日，A-1
-Pictures宣布為了加強工作室的獨立性，旗下的高圓寺工作室將會成為新品牌，並更名為「CloverWorks」\[2\]\[3\]。CloverWorks為A-1
-Pictures的子公司。
+原為[A-1 Pictures位於東京都杉並區的高圓寺工作室](../Page/A-1_Pictures.md "wikilink")。2018年4月1日，A-1 Pictures宣布為了加強工作室的獨立性，旗下的高圓寺工作室將會成為新品牌，並更名為「CloverWorks」\[2\]\[3\]。CloverWorks為A-1 Pictures的子公司。
 
-品牌獨立後，隨即有數部動畫的動畫製作方由A-1 Pictures改為CloverWorks，分別是《[Slow
-Start](../Page/Slow_Start.md "wikilink")》、《[DARLING in the
-FRANXX](../Page/DARLING_in_the_FRANXX.md "wikilink")》、《[女神異聞錄5 the
-ANIMATION](../Page/女神異聞錄5.md "wikilink")》及《[逆轉裁判
-Season2](https://zh.wikipedia.org/wiki/逆轉裁判_\(動畫\) "wikilink")》。
+品牌獨立後，隨即有數部動畫的動畫製作方由A-1 Pictures改為CloverWorks，分別是《[Slow Start](../Page/Slow_Start.md "wikilink")》、《[DARLING in the FRANXX](../Page/DARLING_in_the_FRANXX.md "wikilink")》、《[女神異聞錄5 the ANIMATION](../Page/女神異聞錄5.md "wikilink")》及《[逆轉裁判 Season2](https://zh.wikipedia.org/wiki/逆轉裁判_\(動畫\) "wikilink")》。
 
-2018年10月1日，CloverWorks宣布從A-1
-Pictures獨立，但仍然是[Aniplex的子公司](../Page/Aniplex.md "wikilink")\[4\]\[5\]\[6\]。
+2018年10月1日，CloverWorks宣布從A-1 Pictures獨立，但仍然是[Aniplex](../Page/Aniplex.md "wikilink")的子公司\[4\]\[5\]\[6\]。
 
 ## 作品一覽
 
@@ -54,7 +46,7 @@ Pictures獨立，但仍然是[Aniplex的子公司](../Page/Aniplex.md "wikilink"
 <td><p>1月13日－7月7日</p></td>
 <td><p><a href="../Page/錦織敦史.md" title="wikilink">錦織敦史</a></p></td>
 <td><p>原創</p></td>
-<td><p>與<a href="../Page/TRIGGER.md" title="wikilink">TRIGGER共同製作</a></p></td>
+<td><p>與<a href="../Page/TRIGGER.md" title="wikilink">TRIGGER</a>共同製作</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/女神異聞錄5.md" title="wikilink">女神異聞錄5 the ANIMATION</a></p></td>
@@ -136,10 +128,7 @@ Pictures獨立，但仍然是[Aniplex的子公司](../Page/Aniplex.md "wikilink"
 
   - [官方網站](http://cloverworks.co.jp/)
 
-[Category:2018年成立的公司](https://zh.wikipedia.org/wiki/Category:2018年成立的公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
+[Category:2018年成立的公司](https://zh.wikipedia.org/wiki/Category:2018年成立的公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
 
 1.
 2.

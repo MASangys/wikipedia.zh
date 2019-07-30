@@ -1,4 +1,4 @@
-是一款基于著名[第一人称射击游戏](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")《泰坦隕落》的改编作，以泰坦隕落1的[Source引擎为基础制作而成的](../Page/Source引擎.md "wikilink")[FPS类](../Page/第一人称射击游戏.md "wikilink")[网络游戏](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")，根据目前得到的信息来看，这将是一部仅于亚洲区发行的游戏。
+是一款基于著名[第一人称射击游戏](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")《泰坦隕落》的改编作，以泰坦隕落1的[Source引擎](../Page/Source引擎.md "wikilink")为基础制作而成的[FPS类](../Page/第一人称射击游戏.md "wikilink")[网络游戏](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")，根据目前得到的信息来看，这将是一部仅于亚洲区发行的游戏。
 
 ## 游戏发行及测试
 
@@ -31,9 +31,7 @@
   - [作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")：Windows 7 64位元
   - [CPU 處理器](../Page/中央处理器.md "wikilink")：Intel® Celeron G1830 2.8 GHz
   - [RAM 記憶體](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")：4GB 以上
-  - [VGA](../Page/视频图形阵列.md "wikilink")
-    [顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")：GeForce
-    GTS 450 以上
+  - [VGA](../Page/视频图形阵列.md "wikilink") [顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")：GeForce GTS 450 以上
   - [DirectX](../Page/DirectX.md "wikilink") 版本：DirectX 11
   - 硬體空間：23.8G（實際下載文件8.2G） 以上
 
@@ -48,18 +46,17 @@
 
 ## 世界觀
 
-本作的[世界观设定延续了泰坦陨落系列原有的世界观并在此基础上进行了一定的改动](../Page/世界观.md "wikilink")。在原作中抵抗组织依旧在与IMC进行着激烈的战斗，而到了本作时间点时，抵抗組織幾乎消滅了IMC。\[5\]
+本作的[世界观](../Page/世界观.md "wikilink")设定延续了泰坦陨落系列原有的世界观并在此基础上进行了一定的改动。在原作中抵抗组织依旧在与IMC进行着激烈的战斗，而到了本作时间点时，抵抗組織幾乎消滅了IMC。\[5\]
 
 ## 遊戲模式
 
-目前游戏仍然处于测试阶段，并未有太多信息流出，目前可以确认的游戏模式有：最後的泰坦、團隊死鬥、[爆破任務](../Page/爆破.md "wikilink")。
+目前游戏仍然处于测试阶段，并未有太多信息流出，目前可以确认的游戏模式有：最後的泰坦、團隊死鬥、[爆破](../Page/爆破.md "wikilink")任務。
 
 ## 鐵馭
 
 `Iron`
 
-Jack，也被成為「lron」，是一名前IMC士兵和測試的鐵馭，現在是一個獨立的 cybernetically-enhanced
-的鐵馭，他的泰坦是Atlas Gauntlet。
+Jack，也被成為「lron」，是一名前IMC士兵和測試的鐵馭，現在是一個獨立的 cybernetically-enhanced 的鐵馭，他的泰坦是Atlas Gauntlet。
 
 `Hollow`
 
@@ -87,15 +84,7 @@ Nora，又被稱為「Starseeker」。
   -
   -
 
-[Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink")
-[Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink")
-[Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:Source引擎游戏](https://zh.wikipedia.org/wiki/Category:Source引擎游戏 "wikilink")
-[Category:科幻电子游戏](https://zh.wikipedia.org/wiki/Category:科幻电子游戏 "wikilink")
-[Category:跑酷电子游戏](https://zh.wikipedia.org/wiki/Category:跑酷电子游戏 "wikilink")
-[Category:机甲电子游戏](https://zh.wikipedia.org/wiki/Category:机甲电子游戏 "wikilink")
-[Category:多人电子游戏](https://zh.wikipedia.org/wiki/Category:多人电子游戏 "wikilink")
+[Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink") [Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink") [Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Source引擎游戏](https://zh.wikipedia.org/wiki/Category:Source引擎游戏 "wikilink") [Category:科幻电子游戏](https://zh.wikipedia.org/wiki/Category:科幻电子游戏 "wikilink") [Category:跑酷电子游戏](https://zh.wikipedia.org/wiki/Category:跑酷电子游戏 "wikilink") [Category:机甲电子游戏](https://zh.wikipedia.org/wiki/Category:机甲电子游戏 "wikilink") [Category:多人电子游戏](https://zh.wikipedia.org/wiki/Category:多人电子游戏 "wikilink")
 
 1.
 2.

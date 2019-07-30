@@ -1,6 +1,5 @@
-《**After School
-Club**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Arirang
-TV的綜藝節目](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")，現由[朴智敏](../Page/朴智敏.md "wikilink")([15&](https://zh.wikipedia.org/wiki/15& "wikilink"))及主持。節目邀請藝人、明星或歌手進行採訪。
+
+ 《**After School Club**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Arirang TV的綜藝節目](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")，現由[朴智敏](../Page/朴智敏.md "wikilink")([15&](https://zh.wikipedia.org/wiki/15& "wikilink"))及、金佑星([The Rose](../Page/The_Rose_\(樂團\).md "wikilink"))主持。節目邀請藝人、明星或歌手進行採訪。
 
 ## 主持人
 
@@ -23,8 +22,8 @@ TV的綜藝節目](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")，現由
 <td><p>第326集－至今</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金佑星" title="wikilink">金佑星</a>(<a href="../Page/The_Rose_(樂團).md" title="wikilink">The Rose</a>)</p></td>
+<td><p>第361集－至今</p></td>
 </tr>
 </tbody>
 </table>
@@ -53,7 +52,7 @@ TV的綜藝節目](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")，現由
 | [NS允智](../Page/NS允智.md "wikilink")                                                                                    | 第67集、第137集                        |
 | Sanchez([Phantom](../Page/Phantom_\(韓國組合\).md "wikilink"))                                                            | 第81集、第83集                         |
 | Tia([Chocolat](../Page/Chocolat.md "wikilink"))                                                                       | 第8集、第23集                          |
-| [方燦](https://zh.wikipedia.org/wiki/方燦 "wikilink")([Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink"))  | 第320集、第325集                       |
+| [方燦](../Page/方燦.md "wikilink")([Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink"))                     | 第320集、第325集                       |
 | Kevin([THE BOYZ](https://zh.wikipedia.org/wiki/THE_BOYZ "wikilink"))                                                  | 第297集                             |
 | [BamBam](../Page/BamBam.md "wikilink")([GOT7](../Page/GOT7.md "wikilink"))                                            | 第184集                             |
 | [Peniel](https://zh.wikipedia.org/wiki/Peniel "wikilink")([BTOB](../Page/BTOB.md "wikilink"))                         | 第177集                             |
@@ -94,7 +93,7 @@ TV的綜藝節目](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")，現由
 | 25 | 2013年10月2日  | [TASTY](../Page/TASTY.md "wikilink")                                                                                                                          |
 | 26 | 2013年10月9日  | [Block B](../Page/Block_B.md "wikilink")                                                                                                                      |
 | 27 | 2013年10月16日 | [Bigstar](https://zh.wikipedia.org/wiki/Bigstar "wikilink")                                                                                                   |
-| 28 | 2013年10月23日 | [玉澤演](https://zh.wikipedia.org/wiki/玉澤演 "wikilink")                                                                                                           |
+| 28 | 2013年10月23日 | [玉澤演](../Page/玉澤演.md "wikilink")                                                                                                                              |
 | 29 | 2013年10月30日 | [SHINee](../Page/SHINee.md "wikilink")                                                                                                                        |
 | 30 | 2013年11月6日  | [BOYFRIEND](https://zh.wikipedia.org/wiki/BOYFRIEND "wikilink")                                                                                               |
 | 31 | 2013年11月13日 | [U-KISS](../Page/U-KISS.md "wikilink")                                                                                                                        |
@@ -533,8 +532,7 @@ TV的綜藝節目](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")，現由
 
   - [](https://tv.naver.com/afterschoolclub)的NAVER TV頻道
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
 1.
 2.

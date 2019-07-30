@@ -1,27 +1,7 @@
-深圳地铁南车浦镇B型电动列车 |公司色 =  |圖像 = Shenzhen Metro Line 3 2015 B Stock
-Exterior.jpg |圖像說明 = 3号线列车在地面段行驶 |輛數 = 198 |產量=33组 |列車編組 = 4M2T |起動加速率 =
-≥3.6 |營運最高速度 = 85 |設計最高速度 = 100 |減速度（正常） = ≥3.6 |減速度（緊急） = ≥4.32 |信号系统 =
-庞巴迪CITYFLO650 |牵引系统 = Rotem |編組載客量 = 1,880 人 (AW3) |載客量 = Tc: 290 人
-(AW3)
+深圳地铁南车浦镇B型电动列车 |公司色 =  |圖像 = Shenzhen Metro Line 3 2015 B Stock Exterior.jpg |圖像說明 = 3号线列车在地面段行驶 |輛數 = 198 |產量=33组 |列車編組 = 4M2T |起動加速率 = ≥3.6 |營運最高速度 = 85 |設計最高速度 = 100 |減速度（正常） = ≥3.6 |減速度（緊急） = ≥4.32 |信号系统 = 庞巴迪CITYFLO650 |牵引系统 = Rotem |編組載客量 = 1,880 人 (AW3) |載客量 = Tc: 290 人 (AW3)
 M: 325 人 (AW3) |編組長度 = 118.28 |全長 = Tc: 19,500 mm
-M: 19,000 |全闊 = 2,792 |全高 = 3,800 |最大尺寸 = |編組總重量 = |車輛重量 = |軌距 = 1,435
-|電化方式 =
-[直流](../Page/直流電.md "wikilink")1,500[V](../Page/伏特.md "wikilink")（[第三轨供电](https://zh.wikipedia.org/wiki/第三轨供电 "wikilink")）
-|受流方式 = 下接触型[集电靴](https://zh.wikipedia.org/wiki/集电靴 "wikilink") |輸出 =
-|電動機輸出 = |編組輸出 = |齒輪比 = |驅動裝置 = |控制裝置 =
-湘電-[現代Rotem製](../Page/現代Rotem.md "wikilink")
-[IGBT](https://zh.wikipedia.org/wiki/IGBT "wikilink")-[VVVF](https://zh.wikipedia.org/wiki/VVVF "wikilink")
-|制動方式 = 轮盘制动 |保安裝置 = |車身物料 =
-[不锈钢](https://zh.wikipedia.org/wiki/不锈钢 "wikilink") |轉向架 =
-|原產國 =  |傳動方式=直-交 |牽引電動機= |變速段數= |輪徑= 840 (新轮) |軸重= ≤14 |軸距= 2,200
-|用戶=[深圳市地铁三号线投资有限公司](../Page/深圳市地铁三号线投资有限公司.md "wikilink")
-|路線=[3號綫](https://zh.wikipedia.org/wiki/深圳地鐵3號綫 "wikilink")
-|訂單編號= |車輛編號=0344-0376 |型號 = |類型 =
-[B型地铁车辆](https://zh.wikipedia.org/wiki/B型地铁车辆 "wikilink") |設計
-= |衍生自 = |衍生型 = |製造商 =
-[南车南京浦镇车辆](https://zh.wikipedia.org/wiki/南车南京浦镇车辆 "wikilink")
-|製造年份 = 2015年 |投入服務日期 = 2016年 |備註 = }}
-**深圳地铁南车浦镇B型电动列车**是一款行走于[深圳地铁3号线的列车](../Page/深圳地铁3号线.md "wikilink")，列车共6节编组，设计最高时速为100km/h。该车是为应对3号线日益增长的客流而增购的，列车共33列198辆，由[南车南京浦镇车辆有限公司制造](https://zh.wikipedia.org/wiki/南车南京浦镇车辆 "wikilink")。\[1\]
+M: 19,000 |全闊 = 2,792 |全高 = 3,800 |最大尺寸 = |編組總重量 = |車輛重量 = |軌距 = 1,435 |電化方式 = [直流](../Page/直流電.md "wikilink")1,500[V](../Page/伏特.md "wikilink")（[第三轨供电](https://zh.wikipedia.org/wiki/第三轨供电 "wikilink")） |受流方式 = 下接触型[集电靴](https://zh.wikipedia.org/wiki/集电靴 "wikilink") |輸出 = |電動機輸出 = |編組輸出 = |齒輪比 = |驅動裝置 = |控制裝置 = 湘電-[現代Rotem](../Page/現代Rotem.md "wikilink")製
+[IGBT](https://zh.wikipedia.org/wiki/IGBT "wikilink")-[VVVF](https://zh.wikipedia.org/wiki/VVVF "wikilink") |制動方式 = 轮盘制动 |保安裝置 = |車身物料 = [不锈钢](https://zh.wikipedia.org/wiki/不锈钢 "wikilink") |轉向架 = |原產國 =  |傳動方式=直-交 |牽引電動機= |變速段數= |輪徑= 840 (新轮) |軸重= ≤14 |軸距= 2,200 |用戶=[深圳市地铁三号线投资有限公司](../Page/深圳市地铁三号线投资有限公司.md "wikilink") |路線=[3號綫](https://zh.wikipedia.org/wiki/深圳地鐵3號綫 "wikilink") |訂單編號= |車輛編號=0344-0376 |型號 = |類型 = [B型地铁车辆](https://zh.wikipedia.org/wiki/B型地铁车辆 "wikilink") |設計 = |衍生自 = |衍生型 = |製造商 = [南车南京浦镇车辆](https://zh.wikipedia.org/wiki/南车南京浦镇车辆 "wikilink") |製造年份 = 2015年 |投入服務日期 = 2016年 |備註 = }} **深圳地铁南车浦镇B型电动列车**是一款行走于[深圳地铁3号线](../Page/深圳地铁3号线.md "wikilink")的列车，列车共6节编组，设计最高时速为100km/h。该车是为应对3号线日益增长的客流而增购的，列车共33列198辆，由[南车南京浦镇车辆有限公司制造](https://zh.wikipedia.org/wiki/南车南京浦镇车辆 "wikilink")。\[1\]
 
 ## 沿革
 
@@ -36,9 +16,7 @@ M: 19,000 |全闊 = 2,792 |全高 = 3,800 |最大尺寸 = |編組總重量 = |�
   - 列车采用长LCD屏与LED屏相结合，LCD屏显示线路地图及出口信息，LED屏为开门提示，相较于原先的窄LCD屏更加方便乘客查看；中间4节车厢将一个椅子的位置改为靠椅和折叠椅，能容纳更多人。
   - 列车首次采用LED智能照明技术，客室照明可以随着环境光线自动实现无级调光，大大减少能耗。\[8\]
 
-Shenzhen Metro CSR Nanjing Puzhen Type B Rolling Stock Cabin
-03476.jpg|深圳地鐵南車浦鎮B型電動列車客艙 浦镇B驾驶室.jpg|列车驾驶室
-浦镇B车LCD屏.jpg|深圳地铁3号线浦镇B车客室LCD屏
+Shenzhen Metro CSR Nanjing Puzhen Type B Rolling Stock Cabin 03476.jpg|深圳地鐵南車浦鎮B型電動列車客艙 浦镇B驾驶室.jpg|列车驾驶室 浦镇B车LCD屏.jpg|深圳地铁3号线浦镇B车客室LCD屏
 
 ## 列车编组
 
@@ -132,22 +110,18 @@ Shenzhen Metro CSR Nanjing Puzhen Type B Rolling Stock Cabin
 
 ## 参考资料
 
-[Category:深圳地鐵車輛](https://zh.wikipedia.org/wiki/Category:深圳地鐵車輛 "wikilink")
-[Category:中车浦镇制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车浦镇制铁路车辆 "wikilink")
+[Category:深圳地鐵車輛](https://zh.wikipedia.org/wiki/Category:深圳地鐵車輛 "wikilink") [Category:中车浦镇制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车浦镇制铁路车辆 "wikilink")
 
 1.  [深圳地铁3号线列车（浦镇）](http://www.trainnets.com/archives/14072)非人狂想屋，2016-06-06
 
-2.  [深圳地铁客流量2年增近4倍](http://sztqb.sznews.com/html/2013-08/11/content_2583883.htm)
-    深圳特区报，2013-08-11
+2.  [深圳地铁客流量2年增近4倍](http://sztqb.sznews.com/html/2013-08/11/content_2583883.htm) 深圳特区报，2013-08-11
 
-3.  [罗宝线、蛇口线、环中线计划增购列车104列](http://www.s1979.com/shenzhen/201212/3069226830.shtml)
-    CUTV深圳台，2012-12-30
+3.  [罗宝线、蛇口线、环中线计划增购列车104列](http://www.s1979.com/shenzhen/201212/3069226830.shtml) CUTV深圳台，2012-12-30
 
 4.
 5.  深圳地铁3号线（龙岗线）增购车辆首列车抵达横岗车辆段喜迎新年。3号线增购车辆首列车于2015年2月9日顺利运抵横岗车辆段。3号线增购车辆为100km/h运行速度的B型车，采用不锈钢车体及流线型车头，沿用了与既有车辆一致的牵引和辅助等重要系统。-深圳地铁运营微博，2015-02-09
 
 6.
-7.  [考考你 |
-    三号线增购的新列车与现有列车有哪些不同？](http://mp.weixin.qq.com/s?__biz=MzA5MTgyMTA4OA==&mid=2651362859&idx=3&sn=4259a33440b2225fd83856f8c70cb819&scene=0#wechat_redirect)深圳地铁，2016-04-13
+7.  [考考你 | 三号线增购的新列车与现有列车有哪些不同？](http://mp.weixin.qq.com/s?__biz=MzA5MTgyMTA4OA==&mid=2651362859&idx=3&sn=4259a33440b2225fd83856f8c70cb819&scene=0#wechat_redirect)深圳地铁，2016-04-13
 
 8.

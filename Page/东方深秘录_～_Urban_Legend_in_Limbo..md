@@ -1,7 +1,6 @@
-是由[上海愛莉絲幻樂團與](../Page/上海愛莉絲幻樂團.md "wikilink")[黃昏邊境共同製作的](../Page/黃昏邊境.md "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")14.5作。\[1\]\[2\]
+是由[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")與[黃昏邊境](../Page/黃昏邊境.md "wikilink")共同製作的[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")14.5作。\[1\]\[2\]
 
-本作将会首次出现第一个游戏主机[PlayStation
-4移植版本](../Page/PlayStation_4.md "wikilink")，\[3\]将会增加《[永夜抄](../Page/東方永夜抄_～_Imperishable_Night..md "wikilink")》的铃仙·优昙华院·因幡作为新角色，和一个在《[紺珠傳](../Page/東方紺珠傳_～_Legacy_of_Lunatic_Kingdom..md "wikilink")》事件之后的新番外故事剧情，延續故事為《[憑依華](../Page/東方憑依華_～_Antinomy_of_Common_Flowers..md "wikilink")》。\[4\]\[5\]
+本作将会首次出现第一个游戏主机[PlayStation 4移植版本](../Page/PlayStation_4.md "wikilink")，\[3\]将会增加《[永夜抄](../Page/東方永夜抄_～_Imperishable_Night..md "wikilink")》的铃仙·优昙华院·因幡作为新角色，和一个在《[紺珠傳](../Page/東方紺珠傳_～_Legacy_of_Lunatic_Kingdom..md "wikilink")》事件之后的新番外故事剧情，延續故事為《[憑依華](../Page/東方憑依華_～_Antinomy_of_Common_Flowers..md "wikilink")》。\[4\]\[5\]
 
 ## 概要
 
@@ -15,8 +14,7 @@
 
 ## 游戏系统
 
-[th145_gameplay.png](https://zh.wikipedia.org/wiki/File:th145_gameplay.png "fig:th145_gameplay.png")
-沿用了《[心綺樓](../Page/東方心綺樓_～_Hopeless_Masquerade..md "wikilink")》的游戏系统。由于本作与[都市传说有关](https://zh.wikipedia.org/wiki/都会传奇 "wikilink")，游戏格斗过程中会出现特定道具“神秘珠”，触发后游戏环境会变为相应的传说地点场景，会对格斗产生不同的附属效果。
+[th145_gameplay.png](https://zh.wikipedia.org/wiki/File:th145_gameplay.png "fig:th145_gameplay.png") 沿用了《[心綺樓](../Page/東方心綺樓_～_Hopeless_Masquerade..md "wikilink")》的游戏系统。由于本作与[都市传说有关](https://zh.wikipedia.org/wiki/都会传奇 "wikilink")，游戏格斗过程中会出现特定道具“神秘珠”，触发后游戏环境会变为相应的传说地点场景，会对格斗产生不同的附属效果。
 
 ## 登场角色
 
@@ -57,12 +55,7 @@
 
   - [游戏黄昏边境官方网站](http://www.tasofro.net/touhou145/)
 
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink")
-[Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
-[Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink")
-[Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink")
 
 1.
 2.

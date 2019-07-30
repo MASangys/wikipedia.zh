@@ -1,9 +1,8 @@
-《''' NOROSHI
-'''》是[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")37張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2016年12月7日發行
+《''' NOROSHI '''》是[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第37張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2016年12月7日發行
 
 ## 概要
 
-  - [生田斗真主演電影](../Page/生田斗真.md "wikilink")『臥底型警2 香港狂響曲』（）主題曲
+  - [生田斗真](../Page/生田斗真.md "wikilink")主演電影『臥底型警2 香港狂響曲』（）主題曲
 
 ## 收錄曲目
 

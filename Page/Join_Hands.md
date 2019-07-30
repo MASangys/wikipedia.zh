@@ -1,7 +1,4 @@
-《**Join
-Hands**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[Super
-Junior的子組合](../Page/Super_Junior.md "wikilink")[Super
-Junior-K.R.Y.第二張日語單曲](../Page/Super_Junior-K.R.Y..md "wikilink")。2015年8月5日發行。\[1\]\[2\]
+《**Join Hands**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[Super Junior的子組合](../Page/Super_Junior.md "wikilink")[Super Junior-K.R.Y.第二張日語單曲](../Page/Super_Junior-K.R.Y..md "wikilink")。2015年8月5日發行。\[1\]\[2\]
 
 ## 曲目
 
@@ -58,9 +55,7 @@ Junior-K.R.Y.第二張日語單曲](../Page/Super_Junior-K.R.Y..md "wikilink")�
 
   - [Super Junior-K.R.Y. 日本官方網站](http://superjunior-jp.net/kry/)
 
-[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
-[Category:Super_Junior-K.R.Y.音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior-K.R.Y.音樂專輯 "wikilink")
+[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink") [Category:Super_Junior-K.R.Y.音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior-K.R.Y.音樂專輯 "wikilink")
 
 1.
 2.

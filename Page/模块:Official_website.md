@@ -2,8 +2,7 @@ local makeUrl = require('Module:URL')._url
 
 local p = {}
 
-\-- Wrapper for pcall which returns nil on failure. local function
-quickPcall(func)
+\-- Wrapper for pcall which returns nil on failure. local function quickPcall(func)
 
 `   local success, result = pcall(func)`
 `   if success then`
@@ -12,8 +11,7 @@ quickPcall(func)
 
 end
 
-\-- Gets the rank for a Wikidata property table. Returns 1, 0 or -1, in
--- order of rank. local function getRank(prop)
+\-- Gets the rank for a Wikidata property table. Returns 1, 0 or -1, in -- order of rank. local function getRank(prop)
 
 `   local rank = prop.rank`
 `   if rank == 'preferred' then`
@@ -29,8 +27,7 @@ end
 
 end
 
-\-- Finds whether a Wikidata property is qualified as being in Chinese.
-local function isChinese(prop)
+\-- Finds whether a Wikidata property is qualified as being in Chinese. local function isChinese(prop)
 
 `   local ret = quickPcall(function ()`
 `       for i, lang in ipairs(prop.qualifiers.P407) do`
@@ -44,8 +41,7 @@ local function isChinese(prop)
 
 end
 
-\-- Fetches the official website URL from Wikidata. local
-fetchWikidataUrl fetchWikidataUrl = function()
+\-- Fetches the official website URL from Wikidata. local fetchWikidataUrl fetchWikidataUrl = function()
 
 `   -- Get objects for all official sites on Wikidata.`
 `   local websites = quickPcall(function ()`
@@ -90,8 +86,7 @@ fetchWikidataUrl fetchWikidataUrl = function()
 
 end
 
-\-- Render the URL link, plus other visible output. local function
-renderUrl(options)
+\-- Render the URL link, plus other visible output. local function renderUrl(options)
 
 `   if not options.url and not options.wikidataurl then`
 `       return '`<strong class="error">`' ..`
@@ -113,8 +108,7 @@ renderUrl(options)
 `   if options.format == 'flash' then`
 `       ret[#ret + 1] = mw.getCurrentFrame():expandTemplate{`
 `           title = 'Link note',`
-`           args = {note = '需要`[`Adobe``   ``Flash``
- ``Player`](../Page/Adobe_Flash_Player.md "wikilink")`'}`
+`           args = {note = '需要`[`Adobe``   ``Flash``   ``Player`](../Page/Adobe_Flash_Player.md "wikilink")`'}`
 `       }`
 `   end`
 `   if options.mobile then`
@@ -124,8 +118,7 @@ renderUrl(options)
 
 end
 
-\-- Render the tracking category. local function
-renderTrackingCategory(url, wikidataurl)
+\-- Render the tracking category. local function renderTrackingCategory(url, wikidataurl)
 
 `   if mw.title.getCurrentTitle().namespace ~= 0 then`
 `       return ''`

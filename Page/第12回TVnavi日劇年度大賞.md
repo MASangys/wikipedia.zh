@@ -157,7 +157,6 @@
 
 ## 參考來源
 
-[Category:2015年日本](https://zh.wikipedia.org/wiki/Category:2015年日本 "wikilink")
-[Category:2015年电视奖项](https://zh.wikipedia.org/wiki/Category:2015年电视奖项 "wikilink")
+[Category:2015年日本](https://zh.wikipedia.org/wiki/Category:2015年日本 "wikilink") [Category:2015年电视奖项](https://zh.wikipedia.org/wiki/Category:2015年电视奖项 "wikilink")
 
 1.  [ドラマ・オブ・ザ・イヤー2016休止のお知らせ](http://www.tvnaviweb.jp/TVnavi_contents/doYear/)

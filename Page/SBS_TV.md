@@ -1,12 +1,9 @@
-**SBS
-TV**是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[SBS对](https://zh.wikipedia.org/wiki/SBS_\(韩国\) "wikilink")[首都圈地区播出的一个电视频道](https://zh.wikipedia.org/wiki/韩国首都圈 "wikilink")，呼号为**HLSQ-DTV**。
+**SBS TV**是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[SBS对](https://zh.wikipedia.org/wiki/SBS_\(韩国\) "wikilink")[首都圈地区播出的一个电视频道](https://zh.wikipedia.org/wiki/韩国首都圈 "wikilink")，呼号为**HLSQ-DTV**。
 
 ## 沿革
 
-  - 1991年11月30日：汉城放送（即现在的株式会社SBS）的无线电视频道（SBS
-    TV）开始试播，最初只在[汉城](https://zh.wikipedia.org/wiki/汉城 "wikilink")（[首尔的旧称](https://zh.wikipedia.org/wiki/首尔 "wikilink")）及其周边地区播出。12月9日上午10:00，频道正式开播，呼号HLSQ-TV。
-  - 1995年5月14日：汉城的SBS
-    TV与[釜山的PSB](https://zh.wikipedia.org/wiki/釜山 "wikilink")（即现在的[KNN](../Page/KNN.md "wikilink")）、[大邱的](https://zh.wikipedia.org/wiki/大邱 "wikilink")[TBC](https://zh.wikipedia.org/wiki/大邱放送 "wikilink")、[大田的](../Page/大田广域市.md "wikilink")[TJB](https://zh.wikipedia.org/wiki/大田放送 "wikilink")、[光州的](../Page/光州.md "wikilink")组成[电视联播网](https://zh.wikipedia.org/wiki/电视联播网 "wikilink")。至2002年完成了全国各地的电视联播网。
+  - 1991年11月30日：汉城放送（即现在的株式会社SBS）的无线电视频道（SBS TV）开始试播，最初只在[汉城](https://zh.wikipedia.org/wiki/汉城 "wikilink")（[首尔的旧称](https://zh.wikipedia.org/wiki/首尔 "wikilink")）及其周边地区播出。12月9日上午10:00，频道正式开播，呼号HLSQ-TV。
+  - 1995年5月14日：汉城的SBS TV与[釜山的PSB](https://zh.wikipedia.org/wiki/釜山 "wikilink")（即现在的[KNN](../Page/KNN.md "wikilink")）、[大邱的](https://zh.wikipedia.org/wiki/大邱 "wikilink")[TBC](https://zh.wikipedia.org/wiki/大邱放送 "wikilink")、[大田的](../Page/大田广域市.md "wikilink")[TJB](https://zh.wikipedia.org/wiki/大田放送 "wikilink")、[光州](../Page/光州.md "wikilink")的组成[电视联播网](https://zh.wikipedia.org/wiki/电视联播网 "wikilink")。至2002年完成了全国各地的电视联播网。
   - 2000年8月31日：地面数字电视试播开始，第二年10月26日正式开播，呼号HLSQ-DTV，采用高清晰度电视广播，是韩国第一个高清晰度电视频道，也是亚洲第一个地面数字高清电视频道。
   - 2011年8月20日：所有节目转换为高清格式播出。
   - 2012年10月29日：全天24小时广播开始。

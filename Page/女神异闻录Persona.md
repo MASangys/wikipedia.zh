@@ -1,6 +1,4 @@
-是一款由[Atlus制作和发行的](../Page/Atlus.md "wikilink")[角色扮演类游戏](https://zh.wikipedia.org/wiki/角色扮演类游戏 "wikilink")\[1\]，副標題為「Be
-Your True
-Mind」。《[女神异闻录系列](https://zh.wikipedia.org/wiki/女神异闻录系列 "wikilink")》的首作。本游戏于1996年9月20日在日本地区[PlayStation首先发行](https://zh.wikipedia.org/wiki/PlayStation_\(游戏机\) "wikilink")。\[2\]
+是一款由[Atlus](../Page/Atlus.md "wikilink")制作和发行的[角色扮演类游戏](https://zh.wikipedia.org/wiki/角色扮演类游戏 "wikilink")\[1\]，副標題為「Be Your True Mind」。《[女神异闻录系列](https://zh.wikipedia.org/wiki/女神异闻录系列 "wikilink")》的首作。本游戏于1996年9月20日在日本地区[PlayStation首先发行](https://zh.wikipedia.org/wiki/PlayStation_\(游戏机\) "wikilink")。\[2\]
 
 本作是角色扮演类游戏，玩家在其中控制一些高校学生。
 
@@ -14,8 +12,7 @@ Mind」。《[女神异闻录系列](https://zh.wikipedia.org/wiki/女神异闻�
 <!-- end list -->
 
   -
-    1996年當時，PlayStation上流行《[鐵拳2](https://zh.wikipedia.org/wiki/鐵拳2 "wikilink")》及《[生化危機](https://zh.wikipedia.org/wiki/生化危機 "wikilink")》等遊戲，而優質的角色扮演遊戲非常少，所以發表《女神轉生系列》的新作《女神異聞錄
-    Persona》時很受注目，雖然最初說所有年齡層的玩家都能享受遊戲，但系列的難易度、戰鬥時動畫的長度及系統複雜度，可說是不適合初學者的遊戲。但是「PERSONA育成」深奧的合體法則，個性豐富而有親近感的人物設定，及人的心理為主題及深厚的故事而深受歡迎，總共售出50萬套遊戲。
+    1996年當時，PlayStation上流行《[鐵拳2](https://zh.wikipedia.org/wiki/鐵拳2 "wikilink")》及《[生化危機](https://zh.wikipedia.org/wiki/生化危機 "wikilink")》等遊戲，而優質的角色扮演遊戲非常少，所以發表《女神轉生系列》的新作《女神異聞錄 Persona》時很受注目，雖然最初說所有年齡層的玩家都能享受遊戲，但系列的難易度、戰鬥時動畫的長度及系統複雜度，可說是不適合初學者的遊戲。但是「PERSONA育成」深奧的合體法則，個性豐富而有親近感的人物設定，及人的心理為主題及深厚的故事而深受歡迎，總共售出50萬套遊戲。
     其後於2006年12月1日開始發售《女神異聞錄 Persona 異空之塔篇》。
 
 ## 遊戲系統
@@ -29,9 +26,7 @@ Mind」。《[女神异闻录系列](https://zh.wikipedia.org/wiki/女神异闻�
 
 ### 主要人物
 
-****（配音：[石塚堅](../Page/石塚堅.md "wikilink")/
-[石田彰](../Page/石田彰.md "wikilink")/
-[谷山紀章](../Page/谷山紀章.md "wikilink")）
+****（配音：[石塚堅](../Page/石塚堅.md "wikilink")/ [石田彰](../Page/石田彰.md "wikilink")/ [谷山紀章](../Page/谷山紀章.md "wikilink")）
 
   -
     遊戲：沒有預設名稱 / 漫畫版：**** / 小説版：**** / 廣播劇CD：****
@@ -125,7 +120,7 @@ Mind」。《[女神异闻录系列](https://zh.wikipedia.org/wiki/女神异闻�
 
 ### 漫畫版
 
-作者於[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")1996年11月號開始連載，2000年3月號完結，全8集。2009年6月25日由[一迅社推出新裝版](../Page/一迅社.md "wikilink")。
+作者於[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")1996年11月號開始連載，2000年3月號完結，全8集。2009年6月25日由[一迅社](../Page/一迅社.md "wikilink")推出新裝版。
 
   - GFantasy Comic
     1.  ISBN 4-87025-582-0
@@ -182,15 +177,9 @@ Mind」。《[女神异闻录系列](https://zh.wikipedia.org/wiki/女神异闻�
 
 ## 外部連結
 
-  - [《女神異聞錄
-    Persona》介紹網頁](https://web.archive.org/web/20111117025139/http://www.atlus.co.jp/cs/game/pstation/others/pe.html)
+  - [《女神異聞錄 Persona》介紹網頁](https://web.archive.org/web/20111117025139/http://www.atlus.co.jp/cs/game/pstation/others/pe.html)
 
-[Category:1996年电子游戏](https://zh.wikipedia.org/wiki/Category:1996年电子游戏 "wikilink")
-[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink")
-[Category:女神異聞錄系列電子遊戲](https://zh.wikipedia.org/wiki/Category:女神異聞錄系列電子遊戲 "wikilink")
-[Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
+[Category:1996年电子游戏](https://zh.wikipedia.org/wiki/Category:1996年电子游戏 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:女神異聞錄系列電子遊戲](https://zh.wikipedia.org/wiki/Category:女神異聞錄系列電子遊戲 "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
 
-1.  [*tensei*](http://www.mobygames.com/game/nes/digital-devil-story-megami-tensei)
-    game overview at
-    [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
+1.  [*tensei*](http://www.mobygames.com/game/nes/digital-devil-story-megami-tensei) game overview at [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
 2.

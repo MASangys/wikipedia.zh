@@ -7,21 +7,15 @@
 
 #### 2008年
 
-6月，以主唱**Rami**與吉他手**Yoshi**為中心在[大阪組成](../Page/大阪市.md "wikilink")，以[關西為據點開始活動](https://zh.wikipedia.org/wiki/關西 "wikilink")。
-11月，參與了合輯『THE RED HOT BURNING HELL VOL.16』(LIGHTS OUT
-RECORDS)。隨後貝斯手**SAWA**與支援的吉他手都退出了。
+6月，以主唱**Rami**與吉他手**Yoshi**為中心在[大阪組成](../Page/大阪市.md "wikilink")，以[關西為據點開始活動](https://zh.wikipedia.org/wiki/關西 "wikilink")。 11月，參與了合輯『THE RED HOT BURNING HELL VOL.16』(LIGHTS OUT RECORDS)。隨後貝斯手**SAWA**與支援的吉他手都退出了。
 
 #### 2009年
 
-1月，吉他手**TOKI**加入。
-11月，**Aldious**發售了自制的首張獨立創作[EP](https://zh.wikipedia.org/wiki/EP "wikilink")『Dear
-Slave』，在各間金屬系専賣店售罄。
+1月，吉他手**TOKI**加入。 11月，**Aldious**發售了自制的首張獨立創作[EP](https://zh.wikipedia.org/wiki/EP "wikilink")『Dear Slave』，在各間金屬系専賣店售罄。
 
 #### 2010年
 
-1月，鼓手**Aruto**加入。
-3月，初期的貝斯手**SAWA**再次加入組成5人的隊制，同時設成立於GIRLS・METAL・LEVEL「Bright
-Star Records」。
+1月，鼓手**Aruto**加入。 3月，初期的貝斯手**SAWA**再次加入組成5人的隊制，同時設成立於GIRLS・METAL・LEVEL「Bright Star Records」。
 
 ## 成員
 
@@ -31,7 +25,7 @@ Star Records」。
 
 吉他手，代表色****（唯一的原組成員）
 
-[11月27日出生](../Page/11月27日.md "wikilink")。出生於[兵庫縣](../Page/兵库县.md "wikilink")[神戸市](../Page/神户市.md "wikilink")。Aldious的團長、作曲與樂團的監督。
+[11月27日](../Page/11月27日.md "wikilink")出生。出生於[兵庫縣](../Page/兵库县.md "wikilink")[神戸市](../Page/神户市.md "wikilink")。Aldious的團長、作曲與樂團的監督。
 
 **TOKI**
 
@@ -65,7 +59,7 @@ Star Records」。
 
 主唱，代表色****
 
-[1987年](../Page/1987年.md "wikilink")[4月9日出生](../Page/4月9日.md "wikilink")。出生於[東京都](../Page/東京都.md "wikilink")30歳。原名：二階堂梨乃。16歲的時候開始音樂活動，加入Aldious前是「**[推定少女](../Page/推定少女.md "wikilink")**」「**髑髏**」的成員。2018年12月17日時，因健康問題退出。
+[1987年](../Page/1987年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")出生。出生於[東京都](../Page/東京都.md "wikilink")30歳。原名：二階堂梨乃。16歲的時候開始音樂活動，加入Aldious前是「**[推定少女](../Page/推定少女.md "wikilink")**」「**髑髏**」的成員。2018年12月17日時，因健康問題退出。
 
 ## 音樂作品
 
@@ -105,15 +99,11 @@ Star Records」。
 ## 外部連結
 
   - [Aldious 官方網站](https://aldious.net/profiles)
-  - [Aldious
-    官方Twitter](https://twitter.com/Aldious_info)（@Aldious_info）
+  - [Aldious 官方Twitter](https://twitter.com/Aldious_info)（@Aldious_info）
   - [Aldious 官方Facebook](https://www.facebook.com/Aldious.officialpage)
-  - [Aldious
-    官方YouTube](https://m.youtube.com/channel/UCI98TjmtCOeK5r5VspJuJGQ)
+  - [Aldious 官方YouTube](https://m.youtube.com/channel/UCI98TjmtCOeK5r5VspJuJGQ)
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:2008年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年成立的音樂團體 "wikilink")
-[Category:日本重金屬樂團](https://zh.wikipedia.org/wiki/Category:日本重金屬樂團 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:2008年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年成立的音樂團體 "wikilink") [Category:日本重金屬樂團](https://zh.wikipedia.org/wiki/Category:日本重金屬樂團 "wikilink")
 
 1.
 2.

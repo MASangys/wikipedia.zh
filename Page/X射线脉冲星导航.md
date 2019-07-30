@@ -1,4 +1,4 @@
-**X射线脉冲星导航**（，簡稱：或），亦称为**脉冲星导航**，是一种尚在探索阶段的深空定位[导航方法](https://zh.wikipedia.org/wiki/导航 "wikilink")：利用[脉冲星发出的](../Page/脉冲星.md "wikilink")[X射线辐射作为信息输入](../Page/X射线.md "wikilink")，经过处理解算出导航所需的位置、速度、时间、[姿态信息](https://zh.wikipedia.org/wiki/姿态 "wikilink")。
+**X射线脉冲星导航**（，簡稱：或），亦称为**脉冲星导航**，是一种尚在探索阶段的深空定位[导航方法](https://zh.wikipedia.org/wiki/导航 "wikilink")：利用[脉冲星](../Page/脉冲星.md "wikilink")发出的[X射线](../Page/X射线.md "wikilink")辐射作为信息输入，经过处理解算出导航所需的位置、速度、时间、[姿态信息](https://zh.wikipedia.org/wiki/姿态 "wikilink")。
 
 ## 基本原理
 
@@ -26,8 +26,7 @@
 
 ## 参考
 
-[Category:导航](https://zh.wikipedia.org/wiki/Category:导航 "wikilink")
-[Category:航空航天](https://zh.wikipedia.org/wiki/Category:航空航天 "wikilink")
+[Category:导航](https://zh.wikipedia.org/wiki/Category:导航 "wikilink") [Category:航空航天](https://zh.wikipedia.org/wiki/Category:航空航天 "wikilink")
 
 1.
 

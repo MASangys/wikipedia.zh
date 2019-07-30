@@ -1,5 +1,4 @@
-**Gray Matter Interactive**（原称**Xatrix Entertainment**），是一家由Drew
-Markham，格雷格·古德里奇和迈克尔·考夫曼（外号Maxx）成立于1994年的美国游戏开发商，并于2002年1月被[动视收购](../Page/动视.md "wikilink")。
+**Gray Matter Interactive**（原称**Xatrix Entertainment**），是一家由Drew Markham，格雷格·古德里奇和迈克尔·考夫曼（外号Maxx）成立于1994年的美国游戏开发商，并于2002年1月被[动视](../Page/动视.md "wikilink")收购。
 
 2005年，Gray Matter Interactive并入Treyarch。
 
@@ -27,13 +26,7 @@ Markham，格雷格·古德里奇和迈克尔·考夫曼（外号Maxx）成立�
 
 ## 外部链接
 
-  - [Gray Matter website
-    (archived)](https://web.archive.org/web/20080806110344/http://www.gmistudios.com/)
-  - [Screenshots & summary of Trinity
-    premise](http://pc.ign.com/objects/552/552332.html)
+  - [Gray Matter website (archived)](https://web.archive.org/web/20080806110344/http://www.gmistudios.com/)
+  - [Screenshots & summary of Trinity premise](http://pc.ign.com/objects/552/552332.html)
 
-[Category:1994年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1994年開業電子遊戲公司 "wikilink")
-[Category:2005年結業公司](https://zh.wikipedia.org/wiki/Category:2005年結業公司 "wikilink")
-[Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink")
-[Category:美國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國已結業電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
+[Category:1994年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1994年開業電子遊戲公司 "wikilink") [Category:2005年結業公司](https://zh.wikipedia.org/wiki/Category:2005年結業公司 "wikilink") [Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink") [Category:美國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國已結業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")

@@ -1,12 +1,10 @@
-''' J.D馬丁尼茲
-'''（，），[美國棒球選手](https://zh.wikipedia.org/wiki/美國 "wikilink")，守備位置為[外野手](https://zh.wikipedia.org/wiki/外野手 "wikilink")，目前效力於[波士頓紅襪隊](https://zh.wikipedia.org/wiki/波士頓紅襪隊 "wikilink")。生涯曾效力[美國職棒大聯盟的](https://zh.wikipedia.org/wiki/美國職棒大聯盟 "wikilink")[休士頓太空人隊](../Page/休士頓太空人.md "wikilink")、[底特律老虎隊](https://zh.wikipedia.org/wiki/底特律老虎隊 "wikilink")、[亞利桑那響尾蛇隊](https://zh.wikipedia.org/wiki/亞利桑那響尾蛇隊 "wikilink")。
+''' J.D馬丁尼茲 '''（，），[美國棒球選手](https://zh.wikipedia.org/wiki/美國 "wikilink")，守備位置為[外野手](https://zh.wikipedia.org/wiki/外野手 "wikilink")，目前效力於[波士頓紅襪隊](https://zh.wikipedia.org/wiki/波士頓紅襪隊 "wikilink")。生涯曾效力[美國職棒大聯盟的](https://zh.wikipedia.org/wiki/美國職棒大聯盟 "wikilink")[休士頓太空人](../Page/休士頓太空人.md "wikilink")隊、[底特律老虎隊](https://zh.wikipedia.org/wiki/底特律老虎隊 "wikilink")、[亞利桑那響尾蛇隊](https://zh.wikipedia.org/wiki/亞利桑那響尾蛇隊 "wikilink")。
 
 ## 經歷
 
 ### [休士頓太空人](../Page/休士頓太空人.md "wikilink")
 
-2009年[美國職棒選秀會中被太空人在第](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")20輪第611順位選進，同年7月30日因球隊原主力外野手Hunter
-Pence被交易，因此頂替其位置並首次在大聯盟出賽。
+2009年[美國職棒選秀會中被太空人在第](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")20輪第611順位選進，同年7月30日因球隊原主力外野手Hunter Pence被交易，因此頂替其位置並首次在大聯盟出賽。
 
 2013年11月20日遭到太空人釋出。
 
@@ -366,16 +364,9 @@ Pence被交易，因此頂替其位置並首次在大聯盟出賽。
 ## 外部連結
 
   -
-[Category:佛羅里達州人](https://zh.wikipedia.org/wiki/Category:佛羅里達州人 "wikilink")
-[Category:美國棒球選手](https://zh.wikipedia.org/wiki/Category:美國棒球選手 "wikilink")
-[Category:美國職棒大聯盟球員](https://zh.wikipedia.org/wiki/Category:美國職棒大聯盟球員 "wikilink")
+[Category:佛羅里達州人](https://zh.wikipedia.org/wiki/Category:佛羅里達州人 "wikilink") [Category:美國棒球選手](https://zh.wikipedia.org/wiki/Category:美國棒球選手 "wikilink") [Category:美國職棒大聯盟球員](https://zh.wikipedia.org/wiki/Category:美國職棒大聯盟球員 "wikilink")
 
-[Category:休士頓太空人隊球員](https://zh.wikipedia.org/wiki/Category:休士頓太空人隊球員 "wikilink")
-[Category:底特律老虎隊球員](https://zh.wikipedia.org/wiki/Category:底特律老虎隊球員 "wikilink")
-[Category:亞利桑那響尾蛇隊球員](https://zh.wikipedia.org/wiki/Category:亞利桑那響尾蛇隊球員 "wikilink")
-[Category:波士頓紅襪隊球員](https://zh.wikipedia.org/wiki/Category:波士頓紅襪隊球員 "wikilink")
-[Category:美國聯盟全明星球員](https://zh.wikipedia.org/wiki/Category:美國聯盟全明星球員 "wikilink")
+[Category:休士頓太空人隊球員](https://zh.wikipedia.org/wiki/Category:休士頓太空人隊球員 "wikilink") [Category:底特律老虎隊球員](https://zh.wikipedia.org/wiki/Category:底特律老虎隊球員 "wikilink") [Category:亞利桑那響尾蛇隊球員](https://zh.wikipedia.org/wiki/Category:亞利桑那響尾蛇隊球員 "wikilink") [Category:波士頓紅襪隊球員](https://zh.wikipedia.org/wiki/Category:波士頓紅襪隊球員 "wikilink") [Category:美國聯盟全明星球員](https://zh.wikipedia.org/wiki/Category:美國聯盟全明星球員 "wikilink")
 
 1.  [避免薪資仲裁　老虎2年6.1億續簽強打馬丁尼茲](https://sports.ettoday.net/news/646338)，[ETtoday](https://zh.wikipedia.org/wiki/ETtoday "wikilink")，2016-02-11
-2.  [響尾蛇拚季後賽
-    交易老虎明星外野手](http://sports.ltn.com.tw/news/breakingnews/2136291)，[自由時報](../Page/自由時報.md "wikilink")，2017-07-19
+2.  [響尾蛇拚季後賽 交易老虎明星外野手](http://sports.ltn.com.tw/news/breakingnews/2136291)，[自由時報](../Page/自由時報.md "wikilink")，2017-07-19

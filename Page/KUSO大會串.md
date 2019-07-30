@@ -2,6 +2,4 @@
 
 ## 參考文獻
 
-[Category:探險活寶](https://zh.wikipedia.org/wiki/Category:探險活寶 "wikilink")
-[Category:2012年電視劇集](https://zh.wikipedia.org/wiki/Category:2012年電視劇集 "wikilink")
-[Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink")
+[Category:探險活寶](https://zh.wikipedia.org/wiki/Category:探險活寶 "wikilink") [Category:2012年電視劇集](https://zh.wikipedia.org/wiki/Category:2012年電視劇集 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink")

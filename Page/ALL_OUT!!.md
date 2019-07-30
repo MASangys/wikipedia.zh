@@ -1,11 +1,10 @@
-《**ALL
-OUT\!\!**》（）是[雨瀨栞的](../Page/雨瀨栞.md "wikilink")[橄欖球題材](../Page/橄欖球.md "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。
+《**ALL OUT\!\!**》（）是[雨瀨栞](../Page/雨瀨栞.md "wikilink")的[橄欖球](../Page/橄欖球.md "wikilink")題材[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。
 
 ## 概要
 
 2013年開始在[講談社的旗下青年漫畫雜誌](https://zh.wikipedia.org/wiki/講談社 "wikilink")《》1號連載。在雜誌上連載時用「\#-」表示。
 
-作品描寫主角祇園健次為初學者，加入縣立神奈川高校（簡稱「神高」）[橄欖球社之後面臨各式各樣的挑戰](../Page/橄欖球.md "wikilink")。
+作品描寫主角祇園健次為初學者，加入縣立神奈川高校（簡稱「神高」）[橄欖球](../Page/橄欖球.md "wikilink")社之後面臨各式各樣的挑戰。
 
 2015年9月宣佈改編成[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，2016年10月起首播\[1\]。
 
@@ -188,9 +187,7 @@ OUT\!\!**》（）是[雨瀨栞的](../Page/雨瀨栞.md "wikilink")[橄欖球�
 
 ### 單行本
 
-  - [雨瀨栞](../Page/雨瀨栞.md "wikilink")《ALL
-    OUT\!\!》，[日本](../Page/日本.md "wikilink")[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")〈KC
-    Morning〉發行，截至2019年1月，已經發行15冊。另外2016年2月發行的特裝版第1冊與第8冊有附贈廣播劇CD。
+  - [雨瀨栞](../Page/雨瀨栞.md "wikilink")《ALL OUT\!\!》，[日本](../Page/日本.md "wikilink")[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")〈KC Morning〉發行，截至2019年1月，已經發行15冊。另外2016年2月發行的特裝版第1冊與第8冊有附贈廣播劇CD。
 
 <table>
 <thead>
@@ -301,29 +298,26 @@ ISBN 978-4-06-511602-9[6]</p></td>
 
 ## 電視動畫
 
-2016年10月至2017年3月在[TOKYO
-MX](../Page/東京都會電視台.md "wikilink")、[MBS](../Page/每日放送.md "wikilink")、[BS11等台首播](../Page/日本BS放送.md "wikilink")。同時也是史上首部以「橄欖球」運動項目為題材的作品\[7\]。
+2016年10月至2017年3月在[TOKYO MX](../Page/東京都會電視台.md "wikilink")、[MBS](../Page/每日放送.md "wikilink")、[BS11等台首播](../Page/日本BS放送.md "wikilink")。同時也是史上首部以「橄欖球」運動項目為題材的作品\[7\]。
 
 ### 製作人員
 
   - 原作：[雨瀨栞](../Page/雨瀨栞.md "wikilink")
   - 導演：[清水健一](../Page/清水健一.md "wikilink")
-  - 副導演：牛嶋新一郎
+  - 副導演：牛-{嶋}-新一郎
   - 劇本統籌：[橫谷昌宏](../Page/橫谷昌宏.md "wikilink")
-  - 劇本：橫谷昌宏、[入江信吾](../Page/入江信吾.md "wikilink")
   - 人物設定：筱雅律
   - 動作作畫監督：菅野芳弘
   - 美術監督：西倉力
-  - 色彩設計：中嶋音夢
+  - 色彩設計：中-{嶋}-音夢
   - 攝影監督：井上洋志
-  - 3DCG監督：長浜裕樹
+  - 3DCG監督：長濱裕樹
   - 特殊效果：Team-Taniguchi
-  - 編集：木村佳史子
+  - 剪輯：木村佳史子
   - 音樂：[高梨康治](../Page/高梨康治.md "wikilink")（Team-MAX）
   - 音響監督：小泉紀介
-  - 音響製作：神南Studio
-  - 動畫製作：[TMS
-    Entertainment](../Page/TMS娛樂.md "wikilink")×[MADHOUSE](../Page/MADHOUSE.md "wikilink")
+  - 音響製作：神南工作室
+  - 動畫製作：[TMS Entertainment](../Page/TMS娛樂.md "wikilink")×[MADHOUSE](../Page/MADHOUSE.md "wikilink")
   - 企劃製作協力：
   - 製作：神高橄欖球部
 
@@ -346,8 +340,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[MBS](../Page/每日放送.md
 
   - 片尾曲
 
-:; 「 produced by
-[奧田民生](https://zh.wikipedia.org/wiki/奧田民生 "wikilink")」（第1話－第12話、第25話）
+:; 「 produced by [奧田民生](https://zh.wikipedia.org/wiki/奧田民生 "wikilink")」（第1話－第12話、第25話）
 
 :: 作詞、作曲：、，編曲：奧田民生，主唱：[無限開關](../Page/無限開關.md "wikilink")
 
@@ -711,9 +704,7 @@ Jeon Hyongiun</p></td>
 
 ## 外部連結
 
-  - [ALL
-    OUT\!\!／雨瀨栞－Morning官方網站－Moae](http://morning.moae.jp/lineup/141)
-
+  - [ALL OUT\!\!／雨瀨栞－Morning官方網站－Moae](http://morning.moae.jp/lineup/141)
 
   -
 
@@ -723,17 +714,7 @@ Jeon Hyongiun</p></td>
 
   -
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:橄欖球題材漫畫](https://zh.wikipedia.org/wiki/Category:橄欖球題材漫畫 "wikilink")
-[Category:Morning連載作品](https://zh.wikipedia.org/wiki/Category:Morning連載作品 "wikilink")
-[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink")
-[Category:神奈川縣背景作品](https://zh.wikipedia.org/wiki/Category:神奈川縣背景作品 "wikilink")
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:TMS_Entertainment](https://zh.wikipedia.org/wiki/Category:TMS_Entertainment "wikilink")
-[Category:球類運動動畫](https://zh.wikipedia.org/wiki/Category:球類運動動畫 "wikilink")
-[Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:橄欖球題材漫畫](https://zh.wikipedia.org/wiki/Category:橄欖球題材漫畫 "wikilink") [Category:Morning連載作品](https://zh.wikipedia.org/wiki/Category:Morning連載作品 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:神奈川縣背景作品](https://zh.wikipedia.org/wiki/Category:神奈川縣背景作品 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:TMS_Entertainment](https://zh.wikipedia.org/wiki/Category:TMS_Entertainment "wikilink") [Category:球類運動動畫](https://zh.wikipedia.org/wiki/Category:球類運動動畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 
 1.
 

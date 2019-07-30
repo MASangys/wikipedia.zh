@@ -1,5 +1,4 @@
-《**Dream**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Apink成員](../Page/Apink.md "wikilink")[鄭恩地以個人女](../Page/鄭恩地.md "wikilink")[歌手身份活動的首張個人](../Page/歌手.md "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，由[Plan
-A娛樂製作](../Page/Plan_A娛樂.md "wikilink")，[LOEN娛樂於](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")2016年4月18日發行。
+《**Dream**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Apink](../Page/Apink.md "wikilink")成員[鄭恩地](../Page/鄭恩地.md "wikilink")以個人女[歌手](../Page/歌手.md "wikilink")身份活動的首張個人[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，由[Plan A娛樂製作](../Page/Plan_A娛樂.md "wikilink")，[LOEN娛樂於](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")2016年4月18日發行。
 
 ## 發行
 
@@ -56,10 +55,7 @@ A娛樂製作](../Page/Plan_A娛樂.md "wikilink")，[LOEN娛樂於](https://zh.
   -
   -
   -
-[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2016年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2016年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon數位下載週榜冠軍作品 "wikilink")
+[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2016年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon單曲週榜冠軍作品 "wikilink") [Category:2016年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon數位下載週榜冠軍作品 "wikilink")
 
 1.
 2.

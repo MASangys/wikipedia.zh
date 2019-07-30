@@ -1,14 +1,12 @@
 \-- This module is a replacement for the RfX report bot.
 
-local rfx = require( 'Module:Rfx' ) local colours = mw.loadData(
-'Module:RFX report/colour' )
+local rfx = require( 'Module:Rfx' ) local colours = mw.loadData( 'Module:RFX report/colour' )
 
 local p = {}
 
 local function getRfxes()
 
-`   -- Get the title object for `[`Wikipedia:Requests``   ``for``
- ``adminship`](https://zh.wikipedia.org/wiki/Wikipedia:Requests_for_adminship "wikilink")`.`
+`   -- Get the title object for `[`Wikipedia:Requests``   ``for``   ``adminship`](https://zh.wikipedia.org/wiki/Wikipedia:Requests_for_adminship "wikilink")`.`
 `   local noError, rfa = pcall( mw.title.new, 'Wikipedia:申请成为管理人员/申请区' )`
 `   if not noError or ( noError and not rfa ) then`
 `       return nil`
@@ -19,8 +17,7 @@ local function getRfxes()
 `   end`
 `   `
 `   -- Return a table with a list of pages transcluded from`
-`   -- `[`Wikipedia:Requests``   ``for``
- ``adminship`](https://zh.wikipedia.org/wiki/Wikipedia:Requests_for_adminship "wikilink")`, minus the exceptions`
+`   -- `[`Wikipedia:Requests``   ``for``   ``adminship`](https://zh.wikipedia.org/wiki/Wikipedia:Requests_for_adminship "wikilink")`, minus the exceptions`
 `   -- which are always transcluded there.`
 `   local t = {}`
 `   local exceptions = { 'header' }`
@@ -68,13 +65,7 @@ local function makeRow( rfxObject )
 `       votes = mw.ustring.format( [==[`
 `       `
 
-| style="text-align: right;%s" |
-[%d](https://zh.wikipedia.org/wiki/%s#支持 "wikilink") |
-style="text-align: right;%s" |
-[%d](https://zh.wikipedia.org/wiki/%s#反對 "wikilink") |
-style="text-align: right;%s" |
-[%d](https://zh.wikipedia.org/wiki/%s#中立 "wikilink") |
-style="text-align: right; background: \#%s;" | %d\]==\],
+| style="text-align: right;%s" | [%d](https://zh.wikipedia.org/wiki/%s#支持 "wikilink") | style="text-align: right;%s" | [%d](https://zh.wikipedia.org/wiki/%s#反對 "wikilink") | style="text-align: right;%s" | [%d](https://zh.wikipedia.org/wiki/%s#中立 "wikilink") | style="text-align: right; background: \#%s;" | %d\]==\],
 
 `           styleInline, page, supports,`
 `           styleInline, page, opposes,`
@@ -119,8 +110,7 @@ style="text-align: right; background: \#%s;" | %d\]==\],
 `   -- 第 x 次`
 `   local attempt = rfxObject.attempt`
 `   if attempt ~= '1' then`
-`       user = user .. '`<sup>`'``   ``..``   ``attempt``   ``..``
- ``'`</sup>`'`
+`       user = user .. '`<sup>`'``   ``..``   ``attempt``   ``..``   ``'`</sup>`'`
 `   end`
 `   `
 `   return mw.ustring.format(`
@@ -281,5 +271,4 @@ end
 
 return p
 
-[Category:投票計算失效的頁面](https://zh.wikipedia.org/wiki/Category:投票計算失效的頁面 "wikilink")
-[Category:投票計算失效的頁面](https://zh.wikipedia.org/wiki/Category:投票計算失效的頁面 "wikilink")
+[Category:投票計算失效的頁面](https://zh.wikipedia.org/wiki/Category:投票計算失效的頁面 "wikilink") [Category:投票計算失效的頁面](https://zh.wikipedia.org/wiki/Category:投票計算失效的頁面 "wikilink")

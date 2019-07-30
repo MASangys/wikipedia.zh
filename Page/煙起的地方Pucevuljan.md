@@ -1,6 +1,4 @@
-《**煙起的地方
-pucevuljan**》（[排灣語](../Page/排灣語.md "wikilink")：），2017年[原住民族電視台](https://zh.wikipedia.org/wiki/原住民族電視台 "wikilink")[電視電影](../Page/電視電影.md "wikilink")。由[琇琴](../Page/琇琴.md "wikilink")、[葉瑋庭](https://zh.wikipedia.org/wiki/葉瑋庭 "wikilink")、[千苡桐領銜主演](../Page/千苡桐.md "wikilink")。\[1\]\[2\]故事描述部落青年外流，造成靈媒文化中斷無法傳承。\[3\]
-2016年9月7日開鏡，2017年4月16日上檔。
+《**煙起的地方 pucevuljan**》（[排灣語](../Page/排灣語.md "wikilink")：），2017年[原住民族電視台](https://zh.wikipedia.org/wiki/原住民族電視台 "wikilink")[電視電影](../Page/電視電影.md "wikilink")。由[琇琴](../Page/琇琴.md "wikilink")、[葉瑋庭](https://zh.wikipedia.org/wiki/葉瑋庭 "wikilink")、[千苡桐](../Page/千苡桐.md "wikilink")領銜主演。\[1\]\[2\]故事描述部落青年外流，造成靈媒文化中斷無法傳承。\[3\] 2016年9月7日開鏡，2017年4月16日上檔。
 
 ## 播出時間
 
@@ -93,17 +91,8 @@ pucevuljan**》（[排灣語](../Page/排灣語.md "wikilink")：），2017年[�
 ## 外部連結
 
   -
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink")
-[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink")
-[Category:2017年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2017年台灣電視劇集 "wikilink")
-[Category:台灣原住民題材作品](https://zh.wikipedia.org/wiki/Category:台灣原住民題材作品 "wikilink")
-[Category:屏東縣背景作品](https://zh.wikipedia.org/wiki/Category:屏東縣背景作品 "wikilink")
-[Category:靈媒](https://zh.wikipedia.org/wiki/Category:靈媒 "wikilink")
-[Category:排灣族](https://zh.wikipedia.org/wiki/Category:排灣族 "wikilink")
-[Category:社會問題題材作品](https://zh.wikipedia.org/wiki/Category:社會問題題材作品 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink") [Category:2017年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2017年台灣電視劇集 "wikilink") [Category:台灣原住民題材作品](https://zh.wikipedia.org/wiki/Category:台灣原住民題材作品 "wikilink") [Category:屏東縣背景作品](https://zh.wikipedia.org/wiki/Category:屏東縣背景作品 "wikilink") [Category:靈媒](https://zh.wikipedia.org/wiki/Category:靈媒 "wikilink") [Category:排灣族](https://zh.wikipedia.org/wiki/Category:排灣族 "wikilink") [Category:社會問題題材作品](https://zh.wikipedia.org/wiki/Category:社會問題題材作品 "wikilink")
 
-1.  [「錦繡」再合作
-    《煙起裊裊》傳達歸鄉](http://www.epochtimes.com/b5/16/6/20/n8015428.htm)
-2.  [錦繡二重唱合體
-    不唱歌改演戲](http://udn.com/news/story/7264/1772965-%E9%8C%A6%E7%B9%A1%E4%BA%8C%E9%87%8D%E5%94%B1%E5%90%88%E9%AB%94-%E4%B8%8D%E5%94%B1%E6%AD%8C%E6%94%B9%E6%BC%94%E6%88%B2)
+1.  [「錦繡」再合作 《煙起裊裊》傳達歸鄉](http://www.epochtimes.com/b5/16/6/20/n8015428.htm)
+2.  [錦繡二重唱合體 不唱歌改演戲](http://udn.com/news/story/7264/1772965-%E9%8C%A6%E7%B9%A1%E4%BA%8C%E9%87%8D%E5%94%B1%E5%90%88%E9%AB%94-%E4%B8%8D%E5%94%B1%E6%AD%8C%E6%94%B9%E6%BC%94%E6%88%B2)
 3.  [原視自製戲劇試鏡會 素人演員秀才藝](http://titv.ipcf.org.tw/news-21854)

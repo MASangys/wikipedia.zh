@@ -1,16 +1,14 @@
-**Gusto**（原名**ZenPayroll**）是一所[美国薪酬计算公司](../Page/美国.md "wikilink")。Gusto的服务覆盖了美国的50个州。\[1\]
+**Gusto**（原名**ZenPayroll**）是一所[美国](../Page/美国.md "wikilink")薪酬计算公司。Gusto的服务覆盖了美国的50个州。\[1\]
 
 ## 发展历史
 
-原名ZenPayroll的Gusto是美国创投公司[Y
-Combinator于](../Page/Y_Combinator_\(公司\).md "wikilink")2012年冬季培育的公司。\[2\]2012年12月11日，ZenPayroll在[加利福尼亚州正式推出其服务](../Page/加利福尼亚州.md "wikilink")。\[3\]\[4\]
+原名ZenPayroll的Gusto是美国创投公司[Y Combinator于](../Page/Y_Combinator_\(公司\).md "wikilink")2012年冬季培育的公司。\[2\]2012年12月11日，ZenPayroll在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")正式推出其服务。\[3\]\[4\]
 
-2013年6月12日，ZenPayroll开始支持支付合同。这得到了一些技术作家的欢迎并增加了ZenPayroll与ADP和Paychex等公司的竞争优势。ZenPayroll还宣布准备在[佛罗里达州](../Page/佛罗里达州.md "wikilink")、[得克萨斯州和](https://zh.wikipedia.org/wiki/得克萨斯州 "wikilink")[纽约州推出其服务](../Page/纽约州.md "wikilink")。\[5\]\[6\]截至8月，ZenPayroll的服务覆盖了美国的50个州。
+2013年6月12日，ZenPayroll开始支持支付合同。这得到了一些技术作家的欢迎并增加了ZenPayroll与ADP和Paychex等公司的竞争优势。ZenPayroll还宣布准备在[佛罗里达州](../Page/佛罗里达州.md "wikilink")、[得克萨斯州和](https://zh.wikipedia.org/wiki/得克萨斯州 "wikilink")[纽约州](../Page/纽约州.md "wikilink")推出其服务。\[5\]\[6\]截至8月，ZenPayroll的服务覆盖了美国的50个州。
 
 2013年8月，ZenPayroll宣布其每年处理的支付总额已超过1亿美元。\[7\]
 
-2014年2月19日，Gusto宣布发起第一轮融资，估值达到100百万美元以上。该轮投资由General Catalyst
-Partners领投，[凯鹏华盈也参与了该轮投资](../Page/凯鹏华盈.md "wikilink")。\[8\]\[9\]\[10\]\[11\]
+2014年2月19日，Gusto宣布发起第一轮融资，估值达到100百万美元以上。该轮投资由General Catalyst Partners领投，[凯鹏华盈](../Page/凯鹏华盈.md "wikilink")也参与了该轮投资。\[8\]\[9\]\[10\]\[11\]
 
 2015年4月，ZenPayroll对外公布了覆盖其服务的50个州。\[12\]
 
@@ -25,13 +23,11 @@ Partners领投，[凯鹏华盈也参与了该轮投资](../Page/凯鹏华盈.md 
 ## 外部链接
 
   -
-  - [CrunchBase
-    profile](https://web.archive.org/web/20150103031432/http://www.crunchbase.com/organization/zenpayroll)
+  - [CrunchBase profile](https://web.archive.org/web/20150103031432/http://www.crunchbase.com/organization/zenpayroll)
 
   - [AngelList profile](https://angel.co/zenpayroll)
 
-[Category:美國科技公司](https://zh.wikipedia.org/wiki/Category:美國科技公司 "wikilink")
-[Category:Y_Combinator公司](https://zh.wikipedia.org/wiki/Category:Y_Combinator公司 "wikilink")
+[Category:美國科技公司](https://zh.wikipedia.org/wiki/Category:美國科技公司 "wikilink") [Category:Y_Combinator公司](https://zh.wikipedia.org/wiki/Category:Y_Combinator公司 "wikilink")
 
 1.
 2.

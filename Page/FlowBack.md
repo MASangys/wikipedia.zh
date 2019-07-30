@@ -593,8 +593,7 @@ ALWAYS -Instrumental-</p></td>
 
 :\*[Flowback 官方部落格](http://lineblog.me/flowback/)
 
-:\*[Official Facebook](https://www.facebook.com/FlowBack05/?fref=ts) -
-[Facebook](../Page/Facebook.md "wikilink")
+:\*[Official Facebook](https://www.facebook.com/FlowBack05/?fref=ts) - [Facebook](../Page/Facebook.md "wikilink")
 
   - Twitter
 

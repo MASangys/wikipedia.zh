@@ -2,8 +2,7 @@
 
 主要製作動畫和遊戲相關的音樂。
 
-此外，2000年之後部分作品與 [STUDIO
-MAUSU](https://zh.wikipedia.org/wiki/STUDIO_MAUSU "wikilink") 共同製作。
+此外，2000年之後部分作品與 [STUDIO MAUSU](https://zh.wikipedia.org/wiki/STUDIO_MAUSU "wikilink") 共同製作。
 
 ## 主要的音樂作品
 
@@ -37,8 +36,7 @@ MAUSU](https://zh.wikipedia.org/wiki/STUDIO_MAUSU "wikilink") 共同製作。
   - [勇者王](../Page/勇者王.md "wikilink")
   - 西部警察 SPECIAL
   - よみがえる空 -RESCUE WINGS-
-  - [Marginal Prince
-    —月桂樹的王子們—](../Page/Marginal_Prince_—月桂樹的王子們—.md "wikilink")
+  - [Marginal Prince —月桂樹的王子們—](../Page/Marginal_Prince_—月桂樹的王子們—.md "wikilink")
   - [帝托拉傳奇](../Page/拯救德尔托拉.md "wikilink")
   - [桃華月憚](../Page/桃華月憚.md "wikilink")
   - [爆丸](../Page/爆丸.md "wikilink")
@@ -85,5 +83,4 @@ MAUSU](https://zh.wikipedia.org/wiki/STUDIO_MAUSU "wikilink") 共同製作。
 
   - [株式会社イマジン](http://www.imagine-music.co.jp/)
 
-[Category:1986年成立的公司](https://zh.wikipedia.org/wiki/Category:1986年成立的公司 "wikilink")
-[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
+[Category:1986年成立的公司](https://zh.wikipedia.org/wiki/Category:1986年成立的公司 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")

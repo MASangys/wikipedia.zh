@@ -1,12 +1,10 @@
-**Girl
-Spirit**（）是自2016年7月19日起在[韩国有线](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[电视台](../Page/电视台.md "wikilink")[JTBC播出的](../Page/JTBC.md "wikilink")[音乐竞技](../Page/音乐.md "wikilink")[真人秀](../Page/真人實境秀.md "wikilink")[节目](../Page/綜藝節目.md "wikilink")。节目目的是在突出近几年展示出的十二个[女子组合中](../Page/女子音乐组合.md "wikilink")，有主唱才能的成员。\[1\]节目在每周二晚22:50（[韩国时间](../Page/韩国标准时.md "wikilink")）播出。\[2\]
+**Girl Spirit**（）是自2016年7月19日起在[韩国有线](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[电视台](../Page/电视台.md "wikilink")[JTBC](../Page/JTBC.md "wikilink")播出的[音乐](../Page/音乐.md "wikilink")竞技[真人秀](../Page/真人實境秀.md "wikilink")[节目](../Page/綜藝節目.md "wikilink")。节目目的是在突出近几年展示出的十二个[女子组合中](../Page/女子音乐组合.md "wikilink")，有主唱才能的成员。\[1\]节目在每周二晚22:50（[韩国时间](../Page/韩国标准时.md "wikilink")）播出。\[2\]
 
-参赛者被分成A、B兩組對決，每組六名，在每一集表演结束后接受观众的投票排名，她们的得票分数将在十二周内被累积，以确定最终晋级四强的选手，每組有两名选手可以晋级至四强。每周参赛者演唱的歌曲将会发布数字音源。冠军将获得一辆全新的汽车，而亚军則可以得到[塞班岛家庭旅遊券的奖品](../Page/塞班岛.md "wikilink")；冠军和亚军最后演唱的歌曲也将会发布成[数字音源](../Page/數位音樂下載.md "wikilink")。
+参赛者被分成A、B兩組對決，每組六名，在每一集表演结束后接受观众的投票排名，她们的得票分数将在十二周内被累积，以确定最终晋级四强的选手，每組有两名选手可以晋级至四强。每周参赛者演唱的歌曲将会发布数字音源。冠军将获得一辆全新的汽车，而亚军則可以得到[塞班岛](../Page/塞班岛.md "wikilink")家庭旅遊券的奖品；冠军和亚军最后演唱的歌曲也将会发布成[数字音源](../Page/數位音樂下載.md "wikilink")。
 
 ## 节目形式
 
-Girl
-Spirit是围绕着还没有成功达到主流的十二个女子组合的歌手。五名“导师”将每周评判他们的表现，以及给她们建议。除了导师，选手的表现也将会从100名学习音乐梦想自己成为歌手的男性女性“听众”中投票，总票数为105票。从第二集开始，参赛者的分数将被累积来确定来自每个团队的前两名，而另一组团队也将会评判表现，使得最高得分为111分。
+Girl Spirit是围绕着还没有成功达到主流的十二个女子组合的歌手。五名“导师”将每周评判他们的表现，以及给她们建议。除了导师，选手的表现也将会从100名学习音乐梦想自己成为歌手的男性女性“听众”中投票，总票数为105票。从第二集开始，参赛者的分数将被累积来确定来自每个团队的前两名，而另一组团队也将会评判表现，使得最高得分为111分。
 
 每一集有两个独立的回合。在第一轮中，每一位导师、听众和另一组团队的成员均有一个投票器，他们将票投给自己喜欢的演唱选手。在最后一个选手表演结束后，第二轮开始，听众必须投票给他们认为最好的选手。每周的排名将通过第二轮的投票结果决定。获得票数第一的选手将决定该小组的成员在下一次竞演的出场顺序。
 
@@ -15,8 +13,7 @@ Spirit是围绕着还没有成功达到主流的十二个女子组合的歌手�
 ## 导师
 
   -
-  - [张佑赫](../Page/张佑赫.md "wikilink")
-    ([H.O.T.](../Page/H.O.T..md "wikilink"))
+  - [张佑赫](../Page/张佑赫.md "wikilink") ([H.O.T.](../Page/H.O.T..md "wikilink"))
 
   - ([NRG](https://zh.wikipedia.org/wiki/NRG "wikilink"))
 
@@ -56,8 +53,7 @@ Spirit是围绕着还没有成功达到主流的十二个女子组合的歌手�
 
 ### 第一集：预赛
 
-  - 介绍了十二个参赛者的顺序,从2012年1月出道的SPICA保亨开始，至2016年6月出道的Pledis
-    Girlz成妍结束。每位选手与她们所属的组合演唱一首组合歌曲后再一人独唱一首歌曲。
+  - 介绍了十二个参赛者的顺序,从2012年1月出道的SPICA保亨开始，至2016年6月出道的Pledis Girlz成妍结束。每位选手与她们所属的组合演唱一首组合歌曲后再一人独唱一首歌曲。
       - 投票人：105
 
 <table>
@@ -901,8 +897,7 @@ B组：
 
 ## 收视率
 
-以下纪录《**Girl
-Spirit**》节目之全国收视，<span style=color:red>**红色**</span>表示为该年度最高收视率，<span style=color:blue>**蓝色**</span>则表示为该年度最低收视率。
+以下纪录《**Girl Spirit**》节目之全国收视，<span style=color:red>**红色**</span>表示为该年度最高收视率，<span style=color:blue>**蓝色**</span>则表示为该年度最低收视率。
 
 | 集数 | 播出日期       | AGB 全国收视\[14\]                           |
 | -- | ---------- | ---------------------------------------- |
@@ -924,13 +919,9 @@ Spirit**》节目之全国收视，<span style=color:red>**红色**</span>表示
 
 ## 外部链接
 
-  - [Girl
-    Spirit](http://home.jtbc.joins.com/Preview/Preview.aspx?vod_service=2&prog_id=PR10010424&menu_id=PM10035632)
-    - 官方网站
+  - [Girl Spirit](http://home.jtbc.joins.com/Preview/Preview.aspx?vod_service=2&prog_id=PR10010424&menu_id=PM10035632) - 官方网站
 
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:韩国电视节目](https://zh.wikipedia.org/wiki/Category:韩国电视节目 "wikilink")
-[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
+[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:韩国电视节目](https://zh.wikipedia.org/wiki/Category:韩国电视节目 "wikilink") [Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
 
 1.
 2.

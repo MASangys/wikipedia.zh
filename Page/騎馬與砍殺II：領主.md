@@ -1,4 +1,4 @@
-是一款由[TaleWorlds開發的中世紀背景](../Page/TaleWorlds.md "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")，是2007年[TaleWorlds開發游戏](../Page/TaleWorlds.md "wikilink")《[骑马与砍杀](https://zh.wikipedia.org/wiki/骑马与砍杀 "wikilink")》的续作。
+是一款由[TaleWorlds](../Page/TaleWorlds.md "wikilink")開發的中世紀背景[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")，是2007年[TaleWorlds](../Page/TaleWorlds.md "wikilink")開發游戏《[骑马与砍杀](https://zh.wikipedia.org/wiki/骑马与砍杀 "wikilink")》的续作。
 
 ## 背景
 
@@ -12,7 +12,7 @@
 
 ## 開發
 
-2012年9月，[TaleWorlds宣布遊戲正在開發中](../Page/TaleWorlds.md "wikilink")，同時釋出一部預告影片。\[3\]
+2012年9月，[TaleWorlds](../Page/TaleWorlds.md "wikilink")宣布遊戲正在開發中，同時釋出一部預告影片。\[3\]
 
 遊戲畫面相比前作《[騎馬與砍殺：戰團](https://zh.wikipedia.org/wiki/騎馬與砍殺：戰團 "wikilink")》來說進步相當顯著，擁有更好的陰影效果與更精緻的模組。\[4\]在人物動作方面使用[動作捕捉技術來製作](https://zh.wikipedia.org/wiki/動作捕捉 "wikilink")，\[5\]人物臉部表情也會進行升級，讓人物情緒表現更加生動活潑。\[6\]
 
@@ -23,9 +23,7 @@
 ## 外部連結
 
   -
-[Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink")
-[Category:土耳其开发电子游戏](https://zh.wikipedia.org/wiki/Category:土耳其开发电子游戏 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
+[Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink") [Category:土耳其开发电子游戏](https://zh.wikipedia.org/wiki/Category:土耳其开发电子游戏 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
 
 1.
 2.

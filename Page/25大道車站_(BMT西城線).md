@@ -1,4 +1,4 @@
-**25大道車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT西城線的一個慢車](../Page/BMT西城線.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")25大道及86街交界，位於、及交界，設有[D線](../Page/紐約地鐵D線.md "wikilink")（任何時候停站）列車服務。
+**25大道車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT西城線](../Page/BMT西城線.md "wikilink")的一個慢車[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")25大道及86街交界，位於、及交界，設有[D線](../Page/紐約地鐵D線.md "wikilink")（任何時候停站）列車服務。
 
 ## 車站結構
 
@@ -36,23 +36,17 @@
 </tbody>
 </table>
 
-此高架車站在1916年12月19日開放，設有兩個[側式月台和三條軌道](../Page/側式月台.md "wikilink")，中央軌道並不使用。此車站設有四條樓梯前往街道，以及各月台一條樓梯前往夾層。
+此高架車站在1916年12月19日開放，設有兩個[側式月台](../Page/側式月台.md "wikilink")和三條軌道，中央軌道並不使用。此車站設有四條樓梯前往街道，以及各月台一條樓梯前往夾層。
 
 ## 參考資料
 
 ## 外部連結
 
   -
-  - Station Reporter — [D
-    Train](https://web.archive.org/web/20150112231643/http://www.stationreporter.net/dtrain.htm)
+  - Station Reporter — [D Train](https://web.archive.org/web/20150112231643/http://www.stationreporter.net/dtrain.htm)
 
-  - [25th Avenue entrance from Google Maps Street
-    View](https://maps.google.com/?ie=UTF8&ll=40.597825,-73.987019&spn=0,359.986567&z=17&layer=c&cbll=40.597773,-73.98694&panoid=o2fhSP2ZirP0IG80cvfurg&cbp=12,358.21,,0,7.16)
+  - [25th Avenue entrance from Google Maps Street View](https://maps.google.com/?ie=UTF8&ll=40.597825,-73.987019&spn=0,359.986567&z=17&layer=c&cbll=40.597773,-73.98694&panoid=o2fhSP2ZirP0IG80cvfurg&cbp=12,358.21,,0,7.16)
 
-  - [Platforms from Google Maps Street
-    View](https://www.google.com/maps/@40.5975838,-73.9863586,3a,75y,3.29h,95.23t/data=!3m7!1e1!3m5!1s-YKLTVGi7iao%2FWG3HSPBBmRI%2FAAAAAAAAYUI%2Fbb2ziPKCcz0isHVqv22NakKjHiU-akhkgCLIB!2e4!6s%2F%2Flh6.googleusercontent.com%2F-YKLTVGi7iao%2FWG3HSPBBmRI%2FAAAAAAAAYUI%2Fbb2ziPKCcz0isHVqv22NakKjHiU-akhkgCLIB%2Fw203-h100-p-k-no%2F!7i7168!8i3584!4m3!8m2!3m1!1e1)
+  - [Platforms from Google Maps Street View](https://www.google.com/maps/@40.5975838,-73.9863586,3a,75y,3.29h,95.23t/data=!3m7!1e1!3m5!1s-YKLTVGi7iao%2FWG3HSPBBmRI%2FAAAAAAAAYUI%2Fbb2ziPKCcz0isHVqv22NakKjHiU-akhkgCLIB!2e4!6s%2F%2Flh6.googleusercontent.com%2F-YKLTVGi7iao%2FWG3HSPBBmRI%2FAAAAAAAAYUI%2Fbb2ziPKCcz0isHVqv22NakKjHiU-akhkgCLIB%2Fw203-h100-p-k-no%2F!7i7168!8i3584!4m3!8m2!3m1!1e1)
 
-[Category:BMT西城線車站](https://zh.wikipedia.org/wiki/Category:BMT西城線車站 "wikilink")
-[Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink")
-[Category:1916年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1916年啟用的鐵路車站 "wikilink")
-[Category:1916年紐約州建立](https://zh.wikipedia.org/wiki/Category:1916年紐約州建立 "wikilink")
+[Category:BMT西城線車站](https://zh.wikipedia.org/wiki/Category:BMT西城線車站 "wikilink") [Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink") [Category:1916年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1916年啟用的鐵路車站 "wikilink") [Category:1916年紐約州建立](https://zh.wikipedia.org/wiki/Category:1916年紐約州建立 "wikilink")

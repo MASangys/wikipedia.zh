@@ -1,8 +1,4 @@
-《**Code:Realize ～創世的公主～**》是2014年11月27日由[Idea
-Factory旗下少女遊戲品牌](../Page/Idea_Factory.md "wikilink")開發的[PlayStation
-Vita平台](../Page/PlayStation_Vita.md "wikilink")。2016年推出[Fan
-Disk](https://zh.wikipedia.org/wiki/Fan_Disk "wikilink")《Code:Realize
-～祝福的未來～》。2017年4月23日宣佈改編為電視動畫，2017年10月7日起[東京都會電視台首播](../Page/東京都會電視台.md "wikilink")\[1\]。
+《**Code:Realize ～創世的公主～**》是2014年11月27日由[Idea Factory旗下少女遊戲品牌](../Page/Idea_Factory.md "wikilink")開發的[PlayStation Vita平台](../Page/PlayStation_Vita.md "wikilink")。2016年推出[Fan Disk](https://zh.wikipedia.org/wiki/Fan_Disk "wikilink")《Code:Realize ～祝福的未來～》。2017年4月23日宣佈改編為電視動畫，2017年10月7日起[東京都會電視台](../Page/東京都會電視台.md "wikilink")首播\[1\]。
 
 ## 故事簡介
 
@@ -74,15 +70,12 @@ Disk](https://zh.wikipedia.org/wiki/Fan_Disk "wikilink")《Code:Realize
 
 ## 電視動畫
 
-《Code:Realize
-～創世的公主～》由製作，2017年10月7日開始於在[東京都會電視台等電視台播放](../Page/東京都會電視台.md "wikilink")。第13話OVA收錄於官方特別活動「Code:Realize
-～London holiday～」所發售的活動手冊中。
+《Code:Realize ～創世的公主～》由製作，2017年10月7日開始於在[東京都會電視台](../Page/東京都會電視台.md "wikilink")等電視台播放。第13話OVA收錄於官方特別活動「Code:Realize ～London holiday～」所發售的活動手冊中。
 
 ### 主題曲
 
   - 片頭曲「」
-    填詞：霧島若歌，作曲、編曲：[廣川惠一](https://zh.wikipedia.org/wiki/廣川惠一 "wikilink")，主唱：[Mia
-    REGINA](../Page/Mia_REGINA.md "wikilink")
+    填詞：霧島若歌，作曲、編曲：[廣川惠一](https://zh.wikipedia.org/wiki/廣川惠一 "wikilink")，主唱：[Mia REGINA](../Page/Mia_REGINA.md "wikilink")
   - 片尾曲「」
     填詞：霧島若歌，作曲：川崎里實，編曲：森谷敏紀，主唱：卡爾迪婭（早見沙織）
 
@@ -229,29 +222,18 @@ Disk](https://zh.wikipedia.org/wiki/Fan_Disk "wikilink")《Code:Realize
 
 ## 外部連結
 
-  - [Code:Realize ～創世的公主～
-    PSVita版官方網站](http://www.otomate.jp/code-realize/)
+  - [Code:Realize ～創世的公主～ PSVita版官方網站](http://www.otomate.jp/code-realize/)
 
-  - [Code:Realize 〜祝福的未來〜
-    PSVita版FD官方網站](http://www.otomate.jp/code-realize/fd/)
+  - [Code:Realize 〜祝福的未來〜 PSVita版FD官方網站](http://www.otomate.jp/code-realize/fd/)
 
-  - [Code:Realize ～彩虹的花束～
-    PS4版官方網站](http://www.otomate.jp/code-realize/ps4/)
+  - [Code:Realize ～彩虹的花束～ PS4版官方網站](http://www.otomate.jp/code-realize/ps4/)
 
-  - [Code:Realize ～白銀的奇跡～
-    PS4版官方網站](http://www.otomate.jp/code-realize/fd2/)
+  - [Code:Realize ～白銀的奇跡～ PS4版官方網站](http://www.otomate.jp/code-realize/fd2/)
 
   -
   - [電視動畫「Code:Realize ～創世的公主～」官方網站](http://coderealize-anime.com/)
 
   -
-[分類:2014年電子遊戲](https://zh.wikipedia.org/wiki/分類:2014年電子遊戲 "wikilink")
-[分類:PlayStation
-Vita遊戲](https://zh.wikipedia.org/wiki/分類:PlayStation_Vita遊戲 "wikilink")
-[分類:少女遊戲](https://zh.wikipedia.org/wiki/分類:少女遊戲 "wikilink")
-[分類:吸血鬼題材遊戲](https://zh.wikipedia.org/wiki/分類:吸血鬼題材遊戲 "wikilink")
-[分類:倫敦背景電子遊戲](https://zh.wikipedia.org/wiki/分類:倫敦背景電子遊戲 "wikilink")
-[分類:2017年UHF動畫](https://zh.wikipedia.org/wiki/分類:2017年UHF動畫 "wikilink")
-[分類:AT-X動畫](https://zh.wikipedia.org/wiki/分類:AT-X動畫 "wikilink")
+[分類:2014年電子遊戲](https://zh.wikipedia.org/wiki/分類:2014年電子遊戲 "wikilink") [分類:PlayStation Vita遊戲](https://zh.wikipedia.org/wiki/分類:PlayStation_Vita遊戲 "wikilink") [分類:少女遊戲](https://zh.wikipedia.org/wiki/分類:少女遊戲 "wikilink") [分類:吸血鬼題材遊戲](https://zh.wikipedia.org/wiki/分類:吸血鬼題材遊戲 "wikilink") [分類:倫敦背景電子遊戲](https://zh.wikipedia.org/wiki/分類:倫敦背景電子遊戲 "wikilink") [分類:2017年UHF動畫](https://zh.wikipedia.org/wiki/分類:2017年UHF動畫 "wikilink") [分類:AT-X動畫](https://zh.wikipedia.org/wiki/分類:AT-X動畫 "wikilink")
 
 1.

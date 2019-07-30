@@ -1,10 +1,8 @@
-**L
-Cinema**是[香港戲院之一](../Page/香港.md "wikilink")，由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[樂天集團營運](../Page/樂天_\(Lotte\).md "wikilink")，位於[筲箕灣](../Page/筲箕灣.md "wikilink")[望隆街](https://zh.wikipedia.org/wiki/望隆街 "wikilink")[銀河廣場](https://zh.wikipedia.org/wiki/銀河廣場 "wikilink")2樓，於2016年2月8日開始營業，原址前身為筲箕灣戲院及新金明戲院。
+**L Cinema**是[香港](../Page/香港.md "wikilink")戲院之一，由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[樂天集團營運](../Page/樂天_\(Lotte\).md "wikilink")，位於[筲箕灣](../Page/筲箕灣.md "wikilink")[望隆街](https://zh.wikipedia.org/wiki/望隆街 "wikilink")[銀河廣場](https://zh.wikipedia.org/wiki/銀河廣場 "wikilink")2樓，於2016年2月8日開始營業，原址前身為筲箕灣戲院及新金明戲院。
 
 ## 簡介
 
-L Cinema有2間影院，提供174個座位\[1\]。提供 3D 播映系統、4K 銀幕及[杜比 7.1
-數碼環迴立體聲音響系統](https://zh.wikipedia.org/wiki/杜比7.1環繞聲 "wikilink")\[2\]。
+L Cinema有2間影院，提供174個座位\[1\]。提供 3D 播映系統、4K 銀幕及[杜比 7.1 數碼環迴立體聲音響系統](https://zh.wikipedia.org/wiki/杜比7.1環繞聲 "wikilink")\[2\]。
 
 ## 交通
 
@@ -71,13 +69,9 @@ L Cinema有2間影院，提供174個座位\[1\]。提供 3D 播映系統、4K �
 
 ## 外部連結
 
-  - [L Cinema官方FaceBook
-    專頁](https://www.facebook.com/L-Cinema-Shau-Kei-Wan-463814693803369)
+  - [L Cinema官方FaceBook 專頁](https://www.facebook.com/L-Cinema-Shau-Kei-Wan-463814693803369)
 
-[Category:香港戲院](https://zh.wikipedia.org/wiki/Category:香港戲院 "wikilink")
-[Category:東區_(香港)](https://zh.wikipedia.org/wiki/Category:東區_\(香港\) "wikilink")
-[Category:筲箕灣](https://zh.wikipedia.org/wiki/Category:筲箕灣 "wikilink")
+[Category:香港戲院](https://zh.wikipedia.org/wiki/Category:香港戲院 "wikilink") [Category:東區_(香港)](https://zh.wikipedia.org/wiki/Category:東區_\(香港\) "wikilink") [Category:筲箕灣](https://zh.wikipedia.org/wiki/Category:筲箕灣 "wikilink")
 
-1.  [L
-    CINEMA睇戲平絕港島　每張戲飛幾錢？](http://topick.hket.com/article/1378640/%20L%20CINEMA%E7%9D%87%E6%88%B2%E5%B9%B3%E7%B5%95%E6%B8%AF%E5%B3%B6%E3%80%80%E6%AF%8F%E5%BC%B5%E6%88%B2%E9%A3%9B%E5%B9%BE%E9%8C%A2%EF%BC%9F)
+1.  [L CINEMA睇戲平絕港島　每張戲飛幾錢？](http://topick.hket.com/article/1378640/%20L%20CINEMA%E7%9D%87%E6%88%B2%E5%B9%B3%E7%B5%95%E6%B8%AF%E5%B3%B6%E3%80%80%E6%AF%8F%E5%BC%B5%E6%88%B2%E9%A3%9B%E5%B9%BE%E9%8C%A2%EF%BC%9F)
 2.  [【區區有戲睇】地區戲院回歸做街坊生意！](https://www.pcmarket.com.hk/2016/03/25/%E3%80%90%E5%8D%80%E5%8D%80%E6%9C%89%E6%88%B2%E7%9D%87%E3%80%91%E5%9C%B0%E5%8D%80%E6%88%B2%E9%99%A2%E5%9B%9E%E6%AD%B8%E5%81%9A%E8%A1%97%E5%9D%8A%E7%94%9F%E6%84%8F%EF%BC%81/)

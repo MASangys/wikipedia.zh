@@ -1,5 +1,4 @@
-**Wonderland**是美籍韓裔歌手[Jessica第二張](../Page/Jessica_\(韓國歌手\).md "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。專輯內六首韓文歌在2016年12月10日由[Coridel
-Entertainment發佈](../Page/Coridel娛樂.md "wikilink")，以及英文版的專輯（除了Beautiful、Tonight）將在12月30日發佈。
+**Wonderland**是美籍韓裔歌手[Jessica第二張](../Page/Jessica_\(韓國歌手\).md "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。專輯內六首韓文歌在2016年12月10日由[Coridel Entertainment發佈](../Page/Coridel娛樂.md "wikilink")，以及英文版的專輯（除了Beautiful、Tonight）將在12月30日發佈。
 
 ## 歌曲
 
@@ -48,9 +47,7 @@ Entertainment發佈](../Page/Coridel娛樂.md "wikilink")，以及英文版的�
 
 ## 備註
 
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
+[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink") [Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
-**烏加里特字母**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了前15世纪至前12世纪，在[烏加里特使用的](../Page/烏加里特.md "wikilink")[楔形文字](../Page/楔形文字.md "wikilink")。
+**烏加里特字母**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了前15世纪至前12世纪，在[烏加里特](../Page/烏加里特.md "wikilink")使用的[楔形文字](../Page/楔形文字.md "wikilink")。
 
 ## 历史
 

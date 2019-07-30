@@ -1,13 +1,12 @@
 在**[古巴](../Page/古巴.md "wikilink")**，**女同性恋、男同性恋、双性恋与跨性别者**可能會面臨一些非LGBT群體不必面對的法律挑戰。
 
-歷史上，因該國傳統社会规范，古巴民眾對LGBT群體的反感度較高。自20世紀90年代開始，民眾對LGBT群體的反感程度稍有降低。\[1\]
-古巴LGBT教育現時由[古巴共产党中央委员会第一书记](../Page/古巴共产党中央委员会第一书记.md "wikilink")[劳尔·卡斯特罗之女](../Page/劳尔·卡斯特罗.md "wikilink")[玛丽拉·卡斯特罗負責的](../Page/玛丽拉·卡斯特罗.md "wikilink")展開。2008年，该组织成功争取将变性手术纳入，古巴的LGTB群体做变性手术亦可享受医保报销\[2\]。
+歷史上，因該國傳統社会规范，古巴民眾對LGBT群體的反感度較高。自20世紀90年代開始，民眾對LGBT群體的反感程度稍有降低。\[1\] 古巴LGBT教育現時由[古巴共产党中央委员会第一书记](../Page/古巴共产党中央委员会第一书记.md "wikilink")[劳尔·卡斯特罗](../Page/劳尔·卡斯特罗.md "wikilink")之女[玛丽拉·卡斯特罗](../Page/玛丽拉·卡斯特罗.md "wikilink")負責的展開。2008年，该组织成功争取将变性手术纳入，古巴的LGTB群体做变性手术亦可享受医保报销\[2\]。
 
-截至2018年，古巴民眾對LGBT群體之接受程度有了較大提升，有LGBT活動家開始公開呼籲該國[同性婚姻合法化](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")。\[3\]每年5月，在首都[哈瓦那都會舉辦](../Page/哈瓦那.md "wikilink")[驕傲遊行](https://zh.wikipedia.org/wiki/驕傲遊行 "wikilink")，遊行參與者人數逐年增長。\[4\][菲德尔·卡斯特罗之后亦承认他执政时期对同性恋者的迫害是](../Page/菲德尔·卡斯特罗.md "wikilink")“极大的不公正”\[5\]。2018年7月通过的新宪法草案將把婚姻的定義由原先的「一男一女的结合」改為「2個人之間的结合，有望推动同性婚姻合法化\[6\]。但由于受到部分保守民众和[福音派教会的反对及示威活动的影响](../Page/福音派.md "wikilink")，2018年12月18日召开的全国政权代表大会将有关“婚姻”的新定义移除出新宪法草案\[7\]\[8\]。[玛丽拉·卡斯特罗随后在推特上表示可在新宪法通过后尝试修改家庭法案来争取同性婚姻权益](../Page/玛丽拉·卡斯特罗.md "wikilink")\[9\]。
+截至2018年，古巴民眾對LGBT群體之接受程度有了較大提升，有LGBT活動家開始公開呼籲該國[同性婚姻合法化](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")。\[3\]每年5月，在首都[哈瓦那](../Page/哈瓦那.md "wikilink")都會舉辦[驕傲遊行](https://zh.wikipedia.org/wiki/驕傲遊行 "wikilink")，遊行參與者人數逐年增長。\[4\][菲德尔·卡斯特罗](../Page/菲德尔·卡斯特罗.md "wikilink")之后亦承认他执政时期对同性恋者的迫害是“极大的不公正”\[5\]。2018年7月通过的新宪法草案將把婚姻的定義由原先的「一男一女的结合」改為「2個人之間的结合，有望推动同性婚姻合法化\[6\]。但由于受到部分保守民众和[福音派](../Page/福音派.md "wikilink")教会的反对及示威活动的影响，2018年12月18日召开的全国政权代表大会将有关“婚姻”的新定义移除出新宪法草案\[7\]\[8\]。[玛丽拉·卡斯特罗](../Page/玛丽拉·卡斯特罗.md "wikilink")随后在推特上表示可在新宪法通过后尝试修改家庭法案来争取同性婚姻权益\[9\]。
 
 ## 現況
 
-[Mariela_Castro_2010_Hamburg.jpg](https://zh.wikipedia.org/wiki/File:Mariela_Castro_2010_Hamburg.jpg "fig:Mariela_Castro_2010_Hamburg.jpg")之女[玛丽拉·卡斯特罗是該國的LGBT活動家之一](../Page/玛丽拉·卡斯特罗.md "wikilink")。\]\]
+[Mariela_Castro_2010_Hamburg.jpg](https://zh.wikipedia.org/wiki/File:Mariela_Castro_2010_Hamburg.jpg "fig:Mariela_Castro_2010_Hamburg.jpg")之女[玛丽拉·卡斯特罗](../Page/玛丽拉·卡斯特罗.md "wikilink")是該國的LGBT活動家之一。\]\]
 
 |                                                                |                                                                                                 |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -38,19 +37,12 @@
 
 ## 參考來源
 
-[Category:各国LGBT权益](https://zh.wikipedia.org/wiki/Category:各国LGBT权益 "wikilink")
-[Category:古巴人權](https://zh.wikipedia.org/wiki/Category:古巴人權 "wikilink")
+[Category:各国LGBT权益](https://zh.wikipedia.org/wiki/Category:各国LGBT权益 "wikilink") [Category:古巴人權](https://zh.wikipedia.org/wiki/Category:古巴人權 "wikilink")
 
-1.  Rachel Evans, ["Rainbow Cuba: the sexual revolution within the
-    revolution"](http://links.org.au/node/2671) Links International
-    Journal of Socialist Renewal (23 December 2011).
+1.  Rachel Evans, ["Rainbow Cuba: the sexual revolution within the revolution"](http://links.org.au/node/2671) Links International Journal of Socialist Renewal (23 December 2011).
 2.
-3.  [Inside Cuba's LGBT revolution: How the island's attitudes to
-    sexuality and gender were
-    transformed](https://www.independent.co.uk/news/world/americas/cuba-lgbt-revolution-gay-lesbian-transgender-rights-havana-raul-castro-a8122591.html)
-    *independent.com.uk*, 4 January 2018
-4.   [En Cuba celebran el día del orgullo
-    gay](https://www.telemundo51.com/noticias/cuba/En-Cuba-celebran-el-dia-del-orgullo-gay-422298803.html)
+3.  [Inside Cuba's LGBT revolution: How the island's attitudes to sexuality and gender were transformed](https://www.independent.co.uk/news/world/americas/cuba-lgbt-revolution-gay-lesbian-transgender-rights-havana-raul-castro-a8122591.html) *independent.com.uk*, 4 January 2018
+4.   [En Cuba celebran el día del orgullo gay](https://www.telemundo51.com/noticias/cuba/En-Cuba-celebran-el-dia-del-orgullo-gay-422298803.html)
 5.
 6.
 7.

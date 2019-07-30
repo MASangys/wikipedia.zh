@@ -1,35 +1,18 @@
-**The
-Quiett**（，），本名**申东甲**（），[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[饶舌](../Page/饒舌.md "wikilink")[男歌手及](../Page/歌手.md "wikilink")[音樂製作人](../Page/音樂製作人.md "wikilink")。他在2004年创立独立饶舌音乐厂牌，后于2010年离开。在2011年，他与饶舌歌手[Dok2合伙成立了嘻哈音乐厂牌](../Page/Dok2.md "wikilink")[ILLIONAIRE
-RECORDS](https://zh.wikipedia.org/wiki/ILLIONAIRE_RECORDS "wikilink")，现为公司的联合CEO。\[1\]\[2\]
+**The Quiett**（，），本名**申东甲**（），[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[饶舌](../Page/饒舌.md "wikilink")[男歌手及](../Page/歌手.md "wikilink")[音樂製作人](../Page/音樂製作人.md "wikilink")。他在2004年创立独立饶舌音乐厂牌，后于2010年离开。在2011年，他与饶舌歌手[Dok2](../Page/Dok2.md "wikilink")合伙成立了嘻哈音乐厂牌[ILLIONAIRE RECORDS](https://zh.wikipedia.org/wiki/ILLIONAIRE_RECORDS "wikilink")，现为公司的联合CEO。\[1\]\[2\]
 
 ## 生平与经历
 
 ### 1985年－2004年：初期经历
 
-The
-Quiett于1985年在京畿道光明市出生，他在中学生时期无意间听到了[吹牛老爹的专辑](../Page/尚恩·库姆斯.md "wikilink")《No
-Way Out》并陷入了嘻哈音乐中，他在2000年即17岁那年起就开始学着制作节拍和作词。\[3\]他将Mobb Deep的专辑《Quiet
-Storm》中的Quiet作为自己的艺名，并在当时参加了包括在内的各种业余嘻哈活动。\[4\]
+The Quiett于1985年在京畿道光明市出生，他在中学生时期无意间听到了[吹牛老爹的专辑](../Page/尚恩·库姆斯.md "wikilink")《No Way Out》并陷入了嘻哈音乐中，他在2000年即17岁那年起就开始学着制作节拍和作词。\[3\]他将Mobb Deep的专辑《Quiet Storm》中的Quiet作为自己的艺名，并在当时参加了包括在内的各种业余嘻哈活动。\[4\]
 
 ### 2004年－2010年：Soul Company
 
-他于2004年在他20岁的时候升入了[圣公会大学的新闻广播系](https://zh.wikipedia.org/wiki/圣公会大学 "wikilink")，从[日本](../Page/日本.md "wikilink")[东京回国后](../Page/东京.md "wikilink")，\[5\]他与、以及其他几个饶舌歌手同僚一起创办了独立嘻哈音乐唱片及经纪公司。\[6\]6月10日，在公司成立的同日发布了首张合作专辑《The
-Bangerz》，并于次年发行了他的第一张个人专辑《》。\[7\]2006年发行了伴奏专辑《》，并于次年获得了第4届[韓國音樂大獎年度嘻哈专辑奖](../Page/韓國音樂大獎.md "wikilink")，随后他又与组成二人组并推出了《Supremacy》专辑。\[8\]2007年12月他发行了第三张正规专辑《》，这张专辑达到了7000张的销量并跻身[金唱片之列](../Page/金唱片.md "wikilink")，这巩固了他作为韩国最受欢迎的独立饶舌歌手之一的声誉。\[9\]之后他又制作了[尹未來的](../Page/尹未來.md "wikilink")《黑色幸福》、[Drunken
-Tiger的](../Page/醉虎幫.md "wikilink")《》等热门歌曲，并开始以制作人的身份被人熟知。
+他于2004年在他20岁的时候升入了[圣公会大学的新闻广播系](https://zh.wikipedia.org/wiki/圣公会大学 "wikilink")，从[日本](../Page/日本.md "wikilink")[东京](../Page/东京.md "wikilink")回国后，\[5\]他与、以及其他几个饶舌歌手同僚一起创办了独立嘻哈音乐唱片及经纪公司。\[6\]6月10日，在公司成立的同日发布了首张合作专辑《The Bangerz》，并于次年发行了他的第一张个人专辑《》。\[7\]2006年发行了伴奏专辑《》，并于次年获得了第4届[韓國音樂大獎](../Page/韓國音樂大獎.md "wikilink")年度嘻哈专辑奖，随后他又与组成二人组并推出了《Supremacy》专辑。\[8\]2007年12月他发行了第三张正规专辑《》，这张专辑达到了7000张的销量并跻身[金唱片](../Page/金唱片.md "wikilink")之列，这巩固了他作为韩国最受欢迎的独立饶舌歌手之一的声誉。\[9\]之后他又制作了[尹未來](../Page/尹未來.md "wikilink")的《黑色幸福》、[Drunken Tiger的](../Page/醉虎幫.md "wikilink")《》等热门歌曲，并开始以制作人的身份被人熟知。
 
 ### 2010年－至今：ILLIONAIRE RECORDS
 
-在2010年3月发行第四张正规专辑《》后，The Quiett于同年12月离开了Soul
-Company。\[10\]2011年1月1日，他与[Dok2共同成立了](../Page/Dok2.md "wikilink")[ILLIONAIRE
-RECORDS](https://zh.wikipedia.org/wiki/ILLIONAIRE_RECORDS "wikilink")，\[11\]饶舌歌手也于同年稍晚的时候加入公司，\[12\]随后于2011年和2013年分别发表了《》和《》两张专辑。2014年发行ILLIONAIRE
-RECORDS首张合作专辑《》，之后与[Dok2以制作人的身份一同出演](../Page/Dok2.md "wikilink")[Mnet的](../Page/Mnet媒體.md "wikilink")[嘻哈竞技真人秀](../Page/嘻哈音樂.md "wikilink")《[Show
-Me The Money
-3](../Page/Show_Me_The_Money_3.md "wikilink")》并随团队选手组合[IKON成员](../Page/IKON.md "wikilink")[Bobby一同获得优胜](../Page/金知元_\(饒舌者\).md "wikilink")。2015年，发布个人第五张正规专辑《》，并于次年再次以制作人的身份出演《[Show
-Me The Money
-5](../Page/Show_Me_The_Money_5.md "wikilink")》。\[13\]\[14\]\[15\]2016年连续三周以一周一曲的方式发行了《Still
-Got Luv》、《Mission》和《Beautiful Life II》三首单曲，其中两首单曲分别与金孝恩和Hash
-Swan合作，随后又与[CHANGMO合作的成立了Ambition](https://zh.wikipedia.org/wiki/CHANGMO "wikilink")
-Music。2017年，发行个人第六张正规专辑《Millionaire Poetry》。
+在2010年3月发行第四张正规专辑《》后，The Quiett于同年12月离开了Soul Company。\[10\]2011年1月1日，他与[Dok2](../Page/Dok2.md "wikilink")共同成立了[ILLIONAIRE RECORDS](https://zh.wikipedia.org/wiki/ILLIONAIRE_RECORDS "wikilink")，\[11\]饶舌歌手也于同年稍晚的时候加入公司，\[12\]随后于2011年和2013年分别发表了《》和《》两张专辑。2014年发行ILLIONAIRE RECORDS首张合作专辑《》，之后与[Dok2](../Page/Dok2.md "wikilink")以制作人的身份一同出演[Mnet的](../Page/Mnet媒體.md "wikilink")[嘻哈竞技真人秀](../Page/嘻哈音樂.md "wikilink")《[Show Me The Money 3](../Page/Show_Me_The_Money_3.md "wikilink")》并随团队选手组合[IKON](../Page/IKON.md "wikilink")成员[Bobby一同获得优胜](../Page/金知元_\(饒舌者\).md "wikilink")。2015年，发布个人第五张正规专辑《》，并于次年再次以制作人的身份出演《[Show Me The Money 5](../Page/Show_Me_The_Money_5.md "wikilink")》。\[13\]\[14\]\[15\]2016年连续三周以一周一曲的方式发行了《Still Got Luv》、《Mission》和《Beautiful Life II》三首单曲，其中两首单曲分别与金孝恩和Hash Swan合作，随后又与[CHANGMO合作的成立了Ambition](https://zh.wikipedia.org/wiki/CHANGMO "wikilink") Music。2017年，发行个人第六张正规专辑《Millionaire Poetry》。
 
 ## 音乐作品
 
@@ -450,24 +433,7 @@ Music。2017年，发行个人第六张正规专辑《Millionaire Poetry》。
   -
   -
   -
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink")
-[Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink")
-[Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink")
-[Category:韩国饶舌男歌手](https://zh.wikipedia.org/wiki/Category:韩国饶舌男歌手 "wikilink")
-[Category:21世纪韩国歌手](https://zh.wikipedia.org/wiki/Category:21世纪韩国歌手 "wikilink")
-[Category:2000年代歌手](https://zh.wikipedia.org/wiki/Category:2000年代歌手 "wikilink")
-[Category:2010年代歌手](https://zh.wikipedia.org/wiki/Category:2010年代歌手 "wikilink")
-[Category:2000年出道](https://zh.wikipedia.org/wiki/Category:2000年出道 "wikilink")
-[Category:韩国嘻哈音乐制作人](https://zh.wikipedia.org/wiki/Category:韩国嘻哈音乐制作人 "wikilink")
-[Category:光明市出身人物](https://zh.wikipedia.org/wiki/Category:光明市出身人物 "wikilink")
-[Category:韩国嘻哈音乐家](https://zh.wikipedia.org/wiki/Category:韩国嘻哈音乐家 "wikilink")
-[Category:韩国作曲家](https://zh.wikipedia.org/wiki/Category:韩国作曲家 "wikilink")
-[Category:Soul_Company音乐家](https://zh.wikipedia.org/wiki/Category:Soul_Company音乐家 "wikilink")
-[Category:ILLIONAIRE_RECORDS](https://zh.wikipedia.org/wiki/Category:ILLIONAIRE_RECORDS "wikilink")
-[Category:韩国企业家](https://zh.wikipedia.org/wiki/Category:韩国企业家 "wikilink")
-[Category:韩国音乐大奖获得者](https://zh.wikipedia.org/wiki/Category:韩国音乐大奖获得者 "wikilink")
+[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink") [Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink") [Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink") [Category:韩国饶舌男歌手](https://zh.wikipedia.org/wiki/Category:韩国饶舌男歌手 "wikilink") [Category:21世纪韩国歌手](https://zh.wikipedia.org/wiki/Category:21世纪韩国歌手 "wikilink") [Category:2000年代歌手](https://zh.wikipedia.org/wiki/Category:2000年代歌手 "wikilink") [Category:2010年代歌手](https://zh.wikipedia.org/wiki/Category:2010年代歌手 "wikilink") [Category:2000年出道](https://zh.wikipedia.org/wiki/Category:2000年出道 "wikilink") [Category:韩国嘻哈音乐制作人](https://zh.wikipedia.org/wiki/Category:韩国嘻哈音乐制作人 "wikilink") [Category:光明市出身人物](https://zh.wikipedia.org/wiki/Category:光明市出身人物 "wikilink") [Category:韩国嘻哈音乐家](https://zh.wikipedia.org/wiki/Category:韩国嘻哈音乐家 "wikilink") [Category:韩国作曲家](https://zh.wikipedia.org/wiki/Category:韩国作曲家 "wikilink") [Category:Soul_Company音乐家](https://zh.wikipedia.org/wiki/Category:Soul_Company音乐家 "wikilink") [Category:ILLIONAIRE_RECORDS](https://zh.wikipedia.org/wiki/Category:ILLIONAIRE_RECORDS "wikilink") [Category:韩国企业家](https://zh.wikipedia.org/wiki/Category:韩国企业家 "wikilink") [Category:韩国音乐大奖获得者](https://zh.wikipedia.org/wiki/Category:韩国音乐大奖获得者 "wikilink")
 
 1.
 

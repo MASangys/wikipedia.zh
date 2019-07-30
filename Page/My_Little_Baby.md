@@ -1,6 +1,4 @@
-《**My Little
-Baby**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2016年3月5日起播出的土曜深夜連續劇，由《[貴夫人](../Page/貴夫人.md "wikilink")》韓哲秀、李順玉導演執導與《[Stand
-By](../Page/Stand_By.md "wikilink")》金允熙、李恩瑩作家合作打造。此劇講述了一個刑警突然要照顧過世的姐姐留下的嬰兒，詮釋了育兒的故事。\[1\]\[2\]
+《**My Little Baby**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2016年3月5日起播出的土曜深夜連續劇，由《[貴夫人](../Page/貴夫人.md "wikilink")》韓哲秀、李順玉導演執導與《[Stand By](../Page/Stand_By.md "wikilink")》金允熙、李恩瑩作家合作打造。此劇講述了一個刑警突然要照顧過世的姐姐留下的嬰兒，詮釋了育兒的故事。\[1\]\[2\]
 
 此劇集於2017年10月23日至11月10日間基於MBC電視劇製作出現延誤，而被轉移至晨間連續劇時段播放以填補空檔。
 
@@ -350,19 +348,11 @@ By](../Page/Stand_By.md "wikilink")》金允熙、李恩瑩作家合作打造。
 
   - [韓國MBC官方網站](http://www.imbc.com/broad/tv/drama/malibe/)
 
-[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink")
-[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink")
-[Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink")
-[Category:育兒題材作品](https://zh.wikipedia.org/wiki/Category:育兒題材作品 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:MBC深夜劇集](https://zh.wikipedia.org/wiki/Category:MBC深夜劇集 "wikilink")
+[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink") [Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink") [Category:育兒題材作品](https://zh.wikipedia.org/wiki/Category:育兒題材作品 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:MBC深夜劇集](https://zh.wikipedia.org/wiki/Category:MBC深夜劇集 "wikilink")
 
-1.  [《My Little Baby》出演陣容確定
-    吳志昊李水京詮釋「育兒經」](http://www.allthatstar.com/tw/view.php?action=5205&postID=206917)
-    ，全星網，2016-02-01
+1.  [《My Little Baby》出演陣容確定 吳志昊李水京詮釋「育兒經」](http://www.allthatstar.com/tw/view.php?action=5205&postID=206917) ，全星網，2016-02-01
 2.  [《韓劇榜》：吳智昊湊B惹爆笑](http://hk.on.cc/hk/bkn/cnt/entertainment/20160411/bkn-20160411183041390-0411_00862_001.html)，東方日報，2016-04-11
 3.  [TNmS 멀티미디어 홈페이지 참조](http://www.tnms.tv/rating/default.asp)
 4.  [AGB 닐슨 미디어리서치 홈페이지 참조](http://www.agbnielsen.co.kr/index.asp?ref=0)
-
 5.
 6.

@@ -1,11 +1,8 @@
-《**FINAL
-CUT**》，為[日本](../Page/日本.md "wikilink")[關西電視台製作](../Page/關西電視台.md "wikilink")，[富士聯播網於週二](../Page/富士電視台.md "wikilink")21:00
--
-21:54（[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）[火九時段](../Page/關西電視台週二晚間九點連續劇.md "wikilink")，2018年1月9日起播出的[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")。由[龜梨和也主演](../Page/龜梨和也.md "wikilink")\[1\]。
+《**FINAL CUT**》，為[日本](../Page/日本.md "wikilink")[關西電視台](../Page/關西電視台.md "wikilink")製作，[富士聯播網於週二](../Page/富士電視台.md "wikilink")21:00 - 21:54（[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）[火九時段](../Page/關西電視台週二晚間九點連續劇.md "wikilink")，2018年1月9日起播出的[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")。由[龜梨和也](../Page/龜梨和也.md "wikilink")主演\[1\]。
 
 ## 故事概要
 
-網站「MP.info.net」的管理人，同時也是[警察的中村慶介](../Page/警察.md "wikilink")，12年前――2006年3月12日，媽媽早川恭子經營的[幼兒園附近](https://zh.wikipedia.org/wiki/幼兒園 "wikilink")，發現一名女童的屍體。母親被懷疑是犯人而被[媒體大肆報導](https://zh.wikipedia.org/wiki/媒體 "wikilink")，導致母親自殺。而中村一邊展開向媒體工作人員的復仇，一邊尋找當時母親生前看見的真犯人...。
+網站「MP.info.net」的管理人，同時也是[警察](../Page/警察.md "wikilink")的中村慶介，12年前――2006年3月12日，媽媽早川恭子經營的[幼兒園附近](https://zh.wikipedia.org/wiki/幼兒園 "wikilink")，發現一名女童的屍體。母親被懷疑是犯人而被[媒體大肆報導](https://zh.wikipedia.org/wiki/媒體 "wikilink")，導致母親自殺。而中村一邊展開向媒體工作人員的復仇，一邊尋找當時母親生前看見的真犯人...。
 
 ## 登場人物
 
@@ -76,8 +73,7 @@ CUT**》，為[日本](../Page/日本.md "wikilink")[關西電視台製作](../P
 ### 其他
 
   - 〈26〉
-    飾 - [髙木雄也](https://zh.wikipedia.org/wiki/髙木雄也 "wikilink")（[Hey\!
-    Say\! JUMP](../Page/Hey!_Say!_JUMP.md "wikilink")）\[13\]
+    飾 - [髙木雄也](https://zh.wikipedia.org/wiki/髙木雄也 "wikilink")（[Hey\! Say\! JUMP](../Page/Hey!_Say!_JUMP.md "wikilink")）\[13\]
   - 〈享年40〉（粵語配音：[王夢華](../Page/王夢華.md "wikilink")）
     飾 - \[14\]\[15\]
     慶介的母親。保育園「ルミナスキッズ」園長。
@@ -144,8 +140,7 @@ CUT**》，為[日本](../Page/日本.md "wikilink")[關西電視台製作](../P
     演 - [八木優希](../Page/八木優希.md "wikilink")
     欺負事件後心生不安，跑去找小池說明事件經過。
   - **電視人物主持人**
-    演 -
-    [關純子](https://zh.wikipedia.org/wiki/關純子 "wikilink")、[豐田康雄](https://zh.wikipedia.org/wiki/豐田康雄 "wikilink")
+    演 - [關純子](https://zh.wikipedia.org/wiki/關純子 "wikilink")、[豐田康雄](https://zh.wikipedia.org/wiki/豐田康雄 "wikilink")
 
 #### 第4集
 
@@ -212,12 +207,9 @@ CUT**》，為[日本](../Page/日本.md "wikilink")[關西電視台製作](../P
 
   - 劇本 - [金子亞里沙](https://zh.wikipedia.org/wiki/金子亞里沙 "wikilink")
   - 配樂 - [菅野祐悟](../Page/菅野祐悟.md "wikilink")
-  - 主題曲 - [KAT-TUN](../Page/KAT-TUN.md "wikilink")《[Ask
-    Yourself](https://zh.wikipedia.org/wiki/Ask_Yourself "wikilink")》（[J
-    Storm](../Page/J_Storm.md "wikilink")）\[16\]
+  - 主題曲 - [KAT-TUN](../Page/KAT-TUN.md "wikilink")《[Ask Yourself](https://zh.wikipedia.org/wiki/Ask_Yourself "wikilink")》（[J Storm](../Page/J_Storm.md "wikilink")）\[16\]
   - 製作 - ジニアス
-  - 導演 -
-    [三宅喜重](https://zh.wikipedia.org/wiki/三宅喜重 "wikilink")、[日暮謙](https://zh.wikipedia.org/wiki/日暮謙 "wikilink")
+  - 導演 - [三宅喜重](https://zh.wikipedia.org/wiki/三宅喜重 "wikilink")、[日暮謙](https://zh.wikipedia.org/wiki/日暮謙 "wikilink")
   - 製作人 - 豐福陽子
   - 出品 - [關西電視台](../Page/關西電視台.md "wikilink")
 
@@ -338,17 +330,10 @@ CUT**》，為[日本](../Page/日本.md "wikilink")[關西電視台製作](../P
 
 ## 外部連結
 
-  - [FINAL CUT](https://www.ktv.jp/finalcut/index.html) -
-    [關西電視台](../Page/關西電視台.md "wikilink")
+  - [FINAL CUT](https://www.ktv.jp/finalcut/index.html) - [關西電視台](../Page/關西電視台.md "wikilink")
 
   -
-[Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink")
-[Category:關西電視台週二晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:關西電視台週二晚間九點連續劇 "wikilink")
-[Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink")
-[Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink")
-[Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
+[Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink") [Category:關西電視台週二晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:關西電視台週二晚間九點連續劇 "wikilink") [Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink") [Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink") [Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
 
 1.
 

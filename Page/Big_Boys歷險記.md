@@ -1,11 +1,4 @@
-《**Big
-Boys歷險記**》（）是[香港電視廣播有限公司的真人秀節目](https://zh.wikipedia.org/wiki/香港電視廣播有限公司 "wikilink")，2017年[TVB
-Amazing
-Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")，陣容由《[兄弟幫](../Page/兄弟幫.md "wikilink")》（Big
-Boys
-Club）[林盛斌](../Page/林盛斌.md "wikilink")、[陳國峰主持](../Page/陳國峰.md "wikilink")，[朱智賢](../Page/朱智賢.md "wikilink")、[謝東閔](../Page/謝東閔_\(香港\).md "wikilink")、[鄭嘉豪](https://zh.wikipedia.org/wiki/鄭嘉豪 "wikilink")、[董敬文](https://zh.wikipedia.org/wiki/董敬文 "wikilink")、[譚永浩](../Page/譚永浩.md "wikilink")、[盧峻峯](../Page/盧峻峯.md "wikilink")、[張惠雅等演出](../Page/張惠雅.md "wikilink")。節目本共4集，於2017年7月30日開始[香港時間逢星期日](../Page/香港時間.md "wikilink")22:30至23:30[翡翠台播出](../Page/翡翠台.md "wikilink")，但因為接到很多投訴，所以電視台決定腰斬，刪掉2集靈異內容。而被刪掉內容安排於[big
-big
-channel播出](https://zh.wikipedia.org/wiki/big_big_channel "wikilink")\[1\]\[2\]\[3\]。
+《**Big Boys歷險記**》（）是[香港電視廣播有限公司的真人秀節目](https://zh.wikipedia.org/wiki/香港電視廣播有限公司 "wikilink")，2017年[TVB Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")，陣容由《[兄弟幫](../Page/兄弟幫.md "wikilink")》（Big Boys Club）[林盛斌](../Page/林盛斌.md "wikilink")、[陳國峰](../Page/陳國峰.md "wikilink")主持，[朱智賢](../Page/朱智賢.md "wikilink")、[謝東閔](../Page/謝東閔_\(香港\).md "wikilink")、[鄭嘉豪](https://zh.wikipedia.org/wiki/鄭嘉豪 "wikilink")、[董敬文](https://zh.wikipedia.org/wiki/董敬文 "wikilink")、[譚永浩](../Page/譚永浩.md "wikilink")、[盧峻峯](../Page/盧峻峯.md "wikilink")、[張惠雅](../Page/張惠雅.md "wikilink")等演出。節目本共4集，於2017年7月30日開始[香港時間](../Page/香港時間.md "wikilink")逢星期日22:30至23:30[翡翠台](../Page/翡翠台.md "wikilink")播出，但因為接到很多投訴，所以電視台決定腰斬，刪掉2集靈異內容。而被刪掉內容安排於[big big channel播出](https://zh.wikipedia.org/wiki/big_big_channel "wikilink")\[1\]\[2\]\[3\]。
 
 ## 每集內容
 
@@ -49,11 +42,9 @@ channel播出](https://zh.wikipedia.org/wiki/big_big_channel "wikilink")\[1\]\[2
 
 ## 外部連結
 
-  - [Big Boys歷險記 - 主頁 -
-    tvb.com](http://programme.tvb.com/variety/bigboysgowild/)
+  - [Big Boys歷險記 - 主頁 - tvb.com](http://programme.tvb.com/variety/bigboysgowild/)
 
-[Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink")
-[Category:無綫電視真人秀節目](https://zh.wikipedia.org/wiki/Category:無綫電視真人秀節目 "wikilink")
+[Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink") [Category:無綫電視真人秀節目](https://zh.wikipedia.org/wiki/Category:無綫電視真人秀節目 "wikilink")
 
 1.
 2.

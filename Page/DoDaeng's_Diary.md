@@ -1,8 +1,4 @@
-《**DoDaeng's
-Diary**》（，，簡稱：D.D.L）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KCON
-TV電視台的綜藝節目](https://zh.wikipedia.org/wiki/KCON_TV "wikilink")，由[磪有情](../Page/磪有情.md "wikilink")（[I.O.I](../Page/I.O.I.md "wikilink")、[Weki
-Meki](../Page/Weki_Meki.md "wikilink")）與[金度延](../Page/金度延.md "wikilink")（[I.O.I](../Page/I.O.I.md "wikilink")、[Weki
-Meki](../Page/Weki_Meki.md "wikilink")）共同主持，是一檔以紀錄兩人在美國訓練與生活為主的綜藝節目\[1\]\[2\]\[3\]。
+《**DoDaeng's Diary**》（，，簡稱：D.D.L）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KCON TV電視台的綜藝節目](https://zh.wikipedia.org/wiki/KCON_TV "wikilink")，由[磪有情](../Page/磪有情.md "wikilink")（[I.O.I](../Page/I.O.I.md "wikilink")、[Weki Meki](../Page/Weki_Meki.md "wikilink")）與[金度延](../Page/金度延.md "wikilink")（[I.O.I](../Page/I.O.I.md "wikilink")、[Weki Meki](../Page/Weki_Meki.md "wikilink")）共同主持，是一檔以紀錄兩人在美國訓練與生活為主的綜藝節目\[1\]\[2\]\[3\]。
 
 ## 收視率
 
@@ -20,8 +16,7 @@ Meki](../Page/Weki_Meki.md "wikilink")）共同主持，是一檔以紀錄兩人
 
 ## 參考資料
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
 1.
 2.
@@ -29,5 +24,4 @@ Meki](../Page/Weki_Meki.md "wikilink")）共同主持，是一檔以紀錄兩人
 4.
 5.
 6.
-7.  [시카고 타자기
-    Naver](https://search.naver.com/search.naver?where=nexearch&query=시카고+타자기)
+7.  [시카고 타자기 Naver](https://search.naver.com/search.naver?where=nexearch&query=시카고+타자기)

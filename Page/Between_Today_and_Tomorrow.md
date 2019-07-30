@@ -1,21 +1,17 @@
-《**Between Today and
-Tomorrow**》（）是日本音樂家[椎名林檎和管弦家](../Page/椎名林檎.md "wikilink")合作的器樂曲，於2012年1月7日開始提供數位下載\[1\]。在跨業合作部分，這首歌曲同時也是[芭蕾舞舞者](../Page/芭蕾舞.md "wikilink")[紀錄片](../Page/紀錄片.md "wikilink")－《今日和明日之間》的主題曲\[2\]\[3\]。
+《**Between Today and Tomorrow**》（）是日本音樂家[椎名林檎](../Page/椎名林檎.md "wikilink")和管弦家合作的器樂曲，於2012年1月7日開始提供數位下載\[1\]。在跨業合作部分，這首歌曲同時也是[芭蕾舞](../Page/芭蕾舞.md "wikilink")舞者[紀錄片](../Page/紀錄片.md "wikilink")－《今日和明日之間》的主題曲\[2\]\[3\]。
 
 ## 歌曲概要
 
-《**Between Today and
-Tomorrow**》是椎名林檎繼2006年11月發表《[短暫少女](../Page/短暫少女.md "wikilink")》後，睽違五年的數位下載歌曲，也是繼2011年11月發表《[康乃馨](../Page/康乃馨_\(椎名林檎單曲\).md "wikilink")》後，睽違兩個月的新作品。本首歌曲是[芭蕾舞舞者](../Page/芭蕾舞.md "wikilink")[紀錄片](../Page/紀錄片.md "wikilink")《今日和明日之間》的主題曲\[4\]\[5\]。應首藤康之的要求，椎名林檎不但加入了古典的元素，連作曲和編曲都僅用[鋼琴完成](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")\[6\]，而這也是椎名林檎第一次寫芭蕾舞音樂\[7\]。
+《**Between Today and Tomorrow**》是椎名林檎繼2006年11月發表《[短暫少女](../Page/短暫少女.md "wikilink")》後，睽違五年的數位下載歌曲，也是繼2011年11月發表《[康乃馨](../Page/康乃馨_\(椎名林檎單曲\).md "wikilink")》後，睽違兩個月的新作品。本首歌曲是[芭蕾舞](../Page/芭蕾舞.md "wikilink")舞者[紀錄片](../Page/紀錄片.md "wikilink")《今日和明日之間》的主題曲\[4\]\[5\]。應首藤康之的要求，椎名林檎不但加入了古典的元素，連作曲和編曲都僅用[鋼琴完成](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")\[6\]，而這也是椎名林檎第一次寫芭蕾舞音樂\[7\]。
 
-由於紀錄片的片名是日語，首藤康之則希望這首曲目的曲名則以英語命名，因此歌曲命名為「Between Today and
-Tomorrow」\[8\]。最後，這首睽違五年的數位下載歌曲，於2012年1月7日開始提供下載\[9\]。日後，則收錄在椎名林檎於2013年11月13日發行的精選輯《[韻事](../Page/韻事.md "wikilink")》中。
+由於紀錄片的片名是日語，首藤康之則希望這首曲目的曲名則以英語命名，因此歌曲命名為「Between Today and Tomorrow」\[8\]。最後，這首睽違五年的數位下載歌曲，於2012年1月7日開始提供下載\[9\]。日後，則收錄在椎名林檎於2013年11月13日發行的精選輯《[韻事](../Page/韻事.md "wikilink")》中。
 
 ### 跨業合作
 
 \*;「Between Today and Tomorrow」
 
   -
-    （Documentary
-    Japan）[紀錄片](../Page/紀錄片.md "wikilink")‘今日和明日之間’的主題曲\[10\]
+    （Documentary Japan）[紀錄片](../Page/紀錄片.md "wikilink")‘今日和明日之間’的主題曲\[10\]
 
 ## 曲目
 
@@ -48,9 +44,7 @@ Tomorrow」\[8\]。最後，這首睽違五年的數位下載歌曲，於2012年
 
 ### 參考資料
 
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:椎名林檎歌曲](https://zh.wikipedia.org/wiki/Category:椎名林檎歌曲 "wikilink")
-[Category:EMI日本歌曲](https://zh.wikipedia.org/wiki/Category:EMI日本歌曲 "wikilink")
+[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:椎名林檎歌曲](https://zh.wikipedia.org/wiki/Category:椎名林檎歌曲 "wikilink") [Category:EMI日本歌曲](https://zh.wikipedia.org/wiki/Category:EMI日本歌曲 "wikilink")
 
 1.
 2.

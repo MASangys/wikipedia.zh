@@ -1,6 +1,4 @@
-**Toys for Bob**，是保罗·赖歇III和弗雷德·福特于1989年创立的小型美国游戏开发商。在90年代初制作Star
-Control和Star Control II: The Ur-Quan Masters，后来他们继续为Crystal
-Dynamics创造游戏。
+**Toys for Bob**，是保罗·赖歇III和弗雷德·福特于1989年创立的小型美国游戏开发商。在90年代初制作Star Control和Star Control II: The Ur-Quan Masters，后来他们继续为Crystal Dynamics创造游戏。
 
 该公司于Crystal Dynamics创的关系在2002年结束，于2005年5月3日被动视公司收购。\[1\]
 
@@ -29,14 +27,9 @@ Dynamics创造游戏。
 ## 外部链接
 
   - [Toys For Bob official website](http://www.toysforbob.com/)
-  - [Toys For Bob company
-    overview](http://www.mobygames.com/company/toys-for-bob/) from
-    [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
+  - [Toys For Bob company overview](http://www.mobygames.com/company/toys-for-bob/) from [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
 
-[Category:1989年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1989年開業電子遊戲公司 "wikilink")
-[Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink")
-[Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
+[Category:1989年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1989年開業電子遊戲公司 "wikilink") [Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
 1.
 

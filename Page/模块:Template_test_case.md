@@ -196,8 +196,7 @@ end
 
 -----
 
-local TestCase = {} TestCase.__index = TestCase TestCase.message =
-message -- add the message method
+local TestCase = {} TestCase.__index = TestCase TestCase.message = message -- add the message method
 
 TestCase.renderMethods = {
 
@@ -252,8 +251,7 @@ function TestCase.new(invocationObj, options, cfg)
 `   templateOptions[2] = templateOptions[2] or {}`
 
 `   -- Allow the "template" option to override the "template1" option for`
-`   -- backwards compatibility with `[`Module:Testcase``
- ``table`](https://zh.wikipedia.org/wiki/Module:Testcase_table "wikilink")`.`
+`   -- backwards compatibility with `[`Module:Testcase``   ``table`](https://zh.wikipedia.org/wiki/Module:Testcase_table "wikilink")`.`
 `   if generalOptions.template then`
 `       templateOptions[1].template = generalOptions.template`
 `   end`
@@ -345,8 +343,7 @@ end
 function TestCase:templateOutputIsEqual()
 
 `   -- Returns a boolean showing whether all of the template outputs are equal.`
-`   -- The random parts of strip markers (see `[`Help:Strip``
- ``markers`](https://zh.wikipedia.org/wiki/Help:Strip_markers "wikilink")`) are`
+`   -- The random parts of strip markers (see `[`Help:Strip``   ``markers`](https://zh.wikipedia.org/wiki/Help:Strip_markers "wikilink")`) are`
 `   -- removed before comparison. This means a strip marker can contain anything`
 `   -- and still be treated as equal, but it solves the problem of otherwise`
 `   -- identical wikitext not returning as exactly equal.`
@@ -555,9 +552,7 @@ end
 
 -----
 
-local NowikiInvocation = {} NowikiInvocation.__index =
-NowikiInvocation NowikiInvocation.message = message -- Add the message
-method
+local NowikiInvocation = {} NowikiInvocation.__index = NowikiInvocation NowikiInvocation.message = message -- Add the message method
 
 function NowikiInvocation.new(invocation, cfg)
 
@@ -606,8 +601,7 @@ end
 
 -----
 
-local TableInvocation = {} TableInvocation.__index = TableInvocation
-TableInvocation.message = message -- Add the message method
+local TableInvocation = {} TableInvocation.__index = TableInvocation TableInvocation.message = message -- Add the message method
 
 function TableInvocation.new(invokeArgs, nowikiCode, cfg)
 
@@ -644,9 +638,7 @@ end
 
 -----
 
-\-- Bridge functions -- -- These functions translate template arguments
-into forms that can be accepted -- by the different classes, and return
-the results.
+\-- Bridge functions -- -- These functions translate template arguments into forms that can be accepted -- by the different classes, and return the results.
 
 -----
 

@@ -1,19 +1,14 @@
-**肯奈迪·詹姆斯·費茲傑洛德·“K·J”·阿帕**（，\[1\]\[2\]
-），是一名[紐西蘭](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")[男演員](https://zh.wikipedia.org/wiki/男演員 "wikilink")。2017年，於[The
-CW電視劇](../Page/CW電視網.md "wikilink")《[河谷鎮](../Page/河谷鎮_\(電視劇\).md "wikilink")》中飾演“[亞契·安德魯斯](https://zh.wikipedia.org/wiki/阿奇·安德魯 "wikilink")”而出名。
+**肯奈迪·詹姆斯·費茲傑洛德·“K·J”·阿帕**（，\[1\]\[2\] ），是一名[紐西蘭](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")[男演員](https://zh.wikipedia.org/wiki/男演員 "wikilink")。2017年，於[The CW電視劇](../Page/CW電視網.md "wikilink")《[河谷鎮](../Page/河谷鎮_\(電視劇\).md "wikilink")》中飾演“[亞契·安德魯斯](https://zh.wikipedia.org/wiki/阿奇·安德魯 "wikilink")”而出名。
 
 ## 個人生活
 
-阿帕出生於[紐西蘭](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")[奧克蘭](../Page/奧克蘭_\(紐西蘭\).md "wikilink")，\[3\]
-他的父親肯奈迪·阿帕（）是[薩摩亞族族長](https://zh.wikipedia.org/wiki/薩摩亞 "wikilink")，母親名為泰莎（），原姓卡蘭德（），她有兩個姊姊阿莉亞塔（）與堤蜜娜（）。
+阿帕出生於[紐西蘭](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")[奧克蘭](../Page/奧克蘭_\(紐西蘭\).md "wikilink")，\[3\] 他的父親肯奈迪·阿帕（）是[薩摩亞族族長](https://zh.wikipedia.org/wiki/薩摩亞 "wikilink")，母親名為泰莎（），原姓卡蘭德（），她有兩個姊姊阿莉亞塔（）與堤蜜娜（）。
 
 阿帕在展開演藝生活前，就讀於，\[4\] 而他擁有彈吉他與鋼琴的技能。\[5\]
 
 ## 演藝生涯
 
-阿帕的出道作品是紐西蘭的黃金時段[肥皂劇](https://zh.wikipedia.org/wiki/肥皂劇 "wikilink")《[肖特蘭街](https://zh.wikipedia.org/wiki/肖特蘭街 "wikilink")》。2015年，阿帕加入[美國電影](https://zh.wikipedia.org/wiki/美國 "wikilink")《[為了與你相遇](https://zh.wikipedia.org/wiki/為了與你相遇_\(電影\) "wikilink")》的演出陣容。\[6\]
-2016年時，他在長達四個月的全球選角中脫穎而出，成為[The
-CW新影集](../Page/CW電視網.md "wikilink")《[河谷鎮](../Page/河谷鎮_\(電視劇\).md "wikilink")》男主角[亞契·安德魯斯的飾演者](https://zh.wikipedia.org/wiki/阿奇·安德魯 "wikilink")。\[7\]
+阿帕的出道作品是紐西蘭的黃金時段[肥皂劇](https://zh.wikipedia.org/wiki/肥皂劇 "wikilink")《[肖特蘭街](https://zh.wikipedia.org/wiki/肖特蘭街 "wikilink")》。2015年，阿帕加入[美國電影](https://zh.wikipedia.org/wiki/美國 "wikilink")《[為了與你相遇](https://zh.wikipedia.org/wiki/為了與你相遇_\(電影\) "wikilink")》的演出陣容。\[6\] 2016年時，他在長達四個月的全球選角中脫穎而出，成為[The CW新影集](../Page/CW電視網.md "wikilink")《[河谷鎮](../Page/河谷鎮_\(電視劇\).md "wikilink")》男主角[亞契·安德魯斯的飾演者](https://zh.wikipedia.org/wiki/阿奇·安德魯 "wikilink")。\[7\]
 
 ## 作品
 
@@ -160,10 +155,7 @@ CW新影集](../Page/CW電視網.md "wikilink")《[河谷鎮](../Page/河谷鎮_
   -
   -
   -
-[Category:紐西蘭演員](https://zh.wikipedia.org/wiki/Category:紐西蘭演員 "wikilink")
-[Category:新西兰电影演员](https://zh.wikipedia.org/wiki/Category:新西兰电影演员 "wikilink")
-[Category:紐西蘭電視演員](https://zh.wikipedia.org/wiki/Category:紐西蘭電視演員 "wikilink")
-[Category:新西蘭薩摩亞人後裔](https://zh.wikipedia.org/wiki/Category:新西蘭薩摩亞人後裔 "wikilink")
+[Category:紐西蘭演員](https://zh.wikipedia.org/wiki/Category:紐西蘭演員 "wikilink") [Category:新西兰电影演员](https://zh.wikipedia.org/wiki/Category:新西兰电影演员 "wikilink") [Category:紐西蘭電視演員](https://zh.wikipedia.org/wiki/Category:紐西蘭電視演員 "wikilink") [Category:新西蘭薩摩亞人後裔](https://zh.wikipedia.org/wiki/Category:新西蘭薩摩亞人後裔 "wikilink")
 
 1.
 

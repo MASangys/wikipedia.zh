@@ -1,8 +1,4 @@
-**MXM**為韓國[Brand New
-Music在](../Page/Brand_New_Music.md "wikilink")2017年推出的男子團體，也是該社作為傳統HipHop公司所推出的第一個男子偶像團體。成員包括[PRODUCE
-101
-(第二季)人氣練習生](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")[林煐岷](../Page/林煐岷.md "wikilink")（第15名）和[金東賢](../Page/金東賢.md "wikilink")（第28名）。2017年7月27日發行先行單曲《GOOD
-DAY》及《I JUST DO》，9月6日發表迷你專輯《UNMIX》正式出道。
+**MXM**為韓國[Brand New Music在](../Page/Brand_New_Music.md "wikilink")2017年推出的男子團體，也是該社作為傳統HipHop公司所推出的第一個男子偶像團體。成員包括[PRODUCE 101 (第二季)人氣練習生](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")[林煐岷](../Page/林煐岷.md "wikilink")（第15名）和[金東賢](../Page/金東賢.md "wikilink")（第28名）。2017年7月27日發行先行單曲《GOOD DAY》及《I JUST DO》，9月6日發表迷你專輯《UNMIX》正式出道。
 
 ## 隊名由來
 
@@ -21,33 +17,26 @@ DAY》及《I JUST DO》，9月6日發表迷你專輯《UNMIX》正式出道。
 
 ### 2017年：出道、首張迷你專輯《UNMIX》
 
-  - 7月12日，韓國媒體NEWS1報道了[Brand New
-    Music練習生](../Page/Brand_New_Music.md "wikilink")[林煐岷](../Page/林煐岷.md "wikilink")、[金東賢將組成unit出道的消息](../Page/金東賢.md "wikilink")。\[1\]
+  - 7月12日，韓國媒體NEWS1報道了[Brand New Music練習生](../Page/Brand_New_Music.md "wikilink")[林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")將組成unit出道的消息。\[1\]
   - 7月21日，公布unit組合名稱**MXM**，為MIX\&MATCH、MORExMORE的縮寫，寓意為兩個人的魅力和在一起展現新的魅力。\[2\]
   - 7月24日，公開MXM組合Logo\[3\]，並於同日在CGV龍山電影試映會上透露7月27日將發行兩首先行曲。\[4\]
-  - 7月26日，公開迷你專輯兩首先行曲 [《GOOD DAY》《I JUST
-    DO》](https://www.youtube.com/watch?v=vwIOdYRTUNk&feature=youtu.be)\[5\]試聽版。
-  - 7月27日，公開迷你專輯兩首先行曲《GOOD DAY》、《I JUST
-    DO》全曲音源，並不進行打歌活動。\[6\]同日音源釋出後，《GOOD
-    DAY》立即登上六大音源榜，並取得Genie 1位Bugs 2位的好成績。
+  - 7月26日，公開迷你專輯兩首先行曲 [《GOOD DAY》《I JUST DO》](https://www.youtube.com/watch?v=vwIOdYRTUNk&feature=youtu.be)\[5\]試聽版。
+  - 7月27日，公開迷你專輯兩首先行曲《GOOD DAY》、《I JUST DO》全曲音源，並不進行打歌活動。\[6\]同日音源釋出後，《GOOD DAY》立即登上六大音源榜，並取得Genie 1位Bugs 2位的好成績。
   - 9月6日，發表迷你專輯《UNMIX》正式出道。\[7\]
 
 ### 2018年：第二張迷你專輯《MATCH UP》、數位雙單曲《REMATCH》、企劃團體YDPP、首張正規專輯《MORE THAN EVER》、數位單曲《ONE MORE》
 
   - 1月10日，發行第二張迷你專輯《MATCH UP》。
   - 3月6日，發行數位雙單曲《REMATCH》。
-  - 3月26日，《[PRODUCE 101
-    (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")》出身的**MXM（**[林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")）、李光賢、[鄭世雲](https://zh.wikipedia.org/wiki/鄭世雲 "wikilink")，組成企劃團體[YDPP](../Page/YDPP.md "wikilink")。在[STARSHIP娛樂及](../Page/STARSHIP娛樂.md "wikilink")[Brand
-    New Music官方公開](../Page/Brand_New_Music.md "wikilink")。
-  - 4月5日，企劃團體[YDPP以單曲](../Page/YDPP.md "wikilink")《LOVE IT LOVE IT》正式出道。
+  - 3月26日，《[PRODUCE 101 (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")》出身的**MXM（**[林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")）、李光賢、[鄭世雲](https://zh.wikipedia.org/wiki/鄭世雲 "wikilink")，組成企劃團體[YDPP](../Page/YDPP.md "wikilink")。在[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")及[Brand New Music官方公開](../Page/Brand_New_Music.md "wikilink")。
+  - 4月5日，企劃團體[YDPP](../Page/YDPP.md "wikilink")以單曲《LOVE IT LOVE IT》正式出道。
   - 8月14日，發行首張正規專輯《MORE THAN EVER》。
-  - 8月21日，出道以來首次在音樂節目[THE
-    SHOW進入一位候選](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")。
+  - 8月21日，出道以來首次在音樂節目[THE SHOW進入一位候選](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")。
   - 11月7日，發行數位單曲《ONE MORE》。
 
 ### 2019年：再次出道、正式團體[AB6IX](../Page/AB6IX.md "wikilink")
 
-  - 5月22日，與[田雄](../Page/全雄.md "wikilink")、[朴佑鎭](../Page/朴佑鎮.md "wikilink")、[李大輝以](../Page/李大輝.md "wikilink")[AB6IX再次出道](../Page/AB6IX.md "wikilink")。
+  - 5月22日，與[田雄](../Page/全雄.md "wikilink")、[朴佑鎭](../Page/朴佑鎮.md "wikilink")、[李大輝](../Page/李大輝.md "wikilink")以[AB6IX](../Page/AB6IX.md "wikilink")再次出道。
 
 ## 音樂作品
 
@@ -662,22 +651,15 @@ DAY》及《I JUST DO》，9月6日發表迷你專輯《UNMIX》正式出道。
   -
   - [BNM BOYS](http://channels.vlive.tv/DC6459/video) 的V LIVE頻道
 
-  - [BNM
-    BOYS](https://www.youtube.com/channel/UCv1JYvsu-__rGWRE2ueYTcw/featured)的YouTube頻道
+  - [BNM BOYS](https://www.youtube.com/channel/UCv1JYvsu-__rGWRE2ueYTcw/featured)的YouTube頻道
 
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink")
-[Category:PRODUCE_101](https://zh.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink")
+[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink") [Category:PRODUCE_101](https://zh.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink")
 
 1.
 2.
 3.
 4.
-5.  [MXM(BRANDNEW BOYS) - GOOD DAY Official
-    Preview](https://www.youtube.com/watch?v=vwIOdYRTUNk&feature=youtu.be)
-    Youtube
+5.  [MXM(BRANDNEW BOYS) - GOOD DAY Official Preview](https://www.youtube.com/watch?v=vwIOdYRTUNk&feature=youtu.be) Youtube
 6.
 7.
 8.  [2018年9月GAON專輯榜14位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=09&hitYear=2018&termGbn=month)

@@ -1,12 +1,10 @@
-《**天色Islenauts**》（日文：），是[YUZUSOFT於](../Page/YUZUSOFT.md "wikilink")2013年7月26日\[1\]所發售的[恋爱冒險類型](https://zh.wikipedia.org/wiki/恋爱冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。
+《**天色Islenauts**》（日文：），是[YUZUSOFT](../Page/YUZUSOFT.md "wikilink")於2013年7月26日\[1\]所發售的[恋爱冒險類型](https://zh.wikipedia.org/wiki/恋爱冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。
 
 在本作的虚构世界里，以位于日本上空、童话般的空岛为背景，主人公鹭之森透的新故事正在展开。应导师要求，透在这个岛上全是女生的一所学校里担任教师。面对可爱的少女们，至今从未体验过的，在天空之上的故事，现在即将开始。\[2\]
 
 ## 概要
 
-《天色Isle
-nauts》是[YUZUSOFT的第七部作品](../Page/YUZUSOFT.md "wikilink")。本作是空中飞行浮岛城市为舞台，与[夏空彼方](../Page/夏空彼方.md "wikilink")，[DRACU-RIOT！合称为](../Page/DRACU-RIOT！.md "wikilink")「岛三部作」。工作人员事先在[德國南部进行外景拍摄采访](https://zh.wikipedia.org/wiki/德國 "wikilink")。此外，对于常以架空日本（特别是[关西](https://zh.wikipedia.org/wiki/关西 "wikilink")）的地区为游戏背景的YUZUSOFT来说，这是罕見的第一个海外舞台\[3\]。承接前作[DRACU-RIOT！的系统](../Page/DRACU-RIOT！.md "wikilink")，本篇在各个女主的路线完成之后完成会有「After
-Story」出现。另外，前几作主人公的年龄阶层都是学生或者毕业生，但这次的年龄设定是教师，以[师生恋为主要题材](https://zh.wikipedia.org/wiki/师生恋 "wikilink")。
+《天色Isle nauts》是[YUZUSOFT](../Page/YUZUSOFT.md "wikilink")的第七部作品。本作是空中飞行浮岛城市为舞台，与[夏空彼方](../Page/夏空彼方.md "wikilink")，[DRACU-RIOT！](../Page/DRACU-RIOT！.md "wikilink")合称为「岛三部作」。工作人员事先在[德國南部进行外景拍摄采访](https://zh.wikipedia.org/wiki/德國 "wikilink")。此外，对于常以架空日本（特别是[关西](https://zh.wikipedia.org/wiki/关西 "wikilink")）的地区为游戏背景的YUZUSOFT来说，这是罕見的第一个海外舞台\[3\]。承接前作[DRACU-RIOT！](../Page/DRACU-RIOT！.md "wikilink")的系统，本篇在各个女主的路线完成之后完成会有「After Story」出现。另外，前几作主人公的年龄阶层都是学生或者毕业生，但这次的年龄设定是教师，以[师生恋为主要题材](https://zh.wikipedia.org/wiki/师生恋 "wikilink")。
 
 ## 剧情简介
 
@@ -23,8 +21,7 @@ Story」出现。另外，前几作主人公的年龄阶层都是学生或者毕
     身高178cm，体重60kg，未满30岁，与历代男主角不同他的第一人称是「」，因此一度被学生们称为「自称ボク老师」。
     有一定的料理天赋，真咲线中以独创的咖喱料理撑起了酒店“牙と爪の獣亭”的门面，并凭此参加了岛上的料理大赛获得优胜。
   - ****
-    住在的精灵女孩，是岛上的贵族，因此按照岛上的惯例在政界也被称之为「公主」。
-    性格积极开朗，成绩优异，生活认真。非常擅长画画，曾经还在比赛中获奖。
+    住在的精灵女孩，是岛上的贵族，因此按照岛上的惯例在政界也被称之为「公主」。 性格积极开朗，成绩优异，生活认真。非常擅长画画，曾经还在比赛中获奖。
     偷偷参加同人活动，还是个小有人气同人志画手（弗朗西斯卡是她的粉丝之一），笔名「吾莉夏丽」，是仅仅由她的密友知道的秘密。
     可能是由于进行创作活动，经常会产生同人志里情景的妄想，然后被真咲打醒。
     有一个在岛上参政的哥哥。母亲早亡，父亲常年在外旅游，独自生活所以也有一定的料理能力。曾经因“彷徨人”的传说留下童年阴影。\[9\]
@@ -94,8 +91,7 @@ Story」出现。另外，前几作主人公的年龄阶层都是学生或者毕
   - 原画：[梦璃凛](../Page/梦璃凛.md "wikilink")（夕音、真咲等）、[小舞一](../Page/小舞一.md "wikilink")（爱莉等）、（SD原画）
   - 剧本：[天宫りつ](https://zh.wikipedia.org/wiki/天宫りつ "wikilink")、[镜游](https://zh.wikipedia.org/wiki/镜游 "wikilink")、[绀野アスタ](https://zh.wikipedia.org/wiki/绀野アスタ "wikilink")、[J・さいろー](https://zh.wikipedia.org/wiki/J・さいろー "wikilink")
   - CG：[煎路](https://zh.wikipedia.org/wiki/煎路 "wikilink")、[モドキさん](https://zh.wikipedia.org/wiki/モドキさん "wikilink")
-  - 音乐：[Famishin](https://zh.wikipedia.org/wiki/Famishin "wikilink")、[Angel
-    Note](https://zh.wikipedia.org/wiki/Angel_Note "wikilink")
+  - 音乐：[Famishin](https://zh.wikipedia.org/wiki/Famishin "wikilink")、[Angel Note](https://zh.wikipedia.org/wiki/Angel_Note "wikilink")
   - 企画、制作：[YUZUSOFT](../Page/YUZUSOFT.md "wikilink")
 
 ## 主题歌
@@ -125,19 +121,14 @@ Story」出现。另外，前几作主人公的年龄阶层都是学生或者毕
 
   - [『天色＊アイルノーツ』時計アプリのiOS版が登場　―ヒロイン4人による時刻読み上げや目覚まし機能搭載](http://moedigi.com/game/2013/05/yuzusoft-amairo-mobile-clock-app-ios/)
   - [ゆずソフト最新作『天色＊アイルノーツ』オープニングムービーが公開　―主題歌はnaoが担当](http://moedigi.com/game/2013/06/yuzusoft-amairo-op-movie/)
-  - [空に浮かぶ不思議な島で、可愛い教え子に囲まれたイチャラブ教師生活を満喫しよう！
-    『天色\*アイルノーツ』7月26日発売！](http://www.game-style.jp/soft/backnumber/201306/07/01ama_yu.php?permission=true)
+  - [空に浮かぶ不思議な島で、可愛い教え子に囲まれたイチャラブ教師生活を満喫しよう！ 『天色\*アイルノーツ』7月26日発売！](http://www.game-style.jp/soft/backnumber/201306/07/01ama_yu.php?permission=true)
   - [バロックナイト、天色\*アイルノーツがアライブでマンガ化](http://natalie.mu/comic/news/95935)
 
 ## 外部链接
 
   - [YUZUSOFT](http://yuzu-soft.com/)
 
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:2013年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2013年日本成人遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:師生戀題材作品](https://zh.wikipedia.org/wiki/Category:師生戀題材作品 "wikilink")
+[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:2013年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2013年日本成人遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:師生戀題材作品](https://zh.wikipedia.org/wiki/Category:師生戀題材作品 "wikilink")
 
 1.
 

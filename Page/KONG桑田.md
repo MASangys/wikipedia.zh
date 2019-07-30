@@ -1,4 +1,4 @@
-**KONG桑田**\[1\]（，），[日本男](../Page/日本.md "wikilink")[演員](../Page/演員.md "wikilink")、[配音員](../Page/配音員.md "wikilink")、[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")、[福音](https://zh.wikipedia.org/wiki/福音音樂 "wikilink")[歌手](../Page/歌手.md "wikilink")。出身於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")\[2\]\[3\]。[身高](https://zh.wikipedia.org/wiki/身高 "wikilink")175cm\[4\]。B型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[5\]\[6\]。
+**KONG桑田**\[1\]（，），[日本](../Page/日本.md "wikilink")男[演員](../Page/演員.md "wikilink")、[配音員](../Page/配音員.md "wikilink")、[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")、[福音](https://zh.wikipedia.org/wiki/福音音樂 "wikilink")[歌手](../Page/歌手.md "wikilink")。出身於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")\[2\]\[3\]。[身高](https://zh.wikipedia.org/wiki/身高 "wikilink")175cm\[4\]。B型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[5\]\[6\]。
 
 ## 簡介
 
@@ -7,13 +7,11 @@
 ### 來歷、人物
 
   - 2014年4月起[NHK教育的長壽兒童節目](../Page/NHK教育頻道.md "wikilink")《》擔任體操單元主題歌曲「！」的主唱\[8\]。
-  - 以前曾擔任[節奏藍調系樂團](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")「King
-    Kong\&The
-    Golden」的主唱\[9\]。並在初中的時候開始與同學組成[節奏藍調系的樂團](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")「」擔任吹[薩克斯風和主唱](../Page/薩克斯風.md "wikilink")。
+  - 以前曾擔任[節奏藍調系樂團](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")「King Kong\&The Golden」的主唱\[9\]。並在初中的時候開始與同學組成[節奏藍調系的樂團](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")「」擔任吹[薩克斯風](../Page/薩克斯風.md "wikilink")和主唱。
   - 特色是擁有低沉、低尖音的音質，因為與同鄉出身的同行的音質酷似，曾有時候在廣告演出時讓外界以為是內藤的聲音。另外由於體格和髮型與電台DJ相近，所以有時候會把桑田誤認是凱·格蘭特。
   - 配音方面，因長年為[SNK電玩](https://zh.wikipedia.org/wiki/SNK_Playmore "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")《[餓狼傳說](https://zh.wikipedia.org/wiki/餓狼傳說系列 "wikilink")》系列頭目****（包含（或譯作鴨王）與理查·麥耶都由桑田一人聲演三角）和《[侍魂](../Page/侍魂系列.md "wikilink")》系列要角牙神幻十郎（之後都在《[格鬥天王](../Page/拳皇系列.md "wikilink")》系列及其他格鬥遊戲相繼出場）等獻聲，成為他的配音代表作。
   - 興趣是[電影鑑賞](https://zh.wikipedia.org/wiki/電影 "wikilink")、翻閱目錄\[10\]。
-  - [新教的](../Page/新教.md "wikilink")[基督教徒](../Page/基督徒.md "wikilink")。
+  - [新教](../Page/新教.md "wikilink")的[基督教徒](../Page/基督徒.md "wikilink")。
 
 ## 演出作品
 
@@ -86,7 +84,7 @@
 
 <!-- end list -->
 
-  - [草壁署迷宮課迷宮先生2](../Page/草壁署迷宮課迷宮先生.md "wikilink")（[朝日電視台](../Page/朝日電視台.md "wikilink")）
+  - [草壁署迷宮課迷宮先生](../Page/草壁署迷宮課迷宮先生.md "wikilink")2（[朝日電視台](../Page/朝日電視台.md "wikilink")）
 
 <!-- end list -->
 
@@ -102,8 +100,7 @@
 
 <!-- end list -->
 
-  - [NHK大河劇](../Page/NHK大河劇.md "wikilink")
-    [平清盛](../Page/平清盛_\(大河劇\).md "wikilink")（NHK）－
+  - [NHK大河劇](../Page/NHK大河劇.md "wikilink") [平清盛](../Page/平清盛_\(大河劇\).md "wikilink")（NHK）－
 
 <!-- end list -->
 
@@ -251,9 +248,7 @@
 
 ### 參考文獻
 
-  - 《A.A. Game History Series Vol.2 -All About SNK格 1991－2000-》，[Studio
-    BentStuff](https://zh.wikipedia.org/wiki/Studio_BentStuff "wikilink")
-    (編輯、發行)、 (販售)，2000年12月15日發行，第354－357頁 ISBN 978-4-885-54677-8
+  - 《A.A. Game History Series Vol.2 -All About SNK格 1991－2000-》，[Studio BentStuff](https://zh.wikipedia.org/wiki/Studio_BentStuff "wikilink") (編輯、發行)、 (販售)，2000年12月15日發行，第354－357頁 ISBN 978-4-885-54677-8
 
 ### 注釋
 
@@ -263,11 +258,7 @@
 
   - [株式會社Cube公式官網的資歷簡介](http://www.cubeinc.co.jp/members/prf/103.html)
 
-[Category:日本男演員](https://zh.wikipedia.org/wiki/Category:日本男演員 "wikilink")
-[Category:日本男性配音員](https://zh.wikipedia.org/wiki/Category:日本男性配音員 "wikilink")
-[Category:大阪府出身人物](https://zh.wikipedia.org/wiki/Category:大阪府出身人物 "wikilink")
-[Category:1961年出生](https://zh.wikipedia.org/wiki/Category:1961年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本男演員](https://zh.wikipedia.org/wiki/Category:日本男演員 "wikilink") [Category:日本男性配音員](https://zh.wikipedia.org/wiki/Category:日本男性配音員 "wikilink") [Category:大阪府出身人物](https://zh.wikipedia.org/wiki/Category:大阪府出身人物 "wikilink") [Category:1961年出生](https://zh.wikipedia.org/wiki/Category:1961年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.
 
@@ -296,5 +287,4 @@
 
 18. 戰鬥中的配音。
 
-19. <https://twitter.com/Harada_TEKKEN/status/887304754631659520>
-    .\[2018-11-01\] .
+19. <https://twitter.com/Harada_TEKKEN/status/887304754631659520> .\[2018-11-01\] .

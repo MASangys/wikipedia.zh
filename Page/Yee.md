@@ -1,8 +1,4 @@
-[Yee_Oro.PNG](https://zh.wikipedia.org/wiki/File:Yee_Oro.PNG "fig:Yee_Oro.PNG")
-
-****這個詞起源於「revergo」這個[YouTube頻道在](../Page/YouTube.md "wikilink")2012年2月29日上傳的一部同名影片《Yee》\[1\]。這部影片將德國
-Dingo Pictures
-所製作動畫《恐龍的冒險》（）裡的片段改編後，上傳至YouTube。\[2\]\[3\]這部影片在2014年8月20日被分享到[Reddit後](../Page/Reddit.md "wikilink")，開始在[網路上爆紅](https://zh.wikipedia.org/wiki/網路爆紅 "wikilink")。在2015年6月傳入「[巴哈姆特](../Page/巴哈姆特電玩資訊站.md "wikilink")」後，開始在臺灣流傳。\[4\]成為在網路上及學生之間模仿的對象。\[5\]\[6\]
+[Yee_Oro.PNG](https://zh.wikipedia.org/wiki/File:Yee_Oro.PNG "fig:Yee_Oro.PNG")  ****這個詞起源於「revergo」這個[YouTube](../Page/YouTube.md "wikilink")頻道在2012年2月29日上傳的一部同名影片《Yee》\[1\]。這部影片將德國 Dingo Pictures 所製作動畫《恐龍的冒險》（）裡的片段改編後，上傳至YouTube。\[2\]\[3\]這部影片在2014年8月20日被分享到[Reddit](../Page/Reddit.md "wikilink")後，開始在[網路上爆紅](https://zh.wikipedia.org/wiki/網路爆紅 "wikilink")。在2015年6月傳入「[巴哈姆特](../Page/巴哈姆特電玩資訊站.md "wikilink")」後，開始在臺灣流傳。\[4\]成為在網路上及學生之間模仿的對象。\[5\]\[6\]
 
 ## 起源
 
@@ -10,11 +6,11 @@ Dingo Pictures
 
 ## 傳播
 
-《Yee》這部影片在2012年2月29日上傳至[YouTube後](../Page/YouTube.md "wikilink")，並沒有立即受到廣泛注意。\[20\]\[21\]直到2014年8月20日，一位[Reddit使用者](../Page/Reddit.md "wikilink")「alurkeraccount」將這部影片分享至Reddit的「Youtube俳句」看板後，開始在[網路上爆紅](https://zh.wikipedia.org/wiki/網路爆紅 "wikilink")。\[22\]\[23\]\[24\]隨後有許多改編作品及圖片開始出現。\[25\]而在2015年6月時，這部影片傳入「[巴哈姆特](../Page/巴哈姆特電玩資訊站.md "wikilink")」後，經由網路上廣泛流行，即開始在臺灣流傳，甚至影響了臺灣校園，成了當時最流行的趣味用語。\[26\]\[27\]
+《Yee》這部影片在2012年2月29日上傳至[YouTube](../Page/YouTube.md "wikilink")後，並沒有立即受到廣泛注意。\[20\]\[21\]直到2014年8月20日，一位[Reddit](../Page/Reddit.md "wikilink")使用者「alurkeraccount」將這部影片分享至Reddit的「Youtube俳句」看板後，開始在[網路上爆紅](https://zh.wikipedia.org/wiki/網路爆紅 "wikilink")。\[22\]\[23\]\[24\]隨後有許多改編作品及圖片開始出現。\[25\]而在2015年6月時，這部影片傳入「[巴哈姆特](../Page/巴哈姆特電玩資訊站.md "wikilink")」後，經由網路上廣泛流行，即開始在臺灣流傳，甚至影響了臺灣校園，成了當時最流行的趣味用語。\[26\]\[27\]
 
 ## 影響
 
-自《Yee》這部影片在2014年8月20日分享至Reddit的「YouTube俳句」看板的9天後（2014年8月29日），這篇文章獲得了2,061個指標。\[28\]截至2019年1月，《Yee》這部影片在YouTube的點閱率超過了6600萬次。\[29\]而在[Reddit上也有Yee的Subreddit](../Page/Reddit.md "wikilink")成立。\[30\]
+自《Yee》這部影片在2014年8月20日分享至Reddit的「YouTube俳句」看板的9天後（2014年8月29日），這篇文章獲得了2,061個指標。\[28\]截至2019年1月，《Yee》這部影片在YouTube的點閱率超過了6600萬次。\[29\]而在[Reddit](../Page/Reddit.md "wikilink")上也有Yee的Subreddit成立。\[30\]
 
 因Yee的角色發音以及表情引人注目，而成為在網路上及學生之間模仿的對象。\[31\]\[32\]同時也有相關改編影片或圖片出現\[33\]\[34\]。若字詞裡有與「Yee」相同或相似音的字，也是模仿的對象，造成一股熱潮。\[35\]\[36\]
 
@@ -37,9 +33,7 @@ Dingo Pictures
 
   - [Yee在Reddit上的Subreddit](http://www.reddit.com/r/yee/)
 
-[Category:網絡爆紅短片](https://zh.wikipedia.org/wiki/Category:網絡爆紅短片 "wikilink")
-[Category:YouTube視訊](https://zh.wikipedia.org/wiki/Category:YouTube視訊 "wikilink")
-[Category:2012年面世的網路迷因](https://zh.wikipedia.org/wiki/Category:2012年面世的網路迷因 "wikilink")
+[Category:網絡爆紅短片](https://zh.wikipedia.org/wiki/Category:網絡爆紅短片 "wikilink") [Category:YouTube視訊](https://zh.wikipedia.org/wiki/Category:YouTube視訊 "wikilink") [Category:2012年面世的網路迷因](https://zh.wikipedia.org/wiki/Category:2012年面世的網路迷因 "wikilink")
 
 1.
 

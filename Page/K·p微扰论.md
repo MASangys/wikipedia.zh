@@ -1,8 +1,8 @@
-在[固体物理中](https://zh.wikipedia.org/wiki/固体物理 "wikilink")，**K·p微扰论**或**K·p微扰法**，是一种用来计算固体[能带结构和光学性质的](../Page/能带结构.md "wikilink")[微扰方法](https://zh.wikipedia.org/wiki/微扰论 "wikilink")，因微扰[哈密顿算符中出现了正比于简约波矢](../Page/哈密顿算符.md "wikilink")（k）与动量算符（p）[内积的项而得名](https://zh.wikipedia.org/wiki/内积 "wikilink")。通过这种方法可以估计[半导体中的电子在](../Page/半导体.md "wikilink")[导带底](https://zh.wikipedia.org/wiki/导带 "wikilink")（或[空穴在价带顶](https://zh.wikipedia.org/wiki/空穴 "wikilink")）的[有效质量](https://zh.wikipedia.org/wiki/有效质量 "wikilink")。\[1\]\[2\]
+在[固体物理中](https://zh.wikipedia.org/wiki/固体物理 "wikilink")，**K·p微扰论**或**K·p微扰法**，是一种用来计算固体[能带结构](../Page/能带结构.md "wikilink")和光学性质的[微扰方法](https://zh.wikipedia.org/wiki/微扰论 "wikilink")，因微扰[哈密顿算符](../Page/哈密顿算符.md "wikilink")中出现了正比于简约波矢（k）与动量算符（p）[内积的项而得名](https://zh.wikipedia.org/wiki/内积 "wikilink")。通过这种方法可以估计[半导体](../Page/半导体.md "wikilink")中的电子在[导带底](https://zh.wikipedia.org/wiki/导带 "wikilink")（或[空穴在价带顶](https://zh.wikipedia.org/wiki/空穴 "wikilink")）的[有效质量](https://zh.wikipedia.org/wiki/有效质量 "wikilink")。\[1\]\[2\]
 
 ## 推导
 
-在晶体中，势场具有周期性，如果给其中电子的波函数加以[周期性边界条件](../Page/玻恩-冯·卡门边界条件.md "wikilink")，则波函数将具有[布洛赫波的形式](../Page/布洛赫波.md "wikilink")：\[3\]
+在晶体中，势场具有周期性，如果给其中电子的波函数加以[周期性边界条件](../Page/玻恩-冯·卡门边界条件.md "wikilink")，则波函数将具有[布洛赫波](../Page/布洛赫波.md "wikilink")的形式：\[3\]
 
 \[\psi_{n,\mathbf{k}}=e^{i\mathbf{k}\mathbf{r}}u_{n,\mathbf{k}}\]
 
@@ -73,8 +73,7 @@
 10.
 11.
 12.
-13. 参见[Fundamentals of Semiconductors: Physics and Materials
-    Properties](http://books.google.com/books?id=W9pdJZoAeyEC&pg=PA244&dq=isbn:3540254706#PPA71,M1)一书中表2.22
+13. 参见[Fundamentals of Semiconductors: Physics and Materials Properties](http://books.google.com/books?id=W9pdJZoAeyEC&pg=PA244&dq=isbn:3540254706#PPA71,M1)一书中表2.22
 
 14.
 

@@ -1,11 +1,10 @@
-《**配角X³**》（Supporting role Actor X³）為
-[臺灣漫畫家](../Page/臺灣.md "wikilink")[宇文風之作品](https://zh.wikipedia.org/wiki/宇文風 "wikilink")。\[1\]2015年2月正式開始於[東立出版社](../Page/東立出版社.md "wikilink")《[龍少年](https://zh.wikipedia.org/wiki/龍少年 "wikilink")》連載，單行本第一本於同年7月3日發售。
+《**配角X³**》（Supporting role Actor X³）為 [臺灣](../Page/臺灣.md "wikilink")漫畫家[宇文風之作品](https://zh.wikipedia.org/wiki/宇文風 "wikilink")。\[1\]2015年2月正式開始於[東立出版社](../Page/東立出版社.md "wikilink")《[龍少年](https://zh.wikipedia.org/wiki/龍少年 "wikilink")》連載，單行本第一本於同年7月3日發售。
 
 内容以「配角」的角度來描述故事。\[2\]\[3\]
 
 ## 概要
 
-各種故事中，總是有人頂著主角光環，獲得凡人難遇的特殊際遇。關宗翔有3名過著主角級人生的好友，自己卻是個只能在一旁羨慕他們的天生配角命。某天在他面前突然飛來一隻「吉祥物」，讓宗翔以為機會終於輪到他了，但牠卻要宗翔當個「配角」，當個讓主角友人們能過得更像主角的**真正配角**……\[4\]
+各種故事中，總是有人頂著[主角光環](https://zh.wikipedia.org/wiki/主角光環 "wikilink")，獲得凡人難遇的特殊際遇。關宗翔有3名過著主角級人生的好友，自己卻是個只能在一旁羨慕他們的天生配角命。某天在宗翔面前突然飛來一隻「吉祥物」，讓他以為機會終於輪到他了；牠卻要宗翔當個「配角」，當個讓主角友人們能過得更像主角的**真正配角**……\[4\]
 
 ## 登場人物
 
@@ -152,7 +151,7 @@
 ### Phantom
 
   -
-    麥法拉為首的組織，由於發覺被不明人士植入「『Ｘ』是敵人」及其相關情報的暗示，決定只派法爾雪莉監視觀察。
+    麥法拉為首的組織，由於發覺被不明人士植入「『Ｘ』是敵人」及其相關情報的暗示，決定指派法爾雪莉監視觀察。
     在與宗翔交手幾次且需要他協助贏托的情況下暫且保持放任的態度。
     將張結仁、龍天豪、司馬羽、贏托等四位「主角」稱為「中心點」。
   - 麥法拉·V·阿西克特
@@ -190,6 +189,7 @@
 
   - 德古拉
     吸血鬼形象的起源，始祖中的正宗始祖，Phantom 8號。
+    麥法拉透過怪物連結叫出來的概念體。
 
 <!-- end list -->
 
@@ -284,8 +284,7 @@
   -
     以現實世界地圖改編，主要改動為將俄羅斯移除，及將非洲與南美洲合併而成。但俄國這一聯邦國本身其實還在，只是國家領土小很多。
     另外尚有神界及魔界，是個惡魔、超能力者、外星人等等皆已被世間普遍認知數十年以上的世界觀。
-    使用 R.E. 紀年，故事開始時間為 R.E. 3305年，約略等同於 C.E.
-    2015年的時代觀，大致上的國際情勢也會和這個年代的推演類似。
+    使用 R.E. 紀年，故事開始時間為 R.E. 3305年，約略等同於 C.E. 2015年的時代觀，大致上的國際情勢也會和這個年代的推演類似。
 
 ## 用語
 
@@ -427,10 +426,7 @@
 
 ## 參考資料
 
-[Category:臺灣漫畫作品](https://zh.wikipedia.org/wiki/Category:臺灣漫畫作品 "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:龍少年](https://zh.wikipedia.org/wiki/Category:龍少年 "wikilink")
-[Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink")
+[Category:臺灣漫畫作品](https://zh.wikipedia.org/wiki/Category:臺灣漫畫作品 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:龍少年](https://zh.wikipedia.org/wiki/Category:龍少年 "wikilink") [Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink")
 
 1.
 2.

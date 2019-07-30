@@ -74,8 +74,7 @@
   -
   -
   -
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:山葉音樂傳播旗下藝人](https://zh.wikipedia.org/wiki/Category:山葉音樂傳播旗下藝人 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:山葉音樂傳播旗下藝人](https://zh.wikipedia.org/wiki/Category:山葉音樂傳播旗下藝人 "wikilink")
 
 1.  NODOKA與HONOKA是雙胞胎姊妹，姊姊是HONOKA，妹妹是NODOKA。
 

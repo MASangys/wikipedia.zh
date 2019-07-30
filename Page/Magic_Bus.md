@@ -1,19 +1,12 @@
-**株式會社Magic
-Bus**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[西東京市](../Page/西東京市.md "wikilink")\[1\]，主要從事[動畫製作的日本動畫企業](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1977年。
+**株式會社Magic Bus**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[西東京市](../Page/西東京市.md "wikilink")\[1\]，主要從事[動畫製作的日本動畫企業](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1977年。
 
 ## 概要、沿革
 
-Magic Bus公司的前身是一家專門負責作畫的小型工作室。1977年4月1日\[2\]，由當時動畫工作室-{「}-株式會社ART
-FRESH-{」}-所屬的動畫導演、演出家[出崎哲跟ART](../Page/出崎哲.md "wikilink")
-FRESH創立人等人一起成立Magic
-Bus工作室之後，從承包電視動畫《[新·巨人之星](../Page/巨人之星.md "wikilink")》的演出、作畫工作起家。
+Magic Bus公司的前身是一家專門負責作畫的小型工作室。1977年4月1日\[2\]，由當時動畫工作室-{「}-株式會社ART FRESH-{」}-所屬的動畫導演、演出家[出崎哲](../Page/出崎哲.md "wikilink")跟ART FRESH創立人等人一起成立Magic Bus工作室之後，從承包電視動畫《[新·巨人之星](../Page/巨人之星.md "wikilink")》的演出、作畫工作起家。
 
-1983年播出由[EIKEN製作](../Page/EIKEN.md "wikilink")、出崎哲執導的電視動畫《》時，Magic
-Bus就曾經參加此作的作畫協力工作。在那之後，Magic
-Bus從作畫工作室成升成動畫製作公司。並從協助過EIKEN的動畫《青少棒揚威記》的製作跟EIKEN建立關係開始，經常幫EIKEN承包的作品負責動畫的實質製作，不僅如此，還有跟其他許多家動畫公司承包電視動畫及長篇動畫等作品的部分代工。
+1983年播出由[EIKEN](../Page/EIKEN.md "wikilink")製作、出崎哲執導的電視動畫《》時，Magic Bus就曾經參加此作的作畫協力工作。在那之後，Magic Bus從作畫工作室成升成動畫製作公司。並從協助過EIKEN的動畫《青少棒揚威記》的製作跟EIKEN建立關係開始，經常幫EIKEN承包的作品負責動畫的實質製作，不僅如此，還有跟其他許多家動畫公司承包電視動畫及長篇動畫等作品的部分代工。
 
-Magic
-Bus自從成立以來，除了有位於東京都的總部之外，另外有在外地[新潟](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")\[3\]和[福岡成立專門負責作畫和上色的工作室](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")。
+Magic Bus自從成立以來，除了有位於東京都的總部之外，另外有在外地[新潟](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")\[3\]和[福岡成立專門負責作畫和上色的工作室](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")。
 
 ## 作品列表
 
@@ -215,7 +208,7 @@ Bus自從成立以來，除了有位於東京都的總部之外，另外有在�
 <td></td>
 <td></td>
 <td><p>遊戲</p></td>
-<td><p>與<a href="../Page/OLM.md" title="wikilink">OLM共同製作</a>。</p></td>
+<td><p>與<a href="../Page/OLM.md" title="wikilink">OLM</a>共同製作。</p></td>
 </tr>
 </tbody>
 </table>
@@ -638,7 +631,7 @@ Bus自從成立以來，除了有位於東京都的總部之外，另外有在�
 </tr>
 <tr class="even">
 <td><p>1994年</p></td>
-<td><p><a href="../Page/熱血最強.md" title="wikilink">熱血最強哥修羅</a></p></td>
+<td><p><a href="../Page/熱血最強.md" title="wikilink">熱血最強</a>哥修羅</p></td>
 <td></td>
 <td><p>日昇動畫</p></td>
 <td></td>
@@ -880,7 +873,7 @@ Bus自從成立以來，除了有位於東京都的總部之外，另外有在�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/愛你寶貝.md" title="wikilink">愛你寶貝★★</a></p></td>
+<td><p><a href="../Page/愛你寶貝.md" title="wikilink">愛你寶貝</a>★★</p></td>
 <td></td>
 <td><p>TMS Entertainment</p></td>
 <td></td>
@@ -1442,7 +1435,7 @@ Bus自從成立以來，除了有位於東京都的總部之外，另外有在�
 <td></td>
 <td><p>MADHOUSE</p></td>
 <td><p>漫畫</p></td>
-<td><p>美國<a href="../Page/漫威漫畫.md" title="wikilink">漫威漫畫角色的新作電視動畫</a>。</p></td>
+<td><p>美國<a href="../Page/漫威漫畫.md" title="wikilink">漫威漫畫</a>角色的新作電視動畫。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1879,7 +1872,7 @@ Bus自從成立以來，除了有位於東京都的總部之外，另外有在�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/純情羅曼史.md" title="wikilink">純情羅曼史3</a></p></td>
+<td><p><a href="../Page/純情羅曼史.md" title="wikilink">純情羅曼史</a>3</p></td>
 <td></td>
 <td><p>STUDIO DEEN</p></td>
 <td><p>漫畫</p></td>
@@ -1951,7 +1944,7 @@ Bus自從成立以來，除了有位於東京都的總部之外，另外有在�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/疾走王子.md" title="wikilink">疾走王子Alternative</a></p></td>
+<td><p><a href="../Page/疾走王子.md" title="wikilink">疾走王子</a>Alternative</p></td>
 <td></td>
 <td><p>MADHOUSE</p></td>
 <td><p>小說</p></td>
@@ -2059,7 +2052,7 @@ Bus自從成立以來，除了有位於東京都的總部之外，另外有在�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/美男高校地球防衛部LOVE！.md" title="wikilink">美男高校地球防衛部LOVE！LOVE！</a></p></td>
+<td><p><a href="../Page/美男高校地球防衛部LOVE！.md" title="wikilink">美男高校地球防衛部LOVE！</a>LOVE！</p></td>
 <td><p>STUDIO COMET</p></td>
 <td><p>原創</p></td>
 <td></td>
@@ -2317,7 +2310,7 @@ Bus自從成立以來，除了有位於東京都的總部之外，另外有在�
 <td></td>
 <td><p>Telecom Animation Film</p></td>
 <td><p>漫畫</p></td>
-<td><p>美國<a href="../Page/DC漫畫.md" title="wikilink">DC漫畫角色的新作電視動畫</a>。</p></td>
+<td><p>美國<a href="../Page/DC漫畫.md" title="wikilink">DC漫畫</a>角色的新作電視動畫。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
@@ -2533,10 +2526,7 @@ Bus自從成立以來，除了有位於東京都的總部之外，另外有在�
 
   - [株式會社Magic Bus公式官網](http://www.magicbusinc.com/)
 
-[Category:Magic_Bus](https://zh.wikipedia.org/wiki/Category:Magic_Bus "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:西東京市公司](https://zh.wikipedia.org/wiki/Category:西東京市公司 "wikilink")
-[Category:1977年成立的公司](https://zh.wikipedia.org/wiki/Category:1977年成立的公司 "wikilink")
+[Category:Magic_Bus](https://zh.wikipedia.org/wiki/Category:Magic_Bus "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:西東京市公司](https://zh.wikipedia.org/wiki/Category:西東京市公司 "wikilink") [Category:1977年成立的公司](https://zh.wikipedia.org/wiki/Category:1977年成立的公司 "wikilink")
 
 1.
 2.

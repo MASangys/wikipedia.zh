@@ -1,4 +1,4 @@
-《**ID-0**》是在2017年4月播出的[日本原創](../Page/日本.md "wikilink")[3DCG](../Page/三维计算机图形.md "wikilink")[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，由[谷口悟朗擔任導演](../Page/谷口悟朗.md "wikilink")、[黑田洋介擔任編劇](../Page/黑田洋介.md "wikilink")、[三次元負責動畫製作](../Page/三次元_\(動畫製作公司\).md "wikilink")\[1\]\[2\]。
+《**ID-0**》是在2017年4月播出的[日本](../Page/日本.md "wikilink")原創[3DCG](../Page/三维计算机图形.md "wikilink")[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，由[谷口悟朗](../Page/谷口悟朗.md "wikilink")擔任導演、[黑田洋介](../Page/黑田洋介.md "wikilink")擔任編劇、[三次元負責動畫製作](../Page/三次元_\(動畫製作公司\).md "wikilink")\[1\]\[2\]。
 
 ## 登場人物
 
@@ -100,7 +100,7 @@
 ## 术语
 
   -
-    故事世界中一种特殊太空矿石，能被用于进行空间转移或意识转移，在故事中的人类世界所开采和大规模利用，成为基础设施不可或缺的一部分，但对其成分构成等仍存在未知。人类利用这种矿石得以进行[超光速的](../Page/超光速.md "wikilink")[跨星系太空航行与通信等](../Page/星系际旅行.md "wikilink")。
+    故事世界中一种特殊太空矿石，能被用于进行空间转移或意识转移，在故事中的人类世界所开采和大规模利用，成为基础设施不可或缺的一部分，但对其成分构成等仍存在未知。人类利用这种矿石得以进行[超光速](../Page/超光速.md "wikilink")的[跨星系太空航行与通信等](../Page/星系际旅行.md "wikilink")。
 
 <!-- end list -->
 
@@ -149,8 +149,7 @@
   - 片頭曲「ID-0」
     作詞、主唱：[佐咲紗花](../Page/佐咲紗花.md "wikilink")，作曲、編曲：AstroNoteS
   - 片尾曲「Stellar Compass」
-    作詞：影山浩宣、Serena
-    Lee，作曲：影山浩宣、服部隆之，編曲：服部隆之，主唱：[影山浩宣](../Page/影山浩宣.md "wikilink")
+    作詞：影山浩宣、Serena Lee，作曲：影山浩宣、服部隆之，編曲：服部隆之，主唱：[影山浩宣](../Page/影山浩宣.md "wikilink")
   - 特報歌曲「」
     主唱：佐咲紗花
 
@@ -291,10 +290,7 @@
   -
   - [STAFF解说推文汇总](http://www.sohu.com/a/143444401_523011)
 
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink")
-[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink")
-[Category:Netflix外購動畫](https://zh.wikipedia.org/wiki/Category:Netflix外購動畫 "wikilink")
+[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:Netflix外購動畫](https://zh.wikipedia.org/wiki/Category:Netflix外購動畫 "wikilink")
 
 1.
 2.

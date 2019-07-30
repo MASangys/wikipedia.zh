@@ -6,16 +6,8 @@
 
 ## 参考文献
 
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:腾讯游戏](https://zh.wikipedia.org/wiki/Category:腾讯游戏 "wikilink")
+[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:腾讯游戏](https://zh.wikipedia.org/wiki/Category:腾讯游戏 "wikilink")
 
-1.  [QQ自由幻想游戏介绍](http://ffo.qq.com/new/newerData/yxjs.htm). 腾讯游戏.
-    \[2016-08-14\].
-2.  [《QQ自由幻想》8周年
-    神仙也来凑热闹](http://news.17173.com/content/2016-04-03/20160403085203925.shtml).
-    17173新闻中心. 2016.4.3 \[2016.8.14\]
-3.  [《QQ自由幻想》情人节
-    玉兔传情挚爱永恒](http://newgame.duowan.com/1102/161358304231.html).
-    多玩游戏. 2011.2.11 \[2016.8.14\]
+1.  [QQ自由幻想游戏介绍](http://ffo.qq.com/new/newerData/yxjs.htm). 腾讯游戏. \[2016-08-14\].
+2.  [《QQ自由幻想》8周年 神仙也来凑热闹](http://news.17173.com/content/2016-04-03/20160403085203925.shtml). 17173新闻中心. 2016.4.3 \[2016.8.14\]
+3.  [《QQ自由幻想》情人节 玉兔传情挚爱永恒](http://newgame.duowan.com/1102/161358304231.html). 多玩游戏. 2011.2.11 \[2016.8.14\]

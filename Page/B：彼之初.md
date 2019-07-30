@@ -1,5 +1,4 @@
-《**B：彼之初**》（\[1\]）是一部由[Production
-I.G制作的原創動畫](../Page/Production_I.G.md "wikilink")，于2018年3月2日於[Netflix獨家播映](../Page/Netflix.md "wikilink")\[2\]\[3\]。
+《**B：彼之初**》（\[1\]）是一部由[Production I.G制作的原創動畫](../Page/Production_I.G.md "wikilink")，于2018年3月2日於[Netflix](../Page/Netflix.md "wikilink")獨家播映\[2\]\[3\]。
 
 在法國的安錫國際動畫影展上，Netflix宣布本作第二季製作決定\[4\]。
 
@@ -153,8 +152,7 @@ I.G制作的原創動畫](../Page/Production_I.G.md "wikilink")，于2018年3月
 ## 主題曲
 
   - 「The Perfect World」
-    作詞：[Jean-Ken
-    Johnny](../Page/MAN_WITH_A_MISSION.md "wikilink")，作曲、編曲：[馬蒂·弗里德曼](https://zh.wikipedia.org/wiki/馬蒂·弗里德曼_\(音樂家\) "wikilink")
+    作詞：[Jean-Ken Johnny](../Page/MAN_WITH_A_MISSION.md "wikilink")，作曲、編曲：[馬蒂·弗里德曼](https://zh.wikipedia.org/wiki/馬蒂·弗里德曼_\(音樂家\) "wikilink")
     主唱：馬蒂·弗里德曼 feat. Jean-Ken Johnny, KenKen
 
 ## 參考資料
@@ -165,12 +163,10 @@ I.G制作的原創動畫](../Page/Production_I.G.md "wikilink")，于2018年3月
 
   - [《B：彼之初》 | Netflix 正式網頁](https://www.netflix.com/title/80097594)
 
-  - [《B：彼之初》作品介紹 | Production
-    I.G](https://www.production-ig.co.jp/works/b-the-beginning)
+  - [《B：彼之初》作品介紹 | Production I.G](https://www.production-ig.co.jp/works/b-the-beginning)
 
   -
-[Category:2018年日本網路動畫](https://zh.wikipedia.org/wiki/Category:2018年日本網路動畫 "wikilink")
-[Category:Netflix原创节目](https://zh.wikipedia.org/wiki/Category:Netflix原创节目 "wikilink")
+[Category:2018年日本網路動畫](https://zh.wikipedia.org/wiki/Category:2018年日本網路動畫 "wikilink") [Category:Netflix原创节目](https://zh.wikipedia.org/wiki/Category:Netflix原创节目 "wikilink")
 
 1.
 2.

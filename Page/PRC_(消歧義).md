@@ -12,8 +12,7 @@ PRC是[中華人民共和國](https://zh.wikipedia.org/wiki/中華人民共和�
 
   - （），巴勒斯坦民兵組織之一。
 
-  - （），
-    [賴比瑞亞](https://zh.wikipedia.org/wiki/賴比瑞亞 "wikilink")1980年代早期的軍事政權。
+  - （）， [賴比瑞亞](https://zh.wikipedia.org/wiki/賴比瑞亞 "wikilink")1980年代早期的軍事政權。
 
   - （）
 
@@ -36,9 +35,7 @@ PRC是[中華人民共和國](https://zh.wikipedia.org/wiki/中華人民共和�
 
 ### 其他自然科學
 
-  - [Practical reserve
-    capacity](https://zh.wikipedia.org/wiki/Practical_reserve_capacity "wikilink"),
-    for traffic at a traffic signal junction
+  - [Practical reserve capacity](https://zh.wikipedia.org/wiki/Practical_reserve_capacity "wikilink"), for traffic at a traffic signal junction
   - 預應力鋼筋混凝土（），一種[預力混凝土](../Page/預力混凝土.md "wikilink")。
 
 ## 其他用途

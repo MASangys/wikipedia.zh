@@ -1,6 +1,4 @@
-**Trysail**（\[1\]）是[Music
-Ray'n所屬的](../Page/Music_Ray'n.md "wikilink")[女性](../Page/女性.md "wikilink")[聲優團體](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")。所屬唱片公司為[SACRA
-MUSIC](../Page/SACRA_MUSIC.md "wikilink")。2014年組成\[2\]、2015年正式開始活動\[3\]。
+**Trysail**（\[1\]）是[Music Ray'n所屬的](../Page/Music_Ray'n.md "wikilink")[女性](../Page/女性.md "wikilink")[聲優團體](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")。所屬唱片公司為[SACRA MUSIC](../Page/SACRA_MUSIC.md "wikilink")。2014年組成\[2\]、2015年正式開始活動\[3\]。
 
 ## 概要
 
@@ -10,15 +8,11 @@ MUSIC](../Page/SACRA_MUSIC.md "wikilink")。2014年組成\[2\]、2015年正式�
 
 三人皆為2011年Music Ray'n主辦的「第2回Music Ray'n 超級聲優試鏡」的合格者。
 
-2014年12月21日舉行的活動「TRYangle harmony presents TRYangle Stage\!\!\! ～STEP～
-in 日本青年館」內發表團體開始活動的消息\[6\]、2015年1月6日深夜放送的廣播節目「TrySail的TRYangle
-harmony」第53回中決定以「TrySail」團體名義開始活動\[7\]。
+2014年12月21日舉行的活動「TRYangle harmony presents TRYangle Stage\!\!\! ～STEP～ in 日本青年館」內發表團體開始活動的消息\[6\]、2015年1月6日深夜放送的廣播節目「TrySail的TRYangle harmony」第53回中決定以「TrySail」團體名義開始活動\[7\]。
 
-2015年5月13日由[Aniplex發行首張單曲](../Page/Aniplex.md "wikilink")「Youthful
-Dreamer」\[8\]。
+2015年5月13日由[Aniplex](../Page/Aniplex.md "wikilink")發行首張單曲「Youthful Dreamer」\[8\]。
 
-2017年4月，由原先[Aniplex移轉至同為索尼旗下為動漫歌手開設的新品牌](../Page/Aniplex.md "wikilink")[SACRA
-MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[9\]
+2017年4月，由原先[Aniplex](../Page/Aniplex.md "wikilink")移轉至同為索尼旗下為動漫歌手開設的新品牌[SACRA MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[9\]
 
 ## 成員
 
@@ -299,27 +293,21 @@ MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[9\]
   - [廣播節目TRYangle harmony官方網站](http://try.secondshot.jp/)
 
   -
-[Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
+[Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
 
 1.  『[声優グランプリ](https://zh.wikipedia.org/wiki/声優グランプリ "wikilink")』2015年3月號、[主婦之友社](https://zh.wikipedia.org/wiki/主婦之友社 "wikilink")、2015年3月、31頁。
 
-2.  『B.L.T. VOICE
-    GIRLS』vol.22、[東京ニュース通信社](https://zh.wikipedia.org/wiki/東京ニュース通信社 "wikilink")、2015年4月、37-38頁。
+2.  『B.L.T. VOICE GIRLS』vol.22、[東京ニュース通信社](https://zh.wikipedia.org/wiki/東京ニュース通信社 "wikilink")、2015年4月、37-38頁。
 
 3.
 4.  『[声優グランプリ](https://zh.wikipedia.org/wiki/声優グランプリ "wikilink")』2015年4月号、[主婦之友社](https://zh.wikipedia.org/wiki/主婦之友社 "wikilink")、2015年4月、44-45頁。
 
-5.  [＜アニメジャパン＞松井玲奈、「TrySail」の生歌を絶賛！「アニメにぴったり」 - ゲーム＆アニメ - ニュース -
-    クランクイン！](http://www.crank-in.net/game_animation/news/35971)、2015年5月1日閲覧。
+5.  [＜アニメジャパン＞松井玲奈、「TrySail」の生歌を絶賛！「アニメにぴったり」 - ゲーム＆アニメ - ニュース - クランクイン！](http://www.crank-in.net/game_animation/news/35971)、2015年5月1日閲覧。
 
 6.
-7.  [TrySailのTRYangle harmony 第53回
-    アーカイブ配信](http://www.nicovideo.jp/watch/so25311055)、2015年4月30日閲覽。
+7.  [TrySailのTRYangle harmony 第53回 アーカイブ配信](http://www.nicovideo.jp/watch/so25311055)、2015年4月30日閲覽。
 
 8.
-9.  [新レーベル『SACRA MUSIC』発足！ | プレスリリース | Sony Music Group Company
-    Site](https://www.sme.co.jp/s/SME/pressrelease/detail/NEWS00366?ima=1257)
+9.  [新レーベル『SACRA MUSIC』発足！ | プレスリリース | Sony Music Group Company Site](https://www.sme.co.jp/s/SME/pressrelease/detail/NEWS00366?ima=1257)
 
 10.

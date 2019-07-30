@@ -19,14 +19,9 @@
 
 ## 外部链接
 
-  - [Archived Luxoflux
-    page](https://web.archive.org/web/20090221185509/http://www.luxoflux.com/home.html)
+  - [Archived Luxoflux page](https://web.archive.org/web/20090221185509/http://www.luxoflux.com/home.html)
   - [Isopod Labs page](http://www.isopodlabs.net/)
 
-[Category:1997年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1997年開業電子遊戲公司 "wikilink")
-[Category:2010年結業公司](https://zh.wikipedia.org/wiki/Category:2010年結業公司 "wikilink")
-[Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink")
-[Category:美國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國已結業電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
+[Category:1997年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1997年開業電子遊戲公司 "wikilink") [Category:2010年結業公司](https://zh.wikipedia.org/wiki/Category:2010年結業公司 "wikilink") [Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink") [Category:美國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國已結業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
 1.

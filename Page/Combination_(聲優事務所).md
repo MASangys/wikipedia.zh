@@ -2,7 +2,7 @@
 
 ## 概要
 
-2009年1月19日\[2\]，由[日高範子和母公司](../Page/日高範子.md "wikilink")社長[三矢雄二共兩位聲優代表](../Page/三矢雄二.md "wikilink")，在[東京都](../Page/東京都.md "wikilink")[世田谷區成立](../Page/世田谷區.md "wikilink")。
+2009年1月19日\[2\]，由[日高範子](../Page/日高範子.md "wikilink")和母公司社長[三矢雄二](../Page/三矢雄二.md "wikilink")共兩位聲優代表，在[東京都](../Page/東京都.md "wikilink")[世田谷區](../Page/世田谷區.md "wikilink")成立。
 
 ## 所屬聲優
 
@@ -32,9 +32,7 @@
 
   - [株式會社Combination公式官網](http://combination.jp/)
 
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:世田谷區公司](https://zh.wikipedia.org/wiki/Category:世田谷區公司 "wikilink")
-[Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink")
+[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:世田谷區公司](https://zh.wikipedia.org/wiki/Category:世田谷區公司 "wikilink") [Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink")
 
 1.
 

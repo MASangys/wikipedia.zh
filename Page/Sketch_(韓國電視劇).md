@@ -1,5 +1,4 @@
-《**Sketch**》
-（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC於](../Page/JTBC.md "wikilink")2018年5月25日起播出的[金土連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[宥娜的街](../Page/宥娜的街.md "wikilink")》林泰佑導演執導與《[隱藏身份](../Page/隱藏身份.md "wikilink")》姜賢成作家合作打造。此劇講述為了改變未來而孤軍奮戰的人們，彼此命運交錯的搜查故事。\[1\]香港於[Viu網路平台免費同步播映](../Page/Viu.md "wikilink")；台灣由愛奇藝台灣站自5月26日(六)起，每週六日上午十點獨家播出。
+《**Sketch**》 （），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")於2018年5月25日起播出的[金土連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[宥娜的街](../Page/宥娜的街.md "wikilink")》林泰佑導演執導與《[隱藏身份](../Page/隱藏身份.md "wikilink")》姜賢成作家合作打造。此劇講述為了改變未來而孤軍奮戰的人們，彼此命運交錯的搜查故事。\[1\]香港於[Viu](../Page/Viu.md "wikilink")網路平台免費同步播映；台灣由愛奇藝台灣站自5月26日(六)起，每週六日上午十點獨家播出。
 
 ## 演員陣容
 
@@ -482,7 +481,7 @@
 
 ## 記事
 
-  - [Rain與](../Page/Rain.md "wikilink")[李東健繼](../Page/李東健.md "wikilink")《[尚道呀，上學去](https://zh.wikipedia.org/wiki/尚道呀，上學去 "wikilink")》後時隔15年後再次合作。
+  - [Rain](../Page/Rain.md "wikilink")與[李東健](../Page/李東健.md "wikilink")繼《[尚道呀，上學去](https://zh.wikipedia.org/wiki/尚道呀，上學去 "wikilink")》後時隔15年後再次合作。
 
 ## 參考資料
 
@@ -492,15 +491,8 @@
   - [SKETCH-DAUM](https://web.archive.org/web/20180616103448/http://movie.daum.net/tv/main?tvProgramId=81766)
   - [SKETCH-NAVER](http://m.entertain.naver.com/tvBrand/6466298)
 
-[Category:JTBC金土連續劇](https://zh.wikipedia.org/wiki/Category:JTBC金土連續劇 "wikilink")
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink")
-[Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink")
-[Category:首爾特別市背景電視劇](https://zh.wikipedia.org/wiki/Category:首爾特別市背景電視劇 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
-[Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
+[Category:JTBC金土連續劇](https://zh.wikipedia.org/wiki/Category:JTBC金土連續劇 "wikilink") [Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink") [Category:首爾特別市背景電視劇](https://zh.wikipedia.org/wiki/Category:首爾特別市背景電視劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
 
-1.  [정지훈-이동건, '캐스팅' 출연 확정…'상두야 학교가자' 이후 15년 만에
-    재회](http://m.entertain.naver.com/read?oid=404&aid=0000204576)
+1.  [정지훈-이동건, '캐스팅' 출연 확정…'상두야 학교가자' 이후 15년 만에 재회](http://m.entertain.naver.com/read?oid=404&aid=0000204576)
 2.
 3.

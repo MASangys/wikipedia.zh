@@ -1,9 +1,6 @@
-《**2GETHER 4EVER
-ENCORE演唱會影音館**》是[台灣女子組合](https://zh.wikipedia.org/wiki/台灣 "wikilink")[S.H.E的第五張演唱會影音專輯](../Page/S.H.E.md "wikilink")，亦是第四次世界巡迴演唱會《[2gether
-4ever世界巡迴演唱會](https://zh.wikipedia.org/wiki/2gether_4ever世界巡迴演唱會 "wikilink")》Encore場的影音實錄。此張演唱會影音專輯收錄了S.H.E於2014年8月9日、8月10日於[台北小巨蛋舉辦的](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")《[2gether
-4ever世界巡迴演唱會](https://zh.wikipedia.org/wiki/Together_Forever世界巡迴演唱會 "wikilink")》安可場演唱會台北場第二天8月10日的演唱會實況的現場影音，並獨家收錄台北場第一天8月9日和2014年7月19日於[高雄巨蛋舉辦的安可場演唱會高雄場的特別曲目](https://zh.wikipedia.org/wiki/高雄巨蛋 "wikilink")。\[1\]\[2\]
+《**2GETHER 4EVER ENCORE演唱會影音館**》是[台灣女子組合](https://zh.wikipedia.org/wiki/台灣 "wikilink")[S.H.E](../Page/S.H.E.md "wikilink")的第五張演唱會影音專輯，亦是第四次世界巡迴演唱會《[2gether 4ever世界巡迴演唱會](https://zh.wikipedia.org/wiki/2gether_4ever世界巡迴演唱會 "wikilink")》Encore場的影音實錄。此張演唱會影音專輯收錄了S.H.E於2014年8月9日、8月10日於[台北小巨蛋舉辦的](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")《[2gether 4ever世界巡迴演唱會](https://zh.wikipedia.org/wiki/Together_Forever世界巡迴演唱會 "wikilink")》安可場演唱會台北場第二天8月10日的演唱會實況的現場影音，並獨家收錄台北場第一天8月9日和2014年7月19日於[高雄巨蛋舉辦的安可場演唱會高雄場的特別曲目](https://zh.wikipedia.org/wiki/高雄巨蛋 "wikilink")。\[1\]\[2\]
 
-S.H.E憑此影音專輯於[IFPI香港唱片銷量大獎頒獎禮2015獲得](../Page/IFPI香港唱片銷量大獎頒獎禮2015.md "wikilink")『十大銷量國語唱片』獎項。
+S.H.E憑此影音專輯於[IFPI香港唱片銷量大獎頒獎禮2015](../Page/IFPI香港唱片銷量大獎頒獎禮2015.md "wikilink")獲得『十大銷量國語唱片』獎項。
 
 ## 發行版本
 
@@ -28,8 +25,7 @@ S.H.E憑此影音專輯於[IFPI香港唱片銷量大獎頒獎禮2015獲得](../P
 ## 參見
 
   - [S.H.E](../Page/S.H.E.md "wikilink")
-  - [Together
-    Forever世界巡迴演唱會](https://zh.wikipedia.org/wiki/Together_Forever世界巡迴演唱會 "wikilink")
+  - [Together Forever世界巡迴演唱會](https://zh.wikipedia.org/wiki/Together_Forever世界巡迴演唱會 "wikilink")
 
 ## 其它作品
 
@@ -48,14 +44,7 @@ S.H.E憑此影音專輯於[IFPI香港唱片銷量大獎頒獎禮2015獲得](../P
 
 
 
-[Category:S.H.E巡迴演唱會](https://zh.wikipedia.org/wiki/Category:S.H.E巡迴演唱會 "wikilink")
-[Category:S.H.E音樂專輯](https://zh.wikipedia.org/wiki/Category:S.H.E音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
-[Category:2015年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2015年音樂相關影像作品 "wikilink")
-[Category:台灣現場影像](https://zh.wikipedia.org/wiki/Category:台灣現場影像 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:华研国际音乐音乐专辑](https://zh.wikipedia.org/wiki/Category:华研国际音乐音乐专辑 "wikilink")
+[Category:S.H.E巡迴演唱會](https://zh.wikipedia.org/wiki/Category:S.H.E巡迴演唱會 "wikilink") [Category:S.H.E音樂專輯](https://zh.wikipedia.org/wiki/Category:S.H.E音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:2015年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2015年音樂相關影像作品 "wikilink") [Category:台灣現場影像](https://zh.wikipedia.org/wiki/Category:台灣現場影像 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:华研国际音乐音乐专辑](https://zh.wikipedia.org/wiki/Category:华研国际音乐音乐专辑 "wikilink")
 
 1.
 2.  [華研國際音樂](http://www.him.com.tw/newscon.php?nid=281)

@@ -4,11 +4,9 @@
 
 ## 在周期表上的位置
 
-Ust在[周期表上的位置有不止一種說法](../Page/元素周期表.md "wikilink")。1969年，格倫·西奧多·西博格根據根據構造原理提出的週期表中，Ust被安排在第九周期的g<sup>3</sup>族\[3\]，上方為123號元素、下方為245號元素；1973年德國物理學家布克哈德·弗里克（Burkhard
-Fricke）的[扩展元素周期表則將Ust安排在g](../Page/扩展元素周期表.md "wikilink")<sup>1</sup>族；而2010年提出的模型則將Ust安排在[鹼金族](https://zh.wikipedia.org/wiki/鹼金族 "wikilink")，但對於其週期歸屬多個研究皆有不同看法，目前尚未有一篇廣泛接受的研究指出第8週期以後的元素排列。
+Ust在[周期表上的位置有不止一種說法](../Page/元素周期表.md "wikilink")。1969年，格倫·西奧多·西博格根據根據構造原理提出的週期表中，Ust被安排在第九周期的g<sup>3</sup>族\[3\]，上方為123號元素、下方為245號元素；1973年德國物理學家布克哈德·弗里克（Burkhard Fricke）的[扩展元素周期表](../Page/扩展元素周期表.md "wikilink")則將Ust安排在g<sup>1</sup>族；而2010年提出的模型則將Ust安排在[鹼金族](https://zh.wikipedia.org/wiki/鹼金族 "wikilink")，但對於其週期歸屬多個研究皆有不同看法，目前尚未有一篇廣泛接受的研究指出第8週期以後的元素排列。
 
-對於其是否為週期表的終點學界眾說紛紜，例如弗里克認為Ust是[元素周期表中最后一种元素](../Page/元素周期表.md "wikilink")\[4\]，而沃爾特·格瑞納（Walter
-Greiner）認為的原子序可達到184甚至194\[5\]\[6\]，亦有學者認為週期表的終點可能更早結束，例如費曼認為最後一個元素為[137號元素以及穩定島預測的](../Page/Uts.md "wikilink")[126號元素](../Page/Ubh.md "wikilink")\[7\]。
+對於其是否為週期表的終點學界眾說紛紜，例如弗里克認為Ust是[元素周期表](../Page/元素周期表.md "wikilink")中最后一种元素\[4\]，而沃爾特·格瑞納（Walter Greiner）認為的原子序可達到184甚至194\[5\]\[6\]，亦有學者認為週期表的終點可能更早結束，例如費曼認為最後一個元素為[137號元素以及穩定島預測的](../Page/Uts.md "wikilink")[126號元素](../Page/Ubh.md "wikilink")\[7\]。
 
 ## 命名
 
@@ -22,13 +20,9 @@ Ust尚未被发现，目前也没有尝试合成的报告。早期的推测，�
 
 ## 特徵
 
-理論上，根據狄拉克方程式，當質子數大於137時將出現虛數解而出現矛盾，但前述運算未考慮到原子核的大小，因為狄拉克方程式是將原子核視為一個點，因此，德國的物理學家更進一步的探討了考慮到有限原子核大小的更準確的理論計算，並在1982年發表了研究，該研究表明當質子數為173時，原子核將達到「臨界電荷」，其結合能超過電子靜止時能量的兩倍\[14\]。而電子靜止時能量的兩倍（2m<sub>e</sub>c<sup>2</sup>
-=
-1.022MeV）已達電子和正子對的湮滅能量，並且有實驗表明，當達到此能量時，將發生逆反應電子和正子[成對產生](https://zh.wikipedia.org/wiki/成對產生 "wikilink")（實驗是將電子靜止時能量的兩倍的伽瑪射線射入原子）\[15\]，空缺的最內部殼層會導致一顆電子憑空產生，同時發射一顆[正子](https://zh.wikipedia.org/wiki/正子 "wikilink")\[16\]。
+理論上，根據狄拉克方程式，當質子數大於137時將出現虛數解而出現矛盾，但前述運算未考慮到原子核的大小，因為狄拉克方程式是將原子核視為一個點，因此，德國的物理學家更進一步的探討了考慮到有限原子核大小的更準確的理論計算，並在1982年發表了研究，該研究表明當質子數為173時，原子核將達到「臨界電荷」，其結合能超過電子靜止時能量的兩倍\[14\]。而電子靜止時能量的兩倍（2m<sub>e</sub>c<sup>2</sup> = 1.022MeV）已達電子和正子對的湮滅能量，並且有實驗表明，當達到此能量時，將發生逆反應電子和正子[成對產生](https://zh.wikipedia.org/wiki/成對產生 "wikilink")（實驗是將電子靜止時能量的兩倍的伽瑪射線射入原子）\[15\]，空缺的最內部殼層會導致一顆電子憑空產生，同時發射一顆[正子](https://zh.wikipedia.org/wiki/正子 "wikilink")\[16\]。
 
-1977年亥姆霍兹重离子研究中心藉由鈾原子（Z =
-92）原子核相互碰撞產生質子數為184的虛擬粒子進行了相關研究。1980年正子發射的現象在類似實驗中被關觀測到，但使用的原子是鋦（Z
-= 96），而2p軌域在質子數為185也會達到臨界電荷\[17\]。另一個研究則認為當Z = 245時，2s軌域也將崩潰\[18\]。
+1977年亥姆霍兹重离子研究中心藉由鈾原子（Z = 92）原子核相互碰撞產生質子數為184的虛擬粒子進行了相關研究。1980年正子發射的現象在類似實驗中被關觀測到，但使用的原子是鋦（Z = 96），而2p軌域在質子數為185也會達到臨界電荷\[17\]。另一個研究則認為當Z = 245時，2s軌域也將崩潰\[18\]。
 
 ## 注釋
 
@@ -36,23 +30,15 @@ Ust尚未被发现，目前也没有尝试合成的报告。早期的推测，�
 
 {{-}}
 
-1.  Pekka Pyykkö, Peter Schwerdtfeger (2004), *Relativistic electronic
-    structure theory,* p
-    23.[(review)](http://www.rsc.org/Publishing/ChemScience/Volume/2010/11/Extended_elements.asp)
+1.  Pekka Pyykkö, Peter Schwerdtfeger (2004), *Relativistic electronic structure theory,* p 23.[(review)](http://www.rsc.org/Publishing/ChemScience/Volume/2010/11/Extended_elements.asp)
 
-2.  Walter Greiner and Stefan Schramm, *Am. J. Phys.* 76, 509 (2008),
-    and references therein.
+2.  Walter Greiner and Stefan Schramm, *Am. J. Phys.* 76, 509 (2008), and references therein.
 
-3.  Glenn T. Seaborg, "Prospects for Further Considerable Extension of
-    the Periodic Table," Journal of Chemical Education 46 (1969):
-    626–634
+3.  Glenn T. Seaborg, "Prospects for Further Considerable Extension of the Periodic Table," Journal of Chemical Education 46 (1969): 626–634
 
-4.  Fricke, B.; Greiner, W.; Waber, J. T. . Theoretica chimica acta
-    (Springer-Verlag). 1971, 21 (3): 235–260 \[28 November 2012\].
-    <doi:10.1007/BF01172015>.
+4.  Fricke, B.; Greiner, W.; Waber, J. T. . Theoretica chimica acta (Springer-Verlag). 1971, 21 (3): 235–260 \[28 November 2012\]. <doi:10.1007/BF01172015>.
 
-5.  Walter Greiner and Stefan Schramm, *Am. J. Phys.* 76, 509 (2008),
-    and references therein.
+5.  Walter Greiner and Stefan Schramm, *Am. J. Phys.* 76, 509 (2008), and references therein.
 
 6.
 

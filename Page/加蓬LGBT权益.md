@@ -1,6 +1,6 @@
-**女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群在**加蓬**面临着许多法律和社会方面的挑战。[加蓬男性和女性的同性性行为都是合法的](../Page/加蓬.md "wikilink")，但同性伴侣没有资格获得与异性恋夫妻相同的法律保护。\[1\]
+**女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群在**加蓬**面临着许多法律和社会方面的挑战。[加蓬](../Page/加蓬.md "wikilink")男性和女性的同性性行为都是合法的，但同性伴侣没有资格获得与异性恋夫妻相同的法律保护。\[1\]
 
-2008年12月，加蓬共同提议并签署了关于[聯合國性傾向與性別認同議題的无约束力的联合国宣言](../Page/聯合國性傾向與性別認同議題.md "wikilink")，呼吁将全球同性恋者非罪化，是签署该宣言的六个非洲国家之一。\[2\]然而，2011年，加蓬在人权理事会中投票反对南非提议的题为“人权，性取向和性别认同”的决议。\[3\]
+2008年12月，加蓬共同提议并签署了关于[聯合國性傾向與性別認同議題](../Page/聯合國性傾向與性別認同議題.md "wikilink")的无约束力的联合国宣言，呼吁将全球同性恋者非罪化，是签署该宣言的六个非洲国家之一。\[2\]然而，2011年，加蓬在人权理事会中投票反对南非提议的题为“人权，性取向和性别认同”的决议。\[3\]
 
 ## 有关同性性行为的法律
 
@@ -12,7 +12,7 @@
 
 ## 反歧视保障
 
-没有法律保护LGBT人群免遭基于[性取向的](../Page/性取向.md "wikilink")[歧视](https://zh.wikipedia.org/wiki/歧视 "wikilink")。
+没有法律保护LGBT人群免遭基于[性取向](../Page/性取向.md "wikilink")的[歧视](https://zh.wikipedia.org/wiki/歧视 "wikilink")。
 
 ## 生存现状
 
@@ -43,8 +43,7 @@
 
 ## 参考资料
 
-[Category:非洲LGBT權益](https://zh.wikipedia.org/wiki/Category:非洲LGBT權益 "wikilink")
-[Category:加蓬政治](https://zh.wikipedia.org/wiki/Category:加蓬政治 "wikilink")
+[Category:非洲LGBT權益](https://zh.wikipedia.org/wiki/Category:非洲LGBT權益 "wikilink") [Category:加蓬政治](https://zh.wikipedia.org/wiki/Category:加蓬政治 "wikilink")
 
 1.
 2.

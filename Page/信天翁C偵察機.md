@@ -1,6 +1,6 @@
 **信天翁C偵察機**是由信天翁飛機公司研製的雙翼偵察機，在[第一次世界大戰期間不單作為偵察機](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")，還以其機載機槍件為戰鬥機和對地攻擊機，信天翁飛機公司以此為基礎推出[信天翁D戰鬥機](../Page/信天翁D戰鬥機.md "wikilink")。
 
-不同於[福克飛機公司是由荷蘭人安東尼](https://zh.wikipedia.org/wiki/福克飛機公司 "wikilink")．福克創立，信天翁飛機公司是正宗的德國飛機製造商，1910年成立於[柏林約亨尼斯塔爾區](../Page/柏林.md "wikilink")。
+不同於[福克飛機公司是由荷蘭人安東尼](https://zh.wikipedia.org/wiki/福克飛機公司 "wikilink")．福克創立，信天翁飛機公司是正宗的德國飛機製造商，1910年成立於[柏林](../Page/柏林.md "wikilink")約亨尼斯塔爾區。
 
 ## 基本資料(信天翁C-VII偵察機)
 
@@ -24,9 +24,7 @@
 
 ## 主要型號
 
-[Albatros_C.I.jpg](https://zh.wikipedia.org/wiki/File:Albatros_C.I.jpg "fig:Albatros_C.I.jpg")
-[Deutscher_Albatros_C.III_Doppeldecker_-_CH-BAR_-_3241648.tif](https://zh.wikipedia.org/wiki/File:Deutscher_Albatros_C.III_Doppeldecker_-_CH-BAR_-_3241648.tif "fig:Deutscher_Albatros_C.III_Doppeldecker_-_CH-BAR_-_3241648.tif")
-[Albatros_CXII_two.jpg](https://zh.wikipedia.org/wiki/File:Albatros_CXII_two.jpg "fig:Albatros_CXII_two.jpg")
+[Albatros_C.I.jpg](https://zh.wikipedia.org/wiki/File:Albatros_C.I.jpg "fig:Albatros_C.I.jpg") [Deutscher_Albatros_C.III_Doppeldecker_-_CH-BAR_-_3241648.tif](https://zh.wikipedia.org/wiki/File:Deutscher_Albatros_C.III_Doppeldecker_-_CH-BAR_-_3241648.tif "fig:Deutscher_Albatros_C.III_Doppeldecker_-_CH-BAR_-_3241648.tif") [Albatros_CXII_two.jpg](https://zh.wikipedia.org/wiki/File:Albatros_CXII_two.jpg "fig:Albatros_CXII_two.jpg")
 
   - [信天翁C-I偵察機](https://zh.wikipedia.org/wiki/信天翁C-I偵察機 "wikilink")
 
@@ -102,6 +100,4 @@
   - [信天翁D戰鬥機](../Page/信天翁D戰鬥機.md "wikilink")
   - [羅蘭C-II偵察機](../Page/羅蘭C-II偵察機.md "wikilink")
 
-[Category:雙翼機](https://zh.wikipedia.org/wiki/Category:雙翼機 "wikilink")
-[Category:德國偵察機](https://zh.wikipedia.org/wiki/Category:德國偵察機 "wikilink")
-[Category:第一次世界大戰飛機](https://zh.wikipedia.org/wiki/Category:第一次世界大戰飛機 "wikilink")
+[Category:雙翼機](https://zh.wikipedia.org/wiki/Category:雙翼機 "wikilink") [Category:德國偵察機](https://zh.wikipedia.org/wiki/Category:德國偵察機 "wikilink") [Category:第一次世界大戰飛機](https://zh.wikipedia.org/wiki/Category:第一次世界大戰飛機 "wikilink")

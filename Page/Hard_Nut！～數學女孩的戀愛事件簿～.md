@@ -9,9 +9,7 @@
 
 ## 劇情簡介
 
-女主角是就讀東都大學數學系的難波胡桃（橋本愛
-飾），認為世間萬物都可以轉換成數據，並通過數學公式找出規律。努力學習數學，想替父母報仇。她邂逅來學校尋訪暗號專家森崎教授的初音署刑警伴田龍彥（高良健吾
-飾）。伴田精明幹練卻不被重用，胡桃便運用自己出色的數學及推理能力，協助伴田解決一樁樁高智商犯罪案件(第1、2話利用因式分解解讀暗號找出犯人，第3話利用畢達哥拉斯音律拆穿女副教授的謊言，第4話利用計量文獻學分析寫作習慣找出真正的兇手，第5話在做料理時發現下毒的方法，第6話利用統計學5％基準發現隱藏的案件，第7、8話從話語中發現幕後策劃者)。
+女主角是就讀東都大學數學系的難波胡桃（橋本愛 飾），認為世間萬物都可以轉換成數據，並通過數學公式找出規律。努力學習數學，想替父母報仇。她邂逅來學校尋訪暗號專家森崎教授的初音署刑警伴田龍彥（高良健吾 飾）。伴田精明幹練卻不被重用，胡桃便運用自己出色的數學及推理能力，協助伴田解決一樁樁高智商犯罪案件(第1、2話利用因式分解解讀暗號找出犯人，第3話利用畢達哥拉斯音律拆穿女副教授的謊言，第4話利用計量文獻學分析寫作習慣找出真正的兇手，第5話在做料理時發現下毒的方法，第6話利用統計學5％基準發現隱藏的案件，第7、8話從話語中發現幕後策劃者)。
 
 ## 演員
 
@@ -283,10 +281,8 @@
 
 ## 製作人員
 
-  - 編劇 -
-    [蒔田光治](https://zh.wikipedia.org/wiki/蒔田光治 "wikilink")、[山浦雅大](https://zh.wikipedia.org/wiki/山浦雅大 "wikilink")
-  - 音樂 -
-    [和田貴史](https://zh.wikipedia.org/wiki/和田貴史 "wikilink")、[橘麻美](https://zh.wikipedia.org/wiki/橘麻美 "wikilink")
+  - 編劇 - [蒔田光治](https://zh.wikipedia.org/wiki/蒔田光治 "wikilink")、[山浦雅大](https://zh.wikipedia.org/wiki/山浦雅大 "wikilink")
+  - 音樂 - [和田貴史](https://zh.wikipedia.org/wiki/和田貴史 "wikilink")、[橘麻美](https://zh.wikipedia.org/wiki/橘麻美 "wikilink")
   - 製作人 - [佐藤善宏](https://zh.wikipedia.org/wiki/佐藤善宏 "wikilink")
   - 美術 - [古積弘二](https://zh.wikipedia.org/wiki/古積弘二 "wikilink")
   - 攝影 - [足立真仁](https://zh.wikipedia.org/wiki/足立真仁 "wikilink")
@@ -296,8 +292,7 @@
   - 編輯 - [瀧田隆一](https://zh.wikipedia.org/wiki/瀧田隆一 "wikilink")
   - 視覺效果 - [鎌田康介](https://zh.wikipedia.org/wiki/鎌田康介 "wikilink")
   - 記錄 - [森直子](https://zh.wikipedia.org/wiki/森直子 "wikilink")
-  - 導演 -
-    [河合勇人](../Page/河合勇人.md "wikilink")、[橋本光二郎](https://zh.wikipedia.org/wiki/橋本光二郎 "wikilink")
+  - 導演 - [河合勇人](../Page/河合勇人.md "wikilink")、[橋本光二郎](https://zh.wikipedia.org/wiki/橋本光二郎 "wikilink")
   - 製作著作 - [日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")
 
 ## 主題曲
@@ -327,12 +322,6 @@
 
 ## 節目的變遷
 
-[Category:大學背景電視劇](https://zh.wikipedia.org/wiki/Category:大學背景電視劇 "wikilink")
-[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
-[Category:日本犯罪劇](https://zh.wikipedia.org/wiki/Category:日本犯罪劇 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink")
-[Category:2013年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年日本電視劇集 "wikilink")
+[Category:大學背景電視劇](https://zh.wikipedia.org/wiki/Category:大學背景電視劇 "wikilink") [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink") [Category:日本犯罪劇](https://zh.wikipedia.org/wiki/Category:日本犯罪劇 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink") [Category:2013年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年日本電視劇集 "wikilink")
 
-1.  [橋本愛、数学で難事件を解決\! NHKで連ドラ初主演
-    相手役は高良健吾](http://www.oricon.co.jp/news/2027749/full/)
+1.  [橋本愛、数学で難事件を解決\! NHKで連ドラ初主演 相手役は高良健吾](http://www.oricon.co.jp/news/2027749/full/)

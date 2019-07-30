@@ -1,5 +1,4 @@
-**HTC One
-X9**是一支由[HTC製造的安卓智慧型手機](https://zh.wikipedia.org/wiki/HTC "wikilink")，該部手機首次發表於北京時間的2015年12月24日。而後又在2016年[MWC上發表該機的國際版並追加金](https://zh.wikipedia.org/wiki/MWC "wikilink")、粉雙色。這部手機在全球市場定位上是屬於中階手機。
+**HTC One X9**是一支由[HTC製造的安卓智慧型手機](https://zh.wikipedia.org/wiki/HTC "wikilink")，該部手機首次發表於北京時間的2015年12月24日。而後又在2016年[MWC上發表該機的國際版並追加金](https://zh.wikipedia.org/wiki/MWC "wikilink")、粉雙色。這部手機在全球市場定位上是屬於中階手機。
 
 ## 詳細規格
 
@@ -116,24 +115,17 @@ F2.8光圈、33.7mm廣角、具備 HDR 功能、1080p Full HD 錄影</p></td>
 
 ### 硬體
 
-外型相似於[One
-A9](../Page/HTC_One_A9.md "wikilink")，這部手機採用一體成型的金屬機身，與A9一樣背部為扁平設計，不過在相機部份為了天線設計而採用一小片塑膠飾板，而在A9消失的雙前置喇叭又再次出現，正面外觀類似於[HTC
-Butterfly系列](../Page/HTC_Butterfly.md "wikilink")。本次的螢幕占比也是過往機種以來最高的一次。
+外型相似於[One A9](../Page/HTC_One_A9.md "wikilink")，這部手機採用一體成型的金屬機身，與A9一樣背部為扁平設計，不過在相機部份為了天線設計而採用一小片塑膠飾板，而在A9消失的雙前置喇叭又再次出現，正面外觀類似於[HTC Butterfly系列](../Page/HTC_Butterfly.md "wikilink")。本次的螢幕占比也是過往機種以來最高的一次。
 
 ### 相機
 
 主鏡頭，搭載1300萬畫素的感光元件（SONY IMX 214）、F2.0 光圈、與雙色溫感光燈、光學防手震。前後鏡頭也都支援1080p攝影。
 
-本次加入新的相機功能，在自動模式下可以0.1秒儲存相片，另外「**Hyperlapse
-高動態縮時攝影**」可以提供最高12倍速的動態縮時攝影，也把「**Zoe
-Camera動態拍照**」功能給加回來。X9與A9一樣也提供搭載於旗鑑上才有的**RAW**拍照功能。
+本次加入新的相機功能，在自動模式下可以0.1秒儲存相片，另外「**Hyperlapse 高動態縮時攝影**」可以提供最高12倍速的動態縮時攝影，也把「**Zoe Camera動態拍照**」功能給加回來。X9與A9一樣也提供搭載於旗鑑上才有的**RAW**拍照功能。
 
 ### 軟體
 
-X9中國版預裝Android Lollipop 5.0版本，X9國際版預先安裝 [Android 6.0
-Marshmallow](../Page/Android_Marshmallow.md "wikilink")
-版本的作業系統，並搭配HTC自行研發的 [Sense
-7](../Page/HTC_Sense.md "wikilink")_g使用者介面與軟體組合。
+X9中國版預裝Android Lollipop 5.0版本，X9國際版預先安裝 [Android 6.0 Marshmallow](../Page/Android_Marshmallow.md "wikilink") 版本的作業系統，並搭配HTC自行研發的 [Sense 7](../Page/HTC_Sense.md "wikilink")_g使用者介面與軟體組合。
 
 ## 發售資訊
 
@@ -156,11 +148,7 @@ Marshmallow](../Page/Android_Marshmallow.md "wikilink")
   -
 ## 參考資料
 
-[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:2016年面世的手機](https://zh.wikipedia.org/wiki/Category:2016年面世的手機 "wikilink")
+[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2016年面世的手機](https://zh.wikipedia.org/wiki/Category:2016年面世的手機 "wikilink")
 
 1.
 2.

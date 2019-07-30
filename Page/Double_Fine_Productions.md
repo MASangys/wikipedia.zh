@@ -1,25 +1,8 @@
-**Double Fine
-Productions**是一間[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[電子遊戲開發公司](https://zh.wikipedia.org/wiki/遊戲開發者 "wikilink")，由[提姆·謝弗在離開](../Page/提姆·謝弗.md "wikilink")[LucasArts後於](../Page/LucasArts.md "wikilink")2000年創立，總部位於[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")\[1\]。謝弗與程式設計師[大衛·迪克森](https://zh.wikipedia.org/wiki/大衛·迪克森 "wikilink")（David
-Dixon）和[強納森·曼茲](https://zh.wikipedia.org/wiki/強納森·曼茲 "wikilink")（Jonathan
-Menzies）在舊金山的一間木底鞋店舊址內成立了Double
-Fine工作室。在進行一款遊戲實驗版本的數個月後，來自《[神通鬼大](../Page/神通鬼大.md "wikilink")》團隊的成員和其他新員工陸續加入了遊戲的開發行列，該遊戲最後成為《[瘋狂世界](../Page/瘋狂世界.md "wikilink")》（*Psychonauts*）這款作品，並在2005年4月發行。\[2\]2019年，[微软宣布收购Double](../Page/微软.md "wikilink")
-Fine Productions，成为[Xbox游戏工作室旗下的一员](../Page/Xbox游戏工作室.md "wikilink")。
+**Double Fine Productions**是一間[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[電子遊戲開發公司](https://zh.wikipedia.org/wiki/遊戲開發者 "wikilink")，由[提姆·謝弗](../Page/提姆·謝弗.md "wikilink")在離開[LucasArts](../Page/LucasArts.md "wikilink")後於2000年創立，總部位於[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")\[1\]。謝弗與程式設計師[大衛·迪克森](https://zh.wikipedia.org/wiki/大衛·迪克森 "wikilink")（David Dixon）和[強納森·曼茲](https://zh.wikipedia.org/wiki/強納森·曼茲 "wikilink")（Jonathan Menzies）在舊金山的一間木底鞋店舊址內成立了Double Fine工作室。在進行一款遊戲實驗版本的數個月後，來自《[神通鬼大](../Page/神通鬼大.md "wikilink")》團隊的成員和其他新員工陸續加入了遊戲的開發行列，該遊戲最後成為《[瘋狂世界](../Page/瘋狂世界.md "wikilink")》（*Psychonauts*）這款作品，並在2005年4月發行。\[2\]2019年，[微软](../Page/微软.md "wikilink")宣布收购Double Fine Productions，成为[Xbox游戏工作室](../Page/Xbox游戏工作室.md "wikilink")旗下的一员。
 
-雖然該公司最初的兩款遊戲《瘋狂世界》和《[惡黑搖滾](https://zh.wikipedia.org/wiki/惡黑搖滾 "wikilink")》（*Brütal
-Legend*）皆獲得許多正面評價，但作品的商業表現並不令發行公司滿意。直到謝弗著手將數款被稱為「Amnesia
-Fortnight」的公司內部遊戲原型以數位下載的方式推出，透過發行商釋出授權並獲得商業上的成功後，Double
-Fine的發展才開始進入穩定。謝弗之後繼續將這些「Amnesia
-Fortnight」中的作品推出，並透過支持者投票機制來決定了多款[小型遊戲作品的開發](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")。此外，Double
-Fine也受益於電子遊戲[群眾募資的興盛](../Page/群眾募資.md "wikilink")，其中《[破碎時光](../Page/破碎時光.md "wikilink")》透過群眾募資獲得了超過300萬美元的開發資金，是[Kickstarter網站上當時最大型的募資計劃之一](../Page/Kickstarter.md "wikilink")。
+雖然該公司最初的兩款遊戲《瘋狂世界》和《[惡黑搖滾](https://zh.wikipedia.org/wiki/惡黑搖滾 "wikilink")》（*Brütal Legend*）皆獲得許多正面評價，但作品的商業表現並不令發行公司滿意。直到謝弗著手將數款被稱為「Amnesia Fortnight」的公司內部遊戲原型以數位下載的方式推出，透過發行商釋出授權並獲得商業上的成功後，Double Fine的發展才開始進入穩定。謝弗之後繼續將這些「Amnesia Fortnight」中的作品推出，並透過支持者投票機制來決定了多款[小型遊戲作品的開發](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")。此外，Double Fine也受益於電子遊戲[群眾募資](../Page/群眾募資.md "wikilink")的興盛，其中《[破碎時光](../Page/破碎時光.md "wikilink")》透過群眾募資獲得了超過300萬美元的開發資金，是[Kickstarter](../Page/Kickstarter.md "wikilink")網站上當時最大型的募資計劃之一。
 
-公司名稱「Double
-Fine」的靈感來自舊金山[金門大橋上一面寫著](https://zh.wikipedia.org/wiki/金門大橋 "wikilink")「double
-fine zone」（雙倍罰款區域）的告示牌，告示牌的原意是為了警告用路人該路段的違規罰款將是一般情況下的兩倍。Double
-Fine的商標和吉祥物被稱為「雙頭寶貝」（Two-Headed
-Baby），經常簡稱為「2HB」\[3\]，這個簡稱也被用來稱呼該公司的「[Moai](https://zh.wikipedia.org/wiki/Moai "wikilink")」[整合開發環境和](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")[偵錯工具](https://zh.wikipedia.org/wiki/偵錯工具 "wikilink")\[4\]\[5\]。Double
-Fine的官方網站上刊載了7篇[網路漫畫](https://zh.wikipedia.org/wiki/網路漫畫 "wikilink")，這些漫畫是由公司內的藝術團隊繪製，此系列漫畫被稱為「[Double
-Fine
-Comics](https://zh.wikipedia.org/wiki/Double_Fine_Comics "wikilink")」\[6\]。
+公司名稱「Double Fine」的靈感來自舊金山[金門大橋上一面寫著](https://zh.wikipedia.org/wiki/金門大橋 "wikilink")「double fine zone」（雙倍罰款區域）的告示牌，告示牌的原意是為了警告用路人該路段的違規罰款將是一般情況下的兩倍。Double Fine的商標和吉祥物被稱為「雙頭寶貝」（Two-Headed Baby），經常簡稱為「2HB」\[3\]，這個簡稱也被用來稱呼該公司的「[Moai](https://zh.wikipedia.org/wiki/Moai "wikilink")」[整合開發環境和](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")[偵錯工具](https://zh.wikipedia.org/wiki/偵錯工具 "wikilink")\[4\]\[5\]。Double Fine的官方網站上刊載了7篇[網路漫畫](https://zh.wikipedia.org/wiki/網路漫畫 "wikilink")，這些漫畫是由公司內的藝術團隊繪製，此系列漫畫被稱為「[Double Fine Comics](https://zh.wikipedia.org/wiki/Double_Fine_Comics "wikilink")」\[6\]。
 
 ## 遊戲作品
 
@@ -171,29 +154,18 @@ Comics](https://zh.wikipedia.org/wiki/Double_Fine_Comics "wikilink")」\[6\]。
 ## 獲獎
 
   - 2006年遊戲開發者大會（Game Developers Conference）：最佳新工作室（Best New Studio）
-  - 2011年Xbox官方雜誌（Official Xbox Magazine）：年度開發者（Developer of the
-    Year）\[7\]
+  - 2011年Xbox官方雜誌（Official Xbox Magazine）：年度開發者（Developer of the Year）\[7\]
 
 ## 參考文獻
 
 ## 外部連結
 
   -
-  - [Trip to Double
-    Fine](http://mixnmojo.com/features/sitefeatures/Trip-to-Double-Fine)（[The
-    International House of Mojo](http://www.mixnmojo.com/)）
+  - [Trip to Double Fine](http://mixnmojo.com/features/sitefeatures/Trip-to-Double-Fine)（[The International House of Mojo](http://www.mixnmojo.com/)）
 
-  - [Return to Double
-    Fine](http://mixnmojo.com/features/sitefeatures/Return-to-Double-Fine)（[The
-    International House of Mojo](http://www.mixnmojo.com/)）
+  - [Return to Double Fine](http://mixnmojo.com/features/sitefeatures/Return-to-Double-Fine)（[The International House of Mojo](http://www.mixnmojo.com/)）
 
-[Category:Double_Fine_Productions](https://zh.wikipedia.org/wiki/Category:Double_Fine_Productions "wikilink")
-[Category:微软的部门与子公司](https://zh.wikipedia.org/wiki/Category:微软的部门与子公司 "wikilink")
-[Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink")
-[Category:加利福尼亞州公司](https://zh.wikipedia.org/wiki/Category:加利福尼亞州公司 "wikilink")
-[Category:2000年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2000年開業電子遊戲公司 "wikilink")
+[Category:Double_Fine_Productions](https://zh.wikipedia.org/wiki/Category:Double_Fine_Productions "wikilink") [Category:微软的部门与子公司](https://zh.wikipedia.org/wiki/Category:微软的部门与子公司 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink") [Category:加利福尼亞州公司](https://zh.wikipedia.org/wiki/Category:加利福尼亞州公司 "wikilink") [Category:2000年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2000年開業電子遊戲公司 "wikilink")
 
 1.
 2.

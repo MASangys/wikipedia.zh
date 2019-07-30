@@ -1,10 +1,8 @@
-[第16回](../Page/第16回TV_LIFE年度日劇大賞.md "wikilink") ← **第17回** →
-[第18回](../Page/第18回TV_LIFE年度日劇大賞.md "wikilink")
+[第16回](../Page/第16回TV_LIFE年度日劇大賞.md "wikilink") ← **第17回** → [第18回](../Page/第18回TV_LIFE年度日劇大賞.md "wikilink")
 
-**第17回[TV
-LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2007年播出的連續劇做出的觀眾投票。
+**第17回[TV LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2007年播出的連續劇做出的觀眾投票。
 
-本屆獲獎最多的劇集是[日本電視台的](../Page/日本電視台.md "wikilink")《[有閑俱樂部](../Page/有閑俱樂部.md "wikilink")》，共獲4獎。
+本屆獲獎最多的劇集是[日本電視台](../Page/日本電視台.md "wikilink")的《[有閑俱樂部](../Page/有閑俱樂部.md "wikilink")》，共獲4獎。
 
 ## 獎項
 
@@ -341,5 +339,4 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 
 ## 參考來源
 
-[Category:2007年日本](https://zh.wikipedia.org/wiki/Category:2007年日本 "wikilink")
-[Category:2007年电视奖项](https://zh.wikipedia.org/wiki/Category:2007年电视奖项 "wikilink")
+[Category:2007年日本](https://zh.wikipedia.org/wiki/Category:2007年日本 "wikilink") [Category:2007年电视奖项](https://zh.wikipedia.org/wiki/Category:2007年电视奖项 "wikilink")

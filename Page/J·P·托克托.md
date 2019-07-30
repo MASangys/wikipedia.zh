@@ -1,5 +1,4 @@
-**让-皮埃尔“J.
-P.”托克托**（，），[美国职业](../Page/美国.md "wikilink")[篮球运动员](https://zh.wikipedia.org/wiki/篮球运动员 "wikilink")，大学时期效力于[北卡羅萊納大學](https://zh.wikipedia.org/wiki/北卡羅萊納大學 "wikilink")，于[2015年NBA选秀上被](../Page/2015年NBA选秀.md "wikilink")[费城76人以次轮总第](../Page/费城76人.md "wikilink")58顺位选中。
+**让-皮埃尔“J. P.”托克托**（，），[美国](../Page/美国.md "wikilink")职业[篮球运动员](https://zh.wikipedia.org/wiki/篮球运动员 "wikilink")，大学时期效力于[北卡羅萊納大學](https://zh.wikipedia.org/wiki/北卡羅萊納大學 "wikilink")，于[2015年NBA选秀](../Page/2015年NBA选秀.md "wikilink")上被[费城76人](../Page/费城76人.md "wikilink")以次轮总第58顺位选中。
 
 ## 大学生涯
 
@@ -19,10 +18,7 @@ P.”托克托**（，），[美国职业](../Page/美国.md "wikilink")[篮球�
 
   - [北卡罗莱纳大学的专页](http://www.goheels.com/ViewArticle.dbml?ATCLID=205698738)
 
-[Category:北卡羅萊納大學校友](https://zh.wikipedia.org/wiki/Category:北卡羅萊納大學校友 "wikilink")
-[Category:費城76人隊球員](https://zh.wikipedia.org/wiki/Category:費城76人隊球員 "wikilink")
-[Category:伊利諾州人](https://zh.wikipedia.org/wiki/Category:伊利諾州人 "wikilink")
-[Category:美国男子篮球运动员](https://zh.wikipedia.org/wiki/Category:美国男子篮球运动员 "wikilink")
+[Category:北卡羅萊納大學校友](https://zh.wikipedia.org/wiki/Category:北卡羅萊納大學校友 "wikilink") [Category:費城76人隊球員](https://zh.wikipedia.org/wiki/Category:費城76人隊球員 "wikilink") [Category:伊利諾州人](https://zh.wikipedia.org/wiki/Category:伊利諾州人 "wikilink") [Category:美国男子篮球运动员](https://zh.wikipedia.org/wiki/Category:美国男子篮球运动员 "wikilink")
 
 1.
 

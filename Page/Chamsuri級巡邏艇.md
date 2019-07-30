@@ -2,11 +2,7 @@
 
 這些船是由韓進工業股份公司，Chinhae和Korea SB＆Eng建造的。馬山船廠。
 
-這些船也被稱為巡邏殺手中型“PKM”，分兩批建造：201系列和301系列。早期的PKM 201系列艇最初裝備有一個40毫米/
-60英尺Bokors Mk.3，一個30毫米/ 75英寸Emerlec EX-30和兩個20毫米/ 70 Mk.10 AA。晚期的PKM
-201型船隻配備了一對30毫米/ 75英寸的Emerlec EX-30，一個或兩個單獨的20毫米Vulcan
-Gatlings和兩個單獨的12.7毫米機槍。（在延坪島第二次戰役中使用兩挺7.62毫米M60機槍之前），PKM
-301艇上裝備了一個40毫米/ 60英寸博福斯全封閉座架，兩座單座20毫米火神加特林和兩挺12.7毫米機槍。
+這些船也被稱為巡邏殺手中型“PKM”，分兩批建造：201系列和301系列。早期的PKM 201系列艇最初裝備有一個40毫米/ 60英尺Bokors Mk.3，一個30毫米/ 75英寸Emerlec EX-30和兩個20毫米/ 70 Mk.10 AA。晚期的PKM 201型船隻配備了一對30毫米/ 75英寸的Emerlec EX-30，一個或兩個單獨的20毫米Vulcan Gatlings和兩個單獨的12.7毫米機槍。（在延坪島第二次戰役中使用兩挺7.62毫米M60機槍之前），PKM 301艇上裝備了一個40毫米/ 60英寸博福斯全封閉座架，兩座單座20毫米火神加特林和兩挺12.7毫米機槍。
 
 該Chamsuri -class船正在退役，取而代之Gumdoksuri -class在韓國海軍的巡邏船隻。
 
@@ -36,25 +32,18 @@ Gatlings和兩個單獨的12.7毫米機槍。（在延坪島第二次戰役中�
 
   - [韩国海军官方网站简介](http://www.navy.mil.kr/english/pds/weapon/pkx.jsp)
 
-  - [Gumdoksuri Class - Naval
-    Technology](http://www.naval-technology.com/projects/pxk-gumdoksuri)
+  - [Gumdoksuri Class - Naval Technology](http://www.naval-technology.com/projects/pxk-gumdoksuri)
 
-  - [Gumdoksuri class missile patrol
-    boats](http://www.deagel.com/Corvettes-and-Missile-Boats/Gumdoksuri_a000091001.aspx)
+  - [Gumdoksuri class missile patrol boats](http://www.deagel.com/Corvettes-and-Missile-Boats/Gumdoksuri_a000091001.aspx)
 
-  - [Fast Patrol Boat (PKX) Gumdoksuri / Guided Missile Patrol Killer
-    (PKG) -
-    GlobalSecurity.org](http://www.globalsecurity.org/military/world/rok/pkx.htm)
+  - [Fast Patrol Boat (PKX) Gumdoksuri / Guided Missile Patrol Killer (PKG) - GlobalSecurity.org](http://www.globalsecurity.org/military/world/rok/pkx.htm)
 
-  - [검독수리- A 사업 추진
-    현황](http://www.dapa.go.kr/internet/information/opening_information/decisionprocessProc.jsp?mode=readForm&boardCode=BDINFO37&curPage=1&searchField=TITLE&searchWord=&articleSeq=11058)
+  - [검독수리- A 사업 추진 현황](http://www.dapa.go.kr/internet/information/opening_information/decisionprocessProc.jsp?mode=readForm&boardCode=BDINFO37&curPage=1&searchField=TITLE&searchWord=&articleSeq=11058)
 
-  - [日本周辺国の軍事兵器 -
-    コムクスドリ型ミサイル艇（PKG）](http://www6.atwiki.jp/namacha/pages/113.html)
+  - [日本周辺国の軍事兵器 - コムクスドリ型ミサイル艇（PKG）](http://www6.atwiki.jp/namacha/pages/113.html)
 
   - [韓國 尹永夏級飛彈快艇 PKX](http://www.mdc.idv.tw/mdc/navy/roknavy/pkx.htm)
 
   - [西海刺客：“尹永夏”导弹歼击艇_中国网](http://www.china.com.cn/military/txt/2009-07/08/content_18095550.htm)
 
-[Category:飛彈快艇](https://zh.wikipedia.org/wiki/Category:飛彈快艇 "wikilink")
-[Category:韩国海军舰艇](https://zh.wikipedia.org/wiki/Category:韩国海军舰艇 "wikilink")
+[Category:飛彈快艇](https://zh.wikipedia.org/wiki/Category:飛彈快艇 "wikilink") [Category:韩国海军舰艇](https://zh.wikipedia.org/wiki/Category:韩国海军舰艇 "wikilink")

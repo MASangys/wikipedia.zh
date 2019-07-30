@@ -1,12 +1,10 @@
-[第22回](https://zh.wikipedia.org/wiki/第22回TV_LIFE年度日劇大賞 "wikilink") ←
-**第23回** → [第24回](../Page/第24回TV_LIFE年度日劇大賞.md "wikilink")
+[第22回](https://zh.wikipedia.org/wiki/第22回TV_LIFE年度日劇大賞 "wikilink") ← **第23回** → [第24回](../Page/第24回TV_LIFE年度日劇大賞.md "wikilink")
 
-**第23回[TV
-LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2013年播出的連續劇做出的觀眾投票。
+**第23回[TV LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2013年播出的連續劇做出的觀眾投票。
 
-本屆獲獎最多的劇集是[富士電視台的](../Page/富士電視台.md "wikilink")《[家族遊戲](https://zh.wikipedia.org/wiki/家族遊戲#2013年富士電視台電視版 "wikilink")》，共獲5獎。
+本屆獲獎最多的劇集是[富士電視台](../Page/富士電視台.md "wikilink")的《[家族遊戲](https://zh.wikipedia.org/wiki/家族遊戲#2013年富士電視台電視版 "wikilink")》，共獲5獎。
 
-個人方面，[櫻井翔第二度獲頒最佳男主角獎](../Page/櫻井翔.md "wikilink")；[能年玲奈是繼](../Page/能年玲奈.md "wikilink")[第16回的](../Page/第16回TV_LIFE年度日劇大賞.md "wikilink")[志田未來後](../Page/志田未來.md "wikilink")，第二位同屆一併奪得「最佳女主角」和「最佳新演員」的女演員。
+個人方面，[櫻井翔](../Page/櫻井翔.md "wikilink")第二度獲頒最佳男主角獎；[能年玲奈](../Page/能年玲奈.md "wikilink")是繼[第16回的](../Page/第16回TV_LIFE年度日劇大賞.md "wikilink")[志田未來](../Page/志田未來.md "wikilink")後，第二位同屆一併奪得「最佳女主角」和「最佳新演員」的女演員。
 
 ## 獎項
 
@@ -302,5 +300,4 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 
 ## 參考來源
 
-[Category:2013年日本](https://zh.wikipedia.org/wiki/Category:2013年日本 "wikilink")
-[Category:2013年电视奖项](https://zh.wikipedia.org/wiki/Category:2013年电视奖项 "wikilink")
+[Category:2013年日本](https://zh.wikipedia.org/wiki/Category:2013年日本 "wikilink") [Category:2013年电视奖项](https://zh.wikipedia.org/wiki/Category:2013年电视奖项 "wikilink")

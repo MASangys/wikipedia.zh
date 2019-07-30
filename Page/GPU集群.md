@@ -12,9 +12,7 @@ GPU集群可以使用來自兩個主要獨立硬件供應商的硬件（[AMD和]
 
 ### 供應商
 
-NVIDIA®（英偉達™）提供專用特斯拉首選合作夥伴（TPP）中列表，能夠使用Tesla
-20系列GPGPU構建和交付完全配置的GPU集群。AMAX信息技術公司，戴爾，惠普和Silicon
-Graphics是為數不多的幾家提供完整GPU集群和系統的公司之一。\[2\]是OpenCL™的一个包装，允许大多数未修改的应用程序透明地利用集群中的多个OpenCL设备，就像所有设备都在本地计算机上一样。
+NVIDIA®（英偉達™）提供專用特斯拉首選合作夥伴（TPP）中列表，能夠使用Tesla 20系列GPGPU構建和交付完全配置的GPU集群。AMAX信息技術公司，戴爾，惠普和Silicon Graphics是為數不多的幾家提供完整GPU集群和系統的公司之一。\[2\]是OpenCL™的一个包装，允许大多数未修改的应用程序透明地利用集群中的多个OpenCL设备，就像所有设备都在本地计算机上一样。
 
 ## 軟件
 
@@ -31,9 +29,7 @@ Graphics是為數不多的幾家提供完整GPU集群和系統的公司之一。
 
 ## 參考資料
 
-[Category:叢集計算](https://zh.wikipedia.org/wiki/Category:叢集計算 "wikilink")
-[Category:GPGPU](https://zh.wikipedia.org/wiki/Category:GPGPU "wikilink")
-[Category:图形硬件](https://zh.wikipedia.org/wiki/Category:图形硬件 "wikilink")
+[Category:叢集計算](https://zh.wikipedia.org/wiki/Category:叢集計算 "wikilink") [Category:GPGPU](https://zh.wikipedia.org/wiki/Category:GPGPU "wikilink") [Category:图形硬件](https://zh.wikipedia.org/wiki/Category:图形硬件 "wikilink")
 
 1.  [用於高性能計算的GPU集群](http://www.ncsa.illinois.edu/~kindr/papers/ppac09_paper.pdf)
 

@@ -1942,7 +1942,7 @@ World</a><br />
 <tr class="even">
 <td><p>11月29日</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=TWx3ZyZ_UFQ">LOVE LETTER</a></p></td>
-<td><p><a href="../Page/After_School.md" title="wikilink">After School</a>、<a href="../Page/孫淡妃.md" title="wikilink">孫淡妃等</a></p></td>
+<td><p><a href="../Page/After_School.md" title="wikilink">After School</a>、<a href="../Page/孫淡妃.md" title="wikilink">孫淡妃</a>等</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2089,9 +2089,7 @@ World</a><br />
 ## 外部連結
 
   -
-[Category:Seventeen](https://zh.wikipedia.org/wiki/Category:Seventeen "wikilink")
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
-[Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
+[Category:Seventeen](https://zh.wikipedia.org/wiki/Category:Seventeen "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.
 

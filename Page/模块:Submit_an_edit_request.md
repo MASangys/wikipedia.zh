@@ -2,10 +2,7 @@
 
 local CONFIG_MODULE = 'Module:Submit an edit request/config'
 
-\-- Load necessary modules local mRedirect = require('Module:Redirect')
-local cfg = mw.loadData(CONFIG_MODULE) local effectiveProtectionLevel =
-require('Module:Effective protection level')._main local lang =
-mw.language.getContentLanguage()
+\-- Load necessary modules local mRedirect = require('Module:Redirect') local cfg = mw.loadData(CONFIG_MODULE) local effectiveProtectionLevel = require('Module:Effective protection level')._main local lang = mw.language.getContentLanguage()
 
 local p = {}
 
@@ -131,8 +128,6 @@ local function makeInvokeFunc(func, wrapper)
 
 end
 
-p.link = makeInvokeFunc(p._link, message('link-wrapper-template'))
-p.button = makeInvokeFunc(p._button,
-message('button-wrapper-template'))
+p.link = makeInvokeFunc(p._link, message('link-wrapper-template')) p.button = makeInvokeFunc(p._button, message('button-wrapper-template'))
 
 return p

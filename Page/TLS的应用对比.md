@@ -1,8 +1,4 @@
-[安全传输层协议](https://zh.wikipedia.org/wiki/Transport_Layer_Security "wikilink")
-(TLS) 保障网络间的通信安全。 本文比较几种最常用的TLS应用
-[软件库](https://zh.wikipedia.org/wiki/software_library "wikilink")。市面上存在许多种
-[免费](https://zh.wikipedia.org/wiki/free_software "wikilink") and
-[开源](https://zh.wikipedia.org/wiki/open_source "wikilink") TLS应用软件。
+[安全传输层协议](https://zh.wikipedia.org/wiki/Transport_Layer_Security "wikilink") (TLS) 保障网络间的通信安全。 本文比较几种最常用的TLS应用 [软件库](https://zh.wikipedia.org/wiki/software_library "wikilink")。市面上存在许多种 [免费](https://zh.wikipedia.org/wiki/free_software "wikilink") and [开源](https://zh.wikipedia.org/wiki/open_source "wikilink") TLS应用软件。
 
 所有类目的比较均使用下列概述部分中列出软件的稳定版本。该比较仅限于与TLS协议直接相关的功能。
 
@@ -24,7 +20,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/GnuTLS.md" title="wikilink">GnuTLS</a></p></td>
-<td><p><a href="../Page/GnuTLS.md" title="wikilink">GnuTLS项目</a></p></td>
+<td><p><a href="../Page/GnuTLS.md" title="wikilink">GnuTLS</a>项目</p></td>
 <td><p>是</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Free_Software_Foundation" title="wikilink">自由软件基金会</a></p></td>
@@ -67,27 +63,15 @@
 
 ## 协议支持
 
-TLS协议存在几种版本。 SSL 2.0是一个被弃用的\[3\] 协议版本，具有明显的缺陷。 SSL 3.0（1996）和TLS
-1.0（1999）是具有两个CBC-填充弱点的版本——在2001年由Serge Vaudenay解析.\[4\] 。 TLS
-1.1（2006）通过将CBC块密码切换到随机初始化矢量（IV）解决了其中一个问题，RFC7366\[5\]强调了
-更严重的mac-pad-encrypt使用问题而不是使pad-mac-encrypt更安全的问题。
+TLS协议存在几种版本。 SSL 2.0是一个被弃用的\[3\] 协议版本，具有明显的缺陷。 SSL 3.0（1996）和TLS 1.0（1999）是具有两个CBC-填充弱点的版本——在2001年由Serge Vaudenay解析.\[4\] 。 TLS 1.1（2006）通过将CBC块密码切换到随机初始化矢量（IV）解决了其中一个问题，RFC7366\[5\]强调了 更严重的mac-pad-encrypt使用问题而不是使pad-mac-encrypt更安全的问题。
 
-在2011年底，一种用于SSL 3.0和TLS 1.0的解决方法，基本等同于TLS 1.1的随机的IV被很多应用软件广泛采用\[6\]
-。所以从安全角度来看，所有现有TLS
-1.0，1.1和1.2版本在2030年前均在基本协议中提供相同的强度协议并适用于128位，据
-NIST SP800-57。在2014年，SSL
-3.0的POODLE漏洞被发现，其利用在CBCd的已知漏洞，以及浏览器中不安全的回退协商。\[7\]
+在2011年底，一种用于SSL 3.0和TLS 1.0的解决方法，基本等同于TLS 1.1的随机的IV被很多应用软件广泛采用\[6\] 。所以从安全角度来看，所有现有TLS 1.0，1.1和1.2版本在2030年前均在基本协议中提供相同的强度协议并适用于128位，据 NIST SP800-57。在2014年，SSL 3.0的POODLE漏洞被发现，其利用在CBCd的已知漏洞，以及浏览器中不安全的回退协商。\[7\]
 
-TLS 1.2（2008）是最新发布的基本协议，引入了一种用于识别数字签名的散​​列方法。虽然在SSL 3.0保守选择（rsa，sha1 +
-md5）上允许将来使用更强大的散列函数进行数字签名（rsa，sha256 / sha384 / sha512），但TLS
-1.2协议不经意间变化并大大削弱了默认数字签名并提供（rsa，sha1）甚至（rsa，md5）。\[8\]
+TLS 1.2（2008）是最新发布的基本协议，引入了一种用于识别数字签名的散​​列方法。虽然在SSL 3.0保守选择（rsa，sha1 + md5）上允许将来使用更强大的散列函数进行数字签名（rsa，sha256 / sha384 / sha512），但TLS 1.2协议不经意间变化并大大削弱了默认数字签名并提供（rsa，sha1）甚至（rsa，md5）。\[8\]
 
-数据报传输层安全性（DTLS或数据报TLS）1.0是针对面向数据包的传输层的TLS
-1.1修改，其中必须容忍数据包丢失和数据包重新排序。基于TLS
-1.2的修订版DTLS 1.2于2012年1月发布\[9\]
+数据报传输层安全性（DTLS或数据报TLS）1.0是针对面向数据包的传输层的TLS 1.1修改，其中必须容忍数据包丢失和数据包重新排序。基于TLS 1.2的修订版DTLS 1.2于2012年1月发布\[9\]
 
-在SSL 2.0和SSL 3.0中存在已知的漏洞。除了可预测的IV（存在简单的解决方法）之外，所有当前已知的漏洞都会影响所有版本的TLS 1.0
-/ 1.1 / 1.2。\[10\]
+在SSL 2.0和SSL 3.0中存在已知的漏洞。除了可预测的IV（存在简单的解决方法）之外，所有当前已知的漏洞都会影响所有版本的TLS 1.0 / 1.1 / 1.2。\[10\]
 
 <table>
 <thead>
@@ -156,22 +140,14 @@ md5）上允许将来使用更强大的散列函数进行数字签名（rsa，sh
 
 ## NSA Suite B 密码学
 
-[NSA Suite B
-密码学](https://zh.wikipedia.org/wiki/NSA_Suite_B_Cryptography "wikilink")
-(RFC 6460) 的必须部分:
+[NSA Suite B 密码学](https://zh.wikipedia.org/wiki/NSA_Suite_B_Cryptography "wikilink") (RFC 6460) 的必须部分:
 
-  - [高级加密标准](https://zh.wikipedia.org/wiki/Advanced_Encryption_Standard "wikilink")
-    (AES)，
-    密钥大小为128和256位。对于业务流量，AES应与低带宽流量的计数器模式（CTR）或高带宽流量的伽罗瓦/计数器模式（GCM）操作模式一起使用（请参阅分块密码模式操作）
-    - 对称加密
+  - [高级加密标准](https://zh.wikipedia.org/wiki/Advanced_Encryption_Standard "wikilink") (AES)， 密钥大小为128和256位。对于业务流量，AES应与低带宽流量的计数器模式（CTR）或高带宽流量的伽罗瓦/计数器模式（GCM）操作模式一起使用（请参阅分块密码模式操作） - 对称加密
   - 椭圆曲线数字签名算法（ECDSA） - 数字签名
   - 椭圆曲线 Diffie-Hellman（ECDH） - 密钥协议
-  - [安全散列算法2](../Page/SHA-2.md "wikilink") (SHA-256 和 SHA-384) —
-    [消息摘要](https://zh.wikipedia.org/wiki/message_digest "wikilink")
+  - [安全散列算法2](../Page/SHA-2.md "wikilink") (SHA-256 和 SHA-384) — [消息摘要](https://zh.wikipedia.org/wiki/message_digest "wikilink")
 
-根据CNSSP-15，256位椭圆曲线（FIPS 186-2中），SHA-256和AES
-128位密钥足以保护机密信息达到Secret级别，而384位椭圆曲线（在FIPS
-186-2中指定），SHA-384和带有256位密钥的AES是保护最高机密信息所必需的。
+根据CNSSP-15，256位椭圆曲线（FIPS 186-2中），SHA-256和AES 128位密钥足以保护机密信息达到Secret级别，而384位椭圆曲线（在FIPS 186-2中指定），SHA-384和带有256位密钥的AES是保护最高机密信息所必需的。
 
 <table>
 <thead>
@@ -969,10 +945,7 @@ Curve511187<br />
 
 ## 压缩
 
-请注意，[CRIME
-安全漏洞](https://zh.wikipedia.org/wiki/CRIME_\(security_exploit\) "wikilink")
-利用了TLS压缩的优势，因此传统应用不会在TLS层启用压缩。 [HTTP
-压缩是不相关的且不受此漏洞攻击的影响](https://zh.wikipedia.org/wiki/HTTP_compression "wikilink")，但会被[BREACH相关的攻击利用](https://zh.wikipedia.org/wiki/BREACH_\(security_exploit\) "wikilink")。
+请注意，[CRIME 安全漏洞](https://zh.wikipedia.org/wiki/CRIME_\(security_exploit\) "wikilink") 利用了TLS压缩的优势，因此传统应用不会在TLS层启用压缩。 [HTTP 压缩是不相关的且不受此漏洞攻击的影响](https://zh.wikipedia.org/wiki/HTTP_compression "wikilink")，但会被[BREACH相关的攻击利用](https://zh.wikipedia.org/wiki/BREACH_\(security_exploit\) "wikilink")。
 
 <table>
 <thead>
@@ -1415,33 +1388,27 @@ SSL_*</p></td>
 
   - [SCTP](https://zh.wikipedia.org/wiki/SCTP "wikilink") — 含DTLS 支持
   - [DCCP](https://zh.wikipedia.org/wiki/DCCP "wikilink") — 含 DTLS 支持
-  - [SRTP](https://zh.wikipedia.org/wiki/Secure_Real-time_Transport_Protocol "wikilink")
-    — 含 DTLS 支持 (DTLS-SRTP) 安全实时传输控制协议 (SRTCP)
+  - [SRTP](https://zh.wikipedia.org/wiki/Secure_Real-time_Transport_Protocol "wikilink") — 含 DTLS 支持 (DTLS-SRTP) 安全实时传输控制协议 (SRTCP)
 
 ## 参考文献
 
-[Category:Cryptographic_software](https://zh.wikipedia.org/wiki/Category:Cryptographic_software "wikilink")
-[Category:Security_software_comparisons](https://zh.wikipedia.org/wiki/Category:Security_software_comparisons "wikilink")
-[Category:Transport_Layer_Security_implementation](https://zh.wikipedia.org/wiki/Category:Transport_Layer_Security_implementation "wikilink")
+[Category:Cryptographic_software](https://zh.wikipedia.org/wiki/Category:Cryptographic_software "wikilink") [Category:Security_software_comparisons](https://zh.wikipedia.org/wiki/Category:Security_software_comparisons "wikilink") [Category:Transport_Layer_Security_implementation](https://zh.wikipedia.org/wiki/Category:Transport_Layer_Security_implementation "wikilink")
 
 1.
 
 2.
 
-3.  \[rfc:6176 RFC6176: Prohibiting Secure Sockets Layer (SSL) Version
-    2.0\]
+3.  \[rfc:6176 RFC6176: Prohibiting Secure Sockets Layer (SSL) Version 2.0\]
 
 4.
 
-5.  \[rfc:7366 RFC7366: Encrypt-then-MAC for Transport Layer Security
-    (TLS) and Datagram Transport Layer Security\]
+5.  \[rfc:7366 RFC7366: Encrypt-then-MAC for Transport Layer Security (TLS) and Datagram Transport Layer Security\]
 
 6.
 
 7.
 
-8.  [TLSv1.2's Major Differences from
-    TLSv1.1](https://zh.wikipedia.org/wiki/rfc:5246#section-1.2 "wikilink")
+8.  [TLSv1.2's Major Differences from TLSv1.1](https://zh.wikipedia.org/wiki/rfc:5246#section-1.2 "wikilink")
 
 9.  RFC 6347
 
@@ -1456,9 +1423,7 @@ SSL_*</p></td>
 14. RFC 4346
 
 15.
-16. \[//tools.ietf.org/html/draft-ietf-tls-tls13-11
-    draft-ietf-tls-tls13-11 - The Transport Layer Security (TLS)
-    Protocol Version 1.3\]
+16. \[//tools.ietf.org/html/draft-ietf-tls-tls13-11 draft-ietf-tls-tls13-11 - The Transport Layer Security (TLS) Protocol Version 1.3\]
 
 17.
 
@@ -1473,16 +1438,11 @@ SSL_*</p></td>
 23.
 
 24.
-25. ["Secure or Compliant, Pick One" Steve Marquess
-    blog](http://veridicalsystems.com/blog/secure-or-compliant-pick-one/)
-
+25. ["Secure or Compliant, Pick One" Steve Marquess blog](http://veridicalsystems.com/blog/secure-or-compliant-pick-one/)
 
 26.
 
-27. "While, as a free software project, we are not actively pursuing
-    this kind of certification, GnuTLS has been FIPS-140-2 certified in
-    several systems by third parties." [GnuTLS 3.5.6 B.5
-    Certification](http://www.gnutls.org/manual/gnutls.html#Certification)
+27. "While, as a free software project, we are not actively pursuing this kind of certification, GnuTLS has been FIPS-140-2 certified in several systems by third parties." [GnuTLS 3.5.6 B.5 Certification](http://www.gnutls.org/manual/gnutls.html#Certification)
 
 28.
 
@@ -1498,9 +1458,7 @@ SSL_*</p></td>
 35.
 36.
 37.
-38. \[//tools.ietf.org/html/draft-chudov-cryptopro-cptls-04
-    draft-chudov-cryptopro-cptls-04 - GOST 28147-89 Cipher Suites for
-    Transport Layer Security (TLS)\]
+38. \[//tools.ietf.org/html/draft-chudov-cryptopro-cptls-04 draft-chudov-cryptopro-cptls-04 - GOST 28147-89 Cipher Suites for Transport Layer Security (TLS)\]
 
 39.
 40.
@@ -1546,12 +1504,7 @@ SSL_*</p></td>
 65.
 66.
 67.
-68. 40 bits strength of cipher suites were designed to operate at
-    reduced key lengths in order to comply with US regulations about the
-    export of cryptographic software containing certain strong
-    encryption algorithms (see [Export of cryptography from the United
-    States](https://zh.wikipedia.org/wiki/Export_of_cryptography_from_the_United_States "wikilink")).
-    These weak suites are forbidden in TLS 1.1 and later.
+68. 40 bits strength of cipher suites were designed to operate at reduced key lengths in order to comply with US regulations about the export of cryptographic software containing certain strong encryption algorithms (see [Export of cryptography from the United States](https://zh.wikipedia.org/wiki/Export_of_cryptography_from_the_United_States "wikilink")). These weak suites are forbidden in TLS 1.1 and later.
 
 69.
 70.
@@ -1582,8 +1535,7 @@ SSL_*</p></td>
 94.
 95.
 96.
-97. Negotiation of arbitrary curves has been shown to be insecure for
-    certain curve sizes
+97. Negotiation of arbitrary curves has been shown to be insecure for certain curve sizes
 
 98.
 99.
@@ -1665,9 +1617,7 @@ SSL_*</p></td>
 149.
 150. <https://lists.gnupg.org/pipermail/gnutls-devel/2016-October/008194.html>
 
-151. <https://habrahabr.ru/post/134725/>,
-     <http://forum.rutoken.ru/topic/1639/>,
-     <https://dev.rutoken.ru/pages/viewpage.action?pageId=18055184>
+151. <https://habrahabr.ru/post/134725/>, <http://forum.rutoken.ru/topic/1639/>, <https://dev.rutoken.ru/pages/viewpage.action?pageId=18055184>
 
 152.
 

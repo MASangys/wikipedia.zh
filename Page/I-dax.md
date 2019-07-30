@@ -8,8 +8,7 @@
 
 公司一度改名为“世界视频出版社”（），但在1995年又改回了这个名字。他们的主打视频作品是以美少年为主题的“”、以肌肉男为主题的“”和特辑系列，其中“”系列发售了六十余部作品，成为人气系列。i-dax的公司官网需要会员密码才可访问。
 
-1990年代，推出了[性虐主题的](https://zh.wikipedia.org/wiki/性虐 "wikilink")“”系列。\[1\]
-在过去，这个主题每年会推出四部㚻片作品，但是在2009年4月和2011年5月都没有新作推出。2011年8月和12月发行了该系列的精选集。
+1990年代，推出了[性虐主题的](https://zh.wikipedia.org/wiki/性虐 "wikilink")“”系列。\[1\] 在过去，这个主题每年会推出四部㚻片作品，但是在2009年4月和2011年5月都没有新作推出。2011年8月和12月发行了该系列的精选集。
 
 ## 㚻片系列
 
@@ -34,7 +33,6 @@
   -
   - [JBOYDVD上i-dax品牌专区](http://www.jboydvd.jp/xc/shop/view/all/0/idax)
 
-[Category:日本男同性戀色情片公司](https://zh.wikipedia.org/wiki/Category:日本男同性戀色情片公司 "wikilink")
-[Category:1990年成立的公司](https://zh.wikipedia.org/wiki/Category:1990年成立的公司 "wikilink")
+[Category:日本男同性戀色情片公司](https://zh.wikipedia.org/wiki/Category:日本男同性戀色情片公司 "wikilink") [Category:1990年成立的公司](https://zh.wikipedia.org/wiki/Category:1990年成立的公司 "wikilink")
 
 1.  バディ1997年4月号広告「ノンケ噴水改造計画」（スタジオ・アダム、50分7980円）など。

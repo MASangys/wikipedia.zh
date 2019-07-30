@@ -1,6 +1,4 @@
-*' Gavy NJ*'（)，是[韓國Good](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-Berry娛樂於2005年11月10日推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")。組合以強勁的演唱實力獲得不少歡迎，初出道便獲得金唱片最佳新人獎，更被譽為"女版[SG
-Wannabe](../Page/SG_Wannabe.md "wikilink")"。
+*' Gavy NJ*'（)，是[韓國Good](https://zh.wikipedia.org/wiki/韓國 "wikilink") Berry娛樂於2005年11月10日推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")。組合以強勁的演唱實力獲得不少歡迎，初出道便獲得金唱片最佳新人獎，更被譽為"女版[SG Wannabe](../Page/SG_Wannabe.md "wikilink")"。
 
 初期成員有[鄭慧敏](https://zh.wikipedia.org/wiki/鄭慧敏 "wikilink")、[張熙英](https://zh.wikipedia.org/wiki/張熙英 "wikilink")、[盧詩賢](https://zh.wikipedia.org/wiki/盧詩賢 "wikilink")。2009年，[鄭慧敏退出](https://zh.wikipedia.org/wiki/鄭慧敏 "wikilink")，公司加入[Misty頂替其位置](https://zh.wikipedia.org/wiki/Misty_\(歌手\) "wikilink")。
 
@@ -14,41 +12,23 @@ Gavy是韓文"가비(歌妃)"的譯音，意思是“音樂的女王"，而NJ則
 
 ## 歷史
 
-GAVY NJ 在2005年11月10日以第一張專輯【the very first】出道，並在2006年 第21回 Golden disc
-獲得新人獎。2009年7月成員鄭慧敏退隊，新成員 Misty 加入，新成員 Misty 曾在四年前參與過 BGH4 團體。
+GAVY NJ 在2005年11月10日以第一張專輯【the very first】出道，並在2006年 第21回 Golden disc 獲得新人獎。2009年7月成員鄭慧敏退隊，新成員 Misty 加入，新成員 Misty 曾在四年前參與過 BGH4 團體。
 
 ### 2009年
 
-2009年9月24日發行了第四張正規專輯 side A - Heartbreak
-Hotel，這張專輯也填補退出的成員鄭慧敏的空白期，藉此來宣傳新的成員。在25日透過
-KBS 音樂銀行來進行 Come Back Special 舞台，演唱新曲 Bye Bye，展現成熟的嗓音。
+2009年9月24日發行了第四張正規專輯 side A - Heartbreak Hotel，這張專輯也填補退出的成員鄭慧敏的空白期，藉此來宣傳新的成員。在25日透過 KBS 音樂銀行來進行 Come Back Special 舞台，演唱新曲 Bye Bye，展現成熟的嗓音。
 
 ### 2011年
 
-2011年5月 Gavy NJ 與所屬公司的合約結束，成員張熙英及 Misty 開始 SOLO 活動，現在則以原有成員盧詩賢為主軸，加入新成員
-Jenny 與 Gun Ji。
+2011年5月 Gavy NJ 與所屬公司的合約結束，成員張熙英及 Misty 開始 SOLO 活動，現在則以原有成員盧詩賢為主軸，加入新成員 Jenny 與 Gun Ji。
 
 ### 2012年
 
-與 Seeya 一起締造女子美聲團體全盛期的3人團體 Gavy NJ 即將回歸，公開了新的成員。 Gavy NJ
-去年5月與所屬公司的合約結束，成員張熙英及 Misty 開始 SOLO
-活動，現在則以原有成員盧詩賢為主軸，加入新成員 Jenny(25歲)與件智(21歲)。女子美聲團體 Gavy NJ
-在5月公開了令人期待的新曲 "Don't Call Me" 的 MV。 "Don't Call Me"
-是描述一名女生想忘記她的前度男友，而新人團體 EXID 的成員 LE
-獻聲負責歌曲 rap 的部份，歌曲由曾與 Gavy NJ 創作過多首名曲的 Min Myung Ki 所創作，而歌詞則是由成員盧詩賢的創作。這次
-MV 更請來歌手兼演員的 Alex 來擔任男主角，與新成員飾演情侶。
+與 Seeya 一起締造女子美聲團體全盛期的3人團體 Gavy NJ 即將回歸，公開了新的成員。 Gavy NJ 去年5月與所屬公司的合約結束，成員張熙英及 Misty 開始 SOLO 活動，現在則以原有成員盧詩賢為主軸，加入新成員 Jenny(25歲)與件智(21歲)。女子美聲團體 Gavy NJ 在5月公開了令人期待的新曲 "Don't Call Me" 的 MV。 "Don't Call Me" 是描述一名女生想忘記她的前度男友，而新人團體 EXID 的成員 LE 獻聲負責歌曲 rap 的部份，歌曲由曾與 Gavy NJ 創作過多首名曲的 Min Myung Ki 所創作，而歌詞則是由成員盧詩賢的創作。這次 MV 更請來歌手兼演員的 Alex 來擔任男主角，與新成員飾演情侶。
 
 ### 2016年
 
-經紀公司 Goodfellas Entertainment 28日發表官方聲明，宣布 Gavy NJ 元老成員 Noh Si Hyun
-(노시현) 與公司合約到期，決定不續約\[1\]。Gavy NJ 的元老成員 Noh Si Hyun
-在4月份時與公司合約到期決定不續約、離開團體 ，公司宣布 Gavy NJ
-將加入一名新成員，並在7月20日回歸！Gavy NJ 在15日公開《SHUBIRUBIRUB》MV
-預告，宣布即將回歸！《SHUBIRUBIRUB》是 Gavy NJ
-出道以來首次挑戰的舞曲。在公開的影片中，Gavy NJ
-脫離抒情女團形象，展現了活潑可愛的面貌。此外，MV 的男主角將由
-[MADTOWN](https://zh.wikipedia.org/wiki/MADTOWN "wikilink") 成員 JOTA
-飾演。7月20日Gavy NJ 全新單曲《SHUBIRUBIRUB (슈비루비룹)》MV 公開。\[2\]
+經紀公司 Goodfellas Entertainment 28日發表官方聲明，宣布 Gavy NJ 元老成員 Noh Si Hyun (노시현) 與公司合約到期，決定不續約\[1\]。Gavy NJ 的元老成員 Noh Si Hyun 在4月份時與公司合約到期決定不續約、離開團體 ，公司宣布 Gavy NJ 將加入一名新成員，並在7月20日回歸！Gavy NJ 在15日公開《SHUBIRUBIRUB》MV 預告，宣布即將回歸！《SHUBIRUBIRUB》是 Gavy NJ 出道以來首次挑戰的舞曲。在公開的影片中，Gavy NJ 脫離抒情女團形象，展現了活潑可愛的面貌。此外，MV 的男主角將由 [MADTOWN](https://zh.wikipedia.org/wiki/MADTOWN "wikilink") 成員 JOTA 飾演。7月20日Gavy NJ 全新單曲《SHUBIRUBIRUB (슈비루비룹)》MV 公開。\[2\]
 
 ### 2017年
 
@@ -668,8 +648,7 @@ MV 更請來歌手兼演員的 Alex 來擔任男主角，與新成員飾演情�
 ## 外部連結
 
   -
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
+[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
 
 1.  [Si Hyun 離開 Gavy NJ](http://kpopn.niusnews.com/=K04h2lg5)
 2.  [Gavy NJ《SHUBIRUBIRUB》MV 公開](http://kpopn.niusnews.com/=K1xrxmd3)
@@ -681,7 +660,5 @@ MV 更請來歌手兼演員的 Alex 來擔任男主角，與新成員飾演情�
 8.  [](https://www.youtube.com/watch?v=xiGfctpa-x8)
 9.  [1](http://www.koreastardaily.com/tc/news/81633)
 10. [2](https://www.youtube.com/watch?v=d-3G--CjoTQ)
-11. [Pops in Seoul _ Gavy NJ(가비엔제이) _
-    Interview](https://www.youtube.com/watch?v=WUoJFqBacZw)
-12. [가비엔제이 (gavy nj) - 슈비루비룹 (SHUBIRUBIRUB),
-    Hello](https://www.youtube.com/watch?v=Y-NQ-oAYa6k)
+11. [Pops in Seoul _ Gavy NJ(가비엔제이) _ Interview](https://www.youtube.com/watch?v=WUoJFqBacZw)
+12. [가비엔제이 (gavy nj) - 슈비루비룹 (SHUBIRUBIRUB), Hello](https://www.youtube.com/watch?v=Y-NQ-oAYa6k)

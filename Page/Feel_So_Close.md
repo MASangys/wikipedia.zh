@@ -1,6 +1,4 @@
-"**Feel So Close**"
-是蘇格蘭唱片藝人[凱文·哈里斯的一首歌曲](../Page/凱文·哈里斯.md "wikilink")，收錄於他的第3張錄音室專輯《[18個月](https://zh.wikipedia.org/wiki/18個月 "wikilink")》中。哈里斯曾一度停止演唱歌曲，然而在這首歌曲中他開始重新演唱。\[1\]
-歌曲空降[英國單曲榜第](https://zh.wikipedia.org/wiki/英國單曲榜 "wikilink")2名，是哈里斯第6支進入前10的個人單曲。歌曲亦是哈里斯第2支進入美國[《告示牌》百強單曲榜的歌曲](../Page/告示牌百强单曲榜.md "wikilink")。2012年年底，歌曲在美國已獲得217萬次下載。\[2\]
+"**Feel So Close**" 是蘇格蘭唱片藝人[凱文·哈里斯](../Page/凱文·哈里斯.md "wikilink")的一首歌曲，收錄於他的第3張錄音室專輯《[18個月](https://zh.wikipedia.org/wiki/18個月 "wikilink")》中。哈里斯曾一度停止演唱歌曲，然而在這首歌曲中他開始重新演唱。\[1\] 歌曲空降[英國單曲榜第](https://zh.wikipedia.org/wiki/英國單曲榜 "wikilink")2名，是哈里斯第6支進入前10的個人單曲。歌曲亦是哈里斯第2支進入美國[《告示牌》百強單曲榜的歌曲](../Page/告示牌百强单曲榜.md "wikilink")。2012年年底，歌曲在美國已獲得217萬次下載。\[2\]
 
 ## 曲目列表
 
@@ -8,15 +6,9 @@
 
 1.  "Feel So Close" (Radio Edit) – 3:27
 2.  "Feel So Close" (Extended Mix) – 5:30
-3.  "Feel So Close"
-    ([Nero](https://zh.wikipedia.org/wiki/Nero_\(band\) "wikilink")
-    Remix) – 4:44
-4.  "Feel So Close" ([Benny
-    Benassi](https://zh.wikipedia.org/wiki/Benny_Benassi "wikilink")
-    Remix) – 5:20
-5.  "Feel So Close" ([Dillon
-    Francis](https://zh.wikipedia.org/wiki/Dillon_Francis "wikilink")
-    Remix) – 5:13
+3.  "Feel So Close" ([Nero](https://zh.wikipedia.org/wiki/Nero_\(band\) "wikilink") Remix) – 4:44
+4.  "Feel So Close" ([Benny Benassi](https://zh.wikipedia.org/wiki/Benny_Benassi "wikilink") Remix) – 5:20
+5.  "Feel So Close" ([Dillon Francis](https://zh.wikipedia.org/wiki/Dillon_Francis "wikilink") Remix) – 5:13
 6.  "Feel So Close" (Nero Dub) – 4:44
 7.  "Feel So Close" (Instrumental) – 3:29
 
@@ -221,10 +213,7 @@
 
   -
   -
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:凱文·哈里斯歌曲](https://zh.wikipedia.org/wiki/Category:凱文·哈里斯歌曲 "wikilink")
-[Category:哥倫比亞唱片單曲](https://zh.wikipedia.org/wiki/Category:哥倫比亞唱片單曲 "wikilink")
-[Category:凱文·哈里斯創作的歌曲](https://zh.wikipedia.org/wiki/Category:凱文·哈里斯創作的歌曲 "wikilink")
+[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:凱文·哈里斯歌曲](https://zh.wikipedia.org/wiki/Category:凱文·哈里斯歌曲 "wikilink") [Category:哥倫比亞唱片單曲](https://zh.wikipedia.org/wiki/Category:哥倫比亞唱片單曲 "wikilink") [Category:凱文·哈里斯創作的歌曲](https://zh.wikipedia.org/wiki/Category:凱文·哈里斯創作的歌曲 "wikilink")
 
 1.
 

@@ -10,8 +10,7 @@ DMAIC方法是[六標準差方法中的核心工具之一](https://zh.wikipedia.
 
 ## 步驟
 
-DMAIC是五個步驟的英文縮寫：Define（定義）、Measure（測量）、Analyze（分析）、Improve（改善）及Control（控制）。這五個步驟都是必要的，而且需要依照順序進行
-[DMAICWebdingsII.png](https://zh.wikipedia.org/wiki/File:DMAICWebdingsII.png "fig:DMAICWebdingsII.png")
+DMAIC是五個步驟的英文縮寫：Define（定義）、Measure（測量）、Analyze（分析）、Improve（改善）及Control（控制）。這五個步驟都是必要的，而且需要依照順序進行 [DMAICWebdingsII.png](https://zh.wikipedia.org/wiki/File:DMAICWebdingsII.png "fig:DMAICWebdingsII.png")
 
 ### 定義
 
@@ -21,8 +20,7 @@ DMAIC是五個步驟的英文縮寫：Define（定義）、Measure（測量）�
 
   - 客戶
 
-  - （VOC）及[關鍵品質](https://zh.wikipedia.org/wiki/關鍵品質 "wikilink")（CTQ）—
-    最關鍵的流程輸出是什麼？
+  - （VOC）及[關鍵品質](https://zh.wikipedia.org/wiki/關鍵品質 "wikilink")（CTQ）— 最關鍵的流程輸出是什麼？
 
 ### 測量
 
@@ -52,7 +50,7 @@ DMAIC是五個步驟的英文縮寫：Define（定義）、Measure（測量）�
 
 此步驟的目的是維持改善的效果，需監改善的情形，確認持續性的有效。之後建立控制計劃。若有需要，更新文件、商業流程及訓練記錄。
 
-在控制階段可以用[管制圖來監控不同時間下的改善效果](../Page/管制圖.md "wikilink")，也針對每個監控的內容訂定若不穩定時的應變計劃。
+在控制階段可以用[管制圖](../Page/管制圖.md "wikilink")來監控不同時間下的改善效果，也針對每個監控的內容訂定若不穩定時的應變計劃。
 
 ### 複製及感謝團隊
 
@@ -79,10 +77,6 @@ DMAIC是五個步驟的英文縮寫：Define（定義）、Measure（測量）�
 
 [分類:六標準差](https://zh.wikipedia.org/wiki/分類:六標準差 "wikilink")
 
-[Category:商業術語](https://zh.wikipedia.org/wiki/Category:商業術語 "wikilink")
-[Category:流程管理](https://zh.wikipedia.org/wiki/Category:流程管理 "wikilink")
-[Category:生產與製造](https://zh.wikipedia.org/wiki/Category:生產與製造 "wikilink")
-[Category:品質管理](https://zh.wikipedia.org/wiki/Category:品質管理 "wikilink")
-[Category:数据管理](https://zh.wikipedia.org/wiki/Category:数据管理 "wikilink")
+[Category:商業術語](https://zh.wikipedia.org/wiki/Category:商業術語 "wikilink") [Category:流程管理](https://zh.wikipedia.org/wiki/Category:流程管理 "wikilink") [Category:生產與製造](https://zh.wikipedia.org/wiki/Category:生產與製造 "wikilink") [Category:品質管理](https://zh.wikipedia.org/wiki/Category:品質管理 "wikilink") [Category:数据管理](https://zh.wikipedia.org/wiki/Category:数据管理 "wikilink")
 
 1.

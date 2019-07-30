@@ -1,5 +1,4 @@
-是日本Princess
-Sugar於2015年9月18日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2016年由萌えAPP分別發售[Android版和](../Page/Android.md "wikilink")[iOS版](https://zh.wikipedia.org/wiki/iOS "wikilink")。\[2\]\[3\]2017年5月26日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《姫様LOVEライフ\!-もーっと\!イチャイチャ☆ぱらだいす\!-》。\[4\]
+是日本Princess Sugar於2015年9月18日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2016年由萌えAPP分別發售[Android](../Page/Android.md "wikilink")版和[iOS版](https://zh.wikipedia.org/wiki/iOS "wikilink")。\[2\]\[3\]2017年5月26日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《姫様LOVEライフ\!-もーっと\!イチャイチャ☆ぱらだいす\!-》。\[4\]
 
 ## 故事
 
@@ -144,32 +143,18 @@ Sugar於2015年9月18日發售的[戀愛冒險類型](https://zh.wikipedia.org/w
 
 ## CD
 
-原聲帶《姫様LOVEライフ\! ボーカル&サウンドトラックアルバム》是由PB2
-RECORDS於2015年9月18日發售，收錄5首主題曲和17首BGM。\[14\]
+原聲帶《姫様LOVEライフ\! ボーカル&サウンドトラックアルバム》是由PB2 RECORDS於2015年9月18日發售，收錄5首主題曲和17首BGM。\[14\]
 
 ## 參考來源
 
 ## 外部連結
 
   - [Princess Sugar](http://www.s-digi.jp/princess-sugar/)
-  - [姫様LOVEライフ\!官方網站](http://www.s-digi.jp/princess-sugar/01-soft/03_himelove/index.html)Princess
-    Sugar
-  - [姫様LOVEライフ\!-もーっと\!イチャイチャ☆ぱらだいす\!-官方網站](http://www.s-digi.jp/princess-sugar/01-soft/f01_himelove/index.html)Princess
-    Sugar
+  - [姫様LOVEライフ\!官方網站](http://www.s-digi.jp/princess-sugar/01-soft/03_himelove/index.html)Princess Sugar
+  - [姫様LOVEライフ\!-もーっと\!イチャイチャ☆ぱらだいす\!-官方網站](http://www.s-digi.jp/princess-sugar/01-soft/f01_himelove/index.html)Princess Sugar
   - [Android版和iOS版官方網站](http://moeapp.net/special/himelove.html)萌えAPP
 
-[Category:2015年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2015年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
-[Category:公主主角題材作品](https://zh.wikipedia.org/wiki/Category:公主主角題材作品 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:2019年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2019年日本成人動畫 "wikilink")
-[Category:異父母之兄弟姊妹相愛作品](https://zh.wikipedia.org/wiki/Category:異父母之兄弟姊妹相愛作品 "wikilink")
+[Category:2015年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2015年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:公主主角題材作品](https://zh.wikipedia.org/wiki/Category:公主主角題材作品 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:2019年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2019年日本成人動畫 "wikilink") [Category:異父母之兄弟姊妹相愛作品](https://zh.wikipedia.org/wiki/Category:異父母之兄弟姊妹相愛作品 "wikilink")
 
 1.
 2.

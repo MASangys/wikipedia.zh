@@ -1,10 +1,10 @@
-《**VAGABOND**》（，）為[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[SBS自](../Page/SBS_\(韓國\).md "wikilink")2019年9月20日起播出的[金土連續劇](../Page/SBS金土連續劇.md "wikilink")，是一部100%事前製作的電視劇，由《[巨人](../Page/巨人_\(韓國電視劇\).md "wikilink")》、《[工薪族楚漢志](../Page/工薪族楚漢志.md "wikilink")》、《[浪漫醫生金師傅](../Page/浪漫醫生金師傅.md "wikilink")》的[劉仁植導演和](../Page/劉仁植.md "wikilink")《巨人》、《工薪族楚漢志》、《[奇皇后](../Page/奇皇后.md "wikilink")》的[張英哲](../Page/張英哲.md "wikilink")、[鄭景順編劇聯手打造](https://zh.wikipedia.org/wiki/鄭景順 "wikilink")。本劇講述平凡生活著的男人，偶然捲入事故，進而揭露國家腐敗過程。\[1\]\[2\]\[3\]\[4\]\[5\]
+《**VAGABOND**》（，）為[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[SBS自](../Page/SBS_\(韓國\).md "wikilink")2019年9月27日起播出的[金土連續劇](../Page/SBS金土連續劇.md "wikilink")，是一部100%事前製作的電視劇，由《[巨人](../Page/巨人_\(韓國電視劇\).md "wikilink")》、《[工薪族楚漢志](../Page/工薪族楚漢志.md "wikilink")》、《[浪漫醫生金師傅](../Page/浪漫醫生金師傅.md "wikilink")》的[劉仁植](../Page/劉仁植.md "wikilink")導演和《巨人》、《工薪族楚漢志》、《[奇皇后](../Page/奇皇后.md "wikilink")》的[張英哲](../Page/張英哲.md "wikilink")、[鄭景順編劇聯手打造](https://zh.wikipedia.org/wiki/鄭景順 "wikilink")。本劇講述平凡生活著的男人，偶然捲入事故，進而揭露國家腐敗過程。\[1\]\[2\]\[3\]\[4\]\[5\]
 
-[Netflix於](../Page/Netflix.md "wikilink")9月起全球同步上線\[6\]。
+[Netflix](../Page/Netflix.md "wikilink")於9月起全球同步上線\[6\]。
 
 ## 劇情介紹
 
-車達健([李昇基飾](../Page/李昇基.md "wikilink"))是一位以武打明星[成龍為人生偶像的動作替身演員](../Page/成龍.md "wikilink")，他是擅長跆拳道、巴西柔術、柔道、劍道、拳擊等綜合武術18段的高手。藝高人膽大，是業界冉冉升起的新星。他因民航客機墜毀意外中失去了侄子，更無意間發現到國際恐怖份子的陰謀。
+車達健([李昇基](../Page/李昇基.md "wikilink")飾)是一位以武打明星[成龍](../Page/成龍.md "wikilink")為人生偶像的動作替身演員，他是擅長跆拳道、巴西柔術、柔道、劍道、拳擊等綜合武術18段的高手。藝高人膽大，是業界冉冉升起的新星。他因民航客機墜毀意外中失去了侄子，更無意間發現到國際恐怖份子的陰謀。
 
 高海麗([裴秀智飾](https://zh.wikipedia.org/wiki/裴秀智 "wikilink"))是海軍陸戰隊中校高強哲長女，父親離世後由她一肩挑起家庭生活的重擔，進入國情院成為7級公務員。在接受各種高強度培訓後，她從白色要員轉身為黑色要員。
 
@@ -202,7 +202,7 @@
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p>2019/09/20</p></td>
+<td><p>2019/09/27</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -214,7 +214,7 @@
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td><p>2019/09/21</p></td>
+<td><p>2019/09/28</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -226,7 +226,7 @@
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p>2019/09/27</p></td>
+<td><p>2019/10/04</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -238,7 +238,7 @@
 </tr>
 <tr class="even">
 <td><p>7</p></td>
-<td><p>2019/09/28</p></td>
+<td><p>2019/10/05</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -250,7 +250,7 @@
 </tr>
 <tr class="even">
 <td><p>9</p></td>
-<td><p>2019/10/04</p></td>
+<td><p>2019/10/11</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -262,7 +262,7 @@
 </tr>
 <tr class="even">
 <td><p>11</p></td>
-<td><p>2019/10/05</p></td>
+<td><p>2019/10/12</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -274,7 +274,7 @@
 </tr>
 <tr class="even">
 <td><p>13</p></td>
-<td><p>2019/10/11</p></td>
+<td><p>2019/10/18</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -286,7 +286,7 @@
 </tr>
 <tr class="even">
 <td><p>15</p></td>
-<td><p>2019/10/12</p></td>
+<td><p>2019/10/19</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -298,7 +298,7 @@
 </tr>
 <tr class="even">
 <td><p>17</p></td>
-<td><p>2019/10/18</p></td>
+<td><p>2019/10/25</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -310,7 +310,7 @@
 </tr>
 <tr class="even">
 <td><p>19</p></td>
-<td><p>2019/10/19</p></td>
+<td><p>2019/10/26</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -322,7 +322,7 @@
 </tr>
 <tr class="even">
 <td><p>21</p></td>
-<td><p>2019/10/25</p></td>
+<td><p>2019/11/01</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -334,7 +334,7 @@
 </tr>
 <tr class="even">
 <td><p>23</p></td>
-<td><p>2019/10/26</p></td>
+<td><p>2019/11/02</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -346,7 +346,7 @@
 </tr>
 <tr class="even">
 <td><p>25</p></td>
-<td><p>2019/11/01</p></td>
+<td><p>2019/11/08</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -358,7 +358,7 @@
 </tr>
 <tr class="even">
 <td><p>27</p></td>
-<td><p>2019/11/02</p></td>
+<td><p>2019/11/09</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -370,7 +370,7 @@
 </tr>
 <tr class="even">
 <td><p>29</p></td>
-<td><p>2019/11/08</p></td>
+<td><p>2019/11/15</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -382,7 +382,7 @@
 </tr>
 <tr class="even">
 <td><p>31</p></td>
-<td><p>2019/11/09</p></td>
+<td><p>2019/11/16</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -409,20 +409,19 @@
 
 **週六時段劇集**
 
-  - [MBC](../Page/文化廣播公司.md "wikilink")
-    [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：
+  - [MBC](../Page/文化廣播公司.md "wikilink") [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：《[黃金庭院](../Page/黃金庭院.md "wikilink")》
 
 **週末時段劇集**
 
-  - [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") [Original
-    Series](../Page/OCN_Original_Series.md "wikilink")：
+  - [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") [週末連續劇](https://zh.wikipedia.org/wiki/tvN週末連續劇 "wikilink")：《[請融化我吧](../Page/請融化我吧.md "wikilink")》
+  - [OCN](../Page/OCN_\(頻道\).md "wikilink") [週末經典連續劇](../Page/OCN_Original_Series.md "wikilink")：
 
 ## 記事
 
-  - 本劇為導演[劉仁植與編劇](../Page/劉仁植.md "wikilink")[張英哲](../Page/張英哲.md "wikilink")、[鄭景順繼電視劇](https://zh.wikipedia.org/wiki/鄭景順 "wikilink")《[巨人](../Page/巨人_\(韓國電視劇\).md "wikilink")》、《[工薪族楚漢志](../Page/工薪族楚漢志.md "wikilink")》、《[錢的化身](../Page/錢的化身.md "wikilink")》後第四度合作。
-  - 本劇為[李昇基與導演](../Page/李昇基.md "wikilink")[劉仁植繼電視劇](../Page/劉仁植.md "wikilink")《[你們被包圍了](../Page/你們被包圍了.md "wikilink")》後再度合作。
-  - 本劇為[李昇基與](../Page/李昇基.md "wikilink")[秀智繼電視劇](../Page/秀智.md "wikilink")《[九家之書](https://zh.wikipedia.org/wiki/九家之書 "wikilink")》後，時隔5年再度合作。
-  - 本劇原定檔2019年5月作為[水木劇播出](../Page/SBS特別劇.md "wikilink")\[9\]，將推遲至9月作為[金土劇播出](../Page/SBS金土連續劇.md "wikilink")，以便通過[Netflix频道與韓國國內同步向全世界觀衆公開](../Page/Netflix.md "wikilink")\[10\]\[11\]\[12\]。
+  - 本劇為導演[劉仁植](../Page/劉仁植.md "wikilink")與編劇[張英哲](../Page/張英哲.md "wikilink")、[鄭景順繼電視劇](https://zh.wikipedia.org/wiki/鄭景順 "wikilink")《[巨人](../Page/巨人_\(韓國電視劇\).md "wikilink")》、《[工薪族楚漢志](../Page/工薪族楚漢志.md "wikilink")》、《[錢的化身](../Page/錢的化身.md "wikilink")》後第四度合作。
+  - 本劇為[李昇基](../Page/李昇基.md "wikilink")與導演[劉仁植](../Page/劉仁植.md "wikilink")繼電視劇《[你們被包圍了](../Page/你們被包圍了.md "wikilink")》後再度合作。
+  - 本劇為[李昇基](../Page/李昇基.md "wikilink")與[秀智](../Page/秀智.md "wikilink")繼電視劇《[九家之書](https://zh.wikipedia.org/wiki/九家之書 "wikilink")》後，時隔5年再度合作。
+  - 本劇原定檔2019年5月作為[水木劇播出](../Page/SBS特別劇.md "wikilink")\[9\]，將推遲至9月作為[金土劇播出](../Page/SBS金土連續劇.md "wikilink")，以便通過[Netflix](../Page/Netflix.md "wikilink")频道與韓國國內同步向全世界觀衆公開\[10\]\[11\]\[12\]。
 
 ## 註釋
 
@@ -434,13 +433,7 @@
   - [浪客行-DAUM](https://m.search.daum.net/search?w=tv&q=%EB%B0%B0%EA%B0%80%EB%B3%B8%EB%93%9C&rtmaxcoll=TVP&irk=82585&irt=tv-program&DA=TVP)
   - [浪客行-NAVER](http://m.entertain.naver.com/tvBrand/6487748)
 
-[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink")
-[Category:Netflix原创节目](https://zh.wikipedia.org/wiki/Category:Netflix原创节目 "wikilink")
-[Category:韓國動作劇](https://zh.wikipedia.org/wiki/Category:韓國動作劇 "wikilink")
-[Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink")
-[Category:间谍题材电视剧](https://zh.wikipedia.org/wiki/Category:间谍题材电视剧 "wikilink")
-[Category:恐怖活動題材作品](https://zh.wikipedia.org/wiki/Category:恐怖活動題材作品 "wikilink")
-[Category:張英哲劇本作品](https://zh.wikipedia.org/wiki/Category:張英哲劇本作品 "wikilink")
+[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:Netflix原创节目](https://zh.wikipedia.org/wiki/Category:Netflix原创节目 "wikilink") [Category:韓國動作劇](https://zh.wikipedia.org/wiki/Category:韓國動作劇 "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink") [Category:间谍题材电视剧](https://zh.wikipedia.org/wiki/Category:间谍题材电视剧 "wikilink") [Category:恐怖活動題材作品](https://zh.wikipedia.org/wiki/Category:恐怖活動題材作品 "wikilink") [Category:張英哲劇本作品](https://zh.wikipedia.org/wiki/Category:張英哲劇本作品 "wikilink")
 
 1.
 2.

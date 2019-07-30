@@ -1,5 +1,4 @@
-『**炎神戰隊轟音者VS激氣連者**』在2009年1月24日於日本上映，是『[炎神戰隊轟音者](../Page/炎神戰隊轟音者.md "wikilink")』第二部劇場版作品，而本作開始V-cinema的「**超級戰隊VS系列**」
-變更名稱為「**超級戰隊祭**」並以劇場版方式在電影院上映。
+『**炎神戰隊轟音者VS激氣連者**』在2009年1月24日於日本上映，是『[炎神戰隊轟音者](../Page/炎神戰隊轟音者.md "wikilink")』第二部劇場版作品，而本作開始V-cinema的「**超級戰隊VS系列**」 變更名稱為「**超級戰隊祭**」並以劇場版方式在電影院上映。
 
 ## 特色
 
@@ -88,33 +87,21 @@
 ### 戰隊關係者
 
   -
-    **BOMPER<small>｜**[中川亞紀子](../Page/中川亞紀子.md "wikilink") 聲 /
-    台配：[馮嘉德](../Page/馮嘉德.md "wikilink")</small>
-    **激獸[山貓拳](https://zh.wikipedia.org/wiki/山貓 "wikilink")·夏傅<small>｜**[永井一郎](../Page/永井一郎.md "wikilink")
-    聲 / 台配：[宋克軍](../Page/宋克軍.md "wikilink")</small>
-    **真咲美希<small>｜**[伊藤和枝](../Page/伊藤和枝.md "wikilink") 飾 /
-    台配：[馮嘉德](../Page/馮嘉德.md "wikilink") </small>
-    **真咲夏美<small>｜**[桑江咲菜](../Page/桑江咲菜.md "wikilink") 飾 /
-    台配：[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")
-    </small>
-    **激獸[蒼蠅拳](https://zh.wikipedia.org/wiki/蒼蠅 "wikilink")·巴蠅<small>｜**[石田彰](../Page/石田彰.md "wikilink")
-    聲 / 台配：[何志威](../Page/何志威.md "wikilink") </small>
+    **BOMPER<small>｜**[中川亞紀子](../Page/中川亞紀子.md "wikilink") 聲 / 台配：[馮嘉德](../Page/馮嘉德.md "wikilink")</small>
+    **激獸[山貓拳](https://zh.wikipedia.org/wiki/山貓 "wikilink")·夏傅<small>｜**[永井一郎](../Page/永井一郎.md "wikilink") 聲 / 台配：[宋克軍](../Page/宋克軍.md "wikilink")</small>
+    **真咲美希<small>｜**[伊藤和枝](../Page/伊藤和枝.md "wikilink") 飾 / 台配：[馮嘉德](../Page/馮嘉德.md "wikilink") </small>
+    **真咲夏美<small>｜**[桑江咲菜](../Page/桑江咲菜.md "wikilink") 飾 / 台配：[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") </small>
+    **激獸[蒼蠅拳](https://zh.wikipedia.org/wiki/蒼蠅 "wikilink")·巴蠅<small>｜**[石田彰](../Page/石田彰.md "wikilink") 聲 / 台配：[何志威](../Page/何志威.md "wikilink") </small>
 
 ### 敵人
 
   -
-    **害地大臣·幽溝史坦因<small>｜**[梁田清之](../Page/梁田清之.md "wikilink") 聲 /
-    台配：[宋克軍](../Page/宋克軍.md "wikilink") </small>
-    **害氣大臣·奇塔納德斯<small>｜**[真殿光昭](../Page/真殿光昭.md "wikilink") 聲 /
-    台配：[李景唐](../Page/李景唐.md "wikilink") </small>
-    **害水大臣·凱格雷西亞<small>｜**[及川奈央](../Page/及川奈央.md "wikilink") 飾 /
-    台配：[馮嘉德](../Page/馮嘉德.md "wikilink") </small>
-    **雙節棍蠻機<small>｜**[吉水孝宏](../Page/吉水孝宏.md "wikilink") 聲 /
-    台配：[何志威](../Page/何志威.md "wikilink") </small>
-    **臨獸[烏龜拳](https://zh.wikipedia.org/wiki/烏龜 "wikilink")·美加<small>｜**[宇垣秀成](../Page/宇垣秀成.md "wikilink")
-    聲 / 台配：[李景唐](../Page/李景唐.md "wikilink") </small>
-    **幻獸[龍拳](https://zh.wikipedia.org/wiki/龍 "wikilink")·龍<small>｜** 飾 /
-    台配：[林士程](../Page/林士程.md "wikilink") </small>
+    **害地大臣·幽溝史坦因<small>｜**[梁田清之](../Page/梁田清之.md "wikilink") 聲 / 台配：[宋克軍](../Page/宋克軍.md "wikilink") </small>
+    **害氣大臣·奇塔納德斯<small>｜**[真殿光昭](../Page/真殿光昭.md "wikilink") 聲 / 台配：[李景唐](../Page/李景唐.md "wikilink") </small>
+    **害水大臣·凱格雷西亞<small>｜**[及川奈央](../Page/及川奈央.md "wikilink") 飾 / 台配：[馮嘉德](../Page/馮嘉德.md "wikilink") </small>
+    **雙節棍蠻機<small>｜**[吉水孝宏](../Page/吉水孝宏.md "wikilink") 聲 / 台配：[何志威](../Page/何志威.md "wikilink") </small>
+    **臨獸[烏龜拳](https://zh.wikipedia.org/wiki/烏龜 "wikilink")·美加<small>｜**[宇垣秀成](../Page/宇垣秀成.md "wikilink") 聲 / 台配：[李景唐](../Page/李景唐.md "wikilink") </small>
+    **幻獸[龍拳](https://zh.wikipedia.org/wiki/龍 "wikilink")·龍<small>｜** 飾 / 台配：[林士程](../Page/林士程.md "wikilink") </small>
 
 ## 登場機體
 
@@ -122,7 +109,4 @@
     炎神王G9→炎神王G12
     激臨野狼鬥者→巨犀激臨鬥者
 
-[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")
-[Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink")
-[Category:2009年电影](https://zh.wikipedia.org/wiki/Category:2009年电影 "wikilink")
-[Category:2009年代特撮作品](https://zh.wikipedia.org/wiki/Category:2009年代特撮作品 "wikilink")
+[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink") [Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink") [Category:2009年电影](https://zh.wikipedia.org/wiki/Category:2009年电影 "wikilink") [Category:2009年代特撮作品](https://zh.wikipedia.org/wiki/Category:2009年代特撮作品 "wikilink")

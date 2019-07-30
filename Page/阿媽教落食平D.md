@@ -1,6 +1,4 @@
-《**阿媽教落食平D**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的飲食節目](../Page/電視廣播有限公司.md "wikilink")**食平D系列**第六輯，由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明擔任主持](../Page/陸浩明.md "wikilink")。本節目於[香港時間](../Page/香港時間.md "wikilink")2017年4月17日起，逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")、[myTV
-SUPER播出](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")，並於[myTV
-SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除）。
+《**阿媽教落食平D**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的飲食節目**食平D系列**第六輯，由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明](../Page/陸浩明.md "wikilink")擔任主持。本節目於[香港時間](../Page/香港時間.md "wikilink")2017年4月17日起，逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")、[myTV SUPER播出](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")，並於[myTV SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除）。
 
 ## 每集內容
 
@@ -324,12 +322,9 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 
 ## 外部連結
 
-  - [無綫電視節目網頁 -
-    阿媽教落食平D](http://programme.tvb.com/foodandtravel/goodcheapeatssr6)
+  - [無綫電視節目網頁 - 阿媽教落食平D](http://programme.tvb.com/foodandtravel/goodcheapeatssr6)
   - [肥媽教煮餸走師奶路線　唔同鼎爺比較：兩樣唔同嘅嘢嚟](https://www.hk01.com/%E5%A8%9B%E6%A8%82/75936/%E8%82%A5%E5%AA%BD%E6%95%99%E7%85%AE%E9%A4%B8%E8%B5%B0%E5%B8%AB%E5%A5%B6%E8%B7%AF%E7%B7%9A-%E5%94%94%E5%90%8C%E9%BC%8E%E7%88%BA%E6%AF%94%E8%BC%83-%E5%85%A9%E6%A8%A3%E5%94%94%E5%90%8C%E5%98%85%E5%98%A2%E5%9A%9F)
 
 ## 電視節目的變遷
 
-[Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink")
-[Category:食平D系列](https://zh.wikipedia.org/wiki/Category:食平D系列 "wikilink")
-[Category:無綫電視飲食節目](https://zh.wikipedia.org/wiki/Category:無綫電視飲食節目 "wikilink")
+[Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink") [Category:食平D系列](https://zh.wikipedia.org/wiki/Category:食平D系列 "wikilink") [Category:無綫電視飲食節目](https://zh.wikipedia.org/wiki/Category:無綫電視飲食節目 "wikilink")

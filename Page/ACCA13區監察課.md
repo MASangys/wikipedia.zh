@@ -1,5 +1,4 @@
-《**ACCA13區監察課**》（）為日本漫畫家[小野夏芽所繪製的](../Page/小野夏芽.md "wikilink")[青年漫畫](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")。該漫畫作品於2013年至2016年在日本漫畫雜誌《[月刊BIG
-GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")》（[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）中連載。電視動畫於2017年1月10日開始播出。
+《**ACCA13區監察課**》（）為日本漫畫家[小野夏芽](../Page/小野夏芽.md "wikilink")所繪製的[青年漫畫](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")。該漫畫作品於2013年至2016年在日本漫畫雜誌《[月刊BIG GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")》（[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）中連載。電視動畫於2017年1月10日開始播出。
 
 2016年12月開始在《月刊BIG GANGAN》連載番外篇《ACCA13區監察課 P.S.》，並於2017年10月連載完畢。
 
@@ -231,7 +230,7 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")》（[史克威爾艾尼克斯](
 
 ## 單行本
 
-以[日本發行的單行本為主](../Page/日本.md "wikilink")。
+以[日本](../Page/日本.md "wikilink")發行的單行本為主。
 
   - 第1卷 2013年11月25日 ISBN 978-4-7575-4149-8\[1\]
   - 第2卷 2014年7月25日 ISBN 978-4-7575-4370-6\[2\]
@@ -271,10 +270,7 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")》（[史克威爾艾尼克斯](
   - 音樂：[高橋諒](https://zh.wikipedia.org/wiki/高橋諒 "wikilink")
   - 音樂製作：[Lantis](../Page/Lantis.md "wikilink")
   - 動畫製作：[MADHOUSE](../Page/MADHOUSE.md "wikilink")\[18\]\[19\]
-  - 製作：ACCA製作委員會（[Bandai
-    Visual](https://zh.wikipedia.org/wiki/Bandai_Visual "wikilink")、[日本AD
-    SYSTEMS](../Page/日本AD_SYSTEMS.md "wikilink")、[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")、[日本BS放送](../Page/日本BS放送.md "wikilink")、[萬普](../Page/萬普.md "wikilink")、Contends
-    Seed）
+  - 製作：ACCA製作委員會（[Bandai Visual](https://zh.wikipedia.org/wiki/Bandai_Visual "wikilink")、[日本AD SYSTEMS](../Page/日本AD_SYSTEMS.md "wikilink")、[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")、[日本BS放送](../Page/日本BS放送.md "wikilink")、[萬普](../Page/萬普.md "wikilink")、Contends Seed）
 
 ### 主題曲
 
@@ -445,10 +441,7 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")》（[史克威爾艾尼克斯](
   - [官方網頁](http://www.jp.square-enix.com/magazine/biggangan/introduction/acca13/)
   - [ACCA13區監察課 TV動畫官方網站](http://acca-anime.com/)
 
-[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink")
-[Category:2017年UHF動畫](https://zh.wikipedia.org/wiki/Category:2017年UHF動畫 "wikilink")
-[Category:Madhouse](https://zh.wikipedia.org/wiki/Category:Madhouse "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
+[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:2017年UHF動畫](https://zh.wikipedia.org/wiki/Category:2017年UHF動畫 "wikilink") [Category:Madhouse](https://zh.wikipedia.org/wiki/Category:Madhouse "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
 
 1.
 

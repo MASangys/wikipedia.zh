@@ -47,29 +47,22 @@
 </tbody>
 </table>
 
-此站設有兩個[島式月台和三條軌道](../Page/島式月台.md "wikilink")。中央軌道到2002年前仍有營運，但現時不營運。
+此站設有兩個[島式月台](../Page/島式月台.md "wikilink")和三條軌道。中央軌道到2002年前仍有營運，但現時不營運。
 
 ## 參考資料
 
 ## 外部連結
 
   -
-  - Station Reporter — [N
-    Train](https://web.archive.org/web/20120204051427/http://www.stationreporter.net/ntrain.htm)
+  - Station Reporter — [N Train](https://web.archive.org/web/20120204051427/http://www.stationreporter.net/ntrain.htm)
 
-  - [Astoria Boulevard entrance from Google Maps Street
-    View](https://maps.google.com/?ie=UTF8&ll=40.770215,-73.917915&spn=0,0.013314&z=17&layer=c&cbll=40.770153,-73.91799&panoid=EcN7Y0M9c5lWejsKC7D57A&cbp=12,24.36,,0,7.54)
+  - [Astoria Boulevard entrance from Google Maps Street View](https://maps.google.com/?ie=UTF8&ll=40.770215,-73.917915&spn=0,0.013314&z=17&layer=c&cbll=40.770153,-73.91799&panoid=EcN7Y0M9c5lWejsKC7D57A&cbp=12,24.36,,0,7.54)
 
-  - [Hoyt Avenue entrance from Google Maps Street
-    View](https://maps.google.com/?ie=UTF8&ll=40.770954,-73.917046&spn=0,0.013314&z=17&layer=c&cbll=40.771013,-73.916965&panoid=TotnK-72rXnJS_nH7FmdYQ&cbp=12,180.48,,0,8.34)
+  - [Hoyt Avenue entrance from Google Maps Street View](https://maps.google.com/?ie=UTF8&ll=40.770954,-73.917046&spn=0,0.013314&z=17&layer=c&cbll=40.771013,-73.916965&panoid=TotnK-72rXnJS_nH7FmdYQ&cbp=12,180.48,,0,8.34)
 
-  - [Platforms from Google Maps Street
-    View](https://www.google.com/maps/@40.7696266,-73.9184418,3a,75y,112.8h,90.7t/data=!3m8!1e1!3m6!1s-sOKPVMmewDg%2FV0ONW1weIOI%2FAAAAAAAAG1Q%2FA41Ah37lxAoLM80SFyjHMBROKyTKgFq0gCLIB!2e4!3e11!6s%2F%2Flh3.googleusercontent.com%2F-sOKPVMmewDg%2FV0ONW1weIOI%2FAAAAAAAAG1Q%2FA41Ah37lxAoLM80SFyjHMBROKyTKgFq0gCLIB%2Fw203-h100-p-k-no%2F!7i9728!8i4864!4m3!8m2!3m1!1e1!6m1!1e1)
+  - [Platforms from Google Maps Street View](https://www.google.com/maps/@40.7696266,-73.9184418,3a,75y,112.8h,90.7t/data=!3m8!1e1!3m6!1s-sOKPVMmewDg%2FV0ONW1weIOI%2FAAAAAAAAG1Q%2FA41Ah37lxAoLM80SFyjHMBROKyTKgFq0gCLIB!2e4!3e11!6s%2F%2Flh3.googleusercontent.com%2F-sOKPVMmewDg%2FV0ONW1weIOI%2FAAAAAAAAG1Q%2FA41Ah37lxAoLM80SFyjHMBROKyTKgFq0gCLIB%2Fw203-h100-p-k-no%2F!7i9728!8i4864!4m3!8m2!3m1!1e1!6m1!1e1)
 
-[Category:BMT阿斯托利亞線車站](https://zh.wikipedia.org/wiki/Category:BMT阿斯托利亞線車站 "wikilink")
-[Category:皇后區紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:皇后區紐約地鐵車站 "wikilink")
-[Category:1917年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路車站 "wikilink")
-[Category:1917年紐約州建立](https://zh.wikipedia.org/wiki/Category:1917年紐約州建立 "wikilink")
+[Category:BMT阿斯托利亞線車站](https://zh.wikipedia.org/wiki/Category:BMT阿斯托利亞線車站 "wikilink") [Category:皇后區紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:皇后區紐約地鐵車站 "wikilink") [Category:1917年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路車站 "wikilink") [Category:1917年紐約州建立](https://zh.wikipedia.org/wiki/Category:1917年紐約州建立 "wikilink")
 
 1.
 2.

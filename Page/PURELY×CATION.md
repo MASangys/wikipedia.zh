@@ -1,5 +1,4 @@
-《**PURELY×CATION**》是[AKABEiSOFT2旗下品牌hibiki](../Page/AKABEiSOFT2.md "wikilink")
-works在2016年4月28日\[1\]發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。是CATION系列的第五部作品\[2\]。
+《**PURELY×CATION**》是[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")旗下品牌hibiki works在2016年4月28日\[1\]發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。是CATION系列的第五部作品\[2\]。
 
 ## 故事簡介
 
@@ -41,11 +40,7 @@ PURELY×CATION在Getchu.com的2016年4月銷量榜上排名第6名\[9\]、全年
 
   - [PURELY×CATION遊戲官網](http://www.hibiki-site.com/purely-cation/)（限日本瀏覽）
 
-[Category:2016年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2016年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
+[Category:2016年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2016年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
 
 1.
 

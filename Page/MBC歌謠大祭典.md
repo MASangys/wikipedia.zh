@@ -2,15 +2,9 @@
 
 ## 歷史沿革
 
-1966年12月2日，爲紀念[MBC創立六週年](https://zh.wikipedia.org/wiki/MBC "wikilink")，於[首爾市民會館舉辦](https://zh.wikipedia.org/wiki/世宗文化會館 "wikilink")《MBC十大歌手藍白戰》（MBC
-10대 가수 청백전），並透過[MBC
-Radio現場直播](https://zh.wikipedia.org/wiki/MBC標準FM "wikilink")。當時節目形式為每年評選十名活躍的歌手，並從中選出一位頒發「十大歌王」（10대
-가수왕）獎項。1969年開通全國無線電視廣播後，節目自1970年2月2日起透過電台及電視同步直播。
+1966年12月2日，爲紀念[MBC創立六週年](https://zh.wikipedia.org/wiki/MBC "wikilink")，於[首爾市民會館舉辦](https://zh.wikipedia.org/wiki/世宗文化會館 "wikilink")《MBC十大歌手藍白戰》（MBC 10대 가수 청백전），並透過[MBC Radio現場直播](https://zh.wikipedia.org/wiki/MBC標準FM "wikilink")。當時節目形式為每年評選十名活躍的歌手，並從中選出一位頒發「十大歌王」（10대 가수왕）獎項。1969年開通全國無線電視廣播後，節目自1970年2月2日起透過電台及電視同步直播。
 
-1974年，節目更名爲《MBC十大歌手歌謠祭》（MBC 10대 가수
-가요제）。1979年，節目原訂於10月27日播出，但由於發生「[10.26事件](../Page/朴正熙遇刺案.md "wikilink")」，節目延遲至12月31日播出，其後每年的播出日期皆為12月31日。1993年至1998年，節目先後更名為《MBC韓國歌謠祭典》（MBC
-한국가요제전）、《MBC韓國歌謠大祭典》（MBC 한국가요대제전）、《MBC歌謠祭典》（MBC
-가요제전），直至1999年起重新更名為《MBC十大歌手歌謠祭》。
+1974年，節目更名爲《MBC十大歌手歌謠祭》（MBC 10대 가수 가요제）。1979年，節目原訂於10月27日播出，但由於發生「[10.26事件](../Page/朴正熙遇刺案.md "wikilink")」，節目延遲至12月31日播出，其後每年的播出日期皆為12月31日。1993年至1998年，節目先後更名為《MBC韓國歌謠祭典》（MBC 한국가요제전）、《MBC韓國歌謠大祭典》（MBC 한국가요대제전）、《MBC歌謠祭典》（MBC 가요제전），直至1999年起重新更名為《MBC十大歌手歌謠祭》。
 
 2005年，節目因部分歌手缺席而更名爲《MBC歌謠大祭典》。自2006年起\[1\]，節目取消頒獎環節，改為匯演形式。自2015年起，出演歌手不再分為藍、白兩隊對賽。
 
@@ -55,8 +49,7 @@ Radio現場直播](https://zh.wikipedia.org/wiki/MBC標準FM "wikilink")。當�
 
   - 特派記者：[朴瑟琪](../Page/朴瑟琪.md "wikilink")
 
-  - 結果：<font color=#1E90FF>藍隊</font> 88,007：75,897
-    （<font color=#1E90FF>藍隊</font>獲勝）
+  - 結果：<font color=#1E90FF>藍隊</font> 88,007：75,897 （<font color=#1E90FF>藍隊</font>獲勝）
 
 <table>
 <thead>
@@ -546,7 +539,7 @@ Moves Like Jagger（原唱：<a href="../Page/魔力紅.md" title="wikilink">魔
 <td><p><a href="../Page/SHINee.md" title="wikilink">SHINee</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/PSY.md" title="wikilink">PSY獨家影片公開</a></p></td>
+<td><p><a href="../Page/PSY.md" title="wikilink">PSY</a>獨家影片公開</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -580,8 +573,7 @@ Moves Like Jagger（原唱：<a href="../Page/魔力紅.md" title="wikilink">魔
 
   - 主持：[鄭埻夏](../Page/鄭埻夏.md "wikilink")、[盧弘喆](../Page/盧弘喆.md "wikilink")
 
-  - 結果：<font color=#1E90FF>藍隊</font> 149,596：125,397
-    （<font color=#1E90FF>藍隊</font>獲勝）
+  - 結果：<font color=#1E90FF>藍隊</font> 149,596：125,397 （<font color=#1E90FF>藍隊</font>獲勝）
 
 <table>
 <thead>
@@ -819,8 +811,7 @@ Moves Like Jagger（原唱：<a href="../Page/魔力紅.md" title="wikilink">魔
 
   - 主持：[金成柱](https://zh.wikipedia.org/wiki/金成柱_\(主持人\) "wikilink")、[惠利](../Page/惠利.md "wikilink")
 
-  - 結果：<font color=#1E90FF>藍隊</font> 77,359：72,897
-    （<font color=#1E90FF>藍隊</font>獲勝）
+  - 結果：<font color=#1E90FF>藍隊</font> 77,359：72,897 （<font color=#1E90FF>藍隊</font>獲勝）
 
 <table>
 <thead>
@@ -2283,7 +2274,7 @@ DNA（原唱：<a href="../Page/防彈少年團.md" title="wikilink">防彈少�
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
 <td><p><a href="../Page/洪真英.md" title="wikilink">洪真英</a></p></td>
-<td><p>GOOD BYE + Ring Ring（<a href="../Page/盧弘喆.md" title="wikilink">盧弘喆伴舞</a>）</p></td>
+<td><p>GOOD BYE + Ring Ring（<a href="../Page/盧弘喆.md" title="wikilink">盧弘喆</a>伴舞）</p></td>
 </tr>
 <tr class="odd">
 <td><p>FANTASIA</p></td>
@@ -2421,10 +2412,7 @@ DNA（原唱：<a href="../Page/防彈少年團.md" title="wikilink">防彈少�
   - [2017年MBC歌謠大祭典](http://www.imbc.com/broad/tv/ent/event/2017mbc/program/music.html)官方網站
   - [2018年MBC歌謠大祭典](http://www.imbc.com/broad/tv/ent/event/2018mbc/gayo/index.html)官方網站
 
-[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink")
-[Category:韓國音樂獎項](https://zh.wikipedia.org/wiki/Category:韓國音樂獎項 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
+[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink") [Category:韓國音樂獎項](https://zh.wikipedia.org/wiki/Category:韓國音樂獎項 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
 
 1.
 

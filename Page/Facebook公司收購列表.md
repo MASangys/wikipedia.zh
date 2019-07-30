@@ -1,4 +1,4 @@
-[Facebook是一家](../Page/Facebook.md "wikilink")[社群網路公司](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")，收購了包括[WhatsApp在內的](../Page/WhatsApp.md "wikilink")50多家公司。WhatsApp以驚人的190億美元被收購；平台每位使用者估值超過40美元。Facebook還在[庭外和解中收購了已停業的ConnectU公司](https://zh.wikipedia.org/wiki/庭外和解 "wikilink")，並獲得了競爭對手[Friendster以前持有的專利](../Page/Friendster.md "wikilink")。Facebook收購的大部分公司都設在美國，而這些公司中的大部分都位於[舊金山灣區或其周圍](../Page/舊金山灣區.md "wikilink")。
+[Facebook](../Page/Facebook.md "wikilink")是一家[社群網路公司](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")，收購了包括[WhatsApp](../Page/WhatsApp.md "wikilink")在內的50多家公司。WhatsApp以驚人的190億美元被收購；平台每位使用者估值超過40美元。Facebook還在[庭外和解中收購了已停業的ConnectU公司](https://zh.wikipedia.org/wiki/庭外和解 "wikilink")，並獲得了競爭對手[Friendster](../Page/Friendster.md "wikilink")以前持有的專利。Facebook收購的大部分公司都設在美國，而這些公司中的大部分都位於[舊金山灣區](../Page/舊金山灣區.md "wikilink")或其周圍。
 
 ## 收購案
 
@@ -80,7 +80,7 @@
 <tr class="odd">
 <td><p>7</p></td>
 <td></td>
-<td><p><a href="../Page/Friendster.md" title="wikilink">Friendster專利</a></p></td>
+<td><p><a href="../Page/Friendster.md" title="wikilink">Friendster</a>專利</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/智慧財產權" title="wikilink">智慧財產權</a>／<a href="https://zh.wikipedia.org/wiki/專利" title="wikilink">專利</a></p></td>
 <td><p><br />
 </p></td>
@@ -242,7 +242,7 @@
 <td><p>23</p></td>
 <td></td>
 <td><p>Strobe</p></td>
-<td><p><a href="../Page/HTML5.md" title="wikilink">HTML5行動應用程式</a></p></td>
+<td><p><a href="../Page/HTML5.md" title="wikilink">HTML5</a>行動應用程式</p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -4,8 +4,7 @@
 
 ### 第一季
 
-  - [李英子](https://zh.wikipedia.org/wiki/李英子 "wikilink")（2007年9月 -
-    2012年8月，2014年6月24日 - 2017年11月1日）
+  - [李英子](https://zh.wikipedia.org/wiki/李英子 "wikilink")（2007年9月 - 2012年8月，2014年6月24日 - 2017年11月1日）
 
 <!-- end list -->
 
@@ -13,11 +12,9 @@
 
   - [孔炯軫](../Page/孔炯軫.md "wikilink")（2009年1月 - 2012年8月）
 
-  - [金九拉](https://zh.wikipedia.org/wiki/金九拉 "wikilink")（2012年9月6日 -
-    2014年5月15日）
+  - [金九拉](https://zh.wikipedia.org/wiki/金九拉 "wikilink")（2012年9月6日 - 2014年5月15日）
 
-  - [全炫茂](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")（2012年10月4日 -
-    2013年7月22日）
+  - [全炫茂](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")（2012年10月4日 - 2013年7月22日）
 
   - [洪銀姬](../Page/洪銀姬.md "wikilink")（2013年8月26日 - 2014年5月15日）
 
@@ -256,7 +253,7 @@
 <td><p>29</p></td>
 <td><p>4月3日</p></td>
 <td></td>
-<td><p><a href="../Page/济州岛.md" title="wikilink">济州岛篇</a></p></td>
+<td><p><a href="../Page/济州岛.md" title="wikilink">济州岛</a>篇</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -445,7 +442,7 @@
 <td><p>56</p></td>
 <td><p>10月9日</p></td>
 <td></td>
-<td><p><a href="../Page/崔真實.md" title="wikilink">崔真實追悼特辑</a></p></td>
+<td><p><a href="../Page/崔真實.md" title="wikilink">崔真實</a>追悼特辑</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -832,7 +829,7 @@
 <td><p>109</p></td>
 <td><p>10月15日</p></td>
 <td></td>
-<td><p><a href="../Page/釜山國際電影節.md" title="wikilink">釜山國際電影節特辑</a></p></td>
+<td><p><a href="../Page/釜山國際電影節.md" title="wikilink">釜山國際電影節</a>特辑</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -874,7 +871,7 @@
 <td><p>115</p></td>
 <td><p>11月26日</p></td>
 <td></td>
-<td><p>2009年全年企划<a href="../Page/全羅北道.md" title="wikilink">全羅北道特辑</a></p></td>
+<td><p>2009年全年企划<a href="../Page/全羅北道.md" title="wikilink">全羅北道</a>特辑</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -980,7 +977,7 @@
 <tr class="even">
 <td><p>128</p></td>
 <td><p>2月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭斗彥" title="wikilink">鄭斗彥</a>、<a href="../Page/李京進.md" title="wikilink">李京進</a>、<a href="../Page/池珍熙.md" title="wikilink">池珍熙</a>、<a href="../Page/李鐘赫.md" title="wikilink">李鐘赫</a></p></td>
+<td><p><a href="../Page/鄭斗彥.md" title="wikilink">鄭斗彥</a>、<a href="../Page/李京進.md" title="wikilink">李京進</a>、<a href="../Page/池珍熙.md" title="wikilink">池珍熙</a>、<a href="../Page/李鐘赫.md" title="wikilink">李鐘赫</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1571,7 +1568,7 @@
 <tr class="even">
 <td><p>210</p></td>
 <td><p>9月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/尹怡正" title="wikilink">尹怡正</a> (<a href="../Page/尹度玹.md" title="wikilink">尹度玹女儿</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尹怡正" title="wikilink">尹怡正</a> (<a href="../Page/尹度玹.md" title="wikilink">尹度玹</a>女儿)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2150,7 +2147,7 @@
 <tr class="even">
 <td><p>299</p></td>
 <td><p>7月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/玉澤演" title="wikilink">玉澤演</a> (<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a>)、<a href="../Page/蘇怡賢.md" title="wikilink">蘇怡賢</a></p></td>
+<td><p><a href="../Page/玉澤演.md" title="wikilink">玉澤演</a> (<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a>)、<a href="../Page/蘇怡賢.md" title="wikilink">蘇怡賢</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3362,7 +3359,7 @@
 <tr class="odd">
 <td><p>491</p></td>
 <td><p>8月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/玉澤演" title="wikilink">玉澤演</a>、<a href="../Page/趙成夏.md" title="wikilink">趙成夏</a>、<a href="../Page/趙在允.md" title="wikilink">趙在允</a></p></td>
+<td><p><a href="../Page/玉澤演.md" title="wikilink">玉澤演</a>、<a href="../Page/趙成夏.md" title="wikilink">趙成夏</a>、<a href="../Page/趙在允.md" title="wikilink">趙在允</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3485,9 +3482,7 @@ TAXI in L.A</p></td>
 
 [現場脫口秀Taxi](http://program.interest.me/tvn/taxi/) - 官方网站
 
-[Category:TvN深夜節目](https://zh.wikipedia.org/wiki/Category:TvN深夜節目 "wikilink")
-[Category:韩国电视节目](https://zh.wikipedia.org/wiki/Category:韩国电视节目 "wikilink")
-[Category:韩国综艺节目](https://zh.wikipedia.org/wiki/Category:韩国综艺节目 "wikilink")
+[Category:TvN深夜節目](https://zh.wikipedia.org/wiki/Category:TvN深夜節目 "wikilink") [Category:韩国电视节目](https://zh.wikipedia.org/wiki/Category:韩国电视节目 "wikilink") [Category:韩国综艺节目](https://zh.wikipedia.org/wiki/Category:韩国综艺节目 "wikilink")
 
 1.
 2.

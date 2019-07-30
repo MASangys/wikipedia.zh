@@ -1,6 +1,4 @@
-《**Big Show
-2010**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG演唱會Big](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")
-Show系列的第二場演出，於2010年1月29日起至31日在[首爾奧林匹克體操競技場連續舉辦共](../Page/首尔奥林匹克体操竞技场.md "wikilink")3場的演唱會，這場演出所屬經紀公司[YG娛樂表示](../Page/YG娛樂.md "wikilink")，將帶來與以往演唱會不同的舞臺設置、音樂、服裝及視覺效果，並首次邀請樂團同臺演出。\[1\]
+《**Big Show 2010**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG演唱會Big](https://zh.wikipedia.org/wiki/BIGBANG "wikilink") Show系列的第二場演出，於2010年1月29日起至31日在[首爾奧林匹克體操競技場連續舉辦共](../Page/首尔奥林匹克体操竞技场.md "wikilink")3場的演唱會，這場演出所屬經紀公司[YG娛樂](../Page/YG娛樂.md "wikilink")表示，將帶來與以往演唱會不同的舞臺設置、音樂、服裝及視覺效果，並首次邀請樂團同臺演出。\[1\]
 
 ## 嘉賓
 
@@ -109,9 +107,7 @@ Show系列的第二場演出，於2010年1月29日起至31日在[首爾奧林匹
 
   -
 
-[Category:BIGBANG巡迴演唱會](https://zh.wikipedia.org/wiki/Category:BIGBANG巡迴演唱會 "wikilink")
-[Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink")
-[Category:2010年演唱會](https://zh.wikipedia.org/wiki/Category:2010年演唱會 "wikilink")
+[Category:BIGBANG巡迴演唱會](https://zh.wikipedia.org/wiki/Category:BIGBANG巡迴演唱會 "wikilink") [Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink") [Category:2010年演唱會](https://zh.wikipedia.org/wiki/Category:2010年演唱會 "wikilink")
 
 1.
 

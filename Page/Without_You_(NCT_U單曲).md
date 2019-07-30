@@ -1,6 +1,4 @@
-《**Without
-You**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[NCT
-U的第二張數位單曲](../Page/NCT.md "wikilink")，由[SM娛樂製作](../Page/SM娛樂.md "wikilink")，KT音樂發行，於2016年4月10日發行。
+《**Without You**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[NCT U的第二張數位單曲](../Page/NCT.md "wikilink")，由[SM娛樂](../Page/SM娛樂.md "wikilink")製作，KT音樂發行，於2016年4月10日發行。
 
 ## 簡介
 
@@ -12,8 +10,7 @@ U的第二張數位單曲](../Page/NCT.md "wikilink")，由[SM娛樂製作](../P
 ### 正式發行
 
   - 2016年4月10日，公開音源和[MV](https://www.youtube.com/watch?v=y6OcvS54KYQ)。
-  - 2016年4月15日，在《[Music
-    Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》正式出道。
+  - 2016年4月15日，在《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》正式出道。
 
 ## 曲目
 
@@ -59,5 +56,4 @@ U的第二張數位單曲](../Page/NCT.md "wikilink")，由[SM娛樂製作](../P
   -
   -
   -
-[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink")
-[Category:NCT](https://zh.wikipedia.org/wiki/Category:NCT "wikilink")
+[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink") [Category:NCT](https://zh.wikipedia.org/wiki/Category:NCT "wikilink")

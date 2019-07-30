@@ -1,32 +1,22 @@
-《**Time For The Moon
-Night**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND的第六張迷你專輯](../Page/GFRIEND.md "wikilink")，由[Source
-Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，[kakao
-M發行](https://zh.wikipedia.org/wiki/kakao_M "wikilink")，於2018年4月30日推出，《Time
-for the Moon Night (밤)》是其同名主打歌。
+《**Time For The Moon Night**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的第六張迷你專輯，由[Source Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，[kakao M發行](https://zh.wikipedia.org/wiki/kakao_M "wikilink")，於2018年4月30日推出，《Time for the Moon Night (밤)》是其同名主打歌。
 
 ## 主打歌介紹
 
-主打歌《Time for the moon
-night》是一首在[日本](../Page/日本.md "wikilink")[大阪作詞作曲編曲的歌](https://zh.wikipedia.org/wiki/大阪 "wikilink")，描述讓少女們的感性變得豐富的夜晚、凌晨的時間的歌曲，雖然偏向感性，但十分悲傷，將少女們對MV中死去的舊朋友的思念，完整表達出來，透過新曲讓大家看到[GFRIEND變得更廣闊的音樂性與概念背景](../Page/GFRIEND.md "wikilink")。\[1\]亦有人懷疑這首歌是諷刺[世越號海難後](https://zh.wikipedia.org/wiki/世越號 "wikilink")[韓國政府不立刻進行救援而導致有更多人罹難](https://zh.wikipedia.org/wiki/韓國 "wikilink")，而銀河是其中罹難者之一的這個說法，但是官方仍未證實。
+主打歌《Time for the moon night》是一首在[日本](../Page/日本.md "wikilink")[大阪作詞作曲編曲的歌](https://zh.wikipedia.org/wiki/大阪 "wikilink")，描述讓少女們的感性變得豐富的夜晚、凌晨的時間的歌曲，雖然偏向感性，但十分悲傷，將少女們對MV中死去的舊朋友的思念，完整表達出來，透過新曲讓大家看到[GFRIEND](../Page/GFRIEND.md "wikilink")變得更廣闊的音樂性與概念背景。\[1\]亦有人懷疑這首歌是諷刺[世越號海難後](https://zh.wikipedia.org/wiki/世越號 "wikilink")[韓國政府不立刻進行救援而導致有更多人罹難](https://zh.wikipedia.org/wiki/韓國 "wikilink")，而銀河是其中罹難者之一的這個說法，但是官方仍未證實。
 
 ## 事件
 
 ### 宣傳照公開
 
-2018年4月16日，透過官方 Facebook 宣佈將於4月30日將發行第六張迷你專輯《Time For The Moon
-Night》\[2\]\[3\]，並公開了完整回歸行程表，公開的行程表中，可以看到 GFRIEND 將會陸續釋出概念照、曲目表、MV
-預告、音源試聽… 等。\[4\]
+2018年4月16日，透過官方 Facebook 宣佈將於4月30日將發行第六張迷你專輯《Time For The Moon Night》\[2\]\[3\]，並公開了完整回歸行程表，公開的行程表中，可以看到 GFRIEND 將會陸續釋出概念照、曲目表、MV 預告、音源試聽… 等。\[4\]
 
-4月17日，透過官方 Facebook
-公開預告照。公開的照片中，以布滿星星的夜空為背景，並印上[GFRIEND的新LOGO以及新專輯名](../Page/GFRIEND.md "wikilink")，特別的是，星空中畫出獅子座、雙子座、天秤座、射手座等成員們所屬的星座，相當夢幻，也令人更加好奇這次的新曲概念。\[5\]
+4月17日，透過官方 Facebook 公開預告照。公開的照片中，以布滿星星的夜空為背景，並印上[GFRIEND](../Page/GFRIEND.md "wikilink")的新LOGO以及新專輯名，特別的是，星空中畫出獅子座、雙子座、天秤座、射手座等成員們所屬的星座，相當夢幻，也令人更加好奇這次的新曲概念。\[5\]
 
-4月18日，公開團體及個人概念照版本一。專輯名稱「Time For The Moon
-Night」具有「月夜的時間」、「賞月的時間」等意義，而[GFRIEND則以自身的感性將其重新詮釋為](../Page/GFRIEND.md "wikilink")「想起所愛之人的時間」、「變得多愁善感的時間」。在公開的概念照中，[GFRIEND](../Page/GFRIEND.md "wikilink")
-的6位成員以夜空般的深藍色布景為背景，手裡拿著氣球、提燈等道具，各自展現出宛如精靈般夢幻而神秘的面貌。\[6\]
+4月18日，公開團體及個人概念照版本一。專輯名稱「Time For The Moon Night」具有「月夜的時間」、「賞月的時間」等意義，而[GFRIEND](../Page/GFRIEND.md "wikilink")則以自身的感性將其重新詮釋為「想起所愛之人的時間」、「變得多愁善感的時間」。在公開的概念照中，[GFRIEND](../Page/GFRIEND.md "wikilink") 的6位成員以夜空般的深藍色布景為背景，手裡拿著氣球、提燈等道具，各自展現出宛如精靈般夢幻而神秘的面貌。\[6\]
 
 4月19日，公開了專輯曲目表。\[7\]
 
-4月20日，公開團體及個人概念照版本二。公開的照片中，配合新曲概念，成員們化身成尋找愛情的偵探，隊長[Sowon黑白色系的裙裝](../Page/Sowon.md "wikilink")，[SinB完美消化橘色的捲髮](../Page/SinB.md "wikilink")，[Umji一頭長捲髮](../Page/Umji.md "wikilink")，[Yerin穿上露肚裝](../Page/Yerin.md "wikilink")，[Yuju展現燦爛笑容](../Page/Yuju.md "wikilink")，[Eunha則穿著黑色外套](../Page/Eunha.md "wikilink")，各自展現不同的魅力。\[8\]
+4月20日，公開團體及個人概念照版本二。公開的照片中，配合新曲概念，成員們化身成尋找愛情的偵探，隊長[Sowon](../Page/Sowon.md "wikilink")黑白色系的裙裝，[SinB](../Page/SinB.md "wikilink")完美消化橘色的捲髮，[Umji](../Page/Umji.md "wikilink")一頭長捲髮，[Yerin](../Page/Yerin.md "wikilink")穿上露肚裝，[Yuju](../Page/Yuju.md "wikilink")展現燦爛笑容，[Eunha](../Page/Eunha.md "wikilink")則穿著黑色外套，各自展現不同的魅力。\[8\]
 
 4月25日，公開團體及個人概念照版本三。公開的照片已佈滿星星的夜空為背景，成員們穿著粉、藍色系的洋裝，散發優雅夢幻的氣息。\[9\]
 
@@ -34,57 +24,39 @@ Night」具有「月夜的時間」、「賞月的時間」等意義，而[GFRIE
 
 ### 預告片公開
 
-4月24日，韓國時間凌晨0時公開專輯同名主打歌《[Time for the moon night
-(밤)](../Page/Time_For_The_Moon_Night.md "wikilink")》的首波 MV
-預告。在預告影片中，伴隨著專輯序幕曲《[DAYTIME](../Page/Time_For_The_Moon_Night.md "wikilink")》的旋律，公開了[GFRIEND](../Page/GFRIEND.md "wikilink")
-6位成員各自在一天的不同時間點的樣子。像是在夕陽西下時等待著某個人的[SinB](../Page/SinB.md "wikilink")、在藍天下玩著紙飛機的[Umji](../Page/Umji.md "wikilink")、抱著花瓶登山的[Yuju](../Page/Yuju.md "wikilink")、看著魚缸陷入思考的[Eunha](../Page/Eunha.md "wikilink")、獨自坐在房間裡的[Yerin](../Page/Yerin.md "wikilink")，以及以華麗的夜景為背景，露出哀傷眼神的[Sowon](../Page/Sowon.md "wikilink")。\[11\]
+4月24日，韓國時間凌晨0時公開專輯同名主打歌《[Time for the moon night (밤)](../Page/Time_For_The_Moon_Night.md "wikilink")》的首波 MV 預告。在預告影片中，伴隨著專輯序幕曲《[DAYTIME](../Page/Time_For_The_Moon_Night.md "wikilink")》的旋律，公開了[GFRIEND](../Page/GFRIEND.md "wikilink") 6位成員各自在一天的不同時間點的樣子。像是在夕陽西下時等待著某個人的[SinB](../Page/SinB.md "wikilink")、在藍天下玩著紙飛機的[Umji](../Page/Umji.md "wikilink")、抱著花瓶登山的[Yuju](../Page/Yuju.md "wikilink")、看著魚缸陷入思考的[Eunha](../Page/Eunha.md "wikilink")、獨自坐在房間裡的[Yerin](../Page/Yerin.md "wikilink")，以及以華麗的夜景為背景，露出哀傷眼神的[Sowon](../Page/Sowon.md "wikilink")。\[11\]
 
-4月27日，透過官方 YouTube 頻道公開音源試聽影片。公開的影片以許多未公開的概念照為背景，這次的專輯包含主打歌《[Time for
-the Moon Night
-(밤)](../Page/Time_For_The_Moon_Night.md "wikilink")》在內，共收錄八首歌曲，《[Time
-for the moon
-night](../Page/Time_For_The_Moon_Night.md "wikilink")》歌詞講述讓女孩們充滿感性的夜晚，其他收錄曲也都各自有著不同的魅力。\[12\]
+4月27日，透過官方 YouTube 頻道公開音源試聽影片。公開的影片以許多未公開的概念照為背景，這次的專輯包含主打歌《[Time for the Moon Night (밤)](../Page/Time_For_The_Moon_Night.md "wikilink")》在內，共收錄八首歌曲，《[Time for the moon night](../Page/Time_For_The_Moon_Night.md "wikilink")》歌詞講述讓女孩們充滿感性的夜晚，其他收錄曲也都各自有著不同的魅力。\[12\]
 
-4月29日，透過官方 YouTube 頻道公開第二波 MV
-預告。公開的影像中，[Eunha獨自走在荒涼的郊外](../Page/Eunha.md "wikilink")，一回頭就看到其他[GFRIEND成員露出微笑地看著她](../Page/GFRIEND.md "wikilink")，表達出比起自己一個，與朋友們在一起時更幸福的感情，而隨著節奏愈來愈快，可以看到[GFRIEND特有的編舞](../Page/GFRIEND.md "wikilink")，複雜的動作但卻十分整齊。\[13\]
+4月29日，透過官方 YouTube 頻道公開第二波 MV 預告。公開的影像中，[Eunha](../Page/Eunha.md "wikilink")獨自走在荒涼的郊外，一回頭就看到其他[GFRIEND](../Page/GFRIEND.md "wikilink")成員露出微笑地看著她，表達出比起自己一個，與朋友們在一起時更幸福的感情，而隨著節奏愈來愈快，可以看到[GFRIEND](../Page/GFRIEND.md "wikilink")特有的編舞，複雜的動作但卻十分整齊。\[13\]
 
 ### MV公開
 
-4月30日，透過官方 YouTube 頻道公開《Time for the moon night (밤)》MV。在 MV
-中，成員們演出了比起白天時獨自一人，晚上聚在一起時更加愉快的樣子，展現了夜晚的另一種樣貌\[14\]。觀看次數於5月3日韓國時間中午12點左右突破1000萬，達成公開66小時突破千萬點擊的佳績。\[15\]
+4月30日，透過官方 YouTube 頻道公開《Time for the moon night (밤)》MV。在 MV 中，成員們演出了比起白天時獨自一人，晚上聚在一起時更加愉快的樣子，展現了夜晚的另一種樣貌\[14\]。觀看次數於5月3日韓國時間中午12點左右突破1000萬，達成公開66小時突破千萬點擊的佳績。\[15\]
 
-美國 Billboard (告示牌) 世界專輯榜公開5月9日的週榜單 ，《Time For The Moon Night
-》獲得第6名。\[16\]
+美國 Billboard (告示牌) 世界專輯榜公開5月9日的週榜單 ，《Time For The Moon Night 》獲得第6名。\[16\]
 
-韓國音樂排行榜 Gaon Chart 5月10日公佈了今年第十八週 (4/29 - 5/5) 的榜單，GFRIEND 的〈Time for
-the Moon Night〉在專輯、下載以及社群綁上也都拿下了第一名。除此之外，同名主打歌也是下載綜合和社群榜的冠軍得主。\[17\]
+韓國音樂排行榜 Gaon Chart 5月10日公佈了今年第十八週 (4/29 - 5/5) 的榜單，GFRIEND 的〈Time for the Moon Night〉在專輯、下載以及社群綁上也都拿下了第一名。除此之外，同名主打歌也是下載綜合和社群榜的冠軍得主。\[17\]
 
 ### 獲得10個一位
 
-5月8日於《[THE
-SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》中以9,630分獲得**第一個一位**。
+5月8日於《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》中以9,630分獲得**第一個一位**。
 
 5月9日於《[Show Champion](../Page/Show_Champion.md "wikilink")》中獲得**第二個一位**。
 
-5月10日於《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中以10,700分獲得**第三個一位**。
+5月10日於《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中以10,700分獲得**第三個一位**。
 
-5月11日於《[Music
-Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》中以8,690分獲得**第四個一位**。
+5月11日於《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》中以8,690分獲得**第四個一位**。
 
-5月12日於《[Show\!
-音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》中以8,842分獲得**第五個一位**。
+5月12日於《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》中以8,842分獲得**第五個一位**。
 
 5月13日於《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》中以8,811分獲得**第六個一位**。
 
-5月16日於《[Show
-Champion](../Page/Show_Champion.md "wikilink")》中獲得**第七個一位**。
+5月16日於《[Show Champion](../Page/Show_Champion.md "wikilink")》中獲得**第七個一位**。
 
-5月18日於《[Music
-Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》中以6,154分獲得**第八個一位**。
+5月18日於《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》中以6,154分獲得**第八個一位**。
 
-5月19日於《[Show\!
-音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》中以7,872分獲得**第九個一位**。
+5月19日於《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》中以7,872分獲得**第九個一位**。
 
 5月20日於《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》中以6,972分獲得**第十個一位**。
 
@@ -92,12 +64,7 @@ Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》中以6,154分獲�
 
 ## 曲目
 
-《Time for the Moon Night》共收錄了不同曲風的8首歌曲，除了專輯同名主打歌《Time for the Moon Night
-(밤)》之外，專輯中還收錄了表現春天的溫暖氣息與 GFRIEND 的清新午後時光的序幕曲《INTRO
-(DAYTIME)》、以昆蟲來比喻陷入愛情的心情的《LOVE BUG》、具有 GFRIEND
-特有的童話氛圍的《FLOWER GARDEN (휘리휘리)》、歌詞有趣的 Nudisco 風歌曲《TIK TIK
-(틱틱)》、唱出離別之痛的抒情曲《BYE》、描寫了成員們在舞台上與粉絲們視線交會的瞬間，向粉絲們傳達心意的歌曲《YOU
-ARE MY STAR (별)》，以及《Time for the Moon Night》的純音樂版本等以「夜晚」為主題的歌曲。
+《Time for the Moon Night》共收錄了不同曲風的8首歌曲，除了專輯同名主打歌《Time for the Moon Night (밤)》之外，專輯中還收錄了表現春天的溫暖氣息與 GFRIEND 的清新午後時光的序幕曲《INTRO (DAYTIME)》、以昆蟲來比喻陷入愛情的心情的《LOVE BUG》、具有 GFRIEND 特有的童話氛圍的《FLOWER GARDEN (휘리휘리)》、歌詞有趣的 Nudisco 風歌曲《TIK TIK (틱틱)》、唱出離別之痛的抒情曲《BYE》、描寫了成員們在舞台上與粉絲們視線交會的瞬間，向粉絲們傳達心意的歌曲《YOU ARE MY STAR (별)》，以及《Time for the Moon Night》的純音樂版本等以「夜晚」為主題的歌曲。
 
 <small>\***粗體**為主打曲、*斜體*為第二主打曲</small>
 
@@ -187,7 +154,7 @@ ARE MY STAR (별)》，以及《Time for the Moon Night》的純音樂版本等�
 </tbody>
 </table>
 
-## 韓國音源榜
+## 音源成績
 
 | 排行榜（2018年） | 〈밤 (Time For The Moon Night)〉最高名次 |
 | ---------- | --------------------------------- |
@@ -218,11 +185,7 @@ ARE MY STAR (별)》，以及《Time for the Moon Night》的純音樂版本等�
 
 ## 參考資料
 
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:GFRIEND音乐专辑](https://zh.wikipedia.org/wiki/Category:GFRIEND音乐专辑 "wikilink")
-[Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink")
-[Category:2018年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon數位下載週榜冠軍作品 "wikilink")
-[Category:2018年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:GFRIEND音乐专辑](https://zh.wikipedia.org/wiki/Category:GFRIEND音乐专辑 "wikilink") [Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink") [Category:2018年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2018年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

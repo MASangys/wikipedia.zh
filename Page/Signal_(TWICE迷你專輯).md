@@ -1,17 +1,12 @@
-《**SIGNAL**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE的第四張韓語迷你專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")。由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，[Genie音樂發行](../Page/Genie音樂.md "wikilink")，於2017年5月15日推出。同名主打歌曲〈SIGNAL〉，由[朴軫永製作](../Page/朴軫永.md "wikilink")。
+《**SIGNAL**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE的第四張韓語迷你專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")。由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，[Genie音樂](../Page/Genie音樂.md "wikilink")發行，於2017年5月15日推出。同名主打歌曲〈SIGNAL〉，由[朴軫永](../Page/朴軫永.md "wikilink")製作。
 
 ## 背景
 
-2017年5月1日，[JYP娛樂釋出第一張團體概念照](../Page/JYP娛樂.md "wikilink")，正式公布將於15日攜第四張韓語迷你專輯回歸\[1\]。翌日釋出行程表，並陸續公開成員個人概念照、專輯配置、MV預告等資訊。此外，還公佈將於6月17日、18日在首爾蠶室室內體育館舉行《[TWICELAND
-- The Opening
--](../Page/TWICELAND_-_The_Opening_-.md "wikilink")》的安可演唱會，為6月底的日本正式出道預熱\[2\]。
+2017年5月1日，[JYP娛樂](../Page/JYP娛樂.md "wikilink")釋出第一張團體概念照，正式公布將於15日攜第四張韓語迷你專輯回歸\[1\]。翌日釋出行程表，並陸續公開成員個人概念照、專輯配置、MV預告等資訊。此外，還公佈將於6月17日、18日在首爾蠶室室內體育館舉行《[TWICELAND - The Opening -](../Page/TWICELAND_-_The_Opening_-.md "wikilink")》的安可演唱會，為6月底的日本正式出道預熱\[2\]。
 
 ## 概要
 
-此次專輯《SIGNAL》以迷你專輯形式推出，共收錄6首新曲，其中收錄曲〈EYE EYE
-EYES〉為成員[志效及](../Page/志效.md "wikilink")[彩瑛首次參與整首歌曲的歌詞創作](../Page/彩瑛.md "wikilink")。
-參與出道前生存戰《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》成員的選拔過程，對TWICE的色彩、成員個性最為理解的[朴軫永擔任主打歌曲的總製作人是本張迷你專輯的關注重點](../Page/朴軫永.md "wikilink")。專輯同名歌曲〈SIGNAL〉為出道以來首次由[朴軫永親自操刀的主打歌曲](../Page/朴軫永.md "wikilink")，歌曲風格有別於以往的主打曲，以強而有力的808
-Bass嘻哈節奏配上輕快的電子樂器，呈現出具TWICE色彩的全新風貌。
+此次專輯《SIGNAL》以迷你專輯形式推出，共收錄6首新曲，其中收錄曲〈EYE EYE EYES〉為成員[志效](../Page/志效.md "wikilink")及[彩瑛](../Page/彩瑛.md "wikilink")首次參與整首歌曲的歌詞創作。 參與出道前生存戰《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》成員的選拔過程，對TWICE的色彩、成員個性最為理解的[朴軫永](../Page/朴軫永.md "wikilink")擔任主打歌曲的總製作人是本張迷你專輯的關注重點。專輯同名歌曲〈SIGNAL〉為出道以來首次由[朴軫永](../Page/朴軫永.md "wikilink")親自操刀的主打歌曲，歌曲風格有別於以往的主打曲，以強而有力的808 Bass嘻哈節奏配上輕快的電子樂器，呈現出具TWICE色彩的全新風貌。
 
 ### 音樂錄影帶
 
@@ -323,14 +318,7 @@ Bass嘻哈節奏配上輕快的電子樂器，呈現出具TWICE色彩的全新�
 
 ## 參考資料
 
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink")
-[Category:TWICE音樂專輯](https://zh.wikipedia.org/wiki/Category:TWICE音樂專輯 "wikilink")
-[Category:2017年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2017年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon數位下載週榜冠軍作品 "wikilink")
-[Category:2017年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2017年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon流媒體週榜冠軍作品 "wikilink")
-[Category:2017年Gaon流媒體月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon流媒體月榜冠軍作品 "wikilink")
+[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink") [Category:TWICE音樂專輯](https://zh.wikipedia.org/wiki/Category:TWICE音樂專輯 "wikilink") [Category:2017年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon單曲週榜冠軍作品 "wikilink") [Category:2017年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2017年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon專輯週榜冠軍作品 "wikilink") [Category:2017年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon流媒體週榜冠軍作品 "wikilink") [Category:2017年Gaon流媒體月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon流媒體月榜冠軍作品 "wikilink")
 
 1.
 2.
@@ -346,6 +334,4 @@ Bass嘻哈節奏配上輕快的電子樂器，呈現出具TWICE色彩的全新�
 12. 因為無法控制力道，可以把人撞飛幾十米。
 13.
 14.
-15. \[
-    <http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=month>
-    2017年10月GAON專輯榜52位\]
+15. \[ <http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=month> 2017年10月GAON專輯榜52位\]

@@ -1,13 +1,4 @@
-**HTC
-U12+**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2018年開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，運行[Android
-8.0.0操作系统](../Page/Android_Oreo.md "wikilink")，支援 4G＋4G
-雙卡雙待（三選二卡槽），同級競品為[Samsung Galaxy
-S9/S9+](../Page/三星Galaxy_S9.md "wikilink")、[Sony Xperia
-XZ2](../Page/Sony_Xperia_XZ2.md "wikilink")/[XZ2
-Premium](../Page/Sony_Xperia_XZ2_Premium.md "wikilink")、[Asus ZenFone
-5Z](../Page/華碩ZenFone_5_\(2018年\).md "wikilink")、[LG G7
-ThinQ](../Page/LG_G7_ThinQ.md "wikilink")、[LG V35
-ThinQ](https://zh.wikipedia.org/wiki/LG_V35_ThinQ "wikilink")。\[1\]\[2\]
+**HTC U12+**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2018年開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，運行[Android 8.0.0操作系统](../Page/Android_Oreo.md "wikilink")，支援 4G＋4G 雙卡雙待（三選二卡槽），同級競品為[Samsung Galaxy S9/S9+](../Page/三星Galaxy_S9.md "wikilink")、[Sony Xperia XZ2](../Page/Sony_Xperia_XZ2.md "wikilink")/[XZ2 Premium](../Page/Sony_Xperia_XZ2_Premium.md "wikilink")、[Asus ZenFone 5Z](../Page/華碩ZenFone_5_\(2018年\).md "wikilink")、[LG G7 ThinQ](../Page/LG_G7_ThinQ.md "wikilink")、[LG V35 ThinQ](https://zh.wikipedia.org/wiki/LG_V35_ThinQ "wikilink")。\[1\]\[2\]
 
 ## 詳細規格
 
@@ -106,7 +97,7 @@ ThinQ](https://zh.wikipedia.org/wiki/LG_V35_ThinQ "wikilink")。\[1\]\[2\]
 </tr>
 <tr class="odd">
 <td><p>顏色</p></td>
-<td><p><font color="black">■</font>陶瓷黑、<font color="purple">■</font>火艷紅、<font color="#00008b">■</font>透視藍、<font color="black">■</font>黑色基底<a href="../Page/五月天.md" title="wikilink">五月天聯名特仕版</a></p></td>
+<td><p><font color="black">■</font>陶瓷黑、<font color="purple">■</font>火艷紅、<font color="#00008b">■</font>透視藍、<font color="black">■</font>黑色基底<a href="../Page/五月天.md" title="wikilink">五月天</a>聯名特仕版</p></td>
 </tr>
 <tr class="even">
 <td><p>感應</p></td>
@@ -131,40 +122,27 @@ ThinQ](https://zh.wikipedia.org/wiki/LG_V35_ThinQ "wikilink")。\[1\]\[2\]
 
 ### 外型
 
-本次又延續U系列的Liquid
-Surface設計風格，但技術升級，過往如U11的3D玻璃受限於製造技術，邊緣的外擴幅度較大，這次U12+的3D玻璃利用冷加工技術，讓3D玻璃的邊緣彎折幅度更大，相較於U11邊界向內縮了1.2mm，讓手機擁有超窄邊框。新色系如延續頗具特色的半透視背蓋結合U11廣受歡迎的炫藍銀色彩，衍生出能夠透視內部元件的透視藍。基於前代艷陽紅基礎上火艷紅除了原有的橘色、金色色彩變化外，整體色澤改成紫紅色，成為市面上獨一無二的色彩背蓋。
+本次又延續U系列的Liquid Surface設計風格，但技術升級，過往如U11的3D玻璃受限於製造技術，邊緣的外擴幅度較大，這次U12+的3D玻璃利用冷加工技術，讓3D玻璃的邊緣彎折幅度更大，相較於U11邊界向內縮了1.2mm，讓手機擁有超窄邊框。新色系如延續頗具特色的半透視背蓋結合U11廣受歡迎的炫藍銀色彩，衍生出能夠透視內部元件的透視藍。基於前代艷陽紅基礎上火艷紅除了原有的橘色、金色色彩變化外，整體色澤改成紫紅色，成為市面上獨一無二的色彩背蓋。
 
 ### Edge Sense 2
 
-新增單手模式，輕點側框兩下即可啟用，且具有智能感測左手或右手操作。新增固定螢幕模式，感測手掌輕握即鎖定螢幕方向，因應使用者習慣，於使用者側躺時螢幕不會亂轉，而是會隨著觀看角度適當旋轉，螢幕亦不會因設定時間而關閉。前代的短壓、長壓與側框啟動功能亦保留，並支援Google
-Play上百萬個應用程式使用，Edge Sense 2 也支援更多握感功能，並且一樣保留了 Edge Launcher 功能。
+新增單手模式，輕點側框兩下即可啟用，且具有智能感測左手或右手操作。新增固定螢幕模式，感測手掌輕握即鎖定螢幕方向，因應使用者習慣，於使用者側躺時螢幕不會亂轉，而是會隨著觀看角度適當旋轉，螢幕亦不會因設定時間而關閉。前代的短壓、長壓與側框啟動功能亦保留，並支援Google Play上百萬個應用程式使用，Edge Sense 2 也支援更多握感功能，並且一樣保留了 Edge Launcher 功能。
 
 ### 一體成型機框
 
-U12+為世界上第一隻全機沒有物理按鍵的手機，取而代之是於機框一體成型的音量鍵與電源鍵。過往需於機框先挖洞在裝上物理按鍵被Edge
-Sense2功能取代，讓防水性更佳外也不再有物理按鍵損壞問題，電源鍵有特殊造型提供使用者不需用肉眼即可辨識，電源鍵與音量鍵提供震動回饋取代物理按壓感。
+U12+為世界上第一隻全機沒有物理按鍵的手機，取而代之是於機框一體成型的音量鍵與電源鍵。過往需於機框先挖洞在裝上物理按鍵被Edge Sense2功能取代，讓防水性更佳外也不再有物理按鍵損壞問題，電源鍵有特殊造型提供使用者不需用肉眼即可辨識，電源鍵與音量鍵提供震動回饋取代物理按壓感。
 
 ### 前後四鏡頭
 
-獲得DxOMark評價103分，為當今（2018年10月）第三高分手機鏡頭，僅次於\[Apple iPhone XS
-Max\]\]三主鏡頭手機，為雙主鏡頭手機最高分。主鏡頭採用1200萬像素UltraPixel™
-4鏡頭加1600萬像素望遠鏡頭，提供2倍光學變焦與10倍數位變焦。UltraSpeed
-2對焦系統採用相位對焦加上雷射對焦系統，主鏡頭並支援拍照光學防手震(OIS)與錄影電子防手震(EIS)功能，提供錄影4K(60fps)與1080P(240fps)功能，機身4個麥克風帶來360度收音效果。
+獲得DxOMark評價103分，為當今（2018年10月）第三高分手機鏡頭，僅次於\[Apple iPhone XS Max\]\]三主鏡頭手機，為雙主鏡頭手機最高分。主鏡頭採用1200萬像素UltraPixel™ 4鏡頭加1600萬像素望遠鏡頭，提供2倍光學變焦與10倍數位變焦。UltraSpeed 2對焦系統採用相位對焦加上雷射對焦系統，主鏡頭並支援拍照光學防手震(OIS)與錄影電子防手震(EIS)功能，提供錄影4K(60fps)與1080P(240fps)功能，機身4個麥克風帶來360度收音效果。
 
-U12+獨家Sonic
-Zoom聚焦收音有兩種功能，前者讓手機在拍攝影片的過程中，可以收到來自四面八方的環境音，後者則是在啟用之後，可以依照拍攝聲音的方向聚焦收音，比
-HTC U11的收音音量提升60%、整體收音效果提升 33%。而且整個過程多了Audio Boost的功能，按一下就可提昇收音的音量，「Auto
-Zoom」提供電影級平順縮放鏡頭功能，用戶可輕推相機介面上的變焦推桿，單手進行更順暢的變焦功能，不須透過兩指縮放的方式變焦，以往 U
-系列手機就加入的 Sonic Zoom 功能（錄影時可隨著變焦放大遠方的聲音），在 U12+ 上音量提高
-60%、聲音聚焦能力提昇 33%
+U12+獨家Sonic Zoom聚焦收音有兩種功能，前者讓手機在拍攝影片的過程中，可以收到來自四面八方的環境音，後者則是在啟用之後，可以依照拍攝聲音的方向聚焦收音，比 HTC U11的收音音量提升60%、整體收音效果提升 33%。而且整個過程多了Audio Boost的功能，按一下就可提昇收音的音量，「Auto Zoom」提供電影級平順縮放鏡頭功能，用戶可輕推相機介面上的變焦推桿，單手進行更順暢的變焦功能，不須透過兩指縮放的方式變焦，以往 U 系列手機就加入的 Sonic Zoom 功能（錄影時可隨著變焦放大遠方的聲音），在 U12+ 上音量提高 60%、聲音聚焦能力提昇 33%
 
 前雙鏡頭提供單眼級即時散景功能，亦提供事後重新對焦功能。
 
 ### 喇叭
 
-HTC U12+ 內建立體聲雙喇叭，並有專屬擴大器，HTC 表示它是 HTC 有史以來音量最大的雙喇叭，同時也會有更立體的效果。此外，U12+
-支援 Hi-Res 高解析音效與 BoomSound Hi-Fi Edition 音效技術，並且也可透過隨附的 USonic
-耳機提供主動式降噪功能。手機也支援 aptX HD、LDAC 等高品質藍牙音效技術。
+HTC U12+ 內建立體聲雙喇叭，並有專屬擴大器，HTC 表示它是 HTC 有史以來音量最大的雙喇叭，同時也會有更立體的效果。此外，U12+ 支援 Hi-Res 高解析音效與 BoomSound Hi-Fi Edition 音效技術，並且也可透過隨附的 USonic 耳機提供主動式降噪功能。手機也支援 aptX HD、LDAC 等高品質藍牙音效技術。
 
 ### AR 貼圖
 
@@ -172,21 +150,17 @@ HTC U12+ 內建立體聲雙喇叭，並有專屬擴大器，HTC 表示它是 HTC
 
 ### 五月天特仕版
 
-既有陶瓷黑基礎上背蓋印有HTC × MAYDAY 20th Anniversary + U
-圖樣，內建獨家五月天桌布與鈴聲、鬧鐘，可讓阿信叫你起床。
+既有陶瓷黑基礎上背蓋印有HTC × MAYDAY 20th Anniversary + U 圖樣，內建獨家五月天桌布與鈴聲、鬧鐘，可讓阿信叫你起床。
 
 ### 延續功能
 
-HTC Sense Companion個人智慧助理、Usonic智慧耳機，能隨使用者耳道調整輸出、音量增強版的HTC BoomSound™
-Hi-Fi
-超聲動音響等等。防塵防水等級為IP68，IP6X代表完全防塵，IPX8代表機體浸泡在1.5公尺深清水下方30分鐘不會造成進水，但海水等非清水不在防水範圍。
+HTC Sense Companion個人智慧助理、Usonic智慧耳機，能隨使用者耳道調整輸出、音量增強版的HTC BoomSound™ Hi-Fi 超聲動音響等等。防塵防水等級為IP68，IP6X代表完全防塵，IPX8代表機體浸泡在1.5公尺深清水下方30分鐘不會造成進水，但海水等非清水不在防水範圍。
 
 ## 零件供應商
 
   - 處理器：[高通](../Page/高通.md "wikilink")
   - 電源管理 IC 與 4G 通訊晶片：高通
-  - 主鏡頭感光元件：[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")
-    IMX363+IMX351
+  - 主鏡頭感光元件：[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink") IMX363+IMX351
   - 前鏡頭感光元件：[三星電子](../Page/三星電子.md "wikilink") S5K4H9\*2
   - 內建儲存空間：[三星電子](../Page/三星電子.md "wikilink") UFS 2.1
   - 螢幕：[JDI](../Page/日本显示器.md "wikilink") \[8\]
@@ -241,12 +215,7 @@ Hi-Fi
 
 ## 参考资料
 
-[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:全螢幕手機](https://zh.wikipedia.org/wiki/Category:全螢幕手機 "wikilink")
-[Category:2018年面世的手機](https://zh.wikipedia.org/wiki/Category:2018年面世的手機 "wikilink")
+[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:全螢幕手機](https://zh.wikipedia.org/wiki/Category:全螢幕手機 "wikilink") [Category:2018年面世的手機](https://zh.wikipedia.org/wiki/Category:2018年面世的手機 "wikilink")
 
 1.
 

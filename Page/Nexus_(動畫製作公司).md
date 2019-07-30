@@ -1,9 +1,6 @@
-**株式會社Nexus**（，）是[日本的](../Page/日本.md "wikilink")[動畫製作公司](../Page/日本动画.md "wikilink")。
+**株式會社Nexus**（，）是[日本](../Page/日本.md "wikilink")的[動畫製作公司](../Page/日本动画.md "wikilink")。
 
-首部總承包製作的電視動畫為2015年7月播放的《[若葉女孩](../Page/若葉女孩.md "wikilink")》\[1\]。此外，Nexus經常協助攝影及製作[A-1
-Pictures](../Page/A-1_Pictures.md "wikilink")、[SILVER
-LINK.和](../Page/SILVER_LINK..md "wikilink")[P.A.
-Works的動畫作品](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")\[2\]\[3\]。
+首部總承包製作的電視動畫為2015年7月播放的《[若葉女孩](../Page/若葉女孩.md "wikilink")》\[1\]。此外，Nexus經常協助攝影及製作[A-1 Pictures](../Page/A-1_Pictures.md "wikilink")、[SILVER LINK.和](../Page/SILVER_LINK..md "wikilink")[P.A. Works的動畫作品](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")\[2\]\[3\]。
 
 ## 作品列表
 
@@ -101,9 +98,7 @@ Works的動畫作品](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")\[2\]\
 ## 外部連結
 
   -
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
-[Category:2012年成立的公司](https://zh.wikipedia.org/wiki/Category:2012年成立的公司 "wikilink")
+[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink") [Category:2012年成立的公司](https://zh.wikipedia.org/wiki/Category:2012年成立的公司 "wikilink")
 
 1.
 2.

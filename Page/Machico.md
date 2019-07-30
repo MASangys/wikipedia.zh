@@ -1,8 +1,8 @@
-**Machico**（）是[日本的女性](../Page/日本.md "wikilink")[歌手及](../Page/歌手.md "wikilink")[聲優](../Page/聲優.md "wikilink")，[Horipro所屬](../Page/Horipro.md "wikilink")。
+**Machico**（）是[日本](../Page/日本.md "wikilink")的女性[歌手](../Page/歌手.md "wikilink")及[聲優](../Page/聲優.md "wikilink")，[Horipro](../Page/Horipro.md "wikilink")所屬。
 
 ## 人物
 
-本名，[廣島縣](../Page/廣島縣.md "wikilink")[吳市出身](../Page/吳市.md "wikilink")。
+本名，[廣島縣](../Page/廣島縣.md "wikilink")[吳市](../Page/吳市.md "wikilink")出身。
 
 ## 配音演出作品
 
@@ -21,20 +21,17 @@
 
 **2017年**
 
-  - [KiraKira☆光之美少女 A La
-    Mode](https://zh.wikipedia.org/wiki/KiraKira☆光之美少女_A_La_Mode "wikilink")（岬彩音）
+  - [KiraKira☆光之美少女 A La Mode](https://zh.wikipedia.org/wiki/KiraKira☆光之美少女_A_La_Mode "wikilink")（岬彩音）
   - [末日時在做什麼？有沒有空？可以來拯救嗎？](../Page/末日時在做什麼？有沒有空？可以來拯救嗎？.md "wikilink")（**艾瑟雅·麥傑·瓦爾卡利斯**\[3\]）
 
 **2018年**
 
   - [龍王的工作！](../Page/龍王的工作！.md "wikilink")（月夜見坂燎）
-  - [賽馬娘Pretty
-    Derby](https://zh.wikipedia.org/wiki/賽馬娘Pretty_Derby "wikilink")（**東海帝皇**\[4\]）
+  - [賽馬娘Pretty Derby](https://zh.wikipedia.org/wiki/賽馬娘Pretty_Derby "wikilink")（**東海帝皇**\[4\]）
 
 **時期未定**
 
-  - [Rifle is
-    Beautiful](https://zh.wikipedia.org/wiki/Rifle_is_Beautiful "wikilink")（**小倉光**\[5\]）
+  - [Rifle is Beautiful](https://zh.wikipedia.org/wiki/Rifle_is_Beautiful "wikilink")（**小倉光**\[5\]）
 
 ### 遊戲
 
@@ -52,8 +49,7 @@
 
 **2017年**
 
-  - [偶像大師
-    百萬人演唱會！劇場時光](https://zh.wikipedia.org/wiki/偶像大師_百萬人演唱會！劇場時光 "wikilink")（**伊吹翼**）
+  - [偶像大師 百萬人演唱會！劇場時光](https://zh.wikipedia.org/wiki/偶像大師_百萬人演唱會！劇場時光 "wikilink")（**伊吹翼**）
 
 **2019年**
 
@@ -69,25 +65,126 @@
 
 ### 單曲
 
-|     | 發售日期       | 標題                        | [規格產品編號](../Page/規格產品編號.md "wikilink") | [Oricon公信榜最高排名](../Page/Oricon公信榜.md "wikilink") |
-| --- | ---------- | ------------------------- | -------------------------------------- | ------------------------------------------------ |
-| 限定盤 | 通常盤        |                           |                                        |                                                  |
-| 1st | 2012年5月23日 | **Magical Happy Show \!** | GNCA-0238                              | GNCA-0239                                        |
-| 2nd | 2016年1月27日 | **fantastic dreamer**     | COZC-1122/3                            | COCC-17102                                       |
-| 3rd | 2016年11月9日 | **勇気のつばさ**                |                                        | COCC-17139                                       |
-| 4th | 2017年2月1日  | **TOMORROW**              | COZC-1285/6                            | COCC-17249                                       |
-| 5th | 2018年1月31日 | **コレカラ**                  | COZC-1396/7                            | COCC-17396                                       |
-| 6th | 2019年1月30日 | **STAND UP\!／またあした**      |                                        | COCC-17557                                       |
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>發售日期</p></th>
+<th><p>標題</p></th>
+<th><p><a href="../Page/規格產品編號.md" title="wikilink">規格產品編號</a></p></th>
+<th><p><a href="../Page/Oricon公信榜.md" title="wikilink">Oricon公信榜</a>最高排名</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>限定盤</p></td>
+<td><p>通常盤</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1st</p></td>
+<td><p>2012年5月23日</p></td>
+<td><p><strong>Magical Happy Show !</strong></p></td>
+<td><p>GNCA-0238</p></td>
+<td><p>GNCA-0239</p></td>
+</tr>
+<tr class="odd">
+<td><p>2nd</p></td>
+<td><p>2016年1月27日</p></td>
+<td><p><strong>fantastic dreamer</strong></p></td>
+<td><p>COZC-1122/3</p></td>
+<td><p>COCC-17102</p></td>
+</tr>
+<tr class="even">
+<td><p>3rd</p></td>
+<td><p>2016年11月9日</p></td>
+<td><p><strong>勇気のつばさ</strong></p></td>
+<td></td>
+<td><p>COCC-17139</p></td>
+</tr>
+<tr class="odd">
+<td><p>4th</p></td>
+<td><p>2017年2月1日</p></td>
+<td><p><strong>TOMORROW</strong></p></td>
+<td><p>COZC-1285/6</p></td>
+<td><p>COCC-17249</p></td>
+</tr>
+<tr class="even">
+<td><p>5th</p></td>
+<td><p>2018年1月31日</p></td>
+<td><p><strong>コレカラ</strong></p></td>
+<td><p>COZC-1396/7</p></td>
+<td><p>COCC-17396</p></td>
+</tr>
+<tr class="odd">
+<td><p>6th</p></td>
+<td><p>2019年1月30日</p></td>
+<td><p><strong>STAND UP!／またあした</strong></p></td>
+<td></td>
+<td><p>COCC-17557</p></td>
+</tr>
+<tr class="even">
+<td><p>7th</p></td>
+<td><p>2019年8月28日</p></td>
+<td><p><strong>1ミリ Symphony</strong></p></td>
+<td><p>COZC-1568/9</p></td>
+<td><p>COCC-17659</p></td>
+</tr>
+</tbody>
+</table>
 
 ### 專輯
 
-|           | 發售日期       | 標題                 | 規格產品編號      | Oricon公信榜最高排名 |
-| --------- | ---------- | ------------------ | ----------- | ------------- |
-| 限定盤       | 通常盤        |                    |             |               |
-| 1st       | 2014年6月11日 | **COLORS**         | \-          | LNCM-1051     |
-| 2nd       | 2015年4月8日  | **COLORSII -RML-** | \-          | LNCM-1090     |
-| 3rd       | 2016年7月27日 | ****               | LNZM-1142/3 | LNZM-1144     |
-| Major 1st | 2017年5月24日 | **SOL**            | COZX-1324/5 | COCX-39951    |
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>發售日期</p></th>
+<th><p>標題</p></th>
+<th><p>規格產品編號</p></th>
+<th><p>Oricon公信榜最高排名</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>限定盤</p></td>
+<td><p>通常盤</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1st</p></td>
+<td><p>2014年6月11日</p></td>
+<td><p><strong>COLORS</strong></p></td>
+<td></td>
+<td><p>LNCM-1051</p></td>
+</tr>
+<tr class="odd">
+<td><p>2nd</p></td>
+<td><p>2015年4月8日</p></td>
+<td><p><strong>COLORSII -RML-</strong></p></td>
+<td></td>
+<td><p>LNCM-1090</p></td>
+</tr>
+<tr class="even">
+<td><p>3rd</p></td>
+<td><p>2016年7月27日</p></td>
+<td><p><strong></strong></p></td>
+<td><p>LNZM-1142/3</p></td>
+<td><p>LNZM-1144</p></td>
+</tr>
+<tr class="odd">
+<td><p>Major 1st</p></td>
+<td><p>2017年5月24日</p></td>
+<td><p><strong>SOL</strong></p></td>
+<td><p>COZX-1324/5</p></td>
+<td><p>COCX-39951</p></td>
+</tr>
+</tbody>
+</table>
 
 ### 商業搭配
 
@@ -149,7 +246,7 @@
 </tr>
 <tr class="odd">
 <td><p>勇気のつばさ</p></td>
-<td><p>電視動畫「<a href="../Page/12歲。.md" title="wikilink">12歲。～小小胸口的怦然心動～</a>」第二季ED</p></td>
+<td><p>電視動畫「<a href="../Page/12歲。.md" title="wikilink">12歲。</a>～小小胸口的怦然心動～」第二季ED</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
@@ -177,11 +274,15 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation_4遊戲列表" title="wikilink">PS4遊戲</a>「<a href="../Page/為美好的世界獻上祝福！.md" title="wikilink">為美好的世界獻上祝福！～希望迷宮與聚集的冒險者們～</a>」主題曲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation_4遊戲列表" title="wikilink">PS4遊戲</a>「<a href="../Page/為美好的世界獻上祝福！.md" title="wikilink">為美好的世界獻上祝福！</a>～希望迷宮與聚集的冒險者們～」主題曲</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>PS4遊戲「為美好的世界獻上祝福！～希望迷宮與聚集的冒險者們～」片尾曲</p></td>
+</tr>
+<tr class="even">
+<td><p>1Symphony</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劇場版" title="wikilink">劇場版</a>「為美好的世界獻上祝福！紅傳說」主題曲</p></td>
 </tr>
 </tbody>
 </table>
@@ -709,7 +810,7 @@ Second・Clutch（<a href="../Page/廣島縣.md" title="wikilink">廣島縣</a>�
 
 ### 其他演出
 
-•7月31日 2018年[香港動漫電玩節HEARTBEAT動漫歌曲演唱會](../Page/香港動漫電玩節.md "wikilink")
+•7月31日 2018年[香港動漫電玩節](../Page/香港動漫電玩節.md "wikilink")HEARTBEAT動漫歌曲演唱會
 
 ## 參考資料
 
@@ -719,20 +820,12 @@ Second・Clutch（<a href="../Page/廣島縣.md" title="wikilink">廣島縣</a>�
 
   - [Machicoオフィシャルブログ「Machicoco」](http://ameblo.jp/miumachi10/)（Machico的[部落格](https://zh.wikipedia.org/wiki/部落格 "wikilink")）
 
-  - [Machico GENEON UNIVERSAL OFFICIAL
-    SITE](http://nbcuni-music.com/Machico/)
+  - [Machico GENEON UNIVERSAL OFFICIAL SITE](http://nbcuni-music.com/Machico/)
 
-  - [Machico Official Music Information
-    Site](http://columbia.jp/machico/)
+  - [Machico Official Music Information Site](http://columbia.jp/machico/)
 
   -
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink")
-[Category:廣島縣出身人物](https://zh.wikipedia.org/wiki/Category:廣島縣出身人物 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:Horipro](https://zh.wikipedia.org/wiki/Category:Horipro "wikilink")
-[Category:NBC環球娛樂藝人](https://zh.wikipedia.org/wiki/Category:NBC環球娛樂藝人 "wikilink")
-[Category:日本古倫美亞旗下藝人](https://zh.wikipedia.org/wiki/Category:日本古倫美亞旗下藝人 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink") [Category:廣島縣出身人物](https://zh.wikipedia.org/wiki/Category:廣島縣出身人物 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:Horipro](https://zh.wikipedia.org/wiki/Category:Horipro "wikilink") [Category:NBC環球娛樂藝人](https://zh.wikipedia.org/wiki/Category:NBC環球娛樂藝人 "wikilink") [Category:日本古倫美亞旗下藝人](https://zh.wikipedia.org/wiki/Category:日本古倫美亞旗下藝人 "wikilink")
 
 1.
 2.

@@ -1,10 +1,8 @@
-**JJCC**（）為武打影星[成龍所打造的K](../Page/成龍.md "wikilink")-POP男子組合，最初由韓國籍的Eddy、E.co、Simba、SanCheong和澳大利亞籍的中國人Prince
-Mak五名成員組成，現由E.co、Prince Mak、Eddy、Yul、Zica、Simba和SanCheong組成。
+**JJCC**（）為武打影星[成龍](../Page/成龍.md "wikilink")所打造的K-POP男子組合，最初由韓國籍的Eddy、E.co、Simba、SanCheong和澳大利亞籍的中國人Prince Mak五名成員組成，現由E.co、Prince Mak、Eddy、Yul、Zica、Simba和SanCheong組成。
 
 ## 簡介
 
-原定2014年初出道，然而拍攝出道單曲《一開始都那樣》MV當天，成員Prince
-Mak不慎滑倒受傷，必須休養12週，因此《一開始都那樣》MV中僅有四名成員現身，JJCC亦延後出道日期\[1\]，最終於2014年3月20日在韓國出道。
+原定2014年初出道，然而拍攝出道單曲《一開始都那樣》MV當天，成員Prince Mak不慎滑倒受傷，必須休養12週，因此《一開始都那樣》MV中僅有四名成員現身，JJCC亦延後出道日期\[1\]，最終於2014年3月20日在韓國出道。
 
 2015年8月再加入兩名新成員Zica和Yul，以七人體制回歸。兩人皆為已解散男子組合[A.T.O成員](https://zh.wikipedia.org/wiki/A.T.O "wikilink")。
 
@@ -14,19 +12,13 @@ Mak不慎滑倒受傷，必須休養12週，因此《一開始都那樣》MV中�
 
 七個人在宿舍內共養了二十多隻貓和狗\[2\]，其中大狗San和Bow曾於第三張單曲《On the Flower Bed》MV中亮相。
 
-2016年3月3日，Jackie Chan Group Korea宣布Prince
-Mak將缺席**JJCC**新輯活動，因其中耳炎惡化\[3\]。後來日本出道單曲宣傳亦未參與以及在中國進行Solo活動，被質疑退團，其後Prince
-Mak表示仍為**JJCC**成員\[4\]。
+2016年3月3日，Jackie Chan Group Korea宣布Prince Mak將缺席**JJCC**新輯活動，因其中耳炎惡化\[3\]。後來日本出道單曲宣傳亦未參與以及在中國進行Solo活動，被質疑退團，其後Prince Mak表示仍為**JJCC**成員\[4\]。
 
-2017年3月2日，Jackie Chan Group Korea宣布**JJCC**成員Yul、SanCheong參加《[PRODUCE
-101
-(第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")》而暫停活動，最终在60名外淘汰\[5\]。2017年末，成员Simba参加[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")，最终在99名外淘汰。
+2017年3月2日，Jackie Chan Group Korea宣布**JJCC**成員Yul、SanCheong參加《[PRODUCE 101 (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")》而暫停活動，最终在60名外淘汰\[5\]。2017年末，成员Simba参加[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")，最终在99名外淘汰。
 
 ## 團名由來
 
-團名原寫作「JJCC」但唸作「Double JC（）」，現統一讀寫法為「JJCC」，是「Jackie Chan Joint
-Culture」的縮寫，意即與[成龍一起共創文化](../Page/成龍.md "wikilink")，而並非隨[成龍的英文名字首組成的](../Page/成龍.md "wikilink")「Jackie
-Jackie Chan Chan」。
+團名原寫作「JJCC」但唸作「Double JC（）」，現統一讀寫法為「JJCC」，是「Jackie Chan Joint Culture」的縮寫，意即與[成龍](../Page/成龍.md "wikilink")一起共創文化，而並非隨[成龍](../Page/成龍.md "wikilink")的英文名字首組成的「Jackie Jackie Chan Chan」。
 
 ## 成員列表
 
@@ -301,18 +293,13 @@ Jackie Chan Chan」。
   - [Prince Mak官方weibo](http://weibo.com/mrhenrymak)
   - [JJCC日本官方博客](http://lineblog.me/jjcc/)
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
 
 1.
 2.
 3.  [PrinceMak 將缺席 JJCC 新輯活動](http://kpopn.niusnews.com/=K1rlvob2)
-4.  [EXCLUSIVE: Prince Mak clarifies whether he's still in
-    JJCC](http://www.sbs.com.au/popasia/blog/2016/12/15/exclusive-prince-mak-clarifies-whether-hes-still-jjcc)
+4.  [EXCLUSIVE: Prince Mak clarifies whether he's still in JJCC](http://www.sbs.com.au/popasia/blog/2016/12/15/exclusive-prince-mak-clarifies-whether-hes-still-jjcc)
 5.  [JJCC 參加《PRODUCE 101》第二季？](http://kpopn.niusnews.com/=K17c5cd8)
 6.  [A.T.O活動當時藝名為](https://zh.wikipedia.org/wiki/A.T.O "wikilink")**Rihan**
 7.  [A.T.O活動當時藝名為](https://zh.wikipedia.org/wiki/A.T.O "wikilink")**Noah**
-8.  原本的隊長是SanCheong，後來換成了Simba（2014.10.07 After School Club EP107
-    15:00-16:18提及）
+8.  原本的隊長是SanCheong，後來換成了Simba（2014.10.07 After School Club EP107 15:00-16:18提及）

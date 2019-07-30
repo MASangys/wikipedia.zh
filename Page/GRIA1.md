@@ -1,5 +1,4 @@
-**GRIA1**()是由*GRIA1*
-[基因編碼的](../Page/基因.md "wikilink")[蛋白质](../Page/蛋白质.md "wikilink")。\[1\]\[2\]
+**GRIA1**()是由*GRIA1* [基因](../Page/基因.md "wikilink")編碼的[蛋白质](../Page/蛋白质.md "wikilink")。\[1\]\[2\]
 
 ## 交互作用
 

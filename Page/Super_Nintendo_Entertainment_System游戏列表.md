@@ -2,11 +2,9 @@
 
 [SNES-SFAM-Cartridges.jpg](https://zh.wikipedia.org/wiki/File:SNES-SFAM-Cartridges.jpg "fig:SNES-SFAM-Cartridges.jpg")
 
-[Super Nintendo Entertainment
-System](https://zh.wikipedia.org/wiki/Super_Nintendo_Entertainment_System "wikilink")（超级任天堂西方版名称）的游戏存放在一个塑料卡带内。不同地区的卡带其塑料卡槽各不相同。一个地区锁芯片分别位于游戏机平台和卡带内部，这样的目的是防止不同地区的卡带在其不同的主机运行。\[1\]
+[Super Nintendo Entertainment System](https://zh.wikipedia.org/wiki/Super_Nintendo_Entertainment_System "wikilink")（超级任天堂西方版名称）的游戏存放在一个塑料卡带内。不同地区的卡带其塑料卡槽各不相同。一个地区锁芯片分别位于游戏机平台和卡带内部，这样的目的是防止不同地区的卡带在其不同的主机运行。\[1\]
 
-本表列出在西方Super Nintendo Entertainment
-System官方发行的784款游戏，其中251款北美独占，63款欧洲独占。仅在日本发行的游戏不在此列。默认依英文名列出。
+本表列出在西方Super Nintendo Entertainment System官方发行的784款游戏，其中251款北美独占，63款欧洲独占。仅在日本发行的游戏不在此列。默认依英文名列出。
 
 ## 游戏
 
@@ -6334,8 +6332,6 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 
 ## 参考文献
 
-[Category:超級任天堂](https://zh.wikipedia.org/wiki/Category:超級任天堂 "wikilink")
-[Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink")
-[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
+[Category:超級任天堂](https://zh.wikipedia.org/wiki/Category:超級任天堂 "wikilink") [Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink") [Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
 
 1.

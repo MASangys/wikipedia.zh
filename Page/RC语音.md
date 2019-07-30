@@ -1,5 +1,4 @@
-**RC語音**( 英文：Raidcall
-)，是一款基於網路團隊語音通訊平臺的電腦軟體，主要功能是進行線上多人語音聊天、以及線上真人秀視頻互動。軟體營運分為面向臺灣市場的繁體中文版本，以及面向歐美市場的英文、俄語版本。
+**RC語音**( 英文：Raidcall )，是一款基於網路團隊語音通訊平臺的電腦軟體，主要功能是進行線上多人語音聊天、以及線上真人秀視頻互動。軟體營運分為面向臺灣市場的繁體中文版本，以及面向歐美市場的英文、俄語版本。
 
 2019年3月19日，於官方粉絲團及論壇上宣布於3月31日雙版本同步終止營運，後來將繁體中文版延遲至4月20日結束。
 
@@ -32,10 +31,7 @@ RC語音由[昆侖萬維](https://zh.wikipedia.org/wiki/昆侖萬維 "wikilink")
   - [<s>RC語音（臺灣版） </s>](http://www.raidcall.com.tw/)（網站已關閉）
   - [<s>RaidCall（國際版）</s>](http://www.raidcall.com.ru/) （網站已關閉）
 
-[Category:即時通訊軟體](https://zh.wikipedia.org/wiki/Category:即時通訊軟體 "wikilink")
-[Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
-[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
+[Category:即時通訊軟體](https://zh.wikipedia.org/wiki/Category:即時通訊軟體 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
 
 1.
 2.

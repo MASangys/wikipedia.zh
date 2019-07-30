@@ -1,11 +1,8 @@
-《**Big
-Big小明星**》（）是由[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的](../Page/電視廣播有限公司.md "wikilink")[兒童節目](../Page/無綫電視兒童節目.md "wikilink")，前身是《[Think
-Big遊學團](../Page/Think_Big遊學團.md "wikilink")》，於2017年7月1日首播\[1\]。
+《**Big Big小明星**》（）是由[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的[兒童節目](../Page/無綫電視兒童節目.md "wikilink")，前身是《[Think Big遊學團](../Page/Think_Big遊學團.md "wikilink")》，於2017年7月1日首播\[1\]。
 
-兒童演員[何珀廉](https://zh.wikipedia.org/wiki/何珀廉 "wikilink")\[2\]、[周筠浩](https://zh.wikipedia.org/wiki/周筠浩 "wikilink")\[3\]\[4\]、[譚奕峻](https://zh.wikipedia.org/wiki/譚奕峻 "wikilink")、[黃芷晴](../Page/黃芷晴_\(兒童演員\).md "wikilink")、[甄敏鴻](https://zh.wikipedia.org/wiki/甄敏鴻 "wikilink")、[嚴尚志](https://zh.wikipedia.org/wiki/嚴尚志 "wikilink")、[陶孝杰](https://zh.wikipedia.org/wiki/陶孝杰 "wikilink")、[黃語芊都是透過](https://zh.wikipedia.org/wiki/黃語芊 "wikilink")《Big
-Big小明星2017》\[5\]\[6\]\[7\]進入該節目\[8\]。
+兒童演員[何珀廉](https://zh.wikipedia.org/wiki/何珀廉 "wikilink")\[2\]、[周筠浩](https://zh.wikipedia.org/wiki/周筠浩 "wikilink")\[3\]\[4\]、[譚奕峻](https://zh.wikipedia.org/wiki/譚奕峻 "wikilink")、[黃芷晴](../Page/黃芷晴_\(兒童演員\).md "wikilink")、[甄敏鴻](https://zh.wikipedia.org/wiki/甄敏鴻 "wikilink")、[嚴尚志](https://zh.wikipedia.org/wiki/嚴尚志 "wikilink")、[陶孝杰](https://zh.wikipedia.org/wiki/陶孝杰 "wikilink")、[黃語芊都是透過](https://zh.wikipedia.org/wiki/黃語芊 "wikilink")《Big Big小明星2017》\[5\]\[6\]\[7\]進入該節目\[8\]。
 
-2019年1月26日開始只留下[馬俊傑及](https://zh.wikipedia.org/wiki/:zh-yue:馬俊傑 "wikilink")[邱晴為大人主持](../Page/邱晴.md "wikilink")，加入[周筠浩](https://zh.wikipedia.org/wiki/周筠浩 "wikilink")、[黃芷晴](../Page/黃芷晴_\(兒童演員\).md "wikilink")、[黃語芊](https://zh.wikipedia.org/wiki/黃語芊 "wikilink")、[祈智犧](https://zh.wikipedia.org/wiki/祈智犧 "wikilink")、[迪倫瑪沙五位小主持](https://zh.wikipedia.org/wiki/迪倫瑪沙 "wikilink")，[何遠東為單元主持](../Page/何遠東.md "wikilink")。
+2019年1月26日開始只留下[馬俊傑](../Page/馬俊傑.md "wikilink")及[邱晴](../Page/邱晴.md "wikilink")為大人主持（2019年7月6日[王虹茵](../Page/王虹茵.md "wikilink")加入），加入[周筠浩](https://zh.wikipedia.org/wiki/周筠浩 "wikilink")、[黃芷晴](../Page/黃芷晴_\(兒童演員\).md "wikilink")、[黃語芊](https://zh.wikipedia.org/wiki/黃語芊 "wikilink")、[祈智犧](https://zh.wikipedia.org/wiki/祈智犧 "wikilink")、[迪倫瑪沙五位小主持](https://zh.wikipedia.org/wiki/迪倫瑪沙 "wikilink")，[何遠東](../Page/何遠東.md "wikilink")為單元主持。
 
 ## 每集內容
 
@@ -102,44 +99,50 @@ Big小明星2017》\[5\]\[6\]\[7\]進入該節目\[8\]。
 
 ### 2019年
 
-|        |                                      |                              |                                                                                          |
-| ------ | ------------------------------------ | ---------------------------- | ---------------------------------------------------------------------------------------- |
-| **集數** | **播映日期**                             | **主題**                       | **嘉賓**                                                                                   |
-| 80     | [1月5日](../Page/1月5日.md "wikilink")   | 「Big Big小明星」－重溫伊健30年前兒童節目    | —                                                                                        |
-| 81     | [1月12日](../Page/1月12日.md "wikilink") | 「Big Big小明星」－生命遇上的陶笛伯樂       | —                                                                                        |
-| 82     | [1月19日](../Page/1月19日.md "wikilink") | 「Big Big小明星」－「桌遊校園」玩在起跑線     | —                                                                                        |
-| 83     | [1月26日](../Page/1月26日.md "wikilink") | 「Big Big KIDs」－五位小主持吸睛亮相     | [何遠東](../Page/何遠東.md "wikilink")                                                         |
-| 84     | [2月2日](../Page/2月2日.md "wikilink")   | 「Big Big KIDs」－開箱Share幻化創意城堡 | 何遠東                                                                                      |
-| 85     | [2月9日](../Page/2月9日.md "wikilink")   | 「Big Big KIDs」－最搞笑小主持得主      | 何遠東                                                                                      |
-| 86     | [2月16日](../Page/2月16日.md "wikilink") | 「Big Big KIDs」－創意豬頭風景畫       | 何遠東                                                                                      |
-| 87     | [2月23日](../Page/2月23日.md "wikilink") | 「Big Big KIDs」－細說特殊睡覺癖好      | 何遠東                                                                                      |
-| 88     | [3月2日](../Page/3月2日.md "wikilink")   | 「Big Big KIDs」－小汽球堆砌奇幻森林     | 何遠東                                                                                      |
-| 89     | [3月9日](../Page/3月9日.md "wikilink")   | 「Big Big KIDs」－五花八門的興趣班      | 何遠東                                                                                      |
-| 90     | [3月16日](../Page/3月16日.md "wikilink") | 「Big Big KIDs」－小主持合力「改建高樓」   | 何遠東                                                                                      |
-| 91     | [3月23日](../Page/3月23日.md "wikilink") | 「Big Big KIDs」－Linus初登小廚房    | 何遠東                                                                                      |
-| 92     | [3月30日](../Page/3月30日.md "wikilink") | 「Big Big KIDs」－Max、瑪沙炮製家鄉小菜  | 何遠東                                                                                      |
-| 93     | [4月6日](../Page/4月6日.md "wikilink")   | 「Big Big KIDs」－小主持壞習慣大公開     | 何遠東                                                                                      |
-| 94     | [4月13日](../Page/4月13日.md "wikilink") | 「Big Big KIDs」－洪永城突襲「搗亂」     | 何遠東、[洪永城](../Page/洪永城.md "wikilink")                                                     |
-| 95     | [4月20日](../Page/4月20日.md "wikilink") | 「Big Big KIDs」－「淡定王」出動改建高樓   | 何遠東、洪永城                                                                                  |
-| 96     | [4月27日](../Page/4月27日.md "wikilink") | 「Big Big KIDs」－蝦頭考驗小主持演技     | 何遠東、[楊詩敏](https://zh.wikipedia.org/wiki/楊詩敏 "wikilink")                                  |
-| 97     | [5月4日](../Page/5月4日.md "wikilink")   | 「Big Big KIDs」－小主持的旅遊經歷      | 何遠東、洪永城、[張寶兒](../Page/張寶兒.md "wikilink")                                                 |
-| 98     | [5月11日](../Page/5月11日.md "wikilink") | 「Big Big KIDs」－DIY創意母親節禮物    | 何遠東、[林溥來](../Page/林溥來.md "wikilink")                                                     |
-| 99     | [5月18日](../Page/5月18日.md "wikilink") | 「Big Big KIDs」－蝦頭似開心果？       | 何遠東、楊詩敏、張寶兒                                                                              |
-| 100    | [5月25日](../Page/5月25日.md "wikilink") | 「Big Big KIDs」－家有寵物的樂趣       | 何遠東、林溥來、楊詩敏                                                                              |
-| 101    | [6月1日](../Page/6月1日.md "wikilink")   | 「Big Big KIDs」－小主持搗蛋暗黑史      | 何遠東、林溥來、[何依婷](../Page/何依婷.md "wikilink")                                                 |
-| 102    | [6月8日](../Page/6月8日.md "wikilink")   | 「Big Big KIDs」－誰激嬲小主持？       | 何遠東、何依婷                                                                                  |
-| 103    | [6月15日](../Page/6月15日.md "wikilink") | 「Big Big KIDs」－小主持最重要的東西是甚麼？ | 何遠東、[朱千雪](../Page/朱千雪.md "wikilink")、[陳凱琳](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink") |
-| 104    | [6月22日](../Page/6月22日.md "wikilink") | 「Big Big KIDs」－小主持的志願        | 何遠東、朱千雪                                                                                  |
+|        |                                                         |                              |
+| ------ | ------------------------------------------------------- | ---------------------------- |
+| **集數** | **播映日期**                                                | **主題**                       |
+| 80     | [1月5日](../Page/1月5日.md "wikilink")                      | 「Big Big小明星」－重溫伊健30年前兒童節目    |
+| 81     | [1月12日](../Page/1月12日.md "wikilink")                    | 「Big Big小明星」－生命遇上的陶笛伯樂       |
+| 82     | [1月19日](../Page/1月19日.md "wikilink")                    | 「Big Big小明星」－「桌遊校園」玩在起跑線     |
+| 83     | [1月26日](../Page/1月26日.md "wikilink")                    | 「Big Big KIDs」－五位小主持吸睛亮相     |
+| 84     | [2月2日](../Page/2月2日.md "wikilink")                      | 「Big Big KIDs」－開箱Share幻化創意城堡 |
+| 85     | [2月9日](../Page/2月9日.md "wikilink")                      | 「Big Big KIDs」－最搞笑小主持得主      |
+| 86     | [2月16日](../Page/2月16日.md "wikilink")                    | 「Big Big KIDs」－創意豬頭風景畫       |
+| 87     | [2月23日](../Page/2月23日.md "wikilink")                    | 「Big Big KIDs」－細說特殊睡覺癖好      |
+| 88     | [3月2日](../Page/3月2日.md "wikilink")                      | 「Big Big KIDs」－小汽球堆砌奇幻森林     |
+| 89     | [3月9日](../Page/3月9日.md "wikilink")                      | 「Big Big KIDs」－五花八門的興趣班      |
+| 90     | [3月16日](../Page/3月16日.md "wikilink")                    | 「Big Big KIDs」－小主持合力「改建高樓」   |
+| 91     | [3月23日](../Page/3月23日.md "wikilink")                    | 「Big Big KIDs」－Linus初登小廚房    |
+| 92     | [3月30日](../Page/3月30日.md "wikilink")                    | 「Big Big KIDs」－Max、瑪沙炮製家鄉小菜  |
+| 93     | [4月6日](../Page/4月6日.md "wikilink")                      | 「Big Big KIDs」－小主持壞習慣大公開     |
+| 94     | [4月13日](../Page/4月13日.md "wikilink")                    | 「Big Big KIDs」－洪永城突襲「搗亂」     |
+| 95     | [4月20日](../Page/4月20日.md "wikilink")                    | 「Big Big KIDs」－「淡定王」出動改建高樓   |
+| 96     | [4月27日](../Page/4月27日.md "wikilink")                    | 「Big Big KIDs」－蝦頭考驗小主持演技     |
+| 97     | [5月4日](../Page/5月4日.md "wikilink")                      | 「Big Big KIDs」－小主持的旅遊經歷      |
+| 98     | [5月11日](../Page/5月11日.md "wikilink")                    | 「Big Big KIDs」－DIY創意母親節禮物    |
+| 99     | [5月18日](../Page/5月18日.md "wikilink")                    | 「Big Big KIDs」－蝦頭似開心果？       |
+| 100    | [5月25日](../Page/5月25日.md "wikilink")                    | 「Big Big KIDs」－家有寵物的樂趣       |
+| 101    | [6月1日](../Page/6月1日.md "wikilink")                      | 「Big Big KIDs」－小主持搗蛋暗黑史      |
+| 102    | [6月8日](../Page/6月8日.md "wikilink")                      | 「Big Big KIDs」－誰激嬲小主持？       |
+| 103    | [6月15日](../Page/6月15日.md "wikilink")                    | 「Big Big KIDs」－小主持最重要的東西是甚麼？ |
+| 104    | [6月22日](../Page/6月22日.md "wikilink")                    | 「Big Big KIDs」－小主持的志願        |
+| 105    | [6月29日](../Page/6月29日.md "wikilink")                    | 「Big Big KIDs」－跟小主持做個好朋友     |
+| 106    | [7月6日](https://zh.wikipedia.org/wiki/7月6日 "wikilink")   | 「Big Big KIDs」－小明星愛爸媽        |
+| 107    | [7月13日](https://zh.wikipedia.org/wiki/7月13日 "wikilink") | 「Big Big KIDs」－小明星憑外表擇友？     |
+| 108    | [7月20日](https://zh.wikipedia.org/wiki/7月20日 "wikilink") | 「Big Big KIDs」－小明星生病『奇遇』     |
+| 109    | [7月27日](https://zh.wikipedia.org/wiki/7月27日 "wikilink") | 「Big Big KIDs」－              |
 
 ## 主持
 
 ### 現任
 
-| 姓名                                                                 | 暱稱\[9\]  | 首次亮相日期     |
-| ------------------------------------------------------------------ | -------- | ---------- |
-| [馬俊傑](https://zh.wikipedia.org/wiki/:zh-yue:馬俊傑 "wikilink")（Linus） | Linus／馬仔 | 2017年7月1日  |
-| [邱晴](../Page/邱晴.md "wikilink")（Mandy）                              | Mandy    | 2018年3月17日 |
-|                                                                    |          |            |
+| 姓名                                         | 暱稱\[9\]  | 首次亮相日期     |
+| ------------------------------------------ | -------- | ---------- |
+| [馬俊傑](../Page/馬俊傑.md "wikilink")（Linus）    | Linus／馬仔 | 2017年7月1日  |
+| [邱晴](../Page/邱晴.md "wikilink")（Mandy）      | Mandy    | 2018年3月17日 |
+| [王虹茵](../Page/王虹茵.md "wikilink")（Sharlene） | Sharlene | 2019年7月6日  |
+| [何遠東](../Page/何遠東.md "wikilink")           | 爆谷哥哥     | 2019年1月26日 |
 
 ### 前任
 
@@ -156,50 +159,37 @@ Big小明星2017》\[5\]\[6\]\[7\]進入該節目\[8\]。
 
 ## 以往童星
 
-[歐浚銨](https://zh.wikipedia.org/wiki/歐浚銨 "wikilink")、[陳祉丞](https://zh.wikipedia.org/wiki/陳祉丞 "wikilink")、[何珀廉](https://zh.wikipedia.org/wiki/何珀廉 "wikilink")、[陶孝杰](https://zh.wikipedia.org/wiki/陶孝杰 "wikilink")、[甄敏鴻](https://zh.wikipedia.org/wiki/甄敏鴻 "wikilink")、[譚奕峻](https://zh.wikipedia.org/wiki/譚奕峻 "wikilink")、[嚴尚志](https://zh.wikipedia.org/wiki/嚴尚志 "wikilink")、[陳偲穎](../Page/陳偲穎.md "wikilink")
+[歐浚銨](https://zh.wikipedia.org/wiki/歐浚銨 "wikilink")、[陳祉丞](https://zh.wikipedia.org/wiki/陳祉丞 "wikilink")、[何珀廉](https://zh.wikipedia.org/wiki/何珀廉 "wikilink")、[陶孝杰](https://zh.wikipedia.org/wiki/陶孝杰 "wikilink")、[甄敏鴻](https://zh.wikipedia.org/wiki/甄敏鴻 "wikilink")、[譚奕峻](https://zh.wikipedia.org/wiki/譚奕峻 "wikilink")、[嚴尚志](https://zh.wikipedia.org/wiki/嚴尚志 "wikilink")、[陳偲穎](../Page/陳偲穎.md "wikilink")、[李映賢](https://zh.wikipedia.org/wiki/李映賢 "wikilink")
 
 ## 現有主題
 
-  - 「食爆谷傾-{吓}-偈」\[13\]：該環節從2019年1月26日起由[何遠東擔任主持](../Page/何遠東.md "wikilink")（爆谷哥哥）\[14\]，與五位小主持包括[周筠浩](https://zh.wikipedia.org/wiki/周筠浩 "wikilink")、[黃芷晴](../Page/黃芷晴_\(兒童演員\).md "wikilink")、[黃語芊](https://zh.wikipedia.org/wiki/黃語芊 "wikilink")、[祈智犧及](https://zh.wikipedia.org/wiki/祈智犧 "wikilink")[迪倫瑪沙](https://zh.wikipedia.org/wiki/迪倫瑪沙 "wikilink")，一同分享生活軼事\[15\]。
+  - 「食爆谷傾-{吓}-偈」\[13\]：該環節從2019年1月26日起由[何遠東](../Page/何遠東.md "wikilink")擔任主持（爆谷哥哥）\[14\]，與五位小主持包括[周筠浩](https://zh.wikipedia.org/wiki/周筠浩 "wikilink")、[黃芷晴](../Page/黃芷晴_\(兒童演員\).md "wikilink")、[黃語芊](https://zh.wikipedia.org/wiki/黃語芊 "wikilink")、[祈智犧及](https://zh.wikipedia.org/wiki/祈智犧 "wikilink")[迪倫瑪沙](https://zh.wikipedia.org/wiki/迪倫瑪沙 "wikilink")，一同分享生活軼事\[15\]。
 
 ## 資料來源
 
 ## 外部連結
 
-  - [Big Big小明星 - 主頁 -
-    tvb.com](http://programme.tvb.com/kids/kidsthinkbig20172)
+  - [Big Big小明星 - 主頁 - tvb.com](http://programme.tvb.com/kids/kidsthinkbig20172)
 
 ## 電視節目的變遷
 
-[Category:香港兒童節目](https://zh.wikipedia.org/wiki/Category:香港兒童節目 "wikilink")
-[Category:無綫電視兒童節目](https://zh.wikipedia.org/wiki/Category:無綫電視兒童節目 "wikilink")
-[Category:2010年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年代無綫電視節目 "wikilink")
-[Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink")
-[Category:2018年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2018年無綫電視節目 "wikilink")
-[Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink")
+[Category:香港兒童節目](https://zh.wikipedia.org/wiki/Category:香港兒童節目 "wikilink") [Category:無綫電視兒童節目](https://zh.wikipedia.org/wiki/Category:無綫電視兒童節目 "wikilink") [Category:2010年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年代無綫電視節目 "wikilink") [Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink") [Category:2018年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2018年無綫電視節目 "wikilink") [Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink")
 
-1.  [Curtis何珀廉TVB Big Big小明星生日帽大挑戰 9
-    Sep 2017](https://www.youtube.com/watch?v=vqV9pbw5LKA)
+1.  [Curtis何珀廉TVB Big Big小明星生日帽大挑戰 9 Sep 2017](https://www.youtube.com/watch?v=vqV9pbw5LKA)
 
 2.  [【十分萌】迷你GD與女友仔合唱《陪著你走》](http://bka.mpweekly.com/focus/local/%E5%91%A8%E6%B5%A9%E7%AD%A0-bigbig%E5%B0%8F%E6%98%8E%E6%98%9F-%E9%99%AA%E8%91%97%E4%BD%A0%E8%B5%B0)，[明報周刊](../Page/明報周刊.md "wikilink")，2017年6月29日
 
-3.  [【BigBig
-    小明星】5歲周筠浩厭世臉跳Kpop　勁舞陳偉霆有接班人](https://www.hk01.com/%E5%A8%9B%E6%A8%82/98899/-BigBig-%E5%B0%8F%E6%98%8E%E6%98%9F-5%E6%AD%B2%E5%91%A8%E7%AD%A0%E6%B5%A9%E5%8E%AD%E4%B8%96%E8%87%89%E8%B7%B3Kpop-%E5%8B%81%E8%88%9E%E9%99%B3%E5%81%89%E9%9C%86%E6%9C%89%E6%8E%A5%E7%8F%AD%E4%BA%BA)，[香港01](../Page/香港01.md "wikilink")，2017年6月19日
+3.  [【BigBig 小明星】5歲周筠浩厭世臉跳Kpop　勁舞陳偉霆有接班人](https://www.hk01.com/%E5%A8%9B%E6%A8%82/98899/-BigBig-%E5%B0%8F%E6%98%8E%E6%98%9F-5%E6%AD%B2%E5%91%A8%E7%AD%A0%E6%B5%A9%E5%8E%AD%E4%B8%96%E8%87%89%E8%B7%B3Kpop-%E5%8B%81%E8%88%9E%E9%99%B3%E5%81%89%E9%9C%86%E6%9C%89%E6%8E%A5%E7%8F%AD%E4%BA%BA)，[香港01](../Page/香港01.md "wikilink")，2017年6月19日
 
-4.  [港版小GD唔跳Kpop
-    周筠浩萌爆唱《陪著你走》](http://hk.ulifestyle.com.hk/topic/detail.html?id=ABFGD1owBwxZFgNq&p=1)，[港生活](../Page/港生活.md "wikilink")，2017年6月30日
+4.  [港版小GD唔跳Kpop 周筠浩萌爆唱《陪著你走》](http://hk.ulifestyle.com.hk/topic/detail.html?id=ABFGD1owBwxZFgNq&p=1)，[港生活](../Page/港生活.md "wikilink")，2017年6月30日
 
-5.  [Big Big小明星2017 - 主頁-
-    tvb.com](http://programme.tvb.com/kids/bigbigkidsawards2017/)
+5.  [Big Big小明星2017 - 主頁- tvb.com](http://programme.tvb.com/kids/bigbigkidsawards2017/)
 
-6.  [Big
-    Big小明星還是「迫迫小明星」](http://www.passiontimes.hk/article/06-18-2017/27954)，[熱血時報](../Page/熱血時報.md "wikilink")，2017年6月18日
+6.  [Big Big小明星還是「迫迫小明星」](http://www.passiontimes.hk/article/06-18-2017/27954)，[熱血時報](../Page/熱血時報.md "wikilink")，2017年6月18日
 
-7.  [BIG
-    BIG小明星=失去童真？](http://bka.mpweekly.com/focus/local/big-big%E5%B0%8F%E6%98%8E%E6%98%9F%E5%A4%B1%E5%8E%BB%E7%AB%A5%E7%9C%9F%EF%BC%9F)，明報周刊，2017年6月19日
+7.  [BIG BIG小明星=失去童真？](http://bka.mpweekly.com/focus/local/big-big%E5%B0%8F%E6%98%8E%E6%98%9F%E5%A4%B1%E5%8E%BB%E7%AB%A5%E7%9C%9F%EF%BC%9F)，明報周刊，2017年6月19日
 
-8.  [《TVB Big Big 小明星》2位Think Big主持(Linna,
-    Linus)及黃心穎到本校](http://www.cymcaps.edu.hk/ContentMobile/ActivityPhoto/style01/singleActivity.aspx?activityId=1164)
+8.  [《TVB Big Big 小明星》2位Think Big主持(Linna, Linus)及黃心穎到本校](http://www.cymcaps.edu.hk/ContentMobile/ActivityPhoto/style01/singleActivity.aspx?activityId=1164)
 
 9.  \[<https://www.youtube.com/watch?v=yZPTL4BabrM>　Think Big 宣傳片\]
 
@@ -210,7 +200,6 @@ Big小明星2017》\[5\]\[6\]\[7\]進入該節目\[8\]。
 
 13. [有圖有真相，我唔係亂嗡㗎](https://www.instagram.com/p/BtINfPyAZqA/)，Instagram（fattung924），2019年1月27日
 
-14. [2019.01.26 - 「Big Big
-    KIDs」－五位小主持吸睛亮相](https://archive.today/20190203163202/http://programme.tvb.com/kids/kidsthinkbig20172/episode/20190126/)，[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")，2019年1月26日
+14. [2019.01.26 - 「Big Big KIDs」－五位小主持吸睛亮相](https://archive.today/20190203163202/http://programme.tvb.com/kids/kidsthinkbig20172/episode/20190126/)，[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")，2019年1月26日
 
 15. [我好鍾意小朋友](https://www.instagram.com/p/BtXgye4gtRk/)，Instagram（fattung924），2019年2月2日

@@ -1,5 +1,4 @@
-**Sarachi
-Yomi**（，），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。A型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[1\]。
+**Sarachi Yomi**（，），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。A型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[1\]。
 
 ## 主要作品
 
@@ -9,12 +8,9 @@ Yomi**（，），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.w
 
 <!-- end list -->
 
-  - [STEINS;GATE](../Page/命運石之門.md "wikilink")（[KADOKAWA](../Page/KADOKAWA.md "wikilink")／[Media
-    Factory](../Page/Media_Factory.md "wikilink")《[月刊Comic
-    Alive](../Page/月刊Comic_Alive.md "wikilink")》，原作：[5pb.](../Page/5pb..md "wikilink")×[Nitro+](../Page/Nitro+.md "wikilink")）
+  - [STEINS;GATE](../Page/命運石之門.md "wikilink")（[KADOKAWA](../Page/KADOKAWA.md "wikilink")／[Media Factory](../Page/Media_Factory.md "wikilink")《[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")》，原作：[5pb.](../Page/5pb..md "wikilink")×[Nitro+](../Page/Nitro+.md "wikilink")）
 
-  - （KADOKAWA／[ASCII Media
-    Works](../Page/ASCII_Media_Works.md "wikilink")《[電擊魔王](../Page/電擊魔王.md "wikilink")》）
+  - （KADOKAWA／[ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")《[電擊魔王](../Page/電擊魔王.md "wikilink")》）
 
   - （[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《》）
 
@@ -28,8 +24,7 @@ Yomi**（，），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.w
 
   - （KADOKAWA／ASCII Media Works《電擊魔王》）
 
-  - 陣家肉食女子家計（[角川書店](../Page/角川書店.md "wikilink")《[夏日大作戰](../Page/夏日大作戰.md "wikilink")
-    官方同人漫畫選集》）
+  - 陣家肉食女子家計（[角川書店](../Page/角川書店.md "wikilink")《[夏日大作戰](../Page/夏日大作戰.md "wikilink") 官方同人漫畫選集》）
 
 ### 插畫
 
@@ -41,8 +36,7 @@ Yomi**（，），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.w
 
   - （[KADOKAWA](../Page/KADOKAWA.md "wikilink")／[富士見書房](../Page/富士見書房.md "wikilink")《[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")》，原作：）[東立出版社](../Page/東立出版社.md "wikilink")
 
-  - （KADOKAWA／[ASCII Media
-    Works](../Page/ASCII_Media_Works.md "wikilink")《[電撃文庫](https://zh.wikipedia.org/wiki/電撃文庫 "wikilink")》，原作：）
+  - （KADOKAWA／[ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")《[電撃文庫](https://zh.wikipedia.org/wiki/電撃文庫 "wikilink")》，原作：）
 
   - （一迅社《一迅社文庫Iris》，原作：梨沙）
 
@@ -52,8 +46,7 @@ Yomi**（，），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.w
 
   - （KADOKAWA《》，原作：小野上明夜）
 
-  - [聖靈家族](../Page/聖靈家族.md "wikilink")（[Frontier
-    Works](../Page/Frontier_Works.md "wikilink")《文庫》，著：渡海奈穗）　　　　　　　　　　　
+  - [聖靈家族](../Page/聖靈家族.md "wikilink")（[Frontier Works](../Page/Frontier_Works.md "wikilink")《文庫》，著：渡海奈穗）　　　　　　　　　　　
 
   - （KADOKAWA《電擊文庫》，原作：）
 
@@ -75,33 +68,23 @@ Yomi**（，），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.w
 
   - 第10號 安倍晴明（）
 
-  - [槍彈辯駁 希望學園與絕望高中生 The
-    Animation](../Page/槍彈辯駁_希望學園與絕望高中生.md "wikilink")
-    電撃漫畫選集（KADOKAWA／ASCII Media Works《[電擊Comics
-    EX](https://zh.wikipedia.org/wiki/電擊Comics "wikilink")》）
+  - [槍彈辯駁 希望學園與絕望高中生 The Animation](../Page/槍彈辯駁_希望學園與絕望高中生.md "wikilink") 電撃漫畫選集（KADOKAWA／ASCII Media Works《[電擊Comics EX](https://zh.wikipedia.org/wiki/電擊Comics "wikilink")》）
 
-  - [刀劍亂舞
-    -Online-漫畫選集](https://zh.wikipedia.org/wiki/刀劍亂舞-Online- "wikilink")
-    ～刀劍男士幕間劇～（[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")《[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")》）\[2\]
+  - [刀劍亂舞 -Online-漫畫選集](https://zh.wikipedia.org/wiki/刀劍亂舞-Online- "wikilink") ～刀劍男士幕間劇～（[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")《[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")》）\[2\]
 
   - 刀劍亂舞 -Online- 同人選集 ～出陣～（KADOKAWA《B's-LOG COMICS》）\[3\]
 
-  - [星光少男 KING OF PRISM](../Page/星光少男_KING_OF_PRISM.md "wikilink")
-    電擊同人漫畫選集（KADOKAWA／ASCII Media Works《[Sylph
-    Comics](../Page/Comic_Sylph.md "wikilink")》）
+  - [星光少男 KING OF PRISM](../Page/星光少男_KING_OF_PRISM.md "wikilink") 電擊同人漫畫選集（KADOKAWA／ASCII Media Works《[Sylph Comics](../Page/Comic_Sylph.md "wikilink")》）
 
 ### 動畫
 
-  - [Lostorage incited
-    WIXOSS](../Page/Lostorage_incited_WIXOSS.md "wikilink")（[TOKYO
-    MX](../Page/東京都會電視台.md "wikilink")）人物原案
+  - [Lostorage incited WIXOSS](../Page/Lostorage_incited_WIXOSS.md "wikilink")（[TOKYO MX](../Page/東京都會電視台.md "wikilink")）人物原案
 
 ### 遊戲
 
   - （）人物設定、原畫
 
-  - [聖靈家族 -La storia della Arcana
-    Famiglia-](../Page/聖靈家族.md "wikilink")（）人物設定、原畫
+  - [聖靈家族 -La storia della Arcana Famiglia-](../Page/聖靈家族.md "wikilink")（）人物設定、原畫
 
   - （）人物設定
 
@@ -111,13 +94,11 @@ Yomi**（，），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.w
 
   - 魔法時光 the Brats’s Parade\]\]（）主要人物設定
 
-  - Tricolity Eyes（otomateｘ[Frontier
-    Works](../Page/Frontier_Works.md "wikilink")）人物設定、原畫
+  - Tricolity Eyes（otomateｘ[Frontier Works](../Page/Frontier_Works.md "wikilink")）人物設定、原畫
 
 ### 畫冊
 
-  - 插畫集 LOVING（[KADOKAWA](../Page/KADOKAWA.md "wikilink")／[ASCII Media
-    Works](../Page/ASCII_Media_Works.md "wikilink")）
+  - 插畫集 LOVING（[KADOKAWA](../Page/KADOKAWA.md "wikilink")／[ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")）
 
 ## 來源
 
@@ -125,8 +106,7 @@ Yomi**（，），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.w
 
   - [::: MELROSE'S :::](http://sarachi.net/) －Sarachi Yomi的官方個人網站。
 
-[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink")
-[Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink")
+[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink")
 
 1.
 2.

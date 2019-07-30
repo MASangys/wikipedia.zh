@@ -1,7 +1,4 @@
-**Project WAO女生團結音樂節元年**（英語：**Project WAO
-Concert**），是歌手[張惠妹](../Page/張惠妹.md "wikilink")、[林憶蓮](../Page/林憶蓮.md "wikilink")、[蔡健雅與](https://zh.wikipedia.org/wiki/蔡健雅 "wikilink")[那英聯合舉辦的一輪公益巡迴演唱會](../Page/那英.md "wikilink")，並接連於2014年4月20日與9月3日於[臺灣](../Page/臺灣.md "wikilink")[臺北市與](../Page/臺北市.md "wikilink")[中國](../Page/中國.md "wikilink")[香港特別行政區舉辦](../Page/香港.md "wikilink")。該演唱會以幫助社會受虐少女為主題，呼籲大眾關心社會各類弱勢群體\[1\]\[2\]\[3\]。演唱會主題曲《We
-Are
-One》由歌手[張惠妹](../Page/張惠妹.md "wikilink")、[林憶蓮](../Page/林憶蓮.md "wikilink")、[蔡健雅與](https://zh.wikipedia.org/wiki/蔡健雅 "wikilink")[那英合唱](../Page/那英.md "wikilink")\[4\]。
+**Project WAO女生團結音樂節元年**（英語：**Project WAO Concert**），是歌手[張惠妹](../Page/張惠妹.md "wikilink")、[林憶蓮](../Page/林憶蓮.md "wikilink")、[蔡健雅與](https://zh.wikipedia.org/wiki/蔡健雅 "wikilink")[那英](../Page/那英.md "wikilink")聯合舉辦的一輪公益巡迴演唱會，並接連於2014年4月20日與9月3日於[臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")與[中國](../Page/中國.md "wikilink")[香港](../Page/香港.md "wikilink")特別行政區舉辦。該演唱會以幫助社會受虐少女為主題，呼籲大眾關心社會各類弱勢群體\[1\]\[2\]\[3\]。演唱會主題曲《We Are One》由歌手[張惠妹](../Page/張惠妹.md "wikilink")、[林憶蓮](../Page/林憶蓮.md "wikilink")、[蔡健雅與](https://zh.wikipedia.org/wiki/蔡健雅 "wikilink")[那英](../Page/那英.md "wikilink")合唱\[4\]。
 
 ## 場次
 
@@ -41,8 +38,7 @@ One》由歌手[張惠妹](../Page/張惠妹.md "wikilink")、[林憶蓮](../Pag
 
 [Category:公益演唱會](https://zh.wikipedia.org/wiki/Category:公益演唱會 "wikilink")
 
-1.   ETtoday
-    東森新聞雲|accessdate=2016-09-03|last=新聞雲|first=ETtoday|language=zh-TW}}
+1.   ETtoday 東森新聞雲|accessdate=2016-09-03|last=新聞雲|first=ETtoday|language=zh-TW}}
 2.   重點新聞 {{\!}} 中央社即時新聞 CNA NEWS|accessdate=2016-09-03|last=中央通訊社}}
 3.
 4.   娛樂星光雲 {{\!}} ETtoday東森新聞雲|accessdate=2016-09-03|language=zh-TW}}

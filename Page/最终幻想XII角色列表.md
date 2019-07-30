@@ -43,6 +43,4 @@
   -
     39歲男性。亞凱迪亞帝國審判長。
 
-[Category:最終幻想XII](https://zh.wikipedia.org/wiki/Category:最終幻想XII "wikilink")
-[Category:最終幻想系列角色](https://zh.wikipedia.org/wiki/Category:最終幻想系列角色 "wikilink")
-[Category:电子游戏角色列表](https://zh.wikipedia.org/wiki/Category:电子游戏角色列表 "wikilink")
+[Category:最終幻想XII](https://zh.wikipedia.org/wiki/Category:最終幻想XII "wikilink") [Category:最終幻想系列角色](https://zh.wikipedia.org/wiki/Category:最終幻想系列角色 "wikilink") [Category:电子游戏角色列表](https://zh.wikipedia.org/wiki/Category:电子游戏角色列表 "wikilink")

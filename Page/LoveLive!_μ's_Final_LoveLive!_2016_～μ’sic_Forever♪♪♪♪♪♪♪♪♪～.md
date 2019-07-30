@@ -1,10 +1,8 @@
-「**LoveLive\! μ's Final LoveLive\!〜μ'sic
-Forever♪♪♪♪♪♪♪♪♪〜**」是[μ's在](https://zh.wikipedia.org/wiki/μ's "wikilink")2016年3月31日和4月1日於[東京巨蛋舉辦的演唱會](../Page/東京巨蛋.md "wikilink")，並於2016年9月28日發售收錄演唱會的[藍光光碟與](../Page/藍光光碟.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。\[1\]
+「**LoveLive\! μ's Final LoveLive\!〜μ'sic Forever♪♪♪♪♪♪♪♪♪〜**」是[μ's在](https://zh.wikipedia.org/wiki/μ's "wikilink")2016年3月31日和4月1日於[東京巨蛋](../Page/東京巨蛋.md "wikilink")舉辦的演唱會，並於2016年9月28日發售收錄演唱會的[藍光光碟](../Page/藍光光碟.md "wikilink")與[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。\[1\]
 
 ## 概要
 
-本次為[μ's的第六場演唱會](https://zh.wikipedia.org/wiki/μ's "wikilink")。2016年3月31日在[東京巨蛋宣布將會發售收錄演唱會的](../Page/東京巨蛋.md "wikilink")[藍光光碟與](../Page/藍光光碟.md "wikilink")[DVD光碟](https://zh.wikipedia.org/wiki/DVD "wikilink")，收錄曲目參考\[<http://news.lovelive-anime.jp/app-def/S-102/news/?p=11635%20ラブライブ！μ’s%20Final%20LoveLive>\!～μ’sic%20Forever♪♪♪♪♪♪♪♪♪～セットリスト
-官方網站\]。
+本次為[μ's的第六場演唱會](https://zh.wikipedia.org/wiki/μ's "wikilink")。2016年3月31日在[東京巨蛋](../Page/東京巨蛋.md "wikilink")宣布將會發售收錄演唱會的[藍光光碟](../Page/藍光光碟.md "wikilink")與[DVD光碟](https://zh.wikipedia.org/wiki/DVD "wikilink")，收錄曲目參考\[<http://news.lovelive-anime.jp/app-def/S-102/news/?p=11635%20ラブライブ！μ’s%20Final%20LoveLive>\!～μ’sic%20Forever♪♪♪♪♪♪♪♪♪～セットリスト 官方網站\]。
 
 ## 收錄曲目（Day1）
 
@@ -320,8 +318,6 @@ Forever♪♪♪♪♪♪♪♪♪〜**」是[μ's在](https://zh.wikipedia.org/
 
 ## 參考資料
 
-[Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")
-[Category:2016年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2016年音樂相關影像作品 "wikilink")
-[Category:動畫音樂會](https://zh.wikipedia.org/wiki/Category:動畫音樂會 "wikilink")
+[Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink") [Category:2016年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2016年音樂相關影像作品 "wikilink") [Category:動畫音樂會](https://zh.wikipedia.org/wiki/Category:動畫音樂會 "wikilink")
 
 1.

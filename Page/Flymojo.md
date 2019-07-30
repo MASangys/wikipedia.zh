@@ -1,12 +1,12 @@
-**Flymojo有限公司**\[1\]（），是一名规划中的、由[马来西亚政府控股的区域航空公司](../Page/马来西亚政府.md "wikilink")。2015年，公司宣布将主要枢纽设置于[士乃国际机场](../Page/士乃国际机场.md "wikilink")，次要枢纽设置于[亚庇国际机场](https://zh.wikipedia.org/wiki/亚庇国际机场 "wikilink")\[2\]\[3\]。
+**Flymojo有限公司**\[1\]（），是一名规划中的、由[马来西亚政府](../Page/马来西亚政府.md "wikilink")控股的区域航空公司。2015年，公司宣布将主要枢纽设置于[士乃国际机场](../Page/士乃国际机场.md "wikilink")，次要枢纽设置于[亚庇国际机场](https://zh.wikipedia.org/wiki/亚庇国际机场 "wikilink")\[2\]\[3\]。
 
 但是航空公司还没有开始运营，而其也到2016年5月30日吊销，并没有任何延期申请\[4\]。
 
 ## 历史
 
-2015年3月17日，[马来西亚政府在](../Page/马来西亚政府.md "wikilink")（LIMA）宣布，构建一个主要服务东盟国家的航空公司。2015年10月，航空公司开始进行商业运营，但由于财政困难以及庞巴迪c系列的迟延而被迫暂停\[5\]\[6\]。
+2015年3月17日，[马来西亚政府](../Page/马来西亚政府.md "wikilink")在（LIMA）宣布，构建一个主要服务东盟国家的航空公司。2015年10月，航空公司开始进行商业运营，但由于财政困难以及庞巴迪c系列的迟延而被迫暂停\[5\]\[6\]。
 
-根据交通部副部长[阿兹卡拉威所称](https://zh.wikipedia.org/wiki/阿兹卡拉威 "wikilink")，Flymojo将会增强[马来西亚半岛](../Page/马来西亚半岛.md "wikilink")、[沙巴州与](https://zh.wikipedia.org/wiki/沙巴州 "wikilink")[砂拉越的关联](../Page/砂拉越.md "wikilink")。公司将总部设置于[士乃国际机场](../Page/士乃国际机场.md "wikilink")，将会使机场成为区域重要航空及物流枢纽；并极大帮助[依斯干达经济特区的发展](https://zh.wikipedia.org/wiki/依斯干达经济特区 "wikilink")\[7\]。
+根据交通部副部长[阿兹卡拉威所称](https://zh.wikipedia.org/wiki/阿兹卡拉威 "wikilink")，Flymojo将会增强[马来西亚半岛](../Page/马来西亚半岛.md "wikilink")、[沙巴州与](https://zh.wikipedia.org/wiki/沙巴州 "wikilink")[砂拉越](../Page/砂拉越.md "wikilink")的关联。公司将总部设置于[士乃国际机场](../Page/士乃国际机场.md "wikilink")，将会使机场成为区域重要航空及物流枢纽；并极大帮助[依斯干达经济特区的发展](https://zh.wikipedia.org/wiki/依斯干达经济特区 "wikilink")\[7\]。
 
 2016年5月30日，由于Flymojo的项目截止临近导致其吊销。[民航局签署了一个展期许可](../Page/马来西亚民航局.md "wikilink")，允许Flymojo可以获取资金购买飞机，但由于庞巴迪C系列的延迟支付，意味着公司并没有飞机运营，从而丧失了航空营运许可证延期的预设条件\[8\]。
 

@@ -1,9 +1,8 @@
-**EXOPLANET \#4 - The EℓyXiOn
--**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[EXO於](../Page/EXO.md "wikilink")2017年舉辦的第四次巡迴演唱會。EℓyXiOn來自「elysium」，有極樂世界之意。本次演唱會意指被選中的人才能夠去的樂園，將帶來融合音樂、表演、影片、舞台為一體的華麗表演。\[1\]
+**EXOPLANET \#4 - The EℓyXiOn -**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[EXO](../Page/EXO.md "wikilink")於2017年舉辦的第四次巡迴演唱會。EℓyXiOn來自「elysium」，有極樂世界之意。本次演唱會意指被選中的人才能夠去的樂園，將帶來融合音樂、表演、影片、舞台為一體的華麗表演。\[1\]
 
 ## 概述
 
-2017年10月19日，[SM娛樂發布舉辦](../Page/SM娛樂.md "wikilink")[EXO第四次單獨演唱會的販賣公告](../Page/EXO.md "wikilink")，演唱會將於11月24－26日在首爾九老區[高尺天空巨蛋](../Page/高尺天空巨蛋.md "wikilink")。門票於10月25日的門票下午8時（韓國標準時）通過網際網路訂票網站[YES24](http://ticket.yes24.com)預訂。
+2017年10月19日，[SM娛樂](../Page/SM娛樂.md "wikilink")發布舉辦[EXO](../Page/EXO.md "wikilink")第四次單獨演唱會的販賣公告，演唱會將於11月24－26日在首爾九老區[高尺天空巨蛋](../Page/高尺天空巨蛋.md "wikilink")。門票於10月25日的門票下午8時（韓國標準時）通過網際網路訂票網站[YES24](http://ticket.yes24.com)預訂。
 
 ## 巡演時間表
 
@@ -214,9 +213,7 @@
 
 <!-- end list -->
 
-  - [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream
-    Maker Entertainment
+  - [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream Maker Entertainment
 
 <!-- end list -->
 
@@ -233,10 +230,7 @@
 
 ## 參考文獻
 
-[Category:EXO](https://zh.wikipedia.org/wiki/Category:EXO "wikilink")
-[Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink")
-[Category:2017年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2017年巡迴演唱會 "wikilink")
-[Category:2018年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2018年巡迴演唱會 "wikilink")
+[Category:EXO](https://zh.wikipedia.org/wiki/Category:EXO "wikilink") [Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink") [Category:2017年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2017年巡迴演唱會 "wikilink") [Category:2018年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2018年巡迴演唱會 "wikilink")
 
 1.
 2.

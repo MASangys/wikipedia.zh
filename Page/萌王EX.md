@@ -1,5 +1,4 @@
-**《萌王EX》** （英语：Kawaii Strike: Cute to
-Kill）是由上海萌宫坊网络科技有限公司研发，网易游戏代理的一部二次元3D动作战术竞技[手游](https://zh.wikipedia.org/wiki/手游 "wikilink")。在《萌王EX》里玩家能操纵历史上真实存在过的、[性别转换的帝王们](https://zh.wikipedia.org/wiki/性别转换 "wikilink")，在名为[魔都的战场上互相交战](https://zh.wikipedia.org/wiki/上海 "wikilink")。\[1\]</ref>
+**《萌王EX》** （英语：Kawaii Strike: Cute to Kill）是由上海萌宫坊网络科技有限公司研发，网易游戏代理的一部二次元3D动作战术竞技[手游](https://zh.wikipedia.org/wiki/手游 "wikilink")。在《萌王EX》里玩家能操纵历史上真实存在过的、[性别转换的帝王们](https://zh.wikipedia.org/wiki/性别转换 "wikilink")，在名为[魔都的战场上互相交战](https://zh.wikipedia.org/wiki/上海 "wikilink")。\[1\]</ref>
 
 ## 制作背景
 
@@ -11,8 +10,7 @@ Kill）是由上海萌宫坊网络科技有限公司研发，网易游戏代理�
 
 ### 角色
 
-玩家在游戏里操控名为“君王”的一类角色。君王是王权力量的拥有者。
-在萌王EX世界观里出现的君王角色全都并非历史上的本人，是非现实界域里的存在，人类共识的产物。\[5\]
+玩家在游戏里操控名为“君王”的一类角色。君王是王权力量的拥有者。 在萌王EX世界观里出现的君王角色全都并非历史上的本人，是非现实界域里的存在，人类共识的产物。\[5\]
 
 萌王ex中的君王分为六大类型：战士、盾卫、刺客、射手、法师还有辅助。\[6\]
 
@@ -28,7 +26,7 @@ Kill）是由上海萌宫坊网络科技有限公司研发，网易游戏代理�
 
 ### 正面评价
 
-  - 游戏开发商“萌宫坊”，以前曾参与过[300英雄等游戏的开发](../Page/300英雄.md "wikilink")，游戏经验丰富。\[9\]
+  - 游戏开发商“萌宫坊”，以前曾参与过[300英雄](../Page/300英雄.md "wikilink")等游戏的开发，游戏经验丰富。\[9\]
   - 独特的游戏风格——游戏内的角色都经过性别转换。即，男性变为女性，女性变为男性。\[10\]
 
 ### 负面评价
@@ -50,8 +48,7 @@ Kill）是由上海萌宫坊网络科技有限公司研发，网易游戏代理�
 ## 外部链接
 
   - [《萌王EX》官方网站](http://moe.163.com/index.html?from=mobile)
-  - [萌王EX - 萌娘百科
-    萬物皆可萌的百科全書](https://zh.moegirl.org/%E8%90%8C%E7%8E%8BEX)
+  - [萌王EX - 萌娘百科 萬物皆可萌的百科全書](https://zh.moegirl.org/%E8%90%8C%E7%8E%8BEX)
   - 阅读[《80天征服魔都》](http://www.8kana.com/book/12288.html)
 
 [Category:游戏](https://zh.wikipedia.org/wiki/Category:游戏 "wikilink")

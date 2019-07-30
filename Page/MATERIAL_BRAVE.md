@@ -1,11 +1,8 @@
-是[戲畫於](https://zh.wikipedia.org/wiki/戲畫 "wikilink")2012年3月23日發售的[動作](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")、[角色扮演](../Page/電子角色扮演遊戲.md "wikilink")、[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，2013年1月25日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《MATERIAL
-BRAVE Ignition》（）。\[3\]\[4\]除了遊戲也還發售漫畫、小說\[5\]、CD。
+是[戲畫於](https://zh.wikipedia.org/wiki/戲畫 "wikilink")2012年3月23日發售的[動作](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")、[角色扮演](../Page/電子角色扮演遊戲.md "wikilink")、[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，2013年1月25日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《MATERIAL BRAVE Ignition》（）。\[3\]\[4\]除了遊戲也還發售漫畫、小說\[5\]、CD。
 
 ## 故事
 
-神尾城島發現具有與生物融合特性的稀有元素礦石「Enigmatite」（）後，開始出現與人融合後能使用特殊能力的新人種「Unleashed」（）和動植物融合的新物種「Neo
-Plasm」（）。鏑木遙歩遵從母親的遺言來到神尾城島並進入專門培養Unleashed的學園「Unleashed
-Nursery」（），在一次戰鬥中意外發現自己擁有罕見的另一個特殊能力「Engagement」（），然而不久與犯罪組織「Evorutsuion」（）開始展開對抗。
+神尾城島發現具有與生物融合特性的稀有元素礦石「Enigmatite」（）後，開始出現與人融合後能使用特殊能力的新人種「Unleashed」（）和動植物融合的新物種「Neo Plasm」（）。鏑木遙歩遵從母親的遺言來到神尾城島並進入專門培養Unleashed的學園「Unleashed Nursery」（），在一次戰鬥中意外發現自己擁有罕見的另一個特殊能力「Engagement」（），然而不久與犯罪組織「Evorutsuion」（）開始展開對抗。
 
 ## 角色
 
@@ -58,8 +55,7 @@ Nursery」（），在一次戰鬥中意外發現自己擁有罕見的另一個�
 <!-- end list -->
 
   -
-    作曲、編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（[Elements
-    Garden](../Page/Elements_Garden.md "wikilink")），作詞、歌：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")
+    作曲、編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")），作詞、歌：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")
 
 <!-- end list -->
 
@@ -103,8 +99,7 @@ Nursery」（），在一次戰鬥中意外發現自己擁有罕見的另一個�
 
 ### 漫畫
 
-《MATERIAL BRAVE》是由abua擔任作畫，於《Comic Earth Star》連載，單行本由EARTH STAR
-Entertainment發售共2冊。
+《MATERIAL BRAVE》是由abua擔任作畫，於《Comic Earth Star》連載，單行本由EARTH STAR Entertainment發售共2冊。
 
 ### 小說
 
@@ -125,16 +120,7 @@ Entertainment發售共2冊。
   - [MATERIAL BRAVE官方網站](http://products.web-giga.com/materialbrave/)
   - [MATERIAL BRAVE Ignition官方網站](http://products.web-giga.com/mbi/)
 
-[Category:2012年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2012年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:孤島背景作品](https://zh.wikipedia.org/wiki/Category:孤島背景作品 "wikilink")
-[Category:超能力題材作品](https://zh.wikipedia.org/wiki/Category:超能力題材作品 "wikilink")
-[Category:架空專校背景作品](https://zh.wikipedia.org/wiki/Category:架空專校背景作品 "wikilink")
-[Category:戲畫](https://zh.wikipedia.org/wiki/Category:戲畫 "wikilink")
+[Category:2012年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2012年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:孤島背景作品](https://zh.wikipedia.org/wiki/Category:孤島背景作品 "wikilink") [Category:超能力題材作品](https://zh.wikipedia.org/wiki/Category:超能力題材作品 "wikilink") [Category:架空專校背景作品](https://zh.wikipedia.org/wiki/Category:架空專校背景作品 "wikilink") [Category:戲畫](https://zh.wikipedia.org/wiki/Category:戲畫 "wikilink")
 
 1.
 2.

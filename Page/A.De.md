@@ -1,5 +1,4 @@
-**A.De**（）是[2ABLE
-COMPANY在](https://zh.wikipedia.org/wiki/2ABLE_COMPANY "wikilink")2016年推出的七人女子團體，成員包括秀妍、如璘、智瑞、Rachel、海泳、礎奫以及美笑。
+**A.De**（）是[2ABLE COMPANY在](https://zh.wikipedia.org/wiki/2ABLE_COMPANY "wikilink")2016年推出的七人女子團體，成員包括秀妍、如璘、智瑞、Rachel、海泳、礎奫以及美笑。
 
 ## 成員檔案
 
@@ -21,10 +20,9 @@ COMPANY在](https://zh.wikipedia.org/wiki/2ABLE_COMPANY "wikilink")2016年推出
 
 ## 活動經歷
 
-2013年7月，秀妍曾以藝名Chae Eun在[TURAN出道](../Page/TURAN.md "wikilink")。
+2013年7月，秀妍曾以藝名Chae Eun在[TURAN](../Page/TURAN.md "wikilink")出道。
 
-2016年1月，海泳(2ABLE Company練習生)、美笑(MJ練習生)、秀妍(MJ練習生)參加《[PRODUCE
-101](../Page/PRODUCE_101.md "wikilink")》選秀節目，最終排名分別為第38名、第73名及第75名，未能透過節目出道。
+2016年1月，海泳(2ABLE Company練習生)、美笑(MJ練習生)、秀妍(MJ練習生)參加《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》選秀節目，最終排名分別為第38名、第73名及第75名，未能透過節目出道。
 
 2017年4月，礎奫因健康因素退出，團體改以六人體制活動。
 
@@ -172,6 +170,4 @@ COMPANY在](https://zh.wikipedia.org/wiki/2ABLE_COMPANY "wikilink")2016年推出
   -
   -
   -
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")

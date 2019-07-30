@@ -1,8 +1,4 @@
-《**What a
-Folk\!\!\!\!\!\!**》是[台灣男歌手](https://zh.wikipedia.org/wiki/台灣 "wikilink")[盧廣仲的第五張全創作](../Page/盧廣仲.md "wikilink")[專輯](../Page/音樂專輯.md "wikilink"),
-於2016年6月7日發行，以民謠元素為基底，在編曲上對吉他有更深一層的探究，盧廣仲說：「我想要做一張不管是在家或是旅行，都可以聽一整天的民謠專輯。」\[1\]日本版專輯於2017年8月23日發行,
-收錄限定 Bonus Track
-一首「一定要相信自己」日文版「いつも信じて」，由[川島小鳥填詞](../Page/川島小鳥.md "wikilink")。\[2\]。
+《**What a Folk\!\!\!\!\!\!**》是[台灣男歌手](https://zh.wikipedia.org/wiki/台灣 "wikilink")[盧廣仲](../Page/盧廣仲.md "wikilink")的第五張全創作[專輯](../Page/音樂專輯.md "wikilink"), 於2016年6月7日發行，以民謠元素為基底，在編曲上對吉他有更深一層的探究，盧廣仲說：「我想要做一張不管是在家或是旅行，都可以聽一整天的民謠專輯。」\[1\]日本版專輯於2017年8月23日發行, 收錄限定 Bonus Track 一首「一定要相信自己」日文版「いつも信じて」，由[川島小鳥](../Page/川島小鳥.md "wikilink")填詞。\[2\]。
 
 ## 曲目
 
@@ -46,7 +42,7 @@ Folk\!\!\!\!\!\!**》是[台灣男歌手](https://zh.wikipedia.org/wiki/台灣 "
 <td><p>夏天的歌 Song of Summer</p></td>
 <td><p>周谷淳、盧廣仲</p></td>
 <td><p>3:19</p></td>
-<td><p><a href="../Page/三立都會台.md" title="wikilink">三立都會台華劇</a>《<a href="../Page/月村歡迎你.md" title="wikilink">月村歡迎你</a>》插曲</p></td>
+<td><p><a href="../Page/三立都會台.md" title="wikilink">三立都會台</a>華劇《<a href="../Page/月村歡迎你.md" title="wikilink">月村歡迎你</a>》插曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -155,10 +151,7 @@ Folk\!\!\!\!\!\!**》是[台灣男歌手](https://zh.wikipedia.org/wiki/台灣 "
 
 ## 參考資料
 
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:盧廣仲音樂專輯](https://zh.wikipedia.org/wiki/Category:盧廣仲音樂專輯 "wikilink")
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
+[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:盧廣仲音樂專輯](https://zh.wikipedia.org/wiki/Category:盧廣仲音樂專輯 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
 
 1.
 2.

@@ -1,12 +1,8 @@
-《**夢 Hurry
-Up**》是[日本女性](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")[林原惠的第](../Page/林原惠.md "wikilink")6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1993年11月26日由[STARCHILD](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")（[King
-Records旗下公司](../Page/國王唱片.md "wikilink")）發行。
+《**夢 Hurry Up**》是[日本](../Page/日本.md "wikilink")女性[聲優](../Page/聲優.md "wikilink")[林原惠](../Page/林原惠.md "wikilink")的第6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1993年11月26日由[STARCHILD](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")（[King Records旗下公司](../Page/國王唱片.md "wikilink")）發行。
 
 ## 解說
 
-同名標題曲「夢 Hurry
-Up」是聲優[林原惠主演](../Page/林原惠.md "wikilink")1993發行的[OVA動畫系列](https://zh.wikipedia.org/wiki/OVA "wikilink")《[萬能文化貓娘](https://zh.wikipedia.org/wiki/萬能文化貓娘 "wikilink")》選用的第2期片頭主題曲。至於B面歌曲「
-Trying！」同樣也被選為同名OVA動畫的片尾主題曲使用。
+同名標題曲「夢 Hurry Up」是聲優[林原惠](../Page/林原惠.md "wikilink")主演1993發行的[OVA動畫系列](https://zh.wikipedia.org/wiki/OVA "wikilink")《[萬能文化貓娘](https://zh.wikipedia.org/wiki/萬能文化貓娘 "wikilink")》選用的第2期片頭主題曲。至於B面歌曲「 Trying！」同樣也被選為同名OVA動畫的片尾主題曲使用。
 
 另外，該單曲收錄的兩首歌曲後來都有收錄在林原惠她的[個人專輯](https://zh.wikipedia.org/wiki/#收錄專輯 "wikilink")（下述）裡。
 
@@ -55,7 +51,4 @@ Trying！」同樣也被選為同名OVA動畫的片尾主題曲使用。
 </tbody>
 </table>
 
-[Category:林原惠單曲](https://zh.wikipedia.org/wiki/Category:林原惠單曲 "wikilink")
-[Category:1993年單曲](https://zh.wikipedia.org/wiki/Category:1993年單曲 "wikilink")
-[Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")
-[Category:OVA主題曲](https://zh.wikipedia.org/wiki/Category:OVA主題曲 "wikilink")
+[Category:林原惠單曲](https://zh.wikipedia.org/wiki/Category:林原惠單曲 "wikilink") [Category:1993年單曲](https://zh.wikipedia.org/wiki/Category:1993年單曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:OVA主題曲](https://zh.wikipedia.org/wiki/Category:OVA主題曲 "wikilink")

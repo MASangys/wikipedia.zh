@@ -1,7 +1,4 @@
-**NuFX**，是美国的游戏开发商，总部设在伊利诺伊州。
-NuFX是著名的游戏为[NBA街头篮球游戏系列](https://zh.wikipedia.org/wiki/NBA街头篮球 "wikilink")。2004年2月13日被[艺电收购并改名为](../Page/艺电.md "wikilink")**EA芝加哥**，在此之前两家公司曾合作开发游戏NCAA
-March Madness，[NBA
-LIVE和](https://zh.wikipedia.org/wiki/NBA_LIVE "wikilink")[FIFA足球系列](https://zh.wikipedia.org/wiki/FIFA足球 "wikilink")。\[1\]2007年11月6日，由于该公司未能达到盈利目标而被关闭。\[2\]
+**NuFX**，是美国的游戏开发商，总部设在伊利诺伊州。 NuFX是著名的游戏为[NBA街头篮球游戏系列](https://zh.wikipedia.org/wiki/NBA街头篮球 "wikilink")。2004年2月13日被[艺电](../Page/艺电.md "wikilink")收购并改名为**EA芝加哥**，在此之前两家公司曾合作开发游戏NCAA March Madness，[NBA LIVE和](https://zh.wikipedia.org/wiki/NBA_LIVE "wikilink")[FIFA足球系列](https://zh.wikipedia.org/wiki/FIFA足球 "wikilink")。\[1\]2007年11月6日，由于该公司未能达到盈利目标而被关闭。\[2\]
 
 ## 游戏
 
@@ -23,12 +20,7 @@ LIVE和](https://zh.wikipedia.org/wiki/NBA_LIVE "wikilink")[FIFA足球系列](ht
 
 ## 參考資料
 
-[Category:1990年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1990年開業電子遊戲公司 "wikilink")
-[Category:2007年結業公司](https://zh.wikipedia.org/wiki/Category:2007年結業公司 "wikilink")
-[Category:美国電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美国電子遊戲公司 "wikilink")
-[Category:艺电的部门与子公司](https://zh.wikipedia.org/wiki/Category:艺电的部门与子公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:伊利诺伊州已结业公司](https://zh.wikipedia.org/wiki/Category:伊利诺伊州已结业公司 "wikilink")
+[Category:1990年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1990年開業電子遊戲公司 "wikilink") [Category:2007年結業公司](https://zh.wikipedia.org/wiki/Category:2007年結業公司 "wikilink") [Category:美国電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美国電子遊戲公司 "wikilink") [Category:艺电的部门与子公司](https://zh.wikipedia.org/wiki/Category:艺电的部门与子公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:伊利诺伊州已结业公司](https://zh.wikipedia.org/wiki/Category:伊利诺伊州已结业公司 "wikilink")
 
 1.
 2.

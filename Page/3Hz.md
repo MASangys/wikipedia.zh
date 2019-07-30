@@ -1,9 +1,8 @@
-**株式會社3Hz**（，[振假名](https://zh.wikipedia.org/wiki/振假名 "wikilink")：\[1\]\[2\]，）是[日本的](../Page/日本.md "wikilink")[動畫製作公司](../Page/日本动画.md "wikilink")。
+**株式會社3Hz**（，[振假名](https://zh.wikipedia.org/wiki/振假名 "wikilink")：\[1\]\[2\]，）是[日本](../Page/日本.md "wikilink")的[動畫製作公司](../Page/日本动画.md "wikilink")。
 
 ## 簡介
 
-此公司由出身自[Production
-I.G的製作人](../Page/Production_I.G.md "wikilink")[松家雄一郎於](https://zh.wikipedia.org/wiki/松家雄一郎 "wikilink")2013年設立，第一部總承包作品為原創動畫《[天體運行式](https://zh.wikipedia.org/wiki/天體運行式 "wikilink")》。
+此公司由出身自[Production I.G的製作人](../Page/Production_I.G.md "wikilink")[松家雄一郎於](https://zh.wikipedia.org/wiki/松家雄一郎 "wikilink")2013年設立，第一部總承包作品為原創動畫《[天體運行式](https://zh.wikipedia.org/wiki/天體運行式 "wikilink")》。
 
 在製作人員名單上使用「**Studio 3Hz**」作為名稱。
 
@@ -43,11 +42,9 @@ I.G的製作人](../Page/Production_I.G.md "wikilink")[松家雄一郎於](https
 ## 外部連結
 
   -
-  - [Studio 3Hz](https://www.animenewsnetwork.com/encyclopedia/company.php?id=12870)於[動畫新聞網百科](../Page/動畫新聞網.md "wikilink")
+  - [Studio 3Hz](https://www.animenewsnetwork.com/encyclopedia/company.php?id=12870)於[動畫新聞網](../Page/動畫新聞網.md "wikilink")百科
 
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
-[Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink")
+[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink") [Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink")
 
 1.
 2.

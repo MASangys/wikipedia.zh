@@ -95,19 +95,13 @@
 
 ## 參考資料
 
-[Category:江海迦音樂專輯](https://zh.wikipedia.org/wiki/Category:江海迦音樂專輯 "wikilink")
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:江海迦音樂專輯](https://zh.wikipedia.org/wiki/Category:江海迦音樂專輯 "wikilink") [Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
 1.  [【娛樂快遞】AGA新碟《Luna》封面曝光！](https://www.umwebzine.com/zh/article/2784)
-2.  [都市專訪 AGA
-    我的2017](http://www.metrodaily.hk/metro_news/%E9%83%BD%E5%B8%82%E5%B0%88%E8%A8%AA-aga-%E6%88%91%E7%9A%842017/)
-3.  [拒為市場扼殺創意 江海迦
-    AGA](https://www.am730.com.hk/news/%E5%A8%9B%E6%A8%82/%E6%8B%92%E7%82%BA%E5%B8%82%E5%A0%B4%E6%89%BC%E6%AE%BA%E5%89%B5%E6%84%8F-%E6%B1%9F%E6%B5%B7%E8%BF%A6-aga-109523)
-4.  [新城勁爆頒獎禮2016 -
-    得獎名單](https://www.metroradio.com.hk/campaign/2016/997/HitAwards/result.html)
-5.  [第39屆十大中文金曲
-    獎項名單](http://app4.rthk.hk/special/goldsong2016/result.htm)
+2.  [都市專訪 AGA 我的2017](http://www.metrodaily.hk/metro_news/%E9%83%BD%E5%B8%82%E5%B0%88%E8%A8%AA-aga-%E6%88%91%E7%9A%842017/)
+3.  [拒為市場扼殺創意 江海迦 AGA](https://www.am730.com.hk/news/%E5%A8%9B%E6%A8%82/%E6%8B%92%E7%82%BA%E5%B8%82%E5%A0%B4%E6%89%BC%E6%AE%BA%E5%89%B5%E6%84%8F-%E6%B1%9F%E6%B5%B7%E8%BF%A6-aga-109523)
+4.  [新城勁爆頒獎禮2016 - 得獎名單](https://www.metroradio.com.hk/campaign/2016/997/HitAwards/result.html)
+5.  [第39屆十大中文金曲 獎項名單](http://app4.rthk.hk/special/goldsong2016/result.htm)
 6.  [金曲40 獎項名單](http://app4.rthk.hk/special/goldsong2017/list.htm)
 7.
 8.  [2018年度叱咤樂壇流行榜頒獎典禮 得獎名單及重溫](http://usca.my903.com/)

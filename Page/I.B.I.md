@@ -4,15 +4,11 @@
 
 ### 2016年
 
-  - 在《[PRODUCE
-    101](../Page/PRODUCE_101.md "wikilink")》中落選的李海印、金昭希、尹彩暻、李秀炫、韓慧里在8月組成特別企劃女團I.B.I出道。\[1\]
-    \[2\]
-  - I.B.I的個人照片，由前輩[Rainbow](../Page/Rainbow_\(音樂團體\).md "wikilink")[智淑拍攝](../Page/金智淑_\(藝人\).md "wikilink")。\[3\]
-    \[4\]
+  - 在《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》中落選的李海印、金昭希、尹彩暻、李秀炫、韓慧里在8月組成特別企劃女團I.B.I出道。\[1\] \[2\]
+  - I.B.I的個人照片，由前輩[Rainbow](../Page/Rainbow_\(音樂團體\).md "wikilink")[智淑拍攝](../Page/金智淑_\(藝人\).md "wikilink")。\[3\] \[4\]
   - 8月18日，I.B.I在首爾市YES24 MUV HALL舉辦出道Showcase。\[5\]
   - 8月18日，I.B.I透過Mnet音樂節目《M\!Countdown》公開出道舞台《MOLAE MOLAE》。\[6\]
-  - I.B.I將出演JTBC新旅遊綜藝節目《[Hello
-    I.B.I](../Page/Hello_I.B.I.md "wikilink")》，預計10月播出。\[7\]
+  - I.B.I將出演JTBC新旅遊綜藝節目《[Hello I.B.I](../Page/Hello_I.B.I.md "wikilink")》，預計10月播出。\[7\]
 
 ## 成員資料
 
@@ -360,7 +356,7 @@ tagTV</p></td>
 |                                          |                                                                              |       |
 | ---------------------------------------- | ---------------------------------------------------------------------------- | ----- |
 | 年份                                       | 品牌名稱                                                                         | 參與成員  |
-| 2012                                     | [任天堂](../Page/任天堂.md "wikilink")[WiiJust](../Page/Wii.md "wikilink") Dance 2 | 彩暻    |
+| 2012                                     | [任天堂](../Page/任天堂.md "wikilink")[Wii](../Page/Wii.md "wikilink")Just Dance 2 | 彩暻    |
 | 2016                                     | General Mills FRUIT BY THE FOOT                                              | 昭希、彩暻 |
 | Woman Stalk-C.I.V.A篇 SK telecom-C.I.V.A篇 |                                                                              |       |
 
@@ -383,21 +379,14 @@ tagTV</p></td>
   -
 以上皆為
 
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink")
-[Category:PRODUCE_101](https://zh.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink")
-[Category:FAVE娛樂](https://zh.wikipedia.org/wiki/Category:FAVE娛樂 "wikilink")
+[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:期間限定團體](https://zh.wikipedia.org/wiki/Category:期間限定團體 "wikilink") [Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink") [Category:PRODUCE_101](https://zh.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink") [Category:FAVE娛樂](https://zh.wikipedia.org/wiki/Category:FAVE娛樂 "wikilink")
 
 1.  [企劃女團 I.B.I 將於8月中發表新曲](http://kpopn.niusnews.com/=K1onon40)
 2.
 3.  [I.B.I 預計18日出道，資料照片公開](http://kpopn.niusnews.com/=K255c760)
 4.
 5.  [女團I.B.I出道Showcase　熱唱新歌《悄悄》](http://www.koreastardaily.com/tc/news/82994)
-6.  [I.B.I韓惠利公開出道感言
-    今晚首度亮相《MCD》](http://www.allthatstar.com/tw/view.php?action=5205&postID=267897)
-7.  [I.B.I首次出演團綜
-    預計10月播出](http://www.allthatstar.com/tw/view.php?action=5205&postID=273205)
+6.  [I.B.I韓惠利公開出道感言 今晚首度亮相《MCD》](http://www.allthatstar.com/tw/view.php?action=5205&postID=267897)
+7.  [I.B.I首次出演團綜 預計10月播出](http://www.allthatstar.com/tw/view.php?action=5205&postID=273205)
 8.
 9.

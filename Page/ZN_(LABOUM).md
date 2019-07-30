@@ -1,11 +1,8 @@
 [UNI.T](../Page/UNI.T.md "wikilink") }}
 
-**裴津銳**\[1\]（；），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女](https://zh.wikipedia.org/wiki/女 "wikilink")[歌手](../Page/歌手.md "wikilink")。以藝名**ZN**（）\[2\]作為[NH
-Media及](../Page/NH_Media.md "wikilink")[Nega
-Network旗下女子組合](https://zh.wikipedia.org/wiki/NEGANETWORK "wikilink")[LABOUM的成員](../Page/LABOUM.md "wikilink")，隊内擔當主領舞及副唱。\[3\]
+**裴津銳**\[1\]（；），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女](https://zh.wikipedia.org/wiki/女 "wikilink")[歌手](../Page/歌手.md "wikilink")。以藝名**ZN**（）\[2\]作為[NH Media及](../Page/NH_Media.md "wikilink")[Nega Network旗下女子組合](https://zh.wikipedia.org/wiki/NEGANETWORK "wikilink")[LABOUM](../Page/LABOUM.md "wikilink")的成員，隊内擔當主領舞及副唱。\[3\]
 
-2017年，參賽由[KBS2製作的偶像重振計劃](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[The
-Unit](../Page/The_Unit.md "wikilink")》，並于2018年2月11日以第8名勝出，作爲[UNI.T出道](../Page/UNI.T.md "wikilink")。\[4\]
+2017年，參賽由[KBS2製作的偶像重振計劃](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[The Unit](../Page/The_Unit.md "wikilink")》，並于2018年2月11日以第8名勝出，作爲[UNI.T](../Page/UNI.T.md "wikilink")出道。\[4\]
 
 ## 音乐作品
 
@@ -92,16 +89,22 @@ Unit](../Page/The_Unit.md "wikilink")》，並于2018年2月11日以第8名勝�
 
 ## 影視作品
 
-主條目：[LABOUM §
-影視作品](https://zh.wikipedia.org/wiki/LABOUM#%E5%BD%B1%E8%A6%96%E4%BD%9C%E5%93%81 "wikilink")
+主條目：[LABOUM § 影視作品](https://zh.wikipedia.org/wiki/LABOUM#%E5%BD%B1%E8%A6%96%E4%BD%9C%E5%93%81 "wikilink")
 
-### 網絡劇
+### 網路劇
 
 |        |               |                           |        |        |
 | ------ | ------------- | ------------------------- | ------ | ------ |
-| **年份** | **電視台**       | **電視劇名稱**                 | **角色** | **性質** |
+| **年份** | **播放平台**      | **劇名**                    | **角色** | **性質** |
 | 2015年  | Naver TV Cast | 《About Love ─ Milky Love》 | 瑪麗     | 女主角    |
 |        |               |                           |        |        |
+
+### 電影
+
+|        |          |        |        |
+| ------ | -------- | ------ | ------ |
+| **年份** | **電影名稱** | **角色** | **性質** |
+| 2019年  | 《賭上了一切》  | 賽綸     | 配角     |
 
 ### 固定出演綜藝節目
 
@@ -158,15 +161,7 @@ Unit](../Page/The_Unit.md "wikilink")》，並于2018年2月11日以第8名勝�
   -
   -
   -
-[Category:1994年出生](https://zh.wikipedia.org/wiki/Category:1994年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓國舞者](https://zh.wikipedia.org/wiki/Category:韓國舞者 "wikilink")
-[Category:裴姓](https://zh.wikipedia.org/wiki/Category:裴姓 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
-[Category:UNI.T](https://zh.wikipedia.org/wiki/Category:UNI.T "wikilink")
+[Category:1994年出生](https://zh.wikipedia.org/wiki/Category:1994年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國舞者](https://zh.wikipedia.org/wiki/Category:韓國舞者 "wikilink") [Category:裴姓](https://zh.wikipedia.org/wiki/Category:裴姓 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:UNI.T](https://zh.wikipedia.org/wiki/Category:UNI.T "wikilink")
 
 1.
 2.

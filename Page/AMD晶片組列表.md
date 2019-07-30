@@ -879,11 +879,11 @@ ULi-1563</p></td>
 <th><p>核心代號</p></th>
 <th><p>發布時間</p></th>
 <th><p>製程 (<a href="https://zh.wikipedia.org/wiki/Nanometer" title="wikilink">nm</a>)</p></th>
-<th><p><a href="../Page/SATA.md" title="wikilink">SATA數量</a></p></th>
+<th><p><a href="../Page/SATA.md" title="wikilink">SATA</a>數量</p></th>
 <th><p><a href="../Page/USB.md" title="wikilink">USB</a><br />
 2.0 + 1.1</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/Parallel_ATA" title="wikilink">Parallel ATA</a><sup>1</sup></p></th>
-<th><p><a href="../Page/RAID.md" title="wikilink">RAID支援</a></p></th>
+<th><p><a href="../Page/RAID.md" title="wikilink">RAID</a>支援</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/Network_interface_controller" title="wikilink">NIC支援</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/Wireless_network_interface_controller" title="wikilink">WNIC支援</a></p></th>
 <th><p>封裝腳位</p></th>
@@ -1390,10 +1390,7 @@ AHCI1.3</p></td>
 </tbody>
 </table>
 
-<cite id="fn_1">[Note
-1:](https://zh.wikipedia.org/wiki/#fn_1_back "wikilink")</cite>
-支援[SDHC](https://zh.wikipedia.org/wiki/Secure_Digital#SDHC "wikilink")，容量最大32GB，4
-pins @ 50MHz.
+<cite id="fn_1">[Note 1:](https://zh.wikipedia.org/wiki/#fn_1_back "wikilink")</cite> 支援[SDHC](https://zh.wikipedia.org/wiki/Secure_Digital#SDHC "wikilink")，容量最大32GB，4 pins @ 50MHz.
 
 代號:  UMI:
 
@@ -1550,29 +1547,22 @@ pins @ 50MHz.
 
   - [AMD Chipsets](http://www.amd.com/en-us/products/chipsets)
 
-[Category:AMD](https://zh.wikipedia.org/wiki/Category:AMD "wikilink")
-[Category:冶天科技](https://zh.wikipedia.org/wiki/Category:冶天科技 "wikilink")
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
+[Category:AMD](https://zh.wikipedia.org/wiki/Category:AMD "wikilink") [Category:冶天科技](https://zh.wikipedia.org/wiki/Category:冶天科技 "wikilink") [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
 
-1.  [AMD's Super Bypass - AMD Improves their 750 Chipset : Introduction
-    - Tom's Hardware](http://www.tomshardware.com/1999/12/29/amd/)
+1.  [AMD's Super Bypass - AMD Improves their 750 Chipset : Introduction - Tom's Hardware](http://www.tomshardware.com/1999/12/29/amd/)
 
-2.  [AMD-768 Peripheral Bus Controller Revision
-    Guide](https://web.archive.org/web/20040331011900/http://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/24472.pdf)
+2.  [AMD-768 Peripheral Bus Controller Revision Guide](https://web.archive.org/web/20040331011900/http://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/24472.pdf)
 
-3.  [AMD Phenom Motherboard compatibility
-    matrix](http://products.amd.com/en-us/RecommendedComponentResult.aspx?f1=AMD+Phenom%e2%84%a2+X4+Quad-Core&f2=9850&f3=2500&f4=512&f5=AM2%2b&f6=B3&f7=65nm+SOI&f8=125+W&f9=4000&f10=False&models=338&source=desktopCPU&target=motherboard&socket=AM2+&)
+3.  [AMD Phenom Motherboard compatibility matrix](http://products.amd.com/en-us/RecommendedComponentResult.aspx?f1=AMD+Phenom%e2%84%a2+X4+Quad-Core&f2=9850&f3=2500&f4=512&f5=AM2%2b&f6=B3&f7=65nm+SOI&f8=125+W&f9=4000&f10=False&models=338&source=desktopCPU&target=motherboard&socket=AM2+&)
 
-4.  [You Asked for It, You Got It: SLI for
-    AMD](http://blogs.nvidia.com/2011/04/you-asked-for-it-you-got-it-sli-for-amd/)
+4.  [You Asked for It, You Got It: SLI for AMD](http://blogs.nvidia.com/2011/04/you-asked-for-it-you-got-it-sli-for-amd/)
 
 5.  <http://event.asus.com/2011/mb/AM3_PLUS_Ready/>
 
 6.  **M**: 筆記型電腦平台使用
 
 7.
-8.  UMI ×4 Gen. 1 代表基於[PCIe
-    1.1](https://zh.wikipedia.org/wiki/PCI_Express#PCI_Express_1.1 "wikilink")×4鏈路，提供共1GB/s的頻寬
+8.  UMI ×4 Gen. 1 代表基於[PCIe 1.1](https://zh.wikipedia.org/wiki/PCI_Express#PCI_Express_1.1 "wikilink")×4鏈路，提供共1GB/s的頻寬
 
 9.  <http://www.amd.com/us/Documents/43838_Embedded_Solutions_Selection_Brief_web.pdf>
 
@@ -1580,14 +1570,12 @@ pins @ 50MHz.
 11.
 12.
 13.
-14. [Deux chipsets pour l'APU Llano sont certifiés
-    USB 3.0](http://www.pcinpact.com/actu/news/62708-amd-llano-hudson-usb-30-fusion.htm)
+14. [Deux chipsets pour l'APU Llano sont certifiés USB 3.0](http://www.pcinpact.com/actu/news/62708-amd-llano-hudson-usb-30-fusion.htm)
 
 15.
 16. **D**: 桌上型電腦平台使用
 
-17. UMI ×4 Gen. 2 代表基於[PCIe
-    2.0](https://zh.wikipedia.org/wiki/PCI_Express#PCI_Express_2.0 "wikilink")×4鏈路，提供共2GB/s的頻寬
+17. UMI ×4 Gen. 2 代表基於[PCIe 2.0](https://zh.wikipedia.org/wiki/PCI_Express#PCI_Express_2.0 "wikilink")×4鏈路，提供共2GB/s的頻寬
 
 18.
 19.

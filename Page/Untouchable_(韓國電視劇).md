@@ -1,4 +1,4 @@
-《**Untouchable**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC於](../Page/JTBC.md "wikilink")2017年11月24日起播出的[金土連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[Fantastic](../Page/Fantastic_\(電視劇\).md "wikilink")》[趙南國導演執導與](../Page/趙南國.md "wikilink")《[蒙面檢察官](../Page/蒙面檢察官.md "wikilink")》[崔鎮源作家合作打造](../Page/崔鎮源.md "wikilink")。\[1\]此劇以假想城市「北川市」作為背景，圍繞在三代支配北川市的張氏一家，講述權力爭奪與隱藏秘密的故事。台灣由愛奇藝台灣站每週六日上午10點更新。
+《**Untouchable**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")於2017年11月24日起播出的[金土連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[Fantastic](../Page/Fantastic_\(電視劇\).md "wikilink")》[趙南國](../Page/趙南國.md "wikilink")導演執導與《[蒙面檢察官](../Page/蒙面檢察官.md "wikilink")》[崔鎮源](../Page/崔鎮源.md "wikilink")作家合作打造。\[1\]此劇以假想城市「北川市」作為背景，圍繞在三代支配北川市的張氏一家，講述權力爭奪與隱藏秘密的故事。台灣由愛奇藝台灣站每週六日上午10點更新。
 
 ## 演員陣容
 
@@ -105,7 +105,7 @@
 <td><p><a href="../Page/裴侑藍.md" title="wikilink">裴侑藍</a></p></td>
 <td><p>崔在浩</p></td>
 <td><p><a href="../Page/簡懷甄.md" title="wikilink">簡懷甄</a></p></td>
-<td><p>俊書的工作夥伴，<a href="../Page/首爾.md" title="wikilink">首爾特別市地方警察廳候補偵探</a>。</p></td>
+<td><p>俊書的工作夥伴，<a href="../Page/首爾.md" title="wikilink">首爾</a>特別市地方警察廳候補偵探。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/林賢成.md" title="wikilink">林賢成</a></p></td>
@@ -270,12 +270,8 @@
   - [韓國JTBC官方網站](http://tv.jtbc.joins.com/trailer/pr10010519/pm10045367/vo10189520/view)
   - [香港有線電視官方網站](http://epg.i-cable.com/ci/program/intro/599/權慾都市)
 
-[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink")
-[Category:虛構聚居地背景作品](https://zh.wikipedia.org/wiki/Category:虛構聚居地背景作品 "wikilink")
-[Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
+[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink") [Category:虛構聚居地背景作品](https://zh.wikipedia.org/wiki/Category:虛構聚居地背景作品 "wikilink") [Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
 
-1.  [더패키지 후속 ‘언터처블’ 대본리딩 현장 공개..진구-김성균 연기
-    맞대결\!](http://www.imaeil.com/sub_news/sub_news_view.php?news_id=44504&yy=2017)
+1.  [더패키지 후속 ‘언터처블’ 대본리딩 현장 공개..진구-김성균 연기 맞대결\!](http://www.imaeil.com/sub_news/sub_news_view.php?news_id=44504&yy=2017)
 2.
 3.

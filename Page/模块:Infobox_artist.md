@@ -45,8 +45,7 @@ local function PageNameBase ()
 
 end
 
-\-- 颜色选择器、语言选择器等部件继续沿用既有的模板实现方式。 -- 等抽出时间再将其Lua化 local function
-getColor(frame)
+\-- 颜色选择器、语言选择器等部件继续沿用既有的模板实现方式。 -- 等抽出时间再将其Lua化 local function getColor(frame)
 
 `   local args = getArgs(frame)`
 `   return getColor(args)`

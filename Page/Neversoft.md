@@ -1,6 +1,4 @@
-**Neversoft
-Entertainment**，是美国游戏开发商，由乔尔·朱伊特，米克·韦斯特和克里斯·沃德成立于1994年7月。1999年10月，该公司被动视收购。\[1\]2014年5月3日，该工作室合并到Infinity
-Ward，2014年7月10日作出正式停止运作。
+**Neversoft Entertainment**，是美国游戏开发商，由乔尔·朱伊特，米克·韦斯特和克里斯·沃德成立于1994年7月。1999年10月，该公司被动视收购。\[1\]2014年5月3日，该工作室合并到Infinity Ward，2014年7月10日作出正式停止运作。
 
 ## 旗下游戏
 
@@ -35,11 +33,7 @@ Ward，2014年7月10日作出正式停止运作。
 
   - [Activision website](http://www.activision.com/)
 
-[Category:1994年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1994年開業電子遊戲公司 "wikilink")
-[Category:2014年結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2014年結業電子遊戲公司 "wikilink")
-[Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink")
-[Category:美國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國已結業電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
+[Category:1994年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1994年開業電子遊戲公司 "wikilink") [Category:2014年結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2014年結業電子遊戲公司 "wikilink") [Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink") [Category:美國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國已結業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
 1.
 2.

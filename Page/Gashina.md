@@ -2,7 +2,7 @@
 
 ## 發行背景
 
-2017年7月，善美所屬社MakeUS娛樂對外表示善美正在積極準備回歸樂壇\[2\]，預期在8月22日發布睽違三年的Solo專輯\[3\]。8月10日，善美發布了第一個預告，確定新曲名稱為《Gashina》\[4\]，此次回歸與[YG娛樂製作人](../Page/YG娛樂.md "wikilink")[Teddy合作並將親自作詞](../Page/泰迪·朴.md "wikilink")\[5\]。13日，MakeUS娛樂釋出了善美的回歸概念照，在概念照當中展現了善美的信心，並且引起粉絲的關注\[6\]。18日，MakeUS娛樂釋出善美新曲《Gashina》的音樂錄影帶預告，善美在預告當中喝了奶昔並跳舞，音樂錄影帶當中預告此次的作品將會結合[雷鬼音樂的曲風](../Page/雷鬼音樂.md "wikilink")\[7\]。
+2017年7月，善美所屬社MakeUS娛樂對外表示善美正在積極準備回歸樂壇\[2\]，預期在8月22日發布睽違三年的Solo專輯\[3\]。8月10日，善美發布了第一個預告，確定新曲名稱為《Gashina》\[4\]，此次回歸與[YG娛樂](../Page/YG娛樂.md "wikilink")製作人[Teddy合作並將親自作詞](../Page/泰迪·朴.md "wikilink")\[5\]。13日，MakeUS娛樂釋出了善美的回歸概念照，在概念照當中展現了善美的信心，並且引起粉絲的關注\[6\]。18日，MakeUS娛樂釋出善美新曲《Gashina》的音樂錄影帶預告，善美在預告當中喝了奶昔並跳舞，音樂錄影帶當中預告此次的作品將會結合[雷鬼音樂](../Page/雷鬼音樂.md "wikilink")的曲風\[7\]。
 
 ## 歌詞
 
@@ -14,13 +14,11 @@
 
 ## 舞蹈
 
-8月24日，善美與[金請夏一同參與](https://zh.wikipedia.org/wiki/金請夏 "wikilink")《[一週的偶像](https://zh.wikipedia.org/wiki/一週的偶像 "wikilink")》的錄製\[12\]，在節目錄製時善美展現了2倍速的《Gashina》舞蹈，在進行舞蹈的過程當中，善美將複雜帥氣的手部動作、靈動表情都做到十分到位\[13\]。8月30日，MakeUS娛樂釋出善美新曲《Gashina》的練習室版本\[14\]。此次《Gashina》舞蹈是由1MILLION
-Dance Studio的編舞家Lia Kim創作\[15\]。
+8月24日，善美與[金請夏一同參與](https://zh.wikipedia.org/wiki/金請夏 "wikilink")《[一週的偶像](https://zh.wikipedia.org/wiki/一週的偶像 "wikilink")》的錄製\[12\]，在節目錄製時善美展現了2倍速的《Gashina》舞蹈，在進行舞蹈的過程當中，善美將複雜帥氣的手部動作、靈動表情都做到十分到位\[13\]。8月30日，MakeUS娛樂釋出善美新曲《Gashina》的練習室版本\[14\]。此次《Gashina》舞蹈是由1MILLION Dance Studio的編舞家Lia Kim創作\[15\]。
 
 ## 發行及銷售
 
-8月22日，在《Gashina》釋出音源後，迅速在 Genie、Bugs及Olleh Music實時榜獲得第一名，同時也分別在[Naver
-Music與](../Page/NAVER.md "wikilink")[Melon獲得第五名的成績](https://zh.wikipedia.org/wiki/LOEN娛樂#Melon "wikilink")，善美針對睽違三年的回歸在實時榜的成績表示感到喜極而泣並感謝粉絲仍然支持她的回歸\[16\]。而《Gashina》也在8月30日入圍[Billboard世界單曲銷售榜並獲得第三名](../Page/告示牌_\(雜誌\).md "wikilink")\[17\]。
+8月22日，在《Gashina》釋出音源後，迅速在 Genie、Bugs及Olleh Music實時榜獲得第一名，同時也分別在[Naver Music與](../Page/NAVER.md "wikilink")[Melon獲得第五名的成績](https://zh.wikipedia.org/wiki/LOEN娛樂#Melon "wikilink")，善美針對睽違三年的回歸在實時榜的成績表示感到喜極而泣並感謝粉絲仍然支持她的回歸\[16\]。而《Gashina》也在8月30日入圍[Billboard世界單曲銷售榜並獲得第三名](../Page/告示牌_\(雜誌\).md "wikilink")\[17\]。
 
 ### 發行紀錄
 
@@ -52,9 +50,7 @@ Music與](../Page/NAVER.md "wikilink")[Melon獲得第五名的成績](https://zh
 
   -
   -
-[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink")
-[Category:2017年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2017年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon數位下載週榜冠軍作品 "wikilink")
+[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink") [Category:2017年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon單曲週榜冠軍作品 "wikilink") [Category:2017年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon數位下載週榜冠軍作品 "wikilink")
 
 1.
 2.

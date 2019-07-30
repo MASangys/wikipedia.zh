@@ -1,5 +1,4 @@
-**MTV影視大獎最佳英雄**（MTV Movie & TV Award for Best
-Hero）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wikilink")，頒發給於影視作品中有出色表現的英雄人物，於2006年開始頒發，之後獎項曾一度取消，至2012年被再度設立。
+**MTV影視大獎最佳英雄**（MTV Movie & TV Award for Best Hero）是[MTV影視大獎](../Page/MTV影視大獎.md "wikilink")重要的獎項之一，頒發給於影視作品中有出色表現的英雄人物，於2006年開始頒發，之後獎項曾一度取消，至2012年被再度設立。
 
 ## 歷屆得主
 
@@ -342,6 +341,5 @@ Hero）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wik
 [Category:MTV電影大獎](https://zh.wikipedia.org/wiki/Category:MTV電影大獎 "wikilink")
 
 1.  [第25屆MTV電影頒獎禮得獎名單《太陽報》](http://the-sun.on.cc/cnt/entertainment/20150414/00476_003.html)
-2.  [MTV電影頒獎禮
-    《星球大戰》掃3獎大贏家](http://news.mingpao.com/pns/dailynews/web_tc/article/20160411/s00016/1460312276550)
+2.  [MTV電影頒獎禮 《星球大戰》掃3獎大贏家](http://news.mingpao.com/pns/dailynews/web_tc/article/20160411/s00016/1460312276550)
 3.  [【MTV電影電視獎】《美女與野獸》奪最佳影片　最佳親吻卻輸給他們](http://www.appledaily.com.tw/realtimenews/article/new/20170508/1113834/)

@@ -1,4 +1,4 @@
-《**火速救兵III**》（）是[香港電台電視部與](../Page/香港電台.md "wikilink")[香港消防處合作拍攝的](../Page/香港消防處.md "wikilink")[單元劇](https://zh.wikipedia.org/wiki/單元劇 "wikilink")，全劇共5集，此劇為《[火速救兵](../Page/火速救兵.md "wikilink")》及《[火速救兵II](../Page/火速救兵II.md "wikilink")》的延續。
+《**火速救兵III**》（）是[香港電台](../Page/香港電台.md "wikilink")電視部與[香港消防處](../Page/香港消防處.md "wikilink")合作拍攝的[單元劇](https://zh.wikipedia.org/wiki/單元劇 "wikilink")，全劇共5集，此劇為《[火速救兵](../Page/火速救兵.md "wikilink")》及《[火速救兵II](../Page/火速救兵II.md "wikilink")》的延續。
 
 ## 每集主題
 
@@ -460,22 +460,11 @@ Jackie</p></td>
 
   - [香港電台官方網站 - 火速救兵III](http://rthk.hk/special/fsd3/)
 
-  - [香港電台節目網站 -
-    火速救兵III](http://programme.rthk.hk/rthk/tv/programme.php?name=tv/elitebrigade3&p=6985)
+  - [香港電台節目網站 - 火速救兵III](http://programme.rthk.hk/rthk/tv/programme.php?name=tv/elitebrigade3&p=6985)
 
   - [《火速救兵III》預告片](https://web.archive.org/web/20160102052326/http://app4.rthk.hk/special/fsd3/player.php?id=47)
 
-  - [《火速救兵III》主題曲 -
-    熱血英雄MTV](https://web.archive.org/web/20150925092446/http://app4.rthk.hk/special/fsd3/player.php?id=48)
+  - [《火速救兵III》主題曲 - 熱血英雄MTV](https://web.archive.org/web/20150925092446/http://app4.rthk.hk/special/fsd3/player.php?id=48)
 
   -
-[Category:香港電台電視劇集](https://zh.wikipedia.org/wiki/Category:香港電台電視劇集 "wikilink")
-[Category:香港電台電視劇集系列](https://zh.wikipedia.org/wiki/Category:香港電台電視劇集系列 "wikilink")
-[Category:2015年香港電視劇集](https://zh.wikipedia.org/wiki/Category:2015年香港電視劇集 "wikilink")
-[Category:真人真事改編電視劇](https://zh.wikipedia.org/wiki/Category:真人真事改編電視劇 "wikilink")
-[Category:2015年播出的電視劇季度](https://zh.wikipedia.org/wiki/Category:2015年播出的電視劇季度 "wikilink")
-[Category:人命救助題材作品](https://zh.wikipedia.org/wiki/Category:人命救助題材作品 "wikilink")
-[Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink")
-[Category:火災題材作品](https://zh.wikipedia.org/wiki/Category:火災題材作品 "wikilink")
-[Category:香港島背景電視劇](https://zh.wikipedia.org/wiki/Category:香港島背景電視劇 "wikilink")
-[Category:消防題材電視劇](https://zh.wikipedia.org/wiki/Category:消防題材電視劇 "wikilink")
+[Category:香港電台電視劇集](https://zh.wikipedia.org/wiki/Category:香港電台電視劇集 "wikilink") [Category:香港電台電視劇集系列](https://zh.wikipedia.org/wiki/Category:香港電台電視劇集系列 "wikilink") [Category:2015年香港電視劇集](https://zh.wikipedia.org/wiki/Category:2015年香港電視劇集 "wikilink") [Category:真人真事改編電視劇](https://zh.wikipedia.org/wiki/Category:真人真事改編電視劇 "wikilink") [Category:2015年播出的電視劇季度](https://zh.wikipedia.org/wiki/Category:2015年播出的電視劇季度 "wikilink") [Category:人命救助題材作品](https://zh.wikipedia.org/wiki/Category:人命救助題材作品 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink") [Category:火災題材作品](https://zh.wikipedia.org/wiki/Category:火災題材作品 "wikilink") [Category:香港島背景電視劇](https://zh.wikipedia.org/wiki/Category:香港島背景電視劇 "wikilink") [Category:消防題材電視劇](https://zh.wikipedia.org/wiki/Category:消防題材電視劇 "wikilink")

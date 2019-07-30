@@ -1,12 +1,8 @@
-\-- -- This module implements  -- This module was created using code
-taken directly from
-[Module:Sidebar](https://zh.wikipedia.org/wiki/Module:Sidebar "wikilink")
--- require('Module:No globals')
+\-- -- This module implements  -- This module was created using code taken directly from [Module:Sidebar](https://zh.wikipedia.org/wiki/Module:Sidebar "wikilink") -- require('Module:No globals')
 
 local p = {}
 
-local getArgs = require('Module:Arguments').getArgs local navbar =
-require('Module:Navbar')._navbar
+local getArgs = require('Module:Arguments').getArgs local navbar = require('Module:Navbar')._navbar
 
 function p.sidebar(frame, args)
 
@@ -99,10 +95,8 @@ function p.sidebar(frame, args)
 `       if args.title then`
 `           t = args.title`
 `       elseif args.games then`
-`           t = '`[`'``   ``..``   ``args.event``   ``..``
- ``'比赛`](https://zh.wikipedia.org/wiki/'_.._args.games_..''.._args.event_.._'比赛 "wikilink")`'`
-`           t = '`[`'``   ``..``   ``args.games``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._args.games_.._' "wikilink")
+`           t = '`[`'``   ``..``   ``args.event``   ``..``   ``'比赛`](https://zh.wikipedia.org/wiki/'_.._args.games_..''.._args.event_.._'比赛 "wikilink")`'`
+`           t = '`[`'``   ``..``   ``args.games``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._args.games_.._' "wikilink")
 `' ..t`
 `       end`
 `       local cell = root:tag('tr'):tag('th')`

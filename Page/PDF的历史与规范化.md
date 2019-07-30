@@ -1,23 +1,14 @@
-[可移植文档格式](../Page/可移植文档格式.md "wikilink")（PDF）于1990年代由Adobe
-Systems创造。早期是Adobe专有格式，直到2008年作为开放标准发布。之后由[国际标准化组织志愿者产业专家委员会控制](https://zh.wikipedia.org/wiki/国际标准化组织 "wikilink")。
+[可移植文档格式](../Page/可移植文档格式.md "wikilink")（PDF）于1990年代由Adobe Systems创造。早期是Adobe专有格式，直到2008年作为开放标准发布。之后由[国际标准化组织志愿者产业专家委员会控制](https://zh.wikipedia.org/wiki/国际标准化组织 "wikilink")。
 
-PDF檔案格式在1990年代早期開發，用於分享包括文本格式和内置影像的文檔，能跨平台操作，即使電腦平台完全不同，收件者亦無需适配相關或合用的[應用軟體接口](https://zh.wikipedia.org/wiki/應用軟體 "wikilink")\[1\]。1991年，[Adobe
-Systems共同創始人約翰](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")·沃諾克提出的名為“Camelot”的系統\[2\]演變成PDF。當時與PDF一起競逐跨平台檔案格式的，還包括[DjVu](../Page/DjVu.md "wikilink")（仍在開發中）、、Common
-Ground Digital Paper、Farallon
-Replica及[Adobe自己本身的](https://zh.wikipedia.org/wiki/Adobe系統 "wikilink")[PostScript](../Page/PostScript.md "wikilink")（.ps）格式。在[萬維網及](https://zh.wikipedia.org/wiki/萬維網 "wikilink")[HTML文本尚未興起的當時](../Page/HTML.md "wikilink")，PDF在[桌面出版](../Page/桌面出版.md "wikilink")[工作流技术當中很受歡迎](../Page/工作流技术.md "wikilink")。
+PDF檔案格式在1990年代早期開發，用於分享包括文本格式和内置影像的文檔，能跨平台操作，即使電腦平台完全不同，收件者亦無需适配相關或合用的[應用軟體接口](https://zh.wikipedia.org/wiki/應用軟體 "wikilink")\[1\]。1991年，[Adobe Systems共同創始人約翰](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")·沃諾克提出的名為“Camelot”的系統\[2\]演變成PDF。當時與PDF一起競逐跨平台檔案格式的，還包括[DjVu](../Page/DjVu.md "wikilink")（仍在開發中）、、Common Ground Digital Paper、Farallon Replica及[Adobe自己本身的](https://zh.wikipedia.org/wiki/Adobe系統 "wikilink")[PostScript](../Page/PostScript.md "wikilink")（.ps）格式。在[萬維網及](https://zh.wikipedia.org/wiki/萬維網 "wikilink")[HTML](../Page/HTML.md "wikilink")文本尚未興起的當時，PDF在[桌面出版](../Page/桌面出版.md "wikilink")[工作流技术](../Page/工作流技术.md "wikilink")當中很受歡迎。
 
-PDF在早期文件格式分享歷史的接受程度頗晚。\[3\]從2.0版開始，Adobe開始免費分發PDF的閱讀軟件Acrobat
-Reader（現時改稱Adobe Acrobat Reader DC，建立軟件稱為Adobe Acrobat
-DC），而舊版格式依舊支援，使PDF後來成為固定格式文本業界的\[4\]。
+PDF在早期文件格式分享歷史的接受程度頗晚。\[3\]從2.0版開始，Adobe開始免費分發PDF的閱讀軟件Acrobat Reader（現時改稱Adobe Acrobat Reader DC，建立軟件稱為Adobe Acrobat DC），而舊版格式依舊支援，使PDF後來成為固定格式文本業界的\[4\]。
 
-及至2008年，Adobe Systems的PDF參考1.7版成為了ISO
-32000:1:2008，從此PDF就成為了正式的國際標準。亦因為這個緣故，現時PDF的更新版本開發（包括未來的PDF
-2.0版本的開發）變成由ISO的TC 171 SC 2 WG 8主導，但Adobe及其他相關項目的專家依然有參與其中。
+及至2008年，Adobe Systems的PDF參考1.7版成為了ISO 32000:1:2008，從此PDF就成為了正式的國際標準。亦因為這個緣故，現時PDF的更新版本開發（包括未來的PDF 2.0版本的開發）變成由ISO的TC 171 SC 2 WG 8主導，但Adobe及其他相關項目的專家依然有參與其中。
 
 ## Adobe的规范
 
-从1993-2006年Adobe Systems数次更改PDF规范并添加新特性。2006和发布的各个方面的Adobe的扩展层被采纳为ISO
-32000-2（PDF 2.0）的工作草案，但开发者注意到Adobe的扩展不是PDF标准的一部分。\[5\]
+从1993-2006年Adobe Systems数次更改PDF规范并添加新特性。2006和发布的各个方面的Adobe的扩展层被采纳为ISO 32000-2（PDF 2.0）的工作草案，但开发者注意到Adobe的扩展不是PDF标准的一部分。\[5\]
 
 <table>
 <thead>
@@ -76,7 +67,7 @@ DC），而舊版格式依舊支援，使PDF後來成為固定格式文本業界
 <td><p>1.6</p></td>
 <td><p>第五版</p></td>
 <td><p>2004</p></td>
-<td><p>3D艺术，如对<a href="https://zh.wikipedia.org/wiki/Universal_3D" title="wikilink">Universal 3D文件格式的支持</a>；<a href="../Page/OpenType.md" title="wikilink">OpenType字体嵌入</a>；对XFA 2.2富文本元素及属性（XFA 2.1及2.2定义以下列特性为例：动态XFA表单，XFA的W3C XML数字签名，针对网络服务的XFA支持，HTTP之上的XFA“文档逐字的”SOAP操作，网络服务的WSDL定义SOAP绑定操作等）的支持；<a href="../Page/高级加密标准.md" title="wikilink">AES加密</a>；带SHA256的PKCS#7，DSA升到4096位；NChannel颜色空间；嵌入式附件的附加支持，包括跨文档链入及来自嵌入的文件；增强和澄清数字签名相关的使用权和修改检测及阻止签名；[18] Acrobat JavaScript Scripting Reference，7.0版[19]</p></td>
+<td><p>3D艺术，如对<a href="https://zh.wikipedia.org/wiki/Universal_3D" title="wikilink">Universal 3D文件格式的支持</a>；<a href="../Page/OpenType.md" title="wikilink">OpenType</a>字体嵌入；对XFA 2.2富文本元素及属性（XFA 2.1及2.2定义以下列特性为例：动态XFA表单，XFA的W3C XML数字签名，针对网络服务的XFA支持，HTTP之上的XFA“文档逐字的”SOAP操作，网络服务的WSDL定义SOAP绑定操作等）的支持；<a href="../Page/高级加密标准.md" title="wikilink">AES加密</a>；带SHA256的PKCS#7，DSA升到4096位；NChannel颜色空间；嵌入式附件的附加支持，包括跨文档链入及来自嵌入的文件；增强和澄清数字签名相关的使用权和修改检测及阻止签名；[18] Acrobat JavaScript Scripting Reference，7.0版[19]</p></td>
 <td><p>7.0</p></td>
 </tr>
 <tr class="even">
@@ -126,116 +117,67 @@ DC），而舊版格式依舊支援，使PDF後來成為固定格式文本業界
 </tbody>
 </table>
 
-ISO标准[ISO
-32000-1](https://zh.wikipedia.org/wiki/ISO_32000-1 "wikilink"):2008及Adobe
-PDF 1.7在技术上是相容的。\[35\]\[36\]\[37\]Adobe宣称没有制定PDF
-1.8参考。PDF规格的未来版本将由ISO技术委员会制定。然而，Adobe出版的文档指明什么是PDF的专有扩展功能，ISO
-32000-1（PDF 1.7）之外的在新发布的产品中支持。这利用了如同在Annex E中ISO
-32000-1中记录的PDF的扩展性特性。\[38\]
+ISO标准[ISO 32000-1](https://zh.wikipedia.org/wiki/ISO_32000-1 "wikilink"):2008及Adobe PDF 1.7在技术上是相容的。\[35\]\[36\]\[37\]Adobe宣称没有制定PDF 1.8参考。PDF规格的未来版本将由ISO技术委员会制定。然而，Adobe出版的文档指明什么是PDF的专有扩展功能，ISO 32000-1（PDF 1.7）之外的在新发布的产品中支持。这利用了如同在Annex E中ISO 32000-1中记录的PDF的扩展性特性。\[38\]
 
-PDF规格包容性滞后。PDF 1.7规格包括了所有先前的功能性的Adobe
-PDF规格1.0到1.6版的记录。在那里Adobe从他们的标准删除了PDF的某些特性，那些没被包含在ISO
-32000-1\[39\]。一些特性被标为落后的。
+PDF规格包容性滞后。PDF 1.7规格包括了所有先前的功能性的Adobe PDF规格1.0到1.6版的记录。在那里Adobe从他们的标准删除了PDF的某些特性，那些没被包含在ISO 32000-1\[39\]。一些特性被标为落后的。
 
-PDF文档遵循带有PDF 1.7版的ISO
-32000-1标准。包含了Adobe扩展的特性仍带有PDF基础版本号1.7的文档也包含随着文档的创建扩展的指示。\[40\]
+PDF文档遵循带有PDF 1.7版的ISO 32000-1标准。包含了Adobe扩展的特性仍带有PDF基础版本号1.7的文档也包含随着文档的创建扩展的指示。\[40\]
 
 ## ISO标准化
 
 自1995起，Adobe参与了一些由ISO创建出版技术规范及在用于特定行业及用途的PDF标准专业子集（如PDF/X或PDF/A）进程中与ISO协作的工作组。\[41\]\[42\]制定完整PDF规格的子集的目的是移除那些不需要或会对特定用途造成问题以及一些要求的功能的使用在完整PDF规格中仅仅是可选的（不是强制性的）功能。
 
-2007年1月29日，Adobe宣布将发布完整的PDF
-1.7规格给[美国国家标准协会](https://zh.wikipedia.org/wiki/美国国家标准协会 "wikilink")（ANSI）及，为了由国际标准化组织（ISO）发布。\[43\]ISO将制定PDF规格是未来版本，而且Adobe仅仅是ISO技术委员会的一员。\[44\]
+2007年1月29日，Adobe宣布将发布完整的PDF 1.7规格给[美国国家标准协会](https://zh.wikipedia.org/wiki/美国国家标准协会 "wikilink")（ANSI）及，为了由国际标准化组织（ISO）发布。\[43\]ISO将制定PDF规格是未来版本，而且Adobe仅仅是ISO技术委员会的一员。\[44\]
 
-ISO“全功能PDF”的标准\[45\]在正式编号ISO 32000之下发布。全功能PDF规格意味着不仅仅是Adobe
-PDF规格的子集；就ISO 32000-1而言全功能PDF包含了Adobe的PDF
-1.7规格定义的每一条。然而，Adobe后来发布了不是ISO标准的一部分的扩展。\[46\]那些也是PDF规格中的专有功能，只能作为额外的规格参考。\[47\]\[48\]
+ISO“全功能PDF”的标准\[45\]在正式编号ISO 32000之下发布。全功能PDF规格意味着不仅仅是Adobe PDF规格的子集；就ISO 32000-1而言全功能PDF包含了Adobe的PDF 1.7规格定义的每一条。然而，Adobe后来发布了不是ISO标准的一部分的扩展。\[46\]那些也是PDF规格中的专有功能，只能作为额外的规格参考。\[47\]\[48\]
 
 ### PDF标准化的子集
 
 下列指定的PDF规格的子集被定为ISO标准（或者在标准化过程当中）：\[49\]\[50\]\[51\]\[52\]
 
-  - [PDF/X](https://zh.wikipedia.org/wiki/PDF/X "wikilink")（2001年起—ISO
-    15929及ISO 15930系列标准的一部分）又叫“PDF for
-    Exchange”——用于“图形技术——印刷前数据交换”——（ISO技术委员会130的工作），基于PDF
-    1.3、PDF 1.4还有后来的PDF 1.6
-  - [PDF/A](https://zh.wikipedia.org/wiki/PDF/A "wikilink")（2005年起—ISO
-    19005系列标准的一部分）又叫“PDF for
-    Archive”——“文档管理——用于长期保存的电子文档文件格式”（ISO技术委员会171的工作），基于PDF
-    1.4还有后来的ISO 32000-1 - PDF 1.7
-  - [PDF/E](https://zh.wikipedia.org/wiki/PDF/E "wikilink")（2008年起—ISO
-    24517）又叫“PDF for
-    Engineering”——“文档管理——使用PDF的工程文档格式”（ISO技术委员会171的工作），基于PDF
-    1.6
-  - [PDF/VT](https://zh.wikipedia.org/wiki/PDF/VT "wikilink")（2010年起—ISO
-    16612-2）又叫“PDF for exchange of variable data and transactional (VT)
-    printing”——“图形技术——可变数据交换”（ISO技术委员会130的工作），基于PDF
-    1.6并受限于PDF/X-4及PDF/X-5\[53\]
-  - [PDF/UA](https://zh.wikipedia.org/wiki/PDF/UA "wikilink")（2012年起—ISO
-    14289-1）又叫“PDF for Universal
-    Accessibility”——“文档管理应用——可访问的电子文档文件格式”（ISO技术委员会171的工作），基于ISO
-    32000-1 - PDF 1.7
+  - [PDF/X](https://zh.wikipedia.org/wiki/PDF/X "wikilink")（2001年起—ISO 15929及ISO 15930系列标准的一部分）又叫“PDF for Exchange”——用于“图形技术——印刷前数据交换”——（ISO技术委员会130的工作），基于PDF 1.3、PDF 1.4还有后来的PDF 1.6
+  - [PDF/A](https://zh.wikipedia.org/wiki/PDF/A "wikilink")（2005年起—ISO 19005系列标准的一部分）又叫“PDF for Archive”——“文档管理——用于长期保存的电子文档文件格式”（ISO技术委员会171的工作），基于PDF 1.4还有后来的ISO 32000-1 - PDF 1.7
+  - [PDF/E](https://zh.wikipedia.org/wiki/PDF/E "wikilink")（2008年起—ISO 24517）又叫“PDF for Engineering”——“文档管理——使用PDF的工程文档格式”（ISO技术委员会171的工作），基于PDF 1.6
+  - [PDF/VT](https://zh.wikipedia.org/wiki/PDF/VT "wikilink")（2010年起—ISO 16612-2）又叫“PDF for exchange of variable data and transactional (VT) printing”——“图形技术——可变数据交换”（ISO技术委员会130的工作），基于PDF 1.6并受限于PDF/X-4及PDF/X-5\[53\]
+  - [PDF/UA](https://zh.wikipedia.org/wiki/PDF/UA "wikilink")（2012年起—ISO 14289-1）又叫“PDF for Universal Accessibility”——“文档管理应用——可访问的电子文档文件格式”（ISO技术委员会171的工作），基于ISO 32000-1 - PDF 1.7
 
-还有PDF/H，也就是“PDF Healthcare”，最佳措施导览（Best Practices
-Guide，BPG），通过实施指南（Implementation
-Guide，IG）增补，2008年发布。PDF
-Healthcare不是一个标准或者推荐标准，但仅仅是一个使用已有标准及其他技术的指南。受到标准发展机构[ASTM与](https://zh.wikipedia.org/wiki/ASTM "wikilink")[AIIM支持](https://zh.wikipedia.org/wiki/AIIM "wikilink")。PDF/H
-BPG基于PDF 1.6。\[54\]\[55\]\[56\]
+还有PDF/H，也就是“PDF Healthcare”，最佳措施导览（Best Practices Guide，BPG），通过实施指南（Implementation Guide，IG）增补，2008年发布。PDF Healthcare不是一个标准或者推荐标准，但仅仅是一个使用已有标准及其他技术的指南。受到标准发展机构[ASTM与](https://zh.wikipedia.org/wiki/ASTM "wikilink")[AIIM支持](https://zh.wikipedia.org/wiki/AIIM "wikilink")。PDF/H BPG基于PDF 1.6。\[54\]\[55\]\[56\]
 
 ### PDF 1.7
 
-PDF 1.7的最终修订的文档由ISO技术委员会171于2008年1月认可，并以ISO
-32000-1:2008发布于2008年7月1日，题为“Document management –
-Portable document format – Part 1: PDF 1.7”。
+PDF 1.7的最终修订的文档由ISO技术委员会171于2008年1月认可，并以ISO 32000-1:2008发布于2008年7月1日，题为“Document management – Portable document format – Part 1: PDF 1.7”。
 
-ISO 32000-1:2008是第一份全功能PDF的ISO标准。先前的ISO PDF标准（PDF/A、PDF/X等）用于更特殊的用途。ISO
-32000-1包括了所有先前的功能性的Adobe
-PDF规格1.0到1.6版的记录。Adobe从先前的版本中移除了某些PDF特性；这些特性也没包含在PDF
-1.7中。\[57\]
+ISO 32000-1:2008是第一份全功能PDF的ISO标准。先前的ISO PDF标准（PDF/A、PDF/X等）用于更特殊的用途。ISO 32000-1包括了所有先前的功能性的Adobe PDF规格1.0到1.6版的记录。Adobe从先前的版本中移除了某些PDF特性；这些特性也没包含在PDF 1.7中。\[57\]
 
-ISO 32000-1文档由Adobe Systems Incorporated基于《PDF Reference, sixth edition,
-Adobe Portable Document Format version 1.7, November
-2006》准备的。在一个特殊的快速进程下检验、修订并接受，通过《ISO
-Technical Committee 171 (ISO/TC 171), Document management application,
-Subcommittee SC 2, Application issues》，与ISO成员的提议并行。
+ISO 32000-1文档由Adobe Systems Incorporated基于《PDF Reference, sixth edition, Adobe Portable Document Format version 1.7, November 2006》准备的。在一个特殊的快速进程下检验、修订并接受，通过《ISO Technical Committee 171 (ISO/TC 171), Document management application, Subcommittee SC 2, Application issues》，与ISO成员的提议并行。
 
 根据ISO PDF标准：\[58\]
 
-> ISO
-> 32000-1:2008指定独立于他们创建的环境或他们查看、阅读的环境的用于呈现电子文档的数码形式以使用户交换并查看电子文档。该标准用于创建PDF文件的软件的开发者（相应的作者）、阅读已有PDF文件及解释其内容以显示和协作的软件（相应的读者）以及用于其他多种目的阅读和/或编写PDF文件的PDF产品（相应的产品）。
+> ISO 32000-1:2008指定独立于他们创建的环境或他们查看、阅读的环境的用于呈现电子文档的数码形式以使用户交换并查看电子文档。该标准用于创建PDF文件的软件的开发者（相应的作者）、阅读已有PDF文件及解释其内容以显示和协作的软件（相应的读者）以及用于其他多种目的阅读和/或编写PDF文件的PDF产品（相应的产品）。
 
-一些Adobe Systems控制下的专属的规格（如Adobe Acrobat JavaScript或XML表单架构）处于ISO
-32000-1规范性参考中，而且对于ISO 32000-1标准的应用不可或缺。\[59\]
+一些Adobe Systems控制下的专属的规格（如Adobe Acrobat JavaScript或XML表单架构）处于ISO 32000-1规范性参考中，而且对于ISO 32000-1标准的应用不可或缺。\[59\]
 
 ### PDF 2.0
 
 PDF标准的新版本以ISO/CD 32000-2的名义发布。\[60\]
 
-ISO委员会开发PDF 2.0的目标包括了对PDF语言的进一步的增强和改进、移除不再使用的特性（如Form
-XObject名称），以及对Adobe专有的规格的标准化（如Adobe JavaScript、Rich
-Text）。\[61\]\[62\]
+ISO委员会开发PDF 2.0的目标包括了对PDF语言的进一步的增强和改进、移除不再使用的特性（如Form XObject名称），以及对Adobe专有的规格的标准化（如Adobe JavaScript、Rich Text）。\[61\]\[62\]
 
 #### ISO TC 171 SC 2 WG 8
 
-成立于2008年以策划PDF参考书作为ISO标准的Working Group
-8通常一年召开两次会议，来自十多个国家的成员在各个实体中参与。ISO委员会关于ISO
-32000的会议向受到学科问题专家认可的人开放。有兴趣的人一方会为有关参与ISO 32000的信息联系各自的ISO成员实体。
+成立于2008年以策划PDF参考书作为ISO标准的Working Group 8通常一年召开两次会议，来自十多个国家的成员在各个实体中参与。ISO委员会关于ISO 32000的会议向受到学科问题专家认可的人开放。有兴趣的人一方会为有关参与ISO 32000的信息联系各自的ISO成员实体。
 
 ### ISO 32000-2
 
-在PDF语法术语中被称为“PDF-2.0”，ISO 32000-2是第一个完全经ISO委员会（TC 171 SC 2 WG
-8）发展而更新的PDF规范。\[63\]PDF协会的成员会通过PDF协会的A类联系人与ISO TC 171 SC
-2复查和注释草稿。\[64\]
+在PDF语法术语中被称为“PDF-2.0”，ISO 32000-2是第一个完全经ISO委员会（TC 171 SC 2 WG 8）发展而更新的PDF规范。\[63\]PDF协会的成员会通过PDF协会的A类联系人与ISO TC 171 SC 2复查和注释草稿。\[64\]
 
 ## GB标准化
 
-2009年9月1日，作为电子文档长期保存格式的PDF/Archive（PDF/A）经[中国国家标准化管理委员会批准已成为正式的](../Page/中国国家标准化管理委员会.md "wikilink")[中华人民共和国国家标准](../Page/中华人民共和国国家标准.md "wikilink")（GB）\[65\]，标准号为GB/T
-23286.1-2009\[66\]。
+2009年9月1日，作为电子文档长期保存格式的PDF/Archive（PDF/A）经[中国国家标准化管理委员会](../Page/中国国家标准化管理委员会.md "wikilink")批准已成为正式的[中华人民共和国国家标准](../Page/中华人民共和国国家标准.md "wikilink")（GB）\[65\]，标准号为GB/T 23286.1-2009\[66\]。
 
 ## 参考资料
 
-[Category:軟體史](https://zh.wikipedia.org/wiki/Category:軟體史 "wikilink")
-[Category:Adobe_Systems](https://zh.wikipedia.org/wiki/Category:Adobe_Systems "wikilink")
+[Category:軟體史](https://zh.wikipedia.org/wiki/Category:軟體史 "wikilink") [Category:Adobe_Systems](https://zh.wikipedia.org/wiki/Category:Adobe_Systems "wikilink")
 
 1.
 

@@ -1,6 +1,4 @@
-《**TSUBASA翼
-夢幻之島篇**》（），是由漫畫團隊[CLAMP所創作的少年漫畫作品](../Page/CLAMP.md "wikilink")，為《[TSUBASA翼](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")》的續作，於講談社月刊雜誌《[Magazine
-SPECIAL](../Page/Magazine_SPECIAL.md "wikilink")》連載，故事劇情銜接《[×××HOLiC·戻](../Page/×××HOLiC.md "wikilink")》。
+《**TSUBASA翼 夢幻之島篇**》（），是由漫畫團隊[CLAMP](../Page/CLAMP.md "wikilink")所創作的少年漫畫作品，為《[TSUBASA翼](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")》的續作，於講談社月刊雜誌《[Magazine SPECIAL](../Page/Magazine_SPECIAL.md "wikilink")》連載，故事劇情銜接《[×××HOLiC](../Page/×××HOLiC.md "wikilink")·戻》。
 
 ## 故事簡介
 
@@ -26,8 +24,7 @@ SPECIAL](../Page/Magazine_SPECIAL.md "wikilink")》連載，故事劇情銜接�
   -
 
   -
-    角色Crossover：『[GATE
-    7～7號閘門～](../Page/GATE_7～7號閘門～.md "wikilink")』**HANA**
+    角色Crossover：『[GATE 7～7號閘門～](../Page/GATE_7～7號閘門～.md "wikilink")』**HANA**
 
   -
     角色Crossover：『GATE 7～7號閘門～』**橘/櫻**
@@ -79,12 +76,7 @@ ISBN 978-4-06-397001-2（特裝版）[7]</p></td>
 
   - [TSUBASA翼 夢幻之島篇](http://www.shonenmagazine.com/magasp/tsubasa)
 
-[Category:CLAMP](https://zh.wikipedia.org/wiki/Category:CLAMP "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:Magazine_Special](https://zh.wikipedia.org/wiki/Category:Magazine_Special "wikilink")
+[Category:CLAMP](https://zh.wikipedia.org/wiki/Category:CLAMP "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:Magazine_Special](https://zh.wikipedia.org/wiki/Category:Magazine_Special "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-**玛钦文**（，意译为**大言**\[1\]文字）是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了用于拼写西藏的[象雄语的文字](../Page/象雄语.md "wikilink")。\[2\]
-在[苯教中](../Page/苯教.md "wikilink")，玛钦文也用来拼写[藏语](https://zh.wikipedia.org/wiki/藏语 "wikilink")。
+**玛钦文**（，意译为**大言**\[1\]文字）是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了用于拼写西藏的[象雄语](../Page/象雄语.md "wikilink")的文字。\[2\] 在[苯教](../Page/苯教.md "wikilink")中，玛钦文也用来拼写[藏语](https://zh.wikipedia.org/wiki/藏语 "wikilink")。
 
 ## 历史
 

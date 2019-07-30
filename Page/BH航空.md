@@ -20,10 +20,8 @@
 
 ### 退役機隊
 
-  - [Airbus
-    A319-100](https://zh.wikipedia.org/wiki/Airbus_A319 "wikilink")
-  - [Airbus
-    A330-200](https://zh.wikipedia.org/wiki/Airbus_A330 "wikilink")\[5\]
+  - [Airbus A319-100](https://zh.wikipedia.org/wiki/Airbus_A319 "wikilink")
+  - [Airbus A330-200](https://zh.wikipedia.org/wiki/Airbus_A330 "wikilink")\[5\]
   - [Tupolev Tu-154M](../Page/圖-154.md "wikilink")
   - Airbus A321
 
@@ -37,8 +35,6 @@
 
 1.
 2.
-3.  [Flight
-    International](https://zh.wikipedia.org/wiki/Flight_International "wikilink")
-    27 March 2007
+3.  [Flight International](https://zh.wikipedia.org/wiki/Flight_International "wikilink") 27 March 2007
 4.  <https://www.planespotters.net/airline/Balkan-Holidays-Air>
 5.  <http://www.ch-aviation.com/portal/news/54430-bulgarias-bh-air-provisionally-ends-a330-operations>

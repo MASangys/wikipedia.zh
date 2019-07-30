@@ -1744,17 +1744,11 @@
 
 ## 外部連結
 
-  - [黃色書刊《W》
-    簡畫複雜人性](https://tw.news.yahoo.com/%E9%BB%83%E8%89%B2%E6%9B%B8%E5%88%8A-w-%E7%B0%A1%E7%95%AB%E8%A4%87%E9%9B%9C%E4%BA%BA%E6%80%A7-215035300.html)
+  - [黃色書刊《W》 簡畫複雜人性](https://tw.news.yahoo.com/%E9%BB%83%E8%89%B2%E6%9B%B8%E5%88%8A-w-%E7%B0%A1%E7%95%AB%E8%A4%87%E9%9B%9C%E4%BA%BA%E6%80%A7-215035300.html)
   - [黃色書刊《W》 Comico主頁](http://www.comico.com.tw/45/)
 
 ## 參考資料
 
-[Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
-[Category:臺灣漫畫作品](https://zh.wikipedia.org/wiki/Category:臺灣漫畫作品 "wikilink")
-[Category:架空世界背景作品](https://zh.wikipedia.org/wiki/Category:架空世界背景作品 "wikilink")
-[Category:2014年作品](https://zh.wikipedia.org/wiki/Category:2014年作品 "wikilink")
-[Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink")
-[Category:臺灣網路漫畫](https://zh.wikipedia.org/wiki/Category:臺灣網路漫畫 "wikilink")
+[Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink") [Category:臺灣漫畫作品](https://zh.wikipedia.org/wiki/Category:臺灣漫畫作品 "wikilink") [Category:架空世界背景作品](https://zh.wikipedia.org/wiki/Category:架空世界背景作品 "wikilink") [Category:2014年作品](https://zh.wikipedia.org/wiki/Category:2014年作品 "wikilink") [Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink") [Category:臺灣網路漫畫](https://zh.wikipedia.org/wiki/Category:臺灣網路漫畫 "wikilink")
 
 1.  <http://www.comico.com.tw/45/212/>

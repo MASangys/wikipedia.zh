@@ -8,8 +8,7 @@
 
 後來，溫特於1932年至1933年擔任[波多黎各](../Page/波多黎各.md "wikilink")和，最後回歸律師行列，死於卡斯珀。身後，他安葬在高地公墓。
 
-1903年夏天，溫特遊覽賓夕法尼亞州時，寫下了官方州歌《》的歌詞。他也寫過些西部小說，包括《塞拉利昂地主》（*Grandon of
-Sierra*）、曾改編為電影《》的《本·沃曼》與《自由的黃金》（*Gold of Freedom*）等\[1\]。
+1903年夏天，溫特遊覽賓夕法尼亞州時，寫下了官方州歌《》的歌詞。他也寫過些西部小說，包括《塞拉利昂地主》（*Grandon of Sierra*）、曾改編為電影《》的《本·沃曼》與《自由的黃金》（*Gold of Freedom*）等\[1\]。
 
 ## 参考文献
 
@@ -17,16 +16,6 @@ Sierra*）、曾改編為電影《》的《本·沃曼》與《自由的黃金�
 
   -
   -
-[Category:懷俄明州聯邦眾議員](https://zh.wikipedia.org/wiki/Category:懷俄明州聯邦眾議員 "wikilink")
-[Category:美国共和党联邦众议员](https://zh.wikipedia.org/wiki/Category:美国共和党联邦众议员 "wikilink")
-[Category:愛荷華州人](https://zh.wikipedia.org/wiki/Category:愛荷華州人 "wikilink")
-[Category:美國法官](https://zh.wikipedia.org/wiki/Category:美國法官 "wikilink")
-[Category:美國律師](https://zh.wikipedia.org/wiki/Category:美國律師 "wikilink")
-[Category:美国小说家](https://zh.wikipedia.org/wiki/Category:美国小说家 "wikilink")
-[Category:律師出身的政治人物](https://zh.wikipedia.org/wiki/Category:律師出身的政治人物 "wikilink")
+[Category:懷俄明州聯邦眾議員](https://zh.wikipedia.org/wiki/Category:懷俄明州聯邦眾議員 "wikilink") [Category:美国共和党联邦众议员](https://zh.wikipedia.org/wiki/Category:美国共和党联邦众议员 "wikilink") [Category:愛荷華州人](https://zh.wikipedia.org/wiki/Category:愛荷華州人 "wikilink") [Category:美國法官](https://zh.wikipedia.org/wiki/Category:美國法官 "wikilink") [Category:美國律師](https://zh.wikipedia.org/wiki/Category:美國律師 "wikilink") [Category:美国小说家](https://zh.wikipedia.org/wiki/Category:美国小说家 "wikilink") [Category:律師出身的政治人物](https://zh.wikipedia.org/wiki/Category:律師出身的政治人物 "wikilink")
 
-1.  Velma Linford - Wyoming, Frontier State 1947- Page 389 In
-    Encampment, Charles Winter, later Wyoming Representative to
-    Congress, wrote Grandon of Sierra, a story of the Encampment copper
-    era, and Ben Warman. Winter used the South Pass as a setting for his
-    recent book, Gold of Freedom."
+1.  Velma Linford - Wyoming, Frontier State 1947- Page 389 In Encampment, Charles Winter, later Wyoming Representative to Congress, wrote Grandon of Sierra, a story of the Encampment copper era, and Ben Warman. Winter used the South Pass as a setting for his recent book, Gold of Freedom."

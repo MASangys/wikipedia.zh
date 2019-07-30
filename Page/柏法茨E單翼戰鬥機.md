@@ -1,5 +1,4 @@
-**柏法茨E單翼戰鬥機**是在[第一次世界大戰前由德國](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[柏法茨飛機公司](https://zh.wikipedia.org/wiki/柏法茨飛機公司 "wikilink")(德文:Pfalz
-Flugzeugwerke)獲得受權生產的法國[莫蘭-索尼耶H單翼機](https://zh.wikipedia.org/wiki/莫蘭-索尼耶H單翼機 "wikilink")，無獨有偶，當時另一種德國戰鬥機[福克E單翼戰鬥機也同樣是法國莫蘭](../Page/福克E單翼戰鬥機.md "wikilink")-索尼耶H單翼機的仿製品，但福克飛機公司是仿製又改良而柏法茨是照抄。
+**柏法茨E單翼戰鬥機**是在[第一次世界大戰前由德國](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[柏法茨飛機公司](https://zh.wikipedia.org/wiki/柏法茨飛機公司 "wikilink")(德文:Pfalz Flugzeugwerke)獲得受權生產的法國[莫蘭-索尼耶H單翼機](https://zh.wikipedia.org/wiki/莫蘭-索尼耶H單翼機 "wikilink")，無獨有偶，當時另一種德國戰鬥機[福克E單翼戰鬥機](../Page/福克E單翼戰鬥機.md "wikilink")也同樣是法國莫蘭-索尼耶H單翼機的仿製品，但福克飛機公司是仿製又改良而柏法茨是照抄。
 
 柏法茨公司原是一家在[巴伐利亞專門從事金屬零件鑄造的工廠](https://zh.wikipedia.org/wiki/巴伐利亞 "wikilink")，1913年6月3日開始生產飛機。
 
@@ -20,12 +19,11 @@ Flugzeugwerke)獲得受權生產的法國[莫蘭-索尼耶H單翼機](https://zh
 
 ## 發展簡史和設計特點
 
-雖然[第一次世界大戰爆發](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")，但法國人仍依合約把莫蘭-索尼耶H單翼機的圖紙交給德國柏法茨公司，而隨著福克公司的[同步射擊系統發明出來](https://zh.wikipedia.org/wiki/射击断续器 "wikilink")，柏法茨E單翼戰鬥機也安裝了，而和[福克E單翼戰鬥機相比](../Page/福克E單翼戰鬥機.md "wikilink")，柏法茨E單翼戰鬥機比較重而令其飛行性能較差。
+雖然[第一次世界大戰爆發](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")，但法國人仍依合約把莫蘭-索尼耶H單翼機的圖紙交給德國柏法茨公司，而隨著福克公司的[同步射擊系統發明出來](https://zh.wikipedia.org/wiki/射击断续器 "wikilink")，柏法茨E單翼戰鬥機也安裝了，而和[福克E單翼戰鬥機](../Page/福克E單翼戰鬥機.md "wikilink")相比，柏法茨E單翼戰鬥機比較重而令其飛行性能較差。
 
 ## 主要型號
 
-[Pfalz_E.V.jpg](https://zh.wikipedia.org/wiki/File:Pfalz_E.V.jpg "fig:Pfalz_E.V.jpg")
-[Pfalz-E.V-Sanke438.jpg](https://zh.wikipedia.org/wiki/File:Pfalz-E.V-Sanke438.jpg "fig:Pfalz-E.V-Sanke438.jpg")
+[Pfalz_E.V.jpg](https://zh.wikipedia.org/wiki/File:Pfalz_E.V.jpg "fig:Pfalz_E.V.jpg") [Pfalz-E.V-Sanke438.jpg](https://zh.wikipedia.org/wiki/File:Pfalz-E.V-Sanke438.jpg "fig:Pfalz-E.V-Sanke438.jpg")
 
   - [柏法茨E-I戰鬥機](https://zh.wikipedia.org/wiki/柏法茨E-I戰鬥機 "wikilink")
 
@@ -37,7 +35,7 @@ Flugzeugwerke)獲得受權生產的法國[莫蘭-索尼耶H單翼機](https://zh
 
   - [柏法茨E-III戰鬥機](https://zh.wikipedia.org/wiki/柏法茨E-III戰鬥機 "wikilink")
 
-不同於其他柏法茨E飛機，這是法國[莫蘭-索尼耶L單翼機的仿製品](../Page/莫蘭-索尼耶L單翼機.md "wikilink")
+不同於其他柏法茨E飛機，這是法國[莫蘭-索尼耶L單翼機](../Page/莫蘭-索尼耶L單翼機.md "wikilink")的仿製品
 
   - [柏法茨E-IV戰鬥機](https://zh.wikipedia.org/wiki/柏法茨E-IV戰鬥機 "wikilink")
 
@@ -55,7 +53,7 @@ Flugzeugwerke)獲得受權生產的法國[莫蘭-索尼耶H單翼機](https://zh
 
 首先裝備柏法茨E單翼戰鬥機的是德國空軍的巴伐利亞航空隊去為偵察機護航，但由於其飛行性能和福克E單翼戰鬥機相比較差，飛行員普遍認為「柏法茨E單翼戰鬥機飛行性能平庸而且不太可靠」，它們在西線的使用不多而大多用於東線，而其中的柏法茨E-VI單翼戰鬥機更是祇在後方用於飛行訓練而無用於前線。
 
-而在[協約國方面竟然不知有柏法茨E單翼戰鬥機的存在](../Page/協約國.md "wikilink")，在戰場上空遇上都當成是福克E單翼戰鬥機。
+而在[協約國](../Page/協約國.md "wikilink")方面竟然不知有柏法茨E單翼戰鬥機的存在，在戰場上空遇上都當成是福克E單翼戰鬥機。
 
 ## 使用國家
 
@@ -78,6 +76,4 @@ Flugzeugwerke)獲得受權生產的法國[莫蘭-索尼耶H單翼機](https://zh
 
   - 第一次世界大戰軍機裝備全史(1914-1916)，陶力著，吉林文化出版社，ISBN 978-7-5472-2943-9
 
-[Category:德國戰鬥機](https://zh.wikipedia.org/wiki/Category:德國戰鬥機 "wikilink")
-[Category:奧匈帝國戰鬥機](https://zh.wikipedia.org/wiki/Category:奧匈帝國戰鬥機 "wikilink")
-[Category:第一次世界大戰飛機](https://zh.wikipedia.org/wiki/Category:第一次世界大戰飛機 "wikilink")
+[Category:德國戰鬥機](https://zh.wikipedia.org/wiki/Category:德國戰鬥機 "wikilink") [Category:奧匈帝國戰鬥機](https://zh.wikipedia.org/wiki/Category:奧匈帝國戰鬥機 "wikilink") [Category:第一次世界大戰飛機](https://zh.wikipedia.org/wiki/Category:第一次世界大戰飛機 "wikilink")

@@ -1,43 +1,25 @@
-《**FLIGHT LOG :
-DEPARTURE**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7所推出的第五張](../Page/GOT7.md "wikilink")[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，於2016年3月21日發行，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，唱片公司為KT
-Music。此張專輯以雙主打的形式進行宣傳，主打歌分別為《Fly》及《HOME RUN》。\[1\]
+《**FLIGHT LOG : DEPARTURE**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")所推出的第五張[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，於2016年3月21日發行，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為KT Music。此張專輯以雙主打的形式進行宣傳，主打歌分別為《Fly》及《HOME RUN》。\[1\]
 
 專輯發行首日即登上包含美國在內共9個國家的iTunes韓國流行樂榜首位，並在台灣、香港、泰國、菲律賓、印尼、新加坡、越南的iTunes專輯榜獲得第一名\[2\]，全球iTunes專輯榜則是占據第六名的位置，使得GOT7成為2016年首個擠進該榜單前十名的韓國組合\[3\]，專輯更被美國[Billboard評選為](https://zh.wikipedia.org/wiki/Billboard "wikilink")2016年度十大最佳[K-Pop專輯](https://zh.wikipedia.org/wiki/K-Pop "wikilink")。\[4\]
 
 ## 背景
 
-2016年2月26日，GOT7官方網站、JYP娛樂官方臉書及推特釋出《FLIGHT LOG : DEPARTURE》的回歸日程表，
-表單中透露了GOT7將於4月29日、30日在韓國[首爾舉辦出道以來首次單獨演唱會的消息](../Page/首爾.md "wikilink")。\[5\]
+2016年2月26日，GOT7官方網站、JYP娛樂官方臉書及推特釋出《FLIGHT LOG : DEPARTURE》的回歸日程表， 表單中透露了GOT7將於4月29日、30日在韓國[首爾](../Page/首爾.md "wikilink")舉辦出道以來首次單獨演唱會的消息。\[5\]
 
-2月29日公開專輯曲目清單\[6\]，3月11日晚間於V
-App公開長達六分多鐘的Trailer，14日至16日陸續公開三波宣傳照\[7\]，18日發布首波主打歌曲《Fly》MV預告\[8\]
-，21日發行音源及實體專輯，並同步公開《Fly》的完整版MV，晚間9點舉行LIVE
-PREMIERE公開新歌舞台，首度表演《Fly》、《閃閃發光》、《Something
-Good》三首歌曲\[9\]，4月12日發行第二波主打歌曲《HOME RUN》的音源。
+2月29日公開專輯曲目清單\[6\]，3月11日晚間於V App公開長達六分多鐘的Trailer，14日至16日陸續公開三波宣傳照\[7\]，18日發布首波主打歌曲《Fly》MV預告\[8\] ，21日發行音源及實體專輯，並同步公開《Fly》的完整版MV，晚間9點舉行LIVE PREMIERE公開新歌舞台，首度表演《Fly》、《閃閃發光》、《Something Good》三首歌曲\[9\]，4月12日發行第二波主打歌曲《HOME RUN》的音源。
 
 ## 概要
 
-此次專輯視覺、服裝造型皆以色彩權威機構[Pantone所發佈的](https://zh.wikipedia.org/wiki/Pantone "wikilink")2016年度代表色—玫瑰石英粉紅（Rose
-Quartz）和寧靜藍（Serenity）為主色調，專輯版本也以這兩個顏色命名。
+此次專輯視覺、服裝造型皆以色彩權威機構[Pantone所發佈的](https://zh.wikipedia.org/wiki/Pantone "wikilink")2016年度代表色—玫瑰石英粉紅（Rose Quartz）和寧靜藍（Serenity）為主色調，專輯版本也以這兩個顏色命名。
 
-整張專輯由製作韓國[KBS電視劇](../Page/韓國放送公社.md "wikilink")《[太陽的後裔](../Page/太陽的後裔.md "wikilink")》原聲帶歌曲《Everytime》的作曲團隊操刀，首波主打歌《Fly》以[電子舞曲中的](../Page/電子舞曲.md "wikilink")[Trap
-Music為基礎](https://zh.wikipedia.org/wiki/Trap_Music "wikilink")，並結合[放克與](../Page/放克.md "wikilink")[嘻哈兩種曲風](../Page/嘻哈.md "wikilink")，主要描述20代青年全心全意想奔向心愛的女孩身邊，在面對愛情時堅定且無所畏懼的心情\[10\]
-。第二波主打歌《HOME
-RUN》由隊長[JB參與詞曲創作](../Page/林在範.md "wikilink")，是一首旋律通俗的中毒曲，歌詞將曖昧中的緊張感比喻成棒球賽\[11\]
-，每次的示愛就像是在揮棒打擊，即使屢次揮棒落空，仍不放過一絲機會全力出擊，期盼對方最終能接受自己的愛意。
+整張專輯由製作韓國[KBS電視劇](../Page/韓國放送公社.md "wikilink")《[太陽的後裔](../Page/太陽的後裔.md "wikilink")》原聲帶歌曲《Everytime》的作曲團隊操刀，首波主打歌《Fly》以[電子舞曲](../Page/電子舞曲.md "wikilink")中的[Trap Music為基礎](https://zh.wikipedia.org/wiki/Trap_Music "wikilink")，並結合[放克](../Page/放克.md "wikilink")與[嘻哈](../Page/嘻哈.md "wikilink")兩種曲風，主要描述20代青年全心全意想奔向心愛的女孩身邊，在面對愛情時堅定且無所畏懼的心情\[10\] 。第二波主打歌《HOME RUN》由隊長[JB參與詞曲創作](../Page/林在範.md "wikilink")，是一首旋律通俗的中毒曲，歌詞將曖昧中的緊張感比喻成棒球賽\[11\] ，每次的示愛就像是在揮棒打擊，即使屢次揮棒落空，仍不放過一絲機會全力出擊，期盼對方最終能接受自己的愛意。
 
-除了[Jackson](../Page/王嘉爾.md "wikilink")，其他六位成員皆參與了詞曲創作，其中[榮宰與](../Page/崔榮宰.md "wikilink")[有謙更是首次在專輯中發表自己的作品](../Page/金有謙.md "wikilink")。而歌曲《Beggin
-On My Knees》則由同門師弟樂團[DAY6的貝斯手](../Page/DAY6.md "wikilink")[Young
-K寫詞](../Page/姜永晛.md "wikilink")，同時擔任配唱製作。
+除了[Jackson](../Page/王嘉爾.md "wikilink")，其他六位成員皆參與了詞曲創作，其中[榮宰與](../Page/崔榮宰.md "wikilink")[有謙更是首次在專輯中發表自己的作品](../Page/金有謙.md "wikilink")。而歌曲《Beggin On My Knees》則由同門師弟樂團[DAY6](../Page/DAY6.md "wikilink")的貝斯手[Young K寫詞](../Page/姜永晛.md "wikilink")，同時擔任配唱製作。
 
 ### 發行版本
 
-  - 玫瑰石英粉紅版（Rose Quartz
-    version）：內含100頁寫真冊、隨機小卡1張（共8款）、隨機寫真票卡1張（共21款）、Departure
-    Card
-  - 寧靜藍版（Serenity
-    version）：內含100頁寫真冊、隨機小卡1張（共8款）、隨機寫真票卡1張（共21款）、Departure
-    Card
+  - 玫瑰石英粉紅版（Rose Quartz version）：內含100頁寫真冊、隨機小卡1張（共8款）、隨機寫真票卡1張（共21款）、Departure Card
+  - 寧靜藍版（Serenity version）：內含100頁寫真冊、隨機小卡1張（共8款）、隨機寫真票卡1張（共21款）、Departure Card
 
 ## 曲目
 
@@ -196,14 +178,11 @@ K寫詞](../Page/姜永晛.md "wikilink")，同時擔任配唱製作。
 
 ## 外部連結
 
-  - [GOT7 \<FLIGHT LOG : DEPARTURE\>
-    Trailer](http://www.vlive.tv/video/6308)
+  - [GOT7 \<FLIGHT LOG : DEPARTURE\> Trailer](http://www.vlive.tv/video/6308)
 
-  - [GOT7 \<FLIGHT LOG : DEPARTURE\> LIVE PREMIERE -
-    全場](http://www.vlive.tv/video/6464)
+  - [GOT7 \<FLIGHT LOG : DEPARTURE\> LIVE PREMIERE - 全場](http://www.vlive.tv/video/6464)
 
-  - [GOT7 \<FLIGHT LOG : DEPARTURE\> LIVE PREMIERE - <Fly>
-    舞台](http://www.vlive.tv/video/6687)
+  - [GOT7 \<FLIGHT LOG : DEPARTURE\> LIVE PREMIERE - <Fly> 舞台](http://www.vlive.tv/video/6687)
 
   -
   -
@@ -214,11 +193,7 @@ K寫詞](../Page/姜永晛.md "wikilink")，同時擔任配唱製作。
   -
   -
   -
-[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
-[Category:GOT7音樂專輯](https://zh.wikipedia.org/wiki/Category:GOT7音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2016年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯月榜冠軍作品 "wikilink")
+[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:GOT7音樂專輯](https://zh.wikipedia.org/wiki/Category:GOT7音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink") [Category:2016年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯月榜冠軍作品 "wikilink")
 
 1.
 2.
@@ -231,21 +206,11 @@ K寫詞](../Page/姜永晛.md "wikilink")，同時擔任配唱製作。
 9.
 10.
 11.
-12. [2016년 13주차 Download
-    Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=S1020&targetTime=13&hitYear=2016&termGbn=week)
-    Gaon Chart. \[2016-03-31\]
-13. [2016년 3월 Digital
-    Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&termGbn=month)Gaon
-    Chart. \[2016-05-09\]
-14. [2016년 13주차 Album
-    Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=13&hitYear=2016&termGbn=week)Gaon
-    Chart. \[2016-03-31\]
-15. [2016년 03월 Album
-    Chart](http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=03&hitYear=2016&termGbn=month)
-    Gaon Chart. \[2016-04-07\]
-16. [2016년 Album
-    Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=2016&hitYear=2016&termGbn=year)
-    Gaon Chart. \[2017-01-14\]
+12. [2016년 13주차 Download Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=S1020&targetTime=13&hitYear=2016&termGbn=week) Gaon Chart. \[2016-03-31\]
+13. [2016년 3월 Digital Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&termGbn=month)Gaon Chart. \[2016-05-09\]
+14. [2016년 13주차 Album Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=13&hitYear=2016&termGbn=week)Gaon Chart. \[2016-03-31\]
+15. [2016년 03월 Album Chart](http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=03&hitYear=2016&termGbn=month) Gaon Chart. \[2016-04-07\]
+16. [2016년 Album Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=2016&hitYear=2016&termGbn=year) Gaon Chart. \[2017-01-14\]
 17.
 18.
 19.

@@ -1,12 +1,10 @@
-**《Sailing to the Sunshine》**是电视动画《[LoveLive\!
-Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")》的[原声音乐集](../Page/原声音乐.md "wikilink")，2016年11月30日由[Lantis发行](../Page/Lantis.md "wikilink")。
+**《Sailing to the Sunshine》**是电视动画《[LoveLive\! Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")》的[原声音乐](../Page/原声音乐.md "wikilink")集，2016年11月30日由[Lantis](../Page/Lantis.md "wikilink")发行。
 
 ## 概要
 
-本专辑收录了电视动画《LoveLive\! Sunshine\!\!》中使用的歌曲（多为TV
-size）及背景音乐\[1\]。初回限定版附赠“”徽章一枚（随机封入）\[2\]。
+本专辑收录了电视动画《LoveLive\! Sunshine\!\!》中使用的歌曲（多为TV size）及背景音乐\[1\]。初回限定版附赠“”徽章一枚（随机封入）\[2\]。
 
-专辑发行首日，位列[Oricon公信榜第七名](../Page/Oricon公信榜.md "wikilink")\[3\]，首周销量排名公信榜第6位\[4\]。
+专辑发行首日，位列[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")第七名\[3\]，首周销量排名公信榜第6位\[4\]。
 
 ## 收录曲目
 
@@ -151,8 +149,7 @@ size）及背景音乐\[1\]。初回限定版附赠“”徽章一枚（随机�
 15. SELF CONTROL\!\!
 
       - 作曲、编曲：河田贵央
-      - 歌：Saint
-        Snow（鹿角圣良（[田野麻美](../Page/田野麻美.md "wikilink")）、鹿角理亚（[佐藤日向](../Page/佐藤日向.md "wikilink")））
+      - 歌：Saint Snow（鹿角圣良（[田野麻美](../Page/田野麻美.md "wikilink")）、鹿角理亚（[佐藤日向](../Page/佐藤日向.md "wikilink")））
       - 第8话插曲。
 
 16. （不覺得不甘心嗎？）
@@ -230,9 +227,7 @@ size）及背景音乐\[1\]。初回限定版附赠“”徽章一枚（随机�
 <!-- end list -->
 
   -
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:LoveLive\!音樂](https://zh.wikipedia.org/wiki/Category:LoveLive!音樂 "wikilink")
-[Category:Lantis發行的音樂專輯](https://zh.wikipedia.org/wiki/Category:Lantis發行的音樂專輯 "wikilink")
+[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:LoveLive\!音樂](https://zh.wikipedia.org/wiki/Category:LoveLive!音樂 "wikilink") [Category:Lantis發行的音樂專輯](https://zh.wikipedia.org/wiki/Category:Lantis發行的音樂專輯 "wikilink")
 
 1.
 2.

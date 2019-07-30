@@ -1,9 +1,8 @@
-**有限公司岡安Promotion**（）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[調布市](../Page/調布市.md "wikilink")\[1\]，專門從事日本電影、動畫、紀錄片的[剪輯公司](../Page/剪輯.md "wikilink")。成立於1954年。創辦人是[岡安肇](../Page/岡安肇.md "wikilink")。現任代表董事社長是[小島俊彥](../Page/小島俊彥.md "wikilink")。
+**有限公司岡安Promotion**（）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[調布市](../Page/調布市.md "wikilink")\[1\]，專門從事日本電影、動畫、紀錄片的[剪輯](../Page/剪輯.md "wikilink")公司。成立於1954年。創辦人是[岡安肇](../Page/岡安肇.md "wikilink")。現任代表董事社長是[小島俊彥](../Page/小島俊彥.md "wikilink")。
 
 ## 概要
 
-岡安Promotion自從成立以來。在真人電影作品方面與電影導演[今村昌平有很深的合作關係](../Page/今村昌平.md "wikilink")，其中電影《》曾入圍1990年[第13回日本電影金像獎最優秀剪輯獎](https://zh.wikipedia.org/wiki/第13回日本電影金像獎 "wikilink")。在動畫方面，承包過[SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")、[STUDIO
-COMET等多家動畫公司作品的剪輯工作](../Page/STUDIO_COMET.md "wikilink")。
+岡安Promotion自從成立以來。在真人電影作品方面與電影導演[今村昌平](../Page/今村昌平.md "wikilink")有很深的合作關係，其中電影《》曾入圍1990年[第13回日本電影金像獎最優秀剪輯獎](https://zh.wikipedia.org/wiki/第13回日本電影金像獎 "wikilink")。在動畫方面，承包過[SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")、[STUDIO COMET等多家動畫公司作品的剪輯工作](../Page/STUDIO_COMET.md "wikilink")。
 
 後來在2013年，該公司榮獲[第36回日本電影金像獎的底片剪輯部門協會特別獎](https://zh.wikipedia.org/wiki/第36回日本電影金像獎 "wikilink")。
 
@@ -54,7 +53,7 @@ COMET等多家動畫公司作品的剪輯工作](../Page/STUDIO_COMET.md "wikili
 
   - [capeta](https://zh.wikipedia.org/wiki/極速方程式 "wikilink")
 
-  - [足球小將翼J](../Page/足球小將.md "wikilink")
+  - [足球小將](../Page/足球小將.md "wikilink")翼J
 
   -
   - [寶石寵物](../Page/寶石寵物.md "wikilink")
@@ -63,8 +62,7 @@ COMET等多家動畫公司作品的剪輯工作](../Page/STUDIO_COMET.md "wikili
 
   - [侍魂 ～破天降魔之章～](../Page/侍魂系列.md "wikilink")
 
-  - [真·女神轉生D 惡魔之子
-    光之書與闇之書](https://zh.wikipedia.org/wiki/真·女神轉生_惡魔之子#真·女神轉生D_惡魔之子_光之書與闇之書 "wikilink")
+  - [真·女神轉生D 惡魔之子 光之書與闇之書](https://zh.wikipedia.org/wiki/真·女神轉生_惡魔之子#真·女神轉生D_惡魔之子_光之書與闇之書 "wikilink")
 
   - [神聖十月](../Page/神聖十月.md "wikilink")
 
@@ -121,7 +119,7 @@ COMET等多家動畫公司作品的剪輯工作](../Page/STUDIO_COMET.md "wikili
 
   - （土田製作公司）
 
-  - [足球小將翼 (昭和版)](../Page/足球小將.md "wikilink")（土田製作公司）
+  - [足球小將 (昭和版)](../Page/足球小將.md "wikilink")翼（土田製作公司）
 
   - （，僅前篇）※成人動畫。
 
@@ -132,19 +130,17 @@ COMET等多家動畫公司作品的剪輯工作](../Page/STUDIO_COMET.md "wikili
       - 乃木坂春香的秘密 Purezza♪（diomedéa）
       - 乃木坂春香的秘密 Finale♪（diomedéa）
 
-  - [魔法騎士](https://zh.wikipedia.org/wiki/魔法騎士 "wikilink")（[TMS
-    Entertainment](../Page/TMS娛樂.md "wikilink")）
+  - [魔法騎士](https://zh.wikipedia.org/wiki/魔法騎士 "wikilink")（[TMS Entertainment](../Page/TMS娛樂.md "wikilink")）
 
   - （土田製作公司）
 
-  - [靈犬雪麗](../Page/靈犬雪麗.md "wikilink")（[東寶株式會社](../Page/東寶.md "wikilink")）
+  - [靈犬雪麗](../Page/靈犬雪麗.md "wikilink")（[東寶](../Page/東寶.md "wikilink")株式會社）
 
   - （土田製作公司）
 
   - [火箭女孩](../Page/火箭女孩.md "wikilink")（MOOK DLE）
 
-  - [秘密 ～The
-    Revelation～](https://zh.wikipedia.org/wiki/最高機密_\(漫畫\) "wikilink")（[MADHOUSE](../Page/MADHOUSE.md "wikilink")）
+  - [秘密 ～The Revelation～](https://zh.wikipedia.org/wiki/最高機密_\(漫畫\) "wikilink")（[MADHOUSE](../Page/MADHOUSE.md "wikilink")）
 
   - [Happiness！](../Page/Happiness!.md "wikilink")（[ARTLAND](../Page/ARTLAND.md "wikilink")）
 
@@ -198,8 +194,7 @@ COMET等多家動畫公司作品的剪輯工作](../Page/STUDIO_COMET.md "wikili
 
   - （今村Pro）
 
-  - （東映、[三井物産](https://zh.wikipedia.org/wiki/三井物産 "wikilink")、Wings
-    Japan、）
+  - （東映、[三井物産](https://zh.wikipedia.org/wiki/三井物産 "wikilink")、Wings Japan、）
 
   - （[萬代](../Page/萬代.md "wikilink")、、PF film）
 
@@ -238,8 +233,6 @@ COMET等多家動畫公司作品的剪輯工作](../Page/STUDIO_COMET.md "wikili
 
   - （2003年4月2日的[檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")）
 
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:1954年成立的公司](https://zh.wikipedia.org/wiki/Category:1954年成立的公司 "wikilink")
-[Category:調布市公司](https://zh.wikipedia.org/wiki/Category:調布市公司 "wikilink")
+[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:1954年成立的公司](https://zh.wikipedia.org/wiki/Category:1954年成立的公司 "wikilink") [Category:調布市公司](https://zh.wikipedia.org/wiki/Category:調布市公司 "wikilink")
 
 1.

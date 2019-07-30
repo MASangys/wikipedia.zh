@@ -471,7 +471,6 @@
 
   - [WTA Rankings](http://www.wtatennis.com/rankings)
 
-[Category:WTA巡迴賽](https://zh.wikipedia.org/wiki/Category:WTA巡迴賽 "wikilink")
-[Category:運動世界排名](https://zh.wikipedia.org/wiki/Category:運動世界排名 "wikilink")
+[Category:WTA巡迴賽](https://zh.wikipedia.org/wiki/Category:WTA巡迴賽 "wikilink") [Category:運動世界排名](https://zh.wikipedia.org/wiki/Category:運動世界排名 "wikilink")
 
 1.

@@ -1,13 +1,10 @@
-《**Active
-Raid－機動強襲室第八係－**》是[谷口悟朗擔任總監督](../Page/谷口悟朗.md "wikilink")，[Production
-IMS製作的原創動畫](../Page/Production_IMS.md "wikilink")，電視動畫第1期於2016年1月8日至3月24日播出。第2期《Active
-Raid－機動強襲室第八係－ 2nd》於同年7月開始播放。
+《**Active Raid－機動強襲室第八係－**》是[谷口悟朗](../Page/谷口悟朗.md "wikilink")擔任總監督，[Production IMS製作的原創動畫](../Page/Production_IMS.md "wikilink")，電視動畫第1期於2016年1月8日至3月24日播出。第2期《Active Raid－機動強襲室第八係－ 2nd》於同年7月開始播放。
 
 ## 故事簡介
 
 東京發生「第三次流沙現象」使得一部分沉入泥濘之中。企業為快速重建復興，以一種高輸出力、外骨骼強化的發明「Willware」進行施工；與此同時利用Willware進行的[犯罪行為日益增加](https://zh.wikipedia.org/wiki/犯罪行為 "wikilink")，為了有效遏止之，警察廳警備局在吉祥寺分室新設了第五特別公安課第三機動強襲室第八係——通稱「第八」。「第八」是一群在層層的法律制約及各種障礙下，以智慧、勇氣及口才向兇惡事件發起挑戰的年輕人。
 
-由於本作的總監督曾經製作《[反逆的魯路修](https://zh.wikipedia.org/wiki/反逆的魯路修 "wikilink")》，本作有一些[致敬鏡頭](../Page/致敬.md "wikilink")。例如第七話的犯人使用了樞木朱雀招牌的跳躍連續踩臉，以及神話與伯德的[全知全能都相當接近魯路修和修奈傑爾的設定](https://zh.wikipedia.org/wiki/全知全能 "wikilink")。
+由於本作的總監督曾經製作《[反逆的魯路修](https://zh.wikipedia.org/wiki/反逆的魯路修 "wikilink")》，本作有一些[致敬](../Page/致敬.md "wikilink")鏡頭。例如第七話的犯人使用了樞木朱雀招牌的跳躍連續踩臉，以及神話與伯德的[全知全能都相當接近魯路修和修奈傑爾的設定](https://zh.wikipedia.org/wiki/全知全能 "wikilink")。
 
 此片諷刺了警察與腐敗官僚之間的黑暗面。
 
@@ -22,14 +19,12 @@ Raid－機動強襲室第八係－ 2nd》於同年7月開始播放。
 <!-- end list -->
 
   -
-    會嚴守垃圾分類，有著諸如此類拘泥於細節的嚴謹性格，和同事黑騎形成鮮明對比。Willware使用遠距離射擊特化型的Elf
-    Σ。過去是統合自衛隊的菁英。
+    會嚴守垃圾分類，有著諸如此類拘泥於細節的嚴謹性格，和同事黑騎形成鮮明對比。Willware使用遠距離射擊特化型的Elf Σ。過去是統合自衛隊的菁英。
 
 <!-- end list -->
 
   -
-    作為特例結束了研修期間，帶著調查其實際狀態的密令而被配屬到第八課。Willware是最新型多機能型的Fine
-    Familia。自尊心強，稍顯強硬，卻也意外地有著容易慌張的一面。第二季開始調往大阪擔任新成立的機動強襲室第九係室長，代號為「Brain」（）。
+    作為特例結束了研修期間，帶著調查其實際狀態的密令而被配屬到第八課。Willware是最新型多機能型的Fine Familia。自尊心強，稍顯強硬，卻也意外地有著容易慌張的一面。第二季開始調往大阪擔任新成立的機動強襲室第九係室長，代號為「Brain」（）。
 
 <!-- end list -->
 
@@ -59,8 +54,7 @@ Raid－機動強襲室第八係－ 2nd》於同年7月開始播放。
 <!-- end list -->
 
   -
-    第二季登場角色，從波蘭來的金髮美少女，使用Willware「Foundation
-    Omega」。在波蘭時曾經負責半人馬套件的測試，但是在測試途中突然停止運轉，曾經被關在Willware裡面整整三天造成對使用Willware有所恐懼，雖然做為警察很優秀，但事件發生後逃避Willware任務而被波蘭警方視為累贅，最終以警察交流的名義推給日本。後因黑騎的一席話而慢慢克服對Willware的恐懼。
+    第二季登場角色，從波蘭來的金髮美少女，使用Willware「Foundation Omega」。在波蘭時曾經負責半人馬套件的測試，但是在測試途中突然停止運轉，曾經被關在Willware裡面整整三天造成對使用Willware有所恐懼，雖然做為警察很優秀，但事件發生後逃避Willware任務而被波蘭警方視為累贅，最終以警察交流的名義推給日本。後因黑騎的一席話而慢慢克服對Willware的恐懼。
 
 <!-- end list -->
 
@@ -161,8 +155,7 @@ Raid－機動強襲室第八係－ 2nd》於同年7月開始播放。
 ## 用語設定
 
   -
-    Armored Combined Tactical Intelligence Vanguard
-    Element（裝甲複合戰術情報先鋒部隊）的大寫字母縮寫的簡稱。
+    Armored Combined Tactical Intelligence Vanguard Element（裝甲複合戰術情報先鋒部隊）的大寫字母縮寫的簡稱。
 
 <!-- end list -->
 
@@ -232,9 +225,7 @@ Raid－機動強襲室第八係－ 2nd》於同年7月開始播放。
 
 :; 片頭曲「Golden Life」
 
-::
-作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")，作曲、編曲：鴇澤直，主唱：[AKINO](../Page/AKINO.md "wikilink")
-with [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
+:: 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")，作曲、編曲：鴇澤直，主唱：[AKINO](../Page/AKINO.md "wikilink") with [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
 
 :; 片尾曲「透明的夜空（）」
 
@@ -257,18 +248,15 @@ with [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
 
 :; 片尾曲「」
 
-::
-作詞：山本メーコ，作曲、編曲：[IKUO](https://zh.wikipedia.org/wiki/IKUO "wikilink")，主唱：Liko（[黑澤朋世](../Page/黑澤朋世.md "wikilink")）
+:: 作詞：山本メーコ，作曲、編曲：[IKUO](https://zh.wikipedia.org/wiki/IKUO "wikilink")，主唱：Liko（[黑澤朋世](../Page/黑澤朋世.md "wikilink")）
 
 :; 劇中歌「」（第1話、第3話）
 
-::
-作詞：荒川稔久，作曲、編曲：[中川幸太郎](../Page/中川幸太郎.md "wikilink")，主唱：花咲里麻美（[小澤亞李](../Page/小澤亞李.md "wikilink")）
+:: 作詞：荒川稔久，作曲、編曲：[中川幸太郎](../Page/中川幸太郎.md "wikilink")，主唱：花咲里麻美（[小澤亞李](../Page/小澤亞李.md "wikilink")）
 
 :; 劇中歌「」（第3話）
 
-::
-作詞：[谷口悟朗](../Page/谷口悟朗.md "wikilink")，作曲：福島利規，主唱：船坂康晴（[大川透](../Page/大川透.md "wikilink")）
+:: 作詞：[谷口悟朗](../Page/谷口悟朗.md "wikilink")，作曲：福島利規，主唱：船坂康晴（[大川透](../Page/大川透.md "wikilink")）
 
 :; 劇中歌「」（第5話）
 
@@ -593,9 +581,4 @@ with [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
 
   -
 
-[分類:日本原創電視動畫](https://zh.wikipedia.org/wiki/分類:日本原創電視動畫 "wikilink")
-[分類:2016年日本電視動畫](https://zh.wikipedia.org/wiki/分類:2016年日本電視動畫 "wikilink")
-[分類:2016年UHF動畫](https://zh.wikipedia.org/wiki/分類:2016年UHF動畫 "wikilink")
-[分類:動力服題材動畫](https://zh.wikipedia.org/wiki/分類:動力服題材動畫 "wikilink")
-[分類:變身英雄](https://zh.wikipedia.org/wiki/分類:變身英雄 "wikilink")
-[分類:少年Jump+](https://zh.wikipedia.org/wiki/分類:少年Jump+ "wikilink")
+[分類:日本原創電視動畫](https://zh.wikipedia.org/wiki/分類:日本原創電視動畫 "wikilink") [分類:2016年日本電視動畫](https://zh.wikipedia.org/wiki/分類:2016年日本電視動畫 "wikilink") [分類:2016年UHF動畫](https://zh.wikipedia.org/wiki/分類:2016年UHF動畫 "wikilink") [分類:動力服題材動畫](https://zh.wikipedia.org/wiki/分類:動力服題材動畫 "wikilink") [分類:變身英雄](https://zh.wikipedia.org/wiki/分類:變身英雄 "wikilink") [分類:少年Jump+](https://zh.wikipedia.org/wiki/分類:少年Jump+ "wikilink")

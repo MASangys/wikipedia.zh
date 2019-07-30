@@ -1,23 +1,14 @@
-**株式會社Triple
-A**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[西東京市](../Page/西東京市.md "wikilink")\[1\]，專門從事[動畫的企劃與製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於2002年。
+**株式會社Triple A**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[西東京市](../Page/西東京市.md "wikilink")\[1\]，專門從事[動畫的企劃與製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於2002年。
 
 ## 概要、沿革
 
-2002年\[2\]，Triple
-A從[XEBEC的子企業成立起家](../Page/XEBEC.md "wikilink")。而「Triple
-A」（AAA）命名由來摘自於「**A**ndy's **A**nimation
-**A**ssociation」頭文字中的三個A所決定。代表人是山崎猛\[3\]。
+2002年\[2\]，Triple A從[XEBEC](../Page/XEBEC.md "wikilink")的子企業成立起家。而「Triple A」（AAA）命名由來摘自於「**A**ndy's **A**nimation **A**ssociation」頭文字中的三個A所決定。代表人是山崎猛\[3\]。
 
-Triple
-A成立初期，以下游承包商接美術、攝影及動畫檢查的工作為主要業務。次年2003年開始，轉向協助大型動畫企業[總承包動畫作品進行分工製作](../Page/統包.md "wikilink")。
+Triple A成立初期，以下游承包商接美術、攝影及動畫檢查的工作為主要業務。次年2003年開始，轉向協助大型動畫企業[總承包動畫作品進行分工製作](../Page/統包.md "wikilink")。
 
-2005年5月，Triple A的股權全被XEBEC售出，從今之後Triple A與XEBEC（IG
-Port集團）已經沒有任何關係\[4\]。同年，Triple
-A的上色部門雖然從公司內部另獨立出「**有限公司iseriA**」，但在2010年破產。
+2005年5月，Triple A的股權全被XEBEC售出，從今之後Triple A與XEBEC（IG Port集團）已經沒有任何關係\[4\]。同年，Triple A的上色部門雖然從公司內部另獨立出「**有限公司iseriA**」，但在2010年破產。
 
-2009年5月，Triple
-A的子企業「**[株式會社C2C](../Page/C2C_\(日本公司\).md "wikilink")**」成立。而C2C是「Challenge
-To Challenge」的公司簡稱\[5\]。從此以後，Triple A以「**C2C**」的名義持續進行動畫接案。
+2009年5月，Triple A的子企業「**[株式會社C2C](../Page/C2C_\(日本公司\).md "wikilink")**」成立。而C2C是「Challenge To Challenge」的公司簡稱\[5\]。從此以後，Triple A以「**C2C**」的名義持續進行動畫接案。
 
 ## 獨立製作
 
@@ -77,7 +68,7 @@ To Challenge」的公司簡稱\[5\]。從此以後，Triple A以「**C2C**」的
 <tr class="odd">
 <td><p>2003年</p></td>
 <td><p>2004年</p></td>
-<td><p><a href="../Page/最遊記.md" title="wikilink">最遊記RELOAD</a></p></td>
+<td><p><a href="../Page/最遊記.md" title="wikilink">最遊記</a>RELOAD</p></td>
 <td><p><a href="../Page/Studio_Pierrot.md" title="wikilink">Studio Pierrot</a></p></td>
 <td></td>
 <td></td>
@@ -472,7 +463,7 @@ To Challenge」的公司簡稱\[5\]。從此以後，Triple A以「**C2C**」的
 <tbody>
 <tr class="odd">
 <td><p>2008年</p></td>
-<td><p><a href="../Page/企鵝美眉.md" title="wikilink">企鵝美眉♥心</a></p></td>
+<td><p><a href="../Page/企鵝美眉.md" title="wikilink">企鵝美眉</a>♥心</p></td>
 <td></td>
 <td></td>
 <td><p>各話協力工作室</p></td>
@@ -511,14 +502,11 @@ To Challenge」的公司簡稱\[5\]。從此以後，Triple A以「**C2C**」的
   - [株式會社Triple A公式官網](http://www.triplea-2002.com/)
   - [株式會社C2C公式官網](http://www.c2c2009.com/)
 
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:西東京市公司](https://zh.wikipedia.org/wiki/Category:西東京市公司 "wikilink")
-[Category:2002年成立的公司](https://zh.wikipedia.org/wiki/Category:2002年成立的公司 "wikilink")
+[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:西東京市公司](https://zh.wikipedia.org/wiki/Category:西東京市公司 "wikilink") [Category:2002年成立的公司](https://zh.wikipedia.org/wiki/Category:2002年成立的公司 "wikilink")
 
 1.
 2.
 3.
-4.  [株式會社Production I.G](../Page/Production_I.G.md "wikilink")
-    2006年有價證劵報告書，第39頁。
+4.  [株式會社Production I.G](../Page/Production_I.G.md "wikilink") 2006年有價證劵報告書，第39頁。
 
 5.

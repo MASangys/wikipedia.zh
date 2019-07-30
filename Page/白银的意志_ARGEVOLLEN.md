@@ -1,10 +1,8 @@
-《**白银的意志
-ARGEVOLLEN**》（），是日本於2014年7月播放的原创[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")。
+《**白银的意志 ARGEVOLLEN**》（），是日本於2014年7月播放的原创[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")。
 
 ## 概要
 
-2014年3月22日，WARNER公司在AnimeJapan
-2014的舞台活动中公布了作为原创[机器人动画的本作将从](https://zh.wikipedia.org/wiki/机器人动画 "wikilink")2014年夏天播放的消息\[1\]\[2\]。
+2014年3月22日，WARNER公司在AnimeJapan 2014的舞台活动中公布了作为原创[机器人动画的本作将从](https://zh.wikipedia.org/wiki/机器人动画 "wikilink")2014年夏天播放的消息\[1\]\[2\]。
 
 ## 登場人物
 
@@ -15,8 +13,7 @@ ARGEVOLLEN**》（），是日本於2014年7月播放的原创[电视动画](htt
     有張樸實的臉，數次違反指令且與部隊的部隊發生衝突，有著希望挽救別人生命的強烈情感。
     在8年前的事故中失去了姊姊，想在軍隊中找出當年事故的真相。
   - （聲：[大西沙織](../Page/大西沙織.md "wikilink")）
-    本作的女主角。民間企業Akysbernes製造公司
-    的技術員。20歲。負責管理奧堅弗倫，作為一個菜鳥技術員，經常陷入焦慮中，在英格米爾攻擊中的倖存者，因此與奧堅弗倫和第八獨立部隊同行。
+    本作的女主角。民間企業Akysbernes製造公司 的技術員。20歲。負責管理奧堅弗倫，作為一個菜鳥技術員，經常陷入焦慮中，在英格米爾攻擊中的倖存者，因此與奧堅弗倫和第八獨立部隊同行。
 
 ## 組織
 
@@ -529,9 +526,7 @@ Lee Donglk、野本正幸</p></td>
 ## 网络广播剧
 
   -
-    2014年6月25日至2015年1月28日在HiBiKi Radio
-    Station上播放的网络广播剧。周三更新。[大西沙织和](../Page/大西沙織.md "wikilink")[爱美负责播音](../Page/愛美.md "wikilink")
-    \[3\]。
+    2014年6月25日至2015年1月28日在HiBiKi Radio Station上播放的网络广播剧。周三更新。[大西沙织和](../Page/大西沙織.md "wikilink")[爱美负责播音](../Page/愛美.md "wikilink") \[3\]。
 
 ## 参考资料
 
@@ -541,11 +536,7 @@ Lee Donglk、野本正幸</p></td>
   -
   - [爱奇艺独播专区](http://www.iqiyi.com/a_19rrgif3l1.html)
 
-[Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink")
-[Category:XEBEC](https://zh.wikipedia.org/wiki/Category:XEBEC "wikilink")
-[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
+[Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink") [Category:XEBEC](https://zh.wikipedia.org/wiki/Category:XEBEC "wikilink") [Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
 
 1.
 2.

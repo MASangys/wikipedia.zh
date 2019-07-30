@@ -1,5 +1,4 @@
-《**Selfish**》是[前田敦子的第](../Page/前田敦子.md "wikilink")1張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2016年6月22日由[King
-Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
+《**Selfish**》是[前田敦子](../Page/前田敦子.md "wikilink")的第1張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2016年6月22日由[King Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 
 ## 收錄曲目
 
@@ -163,11 +162,7 @@ Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 
 ## 外部連結
 
-  - [King
-    Records介紹網站](https://zh.wikipedia.org/wiki/King_Records "wikilink")：[TypeA](http://www.kingrecords.co.jp/cs/g/gKIZC-355/)、[Type
-    B](http://www.kingrecords.co.jp/cs/g/gKIZC-357/)、[Type
-    C](http://www.kingrecords.co.jp/cs/g/gKIZC-359/)、[Type
-    D](http://www.kingrecords.co.jp/cs/g/gKICS-3393/)
+  - [King Records介紹網站](https://zh.wikipedia.org/wiki/King_Records "wikilink")：[TypeA](http://www.kingrecords.co.jp/cs/g/gKIZC-355/)、[Type B](http://www.kingrecords.co.jp/cs/g/gKIZC-357/)、[Type C](http://www.kingrecords.co.jp/cs/g/gKIZC-359/)、[Type D](http://www.kingrecords.co.jp/cs/g/gKICS-3393/)
 
 <!-- end list -->
 

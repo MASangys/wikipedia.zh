@@ -1,8 +1,8 @@
-《**WINNER獲獎及提名列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[WINNER出道至今於頒獎典禮](../Page/WINNER.md "wikilink")、音樂節目的獲獎與提名。
+《**WINNER獲獎及提名列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[WINNER](../Page/WINNER.md "wikilink")出道至今於頒獎典禮、音樂節目的獲獎與提名。
 
 ## 韓國音樂頒獎典禮
 
-### [甜瓜音樂獎（Melon Music Awards）](../Page/甜瓜音樂獎.md "wikilink")
+### [甜瓜音樂獎 Music Awards）](../Page/甜瓜音樂獎.md "wikilink")（Melon
 
 <table>
 <tbody>
@@ -161,7 +161,7 @@
 </tbody>
 </table>
 
-### [Mnet亞洲音樂大獎（Mnet Asian Music Awards）](../Page/Mnet亞洲音樂大獎.md "wikilink")
+### [Mnet亞洲音樂大獎 Asian Music Awards）](../Page/Mnet亞洲音樂大獎.md "wikilink")（Mnet
 
 <table>
 <tbody>
@@ -294,7 +294,7 @@
 </tbody>
 </table>
 
-### [亞洲時尚偶像獎（Style Icon Asia Awards](../Page/亞洲時尚偶像獎.md "wikilink")）
+### [亞洲時尚偶像獎 Icon Asia Awards](../Page/亞洲時尚偶像獎.md "wikilink")（Style）
 
 <table>
 <tbody>
@@ -343,7 +343,7 @@
 </tbody>
 </table>
 
-### [SBS歌謠大戰（SBS Gayo Daejeon）](../Page/SBS歌謠大戰.md "wikilink")
+### [SBS歌謠大戰 Gayo Daejeon）](../Page/SBS歌謠大戰.md "wikilink")（SBS
 
 <table>
 <tbody>
@@ -539,8 +539,7 @@
 
 ## 參考文獻
 
-[Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink")
-[Category:WINNER](https://zh.wikipedia.org/wiki/Category:WINNER "wikilink")
+[Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink") [Category:WINNER](https://zh.wikipedia.org/wiki/Category:WINNER "wikilink")
 
 1.  [MelOn Music Awards\#2014](../Page/甜瓜音樂獎.md "wikilink")
 

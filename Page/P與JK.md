@@ -1,9 +1,6 @@
-《**P與JK**
-》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：PとJK）是日本漫畫家[三次真紀](https://zh.wikipedia.org/wiki/三次真紀 "wikilink")（）的[少女漫畫作品](../Page/少女漫画.md "wikilink")。由2013年1月號的「[別冊FRIEND](../Page/別冊FRIEND.md "wikilink")」漫畫雜誌（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）上開始連載，2014年11月號起作者因產假休息休刊，2015年11月號繼續連載。作品標題中的「P」代表“Police”（警察）；「JK」為“
-jyoshi kousei”（日語：じょしこうせい）日本女高中生的流行簡稱。
+《**P與JK** 》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：PとJK）是日本漫畫家[三次真紀](https://zh.wikipedia.org/wiki/三次真紀 "wikilink")（）的[少女漫畫作品](../Page/少女漫画.md "wikilink")。由2013年1月號的「[別冊FRIEND](../Page/別冊FRIEND.md "wikilink")」漫畫雜誌（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）上開始連載，2014年11月號起作者因產假休刊，2015年11月號繼續連載。作品標題中的「P」代表“Police”（警察）；「JK」為“ jyoshi kousei”（日語：じょしこうせい）日本女高中生的流行簡稱。
 
-總發行量截至2016年11月已超過230萬本。2017年本作獲得第41回[講談社漫畫賞少女部門賞](https://zh.wikipedia.org/wiki/講談社漫畫賞 "wikilink")
-\[1\]，同年3月25日真人電影版於日本公開上映。
+總發行量截至2016年11月已超過230萬本。2017年本作獲得第41回[講談社漫畫賞少女部門賞](https://zh.wikipedia.org/wiki/講談社漫畫賞 "wikilink") \[1\]，同年3月25日真人電影版於日本公開上映。
 
 ## 故事簡介
 
@@ -33,13 +30,12 @@ jyoshi kousei”（日語：じょしこうせい）日本女高中生的流行�
 
 ## 真人版電影
 
-《P與JK》真人改編電影由[土屋太鳳和](../Page/土屋太鳳.md "wikilink")[龜梨和也主演](../Page/龜梨和也.md "wikilink")，2017年3月25日於日本正式上映。
+《P與JK》真人改編電影由[土屋太鳳](../Page/土屋太鳳.md "wikilink")和[龜梨和也](../Page/龜梨和也.md "wikilink")主演，2017年3月25日於日本正式上映。
 
 ### 登場人物及演員
 
   - 本谷歌子：[土屋太鳳](../Page/土屋太鳳.md "wikilink")
-  - 佐賀野功太：[龜梨和也](../Page/龜梨和也.md "wikilink")
-    （[KAT-TUN](../Page/KAT-TUN.md "wikilink")）
+  - 佐賀野功太：[龜梨和也](../Page/龜梨和也.md "wikilink") （[KAT-TUN](../Page/KAT-TUN.md "wikilink")）
   - 大神平助：[高杉真宙](../Page/高杉真宙.md "wikilink")
   - 矢口三門：[玉城Tina](https://zh.wikipedia.org/wiki/玉城Tina "wikilink")
   - 永倉二郎：西畑大吾
@@ -63,16 +59,9 @@ jyoshi kousei”（日語：じょしこうせい）日本女高中生的流行�
 
 ## 外部連結
 
-  - [講談社《P與JK》漫畫介紹](http://betsufure.net/lineup/1000006269.html)
-    <small>**（日文）**</small>
+  - [講談社《P與JK》漫畫介紹](http://betsufure.net/lineup/1000006269.html) <small>**（日文）**</small>
   - [電影《P與JK》官方網站](http://ptojk.jp/) <small>**（日文）**</small>
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink")
-[Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink")
-[Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink")
-[Category:日本漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編真人電影 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink") [Category:日本漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編真人電影 "wikilink")
 
 1.  [歴代の講談社漫画賞](http://www.mangaspider.net/)

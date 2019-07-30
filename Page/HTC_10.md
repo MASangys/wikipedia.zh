@@ -1,19 +1,11 @@
-**HTC
-10**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2016年開發的新一代旗艦級[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，運行[Android
-8.0.0操作系统](../Page/Android_Oreo.md "wikilink")（出廠版本為[Android
-6.0.1](../Page/Android_Marshmallow.md "wikilink")），競爭對手為[Samsung Galaxy
-S7](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S7 "wikilink")、[LG
-G5](../Page/LG_G5.md "wikilink")、[Sony Xperia X
-Performance](../Page/Sony_Xperia_X_Performance.md "wikilink")、[Huawei
-P9](https://zh.wikipedia.org/wiki/Huawei_P9 "wikilink")。
+**HTC 10**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2016年開發的新一代旗艦級[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，運行[Android 8.0.0操作系统](../Page/Android_Oreo.md "wikilink")（出廠版本為[Android 6.0.1](../Page/Android_Marshmallow.md "wikilink")），競爭對手為[Samsung Galaxy S7](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S7 "wikilink")、[LG G5](../Page/LG_G5.md "wikilink")、[Sony Xperia X Performance](../Page/Sony_Xperia_X_Performance.md "wikilink")、[Huawei P9](https://zh.wikipedia.org/wiki/Huawei_P9 "wikilink")。
 
 ## 簡介
 
   - 本次\[1\]主打全金屬機身，加上背面的拋光倒角，這次的鏡頭也沒M9那樣的突出。
-  - 相機採用了新的**UltraPixel
-    2**，搭載[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")**IMX377**感光元件（像素大小1.55um）再加上F1.8的大光圈，且再次於全球旗艦機上使用**光學防手震**加強在夜拍上的拍照體驗，前鏡頭則採用了**UltraSelfie**[三星s](https://zh.wikipedia.org/wiki/三星 "wikilink")5k4e6感光元件（像素大小1.34um），並加上光學防手震，為**全球首個於前鏡頭加入光學防手震的手機**，錄影方面為首個可以錄製**高解析音效4K錄影**的手機。
+  - 相機採用了新的**UltraPixel 2**，搭載[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")**IMX377**感光元件（像素大小1.55um）再加上F1.8的大光圈，且再次於全球旗艦機上使用**光學防手震**加強在夜拍上的拍照體驗，前鏡頭則採用了**UltraSelfie**[三星s](https://zh.wikipedia.org/wiki/三星 "wikilink")5k4e6感光元件（像素大小1.34um），並加上光學防手震，為**全球首個於前鏡頭加入光學防手震的手機**，錄影方面為首個可以錄製**高解析音效4K錄影**的手機。
   - 相機獲得當時（2016年3月）[Dxo實驗室手機評比最高分](https://zh.wikipedia.org/wiki/Dxo實驗室 "wikilink")88分。
-  - 本次的雙喇叭從前置改為**一個在聽筒(中-高音)一個在機身下方(低音)**，並支援**Hi-res**且繼續與[杜比實驗室合作搭載](../Page/杜比實驗室.md "wikilink")**杜比環繞音效**。
+  - 本次的雙喇叭從前置改為**一個在聽筒(中-高音)一個在機身下方(低音)**，並支援**Hi-res**且繼續與[杜比實驗室](../Page/杜比實驗室.md "wikilink")合作搭載**杜比環繞音效**。
 
 ## 詳細規格
 
@@ -109,8 +101,8 @@ TDD：38、39、40、41 頻段<br />
 </tr>
 <tr class="even">
 <td><p>ROM</p></td>
-<td><p>32GB/64GB，<a href="../Page/MicroSD.md" title="wikilink">MicroSD™</a> 擴充最高 2TB</p></td>
-<td><p>64GB，<a href="../Page/MicroSD.md" title="wikilink">MicroSD™</a> 擴充最高 2TB</p></td>
+<td><p>32GB/64GB，<a href="../Page/MicroSD.md" title="wikilink">MicroSD</a>™ 擴充最高 2TB</p></td>
+<td><p>64GB，<a href="../Page/MicroSD.md" title="wikilink">MicroSD</a>™ 擴充最高 2TB</p></td>
 </tr>
 <tr class="odd">
 <td><p>尺寸</p></td>
@@ -185,8 +177,7 @@ TDD：38、39、40、41 頻段<br />
 
 ### 外型
 
-HTC
-10採用與M7、M8、M9相同都是弧形機背，但是本次背面加上了四周倒角環繞，HTC稱其設計哲學為「**光雕**」，且切面比較大也做出了比較好的手感，最薄處僅有3mm厚。
+HTC 10採用與M7、M8、M9相同都是弧形機背，但是本次背面加上了四周倒角環繞，HTC稱其設計哲學為「**光雕**」，且切面比較大也做出了比較好的手感，最薄處僅有3mm厚。
 
 金屬機殼做了「**防刮**」以及「**抗腐蝕**」的處理，也做了-20度至60度的168小時耐熱耐冷測試、一萬多次的跌落測試。
 
@@ -196,15 +187,11 @@ HTC
 
 ### 螢幕
 
-本次採用新的「**SLCD 5**」，支援2K解析度並支援「**92%
-NTSC色域**」以及最高500nit的亮度以及電影DCI（Digital
-Cinema
-Initiative）標準調色（另有SRGB色調可選擇），且螢幕的反應速度提高到「**120毫秒的反應時間**」，也延續了A9的2.5D螢幕。
+本次採用新的「**SLCD 5**」，支援2K解析度並支援「**92% NTSC色域**」以及最高500nit的亮度以及電影DCI（Digital Cinema Initiative）標準調色（另有SRGB色調可選擇），且螢幕的反應速度提高到「**120毫秒的反應時間**」，也延續了A9的2.5D螢幕。
 
 ### 相機
 
-HTC新推出了「**UltraPixel
-2**」的相機，有別於上代M9採用2000萬的高畫素，這次10採用的是[SONY的IMX](https://zh.wikipedia.org/wiki/SONY "wikilink")377感光元件，單個畫素達到了1.55um能夠有效地提升感光，並加入了[光學防手震以及](https://zh.wikipedia.org/wiki/光學防手震 "wikilink")「**第二代的雷射對焦**」（與第一代筆的對焦距離變為兩倍），有效的增進了拍照的體驗。在A9、X9加回來的「**Zoe動態拍照**」的功能也有延續，並加入了「**自動HDR**」功能。
+HTC新推出了「**UltraPixel 2**」的相機，有別於上代M9採用2000萬的高畫素，這次10採用的是[SONY的IMX](https://zh.wikipedia.org/wiki/SONY "wikilink")377感光元件，單個畫素達到了1.55um能夠有效地提升感光，並加入了[光學防手震以及](https://zh.wikipedia.org/wiki/光學防手震 "wikilink")「**第二代的雷射對焦**」（與第一代筆的對焦距離變為兩倍），有效的增進了拍照的體驗。在A9、X9加回來的「**Zoe動態拍照**」的功能也有延續，並加入了「**自動HDR**」功能。
 
 錄影方面，除了可以錄製4K高畫質影片外，也是**全球第一台**可以在錄影時「**錄製Hi-Res音訊**」，並加入了三個麥克風來有效進行降躁處理。
 
@@ -216,13 +203,11 @@ HTC新推出了「**UltraPixel
 
 ### 軟體
 
-本次HTC 10搭載的軟體更加簡化，將HTC
-SENSE與Google重複的功能APP移除，以Google的代替，如相簿、音樂等。不過在相機介面進行了優化簡化，方便用戶進行切換。
+本次HTC 10搭載的軟體更加簡化，將HTC SENSE與Google重複的功能APP移除，以Google的代替，如相簿、音樂等。不過在相機介面進行了優化簡化，方便用戶進行切換。
 
 ### 配件
 
-本次搭載了新的保護殼「**Ice View**」，讓用戶不用翻開保護殼就能簡易的進行拍照、看時間、瀏覽通話紀錄等等，相較於Dot
-View的功能更加豐富。
+本次搭載了新的保護殼「**Ice View**」，讓用戶不用翻開保護殼就能簡易的進行拍照、看時間、瀏覽通話紀錄等等，相較於Dot View的功能更加豐富。
 
 ## 零件供應商
 
@@ -247,7 +232,7 @@ View的功能更加豐富。
 
 <!-- end list -->
 
-  - 2016年5月，僅[Verizon](https://zh.wikipedia.org/wiki/Verizon "wikilink")、[Sprint](../Page/Sprint.md "wikilink")、[T-Mobile發售](../Page/T-Mobile.md "wikilink")，本次無美國第二大電信[AT\&T版本](../Page/AT&T.md "wikilink")，但無鎖版可用AT\&T與T-Mobile的網路。
+  - 2016年5月，僅[Verizon](https://zh.wikipedia.org/wiki/Verizon "wikilink")、[Sprint](../Page/Sprint.md "wikilink")、[T-Mobile](../Page/T-Mobile.md "wikilink")發售，本次無美國第二大電信[AT\&T](../Page/AT&T.md "wikilink")版本，但無鎖版可用AT\&T與T-Mobile的網路。
 
 ### 官方新機定價
 
@@ -269,17 +254,12 @@ View的功能更加豐富。
 
 ## 参见
 
-  - [HTC One
-    系列](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")
+  - [HTC One 系列](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")
   - [宏达国际电子手机列表](https://zh.wikipedia.org/wiki/宏达国际电子手机列表 "wikilink")
 
 ## 参考资料
 
-[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:2016年面世的手機](https://zh.wikipedia.org/wiki/Category:2016年面世的手機 "wikilink")
+[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2016年面世的手機](https://zh.wikipedia.org/wiki/Category:2016年面世的手機 "wikilink")
 
 1.
 

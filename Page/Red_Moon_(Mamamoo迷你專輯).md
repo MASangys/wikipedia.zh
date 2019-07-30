@@ -1,30 +1,20 @@
-《**Red
-Moon**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MAMAMOO的第七張韓語迷你專輯](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")，此專輯為「四季系列」的第二季節。由Rainbow
-Bridge
-World企劃製作，透過[LOEN娛樂於](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")2018年7月16日發行，主打曲為《너나
-해 (Egotistic)》。\[1\]7月1日，官方閃電公布先行曲《梅雨（Rainy Season）》，音源表現成績亮眼。\[2\]
+《**Red Moon**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MAMAMOO的第七張韓語迷你專輯](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")，此專輯為「四季系列」的第二季節。由Rainbow Bridge World企劃製作，透過[LOEN娛樂於](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")2018年7月16日發行，主打曲為《너나 해 (Egotistic)》。\[1\]7月1日，官方閃電公布先行曲《梅雨（Rainy Season）》，音源表現成績亮眼。\[2\]
 
 ## 背景
 
-2018年6月，經紀公司宣布Mamamoo預計於2018年7月攜新作回歸歌壇。\[3\]專輯收錄曲《梅雨
-(장마)》先於2018年7月1日線上公開，專輯則於2018年7月16日正式發行，並在Showcase表演Red
-Moon主打歌Egotistic初舞台。
+2018年6月，經紀公司宣布Mamamoo預計於2018年7月攜新作回歸歌壇。\[3\]專輯收錄曲《梅雨 (장마)》先於2018年7月1日線上公開，專輯則於2018年7月16日正式發行，並在Showcase表演Red Moon主打歌Egotistic初舞台。
 
 ## 專輯與歌曲概念
 
-專輯名稱「Red Moon」取自組合成員玟星於四季系列計畫中的代表色紅色，玟星姓氏中的「文」韓文發音像Moon（即月），代表色加上月就是「Red
-Moon」。
+專輯名稱「Red Moon」取自組合成員玟星於四季系列計畫中的代表色紅色，玟星姓氏中的「文」韓文發音像Moon（即月），代表色加上月就是「Red Moon」。
 
-主打歌《Egotistic(너나
-해)》，為結合拉丁及雷鬼的歌曲\[4\]，歌詞內容為向總是與先為對方著想的自己不同，反而總是只考量其本身的戀人提出警告。\[5\]
+主打歌《Egotistic(너나 해)》，為結合拉丁及雷鬼的歌曲\[4\]，歌詞內容為向總是與先為對方著想的自己不同，反而總是只考量其本身的戀人提出警告。\[5\]
 
 ## 曲目
 
 ## 商業成績及反響
 
-專輯發行後，在臺灣、香港、越南、新加坡4個國家或地區的[iTunes專輯排行榜中取得冠軍](https://zh.wikipedia.org/wiki/iTunes "wikilink")，在菲律賓獲得第2、泰國獲得第3、芬蘭獲得第四、印尼獲得第5、柬埔寨獲得第7\[6\]。主打曲《너나
-해 (Egotistic)》在韓國主流音樂榜Bugs、Mnet、Soribada奪冠，在Melon、Genie及Olleh
-Music位居上位圈，成績表現亮眼\[7\]。
+專輯發行後，在臺灣、香港、越南、新加坡4個國家或地區的[iTunes專輯排行榜中取得冠軍](https://zh.wikipedia.org/wiki/iTunes "wikilink")，在菲律賓獲得第2、泰國獲得第3、芬蘭獲得第四、印尼獲得第5、柬埔寨獲得第7\[6\]。主打曲《너나 해 (Egotistic)》在韓國主流音樂榜Bugs、Mnet、Soribada奪冠，在Melon、Genie及Olleh Music位居上位圈，成績表現亮眼\[7\]。
 
 ## 排行榜
 
@@ -204,21 +194,13 @@ Music位居上位圈，成績表現亮眼\[7\]。
   -
 ## 參考文獻
 
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:Mamamoo音樂專輯](https://zh.wikipedia.org/wiki/Category:Mamamoo音樂專輯 "wikilink")
-[Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink")
-[Category:2018年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon數位下載週榜冠軍作品 "wikilink")
+[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:Mamamoo音樂專輯](https://zh.wikipedia.org/wiki/Category:Mamamoo音樂專輯 "wikilink") [Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink") [Category:2018年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon數位下載週榜冠軍作品 "wikilink")
 
-1.  ['16일 컴백' 마마무, 타이틀곡은 '너나 해'…이번에도
-    김도훈과](https://m.entertain.naver.com/read?oid=109&aid=00038193432018)
-2.  [MAMAMOO
-    回歸前突襲　應景新歌〈梅雨〉超好聽！](https://www.koreastardaily.com/tc/news/106993)
-3.  [每個季節都有 MAMAMOO！7
-    月中發行迷你七輯](https://www.koreastardaily.com/tc/news/106819)
-4.  ['D-1' 마마무, 이번엔 레게+정열+걸크러쉬…'너나해' 하이라이트
-    공개](https://m.entertain.naver.com/read?oid=109&aid=0003823707)
-5.  ['16일 컴백' 마마무, 타이틀곡은 '너나 해'…이번에도
-    김도훈과](https://m.entertain.naver.com/read?oid=109&aid=0003819343)
+1.  ['16일 컴백' 마마무, 타이틀곡은 '너나 해'…이번에도 김도훈과](https://m.entertain.naver.com/read?oid=109&aid=00038193432018)
+2.  [MAMAMOO 回歸前突襲　應景新歌〈梅雨〉超好聽！](https://www.koreastardaily.com/tc/news/106993)
+3.  [每個季節都有 MAMAMOO！7 月中發行迷你七輯](https://www.koreastardaily.com/tc/news/106819)
+4.  ['D-1' 마마무, 이번엔 레게+정열+걸크러쉬…'너나해' 하이라이트 공개](https://m.entertain.naver.com/read?oid=109&aid=0003823707)
+5.  ['16일 컴백' 마마무, 타이틀곡은 '너나 해'…이번에도 김도훈과](https://m.entertain.naver.com/read?oid=109&aid=0003819343)
 6.
 7.
 8.

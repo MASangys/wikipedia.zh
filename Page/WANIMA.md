@@ -1,11 +1,11 @@
-**WANIMA**，[日本的三人](../Page/日本.md "wikilink")[摇滚乐队](../Page/摇滚.md "wikilink")，2010年结成。现为[日本华纳音乐旗下艺人](../Page/日本華納音樂.md "wikilink")。
+**WANIMA**，[日本](../Page/日本.md "wikilink")的三人[摇滚](../Page/摇滚.md "wikilink")乐队，2010年结成。现为[日本华纳音乐旗下艺人](../Page/日本華納音樂.md "wikilink")。
 
 ## 成员
 
 **KENTA**（）
 
   -
-    本名松本健太，[熊本县](https://zh.wikipedia.org/wiki/熊本县 "wikilink")[天草市出生](../Page/天草市.md "wikilink")。[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[贝司](../Page/電貝斯.md "wikilink")、作词、作曲。
+    本名松本健太，[熊本县](https://zh.wikipedia.org/wiki/熊本县 "wikilink")[天草市](../Page/天草市.md "wikilink")出生。[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[贝司](../Page/電貝斯.md "wikilink")、作词、作曲。
 
 **KO-SHIN**（）
 
@@ -15,7 +15,7 @@
 **FUJI**（）
 
   -
-    本名藤原弘树，熊本县[熊本市出生](../Page/熊本市.md "wikilink")。[鼓](../Page/爵士鼓.md "wikilink")、和声。
+    本名藤原弘树，熊本县[熊本市](../Page/熊本市.md "wikilink")出生。[鼓](../Page/爵士鼓.md "wikilink")、和声。
 
 ## 经历
 
@@ -24,12 +24,9 @@
   - 2012年12月，与日本的时尚品牌LEFLAH开始合作。
   - 2014年8月，与唱片公司签约。同年多次参与PIZZA OF DEATH RECORDS社长的演唱会。
   - 2014年10月，第一张全国性CD、迷你专辑《Can Not Behaved》发售。同时开展全国巡回演唱会。
-  - 2015年，参与了[ROCK IN JAPAN
-    FESTIVAL](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")、[SUMMER
-    SONIC等多个音乐节的演出](../Page/SUMMER_SONIC.md "wikilink")。
+  - 2015年，参与了[ROCK IN JAPAN FESTIVAL](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")、[SUMMER SONIC等多个音乐节的演出](../Page/SUMMER_SONIC.md "wikilink")。
   - 2015年8月，第一张单曲《Think That...》发售。
-  - 2015年11月，第一张专辑《Are You
-    Coming?》发售。首周获得[ORICON周榜第](../Page/Oricon公信榜.md "wikilink")4位的成绩。
+  - 2015年11月，第一张专辑《Are You Coming?》发售。首周获得[ORICON周榜第](../Page/Oricon公信榜.md "wikilink")4位的成绩。
   - 2016年2月，获得“太空淋浴音乐大奖（）”最优秀新人奖。
   - 2016年3月，专辑《Are You Coming?》获得第八届第二名。
   - 2016年8月，第二张单曲《JUICE UP\!\!》发售。
@@ -37,9 +34,7 @@
   - 2017年6月，影像作品《JUICE UP\!\! TOUR FINAL》发售，获得ORICON周榜DVD冠军。
   - 2017年10月，歌曲《Charm》获得2017年[MTV日本音乐录影带大奖最佳摇滚MV奖](../Page/MTV日本音樂錄影帶大獎.md "wikilink")\[1\]。
   - 2017年11月，参与了[NHK企划](../Page/日本廣播協會.md "wikilink")“”\[2\]，创作歌曲《》（信号）并与1000名18岁青年同台共同歌唱。
-  - 2017年12月，首次参加[朝日电视台](../Page/朝日電視台.md "wikilink")[MUSIC STATION
-    SUPER LIVE
-    2017演唱会](../Page/MUSIC_STATION_SUPER_LIVE.md "wikilink")\[3\]。
+  - 2017年12月，首次参加[朝日电视台](../Page/朝日電視台.md "wikilink")[MUSIC STATION SUPER LIVE 2017演唱会](../Page/MUSIC_STATION_SUPER_LIVE.md "wikilink")\[3\]。
   - 2017年12月，首次参加[第68回NHK紅白歌合戰](../Page/第68回NHK紅白歌合戰.md "wikilink")\[4\]。
   - 2018年1月，第一张主流出道专辑《Everybody\!\!》发售，首周即首次拿下ORICON周榜冠军\[5\]，同时还拿下了数字下载榜冠军。
   - 2018年5月，单曲《Drive》配信，此曲为电影《》主题曲，也是WANIMA首次为电影创作主题曲\[6\]。
@@ -236,15 +231,10 @@ WPCL-12993</p></td>
 ## 外部链接
 
   - [WANIMA官网](http://wanima.net/)
-  - [WANIMA](https://twitter.com/WANIMA_OFFICIAL) (@WANIMA_OFFICIAL)
-    - Twitter
-  - [Pizza of Death
-    Records](https://web.archive.org/web/20151011101611/http://www.pizzaofdeath.com/band/wanima.html)
+  - [WANIMA](https://twitter.com/WANIMA_OFFICIAL) (@WANIMA_OFFICIAL) - Twitter
+  - [Pizza of Death Records](https://web.archive.org/web/20151011101611/http://www.pizzaofdeath.com/band/wanima.html)
 
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:日本男子演唱团体](https://zh.wikipedia.org/wiki/Category:日本男子演唱团体 "wikilink")
-[Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink")
-[Category:熊本縣出身人物](https://zh.wikipedia.org/wiki/Category:熊本縣出身人物 "wikilink")
+[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:日本男子演唱团体](https://zh.wikipedia.org/wiki/Category:日本男子演唱团体 "wikilink") [Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink") [Category:熊本縣出身人物](https://zh.wikipedia.org/wiki/Category:熊本縣出身人物 "wikilink")
 
 1.
 2.

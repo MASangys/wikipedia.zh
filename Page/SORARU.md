@@ -1,7 +1,6 @@
-**SORARU**（そらる，），是[日本男性](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")。出生於[宮城縣](../Page/宮城縣.md "wikilink")。血型[O型](../Page/ABO血型系统.md "wikilink")。身高176公分，體重59\~60公斤。有弟弟、妹妹，是家裡的長子。
+**SORARU**（そらる，），是[日本](../Page/日本.md "wikilink")男性[歌手](../Page/歌手.md "wikilink")。出生於[宮城縣](../Page/宮城縣.md "wikilink")。血型[O型](../Page/ABO血型系统.md "wikilink")。身高176公分，體重59\~60公斤。有弟弟、妹妹，是家裡的長子。
 
-負責音樂組合[After the
-Rain的歌唱兼Mix](../Page/After_the_Rain.md "wikilink")、Mastering。
+負責音樂組合[After the Rain的歌唱兼Mix](../Page/After_the_Rain.md "wikilink")、Mastering。
 
 代表色為藍色。
 
@@ -14,22 +13,20 @@ Rain的歌唱兼Mix](../Page/After_the_Rain.md "wikilink")、Mastering。
 ## 軼事
 
   - 名字的由來是因為喜歡眺望天空。
-  - 比[まふまふ先講出了一起組成團體After](https://zh.wikipedia.org/wiki/まふまふ "wikilink")
-    the Rain的事，因為團體組成的經過不論聽了幾次都讓人感動不已，便成了聽眾間的話題<ref>
+  - 比[まふまふ先講出了一起組成團體After](https://zh.wikipedia.org/wiki/まふまふ "wikilink") the Rain的事，因為團體組成的經過不論聽了幾次都讓人感動不已，便成了聽眾間的話題<ref>
 
-[After the Rain と
-大事な話](http://ameblo.jp/uni-mafumafu/entry-12115234958.html)
-まふまふ公式ブログ 2016年1月8日</ref>。
+[After the Rain と 大事な話](http://ameblo.jp/uni-mafumafu/entry-12115234958.html) まふまふ公式ブログ 2016年1月8日</ref>。
 
   - 偶爾會和[まふまふ](https://zh.wikipedia.org/wiki/まふまふ "wikilink")、[うらたぬき](https://zh.wikipedia.org/wiki/浦田涉 "wikilink")、一起錄製玩遊戲的實況影片，四人合稱為「」。
   - 學空手道8年、柔道3年，皆有拿到黑帶。（2012年6月29日的推特）\[1\]
-  - 因為膚色很白所以很常被叫做
-    "（半片又稱魚餅或魚糕，一種魚漿製品。）"，而繪師[くまお所繪的](https://zh.wikipedia.org/wiki/くまお "wikilink")**そらる**吉祥物"はんぺん"被廣為接受，最後還被商品化\[2\]。
+  - 因為膚色很白所以很常被叫做 "（半片又稱魚餅或魚糕，一種魚漿製品。）"，而繪師[くまお所繪的](https://zh.wikipedia.org/wiki/くまお "wikilink")**そらる**吉祥物"はんぺん"被廣為接受，最後還被商品化\[2\]。
   - 於2017/11/03生日當天同時推特追隨數破百萬
+
+＊本人是個帥哥
 
 ## 音樂作品
 
-最高排名以[Oricon公信榜為評判標準](../Page/Oricon公信榜.md "wikilink")\[3\]。
+最高排名以[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")為評判標準\[3\]。
 
 ### 單曲
 
@@ -486,8 +483,7 @@ Rain的歌唱兼Mix](../Page/After_the_Rain.md "wikilink")、Mastering。
   - 2.5 Song MATE 2011年9月号（2011年8月16日、フールズメイト）
   - 歌ってみたの本の4冊目を作ってみた（2011年9月30日、ENTERBRAIN）ISBN 978-4047276086
   - 歌ってみたの本の7冊目を作ってみた（2012年6月2日、ENTERBRAIN）ISBN 978-4047281707
-  - 歌ってみたの本 別冊 exit tunes magazine（2012年10月1日、ENTERBRAIN）ISBN
-    978-4047284425
+  - 歌ってみたの本 別冊 exit tunes magazine（2012年10月1日、ENTERBRAIN）ISBN 978-4047284425
   - 歌ってみたの本 January 2014（2013年11月30日、KADOKAWA）ISBN 978-4047293762
   - 歌ってみたの本 July 2014（2014年5月31日、KADOKAWA）ISBN 978-4047297593
   - 2.5 Song MATE 2015年4月号（2015年2月20日、フールズメイト）
@@ -499,28 +495,21 @@ Rain的歌唱兼Mix](../Page/After_the_Rain.md "wikilink")、Mastering。
 ## 参考文献
 
   - [そらる Official Website](http://soraruru.jp)
-  - [After the Rain(そらる×まふまふ) NBCUniversal OFFICIAL
-    SITE](http://nbcuni-music.com/aftertherain/)
+  - [After the Rain(そらる×まふまふ) NBCUniversal OFFICIAL SITE](http://nbcuni-music.com/aftertherain/)
 
 ## 外部連結
 
-  - [そらる](http://lineblog.me/soraru/) -
-    [LINE](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink") BLOG
+  - [そらる](http://lineblog.me/soraru/) - [LINE](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink") BLOG
 
   - [そらあい](http://ameblo.jp/soraruraso/) - Ameba Blog
 
   -
-  - [うたったの](http://www.nicovideo.jp/mylist/7359936) -
-    [niconico動畫](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")
+  - [うたったの](http://www.nicovideo.jp/mylist/7359936) - [niconico動畫](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")
 
   -
-[Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink")
-[Category:宮城縣出身人物](https://zh.wikipedia.org/wiki/Category:宮城縣出身人物 "wikilink")
-[Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")
-[Category:同人歌手](https://zh.wikipedia.org/wiki/Category:同人歌手 "wikilink")
+[Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink") [Category:宮城縣出身人物](https://zh.wikipedia.org/wiki/Category:宮城縣出身人物 "wikilink") [Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink") [Category:同人歌手](https://zh.wikipedia.org/wiki/Category:同人歌手 "wikilink")
 
-1.  [部活について](http://lineblog.me/soraru/archives/22352878.html)そらる公式ブログ
-    2011年11月22日
+1.  [部活について](http://lineblog.me/soraru/archives/22352878.html)そらる公式ブログ 2011年11月22日
 2.  [【そらる】ついに、はんぺんグッズ発売！！](http://vvstore.jp/feature/detail/9077/)
 3.  [そらる的銷售排行榜](http://www.oricon.co.jp/prof/541903/rank/)
 4.  [Album『そらあい』特設網站](http://soraru.jp/)

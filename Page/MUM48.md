@@ -1,4 +1,4 @@
-**MUM48**為曾預定以[印度](../Page/印度.md "wikilink")[孟買為活動據點的女子偶像團體](https://zh.wikipedia.org/wiki/孟買 "wikilink")，同時也是[日本偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48的海外姐妹團](../Page/AKB48.md "wikilink")。徵選活動於2018年年中舉行\[1\]，但组合最终未能成立，取而代之的则是[MUB48](../Page/MUB48.md "wikilink")。
+**MUM48**為曾預定以[印度](../Page/印度.md "wikilink")[孟買為活動據點的女子偶像團體](https://zh.wikipedia.org/wiki/孟買 "wikilink")，同時也是[日本偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")的海外姐妹團。徵選活動於2018年年中舉行\[1\]，但组合最终未能成立，取而代之的则是[MUB48](../Page/MUB48.md "wikilink")。
 
 ## 簡介
 
@@ -25,10 +25,7 @@
   -
   -
   -
-[Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink")
-[Category:印度女子演唱團體](https://zh.wikipedia.org/wiki/Category:印度女子演唱團體 "wikilink")
-[Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink")
-[Category:孟買](https://zh.wikipedia.org/wiki/Category:孟買 "wikilink")
+[Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink") [Category:印度女子演唱團體](https://zh.wikipedia.org/wiki/Category:印度女子演唱團體 "wikilink") [Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink") [Category:孟買](https://zh.wikipedia.org/wiki/Category:孟買 "wikilink")
 
 1.
 2.

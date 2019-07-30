@@ -1,4 +1,4 @@
-《**D-Day**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC自](../Page/JTBC.md "wikilink")2015年9月18日起播出的[金土迷你連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[幸福百分百](../Page/幸福百分百.md "wikilink")》、《[如果明日来临](https://zh.wikipedia.org/wiki/如果明日来临 "wikilink")》[張容佑導演與](https://zh.wikipedia.org/wiki/張容佑 "wikilink")《[城市獵人](../Page/城市獵人_\(韓國電視劇\).md "wikilink")》、《[海雲臺戀人們](../Page/海雲臺戀人們.md "wikilink")》[黄恩京編劇攜手合作](https://zh.wikipedia.org/wiki/黄恩京 "wikilink")。講述首爾發生自然災害，導致城市陷入癱瘓，為了解救受傷的市民而犧牲貢獻的救生員和急診室醫生的故事。\[1\]本劇為韓國首部災難醫療電視劇。
+《**D-Day**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")自2015年9月18日起播出的[金土迷你連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[幸福百分百](../Page/幸福百分百.md "wikilink")》、《[如果明日来临](https://zh.wikipedia.org/wiki/如果明日来临 "wikilink")》[張容佑導演與](https://zh.wikipedia.org/wiki/張容佑 "wikilink")《[城市獵人](../Page/城市獵人_\(韓國電視劇\).md "wikilink")》、《[海雲臺戀人們](../Page/海雲臺戀人們.md "wikilink")》[黄恩京編劇攜手合作](https://zh.wikipedia.org/wiki/黄恩京 "wikilink")。講述首爾發生自然災害，導致城市陷入癱瘓，為了解救受傷的市民而犧牲貢獻的救生員和急診室醫生的故事。\[1\]本劇為韓國首部災難醫療電視劇。
 
 ## 演員陣容
 
@@ -309,8 +309,8 @@
 
 ## 其他
 
-  - 本劇為[金英光與](../Page/金英光.md "wikilink")[庭沼珉繼](../Page/庭沼珉.md "wikilink")《[我們能結婚嗎](../Page/我們能結婚嗎.md "wikilink")》第二度合作。
-  - [李璟榮與](../Page/李璟榮.md "wikilink")[車仁杓繼](../Page/車仁杓.md "wikilink")2000年火熱韓劇《[火花](../Page/火花_\(電視劇\).md "wikilink")》及美國2015年人氣影集《[超感獵殺](https://zh.wikipedia.org/wiki/超感獵殺 "wikilink")》後第三度合作。
+  - 本劇為[金英光](../Page/金英光.md "wikilink")與[庭沼珉](../Page/庭沼珉.md "wikilink")繼《[我們能結婚嗎](../Page/我們能結婚嗎.md "wikilink")》第二度合作。
+  - [李璟榮](../Page/李璟榮.md "wikilink")與[車仁杓](../Page/車仁杓.md "wikilink")繼2000年火熱韓劇《[火花](../Page/火花_\(電視劇\).md "wikilink")》及美國2015年人氣影集《[超感獵殺](https://zh.wikipedia.org/wiki/超感獵殺 "wikilink")》後第三度合作。
 
 ## 腳註
 
@@ -318,19 +318,8 @@
 
   - [韓國JTBC官方網站](http://drama.jtbc.joins.com/dday/)
 
-[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink")
-[Category:首爾特別市背景電視劇](https://zh.wikipedia.org/wiki/Category:首爾特別市背景電視劇 "wikilink")
-[Category:人命救助題材作品](https://zh.wikipedia.org/wiki/Category:人命救助題材作品 "wikilink")
-[Category:醫院背景作品](https://zh.wikipedia.org/wiki/Category:醫院背景作品 "wikilink")
-[Category:韓國災難片](https://zh.wikipedia.org/wiki/Category:韓國災難片 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
-[Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
-[Category:消防題材電視劇](https://zh.wikipedia.org/wiki/Category:消防題材電視劇 "wikilink")
+[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:首爾特別市背景電視劇](https://zh.wikipedia.org/wiki/Category:首爾特別市背景電視劇 "wikilink") [Category:人命救助題材作品](https://zh.wikipedia.org/wiki/Category:人命救助題材作品 "wikilink") [Category:醫院背景作品](https://zh.wikipedia.org/wiki/Category:醫院背景作品 "wikilink") [Category:韓國災難片](https://zh.wikipedia.org/wiki/Category:韓國災難片 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink") [Category:消防題材電視劇](https://zh.wikipedia.org/wiki/Category:消防題材電視劇 "wikilink")
 
-1.  [SM娛樂投資JTBC新劇《D-DAY》74億韓元](http://cn.ajunews.com/view/20150618092150383)
-    亞洲中國 2015-06-18
-2.  [AGB 닐슨 미디어리서치 디 데이
-    시청률](http://search.daum.net/search?nil_suggest=btn&w=tot&DA=SBC&q=%EB%94%94+%EB%8D%B0%EC%9D%B4+%EC%8B%9C%EC%B2%AD%EB%A5%A0)
-3.  [NAVER 디
-    데이](http://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&ie=utf8&query=%EB%94%94+%EB%8D%B0%EC%9D%B4)
+1.  [SM娛樂投資JTBC新劇《D-DAY》74億韓元](http://cn.ajunews.com/view/20150618092150383) 亞洲中國 2015-06-18
+2.  [AGB 닐슨 미디어리서치 디 데이 시청률](http://search.daum.net/search?nil_suggest=btn&w=tot&DA=SBC&q=%EB%94%94+%EB%8D%B0%EC%9D%B4+%EC%8B%9C%EC%B2%AD%EB%A5%A0)
+3.  [NAVER 디 데이](http://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&ie=utf8&query=%EB%94%94+%EB%8D%B0%EC%9D%B4)

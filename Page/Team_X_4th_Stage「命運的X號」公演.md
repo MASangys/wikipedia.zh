@@ -1,11 +1,8 @@
-*' Team X 4th
-Stage「命運的X號」公演*'是[SNH48的剧场公演](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，此套公演同時也是SNH48
-Team X的第二场原創公演\[1\]。
+*' Team X 4th Stage「命運的X號」公演*'是[SNH48的剧场公演](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，此套公演同時也是SNH48 Team X的第二场原創公演\[1\]。
 
 ## 概要
 
-《命运的X号》是SNH48 Team X的第二场原創公演。整场公演将围绕具有神秘色彩的冒险故事而展开，SNH48音乐团队为SNH48 Team
-X成员们量身打造了不同风格的公演曲目，从摇滚、抒情到电音舞曲，多样的音乐风格将在《命运的X号》中呈现。
+《命运的X号》是SNH48 Team X的第二场原創公演。整场公演将围绕具有神秘色彩的冒险故事而展开，SNH48音乐团队为SNH48 Team X成员们量身打造了不同风格的公演曲目，从摇滚、抒情到电音舞曲，多样的音乐风格将在《命运的X号》中呈现。
 
 ## 公演曲目
 
@@ -106,9 +103,6 @@ X成员们量身打造了不同风格的公演曲目，从摇滚、抒情到电�
 
 [Category:SNH48_Group剧场公演](https://zh.wikipedia.org/wiki/Category:SNH48_Group剧场公演 "wikilink")
 
-1.  [SNH48 TEAM
-    X原创公演《命运的“X”号》12月15日首秀即将开票](http://www.snh48.com/html/allnews/zixun/2017/1129/2726.html)
-2.  [SNH48 TEAM X《命运的"X"号》宣传片发布
-    开启神秘冒险之旅](http://www.snh48.com/html/allnews/zixun/2017/1130/2729.html)
-3.  [SNH48 TEAM X全新公演《命运的“X”号》首秀
-    大冒险家扬帆起航](http://www.snh48.com/html/allnews/zixun/2017/1216/2770.html)
+1.  [SNH48 TEAM X原创公演《命运的“X”号》12月15日首秀即将开票](http://www.snh48.com/html/allnews/zixun/2017/1129/2726.html)
+2.  [SNH48 TEAM X《命运的"X"号》宣传片发布 开启神秘冒险之旅](http://www.snh48.com/html/allnews/zixun/2017/1130/2729.html)
+3.  [SNH48 TEAM X全新公演《命运的“X”号》首秀 大冒险家扬帆起航](http://www.snh48.com/html/allnews/zixun/2017/1216/2770.html)

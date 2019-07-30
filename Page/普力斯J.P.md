@@ -1,5 +1,4 @@
-**普力斯**（James Arthur
-Presley，），為前[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[職棒](https://zh.wikipedia.org/wiki/職棒 "wikilink")[選手](https://zh.wikipedia.org/wiki/選手 "wikilink")，於1979年選秀由[西雅圖水手於第四輪第](../Page/西雅圖水手.md "wikilink")97順位選中，2018年起來台發展，目前效力於[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[中信兄弟打擊教練](https://zh.wikipedia.org/wiki/中信兄弟 "wikilink")\[1\]。
+**普力斯**（James Arthur Presley，），為前[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[職棒](https://zh.wikipedia.org/wiki/職棒 "wikilink")[選手](https://zh.wikipedia.org/wiki/選手 "wikilink")，於1979年選秀由[西雅圖水手](../Page/西雅圖水手.md "wikilink")於第四輪第97順位選中，2018年起來台發展，目前效力於[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[中信兄弟打擊教練](https://zh.wikipedia.org/wiki/中信兄弟 "wikilink")\[1\]。
 
 ## 經歷
 
@@ -13,17 +12,13 @@ Presley，），為前[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[
 
 ### 教練時期
 
-  - [美國職棒](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")[亞利桑那響尾蛇小聯盟Lethbridge](../Page/亞利桑那響尾蛇.md "wikilink")
-    Black Diamonds打擊教練（1996年）
-  - [美國職棒](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")[亞利桑那響尾蛇小聯盟South](../Page/亞利桑那響尾蛇.md "wikilink")
-    Bend Silver Hawks打擊教練（1997年）
-  - [美國職棒](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")[亞利桑那響尾蛇打擊教練](../Page/亞利桑那響尾蛇.md "wikilink")（1998年-2000年）
-  - [美國職棒](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")[亞利桑那響尾蛇小聯盟Missoula](../Page/亞利桑那響尾蛇.md "wikilink")
-    Osprey總教練（2004年-2005年）
+  - [美國職棒](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")[亞利桑那響尾蛇](../Page/亞利桑那響尾蛇.md "wikilink")小聯盟Lethbridge Black Diamonds打擊教練（1996年）
+  - [美國職棒](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")[亞利桑那響尾蛇](../Page/亞利桑那響尾蛇.md "wikilink")小聯盟South Bend Silver Hawks打擊教練（1997年）
+  - [美國職棒](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")[亞利桑那響尾蛇](../Page/亞利桑那響尾蛇.md "wikilink")打擊教練（1998年-2000年）
+  - [美國職棒](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")[亞利桑那響尾蛇](../Page/亞利桑那響尾蛇.md "wikilink")小聯盟Missoula Osprey總教練（2004年-2005年）
   - [美國職棒](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")[佛羅里達馬林魚打擊教練](https://zh.wikipedia.org/wiki/佛羅里達馬林魚 "wikilink")（2006年-2010年）
   - [美國職棒](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")[巴爾的摩金鶯打擊教練](https://zh.wikipedia.org/wiki/巴爾的摩金鶯 "wikilink")（2011年-2014年）
-  - [美國職棒](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")[德州遊騎兵小聯盟Round](../Page/德克薩斯遊騎兵_\(棒球\).md "wikilink")
-    Rock Express打擊教練（2016年–2017年）
+  - [美國職棒](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")[德州遊騎兵小聯盟Round](../Page/德克薩斯遊騎兵_\(棒球\).md "wikilink") Rock Express打擊教練（2016年–2017年）
   - [中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[中信兄弟打擊教練](https://zh.wikipedia.org/wiki/中信兄弟 "wikilink")（2018年2月–9月18日）
 
 ## 職棒生涯紀錄
@@ -48,12 +43,6 @@ Presley，），為前[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[
 
 ## 外部連結
 
-[Category:美國棒球選手](https://zh.wikipedia.org/wiki/Category:美國棒球選手 "wikilink")
-[Category:西雅圖水手隊球員](https://zh.wikipedia.org/wiki/Category:西雅圖水手隊球員 "wikilink")
-[Category:亞特蘭大勇士隊球員](https://zh.wikipedia.org/wiki/Category:亞特蘭大勇士隊球員 "wikilink")
-[Category:德州遊騎兵隊球員](https://zh.wikipedia.org/wiki/Category:德州遊騎兵隊球員 "wikilink")
-[Category:聖地牙哥教士隊球員](https://zh.wikipedia.org/wiki/Category:聖地牙哥教士隊球員 "wikilink")
-[Category:佛羅里達州人](https://zh.wikipedia.org/wiki/Category:佛羅里達州人 "wikilink")
+[Category:美國棒球選手](https://zh.wikipedia.org/wiki/Category:美國棒球選手 "wikilink") [Category:西雅圖水手隊球員](https://zh.wikipedia.org/wiki/Category:西雅圖水手隊球員 "wikilink") [Category:亞特蘭大勇士隊球員](https://zh.wikipedia.org/wiki/Category:亞特蘭大勇士隊球員 "wikilink") [Category:德州遊騎兵隊球員](https://zh.wikipedia.org/wiki/Category:德州遊騎兵隊球員 "wikilink") [Category:聖地牙哥教士隊球員](https://zh.wikipedia.org/wiki/Category:聖地牙哥教士隊球員 "wikilink") [Category:佛羅里達州人](https://zh.wikipedia.org/wiki/Category:佛羅里達州人 "wikilink")
 
-1.  [中職》兄弟挖超狂打擊教練
-    球迷驚呼：開外掛了！](http://sports.ltn.com.tw/news/breakingnews/2310836)
+1.  [中職》兄弟挖超狂打擊教練 球迷驚呼：開外掛了！](http://sports.ltn.com.tw/news/breakingnews/2310836)

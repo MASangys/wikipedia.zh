@@ -1,6 +1,6 @@
 **棋類符號**是一個位於[第一輔助平面的](https://zh.wikipedia.org/wiki/Unicode字符平面映射#第一輔助平面 "wikilink")[Unicode區段](../Page/Unicode區段.md "wikilink")，收錄世界各地棋類的記號，但不包括已經收錄在[雜項符號內的](https://zh.wikipedia.org/wiki/雜項符號 "wikilink")[西洋棋符號](https://zh.wikipedia.org/wiki/西洋棋 "wikilink")。\[1\]
 
-截至2018年6月發布的Unicode 11.0，這個區段僅收錄了[象棋中十四個符號](../Page/象棋.md "wikilink")。
+截至2018年6月發布的Unicode 11.0，這個區段僅收錄了[象棋](../Page/象棋.md "wikilink")中十四個符號。
 
 ## 區段
 

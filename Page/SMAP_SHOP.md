@@ -1,4 +1,4 @@
-**SMAP SHOP**是一间不定期开放的限时销售[SMAP相关产品的商店](../Page/SMAP.md "wikilink")。
+**SMAP SHOP**是一间不定期开放的限时销售[SMAP](../Page/SMAP.md "wikilink")相关产品的商店。
 
 ## 曾开放时间及地点
 
@@ -39,11 +39,8 @@
 
 ## 外部链接
 
-  - [HAPPY HAPPY
-    SMAP](https://web.archive.org/web/20100323221613/http://www.smap-newsingle.com/s_hhs.html)
-  - [MERRY HAPPY
-    SMAP](https://web.archive.org/web/20151202053025/http://www.j-dream-j.co.jp/news081216.html)
-  - [RUNNING
-    SMAP\!](https://web.archive.org/web/20170404220247/http://www.johnnys-net.jp/j/artists/smap/smapshop2011.html)
+  - [HAPPY HAPPY SMAP](https://web.archive.org/web/20100323221613/http://www.smap-newsingle.com/s_hhs.html)
+  - [MERRY HAPPY SMAP](https://web.archive.org/web/20151202053025/http://www.j-dream-j.co.jp/news081216.html)
+  - [RUNNING SMAP\!](https://web.archive.org/web/20170404220247/http://www.johnnys-net.jp/j/artists/smap/smapshop2011.html)
 
 [Category:SMAP](https://zh.wikipedia.org/wiki/Category:SMAP "wikilink")

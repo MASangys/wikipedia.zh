@@ -1,9 +1,6 @@
-\-- 本模組將一般字母和數字聲調轉換為台語白話字。 -- 範例："Peh8-oe7-ji7"會被轉換為"Pe̍h-ōe-jī"。 --
-請透過來使用本模組的功能。
+\-- 本模組將一般字母和數字聲調轉換為台語白話字。 -- 範例："Peh8-oe7-ji7"會被轉換為"Pe̍h-ōe-jī"。 -- 請透過來使用本模組的功能。
 
-\-- Pún bô͘-cho͘ kā it-poaⁿ Lô-má-jī kap sò͘-jī pian-e̍k chò Tâi-oân-ōe
-Pe̍h-ōe-jī. -- Lē: Peh8-oe7-ji7--\> Pe̍h-ōe-jī -- Chhiáⁿ sú-iōng  lâi
-kek-oa̍h chia ê kong-lêng.
+\-- Pún bô͘-cho͘ kā it-poaⁿ Lô-má-jī kap sò͘-jī pian-e̍k chò Tâi-oân-ōe Pe̍h-ōe-jī. -- Lē: Peh8-oe7-ji7--\> Pe̍h-ōe-jī -- Chhiáⁿ sú-iōng  lâi kek-oa̍h chia ê kong-lêng.
 
 local p = {}
 
@@ -110,8 +107,7 @@ function attachTone(a, n)
 
 end
 
-\-- 以下依照字母附加調號的優先序排列，更動排列會導致輸出不同。 -- 順序：oa_, oe_, o, e, a, u, i, ng,
-m. function selectVowel(rplce, n)
+\-- 以下依照字母附加調號的優先序排列，更動排列會導致輸出不同。 -- 順序：oa_, oe_, o, e, a, u, i, ng, m. function selectVowel(rplce, n)
 
 `   if not rplce then return end`
 `   -- oa_`

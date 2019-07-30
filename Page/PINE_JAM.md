@@ -1,5 +1,4 @@
-**株式會社PINE
-JAM**（）是[日本的](../Page/日本.md "wikilink")[動畫製作公司](../Page/日本动画.md "wikilink")，設立於2015年7月3日\[1\]。
+**株式會社PINE JAM**（）是[日本](../Page/日本.md "wikilink")的[動畫製作公司](../Page/日本动画.md "wikilink")，設立於2015年7月3日\[1\]。
 
 ## 作品列表
 
@@ -60,9 +59,7 @@ JAM**（）是[日本的](../Page/日本.md "wikilink")[動畫製作公司](../P
 ## 外部連結
 
   -
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
-[Category:2015年成立的公司](https://zh.wikipedia.org/wiki/Category:2015年成立的公司 "wikilink")
+[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink") [Category:2015年成立的公司](https://zh.wikipedia.org/wiki/Category:2015年成立的公司 "wikilink")
 
 1.
 2.

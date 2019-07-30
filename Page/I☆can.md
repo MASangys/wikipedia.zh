@@ -1,6 +1,4 @@
-是日本LiLiM在2009年8月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，電腦CLUB（電脳CLUB）在2011年1月27日發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]\[4\]2015年4月24發售的合集《LiLiM
-Premium BOX
--美龍昇天-》收錄短篇故事。\[5\]2010年PoRO開始發售[OVA版](https://zh.wikipedia.org/wiki/OVA "wikilink")。\[6\]
+是日本LiLiM在2009年8月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，電腦CLUB（電脳CLUB）在2011年1月27日發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]\[4\]2015年4月24發售的合集《LiLiM Premium BOX -美龍昇天-》收錄短篇故事。\[5\]2010年PoRO開始發售[OVA版](https://zh.wikipedia.org/wiki/OVA "wikilink")。\[6\]
 
 ## 故事
 
@@ -28,7 +26,7 @@ Premium BOX
   - 南野智美（聲優：西野亜梨子）
     演藝事務所「TFA芸能プロダクション」的社長兼經紀人，丈夫在12年前過世了。
   - 寺田幸二（聲優：胸肩腎）
-    電視台的製作人，一直都有[陪睡的傳聞](../Page/陪睡.md "wikilink")。
+    電視台的製作人，一直都有[陪睡](../Page/陪睡.md "wikilink")的傳聞。
   - 根岸甚蔵（聲優：[ルネッサンス山田](https://zh.wikipedia.org/wiki/ルネッサンス山田 "wikilink")）
     演藝記者。
   - 山下悠斗（聲優：ルネッサンス山田）
@@ -76,14 +74,7 @@ Premium BOX
 
   - [LiLiM](http://s-digi.jp/lilim/)
 
-[Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
-[Category:2010年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2010年日本成人動畫 "wikilink")
-[Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink")
-[Category:魔法少女題材遊戲](https://zh.wikipedia.org/wiki/Category:魔法少女題材遊戲 "wikilink")
+[Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:2010年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2010年日本成人動畫 "wikilink") [Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink") [Category:魔法少女題材遊戲](https://zh.wikipedia.org/wiki/Category:魔法少女題材遊戲 "wikilink")
 
 1.
 2.

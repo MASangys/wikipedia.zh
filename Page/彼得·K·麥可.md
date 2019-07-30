@@ -6,9 +6,6 @@
 
   - [懷俄明州檢察長官方網站](http://ag.wyo.gov/)
 
-[Category:美國共和黨黨員](https://zh.wikipedia.org/wiki/Category:美國共和黨黨員 "wikilink")
-[Category:耶魯大學校友](https://zh.wikipedia.org/wiki/Category:耶魯大學校友 "wikilink")
-[Category:賓夕法尼亞州人](https://zh.wikipedia.org/wiki/Category:賓夕法尼亞州人 "wikilink")
-[Category:美國檢察官](https://zh.wikipedia.org/wiki/Category:美國檢察官 "wikilink")
+[Category:美國共和黨黨員](https://zh.wikipedia.org/wiki/Category:美國共和黨黨員 "wikilink") [Category:耶魯大學校友](https://zh.wikipedia.org/wiki/Category:耶魯大學校友 "wikilink") [Category:賓夕法尼亞州人](https://zh.wikipedia.org/wiki/Category:賓夕法尼亞州人 "wikilink") [Category:美國檢察官](https://zh.wikipedia.org/wiki/Category:美國檢察官 "wikilink")
 
 1.

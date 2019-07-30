@@ -1,39 +1,22 @@
-**Jessi**（，），本名**胡贤珠**（），[美籍](../Page/美国.md "wikilink")[韩裔女](../Page/朝鲜族.md "wikilink")[歌手及](../Page/歌手.md "wikilink")[饶舌歌手](../Page/饒舌.md "wikilink")，出生于[纽约并成长在](../Page/纽约.md "wikilink")[新泽西](../Page/新泽西州.md "wikilink")，15岁的时候回到[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")，\[1\]出道初期曾以艺名**Jessica
-H.O**活动。
+**Jessi**（，），本名**胡贤珠**（），[美籍](../Page/美国.md "wikilink")[韩裔女](../Page/朝鲜族.md "wikilink")[歌手](../Page/歌手.md "wikilink")及[饶舌歌手](../Page/饒舌.md "wikilink")，出生于[纽约](../Page/纽约.md "wikilink")并成长在[新泽西](../Page/新泽西州.md "wikilink")，15岁的时候回到[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")，\[1\]出道初期曾以艺名**Jessica H.O**活动。
 
 ## 生涯
 
-2003年，Jessi参加并通过了Doremi媒体的面试，15岁时搬回了韩国。\[2\]2005年推出了她的首张专辑《Get
-Up》，并于[KBS的音乐节目](../Page/韓國放送公社.md "wikilink")《[音乐银行](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》进行表演。2006年，她出现在嘻哈音乐团体推出的专辑《Testimony》中，取代了原来的歌手[尹未來](../Page/尹未來.md "wikilink")。\[3\]她的第二张个人歌曲《The
-Rebirth》于2009年1月公开。在发行了这张单曲后，她暂时离开了音乐界并从韩国重返回了美国。\[4\]
+2003年，Jessi参加并通过了Doremi媒体的面试，15岁时搬回了韩国。\[2\]2005年推出了她的首张专辑《Get Up》，并于[KBS的音乐节目](../Page/韓國放送公社.md "wikilink")《[音乐银行](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》进行表演。2006年，她出现在嘻哈音乐团体推出的专辑《Testimony》中，取代了原来的歌手[尹未來](../Page/尹未來.md "wikilink")。\[3\]她的第二张个人歌曲《The Rebirth》于2009年1月公开。在发行了这张单曲后，她暂时离开了音乐界并从韩国重返回了美国。\[4\]
 
-2014年，经过了5年的中断活动期，Jessi与饶舌歌手及主唱J-Yo组成嘻哈三人组重新回归音乐界。\[5\]同年7月，所属的经纪公司[YMC推出Lucky](../Page/Imagine_Asia.md "wikilink")
-J的首张数字单曲《听到了吗》，\[6\]并在一个月后首次亮相于KBS的音乐节目《[不朽的名曲2](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》中。12月31日，Jessi在《[MBC歌谣大祭典](https://zh.wikipedia.org/wiki/MBC歌谣大祭典 "wikilink")》中与[Ailee和](../Page/李艺真.md "wikilink")[SISTAR成员](../Page/SISTAR.md "wikilink")[孝琳合作](../Page/孝琳.md "wikilink")，三人同台表演了当时的热门歌曲《[Bang
-Bang](https://zh.wikipedia.org/wiki/砰砰 "wikilink")》。\[7\]
+2014年，经过了5年的中断活动期，Jessi与饶舌歌手及主唱J-Yo组成嘻哈三人组重新回归音乐界。\[5\]同年7月，所属的经纪公司[YMC推出Lucky](../Page/Imagine_Asia.md "wikilink") J的首张数字单曲《听到了吗》，\[6\]并在一个月后首次亮相于KBS的音乐节目《[不朽的名曲2](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》中。12月31日，Jessi在《[MBC歌谣大祭典](https://zh.wikipedia.org/wiki/MBC歌谣大祭典 "wikilink")》中与[Ailee和](../Page/李艺真.md "wikilink")[SISTAR](../Page/SISTAR.md "wikilink")成员[孝琳](../Page/孝琳.md "wikilink")合作，三人同台表演了当时的热门歌曲《[Bang Bang](https://zh.wikipedia.org/wiki/砰砰 "wikilink")》。\[7\]
 
-2015年1月至3月，Jessi出演了《[Show Me The
-Money](../Page/Show_Me_The_Money.md "wikilink")》的衍生节目《[Unpretty
-Rapstar](../Page/Unpretty_Rapstar.md "wikilink")》第一季。\[8\]《Unpretty
-Rapstar》是一部女饶舌歌手生存节目，参赛者们互相竞争以获得不同制作人为其制作的音源的演唱机会，并最终将所有音源汇总为专辑。Jessi最终由观众投票获得了节目的亚军。\[9\]在出演《Unpretty
-Rapstar》后，于2015年4月在[JYP的数字单曲](../Page/朴軫永.md "wikilink")《妈妈是谁》中参与了饶舌部分的配唱，并同时出演了歌曲的MV。\[10\]歌曲一经发布就迅速霸占了韩国九大音源网站实时排行榜的榜首之位。\[11\]2015年，Jessi作为嘉宾出现在包括《[Running
-Man](../Page/Running_Man.md "wikilink")》\[12\]、《[Happy
-Together](../Page/歡樂在一起.md "wikilink")》等各种受欢迎的综艺节目中。9月15日，推出了她的首张饶舌单曲《强势姐姐》。\[13\]10月16日，Jessi于美国[洛杉矶的贝拉斯科剧院举行了首场公演](../Page/洛杉矶.md "wikilink")，公演随着与嘻哈二人组[MIGHTY
-MOUTH的共同表演而拉开序幕](../Page/MIGHTY_MOUTH.md "wikilink")。\[14\]在《[Unpretty
-Rapstar
-2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")》中，Jessi与第一季的冠军[Cheetah在](../Page/Cheetah.md "wikilink")的音源任务中作为导师出演。\[15\]2015年12月，Jessi在《[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")》的舞台表演了饶舌歌曲《强势姐姐》。\[16\]
+2015年1月至3月，Jessi出演了《[Show Me The Money](../Page/Show_Me_The_Money.md "wikilink")》的衍生节目《[Unpretty Rapstar](../Page/Unpretty_Rapstar.md "wikilink")》第一季。\[8\]《Unpretty Rapstar》是一部女饶舌歌手生存节目，参赛者们互相竞争以获得不同制作人为其制作的音源的演唱机会，并最终将所有音源汇总为专辑。Jessi最终由观众投票获得了节目的亚军。\[9\]在出演《Unpretty Rapstar》后，于2015年4月在[JYP的数字单曲](../Page/朴軫永.md "wikilink")《妈妈是谁》中参与了饶舌部分的配唱，并同时出演了歌曲的MV。\[10\]歌曲一经发布就迅速霸占了韩国九大音源网站实时排行榜的榜首之位。\[11\]2015年，Jessi作为嘉宾出现在包括《[Running Man](../Page/Running_Man.md "wikilink")》\[12\]、《[Happy Together](../Page/歡樂在一起.md "wikilink")》等各种受欢迎的综艺节目中。9月15日，推出了她的首张饶舌单曲《强势姐姐》。\[13\]10月16日，Jessi于美国[洛杉矶](../Page/洛杉矶.md "wikilink")的贝拉斯科剧院举行了首场公演，公演随着与嘻哈二人组[MIGHTY MOUTH的共同表演而拉开序幕](../Page/MIGHTY_MOUTH.md "wikilink")。\[14\]在《[Unpretty Rapstar 2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")》中，Jessi与第一季的冠军[Cheetah](../Page/Cheetah.md "wikilink")在的音源任务中作为导师出演。\[15\]2015年12月，Jessi在《[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")》的舞台表演了饶舌歌曲《强势姐姐》。\[16\]
 
-2016年，Jessi作为固定成员出演了KBS的综艺节目《[姐姐們的Slam
-Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink")》第一季。\[17\]
+2016年，Jessi作为固定成员出演了KBS的综艺节目《[姐姐們的Slam Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink")》第一季。\[17\]
 
 ## 个人生活
 
-Jessi曾与[少女时代的成员](../Page/少女时代.md "wikilink")[Tiffany及前成员](../Page/Tiffany_\(少女時代\).md "wikilink")[Jessica一同在韩国肯特外国语学校上学](../Page/Jessica_\(韓國歌手\).md "wikilink")。[天上智喜的前成员现为独唱歌手的](../Page/天上智喜.md "wikilink")也一同在此学校上学。Jessi成功通过了[SM娛樂的面试](../Page/SM娛樂.md "wikilink")，她的三个同学也都通过了面试并进入到了此公司。然而她最终没有进入SM公司，因为她认为其对于音乐的方法并不符合她的风格。\[18\]Jessi曾暂时中断了她的音乐事业，并为了习惯韩国的文化而努力。\[19\]她出道后起初并不成功，因为没有足够的钱住宿，有时只得被迫睡在[桑拿房中](../Page/桑拿.md "wikilink")。\[20\]
+Jessi曾与[少女时代](../Page/少女时代.md "wikilink")的成员[Tiffany及前成员](../Page/Tiffany_\(少女時代\).md "wikilink")[Jessica一同在韩国肯特外国语学校上学](../Page/Jessica_\(韓國歌手\).md "wikilink")。[天上智喜](../Page/天上智喜.md "wikilink")的前成员现为独唱歌手的也一同在此学校上学。Jessi成功通过了[SM娛樂](../Page/SM娛樂.md "wikilink")的面试，她的三个同学也都通过了面试并进入到了此公司。然而她最终没有进入SM公司，因为她认为其对于音乐的方法并不符合她的风格。\[18\]Jessi曾暂时中断了她的音乐事业，并为了习惯韩国的文化而努力。\[19\]她出道后起初并不成功，因为没有足够的钱住宿，有时只得被迫睡在[桑拿](../Page/桑拿.md "wikilink")房中。\[20\]
 
 2013年，在她暂时离开音乐产业时，一个关于声称Jessi参与所谓涉嫌殴打的争议事件浮出水面。\[21\]不过自称受害者的人士很快就对这位歌手放弃了指控，随后调查结束。\[22\]
 
-Jessi一直与[少女时代的](../Page/少女时代.md "wikilink")[Tiffany是亲密朋友](../Page/Tiffany_\(少女時代\).md "wikilink")，她们曾在同一所高中上学。\[23\]两个人一同出现在多个电视节目中，包括《[姐姐們的Slam
-Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink")》和Tiffany主持的《Heart a
-tag》。\[24\]\[25\]除了Tiffany外，她的朋友还包括[4minute前成员现为独唱歌手的](../Page/4minute.md "wikilink")[泫雅](../Page/金泫雅.md "wikilink")\[26\]、[SISTAR前成员现为独唱歌手的](../Page/SISTAR.md "wikilink")[孝琳](../Page/孝琳.md "wikilink")\[27\]、乐队[FTIsland的主唱](../Page/FTIsland.md "wikilink")[李洪基](../Page/李洪基.md "wikilink")\[28\]以及组合[GOT7的饶舌担当](../Page/GOT7.md "wikilink")[Jackson](../Page/王嘉爾.md "wikilink")\[29\]等。
+Jessi一直与[少女时代](../Page/少女时代.md "wikilink")的[Tiffany是亲密朋友](../Page/Tiffany_\(少女時代\).md "wikilink")，她们曾在同一所高中上学。\[23\]两个人一同出现在多个电视节目中，包括《[姐姐們的Slam Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink")》和Tiffany主持的《Heart a tag》。\[24\]\[25\]除了Tiffany外，她的朋友还包括[4minute](../Page/4minute.md "wikilink")前成员现为独唱歌手的[泫雅](../Page/金泫雅.md "wikilink")\[26\]、[SISTAR](../Page/SISTAR.md "wikilink")前成员现为独唱歌手的[孝琳](../Page/孝琳.md "wikilink")\[27\]、乐队[FTIsland](../Page/FTIsland.md "wikilink")的主唱[李洪基](../Page/李洪基.md "wikilink")\[28\]以及组合[GOT7](../Page/GOT7.md "wikilink")的饶舌担当[Jackson](../Page/王嘉爾.md "wikilink")\[29\]等。
 
 ## 音乐作品
 
@@ -501,25 +484,7 @@ tag》。\[24\]\[25\]除了Tiffany外，她的朋友还包括[4minute前成员�
 
   -
   -
-[Category:韩国饶舌女歌手](https://zh.wikipedia.org/wiki/Category:韩国饶舌女歌手 "wikilink")
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink")
-[Category:韩国电视名人](https://zh.wikipedia.org/wiki/Category:韩国电视名人 "wikilink")
-[Category:美国女歌手](https://zh.wikipedia.org/wiki/Category:美国女歌手 "wikilink")
-[Category:美国饶舌女歌手](https://zh.wikipedia.org/wiki/Category:美国饶舌女歌手 "wikilink")
-[Category:美國舞曲音樂家](https://zh.wikipedia.org/wiki/Category:美國舞曲音樂家 "wikilink")
-[Category:美國電視主持人](https://zh.wikipedia.org/wiki/Category:美國電視主持人 "wikilink")
-[Category:韩裔美国音乐家](https://zh.wikipedia.org/wiki/Category:韩裔美国音乐家 "wikilink")
-[Category:韓裔美國人](https://zh.wikipedia.org/wiki/Category:韓裔美國人 "wikilink")
-[Category:在韓國的美國人](https://zh.wikipedia.org/wiki/Category:在韓國的美國人 "wikilink")
-[Category:紐約市人](https://zh.wikipedia.org/wiki/Category:紐約市人 "wikilink")
-[Category:纽约出身饶舌歌手](https://zh.wikipedia.org/wiki/Category:纽约出身饶舌歌手 "wikilink")
-[Category:21世紀美國歌手](https://zh.wikipedia.org/wiki/Category:21世紀美國歌手 "wikilink")
-[Category:21世纪韩国歌手](https://zh.wikipedia.org/wiki/Category:21世纪韩国歌手 "wikilink")
-[Category:Unpretty_Rapstar参赛者](https://zh.wikipedia.org/wiki/Category:Unpretty_Rapstar参赛者 "wikilink")
-[Category:蒙面歌王参赛者](https://zh.wikipedia.org/wiki/Category:蒙面歌王参赛者 "wikilink")
-[Category:认识的哥哥出演者](https://zh.wikipedia.org/wiki/Category:认识的哥哥出演者 "wikilink")
-[Category:胡姓](https://zh.wikipedia.org/wiki/Category:胡姓 "wikilink")
+[Category:韩国饶舌女歌手](https://zh.wikipedia.org/wiki/Category:韩国饶舌女歌手 "wikilink") [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink") [Category:韩国电视名人](https://zh.wikipedia.org/wiki/Category:韩国电视名人 "wikilink") [Category:美国女歌手](https://zh.wikipedia.org/wiki/Category:美国女歌手 "wikilink") [Category:美国饶舌女歌手](https://zh.wikipedia.org/wiki/Category:美国饶舌女歌手 "wikilink") [Category:美國舞曲音樂家](https://zh.wikipedia.org/wiki/Category:美國舞曲音樂家 "wikilink") [Category:美國電視主持人](https://zh.wikipedia.org/wiki/Category:美國電視主持人 "wikilink") [Category:韩裔美国音乐家](https://zh.wikipedia.org/wiki/Category:韩裔美国音乐家 "wikilink") [Category:韓裔美國人](https://zh.wikipedia.org/wiki/Category:韓裔美國人 "wikilink") [Category:在韓國的美國人](https://zh.wikipedia.org/wiki/Category:在韓國的美國人 "wikilink") [Category:紐約市人](https://zh.wikipedia.org/wiki/Category:紐約市人 "wikilink") [Category:纽约出身饶舌歌手](https://zh.wikipedia.org/wiki/Category:纽约出身饶舌歌手 "wikilink") [Category:21世紀美國歌手](https://zh.wikipedia.org/wiki/Category:21世紀美國歌手 "wikilink") [Category:21世纪韩国歌手](https://zh.wikipedia.org/wiki/Category:21世纪韩国歌手 "wikilink") [Category:Unpretty_Rapstar参赛者](https://zh.wikipedia.org/wiki/Category:Unpretty_Rapstar参赛者 "wikilink") [Category:蒙面歌王参赛者](https://zh.wikipedia.org/wiki/Category:蒙面歌王参赛者 "wikilink") [Category:认识的哥哥出演者](https://zh.wikipedia.org/wiki/Category:认识的哥哥出演者 "wikilink") [Category:胡姓](https://zh.wikipedia.org/wiki/Category:胡姓 "wikilink")
 
 1.
 

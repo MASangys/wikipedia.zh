@@ -1,5 +1,4 @@
-**株式會社project
-No.9**（，）是[日本的](../Page/日本.md "wikilink")[動畫製作公司](../Page/日本动画.md "wikilink")。
+**株式會社project No.9**（，）是[日本](../Page/日本.md "wikilink")的[動畫製作公司](../Page/日本动画.md "wikilink")。
 
 ## 作品列表
 
@@ -20,6 +19,7 @@ No.9**（，）是[日本的](../Page/日本.md "wikilink")[動畫製作公司](
 | [夢王國與沉睡中的100位王子殿下](../Page/夢王國與沉睡中的100位王子殿下.md "wikilink") |                                                                              |               |       |
 | rowspan="2|2019年                                           | [迷你刀使](../Page/刀使之巫女.md "wikilink")                                          |               |       |
 | [粉彩回憶](../Page/粉彩回憶.md "wikilink")                         |                                                                              |               |       |
+| 2020年                                                      | [白貓Project ZERO CHRONICLE](../Page/白貓Project.md "wikilink")                  |               |       |
 
 ### 協助製作
 
@@ -32,8 +32,7 @@ No.9**（，）是[日本的](../Page/日本.md "wikilink")[動畫製作公司](
 
 ### 遊戲
 
-  - [出包王女DARKNESS Battle Ecstasy](../Page/出包王女.md "wikilink")（Event
-    CG製作，2015年）
+  - [出包王女 Battle Ecstasy](../Page/出包王女.md "wikilink")DARKNESS（Event CG製作，2015年）
 
 ### 電視劇
 
@@ -55,9 +54,7 @@ No.9**（，）是[日本的](../Page/日本.md "wikilink")[動畫製作公司](
 
   -
   -
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:中野區公司](https://zh.wikipedia.org/wiki/Category:中野區公司 "wikilink")
-[Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink")
+[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:中野區公司](https://zh.wikipedia.org/wiki/Category:中野區公司 "wikilink") [Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink")
 
 1.
 2.

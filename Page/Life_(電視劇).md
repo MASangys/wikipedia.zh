@@ -1,4 +1,4 @@
-《**LIFE**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC於](../Page/JTBC.md "wikilink")2018年7月23日起播出的[月火連續劇](../Page/JTBC月火連續劇.md "wikilink")，由《[名不虛傳](../Page/名不虛傳.md "wikilink")》[洪鍾燦](../Page/洪鍾燦.md "wikilink")、《[有可能知道的人](../Page/有可能知道的人.md "wikilink")》林賢旭導演執導與《[秘密森林](../Page/秘密森林.md "wikilink")》李秀妍作家合作打造。此劇講述在一所醫院裏，手持權力的人們在慾望驅使下彼此鬥爭獲取更多利益的故事。\[1\]本劇首播收視為4.334%（AGB全國），刷新JTBC電視台的劇集最高首播收視紀錄。
+《**LIFE**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")於2018年7月23日起播出的[月火連續劇](../Page/JTBC月火連續劇.md "wikilink")，由《[名不虛傳](../Page/名不虛傳.md "wikilink")》[洪鍾燦](../Page/洪鍾燦.md "wikilink")、《[有可能知道的人](../Page/有可能知道的人.md "wikilink")》林賢旭導演執導與《[秘密森林](../Page/秘密森林.md "wikilink")》李秀妍作家合作打造。此劇講述在一所醫院裏，手持權力的人們在慾望驅使下彼此鬥爭獲取更多利益的故事。\[1\]本劇首播收視為4.334%（AGB全國），刷新JTBC電視台的劇集最高首播收視紀錄。
 
 ## 演員陣容
 
@@ -246,11 +246,16 @@
 <td><p>胸腔外科醫師。</p></td>
 </tr>
 <tr class="even">
+<td></td>
+<td><p>鄭韋元</p></td>
+<td><p>健康保險審查和評估委員會的工作人員</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/馬敏姬" title="wikilink">馬敏姬</a></p></td>
 <td></td>
 <td><p>小兒科加護病房護士。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -608,9 +613,7 @@
 
   - [韓國JTBC官方網站](http://tv.jtbc.joins.com/life)
 
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:韓國醫學劇](https://zh.wikipedia.org/wiki/Category:韓國醫學劇 "wikilink")
-[Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink")
+[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:韓國醫學劇](https://zh.wikipedia.org/wiki/Category:韓國醫學劇 "wikilink") [Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink")
 
 1.
 2.

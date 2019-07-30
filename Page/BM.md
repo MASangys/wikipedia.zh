@@ -1,4 +1,4 @@
-**金珍锡**（，），，藝名**BM**（，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男歌手](https://zh.wikipedia.org/wiki/男歌手 "wikilink")，現為[DSP媒體旗下韓國男女混聲團](../Page/DSP媒體.md "wikilink")[KARD成員](../Page/KARD.md "wikilink")，隊內擔當King、主领舞、领Rapper、副唱及形象。
+**金珍锡**（，），，藝名**BM**（，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男歌手](https://zh.wikipedia.org/wiki/男歌手 "wikilink")，現為[DSP媒體](../Page/DSP媒體.md "wikilink")旗下韓國男女混聲團[KARD](../Page/KARD.md "wikilink")成員，隊內擔當King、主领舞、领Rapper、副唱及形象。
 
 ## 音樂作品
 
@@ -53,6 +53,4 @@
 ## 外部連結
 
   -
-[Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
-[Category:1992年出生](https://zh.wikipedia.org/wiki/Category:1992年出生 "wikilink")
-[Category:KARD成員](https://zh.wikipedia.org/wiki/Category:KARD成員 "wikilink")
+[Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink") [Category:1992年出生](https://zh.wikipedia.org/wiki/Category:1992年出生 "wikilink") [Category:KARD成員](https://zh.wikipedia.org/wiki/Category:KARD成員 "wikilink")

@@ -1,8 +1,6 @@
-**有夢要想 - Happily Ever After**為香港女歌手[謝安琪](../Page/謝安琪.md "wikilink")（Kay
-Tse）**第62支派台作品**，為[香港迪士尼樂園](../Page/香港迪士尼樂園.md "wikilink")10周年主題曲。
+**有夢要想 - Happily Ever After**為香港女歌手[謝安琪](../Page/謝安琪.md "wikilink")（Kay Tse）**第62支派台作品**，為[香港迪士尼樂園](../Page/香港迪士尼樂園.md "wikilink")10周年主題曲。
 
-單曲於2015年12月8日派至各大電台。《有夢要想 - Happily Ever After》由Andy
-Dodd、作曲、[林夕填詞](../Page/林夕.md "wikilink")、張人傑編曲、[趙增熹監制](../Page/趙增熹.md "wikilink")。\[1\]。
+單曲於2015年12月8日派至各大電台。《有夢要想 - Happily Ever After》由Andy Dodd、作曲、[林夕](../Page/林夕.md "wikilink")填詞、張人傑編曲、[趙增熹](../Page/趙增熹.md "wikilink")監制。\[1\]。
 
 ## 曲目
 
@@ -30,8 +28,7 @@ Dodd、作曲、[林夕填詞](../Page/林夕.md "wikilink")、張人傑編曲�
 
 ### [叱吒903專業推介 走勢](../Page/叱咤903.md "wikilink")
 
-〈有夢要想 - Happily Ever
-After〉於2015年12月29日在節目[叱吒樂壇首播](https://zh.wikipedia.org/wiki/叱吒樂壇 "wikilink")，當周為2016年第1周。
+〈有夢要想 - Happily Ever After〉於2015年12月29日在節目[叱吒樂壇首播](https://zh.wikipedia.org/wiki/叱吒樂壇 "wikilink")，當周為2016年第1周。
 
 | 周次       | 第1周           | 第2周         | 第3周        | 第4周         | 第5周         | 第6周        | 備註     |
 | -------- | ------------- | ----------- | ---------- | ----------- | ----------- | ---------- | ------ |
@@ -54,27 +51,15 @@ After〉於2015年12月29日在節目[叱吒樂壇首播](https://zh.wikipedia.o
 **\*** 表示 尚在榜上
 **x** 表示 未有派台
 
-**注**:〈**有夢要想 - Happily Ever
-After**〉未曾向[TVB勁歌金榜派台](https://zh.wikipedia.org/wiki/TVB "wikilink")，但曾經在該台節目「保良金猴賀新春2016」中作現場演出\[6\]，節目於2月8日播出。
+**注**:〈**有夢要想 - Happily Ever After**〉未曾向[TVB勁歌金榜派台](https://zh.wikipedia.org/wiki/TVB "wikilink")，但曾經在該台節目「保良金猴賀新春2016」中作現場演出\[6\]，節目於2月8日播出。
 
 ## 参考资料
 
-[Category:謝安琪歌曲](https://zh.wikipedia.org/wiki/Category:謝安琪歌曲 "wikilink")
-[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink")
-[Category:香港歌曲](https://zh.wikipedia.org/wiki/Category:香港歌曲 "wikilink")
-[Category:香港迪士尼樂園](https://zh.wikipedia.org/wiki/Category:香港迪士尼樂園 "wikilink")
+[Category:謝安琪歌曲](https://zh.wikipedia.org/wiki/Category:謝安琪歌曲 "wikilink") [Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:香港歌曲](https://zh.wikipedia.org/wiki/Category:香港歌曲 "wikilink") [Category:香港迪士尼樂園](https://zh.wikipedia.org/wiki/Category:香港迪士尼樂園 "wikilink")
 
-1.  [my903.com 叱吒樂迷 - 謝安琪 - 有夢要想 - Happily Ever
-    After](http://www.my903.com/my903/903music/detail.jsp?newsid=5408&category=search&index=0&keywords=%E8%AC%9D%E5%AE%89%E7%90%AA)
-
-2.  [my903.com 叱吒樂迷 - 謝安琪 -
-    香女人](http://www.my903.com/my903/903music/detail.jsp?newsid=5188&category=search&index=0&keywords=%E9%A6%99%E5%A5%B3%E4%BA%BA)
-
-3.  [謝安琪 KAY TSE 最新官方MV《有夢要想-Happily Ever
-    After》](http://www.youtube.com/watch?v=qfj2HJPLt58)
+1.  [my903.com 叱吒樂迷 - 謝安琪 - 有夢要想 - Happily Ever After](http://www.my903.com/my903/903music/detail.jsp?newsid=5408&category=search&index=0&keywords=%E8%AC%9D%E5%AE%89%E7%90%AA)
+2.  [my903.com 叱吒樂迷 - 謝安琪 - 香女人](http://www.my903.com/my903/903music/detail.jsp?newsid=5188&category=search&index=0&keywords=%E9%A6%99%E5%A5%B3%E4%BA%BA)
+3.  [謝安琪 KAY TSE 最新官方MV《有夢要想-Happily Ever After》](http://www.youtube.com/watch?v=qfj2HJPLt58)
 4.  [新城勁爆本地榜](http://www.metroradio.com.hk/997/Music/Chart/Local.aspx)
-5.  [叱吒903專業推介
-    歌曲排行榜](http://www.my903.com/my903/903music/detail.jsp?newsid=4480&category=12_13_14_15_16&index=27)
-
-6.  [謝安琪 Kay Tse《有夢要想 - Happily Ever After》首次電視現場 Live
-    @保良金猴賀新春2016](https://www.youtube.com/watch?v=wg29lwS2Apk)
+5.  [叱吒903專業推介 歌曲排行榜](http://www.my903.com/my903/903music/detail.jsp?newsid=4480&category=12_13_14_15_16&index=27)
+6.  [謝安琪 Kay Tse《有夢要想 - Happily Ever After》首次電視現場 Live @保良金猴賀新春2016](https://www.youtube.com/watch?v=wg29lwS2Apk)

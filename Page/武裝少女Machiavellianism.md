@@ -21,7 +21,7 @@
   -
     本作男主角，過去曾以一人之力將40人以上的不良集團打得住院引發大騷動後被強制轉學到這所學園。
     因為嚮往自由的個性，拒絕強硬命令，所以與欲管束他的「天下五劍」產生了衝突。對再次遇見的天羽斬斬有著複雜的想法，思考著該如何了結。雖然言語輕浮，對他人的尖銳態度也能笑著帶過，但內心還是有著無法容忍他人暴力對待弱者的行為的氣概。
-    本來是孤兒，由[示現流出身的劍士所養大](../Page/示現流.md "wikilink")，但養父為了令其超越自身的極限而施以了過度的修練使他搞壞了身體而無法再用劍。戴著做過防刃處理的手套應戰，憑自己的天分將示現流的技巧化作自己的徒手招數，並把示現流的奧義改造成近身戰的絕技「**魔彈**」。
+    本來是孤兒，由[示現流](../Page/示現流.md "wikilink")出身的劍士所養大，但養父為了令其超越自身的極限而施以了過度的修練使他搞壞了身體而無法再用劍。戴著做過防刃處理的手套應戰，憑自己的天分將示現流的技巧化作自己的徒手招數，並把示現流的奧義改造成近身戰的絕技「**魔彈**」。
     除了斬斬與月夜之外，本身的武力在學園中處於第一線。
     連續擊敗輪、瑪麗後，兩人對他產生好感，對待納村的態度變成傲嬌，然後在面對其他的五劍（眠目、蕨）有困難時也會出手相助，之後只要是有關納村，輪和瑪麗都會不約而同的彼此互相作對，但還是會互相幫助彼此應戰。
     找天羽後順勢搭機前往以前學校找被天羽打的人，並與欺負他的人起衝突，之後被永久停止出校許可證。
@@ -32,7 +32,7 @@
     身高：168cm；體重：53KG；喜好：石榴
     本作的另一位主角和裡女主角。有著強烈的支配欲，進入愛地共生學園後擊敗五劍中的輪與瑪麗的女性，被全校稱為「女帝」的存在。黑長髮優雅的和式臉龐。
     曾經是納村的同伴，喜歡納村，在納村拒絕「成為自己的東西」後而想殺了納村（實際是太愛納村而由愛生恨）。在轉校到愛地共生學園前，一直女扮男裝，並作出男性化的舉動。因此納村起初並不知道她是一個女性。
-    其異常強悍的原因是她已完成[空手道的終極目標](../Page/空手道.md "wikilink")「**化身刀**」。經過特別鍛鍊的身體就算是刀刃也無法傷害，有著能以手刀斬傷人體的高超武術技巧，絕招是有著脊髓反應速度等級的「**自動反擊**」。五劍中除了月夜外無人能傷到她的身體。
+    其異常強悍的原因是她已完成[空手道](../Page/空手道.md "wikilink")的終極目標「**化身刀**」。經過特別鍛鍊的身體就算是刀刃也無法傷害，有著能以手刀斬傷人體的高超武術技巧，絕招是有著脊髓反應速度等級的「**自動反擊**」。五劍中除了月夜外無人能傷到她的身體。
     將五劍全數擊敗後，再次與納村交手時因太愛納村，無法直接痛下殺手而放水，最後敗於納村。之後學校處以退學處分並轉往跨海共生學園，於機場臨行前強吻納村並宣示主權。
 
 ### 愛地共生學園
@@ -67,7 +67,7 @@
     使用武器太刀，體捨流劍術的劍士。會使用棒形手裡劍和機動性十足的跳躍搭配作戰。同時也很擅長心理戰令對手動搖。飼養著一頭巨熊，並能搭配施展出獨有「熊劍法」的聯合戰術。
     主導了今年的學園祭（實質上的死亡處刑）。在學園祭事件結束後，經常幫助納村。
     在五劍對戰天羽中連同三獸士及凶人均遭到重創，當下也無法理解他們為何會拚死守護自己，直至重創倒下並且碰上因故來此的納村後才明白。
-    原型採自天下五劍的[童子切](https://zh.wikipedia.org/wiki/童子切 "wikilink")。這是參考其持有者渡邊綱的傳說中其部下[金太郎的故事](../Page/金太郎.md "wikilink")。
+    原型採自天下五劍的[童子切](https://zh.wikipedia.org/wiki/童子切 "wikilink")。這是參考其持有者渡邊綱的傳說中其部下[金太郎](../Page/金太郎.md "wikilink")的故事。
 
 <!-- end list -->
 
@@ -272,8 +272,7 @@
 
 ## 電視動畫
 
-2016年6月宣布製作電視動畫\[3\]。2017年4月至6月在[AT-X](../Page/AT-X.md "wikilink")、[TOKYO
-MX等台首播](../Page/東京都會電視台.md "wikilink")。
+2016年6月宣布製作電視動畫\[3\]。2017年4月至6月在[AT-X](../Page/AT-X.md "wikilink")、[TOKYO MX等台首播](../Page/東京都會電視台.md "wikilink")。
 
 ### 製作人員
 
@@ -515,7 +514,7 @@ Park I Nam、Im Chae Gil</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/AbemaTV.md" title="wikilink">AbemaTV新作動畫台</a></p></td>
+<td><p><a href="../Page/AbemaTV.md" title="wikilink">AbemaTV</a>新作動畫台</p></td>
 <td><p>星期六 25時30分－26時00分</p></td>
 <td></td>
 <td></td>
@@ -613,7 +612,7 @@ Park I Nam、Im Chae Gil</p></td>
 </tbody>
 </table>
 
-  - 海外方面，由[香港的](../Page/香港.md "wikilink")[ANIMAX台](https://zh.wikipedia.org/wiki/ANIMAX "wikilink")，逢星期三與星期四，晚上22時00Z分－23時00分以連播2集的方式播放。
+  - 海外方面，由[香港](../Page/香港.md "wikilink")的[ANIMAX台](https://zh.wikipedia.org/wiki/ANIMAX "wikilink")，逢星期三與星期四，晚上22時00Z分－23時00分以連播2集的方式播放。
 
 ### BD／DVD
 
@@ -629,8 +628,7 @@ Park I Nam、Im Chae Gil</p></td>
 
 ### 網路廣播
 
-以『**武裝少女Machiavellianism
-很快地很快地幫你矯正！**』為標題，2017年4月6日每週四起在[音泉](../Page/音泉.md "wikilink")、[Niconico動畫的](../Page/Niconico動畫.md "wikilink")〈音泉〉頻道專區進行配信\[6\]。由鬼瓦輪的聲優[高田憂希](../Page/高田憂希.md "wikilink")、龜鶴城的聲優[北原沙彌香及眠目佐鳥的聲優](../Page/北原沙彌香.md "wikilink")[西田望見共](../Page/西田望見.md "wikilink")3人主持。主角納村不道的聲優[畠中祐擔任製作人](../Page/畠中祐.md "wikilink")。
+以『**武裝少女Machiavellianism 很快地很快地幫你矯正！**』為標題，2017年4月6日每週四起在[音泉](../Page/音泉.md "wikilink")、[Niconico動畫](../Page/Niconico動畫.md "wikilink")的〈音泉〉頻道專區進行配信\[6\]。由鬼瓦輪的聲優[高田憂希](../Page/高田憂希.md "wikilink")、龜鶴城的聲優[北原沙彌香](../Page/北原沙彌香.md "wikilink")及眠目佐鳥的聲優[西田望見](../Page/西田望見.md "wikilink")共3人主持。主角納村不道的聲優[畠中祐](../Page/畠中祐.md "wikilink")擔任製作人。
 
 ## 參考資料
 
@@ -638,28 +636,19 @@ Park I Nam、Im Chae Gil</p></td>
 
   - [武裝少女Machiavellianism｜KADOKAWA](http://www.kadokawa.co.jp/sp/2014/machiavellism/)
 
-
   - [ComicWalker](http://comic-walker.com/contents/detail/KDCW_KS01000022010000_68/)官網
-
 
   - [電視動畫「武裝少女Machiavellianism」官方網站](http://machiavellism-anime.jp/)
 
-  - [電視動畫「武裝少女Machiavellianism」TOKYO
-    MX電視台作節目介紹網頁](http://s.mxtv.jp/anime/machiavellism/)
-
+  - [電視動畫「武裝少女Machiavellianism」TOKYO MX電視台作節目介紹網頁](http://s.mxtv.jp/anime/machiavellism/)
 
   - [電視動畫「武裝少女Machiavellianism」AT-X電視台節目介紹網頁](http://www.at-x.com/program/detail/8017)
 
-
   - [電視動畫「武裝少女Machiavellianism」日本BS放送電視台節目介紹網頁](http://www.bs11.jp/anime/machiavellism/)
-
 
   -
 
-[Category:月刊少年Ace](https://zh.wikipedia.org/wiki/Category:月刊少年Ace "wikilink")
-[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink")
-[Category:SILVER_LINK.](https://zh.wikipedia.org/wiki/Category:SILVER_LINK. "wikilink")
-[Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink")
+[Category:月刊少年Ace](https://zh.wikipedia.org/wiki/Category:月刊少年Ace "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:SILVER_LINK.](https://zh.wikipedia.org/wiki/Category:SILVER_LINK. "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink")
 
 1.
 2.

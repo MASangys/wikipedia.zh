@@ -124,7 +124,4 @@
 
 ## 電視節目的變遷
 
-[Category:2016年電視劇集](https://zh.wikipedia.org/wiki/Category:2016年電視劇集 "wikilink")
-[Category:新加坡电视剧](https://zh.wikipedia.org/wiki/Category:新加坡电视剧 "wikilink")
-[Category:馬來西亞电视剧](https://zh.wikipedia.org/wiki/Category:馬來西亞电视剧 "wikilink")
-[Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink")
+[Category:2016年電視劇集](https://zh.wikipedia.org/wiki/Category:2016年電視劇集 "wikilink") [Category:新加坡电视剧](https://zh.wikipedia.org/wiki/Category:新加坡电视剧 "wikilink") [Category:馬來西亞电视剧](https://zh.wikipedia.org/wiki/Category:馬來西亞电视剧 "wikilink") [Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink")

@@ -1,12 +1,10 @@
-**株式會社C2C**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[西東京市](../Page/西東京市.md "wikilink")\[1\]，專門從事[動畫的企劃與製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於2006年\[2\]。
+**株式會社C2C**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[西東京市](../Page/西東京市.md "wikilink")\[1\]，專門從事[動畫的企劃與製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於2006年\[2\]。
 
 ## 概要、沿革
 
-2006年4月3日\[3\]，C2C從[TripleA的子企業成立起家](../Page/Triple_A_\(動畫製作公司\).md "wikilink")。而C2C是「**Challenge
-To Challenge**」的公司簡稱\[4\]。
+2006年4月3日\[3\]，C2C從[TripleA的子企業成立起家](../Page/Triple_A_\(動畫製作公司\).md "wikilink")。而C2C是「**Challenge To Challenge**」的公司簡稱\[4\]。
 
-C2C成立以來，原本以協助大型動畫企業的[總承包作品進行分工製作為主業](../Page/統包.md "wikilink")。但在2012年4月播出的電視動畫《[希望宅邸
-3D](../Page/希望宅邸.md "wikilink")》第一次嘗試挑戰獨立製作；另一方面經常與[SATELIGHT一起共同製作](../Page/SATELIGHT.md "wikilink")。
+C2C成立以來，原本以協助大型動畫企業的[總承包作品進行分工製作為主業](../Page/統包.md "wikilink")。但在2012年4月播出的電視動畫《[希望宅邸 3D](../Page/希望宅邸.md "wikilink")》第一次嘗試挑戰獨立製作；另一方面經常與[SATELIGHT](../Page/SATELIGHT.md "wikilink")一起共同製作。
 
 C2C以下游承包商持續協助其它中、大型動畫企業時，又以協助SATELIGHT的作品最多。
 
@@ -302,7 +300,7 @@ C2C以下游承包商持續協助其它中、大型動畫企業時，又以協�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/笨蛋，測驗，召喚獸.md" title="wikilink">笨蛋，測驗，召喚獸2</a></p></td>
+<td><p><a href="../Page/笨蛋，測驗，召喚獸.md" title="wikilink">笨蛋，測驗，召喚獸</a>2</p></td>
 <td></td>
 <td><p><a href="../Page/SILVER_LINK..md" title="wikilink">SILVER LINK.</a></p></td>
 <td></td>
@@ -375,7 +373,7 @@ C2C以下游承包商持續協助其它中、大型動畫企業時，又以協�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/紙箱戰機.md" title="wikilink">紙箱戰機W</a></p></td>
+<td><p><a href="../Page/紙箱戰機.md" title="wikilink">紙箱戰機</a>W</p></td>
 <td></td>
 <td><p><a href="../Page/OLM.md" title="wikilink">OLM TEAM INOUE</a></p></td>
 <td></td>
@@ -392,7 +390,7 @@ C2C以下游承包商持續協助其它中、大型動畫企業時，又以協�
 </tr>
 <tr class="odd">
 <td><p>2012年</p></td>
-<td><p><a href="../Page/少年同盟.md" title="wikilink">少年同盟2</a></p></td>
+<td><p><a href="../Page/少年同盟.md" title="wikilink">少年同盟</a>2</p></td>
 <td></td>
 <td><p>J.C.STAFF</p></td>
 <td></td>
@@ -415,7 +413,7 @@ C2C以下游承包商持續協助其它中、大型動畫企業時，又以協�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/超譯百人一首戀歌.md" title="wikilink">超譯百人一首戀歌。</a></p></td>
+<td><p><a href="../Page/超譯百人一首戀歌.md" title="wikilink">超譯百人一首戀歌</a>。</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TYO動畫" title="wikilink">TYO動畫</a></p></td>
 <td></td>
@@ -512,7 +510,7 @@ C2C以下游承包商持續協助其它中、大型動畫企業時，又以協�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/變態王子與不笑貓.md" title="wikilink">變態王子與不笑貓。</a></p></td>
+<td><p><a href="../Page/變態王子與不笑貓.md" title="wikilink">變態王子與不笑貓</a>。</p></td>
 <td></td>
 <td><p>J.C.STAFF</p></td>
 <td></td>
@@ -635,7 +633,7 @@ C2C以下游承包商持續協助其它中、大型動畫企業時，又以協�
 <tbody>
 <tr class="odd">
 <td><p>2015年</p></td>
-<td><p><a href="../Page/東京喰種.md" title="wikilink">東京喰種√A</a></p></td>
+<td><p><a href="../Page/東京喰種.md" title="wikilink">東京喰種</a>√A</p></td>
 <td></td>
 <td><p><a href="../Page/Studio_Pierrot.md" title="wikilink">Studio Pierrot</a></p></td>
 <td><p>各話協力製作</p></td>
@@ -708,7 +706,7 @@ C2C以下游承包商持續協助其它中、大型動畫企業時，又以協�
 <tbody>
 <tr class="odd">
 <td><p>2016年</p></td>
-<td><p><a href="../Page/魔法護士小麥.md" title="wikilink">魔法護士小麥R</a></p></td>
+<td><p><a href="../Page/魔法護士小麥.md" title="wikilink">魔法護士小麥</a>R</p></td>
 <td></td>
 <td><p>龍之子製作公司</p></td>
 <td><p>OP製作、各話協力製作</p></td>
@@ -860,7 +858,7 @@ C2C以下游承包商持續協助其它中、大型動畫企業時，又以協�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/為美好的世界獻上祝福！.md" title="wikilink">為美好的世界獻上祝福！2</a></p></td>
+<td><p><a href="../Page/為美好的世界獻上祝福！.md" title="wikilink">為美好的世界獻上祝福！</a>2</p></td>
 <td></td>
 <td><p>STUDIO DEEN</p></td>
 <td></td>
@@ -965,9 +963,7 @@ C2C以下游承包商持續協助其它中、大型動畫企業時，又以協�
 
   - [株式會社C2C公式官網](http://www.c2c2009.com/)
 
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:西東京市公司](https://zh.wikipedia.org/wiki/Category:西東京市公司 "wikilink")
-[Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink")
+[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:西東京市公司](https://zh.wikipedia.org/wiki/Category:西東京市公司 "wikilink") [Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink")
 
 1.
 2.

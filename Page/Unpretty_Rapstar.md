@@ -1,15 +1,10 @@
-《**Unpretty
-Rapstar**》（）是2015年1月29日至2015年3月26日播出的[韩国音乐节目](https://zh.wikipedia.org/wiki/韩国 "wikilink")。“Unpretty”象徵著不刻意掩飾自我外表，而展現真正實力（real
-me）的態度。与之前在mnet播出的《[Show Me The
-Money](https://zh.wikipedia.org/wiki/SHOW_ME_THE_MONEY "wikilink")》系列一样是[Hiphop选秀节目](../Page/嘻哈.md "wikilink")，特点是竞赛者全部是女Rapper。此外每期都有知名Hip
-Hop制作人们参与，对选手们的实力进行评价，发行音源是用一种适者生存的方式进行。第一季[Cheetah获得了冠军](../Page/Cheetah.md "wikilink")。
+《**Unpretty Rapstar**》（）是2015年1月29日至2015年3月26日播出的[韩国音乐节目](https://zh.wikipedia.org/wiki/韩国 "wikilink")。“Unpretty”象徵著不刻意掩飾自我外表，而展現真正實力（real me）的態度。与之前在mnet播出的《[Show Me The Money](https://zh.wikipedia.org/wiki/SHOW_ME_THE_MONEY "wikilink")》系列一样是[Hiphop选秀节目](../Page/嘻哈.md "wikilink")，特点是竞赛者全部是女Rapper。此外每期都有知名Hip Hop制作人们参与，对选手们的实力进行评价，发行音源是用一种适者生存的方式进行。第一季[Cheetah](../Page/Cheetah.md "wikilink")获得了冠军。
 
 ## 节目环节
 
 ### 自我介绍[cypher](../Page/即興饒舌.md "wikilink")
 
-竞演者和主持人在一首曲子中用[Freestyle
-rap进行自我介绍以及对决口号](../Page/即興饒舌.md "wikilink")，在这场较量中，所有人的[Beat都是一样的](../Page/节拍.md "wikilink")，允许赛前战，或在比赛前回应Diss-Rap。
+竞演者和主持人在一首曲子中用[Freestyle rap进行自我介绍以及对决口号](../Page/即興饒舌.md "wikilink")，在这场较量中，所有人的[Beat都是一样的](../Page/节拍.md "wikilink")，允许赛前战，或在比赛前回应Diss-Rap。
 
 ### Track任务和不同任务的组队对决
 
@@ -21,30 +16,23 @@ rap进行自我介绍以及对决口号](../Page/即興饒舌.md "wikilink")，�
 
 ## 出演者列表
 
-**冠军：**[Cheetah](../Page/Cheetah.md "wikilink")（[Show Me The
-Money第一季选手](../Page/Show_Me_The_Money.md "wikilink")）
+**冠军：**[Cheetah](../Page/Cheetah.md "wikilink")（[Show Me The Money第一季选手](../Page/Show_Me_The_Money.md "wikilink")）
 
 **亚军：**[Jessi](../Page/Jessi.md "wikilink") ()
 
-**季军：**[陆智谭](https://zh.wikipedia.org/wiki/陆智谭 "wikilink")（[Show Me The
-Money第三季选手](../Page/Show_Me_The_Money.md "wikilink")，[Unpretty Rapstar
-3选手](../Page/Unpretty_Rapstar_3.md "wikilink")）
+**季军：**[陆智谭](https://zh.wikipedia.org/wiki/陆智谭 "wikilink")（[Show Me The Money第三季选手](../Page/Show_Me_The_Money.md "wikilink")，[Unpretty Rapstar 3选手](../Page/Unpretty_Rapstar_3.md "wikilink")）
 
 **进入半决赛：**
 
-  - （[Show Me The
-    Money第三季选手](../Page/Show_Me_The_Money.md "wikilink")）(进入半决赛)
+  - （[Show Me The Money第三季选手](../Page/Show_Me_The_Money.md "wikilink")）(进入半决赛)
 
-  - [申智珉](https://zh.wikipedia.org/wiki/申智珉 "wikilink")
-    ([AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")) (进入半决赛)
+  - [申智珉](https://zh.wikipedia.org/wiki/申智珉 "wikilink") ([AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")) (进入半决赛)
 
-  - [Kisum](../Page/Kisum.md "wikilink")（[Show Me The
-    Money第三季选手](../Page/Show_Me_The_Money.md "wikilink")）(进入半决赛)
+  - [Kisum](../Page/Kisum.md "wikilink")（[Show Me The Money第三季选手](../Page/Show_Me_The_Money.md "wikilink")）(进入半决赛)
 
 **被淘汰选手：**
 
-  - （[Show Me The Money第三季选手](../Page/Show_Me_The_Money.md "wikilink")）
-    (第4、5回合被淘汰)
+  - （[Show Me The Money第三季选手](../Page/Show_Me_The_Money.md "wikilink")） (第4、5回合被淘汰)
 
   - (第4、5回合加入，第4、5回合被淘汰)
 
@@ -148,14 +136,11 @@ Money第三季选手](../Page/Show_Me_The_Money.md "wikilink")，[Unpretty Rapst
 
 ## 参见
 
-  - [Unpretty Rapstar
-    2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")
+  - [Unpretty Rapstar 2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")
   - [Unpretty Rapstar 3](../Page/Unpretty_Rapstar_3.md "wikilink")
 
 ## 外部链接
 
 [Unpretty Rapstar](http://tv.mnet.com/program/1392) - 官方网站
 
-[Category:韩国电视节目](https://zh.wikipedia.org/wiki/Category:韩国电视节目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:韩国电视节目](https://zh.wikipedia.org/wiki/Category:韩国电视节目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")

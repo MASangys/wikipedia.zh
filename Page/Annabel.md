@@ -1,17 +1,14 @@
-**Annabel**（，）是出生於[阿根廷](../Page/阿根廷.md "wikilink")[布宜諾斯艾利斯的](../Page/布宜諾斯艾利斯.md "wikilink")[日本女歌手及作詞人](../Page/日本.md "wikilink")\[1\]，所屬唱片公司是[Lantis](../Page/Lantis.md "wikilink")。她參與遊戲、[動畫主題曲等眾多作品](https://zh.wikipedia.org/wiki/動畫主題曲 "wikilink")，以悲哀的微妙透明歌聲而聞名。除此之外，亦和binaria、anNina及siraph共同作業。
+**Annabel**（，）是出生於[阿根廷](../Page/阿根廷.md "wikilink")[布宜諾斯艾利斯](../Page/布宜諾斯艾利斯.md "wikilink")的[日本](../Page/日本.md "wikilink")女歌手及作詞人\[1\]，所屬唱片公司是[Lantis](../Page/Lantis.md "wikilink")。她參與遊戲、[動畫主題曲等眾多作品](https://zh.wikipedia.org/wiki/動畫主題曲 "wikilink")，以悲哀的微妙透明歌聲而聞名。除此之外，亦和binaria、anNina及siraph共同作業。
 
 ## 簡歷
 
 Annabel出生於阿根廷布宜諾斯艾利斯，在日本長大。來自日本的父親在阿根廷和其母親結婚\[2\]。真實姓名的讀音和藝名是一樣的，但拼寫稍有不同\[3\]。
 
-從2005年開始從事歌手和作詞家的音樂活動。2006年，與[やなぎなぎ](https://zh.wikipedia.org/wiki/やなぎなぎ "wikilink")、永尾ヨシヒサ、Xai組成了[同人音樂團體binaria](../Page/同人音樂.md "wikilink")。2007年，與bermei.inazawa組成了anNina，發佈了[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《ひぐらしのなく頃に解》主題歌〈対象a〉。2009年，以Annabel的名義發行了電視動畫《[CANAAN](../Page/CANAAN.md "wikilink")》的結局主題曲〈M
-yheaven〉，首次單人亮相。
+從2005年開始從事歌手和作詞家的音樂活動。2006年，與[やなぎなぎ](https://zh.wikipedia.org/wiki/やなぎなぎ "wikilink")、永尾ヨシヒサ、Xai組成了[同人音樂](../Page/同人音樂.md "wikilink")團體binaria。2007年，與bermei.inazawa組成了anNina，發佈了[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《ひぐらしのなく頃に解》主題歌〈対象a〉。2009年，以Annabel的名義發行了電視動畫《[CANAAN](../Page/CANAAN.md "wikilink")》的結局主題曲〈M yheaven〉，首次單人亮相。
 
-2012年，第一張專輯《miniascape》發佈。2015年，由STEREO DIVE
-FOUNDATION（R·O·N）製作的《夜の国》發行。
+2012年，第一張專輯《miniascape》發佈。2015年，由STEREO DIVE FOUNDATION（R·O·N）製作的《夜の国》發行。
 
-在2016年，與School Food Punishment的蓮尾理之與山崎英明、ハイスイノナサ的照井順政、Mop of
-Head的山下賢組成了siraph\[4\]。
+在2016年，與School Food Punishment的蓮尾理之與山崎英明、ハイスイノナサ的照井順政、Mop of Head的山下賢組成了siraph\[4\]。
 
 ## 正式作品列表
 
@@ -87,22 +84,17 @@ CD+DVD</p></td>
 ## 外部リンク
 
   -
-  - [Annabel Official Blog
-    "ANNALOG"](http://annabel-annabel.tumblr.com/)
+  - [Annabel Official Blog "ANNALOG"](http://annabel-annabel.tumblr.com/)
 
   -
   -
   - [siraph official site](http://siraph.com)
 
-  - [anNina official
-    site](https://web.archive.org/web/20170912191743/http://ann-ina.com/)
+  - [anNina official site](https://web.archive.org/web/20170912191743/http://ann-ina.com/)
 
   - [binaria official site](http://binaria.net)
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:同人歌手](https://zh.wikipedia.org/wiki/Category:同人歌手 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:Lantis藝人](https://zh.wikipedia.org/wiki/Category:Lantis藝人 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:同人歌手](https://zh.wikipedia.org/wiki/Category:同人歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:Lantis藝人](https://zh.wikipedia.org/wiki/Category:Lantis藝人 "wikilink")
 
 1.
 2.

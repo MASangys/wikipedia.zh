@@ -1,13 +1,10 @@
-**CPC裏海石油管線**（Caspian Pipeline
-Consortium，下稱**CPC管線**）是連接[哈薩克斯坦的](https://zh.wikipedia.org/wiki/哈薩克斯坦 "wikilink")[田吉茲油田到黑海沿岸的新羅西斯克二號海運碼頭](../Page/田吉茲油田.md "wikilink")（Nonorossiysk-2）一條石油管線。這同時也是[卡沙干油田與](https://zh.wikipedia.org/wiki/卡沙干油田 "wikilink")的主要出口路線。至2009年時這條CPC管線是俄國領土內唯一不由獨占的管線。\[1\]
+**CPC裏海石油管線**（Caspian Pipeline Consortium，下稱**CPC管線**）是連接[哈薩克斯坦的](https://zh.wikipedia.org/wiki/哈薩克斯坦 "wikilink")[田吉茲油田](../Page/田吉茲油田.md "wikilink")到黑海沿岸的新羅西斯克二號海運碼頭（Nonorossiysk-2）一條石油管線。這同時也是[卡沙干油田與](https://zh.wikipedia.org/wiki/卡沙干油田 "wikilink")的主要出口路線。至2009年時這條CPC管線是俄國領土內唯一不由獨占的管線。\[1\]
 
 ## 歷史
 
-CPC管線最初是在1992年是一項由俄國、哈薩克斯坦與阿曼政府提出的計畫，希望能夠建造一條從哈薩克斯坦到黑海的出口管道。[雪佛龍公司有被邀請加入這項計畫](../Page/雪佛龍.md "wikilink")，但是由於雙方在財務負擔的議題上談不攏，這項計畫停滯到了1996年才重新啟動，此時又邀請了八個公司加入此計畫。包括雪弗龍、[美孚石油](../Page/美孚石油.md "wikilink")、[盧克石油](https://zh.wikipedia.org/wiki/盧克石油 "wikilink")、[荷蘭皇家殼牌與](https://zh.wikipedia.org/wiki/荷蘭皇家殼牌 "wikilink")[俄羅斯石油](https://zh.wikipedia.org/wiki/俄羅斯石油 "wikilink")。後來[英國石油在](https://zh.wikipedia.org/wiki/英國石油 "wikilink")2003年也加入這項計畫。三個國家的持股與這八間公司共佔五五，這些公司共同投入了26.7億美元，然而俄國聯邦政府貢獻的閒置管道資產價值2.93億美元。\[2\]\[3\]
-第一批石油從新羅西斯克二號海運碼頭送上油輪是在2001年10月13號，第一階段的管道是在2001年11月27號正式開始運行，而完全開始運轉要等到2003年4月。
+CPC管線最初是在1992年是一項由俄國、哈薩克斯坦與阿曼政府提出的計畫，希望能夠建造一條從哈薩克斯坦到黑海的出口管道。[雪佛龍](../Page/雪佛龍.md "wikilink")公司有被邀請加入這項計畫，但是由於雙方在財務負擔的議題上談不攏，這項計畫停滯到了1996年才重新啟動，此時又邀請了八個公司加入此計畫。包括雪弗龍、[美孚石油](../Page/美孚石油.md "wikilink")、[盧克石油](https://zh.wikipedia.org/wiki/盧克石油 "wikilink")、[荷蘭皇家殼牌與](https://zh.wikipedia.org/wiki/荷蘭皇家殼牌 "wikilink")[俄羅斯石油](https://zh.wikipedia.org/wiki/俄羅斯石油 "wikilink")。後來[英國石油在](https://zh.wikipedia.org/wiki/英國石油 "wikilink")2003年也加入這項計畫。三個國家的持股與這八間公司共佔五五，這些公司共同投入了26.7億美元，然而俄國聯邦政府貢獻的閒置管道資產價值2.93億美元。\[2\]\[3\] 第一批石油從新羅西斯克二號海運碼頭送上油輪是在2001年10月13號，第一階段的管道是在2001年11月27號正式開始運行，而完全開始運轉要等到2003年4月。
 
-在2007年四月俄國政府將手上的持股轉移給國家控制的俄羅斯國家石油管道運輸公司。\[4\]
-在2008年十月，阿曼政府則將手上持股，也就是全數CPC管線的7%持股以7億美元的價格賣給俄羅斯國家石油管道運輸公司，從此撤出這項投資。\[5\]在2008年12月17號，一項關於擴建管道的備忘錄被簽屬。\[6\]
+在2007年四月俄國政府將手上的持股轉移給國家控制的俄羅斯國家石油管道運輸公司。\[4\] 在2008年十月，阿曼政府則將手上持股，也就是全數CPC管線的7%持股以7億美元的價格賣給俄羅斯國家石油管道運輸公司，從此撤出這項投資。\[5\]在2008年12月17號，一項關於擴建管道的備忘錄被簽屬。\[6\]
 
 ## 技術特點
 
@@ -38,8 +35,7 @@ CPC聯盟的營運公司最於1992年設立在百慕達島，其分別給兩家�
 | BG集團股份有限公司(BG overseas holdings limited)  | 2%    |
 | 哈薩克管道投資有限公司(由哈薩克瓦斯部與BP入股)                 | 1.75% |
 
-田吉茲油田股東控制了聯盟的55.75%股份，卡沙干油田的股東則控制了33.1%。\[14\]
-在2009年12月時，BP將其持有股份以16億美元的價格賣給了盧科石油的子公司LukArco。\[15\]\[16\]
+田吉茲油田股東控制了聯盟的55.75%股份，卡沙干油田的股東則控制了33.1%。\[14\] 在2009年12月時，BP將其持有股份以16億美元的價格賣給了盧科石油的子公司LukArco。\[15\]\[16\]
 
 ## 戰略意義
 
@@ -52,10 +48,7 @@ CPC聯盟的營運公司最於1992年設立在百慕達島，其分別給兩家�
   - [官方網站](http://www.cpc.ru/)
   - [紐約時報地圖](http://www.nytimes.com/imagepages/2010/07/23/business/23chevron-submap.html?ref=global)
 
-[Category:哈薩克斯坦的石油管線](https://zh.wikipedia.org/wiki/Category:哈薩克斯坦的石油管線 "wikilink")
-[Category:地緣政治](https://zh.wikipedia.org/wiki/Category:地緣政治 "wikilink")
-[Category:中哈关系](https://zh.wikipedia.org/wiki/Category:中哈关系 "wikilink")
-[Category:黑海能源](https://zh.wikipedia.org/wiki/Category:黑海能源 "wikilink")
+[Category:哈薩克斯坦的石油管線](https://zh.wikipedia.org/wiki/Category:哈薩克斯坦的石油管線 "wikilink") [Category:地緣政治](https://zh.wikipedia.org/wiki/Category:地緣政治 "wikilink") [Category:中哈关系](https://zh.wikipedia.org/wiki/Category:中哈关系 "wikilink") [Category:黑海能源](https://zh.wikipedia.org/wiki/Category:黑海能源 "wikilink")
 
 1.
 

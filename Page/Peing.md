@@ -13,9 +13,7 @@ Peing上线仅一个月，[单页点阅率便突破了两亿](https://zh.wikiped
   - [Peing](https://peing.net)
 
   -
-[Category:日本網站](https://zh.wikipedia.org/wiki/Category:日本網站 "wikilink")
-[Category:问答网站](https://zh.wikipedia.org/wiki/Category:问答网站 "wikilink")
-[Category:2017年建立的网站](https://zh.wikipedia.org/wiki/Category:2017年建立的网站 "wikilink")
+[Category:日本網站](https://zh.wikipedia.org/wiki/Category:日本網站 "wikilink") [Category:问答网站](https://zh.wikipedia.org/wiki/Category:问答网站 "wikilink") [Category:2017年建立的网站](https://zh.wikipedia.org/wiki/Category:2017年建立的网站 "wikilink")
 
 1.
 2.

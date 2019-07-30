@@ -1,5 +1,4 @@
-《**Lucid
-Dream**》（）是2017年2月22日上映的一部韓國懸疑片，講述一名為了守護家園的父親，透過夢中助手的幫助，找到綁架兒子的犯人及其犯罪線索的故事。
+《**Lucid Dream**》（）是2017年2月22日上映的一部韓國懸疑片，講述一名為了守護家園的父親，透過夢中助手的幫助，找到綁架兒子的犯人及其犯罪線索的故事。
 
 ### 主要演員
 
@@ -23,9 +22,4 @@ Dream**》（）是2017年2月22日上映的一部韓國懸疑片，講述一名
   - [NAVER電影](http://movie.naver.com/movie/bi/mi/basic.nhn?code=130713)
   - [Daum電影](http://movie.daum.net/moviedb/main?movieId=89993)
 
-[Category:2017年電影](https://zh.wikipedia.org/wiki/Category:2017年電影 "wikilink")
-[Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink")
-[Category:韓國懸疑片](https://zh.wikipedia.org/wiki/Category:韓國懸疑片 "wikilink")
-[Category:韓國犯罪片](https://zh.wikipedia.org/wiki/Category:韓國犯罪片 "wikilink")
-[Category:綁架題材作品](https://zh.wikipedia.org/wiki/Category:綁架題材作品 "wikilink")
-[Category:夢題材電影](https://zh.wikipedia.org/wiki/Category:夢題材電影 "wikilink")
+[Category:2017年電影](https://zh.wikipedia.org/wiki/Category:2017年電影 "wikilink") [Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink") [Category:韓國懸疑片](https://zh.wikipedia.org/wiki/Category:韓國懸疑片 "wikilink") [Category:韓國犯罪片](https://zh.wikipedia.org/wiki/Category:韓國犯罪片 "wikilink") [Category:綁架題材作品](https://zh.wikipedia.org/wiki/Category:綁架題材作品 "wikilink") [Category:夢題材電影](https://zh.wikipedia.org/wiki/Category:夢題材電影 "wikilink")

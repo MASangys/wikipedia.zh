@@ -1,5 +1,4 @@
-《**RESIGN**》（）是由[日本成人遊戲公司SherbetSoft](../Page/日本成人遊戲.md "wikilink")（シャーベットソフト）在2010年7月23日發售的[戀愛冒險類型的](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")18禁[同人遊戲](../Page/同人遊戲.md "wikilink")。\[1\]\[2\]\[3\]2013年預告製作重製版《**RESIGN
-OVERRIDE**》（）。\[4\]\[5\]
+《**RESIGN**》（）是由[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")公司SherbetSoft（シャーベットソフト）在2010年7月23日發售的[戀愛冒險類型的](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")18禁[同人遊戲](../Page/同人遊戲.md "wikilink")。\[1\]\[2\]\[3\]2013年預告製作重製版《**RESIGN OVERRIDE**》（）。\[4\]\[5\]
 
 ## 故事
 
@@ -73,31 +72,17 @@ OVERRIDE**》（）。\[4\]\[5\]
 ## 外部連結
 
   - [SherbetSoft](http://www.sherbetsoft.com/)
-  - [リザイン
-    RESIGN](https://web.archive.org/web/20150626070034/http://www.s-bet.sakura.ne.jp/products/resign/)
+  - [リザイン RESIGN](https://web.archive.org/web/20150626070034/http://www.s-bet.sakura.ne.jp/products/resign/)
   - [リザイン OVERRIDE](http://www.sherbetsoft.com/products/r2/)
 
-[Category:2010年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2010年日本成人遊戲 "wikilink")
-[Category:同人遊戲](https://zh.wikipedia.org/wiki/Category:同人遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:報復題材電子遊戲](https://zh.wikipedia.org/wiki/Category:報復題材電子遊戲 "wikilink")
-[Category:學生會題材作品](https://zh.wikipedia.org/wiki/Category:學生會題材作品 "wikilink")
+[Category:2010年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2010年日本成人遊戲 "wikilink") [Category:同人遊戲](https://zh.wikipedia.org/wiki/Category:同人遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:報復題材電子遊戲](https://zh.wikipedia.org/wiki/Category:報復題材電子遊戲 "wikilink") [Category:學生會題材作品](https://zh.wikipedia.org/wiki/Category:學生會題材作品 "wikilink")
 
-1.  [リザイン RESIGN](http://www.s-bet.sakura.ne.jp/products/resign/)
-    SherbetSoft
-2.  [リザイン](http://www.dlsite.com/maniax/work/=/product_id/RJ061841.html)
-    DLsite.com
+1.  [リザイン RESIGN](http://www.s-bet.sakura.ne.jp/products/resign/) SherbetSoft
+2.  [リザイン](http://www.dlsite.com/maniax/work/=/product_id/RJ061841.html) DLsite.com
 3.  [RESIGN](https://vndb.org/v7958)The Visual Novel Database
 4.  [リザイン OVERRIDE](http://www.sherbetsoft.com/products/r2/)SherbetSoft
 5.  [Resign Override](https://vndb.org/v13111)The Visual Novel Database
-6.  [リザイン
-    RESIGN](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=12754)ErogameScape
-    -エロゲー批評空間-
-7.  [リザインビジュアルファンブック](https://www.toranoana.jp/mailorder/article/04/0010/25/20/040010252013.html)
-    とらのあな
+6.  [リザイン RESIGN](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=12754)ErogameScape -エロゲー批評空間-
+7.  [リザインビジュアルファンブック](https://www.toranoana.jp/mailorder/article/04/0010/25/20/040010252013.html) とらのあな
 8.  [RESIGN O.S.T](http://vgmdb.net/album/28966)VGMdb
-9.  [RESIGN
-    O.S.T](http://www.toranoana.jp/mailorder/article/04/0010/23/45/040010234587.html)
-    とらのあな
+9.  [RESIGN O.S.T](http://www.toranoana.jp/mailorder/article/04/0010/23/45/040010234587.html) とらのあな

@@ -14,9 +14,7 @@ end
 
 end
 
-\-- Tests whether a string is a valid positional key, and if so, returns
-it. If -- the key is invalid, this returns nil. local function
-isPositionalKey(s)
+\-- Tests whether a string is a valid positional key, and if so, returns it. If -- the key is invalid, this returns nil. local function isPositionalKey(s)
 
 `   s = trim(s)`
 `   if s:find('^[1-9][0-9]*$') then`
@@ -25,8 +23,7 @@ isPositionalKey(s)
 
 end
 
-\-- Return the count of all arguments for which testFunc returns a
-truthy value. local function count(args, testFunc)
+\-- Return the count of all arguments for which testFunc returns a truthy value. local function count(args, testFunc)
 
 `   local ret = 0`
 `   for key, val in pairs(args) do`
@@ -38,8 +35,7 @@ truthy value. local function count(args, testFunc)
 
 end
 
-\-- Check shared arguments and get the parent argument count. local
-function main(frame, testFunc)
+\-- Check shared arguments and get the parent argument count. local function main(frame, testFunc)
 
 `   local blankifiedTestFunc`
 `   if yesno(frame.args.checkblanks) ~= false then`

@@ -1,6 +1,4 @@
-**WTA臺灣公開賽**（**WTA TAIWAN
-OPEN**）為自2016年起5年在中華民國台灣舉行的職業網球賽事。2016年在高雄首次舉辦、2017年起移師臺北，此後固定於每年第六周、緊接於[澳洲網球公開賽後在臺灣舉行](https://zh.wikipedia.org/wiki/澳洲網球公開賽 "wikilink")。賽事為期9天、屬於[WTA](https://zh.wikipedia.org/wiki/女子網球聯合會 "wikilink")**世界巡迴賽國際賽**（WTA
-International）等級，冠軍積分280分，首屆總獎金50萬美元（包含住宿招待）、第二屆起總獎金為25萬美元（包含住宿招待），是臺灣年度重要且具代表性的國際性體育賽事。這是台灣繼1992至1994年再次承辦WTA世界巡迴賽事。
+**WTA臺灣公開賽**（**WTA TAIWAN OPEN**）為自2016年起5年在中華民國台灣舉行的職業網球賽事。2016年在高雄首次舉辦、2017年起移師臺北，此後固定於每年第六周、緊接於[澳洲網球公開賽後在臺灣舉行](https://zh.wikipedia.org/wiki/澳洲網球公開賽 "wikilink")。賽事為期9天、屬於[WTA](https://zh.wikipedia.org/wiki/女子網球聯合會 "wikilink")**世界巡迴賽國際賽**（WTA International）等級，冠軍積分280分，首屆總獎金50萬美元（包含住宿招待）、第二屆起總獎金為25萬美元（包含住宿招待），是臺灣年度重要且具代表性的國際性體育賽事。這是台灣繼1992至1994年再次承辦WTA世界巡迴賽事。
 
 第一屆賽事於2016年在[高雄陽明網球中心開打](../Page/陽明網球中心.md "wikilink")\[1\]，第二屆移師[臺北小巨蛋](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink")，第三屆再移至[臺北和平籃球館](../Page/臺北和平籃球館.md "wikilink")。
 
@@ -151,12 +149,9 @@ International）等級，冠軍積分280分，首屆總獎金50萬美元（包�
 ## 外部連結
 
   - [WTA台灣公開賽](http://www.taiwanopen.com.tw)
-  - [Facebook－WTA Taiwan Open
-    臺灣公開賽](https://www.facebook.com/wtatwopen/?fref=ts)
+  - [Facebook－WTA Taiwan Open 臺灣公開賽](https://www.facebook.com/wtatwopen/?fref=ts)
 
-[分類:WTA巡迴賽](https://zh.wikipedia.org/wiki/分類:WTA巡迴賽 "wikilink")
-[分類:台灣網球賽事](https://zh.wikipedia.org/wiki/分類:台灣網球賽事 "wikilink")
-[分類:2016年建立的週期性體育事件](https://zh.wikipedia.org/wiki/分類:2016年建立的週期性體育事件 "wikilink")
+[分類:WTA巡迴賽](https://zh.wikipedia.org/wiki/分類:WTA巡迴賽 "wikilink") [分類:台灣網球賽事](https://zh.wikipedia.org/wiki/分類:台灣網球賽事 "wikilink") [分類:2016年建立的週期性體育事件](https://zh.wikipedia.org/wiki/分類:2016年建立的週期性體育事件 "wikilink")
 
 [Category:2016年台灣建立](https://zh.wikipedia.org/wiki/Category:2016年台灣建立 "wikilink")
 

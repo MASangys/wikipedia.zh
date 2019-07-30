@@ -1,8 +1,4 @@
-**株式會社EARLY
-WING**（，）是於2009年11月設立的[日本](../Page/日本.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，主要經營[聲優事業](../Page/聲優.md "wikilink")，並分別在2012年8月8日及2014年5月設立新事務所「株式會社[Ability
-Soul
-Pro](https://zh.wikipedia.org/wiki/#Ability_Soul_Pro "wikilink")」與「株式會社[WITH
-LINE](https://zh.wikipedia.org/wiki/#WITH_LINE "wikilink")」。
+**株式會社EARLY WING**（，）是於2009年11月設立的[日本](../Page/日本.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，主要經營[聲優](../Page/聲優.md "wikilink")事業，並分別在2012年8月8日及2014年5月設立新事務所「株式會社[Ability Soul Pro](https://zh.wikipedia.org/wiki/#Ability_Soul_Pro "wikilink")」與「株式會社[WITH LINE](https://zh.wikipedia.org/wiki/#WITH_LINE "wikilink")」。
 
 ## EARLY WING集團
 
@@ -231,8 +227,7 @@ LINE](https://zh.wikipedia.org/wiki/#WITH_LINE "wikilink")」。
 
   - [金子森](https://zh.wikipedia.org/wiki/金子森 "wikilink")
 
-  - [越田直樹](../Page/越田直樹.md "wikilink")（轉屬[Mausu
-    Promotion後引退](../Page/Mausu_Promotion.md "wikilink")）
+  - [越田直樹](../Page/越田直樹.md "wikilink")（轉屬[Mausu Promotion後引退](../Page/Mausu_Promotion.md "wikilink")）
 
   - （現屬[進戲團夢命Classics](https://zh.wikipedia.org/wiki/進戲團夢命Classics "wikilink")）
 
@@ -254,11 +249,9 @@ LINE](https://zh.wikipedia.org/wiki/#WITH_LINE "wikilink")」。
 
   - （，自由身）
 
-  - [谷邊由美](https://zh.wikipedia.org/wiki/谷邊由美 "wikilink")（，現屬[C2
-    Präparat](https://zh.wikipedia.org/wiki/C2_Präparat "wikilink")）
+  - [谷邊由美](https://zh.wikipedia.org/wiki/谷邊由美 "wikilink")（，現屬[C2 Präparat](https://zh.wikipedia.org/wiki/C2_Präparat "wikilink")）
 
-  - [山川朋美](https://zh.wikipedia.org/wiki/山川朋美 "wikilink")（現屬[LEOPARD
-    STEEL](https://zh.wikipedia.org/wiki/LEOPARD_STEEL "wikilink")）
+  - [山川朋美](https://zh.wikipedia.org/wiki/山川朋美 "wikilink")（現屬[LEOPARD STEEL](https://zh.wikipedia.org/wiki/LEOPARD_STEEL "wikilink")）
 
   - （現屬[星塵傳播](../Page/星塵傳播.md "wikilink")）
 
@@ -282,11 +275,7 @@ LINE](https://zh.wikipedia.org/wiki/#WITH_LINE "wikilink")」。
       - [WITH LINE官方網站](http://www.withline.jp/)
       - [ETS聲優／旁白訓練工作室官方網站](http://sntstudio.com/)
 
-[Category:EARLY_WING](https://zh.wikipedia.org/wiki/Category:EARLY_WING "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink")
-[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
-[Category:赤坂](https://zh.wikipedia.org/wiki/Category:赤坂 "wikilink")
+[Category:EARLY_WING](https://zh.wikipedia.org/wiki/Category:EARLY_WING "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink") [Category:赤坂](https://zh.wikipedia.org/wiki/Category:赤坂 "wikilink")
 
 1.
 2.

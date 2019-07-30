@@ -1,10 +1,8 @@
-**《M》**是[南韓五人男子組合](https://zh.wikipedia.org/wiki/南韓 "wikilink")[BIGBANG回歸企劃](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")「Made
-Series」的第一張作品，共收錄兩首主打新曲，分別為〈Loser〉與〈Bae Bae〉，於2015年5月1日正式發行。
+**《M》**是[南韓五人男子組合](https://zh.wikipedia.org/wiki/南韓 "wikilink")[BIGBANG回歸企劃](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")「Made Series」的第一張作品，共收錄兩首主打新曲，分別為〈Loser〉與〈Bae Bae〉，於2015年5月1日正式發行。
 
 ## 概要
 
-睽違2年10個月，BIGBANG以企劃「Made
-Series」回歸歌壇，預計以2015年5月1日為起始點，到8月份為止，每月1日均推出新作品，最後於9月1日發行「Made」完整專輯\[1\]。2015年4月25日，BIGBANG於世界巡迴演唱會「MADE」首爾站首度公開新曲的舞台演出。\[2\]
+睽違2年10個月，BIGBANG以企劃「Made Series」回歸歌壇，預計以2015年5月1日為起始點，到8月份為止，每月1日均推出新作品，最後於9月1日發行「Made」完整專輯\[1\]。2015年4月25日，BIGBANG於世界巡迴演唱會「MADE」首爾站首度公開新曲的舞台演出。\[2\]
 
 本次音樂錄影帶則與曾製作〈〉與〈I'm the Best〉的導演徐賢勝（音譯）合作。
 
@@ -18,8 +16,7 @@ Series」回歸歌壇，預計以2015年5月1日為起始點，到8月份為止�
 
 <!-- end list -->
 
-  - **Bae Bae**：歌詞寫道「Baby
-    baby，你可以像現在這樣一直保持美麗嗎，歲月流逝了也可以讓我心動」，「你不要凋零，為了自私的我」，描述向愛人表白的內容，希望與戀人的愛情保持與現在一樣的心情。\[5\]\[6\]
+  - **Bae Bae**：歌詞寫道「Baby baby，你可以像現在這樣一直保持美麗嗎，歲月流逝了也可以讓我心動」，「你不要凋零，為了自私的我」，描述向愛人表白的內容，希望與戀人的愛情保持與現在一樣的心情。\[5\]\[6\]
 
 ## 曲目
 
@@ -134,15 +131,7 @@ Series」回歸歌壇，預計以2015年5月1日為起始點，到8月份為止�
 
 ## 引用資料
 
-[Category:BIGBANG單曲](https://zh.wikipedia.org/wiki/Category:BIGBANG單曲 "wikilink")
-[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink")
-[Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2015年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2015年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon單曲月榜冠軍作品 "wikilink")
-[Category:2015年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon數位下載週榜冠軍作品 "wikilink")
-[Category:2015年Gaon數位下載月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon數位下載月榜冠軍作品 "wikilink")
-[Category:2015年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon流媒體週榜冠軍作品 "wikilink")
-[Category:2015年Gaon流媒體月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon流媒體月榜冠軍作品 "wikilink")
+[Category:BIGBANG單曲](https://zh.wikipedia.org/wiki/Category:BIGBANG單曲 "wikilink") [Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink") [Category:2015年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon單曲週榜冠軍作品 "wikilink") [Category:2015年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon單曲月榜冠軍作品 "wikilink") [Category:2015年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2015年Gaon數位下載月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon數位下載月榜冠軍作品 "wikilink") [Category:2015年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon流媒體週榜冠軍作品 "wikilink") [Category:2015年Gaon流媒體月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon流媒體月榜冠軍作品 "wikilink")
 
 1.
 2.

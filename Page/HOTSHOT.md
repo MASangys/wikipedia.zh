@@ -1,6 +1,4 @@
-**HOTSHOT**（）為韓國[Star
-Crew娛樂旗下的六人男子流行音樂團體](https://zh.wikipedia.org/wiki/Star_Crew娛樂 "wikilink")，成員包括晙赫、Timoteo、[太鉉](../Page/盧太鉉.md "wikilink")、[成雲](../Page/河成雲.md "wikilink")、尹山、鎬廷\[1\]。出道日期為2014年10月31日。官方粉絲名為“핫플（hotple）”，為hot
-place的縮寫，為熱門場所的意思，包含著火熱的意義。
+**HOTSHOT**（）為韓國[Star Crew娛樂旗下的六人男子流行音樂團體](https://zh.wikipedia.org/wiki/Star_Crew娛樂 "wikilink")，成員包括晙赫、Timoteo、[太鉉](../Page/盧太鉉.md "wikilink")、[成雲](../Page/河成雲.md "wikilink")、尹山、鎬廷\[1\]。出道日期為2014年10月31日。官方粉絲名為“핫플（hotple）”，為hot place的縮寫，為熱門場所的意思，包含著火熱的意義。
 
 ## 發展歷程
 
@@ -8,17 +6,15 @@ place的縮寫，為熱門場所的意思，包含著火熱的意義。
 
 晙赫因與哥哥一起練習的影片傳到網上作為契機成為HOTSHOT一員\[2\]。
 
-Timoteo曾是[SM娛樂練習生](../Page/SM娛樂.md "wikilink")，更一度被選為[EXO成員](../Page/EXO.md "wikilink")，後來因個人因素退出出道計劃\[3\]。
+Timoteo曾是[SM娛樂](../Page/SM娛樂.md "wikilink")練習生，更一度被選為[EXO](../Page/EXO.md "wikilink")成員，後來因個人因素退出出道計劃\[3\]。
 
-太鉉在2007年至2008年間成為著名Krump舞團[Monster Woo
-Fam最年少的成員](https://zh.wikipedia.org/wiki/Monster_Woo_Fam "wikilink")，並取藝名Kid
-Monster活動\[4\]。
+太鉉在2007年至2008年間成為著名Krump舞團[Monster Woo Fam最年少的成員](https://zh.wikipedia.org/wiki/Monster_Woo_Fam "wikilink")，並取藝名Kid Monster活動\[4\]。
 
 尹山曾在法國居住長達8年，能說出一口流利的法語\[5\]，中途回韓國遊玩期間，在喝咖啡時被星探發現。
 
 鎬廷因在藝高上學時的散發著少年的氣息，而被星探發現。
 
-成雲曾參加[JYP娛樂甄選](../Page/JYP娛樂.md "wikilink")，但在最後的回合遭到淘汰，及後在大學公演時被星探發現並直接被公司邀請成為HOTSHOT最後一員。
+成雲曾參加[JYP娛樂](../Page/JYP娛樂.md "wikilink")甄選，但在最後的回合遭到淘汰，及後在大學公演時被星探發現並直接被公司邀請成為HOTSHOT最後一員。
 
 ### 2014年：韓國出道、首張單曲專輯《Take A Shot》
 
@@ -48,49 +44,37 @@ Monster活動\[4\]。
 
 #### 盧太鉉、河成雲参加《PRODUCE 101 第二季》
 
-3月，Star Crew娛樂宣布成員[Kid
-Monster](../Page/盧太鉉.md "wikilink")、[成雲將以本名](../Page/河成雲.md "wikilink")（盧太鉉、河成雲）參加《[PRODUCE
-101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》。
+3月，Star Crew娛樂宣布成員[Kid Monster](../Page/盧太鉉.md "wikilink")、[成雲將以本名](../Page/河成雲.md "wikilink")（盧太鉉、河成雲）參加《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》。
 
-最終成雲獲得第11名，為最後一名加入[Wanna
-One的成員](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。太鉉獲得第25名。
+最終成雲獲得第11名，為最後一名加入[Wanna One的成員](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。太鉉獲得第25名。
 
 6月20日，HOTSHOT被SSEN 10邀請成為其服裝品牌代表人\[10\]。
 
-7月4日，Star Crew娛樂宣布HOTSHOT將於7月15日回歸，屆時太鉉合流，成雲因[Wanna
-One活動限制而未能參與](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。
+7月4日，Star Crew娛樂宣布HOTSHOT將於7月15日回歸，屆時太鉉合流，成雲因[Wanna One活動限制而未能參與](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。
 
-7月11日，Star
-Crew娛樂宣布HOTSHOT將以新曲《Jelly》回歸，當中太鉉參與編舞的部分，晙赫和尹山參與作詞的部分，Timoteo則參與製作的部分\[11\]
+7月11日，Star Crew娛樂宣布HOTSHOT將以新曲《Jelly》回歸，當中太鉉參與編舞的部分，晙赫和尹山參與作詞的部分，Timoteo則參與製作的部分\[11\]
 
 並且太鉉宣布開始以**本名**活動，日後進行HOTSHOT相關活動不再使用藝名Kid Monster。
 
-7月11日，[LOEN娛樂宣布](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")[JBJ出道的詳細內容正在討論中](../Page/JBJ.md "wikilink")，而Star
-Crew娛樂已經准許太鉉進行[JBJ的相關活動](../Page/JBJ.md "wikilink")，JBJ
-將於10月18日出道。\[12\]
+7月11日，[LOEN娛樂宣布](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")[JBJ](../Page/JBJ.md "wikilink")出道的詳細內容正在討論中，而Star Crew娛樂已經准許太鉉進行[JBJ](../Page/JBJ.md "wikilink")的相關活動，JBJ 將於10月18日出道。\[12\]
 
 7月15日，MBC Show\!音樂中心播放首次亮相 《Jelly》 的節目後，登上Naver立刻實時搜索語1位\[13\]。
 
-9月14日，官咖公佈了官方粉絲名為“핫플（hotple）”，為hot
-place的縮寫，為熱門場所的意思，包含著火熱的意義。像HOTSHOT的意義為“有名的人們”一樣，是“有名的人們聚在一起的地方”的意義，即
-“hotple是HOTSHOT們聚在一起的地方” 的意義。
+9月14日，官咖公佈了官方粉絲名為“핫플（hotple）”，為hot place的縮寫，為熱門場所的意思，包含著火熱的意義。像HOTSHOT的意義為“有名的人們”一樣，是“有名的人們聚在一起的地方”的意義，即 “hotple是HOTSHOT們聚在一起的地方” 的意義。
 
 #### 金Timoteo、高鎬廷參加《[The Unit](../Page/The_Unit.md "wikilink")》
 
-10月28日，成員金Timoteo、高鎬廷參加[KBS2偶像再造選秀節目](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[The
-Unit](../Page/The_Unit.md "wikilink")》。
+10月28日，成員金Timoteo、高鎬廷參加[KBS2偶像再造選秀節目](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[The Unit](../Page/The_Unit.md "wikilink")》。
 
 11月5日，發行三周年紀念專輯《Time To FLY HIGH》。
 
 ### 2018年：《The Unit》结束、第二張迷你專輯《Early Flowering》
 
-2月11日，在選秀節目《[The
-Unit](../Page/The_Unit.md "wikilink")》的最後一集中，鎬廷獲得第3名，進入期間限定團體[UNB出道](../Page/UNB.md "wikilink")。金Timoteo以第10名落選。
+2月11日，在選秀節目《[The Unit](../Page/The_Unit.md "wikilink")》的最後一集中，鎬廷獲得第3名，進入期間限定團體[UNB](../Page/UNB.md "wikilink")出道。金Timoteo以第10名落選。
 
 9月4日，Star Crew娛樂預計在本月底或是10月初時回歸。\[14\]。
 
-10月15日，Star Crew娛樂宣布確定於11月8日回歸，這也是太鉉和鎬廷結束JBJ、UNB活動歸隊後睽違一年的回歸，而成雲因[Wanna
-One活動限制而未能參與](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。\[15\]
+10月15日，Star Crew娛樂宣布確定於11月8日回歸，這也是太鉉和鎬廷結束JBJ、UNB活動歸隊後睽違一年的回歸，而成雲因[Wanna One活動限制而未能參與](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。\[15\]
 
 11月2日，原定11月8日的回歸延至11月15日，Star Crew娛樂說明爲了完成度，而全面修改編舞。\[16\]
 
@@ -695,9 +679,7 @@ One活動限制而未能參與](https://zh.wikipedia.org/wiki/Wanna_One "wikilin
   - [鎬廷 Instagram](https://www.instagram.com/kkkhj__/)
   - [成云 Instagram](https://www.instagram.com/gooreumseng/)
 
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
+[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 
 1.  ，簡介上寫出成員的英文藝名
 2.

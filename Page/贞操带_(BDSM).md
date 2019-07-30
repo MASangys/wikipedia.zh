@@ -8,8 +8,7 @@
 
 ## 贞操笼
 
-[Chastity_cage.jpg](https://zh.wikipedia.org/wiki/File:Chastity_cage.jpg "fig:Chastity_cage.jpg")
-男人使用的一种流行的贞操装置为通常被称为贞操笼或贞操管。它们几乎是用作性玩具和BDSM游戏，\[4\]贞操笼直接套在一个男人的阴茎，使不可能勃起或勃起时不舒服。贞操笼可以与性玩具（如CBT）相结合。
+[Chastity_cage.jpg](https://zh.wikipedia.org/wiki/File:Chastity_cage.jpg "fig:Chastity_cage.jpg") 男人使用的一种流行的贞操装置为通常被称为贞操笼或贞操管。它们几乎是用作性玩具和BDSM游戏，\[4\]贞操笼直接套在一个男人的阴茎，使不可能勃起或勃起时不舒服。贞操笼可以与性玩具（如CBT）相结合。
 
 大多数贞操笼在阴囊后有环，通过铰链或销子与贞操笼令一部分连接。贞操笼的前端有一个孔，以方面通尿。配合排气孔可以做到长期磨损和清洗。
 
@@ -17,14 +16,11 @@
 
 ## 男性贞操带
 
-[Carrara_klein_frontaal.jpg](https://zh.wikipedia.org/wiki/File:Carrara_klein_frontaal.jpg "fig:Carrara_klein_frontaal.jpg")
-
-男性的佛罗伦萨式貞操帶，为一个圆形的水平环绕腰部，向下延伸覆盖佩戴者的生殖器。大多数高度安全的贞操带是由不锈钢制成，大多数使用挂锁，而且挂锁所在处隐蔽，使其切割困难或者不可能。
+[Carrara_klein_frontaal.jpg](https://zh.wikipedia.org/wiki/File:Carrara_klein_frontaal.jpg "fig:Carrara_klein_frontaal.jpg")  男性的佛罗伦萨式貞操帶，为一个圆形的水平环绕腰部，向下延伸覆盖佩戴者的生殖器。大多数高度安全的贞操带是由不锈钢制成，大多数使用挂锁，而且挂锁所在处隐蔽，使其切割困难或者不可能。
 
 ## 女性贞操带
 
-[Carrara_female.jpg](https://zh.wikipedia.org/wiki/File:Carrara_female.jpg "fig:Carrara_female.jpg")
-现代的女性贞操带一般使用传统的佛罗伦萨式，即在腰部和两腿之间包括生殖器进行覆盖。而贞操带内可以附带配具，如在阴道和肛门处安装假阴茎。
+[Carrara_female.jpg](https://zh.wikipedia.org/wiki/File:Carrara_female.jpg "fig:Carrara_female.jpg") 现代的女性贞操带一般使用传统的佛罗伦萨式，即在腰部和两腿之间包括生殖器进行覆盖。而贞操带内可以附带配具，如在阴道和肛门处安装假阴茎。
 
 由于有长期佩戴的要求，遮挡处必须适应佩戴者的卫生，相关设计类型有：
 
@@ -40,12 +36,11 @@
 
 钥匙需要安全保管。2008年，一个人因为遗失钛制贞操设备的钥匙，导致消防员出动帮助解锁，并最终被安全得救。\[5\]
 
-长期的[色情性拒绝性也会出现问题](../Page/色情性拒绝.md "wikilink")。
+长期的[色情性拒绝](../Page/色情性拒绝.md "wikilink")性也会出现问题。
 
 ## 制作业相关
 
-大多数现代贞操带源于Hal
-Higginbottom在1956年的设计，\[6\]有时现代化的佛罗伦萨式贞操带被称为"Tollyboy-style"或"Tollyboy-type"贞操带，该称呼源于他的公司。
+大多数现代贞操带源于Hal Higginbottom在1956年的设计，\[6\]有时现代化的佛罗伦萨式贞操带被称为"Tollyboy-style"或"Tollyboy-type"贞操带，该称呼源于他的公司。
 
 时代杂志在1969年\[7\]和各种报纸在1978年\[8\]采访了英国的贞操带制造者大卫伦威克，他声称他的客户遍布全球，并且商业繁荣。
 
@@ -63,8 +58,7 @@ Higginbottom在1956年的设计，\[6\]有时现代化的佛罗伦萨式贞操�
   - Locked In Steel（美国新罕布什尔州）
   - Tollyboy（英国）
 
-美国内华达州的A.L.
-Enterprises在20世纪90年代末由多丽丝和弗兰克·米勒开始出售的CB系列塑料贞操笼\[12\]，并声称拥有71％的市场。\[13\]
+美国内华达州的A.L. Enterprises在20世纪90年代末由多丽丝和弗兰克·米勒开始出售的CB系列塑料贞操笼\[12\]，并声称拥有71％的市场。\[13\]
 
 尽管没有可靠的统计数据有关贞操带的情况，从厂家的报告表明，大多数在欧洲和美国销售的贞操带，购买者大多为男性，而女性贞操带很少用作预防强奸。\[14\]
 

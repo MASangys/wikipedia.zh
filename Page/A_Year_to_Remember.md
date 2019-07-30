@@ -1,5 +1,4 @@
-《**A Year To
-Remember**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Boy'z的第三張音樂專輯](../Page/Boy'z.md "wikilink")，於2003年12月18日推出。
+《**A Year To Remember**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Boy'z](../Page/Boy'z.md "wikilink")的第三張音樂專輯，於2003年12月18日推出。
 
 ## 曲目列表
 
@@ -11,9 +10,4 @@ Remember**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md
 
 ## 專輯派台歌曲成績
 
-[Category:Boy'z音樂專輯](https://zh.wikipedia.org/wiki/Category:Boy'z音樂專輯 "wikilink")
-[Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")
-[Category:2003年迷你專輯](https://zh.wikipedia.org/wiki/Category:2003年迷你專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:英皇娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:英皇娛樂音樂專輯 "wikilink")
+[Category:Boy'z音樂專輯](https://zh.wikipedia.org/wiki/Category:Boy'z音樂專輯 "wikilink") [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink") [Category:2003年迷你專輯](https://zh.wikipedia.org/wiki/Category:2003年迷你專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:英皇娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:英皇娛樂音樂專輯 "wikilink")

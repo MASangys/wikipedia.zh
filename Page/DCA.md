@@ -2,8 +2,7 @@
 
 ## 计算机
 
-  - [分布式计算](../Page/分布式计算.md "wikilink")（Distributed Computing
-    Architecture），一种计算机处理方法
+  - [分布式计算](../Page/分布式计算.md "wikilink")（Distributed Computing Architecture），一种计算机处理方法
 
   - ，IBM文档标准
 
@@ -15,8 +14,7 @@
 
   - ，前[美国国防信息系统局名称](https://zh.wikipedia.org/wiki/美国国防信息系统局 "wikilink")
 
-  - [Defensive counter
-    air](https://zh.wikipedia.org/wiki/Defensive_counter_air "wikilink")，军事用语之防空
+  - [Defensive counter air](https://zh.wikipedia.org/wiki/Defensive_counter_air "wikilink")，军事用语之防空
 
 ## 组织
 
@@ -56,8 +54,7 @@
 
   - ，前荷属安的列斯航空公司
 
-  - [罗纳德·里根华盛顿国家机场](../Page/罗纳德·里根华盛顿国家机场.md "wikilink")（Ronald Reagan
-    Washington National Airport）美国弗吉尼亚州阿灵顿县，IATA代码
+  - [罗纳德·里根华盛顿国家机场](../Page/罗纳德·里根华盛顿国家机场.md "wikilink")（Ronald Reagan Washington National Airport）美国弗吉尼亚州阿灵顿县，IATA代码
 
 ## 其他
 
@@ -65,5 +62,4 @@
 
   - [平均成本法](../Page/平均成本法.md "wikilink")（Dollar cost averaging）, 一种投资策略
 
-  - [迪士尼加州冒險樂園](../Page/迪士尼加州冒險樂園.md "wikilink")（Disney California
-    Adventure），位于加利福尼亚阿纳海姆
+  - [迪士尼加州冒險樂園](../Page/迪士尼加州冒險樂園.md "wikilink")（Disney California Adventure），位于加利福尼亚阿纳海姆

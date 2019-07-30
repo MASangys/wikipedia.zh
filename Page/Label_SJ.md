@@ -1,14 +1,10 @@
-**Label SJ**為韓國[SM娛樂旗下之獨立廠牌](../Page/SM娛樂.md "wikilink")，專門負責男子團體[Super
-Junior](../Page/Super_Junior.md "wikilink")（含個人、子團體）的專輯製作與相關活動。\[1\]
+**Label SJ**為韓國[SM娛樂](../Page/SM娛樂.md "wikilink")旗下之獨立廠牌，專門負責男子團體[Super Junior](../Page/Super_Junior.md "wikilink")（含個人、子團體）的專輯製作與相關活動。\[1\]
 
 ## 創立
 
-2015年11月6日，男子團體[Super
-Junior出道](../Page/Super_Junior.md "wikilink")10周年，同時所屬經紀公司[SM娛樂宣布創立專屬廠牌](../Page/SM娛樂.md "wikilink")**Label
-SJ**，此後將全面負責團體與成員個人之活動、專輯製作，公司方面將給予製作費及行銷上的支持。\[2\]
+2015年11月6日，男子團體[Super Junior出道](../Page/Super_Junior.md "wikilink")10周年，同時所屬經紀公司[SM娛樂](../Page/SM娛樂.md "wikilink")宣布創立專屬廠牌**Label SJ**，此後將全面負責團體與成員個人之活動、專輯製作，公司方面將給予製作費及行銷上的支持。\[2\]
 
-Label SJ的成立為[Super
-Junior成員們與經紀公司商討兩年之結果](../Page/Super_Junior.md "wikilink")；營運方向由成員們及經紀人共同決策。\[3\]
+Label SJ的成立為[Super Junior成員們與經紀公司商討兩年之結果](../Page/Super_Junior.md "wikilink")；營運方向由成員們及經紀人共同決策。\[3\]
 
 ## 藝人
 
@@ -16,21 +12,20 @@ Junior成員們與經紀公司商討兩年之結果](../Page/Super_Junior.md "wi
 \* **[Super Junior](../Page/Super_Junior.md "wikilink")**
 
 **子團體**
-\* **[Super
-Junior-K.R.Y.](../Page/Super_Junior-K.R.Y..md "wikilink")**
+\* **[Super Junior-K.R.Y.](../Page/Super_Junior-K.R.Y..md "wikilink")**
 \* **[Super Junior-T](../Page/Super_Junior-T.md "wikilink")**
 \* **[Super Junior-M](../Page/Super_Junior-M.md "wikilink")**
 \* **[Super Junior-Happy](../Page/Super_Junior-Happy.md "wikilink")**
-\* **[Super Junior Donghae &
-Eunhyuk](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")**
-**個人**
+\* **[Super Junior Donghae & Eunhyuk](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")**
+ **個人**
 \* **[藝聲](../Page/藝聲.md "wikilink")**
 \* **[厲旭](../Page/厲旭.md "wikilink")**
 \* **[圭賢](../Page/圭賢.md "wikilink")**
+\* **[強仁](../Page/強仁.md "wikilink")** \[4\]
 \* **[周覓](https://zh.wikipedia.org/wiki/周覓 "wikilink")**
 
 ***已離開***
-*[Henry](../Page/劉憲華.md "wikilink")（Super Junior-M）*\[4\]
+*[Henry](../Page/劉憲華.md "wikilink")（Super Junior-M）*\[5\]
 
 ## 專輯及單曲
 
@@ -292,15 +287,14 @@ Eunhyuk](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")**
 
   - （[S.M. Entertainment](../Page/SM娛樂.md "wikilink")）
 
-  - [周觅](http://zhoumi.smtown.com/) （[S.M.
-    Entertainment](../Page/SM娛樂.md "wikilink")）
+  - [周觅](http://zhoumi.smtown.com/) （[S.M. Entertainment](../Page/SM娛樂.md "wikilink")）
 
   - （[S.M. Entertainment](../Page/SM娛樂.md "wikilink")）
 
-[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink")
-[Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")
+[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink") [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")
 
 1.
 2.
 3.
 4.
+5.

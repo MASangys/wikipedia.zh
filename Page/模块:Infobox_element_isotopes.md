@@ -1,9 +1,6 @@
 local p = {}
 
-\--引入的程式庫 local other_wiki_link_module = require('Module:Ilh') local
-yesno = require('Module:Yesno') local elements =
-require('Module:Element') local element_data = require(
-'Module:Element/data' ) local err_msg = require('Module:Error')
+\--引入的程式庫 local other_wiki_link_module = require('Module:Ilh') local yesno = require('Module:Yesno') local elements = require('Module:Element') local element_data = require( 'Module:Element/data' ) local err_msg = require('Module:Error')
 
 \--靜態變數與函數 local static_funcs = {
 
@@ -28,9 +25,7 @@ require('Module:Element') local element_data = require(
 `   table_head_isobox_isotope_outline_header = "\n! colspan=3 |",`
 `   no_value = ' -'--`
 
-} function static_funcs.Isotope_name(mass_data, symbol_data) return
-"<sup>" .. mass_data .. "</sup>" .. symbol_data end function
-static_funcs.get_count(input_list)
+} function static_funcs.Isotope_name(mass_data, symbol_data) return "<sup>" .. mass_data .. "</sup>" .. symbol_data end function static_funcs.get_count(input_list)
 
 `   count = 0 for __id, __value in pairs(input_list.list) do `
 `       if __value ~= nil then `
@@ -45,18 +40,7 @@ static_funcs.get_count(input_list)
 `   end `
 `   return count `
 
-end function static_funcs.observationally_stable(first_line) if
-first_line then return
-"[觀測上穩定](https://zh.wikipedia.org/wiki/觀測上穩定的同位素 "wikilink")"
-else return "觀測上穩定" end end function static_funcs.stable(first_line)
-if first_line then return
-"[穩定](https://zh.wikipedia.org/wiki/穩定同位素 "wikilink")"
-else return "穩定" end end function static_funcs.neutron(neutron_count)
-return "，帶" .. neutron_count .. "個[中子](../Page/中子.md "wikilink")" end
-function static_funcs.ref(ref_str) if ref_str then return ref_str
-else return '' end end function static_funcs.default_decay_arg(flag)
-if flag then return "default" else return "__default__" end end
-function static_funcs.rowspan(count, head)
+end function static_funcs.observationally_stable(first_line) if first_line then return "[觀測上穩定](https://zh.wikipedia.org/wiki/觀測上穩定的同位素 "wikilink")" else return "觀測上穩定" end end function static_funcs.stable(first_line) if first_line then return "[穩定](https://zh.wikipedia.org/wiki/穩定同位素 "wikilink")" else return "穩定" end end function static_funcs.neutron(neutron_count) return "，帶" .. neutron_count .. "個[中子](../Page/中子.md "wikilink")" end function static_funcs.ref(ref_str) if ref_str then return ref_str else return '' end end function static_funcs.default_decay_arg(flag) if flag then return "default" else return "__default__" end end function static_funcs.rowspan(count, head)
 
 `   if head then return "\n! rowspan=\"" .. count .. "\" style=\"text-align:right; vertical-align:middle;\" | " `
 `   else return "\n| rowspan=\"" .. count .. "\" style=\"text-align:right; vertical-align:middle;\" | " end`
@@ -71,12 +55,9 @@ end function static_funcs.check_natural_abundance(str)
 `   if result == nil then result = 0 end `
 `   return result`
 
-end function static_funcs.get_link(loc_link, tsl_link, tsl_lang,
-display_sym)
+end function static_funcs.get_link(loc_link, tsl_link, tsl_lang, display_sym)
 
-`   if loc_link == nil then link_str = display_sym else link_str = "`[`"``
- ``..``   ``display_sym``
- ``.."`](https://zh.wikipedia.org/wiki/"_.._loc_link_.._" "wikilink")`" end`
+`   if loc_link == nil then link_str = display_sym else link_str = "`[`"``   ``..``   ``display_sym``   ``.."`](https://zh.wikipedia.org/wiki/"_.._loc_link_.._" "wikilink")`" end`
 `   if tsl_link ~= nil and tsl_lang ~= nil and loc_link ~= nil then`
 `       --construct ilh args`
 `       link_str = other_wiki_link_module.main({`
@@ -85,28 +66,17 @@ display_sym)
 `   end`
 `   return link_str`
 
-end function
-static_funcs.get_link_with_nuclear_isomer_link(loc_link,
-tsl_link, tsl_lang,
+end function static_funcs.get_link_with_nuclear_isomer_link(loc_link, tsl_link, tsl_lang,
 
 `       display_mass, display_nuclear_isomer, display_nuclear_isomer_link, display_symbol `
 `   ) `
-`       if loc_link == nil then link_str = "`<sup>`"``   ``..``
- ``display_mass``   ``..``   ``display_nuclear_isomer``
- ``.."`</sup>`" .. display_symbol else `
+`       if loc_link == nil then link_str = "`<sup>`"``   ``..``   ``display_mass``   ``..``   ``display_nuclear_isomer``   ``.."`</sup>`" .. display_symbol else `
 `           if display_nuclear_isomer_link ~= nil then`
-`               link_str = "`<sup>[`'``   ``..``   ``display_mass``
- ``.."`](https://zh.wikipedia.org/wiki/"_.._loc_link_.._' "wikilink")`" ..`
-`                   "`[`'``   ``..``   ``display_nuclear_isomer``
- ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._display_nuclear_isomer_link_.._' "wikilink")</sup>`" ..`
-`                   "`[`'``   ``..``   ``display_symbol``
- ``.."`](https://zh.wikipedia.org/wiki/"_.._loc_link_.._' "wikilink")`"`
+`               link_str = "`<sup>[`'``   ``..``   ``display_mass``   ``.."`](https://zh.wikipedia.org/wiki/"_.._loc_link_.._' "wikilink")`" ..`
+`                   "`[`'``   ``..``   ``display_nuclear_isomer``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._display_nuclear_isomer_link_.._' "wikilink")</sup>`" ..`
+`                   "`[`'``   ``..``   ``display_symbol``   ``.."`](https://zh.wikipedia.org/wiki/"_.._loc_link_.._' "wikilink")`"`
 `           else`
-`               link_str = "`[<sup>`"``   ``..``   ``display_mass``
- ``..``   ``display_nuclear_isomer``   ``.."`</sup>`"``   ``..``
- ``display_symbol``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._loc_link_.._" "wikilink")`"`
+`               link_str = "`[<sup>`"``   ``..``   ``display_mass``   ``..``   ``display_nuclear_isomer``   ``.."`</sup>`"``   ``..``   ``display_symbol``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._loc_link_.._" "wikilink")`"`
 `           end`
 `       end`
 `       if tsl_link ~= nil and tsl_lang ~= nil and loc_link ~= nil then`
@@ -115,18 +85,14 @@ tsl_link, tsl_lang,
 `                       other_wiki_link_module.main({`
 `                           ['lang'] = tsl_lang, ['lang-code'] = tsl_lang, [1] = loc_link, [2] = tsl_link, ['d'] = display_mass`
 `                       }) ..`
-`                   "`[`'``   ``..``   ``display_nuclear_isomer``
- ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._display_nuclear_isomer_link_.._' "wikilink")</sup>`" ..`
+`                   "`[`'``   ``..``   ``display_nuclear_isomer``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._display_nuclear_isomer_link_.._' "wikilink")</sup>`" ..`
 `                       other_wiki_link_module.main({`
 `                           ['lang'] = tsl_lang, ['lang-code'] = tsl_lang, [1] = loc_link, [2] = tsl_link, ['d'] = display_symbol`
 `                       })`
 `           else`
 `               link_str = other_wiki_link_module.main({`
 `                   ['lang'] = tsl_lang, ['lang-code'] = tsl_lang, [1] = loc_link, [2] = tsl_link, `
-`                   ['d'] = "`<sup>`"``   ``..``   ``display_mass``
- ``..``   ``display_nuclear_isomer``
- ``.."`</sup>`" .. display_symbol`
+`                   ['d'] = "`<sup>`"``   ``..``   ``display_mass``   ``..``   ``display_nuclear_isomer``   ``.."`</sup>`" .. display_symbol`
 `               })`
 `           end`
 `       end`
@@ -244,16 +210,8 @@ function p.isotope_bottom_nav(frame)
 `   next_ele = elements.next_element(sym)`
 
 `   if last_ele == nil or next_ele == nil then return '' end`
-`   body = body .. "\n| style=\"text-align:left; vertical-align:middle;\" |`<small><span style=\"font-weight:normal;\">[`←"``
- ``..``   ``last_ele.Symbol``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._last_ele.page_.._"的同位素 "wikilink")<sub>`（`[`'``
- ``..``   ``last_ele.Z``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._last_ele.page_.._' "wikilink")`）`</sub>`"`
-`   body = body .. "\n| style=\"text-align:right; vertical-align:middle;\" |`<small><span style=\"font-weight:normal;\">[`"``
- ``..``   ``next_ele.Symbol``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._next_ele.page_.._"的同位素 "wikilink")<sub>`（`[`'``
- ``..``   ``next_ele.Z``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._next_ele.page_.._' "wikilink")`）`</sub>[`→`](https://zh.wikipedia.org/wiki/"_.._next_ele.page_.._"的同位素 "wikilink")`"`
+`   body = body .. "\n| style=\"text-align:left; vertical-align:middle;\" |`<small><span style=\"font-weight:normal;\">[`←"``   ``..``   ``last_ele.Symbol``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._last_ele.page_.._"的同位素 "wikilink")<sub>`（`[`'``   ``..``   ``last_ele.Z``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._last_ele.page_.._' "wikilink")`）`</sub>`"`
+`   body = body .. "\n| style=\"text-align:right; vertical-align:middle;\" |`<small><span style=\"font-weight:normal;\">[`"``   ``..``   ``next_ele.Symbol``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._next_ele.page_.._"的同位素 "wikilink")<sub>`（`[`'``   ``..``   ``next_ele.Z``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._next_ele.page_.._' "wikilink")`）`</sub>[`→`](https://zh.wikipedia.org/wiki/"_.._next_ele.page_.._"的同位素 "wikilink")`"`
 `   body = body .. "\n|}"`
 `   return body`
 
@@ -673,5 +631,4 @@ end
 
 return p
 
-[Category:含有錯誤元素符號的條目](https://zh.wikipedia.org/wiki/Category:含有錯誤元素符號的條目 "wikilink")
-[Category:"_.._error_category_string_.._"](https://zh.wikipedia.org/wiki/Category:"_.._error_category_string_.._" "wikilink")
+[Category:含有錯誤元素符號的條目](https://zh.wikipedia.org/wiki/Category:含有錯誤元素符號的條目 "wikilink") [Category:"_.._error_category_string_.._"](https://zh.wikipedia.org/wiki/Category:"_.._error_category_string_.._" "wikilink")

@@ -1,8 +1,4 @@
-，是由所作的日本[四格漫畫](../Page/四格漫畫.md "wikilink")。于2014年8月27日開始發表於《[月刊Comic
-Alive](../Page/月刊Comic_Alive.md "wikilink")》中的一個四格漫畫欄目《COMIC
-CUNE》\[1\]，後來轉移至於2015年8月27日正式創刊的四格漫畫雜誌《[COMIC
-CUNE](https://zh.wikipedia.org/wiki/COMIC_CUNE "wikilink")》發表\[2\]。ComicWalker網站也發表該四格漫畫。\[3\]第1冊[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2015年12月26日發售。由[EMT
-Squared負責動畫製作的](../Page/EMT_Squared.md "wikilink")[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2017年1月8日開始播放。
+，是由所作的日本[四格漫畫](../Page/四格漫畫.md "wikilink")。于2014年8月27日開始發表於《[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")》中的一個四格漫畫欄目《COMIC CUNE》\[1\]，後來轉移至於2015年8月27日正式創刊的四格漫畫雜誌《[COMIC CUNE](https://zh.wikipedia.org/wiki/COMIC_CUNE "wikilink")》發表\[2\]。ComicWalker網站也發表該四格漫畫。\[3\]第1冊[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2015年12月26日發售。由[EMT Squared負責動畫製作的](../Page/EMT_Squared.md "wikilink")[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2017年1月8日開始播放。
 
 ## 故事簡介
 
@@ -36,8 +32,7 @@ Squared負責動畫製作的](../Page/EMT_Squared.md "wikilink")[電視動畫於
 
 ## 電視動畫
 
-於《COMIC
-CUNE》2016年11月號發布電視動畫化消息\[7\]。於2017年1月8日開始播出。\[8\][Blu-ray和](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD預定於](https://zh.wikipedia.org/wiki/DVD "wikilink")2017年春天發售。\[9\]
+於《COMIC CUNE》2016年11月號發布電視動畫化消息\[7\]。於2017年1月8日開始播出。\[8\][Blu-ray和](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD預定於](https://zh.wikipedia.org/wiki/DVD "wikilink")2017年春天發售。\[9\]
 
 ### 製作人員
 
@@ -196,14 +191,7 @@ CUNE》2016年11月號發布電視動畫化消息\[7\]。於2017年1月8日開�
   - [電視動畫官方網站](http://nyanko-days.com/)
 
   -
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink")
-[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink")
-[Category:萌擬人化題材作品](https://zh.wikipedia.org/wiki/Category:萌擬人化題材作品 "wikilink")
-[Category:貓題材作品](https://zh.wikipedia.org/wiki/Category:貓題材作品 "wikilink")
-[Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink")
-[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink")
-[Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:萌擬人化題材作品](https://zh.wikipedia.org/wiki/Category:萌擬人化題材作品 "wikilink") [Category:貓題材作品](https://zh.wikipedia.org/wiki/Category:貓題材作品 "wikilink") [Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink")
 
 1.
 2.

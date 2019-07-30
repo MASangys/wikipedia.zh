@@ -1,31 +1,16 @@
-**Hello
-Nico**，臺灣獨立搖滾樂團，2013年成立，成員為詹宇庭、李詠恩、陳信伯、關惠中，2016年獲得[第27屆金曲獎最佳新人獎提名](https://zh.wikipedia.org/wiki/第27屆金曲獎 "wikilink")。
+**Hello Nico**，臺灣獨立搖滾樂團，2013年成立，成員為詹宇庭、李詠恩、陳信伯、關惠中，2016年獲得[第27屆金曲獎最佳新人獎提名](https://zh.wikipedia.org/wiki/第27屆金曲獎 "wikilink")。
 
 ## 簡介
 
-主唱詹宇庭，1989年9月11日出生，於2009年第21屆金韶重唱組奪得冠軍，創作組第2及重對唱組冠軍，2010年[政大金旋獎獲創作組第一名](https://zh.wikipedia.org/wiki/政大 "wikilink")，最佳作曲獎。
-創作歌曲〈左撇子〉入選2011年StreetVoice 冬季選集。
+主唱詹宇庭，1989年9月11日出生，於2009年第21屆金韶重唱組奪得冠軍，創作組第2及重對唱組冠軍，2010年[政大金旋獎獲創作組第一名](https://zh.wikipedia.org/wiki/政大 "wikilink")，最佳作曲獎。 創作歌曲〈左撇子〉入選2011年StreetVoice 冬季選集。
 
-Hello Nico自2013
-年[貢寮國際海洋音樂祭初次登台後開始在各地Livehouse](../Page/貢寮國際海洋音樂祭.md "wikilink")
-演出，持續累積作品與演出經驗，同年入選國內指標性新晉樂團活動「2013 The Next Big Thing
-大團誕生」，年底獲選為台灣「十大新團」，廣被譽為國內最矚目的超新星樂團。於2013
-年末簽約獨立音樂廠牌「黑市音樂」，2014 年8 月推出首張五曲EP《浮游城市》，EP 焦點作〈花〉以超過12萬次點播率成為2014
-年度StreetVoice
-排行榜全年總冠軍作品；與知名詩人[夏宇合作之單曲](../Page/夏宇.md "wikilink")〈我們苦難的馬戲班〉於台灣數位音樂販售平台「iNDIEVOX」獲選為年度十大最佳銷量單曲。憑著《浮游城市》，Hello
-Nico 於新加坡「第八屆 Freshmusic Awards」獲得「年度最佳 EP」與「年度十大單曲（〈我們苦難的馬戲班〉）」兩大獎項。
+Hello Nico自2013 年[貢寮國際海洋音樂祭](../Page/貢寮國際海洋音樂祭.md "wikilink")初次登台後開始在各地Livehouse 演出，持續累積作品與演出經驗，同年入選國內指標性新晉樂團活動「2013 The Next Big Thing 大團誕生」，年底獲選為台灣「十大新團」，廣被譽為國內最矚目的超新星樂團。於2013 年末簽約獨立音樂廠牌「黑市音樂」，2014 年8 月推出首張五曲EP《浮游城市》，EP 焦點作〈花〉以超過12萬次點播率成為2014 年度StreetVoice 排行榜全年總冠軍作品；與知名詩人[夏宇](../Page/夏宇.md "wikilink")合作之單曲〈我們苦難的馬戲班〉於台灣數位音樂販售平台「iNDIEVOX」獲選為年度十大最佳銷量單曲。憑著《浮游城市》，Hello Nico 於新加坡「第八屆 Freshmusic Awards」獲得「年度最佳 EP」與「年度十大單曲（〈我們苦難的馬戲班〉）」兩大獎項。
 
-2015 年 1 月 Hello Nico 於網絡平台率先發布處女專輯《熟悉的荒涼》內的歌曲，多首單曲壟斷 StreetVoice
-多個星期的排行榜冠軍位置。2月16日在數位販售平台iNDIEVOX
-進行專輯獨家優先販售，並把專輯所有共11首歌曲上載到
-StreetVoice 予樂迷優先完整試聽。
+2015 年 1 月 Hello Nico 於網絡平台率先發布處女專輯《熟悉的荒涼》內的歌曲，多首單曲壟斷 StreetVoice 多個星期的排行榜冠軍位置。2月16日在數位販售平台iNDIEVOX 進行專輯獨家優先販售，並把專輯所有共11首歌曲上載到 StreetVoice 予樂迷優先完整試聽。
 
-專輯《熟悉的荒涼》成為iNDIEVOX
-多個星期銷售冠軍，專輯內多首歌於各大播排行榜裡高居不下，《熟悉的荒涼》整張專輯的歌曲播放率於StreetVoice
-達到超越90萬次的驚人數字。於 2015 年度 StreetVoice 歌曲播放排行榜統計上，年度十大最高播放率單曲，Hello Nico
-獨占四首席位。2016年1月樂團單曲〈花〉MV 於 Youtube 點播次數超過400萬次。
+專輯《熟悉的荒涼》成為iNDIEVOX 多個星期銷售冠軍，專輯內多首歌於各大播排行榜裡高居不下，《熟悉的荒涼》整張專輯的歌曲播放率於StreetVoice 達到超越90萬次的驚人數字。於 2015 年度 StreetVoice 歌曲播放排行榜統計上，年度十大最高播放率單曲，Hello Nico 獨占四首席位。2016年1月樂團單曲〈花〉MV 於 Youtube 點播次數超過400萬次。
 
-2016年10月下旬赴[廈門草莓音樂節](https://zh.wikipedia.org/wiki/廈門 "wikilink")\[1\]與胡德夫、[楊乃文等人同台](../Page/楊乃文.md "wikilink")，並開始於海外參與多場演出。
+2016年10月下旬赴[廈門草莓音樂節](https://zh.wikipedia.org/wiki/廈門 "wikilink")\[1\]與胡德夫、[楊乃文](../Page/楊乃文.md "wikilink")等人同台，並開始於海外參與多場演出。
 
 ## 音樂作品列表
 
@@ -61,28 +46,23 @@ StreetVoice 予樂迷優先完整試聽。
   - 2017/10/07 台北 台灣樂團潮
   - 2017/03/26 高雄 大港開唱
   - 2017/03/16 美國SXSW 音樂節
-  - 2016/08/21 香港 [Hidden
-    Agenda](../Page/Hidden_Agenda.md "wikilink")《閉上眼睛》EP 發布演唱會
-  - 2016/08/20 香港 [Hidden
-    Agenda](../Page/Hidden_Agenda.md "wikilink")《閉上眼睛》EP 發布演唱會
+  - 2016/08/21 香港 [Hidden Agenda](../Page/Hidden_Agenda.md "wikilink")《閉上眼睛》EP 發布演唱會
+  - 2016/08/20 香港 [Hidden Agenda](../Page/Hidden_Agenda.md "wikilink")《閉上眼睛》EP 發布演唱會
   - 2016/08/19 深圳 B10 現場《閉上眼睛》EP 發布演唱會深圳站
   - 2016/08/12 台北 Legacy《閉上眼睛》EP 發布演唱會台北站
   - 2016/08/06 台中 Legacy《閉上眼睛》EP 發布演唱會台中站
   - 2016/07/30 高雄 LiveWarehouse《閉上眼睛》EP 發布演唱會高雄站
   - 2016/06/15 台中 方舟 中興大學畢聯會
-  - 2016/06/04 台北 [政治大學](https://zh.wikipedia.org/wiki/政治大學 "wikilink")
-    政大音樂節
+  - 2016/06/04 台北 [政治大學](https://zh.wikipedia.org/wiki/政治大學 "wikilink") 政大音樂節
   - 2016/05/29 廈門 Real Live 2016 中國巡演廈門站
   - 2016/05/28 中山 Sun Livehouse 2016 中國巡演中山站
   - 2016/05/27 廣州 樂府 2016 中國巡演廣州站
   - 2016/05/24 台中 亞洲大學黃金雨音樂節
   - 2016/05/07 高雄 南區熱門音樂祭
-  - 2016/05/06 台北
-    [淡江大學金韶獎演出嘉賓](https://zh.wikipedia.org/wiki/淡江大學 "wikilink")
+  - 2016/05/06 台北 [淡江大學金韶獎演出嘉賓](https://zh.wikipedia.org/wiki/淡江大學 "wikilink")
   - 2016/04/08 台北 The Wall Pop\! Pop\! Fest vol.3
   - 2016/03/20 台北 金旋音樂節
-  - 2016/03/12 台中
-    [中興大學湖畔音樂祭](https://zh.wikipedia.org/wiki/中興大學 "wikilink")
+  - 2016/03/12 台中 [中興大學湖畔音樂祭](https://zh.wikipedia.org/wiki/中興大學 "wikilink")
   - 2016/02/12 新加坡 華藝節
   - 2016/01/31 高雄 In Our Time 台灣北中南巡演高雄站
   - 2016/01/30 台中 Forro 台灣北中南巡演台中站
@@ -100,8 +80,7 @@ StreetVoice 予樂迷優先完整試聽。
   - 2015/12/08 南京 斑馬酒吧 Zebra《熟悉的荒涼》中國巡演南京站
   - 2015/12/06 武漢 Coastline Livehouse《熟悉的荒涼》中國巡演武漢站
   - 2015/12/05 長沙 46Livehouse《熟悉的荒涼》中國巡演長沙站
-  - 2015/11/21 香港 [Hidden
-    Agenda](../Page/Hidden_Agenda.md "wikilink")《熟悉的荒涼》中國巡演香港站
+  - 2015/11/21 香港 [Hidden Agenda](../Page/Hidden_Agenda.md "wikilink")《熟悉的荒涼》中國巡演香港站
   - 2015/11/15 台北 寶藏岩國際藝術村綠園地「台北周末不斷電」
   - 2015/10/17 台北 搖滾辦桌音樂節
   - 2015/10/06 上海 世博公園「簡單生活節」
@@ -111,20 +90,16 @@ StreetVoice 予樂迷優先完整試聽。
   - 2015/07/18 嘉義 Wake Up 音樂祭
   - 2015/07/12 台北 Legacy《熟悉d的荒涼》專輯發表音樂會最終場
   - 2015/07/04 台中 Legacy The Next Big Thing 大團誕生台中場
-  - 2015/06/06 台北 [台北大學](https://zh.wikipedia.org/wiki/台北大學 "wikilink")
-    台大音樂節
-  - 2015/05/31 台南 [成功大學](https://zh.wikipedia.org/wiki/成功大學 "wikilink")
-    飆夢音樂節
+  - 2015/06/06 台北 [台北大學](https://zh.wikipedia.org/wiki/台北大學 "wikilink") 台大音樂節
+  - 2015/05/31 台南 [成功大學](https://zh.wikipedia.org/wiki/成功大學 "wikilink") 飆夢音樂節
   - 2015/05/17 廣州 SD Livehouse《熟悉的荒涼》專輯發表音樂會廣州站
-  - 2015/05/16 香港 [九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink") Music
-    Zone @ E-Max《熟悉的荒涼》專輯發表音樂會香港站
+  - 2015/05/16 香港 [九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink") Music Zone @ E-Max《熟悉的荒涼》專輯發表音樂會香港站
   - 2015/05/02 台北 The Wall 公館［Changee 串串耳］音樂會
   - 2015/04/25 桃園 ThERE《熟悉的荒涼》專輯發表音樂會桃園站
   - 2015/04/18 宜蘭 賣捌所《熟悉的荒涼》專輯發表音樂會宜蘭站
   - 2015/03/22 高雄 In Our Time《熟悉的荒涼》專輯發表音樂會高雄站
   - 2015/03/21 台南 Room 335《熟悉的荒涼》專輯發表音樂會台南站
-  - 2015/03/20 台東
-    [鐵花村](https://zh.wikipedia.org/wiki/鐵花村 "wikilink")《熟悉的荒涼》專輯發表音樂會台東站
+  - 2015/03/20 台東 [鐵花村](https://zh.wikipedia.org/wiki/鐵花村 "wikilink")《熟悉的荒涼》專輯發表音樂會台東站
   - 2015/03/07 台中 Legacy《熟悉的荒涼》專輯發表音樂會台中站
   - 2015/03/01 台北 Legacy《熟悉的荒涼》專輯發表音樂會台北站
   - 2014/11/08 台北 寶藏岩國際藝術村 救命音樂節
@@ -162,17 +137,11 @@ StreetVoice 予樂迷優先完整試聽。
 
   - [Hello Nico FB粉絲專頁](https://www.facebook.com/HelloNico.tw/)
   - [Hello Nico StreetVoice頁面](https://tw.streetvoice.com/HelloNico/)
-  - [Hello Nico
-    instagram](https://www.instagram.com/hello.nico.official/)
-  - [網易雲音樂專訪：我們是灰色中的一點金屬閃光- Hello
-    Nico](http://music.163.com/#/topic?id=14016050)
-  - [欣音樂專訪：最有潛力的台灣獨立樂團 - Hello
-    Nico](http://solomo.xinmedia.com/music/18627-HelloNico)
+  - [Hello Nico instagram](https://www.instagram.com/hello.nico.official/)
+  - [網易雲音樂專訪：我們是灰色中的一點金屬閃光- Hello Nico](http://music.163.com/#/topic?id=14016050)
+  - [欣音樂專訪：最有潛力的台灣獨立樂團 - Hello Nico](http://solomo.xinmedia.com/music/18627-HelloNico)
   - [Hello Nico 豆瓣音乐專頁](https://site.douban.com/hellonico/)
 
-[Category:台灣獨立樂團](https://zh.wikipedia.org/wiki/Category:台灣獨立樂團 "wikilink")
-[Category:電子搖滾樂團](https://zh.wikipedia.org/wiki/Category:電子搖滾樂團 "wikilink")
-[Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink")
+[Category:台灣獨立樂團](https://zh.wikipedia.org/wiki/Category:台灣獨立樂團 "wikilink") [Category:電子搖滾樂團](https://zh.wikipedia.org/wiki/Category:電子搖滾樂團 "wikilink") [Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink")
 
-1.  [廈門海上大觀園
-    唱響草莓音樂節](http://www.chinatimes.com/newspapers/20161006000850-260301)
+1.  [廈門海上大觀園 唱響草莓音樂節](http://www.chinatimes.com/newspapers/20161006000850-260301)

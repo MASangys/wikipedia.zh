@@ -1,4 +1,4 @@
-**MathFest**是美國數學協會每年夏末舉辦的[數學](../Page/数学.md "wikilink")[會議](../Page/會議.md "wikilink")，以關注數學[教學和](../Page/教育.md "wikilink")[研究以及學生參與而聞名](../Page/研究.md "wikilink")。
+**MathFest**是美國數學協會每年夏末舉辦的[數學](../Page/数学.md "wikilink")[會議](../Page/會議.md "wikilink")，以關注數學[教學和](../Page/教育.md "wikilink")[研究](../Page/研究.md "wikilink")以及學生參與而聞名。
 
 ## 歷屆會議位置
 
@@ -10,7 +10,7 @@
 | 2016  | [哥倫布 (俄亥俄州)](../Page/哥伦布_\(俄亥俄州\).md "wikilink")                        |
 | 2015  | [華盛頓特區](../Page/华盛顿哥伦比亚特区.md "wikilink")                                |
 | 2014  | [波特蘭市 (俄勒岡州)](../Page/波特蘭_\(俄勒岡州\).md "wikilink")                       |
-| 2013  | [哈特福德 (康涅狄格州)](../Page/哈特福.md "wikilink")                               |
+| 2013  | [哈特福 (康涅狄格州)](../Page/哈特福.md "wikilink")德                               |
 | 2012  | [麥迪遜 (威斯康辛州)](../Page/麦迪逊.md "wikilink")                                |
 | 2011  | [列克星敦 (肯塔基州)](../Page/列克星敦_\(肯塔基州\).md "wikilink")                      |
 | 2010  | [匹茲堡 (賓夕法尼亞州)](../Page/匹兹堡.md "wikilink")                               |

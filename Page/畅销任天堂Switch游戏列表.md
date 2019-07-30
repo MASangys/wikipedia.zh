@@ -1,4 +1,4 @@
-[任天堂Switch是日本公司](../Page/任天堂Switch.md "wikilink")[任天堂出品的](../Page/任天堂.md "wikilink")[電子遊戲機](../Page/電子遊戲機.md "wikilink")，本列表列出至少售出一百万份的[任天堂Switch游戏](../Page/任天堂Switch游戏列表.md "wikilink")。
+[任天堂Switch](../Page/任天堂Switch.md "wikilink")是日本公司[任天堂](../Page/任天堂.md "wikilink")出品的[電子遊戲機](../Page/電子遊戲機.md "wikilink")，本列表列出至少售出一百万份的[任天堂Switch游戏](../Page/任天堂Switch游戏列表.md "wikilink")。
 
 ## 列表
 
@@ -164,7 +164,7 @@
 1-UP工作室</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/口袋铁拳.md" title="wikilink">口袋铁拳DX</a></p></td>
+<td><p><a href="../Page/口袋铁拳.md" title="wikilink">口袋铁拳</a>DX</p></td>
 <td><p>2017年9月22日</p></td>
 <td><p>data-sort-value="116"|116万[20][21]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/格鬥" title="wikilink">格鬥</a></p></td>
@@ -206,8 +206,7 @@ Devolver Digital</p></td>
 
 <references group="注" />
 
-[Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink")
-[Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink")
+[Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink") [Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink")
 
 1.
 2.
@@ -231,10 +230,7 @@ Devolver Digital</p></td>
 
 17.
 
-18.
-    ミリオンセールスタイトル|author=|date=|publisher=|accessdate=2019-02-11|language=ja|work=株式会社カプコン{{\!}}
-    投資家の皆さまへ / 企業情報}}（包括日版Monster Hunter Double Cross与海外版Monster Hunter
-    Generations Ultimate）(截至2018年12月31日)
+18.  ミリオンセールスタイトル|author=|date=|publisher=|accessdate=2019-02-11|language=ja|work=株式会社カプコン{{\!}} 投資家の皆さまへ / 企業情報}}（包括日版Monster Hunter Double Cross与海外版Monster Hunter Generations Ultimate）(截至2018年12月31日)
 
 19.
 20. (截至2018年3月31日)

@@ -1,11 +1,8 @@
-[Kajira-kef.svg](https://zh.wikipedia.org/wiki/File:Kajira-kef.svg "fig:Kajira-kef.svg")
-**Kajira**是约翰·诺曼的小说《Gor》中“女奴”一词。
+[Kajira-kef.svg](https://zh.wikipedia.org/wiki/File:Kajira-kef.svg "fig:Kajira-kef.svg") **Kajira**是约翰·诺曼的小说《Gor》中“女奴”一词。
 
 ## 术语
 
-在Gorean语言中，短语“LA
-kajira”的意思是“我是一个奴隶女孩”，是行星Gor已知的区域中最广泛的通用语（是小说《Gor》中给出的几个完整Gorean语言的句子之一）。这个词通常以女性格式“kajira”出现，因为葛瑞恩亚的生活方式中大部分奴隶为女性。男性格式为“kajira”和“kajiri”（词语尾部变化来自[拉丁美洲的第一和第二变格名词的主格形式](../Page/拉丁美洲.md "wikilink")）。“kajiras”是不正确的，但偶尔出现在第三方写作中。
-[The_Gor_Project_1_by_mjranum_stock.jpg](https://zh.wikipedia.org/wiki/File:The_Gor_Project_1_by_mjranum_stock.jpg "fig:The_Gor_Project_1_by_mjranum_stock.jpg")
+在Gorean语言中，短语“LA kajira”的意思是“我是一个奴隶女孩”，是行星Gor已知的区域中最广泛的通用语（是小说《Gor》中给出的几个完整Gorean语言的句子之一）。这个词通常以女性格式“kajira”出现，因为葛瑞恩亚的生活方式中大部分奴隶为女性。男性格式为“kajira”和“kajiri”（词语尾部变化来自[拉丁美洲](../Page/拉丁美洲.md "wikilink")的第一和第二变格名词的主格形式）。“kajiras”是不正确的，但偶尔出现在第三方写作中。 [The_Gor_Project_1_by_mjranum_stock.jpg](https://zh.wikipedia.org/wiki/File:The_Gor_Project_1_by_mjranum_stock.jpg "fig:The_Gor_Project_1_by_mjranum_stock.jpg")
 
 ## 训练
 
@@ -54,11 +51,8 @@ kajirae的种类过多\[2\]。根据他们的童贞，来源和工作可以分�
 [分类:迷文化](https://zh.wikipedia.org/wiki/分类:迷文化 "wikilink")
 
 1.
-2.  [Types of Gorean
-    Slaves](http://www.goreanpalaces.com/blog/types-of-gorean-slaves/#more-1075)
-3.  [A Girl Speaks of Slave
-    Silks](http://www.gor.net/soa/training/slvslk.htm)
-4.  [The Gorean Cave - Slave Silk, Its Color and
-    Meaning](http://www.thegoreancave.com/silks/silks.php?offset=-120)
+2.  [Types of Gorean Slaves](http://www.goreanpalaces.com/blog/types-of-gorean-slaves/#more-1075)
+3.  [A Girl Speaks of Slave Silks](http://www.gor.net/soa/training/slvslk.htm)
+4.  [The Gorean Cave - Slave Silk, Its Color and Meaning](http://www.thegoreancave.com/silks/silks.php?offset=-120)
 5.  [Kajirae Basics](http://www.gor-now.net/delphius2002/id22.htm)
 6.  [Glossary of Gorean Words](http://www.gor.net/things/terms.html)

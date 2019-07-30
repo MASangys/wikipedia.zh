@@ -1,14 +1,8 @@
-《**NORN9 命運九重奏**》（）是於2013年5月30日發售的[PlayStation
-Portable戀愛](../Page/PlayStation_Portable.md "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")。
+《**NORN9 命運九重奏**》（）是於2013年5月30日發售的[PlayStation Portable戀愛](../Page/PlayStation_Portable.md "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")。
 
 ## 遊戲概要
 
-這是一個以被稱為『NORN』的巨大飛船旅行的少年少女之物語。包括主角在內所有乘搭『NORN』的成員，都擁有特殊的能力。而且，當把9位可攻略的角色全員攻略攻略後，鈴原空汰就能解開時光倒流之謎。預定於2014年發售《**NORN9
-LAST ERA**》（ノルン+ノネット
-ラストイーラ）的光盤\[1\]。遊戲的特別之處與普通的乙女遊戲不同，是以第三生鈴原空汰的角度開始故事。於同年3月2日舉行的單獨活動「NORN9
-with Ark & for Spica」中，發表動畫化與向[PS
-Vita的移植](../Page/PlayStation_Vita.md "wikilink")\[2\]。於2016年，『**NORN9
-ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光盤預定發售\[3\]。
+這是一個以被稱為『NORN』的巨大飛船旅行的少年少女之物語。包括主角在內所有乘搭『NORN』的成員，都擁有特殊的能力。而且，當把9位可攻略的角色全員攻略攻略後，鈴原空汰就能解開時光倒流之謎。預定於2014年發售《**NORN9 LAST ERA**》（ノルン+ノネット ラストイーラ）的光盤\[1\]。遊戲的特別之處與普通的乙女遊戲不同，是以第三生鈴原空汰的角度開始故事。於同年3月2日舉行的單獨活動「NORN9 with Ark & for Spica」中，發表動畫化與向[PS Vita的移植](../Page/PlayStation_Vita.md "wikilink")\[2\]。於2016年，『**NORN9 ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光盤預定發售\[3\]。
 
 ## 故事大綱
 
@@ -68,15 +62,13 @@ ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光�
 
 持續不自然的撤回帶來了結果， 世界的走向漸漸偏離了原來的歷史。
 
-未來的光明，年輕人悄悄在被修正的道路上昂首闊步。 沒有飢餓與貧窮，甚至連槍械和武器都不存在。 沒有差異與差距的平等生命。
-任何人都能獲得幸福的世界。
+未來的光明，年輕人悄悄在被修正的道路上昂首闊步。 沒有飢餓與貧窮，甚至連槍械和武器都不存在。 沒有差異與差距的平等生命。 任何人都能獲得幸福的世界。
 
 人們就生存在那個不存在的時代。 即使如此，不知不覺間抹殺了歷史上的形成。
 
 不過，如果把進行『初期化』的兵器『艾音』停止的話， 再也沒有重新開始的歷史了。
 
-<big>人活著。所刻畫過去與痛楚的一切，就只有這一次。</big>
-故事發生在1919年的日本，即大正時期。實際上是81世紀，8075年，是經過第四次『重置』後的世界。在第五次世界大戰的2060年中，因為文化及文明出現了即將終結的征兆，企業把兵器作為商品交易，國家不斷地購買兵器，令兵器的數量覆盖全世界。在2085年，人類為免地球毁烕而進行第一次『重置』，讓歷史改變。
+<big>人活著。所刻畫過去與痛楚的一切，就只有這一次。</big> 故事發生在1919年的日本，即大正時期。實際上是81世紀，8075年，是經過第四次『重置』後的世界。在第五次世界大戰的2060年中，因為文化及文明出現了即將終結的征兆，企業把兵器作為商品交易，國家不斷地購買兵器，令兵器的數量覆盖全世界。在2085年，人類為免地球毁烕而進行第一次『重置』，讓歷史改變。
 
 ## 登場人物
 
@@ -94,8 +86,7 @@ ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光�
   -
     配音員：[高垣彩陽](../Page/高垣彩陽.md "wikilink")
     18歲　星座／處女座　血型／[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")
-    遊戲的女主角之一（可改名）。 成熟美少女。
-    因為是[公家出身](../Page/公家.md "wikilink")，周遭的人都視她為掌上名珠般養育。[姬髮式並在左面配有白色絲帶](https://zh.wikipedia.org/wiki/姬髮式 "wikilink")，黑色眼瞳。
+    遊戲的女主角之一（可改名）。 成熟美少女。 因為是[公家](../Page/公家.md "wikilink")出身，周遭的人都視她為掌上名珠般養育。[姬髮式並在左面配有白色絲帶](https://zh.wikipedia.org/wiki/姬髮式 "wikilink")，黑色眼瞳。
     雖然有大小姐的脾氣，但是責任感勁強，很會照顧別人。因為從來沒有跟青梅竹馬以外的男性接觸，所以在船上生活有點吃力。
     能力是開展「結界」，曾經自身能力守護神社和權貴。
     從小就被教育「能力是由神所賜予的東西，十分珍貴」，所以一直炫耀自己的能力。
@@ -103,10 +94,9 @@ ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光�
   -
     配音員：[瀨戶麻沙美](../Page/瀨戶麻沙美.md "wikilink")
     16歲　星座／白羊座　血型／[AB型](https://zh.wikipedia.org/wiki/AB型 "wikilink")
-    遊戲的女主角之一（可改名）。在傳統的[忍者家族出生](../Page/忍者.md "wikilink")，所以體質不錯，善於隱藏痕跡。淺紫色短曲髮，紫色眼瞳，左眼角下有一粒淚痣。有著人偶般的美麗卻沉默寡言的少女。
+    遊戲的女主角之一（可改名）。在傳統的[忍者](../Page/忍者.md "wikilink")家族出生，所以體質不錯，善於隱藏痕跡。淺紫色短曲髮，紫色眼瞳，左眼角下有一粒淚痣。有著人偶般的美麗卻沉默寡言的少女。
     因為甚少表示自己的意思，所以難懂她的感受。雖然帶給人的感覺很古怪和違和感，卻對人心微妙地敏感。
-    能力是消除「記憶」。小時候一直被命令消除別人的記憶。對於自己的能力打從心底般的恐懼，一向討厭它。
-    曾經消除了千里有關哥哥暁人的所有記憶而感到罪惡。
+    能力是消除「記憶」。小時候一直被命令消除別人的記憶。對於自己的能力打從心底般的恐懼，一向討厭它。 曾經消除了千里有關哥哥暁人的所有記憶而感到罪惡。
     動畫版最後和曉人在一起。
 
 ### 小春的可攻略對象
@@ -346,8 +336,7 @@ ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光�
 <!-- end list -->
 
   - 片尾曲「Many Universes」
-    作曲、編曲 -
-    [藤末樹](https://zh.wikipedia.org/wiki/藤末樹 "wikilink")／作詞、歌：[柳柳](../Page/柳柳.md "wikilink")
+    作曲、編曲 - [藤末樹](https://zh.wikipedia.org/wiki/藤末樹 "wikilink")／作詞、歌：[柳柳](../Page/柳柳.md "wikilink")
 
 <!-- end list -->
 
@@ -368,9 +357,7 @@ ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光�
 
 ### 網上廣播
 
-「NORN9
-命運九重奏」NORN廣播局於2013年11月8日至2014年7月25日，向[電視動畫發佈網上廣播劇組](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。主持是遊佐浩二（飾演
-加賀見一月）。每月2次更新。
+「NORN9 命運九重奏」NORN廣播局於2013年11月8日至2014年7月25日，向[電視動畫發佈網上廣播劇組](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。主持是遊佐浩二（飾演 加賀見一月）。每月2次更新。
 
   - 嘉賓
 
@@ -389,8 +376,7 @@ ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光�
 
 ### 命運廣播
 
-於2015年3月18日至6月24日，[音泉推出網上廣播劇組](../Page/音泉.md "wikilink")。主持是下野紘（飾演
-市之瀨千里）、佐藤拓也（飾演 遠矢正宗）。隔週星期三更新。
+於2015年3月18日至6月24日，[音泉](../Page/音泉.md "wikilink")推出網上廣播劇組。主持是下野紘（飾演 市之瀨千里）、佐藤拓也（飾演 遠矢正宗）。隔週星期三更新。
 
 ## 流動情報
 
@@ -437,8 +423,7 @@ ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光�
 <!-- end list -->
 
   - 插曲「」（第12話）
-    作詞：日山尚，作曲、編曲：kevin
-    penkin，主唱：[愛音](https://zh.wikipedia.org/wiki/愛音 "wikilink")（[柳柳](../Page/柳柳.md "wikilink")）
+    作詞：日山尚，作曲、編曲：kevin penkin，主唱：[愛音](https://zh.wikipedia.org/wiki/愛音 "wikilink")（[柳柳](../Page/柳柳.md "wikilink")）
 
 ### 各話標題
 
@@ -645,7 +630,7 @@ kinemacitrus</p></td>
 | --------------------------------------------------- | ------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --- |
 | 日本全國                                                | [AT-X](../Page/AT-X.md "wikilink")                            | 2016年1月7日－3月31日   | 星期四 21時30分－22時00分                                                                                             | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink") | 有重播 |
 | [東京都](../Page/東京都.md "wikilink")                    | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 星期四 23時30分－24時00分 | [獨立局](../Page/全國獨立放送協議會.md "wikilink")                                                                        |                                                       |     |
-| 日本全國                                                | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")         | 星期四 25時00分－25時30分 | 衛星電視                                                                                                          | [ANIME+節目](../Page/ANIME+.md "wikilink")              |     |
+| 日本全國                                                | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")         | 星期四 25時00分－25時30分 | 衛星電視                                                                                                          | [ANIME+](../Page/ANIME+.md "wikilink")節目              |     |
 | [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink") | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")     | 星期四 25時30分－26時00分 | 獨立局                                                                                                           |                                                       |     |
 |                                                     |                                                               |                   |                                                                                                               |                                                       |     |
 
@@ -657,11 +642,9 @@ kinemacitrus</p></td>
 
   - [NORN9 LAST ERA](http://www.otomate.jp/norn9/last-era/)
 
-  - [NORN9 VAR COMMONS for iOS &
-    Android](http://www.otomate.jp/smp/norn9/)
+  - [NORN9 VAR COMMONS for iOS & Android](http://www.otomate.jp/smp/norn9/)
 
-  - [「NORN9 命運九重奏」WEB廣播
-    NORN廣播局](https://web.archive.org/web/20140903025545/http://animate.tv/radio/details.php?id=norn9)
+  - [「NORN9 命運九重奏」WEB廣播 NORN廣播局](https://web.archive.org/web/20140903025545/http://animate.tv/radio/details.php?id=norn9)
 
   - [NORN9 Var Commons](http://www.otomate.jp/norn9/vita/)
 
@@ -670,11 +653,7 @@ kinemacitrus</p></td>
   - [TV動畫『命運九重奏』官方網站](http://norn9-nonet.com/)
 
   -
-[Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink")
-[Category:2013年電子遊戲](https://zh.wikipedia.org/wiki/Category:2013年電子遊戲 "wikilink")
-[Category:少女遊戲](https://zh.wikipedia.org/wiki/Category:少女遊戲 "wikilink")
-[Category:Otomate](https://zh.wikipedia.org/wiki/Category:Otomate "wikilink")
-[Category:動畫作品](https://zh.wikipedia.org/wiki/Category:動畫作品 "wikilink")
+[Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:2013年電子遊戲](https://zh.wikipedia.org/wiki/Category:2013年電子遊戲 "wikilink") [Category:少女遊戲](https://zh.wikipedia.org/wiki/Category:少女遊戲 "wikilink") [Category:Otomate](https://zh.wikipedia.org/wiki/Category:Otomate "wikilink") [Category:動畫作品](https://zh.wikipedia.org/wiki/Category:動畫作品 "wikilink")
 
 1.
 

@@ -1,5 +1,4 @@
-《**Baby
-Sitter**》（）為[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2016年3月14日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由[趙如晶及](https://zh.wikipedia.org/wiki/趙如晶 "wikilink")[金敏俊主演](../Page/金敏俊.md "wikilink")。此劇講述在富人家照顧3個孩子的保姆，勾引男主人之後發生的慘痛故事。
+《**Baby Sitter**》（）為[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2016年3月14日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由[趙如晶及](https://zh.wikipedia.org/wiki/趙如晶 "wikilink")[金敏俊](../Page/金敏俊.md "wikilink")主演。此劇講述在富人家照顧3個孩子的保姆，勾引男主人之後發生的慘痛故事。
 
 由於此劇集部份場面過於暴力及涉及可能令人不安的情節，因而列為19禁（強烈不建議19歲以下人士觀看）類別劇集。
 
@@ -108,8 +107,7 @@ Sitter**》（）為[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikil
 
 ## 同時段競爭節目
 
-  - [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")
-    ：《[六龍飛天](../Page/六龍飛天.md "wikilink")》
+  - [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink") ：《[六龍飛天](../Page/六龍飛天.md "wikilink")》
   - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[華麗的誘惑](../Page/華麗的誘惑.md "wikilink")》
 
 ## 腳註
@@ -118,8 +116,7 @@ Sitter**》（）為[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikil
 
   - [韓國KBS官方網站](http://www.kbs.co.kr/drama/babysitter/index.html)
 
-[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink")
-[Category:育兒題材作品](https://zh.wikipedia.org/wiki/Category:育兒題材作品 "wikilink")
+[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:育兒題材作品](https://zh.wikipedia.org/wiki/Category:育兒題材作品 "wikilink")
 
 1.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 2.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)

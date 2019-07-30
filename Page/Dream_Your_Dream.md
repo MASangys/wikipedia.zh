@@ -1,6 +1,4 @@
-**《Dream your
-dream》**是韩国女子团体[宇宙少女的第四张迷你专辑](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，由[starship娛樂](../Page/STARSHIP娛樂.md "wikilink")、[乐华娱乐企划](../Page/乐华娱乐.md "wikilink")，并由[loen娛樂于](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")2018年2月27日发行。该专辑总共由6首歌曲，包括一首中文版的主打曲《Dreams
-Come True》。\[1\]
+**《Dream your dream》**是韩国女子团体[宇宙少女的第四张迷你专辑](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，由[starship娛樂](../Page/STARSHIP娛樂.md "wikilink")、[乐华娱乐](../Page/乐华娱乐.md "wikilink")企划，并由[loen娛樂于](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")2018年2月27日发行。该专辑总共由6首歌曲，包括一首中文版的主打曲《Dreams Come True》。\[1\]
 
 ## 经历
 
@@ -22,9 +20,7 @@ Come True》。\[1\]
 
 <references />
 
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:宇宙少女音樂專輯](https://zh.wikipedia.org/wiki/Category:宇宙少女音樂專輯 "wikilink")
+[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:宇宙少女音樂專輯](https://zh.wikipedia.org/wiki/Category:宇宙少女音樂專輯 "wikilink")
 
 1.
 2.

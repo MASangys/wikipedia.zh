@@ -1,16 +1,8 @@
-**BewhY**（，），本名**李秉鈺**（），[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[饒舌](../Page/饒舌.md "wikilink")[歌手及团体](../Page/歌手.md "wikilink")$exy
-$treet & Yello
-Music成员。他最初使用“BY”作为自己的艺名，但为了给名字赋予意义而改为BewhY。\[1\]2012年以“Be
-The Livest”出道，后参加[Show Me The Money
-5获得冠军后名声大噪](../Page/Show_Me_The_Money_5.md "wikilink")。\[2\]\[3\]\[4\]\[5\]说唱歌手[C
-Jamm是他从高中时就在同一所学校和教会的朋友](../Page/C_Jamm.md "wikilink")，与BewhY一样也是虔诚的基督教徒。\[6\]\[7\]
+**BewhY**（，），本名**李秉鈺**（），[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[饒舌](../Page/饒舌.md "wikilink")[歌手](../Page/歌手.md "wikilink")及团体$exy $treet & Yello Music成员。他最初使用“BY”作为自己的艺名，但为了给名字赋予意义而改为BewhY。\[1\]2012年以“Be The Livest”出道，后参加[Show Me The Money 5获得冠军后名声大噪](../Page/Show_Me_The_Money_5.md "wikilink")。\[2\]\[3\]\[4\]\[5\]说唱歌手[C Jamm是他从高中时就在同一所学校和教会的朋友](../Page/C_Jamm.md "wikilink")，与BewhY一样也是虔诚的基督教徒。\[6\]\[7\]
 
 ## 经历
 
-曾参加[Show Me The Money
-4](../Page/Show_Me_The_Money_4.md "wikilink")，在预选赛中被淘汰。\[8\]参加[Show
-Me The Money
-5通过了预选赛](../Page/Show_Me_The_Money_5.md "wikilink")，后晋级决赛并最终获得冠军。\[9\]
+曾参加[Show Me The Money 4](../Page/Show_Me_The_Money_4.md "wikilink")，在预选赛中被淘汰。\[8\]参加[Show Me The Money 5通过了预选赛](../Page/Show_Me_The_Money_5.md "wikilink")，后晋级决赛并最终获得冠军。\[9\]
 
 ## 音乐作品
 
@@ -269,8 +261,7 @@ Me The Money
 
 ## 影視作品
 
-  - 2016年： MNET [Show Me The Money
-    5](../Page/Show_Me_The_Money_5.md "wikilink")
+  - 2016年： MNET [Show Me The Money 5](../Page/Show_Me_The_Money_5.md "wikilink")
   - 2018年： MNET [The Call](../Page/The_Call.md "wikilink")
   - 2018年： KBS 2TV《[Suits](../Page/Suits_\(韓國電視劇\).md "wikilink")》客串演出
 
@@ -281,11 +272,7 @@ Me The Money
   -
   -
   -
-[Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink")
-[Category:韩国音乐家](https://zh.wikipedia.org/wiki/Category:韩国音乐家 "wikilink")
-[Category:仁川廣域市出身人物](https://zh.wikipedia.org/wiki/Category:仁川廣域市出身人物 "wikilink")
-[Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
+[Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink") [Category:韩国音乐家](https://zh.wikipedia.org/wiki/Category:韩国音乐家 "wikilink") [Category:仁川廣域市出身人物](https://zh.wikipedia.org/wiki/Category:仁川廣域市出身人物 "wikilink") [Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
 
 1.
 2.

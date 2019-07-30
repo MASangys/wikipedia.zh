@@ -1,6 +1,4 @@
-**VIXX
-LR**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Jellyfish娛樂於](../Page/Jellyfish娛樂.md "wikilink")2015年所推出的[VIXX子團體](../Page/VIXX.md "wikilink")，由LEO、RAVI兩名成員組成。2015年8月17日公開首張迷你專輯《[Beautiful
-Liar](../Page/Beautiful_Liar_\(迷你專輯\).md "wikilink")》。
+**VIXX LR**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")於2015年所推出的[VIXX](../Page/VIXX.md "wikilink")子團體，由LEO、RAVI兩名成員組成。2015年8月17日公開首張迷你專輯《[Beautiful Liar](../Page/Beautiful_Liar_\(迷你專輯\).md "wikilink")》。
 
 ## 成員列表
 
@@ -187,7 +185,4 @@ Liar](../Page/Beautiful_Liar_\(迷你專輯\).md "wikilink")》。
 
   - [RAVI Instagram](https://instagram.com/rravii0215)
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")

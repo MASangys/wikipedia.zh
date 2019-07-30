@@ -1,14 +1,11 @@
-**Da-iCE**（），是日本的一個表演藝術團體及舞蹈流行音樂組合。所屬經紀公司為[愛貝克思管理](../Page/愛貝克思管理.md "wikilink")，唱片公司為[環球音樂
-(日本)](../Page/環球音樂_\(日本\).md "wikilink")。
+**Da-iCE**（），是日本的一個表演藝術團體及舞蹈流行音樂組合。所屬經紀公司為[愛貝克思管理](../Page/愛貝克思管理.md "wikilink")，唱片公司為[環球音樂 (日本)](../Page/環球音樂_\(日本\).md "wikilink")。
 
 ## 歷史
 
   - 2011年1月15日，開始有了活動。
   - 2011年1月17日，團體結成。
   - 2011年4月11日，在渋谷VUENOS初次露面。
-  - 2012年9月22 -
-    23日，為同經紀公司的前輩[AAA的巡迴演唱會](https://zh.wikipedia.org/wiki/AAA "wikilink")「AAA
-    TOUR 2012-777- TRIPLE SEVEN」在橫濱開場。
+  - 2012年9月22 - 23日，為同經紀公司的前輩[AAA的巡迴演唱會](https://zh.wikipedia.org/wiki/AAA "wikilink")「AAA TOUR 2012-777- TRIPLE SEVEN」在橫濱開場。
   - 2012年12月12日，第一張迷你專輯『Da-iCE』發行\[1\]。
   - 2013年1月，第1次巡演「Da-iCE LIVE TOUR 2013 〜PHASE0〜」\[2\]。
   - 2013年5月，第2次巡演「Da-iCE LIVE TOUR 2013 -PHASE 1」\[3\]\[4\]。
@@ -23,23 +20,20 @@
   - 2015年1月7日，第4張單曲「もう一度だけ」發行。
   - 2015年4月15日，第5張單曲「BILLION DREAMS」發行。
   - 2015年5月5日～7月30日，第5次巡演「Da-iCE Live House Tour 2015 - PHASE 4 -」。
-  - 2015年6月12日，在[日本赤十字社舉辦的](../Page/日本赤十字社.md "wikilink")「LOVE in Action
-    Meeting (LIVE)」演出\[11\]\[12\]\[13\]。
+  - 2015年6月12日，在[日本赤十字社](../Page/日本赤十字社.md "wikilink")舉辦的「LOVE in Action Meeting (LIVE)」演出\[11\]\[12\]\[13\]。
   - 2015年7月31日～8月6日，在愛貝克思舉辦的夏日野外LIVE「[A-nation](https://zh.wikipedia.org/wiki/A-nation "wikilink")」演出\[14\]。
   - 2015年8月12日，第6張單曲「エビバディ」發行。
   - 2015年11月4日，第7張單曲「HELLO」發行。
   - 2015年11月21日～2016年1月31日，第6次巡演「Live House Tour 2015-2016 -PHASE 4-」。
   - 2016年1月6日，第2張專輯「EVERY SEASON」發行。
-  - 2016年4月6日，第8張單曲「WATCH OUT」、第3張影像作品「Da-iCE Live House Tour 2015-2016
-    -PHASE 4 HELLO-」發行。
+  - 2016年4月6日，第8張單曲「WATCH OUT」、第3張影像作品「Da-iCE Live House Tour 2015-2016 -PHASE 4 HELLO-」發行。
   - 2016年7月15日～2016年11月27日，第7次巡演「 HALL TOUR 2016 -PHASE5- 」。
   - 2016年7月20日，第9張單曲「パラダイブ」發行。
   - 2016年11月2日，第10張單曲「恋ごころ」發行。
   - 2017年1月17日，PHASE５終場，初次至日本武道館公演，也是Da-iCE結成６週年的生日。
   - 2017年1月25日，第3張專輯「NEXT PHASE」發行。
   - 2017年3月，手機戀愛遊戲『Another story of Da-iCE～恋ごころ～』上架。
-  - 2017年6月14日，第11張單曲「トニカクHEY」&第4張影像作品「Da-iCE HALL TOUR 2016 -PHASE 5-
-    FINAL in 日本武道館」發行。
+  - 2017年6月14日，第11張單曲「トニカクHEY」&第4張影像作品「Da-iCE HALL TOUR 2016 -PHASE 5- FINAL in 日本武道館」發行。
   - 2017年6月23日\~11月19日，第8次巡演「Da-iCE LIVE TOUR 2017 -NEXT PHASE-」。
 
 ## 成員
@@ -84,7 +78,7 @@ Da-iCE的隊長。團中擔任 Performer。
 
 ＜TV＞
 
-2011年在[朝日電視台的電視劇](../Page/朝日電視台.md "wikilink")「」裡演出。\[16\]
+2011年在[朝日電視台](../Page/朝日電視台.md "wikilink")的電視劇「」裡演出。\[16\]
 
 ### 花村想太(Hanamura Sota)
 
@@ -114,7 +108,7 @@ Da-iCE的隊長。團中擔任 Performer。
 
 ＜TV＞
 
-2011年在[朝日電視台的電視劇](../Page/朝日電視台.md "wikilink")「アスコーマーチ〜明日香工業高校物語〜」裡演出。\[18\]
+2011年在[朝日電視台](../Page/朝日電視台.md "wikilink")的電視劇「アスコーマーチ〜明日香工業高校物語〜」裡演出。\[18\]
 
 ## 作品
 
@@ -1156,15 +1150,12 @@ UMBK-1260/1【DVD】</p></td>
   -
   - Da-iCE 手機戀愛遊戲[1](https://twitter.com/Da_iCE_G)
 
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
+[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
 
 1.  [Da-iCE（ダイス）、12月12日に待望の初ＣＤリリースが決定\!\!](http://prtimes.jp/main/html/rd/p/000000262.000002481.html)，2012-11-09。
 
 2.
-3.  [Da-iCE、1stシングルはライブ定番曲「I'll be
-    back」](http://natalie.mu/music/news/91189)，2013-05-23。
+3.  [Da-iCE、1stシングルはライブ定番曲「I'll be back」](http://natalie.mu/music/news/91189)，2013-05-23。
 
 4.  [ダンス＆ヴォーカルグループ“Da-iCE”待望の初シングル](http://tower.jp/article/feature_item/2013/05/08/0702)，2013-05-08。
 
@@ -1185,8 +1176,7 @@ UMBK-1260/1【DVD】</p></td>
 
 14.
 
-15. [山田孝之、『闇金ウシジマくん』映画化決定
-    「“寅さん”みたいにシリーズ化」\!?](http://www.oricon.co.jp/news/2000463/)，2011-08-04。
+15. [山田孝之、『闇金ウシジマくん』映画化決定 「“寅さん”みたいにシリーズ化」\!?](http://www.oricon.co.jp/news/2000463/)，2011-08-04。
 
 16. [工業高校の女子描く「アスコーマーチ！」TVドラマ化決定](http://natalie.mu/comic/news/44679)，2011-02-08。
 

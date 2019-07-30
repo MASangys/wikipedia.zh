@@ -1,5 +1,4 @@
-[Tubular_heat_exchanger.png](https://zh.wikipedia.org/wiki/File:Tubular_heat_exchanger.png "fig:Tubular_heat_exchanger.png")
-[Exchangerflow.svg](https://zh.wikipedia.org/wiki/File:Exchangerflow.svg "fig:Exchangerflow.svg")
+[Tubular_heat_exchanger.png](https://zh.wikipedia.org/wiki/File:Tubular_heat_exchanger.png "fig:Tubular_heat_exchanger.png") [Exchangerflow.svg](https://zh.wikipedia.org/wiki/File:Exchangerflow.svg "fig:Exchangerflow.svg")
 
 **NTU法**是**熱傳單元數法**的簡稱，也稱為**熱交換有效性**法，是在一[熱交換器](https://zh.wikipedia.org/wiki/熱交換器 "wikilink")（特別是的熱交換器）沒有[對數平均溫差](../Page/對數平均溫差.md "wikilink")（LMTD）的條件下，計算其[熱交換速率的方式](https://zh.wikipedia.org/wiki/熱交換 "wikilink")。
 
@@ -13,8 +12,7 @@
 
 \[q_{max}\ = C_{min} (T_{h,i}-T_{c,i})\]
 
-其中\(\ q_{max}\)為單位時間下的最大熱傳。
-\(\ C_{min}\)需對應熱容量率最小的流體，也就是在假想的無限長度熱交換器中有最大可能溫度變化的流體。另一種流體其溫度隨長度的變化較慢。NTU法只考慮有最大溫度變化的流體。
+其中\(\ q_{max}\)為單位時間下的最大熱傳。 \(\ C_{min}\)需對應熱容量率最小的流體，也就是在假想的無限長度熱交換器中有最大可能溫度變化的流體。另一種流體其溫度隨長度的變化較慢。NTU法只考慮有最大溫度變化的流體。
 
 有效性（E）定義為實際熱交換率及最大熱交換率的比例：
 
@@ -41,9 +39,7 @@
 \[NTU \ = \frac{U A}{C_{min}}\]
 
   -
-    其中
-    \(\ U\)為整體[传热系数](https://zh.wikipedia.org/wiki/传热系数 "wikilink")，而\\
-    A</math>為傳熱面積。
+    其中 \(\ U\)為整體[传热系数](https://zh.wikipedia.org/wiki/传热系数 "wikilink")，而\\ A</math>為傳熱面積。
 
 ## 特定幾何形狀熱交換器的有效性
 
@@ -61,18 +57,14 @@
 
 可以針對或是計算類似的有效性。萁和流體流動方式（逆流、並流或交叉流）、（壳管式热交换器的）通路數量及高低溫流體是否有混合有關。
 
-注意
-\(C_r \ =  0\)為一特殊條件，表示熱交換器中有[凝結或是](../Page/凝結.md "wikilink")[蒸發等](https://zh.wikipedia.org/wiki/蒸發 "wikilink")[相變](../Page/相變.md "wikilink")。因此在此特殊情形下，熱交換器的特性和流體配置方式無關，其有效性為為：
+注意 \(C_r \ =  0\)為一特殊條件，表示熱交換器中有[凝結](../Page/凝結.md "wikilink")或是[蒸發等](https://zh.wikipedia.org/wiki/蒸發 "wikilink")[相變](../Page/相變.md "wikilink")。因此在此特殊情形下，熱交換器的特性和流體配置方式無關，其有效性為為：
 
 \[E \ = 1 - \exp[-NTU]\]
 
 ## 參考資料
 
-  - F. P. Incropera & D. P. DeWitt 1990 *Fundamentals of Heat and Mass
-    Transfer*, 3rd edition, pp. 658–660. Wiley, New York
-  - F. P. Incropera, D. P. DeWitt, T. L. Bergman & A. S. Lavine 2006
-    ''Fundamentals of Heat and Mass Transfer '',6th edition, pp 686–688.
-    John Wiley & Sons US
+  - F. P. Incropera & D. P. DeWitt 1990 *Fundamentals of Heat and Mass Transfer*, 3rd edition, pp. 658–660. Wiley, New York
+  - F. P. Incropera, D. P. DeWitt, T. L. Bergman & A. S. Lavine 2006 ''Fundamentals of Heat and Mass Transfer '',6th edition, pp 686–688. John Wiley & Sons US
 
 [Category:传热](https://zh.wikipedia.org/wiki/Category:传热 "wikilink")
 

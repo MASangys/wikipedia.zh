@@ -1,12 +1,8 @@
-**名為妳的遊樂設施**（****），是日本男子演唱團體[Hey\! Say\!
-JUMP的第](../Page/Hey!_Say!_JUMP.md "wikilink")15張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2015年10月21日由[J
-Storm發售](../Page/J_Storm.md "wikilink")。
+**名為妳的遊樂設施**（****），是日本男子演唱團體[Hey\! Say\! JUMP的第](../Page/Hey!_Say!_JUMP.md "wikilink")15張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2015年10月21日由[J Storm發售](../Page/J_Storm.md "wikilink")。
 
 ## 概要
 
-新歌 《名為妳的遊樂設施 》是首唱出突然有所竟展且完全無法預測，就像是雲霄飛車一般的愛戀心情的歌曲
-表現出強烈愛戀的奔馳感以及會讓心炸裂開來的曲調，加上歌詞中遍布著"你是
-No.1"的歌句，真可說是首無敵的雲霄飛車戀愛流行樂曲\!
+新歌 《名為妳的遊樂設施 》是首唱出突然有所竟展且完全無法預測，就像是雲霄飛車一般的愛戀心情的歌曲 表現出強烈愛戀的奔馳感以及會讓心炸裂開來的曲調，加上歌詞中遍布著"你是 No.1"的歌句，真可說是首無敵的雲霄飛車戀愛流行樂曲\!
 
 ## 收錄曲
 
@@ -18,8 +14,7 @@ No.1"的歌句，真可說是首無敵的雲霄飛車戀愛流行樂曲\!
 
 1.  **名為妳的遊樂設施** (キミアトラクション)
       -
-        作詞：MiNE・川口進、作曲：CHOKKAKU・川口進・Christofer Erixon・Joakim
-        Bjornberg、編曲：CHOKKAKU
+        作詞：MiNE・川口進、作曲：CHOKKAKU・川口進・Christofer Erixon・Joakim Bjornberg、編曲：CHOKKAKU
         Kose Cosmeport『絲芙蒂』廣告主題曲
 2.  **Chiku Taku 滴答**
       -
@@ -95,11 +90,7 @@ No.1"的歌句，真可說是首無敵的雲霄飛車戀愛流行樂曲\!
 
 ## 外部链接
 
-  - [キミアトラクション（Oringinla Karaoke） - J
-    Storm](http://www.j-storm.co.jp/heysayjump/disco/single/s_16.html)
-  - [Johsnny's net - Hey\! Say\! JUMP
-    Discography](http://www.johnnys-net.jp/page?id=disco&artist=15&category=1&page=1)
+  - [キミアトラクション（Oringinla Karaoke） - J Storm](http://www.j-storm.co.jp/heysayjump/disco/single/s_16.html)
+  - [Johsnny's net - Hey\! Say\! JUMP Discography](http://www.johnnys-net.jp/page?id=disco&artist=15&category=1&page=1)
 
-[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink")
-[Category:Hey\!_Say\!_JUMP歌曲](https://zh.wikipedia.org/wiki/Category:Hey!_Say!_JUMP歌曲 "wikilink")
-[Category:2015年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:Hey\!_Say\!_JUMP歌曲](https://zh.wikipedia.org/wiki/Category:Hey!_Say!_JUMP歌曲 "wikilink") [Category:2015年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Oricon單曲週榜冠軍作品 "wikilink")

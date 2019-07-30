@@ -1,4 +1,4 @@
-《**Wanted**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2016年6月22日起播出的[特別劇](../Page/SBS特別劇.md "wikilink")，由《[49天](../Page/49天.md "wikilink")》、《[離婚律師戀愛中](../Page/離婚律師戀愛中.md "wikilink")》[朴容順導演與新人編劇韓智完攜手合作](../Page/朴容順.md "wikilink")，講述了一名韓國知名女演員為了尋找被綁架的兒子而出演真人秀，根據嫌犯的要求完成任務，孤軍奮戰的故事。
+《**Wanted**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2016年6月22日起播出的[特別劇](../Page/SBS特別劇.md "wikilink")，由《[49天](../Page/49天.md "wikilink")》、《[離婚律師戀愛中](../Page/離婚律師戀愛中.md "wikilink")》[朴容順](../Page/朴容順.md "wikilink")導演與新人編劇韓智完攜手合作，講述了一名韓國知名女演員為了尋找被綁架的兒子而出演真人秀，根據嫌犯的要求完成任務，孤軍奮戰的故事。
 
 ## 演員陣容
 
@@ -299,8 +299,7 @@
 
 ## 同時段競爭節目
 
-  - [KBS](../Page/韓國放送公社.md "wikilink")
-    ：《[Master－麵條之神](../Page/Master－麵條之神.md "wikilink")》、《[任意依戀](../Page/任意依戀.md "wikilink")》
+  - [KBS](../Page/韓國放送公社.md "wikilink") ：《[Master－麵條之神](../Page/Master－麵條之神.md "wikilink")》、《[任意依戀](../Page/任意依戀.md "wikilink")》
   - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[好運羅曼史](../Page/好運羅曼史.md "wikilink")》、《[W](https://zh.wikipedia.org/wiki/W_\(電視劇\) "wikilink")》
 
 ## 獎項
@@ -346,11 +345,7 @@
 
   - [韓國SBS官方網站](http://program.sbs.co.kr/builder/programMainList.do?pgm_id=22000009530)
 
-[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink")
-[Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink")
-[Category:驚悚電視劇](https://zh.wikipedia.org/wiki/Category:驚悚電視劇 "wikilink")
-[Category:绑架题材作品](https://zh.wikipedia.org/wiki/Category:绑架题材作品 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink") [Category:驚悚電視劇](https://zh.wikipedia.org/wiki/Category:驚悚電視劇 "wikilink") [Category:绑架题材作品](https://zh.wikipedia.org/wiki/Category:绑架题材作品 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
 1.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 2.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)

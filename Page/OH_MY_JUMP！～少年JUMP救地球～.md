@@ -1,5 +1,4 @@
-《**OH MY
-JUMP！～少年JUMP救地球～**》（）是《[周刊少年Jump](https://zh.wikipedia.org/wiki/周刊少年Jump "wikilink")》创刊50周年之际与[電視劇24共同出品的一部电视剧](../Page/電視劇24.md "wikilink")，讲述的是平凡营业员月山浩史通过《周刊少年Jump》中的故事一步一步成长的故事，当中还穿插有各个漫画作品的创作秘话。\[1\]\[2\]该剧由[三木康一郎](https://zh.wikipedia.org/wiki/三木康一郎 "wikilink")、[青山貴洋执导](https://zh.wikipedia.org/wiki/青山貴洋 "wikilink")\[3\]，参演演员有[伊藤淳史](../Page/伊藤淳史.md "wikilink")、[齊木茂](https://zh.wikipedia.org/wiki/齊木茂 "wikilink")、[柳俊太郎](https://zh.wikipedia.org/wiki/柳俊太郎 "wikilink")、[佐藤仁美](../Page/佐藤仁美.md "wikilink")、[寺脇康文](../Page/寺脇康文.md "wikilink")、[生駒里奈等人](../Page/生駒里奈.md "wikilink")，2018年1月12日开播\[4\]。
+《**OH MY JUMP！～少年JUMP救地球～**》（）是《[周刊少年Jump](https://zh.wikipedia.org/wiki/周刊少年Jump "wikilink")》创刊50周年之际与[電視劇24](../Page/電視劇24.md "wikilink")共同出品的一部电视剧，讲述的是平凡营业员月山浩史通过《周刊少年Jump》中的故事一步一步成长的故事，当中还穿插有各个漫画作品的创作秘话。\[1\]\[2\]该剧由[三木康一郎](https://zh.wikipedia.org/wiki/三木康一郎 "wikilink")、[青山貴洋执导](https://zh.wikipedia.org/wiki/青山貴洋 "wikilink")\[3\]，参演演员有[伊藤淳史](../Page/伊藤淳史.md "wikilink")、[齊木茂](https://zh.wikipedia.org/wiki/齊木茂 "wikilink")、[柳俊太郎](https://zh.wikipedia.org/wiki/柳俊太郎 "wikilink")、[佐藤仁美](../Page/佐藤仁美.md "wikilink")、[寺脇康文](../Page/寺脇康文.md "wikilink")、[生駒里奈](../Page/生駒里奈.md "wikilink")等人，2018年1月12日开播\[4\]。
 
 ## 演員列表
 
@@ -63,13 +62,7 @@ JUMP！～少年JUMP救地球～**》（）是《[周刊少年Jump](https://zh.w
 
 ## 参考资料
 
-[Category:週刊少年Jump](https://zh.wikipedia.org/wiki/Category:週刊少年Jump "wikilink")
-[Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink")
-[Category:電視劇24](https://zh.wikipedia.org/wiki/Category:電視劇24 "wikilink")
-[Category:漫畫題材作品](https://zh.wikipedia.org/wiki/Category:漫畫題材作品 "wikilink")
-[Category:餐館背景電視劇](https://zh.wikipedia.org/wiki/Category:餐館背景電視劇 "wikilink")
-[Category:御宅族題材作品](https://zh.wikipedia.org/wiki/Category:御宅族題材作品 "wikilink")
-[Category:Cosplay](https://zh.wikipedia.org/wiki/Category:Cosplay "wikilink")
+[Category:週刊少年Jump](https://zh.wikipedia.org/wiki/Category:週刊少年Jump "wikilink") [Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink") [Category:電視劇24](https://zh.wikipedia.org/wiki/Category:電視劇24 "wikilink") [Category:漫畫題材作品](https://zh.wikipedia.org/wiki/Category:漫畫題材作品 "wikilink") [Category:餐館背景電視劇](https://zh.wikipedia.org/wiki/Category:餐館背景電視劇 "wikilink") [Category:御宅族題材作品](https://zh.wikipedia.org/wiki/Category:御宅族題材作品 "wikilink") [Category:Cosplay](https://zh.wikipedia.org/wiki/Category:Cosplay "wikilink")
 
 1.
 

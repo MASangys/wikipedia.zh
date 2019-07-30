@@ -1,13 +1,6 @@
-[缩略图](https://zh.wikipedia.org/wiki/File:KRACK-logo-small.png "fig:缩略图")
-**KRACK**（取自“Key Reinstallation
-Attack”的缩写，中文：**密钥重装攻击**）是一种针对保护[Wi-Fi连接的](../Page/Wi-Fi.md "wikilink")[Wi-Fi
-Protected
-Access](../Page/WPA.md "wikilink")（WPA）协议的攻击手段，于2017年由\[1\][比利时研究员Mathy](../Page/比利时.md "wikilink")
-Vanhoef和[鲁汶大学Frank](https://zh.wikipedia.org/wiki/荷语天主教鲁汶大学 "wikilink")
-Piessens发现。\[2\]Vanhoef的研究小组于2017年10月公布了此攻击的有关细节。\[3\]\[4\]\[5\]\[6\]
+[缩略图](https://zh.wikipedia.org/wiki/File:KRACK-logo-small.png "fig:缩略图") **KRACK**（取自“Key Reinstallation Attack”的缩写，中文：**密钥重装攻击**）是一种针对保护[Wi-Fi](../Page/Wi-Fi.md "wikilink")连接的[Wi-Fi Protected Access](../Page/WPA.md "wikilink")（WPA）协议的攻击手段，于2017年由\[1\][比利时](../Page/比利时.md "wikilink")研究员Mathy Vanhoef和[鲁汶大学Frank](https://zh.wikipedia.org/wiki/荷语天主教鲁汶大学 "wikilink") Piessens发现。\[2\]Vanhoef的研究小组于2017年10月公布了此攻击的有关细节。\[3\]\[4\]\[5\]\[6\]
 
-此漏洞影响所有主要软件平台，包括[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android以及](../Page/Android.md "wikilink")[Linux](../Page/Linux.md "wikilink")。被Linux、Android和[OpenBSD广泛使用的开源实现](../Page/OpenBSD.md "wikilink")尤易受到影响，其可以被操纵安装全零的[加密密钥](../Page/密钥.md "wikilink")，从而在[中间人攻击中有效消除WPA](../Page/中间人攻击.md "wikilink")2的防护能力。\[7\]\[8\]
+此漏洞影响所有主要软件平台，包括[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")以及[Linux](../Page/Linux.md "wikilink")。被Linux、Android和[OpenBSD](../Page/OpenBSD.md "wikilink")广泛使用的开源实现尤易受到影响，其可以被操纵安装全零的[加密密钥](../Page/密钥.md "wikilink")，从而在[中间人攻击](../Page/中间人攻击.md "wikilink")中有效消除WPA2的防护能力。\[7\]\[8\]
 
 ## 细节
 
@@ -19,8 +12,7 @@ Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](h
 
 介绍该漏洞的文档已提供在线下载\[11\]，并将于11月1日在[ACM计算机与通信安全会议上正式提交](../Page/计算机协会.md "wikilink")。
 
-US-CERT正在追踪此漏洞，名列VU\#228519。\[12\]下列[CVE标识符与此KRACK漏洞相关](https://zh.wikipedia.org/wiki/通用漏洞披露 "wikilink")：、、、、、、{{
-CVE|2017-13084}}、、、。
+US-CERT正在追踪此漏洞，名列VU\#228519。\[12\]下列[CVE标识符与此KRACK漏洞相关](https://zh.wikipedia.org/wiki/通用漏洞披露 "wikilink")：、、、、、、{{ CVE|2017-13084}}、、、。
 
 用户可以更新Wi-Fi客户端（如[操作系统](../Page/操作系统.md "wikilink")）和Wi-Fi接入点设备[固件来抵御攻击](https://zh.wikipedia.org/wiki/固件 "wikilink")。\[13\]\[14\]但是，许多较旧的设备可能很晚乃至永远不会得到修复更新。\[15\]\[16\]
 
@@ -33,9 +25,7 @@ CVE|2017-13084}}、、、。
 
   - <https://www.krackattacks.com/>
 
-[Category:2017年建立](https://zh.wikipedia.org/wiki/Category:2017年建立 "wikilink")
-[Category:保全漏洞](https://zh.wikipedia.org/wiki/Category:保全漏洞 "wikilink")
-[Category:Wi-Fi](https://zh.wikipedia.org/wiki/Category:Wi-Fi "wikilink")
+[Category:2017年建立](https://zh.wikipedia.org/wiki/Category:2017年建立 "wikilink") [Category:保全漏洞](https://zh.wikipedia.org/wiki/Category:保全漏洞 "wikilink") [Category:Wi-Fi](https://zh.wikipedia.org/wiki/Category:Wi-Fi "wikilink")
 
 1.
 2.
@@ -50,7 +40,6 @@ CVE|2017-13084}}、、、。
 11.
 12.
 13. <https://github.com/kristate/krackinfo>
-14. [WiFi is broken – here's the companies that have already fixed
-    it](https://char.gd/blog/2017/wifi-has-been-broken-heres-the-companies-that-have-already-fixed-it)
+14. [WiFi is broken – here's the companies that have already fixed it](https://char.gd/blog/2017/wifi-has-been-broken-heres-the-companies-that-have-already-fixed-it)
 15. <https://www.tomsguide.com/us/wifi-krack-attack-what-to-do,news-25990.html>
 16. <https://www.bleepingcomputer.com/news/security/new-krack-attack-breaks-wpa2-wifi-protocol/>

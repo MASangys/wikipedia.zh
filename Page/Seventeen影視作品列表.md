@@ -405,7 +405,7 @@
 <td><p>2017 第23屆<a href="../Page/夢想演唱會.md" title="wikilink">夢想演唱會</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/崔勝哲" title="wikilink">S.coups</a></p></td>
 <td><p>正式MC<br />
-與<a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/李善彬.md" title="wikilink">李善彬主持</a> [13]</p></td>
+與<a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/李善彬.md" title="wikilink">李善彬</a>主持 [13]</p></td>
 </tr>
 <tr class="even">
 <td><p>8月19日</p></td>
@@ -579,7 +579,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Ustream" title="wikilink">Ustream</a></p></td>
 <td><p>SEVENTEEN TV Season 1</p></td>
 <td><p>15</p></td>
-<td><p>參與成員：<a href="../Page/文俊輝.md" title="wikilink">Jun</a>、<a href="https://zh.wikipedia.org/wiki/權順榮" title="wikilink">Hoshi</a>、<a href="../Page/全圓佑.md" title="wikilink">圓佑</a>、<a href="../Page/李知勳_(SEVENTEEN).md" title="wikilink">WOOZI</a>、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>、<a href="../Page/金珉奎.md" title="wikilink">珉奎</a>、<a href="../Page/夫勝寛.md" title="wikilink">勝寛</a>、<a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a>、Dino、<a href="https://zh.wikipedia.org/wiki/Samuel_(2002年)" title="wikilink">Samuel</a>、<a href="https://zh.wikipedia.org/wiki/姚明明" title="wikilink">姚明明</a>[15]</p></td>
+<td><p>參與成員：<a href="../Page/文俊輝.md" title="wikilink">Jun</a>、<a href="https://zh.wikipedia.org/wiki/權順榮" title="wikilink">Hoshi</a>、<a href="../Page/全圓佑.md" title="wikilink">圓佑</a>、<a href="../Page/李知勳_(SEVENTEEN).md" title="wikilink">WOOZI</a>、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>、<a href="../Page/金珉奎.md" title="wikilink">珉奎</a>、<a href="../Page/夫勝寛.md" title="wikilink">勝寛</a>、<a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a>、<a href="https://zh.wikipedia.org/wiki/Dino" title="wikilink">Dino</a>、<a href="https://zh.wikipedia.org/wiki/Samuel_(2002年)" title="wikilink">Samuel</a>、<a href="https://zh.wikipedia.org/wiki/姚明明" title="wikilink">姚明明</a>[15]</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年3月23日－5月11日</p></td>
@@ -1235,9 +1235,9 @@ V LIVE</p></td>
 
 ## 音樂劇
 
-| 演出日期            | 劇名                                                              | 參演成員                                               | 角色                                                  | 演出場次                          |
-| --------------- | --------------------------------------------------------------- | -------------------------------------------------- | --------------------------------------------------- | ----------------------------- |
-| 2019年6月15日-8月4日 | [Excalibur](https://zh.wikipedia.org/wiki/Excalibur "wikilink") | [DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink") | [亞瑟王](https://zh.wikipedia.org/wiki/亞瑟王 "wikilink") | 6月19日、6月22日、6月25日、6月28日、6月30日 |
+| 演出日期        | 劇名                                                              | 參演成員                                               | 角色                                                  | 演出場次                                                        |
+| ----------- | --------------------------------------------------------------- | -------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------- |
+| 2019年6月15日- | [Excalibur](https://zh.wikipedia.org/wiki/Excalibur "wikilink") | [DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink") | [亞瑟王](https://zh.wikipedia.org/wiki/亞瑟王 "wikilink") | 6月19、22、25、28、30日 7月12、13、17、18、19、20、21、23、24、26、27、28、31日 |
 
 ## 雜誌拍攝與訪問
 
@@ -1781,8 +1781,7 @@ V LIVE</p></td>
 
 6.
 
-7.  [香港電影導演會
-    (2005-2014)](http://www.tonyleung.info/films/hong-kong-film-directors-awards-1.txt)
+7.  [香港電影導演會 (2005-2014)](http://www.tonyleung.info/films/hong-kong-film-directors-awards-1.txt)
 
 8.
 
@@ -1834,5 +1833,4 @@ V LIVE</p></td>
 
 35.
 
-36.  ananweb - マガジンハウス|newspaper=ananweb -
-    マガジンハウス|accessdate=2017-12-22|language=ja}}
+36.  ananweb - マガジンハウス|newspaper=ananweb - マガジンハウス|accessdate=2017-12-22|language=ja}}

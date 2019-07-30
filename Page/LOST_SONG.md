@@ -1,8 +1,6 @@
-是[日本動畫公司](../Page/日本.md "wikilink")[LIDENFILMS](../Page/LIDENFILMS.md "wikilink")×[DWANGO共同製作的原創](../Page/多玩國.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。2018年4月7日首播\[1\]。
+是[日本](../Page/日本.md "wikilink")動畫公司[LIDENFILMS](../Page/LIDENFILMS.md "wikilink")×[DWANGO共同製作的原創](../Page/多玩國.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。2018年4月7日首播\[1\]。
 
-2016年11月，在[幕張展覽館舉辦的](../Page/幕張展覽館.md "wikilink")「[鈴木KONOMI](../Page/鈴木KONOMI.md "wikilink")
-Birthday Live 2016
-～Cheers\!\!\!～」活動中，發表[歌手鈴木KONOMI決定挑戰配音工作](../Page/歌手.md "wikilink")，第一次為該作動畫獻聲\[2\]。
+2016年11月，在[幕張展覽館](../Page/幕張展覽館.md "wikilink")舉辦的「[鈴木KONOMI](../Page/鈴木KONOMI.md "wikilink") Birthday Live 2016 ～Cheers\!\!\!～」活動中，發表[歌手](../Page/歌手.md "wikilink")鈴木KONOMI決定挑戰配音工作，第一次為該作動畫獻聲\[2\]。
 
 動畫宣傳語為「**這首歌，甚至能改變星球的命運**」\[3\]。
 
@@ -84,8 +82,7 @@ Birthday Live 2016
   - 動畫協力：櫻井親良\[7\]
   - 配角設定：原修一、藤澤俊幸\[8\]
   - 特效作畫監督：
-  - 設計工作：[BARNSTORM DESIGN
-    LABO](http://barnstorm-design-labo.com/)（由利聰、大山裕之、田中俊成）\[9\]
+  - 設計工作：[BARNSTORM DESIGN LABO](http://barnstorm-design-labo.com/)（由利聰、大山裕之、田中俊成）\[9\]
   - 美術監督：[池信孝](../Page/池信孝.md "wikilink")、佐藤正浩、大久保錦一\[10\]
   - 背景美術：\[11\]
   - 色彩設計：大西峰代\[12\]
@@ -339,12 +336,11 @@ Birthday Live 2016
 
 ## 播放電視台
 
-網路電視由[Netflix從](../Page/Netflix.md "wikilink")2018年3月31日至6月16日每週六在日本國內上架更新，之後在同年10月5日向全世界發佈\[20\]。
+網路電視由[Netflix](../Page/Netflix.md "wikilink")從2018年3月31日至6月16日每週六在日本國內上架更新，之後在同年10月5日向全世界發佈\[20\]。
 
 ## 藍光
 
-2018年9月26日，發行該動畫『LOST SONG Blu-ray BOX ～Full
-Orchestra～』的藍光套組，還有全12話都收錄這套藍光內\[21\]。
+2018年9月26日，發行該動畫『LOST SONG Blu-ray BOX ～Full Orchestra～』的藍光套組，還有全12話都收錄這套藍光內\[21\]。
 
 ## 來源
 
@@ -354,11 +350,7 @@ Orchestra～』的藍光套組，還有全12話都收錄這套藍光內\[21\]。
 
   -
 
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:Ultra_Super_Pictures](https://zh.wikipedia.org/wiki/Category:Ultra_Super_Pictures "wikilink")
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
-[Category:Netflix外購動畫](https://zh.wikipedia.org/wiki/Category:Netflix外購動畫 "wikilink")
-[Category:音樂動畫](https://zh.wikipedia.org/wiki/Category:音樂動畫 "wikilink")
+[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:Ultra_Super_Pictures](https://zh.wikipedia.org/wiki/Category:Ultra_Super_Pictures "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:Netflix外購動畫](https://zh.wikipedia.org/wiki/Category:Netflix外購動畫 "wikilink") [Category:音樂動畫](https://zh.wikipedia.org/wiki/Category:音樂動畫 "wikilink")
 
 1.
 

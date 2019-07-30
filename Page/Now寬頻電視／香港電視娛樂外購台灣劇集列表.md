@@ -1,5 +1,5 @@
-本條目列出曾於[Now寬頻電視](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")／[香港電視娛樂播放但並非由其公司所製作的](../Page/香港電視娛樂.md "wikilink")**外購台灣劇集**，一般以粵/國雙語廣播。
-<small>註：劇集名稱**前**的為該劇於[Now寬頻電視](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")／[香港電視娛樂的首播日期及頻道](../Page/香港電視娛樂.md "wikilink")。</small>
+本條目列出曾於[Now寬頻電視](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")／[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")播放但並非由其公司所製作的**外購台灣劇集**，一般以粵/國雙語廣播。
+<small>註：劇集名稱**前**的為該劇於[Now寬頻電視](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")／[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")的首播日期及頻道。</small>
 
 ## 2010年
 
@@ -181,7 +181,7 @@
 
 </div>
 
-1.  [Now寬頻電視只有收費電視播映權](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")，免費電視播映權由[無綫電視或](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[亞洲電視擁有](../Page/亞洲電視.md "wikilink")
+1.  [Now寬頻電視只有收費電視播映權](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")，免費電視播映權由[無綫電視或](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")擁有
 
 2.
 3.  曾在Now影視點播站／Now 101台／Now觀星台自選服務首播

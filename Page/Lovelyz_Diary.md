@@ -1,10 +1,8 @@
-**Lovelyz Diary**（韓語：러블리즈
-다이어리）是一系列由[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Lovelyz出演的](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")[綜藝及](https://zh.wikipedia.org/wiki/綜藝 "wikilink")[真人秀節目](https://zh.wikipedia.org/wiki/真人秀 "wikilink")。節目中將展現[Lovelyz各種不同的各種面貌](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")。
+**Lovelyz Diary**（韓語：러블리즈 다이어리）是一系列由[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Lovelyz出演的](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")[綜藝及](https://zh.wikipedia.org/wiki/綜藝 "wikilink")[真人秀節目](https://zh.wikipedia.org/wiki/真人秀 "wikilink")。節目中將展現[Lovelyz各種不同的各種面貌](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")。
 
 ## 第一季 （Lovelyz Diary）
 
-第一季於2014年11月18日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-TVcast播出，主軸為[Lovelyz從練習生生活](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，到準備出道Showcase的日常生活\[1\]。
+第一季於2014年11月18日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") TVcast播出，主軸為[Lovelyz從練習生生活](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，到準備出道Showcase的日常生活\[1\]。
 
 |    |             |                                     |
 | -- | ----------- | ----------------------------------- |
@@ -20,8 +18,7 @@ TVcast播出，主軸為[Lovelyz從練習生生活](https://zh.wikipedia.org/wik
 
 ## 第二季 （Lovelyz Diary Season 2）
 
-第二季於2015年3月6日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-TVcast播出，主軸為第一張專輯改版《[Hi\~](../Page/Hi~.md "wikilink")》回歸期間，[Lovelyz展現的魅力](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")\[2\]。
+第二季於2015年3月6日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") TVcast播出，主軸為第一張專輯改版《[Hi\~](../Page/Hi~.md "wikilink")》回歸期間，[Lovelyz展現的魅力](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")\[2\]。
 
 <table>
 <tbody>
@@ -76,8 +73,7 @@ TVcast播出，主軸為第一張專輯改版《[Hi\~](../Page/Hi~.md "wikilink"
 
 ## 第三季 （Lovelyz Diary Season 3）
 
-第三季於2015年9月22日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-TVcast播出，主軸為第一張迷你專輯《Lovelyz8》的過程與成員的小故事；成員[智秀恢復演藝活動](../Page/徐智秀.md "wikilink")，回歸Lovelyz\[3\]\[4\]\[5\]。
+第三季於2015年9月22日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") TVcast播出，主軸為第一張迷你專輯《Lovelyz8》的過程與成員的小故事；成員[智秀恢復演藝活動](../Page/徐智秀.md "wikilink")，回歸Lovelyz\[3\]\[4\]\[5\]。
 
 |    |             |                               |
 | -- | ----------- | ----------------------------- |
@@ -93,9 +89,7 @@ TVcast播出，主軸為第一張迷你專輯《Lovelyz8》的過程與成員的
 
 ## 第四季 （Lovelyz Diary Season 4）
 
-第四季於2016年4月28日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V
-app播出，主軸為以分組競賽模式，展現[Lovelyz成員個人的風格](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")\[6\]。
+第四季於2016年4月28日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app播出，主軸為以分組競賽模式，展現[Lovelyz成員個人的風格](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")\[6\]。
 
 <table>
 <tbody>
@@ -182,9 +176,7 @@ LYZ隊：Baby Soul、智愛、Kei、洙正</p></td>
 
 ## 第五季 （Lovelyz Diary Season 5）
 
-第五季於2017年11月21日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V
-app播出，主軸為另一个世界的自己，如果成员们没有成为[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，前往平行宇宙后会如何进行生活\[7\]。
+第五季於2017年11月21日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app播出，主軸為另一个世界的自己，如果成员们没有成为[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，前往平行宇宙后会如何进行生活\[7\]。
 
 |    |             |                     |
 | -- | ----------- | ------------------- |
@@ -200,9 +192,7 @@ app播出，主軸為另一个世界的自己，如果成员们没有成为[Love
 
 ## 第六季 （Lovelyz Diary Season 6）
 
-第六季於2019年5月9日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V
-app播出，主軸為[Lovelyz之任务地狱](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")\[8\]。
+第六季於2019年5月9日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app播出，主軸為[Lovelyz之任务地狱](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")\[8\]。
 
 |    |            |    |
 | -- | ---------- | -- |
@@ -232,18 +222,13 @@ app播出，主軸為[Lovelyz之任务地狱](https://zh.wikipedia.org/wiki/Love
 
   - [V APP專屬頻道](https://channels.vlive.tv/FB183)
 
-[Category:Lovelyz](https://zh.wikipedia.org/wiki/Category:Lovelyz "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:Lovelyz](https://zh.wikipedia.org/wiki/Category:Lovelyz "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
-1.  ["LOVELYZ DIARY"
-    Preview](https://www.youtube.com/watch?v=gXZNMZxBvPE)
-2.  ["LOVELYZ DIARY" SEASON 2
-    Prologue](https://www.youtube.com/watch?v=-MQg1pTXBa0)
+1.  ["LOVELYZ DIARY" Preview](https://www.youtube.com/watch?v=gXZNMZxBvPE)
+2.  ["LOVELYZ DIARY" SEASON 2 Prologue](https://www.youtube.com/watch?v=-MQg1pTXBa0)
 3.  ["LOVELYZ DIARY 3" Teaser 1](https://tv.naver.com/v/528663)
 4.  ["LOVELYZ DIARY 3" Teaser 2](https://tv.naver.com/v/531616)
 5.
 6.  [Lovelyz Diary Season4 Teaser](https://www.vlive.tv/video/7518)
-7.  ['러블리즈 다이어리 시즌5' 예고편 ('Lovelyz Diary Season 5'
-    Teaser)](https://www.vlive.tv/video/48625)
-8.  ['러블리즈 다이어리 시즌6' 예고편 ('Lovelyz Diary Season 6'
-    Teaser)](https://www.vlive.tv/video/126687)
+7.  ['러블리즈 다이어리 시즌5' 예고편 ('Lovelyz Diary Season 5' Teaser)](https://www.vlive.tv/video/48625)
+8.  ['러블리즈 다이어리 시즌6' 예고편 ('Lovelyz Diary Season 6' Teaser)](https://www.vlive.tv/video/126687)

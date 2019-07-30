@@ -1,9 +1,6 @@
-\-- Note: Originally written on English Wikipedia as
-[w:en:Module:Attached_KML](https://zh.wikipedia.org/wiki/w:en:Module:Attached_KML "wikilink")
--- \#\#\#\#\# Localisation (L10n) settings \#\#\#\#\# local L10n = {}
+\-- Note: Originally written on English Wikipedia as [w:en:Module:Attached_KML](https://zh.wikipedia.org/wiki/w:en:Module:Attached_KML "wikilink") -- \#\#\#\#\# Localisation (L10n) settings \#\#\#\#\# local L10n = {}
 
-\-- Template parameter names -- (replace values in quotes with local
-parameter names) L10n.para = {
+\-- Template parameter names -- (replace values in quotes with local parameter names) L10n.para = {
 
 `   display     = "display",`
 `   from        = "from",`
@@ -36,16 +33,10 @@ parameter names) L10n.para = {
 `   help_location   = ":en:Help:Attached KML",      -- page to link to for help page link`
 `   err_prepend = "Attached KML",       -- text to prepend to the error messages, when shown at top of page (display=title)`
 `   err     = {             -- error messages`
-`       malformed_qid   = "錯誤：malformed  item id in |" ..
-L10n.para.wikidata ..
-"=",  -- item id doesn't match pattern (number with Q prefix)`
-`       bad_qid     = "錯誤：item specified on Wikidata, or in |" ..
-L10n.para.wikidata ..
-"=, is not a KML file `<small>`(P31→Q26267864 not found)`</small>`",  -- item doesn't have a P31→Q26267864 statement`
-`       no_item     = "錯誤：item specified in |" .. L10n.para.wikidata ..
-"= not found on Wikidata",    -- item not found on wikidata`
-`       bad_from    = "錯誤：KML文件不存在，請檢查|" .. L10n.para.from ..
-"=",    -- KML specified by from parameter doesn't exist`
+`       malformed_qid   = "錯誤：malformed  item id in |" .. L10n.para.wikidata .. "=",  -- item id doesn't match pattern (number with Q prefix)`
+`       bad_qid     = "錯誤：item specified on Wikidata, or in |" .. L10n.para.wikidata .. "=, is not a KML file `<small>`(P31→Q26267864 not found)`</small>`",  -- item doesn't have a P31→Q26267864 statement`
+`       no_item     = "錯誤：item specified in |" .. L10n.para.wikidata .. "= not found on Wikidata",    -- item not found on wikidata`
+`       bad_from    = "錯誤：KML文件不存在，請檢查|" .. L10n.para.from .. "=",    -- KML specified by from parameter doesn't exist`
 `       no_kml      = "錯誤：KML文件不存在",    -- no KML file found`
 `   },`
 `   cat     = {             -- tracking categories: full wikimarkup required, or set to the empty string ("") to not to track the condition`
@@ -64,40 +55,13 @@ L10n.para.wikidata ..
 
 }
 
-\-- Masks for external mapping providers, in the form: --
-externalLinkMasks\[index-number\] = { short = "short-label", long =
-"long-label", link = "url" }' -- The short label is used for the title
-links; the long label is used for the inline links -- Links in the
-output will be ordered by index-number -- Instead of kml file's raw url
-or encoded raw url, use __KML_URL__ or __KML_URL_E__ local
-externalLinks = {} --externalLinks\[1\] = { -- short = "Bing", -- long =
-"在Bing地图中显示", -- link = "<http://www.bing.com/maps/?mapurl=__KML_URL__>"
---}
+\-- Masks for external mapping providers, in the form: -- externalLinkMasks\[index-number\] = { short = "short-label", long = "long-label", link = "url" }' -- The short label is used for the title links; the long label is used for the inline links -- Links in the output will be ordered by index-number -- Instead of kml file's raw url or encoded raw url, use __KML_URL__ or __KML_URL_E__ local externalLinks = {} --externalLinks\[1\] = { -- short = "Bing", -- long = "在Bing地图中显示", -- link = "<http://www.bing.com/maps/?mapurl=__KML_URL__>" --}
 
 \-- \#\#\#\# End of L10n settings \#\#\#\#
 
-\-- Table of available wikis, in the order that they are to be searched
-for kml files -- (once a kml file is found, further sites are not
-checked) local sites = {} sites\[1\] = { mw.ustring.match(
-mw.site.server, "%w+" ) .. mw.ustring.gsub(
-mw.ustring.lower(mw.site.siteName), "\[mp\]edia", ""),
-mw.ustring.sub(mw.site.server, 3), "" } -- local wiki (listed first so
-local files can override files on other wikis) sites\[2\] = {
-"commonswiki", "commons.wikimedia.org", "c:" } -- Commons would be a
-logical central repository for KML files (but has no files as of August
-2016) sites\[3\] = { "enwiki", "en.wikipedia.org", "w:en:" } -- largest
-source of KML files (as of August 2016) sites\[4\] = { "bnwiki",
-"bn.wikipedia.org", "w:bn:" } -- other sites with a KML template, listed
-in alphabetical order sites\[5\] = { "cswiki", "cs.wikipedia.org",
-"w:cs:" } sites\[6\] = { "fawiki", "fa.wikipedia.org", "w:fa:" }
-sites\[7\] = { "frwiki", "fr.wikipedia.org", "w:fr:" } sites\[8\] = {
-"jawiki", "ja.wikipedia.org", "w:ja:" } sites\[9\] = { "mlwiki",
-"ml.wikipedia.org", "w:ml:" } sites\[10\] = { "svwiki",
-"sv.wikipedia.org", "w:sv:" } sites\[11\] = { "zhwiki",
-"zh.wikipedia.org", "w:zh:" }
+\-- Table of available wikis, in the order that they are to be searched for kml files -- (once a kml file is found, further sites are not checked) local sites = {} sites\[1\] = { mw.ustring.match( mw.site.server, "%w+" ) .. mw.ustring.gsub( mw.ustring.lower(mw.site.siteName), "\[mp\]edia", ""), mw.ustring.sub(mw.site.server, 3), "" } -- local wiki (listed first so local files can override files on other wikis) sites\[2\] = { "commonswiki", "commons.wikimedia.org", "c:" } -- Commons would be a logical central repository for KML files (but has no files as of August 2016) sites\[3\] = { "enwiki", "en.wikipedia.org", "w:en:" } -- largest source of KML files (as of August 2016) sites\[4\] = { "bnwiki", "bn.wikipedia.org", "w:bn:" } -- other sites with a KML template, listed in alphabetical order sites\[5\] = { "cswiki", "cs.wikipedia.org", "w:cs:" } sites\[6\] = { "fawiki", "fa.wikipedia.org", "w:fa:" } sites\[7\] = { "frwiki", "fr.wikipedia.org", "w:fr:" } sites\[8\] = { "jawiki", "ja.wikipedia.org", "w:ja:" } sites\[9\] = { "mlwiki", "ml.wikipedia.org", "w:ml:" } sites\[10\] = { "svwiki", "sv.wikipedia.org", "w:sv:" } sites\[11\] = { "zhwiki", "zh.wikipedia.org", "w:zh:" }
 
-\--Parameter for cleaned-up parent.args (whitespace trimmed, blanks
-removed) local Args = {}
+\--Parameter for cleaned-up parent.args (whitespace trimmed, blanks removed) local Args = {}
 
 local p = {}
 
@@ -236,15 +200,11 @@ function makeInlineWikitext(headertext, url, err)
 
 <li>
 
-%s%s%s (<span class=\"%s\">\[%s %s\]
-<span style=\"font-size:85%%;\">(\[%s %s\] •
-[%s](https://zh.wikipedia.org/wiki/%s "wikilink"))</span></span>)
+%s%s%s (<span class=\"%s\">\[%s %s\] <span style=\"font-size:85%%;\">(\[%s %s\] • [%s](https://zh.wikipedia.org/wiki/%s "wikilink"))</span></span>)
 
 </li>
 
-", headertext, L10n.str.line.start, err or table.concat(inlineLinks,
-L10n.str.line.separator), wiki_link_class, url, L10n.str.kml_file,
-editUrl, L10n.str.edit, L10n.str.help_location, L10n.str.help)
+", headertext, L10n.str.line.start, err or table.concat(inlineLinks, L10n.str.line.separator), wiki_link_class, url, L10n.str.kml_file, editUrl, L10n.str.edit, L10n.str.help_location, L10n.str.help)
 
 `   else`
 `       return  mw.ustring.format( "<table class=\"metadata mbox-small\" style=\"border:1px solid #aaa;background-color:#f9f9f9;font-size: 88%%; line-height: 1.5em\">`
@@ -255,9 +215,7 @@ editUrl, L10n.str.edit, L10n.str.help_location, L10n.str.help)
 
 </td>
 
-\<td class=\\"mbox-text plainlist\\"\>%s<span class=\"%s\">\\'\\'\\'\[%s
-%s\]\\'\\'\\' (\[%s %s\] •
-[%s](https://zh.wikipedia.org/wiki/%s "wikilink"))</span>\\n
+\<td class=\\"mbox-text plainlist\\"\>%s<span class=\"%s\">\\'\\'\\'\[%s %s\]\\'\\'\\' (\[%s %s\] • [%s](https://zh.wikipedia.org/wiki/%s "wikilink"))</span>\\n
 
   - %s
 
@@ -267,9 +225,7 @@ editUrl, L10n.str.edit, L10n.str.help_location, L10n.str.help)
 
 </table>
 
-", headertext, wiki_link_class, url, L10n.str.kml_file, editUrl,
-L10n.str.edit, L10n.str.help_location, L10n.str.help, err or
-table.concat(inlineLinks, "
+", headertext, wiki_link_class, url, L10n.str.kml_file, editUrl, L10n.str.edit, L10n.str.help_location, L10n.str.help, err or table.concat(inlineLinks, "
 
 </li>
 
@@ -301,8 +257,7 @@ function makeError(msg, cat)
 
 end
 
-function getUrlFromWikidata() -- Attempts to get url from linked
-wikidata items, will return nil if it can't
+function getUrlFromWikidata() -- Attempts to get url from linked wikidata items, will return nil if it can't
 
 `   local entity = mw.wikibase.getEntityObject()`
 `   if not entity then return nil end           `
@@ -354,10 +309,4 @@ end
 
 return p
 
-[Category:带有使用来自于Wikidata的KML的条目](https://zh.wikipedia.org/wiki/Category:带有使用来自于Wikidata的KML的条目 "wikilink")
-[Category:带有使用不来自于Wikidata的KML的条目](https://zh.wikipedia.org/wiki/Category:带有使用不来自于Wikidata的KML的条目 "wikilink")
-[Category:Attached_KML错误](https://zh.wikipedia.org/wiki/Category:Attached_KML错误 "wikilink")
-[Category:Attached_KML错误](https://zh.wikipedia.org/wiki/Category:Attached_KML错误 "wikilink")
-[Category:Attached_KML错误](https://zh.wikipedia.org/wiki/Category:Attached_KML错误 "wikilink")
-[Category:Attached_KML错误](https://zh.wikipedia.org/wiki/Category:Attached_KML错误 "wikilink")
-[Category:Attached_KML错误](https://zh.wikipedia.org/wiki/Category:Attached_KML错误 "wikilink")
+[Category:带有使用来自于Wikidata的KML的条目](https://zh.wikipedia.org/wiki/Category:带有使用来自于Wikidata的KML的条目 "wikilink") [Category:带有使用不来自于Wikidata的KML的条目](https://zh.wikipedia.org/wiki/Category:带有使用不来自于Wikidata的KML的条目 "wikilink") [Category:Attached_KML错误](https://zh.wikipedia.org/wiki/Category:Attached_KML错误 "wikilink") [Category:Attached_KML错误](https://zh.wikipedia.org/wiki/Category:Attached_KML错误 "wikilink") [Category:Attached_KML错误](https://zh.wikipedia.org/wiki/Category:Attached_KML错误 "wikilink") [Category:Attached_KML错误](https://zh.wikipedia.org/wiki/Category:Attached_KML错误 "wikilink") [Category:Attached_KML错误](https://zh.wikipedia.org/wiki/Category:Attached_KML错误 "wikilink")

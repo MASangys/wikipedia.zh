@@ -49,6 +49,4 @@
 </tbody>
 </table>
 
-[Category:青春剧](https://zh.wikipedia.org/wiki/Category:青春剧 "wikilink")
-[Category:华纳兄弟电视公司制作的电视节目](https://zh.wikipedia.org/wiki/Category:华纳兄弟电视公司制作的电视节目 "wikilink")
-[Category:土耳其電視劇](https://zh.wikipedia.org/wiki/Category:土耳其電視劇 "wikilink")
+[Category:青春剧](https://zh.wikipedia.org/wiki/Category:青春剧 "wikilink") [Category:华纳兄弟电视公司制作的电视节目](https://zh.wikipedia.org/wiki/Category:华纳兄弟电视公司制作的电视节目 "wikilink") [Category:土耳其電視劇](https://zh.wikipedia.org/wiki/Category:土耳其電視劇 "wikilink")

@@ -1,5 +1,4 @@
-local numberToChinese =
-require('Module:NumberToChinese')._numberToChinese
+local numberToChinese = require('Module:NumberToChinese')._numberToChinese
 
 local p = {
 
@@ -20,8 +19,7 @@ local p = {
 
 }
 
-\--Provides a convenient naming shortcut up to {{\#invoke:RoundN|N512}}
-=  for columns = 1, 9 do
+\--Provides a convenient naming shortcut up to {{\#invoke:RoundN|N512}} =  for columns = 1, 9 do
 
 `   local N = math.pow(2, columns)`
 `   p['N' .. N] = function(frame)`
@@ -31,9 +29,7 @@ local p = {
 
 end
 
-\--saves memory and avoids errors when using a nil as a table by
-providing a temporary table; if using nil as false; use 'table(k)' to
-look up table\[k\] p.nilAsTab = {
+\--saves memory and avoids errors when using a nil as a table by providing a temporary table; if using nil as false; use 'table(k)' to look up table\[k\] p.nilAsTab = {
 
 `   __index = function(t, i)`
 `       return setmetatable({}, setmetatable(p.nilAsTab, {__index = {t = t, i = i}}))`
@@ -46,13 +42,9 @@ look up table\[k\] p.nilAsTab = {
 `       return t and rawget(t, i)`
 `   end`
 
-} --never assign a value to these or they will stop being empty local
-infiniteEmpty = setmetatable({}, {__index = setmetatable({},
-p.nilAsTab), p.nilAsTab}) -- infiniteEmpty\[1\]\[2\]\[3\]...\[infinity\]
-= {} local callableEmpty = setmetatable({}, p.nilAsTab)
+} --never assign a value to these or they will stop being empty local infiniteEmpty = setmetatable({}, {__index = setmetatable({}, p.nilAsTab), p.nilAsTab}) -- infiniteEmpty\[1\]\[2\]\[3\]...\[infinity\] = {} local callableEmpty = setmetatable({}, p.nilAsTab)
 
-local rowNum, head, m, col, tab, esc = {}, {}, {num = 1, phase = 0, bold
-= infiniteEmpty}, {}, mw.html.create'table', {
+local rowNum, head, m, col, tab, esc = {}, {}, {num = 1, phase = 0, bold = infiniteEmpty}, {}, mw.html.create'table', {
 
 `   bs = require'Module:Escape',--backslash`
 `   comma = {['(%([^,]*),([^%)]*%))'] = '%1|@!#|%2'},--escape commas in ()`
@@ -162,8 +154,7 @@ local rowNum, head, m, col, tab, esc = {}, {}, {num = 1, phase = 0, bold
 
 }
 
-setmetatable(nodeFunc.helper, {__index = nodeFunc}) function
-p.getNodeFunc()
+setmetatable(nodeFunc.helper, {__index = nodeFunc}) function p.getNodeFunc()
 
 `   return nodeFunc.helper`
 
@@ -289,14 +280,11 @@ local function maxSpan(span, start, rows)
 
 end
 
-\--in case of templates like RDseed need padding value p.teamBoxPadding
-= function()
+\--in case of templates like RDseed need padding value p.teamBoxPadding = function()
 
 `   return '.6ex'`
 
-end p.teamBoxPadTab = {padding = '0 ' .. p.teamBoxPadding()}
-p.teamBoxNormal = {border = '1px solid \#aaa', background =
-p.bgColor\[4\]} local function teamBox(v, r, f)
+end p.teamBoxPadTab = {padding = '0 ' .. p.teamBoxPadding()} p.teamBoxNormal = {border = '1px solid \#aaa', background = p.bgColor\[4\]} local function teamBox(v, r, f)
 
 `   if p.flex_tree.merge and not v and f.phase == 2 then`
 `       for i = -2, 0 do`
@@ -430,11 +418,7 @@ function p._main(args)
 `           for i, n in ipairs(t) do`
 `               s = s + n`
 `           end`
-`           return s--`[`+``   ``(p.scoreSumBox``   ``and``   ``#t``
- ``==``   ``3``   ``and``   ``-2``   ``or``   ``0)``   ``--merging``
- ``disabled``   ``with``   ``score``   ``boxes,``   ``uncomment``
- ``if``
- ``enable`](https://zh.wikipedia.org/wiki/+_\(p.scoreSumBox_and_#t_==_3_and_-2_or_0\)_--merging_disabled_with_score_boxes,_uncomment_if_enable "wikilink")
+`           return s--`[`+``   ``(p.scoreSumBox``   ``and``   ``#t``   ``==``   ``3``   ``and``   ``-2``   ``or``   ``0)``   ``--merging``   ``disabled``   ``with``   ``score``   ``boxes,``   ``uncomment``   ``if``   ``enable`](https://zh.wikipedia.org/wiki/+_\(p.scoreSumBox_and_#t_==_3_and_-2_or_0\)_--merging_disabled_with_score_boxes,_uncomment_if_enable "wikilink")
 `       end`
 `   }`
 `   nodeArgs.team[1] = 1--constant to be replaced later by new param`
@@ -872,10 +856,7 @@ function p._main(args)
 
 end
 
-\--[local standard = { 'beta' = { bold_winner = 'high', omit_blanks =
-'yes', auto_3rd = 'yes' }
-}--](https://zh.wikipedia.org/wiki/local_standard_=_{_'beta'_=_{_bold_winner_=_'high',_omit_blanks_=_'yes',_auto_3rd_=_'yes'_}_}-- "wikilink")
-function p.main(frame, columns)
+\--[local standard = { 'beta' = { bold_winner = 'high', omit_blanks = 'yes', auto_3rd = 'yes' } }--](https://zh.wikipedia.org/wiki/local_standard_=_{_'beta'_=_{_bold_winner_=_'high',_omit_blanks_=_'yes',_auto_3rd_=_'yes'_}_}-- "wikilink") function p.main(frame, columns)
 
 `   local args = require'Module:Arguments'.getArgs(frame, {trim = false})`
 `   args.columns = args.columns or columns`

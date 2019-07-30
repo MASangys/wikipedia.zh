@@ -1,38 +1,28 @@
-**Brian the
-Sun**（ブライアンザサン）是[日本的](../Page/日本.md "wikilink")4人[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。
+**Brian the Sun**（ブライアンザサン）是[日本](../Page/日本.md "wikilink")的4人[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。
 
 ## 成員
 
-  - 森良太（もり りょうた， -
-    ）負責主唱、吉他以及樂團全部歌曲的[填詞](../Page/填詞.md "wikilink")、[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")。
+  - 森良太（もり りょうた， - ）負責主唱、吉他以及樂團全部歌曲的[填詞](../Page/填詞.md "wikilink")、[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")。
       -
         [血型是AB型](https://zh.wikipedia.org/wiki/血型 "wikilink")。演出時多穿黑色的修身褲和紮染樣色的T恤。被支持者問及「自己在樂團中所屬的顏色是什麼？」時，他的回答也是紮染。
         家中有1隻[狗和](https://zh.wikipedia.org/wiki/狗 "wikilink")2隻[貓](https://zh.wikipedia.org/wiki/貓 "wikilink")。其中1隻貓的名字是「湯姆」，取名靈感來自「[湯姆·約克](../Page/湯姆·約克.md "wikilink")」。
-        幼稚園至小學6年級都有加入[合唱團](../Page/合唱.md "wikilink")，當時有學[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")，但沒有看[樂譜而是用耳朵聽聲音然後直接彈奏](https://zh.wikipedia.org/wiki/樂譜 "wikilink")。
+        幼稚園至小學6年級都有加入[合唱](../Page/合唱.md "wikilink")團，當時有學[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")，但沒有看[樂譜而是用耳朵聽聲音然後直接彈奏](https://zh.wikipedia.org/wiki/樂譜 "wikilink")。
         由13歲開始學吉他。中學時代以[街頭藝人身分在街上演唱](https://zh.wikipedia.org/wiki/街頭藝人 "wikilink")\[1\]。
   - 白山治輝（しろやま はるき， - ）負責貝斯及和聲。
       -
         身高163cm，血型是O型。據他本人所說以前他的視力有2.0。四人家庭的長子，有1個妹妹。母親是偶像團體「[嵐](../Page/嵐.md "wikilink")」的支持者。穿著特徵是OBEY帽子。
-        身邊的人都知道他是偶像迷，在[Tower
-        Records的Hoop店中會對](../Page/淘兒唱片.md "wikilink")[AKB48等偶像的新曲CD寫下自己的感想](../Page/AKB48.md "wikilink")\[2\]。曾經說過將來也想嘗試像[淳君一樣進行音樂製作](../Page/淳君.md "wikilink")。喜歡的[乃木坂46的成員是伊藤萬理華](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")，喜歡的[NMB48成員是門脇佳奈子](../Page/NMB48.md "wikilink")。
+        身邊的人都知道他是偶像迷，在[Tower Records的Hoop店中會對](../Page/淘兒唱片.md "wikilink")[AKB48](../Page/AKB48.md "wikilink")等偶像的新曲CD寫下自己的感想\[2\]。曾經說過將來也想嘗試像[淳君](../Page/淳君.md "wikilink")一樣進行音樂製作。喜歡的[乃木坂46的成員是伊藤萬理華](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")，喜歡的[NMB48](../Page/NMB48.md "wikilink")成員是門脇佳奈子。
         曾經以[DJ身分在活動中出演](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")。將來的目標是成為可以[Rap的多才](../Page/饒舌.md "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")。
   - 小川真司（おがわ しんじ， - ）負責吉他及和聲。
       -
         身高175cm，血型是A型。兄弟三人中年齡最小。[右撇子](../Page/利手.md "wikilink")。
-        樂團中第二代吉他手。2007年當時樂團的吉他手以學業為由退出，及後在[Live
-        House中互相認識的小川加入樂團](https://zh.wikipedia.org/wiki/展演空間 "wikilink")。沒有正式學過吉他，本人曾說過「學生時代持有吉他但完全不會彈」\[3\]。
+        樂團中第二代吉他手。2007年當時樂團的吉他手以學業為由退出，及後在[Live House中互相認識的小川加入樂團](https://zh.wikipedia.org/wiki/展演空間 "wikilink")。沒有正式學過吉他，本人曾說過「學生時代持有吉他但完全不會彈」\[3\]。
         雖然本人否認，但他是個重度[吸煙者](../Page/吸菸.md "wikilink")，吸的煙是hi-lite品牌。曾因急性[扁桃腺炎入院而開始禁煙](../Page/扁桃體炎.md "wikilink")，但因為周圍的人說「與其令情緒變得急躁不如不要禁煙比較好」，所以在第13日捨棄禁煙。
         對自己的敘述是「神經質」、「[潔癖](https://zh.wikipedia.org/wiki/潔癖 "wikilink")」、「怕麻煩」、「情緒化」。
-        受[THEE MICHELLE GUN
-        ELEPHANT的アベフトシ](https://zh.wikipedia.org/wiki/THEE_MICHELLE_GUN_ELEPHANT "wikilink")、[Red
-        Hot Chili Peppers的John](../Page/嗆辣紅椒.md "wikilink")
-        Frusciante、吉他手[Larry
-        Carlton及](https://zh.wikipedia.org/wiki/賴瑞·卡爾頓 "wikilink")[Lee
-        Ritenour等人影響](https://zh.wikipedia.org/wiki/Lee_Ritenour "wikilink")。
+        受[THEE MICHELLE GUN ELEPHANT的アベフトシ](https://zh.wikipedia.org/wiki/THEE_MICHELLE_GUN_ELEPHANT "wikilink")、[Red Hot Chili Peppers的John](../Page/嗆辣紅椒.md "wikilink") Frusciante、吉他手[Larry Carlton及](https://zh.wikipedia.org/wiki/賴瑞·卡爾頓 "wikilink")[Lee Ritenour等人影響](https://zh.wikipedia.org/wiki/Lee_Ritenour "wikilink")。
   - 田中駿汰（たなか しゅんた， - ）負責鼓及和聲。
       -
-        血型是B型，樂團中年齡最小。在[閃光RIOT活動中與樂團認識為緣由](https://zh.wikipedia.org/wiki/閃光RIOT "wikilink")，在2010年開始作為輔助鼓手加入Brian
-        the Sun，並在2011年正式加入。
+        血型是B型，樂團中年齡最小。在[閃光RIOT活動中與樂團認識為緣由](https://zh.wikipedia.org/wiki/閃光RIOT "wikilink")，在2010年開始作為輔助鼓手加入Brian the Sun，並在2011年正式加入。
         小學時代的音樂老師把鼓組放在音樂室是他與爵士鼓的邂逅。中學與高中在吹奏樂社團中擔任鼓手。
         目前是獨自居住。家中有1隻[西施狗](../Page/西施犬.md "wikilink")，名字是「SORA（ソラ）」\[4\]。
 
@@ -673,7 +663,7 @@ ESCL-4952/3(初回生産限定盤)</p></td>
 </tr>
 <tr class="even">
 <td><p>シュレディンガーの猫</p></td>
-<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台電視網的音樂節目</a>「<a href="https://zh.wikipedia.org/wiki/musicる_TV" title="wikilink">musicる TV</a>」11月份主題曲</p></td>
+<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>電視網的音樂節目「<a href="https://zh.wikipedia.org/wiki/musicる_TV" title="wikilink">musicる TV</a>」11月份主題曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -688,7 +678,7 @@ ESCL-4952/3(初回生産限定盤)</p></td>
 </tr>
 <tr class="odd">
 <td><p>パトスとエートス</p></td>
-<td><p><a href="../Page/TBS.md" title="wikilink">TBS電視網電視節目</a>「スーパーサッカー」12月・2017年1月片尾曲</p></td>
+<td><p><a href="../Page/TBS.md" title="wikilink">TBS</a>電視網電視節目「スーパーサッカー」12月・2017年1月片尾曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -703,12 +693,12 @@ ESCL-4952/3(初回生産限定盤)</p></td>
 </tr>
 <tr class="even">
 <td><p>隼</p></td>
-<td><p><a href="../Page/TBS.md" title="wikilink">TBS電視網電視節目</a>「<a href="https://zh.wikipedia.org/wiki/ランク王国" title="wikilink">ランク王国</a>」8月・9月片尾曲</p></td>
+<td><p><a href="../Page/TBS.md" title="wikilink">TBS</a>電視網電視節目「<a href="https://zh.wikipedia.org/wiki/ランク王国" title="wikilink">ランク王国</a>」8月・9月片尾曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>カフネ</p></td>
-<td><p><a href="../Page/NHK綜合頻道.md" title="wikilink">NHK綜合頻道電視動畫</a>「<a href="../Page/3月的獅子.md" title="wikilink">3月的獅子</a>」第2期片尾曲</p></td>
+<td><p><a href="../Page/NHK綜合頻道.md" title="wikilink">NHK綜合頻道</a>電視動畫「<a href="../Page/3月的獅子.md" title="wikilink">3月的獅子</a>」第2期片尾曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -718,7 +708,7 @@ ESCL-4952/3(初回生産限定盤)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Winter Train</p></td>
-<td><p><a href="../Page/TBS.md" title="wikilink">TBS電視網電視節目</a>「<a href="https://zh.wikipedia.org/wiki/王様のブランチ" title="wikilink">王様のブランチ</a>」2月份片尾曲</p></td>
+<td><p><a href="../Page/TBS.md" title="wikilink">TBS</a>電視網電視節目「<a href="https://zh.wikipedia.org/wiki/王様のブランチ" title="wikilink">王様のブランチ</a>」2月份片尾曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -804,33 +794,19 @@ ESCL-4952/3(初回生産限定盤)</p></td>
 ### 訪談
 
   - [Skream\!](http://skream.jp/interview/2015/11/brian_the_sun.php)(2015年11月)
-
   - [Skream\!](http://skream.jp/interview/2014/12/brian_the_sun.php)(2014年12月)
-
   - [JUNGLELIFE](http://www.jungle.ne.jp/sp_post/205-brian-the-sun/)(2014年12月)
-
   - [ナタリー](http://natalie.mu/music/pp/brianthesun)(2014年11月)
   - [Skream\!](http://skream.jp/interview/2014/03/brian_the_sun.php)(2014年3月)
-
   - [KIJIMA SEMINAR](http://kjs-online.net/interview06-1.html)(2014年2月)
-  - [Rooftop(Brian the
-    Sun×KANA-BOON)](http://rooftop.cc/interview/130527160000.php)(2013年5月)
-
+  - [Rooftop(Brian the Sun×KANA-BOON)](http://rooftop.cc/interview/130527160000.php)(2013年5月)
   - [Rooftop](http://rooftop.cc/interview/130328211543.php)(2013年3月)
   - [JUNGLELIFE](http://www.jungle.ne.jp/sp_post/brian-the-sun-2/)(2013年)
-
   - [Rooftop](http://rooftop.cc/interview/120629190000.php)(2012年6月)
-  - [Fireloop
-    Magazine](http://fireloop.net/magazine/2011/08/interview-brianthesun-201108.html)(2011年8月)
+  - [Fireloop Magazine](http://fireloop.net/magazine/2011/08/interview-brianthesun-201108.html)(2011年8月)
+  - [Fireloop Magazine](http://fireloop.net/magazine/2010/11/interview-brianthesun-201011.html)(2010年11月)
 
-  - [Fireloop
-    Magazine](http://fireloop.net/magazine/2010/11/interview-brianthesun-201011.html)(2010年11月)
-
-
-[Category:日本另類搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本另類搖滾樂團 "wikilink")
-[Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink")
-[Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
-[Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink")
+[Category:日本另類搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本另類搖滾樂團 "wikilink") [Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink") [Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink")
 
 1.
 2.

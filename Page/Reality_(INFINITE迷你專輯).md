@@ -1,4 +1,4 @@
-《**Reality**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE的第五張韓語迷你專輯](../Page/INFINITE.md "wikilink")，於2015年7月13日發行\[1\]，主打曲為《Bad》。
+《**Reality**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")的第五張韓語迷你專輯，於2015年7月13日發行\[1\]，主打曲為《Bad》。
 
 ## 曲目
 
@@ -78,7 +78,7 @@
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量   |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量   |
 | ---------------------------------------- | ---- | ----- |
 | 專輯週榜                                     | 13   | 5,239 |
 
@@ -140,10 +140,7 @@
 
 ## 參考資料
 
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:INFINITE音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE音樂專輯 "wikilink")
-[Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:INFINITE音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE音樂專輯 "wikilink") [Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 

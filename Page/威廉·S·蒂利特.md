@@ -18,7 +18,4 @@
 </tbody>
 </table>
 
-[Category:1892年出生](https://zh.wikipedia.org/wiki/Category:1892年出生 "wikilink")
-[Category:1974年逝世](https://zh.wikipedia.org/wiki/Category:1974年逝世 "wikilink")
-[Category:美国国家科学院院士](https://zh.wikipedia.org/wiki/Category:美国国家科学院院士 "wikilink")
-[Category:拉斯克基礎醫學研究獎得主](https://zh.wikipedia.org/wiki/Category:拉斯克基礎醫學研究獎得主 "wikilink")
+[Category:1892年出生](https://zh.wikipedia.org/wiki/Category:1892年出生 "wikilink") [Category:1974年逝世](https://zh.wikipedia.org/wiki/Category:1974年逝世 "wikilink") [Category:美国国家科学院院士](https://zh.wikipedia.org/wiki/Category:美国国家科学院院士 "wikilink") [Category:拉斯克基礎醫學研究獎得主](https://zh.wikipedia.org/wiki/Category:拉斯克基礎醫學研究獎得主 "wikilink")

@@ -1,9 +1,8 @@
-[Anjali_gopalan.jpg](https://zh.wikipedia.org/wiki/File:Anjali_gopalan.jpg "fig:Anjali_gopalan.jpg")举行（2012年）\[1\]\]\]
-2018年9月6日，印度最高法院废除了普遍认为是对同性恋者不友善的“377条”。从这一天起至今，**印度同性性行为不再属于违法。**
+[Anjali_gopalan.jpg](https://zh.wikipedia.org/wiki/File:Anjali_gopalan.jpg "fig:Anjali_gopalan.jpg")举行（2012年）\[1\]\]\] 2018年9月6日，印度最高法院废除了普遍认为是对同性恋者不友善的“377条”。从这一天起至今，**印度同性性行为不再属于违法。**
 
-**女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群曾在[印度面临着非](../Page/印度.md "wikilink")[LGBT居民没有经历过的法律和社会困难](../Page/LGBT.md "wikilink")。
+**女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群曾在[印度](../Page/印度.md "wikilink")面临着非[LGBT](../Page/LGBT.md "wikilink")居民没有经历过的法律和社会困难。
 
-在过去，同性之间的性行为是违法的，同性伴侣不能獲得结婚或伴侣上的法定身份关系。印度法律承认[海吉拉是](../Page/海吉拉.md "wikilink")[第三性别](https://zh.wikipedia.org/wiki/第三性别 "wikilink")，与男性或女性分开。2008年7月29日印度城市[德里](../Page/德里.md "wikilink")，[加尔各答和](../Page/加尔各答.md "wikilink")[班加羅爾举行了第一次同志游行](../Page/班加羅爾.md "wikilink")。\[2\]
+在过去，同性之间的性行为是违法的，同性伴侣不能獲得结婚或伴侣上的法定身份关系。印度法律承认[海吉拉](../Page/海吉拉.md "wikilink")是[第三性别](https://zh.wikipedia.org/wiki/第三性别 "wikilink")，与男性或女性分开。2008年7月29日印度城市[德里](../Page/德里.md "wikilink")，[加尔各答](../Page/加尔各答.md "wikilink")和[班加羅爾](../Page/班加羅爾.md "wikilink")举行了第一次同志游行。\[2\]
 
 ## 关于LGBT的法律
 
@@ -13,9 +12,9 @@
 
 2014年1月28日最高法院驳回了[中央政府](../Page/印度政府.md "wikilink")，非政府组织纳兹基金会和其他几个机构提交的反对其12月11日对第377条的裁决的复审请愿书。\[10\]
 
-2014年4月，最高法院承认[海吉拉等跨性別群體](../Page/海吉拉.md "wikilink")，是[第三性别](https://zh.wikipedia.org/wiki/第三性别 "wikilink")，並要求政府給予平等的法律地位和保障\[11\]。
+2014年4月，最高法院承认[海吉拉](../Page/海吉拉.md "wikilink")等跨性別群體，是[第三性别](https://zh.wikipedia.org/wiki/第三性别 "wikilink")，並要求政府給予平等的法律地位和保障\[11\]。
 
-2015年12月18日，[印度国民大会党成员沙希](../Page/印度国民大会党.md "wikilink")·塔鲁尔提交了第377条非刑罪化的法案，但该法案以71-24票被否决。\[12\]
+2015年12月18日，[印度国民大会党](../Page/印度国民大会党.md "wikilink")成员沙希·塔鲁尔提交了第377条非刑罪化的法案，但该法案以71-24票被否决。\[12\]
 
 人权团体表示担心这会使同性恋者受到警察的骚扰。\[13\]纳兹基金会表示他们将提出请愿书以审查法院的决定。\[14\]
 
@@ -48,18 +47,11 @@
 
 ## 参考资料
 
-[Category:印度LGBT](https://zh.wikipedia.org/wiki/Category:印度LGBT "wikilink")
-[Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink")
-[Category:印度人权](https://zh.wikipedia.org/wiki/Category:印度人权 "wikilink")
+[Category:印度LGBT](https://zh.wikipedia.org/wiki/Category:印度LGBT "wikilink") [Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink") [Category:印度人权](https://zh.wikipedia.org/wiki/Category:印度人权 "wikilink")
 
 1.
 2.
-3.  *Kusum Ingots v. Union of India*, (2004) 6 SCC 254: "An order passed
-    on a writ petition questioning the constitutionality of a
-    Parliamentary Act, whether interim or final, keeping in view the
-    provisions contained in Clause (2) of Article 226 of the
-    Constitution of India, will have effect throughout the territory of
-    India subject of course to the applicability of the Act."
+3.  *Kusum Ingots v. Union of India*, (2004) 6 SCC 254: "An order passed on a writ petition questioning the constitutionality of a Parliamentary Act, whether interim or final, keeping in view the provisions contained in Clause (2) of Article 226 of the Constitution of India, will have effect throughout the territory of India subject of course to the applicability of the Act."
 4.
 5.
 6.
@@ -73,6 +65,5 @@
 14.
 15.
 16.
-17.  Latest News & Updates at Daily News &
-    Analysis|website=dna|access-date=2016-03-19}}
+17.  Latest News & Updates at Daily News & Analysis|website=dna|access-date=2016-03-19}}
 18.

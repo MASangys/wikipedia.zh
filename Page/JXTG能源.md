@@ -1,4 +1,4 @@
-**JXTG能源株式会社**，是日本[石油公司](../Page/石油.md "wikilink")，前身為。它的业务主要是勘探进口、精炼、零售石油产品。縮寫为**NOE**、**ENEOS**或**JXTGエネ**。
+**JXTG能源株式会社**，是日本[石油](../Page/石油.md "wikilink")公司，前身為。它的业务主要是勘探进口、精炼、零售石油产品。縮寫为**NOE**、**ENEOS**或**JXTGエネ**。
 
 ## 相關項目
 
@@ -15,7 +15,4 @@
   - （から続くとJXエネルギーの合弁会社）
 
   -
-[Category:日本化學工業公司](https://zh.wikipedia.org/wiki/Category:日本化學工業公司 "wikilink")
-[Category:東京證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:東京證券交易所上市公司 "wikilink")
-[Category:石油公司](https://zh.wikipedia.org/wiki/Category:石油公司 "wikilink")
-[Category:1888年成立的公司](https://zh.wikipedia.org/wiki/Category:1888年成立的公司 "wikilink")
+[Category:日本化學工業公司](https://zh.wikipedia.org/wiki/Category:日本化學工業公司 "wikilink") [Category:東京證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:東京證券交易所上市公司 "wikilink") [Category:石油公司](https://zh.wikipedia.org/wiki/Category:石油公司 "wikilink") [Category:1888年成立的公司](https://zh.wikipedia.org/wiki/Category:1888年成立的公司 "wikilink")

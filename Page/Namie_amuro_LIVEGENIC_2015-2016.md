@@ -1,14 +1,10 @@
-《namie amuro LIVEGENIC
-2015-2016》為[日本歌手](../Page/日本.md "wikilink")[安室奈美惠於](../Page/安室奈美惠.md "wikilink")2016年3月2日發行的影音作品。
+《namie amuro LIVEGENIC 2015-2016》為[日本](../Page/日本.md "wikilink")歌手[安室奈美惠](../Page/安室奈美惠.md "wikilink")於2016年3月2日發行的影音作品。
 
 ## 簡介
 
-[安室奈美惠於](../Page/安室奈美惠.md "wikilink")2015年9月開始至2016年2月舉行了日本全國大規模的巡迴演唱會，在15個地方共舉行44場演出，共動員40萬人(統計不含海外場次3場)。
+[安室奈美惠](../Page/安室奈美惠.md "wikilink")於2015年9月開始至2016年2月舉行了日本全國大規模的巡迴演唱會，在15個地方共舉行44場演出，共動員40萬人(統計不含海外場次3場)。
 
-演唱會概念以最新專輯《[_genic](https://zh.wikipedia.org/wiki/_genic "wikilink")》為主，本作收錄2015年12月8日，國立代代木競技場第一體育館場次。
-《namie amuro LIVEGENIC 2015-2016》2016年3月5日至2016年3月26日在台灣以及香港舉行海外公演「namie
-amuro LIGENIC 2015-2016 IN TAIPEI」「namie amuro LIVEGENIC 2015-2016 IN
-HONG KONG」。
+演唱會概念以最新專輯《[_genic](https://zh.wikipedia.org/wiki/_genic "wikilink")》為主，本作收錄2015年12月8日，國立代代木競技場第一體育館場次。 《namie amuro LIVEGENIC 2015-2016》2016年3月5日至2016年3月26日在台灣以及香港舉行海外公演「namie amuro LIGENIC 2015-2016 IN TAIPEI」「namie amuro LIVEGENIC 2015-2016 IN HONG KONG」。
 
 初回限定盤為外盒式樣，額外收錄Bonus Track兩首，分別為《arigatou》及《Break it》。
 
@@ -88,11 +84,8 @@ HONG KONG」。
 
 ## 外部連結
 
-  - [官方網站 -
-    發行情報](https://web.archive.org/web/20180617065829/http://contents.namieamuro.jp/discography/dvd/dvd20.html)
+  - [官方網站 - 發行情報](https://web.archive.org/web/20180617065829/http://contents.namieamuro.jp/discography/dvd/dvd20.html)
 
-[分類:安室奈美惠影像作品](https://zh.wikipedia.org/wiki/分類:安室奈美惠影像作品 "wikilink")
-[分類:2016年巡迴演唱會](https://zh.wikipedia.org/wiki/分類:2016年巡迴演唱會 "wikilink")
-[分類:2017年巡迴演唱會](https://zh.wikipedia.org/wiki/分類:2017年巡迴演唱會 "wikilink")
+[分類:安室奈美惠影像作品](https://zh.wikipedia.org/wiki/分類:安室奈美惠影像作品 "wikilink") [分類:2016年巡迴演唱會](https://zh.wikipedia.org/wiki/分類:2016年巡迴演唱會 "wikilink") [分類:2017年巡迴演唱會](https://zh.wikipedia.org/wiki/分類:2017年巡迴演唱會 "wikilink")
 
 [Category:2016年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2016年音樂相關影像作品 "wikilink")

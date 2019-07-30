@@ -2,8 +2,7 @@
 
 2015年，羅熙退出，改以四人體制活動。
 
-2016年，[志恩退出並加入](../Page/康志恩.md "wikilink")[BP
-RANIA](https://zh.wikipedia.org/wiki/BP_RANIA "wikilink")，團體解散。
+2016年，[志恩退出並加入](../Page/康志恩.md "wikilink")[BP RANIA](https://zh.wikipedia.org/wiki/BP_RANIA "wikilink")，團體解散。
 
 ## 成員資料
 
@@ -49,12 +48,6 @@ RANIA](https://zh.wikipedia.org/wiki/BP_RANIA "wikilink")，團體解散。
 
 <references/>
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
-[Category:2016年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年解散的音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink") [Category:2016年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年解散的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
 
 1.  [LPG子團出席品牌登台活動](http://kpopn.niusnews.com/=K19oxz77)

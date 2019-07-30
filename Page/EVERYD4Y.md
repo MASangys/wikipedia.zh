@@ -1,74 +1,48 @@
-《**EVERYD4Y**》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[WINNER繼](../Page/WINNER.md "wikilink")2014年發行《[2014
-S/S](https://zh.wikipedia.org/wiki/2014_S/S "wikilink")》後時隔4年再度發行的正規專輯。該專輯共收錄12首歌曲，包含10首新曲，其中收錄的《Everyday》為主打歌，而放置在尾曲的《Raining》及《Have
-a Good Day》是他們此前在日本發表重新錄製成韓語版本，被設定為這張專輯的「Special
-Bonus」歌曲。專輯由[YG娛樂企劃製作](../Page/YG娛樂.md "wikilink")，[Genie音樂發行](../Page/Genie音樂.md "wikilink")，於2018年4月4日下午6時通過各大數位音樂網站公開線上音源，實體專輯則在3月28日至4月4日公開預售，並定於4月5日以兩種不同版本發售。\[1\]
+《**EVERYD4Y**》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[WINNER](../Page/WINNER.md "wikilink")繼2014年發行《[2014 S/S](https://zh.wikipedia.org/wiki/2014_S/S "wikilink")》後時隔4年再度發行的正規專輯。該專輯共收錄12首歌曲，包含10首新曲，其中收錄的《Everyday》為主打歌，而放置在尾曲的《Raining》及《Have a Good Day》是他們此前在日本發表重新錄製成韓語版本，被設定為這張專輯的「Special Bonus」歌曲。專輯由[YG娛樂](../Page/YG娛樂.md "wikilink")企劃製作，[Genie音樂](../Page/Genie音樂.md "wikilink")發行，於2018年4月4日下午6時通過各大數位音樂網站公開線上音源，實體專輯則在3月28日至4月4日公開預售，並定於4月5日以兩種不同版本發售。\[1\]
 
 這張專輯是WINNER出道至今收錄了最多歌曲的專輯，同時為拓寬多種音樂領域，成員進行了多樣嘗試，而包含主打歌《Everyday》在內，WINNER親自執行製作了12首歌曲。\[2\]
 
 ## 背景及預告
 
-WINNER距離上一張專輯僅隔4個月便快速發表第二張單曲《[Our Twenty
-For](../Page/Our_Twenty_For_\(WINNER韓語單曲\).md "wikilink")》後，YG娛樂在2017年12月釋出WINNER再度回歸樂壇的消息，指出他們將於[iKON發行](https://zh.wikipedia.org/wiki/iKON "wikilink")《[Return](../Page/Return_\(iKON專輯\).md "wikilink")》後以2018年2月發表專輯為目標準備中\[3\]，這項消息後由YG娛樂代表[梁鉉錫的個人](../Page/梁鉉錫.md "wikilink")[社群網站](https://zh.wikipedia.org/wiki/社群網站 "wikilink")[Instagram上得到了證實](../Page/Instagram.md "wikilink")，在他發佈的訊息中WINNER會在[平昌冬季奧運會結束時回歸韓國樂壇](https://zh.wikipedia.org/wiki/2018年冬季奥林匹克运动会 "wikilink")\[4\]。而後，梁鉉錫以帶有「\#WINNER
-\#訂製_麥克風 \#近期拍攝 MV_投入最高的製作費用 \#正在完美地準備_每天每天_REALLY REALLY \#名曲_裝填完畢
-\#WINNER
-_新曲風」等話題進行發文，表示近期會以最高預算拍攝WINNER的新歌音樂錄影帶\[5\]。而根據韓國媒體OSEN取材結果顯示，歌謠界相關人員透露，WINNER已於2月19日飛抵[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯拍攝音樂錄影帶](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，預計將於3月份回歸的可能性居高\[6\]。而他們的首波預告海報在3月10日發佈，YG娛樂通過官方網站公開WINNER[標識印有](../Page/标志.md "wikilink")「Coming
-Soon」的語句畫報\[7\]，正式回歸日期則在3月15日公開，所屬經紀公司宣佈WINNER將攜第二張正規專輯於4月4日回歸韓國樂壇，同時也說道「因為這張專輯是正規專輯，將收錄有多首歌曲，可以看到進一步成長的WINNER，他們帶來的多樣風格的音樂」\[8\]，隨後公開專輯名稱為《EVERYD4Y》，並陸續釋出團體及個人預告海報、前導預告影像。
+WINNER距離上一張專輯僅隔4個月便快速發表第二張單曲《[Our Twenty For](../Page/Our_Twenty_For_\(WINNER韓語單曲\).md "wikilink")》後，YG娛樂在2017年12月釋出WINNER再度回歸樂壇的消息，指出他們將於[iKON發行](https://zh.wikipedia.org/wiki/iKON "wikilink")《[Return](../Page/Return_\(iKON專輯\).md "wikilink")》後以2018年2月發表專輯為目標準備中\[3\]，這項消息後由YG娛樂代表[梁鉉錫](../Page/梁鉉錫.md "wikilink")的個人[社群網站](https://zh.wikipedia.org/wiki/社群網站 "wikilink")[Instagram](../Page/Instagram.md "wikilink")上得到了證實，在他發佈的訊息中WINNER會在[平昌冬季奧運會結束時回歸韓國樂壇](https://zh.wikipedia.org/wiki/2018年冬季奥林匹克运动会 "wikilink")\[4\]。而後，梁鉉錫以帶有「\#WINNER \#訂製_麥克風 \#近期拍攝 MV_投入最高的製作費用 \#正在完美地準備_每天每天_REALLY REALLY \#名曲_裝填完畢 \#WINNER _新曲風」等話題進行發文，表示近期會以最高預算拍攝WINNER的新歌音樂錄影帶\[5\]。而根據韓國媒體OSEN取材結果顯示，歌謠界相關人員透露，WINNER已於2月19日飛抵[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯拍攝音樂錄影帶](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，預計將於3月份回歸的可能性居高\[6\]。而他們的首波預告海報在3月10日發佈，YG娛樂通過官方網站公開WINNER[標識印有](../Page/标志.md "wikilink")「Coming Soon」的語句畫報\[7\]，正式回歸日期則在3月15日公開，所屬經紀公司宣佈WINNER將攜第二張正規專輯於4月4日回歸韓國樂壇，同時也說道「因為這張專輯是正規專輯，將收錄有多首歌曲，可以看到進一步成長的WINNER，他們帶來的多樣風格的音樂」\[8\]，隨後公開專輯名稱為《EVERYD4Y》，並陸續釋出團體及個人預告海報、前導預告影像。
 
 ## 專輯概念
 
-作為正規專輯的《EVERYD4Y》，WINNER在接受媒體採訪時傳達了這張音樂作品的欣賞亮點，其中，成員[姜昇潤描述稱](../Page/姜昇潤.md "wikilink")「對於4年間成長的音樂，大眾會有怎樣的反應，非常好奇和機動」，他也表示這張專輯是想告訴大眾「不是停滯不前的WINNER，而是一直在挑戰的WINNER」\[9\]，[宋旻浩則說道](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")「不想做速食音樂，想要製作就算過去幾年也會想要找來聽的專輯。雖然要找到中間點很困難，但是結果很滿意」傳達了結束專輯製作的感想。\[10\]
+作為正規專輯的《EVERYD4Y》，WINNER在接受媒體採訪時傳達了這張音樂作品的欣賞亮點，其中，成員[姜昇潤](../Page/姜昇潤.md "wikilink")描述稱「對於4年間成長的音樂，大眾會有怎樣的反應，非常好奇和機動」，他也表示這張專輯是想告訴大眾「不是停滯不前的WINNER，而是一直在挑戰的WINNER」\[9\]，[宋旻浩則說道](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")「不想做速食音樂，想要製作就算過去幾年也會想要找來聽的專輯。雖然要找到中間點很困難，但是結果很滿意」傳達了結束專輯製作的感想。\[10\]
 
-專輯名稱命名為《EVERYD4Y》有著每一天的意思，將原本的單詞「EVERYDAY」中的字母「A」替換成WINNER的象徵數字「4」，增添了特別的意義，而在2017年4月4日以4人團隊全新出發的WINNER時隔4年發行的正規專輯將在2018年4月4日公開，韓國歌壇少數連續兩年在同一天發行專輯，完成了「4月4日等於WINNER
-DAY」的公式\[11\]。
+專輯名稱命名為《EVERYD4Y》有著每一天的意思，將原本的單詞「EVERYDAY」中的字母「A」替換成WINNER的象徵數字「4」，增添了特別的意義，而在2017年4月4日以4人團隊全新出發的WINNER時隔4年發行的正規專輯將在2018年4月4日公開，韓國歌壇少數連續兩年在同一天發行專輯，完成了「4月4日等於WINNER DAY」的公式\[11\]。
 
 而《EVERYD4Y》實體專輯的設計圖在3月26日公開\[12\]，製作概要及構成則在3月27日釋出，在YG娛樂發布的告示中，這張專輯將推出「Day」及「Night」共兩款的發行版本，兩款版本均分別收錄CD、116頁寫真書、1本28頁歌詞本、5張明信片、5款隨機封入1款的拍立得、8款隨機封入2款的小卡、4款隨機封入1款的自拍照片卡、4款隨機封入1款的貼紙及1份雙面海報。\[13\]
 
 ## 創作
 
-如果說2017年發布的《[Fate Number
-For](https://zh.wikipedia.org/wiki/Fate_Number_For_\(WINNER韓語單曲\) "wikilink")》、《Our
-Twenty
-For》是表現了讓人心動的告白、年輕和青春的話，這次的正規專輯《EVERYD4Y》中，可以看到在[嘻哈音樂](../Page/嘻哈音樂.md "wikilink")、[陷阱音樂](../Page/陷阱音樂.md "wikilink")、[原音樂](https://zh.wikipedia.org/wiki/原音樂 "wikilink")、[謠曲等](https://zh.wikipedia.org/wiki/謠曲 "wikilink")，努力拓寬音樂領域的成員們的多種嘗試。這種音樂挑戰和苦惱以象徵「WINNER」的數字「4」和意味著「每天」的「EVERYDAY」相結合，飽含在含蓄新穎的單詞《EVERYD4Y》命名的專輯名中\[14\]，這張專輯也是由從出道時便開始製作專輯的姜昇潤、宋旻浩和[李昇勳共同參與這](../Page/李昇勳.md "wikilink")12首歌的填詞作曲，鞏固了製作組合的整體性。\[15\]
+如果說2017年發布的《[Fate Number For](https://zh.wikipedia.org/wiki/Fate_Number_For_\(WINNER韓語單曲\) "wikilink")》、《Our Twenty For》是表現了讓人心動的告白、年輕和青春的話，這次的正規專輯《EVERYD4Y》中，可以看到在[嘻哈音樂](../Page/嘻哈音樂.md "wikilink")、[陷阱音樂](../Page/陷阱音樂.md "wikilink")、[原音樂](https://zh.wikipedia.org/wiki/原音樂 "wikilink")、[謠曲等](https://zh.wikipedia.org/wiki/謠曲 "wikilink")，努力拓寬音樂領域的成員們的多種嘗試。這種音樂挑戰和苦惱以象徵「WINNER」的數字「4」和意味著「每天」的「EVERYDAY」相結合，飽含在含蓄新穎的單詞《EVERYD4Y》命名的專輯名中\[14\]，這張專輯也是由從出道時便開始製作專輯的姜昇潤、宋旻浩和[李昇勳](../Page/李昇勳.md "wikilink")共同參與這12首歌的填詞作曲，鞏固了製作組合的整體性。\[15\]
 
-專輯的主打歌《Everyday》是一首結合[流行和Chill](../Page/流行_\(音樂類型\).md "wikilink")
-Trap曲風的歌曲，由姜昇潤、宋旻浩和李昇勳共同填詞，姜昇潤與宋旻浩亦參與了作曲。這首歌以「和愛的人一起的幸福的每天」為素材，展現了為了心愛之人傳遞每天心潮的波動\[16\]。《Everyday》也與WINNER過往歌曲展現了不同的陷阱音樂類別，姜昇潤為此表示「想要展現出我們特有的Chill
-Trap的面貌」並解釋道「雖然嘻哈音樂正逐漸受大眾的喜愛，但是仍存在抗拒它的人，因此更希望能製作出所有人能輕易並且有趣地聆聽的歌」。
+專輯的主打歌《Everyday》是一首結合[流行和Chill](../Page/流行_\(音樂類型\).md "wikilink") Trap曲風的歌曲，由姜昇潤、宋旻浩和李昇勳共同填詞，姜昇潤與宋旻浩亦參與了作曲。這首歌以「和愛的人一起的幸福的每天」為素材，展現了為了心愛之人傳遞每天心潮的波動\[16\]。《Everyday》也與WINNER過往歌曲展現了不同的陷阱音樂類別，姜昇潤為此表示「想要展現出我們特有的Chill Trap的面貌」並解釋道「雖然嘻哈音樂正逐漸受大眾的喜愛，但是仍存在抗拒它的人，因此更希望能製作出所有人能輕易並且有趣地聆聽的歌」。
 
-創作靈感源於官方歌迷名稱「Inner
-Circle」，由成員姜昇潤構思為主旋律製作的歌曲《Air》，同時展現了幹練的樂器構成，歌曲的所有要素都揉雜於適當的空間感中，並伴隨著恰如其分的節奏感。《你好》是專輯的第三首歌曲，將戀人之間日常生活中經常遇到的「為不在線的對方擔心」設為主題，融入了嘻哈音樂和陷阱音樂的曲風，由宋旻浩和Millennium（崔來星）作曲，他們也聯合了李昇勳共同填詞。
+創作靈感源於官方歌迷名稱「Inner Circle」，由成員姜昇潤構思為主旋律製作的歌曲《Air》，同時展現了幹練的樂器構成，歌曲的所有要素都揉雜於適當的空間感中，並伴隨著恰如其分的節奏感。《你好》是專輯的第三首歌曲，將戀人之間日常生活中經常遇到的「為不在線的對方擔心」設為主題，融入了嘻哈音樂和陷阱音樂的曲風，由宋旻浩和Millennium（崔來星）作曲，他們也聯合了李昇勳共同填詞。
 
-緊接《你好》之後即是宋旻浩的自製曲也是他在這張專輯中的獨唱曲《只牽手睡吧》，在歌單介紹中，這首歌曲營造出既夢幻又性感的氛圍的吉他聲線，有節奏地拉開序幕，凸顯了宋旻浩的性感美和充滿性感的和音形成對比的緊湊的[爵士鼓元素](../Page/爵士鼓.md "wikilink")，構成了有趣的最佳聲道組合。而這也是繼出道專輯《2014
-S/S》中的《I'm Him》後宋旻浩第二首個人歌曲。
+緊接《你好》之後即是宋旻浩的自製曲也是他在這張專輯中的獨唱曲《只牽手睡吧》，在歌單介紹中，這首歌曲營造出既夢幻又性感的氛圍的吉他聲線，有節奏地拉開序幕，凸顯了宋旻浩的性感美和充滿性感的和音形成對比的緊湊的[爵士鼓](../Page/爵士鼓.md "wikilink")元素，構成了有趣的最佳聲道組合。而這也是繼出道專輯《2014 S/S》中的《I'm Him》後宋旻浩第二首個人歌曲。
 
 ## 音樂錄影帶
 
-主打歌《Everyday》由曾在[葛萊美獎](../Page/葛萊美獎.md "wikilink")、[MTV音樂錄影帶大獎獲頒獎項的導演](../Page/MTV音樂錄影帶大獎.md "wikilink")所執導，他也曾負責收錄於《Fate
-Number For》的歌曲《Really
-Really》的音樂錄影帶製作。《Everyday》音樂錄影帶取景於美國[洛杉磯縣](https://zh.wikipedia.org/wiki/洛杉矶县_\(加利福尼亚州\) "wikilink")[馬里布](https://zh.wikipedia.org/wiki/马利布_\(加利福尼亚州\) "wikilink")。\[17\]
+主打歌《Everyday》由曾在[葛萊美獎](../Page/葛萊美獎.md "wikilink")、[MTV音樂錄影帶大獎](../Page/MTV音樂錄影帶大獎.md "wikilink")獲頒獎項的導演所執導，他也曾負責收錄於《Fate Number For》的歌曲《Really Really》的音樂錄影帶製作。《Everyday》音樂錄影帶取景於美國[洛杉磯縣](https://zh.wikipedia.org/wiki/洛杉矶县_\(加利福尼亚州\) "wikilink")[馬里布](https://zh.wikipedia.org/wiki/马利布_\(加利福尼亚州\) "wikilink")。\[17\]
 
 ## 宣傳
 
-依照慣例，在正式發表音樂作品前夕，WINNER均會在Naver V
-Line進行回歸直播節目進行宣傳。其經紀公司在3月30日通過官方網站公開了名為「24/7
-Everyday Hotline」的V
-Line預告海報，宣布將在4月4日公開全專線上音源的前19個小時，即4月3日晚間11時，WINNER會透過V
-Line進行例行性的回歸直播，率先與歌迷進行交流\[18\]。這次的節目是以成員對大家關於WINNER所有想知道的消息進行解答的熱線呼叫中心作為概念，由對歌迷的疑問進行解答的各種環節組成，他們也會在節目中親自向大家介紹時隔4年的正規專輯錄製記事、與歌迷一起聽包括主打曲《Everyday》在內的所有收錄曲，並試映在美國洛杉磯馬利布拍攝的音樂錄影帶花絮影像，以及講述各種逸聞趣事。\[19\]
+依照慣例，在正式發表音樂作品前夕，WINNER均會在Naver V Line進行回歸直播節目進行宣傳。其經紀公司在3月30日通過官方網站公開了名為「24/7 Everyday Hotline」的V Line預告海報，宣布將在4月4日公開全專線上音源的前19個小時，即4月3日晚間11時，WINNER會透過V Line進行例行性的回歸直播，率先與歌迷進行交流\[18\]。這次的節目是以成員對大家關於WINNER所有想知道的消息進行解答的熱線呼叫中心作為概念，由對歌迷的疑問進行解答的各種環節組成，他們也會在節目中親自向大家介紹時隔4年的正規專輯錄製記事、與歌迷一起聽包括主打曲《Everyday》在內的所有收錄曲，並試映在美國洛杉磯馬利布拍攝的音樂錄影帶花絮影像，以及講述各種逸聞趣事。\[19\]
 
-WINNER也與[Genie音樂展開宣傳合作](../Page/Genie音樂.md "wikilink")，推行「Winner x Genie
-MV Behind The
-Scene」，企劃於4月8日開啟，在這項企劃中，Genie會在自家的音樂應用程式以及官方網站上留言的顧客中抽選60位贈予活動入場邀請劵，活動會在4月12日晚間8時在藝術大廈舉辦，屆時WINNER成員們將親自介紹音樂錄影帶內容並準備了與歌迷互動的時間。\[20\]
+WINNER也與[Genie音樂](../Page/Genie音樂.md "wikilink")展開宣傳合作，推行「Winner x Genie MV Behind The Scene」，企劃於4月8日開啟，在這項企劃中，Genie會在自家的音樂應用程式以及官方網站上留言的顧客中抽選60位贈予活動入場邀請劵，活動會在4月12日晚間8時在藝術大廈舉辦，屆時WINNER成員們將親自介紹音樂錄影帶內容並準備了與歌迷互動的時間。\[20\]
 
 ## 評論聲譽
 
-韓國媒體OSEN的記者金恩愛（）寫道，這張專輯「能見證從出道前開始就具有作詞、作曲、編舞創作等自身製作能力的成員們的音樂成長」，她亦認為《EVERYD4Y》收錄了前所未有的抒情搖滾《曾經美好》，以富有感覺的歌詞表達想要好好看著心愛的人的心情的《奢侈》，為了歌迷而寫的歌《Movie
-Star》，成員李昇勳初次製作的《Special Night》等，為專輯整體表現給予了正面評價。\[21\]
+韓國媒體OSEN的記者金恩愛（）寫道，這張專輯「能見證從出道前開始就具有作詞、作曲、編舞創作等自身製作能力的成員們的音樂成長」，她亦認為《EVERYD4Y》收錄了前所未有的抒情搖滾《曾經美好》，以富有感覺的歌詞表達想要好好看著心愛的人的心情的《奢侈》，為了歌迷而寫的歌《Movie Star》，成員李昇勳初次製作的《Special Night》等，為專輯整體表現給予了正面評價。\[21\]
 
-美國《[告示牌雜誌](https://zh.wikipedia.org/wiki/告示牌雜誌 "wikilink")》的專欄記者塔瑪·赫爾曼（Tamar
-Herman）認為WINNER通過這次專輯從多方面對自己的音樂風格進行了研究，接著寫道「最引人矚目的是成員們參與了全專作詞、作曲」，同時也對這次他們帶來富含多樣音樂風格的專輯表示「WINNER從出道開始到最近為止一直在嘗試多種多樣的體裁，原封不動地展現出4年來的努力」提及了他們的成長。\[22\]
+美國《[告示牌雜誌](https://zh.wikipedia.org/wiki/告示牌雜誌 "wikilink")》的專欄記者塔瑪·赫爾曼（Tamar Herman）認為WINNER通過這次專輯從多方面對自己的音樂風格進行了研究，接著寫道「最引人矚目的是成員們參與了全專作詞、作曲」，同時也對這次他們帶來富含多樣音樂風格的專輯表示「WINNER從出道開始到最近為止一直在嘗試多種多樣的體裁，原封不動地展現出4年來的努力」提及了他們的成長。\[22\]
 
 ## 商業成績
 
-全專線上音源發行後，在線上銷售的商業表現，《EVERYD4Y》在發行當天便在[玻利維亞](../Page/玻利維亞.md "wikilink")、[巴西](../Page/巴西.md "wikilink")、[汶萊](https://zh.wikipedia.org/wiki/汶萊 "wikilink")、[智利](../Page/智利.md "wikilink")、[哥倫比亞](https://zh.wikipedia.org/wiki/哥倫比亞 "wikilink")、[哈薩克斯坦](https://zh.wikipedia.org/wiki/哈薩克斯坦 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[墨西哥](../Page/墨西哥.md "wikilink")、[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")、[秘魯](https://zh.wikipedia.org/wiki/秘魯 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[臺灣](../Page/臺灣.md "wikilink")、[泰國等](https://zh.wikipedia.org/wiki/泰國 "wikilink")18個國家與地區的iTunes專輯排名第1\[23\]，在美國榜單上則登上第5名的位置\[24\]，同時在iTunes全球專輯榜及歐洲專輯榜均位居第3名\[25\]\[26\]，主打歌《Everyday》則取得iTunes全球歌曲榜第45名\[27\]和歐洲歌曲榜第193名\[28\]的成績，這首歌曲在韓國也取得了不錯的商業表現，《Everyday》在發行兩小時後便佔據了韓國六大數位音樂網站、Genie、Bugs、Mnet、Naver與Soribada的排行榜冠軍\[29\]，新專輯的其他收錄曲也在榜單的上位圈\[30\]，而根據MelOn公開的收聽人數，《Everyday》24小時內收聽人數達到775,215人，成為該音樂平臺第四個首日收聽超過70萬人的偶像男團，僅次於[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")、[iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")、[水晶男孩之後](../Page/水晶男孩.md "wikilink")。\[31\]
+全專線上音源發行後，在線上銷售的商業表現，《EVERYD4Y》在發行當天便在[玻利維亞](../Page/玻利維亞.md "wikilink")、[巴西](../Page/巴西.md "wikilink")、[汶萊](https://zh.wikipedia.org/wiki/汶萊 "wikilink")、[智利](../Page/智利.md "wikilink")、[哥倫比亞](https://zh.wikipedia.org/wiki/哥倫比亞 "wikilink")、[哈薩克斯坦](https://zh.wikipedia.org/wiki/哈薩克斯坦 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[墨西哥](../Page/墨西哥.md "wikilink")、[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")、[秘魯](https://zh.wikipedia.org/wiki/秘魯 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[臺灣](../Page/臺灣.md "wikilink")、[泰國等](https://zh.wikipedia.org/wiki/泰國 "wikilink")18個國家與地區的iTunes專輯排名第1\[23\]，在美國榜單上則登上第5名的位置\[24\]，同時在iTunes全球專輯榜及歐洲專輯榜均位居第3名\[25\]\[26\]，主打歌《Everyday》則取得iTunes全球歌曲榜第45名\[27\]和歐洲歌曲榜第193名\[28\]的成績，這首歌曲在韓國也取得了不錯的商業表現，《Everyday》在發行兩小時後便佔據了韓國六大數位音樂網站、Genie、Bugs、Mnet、Naver與Soribada的排行榜冠軍\[29\]，新專輯的其他收錄曲也在榜單的上位圈\[30\]，而根據MelOn公開的收聽人數，《Everyday》24小時內收聽人數達到775,215人，成為該音樂平臺第四個首日收聽超過70萬人的偶像男團，僅次於[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")、[iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")、[水晶男孩](../Page/水晶男孩.md "wikilink")之後。\[31\]
 
 ## 曲目
 
@@ -411,12 +385,7 @@ Herman）認為WINNER通過這次專輯從多方面對自己的音樂風格進�
 
 ## 參考文獻
 
-[Category:WINNER音樂專輯](https://zh.wikipedia.org/wiki/Category:WINNER音樂專輯 "wikilink")
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2018年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2018年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon數位下載週榜冠軍作品 "wikilink")
-[Category:2018年Gaon數位下載月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon數位下載月榜冠軍作品 "wikilink")
+[Category:WINNER音樂專輯](https://zh.wikipedia.org/wiki/Category:WINNER音樂專輯 "wikilink") [Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2018年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon專輯週榜冠軍作品 "wikilink") [Category:2018年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2018年Gaon數位下載月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon數位下載月榜冠軍作品 "wikilink")
 
 1.
 

@@ -1,19 +1,12 @@
-**GD X
-TAEYANG**是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")[YG娛樂推出的企劃組合](../Page/YG娛樂.md "wikilink")，由韓國[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG的隊長](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[G-Dragon及成員](../Page/G-Dragon.md "wikilink")[太陽在](../Page/太陽_\(歌手\).md "wikilink")2014年組成的子團體。\[1\]
+**GD X TAEYANG**是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")[YG娛樂](../Page/YG娛樂.md "wikilink")推出的企劃組合，由韓國[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG的隊長](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[G-Dragon](../Page/G-Dragon.md "wikilink")及成員[太陽在](../Page/太陽_\(歌手\).md "wikilink")2014年組成的子團體。\[1\]
 
 ## 歷程
 
-G-Dragon及太陽是在12歲時被YG娛樂的社長[梁鉉錫選中加入公司當練習生時相識](../Page/梁鉉錫.md "wikilink")，經紀公司原定是要將兩人以「GDYB」為名組成嘻哈二重唱團體，並以其名義已發行過幾張單曲\[2\]，然而最終YG娛樂決定將組織多人男子組合而非雙人組合，且G-Dragon及太陽已被選為即將推出的偶像組合BIGBANG的成員，並在公司舉辦的生存競賽中展開了競爭，此出道經過在2006年7月播放的電視真人秀《BIGBANG出道實錄》中公開。\[3\]
+G-Dragon及太陽是在12歲時被YG娛樂的社長[梁鉉錫](../Page/梁鉉錫.md "wikilink")選中加入公司當練習生時相識，經紀公司原定是要將兩人以「GDYB」為名組成嘻哈二重唱團體，並以其名義已發行過幾張單曲\[2\]，然而最終YG娛樂決定將組織多人男子組合而非雙人組合，且G-Dragon及太陽已被選為即將推出的偶像組合BIGBANG的成員，並在公司舉辦的生存競賽中展開了競爭，此出道經過在2006年7月播放的電視真人秀《BIGBANG出道實錄》中公開。\[3\]
 
-2008年5月22日，太陽發行了他的第一張迷你專輯《》，G-Dragon則作為作曲家及製作人參與了此張專輯的製作，而在2010推出的首張正規專輯《》收錄的〈I
-Need a
-Girl〉及第二張正規專輯《[Rise](../Page/RISE_\(太陽專輯\).md "wikilink")》收錄的〈Stay
-with Me〉，G-Dragon均參與了歌曲中饒舌部分，太陽則是在G-Dragon發行的正規一輯《》收錄曲〈Korean
-Dream〉參與了歌曲客串。
+2008年5月22日，太陽發行了他的第一張迷你專輯《》，G-Dragon則作為作曲家及製作人參與了此張專輯的製作，而在2010推出的首張正規專輯《》收錄的〈I Need a Girl〉及第二張正規專輯《[Rise](../Page/RISE_\(太陽專輯\).md "wikilink")》收錄的〈Stay with Me〉，G-Dragon均參與了歌曲中饒舌部分，太陽則是在G-Dragon發行的正規一輯《》收錄曲〈Korean Dream〉參與了歌曲客串。
 
-2014年11月22日，繼BIGBANG的首支子團體「[GD\&TOP](../Page/GD&TOP.md "wikilink")」後，再度推出企劃組合，由G-Dragon及太陽組成「GD
-X
-TAEYANG」亮相並發行單曲《》，這首歌在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[告示牌的世界數位單曲榜空降第一](../Page/告示牌_\(雜誌\).md "wikilink")，這是韓國流行音樂繼[PSY和](../Page/PSY.md "wikilink")[2NE1之後第三次奪得此項成績的歌手](../Page/2NE1.md "wikilink")\[4\]，並在韓國擁有120萬的下載量，而在2016年4月13日，在[YouTube上的音樂錄影帶達到](../Page/YouTube.md "wikilink")1億觀看人次。
+2014年11月22日，繼BIGBANG的首支子團體「[GD\&TOP](../Page/GD&TOP.md "wikilink")」後，再度推出企劃組合，由G-Dragon及太陽組成「GD X TAEYANG」亮相並發行單曲《》，這首歌在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[告示牌的世界數位單曲榜空降第一](../Page/告示牌_\(雜誌\).md "wikilink")，這是韓國流行音樂繼[PSY](../Page/PSY.md "wikilink")和[2NE1](../Page/2NE1.md "wikilink")之後第三次奪得此項成績的歌手\[4\]，並在韓國擁有120萬的下載量，而在2016年4月13日，在[YouTube](../Page/YouTube.md "wikilink")上的音樂錄影帶達到1億觀看人次。
 
 ## 作品
 
@@ -341,20 +334,15 @@ TAEYANG」亮相並發行單曲《》，這首歌在[美國](https://zh.wikipedi
 
 #### [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》
 
-|- | rowspan="2"| 2010年 | 7月18日 | rowspan="2"| I Need a Girl<small>（太陽
-Feat. G-Dragon）</small> |- | 7月25日 |- | 2014年 | 11月30日 |
-rowspan="2"|Good Boy<small>（GD X TAEYANG）</small> |- | 2015年 | 1月4日 |-
-|}
+|- | rowspan="2"| 2010年 | 7月18日 | rowspan="2"| I Need a Girl<small>（太陽 Feat. G-Dragon）</small> |- | 7月25日 |- | 2014年 | 11月30日 | rowspan="2"|Good Boy<small>（GD X TAEYANG）</small> |- | 2015年 | 1月4日 |- |}
 
 #### [Mnet](../Page/Mnet媒體.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》
 
-|- | rowspan="2"| 2010年 | 7月8日 | rowspan="2"| I Need a Girl<small>（太陽
-Feat. G-Dragon）</small> |- | 7月15日 |- |}
+|- | rowspan="2"| 2010年 | 7月8日 | rowspan="2"| I Need a Girl<small>（太陽 Feat. G-Dragon）</small> |- | 7月15日 |- |}
 
 #### [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》
 
-|- | 2010年 | 7月16日 | I Need a Girl<small>（太陽 Feat. G-Dragon）</small> |-
-|}
+|- | 2010年 | 7月16日 | I Need a Girl<small>（太陽 Feat. G-Dragon）</small> |- |}
 
 ## 參考文獻
 
@@ -364,12 +352,7 @@ Feat. G-Dragon）</small> |- | 7月15日 |- |}
 
   -
 
-[Category:BIGBANG子團體](https://zh.wikipedia.org/wiki/Category:BIGBANG子團體 "wikilink")
-[Category:YG娛樂](https://zh.wikipedia.org/wiki/Category:YG娛樂 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
+[Category:BIGBANG子團體](https://zh.wikipedia.org/wiki/Category:BIGBANG子團體 "wikilink") [Category:YG娛樂](https://zh.wikipedia.org/wiki/Category:YG娛樂 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
 
 1.
 

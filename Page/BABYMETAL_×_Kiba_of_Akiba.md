@@ -1,5 +1,4 @@
-〈**BABYMETAL×Kiba of
-Akiba**〉（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：BABYMETAL×キバオブアキバ）是[BABYMETAL與](../Page/BABYMETAL.md "wikilink")合作的單曲。2012年3月7日由[重音部RECORDS發行](../Page/TOY'S_FACTORY.md "wikilink")\[1\]\[2\]\[3\]。
+〈**BABYMETAL×Kiba of Akiba**〉（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：BABYMETAL×キバオブアキバ）是[BABYMETAL](../Page/BABYMETAL.md "wikilink")與合作的單曲。2012年3月7日由[重音部RECORDS發行](../Page/TOY'S_FACTORY.md "wikilink")\[1\]\[2\]\[3\]。
 
 ## 音樂類型
 
@@ -9,14 +8,13 @@ Akiba**〉（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：BABYMETAL�
 <!-- end list -->
 
   - Kiba of Akiba 〈Party @The BBS〉
-    音樂風格屬[另類金屬](https://zh.wikipedia.org/wiki/另類金屬 "wikilink")。主題是試圖在[BBS站上聚眾](../Page/BBS.md "wikilink")、舉行派對\[5\]。
+    音樂風格屬[另類金屬](https://zh.wikipedia.org/wiki/另類金屬 "wikilink")。主題是試圖在[BBS](../Page/BBS.md "wikilink")站上聚眾、舉行派對\[5\]。
 
 透過此張合作單曲，BABYMETAL與Kiba of Akiba以一首自己的歌、另一首則翻唱對方的歌，是降低成本與風險的常見手法。
 
 ## 現場表演
 
-BABYMETAL的〈Iine\!〉於2012年1月9日在的「WOMEN'S POWER 20th
-Anniversary」上首次表演\[6\]。
+BABYMETAL的〈Iine\!〉於2012年1月9日在的「WOMEN'S POWER 20th Anniversary」上首次表演\[6\]。
 
 ## 收錄內容
 
@@ -32,8 +30,7 @@ Anniversary」上首次表演\[6\]。
 
 **附贈曲目**
 
-1.  **想和你一起看動畫**（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：君とアニメが見たい
-    〜Answer for Animation With You）
+1.  **想和你一起看動畫**（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：君とアニメが見たい 〜Answer for Animation With You）
       -
         作詞・作曲・編曲：Kiba of Akiba
         歌：BABYMETAL feat. 君
@@ -88,17 +85,13 @@ Anniversary」上首次表演\[6\]。
       -
   - 現場音樂錄影帶
       -
-  - [DISCOGRAPHY](https://web.archive.org/web/20140815150638/http://www.babymetal.jp/discography/)
-    - BABYMETAL 官方網站
-  - [DISCOGRAPHY](http://www.kibaofakiba.com/discography/) - Kiba of
-    Akiba 官方網站
-  - [DISCOGRAPHY](http://www.toysfactory.co.jp/artist/babymetal/disco) -
-    TOY'S FACTORY 官方網站
+  - [DISCOGRAPHY](https://web.archive.org/web/20140815150638/http://www.babymetal.jp/discography/) - BABYMETAL 官方網站
+  - [DISCOGRAPHY](http://www.kibaofakiba.com/discography/) - Kiba of Akiba 官方網站
+  - [DISCOGRAPHY](http://www.toysfactory.co.jp/artist/babymetal/disco) - TOY'S FACTORY 官方網站
   - [BABYMETAL - Iine\!歌詞](http://www.uta-net.com/movie/160056/)
   - [BABYMETAL - 心跳☆早晨歌詞](http://www.uta-net.com/movie/112262/)
 
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:BABYMETAL歌曲](https://zh.wikipedia.org/wiki/Category:BABYMETAL歌曲 "wikilink")
+[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:BABYMETAL歌曲](https://zh.wikipedia.org/wiki/Category:BABYMETAL歌曲 "wikilink")
 
 1.
 

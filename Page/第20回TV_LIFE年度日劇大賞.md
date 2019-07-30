@@ -1,12 +1,10 @@
-[第19回](../Page/第19回TV_LIFE年度日劇大賞.md "wikilink") ← **第20回** →
-[第21回](../Page/第21回TV_LIFE年度日劇大賞.md "wikilink")
+[第19回](../Page/第19回TV_LIFE年度日劇大賞.md "wikilink") ← **第20回** → [第21回](../Page/第21回TV_LIFE年度日劇大賞.md "wikilink")
 
-**第20回[TV
-LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2010年播出的連續劇做出的觀眾投票。
+**第20回[TV LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2010年播出的連續劇做出的觀眾投票。
 
-本屆獲獎最多的劇集是《[怪物小王子](https://zh.wikipedia.org/wiki/怪物王子#電視劇版 "wikilink")》，共獲4獎；其次是《[愛母罪](https://zh.wikipedia.org/wiki/愛母罪 "wikilink")》，共獲2獎，兩套電視劇均由[日本電視台製作](../Page/日本電視台.md "wikilink")。
+本屆獲獎最多的劇集是《[怪物小王子](https://zh.wikipedia.org/wiki/怪物王子#電視劇版 "wikilink")》，共獲4獎；其次是《[愛母罪](https://zh.wikipedia.org/wiki/愛母罪 "wikilink")》，共獲2獎，兩套電視劇均由[日本電視台](../Page/日本電視台.md "wikilink")製作。
 
-個人方面，[大野智第二度獲頒最佳男主角獎](../Page/大野智.md "wikilink")；年僅6歲的[蘆田愛菜是](../Page/蘆田愛菜.md "wikilink")「最佳新演員」成立而來，最年輕的得主。
+個人方面，[大野智](../Page/大野智.md "wikilink")第二度獲頒最佳男主角獎；年僅6歲的[蘆田愛菜](../Page/蘆田愛菜.md "wikilink")是「最佳新演員」成立而來，最年輕的得主。
 
 ## 獎項
 
@@ -64,7 +62,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 </tr>
 <tr class="odd">
 <td><p>第九位</p></td>
-<td><p>　《<a href="../Page/空中急診英雄.md" title="wikilink">空中急診英雄2</a>》</p></td>
+<td><p>　《<a href="../Page/空中急診英雄.md" title="wikilink">空中急診英雄</a>2》</p></td>
 <td><p>　<a href="../Page/富士電視台.md" title="wikilink">富士電視台</a></p></td>
 </tr>
 <tr class="even">
@@ -125,7 +123,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 <tr class="even">
 <td><p>第八位</p></td>
 <td><p>　<a href="../Page/山下智久.md" title="wikilink">山下智久</a></p></td>
-<td><p>　《<a href="../Page/空中急診英雄.md" title="wikilink">空中急診英雄2</a>》</p></td>
+<td><p>　《<a href="../Page/空中急診英雄.md" title="wikilink">空中急診英雄</a>2》</p></td>
 </tr>
 <tr class="odd">
 <td><p>第九位</p></td>
@@ -477,5 +475,4 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 
 ## 參考來源
 
-[Category:2010年日本](https://zh.wikipedia.org/wiki/Category:2010年日本 "wikilink")
-[Category:2010年电视奖项](https://zh.wikipedia.org/wiki/Category:2010年电视奖项 "wikilink")
+[Category:2010年日本](https://zh.wikipedia.org/wiki/Category:2010年日本 "wikilink") [Category:2010年电视奖项](https://zh.wikipedia.org/wiki/Category:2010年电视奖项 "wikilink")

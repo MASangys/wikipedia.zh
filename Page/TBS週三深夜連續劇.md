@@ -1,4 +1,4 @@
-**TBS週三深夜連續劇**（），為[TBS電視台於](../Page/TBS電視台.md "wikilink")2015年10月起，每星期三23:53（[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的30分鐘深夜[連續劇時段](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")\[1\]\[2\]\[3\]。
+**TBS週三深夜連續劇**（），為[TBS電視台](../Page/TBS電視台.md "wikilink")於2015年10月起，每星期三23:53（[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的30分鐘深夜[連續劇時段](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")\[1\]\[2\]\[3\]。
 
 ## 作品列表
 
@@ -38,8 +38,7 @@
 
 <!-- end list -->
 
-  - 7月14日－9月15日：**[死幣-DEATH
-    CASH-](https://zh.wikipedia.org/wiki/死幣-DEATH_CASH- "wikilink")**（）
+  - 7月14日－9月15日：**[死幣-DEATH CASH-](https://zh.wikipedia.org/wiki/死幣-DEATH_CASH- "wikilink")**（）
 
 <!-- end list -->
 
@@ -98,11 +97,8 @@
 
   - [TBS電視台官方網站](http://www.tbs.co.jp/)
 
-[Category:日本電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:日本電視台電視劇列表 "wikilink")
-[Category:TBS週三連續劇](https://zh.wikipedia.org/wiki/Category:TBS週三連續劇 "wikilink")
-[Category:日本電視劇播放時段](https://zh.wikipedia.org/wiki/Category:日本電視劇播放時段 "wikilink")
+[Category:日本電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:日本電視台電視劇列表 "wikilink") [Category:TBS週三連續劇](https://zh.wikipedia.org/wiki/Category:TBS週三連續劇 "wikilink") [Category:日本電視劇播放時段](https://zh.wikipedia.org/wiki/Category:日本電視劇播放時段 "wikilink")
 
 1.  [TBS、水曜深夜30分のドラマ枠新設 10月期からオダギリジョー主演『おかしの家』](http://www.oricon.co.jp/news/2058336/full/)
 2.  [オダジョー、ＴＢＳ水曜深夜ドラマ第１弾主演「可能性を広げる」](http://www.sponichi.co.jp/entertainment/news/2015/08/31/kiji/K20150831011039420.html)
-3.  [TBS深夜ドラマ枠を新設！
-    第1弾にオダギリジョー](http://news.walkerplus.com/article/63981/)
+3.  [TBS深夜ドラマ枠を新設！ 第1弾にオダギリジョー](http://news.walkerplus.com/article/63981/)

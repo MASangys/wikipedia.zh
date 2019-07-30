@@ -1,6 +1,4 @@
-《**Battle Spirits Double
-Drive**》（），是日本第八部改編自[交換卡片遊戲](../Page/交換卡片遊戲.md "wikilink")「[Battle
-Spirits](../Page/Battle_Spirits.md "wikilink")」的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。於2016年4月6日開始在[東京電視台等逢星期三](../Page/東京電視台.md "wikilink")17:55－18:25播出。
+《**Battle Spirits Double Drive**》（），是日本第八部改編自[交換卡片遊戲](../Page/交換卡片遊戲.md "wikilink")「[Battle Spirits](../Page/Battle_Spirits.md "wikilink")」的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。於2016年4月6日開始在[東京電視台](../Page/東京電視台.md "wikilink")等逢星期三17:55－18:25播出。
 
 ## 概要
 
@@ -108,8 +106,7 @@ Spirits](../Page/Battle_Spirits.md "wikilink")」的[電視動畫作品](https:/
   - 音樂：信澤宣明
   - 音樂製作：日昇音樂出版
   - 動畫製作：BN Pictures
-  - 製作：[東京電視台](../Page/東京電視台.md "wikilink")、[NAS](../Page/日本AD_SYSTEMS.md "wikilink")、BN
-    Pictures
+  - 製作：[東京電視台](../Page/東京電視台.md "wikilink")、[NAS](../Page/日本AD_SYSTEMS.md "wikilink")、BN Pictures
 
 ### 主題曲
 
@@ -262,17 +259,11 @@ Spirits](../Page/Battle_Spirits.md "wikilink")」的[電視動畫作品](https:/
 
 ## 外部連結
 
-  - [電視動畫「Battle Spirits Double Drive」BN
-    Pictures官方網頁](http://www.sunrise-inc.co.jp/battlespirits8/)
+  - [電視動畫「Battle Spirits Double Drive」BN Pictures官方網頁](http://www.sunrise-inc.co.jp/battlespirits8/)
 
-  - [電視動畫「Battle Spirits Double
-    Drive」東京電視台節目情報網頁](http://www.tv-tokyo.co.jp/anime/battlespirits8/)
+  - [電視動畫「Battle Spirits Double Drive」東京電視台節目情報網頁](http://www.tv-tokyo.co.jp/anime/battlespirits8/)
 
   -
-[Category:Battle_Spirits](https://zh.wikipedia.org/wiki/Category:Battle_Spirits "wikilink")
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
-[Category:交換卡片遊戲題材動畫](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材動畫 "wikilink")
+[Category:Battle_Spirits](https://zh.wikipedia.org/wiki/Category:Battle_Spirits "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:交換卡片遊戲題材動畫](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材動畫 "wikilink")
 
 1.

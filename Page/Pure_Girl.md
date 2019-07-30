@@ -1,4 +1,4 @@
-是[FrontWing於](../Page/FrontWing.md "wikilink")2012年9月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。
+是[FrontWing](../Page/FrontWing.md "wikilink")於2012年9月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。
 
 ## 故事
 
@@ -12,7 +12,7 @@
     本作的男主角，櫻桃院國際學園的二年級學生。原本與家人同住，但是在圭暗中操弄下與妹妹住進夢想房。
   -
     身高：166cm，三圍：B88（F）/W58/H83，生日：12月5日，血型：A型
-    曉的同學，總是對人用冷淡態度。喜歡[自慰和看成人影片](../Page/自慰.md "wikilink")，因為上課自慰被會長發現而被迫加入夢想房。
+    曉的同學，總是對人用冷淡態度。喜歡[自慰](../Page/自慰.md "wikilink")和看成人影片，因為上課自慰被會長發現而被迫加入夢想房。
   -
     身高：149cm，三圍：B82（C）/W53/H85，生日：10月11日，血型：B型
     曉的親妹妹，很喜歡哥哥也喜歡玩妹系成人遊戲。
@@ -53,14 +53,7 @@ FrontWing於2015年12月4日發售的原聲帶CD，收錄20首遊戲的BGM和兩
 
   - [官方網站](http://frontwing.jp/product/pure/)
 
-[Category:2012年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2012年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:亂倫題材遊戲](https://zh.wikipedia.org/wiki/Category:亂倫題材遊戲 "wikilink")
-[Category:豪宅背景作品](https://zh.wikipedia.org/wiki/Category:豪宅背景作品 "wikilink")
+[Category:2012年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2012年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:亂倫題材遊戲](https://zh.wikipedia.org/wiki/Category:亂倫題材遊戲 "wikilink") [Category:豪宅背景作品](https://zh.wikipedia.org/wiki/Category:豪宅背景作品 "wikilink")
 
 1.
 2.

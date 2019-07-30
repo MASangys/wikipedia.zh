@@ -1,10 +1,8 @@
-**B'z
-Loud-Gym**是[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[組合](../Page/音樂組合.md "wikilink")[B'z的](../Page/B'z.md "wikilink")30週年紀念活動\[1\]。自[2017年](../Page/2017年.md "wikilink")[9月21日起至](../Page/9月21日.md "wikilink")[2018年](../Page/2018年.md "wikilink")[9月20日止](../Page/9月20日.md "wikilink")，每月1次，共計舉行了13次。
+**B'z Loud-Gym**是[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")的30週年紀念活動\[1\]。自[2017年](../Page/2017年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")起至[2018年](../Page/2018年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")止，每月1次，共計舉行了13次。
 
 ## 概要
 
-作為B'z結成30週年紀念，在日本全國的[LIVE
-HOUSE播放樂曲或演唱會影像的](https://zh.wikipedia.org/wiki/展演空間 "wikilink")活動。
+作為B'z結成30週年紀念，在日本全國的[LIVE HOUSE播放樂曲或演唱會影像的](https://zh.wikipedia.org/wiki/展演空間 "wikilink")活動。
 
 每個月會決定主題，並根據主題挑選出樂曲或影像。此外，Loud-Gym亦會發表在此成為首次公開的影像或音源。
 
@@ -16,8 +14,7 @@ HOUSE播放樂曲或演唱會影像的](https://zh.wikipedia.org/wiki/展演空�
 
 1.  發行優先入場用電子票券「Loud Pass」。
       -
-        申請必須註冊『[B'z
-        Club-Gym](https://zh.wikipedia.org/wiki/B'z_Party#B'z_Club-Gym "wikilink")』。
+        申請必須註冊『[B'z Club-Gym](https://zh.wikipedia.org/wiki/B'z_Party#B'z_Club-Gym "wikilink")』。
 2.  當日會場分發號碼牌
       -
         「Loud Pass」入場完畢後，以當日會場發行的號碼牌入場。
@@ -218,7 +215,7 @@ DRUM Be-1(福岡)<br />
 11/24 桜坂セントラル(沖縄)</p>
 </div>
 </div>
-<p>播放<a href="../Page/11月29日.md" title="wikilink">11月29日發售專輯</a>「<a href="../Page/DINOSAUR.md" title="wikilink">DINOSAUR</a>」的音源。此外，在結尾會播出「<a href="../Page/DINOSAUR.md" title="wikilink">Dinosaur</a>」「<a href="../Page/DINOSAUR.md" title="wikilink">CHAMP</a>」的<a href="../Page/音樂錄影帶.md" title="wikilink">MV</a>。</p></td>
+<p>播放<a href="../Page/11月29日.md" title="wikilink">11月29日</a>發售專輯「<a href="../Page/DINOSAUR.md" title="wikilink">DINOSAUR</a>」的音源。此外，在結尾會播出「<a href="../Page/DINOSAUR.md" title="wikilink">Dinosaur</a>」「<a href="../Page/DINOSAUR.md" title="wikilink">CHAMP</a>」的<a href="../Page/音樂錄影帶.md" title="wikilink">MV</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年<a href="../Page/12月5日.md" title="wikilink">12月5日</a>～<a href="../Page/12月22日.md" title="wikilink">12月22日</a></p></td>
@@ -406,7 +403,7 @@ DRUM Be-1(福岡)<br />
 02/23 桜坂セントラル(沖縄)</p>
 </div>
 </div>
-<p>播放由<a href="../Page/松本孝弘.md" title="wikilink">松本孝弘親自選曲的吉他連複段</a>（Guitar Riffs）曲。<br />
+<p>播放由<a href="../Page/松本孝弘.md" title="wikilink">松本孝弘</a>親自選曲的吉他連複段（Guitar Riffs）曲。<br />
 </p>
 </div>
 </div></td>
@@ -471,7 +468,7 @@ DRUM Be-1(福岡)<br />
 03/16 桜坂セントラル(沖縄)</p>
 </div>
 </div>
-<p>播放由各地區票選冠軍的<a href="../Page/LIVE-GYM.md" title="wikilink">LIVE-GYM影像作品</a><ref>對象影像作品為『<a href="https://zh.wikipedia.org/wiki/LIVE_RIPPER" title="wikilink">LIVE RIPPER</a>』、『[["BUZZ</p></td>
+<p>播放由各地區票選冠軍的<a href="../Page/LIVE-GYM.md" title="wikilink">LIVE-GYM</a>影像作品<ref>對象影像作品為『<a href="https://zh.wikipedia.org/wiki/LIVE_RIPPER" title="wikilink">LIVE RIPPER</a>』、『[["BUZZ</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年<a href="../Page/4月16日.md" title="wikilink">4月16日</a>～<a href="../Page/4月27日.md" title="wikilink">4月27日</a></p></td>
@@ -533,7 +530,7 @@ DRUM Be-1(福岡)<br />
 04/27 桜坂セントラル(沖縄)</p>
 </div>
 </div>
-<p>挑選播放在<a href="../Page/朝日電視台.md" title="wikilink">朝日電視台系</a>「<a href="../Page/毒舌糾察隊.md" title="wikilink">毒舌糾察隊</a>」播出的「B'z藝人」出演者喜愛的樂曲，以及在節目內所播放的影像。</p>
+<p>挑選播放在<a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>系「<a href="../Page/毒舌糾察隊.md" title="wikilink">毒舌糾察隊</a>」播出的「B'z藝人」出演者喜愛的樂曲，以及在節目內所播放的影像。</p>
 </div>
 </div></td>
 </tr>
@@ -597,7 +594,7 @@ DRUM Be-1(福岡)<br />
 05/18 桜坂セントラル(沖縄)</p>
 </div>
 </div>
-<p>播放2017年8月11日在<a href="../Page/北海道.md" title="wikilink">北海道</a><a href="../Page/石狩市.md" title="wikilink">石狩市舉行的</a>『』影像。</p>
+<p>播放2017年8月11日在<a href="../Page/北海道.md" title="wikilink">北海道</a><a href="../Page/石狩市.md" title="wikilink">石狩市</a>舉行的『』影像。</p>
 </div>
 </div></td>
 </tr>
@@ -661,7 +658,7 @@ DRUM Be-1(福岡)<br />
 06/22 桜坂セントラル(沖縄)</p>
 </div>
 </div>
-<p>播放由<a href="../Page/稻葉浩志.md" title="wikilink">稻葉浩志親自選曲的Rock地</a><a href="https://zh.wikipedia.org/wiki/情歌" title="wikilink">情歌</a>。</p>
+<p>播放由<a href="../Page/稻葉浩志.md" title="wikilink">稻葉浩志</a>親自選曲的Rock地<a href="https://zh.wikipedia.org/wiki/情歌" title="wikilink">情歌</a>。</p>
 </div>
 </div></td>
 </tr>
@@ -789,7 +786,7 @@ DRUM Be-1(福岡)<br />
 08/27 桜坂セントラル(沖縄)</p>
 </div>
 </div>
-<p>播放來自全美巡演『B'z LIVE-GYM 2012 -Into Free-』<a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/10月7日.md" title="wikilink">10月7日在</a><a href="https://zh.wikipedia.org/wiki/w:Gibson_Amphitheatre" title="wikilink">Gibson Amphitheatre公演的演唱會影像</a>。</p>
+<p>播放來自全美巡演『B'z LIVE-GYM 2012 -Into Free-』<a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/10月7日.md" title="wikilink">10月7日</a>在<a href="https://zh.wikipedia.org/wiki/w:Gibson_Amphitheatre" title="wikilink">Gibson Amphitheatre公演的演唱會影像</a>。</p>
 </div>
 </div></td>
 </tr>
@@ -869,8 +866,7 @@ DRUM Be-1(福岡)<br />
 
   -
   -
-[Category:B'z](https://zh.wikipedia.org/wiki/Category:B'z "wikilink")
-[Category:_Being](https://zh.wikipedia.org/wiki/Category:_Being "wikilink")
+[Category:B'z](https://zh.wikipedia.org/wiki/Category:B'z "wikilink") [Category:_Being](https://zh.wikipedia.org/wiki/Category:_Being "wikilink")
 
 1.
 2.

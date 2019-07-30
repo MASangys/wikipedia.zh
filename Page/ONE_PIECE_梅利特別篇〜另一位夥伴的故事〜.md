@@ -1,14 +1,10 @@
-《**ONE PIECE 梅利特別篇〜另一位夥伴的故事〜**》（）是電視動畫《[ONE
-PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2013年8月24日在日本播出。
+《**ONE PIECE 梅利特別篇〜另一位夥伴的故事〜**》（）是電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2013年8月24日在日本播出。
 
 ## 製作
 
-該2小時特別節目為《[娜美之章](https://zh.wikipedia.org/wiki/ONE_PIECE_娜美特別篇〜領航員之淚與伙伴的羈絆〜 "wikilink")》、《[魯夫之章](../Page/ONE_PIECE_魯夫特別篇〜手掌島的冒險〜.md "wikilink")》以原著的著名篇章所重新繪製的版本接續製作\[1\]。為「週六PREMIUM」時段播出的《[ONE
-PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第三彈。
+該2小時特別節目為《[娜美之章](https://zh.wikipedia.org/wiki/ONE_PIECE_娜美特別篇〜領航員之淚與伙伴的羈絆〜 "wikilink")》、《[魯夫之章](../Page/ONE_PIECE_魯夫特別篇〜手掌島的冒險〜.md "wikilink")》以原著的著名篇章所重新繪製的版本接續製作\[1\]。為「週六PREMIUM」時段播出的《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第三彈。
 
-至於本作挑選的原作著名篇章為「水之七島」、「司法島篇」重新繪製成這套特別篇，以[草帽海賊團的另一位同伴](https://zh.wikipedia.org/wiki/草帽海賊團 "wikilink")[前進梅利號的相遇與離別的故事](../Page/前進梅利號.md "wikilink")，以它為中心描繪一個全新的友情故事。在劇情上與原作有一定區別，本作與電影版《[ONE
-PIECE FILM
-Z](https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_Z "wikilink")》的特別短篇也有所關聯。
+至於本作挑選的原作著名篇章為「水之七島」、「司法島篇」重新繪製成這套特別篇，以[草帽海賊團的另一位同伴](https://zh.wikipedia.org/wiki/草帽海賊團 "wikilink")[前進梅利號](../Page/前進梅利號.md "wikilink")的相遇與離別的故事，以它為中心描繪一個全新的友情故事。在劇情上與原作有一定區別，本作與電影版《[ONE PIECE FILM Z](https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_Z "wikilink")》的特別短篇也有所關聯。
 
 發售的BD/DVD光碟版將於2013年11月29日於日本地區發行。
 
@@ -249,10 +245,6 @@ Z](https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_Z "wikilink")》的特別短篇�
 
 ## 外部連結
 
-[Category:ONE_PIECE](https://zh.wikipedia.org/wiki/Category:ONE_PIECE "wikilink")
-[Category:ONE_PIECE特別篇](https://zh.wikipedia.org/wiki/Category:ONE_PIECE特別篇 "wikilink")
-[Category:2013年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2013年日本電視動畫 "wikilink")
-[Category:富士電視台動畫](https://zh.wikipedia.org/wiki/Category:富士電視台動畫 "wikilink")
-[Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink")
+[Category:ONE_PIECE特別篇](https://zh.wikipedia.org/wiki/Category:ONE_PIECE特別篇 "wikilink") [Category:2013年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2013年日本電視動畫 "wikilink") [Category:富士電視台動畫](https://zh.wikipedia.org/wiki/Category:富士電視台動畫 "wikilink") [Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink")
 
 1.

@@ -1,18 +1,8 @@
-**Showtek** 是荷蘭的雙人[電子音樂團體](../Page/電子音樂.md "wikilink")。由兄弟檔Sjoerd
-Janssen (也稱做 Duro, born 1984)和Wouter Janssen (也稱做 Walt, born
-1982)組成，於2001年投入音樂創作。最初做[鐵克諾音樂](https://zh.wikipedia.org/wiki/鐵克諾音樂 "wikilink")，中期漸漸變成[Hardstyle](https://zh.wikipedia.org/wiki/重派音樂 "wikilink")，最後轉變成[前衛浩室和](https://zh.wikipedia.org/wiki/前衛浩室 "wikilink")[電子浩室](../Page/電子浩室.md "wikilink")。
+**Showtek** 是荷蘭的雙人[電子音樂](../Page/電子音樂.md "wikilink")團體。由兄弟檔Sjoerd Janssen (也稱做 Duro, born 1984)和Wouter Janssen (也稱做 Walt, born 1982)組成，於2001年投入音樂創作。最初做[鐵克諾音樂](https://zh.wikipedia.org/wiki/鐵克諾音樂 "wikilink")，中期漸漸變成[Hardstyle](https://zh.wikipedia.org/wiki/重派音樂 "wikilink")，最後轉變成[前衛浩室和](https://zh.wikipedia.org/wiki/前衛浩室 "wikilink")[電子浩室](../Page/電子浩室.md "wikilink")。
 
 <div>
 
-2012年，Showtek開始和其他風格的舞曲製作人一起從事一系列的合輯，叫做Crazy
-Collabs計畫。在他們正式發表他們的合輯之前。他們和[Tiësto和](../Page/提雅斯多.md "wikilink")[Angger
-Dimas製作了We](https://zh.wikipedia.org/wiki/Angger_Dimas "wikilink")
-Rock這首歌。在此計畫中他們和Tiësto,
-[Hardwell](https://zh.wikipedia.org/wiki/Hardwell "wikilink"), [Justin
-Prime](https://zh.wikipedia.org/wiki/Justin_Prime "wikilink"),
-[Bassjackers](https://zh.wikipedia.org/wiki/Bassjackers "wikilink"),
-[Ookay](https://zh.wikipedia.org/wiki/Ookay "wikilink"),
-[MAKJ](https://zh.wikipedia.org/wiki/MAKJ "wikilink") 和Hardstyle雙人組[Noisecontrollers合作過](https://zh.wikipedia.org/wiki/Noisecontrollers "wikilink")。
+2012年，Showtek開始和其他風格的舞曲製作人一起從事一系列的合輯，叫做Crazy Collabs計畫。在他們正式發表他們的合輯之前。他們和[Tiësto和](../Page/提雅斯多.md "wikilink")[Angger Dimas製作了We](https://zh.wikipedia.org/wiki/Angger_Dimas "wikilink") Rock這首歌。在此計畫中他們和Tiësto, [Hardwell](https://zh.wikipedia.org/wiki/Hardwell "wikilink"), [Justin Prime](https://zh.wikipedia.org/wiki/Justin_Prime "wikilink"), [Bassjackers](https://zh.wikipedia.org/wiki/Bassjackers "wikilink"), [Ookay](https://zh.wikipedia.org/wiki/Ookay "wikilink"), [MAKJ](https://zh.wikipedia.org/wiki/MAKJ "wikilink") 和Hardstyle雙人組[Noisecontrollers合作過](https://zh.wikipedia.org/wiki/Noisecontrollers "wikilink")。
 
 2014年6月9日，消息傳出他們要回到以往傳統製作Hardstyle專輯，後來證實是他們曾經的死忠粉絲發布的謠言。並且Showtek為此在facebook聲明強調他們不會再回歸Hardstyle。
 
@@ -201,49 +191,30 @@ Prime](https://zh.wikipedia.org/wiki/Justin_Prime "wikilink"),
 
 ### 合作歌曲
 
-  - [Tiësto](https://zh.wikipedia.org/wiki/Tiësto "wikilink") feat. Ou
-    Est le Swimming Pool - The Feeling (2014)
-  - [Sander Van
-    Doorn](https://zh.wikipedia.org/wiki/Sander_Van_Doorn "wikilink") &
-    [Nicky
-    Romero](https://zh.wikipedia.org/wiki/Nicky_Romero "wikilink") ft.
-    [Jhene Aiko](https://zh.wikipedia.org/wiki/Jhene_Aiko "wikilink") –
-    Happiness (2013)
-  - [Chris Brown](https://zh.wikipedia.org/wiki/Chris_Brown "wikilink")
-    – Nobody’s Perfect (2012)
-  - [Tiësto](https://zh.wikipedia.org/wiki/Tiësto "wikilink") &
-    [Allure](https://zh.wikipedia.org/wiki/Tiësto "wikilink") – Pair of
-    Dice (2012)
-  - [Marcel
-    Woods](https://zh.wikipedia.org/wiki/Marcel_Woods "wikilink") –
-    Guaba (2012)
+  - [Tiësto](https://zh.wikipedia.org/wiki/Tiësto "wikilink") feat. Ou Est le Swimming Pool - The Feeling (2014)
+  - [Sander Van Doorn](https://zh.wikipedia.org/wiki/Sander_Van_Doorn "wikilink") & [Nicky Romero](https://zh.wikipedia.org/wiki/Nicky_Romero "wikilink") ft. [Jhene Aiko](https://zh.wikipedia.org/wiki/Jhene_Aiko "wikilink") – Happiness (2013)
+  - [Chris Brown](https://zh.wikipedia.org/wiki/Chris_Brown "wikilink") – Nobody’s Perfect (2012)
+  - [Tiësto](https://zh.wikipedia.org/wiki/Tiësto "wikilink") & [Allure](https://zh.wikipedia.org/wiki/Tiësto "wikilink") – Pair of Dice (2012)
+  - [Marcel Woods](https://zh.wikipedia.org/wiki/Marcel_Woods "wikilink") – Guaba (2012)
   - Tiësto – Miami (2012)
-  - Marcel Woods & [W\&W](https://zh.wikipedia.org/wiki/W&W "wikilink")
-    – Trigger (2012)
+  - Marcel Woods & [W\&W](https://zh.wikipedia.org/wiki/W&W "wikilink") – Trigger (2012)
   - Marcel Woods & Allure – Ready (2012)
   - Tiësto – Chasing Summers (2012)
   - Marcel Woods – Black Angus (2012)
-  - [Marco V](https://zh.wikipedia.org/wiki/Marco_V "wikilink") & Marcel
-    Woods – Scream (2012)
+  - [Marco V](https://zh.wikipedia.org/wiki/Marco_V "wikilink") & Marcel Woods – Scream (2012)
   - Boys Will Be Boys – "We Rock EP" (2011)
   - Marcel Woods – Champagne Dreams (2011)
   - Tiësto & Marcel Woods – Don’t Ditch (2011)
   - Tiësto – Maximal Crazy (2011)
   - Allure – Kiss from the Past (Album) (2011)
-  - Allure Feat.
-    [Jes](https://zh.wikipedia.org/wiki/Jes_Brieden "wikilink") – Show
-    Me the Way (2011)
+  - Allure Feat. [Jes](https://zh.wikipedia.org/wiki/Jes_Brieden "wikilink") – Show Me the Way (2011)
   - Allure Feat. Lindsey Ray – I’m Home (2011)
   - Allure Feat. Jeza – You Say It’ll Be Okay (2011)
   - Allure – Kiss from the Past (2011)
-  - Allure ft. [Emma
-    Hewitt](https://zh.wikipedia.org/wiki/Emma_Hewitt "wikilink") – No
-    Goodbyes (2011)
+  - Allure ft. [Emma Hewitt](https://zh.wikipedia.org/wiki/Emma_Hewitt "wikilink") – No Goodbyes (2011)
   - Allure ft. Kate Miles – My Everything (2011)
   - Allure – Guilty Pleasures (2011)
-  - Allure Feat. [Christian
-    Burns](https://zh.wikipedia.org/wiki/Christian_Burns "wikilink") –
-    On the Wire (2011)
+  - Allure Feat. [Christian Burns](https://zh.wikipedia.org/wiki/Christian_Burns "wikilink") – On the Wire (2011)
   - Allure Feat. Emma Hewitt – Stay Forever (2011)
   - Marcel Woods – Sunrise (2011)
   - Marcel Woods – Questionary (2011)
@@ -265,31 +236,19 @@ Prime](https://zh.wikipedia.org/wiki/Justin_Prime "wikilink"),
   - Eva Shaw - "Space Jungle" (Showtek Edit) (2014)
   - First State - "Scube" (Showtek Edit) (2014)
   - Cobra Effect - "Don't Pass Go" (Showtek Edit) (2014)
-  - [MAKJ](https://zh.wikipedia.org/wiki/MAKJ "wikilink") & M35 - "GO
-    (Showtek Edit)" (2014)
-  - [David
-    Guetta](https://zh.wikipedia.org/wiki/David_Guetta "wikilink") feat.
-    [Sam
-    Martin](https://zh.wikipedia.org/wiki/Sam_Martin_\(singer\) "wikilink")
-    - "Lovers on the Sun" (Showtek Remix) (2014)
+  - [MAKJ](https://zh.wikipedia.org/wiki/MAKJ "wikilink") & M35 - "GO (Showtek Edit)" (2014)
+  - [David Guetta](https://zh.wikipedia.org/wiki/David_Guetta "wikilink") feat. [Sam Martin](https://zh.wikipedia.org/wiki/Sam_Martin_\(singer\) "wikilink") - "Lovers on the Sun" (Showtek Remix) (2014)
   - Hardwell & MAKJ - "Countdown" (Showtek’s Club Edit) (2013)
-  - Dirty South & Alesso feat. Ruben Haze - "City Of Dreams" (Showtek
-    Remix) (2013)
-  - Carly Rae Jepsen - "Tonight I'm Getting Over You" (Showtek Remix)
-    (2013)
+  - Dirty South & Alesso feat. Ruben Haze - "City Of Dreams" (Showtek Remix) (2013)
+  - Carly Rae Jepsen - "Tonight I'm Getting Over You" (Showtek Remix) (2013)
   - Showtek – "Hold Us Back" (2012 DJ Edit) (2012)
-  - [Kid Cudi](https://zh.wikipedia.org/wiki/Kid_Cudi "wikilink") Ft.
-    Ratatat & MGMT - "Pursuit Of Happiness" (Steve Aoki Remix - Showtek
-    Re-Edit) (2012)
+  - [Kid Cudi](https://zh.wikipedia.org/wiki/Kid_Cudi "wikilink") Ft. Ratatat & MGMT - "Pursuit Of Happiness" (Steve Aoki Remix - Showtek Re-Edit) (2012)
   - Marcel Woods – The Bottle (Showtek Remix) (2010)
   - System F – "Out of the Blue" (Showtek Remix) (2010)
   - Mr. Puta – "Green Stuff" (Showtek Remix) (2009)
   - Abyss & Judge – "Hardstyle Revolution" (Showtek Remix) (2009)
-  - Donkey Rollers – "No One Can Stop Us" (Showtek Kwartjes Remix)
-    (2009)
-  - [Charly Lownoise and Mental
-    Theo](https://zh.wikipedia.org/wiki/Charly_Lownoise_and_Mental_Theo "wikilink")
-    – "Wonderful Days 2.08" (Showtek Remix) (2008)
+  - Donkey Rollers – "No One Can Stop Us" (Showtek Kwartjes Remix) (2009)
+  - [Charly Lownoise and Mental Theo](https://zh.wikipedia.org/wiki/Charly_Lownoise_and_Mental_Theo "wikilink") – "Wonderful Days 2.08" (Showtek Remix) (2008)
   - Brennan Heart – "Revival X" (Showtek Remix) (2008)
   - Zushi – "La La Song" (Showtek Remix) (2008)
   - Methods of Mayhem – "F.Y.U." (Showtek Remix) (2003)
@@ -297,28 +256,18 @@ Prime](https://zh.wikipedia.org/wiki/Justin_Prime "wikilink"),
   - Walt – "Wanna Fuck" (Showtek Remix) (2003)
   - Desperation – "Our Reservation" (Showtek Remix) (2002)
   - Desperation – "Our Reservation (Part Two)" (Showtek Remix) (2002)
-  - Walt vs. Zero-Gi – "Exciter"/"Contact" – "Exciter" (Showtek Remix)
-    (2001)
+  - Walt vs. Zero-Gi – "Exciter"/"Contact" – "Exciter" (Showtek Remix) (2001)
   - DJ Duro – "Again" (Remixes) – "Again" (Showtek Remix) (2002)
 
 ## 參考資料
 
-2\. [Exclusive Interview With
-Showtek](https://web.archive.org/web/20130327100521/http://www.clubbing9ine.com/online-dj-interview/exclusive-showtek-interview/)
-- Clubbing9ine.com
+2\. [Exclusive Interview With Showtek](https://web.archive.org/web/20130327100521/http://www.clubbing9ine.com/online-dj-interview/exclusive-showtek-interview/) - Clubbing9ine.com
 
 ## 外部連結
 
   - [Official website](http://www.showtek.nl)
 
-[Category:Dutch_DJs](https://zh.wikipedia.org/wiki/Category:Dutch_DJs "wikilink")
-[Category:Remixers](https://zh.wikipedia.org/wiki/Category:Remixers "wikilink")
-[Category:Musical_groups_established_in_2001](https://zh.wikipedia.org/wiki/Category:Musical_groups_established_in_2001 "wikilink")
-[Category:Dutch_musical_duos](https://zh.wikipedia.org/wiki/Category:Dutch_musical_duos "wikilink")
-[Category:Hardstyle_musicians](https://zh.wikipedia.org/wiki/Category:Hardstyle_musicians "wikilink")
-[Category:Sibling_musical_duos](https://zh.wikipedia.org/wiki/Category:Sibling_musical_duos "wikilink")
-[Category:Spinnin'_Records_artists](https://zh.wikipedia.org/wiki/Category:Spinnin'_Records_artists "wikilink")
-[Category:Electronic_music_duos](https://zh.wikipedia.org/wiki/Category:Electronic_music_duos "wikilink")
+[Category:Dutch_DJs](https://zh.wikipedia.org/wiki/Category:Dutch_DJs "wikilink") [Category:Remixers](https://zh.wikipedia.org/wiki/Category:Remixers "wikilink") [Category:Musical_groups_established_in_2001](https://zh.wikipedia.org/wiki/Category:Musical_groups_established_in_2001 "wikilink") [Category:Dutch_musical_duos](https://zh.wikipedia.org/wiki/Category:Dutch_musical_duos "wikilink") [Category:Hardstyle_musicians](https://zh.wikipedia.org/wiki/Category:Hardstyle_musicians "wikilink") [Category:Sibling_musical_duos](https://zh.wikipedia.org/wiki/Category:Sibling_musical_duos "wikilink") [Category:Spinnin'_Records_artists](https://zh.wikipedia.org/wiki/Category:Spinnin'_Records_artists "wikilink") [Category:Electronic_music_duos](https://zh.wikipedia.org/wiki/Category:Electronic_music_duos "wikilink")
 
 1.
 

@@ -2,7 +2,7 @@
 
 ## 沿革
 
-1987年，JR九州开始着手复原静态保存在当时的人吉铁道纪念馆（位于[人吉市的肥萨线](../Page/人吉市.md "wikilink")[矢岳站前](../Page/矢岳站.md "wikilink")）的[国铁8620型蒸汽机车](https://zh.wikipedia.org/wiki/国铁8620型蒸汽机车 "wikilink")58654号，并于次年完工。1988年8月28日，复原的58654号回归载客运营，开始牵引熊本至宫地间的快速列车“**SL阿苏男孩**”号。由于58654号曾常年保存在人吉市，每年也曾多次牵引SL阿苏男孩的客车至人吉站，并使用“**SL人吉号**”的爱称。
+1987年，JR九州开始着手复原静态保存在当时的人吉铁道纪念馆（位于[人吉市](../Page/人吉市.md "wikilink")的肥萨线[矢岳站](../Page/矢岳站.md "wikilink")前）的[国铁8620型蒸汽机车](https://zh.wikipedia.org/wiki/国铁8620型蒸汽机车 "wikilink")58654号，并于次年完工。1988年8月28日，复原的58654号回归载客运营，开始牵引熊本至宫地间的快速列车“**SL阿苏男孩**”号。由于58654号曾常年保存在人吉市，每年也曾多次牵引SL阿苏男孩的客车至人吉站，并使用“**SL人吉号**”的爱称。
 
 2005年3月起，由于58654号在牵引SL阿苏男孩时多次发生故障，当年的蒸汽机车运营日期亦被大幅打乱。58654号无法运行时，便改由[国铁DE10型内燃机车牵引SL阿苏男孩的客车](https://zh.wikipedia.org/wiki/DE10 "wikilink")，并改称“**内燃阿苏男孩**”号或“**内燃人吉号**”。至8月28日，58654号停止运行，而DE10型牵引的列车也在同年年内结束。2006年至2010年，SL阿苏男孩的路线事实上由“阿苏1962”号列车继承。
 
@@ -17,21 +17,14 @@
       - 11月13日 - “内燃人吉号”运行结束。
   - 2009年（平成21年）4月25日 - 58654号修复，客车更新工程完工。SL人吉开始运行。
       - 6月22日、6月29日 - 运行了“熊本县民号”列车，指定券仅在熊本县内发售。
-  - 2010年（平成22年）9月4日 -
-    配合当时[NHK数字卫星高清频道的特别节目](https://zh.wikipedia.org/wiki/NHK數位衛星高清頻道 "wikilink")“前进，BS数字电视号！\~蓝色列车
-    环九州旅程\~”，运行了临时列车“BS数字电视号”。熊本至人吉区间由58654号机车牵引，客车则使用3节国铁14系卧铺车。
-  - 2012年（平成24年）12月22日 - 2013年（平成25年）1月6日 -
-    按SL人吉的时刻，由DE10型内燃机车牵引SL人吉的客车运行了“快速人吉”号列车\[1\]。
-  - 2016年（平成28年）4月15日 -
-    因[熊本地区发生地震而停运](../Page/2016年熊本地震.md "wikilink")\[2\]。
+  - 2010年（平成22年）9月4日 - 配合当时[NHK数字卫星高清频道的特别节目](https://zh.wikipedia.org/wiki/NHK數位衛星高清頻道 "wikilink")“前进，BS数字电视号！\~蓝色列车 环九州旅程\~”，运行了临时列车“BS数字电视号”。熊本至人吉区间由58654号机车牵引，客车则使用3节国铁14系卧铺车。
+  - 2012年（平成24年）12月22日 - 2013年（平成25年）1月6日 - 按SL人吉的时刻，由DE10型内燃机车牵引SL人吉的客车运行了“快速人吉”号列车\[1\]。
+  - 2016年（平成28年）4月15日 - 因[熊本地区发生地震而停运](../Page/2016年熊本地震.md "wikilink")\[2\]。
       - 4月29日 - 恢复运行\[3\]。
-  - 2018年（平成30年）7月6日 -
-    因[西日本地区暴雨而停运](../Page/2018年7月西日本豪雨.md "wikilink")。
+  - 2018年（平成30年）7月6日 - 因[西日本地区暴雨而停运](../Page/2018年7月西日本豪雨.md "wikilink")。
 
 [File:ＳＬ人吉号.jpg|SL人吉通过宇土站](File:ＳＬ人吉号.jpg%7CSL人吉通过宇土站)
-（摄于2003年5月10日） <File:JRK> Ohafu50-701 inside.jpg|车内 <File:JRK>
-Ohafu50-702 inside.jpg|“SL文库” <File:JRK> Oha50-701 inside.jpg|展示橱窗
-<File:Ohafu50-701> Prospects Lounge.jpg|展望区
+（摄于2003年5月10日） <File:JRK> Ohafu50-701 inside.jpg|车内 <File:JRK> Ohafu50-702 inside.jpg|“SL文库” <File:JRK> Oha50-701 inside.jpg|展示橱窗 <File:Ohafu50-701> Prospects Lounge.jpg|展望区
 
 ## 运行概况
 
@@ -39,21 +32,13 @@ Ohafu50-702 inside.jpg|“SL文库” <File:JRK> Oha50-701 inside.jpg|展示橱�
 
 ## 停车站
 
-[熊本](https://zh.wikipedia.org/wiki/熊本站 "wikilink") -
-[新八代](https://zh.wikipedia.org/wiki/新八代車站 "wikilink") -
-[八代](../Page/八代站.md "wikilink") -
-[坂本](../Page/坂本站_\(熊本縣\).md "wikilink") -
-[白石](../Page/白石站_\(熊本縣\).md "wikilink") -
-[一胜地](../Page/一勝地站.md "wikilink") -
-[渡](../Page/渡站.md "wikilink") - [人吉](../Page/人吉車站.md "wikilink")
+[熊本](https://zh.wikipedia.org/wiki/熊本站 "wikilink") - [新八代](https://zh.wikipedia.org/wiki/新八代車站 "wikilink") - [八代](../Page/八代站.md "wikilink") - [坂本](../Page/坂本站_\(熊本縣\).md "wikilink") - [白石](../Page/白石站_\(熊本縣\).md "wikilink") - [一胜地](../Page/一勝地站.md "wikilink") - [渡](../Page/渡站.md "wikilink") - [人吉](../Page/人吉車站.md "wikilink")
 
 此外，2005年之前运行的“SL人吉号”“内燃人吉号”还停靠[川尻](https://zh.wikipedia.org/wiki/川尻車站 "wikilink")、[宇土](https://zh.wikipedia.org/wiki/宇土車站 "wikilink")、[松桥](https://zh.wikipedia.org/wiki/松桥站 "wikilink")、[有佐](https://zh.wikipedia.org/wiki/有佐站 "wikilink")、[濑户石站](../Page/瀨戶石站.md "wikilink")。
 
 ## 使用车辆
 
-[右](https://zh.wikipedia.org/wiki/File:JRKyushu_train_SL_Hitoyoshi01.jpg "fig:右")
-[右](https://zh.wikipedia.org/wiki/File:JRKyushu_PC_SL_Hitoyoshi.jpg "fig:右")
-牵引机车、客车均配属熊本铁道事业部熊本车辆中心。
+[右](https://zh.wikipedia.org/wiki/File:JRKyushu_train_SL_Hitoyoshi01.jpg "fig:右") [右](https://zh.wikipedia.org/wiki/File:JRKyushu_PC_SL_Hitoyoshi.jpg "fig:右") 牵引机车、客车均配属熊本铁道事业部熊本车辆中心。
 
 ### 牵引机车
 

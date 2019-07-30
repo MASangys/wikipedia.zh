@@ -1,21 +1,20 @@
-**Viu**（）是[香港](../Page/香港.md "wikilink")[電訊盈科媒體有限公司推出](../Page/電訊盈科.md "wikilink")，針對[香港](../Page/香港.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[印尼及](https://zh.wikipedia.org/wiki/印尼 "wikilink")[印度市場的免費](../Page/印度.md "wikilink")[OTT平台影片網站](https://zh.wikipedia.org/wiki/OTT平台 "wikilink")，於2015年10月26日啟用。\[1\]
+**Viu**（）是[香港](../Page/香港.md "wikilink")[電訊盈科](../Page/電訊盈科.md "wikilink")媒體有限公司推出，針對[香港](../Page/香港.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[印尼及](https://zh.wikipedia.org/wiki/印尼 "wikilink")[印度](../Page/印度.md "wikilink")市場的免費[OTT平台影片網站](https://zh.wikipedia.org/wiki/OTT平台 "wikilink")，於2015年10月26日啟用。\[1\]
 
 ## 簡介
 
-Viu品牌旗下有兩個平台，分別以黃藍顏色為分辨。黃色為OTT平台，主要跟播亞洲劇集（中日韓台劇集），八小時內以原音當地字幕上線（字幕包括繁中、簡中、英文、泰文、馬拉文、菲律賓文等）。藍色為香港粵語電視綜合頻道[ViuTV及英語綜合頻道](../Page/ViuTV.md "wikilink")[ViuTVsix](../Page/ViuTVsix.md "wikilink")，透過其網站平台、應用程式、[now寬頻電視及](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")[香港數碼地面電視廣播](../Page/香港數碼地面電視廣播.md "wikilink")（大氣電波）服務由本地免費電視節目服務牌照的持牌機構[香港電視娛樂播映](../Page/香港電視娛樂.md "wikilink")。
+Viu品牌旗下有兩個平台，分別以黃藍顏色為分辨。黃色為OTT平台，主要跟播亞洲劇集（中日韓台劇集），八小時內以原音當地字幕上線（字幕包括繁中、簡中、英文、泰文、馬拉文、菲律賓文等）。藍色為香港粵語電視綜合頻道[ViuTV](../Page/ViuTV.md "wikilink")及英語綜合頻道[ViuTVsix](../Page/ViuTVsix.md "wikilink")，透過其網站平台、應用程式、[now寬頻電視及](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")[香港數碼地面電視廣播](../Page/香港數碼地面電視廣播.md "wikilink")（大氣電波）服務由本地免費電視節目服務牌照的持牌機構[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")播映。
 
 目前香港及東盟平台（泰國、越南、菲律賓、印尼、新加坡、馬來西亞和印度）接近完全隔絕，兩地[IP的使用者只能進入屬於自己地區的平台](../Page/IP地址.md "wikilink")。然而，東盟平台幾乎包含所有[韓國近年較受歡迎的劇集及綜藝節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")，如《[花樣男子](https://zh.wikipedia.org/wiki/花樣男子_\(韓國電視劇\) "wikilink")》、《[城市獵人](../Page/城市獵人_\(韓國電視劇\).md "wikilink")》、《[聽見你的聲音](../Page/聽見你的聲音.md "wikilink")》、《[繼承者們](../Page/繼承者們.md "wikilink")》、《[來自星星的你](../Page/來自星星的你.md "wikilink")》等，惟香港平台只提供較少劇集選擇，原因是這些劇集早已經有其他電視台購入版權，使它們不能出現在香港Viu平台上，但東盟版則無此問題。香港地區也有不少大熱劇集的播映權，包括[浪漫滿屋](https://zh.wikipedia.org/wiki/浪漫滿屋 "wikilink")、[雲畫的月光](../Page/雲畫的月光.md "wikilink")、[太陽的後裔](../Page/太陽的後裔.md "wikilink")、[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")、[蝕日風暴等](https://zh.wikipedia.org/wiki/蝕日風暴 "wikilink")，同時香港地區亦有推出來自其他地方的劇集，包括日劇、台劇及內地劇，並提供[日本動畫及韓國綜藝娛樂資訊](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。
 
 而[星加坡為首個海外啟播的Viu平台](https://zh.wikipedia.org/wiki/星加坡 "wikilink")，[印度](../Page/印度.md "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[印尼和](https://zh.wikipedia.org/wiki/印尼 "wikilink")[菲律賓平台則分別於](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")2016年3月4日和5月26日、11月18日啟播，但三個平台只限以上地區的人士到訪。
 
-此外，Viu繼香港、新加坡、馬來西亞、印度、印尼、菲律賓之後，Viu再度擴充至[泰國和](https://zh.wikipedia.org/wiki/泰國 "wikilink")[中東等地](https://zh.wikipedia.org/wiki/中東 "wikilink")，分別於2017年5月15日、2017年2月1日開始上線，同時亦同時擴展至[斯里蘭卡和](../Page/斯里蘭卡.md "wikilink")[緬甸](https://zh.wikipedia.org/wiki/緬甸 "wikilink")，詳情則有待公佈。
+此外，Viu繼香港、新加坡、馬來西亞、印度、印尼、菲律賓之後，Viu再度擴充至[泰國和](https://zh.wikipedia.org/wiki/泰國 "wikilink")[中東等地](https://zh.wikipedia.org/wiki/中東 "wikilink")，分別於2017年5月15日、2017年2月1日開始上線，同時亦同時擴展至[斯里蘭卡](../Page/斯里蘭卡.md "wikilink")和[緬甸](https://zh.wikipedia.org/wiki/緬甸 "wikilink")，詳情則有待公佈。
 
 截至2017年8月，Viu虧損約一點二五億，但由於亞洲區擁有一千二百萬用戶，所以吸引到外資入股，更表示會加大投資額。\[2\]
 
-2017年7月21日，Viu宣布與[Now爆谷台自選服務和tvN](../Page/Now爆谷台.md "wikilink")
-Movies合作，於東南亞地區送上亞洲電影，並加入各國的Viu Original節目。
+2017年7月21日，Viu宣布與[Now爆谷台](../Page/Now爆谷台.md "wikilink")自選服務和tvN Movies合作，於東南亞地區送上亞洲電影，並加入各國的Viu Original節目。
 
-2018年1月30日，Viu宣佈與[JTBC簽定合作協議](../Page/JTBC.md "wikilink")，提供旗下超過80%的電視劇及綜藝節目。\[3\]
+2018年1月30日，Viu宣佈與[JTBC](../Page/JTBC.md "wikilink")簽定合作協議，提供旗下超過80%的電視劇及綜藝節目。\[3\]
 
 ## 節目列表
 
@@ -2486,7 +2485,7 @@ Movies合作，於東南亞地區送上亞洲電影，並加入各國的Viu Orig
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/沒禮貌的英愛小姐.md" title="wikilink">沒禮貌的英愛小姐第</a>15季</p></td>
+<td><p><a href="../Page/沒禮貌的英愛小姐.md" title="wikilink">沒禮貌的英愛小姐</a>第15季</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2566,7 +2565,7 @@ Movies合作，於東南亞地區送上亞洲電影，並加入各國的Viu Orig
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/沒禮貌的英愛小姐.md" title="wikilink">沒禮貌的英愛小姐第</a>16季</p></td>
+<td><p><a href="../Page/沒禮貌的英愛小姐.md" title="wikilink">沒禮貌的英愛小姐</a>第16季</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2902,7 +2901,7 @@ Movies合作，於東南亞地區送上亞洲電影，並加入各國的Viu Orig
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗2</a></p></td>
+<td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗</a>2</p></td>
 <td><p>金曜劇</p></td>
 <td></td>
 <td></td>
@@ -2923,7 +2922,7 @@ Movies合作，於東南亞地區送上亞洲電影，並加入各國的Viu Orig
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗3</a></p></td>
+<td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗</a>3</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2944,7 +2943,7 @@ Movies合作，於東南亞地區送上亞洲電影，並加入各國的Viu Orig
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗4</a></p></td>
+<td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗</a>4</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2960,7 +2959,7 @@ Movies合作，於東南亞地區送上亞洲電影，並加入各國的Viu Orig
 </tr>
 <tr class="odd">
 <td><p>2015</p></td>
-<td><p><a href="../Page/能看見鬼的警察處容.md" title="wikilink">能看見鬼的警察處容2</a></p></td>
+<td><p><a href="../Page/能看見鬼的警察處容.md" title="wikilink">能看見鬼的警察處容</a>2</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4207,15 +4206,13 @@ Movies合作，於東南亞地區送上亞洲電影，並加入各國的Viu Orig
 
   - [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")
 
-  - [黃金漁場Radio
-    Star](https://zh.wikipedia.org/wiki/黃金漁場Radio_Star "wikilink")
+  - [黃金漁場Radio Star](https://zh.wikipedia.org/wiki/黃金漁場Radio_Star "wikilink")
 
   - [我獨自生活](../Page/我獨自生活.md "wikilink")
 
   - [蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")（播映完畢）
 
-  - [Mystery Ranking Show
-    1,2,3](../Page/Ranking_Show_1,2,3.md "wikilink")（播映完畢）
+  - [Mystery Ranking Show 1,2,3](../Page/Ranking_Show_1,2,3.md "wikilink")（播映完畢）
 
   - [奧地的魔法師](https://zh.wikipedia.org/wiki/異地的魔法師 "wikilink")（播映完畢）
 
@@ -4225,8 +4222,7 @@ Movies合作，於東南亞地區送上亞洲電影，並加入各國的Viu Orig
 
   - [平凡的英雄](../Page/平凡的英雄.md "wikilink")（播映完畢）
 
-  - [2018
-    MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")（播映完畢）
+  - [2018 MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")（播映完畢）
 
   - [被子外面很危險](../Page/被子外面很危險.md "wikilink")（播映完畢）
 
@@ -4256,7 +4252,7 @@ Movies合作，於東南亞地區送上亞洲電影，並加入各國的Viu Orig
 
   - [人生酒館](https://zh.wikipedia.org/wiki/人生酒館 "wikilink")
 
-  - [吃貨48小時第三季](../Page/吃貨48小時.md "wikilink")
+  - [吃貨48小時](../Page/吃貨48小時.md "wikilink")第三季
 
   - [窮遊](https://zh.wikipedia.org/wiki/窮遊 "wikilink")
 
@@ -4287,15 +4283,13 @@ Movies合作，於東南亞地區送上亞洲電影，並加入各國的Viu Orig
   -
   - [深夜正式演藝](https://zh.wikipedia.org/wiki/深夜TV演藝 "wikilink")
 
-  - [Section TV
-    演藝通信](https://zh.wikipedia.org/wiki/Section_TV_演藝通信 "wikilink")
+  - [Section TV 演藝通信](https://zh.wikipedia.org/wiki/Section_TV_演藝通信 "wikilink")
 
   - [我家的熊孩子](../Page/我家的熊孩子.md "wikilink")
 
   - [Battle Trip](https://zh.wikipedia.org/wiki/Battle_Trip "wikilink")
 
-  - [Get It
-    Beauty](https://zh.wikipedia.org/wiki/Get_It_Beauty "wikilink")
+  - [Get It Beauty](https://zh.wikipedia.org/wiki/Get_It_Beauty "wikilink")
 
   - [Running Man](../Page/Running_Man.md "wikilink")
 
@@ -4321,7 +4315,7 @@ Movies合作，於東南亞地區送上亞洲電影，並加入各國的Viu Orig
 
   - [PRODUCE 48](../Page/PRODUCE_48.md "wikilink")（播映完畢）
 
-  - [花樣爺爺東歐篇](../Page/花樣爺爺.md "wikilink")（播映完畢）
+  - [花樣爺爺](../Page/花樣爺爺.md "wikilink")東歐篇（播映完畢）
 
   - [街頭美食鬥士](../Page/街頭美食鬥士.md "wikilink")（播映完畢）
 
@@ -4355,10 +4349,9 @@ Movies合作，於東南亞地區送上亞洲電影，並加入各國的Viu Orig
 
   - [Fantastic Duo](../Page/Fantastic_Duo.md "wikilink")（播映完畢）
 
-  - [Star
-    King](https://zh.wikipedia.org/wiki/Star_King "wikilink")（播映完畢）
+  - [Star King](https://zh.wikipedia.org/wiki/Star_King "wikilink")（播映完畢）
 
-  - [新西遊記2](../Page/新西遊記.md "wikilink")（播映完畢）
+  - [新西遊記](../Page/新西遊記.md "wikilink")2（播映完畢）
 
   - [同床異夢沒關係沒關係](https://zh.wikipedia.org/wiki/同床異夢沒關係沒關係 "wikilink")（播映完畢）
 
@@ -4386,8 +4379,7 @@ Movies合作，於東南亞地區送上亞洲電影，並加入各國的Viu Orig
 | 1993       | [男兒當入樽](https://zh.wikipedia.org/wiki/男兒當入樽 "wikilink") | 全集推出     | 2016     |
 |            |                                                         |          |          |
 
-  - [Love
-    Live\!](https://zh.wikipedia.org/wiki/LoveLive!_\(動畫\) "wikilink")
+  - [Love Live\!](https://zh.wikipedia.org/wiki/LoveLive!_\(動畫\) "wikilink")
   - [山田君與7人魔女](../Page/山田君與7人魔女.md "wikilink")
   - [牙狼 - 紅蓮之月](../Page/牙狼〈GARO〉-紅蓮之月-.md "wikilink")
   - [全部成為F](../Page/全部成為F.md "wikilink")
@@ -4397,7 +4389,7 @@ Movies合作，於東南亞地區送上亞洲電影，並加入各國的Viu Orig
   - [落第騎士英雄譚](../Page/落第騎士英雄譚.md "wikilink")
   - [數碼暴龍大冒險tri.](../Page/數碼暴龍大冒險tri..md "wikilink")
   - [潮與虎](https://zh.wikipedia.org/wiki/潮與虎 "wikilink")
-  - [請問您今天要來點兔子嗎？？](../Page/請問您今天要來點兔子嗎？.md "wikilink")
+  - [請問您今天要來點兔子嗎？](../Page/請問您今天要來點兔子嗎？.md "wikilink")？
   - [學戰都市Asterisk](../Page/學戰都市Asterisk.md "wikilink")
   - [疾走王子](../Page/疾走王子.md "wikilink")
   - [夢幻之星Online2](https://zh.wikipedia.org/wiki/夢幻之星Online2 "wikilink")
@@ -4406,8 +4398,7 @@ Movies合作，於東南亞地區送上亞洲電影，並加入各國的Viu Orig
   - [蠟筆小新](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")
   - [爆音少女！！](../Page/爆音少女！！.md "wikilink")
   - [飛翔的魔女](https://zh.wikipedia.org/wiki/飛翔的魔女 "wikilink")
-  - [LoveLive\!
-    Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")
+  - [LoveLive\! Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")
   - [不愉快的妖怪庵](../Page/不愉快的妖怪庵.md "wikilink")
   - [ReLIFE 重返17歲](../Page/ReLIFE.md "wikilink")
   - [Rewrite](../Page/Rewrite.md "wikilink")
@@ -4422,8 +4413,7 @@ Movies合作，於東南亞地區送上亞洲電影，並加入各國的Viu Orig
   - [亞人醬有話要說](../Page/亞人醬有話要說.md "wikilink")
   - [為美好的世界獻上祝福！](../Page/為美好的世界獻上祝福！.md "wikilink")
   - [Marginal\#4 從Kiss 創造BIGBANG](../Page/MARGINAL＃4.md "wikilink")
-  - [在地下城尋求邂逅是否搞錯了什麼 外傳
-    劍姬神聖譚](https://zh.wikipedia.org/wiki/在地下城尋求邂逅是否搞錯了什麼 "wikilink")
+  - [在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚](https://zh.wikipedia.org/wiki/在地下城尋求邂逅是否搞錯了什麼 "wikilink")
   - [夏目友人帳 陸](../Page/夏目友人帳.md "wikilink")
   - [徒然喜歡你](../Page/徒然喜歡你.md "wikilink")
   - [時間支配者](../Page/時間支配者.md "wikilink")
@@ -4436,14 +4426,13 @@ Movies合作，於東南亞地區送上亞洲電影，並加入各國的Viu Orig
   - [比宇宙更遠的地方](https://zh.wikipedia.org/wiki/比宇宙還遠的地方 "wikilink")
   - [OVERLORD不死者之王 (第二季)](../Page/OVERLORD_\(小說\).md "wikilink")
   - [DARLING in the FRANXX](../Page/DARLING_in_the_FRANXX.md "wikilink")
-  - [驚爆危機 Invisible
-    Victory](https://zh.wikipedia.org/wiki/驚爆危機#驚爆危機！Invisible_Victory "wikilink")
+  - [驚爆危機 Invisible Victory](https://zh.wikipedia.org/wiki/驚爆危機#驚爆危機！Invisible_Victory "wikilink")
   - [異世界魔王與召喚少女的奴隸魔術](../Page/異世界魔王與召喚少女的奴隸魔術.md "wikilink")
   - [遙的接球](../Page/遙的接球.md "wikilink")
   - [京都寺町三條商店街的福爾摩斯](../Page/京都寺町三條商店街的福爾摩斯.md "wikilink")
   - [搖曳莊的幽奈小姐](../Page/搖曳莊的幽奈小姐.md "wikilink")
   - [SSSS.GRIDMAN](../Page/SSSS.GRIDMAN.md "wikilink")
-  - [青春豬頭少年不會夢到兔女郎學姐](../Page/青春豬頭少年.md "wikilink")
+  - [青春豬頭少年](../Page/青春豬頭少年.md "wikilink")不會夢到兔女郎學姐
   - [關於我轉生變成史萊姆這檔事](../Page/關於我轉生變成史萊姆這檔事.md "wikilink")
   - [哥布林殺手](../Page/哥布林殺手.md "wikilink")
   - [強風吹拂](../Page/強風吹拂.md "wikilink")
@@ -4453,13 +4442,10 @@ Movies合作，於東南亞地區送上亞洲電影，並加入各國的Viu Orig
 
 ## 合作夥伴
 
-  - [香港](../Page/香港.md "wikilink")：[Now
-    TV](https://zh.wikipedia.org/wiki/Now_TV "wikilink")
+  - [香港](../Page/香港.md "wikilink")：[Now TV](../Page/Now_TV.md "wikilink")
   - [新加坡](../Page/新加坡.md "wikilink")：[Singtel](https://zh.wikipedia.org/wiki/Singtel "wikilink")
-  - [馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")：Telekom
-    Malaysia
-  - [印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")：Indihome Fiber
-    (Telekom Indonesia附屬公司)
+  - [馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")：Telekom Malaysia
+  - [印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")：Indihome Fiber (Telekom Indonesia附屬公司)
   - [菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")：無
   - [印度](../Page/印度.md "wikilink")：無
   - [泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")：AIS
@@ -4481,15 +4467,11 @@ Movies合作，於東南亞地區送上亞洲電影，並加入各國的Viu Orig
   -
   -
   -
-[Category:電訊盈科](https://zh.wikipedia.org/wiki/Category:電訊盈科 "wikilink")
-[Category:网络电视](https://zh.wikipedia.org/wiki/Category:网络电视 "wikilink")
-[Category:视频网站](https://zh.wikipedia.org/wiki/Category:视频网站 "wikilink")
-[Category:视频点播订阅服务](https://zh.wikipedia.org/wiki/Category:视频点播订阅服务 "wikilink")
+[Category:電訊盈科](https://zh.wikipedia.org/wiki/Category:電訊盈科 "wikilink") [Category:网络电视](https://zh.wikipedia.org/wiki/Category:网络电视 "wikilink") [Category:视频网站](https://zh.wikipedia.org/wiki/Category:视频网站 "wikilink") [Category:视频点播订阅服务](https://zh.wikipedia.org/wiki/Category:视频点播订阅服务 "wikilink")
 
 1.
-2.  [【岑傲明視評】同 Viu
-    唔同命](http://bka.mpweekly.com/film-music/tvplay/viutv-%E4%B8%80%E8%B5%B7%E8%B7%91%E9%81%8E%E7%9A%84%E6%97%A5%E5%AD%90-%E7%B4%84%E5%92%97%E5%82%85%E5%AE%B6%E4%BF%8A-%E5%B2%91%E5%82%B2%E6%98%8E?cat=4)
+2.  [【岑傲明視評】同 Viu 唔同命](http://bka.mpweekly.com/film-music/tvplay/viutv-%E4%B8%80%E8%B5%B7%E8%B7%91%E9%81%8E%E7%9A%84%E6%97%A5%E5%AD%90-%E7%B4%84%E5%92%97%E5%82%85%E5%AE%B6%E4%BF%8A-%E5%B2%91%E5%82%B2%E6%98%8E?cat=4)
 3.  [Viu與南韓JTBC合作提供電視劇](https://www.am730.com.hk/news/share/113836)
-4.  由於劇集拍攝時期高清技術尚未出現，故畫質只有[標準畫質電視質素提供](../Page/標準畫質電視.md "wikilink")。
+4.  由於劇集拍攝時期高清技術尚未出現，故畫質只有[標準畫質電視](../Page/標準畫質電視.md "wikilink")質素提供。
 5.  香港地區於5月2日推出
 6.  中台合作

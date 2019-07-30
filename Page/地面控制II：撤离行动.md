@@ -1,5 +1,4 @@
-是一款2004年上市的，由Massive
-Entertainment制作的[即时战术游戏](../Page/即时战术游戏.md "wikilink")。\[1\]本作为[地面控制的续作](../Page/地面控制_\(游戏\).md "wikilink")。和前作相似，本作采用全3D图像和可旋转视角。
+是一款2004年上市的，由Massive Entertainment制作的[即时战术游戏](../Page/即时战术游戏.md "wikilink")。\[1\]本作为[地面控制的续作](../Page/地面控制_\(游戏\).md "wikilink")。和前作相似，本作采用全3D图像和可旋转视角。
 
 ## 登场人物
 
@@ -24,16 +23,6 @@ Entertainment制作的[即时战术游戏](../Page/即时战术游戏.md "wikili
   -
 ## 参考资料
 
-[分类:2004年电子游戏](https://zh.wikipedia.org/wiki/分类:2004年电子游戏 "wikilink")
-[分类:多人及单人电子游戏](https://zh.wikipedia.org/wiki/分类:多人及单人电子游戏 "wikilink")
-[分类:即时战术游戏](https://zh.wikipedia.org/wiki/分类:即时战术游戏 "wikilink")
-[分类:Windows游戏](https://zh.wikipedia.org/wiki/分类:Windows游戏 "wikilink")
-[分类:Windows独占游戏](https://zh.wikipedia.org/wiki/分类:Windows独占游戏 "wikilink")
-[分类:雪乐山游戏](https://zh.wikipedia.org/wiki/分类:雪乐山游戏 "wikilink")
-[分类:合作模式游戏](https://zh.wikipedia.org/wiki/分类:合作模式游戏 "wikilink")
-[分类:瑞典开发电子游戏](https://zh.wikipedia.org/wiki/分类:瑞典开发电子游戏 "wikilink")
-[分类:后传电子游戏](https://zh.wikipedia.org/wiki/分类:后传电子游戏 "wikilink")
-[分类:科幻电子游戏](https://zh.wikipedia.org/wiki/分类:科幻电子游戏 "wikilink")
-[分类:女性反派电子游戏](https://zh.wikipedia.org/wiki/分类:女性反派电子游戏 "wikilink")
+[分类:2004年电子游戏](https://zh.wikipedia.org/wiki/分类:2004年电子游戏 "wikilink") [分类:多人及单人电子游戏](https://zh.wikipedia.org/wiki/分类:多人及单人电子游戏 "wikilink") [分类:即时战术游戏](https://zh.wikipedia.org/wiki/分类:即时战术游戏 "wikilink") [分类:Windows游戏](https://zh.wikipedia.org/wiki/分类:Windows游戏 "wikilink") [分类:Windows独占游戏](https://zh.wikipedia.org/wiki/分类:Windows独占游戏 "wikilink") [分类:雪乐山游戏](https://zh.wikipedia.org/wiki/分类:雪乐山游戏 "wikilink") [分类:合作模式游戏](https://zh.wikipedia.org/wiki/分类:合作模式游戏 "wikilink") [分类:瑞典开发电子游戏](https://zh.wikipedia.org/wiki/分类:瑞典开发电子游戏 "wikilink") [分类:后传电子游戏](https://zh.wikipedia.org/wiki/分类:后传电子游戏 "wikilink") [分类:科幻电子游戏](https://zh.wikipedia.org/wiki/分类:科幻电子游戏 "wikilink") [分类:女性反派电子游戏](https://zh.wikipedia.org/wiki/分类:女性反派电子游戏 "wikilink")
 
 1.

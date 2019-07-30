@@ -1,6 +1,4 @@
-《**電影 光之美少女 Dream
-Stars\!**》於2017年3月18日在[日本上映](../Page/日本.md "wikilink")\[1\]。本作是第九次結集光之美少女系列成員的作品，Dream
-Stars系列電影唯一作品。
+《**電影 光之美少女 Dream Stars\!**》於2017年3月18日在[日本](../Page/日本.md "wikilink")上映\[1\]。本作是第九次結集光之美少女系列成員的作品，Dream Stars系列電影唯一作品。
 
 從這部電影開始，光之美少女不再像以往一樣全體登場，而是改由部分系列成員登場。
 
@@ -158,8 +156,7 @@ Stars系列電影唯一作品。
   - 製作擔當：澤守洸
   - CG製作人：野島淳志
   - 動畫製作：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")
-  - 製作：[電影光之美少女Dream
-    Stars\!製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（東映動畫、東映、ABC動畫、[Bandai](https://zh.wikipedia.org/wiki/Bandai "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、[Marvelous](../Page/Marvelous.md "wikilink")、木下工務店）
+  - 製作：[電影光之美少女Dream Stars\!製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（東映動畫、東映、ABC動畫、[Bandai](https://zh.wikipedia.org/wiki/Bandai "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、[Marvelous](../Page/Marvelous.md "wikilink")、木下工務店）
   - 發行：[東映](../Page/東映.md "wikilink")
 
 ## 參考資料
@@ -174,9 +171,6 @@ Stars系列電影唯一作品。
 
   - [光之美少女 Dream Stars\! 官方網站](http://www.precure-dreamstars.com/)
 
-[Category:2017年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2017年日本劇場動畫 "wikilink")
-[Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink")
-[Category:動畫跨界作品](https://zh.wikipedia.org/wiki/Category:動畫跨界作品 "wikilink")
-[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
+[Category:2017年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2017年日本劇場動畫 "wikilink") [Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink") [Category:動畫跨界作品](https://zh.wikipedia.org/wiki/Category:動畫跨界作品 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
 
 1.

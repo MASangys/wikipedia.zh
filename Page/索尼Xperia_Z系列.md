@@ -4,23 +4,17 @@
 
 </div>
 
-**Sony Xperia
-Z系列**是指日本[索尼移动通信研制并发售的](../Page/索尼移动通信.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")、[平板电脑等移动终端品牌](../Page/平板電腦.md "wikilink")[Xperia旗下以字母](../Page/Xperia.md "wikilink")**Z**打头系列产品的统称。2016年被“Xperia
-X系列”所取代\[1\]。
+**Sony Xperia Z系列**是指日本[索尼移动通信](../Page/索尼移动通信.md "wikilink")研制并发售的[智能手机](../Page/智能手机.md "wikilink")、[平板电脑等移动终端品牌](../Page/平板電腦.md "wikilink")[Xperia](../Page/Xperia.md "wikilink")旗下以字母**Z**打头系列产品的统称。2016年被“Xperia X系列”所取代\[1\]。
 
 ## 历史
 
-自从Xperia品牌产品的研制和销售由索尼爱立信变成[索尼移动通信之后](../Page/索尼移动通信.md "wikilink")，新开启了一个**Xperia
-Z系列**。
+自从Xperia品牌产品的研制和销售由索尼爱立信变成[索尼移动通信](../Page/索尼移动通信.md "wikilink")之后，新开启了一个**Xperia Z系列**。
 
 2013年在[IFA发布的型号约定与早期的命名不同](../Page/柏林國際廣播展.md "wikilink")，全球版本Xperia被命名为“系列名称（1个字母）+编号”，Z也是系列名称之一。
 
-除Z系列旗舰机型外，此期间Xperia系列的全球版本还包括中高端的M系列，强调相机效果的C系列，低价位版本的E系列，其他T系列以及J系列等。
-其中，只有Z系列作为无锁SIM卡的型号在日本销售。
+除Z系列旗舰机型外，此期间Xperia系列的全球版本还包括中高端的M系列，强调相机效果的C系列，低价位版本的E系列，其他T系列以及J系列等。 其中，只有Z系列作为无锁SIM卡的型号在日本销售。
 
-在日本，[NTT
-DOCOMO](../Page/NTT_DOCOMO.md "wikilink")、[KDDI](../Page/KDDI.md "wikilink")、沖縄セルラー電話（各[au](../Page/Au_\(行動電話\).md "wikilink")）以及[软银都有发售Xperia](../Page/軟銀.md "wikilink")
-Z系列手机。
+在日本，[NTT DOCOMO](../Page/NTT_DOCOMO.md "wikilink")、[KDDI](../Page/KDDI.md "wikilink")、沖縄セルラー電話（各[au](../Page/Au_\(行動電話\).md "wikilink")）以及[软银都有发售Xperia](../Page/軟銀.md "wikilink") Z系列手机。
 
 ## 系列包含的型号
 
@@ -157,8 +151,7 @@ Z系列手机。
   - Xperia Z2 Tablet
       - [DOCOMO版](https://zh.wikipedia.org/wiki/SO-05F "wikilink")
       - [au版](https://zh.wikipedia.org/wiki/SOT21 "wikilink")
-  - [Xperia Z3 Tablet
-    Compact](../Page/Sony_Xperia_Z3_Tablet_Compact.md "wikilink")
+  - [Xperia Z3 Tablet Compact](../Page/Sony_Xperia_Z3_Tablet_Compact.md "wikilink")
   - Xperia Z4 Tablet
       - [DOCOMO版](https://zh.wikipedia.org/wiki/SO-05G "wikilink")
       - [au版](https://zh.wikipedia.org/wiki/SOT31 "wikilink")
@@ -169,9 +162,6 @@ Z系列手机。
 
   - [ソニーモバイルコミュニケーションズ](http://www.sonymobile.co.jp/)
 
-[Category:Sony_mobile_phones](https://zh.wikipedia.org/wiki/Category:Sony_mobile_phones "wikilink")
-[Category:Android_(operating_system)_devices](https://zh.wikipedia.org/wiki/Category:Android_\(operating_system\)_devices "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink")
+[Category:Sony_mobile_phones](https://zh.wikipedia.org/wiki/Category:Sony_mobile_phones "wikilink") [Category:Android_(operating_system)_devices](https://zh.wikipedia.org/wiki/Category:Android_\(operating_system\)_devices "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink")
 
 1.

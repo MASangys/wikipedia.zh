@@ -1,12 +1,6 @@
-**ZE:A
-J**由[ZE:A成員](../Page/ZE:A.md "wikilink")[凱文](https://zh.wikipedia.org/wiki/凱文_\(韓國藝人\) "wikilink")(Kevin)、[泰憲](https://zh.wikipedia.org/wiki/泰憲 "wikilink")、[熹哲](../Page/熹哲.md "wikilink")、[旼佑](../Page/旼佑.md "wikilink")、[桐俊所組成](https://zh.wikipedia.org/wiki/桐俊 "wikilink")。J代表了Jewel（寶石）、Joy（喜悅）、Jolly（刺激）、Justice（正義）、Join（連接），意思是指，要成為連接韓日兩國，帶來和ZE:A帝國之子完整體不一樣的感覺和刺激、精彩的組合。
-2015年1月21日 ZE:A
-J推出日語單曲《Roulette》（ルーレット）,Kevin參與此曲創作,《Roulette》進入日本公信榜單曲榜Top10。同年8月9日攜首支中文單曲《Marry
-Me》進軍中國市場,《Marry Me》是一首甜蜜的求婚歌曲，由桐俊參與作詞作曲。同月20日在海南舉辦新歌發表會及粉絲見面會。同年9月2日
-ZE:A J發行日語單曲《君のそばに\~Love to you\~》。
-2016年4月20日 ZE:A J推出日語專輯《Just
-Tonight》，包括了Kevin、熹哲、桐俊分別推出的Solo單曲《Collection》,《First
-Love》,《Healing》。
+**ZE:A J**由[ZE:A](../Page/ZE:A.md "wikilink")成員[凱文](https://zh.wikipedia.org/wiki/凱文_\(韓國藝人\) "wikilink")(Kevin)、[泰憲](https://zh.wikipedia.org/wiki/泰憲 "wikilink")、[熹哲](../Page/熹哲.md "wikilink")、[旼佑](../Page/旼佑.md "wikilink")、[桐俊所組成](https://zh.wikipedia.org/wiki/桐俊 "wikilink")。J代表了Jewel（寶石）、Joy（喜悅）、Jolly（刺激）、Justice（正義）、Join（連接），意思是指，要成為連接韓日兩國，帶來和ZE:A帝國之子完整體不一樣的感覺和刺激、精彩的組合。
+2015年1月21日 ZE:A J推出日語單曲《Roulette》（ルーレット）,Kevin參與此曲創作,《Roulette》進入日本公信榜單曲榜Top10。同年8月9日攜首支中文單曲《Marry Me》進軍中國市場,《Marry Me》是一首甜蜜的求婚歌曲，由桐俊參與作詞作曲。同月20日在海南舉辦新歌發表會及粉絲見面會。同年9月2日 ZE:A J發行日語單曲《君のそばに\~Love to you\~》。
+2016年4月20日 ZE:A J推出日語專輯《Just Tonight》，包括了Kevin、熹哲、桐俊分別推出的Solo單曲《Collection》,《First Love》,《Healing》。
 
 ## 成員列表
 
@@ -183,5 +177,4 @@ Love》,《Healing》。
 
 ## 外部連結
 
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
+[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")

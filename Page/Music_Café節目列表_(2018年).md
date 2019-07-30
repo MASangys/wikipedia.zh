@@ -1,16 +1,6 @@
 <div id="contentSub">
 
-<span class="subpages">**Music
-Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md "wikilink")
-- [2011年](../Page/Music_Café節目列表_\(2011年\).md "wikilink") -
-[2012年](../Page/Music_Café節目列表_\(2012年\).md "wikilink")** -
-**[2013年](../Page/Music_Café節目列表_\(2013年\).md "wikilink")** -
-**[2014年](../Page/Music_Café節目列表_\(2014年\).md "wikilink")** -
-**[2015年](../Page/Music_Café節目列表_\(2015年\).md "wikilink")** -
-**[2016年](../Page/Music_Café節目列表_\(2016年\).md "wikilink")** -
-**[2017年](../Page/Music_Café節目列表_\(2017年\).md "wikilink")** -
-**2018年** -
-**[2019年](../Page/Music_Café節目列表_\(2019年\).md "wikilink")**</span>
+<span class="subpages">**Music Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md "wikilink") - [2011年](../Page/Music_Café節目列表_\(2011年\).md "wikilink") - [2012年](../Page/Music_Café節目列表_\(2012年\).md "wikilink")** - **[2013年](../Page/Music_Café節目列表_\(2013年\).md "wikilink")** - **[2014年](../Page/Music_Café節目列表_\(2014年\).md "wikilink")** - **[2015年](../Page/Music_Café節目列表_\(2015年\).md "wikilink")** - **[2016年](../Page/Music_Café節目列表_\(2016年\).md "wikilink")** - **[2017年](../Page/Music_Café節目列表_\(2017年\).md "wikilink")** - **2018年** - **[2019年](../Page/Music_Café節目列表_\(2019年\).md "wikilink")**</span>
 
 </div>
 
@@ -125,6 +115,4 @@ Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md
 | 400 | 12月22日 | 朱紫嬈、曾樂彤　跳出框框挑戰自我   | [朱紫嬈](../Page/朱紫嬈.md "wikilink")、[曾樂彤](../Page/曾樂彤.md "wikilink") |- style="background-color: \#FFFFFF" |                                    |
 | 401 | 12月29日 | JW、鄭融　細說dream show | [JW](../Page/王灝兒.md "wikilink")、[鄭　融](../Page/鄭融.md "wikilink") |- style="background-color: \#FFFFFF" |                                      |
 
-[Category:無綫電視節目列表](https://zh.wikipedia.org/wiki/Category:無綫電視節目列表 "wikilink")
-[Category:Music_Café](https://zh.wikipedia.org/wiki/Category:Music_Café "wikilink")
-[Category:2018年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2018年無綫電視節目 "wikilink")
+[Category:無綫電視節目列表](https://zh.wikipedia.org/wiki/Category:無綫電視節目列表 "wikilink") [Category:Music_Café](https://zh.wikipedia.org/wiki/Category:Music_Café "wikilink") [Category:2018年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2018年無綫電視節目 "wikilink")

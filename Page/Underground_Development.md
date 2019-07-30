@@ -1,9 +1,6 @@
-**Underground Development**（前身为**Z-Axis
-Games**）是于大卫·伦茨在1994年创立的游戏开发商。\[1\]
+**Underground Development**（前身为**Z-Axis Games**）是于大卫·伦茨在1994年创立的游戏开发商。\[1\]
 
-2002年5月，该公司被[动视收购](../Page/动视.md "wikilink")，并于2005年搬到加利福尼亚州福斯特城。\[2\]2008年初，工作室更名为Underground
-Development。2008年4月19日，动视宣布，该工作室将在完成PlayStation3版Enemy Territory: Quake
-Wars后关闭。\[3\]然而，工作室继续运营，并在2009年2月移动到红木海岸地区加利福尼亚州红木城的一个新的办公室\[4\]。
+2002年5月，该公司被[动视](../Page/动视.md "wikilink")收购，并于2005年搬到加利福尼亚州福斯特城。\[2\]2008年初，工作室更名为Underground Development。2008年4月19日，动视宣布，该工作室将在完成PlayStation3版Enemy Territory: Quake Wars后关闭。\[3\]然而，工作室继续运营，并在2009年2月移动到红木海岸地区加利福尼亚州红木城的一个新的办公室\[4\]。
 
 2010年2月11日，因为维旺迪的一个削减成本计划，动视关闭该工作室。
 
@@ -103,27 +100,18 @@ Wars后关闭。\[3\]然而，工作室继续运营，并在2009年2月移动到
 
 ## 旗下游戏(Underground Development时期)
 
-  - *[Enemy Territory: Quake
-    Wars](https://zh.wikipedia.org/wiki/Quake_Wars "wikilink")* (PS3版本)
-  - *[Guitar Hero: Van
-    Halen](https://zh.wikipedia.org/wiki/Guitar_Hero:_Van_Halen "wikilink")*
-  - *[Call of Duty: Devil's
-    Brigade](https://zh.wikipedia.org/wiki/Call_of_Duty:_Devil's_Brigade "wikilink")*\[5\]
-    (cancelled)
+  - *[Enemy Territory: Quake Wars](https://zh.wikipedia.org/wiki/Quake_Wars "wikilink")* (PS3版本)
+  - *[Guitar Hero: Van Halen](https://zh.wikipedia.org/wiki/Guitar_Hero:_Van_Halen "wikilink")*
+  - *[Call of Duty: Devil's Brigade](https://zh.wikipedia.org/wiki/Call_of_Duty:_Devil's_Brigade "wikilink")*\[5\] (cancelled)
 
 ## 参考资料
 
 ## 外部链接
 
   - [Activision website](http://www.activision.com/)
-  - [*Z-Axis Ltd.*](http://www.mobygames.com/company/z-axis-ltd) profile
-    on [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
+  - [*Z-Axis Ltd.*](http://www.mobygames.com/company/z-axis-ltd) profile on [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
 
-[Category:1997年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1997年開業電子遊戲公司 "wikilink")
-[Category:2010年結業公司](https://zh.wikipedia.org/wiki/Category:2010年結業公司 "wikilink")
-[Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink")
-[Category:美國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國已結業電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
+[Category:1997年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1997年開業電子遊戲公司 "wikilink") [Category:2010年結業公司](https://zh.wikipedia.org/wiki/Category:2010年結業公司 "wikilink") [Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink") [Category:美國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國已結業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
 1.
 2.

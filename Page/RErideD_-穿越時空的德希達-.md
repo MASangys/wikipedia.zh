@@ -1,8 +1,6 @@
-《**RErideD -穿越時空的德希達-**》（）是一部由[GEEK
-TOYS製作的原創動畫](../Page/GEEK_TOYS.md "wikilink")，於2018年10月播映\[1\]。
+《**RErideD -穿越時空的德希達-**》（）是一部由[GEEK TOYS製作的原創動畫](../Page/GEEK_TOYS.md "wikilink")，於2018年10月播映\[1\]。
 
-2017年7月2日，角川在「Anime Expo 2017」中以代號「Project
-D」發表本作，並表示本作是一部由佐藤卓哉及安倍吉俊合作、以時間跳躍為題材的作品\[2\]\[3\]。
+2017年7月2日，角川在「Anime Expo 2017」中以代號「Project D」發表本作，並表示本作是一部由佐藤卓哉及安倍吉俊合作、以時間跳躍為題材的作品\[2\]\[3\]。
 
 ## 故事簡介
 
@@ -256,9 +254,7 @@ MASSKET</p></td>
   - [《RErideD -穿越時空的德希達-》官方網站](http://rerided.com/)
 
   -
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:時間旅行動畫](https://zh.wikipedia.org/wiki/Category:時間旅行動畫 "wikilink")
+[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:時間旅行動畫](https://zh.wikipedia.org/wiki/Category:時間旅行動畫 "wikilink")
 
 1.
 2.

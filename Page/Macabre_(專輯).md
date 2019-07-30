@@ -1,5 +1,4 @@
-《**MACABRE**》是日本搖滾樂團[Dir en
-grey於](../Page/Dir_en_grey.md "wikilink")2000年發行的第2張錄音室專輯。
+《**MACABRE**》是日本搖滾樂團[Dir en grey於](../Page/Dir_en_grey.md "wikilink")2000年發行的第2張錄音室專輯。
 
 ## 專輯簡介
 
@@ -13,7 +12,7 @@ grey於](../Page/Dir_en_grey.md "wikilink")2000年發行的第2張錄音室專�
 1.  Deity 
       -
         作曲：Dir en Grey
-        以合成音效展開，副歌旋律以[匈牙利舞曲第五號為基礎](../Page/匈牙利舞曲.md "wikilink")；歌詞以俄語寫成，日語意譯的版本收錄於京的詩集之中。
+        以合成音效展開，副歌旋律以[匈牙利舞曲](../Page/匈牙利舞曲.md "wikilink")第五號為基礎；歌詞以俄語寫成，日語意譯的版本收錄於京的詩集之中。
 2.  脈 
       -
         作曲：Dir en Grey
@@ -65,5 +64,4 @@ grey於](../Page/Dir_en_grey.md "wikilink")2000年發行的第2張錄音室專�
 
 <references/>
 
-[Category:Dir_en_grey音樂專輯](https://zh.wikipedia.org/wiki/Category:Dir_en_grey音樂專輯 "wikilink")
-[Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")
+[Category:Dir_en_grey音樂專輯](https://zh.wikipedia.org/wiki/Category:Dir_en_grey音樂專輯 "wikilink") [Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")

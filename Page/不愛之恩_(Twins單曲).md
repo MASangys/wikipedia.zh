@@ -1,6 +1,4 @@
-《**不愛之恩**》英文名称：Bu-Ai-Zhi-En，是[香港女子團體](../Page/香港.md "wikilink")[Twins暌違一年的全新粵語作品](https://zh.wikipedia.org/wiki/Twins "wikilink")，亦是固定班底[伍樂城](../Page/伍樂城.md "wikilink")（作曲）、[黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")（填詞）聯手主打歌。MV由台灣知名音樂錄影帶導演[陳映之執導](https://zh.wikipedia.org/wiki/陳映之 "wikilink")。歌曲於2016年7月14日[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")、[KKBOX](../Page/KKBOX.md "wikilink")、[JOOX](https://zh.wikipedia.org/wiki/JOOX "wikilink")、[QQ音樂](https://zh.wikipedia.org/wiki/QQ音樂 "wikilink")、[MOOV](../Page/MOOV.md "wikilink")、[Soliton](https://zh.wikipedia.org/wiki/Soliton "wikilink")、[Spotify](../Page/Spotify.md "wikilink")、[3HK正式推出](../Page/3_\(電訊\).md "wikilink")。\[1\]
-MV亦於同日[音悅台](https://zh.wikipedia.org/wiki/音悅台 "wikilink")、[騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")、[Youtube同步推出](https://zh.wikipedia.org/wiki/Youtube "wikilink")。音樂錄影帶男主角則由Jeremy
-Wong [黃俊豪擔綱](https://zh.wikipedia.org/wiki/黃俊豪 "wikilink")。
+《**不愛之恩**》英文名称：Bu-Ai-Zhi-En，是[香港](../Page/香港.md "wikilink")女子團體[Twins暌違一年的全新粵語作品](https://zh.wikipedia.org/wiki/Twins "wikilink")，亦是固定班底[伍樂城](../Page/伍樂城.md "wikilink")（作曲）、[黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")（填詞）聯手主打歌。MV由台灣知名音樂錄影帶導演[陳映之執導](https://zh.wikipedia.org/wiki/陳映之 "wikilink")。歌曲於2016年7月14日[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")、[KKBOX](../Page/KKBOX.md "wikilink")、[JOOX](https://zh.wikipedia.org/wiki/JOOX "wikilink")、[QQ音樂](https://zh.wikipedia.org/wiki/QQ音樂 "wikilink")、[MOOV](../Page/MOOV.md "wikilink")、[Soliton](https://zh.wikipedia.org/wiki/Soliton "wikilink")、[Spotify](../Page/Spotify.md "wikilink")、[3HK正式推出](../Page/3_\(電訊\).md "wikilink")。\[1\] MV亦於同日[音悅台](https://zh.wikipedia.org/wiki/音悅台 "wikilink")、[騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")、[Youtube同步推出](https://zh.wikipedia.org/wiki/Youtube "wikilink")。音樂錄影帶男主角則由Jeremy Wong [黃俊豪擔綱](https://zh.wikipedia.org/wiki/黃俊豪 "wikilink")。
 
 ## 單曲介紹
 
@@ -59,8 +57,7 @@ Sa與Gill從來沒想到會面對這樣的一個狀況，看似平凡無奇的�
 
 ## 參考資料
 
-[Category:Twins歌曲](https://zh.wikipedia.org/wiki/Category:Twins歌曲 "wikilink")
-[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink")
+[Category:Twins歌曲](https://zh.wikipedia.org/wiki/Category:Twins歌曲 "wikilink") [Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink")
 
 1.
 2.  [Twins新單變身“苦難閨蜜”感激《不愛之恩》](http://ent.people.com.cn/n1/2016/0715/c1085-28557715.html)

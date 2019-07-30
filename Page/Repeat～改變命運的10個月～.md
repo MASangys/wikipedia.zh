@@ -1,5 +1,4 @@
-《**Repeat～改變命運的10個月～**》（日語：リピート〜運命を変える10か月〜），由[讀賣電視台制作](../Page/讀賣電視台.md "wikilink")，於2018年1月11日至3月15日在「[讀賣電視台週四連續劇](../Page/讀賣電視台週四連續劇.md "wikilink")」時段播出的日劇。本劇由[貫地谷詩穗梨](https://zh.wikipedia.org/wiki/貫地谷詩穗梨 "wikilink")、[本乡奏多和](../Page/本乡奏多.md "wikilink")主演
-\[1\]
+《**Repeat～改變命運的10個月～**》（日語：リピート〜運命を変える10か月〜），由[讀賣電視台](../Page/讀賣電視台.md "wikilink")制作，於2018年1月11日至3月15日在「[讀賣電視台週四連續劇](../Page/讀賣電視台週四連續劇.md "wikilink")」時段播出的日劇。本劇由[貫地谷詩穗梨](https://zh.wikipedia.org/wiki/貫地谷詩穗梨 "wikilink")、[本乡奏多](../Page/本乡奏多.md "wikilink")和主演 \[1\]
 
 ## 故事簡介
 
@@ -302,8 +301,7 @@
   - 原作：
   - 編劇：，
   - 音樂：
-  - 主題曲：[DAY6](../Page/DAY6.md "wikilink")「If
-    ～また逢えたら～」([華納音樂](https://zh.wikipedia.org/wiki/華納音樂 "wikilink"))
+  - 主題曲：[DAY6](../Page/DAY6.md "wikilink")「If ～また逢えたら～」([華納音樂](https://zh.wikipedia.org/wiki/華納音樂 "wikilink"))
   - 製作人：
   - 制作：沼田賢治、中間利彦、村本陽介、古賀俊輔（ザフール）、長坂淳子（ザフール）
   - 導演：, ,
@@ -339,23 +337,13 @@
 
   -
   -
-[Category:2007年小說](https://zh.wikipedia.org/wiki/Category:2007年小說 "wikilink")
-[Category:時間旅行題材小說](https://zh.wikipedia.org/wiki/Category:時間旅行題材小說 "wikilink")
-[Category:時間迴圈題材作品](https://zh.wikipedia.org/wiki/Category:時間迴圈題材作品 "wikilink")
-[Category:文藝春秋](https://zh.wikipedia.org/wiki/Category:文藝春秋 "wikilink")
-[Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink")
-[Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink")
-[Category:讀賣電視台週四連續劇](https://zh.wikipedia.org/wiki/Category:讀賣電視台週四連續劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:2007年小說](https://zh.wikipedia.org/wiki/Category:2007年小說 "wikilink") [Category:時間旅行題材小說](https://zh.wikipedia.org/wiki/Category:時間旅行題材小說 "wikilink") [Category:時間迴圈題材作品](https://zh.wikipedia.org/wiki/Category:時間迴圈題材作品 "wikilink") [Category:文藝春秋](https://zh.wikipedia.org/wiki/Category:文藝春秋 "wikilink") [Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink") [Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink") [Category:讀賣電視台週四連續劇](https://zh.wikipedia.org/wiki/Category:讀賣電視台週四連續劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
 1.  [貫地谷しほり×本郷奏多×ゴリの「リピート～運命を変える10か月～」スペシャルインタビュー！](https://tv.yahoo.co.jp/news/detail/20180208-00000002-tvguide)
 2.  [島崎遥香が「リピート～運命を変える10か月～」でドSお嬢さまに。初のキスシーンにも挑戦！](http://www.tvguide.or.jp/news/20171226/13.html)
 3.  [【卸下偶像包袱】島崎遙香挑戰咀戲嚇驚觀眾](https://hk.entertainment.appledaily.com/enews/realtime/article/20180113/57699648)
 4.
-5.  [戲劇學園](https://twitter.com/theatreacademy/status/951407097651986432)
-    -Twitter，在2018年1月11日
+5.  [戲劇學園](https://twitter.com/theatreacademy/status/951407097651986432) -Twitter，在2018年1月11日
 6.  Repeat-Twitter-2018年1月12日
-7.  [中谷しのぶ](https://twitter.com/nakatani55/status/951284786949165057)
-    -Twitter-2018年1月10日
-8.  [福田博之](https://twitter.com/Fhi6yuki/status/951341543239032832)
-    -Twitter-2018年1月10日
+7.  [中谷しのぶ](https://twitter.com/nakatani55/status/951284786949165057) -Twitter-2018年1月10日
+8.  [福田博之](https://twitter.com/Fhi6yuki/status/951341543239032832) -Twitter-2018年1月10日

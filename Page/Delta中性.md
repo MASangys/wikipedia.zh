@@ -1,4 +1,4 @@
-在[金融领域](../Page/金融.md "wikilink")，如果一个投资组合由相关的金融产品组成，而且其价值不受标的资产小幅价格变动的影响，这样的投资组合具有**delta中性**的性质。这种[投资组合的成分通常包括](../Page/投資組合.md "wikilink")[期权和相对应的标的资产](https://zh.wikipedia.org/wiki/期权 "wikilink")，让[delta正负相消](https://zh.wikipedia.org/wiki/delta "wikilink")，使投资组合的价格对标的资产的价格相对不敏感。
+在[金融](../Page/金融.md "wikilink")领域，如果一个投资组合由相关的金融产品组成，而且其价值不受标的资产小幅价格变动的影响，这样的投资组合具有**delta中性**的性质。这种[投资组合的成分通常包括](../Page/投資組合.md "wikilink")[期权和相对应的标的资产](https://zh.wikipedia.org/wiki/期权 "wikilink")，让[delta正负相消](https://zh.wikipedia.org/wiki/delta "wikilink")，使投资组合的价格对标的资产的价格相对不敏感。
 
 delta对冲是一个与delta中性相关的概念。这种对冲描述的是保持[投资组合的](../Page/投資組合.md "wikilink")[delta尽可能等于或接近零的过程](https://zh.wikipedia.org/wiki/delta "wikilink")。维持零delta在实际操作中的难度较大。这是由于当标的资产的价格变化很大时，再次对冲的风险较高。此外，研究表明频繁的对冲会导致投资组合的低现金流。\[1\]
 
@@ -32,10 +32,9 @@ Delta是S的函数，同时它也是[执行价格和到期时间的函数](../Pa
 
 ## 理论基础
 
-Delta中性是[布莱克-舒尔兹模型的证明中的一部分](../Page/布莱克-舒尔兹模型.md "wikilink")。
+Delta中性是[布莱克-舒尔兹模型](../Page/布莱克-舒尔兹模型.md "wikilink")的证明中的一部分。
 
-通过对期权价值在 s 处进行[泰勒公式展开](../Page/泰勒公式.md "wikilink")，我们能得出当标的物资产价值变化 ε
-时，期权价格C(s)的变动:
+通过对期权价值在 s 处进行[泰勒公式](../Page/泰勒公式.md "wikilink")展开，我们能得出当标的物资产价值变化 ε 时，期权价格C(s)的变动:
 
   -
     \(C(s + \varepsilon\,) = C(s) + (s + \varepsilon - s)\, C'(s) + {1/2}\,(s + \varepsilon - s )^2\, C''(s) + ...\)
@@ -59,17 +58,11 @@ Delta中性是[布莱克-舒尔兹模型的证明中的一部分](../Page/布莱
 
 ## 外部链接
 
-  - [Delta
-    Hedging](http://www.investopedia.com/terms/d/deltahedging.asp),
-    investopedia.com
-  - [Theory & Application for Delta
-    Hedging](https://web.archive.org/web/20151107021006/http://www.risklimited.com/Delta-Hedging.pdf)
-  - [Delta Neutral Hedging
-    Strategies](http://www.quantprinciple.com/invest/index.php/docs/quant_strategies/delta_neutral_hedging_strategies/)
+  - [Delta Hedging](http://www.investopedia.com/terms/d/deltahedging.asp), investopedia.com
+  - [Theory & Application for Delta Hedging](https://web.archive.org/web/20151107021006/http://www.risklimited.com/Delta-Hedging.pdf)
+  - [Delta Neutral Hedging Strategies](http://www.quantprinciple.com/invest/index.php/docs/quant_strategies/delta_neutral_hedging_strategies/)
 
-[Category:金融衍生工具](https://zh.wikipedia.org/wiki/Category:金融衍生工具 "wikilink")
-[Category:金融市场](https://zh.wikipedia.org/wiki/Category:金融市场 "wikilink")
-[Category:金融数学](https://zh.wikipedia.org/wiki/Category:金融数学 "wikilink")
+[Category:金融衍生工具](https://zh.wikipedia.org/wiki/Category:金融衍生工具 "wikilink") [Category:金融市场](https://zh.wikipedia.org/wiki/Category:金融市场 "wikilink") [Category:金融数学](https://zh.wikipedia.org/wiki/Category:金融数学 "wikilink")
 
 1.  De Weert F.  pp. 74-81
 2.  <http://www.quantprinciple.com/invest/index.php/docs/quant_strategies/delta_neutral_hedging_strategies/>

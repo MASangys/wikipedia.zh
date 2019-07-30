@@ -1,13 +1,11 @@
-[Entrez.svg](https://zh.wikipedia.org/wiki/File:Entrez.svg "fig:Entrez.svg")
-**Entrez**全局查詢跨數據庫搜索系統是一個引擎。它能讓使用者能一次搜尋[NCBI網站上的許多不同的](https://zh.wikipedia.org/wiki/NCBI "wikilink")[健康科學數據庫](https://zh.wikipedia.org/wiki/健康科學 "wikilink")\[1\]。該數據庫能快速搜尋蛋白質的[一級結構](https://zh.wikipedia.org/wiki/一級結構 "wikilink")、高級結構，以及相關的參考資料。Entrez系統同時還提供[基因的序列信息以及染色體定位](../Page/基因.md "wikilink")。另外，可以從Entrez系統上獲取一些教材。其名稱「Entrez」（源自法語，意思爲「進來吧！」）旨在表現該數據庫歡迎公眾搜尋NLM（國家醫學圖書館）的內容的熱情。
+[Entrez.svg](https://zh.wikipedia.org/wiki/File:Entrez.svg "fig:Entrez.svg") **Entrez**全局查詢跨數據庫搜索系統是一個引擎。它能讓使用者能一次搜尋[NCBI網站上的許多不同的](https://zh.wikipedia.org/wiki/NCBI "wikilink")[健康科學數據庫](https://zh.wikipedia.org/wiki/健康科學 "wikilink")\[1\]。該數據庫能快速搜尋蛋白質的[一級結構](https://zh.wikipedia.org/wiki/一級結構 "wikilink")、高級結構，以及相關的參考資料。Entrez系統同時還提供[基因](../Page/基因.md "wikilink")的序列信息以及染色體定位。另外，可以從Entrez系統上獲取一些教材。其名稱「Entrez」（源自法語，意思爲「進來吧！」）旨在表現該數據庫歡迎公眾搜尋NLM（國家醫學圖書館）的內容的熱情。
 
 ## 數據庫
 
 Entrez會在下列數據庫中進行搜尋：
 
   - [PubMed](../Page/PubMed.md "wikilink")
-  - [PMC](https://zh.wikipedia.org/wiki/PMC "wikilink")（PubMed
-    Central免費獲取PubMed上的文章全文）
+  - [PMC](https://zh.wikipedia.org/wiki/PMC "wikilink")（PubMed Central免費獲取PubMed上的文章全文）
   - 站點搜尋：NCBI網頁以及FTP
   - 在線圖書
   - [人類孟德爾遺傳學](../Page/人類孟德爾遺傳學.md "wikilink") (OMIM)
@@ -29,11 +27,9 @@ Entrez會在下列數據庫中進行搜尋：
   - *GEO DataSets*: GEO數據的實驗數據集
   - *Sequence read archive*（序列讀取存盤）：高通量測序數據
   - *Cancer Chromosomes*（癌症染色體）：細胞遺傳學數據庫cytogenetic databases
-  - *PubChem BioAssay*（PubChem生物測定）：化學物質的生物活性背景bioactivity screens of
-    chemical substances
+  - *PubChem BioAssay*（PubChem生物測定）：化學物質的生物活性背景bioactivity screens of chemical substances
   - *Probe*：序列特異性試劑
-  - *NLM Catalog*:
-    NLM目錄，包括總數達120萬的期刊、圖書、多媒體資料、計算機軟件、電子資源，以及其他一些LocatorPlus上的資源，每週都會更新。
+  - *NLM Catalog*: NLM目錄，包括總數達120萬的期刊、圖書、多媒體資料、計算機軟件、電子資源，以及其他一些LocatorPlus上的資源，每週都會更新。
 
 ## 使用
 
@@ -47,13 +43,10 @@ Entrez會在下列數據庫中進行搜尋：
 
 ## 外部連結
 
-  - [Entrez search engine
-    form](http://www.ncbi.nlm.nih.gov/sites/gquery)
+  - [Entrez search engine form](http://www.ncbi.nlm.nih.gov/sites/gquery)
   - [Entrez Help](http://www.ncbi.nlm.nih.gov/books/NBK3836/)
 
-[Category:生物資訊資料庫](https://zh.wikipedia.org/wiki/Category:生物資訊資料庫 "wikilink")
-[Category:1991年建立](https://zh.wikipedia.org/wiki/Category:1991年建立 "wikilink")
-[Category:生物信息學](https://zh.wikipedia.org/wiki/Category:生物信息學 "wikilink")
+[Category:生物資訊資料庫](https://zh.wikipedia.org/wiki/Category:生物資訊資料庫 "wikilink") [Category:1991年建立](https://zh.wikipedia.org/wiki/Category:1991年建立 "wikilink") [Category:生物信息學](https://zh.wikipedia.org/wiki/Category:生物信息學 "wikilink")
 
 1.
 2.

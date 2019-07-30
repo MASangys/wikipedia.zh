@@ -1,5 +1,4 @@
-[Folsom_Bondage_(cropped).jpg](https://zh.wikipedia.org/wiki/File:Folsom_Bondage_\(cropped\).jpg "fig:Folsom_Bondage_(cropped).jpg")
-**主人/奴隶**（英语：**Master/slave**，簡寫：**M/S**），是BDSM权力交换的关系。不同于BDSM的[支配与臣服的核心价值为爱](https://zh.wikipedia.org/wiki/支配与臣服 "wikilink")，主人/奴隶的核心价值为服务和服从。
+[Folsom_Bondage_(cropped).jpg](https://zh.wikipedia.org/wiki/File:Folsom_Bondage_\(cropped\).jpg "fig:Folsom_Bondage_(cropped).jpg") **主人/奴隶**（英语：**Master/slave**，簡寫：**M/S**），是BDSM权力交换的关系。不同于BDSM的[支配与臣服的核心价值为爱](https://zh.wikipedia.org/wiki/支配与臣服 "wikilink")，主人/奴隶的核心价值为服务和服从。
 
 奴隶在BDSM活动中，一个人同意顺从另一个人并成为他的奴隶，也就是他的财产。在BDSM中，性奴隶属于性幻想或角色扮演。\[1\]
 
@@ -7,8 +6,7 @@
 
 ## 术语
 
-[Caged_woman.jpg](https://zh.wikipedia.org/wiki/File:Caged_woman.jpg "fig:Caged_woman.jpg")
-在BDSM中，性奴隶是有一定期限的，这里的奴隶并不是用于自愿奴役和非自愿奴役之间的区分，因为性是不是自愿奴役的必要部分，而性奴隶也不会遵从主人的所有命令。
+[Caged_woman.jpg](https://zh.wikipedia.org/wiki/File:Caged_woman.jpg "fig:Caged_woman.jpg") 在BDSM中，性奴隶是有一定期限的，这里的奴隶并不是用于自愿奴役和非自愿奴役之间的区分，因为性是不是自愿奴役的必要部分，而性奴隶也不会遵从主人的所有命令。
 
 ## 协定
 
@@ -24,13 +22,9 @@
 
 ## 更多阅读
 
-  - Christina Abernathy (2007). *Erotic Slavehood: A Miss Abernathy
-    Omnibus.* Greenery Press. ISBN 1-890159-71-9.
-  - Jack Rinella (2005). *Becoming a slave.* Rinella Editorial Services.
-    ISBN 0-940267-20-9.
-  - Jack Rinella (2002). *The Compleat Slave: Creating and Living an
-    Erotic Dominant/Submissive Lifestyle.* Daedelus publishing Co. ISBN
-    1-881943-13-5.
+  - Christina Abernathy (2007). *Erotic Slavehood: A Miss Abernathy Omnibus.* Greenery Press. ISBN 1-890159-71-9.
+  - Jack Rinella (2005). *Becoming a slave.* Rinella Editorial Services. ISBN 0-940267-20-9.
+  - Jack Rinella (2002). *The Compleat Slave: Creating and Living an Erotic Dominant/Submissive Lifestyle.* Daedelus publishing Co. ISBN 1-881943-13-5.
 
 [Category:BDSM術語](https://zh.wikipedia.org/wiki/Category:BDSM術語 "wikilink")
 

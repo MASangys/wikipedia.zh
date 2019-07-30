@@ -1,6 +1,4 @@
-**Mogwai Young
-Team**是[後搖滾樂團](../Page/後搖滾.md "wikilink")[魔怪的第一張](../Page/魔怪_\(樂團\).md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於1997年10月27日由[Chemikal
-Underground發行](https://zh.wikipedia.org/wiki/Chemikal_Underground "wikilink")。有[CD和](../Page/CD.md "wikilink")[黑膠唱片二種版本](../Page/黑膠唱片.md "wikilink")。
+**Mogwai Young Team**是[後搖滾](../Page/後搖滾.md "wikilink")樂團[魔怪的第一張](../Page/魔怪_\(樂團\).md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於1997年10月27日由[Chemikal Underground發行](https://zh.wikipedia.org/wiki/Chemikal_Underground "wikilink")。有[CD](../Page/CD.md "wikilink")和[黑膠唱片](../Page/黑膠唱片.md "wikilink")二種版本。
 
 由於專輯封面為[富士銀行](https://zh.wikipedia.org/wiki/富士銀行 "wikilink")，因此常常被稱為富士銀行專輯。
 
@@ -33,8 +31,6 @@ Underground發行](https://zh.wikipedia.org/wiki/Chemikal_Underground "wikilink"
 
 ## 資料來源
 
-  - [Mogwai官方網站對Young
-    Team的介紹](http://www.mogwai.co.uk/music/music/mogwai-young-team-\(deluxe-edition\)/)
+  - [Mogwai官方網站對Young Team的介紹](http://www.mogwai.co.uk/music/music/mogwai-young-team-\(deluxe-edition\)/)
 
-[Category:1997年音樂專輯](https://zh.wikipedia.org/wiki/Category:1997年音樂專輯 "wikilink")
-[Category:Mogwai音樂專輯](https://zh.wikipedia.org/wiki/Category:Mogwai音樂專輯 "wikilink")
+[Category:1997年音樂專輯](https://zh.wikipedia.org/wiki/Category:1997年音樂專輯 "wikilink") [Category:Mogwai音樂專輯](https://zh.wikipedia.org/wiki/Category:Mogwai音樂專輯 "wikilink")

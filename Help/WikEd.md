@@ -6,24 +6,19 @@
 
 ## 快速上手
 
-大多数按钮的功能均如一般所預期，和常見的文字处理軟體相似。然而，wikEd有时又比較特别，主要是因為本軟體使用了浏览器內建的[多文字(RTF)编辑接口](../Page/RTF.md "wikilink")。只要您采用支持的浏览器（本軟體與Internet
-Explorer不相容），并正确安装且启用本軟體，wikEd會在点击条目的\[编辑\]后会立刻载入。
+大多数按钮的功能均如一般所預期，和常見的文字处理軟體相似。然而，wikEd有时又比較特别，主要是因為本軟體使用了浏览器內建的[多文字(RTF)编辑接口](../Page/RTF.md "wikilink")。只要您采用支持的浏览器（本軟體與Internet Explorer不相容），并正确安装且启用本軟體，wikEd會在点击条目的\[编辑\]后会立刻载入。
 
 ### 格式化文本
 
-和标准编辑窗口不同，在您粘贴文本时，链接还是链接、表格依舊是表格、奇怪的文本格式亦会保留。除非你转化格式（见下段），一切格式在保存页面时会忽略（只保留原始文本）。若您想在保存页面前去除格式，请点击“文本化”按钮<span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd
-textify.png](https://zh.wikipedia.org/wiki/File:wikEd_textify.png "fig:Image:wikEd textify.png")</span>。
+和标准编辑窗口不同，在您粘贴文本时，链接还是链接、表格依舊是表格、奇怪的文本格式亦会保留。除非你转化格式（见下段），一切格式在保存页面时会忽略（只保留原始文本）。若您想在保存页面前去除格式，请点击“文本化”按钮<span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd textify.png](https://zh.wikipedia.org/wiki/File:wikEd_textify.png "fig:Image:wikEd textify.png")</span>。
 
 ### 转换成维基代码
 
-若您想保留链接、表格等格式，请点击“维基化”按钮<span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd
-wikify.png](https://zh.wikipedia.org/wiki/File:wikEd_wikify.png "fig:Image:wikEd wikify.png")</span>。所有编辑按钮都会自动“维基化”文本。
+若您想保留链接、表格等格式，请点击“维基化”按钮<span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd wikify.png](https://zh.wikipedia.org/wiki/File:wikEd_wikify.png "fig:Image:wikEd wikify.png")</span>。所有编辑按钮都会自动“维基化”文本。
 
 ### 更新语法高亮
 
-因技术原因，语法高亮並無法自动更新。因此您加入文字后，其颜色与格式顯示未必正确。您只需按“文字化”<span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd
-textify.png](https://zh.wikipedia.org/wiki/File:wikEd_textify.png "fig:Image:wikEd textify.png")</span>或“维基化”<span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd
-wikify.png](https://zh.wikipedia.org/wiki/File:wikEd_wikify.png "fig:Image:wikEd wikify.png")</span>即可更新语法高亮。此方法也會更新内部或外部链接目标（按住ctrl点击，即可在新标签打开連結目标）。
+因技术原因，语法高亮並無法自动更新。因此您加入文字后，其颜色与格式顯示未必正确。您只需按“文字化”<span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd textify.png](https://zh.wikipedia.org/wiki/File:wikEd_textify.png "fig:Image:wikEd textify.png")</span>或“维基化”<span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd wikify.png](https://zh.wikipedia.org/wiki/File:wikEd_wikify.png "fig:Image:wikEd wikify.png")</span>即可更新语法高亮。此方法也會更新内部或外部链接目标（按住ctrl点击，即可在新标签打开連結目标）。
 
 大多数按钮（包含上述2種）使用時若没有選擇区域，就會作用在全文上，若有選擇则只作用在所選區域。
 
@@ -327,7 +322,7 @@ wikify.png](https://zh.wikipedia.org/wiki/File:wikEd_wikify.png "fig:Image:wikEd
 <tr class="even">
 <td><p><span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;"><a href="https://zh.wikipedia.org/wiki/File:wikEd_regexp.png" title="fig:Image:wikEd regexp.png">Image:wikEd regexp.png</a></span></p></td>
 <td><p>正規表示式</p></td>
-<td><p>切換<a href="../Page/正则表达式.md" title="wikilink">正则表达式的設定</a>。此處使用的是 <a href="https://developer.mozilla.org/en/Core_JavaScript_1.5_Guide/Regular_Expressions">JavaScript regular expression</a> 的語法。在取代文字中，下列的預留位置可以使用：<em>$1, $2...</em>（用以標示括號內的子字串符合項）、 <em>\n</em> (新一行)、 <em>\r</em> (空一格)、 <em>\t</em> (tab)、 <em>\127</em> (八進位字符)、 <em>\x1f</em> (十六進位 ASCII 字符)、和 <em>\u12ef</em> (十六進位 Unicode 字符)。 <em>\\</em>、<em>\'</em>、和<em>\"</em> 等同於 <em>\</em>、 <em>'</em>、和 <em>"</em>。</p></td>
+<td><p>切換<a href="../Page/正则表达式.md" title="wikilink">正则表达式</a>的設定。此處使用的是 <a href="https://developer.mozilla.org/en/Core_JavaScript_1.5_Guide/Regular_Expressions">JavaScript regular expression</a> 的語法。在取代文字中，下列的預留位置可以使用：<em>$1, $2...</em>（用以標示括號內的子字串符合項）、 <em>\n</em> (新一行)、 <em>\r</em> (空一格)、 <em>\t</em> (tab)、 <em>\127</em> (八進位字符)、 <em>\x1f</em> (十六進位 ASCII 字符)、和 <em>\u12ef</em> (十六進位 Unicode 字符)。 <em>\\</em>、<em>\'</em>、和<em>\"</em> 等同於 <em>\</em>、 <em>'</em>、和 <em>"</em>。</p></td>
 </tr>
 <tr class="odd">
 <td><p><span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;"><a href="https://zh.wikipedia.org/wiki/File:wikEd_find_ahead.png" title="fig:Image:wikEd find ahead.png">Image:wikEd find ahead.png</a></span></p></td>
@@ -348,8 +343,7 @@ wikify.png](https://zh.wikipedia.org/wiki/File:wikEd_wikify.png "fig:Image:wikEd
 | ----------------------------------------------------------------------------------------------------------------------------- |
 | [WikEdFixButt.png](https://zh.wikipedia.org/wiki/File:WikEdFixButt.png "fig:WikEdFixButt.png")**修正按鈕**位於尋找與取代按鈕的右手邊，文字編輯框正上方。 |
 
-<span style="color: red;">请在使用这类按钮后，**務必**利用<span style="color: none; background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:WikEd
-diff.png](https://zh.wikipedia.org/wiki/File:WikEd_diff.png "fig:Image:WikEd diff.png")</span>按钮检查编辑，避免出现预期外的损毁编辑。</span>请尽可能选择較小的选区。記住它们的应用规则相當简单。只有Unicode字符的修复是绝对安全的。
+<span style="color: red;">请在使用这类按钮后，**務必**利用<span style="color: none; background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:WikEd diff.png](https://zh.wikipedia.org/wiki/File:WikEd_diff.png "fig:Image:WikEd diff.png")</span>按钮检查编辑，避免出现预期外的损毁编辑。</span>请尽可能选择較小的选区。記住它们的应用规则相當简单。只有Unicode字符的修复是绝对安全的。
 
 | <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">**<small>图标</small>**</span>                                                                                                                 | 名稱         | 說明                                                                                                                                                                                                                                                                                                                                           | 作用區域        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
@@ -359,9 +353,9 @@ diff.png](https://zh.wikipedia.org/wiki/File:WikEd_diff.png "fig:Image:WikEd dif
 | <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:WikEd fix caps.png](https://zh.wikipedia.org/wiki/File:WikEd_fix_caps.png "fig:Image:WikEd fix caps.png")</span>                      | 大寫修正       | 將標題和列表轉為大寫                                                                                                                                                                                                                                                                                                                                   | 選擇範圍，否則為當前行 |
 | <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:WikEd fix unicode.png](https://zh.wikipedia.org/wiki/File:WikEd_fix_unicode.png "fig:Image:WikEd fix unicode.png")</span>             | Unicode 修正 | 根據瀏覽器所能夠支援字符的程度，將[Unicode字元顯示修復轉換為](https://zh.wikipedia.org/wiki/Unicode "wikilink")[實體字元](../Page/字符实体引用.md "wikilink")。例如：將 *°* 和 *À* 分別轉換成實體字元“°”和“.”。這是個安全轉換的按鈕，可以套用至全文且無須複檢。                                                                                                                                                           | 選擇範圍，否則為全文  |
 | <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:WikEd fix all.png](https://zh.wikipedia.org/wiki/File:WikEd_fix_all.png "fig:Image:WikEd fix all.png")</span>                         | 全部修正       | 一次進行以上四種修復：基本、html、大寫以及Unicode的修復。                                                                                                                                                                                                                                                                                                           | 選擇範圍，否則為全文  |
-| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:WikEd fix redirect.png](https://zh.wikipedia.org/wiki/File:WikEd_fix_redirect.png "fig:Image:WikEd fix redirect.png")</span>          | 重新導向修正     | 檢查連結是否含有[重新導向](../Page/網域名稱轉址.md "wikilink")，並將其修復導向至最終目標。原始連結文字會保留在"|"之後。這項功能使用了[AJAX技術連結伺服器](../Page/AJAX.md "wikilink")。此修復按鈕必須小心使用，請先詳讀[重新導向的介紹以及](https://zh.wikipedia.org/wiki/Wikipedia:重定向 "wikilink")[重新導向使用說明](https://zh.wikipedia.org/wiki/Help:重定向 "wikilink")                                                                  | 選擇範圍，否則為全文  |
+| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:WikEd fix redirect.png](https://zh.wikipedia.org/wiki/File:WikEd_fix_redirect.png "fig:Image:WikEd fix redirect.png")</span>          | 重新導向修正     | 檢查連結是否含有[重新導向](../Page/網域名稱轉址.md "wikilink")，並將其修復導向至最終目標。原始連結文字會保留在"|"之後。這項功能使用了[AJAX](../Page/AJAX.md "wikilink")技術連結伺服器。此修復按鈕必須小心使用，請先詳讀[重新導向的介紹以及](https://zh.wikipedia.org/wiki/Wikipedia:重定向 "wikilink")[重新導向使用說明](https://zh.wikipedia.org/wiki/Help:重定向 "wikilink")                                                                  | 選擇範圍，否則為全文  |
 | colspan = "2" style="border: none; background: none;" |                                                                                                                                                                  | 下行         |                                                                                                                                                                                                                                                                                                                                              |             |
-| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd fix dash.png](https://zh.wikipedia.org/wiki/File:wikEd_fix_dash.png "fig:Image:wikEd fix dash.png")</span>                      | 連接號修正      | 修復[em連接號](https://zh.wikipedia.org/wiki/連接號#Em_dash "wikilink")、[en連接號](https://zh.wikipedia.org/wiki/連接號#En_dash "wikilink")、[连字号和](../Page/连字号.md "wikilink")[減號](../Page/加号与减号.md "wikilink")，使其呈現正確字元及格式，包含：移除em連接號周邊的空格，於en連接號的兩側加入空格，將html實體字元轉換為連接號字元，--轉換為em連接號，數字前的連接號轉換為減號，日期的連接號轉換為en連接號。                                         | 選擇範圍，否則為當段落 |
+| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd fix dash.png](https://zh.wikipedia.org/wiki/File:wikEd_fix_dash.png "fig:Image:wikEd fix dash.png")</span>                      | 連接號修正      | 修復[em連接號](https://zh.wikipedia.org/wiki/連接號#Em_dash "wikilink")、[en連接號](https://zh.wikipedia.org/wiki/連接號#En_dash "wikilink")、[连字号](../Page/连字号.md "wikilink")和[減號](../Page/加号与减号.md "wikilink")，使其呈現正確字元及格式，包含：移除em連接號周邊的空格，於en連接號的兩側加入空格，將html實體字元轉換為連接號字元，--轉換為em連接號，數字前的連接號轉換為減號，日期的連接號轉換為en連接號。                                         | 選擇範圍，否則為當段落 |
 | <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd fix punct.png](https://zh.wikipedia.org/wiki/File:wikEd_fix_punct.png "fig:Image:wikEd fix punct.png")</span>                   | 標點符號修正     | 刪除標點符號前的空格。                                                                                                                                                                                                                                                                                                                                  | 選擇範圍，否則為當段落 |
 | <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd fix math.png](https://zh.wikipedia.org/wiki/File:wikEd_fix_math.png "fig:Image:wikEd fix math.png")</span>                      | 數學式修正      | 修復一些\<math\> 維基標記外常見的問題：減號、乘號*×*<font color="#000000">、將</font>*10^3*<font color="#000000">轉換為</font>*10<sup>3</sup>*<font color="#000000">、</font>*+/-*<font color="#000000">轉換為</font>*±*以及Unicode轉換為html上標。                                                                                                                               | 選擇範圍，否則為當段落 |
 | <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd fix chem.png](https://zh.wikipedia.org/wiki/File:wikEd_fix_chem.png "fig:Image:wikEd fix chem.png")</span>                      | 化學式修正      | 修復未格式化的化學式。修復上標和下標符號，元素名大寫和反應箭號。此功能僅適用於較小範圍的選區。例如：*2 Na+ + 2 OH- + H2SO4 --\> 2 h2o + Na2SO4*<font color="#000000">將會轉換為</font>*2Na<sup>+</sup> + 2OH<sup>−</sup> + H<sub>2</sub>SO<sub>4</sub> → 2H<sub>2</sub>O + Na<sub>2</sub>SO<sub>4</sub>*。                                                                                           | 選擇範圍，否則為當前行 |
@@ -441,9 +435,7 @@ diff.png](https://zh.wikipedia.org/wiki/File:WikEd_diff.png "fig:Image:WikEd dif
 
 ## 特殊字元的語法突顯
 
-wikEd
-會突出顯示某些特殊的[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")
-字元，使它們和標準版本不一樣而得以被辨識。將滑鼠游標懸浮在突顯的字元上方以顯示它的名稱。
+wikEd 會突出顯示某些特殊的[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink") 字元，使它們和標準版本不一樣而得以被辨識。將滑鼠游標懸浮在突顯的字元上方以顯示它的名稱。
 
 <table>
 <thead>
@@ -574,164 +566,85 @@ wikEd
 
 ### wikEd無法加载
 
-如果您已按上方说明设定，但wikEd标志（<span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd
-logo.png](https://zh.wikipedia.org/wiki/File:wikEd_logo.png "fig:Image:wikEd logo.png")</span>）未在页面顶部退出的后面显示，同时编辑页也不出现wikEd按钮。请尝试以下步骤：
+如果您已按上方说明设定，但wikEd标志（<span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd logo.png](https://zh.wikipedia.org/wiki/File:wikEd_logo.png "fig:Image:wikEd logo.png")</span>）未在页面顶部退出的后面显示，同时编辑页也不出现wikEd按钮。请尝试以下步骤：
 
-  - 更新瀏覽器的快取：按住**<u>Shift鍵</u>**並點擊<u>**重新整理**</u>（或
-    按**<u>Ctrl-Shift-R</u>**）
+  - 更新瀏覽器的快取：按住**<u>Shift鍵</u>**並點擊<u>**重新整理**</u>（或 按**<u>Ctrl-Shift-R</u>**）
   - 啟用瀏覽器中的JavaScript（Firefox：工具 → 選項 → 內容 → 啟用 JavaScript）
-  - If installed as a user script on a *User:YourUsername/your_skin.js*
-    page make sure that you are using the right skin or move the loading
-    code to
-    [User:YourUsername/common.js](https://zh.wikipedia.org/wiki/Special:Mypage/common.js "wikilink"),
-    see [wikEd
-    installation](https://zh.wikipedia.org/wiki/User:Cacycle/wikEd_installation "wikilink")
-  - If you are using **wikEd** on a non-Wikipedia installation check if
-    *$wgAllowUserJs* is has been set to *true* in the MediaWiki
-    initialization file LocalSettings.php by an administrator
-  - Check the JavaScript Error Console (under *Tools* in Firefox) for
-    error messages. If there is an error message caused by **wikEd**
-    please report to the [**wikEd** discussion
-    page](https://zh.wikipedia.org/wiki/User_talk:Cacycle/wikEd "wikilink").
+  - If installed as a user script on a *User:YourUsername/your_skin.js* page make sure that you are using the right skin or move the loading code to [User:YourUsername/common.js](https://zh.wikipedia.org/wiki/Special:Mypage/common.js "wikilink"), see [wikEd installation](https://zh.wikipedia.org/wiki/User:Cacycle/wikEd_installation "wikilink")
+  - If you are using **wikEd** on a non-Wikipedia installation check if *$wgAllowUserJs* is has been set to *true* in the MediaWiki initialization file LocalSettings.php by an administrator
+  - Check the JavaScript Error Console (under *Tools* in Firefox) for error messages. If there is an error message caused by **wikEd** please report to the [**wikEd** discussion page](https://zh.wikipedia.org/wiki/User_talk:Cacycle/wikEd "wikilink").
 
 ### 所有的wikEd的按鈕消失
 
-頁面上方的 **wikEd** 圖示
-<span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd
-disabled.png](https://zh.wikipedia.org/wiki/File:wikEd_disabled.png "fig:Image:wikEd disabled.png")</span>
-呈現灰色，且 **wikEd** 按鈕並沒有出現在編輯框。
+頁面上方的 **wikEd** 圖示 <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd disabled.png](https://zh.wikipedia.org/wiki/File:wikEd_disabled.png "fig:Image:wikEd disabled.png")</span> 呈現灰色，且 **wikEd** 按鈕並沒有出現在編輯框。
 
   - 您可能不小心點擊了頁面上方的 **wikEd** 的圖示而關閉了**wikEd**。請再次點擊圖示以重新啟用 **wikEd**。
 
 ### wikEd 格式按鈕消失
 
-**wikEd** 的控制按鈕
-[WikEdCnt.png](https://zh.wikipedia.org/wiki/File:WikEdCnt.png "fig:WikEdCnt.png")
-有顯示在編輯框上，但其他的工具列都消失了。
+**wikEd** 的控制按鈕 [WikEdCnt.png](https://zh.wikipedia.org/wiki/File:WikEdCnt.png "fig:WikEdCnt.png") 有顯示在編輯框上，但其他的工具列都消失了。
 
-  - 您可能點擊了編輯框上的控制按鈕
-    <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd
-    logo.png](https://zh.wikipedia.org/wiki/File:wikEd_logo.png "fig:Image:wikEd logo.png")</span>
-    而暫時性地關閉了**wikEd**。請再次點擊按鈕以重新啟用
-    **wikEd**。請記住，這個按鈕的設定會儲存起來，並作用至所有的視窗和分頁。
+  - 您可能點擊了編輯框上的控制按鈕 <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd logo.png](https://zh.wikipedia.org/wiki/File:wikEd_logo.png "fig:Image:wikEd logo.png")</span> 而暫時性地關閉了**wikEd**。請再次點擊按鈕以重新啟用 **wikEd**。請記住，這個按鈕的設定會儲存起來，並作用至所有的視窗和分頁。
 
 ### Error: invalid range in character class
 
-You have installed **wikEd** by pasting the complete code to your wiki.
-**wikEd** does not load at all and the browser's error console shows the
-following error: *"Error: invalid range in character class"*. When you
-check the header text of the copied **wikEd** code for the following
-sentence: *"The code has to be saved as UTF-8 in your editor to preserve
-Unicode characters like ♥ (heart)"* the *"♥"* symbol is replaced by a
-*"?"*.
+You have installed **wikEd** by pasting the complete code to your wiki. **wikEd** does not load at all and the browser's error console shows the following error: *"Error: invalid range in character class"*. When you check the header text of the copied **wikEd** code for the following sentence: *"The code has to be saved as UTF-8 in your editor to preserve Unicode characters like ♥ (heart)"* the *"♥"* symbol is replaced by a *"?"*.
 
-The reason is that you lost the
-[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink") character
-formatting when copying the code to your wiki. Use a
-[UTF-8](../Page/UTF-8.md "wikilink")-capable text editor when you paste
-the code to your wiki and specify UTF-8 as your file format when you
-save your text file.
+The reason is that you lost the [Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink") character formatting when copying the code to your wiki. Use a [UTF-8](../Page/UTF-8.md "wikilink")-capable text editor when you paste the code to your wiki and specify UTF-8 as your file format when you save your text file.
 
 ## FAQ
 
 ### Can I have only some **wikEd** features
 
-Can I have only some **wikEd** features, e.g. only syntax highlighting,
-no syntax highlighting, only the search functions?
+Can I have only some **wikEd** features, e.g. only syntax highlighting, no syntax highlighting, only the search functions?
 
-There is no easy way to get only some wikEd features as most features
-are highly interdependent. However, **wikEd** is configurable and you
-could try to set the respective presets (e.g. no syntax highlighting),
-see the [customization
-section](https://zh.wikipedia.org/wiki/User:Cacycle/wikEd_customization "wikilink").
-Experienced programmers could try to dissect or to remove certain
-features, but such a version would not be updated automatically with
-bugfixes and new features. Feel free to suggest new configuration
-options on the [wikEd
-talk](https://zh.wikipedia.org/wiki/User_talk:Cacycle/wikEd "wikilink")
-page after having used **wikEd** for a few days (to get the feeling...).
+There is no easy way to get only some wikEd features as most features are highly interdependent. However, **wikEd** is configurable and you could try to set the respective presets (e.g. no syntax highlighting), see the [customization section](https://zh.wikipedia.org/wiki/User:Cacycle/wikEd_customization "wikilink"). Experienced programmers could try to dissect or to remove certain features, but such a version would not be updated automatically with bugfixes and new features. Feel free to suggest new configuration options on the [wikEd talk](https://zh.wikipedia.org/wiki/User_talk:Cacycle/wikEd "wikilink") page after having used **wikEd** for a few days (to get the feeling...).
 
 ### Missing features and other shortcomings
 
 #### Automatic syntax highlighting
 
-A common feature request is the automatic updating of the syntax
-highlighting while typing ("live syntax highlighting").
+A common feature request is the automatic updating of the syntax highlighting while typing ("live syntax highlighting").
 
-This cannot be easily implemented for technical reasons. Every automatic
-change to the edit frame either erases or messes up the undo history. In
-order to get live syntax highlighting, the whole undo/redo system and
-the whole editing logic of the browser's rich text interface would have
-to be simulated from scratch in JavaScript. Please see this [Firefox bug
-report](https://bugzilla.mozilla.org/show_bug.cgi?id=458524) and vote
-for it.
+This cannot be easily implemented for technical reasons. Every automatic change to the edit frame either erases or messes up the undo history. In order to get live syntax highlighting, the whole undo/redo system and the whole editing logic of the browser's rich text interface would have to be simulated from scratch in JavaScript. Please see this [Firefox bug report](https://bugzilla.mozilla.org/show_bug.cgi?id=458524) and vote for it.
 
 #### WYSIWYG
 
   -
-    '' Please also read an extended user essay about this under
-    [User:Cacycle/WYSIWYG](https://zh.wikipedia.org/wiki/User:Cacycle/WYSIWYG "wikilink")
-    (under construction)''
+    '' Please also read an extended user essay about this under [User:Cacycle/WYSIWYG](https://zh.wikipedia.org/wiki/User:Cacycle/WYSIWYG "wikilink") (under construction)''
 
-A common feature request is to make **wikEd** a true
-[WYSIWYG](https://zh.wikipedia.org/wiki/WYSIWYG "wikilink") ( )\[2\]
-editor.
+A common feature request is to make **wikEd** a true [WYSIWYG](https://zh.wikipedia.org/wiki/WYSIWYG "wikilink") ( )\[2\] editor.
 
-While this sounds like a good idea at first, it is actually a step
-backwards. It would be very simple to add WYSIWYG for the basic
-formatting like bold or italic. But for even slightly more advanced
-formatting, things turn complicated:
+While this sounds like a good idea at first, it is actually a step backwards. It would be very simple to add WYSIWYG for the basic formatting like bold or italic. But for even slightly more advanced formatting, things turn complicated:
 
-  - A true WYSIWYG editor has to hide and encapsulate any existing
-    wikicode from direct editing
-  - Therefore, images, tables, templates, wiki links, external links,
-    and even simple span or div tags with parameters, need a separate
-    (popup) editor to edit their hidden content
-  - Pasting formatted text screws up formatting, especially the heading
-    order
-  - Existing, syntactically incorrect text on the page can disappear
-    from editing, and, in the worst case, get lost on saving and/or
-    corrupt the existing article text
+  - A true WYSIWYG editor has to hide and encapsulate any existing wikicode from direct editing
+  - Therefore, images, tables, templates, wiki links, external links, and even simple span or div tags with parameters, need a separate (popup) editor to edit their hidden content
+  - Pasting formatted text screws up formatting, especially the heading order
+  - Existing, syntactically incorrect text on the page can disappear from editing, and, in the worst case, get lost on saving and/or corrupt the existing article text
 
-Under real-world conditions with typical wiki content, WYSIWYG editing
-is more confusing and time consuming than the simple wiki-way of
-structure-oriented editing.
+Under real-world conditions with typical wiki content, WYSIWYG editing is more confusing and time consuming than the simple wiki-way of structure-oriented editing.
 
-**wikEd** tries to bring together the best of both worlds in something
-also known as
-[WYSIWYM](https://zh.wikipedia.org/wiki/WYSIWYM "wikilink") – *what you
-see is what you mean*:
+**wikEd** tries to bring together the best of both worlds in something also known as [WYSIWYM](https://zh.wikipedia.org/wiki/WYSIWYM "wikilink") – *what you see is what you mean*:
 
-  - A simple (MS Word-like) user interface with advanced text editing
-    features like search and replace (also good for learning the wiki
-    code)
-  - The structure-oriented classic text field, peppered up with syntax
-    highlighting and on-page preview
+  - A simple (MS Word-like) user interface with advanced text editing features like search and replace (also good for learning the wiki code)
+  - The structure-oriented classic text field, peppered up with syntax highlighting and on-page preview
   - Text editing without any popup forms
 
 *See also:*
 
-  - [What you see is Wiki - Questioning WYSIWYG in the Internet
-    Age](http://www.i3g.hs-heilbronn.de/attach/Ver%C3%B6ffentlichungen/What+you+see+is+Wiki.pdf)
+  - [What you see is Wiki - Questioning WYSIWYG in the Internet Age](http://www.i3g.hs-heilbronn.de/attach/Ver%C3%B6ffentlichungen/What+you+see+is+Wiki.pdf)
 
 ### wikEd design philosophy
 
 The design philosophy of **wikEd** is:
 
-  - Simple, small, and intuitive user interface (no navigation through
-    complex menu structures, no popups, special buttons must be added as
-    plugins)
-  - Cross site compatibility between all
-    [MediaWiki](../Page/MediaWiki.md "wikilink") installations (not only
-    Wikipedia)
+  - Simple, small, and intuitive user interface (no navigation through complex menu structures, no popups, special buttons must be added as plugins)
+  - Cross site compatibility between all [MediaWiki](../Page/MediaWiki.md "wikilink") installations (not only Wikipedia)
   - Multi-language support
-  - Multi-browser support by using cross-browser standards-compatible
-    code
+  - Multi-browser support by using cross-browser standards-compatible code
   - Use of the browser-internal rich-text editor
 
-<small>Please post bug reports or feature requests to the [**wikEd**
-discussion
-page](https://zh.wikipedia.org/wiki/User_talk:Cacycle/wikEd "wikilink").</small>
+<small>Please post bug reports or feature requests to the [**wikEd** discussion page](https://zh.wikipedia.org/wiki/User_talk:Cacycle/wikEd "wikilink").</small>
 
 ### Notes
 

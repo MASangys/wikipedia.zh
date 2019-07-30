@@ -1,51 +1,40 @@
-《**The Unit**》（，，別名為**THE FINAL 99
-MATCH**）為[MBK娛樂及](../Page/MBK娛樂.md "wikilink")[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS電視台斥資](../Page/韓國放送公社.md "wikilink")70億韓圓（約新台幣1.9億元）製作的大型選秀節目\[1\]，其中「**UNI+**」是代表「**You
-& I Plus**」的意思。\[2\]\[3\]\[4\]官方觀眾粉絲名稱為「UNI+ MAKER」。
+《**The Unit**》（，，別名為**THE FINAL 99 MATCH**）為[MBK娛樂](../Page/MBK娛樂.md "wikilink")及[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS電視台斥資](../Page/韓國放送公社.md "wikilink")70億韓圓（約新台幣1.9億元）製作的大型選秀節目\[1\]，其中「**UNI+**」是代表「**You & I Plus**」的意思。\[2\]\[3\]\[4\]官方觀眾粉絲名稱為「UNI+ MAKER」。
 
 節目邀請現役或曾活動的偶像，重新挖掘其價值與潛力，並推出限定團體。\[5\]\[6\]製作組約收到500份左右申請書，節目於2017年10月28日正式開播，并在2018年2月11日结束。\[7\]\[8\]
 
-最終成員，UNI+B由Jun、宜縝、高鎬廷、Feel
-Dog、Marco、池韓率、大元、基重、Chan勝出，以**[UNB](../Page/UNB.md "wikilink")**出道，UNI+G由宜珍、豫彬、NC.A、胤祖、李玹珠、楊知元、優熙、ZN、李繡至勝出，以**[UNI.T](../Page/UNI.T.md "wikilink")**出道。
+最終成員，UNI+B由Jun、宜縝、高鎬廷、Feel Dog、Marco、池韓率、大元、基重、Chan勝出，以**[UNB](../Page/UNB.md "wikilink")**出道，UNI+G由宜珍、豫彬、NC.A、胤祖、李玹珠、楊知元、優熙、ZN、李繡至勝出，以**[UNI.T](../Page/UNI.T.md "wikilink")**出道。
 
-節目製作方由[KBS及](../Page/韓國放送公社.md "wikilink")[MBK娛樂合作](../Page/MBK娛樂.md "wikilink")，[MBK娛樂也會負責製作及管理出道組](../Page/MBK娛樂.md "wikilink")。\[9\]
+節目製作方由[KBS及](../Page/韓國放送公社.md "wikilink")[MBK娛樂](../Page/MBK娛樂.md "wikilink")合作，[MBK娛樂](../Page/MBK娛樂.md "wikilink")也會負責製作及管理出道組。\[9\]
 
 ## 概要
 
 ### 節目規則
 
-  - 參加資格:
-    曾經發表專輯、參與放送活動、拍攝MV影音的演藝經歷，皆可報名參加。\[10\]\[11\]同時網友們亦可透過網頁向節目製作組推薦人選\[12\]\[13\]
-  - 透過面試預計共選拔126人，男女偶像各63名，首次任務為翻唱歌曲；入選者會在10月2日於[京畿道的研修院合宿](../Page/京畿道.md "wikilink")，集中訓練並進行舞台任務準備，將男女兩邊會各自分為7隊、每隊9人，以團體形式完成任務。\[14\]
+  - 參加資格: 曾經發表專輯、參與放送活動、拍攝MV影音的演藝經歷，皆可報名參加。\[10\]\[11\]同時網友們亦可透過網頁向節目製作組推薦人選\[12\]\[13\]
+  - 透過面試預計共選拔126人，男女偶像各63名，首次任務為翻唱歌曲；入選者會在10月2日於[京畿道](../Page/京畿道.md "wikilink")的研修院合宿，集中訓練並進行舞台任務準備，將男女兩邊會各自分為7隊、每隊9人，以團體形式完成任務。\[14\]
 
 ### 主題曲
 
   - 已成功通過取得資格的126名參賽者將在10月7日至9日，爲期三天的合宿完成第一個任務“拍攝MV”。此MV的中心組由各九男九女組成，其中最突出的即為**主中心**。\[15\]
-  - 10月13日，《The Unit》官方YouTube放出《My
-    Turn》MV，同時間也在[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》中播映。並揭露了主中心為[SONAMOO的](../Page/SONAMOO.md "wikilink")[宜珍和](../Page/宜珍_\(SONAMOO\).md "wikilink")[IM的基重](../Page/IM66.md "wikilink")。\[16\]
+  - 10月13日，《The Unit》官方YouTube放出《My Turn》MV，同時間也在[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》中播映。並揭露了主中心為[SONAMOO](../Page/SONAMOO.md "wikilink")的[宜珍和](../Page/宜珍_\(SONAMOO\).md "wikilink")[IM的基重](../Page/IM66.md "wikilink")。\[16\]
 
 ### 投票規則
 
-  - 《The Unit》于11月11日晚上10時（韓國時間），通過TMON
-    APP讓國内大衆開放投票。但在開放後的15分鐘便立即癱瘓。\[17\]
-  - TMON網站將助力《The Unit》于投票事項，每一個TMON ID都可投票一次，選出九人為自己心目中的“UNI+ B”及“UNI+
-    G”，在九人中選一人爲自己的最愛將有兩票，次愛為一票。
+  - 《The Unit》于11月11日晚上10時（韓國時間），通過TMON APP讓國内大衆開放投票。但在開放後的15分鐘便立即癱瘓。\[17\]
+  - TMON網站將助力《The Unit》于投票事項，每一個TMON ID都可投票一次，選出九人為自己心目中的“UNI+ B”及“UNI+ G”，在九人中選一人爲自己的最愛將有兩票，次愛為一票。
   - 國民由第三天的投票日起，將由選擇九人改爲三人，無最愛與次愛成員之分。
 
 ### 出道合約
 
-  - KBS方設立了「THE UNIT文化專門會社」，將負責最終選拔出道組的管理。專屬合約總共期間為13個月：其中前7個月要專一地待在THE
-    UNIT的出道組活動，剩下的6個月，可以回到原本所屬社進行活動，但要是KBS方提出要求，出道組成員就必須在35天內回到THE
-    UNIT出道組進行活動。
-  - 而13個月並不是全部，如果出道組受到大眾喜愛、反應好的話，KBS可以單方面提出合約延長至25個月（延長一年），且在這延長一年期間，如果KBS方提出要求，出道組成員就必須在45天內回到THE
-    UNIT出道組進行活動。
+  - KBS方設立了「THE UNIT文化專門會社」，將負責最終選拔出道組的管理。專屬合約總共期間為13個月：其中前7個月要專一地待在THE UNIT的出道組活動，剩下的6個月，可以回到原本所屬社進行活動，但要是KBS方提出要求，出道組成員就必須在35天內回到THE UNIT出道組進行活動。
+  - 而13個月並不是全部，如果出道組受到大眾喜愛、反應好的話，KBS可以單方面提出合約延長至25個月（延長一年），且在這延長一年期間，如果KBS方提出要求，出道組成員就必須在45天內回到THE UNIT出道組進行活動。
 
 ——截于部分新聞稿。\[18\]
 
 ## 導師
 
   - 主持及導師：[Rain](../Page/Rain.md "wikilink")\[19\]
-  - 歌唱導師：[黃致列](../Page/黃致列.md "wikilink")、（[Urban
-    Zakapa](../Page/城市札卡巴.md "wikilink")）
+  - 歌唱導師：[黃致列](../Page/黃致列.md "wikilink")、（[Urban Zakapa](../Page/城市札卡巴.md "wikilink")）
   - 舞蹈導師：[泰民](../Page/泰民.md "wikilink")（[SHINee](../Page/SHINee.md "wikilink")）\[20\]、[泫雅](../Page/金泫雅.md "wikilink")
   - 饒舌導師：[San E](../Page/San_E.md "wikilink")\[21\]
   - 舞蹈指導：金花英、鄭成卓、金勇德
@@ -2152,8 +2141,7 @@ Dog、Marco、池韓率、大元、基重、Chan勝出，以**[UNB](../Page/UNB.
   - Mafia Records
   - Mad Soul Child
   - Music Factory娛樂
-  - [Banana
-    Culture](https://zh.wikipedia.org/wiki/Imagine_Asia#Banana_Culture "wikilink")
+  - [Banana Culture](https://zh.wikipedia.org/wiki/Imagine_Asia#Banana_Culture "wikilink")
   - VINE娛樂
   - BOX Media
   - [Brand New Music](../Page/Brand_New_Music.md "wikilink")
@@ -2500,10 +2488,7 @@ Dog、Marco、池韓率、大元、基重、Chan勝出，以**[UNB](../Page/UNB.
   -
   -
   -
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
-[Category:韩国音乐比赛](https://zh.wikipedia.org/wiki/Category:韩国音乐比赛 "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:韩国音乐比赛](https://zh.wikipedia.org/wiki/Category:韩国音乐比赛 "wikilink")
 
 1.
 
@@ -2599,22 +2584,17 @@ Dog、Marco、池韓率、大元、基重、Chan勝出，以**[UNB](../Page/UNB.
 
 50.
 
-51.  더 유닛 - 마이턴 \[Music Bank Special Stage /
-    2017.10.13\]|date=2017-10-17|url=[https://www.youtube.com/watch?v=LRizfAJXQDY|accessdate=2017-11-13](https://www.youtube.com/watch?v=LRizfAJXQDY%7Caccessdate=2017-11-13)}}
+51.  더 유닛 - 마이턴 \[Music Bank Special Stage / 2017.10.13\]|date=2017-10-17|url=[https://www.youtube.com/watch?v=LRizfAJXQDY|accessdate=2017-11-13](https://www.youtube.com/watch?v=LRizfAJXQDY%7Caccessdate=2017-11-13)}}
 
-52.  더 유닛 - 빛 \[Music Bank Special Stage /
-    2017.10.20\]|date=2017-10-24|url=[https://www.youtube.com/watch?v=HSAo_3TJ4iU|accessdate=2017-11-13](https://www.youtube.com/watch?v=HSAo_3TJ4iU%7Caccessdate=2017-11-13)}}
+52.  더 유닛 - 빛 \[Music Bank Special Stage / 2017.10.20\]|date=2017-10-24|url=[https://www.youtube.com/watch?v=HSAo_3TJ4iU|accessdate=2017-11-13](https://www.youtube.com/watch?v=HSAo_3TJ4iU%7Caccessdate=2017-11-13)}}
 
 53.
 
-54.  더 유닛 - 마이턴 \[Music Bank Special Stage /
-    2017.11.03\]|date=2017-11-07|url=[https://www.youtube.com/watch?v=tgvQcr8mkrk|accessdate=2017-11-13](https://www.youtube.com/watch?v=tgvQcr8mkrk%7Caccessdate=2017-11-13)}}
+54.  더 유닛 - 마이턴 \[Music Bank Special Stage / 2017.11.03\]|date=2017-11-07|url=[https://www.youtube.com/watch?v=tgvQcr8mkrk|accessdate=2017-11-13](https://www.youtube.com/watch?v=tgvQcr8mkrk%7Caccessdate=2017-11-13)}}
 
-55.  더 유닛 - 마이턴 \[Music Bank Special Stage /
-    2017.11.17\]|date=2017-11-17|url=[https://www.youtube.com/watch?v=OuEEx3ovOro|accessdate=2017-11-17](https://www.youtube.com/watch?v=OuEEx3ovOro%7Caccessdate=2017-11-17)}}
+55.  더 유닛 - 마이턴 \[Music Bank Special Stage / 2017.11.17\]|date=2017-11-17|url=[https://www.youtube.com/watch?v=OuEEx3ovOro|accessdate=2017-11-17](https://www.youtube.com/watch?v=OuEEx3ovOro%7Caccessdate=2017-11-17)}}
 
-56.  더 유닛 - 마이턴 \[Music Bank Special Stage /
-    2017.11.24\]|date=2017-11-17|url=[https://www.youtube.com/watch?v=Rb7FQGTLRxY|accessdate=2017-11-24](https://www.youtube.com/watch?v=Rb7FQGTLRxY%7Caccessdate=2017-11-24)}}
+56.  더 유닛 - 마이턴 \[Music Bank Special Stage / 2017.11.24\]|date=2017-11-17|url=[https://www.youtube.com/watch?v=Rb7FQGTLRxY|accessdate=2017-11-24](https://www.youtube.com/watch?v=Rb7FQGTLRxY%7Caccessdate=2017-11-24)}}
 
 57.
 

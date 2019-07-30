@@ -1,18 +1,14 @@
-《**Here I Am**》（）是韓國演唱團體[Super
-Junior成員](../Page/Super_Junior.md "wikilink")[藝聲的首張個人迷你專輯](../Page/藝聲.md "wikilink")，2016年4月19日發行，收錄7首歌曲。
+《**Here I Am**》（）是韓國演唱團體[Super Junior成員](../Page/Super_Junior.md "wikilink")[藝聲](../Page/藝聲.md "wikilink")的首張個人迷你專輯，2016年4月19日發行，收錄7首歌曲。
 
 ## 發行與宣傳
 
-2016年4月12日，官方公布專輯發行的消息\[1\]，並在4月21日起於《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》開始宣傳專輯\[2\]。
+2016年4月12日，官方公布專輯發行的消息\[1\]，並在4月21日起於《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》開始宣傳專輯\[2\]。
 
 ## 錄製與音樂
 
-歌曲《Here I Am》、《Confession》及《My Dear》為藝聲原創曲。《Confession》曾在Super
-Junior-K.R.Y演唱會公開，此次藝聲與EXO成員燦烈合作重新演繹\[3\]。
+歌曲《Here I Am》、《Confession》及《My Dear》為藝聲原創曲。《Confession》曾在Super Junior-K.R.Y演唱會公開，此次藝聲與EXO成員燦烈合作重新演繹\[3\]。
 
-《Here I
-Am》講述了一對情侶在離別後的思念之情，最後男生為愛再次尋找女友\[4\]。MV講述了分手的戀人懷念過往來到了曾經的家門口的故事，細膩地刻畫出了過往的幸福回憶和當下的遺憾情緒。這支MV出自國際影像製作公司37thDEGREE之手，藝聲在MV裡融入了不少自己的意見，為了細緻地表現出男女主角的感情，MV採用高速攝影技術快拍慢放，做出慢動作鏡頭等特殊效果\[5\]。
+《Here I Am》講述了一對情侶在離別後的思念之情，最後男生為愛再次尋找女友\[4\]。MV講述了分手的戀人懷念過往來到了曾經的家門口的故事，細膩地刻畫出了過往的幸福回憶和當下的遺憾情緒。這支MV出自國際影像製作公司37thDEGREE之手，藝聲在MV裡融入了不少自己的意見，為了細緻地表現出男女主角的感情，MV採用高速攝影技術快拍慢放，做出慢動作鏡頭等特殊效果\[5\]。
 
 ## 曲目
 
@@ -102,9 +98,7 @@ Am》講述了一對情侶在離別後的思念之情，最後男生為愛再次
 ## 外部链接
 
   -
-[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:Super_Junior音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior音樂專輯 "wikilink")
+[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:Super_Junior音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior音樂專輯 "wikilink")
 
 1.
 2.

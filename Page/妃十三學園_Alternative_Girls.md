@@ -1,10 +1,8 @@
-是開發的[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，2016年7月20正式在[Android與](../Page/Android.md "wikilink")[iOS平台上市](https://zh.wikipedia.org/wiki/iOS "wikilink"),在2018年7月20升級成2。2017年1月18日正式在Android和iOS平台上發佈中文版。繁體中文版由台灣[真好玩娛樂科技](https://zh.wikipedia.org/wiki/真好玩娛樂科技 "wikilink")《9Splay行動遊戲》代理2018年5月16日終止營運，簡體中文版由中國[bilibili代理](https://zh.wikipedia.org/wiki/bilibili "wikilink")。日文簡稱「」。
+是開發的[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，2016年7月20正式在[Android](../Page/Android.md "wikilink")與[iOS平台上市](https://zh.wikipedia.org/wiki/iOS "wikilink"),在2018年7月20升級成2。2017年1月18日正式在Android和iOS平台上發佈中文版。繁體中文版由台灣[真好玩娛樂科技](https://zh.wikipedia.org/wiki/真好玩娛樂科技 "wikilink")《9Splay行動遊戲》代理2018年5月16日終止營運，簡體中文版由中國[bilibili代理](https://zh.wikipedia.org/wiki/bilibili "wikilink")。日文簡稱「」。
 
 ## 概要
 
-[20160915-DSC_8605_(29631723692).jpg](https://zh.wikipedia.org/wiki/File:20160915-DSC_8605_\(29631723692\).jpg "fig:20160915-DSC_8605_(29631723692).jpg")，《妃十三學園
-Alternative Girls》攤位\]\] 《妃十三學園 Alternative
-Girls》由開發，是第一個同時搭載[AR與](https://zh.wikipedia.org/wiki/AR "wikilink")[VR模組的新型](https://zh.wikipedia.org/wiki/VR "wikilink")[RPG](https://zh.wikipedia.org/wiki/RPG "wikilink")[手游](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")。
+[20160915-DSC_8605_(29631723692).jpg](https://zh.wikipedia.org/wiki/File:20160915-DSC_8605_\(29631723692\).jpg "fig:20160915-DSC_8605_(29631723692).jpg")，《妃十三學園 Alternative Girls》攤位\]\] 《妃十三學園 Alternative Girls》由開發，是第一個同時搭載[AR與](https://zh.wikipedia.org/wiki/AR "wikilink")[VR模組的新型](https://zh.wikipedia.org/wiki/VR "wikilink")[RPG](https://zh.wikipedia.org/wiki/RPG "wikilink")[手游](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")。
 
 故事是發生在自然資源豐富的沿海城市月森町的「妃十三學園」。
 妃十三學園是一群被稱作「Alterna（）」的少女們上學的地方，而少女們背負著與「夜獸（）」戰鬥的宿命。玩家被任命為隊長，並受妃十三學園理事長委託調查被稱為「吸血鬼事件」的學生誘拐殺人事件。
@@ -164,8 +162,7 @@ Girls》由開發，是第一個同時搭載[AR與](https://zh.wikipedia.org/wik
 
       -
         生日：3月4日、身高：160cm、體重：46kg、血型：O型、三圍：87-57-84、使用武器：劍。
-        妃13學院的學生會長，同時也是Clover
-        Rabbit的隊長不只愛著歷史，更不缺少地欣賞著大河劇雖然眉清目秀，但私服上的風格是毀滅性地，是個不服輸的傲嬌少女。
+        妃13學院的學生會長，同時也是Clover Rabbit的隊長不只愛著歷史，更不缺少地欣賞著大河劇雖然眉清目秀，但私服上的風格是毀滅性地，是個不服輸的傲嬌少女。
 
 <!-- end list -->
 
@@ -333,16 +330,8 @@ Girls》由開發，是第一個同時搭載[AR與](https://zh.wikipedia.org/wik
 
 ## 外部連結
 
-  - [妃十三學園 Alternative Girls
-    中文官方網站](http://webevent.9splay.com/GameVoteEvent/AGSEvent?PVAD=fancy)
+  - [妃十三學園 Alternative Girls 中文官方網站](http://webevent.9splay.com/GameVoteEvent/AGSEvent?PVAD=fancy)
   - [妃十三學園 Alternative Girls 日文官方網站](https://lp.alterna.amebagames.com/)
   - [妃十三學園 Alternative Girls bilibili預約網站](http://girl.biligame.com)
 
-[Category:2016年電子遊戲](https://zh.wikipedia.org/wiki/Category:2016年電子遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:官方中文化遊戲](https://zh.wikipedia.org/wiki/Category:官方中文化遊戲 "wikilink")
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
-[Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
+[Category:2016年電子遊戲](https://zh.wikipedia.org/wiki/Category:2016年電子遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:官方中文化遊戲](https://zh.wikipedia.org/wiki/Category:官方中文化遊戲 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")

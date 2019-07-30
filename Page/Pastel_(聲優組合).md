@@ -1,17 +1,15 @@
-**Pastel**（）是[日本的一個](../Page/日本.md "wikilink")[聲優組合](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")。
+**Pastel**（）是[日本](../Page/日本.md "wikilink")的一個[聲優組合](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")。
 
 ## 概要
 
-「Pastel」是由節目《》的初代主持人及試鏡會合格者共7人所組成。2003年3月結成，2004年1月解散。2016年1月，睽違12年宣布再次結成展開活動。以前是[STARCHILD所屬](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")，再次結成之後移籍至King
-Amusement Creative本部（兩間都是唱片公司[King
-Records旗下子公司](../Page/國王唱片.md "wikilink")）\[1\]。
+「Pastel」是由節目《》的初代主持人及試鏡會合格者共7人所組成。2003年3月結成，2004年1月解散。2016年1月，睽違12年宣布再次結成展開活動。以前是[STARCHILD所屬](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")，再次結成之後移籍至King Amusement Creative本部（兩間都是唱片公司[King Records旗下子公司](../Page/國王唱片.md "wikilink")）\[1\]。
 
 ## 經歷
 
   - 2002年10月：廣播節目「」開播。
   - 2002年12月：舉辦公開錄音試鏡徵選，被選上並擔任廣播節目助理的有[白石涼子](../Page/白石涼子.md "wikilink")、及[增山鈴乃音](https://zh.wikipedia.org/wiki/增山鈴乃音 "wikilink")。
   - 2003年3月8日：正式出道並舉辦紀念活動「CD」。
-  - 2003年4月1日：發行首張單曲「」（[安利美特限定](../Page/安利美特.md "wikilink")5000枚）。
+  - 2003年4月1日：發行首張單曲「」（[安利美特](../Page/安利美特.md "wikilink")限定5000枚）。
   - 2003年9月13日：發行第2張單曲「」。
   - 2003年9月14日：舉辦公開錄音。
   - 2003年12月3日：發行首張專輯「PASTEL☆PARTY」。
@@ -75,7 +73,6 @@ Records旗下子公司](../Page/國王唱片.md "wikilink")）\[1\]。
 
   -
 
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink")
+[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink")
 
 1.

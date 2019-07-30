@@ -1,6 +1,4 @@
-《**Bold &
-Beautiful**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[Gin
-Lee第八張個人唱片](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink")、第三張粵語EP。
+《**Bold & Beautiful**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[Gin Lee第八張個人唱片](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink")、第三張粵語EP。
 
 專輯於2018年6月21日，即其首個紅館演唱會之前夕推出。第一主打〈很堅強〉憑藉其琅琅上口的副歌而於坊間頗為流行。
 
@@ -47,7 +45,4 @@ Lee第八張個人唱片](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink")、�
 
 ## 外部連結
 
-[Category:李幸倪音樂專輯](https://zh.wikipedia.org/wiki/Category:李幸倪音樂專輯 "wikilink")
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:李幸倪音樂專輯](https://zh.wikipedia.org/wiki/Category:李幸倪音樂專輯 "wikilink") [Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

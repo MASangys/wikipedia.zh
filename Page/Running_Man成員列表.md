@@ -1,12 +1,8 @@
-《[Running
-Man](../Page/Running_Man.md "wikilink")》節目於2010年7月11日啟播，初期主持人包括[劉在錫](../Page/劉在錫.md "wikilink")、[池錫辰](https://zh.wikipedia.org/wiki/池錫辰 "wikilink")、[金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、[Haha](../Page/Haha.md "wikilink")、[李光洙和](../Page/李光洙_\(演員\).md "wikilink")[宋仲基](../Page/宋仲基.md "wikilink")\[1\]。而[宋智孝](../Page/宋智孝.md "wikilink")、[Lizzy](https://zh.wikipedia.org/wiki/朴修映 "wikilink")、[全昭旻和](../Page/全昭旻.md "wikilink")[梁世燦分別於第](../Page/梁世燦.md "wikilink")2集、第18集和第346集加入主持群\[2\]。
+《[Running Man](../Page/Running_Man.md "wikilink")》節目於2010年7月11日啟播，初期主持人包括[劉在錫](../Page/劉在錫.md "wikilink")、[池錫辰](https://zh.wikipedia.org/wiki/池錫辰 "wikilink")、[金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、[Haha](../Page/Haha.md "wikilink")、[李光洙和](../Page/李光洙_\(演員\).md "wikilink")[宋仲基](../Page/宋仲基.md "wikilink")\[1\]。而[宋智孝](../Page/宋智孝.md "wikilink")、[Lizzy](https://zh.wikipedia.org/wiki/朴修映 "wikilink")、[全昭旻](../Page/全昭旻.md "wikilink")和[梁世燦](../Page/梁世燦.md "wikilink")分別於第2集、第18集和第346集加入主持群\[2\]。
 
 ## 主持變遷史
 
-<timeline> ImageSize = width:650 height:350 PlotArea = width:500
-height:295 left:100 bottom:35 Alignbars = justify DateFormat =
-dd/mm/yyyy Period = from:2010 till:2019 TimeAxis =
-orientation:horizontal format:mm/yyyy
+<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:295 left:100 bottom:35 Alignbars = justify DateFormat = dd/mm/yyyy Period = from:2010 till:2019 TimeAxis = orientation:horizontal format:mm/yyyy
 
 Colors =
 
@@ -168,8 +164,7 @@ Race Starter(레이스 스타터)<br />
 </p></td>
 <td></td>
 <td><p>已婚<br />
-育有二子<br />
-2019年將有第三位兒女</p></td>
+育有二子一女</p></td>
 <td><p><strong>Haroro(하로로)</strong><br />
 肉食哈哈(육식 하하)<br />
 企鵝(펭귄)<br />
@@ -384,7 +379,7 @@ Ga恩(개은)<br />
 <td><p><a href="../Page/宋仲基.md" title="wikilink">宋仲基</a><br />
 （송중기）</p></td>
 <td></td>
-<td><p>已婚</p></td>
+<td><p>已离婚</p></td>
 <td><p>第1－41集</p></td>
 <td><p>2010年7月11日－2011年5月1日</p></td>
 <td><p>花仲基(꽃중기)<br />
@@ -577,7 +572,7 @@ IU，想你了<br />
 <td><p>麻浦區兄妹<br />
 （마포구 남매）</p></td>
 <td><p><a href="../Page/Haha.md" title="wikilink">Haha</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a></p></td>
-<td><p>因二人都住在<a href="../Page/麻浦區.md" title="wikilink">麻浦區而出現的稱號</a>。</p></td>
+<td><p>因二人都住在<a href="../Page/麻浦區.md" title="wikilink">麻浦區</a>而出現的稱號。</p></td>
 </tr>
 <tr class="even">
 <td><p>全傻頭、池傻腦<br />
@@ -626,27 +621,9 @@ IU，想你了<br />
   - **個人競賽**
 
 若該集的最後遊戲為個人賽，該集的所有勝利者會視為於個人競賽勝出。若競賽有單人間諜，勝出的間諜會視為於個人競賽勝出。
-\***雙人/情侶競賽**
-若該集的競賽以雙人或情侶為單位，該集的所有勝利雙人或情侶會視為於雙人/情侶競賽勝出。若競賽有雙人間諜，勝出的兩名間諜會視為於雙人/情侶競賽勝出。
-\***團體競賽勝出**
-若該集的競賽以團體為單位，該集的所有勝利團體的成員會視為於團體競賽勝出。若競賽有多人間諜，勝出的所有間諜會視為於團體競賽勝出。全員勝出亦計為團體競賽勝出。
-{|class="wikitable sortable" width=100% style="text-align:center;"
-\!width=20%|姓名 \!width=20%|個人競賽勝出 \!width=20%|雙人/情侶競賽勝出
-\!width=20%|團體競賽勝出 \!width=20%|勝出總數 |-
-\![劉在錫](../Page/劉在錫.md "wikilink") |27 |17 |124 |**168** |-
-\![池錫辰](https://zh.wikipedia.org/wiki/池錫辰 "wikilink") |15 |6 |118
-|**139** |- \![金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink") |27
-|17 |127 |**171** |- \![哈哈](../Page/Haha.md "wikilink") |18 |18 |129
-|**165** |- \![宋智孝](../Page/宋智孝.md "wikilink") |25 |16 |128 |**169** |-
-\![李光洙](../Page/李光洙_\(演員\).md "wikilink") |17 |15 |121 |**153** |-
-\![全昭旻](../Page/全昭旻.md "wikilink") |9 |4 |20 |**33** |-
-\![梁世燦](../Page/梁世燦.md "wikilink") |5 |3 |25 |**33** |-
-\![Gary](../Page/Gary_\(韓國歌手\).md "wikilink") |11 |9 |97 |**117** |-
-\![宋仲基](../Page/宋仲基.md "wikilink") |0 |0 |19 |**19** |-
-\![Lizzy](../Page/Lizzy_\(韓國歌手\).md "wikilink") |0 |0 |5 |**5** |- | | |
-| |- \!此部分最強者 |劉在錫、金鐘國 |哈哈 |哈哈 |金鐘國 |- \!此部分最弱者 |池錫辰 |池錫辰 |池錫辰 |池錫辰 |}
-(最強者及最弱者計算成員的勝出率，而非勝出次數)
-([Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、[宋仲基和](../Page/宋仲基.md "wikilink")[Lizzy已退出](../Page/Lizzy_\(韓國歌手\).md "wikilink")，記錄已完成)
+\***雙人/情侶競賽** 若該集的競賽以雙人或情侶為單位，該集的所有勝利雙人或情侶會視為於雙人/情侶競賽勝出。若競賽有雙人間諜，勝出的兩名間諜會視為於雙人/情侶競賽勝出。
+\***團體競賽勝出** 若該集的競賽以團體為單位，該集的所有勝利團體的成員會視為於團體競賽勝出。若競賽有多人間諜，勝出的所有間諜會視為於團體競賽勝出。全員勝出亦計為團體競賽勝出。
+{|class="wikitable sortable" width=100% style="text-align:center;" \!width=20%|姓名 \!width=20%|個人競賽勝出 \!width=20%|雙人/情侶競賽勝出 \!width=20%|團體競賽勝出 \!width=20%|勝出總數 |- \![劉在錫](../Page/劉在錫.md "wikilink") |27 |17 |124 |**168** |- \![池錫辰](https://zh.wikipedia.org/wiki/池錫辰 "wikilink") |15 |6 |118 |**139** |- \![金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink") |27 |17 |127 |**171** |- \![哈哈](../Page/Haha.md "wikilink") |18 |18 |129 |**165** |- \![宋智孝](../Page/宋智孝.md "wikilink") |25 |16 |128 |**169** |- \![李光洙](../Page/李光洙_\(演員\).md "wikilink") |17 |15 |121 |**153** |- \![全昭旻](../Page/全昭旻.md "wikilink") |9 |4 |20 |**33** |- \![梁世燦](../Page/梁世燦.md "wikilink") |5 |3 |25 |**33** |- \![Gary](../Page/Gary_\(韓國歌手\).md "wikilink") |11 |9 |97 |**117** |- \![宋仲基](../Page/宋仲基.md "wikilink") |0 |0 |19 |**19** |- \![Lizzy](../Page/Lizzy_\(韓國歌手\).md "wikilink") |0 |0 |5 |**5** |- | | | | |- \!此部分最強者 |劉在錫、金鐘國 |哈哈 |哈哈 |金鐘國 |- \!此部分最弱者 |池錫辰 |池錫辰 |池錫辰 |池錫辰 |} (最強者及最弱者計算成員的勝出率，而非勝出次數) ([Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、[宋仲基](../Page/宋仲基.md "wikilink")和[Lizzy已退出](../Page/Lizzy_\(韓國歌手\).md "wikilink")，記錄已完成)
 (，即第440集)
 
 ## 註釋
@@ -660,9 +637,7 @@ IU，想你了<br />
   -
 [Category:Running_Man](https://zh.wikipedia.org/wiki/Category:Running_Man "wikilink")
 
-1.   Official *Good Sunday* page.[*Running Man*
-    members](http://wizard2.sbs.co.kr/w3/template/tpl_iframetype.jsp?vVodId=V0000330171&vProgId=1000425&vMenuId=1012932).
-    *SBS*. Retrieved 29 November 2010
+1.   Official *Good Sunday* page.[*Running Man* members](http://wizard2.sbs.co.kr/w3/template/tpl_iframetype.jsp?vVodId=V0000330171&vProgId=1000425&vMenuId=1012932). *SBS*. Retrieved 29 November 2010
 2.
 3.  譯《你住的那個家》。
 4.  原中譯名為金鐘國，2016年10月參加臺灣第51屆廣播電視金鐘獎後正名為金鍾國。
@@ -672,11 +647,9 @@ IU，想你了<br />
 8.  譯《黑貓》。以兒歌版本作為背景音樂。
 9.  2011年11月14日SBS美好的早晨：宋智孝專題報導播出她一開始就是成員之一。
 10. 譯《不管如何還是思念》。
-11. [《Running Man》不再播80年代香港歌　MC
-    Jin舊歌忽然rap住亂入](https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/273622/running-man-%E4%B8%8D%E5%86%8D%E6%92%AD80%E5%B9%B4%E4%BB%A3%E9%A6%99%E6%B8%AF%E6%AD%8C-mc-jin%E8%88%8A%E6%AD%8C%E5%BF%BD%E7%84%B6rap%E4%BD%8F%E4%BA%82%E5%85%A5)
+11. [《Running Man》不再播80年代香港歌　MC Jin舊歌忽然rap住亂入](https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/273622/running-man-%E4%B8%8D%E5%86%8D%E6%92%AD80%E5%B9%B4%E4%BB%A3%E9%A6%99%E6%B8%AF%E6%AD%8C-mc-jin%E8%88%8A%E6%AD%8C%E5%BF%BD%E7%84%B6rap%E4%BD%8F%E4%BA%82%E5%85%A5)
 12. 譯《BONG'S FAMILY》。
-13. 梁世燦本人于2016年7月31日播出的《[喜劇大聯盟](../Page/喜劇大聯盟.md "wikilink")》自我介紹：我是**梁世燦**，南原梁氏、世界的世、燦爛的燦［남원
-    양（梁），세상 세（世），빛날 찬（燦）］。
+13. 梁世燦本人于2016年7月31日播出的《[喜劇大聯盟](../Page/喜劇大聯盟.md "wikilink")》自我介紹：我是**梁世燦**，南原梁氏、世界的世、燦爛的燦［남원 양（梁），세상 세（世），빛날 찬（燦）］。
 14. 譯《Leessang Blues》。
 15. 譯《我們現在見面》
 16. 譯《我這傢伙的答案是你》。

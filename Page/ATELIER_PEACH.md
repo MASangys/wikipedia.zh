@@ -1,5 +1,4 @@
-**ATELIER
-PEACH**（）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[中野區](../Page/中野區.md "wikilink")\[1\]的音響製作公司。同時是進行聲優經營管理為主要業務的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")\[2\]。
+**ATELIER PEACH**（）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[中野區](../Page/中野區.md "wikilink")\[1\]的音響製作公司。同時是進行聲優經營管理為主要業務的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")\[2\]。
 
 ## 所屬聲優
 
@@ -200,16 +199,14 @@ PEACH**（）是一家位於[日本](../Page/日本.md "wikilink")[東京都](..
 
   - [佐藤美佳子](../Page/佐藤美佳子.md "wikilink")（現所屬：[Yellow-Tail](../Page/Yellow-Tail.md "wikilink")）
 
-  - [三五美奈子](../Page/三五美奈子.md "wikilink")（現所屬：[most music
-    entertainment](https://archive.fo/20150420075654/http://most-entame.com/)（業務提攜））
+  - [三五美奈子](../Page/三五美奈子.md "wikilink")（現所屬：[most music entertainment](https://archive.fo/20150420075654/http://most-entame.com/)（業務提攜））
 
   -
   - （自由職業）
 
   - [鈴谷真矢](https://zh.wikipedia.org/wiki/鈴谷真矢 "wikilink")（自由職業）
 
-  - [友永朱音](../Page/友永朱音.md "wikilink")（現所屬：[AXL
-    ONE](../Page/AXL_ONE.md "wikilink")）
+  - [友永朱音](../Page/友永朱音.md "wikilink")（現所屬：[AXL ONE](../Page/AXL_ONE.md "wikilink")）
 
   -
   -
@@ -235,8 +232,7 @@ PEACH**（）是一家位於[日本](../Page/日本.md "wikilink")[東京都](..
 
   - [ATELIER PEACH公式官網](http://www.hormone.co.jp/peach/)
 
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:中野區公司](https://zh.wikipedia.org/wiki/Category:中野區公司 "wikilink")
+[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:中野區公司](https://zh.wikipedia.org/wiki/Category:中野區公司 "wikilink")
 
 1.
 

@@ -6,23 +6,20 @@
 
 ## 打榜
 
-《YELLOW》在发售后当周登顶日本[Oricon公信榜摇滚专辑周榜](../Page/Oricon.md "wikilink")\[2\]在之后两周跌至第四和第十位。\[3\]\[4\]专辑在日本公告牌专辑销量周榜也取得了当周亚军的成绩。\[5\]
+《YELLOW》在发售后当周登顶日本[Oricon](../Page/Oricon.md "wikilink")公信榜摇滚专辑周榜\[2\]在之后两周跌至第四和第十位。\[3\]\[4\]专辑在日本公告牌专辑销量周榜也取得了当周亚军的成绩。\[5\]
 
 ## 使用
 
-2016年1月上映的由漫画改编的真人电影《[為什麼猫都叫不来](https://zh.wikipedia.org/wiki/為什麼猫都叫不来 "wikilink")》使用了专辑中的“Morning
-Sun”一曲作为其电影主题曲。\[6\]
+2016年1月上映的由漫画改编的真人电影《[為什麼猫都叫不来](https://zh.wikipedia.org/wiki/為什麼猫都叫不来 "wikilink")》使用了专辑中的“Morning Sun”一曲作为其电影主题曲。\[6\]
 
 ## 参考资料
 
 ## 外部链接
 
   -
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:SCANDAL音樂專輯](https://zh.wikipedia.org/wiki/Category:SCANDAL音樂專輯 "wikilink")
+[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:SCANDAL音樂專輯](https://zh.wikipedia.org/wiki/Category:SCANDAL音樂專輯 "wikilink")
 
-1.  [2016年3月2日（水）ニューアルバム『YELLOW』のリリースが決定！](http://www.scandal-4.com/info/archive/?462844).SCANDAL
-    Official Website.2015-12-23.\[2016-04-02\].
+1.  [2016年3月2日（水）ニューアルバム『YELLOW』のリリースが決定！](http://www.scandal-4.com/info/archive/?462844).SCANDAL Official Website.2015-12-23.\[2016-04-02\].
 2.  [週間　ROCKアルバムランキング(2016年03月14日付)](http://www.oricon.co.jp/rank/ra/w/2016-03-14/).Oricon.\[2016-04-02\].
 3.  [週間　ROCKアルバムランキング(2016年03月21日付)](http://www.oricon.co.jp/rank/ra/w/2016-03-21/).Oricon.\[2016-04-02\].
 4.  [週間　ROCKアルバムランキング(2016年03月28日付)](http://www.oricon.co.jp/rank/ra/w/2016-03-28/).Oricon.\[2016-04-02\].

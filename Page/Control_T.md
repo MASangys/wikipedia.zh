@@ -1,5 +1,4 @@
-Control T
-(2015年5月14號成立)，[臺灣樂團](../Page/臺灣.md "wikilink")，成員共有四人，由團長男主唱兼吉他正嘉、女主唱妮蓁、吉他手阿蘇和鼓手富元所組成；樂團四人皆畢業於[桃園高中](https://zh.wikipedia.org/wiki/國立桃園高級中學 "wikilink")，因創作該校畢業歌曲「足跡」而踏上音樂路。
+Control T (2015年5月14號成立)，[臺灣](../Page/臺灣.md "wikilink")樂團，成員共有四人，由團長男主唱兼吉他正嘉、女主唱妮蓁、吉他手阿蘇和鼓手富元所組成；樂團四人皆畢業於[桃園高中](https://zh.wikipedia.org/wiki/國立桃園高級中學 "wikilink")，因創作該校畢業歌曲「足跡」而踏上音樂路。
 
 ## 成員
 
@@ -179,8 +178,7 @@ Control T
 
 **2016**
 
-**與網路頻道SuperCover合作錄製Cover歌曲「[林俊傑](../Page/林俊杰.md "wikilink")-
-不為誰而作的歌**\[1\]**」影片上線**
+**與網路頻道SuperCover合作錄製Cover歌曲「[林俊傑](../Page/林俊杰.md "wikilink")- 不為誰而作的歌**\[1\]**」影片上線**
 
 **受邀與[交通部觀光局東北角](https://zh.wikipedia.org/wiki/交通部觀光局 "wikilink")「台灣好行-黃金福隆線」合作，創作新站點主題曲：「海浪」（南雅南新宮站）與「水花」（黃金瀑布站）**
 
@@ -272,16 +270,13 @@ Control T
 
 ## 外部連結
 
-**[Control T
-官方粉絲團](https://www.facebook.com/Control.our.music/?fref=ts)**
+**[Control T 官方粉絲團](https://www.facebook.com/Control.our.music/?fref=ts)**
 
 **[Control T 官方Streetvoice](https://tw.streetvoice.com/ControlT/)**
 
-**[Control T
-官方Youtube](https://www.youtube.com/channel/UCTgMnZslo1xctL6R71GbxqA)**　
+**[Control T 官方Youtube](https://www.youtube.com/channel/UCTgMnZslo1xctL6R71GbxqA)**　
 
-**[Control T
-官方微博](http://weibo.com/5896413235/profile?topnav=1&wvr=6&is_all=1)**　　
+**[Control T 官方微博](http://weibo.com/5896413235/profile?topnav=1&wvr=6&is_all=1)**　　
 
 **Control T 官方Instagram搜尋 controlt0514**
 

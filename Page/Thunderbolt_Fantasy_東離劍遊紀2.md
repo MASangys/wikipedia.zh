@@ -1,19 +1,12 @@
-《**Thunderbolt Fantasy
-東離劍遊紀2**》是一部由[臺灣和](../Page/臺灣.md "wikilink")[日本雙方合作的](../Page/日本.md "wikilink")[奇幻](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[武俠](https://zh.wikipedia.org/wiki/武俠 "wikilink")[布袋戲偶電視劇集作品](../Page/布袋戲.md "wikilink")。劇本由日本編劇[虛淵玄撰寫](../Page/虛淵玄.md "wikilink")，布袋戲劇由臺灣[霹靂布袋戲製作](../Page/霹靂布袋戲.md "wikilink")，劇名由霹靂的黃強華董事長命名。\[1\]本作為第一季《[Thunderbolt
-Fantasy
-東離劍遊紀](../Page/Thunderbolt_Fantasy_東離劍遊紀.md "wikilink")》延續故事。第二季劇情以及少數主要人物在外傳電影《[Thunderbolt
-Fantasy 生死一劍](../Page/Thunderbolt_Fantasy_生死一劍.md "wikilink")》首度被涉及。
+《**Thunderbolt Fantasy 東離劍遊紀2**》是一部由[臺灣](../Page/臺灣.md "wikilink")和[日本](../Page/日本.md "wikilink")雙方合作的[奇幻](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[武俠](https://zh.wikipedia.org/wiki/武俠 "wikilink")[布袋戲](../Page/布袋戲.md "wikilink")偶電視劇集作品。劇本由日本編劇[虛淵玄](../Page/虛淵玄.md "wikilink")撰寫，布袋戲劇由臺灣[霹靂布袋戲](../Page/霹靂布袋戲.md "wikilink")製作，劇名由霹靂的黃強華董事長命名。\[1\]本作為第一季《[Thunderbolt Fantasy 東離劍遊紀](../Page/Thunderbolt_Fantasy_東離劍遊紀.md "wikilink")》延續故事。第二季劇情以及少數主要人物在外傳電影《[Thunderbolt Fantasy 生死一劍](../Page/Thunderbolt_Fantasy_生死一劍.md "wikilink")》首度被涉及。
 
-2016年9月第一季播畢時宣布決定製作第二季，並在2017年12月上映外傳電影《[Thunderbolt Fantasy
-生死一劍](../Page/Thunderbolt_Fantasy_生死一劍.md "wikilink")》。
+2016年9月第一季播畢時宣布決定製作第二季，並在2017年12月上映外傳電影《[Thunderbolt Fantasy 生死一劍](../Page/Thunderbolt_Fantasy_生死一劍.md "wikilink")》。
 
 2018年3月24日宣布10月開始播送，並公開首款預告。此外，自本季開始，[優酷網與](https://zh.wikipedia.org/wiki/優酷網 "wikilink")[北斗企鵝工作室合作](https://zh.wikipedia.org/wiki/北斗企鵝工作室 "wikilink")，於中國大陸推出中文[普通話配音版](https://zh.wikipedia.org/wiki/普通話 "wikilink")。
 
 ## 製作
 
-2016年播出第一季後造成台、日、中甚至美國熱烈迴響，於2016年9月播畢時宣布決定製作第二季，並宣布製作東離劍遊紀外傳電影《[Thunderbolt
-Fantasy
-生死一劍](../Page/Thunderbolt_Fantasy_生死一劍.md "wikilink")》，外傳電影在2017年12月上映。
+2016年播出第一季後造成台、日、中甚至美國熱烈迴響，於2016年9月播畢時宣布決定製作第二季，並宣布製作東離劍遊紀外傳電影《[Thunderbolt Fantasy 生死一劍](../Page/Thunderbolt_Fantasy_生死一劍.md "wikilink")》，外傳電影在2017年12月上映。
 
 第二季已於2017年12月中旬開鏡且於2018年10月正式上映。
 
@@ -29,8 +22,7 @@ Fantasy
   - CG製作：[大畫電影文化](https://zh.wikipedia.org/wiki/大畫電影文化 "wikilink")
   - 音樂：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink")
   - 執行製片人：[黃亮勛](../Page/黃亮勛.md "wikilink")
-  - 出品：[霹靂國際多媒體](../Page/霹靂國際多媒體.md "wikilink")、Nitro+、Good Smile
-    Company
+  - 出品：[霹靂國際多媒體](../Page/霹靂國際多媒體.md "wikilink")、Nitro+、Good Smile Company
 
 ## 故事大綱
 
@@ -160,8 +152,7 @@ Fantasy
 <!-- end list -->
 
   -
-    [聲](../Page/配音員.md "wikilink")：[福西
-    勝也](https://zh.wikipedia.org/wiki/福西_勝也 "wikilink")（日語）
+    [聲](../Page/配音員.md "wikilink")：[福西 勝也](https://zh.wikipedia.org/wiki/福西_勝也 "wikilink")（日語）
 
 ## 主題曲
 
@@ -187,9 +178,6 @@ Fantasy
   -
   -
   -
-[Category:霹靂布袋戲](https://zh.wikipedia.org/wiki/Category:霹靂布袋戲 "wikilink")
-[Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink")
-[Category:北斗企鵝工作室](https://zh.wikipedia.org/wiki/Category:北斗企鵝工作室 "wikilink")
-[Category:2018年日本電視節目](https://zh.wikipedia.org/wiki/Category:2018年日本電視節目 "wikilink")
+[Category:霹靂布袋戲](https://zh.wikipedia.org/wiki/Category:霹靂布袋戲 "wikilink") [Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink") [Category:北斗企鵝工作室](https://zh.wikipedia.org/wiki/Category:北斗企鵝工作室 "wikilink") [Category:2018年日本電視節目](https://zh.wikipedia.org/wiki/Category:2018年日本電視節目 "wikilink")
 
 1.

@@ -1,5 +1,4 @@
-**YAHOO\!人氣大獎2016
-頒獎典禮**（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），於2016年12月20日晚上8時假[尖沙咀](../Page/尖沙咀.md "wikilink")[文化中心](https://zh.wikipedia.org/wiki/文化中心 "wikilink")[露天廣場舉行](https://zh.wikipedia.org/wiki/露天廣場 "wikilink")，司儀由[森美擔任](https://zh.wikipedia.org/wiki/森美 "wikilink")，頒獎典禮門票收益扣除成本撥捐[願望成真基金](../Page/願望成真基金.md "wikilink")。
+**YAHOO\!人氣大獎2016 頒獎典禮**（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），於2016年12月20日晚上8時假[尖沙咀](../Page/尖沙咀.md "wikilink")[文化中心](https://zh.wikipedia.org/wiki/文化中心 "wikilink")[露天廣場舉行](https://zh.wikipedia.org/wiki/露天廣場 "wikilink")，司儀由[森美擔任](https://zh.wikipedia.org/wiki/森美 "wikilink")，頒獎典禮門票收益扣除成本撥捐[願望成真基金](../Page/願望成真基金.md "wikilink")。
 
 ## 得獎名單
 
@@ -35,8 +34,7 @@
   - 本地音樂組合
       - [Dear Jane](../Page/Dear_Jane.md "wikilink")
       - [RubberBand](../Page/RubberBand.md "wikilink")
-      - [Supper
-        Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")
+      - [Supper Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")
   - 樂壇新勢力
       - [JC](https://zh.wikipedia.org/wiki/JC "wikilink")
       - [陳明熹](https://zh.wikipedia.org/wiki/陳明熹 "wikilink")
@@ -48,8 +46,7 @@
   - 人氣電視劇集主題曲
       - 《記住忘記我》 － [許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink")
   - 人氣電視劇集合唱歌
-      - 《從未知道你最好》 －
-        [陳展鵬](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")、[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")
+      - 《從未知道你最好》 － [陳展鵬](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")、[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")
 
 ### 電視電影獎項
 
@@ -98,5 +95,4 @@
 
   - [搜尋人氣大獎2016](https://yahoo.digitalmktg.com.hk/buzz2016/winner_list.php)
 
-[Category:Yahoo\!搜尋人氣大獎](https://zh.wikipedia.org/wiki/Category:Yahoo!搜尋人氣大獎 "wikilink")
-[Category:雅虎](https://zh.wikipedia.org/wiki/Category:雅虎 "wikilink")
+[Category:Yahoo\!搜尋人氣大獎](https://zh.wikipedia.org/wiki/Category:Yahoo!搜尋人氣大獎 "wikilink") [Category:雅虎](https://zh.wikipedia.org/wiki/Category:雅虎 "wikilink")

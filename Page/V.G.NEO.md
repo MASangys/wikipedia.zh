@@ -1,5 +1,4 @@
-《**V.G.NEO**》是[戲畫在](../Page/戲畫_\(遊戲品牌\).md "wikilink")2003年12月19日發售的[冒險類型](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，V.G.（Variable
-Geo）系列的最後作品。後來改編成OVA由Milky於2004年至2005年發售。
+《**V.G.NEO**》是[戲畫在](../Page/戲畫_\(遊戲品牌\).md "wikilink")2003年12月19日發售的[冒險類型](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，V.G.（Variable Geo）系列的最後作品。後來改編成OVA由Milky於2004年至2005年發售。
 
 ## 故事
 
@@ -31,13 +30,11 @@ Geo）系列的最後作品。後來改編成OVA由Milky於2004年至2005年發�
 
 ## 主題曲
 
-遊戲的片頭曲「We survive」是由C.G mix擔任作曲、
-編曲，[KOTOKO擔任作詞和主唱](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")。\[2\]
+遊戲的片頭曲「We survive」是由C.G mix擔任作曲、 編曲，[KOTOKO擔任作詞和主唱](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")。\[2\]
 
 ## OVA
 
-OVA是由Milky所發售的成人動畫，於2004年到2005年期間共發售3集，2007年5月25日發售合集版《V.G.NEO THE
-BEST》。\[3\]動畫的片頭曲和片尾曲與原作相同。
+OVA是由Milky所發售的成人動畫，於2004年到2005年期間共發售3集，2007年5月25日發售合集版《V.G.NEO THE BEST》。\[3\]動畫的片頭曲和片尾曲與原作相同。
 
   - 發售日
 
@@ -74,11 +71,7 @@ BEST》。\[3\]動畫的片頭曲和片尾曲與原作相同。
 
   - [官方網站](https://web.archive.org/web/20080701061429/http://www.web-giga.com/vgneo/vgneo.htm)
 
-[Category:2003年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2003年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:2004年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2004年日本成人動畫 "wikilink")
+[Category:2003年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2003年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:2004年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2004年日本成人動畫 "wikilink")
 
 1.
 2.

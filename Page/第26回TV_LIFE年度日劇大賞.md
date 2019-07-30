@@ -1,12 +1,10 @@
-[第25回](../Page/第25回TV_LIFE年度日劇大賞.md "wikilink") ← **第26回** →
-[第27回](../Page/第27回TV_LIFE年度日劇大賞.md "wikilink")
+[第25回](../Page/第25回TV_LIFE年度日劇大賞.md "wikilink") ← **第26回** → [第27回](../Page/第27回TV_LIFE年度日劇大賞.md "wikilink")
 
-**第26回[TV
-LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2016年播出的連續劇做出的觀眾投票。
+**第26回[TV LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2016年播出的連續劇做出的觀眾投票。
 
-本屆獲獎最多的劇集是[日本電視台的](../Page/日本電視台.md "wikilink")《[世界上最艱難的戀愛](../Page/世界上最艱難的戀愛.md "wikilink")》，共獲五獎。
+本屆獲獎最多的劇集是[日本電視台](../Page/日本電視台.md "wikilink")的《[世界上最艱難的戀愛](../Page/世界上最艱難的戀愛.md "wikilink")》，共獲五獎。
 
-個人方面，[嵐的隊長](../Page/嵐.md "wikilink")[大野智第五度獲頒最佳男主角獎](../Page/大野智.md "wikilink")，是該獎項成立而來獲獎最多的男演員。
+個人方面，[嵐](../Page/嵐.md "wikilink")的隊長[大野智](../Page/大野智.md "wikilink")第五度獲頒最佳男主角獎，是該獎項成立而來獲獎最多的男演員。
 
 ## 獎項
 
@@ -309,5 +307,4 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 
 ## 參考來源
 
-[Category:2016年日本](https://zh.wikipedia.org/wiki/Category:2016年日本 "wikilink")
-[Category:2016年电视奖项](https://zh.wikipedia.org/wiki/Category:2016年电视奖项 "wikilink")
+[Category:2016年日本](https://zh.wikipedia.org/wiki/Category:2016年日本 "wikilink") [Category:2016年电视奖项](https://zh.wikipedia.org/wiki/Category:2016年电视奖项 "wikilink")

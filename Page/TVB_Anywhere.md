@@ -1,7 +1,4 @@
-**TVB
-Anywhere**是[電視廣播有限公司一個收費](../Page/電視廣播有限公司.md "wikilink")[OTT服務平台](https://zh.wikipedia.org/wiki/OTT服務 "wikilink")，2014年4月或2015年2月1日正式於歐洲或澳洲推出，2016年9月15日全球啟動，相当于[myTV
-SUPER的海外版](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")，讓觀眾在電視、[網絡電視盒子及](https://zh.wikipedia.org/wiki/網絡電視盒子 "wikilink")[智能電話收看超過](https://zh.wikipedia.org/wiki/智能電話 "wikilink")50條頻道，以及重溫[無綫電視節目](../Page/無綫電視節目.md "wikilink")。同公司同類服務有encore
-TVB。\[1\]\[2\]\[3\]
+**TVB Anywhere**是[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")一個收費[OTT服務平台](https://zh.wikipedia.org/wiki/OTT服務 "wikilink")，2014年4月或2015年2月1日正式於歐洲或澳洲推出，2016年9月15日全球啟動，相当于[myTV SUPER的海外版](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")，讓觀眾在電視、[網絡電視盒子及](https://zh.wikipedia.org/wiki/網絡電視盒子 "wikilink")[智能電話收看超過](https://zh.wikipedia.org/wiki/智能電話 "wikilink")50條頻道，以及重溫[無綫電視節目](../Page/無綫電視節目.md "wikilink")。同公司同類服務有encore TVB。\[1\]\[2\]\[3\]
 
 本服務現不適用於[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[台灣和](https://zh.wikipedia.org/wiki/台灣 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
@@ -306,24 +303,19 @@ TVB。\[1\]\[2\]\[3\]
 
   - [TVB](../Page/電視廣播有限公司.md "wikilink")
   - [myTV SUPER](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")
-  - [電視廣播（國際）有限公司](../Page/電視廣播（國際）.md "wikilink")
+  - [電視廣播（國際）](../Page/電視廣播（國際）.md "wikilink")有限公司
   - [大台網](../Page/大台網.md "wikilink")
 
 ## 外部連結
 
   - [TVB Anywhere網站](https://www.tvbanywhere.com/)
   - [TVB Anywhere官方Facebook](https://www.facebook.com/tvbanywhere/)
-  - [TVB
-    Anywhere官方Instagram](https://www.instagram.com/tvbanywhere_official/)
-  - [越南版本的TVB
-    Anywhere官方Facebook](https://www.facebook.com/tvbanywherevietnam/)
+  - [TVB Anywhere官方Instagram](https://www.instagram.com/tvbanywhere_official/)
+  - [越南版本的TVB Anywhere官方Facebook](https://www.facebook.com/tvbanywherevietnam/)
 
-[Category:電視廣播（國際）有限公司](https://zh.wikipedia.org/wiki/Category:電視廣播（國際）有限公司 "wikilink")
-[Category:無綫電視](https://zh.wikipedia.org/wiki/Category:無綫電視 "wikilink")
+[Category:電視廣播（國際）有限公司](https://zh.wikipedia.org/wiki/Category:電視廣播（國際）有限公司 "wikilink") [Category:無綫電視](https://zh.wikipedia.org/wiki/Category:無綫電視 "wikilink")
 
 1.  [2017年TVB中期報告（英語）](http://corporate.tvb.com/_upload_/article/en/1791df98865e688507358541bfd13504.pdf)
 2.  [2017年TVB中期報告（簡體中文）](http://corporate.tvb.com/_upload_/article/sc/90268189007f13a6ed811bad0f1ebb72.pdf)
 3.  [2017年TVB中期報告（繁體中文）](http://corporate.tvb.com/_upload_/article/tc/b471bf1a26d9b70e337c224523f09b57.pdf)
-4.  [Truyền hình Việt ngữ TVB
-    Anywhere](https://www.youtube.com/watch?v=Jj3o1W0Fn_I) TVBAustralia-
-    VietTV, Youtube, 2017年5月7日, 於2018年8月31日查閱
+4.  [Truyền hình Việt ngữ TVB Anywhere](https://www.youtube.com/watch?v=Jj3o1W0Fn_I) TVBAustralia- VietTV, Youtube, 2017年5月7日, 於2018年8月31日查閱

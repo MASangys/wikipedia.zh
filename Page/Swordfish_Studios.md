@@ -1,5 +1,4 @@
-**Swordfish
-Studios**，是总部设在英国伯明翰的软件开发公司，由特雷弗·威廉姆斯和琼·芬尼根在2002年9月成立\[1\]。2004年，旗鱼工作室被独立游戏开发者协会评为“年度开发者”。
+**Swordfish Studios**，是总部设在英国伯明翰的软件开发公司，由特雷弗·威廉姆斯和琼·芬尼根在2002年9月成立\[1\]。2004年，旗鱼工作室被独立游戏开发者协会评为“年度开发者”。
 
 2005年6月，该工作室被维旺迪游戏收购。\[2\]该工作室于2010年关闭。
 
@@ -56,12 +55,7 @@ Studios**，是总部设在英国伯明翰的软件开发公司，由特雷弗·
 
 ## 参考资料
 
-[Category:2002年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2002年開業電子遊戲公司 "wikilink")
-[Category:2010年結業公司](https://zh.wikipedia.org/wiki/Category:2010年結業公司 "wikilink")
-[Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink")
-[Category:英國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:英國已結業電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
+[Category:2002年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2002年開業電子遊戲公司 "wikilink") [Category:2010年結業公司](https://zh.wikipedia.org/wiki/Category:2010年結業公司 "wikilink") [Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink") [Category:英國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:英國已結業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
 1.  <http://www.mobygames.com/company/swordfish-studios-limited>
-2.  [Codemasters Acquires Swordfish
-    Studios](http://www.gamesindustry.biz/articles/codemasters-acquires-swordfish-studios)
+2.  [Codemasters Acquires Swordfish Studios](http://www.gamesindustry.biz/articles/codemasters-acquires-swordfish-studios)

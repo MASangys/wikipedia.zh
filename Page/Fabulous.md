@@ -1,5 +1,4 @@
-《**Fabulous**》是[鄭秀文的第](../Page/鄭秀文.md "wikilink")37張個人專輯，配合《[Touch Mi 2
-鄭秀文世界巡迴演唱會](https://zh.wikipedia.org/wiki/Touch_Mi_2_鄭秀文世界巡迴演唱會 "wikilink")》，於2016年9月15日（演唱會前一天）發行\[1\]\[2\]。
+《**Fabulous**》是[鄭秀文](../Page/鄭秀文.md "wikilink")的第37張個人專輯，配合《[Touch Mi 2 鄭秀文世界巡迴演唱會](https://zh.wikipedia.org/wiki/Touch_Mi_2_鄭秀文世界巡迴演唱會 "wikilink")》，於2016年9月15日（演唱會前一天）發行\[1\]\[2\]。
 
 ## 曲目
 
@@ -17,12 +16,9 @@
 
 ## 外部連結
 
-  - [Fabulous by Sammi Cheng on Apple
-    Music](https://itunes.apple.com/hk/album/fabulous/id1152012817)
+  - [Fabulous by Sammi Cheng on Apple Music](https://itunes.apple.com/hk/album/fabulous/id1152012817)
 
-[Category:鄭秀文音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭秀文音樂專輯 "wikilink")
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:鄭秀文音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭秀文音樂專輯 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
 1.
 2.

@@ -1,12 +1,8 @@
-**《Shangri-La
-Shower》**是[μ's的单曲](https://zh.wikipedia.org/wiki/μ's "wikilink")，于2014年10月1日由[Lantis发行](../Page/Lantis.md "wikilink")。
+**《Shangri-La Shower》**是[μ's的单曲](https://zh.wikipedia.org/wiki/μ's "wikilink")，于2014年10月1日由[Lantis](../Page/Lantis.md "wikilink")发行。
 
 ## 概要
 
-[Playstation
-Vita游戏](https://zh.wikipedia.org/wiki/Playstation_Vita "wikilink")《[LoveLive\!
-学园偶像天国](../Page/LoveLive!_学园偶像天国.md "wikilink")》的主题曲，原本作为该游戏的专属歌曲，但之后《[LoveLive\!
-学园偶像祭](https://zh.wikipedia.org/wiki/LoveLive!_学园偶像祭 "wikilink")》也收录了该首单曲。初回生产限定盘附赠了游戏中人物泳装装扮的兑换码。单曲发行首周在[Oricon公信榜排名第](../Page/Oricon公信榜.md "wikilink")5\[1\]\[2\]。
+[Playstation Vita游戏](https://zh.wikipedia.org/wiki/Playstation_Vita "wikilink")《[LoveLive\! 学园偶像天国](../Page/LoveLive!_学园偶像天国.md "wikilink")》的主题曲，原本作为该游戏的专属歌曲，但之后《[LoveLive\! 学园偶像祭](https://zh.wikipedia.org/wiki/LoveLive!_学园偶像祭 "wikilink")》也收录了该首单曲。初回生产限定盘附赠了游戏中人物泳装装扮的兑换码。单曲发行首周在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")排名第5\[1\]\[2\]。
 
 ## 收录曲目
 
@@ -57,10 +53,7 @@ Vita游戏](https://zh.wikipedia.org/wiki/Playstation_Vita "wikilink")《[LoveLi
 
   - [Lantis的介绍页面](http://lantis.jp/release-item/LACM-14260.html)
 
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
-[Category:LoveLive\!音樂](https://zh.wikipedia.org/wiki/Category:LoveLive!音樂 "wikilink")
-[Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink")
-[Category:電子遊戲音樂作品](https://zh.wikipedia.org/wiki/Category:電子遊戲音樂作品 "wikilink")
+[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:LoveLive\!音樂](https://zh.wikipedia.org/wiki/Category:LoveLive!音樂 "wikilink") [Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink") [Category:電子遊戲音樂作品](https://zh.wikipedia.org/wiki/Category:電子遊戲音樂作品 "wikilink")
 
 1.
 2.

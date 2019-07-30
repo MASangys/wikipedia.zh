@@ -124,11 +124,7 @@
 ## 外部连结
 
   -
-[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink")
-[Category:2018年中国网络剧](https://zh.wikipedia.org/wiki/Category:2018年中国网络剧 "wikilink")
-[Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink")
-[Category:中國小說改編電視劇](https://zh.wikipedia.org/wiki/Category:中國小說改編電視劇 "wikilink")
+[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink") [Category:2018年中国网络剧](https://zh.wikipedia.org/wiki/Category:2018年中国网络剧 "wikilink") [Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink") [Category:中國小說改編電視劇](https://zh.wikipedia.org/wiki/Category:中國小說改編電視劇 "wikilink")
 
-1.  [《S.C.I.谜案集》改编
-    高瀚宇带你冲破迷雾](http://ent.163.com/18/0626/13/DL7S8QJD00034MUP.html)
+1.  [《S.C.I.谜案集》改编 高瀚宇带你冲破迷雾](http://ent.163.com/18/0626/13/DL7S8QJD00034MUP.html)
 2.  [《S.C.I.谜案集》开播，肝胆兄弟联手破迷局](http://ent.163.com/18/0626/13/DL7V10BP00034MUP.html)

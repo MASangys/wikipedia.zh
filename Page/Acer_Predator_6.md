@@ -1,6 +1,4 @@
-**Predator
-6**，是[宏碁於](../Page/宏碁.md "wikilink")2015年9月2日即将推出旗艦智能，搭載Android5.1，配有6.0英寸1280x720[解析度的](https://zh.wikipedia.org/wiki/解析度 "wikilink")[螢幕](https://zh.wikipedia.org/wiki/螢幕 "wikilink")、Helio
-X20十核處理器、4GB的[隨機存取記憶體](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")，後置攝像頭具有1300畫素OIS光學防抖動功能，前置則有800畫素廣角自拍和備有美顏模式。電池方面使用?mAh。這款手機苍穹黑，皓月银，流光金，栖霞粉，暮光紫，同期最大競爭對手是小米Note。\[1\]
+**Predator 6**，是[宏碁](../Page/宏碁.md "wikilink")於2015年9月2日即将推出旗艦智能，搭載Android5.1，配有6.0英寸1280x720[解析度的](https://zh.wikipedia.org/wiki/解析度 "wikilink")[螢幕](https://zh.wikipedia.org/wiki/螢幕 "wikilink")、Helio X20十核處理器、4GB的[隨機存取記憶體](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")，後置攝像頭具有1300畫素OIS光學防抖動功能，前置則有800畫素廣角自拍和備有美顏模式。電池方面使用?mAh。這款手機苍穹黑，皓月银，流光金，栖霞粉，暮光紫，同期最大競爭對手是小米Note。\[1\]
 
 ## 詳細規格
 
@@ -124,8 +122,7 @@ FDD：B1、B3、B7</p></td>
 ## 售价
 
   - 中國：2888(Kirin930)/3588(Kirin935)人民币
-  - [澳門](../Page/澳門.md "wikilink")：3100/3500澳門幣([中國電信
-    (澳門)限定](https://zh.wikipedia.org/wiki/中國電信_\(澳門\) "wikilink"))\[3\]
+  - [澳門](../Page/澳門.md "wikilink")：3100/3500澳門幣([中國電信 (澳門)限定](https://zh.wikipedia.org/wiki/中國電信_\(澳門\) "wikilink"))\[3\]
 
 ## 参考資料
 
@@ -136,14 +133,10 @@ FDD：B1、B3、B7</p></td>
 ## 参见
 
   - [Android](../Page/Android.md "wikilink")
-  - [Huawei Ascend P8
-    Max](https://zh.wikipedia.org/wiki/Huawei_Ascend_P8_Max "wikilink")
-  - [Huawei Ascend P8
-    Lite](https://zh.wikipedia.org/wiki/Huawei_Ascend_P8_Lite "wikilink")
+  - [Huawei Ascend P8 Max](https://zh.wikipedia.org/wiki/Huawei_Ascend_P8_Max "wikilink")
+  - [Huawei Ascend P8 Lite](https://zh.wikipedia.org/wiki/Huawei_Ascend_P8_Lite "wikilink")
 
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
+[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
 
 1.
 2.

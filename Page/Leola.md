@@ -1,4 +1,4 @@
-**Leola**（；）是一位[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")。於[LDH經紀公司](../Page/LDH_\(藝能事務所\).md "wikilink")、[日本索尼音樂娛樂唱片公司旗下](../Page/日本索尼音樂娛樂.md "wikilink")。在[夏威夷語中](https://zh.wikipedia.org/wiki/夏威夷語 "wikilink")，「leo」與「la」分別代表聲音與太陽\[1\]。
+**Leola**（；）是一位[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")。於[LDH經紀公司](../Page/LDH_\(藝能事務所\).md "wikilink")、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")唱片公司旗下。在[夏威夷語中](https://zh.wikipedia.org/wiki/夏威夷語 "wikilink")，「leo」與「la」分別代表聲音與太陽\[1\]。
 
 ## 音樂作品
 
@@ -29,8 +29,7 @@
   -
   -
   -
-[Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink")
-[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
+[Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.
 2.

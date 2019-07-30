@@ -2,14 +2,11 @@ local p = {}
 
 \-- Change to "" upon deployment. local moduleSuffix = "/sandbox"
 
-local parserModuleName = "Module:Road data/parser" .. moduleSuffix local
-statenameModuleName = "Module:Jct/statename/sandbox" -- TODO transition
+local parserModuleName = "Module:Road data/parser" .. moduleSuffix local statenameModuleName = "Module:Jct/statename/sandbox" -- TODO transition
 
-local concat = table.concat local insert = table.insert local format =
-mw.ustring.format
+local concat = table.concat local insert = table.insert local format = mw.ustring.format
 
-local parserModule = require(parserModuleName) local parser =
-parserModule.parser local util = require("Module:Road data/util")
+local parserModule = require(parserModuleName) local parser = parserModule.parser local util = require("Module:Road data/util")
 
 \-- Shields local defaultShieldSize = 20
 
@@ -126,10 +123,7 @@ local missingShields
 
 local shieldExistsCache = {}
 
-\-- Return up to two booleans. -- The first boolean is false if
-\`shield\` does not exist, and true otherwise. -- If the first boolean
-is true, the second boolean is true if the shield is -- landscape (width
-\>= height), and false otherwise. local function shieldExists(shield)
+\-- Return up to two booleans. -- The first boolean is false if \`shield\` does not exist, and true otherwise. -- If the first boolean is true, the second boolean is true if the shield is -- landscape (width \>= height), and false otherwise. local function shieldExists(shield)
 
 `   local result = shieldExistsCache[shield]`
 `   if result == nil then`
@@ -382,8 +376,7 @@ function p.locations(args, module, group)
 `           local link = sub2`
 `           local name = sub2`
 `           -- Type of area, e.g., city and village, as a form of disambiguation`
-`           local sub2area = args.sub2area --`[`TODO``
- ``transition`](https://zh.wikipedia.org/wiki/TODO_transition "wikilink")` or args.area`
+`           local sub2area = args.sub2area --`[`TODO``   ``transition`](https://zh.wikipedia.org/wiki/TODO_transition "wikilink")` or args.area`
 `           if sub2area then`
 `               local sub2areaSpec = locations.sub2areas and locations.sub2areas[sub2area]`
 `               if not sub2areaSpec then`

@@ -1,8 +1,6 @@
-{{ external media | align = | width = | video1
-=[PS4、PSV『超級機器人大戰V』繁體中文版宣傳影片 -
-YouTube](https://www.youtube.com/watch?v=vt7z0F47j0Q) }}
+{{ external media | align = | width = | video1 =[PS4、PSV『超級機器人大戰V』繁體中文版宣傳影片 - YouTube](https://www.youtube.com/watch?v=vt7z0F47j0Q) }}
 
-為[南夢宮萬代遊戲以](https://zh.wikipedia.org/wiki/南夢宮萬代遊戲 "wikilink")[萬普名義發售的](../Page/萬普.md "wikilink")[超級機器人大戰系列遊戲](../Page/超級機器人大戰系列.md "wikilink")。簡稱「機戰V」「SRWV」。標題的「V」是指「Voyage」（「航行、旅程」之意）。本作首次為有涉及版權作品的系列作推出亞洲向版本，分別有繁體中文版、韓文版及英文版。
+為[南夢宮萬代遊戲以](https://zh.wikipedia.org/wiki/南夢宮萬代遊戲 "wikilink")[萬普](../Page/萬普.md "wikilink")名義發售的[超級機器人大戰系列](../Page/超級機器人大戰系列.md "wikilink")遊戲。簡稱「機戰V」「SRWV」。標題的「V」是指「Voyage」（「航行、旅程」之意）。本作首次為有涉及版權作品的系列作推出亞洲向版本，分別有繁體中文版、韓文版及英文版。
 
 本作宣傳詞為「鋼之巨人們　航向新的海域（Voyage）」
 
@@ -17,26 +15,22 @@ YouTube](https://www.youtube.com/watch?v=vt7z0F47j0Q) }}
   - [機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")（）
   - [機動戰士GUNDAM ZZ](../Page/機動戰士GUNDAM_ZZ.md "wikilink")（）
   - [機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")（）
-  - ★●[機動戰士GUNDAM
-    閃光的哈薩維](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_閃光的哈薩維 "wikilink")（）
+  - ★●[機動戰士GUNDAM 閃光的哈薩維](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_閃光的哈薩維 "wikilink")（）
   - [機動戰士海盜GUNDAM](../Page/機動戰士海盜GUNDAM.md "wikilink")（）
   - ★[機動戰士海盜GUNDAM 骷髏之心](../Page/機動戰士海盜GUNDAM_骷髏之心.md "wikilink")（）
   - ★●[機動戰士海盜GUNDAM 鋼鐵之七人](../Page/機動戰士海盜GUNDAM_鋼鐵之七人.md "wikilink")（）
-  - [機動戰士GUNDAM SEED
-    DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")（）
-  - [劇場版 機動戰士GUNDAM00 -A wakening of the
-    Trailblazer-](../Page/劇場版_機動戰士GUNDAM00_-A_wakening_of_the_Trailblazer-.md "wikilink")（）
+  - [機動戰士GUNDAM SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")（）
+  - [劇場版 機動戰士GUNDAM00 -A wakening of the Trailblazer-](../Page/劇場版_機動戰士GUNDAM00_-A_wakening_of_the_Trailblazer-.md "wikilink")（）
   - [機動戰士GUNDAM UC](../Page/機動戰士GUNDAM_UC.md "wikilink")（）
   - ★[勇者特急隊](../Page/勇者特急隊.md "wikilink")（）
-  - [劇場版機動戰艦撫子 -The prince of
-    darkness-](../Page/機動戰艦_The_prince_of_darkness.md "wikilink")（）
+  - [劇場版機動戰艦撫子 -The prince of darkness-](../Page/機動戰艦_The_prince_of_darkness.md "wikilink")（）
   - [真蓋特機器人 世界最後之日](../Page/真蓋特機器人_世界最後之日.md "wikilink")（）
   - [真魔神 衝擊！Z篇](../Page/真魔神_衝擊！Z篇.md "wikilink")（）
   - ★●[真魔神ZERO vs暗黑大將軍](../Page/真無敵鐵金剛ZERO.md "wikilink")（）
   - [驚爆危機](../Page/驚爆危機.md "wikilink")（）
-  - [驚爆危機？校園篇](../Page/驚爆危機.md "wikilink")（）
-  - [驚爆危機！The Second Raid](../Page/驚爆危機.md "wikilink")（）
-  - [驚爆危機（原作小說版）](../Page/驚爆危機.md "wikilink")（）
+  - [驚爆危機](../Page/驚爆危機.md "wikilink")？校園篇（）
+  - [驚爆危機 Second Raid](../Page/驚爆危機.md "wikilink")！The（）
+  - [驚爆危機](../Page/驚爆危機.md "wikilink")（原作小說版）（）
   - [福音戰士新劇場版：序](../Page/福音戰士新劇場版：序.md "wikilink")（）
   - [福音戰士新劇場版：破](../Page/福音戰士新劇場版：破.md "wikilink")（）
   - ●[福音戰士新劇場版：Q](../Page/福音戰士新劇場版：Q.md "wikilink")（）
@@ -45,11 +39,7 @@ YouTube](https://www.youtube.com/watch?v=vt7z0F47j0Q) }}
 
 ### 解說
 
-全26作品。新參戰作品有7部。《機動戰士GUNDAM 閃光的哈薩維》、《機動戰士海盜GUNDAM 鋼鐵之七人》、《真魔神ZERO
-vs暗黑大將軍》、《福音戰士新劇場版：Q》只有機體參戰。另外為紀念機戰25周年，有《超級機械人大戰系列》原創機體「兇鳥」、「古倫加斯特」，以及沿襲自魔神系列的本作原創機體「鐵金剛皇帝G\[2\]」（マジンエンペラーG）登場，此外，本作首次加入沒有機器人機體的[宇宙戰艦大和號2199](../Page/宇宙戰艦大和號2199.md "wikilink")。
-雖英文標題是《V》，但像是《[-{zh-hans:孔巴特拉V; zh-tw:孔巴德拉V;
-zh-hk:超力電磁俠;}-](../Page/超力電磁俠.md "wikilink")》、《[-{zh-hans:波鲁吉斯V;zh-tw:波羅五號;zh-hk:V型電磁俠;}-](../Page/波羅五號.md "wikilink")》、《[機動戰士V
-GUNDAM](../Page/機動戰士V_GUNDAM.md "wikilink")》等有附註「V」的作品並無參戰。於「鋼之感謝祭2016」寺田製作人表明取標題名稱是到後來才定案。
+全26作品。新參戰作品有7部。《機動戰士GUNDAM 閃光的哈薩維》、《機動戰士海盜GUNDAM 鋼鐵之七人》、《真魔神ZERO vs暗黑大將軍》、《福音戰士新劇場版：Q》只有機體參戰。另外為紀念機戰25周年，有《超級機械人大戰系列》原創機體「兇鳥」、「古倫加斯特」，以及沿襲自魔神系列的本作原創機體「鐵金剛皇帝G\[2\]」（マジンエンペラーG）登場，此外，本作首次加入沒有機器人機體的[宇宙戰艦大和號2199](../Page/宇宙戰艦大和號2199.md "wikilink")。 雖英文標題是《V》，但像是《[-{zh-hans:孔巴特拉V; zh-tw:孔巴德拉V; zh-hk:超力電磁俠;}-](../Page/超力電磁俠.md "wikilink")》、《[-{zh-hans:波鲁吉斯V;zh-tw:波羅五號;zh-hk:V型電磁俠;}-](../Page/波羅五號.md "wikilink")》、《[機動戰士V GUNDAM](../Page/機動戰士V_GUNDAM.md "wikilink")》等有附註「V」的作品並無參戰。於「鋼之感謝祭2016」寺田製作人表明取標題名稱是到後來才定案。
 
 ### 封面登場機体
 
@@ -59,8 +49,7 @@ GUNDAM](../Page/機動戰士V_GUNDAM.md "wikilink")》等有附註「V」的作�
 
 :\* 真蓋特1（真蓋特機器人 世界最後之日）
 
-:\*
-[Evangelion初號機（擬似真嗣化第1覺醒形態）](https://zh.wikipedia.org/wiki/EVA_\(戰鬥機械人\)#汎用人型決戰兵器_試驗初號機 "wikilink")（福音戰士新劇場版：破）
+:\* [Evangelion初號機（擬似真嗣化第1覺醒形態）](https://zh.wikipedia.org/wiki/EVA_\(戰鬥機械人\)#汎用人型決戰兵器_試驗初號機 "wikilink")（福音戰士新劇場版：破）
 
 :\* 特急勇者（勇者特急隊）
 
@@ -68,8 +57,7 @@ GUNDAM](../Page/機動戰士V_GUNDAM.md "wikilink")》等有附註「V」的作�
 
 :\* νGUNDAM（機動戰士GUNDAM 逆襲的夏亞）
 
-:\* [ARX-8
-烈焰魔劍](https://zh.wikipedia.org/wiki/主從追隨式機甲系統#ARX-8_Laevatain／レーバテイン／烈焰魔劍 "wikilink")（驚爆危機（原作小說版））
+:\* [ARX-8 烈焰魔劍](https://zh.wikipedia.org/wiki/主從追隨式機甲系統#ARX-8_Laevatain／レーバテイン／烈焰魔劍 "wikilink")（驚爆危機（原作小說版））
 
 :\* 黑百合（劇場版機動戰艦撫子 -The prince of darkness-）
 
@@ -207,69 +195,40 @@ ED「NEW BLUE」
 這些BGM也能在戰鬥時播放。
 
   -
-    01  - [堀光一路](https://zh.wikipedia.org/wiki/堀光一路 "wikilink")
-    (《無敵超人桑波特3》OP)
-    02  - [藤原誠](https://zh.wikipedia.org/wiki/藤原誠 "wikilink")
-    (《無敵鋼人泰坦3》OP)
+    01  - [堀光一路](https://zh.wikipedia.org/wiki/堀光一路 "wikilink") (《無敵超人桑波特3》OP)
+    02  - [藤原誠](https://zh.wikipedia.org/wiki/藤原誠 "wikilink") (《無敵鋼人泰坦3》OP)
     03  - [森口博子](../Page/森口博子.md "wikilink") (《機動戰士Ζ鋼彈》OP2)
     04  - 作曲：[三枝成彰](../Page/三枝成彰.md "wikilink") (《機動戰士Ζ鋼彈》BGM)
-    05  - [新井正人](https://zh.wikipedia.org/wiki/新井正人 "wikilink")
-    (《機動戰士鋼彈ΖΖ》OP)
-    06  - [ひろえ純](https://zh.wikipedia.org/wiki/ひろえ純 "wikilink")
-    (《機動戰士鋼彈ΖΖ》OP2)
-    07  - [TM NETWORK](../Page/TM_NETWORK.md "wikilink") (《機動戰士鋼彈
-    逆襲的夏亞》ED)
+    05  - [新井正人](https://zh.wikipedia.org/wiki/新井正人 "wikilink") (《機動戰士鋼彈ΖΖ》OP)
+    06  - [ひろえ純](https://zh.wikipedia.org/wiki/ひろえ純 "wikilink") (《機動戰士鋼彈ΖΖ》OP2)
+    07  - [TM NETWORK](../Page/TM_NETWORK.md "wikilink") (《機動戰士鋼彈 逆襲的夏亞》ED)
     08 MAIN TITLE - 作曲：三枝成彰 (《機動戰士鋼彈 逆襲的夏亞》BGM)
-    09  - [T.M.Revolution](../Page/T.M.Revolution.md "wikilink")
-    (《機動戰士鋼彈SEED DESTINY》OP)
+    09  - [T.M.Revolution](../Page/T.M.Revolution.md "wikilink") (《機動戰士鋼彈SEED DESTINY》OP)
     10  - T.M.Revolution (《機動戰士鋼彈SEED DESTINY》OP5)
-    11 [DAYBREAK'S
-    BELL](../Page/DAYBREAK'S_BELL_\(L'Arc〜en〜Ciel單曲\).md "wikilink")
-    -
-    [L'Arc〜en〜Ciel](https://zh.wikipedia.org/wiki/L'Arc〜en〜Ciel "wikilink")
-    (《機動戰士鋼彈OO》OP)
-    12  - [THE BACK
-    HORN](https://zh.wikipedia.org/wiki/THE_BACK_HORN "wikilink") (《劇場版
-    機動戰士鋼彈00 -A wakening of the Trailblazer-》OP)
-    13 [Everlasting](../Page/Everlasting_\(Kylee单曲\).md "wikilink") -
-    [Kylee](https://zh.wikipedia.org/wiki/Kylee "wikilink") (《機動戰士鋼彈UC
-    episode 2 紅色彗星》ED)
-    14 [StarRingChild](../Page/StarRingChild_EP.md "wikilink") -
-    [Aimer](../Page/Aimer.md "wikilink") (《機動戰士鋼彈UC episode 7 彩虹的彼端》ED)
+    11 [DAYBREAK'S BELL](../Page/DAYBREAK'S_BELL_\(L'Arc〜en〜Ciel單曲\).md "wikilink") - [L'Arc〜en〜Ciel](https://zh.wikipedia.org/wiki/L'Arc〜en〜Ciel "wikilink") (《機動戰士鋼彈OO》OP)
+    12  - [THE BACK HORN](https://zh.wikipedia.org/wiki/THE_BACK_HORN "wikilink") (《劇場版 機動戰士鋼彈00 -A wakening of the Trailblazer-》OP)
+    13 [Everlasting](../Page/Everlasting_\(Kylee单曲\).md "wikilink") - [Kylee](https://zh.wikipedia.org/wiki/Kylee "wikilink") (《機動戰士鋼彈UC episode 2 紅色彗星》ED)
+    14 [StarRingChild](../Page/StarRingChild_EP.md "wikilink") - [Aimer](../Page/Aimer.md "wikilink") (《機動戰士鋼彈UC episode 7 彩虹的彼端》ED)
     15 - [岡柚瑠](https://zh.wikipedia.org/wiki/岡柚瑠 "wikilink") (《勇者特急隊》OP)
-    16  - [露湖藻雷蔵](https://zh.wikipedia.org/wiki/露湖藻雷蔵 "wikilink")
-    (《勇者特急隊》插曲)
+    16  - [露湖藻雷蔵](https://zh.wikipedia.org/wiki/露湖藻雷蔵 "wikilink") (《勇者特急隊》插曲)
     17  - 露湖藻雷蔵&海蔵 (《勇者特急隊》插曲)
-    18 [YOU GET TO BURNING](../Page/YOU_GET_TO_BURNING.md "wikilink") -
-    [松澤由美](https://zh.wikipedia.org/wiki/松澤由美 "wikilink") (《機動戰艦》OP)
-    19 [Dearest](../Page/Dearest_\(松泽由美单曲\).md "wikilink") - 松澤由美
-    (《劇場版機動戰艦撫子 -The prince of darkness-》ED)
-    20  - 作曲：[服部隆之](../Page/服部隆之.md "wikilink") (《劇場版機動戰艦撫子 -The prince
-    of darkness-》BGM)
+    18 [YOU GET TO BURNING](../Page/YOU_GET_TO_BURNING.md "wikilink") - [松澤由美](https://zh.wikipedia.org/wiki/松澤由美 "wikilink") (《機動戰艦》OP)
+    19 [Dearest](../Page/Dearest_\(松泽由美单曲\).md "wikilink") - 松澤由美 (《劇場版機動戰艦撫子 -The prince of darkness-》ED)
+    20  - 作曲：[服部隆之](../Page/服部隆之.md "wikilink") (《劇場版機動戰艦撫子 -The prince of darkness-》BGM)
     21  - [水木一郎](../Page/水木一郎.md "wikilink") (《真蓋特機器人 世界最後之日》OP)
     22 HEATS - [影山浩宣](../Page/影山浩宣.md "wikilink") (《真蓋特機器人 世界最後之日》OP2)
     23  - ULTIMATE LAZY for MAZINGER (《真魔神 衝擊！Z篇》OP)
-    24  - [JAM Project](../Page/JAM_Project.md "wikilink") (《真魔神
-    衝擊！Z篇》OP2)
-    25 [tomorrow](../Page/Tomorrow／不會枯萎的花.md "wikilink") -
-    [下川美娜](../Page/下川美娜.md "wikilink") (《驚爆危機》OP)
+    24  - [JAM Project](../Page/JAM_Project.md "wikilink") (《真魔神 衝擊！Z篇》OP2)
+    25 [tomorrow](../Page/Tomorrow／不會枯萎的花.md "wikilink") - [下川美娜](../Page/下川美娜.md "wikilink") (《驚爆危機》OP)
     26  - 下川美娜 (《驚爆危機？校園篇》OP)
-    27 [南風](../Page/南風／想再一次見到你.md "wikilink") - 下川美娜 (《驚爆危機！The Second
-    Raid》OP)
-    28  -
-    [林原惠](../Page/林原惠.md "wikilink")／[スペシャル・キッズ](https://zh.wikipedia.org/wiki/スペシャル・キッズ "wikilink")
-    (《福音戰士新劇場版：破》插曲)
-    29 Gods Message -
-    作曲：[鷺巣詩郎](https://zh.wikipedia.org/wiki/鷺巣詩郎 "wikilink")
-    (《福音戰士新劇場版:Q》BGM)
-    30  -
-    作曲：[宮川泰](https://zh.wikipedia.org/wiki/宮川泰 "wikilink")／編曲：[宮川彬良](https://zh.wikipedia.org/wiki/宮川彬良 "wikilink")／演奏：[葉加瀬太郎](https://zh.wikipedia.org/wiki/葉加瀬太郎 "wikilink")
-    (《宇宙戰艦大和號2199 星巡的方舟》OP)
+    27 [南風](../Page/南風／想再一次見到你.md "wikilink") - 下川美娜 (《驚爆危機！The Second Raid》OP)
+    28  - [林原惠](../Page/林原惠.md "wikilink")／[スペシャル・キッズ](https://zh.wikipedia.org/wiki/スペシャル・キッズ "wikilink") (《福音戰士新劇場版：破》插曲)
+    29 Gods Message - 作曲：[鷺巣詩郎](https://zh.wikipedia.org/wiki/鷺巣詩郎 "wikilink") (《福音戰士新劇場版:Q》BGM)
+    30  - 作曲：[宮川泰](https://zh.wikipedia.org/wiki/宮川泰 "wikilink")／編曲：[宮川彬良](https://zh.wikipedia.org/wiki/宮川彬良 "wikilink")／演奏：[葉加瀬太郎](https://zh.wikipedia.org/wiki/葉加瀬太郎 "wikilink") (《宇宙戰艦大和號2199 星巡的方舟》OP)
     31  - 作曲：宮川泰／編曲：宮川彬良 (《宇宙戰艦大和號2199 星巡的方舟》BGM)
     32  - [水樹奈奈](../Page/水樹奈奈.md "wikilink") (《CROSSANGE 天使與龍的輪舞》OP)
     33  - [高橋洋子](../Page/高橋洋子.md "wikilink") (《CROSSANGE 天使與龍的輪舞》OP2)
-    34  - 安琪(cv.水樹奈奈)、莎拉(cv.[堀江由衣](../Page/堀江由衣.md "wikilink"))
-    (《CROSSANGE 天使與龍的輪舞》插曲)
+    34  - 安琪(cv.水樹奈奈)、莎拉(cv.[堀江由衣](../Page/堀江由衣.md "wikilink")) (《CROSSANGE 天使與龍的輪舞》插曲)
     35 TIME TO COME (《第4次超級機器人大戰》BGM)
 
 ## 備注
@@ -279,12 +238,7 @@ ED「NEW BLUE」
   - [超級機械人大戰V 官方網站](http://srw-v.suparobo.jp/)
   - [台灣萬代南夢宮娛樂網站遊戲介紹](https://www.bandainamcoent.com.tw/intro-detail.php?game_no=6)
 
-[Category:2017年电子游戏](https://zh.wikipedia.org/wiki/Category:2017年电子游戏 "wikilink")
-[Category:超级机器人大战系列](https://zh.wikipedia.org/wiki/Category:超级机器人大战系列 "wikilink")
-[Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink")
-[Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
-[Category:平行世界題材作品](https://zh.wikipedia.org/wiki/Category:平行世界題材作品 "wikilink")
+[Category:2017年电子游戏](https://zh.wikipedia.org/wiki/Category:2017年电子游戏 "wikilink") [Category:超级机器人大战系列](https://zh.wikipedia.org/wiki/Category:超级机器人大战系列 "wikilink") [Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:平行世界題材作品](https://zh.wikipedia.org/wiki/Category:平行世界題材作品 "wikilink")
 
 1.  [](http://dengekionline.com/elem/000/001/289/1289128/)
 2.  本作中魔神系列未有香港在地化譯名，因此本機在遊戲中續用「鐵金剛-{}-皇帝G」為名，在後作《[超級機械人大戰X](https://zh.wikipedia.org/wiki/超級機械人大戰X "wikilink")》才有香港版譯名。

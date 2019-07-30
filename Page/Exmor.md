@@ -1,21 +1,10 @@
-[Sony_Exmor.jpg](https://zh.wikipedia.org/wiki/File:Sony_Exmor.jpg "fig:Sony_Exmor.jpg")
-[CMOS_SONY_EXMOR_R_IMX055CHL_sensor_side+size.jpg](https://zh.wikipedia.org/wiki/File:CMOS_SONY_EXMOR_R_IMX055CHL_sensor_side+size.jpg "fig:CMOS_SONY_EXMOR_R_IMX055CHL_sensor_side+size.jpg")
-**Exmor**是索尼公司应用在其部分[CMOS图像传感器上的技术名称](https://zh.wikipedia.org/wiki/CMOS "wikilink")。其可以实现片上[模数转换以及错行像素的两步降噪并行处理](https://zh.wikipedia.org/wiki/模数转换 "wikilink")。
+[Sony_Exmor.jpg](https://zh.wikipedia.org/wiki/File:Sony_Exmor.jpg "fig:Sony_Exmor.jpg") [CMOS_SONY_EXMOR_R_IMX055CHL_sensor_side+size.jpg](https://zh.wikipedia.org/wiki/File:CMOS_SONY_EXMOR_R_IMX055CHL_sensor_side+size.jpg "fig:CMOS_SONY_EXMOR_R_IMX055CHL_sensor_side+size.jpg") **Exmor**是索尼公司应用在其部分[CMOS图像传感器上的技术名称](https://zh.wikipedia.org/wiki/CMOS "wikilink")。其可以实现片上[模数转换以及错行像素的两步降噪并行处理](https://zh.wikipedia.org/wiki/模数转换 "wikilink")。
 
-**Exmor R**则是索尼的Exmor的版本\[1\] 。索尼公司于2008年6月11日发布Exmor
-R，其也是世界上首个量产型背照式传感器技术\[2\]
-。索尼声称Exmor R约可达到传统前照式传感器（front illuminated
-sensor）两倍灵敏度。这类在一些索尼出品的拍照手机与相机中有应用，甚至[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iPhone
-4S与](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")[iPhone
-5中也有应用](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")\[3\]\[4\]
-。Exmor R传感器有助于帮助智能手机在低照度环境下获取高分辨率视频或静止图像。
+**Exmor R**则是索尼的Exmor的版本\[1\] 。索尼公司于2008年6月11日发布Exmor R，其也是世界上首个量产型背照式传感器技术\[2\] 。索尼声称Exmor R约可达到传统前照式传感器（front illuminated sensor）两倍灵敏度。这类在一些索尼出品的拍照手机与相机中有应用，甚至[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iPhone 4S与](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")[iPhone 5中也有应用](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")\[3\]\[4\] 。Exmor R传感器有助于帮助智能手机在低照度环境下获取高分辨率视频或静止图像。
 
-很长一段时间，Exmor
-R仅被使用在较小的图像传感器类型中，如应用在[摄像机](https://zh.wikipedia.org/wiki/摄像机 "wikilink")、紧凑型相机以及智能设备上，而随着2015年6月，[索尼ILCE-7RM2的发布](https://zh.wikipedia.org/wiki/索尼ILCE-7RM2 "wikilink")，也意味着Exmor
-R型号传感器登陆[全画幅领域](../Page/全画幅.md "wikilink")。
+很长一段时间，Exmor R仅被使用在较小的图像传感器类型中，如应用在[摄像机](https://zh.wikipedia.org/wiki/摄像机 "wikilink")、紧凑型相机以及智能设备上，而随着2015年6月，[索尼ILCE-7RM2的发布](https://zh.wikipedia.org/wiki/索尼ILCE-7RM2 "wikilink")，也意味着Exmor R型号传感器登陆[全画幅](../Page/全画幅.md "wikilink")领域。
 
-2014年11月，索尼公司宣布了新型的**Exmor
-RS**，为具备内置相位对焦点的积层型CMOS传感器，具备高速[自动对焦能力](../Page/自动对焦.md "wikilink")\[5\]。
+2014年11月，索尼公司宣布了新型的**Exmor RS**，为具备内置相位对焦点的积层型CMOS传感器，具备高速[自动对焦](../Page/自动对焦.md "wikilink")能力\[5\]。
 
 ## Exmor传感器列表
 
@@ -1376,9 +1365,7 @@ RS**，为具备内置相位对焦点的积层型CMOS传感器，具备高速[�
 
 ## 外部链接
 
-  - [Back
-    Number](https://web.archive.org/web/20151017072240/http://www.sony.net/Products/SC-HP/new_pro/backnumber.html)
-    - sony.net
+  - [Back Number](https://web.archive.org/web/20151017072240/http://www.sony.net/Products/SC-HP/new_pro/backnumber.html) - sony.net
 
 [Category:图像传感器](https://zh.wikipedia.org/wiki/Category:图像传感器 "wikilink")
 
@@ -1390,11 +1377,7 @@ RS**，为具备内置相位对焦点的积层型CMOS传感器，具备高速[�
 
 4.
 
-5.  [Sony Announces the Exmor RS™, the Industry's First\*1 Stacked CMOS
-    Image Sensor with an Image Plane Phase Detection Signal Processing
-    Function for High-Speed
-    AF](http://www.sony.net/SonyInfo/News/Press/201411/14-112E/)
-    sony.net
+5.  [Sony Announces the Exmor RS™, the Industry's First\*1 Stacked CMOS Image Sensor with an Image Plane Phase Detection Signal Processing Function for High-Speed AF](http://www.sony.net/SonyInfo/News/Press/201411/14-112E/) sony.net
 
 6.
 7.

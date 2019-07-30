@@ -1,7 +1,4 @@
-是一款[戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")。本游戏由[Sonic\!
-Software
-Planning制作](https://zh.wikipedia.org/wiki/Sonic!_Software_Planning "wikilink")，为[光明系列之一](https://zh.wikipedia.org/wiki/光明系列 "wikilink")。游戏于1993年10月1日在日本地区世嘉[Mega
-Drive发行](../Page/Mega_Drive.md "wikilink")，于1997年7月2日在欧洲发行。\[1\]
+是一款[戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")。本游戏由[Sonic\! Software Planning制作](https://zh.wikipedia.org/wiki/Sonic!_Software_Planning "wikilink")，为[光明系列之一](https://zh.wikipedia.org/wiki/光明系列 "wikilink")。游戏于1993年10月1日在日本地区世嘉[Mega Drive发行](../Page/Mega_Drive.md "wikilink")，于1997年7月2日在欧洲发行。\[1\]
 
 玩家扮演光明力量领导者Bowie。在非战斗时候，玩家可以探索城镇，并与人们交谈。
 
@@ -21,16 +18,9 @@ Drive发行](../Page/Mega_Drive.md "wikilink")，于1997年7月2日在欧洲发�
 
 ## 参考资料
 
-[Category:光明與黑暗系列](https://zh.wikipedia.org/wiki/Category:光明與黑暗系列 "wikilink")
-[Category:1993年电子游戏](https://zh.wikipedia.org/wiki/Category:1993年电子游戏 "wikilink")
-[Category:Camelot游戏](https://zh.wikipedia.org/wiki/Category:Camelot游戏 "wikilink")
-[Category:Mega_Drive游戏](https://zh.wikipedia.org/wiki/Category:Mega_Drive游戏 "wikilink")
-[Category:战略角色扮演游戏](https://zh.wikipedia.org/wiki/Category:战略角色扮演游戏 "wikilink")
+[Category:光明與黑暗系列](https://zh.wikipedia.org/wiki/Category:光明與黑暗系列 "wikilink") [Category:1993年电子游戏](https://zh.wikipedia.org/wiki/Category:1993年电子游戏 "wikilink") [Category:Camelot游戏](https://zh.wikipedia.org/wiki/Category:Camelot游戏 "wikilink") [Category:Mega_Drive游戏](https://zh.wikipedia.org/wiki/Category:Mega_Drive游戏 "wikilink") [Category:战略角色扮演游戏](https://zh.wikipedia.org/wiki/Category:战略角色扮演游戏 "wikilink")
 
 1.
 2.
-3.  Official Japanese Mega Drive sales chart, January 1994, published in
-    [Mega
-    (magazine)](https://zh.wikipedia.org/wiki/Mega_\(magazine\) "wikilink")
-    issue 16
+3.  Official Japanese Mega Drive sales chart, January 1994, published in [Mega (magazine)](https://zh.wikipedia.org/wiki/Mega_\(magazine\) "wikilink") issue 16
 4.

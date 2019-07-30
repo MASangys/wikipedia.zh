@@ -2,8 +2,7 @@
 
 ## TUD 團名之由來
 
-TUD 為 The Ugly
-Duckling（醜小鴨）的英文[首字母縮略字](../Page/首字母縮略字.md "wikilink")，引用自[安徒生童話中廣為流傳的一則故事](../Page/安徒生.md "wikilink")，敘述一隻[醜小鴨在經歷委屈與挫折的成長過程後](https://zh.wikipedia.org/wiki/醜小鴨 "wikilink")，最終蛻變成天鵝，其中寓意著「不經一番寒徹骨，焉得梅花撲鼻香」之人生哲理。該團以此為團名，其用意在於五位團員頂著校花頭銜，參與節目錄製與發片，也曾遭遇謾罵與攻擊，將挫折與阻力轉化為自我成長的動力，就是團名「醜小鴨」所賦予正面內涵之落實。\[6\]\[7\]
+TUD 為 The Ugly Duckling（醜小鴨）的英文[首字母縮略字](../Page/首字母縮略字.md "wikilink")，引用自[安徒生](../Page/安徒生.md "wikilink")童話中廣為流傳的一則故事，敘述一隻[醜小鴨在經歷委屈與挫折的成長過程後](https://zh.wikipedia.org/wiki/醜小鴨 "wikilink")，最終蛻變成天鵝，其中寓意著「不經一番寒徹骨，焉得梅花撲鼻香」之人生哲理。該團以此為團名，其用意在於五位團員頂著校花頭銜，參與節目錄製與發片，也曾遭遇謾罵與攻擊，將挫折與阻力轉化為自我成長的動力，就是團名「醜小鴨」所賦予正面內涵之落實。\[6\]\[7\]
 
 ## 團員簡介
 
@@ -222,7 +221,7 @@ Duckling（醜小鴨）的英文[首字母縮略字](../Page/首字母縮略字.
 
 ## TUD 2018零元徒步環島計畫
 
-TUD五名團員於2018年1月24日，啟動「零元徒步環島計畫」（又名「TUD公轉自轉」），當天正好是團員[姜沛芯（貝果）生日](../Page/姜沛芯.md "wikilink")。為累積人氣與知名度，五位團員由台灣南部（高雄）開始，徒步深入各角落，拜訪了傳統市場、老人院、幼兒園、廟宇、商場與風景區等，沿途除了打工賺旅費外，也利用17直播與臉書直播，將現場即時畫面與各地網友分享。\[8\]\[9\]\[10\]
+TUD五名團員於2018年1月24日，啟動「零元徒步環島計畫」（又名「TUD公轉自轉」），當天正好是團員[姜沛芯](../Page/姜沛芯.md "wikilink")（貝果）生日。為累積人氣與知名度，五位團員由台灣南部（高雄）開始，徒步深入各角落，拜訪了傳統市場、老人院、幼兒園、廟宇、商場與風景區等，沿途除了打工賺旅費外，也利用17直播與臉書直播，將現場即時畫面與各地網友分享。\[8\]\[9\]\[10\]
 
 2018年2月6日，也就是「零元徒步環島計畫」的第14天，團員們夜宿高雄市路竹區的當晚11點50分，花蓮發生震度高達7級的強震，多棟樓房倒塌。老家在花蓮的[貝果非常擔心花蓮親友的狀況](../Page/姜沛芯.md "wikilink")，一度想中止計畫趕回花蓮，後來得知家人都平安才打消中斷計畫的念頭。從新聞報導得知花蓮災情慘重，TUD團員們一致決定捐助沿途打工賺來的旅費新台幣一萬元，幫助花蓮鄉親做為救災之急用。\[11\]
 
@@ -236,26 +235,16 @@ TUD五名團員於2018年1月24日，啟動「零元徒步環島計畫」（又�
 
 ## 參考資料
 
-[Category:音樂團體](https://zh.wikipedia.org/wiki/Category:音樂團體 "wikilink")
-[Category:台灣演唱團體](https://zh.wikipedia.org/wiki/Category:台灣演唱團體 "wikilink")
-[Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink")
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
-[Category:TUD](https://zh.wikipedia.org/wiki/Category:TUD "wikilink")
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
+[Category:音樂團體](https://zh.wikipedia.org/wiki/Category:音樂團體 "wikilink") [Category:台灣演唱團體](https://zh.wikipedia.org/wiki/Category:台灣演唱團體 "wikilink") [Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:TUD](https://zh.wikipedia.org/wiki/Category:TUD "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
 
 1.  [「校花女團」TUD學歷嚇嚇叫　　團員卻被家人斷金援](https://www.nownews.com/news/20170924/2612930)
-2.  [女團遭家人斷金援
-    拚出道練就一身「金鐘罩」](http://www.chinatimes.com/realtimenews/20170924002613-260404)
-3.  [最正校花 成軍女團TUD將發片
-    盼練"金鐘罩"](http://news.cts.com.tw/cts/entertain/201709/201709271891634.html#.Wc2F7FtL9pg)
-4.  [TUD出道鬧革命
-    斷祖孫關係真慘](http://www.appledaily.com.tw/appledaily/article/entertainment/20170925/37792402/)
+2.  [女團遭家人斷金援 拚出道練就一身「金鐘罩」](http://www.chinatimes.com/realtimenews/20170924002613-260404)
+3.  [最正校花 成軍女團TUD將發片 盼練"金鐘罩"](http://news.cts.com.tw/cts/entertain/201709/201709271891634.html#.Wc2F7FtL9pg)
+4.  [TUD出道鬧革命 斷祖孫關係真慘](http://www.appledaily.com.tw/appledaily/article/entertainment/20170925/37792402/)
 5.  [全新美少女團體TUD 9／29發行首張EP](http://www.ydn.com.tw/News/256641)
-6.  [校花組女團出道
-    網友狠批：長相如女版玖壹壹](https://stars.udn.com/star/story/10092/2720539)
+6.  [校花組女團出道 網友狠批：長相如女版玖壹壹](https://stars.udn.com/star/story/10092/2720539)
 7.  [科大校花「大眼長腿」撞臉鬼鬼　網友酸爆：是女版洋蔥！](https://star.ettoday.net/news/1017729?t=%E7%A7%91%E5%A4%A7%E6%A0%A1%E8%8A%B1%E3%80%8C%E5%A4%A7%E7%9C%BC%E9%95%B7%E8%85%BF%E3%80%8D%E6%92%9E%E8%87%89%E9%AC%BC%E9%AC%BC%E3%80%80%E7%B6%B2%E5%8F%8B%E9%85%B8%E7%88%86%EF%BC%9A%E6%98%AF%E5%A5%B3%E7%89%88%E6%B4%8B%E8%94%A5%EF%BC%81)
 8.  [0元環島用這招！女團直播叫賣「鮑魚」賺旅費](https://news.tvbs.com.tw/entertainment/862659)
-9.  [0元徒步環島
-    真實感受台灣最美風景！](https://news.ftv.com.tw/news/detail/2018204W0003)
+9.  [0元徒步環島 真實感受台灣最美風景！](https://news.ftv.com.tw/news/detail/2018204W0003)
 10. [全台校花為了「魔神仔」改路線　聽公墓都市傳說嚇壞！](https://star.ettoday.net/news/1108534)
 11. [女團TUD邊打工邊環島　捐工資助花蓮賑災](https://news.tvbs.com.tw/entertainment/867728)

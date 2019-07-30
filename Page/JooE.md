@@ -1,12 +1,10 @@
-**李珠園**（韩语：이주원，英语：Lee Joo
-Won，1999年8月18日－），藝名：**珠伊**（韩语：주이；英语：JooE），韩國女歌手，现为女子组合[MOMOLAND成员](../Page/MOMOLAND.md "wikilink")，队内担任領唱、主领舞\[1\]
+**李珠園**（韩语：이주원，英语：Lee Joo Won，1999年8月18日－），藝名：**珠伊**（韩语：주이；英语：JooE），韩國女歌手，现为女子组合[MOMOLAND](../Page/MOMOLAND.md "wikilink")成员，队内担任領唱、主领舞\[1\]
 
 ## 经历
 
 ### 2016年
 
-2016年参演 Mnet
-出道选秀节節目。8月26日通过选拔，成功以[MOMOLAND出道](../Page/MOMOLAND.md "wikilink")。
+2016年参演 Mnet 出道选秀节節目。8月26日通过选拔，成功以[MOMOLAND](../Page/MOMOLAND.md "wikilink")出道。
 
 11月2日，官方 YouTube 频道以及Facebook帐号放出成员個人與團體概念照。
 
@@ -16,13 +14,9 @@ Won，1999年8月18日－），藝名：**珠伊**（韩语：주이；英语：
 
 8月22日，发行第二张迷你专辑《Freeze(꼼짝마)\!》\[2\]。
 
-2017年初，韩国[Trot歌手](https://zh.wikipedia.org/wiki/韩国演歌 "wikilink")[洪真英在自己的](../Page/洪真英.md "wikilink")[Instagram上发起了自己歌曲](../Page/Instagram.md "wikilink")《Ring
-Ring》的编舞征集活动。4月19日，洪真英在Instagram上放出了由MOMOLAND提交的编舞\[3\]并邀请MOMOLAND参加街头公演。公演中，MOMOLAND成员JooE凭借高感染力的舞蹈成为了当时的直拍话题\[4\]。为此，经纪公司在主打曲《Wonderful
-Love》的[EDM版本中加入了一段以JooE为主的舞蹈并在网络上引起反响](../Page/電子舞曲.md "wikilink")\[5\]。随后JooE参演了韩国综艺节目《[无限挑战](../Page/無限挑戰.md "wikilink")》\[6\]并在节目中表演了成名舞蹈。凭借这段舞蹈，JooE被韩国乐天饮料看所中并代言了旗下的Sparkling
-Tropicana饮料\[7\]。因JooE在该广告中的魔性舞蹈，使得该广告及JooE本人迅速走红，为其本人以及MOMOLAND带来巨大的关注度。
+2017年初，韩国[Trot歌手](https://zh.wikipedia.org/wiki/韩国演歌 "wikilink")[洪真英](../Page/洪真英.md "wikilink")在自己的[Instagram](../Page/Instagram.md "wikilink")上发起了自己歌曲《Ring Ring》的编舞征集活动。4月19日，洪真英在Instagram上放出了由MOMOLAND提交的编舞\[3\]并邀请MOMOLAND参加街头公演。公演中，MOMOLAND成员JooE凭借高感染力的舞蹈成为了当时的直拍话题\[4\]。为此，经纪公司在主打曲《Wonderful Love》的[EDM版本中加入了一段以JooE为主的舞蹈并在网络上引起反响](../Page/電子舞曲.md "wikilink")\[5\]。随后JooE参演了韩国综艺节目《[无限挑战](../Page/無限挑戰.md "wikilink")》\[6\]并在节目中表演了成名舞蹈。凭借这段舞蹈，JooE被韩国乐天饮料看所中并代言了旗下的Sparkling Tropicana饮料\[7\]。因JooE在该广告中的魔性舞蹈，使得该广告及JooE本人迅速走红，为其本人以及MOMOLAND带来巨大的关注度。
 
-12月27日，因在韩国综艺节目《[Radio
-Star](../Page/黄金渔场_Radio_Star.md "wikilink")》中出色的综艺表现，JooE和MOMOLAND分别登上了韩国NAVER实时检索榜的第一位和第二位\[8\]。
+12月27日，因在韩国综艺节目《[Radio Star](../Page/黄金渔场_Radio_Star.md "wikilink")》中出色的综艺表现，JooE和MOMOLAND分别登上了韩国NAVER实时检索榜的第一位和第二位\[8\]。
 
 ### 2018年
 
@@ -38,8 +32,7 @@ Star](../Page/黄金渔场_Radio_Star.md "wikilink")》中出色的综艺表现�
 
 ## 影视作品
 
-<small>僅列出個人影視
-團體請參見[MOMOLAND影视作品列表](https://zh.wikipedia.org/wiki/Momoland影視作品列表 "wikilink")。</small>
+<small>僅列出個人影視 團體請參見[MOMOLAND影视作品列表](https://zh.wikipedia.org/wiki/Momoland影視作品列表 "wikilink")。</small>
 
 ### 電視劇
 
@@ -144,8 +137,7 @@ Star](../Page/黄金渔场_Radio_Star.md "wikilink")》中出色的综艺表现�
 
 <references />
 
-[Category:韩国女歌手](https://zh.wikipedia.org/wiki/Category:韩国女歌手 "wikilink")
-[Category:MOMOLAND成員](https://zh.wikipedia.org/wiki/Category:MOMOLAND成員 "wikilink")
+[Category:韩国女歌手](https://zh.wikipedia.org/wiki/Category:韩国女歌手 "wikilink") [Category:MOMOLAND成員](https://zh.wikipedia.org/wiki/Category:MOMOLAND成員 "wikilink")
 
 1.
 2.

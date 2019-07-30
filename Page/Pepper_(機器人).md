@@ -1,26 +1,21 @@
-**Pepper**，是一個會表達情緒的類人型[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")。由[鴻海精密所製造](../Page/鴻海精密.md "wikilink")。它是在2014年6月5日一个发布会上被介绍，第二天开始在日本的软银手机卖场被展示\[1\]\[2\]。它计划于2015年2月将在软银移动商店以198,000日元（$1,931）的基本价格出售\[3\]。
+**Pepper**，是一個會表達情緒的類人型[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")。由[鴻海精密](../Page/鴻海精密.md "wikilink")所製造。它是在2014年6月5日一个发布会上被介绍，第二天开始在日本的软银手机卖场被展示\[1\]\[2\]。它计划于2015年2月将在软银移动商店以198,000日元（$1,931）的基本价格出售\[3\]。
 
 ## 設計
 
 [150px商店內的Pepper](https://zh.wikipedia.org/wiki/file:Pepper_humanoid_robot_-_Japan_-_August_2014_.jpg "wikilink")\]\]
 
-機器人的頭上有四個[麥克風](https://zh.wikipedia.org/wiki/麥克風 "wikilink")、兩個[RGB的HD相機](https://zh.wikipedia.org/wiki/RGB "wikilink")（在口中和前額）、一個[ASUS](https://zh.wikipedia.org/wiki/ASUS "wikilink")
-Xtion
-[3D傳感器](https://zh.wikipedia.org/wiki/3D "wikilink")（眼睛後面）。在身體軀幹上有一個[陀螺儀](../Page/陀螺儀.md "wikilink")，以及頭部跟手部上有一些觸摸傳感器。其可行動的底座則擁有兩個[聲納](../Page/聲納.md "wikilink")、六個[激光器](https://zh.wikipedia.org/wiki/激光器 "wikilink")、三個保險桿傳感器、與一個陀螺儀\[4\]。
-{{-}}
+機器人的頭上有四個[麥克風](https://zh.wikipedia.org/wiki/麥克風 "wikilink")、兩個[RGB的HD相機](https://zh.wikipedia.org/wiki/RGB "wikilink")（在口中和前額）、一個[ASUS](https://zh.wikipedia.org/wiki/ASUS "wikilink") Xtion [3D傳感器](https://zh.wikipedia.org/wiki/3D "wikilink")（眼睛後面）。在身體軀幹上有一個[陀螺儀](../Page/陀螺儀.md "wikilink")，以及頭部跟手部上有一些觸摸傳感器。其可行動的底座則擁有兩個[聲納](../Page/聲納.md "wikilink")、六個[激光器](https://zh.wikipedia.org/wiki/激光器 "wikilink")、三個保險桿傳感器、與一個陀螺儀\[4\]。 {{-}}
 
 ## 目的
 
-[Pepper_dancing_in_the_6+_plaza.webm](https://zh.wikipedia.org/wiki/File:Pepper_dancing_in_the_6+_plaza.webm "fig:Pepper_dancing_in_the_6+_plaza.webm")
-Pepper的目的是
-"讓人類幸福"，提高人們的生活，促進人際關係，在人們之間創造樂趣，並與外界聯繫。Pepper的創建者希望獨立開發人員能創建新的內容，並充分使用Pepper的功能\[5\]。
+[Pepper_dancing_in_the_6+_plaza.webm](https://zh.wikipedia.org/wiki/File:Pepper_dancing_in_the_6+_plaza.webm "fig:Pepper_dancing_in_the_6+_plaza.webm") Pepper的目的是 "讓人類幸福"，提高人們的生活，促進人際關係，在人們之間創造樂趣，並與外界聯繫。Pepper的創建者希望獨立開發人員能創建新的內容，並充分使用Pepper的功能\[5\]。
 
 ## 沿革
 
   - 2014年6月5日，家庭用的人型機器人發表\[6\]。
   - 2015年2月27日，初次生產的300臺機器人的販賣開始(針對開發者)。
-  - 2015年3月19日，[瑞穗銀行計劃於](../Page/瑞穗銀行.md "wikilink")2015年7月起在全日本的分行導入Pepper機器人服務，讓分行用以活用接待客戶\[7\]。
-  - 2015年6月18日，[軟銀公司提供](../Page/軟銀.md "wikilink")「Pepper機器人派遣服務」，本日開始提供預約申請。派遣服務從當年度7月1日開始，但初期僅提供[东京23区](https://zh.wikipedia.org/wiki/东京23区 "wikilink")\[8\]。
+  - 2015年3月19日，[瑞穗銀行](../Page/瑞穗銀行.md "wikilink")計劃於2015年7月起在全日本的分行導入Pepper機器人服務，讓分行用以活用接待客戶\[7\]。
+  - 2015年6月18日，[軟銀](../Page/軟銀.md "wikilink")公司提供「Pepper機器人派遣服務」，本日開始提供預約申請。派遣服務從當年度7月1日開始，但初期僅提供[东京23区](https://zh.wikipedia.org/wiki/东京23区 "wikilink")\[8\]。
   - 2015年7月29日，發表商務用的Pepper，針對公司法人推出月租五萬五千日圓的出租模式\[9\]
 
 ## 規格
@@ -73,7 +68,7 @@ Pepper的目的是
 
       - [埃爾德爾河畔諾爾車站](https://zh.wikipedia.org/wiki/埃爾德爾河畔諾爾 "wikilink")(2015年12月9日)
       - [萊薩布勒多洛訥車站](https://zh.wikipedia.org/wiki/萊薩布勒多洛訥 "wikilink")(2015年12月9日)
-      - [索米尔車站](../Page/索米尔.md "wikilink")(2015年12月9日)
+      - [索米尔](../Page/索米尔.md "wikilink")車站(2015年12月9日)
 
   - [亞太電信](../Page/亞太電信.md "wikilink")\[11\]
 
@@ -107,8 +102,7 @@ Pepper的目的是
 
 ## 腳註
 
-[Category:日本機器人](https://zh.wikipedia.org/wiki/Category:日本機器人 "wikilink")
-[Category:機器人學](https://zh.wikipedia.org/wiki/Category:機器人學 "wikilink")
+[Category:日本機器人](https://zh.wikipedia.org/wiki/Category:日本機器人 "wikilink") [Category:機器人學](https://zh.wikipedia.org/wiki/Category:機器人學 "wikilink")
 
 1.
 2.

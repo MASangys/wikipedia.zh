@@ -1,5 +1,4 @@
-《**Inner
-Voice**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄧小巧的第二張迷你專輯](https://zh.wikipedia.org/wiki/鄧小巧 "wikilink")，於2018年2月9日推出。
+《**Inner Voice**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄧小巧的第二張迷你專輯](https://zh.wikipedia.org/wiki/鄧小巧 "wikilink")，於2018年2月9日推出。
 
 ## 曲目
 
@@ -14,9 +13,6 @@ Voice**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "w
 |  <small>2018</small>   | <small>**和好**</small> |        **1**        |
 | <small>將沙拋給一片海</small> |          14           |          2          |
 
-[Category:鄧小巧音樂專輯](https://zh.wikipedia.org/wiki/Category:鄧小巧音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:鄧小巧音樂專輯](https://zh.wikipedia.org/wiki/Category:鄧小巧音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink")
+[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink")

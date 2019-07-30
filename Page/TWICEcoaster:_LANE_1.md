@@ -1,23 +1,12 @@
-《**TWICEcoaster: LANE
-1**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE的第三張韓語迷你專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")。由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，KT音樂發行，於2016年10月24日推出。主打歌曲為〈TT〉，由[黑眼必勝製作](../Page/黑眼必勝.md "wikilink")。專輯發行首日隨即打入香港、馬來西亞、泰國、越南、新加坡、台灣、中國大陸、澳門等8個國家及地區的iTunes專輯榜首位\[1\]。12月19日發行改版專輯《聖誕特別版》（CHRISTMAS
-EDITION），2月20日發行特別版專輯《[TWICEcoaster: LANE
-2](../Page/TWICEcoaster:_LANE_2.md "wikilink")》
+《**TWICEcoaster: LANE 1**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE的第三張韓語迷你專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")。由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，KT音樂發行，於2016年10月24日推出。主打歌曲為〈TT〉，由[黑眼必勝](../Page/黑眼必勝.md "wikilink")製作。專輯發行首日隨即打入香港、馬來西亞、泰國、越南、新加坡、台灣、中國大陸、澳門等8個國家及地區的iTunes專輯榜首位\[1\]。12月19日發行改版專輯《聖誕特別版》（CHRISTMAS EDITION），2月20日發行特別版專輯《[TWICEcoaster: LANE 2](../Page/TWICEcoaster:_LANE_2.md "wikilink")》
 
 ## 背景
 
-2016年10月10日，TWICE官方網站、臉書及推特同時釋出《TWICEcoaster: LANE
-1》的回歸日程表，正式公布將於24日攜第三張韓語迷你專輯回歸。以行程表為開始，TWICE將會陸續公開
-INTRO影片、專輯概念照、MV預告等專輯相關資訊\[2\]。
+2016年10月10日，TWICE官方網站、臉書及推特同時釋出《TWICEcoaster: LANE 1》的回歸日程表，正式公布將於24日攜第三張韓語迷你專輯回歸。以行程表為開始，TWICE將會陸續公開 INTRO影片、專輯概念照、MV預告等專輯相關資訊\[2\]。
 
 ## 概要
 
-專輯名稱為《TWICEcoaster: LANE
-1》，意思是「像是和TWICE一起在遊樂園裡搭雲霄飛車一樣，一起度過愉快刺激的時間」\[3\]。此次專輯皆以於9日23日公布的官方應援色—杏桃色（Apricot）和霓虹洋紅色（Neon
-Magenta）為主色調，專輯版本也以這兩個顏色命名\[4\]。此次專輯主打曲〈TT〉是製作人團隊「[黑眼必勝](../Page/黑眼必勝.md "wikilink")」為[TWICE創作的第三首作品](https://zh.wikipedia.org/wiki/TWICE "wikilink")，以英文字「TT」化作成淚流滿面的表情符號，歌曲以輕快的POP旋律搭配上Deep
-House節奏，講述第一次遇到愛情，而不知所措的少女心態\[5\]。「TT」同時亦帶出萬聖節「Trick or
-Treat」的MV主題。2016年10月20日，在TWICE一週年VLive中率先公開專輯抒情曲〈ONE IN A
-MILLION〉，以答謝歌迷及各界媒體在過去1年的支持及厚愛。〈TT〉的歌詞再次銜接〈Cheer
-Up〉描述女性複雜多端的內心感受，也為下一個主打曲埋下伏筆。\[6\]
+專輯名稱為《TWICEcoaster: LANE 1》，意思是「像是和TWICE一起在遊樂園裡搭雲霄飛車一樣，一起度過愉快刺激的時間」\[3\]。此次專輯皆以於9日23日公布的官方應援色—杏桃色（Apricot）和霓虹洋紅色（Neon Magenta）為主色調，專輯版本也以這兩個顏色命名\[4\]。此次專輯主打曲〈TT〉是製作人團隊「[黑眼必勝](../Page/黑眼必勝.md "wikilink")」為[TWICE創作的第三首作品](https://zh.wikipedia.org/wiki/TWICE "wikilink")，以英文字「TT」化作成淚流滿面的表情符號，歌曲以輕快的POP旋律搭配上Deep House節奏，講述第一次遇到愛情，而不知所措的少女心態\[5\]。「TT」同時亦帶出萬聖節「Trick or Treat」的MV主題。2016年10月20日，在TWICE一週年VLive中率先公開專輯抒情曲〈ONE IN A MILLION〉，以答謝歌迷及各界媒體在過去1年的支持及厚愛。〈TT〉的歌詞再次銜接〈Cheer Up〉描述女性複雜多端的內心感受，也為下一個主打曲埋下伏筆。\[6\]
 
 ### 改版專輯《聖誕特別版》
 
@@ -94,12 +83,8 @@ Up〉描述女性複雜多端的內心感受，也為下一個主打曲埋下伏
 
 ### 發行版本
 
-  - Apricot版：內含88頁寫真冊、初回限定A Ver.相片X2、初回限定A
-    Ver.貼紙X1、隨機成員印刷CD（共9款）、隨機閃卡（共9款）、隨機Selfie小卡（共9款）、Super
-    Card (限量1000張，隨機附贈)
-  - Neon Magenta版：內含88頁寫真冊、初回限定N Ver.相片X2、初回限定N
-    Ver.貼紙X1、隨機成員印刷CD（共9款）、隨機閃卡（共9款）、隨機Selfie小卡（共9款）、Super
-    Card (限量1000張，隨機附贈)
+  - Apricot版：內含88頁寫真冊、初回限定A Ver.相片X2、初回限定A Ver.貼紙X1、隨機成員印刷CD（共9款）、隨機閃卡（共9款）、隨機Selfie小卡（共9款）、Super Card (限量1000張，隨機附贈)
+  - Neon Magenta版：內含88頁寫真冊、初回限定N Ver.相片X2、初回限定N Ver.貼紙X1、隨機成員印刷CD（共9款）、隨機閃卡（共9款）、隨機Selfie小卡（共9款）、Super Card (限量1000張，隨機附贈)
   - 預購禮追加：特別相片卡1套(共9款)、特別海報1張
   - 聖誕特別版：內含88頁寫真冊、CD、相片明信片（聖誕版本）X1、貼紙X1、隨機閃卡（聖誕版本）（共9款）、隨機Selfie小卡（共9款）
   - 聖誕特別版預購禮追加：海報1張
@@ -676,14 +661,7 @@ Up〉描述女性複雜多端的內心感受，也為下一個主打曲埋下伏
 
 ## 參考資料
 
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
-[Category:TWICE音樂專輯](https://zh.wikipedia.org/wiki/Category:TWICE音樂專輯 "wikilink")
-[Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2016年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2016年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon數位下載週榜冠軍作品 "wikilink")
-[Category:2016年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon單曲月榜冠軍作品 "wikilink")
-[Category:2016年Gaon流媒體月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon流媒體月榜冠軍作品 "wikilink")
+[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:TWICE音樂專輯](https://zh.wikipedia.org/wiki/Category:TWICE音樂專輯 "wikilink") [Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink") [Category:2016年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon單曲週榜冠軍作品 "wikilink") [Category:2016年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2016年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon單曲月榜冠軍作品 "wikilink") [Category:2016年Gaon流媒體月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon流媒體月榜冠軍作品 "wikilink")
 
 1.
 2.

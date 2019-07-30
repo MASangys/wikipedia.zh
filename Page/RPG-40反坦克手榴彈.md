@@ -1,6 +1,4 @@
-**RPG-40反坦克手榴彈**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：**ручная
-противотанковая граната образца 1940 года,
-РПГ-40**，意為1940年型反坦克手榴彈）是一款[蘇聯於](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")1940年開發的反坦克手榴彈。
+**RPG-40反坦克手榴彈**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：**ручная противотанковая граната образца 1940 года, РПГ-40**，意為1940年型反坦克手榴彈）是一款[蘇聯於](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")1940年開發的反坦克手榴彈。
 
 ## 概述
 
@@ -8,8 +6,6 @@ RPG-40的反坦克能力來自於填充於其中的760公克炸藥在被點燃�
 
 ## 外部链接
 
-  - [Soviet Grenades at
-    LoneSentry.com](http://www.lonesentry.com/articles/sovgrenades/index.html)
+  - [Soviet Grenades at LoneSentry.com](http://www.lonesentry.com/articles/sovgrenades/index.html)
 
-[Category:反坦克手榴彈](https://zh.wikipedia.org/wiki/Category:反坦克手榴彈 "wikilink")
-[Category:武器小作品](https://zh.wikipedia.org/wiki/Category:武器小作品 "wikilink")
+[Category:反坦克手榴彈](https://zh.wikipedia.org/wiki/Category:反坦克手榴彈 "wikilink") [Category:武器小作品](https://zh.wikipedia.org/wiki/Category:武器小作品 "wikilink")

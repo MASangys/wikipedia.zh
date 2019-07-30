@@ -1,4 +1,4 @@
-**奧斯曼亞字母**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了用来拼写[索馬里語的奧斯曼亞字母](../Page/索馬里語.md "wikilink")。
+**奧斯曼亞字母**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了用来拼写[索馬里語](../Page/索馬里語.md "wikilink")的奧斯曼亞字母。
 
 <table>
 <tbody>

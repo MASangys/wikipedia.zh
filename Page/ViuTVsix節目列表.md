@@ -1,4 +1,4 @@
-本條目列出所有曾於[ViuTVsix播出的](../Page/ViuTVsix.md "wikilink")**電視節目**。
+本條目列出所有曾於[ViuTVsix](../Page/ViuTVsix.md "wikilink")播出的**電視節目**。
 
 除特別註明外，所有節目均為高清製作。
 
@@ -41,7 +41,7 @@
 23:30-00:00</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ViuTV_News" title="wikilink">ViuTV News</a></p></td>
 <td></td>
-<td><p><a href="../Page/路透社.md" title="wikilink">路透社製作</a></p></td>
+<td><p><a href="../Page/路透社.md" title="wikilink">路透社</a>製作</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年3月31日</p></td>
@@ -63,7 +63,7 @@
 21:00-21:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Weekly_Re-Viu" title="wikilink">Weekly Re-Viu</a></p></td>
 <td></td>
-<td><p><a href="../Page/路透社.md" title="wikilink">路透社製作</a></p></td>
+<td><p><a href="../Page/路透社.md" title="wikilink">路透社</a>製作</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年4月2日</p></td>
@@ -203,7 +203,7 @@ The Chief Executive's Question And Answer Session</p></td>
 <td><p>1月7日</p></td>
 <td><p>08:00-09:00</p></td>
 <td><p>電影頒獎禮</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第76屆金球獎" title="wikilink">第76屆金球獎頒獎典禮紅地氈盛況</a><br />
+<td><p><a href="../Page/第76屆金球獎.md" title="wikilink">第76屆金球獎</a>頒獎典禮紅地氈盛況<br />
 HFPA Presents Globes Red Carpet Live</p></td>
 <td><p>主持：</p></td>
 <td></td>
@@ -214,7 +214,7 @@ HFPA Presents Globes Red Carpet Live</p></td>
 <td><p>1月7日</p></td>
 <td><p>09:00-12:00</p></td>
 <td><p>電影頒獎禮</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第76屆金球獎" title="wikilink">第76屆金球獎頒獎典禮</a><br />
+<td><p><a href="../Page/第76屆金球獎.md" title="wikilink">第76屆金球獎</a>頒獎典禮<br />
 76th Annual Golden Globe Awards</p></td>
 <td><p>主持：</p></td>
 <td></td>
@@ -259,7 +259,7 @@ HFPA Presents Globes Red Carpet Live</p></td>
 <td></td>
 <td><p>演出：<a href="https://zh.wikipedia.org/wiki/Kylie_Minogue" title="wikilink">Kylie Minogue</a></p></td>
 <td></td>
-<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/英國" title="wikilink">英國</a><a href="../Page/獨立電視台.md" title="wikilink">獨立電視台</a>）／重播<a href="../Page/ViuTV.md" title="wikilink">ViuTV節目</a></p></td>
+<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/英國" title="wikilink">英國</a><a href="../Page/獨立電視台.md" title="wikilink">獨立電視台</a>）／重播<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>節目</p></td>
 </tr>
 <tr class="even">
 <td><p>3月31日</p></td>
@@ -288,7 +288,7 @@ HFPA Presents Globes Red Carpet Live</p></td>
 <td><p>MusiCares - Neil Young</p></td>
 <td><p>演出：<a href="https://zh.wikipedia.org/wiki/Neil_Young" title="wikilink">Neil Young</a></p></td>
 <td></td>
-<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國</a>）／重播<a href="../Page/ViuTV.md" title="wikilink">ViuTV節目</a>／同日11:15-12:30重播</p></td>
+<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國</a>）／重播<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>節目／同日11:15-12:30重播</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月9日</p></td>
@@ -297,7 +297,7 @@ HFPA Presents Globes Red Carpet Live</p></td>
 <td><p>Sam Smith - Bestival</p></td>
 <td><p>演出：<a href="../Page/山姆·史密斯_(歌手).md" title="wikilink">Sam Smith</a></p></td>
 <td></td>
-<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/瑞士" title="wikilink">瑞士</a><a href="https://zh.wikipedia.org/wiki/iConcerts" title="wikilink">iConcerts</a>）／重播<a href="../Page/ViuTV.md" title="wikilink">ViuTV節目</a>／5月1日11:30-12:00重播</p></td>
+<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/瑞士" title="wikilink">瑞士</a><a href="https://zh.wikipedia.org/wiki/iConcerts" title="wikilink">iConcerts</a>）／重播<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>節目／5月1日11:30-12:00重播</p></td>
 </tr>
 <tr class="even">
 <td><p>4月10日</p></td>
@@ -307,7 +307,7 @@ HFPA Presents Globes Red Carpet Live</p></td>
 <td><p>主持：<br />
 演出：<a href="https://zh.wikipedia.org/wiki/OneRepublic" title="wikilink">OneRepublic</a></p></td>
 <td></td>
-<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國</a><a href="../Page/DirecTV.md" title="wikilink">DirecTV</a>）／重播<a href="../Page/ViuTV.md" title="wikilink">ViuTV節目</a></p></td>
+<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國</a><a href="../Page/DirecTV.md" title="wikilink">DirecTV</a>）／重播<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>節目</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月14日</p></td>
@@ -325,7 +325,7 @@ HFPA Presents Globes Red Carpet Live</p></td>
 <td></td>
 <td><p>演出：<a href="https://zh.wikipedia.org/wiki/Robbie_Williams" title="wikilink">Robbie Williams</a></p></td>
 <td></td>
-<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/英國天空廣播" title="wikilink">英國天空廣播</a>）／重播<a href="../Page/ViuTV.md" title="wikilink">ViuTV節目</a></p></td>
+<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/英國天空廣播" title="wikilink">英國天空廣播</a>）／重播<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>節目</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月17日</p></td>
@@ -396,7 +396,7 @@ One Love Manchester</p></td>
 <td><p>Disclosure - Bestival</p></td>
 <td><p>演出：<a href="https://zh.wikipedia.org/wiki/Disclosure" title="wikilink">Disclosure</a></p></td>
 <td></td>
-<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/瑞士" title="wikilink">瑞士</a><a href="https://zh.wikipedia.org/wiki/iConcerts" title="wikilink">iConcerts</a>）／重播<a href="../Page/ViuTV.md" title="wikilink">ViuTV節目</a></p></td>
+<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/瑞士" title="wikilink">瑞士</a><a href="https://zh.wikipedia.org/wiki/iConcerts" title="wikilink">iConcerts</a>）／重播<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>節目</p></td>
 </tr>
 <tr class="even">
 <td><p>12月26日</p></td>
@@ -540,8 +540,7 @@ One Love Manchester</p></td>
 
 ### 西甲系列
 
-  - 賽季期間提供每月一場[西班牙甲組足球聯賽](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")（La
-    Liga）直播。
+  - 賽季期間提供每月一場[西班牙甲組足球聯賽](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")（La Liga）直播。
 
 <table>
 <tbody>
@@ -617,7 +616,7 @@ Bilbao vs Espanyol</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2018–19賽季西班牙足球甲級聯賽" title="wikilink">2018-19年</a></p></td>
+<td><p><a href="../Page/2018–19賽季西班牙足球甲級聯賽.md" title="wikilink">2018-19年</a></p></td>
 <td><p>2018年9月23日</p></td>
 <td><p>22:10-00:15</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/維拉利爾足球俱樂部" title="wikilink">維拉利爾</a> 對 <a href="https://zh.wikipedia.org/wiki/華倫西亞足球會" title="wikilink">華倫西亞</a><br />
@@ -951,14 +950,14 @@ Prudential Presents: Prudential Hong Kong Tennis Open 2018</p></td>
 <td><p>賽車</p></td>
 <td><p>2017年12月2日及3日</p></td>
 <td><p>11:00-12:00</p></td>
-<td><p>2017國際汽聯香港電訊<a href="../Page/電動方程式.md" title="wikilink">電動方程式賽車排位賽</a><br />
+<td><p>2017國際汽聯香港電訊<a href="../Page/電動方程式.md" title="wikilink">電動方程式</a>賽車排位賽<br />
 2017 FIA Formula E HKT Hong Kong E-Prix Qualifying</p></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/now_Sports_1" title="wikilink">now Sports 1同步播出</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2019年3月10日</p></td>
 <td><p>11:30-13:00</p></td>
-<td><p>2019香港電訊<a href="../Page/電動方程式.md" title="wikilink">電動方程式大賽排位賽</a><br />
+<td><p>2019香港電訊<a href="../Page/電動方程式.md" title="wikilink">電動方程式</a>大賽排位賽<br />
 2019 HKT Hong Kong E-Prix Qualifying</p></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/now_Sports_5" title="wikilink">now Sports 5同步播出</a></p></td>
 <td></td>
@@ -966,7 +965,7 @@ Prudential Presents: Prudential Hong Kong Tennis Open 2018</p></td>
 <tr class="odd">
 <td><p>2019年3月17日</p></td>
 <td><p>15:00-16:00</p></td>
-<td><p>2019香港電訊<a href="../Page/電動方程式.md" title="wikilink">電動方程式大賽精華</a><br />
+<td><p>2019香港電訊<a href="../Page/電動方程式.md" title="wikilink">電動方程式</a>大賽精華<br />
 2019 HKT Hong Kong E-Prix Highlights</p></td>
 <td></td>
 <td></td>
@@ -1004,5 +1003,4 @@ HBO PPV Boxing Live - Saul Canelo Alvarez vs. Gennady GGG Golovkin II</p></td>
 
 [Category:香港電視娛樂節目列表](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目列表 "wikilink")
 
-1.  [俄羅斯世界盃 2018 由 Now TV 獨家播！ViuTV 免費直播 19
-    場](https://ezone.ulifestyle.com.hk/article/1959424/%E4%BF%84%E7%BE%85%E6%96%AF%E4%B8%96%E7%95%8C%E7%9B%83%202018%20%E7%94%B1%20Now%20TV%20%E7%8D%A8%E5%AE%B6%E6%92%AD%EF%BC%81ViuTV%20%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%2019%20%E5%A0%B4)
+1.  [俄羅斯世界盃 2018 由 Now TV 獨家播！ViuTV 免費直播 19 場](https://ezone.ulifestyle.com.hk/article/1959424/%E4%BF%84%E7%BE%85%E6%96%AF%E4%B8%96%E7%95%8C%E7%9B%83%202018%20%E7%94%B1%20Now%20TV%20%E7%8D%A8%E5%AE%B6%E6%92%AD%EF%BC%81ViuTV%20%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%2019%20%E5%A0%B4)

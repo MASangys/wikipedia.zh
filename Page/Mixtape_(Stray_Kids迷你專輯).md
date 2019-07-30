@@ -1,12 +1,8 @@
-《**Mixtape**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray
-Kids在正式出道前所推出的先行專輯](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")（Pre-debut
-Album），由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，唱片公司為[Genie音樂](../Page/Genie音樂.md "wikilink")，2018年1月8日發行。\[1\]此張專輯共收錄七首歌，包含主打曲《Hellevator》在內，皆為Stray
-Kids在其生存節目中表演過的歌曲，全體成員皆參與作詞作曲，其中隊長方燦甚至還擔綱部分編曲，尚未出道便展露了高度的創作實力。
+《**Mixtape**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray Kids在正式出道前所推出的先行專輯](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")（Pre-debut Album），由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為[Genie音樂](../Page/Genie音樂.md "wikilink")，2018年1月8日發行。\[1\]此張專輯共收錄七首歌，包含主打曲《Hellevator》在內，皆為Stray Kids在其生存節目中表演過的歌曲，全體成員皆參與作詞作曲，其中隊長方燦甚至還擔綱部分編曲，尚未出道便展露了高度的創作實力。
 
 ## 背景
 
-2017年9月，JYP娛樂對外預告將推出新男團生存節目《[Stray
-Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》，9月26日釋出〈Hellevator〉M/V預告，並於10月6日節目開播前搶先公開了先行曲〈Hellevator〉M/V\[2\]，11月1日發行〈Hellevator〉單曲音源，而隨著節目的熱播，〈Hellevator〉MV也於11月底在YouTube突破1000萬點閱數\[3\]。
+2017年9月，JYP娛樂對外預告將推出新男團生存節目《[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》，9月26日釋出〈Hellevator〉M/V預告，並於10月6日節目開播前搶先公開了先行曲〈Hellevator〉M/V\[2\]，11月1日發行〈Hellevator〉單曲音源，而隨著節目的熱播，〈Hellevator〉MV也於11月底在YouTube突破1000萬點閱數\[3\]。
 
 12月19日節目最終回播出，Stray Kids達成9人全數出道的目標，開始為出道做準備。
 
@@ -29,8 +25,7 @@ Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》�
 ## 概要
 
 專輯《Mixtape》結合多種類型的[電子樂及](https://zh.wikipedia.org/wiki/電子樂 "wikilink")[Hip-hop曲風](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")，透過成員們自己寫成的歌詞，鮮活地展現出10幾歲少年特有的情懷。
-主打歌〈Hellevator〉由Hell（地獄）和Elevator（電梯）兩個單字組合而成，由作曲家ARMADILLO、RANGGA和Stray
-Kids成員方燦、彰彬、知城共同填詞譜曲，將自身處境化作歌詞，描寫每天埋頭苦練的練習生生活猶如地獄一般無止無盡，不但要面對不知能否出道的恐懼，還要遭受周邊人們不信任的冷言冷語，歌曲最後勉勵自己唯有通過不斷的努力，才能突破困境、搭上Hellevator逃離地獄，上升到頂樓，實現出道夢想，迎向光明未來。\[5\]
+主打歌〈Hellevator〉由Hell（地獄）和Elevator（電梯）兩個單字組合而成，由作曲家ARMADILLO、RANGGA和Stray Kids成員方燦、彰彬、知城共同填詞譜曲，將自身處境化作歌詞，描寫每天埋頭苦練的練習生生活猶如地獄一般無止無盡，不但要面對不知能否出道的恐懼，還要遭受周邊人們不信任的冷言冷語，歌曲最後勉勵自己唯有通過不斷的努力，才能突破困境、搭上Hellevator逃離地獄，上升到頂樓，實現出道夢想，迎向光明未來。\[5\]
 
 ### 發行版本
 
@@ -72,14 +67,14 @@ Kids成員方燦、彰彬、知城共同填詞譜曲，將自身處境化作歌�
 <td><p>專輯週榜</p></td>
 <td><p>2018年1月7日－13日</p></td>
 <td><p>#2</p></td>
-<td><p>60,769+[7]</p></td>
-<td><p>[8]</p></td>
+<td><p>72,318+</p></td>
+<td><p>[7]</p></td>
 </tr>
 <tr class="even">
 <td><p>專輯月榜</p></td>
 <td><p>2018年1月</p></td>
 <td><p>#7</p></td>
-<td><p>[9]</p></td>
+<td><p>[8]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -88,12 +83,21 @@ Kids成員方燦、彰彬、知城共同填詞譜曲，將自身處境化作歌�
 <td><p>專輯上半年榜</p></td>
 <td><p>2018年1月－6月</p></td>
 <td><p>#38</p></td>
-<td><p>[10]</p></td>
+<td><p>[9]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2019年1月－6月</p></td>
+<td><p>#122</p></td>
+<td><p>[10]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>專輯年榜</p></td>
 <td><p>2018年</p></td>
 <td><p>#71</p></td>
@@ -102,7 +106,7 @@ Kids成員方燦、彰彬、知城共同填詞譜曲，將自身處境化作歌�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>台灣</p></td>
 <td><p>5大金榜</p></td>
 <td><p>日韓榜</p></td>
@@ -111,7 +115,7 @@ Kids成員方燦、彰彬、知城共同填詞譜曲，將自身處境化作歌�
 <td><p>4.95%</p></td>
 <td><p>[12]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>美國</p></td>
 <td><p><a href="../Page/告示牌_(雜誌).md" title="wikilink">告示牌</a></p></td>
 <td><p>世界專輯榜</p></td>
@@ -120,7 +124,7 @@ Kids成員方燦、彰彬、知城共同填詞譜曲，將自身處境化作歌�
 <td></td>
 <td><p><ref>{{cite web|title=World Music: Top World Albums Chart|url=<a href="https://www.billboard.com/charts/world-albums/2018-01-20%7Cwebsite=billboard%7Carchiveurl=https://web.archive.org/web/20180118111656/https://www.billboard.com/charts/world-albums/2018-01-20%7Carchivedate=">https://www.billboard.com/charts/world-albums/2018-01-20|website=billboard|archiveurl=https://web.archive.org/web/20180118111656/https://www.billboard.com/charts/world-albums/2018-01-20|archivedate=</a> 2018-01-18</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>日本</p></td>
 <td><p><a href="../Page/Oricon公信榜.md" title="wikilink">Oricon公信榜</a></p></td>
 <td><p>專輯週榜</p></td>
@@ -129,7 +133,7 @@ Kids成員方燦、彰彬、知城共同填詞譜曲，將自身處境化作歌�
 <td><p>1,063+</p></td>
 <td><p>[13]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>紐西蘭</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Recorded_Music_NZ" title="wikilink">Recorded Music NZ</a></p></td>
 <td><p>熱門潛力專輯</p></td>
@@ -156,9 +160,7 @@ Kids成員方燦、彰彬、知城共同填詞譜曲，將自身處境化作歌�
 
   - [Stray Kids官方網站](http://straykids.jype.com/)
 
-[Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink")
-[Category:Stray_Kids音樂專輯](https://zh.wikipedia.org/wiki/Category:Stray_Kids音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink") [Category:Stray_Kids音樂專輯](https://zh.wikipedia.org/wiki/Category:Stray_Kids音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 

@@ -1,4 +1,4 @@
-**PeasSoft**（ピースソフト）是位在日本[千葉縣](../Page/千葉縣.md "wikilink")[市川市的](../Page/市川市.md "wikilink")[日本成人遊戲公司](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]過去曾經是（パートナーブランド）的加盟品牌之一。\[3\]
+**PeasSoft**（ピースソフト）是位在日本[千葉縣](../Page/千葉縣.md "wikilink")[市川市](../Page/市川市.md "wikilink")的[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")公司。\[1\]\[2\]過去曾經是（パートナーブランド）的加盟品牌之一。\[3\]
 
 ## 作品列表
 
@@ -132,11 +132,8 @@
   - [PeasSoft](https://web.archive.org/web/20151029183924/http://www.peassoft.com/)
 
   -
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:千葉縣公司](https://zh.wikipedia.org/wiki/Category:千葉縣公司 "wikilink")
+[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:千葉縣公司](https://zh.wikipedia.org/wiki/Category:千葉縣公司 "wikilink")
 
 1.  [プライバシーポリシー](http://www.peassoft.com/copyright2.html) PeasSoft
 2.  [有限会社ピースソフト](http://careerconnection.jp/review/711508-corpDetail.html)キャリコネ
-3.  [パートナーブランド
-    一覧](http://dqpb4416.hotcom-web.com/main/link/link2.html)とーししま総合　'１２
+3.  [パートナーブランド 一覧](http://dqpb4416.hotcom-web.com/main/link/link2.html)とーししま総合　'１２

@@ -1,6 +1,4 @@
-**This Week in
-Tech**（被稱為**TWiT**，「本週科技」）是一個每週[Podcast](https://zh.wikipedia.org/wiki/Podcast "wikilink")，[TWiT.tv網絡因此Podcast而得名](../Page/TWiT.tv.md "wikilink")。它是由和其他前員工主持，現時由傑森·霍威爾（Jason
-Howell）製作，內容主要為對於現時[互聯網及](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[家用電器](https://zh.wikipedia.org/wiki/家用電器 "wikilink")[科技的評測及討論](https://zh.wikipedia.org/wiki/科技 "wikilink")。TWiT於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[佩塔盧馬製作](https://zh.wikipedia.org/wiki/佩塔盧馬 "wikilink")，之前的6年則於附近的一家小屋中錄製\[1\]。此Podcast的網上[直播時間為](https://zh.wikipedia.org/wiki/直播 "wikilink")[太平洋標準時間每星期天下午](https://zh.wikipedia.org/wiki/太平洋標準時間 "wikilink")3時。
+**This Week in Tech**（被稱為**TWiT**，「本週科技」）是一個每週[Podcast](https://zh.wikipedia.org/wiki/Podcast "wikilink")，[TWiT.tv](../Page/TWiT.tv.md "wikilink")網絡因此Podcast而得名。它是由和其他前員工主持，現時由傑森·霍威爾（Jason Howell）製作，內容主要為對於現時[互聯網及](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[家用電器](https://zh.wikipedia.org/wiki/家用電器 "wikilink")[科技的評測及討論](https://zh.wikipedia.org/wiki/科技 "wikilink")。TWiT於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[佩塔盧馬製作](https://zh.wikipedia.org/wiki/佩塔盧馬 "wikilink")，之前的6年則於附近的一家小屋中錄製\[1\]。此Podcast的網上[直播時間為](https://zh.wikipedia.org/wiki/直播 "wikilink")[太平洋標準時間每星期天下午](https://zh.wikipedia.org/wiki/太平洋標準時間 "wikilink")3時。
 
 ## 格式
 
@@ -8,8 +6,7 @@ Howell）製作，內容主要為對於現時[互聯網及](https://zh.wikipedia
 
 ## 獎項
 
-TWiT在-{Podcast
-Alley}-、和[iTunes的Podcast中曾經排名第一](https://zh.wikipedia.org/wiki/iTunes "wikilink")。TWiT亦曾於中取得「人們的選擇」和「最佳科技播客」獎，以及在《[時代](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》的2006年十大Podcast中排名第6\[2\]\[3\]。它亦於2007年部落格獎中取得「年度最佳Podcast」獎\[4\]。
+TWiT在-{Podcast Alley}-、和[iTunes的Podcast中曾經排名第一](https://zh.wikipedia.org/wiki/iTunes "wikilink")。TWiT亦曾於中取得「人們的選擇」和「最佳科技播客」獎，以及在《[時代](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》的2006年十大Podcast中排名第6\[2\]\[3\]。它亦於2007年部落格獎中取得「年度最佳Podcast」獎\[4\]。
 
 ## 參見
 
@@ -26,5 +23,4 @@ Alley}-、和[iTunes的Podcast中曾經排名第一](https://zh.wikipedia.org/wi
 1.
 2.
 3.
-4.  [Best Podcast - The 2007 Weblog
-    Awards](http://2007.weblogawards.org/polls/best-podcast-1.php)
+4.  [Best Podcast - The 2007 Weblog Awards](http://2007.weblogawards.org/polls/best-podcast-1.php)

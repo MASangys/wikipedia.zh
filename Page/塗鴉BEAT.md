@@ -1,9 +1,8 @@
-《'''塗鴉BEAT
-'''》（）是[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")38張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2017年1月25日發行
+《'''塗鴉BEAT '''》（）是[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第38張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2017年1月25日發行
 
 ## 概要
 
-  - [佐佐木藏之介與成員](../Page/佐佐木藏之介.md "wikilink")[橫山裕雙主演電影](../Page/橫山裕.md "wikilink")『破門ふたりのヤクビョーガミ』主題曲
+  - [佐佐木藏之介](../Page/佐佐木藏之介.md "wikilink")與成員[橫山裕](../Page/橫山裕.md "wikilink")雙主演電影『破門ふたりのヤクビョーガミ』主題曲
 
 ## 收錄曲目
 
@@ -52,8 +51,4 @@
   - [Sony music (中文)](http://www.sonymusic.com.tw)
   - [INFINITY RECORDS](http://www.infinity-r.jp/)
 
-[Category:關西傑尼斯8歌曲](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8歌曲 "wikilink")
-[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink")
-[Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")
-[Category:2017年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
+[Category:關西傑尼斯8歌曲](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8歌曲 "wikilink") [Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink") [Category:2017年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Oricon單曲月榜冠軍作品 "wikilink") [Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")

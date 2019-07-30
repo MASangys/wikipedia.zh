@@ -1,4 +1,4 @@
-[HKUST-1的一些性质如下所述](../Page/HKUST-1.md "wikilink")。
+[HKUST-1](../Page/HKUST-1.md "wikilink")的一些性质如下所述。
 
 ## 基本信息
 

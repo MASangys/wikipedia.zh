@@ -1,9 +1,8 @@
-**香槟-阿登TGV站**（），又名**兰斯-伯扎讷站**（Gare de
-Reims-Bezannes），是法国的一个铁路车站，位于法国城市[兰斯](../Page/兰斯.md "wikilink")（Reims）附近。
+**香槟-阿登TGV站**（），又名**兰斯-伯扎讷站**（Gare de Reims-Bezannes），是法国的一个铁路车站，位于法国城市[兰斯](../Page/兰斯.md "wikilink")（Reims）附近。
 
 ## 位置
 
-香槟-阿登TGV站位于法国东北部，[伯扎讷市镇范围内](https://zh.wikipedia.org/wiki/伯扎讷 "wikilink")，距离[兰斯市区大约](../Page/兰斯.md "wikilink")7公里。车站大致呈东西走向，开口朝北。
+香槟-阿登TGV站位于法国东北部，[伯扎讷市镇范围内](https://zh.wikipedia.org/wiki/伯扎讷 "wikilink")，距离[兰斯](../Page/兰斯.md "wikilink")市区大约7公里。车站大致呈东西走向，开口朝北。
 
 香槟-阿登TGV站共设有3个站台，其中最北侧的一个可直接与站房连接，但很少使用；中部的那个是一个岛式站台，连接北侧的普速场和下行方向的高速铁路，由法国西部城市或巴黎前往兰斯方向以及由兰斯前往斯特拉斯堡方向的乘客可实现同台换乘；最南侧的一个为侧式站台，仅供上行方向的高铁列车停靠，可通过天桥连接，设有自动升降梯。
 
@@ -112,12 +111,11 @@ Reims-Bezannes），是法国的一个铁路车站，位于法国城市[兰斯](
 
 ### 大巴车
 
-香槟-阿登TGV站对应的大巴车上下车地点位于车站前方的广场上。欧洲各主要客运公司(Flixbus、Isilines等)提供巴黎—兰斯—梅斯—斯特拉斯堡/萨尔布吕肯线路的大巴车\[2\]。由[马恩省政府提供的省内线路客运大巴车则需要到](../Page/马恩省.md "wikilink")[兰斯市区内乘坐](../Page/兰斯.md "wikilink")。
+香槟-阿登TGV站对应的大巴车上下车地点位于车站前方的广场上。欧洲各主要客运公司(Flixbus、Isilines等)提供巴黎—兰斯—梅斯—斯特拉斯堡/萨尔布吕肯线路的大巴车\[2\]。由[马恩省](../Page/马恩省.md "wikilink")政府提供的省内线路客运大巴车则需要到[兰斯](../Page/兰斯.md "wikilink")市区内乘坐。
 
 ### 市内交通
 
-香槟-阿登TGV站对应的公交车站名称为"**Gare Champagne
-TGV**"，停靠该站的公交线路包括兰斯有轨电车B线，以及兰斯公交12路和13路\[3\]。
+香槟-阿登TGV站对应的公交车站名称为"**Gare Champagne TGV**"，停靠该站的公交线路包括兰斯有轨电车B线，以及兰斯公交12路和13路\[3\]。
 
 ### 社会车辆
 
@@ -153,8 +151,7 @@ TGV**"，停靠该站的公交线路包括兰斯有轨电车B线，以及兰斯�
 
 ## 参考文献
 
-[Category:馬恩省鐵路車站](https://zh.wikipedia.org/wiki/Category:馬恩省鐵路車站 "wikilink")
-[Category:2007年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2007年啟用的鐵路車站 "wikilink")
+[Category:馬恩省鐵路車站](https://zh.wikipedia.org/wiki/Category:馬恩省鐵路車站 "wikilink") [Category:2007年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2007年啟用的鐵路車站 "wikilink")
 
 1.
 2.

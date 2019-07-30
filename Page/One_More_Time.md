@@ -1,6 +1,4 @@
-《**One More
-Time**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[TWICE的首張日語單曲](https://zh.wikipedia.org/wiki/TWICE "wikilink")，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，[日本華納音樂發行](../Page/日本華納音樂.md "wikilink")，於2017年10月18日推出，主打歌為〈One
-More Time〉。
+《**One More Time**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[TWICE的首張日語單曲](https://zh.wikipedia.org/wiki/TWICE "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，[日本華納音樂](../Page/日本華納音樂.md "wikilink")發行，於2017年10月18日推出，主打歌為〈One More Time〉。
 
 ## 背景
 
@@ -21,7 +19,7 @@ More Time〉。
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量     | 總銷量                                                 | 停留時間 | 參考資料 |-| | 單曲日榜 | \#1 | 94,957 | 265,626+ | 47週 |  |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量     | 總銷量                                                 | 停留時間 | 參考資料 |-| | 單曲日榜 | \#1 | 94,957 | 265,626+ | 47週 |  |
 | ---------------------------------------- | ---- | ------- | --------------------------------------------------- | ---- | -------- | :--- | --- | ------ | -------- | --- |  |
 | 單曲週榜                                     | \#1  | 200,751 | [1](https://www.oricon.co.jp/rank/js/w/2017-10-30/) |      |          |      |     |        |          |     |  |
 | 單曲月榜                                     | \#3  | 231,663 | [2](https://www.oricon.co.jp/rank/js/m/2017-10/)    |      |          |      |     |        |          |     |  |
@@ -47,12 +45,7 @@ More Time〉。
   -
   -
   -
-[Category:2017年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink")
-[Category:TWICE](https://zh.wikipedia.org/wiki/Category:TWICE "wikilink")
-[Category:TWICE單曲](https://zh.wikipedia.org/wiki/Category:TWICE單曲 "wikilink")
+[Category:2017年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Oricon單曲週榜冠軍作品 "wikilink") [Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink") [Category:TWICE](https://zh.wikipedia.org/wiki/Category:TWICE "wikilink") [Category:TWICE單曲](https://zh.wikipedia.org/wiki/Category:TWICE單曲 "wikilink")
 
-1.  ['One More Time' SINGLE
-    Detail](http://www.twicejapan.com/discography/detail/16/) TWICE
-    JAPAN OFFICIAL WEBSITE. 2015-09-18
+1.  ['One More Time' SINGLE Detail](http://www.twicejapan.com/discography/detail/16/) TWICE JAPAN OFFICIAL WEBSITE. 2015-09-18
 2.  只限TWICE官方粉絲俱樂部“ONCE JAPAN”會員限量購買

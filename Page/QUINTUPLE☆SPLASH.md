@@ -1,4 +1,4 @@
-《**QUINTUPLE☆SPLASH**》是日本[Parasol於](../Page/Parasol.md "wikilink")2015年12月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，以女學校為背景描敘「校園青春」和「泳衣萌」的戀愛故事。\[3\]
+《**QUINTUPLE☆SPLASH**》是日本[Parasol](../Page/Parasol.md "wikilink")於2015年12月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，以女學校為背景描敘「校園青春」和「泳衣萌」的戀愛故事。\[3\]
 
 ## 故事
 
@@ -19,8 +19,7 @@
   - 守谷亞美（守谷 亜美，聲優：春乃いろは\[6\]）
     生日：6月2日，血型：A型，身高：141cm，三圍：B68（AA）/W54/H69
     3年級學生，白帆女子學園游泳部的部長。
-  - 三郷澪（三郷
-    みお，聲優：[星咲イリア](https://zh.wikipedia.org/wiki/星咲イリア "wikilink")\[7\]）
+  - 三郷澪（三郷 みお，聲優：[星咲イリア](https://zh.wikipedia.org/wiki/星咲イリア "wikilink")\[7\]）
     生日：2月10日，血型：B型，身高：147cm，三圍：B71（B）/W53/H74
     2年級學生，青陵學園學生，咲臣和巴的青梅竹馬。
   - 美野里巴（聲優：小鳥居夕花\[8\]）
@@ -65,11 +64,7 @@
   - [Parasol](http://www.parasol-soft.com/)
   - [遊戲官方網站](http://www.parasol-soft.com/product/quintuple/index.html)
 
-[Category:2015年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2015年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
+[Category:2015年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2015年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
 
 1.
 

@@ -1,6 +1,4 @@
-**SIKART**是[瑞士和](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[列支敦斯登就](../Page/列支敦斯登.md "wikilink")[視覺藝術的一个](../Page/視覺藝術.md "wikilink")和数据库。它由（SIAR）在线发布。在概念和内容上，它是SIAR在1998年的《Biographical
-Lexicon of Swiss
-Art》（瑞士艺术传记辞典）的扩展和不断更新的在线版本\[1\]，其中包含1.2万个短篇条目和1100个详细的个人介绍。\[2\]
+**SIKART**是[瑞士和](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[列支敦斯登](../Page/列支敦斯登.md "wikilink")就[視覺藝術](../Page/視覺藝術.md "wikilink")的一个和数据库。它由（SIAR）在线发布。在概念和内容上，它是SIAR在1998年的《Biographical Lexicon of Swiss Art》（瑞士艺术传记辞典）的扩展和不断更新的在线版本\[1\]，其中包含1.2万个短篇条目和1100个详细的个人介绍。\[2\]
 
 ## 范围
 
@@ -27,11 +25,8 @@ SIKART由[瑞士联邦](https://zh.wikipedia.org/wiki/瑞士 "wikilink")、[瑞�
   - [SIKART](http://www.sikart.ch)
   - [Swiss Institute for Art Research](http://sik-isea.ch/default.aspx)
 
-[Category:艺术网站](https://zh.wikipedia.org/wiki/Category:艺术网站 "wikilink")
-[Category:在线百科全书](https://zh.wikipedia.org/wiki/Category:在线百科全书 "wikilink")
-[Category:多語言網站](https://zh.wikipedia.org/wiki/Category:多語言網站 "wikilink")
+[Category:艺术网站](https://zh.wikipedia.org/wiki/Category:艺术网站 "wikilink") [Category:在线百科全书](https://zh.wikipedia.org/wiki/Category:在线百科全书 "wikilink") [Category:多語言網站](https://zh.wikipedia.org/wiki/Category:多語言網站 "wikilink")
 
 1.
 2.
-3.  [Laufende
-    Forschugsprojekte](http://www2.unil.ch/isea/3Services/sprojSIKonline_deu.htm)
+3.  [Laufende Forschugsprojekte](http://www2.unil.ch/isea/3Services/sprojSIKonline_deu.htm)

@@ -1,5 +1,4 @@
-《**Dear My
-Friends**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN自](https://zh.wikipedia.org/wiki/tvN "wikilink")2016年5月13日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，同時本劇也為tvN創社10周年特別企劃，由《[那年冬天風在吹](../Page/那年冬天風在吹.md "wikilink")》、《[沒關係，是愛情啊](../Page/沒關係，是愛情啊.md "wikilink")》[盧熙京作家與](../Page/盧熙京.md "wikilink")《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink")》、《[我的秘密飯店](../Page/我的秘密飯店.md "wikilink")》[洪鍾燦導演聯手打造的作品](../Page/洪鍾燦.md "wikilink")。“人生還沒有結束，我們還活著”黃昏青春的人生禮贊，走向人生盡頭的朋友們之間的故事。此劇集集合多位演技深厚的資深演員共同擔綱演出，為罕有以老齡人生的故事作題材的電視劇。
+《**Dear My Friends**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN自](https://zh.wikipedia.org/wiki/tvN "wikilink")2016年5月13日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，同時本劇也為tvN創社10周年特別企劃，由《[那年冬天風在吹](../Page/那年冬天風在吹.md "wikilink")》、《[沒關係，是愛情啊](../Page/沒關係，是愛情啊.md "wikilink")》[盧熙京](../Page/盧熙京.md "wikilink")作家與《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink")》、《[我的秘密飯店](../Page/我的秘密飯店.md "wikilink")》[洪鍾燦](../Page/洪鍾燦.md "wikilink")導演聯手打造的作品。“人生還沒有結束，我們還活著”黃昏青春的人生禮贊，走向人生盡頭的朋友們之間的故事。此劇集集合多位演技深厚的資深演員共同擔綱演出，為罕有以老齡人生的故事作題材的電視劇。
 
 ## 演員陣容
 
@@ -683,7 +682,7 @@ Friends**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[t
 
 ## 其他
 
-  - [高賢廷以每集](../Page/高賢廷.md "wikilink")6000萬韓元的片酬出演此劇，打破[金惠秀在](../Page/金惠秀.md "wikilink")《[Signal](../Page/Signal_\(電視劇\).md "wikilink")》的紀錄（每集5500萬韓元），成為tvN史上演出費最高者。
+  - [高賢廷](../Page/高賢廷.md "wikilink")以每集6000萬韓元的片酬出演此劇，打破[金惠秀](../Page/金惠秀.md "wikilink")在《[Signal](../Page/Signal_\(電視劇\).md "wikilink")》的紀錄（每集5500萬韓元），成為tvN史上演出費最高者。
 
 ## 腳註
 
@@ -691,10 +690,7 @@ Friends**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[t
 
   - [韓國tvN官方網站](http://program.interest.me/tvn/dearmyfriends)
 
-[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
-1.  [AGB 닐슨 미디어리서치 케이블
-    시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
-2.  [디어 마이 프렌즈 : 네이버
-    통합검색](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&oquery=%EA%B5%BF+%EC%99%80%EC%9D%B4%ED%94%84&ie=utf8&query=%EB%94%94%EC%96%B4+%EB%A7%88%EC%9D%B4+%ED%94%84%EB%A0%8C%EC%A6%88)
+1.  [AGB 닐슨 미디어리서치 케이블 시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
+2.  [디어 마이 프렌즈 : 네이버 통합검색](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&oquery=%EA%B5%BF+%EC%99%80%EC%9D%B4%ED%94%84&ie=utf8&query=%EB%94%94%EC%96%B4+%EB%A7%88%EC%9D%B4+%ED%94%84%EB%A0%8C%EC%A6%88)

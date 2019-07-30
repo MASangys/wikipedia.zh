@@ -1,12 +1,8 @@
-《**LoveLive\!
-Sunshine\!\!**》（）是基于同名策划延伸出来的、[日昇动画制作的改编](https://zh.wikipedia.org/wiki/日昇动画 "wikilink")[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")，也就是Lovelive\!系列
-的 "第二作"
-，第1期于2016年7月2日开始播出\[1\]。2017年2月26日，官方公布了第2期制作决定的消息，於2017年10月7日[東京都會電視台](../Page/東京都會電視台.md "wikilink")、[日本BS放送等電視台開始播出](../Page/日本BS放送.md "wikilink")\[2\]。後於2017年12月30日當天所播出的第2期最後1話結尾時正式公佈本作全新劇場版的消息。上映日期于3rd第一天正式宣布預定於2019年1月4日播出。
+《**LoveLive\! Sunshine\!\!**》（）是基于同名策划延伸出来的、[日昇动画制作的改编](https://zh.wikipedia.org/wiki/日昇动画 "wikilink")[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")，也就是Lovelive\!系列 的 "第二作" ，第1期于2016年7月2日开始播出\[1\]。2017年2月26日，官方公布了第2期制作决定的消息，於2017年10月7日[東京都會電視台](../Page/東京都會電視台.md "wikilink")、[日本BS放送](../Page/日本BS放送.md "wikilink")等電視台開始播出\[2\]。後於2017年12月30日當天所播出的第2期最後1話結尾時正式公佈本作全新劇場版的消息。上映日期于3rd第一天正式宣布預定於2019年1月4日播出。
 
 ## 故事情节
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Nagaisaki_junior_high_school_s3.jpg "fig:缩略图")
-讲述了以高海千歌为首的“浦之星女子学院”的九位少女，凭借校园偶像[Aqours的身份以光芒为目标勇往直前的故事](../Page/Aqours.md "wikilink")\[3\]。
+[缩略图](https://zh.wikipedia.org/wiki/File:Nagaisaki_junior_high_school_s3.jpg "fig:缩略图") 讲述了以高海千歌为首的“浦之星女子学院”的九位少女，凭借校园偶像[Aqours](../Page/Aqours.md "wikilink")的身份以光芒为目标勇往直前的故事\[3\]。
 
 ## 登场人物
 
@@ -28,9 +24,7 @@ Sunshine\!\!**》（）是基于同名策划延伸出来的、[日昇动画制�
   - 音乐：[加藤达也](https://zh.wikipedia.org/wiki/加藤达也 "wikilink")
   - 音乐制作：[Lantis](../Page/Lantis.md "wikilink")
   - 动画制作：[日昇动画](https://zh.wikipedia.org/wiki/日昇动画 "wikilink")
-  - 制作：2016 Project LoveLive\!
-    Sunshine\!\!（日昇动画、[万代影视](https://zh.wikipedia.org/wiki/万代影视 "wikilink")、Lantis、[武士道](../Page/武士道_\(公司\).md "wikilink")、[ASCII
-    Media Works](../Page/ASCII_Media_Works.md "wikilink")）\[4\]（第1期）
+  - 制作：2016 Project LoveLive\! Sunshine\!\!（日昇动画、[万代影视](https://zh.wikipedia.org/wiki/万代影视 "wikilink")、Lantis、[武士道](../Page/武士道_\(公司\).md "wikilink")、[ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")）\[4\]（第1期）
     2017 Project LoveLive\! Sunshine\!\!（第2期）
 
 ## 主題曲
@@ -50,8 +44,7 @@ Sunshine\!\!**》（）是基于同名策划延伸出来的、[日昇动画制�
 
 <!-- end list -->
 
-  - 片尾曲《》*（[从诉说梦想到歌唱梦想](../Page/从诉说梦想到歌唱梦想.md "wikilink")）*（第2話 -
-    第8話、第10話 - 第12話）
+  - 片尾曲《》*（[从诉说梦想到歌唱梦想](../Page/从诉说梦想到歌唱梦想.md "wikilink")）*（第2話 - 第8話、第10話 - 第12話）
     作詞：畑亞貴，作曲、編曲：
     歌（第2話）：高海千歌（伊波杏树）、樱内梨子（逢田梨香子）、渡边曜（齐藤朱夏）
     歌（第3、12話）：Aqours
@@ -68,8 +61,7 @@ Sunshine\!\!**》（）是基于同名策划延伸出来的、[日昇动画制�
   - 片頭曲《》*（[未來的我們早已知曉](../Page/未來的我們早已知曉.md "wikilink")）*（第1話 - 第12話）
     作詞：畑亞貴，作曲：光増ハジメ，編曲：EFFY
     歌：Aqours
-  - 片尾曲《》*（[勇氣在哪？在你的內心！](../Page/勇氣在哪？在你的內心！.md "wikilink")）*（第1話 -
-    第2話、第4話 - 第5話、第7話 - 第8話、第10話 - 第11話）
+  - 片尾曲《》*（[勇氣在哪？在你的內心！](../Page/勇氣在哪？在你的內心！.md "wikilink")）*（第1話 - 第2話、第4話 - 第5話、第7話 - 第8話、第10話 - 第11話）
     作詞：畑亞貴，作曲：、，編曲：小高光太郎
     歌（第1話）：高海千歌（伊波杏树）、樱内梨子（逢田梨香子）、渡边曜（齐藤朱夏）
     歌（第2話、第7话）：Aqours
@@ -83,8 +75,7 @@ Sunshine\!\!**》（）是基于同名策划延伸出来的、[日昇动画制�
 
 ### 第1期
 
-:;
-《[START:DASH\!\!](https://zh.wikipedia.org/wiki/START:DASH!! "wikilink")》（第1话）
+:; 《[START:DASH\!\!](https://zh.wikipedia.org/wiki/START:DASH!! "wikilink")》（第1话）
 
   -
 
@@ -92,8 +83,7 @@ Sunshine\!\!**》（）是基于同名策划延伸出来的、[日昇动画制�
         作詞：畑亞貴，作曲、編曲：
         歌：[μ's](https://zh.wikipedia.org/wiki/μ's "wikilink")
 
-:;《》*（[下定決心Hand in
-Hand](https://zh.wikipedia.org/wiki/下定決心Hand_in_Hand/最喜歡的話就沒問題！ "wikilink")）*（第1话）
+:;《》*（[下定決心Hand in Hand](https://zh.wikipedia.org/wiki/下定決心Hand_in_Hand/最喜歡的話就沒問題！ "wikilink")）*（第1话）
 
   -
 
@@ -110,9 +100,7 @@ Hand](https://zh.wikipedia.org/wiki/下定決心Hand_in_Hand/最喜歡的話就�
         作词：畑亞貴，作曲、編曲：
         歌：樱内梨子（逢田梨香子）
 
-:;《》
-*（[最喜歡的話就沒問題！](https://zh.wikipedia.org/wiki/下定決心Hand_in_Hand/最喜歡的話就沒問題！ "wikilink")）*
-（第3话）
+:;《》 *（[最喜歡的話就沒問題！](https://zh.wikipedia.org/wiki/下定決心Hand_in_Hand/最喜歡的話就沒問題！ "wikilink")）* （第3话）
 
   -
 
@@ -134,8 +122,7 @@ Hand](https://zh.wikipedia.org/wiki/下定決心Hand_in_Hand/最喜歡的話就�
 
       -
         作词：畑亞貴，作曲、编曲：河田贵央
-        歌：Saint
-        Snow（鹿角圣良（[田野麻美](../Page/田野麻美.md "wikilink")）、鹿角理亚（[佐藤日向](../Page/佐藤日向.md "wikilink")））
+        歌：Saint Snow（鹿角圣良（[田野麻美](../Page/田野麻美.md "wikilink")）、鹿角理亚（[佐藤日向](../Page/佐藤日向.md "wikilink")））
 
 :;《》*（[不成熟的DREAMER](https://zh.wikipedia.org/wiki/想用梦照亮夜空/不成熟的DREAMER "wikilink")）*（第9話）
 
@@ -154,9 +141,7 @@ Hand](https://zh.wikipedia.org/wiki/下定決心Hand_in_Hand/最喜歡的話就�
         作词：畑亞貴，作曲、編曲：佐伯高志
         歌：高海千歌（伊波杏樹）、松浦果南（諏訪七香）、黑澤黛雅（小宮有紗）、渡邊曜（齊藤朱夏）、津島善子（小林愛香）、國木田花丸（高槻加奈子）、小原鞠莉（鈴木愛奈）、黑澤露比（降幡愛）
 
-:; 《[MIRAI
-TICKET](https://zh.wikipedia.org/wiki/思念合而為一吧/MIRAI_TICKET "wikilink")》
-（第13話）
+:; 《[MIRAI TICKET](https://zh.wikipedia.org/wiki/思念合而為一吧/MIRAI_TICKET "wikilink")》 （第13話）
 
   -
 
@@ -167,9 +152,7 @@ TICKET](https://zh.wikipedia.org/wiki/思念合而為一吧/MIRAI_TICKET "wikili
 
 ### 第2期
 
-:;
-《[MY舞☆TONIGHT](https://zh.wikipedia.org/wiki/MY舞☆TONIGHT/MIRACLE_WAVE "wikilink")》
-（第3話）
+:; 《[MY舞☆TONIGHT](https://zh.wikipedia.org/wiki/MY舞☆TONIGHT/MIRACLE_WAVE "wikilink")》 （第3話）
 
   -
 
@@ -194,9 +177,7 @@ TICKET](https://zh.wikipedia.org/wiki/思念合而為一吧/MIRAI_TICKET "wikili
         作词：畑亞貴，作曲、编曲：
         歌：Saint Snow
 
-:; 《[MIRACLE
-WAVE](https://zh.wikipedia.org/wiki/MY舞☆TONIGHT/MIRACLE_WAVE "wikilink")》
-（第6話 - 第7話）
+:; 《[MIRACLE WAVE](https://zh.wikipedia.org/wiki/MY舞☆TONIGHT/MIRACLE_WAVE "wikilink")》 （第6話 - 第7話）
 
   -
 
@@ -230,8 +211,7 @@ WAVE](https://zh.wikipedia.org/wiki/MY舞☆TONIGHT/MIRACLE_WAVE "wikilink")》
         歌：Saint Aqours Snow
         第9話作為片尾曲使用，同時也作為本話的標題使用。
 
-:; 《[WATER BLUE NEW
-WORLD](https://zh.wikipedia.org/wiki/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES "wikilink")》（第12話）
+:; 《[WATER BLUE NEW WORLD](https://zh.wikipedia.org/wiki/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES "wikilink")》（第12話）
 
   -
 
@@ -248,8 +228,7 @@ WORLD](https://zh.wikipedia.org/wiki/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES "wik
         作詞：畑亞貴，作曲：伊藤賢、光増ハジメ，編曲：EFFY
         歌：Aqours
 
-:; 《[WONDERFUL
-STORIES](https://zh.wikipedia.org/wiki/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES "wikilink")》（第13話）
+:; 《[WONDERFUL STORIES](https://zh.wikipedia.org/wiki/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES "wikilink")》（第13話）
 
   -
 
@@ -1166,14 +1145,9 @@ STORIES](https://zh.wikipedia.org/wiki/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES "w
 ## 劇場版動畫
 
   -
-    主條目：[Love Live\! Sunshine\!\!
-    學園偶像電影\~彩虹彼端\~](../Page/Love_Live!_Sunshine!!_學園偶像電影~彩虹彼端~.md "wikilink")
+    主條目：[Love Live\! Sunshine\!\! 學園偶像電影\~彩虹彼端\~](../Page/Love_Live!_Sunshine!!_學園偶像電影~彩虹彼端~.md "wikilink")
 
-於2017年12月30日當天所播出的第2季最後1話結尾時正式公佈本作全新劇場版的消息。
-後於3rd第一天正式宣布預定於2019年1月4日播出，標題為『The
-School Idol Movie Over The
-Rainbow』。泰國預計於2019年1月27日上映，台灣則預計於2019年4月4日上映，由[群英社代理](../Page/群英社.md "wikilink")，中文翻譯為「Love
-Live\! Sunshine\!\! 學園偶像電影\~彩虹彼端\~」\[5\]。香港及澳門則於2019年3月28日上映\[6\]。
+於2017年12月30日當天所播出的第2季最後1話結尾時正式公佈本作全新劇場版的消息。 後於3rd第一天正式宣布預定於2019年1月4日播出，標題為『The School Idol Movie Over The Rainbow』。泰國預計於2019年1月27日上映，台灣則預計於2019年4月4日上映，由[群英社](../Page/群英社.md "wikilink")代理，中文翻譯為「Love Live\! Sunshine\!\! 學園偶像電影\~彩虹彼端\~」\[5\]。香港及澳門則於2019年3月28日上映\[6\]。
 
 ## 出版書籍
 
@@ -1217,24 +1191,14 @@ Live\! Sunshine\!\! 學園偶像電影\~彩虹彼端\~」\[5\]。香港及澳門
 
 ## 外部链接
 
-  - [電視動畫「LoveLive\!
-    Sunshine\!\!」動畫公式官網](http://www.lovelive-anime.jp/uranohoshi/)
+  - [電視動畫「LoveLive\! Sunshine\!\!」動畫公式官網](http://www.lovelive-anime.jp/uranohoshi/)
 
   -
-  - [電視動畫「LoveLive\! Sunshine\!\!」 Official Worldwide
-    Website](http://www.lovelive-anime.jp/uranohoshi/worldwide/)
+  - [電視動畫「LoveLive\! Sunshine\!\!」 Official Worldwide Website](http://www.lovelive-anime.jp/uranohoshi/worldwide/)
 
-  - [電視動畫「LoveLive\! Sunshine\!\!」-My-Cartoon
-    中文官網](http://newweb.my-cartoon.com.tw/lovelive/uranohoshi/)
+  - [電視動畫「LoveLive\! Sunshine\!\!」-My-Cartoon 中文官網](http://newweb.my-cartoon.com.tw/lovelive/uranohoshi/)
 
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:Love_Live\!](https://zh.wikipedia.org/wiki/Category:Love_Live! "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
-[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink")
-[Category:NHK動畫](https://zh.wikipedia.org/wiki/Category:NHK動畫 "wikilink")
-[Category:AcFun外购动画](https://zh.wikipedia.org/wiki/Category:AcFun外购动画 "wikilink")
-[Category:偶像題材動畫](https://zh.wikipedia.org/wiki/Category:偶像題材動畫 "wikilink")
-[Category:静冈县背景作品](https://zh.wikipedia.org/wiki/Category:静冈县背景作品 "wikilink")
+[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:Love_Live\!](https://zh.wikipedia.org/wiki/Category:Love_Live! "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:NHK動畫](https://zh.wikipedia.org/wiki/Category:NHK動畫 "wikilink") [Category:AcFun外购动画](https://zh.wikipedia.org/wiki/Category:AcFun外购动画 "wikilink") [Category:偶像題材動畫](https://zh.wikipedia.org/wiki/Category:偶像題材動畫 "wikilink") [Category:静冈县背景作品](https://zh.wikipedia.org/wiki/Category:静冈县背景作品 "wikilink")
 
 1.
 2.

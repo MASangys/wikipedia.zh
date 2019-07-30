@@ -1,4 +1,4 @@
-**可以唷**（****），是[MP魔幻力量解散後](../Page/MP魔幻力量.md "wikilink")，[鼓鼓個人首張全創作專輯](https://zh.wikipedia.org/wiki/鼓鼓 "wikilink")，2016年12月3日正式發行\[1\]。
+**可以唷**（****），是[MP魔幻力量](../Page/MP魔幻力量.md "wikilink")解散後，[鼓鼓個人首張全創作專輯](https://zh.wikipedia.org/wiki/鼓鼓 "wikilink")，2016年12月3日正式發行\[1\]。
 
 ## 音樂錄影帶
 
@@ -17,11 +17,6 @@
 
 ## 外部連結
 
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:鼓鼓音樂專輯](https://zh.wikipedia.org/wiki/Category:鼓鼓音樂專輯 "wikilink")
-[Category:相信音樂製作音樂專輯](https://zh.wikipedia.org/wiki/Category:相信音樂製作音樂專輯 "wikilink")
+[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:鼓鼓音樂專輯](https://zh.wikipedia.org/wiki/Category:鼓鼓音樂專輯 "wikilink") [Category:相信音樂製作音樂專輯](https://zh.wikipedia.org/wiki/Category:相信音樂製作音樂專輯 "wikilink")
 
 1.

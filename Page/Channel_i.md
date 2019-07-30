@@ -1,12 +1,10 @@
-**Channel
-i**是香港一個網絡媒體平台，由[黃台仰及](../Page/黃台仰.md "wikilink")[梁天琦於](../Page/梁天琦.md "wikilink")2015年創辦，與[本土民主前線關係密切](../Page/本土民主前線.md "wikilink")，但現在負責人身份成謎。
+**Channel i**是香港一個網絡媒體平台，由[黃台仰](../Page/黃台仰.md "wikilink")及[梁天琦](../Page/梁天琦.md "wikilink")於2015年創辦，與[本土民主前線](../Page/本土民主前線.md "wikilink")關係密切，但現在負責人身份成謎。
 
 「Channel i」亦是本民前用作接受捐款及處理其財務的公司註冊名字\[1\]\[2\]\[3\]。
 
 「Channel i」每晚都有直播節目，每日2小時，主打製作政治、時事、足球、飲食、打機、音樂節目。於2016年2月15日至5月16日一度停播。
 
-由於本民前的兩位代表人物被受[政治逼害](https://zh.wikipedia.org/wiki/政治逼害 "wikilink")\[4\]分別[棄保潛逃及被判刑](../Page/棄保潛逃.md "wikilink")，導致Channel
-i失去兩位重要的主持人。
+由於本民前的兩位代表人物被受[政治逼害](https://zh.wikipedia.org/wiki/政治逼害 "wikilink")\[4\]分別[棄保潛逃](../Page/棄保潛逃.md "wikilink")及被判刑，導致Channel i失去兩位重要的主持人。
 
 ## 直播節目時間表
 
@@ -38,12 +36,12 @@ i失去兩位重要的主持人。
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/梁天琦.md" title="wikilink">梁天琦</a></p></td>
-<td><p><a href="../Page/本土民主前線.md" title="wikilink">本土民主前線發言人</a></p></td>
+<td><p><a href="../Page/本土民主前線.md" title="wikilink">本土民主前線</a>發言人</p></td>
 <td><p>本土民主前線</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/黃台仰.md" title="wikilink">黃台仰</a></p></td>
-<td><p><a href="../Page/本土民主前線.md" title="wikilink">本土民主前線前發言人</a></p></td>
+<td><p><a href="../Page/本土民主前線.md" title="wikilink">本土民主前線</a>前發言人</p></td>
 <td><p>本土民主前線<br />
 馬雜燴(已停播)</p></td>
 </tr>
@@ -59,12 +57,12 @@ i失去兩位重要的主持人。
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/張若非" title="wikilink">張若非</a> 呀飛</p></td>
-<td><p><a href="../Page/學生動源.md" title="wikilink">學生動源召集人</a></p></td>
+<td><p><a href="../Page/學生動源.md" title="wikilink">學生動源</a>召集人</p></td>
 <td><p>學生動源</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/鍾翰林.md" title="wikilink">鍾翰林</a> Tony</p></td>
-<td><p><a href="../Page/學生動源.md" title="wikilink">學生動源召集人</a></p></td>
+<td><p><a href="../Page/學生動源.md" title="wikilink">學生動源</a>召集人</p></td>
 <td><p>學生動源</p></td>
 </tr>
 <tr class="odd">
@@ -90,7 +88,7 @@ i失去兩位重要的主持人。
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/李東昇.md" title="wikilink">李東昇</a> Alan Li</p></td>
-<td><p><a href="../Page/本土民主前線.md" title="wikilink">本土民主前線召集人</a></p></td>
+<td><p><a href="../Page/本土民主前線.md" title="wikilink">本土民主前線</a>召集人</p></td>
 <td><p>本土足球前線</p></td>
 </tr>
 <tr class="even">
@@ -169,7 +167,7 @@ i失去兩位重要的主持人。
 </tr>
 <tr class="odd">
 <td><p>Billyball 波爺</p></td>
-<td><p><a href="../Page/YouTube.md" title="wikilink">YouTube藝人</a></p></td>
+<td><p><a href="../Page/YouTube.md" title="wikilink">YouTube</a>藝人</p></td>
 <td><p>東瀛文化誌<br />
 爆機Game友</p></td>
 </tr>
@@ -205,12 +203,12 @@ i失去兩位重要的主持人。
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/梁頌恒" title="wikilink">梁頌恒</a></p></td>
-<td><p><a href="../Page/青年新政.md" title="wikilink">青年新政召集人</a></p></td>
+<td><p><a href="../Page/青年新政.md" title="wikilink">青年新政</a>召集人</p></td>
 <td><p>新言論政</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/游蕙禎.md" title="wikilink">游蕙禎</a></p></td>
-<td><p><a href="../Page/青年新政.md" title="wikilink">青年新政成員</a></p></td>
+<td><p><a href="../Page/青年新政.md" title="wikilink">青年新政</a>成員</p></td>
 <td><p>新言論政</p></td>
 </tr>
 <tr class="even">
@@ -220,7 +218,7 @@ i失去兩位重要的主持人。
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/黃俊傑" title="wikilink">黃俊傑</a></p></td>
-<td><p><a href="../Page/青年新政.md" title="wikilink">青年新政成員</a></p></td>
+<td><p><a href="../Page/青年新政.md" title="wikilink">青年新政</a>成員</p></td>
 <td><p>新言論政<br />
 喧譁作樂</p></td>
 </tr>
@@ -245,12 +243,7 @@ i失去兩位重要的主持人。
 
   -
   -
-[Category:網絡媒體平台](https://zh.wikipedia.org/wiki/Category:網絡媒體平台 "wikilink")
-[Category:香港網絡電台](https://zh.wikipedia.org/wiki/Category:香港網絡電台 "wikilink")
-[Category:2015年成立的公司](https://zh.wikipedia.org/wiki/Category:2015年成立的公司 "wikilink")
-[Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
-[Category:香港本土化運動](https://zh.wikipedia.org/wiki/Category:香港本土化運動 "wikilink")
-[Category:本土民主前線](https://zh.wikipedia.org/wiki/Category:本土民主前線 "wikilink")
+[Category:網絡媒體平台](https://zh.wikipedia.org/wiki/Category:網絡媒體平台 "wikilink") [Category:香港網絡電台](https://zh.wikipedia.org/wiki/Category:香港網絡電台 "wikilink") [Category:2015年成立的公司](https://zh.wikipedia.org/wiki/Category:2015年成立的公司 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink") [Category:香港本土化運動](https://zh.wikipedia.org/wiki/Category:香港本土化運動 "wikilink") [Category:本土民主前線](https://zh.wikipedia.org/wiki/Category:本土民主前線 "wikilink")
 
 1.
 2.

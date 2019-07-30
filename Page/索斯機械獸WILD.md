@@ -1,5 +1,4 @@
-《**索斯機械獸WILD**》（ZOIDS
-WILD）是[OLM製作的](../Page/OLM.md "wikilink")[日本](../Page/日本.md "wikilink")[電視動畫作品](../Page/日本電視動畫.md "wikilink")，改編自[多美旗下](../Page/多美_\(公司\).md "wikilink")[索斯機械獸模型系列](../Page/索斯機械獸系列.md "wikilink")，是第5套索斯機械獸動畫，並於2018年7月7日開始在[每日放送和](../Page/每日放送.md "wikilink")[日本新聞網播出](../Page/日本新聞網_\(TBS\).md "wikilink")\[1\]，並會進行[跨媒體製作](../Page/跨媒體製作.md "wikilink")，推出漫畫、模型系列、街機遊戲、官方手機應用，同時[任天堂Switch平台亦會推出遊戲新作](../Page/任天堂Switch.md "wikilink")\[2\]。
+《**索斯機械獸WILD**》（ZOIDS WILD）是[OLM](../Page/OLM.md "wikilink")製作的[日本](../Page/日本.md "wikilink")[電視動畫作品](../Page/日本電視動畫.md "wikilink")，改編自[多美旗下](../Page/多美_\(公司\).md "wikilink")[索斯機械獸模型系列](../Page/索斯機械獸系列.md "wikilink")，是第5套索斯機械獸動畫，並於2018年7月7日開始在[每日放送](../Page/每日放送.md "wikilink")和[日本新聞網播出](../Page/日本新聞網_\(TBS\).md "wikilink")\[1\]，並會進行[跨媒體製作](../Page/跨媒體製作.md "wikilink")，推出漫畫、模型系列、街機遊戲、官方手機應用，同時[任天堂Switch](../Page/任天堂Switch.md "wikilink")平台亦會推出遊戲新作\[2\]。
 
 ## 故事簡介
 
@@ -24,6 +23,9 @@ WILD）是[OLM製作的](../Page/OLM.md "wikilink")[日本](../Page/日本.md "w
     自由團成員，拍檔是突擊三角龍。
   -
     自由團成員，拍檔是狩獵蒼狼。索斯獸賞金獵人。
+
+### Freedom隊
+
   -
     自由團成員，拍檔是死亡蜘蛛。
 
@@ -244,13 +246,11 @@ WILD）是[OLM製作的](../Page/OLM.md "wikilink")[日本](../Page/日本.md "w
 
 :; 「Starting Over」（第1話－第13話）
 
-::
-填詞、作曲：[新井弘毅](https://zh.wikipedia.org/wiki/新井弘毅 "wikilink")，編曲：新井弘毅、トオミヨウ，主唱：[DISH//](https://zh.wikipedia.org/wiki/DISH/ "wikilink")
+:: 填詞、作曲：[新井弘毅](https://zh.wikipedia.org/wiki/新井弘毅 "wikilink")，編曲：新井弘毅、トオミヨウ，主唱：[DISH//](https://zh.wikipedia.org/wiki/DISH/ "wikilink")
 
 :; 「Defiance」（第14話－第26話）
 
-::
-填詞：[森若香織](https://zh.wikipedia.org/wiki/森若香織 "wikilink")，作曲：，編曲：[佐久間誠](https://zh.wikipedia.org/wiki/佐久間誠 "wikilink")，主唱：[金在中](../Page/金在中.md "wikilink")
+:: 填詞：[森若香織](https://zh.wikipedia.org/wiki/森若香織 "wikilink")，作曲：，編曲：[佐久間誠](https://zh.wikipedia.org/wiki/佐久間誠 "wikilink")，主唱：[金在中](../Page/金在中.md "wikilink")
 
 :; 「Sky Flight」（第27話－第38話）
 
@@ -267,9 +267,7 @@ WILD）是[OLM製作的](../Page/OLM.md "wikilink")[日本](../Page/日本.md "w
 
 :;「」（第1話－第13話）
 
-:: 填詞、作曲：堀江晶太，編曲：堀江晶太、[PENGUIN
-RESEARCH](https://zh.wikipedia.org/wiki/PENGUIN_RESEARCH "wikilink")，主唱：PENGUIN
-RESEARCH
+:: 填詞、作曲：堀江晶太，編曲：堀江晶太、[PENGUIN RESEARCH](https://zh.wikipedia.org/wiki/PENGUIN_RESEARCH "wikilink")，主唱：PENGUIN RESEARCH
 
 :;「blue moon」（第14話－第26話）\[3\]
 
@@ -277,16 +275,14 @@ RESEARCH
 
 :;「」（第27話－第38話）
 
-:: 填詞：葉澄草子，作曲：鴇崎聰，編曲：Akihito Tanaka、Seiji
-Motoyama，主唱：[noovy](https://zh.wikipedia.org/wiki/noovy "wikilink")
+:: 填詞：葉澄草子，作曲：鴇崎聰，編曲：Akihito Tanaka、Seiji Motoyama，主唱：[noovy](https://zh.wikipedia.org/wiki/noovy "wikilink")
 
 :;「best friends」（第39話－第49話）
 
   -
 
       -
-        填詞：[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")，作曲：黑光雄輝，編曲：矢鴇司（Arte
-        Refact），主唱：[Sphere](../Page/Sphere_\(聲優團體\).md "wikilink")
+        填詞：[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")，作曲：黑光雄輝，編曲：矢鴇司（Arte Refact），主唱：[Sphere](../Page/Sphere_\(聲優團體\).md "wikilink")
 
   - 插入曲
 
@@ -681,7 +677,7 @@ Jo Yong Joo</p></td>
 <tr class="even">
 <td><p>第34話</p></td>
 <td></td>
-<td></td>
+<td><p>動搖，二人之間的情誼</p></td>
 <td><p>十川誠志</p></td>
 <td><p>北村翔太郎</p></td>
 <td><p>In Tae Sun<br />
@@ -697,7 +693,7 @@ Kwon Yong Sang<br />
 <tr class="odd">
 <td><p>第35話</p></td>
 <td></td>
-<td></td>
+<td><p>奇怪的眼睛 操縱絲線的美女</p></td>
 <td></td>
 <td><p>深澤幸司<br />
 飯島正勝<br />
@@ -710,7 +706,7 @@ Kwon Yong Sang<br />
 <tr class="even">
 <td><p>第36話</p></td>
 <td></td>
-<td></td>
+<td><p>齊集，死亡金屬帝國四天王</p></td>
 <td><p>廣田光毅</p></td>
 <td><p>砂和寬德</p></td>
 <td><p>松本義久</p></td>
@@ -913,14 +909,8 @@ Joung Jin Young</p></td>
   -
   -
   -
-[Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
-[Category:索斯機械獸](https://zh.wikipedia.org/wiki/Category:索斯機械獸 "wikilink")
-[Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink")
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
+[Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink") [Category:索斯機械獸](https://zh.wikipedia.org/wiki/Category:索斯機械獸 "wikilink") [Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 
 1.
 2.
-3.  [中川翔子、TVアニメ『ゾイドワイルド』新EDテーマで、約3年半ぶりの新曲リリース決定！](https://www.lisani.jp/0000112305/)
-    - [リスアニ\!WEB](https://zh.wikipedia.org/wiki/リスアニ! "wikilink")
-    2018年9月1日
+3.  [中川翔子、TVアニメ『ゾイドワイルド』新EDテーマで、約3年半ぶりの新曲リリース決定！](https://www.lisani.jp/0000112305/) - [リスアニ\!WEB](https://zh.wikipedia.org/wiki/リスアニ! "wikilink") 2018年9月1日

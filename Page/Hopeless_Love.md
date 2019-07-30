@@ -1,11 +1,8 @@
-《**Hopeless
-Love**》是[韓國組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[15&成員](https://zh.wikipedia.org/wiki/15& "wikilink")[朴智敏的首張個人單曲](../Page/朴智敏.md "wikilink")，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，於2016年4月5日發行。
+《**Hopeless Love**》是[韓國組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[15&成員](https://zh.wikipedia.org/wiki/15& "wikilink")[朴智敏](../Page/朴智敏.md "wikilink")的首張個人單曲，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，於2016年4月5日發行。
 
 ## 概要
 
-本作相距前作《[Love is
-Madness](../Page/Love_is_Madness.md "wikilink")》約二個月，亦是朴智敏的首張個人單曲。歌曲〈Hopeless
-Love〉以鋼琴加上反覆的[打擊樂](https://zh.wikipedia.org/wiki/打擊樂 "wikilink")，描述單戀著朋友卻無法實現愛情的痛苦心境。\[1\]
+本作相距前作《[Love is Madness](../Page/Love_is_Madness.md "wikilink")》約二個月，亦是朴智敏的首張個人單曲。歌曲〈Hopeless Love〉以鋼琴加上反覆的[打擊樂](https://zh.wikipedia.org/wiki/打擊樂 "wikilink")，描述單戀著朋友卻無法實現愛情的痛苦心境。\[1\]
 
 ## 歌曲
 
@@ -54,9 +51,7 @@ Love〉以鋼琴加上反覆的[打擊樂](https://zh.wikipedia.org/wiki/打擊�
 
 ## 引用資料
 
-[Category:15&音樂專輯](https://zh.wikipedia.org/wiki/Category:15&音樂專輯 "wikilink")
-[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:15&音樂專輯](https://zh.wikipedia.org/wiki/Category:15&音樂專輯 "wikilink") [Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

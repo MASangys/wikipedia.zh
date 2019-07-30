@@ -249,8 +249,7 @@
 
 ## 參考資料
 
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1916年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1916年啟用的鐵路線 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1916年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1916年啟用的鐵路線 "wikilink")
 
 1.
 2.

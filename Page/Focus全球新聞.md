@@ -1,4 +1,4 @@
-《**FOCUS全球新聞**》（），[TVBS製播的國際新聞節目](../Page/TVBS_\(頻道\).md "wikilink")，於2013年4月8日開播，由方念華主持\[1\]\[2\]。除TVBS頻道播出外，亦與[TVBS精采台聯播](../Page/TVBS精采台.md "wikilink")。
+《**FOCUS全球新聞**》（），[TVBS製播的國際新聞節目](../Page/TVBS_\(頻道\).md "wikilink")，於2013年4月8日開播，由方念華主持\[1\]\[2\]。除TVBS頻道播出外，亦與[TVBS精采台](../Page/TVBS精采台.md "wikilink")聯播。
 
 ## 簡介
 
@@ -79,7 +79,7 @@
 <td></td>
 <td><p>2018年8月6日-</p></td>
 <td><p>每週一至週五 18:00-19:00（西岸時間）</p></td>
-<td><p><a href="../Page/電視廣播（美國）.md" title="wikilink">電視廣播（美國）營運此頻道</a></p></td>
+<td><p><a href="../Page/電視廣播（美國）.md" title="wikilink">電視廣播（美國）</a>營運此頻道</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/城市電視.md" title="wikilink">城市電視</a></p></td>
@@ -192,7 +192,7 @@
 
 ## 同類型節目
 
-  - 《[文茜的世界周報](../Page/文茜的世界周報.md "wikilink")》（[中天新聞台同类节目](../Page/中天新聞台.md "wikilink")）
+  - 《[文茜的世界周報](../Page/文茜的世界周報.md "wikilink")》（[中天新聞台](../Page/中天新聞台.md "wikilink")同类节目）
   - 《[李四端的雲端世界](https://zh.wikipedia.org/wiki/李四端的雲端世界 "wikilink")》（[東森新闻台同类节目](https://zh.wikipedia.org/wiki/東森新闻台 "wikilink")）
   - 《[全球現場](../Page/全球現場.md "wikilink")》（[公視同类节目](../Page/公共電視文化事業基金會.md "wikilink")）
 
@@ -203,11 +203,9 @@
   - [Focus全球新聞](http://focus.tvbs.com.tw/)
 
   -
-[Category:聯利媒體製作電視節目](https://zh.wikipedia.org/wiki/Category:聯利媒體製作電視節目 "wikilink")
-[Category:台灣電視新聞節目](https://zh.wikipedia.org/wiki/Category:台灣電視新聞節目 "wikilink")
+[Category:聯利媒體製作電視節目](https://zh.wikipedia.org/wiki/Category:聯利媒體製作電視節目 "wikilink") [Category:台灣電視新聞節目](https://zh.wikipedia.org/wiki/Category:台灣電視新聞節目 "wikilink")
 
 1.
 2.
-3.  6/6起每週一至週五20:00-21:00首播[于美人主持](../Page/于美人.md "wikilink")**國民大會**
-4.  因[Vision
-    全球視野停播](https://zh.wikipedia.org/wiki/Vision_全球視野 "wikilink")
+3.  6/6起每週一至週五20:00-21:00首播[于美人](../Page/于美人.md "wikilink")主持**國民大會**
+4.  因[Vision 全球視野停播](https://zh.wikipedia.org/wiki/Vision_全球視野 "wikilink")

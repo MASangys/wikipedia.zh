@@ -9,6 +9,4 @@
   -
   -
   -
-[Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink")
-[Category:最終幻想XV](https://zh.wikipedia.org/wiki/Category:最終幻想XV "wikilink")
-[Category:2016年日本网络动画](https://zh.wikipedia.org/wiki/Category:2016年日本网络动画 "wikilink")
+[Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:最終幻想XV](https://zh.wikipedia.org/wiki/Category:最終幻想XV "wikilink") [Category:2016年日本网络动画](https://zh.wikipedia.org/wiki/Category:2016年日本网络动画 "wikilink")

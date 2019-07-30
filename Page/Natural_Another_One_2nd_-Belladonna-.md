@@ -1,5 +1,4 @@
-《**Natural Another One 2nd
--Belladonna-**》是由[DreamSoft於](../Page/F&C.md "wikilink")2005年10月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，Natural系列的作品之一。\[1\]
+《**Natural Another One 2nd -Belladonna-**》是由[DreamSoft於](../Page/F&C.md "wikilink")2005年10月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，Natural系列的作品之一。\[1\]
 
 ## 故事
 
@@ -45,12 +44,7 @@
 
   - [官方網站](http://www.dreamsoft.jp/nao2nd/index_nao2.html)
 
-[Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:豪宅背景作品](https://zh.wikipedia.org/wiki/Category:豪宅背景作品 "wikilink")
-[Category:F\&C遊戲](https://zh.wikipedia.org/wiki/Category:F&C遊戲 "wikilink")
+[Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:豪宅背景作品](https://zh.wikipedia.org/wiki/Category:豪宅背景作品 "wikilink") [Category:F\&C遊戲](https://zh.wikipedia.org/wiki/Category:F&C遊戲 "wikilink")
 
 1.
 2.

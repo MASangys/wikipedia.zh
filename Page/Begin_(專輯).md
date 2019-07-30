@@ -1,5 +1,4 @@
-《**beGin**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[Gin
-Lee的第五張音樂專輯](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink")，於2016年4月18日推出。本專輯亦是她加盟[環球唱片後首張唱片](../Page/環球唱片_\(香港\).md "wikilink")；第一主打《雙雙》於2016年1月推出\[1\]。
+《**beGin**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[Gin Lee的第五張音樂專輯](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink")，於2016年4月18日推出。本專輯亦是她加盟[環球唱片後首張唱片](../Page/環球唱片_\(香港\).md "wikilink")；第一主打《雙雙》於2016年1月推出\[1\]。
 
 《beGin》於5月底推出了韓國版。
 
@@ -21,8 +20,6 @@ Lee的第五張音樂專輯](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink")�
 
 ## 參考
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:李幸倪音樂專輯](https://zh.wikipedia.org/wiki/Category:李幸倪音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:李幸倪音樂專輯](https://zh.wikipedia.org/wiki/Category:李幸倪音樂專輯 "wikilink")
 
 1.

@@ -1,9 +1,4 @@
-**FOX Life**是[福斯廣播公司旗下的電視頻道](../Page/福斯廣播公司.md "wikilink")。由於和[Star
-World性質相似](../Page/衛視合家歡台.md "wikilink")，FOX
-Life原先並未在[東南亞播映](https://zh.wikipedia.org/wiki/東南亞 "wikilink")。2017年10月1日，FOX
-Life將正式取代Star World在東南亞的播映。\[1\] 在[印度Star](../Page/印度.md "wikilink")
-World與FOX Life原先就分拆為兩個頻道，是南亞唯一個同時存在此兩頻道的地區。台灣的有線電視方面，Star
-World將繼續放送，並未隨東南亞版一同更名。
+**FOX Life**是[福斯廣播公司](../Page/福斯廣播公司.md "wikilink")旗下的電視頻道。由於和[Star World性質相似](../Page/衛視合家歡台.md "wikilink")，FOX Life原先並未在[東南亞播映](https://zh.wikipedia.org/wiki/東南亞 "wikilink")。2017年10月1日，FOX Life將正式取代Star World在東南亞的播映。\[1\] 在[印度](../Page/印度.md "wikilink")Star World與FOX Life原先就分拆為兩個頻道，是南亞唯一個同時存在此兩頻道的地區。台灣的有線電視方面，Star World將繼續放送，並未隨東南亞版一同更名。
 
 ## 首播影集
 
@@ -48,9 +43,6 @@ World將繼續放送，並未隨東南亞版一同更名。
 ## 外部連結
 
   -
-[Category:東南亞電視台](https://zh.wikipedia.org/wiki/Category:東南亞電視台 "wikilink")
-[Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink")
-[Category:福斯娛樂集團](https://zh.wikipedia.org/wiki/Category:福斯娛樂集團 "wikilink")
-[Category:福斯傳媒集團](https://zh.wikipedia.org/wiki/Category:福斯傳媒集團 "wikilink")
+[Category:東南亞電視台](https://zh.wikipedia.org/wiki/Category:東南亞電視台 "wikilink") [Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:福斯娛樂集團](https://zh.wikipedia.org/wiki/Category:福斯娛樂集團 "wikilink") [Category:福斯傳媒集團](https://zh.wikipedia.org/wiki/Category:福斯傳媒集團 "wikilink")
 
 1.

@@ -1,17 +1,15 @@
-**Stray
-Kids音樂作品列表**，主要列舉韓國[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")**[Stray
-Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")**歷年發行的各類音樂專輯及歌曲。
+**Stray Kids音樂作品列表**，主要列舉韓國[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")**[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")**歷年發行的各類音樂專輯及歌曲。
 
 ## Stray Kids
 
 ### 迷你專輯
 
-<table style="width:138%;">
+<table style="width:121%;">
 <colgroup>
 <col style="width: 45%" />
-<col style="width: 10%" />
+<col style="width: 11%" />
 <col style="width: 9%" />
-<col style="width: 72%" />
+<col style="width: 54%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -120,10 +118,10 @@ Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")**歷年發行的各�
 
 ### 特別專輯
 
-<table style="width:176%;">
+<table style="width:178%;">
 <colgroup>
-<col style="width: 9%" />
-<col style="width: 13%" />
+<col style="width: 10%" />
+<col style="width: 14%" />
 <col style="width: 81%" />
 <col style="width: 72%" />
 </colgroup>
@@ -277,7 +275,6 @@ Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")**歷年發行的各�
 
 ## 參考資料
 
-[Category:Stray_Kids](https://zh.wikipedia.org/wiki/Category:Stray_Kids "wikilink")
-[Category:韩国音乐作品列表](https://zh.wikipedia.org/wiki/Category:韩国音乐作品列表 "wikilink")
+[Category:Stray_Kids](https://zh.wikipedia.org/wiki/Category:Stray_Kids "wikilink") [Category:韩国音乐作品列表](https://zh.wikipedia.org/wiki/Category:韩国音乐作品列表 "wikilink")
 
 1.

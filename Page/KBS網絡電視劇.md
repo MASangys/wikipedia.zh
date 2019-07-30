@@ -1,4 +1,4 @@
-**KBS網絡電視劇**（，\[1\]），是[韓國放送公社於韓國時間星期五凌晨](../Page/韓國放送公社.md "wikilink")1:00播出的[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於2015年6月12日開播，同年7月3日暫時停播，後於同年10月30日復播，並於11月20日正式停播。
+**KBS網絡電視劇**（，\[1\]），是[韓國放送公社](../Page/韓國放送公社.md "wikilink")於韓國時間星期五凌晨1:00播出的[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於2015年6月12日開播，同年7月3日暫時停播，後於同年10月30日復播，並於11月20日正式停播。
 
 ## 放送期間
 
@@ -169,10 +169,7 @@
 
   - [KBS Web Drama Special 官方網站](http://www.kbs.co.kr/drama/webdrama/)
 
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
-[Category:韩国网络剧](https://zh.wikipedia.org/wiki/Category:韩国网络剧 "wikilink")
-[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink")
+[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink") [Category:韩国网络剧](https://zh.wikipedia.org/wiki/Category:韩国网络剧 "wikilink") [Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink")
 
 1.  [KBS Web Drama's 官方推特](https://twitter.com/kbs_webdrama)
 

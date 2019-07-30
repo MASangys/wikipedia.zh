@@ -10,11 +10,9 @@
 
   - 數據分析入門，原名《》（著：高橋信，[PHP研究所](../Page/PHP研究所.md "wikilink")）
 
-  - ！rideAT（原作：[中山文十郎](../Page/中山文十郎.md "wikilink")，《[Comic
-    Gum](../Page/Comic_Gum.md "wikilink")》，，全3冊）
+  - ！rideAT（原作：[中山文十郎](../Page/中山文十郎.md "wikilink")，《[Comic Gum](../Page/Comic_Gum.md "wikilink")》，，全3冊）
 
-  - （原作：[ALcot](../Page/ALcot.md "wikilink")，《[Comic
-    Giant](https://zh.wikipedia.org/wiki/enterbrain "wikilink")》，enterbrain／[KADOKAWA](../Page/KADOKAWA.md "wikilink")）
+  - （原作：[ALcot](../Page/ALcot.md "wikilink")，《[Comic Giant](https://zh.wikipedia.org/wiki/enterbrain "wikilink")》，enterbrain／[KADOKAWA](../Page/KADOKAWA.md "wikilink")）
 
   - VRMMO記（原作：鮪魚貓@恢貓，，**連載中**）
 
@@ -22,25 +20,21 @@
 
 ### 漫畫選集
 
-  - [花開物語](../Page/花開物語.md "wikilink")
-    ！（[萬代影視](../Page/萬代影視.md "wikilink")）
+  - [花開物語](../Page/花開物語.md "wikilink") ！（[萬代影視](../Page/萬代影視.md "wikilink")）
 
   - （[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")／[KADOKAWA](../Page/KADOKAWA.md "wikilink")）
 
-  - 漫畫選集（[DNA Media
-    Comics](https://zh.wikipedia.org/wiki/DNA_Media_Comics "wikilink")）
+  - 漫畫選集（[DNA Media Comics](https://zh.wikipedia.org/wiki/DNA_Media_Comics "wikilink")）
 
   - 黑腳 (黑絲襪娘選集アンソロジー)（[一迅社](../Page/一迅社.md "wikilink")）
 
-  - [海貓悲鳴時Note](../Page/海貓悲鳴時.md "wikilink").08 GE（附錄特典《真里亞的筆記本》內）
+  - [海貓悲鳴時](../Page/海貓悲鳴時.md "wikilink")Note.08 GE（附錄特典《真里亞的筆記本》內）
 
   - ～AMETHYST COLLECTION～（）※封面插圖。
 
-  - [天元突破
-    紅蓮螺巖漫畫選集vol](../Page/天元突破_紅蓮螺巖.md "wikilink").3（enterbrain／KADOKAWA）
+  - [天元突破 紅蓮螺巖漫畫選集vol](../Page/天元突破_紅蓮螺巖.md "wikilink").3（enterbrain／KADOKAWA）
 
-  - [舞-HiME漫畫選集FIRST](../Page/舞-HiME.md "wikilink")
-    ATTACK！（[Broccoli](../Page/Broccoli.md "wikilink")）
+  - [舞-HiME](../Page/舞-HiME.md "wikilink")漫畫選集FIRST ATTACK！（[Broccoli](../Page/Broccoli.md "wikilink")）
 
   - Vol.2（Broccoli）
 
@@ -79,5 +73,4 @@
 
   -
 
-[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink")
-[Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink")
+[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink")

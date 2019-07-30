@@ -1,6 +1,4 @@
-**MYTEEN**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Music
-Works將於](../Page/The_Music_Works.md "wikilink")2017年7月26日推出的[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，成員包括恩洙、泰彬、天真、[國憲](../Page/金國憲.md "wikilink")、準燮、、漢瑟。出道前就已累積許多人氣。在2018年官方宣布更換隊長由國憲接任，在YT會有不定時的MYTEEN
-SHOW 、TEENTIME。 官方粉絲名為Youth。
+**MYTEEN**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Music Works將於](../Page/The_Music_Works.md "wikilink")2017年7月26日推出的[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，成員包括恩洙、泰彬、天真、[國憲](../Page/金國憲.md "wikilink")、準燮、、漢瑟。出道前就已累積許多人氣。在2018年官方宣布更換隊長由國憲接任。 官方粉絲名為Youth。
 
 2018年12月31日，官方宣布泰彬退出組合\[1\]。
 
@@ -64,19 +62,100 @@ SHOW 、TEENTIME。 官方粉絲名為Youth。
 
 ### 原聲帶
 
-|     年份     |                              劇名                              | 演唱 |         曲名          |                            合作對象                            |
-| :--------: | :----------------------------------------------------------: | :-: | :-----------------: | :--------------------------------------------------------: |
-|    出道前     |                                                              |    |                     |                                                            |
-| 2015.05.13 |           [看見味道的少女](../Page/看見味道的少女.md "wikilink")           | 有彬 |    平凡的告別(흔한 이별)     |          [金娜英](../Page/金娜英_\(歌手\).md "wikilink")           |
-| 2016.04.15 | [Goodbye Mr. Black](../Page/Goodbye_Mr._Black.md "wikilink") | 有彬 |    也許這就是(아마도 이건)    |                                                            |
-| 2016.08.02 |             [打架吧鬼神](../Page/打架吧鬼神.md "wikilink")             | 有彬 |    偶然的事（우연한 일들）     | [金昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink") |
-| 2016.11.03 |                            積極的體質                             | 有彬 |  The Common People  |                                                            |
-| 2017.02.18 |               [金科長](../Page/金科長.md "wikilink")               | 有彬 | 星光傾瀉的夜晚（별빛이 쏟아지는 밤） |                                                            |
-|    2017    |              [秘密森林](../Page/秘密森林.md "wikilink")              | 國憲 |   就像愛情（사랑할 것 처럼）    |                                                            |
-|    出道後     |                                                              |    |                     |                                                            |
-|            |                                                              |    |                     |                                                            |
-| 2018.07.12 |           [金秘書為何那樣](../Page/金秘書為何那樣.md "wikilink")           | 有彬 |   第一次說的話（처음 하는 말）   |                                                            |
-|    2018    |          [Jugglers](../Page/Jugglers.md "wikilink")          | 國憲 |  除你以外都不懂（너 밖에 모르고）  |                                                            |
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><p>年份</p></th>
+<th style="text-align: center;"><p>放送平台</p></th>
+<th style="text-align: center;"><p>劇名</p></th>
+<th style="text-align: center;"><p>演唱</p></th>
+<th style="text-align: center;"><p>曲名</p></th>
+<th style="text-align: center;"><p>合作對象</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p>出道前</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2015</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/看見味道的少女.md" title="wikilink">看見味道的少女</a></p></td>
+<td style="text-align: center;"><p>有彬</p></td>
+<td style="text-align: center;"><p>平凡的告別(흔한 이별)</p></td>
+<td style="text-align: center;"><p><a href="../Page/金娜英_(歌手).md" title="wikilink">金娜英</a></p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2016</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/Goodbye_Mr._Black.md" title="wikilink">Goodbye Mr. Black</a></p></td>
+<td style="text-align: center;"><p>也許這就是(아마도 이건)</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/打架吧鬼神.md" title="wikilink">打架吧鬼神</a></p></td>
+<td style="text-align: center;"><p>偶然的事（우연한 일들）</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金昭希_(歌手)" title="wikilink">金昭希</a></p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>Naver tvcast</p></td>
+<td style="text-align: center;"><p>積極的體質</p></td>
+<td style="text-align: center;"><p>The Common People</p></td>
+<td style="text-align: center;"><p>rowspan="3" </p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2017</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金科長.md" title="wikilink">金科長</a></p></td>
+<td style="text-align: center;"><p>星光傾瀉的夜晚（별빛이 쏟아지는 밤）</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>tvN</p></td>
+<td style="text-align: center;"><p><a href="../Page/秘密森林.md" title="wikilink">秘密森林</a></p></td>
+<td style="text-align: center;"><p>國憲</p></td>
+<td style="text-align: center;"><p>就像愛情（사랑할 것 처럼）</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>出道後</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2018</p></td>
+<td style="text-align: center;"><p>tvN</p></td>
+<td style="text-align: center;"><p><a href="../Page/金秘書為何那樣.md" title="wikilink">金秘書為何那樣</a></p></td>
+<td style="text-align: center;"><p>有彬</p></td>
+<td style="text-align: center;"><p>第一次說的話（처음 하는 말）</p></td>
+<td style="text-align: center;"><p>rowspan="2" </p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>KBS</p></td>
+<td style="text-align: center;"><p><a href="../Page/Jugglers.md" title="wikilink">Jugglers</a></p></td>
+<td style="text-align: center;"><p>國憲</p></td>
+<td style="text-align: center;"><p>除你以外都不懂（너 밖에 모르고）</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
 
 ### MIXTAPE
 
@@ -124,18 +203,69 @@ SHOW 、TEENTIME。 官方粉絲名為Youth。
 
 ### 電視劇
 
-|       |                                    |                                              |      |           |      |
-| ----- | ---------------------------------- | -------------------------------------------- | ---- | --------- | ---- |
-| 年份    | 電視臺                                | 劇名                                           | 參演成員 | 角色        | 性質   |
-| 2016年 | JTBC                               | [青春時代](../Page/青春時代_\(韓國電視劇\).md "wikilink") | 有彬   | 網友（客串）    | 第3集  |
-| 2018年 | [JTBC](../Page/JTBC.md "wikilink") | [我的ID是江南美人](../Page/我的ID是江南美人.md "wikilink") | 準燮   | 都炅錫（中學時期） |      |
-| 2018年 | MBN                                | [Rich Man](../Page/Rich_Man.md "wikilink")   | 泰彬   | 李英才（客串）   | 第11集 |
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年份</p></td>
+<td><p>電視臺</p></td>
+<td><p>劇名</p></td>
+<td><p>參演成員</p></td>
+<td><p>角色</p></td>
+<td><p>性質</p></td>
+<td><p>出場集數</p></td>
+</tr>
+<tr class="even">
+<td><p>2016年</p></td>
+<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
+<td><p><a href="../Page/青春時代_(韓國電視劇).md" title="wikilink">青春時代</a></p></td>
+<td><p>有彬</p></td>
+<td><p>網友</p></td>
+<td><p>客串</p></td>
+<td><p>第3集</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018年</p></td>
+<td><p><a href="../Page/我的ID是江南美人.md" title="wikilink">我的ID是江南美人</a></p></td>
+<td><p>準燮</p></td>
+<td><p>都炅錫（中學時期）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/每日廣播" title="wikilink">MBN</a></p></td>
+<td><p><a href="../Page/Rich_Man.md" title="wikilink">Rich Man</a></p></td>
+<td><p>泰彬</p></td>
+<td><p>李英才</p></td>
+<td><p>客串</p></td>
+<td><p>第11集</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td></td>
+<td><p>有彬</p></td>
+<td><p>金有建</p></td>
+<td><p>男主角</p></td>
+<td><p>全集</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 網路劇
+
+|      |                                          |              |       |    |     |      |
+| ---- | ---------------------------------------- | ------------ | ----- | -- | --- | ---- |
+| 年份   | 放送平台                                     | 劇名           | 參演成員  | 角色 | 性質  | 出場集數 |
+| 2018 | [YouTube](../Page/YouTube.md "wikilink") | Login to You | 準燮    |    | 男主角 | 全集   |
+| 2019 | Re-Feel                                  | 고태건          | 第二男主角 | 全集 |     |      |
 
 ### 專屬節目
 
 |       |       |                                      |         |     |
 | ----- | ----- | ------------------------------------ | ------- | --- |
-| 日期    | 電視臺   | 節目名稱                                 | 參與成員    | 備註  |
+| 年份    | 電視臺   | 節目名稱                                 | 參與成員    | 備註  |
 | 2016年 | V app | MYTEEN Show                          | 全員      | 出道前 |
 | 2017年 | MBC   | Trainee Escape Project - MYTEEN GO\! | 全員（漢瑟外） | 出道前 |
 
@@ -149,6 +279,31 @@ SHOW 、TEENTIME。 官方粉絲名為Youth。
 | 2018年                 | [JTBC](../Page/JTBC.md "wikilink")   | [MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")         | 國憲、準燮、天真、恩洙 |     |
 | 2018年                 | [JTBC](../Page/JTBC.md "wikilink")   | [THE TEAM CHEF](../Page/The_Team_Chef.md "wikilink")                | 泰彬          | 全季  |
 | 2019年                 | [MNET](../Page/Mnet媒體.md "wikilink") | [PRODUCEX101](https://zh.wikipedia.org/wiki/PRODUCEX101 "wikilink") | 國憲、有彬       |     |
+
+## 獎項
+
+### 大型頒獎禮獎項與提名
+
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><p>年份</p></th>
+<th style="text-align: center;"><p>頒獎禮名稱</p></th>
+<th style="text-align: center;"><p>獎項</p></th>
+<th style="text-align: center;"><p>作品</p></th>
+<th style="text-align: center;"><p>結果</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p>2018</p></td>
+<td style="text-align: center;"><p>第6屆大韓民國Marketing大賞</p></td>
+<td style="text-align: center;"><p>明日之星獎</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考資料
 
@@ -197,13 +352,8 @@ SHOW 、TEENTIME。 官方粉絲名為Youth。
   - [MUSIC WORKS的VLive頻道](https://channels.vlive.tv/F4A151)
 
   -
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink")
+[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink")
 
-1.  [泰彬退團新聞報導](https://entertain.naver.com/read?oid=311&aid=0000938312&cid=1073787)
-    2018-12-31
+1.  [泰彬退團新聞報導](https://entertain.naver.com/read?oid=311&aid=0000938312&cid=1073787) 2018-12-31
 2.  [2017年8月GAON專輯榜80位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=08&hitYear=2017&termGbn=month)
 3.  [2018年7月GAON專輯榜40位](http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2018&termGbn=month)

@@ -368,8 +368,7 @@
   - 《[新西遊記](../Page/新西遊記.md "wikilink")》
   - 《[SNL Korea](../Page/SNL_Korea.md "wikilink")》
   - 《》
-  - 《[COMEDY BIG
-    LEAGUE](https://zh.wikipedia.org/wiki/COMEDY_BIG_LEAGUE "wikilink")》
+  - 《[COMEDY BIG LEAGUE](https://zh.wikipedia.org/wiki/COMEDY_BIG_LEAGUE "wikilink")》
   - 《》
   - 《[问题的男人](https://zh.wikipedia.org/wiki/大腦性感的時代－問題的男人 "wikilink")》
   - 《[The Genius](../Page/The_Genius.md "wikilink")》
@@ -395,12 +394,12 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/车胜元" title="wikilink">车胜元</a>、<a href="../Page/柳海真.md" title="wikilink">柳海真</a></p></td>
-<td><p>《<a href="../Page/一日三餐.md" title="wikilink">一日三餐漁村篇</a>》</p></td>
+<td><p>《<a href="../Page/一日三餐.md" title="wikilink">一日三餐</a>漁村篇》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/李瑞镇" title="wikilink">李瑞镇</a></p></td>
-<td><p>《<a href="../Page/一日三餐.md" title="wikilink">一日三餐農村篇</a>》</p></td>
+<td><p>《<a href="../Page/一日三餐.md" title="wikilink">一日三餐</a>農村篇》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -507,8 +506,7 @@
 
   - **颁奖嘉宾：[罗䁐锡](https://zh.wikipedia.org/wiki/罗䁐锡 "wikilink")、**
   - **[李帝勳](../Page/李帝勳.md "wikilink")《[Signal](https://zh.wikipedia.org/wiki/Signal_\(电视剧\) "wikilink")》**
-  - **[郑尚勳](https://zh.wikipedia.org/wiki/郑尚勳 "wikilink")《[SNL
-    Korea](../Page/SNL_Korea.md "wikilink")》、《[花样青春](https://zh.wikipedia.org/wiki/花样青春 "wikilink")》**
+  - **[郑尚勳](https://zh.wikipedia.org/wiki/郑尚勳 "wikilink")《[SNL Korea](../Page/SNL_Korea.md "wikilink")》、《[花样青春](https://zh.wikipedia.org/wiki/花样青春 "wikilink")》**
 
 ### 喜劇部門
 
@@ -806,7 +804,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/金光奎.md" title="wikilink">金光奎</a></p></td>
-<td><p>《<a href="../Page/一日三餐.md" title="wikilink">一日三餐農村篇</a>2》</p></td>
+<td><p>《<a href="../Page/一日三餐.md" title="wikilink">一日三餐</a>農村篇2》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1021,7 +1019,6 @@
 ## 外部連結
 
   -
-[Category:tvN](https://zh.wikipedia.org/wiki/Category:tvN "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:tvN](https://zh.wikipedia.org/wiki/Category:tvN "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
 1.

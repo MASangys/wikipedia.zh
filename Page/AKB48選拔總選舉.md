@@ -1,6 +1,6 @@
-**AKB48選拔總選舉**（\[1\]；英語譯名：）是日本女子偶像團體[AKB48所舉辦](../Page/AKB48.md "wikilink")，以類似政治[選舉的方式](../Page/選舉.md "wikilink")，由[歌迷從團內成員中](https://zh.wikipedia.org/wiki/歌迷 "wikilink")[投票決定](../Page/投票.md "wikilink")[單曲作品演唱者](../Page/AKB48歌曲列表.md "wikilink")（即「選拔成員」）的活動，起始於2009年，每年以一張單曲為對象舉行一次。各屆的正式名稱是「**AKB48第○○張單曲選拔總選舉**\[2\]」（通常會有副標題），通稱「**第○○屆AKB48選拔總選舉**」。
+**AKB48選拔總選舉**（\[1\]；英語譯名：）是日本女子偶像團體[AKB48](../Page/AKB48.md "wikilink")所舉辦，以類似政治[選舉](../Page/選舉.md "wikilink")的方式，由[歌迷從團內成員中](https://zh.wikipedia.org/wiki/歌迷 "wikilink")[投票](../Page/投票.md "wikilink")決定[單曲作品演唱者](../Page/AKB48歌曲列表.md "wikilink")（即「選拔成員」）的活動，起始於2009年，每年以一張單曲為對象舉行一次。各屆的正式名稱是「**AKB48第○○張單曲選拔總選舉**\[2\]」（通常會有副標題），通稱「**第○○屆AKB48選拔總選舉**」。
 
-AKB48選拔總選舉雖以AKB48為名，參選者實際上為[AKB48集團日本國內旗下各團之所有成員](../Page/AKB48集團.md "wikilink")，與「」這個名字相呼應。開辦初期為強制參選，之後導入「[報名制](https://zh.wikipedia.org/wiki/#報名制 "wikilink")」，讓成員們自由決定是否參選。由於活動規模日漸盛大，已成為AKB48最具代表性的活動之一\[3\]。
+AKB48選拔總選舉雖以AKB48為名，參選者實際上為[AKB48集團](../Page/AKB48集團.md "wikilink")日本國內旗下各團之所有成員，與「」這個名字相呼應。開辦初期為強制參選，之後導入「[報名制](https://zh.wikipedia.org/wiki/#報名制 "wikilink")」，讓成員們自由決定是否參選。由於活動規模日漸盛大，已成為AKB48最具代表性的活動之一\[3\]。
 
 ## 概要
 
@@ -172,8 +172,7 @@ AKB48選拔總選舉雖以AKB48為名，參選者實際上為[AKB48集團日本�
 
 :\*\* 第10屆：[Teacher Teacher](../Page/Teacher_Teacher.md "wikilink")
 
-::
-此外，第1－2屆限制僅購入普通盤、第3－4屆限制僅購入普通盤與初回限定盤的CD版本才可投票。第5屆起則為單曲CD所有版本的購入者均可投票。而在第10届，由于选举冠以“世界”名号，往年并无投票权的单曲台压盘也首度给与投票资格\[5\]。
+:: 此外，第1－2屆限制僅購入普通盤、第3－4屆限制僅購入普通盤與初回限定盤的CD版本才可投票。第5屆起則為單曲CD所有版本的購入者均可投票。而在第10届，由于选举冠以“世界”名号，往年并无投票权的单曲台压盘也首度给与投票资格\[5\]。
 
 :\* AKB48官方歌迷俱樂部會員
 
@@ -213,8 +212,7 @@ AKB48選拔總選舉雖以AKB48為名，參選者實際上為[AKB48集團日本�
 
 :\*\*\* STU48 Mail（第10屆）
 
-:\*\* [DMM.com所提供之以下月費](../Page/DMM.com.md "wikilink")-{zh-cn:随心看;
-zh-tw:吃到飽;}-制服務會員
+:\*\* [DMM.com](../Page/DMM.com.md "wikilink")所提供之以下月費-{zh-cn:随心看; zh-tw:吃到飽;}-制服務會員
 
 :\*\*\* AKB48 LIVE\!\! ON DEMAND（第1屆 - ）
 
@@ -232,9 +230,7 @@ zh-tw:吃到飽;}-制服務會員
 
 ## 有候選資格者
 
-原則上，**[SDN48以外的日本國內](../Page/SDN48.md "wikilink")[AKB48集團全部成員](../Page/AKB48集團.md "wikilink")**均具有被選舉權。第4屆以前排除已預定[畢業之成員的參選資格](../Page/畢業_\(演藝界\).md "wikilink")，第5屆起導入「[報名制](https://zh.wikipedia.org/wiki/#報名制 "wikilink")」之後，允許已預定畢業者報名參選（第6屆除外\[6\]），沒有宣布畢業的成員也可選擇不參選。通常有報名參選資格的成員，為該屆總選舉公告日時在籍者，但有兩屆將總選舉公告日之後才加入的成員以特例允許參選，分別為第6屆的[AKB48
-Team
-8](https://zh.wikipedia.org/wiki/AKB48_Team_8 "wikilink")、以及第9屆的[STU48一期生](../Page/STU48.md "wikilink")\[7\]\[8\]。另外，第5屆特別允許有4年以上在籍經驗的畢業成員報名參選\[9\]。
+原則上，**[SDN48](../Page/SDN48.md "wikilink")以外的日本國內[AKB48集團](../Page/AKB48集團.md "wikilink")全部成員**均具有被選舉權。第4屆以前排除已預定[畢業之成員的參選資格](../Page/畢業_\(演藝界\).md "wikilink")，第5屆起導入「[報名制](https://zh.wikipedia.org/wiki/#報名制 "wikilink")」之後，允許已預定畢業者報名參選（第6屆除外\[6\]），沒有宣布畢業的成員也可選擇不參選。通常有報名參選資格的成員，為該屆總選舉公告日時在籍者，但有兩屆將總選舉公告日之後才加入的成員以特例允許參選，分別為第6屆的[AKB48 Team 8](https://zh.wikipedia.org/wiki/AKB48_Team_8 "wikilink")、以及第9屆的[STU48](../Page/STU48.md "wikilink")一期生\[7\]\[8\]。另外，第5屆特別允許有4年以上在籍經驗的畢業成員報名參選\[9\]。
 
 關於AKB48集團海外（日本以外）各團成員的參選狀況，第9屆以前僅允許從AKB48移籍海外各團的成員報名參選，第10屆則首度開放海外各團的所有成員報名參選\[10\]\[11\]。
 
@@ -341,13 +337,9 @@ AKB48選拔總選舉自第5屆（2013年）起實施「報名制」（日文稱�
 
 ## 當選名額
 
-第1－3屆的得票前21名、第4屆起的得票前16名，可以做為選拔成員演唱AKB48的單曲（[標題曲](../Page/A面與B面.md "wikilink")），其中第1名即為該單曲的[Center](https://zh.wikipedia.org/wiki/AKB48組合構成#中心位置 "wikilink")（中心成員）。沒有成為選拔成員、但有進入當選名單的成員，則會組成「Under
-Girls」等數個組別，各組擁有各自的專屬歌曲（總選舉選拔單曲之[收錄曲](../Page/A面與B面.md "wikilink")）、並由名次最高者擔任Center。進入當選名單者稱為「圈內」（），反之落選者則稱為「圈外」（）。
+第1－3屆的得票前21名、第4屆起的得票前16名，可以做為選拔成員演唱AKB48的單曲（[標題曲](../Page/A面與B面.md "wikilink")），其中第1名即為該單曲的[Center](https://zh.wikipedia.org/wiki/AKB48組合構成#中心位置 "wikilink")（中心成員）。沒有成為選拔成員、但有進入當選名單的成員，則會組成「Under Girls」等數個組別，各組擁有各自的專屬歌曲（總選舉選拔單曲之[收錄曲](../Page/A面與B面.md "wikilink")）、並由名次最高者擔任Center。進入當選名單者稱為「圈內」（），反之落選者則稱為「圈外」（）。
 
-目前AKB48選拔總選舉的當選名單，分為演唱單曲的**選拔成員**／**選拔組**，以及演唱單曲收錄曲的**Under
-Girls**（）、**Next Girls**（）、**Future Girls**（）、以及**Upcoming
-Girls**（）；5個組別的人數均為16人，當選名額總計為80人。第10屆由於是「世界選拔」，因此在Upcoming
-Girls後又追加設置20人的「世界選拔總選舉紀念名額」（），當選總額則擴大至100人\[23\]。
+目前AKB48選拔總選舉的當選名單，分為演唱單曲的**選拔成員**／**選拔組**，以及演唱單曲收錄曲的**Under Girls**（）、**Next Girls**（）、**Future Girls**（）、以及**Upcoming Girls**（）；5個組別的人數均為16人，當選名額總計為80人。第10屆由於是「世界選拔」，因此在Upcoming Girls後又追加設置20人的「世界選拔總選舉紀念名額」（），當選總額則擴大至100人\[23\]。
 
 <table>
 <caption>當選組別編制與人數的變遷</caption>
@@ -437,10 +429,7 @@ Girls</p></td>
 
 此外，第1－3屆又從選拔組中選出得票前12名編為「**媒體選拔**」（），相對於其他得票數較少的選拔成員，該編組的成員可優先在電視、雜誌等媒體管道演出\[24\]。
 
-第4屆時將該屆的圈外173人稱為「**Waiting
-Girls**」（），並同時實施在34家出版社的34本雜誌登載個人平面寫真的特別企劃\[25\]，也擁有專屬歌曲（總選舉選拔單曲之收錄曲）。「Waiting
-Girls」這個名稱之後由《[週刊Playboy](../Page/週刊Playboy.md "wikilink")》為每屆的選舉結果特別出版的《泳裝驚喜發表》（）寫真[Mook沿用](https://zh.wikipedia.org/wiki/雜誌書 "wikilink")，仍然做為圈外成員的總稱。第8屆起，又在開票活動後舉行的選後演唱會上，以「**延長戰**」（）的名義公布圈外成員中得票第81
-- 100名之名單\[26\]。
+第4屆時將該屆的圈外173人稱為「**Waiting Girls**」（），並同時實施在34家出版社的34本雜誌登載個人平面寫真的特別企劃\[25\]，也擁有專屬歌曲（總選舉選拔單曲之收錄曲）。「Waiting Girls」這個名稱之後由《[週刊Playboy](../Page/週刊Playboy.md "wikilink")》為每屆的選舉結果特別出版的《泳裝驚喜發表》（）寫真[Mook沿用](https://zh.wikipedia.org/wiki/雜誌書 "wikilink")，仍然做為圈外成員的總稱。第8屆起，又在開票活動後舉行的選後演唱會上，以「**延長戰**」（）的名義公布圈外成員中得票第81 - 100名之名單\[26\]。
 
 ## 选举活动
 
@@ -628,11 +617,9 @@ Girls」這個名稱之後由《[週刊Playboy](../Page/週刊Playboy.md "wikili
 
   - 當選次數最多者
     ※標示**粗體**為歷屆參選均進入單曲選拔組者。
-    10次 -
-    **[松井珠理奈](../Page/松井珠理奈.md "wikilink")**、[峯岸南](../Page/峯岸南.md "wikilink")
+    10次 - **[松井珠理奈](../Page/松井珠理奈.md "wikilink")**、[峯岸南](../Page/峯岸南.md "wikilink")
   - 參選次數最多者
-    10次 -
-    內山命、[大家志津香](../Page/大家志津香.md "wikilink")、、[高柳明音](../Page/高柳明音.md "wikilink")、松井珠理奈、峯岸南、[宮崎美穗](../Page/宮崎美穗.md "wikilink")
+    10次 - 內山命、[大家志津香](../Page/大家志津香.md "wikilink")、、[高柳明音](../Page/高柳明音.md "wikilink")、松井珠理奈、峯岸南、[宮崎美穗](../Page/宮崎美穗.md "wikilink")
   - 初次參選即進入榜內者
     ※不包括第1屆。標示**粗體**為歷屆參選均進入榜內者。
     第2屆
@@ -659,20 +646,13 @@ Girls」這個名稱之後由《[週刊Playboy](../Page/週刊Playboy.md "wikili
   - 歷屆總得票數
     {| class="sortable wikitable"
 
-\! 屆次 || 得票數 |- | 1 || 未統計\[27\]\[28\] |- | 2 || 377,786票\[29\] |- | 3
-|| 1,166,145票\[30\] |- | 4 || 1,384,122票\[31\] |- | 5 ||
-2,646,847票\[32\] |- | 6 || 2,689,427票\[33\] |- | 7 || 3,287,736票\[34\]
-|- | 8 || 3,255,400票\[35\] |- | 9 || 3,382,368票\[36\] |- | 10 ||
-3,836,652票\[37\] |}
+\! 屆次 || 得票數 |- | 1 || 未統計\[27\]\[28\] |- | 2 || 377,786票\[29\] |- | 3 || 1,166,145票\[30\] |- | 4 || 1,384,122票\[31\] |- | 5 || 2,646,847票\[32\] |- | 6 || 2,689,427票\[33\] |- | 7 || 3,287,736票\[34\] |- | 8 || 3,255,400票\[35\] |- | 9 || 3,382,368票\[36\] |- | 10 || 3,836,652票\[37\] |}
 
 ## 開票活動轉播
 
 AKB48選拔總選舉的開票活動，曾透過[電影院](../Page/電影院.md "wikilink")、[地面電視](../Page/地面電視.md "wikilink")（[富士電視台](../Page/富士電視台.md "wikilink")）、[衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")（）、[網路串流等](../Page/網路直播.md "wikilink")4種媒體平台進行[現場直播](../Page/現場直播.md "wikilink")。
 
-第2届与第3届时，于电影院进行了银幕直播。自2012年的第4届起由富士电视台以《**AKB48（選拔）總選舉
-直播特別節目**》（）为题製播，并于[其联播网内播出](https://zh.wikipedia.org/wiki/富士电视网 "wikilink")。BS
-Sky
-PerfecTV\!在2014年的第6届时进行了全程直播\[38\]、但在2015年以后则直播到地面电视直播开始后就结束播出（也有稍延时的情况）。具体直播日期请参考上述「[过程](https://zh.wikipedia.org/wiki/#過程 "wikilink")」章節。
+第2届与第3届时，于电影院进行了银幕直播。自2012年的第4届起由富士电视台以《**AKB48（選拔）總選舉 直播特別節目**》（）为题製播，并于[其联播网内播出](https://zh.wikipedia.org/wiki/富士电视网 "wikilink")。BS Sky PerfecTV\!在2014年的第6届时进行了全程直播\[38\]、但在2015年以后则直播到地面电视直播开始后就结束播出（也有稍延时的情况）。具体直播日期请参考上述「[过程](https://zh.wikipedia.org/wiki/#過程 "wikilink")」章節。
 
 本章節提及之時間均以[日本標準時間](../Page/日本標準時間.md "wikilink")（[UTC+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")）為單位。
 
@@ -720,7 +700,7 @@ PerfecTV\!在2014年的第6届时进行了全程直播\[38\]、但在2015年以�
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>AKB选拔总选举+1专页<br />
-（<a href="../Page/Google+.md" title="wikilink">Google+</a> / AKB48官方<a href="../Page/YouTube.md" title="wikilink">YouTube频道</a>）[43]</p></td>
+（<a href="../Page/Google+.md" title="wikilink">Google+</a> / AKB48官方<a href="../Page/YouTube.md" title="wikilink">YouTube</a>频道）[43]</p></td>
 <td><p>[44]<br />
 [45]</p></td>
 </tr>
@@ -961,44 +941,26 @@ AKB48選拔總選舉博物館（）是一项与AKB48選拔總選舉相关的展�
 
 ### 文獻
 
-## 関連項目
+## 相關項目
 
   -
-  - [第67回NHK紅白歌合戰](../Page/第67回NHK紅白歌合戰.md "wikilink") -
-    該節目舉行仿效AKB48選拔總選舉的「AKB48 夢之紅白選拔」企劃活動。
+  - [第67回NHK紅白歌合戰](../Page/第67回NHK紅白歌合戰.md "wikilink") - 該節目舉行仿效AKB48選拔總選舉的「AKB48 夢之紅白選拔」企劃活動。
 
-  - [AKB48公演列表](../Page/AKB48公演列表.md "wikilink") -
-    收錄有AKB48「樂曲總選舉」之稱的「重溫時間」（）歌曲票選活動。
+  - [AKB48公演列表](../Page/AKB48公演列表.md "wikilink") - 收錄有AKB48「樂曲總選舉」之稱的「重溫時間」（）歌曲票選活動。
 
 ## 外部鏈結
 
-  - [AKB48第53張單曲世界選拔總選舉 官方網頁](https://www.akb48.co.jp/sousenkyo53rd) -
-    AKB48官方網站
+  - [AKB48第53張單曲世界選拔總選舉 官方網頁](https://www.akb48.co.jp/sousenkyo53rd) - AKB48官方網站
       - [HISTORY 總選舉的歷史](https://www.akb48.co.jp/sousenkyo53rd/history)
-  - [AKB48第49張單曲選拔總選舉 官方網頁](http://www.akb48.co.jp/sousenkyo49th/) -
-    AKB48官方網站
+  - [AKB48第49張單曲選拔總選舉 官方網頁](http://www.akb48.co.jp/sousenkyo49th/) - AKB48官方網站
 
-[Category:AKB48選拔總選舉](https://zh.wikipedia.org/wiki/Category:AKB48選拔總選舉 "wikilink")
-[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink")
-[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink")
-[Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink")
-[Category:HKT48](https://zh.wikipedia.org/wiki/Category:HKT48 "wikilink")
-[Category:NGT48](https://zh.wikipedia.org/wiki/Category:NGT48 "wikilink")
-[Category:STU48](https://zh.wikipedia.org/wiki/Category:STU48 "wikilink")
-[Category:JKT48](https://zh.wikipedia.org/wiki/Category:JKT48 "wikilink")
-[Category:SNH48](https://zh.wikipedia.org/wiki/Category:SNH48 "wikilink")
-[Category:BNK48](https://zh.wikipedia.org/wiki/Category:BNK48 "wikilink")
-[Category:AKB48_Team_TP](https://zh.wikipedia.org/wiki/Category:AKB48_Team_TP "wikilink")
-[Category:排名](https://zh.wikipedia.org/wiki/Category:排名 "wikilink")
+[Category:AKB48選拔總選舉](https://zh.wikipedia.org/wiki/Category:AKB48選拔總選舉 "wikilink") [Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink") [Category:HKT48](https://zh.wikipedia.org/wiki/Category:HKT48 "wikilink") [Category:NGT48](https://zh.wikipedia.org/wiki/Category:NGT48 "wikilink") [Category:STU48](https://zh.wikipedia.org/wiki/Category:STU48 "wikilink") [Category:JKT48](https://zh.wikipedia.org/wiki/Category:JKT48 "wikilink") [Category:SNH48](https://zh.wikipedia.org/wiki/Category:SNH48 "wikilink") [Category:BNK48](https://zh.wikipedia.org/wiki/Category:BNK48 "wikilink") [Category:AKB48_Team_TP](https://zh.wikipedia.org/wiki/Category:AKB48_Team_TP "wikilink") [Category:排名](https://zh.wikipedia.org/wiki/Category:排名 "wikilink")
 
-1.  [J-PlatPat
-    特許情報プラットフォーム](https://www.j-platpat.inpit.go.jp/web/all/top/BTmTopPage)
-    商標出願・登録情報 第5655187号,第5657674号
+1.  [J-PlatPat 特許情報プラットフォーム](https://www.j-platpat.inpit.go.jp/web/all/top/BTmTopPage) 商標出願・登録情報 第5655187号,第5657674号
 
 2.  ○○為。在日語原名的標示上，依照單曲張數的不同以英語格式「-st」、「-nd」、「-rd」、「-th」等推進。
 
-3.  「粉絲用語 初級篇 總選舉」 - 《AKB48官方日記 2013-2014》，，2013年3月6日。 ISBN
-    978-4-8356-1826-5
+3.  「粉絲用語 初級篇 總選舉」 - 《AKB48官方日記 2013-2014》，，2013年3月6日。 ISBN 978-4-8356-1826-5
 
 4.  原先預定的場地為同市的「豐崎海濱公園・豐崎美麗陽光海岸」（），為一戶外空間；最終因天候不佳而變更場地，導致[無法開放觀眾參與](../Page/無觀眾比賽.md "wikilink")。
 
@@ -1006,11 +968,9 @@ AKB48選拔總選舉博物館（）是一项与AKB48選拔總選舉相关的展�
 
 6.
 
-7.  「AKB48 37thシングル選抜総選挙のしくみ」AKB48グループ『AKB48総選挙公式ガイドブック
-    2014』講談社MOOK、2014年5月14日、p. 4。 ISBN 978-4-06-389832-3
+7.  「AKB48 37thシングル選抜総選挙のしくみ」AKB48グループ『AKB48総選挙公式ガイドブック 2014』講談社MOOK、2014年5月14日、p. 4。 ISBN 978-4-06-389832-3
 
-8.  「AKB48 49thシングル選抜総選挙のしくみ」FRIDAY編集部編 AKB48グループ著『AKB48総選挙公式ガイドブック
-    2017』 講談社MOOK、2017年5月17日、p. 4。ISBN 978-4-06-509565-2
+8.  「AKB48 49thシングル選抜総選挙のしくみ」FRIDAY編集部編 AKB48グループ著『AKB48総選挙公式ガイドブック 2017』 講談社MOOK、2017年5月17日、p. 4。ISBN 978-4-06-509565-2
 
 9.
 

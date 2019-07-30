@@ -1,9 +1,8 @@
-《**tomorrow／不會枯萎的花**》（）是[日本女性](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[下川美娜的第](../Page/下川美娜.md "wikilink")7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2002年2月20日由[Pony
-Canyon發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+《**tomorrow／不會枯萎的花**》（）是[日本](../Page/日本.md "wikilink")女性[歌手](../Page/歌手.md "wikilink")[下川美娜](../Page/下川美娜.md "wikilink")的第7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2002年2月20日由[Pony Canyon發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 解說
 
-  - 《tomorrow／不會枯萎的花》是[歌手](../Page/歌手.md "wikilink")[下川美娜她自從上一張單曲](../Page/下川美娜.md "wikilink")《》以來，睽違1年3個月發行的最新單曲。也是下川她第一次親自作詞、作曲，及第一次在她的個人專輯收錄的單曲。表題曲「tomorrow／不會枯萎的花」曾在2002年1月至6月[WOWOW播出的](../Page/WOWOW.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[驚爆危機！](https://zh.wikipedia.org/wiki/驚爆危機#驚爆危機！ "wikilink")》分別當作片頭主題曲和片尾主題曲使用。
+  - 《tomorrow／不會枯萎的花》是[歌手](../Page/歌手.md "wikilink")[下川美娜](../Page/下川美娜.md "wikilink")她自從上一張單曲《》以來，睽違1年3個月發行的最新單曲。也是下川她第一次親自作詞、作曲，及第一次在她的個人專輯收錄的單曲。表題曲「tomorrow／不會枯萎的花」曾在2002年1月至6月[WOWOW](../Page/WOWOW.md "wikilink")播出的[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[驚爆危機！](https://zh.wikipedia.org/wiki/驚爆危機#驚爆危機！ "wikilink")》分別當作片頭主題曲和片尾主題曲使用。
   - 另外，「tomorrow」是有其他樂手參加的收錄歌曲，由樂團負責合音。
 
 ## 收錄歌曲
@@ -55,8 +54,4 @@ Canyon發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
   - （2004年11月24日發行）－「完全版」形式收錄
 
-[Category:2002年單曲](https://zh.wikipedia.org/wiki/Category:2002年單曲 "wikilink")
-[Category:下川美娜歌曲](https://zh.wikipedia.org/wiki/Category:下川美娜歌曲 "wikilink")
-[Category:電視動畫主題曲](https://zh.wikipedia.org/wiki/Category:電視動畫主題曲 "wikilink")
-[Category:WOWOW動畫主題曲](https://zh.wikipedia.org/wiki/Category:WOWOW動畫主題曲 "wikilink")
-[Category:驚爆危機](https://zh.wikipedia.org/wiki/Category:驚爆危機 "wikilink")
+[Category:2002年單曲](https://zh.wikipedia.org/wiki/Category:2002年單曲 "wikilink") [Category:下川美娜歌曲](https://zh.wikipedia.org/wiki/Category:下川美娜歌曲 "wikilink") [Category:電視動畫主題曲](https://zh.wikipedia.org/wiki/Category:電視動畫主題曲 "wikilink") [Category:WOWOW動畫主題曲](https://zh.wikipedia.org/wiki/Category:WOWOW動畫主題曲 "wikilink") [Category:驚爆危機](https://zh.wikipedia.org/wiki/Category:驚爆危機 "wikilink")

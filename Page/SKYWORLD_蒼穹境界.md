@@ -1,13 +1,10 @@
-是[瀬尾つかさ所著的](https://zh.wikipedia.org/wiki/瀬尾つかさ "wikilink")[日本](../Page/日本.md "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，[武藤此史負責插畫](https://zh.wikipedia.org/wiki/武藤此史 "wikilink")。[富士見Fantasia文庫出版](../Page/富士見Fantasia文庫.md "wikilink")\[1\]。2014年2月漫畫版由負責並在《[月刊Dragon
-Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")》連載，同年11月漫畫版完結\[2\]。中文版小說與漫畫皆為台灣[東立出版社代理出版](../Page/東立出版社.md "wikilink")\[3\]。
+是[瀬尾つかさ所著的](https://zh.wikipedia.org/wiki/瀬尾つかさ "wikilink")[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品，[武藤此史負責插畫](https://zh.wikipedia.org/wiki/武藤此史 "wikilink")。[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")出版\[1\]。2014年2月漫畫版由負責並在《[月刊Dragon Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")》連載，同年11月漫畫版完結\[2\]。中文版小說與漫畫皆為台灣[東立出版社](../Page/東立出版社.md "wikilink")代理出版\[3\]。
 
 本書在日本銷售成績十分亮眼，出版第一集首週就進入[Oricon文庫排行榜前](https://zh.wikipedia.org/wiki/Oricon文庫 "wikilink")50名\[4\]。
 
 ## 故事簡介
 
-[MMORPG](https://zh.wikipedia.org/wiki/MMORPG "wikilink")「SKYWORLD
-蒼穹境界」——這是個從上往下，分成八個軌道，結合了魔法與科學，並藉由飛空艇在無數浮空島之間旅行的奇幻線上遊戲世界。
-這個遊戲在開始營運的第一個星期就發生數萬名玩家同時被困在遊戲世界之中的意外，這些玩家至今仍無法找到回歸現實世界的出口……
+[MMORPG](https://zh.wikipedia.org/wiki/MMORPG "wikilink")「SKYWORLD 蒼穹境界」——這是個從上往下，分成八個軌道，結合了魔法與科學，並藉由飛空艇在無數浮空島之間旅行的奇幻線上遊戲世界。 這個遊戲在開始營運的第一個星期就發生數萬名玩家同時被困在遊戲世界之中的意外，這些玩家至今仍無法找到回歸現實世界的出口……
 身為其中之一的玩家，淳——三木盛淳一郎，他不加入任何隊伍，以其特有的遊戲天分獨自進行攻略。某天，他遇見一位迷路的新手，歌澄，與一位白魔術師枝理。這一對搭檔向淳尋求協助，三人一同挑戰難解的遊戲任務：蒼穹境界唯一座懸浮在蒼穹之中的浮空島——第一軌道，『』。
 
 ……一篇線上奇幻冒險故事就此揭開序幕。
@@ -39,7 +36,7 @@ Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")》連載，同�
     最後選擇留下。
   - ／
     職業：輕裝戰士／鳳凰衛士
-    高中二年級，是全員住宿的女子學校。家教嚴格，說話常使用敬語。以自己的[黑長直為傲](https://zh.wikipedia.org/wiki/黑長直 "wikilink")，巨乳，是個天然呆，心裡想的事情都寫在臉上。好友口中的大和撫子，但對於「胸部太大穿[和服不好看](../Page/和服.md "wikilink")」很介意。
+    高中二年級，是全員住宿的女子學校。家教嚴格，說話常使用敬語。以自己的[黑長直為傲](https://zh.wikipedia.org/wiki/黑長直 "wikilink")，巨乳，是個天然呆，心裡想的事情都寫在臉上。好友口中的大和撫子，但對於「胸部太大穿[和服](../Page/和服.md "wikilink")不好看」很介意。
     原先和咲耶一起行動，但在某次搭乘飛空艇經過第八軌道亞塔利雅島時遭遇怪物襲擊，咲耶將歌澄踢下飛空艇，因此歌澄的復活點被綁定在亞塔利雅島。在「離開這座浮空島」的前提下加入島上的紅布騎士團（實際上公會並未幫助歌澄）。
     為了公會成員外出蒐集上級蜂蜜，在這時遇見淳。看見淳的戰鬥技巧純熟，自告奮勇要拜淳為師。後來在枝理的幫助下，一起脫離了紅布騎士團並和淳組隊。
     在第七軌道時（第二卷），為了解決路卡的委託，隊伍前往金字塔調查。分開行動時，歌澄和路卡不小心誤觸陷阱，中了蓬萊皇帝的即死攻擊「死亡呼喚」後強制承接了「蓬萊皇帝的復活」的任務。在淳的隊伍解決該任務後，副職業系統開啟，淳、歌澄、枝理、尤佳莉雅和路卡五人獲得特殊副職業——鳳凰衛士。他們推測全蒼穹境界可能只有這五個人有該副職業。
@@ -48,7 +45,7 @@ Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")》連載，同�
     輕裝戰士擅長迴避，副職業鳳凰衛士每天可以不扣平板電腦電池電量復活一次、自動回復、傷害護盾，和輕裝戰士相輔相成，相當突出的防守角色。
   - ／
     職業：白魔術師／白魔術師→鳳凰衛士
-    初中三年級，綁著[雙馬尾的女孩](../Page/雙馬尾.md "wikilink")。表面上是個[現充](https://zh.wikipedia.org/wiki/現充 "wikilink")（或者說，至少她善於製造出這樣的形象）；實際上能表達出內心真正想法的地方只有網路，在網路上她才敢表達出真正的自己。
+    初中三年級，綁著[雙馬尾](../Page/雙馬尾.md "wikilink")的女孩。表面上是個[現充](https://zh.wikipedia.org/wiki/現充 "wikilink")（或者說，至少她善於製造出這樣的形象）；實際上能表達出內心真正想法的地方只有網路，在網路上她才敢表達出真正的自己。
     之所以會開始玩蒼穹境界，是因爲其他MMORPG中交到的網友推薦，拷貝了遊戲程式給她。儘管這款只靠玩家口耳相傳散佈遊戲客戶端的遊戲非常可疑，但在她上網搜尋之下，似乎又沒有夾帶[病毒或](https://zh.wikipedia.org/wiki/電腦病毒 "wikilink")[木馬](https://zh.wikipedia.org/wiki/特洛伊木馬_\(電腦\) "wikilink")，因此她嘗試性地開始了這款遊戲。枝理開始玩蒼穹境界的隔天就是『轉生之日』。
     之後被紅布騎士團收留。但枝理發現公會會長和現實中其他朋友一樣，而且不肯努力，公會其他成員也對其言聽計從。在歌澄遇見淳後，決心幫助歌澄。成功之後也脫離紅布騎士團加入淳的隊伍一起冒險。
     很在意自己的身材，是個貧乳。但她本人堅稱還處在發育期所以還不能定論。
@@ -443,14 +440,7 @@ Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")》連載，同�
 
   - [富士見書房 | スカイ・ワールド](http://www.fujimishobo.co.jp/sp/201208skyworld/)
 
-[Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink")
-[Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink")
-[Category:2012年日本小說](https://zh.wikipedia.org/wiki/Category:2012年日本小說 "wikilink")
-[Category:大型多人在線角色扮演遊戲題材作品](https://zh.wikipedia.org/wiki/Category:大型多人在線角色扮演遊戲題材作品 "wikilink")
-[Category:虛構電子遊戲](https://zh.wikipedia.org/wiki/Category:虛構電子遊戲 "wikilink")
-[Category:異世界題材作品](https://zh.wikipedia.org/wiki/Category:異世界題材作品 "wikilink")
-[Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink")
-[Category:月刊Dragon_Age](https://zh.wikipedia.org/wiki/Category:月刊Dragon_Age "wikilink")
+[Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink") [Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink") [Category:2012年日本小說](https://zh.wikipedia.org/wiki/Category:2012年日本小說 "wikilink") [Category:大型多人在線角色扮演遊戲題材作品](https://zh.wikipedia.org/wiki/Category:大型多人在線角色扮演遊戲題材作品 "wikilink") [Category:虛構電子遊戲](https://zh.wikipedia.org/wiki/Category:虛構電子遊戲 "wikilink") [Category:異世界題材作品](https://zh.wikipedia.org/wiki/Category:異世界題材作品 "wikilink") [Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink") [Category:月刊Dragon_Age](https://zh.wikipedia.org/wiki/Category:月刊Dragon_Age "wikilink")
 
 1.
 2.

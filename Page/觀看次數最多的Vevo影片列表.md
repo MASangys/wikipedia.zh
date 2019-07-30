@@ -80,14 +80,14 @@
 <tr class="even">
 <td><p>10.</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/黑馬_(歌曲)" title="wikilink">黑馬</a></p></td>
-<td><p><a href="../Page/凱蒂·佩芮.md" title="wikilink">凱蒂·佩芮</a><small>（<a href="../Page/裘西·J.md" title="wikilink">裘西·J伴唱</a>）</small></p></td>
+<td><p><a href="../Page/凱蒂·佩芮.md" title="wikilink">凱蒂·佩芮</a><small>（<a href="../Page/裘西·J.md" title="wikilink">裘西·J</a>伴唱）</small></p></td>
 <td><p>2,570,615,834</p></td>
 <td><p>2014年2月20日</p></td>
 </tr>
 <tr class="odd">
 <td><p>11.</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/依靠_(歌曲)" title="wikilink">依靠</a></p></td>
-<td><p>、<a href="../Page/DJ蛇王.md" title="wikilink">DJ蛇王</a> <small>（<a href="../Page/MØ.md" title="wikilink">MØ伴唱</a>）</small></p></td>
+<td><p>、<a href="../Page/DJ蛇王.md" title="wikilink">DJ蛇王</a> <small>（<a href="../Page/MØ.md" title="wikilink">MØ</a>伴唱）</small></p></td>
 <td><p>2,566,200,548</p></td>
 <td><p>2015年3月22日</p></td>
 </tr>
@@ -108,7 +108,7 @@
 <tr class="even">
 <td><p>14.</p></td>
 <td></td>
-<td><p><a href="../Page/夏奇拉.md" title="wikilink">夏奇拉</a><small>（<a href="../Page/馬路馬.md" title="wikilink">馬路馬伴唱</a>）</small></p></td>
+<td><p><a href="../Page/夏奇拉.md" title="wikilink">夏奇拉</a><small>（<a href="../Page/馬路馬.md" title="wikilink">馬路馬</a>伴唱）</small></p></td>
 <td><p>2,369,585,867</p></td>
 <td><p>2016年11月18日</p></td>
 </tr>
@@ -143,7 +143,7 @@
 <tr class="odd">
 <td><p>19.</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/天注定_(歌曲)" title="wikilink">天注定</a></p></td>
-<td><p><a href="../Page/凱文·哈里斯.md" title="wikilink">凱文·哈里斯</a><small>（<a href="../Page/蕾哈娜.md" title="wikilink">蕾哈娜伴唱</a>）</small></p></td>
+<td><p><a href="../Page/凱文·哈里斯.md" title="wikilink">凱文·哈里斯</a><small>（<a href="../Page/蕾哈娜.md" title="wikilink">蕾哈娜</a>伴唱）</small></p></td>
 <td><p>2,213,785,322</p></td>
 <td><p>2016年6月16日</p></td>
 </tr>
@@ -206,7 +206,7 @@
 <tr class="even">
 <td><p>28.</p></td>
 <td></td>
-<td><p><a href="../Page/阿姆.md" title="wikilink">阿姆</a><small>（<a href="../Page/蕾哈娜.md" title="wikilink">蕾哈娜伴唱</a>）</small></p></td>
+<td><p><a href="../Page/阿姆.md" title="wikilink">阿姆</a><small>（<a href="../Page/蕾哈娜.md" title="wikilink">蕾哈娜</a>伴唱）</small></p></td>
 <td><p>1,775,352,436</p></td>
 <td><p>2010年8月5日</p></td>
 </tr>

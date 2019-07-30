@@ -1,7 +1,4 @@
-《**Love
-Catcher**》（，中譯為**戀愛捕手**\[1\]）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet於](https://zh.wikipedia.org/wiki/Mnet "wikilink")2018年製作的綜藝節目\[2\]\[3\]，由[申東燁](../Page/申東燁.md "wikilink")、[洪錫天](https://zh.wikipedia.org/wiki/洪錫天 "wikilink")、[張度練](../Page/張度練.md "wikilink")、[Lady
-Jane](../Page/Lady_Jane.md "wikilink")、[JR](../Page/JR_\(NU'EST\).md "wikilink")、全健宇（推理小說家）等人\[4\]\[5\]共同主持，主軸以製作組尋找五男五女\[6\]居住於一「戀愛公寓」（男生一棟、女生一棟、共同使用一棟，另有戶外共同空間）中，共同歷經八天七夜。而10人中有「Love
-Catcher」和「Money Catcher」等角色，各角色需完成自己的任務，獲勝者可獲得韓幣5000萬元（約合新台幣137萬元）。
+《**Love Catcher**》（，中譯為**戀愛捕手**\[1\]）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet於](https://zh.wikipedia.org/wiki/Mnet "wikilink")2018年製作的綜藝節目\[2\]\[3\]，由[申東燁](../Page/申東燁.md "wikilink")、[洪錫天](https://zh.wikipedia.org/wiki/洪錫天 "wikilink")、[張度練](../Page/張度練.md "wikilink")、[Lady Jane](../Page/Lady_Jane.md "wikilink")、[JR](../Page/JR_\(NU'EST\).md "wikilink")、全健宇（推理小說家）等人\[4\]\[5\]共同主持，主軸以製作組尋找五男五女\[6\]居住於一「戀愛公寓」（男生一棟、女生一棟、共同使用一棟，另有戶外共同空間）中，共同歷經八天七夜。而10人中有「Love Catcher」和「Money Catcher」等角色，各角色需完成自己的任務，獲勝者可獲得韓幣5000萬元（約合新台幣137萬元）。
 
 ## 節目規則
 
@@ -15,10 +12,8 @@ Catcher」和「Money Catcher」等角色，各角色需完成自己的任務，
 
 <!-- end list -->
 
-  - 「Love Catcher」：以尋找真摯的愛情為目標的參與者，若與另一位「Love
-    Catcher」組合，即可獲得愛情。製作組另加碼贈送「情侶戒指」一對。
-  - 「Watcher」：由[申東燁](../Page/申東燁.md "wikilink")、[洪錫天](https://zh.wikipedia.org/wiki/洪錫天 "wikilink")、[張度練](../Page/張度練.md "wikilink")、[Lady
-    Jane](../Page/Lady_Jane.md "wikilink")、[JR](../Page/JR_\(NU'EST\).md "wikilink")、全健宇（推理小說家）擔任，主要進行分析與預測。
+  - 「Love Catcher」：以尋找真摯的愛情為目標的參與者，若與另一位「Love Catcher」組合，即可獲得愛情。製作組另加碼贈送「情侶戒指」一對。
+  - 「Watcher」：由[申東燁](../Page/申東燁.md "wikilink")、[洪錫天](https://zh.wikipedia.org/wiki/洪錫天 "wikilink")、[張度練](../Page/張度練.md "wikilink")、[Lady Jane](../Page/Lady_Jane.md "wikilink")、[JR](../Page/JR_\(NU'EST\).md "wikilink")、全健宇（推理小說家）擔任，主要進行分析與預測。
   - 第一天晚上會公布「Money Catcher」的人數。
   - 情侶挑戰第一名可進入「秘密房間」；進入房間後可從10位合宿者中任選1人，並知道該人的相關線索一個（每1位合宿者將各有五個線索）。
   - 一天可以表示一次好感暗示。
@@ -48,7 +43,7 @@ Catcher」和「Money Catcher」等角色，各角色需完成自己的任務，
 <td><p><a href="../Page/金智妍_(1996年).md" title="wikilink">金智妍</a></p></td>
 <td><p>김지연</p></td>
 <td><p>女</p></td>
-<td><p>23歲，<a href="../Page/漢陽大學.md" title="wikilink">漢陽大學大學生</a>（主修舞蹈），家鄉在<a href="https://zh.wikipedia.org/wiki/慶尚南道" title="wikilink">慶尚南道</a><a href="https://zh.wikipedia.org/wiki/巨濟島" title="wikilink">巨濟島</a>，住在<a href="../Page/大邱廣域市.md" title="wikilink">大邱廣域市</a><a href="https://zh.wikipedia.org/wiki/達西區" title="wikilink">達西區聖堂洞一帶</a>。<br />
+<td><p>23歲，<a href="../Page/漢陽大學.md" title="wikilink">漢陽大學</a>大學生（主修舞蹈），家鄉在<a href="https://zh.wikipedia.org/wiki/慶尚南道" title="wikilink">慶尚南道</a><a href="https://zh.wikipedia.org/wiki/巨濟島" title="wikilink">巨濟島</a>，住在<a href="../Page/大邱廣域市.md" title="wikilink">大邱廣域市</a><a href="https://zh.wikipedia.org/wiki/達西區" title="wikilink">達西區聖堂洞一帶</a>。<br />
 最喜歡的讀物為<a href="https://zh.wikipedia.org/wiki/作家" title="wikilink">作家所撰寫的</a>《矛盾》。<br />
 過去最長戀愛為100天。<br />
 節目開始前就認識李敏浩，李敏浩為工作同事的前男友。<br />
@@ -59,7 +54,7 @@ Catcher」和「Money Catcher」等角色，各角色需完成自己的任務，
 <td><p>李材溫</p></td>
 <td><p>이채운</p></td>
 <td><p>男</p></td>
-<td><p>30歲（1989年生），住在<a href="../Page/首爾.md" title="wikilink">首爾聖水洞</a>，廣告企劃和品牌經理。同時也再延南洞經營雞尾酒吧兼咖啡館。<br />
+<td><p>30歲（1989年生），住在<a href="../Page/首爾.md" title="wikilink">首爾</a>聖水洞，廣告企劃和品牌經理。同時也再延南洞經營雞尾酒吧兼咖啡館。<br />
 喜歡在咖啡館放鬆和享用美食。<br />
 最常聽別人稱讚自己有責任感。<br />
 最後一次戀愛為一年前。</p></td>
@@ -80,7 +75,7 @@ Catcher」和「Money Catcher」等角色，各角色需完成自己的任務，
 <td><p>黃彩媛</p></td>
 <td><p>황채원</p></td>
 <td><p>女</p></td>
-<td><p>27歲，演員志願生，故鄉是<a href="../Page/首爾.md" title="wikilink">首爾昌原洞</a>，<a href="../Page/漢陽大學.md" title="wikilink">漢陽大學畢業</a>。<br />
+<td><p>27歲，演員志願生，故鄉是<a href="../Page/首爾.md" title="wikilink">首爾</a>昌原洞，<a href="../Page/漢陽大學.md" title="wikilink">漢陽大學</a>畢業。<br />
 喜歡便利商店的食物。<br />
 喜歡休閒舒適的風格。</p></td>
 <td><p>Love Catcher</p></td>
@@ -108,7 +103,7 @@ Catcher」和「Money Catcher」等角色，各角色需完成自己的任務，
 <td><p>高勝宇</p></td>
 <td><p>고승우</p></td>
 <td><p>男</p></td>
-<td><p>34歲，<a href="../Page/律師.md" title="wikilink">律師</a>，曾至<a href="../Page/中國.md" title="wikilink">中國留學</a>。<br />
+<td><p>34歲，<a href="../Page/律師.md" title="wikilink">律師</a>，曾至<a href="../Page/中國.md" title="wikilink">中國</a>留學。<br />
 喜歡飲酒。<br />
 跟藝人<a href="https://zh.wikipedia.org/wiki/Tony_An" title="wikilink">Tony An一起生活許久</a>，因此常在《<a href="../Page/我家的熊孩子.md" title="wikilink">我家的熊孩子</a>》出演。<br />
 最後一次戀愛為兩年前。</p></td>
@@ -502,8 +497,7 @@ Catcher」和「Money Catcher」等角色，各角色需完成自己的任務，
 ### 第6集
 
   - 本集起無祕密房間，亦無情侶競賽。
-  - 製作組本集最終公布被合宿者大部分人懷疑是金錢捕手，然後被淘汰者是高勝宇（實際上是Money Catcher）、黄彩元（實際上是Love
-    Catcher） ​。
+  - 製作組本集最終公布被合宿者大部分人懷疑是金錢捕手，然後被淘汰者是高勝宇（實際上是Money Catcher）、黄彩元（實際上是Love Catcher） ​。
 
 <table>
 <thead>
@@ -582,7 +576,7 @@ Catcher」和「Money Catcher」等角色，各角色需完成自己的任務，
 
 ### 第7集
 
-  - JR本集因[NU'EST赴美公演而缺席](../Page/NU'EST.md "wikilink")。
+  - JR本集因[NU'EST](../Page/NU'EST.md "wikilink")赴美公演而缺席。
   - 本集可以與自己心儀的對象約會，但必須由女性主動邀請，且由女性指定約會地點（展示自己魅力）。
   - 製作組本集最終公布交換身分的Catcher為金勝雅。
 
@@ -689,7 +683,7 @@ Catcher」和「Money Catcher」等角色，各角色需完成自己的任務，
 <td><p>韓楚林</p></td>
 <td><p>自己經營的<br />
 <a href="https://zh.wikipedia.org/wiki/首爾市" title="wikilink">首爾市</a><a href="../Page/麻浦區.md" title="wikilink">麻浦區</a><a href="https://www.facebook.com/dresden1986/">dresden1986咖啡店</a>[35]→<br />
-<a href="../Page/京義線.md" title="wikilink">京義線林蔭公園</a></p></td>
+<a href="../Page/京義線.md" title="wikilink">京義線</a>林蔭公園</p></td>
 <td><p>韓楚林</p></td>
 <td><p>愛情<br />
 「情侶戒指」一對<br />
@@ -932,9 +926,7 @@ Catcher」和「Money Catcher」等角色，各角色需完成自己的任務，
 
   -
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
 1.  原本節目名稱即為英文**Love Catcher**。
 2.
@@ -944,7 +936,7 @@ Catcher」和「Money Catcher」等角色，各角色需完成自己的任務，
 6.
 7.  木盒上刻有自己的名字。
 8.  製作組於第七集開放參與者可更換角色。
-9.  父親原為知名服裝秀導演，後來改在濟州島牛島進行建築與設計；母親則是濟州島交響樂團的[小提琴手](../Page/小提琴.md "wikilink")。
+9.  父親原為知名服裝秀導演，後來改在濟州島牛島進行建築與設計；母親則是濟州島交響樂團的[小提琴](../Page/小提琴.md "wikilink")手。
 10. 事前採訪：製作組提問如果心儀男性要求金勝雅放棄獎金並與其交往，金勝雅會不會真得放棄獎金並與該男性交往。
 11. 本集情侶競賽為選擇相同的服裝的男女一組，進行畫報拍攝活動。
 12. 本集男女可各自行私下約一人談話。
@@ -965,27 +957,21 @@ Catcher」和「Money Catcher」等角色，各角色需完成自己的任務，
 26. 事前採訪：製作組提問是否能看出男生撒謊，黃蘭覺得自己的事前直覺很準；製作組再提問黃蘭自己撒謊容不容易被他人識破，黃蘭表示很容易被識破。製作組最後提問若男生提出交往但黃蘭必須捨棄獎金怎麼辦，黃蘭表示真得很喜歡對方的話，可以放棄獎金。
 27. Tony An的專訪，主要是針對高勝宇的個性描述，以及對高勝宇的預測（Tony An覺得高勝宇是Love Catcher）。
 28. 於第6集才公開。
-29. 本集製作組事先分配好情侶的組合，請女方以30萬韓元打扮同組男伴成為自己理想中男友的外型，而各對情侶利用汽車移動至指定位置（分別有：首爾中區東大門都塔(Doota)購物中心、首爾廣津區建大集裝箱COMMON
-    GROUND購物中心），替男性進行打扮。最終由黃在根時裝設計師進行評等。
+29. 本集製作組事先分配好情侶的組合，請女方以30萬韓元打扮同組男伴成為自己理想中男友的外型，而各對情侶利用汽車移動至指定位置（分別有：首爾中區東大門都塔(Doota)購物中心、首爾廣津區建大集裝箱COMMON GROUND購物中心），替男性進行打扮。最終由黃在根時裝設計師進行評等。
 30. 本集男女須對懷疑為Money Catcher的異性投票，男、女得票最高票者一起淘汰。
-31. 本集製作組事先分配好情侶的組合，前往[江原道](https://zh.wikipedia.org/wiki/江原道_\(韓國\) "wikilink")[春川Camping](https://zh.wikipedia.org/wiki/春川 "wikilink")
-    G.
-    Ground[露營場](https://happyglamper.modoo.at/)進行露營（[該露營場instagram,內含Love
-    Catcher錄影狀態](https://www.instagram.com/the_secret_garden_glamping/)）。並由吳路濱、金智妍情侶負責前往[江原道](https://zh.wikipedia.org/wiki/江原道_\(韓國\) "wikilink")[春川P傳統市場採購](https://zh.wikipedia.org/wiki/春川 "wikilink")；而由李材溫、黃蘭情侶前往超市採購。
+31. 本集製作組事先分配好情侶的組合，前往[江原道](https://zh.wikipedia.org/wiki/江原道_\(韓國\) "wikilink")[春川Camping](https://zh.wikipedia.org/wiki/春川 "wikilink") G. Ground[露營場](https://happyglamper.modoo.at/)進行露營（[該露營場instagram,內含Love Catcher錄影狀態](https://www.instagram.com/the_secret_garden_glamping/)）。並由吳路濱、金智妍情侶負責前往[江原道](https://zh.wikipedia.org/wiki/江原道_\(韓國\) "wikilink")[春川P傳統市場採購](https://zh.wikipedia.org/wiki/春川 "wikilink")；而由李材溫、黃蘭情侶前往超市採購。
 32. 邀請至親「[成智允](https://www.instagram.com/jyunsonice/)」一同參加約會。
 33. 楚林邀請[自己所在的女團](https://www.instagram.com/real_camila_official/)（[隊友1](https://www.instagram.com/na_avvv/)、[隊友2](https://www.instagram.com/jeong_yubeen/)）一同表演熱舞。
 34. 但由於先前男性選擇時，李敏浩已選擇黃蘭，因此金智妍僅能將木盒交給李敏浩後退場。
-35. 地址為[首爾](../Page/首爾.md "wikilink")[麻浦區東橋路](../Page/麻浦區.md "wikilink")38街14。
+35. 地址為[首爾](../Page/首爾.md "wikilink")[麻浦區](../Page/麻浦區.md "wikilink")東橋路38街14。
 36. 雙方一起在秘密房間中領取戒指後，並一同觀看所有人的真實身分。
 37. 但李敏浩配對失敗，因黃蘭選擇李宏昌。
 38. 邀請自己最小的妹妹Oasis一同參加約會。
 39. 純金打造。
 40. 預測「Money Catcher」人數，預測正確者可獲得愛情幣一枚。（製作組公佈為5人）
-41. 預測女性的「Money Catcher」，若與全體合宿者預測的女性「Money
-    Catcher」中最高票結果一致（合宿者投票結果為金智妍），可獲得愛情幣一枚。
+41. 預測女性的「Money Catcher」，若與全體合宿者預測的女性「Money Catcher」中最高票結果一致（合宿者投票結果為金智妍），可獲得愛情幣一枚。
 42. 預測金智妍的真實身份，預測正確者可獲得愛情幣一枚。
-43. 預測男性的「Money Catcher」，若與全體合宿者預測的男性「Money
-    Catcher」中最高票結果一致（合宿者投票結果為高勝宇），可獲得愛情幣一枚。
+43. 預測男性的「Money Catcher」，若與全體合宿者預測的男性「Money Catcher」中最高票結果一致（合宿者投票結果為高勝宇），可獲得愛情幣一枚。
 44.
 45.
 46.

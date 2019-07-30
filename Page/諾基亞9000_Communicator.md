@@ -1,7 +1,6 @@
 [右](https://zh.wikipedia.org/wiki/File:Nokia-9110-9000.jpg "fig:右")
 
-**諾基亞 9000
-Communicator**是第一款諾基亞Communicator系列的[智能電話](../Page/智能手机.md "wikilink")，在1996年推出。
+**諾基亞 9000 Communicator**是第一款諾基亞Communicator系列的[智能電話](../Page/智能手机.md "wikilink")，在1996年推出。
 
 <table>
 <thead>
@@ -32,20 +31,14 @@ Communicator**是第一款諾基亞Communicator系列的[智能電話](../Page/�
 
 ## 9110
 
-諾基亞9110 Communicator係9000 Communicator的更新版，比9000輕。
-[右](https://zh.wikipedia.org/wiki/File:Nokia_9210_and_9110.JPG "fig:右")
-[右](https://zh.wikipedia.org/wiki/File:Nokia-9110-2.jpg "fig:右")
+諾基亞9110 Communicator係9000 Communicator的更新版，比9000輕。 [右](https://zh.wikipedia.org/wiki/File:Nokia_9210_and_9110.JPG "fig:右") [右](https://zh.wikipedia.org/wiki/File:Nokia-9110-2.jpg "fig:右")
 
 ## 参考来源
 
 ## 参考网页
 
-  - (芬蘭文)
-    [更多資料](https://web.archive.org/web/20050407075708/http://www.tml.hut.fi/Studies/Tik-110.300/1997/Mobile/nokia9000_2.html)
+  - (芬蘭文) [更多資料](https://web.archive.org/web/20050407075708/http://www.tml.hut.fi/Studies/Tik-110.300/1997/Mobile/nokia9000_2.html)
 
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:1996年面世的產品](https://zh.wikipedia.org/wiki/Category:1996年面世的產品 "wikilink")
+[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:1996年面世的產品](https://zh.wikipedia.org/wiki/Category:1996年面世的產品 "wikilink")
 
-1.   Technical
-    Specifications|url=[http://pdadb.net/index.php?m=specs\&id=879\&view=1\&c=nokia_9000_communicator|publisher=PDAdb.net|accessdate=15](http://pdadb.net/index.php?m=specs&id=879&view=1&c=nokia_9000_communicator%7Cpublisher=PDAdb.net%7Caccessdate=15)
-    September 2010}}
+1.   Technical Specifications|url=[http://pdadb.net/index.php?m=specs\&id=879\&view=1\&c=nokia_9000_communicator|publisher=PDAdb.net|accessdate=15](http://pdadb.net/index.php?m=specs&id=879&view=1&c=nokia_9000_communicator%7Cpublisher=PDAdb.net%7Caccessdate=15) September 2010}}

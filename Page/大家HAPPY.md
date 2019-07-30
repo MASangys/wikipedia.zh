@@ -1,8 +1,8 @@
-《**大家HAPPY**》是香港[亞洲電視製作並於](../Page/亞洲電視.md "wikilink")1983年8月8日首播的一齣電視劇集，本劇由[程潔茵擔任故事策劃](../Page/程潔茵.md "wikilink")，[李兆華監製](https://zh.wikipedia.org/wiki/李兆華 "wikilink")。主演有[劉家傑](../Page/劉家傑.md "wikilink")、[鮑起靜](../Page/鮑起靜.md "wikilink")、[陳惠敏](https://zh.wikipedia.org/wiki/陳惠敏 "wikilink")、[簡而清](../Page/簡而清.md "wikilink")、[車保羅等人](../Page/車保羅.md "wikilink")。值得一提，日後成為著名導演的[李力持及](../Page/李力持.md "wikilink")[邱禮濤是本劇的助理編導之一](../Page/邱禮濤.md "wikilink")。
+《**大家HAPPY**》是香港[亞洲電視](../Page/亞洲電視.md "wikilink")製作並於1983年8月8日首播的一齣電視劇集，本劇由[程潔茵](../Page/程潔茵.md "wikilink")擔任故事策劃，[李兆華監製](https://zh.wikipedia.org/wiki/李兆華 "wikilink")。主演有[劉家傑](../Page/劉家傑.md "wikilink")、[鮑起靜](../Page/鮑起靜.md "wikilink")、[陳惠敏](https://zh.wikipedia.org/wiki/陳惠敏 "wikilink")、[簡而清](../Page/簡而清.md "wikilink")、[車保羅](../Page/車保羅.md "wikilink")等人。值得一提，日後成為著名導演的[李力持](../Page/李力持.md "wikilink")及[邱禮濤](../Page/邱禮濤.md "wikilink")是本劇的助理編導之一。
 
 ## 劇情簡介
 
-從國外歸來的梅以芬（[劉家傑飾](../Page/劉家傑.md "wikilink")）在機場因錯拿戴天樂（[鮑起靜飾](../Page/鮑起靜.md "wikilink")）的行李而兩人言語間發生誤會，梅以芬見黃中凱（[簡而清飾](../Page/簡而清.md "wikilink")）用豪車將戴天樂接走，更覺得天樂為貪慕虛榮之輩。
+從國外歸來的梅以芬（[劉家傑](../Page/劉家傑.md "wikilink")飾）在機場因錯拿戴天樂（[鮑起靜](../Page/鮑起靜.md "wikilink")飾）的行李而兩人言語間發生誤會，梅以芬見黃中凱（[簡而清](../Page/簡而清.md "wikilink")飾）用豪車將戴天樂接走，更覺得天樂為貪慕虛榮之輩。
 
 一日梅以芬至嘉大製衣公司應聘，驚訝的發現原來該公司的老闆就是戴天樂；梅以芬在酒吧認識了當飛行員的李英偉（[陳惠敏飾](https://zh.wikipedia.org/wiki/陳惠敏 "wikilink")），並很快成為好友，但他並不知道原來英偉就是天樂分居中的丈夫。
 

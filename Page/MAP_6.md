@@ -1,6 +1,4 @@
-**MAP 6**（），2017年前寫作「M.A.P
-6」\[1\]，是韓國旗下的5人男子組合，於2015年11月10日\[2\]以單曲一輯《Storm》出道\[3\]。團名「M.A.P
-6」中代表地球五大洋及六大洲——五大洋象徵五名成員，「6」象徵世界各地（六大洲）的歌迷\[4\]。 官方粉絲名為「MAPSI」（）。
+**MAP 6**（），2017年前寫作「M.A.P 6」\[1\]，是韓國旗下的5人男子組合，於2015年11月10日\[2\]以單曲一輯《Storm》出道\[3\]。團名「M.A.P 6」中代表地球五大洋及六大洲——五大洋象徵五名成員，「6」象徵世界各地（六大洲）的歌迷\[4\]。 官方粉絲名為「MAPSI」（）。
 
 ## 背景
 
@@ -8,9 +6,7 @@
 
 2012年，A-PRINCE出道。除Minhyuk外，J.jun、Sun、J.vin亦為該團成員。2014年團體活動休止後，四人轉換公司至DreamTea娛樂，成為旗下練習生。
 
-2015年9月，DreamTea娛樂宣布旗下新男子組合將在該年年末出道\[5\]，並率先在[Girl's
-Day](../Page/Girl's_Day.md "wikilink")9月的日本演唱會中亮相以積累舞台經驗和與歌迷交流\[6\]；到10月14日，公司公布了M.A.P
-6的自我介紹影片\[7\]。
+2015年9月，DreamTea娛樂宣布旗下新男子組合將在該年年末出道\[5\]，並率先在[Girl's Day](../Page/Girl's_Day.md "wikilink")9月的日本演唱會中亮相以積累舞台經驗和與歌迷交流\[6\]；到10月14日，公司公布了M.A.P 6的自我介紹影片\[7\]。
 
 10月29日，DreamTea娛樂敲定團體出道日期為11月10日\[8\]。
 
@@ -24,15 +20,11 @@ Day](../Page/Girl's_Day.md "wikilink")9月的日本演唱會中亮相以積累�
 
 2016年11月13日，於首爾新沙洞640 ART TOWER舉行了第一次粉絲見面會「MAP6 University O.T」。\[11\]
 
-2017年3月11日及12日，於大阪及東京舉行第二次粉絲見面會。同月15日、於新宿Tower舉行第二張迷你專輯《No
-Surrender》的新曲發佈會及記者招待會。
+2017年3月11日及12日，於大阪及東京舉行第二次粉絲見面會。同月15日、於新宿Tower舉行第二張迷你專輯《No Surrender》的新曲發佈會及記者招待會。
 
-2017年5月16日,DreamTea娛樂釋出《MOMENTUM》的歌曲節錄。18日釋出主打歌《I'm
-ready》Teaser,並於22日舉行Showcase。在同月23號公開發行第三張單曲專輯《MOMENTUM》，以《I'm
-ready》於音樂節目《THE SHOW》回歸。
+2017年5月16日,DreamTea娛樂釋出《MOMENTUM》的歌曲節錄。18日釋出主打歌《I'm ready》Teaser,並於22日舉行Showcase。在同月23號公開發行第三張單曲專輯《MOMENTUM》，以《I'm ready》於音樂節目《THE SHOW》回歸。
 
-2017年11月26日，MAP6推出電子單曲《LOVE IS
-GONE》，展現成員們的主唱實力，唱出憂傷心碎的故事。此MV首次採用了"航拍器材"拍攝。
+2017年11月26日，MAP6推出電子單曲《LOVE IS GONE》，展現成員們的主唱實力，唱出憂傷心碎的故事。此MV首次採用了"航拍器材"拍攝。
 
 ## 成員列表
 
@@ -492,11 +484,7 @@ GONE》，展現成員們的主唱實力，唱出憂傷心碎的故事。此MV�
   -
   - [MAP 6](http://cafe.daum.net/MAP6)在Daum cafe的頁面
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
-[Category:2015年韓國建立](https://zh.wikipedia.org/wiki/Category:2015年韓國建立 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink") [Category:2015年韓國建立](https://zh.wikipedia.org/wiki/Category:2015年韓國建立 "wikilink")
 
 1.
 
@@ -515,22 +503,17 @@ GONE》，展現成員們的主唱實力，唱出憂傷心碎的故事。此MV�
 
 9.  [MAP6重磅出道 新人野獸團來襲](http://www.koreastardaily.com/tc/photo/70517)韓星網
 
-10. [5個城市進行了28場公演！MAP6魅力席捲日本！](http://www.vlovekpop.com/20160728-map6/)
-    vlovekpop
+10. [5個城市進行了28場公演！MAP6魅力席捲日本！](http://www.vlovekpop.com/20160728-map6/)  vlovekpop
 
-11. [MAP6 1ST FAN-MEETING「MAP6 University
-    O.T」](http://cafe.daum.net/MAP6/ZMyF/43)
+11. [MAP6 1ST FAN-MEETING「MAP6 University O.T」](http://cafe.daum.net/MAP6/ZMyF/43)
 
-12. [K-POP CD Music
-    Korea](http://musickoreacn.com/product/M.A.P6-%EC%97%A0%EC%97%90%EC%9D%B4%ED%94%BC%EC%8B%9D%EC%8A%A4-STORM/22341/cid/896)
+12. [K-POP CD Music Korea](http://musickoreacn.com/product/M.A.P6-%EC%97%A0%EC%97%90%EC%9D%B4%ED%94%BC%EC%8B%9D%EC%8A%A4-STORM/22341/cid/896)
 
 13. [MAP6 新曲由兩段橫踢製作](http://kpopn.niusnews.com/=K0nvm4n9)
 
-14. ["야심찬 포부 담았다" 맵식스, 23일 새 싱글 '모멘텀'으로
-    컴백](http://entertain.naver.com/read?oid=112&aid=0002918803)
+14. ["야심찬 포부 담았다" 맵식스, 23일 새 싱글 '모멘텀'으로 컴백](http://entertain.naver.com/read?oid=112&aid=0002918803)
 
-15. [MAP6 將在26日攜全新數位單曲《Love is
-    Gone》回歸](https://www.kpopn.com/2017/11/22/map6-將在26日攜全新數位單曲《love-gone》回歸/)
+15. [MAP6 將在26日攜全新數位單曲《Love is Gone》回歸](https://www.kpopn.com/2017/11/22/map6-將在26日攜全新數位單曲《love-gone》回歸/)
 
 16.
 

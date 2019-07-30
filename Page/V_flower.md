@@ -1,5 +1,4 @@
-**flower**（）是Gynoid推出的[Vocaloid歌手](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")。数据库由[雅马哈开发](https://zh.wikipedia.org/wiki/雅马哈 "wikilink")，后续升级由Gynoid完成，[HoneyWorks的画手](../Page/HoneyWorks.md "wikilink")设计出该角色，原声提供者未公佈。Vocaloid3产品“v
-flower”于2014年发售，Vocaloid4产品“v4 flower”于2015年发售。
+**flower**（）是Gynoid推出的[Vocaloid歌手](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")。数据库由[雅马哈开发](https://zh.wikipedia.org/wiki/雅马哈 "wikilink")，后续升级由Gynoid完成，[HoneyWorks](../Page/HoneyWorks.md "wikilink")的画手设计出该角色，原声提供者未公佈。Vocaloid3产品“v flower”于2014年发售，Vocaloid4产品“v4 flower”于2015年发售。
 
 ## 角色
 
@@ -14,8 +13,7 @@ V4形象来自于△○□×发表的一个同人作品，当中△○□×大�
 
 ### Vocaloid 3
 
-**《VOCALOID™3 Library v
-flower》**是一款在广泛音乐流派中专长于[摇滚乐的声库](../Page/摇滚乐.md "wikilink")。在她中性的声质中，中至高音域中带着男孩气十足，以及低音域中凝重哀伤的歌声。
+**《VOCALOID™3 Library v flower》**是一款在广泛音乐流派中专长于[摇滚乐](../Page/摇滚乐.md "wikilink")的声库。在她中性的声质中，中至高音域中带着男孩气十足，以及低音域中凝重哀伤的歌声。
 
 <table>
 <thead>
@@ -40,8 +38,7 @@ flower》**是一款在广泛音乐流派中专长于[摇滚乐的声库](../Pag
 
 ### Vocaloid 4
 
-**《VOCALOID4 Library v4
-flower》**搭载Vocaloid4对应「Growl」功能，重新核对原声数据，改善并提升滑舌，轻松导出更耐耳的歌声。\[1\]
+**《VOCALOID4 Library v4 flower》**搭载Vocaloid4对应「Growl」功能，重新核对原声数据，改善并提升滑舌，轻松导出更耐耳的歌声。\[1\]
 
 <table>
 <thead>
@@ -121,8 +118,6 @@ flower》**搭载Vocaloid4对应「Growl」功能，重新核对原声数据，�
 
 ## 參考資料
 
-[Category:Vocaloid3引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid3引擎产品 "wikilink")
-[Category:Vocaloid4引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid4引擎产品 "wikilink")
-[Category:Vocaloid角色](https://zh.wikipedia.org/wiki/Category:Vocaloid角色 "wikilink")
+[Category:Vocaloid3引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid3引擎产品 "wikilink") [Category:Vocaloid4引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid4引擎产品 "wikilink") [Category:Vocaloid角色](https://zh.wikipedia.org/wiki/Category:Vocaloid角色 "wikilink")
 
 1.

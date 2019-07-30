@@ -1,11 +1,6 @@
-Mr.
-6（），本名**劉威麟**，是一位出生於臺灣臺北市的作家，14歲移民加拿大，而後移居美國矽谷，美國[史丹佛大學電機](../Page/史丹佛大學.md "wikilink")、管理（Management
-Science &
-Engineering）雙碩士，[英屬哥倫比亞大學資訊工程學士](https://zh.wikipedia.org/wiki/英屬哥倫比亞大學 "wikilink")。
+Mr. 6（），本名**劉威麟**，是一位出生於臺灣臺北市的作家，14歲移民加拿大，而後移居美國矽谷，美國[史丹佛大學](../Page/史丹佛大學.md "wikilink")電機、管理（Management Science & Engineering）雙碩士，[英屬哥倫比亞大學資訊工程學士](https://zh.wikipedia.org/wiki/英屬哥倫比亞大學 "wikilink")。
 
-Mr. 6
-被[104網站稱為](../Page/104人力銀行.md "wikilink")「在資訊流經濟體中，從無到有、迅速崛起的部落客代表人物。」\[1\]他從2006年6月6日開始進行網路寫作，每天寫作3000字\[2\]，當時正逢網路創業低迷之際，Mr.
-6將矽谷趨勢化為上千篇文章分享給網友\[3\]\[4\]。
+Mr. 6 被[104網站稱為](../Page/104人力銀行.md "wikilink")「在資訊流經濟體中，從無到有、迅速崛起的部落客代表人物。」\[1\]他從2006年6月6日開始進行網路寫作，每天寫作3000字\[2\]，當時正逢網路創業低迷之際，Mr. 6將矽谷趨勢化為上千篇文章分享給網友\[3\]\[4\]。
 
 ## 過往著作
 
@@ -24,19 +19,14 @@ Mr. 6
 
 ## 日記
 
-Mr. 6 曾公開表示自己有寫日記習慣。Mr. 6
-曾對媒體表示，當年住在加拿大，由於孤單及交友障礙產生了嚴重的口吃問題，因為寫日記而成功治癒。\[5\]
+Mr. 6 曾公開表示自己有寫日記習慣。Mr. 6 曾對媒體表示，當年住在加拿大，由於孤單及交友障礙產生了嚴重的口吃問題，因為寫日記而成功治癒。\[5\]
 
 ## 參考資料
 
 [Category:作家](https://zh.wikipedia.org/wiki/Category:作家 "wikilink")
 
-1.  104.com.tw:
-    [成功行銷經營－從部落客到創業家](http://case.104.com.tw/knowledge/detail.cfm?kno=187)
-2.  2014年4月29日：[今周刊 -
-    話題人物](http://www.businesstoday.com.tw/article-content-80417-156474-%E5%8A%89%E5%A8%81%E9%BA%9F%EF%BC%9A%E6%AF%8F%E5%A4%A93%EF%BC%8C000%E5%AD%97Po%E6%96%87%EF%BC%8C%20%E5%BE%B9%E5%BA%95%E5%AF%A6%E8%B8%90%E3%80%8C%E8%AE%80%E5%AF%AB%E7%9B%B8%E9%95%B7%E3%80%8D?page=2)
-3.  [大家健康雜誌](http://www.healthforall.com.tw/?action=article_in&id=1230)
-    - 第342期 - 2015年10月
+1.  104.com.tw: [成功行銷經營－從部落客到創業家](http://case.104.com.tw/knowledge/detail.cfm?kno=187)
+2.  2014年4月29日：[今周刊 - 話題人物](http://www.businesstoday.com.tw/article-content-80417-156474-%E5%8A%89%E5%A8%81%E9%BA%9F%EF%BC%9A%E6%AF%8F%E5%A4%A93%EF%BC%8C000%E5%AD%97Po%E6%96%87%EF%BC%8C%20%E5%BE%B9%E5%BA%95%E5%AF%A6%E8%B8%90%E3%80%8C%E8%AE%80%E5%AF%AB%E7%9B%B8%E9%95%B7%E3%80%8D?page=2)
+3.  [大家健康雜誌](http://www.healthforall.com.tw/?action=article_in&id=1230) - 第342期 - 2015年10月
 4.  Knowing新聞：[「創作時代」，是網路啟發了創意](http://news.knowing.asia/news/324420aa-3113-4c1f-b771-b182bc2883cb)
-5.  2007年1月1日號 - [數位時代 -
-    六先生的網路創業夢](https://www.bnext.com.tw/article/4193/BN-ARTICLE-4193)
+5.  2007年1月1日號 - [數位時代 - 六先生的網路創業夢](https://www.bnext.com.tw/article/4193/BN-ARTICLE-4193)

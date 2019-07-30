@@ -1,26 +1,21 @@
-《**Fragrance of Music with Alex Fung & Hong Kong Philharmonic Orchestra
-Live**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的第四張](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[現場錄音專輯](../Page/現場專輯.md "wikilink")，由[東亞唱片於](../Page/東亞唱片_\(集團\).md "wikilink")2016年2月5日發行。
+《**Fragrance of Music with Alex Fung & Hong Kong Philharmonic Orchestra Live**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的第四張](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[現場錄音專輯](../Page/現場專輯.md "wikilink")，由[東亞唱片於](../Page/東亞唱片_\(集團\).md "wikilink")2016年2月5日發行。
 
 ## 專輯簡介
 
-本張專輯收錄她與[馮翰銘和](../Page/馮翰銘.md "wikilink")[香港管弦樂團合作於](../Page/香港管弦樂團.md "wikilink")2015年10月16至17日在[香港文化中心演唱的歌曲](../Page/香港文化中心.md "wikilink")。\[1\]
-然後，於同年3月22日和4月5日分別發行[DVD及](https://zh.wikipedia.org/wiki/DVD "wikilink")[藍光光碟版本](../Page/藍光光碟.md "wikilink")。\[2\]\[3\]
+本張專輯收錄她與[馮翰銘](../Page/馮翰銘.md "wikilink")和[香港管弦樂團](../Page/香港管弦樂團.md "wikilink")合作於2015年10月16至17日在[香港文化中心](../Page/香港文化中心.md "wikilink")演唱的歌曲。\[1\] 然後，於同年3月22日和4月5日分別發行[DVD及](https://zh.wikipedia.org/wiki/DVD "wikilink")[藍光光碟](../Page/藍光光碟.md "wikilink")版本。\[2\]\[3\]
 
 ## 曲目
 
-出自《Fragrance of Music with Alex Fung & Hong Kong Philharmonic Orchestra
-Live》專輯內頁。\[4\]
-全碟作曲：[王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")　全碟編曲：[馮翰銘](../Page/馮翰銘.md "wikilink")　<small>（下面註明例外曲目）</small>
-       **備註：**
+出自《Fragrance of Music with Alex Fung & Hong Kong Philharmonic Orchestra Live》專輯內頁。\[4\]
+全碟作曲：[王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")　全碟編曲：[馮翰銘](../Page/馮翰銘.md "wikilink")　<small>（下面註明例外曲目）</small>        **備註：**
 
   - 「White」是錄音室專輯《[詩情·畫意](../Page/詩情·畫意.md "wikilink")》中的《畫意》的英語demo版本。
   - 「我們他們」從[拉赫曼尼諾夫](../Page/谢尔盖·瓦西里耶维奇·拉赫玛尼诺夫.md "wikilink")[第三鋼琴協奏曲和](https://zh.wikipedia.org/wiki/第3鋼琴協奏曲_\(拉赫瑪尼諾夫\) "wikilink")《[巴格尼尼主題狂想曲](../Page/帕格尼尼主題狂想曲.md "wikilink")》選段。\[5\]
 
 ## 製作人員名單
 
-出自《Fragrance of Music with Alex Fung & Hong Kong Philharmonic Orchestra
-Live》專輯內頁和場刊。\[6\]\[7\]
-**樂隊**
+出自《Fragrance of Music with Alex Fung & Hong Kong Philharmonic Orchestra Live》專輯內頁和場刊。\[6\]\[7\]
+  **樂隊**
 
   - Randy Chow
   - 何山
@@ -230,12 +225,11 @@ Live》專輯內頁和場刊。\[6\]\[7\]
 
 ## 獎項
 
-本張專輯在[IFPI香港唱片銷量大獎頒獎禮2016中獲得](../Page/IFPI香港唱片銷量大獎頒獎禮2016.md "wikilink")「最暢銷本地現場錄製音像出品」獎項。\[11\]
+本張專輯在[IFPI香港唱片銷量大獎頒獎禮2016](../Page/IFPI香港唱片銷量大獎頒獎禮2016.md "wikilink")中獲得「最暢銷本地現場錄製音像出品」獎項。\[11\]
 
 ## 參考文獻
 
-[Category:王菀之音樂專輯](https://zh.wikipedia.org/wiki/Category:王菀之音樂專輯 "wikilink")
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
+[Category:王菀之音樂專輯](https://zh.wikipedia.org/wiki/Category:王菀之音樂專輯 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
 
 1.
 

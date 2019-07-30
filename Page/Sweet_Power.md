@@ -1,13 +1,10 @@
-**Sweet
-Power**（），[日本知名](../Page/日本.md "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，1996年創立。旗下簽約藝人以[演員及](../Page/演員.md "wikilink")[模特兒為主](../Page/模特兒.md "wikilink")。
+**Sweet Power**（），[日本](../Page/日本.md "wikilink")知名[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，1996年創立。旗下簽約藝人以[演員](../Page/演員.md "wikilink")及[模特兒](../Page/模特兒.md "wikilink")為主。
 
 ## 簡介
 
-Sweet
-Power於1996年11月設立，簽約演員以女性為主。與其他演藝經紀公司相較，雖創設年數較短，但如[內山理名](../Page/內山理名.md "wikilink")、[堀北真希](../Page/堀北真希.md "wikilink")、[黑木梅沙](https://zh.wikipedia.org/wiki/黑木梅沙 "wikilink")、[桐谷美玲等人於日本電視劇及電影多次擔綱重要角色甚或主演](../Page/桐谷美玲.md "wikilink")，其[星探挖掘制度亦在同業間頗為知名](../Page/星探.md "wikilink")\[1\]\[2\]。另，旗下亦出版以女[大學生和年輕](https://zh.wikipedia.org/wiki/大學生 "wikilink")[OL為顧客導向的](https://zh.wikipedia.org/wiki/辦公室女職員 "wikilink")\[3\]。
+Sweet Power於1996年11月設立，簽約演員以女性為主。與其他演藝經紀公司相較，雖創設年數較短，但如[內山理名](../Page/內山理名.md "wikilink")、[堀北真希](../Page/堀北真希.md "wikilink")、[黑木梅沙](https://zh.wikipedia.org/wiki/黑木梅沙 "wikilink")、[桐谷美玲](../Page/桐谷美玲.md "wikilink")等人於日本電視劇及電影多次擔綱重要角色甚或主演，其[星探](../Page/星探.md "wikilink")挖掘制度亦在同業間頗為知名\[1\]\[2\]。另，旗下亦出版以女[大學生和年輕](https://zh.wikipedia.org/wiki/大學生 "wikilink")[OL為顧客導向的](https://zh.wikipedia.org/wiki/辦公室女職員 "wikilink")\[3\]。
 
-Sweet Power旗下所屬藝人多數為女性，其後成立新人演員部門「Spice
-Power」，其中如[高杉真宙亦於](../Page/高杉真宙.md "wikilink")2014年後關注度漸增。
+Sweet Power旗下所屬藝人多數為女性，其後成立新人演員部門「Spice Power」，其中如[高杉真宙](../Page/高杉真宙.md "wikilink")亦於2014年後關注度漸增。
 
 ## 旗下藝人
 
@@ -71,9 +68,7 @@ Power」，其中如[高杉真宙亦於](../Page/高杉真宙.md "wikilink")2014
   - [Spice Power](http://www.spicepower.jp/)
 
   -
-[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink")
-[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
-[Category:1996年成立的公司](https://zh.wikipedia.org/wiki/Category:1996年成立的公司 "wikilink")
+[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink") [Category:1996年成立的公司](https://zh.wikipedia.org/wiki/Category:1996年成立的公司 "wikilink")
 
 1.  2007年5月，《日經娛樂》「芸能界を制するのは誰だ?芸能プロ最新勢力図」專題第40頁
 
@@ -82,5 +77,4 @@ Power」，其中如[高杉真宙亦於](../Page/高杉真宙.md "wikilink")2014
 3.
 4.  [前KARA知英單飛人氣高　寬姐讚能演能唱](http://www.nownews.com/n/2015/09/15/1814229)
 
-5.  [松風理咲　堀北の“妹分”
-    ＣＭ共演デビュー](http://www.chunichi.co.jp/chuspo/article/entertainment/news/CK2015100202000164.html)
+5.  [松風理咲　堀北の“妹分” ＣＭ共演デビュー](http://www.chunichi.co.jp/chuspo/article/entertainment/news/CK2015100202000164.html)

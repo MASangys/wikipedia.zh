@@ -1,8 +1,4 @@
-**李埈京**（，）是一位韓國饒舌歌手及音樂製作人，他以藝名**DOK2**（）為人熟知。同時，他也是韓國[嘻哈音樂公司](../Page/嘻哈.md "wikilink")[Illionaire
-Records的CEO](../Page/Illionaire_Records.md "wikilink")\[1\]。在2011年與The
-Quiett一起創辦經紀公司1llionaire Records。 2016年成立了[Illionaire
-Records旗下的新音樂品牌](../Page/Illionaire_Records.md "wikilink")[AMBITION
-MUSIK](https://zh.wikipedia.org/wiki/AMBITION_MUSIK "wikilink")。
+**李埈京**（，）是一位韓國饒舌歌手及音樂製作人，他以藝名**DOK2**（）為人熟知。同時，他也是韓國[嘻哈](../Page/嘻哈.md "wikilink")音樂公司[Illionaire Records的CEO](../Page/Illionaire_Records.md "wikilink")\[1\]。在2011年與The Quiett一起創辦經紀公司1llionaire Records。 2016年成立了[Illionaire Records旗下的新音樂品牌](../Page/Illionaire_Records.md "wikilink")[AMBITION MUSIK](https://zh.wikipedia.org/wiki/AMBITION_MUSIK "wikilink")。
 
 ## 經歷
 
@@ -12,18 +8,9 @@ MUSIK](https://zh.wikipedia.org/wiki/AMBITION_MUSIK "wikilink")。
 
 2011年，與The Quiett一起創辦經紀公司Illionaire Records并和另一位地下歌手Beenzino一起在公司發展。
 
-2014年，參與[Mnet從](https://zh.wikipedia.org/wiki/Mnet "wikilink")7月3日起舉辦的韓國大型RAP比賽《[Show
-Me The Money
-3](../Page/Show_Me_The_Money_3.md "wikilink")》的評委，共同擔任製作人和評委的歌手有Brand
-New Music的Swings和[San
-E](../Page/San_E.md "wikilink")、[YG娛樂的Tablo和Masta](../Page/YG娛樂.md "wikilink")
-Wu以及演員兼饒舌歌手[YDG](../Page/梁東根.md "wikilink")，引起了廣泛關注\[4\]。
+2014年，參與[Mnet從](https://zh.wikipedia.org/wiki/Mnet "wikilink")7月3日起舉辦的韓國大型RAP比賽《[Show Me The Money 3](../Page/Show_Me_The_Money_3.md "wikilink")》的評委，共同擔任製作人和評委的歌手有Brand New Music的Swings和[San E](../Page/San_E.md "wikilink")、[YG娛樂](../Page/YG娛樂.md "wikilink")的Tablo和Masta Wu以及演員兼饒舌歌手[YDG](../Page/梁東根.md "wikilink")，引起了廣泛關注\[4\]。
 
-2016年Dok2和The Quiett成立了[Illionaire
-Records旗下的新音樂品牌](../Page/Illionaire_Records.md "wikilink")[AMBITION
-MUSIK](https://zh.wikipedia.org/wiki/AMBITION_MUSIK "wikilink")，並攜手曾參加《[Show
-Me The Money 5](../Page/Show_Me_The_Money_5.md "wikilink")》的金孝恩和Hash
-Swan以及早期就与Dok2和The Quiett有过多次合作的Changmo。
+2016年Dok2和The Quiett成立了[Illionaire Records旗下的新音樂品牌](../Page/Illionaire_Records.md "wikilink")[AMBITION MUSIK](https://zh.wikipedia.org/wiki/AMBITION_MUSIK "wikilink")，並攜手曾參加《[Show Me The Money 5](../Page/Show_Me_The_Money_5.md "wikilink")》的金孝恩和Hash Swan以及早期就与Dok2和The Quiett有过多次合作的Changmo。
 
 ## 音乐作品
 
@@ -97,8 +84,7 @@ Swan以及早期就与Dok2和The Quiett有过多次合作的Changmo。
   - 2009年2月19日：Born Kim《狗叫聲》
   - 2009年2月26日：Fana《Deadline》作曲
   - 2009年6月18日：Smokie J《Players》
-  - 2009年9月16日：[Epik High](../Page/Epik_High.md "wikilink")《Rocksteady
-    (Korean Ver.)》
+  - 2009年9月16日：[Epik High](../Page/Epik_High.md "wikilink")《Rocksteady (Korean Ver.)》
   - 2009年9月16日：[Epik High](../Page/Epik_High.md "wikilink")《傷痕》
   - 2009年9月16日：[Epik High](../Page/Epik_High.md "wikilink")《Still Here》
   - 2009年10月22日：LYn《New Celebration》
@@ -108,19 +94,14 @@ Swan以及早期就与Dok2和The Quiett有过多次合作的Changmo。
   - 2011年3月8日：[金亨俊](../Page/金亨俊.md "wikilink")《Nobody but you girl》
   - 2011年4月27日：[朴宰範](https://zh.wikipedia.org/wiki/朴宰範 "wikilink")《Abandoned》
   - 2011年4月29日：[Zion.T](../Page/Zion.T.md "wikilink")《Click Me》
-  - 2011年7月5日：[泫雅](https://zh.wikipedia.org/wiki/泫雅 "wikilink")《Just
-    Follow》
+  - 2011年7月5日：[泫雅](https://zh.wikipedia.org/wiki/泫雅 "wikilink")《Just Follow》
   - 2011年7月22日：Swings《不做事也可以 / 일 안 해도 돼》
   - 2011年8月25日：[Leessang](../Page/Leessang.md "wikilink")《毒氣》
   - 2011年12月21日：趙PD《Where I’m From》
-  - 2011年12月18日：[朴宰範](https://zh.wikipedia.org/wiki/朴宰範 "wikilink")《Up
-    And Down》
-  - 2012年2月7日：[朴宰範](https://zh.wikipedia.org/wiki/朴宰範 "wikilink")《Know
-    Your Name》
-  - 2012年2月7日：[朴宰範](https://zh.wikipedia.org/wiki/朴宰範 "wikilink")《AOM &
-    1llionaire》
-  - 2012年2月7日：[朴宰範](https://zh.wikipedia.org/wiki/朴宰範 "wikilink")《Enjoy
-    The Show》
+  - 2011年12月18日：[朴宰範](https://zh.wikipedia.org/wiki/朴宰範 "wikilink")《Up And Down》
+  - 2012年2月7日：[朴宰範](https://zh.wikipedia.org/wiki/朴宰範 "wikilink")《Know Your Name》
+  - 2012年2月7日：[朴宰範](https://zh.wikipedia.org/wiki/朴宰範 "wikilink")《AOM & 1llionaire》
+  - 2012年2月7日：[朴宰範](https://zh.wikipedia.org/wiki/朴宰範 "wikilink")《Enjoy The Show》
   - 2012年3月8日：Prepix《More Than a Friend》
   - 2012年7月3日：Beenzino《雞皮疙瘩 / 진절머리》
   - 2012年7月3日：Beenzino《Profile》
@@ -128,8 +109,7 @@ Swan以及早期就与Dok2和The Quiett有过多次合作的Changmo。
   - 2012年8月17日：2lson《The Lady》
   - 2012年9月10日：Rude Paper《Answer》
   - 2012年9月15日 : [G-Dragon](../Page/G-Dragon.md "wikilink") 《LIGHT I UP》
-  - 2012年10月18日：[Jessica](https://zh.wikipedia.org/wiki/Jessica "wikilink")《My
-    Lifestyle》
+  - 2012年10月18日：[Jessica](https://zh.wikipedia.org/wiki/Jessica "wikilink")《My Lifestyle》
   - 2012年10月31日：Primary《Mine Tonight》
   - 2012年11月6日：Jerry. K《We All Made Us》
   - 2012年12月7日：YDG《Give It To Me》
@@ -140,15 +120,13 @@ Swan以及早期就与Dok2和The Quiett有过多次合作的Changmo。
   - 2013年9月3日：GI《Don’t Lie》
   - 2013年9月27日：Kye Bum Zu《Something Special》
   - 2013年10月10日：[嘉熙](../Page/嘉熙.md "wikilink")《Hey boy》
-  - 2013年10月25日：[GRAY](https://zh.wikipedia.org/wiki/GRAY "wikilink")《Dream
-    Chaser》
+  - 2013年10月25日：[GRAY](https://zh.wikipedia.org/wiki/GRAY "wikilink")《Dream Chaser》
   - 2013年11月26日：[孝琳](../Page/孝琳.md "wikilink")《Massage》
   - 2013年12月10日：Double K《Cinderella》
   - 2014年1月21日：Mr.Gordo《T.D.I.R》
   - 2014年5月20日：M.I.7《We The Best》
   - 2014年7月17日：Swings《Obsessive Compulsive Disorder》
-  - 2014年8月21日：[Bobby](../Page/金知元_\(饒舌者\).md "wikilink")《L4L (Lookin\`
-    For Luv)》
+  - 2014年8月21日：[Bobby](../Page/金知元_\(饒舌者\).md "wikilink")《L4L (Lookin\` For Luv)》
   - 2014年10月2日：Vasco《Don》
   - 2014年10月16日：Gaeko《치명적인 비음 Remix / Snapper Ending Remix)》
   - 2014年11月17日：Sohyang《How to me …》
@@ -163,8 +141,7 @@ Swan以及早期就与Dok2和The Quiett有过多次合作的Changmo。
   - 2016年10月4日：JERO《Paradise》
   - 2016年10月25日：[孝琳](../Page/孝琳.md "wikilink")《Love Like This》
   - 2016年12月1日：Double K《OMG》(feat. [徐仁國](../Page/徐仁國.md "wikilink"))
-  - 2016年12月31日：Dok2 x [劉在錫](../Page/劉在錫.md "wikilink")《처럼 /
-    Like》(Feat.[李遐怡](../Page/李遐怡.md "wikilink"))
+  - 2016年12月31日：Dok2 x [劉在錫](../Page/劉在錫.md "wikilink")《처럼 / Like》(Feat.[李遐怡](../Page/李遐怡.md "wikilink"))
   - 2017年1月26日：Masta Wu 《S\*\*T》
   - 2017年9月11日：Bizzy 《6 Cypher》
 
@@ -177,12 +154,7 @@ Swan以及早期就与Dok2和The Quiett有过多次合作的Changmo。
 ## 外部連結
 
   -
-[Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:慶尚北道出身人物](https://zh.wikipedia.org/wiki/Category:慶尚北道出身人物 "wikilink")
-[Category:釜山廣域市](https://zh.wikipedia.org/wiki/Category:釜山廣域市 "wikilink")
-[Category:李姓](https://zh.wikipedia.org/wiki/Category:李姓 "wikilink")
+[Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:慶尚北道出身人物](https://zh.wikipedia.org/wiki/Category:慶尚北道出身人物 "wikilink") [Category:釜山廣域市](https://zh.wikipedia.org/wiki/Category:釜山廣域市 "wikilink") [Category:李姓](https://zh.wikipedia.org/wiki/Category:李姓 "wikilink")
 
 1.
 2.

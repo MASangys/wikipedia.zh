@@ -1,5 +1,4 @@
-**BamHI**（亦可寫作**BamH1**）是一種常用的II型[限制性核酸內切酶](https://zh.wikipedia.org/wiki/限制性核酸內切酶 "wikilink")\[1\]。BamHI最早取自（*Bacillus
-amyloliquefaciens*）中\[2\]。
+**BamHI**（亦可寫作**BamH1**）是一種常用的II型[限制性核酸內切酶](https://zh.wikipedia.org/wiki/限制性核酸內切酶 "wikilink")\[1\]。BamHI最早取自（*Bacillus amyloliquefaciens*）中\[2\]。
 
 ## 酶切位點
 
@@ -14,8 +13,7 @@ amyloliquefaciens*）中\[2\]。
 
 ## 參考
 
-[Category:限制酶](https://zh.wikipedia.org/wiki/Category:限制酶 "wikilink")
-[Category:基因工程](https://zh.wikipedia.org/wiki/Category:基因工程 "wikilink")
+[Category:限制酶](https://zh.wikipedia.org/wiki/Category:限制酶 "wikilink") [Category:基因工程](https://zh.wikipedia.org/wiki/Category:基因工程 "wikilink")
 
 1.
 

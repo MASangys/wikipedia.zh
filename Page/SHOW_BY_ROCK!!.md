@@ -1,5 +1,4 @@
-《**SHOW BY
-ROCK\!\!**》是[三麗鷗旗下一個以樂隊為主題的人物企劃](../Page/三麗鷗.md "wikilink")，簡稱為「**SB69**\[1\]」。其後由開發成為[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，並先後於2013年及2014年在iOS及Android平台上發行。
+《**SHOW BY ROCK\!\!**》是[三麗鷗](../Page/三麗鷗.md "wikilink")旗下一個以樂隊為主題的人物企劃，簡稱為「**SB69**\[1\]」。其後由開發成為[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，並先後於2013年及2014年在iOS及Android平台上發行。
 
 第一版為單指可操作的音樂遊戲，不時會有不同的效果去阻礙玩家。初期就有14組樂隊，而最後一組在達成招待12個友人後開放。一首歌會消耗一顆愛心()，每20分鐘會回復一個愛心。隨著故事進度，會開放新的歌曲數。每組樂隊有三首歌，每首歌有四個難度，第三場的HARD難度固定為BOSS戰。每組樂隊也有自己的故事，故事台詞會鮮明地帶出角色個性。後來因為遊戲譜面太簡單和特效太容易而被誤解為BUG，於是在第二版完全改變了「單指可操作」這種遊戲方法。
 
@@ -7,10 +6,7 @@ ROCK\!\!**》是[三麗鷗旗下一個以樂隊為主題的人物企劃](../Page
 
 第三版加入了「我的房間」系統，玩家可以布置自己的房間，房間中的道具會影響遊戲分數。每一張UR卡會多送一個可布置在房間的娃娃和海報，從第二版繼承的UR卡也有同樣的道具。同時此版本取消了「故事模式」，改為單純選擇樂隊的模式。角色人數正式超過200名。
 
-2014年9月，在「SANRIO EXPO
-2014」發表會中宣佈遊戲會被電視動畫化，並定位為深夜動畫，而劇情則為原創\[2\]。第一季於2015年4月至6月播放。短篇動畫《Show
-By Rock\!\! Short\!\!》於2016年7月至10月播放\[3\]。第二季《SHOW BY
-ROCK\!\!\#》於同年10月至12月播放\[4\]。
+2014年9月，在「SANRIO EXPO 2014」發表會中宣佈遊戲會被電視動畫化，並定位為深夜動畫，而劇情則為原創\[2\]。第一季於2015年4月至6月播放。短篇動畫《Show By Rock\!\! Short\!\!》於2016年7月至10月播放\[3\]。第二季《SHOW BY ROCK\!\!\#》於同年10月至12月播放\[4\]。
 
 ## 概要
 
@@ -26,12 +22,11 @@ ROCK\!\!\#》於同年10月至12月播放\[4\]。
 
 **遊戲**：喜歡[哥特蘿莉的貓女](https://zh.wikipedia.org/wiki/哥特蘿莉 "wikilink")**希安**得到了路過的音樂事務所社長有栖川Maple的賞識，並與優等生兔女**秋秋**、網路極客**蕾朵莉**與羊女**摩亞**三人相遇，其後更組成了名為「Plasmagica」的女子樂團組合，目標是成為世界最有名的樂團\[7\]。
 
-**動畫**：平凡且稍微内向的女高中生**聖川詩杏**，在玩著音樂遊戲《SHOW BY
-ROCK\!\!》時，因使用了不可思議的道具而被吸入遊戲世界，並以遊戲中的女子樂隊「Plasmagica」成員希安的身份作樂隊出道。在感到困惑的同時，她也在通過音樂而成長著\[8\]。
+**動畫**：平凡且稍微内向的女高中生**聖川詩杏**，在玩著音樂遊戲《SHOW BY ROCK\!\!》時，因使用了不可思議的道具而被吸入遊戲世界，並以遊戲中的女子樂隊「Plasmagica」成員希安的身份作樂隊出道。在感到困惑的同時，她也在通過音樂而成長著\[8\]。
 
 ## 登場人物及樂隊
 
-※[聲優順序為遊戲版的歌唱者及網路動畫版](../Page/聲優.md "wikilink")／電視動畫版，無特別註明則為電視動畫版。
+※[聲優](../Page/聲優.md "wikilink")順序為遊戲版的歌唱者及網路動畫版／電視動畫版，無特別註明則為電視動畫版。
 
 ### 光屬性
 
@@ -42,8 +37,7 @@ ROCK\!\!》時，因使用了不可思議的道具而被吸入遊戲世界，並
   -
     本作女主角，喜歡哥特蘿莉的貓族女孩。擔任樂隊的主音及吉他手。使用的樂器名為「草莓之心」（Strawberry Heart）。
       -
-        動畫版原創角色，生活於現實世界的少女。因擁有高超的吉他技巧而被達加·莫爾斯選中，召喚至遊戲中的世界「Sound
-        World」，但由於感激之王的介入而未讓達加得逞。在得到傳說中的吉他「草莓之心」後，意外地打敗了「黑暗怪獸」，而被有栖川看上。後來以「希安」的身份在樂隊出道，且成為了主音之一。害羞時會無意地說出「喵」並舌頭打結。
+        動畫版原創角色，生活於現實世界的少女。因擁有高超的吉他技巧而被達加·莫爾斯選中，召喚至遊戲中的世界「Sound World」，但由於感激之王的介入而未讓達加得逞。在得到傳說中的吉他「草莓之心」後，意外地打敗了「黑暗怪獸」，而被有栖川看上。後來以「希安」的身份在樂隊出道，且成為了主音之一。害羞時會無意地說出「喵」並舌頭打結。
 
 <!-- end list -->
 
@@ -156,8 +150,7 @@ ROCK\!\!》時，因使用了不可思議的道具而被吸入遊戲世界，並
 
 #### Alice Beans
 
-日文為「」。出身Bean
-City，在AkibarnStreet進行活動的地下偶像樂隊。商業搭配樂隊為[愛麗絲十番](../Page/愛麗絲十番.md "wikilink")。
+日文為「」。出身Bean City，在AkibarnStreet進行活動的地下偶像樂隊。商業搭配樂隊為[愛麗絲十番](../Page/愛麗絲十番.md "wikilink")。
 
   -
     貓貓殭屍族，以為原型。擔任樂隊的主音。
@@ -446,8 +439,7 @@ City，在AkibarnStreet進行活動的地下偶像樂隊。商業搭配樂隊為
 <!-- end list -->
 
   -
-    動畫版原創角色。uvm社員，原Criticrista的經紀人。給予傳說中的花瓣「Grateful Rock
-    Festival」的門票。動畫第二季擔任傳說中的花瓣的經紀人。
+    動畫版原創角色。uvm社員，原Criticrista的經紀人。給予傳說中的花瓣「Grateful Rock Festival」的門票。動畫第二季擔任傳說中的花瓣的經紀人。
 
 <!-- end list -->
 
@@ -654,8 +646,7 @@ City，在AkibarnStreet進行活動的地下偶像樂隊。商業搭配樂隊為
   -
 
       -
-        作詞：秋秋、蕾朵莉、摩亞，作曲：秋秋（作詞、作曲、編曲：高瀨愛虹、no_my、Rega
-        Sound、高畑裕一郎），主唱：Plasmagica
+        作詞：秋秋、蕾朵莉、摩亞，作曲：秋秋（作詞、作曲、編曲：高瀨愛虹、no_my、Rega Sound、高畑裕一郎），主唱：Plasmagica
 
 ::; 「」（第3、4話）
 
@@ -1180,35 +1171,17 @@ City，在AkibarnStreet進行活動的地下偶像樂隊。商業搭配樂隊為
 
 ## 外部連結
 
-  - [《SHOW BY ROCK\!\!》| 人物 |
-    三麗鷗](http://www.sanrio.co.jp/character/showbyrock/)
+  - [《SHOW BY ROCK\!\!》| 人物 | 三麗鷗](http://www.sanrio.co.jp/character/showbyrock/)
 
   - [《SHOW BY ROCK\!\!》官方網站](http://showbyrock.com/)
 
   -
   - [電視動畫《SHOW BY ROCK\!\!》官方網站](http://showbyrock-anime.com/)
 
-  - [電視動畫《SHOW BY
-    ROCK\!\!Short\!\!》官方網站](http://showbyrock-anime.com/short/)
+  - [電視動畫《SHOW BY ROCK\!\!Short\!\!》官方網站](http://showbyrock-anime.com/short/)
 
   -
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
-[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:BONES](https://zh.wikipedia.org/wiki/Category:BONES "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:2015年UHF動畫](https://zh.wikipedia.org/wiki/Category:2015年UHF動畫 "wikilink")
-[Category:2016年UHF動畫](https://zh.wikipedia.org/wiki/Category:2016年UHF動畫 "wikilink")
-[Category:三麗鷗角色](https://zh.wikipedia.org/wiki/Category:三麗鷗角色 "wikilink")
-[Category:搖滾樂題材作品](https://zh.wikipedia.org/wiki/Category:搖滾樂題材作品 "wikilink")
-[Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink")
-[Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink")
-[Category:音樂動畫](https://zh.wikipedia.org/wiki/Category:音樂動畫 "wikilink")
-[Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
-[Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink")
-[Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink")
+[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:BONES](https://zh.wikipedia.org/wiki/Category:BONES "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:2015年UHF動畫](https://zh.wikipedia.org/wiki/Category:2015年UHF動畫 "wikilink") [Category:2016年UHF動畫](https://zh.wikipedia.org/wiki/Category:2016年UHF動畫 "wikilink") [Category:三麗鷗角色](https://zh.wikipedia.org/wiki/Category:三麗鷗角色 "wikilink") [Category:搖滾樂題材作品](https://zh.wikipedia.org/wiki/Category:搖滾樂題材作品 "wikilink") [Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink") [Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink") [Category:音樂動畫](https://zh.wikipedia.org/wiki/Category:音樂動畫 "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink") [Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink")
 
 1.
 2.

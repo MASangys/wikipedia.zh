@@ -1,0 +1,120 @@
+**喬治·阿波洛諾維奇·加邦**神父（， — ），是一位[俄羅斯正教會的神父](https://zh.wikipedia.org/wiki/俄羅斯正教會 "wikilink")，並在[1905年俄國革命前作為一個受歡迎的勞工團體領袖](https://zh.wikipedia.org/wiki/1905年俄國革命 "wikilink")。在他決定轉職成為警方的告密者之際，加邦被[社會革命黨的其中一名成員所謀殺](https://zh.wikipedia.org/wiki/社會革命黨 "wikilink")。
+
+## 早年生活
+
+喬治·阿波洛諾維奇·加邦在[格里曆](../Page/格里曆.md "wikilink")1870年2月17日生於[俄羅斯帝國](https://zh.wikipedia.org/wiki/俄羅斯帝國 "wikilink")[波爾塔瓦州](https://zh.wikipedia.org/wiki/波爾塔瓦州 "wikilink")[比利基的一個村落](https://zh.wikipedia.org/wiki/比利基 "wikilink")。加邦在家裏眾多孩子是最年長的；他的父親來自[哥薩克](../Page/哥薩克.md "wikilink")民族的後代，而他的母親則是當地的農民。\[1\]他的父親阿波羅·費奧多羅維奇·加邦對子女們有着十分嚴厲的教育，當時他擔任村落的村長和比利基的辦事員。\[2\]他的母親屬於[文盲](https://zh.wikipedia.org/wiki/文盲 "wikilink")，但她由於受到[東正教的薰陶](https://zh.wikipedia.org/wiki/東正教 "wikilink")，因此她的兒子亦跟隨其母信奉[俄羅斯正教會和東正教](https://zh.wikipedia.org/wiki/俄羅斯正教會 "wikilink")。\[3\]
+
+喬治在小學時就讀位於[波爾塔瓦州的基督教學校](https://zh.wikipedia.org/wiki/波爾塔瓦州 "wikilink")，由於他被認為是一個優秀的學生，因此學校推薦一所可以讓加邦延續他的正規教育的神學院。\[4\]在他小學生涯的最後一年，他首次認識俄羅斯文學家和他的偶像[列夫·托尔斯泰](https://zh.wikipedia.org/wiki/列夫·托尔斯泰 "wikilink")，他們兩人也是政治狂熱分子之一。\[5\]他的其中一名教授I·M·特列古博夫亦記為加邦是整個學校中最優秀的學生之一，並在他教授的課堂上顯得十分認真、聰敏、勤奮和好學。\[6\]
+
+他在該小學畢業後，加邦就讀波爾塔瓦州神學院。加邦在他的中學生涯中仍然繼續閱讀托爾斯泰以及其他偶像的書籍。\[7\]加邦由於受到的影響，因此他重視幫助貧窮的人和反對官方宗教所承認的人民階級主義成為民間習俗。\[8\]這使他和一些神學院的成員發生衝突，並威脅他如果這樣做，他將會失去他的教育津貼。\[9\]加邦在受到神職員的威脅後，他使用自己的儲蓄和替別人補習的收入來支付他的學費。\[10\]
+
+加邦在他成為補習老師的時候患上[斑疹傷寒](../Page/斑疹傷寒.md "wikilink")，這次生病令他一段時間無法工作，並使他認為自己不可能透過成為補習老師以延續他的學業。\[11\]因此他決定放棄成為一名神甫的夢想，他希望能夠就讀並成為一名醫生，從而能夠幫助窮人。\[12\]可是他的計劃在不久後便實行：神學院給他一個「少於完美」的操行等級，因此他退出神學院並開始他的大學生涯。\[13\]
+
+加邦在1893年於[波爾塔瓦州自治區成為統計員](https://zh.wikipedia.org/wiki/波爾塔瓦州 "wikilink")，這份工作使他有着比以前從事私人補習教師時更高的收入。\[14\]在這段工作生涯中，他認識一名女性的本地商人，而加邦亦曾成為這個女子的補習老師。\[15\]加邦的家人對他們兩人成婚的決定持反對的態度，因此他再次成為神甫以獲得家人的認同。\[16\]他向波爾塔瓦州的主教發出請求，並以自己的行為舉止向他致歉和盼望他可以讓自己到教堂工作。\[17\]主教答應了加邦的請求，於是便准許他和那位女性商人成婚。\[18\]
+
+加邦再次加入教會後不斷升職：他加入不久便成為教堂的聖詩朗讀者，並在正式成為教會的神甫前為教堂進行宣傳活動。\[19\]加邦的服務使他的教會變得有聲有色和迅速壯大，可是他的行為使鄰近的其他教會的神甫感到不滿，甚至希望可以向他作出投訴。\[20\]儘管受到其他教會的反對，加邦依然採納主教的意見，並對自己的仕途十分滿意。\[21\]
+
+## 遷至[聖彼得堡後的生活](https://zh.wikipedia.org/wiki/聖彼得堡 "wikilink")
+
+[St._Petersburg_academy.jpg](https://zh.wikipedia.org/wiki/File:St._Petersburg_academy.jpg "fig:St._Petersburg_academy.jpg")四個不同信仰的神學院之一，並訓練學生們長大後成為神學家。\]\]
+
+加邦與他的妻子結婚後生育了兩名孩子，可是他的妻子在第二個男孩誕生後不久便患病，\[22\]並在加邦決定遷至聖彼得堡後居住不久後逝世。\[23\]此時主教伊拉里翁強烈地向他推薦聖會的檢察官，於是加邦在沒有神學院的證書下進行的入學試。\[24\]加邦在67名考生中排行第十六，因此他獲得該神學院的獎學金和入學資格。\[25\]他在1898年正式入讀聖彼德堡神學院並成為235名學生的一分子。\[26\]
+
+在他開始就讀聖彼得堡神學院的同一年，加邦被[俄羅斯正教會邀請成為傳教士](https://zh.wikipedia.org/wiki/俄羅斯正教會 "wikilink")。\[27\]在這段時間內，加邦幫助消除人們在宗教和市場上的分歧和籌款興建一些食堂以及租用房屋，這使他和一些[無產階級的人有着更親密的關係](https://zh.wikipedia.org/wiki/無產階級 "wikilink")。\[28\]可是緊張的傳教工作和他的學習生活使加邦感到滿有壓力和[抑鬱](https://zh.wikipedia.org/wiki/抑鬱_\(情緒\) "wikilink")，因此他開始罷課。\[29\]後來他決定向學校申請醫療休假，\[30\]並移居至[克里米亞半島近一年](https://zh.wikipedia.org/wiki/克里米亞 "wikilink")，以滿足他心理上的健康。\[31\]
+
+同時，由於加邦作為正教會所開辦的四大神學院之一——聖彼得堡神學院的學生，並且成績名列前茅，因此來自[塔夫利省](../Page/塔夫利省.md "wikilink")的主教尼古拉批准加邦在沒有任何儀式的情況下居住在位於[塞凡堡附近的一間修道院](https://zh.wikipedia.org/wiki/塞凡堡 "wikilink")。\[32\]在克里米亞半島居住的期間，他認識一些的重要組織成員，這群人均對東正教教會有着反對的態度，並希望加邦能夠退出教會。\[33\]加邦並沒有因為他們的勸告而離開教會，反而在1899年11月回到聖彼得堡的教會再次工作。\[34\]
+
+加邦在1900年成為聖奧麗加兒童孤兒院的宗教教師，並參與一些協助工廠員工、家庭貧窮和失業人士的活動。
+
+## 血腥星期日
+
+[Gapon_u_Narvskoy_zastavy1.jpg](https://zh.wikipedia.org/wiki/File:Gapon_u_Narvskoy_zastavy1.jpg "fig:Gapon_u_Narvskoy_zastavy1.jpg")聚集人民示威時的模擬畫像。\]\]
+
+此時受到[大日本帝國陸軍](../Page/大日本帝國陸軍.md "wikilink")的[上校](../Page/上校.md "wikilink")[明石元二郎](../Page/明石元二郎.md "wikilink")所支援的加邦\[35\]決定組織聖彼得堡內的一些工廠大使、金屬軋制工廠的工人，還有[公共安全與秩序保衛部的](https://zh.wikipedia.org/wiki/公共安全與秩序保衛部 "wikilink")[秘密警察](../Page/秘密警察.md "wikilink")。加邦組織這些人的目的是為了爭取工廠員工的權益以及他們在道德和宗教上的合法地位，因而加邦開始計劃帶領這些人在1905年向沙皇請願，並釀成[血腥星期日的災難](https://zh.wikipedia.org/wiki/血腥星期日_\(1905年\) "wikilink")。此外，這個團隊內的所有成員也是[俄羅斯正教會的成員以及](https://zh.wikipedia.org/wiki/俄羅斯正教會 "wikilink")[東正教的信徒](https://zh.wikipedia.org/wiki/東正教 "wikilink")。後來，加邦的團隊增至12個分支和8,000名成員。同時，加邦亦在設法把他們的團隊擴散至[基輔](../Page/基輔.md "wikilink")及[莫斯科](../Page/莫斯科.md "wikilink")等地。加邦不僅經常遵從警察的指示，而且還希望能與俄羅斯的警察們合作，為工廠裏的工人發聲。
+
+從1904年的年底起，加邦開始與他的團隊成員反抗極端、苛刻，以及尊崇沙皇（當時的沙皇為[尼古拉二世](https://zh.wikipedia.org/wiki/尼古拉二世_\(俄羅斯\) "wikilink")）為無上者的[獨裁統治](https://zh.wikipedia.org/wiki/獨裁 "wikilink")。
+
+，也就是他們宣佈罷工抗議的第二天，加邦與他組織的工廠員工到達聖彼得堡示威，並要求沙皇接納他們的請願信。最後，他們示威的行為導致一千多人死亡以及[血腥星期日的發生](https://zh.wikipedia.org/wiki/血腥星期日_\(1905年\) "wikilink")。\[36\]後來，加邦受到的幫助，使他在示威中沒有受到炮彈的攻擊，並從神甫的職位變為一名普通市民。加邦後來成為[馬克西姆·高爾基的宿客](https://zh.wikipedia.org/wiki/馬克西姆·高爾基 "wikilink")，直至他被殺害。\[37\]
+
+在血腥星期日發生後，加邦仍然強烈譴責沙皇的行為和聚集以前他所組織的成員對抗沙皇。可是他流亡國外後，仍然與[社會革命黨有着密切的聯繫](https://zh.wikipedia.org/wiki/社會革命黨 "wikilink")。加邦和魯騰貝格作為俄羅斯的流亡者，因此他們被歐洲的著名學家和俄國革命家[格奧爾基·瓦連京諾維奇·普列漢諾夫](https://zh.wikipedia.org/wiki/格奧爾基·瓦連京諾維奇·普列漢諾夫 "wikilink")、[佛拉迪米爾·伊里奇·列寧](../Page/弗拉基米尔·伊里奇·列宁.md "wikilink")、[彼得·阿歷克塞維奇·克魯泡特金](https://zh.wikipedia.org/wiki/彼得·阿歷克塞維奇·克魯泡特金 "wikilink")，以及法國社會主義者的代表人物[尚·饒勒斯](../Page/尚·饒勒斯.md "wikilink")和[喬治·克列孟梭等人推薦到](https://zh.wikipedia.org/wiki/喬治·克列孟梭 "wikilink")[日內瓦的庇護所暫避](https://zh.wikipedia.org/wiki/日內瓦 "wikilink")，\[38\]或在[斯特普尼的邓斯坦大楼酒店與無政府主義者彼得](../Page/斯特普尼_\(倫敦\).md "wikilink")·阿歷克塞維奇·克魯泡特金和居住。在1905年10月[十月詔書發表後](https://zh.wikipedia.org/wiki/十月詔書 "wikilink")，加邦獲邀請回到俄羅斯，並繼續與[公共安全與秩序保衛部的秘密警察保持聯絡](https://zh.wikipedia.org/wiki/公共安全與秩序保衛部 "wikilink")。
+
+## 逝世
+
+後來，加邦向魯騰貝格透露他與警方的密切聯繫並嘗試招聘他成為[秘密警察](../Page/秘密警察.md "wikilink")，並告訴他由於這個原因，他們才會加入加邦的團隊。可是，魯騰貝格向[社會革命黨的領袖](https://zh.wikipedia.org/wiki/社會革命黨 "wikilink")（亦是秘密警察的間諜）\[39\]和洩露這個事實。1906年3月26日，加邦到達[聖彼得堡與魯騰伯格相約見面時被警方發現](https://zh.wikipedia.org/wiki/聖彼得堡 "wikilink")，並被判在入獄一個月後處以[絞刑](https://zh.wikipedia.org/wiki/絞刑 "wikilink")。魯騰貝格後來表示，加邦在被判死刑時受到法官的強烈譴責。他亦表示他在監牢中探望加邦時，有三名在囚的[社會革命黨成員無意中從隔壁的房間聽到他們的談話內容](https://zh.wikipedia.org/wiki/社會革命黨 "wikilink")。加邦與魯騰貝格談及他們的計劃時，魯騰貝格卻向三名囚犯透露加邦的牢房位置。當魯騰貝格回到加邦的牢房時，加邦已經被三名囚犯所謀殺。\[40\]
+
+## 作品
+
+  - [加邦在血腥星期日示威時向沙皇遞交的請願信內容](https://en.m.wikisource.org/wiki/The_St._Petersburg_workmen%27s_petition_to_the_Tsar,_January_22,_1905)
+  - 《The Story of My Life》（加邦在血腥星期日後所寫的自傳）
+
+## 參考資料
+
+## 外部連結
+
+  -
+  - George Gapon, [*The Story of My Life*](https://archive.org/details/storymylifebyfa00gapogoog) (1906)
+
+  -
+[Category:1870年出生](https://zh.wikipedia.org/wiki/Category:1870年出生 "wikilink") [Category:1906年逝世](https://zh.wikipedia.org/wiki/Category:1906年逝世 "wikilink") [Category:托爾斯泰主義者](https://zh.wikipedia.org/wiki/Category:托爾斯泰主義者 "wikilink") [Category:烏克蘭裔俄羅斯人](https://zh.wikipedia.org/wiki/Category:烏克蘭裔俄羅斯人 "wikilink") [Category:暗探局线人](https://zh.wikipedia.org/wiki/Category:暗探局线人 "wikilink") [Category:波尔塔瓦省人](https://zh.wikipedia.org/wiki/Category:波尔塔瓦省人 "wikilink")
+
+1.  Walter Sablinsky, *The Road to Bloody Sunday: Father Gapon and the St. Petersburg Massacre of 1905.* Princeton, NJ: Princeton University Press, 1976; pg. 34.
+
+2.  Sablinsky, *The Road to Bloody Sunday,* pg. 35.
+
+3.
+4.  Sablinsky, *The Road to Bloody Sunday,* pg. 36.
+
+5.
+6.
+7.  Sablinsky, *The Road to Bloody Sunday,* pg. 37.
+
+8.
+9.
+10. Sablinsky, *The Road to Bloody Sunday,* pp. 37-38.
+
+11. Sablinsky, *The Road to Bloody Sunday,* pg. 38.
+
+12.
+13.
+14. Sablinsky, *The Road to Bloody Sunday,* pg. 39.
+
+15.
+16. Sablinsky, *The Road to Bloody Sunday,* pp. 39-40.
+
+17. Sablinsky, *The Road to Bloody Sunday,* pg. 40.
+
+18.
+19.
+20.
+21.
+22.
+23. Sablinsky, *The Road to Bloody Sunday,* pp. 40-41.
+
+24. Sablinsky, *The Road to Bloody Sunday,* pg. 41.
+
+25. Sablinsky, *The Road to Bloody Sunday,* pp. 41-42.
+
+26. Sablinsky, *The Road to Bloody Sunday,* pg. 42.
+
+27.
+28.
+29.
+30. Sablinsky, *The Road to Bloody Sunday,* pg. 45.
+
+31.
+32. Sablinsky, *The Road to Bloody Sunday,* pg. 43.
+
+33.
+34. Sablinsky, *The Road to Bloody Sunday,* pg. 44.
+
+35. Busch, Noel F. (1969). The Emperor's Sword; Japan vs Russia in the Battle of Tsushima. New York: Funk & Wagnall. p. 121
+
+36. [Marxist biographies](http://www.marxists.org/glossary/people/g/a.htm) accessed 22 Jan 2007.
+
+37. Tova Yedin, *Maxim Gorky: A Political Biography.* Westport, CT: Praeger Publishers, 1999; pg. 49.
+
+38. [Spartacus Educational](http://www.spartacus.schoolnet.co.uk/RUSgapon.htm)  accessed 21 Feb 2007.
+
+39. [Notes on Georgii Appolonovich Gapon (1870-1906)](http://novaonline.nvcc.edu/eli/evans/HIS242/Notes/Gapon.html), Northern Virginia Community College
+
+40.

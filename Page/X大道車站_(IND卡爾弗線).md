@@ -45,25 +45,17 @@
 ## 外部連結
 
   -
-  - Station Reporter — [F
-    Train](https://web.archive.org/web/20120204051254/http://www.stationreporter.net/ftrain.htm)
+  - Station Reporter — [F Train](https://web.archive.org/web/20120204051254/http://www.stationreporter.net/ftrain.htm)
 
-  - The Subway Nut — [Avenue X
-    Pictures](http://www.subwaynut.com/ind/ave_xf/index.php)
+  - The Subway Nut — [Avenue X Pictures](http://www.subwaynut.com/ind/ave_xf/index.php)
 
-  - [Avenue X and 86th Street entrance from Google Maps Street
-    View](https://maps.google.com/?ie=UTF8&ll=40.590391,-73.97415&spn=0,0.006657&t=h&z=18&layer=c&cbll=40.590644,-73.974118&panoid=rsDkBRtOlSMUPl1bEZJrBA&cbp=12,223.76,,0,1.23)
+  - [Avenue X and 86th Street entrance from Google Maps Street View](https://maps.google.com/?ie=UTF8&ll=40.590391,-73.97415&spn=0,0.006657&t=h&z=18&layer=c&cbll=40.590644,-73.974118&panoid=rsDkBRtOlSMUPl1bEZJrBA&cbp=12,223.76,,0,1.23)
 
-  - [Exit to bus stop from Google Maps Street
-    View](https://maps.google.com/?ie=UTF8&ll=40.589861,-73.974252&spn=0,0.006657&t=h&z=18&layer=c&cbll=40.589774,-73.974254&panoid=LQ4opBzUu7Y5STSQ2HbBfw&cbp=12,244.83,,0,3.65)
+  - [Exit to bus stop from Google Maps Street View](https://maps.google.com/?ie=UTF8&ll=40.589861,-73.974252&spn=0,0.006657&t=h&z=18&layer=c&cbll=40.589774,-73.974254&panoid=LQ4opBzUu7Y5STSQ2HbBfw&cbp=12,244.83,,0,3.65)
 
-  - [Platforms from Google Maps Street
-    View](https://www.google.com/maps/@40.5904388,-73.974968,3a,75y,297.16h,81.19t/data=!3m8!1e1!3m6!1s-jGoj7KT49v4%2FWHWUIh8yZgI%2FAAAAAAAAaNs%2FNcH4w-N3fIg8wtfWmWyGtbI1L-utRnifgCLIB!2e4!3e11!6s%2F%2Flh4.googleusercontent.com%2F-jGoj7KT49v4%2FWHWUIh8yZgI%2FAAAAAAAAaNs%2FNcH4w-N3fIg8wtfWmWyGtbI1L-utRnifgCLIB%2Fw203-h100-p-k-no%2F!7i9728!8i4864!4m3!8m2!3m1!1e1!6m1!1e1)
+  - [Platforms from Google Maps Street View](https://www.google.com/maps/@40.5904388,-73.974968,3a,75y,297.16h,81.19t/data=!3m8!1e1!3m6!1s-jGoj7KT49v4%2FWHWUIh8yZgI%2FAAAAAAAAaNs%2FNcH4w-N3fIg8wtfWmWyGtbI1L-utRnifgCLIB!2e4!3e11!6s%2F%2Flh4.googleusercontent.com%2F-jGoj7KT49v4%2FWHWUIh8yZgI%2FAAAAAAAAaNs%2FNcH4w-N3fIg8wtfWmWyGtbI1L-utRnifgCLIB%2Fw203-h100-p-k-no%2F!7i9728!8i4864!4m3!8m2!3m1!1e1!6m1!1e1)
 
-[Category:IND卡爾弗線車站](https://zh.wikipedia.org/wiki/Category:IND卡爾弗線車站 "wikilink")
-[Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink")
-[Category:1919年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1919年啟用的鐵路車站 "wikilink")
-[Category:1919年紐約州建立](https://zh.wikipedia.org/wiki/Category:1919年紐約州建立 "wikilink")
+[Category:IND卡爾弗線車站](https://zh.wikipedia.org/wiki/Category:IND卡爾弗線車站 "wikilink") [Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink") [Category:1919年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1919年啟用的鐵路車站 "wikilink") [Category:1919年紐約州建立](https://zh.wikipedia.org/wiki/Category:1919年紐約州建立 "wikilink")
 
 1.
 2.

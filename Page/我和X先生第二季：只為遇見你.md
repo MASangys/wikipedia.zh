@@ -1,30 +1,10 @@
-吳一凡{{、w}}李感{{、w}}張培瑜{{、w}}溫心{{、w}}王秋翰 | judges = | voices = | narrated =
-周藝博 | theme_music_composer = 雨夢 | opentheme = 他 | endtheme = 等你擦肩 |
-composer = | country =  | language =
-[國語](https://zh.wikipedia.org/wiki/國語 "wikilink") | num_seasons
-=第二季 | num_episodes = 6 集 | list_episodes = | slogan =任世事蒼茫，不枉青春一場 |
-executive_producer = | supervising_producer = | producer = 李岩 | editor
-= | location =
-[山西](https://zh.wikipedia.org/wiki/山西 "wikilink")[太原](https://zh.wikipedia.org/wiki/太原 "wikilink")、[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[河北](https://zh.wikipedia.org/wiki/河北 "wikilink")[北戴河](https://zh.wikipedia.org/wiki/北戴河 "wikilink")
-| cinematography = | camera = | runtime = 約23分鐘，全長約133分鐘 | company =
-有個微電影工作室、淡藍網([Blued](https://zh.wikipedia.org/wiki/Blued "wikilink"))
-| distributor = | channel
-=[優酷網](https://zh.wikipedia.org/wiki/優酷網 "wikilink") |
-picture_format =[影片網站](https://zh.wikipedia.org/wiki/影片網站 "wikilink") |
-audio_format =[立體聲](../Page/立體聲.md "wikilink") | first_run = |
-first_aired = | last_aired = | status = | preceded_by = |
-followed_by = | related = | website
-=[1](http://www.weibo.com/u/3559813153) | production_website = }}
-**《我和X先生第二季：只為遇見你》**（）是《我和X先生》系列劇的第二季，以網路電視劇方式播出，由有個微電影工作室和[Blued聯合出品](https://zh.wikipedia.org/wiki/Blued "wikilink")，[張文爽執導](https://zh.wikipedia.org/wiki/張文爽 "wikilink")，[周藝博](https://zh.wikipedia.org/wiki/周藝博 "wikilink")、[吳一凡](../Page/吳一凡.md "wikilink")、[李感](https://zh.wikipedia.org/wiki/李感 "wikilink")、[張培瑜](https://zh.wikipedia.org/wiki/張培瑜 "wikilink")、[溫心](https://zh.wikipedia.org/wiki/溫心 "wikilink")、[王秋翰主演](https://zh.wikipedia.org/wiki/王秋翰 "wikilink")。本劇劇情設定在2008年的夏天到2015年夏天，透過背景及物品呈現，以「時間軸」緊扣劇情。並採用“連續劇+大電影”的形式播出。
+吳一凡{{、w}}李感{{、w}}張培瑜{{、w}}溫心{{、w}}王秋翰 | judges = | voices = | narrated = 周藝博 | theme_music_composer = 雨夢 | opentheme = 他 | endtheme = 等你擦肩 | composer = | country =  | language = [國語](https://zh.wikipedia.org/wiki/國語 "wikilink") | num_seasons =第二季 | num_episodes = 6 集 | list_episodes = | slogan =任世事蒼茫，不枉青春一場 | executive_producer = | supervising_producer = | producer = 李岩 | editor = | location = [山西](https://zh.wikipedia.org/wiki/山西 "wikilink")[太原](https://zh.wikipedia.org/wiki/太原 "wikilink")、[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[河北](https://zh.wikipedia.org/wiki/河北 "wikilink")[北戴河](https://zh.wikipedia.org/wiki/北戴河 "wikilink") | cinematography = | camera = | runtime = 約23分鐘，全長約133分鐘 | company = 有個微電影工作室、淡藍網([Blued](https://zh.wikipedia.org/wiki/Blued "wikilink")) | distributor = | channel =[優酷網](https://zh.wikipedia.org/wiki/優酷網 "wikilink") | picture_format =[影片網站](https://zh.wikipedia.org/wiki/影片網站 "wikilink") | audio_format =[立體聲](../Page/立體聲.md "wikilink") | first_run = | first_aired = | last_aired = | status = | preceded_by = | followed_by = | related = | website =[1](http://www.weibo.com/u/3559813153) | production_website = }} **《我和X先生第二季：只為遇見你》**（）是《我和X先生》系列劇的第二季，以網路電視劇方式播出，由有個微電影工作室和[Blued聯合出品](https://zh.wikipedia.org/wiki/Blued "wikilink")，[張文爽執導](https://zh.wikipedia.org/wiki/張文爽 "wikilink")，[周藝博](https://zh.wikipedia.org/wiki/周藝博 "wikilink")、[吳一凡](../Page/吳一凡.md "wikilink")、[李感](https://zh.wikipedia.org/wiki/李感 "wikilink")、[張培瑜](https://zh.wikipedia.org/wiki/張培瑜 "wikilink")、[溫心](https://zh.wikipedia.org/wiki/溫心 "wikilink")、[王秋翰主演](https://zh.wikipedia.org/wiki/王秋翰 "wikilink")。本劇劇情設定在2008年的夏天到2015年夏天，透過背景及物品呈現，以「時間軸」緊扣劇情。並採用“連續劇+大電影”的形式播出。
 2015年11月9日，第二季在[優酷平台上線播出](https://zh.wikipedia.org/wiki/優酷 "wikilink")，每週更新兩集。
 2015年11月27日，電影版在[優酷頻道上線播出](https://zh.wikipedia.org/wiki/優酷 "wikilink")，影片內容為6集連續劇內容整合。\[1\]
 
 ## 劇情大綱
 
-以2008年的高中校園為背景，故事主要講述了一個單純內向的男孩**徐正熙**([周藝博](https://zh.wikipedia.org/wiki/周藝博 "wikilink")
-飾)，在16歲高二的那年，意外發現自己對好兄弟**陶野**([吳一凡](../Page/吳一凡.md "wikilink")
-飾)產生了難以言說的感情。在那段青春懵懂的時光裡，以及自己父親的否定下，在好友**艾桐**([張倍瑜](https://zh.wikipedia.org/wiki/張倍瑜 "wikilink")
-飾)的陪伴和鼓勵之下，正熙慢慢發現並開始正視自己的情感，即便歷經傷痛但仍勇敢去愛。但所有高中生活中的歡樂美好，都在畢業的那一刻起轟然倒塌。
+以2008年的高中校園為背景，故事主要講述了一個單純內向的男孩**徐正熙**([周藝博](https://zh.wikipedia.org/wiki/周藝博 "wikilink") 飾)，在16歲高二的那年，意外發現自己對好兄弟**陶野**([吳一凡](../Page/吳一凡.md "wikilink") 飾)產生了難以言說的感情。在那段青春懵懂的時光裡，以及自己父親的否定下，在好友**艾桐**([張倍瑜](https://zh.wikipedia.org/wiki/張倍瑜 "wikilink") 飾)的陪伴和鼓勵之下，正熙慢慢發現並開始正視自己的情感，即便歷經傷痛但仍勇敢去愛。但所有高中生活中的歡樂美好，都在畢業的那一刻起轟然倒塌。
 
 ## 播出時間
 
@@ -260,8 +240,7 @@ followed_by = | related = | website
 
 ## 與時代不同處
 
-本劇中透過背景及物品呈現，以「時間軸」緊扣劇情，其拍攝背景時間從[2008年春天至](../Page/2008年.md "wikilink")2015年夏天，由劇中的場景及主角使用的東西都可以看出有刻意安排，但仍就出現些許時空背景與物品不符合之處，如同切換片段時出現的月曆應為2015年版本；宋小可於2012年所持的手機大小似乎為[iPhone
-6](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")；而且2008年趙小布就向徐正熙發簡訊，期間2008年徐正熙所使用的手機與2012年時的已有所不同，簡訊是否可以保留那麼長的時間也是一個問題；2012年同學會的音樂出現2014年的音樂；故事場景到2015年但陶野給徐正熙的喜帖仍是2014年9月21日。
+本劇中透過背景及物品呈現，以「時間軸」緊扣劇情，其拍攝背景時間從[2008年](../Page/2008年.md "wikilink")春天至2015年夏天，由劇中的場景及主角使用的東西都可以看出有刻意安排，但仍就出現些許時空背景與物品不符合之處，如同切換片段時出現的月曆應為2015年版本；宋小可於2012年所持的手機大小似乎為[iPhone 6](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")；而且2008年趙小布就向徐正熙發簡訊，期間2008年徐正熙所使用的手機與2012年時的已有所不同，簡訊是否可以保留那麼長的時間也是一個問題；2012年同學會的音樂出現2014年的音樂；故事場景到2015年但陶野給徐正熙的喜帖仍是2014年9月21日。
 
 ## 影響與評價
 
@@ -269,14 +248,6 @@ followed_by = | related = | website
 
 ## 外部連結
 
-[Category:2015年中国网络剧](https://zh.wikipedia.org/wiki/Category:2015年中国网络剧 "wikilink")
-[Category:2008年背景作品](https://zh.wikipedia.org/wiki/Category:2008年背景作品 "wikilink")
-[Category:2000年代背景電視節目](https://zh.wikipedia.org/wiki/Category:2000年代背景電視節目 "wikilink")
-[Category:2010年代背景電視節目](https://zh.wikipedia.org/wiki/Category:2010年代背景電視節目 "wikilink")
-[Category:中國校園劇](https://zh.wikipedia.org/wiki/Category:中國校園劇 "wikilink")
-[Category:中國偶像劇](https://zh.wikipedia.org/wiki/Category:中國偶像劇 "wikilink")
-[Category:男同性戀相關電視節目](https://zh.wikipedia.org/wiki/Category:男同性戀相關電視節目 "wikilink")
-[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink")
-[Category:中國網路小說改編電視劇](https://zh.wikipedia.org/wiki/Category:中國網路小說改編電視劇 "wikilink")
+[Category:2015年中国网络剧](https://zh.wikipedia.org/wiki/Category:2015年中国网络剧 "wikilink") [Category:2008年背景作品](https://zh.wikipedia.org/wiki/Category:2008年背景作品 "wikilink") [Category:2000年代背景電視節目](https://zh.wikipedia.org/wiki/Category:2000年代背景電視節目 "wikilink") [Category:2010年代背景電視節目](https://zh.wikipedia.org/wiki/Category:2010年代背景電視節目 "wikilink") [Category:中國校園劇](https://zh.wikipedia.org/wiki/Category:中國校園劇 "wikilink") [Category:中國偶像劇](https://zh.wikipedia.org/wiki/Category:中國偶像劇 "wikilink") [Category:男同性戀相關電視節目](https://zh.wikipedia.org/wiki/Category:男同性戀相關電視節目 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:中國網路小說改編電視劇](https://zh.wikipedia.org/wiki/Category:中國網路小說改編電視劇 "wikilink")
 
 1.

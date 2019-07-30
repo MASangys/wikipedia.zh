@@ -1,5 +1,4 @@
-\[1\]為[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[鍵空富燒的](../Page/鍵空富燒.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，於[史克威爾艾尼克斯發行的雜誌](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")《[月刊GANGAN
-JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")》2015年6月號開始連載\[2\]。已出版第8冊[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")，連載四十九回完結。2018年3月總計發售70萬冊\[3\]。
+\[1\]為[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[鍵空富燒](../Page/鍵空富燒.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，於[史克威爾艾尼克斯發行的雜誌](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")《[月刊GANGAN JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")》2015年6月號開始連載\[2\]。已出版第8冊[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")，連載四十九回完結。2018年3月總計發售70萬冊\[3\]。
 
 2018年3月22日決定改編為電視動畫，並於同年7月至9月播出\[4\]。
 
@@ -51,7 +50,7 @@ JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")》2015年6月號開始連載\[2
     曾發尋人啟事時被惡棍纏上，三星太陽路過而救了神戶旭
     收到翔子拍下砂糖與鹽擁抱的照片後，卻不知道這是翔子死前最後的訊息，動畫結局中看到妹妹不尋常的樣子感到震驚。
   -
-    砂糖打工處的後輩，崇拜砂糖，到異常的程度
+    砂糖打工處的後輩，崇拜砂糖到異常的程度。
     動畫結局中在新聞上得知，砂糖與翔子死亡的消息。
   -
     鹽和旭的母親，人生都由他人選擇，16歲時在外遇到混混（鹽和旭的父親）遭強暴後懷孕就結婚了。
@@ -70,7 +69,7 @@ JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")》2015年6月號開始連載\[2
     起初以為喜歡砂糖是因為她很完美，所以對當時「未擁有不完美的愛」的砂糖有所期待；直到砂糖撿到神戶鹽時，才明白自己喜歡的是砂糖未找到真愛時，
     那黯淡的眼神；而後見到眼神明亮的砂糖產生忌妒而欲對鹽動手殺害，結果反被砂糖殺害，但他只覺得最後沒看到砂糖表情感到可惜。
     動畫中僅用音波及些許字幕表示他在說話，內容無法得知，但由砂糖的應答中大略可以推測。
-    死後被糖佔用了其家。
+    死後被砂糖佔用了其家。
 
 ## 出版書籍
 
@@ -138,7 +137,7 @@ JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")》2015年6月號開始連載\[2
 
 ## 電視動畫
 
-2018年7月13日於[每日放送首播](../Page/每日放送.md "wikilink")\[5\]。
+2018年7月13日於[每日放送](../Page/每日放送.md "wikilink")首播\[5\]。
 
 ### 製作人員
 
@@ -358,8 +357,7 @@ JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")》2015年6月號開始連載\[2
 
 ### 播放電視台
 
-日本地區於2018年7月13日25時55分（[UTC+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")）於[每日放送的](../Page/每日放送.md "wikilink")「[Animeism](../Page/Animeism.md "wikilink")
-B1」時段首播，之後亦在[TBS電視台](../Page/TBS電視台.md "wikilink")、[BS-TBS](../Page/BS-TBS.md "wikilink")、[AT-X等電視台播出](../Page/AT-X.md "wikilink")\[15\]。
+日本地區於2018年7月13日25時55分（[UTC+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")）於[每日放送](../Page/每日放送.md "wikilink")的「[Animeism](../Page/Animeism.md "wikilink") B1」時段首播，之後亦在[TBS電視台](../Page/TBS電視台.md "wikilink")、[BS-TBS](../Page/BS-TBS.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")等電視台播出\[15\]。
 
 ## 註釋
 
@@ -367,16 +365,12 @@ B1」時段首播，之後亦在[TBS電視台](../Page/TBS電視台.md "wikilink
 
 ## 外部連結
 
-  - [GUNGUN JOKER「Happy Sugar
-    Life」特設網站](http://www.jp.square-enix.com/magazine/joker/series/happysugarlife/)
+  - [GUNGUN JOKER「Happy Sugar Life」特設網站](http://www.jp.square-enix.com/magazine/joker/series/happysugarlife/)
 
   - [電視動畫「Happy Sugar Life」官方網站](http://happysugarlife.tv/)
 
   -
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
-[Category:月刊GANGAN_JOKER](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_JOKER "wikilink")
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
-[Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink")
+[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink") [Category:月刊GANGAN_JOKER](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_JOKER "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink")
 
 1.
 

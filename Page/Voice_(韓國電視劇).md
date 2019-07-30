@@ -1,10 +1,6 @@
-《**Voice**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN自](https://zh.wikipedia.org/wiki/OCN "wikilink")2017年1月14日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original
-Series），台灣於1月15日起每周日一上午10點於[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")、中午12點於KKTV播出。由《[詐欺遊戲](../Page/詐欺遊戲_\(韓國電視劇\).md "wikilink")》金弘善導演與《[最後之舞](https://zh.wikipedia.org/wiki/最後之舞 "wikilink")》馬珍媛編劇共同打造。本劇講述因一次事故而失去家人的刑警與112舉報中心隊員，在犯罪率第一、檢舉率全國最低的盛雲支廳「112舉報中心黃金時間隊」工作，並追逐殺害他們家人的連鎖殺人犯、解決案件的過程。
+《**Voice**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN自](https://zh.wikipedia.org/wiki/OCN "wikilink")2017年1月14日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original Series）。由《[詐欺遊戲](../Page/詐欺遊戲_\(韓國電視劇\).md "wikilink")》金弘善導演與《[最後之舞](https://zh.wikipedia.org/wiki/最後之舞 "wikilink")》[馬珍媛](../Page/馬珍媛.md "wikilink")作家共同打造。本劇講述因一次事故而失去家人的刑警與112舉報中心隊員，在犯罪率第一、檢舉率全國最低的盛雲支廳「112舉報中心黃金時間隊」工作，並追逐殺害他們家人的連鎖殺人犯、解決案件的過程。
 
-《Voice》在播放期间，创下了OCN史上最高收視率的韓劇。\[1\]
-然而因为暴力残忍场面引起争论，韩国放送通信审议委员会对它给了劝告处分。\[2\]
-为了将真实的场景拍摄出来，也把11至12集观看等级将调整到19岁以上可观看。\[3\]
-2018年8月11日推出第二季，於[愛奇藝台灣站獨家播出](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")，詳請請見《[Voice2](../Page/Voice2.md "wikilink")》。
+《Voice》在播放期间，创下了OCN史上最高收視率的韓劇。\[1\] 然而因为暴力残忍场面引起争论，韩国放送通信审议委员会对它给了劝告处分。\[2\] 为了将真实的场景拍摄出来，也把11至12集观看等级将调整到19岁以上可观看。\[3\]
 
 ## 演員陣容
 
@@ -14,7 +10,7 @@ Series），台灣於1月15日起每周日一上午10點於[愛奇藝台灣站](
 | ------------------------------------- | ------ | -------------------------------- | ------------------------------------------------------------------------------------------ |
 | **演員**                                | **角色** | **粵語配音員**                        | **介紹**                                                                                     |
 | [張赫](../Page/張赫_\(韓國\).md "wikilink") | 武鎮赫    | [陳健豪](../Page/陳健豪.md "wikilink") | 112舉報中心黃金時間組組長，劇中第一起案件銀興洞警察妻子被殺事件中的被害人許智慧的老公，武東宇的爸爸，有著瘋狗的稱號，為了抓住殺害妻子的真兇，努力不懈。              |
-| [李荷娜](../Page/李荷娜.md "wikilink")      | 姜權酒    | [姜嘉蕾](../Page/姜嘉蕾.md "wikilink") | 112舉報中心主任，聽力很好，父親姜國煥在值勤時被銀興洞事件真兇殺害，而父親被殺害的當下，姜權酒因正好與父親通話，也在此事件中權酒聽到真兇的聲音，後與武鎮赫聯合調查藏在幕後的真兇。 |
+| [李荷娜](../Page/李荷娜.md "wikilink")      | 姜勸酒    | [姜嘉蕾](../Page/姜嘉蕾.md "wikilink") | 112舉報中心主任，聽力很好，父親姜國煥在值勤時被銀興洞事件真兇殺害，而父親被殺害的當下，姜勸酒因正好與父親通話，也在此事件中勸酒聽到真兇的聲音，後與武鎮赫聯合調查藏在幕後的真兇。 |
 
 ### 112舉報中心黃金時間組
 
@@ -24,7 +20,7 @@ Series），台灣於1月15日起每周日一上午10點於[愛奇藝台灣站](
 | [白成鉉](../Page/白成鉉.md "wikilink") | 沈代植    | [方榮基](../Page/方榮基.md "wikilink") | 視鎮赫如親哥哥般信任並追隨，鎮赫的警察廳後輩。         |
 | [藝聲](../Page/藝聲.md "wikilink")   | 吳賢浩    | [杜景煜](../Page/杜景煜.md "wikilink") | 曾在美國駭客奧運中獲得第一名，黃金時間組內負責IT方面的成員。 |
 | [孫恩書](../Page/孫恩書.md "wikilink") | 朴恩秀    | [劉曉樺](../Page/劉曉樺.md "wikilink") | 112舉報中心黃金時間隊員，具備多國語言能力。         |
-| [權亨俊](../Page/權亨俊.md "wikilink") | 千尚弼    | [黃啟明](../Page/黃啟明.md "wikilink") | 幫助權酒引領黃金時間組的大哥。                 |
+| [權亨俊](../Page/權亨俊.md "wikilink") | 千尚弼    | [黃啟明](../Page/黃啟明.md "wikilink") | 幫助勸酒引領黃金時間組的大哥。                 |
 
 ### 警察廳相關人物
 
@@ -85,13 +81,13 @@ Series），台灣於1月15日起每周日一上午10點於[愛奇藝台灣站](
 <td><p><a href="../Page/孫鐘鶴.md" title="wikilink">孫鐘鶴</a></p></td>
 <td><p>姜國煥</p></td>
 <td><p><a href="../Page/黃啟明.md" title="wikilink">黃啟明</a></p></td>
-<td><p>姜權酒的父親，職業為警察，因許智慧案在查緝巡邏途中，遇到真兇，而被殺害。</p></td>
+<td><p>姜勸酒的父親，職業為警察，因許智慧案在查緝巡邏途中，遇到真兇，而被殺害。</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>高東哲</p></td>
 <td><p><a href="../Page/杜景煜.md" title="wikilink">杜景煜</a></p></td>
-<td><p>成雲地區夜總會經理人，被指認為殺害許智慧的兇手，卻因權酒的證詞而未被逮捕。</p></td>
+<td><p>成雲地區夜總會經理人，被指認為殺害許智慧的兇手，卻因勸酒的證詞而未被逮捕。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金材昱.md" title="wikilink">金材昱</a></p></td>
@@ -232,10 +228,10 @@ Series），台灣於1月15日起每周日一上午10點於[愛奇藝台灣站](
 <td><p>天水聯立的房客沈映雲的姐姐，長相和房東朴福順相仿，在朴福順遇害後假扮朴福順，惡意騷擾房客尹弼裴，為了要趕走房客們以將房子賣給房產公司，為了掩蓋屍體的味道將社區內的垃圾都收集在自己家中。頸部有蟹足腫。</p></td>
 </tr>
 <tr class="odd">
-<td></td>
 <td><p>朴福順</p></td>
 <td></td>
 <td><p>遭殺害的房東，曾做過淋巴癌手術，頸部留有手術傷痕。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/尹敬浩.md" title="wikilink">尹敬浩</a></p></td>
@@ -479,7 +475,7 @@ Series），台灣於1月15日起每周日一上午10點於[愛奇藝台灣站](
 <td></td>
 <td></td>
 <td><p><a href="../Page/譚漢華.md" title="wikilink">譚漢華</a></p></td>
-<td><p>姜權酒熟識的退休法醫。</p></td>
+<td><p>姜勸酒熟識的退休法醫。</p></td>
 </tr>
 <tr class="even">
 <td><p>李智慧</p></td>
@@ -797,13 +793,7 @@ Series），台灣於1月15日起每周日一上午10點於[愛奇藝台灣站](
   - [香港有線電視官方網站](http://epg.i-cable.com/ci/program/intro/522/奪命殺聲)
 
   -
-[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink")
-[Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink")
-[Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink")
-[Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink")
-[Category:驚悚電視劇](https://zh.wikipedia.org/wiki/Category:驚悚電視劇 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
+[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink") [Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink") [Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink") [Category:驚悚電視劇](https://zh.wikipedia.org/wiki/Category:驚悚電視劇 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
 
 1.
 

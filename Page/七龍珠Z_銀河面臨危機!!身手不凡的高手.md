@@ -1,6 +1,4 @@
-《**七龙珠Z 银河面临危机\!\!身手不凡的高手**》（，[英语](../Page/英语.md "wikilink"): Dragon
-Ball Z: The Galaxy's at the Brink\!\! The Super Incredible
-Guy），是[七龍珠在](../Page/七龙珠.md "wikilink")1993年7月10日上映的第12部劇場版動畫。\[1\]故事时间在在[沙鲁事件之后](https://zh.wikipedia.org/wiki/沙鲁 "wikilink")。
+《**七龙珠Z 银河面临危机\!\!身手不凡的高手**》（，[英语](../Page/英语.md "wikilink"): Dragon Ball Z: The Galaxy's at the Brink\!\! The Super Incredible Guy），是[七龍珠在](../Page/七龙珠.md "wikilink")1993年7月10日上映的第12部劇場版動畫。\[1\]故事时间在在[沙鲁事件之后](https://zh.wikipedia.org/wiki/沙鲁 "wikilink")。
 
 ## 故事
 
@@ -189,9 +187,7 @@ Guy），是[七龍珠在](../Page/七龙珠.md "wikilink")1993年7月10日上�
 
   - 漫畫
 
-ジャンプ・アニメコミックス ドラゴンボールZ 銀河ギリギリ\!\!ぶっちぎりの凄い奴（ISBN
-4-8342-1188-6）是由集英社在1996年5月22日發售。臺灣是由[東立出版社代理正體中文版在](../Page/東立出版社.md "wikilink")1993年12月28日發售《七龍珠Z
-銀河面臨危機\!\!身手不凡的高手》（ISBN 9573411938）\[2\]
+ジャンプ・アニメコミックス ドラゴンボールZ 銀河ギリギリ\!\!ぶっちぎりの凄い奴（ISBN 4-8342-1188-6）是由集英社在1996年5月22日發售。臺灣是由[東立出版社](../Page/東立出版社.md "wikilink")代理正體中文版在1993年12月28日發售《七龍珠Z 銀河面臨危機\!\!身手不凡的高手》（ISBN 9573411938）\[2\]
 
 ## 參考來源
 
@@ -200,11 +196,7 @@ Guy），是[七龍珠在](../Page/七龙珠.md "wikilink")1993年7月10日上�
   - [七龍珠劇場版歷史](https://web.archive.org/web/20090130013807/http://www.toei-anim.co.jp/ptr/dragonball/movie/)東映
 
   -
-[Category:七龙珠电影](https://zh.wikipedia.org/wiki/Category:七龙珠电影 "wikilink")
-[Category:1993年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1993年日本劇場動畫 "wikilink")
+[Category:七龙珠电影](https://zh.wikipedia.org/wiki/Category:七龙珠电影 "wikilink") [Category:1993年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1993年日本劇場動畫 "wikilink")
 
-1.  [Dragon Ball Z: Bojack Unbound
-    (movie 9)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=987)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+1.  [Dragon Ball Z: Bojack Unbound (movie 9)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=987)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 2.  [七龍珠Z 7](http://findbook.tw/book/9789573411932/basic)Findbook

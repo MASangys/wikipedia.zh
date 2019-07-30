@@ -1,13 +1,6 @@
-**hyukoh**（，讀音為「hyeoko」），韓國獨立[樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")，成立於
-2014 年 5 月，2015 年簽约
-[HIGHGRND](../Page/HIGHGRND.md "wikilink")。團員四人為主唱兼吉他手[吳赫](../Page/吳赫.md "wikilink")、吉他手[林賢帝](https://zh.wikipedia.org/wiki/林賢帝 "wikilink")、貝斯手[任童健](../Page/任童健.md "wikilink")、鼓手[李仁雨](../Page/李仁雨.md "wikilink")。團名的由來為主唱吳赫「Oh
-Hyuk」的名字倒過來念。
+**hyukoh**（，讀音為「hyeoko」），韓國獨立[樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")，成立於 2014 年 5 月，2015 年簽约 [HIGHGRND](../Page/HIGHGRND.md "wikilink")。團員四人為主唱兼吉他手[吳赫](../Page/吳赫.md "wikilink")、吉他手[林賢帝](https://zh.wikipedia.org/wiki/林賢帝 "wikilink")、貝斯手[任童健](../Page/任童健.md "wikilink")、鼓手[李仁雨](../Page/李仁雨.md "wikilink")。團名的由來為主唱吳赫「Oh Hyuk」的名字倒過來念。
 
-2014 年 9 月 hyukoh 發行首張
-EP【20】，收錄曲是吳赫在北京高中時期的獨自創作，幾乎全英文。該專輯沒有任何宣傳，卻以口碑在弘大地下小有名氣，演出場場售罄。2015
-年因參加[無限挑戰
-嶺東高速公路歌謠祭爆紅](../Page/無限挑戰_嶺東高速公路歌謠祭.md "wikilink")，成為目前韓國最具代表性的國民樂隊。成員們年齡與樣貌的不符、寡言難採訪的個性、成為了
-hyukoh 的特色，也為樂隊增添了許多趣味與神秘感。
+2014 年 9 月 hyukoh 發行首張 EP【20】，收錄曲是吳赫在北京高中時期的獨自創作，幾乎全英文。該專輯沒有任何宣傳，卻以口碑在弘大地下小有名氣，演出場場售罄。2015 年因參加[無限挑戰 嶺東高速公路歌謠祭爆紅](../Page/無限挑戰_嶺東高速公路歌謠祭.md "wikilink")，成為目前韓國最具代表性的國民樂隊。成員們年齡與樣貌的不符、寡言難採訪的個性、成為了 hyukoh 的特色，也為樂隊增添了許多趣味與神秘感。
 
 ## 成員資料
 
@@ -135,11 +128,9 @@ hyukoh 的特色，也為樂隊增添了許多趣味與神秘感。
 ## 綜藝節目
 
   - 2015年：《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》(4月24日、10月16日)
-  - 2015年：《[無限挑戰
-    嶺東高速公路歌謠祭](../Page/無限挑戰_嶺東高速公路歌謠祭.md "wikilink")》(7月4日、11日、18日、25日、8月1日、8日、22日)
+  - 2015年：《[無限挑戰 嶺東高速公路歌謠祭](../Page/無限挑戰_嶺東高速公路歌謠祭.md "wikilink")》(7月4日、11日、18日、25日、8月1日、8日、22日)
   - 2016年：《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》(12月3日)
-  - 2016年：《[無限挑戰
-    偉大的遺產](https://zh.wikipedia.org/wiki/無限挑戰_偉大的遺產 "wikilink")》（吳赫）（12月31日）
+  - 2016年：《[無限挑戰 偉大的遺產](https://zh.wikipedia.org/wiki/無限挑戰_偉大的遺產 "wikilink")》（吳赫）（12月31日）
   - 2017年：《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》（吳赫）(4月15日、4月29日)
   - 2017年：《[本業是歌手－這些傢伙的兩種生活](../Page/本業是歌手－這些傢伙的兩種生活.md "wikilink")》（吳赫）(11月23日－2018年1月11日)
   - 2018年：《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》（6月3日、6月10日）
@@ -379,9 +370,7 @@ hyukoh 的特色，也為樂隊增添了許多趣味與神秘感。
   - [任童健 Instagram](https://www.instagram.com/rough_talker/)
   - [李仁雨 Instagram](https://www.instagram.com/inuyashaismygod/)
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國樂團](https://zh.wikipedia.org/wiki/Category:韓國樂團 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國樂團](https://zh.wikipedia.org/wiki/Category:韓國樂團 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
 
 1.
 2.

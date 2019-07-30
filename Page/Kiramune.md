@@ -1,48 +1,36 @@
-'''Kiramune
-'''(キラミューン)是所屬於[Lantis和](../Page/Lantis.md "wikilink")[萬代影視的](../Page/萬代影視.md "wikilink")[唱片公司之一](../Page/唱片公司.md "wikilink")，創立於2009年4月，旗下現有14名成員活動中。期望讓於[動畫界及](https://zh.wikipedia.org/wiki/動畫 "wikilink")[遊戲界活躍的知名男性](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[聲優們](../Page/聲優.md "wikilink")，能將自己的聲音更廣泛的運用於娛樂界，而成立的唱片公司。藉由年度活動「[Kiramune
-Music
-Festival](https://zh.wikipedia.org/wiki/Kiramune#Kiramune_Music_Festival "wikilink")」音樂盛典、及透過聲音表現的「[Reading
-Live](https://zh.wikipedia.org/wiki/Kiramune#Reading_Live "wikilink")」朗讀劇來追求此目標。公司名稱是由「」（閃亮）、「」（群體）和「」（音樂）三個詞組合而成。
+'''Kiramune '''(キラミューン)是所屬於[Lantis](../Page/Lantis.md "wikilink")和[萬代影視](../Page/萬代影視.md "wikilink")的[唱片公司](../Page/唱片公司.md "wikilink")之一，創立於2009年4月，旗下現有14名成員活動中。期望讓於[動畫界及](https://zh.wikipedia.org/wiki/動畫 "wikilink")[遊戲界活躍的知名男性](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[聲優](../Page/聲優.md "wikilink")們，能將自己的聲音更廣泛的運用於娛樂界，而成立的唱片公司。藉由年度活動「[Kiramune Music Festival](https://zh.wikipedia.org/wiki/Kiramune#Kiramune_Music_Festival "wikilink")」音樂盛典、及透過聲音表現的「[Reading Live](https://zh.wikipedia.org/wiki/Kiramune#Reading_Live "wikilink")」朗讀劇來追求此目標。公司名稱是由「」（閃亮）、「」（群體）和「」（音樂）三個詞組合而成。
 
 ## 沿革
 
 **2009年**
 
-  - 4月 -
-    由[岩田光央](../Page/岩田光央.md "wikilink")・[鈴村健一的兩人組合](../Page/鈴村健一.md "wikilink")「[CONNECT](https://zh.wikipedia.org/wiki/:ja:CONNECT "wikilink")」作為第一彈歌手，[入野自由作為第二彈歌手](../Page/入野自由.md "wikilink")，[神谷浩史作為第三彈歌手](../Page/神谷浩史.md "wikilink")，開始活動。
-  - 11月 - [浪川大輔加入](../Page/浪川大輔.md "wikilink")，開辦 『Kiramune Music
-    Festival』。
+  - 4月 - 由[岩田光央](../Page/岩田光央.md "wikilink")・[鈴村健一](../Page/鈴村健一.md "wikilink")的兩人組合「[CONNECT](https://zh.wikipedia.org/wiki/:ja:CONNECT "wikilink")」作為第一彈歌手，[入野自由](../Page/入野自由.md "wikilink")作為第二彈歌手，[神谷浩史](../Page/神谷浩史.md "wikilink")作為第三彈歌手，開始活動。
+  - 11月 - [浪川大輔](../Page/浪川大輔.md "wikilink")加入，開辦 『Kiramune Music Festival』。
 
 **2010年**
 
-  - 5月 -
-    [入野自由與](../Page/入野自由.md "wikilink")[神谷浩史組成](../Page/神谷浩史.md "wikilink")「[KAmiYU](https://zh.wikipedia.org/wiki/:ja:KAmiYU "wikilink")」團體。
-  - 7月 - [柿原徹也加入](../Page/柿原徹也.md "wikilink")。
+  - 5月 - [入野自由](../Page/入野自由.md "wikilink")與[神谷浩史](../Page/神谷浩史.md "wikilink")組成「[KAmiYU](https://zh.wikipedia.org/wiki/:ja:KAmiYU "wikilink")」團體。
+  - 7月 - [柿原徹也](../Page/柿原徹也.md "wikilink")加入。
 
 **2011年**
 
-  - 4月 -
-    Trignal（[江口拓也](../Page/江口拓也.md "wikilink")・[木村良平](../Page/木村良平.md "wikilink")・[代永翼](../Page/代永翼.md "wikilink")）加入，Kiramune
-    Presents「」廣撥放送開始。
-  - 10月 - [岡本信彥加入](../Page/岡本信彥.md "wikilink")。
+  - 4月 - Trignal（[江口拓也](../Page/江口拓也.md "wikilink")・[木村良平](../Page/木村良平.md "wikilink")・[代永翼](../Page/代永翼.md "wikilink")）加入，Kiramune Presents「」廣撥放送開始。
+  - 10月 - [岡本信彥](../Page/岡本信彥.md "wikilink")加入。
 
 **2012年**
 
-  - 4月 - 開辦『[Kiramune Fan
-    Meeting](https://zh.wikipedia.org/wiki/Kiramune#Kiramune_Fan_Meeting "wikilink")』。
+  - 4月 - 開辦『[Kiramune Fan Meeting](https://zh.wikipedia.org/wiki/Kiramune#Kiramune_Fan_Meeting "wikilink")』。
   - 6月 - Kiramune Presents「」廣撥放送開始。
   - 10月 - 開辦『Reading Live』。
 
 **2013年**
 
-  - 4月 - [吉野裕行加入](../Page/吉野裕行.md "wikilink")。
+  - 4月 - [吉野裕行](../Page/吉野裕行.md "wikilink")加入。
 
 **2014年**
 
   - 10月 - 「」廣撥放送開始。
-  - 12月 -
-    [浪川大輔與](../Page/浪川大輔.md "wikilink")[吉野裕行組成](../Page/吉野裕行.md "wikilink")「[Uncle
-    Bomb](https://zh.wikipedia.org/wiki/:ja:Uncle_Bomb "wikilink")」團體。
+  - 12月 - [浪川大輔](../Page/浪川大輔.md "wikilink")與[吉野裕行](../Page/吉野裕行.md "wikilink")組成「[Uncle Bomb](https://zh.wikipedia.org/wiki/:ja:Uncle_Bomb "wikilink")」團體。
     「[CONNECT](https://zh.wikipedia.org/wiki/:ja:CONNECT "wikilink")」宣布暫時中止活動。
 
 **2015年**
@@ -57,10 +45,8 @@ Live](https://zh.wikipedia.org/wiki/Kiramune#Reading_Live "wikilink")」朗讀�
 **2017年**
 
   - 7月 - 「Uncle Bomb」節目「」放送開始。
-  - 9月 -
-    為慶祝於Kiramune活動5周年紀念、[岡本信彦](https://zh.wikipedia.org/wiki/岡本信彦 "wikilink")×Trignal發行首張合作專輯「」。
-  - 11月 - 於「Kiramune Fan Meeting in
-    靜岡」發表[上村祐翔](../Page/上村祐翔.md "wikilink")、[千葉翔也](../Page/千葉翔也.md "wikilink")、[保住有哉](https://zh.wikipedia.org/wiki/保住有哉 "wikilink")、[堀江瞬](../Page/堀江瞬.md "wikilink")、[吉永拓斗加入消息](../Page/吉永拓斗.md "wikilink")。
+  - 9月 - 為慶祝於Kiramune活動5周年紀念、[岡本信彦](https://zh.wikipedia.org/wiki/岡本信彦 "wikilink")×Trignal發行首張合作專輯「」。
+  - 11月 - 於「Kiramune Fan Meeting in 靜岡」發表[上村祐翔](../Page/上村祐翔.md "wikilink")、[千葉翔也](../Page/千葉翔也.md "wikilink")、[保住有哉](https://zh.wikipedia.org/wiki/保住有哉 "wikilink")、[堀江瞬](../Page/堀江瞬.md "wikilink")、[吉永拓斗](../Page/吉永拓斗.md "wikilink")加入消息。
     Kiramune Presents「」廣撥放送開始。
 
 ## 所屬歌手・組合
@@ -260,7 +246,7 @@ Live](https://zh.wikipedia.org/wiki/Kiramune#Reading_Live "wikilink")」朗讀�
 
 ## Reading Live
 
-Kiramune所屬的聲優一同演出的朗讀劇。同樣的內容在不同的場次由不同的聲優擔任各個角色。2012年起每年於[舞濱圓形劇場舉辦](../Page/舞濱圓形劇場.md "wikilink")
+Kiramune所屬的聲優一同演出的朗讀劇。同樣的內容在不同的場次由不同的聲優擔任各個角色。2012年起每年於[舞濱圓形劇場](../Page/舞濱圓形劇場.md "wikilink")舉辦
 2016年起同時舉辦直撥。
 
   - **2012年**10月27日-10月28日 - 『**鍵のかかった部屋**』\[28\]\[29\]

@@ -1,12 +1,8 @@
-《**N
-album**》是[日本二人組合](../Page/日本.md "wikilink")[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")15張[專輯](../Page/音樂專輯.md "wikilink")。於2016年9月21日由[傑尼斯娛樂唱片公司發行](../Page/傑尼斯娛樂.md "wikilink")。
+《**N album**》是[日本](../Page/日本.md "wikilink")二人組合[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")15張[專輯](../Page/音樂專輯.md "wikilink")。於2016年9月21日由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")唱片公司發行。
 
 ## 解說
 
-近睽違2年，近畿小子第15張專輯《N album》，終於發行！以「naked &
-natural」為主題，本張專輯將近畿小子兩人最「真實自然」的感性，完美融合呈現！由近畿小子製作，堂島孝平全面協力！並且繼單曲之後，再次與THE
-YELLOW MONKEY 吉井和哉、Base Ball Bear 小出祐介合作，此外也加入米倉利紀、THE BACK
-HORN松田晉二等製作陣容。
+近睽違2年，近畿小子第15張專輯《N album》，終於發行！以「naked & natural」為主題，本張專輯將近畿小子兩人最「真實自然」的感性，完美融合呈現！由近畿小子製作，堂島孝平全面協力！並且繼單曲之後，再次與THE YELLOW MONKEY 吉井和哉、Base Ball Bear 小出祐介合作，此外也加入米倉利紀、THE BACK HORN松田晉二等製作陣容。
 
 專輯收錄包含「沒有鑰匙的箱子」、「若懷抱夢想有時也會受傷」及「薔薇與太陽」等歌曲。
 
@@ -25,8 +21,7 @@ HORN松田晉二等製作陣容。
 1.  **naked mind**
       - 作詞：[堂島孝平](https://zh.wikipedia.org/wiki/堂島孝平 "wikilink")
       - 作曲：[堂島孝平](https://zh.wikipedia.org/wiki/堂島孝平 "wikilink")
-      - 編曲：[Susumu Kawaguchi, Fredrik
-        Samsson](https://zh.wikipedia.org/wiki/Susumu_Kawaguchi,_Fredrik_Samsson "wikilink")
+      - 編曲：[Susumu Kawaguchi, Fredrik Samsson](https://zh.wikipedia.org/wiki/Susumu_Kawaguchi,_Fredrik_Samsson "wikilink")
 2.  **沒有鑰匙的箱子**（****）
       - 作詞：[松井五郎](https://zh.wikipedia.org/wiki/松井五郎 "wikilink")
       - 作曲：[加藤裕介](https://zh.wikipedia.org/wiki/加藤裕介 "wikilink")
@@ -62,8 +57,7 @@ HORN松田晉二等製作陣容。
       - 編曲：[十川ともじ](https://zh.wikipedia.org/wiki/十川ともじ "wikilink")
 9.  **Plugin Love**
       - 作詞：[MiNE](https://zh.wikipedia.org/wiki/MiNE "wikilink")
-      - 作曲：[Fredrik Hult, Beoar Hassan, Hamed "K-One"
-        Pirouzpanah](https://zh.wikipedia.org/wiki/Fredrik_Hult,_Beoar_Hassan,_Hamed_"K-One"_Pirouzpanah "wikilink")
+      - 作曲：[Fredrik Hult, Beoar Hassan, Hamed "K-One" Pirouzpanah](https://zh.wikipedia.org/wiki/Fredrik_Hult,_Beoar_Hassan,_Hamed_"K-One"_Pirouzpanah "wikilink")
       - 編曲：[K-One](https://zh.wikipedia.org/wiki/K-One "wikilink")
       - 和音編排：[Ko-saku](https://zh.wikipedia.org/wiki/Ko-saku "wikilink")
 10. **請讓夜晚停下吧**（****）
@@ -84,8 +78,7 @@ HORN松田晉二等製作陣容。
 13. **無論經過幾年**（****）
       - 作詞：[堂島孝平](https://zh.wikipedia.org/wiki/堂島孝平 "wikilink")
       - 作曲：[堂島孝平](https://zh.wikipedia.org/wiki/堂島孝平 "wikilink")
-      - 編曲：[Jan Anderson, Peter
-        Heden](https://zh.wikipedia.org/wiki/Jan_Anderson,_Peter_Heden "wikilink")
+      - 編曲：[Jan Anderson, Peter Heden](https://zh.wikipedia.org/wiki/Jan_Anderson,_Peter_Heden "wikilink")
       - 和音編排：[堂島孝平](https://zh.wikipedia.org/wiki/堂島孝平 "wikilink")
 
 #### 初回版特典DVD收錄內容
@@ -114,22 +107,15 @@ HORN松田晉二等製作陣容。
 12. **KING PROTEA**
 13. **雨聲的波麗露**（****）
       - 作詞：[松田晋二](https://zh.wikipedia.org/wiki/松田晋二 "wikilink")
-      - 作曲：[Chris Meyer & Masaya
-        Wada](https://zh.wikipedia.org/wiki/Chris_Meyer_&_Masaya_Wada "wikilink")
-      - 編曲：[Chris
-        Meyer](https://zh.wikipedia.org/wiki/Chris_Meyer "wikilink")
+      - 作曲：[Chris Meyer & Masaya Wada](https://zh.wikipedia.org/wiki/Chris_Meyer_&_Masaya_Wada "wikilink")
+      - 編曲：[Chris Meyer](https://zh.wikipedia.org/wiki/Chris_Meyer "wikilink")
 14. **若懷抱夢想有時也會受傷**
 15. **無論經過幾年**
 
 ## 外部链接
 
-  - [Johnny's
-    Net](http://www.johnnys-net.jp/page?id=discoDetail&dataId=2693)
-  - [Johnny's
-    Entertainment](https://www.jehp.jp/kinki_discography/article/1293)
-  - [Avex
-    Taiwan](https://www.avex.com.tw/artist/artist_disco_songlist.asp?catalogNo=JEJCD22057%2FA)
+  - [Johnny's Net](http://www.johnnys-net.jp/page?id=discoDetail&dataId=2693)
+  - [Johnny's Entertainment](https://www.jehp.jp/kinki_discography/article/1293)
+  - [Avex Taiwan](https://www.avex.com.tw/artist/artist_disco_songlist.asp?catalogNo=JEJCD22057%2FA)
 
-[Category:近畿小子專輯](https://zh.wikipedia.org/wiki/Category:近畿小子專輯 "wikilink")
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:2016年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:近畿小子專輯](https://zh.wikipedia.org/wiki/Category:近畿小子專輯 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:2016年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Oricon專輯週榜冠軍作品 "wikilink")

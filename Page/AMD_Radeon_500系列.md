@@ -1,26 +1,16 @@
-**Radeon
-500系列**，是[AMD推出的](https://zh.wikipedia.org/wiki/AMD "wikilink")[顯示核心系列](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")。這個系列目前有核心代號為Polaris
-20、Polaris 21以及Polaris 12的晶片。目前本產品線基本上是Radeon
-400系列產品的小幅升級版，主要是時脈、供電以及運作功耗控制（包括視訊回放）等方面的改進，不過部分型號也採用了新的晶片，如Radeon
-RX 560及RX 550。\[1\]
+**Radeon 500系列**，是[AMD推出的](https://zh.wikipedia.org/wiki/AMD "wikilink")[顯示核心系列](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")。這個系列目前有核心代號為Polaris 20、Polaris 21以及Polaris 12的晶片。目前本產品線基本上是Radeon 400系列產品的小幅升級版，主要是時脈、供電以及運作功耗控制（包括視訊回放）等方面的改進，不過部分型號也採用了新的晶片，如Radeon RX 560及RX 550。\[1\]
 
 ## 產品
 
 ### 「Polaris 20」、「Polaris 21」系列
 
-「Polaris 20」核心基本上就是「Polaris 10」核心的小幅改進版。首發的RX
-580/570，製程、硬體規格基本一致，不過時脈更高，TDP也提高到至185W，顯示卡的供電規格也有補強，公版顯示卡就安裝了單8-pin
-PCIe外掛供電。不過實際效能測試表明相比Radeon RX 480/470並無明顯差別。\[2\]
+「Polaris 20」核心基本上就是「Polaris 10」核心的小幅改進版。首發的RX 580/570，製程、硬體規格基本一致，不過時脈更高，TDP也提高到至185W，顯示卡的供電規格也有補強，公版顯示卡就安裝了單8-pin PCIe外掛供電。不過實際效能測試表明相比Radeon RX 480/470並無明顯差別。\[2\]
 
 而「Polaris 21」在Radeon 500系列中發表了完整版核心的產品 Radeon RX 560。\[3\]
 
 ### 「Polaris 12」系列
 
-「Polaris
-12」核心的完整規格擁有10組CU共640個ALU/流處理器，40個紋理填充單元和16個渲染輸出單元（ROP），支援128位元[匯流排寬度的](https://zh.wikipedia.org/wiki/匯流排 "wikilink")[GDDR5顯示記憶體](../Page/GDDR5.md "wikilink")，有2GB和4GB的容量規格。本系列的首發產品是
-Radeon RX 550/540，都不是完整版的「Polaris
-12」核心，遮蔽了兩組CU，為512個流處理器、32個紋理填充單元的配置，其餘與完整版的一致。RX
-550供入門市售桌機顯示卡使用，不過RX540顯示核心是用於遊戲[筆電上](https://zh.wikipedia.org/wiki/筆電 "wikilink")，目前暫時未有[桌機版本出現](https://zh.wikipedia.org/wiki/桌機 "wikilink")。\[4\]
+「Polaris 12」核心的完整規格擁有10組CU共640個ALU/流處理器，40個紋理填充單元和16個渲染輸出單元（ROP），支援128位元[匯流排寬度的](https://zh.wikipedia.org/wiki/匯流排 "wikilink")[GDDR5](../Page/GDDR5.md "wikilink")顯示記憶體，有2GB和4GB的容量規格。本系列的首發產品是 Radeon RX 550/540，都不是完整版的「Polaris 12」核心，遮蔽了兩組CU，為512個流處理器、32個紋理填充單元的配置，其餘與完整版的一致。RX 550供入門市售桌機顯示卡使用，不過RX540顯示核心是用於遊戲[筆電上](https://zh.wikipedia.org/wiki/筆電 "wikilink")，目前暫時未有[桌機版本出現](https://zh.wikipedia.org/wiki/桌機 "wikilink")。\[4\]
 
 ## 顯示核心清單
 
@@ -242,8 +232,7 @@ $229 (8 GB)</p></td>
 </tbody>
 </table>
 
-資料來源：\[5\] \[6\] \[7\] \[8\] \[9\] \[10\] \[11\] \[12\] \[13\] \[14\]
-\[15\] \[16\]
+資料來源：\[5\] \[6\] \[7\] \[8\] \[9\] \[10\] \[11\] \[12\] \[13\] \[14\] \[15\] \[16\]
 
 ## 參考資料
 
@@ -251,8 +240,7 @@ $229 (8 GB)</p></td>
 
   - [RADEON RX 500 系列](http://radeon.com/zh-cn/rx500/)
 
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
-[Category:AMD圖形處理器](https://zh.wikipedia.org/wiki/Category:AMD圖形處理器 "wikilink")
+[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink") [Category:AMD圖形處理器](https://zh.wikipedia.org/wiki/Category:AMD圖形處理器 "wikilink")
 
 1.
 2.

@@ -364,17 +364,17 @@ Zico</p></td>
 柳承秀</p></td>
 <td><p>柳承秀的錄音書籍</p></td>
 <td><p>啞劇示範<br />
-聲音測試：突襲<a href="../Page/朴明洙.md" title="wikilink">朴明洙電台</a></p></td>
+聲音測試：突襲<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>電台</p></td>
 <td><p>——</p></td>
 <td><p>盧弘喆、洪錫天 勝出<br />
 特別演出：<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、<a href="https://zh.wikipedia.org/wiki/朴智允" title="wikilink">朴智允</a>、、、<a href="../Page/許卿煥.md" title="wikilink">許卿煥</a>、<br />
-崔秀敏 (聲優、車太鉉母親)、<a href="../Page/車太鉉.md" title="wikilink">車太鉉聲音</a>(電話)特別出演</p></td>
+崔秀敏 (聲優、車太鉉母親)、<a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>聲音(電話)特別出演</p></td>
 </tr>
 <tr class="even">
 <td><p>金鍾國<br />
 金智珉</p></td>
 <td><p>金智珉的跨張出場化妝</p></td>
-<td><p><a href="../Page/許卿煥.md" title="wikilink">許卿煥秋日郊游</a></p></td>
+<td><p><a href="../Page/許卿煥.md" title="wikilink">許卿煥</a>秋日郊游</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -389,7 +389,7 @@ Zico</p></td>
 <td><p>盧弘喆<br />
 洪錫天</p></td>
 <td><p>誘惑的餐車</p></td>
-<td><p><a href="../Page/搞笑演唱會.md" title="wikilink">搞笑演唱會隊試吃挑戰</a></p></td>
+<td><p><a href="../Page/搞笑演唱會.md" title="wikilink">搞笑演唱會</a>隊試吃挑戰</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -472,9 +472,6 @@ Zico</p></td>
   - [歡迎SHOW-DAUM](https://web.archive.org/web/20180125193642/http://movie.daum.net/tv/main?tvProgramId=76513)
   - [歡迎SHOW-NAVER](http://m.entertain.naver.com/tvBrand/3514820)
 
-[Category:KBS](https://zh.wikipedia.org/wiki/Category:KBS "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
+[Category:KBS](https://zh.wikipedia.org/wiki/Category:KBS "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
 
 1.

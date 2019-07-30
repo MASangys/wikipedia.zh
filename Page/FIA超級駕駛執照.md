@@ -217,7 +217,7 @@
 <td><p>0</p></td>
 </tr>
 <tr class="even">
-<td><p>註釋：<a href="../Page/電動方程式.md" title="wikilink">電動方程式年度總冠軍亦會獲發FIA超級駕駛執照</a></p></td>
+<td><p>註釋：<a href="../Page/電動方程式.md" title="wikilink">電動方程式</a>年度總冠軍亦會獲發FIA超級駕駛執照</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -238,23 +238,17 @@
 
 ## 車手國籍
 
-擁有[多重國籍的車手可以根據自己的喜好在其超級駕駛執照之上選擇國籍](../Page/多重國籍.md "wikilink")\[3\]。
+擁有[多重國籍](../Page/多重國籍.md "wikilink")的車手可以根據自己的喜好在其超級駕駛執照之上選擇國籍\[3\]。
 
 ## 參考
 
 ## 外部連結
 
   - [The official FIA Website](http://www.fia.com)
-  - [FIA F1 Sporting Regulations, Appendix L 2013 - International
-    Drivers' licences, medical examinations, driver's equipment and
-    conduct](http://www.fia.com/sites/default/files/regulation/file/13.01.24_ANNEXE%20L%202013.pdf)
-    (published January 24, 2013)
-  - [FIA announces new superlicence Points
-    System](http://www.thecheckeredflag.co.uk/2015/01/fia-announces-new-superlicence-points-system/)
+  - [FIA F1 Sporting Regulations, Appendix L 2013 - International Drivers' licences, medical examinations, driver's equipment and conduct](http://www.fia.com/sites/default/files/regulation/file/13.01.24_ANNEXE%20L%202013.pdf) (published January 24, 2013)
+  - [FIA announces new superlicence Points System](http://www.thecheckeredflag.co.uk/2015/01/fia-announces-new-superlicence-points-system/)
 
-[Category:國際汽車聯盟](https://zh.wikipedia.org/wiki/Category:國際汽車聯盟 "wikilink")
-[Category:一級方程式賽車](https://zh.wikipedia.org/wiki/Category:一級方程式賽車 "wikilink")
-[Category:驾驶执照](https://zh.wikipedia.org/wiki/Category:驾驶执照 "wikilink")
+[Category:國際汽車聯盟](https://zh.wikipedia.org/wiki/Category:國際汽車聯盟 "wikilink") [Category:一級方程式賽車](https://zh.wikipedia.org/wiki/Category:一級方程式賽車 "wikilink") [Category:驾驶执照](https://zh.wikipedia.org/wiki/Category:驾驶执照 "wikilink")
 
 1.
 2.

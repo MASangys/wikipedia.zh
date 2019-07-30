@@ -1,5 +1,4 @@
-《**DV現場**》（英文名：**On the
-Spot**；原名：全民DV）是由[廣東廣播電視台製作的一個新闻節目](https://zh.wikipedia.org/wiki/廣東廣播電視台 "wikilink")，於2011年5月1日开播，節目口號為“**直擊現場，關注民生**”。\[1\]該節目强调对本土百姓生活的关照，形式上追求“记者永远在现场”的感觉。\[2\]
+《**DV現場**》（英文名：**On the Spot**；原名：全民DV）是由[廣東廣播電視台製作的一個新闻節目](https://zh.wikipedia.org/wiki/廣東廣播電視台 "wikilink")，於2011年5月1日开播，節目口號為“**直擊現場，關注民生**”。\[1\]該節目强调对本土百姓生活的关照，形式上追求“记者永远在现场”的感觉。\[2\]
 
 該節目曾被評為“中国十大创新电视栏目”。
 
@@ -37,10 +36,8 @@ Spot**；原名：全民DV）是由[廣東廣播電視台製作的一個新闻�
 ## 外部链接
 
   -
-[Category:中国电视新闻节目](https://zh.wikipedia.org/wiki/Category:中国电视新闻节目 "wikilink")
-[Category:廣東廣播電視台](https://zh.wikipedia.org/wiki/Category:廣東廣播電視台 "wikilink")
+[Category:中国电视新闻节目](https://zh.wikipedia.org/wiki/Category:中国电视新闻节目 "wikilink") [Category:廣東廣播電視台](https://zh.wikipedia.org/wiki/Category:廣東廣播電視台 "wikilink")
 
 1.  [广东公共频道《DV现场》：直击现场关注民生](http://news.dayoo.com/finance/201412/30/54391_111342454.htm)
-
 2.  [广东电视台DV现场节目内容介绍](http://www.tvmao.com/tvcolumn/clJQLQ==)
 3.  [广东公共频道《DV现场》：直击现场关注民生](http://news.dayoo.com/finance/201412/30/54391_111342454.htm)

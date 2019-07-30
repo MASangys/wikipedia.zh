@@ -1,11 +1,10 @@
-**金珠妍**（，，），藝名為**Riko**（），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，曾為DR
-Music旗下女子組合[RANIA的主唱擔當](../Page/RANIA.md "wikilink")。在出道前，**Riko**亦為[RANIA的隊長](../Page/RANIA.md "wikilink")。
+**金珠妍**（，，），藝名為**Riko**（），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，曾為DR Music旗下女子組合[RANIA](../Page/RANIA.md "wikilink")的主唱擔當。在出道前，**Riko**亦為[RANIA](../Page/RANIA.md "wikilink")的隊長。
 
-由於從小在[日本學習](../Page/日本.md "wikilink")，因此所以[日文很流利](https://zh.wikipedia.org/wiki/日文 "wikilink")。
+由於從小在[日本](../Page/日本.md "wikilink")學習，因此所以[日文很流利](https://zh.wikipedia.org/wiki/日文 "wikilink")。
 
 出道前，曾以童星身份活動，亦曾發行OST。
 
-2011年正式以[RANIA成員身份出道](../Page/RANIA.md "wikilink")，2013年因學業問題開始缺席\[1\]，直至今仍未回歸，可證明已退出。
+2011年正式以[RANIA](../Page/RANIA.md "wikilink")成員身份出道，2013年因學業問題開始缺席\[1\]，直至今仍未回歸，可證明已退出。
 
 ## 音樂作品
 
@@ -132,13 +131,8 @@ Music旗下女子組合[RANIA的主唱擔當](../Page/RANIA.md "wikilink")。在
 
   -
   -
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink")
-[Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
+[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink") [Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
 
 1.  [Riko因學業缺席RaNia回歸](http://kpopn.niusnews.com/=K3812p85)
-2.  [호재, 라니아 출신 리코와 함께한 'Same Thing'
-    발표](http://magazine.hiphopplaya.com/magazine/article/view.html?category=news&category2=&mode=img&page=32&sort=signdate&num=16697&keyfield=&key=)
+2.  [호재, 라니아 출신 리코와 함께한 'Same Thing' 발표](http://magazine.hiphopplaya.com/magazine/article/view.html?category=news&category2=&mode=img&page=32&sort=signdate&num=16697&keyfield=&key=)
 3.

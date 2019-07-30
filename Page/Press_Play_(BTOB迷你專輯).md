@@ -1,5 +1,4 @@
-《**Press
-Play**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB的第](../Page/BTOB.md "wikilink")2張韓語迷你專輯，於2012年9月12日正式發行，主打歌曲為《WOW》。\[1\]
+《**Press Play**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的第2張韓語迷你專輯，於2012年9月12日正式發行，主打歌曲為《WOW》。\[1\]
 
 ## 曲目
 
@@ -159,12 +158,9 @@ Play**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音�
 
 ## 參考文獻
 
-[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink")
-[Category:BTOB音樂專輯](https://zh.wikipedia.org/wiki/Category:BTOB音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink") [Category:BTOB音樂專輯](https://zh.wikipedia.org/wiki/Category:BTOB音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
-1.  [BTOB — Press Play 音源](http://kpopn.niusnews.com/=K2q8jsu9)
-    2017-09-07 KPOPN
+1.  [BTOB — Press Play 音源](http://kpopn.niusnews.com/=K2q8jsu9) 2017-09-07 KPOPN
 2.
 3.
 4.

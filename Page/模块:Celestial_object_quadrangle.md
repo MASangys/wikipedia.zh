@@ -1,12 +1,4 @@
-\-- This module implements/replaces -- [Template:Lunar
-quadrangle](https://zh.wikipedia.org/wiki/Template:Lunar_quadrangle "wikilink")
--- [Template:Mars
-quadrangle](https://zh.wikipedia.org/wiki/Template:Mars_quadrangle "wikilink")
--- [Template:Mercury quadrangle
-category](https://zh.wikipedia.org/wiki/Template:Mercury_quadrangle_category "wikilink")
--- [Template:Venus
-quadrangle](https://zh.wikipedia.org/wiki/Template:Venus_quadrangle "wikilink")
-local p = {} -- 月球區 local function moonquad(lat, lon)
+\-- This module implements/replaces -- [Template:Lunar quadrangle](https://zh.wikipedia.org/wiki/Template:Lunar_quadrangle "wikilink") -- [Template:Mars quadrangle](https://zh.wikipedia.org/wiki/Template:Mars_quadrangle "wikilink") -- [Template:Mercury quadrangle category](https://zh.wikipedia.org/wiki/Template:Mercury_quadrangle_category "wikilink") -- [Template:Venus quadrangle](https://zh.wikipedia.org/wiki/Template:Venus_quadrangle "wikilink") local p = {} -- 月球區 local function moonquad(lat, lon)
 
 `   local function LQ(n)`
 `       if n < 10 then `

@@ -1,11 +1,6 @@
-**HERE**是一款由[諾基亞爲](../Page/诺基亚.md "wikilink")[Android](../Page/Android.md "wikilink")、[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Windows
-Phone平臺開發的地圖移動應用程式](../Page/Windows_Phone.md "wikilink")。 在發佈Windows
-Phone版幾年后， 該應用2014年年底和2015年年初在[Google
-Play和](../Page/Google_Play.md "wikilink")[iOS商店發售](https://zh.wikipedia.org/wiki/iOS "wikilink")。 地圖每月更新兩至三次。\[1\]
+**HERE**是一款由[諾基亞爲](../Page/诺基亚.md "wikilink")[Android](../Page/Android.md "wikilink")、[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Windows Phone平臺開發的地圖移動應用程式](../Page/Windows_Phone.md "wikilink")。 在發佈Windows Phone版幾年后， 該應用2014年年底和2015年年初在[Google Play和](../Page/Google_Play.md "wikilink")[iOS商店發售](https://zh.wikipedia.org/wiki/iOS "wikilink")。 地圖每月更新兩至三次。\[1\]
 
-HERE在Google
-Play商店2014年12月10日發佈，在[iOS商店](https://zh.wikipedia.org/wiki/iOS "wikilink")2015年3月15日發佈，在2016年6月30日停止了对一切Windows
-10设备的支持。
+HERE在Google Play商店2014年12月10日發佈，在[iOS商店](https://zh.wikipedia.org/wiki/iOS "wikilink")2015年3月15日發佈，在2016年6月30日停止了对一切Windows 10设备的支持。
 
 ## 特點
 
@@ -15,14 +10,11 @@ HERE可以將除中华人民共和国以外各個國家地圖下載到相應裝�
 
 ### 場所地圖
 
-HERE還包含了一系列的室內場所地圖，所如商場，機場等公共場所地圖。這些提供了三維度多層面建築導航，提供需要針對特定地點目的地/信息的用戶訪問。
-\[3\]
+HERE還包含了一系列的室內場所地圖，所如商場，機場等公共場所地圖。這些提供了三維度多層面建築導航，提供需要針對特定地點目的地/信息的用戶訪問。 \[3\]
 
 ### 街景
 
-[HERE_Maps_coverage.png](https://zh.wikipedia.org/wiki/File:HERE_Maps_coverage.png "fig:HERE_Maps_coverage.png")
-街道級視圖包含[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")，[西班牙](../Page/西班牙.md "wikilink")，[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")，[芬蘭和](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[阿聯酋等國家](https://zh.wikipedia.org/wiki/阿聯酋 "wikilink")。
-\[4\]
+[HERE_Maps_coverage.png](https://zh.wikipedia.org/wiki/File:HERE_Maps_coverage.png "fig:HERE_Maps_coverage.png") 街道級視圖包含[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")，[西班牙](../Page/西班牙.md "wikilink")，[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")，[芬蘭和](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[阿聯酋等國家](https://zh.wikipedia.org/wiki/阿聯酋 "wikilink")。 \[4\]
 
 | 國家或地區 | 洲   | 同期新增 | 注意事項                                                                                                                                                |
 | ----- | --- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -112,10 +104,7 @@ HERE可以讓用戶將自己喜歡的旅遊目的地的位置和詳細信息保�
 ## 額外鏈接
 
   -
-[Category:2015年软件](https://zh.wikipedia.org/wiki/Category:2015年软件 "wikilink")
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
-[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
-[Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink")
+[Category:2015年软件](https://zh.wikipedia.org/wiki/Category:2015年软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink")
 
 1.
 2.

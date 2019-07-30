@@ -1,5 +1,4 @@
-《**MAZE☆爆熱時空**》是[日本作家](../Page/日本.md "wikilink")[赤堀悟](../Page/赤堀悟.md "wikilink")（）的[輕小說系列作品](../Page/輕小說.md "wikilink")，插圖是[菅沼榮治](https://zh.wikipedia.org/wiki/菅沼榮治 "wikilink")。在[The
-Sneaker刊載](../Page/The_Sneaker.md "wikilink")、由[角川書店發售](../Page/角川書店.md "wikilink")。後來改編成[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")、[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")、[劇場動畫](https://zh.wikipedia.org/wiki/劇場動畫 "wikilink")、[漫畫等作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。
+《**MAZE☆爆熱時空**》是[日本](../Page/日本.md "wikilink")作家[赤堀悟](../Page/赤堀悟.md "wikilink")（）的[輕小說](../Page/輕小說.md "wikilink")系列作品，插圖是[菅沼榮治](https://zh.wikipedia.org/wiki/菅沼榮治 "wikilink")。在[The Sneaker刊載](../Page/The_Sneaker.md "wikilink")、由[角川書店](../Page/角川書店.md "wikilink")發售。後來改編成[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")、[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")、[劇場動畫](https://zh.wikipedia.org/wiki/劇場動畫 "wikilink")、[漫畫等作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。
 
 ## 故事
 
@@ -141,7 +140,7 @@ OVA版是在1996年7月24日開始發售共有兩話\[1\]，OVA是原創劇情�
 
 ## 電視動畫
 
-1997年4月2日到9月24日由[東京電視台播放](../Page/東京電視台.md "wikilink")，播放時間是星期三25時15分–25時45分，共25話。\[2\]第26話是[錄影帶全套購買特典](https://zh.wikipedia.org/wiki/錄影帶 "wikilink")。\[3\]臺灣由[民視](https://zh.wikipedia.org/wiki/民視 "wikilink")、[超視](https://zh.wikipedia.org/wiki/超視 "wikilink")、[八大綜合台播放](../Page/八大綜合台.md "wikilink")。\[4\]在節目開頭蜜露的台詞在電視播放版因為是在深夜時段播放所以是「起來了（）」，在發售的[LD版和](https://zh.wikipedia.org/wiki/LD "wikilink")[VHS版則改成](../Page/VHS.md "wikilink")「開始了（）」。
+1997年4月2日到9月24日由[東京電視台](../Page/東京電視台.md "wikilink")播放，播放時間是星期三25時15分–25時45分，共25話。\[2\]第26話是[錄影帶全套購買特典](https://zh.wikipedia.org/wiki/錄影帶 "wikilink")。\[3\]臺灣由[民視](https://zh.wikipedia.org/wiki/民視 "wikilink")、[超視](https://zh.wikipedia.org/wiki/超視 "wikilink")、[八大綜合台](../Page/八大綜合台.md "wikilink")播放。\[4\]在節目開頭蜜露的台詞在電視播放版因為是在深夜時段播放所以是「起來了（）」，在發售的[LD版和](https://zh.wikipedia.org/wiki/LD "wikilink")[VHS](../Page/VHS.md "wikilink")版則改成「開始了（）」。
 
 ### 主題歌
 
@@ -150,8 +149,7 @@ OVA版是在1996年7月24日開始發售共有兩話\[1\]，OVA是原創劇情�
 <!-- end list -->
 
   -
-    作詞：デーモン小暮 作曲：エース清水 編曲：聖飢魔II、松崎雄一
-    歌：[聖飢魔II](../Page/聖飢魔II.md "wikilink")
+    作詞：デーモン小暮 作曲：エース清水 編曲：聖飢魔II、松崎雄一 歌：[聖飢魔II](../Page/聖飢魔II.md "wikilink")
 
 <!-- end list -->
 
@@ -446,8 +444,7 @@ OVA版是在1996年7月24日開始發售共有兩話\[1\]，OVA是原創劇情�
   - 編集：西出榮子
   - 音響監督：三間雅文
   - 音樂：山中紀昌
-  - 音樂監督：山口博臣（[BMG
-    JAPAN](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")）
+  - 音樂監督：山口博臣（[BMG JAPAN](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")）
   - 音樂協助：東京電視音樂
   - 製作人：尾留川宏之、池田憲章、梅原勝
   - 監督：鈴木行
@@ -456,8 +453,7 @@ OVA版是在1996年7月24日開始發售共有兩話\[1\]，OVA是原創劇情�
 
 ## 劇場動畫
 
-《MAZE☆爆熱時空
-天變威脅的大巨人》（）在1998年4月25日於日本上映\[5\]\[6\]，但是在上映之後直到現在還是沒有將電影製成影碟發售。
+《MAZE☆爆熱時空 天變威脅的大巨人》（）在1998年4月25日於日本上映\[5\]\[6\]，但是在上映之後直到現在還是沒有將電影製成影碟發售。
 
 ### 主題歌
 
@@ -467,8 +463,7 @@ OVA版是在1996年7月24日開始發售共有兩話\[1\]，OVA是原創劇情�
 
   - 挿入歌：
 
-作詞：鈴木行 作曲/編曲：山中紀昌
-歌：[久川綾](https://zh.wikipedia.org/wiki/久川綾 "wikilink")（ヤン・デル）
+作詞：鈴木行 作曲/編曲：山中紀昌 歌：[久川綾](https://zh.wikipedia.org/wiki/久川綾 "wikilink")（ヤン・デル）
 
 ### 工作人員
 
@@ -496,7 +491,7 @@ OVA版是在1996年7月24日開始發售共有兩話\[1\]，OVA是原創劇情�
 
   -
     原作：赤堀悟　作畫：[臣士零](https://zh.wikipedia.org/wiki/臣士零 "wikilink")
-    1995年10月到1999年12月在月刊コミックドラゴン連載，臺灣由[東立出版社代理發售](../Page/東立出版社.md "wikilink")。\[8\]
+    1995年10月到1999年12月在月刊コミックドラゴン連載，臺灣由[東立出版社](../Page/東立出版社.md "wikilink")代理發售。\[8\]
 
 <!-- end list -->
 
@@ -512,7 +507,7 @@ OVA版是在1996年7月24日開始發售共有兩話\[1\]，OVA是原創劇情�
 
   - MAZE☆爆熱アワー
 
-1996年4月11日在[TBS廣播的廣播節目ファンタジーワールド中開始播放](../Page/TBS廣播.md "wikilink")，由[丹下櫻和](../Page/丹下櫻.md "wikilink")[關智一主持](../Page/關智一.md "wikilink")。\[10\]
+1996年4月11日在[TBS廣播](../Page/TBS廣播.md "wikilink")的廣播節目ファンタジーワールド中開始播放，由[丹下櫻](../Page/丹下櫻.md "wikilink")和[關智一](../Page/關智一.md "wikilink")主持。\[10\]
 
 ## 相關商品
 
@@ -554,41 +549,15 @@ OVA版是在1996年7月24日開始發售共有兩話\[1\]，OVA是原創劇情�
 
   - [J.C.STAFF](http://www.jcstaff.co.jp/)
 
-[Category:角川Sneaker文庫](https://zh.wikipedia.org/wiki/Category:角川Sneaker文庫 "wikilink")
-[Category:1993年小說](https://zh.wikipedia.org/wiki/Category:1993年小說 "wikilink")
-[Category:1996年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1996年日本OVA動畫 "wikilink")
-[Category:1997年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1997年日本電視動畫 "wikilink")
-[Category:1998年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1998年日本劇場動畫 "wikilink")
-[Category:J.C.STAFF](https://zh.wikipedia.org/wiki/Category:J.C.STAFF "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
-[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
-[Category:民視外購動畫](https://zh.wikipedia.org/wiki/Category:民視外購動畫 "wikilink")
-[Category:八大電視外購動畫](https://zh.wikipedia.org/wiki/Category:八大電視外購動畫 "wikilink")
-[Category:超視電視節目](https://zh.wikipedia.org/wiki/Category:超視電視節目 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:奇幻作品](https://zh.wikipedia.org/wiki/Category:奇幻作品 "wikilink")
-[Category:性轉換作品](https://zh.wikipedia.org/wiki/Category:性轉換作品 "wikilink")
+[Category:角川Sneaker文庫](https://zh.wikipedia.org/wiki/Category:角川Sneaker文庫 "wikilink") [Category:1993年小說](https://zh.wikipedia.org/wiki/Category:1993年小說 "wikilink") [Category:1996年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1996年日本OVA動畫 "wikilink") [Category:1997年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1997年日本電視動畫 "wikilink") [Category:1998年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1998年日本劇場動畫 "wikilink") [Category:J.C.STAFF](https://zh.wikipedia.org/wiki/Category:J.C.STAFF "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:民視外購動畫](https://zh.wikipedia.org/wiki/Category:民視外購動畫 "wikilink") [Category:八大電視外購動畫](https://zh.wikipedia.org/wiki/Category:八大電視外購動畫 "wikilink") [Category:超視電視節目](https://zh.wikipedia.org/wiki/Category:超視電視節目 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:奇幻作品](https://zh.wikipedia.org/wiki/Category:奇幻作品 "wikilink") [Category:性轉換作品](https://zh.wikipedia.org/wiki/Category:性轉換作品 "wikilink")
 
-1.  [Maze
-    (OAV)](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2045)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
-2.  [Maze
-    (TV)](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=44)Anime
-    News Network
-3.  [ＭＡＺＥ★爆熱時空](http://homepage1.nifty.com/harinoue/actress/anime/anime/maze.html)
-    折笠愛貯蔵庫
+1.  [Maze (OAV)](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2045)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+2.  [Maze (TV)](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=44)Anime News Network
+3.  [ＭＡＺＥ★爆熱時空](http://homepage1.nifty.com/harinoue/actress/anime/anime/maze.html) 折笠愛貯蔵庫
 4.  [ST-1 台湾の地上波](http://maaberu.fan.coocan.jp/satst1.htm) まあべる本舗
-5.  [ＭＡＺＥ 爆熱時空
-    天変脅威の大巨人](http://www.kinenote.com/main/public/cinema/detail.aspx?cinema_id=31251)KINENOTE
-6.  [Maze Bakunetsu Jikuu: Tenpen Kyoui no Giant
-    (movie)](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7403)Anime
-    News Network
-7.  [映画 アニメ MAZE☆爆熱時空
-    天変脅威の大巨人（ジャイアント）](http://www.allcinema.net/prog/show_c.php?num_c=153530)allcinema
+5.  [ＭＡＺＥ 爆熱時空 天変脅威の大巨人](http://www.kinenote.com/main/public/cinema/detail.aspx?cinema_id=31251)KINENOTE
+6.  [Maze Bakunetsu Jikuu: Tenpen Kyoui no Giant (movie)](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7403)Anime News Network
+7.  [映画 アニメ MAZE☆爆熱時空 天変脅威の大巨人（ジャイアント）](http://www.allcinema.net/prog/show_c.php?num_c=153530)allcinema
 8.  [超世奇譚MAZE爆熱時空01](http://www.m.sanmin.com.tw/Product/Index/000109579)三民網路書店
-9.  [MAZE☆爆熱時空
-    聖甲機伝説](http://www.manngareview.com/mannga/4799/)漫画レビュー.com
-10. [１９９６年春の改編で放送されていた番組](http://yosino.sakura.ne.jp/radio/1996b.html)CLUB
-    dx station
+9.  [MAZE☆爆熱時空 聖甲機伝説](http://www.manngareview.com/mannga/4799/)漫画レビュー.com
+10. [１９９６年春の改編で放送されていた番組](http://yosino.sakura.ne.jp/radio/1996b.html)CLUB dx station

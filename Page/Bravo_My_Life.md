@@ -1,5 +1,4 @@
-《**Bravo My
-Life**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2017年10月21日起播出的[週末連續劇](../Page/SBS週末連續劇.md "wikilink")，由《[摘星星給我](../Page/摘星星給我.md "wikilink")》[鄭孝導演執導與](https://zh.wikipedia.org/wiki/鄭孝 "wikilink")[鄭智友作家再度合作打造](../Page/鄭智友.md "wikilink")。此劇講述電視臺副導演、第七年準備出演中的演員以及擁有眼中無人性格的絕對強者三人間的故事。
+《**Bravo My Life**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2017年10月21日起播出的[週末連續劇](../Page/SBS週末連續劇.md "wikilink")，由《[摘星星給我](../Page/摘星星給我.md "wikilink")》[鄭孝導演執導與](https://zh.wikipedia.org/wiki/鄭孝 "wikilink")[鄭智友](../Page/鄭智友.md "wikilink")作家再度合作打造。此劇講述電視臺副導演、第七年準備出演中的演員以及擁有眼中無人性格的絕對強者三人間的故事。
 
 ## 演員陣容
 
@@ -579,32 +578,25 @@ Life**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[S
 
 **週六時段劇集**
 
-  - [MBC](../Page/文化廣播公司.md "wikilink")
-    [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：《[金錢之花](https://zh.wikipedia.org/wiki/金錢之花 "wikilink")》
+  - [MBC](../Page/文化廣播公司.md "wikilink") [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：《[金錢之花](https://zh.wikipedia.org/wiki/金錢之花 "wikilink")》
 
 **週末時段劇集**
 
-  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
-    [週末連續劇](../Page/KBS週末連續劇.md "wikilink")：《[我的黃金光輝人生](../Page/我的黃金光輝人生.md "wikilink")》
-  - [tvN](../Page/TVN.md "wikilink")
-    [週末連續劇](../Page/TvN週末連續劇.md "wikilink")：《[卞赫的愛情](../Page/卞赫的愛情.md "wikilink")》、《[世上最美麗的離別](../Page/世上最美麗的離別_\(2017年電視劇\).md "wikilink")》、《[和遊記](../Page/和遊記.md "wikilink")》
-  - [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")
-    [週末連續劇](https://zh.wikipedia.org/wiki/OCN週末連續劇 "wikilink")：《[Black](../Page/Black_\(韓國電視劇\).md "wikilink")》、《[壞傢伙們：惡的都市](../Page/壞傢伙們：惡的都市.md "wikilink")》
-  - [MBC](../Page/文化廣播公司.md "wikilink")
-    [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：《[小偷傢伙，小偷大人](../Page/小偷傢伙，小偷大人.md "wikilink")》
-  - [MBC](../Page/文化廣播公司.md "wikilink")
-    [週末連續劇](../Page/MBC週末連續劇.md "wikilink")：《[擺飯桌的男人](../Page/擺飯桌的男人.md "wikilink")》
+  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") [週末連續劇](../Page/KBS週末連續劇.md "wikilink")：《[我的黃金光輝人生](../Page/我的黃金光輝人生.md "wikilink")》
+  - [tvN](../Page/TVN.md "wikilink") [週末連續劇](../Page/TvN週末連續劇.md "wikilink")：《[卞赫的愛情](../Page/卞赫的愛情.md "wikilink")》、《[世上最美麗的離別](../Page/世上最美麗的離別_\(2017年電視劇\).md "wikilink")》、《[和遊記](../Page/和遊記.md "wikilink")》
+  - [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") [週末連續劇](https://zh.wikipedia.org/wiki/OCN週末連續劇 "wikilink")：《[Black](../Page/Black_\(韓國電視劇\).md "wikilink")》、《[壞傢伙們：惡的都市](../Page/壞傢伙們：惡的都市.md "wikilink")》
+  - [MBC](../Page/文化廣播公司.md "wikilink") [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：《[小偷傢伙，小偷大人](../Page/小偷傢伙，小偷大人.md "wikilink")》
+  - [MBC](../Page/文化廣播公司.md "wikilink") [週末連續劇](../Page/MBC週末連續劇.md "wikilink")：《[擺飯桌的男人](../Page/擺飯桌的男人.md "wikilink")》
     \- 截至2017年11月4日
 
 **週日時段劇集**
 
-  - [MBC](../Page/文化廣播公司.md "wikilink")
-    [週末連續劇](../Page/MBC週末連續劇.md "wikilink")：《[擺飯桌的男人](../Page/擺飯桌的男人.md "wikilink")》
+  - [MBC](../Page/文化廣播公司.md "wikilink") [週末連續劇](../Page/MBC週末連續劇.md "wikilink")：《[擺飯桌的男人](../Page/擺飯桌的男人.md "wikilink")》
     \- 始於2017年11月12日
 
 ## 記事
 
-  - [顯祐與](../Page/顯祐.md "wikilink")[鄭智友編劇繼](../Page/鄭智友.md "wikilink")《[醜八怪警報](../Page/醜八怪警報.md "wikilink")》後時隔4年後再次合作。
+  - [顯祐](../Page/顯祐.md "wikilink")與[鄭智友](../Page/鄭智友.md "wikilink")編劇繼《[醜八怪警報](../Page/醜八怪警報.md "wikilink")》後時隔4年後再次合作。
 
 ## 參考資料
 
@@ -615,16 +607,11 @@ Life**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[S
 ## 外部連結
 
   - [韓國SBS官方網站](http://programs.sbs.co.kr/drama/bravomylife)
-  - [Bravo My
-    Life-NAVER](https://m.search.naver.com/search.naver?sm=mtb_sug.top&where=m&query=%EB%B8%8C%EB%9D%BC%EB%B3%B4+%EB%A7%88%EC%9D%B4+%EB%9D%BC%EC%9D%B4%ED%94%84&oquery=%EB%82%98%EC%81%9C+%EB%85%80%EC%84%9D%EB%93%A4+%3A+%EC%95%85%EC%9D%98+%EB%8F%84%EC%8B%9C&tqi=TEn2IlpVuqossbUkErZssssssnZ-271182&qdt=0&acq=%EB%B8%8C%EB%9D%BC%EB%B3%B4+%EB%A7%88%EC%9D%B4+%EB%9D%BC%EC%9D%B4%ED%94%84&acr=1)
+  - [Bravo My Life-NAVER](https://m.search.naver.com/search.naver?sm=mtb_sug.top&where=m&query=%EB%B8%8C%EB%9D%BC%EB%B3%B4+%EB%A7%88%EC%9D%B4+%EB%9D%BC%EC%9D%B4%ED%94%84&oquery=%EB%82%98%EC%81%9C+%EB%85%80%EC%84%9D%EB%93%A4+%3A+%EC%95%85%EC%9D%98+%EB%8F%84%EC%8B%9C&tqi=TEn2IlpVuqossbUkErZssssssnZ-271182&qdt=0&acq=%EB%B8%8C%EB%9D%BC%EB%B3%B4+%EB%A7%88%EC%9D%B4+%EB%9D%BC%EC%9D%B4%ED%94%84&acr=1)
   - [香港有線電視官方網站](http://epg.i-cable.com/ci/program/intro/551/美好人生)
   - [八大戲劇台官方網站](https://www.gtv.com.tw/Program/P2019031902/index.html)
 
-[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink")
-[Category:電視台背景作品](https://zh.wikipedia.org/wiki/Category:電視台背景作品 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
-[Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
+[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink") [Category:電視台背景作品](https://zh.wikipedia.org/wiki/Category:電視台背景作品 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink") [Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
 
 1.
 2.

@@ -1,17 +1,10 @@
-《**The
-Call**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")、[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2018年5月4日推出的音樂綜藝節目，由
-[李尚敏](../Page/李尚敏.md "wikilink")、[俞世潤主持](../Page/俞世潤.md "wikilink")，[輝晟](https://zh.wikipedia.org/wiki/輝晟 "wikilink")、[金範洙](../Page/金範洙.md "wikilink")、[金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")、[申昇勳等出演](../Page/申昇勳.md "wikilink")。出演者向希望合作的對方，發送Love
-call邀請的節目，在交錯的Love
-call之中，經過激烈競爭成功組隊的人，可以正式開始製作新歌。節目由《[看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》節目組製作，接檔《看見你的聲音5》。\[1\]\[2\]
+《**The Call**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")、[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2018年5月4日推出的音樂綜藝節目，由 [李尚敏](../Page/李尚敏.md "wikilink")、[俞世潤](../Page/俞世潤.md "wikilink")主持，[輝晟](https://zh.wikipedia.org/wiki/輝晟 "wikilink")、[金範洙](../Page/金範洙.md "wikilink")、[金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")、[申昇勳](../Page/申昇勳.md "wikilink")等出演。出演者向希望合作的對方，發送Love call邀請的節目，在交錯的Love call之中，經過激烈競爭成功組隊的人，可以正式開始製作新歌。節目由《[看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》節目組製作，接檔《看見你的聲音5》。\[1\]\[2\]
 
 ## 節目形式
 
   - 《看見你的聲音》製作組準備的《The Call》是音樂人合作節目，描寫各種世代和風格的藝人們組成搭檔並完成音樂的過程。
-  - 曾製作《Show Me The Money》、《看見你的聲音》的李善英CP表示：「《看見你的聲音》是普通出演者實現夢想的舞台，《The
-    Call》目標則是藝人完成合作。歌手們用音樂愉快進行交流，像《看見你的聲音》同時呈現樂趣和感動，抓住出演者與觀眾們的心。」
-  - 第一輪出演者，[申昇勳](../Page/申昇勳.md "wikilink")、[金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")、[金範洙](../Page/金範洙.md "wikilink")
-    、
-    [輝晟](https://zh.wikipedia.org/wiki/輝晟 "wikilink")，分別為四組隊伍，每一輪競爭邀請不同出演者合作。\[3\]
+  - 曾製作《Show Me The Money》、《看見你的聲音》的李善英CP表示：「《看見你的聲音》是普通出演者實現夢想的舞台，《The Call》目標則是藝人完成合作。歌手們用音樂愉快進行交流，像《看見你的聲音》同時呈現樂趣和感動，抓住出演者與觀眾們的心。」
+  - 第一輪出演者，[申昇勳](../Page/申昇勳.md "wikilink")、[金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")、[金範洙](../Page/金範洙.md "wikilink") 、 [輝晟](https://zh.wikipedia.org/wiki/輝晟 "wikilink")，分別為四組隊伍，每一輪競爭邀請不同出演者合作。\[3\]
   - 現場觀眾投票選出「Best Couple 」。
   - 製作的新歌會於節目第二日發佈音源，《The Call Project 1 - 5》。
 
@@ -268,49 +261,49 @@ To Be Continued</p></td>
 
 ## 收視率
 
-**第一季**
+### 第一季
 
 | 总集数         | 集数           | 播出日期        | Mnet          | tvN |
 | ----------- | ------------ | ----------- | ------------- | --- |
 | AGB收视率\[7\] | TNmS收视率\[8\] | AGB收视率\[9\] | TNmS收视率\[10\] |     |
 | 1           | 1            | 2018/05/04  | %             | %   |
-|             |              |             |               |     |
 | 2           | 2            | 2018/05/11  | 0.59%         | %   |
-|             |              |             |               |     |
 | 3           | 3            | 2018/05/18  | %             | %   |
-|             |              |             |               |     |
 | 4           | 4            | 2018/05/25  | 0.642%        | %   |
-|             |              |             |               |     |
 |             | 2018/06/01   | **回顧特輯**    |               |     |
 | 5           | 5            | 2018/06/08  | %             | %   |
-|             |              |             |               |     |
 | 6           | 6            | 2018/06/15  | 0.566%        | %   |
-|             |              |             |               |     |
 | 7           | 7            | 2018/06/22  | %             | %   |
-|             |              |             |               |     |
 | 8           | 8            | 2018/06/29  | %             | %   |
 |             | 2018/07/06   | **回顧特輯**    |               |     |
 |             |              |             |               |     |
+
+### 第二季
+
+| 总集数          | 集数            | 播出日期         | Mnet | tvN |
+| ------------ | ------------- | ------------ | ---- | --- |
+| AGB收视率\[11\] | TNmS收视率\[12\] | AGB收视率\[13\] |      |     |
+| 全國           | 全國            | 全國           | 首都圈  |     |
+| 9            | 1             | 2019/07/05   | 0.4% | %   |
+| 10           | 2             | 2019/07/12   | 0.3% | %   |
+| 11           | 3             | 2019/07/19   | %    | %   |
+| 12           | 4             | 2019/07/26   | %    | %   |
+| 13           | 5             | 2019/08/02   | %    | %   |
+|              |               |              |      |     |
 
 ## 参考資料
 
 ## 外部連接
 
   - [The Call - MNET 網站](http://onair.mnet.com/thecall)
-  - [The Call - TVING
-    網站](http://www.tving.com/smr/vod/player/P/C01_B120188427)
-  - [The Call -
-    DAUM](https://web.archive.org/web/20180416134910/http://movie.daum.net/tv/main?tvProgramId=82492)
+  - [The Call - TVING 網站](http://www.tving.com/smr/vod/player/P/C01_B120188427)
+  - [The Call - DAUM](https://web.archive.org/web/20180416134910/http://movie.daum.net/tv/main?tvProgramId=82492)
   - [The Call - NAVER](https://tv.naver.com/cjenm.TheCall/playlists)
   - [The Call - Instagram](https://www.instagram.com/mnet_cuvoice)
-  - [The Call - Youtube
-    節目影音](https://www.youtube.com/playlist?list=PLIBmjIHzZF9mxTumIT9DZNrvHgAqSxBZ4)
-  - [The Call - Youtube
-    官方音源](https://www.youtube.com/playlist?list=PLcOf-jV0-p1g8kyMB_mQs-9RE2gP13O8g)
+  - [The Call - Youtube 節目影音](https://www.youtube.com/playlist?list=PLIBmjIHzZF9mxTumIT9DZNrvHgAqSxBZ4)
+  - [The Call - Youtube 官方音源](https://www.youtube.com/playlist?list=PLcOf-jV0-p1g8kyMB_mQs-9RE2gP13O8g)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
 1.
 
@@ -330,3 +323,7 @@ To Be Continued</p></td>
 9.
 
 10.
+
+11.
+12.
+13.

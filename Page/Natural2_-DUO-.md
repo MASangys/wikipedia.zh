@@ -1,7 +1,4 @@
-《**Natural2
--DUO-**》是由[FAIRYTALE於](../Page/FAIRYTALE.md "wikilink")2000年5月26日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，Natural系列的第二部作品。後來移植到[Game
-Boy Advance和](../Page/Game_Boy_Advance.md "wikilink")[PlayStation
-2平台](../Page/PlayStation_2.md "wikilink")\[1\]\[2\]，也改編成OVA和小說。
+《**Natural2 -DUO-**》是由[FAIRYTALE](../Page/FAIRYTALE.md "wikilink")於2000年5月26日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，Natural系列的第二部作品。後來移植到[Game Boy Advance和](../Page/Game_Boy_Advance.md "wikilink")[PlayStation 2平台](../Page/PlayStation_2.md "wikilink")\[1\]\[2\]，也改編成OVA和小說。
 
 ## 故事
 
@@ -38,8 +35,7 @@ Boy Advance和](../Page/Game_Boy_Advance.md "wikilink")[PlayStation
 
 ## OVA
 
-同名OVA是由[Arms製作的成人動畫](../Page/Arms.md "wikilink")，由GREEN
-BUNNY發售共四集，2012年10月19日發售合集共兩集。\[4\]
+同名OVA是由[Arms](../Page/Arms.md "wikilink")製作的成人動畫，由GREEN BUNNY發售共四集，2012年10月19日發售合集共兩集。\[4\]
 
   - 集數列表
 
@@ -71,8 +67,7 @@ BUNNY發售共四集，2012年10月19日發售合集共兩集。\[4\]
 ## 相關條目
 
   - [Natural Another One](../Page/Natural_Another_One.md "wikilink")
-  - [Natural Another One 2nd
-    -Belladonna-](../Page/Natural_Another_One_2nd_-Belladonna-.md "wikilink")
+  - [Natural Another One 2nd -Belladonna-](../Page/Natural_Another_One_2nd_-Belladonna-.md "wikilink")
 
 ## 參考來源
 
@@ -80,16 +75,7 @@ BUNNY發售共四集，2012年10月19日發售合集共兩集。\[4\]
 
   - [DVD版官方網站](http://www.dreamsoft.jp/n2dvd/)DreamSoft
 
-[Category:2000年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2000年日本成人遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Game_Boy_Advance遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance遊戲 "wikilink")
-[Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
-[Category:F\&C遊戲](https://zh.wikipedia.org/wiki/Category:F&C遊戲 "wikilink")
-[Category:Arms](https://zh.wikipedia.org/wiki/Category:Arms "wikilink")
-[Category:2001年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2001年日本成人動畫 "wikilink")
+[Category:2000年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2000年日本成人遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Game_Boy_Advance遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance遊戲 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:F\&C遊戲](https://zh.wikipedia.org/wiki/Category:F&C遊戲 "wikilink") [Category:Arms](https://zh.wikipedia.org/wiki/Category:Arms "wikilink") [Category:2001年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2001年日本成人動畫 "wikilink")
 
 1.
 2.

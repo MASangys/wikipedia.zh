@@ -152,9 +152,7 @@ function z.input( frame )
 `               end`
 `               if imgtitle and imgtitle.exists then`
 `                   table.insert( pretext, '`[`'_.._imgtitle.text_.._'`](https://zh.wikipedia.org/wiki/File:'_.._imgtitle.text_.._' "fig:'_.._imgtitle.text_.._'")`' )`
-`                   deletesuffix = '：`[`File:'``   ``..``
- ``imgtitle.text``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/File:'_.._imgtitle.text_.._' "fig:File:' .. imgtitle.text .. '")`'`
+`                   deletesuffix = '：`[`File:'``   ``..``   ``imgtitle.text``   ``..``   ``'`](https://zh.wikipedia.org/wiki/File:'_.._imgtitle.text_.._' "fig:File:' .. imgtitle.text .. '")`'`
 `               else`
 `                   if check then`
 `                       rowsuffix2 = '`
@@ -184,13 +182,9 @@ function z.input( frame )
 `           cat = args.cat or args.cate or args.category or ''`
 `           if title and title.exists then`
 `               if frame.args.deletelink then`
-`                   table.insert( deletelinks, '`[`CSK`](https://zh.wikipedia.org/wiki/WP:快速保留的标准 "wikilink")`: `[`:'``
- ``..``   ``arg``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/:'_.._arg_.._' "wikilink")`' )`
+`                   table.insert( deletelinks, '`[`CSK`](https://zh.wikipedia.org/wiki/WP:快速保留的标准 "wikilink")`: `[`:'``   ``..``   ``arg``   ``..``   ``'`](https://zh.wikipedia.org/wiki/:'_.._arg_.._' "wikilink")`' )`
 `               end`
-`               table.insert( rows, '* ' .. cat .. '`[`:'``   ``..``
- ``arg``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/:'_.._arg_.._' "wikilink")`' )`
+`               table.insert( rows, '* ' .. cat .. '`[`:'``   ``..``   ``arg``   ``..``   ``'`](https://zh.wikipedia.org/wiki/:'_.._arg_.._' "wikilink")`' )`
 `           else`
 `               if frame.args.deletelink then`
 `                   table.insert( deletelinks, arg )`
@@ -214,5 +208,4 @@ end
 
 return z
 
-[Category:快速保留候选](https://zh.wikipedia.org/wiki/Category:快速保留候选 "wikilink")
-[Category:快速保留候选](https://zh.wikipedia.org/wiki/Category:快速保留候选 "wikilink")
+[Category:快速保留候选](https://zh.wikipedia.org/wiki/Category:快速保留候选 "wikilink") [Category:快速保留候选](https://zh.wikipedia.org/wiki/Category:快速保留候选 "wikilink")

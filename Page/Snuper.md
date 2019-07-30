@@ -1,10 +1,6 @@
-**Snuper**（），為[韓國演員](https://zh.wikipedia.org/wiki/韓國 "wikilink")[洪宗玄](../Page/洪宗玄.md "wikilink")、[李己雨所屬的WID](../Page/李己雨.md "wikilink")
-MAY娛樂首次推出的六人新男團，於2015年11月16日發表迷你專輯《Shall We 쉘 위》以《Shall We
-Dance》一曲正式出道，由泰雄、秀賢、相逸、優盛、相鎬、世賓，六名成員組成，平均身高180公分，強調像鄰家哥哥弟弟一樣，以「Boys
-Next Door親切的男朋友」為概念的偶像團體。
+**Snuper**（），為[韓國演員](https://zh.wikipedia.org/wiki/韓國 "wikilink")[洪宗玄](../Page/洪宗玄.md "wikilink")、[李己雨](../Page/李己雨.md "wikilink")所屬的WID MAY娛樂首次推出的六人新男團，於2015年11月16日發表迷你專輯《Shall We 쉘 위》以《Shall We Dance》一曲正式出道，由泰雄、秀賢、相逸、優盛、相鎬、世賓，六名成員組成，平均身高180公分，強調像鄰家哥哥弟弟一樣，以「Boys Next Door親切的男朋友」為概念的偶像團體。
 
-Snuper團體名稱是表示，「Snuper要比Super更出色更優秀的意思」，各有各自的個性與實力，團結在一起建立成最好的團體。在未出道前曾為電視劇《[Hyde
-Jekyll，我](https://zh.wikipedia.org/wiki/Hyde_Jekyll，我 "wikilink")》演唱插曲。
+Snuper團體名稱是表示，「Snuper要比Super更出色更優秀的意思」，各有各自的個性與實力，團結在一起建立成最好的團體。在未出道前曾為電視劇《[Hyde Jekyll，我](https://zh.wikipedia.org/wiki/Hyde_Jekyll，我 "wikilink")》演唱插曲。
 
 ## 成員列表
 
@@ -645,11 +641,7 @@ Jekyll，我](https://zh.wikipedia.org/wiki/Hyde_Jekyll，我 "wikilink")》演�
 
   -
   -
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
+[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 
 1.
 2.

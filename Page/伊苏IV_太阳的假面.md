@@ -1,27 +1,18 @@
-是日本Falcom公司[動作角色扮演遊戲系列](../Page/動作角色扮演遊戲.md "wikilink")[伊蘇第四代作品之一](../Page/伊蘇.md "wikilink")，由[Tonkin
-House開發並於](https://zh.wikipedia.org/wiki/Tonkin_House "wikilink")1993年11月在[超級任天堂發行](../Page/超級任天堂.md "wikilink")。Falcom初步設計劇情後，將之交給[Tonkin
-House和](https://zh.wikipedia.org/wiki/Tonkin_House "wikilink")[Hudson
-Soft兩家公司分別製作](../Page/Hudson_Soft.md "wikilink")，後者的版本為[PC
-Engine上的](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")《[伊蘇IV
-伊蘇的黎明](https://zh.wikipedia.org/wiki/伊蘇4_伊蘇的黎明 "wikilink")》，於一個多月後發行；兩款遊戲情節總體接近，但有一些差異。
+是日本Falcom公司[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")系列[伊蘇](../Page/伊蘇.md "wikilink")第四代作品之一，由[Tonkin House開發並於](https://zh.wikipedia.org/wiki/Tonkin_House "wikilink")1993年11月在[超級任天堂](../Page/超級任天堂.md "wikilink")發行。Falcom初步設計劇情後，將之交給[Tonkin House和](https://zh.wikipedia.org/wiki/Tonkin_House "wikilink")[Hudson Soft兩家公司分別製作](../Page/Hudson_Soft.md "wikilink")，後者的版本為[PC Engine上的](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")《[伊蘇IV 伊蘇的黎明](https://zh.wikipedia.org/wiki/伊蘇4_伊蘇的黎明 "wikilink")》，於一個多月後發行；兩款遊戲情節總體接近，但有一些差異。
 
 《太阳的假面》的情節設定於《[伊蘇II](https://zh.wikipedia.org/wiki/伊蘇II "wikilink")》結尾後，主人公亞特魯從海邊撿到了請求解救塞爾塞塔的漂流瓶後，前往塞爾塞塔冒險的故事。遊戲更深入地解釋了系列前兩作的世界觀。在玩法上，遊戲從《[伊蘇III](https://zh.wikipedia.org/wiki/伊蘇III "wikilink")》的橫向卷軸畫面回歸前兩作的俯視地圖，但也沿用了《伊蘇III》新增的戒指系統設定。
 
-[太東在](../Page/太東.md "wikilink")2005年推出PlayStation
-2重製版，採用了新系統並重新編排了情節。Falcom在2012年推出了自己制作的新作《[伊苏
-塞尔塞塔的树海](https://zh.wikipedia.org/wiki/伊苏_塞尔塞塔的树海 "wikilink")》。
+[太東](../Page/太東.md "wikilink")在2005年推出PlayStation 2重製版，採用了新系統並重新編排了情節。Falcom在2012年推出了自己制作的新作《[伊苏 塞尔塞塔的树海](https://zh.wikipedia.org/wiki/伊苏_塞尔塞塔的树海 "wikilink")》。
 
 ## 玩法
 
-在经过《[伊苏III](../Page/来自伊苏的冒险者.md "wikilink")》的横向卷轴视角与手动挥剑后，《伊苏IV
-太阳的假面》重新回归《[伊苏](../Page/伊苏_失落的伊苏古国_序章.md "wikilink")》与《[伊苏II](../Page/伊苏II_失落的伊苏古国_终章.md "wikilink")》的俯视地图与碰撞攻击系统。本作的系统和前两作大致相同，但沿用了《伊苏II》的魔法系统和《伊苏III》的戒指系统。此外本作还加入了中毒状态，中毒后主人公亚特鲁的[体力值会在移动时扣减](../Page/生命值.md "wikilink")。
+在经过《[伊苏III](../Page/来自伊苏的冒险者.md "wikilink")》的横向卷轴视角与手动挥剑后，《伊苏IV 太阳的假面》重新回归《[伊苏](../Page/伊苏_失落的伊苏古国_序章.md "wikilink")》与《[伊苏II](../Page/伊苏II_失落的伊苏古国_终章.md "wikilink")》的俯视地图与碰撞攻击系统。本作的系统和前两作大致相同，但沿用了《伊苏II》的魔法系统和《伊苏III》的戒指系统。此外本作还加入了中毒状态，中毒后主人公亚特鲁的[体力值会在移动时扣减](../Page/生命值.md "wikilink")。
 
 ## 情节
 
 ### 背景
 
-《伊苏IV
-太阳的假面》的情节主要发生在塞尔塞塔地区，游戏和《伊苏》与《伊苏II》采用相通的设定。塞尔塞塔最初的统治者是拥有强大力量的翼人，他们在这里建立了“古代文明”。后来生活在这里的人类曾和翼人和平生活了一段时期。然而人类发现翼人的目的是征服世界后，二者便爆发了漫长的战争，最终英雄雷方斯和手下的五忠臣领导人类取得了胜利。翼人留下操控文明的三个宝珠与三个面具后，将文明封印到了地下。雷方斯让幸存的翼人住在圣域，并派人类照顾他们。
+《伊苏IV 太阳的假面》的情节主要发生在塞尔塞塔地区，游戏和《伊苏》与《伊苏II》采用相通的设定。塞尔塞塔最初的统治者是拥有强大力量的翼人，他们在这里建立了“古代文明”。后来生活在这里的人类曾和翼人和平生活了一段时期。然而人类发现翼人的目的是征服世界后，二者便爆发了漫长的战争，最终英雄雷方斯和手下的五忠臣领导人类取得了胜利。翼人留下操控文明的三个宝珠与三个面具后，将文明封印到了地下。雷方斯让幸存的翼人住在圣域，并派人类照顾他们。
 
 游戏情节开始接于《伊苏》和《伊苏II》之后。在《伊苏》中，亚特鲁为消灭艾斯塔里亚岛的魔物，集齐了古代六神官封印了魔力伊苏古书，并被古书传送到空中的伊苏国。在《伊苏II》中，亚特鲁营救出了医生弗雷亚，并帮少女莉莉娅找到治疗绝症所需的珍贵药物。在游戏的最后，亚特鲁帮双子女神消灭了魔法与魔物的源头黑珍珠，伊苏国也因为魔法消失落回了地面。
 
@@ -47,12 +38,6 @@ Hardcore Gaming 101称，游戏质量本身尚可，但完全被笼罩在PC Engi
 
   - [伊苏大全集中的游戏介绍](http://www.falcom.com/ys6/complete/ys4.html)
 
-[Category:伊苏系列](https://zh.wikipedia.org/wiki/Category:伊苏系列 "wikilink")
-[Category:1993年电子游戏](https://zh.wikipedia.org/wiki/Category:1993年电子游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:太東遊戲](https://zh.wikipedia.org/wiki/Category:太東遊戲 "wikilink")
-[Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink")
-[Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink")
-[Category:Tonkin_House游戏](https://zh.wikipedia.org/wiki/Category:Tonkin_House游戏 "wikilink")
+[Category:伊苏系列](https://zh.wikipedia.org/wiki/Category:伊苏系列 "wikilink") [Category:1993年电子游戏](https://zh.wikipedia.org/wiki/Category:1993年电子游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:太東遊戲](https://zh.wikipedia.org/wiki/Category:太東遊戲 "wikilink") [Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink") [Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink") [Category:Tonkin_House游戏](https://zh.wikipedia.org/wiki/Category:Tonkin_House游戏 "wikilink")
 
 1.  <http://www.hardcoregaming101.net/ys/ys6.htm>

@@ -1,12 +1,10 @@
-**純矢
-ちとせ**，日本女演員，[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")[宙組娘役](../Page/宙組.md "wikilink")。
-出生於[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")，曾就讀於東洋英和女學院高中部\[1\]。身高164公分\[2\]。暱稱為「**せーこ**」\[3\]。
+**純矢 ちとせ**，日本女演員，[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")[宙組](../Page/宙組.md "wikilink")娘役。 出生於[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")，曾就讀於東洋英和女學院高中部\[1\]。身高164公分\[2\]。暱稱為「**せーこ**」\[3\]。
 
 ## 簡介
 
   - 2001年4月，進入[寶塚音樂學校](../Page/寶塚音樂學校.md "wikilink")。
   - 2003年3月，以第五名的成績\[4\]進入[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")，為該團第89期生。初舞台為月組公演「花の宝塚風土記／シニョール・ドン・ファン」，隨後配屬至[雪組](../Page/雪組_\(寶塚歌劇團\).md "wikilink")。
-      - 同期生包括[花組主演男役](https://zh.wikipedia.org/wiki/花組_\(寶塚歌劇團\) "wikilink")[明日海里奥](../Page/明日海里奥.md "wikilink")、[雪組主演男役](../Page/雪組_\(寶塚歌劇團\).md "wikilink")[望海風斗](../Page/望海風斗.md "wikilink")、前[星組主演娘役](../Page/星組.md "wikilink")[夢咲ねね](https://zh.wikipedia.org/wiki/夢咲ねね "wikilink")。
+      - 同期生包括[花組主演男役](https://zh.wikipedia.org/wiki/花組_\(寶塚歌劇團\) "wikilink")[明日海里奥](../Page/明日海里奥.md "wikilink")、[雪組主演男役](../Page/雪組_\(寶塚歌劇團\).md "wikilink")[望海風斗](../Page/望海風斗.md "wikilink")、前[星組](../Page/星組.md "wikilink")主演娘役[夢咲ねね](https://zh.wikipedia.org/wiki/夢咲ねね "wikilink")。
       - 入團時為男役。
   - 2005年12月3日，從男役轉向娘役。
   - 2006年，在「やらずの雨」演出中初次擔任BOW Hall的女主角。
@@ -14,13 +12,13 @@
   - 2013年7月至2015年7月間，與七海ひろき一同擔任Sky Stage第5期的播報員(スカイ・レポーターズ)\[5\]。
       - 同年，在「[亂世佳人](../Page/乱世佳人.md "wikilink")(風と共に去りぬ)」演出中，與[伶美うらら輪流飾演](https://zh.wikipedia.org/wiki/伶美うらら "wikilink")[郝思嘉](https://zh.wikipedia.org/wiki/郝思嘉 "wikilink")Ⅱ一角。
   - 2016年，在「」中，獲頒2016年度助演賞。
+  - 2019年7月21日，於宙組大劇場公演『Ocean 11 』東京千秋樂後退團
 
 ## 寶塚歌劇團時期的主要作品
 
 ### 組配屬以前
 
-  - 『花の宝塚風土記（ふどき）－春の踊り－／シニョール
-    ドン・ファン』（月組）（2003年4月～5月、[寶塚大劇場](../Page/寶塚大劇場.md "wikilink")）
+  - 『花の宝塚風土記（ふどき）－春の踊り－／シニョール ドン・ファン』（月組）（2003年4月～5月、[寶塚大劇場](../Page/寶塚大劇場.md "wikilink")）
 
 ### 雪組男役時期
 
@@ -36,48 +34,37 @@
   - 2006年8月、『雪組 エンカレッジコンサート』（BOW Hall）
   - 2006年9月、『堕天使の涙／タランテラ\!』 新人公演：飾演 アデーラ（本役：天勢いづる）
   - 2007年2月、『星影の人／Joyfull\!\!Ⅱ』（中日劇場）飾演 安紀
-  - 2007年5月、『[伊莉莎白－愛與死的輪舞－](../Page/伊麗莎白_\(音樂劇\).md "wikilink")』飾演
-    女官、新人公演：Madam Wolf（本役：晴華みどり）
+  - 2007年5月、『[伊莉莎白－愛與死的輪舞－](../Page/伊麗莎白_\(音樂劇\).md "wikilink")』飾演 女官、新人公演：Madam Wolf（本役：晴華みどり）
   - 2007年9月、『星影の人／Joyfull\!\!Ⅱ』（全國巡演）飾演 安紀
   - 2008年1月、『君を愛してる－Je t' aime－／ミロワール』飾演 ムゼッタ、新人公演：セリメーヌ（本役：大月さゆ）
 
 ### 宙組娘役時期
 
   - 2008年6月、『殉情』（BOW Hall）飾演：お蘭
-  - 2008年9月、『Paradise
-    Prince／ダンシング・フォー・ユー』飾演：アン、新人公演：ローズマリー・メンフィールド（本役：美穂圭子）
-  - 2009年2月、『[逆轉裁判](../Page/逆转裁判系列.md "wikilink") -甦醒的真實-』（BOW
-    Hall・東京特別）飾演：モニカ・クライド\[6\]
+  - 2008年9月、『Paradise Prince／ダンシング・フォー・ユー』飾演：アン、新人公演：ローズマリー・メンフィールド（本役：美穂圭子）
+  - 2009年2月、『[逆轉裁判](../Page/逆转裁判系列.md "wikilink") -甦醒的真實-』（BOW Hall・東京特別）飾演：モニカ・クライド\[6\]
   - 2009年4月、『落在薔薇上的雨／Amour それは…』新人公演：飾演 ヘレン（本役：美羽あさひ）
   - 2009年8月～9月、『逆転裁判2－蘇る真実、再び…－』（BOW Hall・赤坂ACT劇場）飾演：ルーチェ・アレイア **＊女主角**
-  - 2009年11月、『[卡薩布蘭卡](../Page/北非谍影.md "wikilink")』飾演
-    イヴォンヌ、新人公演：コリーナ・ムラ（本役：鈴奈沙也）
+  - 2009年11月、『[卡薩布蘭卡](../Page/北非谍影.md "wikilink")』飾演 イヴォンヌ、新人公演：コリーナ・ムラ（本役：鈴奈沙也）
   - 2010年3月、『香格里拉 ー水之城ー』（梅田藝術・東京特別）飾演：霧（フォグ）
-  - 2010年5月、『TRAFALGAR
-    －[納爾遜](../Page/第一代纳尔逊子爵霍雷肖·纳尔逊.md "wikilink")、他的愛與奇蹟－／Funky
-    Sunshine』飾演：ジュゼッピーナ
+  - 2010年5月、『TRAFALGAR －[納爾遜](../Page/第一代纳尔逊子爵霍雷肖·纳尔逊.md "wikilink")、他的愛與奇蹟－／Funky Sunshine』飾演：ジュゼッピーナ
   - 2010年9月、蘭寿とむ演唱會『“R”ising』（BOWHall・東京特別）
   - 2010年11月～2011年1月、『[喪鐘為誰而鳴](../Page/戰地鐘聲.md "wikilink")』飾演：ローサ **＊初エトワール**
   - 2011年3月、『ヴァレンチノ』（梅田藝術）飾演：アラ・ナジモヴァ
-  - 2011年5月～8月、『美麗生涯－[石田三成](../Page/石田三成.md "wikilink") 、永遠的愛與義－／Luna
-    Rossa－迷途的夜旅人－』飾演：さぎり
+  - 2011年5月～8月、『美麗生涯－[石田三成](../Page/石田三成.md "wikilink") 、永遠的愛與義－／Luna Rossa－迷途的夜旅人－』飾演：さぎり
   - 2011年8月、『ヴァレンチノ』（日本青年館）飾演：アラ・ナジモヴァ
-  - 2011年10月～12月、『Classico Italiano－最好的男裝style－／NICE GUY\!\!－那個男人、Y的法則
-    －』飾演：パメラ・ミッソーニ
+  - 2011年10月～12月、『Classico Italiano－最好的男裝style－／NICE GUY\!\!－那個男人、Y的法則 －』飾演：パメラ・ミッソーニ
   - 2012年2月、『假面羅曼史／Apasionado\!\!Ⅱ』（中日劇場）飾演：ヴィクトワール **＊エトワール**
   - 2012年4月～7月、『繁華過往／Climax－Cry-Max－』飾演：アンナ・ヘルド
   - 2012年8月～11月、『[銀河英雄傳説](../Page/銀河英雄傳說.md "wikilink")@TAKARAZUKA』飾演：ジェシカ
   - 2013年1月、『銀河英雄傳説@TAKARAZUKA』（博多座）飾演：ジェシカ
-  - 2013年3月～6月、『[基督山伯爵](../Page/基度山恩仇記.md "wikilink")／Amour de
-    99\!\!－99年的愛－』飾演：エロイーズ
+  - 2013年3月～6月、『[基督山伯爵](../Page/基度山恩仇記.md "wikilink")／Amour de 99\!\!－99年的愛－』飾演：エロイーズ
   - 2013年7月～8月、『泡沫之戀／Amour de 99\!\!－99年的愛－』（全國巡演）飾演：マリンカ
   - 2013年9月～12月、『[亂世佳人](../Page/乱世佳人.md "wikilink")』飾演：スカーレットⅡ、メイベル（與伶美うららと輪流飾演）
   - 2014年2月～3月、『翼ある人びと－[布拉姆斯與](https://zh.wikipedia.org/wiki/布拉姆斯 "wikilink")[克拉拉・舒曼](../Page/克拉拉·舒曼.md "wikilink")－』（梅田藝術、日本青年館）飾演：イーダ・フォン・ホーエンタール
   - 2014年5月～7月、『凡爾賽玫瑰－奧斯卡編－』飾演 オルタンス
-  - 2014年9月、『SANCTUARY』（BOW
-    Hall）飾演：[凱薩琳・德・麥地奇](../Page/凯瑟琳·德·美第奇.md "wikilink")
-  - 2014年11月～2015年2月、『白夜的誓約 -古斯塔夫三世、至高王者之戰-／PHOENIX 寶塚\!\!
-    ―甦醒的愛―』飾演：[葉卡捷琳娜・阿列克謝耶芙娜](../Page/叶卡捷琳娜二世.md "wikilink")
+  - 2014年9月、『SANCTUARY』（BOW Hall）飾演：[凱薩琳・德・麥地奇](../Page/凯瑟琳·德·美第奇.md "wikilink")
+  - 2014年11月～2015年2月、『白夜的誓約 -古斯塔夫三世、至高王者之戰-／PHOENIX 寶塚\!\! ―甦醒的愛―』飾演：[葉卡捷琳娜・阿列克謝耶芙娜](../Page/叶卡捷琳娜二世.md "wikilink")
   - 2015年3月～4月、『TOP HAT』（梅田藝術・赤坂ACT劇場）飾演：ショーガール（1幕）、マッジ・ハードウィック（2幕）
   - 2015年6月～8月、『獻給王家的歌』飾演：女官ワーヘド **＊エトワール**
   - 2015年10月、『繼承人的的肖像』（BOW Hall）飾演：ヴァネッサ
@@ -100,11 +87,7 @@
   - [寶塚歌劇團 宙組](http://kageki.hankyu.co.jp/star/cosmos.html)
       - [官方資料](http://kageki.hankyu.co.jp/star/junya_chitose.html)
 
-[Category:寶塚歌劇團](https://zh.wikipedia.org/wiki/Category:寶塚歌劇團 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:日本女演員](https://zh.wikipedia.org/wiki/Category:日本女演員 "wikilink")
-[Category:日本音樂劇演員](https://zh.wikipedia.org/wiki/Category:日本音樂劇演員 "wikilink")
-[Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
+[Category:寶塚歌劇團](https://zh.wikipedia.org/wiki/Category:寶塚歌劇團 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:日本女演員](https://zh.wikipedia.org/wiki/Category:日本女演員 "wikilink") [Category:日本音樂劇演員](https://zh.wikipedia.org/wiki/Category:日本音樂劇演員 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
 
 1.
 2.  『宝塚おとめ 2017年度版』 宝塚クリエイティブアーツ、2017年、128頁。ISBN 978-4-86649-004-5。

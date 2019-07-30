@@ -1,10 +1,8 @@
-《**小桃小栗 Love
-Love物语**》（）是由創作並在漫画网站[comico上连载的](https://zh.wikipedia.org/wiki/comico "wikilink")[網路漫画](https://zh.wikipedia.org/wiki/網路漫画 "wikilink")，[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")8卷。2015年改編為[網路動畫與其他衍生作品](https://zh.wikipedia.org/wiki/網路動畫 "wikilink")。
+《**小桃小栗 Love Love物语**》（）是由創作並在漫画网站[comico上连载的](https://zh.wikipedia.org/wiki/comico "wikilink")[網路漫画](https://zh.wikipedia.org/wiki/網路漫画 "wikilink")，[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")8卷。2015年改編為[網路動畫與其他衍生作品](https://zh.wikipedia.org/wiki/網路動畫 "wikilink")。
 
 ## 故事內容
 
-描述了高中二年級的栗原雪對後輩桃月心也一見鍾情，下定了從遠處偷拍他的身影了達 100
-張的相片就要告白的決心，兩人於是成為了戀人開始交往。雖然有些緩慢，但專心一意朝彼此前進的小桃小栗戀愛物語。
+描述了高中二年級的栗原雪對後輩桃月心也一見鍾情，下定了從遠處偷拍他的身影了達 100 張的相片就要告白的決心，兩人於是成為了戀人開始交往。雖然有些緩慢，但專心一意朝彼此前進的小桃小栗戀愛物語。
 
 ## 登場角色
 
@@ -55,8 +53,7 @@ Love物语**》（）是由創作並在漫画网站[comico上连载的](https://
 
 ## 单行本
 
-由[EARTH STAR
-Entertainment发行](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wikilink")。
+由[EARTH STAR Entertainment发行](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wikilink")。
 
 | 卷数 | 发售日期            | ISBN                   |
 | -- | --------------- | ---------------------- |
@@ -95,8 +92,7 @@ Entertainment发行](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wik
   - 电视动画片头曲「」
     作詞、作曲、编曲：[前山田健一](../Page/前山田健一.md "wikilink")，主唱：栗原雪（加隈亞衣）、桃月心也（[岡本信彦](https://zh.wikipedia.org/wiki/岡本信彦 "wikilink")）
   - 电视动画片尾曲「」
-    作詞：[結城愛良](../Page/結城愛良.md "wikilink")，作曲、编曲：Kon-K，主唱：[Mia
-    REGINA](../Page/Mia_REGINA.md "wikilink")
+    作詞：[結城愛良](../Page/結城愛良.md "wikilink")，作曲、编曲：Kon-K，主唱：[Mia REGINA](../Page/Mia_REGINA.md "wikilink")
 
 ### 各話列表
 
@@ -354,22 +350,12 @@ Entertainment发行](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wik
 
 ## 外部链接
 
-  - [《小桃小栗 Love Love
-    物語》COMICO漫畫官方網站](http://www.comico.jp/articleList.nhn?titleNo=311)
+  - [《小桃小栗 Love Love 物語》COMICO漫畫官方網站](http://www.comico.jp/articleList.nhn?titleNo=311)
   - [《小桃小栗 Love Love 物語》動畫官方網站](http://momokuri-anime.jp)
-  - [《小桃小栗 Love Love
-    物語》COMICO漫畫官方網站](http://www.comico.com.tw/articleList.nhn?titleNo=12)
-  - [《小桃小栗 Love Love
-    物語》COMICO漫畫官方網站](https://web.archive.org/web/20160911085450/http://www.cncomico.com/articleList.nhn?titleNo=3)
+  - [《小桃小栗 Love Love 物語》COMICO漫畫官方網站](http://www.comico.com.tw/articleList.nhn?titleNo=12)
+  - [《小桃小栗 Love Love 物語》COMICO漫畫官方網站](https://web.archive.org/web/20160911085450/http://www.cncomico.com/articleList.nhn?titleNo=3)
 
-[Category:日本網絡漫畫](https://zh.wikipedia.org/wiki/Category:日本網絡漫畫 "wikilink")
-[Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink")
-[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink")
-[Category:2015年日本網絡動畫](https://zh.wikipedia.org/wiki/Category:2015年日本網絡動畫 "wikilink")
-[Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink")
-[Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
-[Category:Comico](https://zh.wikipedia.org/wiki/Category:Comico "wikilink")
+[Category:日本網絡漫畫](https://zh.wikipedia.org/wiki/Category:日本網絡漫畫 "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:2015年日本網絡動畫](https://zh.wikipedia.org/wiki/Category:2015年日本網絡動畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:Comico](https://zh.wikipedia.org/wiki/Category:Comico "wikilink")
 
 1.
 2.

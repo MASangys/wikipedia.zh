@@ -10,10 +10,7 @@ Ghostery能够阻断包括广告、成人广告、社交媒体、音频播放器
 
 ## 参考文献
 
-[Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink")
-[Category:Google_Chrome扩展](https://zh.wikipedia.org/wiki/Category:Google_Chrome扩展 "wikilink")
-[Category:Internet_Explorer加载项](https://zh.wikipedia.org/wiki/Category:Internet_Explorer加载项 "wikilink")
-[Category:Microsoft_Edge扩展](https://zh.wikipedia.org/wiki/Category:Microsoft_Edge扩展 "wikilink")
+[Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink") [Category:Google_Chrome扩展](https://zh.wikipedia.org/wiki/Category:Google_Chrome扩展 "wikilink") [Category:Internet_Explorer加载项](https://zh.wikipedia.org/wiki/Category:Internet_Explorer加载项 "wikilink") [Category:Microsoft_Edge扩展](https://zh.wikipedia.org/wiki/Category:Microsoft_Edge扩展 "wikilink")
 
 1.
 2.

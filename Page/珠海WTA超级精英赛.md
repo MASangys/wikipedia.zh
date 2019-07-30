@@ -1,6 +1,4 @@
-**珠海WTA超级精英赛**（WTA Elite Trophy
-Zhuhai）是[女子网球联合会于](https://zh.wikipedia.org/wiki/女子网球联合会 "wikilink")2014年底设立的一项赛事，与[中国网球公开赛和](https://zh.wikipedia.org/wiki/中国网球公开赛 "wikilink")[武汉网球公开赛并称为中国三大女子网球赛事之一](https://zh.wikipedia.org/wiki/武汉网球公开赛 "wikilink")。第一届比赛于2015年11月举行，赛事由[中国网球协会及](https://zh.wikipedia.org/wiki/中国网球协会 "wikilink")[珠海市人民政府联合主办](https://zh.wikipedia.org/wiki/珠海市人民政府 "wikilink")，并由[珠海国有企业](https://zh.wikipedia.org/wiki/珠海 "wikilink")[华发集团承办并具体执行运营](https://zh.wikipedia.org/wiki/华发集团 "wikilink")
-。赛事的运营期限为期5年，将一直持续至2019年为止。
+**珠海WTA超级精英赛**（WTA Elite Trophy Zhuhai）是[女子网球联合会于](https://zh.wikipedia.org/wiki/女子网球联合会 "wikilink")2014年底设立的一项赛事，与[中国网球公开赛和](https://zh.wikipedia.org/wiki/中国网球公开赛 "wikilink")[武汉网球公开赛并称为中国三大女子网球赛事之一](https://zh.wikipedia.org/wiki/武汉网球公开赛 "wikilink")。第一届比赛于2015年11月举行，赛事由[中国网球协会及](https://zh.wikipedia.org/wiki/中国网球协会 "wikilink")[珠海市人民政府联合主办](https://zh.wikipedia.org/wiki/珠海市人民政府 "wikilink")，并由[珠海国有企业](https://zh.wikipedia.org/wiki/珠海 "wikilink")[华发集团承办并具体执行运营](https://zh.wikipedia.org/wiki/华发集团 "wikilink") 。赛事的运营期限为期5年，将一直持续至2019年为止。
 
 珠海WTA超级精英赛的冠军积分为700分，2017年总奖金为228万美元。自2015年至2019年，每年的11月在珠海市[横琴新区的](https://zh.wikipedia.org/wiki/横琴新区 "wikilink")[横琴国际网球中心举办](https://zh.wikipedia.org/wiki/横琴国际网球中心 "wikilink")。\[1\]\[2\]。
 
@@ -35,7 +33,7 @@ Zhuhai）是[女子网球联合会于](https://zh.wikipedia.org/wiki/女子网�
 
 横琴国际网球中心占地14.8万平方米，目前已投入使用的一期工程包含一座可容纳5000名观众的中心球场，5片室外场地及12片室外训练场。而二期工程则计划修建为酒店、康复及理疗中心、培训中心及训练基地。
 
-网球中心概念方案由[澳大利亚POPULOUS公司设计](../Page/澳大利亚.md "wikilink")，以“升起的森林”作为景观设计概念，意在将整个网球中心打造为一个绿意盎然的公园，未来成为中国最“绿色”的网球中心。该设计团队曾参与设计[伦敦](../Page/伦敦.md "wikilink")[O2体育馆](../Page/O2.md "wikilink")、[悉尼奥运体育场](https://zh.wikipedia.org/wiki/悉尼奥运 "wikilink")、[索契冬奥会等大型体育赛事的体育场馆等](https://zh.wikipedia.org/wiki/索契冬奥会 "wikilink")\[4\]。
+网球中心概念方案由[澳大利亚](../Page/澳大利亚.md "wikilink")POPULOUS公司设计，以“升起的森林”作为景观设计概念，意在将整个网球中心打造为一个绿意盎然的公园，未来成为中国最“绿色”的网球中心。该设计团队曾参与设计[伦敦](../Page/伦敦.md "wikilink")[O2](../Page/O2.md "wikilink")体育馆、[悉尼奥运体育场](https://zh.wikipedia.org/wiki/悉尼奥运 "wikilink")、[索契冬奥会等大型体育赛事的体育场馆等](https://zh.wikipedia.org/wiki/索契冬奥会 "wikilink")\[4\]。
 
 ### 积分与奖金
 
@@ -237,14 +235,9 @@ Zhuhai）是[女子网球联合会于](https://zh.wikipedia.org/wiki/女子网�
   -
   -
   -
-  - [WTA Elite Trophy Zhuhai
-    Announcement](http://www.asapsports.com/show_conference.php?id=104079),
-    Transcript by ASAP Sports
+  - [WTA Elite Trophy Zhuhai Announcement](http://www.asapsports.com/show_conference.php?id=104079), Transcript by ASAP Sports
 
-[Category:WTA巡迴賽](https://zh.wikipedia.org/wiki/Category:WTA巡迴賽 "wikilink")
-[Category:中國網球賽事](https://zh.wikipedia.org/wiki/Category:中國網球賽事 "wikilink")
-[Category:2015年建立的週期性體育事件](https://zh.wikipedia.org/wiki/Category:2015年建立的週期性體育事件 "wikilink")
-[Category:珠海体育](https://zh.wikipedia.org/wiki/Category:珠海体育 "wikilink")
+[Category:WTA巡迴賽](https://zh.wikipedia.org/wiki/Category:WTA巡迴賽 "wikilink") [Category:中國網球賽事](https://zh.wikipedia.org/wiki/Category:中國網球賽事 "wikilink") [Category:2015年建立的週期性體育事件](https://zh.wikipedia.org/wiki/Category:2015年建立的週期性體育事件 "wikilink") [Category:珠海体育](https://zh.wikipedia.org/wiki/Category:珠海体育 "wikilink")
 
 1.
 2.

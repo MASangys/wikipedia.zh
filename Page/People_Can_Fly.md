@@ -1,9 +1,6 @@
-**People Can Fly**（有段时间名为**Epic Games Poland**），是一家由Adrian
-Chmielarz成立于2002年2月，总部设在波兰华沙的游戏开发商。该团队目前有20名成员（不包括外部承包商）。
+**People Can Fly**（有段时间名为**Epic Games Poland**），是一家由Adrian Chmielarz成立于2002年2月，总部设在波兰华沙的游戏开发商。该团队目前有20名成员（不包括外部承包商）。
 
-该公司名字是从数张专辑和歌曲标题名称后选择出来的。2007年8月20日，Epic
-Games收购该公司多数股份。\[1\]在2013年11月1日，公司更名为Epic
-Games Poland，\[2\]然而在2015年6月24日，该公司宣布独立并恢复使用旧名称和旧标志。\[3\]
+该公司名字是从数张专辑和歌曲标题名称后选择出来的。2007年8月20日，Epic Games收购该公司多数股份。\[1\]在2013年11月1日，公司更名为Epic Games Poland，\[2\]然而在2015年6月24日，该公司宣布独立并恢复使用旧名称和旧标志。\[3\]
 
 ## 开发游戏
 
@@ -96,10 +93,7 @@ Fortnite</p></td>
 ## 外部链接
 
   -
-[Category:2002年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2002年開業電子遊戲公司 "wikilink")
-[Category:Epic_Games](https://zh.wikipedia.org/wiki/Category:Epic_Games "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:波蘭電子遊戲公司](https://zh.wikipedia.org/wiki/Category:波蘭電子遊戲公司 "wikilink")
+[Category:2002年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2002年開業電子遊戲公司 "wikilink") [Category:Epic_Games](https://zh.wikipedia.org/wiki/Category:Epic_Games "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:波蘭電子遊戲公司](https://zh.wikipedia.org/wiki/Category:波蘭電子遊戲公司 "wikilink")
 
 1.
 2.

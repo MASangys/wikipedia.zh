@@ -1,10 +1,8 @@
-《**VenusBlood
--FRONTIER-**》是由日本遊戲品牌dualtail製作於2012年4月27日發售的[模擬類型](../Page/模擬遊戲.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，VenusBlood系列的第五部作品，2016年12月22日發售續作《VenusBlood
--RAGNAROK-》。\[2\]
+《**VenusBlood -FRONTIER-**》是由日本遊戲品牌dualtail製作於2012年4月27日發售的[模擬類型](../Page/模擬遊戲.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，VenusBlood系列的第五部作品，2016年12月22日發售續作《VenusBlood -RAGNAROK-》。\[2\]
 
 ## 故事
 
-魔王[史爾特爾宣告將王位讓給拿到由](https://zh.wikipedia.org/wiki/史爾特爾 "wikilink")「[尤克特拉希爾的心臟](https://zh.wikipedia.org/wiki/尤克特拉希爾 "wikilink")」後，魔王的五位子孫們便開始各自率軍入侵由五位女神守護的浮遊樹大陸「尤克特拉希爾」，魔王繼承候補者的[洛基在抵達大陸的](../Page/洛基.md "wikilink")[埃達後開始展開與女神們之間的戰爭](https://zh.wikipedia.org/wiki/埃達 "wikilink")。
+魔王[史爾特爾宣告將王位讓給拿到由](https://zh.wikipedia.org/wiki/史爾特爾 "wikilink")「[尤克特拉希爾的心臟](https://zh.wikipedia.org/wiki/尤克特拉希爾 "wikilink")」後，魔王的五位子孫們便開始各自率軍入侵由五位女神守護的浮遊樹大陸「尤克特拉希爾」，魔王繼承候補者的[洛基](../Page/洛基.md "wikilink")在抵達大陸的[埃達後開始展開與女神們之間的戰爭](https://zh.wikipedia.org/wiki/埃達 "wikilink")。
 
 ## 角色
 
@@ -65,14 +63,12 @@
 
 ## 評價
 
-《VenusBlood
--FRONTIER-》於2012年獲得[萌系遊戲大賞的エロス系作品賞BLACK金賞](../Page/萌系遊戲大賞.md "wikilink")。\[4\]
+《VenusBlood -FRONTIER-》於2012年獲得[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")的エロス系作品賞BLACK金賞。\[4\]
 
 ## 相關條目
 
   - [VenusBlood](../Page/VenusBlood.md "wikilink")：VenusBlood系列的第一部作品。
-  - [VenusBlood
-    -DESIRE-](../Page/VenusBlood_-DESIRE-.md "wikilink")：VenusBlood系列的第三部作品。
+  - [VenusBlood -DESIRE-](../Page/VenusBlood_-DESIRE-.md "wikilink")：VenusBlood系列的第三部作品。
 
 ## 參考來源
 
@@ -82,11 +78,7 @@
   - [官方網站](http://ninetail.tk/td10/VenusBlood-FRONTIER-.html)
   - [英文版官方網站](http://www.ninetail.tk/tde10/index.html)
 
-[Category:2012年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2012年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:模擬遊戲](https://zh.wikipedia.org/wiki/Category:模擬遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:北歐神話題材作品](https://zh.wikipedia.org/wiki/Category:北歐神話題材作品 "wikilink")
+[Category:2012年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2012年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:模擬遊戲](https://zh.wikipedia.org/wiki/Category:模擬遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:北歐神話題材作品](https://zh.wikipedia.org/wiki/Category:北歐神話題材作品 "wikilink")
 
 1.
 2.

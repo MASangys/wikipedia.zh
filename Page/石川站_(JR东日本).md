@@ -1,4 +1,4 @@
-**石川站**（）位于[青森县](https://zh.wikipedia.org/wiki/青森县 "wikilink")[弘前市前田大字石川字野崎](../Page/弘前市.md "wikilink")，是[东日本旅客铁道](https://zh.wikipedia.org/wiki/东日本旅客铁道 "wikilink")（JR東日本）管辖的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")\[1\]。
+**石川站**（）位于[青森县](https://zh.wikipedia.org/wiki/青森县 "wikilink")[弘前市](../Page/弘前市.md "wikilink")前田大字石川字野崎，是[东日本旅客铁道](https://zh.wikipedia.org/wiki/东日本旅客铁道 "wikilink")（JR東日本）管辖的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")\[1\]。
 
 本站大鳄温泉站方向为单线，弘前方向为复线。站南侧为[弘南铁道大鳄线跨线桥](https://zh.wikipedia.org/wiki/弘南铁道 "wikilink")\[2\]。
 
@@ -6,8 +6,7 @@
 
   - 1916年7月7日 - 石川站作为日本国有铁道车站投入运营。
   - 1971年10月1日 - 车站无人化改造。
-  - 1987年4月1日 -
-    [国铁分割民营化后成为JR东日本车站](https://zh.wikipedia.org/wiki/国铁分割民营化 "wikilink")。
+  - 1987年4月1日 - [国铁分割民营化后成为JR东日本车站](https://zh.wikipedia.org/wiki/国铁分割民营化 "wikilink")。
 
 ## 車站結構
 
@@ -70,11 +69,7 @@
 
 ## 資料來源
 
-[Category:奧羽本線車站](https://zh.wikipedia.org/wiki/Category:奧羽本線車站 "wikilink")
-[Category:青森縣鐵路車站](https://zh.wikipedia.org/wiki/Category:青森縣鐵路車站 "wikilink")
-[Category:1916年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1916年啟用的鐵路車站 "wikilink")
-[Category:弘前市](https://zh.wikipedia.org/wiki/Category:弘前市 "wikilink")
-[Category:日本鐵路車站_I](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_I "wikilink")
+[Category:奧羽本線車站](https://zh.wikipedia.org/wiki/Category:奧羽本線車站 "wikilink") [Category:青森縣鐵路車站](https://zh.wikipedia.org/wiki/Category:青森縣鐵路車站 "wikilink") [Category:1916年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1916年啟用的鐵路車站 "wikilink") [Category:弘前市](https://zh.wikipedia.org/wiki/Category:弘前市 "wikilink") [Category:日本鐵路車站_I](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_I "wikilink")
 
 1.
 2.

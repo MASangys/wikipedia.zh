@@ -1,10 +1,4 @@
-[The_Parkside_Car_Entrance_2018.jpg](https://zh.wikipedia.org/wiki/File:The_Parkside_Car_Entrance_2018.jpg "fig:The_Parkside_Car_Entrance_2018.jpg")
-[The_Parkside_Place_201612.jpg](https://zh.wikipedia.org/wiki/File:The_Parkside_Place_201612.jpg "fig:The_Parkside_Place_201612.jpg")
-[The_Parkside_Place_Entrance_2016.jpg](https://zh.wikipedia.org/wiki/File:The_Parkside_Place_Entrance_2016.jpg "fig:The_Parkside_Place_Entrance_2016.jpg")
-[The_Parkside_Place_Central_Avenue_Entrance_2016.jpg](https://zh.wikipedia.org/wiki/File:The_Parkside_Place_Central_Avenue_Entrance_2016.jpg "fig:The_Parkside_Place_Central_Avenue_Entrance_2016.jpg")
-**The
-Parkside**，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[將軍澳南](../Page/將軍澳南.md "wikilink")[唐俊街](https://zh.wikipedia.org/wiki/唐俊街 "wikilink")18號
-，是[會德豐集團旗下的豪華私人住宅屋苑](../Page/會德豐.md "wikilink")。由[呂元祥建築師事務所設計](../Page/呂元祥建築師事務所.md "wikilink")，[金門建築承建](../Page/金門建築.md "wikilink")。物業分為3座樓高28層的大廈，共提供591伙單位，於2014年11月開售，在2016年9月落成。管理公司為夏利文物業管理有限公司。展覽廳及示範單位設於[尖沙咀](../Page/尖沙咀.md "wikilink")[港威大廈](../Page/港威大廈.md "wikilink")，首批120個單位的價單，定價由549.2萬元起，實用呎價由12,373元至15,194元。\[1\]
+[The_Parkside_Car_Entrance_2018.jpg](https://zh.wikipedia.org/wiki/File:The_Parkside_Car_Entrance_2018.jpg "fig:The_Parkside_Car_Entrance_2018.jpg") [The_Parkside_Place_201612.jpg](https://zh.wikipedia.org/wiki/File:The_Parkside_Place_201612.jpg "fig:The_Parkside_Place_201612.jpg") [The_Parkside_Place_Entrance_2016.jpg](https://zh.wikipedia.org/wiki/File:The_Parkside_Place_Entrance_2016.jpg "fig:The_Parkside_Place_Entrance_2016.jpg") [The_Parkside_Place_Central_Avenue_Entrance_2016.jpg](https://zh.wikipedia.org/wiki/File:The_Parkside_Place_Central_Avenue_Entrance_2016.jpg "fig:The_Parkside_Place_Central_Avenue_Entrance_2016.jpg") **The Parkside**，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[將軍澳南](../Page/將軍澳南.md "wikilink")[唐俊街](https://zh.wikipedia.org/wiki/唐俊街 "wikilink")18號 ，是[會德豐](../Page/會德豐.md "wikilink")集團旗下的豪華私人住宅屋苑。由[呂元祥建築師事務所](../Page/呂元祥建築師事務所.md "wikilink")設計，[金門建築](../Page/金門建築.md "wikilink")承建。物業分為3座樓高28層的大廈，共提供591伙單位，於2014年11月開售，在2016年9月落成。管理公司為夏利文物業管理有限公司。展覽廳及示範單位設於[尖沙咀](../Page/尖沙咀.md "wikilink")[港威大廈](../Page/港威大廈.md "wikilink")，首批120個單位的價單，定價由549.2萬元起，實用呎價由12,373元至15,194元。\[1\]
 
 ## 單位
 
@@ -22,18 +16,13 @@ Parkside**，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界
 
 ## 商場
 
-項目地下至1樓設商場The Parkside
-Place，總面積42,473方呎。2016年1月以5.1億元連商業車位售予印度船王家族成員。\[3\]同年年尾，以5億元出售6成業權給[安祖高頓](https://zh.wikipedia.org/wiki/安祖高頓 "wikilink")，改名為**The
-Parkside
-Mall**。\[4\]現時租戶包括札幌拉麵，翠河餐廳，[大家樂及地產代理](../Page/大家樂.md "wikilink")[利嘉閣等](../Page/利嘉閣.md "wikilink")。1樓為The
-Campfire Campus和AFTER 3 at Campfire餐廳。\[5\]
+項目地下至1樓設商場The Parkside Place，總面積42,473方呎。2016年1月以5.1億元連商業車位售予印度船王家族成員。\[3\]同年年尾，以5億元出售6成業權給[安祖高頓](https://zh.wikipedia.org/wiki/安祖高頓 "wikilink")，改名為**The Parkside Mall**。\[4\]現時租戶包括札幌拉麵，翠河餐廳，[大家樂](../Page/大家樂.md "wikilink")及地產代理[利嘉閣](../Page/利嘉閣.md "wikilink")等。1樓為The Campfire Campus和AFTER 3 at Campfire餐廳。\[5\]
 
-2019年4月30日，[宏安集團以](../Page/宏安集團.md "wikilink")7.8億購入商場，連同位於地庫樓層之49個停車位及5個摩托車停車位，可供出租總面積約為32564平方呎
+2019年4月30日，[宏安集團](../Page/宏安集團.md "wikilink")以7.8億購入商場，連同位於地庫樓層之49個停車位及5個摩托車停車位，可供出租總面積約為32564平方呎
 
 ## 宣傳
 
-The Parkside的廣告宣傳「A Brighter
-Living」為主題。廣告於[日本](../Page/日本.md "wikilink")[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[品川及辰巳之森](https://zh.wikipedia.org/wiki/品川 "wikilink")-綠道公園拍攝。
+The Parkside的廣告宣傳「A Brighter Living」為主題。廣告於[日本](../Page/日本.md "wikilink")[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[品川及辰巳之森](https://zh.wikipedia.org/wiki/品川 "wikilink")-綠道公園拍攝。
 
 ## 著名住客
 
@@ -46,9 +35,7 @@ Living」為主題。廣告於[日本](../Page/日本.md "wikilink")[東京](htt
 
 ## 興建圖片
 
-<File:The> Parkside Site View 201408.jpg|興建中的The Parkside（2014年8月）
-<File:The> Parkside under construction in March 2015.JPG|興建中的The
-Parkside（2015年3月） <File:The> Parkside west.jpg|The Parkside西面（2016年5月）
+<File:The> Parkside Site View 201408.jpg|興建中的The Parkside（2014年8月） <File:The> Parkside under construction in March 2015.JPG|興建中的The Parkside（2015年3月） <File:The> Parkside west.jpg|The Parkside西面（2016年5月）
 
 ## 交通
 
@@ -66,7 +53,7 @@ Parkside（2015年3月） <File:The> Parkside west.jpg|The Parkside西面（2016
 
 <!-- end list -->
 
-  - <font color="{{將軍澳綫色彩}}">█</font>[將軍澳綫](../Page/將軍澳綫.md "wikilink")：[將軍澳站A出入口](../Page/將軍澳站.md "wikilink")
+  - <font color="{{將軍澳綫色彩}}">█</font>[將軍澳綫](../Page/將軍澳綫.md "wikilink")：[將軍澳站](../Page/將軍澳站.md "wikilink")A出入口
 
 <!-- end list -->
 
@@ -99,9 +86,7 @@ Parkside（2015年3月） <File:The> Parkside west.jpg|The Parkside西面（2016
   -
   - [金門建築項目網頁](https://www.gammonconstruction.com/tc/html/projects/projects-7ae7d39e452b444aada3e4ded37ebc1f.html)
 
-[Category:會德豐地產(香港)物業](https://zh.wikipedia.org/wiki/Category:會德豐地產\(香港\)物業 "wikilink")
-[Category:西貢區私人屋苑](https://zh.wikipedia.org/wiki/Category:西貢區私人屋苑 "wikilink")
-[Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink")
+[Category:會德豐地產(香港)物業](https://zh.wikipedia.org/wiki/Category:會德豐地產\(香港\)物業 "wikilink") [Category:西貢區私人屋苑](https://zh.wikipedia.org/wiki/Category:西貢區私人屋苑 "wikilink") [Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink")
 
 1.
 2.

@@ -1,12 +1,8 @@
-《**K-pop
-猎星行动**》（，）是一个区域性的[K-Pop音乐](../Page/韓國流行音樂.md "wikilink")[选秀节目](../Page/真人實境秀.md "wikilink")，它给亚洲喜欢音乐的人带来一次成为K-Pop明星的机会。
+《**K-pop 猎星行动**》（，）是一个区域性的[K-Pop音乐](../Page/韓國流行音樂.md "wikilink")[选秀节目](../Page/真人實境秀.md "wikilink")，它给亚洲喜欢音乐的人带来一次成为K-Pop明星的机会。
 
-节目由CJ E\&M与Fox
-International共同打造，在[tvN](../Page/TVN.md "wikilink")、Channel
-V和Mnet等频道播出。第一季和第二季与[Cube娱乐合作](https://zh.wikipedia.org/wiki/Cube娱乐 "wikilink")，第三季则与[FNC娱乐合作](../Page/FNC娛樂.md "wikilink") ，共同寻找K-Pop明星。
+节目由CJ E\&M与Fox International共同打造，在[tvN](../Page/TVN.md "wikilink")、Channel V和Mnet等频道播出。第一季和第二季与[Cube娱乐合作](https://zh.wikipedia.org/wiki/Cube娱乐 "wikilink")，第三季则与[FNC娱乐合作](../Page/FNC娛樂.md "wikilink") ，共同寻找K-Pop明星。
 
-第一季的冠军由来自泰国的[Sorn获得](https://zh.wikipedia.org/wiki/Sorn "wikilink")\[1\] ，第二季的冠军是来自泰国的Ling
-Ling，而台湾的[苏一晋](../Page/蘇一晉.md "wikilink")（Andy）则获得了第三季的冠军。
+第一季的冠军由来自泰国的[Sorn获得](https://zh.wikipedia.org/wiki/Sorn "wikilink")\[1\] ，第二季的冠军是来自泰国的Ling Ling，而台湾的[苏一晋](../Page/蘇一晉.md "wikilink")（Andy）则获得了第三季的冠军。
 
 ## 获奖者
 
@@ -57,11 +53,9 @@ Ling，而台湾的[苏一晋](../Page/蘇一晉.md "wikilink")（Andy）则获�
 
 ## 第一季(2011-2012年)
 
-CJ E\&M和Fox
-International聯合與Cube娛樂推出一个叫《K-pop獵星行動》的新節目，該節目在亞洲各地進行選秀來尋找Cube娛樂的藝人。
-tvN的《K-pop獵星行動》作为Cube娛樂的選秀節目， 于8月底开始在线选秀。
+CJ E\&M和Fox International聯合與Cube娛樂推出一个叫《K-pop獵星行動》的新節目，該節目在亞洲各地進行選秀來尋找Cube娛樂的藝人。 tvN的《K-pop獵星行動》作为Cube娛樂的選秀節目， 于8月底开始在线选秀。
 
-《K-pop獵星行動》的總冠軍获得者将能與Cube娛樂簽向合同并獲得其提供的三年培訓機會，Cube娛樂旗下的艺人有[G.NA和组合BEAST](../Page/G.NA.md "wikilink")、4Minute。
+《K-pop獵星行動》的總冠軍获得者将能與Cube娛樂簽向合同并獲得其提供的三年培訓機會，Cube娛樂旗下的艺人有[G.NA](../Page/G.NA.md "wikilink")和组合BEAST、4Minute。
 
 在這一季度選秀的國家或地区：
 
@@ -93,19 +87,16 @@ tvN的《K-pop獵星行動》作为Cube娛樂的選秀節目， 于8月底开始
 
 任务一：演唱K-pop歌曲
 
-  - Charmaine选了 [2NE1的](../Page/2NE1.md "wikilink")《I Don't Care》
-  - Charlene选了 [CNBLUE的](../Page/CNBLUE.md "wikilink")《I'm A Loner》
-  - Nicola选了 [少女时代的](../Page/少女时代.md "wikilink")《Gee》
-  - Andy选了 [FTIsland的](../Page/FTIsland.md "wikilink")《Love Love Love》
-  - Jasmine选了 [Apink的](../Page/Apink.md "wikilink")《I Don't Know》
-  - Maressa选了
-    [Beast的](../Page/Highlight_\(韓國組合\).md "wikilink")《Fiction》
-  - June选了 [After School的](../Page/After_School.md "wikilink")《Because
-    of You》
+  - Charmaine选了 [2NE1](../Page/2NE1.md "wikilink")的《I Don't Care》
+  - Charlene选了 [CNBLUE](../Page/CNBLUE.md "wikilink")的《I'm A Loner》
+  - Nicola选了 [少女时代](../Page/少女时代.md "wikilink")的《Gee》
+  - Andy选了 [FTIsland](../Page/FTIsland.md "wikilink")的《Love Love Love》
+  - Jasmine选了 [Apink](../Page/Apink.md "wikilink")的《I Don't Know》
+  - Maressa选了 [Beast的](../Page/Highlight_\(韓國組合\).md "wikilink")《Fiction》
+  - June选了 [After School的](../Page/After_School.md "wikilink")《Because of You》
   - [Sorn选了](https://zh.wikipedia.org/wiki/Sorn "wikilink") [姜敏京](../Page/Davichi.md "wikilink")'的《8282》
   - Lucia选了 [f(x)的](../Page/F\(x\)_\(組合\).md "wikilink")《Pinocchio》
-  - Rince和Chris都选了 [太阳的](../Page/太陽_\(歌手\).md "wikilink")《Only Look At
-    Me》
+  - Rince和Chris都选了 [太阳的](../Page/太陽_\(歌手\).md "wikilink")《Only Look At Me》
 
 任务二：与BEAST和4Minute斗舞
 
@@ -114,30 +105,20 @@ tvN的《K-pop獵星行動》作为Cube娛樂的選秀節目， 于8月底开始
 
 任务三：二重奏与实习(合作)
 
-  - Sorn与[李昌燮](../Page/李昌燮.md "wikilink")（[BTOB](../Page/BTOB.md "wikilink")）合作演唱Xiah
-    Junsu（JYJ）和Jang Ri-In（Zhang Li Yin）的歌曲《Timeless》
-  - Rince与Kim Seo-Ae合作演唱Jo
-    Kwon([2AM](../Page/2AM.md "wikilink"))和Ga-In（Brown Eyed
-    Girls）的歌曲《We fell In Love》
-  - Lucia与[陸星材](../Page/陸星材.md "wikilink")（BTOB）合作演唱Trouble
-    Maker（EP）的歌曲《Troublemaker》
+  - Sorn与[李昌燮](../Page/李昌燮.md "wikilink")（[BTOB](../Page/BTOB.md "wikilink")）合作演唱Xiah Junsu（JYJ）和Jang Ri-In（Zhang Li Yin）的歌曲《Timeless》
+  - Rince与Kim Seo-Ae合作演唱Jo Kwon([2AM](../Page/2AM.md "wikilink"))和Ga-In（Brown Eyed Girls）的歌曲《We fell In Love》
+  - Lucia与[陸星材](../Page/陸星材.md "wikilink")（BTOB）合作演唱Trouble Maker（EP）的歌曲《Troublemaker》
 
 *最终任务：最终决战(歌唱+舞蹈)*
 
-  - Rince唱的是[2AM的](../Page/2AM.md "wikilink")《I'm Sorry I Can't Smile
-    For You》，跳舞的歌曲是[尼欧的](../Page/尼歐_\(歌手\).md "wikilink")《Not Myself
-    Tonight》
-  - Sorn唱的是[G.NA的](../Page/G.NA.md "wikilink")《Because you are
-    Mine》，跳舞的歌曲是[克里斯蒂娜·阿奎莱拉的](https://zh.wikipedia.org/wiki/克里斯蒂娜·阿奎莱拉 "wikilink")《Not
-    Myself Tonight》
+  - Rince唱的是[2AM](../Page/2AM.md "wikilink")的《I'm Sorry I Can't Smile For You》，跳舞的歌曲是[尼欧的](../Page/尼歐_\(歌手\).md "wikilink")《Not Myself Tonight》
+  - Sorn唱的是[G.NA](../Page/G.NA.md "wikilink")的《Because you are Mine》，跳舞的歌曲是[克里斯蒂娜·阿奎莱拉的](https://zh.wikipedia.org/wiki/克里斯蒂娜·阿奎莱拉 "wikilink")《Not Myself Tonight》
 
 ## 第二季(2012-2013年)
 
-[右](https://zh.wikipedia.org/wiki/File:Kpop_Star_Hunt_Season_2_Official_Logo.png "fig:右")
-第一季的比赛结束后，K-pop猎星行动第二季宣布在馬來西亞、日本、越南、新加坡、香港、臺灣和菲律宾进行选秀。
+[右](https://zh.wikipedia.org/wiki/File:Kpop_Star_Hunt_Season_2_Official_Logo.png "fig:右") 第一季的比赛结束后，K-pop猎星行动第二季宣布在馬來西亞、日本、越南、新加坡、香港、臺灣和菲律宾进行选秀。
 
-K-pop猎星行动第二季的最终赢家将会获得CJ E\&M和CUBE
-Entertainment的专业培训和发行一张专辑的机会，还可以参加2013年在韩国举行的[MAMA音乐颁奖典礼](https://zh.wikipedia.org/wiki/MAMA "wikilink")。
+K-pop猎星行动第二季的最终赢家将会获得CJ E\&M和CUBE Entertainment的专业培训和发行一张专辑的机会，还可以参加2013年在韩国举行的[MAMA音乐颁奖典礼](https://zh.wikipedia.org/wiki/MAMA "wikilink")。
 
 在这一季度选秀的国家或地区：
 
@@ -190,62 +171,44 @@ Entertainment的专业培训和发行一张专辑的机会，还可以参加2013
 
   - Rendy选了 Ra.D的《Mom》
   - Louise选了 Tamia的《Almost》
-  - Sam选了 [2NE1的](../Page/2NE1.md "wikilink")《It Hurts》
-  - Erul选了
-    [K.Will的](https://zh.wikipedia.org/wiki/K.Will "wikilink")《Please
-    Don't》
-  - Shimali选了 [Taylor
-    Swift的](https://zh.wikipedia.org/wiki/Taylor_Swift "wikilink")《Sparks
-    Fly》
+  - Sam选了 [2NE1](../Page/2NE1.md "wikilink")的《It Hurts》
+  - Erul选了 [K.Will的](https://zh.wikipedia.org/wiki/K.Will "wikilink")《Please Don't》
+  - Shimali选了 [Taylor Swift的](https://zh.wikipedia.org/wiki/Taylor_Swift "wikilink")《Sparks Fly》
   - Ereene选了 Wonder Girl的《So Hot》
   - Tia选了 Jessie J的《Who's Laughing Now》
   - Tarwarn选了 [IU的](https://zh.wikipedia.org/wiki/IU "wikilink")《Secret》
   - Miku选了 [白智荣的](../Page/白智榮.md "wikilink")《P.S I Love You》
-  - Lia选了 [G.NA的](../Page/G.NA.md "wikilink")《Because You're Mine》
+  - Lia选了 [G.NA](../Page/G.NA.md "wikilink")的《Because You're Mine》
   - Tanya选了 [白智荣的](../Page/白智榮.md "wikilink")《That Woman》
   - Ling Ling选了 白智荣的《That Woman》
 
 任务二：和BTOB的团队任务
 
-  - [星材队](https://zh.wikipedia.org/wiki/星材 "wikilink")：Miku，Tanya和Rendy演唱[8Eight的](../Page/8Eight.md "wikilink")《I
-    Don't Have A Heart》
-  - [恩光队](https://zh.wikipedia.org/wiki/恩光 "wikilink")：Erul，Sam和Lia演唱[郑恩地和](../Page/鄭恩地.md "wikilink")[徐仁国的](../Page/徐仁國.md "wikilink")《All
-    For You》
-  - [昌燮队](https://zh.wikipedia.org/wiki/昌燮 "wikilink")：Ling
-    Ling和Ereene演唱[mc夢和Lyn的](../Page/MC夢.md "wikilink")《Letter To
-    You》
+  - [星材队](https://zh.wikipedia.org/wiki/星材 "wikilink")：Miku，Tanya和Rendy演唱[8Eight](../Page/8Eight.md "wikilink")的《I Don't Have A Heart》
+  - [恩光队](https://zh.wikipedia.org/wiki/恩光 "wikilink")：Erul，Sam和Lia演唱[郑恩地和](../Page/鄭恩地.md "wikilink")[徐仁国的](../Page/徐仁國.md "wikilink")《All For You》
+  - [昌燮队](https://zh.wikipedia.org/wiki/昌燮 "wikilink")：Ling Ling和Ereene演唱[mc夢和Lyn的](../Page/MC夢.md "wikilink")《Letter To You》
 
 任务三：演唱由新沙洞老虎挑选的歌曲
 
-  - Ling
-    Ling唱的是[申昇勳的](https://zh.wikipedia.org/wiki/wikipedia:Shin_Seung-hun "wikilink")《I
-    Believe》
+  - Ling Ling唱的是[申昇勳的](https://zh.wikipedia.org/wiki/wikipedia:Shin_Seung-hun "wikilink")《I Believe》
   - Tanya唱的是Davichi的《Don't Say Goodbye》
   - Lia唱的是Davichi的《8282》
-  - Erul唱的是[BEAST的](https://zh.wikipedia.org/wiki/BEAST "wikilink")《On
-    Rainy Days》
+  - Erul唱的是[BEAST的](https://zh.wikipedia.org/wiki/BEAST "wikilink")《On Rainy Days》
   - Sam唱的是Ailee的《I Will Show You》
 
 最终任务：选择你喜欢的歌曲和舞蹈表演
 
-  - Erul唱的是[金范洙的](../Page/金範洙.md "wikilink")《I Miss
-    You》，跳舞的歌曲是[2PM的](https://zh.wikipedia.org/wiki/2PM "wikilink")《I'll
-    Be Back》
-  - Ling Ling唱的是[成始璄的](../Page/成始璄.md "wikilink")《Hee
-    Jae》，跳舞的歌曲是[李遐怡的](../Page/李遐怡.md "wikilink")《1,2,3,4》
+  - Erul唱的是[金范洙的](../Page/金範洙.md "wikilink")《I Miss You》，跳舞的歌曲是[2PM的](https://zh.wikipedia.org/wiki/2PM "wikilink")《I'll Be Back》
+  - Ling Ling唱的是[成始璄](../Page/成始璄.md "wikilink")的《Hee Jae》，跳舞的歌曲是[李遐怡](../Page/李遐怡.md "wikilink")的《1,2,3,4》
   - Sam唱的是Soon-Yi的《Goose's Dream》，跳舞的歌曲是Dream High 2 OST中的《Superstar》
 
 ## 第三季(2013-2014年)
 
-第三季由Channel M、CJE\&M和Fox International
-Channel组织，与[FNC娱乐合作推出](../Page/FNC娛樂.md "wikilink")。该赛季的冠军赞助商是The
-Moving Visuals有限公司新加坡航空公司。
+第三季由Channel M、CJE\&M和Fox International Channel组织，与[FNC娱乐合作推出](../Page/FNC娛樂.md "wikilink")。该赛季的冠军赞助商是The Moving Visuals有限公司新加坡航空公司。
 
 第三季的选秀开始于2013年8月1日，第一步是网络视频的提交。
 
-第三季的总冠军将得到与 CJ E\&M 和
-[FNC娱乐签订合同的机会和在韩国的](../Page/FNC娛樂.md "wikilink")6\~12个月的培训机会，一个和FNC艺人合作发行歌曲机会和在韩国出道或在他们祖国出道的机会，并参加2014年Global
-M Countdown。
+第三季的总冠军将得到与 CJ E\&M 和 [FNC娱乐签订合同的机会和在韩国的](../Page/FNC娛樂.md "wikilink")6\~12个月的培训机会，一个和FNC艺人合作发行歌曲机会和在韩国出道或在他们祖国出道的机会，并参加2014年Global M Countdown。
 
 在这一季度选秀的国家或地区：
 
@@ -288,23 +251,21 @@ M Countdown。
   - Andy唱 [太阳的](../Page/太陽_\(歌手\).md "wikilink")《I Need A Girl》
   - Glenda唱 Davichi的《Don't Say Goodbye》
   - Water唱 [陈奕迅的歌曲](https://zh.wikipedia.org/wiki/陈奕迅 "wikilink")
-  - Pik唱 [Apink的](../Page/Apink.md "wikilink")《No No No》
+  - Pik唱 [Apink](../Page/Apink.md "wikilink")的《No No No》
   - Steph唱 [雪儿·洛薇的](../Page/雪兒·洛薇.md "wikilink")《Want Your Back》
-  - Elma唱 [泰妍的](https://zh.wikipedia.org/wiki/泰妍 "wikilink")《Missing You
-    Like Crazy》
+  - Elma唱 [泰妍的](https://zh.wikipedia.org/wiki/泰妍 "wikilink")《Missing You Like Crazy》
   - Yvonne的表演没有播出
 
 任务二：下一个k-pop声音
 
   - Water选了 Bobby Kim的《Falling In Love Again》
   - Pik选了 AOA Black的《MOYA》
-  - Steph选了 [李遐怡的](../Page/李遐怡.md "wikilink")《Rose》
+  - Steph选了 [李遐怡](../Page/李遐怡.md "wikilink")的《Rose》
   - Ryan选了 2PM的《Again and Again》
   - Glenda选了 Zia的《Have A Drink》
   - Aileen选了 Younha的《Password 486》
-  - Yvonne选了 [BoA的](https://zh.wikipedia.org/wiki/BoA "wikilink")《Only
-    One》
-  - Andy选了 [CNBLUE的](../Page/CNBLUE.md "wikilink")《Love Light》
+  - Yvonne选了 [BoA的](https://zh.wikipedia.org/wiki/BoA "wikilink")《Only One》
+  - Andy选了 [CNBLUE](../Page/CNBLUE.md "wikilink")的《Love Light》
   - Mickey选了 Henry的《Trap》
   - Putri选了 Gummy的《There Is No Love》
 
@@ -318,21 +279,15 @@ M Countdown。
   - Putri的MV是Yoo Sung Eun的《Be Ok》
   - 安迪的MV是PRIMARY的《See Through》
   - Glenda的MV是[白智荣的](../Page/白智榮.md "wikilink")《I  Won't  Love》
-  - Pik的MV是[G.NA的](../Page/G.NA.md "wikilink")《I Will Back Off You Can
-    Live》
+  - Pik的MV是[G.NA](../Page/G.NA.md "wikilink")的《I Will Back Off You Can Live》
   - Stephanie的MV是Brown Eyed Girl的《Abracadabra》
 
 任务五：大结局
 
-  - Putri唱[Gummy的](https://zh.wikipedia.org/wiki/Gummy "wikilink")《There
-    Is No Love》和Lewi的《Homeless》
-  - Pik唱[G.Na的](https://zh.wikipedia.org/wiki/G.Na "wikilink")《I Will
-    Back Off So You Can
-    Live》和[TTS的](https://zh.wikipedia.org/wiki/TTS "wikilink")《Twinkle》
-  - Andy唱[太阳的](../Page/太陽_\(歌手\).md "wikilink")《I Need A
-    Girl》和[G-Dragon的](../Page/G-Dragon.md "wikilink")《Crayon》和《Michigo》
-  - Stephanie唱[李遐怡的](../Page/李遐怡.md "wikilink")《Rose》和[艾薇儿·拉维尼的](https://zh.wikipedia.org/wiki/艾薇儿·拉维尼 "wikilink")《Rock
-    & Roll》
+  - Putri唱[Gummy的](https://zh.wikipedia.org/wiki/Gummy "wikilink")《There Is No Love》和Lewi的《Homeless》
+  - Pik唱[G.Na的](https://zh.wikipedia.org/wiki/G.Na "wikilink")《I Will Back Off So You Can Live》和[TTS的](https://zh.wikipedia.org/wiki/TTS "wikilink")《Twinkle》
+  - Andy唱[太阳的](../Page/太陽_\(歌手\).md "wikilink")《I Need A Girl》和[G-Dragon](../Page/G-Dragon.md "wikilink")的《Crayon》和《Michigo》
+  - Stephanie唱[李遐怡](../Page/李遐怡.md "wikilink")的《Rose》和[艾薇儿·拉维尼的](https://zh.wikipedia.org/wiki/艾薇儿·拉维尼 "wikilink")《Rock & Roll》
 
 ## 结束后
 
@@ -344,10 +299,8 @@ M Countdown。
   - Lucia现在是女子组合[A'N'D的成员](https://zh.wikipedia.org/wiki/A'N'D "wikilink")，也是臺灣演员。
   - Rince是菲律宾BASSIX的成员。
   - Charlene和Charmaine在菲律宾组成一个叫“MILES”的表演组合。
-  - Chris在Channel V（臺灣）做主持人。他参加了《Taiwan's Next
-    Generations》第二季，由[蔡依林做他的导师](../Page/蔡依林.md "wikilink")。
-  - Maressa在新加坡的[新传媒朝阳频道工作](../Page/新傳媒朝陽頻道.md "wikilink")，她曾出现在新传媒朝阳第五频道的《On
-    The Red Dot》节目中，她现在是一名编辑。
+  - Chris在Channel V（臺灣）做主持人。他参加了《Taiwan's Next Generations》第二季，由[蔡依林](../Page/蔡依林.md "wikilink")做他的导师。
+  - Maressa在新加坡的[新传媒朝阳频道工作](../Page/新傳媒朝陽頻道.md "wikilink")，她曾出现在新传媒朝阳第五频道的《On The Red Dot》节目中，她现在是一名编辑。
   - Jasmine、Maressa和Yvonne在新加坡组建了一个叫“BLANCHE”的表演组合。
   - June是一个在泰国的舞者
   - Nicola现在在伦敦攻读时装设计学院的学位。
@@ -355,8 +308,7 @@ M Countdown。
 
 第二季:
 
-  - 2013年12月5日，Ling
-    Ling在新加坡第18届亚洲电视颁奖典礼上登台亮相。她不再接受CJE\&M公司的培训。她现在又回到了学习上
+  - 2013年12月5日，Ling Ling在新加坡第18届亚洲电视颁奖典礼上登台亮相。她不再接受CJE\&M公司的培训。她现在又回到了学习上
   - Erul于2015年成为马来西亚环球音乐的“Next Pop star”，是个电视名人。
   - Sam是JU娱乐（菲律宾）旗下的实习生。
   - Liahona是菲律宾的一个模特，同时也是JU娱乐（菲律宾）旗下的实习生。
@@ -370,13 +322,12 @@ M Countdown。
   - Shimali是一名高中生。
   - Jane是越南的舞者，加入了一个越南与韩国合作的节目后，她成为一个solo歌手。
   - Leona现在在大学上学。
-  - Sauja现在在[宾夕法尼亚大学上学](../Page/宾夕法尼亚大学.md "wikilink")。
+  - Sauja现在在[宾夕法尼亚大学](../Page/宾夕法尼亚大学.md "wikilink")上学。
   - Chih Ang有时会以一个乐队在舞台上表演。
 
 第三季:
 
-  - Andy是个[FNC娱乐的练习生](../Page/FNC娛樂.md "wikilink")。 他首次在中国亮相是发布单曲《Puppy
-    Love》的时候。
+  - Andy是个[FNC娱乐的练习生](../Page/FNC娛樂.md "wikilink")。 他首次在中国亮相是发布单曲《Puppy Love》的时候。
   - Putri回到了马来西亚，做一个独立歌手。在2015年她生下一个女孩。
   - Stephanie搬到了澳大利亚悉尼去为她的音乐事业奋斗。
   - Jasmine、Maressa和Yvonne在新加坡组建了一个叫“BLANCHE”的表演组合。

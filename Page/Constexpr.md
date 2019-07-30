@@ -1,4 +1,4 @@
-**constexpr**是[C++11引入的](../Page/C++11.md "wikilink")[关键字](https://zh.wikipedia.org/wiki/关键字 "wikilink")，用于[编译时的常量与常量函数](https://zh.wikipedia.org/wiki/编译时 "wikilink")。
+**constexpr**是[C++11](../Page/C++11.md "wikilink")引入的[关键字](https://zh.wikipedia.org/wiki/关键字 "wikilink")，用于[编译时的常量与常量函数](https://zh.wikipedia.org/wiki/编译时 "wikilink")。
 
 声明为constexpr函数的意义是：如果其参数均为合适的编译期常量，则对这个constexpr函数的调用就可用于期望常量表达式的场合（如模板的非类型参数，或枚举常量的值）。如果参数的值在运行期才能确定，或者虽然参数的值是编译期常量，但不匹配这个函数的要求，则对这个函数调用的求值只能在运行期进行。
 
@@ -96,8 +96,7 @@ int main()
 
 <references/>
 
-[Category:C++](https://zh.wikipedia.org/wiki/Category:C++ "wikilink")
-[Category:计算机编程](https://zh.wikipedia.org/wiki/Category:计算机编程 "wikilink")
+[Category:C++](https://zh.wikipedia.org/wiki/Category:C++ "wikilink") [Category:计算机编程](https://zh.wikipedia.org/wiki/Category:计算机编程 "wikilink")
 
 1.
 2.

@@ -1,24 +1,20 @@
-《**Go\! Japan TV
-日本大放送**》（）由[香港製作](../Page/香港.md "wikilink")，是一個專門宣傳[日本旅遊的節目](../Page/日本.md "wikilink")。
+《**Go\! Japan TV 日本大放送**》（）由[香港](../Page/香港.md "wikilink")製作，是一個專門宣傳[日本](../Page/日本.md "wikilink")旅遊的節目。
 
 ## 節目簡介
 
-由獨立電視節目製作公司**R by R Production
-Ltd.**製作的[日本旅遊節目](https://zh.wikipedia.org/wiki/日本旅遊 "wikilink")，為[香港電視史上最長壽的旅遊節目](https://zh.wikipedia.org/wiki/香港電視史 "wikilink")。
+由獨立電視節目製作公司**R by R Production Ltd.**製作的[日本旅遊節目](https://zh.wikipedia.org/wiki/日本旅遊 "wikilink")，為[香港電視史上最長壽的旅遊節目](https://zh.wikipedia.org/wiki/香港電視史 "wikilink")。
 
-類似節目為於1990年代在[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[明珠台播放的](../Page/明珠台.md "wikilink")《日語放送區》（*Japanese
-Hour*），於周日早上8時播放日本的旅遊、電視劇、動畫等節目\[1\]\[2\]，及後由於無綫電視與[香港公開大學協定需於](../Page/香港公開大學.md "wikilink")2004年起於同樣時間播放《[進修新天地](../Page/進修新天地.md "wikilink")》而停播。
+類似節目為於1990年代在[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[明珠台](../Page/明珠台.md "wikilink")播放的《日語放送區》（*Japanese Hour*），於周日早上8時播放日本的旅遊、電視劇、動畫等節目\[1\]\[2\]，及後由於無綫電視與[香港公開大學](../Page/香港公開大學.md "wikilink")協定需於2004年起於同樣時間播放《[進修新天地](../Page/進修新天地.md "wikilink")》而停播。
 
-《**日語大放送**》，自2005年10月2日起向[亞洲電視購買時段播放](../Page/亞洲電視.md "wikilink")。\[3\]開播時的目標觀眾為「在港日本人」，早期內容以日本人在港的生活資訊為主，後來轉形為純日本旅遊節目。開播初期，首播時間是[亞洲電視國際台逢星期日](../Page/亞洲電視國際台.md "wikilink")10時至10時30分\[4\]，及後時間多次更改，最後一次首播時間更改為2009年5月，逢黃昏6時25分至6時55分播放。而[國際台的重播時間](../Page/亞洲電視國際台.md "wikilink")，於2009年5月起為首播日的下星期五深夜1時至1時30分，及後重播時間更改為首播後一星期六的10時至10時30分。[aTV高清頻道開台後曾在頻道中播放](https://zh.wikipedia.org/wiki/aTV高清頻道 "wikilink")，2009年5月起改於[亞洲高清台播放](https://zh.wikipedia.org/wiki/亞洲高清台 "wikilink")、同時增加高清製作。
+《**日語大放送**》，自2005年10月2日起向[亞洲電視](../Page/亞洲電視.md "wikilink")購買時段播放。\[3\]開播時的目標觀眾為「在港日本人」，早期內容以日本人在港的生活資訊為主，後來轉形為純日本旅遊節目。開播初期，首播時間是[亞洲電視國際台](../Page/亞洲電視國際台.md "wikilink")逢星期日10時至10時30分\[4\]，及後時間多次更改，最後一次首播時間更改為2009年5月，逢黃昏6時25分至6時55分播放。而[國際台的重播時間](../Page/亞洲電視國際台.md "wikilink")，於2009年5月起為首播日的下星期五深夜1時至1時30分，及後重播時間更改為首播後一星期六的10時至10時30分。[aTV高清頻道開台後曾在頻道中播放](https://zh.wikipedia.org/wiki/aTV高清頻道 "wikilink")，2009年5月起改於[亞洲高清台播放](https://zh.wikipedia.org/wiki/亞洲高清台 "wikilink")、同時增加高清製作。
 
-贊助機構包括[日本旅遊局](https://zh.wikipedia.org/wiki/日本旅遊局 "wikilink")，因而大放送的主持不時受邀出席於香港舉行的[日本文化推廣活動](../Page/日本文化.md "wikilink")。
+贊助機構包括[日本旅遊局](https://zh.wikipedia.org/wiki/日本旅遊局 "wikilink")，因而大放送的主持不時受邀出席於香港舉行的[日本文化](../Page/日本文化.md "wikilink")推廣活動。
 
-2008年12月起，節目首播後會上傳到官方網站作永久分享（無法重溫2010年6月20日前的影片），以便觀眾隨時收看。2016年起提供[1080p高清格式](../Page/1080p.md "wikilink")。
+2008年12月起，節目首播後會上傳到官方網站作永久分享（無法重溫2010年6月20日前的影片），以便觀眾隨時收看。2016年起提供[1080p](../Page/1080p.md "wikilink")高清格式。
 
 2012年11月，推出節目官方月刊《Go\! Japan》。
 
-2016年，因亞視免費電視牌照不獲續期而改於[ViuTV播出](../Page/ViuTV.md "wikilink")，同時改名為《**Go\!
-Japan TV 日本大放送**》，於2016年4月17日起逢星期日早上11時30分至中午12時以粵日雙語廣播播出。\[5\]\[6\]
+2016年，因亞視免費電視牌照不獲續期而改於[ViuTV](../Page/ViuTV.md "wikilink")播出，同時改名為《**Go\! Japan TV 日本大放送**》，於2016年4月17日起逢星期日早上11時30分至中午12時以粵日雙語廣播播出。\[5\]\[6\]
 
 ## 主持
 
@@ -27,7 +23,7 @@ Japan TV 日本大放送**》，於2016年4月17日起逢星期日早上11時30�
         日本人，本名不明。自2005年《日語大放送》開播主持至今。
   - [邱忠業](https://zh.wikipedia.org/wiki/邱忠業 "wikilink")（Jam），配音：[李家傑](../Page/李家傑_\(配音員\).md "wikilink")
       -
-        香港人，因認識日本人太太而學日文，是[香港演藝學院客席講師](../Page/香港演藝學院.md "wikilink")\[7\]。
+        香港人，因認識日本人太太而學日文，是[香港演藝學院](../Page/香港演藝學院.md "wikilink")客席講師\[7\]。
   - [和泉素行](../Page/和泉素行.md "wikilink")（SOKO）
       -
         日本人，2011年時曾作代主持。\[8\]
@@ -838,30 +834,11 @@ And,日本大秘境！四國冒險物語！第三章：大步危峡，祖谷溪<
   - [理惠的Facebook](http://www.facebook.com/riejapanavi)
 
   -
-  - [Go\! Japan TV
-    日本大放送－ViuTV重溫](https://web.archive.org/web/20160421054139/http://viu.tv/encore/japan-time)
+  - [Go\! Japan TV 日本大放送－ViuTV重溫](https://web.archive.org/web/20160421054139/http://viu.tv/encore/japan-time)
 
-  - [TVB Pearl JAPANESE
-    HOUR](http://www.nicovideo.jp/watch/sm4111211)-《日語放送區》部分片段
+  - [TVB Pearl JAPANESE HOUR](http://www.nicovideo.jp/watch/sm4111211)-《日語放送區》部分片段
 
-[Category:旅遊節目](https://zh.wikipedia.org/wiki/Category:旅遊節目 "wikilink")
-[Category:亞洲電視節目](https://zh.wikipedia.org/wiki/Category:亞洲電視節目 "wikilink")
-[Category:2005年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2005年亞洲電視節目 "wikilink")
-[Category:2006年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2006年亞洲電視節目 "wikilink")
-[Category:2007年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2007年亞洲電視節目 "wikilink")
-[Category:2008年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2008年亞洲電視節目 "wikilink")
-[Category:2009年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2009年亞洲電視節目 "wikilink")
-[Category:2010年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2010年亞洲電視節目 "wikilink")
-[Category:2011年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2011年亞洲電視節目 "wikilink")
-[Category:2012年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2012年亞洲電視節目 "wikilink")
-[Category:2013年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2013年亞洲電視節目 "wikilink")
-[Category:2014年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2014年亞洲電視節目 "wikilink")
-[Category:2015年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2015年亞洲電視節目 "wikilink")
-[Category:2016年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2016年亞洲電視節目 "wikilink")
-[Category:香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目 "wikilink")
-[Category:香港電視娛樂旅遊節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂旅遊節目 "wikilink")
-[Category:2016年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2016年香港電視娛樂節目 "wikilink")
-[Category:2017年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2017年香港電視娛樂節目 "wikilink")
+[Category:旅遊節目](https://zh.wikipedia.org/wiki/Category:旅遊節目 "wikilink") [Category:亞洲電視節目](https://zh.wikipedia.org/wiki/Category:亞洲電視節目 "wikilink") [Category:2005年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2005年亞洲電視節目 "wikilink") [Category:2006年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2006年亞洲電視節目 "wikilink") [Category:2007年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2007年亞洲電視節目 "wikilink") [Category:2008年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2008年亞洲電視節目 "wikilink") [Category:2009年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2009年亞洲電視節目 "wikilink") [Category:2010年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2010年亞洲電視節目 "wikilink") [Category:2011年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2011年亞洲電視節目 "wikilink") [Category:2012年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2012年亞洲電視節目 "wikilink") [Category:2013年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2013年亞洲電視節目 "wikilink") [Category:2014年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2014年亞洲電視節目 "wikilink") [Category:2015年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2015年亞洲電視節目 "wikilink") [Category:2016年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2016年亞洲電視節目 "wikilink") [Category:香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目 "wikilink") [Category:香港電視娛樂旅遊節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂旅遊節目 "wikilink") [Category:2016年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2016年香港電視娛樂節目 "wikilink") [Category:2017年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2017年香港電視娛樂節目 "wikilink")
 
 1.
 

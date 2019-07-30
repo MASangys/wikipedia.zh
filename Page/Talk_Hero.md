@@ -1,5 +1,4 @@
-《**Talk
-Hero**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC的綜藝節目](../Page/JTBC.md "wikilink")，由[韓惠珍主持](https://zh.wikipedia.org/wiki/韓惠珍 "wikilink")，各集會邀請藝人明星共同參與，節目以遊戲競賽的過程，爭取脫口秀界最高的榮譽\[1\]。
+《**Talk Hero**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")的綜藝節目，由[韓惠珍主持](https://zh.wikipedia.org/wiki/韓惠珍 "wikilink")，各集會邀請藝人明星共同參與，節目以遊戲競賽的過程，爭取脫口秀界最高的榮譽\[1\]。
 
 ## 遊戲/競賽規則
 
@@ -48,13 +47,10 @@ Hero**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC
 
 ## 參考資料
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
 
 1.
 2.
 3.
 4.
-5.  [시카고 타자기
-    Naver](https://search.naver.com/search.naver?where=nexearch&query=시카고+타자기)
+5.  [시카고 타자기 Naver](https://search.naver.com/search.naver?where=nexearch&query=시카고+타자기)

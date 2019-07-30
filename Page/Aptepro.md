@@ -1,8 +1,8 @@
-**aptepro株式會社**（，）是[日本的](../Page/日本.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，主要經營[聲優事業](../Page/聲優.md "wikilink")。
+**aptepro株式會社**（，）是[日本](../Page/日本.md "wikilink")的[經紀公司](../Page/經紀公司.md "wikilink")，主要經營[聲優](../Page/聲優.md "wikilink")事業。
 
 ## 簡介
 
-此公司由身任[音響監督的](../Page/音效指導.md "wikilink")[龜山俊樹設立](../Page/龜山俊樹.md "wikilink")，為同樣由龜山擔任代表人的[grooove的子公司](https://zh.wikipedia.org/wiki/grooove "wikilink")，並有附屬養成所。
+此公司由身任[音響監督的](../Page/音效指導.md "wikilink")[龜山俊樹](../Page/龜山俊樹.md "wikilink")設立，為同樣由龜山擔任代表人的[grooove的子公司](https://zh.wikipedia.org/wiki/grooove "wikilink")，並有附屬養成所。
 
 ## 旗下聲優
 
@@ -105,9 +105,7 @@
 ## 外部連結
 
   -
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
-[Category:2010年成立的公司](https://zh.wikipedia.org/wiki/Category:2010年成立的公司 "wikilink")
+[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:2010年成立的公司](https://zh.wikipedia.org/wiki/Category:2010年成立的公司 "wikilink")
 
 1.
 2.

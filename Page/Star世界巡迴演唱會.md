@@ -1,4 +1,4 @@
-**Star世界巡迴演唱會**，是臺灣女歌手[張惠妹的演唱會](../Page/張惠妹.md "wikilink")\[1\]。
+**Star世界巡迴演唱會**，是臺灣女歌手[張惠妹](../Page/張惠妹.md "wikilink")的演唱會\[1\]。
 
 ## 巡演場次
 
@@ -525,9 +525,6 @@
 
 ## 參考資料
 
-[Category:張惠妹演唱會](https://zh.wikipedia.org/wiki/Category:張惠妹演唱會 "wikilink")
-[Category:2007年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2007年巡回演唱会 "wikilink")
-[Category:2008年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2008年巡回演唱会 "wikilink")
-[Category:2009年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2009年巡回演唱会 "wikilink")
+[Category:張惠妹演唱會](https://zh.wikipedia.org/wiki/Category:張惠妹演唱會 "wikilink") [Category:2007年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2007年巡回演唱会 "wikilink") [Category:2008年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2008年巡回演唱会 "wikilink") [Category:2009年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2009年巡回演唱会 "wikilink")
 
 1.

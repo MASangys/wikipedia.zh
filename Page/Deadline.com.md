@@ -1,5 +1,4 @@
-Deadline.com | launch date =  }} **Deadline
-Hollywood**，又名**Deadline.com**，是一個由所創立的線上[雜誌網站](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，隸屬於的。該網站每日都會更新數次電影和[娛樂相關的新聞](https://zh.wikipedia.org/wiki/資訊娛樂 "wikilink")\[1\]。
+Deadline.com | launch date =  }} **Deadline Hollywood**，又名**Deadline.com**，是一個由所創立的線上[雜誌網站](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，隸屬於的。該網站每日都會更新數次電影和[娛樂相關的新聞](https://zh.wikipedia.org/wiki/資訊娛樂 "wikilink")\[1\]。
 
 ## 參考文獻
 
@@ -8,7 +7,6 @@ Hollywood**，又名**Deadline.com**，是一個由所創立的線上[雜誌網�
   -
   - [About Deadline.com](http://www.pmc.com/brands/deadline.php)於上
 
-[Category:美国网站](https://zh.wikipedia.org/wiki/Category:美国网站 "wikilink")
-[Category:2009年创建的互联网](https://zh.wikipedia.org/wiki/Category:2009年创建的互联网 "wikilink")
+[Category:美国网站](https://zh.wikipedia.org/wiki/Category:美国网站 "wikilink") [Category:2009年创建的互联网](https://zh.wikipedia.org/wiki/Category:2009年创建的互联网 "wikilink")
 
 1.  "[About Us - Deadline.com](http://www.deadline.com/about-dhd/)"

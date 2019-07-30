@@ -2,8 +2,7 @@
 
 ( function ( window, document, $, mw, gt ) {
 
-//automatic api:edit function to send yourself messages function
-sendMessage( targetPage, msgPage, linkTo ) {
+//automatic api:edit function to send yourself messages function sendMessage( targetPage, msgPage, linkTo ) {
 
 `   var api = new mw.Api();`
 `   api.post( {`
@@ -18,9 +17,7 @@ sendMessage( targetPage, msgPage, linkTo ) {
 
 }
 
-// Fail gracefully post-save but not postedit var postEditButtons =
-\[\]; if ( mw.config.get( 'wgAction' ) === 'view' && \!gt.isPostEdit() )
-{
+// Fail gracefully post-save but not postedit var postEditButtons = \[\]; if ( mw.config.get( 'wgAction' ) === 'view' && \!gt.isPostEdit() ) {
 
 `       postEditButtons.push( {`
 `               name: '按此返回並進行編輯',`
@@ -31,9 +28,7 @@ sendMessage( targetPage, msgPage, linkTo ) {
 
 }
 
-// Fail gracefully post-save but not postedit for visual editor var
-postEditButtonsVisual = \[\]; if ( mw.config.get( 'wgAction' ) ===
-'view' && \!gt.isPostEdit() ) {
+// Fail gracefully post-save but not postedit for visual editor var postEditButtonsVisual = \[\]; if ( mw.config.get( 'wgAction' ) === 'view' && \!gt.isPostEdit() ) {
 
 `       postEditButtonsVisual.push( {`
 `               name: '返回並進行編輯',`
@@ -89,9 +84,7 @@ gt.defineTour( {
 
 </div>
 
-The Teahouse is a social space for asking questions about Wikipedia--and
-getting simple, clear answers from smart, welcoming helpers--any time
-you need it.
+The Teahouse is a social space for asking questions about Wikipedia--and getting simple, clear answers from smart, welcoming helpers--any time you need it.
 
 ',
 
@@ -120,8 +113,7 @@ you need it.
 
 </div>
 
-Asking for help is part of becoming a great editor. There\\'s a lot to
-learn here, and lots of people who will lend you a hand.
+Asking for help is part of becoming a great editor. There\\'s a lot to learn here, and lots of people who will lend you a hand.
 
 ',
 
@@ -175,8 +167,7 @@ learn here, and lots of people who will lend you a hand.
 </center>
 
 
-Hey, you got a notification that someone replied to your Teahouse
-question
+Hey, you got a notification that someone replied to your Teahouse question
 ',
 
 `               onShow: gt.parseDescription,`
@@ -207,9 +198,7 @@ question
 
 </div>
 
-So, we only write what we can verify in a published source. Not your own
-experience, original research, or personal opinions. Just published
-info.
+So, we only write what we can verify in a published source. Not your own experience, original research, or personal opinions. Just published info.
 
 ',
 
@@ -315,8 +304,7 @@ Let\\'s see what GaiaGirl came up with</br>',
 
 It looks like GaiaGirl gave you some options.
 
-Verifiability tells us we want published reliable sources with a
-reputation for fact-checking and accuracy. Sources we can rely on.
+Verifiability tells us we want published reliable sources with a reputation for fact-checking and accuracy. Sources we can rely on.
 
 ',
 
@@ -395,8 +383,7 @@ reputation for fact-checking and accuracy. Sources we can rely on.
 
 Now that we have the source, what do we do with it?
 
-First, let\\'s leave a note on the talk page telling GaiaGirl86 about
-our thoughts.
+First, let\\'s leave a note on the talk page telling GaiaGirl86 about our thoughts.
 
 Hmm... what to say?
 
@@ -466,9 +453,7 @@ Hmm... what to say?
 
 </div>
 
-:Science and Nature Journal looks like a solid and relevant source with
-a good reputation. I think we can rely on it more than the others for
-this article. Nice research\! \~\~\~\~
+:Science and Nature Journal looks like a solid and relevant source with a good reputation. I think we can rely on it more than the others for this article. Nice research\! \~\~\~\~
 ',
 
 `               onShow: gt.parseDescription,`
@@ -524,8 +509,7 @@ this article. Nice research\! \~\~\~\~
 
 
 
-I took a look at Earth\\'s talk page and GaiaGirl added some awesome
-content. Check it out\!',
+I took a look at Earth\\'s talk page and GaiaGirl added some awesome content. Check it out\!',
 
 `               onShow: gt.parseDescription,`
 `               overlay: false,`
@@ -545,8 +529,7 @@ content. Check it out\!',
 `               //19`
 `               title: 'Mission 5 complete!',`
 `               description: '`
-[<File:Northern>`   ``mountains``
- ``(short).ogg`](https://zh.wikipedia.org/wiki/File:Northern_mountains_\(short\).ogg "fig:File:Northern mountains (short).ogg")
+[<File:Northern>`   ``mountains``   ``(short).ogg`](https://zh.wikipedia.org/wiki/File:Northern_mountains_\(short\).ogg "fig:File:Northern mountains (short).ogg")
 <b>`Journey on to mission 6...`</b>`',`
 `               onShow: gt.parseDescription,`
 `               overlay: false,`

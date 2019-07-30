@@ -1,5 +1,4 @@
-**My Emulator Doesn't Need A Frickin' Excellent Name**
-（Mednafen），之前称为**Nintencer**，是一款对多系统游戏平台的模拟软件。软件中含有多个第三方模拟核心，并且使用命令行输入。\[1\]\[2\]
+**My Emulator Doesn't Need A Frickin' Excellent Name** （Mednafen），之前称为**Nintencer**，是一款对多系统游戏平台的模拟软件。软件中含有多个第三方模拟核心，并且使用命令行输入。\[1\]\[2\]
 
 软件可以在Microsoft Windows、Linux、OpenBSD、PlayStation 3、RISC OS和Wii上运行。
 
@@ -26,8 +25,7 @@
 
 ## 参考资料
 
-[Category:自由仿真软件](https://zh.wikipedia.org/wiki/Category:自由仿真软件 "wikilink")
-[Category:遊戲機模擬器](https://zh.wikipedia.org/wiki/Category:遊戲機模擬器 "wikilink")
+[Category:自由仿真软件](https://zh.wikipedia.org/wiki/Category:自由仿真软件 "wikilink") [Category:遊戲機模擬器](https://zh.wikipedia.org/wiki/Category:遊戲機模擬器 "wikilink")
 
 1.
 

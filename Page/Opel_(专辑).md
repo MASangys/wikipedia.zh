@@ -1,11 +1,6 @@
-《[Opel](../Page/Opel_\(专辑\).md "wikilink")》是平克·弗洛伊德创始人[西德·巴雷特](../Page/西德·巴雷特.md "wikilink")1988年的精选集，在1968年至1970年录音。这张专辑收录了巴雷特独唱专辑《The
-Madcap
-Laughs》和《Barrett》以及在[平克·弗洛伊德时期未发表的歌曲](../Page/平克·弗洛伊德.md "wikilink")《Scream
-Thy Last Scream》和《Vegetable Man》。
+《[Opel](../Page/Opel_\(专辑\).md "wikilink")》是平克·弗洛伊德创始人[西德·巴雷特](../Page/西德·巴雷特.md "wikilink")1988年的精选集，在1968年至1970年录音。这张专辑收录了巴雷特独唱专辑《The Madcap Laughs》和《Barrett》以及在[平克·弗洛伊德](../Page/平克·弗洛伊德.md "wikilink")时期未发表的歌曲《Scream Thy Last Scream》和《Vegetable Man》。
 
-《Opel》于1988年10月在英国的Harvest和美国的[Capitol上发布](../Page/國會音樂集團.md "wikilink")。这张专辑于1993年重新制作并重新发行，与巴雷特的其他专辑《The
-Madcap Laughs》和《Barrett》一起独立发行，并作为套装《[Crazy
-Diamond](../Page/Crazy_Diamond.md "wikilink")》的一部分。2010年发布了新版本。
+《Opel》于1988年10月在英国的Harvest和美国的[Capitol上发布](../Page/國會音樂集團.md "wikilink")。这张专辑于1993年重新制作并重新发行，与巴雷特的其他专辑《The Madcap Laughs》和《Barrett》一起独立发行，并作为套装《[Crazy Diamond](../Page/Crazy_Diamond.md "wikilink")》的一部分。2010年发布了新版本。
 
 ## 曲目
 

@@ -1,19 +1,14 @@
-**Bambino**（[韩国语](https://zh.wikipedia.org/wiki/韓國語 "wikilink")：밤비노）是JS娛樂于2015年推出的韓國4人[女子音樂團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")。在2015年6月23日，[Bambino發行她們的第一張單曲](../Page/Bambino.md "wikilink")《오빠오빠（哥哥
-哥哥）》並正式出道。\[1\]
+**Bambino**（[韩国语](https://zh.wikipedia.org/wiki/韓國語 "wikilink")：밤비노）是JS娛樂于2015年推出的韓國4人[女子音樂團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")。在2015年6月23日，[Bambino](../Page/Bambino.md "wikilink")發行她們的第一張單曲《오빠오빠（哥哥 哥哥）》並正式出道。\[1\]
 
 ## 經歷
 
 ### 出道前
 
-Bambino在2014年9月12日創建了官方Facebook賬號并在其頁面發佈了4位成員的預告照。她們以Bambino成員身份向外宣傳。該組合在一些高中和大學中表演，唱跳表演的歌曲有[Redfoo的](https://zh.wikipedia.org/wiki/Redfoo "wikilink")《New
-Thang》、[EXID的](https://zh.wikipedia.org/wiki/EXID "wikilink")《Up &
-Down》和馬克·朗森的《Uptown
-Funk》等。成員Eunsol因爲幾個她的影片累計超過一百萬點擊量吸引了人們關注，她被人稱爲“第二個[Hani](https://zh.wikipedia.org/wiki/Hani "wikilink")”。
+Bambino在2014年9月12日創建了官方Facebook賬號并在其頁面發佈了4位成員的預告照。她們以Bambino成員身份向外宣傳。該組合在一些高中和大學中表演，唱跳表演的歌曲有[Redfoo的](https://zh.wikipedia.org/wiki/Redfoo "wikilink")《New Thang》、[EXID的](https://zh.wikipedia.org/wiki/EXID "wikilink")《Up & Down》和馬克·朗森的《Uptown Funk》等。成員Eunsol因爲幾個她的影片累計超過一百萬點擊量吸引了人們關注，她被人稱爲“第二個[Hani](https://zh.wikipedia.org/wiki/Hani "wikilink")”。
 
 ### 2015年：以《오빠오빠》出道
 
-6月5日，Bambino在她們的Facebook官方頁面上發出幾張預告照並宣稱她們在6月份會發行單曲《오빠오빠》。Bambino在6月23日發行單曲《오빠오빠》並在6月27日于[首爾](../Page/首爾.md "wikilink")[東大門舉行showcase](https://zh.wikipedia.org/wiki/東大門 "wikilink")。\[2\]\[3\]
-在粉丝们拍摄的视频中，Bambino被稱爲“Fancam女神”。\[4\]
+6月5日，Bambino在她們的Facebook官方頁面上發出幾張預告照並宣稱她們在6月份會發行單曲《오빠오빠》。Bambino在6月23日發行單曲《오빠오빠》並在6月27日于[首爾](../Page/首爾.md "wikilink")[東大門舉行showcase](https://zh.wikipedia.org/wiki/東大門 "wikilink")。\[2\]\[3\] 在粉丝们拍摄的视频中，Bambino被稱爲“Fancam女神”。\[4\]
 
 該組合做了一個360°全景視頻版的MV，該MV有1千萬的點擊量並獲得了30000個讚。\[5\]
 
@@ -91,10 +86,7 @@ Funk》等。成員Eunsol因爲幾個她的影片累計超過一百萬點擊量�
 
 ### JS娛樂
 
-  - JS娛樂第一屆音樂會 ([Bambino](../Page/Bambino.md "wikilink"),
-    [Laysha](https://zh.wikipedia.org/wiki/Laysha "wikilink"),
-    [Diana](https://zh.wikipedia.org/wiki/Diana "wikilink"), [Rampage
-    Guys](https://zh.wikipedia.org/wiki/Rampage_Guys "wikilink"))\[7\]
+  - JS娛樂第一屆音樂會 ([Bambino](../Page/Bambino.md "wikilink"), [Laysha](https://zh.wikipedia.org/wiki/Laysha "wikilink"), [Diana](https://zh.wikipedia.org/wiki/Diana "wikilink"), [Rampage Guys](https://zh.wikipedia.org/wiki/Rampage_Guys "wikilink"))\[7\]
 
 ## 爭議
 
@@ -109,20 +101,14 @@ Funk》等。成員Eunsol因爲幾個她的影片累計超過一百萬點擊量�
   - [Bambino's Fancafe](http://cafe.daum.net/BAMBINo)
 
   -
-[Category:含有冗余参数的引用的页面](https://zh.wikipedia.org/wiki/Category:含有冗余参数的引用的页面 "wikilink")
-[Category:CS1American_English来源_(en-us)](https://zh.wikipedia.org/wiki/Category:CS1American_English来源_\(en-us\) "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
+[Category:含有冗余参数的引用的页面](https://zh.wikipedia.org/wiki/Category:含有冗余参数的引用的页面 "wikilink") [Category:CS1American_English来源_(en-us)](https://zh.wikipedia.org/wiki/Category:CS1American_English来源_\(en-us\) "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
 
 1.
 2.
 3.
 4.
 5.
-6.  `|work=`和`|newspaper=`只需其一
-    ([帮助](https://zh.wikipedia.org/wiki/Help:引文格式1错误#redundant_parameters "wikilink"))
+6.  `|work=`和`|newspaper=`只需其一 ([帮助](https://zh.wikipedia.org/wiki/Help:引文格式1错误#redundant_parameters "wikilink"))
 7.
 8.
-9.  [沒穿內褲？韓國女子團體被粉絲看光](https://tw.appledaily.com/new/realtime/20150727/655900/)
-    蘋果日報，2015年7月27日
+9.  [沒穿內褲？韓國女子團體被粉絲看光](https://tw.appledaily.com/new/realtime/20150727/655900/) 蘋果日報，2015年7月27日

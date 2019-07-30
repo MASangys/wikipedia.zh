@@ -1,17 +1,10 @@
-**Zion.T**（，），原名**金海率**（音譯，），[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")。他從與其他歌手合作開始他的職業生涯，並推出廣受好評的個人專輯\[1\]。[MTV伊基將其](https://zh.wikipedia.org/wiki/MTV "wikilink")2013年的正規專輯《Red
-Light》稱作「2013年度最佳R\&B/靈魂專輯」\[2\]。
+**Zion.T**（，），原名**金海率**（音譯，），[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")。他從與其他歌手合作開始他的職業生涯，並推出廣受好評的個人專輯\[1\]。[MTV伊基將其](https://zh.wikipedia.org/wiki/MTV "wikilink")2013年的正規專輯《Red Light》稱作「2013年度最佳R\&B/靈魂專輯」\[2\]。
 
 ## 介紹
 
-2016年4月9日 Zion.T與Amoeba Culture結束三年合約，正式簽入[YG
-娛樂旗下公司The](../Page/YG娛樂.md "wikilink") Black Label。\[3\]
+2016年4月9日 Zion.T與Amoeba Culture結束三年合約，正式簽入[YG 娛樂旗下公司The](../Page/YG娛樂.md "wikilink") Black Label。\[3\]
 
-Zion.T招牌的墨鏡跟合身的穿著，是大多數人對 Zion.T
-的第一印象，加上特別的扁嗓音、沒有人能模仿的轉音，讓人聽過便難以忘記他的歌曲。Zion.T
-更大的特色是將生活細碎的事情寫到歌詞中，容易使聽眾產生共鳴，像出道曲《Click
-Me》開頭前三句先直接寫出自己編曲的方式，再來介紹自己，副歌則毫不做作直說「如果我的嗓音正合你意的話，不要猶豫
-click me click, click me」。與其說是歌手，Zion. T
-更像是個說故事的人。\[4\]歌聲擁有個人特色的他，早年在獨立音樂廠牌時期，只用極少的資源做宣傳，就能在一片偶像團體霸佔的音源榜上殺出重圍，這就是韓國媒體封他為音源強盜的原因\[5\]。
+Zion.T招牌的墨鏡跟合身的穿著，是大多數人對 Zion.T 的第一印象，加上特別的扁嗓音、沒有人能模仿的轉音，讓人聽過便難以忘記他的歌曲。Zion.T 更大的特色是將生活細碎的事情寫到歌詞中，容易使聽眾產生共鳴，像出道曲《Click Me》開頭前三句先直接寫出自己編曲的方式，再來介紹自己，副歌則毫不做作直說「如果我的嗓音正合你意的話，不要猶豫 click me click, click me」。與其說是歌手，Zion. T 更像是個說故事的人。\[4\]歌聲擁有個人特色的他，早年在獨立音樂廠牌時期，只用極少的資源做宣傳，就能在一片偶像團體霸佔的音源榜上殺出重圍，這就是韓國媒體封他為音源強盜的原因\[5\]。
 
 ## 音樂作品
 
@@ -708,13 +701,7 @@ click me click, click me」。與其說是歌手，Zion. T
   -
   -
   -
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink")
-[Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink")
-[Category:韓國創作歌手](https://zh.wikipedia.org/wiki/Category:韓國創作歌手 "wikilink")
-[Category:韓國新教徒](https://zh.wikipedia.org/wiki/Category:韓國新教徒 "wikilink")
-[Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
+[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink") [Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink") [Category:韓國創作歌手](https://zh.wikipedia.org/wiki/Category:韓國創作歌手 "wikilink") [Category:韓國新教徒](https://zh.wikipedia.org/wiki/Category:韓國新教徒 "wikilink") [Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
 
 1.
 2.

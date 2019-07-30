@@ -1,6 +1,4 @@
-《**七龍珠Z 復活的融合\!\!悟空和贝吉塔**》（，[英语](../Page/英语.md "wikilink"): Dragon Ball
-Z: The Rebirth of Fusion\!\! Goku and
-Vegeta），是[七龍珠在](../Page/七龙珠.md "wikilink")1995年3月4日上映的第15部劇場版動畫。\[1\]故事时间在在[魔人布欧事件之后](https://zh.wikipedia.org/wiki/魔人布欧 "wikilink")。
+《**七龍珠Z 復活的融合\!\!悟空和贝吉塔**》（，[英语](../Page/英语.md "wikilink"): Dragon Ball Z: The Rebirth of Fusion\!\! Goku and Vegeta），是[七龍珠在](../Page/七龙珠.md "wikilink")1995年3月4日上映的第15部劇場版動畫。\[1\]故事时间在在[魔人布欧事件之后](https://zh.wikipedia.org/wiki/魔人布欧 "wikilink")。
 
 ## 配音員
 
@@ -192,7 +190,7 @@ Vegeta），是[七龍珠在](../Page/七龙珠.md "wikilink")1995年3月4日上
 <!-- end list -->
 
   -
-    [集英社在](../Page/集英社.md "wikilink")1995年6月3日發售。
+    [集英社](../Page/集英社.md "wikilink")在1995年6月3日發售。
 
 <!-- end list -->
 
@@ -201,8 +199,7 @@ Vegeta），是[七龍珠在](../Page/七龙珠.md "wikilink")1995年3月4日上
 <!-- end list -->
 
   -
-    集英社在1995年8月26日發售的彩色漫畫，臺灣是由[東立出版社代理正體中文版](../Page/東立出版社.md "wikilink")，在1997年7月25日發售《七龍珠Z
-    悟空與達爾合體復活\!》（ISBN 9573452472）。\[2\]
+    集英社在1995年8月26日發售的彩色漫畫，臺灣是由[東立出版社](../Page/東立出版社.md "wikilink")代理正體中文版，在1997年7月25日發售《七龍珠Z 悟空與達爾合體復活\!》（ISBN 9573452472）。\[2\]
 
 ## 參考來源
 
@@ -211,12 +208,7 @@ Vegeta），是[七龍珠在](../Page/七龙珠.md "wikilink")1995年3月4日上
   - [七龍珠劇場版歷史](https://web.archive.org/web/20090130013807/http://www.toei-anim.co.jp/ptr/dragonball/movie/)東映
 
   -
-[Category:七龙珠电影](https://zh.wikipedia.org/wiki/Category:七龙珠电影 "wikilink")
-[Category:1995年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1995年日本劇場動畫 "wikilink")
-[Category:山內重保電影](https://zh.wikipedia.org/wiki/Category:山內重保電影 "wikilink")
+[Category:七龙珠电影](https://zh.wikipedia.org/wiki/Category:七龙珠电影 "wikilink") [Category:1995年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1995年日本劇場動畫 "wikilink") [Category:山內重保電影](https://zh.wikipedia.org/wiki/Category:山內重保電影 "wikilink")
 
-1.  [Dragon Ball Z: Fusion Reborn
-    (movie 12)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=990)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+1.  [Dragon Ball Z: Fusion Reborn (movie 12)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=990)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 2.  [彩色七龍珠Z17：悟空與達爾合體復活！](https://findbook.tw/book/9789573452478/basic)Findbook

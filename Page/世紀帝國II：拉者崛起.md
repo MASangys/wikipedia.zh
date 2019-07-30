@@ -1,6 +1,6 @@
-是1999年[即時戰略遊戲](https://zh.wikipedia.org/wiki/即時戰略遊戲 "wikilink")《[世紀帝國II：帝王世紀](../Page/世紀帝國II：帝王世紀.md "wikilink")》的第四個[擴充資料片](https://zh.wikipedia.org/wiki/資料片 "wikilink")，僅限於[Steam平台的HD版本](../Page/Steam.md "wikilink")。本資料片新增了四個[東南亞文明且更新了印度種族的建築風格](https://zh.wikipedia.org/wiki/東南亞 "wikilink")，遊戲中也增加了一些新單位、建築和物件。
+是1999年[即時戰略遊戲](https://zh.wikipedia.org/wiki/即時戰略遊戲 "wikilink")《[世紀帝國II：帝王世紀](../Page/世紀帝國II：帝王世紀.md "wikilink")》的第四個[擴充資料片](https://zh.wikipedia.org/wiki/資料片 "wikilink")，僅限於[Steam](../Page/Steam.md "wikilink")平台的HD版本。本資料片新增了四個[東南亞文明且更新了印度種族的建築風格](https://zh.wikipedia.org/wiki/東南亞 "wikilink")，遊戲中也增加了一些新單位、建築和物件。
 
-[拉者為](https://zh.wikipedia.org/wiki/拉者 "wikilink")[南亞](https://zh.wikipedia.org/wiki/南亞 "wikilink")、[東南亞以及](https://zh.wikipedia.org/wiki/東南亞 "wikilink")[印度等地對](../Page/印度.md "wikilink")[國王](https://zh.wikipedia.org/wiki/國王 "wikilink")、君主或[酋長的稱呼](https://zh.wikipedia.org/wiki/酋長 "wikilink")，又譯作拉惹。
+[拉者為](https://zh.wikipedia.org/wiki/拉者 "wikilink")[南亞](https://zh.wikipedia.org/wiki/南亞 "wikilink")、[東南亞以及](https://zh.wikipedia.org/wiki/東南亞 "wikilink")[印度](../Page/印度.md "wikilink")等地對[國王](https://zh.wikipedia.org/wiki/國王 "wikilink")、君主或[酋長的稱呼](https://zh.wikipedia.org/wiki/酋長 "wikilink")，又譯作拉惹。
 
 ## 遊戲內容
 
@@ -42,7 +42,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/緬族" title="wikilink">緬甸人</a></p></td>
 <td><p>東南亞</p></td>
 <td><p>騎兵與僧侶種族</p></td>
-<td><p><a href="../Page/飛鏢.md" title="wikilink">飛鏢騎兵</a></p></td>
+<td><p><a href="../Page/飛鏢.md" title="wikilink">飛鏢</a>騎兵</p></td>
 <td><p>象橋、<a href="https://zh.wikipedia.org/wiki/曼尼普爾騎兵" title="wikilink">曼尼普爾騎兵</a></p></td>
 <td><p><a href="../Page/仰光大金寺.md" title="wikilink">仰光大金寺</a></p></td>
 </tr>
@@ -59,8 +59,4 @@
 
 ## 参考资料
 
-[Category:世紀帝國系列](https://zh.wikipedia.org/wiki/Category:世紀帝國系列 "wikilink")
-[Category:2016年電子遊戲](https://zh.wikipedia.org/wiki/Category:2016年電子遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:微軟遊戲](https://zh.wikipedia.org/wiki/Category:微軟遊戲 "wikilink")
-[Category:資料片](https://zh.wikipedia.org/wiki/Category:資料片 "wikilink")
+[Category:世紀帝國系列](https://zh.wikipedia.org/wiki/Category:世紀帝國系列 "wikilink") [Category:2016年電子遊戲](https://zh.wikipedia.org/wiki/Category:2016年電子遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:微軟遊戲](https://zh.wikipedia.org/wiki/Category:微軟遊戲 "wikilink") [Category:資料片](https://zh.wikipedia.org/wiki/Category:資料片 "wikilink")

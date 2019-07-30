@@ -1,4 +1,4 @@
-是由同人組織[上海愛莉絲幻樂團發布的](../Page/上海愛莉絲幻樂團.md "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，為[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")16作。
+是由同人組織[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")發布的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，為[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")16作。
 
 ## 玩法
 
@@ -258,16 +258,11 @@ Hidden Star in Fifth Season</p></td>
 
 ## 外部連結
 
-  - [steam上的《東方天空璋 ～ Hidden Star in Four
-    Seasons》](http://store.steampowered.com/app/745880/__Hidden_Star_in_Four_Seasons/)
+  - [steam上的《東方天空璋 ～ Hidden Star in Four Seasons》](http://store.steampowered.com/app/745880/__Hidden_Star_in_Four_Seasons/)
 
 ## 註釋
 
-[Category:2017年电子游戏](https://zh.wikipedia.org/wiki/Category:2017年电子游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
-[Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
+[Category:2017年电子游戏](https://zh.wikipedia.org/wiki/Category:2017年电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink") [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
 
 1.  在遊戲中標註為復仇關（Revenging Stage）
 2.  使用春裝備會發動「裏・ブリージーチェリーブロッサム」

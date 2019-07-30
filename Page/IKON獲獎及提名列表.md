@@ -1,6 +1,4 @@
-《**iKON獲獎及提名列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[iKON出道至今於頒獎典禮](https://zh.wikipedia.org/wiki/iKON "wikilink")、音樂節目的獲獎與提名。在2015年成功亮相之後，該組合已在韓國大型音樂頒獎典禮「[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")」、「[甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")」、「[首爾音樂獎](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")」、「[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")」及「[Gaon
-Chart
-K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」均獲頒最佳新人獎，而在2016年iKON專注於在[日本與](../Page/日本.md "wikilink")[中國的演藝活動](../Page/中國.md "wikilink")，並讓他們陸續在「[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")」、「[日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")」以及中國「」中成功取得新人獎獎座。
+《**iKON獲獎及提名列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[iKON出道至今於頒獎典禮](https://zh.wikipedia.org/wiki/iKON "wikilink")、音樂節目的獲獎與提名。在2015年成功亮相之後，該組合已在韓國大型音樂頒獎典禮「[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")」、「[甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")」、「[首爾音樂獎](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")」、「[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")」及「[Gaon Chart K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」均獲頒最佳新人獎，而在2016年iKON專注於在[日本](../Page/日本.md "wikilink")與[中國](../Page/中國.md "wikilink")的演藝活動，並讓他們陸續在「[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")」、「[日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")」以及中國「」中成功取得新人獎獎座。
 
 ## 韓國
 
@@ -119,7 +117,7 @@ K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」均獲頒最佳新�
 </tbody>
 </table>
 
-### [甜瓜音樂獎（Melon Music Awards）](../Page/甜瓜音樂獎.md "wikilink")
+### [甜瓜音樂獎 Music Awards）](../Page/甜瓜音樂獎.md "wikilink")（Melon
 
 <table>
 <thead>
@@ -170,7 +168,7 @@ K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」均獲頒最佳新�
 </tbody>
 </table>
 
-### [Mnet亞洲音樂大獎（Mnet Asian Music Awards）](../Page/Mnet亞洲音樂大獎.md "wikilink")
+### [Mnet亞洲音樂大獎 Asian Music Awards）](../Page/Mnet亞洲音樂大獎.md "wikilink")（Mnet
 
 <table>
 <thead>
@@ -775,8 +773,7 @@ K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」均獲頒最佳新�
 
 ## 參考文獻
 
-[Category:iKON](https://zh.wikipedia.org/wiki/Category:iKON "wikilink")
-[Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink")
+[Category:iKON](https://zh.wikipedia.org/wiki/Category:iKON "wikilink") [Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink")
 
 1.
 2.

@@ -1,6 +1,4 @@
-《**Buzzer Beater**》（韓語：버저
-비터）是韓國[tvN電視台於](https://zh.wikipedia.org/wiki/tvN "wikilink")2017年2月推出的全新綜藝節目\[1\]，由
-[李尚允](https://zh.wikipedia.org/wiki/李尚允 "wikilink")、[朴載範](../Page/朴載範.md "wikilink")\[2\]、[鄭珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")、[禹智元](https://zh.wikipedia.org/wiki/禹智元 "wikilink")、[玄周燁](https://zh.wikipedia.org/wiki/玄周燁 "wikilink")、[楊熙勝](https://zh.wikipedia.org/wiki/楊熙勝 "wikilink")、[金勳等人主持](https://zh.wikipedia.org/wiki/金勳 "wikilink")，分別率領不同的隊伍展開對決的綜藝節目。
+《**Buzzer Beater**》（韓語：버저 비터）是韓國[tvN電視台於](https://zh.wikipedia.org/wiki/tvN "wikilink")2017年2月推出的全新綜藝節目\[1\]，由 [李尚允](https://zh.wikipedia.org/wiki/李尚允 "wikilink")、[朴載範](../Page/朴載範.md "wikilink")\[2\]、[鄭珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")、[禹智元](https://zh.wikipedia.org/wiki/禹智元 "wikilink")、[玄周燁](https://zh.wikipedia.org/wiki/玄周燁 "wikilink")、[楊熙勝](https://zh.wikipedia.org/wiki/楊熙勝 "wikilink")、[金勳等人主持](https://zh.wikipedia.org/wiki/金勳 "wikilink")，分別率領不同的隊伍展開對決的綜藝節目。
 
 ## 明星/球員隊伍
 
@@ -26,12 +24,9 @@
 
 ## 參考資料
 
-[Category:tvN](https://zh.wikipedia.org/wiki/Category:tvN "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:tvN](https://zh.wikipedia.org/wiki/Category:tvN "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
 1.
 2.
 3.  [TNmS收視數據表](http://www.tnms.tv/rating/default.asp)
-4.  [AGB Nielsen Media
-    Research收視數據表](http://www.agbnielsen.co.kr/index.asp?ref=0)
+4.  [AGB Nielsen Media Research收視數據表](http://www.agbnielsen.co.kr/index.asp?ref=0)

@@ -1,42 +1,8 @@
-[Stargate_SG-1_1997_logo.svg](https://zh.wikipedia.org/wiki/File:Stargate_SG-1_1997_logo.svg "fig:Stargate_SG-1_1997_logo.svg")
-**《星际之门：SG-1》**（Stargate
-SG-1）是一部于1997年至2007年播映的[美国科幻](../Page/美国.md "wikilink")[电视连续剧](https://zh.wikipedia.org/wiki/电视连续剧 "wikilink")，共有10季。\[1\]\[2\]
+[Stargate_SG-1_1997_logo.svg](https://zh.wikipedia.org/wiki/File:Stargate_SG-1_1997_logo.svg "fig:Stargate_SG-1_1997_logo.svg") **《星际之门：SG-1》**（Stargate SG-1）是一部于1997年至2007年播映的[美国](../Page/美国.md "wikilink")科幻[电视连续剧](https://zh.wikipedia.org/wiki/电视连续剧 "wikilink")，共有10季。\[1\]\[2\]
 
 ## 剧集总览
 
-<onlyinclude>{| class="wikitable plainrowheaders"
-style="text-align:center;" |- \! scope="col" rowspan="2" colspan="2" | 季
-\! scope="col" rowspan="2" | 集数 \! scope="col" colspan="2" | 首播 \!
-scope="col" rowspan="2" | 美国电视网 |- \! scope="col" | 首集 \! scope="col" |
-末集 |- | scope="row" style="background-color: \#2950BC; color:
-\#ffffff;| |
-[1](https://zh.wikipedia.org/wiki/\<includeonly\>List_of_Stargate_SG-1_episodes\</includeonly\>#Season_1_\(2001–02\) "wikilink")
-| 22 |  |
-|rowspan=5|[娛樂時間電視網](https://zh.wikipedia.org/wiki/娛樂時間電視網 "wikilink")
-|- | scope="row" style="background-color: \#D1833B;"| |
-[2](https://zh.wikipedia.org/wiki/\<includeonly\>List_of_Stargate_SG-1_episodes\</includeonly\>#Season_2_\(2002–03\) "wikilink")
-| 22 |  |  |- | scope="row" style="background-color: \#14663D; color:
-\#ffffff;"| |
-[3](https://zh.wikipedia.org/wiki/\<includeonly\>List_of_Stargate_SG-1_episodes\</includeonly\>#Season_3_\(2003–04\) "wikilink")
-| 22 |  |  |- | scope="row" style="background-color: \#AE1D1D; color:
-\#ffffff;"| |
-[4](https://zh.wikipedia.org/wiki/\<includeonly\>List_of_Stargate_SG-1_episodes\</includeonly\>#Season_4_\(2004–05\) "wikilink")
-| 22 |  |  |- | scope="row" style="background-color: \#800080; color:
-\#ffffff;"| |
-[5](https://zh.wikipedia.org/wiki/\<includeonly\>List_of_Stargate_SG-1_episodes\</includeonly\>#Season_5_\(2005–06\) "wikilink")
-| 22 |  |  |- | scope="row" style="background-color: \#ffbf00; color:
-\#000;"| |
-[6](https://zh.wikipedia.org/wiki/\<includeonly\>List_of_Stargate_SG-1_episodes\</includeonly\>#Season_6_\(2006–07\) "wikilink")
-| 22 |  |  |rowspan=5|[Syfy](../Page/Syfy.md "wikilink") |- |
-scope="row" style="background-color: \#00626E; color: \#ffffff;"| |
-[7](https://zh.wikipedia.org/wiki/\<includeonly\>List_of_Stargate_SG-1_episodes\</includeonly\>#Season_7_\(2007–08\) "wikilink")
-| 22 |  |  |- | scope="row" style="width:5px; background:\#AC1A1A;"| |
-[8](https://zh.wikipedia.org/wiki/\<includeonly\>List_of_Stargate_SG-1_episodes\</includeonly\>#Season_8_\(2008–09\) "wikilink")
-| 20 |  |  |- | scope="row" style="width:5px; background:\#36454F;"| |
-[9](https://zh.wikipedia.org/wiki/\<includeonly\>List_of_Stargate_SG-1_episodes\</includeonly\>#Season_9_\(2009–10\) "wikilink")
-| 20 |  |  |- | scope="row" style="width:5px; background:\#00168F;"| |
-[10](https://zh.wikipedia.org/wiki/\<includeonly\>List_of_Stargate_SG-1_episodes\</includeonly\>#Season_10_\(2010–11\) "wikilink")
-| 20 |  |  |}</onlyinclude>
+<onlyinclude>{| class="wikitable plainrowheaders" style="text-align:center;" |- \! scope="col" rowspan="2" colspan="2" | 季 \! scope="col" rowspan="2" | 集数 \! scope="col" colspan="2" | 首播 \! scope="col" rowspan="2" | 美国电视网 |- \! scope="col" | 首集 \! scope="col" | 末集 |- | scope="row" style="background-color: \#2950BC; color: \#ffffff;| | [1](https://zh.wikipedia.org/wiki/\<includeonly\>List_of_Stargate_SG-1_episodes\</includeonly\>#Season_1_\(2001–02\) "wikilink") | 22 |  |  |rowspan=5|[娛樂時間電視網](https://zh.wikipedia.org/wiki/娛樂時間電視網 "wikilink") |- | scope="row" style="background-color: \#D1833B;"| | [2](https://zh.wikipedia.org/wiki/\<includeonly\>List_of_Stargate_SG-1_episodes\</includeonly\>#Season_2_\(2002–03\) "wikilink") | 22 |  |  |- | scope="row" style="background-color: \#14663D; color: \#ffffff;"| | [3](https://zh.wikipedia.org/wiki/\<includeonly\>List_of_Stargate_SG-1_episodes\</includeonly\>#Season_3_\(2003–04\) "wikilink") | 22 |  |  |- | scope="row" style="background-color: \#AE1D1D; color: \#ffffff;"| | [4](https://zh.wikipedia.org/wiki/\<includeonly\>List_of_Stargate_SG-1_episodes\</includeonly\>#Season_4_\(2004–05\) "wikilink") | 22 |  |  |- | scope="row" style="background-color: \#800080; color: \#ffffff;"| | [5](https://zh.wikipedia.org/wiki/\<includeonly\>List_of_Stargate_SG-1_episodes\</includeonly\>#Season_5_\(2005–06\) "wikilink") | 22 |  |  |- | scope="row" style="background-color: \#ffbf00; color: \#000;"| | [6](https://zh.wikipedia.org/wiki/\<includeonly\>List_of_Stargate_SG-1_episodes\</includeonly\>#Season_6_\(2006–07\) "wikilink") | 22 |  |  |rowspan=5|[Syfy](../Page/Syfy.md "wikilink") |- | scope="row" style="background-color: \#00626E; color: \#ffffff;"| | [7](https://zh.wikipedia.org/wiki/\<includeonly\>List_of_Stargate_SG-1_episodes\</includeonly\>#Season_7_\(2007–08\) "wikilink") | 22 |  |  |- | scope="row" style="width:5px; background:\#AC1A1A;"| | [8](https://zh.wikipedia.org/wiki/\<includeonly\>List_of_Stargate_SG-1_episodes\</includeonly\>#Season_8_\(2008–09\) "wikilink") | 20 |  |  |- | scope="row" style="width:5px; background:\#36454F;"| | [9](https://zh.wikipedia.org/wiki/\<includeonly\>List_of_Stargate_SG-1_episodes\</includeonly\>#Season_9_\(2009–10\) "wikilink") | 20 |  |  |- | scope="row" style="width:5px; background:\#00168F;"| | [10](https://zh.wikipedia.org/wiki/\<includeonly\>List_of_Stargate_SG-1_episodes\</includeonly\>#Season_10_\(2010–11\) "wikilink") | 20 |  |  |}</onlyinclude>
 
 Episodes in **bold** combine for a two or three part story
 
@@ -324,8 +290,7 @@ Episodes in **bold** combine for a two or three part story
 
 ## 参考资料
 
-[Category:美國電視劇各集列表](https://zh.wikipedia.org/wiki/Category:美國電視劇各集列表 "wikilink")
-[Category:星际之门](https://zh.wikipedia.org/wiki/Category:星际之门 "wikilink")
+[Category:美國電視劇各集列表](https://zh.wikipedia.org/wiki/Category:美國電視劇各集列表 "wikilink") [Category:星际之门](https://zh.wikipedia.org/wiki/Category:星际之门 "wikilink")
 
 1.
 2.

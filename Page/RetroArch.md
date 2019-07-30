@@ -1,7 +1,6 @@
-**RetroArch**(復古拱門)是一款電玩[模擬器](https://zh.wikipedia.org/wiki/模擬器 "wikilink")，開放源碼採用[GNU通用公共许可证的共享軟體](../Page/GNU通用公共许可证.md "wikilink")。
+**RetroArch**(復古拱門)是一款電玩[模擬器](https://zh.wikipedia.org/wiki/模擬器 "wikilink")，開放源碼採用[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")的共享軟體。
 
-其採用類似SONY
-[PS4遊戲機的XMB介面](https://zh.wikipedia.org/wiki/PS4 "wikilink")、網路更新，\[1\]統整了諸多電玩模擬器，讓使用者單一一套軟體中就能模擬各種遊戲，同時除了電腦和安卓手機外，能透過第三方韌體破解後安裝在諸多遊戲主機上。\[2\]
+其採用類似SONY [PS4遊戲機的XMB介面](https://zh.wikipedia.org/wiki/PS4 "wikilink")、網路更新，\[1\]統整了諸多電玩模擬器，讓使用者單一一套軟體中就能模擬各種遊戲，同時除了電腦和安卓手機外，能透過第三方韌體破解後安裝在諸多遊戲主機上。\[2\]
 
 ## 可模擬主機
 

@@ -1,5 +1,4 @@
-**YAHOO\!人氣大獎2017
-頒獎典禮**（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），於2017年12月6日晚上8時假[尖沙咀](../Page/尖沙咀.md "wikilink")[文化中心](https://zh.wikipedia.org/wiki/文化中心 "wikilink")[露天廣場舉行](https://zh.wikipedia.org/wiki/露天廣場 "wikilink")\[1\]。
+**YAHOO\!人氣大獎2017 頒獎典禮**（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），於2017年12月6日晚上8時假[尖沙咀](../Page/尖沙咀.md "wikilink")[文化中心](https://zh.wikipedia.org/wiki/文化中心 "wikilink")[露天廣場舉行](https://zh.wikipedia.org/wiki/露天廣場 "wikilink")\[1\]。
 
 ## 得獎名單
 
@@ -11,22 +10,19 @@
       - 《帶著骨灰去旅行》- [洪卓立](../Page/洪卓立.md "wikilink")
       - 《長相廝守》- [ToNick](../Page/ToNick.md "wikilink")
       - 《難得一遇》- [林奕匡](../Page/林奕匡.md "wikilink")
-      - 《3AM》-
-        [AGA](https://zh.wikipedia.org/wiki/AGA_\(歌手\) "wikilink")
+      - 《3AM》- [AGA](https://zh.wikipedia.org/wiki/AGA_\(歌手\) "wikilink")
       - 《傷心到變形》- [吳業坤](../Page/吳業坤.md "wikilink")
       - 《安全感》- [JW](../Page/王灝兒.md "wikilink")
       - 《天敵》- [衛蘭](../Page/衛蘭.md "wikilink")
       - 《霸氣情歌》- [陳柏宇](../Page/陳柏宇.md "wikilink")
   - 人氣歌曲合唱歌
-      - 《原來只因深愛著》-
-        [吳業坤](../Page/吳業坤.md "wikilink")、[JW](../Page/王灝兒.md "wikilink")
+      - 《原來只因深愛著》- [吳業坤](../Page/吳業坤.md "wikilink")、[JW](../Page/王灝兒.md "wikilink")
   - 人氣MV
       - 《一刻戀上》- [C AllStar](../Page/C_AllStar.md "wikilink")
       - 《到此一遊》- [胡鴻鈞](https://zh.wikipedia.org/wiki/胡鴻鈞 "wikilink")
   - 唱作歌曲
       - 《也許我不會活多一歲》- [Dear Jane](../Page/Dear_Jane.md "wikilink")
-      - 《說再見了吧》- [Supper
-        Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")
+      - 《說再見了吧》- [Supper Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")
   - 本地唱作男歌手
       - [林奕匡](../Page/林奕匡.md "wikilink")
   - 本地唱作女歌手
@@ -38,8 +34,7 @@
   - 本地音樂組合
       - [Dear Jane](../Page/Dear_Jane.md "wikilink")
       - [C AllStar](../Page/C_AllStar.md "wikilink")
-      - [Supper
-        Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")
+      - [Supper Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")
   - 樂壇新勢力
       - [顏卓靈](../Page/顏卓靈.md "wikilink")
       - [王嘉儀](../Page/王嘉儀.md "wikilink")
@@ -56,8 +51,7 @@
   - 人氣電視劇集主題曲
       - 《地盡頭》- [鄭俊弘](../Page/鄭俊弘.md "wikilink")
   - 人氣電視劇集合唱歌
-      - 《陪著你走》-
-        [王浩信](../Page/王浩信.md "wikilink")、[譚嘉儀](../Page/譚嘉儀.md "wikilink")
+      - 《陪著你走》- [王浩信](../Page/王浩信.md "wikilink")、[譚嘉儀](../Page/譚嘉儀.md "wikilink")
   - 年度熱搜歌曲
       - 《失魂記》- [李克勤](../Page/李克勤.md "wikilink")
 
@@ -102,8 +96,7 @@
 ### 亞洲區獎項
 
   - 年度熱搜韓國新人歌手獎
-      - [Kim Samuel](https://zh.wikipedia.org/wiki/金Samuel "wikilink")
-        \[5\]
+      - [Kim Samuel](https://zh.wikipedia.org/wiki/金Samuel "wikilink") \[5\]
 
 ### 至尊獎項
 
@@ -122,8 +115,7 @@
 
 ## 參考資料
 
-[Category:Yahoo\!搜尋人氣大獎](https://zh.wikipedia.org/wiki/Category:Yahoo!搜尋人氣大獎 "wikilink")
-[Category:雅虎](https://zh.wikipedia.org/wiki/Category:雅虎 "wikilink")
+[Category:Yahoo\!搜尋人氣大獎](https://zh.wikipedia.org/wiki/Category:Yahoo!搜尋人氣大獎 "wikilink") [Category:雅虎](https://zh.wikipedia.org/wiki/Category:雅虎 "wikilink")
 
 1.
 2.

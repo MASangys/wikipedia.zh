@@ -1,4 +1,4 @@
-《**NCT音樂作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[NCT各分隊歷年發行之各類音樂作品](../Page/NCT.md "wikilink")。
+《**NCT音樂作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[NCT](../Page/NCT.md "wikilink")各分隊歷年發行之各類音樂作品。
 
 ## 專輯
 
@@ -82,7 +82,7 @@ Dig.</a><br />
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Regular-Irregular" title="wikilink">Regular-Irregular</a></p></td>
+<td><p><a href="../Page/Regular-Irregular.md" title="wikilink">Regular-Irregular</a></p></td>
 <td><ul>
 <li>發行日期：2018年10月12日</li>
 <li>廠牌：<a href="../Page/SM娛樂.md" title="wikilink">SM娛樂</a>、</li>
@@ -94,7 +94,7 @@ Dig.</a><br />
 <tr class="odd">
 <td><p>1st<br />
 Repackage</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Regular-Irregular" title="wikilink">Regulate</a></p></td>
+<td><p><a href="../Page/Regular-Irregular.md" title="wikilink">Regulate</a></p></td>
 <td><ul>
 <li>發行日期：2018年11月23日</li>
 <li>廠牌：<a href="../Page/SM娛樂.md" title="wikilink">SM娛樂</a>、</li>
@@ -268,13 +268,29 @@ Repackage</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>NCT #127 WE ARE SUPERHUMAN</p></td>
+<td><ul>
+<li>發行日期：2019年5月24日</li>
+<li>廠牌：SM娛樂、<a href="../Page/Genie音樂.md" title="wikilink">Genie音樂</a></li>
+<li>格式：CD、數位音樂下載</li>
+</ul></td>
+<td><p>2</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>日語</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Chain" title="wikilink">Chain</a></p></td>
+<td><p><a href="../Page/Chain.md" title="wikilink">Chain</a></p></td>
 <td><ul>
 <li>發行日期：2018年5月23日</li>
 <li>廠牌：<a href="../Page/Avex_trax.md" title="wikilink">愛貝克思</a></li>
@@ -749,6 +765,13 @@ World</a><br />
 <td><p>NCT Dream（缺楷灿）</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>7月18日</p></td>
+<td><p>Long Flight</p></td>
+<td><p>泰容</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -855,7 +878,7 @@ Drama X</p></td>
 <tr class="even">
 <td><p>4月22日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/浙江衛視" title="wikilink">浙江衛視</a></p></td>
-<td><p>《<a href="../Page/奔跑吧.md" title="wikilink">奔跑吧3</a>》</p></td>
+<td><p>《<a href="../Page/奔跑吧.md" title="wikilink">奔跑吧</a>3》</p></td>
 <td><p>造億萬噸光芒</p></td>
 <td><p>Lucas</p></td>
 <td><p><a href="../Page/李晨_(演员).md" title="wikilink">李晨</a>、<a href="../Page/Angelababy.md" title="wikilink">Angelababy</a>、<a href="https://zh.wikipedia.org/wiki/鄭愷" title="wikilink">鄭愷</a>、<br />
@@ -888,6 +911,14 @@ Drama X</p></td>
 <td></td>
 <td><p><a href="../Page/2017年國際足協U-20世界盃.md" title="wikilink">FIFA U-20 世界盃 KOREA 2017主題曲</a></p></td>
 </tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>7月15日</p></td>
+<td><p>Fireflies</p></td>
+<td><p>NCT Dream</p></td>
+<td></td>
+<td><p>主題曲</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -900,21 +931,21 @@ Drama X</p></td>
 | 12月26日 | [允浩](../Page/鄭允浩.md "wikilink")（[東方神起](../Page/東方神起.md "wikilink")） | 《》                                                              | City Lights                                                                        | 泰容                |       |
 | 2019年  | 3月5日                                                                | [Rocoberry](https://zh.wikipedia.org/wiki/Rocoberry "wikilink") | 《Don't say goodbye》                                                                | Don't say goodbye | 道英    |
 | 3月30日  | [SOHLHEE](https://zh.wikipedia.org/wiki/SOHLHEE "wikilink")         | 《Purple》                                                        | Purple                                                                             | 泰一                |       |
+| 7月3日   | [Ava Max](../Page/阿瓦·麦克斯.md "wikilink")                             | 《 (feat. NCT 127) - Single》                                     | So Am I                                                                            | NCT 127           |       |
 
 ## 其他
 
-| 年份    | 發佈日期   | 合作項目                                                                                                  | 歌曲名稱            | 參與成員 | 合作藝人                                                                                                |
-| ----- | ------ | ----------------------------------------------------------------------------------------------------- | --------------- | ---- | --------------------------------------------------------------------------------------------------- |
-| 2016年 | 12月18日 | [SBS](../Page/SBS_\(韓國\).md "wikilink") 《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》特別合作企劃 | First Christmas | 道英   | [Joy](https://zh.wikipedia.org/wiki/Joy "wikilink")（[Red Velvet](../Page/Red_Velvet.md "wikilink")） |
-| 2017年 | 4月1日   | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《高等Rapper》單曲                                     | 放手吧 (Drop)      | Mark | [瑟琪](../Page/瑟琪.md "wikilink")（Red Velvet）                                                          |
+| 年份    | 發佈日期   | 合作項目                                                                                                  | 歌曲名稱            | 參與成員  | 合作藝人                                                                                            |
+| ----- | ------ | ----------------------------------------------------------------------------------------------------- | --------------- | ----- | ----------------------------------------------------------------------------------------------- |
+| 2016年 | 12月18日 | [SBS](../Page/SBS_\(韓國\).md "wikilink") 《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》特別合作企劃 | First Christmas | 道英    | [Joy](../Page/Joy_\(Red_Velvet\).md "wikilink")（[Red Velvet](../Page/Red_Velvet.md "wikilink")） |
+| 2017年 | 4月1日   | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《高等Rapper》單曲                                     | 放手吧 (Drop)      | Mark  | [瑟琪](../Page/瑟琪.md "wikilink")（Red Velvet）                                                      |
+| 2019年 | 6月29日  | [浙江衛視](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")《[奔跑吧](../Page/奔跑吧.md "wikilink")3》EP10合唱對決      | 芭啦芭啦櫻之花         | Lucas | [鄭愷](https://zh.wikipedia.org/wiki/鄭愷 "wikilink")、[宋雨琦](../Page/宋雨琦.md "wikilink")              |
 
 ## 參考文獻
 
 ## 外部連結
 
   -
-[Category:NCT](https://zh.wikipedia.org/wiki/Category:NCT "wikilink")
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
-[Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
+[Category:NCT](https://zh.wikipedia.org/wiki/Category:NCT "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.

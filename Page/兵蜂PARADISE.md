@@ -69,14 +69,8 @@
 
   - [ツインビーPARADISE（i-revo）](http://movie.i-revo.jp/ice/special/060502/twinbee/)
 
-[Category:兵蜂系列](https://zh.wikipedia.org/wiki/Category:兵蜂系列 "wikilink")
-[Category:日本廣播劇](https://zh.wikipedia.org/wiki/Category:日本廣播劇 "wikilink")
-[Category:1999年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1999年日本OVA動畫 "wikilink")
-[Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink")
+[Category:兵蜂系列](https://zh.wikipedia.org/wiki/Category:兵蜂系列 "wikilink") [Category:日本廣播劇](https://zh.wikipedia.org/wiki/Category:日本廣播劇 "wikilink") [Category:1999年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1999年日本OVA動畫 "wikilink") [Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink")
 
-1.  [Twin Bee Paradise
-    (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2338)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+1.  [Twin Bee Paradise (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2338)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 2.  [ツインビーPARADISE(1998)](http://www.allcinema.net/prog/show_c.php?num_c=88180)
 3.

@@ -129,28 +129,22 @@ function p.main(frame)
 `       if disambig == 'yes' then`
 `           disambig = title.text`
 `       end`
-`       text = text..'`[`'``   ``..``   ``size``   ``..``
- ``'px`](https://zh.wikipedia.org/wiki/File:Wait_Circle.svg "fig:' .. size .. 'px")`"`
+`       text = text..'`[`'``   ``..``   ``size``   ``..``   ``'px`](https://zh.wikipedia.org/wiki/File:Wait_Circle.svg "fig:' .. size .. 'px")`"`
 `   end`
 `   if args.UNESCO or args.unesco or args["世界遗产"] or args["世界遺產"] then`
-`       text = text..'`[`'``   ``..``   ``size``   ``..``
- ``'px`](https://zh.wikipedia.org/wiki/File:WorldHeritageBlanc.svg "fig:' .. size .. 'px")`'`
+`       text = text..'`[`'``   ``..``   ``size``   ``..``   ``'px`](https://zh.wikipedia.org/wiki/File:WorldHeritageBlanc.svg "fig:' .. size .. 'px")`'`
 `   end`
 `   if args.star or args["明星"] then`
-`       text = text..'`[`'``   ``..``   ``size``   ``..``
- ``'px`](https://zh.wikipedia.org/wiki/File:Cscr-featured.svg "fig:' .. size .. 'px")`'`
+`       text = text..'`[`'``   ``..``   ``size``   ``..``   ``'px`](https://zh.wikipedia.org/wiki/File:Cscr-featured.svg "fig:' .. size .. 'px")`'`
 `   end`
 `   if args.otbp or args["曲径通幽"] or args["曲徑通幽"] then`
-`       text = text..'`[`'``   ``..``   ``size``   ``..``
- ``'px`](https://zh.wikipedia.org/wiki/File:Question_Circle.svg "fig:' .. size .. 'px")`'`
+`       text = text..'`[`'``   ``..``   ``size``   ``..``   ``'px`](https://zh.wikipedia.org/wiki/File:Question_Circle.svg "fig:' .. size .. 'px")`'`
 `   end`
 `   if args.dotm or args["目的地"] then`
-`       text = text..'`[`'``   ``..``   ``size``   ``..``
- ``'px`](https://zh.wikipedia.org/wiki/File:Yes_Check_Circle.svg "fig:' .. size .. 'px")`'`
+`       text = text..'`[`'``   ``..``   ``size``   ``..``   ``'px`](https://zh.wikipedia.org/wiki/File:Yes_Check_Circle.svg "fig:' .. size .. 'px")`'`
 `   end`
 `   if args.ftt or args["特色话题"] or args["特色話題"] then`
-`       text = text..'`[`'``   ``..``   ``size``   ``..``
- ``'px`](https://zh.wikipedia.org/wiki/File:Writing_Circle.svg "fig:' .. size .. 'px")`'`
+`       text = text..'`[`'``   ``..``   ``size``   ``..``   ``'px`](https://zh.wikipedia.org/wiki/File:Writing_Circle.svg "fig:' .. size .. 'px")`'`
 `   end`
 `   text = text..'`
 
@@ -218,8 +212,7 @@ function p.main(frame)
 '
 
 `   if disambig then`
-`       text = text..'\n:其他同名地点的条目，请见`[`'..disambig..'``
- ``(消歧义)`](https://zh.wikipedia.org/wiki/'..disambig..'_\(消歧义\) "wikilink")`。'`
+`       text = text..'\n:其他同名地点的条目，请见`[`'..disambig..'``   ``(消歧义)`](https://zh.wikipedia.org/wiki/'..disambig..'_\(消歧义\) "wikilink")`。'`
 `   end`
 `   return text`
 
@@ -227,9 +220,4 @@ end
 
 return p
 
-[Category:联合国教科文组织世界遗产](https://zh.wikipedia.org/wiki/Category:联合国教科文组织世界遗产 "wikilink")
-[Category:使用标准横幅条目](https://zh.wikipedia.org/wiki/Category:使用标准横幅条目 "wikilink")
-[Category:使用自定义横幅条目](https://zh.wikipedia.org/wiki/Category:使用自定义横幅条目 "wikilink")
-[Category:使用默认横幅条目](https://zh.wikipedia.org/wiki/Category:使用默认横幅条目 "wikilink")
-[Category:使用自定义横幅条目](https://zh.wikipedia.org/wiki/Category:使用自定义横幅条目 "wikilink")
-[Category:维基数据缺少横幅](https://zh.wikipedia.org/wiki/Category:维基数据缺少横幅 "wikilink")
+[Category:联合国教科文组织世界遗产](https://zh.wikipedia.org/wiki/Category:联合国教科文组织世界遗产 "wikilink") [Category:使用标准横幅条目](https://zh.wikipedia.org/wiki/Category:使用标准横幅条目 "wikilink") [Category:使用自定义横幅条目](https://zh.wikipedia.org/wiki/Category:使用自定义横幅条目 "wikilink") [Category:使用默认横幅条目](https://zh.wikipedia.org/wiki/Category:使用默认横幅条目 "wikilink") [Category:使用自定义横幅条目](https://zh.wikipedia.org/wiki/Category:使用自定义横幅条目 "wikilink") [Category:维基数据缺少横幅](https://zh.wikipedia.org/wiki/Category:维基数据缺少横幅 "wikilink")

@@ -2,7 +2,7 @@
 
 ## 概要
 
-与之前SNH48所演出的完整翻唱[AKB48公演曲目的公演不同](../Page/AKB48.md "wikilink")，「十八個閃耀瞬間」公演作為各隊新公演推出之前的過渡公演，與AKB48的[「Waiting」公演和](../Page/AKB48「Waiting」公演.md "wikilink")[HKT48的](../Page/HKT48.md "wikilink")[“博多传奇”公演類似](https://zh.wikipedia.org/wiki/Team_H“博多传奇” "wikilink")，亦作為SNH48出道三年以來的回顧。公演曲目是由各隊成员亲自选出的，有的是所屬隊伍的公演曲目，有的则是收錄在EP內的歌曲。每場公演演唱的歌曲有18首(不計算《overture》及不設安可曲)，比一般公演的16首歌曲多。
+与之前SNH48所演出的完整翻唱[AKB48](../Page/AKB48.md "wikilink")公演曲目的公演不同，「十八個閃耀瞬間」公演作為各隊新公演推出之前的過渡公演，與AKB48的[「Waiting」公演和](../Page/AKB48「Waiting」公演.md "wikilink")[HKT48](../Page/HKT48.md "wikilink")的[“博多传奇”公演類似](https://zh.wikipedia.org/wiki/Team_H“博多传奇” "wikilink")，亦作為SNH48出道三年以來的回顧。公演曲目是由各隊成员亲自选出的，有的是所屬隊伍的公演曲目，有的则是收錄在EP內的歌曲。每場公演演唱的歌曲有18首(不計算《overture》及不設安可曲)，比一般公演的16首歌曲多。
 
 ## SNH48 Team SII「十八個閃耀瞬間」公演
 
@@ -38,11 +38,8 @@
 
   - 公演期間：2016年1月15日－2016年7月16日
   - 出演成员
-      - 初日演出：陈佳莹、陈问言、陈雨琪（Team XII）、段艺璇（Team
-        XII）、[冯薪朵](https://zh.wikipedia.org/wiki/冯薪朵 "wikilink")、龚诗淇、何晓玉、罗兰、林思意、[李艺彤](https://zh.wikipedia.org/wiki/李艺彤 "wikilink")、孙歆文（Team
-        X）、孟玥、唐安琪、易嘉爱、[曾艷芬](https://zh.wikipedia.org/wiki/曾艷芬 "wikilink")
-      - 代役演出：孫歆文（Team X）、王曉佳（Team X）、楊冰怡（Team X）、陈雨琪（Team XII）、段艺璇（Team
-        XII）、劉增艷（Team XII）
+      - 初日演出：陈佳莹、陈问言、陈雨琪（Team XII）、段艺璇（Team XII）、[冯薪朵](https://zh.wikipedia.org/wiki/冯薪朵 "wikilink")、龚诗淇、何晓玉、罗兰、林思意、[李艺彤](https://zh.wikipedia.org/wiki/李艺彤 "wikilink")、孙歆文（Team X）、孟玥、唐安琪、易嘉爱、[曾艷芬](https://zh.wikipedia.org/wiki/曾艷芬 "wikilink")
+      - 代役演出：孫歆文（Team X）、王曉佳（Team X）、楊冰怡（Team X）、陈雨琪（Team XII）、段艺璇（Team XII）、劉增艷（Team XII）
   - 公演曲目：
 
 <!-- end list -->
@@ -71,8 +68,7 @@
 
   - 公演期間：2016年6月17日－2016年10月20日\[3\]
   - 出演成員
-      - 初日演出：馮曉菲、李晶、李佳恩（Team
-        XII）、林憶寧、李釗、祁靜、邵雪聰、宋昕冉、孫歆文、汪佳翎、汪束、王曉佳、謝天依、楊冰怡、楊韞玉、張丹三、張嘉予
+      - 初日演出：馮曉菲、李晶、李佳恩（Team XII）、林憶寧、李釗、祁靜、邵雪聰、宋昕冉、孫歆文、汪佳翎、汪束、王曉佳、謝天依、楊冰怡、楊韞玉、張丹三、張嘉予
       - 代役演出：李佳恩（Team XII）
   - 公演曲目：
 
@@ -285,21 +281,13 @@
 
   - [SNH48官方网站的介绍](http://www.snh48.com/event/s127/)
 
-[Category:SNH48_Group剧场公演](https://zh.wikipedia.org/wiki/Category:SNH48_Group剧场公演 "wikilink")
-[Category:AKB48集团公演](https://zh.wikipedia.org/wiki/Category:AKB48集团公演 "wikilink")
+[Category:SNH48_Group剧场公演](https://zh.wikipedia.org/wiki/Category:SNH48_Group剧场公演 "wikilink") [Category:AKB48集团公演](https://zh.wikipedia.org/wiki/Category:AKB48集团公演 "wikilink")
 
 1.
-2.  [2月26日 SNH48
-    S队《十八个闪耀瞬间》纪念公演震撼来袭](http://www.snh48.com/html/allnews/zixun/2016/0216/1581.html)
-3.  [2月26日 SNH48
-    S队《十八个闪耀瞬间》纪念公演震撼来袭](http://www.snh48.com/html/allnews/zixun/2016/0216/1581.html)
-4.  [SNH48
-    H队接力《十八个闪耀瞬间》 12月2日首秀场开启竞价](http://www.snh48.com/html/allnews/zixun/2016/1130/2045.html)
-5.  [SNH48
-    H队《十八个闪耀瞬间》纪念公演12月16日热力开启](http://www.snh48.com/html/allnews/zixun/2016/1130/2046.html)
-6.  [SNH48 H队《十八个闪耀瞬间》上演
-    《新年这一刻》欢乐首跳](http://www.snh48.com/html/allnews/zixun/2016/1217/2070.html)
-7.  [4.9 BEJ48
-    TeamB《心的旅程》千秋乐，静待下一次绽放](http://www.bej48.com/news/show-422.html)
-8.  [BEJ48
-    TeamB《十八个闪耀瞬间》首演闪耀上演！](http://www.bej48.com/news/show-424.html)
+2.  [2月26日 SNH48 S队《十八个闪耀瞬间》纪念公演震撼来袭](http://www.snh48.com/html/allnews/zixun/2016/0216/1581.html)
+3.  [2月26日 SNH48 S队《十八个闪耀瞬间》纪念公演震撼来袭](http://www.snh48.com/html/allnews/zixun/2016/0216/1581.html)
+4.  [SNH48 H队接力《十八个闪耀瞬间》 12月2日首秀场开启竞价](http://www.snh48.com/html/allnews/zixun/2016/1130/2045.html)
+5.  [SNH48 H队《十八个闪耀瞬间》纪念公演12月16日热力开启](http://www.snh48.com/html/allnews/zixun/2016/1130/2046.html)
+6.  [SNH48 H队《十八个闪耀瞬间》上演 《新年这一刻》欢乐首跳](http://www.snh48.com/html/allnews/zixun/2016/1217/2070.html)
+7.  [4.9 BEJ48 TeamB《心的旅程》千秋乐，静待下一次绽放](http://www.bej48.com/news/show-422.html)
+8.  [BEJ48 TeamB《十八个闪耀瞬间》首演闪耀上演！](http://www.bej48.com/news/show-424.html)

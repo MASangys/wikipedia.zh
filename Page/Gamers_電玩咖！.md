@@ -1,4 +1,4 @@
-，是[葵關南創作](../Page/葵關南.md "wikilink")、仙人掌擔任插畫的[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")，連載時間於2015年3月20日開始至今。由《[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")》（[KADOKAWA](../Page/KADOKAWA.md "wikilink")／[富士見書房](../Page/富士見書房.md "wikilink")）發行，目前已發行13冊。
+，是[葵關南](../Page/葵關南.md "wikilink")創作、仙人掌擔任插畫的[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")，連載時間於2015年3月20日開始至今。由《[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")》（[KADOKAWA](../Page/KADOKAWA.md "wikilink")／[富士見書房](../Page/富士見書房.md "wikilink")）發行，目前已發行13冊。
 
 2016年10月22日，於富士見Fantasia文庫例行性舉辦的2016年大感謝祭活動中宣布決定製作動畫\[1\]。同年10月26日，由高橋翼作畫的漫畫版開始在《[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")》（KADOKAWA）2016年12月號連載。2017年7月至9月，首播同名電視動畫。
 
@@ -176,7 +176,7 @@
 <tr class="odd">
 <td><p>12</p></td>
 <td></td>
-<td><p>2019年6月20日</p></td>
+<td><p>2019年8月20日</p></td>
 </tr>
 </tbody>
 </table>
@@ -232,9 +232,7 @@
 
 ## 電視動畫
 
-2017年7月13日起在[TOKYO
-MX](../Page/東京都會電視台.md "wikilink")、[SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")、[日本BS放送及](../Page/日本BS放送.md "wikilink")[AT-X等電視台首播](../Page/AT-X.md "wikilink")\[4\]。動畫由[PINE
-JAM製作](../Page/PINE_JAM.md "wikilink")，也是PINE JAM首次總承包通常30分鐘的電視動畫。
+2017年7月13日起在[TOKYO MX](../Page/東京都會電視台.md "wikilink")、[SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")、[日本BS放送](../Page/日本BS放送.md "wikilink")及[AT-X](../Page/AT-X.md "wikilink")等電視台首播\[4\]。動畫由[PINE JAM製作](../Page/PINE_JAM.md "wikilink")，也是PINE JAM首次總承包通常30分鐘的電視動畫。
 
 劇本統籌由以前參加電影編劇的擔任，也是內田首次參加動畫編劇的作品。
 
@@ -256,10 +254,7 @@ JAM製作](../Page/PINE_JAM.md "wikilink")，也是PINE JAM首次總承包通常
   - 製作人：小倉充俊、村主達哉、相田剛、岡村武真、金子廣孝、大和田智之、菊政克美、兼光一博
   - 動畫製作人：向峠和喜
   - 動畫製作：[PINE JAM](../Page/PINE_JAM.md "wikilink")\[10\]
-  - 製作：Gamers
-    電玩咖！製作委員会（NBC環球娛樂、[KADOKAWA](../Page/KADOKAWA.md "wikilink")、[Frontier
-    Works](../Page/Frontier_Works.md "wikilink")、[創通](../Page/創通.md "wikilink")、[TOKYO
-    MX](../Page/東京都會電視台.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")、[BS11](../Page/日本BS放送.md "wikilink")、、[i0plus](http://i0plus.jp/)）
+  - 製作：Gamers 電玩咖！製作委員会（NBC環球娛樂、[KADOKAWA](../Page/KADOKAWA.md "wikilink")、[Frontier Works](../Page/Frontier_Works.md "wikilink")、[創通](../Page/創通.md "wikilink")、[TOKYO MX](../Page/東京都會電視台.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")、[BS11](../Page/日本BS放送.md "wikilink")、、[i0plus](http://i0plus.jp/)）
 
 ### 主題曲
 
@@ -278,17 +273,14 @@ JAM製作](../Page/PINE_JAM.md "wikilink")，也是PINE JAM首次總承包通常
 
 :; 「Fight on！」\[12\]（第2話－第5話、第7話－第8話、第11話－第12話）
 
-::
-作詞：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")，作曲、編曲：，主唱：[Luce
-Twinkle Wink☆](../Page/Luce_Twinkle_Wink☆.md "wikilink")
+:: 作詞：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")，作曲、編曲：，主唱：[Luce Twinkle Wink☆](../Page/Luce_Twinkle_Wink☆.md "wikilink")
 
 :; 「」（第9話－第10話）
 
   -
 
       -
-        作詞：[黑崎真音](../Page/黑崎真音.md "wikilink")，作曲、編曲：[大久保薰](../Page/大久保薰.md "wikilink")，主唱：Luce
-        Twinkle Wink☆
+        作詞：[黑崎真音](../Page/黑崎真音.md "wikilink")，作曲、編曲：[大久保薰](../Page/大久保薰.md "wikilink")，主唱：Luce Twinkle Wink☆
 
 ### 各話列表
 
@@ -574,24 +566,13 @@ Twinkle Wink☆](../Page/Luce_Twinkle_Wink☆.md "wikilink")
 
   - [《GAMERS 電玩咖！》富士見書房](http://www.fujimishobo.co.jp/sp/201503gamers/)
 
-  - [《GAMERS
-    電玩咖！》作品情報｜少年Ace](https://web-ace.jp/shonenace/contents/193/)
-
+  - [《GAMERS 電玩咖！》作品情報｜少年Ace](https://web-ace.jp/shonenace/contents/193/)
 
   - [電視動畫「Gamers 電玩咖！」官方網站](http://www.gamers-anime.com/)
 
   -
 
-[Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink")
-[Category:2015年小說](https://zh.wikipedia.org/wiki/Category:2015年小說 "wikilink")
-[Category:月刊少年Ace](https://zh.wikipedia.org/wiki/Category:月刊少年Ace "wikilink")
-[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink")
-[Category:2017年UHF動畫](https://zh.wikipedia.org/wiki/Category:2017年UHF動畫 "wikilink")
-[Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink")
-[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
-[Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink") [Category:2015年小說](https://zh.wikipedia.org/wiki/Category:2015年小說 "wikilink") [Category:月刊少年Ace](https://zh.wikipedia.org/wiki/Category:月刊少年Ace "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:2017年UHF動畫](https://zh.wikipedia.org/wiki/Category:2017年UHF動畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 

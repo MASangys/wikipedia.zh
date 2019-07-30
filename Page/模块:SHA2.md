@@ -1,11 +1,8 @@
 local bit32 = require("bit32")
 
-\--
-<http://lua-users.org/cgi-bin/wiki.pl?action=browse&id=SecureHashAlgorithm&revision=5>
-(MIT Licensed)
+\-- <http://lua-users.org/cgi-bin/wiki.pl?action=browse&id=SecureHashAlgorithm&revision=5> (MIT Licensed)
 
-\-- SHA-256 code in Lua 5.2; based on the pseudo-code from -- Wikipedia
-(http://en.wikipedia.org/wiki/SHA-2)
+\-- SHA-256 code in Lua 5.2; based on the pseudo-code from -- Wikipedia (http://en.wikipedia.org/wiki/SHA-2)
 
 local band, rrotate, bxor, rshift, bnot =
 
@@ -15,9 +12,7 @@ local string, setmetatable, assert = string, setmetatable, assert
 
 _ENV = nil
 
-\-- Initialize table of round constants -- (first 32 bits of the
-fractional parts of the cube roots of the first -- 64 primes 2..311):
-local k = {
+\-- Initialize table of round constants -- (first 32 bits of the fractional parts of the cube roots of the first -- 64 primes 2..311): local k = {
 
 `  0x428a2f98, 0x71374491, 0xb5c0fbcf, 0xe9b5dba5,`
 `  0x3956c25b, 0x59f111f1, 0x923f82a4, 0xab1c5ed5,`
@@ -38,8 +33,7 @@ local k = {
 
 }
 
-\-- transform a string of bytes in a string of hexadecimal digits local
-function str2hexa (s)
+\-- transform a string of bytes in a string of hexadecimal digits local function str2hexa (s)
 
 ` local h = string.gsub(s, ".", function(c)`
 `             return string.format("%02x", string.byte(c))`
@@ -48,8 +42,7 @@ function str2hexa (s)
 
 end
 
-\-- transform number 'l' in a big-endian sequence of 'n' bytes -- (coded
-as a string) local function num2s (l, n)
+\-- transform number 'l' in a big-endian sequence of 'n' bytes -- (coded as a string) local function num2s (l, n)
 
 ` local s = ""`
 ` for i = 1, n do`
@@ -61,8 +54,7 @@ as a string) local function num2s (l, n)
 
 end
 
-\-- transform the big-endian sequence of four bytes starting at -- index
-'i' in 's' into a number local function s232num (s, i)
+\-- transform the big-endian sequence of four bytes starting at -- index 'i' in 's' into a number local function s232num (s, i)
 
 ` local n = 0`
 ` for i = i, i + 3 do`
@@ -72,11 +64,7 @@ end
 
 end
 
-\-- append the bit '1' to the message -- append k bits '0', where k is
-the minimum number \>= 0 such that the -- resulting message length (in
-bits) is congruent to 448 (mod 512) -- append length of message (before
-pre-processing), in bits, as 64-bit -- big-endian integer local function
-preproc (msg, len)
+\-- append the bit '1' to the message -- append k bits '0', where k is the minimum number \>= 0 such that the -- resulting message length (in bits) is congruent to 448 (mod 512) -- append length of message (before pre-processing), in bits, as 64-bit -- big-endian integer local function preproc (msg, len)
 
 ` local extra = -(len + 1 + 8) % 64`
 ` len = num2s(8 * len, 8)    -- original len in bits, coded`
@@ -257,8 +245,7 @@ end
 
 -----
 
-\--return { -- hash224 = hash224, -- hash256 = hash256, -- new256 =
-new256, --}
+\--return { -- hash224 = hash224, -- hash256 = hash256, -- new256 = new256, --}
 
 local p = {}
 

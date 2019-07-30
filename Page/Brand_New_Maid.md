@@ -1,5 +1,4 @@
-『**Brand New
-Maid**』是[BAND-MAID的第](../Page/BAND-MAID.md "wikilink")3張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，在2016年5月18日發售。
+『**Brand New Maid**』是[BAND-MAID](../Page/BAND-MAID.md "wikilink")的第3張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，在2016年5月18日發售。
 
 ## 概要
 
@@ -58,5 +57,4 @@ Maid**』是[BAND-MAID的第](../Page/BAND-MAID.md "wikilink")3張[迷你專輯]
 
 [DISCOGRAPHY](http://bandmaid.tokyo/music) - BAND-MAID OFFICIAL WEBSITE
 
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:BAND-MAID音樂專輯](https://zh.wikipedia.org/wiki/Category:BAND-MAID音樂專輯 "wikilink")
+[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:BAND-MAID音樂專輯](https://zh.wikipedia.org/wiki/Category:BAND-MAID音樂專輯 "wikilink")

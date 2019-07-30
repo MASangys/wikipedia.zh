@@ -1,10 +1,8 @@
-**株式會社AIR
-AGENCY**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[新宿區](../Page/新宿區.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")、音響製作企業。
+**株式會社AIR AGENCY**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[新宿區](../Page/新宿區.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")、音響製作企業。
 
 ## 沿革
 
-2006年，由聲優[藤原啓治](https://zh.wikipedia.org/wiki/藤原啓治 "wikilink")\[2\]代表，從所屬事務所[賢Production中獨立](../Page/賢Production.md "wikilink")。除了聲優經紀業務外，也有聲優養成學校[AIR
-AGENCY聲優培訓學校](https://zh.wikipedia.org/wiki/#AIR_AGENCY聲優培訓學校 "wikilink")（下述）。
+2006年，由聲優[藤原啓治](https://zh.wikipedia.org/wiki/藤原啓治 "wikilink")\[2\]代表，從所屬事務所[賢Production](../Page/賢Production.md "wikilink")中獨立。除了聲優經紀業務外，也有聲優養成學校[AIR AGENCY聲優培訓學校](https://zh.wikipedia.org/wiki/#AIR_AGENCY聲優培訓學校 "wikilink")（下述）。
 
 2013年3月，AIR AGENCY總部搬遷至現在的地址。
 
@@ -267,8 +265,7 @@ AGENCY聲優培訓學校](https://zh.wikipedia.org/wiki/#AIR_AGENCY聲優培訓�
 
   - 永見乃空
 
-  - [前田玲奈](../Page/前田玲奈.md "wikilink")（現所屬：[Stay
-    Luck](../Page/Stay_Luck.md "wikilink")）
+  - [前田玲奈](../Page/前田玲奈.md "wikilink")（現所屬：[Stay Luck](../Page/Stay_Luck.md "wikilink")）
 
   - 松永步弓（自由職業）
 
@@ -282,8 +279,7 @@ AGENCY聲優培訓學校](https://zh.wikipedia.org/wiki/#AIR_AGENCY聲優培訓�
 
 ## AIR AGENCY聲優培訓學校
 
-2008年5月成立，舊名「**AIR AGENCY
-WORKSHOP**（<small></small>）」。直到2010年4月起才改成現在的名稱。訓練時間1年。
+2008年5月成立，舊名「**AIR AGENCY WORKSHOP**（<small></small>）」。直到2010年4月起才改成現在的名稱。訓練時間1年。
 
 ### 主要出身者
 
@@ -302,10 +298,7 @@ WORKSHOP**（<small></small>）」。直到2010年4月起才改成現在的名�
 
   -
 
-[Category:AIR_AGENCY](https://zh.wikipedia.org/wiki/Category:AIR_AGENCY "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink")
-[Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink")
+[Category:AIR_AGENCY](https://zh.wikipedia.org/wiki/Category:AIR_AGENCY "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink") [Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink")
 
 1.
 

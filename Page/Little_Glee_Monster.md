@@ -1,4 +1,4 @@
-**Little Glee Monster**，[日本女子歌唱團體](../Page/日本.md "wikilink")，隸屬旗下。
+**Little Glee Monster**，[日本](../Page/日本.md "wikilink")女子歌唱團體，隸屬旗下。
 
 ## 成員
 
@@ -89,9 +89,7 @@
 
 ## 歷程
 
-2012年3月27日，以「最強歌少女（仮）」名義之4人組合，參加澀谷VUENOS的音樂活動「NEXT BREAK
-vol.8」。同年7月「最強歌少女オーディション」開始，合格的芹奈、麻珠、MAYU、かれん、LINA與「最強歌少女（仮）」的アサヒ和YUKA，7人組成「Little
-Glee Monster」。
+2012年3月27日，以「最強歌少女（仮）」名義之4人組合，參加澀谷VUENOS的音樂活動「NEXT BREAK vol.8」。同年7月「最強歌少女オーディション」開始，合格的芹奈、麻珠、MAYU、かれん、LINA與「最強歌少女（仮）」的アサヒ和YUKA，7人組成「Little Glee Monster」。
 
 2013年5月6日，舉辦第一次LIVE，之後舉行了manaka的試鏡。7月，LINA退出組合。8月14日，manaka加入。10月，YUKA退出組合。
 
@@ -270,8 +268,7 @@ Glee Monster」。
 
   - [官方網站](http://www.littlegleemonster.com/)
 
-  - [Little Glee Monster LINE
-    BLOG](https://lineblog.me/littlegleemonster/)
+  - [Little Glee Monster LINE BLOG](https://lineblog.me/littlegleemonster/)
 
   -
   -
@@ -280,7 +277,4 @@ Glee Monster」。
       -
       -
       -
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
-[Category:渡邊製作事務所藝人](https://zh.wikipedia.org/wiki/Category:渡邊製作事務所藝人 "wikilink")
-[Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
+[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:渡邊製作事務所藝人](https://zh.wikipedia.org/wiki/Category:渡邊製作事務所藝人 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")

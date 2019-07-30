@@ -1,15 +1,10 @@
-《**K MISSING
-KINGS**》，是日本動畫《[K](../Page/K_\(動畫\).md "wikilink")》第一期的動畫電影續作，於2014年7月12日上映。**《K
-SEVEN STORIES》**是《K》的劇場版動畫，亦稱動畫電影，共六部，2018年7月起每月一部上映。
+《**K MISSING KINGS**》，是日本動畫《[K](../Page/K_\(動畫\).md "wikilink")》第一期的動畫電影續作，於2014年7月12日上映。**《K SEVEN STORIES》**是《K》的劇場版動畫，亦稱動畫電影，共六部，2018年7月起每月一部上映。
 
 ## 登場角色
 
 ## K MISSING KINGS
 
-劇場版《K MISSING
-KINGS》是2012年日本電視動畫《K》第一期的動畫電影續作，2014年7月12日日本上映，臺灣於2014年8月15日上映，譯稱《K消失的王權者》，香港於2014年9月11日，譯為《K
-MISSING KINGS 消失的王》，片長約75分鐘。續作為電視動畫第二期《[K RETURN OF
-KINGS](https://zh.wikipedia.org/wiki/K_RETURN_OF_KINGS "wikilink")》。
+劇場版《K MISSING KINGS》是2012年日本電視動畫《K》第一期的動畫電影續作，2014年7月12日日本上映，臺灣於2014年8月15日上映，譯稱《K消失的王權者》，香港於2014年9月11日，譯為《K MISSING KINGS 消失的王》，片長約75分鐘。續作為電視動畫第二期《[K RETURN OF KINGS](https://zh.wikipedia.org/wiki/K_RETURN_OF_KINGS "wikilink")》。
 
 ### 概要
 
@@ -48,8 +43,7 @@ KINGS](https://zh.wikipedia.org/wiki/K_RETURN_OF_KINGS "wikilink")》。
 
 ## K SEVEN STORIES
 
-《K SEVEN
-STORIES》六部動畫電影，是原創動畫《K》系列新動畫電影作品，2018年7月7日起每月一部上映，\[2\]\[3\]六部電影同時上映衍生作品第七個故事「The・偶像K」。\[4\]\[5\]\[6\]
+《K SEVEN STORIES》六部動畫電影，是原創動畫《K》系列新動畫電影作品，2018年7月7日起每月一部上映，\[2\]\[3\]六部電影同時上映衍生作品第七個故事「The・偶像K」。\[4\]\[5\]\[6\]
 
 ### 工作人員
 
@@ -201,9 +195,7 @@ STORIES》六部動畫電影，是原創動畫《K》系列新動畫電影作品
 
 ## 參考資料
 
-[Category:超能力題材動畫電影](https://zh.wikipedia.org/wiki/Category:超能力題材動畫電影 "wikilink")
-[Category:2018年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2018年日本劇場動畫 "wikilink")
-[Category:2014年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2014年日本劇場動畫 "wikilink")
+[Category:超能力題材動畫電影](https://zh.wikipedia.org/wiki/Category:超能力題材動畫電影 "wikilink") [Category:2018年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2018年日本劇場動畫 "wikilink") [Category:2014年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2014年日本劇場動畫 "wikilink")
 
 1.
 2.

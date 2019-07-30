@@ -1,4 +1,4 @@
-《**NEWS金探號**》，是[非凡電視台一個以輕鬆方式專門介紹旅遊](../Page/非凡電視台.md "wikilink")、財經相關生活資訊的新聞性節目，[非凡新聞台播出時間為每周六至日](../Page/非凡新聞台.md "wikilink")22:00\~23:00。[台視綜合台亦有播出](../Page/台視綜合台.md "wikilink")。
+《**NEWS金探號**》，是[非凡電視台](../Page/非凡電視台.md "wikilink")一個以輕鬆方式專門介紹旅遊、財經相關生活資訊的新聞性節目，[非凡新聞台](../Page/非凡新聞台.md "wikilink")播出時間為每周六至日22:00\~23:00。[台視綜合台](../Page/台視綜合台.md "wikilink")亦有播出。
 
 ## 節目宗旨
 
@@ -84,7 +84,6 @@
   - [非凡電視台官網-NEWS金探號](http://www.ustv.com.tw/UstvMedia/youtube/8/new)
 
   -
-[Category:非凡電視節目](https://zh.wikipedia.org/wiki/Category:非凡電視節目 "wikilink")
-[Category:台視外購電視節目](https://zh.wikipedia.org/wiki/Category:台視外購電視節目 "wikilink")
+[Category:非凡電視節目](https://zh.wikipedia.org/wiki/Category:非凡電視節目 "wikilink") [Category:台視外購電視節目](https://zh.wikipedia.org/wiki/Category:台視外購電視節目 "wikilink")
 
 1.

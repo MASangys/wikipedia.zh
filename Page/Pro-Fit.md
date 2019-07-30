@@ -1,16 +1,12 @@
-**有限公司Pro-Fit**（，）是[日本的](../Page/日本.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，主要經營[聲優事業](../Page/聲優.md "wikilink")。
+**有限公司Pro-Fit**（，）是[日本](../Page/日本.md "wikilink")的[經紀公司](../Page/經紀公司.md "wikilink")，主要經營[聲優](../Page/聲優.md "wikilink")事業。
 
 ## 簡介
 
-此公司由曾任[I'm
-Enterprise經理的谷村誠於](../Page/I'm_Enterprise.md "wikilink")2003年11月設立。
+此公司由曾任[I'm Enterprise經理的谷村誠於](../Page/I'm_Enterprise.md "wikilink")2003年11月設立。
 
-2004年4月設立[Pro-Fit聲優養成所](../Page/Pro-Fit聲優養成所.md "wikilink")，其後設立演員事務所[ASSEMBLE
-HEART](https://zh.wikipedia.org/wiki/#ASSEMBLE_HEART "wikilink")。此外音響監督[鹽屋翼加入Pro](../Page/鹽屋翼.md "wikilink")-Fit，並設立音效製作部門SOUND
-WING。
+2004年4月設立[Pro-Fit聲優養成所](../Page/Pro-Fit聲優養成所.md "wikilink")，其後設立演員事務所[ASSEMBLE HEART](https://zh.wikipedia.org/wiki/#ASSEMBLE_HEART "wikilink")。此外音響監督[鹽屋翼](../Page/鹽屋翼.md "wikilink")加入Pro-Fit，並設立音效製作部門SOUND WING。
 
-2014年5月4日開設子公司[LINK
-PLAN的網站](https://zh.wikipedia.org/wiki/#LINK_PLAN "wikilink")。
+2014年5月4日開設子公司[LINK PLAN的網站](https://zh.wikipedia.org/wiki/#LINK_PLAN "wikilink")。
 
 ## 旗下聲優
 
@@ -132,8 +128,7 @@ PLAN的網站](https://zh.wikipedia.org/wiki/#LINK_PLAN "wikilink")。
   -
 ## 過去所屬聲優
 
-已轉往ASSEMBLE
-HEART者詳見[該章節](https://zh.wikipedia.org/wiki/#ASSEMBLE_HEART "wikilink")。
+已轉往ASSEMBLE HEART者詳見[該章節](https://zh.wikipedia.org/wiki/#ASSEMBLE_HEART "wikilink")。
 
 ### 男性
 
@@ -165,7 +160,7 @@ HEART者詳見[該章節](https://zh.wikipedia.org/wiki/#ASSEMBLE_HEART "wikilin
 
   -
   -
-  - [茅野愛衣](../Page/茅野愛衣.md "wikilink")（現為[大澤事務所所屬](../Page/大澤事務所.md "wikilink")\[2\]）
+  - [茅野愛衣](../Page/茅野愛衣.md "wikilink")（現為[大澤事務所](../Page/大澤事務所.md "wikilink")所屬\[2\]）
 
   -
   - （現為所屬）
@@ -176,8 +171,7 @@ HEART者詳見[該章節](https://zh.wikipedia.org/wiki/#ASSEMBLE_HEART "wikilin
   - [田中涼子](../Page/田中涼子.md "wikilink")（現為自由身）
 
   -
-  - [辻步美](../Page/辻步美.md "wikilink")（現為[Mausu
-    Promotion所屬](../Page/Mausu_Promotion.md "wikilink")）
+  - [辻步美](../Page/辻步美.md "wikilink")（現為[Mausu Promotion所屬](../Page/Mausu_Promotion.md "wikilink")）
 
   -
   - [野田亞矢](https://zh.wikipedia.org/wiki/野田亞矢 "wikilink")
@@ -256,10 +250,7 @@ HEART者詳見[該章節](https://zh.wikipedia.org/wiki/#ASSEMBLE_HEART "wikilin
   - [LINK PLAN官方網站](http://link-plan.net/)
   - [ASSEMBLE HEART官方網站](http://assemble-heart.com/)
 
-[Category:Pro-Fit](https://zh.wikipedia.org/wiki/Category:Pro-Fit "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:中野區公司](https://zh.wikipedia.org/wiki/Category:中野區公司 "wikilink")
-[Category:2003年成立的公司](https://zh.wikipedia.org/wiki/Category:2003年成立的公司 "wikilink")
+[Category:Pro-Fit](https://zh.wikipedia.org/wiki/Category:Pro-Fit "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:中野區公司](https://zh.wikipedia.org/wiki/Category:中野區公司 "wikilink") [Category:2003年成立的公司](https://zh.wikipedia.org/wiki/Category:2003年成立的公司 "wikilink")
 
 1.
 2.

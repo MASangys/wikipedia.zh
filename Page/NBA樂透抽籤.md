@@ -105,7 +105,7 @@ NBA樂透抽籤是給予未能晉級[季後賽隊伍的](../Page/NBA季后赛.md
 <tr class="even">
 <td><p><a href="../Page/1986年NBA選秀.md" title="wikilink">1986</a></p></td>
 <td><p><a href="../Page/洛杉矶快船.md" title="wikilink">洛杉矶快船</a><br />
-<small>(透過<a href="../Page/克里夫兰骑士.md" title="wikilink">克里夫兰骑士及</a><a href="../Page/费城76人.md" title="wikilink">费城76人</a>)</small>{{#tag:ref| 費城76人隊在1979年10月6日的一次交易中獲得了洛杉磯快船隊的首輪新秀，並將<a href="https://zh.wikipedia.org/wiki/喬·布萊恩特" title="wikilink">喬·布萊恩特換到快船隊</a>。[1]在1986年6月16日，在選秀前的抽獎，一天後，76人隊交易的第一選秀權的克利夫蘭騎士隊換來了<a href="https://zh.wikipedia.org/wiki/羅伊·辛森" title="wikilink">羅伊·辛森</a>。[2]|group=lower-alpha}}</p></td>
+<small>(透過<a href="../Page/克里夫兰骑士.md" title="wikilink">克里夫兰骑士</a>及<a href="../Page/费城76人.md" title="wikilink">费城76人</a>)</small>{{#tag:ref| 費城76人隊在1979年10月6日的一次交易中獲得了洛杉磯快船隊的首輪新秀，並將<a href="https://zh.wikipedia.org/wiki/喬·布萊恩特" title="wikilink">喬·布萊恩特換到快船隊</a>。[1]在1986年6月16日，在選秀前的抽獎，一天後，76人隊交易的第一選秀權的克利夫蘭騎士隊換來了<a href="https://zh.wikipedia.org/wiki/羅伊·辛森" title="wikilink">羅伊·辛森</a>。[2]|group=lower-alpha}}</p></td>
 <td><p>32–50 (第七差)</p></td>
 <td><p>—</p></td>
 <td><p>14.29%[3]</p></td>
@@ -188,7 +188,7 @@ NBA樂透抽籤是給予未能晉級[季後賽隊伍的](../Page/NBA季后赛.md
 <td><p><a href="https://zh.wikipedia.org/wiki/1996年NBA选秀" title="wikilink">1996</a></p></td>
 <td><p><a href="../Page/费城76人.md" title="wikilink">费城76人</a></p></td>
 <td><p>18–64 (第二差)</p></td>
-<td><p>200 (總計593){{#tag:ref|<a href="../Page/多伦多猛龙.md" title="wikilink">多伦多猛龙和</a><a href="../Page/孟菲斯灰熊.md" title="wikilink">孟菲斯灰熊根據他們的協議</a>，沒有1996至1998年的選秀資格。因此不包含他們的選秀機會。|group=lower-alpha|name=note_d}}</p></td>
+<td><p>200 (總計593){{#tag:ref|<a href="../Page/多伦多猛龙.md" title="wikilink">多伦多猛龙</a>和<a href="../Page/孟菲斯灰熊.md" title="wikilink">孟菲斯灰熊</a>根據他們的協議，沒有1996至1998年的選秀資格。因此不包含他們的選秀機會。|group=lower-alpha|name=note_d}}</p></td>
 <td><p>33.73%</p></td>
 <td><p><a href="../Page/艾倫·艾佛森.md" title="wikilink">艾倫·艾佛森</a></p></td>
 </tr>
@@ -291,7 +291,7 @@ NBA樂透抽籤是給予未能晉級[季後賽隊伍的](../Page/NBA季后赛.md
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2009年NBA选秀" title="wikilink">2009</a></p></td>
 <td><p><a href="../Page/洛杉矶快船.md" title="wikilink">洛杉矶快船</a></p></td>
-<td><p>19–63 (第二差){{#tag:ref|<a href="../Page/洛杉矶快船.md" title="wikilink">洛杉矶快船和</a><a href="https://zh.wikipedia.org/wiki/华盛顿奇才" title="wikilink">华盛顿奇才在NBA聯盟中有著相同的</a>19-63場紀錄，排在聯盟第2低的紀錄。然而，奇才贏得了決勝局並被授予了額外的中獎球。[9]|group=lower-alpha}}</p></td>
+<td><p>19–63 (第二差){{#tag:ref|<a href="../Page/洛杉矶快船.md" title="wikilink">洛杉矶快船</a>和<a href="https://zh.wikipedia.org/wiki/华盛顿奇才" title="wikilink">华盛顿奇才在NBA聯盟中有著相同的</a>19-63場紀錄，排在聯盟第2低的紀錄。然而，奇才贏得了決勝局並被授予了額外的中獎球。[9]|group=lower-alpha}}</p></td>
 <td><p>177 (總計1000)</p></td>
 <td><p>17.70%</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/布莱克·格里芬" title="wikilink">布莱克·格里芬</a></p></td>
@@ -307,7 +307,7 @@ NBA樂透抽籤是給予未能晉級[季後賽隊伍的](../Page/NBA季后赛.md
 <tr class="odd">
 <td><p><a href="../Page/2011年NBA选秀.md" title="wikilink">2011</a></p></td>
 <td><p><a href="../Page/洛杉矶快船.md" title="wikilink">洛杉矶快船</a><br />
-<small>(由<a href="../Page/克里夫兰骑士.md" title="wikilink">克里夫兰骑士交易</a>)</small>{{#tag:ref|克里夫蘭騎士有兩個樂透選秀權，他們自己的選秀權和<a href="../Page/洛杉矶快船.md" title="wikilink">洛杉矶快船的選秀權</a>。騎士隊在2011年2月24日從前次交易中獲得了快船的首輪新秀，他們將<a href="../Page/莫里斯·威廉姆斯.md" title="wikilink">莫里斯·威廉姆斯及</a><a href="../Page/贾马里奥·穆恩.md" title="wikilink">贾马里奥·穆恩送給快艇隊</a>，換取<a href="../Page/貝倫·戴維斯.md" title="wikilink">貝倫·戴維斯到騎士隊</a>。[10]第二差紀錄（19-63）的騎士隊共有227個中獎球（22.7％）獲得狀元籤，其中包括199個中獎球（19.9％）和28個中獎球（2.8％）來自快船隊的選秀權。[11][12]|group=lower-alpha}}</p></td>
+<small>(由<a href="../Page/克里夫兰骑士.md" title="wikilink">克里夫兰骑士</a>交易)</small>{{#tag:ref|克里夫蘭騎士有兩個樂透選秀權，他們自己的選秀權和<a href="../Page/洛杉矶快船.md" title="wikilink">洛杉矶快船</a>的選秀權。騎士隊在2011年2月24日從前次交易中獲得了快船的首輪新秀，他們將<a href="../Page/莫里斯·威廉姆斯.md" title="wikilink">莫里斯·威廉姆斯</a>及<a href="../Page/贾马里奥·穆恩.md" title="wikilink">贾马里奥·穆恩</a>送給快艇隊，換取<a href="../Page/貝倫·戴維斯.md" title="wikilink">貝倫·戴維斯</a>到騎士隊。[10]第二差紀錄（19-63）的騎士隊共有227個中獎球（22.7％）獲得狀元籤，其中包括199個中獎球（19.9％）和28個中獎球（2.8％）來自快船隊的選秀權。[11][12]|group=lower-alpha}}</p></td>
 <td><p>32–50 (第八差)</p></td>
 <td><p>28 (總計1000)</p></td>
 <td><p>2.80%</p></td>
@@ -357,7 +357,7 @@ NBA樂透抽籤是給予未能晉級[季後賽隊伍的](../Page/NBA季后赛.md
 <tr class="odd">
 <td><p><a href="../Page/2017年NBA选秀.md" title="wikilink">2017</a></p></td>
 <td><p><a href="../Page/布鲁克林篮网.md" title="wikilink">布鲁克林篮网</a><br />
-<small>(透過<a href="../Page/费城76人.md" title="wikilink">费城76人傳給</a><a href="../Page/波士顿凯尔特人.md" title="wikilink">波士顿凯尔特人的交易</a>)</small></p></td>
+<small>(透過<a href="../Page/费城76人.md" title="wikilink">费城76人</a>傳給<a href="../Page/波士顿凯尔特人.md" title="wikilink">波士顿凯尔特人</a>的交易)</small></p></td>
 <td><p>20–62 (最差)</p></td>
 <td><p>250 (總計1000)</p></td>
 <td><p>25.00%</p></td>
@@ -407,10 +407,8 @@ NBA樂透抽籤是給予未能晉級[季後賽隊伍的](../Page/NBA季后赛.md
 ## 外部連結
 
   - [NBA.com](http://www.nba.com/)
-  - [NBA.com: NBA Draft
-    History](http://www.nba.com/history/draft_index.html)
-  - [The Hoops Report: NBA Draft
-    Lottery](https://web.archive.org/web/20100523120216/http://www.thehoopsreport.com/article.aspx?id=499)
+  - [NBA.com: NBA Draft History](http://www.nba.com/history/draft_index.html)
+  - [The Hoops Report: NBA Draft Lottery](https://web.archive.org/web/20100523120216/http://www.thehoopsreport.com/article.aspx?id=499)
 
 [Category:NBA选秀](https://zh.wikipedia.org/wiki/Category:NBA选秀 "wikilink")
 

@@ -1,6 +1,4 @@
-《**WEATHER
-GIRLS**》是[台灣女子團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")**[天氣女孩](https://zh.wikipedia.org/wiki/天氣女孩 "wikilink")**(）在日本出道發行的首張專輯，由[波麗佳音於](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")2013年7月3日推出。專輯總共收錄了十首歌。包裝概念以雲為主題，封面表達的是Weather
-Girls穿著雲朵，乘著高氣壓來到日本。\[1\]
+《**WEATHER GIRLS**》是[台灣女子團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")**[天氣女孩](https://zh.wikipedia.org/wiki/天氣女孩 "wikilink")**(）在日本出道發行的首張專輯，由[波麗佳音於](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")2013年7月3日推出。專輯總共收錄了十首歌。包裝概念以雲為主題，封面表達的是Weather Girls穿著雲朵，乘著高氣壓來到日本。\[1\]
 
 ## 概要
 
@@ -55,11 +53,7 @@ Girls穿著雲朵，乘著高氣壓來到日本。\[1\]
 
 ## 參考連結
 
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:Weather_Girls](https://zh.wikipedia.org/wiki/Category:Weather_Girls "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:含有日語的條目](https://zh.wikipedia.org/wiki/Category:含有日語的條目 "wikilink")
-[Category:波麗佳音音樂專輯](https://zh.wikipedia.org/wiki/Category:波麗佳音音樂專輯 "wikilink")
+[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:Weather_Girls](https://zh.wikipedia.org/wiki/Category:Weather_Girls "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:含有日語的條目](https://zh.wikipedia.org/wiki/Category:含有日語的條目 "wikilink") [Category:波麗佳音音樂專輯](https://zh.wikipedia.org/wiki/Category:波麗佳音音樂專輯 "wikilink")
 
 1.
 2.

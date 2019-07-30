@@ -1,5 +1,4 @@
-**摩尼字母**是一个位于第一輔助平面的[Unicode区段](../Page/Unicode區段.md "wikilink")，收录了用于拼写[粟特语](../Page/粟特语.md "wikilink"),
-[安息语](../Page/安息语.md "wikilink")，[法尔斯语的摩尼字母](https://zh.wikipedia.org/wiki/法尔斯语 "wikilink")。\[1\]
+**摩尼字母**是一个位于第一輔助平面的[Unicode区段](../Page/Unicode區段.md "wikilink")，收录了用于拼写[粟特语](../Page/粟特语.md "wikilink"), [安息语](../Page/安息语.md "wikilink")，[法尔斯语的摩尼字母](https://zh.wikipedia.org/wiki/法尔斯语 "wikilink")。\[1\]
 
 本区块定义了5个标准化变体。\[2\]
 

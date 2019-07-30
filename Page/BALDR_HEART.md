@@ -1,7 +1,4 @@
-《**BALDR
-HEART**》是[戲畫在](https://zh.wikipedia.org/wiki/戲畫 "wikilink")2016年8月26日發售的[戀愛冒險](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[動作類型](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，BALDR系列的第7作。2016年12月22日發售[Fan
-disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《BALDR HEART
-EXE》。\[3\]
+《**BALDR HEART**》是[戲畫在](https://zh.wikipedia.org/wiki/戲畫 "wikilink")2016年8月26日發售的[戀愛冒險](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[動作類型](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，BALDR系列的第7作。2016年12月22日發售[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《BALDR HEART EXE》。\[3\]
 
 ## 故事
 
@@ -52,9 +49,7 @@ EXE》。\[3\]
 
 ## 評價
 
-《BALDR
-HEART》在Getchu.com舉辦的美少女遊戲大獎2016（美少女ゲーム大賞2016）中獲得綜合部門第7名、劇本部門第6名、系統部門第1名、音樂部門第7名、角色部門月詠第15名。\[16\]《BALDR
-HEART EXE》在Getchu.com的2016年12月销量榜上排名第9名。\[17\]
+《BALDR HEART》在Getchu.com舉辦的美少女遊戲大獎2016（美少女ゲーム大賞2016）中獲得綜合部門第7名、劇本部門第6名、系統部門第1名、音樂部門第7名、角色部門月詠第15名。\[16\]《BALDR HEART EXE》在Getchu.com的2016年12月销量榜上排名第9名。\[17\]
 
 ## 參考來源
 
@@ -64,13 +59,7 @@ HEART EXE》在Getchu.com的2016年12月销量榜上排名第9名。\[17\]
   - [BALDR HEART官方網站](http://products.web-giga.com/baldrheart/)
   - [BALDR HEART EXE官方網站](http://products.web-giga.com/bhexe/)
 
-[Category:2016年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2016年日本成人遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:等距視角遊戲](https://zh.wikipedia.org/wiki/Category:等距視角遊戲 "wikilink")
-[Category:BALDR系列](https://zh.wikipedia.org/wiki/Category:BALDR系列 "wikilink")
+[Category:2016年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2016年日本成人遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:等距視角遊戲](https://zh.wikipedia.org/wiki/Category:等距視角遊戲 "wikilink") [Category:BALDR系列](https://zh.wikipedia.org/wiki/Category:BALDR系列 "wikilink")
 
 1.
 

@@ -1,6 +1,4 @@
-《**昭宥xHani的Beauty
-View**》（；）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC2電視台播出的](https://zh.wikipedia.org/wiki/JTBC2 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由
-[昭宥](https://zh.wikipedia.org/wiki/昭宥 "wikilink")、[Hani等人共同主持](https://zh.wikipedia.org/wiki/Hani "wikilink")\[1\]，節目主軸以美妝為主，同時也結合旅遊和美食等內容\[2\]\[3\]。
+《**昭宥xHani的Beauty View**》（；）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC2電視台播出的](https://zh.wikipedia.org/wiki/JTBC2 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由 [昭宥](https://zh.wikipedia.org/wiki/昭宥 "wikilink")、[Hani等人共同主持](https://zh.wikipedia.org/wiki/Hani "wikilink")\[1\]，節目主軸以美妝為主，同時也結合旅遊和美食等內容\[2\]\[3\]。
 
 ## 各集內容
 
@@ -15,8 +13,7 @@ View**》（；）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[J
 
 ## 收視率
 
-以下紀錄《**昭宥xHani的Beauty
-View**》節目之全國收視，<span style=color:red>**紅色**</span>表示為該季度最高收視率，<span style=color:blue>**藍色**</span>則表示為該季度最低收視率。
+以下紀錄《**昭宥xHani的Beauty View**》節目之全國收視，<span style=color:red>**紅色**</span>表示為該季度最高收視率，<span style=color:blue>**藍色**</span>則表示為該季度最低收視率。
 
 <table>
 <thead>
@@ -117,10 +114,7 @@ View**》節目之全國收視，<span style=color:red>**紅色**</span>表示�
 
   -
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:正在播放的電視節目](https://zh.wikipedia.org/wiki/Category:正在播放的電視節目 "wikilink")
-[Category:JTBC2](https://zh.wikipedia.org/wiki/Category:JTBC2 "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:正在播放的電視節目](https://zh.wikipedia.org/wiki/Category:正在播放的電視節目 "wikilink") [Category:JTBC2](https://zh.wikipedia.org/wiki/Category:JTBC2 "wikilink")
 
 1.
 2.

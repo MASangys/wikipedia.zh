@@ -1,12 +1,4 @@
-**紅米Note
-3**是[小米科技於](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2015年11月24日所推出的中階[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，為[紅米手機系列中的首款全金屬機身手機](https://zh.wikipedia.org/wiki/紅米系列 "wikilink")，共有兩種版本，全網通版本採用Qualcomm
-[Snapdragon 650](../Page/高通驍龍元件列表.md "wikilink")
-64位元處理器，雙網通版本則採用[MediaTek](https://zh.wikipedia.org/wiki/MediaTek "wikilink")
-[Helio](https://zh.wikipedia.org/wiki/Helio_系列 "wikilink")™ X10
-64位元處理器，搭載[Android](../Page/Android.md "wikilink")
-[6.0](https://zh.wikipedia.org/wiki/Android歷史版本 "wikilink")、5.5吋[Full
-HD螢幕](../Page/Full_HD.md "wikilink")、2GB / 3GB記憶體、16GB / 32GB
-儲存空間，新增了指紋辨識。2016年6月16日推出台灣特製版，支援台灣[4G全頻段](../Page/4G.md "wikilink")。此機硬體上支持[VoLTE](https://zh.wikipedia.org/wiki/VoLTE "wikilink")。
+**紅米Note 3**是[小米科技於](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2015年11月24日所推出的中階[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，為[紅米手機系列中的首款全金屬機身手機](https://zh.wikipedia.org/wiki/紅米系列 "wikilink")，共有兩種版本，全網通版本採用Qualcomm [Snapdragon 650](../Page/高通驍龍元件列表.md "wikilink") 64位元處理器，雙網通版本則採用[MediaTek](https://zh.wikipedia.org/wiki/MediaTek "wikilink") [Helio](https://zh.wikipedia.org/wiki/Helio_系列 "wikilink")™ X10 64位元處理器，搭載[Android](../Page/Android.md "wikilink") [6.0](https://zh.wikipedia.org/wiki/Android歷史版本 "wikilink")、5.5吋[Full HD螢幕](../Page/Full_HD.md "wikilink")、2GB / 3GB記憶體、16GB / 32GB 儲存空間，新增了指紋辨識。2016年6月16日推出台灣特製版，支援台灣[4G](../Page/4G.md "wikilink")全頻段。此機硬體上支持[VoLTE](https://zh.wikipedia.org/wiki/VoLTE "wikilink")。
 
 ## 詳細規格
 
@@ -209,11 +201,6 @@ HD螢幕](../Page/Full_HD.md "wikilink")、2GB / 3GB記憶體、16GB / 32GB
 
 ## 参考与引用
 
-  - [小米3箭齊發
-    金屬紅米Note 3亮相](https://tw.news.yahoo.com/%E5%B0%8F%E7%B1%B33%E7%AE%AD%E9%BD%8A%E7%99%BC-%E9%87%91%E5%B1%AC%E7%B4%85%E7%B1%B3note-3%E4%BA%AE%E7%9B%B8-095720973.html)
+  - [小米3箭齊發 金屬紅米Note 3亮相](https://tw.news.yahoo.com/%E5%B0%8F%E7%B1%B33%E7%AE%AD%E9%BD%8A%E7%99%BC-%E9%87%91%E5%B1%AC%E7%B4%85%E7%B1%B3note-3%E4%BA%AE%E7%9B%B8-095720973.html)
 
-[Category:小米手机](https://zh.wikipedia.org/wiki/Category:小米手机 "wikilink")
-[Category:智能手机](https://zh.wikipedia.org/wiki/Category:智能手机 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
+[Category:小米手机](https://zh.wikipedia.org/wiki/Category:小米手机 "wikilink") [Category:智能手机](https://zh.wikipedia.org/wiki/Category:智能手机 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")

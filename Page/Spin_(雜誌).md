@@ -7,11 +7,7 @@
   -
   - [Google圖書上的《Spin》](https://books.google.com/books/serial/ISSN:08863032)
 
-[Category:美国杂志](https://zh.wikipedia.org/wiki/Category:美国杂志 "wikilink")
-[Category:1985年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:1985年創辦的雜誌 "wikilink")
-[Category:2012年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2012年停刊的雜誌 "wikilink")
-[Category:1985年美國建立](https://zh.wikipedia.org/wiki/Category:1985年美國建立 "wikilink")
-[Category:2012年美國廢除](https://zh.wikipedia.org/wiki/Category:2012年美國廢除 "wikilink")
+[Category:美国杂志](https://zh.wikipedia.org/wiki/Category:美国杂志 "wikilink") [Category:1985年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:1985年創辦的雜誌 "wikilink") [Category:2012年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2012年停刊的雜誌 "wikilink") [Category:1985年美國建立](https://zh.wikipedia.org/wiki/Category:1985年美國建立 "wikilink") [Category:2012年美國廢除](https://zh.wikipedia.org/wiki/Category:2012年美國廢除 "wikilink")
 
 1.
 2.

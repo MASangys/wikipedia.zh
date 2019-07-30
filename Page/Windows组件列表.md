@@ -85,7 +85,7 @@
 <td><p><a href="../Page/Windows_NT_4.0.md" title="wikilink">Windows NT 4.0</a> (Separate Tool), <a href="../Page/Windows_2000.md" title="wikilink">Windows 2000</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/注册表.md" title="wikilink">注册表编辑器</a></p></td>
+<td><p><a href="../Page/注册表.md" title="wikilink">注册表</a>编辑器</p></td>
 <td><p>用来查看和维护注册表。</p></td>
 <td><p>Windows 3.1</p></td>
 </tr>
@@ -273,7 +273,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/WordPad.md" title="wikilink">WordPad</a></p></td>
-<td><p>比<a href="../Page/記事本.md" title="wikilink">記事本更多功能的簡易文件編輯器</a>。它有調整格式和列印文件的功能，但缺少進階功能，如拼字檢查器和同義詞庫。</p></td>
+<td><p>比<a href="../Page/記事本.md" title="wikilink">記事本</a>更多功能的簡易文件編輯器。它有調整格式和列印文件的功能，但缺少進階功能，如拼字檢查器和同義詞庫。</p></td>
 <td><p><a href="../Page/Windows_95.md" title="wikilink">Windows 95</a></p></td>
 </tr>
 <tr class="odd">

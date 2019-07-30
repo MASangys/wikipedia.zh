@@ -1,39 +1,22 @@
-《**BIGBANG10 The Concert：0.TO.10 -The
-Final-**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG在](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[日本發售的演唱會影音專輯](../Page/日本.md "wikilink")，本作收錄了在2016年12月29日於[大阪京瓷巨蛋的](../Page/大阪巨蛋.md "wikilink")「[0.TO.10](https://zh.wikipedia.org/wiki/0.TO.10 "wikilink")」紀念演唱會現場演出、巡迴演唱會紀錄片以及特別活動「Hajimari
-no
-Sayonara」\[1\]，此次的演唱會包括在日本四個城市共16場演出總計動員了781,500人\[2\]\[3\]\[4\]。實體影音專輯於2017年3月22日發行，同年3月29日提供[數位音樂下載](../Page/數位音樂下載.md "wikilink")。\[5\]
+《**BIGBANG10 The Concert：0.TO.10 -The Final-**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG在](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[日本](../Page/日本.md "wikilink")發售的演唱會影音專輯，本作收錄了在2016年12月29日於[大阪京瓷巨蛋的](../Page/大阪巨蛋.md "wikilink")「[0.TO.10](https://zh.wikipedia.org/wiki/0.TO.10 "wikilink")」紀念演唱會現場演出、巡迴演唱會紀錄片以及特別活動「Hajimari no Sayonara」\[1\]，此次的演唱會包括在日本四個城市共16場演出總計動員了781,500人\[2\]\[3\]\[4\]。實體影音專輯於2017年3月22日發行，同年3月29日提供[數位音樂下載](../Page/數位音樂下載.md "wikilink")。\[5\]
 
 ## 發行版本
 
-[BIGBANG10_The_Concert_0.TO.10_The_Final_豪華初回生產限定盤.png](https://zh.wikipedia.org/wiki/File:BIGBANG10_The_Concert_0.TO.10_The_Final_豪華初回生產限定盤.png "fig:BIGBANG10_The_Concert_0.TO.10_The_Final_豪華初回生產限定盤.png")
-此專輯共分為4種發行版本，包括2種豪華限量盤、2種通常盤。
+[BIGBANG10_The_Concert_0.TO.10_The_Final_豪華初回生產限定盤.png](https://zh.wikipedia.org/wiki/File:BIGBANG10_The_Concert_0.TO.10_The_Final_豪華初回生產限定盤.png "fig:BIGBANG10_The_Concert_0.TO.10_The_Final_豪華初回生產限定盤.png") 此專輯共分為4種發行版本，包括2種豪華限量盤、2種通常盤。
 
-  - 豪華初回生產限定盤
-    4DVD+2CD+寫真書（編碼：AVBY-58473）：此版本附特別包裝，內容物含120頁寫真書與成員小卡（5款隨機1款封入）與二片收錄24首歌曲的Live
-    CD和四片DVD，DVD共收錄「0.TO.10 -The
-    Final-」2016年12月29日大阪京瓷巨蛋場次Live影像、見面會「BIGBANG
-    Special Event -Hajimari no Sayonara-」影像、成員個別多角度特寫鎖定畫面及特別影像收錄紀實、Best
-    moments集。
+  - 豪華初回生產限定盤 4DVD+2CD+寫真書（編碼：AVBY-58473）：此版本附特別包裝，內容物含120頁寫真書與成員小卡（5款隨機1款封入）與二片收錄24首歌曲的Live CD和四片DVD，DVD共收錄「0.TO.10 -The Final-」2016年12月29日大阪京瓷巨蛋場次Live影像、見面會「BIGBANG Special Event -Hajimari no Sayonara-」影像、成員個別多角度特寫鎖定畫面及特別影像收錄紀實、Best moments集。
 
 <!-- end list -->
 
-  - 豪華初回生產限定盤
-    3藍光唱片+2CD+寫真書（編碼：AVXY-58477）：此版本附特別包裝，內容物含120頁寫真書與成員小卡（5款隨機1款封入）與二片收錄24首歌曲的Live
-    CD和三片藍光唱片，藍光唱片共收錄「0.TO.10 -The
-    Final-」2016年12月29日大阪京瓷巨蛋場次Live影像、見面會「BIGBANG
-    Special Event -Hajimari no Sayonara-」影像、成員個別多角度特寫鎖定畫面及特別影像收錄紀實、Best
-    moments集。
+  - 豪華初回生產限定盤 3藍光唱片+2CD+寫真書（編碼：AVXY-58477）：此版本附特別包裝，內容物含120頁寫真書與成員小卡（5款隨機1款封入）與二片收錄24首歌曲的Live CD和三片藍光唱片，藍光唱片共收錄「0.TO.10 -The Final-」2016年12月29日大阪京瓷巨蛋場次Live影像、見面會「BIGBANG Special Event -Hajimari no Sayonara-」影像、成員個別多角度特寫鎖定畫面及特別影像收錄紀實、Best moments集。
 
 <!-- end list -->
 
-  - 通常盤 2DVD（編碼：AVBY-58480）：此版本內容物含成員小卡（5款隨機1款封入）與二片DVD，DVD共收錄「0.TO.10
-    -The Final-」2016年12月29日大阪京瓷巨蛋場次Live影像。
+  - 通常盤 2DVD（編碼：AVBY-58480）：此版本內容物含成員小卡（5款隨機1款封入）與二片DVD，DVD共收錄「0.TO.10 -The Final-」2016年12月29日大阪京瓷巨蛋場次Live影像。
 
 <!-- end list -->
 
-  - 通常盤
-    2藍光光碟（編碼：AVXY-58482）：此版本內容物含成員小卡（5款隨機1款封入）與二片藍光光碟，藍光光碟共收錄「0.TO.10
-    -The Final-」2016年12月29日大阪京瓷巨蛋場次Live影像。
+  - 通常盤 2藍光光碟（編碼：AVXY-58482）：此版本內容物含成員小卡（5款隨機1款封入）與二片藍光光碟，藍光光碟共收錄「0.TO.10 -The Final-」2016年12月29日大阪京瓷巨蛋場次Live影像。
 
 {{-}}
 
@@ -128,8 +111,7 @@ Sayonara」\[1\]，此次的演唱會包括在日本四個城市共16場演出�
 
   -
 
-[Category:BIGBANG演唱會影音專輯](https://zh.wikipedia.org/wiki/Category:BIGBANG演唱會影音專輯 "wikilink")
-[Category:影音專輯](https://zh.wikipedia.org/wiki/Category:影音專輯 "wikilink")
+[Category:BIGBANG演唱會影音專輯](https://zh.wikipedia.org/wiki/Category:BIGBANG演唱會影音專輯 "wikilink") [Category:影音專輯](https://zh.wikipedia.org/wiki/Category:影音專輯 "wikilink")
 
 1.
 

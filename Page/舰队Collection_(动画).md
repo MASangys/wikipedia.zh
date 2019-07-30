@@ -1,5 +1,4 @@
-《**舰队Collection**》（），是由[日本Diomedéa基于角川游戏的同名游戏所制作](../Page/日本.md "wikilink")2015年[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")，2013年9月公布，\[1\]共12集，该动画先在东京MX和KBS于2015年1月8日和2015年3月26日播放，后在其他电视台播放\[2\]\[3\]\[4\]后公布将有一部续集\[5\]，除此之外在2016年动画电影上映\[6\]。
-2019年一月於武道館公開第二季PV
+《**舰队Collection**》（），是由[日本](../Page/日本.md "wikilink")Diomedéa基于角川游戏的同名游戏所制作2015年[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")，2013年9月公布，\[1\]共12集，该动画先在东京MX和KBS于2015年1月8日和2015年3月26日播放，后在其他电视台播放\[2\]\[3\]\[4\]后公布将有一部续集\[5\]，除此之外在2016年动画电影上映\[6\]。 2019年一月於武道館公開第二季PV
 
 ## 故事简介
 
@@ -221,7 +220,7 @@
 <thead>
 <tr class="header">
 <th><p>原作</p></th>
-<th><p><a href="../Page/DMM.com.md" title="wikilink">DMM.com/KADOKAWA GAMES</a></p></th>
+<th><p><a href="../Page/DMM.com.md" title="wikilink">DMM.com GAMES</a>/KADOKAWA</p></th>
 </tr>
 </thead>
 <tbody>
@@ -323,9 +322,7 @@
 ### 音樂
 
   - 片頭曲「[海色](https://zh.wikipedia.org/wiki/海色 "wikilink")」（第2話－第12話）
-    填詞：minatoku（[田中謙介](https://zh.wikipedia.org/wiki/田中謙介 "wikilink")），作曲、編曲：WEST
-    GROUND，主唱：[AKINO from
-    bless4](https://zh.wikipedia.org/wiki/AKINO_from_bless4 "wikilink")
+    填詞：minatoku（[田中謙介](https://zh.wikipedia.org/wiki/田中謙介 "wikilink")），作曲、編曲：WEST GROUND，主唱：[AKINO from bless4](https://zh.wikipedia.org/wiki/AKINO_from_bless4 "wikilink")
 
     第1話當作片尾曲使用。
 
@@ -333,8 +330,7 @@
 
 :; 「[吹雪](../Page/吹雪.md "wikilink")」（第2話、第4話－第12話）
 
-:: 填詞：minatoku（田中謙介），作曲：Hige Driver，編曲：WEST
-GROUND、齋藤悠彌，主唱：[西澤幸奏](../Page/西澤幸奏.md "wikilink")
+:: 填詞：minatoku（田中謙介），作曲：Hige Driver，編曲：WEST GROUND、齋藤悠彌，主唱：[西澤幸奏](../Page/西澤幸奏.md "wikilink")
 
 :: 第1話和第3話未使用。
 
@@ -343,8 +339,7 @@ GROUND、齋藤悠彌，主唱：[西澤幸奏](../Page/西澤幸奏.md "wikilin
   -
 
       -
-        填詞：minatoku（田中謙介）、松井俊介，作、編曲：寶野聰史，主唱：艦娘特別艦隊（赤城、加賀、瑞鶴、金剛、島風、吹雪，[Flying
-        DOG](../Page/Flying_DOG.md "wikilink")）
+        填詞：minatoku（田中謙介）、松井俊介，作、編曲：寶野聰史，主唱：艦娘特別艦隊（赤城、加賀、瑞鶴、金剛、島風、吹雪，[Flying DOG](../Page/Flying_DOG.md "wikilink")）
 
   - 劇中歌「進擊！金剛型四姐妹（）」（第4話）
     填詞：minatoku（田中謙介）、松井俊介，作曲、編曲：齋藤悠彌，主唱：金剛型四姐妹（金剛、比叡、榛名、霧島）
@@ -496,7 +491,7 @@ Kim Jeong Eun</p></td>
 
 ### 播放
 
-電視動畫自2015年1月7日起於[獨立UHF局](https://zh.wikipedia.org/wiki/獨立UHF局 "wikilink")、[日本電視網](https://zh.wikipedia.org/wiki/NNS "wikilink")、[TBS電視網](../Page/TBS電視台.md "wikilink")、[東京電視網](../Page/東京電視網.md "wikilink")、[全日本新聞網](../Page/全日本新聞網.md "wikilink")、[富士電視網底下多家電視台及](../Page/富士電視網.md "wikilink")[BS11頻道播放](https://zh.wikipedia.org/wiki/BS11 "wikilink")。
+電視動畫自2015年1月7日起於[獨立UHF局](https://zh.wikipedia.org/wiki/獨立UHF局 "wikilink")、[日本電視網](https://zh.wikipedia.org/wiki/NNS "wikilink")、[TBS電視網](../Page/TBS電視台.md "wikilink")、[東京電視網](../Page/東京電視網.md "wikilink")、[全日本新聞網](../Page/全日本新聞網.md "wikilink")、[富士電視網](../Page/富士電視網.md "wikilink")底下多家電視台及[BS11頻道播放](https://zh.wikipedia.org/wiki/BS11 "wikilink")。
 
 ## 參考資料
 
@@ -505,10 +500,7 @@ Kim Jeong Eun</p></td>
   - [《艦Collection》動畫官網](http://kancolle-anime.jp/)
 
   -
-[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
-[Category:軍事科幻](https://zh.wikipedia.org/wiki/Category:軍事科幻 "wikilink")
-[Category:萌擬人化題材作品](https://zh.wikipedia.org/wiki/Category:萌擬人化題材作品 "wikilink")
+[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:軍事科幻](https://zh.wikipedia.org/wiki/Category:軍事科幻 "wikilink") [Category:萌擬人化題材作品](https://zh.wikipedia.org/wiki/Category:萌擬人化題材作品 "wikilink")
 
 1.
 2.
@@ -516,10 +508,7 @@ Kim Jeong Eun</p></td>
 4.
 5.
 6.
-7.  2013-12-10. *[Newtype](../Page/Newtype.md "wikilink")*, January 2014
-    issue. [Kadokawa
-    Shoten](https://zh.wikipedia.org/wiki/Kadokawa_Shoten "wikilink").
-    ASIN B00GUP6QU2.
+7.  2013-12-10. *[Newtype](../Page/Newtype.md "wikilink")*, January 2014 issue. [Kadokawa Shoten](https://zh.wikipedia.org/wiki/Kadokawa_Shoten "wikilink"). ASIN B00GUP6QU2.
 8.
 9.
 10. 事實上赤城消費量並不算高，但由於遊戲早期即可循指定任務獲得，對於資源不多新手負擔較高，以及遊戲初期BUG艦載機容易折損，補給會大量耗费鋁材，便有了食量很大的感覺。

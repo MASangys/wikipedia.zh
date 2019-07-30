@@ -1,5 +1,4 @@
-这是一份符合RFC 3053的**[IPv6](../Page/IPv6.md "wikilink")
-[隧道中间人的列表](../Page/隧道中间人.md "wikilink")**，用户可以通过IPv6[隧道中间人来访问运行在IPv](../Page/隧道中间人.md "wikilink")6上的服务。
+这是一份符合RFC 3053的**[IPv6](../Page/IPv6.md "wikilink") [隧道中间人](../Page/隧道中间人.md "wikilink")的列表**，用户可以通过IPv6[隧道中间人](../Page/隧道中间人.md "wikilink")来访问运行在IPv6上的服务。
 
 <table>
 <thead>
@@ -199,10 +198,10 @@ Vienna, Austria</p></td>
 
 以上表格提供了下列信息：
 
-| 名称        | 提供[隧道中间人服务的服务商](../Page/隧道中间人.md "wikilink")，这通常与一个[互联网服务供应商对应](../Page/互联网服务供应商.md "wikilink")。                                                                                                                                                                                                                                                                                                                                                                                          |
+| 名称        | 提供[隧道中间人](../Page/隧道中间人.md "wikilink")服务的服务商，这通常与一个[互联网服务供应商](../Page/互联网服务供应商.md "wikilink")对应。                                                                                                                                                                                                                                                                                                                                                                                          |
 | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | PoPs      | PoPs 部署的数量                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| 服务位置      | 服务商提供的[隧道中间人服务器的地理位置](../Page/隧道中间人.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 服务位置      | 服务商提供的[隧道中间人](../Page/隧道中间人.md "wikilink")服务器的地理位置                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | 子网        | What [subnet](https://zh.wikipedia.org/wiki/subnetwork "wikilink") allocation the tunnel broker provides next to the /127 or /64 for the tunnel.                                                                                                                                                                                                                                                                                                                                          |
 | 隧道协议      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |           | Which [tunnelling protocols](https://zh.wikipedia.org/wiki/tunnelling_protocol "wikilink") are provided by the tunnel broker. This has impact on whether one can use a tunnel behind [NAT](https://zh.wikipedia.org/wiki/Network_Address_Translation "wikilink") or in cases where the IPv4 address of the user changes often. Check the relevant protocol descriptions for more details, or see this [tunneling comparison](http://www.sixxs.net/faq/connectivity/?faq=comparison).      |
@@ -229,8 +228,7 @@ Vienna, Austria</p></td>
 
 [分类:互联网统计表](https://zh.wikipedia.org/wiki/分类:互联网统计表 "wikilink")
 
-[Category:穿隧協議](https://zh.wikipedia.org/wiki/Category:穿隧協議 "wikilink")
-[Category:IPv6](https://zh.wikipedia.org/wiki/Category:IPv6 "wikilink")
+[Category:穿隧協議](https://zh.wikipedia.org/wiki/Category:穿隧協議 "wikilink") [Category:IPv6](https://zh.wikipedia.org/wiki/Category:IPv6 "wikilink")
 
 1.
 2.

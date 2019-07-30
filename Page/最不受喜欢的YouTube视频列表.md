@@ -1,23 +1,18 @@
-[YouTube_Rewind_Logo_(2017_to_Present).svg](https://zh.wikipedia.org/wiki/File:YouTube_Rewind_Logo_\(2017_to_Present\).svg "fig:YouTube_Rewind_Logo_(2017_to_Present).svg")》是[YouTube上迄今最不受喜欢的视频](../Page/YouTube.md "wikilink")。该视频自2018年12月6日上传以来，已收到超过1600万个不喜欢。\[1\]\]\]
-[YouTube_Rewind_2018_and_Baby_dislikes.svg](https://zh.wikipedia.org/wiki/File:YouTube_Rewind_2018_and_Baby_dislikes.svg "fig:YouTube_Rewind_2018_and_Baby_dislikes.svg")》在上传一周后超越《[宝贝](https://zh.wikipedia.org/wiki/宝贝_\(贾斯汀·比伯歌曲\) "wikilink")》音乐录影带而成为最不受喜欢的视频。\]\]
+[YouTube_Rewind_Logo_(2017_to_Present).svg](https://zh.wikipedia.org/wiki/File:YouTube_Rewind_Logo_\(2017_to_Present\).svg "fig:YouTube_Rewind_Logo_(2017_to_Present).svg")》是[YouTube](../Page/YouTube.md "wikilink")上迄今最不受喜欢的视频。该视频自2018年12月6日上传以来，已收到超过1600万个不喜欢。\[1\]\]\] [YouTube_Rewind_2018_and_Baby_dislikes.svg](https://zh.wikipedia.org/wiki/File:YouTube_Rewind_2018_and_Baby_dislikes.svg "fig:YouTube_Rewind_2018_and_Baby_dislikes.svg")》在上传一周后超越《[宝贝](https://zh.wikipedia.org/wiki/宝贝_\(贾斯汀·比伯歌曲\) "wikilink")》音乐录影带而成为最不受喜欢的视频。\]\]
 
-**最不受喜欢的YouTube视频列表**（）包含了[YouTube有史以来最不受喜欢的视频中的前](../Page/YouTube.md "wikilink")50名，这些排名来自YouTube榜单。\[2\]
-2010年，YouTube在视频播放页上部署了，作为网站主要设计的一部分。这个修改用以取代之前的[五星评分系统](../Page/星級.md "wikilink")，\[3\]这是由于五星评分系统中“两星”和“四星”两个选项因为极少的选择而被发现是没有实际效果的。\[4\]在本列表中的50个视频里，有16个也出现在[播放次数最多的YouTube视频列表内](../Page/觀看次數最多的YouTube影片列表.md "wikilink")；同时也有11个出现在[最受喜欢的YouTube视频列表中](https://zh.wikipedia.org/wiki/最受喜欢的YouTube视频列表 "wikilink")。截至2019年2月，[贾斯汀·比伯有](../Page/贾斯汀·比伯.md "wikilink")4个视频位列本表，成为拥有最多最不受喜欢的视频的人；而YouTube官方频道也有3个视频位列其中。
+**最不受喜欢的YouTube视频列表**（）包含了[YouTube](../Page/YouTube.md "wikilink")有史以来最不受喜欢的视频中的前50名，这些排名来自YouTube榜单。\[2\] 2010年，YouTube在视频播放页上部署了，作为网站主要设计的一部分。这个修改用以取代之前的[五星评分系统](../Page/星級.md "wikilink")，\[3\]这是由于五星评分系统中“两星”和“四星”两个选项因为极少的选择而被发现是没有实际效果的。\[4\]在本列表中的50个视频里，有16个也出现在[播放次数最多的YouTube视频列表内](../Page/觀看次數最多的YouTube影片列表.md "wikilink")；同时也有11个出现在[最受喜欢的YouTube视频列表中](https://zh.wikipedia.org/wiki/最受喜欢的YouTube视频列表 "wikilink")。截至2019年2月，[贾斯汀·比伯](../Page/贾斯汀·比伯.md "wikilink")有4个视频位列本表，成为拥有最多最不受喜欢的视频的人；而YouTube官方频道也有3个视频位列其中。
 
-2018年12月13日，《[YouTube
-2018年年度回顾：人人掌控回顾](../Page/2018年YouTube年度回顧.md "wikilink")》以1500个不喜欢而正是超越[贾斯汀·比伯的](../Page/贾斯汀·比伯.md "wikilink")《[宝贝](https://zh.wikipedia.org/wiki/宝贝_\(贾斯汀·比伯歌曲\) "wikilink")》[音乐录影带成为视频分享平台上最不受喜欢的视频](https://zh.wikipedia.org/wiki/音乐录影带 "wikilink")；《宝贝》音乐录影带曾列入《[吉尼斯世界纪录大全](../Page/吉尼斯世界纪录.md "wikilink")》上的[互联网和YouTube上最不受欢迎的视频](../Page/互联网.md "wikilink")。\[5\]截至2018年12月31日，《YouTube
-2018年年度回顾》与《宝贝》音乐录影带相比，仍然多出500万个不喜欢。
+2018年12月13日，《[YouTube 2018年年度回顾：人人掌控回顾](../Page/2018年YouTube年度回顧.md "wikilink")》以1500个不喜欢而正是超越[贾斯汀·比伯](../Page/贾斯汀·比伯.md "wikilink")的《[宝贝](https://zh.wikipedia.org/wiki/宝贝_\(贾斯汀·比伯歌曲\) "wikilink")》[音乐录影带成为视频分享平台上最不受喜欢的视频](https://zh.wikipedia.org/wiki/音乐录影带 "wikilink")；《宝贝》音乐录影带曾列入《[吉尼斯世界纪录](../Page/吉尼斯世界纪录.md "wikilink")大全》上的[互联网](../Page/互联网.md "wikilink")和YouTube上最不受欢迎的视频。\[5\]截至2018年12月31日，《YouTube 2018年年度回顾》与《宝贝》音乐录影带相比，仍然多出500万个不喜欢。
 
-2011年3月，[瑞贝卡·布莱克的](../Page/瑞贝卡·布莱克.md "wikilink")《[星期五](https://zh.wikipedia.org/wiki/Friday_\(瑞贝卡·布莱克歌曲\) "wikilink")》音乐录影带以超过120万个不喜欢取代拥有110万个不喜欢的《宝贝》音乐录影带而成为最不受喜欢的视频。\[6\]在2011年6月视频下架之前，布莱克的《星期五》累积了超过300万个不喜欢。不过，这个视频在三个月又得到恢复并再未被删除过。\[7\]
+2011年3月，[瑞贝卡·布莱克](../Page/瑞贝卡·布莱克.md "wikilink")的《[星期五](https://zh.wikipedia.org/wiki/Friday_\(瑞贝卡·布莱克歌曲\) "wikilink")》音乐录影带以超过120万个不喜欢取代拥有110万个不喜欢的《宝贝》音乐录影带而成为最不受喜欢的视频。\[6\]在2011年6月视频下架之前，布莱克的《星期五》累积了超过300万个不喜欢。不过，这个视频在三个月又得到恢复并再未被删除过。\[7\]
 
-分析YouTube上不受喜欢的视频内容也具有政治和学术价值。2012年期间，由于候选人[里克·佩里遭遇直接的负面评价](../Page/里克·佩里.md "wikilink")，他的竞选广告《》五天内在YouTube上收到了超过60万个不喜欢。\[8\]《》的迈克·巴特尔（Mike
-Barthel）将这个现象称为不要以同样的标准判断网上的政治内容和娱乐内容的一个原因，他认为“只有人们觉得他们的福祉受到直接和明显的威胁时，人们才会更关心政治而不是娱乐。”\[9\]
+分析YouTube上不受喜欢的视频内容也具有政治和学术价值。2012年期间，由于候选人[里克·佩里](../Page/里克·佩里.md "wikilink")遭遇直接的负面评价，他的竞选广告《》五天内在YouTube上收到了超过60万个不喜欢。\[8\]《》的迈克·巴特尔（Mike Barthel）将这个现象称为不要以同样的标准判断网上的政治内容和娱乐内容的一个原因，他认为“只有人们觉得他们的福祉受到直接和明显的威胁时，人们才会更关心政治而不是娱乐。”\[9\]
 
-虽然音乐类视频构成了最不受喜欢视频中的大部分内容，但2016年公映的电影《[超能敢死队](../Page/魔鬼剋星_\(2016年電影\).md "wikilink")》所上传的[预告片以超过](../Page/预告片.md "wikilink")100万个不喜欢成为YouTube上最不受喜欢的电影预告片。\[10\]一些影评人认为这种激烈的反对会导致电影剧组的共同努力变得毫无意义。\[11\]与最不受喜欢的电影预告片一同在2016年出现的还有最不受喜欢的电子游戏预告片——《[使命召唤：无限战争](../Page/使命召唤：无限战争.md "wikilink")》，该预告片得到了超过300万个不喜欢。\[12\]\[13\]在上传两周后，该视频成为YouTube最不受喜欢的视频第二名。\[14\][YouTuber](../Page/YouTuber.md "wikilink")[PewDiePie曾特别要求他的观众对他的视频投](../Page/PewDiePie.md "wikilink")“不喜欢”票，以此来争取最不受喜欢视频的前五名。\[15\]
+虽然音乐类视频构成了最不受喜欢视频中的大部分内容，但2016年公映的电影《[超能敢死队](../Page/魔鬼剋星_\(2016年電影\).md "wikilink")》所上传的[预告片](../Page/预告片.md "wikilink")以超过100万个不喜欢成为YouTube上最不受喜欢的电影预告片。\[10\]一些影评人认为这种激烈的反对会导致电影剧组的共同努力变得毫无意义。\[11\]与最不受喜欢的电影预告片一同在2016年出现的还有最不受喜欢的电子游戏预告片——《[使命召唤：无限战争](../Page/使命召唤：无限战争.md "wikilink")》，该预告片得到了超过300万个不喜欢。\[12\]\[13\]在上传两周后，该视频成为YouTube最不受喜欢的视频第二名。\[14\][YouTuber](../Page/YouTuber.md "wikilink")[PewDiePie](../Page/PewDiePie.md "wikilink")曾特别要求他的观众对他的视频投“不喜欢”票，以此来争取最不受喜欢视频的前五名。\[15\]
 
 ## 榜单内容
 
-下表列举了YouTube上最不受喜欢的前50个视频，以及它们的不喜欢数、创作者、不喜欢比例和发布日期。
+下表列举了YouTube上最不受喜欢的前3个视频，以及它们的不喜欢数、创作者、不喜欢比例和发布日期。
 
 <table style="width:243%;">
 <caption>YouTube最不受喜欢视频排行榜[16]</caption>
@@ -145,12 +140,9 @@ Barthel）将这个现象称为不要以同样的标准判断网上的政治内�
 </tbody>
 </table>
 
-**最不受喜欢视频榜首变迁时间线（2010年3月－2019年2月）** <timeline> ImageSize = width:900
-height:auto barincrement:20 PlotArea = top:10 bottom:80 right:130
-left:20 AlignBars = late
+**最不受喜欢视频榜首变迁时间线（2010年3月－2019年2月）** <timeline> ImageSize = width:900 height:auto barincrement:20 PlotArea = top:10 bottom:80 right:130 left:20 AlignBars = late
 
-DateFormat = dd/mm/yyyy Period = from:2010 till:04/02/2019 TimeAxis =
-orientation:horizontal ScaleMajor = unit:year increment:1 start:2010
+DateFormat = dd/mm/yyyy Period = from:2010 till:04/02/2019 TimeAxis = orientation:horizontal ScaleMajor = unit:year increment:1 start:2010
 
 Colors =
 
@@ -205,9 +197,7 @@ PlotData =
 
 ### 出典
 
-[Category:YouTube視訊](https://zh.wikipedia.org/wiki/Category:YouTube視訊 "wikilink")
-[Category:21世紀相關列表](https://zh.wikipedia.org/wiki/Category:21世紀相關列表 "wikilink")
-[Category:網際網路統計表](https://zh.wikipedia.org/wiki/Category:網際網路統計表 "wikilink")
+[Category:YouTube視訊](https://zh.wikipedia.org/wiki/Category:YouTube視訊 "wikilink") [Category:21世紀相關列表](https://zh.wikipedia.org/wiki/Category:21世紀相關列表 "wikilink") [Category:網際網路統計表](https://zh.wikipedia.org/wiki/Category:網際網路統計表 "wikilink")
 
 1.
 

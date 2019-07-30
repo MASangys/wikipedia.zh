@@ -1,5 +1,4 @@
-**李知恩**（；），藝名**IU**（
-），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[创作歌手](../Page/創作歌手.md "wikilink")、[女演员](https://zh.wikipedia.org/wiki/女演员 "wikilink")。
+**李知恩**（；），藝名**IU**（ ），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[创作歌手](../Page/創作歌手.md "wikilink")、[女演员](https://zh.wikipedia.org/wiki/女演员 "wikilink")。
 
 ## [韓國音樂著作權協會](../Page/韓國音樂著作權協會.md "wikilink")
 
@@ -42,7 +41,7 @@
 <td></td>
 <td><p>✓</p></td>
 <td></td>
-<td><p>與<a href="../Page/李笛.md" title="wikilink">李笛共同作詞</a></p></td>
+<td><p>與<a href="../Page/李笛.md" title="wikilink">李笛</a>共同作詞</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -60,7 +59,7 @@
 <td></td>
 <td><p>✓</p></td>
 <td></td>
-<td><p>與<a href="../Page/金賢哲.md" title="wikilink">金賢哲共同作詞</a></p></td>
+<td><p>與<a href="../Page/金賢哲.md" title="wikilink">金賢哲</a>共同作詞</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -70,7 +69,7 @@
 <td></td>
 <td><p>✓</p></td>
 <td></td>
-<td><p>與<a href="../Page/Ra.D.md" title="wikilink">Ra.D共同作詞</a></p></td>
+<td><p>與<a href="../Page/Ra.D.md" title="wikilink">Ra.D</a>共同作詞</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -281,7 +280,7 @@
 <td><p>✓</p></td>
 <td><p>✓</p></td>
 <td></td>
-<td><p>與<a href="../Page/吳赫.md" title="wikilink">吳赫共同作詞</a><br />
+<td><p>與<a href="../Page/吳赫.md" title="wikilink">吳赫</a>共同作詞<br />
 與<a href="../Page/吳赫.md" title="wikilink">吳赫</a>、이종훈共同作曲</p></td>
 <td></td>
 <td></td>
@@ -332,7 +331,7 @@
 <td></td>
 <td><p>✓</p></td>
 <td></td>
-<td><p>與<a href="../Page/金伊娜.md" title="wikilink">金伊娜共同作詞</a></p></td>
+<td><p>與<a href="../Page/金伊娜.md" title="wikilink">金伊娜</a>共同作詞</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -509,7 +508,7 @@
 <td><p>✓</p></td>
 <td><p>✓</p></td>
 <td></td>
-<td><p>電視劇<a href="../Page/最佳李純信.md" title="wikilink">最佳李純信終映後於官方Cafe公開</a> </p></td>
+<td><p>電視劇<a href="../Page/最佳李純信.md" title="wikilink">最佳李純信</a>終映後於官方Cafe公開 </p></td>
 </tr>
 <tr class="odd">
 <td><p>2014</p></td>
@@ -528,7 +527,7 @@
 <td><p>✓</p></td>
 <td></td>
 <td><p>與조영준共同作詞<br />
-真人秀<a href="../Page/拜託爸爸.md" title="wikilink">拜託爸爸OST</a></p></td>
+真人秀<a href="../Page/拜託爸爸.md" title="wikilink">拜託爸爸</a>OST</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
@@ -546,7 +545,7 @@
 <td><p>✓</p></td>
 <td><p>✓</p></td>
 <td></td>
-<td><p>於電視劇<a href="../Page/月之戀人－步步驚心：麗.md" title="wikilink">月之戀人－步步驚心：麗中公開</a> </p></td>
+<td><p>於電視劇<a href="../Page/月之戀人－步步驚心：麗.md" title="wikilink">月之戀人－步步驚心：麗</a>中公開 </p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -565,8 +564,6 @@
 
 ## 參考資料
 
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
-[Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
-[Category:創作歌曲列表](https://zh.wikipedia.org/wiki/Category:創作歌曲列表 "wikilink")
+[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink") [Category:創作歌曲列表](https://zh.wikipedia.org/wiki/Category:創作歌曲列表 "wikilink")
 
 1.

@@ -1,4 +1,4 @@
-**SeatGeek體育場**是一座位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[芝加哥市中心西南約](../Page/芝加哥.md "wikilink")12英里[伊利諾州](https://zh.wikipedia.org/wiki/伊利諾州 "wikilink")[橋景的足球專用體育場](https://zh.wikipedia.org/wiki/橋景 "wikilink")。體育場為[美國職業足球大聯盟](https://zh.wikipedia.org/wiki/美國職業足球大聯盟 "wikilink")[芝加哥火焰](https://zh.wikipedia.org/wiki/芝加哥火焰 "wikilink")，[國家女子足球聯賽](https://zh.wikipedia.org/wiki/國家女子足球聯賽 "wikilink")[芝加哥紅星](../Page/芝加哥紅星.md "wikilink")\[1\]和[傳奇美式足球聯賽](../Page/傳奇美式足球聯賽.md "wikilink")[芝加哥極樂的主場](https://zh.wikipedia.org/wiki/芝加哥極樂 "wikilink")。體育場於2006年6月11日啟用，啟用時名為豐田公園，能容納觀眾20,000人。\[2\]
+**SeatGeek體育場**是一座位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[芝加哥](../Page/芝加哥.md "wikilink")市中心西南約12英里[伊利諾州](https://zh.wikipedia.org/wiki/伊利諾州 "wikilink")[橋景的足球專用體育場](https://zh.wikipedia.org/wiki/橋景 "wikilink")。體育場為[美國職業足球大聯盟](https://zh.wikipedia.org/wiki/美國職業足球大聯盟 "wikilink")[芝加哥火焰](https://zh.wikipedia.org/wiki/芝加哥火焰 "wikilink")，[國家女子足球聯賽](https://zh.wikipedia.org/wiki/國家女子足球聯賽 "wikilink")[芝加哥紅星](../Page/芝加哥紅星.md "wikilink")\[1\]和[傳奇美式足球聯賽](../Page/傳奇美式足球聯賽.md "wikilink")[芝加哥極樂的主場](https://zh.wikipedia.org/wiki/芝加哥極樂 "wikilink")。體育場於2006年6月11日啟用，啟用時名為豐田公園，能容納觀眾20,000人。\[2\]
 
 ## 體育場
 
@@ -17,18 +17,9 @@
 ## 外部連結
 
   - [SeatGeek體育場官方網站](https://seatgeekstadium.com/)
-  - [SeatGeek體育場](http://stadiumdb.com/stadiums/usa/toyota_park) at
-    StadiumDB.com
+  - [SeatGeek體育場](http://stadiumdb.com/stadiums/usa/toyota_park) at StadiumDB.com
 
-[Category:芝加哥火焰足球俱樂部](https://zh.wikipedia.org/wiki/Category:芝加哥火焰足球俱樂部 "wikilink")
-[Category:芝加哥紅星](https://zh.wikipedia.org/wiki/Category:芝加哥紅星 "wikilink")
-[Category:美國職業足球大聯盟體育場](https://zh.wikipedia.org/wiki/Category:美國職業足球大聯盟體育場 "wikilink")
-[Category:美國女子足球職業聯賽體育場](https://zh.wikipedia.org/wiki/Category:美國女子足球職業聯賽體育場 "wikilink")
-[Category:國家女子足球聯賽體育場](https://zh.wikipedia.org/wiki/Category:國家女子足球聯賽體育場 "wikilink")
-[Category:美國袋棍球場](https://zh.wikipedia.org/wiki/Category:美國袋棍球場 "wikilink")
-[Category:美國橄欖球場](https://zh.wikipedia.org/wiki/Category:美國橄欖球場 "wikilink")
-[Category:豐田汽車](https://zh.wikipedia.org/wiki/Category:豐田汽車 "wikilink")
-[Category:2006年完工體育場館](https://zh.wikipedia.org/wiki/Category:2006年完工體育場館 "wikilink")
+[Category:芝加哥火焰足球俱樂部](https://zh.wikipedia.org/wiki/Category:芝加哥火焰足球俱樂部 "wikilink") [Category:芝加哥紅星](https://zh.wikipedia.org/wiki/Category:芝加哥紅星 "wikilink") [Category:美國職業足球大聯盟體育場](https://zh.wikipedia.org/wiki/Category:美國職業足球大聯盟體育場 "wikilink") [Category:美國女子足球職業聯賽體育場](https://zh.wikipedia.org/wiki/Category:美國女子足球職業聯賽體育場 "wikilink") [Category:國家女子足球聯賽體育場](https://zh.wikipedia.org/wiki/Category:國家女子足球聯賽體育場 "wikilink") [Category:美國袋棍球場](https://zh.wikipedia.org/wiki/Category:美國袋棍球場 "wikilink") [Category:美國橄欖球場](https://zh.wikipedia.org/wiki/Category:美國橄欖球場 "wikilink") [Category:豐田汽車](https://zh.wikipedia.org/wiki/Category:豐田汽車 "wikilink") [Category:2006年完工體育場館](https://zh.wikipedia.org/wiki/Category:2006年完工體育場館 "wikilink")
 
 1.
 2.  <http://www.worldofstadiums.com/north-america/united-states/illinois/toyota-park/>

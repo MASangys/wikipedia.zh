@@ -1,7 +1,4 @@
-《**TV
-動物農場**》（，\[1\]）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS的時事教養](../Page/SBS_\(韓國\).md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[申東燁](../Page/申東燁.md "wikilink")、、、[Tony
-An等人主持](https://zh.wikipedia.org/wiki/安勝浩 "wikilink")\[2\]，節目主軸為人（包括藝人與一般人）與動物互動，並推廣[動物保護等相關議題](https://zh.wikipedia.org/wiki/動物保護 "wikilink")。
-自2001年5月1日開始播映，\[3\]是韓國知名的[長壽節目](https://zh.wikipedia.org/wiki/長壽節目 "wikilink")。\[4\]
+《**TV 動物農場**》（，\[1\]）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS的時事教養](../Page/SBS_\(韓國\).md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[申東燁](../Page/申東燁.md "wikilink")、、、[Tony An等人主持](https://zh.wikipedia.org/wiki/安勝浩 "wikilink")\[2\]，節目主軸為人（包括藝人與一般人）與動物互動，並推廣[動物保護等相關議題](https://zh.wikipedia.org/wiki/動物保護 "wikilink")。 自2001年5月1日開始播映，\[3\]是韓國知名的[長壽節目](https://zh.wikipedia.org/wiki/長壽節目 "wikilink")。\[4\]
 
 ## 歷代主持
 
@@ -42,7 +39,7 @@ An等人主持](https://zh.wikipedia.org/wiki/安勝浩 "wikilink")\[2\]，節�
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/安勝浩" title="wikilink">Tony An</a></p></td>
 <td><p>토니안</p></td>
-<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="../Page/H.O.T..md" title="wikilink">H.O.T.成員</a>）</p></td>
+<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="../Page/H.O.T..md" title="wikilink">H.O.T.</a>成員）</p></td>
 </tr>
 <tr class="odd">
 <td><p>過往固定主持</p></td>
@@ -57,7 +54,7 @@ An等人主持](https://zh.wikipedia.org/wiki/安勝浩 "wikilink")\[2\]，節�
 <tr class="odd">
 <td><p><a href="../Page/申智.md" title="wikilink">申智</a></p></td>
 <td><p>신지</p></td>
-<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="../Page/高耀太.md" title="wikilink">高耀太成員</a>）</p></td>
+<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="../Page/高耀太.md" title="wikilink">高耀太</a>成員）</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -67,7 +64,7 @@ An等人主持](https://zh.wikipedia.org/wiki/安勝浩 "wikilink")\[2\]，節�
 <tr class="odd">
 <td><p><a href="../Page/韓昇延.md" title="wikilink">韓昇延</a></p></td>
 <td><p>한승연</p></td>
-<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="../Page/Kara.md" title="wikilink">Kara成員</a>）</p></td>
+<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="../Page/Kara.md" title="wikilink">Kara</a>成員）</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -97,7 +94,7 @@ An等人主持](https://zh.wikipedia.org/wiki/安勝浩 "wikilink")\[2\]，節�
 <tr class="odd">
 <td><p><a href="../Page/崔真理.md" title="wikilink">Sulli</a></p></td>
 <td><p>설리</p></td>
-<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)成員</a>）</p></td>
+<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -115,9 +112,9 @@ An等人主持](https://zh.wikipedia.org/wiki/安勝浩 "wikilink")\[2\]，節�
 <td><p><a href="../Page/演員.md" title="wikilink">演員</a></p></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="../Page/DinDin.md" title="wikilink">DinDin</a></p></td>
 <td><p>딘딘</p></td>
-<td><p><a href="../Page/饒舌.md" title="wikilink">饒舌歌手</a></p></td>
+<td><p><a href="../Page/饒舌.md" title="wikilink">饒舌</a>歌手</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -128,88 +125,6 @@ An等人主持](https://zh.wikipedia.org/wiki/安勝浩 "wikilink")\[2\]，節�
 </table>
 
 ## 各集資訊
-
-### 2015年
-
-<table>
-<thead>
-<tr class="header">
-<th><p>集數</p></th>
-<th><p>播出日期</p></th>
-<th><p>內容</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>711</p></td>
-<td><p>2015年5月2日</p></td>
-<td><p>被搶走崽子的珍島犬媽媽<br />
-施工橋下的雕鴞兄弟<br />
-下水道的幼犬兄弟</p></td>
-</tr>
-<tr class="even">
-<td><p>712</p></td>
-<td><p>2015年5月6日</p></td>
-<td><p>與大媽對立的狗<br />
-紅毛猩猩兄妹</p></td>
-</tr>
-<tr class="odd">
-<td><p>713</p></td>
-<td><p>2015年5月10日</p></td>
-<td><p>找不到來源的貓叫聲<br />
-紅毛猩猩兄妹<br />
-讓狗安定的方法</p></td>
-</tr>
-<tr class="even">
-<td><p>714</p></td>
-<td><p>2015年5月17日</p></td>
-<td><p>鳥媽媽廁所築巢<br />
-狗兄弟見面就打架<br />
-戴著鐵圈的貓咪</p></td>
-</tr>
-<tr class="odd">
-<td><p>715</p></td>
-<td><p>2015年5月24日</p></td>
-<td><p>躲主人的狗<br />
-回歸大海的海豚<br />
-野貓連續失蹤事件</p></td>
-</tr>
-<tr class="even">
-<td><p>716</p></td>
-<td><p>2015年5月31日</p></td>
-<td><p>6隻小狗每天都是戰爭<br />
-上下層可怕的同居</p></td>
-</tr>
-</tbody>
-</table>
-
-### 2016年
-
-<table>
-<thead>
-<tr class="header">
-<th><p>集數</p></th>
-<th><p>播出日期</p></th>
-<th><p>內容</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>765</p></td>
-<td><p>2016年5月15日</p></td>
-<td><p>六個月的追蹤!繁殖場可怕的真相!<br />
-恐龍的後裔 鯨頭鸛進入大韓民國<br />
-嘉賓：<a href="https://zh.wikipedia.org/wiki/泫雅" title="wikilink">泫雅</a></p></td>
-</tr>
-<tr class="even">
-<td><p>766</p></td>
-<td><p>2016年5月22日</p></td>
-<td><p>神出鬼沒!小牛犢出走事件!<br />
-神秘的兔子連續襲擊事件!<br />
-演員<a href="../Page/尹承雅.md" title="wikilink">尹承雅尋找消失的狗狗</a>!</p></td>
-</tr>
-</tbody>
-</table>
 
 ### 2017年
 
@@ -366,7 +281,7 @@ An等人主持](https://zh.wikipedia.org/wiki/安勝浩 "wikilink")\[2\]，節�
 <tr class="even">
 <td><p>820</p></td>
 <td><p>2017年6月18日</p></td>
-<td><p><a href="../Page/WINNER.md" title="wikilink">WINNER的真實共同育兒日記</a> 第一個故事<br />
+<td><p><a href="../Page/WINNER.md" title="wikilink">WINNER</a>的真實共同育兒日記 第一個故事<br />
 闖禍精羊駝 小七是青春期?!<br />
 友愛的小貓 蝴蝶&amp;小黃 展開新貓生第二幕<br />
 嘉賓:<a href="../Page/WINNER.md" title="wikilink">WINNER</a></p></td>
@@ -374,7 +289,7 @@ An等人主持](https://zh.wikipedia.org/wiki/安勝浩 "wikilink")\[2\]，節�
 <tr class="odd">
 <td><p>821</p></td>
 <td><p>2017年6月25日</p></td>
-<td><p><a href="../Page/WINNER.md" title="wikilink">WINNER的真實共同育兒日記</a> 第二個故事<br />
+<td><p><a href="../Page/WINNER.md" title="wikilink">WINNER</a>的真實共同育兒日記 第二個故事<br />
 一位大叔獨自扶養了浣熊九兄妹<br />
 拳擊場的監視者 紅角鴞</p></td>
 </tr>
@@ -885,9 +800,7 @@ An等人主持](https://zh.wikipedia.org/wiki/安勝浩 "wikilink")\[2\]，節�
 
 <references />
 
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
 1.
 2.

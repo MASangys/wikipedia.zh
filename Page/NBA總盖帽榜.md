@@ -1,4 +1,4 @@
-本列表统计的是**国家篮球协会（[NBA](../Page/NBA.md "wikilink")）球员个人职业生涯[常规赛盖帽总和](https://zh.wikipedia.org/wiki/NBA常规赛 "wikilink")**，NBA球员在其它联赛（如[ABA](https://zh.wikipedia.org/wiki/ABA "wikilink")）中的数据并不包括在内。所有数据都是截至到2017年12月16日（**[2017-18](../Page/2017-18_NBA賽季.md "wikilink")**）。
+本列表统计的是**国家篮球协会（[NBA](../Page/NBA.md "wikilink")）球员个人职业生涯[常规赛盖帽总和](https://zh.wikipedia.org/wiki/NBA常规赛 "wikilink")**，NBA球员在其它联赛（如[ABA](https://zh.wikipedia.org/wiki/ABA "wikilink")）中的数据并不包括在内。所有数据都是截至到2019年4月10日
 
 |    |              |
 | -- | ------------ |
@@ -235,6 +235,16 @@
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德怀特·霍华德" title="wikilink">德怀特·霍华德</a></p></td>
+<td></td>
+<td></td>
+<td><p>2,051</p></td>
+<td><p>1044</p></td>
+<td><p>1.96</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>18</p></td>
 <td><p><a href="../Page/凯文·加内特.md" title="wikilink">凯文·加内特</a></p></td>
 <td></td>
 <td></td>
@@ -243,8 +253,8 @@
 <td><p>1.39</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>18</p></td>
+<tr class="odd">
+<td><p>19</p></td>
 <td><p><a href="../Page/拉里·南斯.md" title="wikilink">拉里·南斯</a></p></td>
 <td></td>
 <td></td>
@@ -253,8 +263,8 @@
 <td><p>2.20</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>19</p></td>
+<tr class="even">
+<td><p>20</p></td>
 <td><p><a href="../Page/西奥·拉特利夫.md" title="wikilink">西奥·拉特利夫</a></p></td>
 <td></td>
 <td></td>
@@ -263,24 +273,14 @@
 <td><p>2.43</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>20</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/德怀特·霍华德" title="wikilink">德怀特·霍华德</a></p></td>
-<td></td>
-<td></td>
-<td><p>1,954</p></td>
-<td><p>982</p></td>
-<td><p>1.99</p></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td><p>21</p></td>
 <td><p><a href="../Page/保罗·加索尔.md" title="wikilink">保罗·加索尔</a></p></td>
 <td></td>
 <td></td>
-<td><p>1,881</p></td>
-<td><p>1,147</p></td>
-<td><p>1.64</p></td>
+<td><p>1,941</p></td>
+<td><p>1,226</p></td>
+<td><p>1.58</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -365,6 +365,16 @@
 </tr>
 <tr class="even">
 <td><p>30</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/塞尔吉·伊巴卡" title="wikilink">塞尔吉·伊巴卡</a></p></td>
+<td></td>
+<td></td>
+<td><p>1,626</p></td>
+<td><p>753</p></td>
+<td><p>2.16</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>31</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/赫伯·威廉姆斯" title="wikilink">赫伯·威廉姆斯</a></p></td>
 <td></td>
 <td></td>
@@ -373,8 +383,8 @@
 <td><p>1.46</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>31</p></td>
+<tr class="even">
+<td><p>32</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Elden_Campbell" title="wikilink">Elden Campbell</a></p></td>
 <td></td>
 <td></td>
@@ -383,8 +393,8 @@
 <td><p>1.53</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>32</p></td>
+<tr class="odd">
+<td><p>33</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Benoit_Benjamin" title="wikilink">Benoit Benjamin</a></p></td>
 <td></td>
 <td></td>
@@ -393,8 +403,8 @@
 <td><p>1.96</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>33</p></td>
+<tr class="even">
+<td><p>34</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/塞缪尔·戴勒姆波特" title="wikilink">塞缪尔·戴勒姆波特</a></p></td>
 <td></td>
 <td></td>
@@ -403,8 +413,8 @@
 <td><p>1.74</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>34</p></td>
+<tr class="odd">
+<td><p>35</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Wayne_Cooper_(basketball)" title="wikilink">Wayne Cooper</a></p></td>
 <td></td>
 <td></td>
@@ -413,8 +423,8 @@
 <td><p>1.56</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>35</p></td>
+<tr class="even">
+<td><p>36</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Caldwell_Jones" title="wikilink">Caldwell Jones</a></p></td>
 <td></td>
 <td></td>
@@ -423,8 +433,8 @@
 <td><p>1.42</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>36</p></td>
+<tr class="odd">
+<td><p>37</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Alton_Lister" title="wikilink">Alton Lister</a></p></td>
 <td></td>
 <td></td>
@@ -433,8 +443,8 @@
 <td><p>1.55</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>37</p></td>
+<tr class="even">
+<td><p>38</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/安德烈·基里连科" title="wikilink">安德烈·基里连科</a></p></td>
 <td></td>
 <td></td>
@@ -443,24 +453,14 @@
 <td><p>1.83</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>38</p></td>
+<tr class="odd">
+<td><p>39</p></td>
 <td><p><a href="../Page/拉希德·华莱士.md" title="wikilink">拉希德·华莱士</a></p></td>
 <td></td>
 <td></td>
 <td><p>1,460</p></td>
 <td><p>1,109</p></td>
 <td><p>1.32</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>39</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/塞尔吉·伊巴卡" title="wikilink">塞尔吉·伊巴卡</a></p></td>
-<td></td>
-<td></td>
-<td><p>1,459</p></td>
-<td><p>628</p></td>
-<td><p>2.32</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -505,6 +505,16 @@
 </tr>
 <tr class="even">
 <td><p>44</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德安德魯·喬丹" title="wikilink">德安德魯·喬丹</a></p></td>
+<td></td>
+<td></td>
+<td><p>1,350</p></td>
+<td><p>819</p></td>
+<td><p>1.65</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>45</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Terry_Tyler" title="wikilink">Terry Tyler</a></p></td>
 <td></td>
 <td></td>
@@ -513,8 +523,8 @@
 <td><p>1.54</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>45</p></td>
+<tr class="even">
+<td><p>46</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/扎伊德鲁纳斯·伊尔戈斯卡斯" title="wikilink">扎伊德鲁纳斯·伊尔戈斯卡斯</a></p></td>
 <td></td>
 <td></td>
@@ -523,8 +533,18 @@
 <td><p>1.57</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>46</p></td>
+<td><p><a href="../Page/泰森·钱德勒.md" title="wikilink">泰森·钱德勒</a></p></td>
+<td></td>
+<td></td>
+<td><p>1,327</p></td>
+<td><p>1,134</p></td>
+<td><p>1.17</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>48</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Greg_Ostertag" title="wikilink">Greg Ostertag</a></p></td>
 <td></td>
 <td></td>
@@ -534,7 +554,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>46</p></td>
+<td><p>48</p></td>
 <td><p><a href="../Page/朱利叶斯·欧文.md" title="wikilink">朱利叶斯·欧文</a></p></td>
 <td></td>
 <td></td>
@@ -544,33 +564,13 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>48</p></td>
-<td><p><a href="../Page/泰森·钱德勒.md" title="wikilink">泰森·钱德勒</a></p></td>
-<td></td>
-<td></td>
-<td><p>1,292</p></td>
-<td><p>1,054</p></td>
-<td><p>1.23</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>49</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Shawn_Kemp" title="wikilink">Shawn Kemp</a></p></td>
-<td></td>
-<td></td>
-<td><p>1,279</p></td>
-<td><p>1,051</p></td>
-<td><p>1.22</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>50</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Dale_Davis_(basketball)" title="wikilink">Dale Davis</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德克·諾威斯基" title="wikilink">德克·諾威斯基</a></p></td>
 <td></td>
 <td></td>
-<td><p>1,270</p></td>
-<td><p>1,094</p></td>
-<td><p>1.16</p></td>
+<td><p>1,281</p></td>
+<td><p>1,522</p></td>
+<td><p>0.84</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -584,12 +584,10 @@
 
 ## 数据来源
 
-  - [Basketball-Reference.com Career Leaders for Total
-    Blocks](http://www.basketball-reference.com/leaders/TRB_career.html)
-  - [Basketball-Reference.com Career Leaders for Blocks Per
-    Game](http://www.basketball-reference.com/leaders/RPG_career.html)
+  - [Basketball-Reference.com Career Leaders for Total Blocks](http://www.basketball-reference.com/leaders/TRB_career.html)
+  - [Basketball-Reference.com Career Leaders for Blocks Per Game](http://www.basketball-reference.com/leaders/RPG_career.html)
 
 [Category:NBA数据统计](https://zh.wikipedia.org/wiki/Category:NBA数据统计 "wikilink")
 
 1.  球员必需正式退役满五年才有资格入选[美国篮球名人堂](https://zh.wikipedia.org/wiki/美国篮球名人堂 "wikilink").
-2.  在[2007-08賽季中途](../Page/2007-08_NBA赛季.md "wikilink")[沙奎尔·奥尼尔被交換至菲尼克斯太阳](../Page/沙奎尔·奥尼尔.md "wikilink").
+2.  在[2007-08賽季中途](../Page/2007-08_NBA赛季.md "wikilink")[沙奎尔·奥尼尔](../Page/沙奎尔·奥尼尔.md "wikilink")被交換至菲尼克斯太阳.

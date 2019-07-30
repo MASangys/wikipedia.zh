@@ -1,4 +1,4 @@
-**TRAPPIST-1d**是一顆環繞極低溫紅矮星[TRAPPIST-1的](../Page/TRAPPIST-1.md "wikilink")[太陽系外行星](../Page/太陽系外行星.md "wikilink")，距離地球約40光年，在天球上位於[寶瓶座](../Page/寶瓶座.md "wikilink")。
+**TRAPPIST-1d**是一顆環繞極低溫紅矮星[TRAPPIST-1](../Page/TRAPPIST-1.md "wikilink")的[太陽系外行星](../Page/太陽系外行星.md "wikilink")，距離地球約40光年，在天球上位於[寶瓶座](../Page/寶瓶座.md "wikilink")。
 
 ## 適居性
 
@@ -6,10 +6,7 @@
 
 ## 參考資料
 
-[Category:2016年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2016年发现的系外行星 "wikilink")
-[Category:適居帶內的系外行星](https://zh.wikipedia.org/wiki/Category:適居帶內的系外行星 "wikilink")
-[Category:凌星现象](https://zh.wikipedia.org/wiki/Category:凌星现象 "wikilink")
-[Category:寶瓶座](https://zh.wikipedia.org/wiki/Category:寶瓶座 "wikilink")
+[Category:2016年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2016年发现的系外行星 "wikilink") [Category:適居帶內的系外行星](https://zh.wikipedia.org/wiki/Category:適居帶內的系外行星 "wikilink") [Category:凌星现象](https://zh.wikipedia.org/wiki/Category:凌星现象 "wikilink") [Category:寶瓶座](https://zh.wikipedia.org/wiki/Category:寶瓶座 "wikilink")
 
 1.
 

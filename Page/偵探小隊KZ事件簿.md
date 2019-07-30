@@ -1,11 +1,8 @@
-，[日本](../Page/日本.md "wikilink")[兒童文學作品](https://zh.wikipedia.org/wiki/兒童文學 "wikilink")，[藤本瞳原作](https://zh.wikipedia.org/wiki/藤本瞳 "wikilink")、[住瀧良寫作的兒童偵探冒險文學](https://zh.wikipedia.org/wiki/住瀧良 "wikilink")。2011年，成為[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")[青鳥文庫系列作品之一](https://zh.wikipedia.org/wiki/青鳥文庫 "wikilink")。該作經改編，2015年10月7日起在[NHK教育頻道的](../Page/NHK教育頻道.md "wikilink")《[天才兒童MAX](../Page/天才兒童MAX.md "wikilink")》中播放每集長10分鐘的短篇[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。該動畫由[IG
-Port旗下的新動畫製作公司](../Page/Production_I.G.md "wikilink")「Signal-MD」負責製作，該公司相關之動畫企劃向來主要都是兒童向作品。
+，[日本](../Page/日本.md "wikilink")[兒童文學作品](https://zh.wikipedia.org/wiki/兒童文學 "wikilink")，[藤本瞳原作](https://zh.wikipedia.org/wiki/藤本瞳 "wikilink")、[住瀧良寫作的兒童偵探冒險文學](https://zh.wikipedia.org/wiki/住瀧良 "wikilink")。2011年，成為[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")[青鳥文庫系列作品之一](https://zh.wikipedia.org/wiki/青鳥文庫 "wikilink")。該作經改編，2015年10月7日起在[NHK教育頻道](../Page/NHK教育頻道.md "wikilink")的《[天才兒童MAX](../Page/天才兒童MAX.md "wikilink")》中播放每集長10分鐘的短篇[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。該動畫由[IG Port旗下的新動畫製作公司](../Page/Production_I.G.md "wikilink")「Signal-MD」負責製作，該公司相關之動畫企劃向來主要都是兒童向作品。
 
 ## 故事簡介
 
-對於朋友、家人以及成績懷有煩惱和自卑的少女立花彩， 某天，與在補習班遇到超有個性的四個男生，組成了"偵探小隊KZ"！
-個性豐富的"偵探小隊KZ"被捲入事件當中， 有時也會發生衝突，即使如此他們也利用各自的特技和專門知識，
-齊心協力將事件導向解決！
+對於朋友、家人以及成績懷有煩惱和自卑的少女立花彩， 某天，與在補習班遇到超有個性的四個男生，組成了"偵探小隊KZ"！ 個性豐富的"偵探小隊KZ"被捲入事件當中， 有時也會發生衝突，即使如此他們也利用各自的特技和專門知識， 齊心協力將事件導向解決！
 
 ## 登場人物
 
@@ -27,8 +24,7 @@ Port旗下的新動畫製作公司](../Page/Production_I.G.md "wikilink")「Sign
   - 砂原 翔（すなはら かける）
     聲 - [梶裕貴](../Page/梶裕貴.md "wikilink")
     立花中學部的同班同學。與立花約定，當其第5位的朋友。
-    其父親（聲 -
-    [金光宣明](../Page/金光宣明.md "wikilink")）經營砂原肉製品公司，但人事管理不力，翔因此與破壞生產的員工衝突，引致員工報復污染肉品，肉品不純摻和豬肉結果導致若武過敏。KZ小組的調查證實後，在立花堅持下先告知於她有恩的翔。立花允翔暫緩一日報案。翔告知父親後，公司自首。事件後，砂原肉製品公司破產，翔即轉校失聯。
+    其父親（聲 - [金光宣明](../Page/金光宣明.md "wikilink")）經營砂原肉製品公司，但人事管理不力，翔因此與破壞生產的員工衝突，引致員工報復污染肉品，肉品不純摻和豬肉結果導致若武過敏。KZ小組的調查證實後，在立花堅持下先告知於她有恩的翔。立花允翔暫緩一日報案。翔告知父親後，公司自首。事件後，砂原肉製品公司破產，翔即轉校失聯。
 
 ### 立花的家人
 
@@ -245,6 +241,4 @@ Port旗下的新動畫製作公司](../Page/Production_I.G.md "wikilink")「Sign
 
   - [青い鳥文庫｜妖精チームG事件ノート](http://aoitori.kodansha.co.jp/series/G/)
 
-[Category:2011年小說](https://zh.wikipedia.org/wiki/Category:2011年小說 "wikilink")
-[Category:日本推理小說](https://zh.wikipedia.org/wiki/Category:日本推理小說 "wikilink")
-[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")
+[Category:2011年小說](https://zh.wikipedia.org/wiki/Category:2011年小說 "wikilink") [Category:日本推理小說](https://zh.wikipedia.org/wiki/Category:日本推理小說 "wikilink") [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")

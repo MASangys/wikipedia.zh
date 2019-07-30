@@ -1,7 +1,4 @@
-《**OH MY
-GIRL音樂作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Oh
-My
-Girl歷年發行及參與的各類音樂專輯](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")、單曲、影視歌曲和翻唱歌曲。
+《**OH MY GIRL音樂作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Oh My Girl歷年發行及參與的各類音樂專輯](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")、單曲、影視歌曲和翻唱歌曲。
 
 ## 韓語作品
 
@@ -22,8 +19,8 @@ Girl歷年發行及參與的各類音樂專輯](https://zh.wikipedia.org/wiki/Oh
 <li>語言：韓語</li>
 <li>唱片公司：</li>
 <li>格式：CD唱片、數位下載</li>
-<li>專輯銷售:21,203+<ref>專輯銷量排名《The Fifth Season》</li>
-<li><a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=05&amp;hitYear=2019&amp;termGbn=month">GAON 2019年5月專輯榜16位</a></li>
+<li>專輯銷售:26,492+<ref>專輯銷量排名《The Fifth Season》</li>
+<li><a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=06&amp;hitYear=2019&amp;termGbn=month">GAON 2019年6月專輯榜40位</a></li>
 </ul>
 <p></ref></p>
 <ul>
@@ -180,6 +177,24 @@ Girl歷年發行及參與的各類音樂專輯](https://zh.wikipedia.org/wiki/Oh
 <li>格式：CD唱片、數位下載</li>
 <li>備註：翻唱專輯</li>
 <li>專輯銷量:26,106+</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>2st repackage</strong></p></td>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Fall_In_Love" title="wikilink">Fall In Love</a></strong>》</p>
+<ul>
+<li>發行日期：2019年8月5日</li>
+<li>語言：韓語</li>
+<li>唱片公司：LOEN Entertainment</li>
+<li>格式：CD唱片、數位下載</li>
+<li>備註：</li>
+<li>專輯銷量:</li>
 </ul></td>
 <td></td>
 </tr>

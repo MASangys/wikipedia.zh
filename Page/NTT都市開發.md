@@ -8,29 +8,22 @@
 
 ## 事業所
 
-  - 本社 -
-    [東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")[外神田四丁目](../Page/外神田.md "wikilink")14番1號（[秋葉原UDX](../Page/秋葉原UDX.md "wikilink")）
+  - 本社 - [東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")[外神田](../Page/外神田.md "wikilink")四丁目14番1號（[秋葉原UDX](../Page/秋葉原UDX.md "wikilink")）
   - 支店
-      - 東海支店 -
-        [愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中區](../Page/中區_\(名古屋市\).md "wikilink")
-      - 關西支店 -
-        [大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[西區](../Page/西區_\(大阪市\).md "wikilink")
-      - 中國支店 -
-        [廣島縣](../Page/廣島縣.md "wikilink")[廣島市](../Page/廣島市.md "wikilink")[中區](../Page/中區_\(廣島市\).md "wikilink")
-      - 九州支店 -
-        [福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[福岡市](../Page/福岡市.md "wikilink")[中央區](../Page/中央區_\(福岡市\).md "wikilink")
-      - 北海道支店 -
-        [北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")[中央區](../Page/中央區_\(札幌市\).md "wikilink")
+      - 東海支店 - [愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中區](../Page/中區_\(名古屋市\).md "wikilink")
+      - 關西支店 - [大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[西區](../Page/西區_\(大阪市\).md "wikilink")
+      - 中國支店 - [廣島縣](../Page/廣島縣.md "wikilink")[廣島市](../Page/廣島市.md "wikilink")[中區](../Page/中區_\(廣島市\).md "wikilink")
+      - 九州支店 - [福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[福岡市](../Page/福岡市.md "wikilink")[中央區](../Page/中央區_\(福岡市\).md "wikilink")
+      - 北海道支店 - [北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")[中央區](../Page/中央區_\(札幌市\).md "wikilink")
 
 ## 沿革
 
   - 1986年：NTT都市開發株式會社設立。
   - 1988年：與NTT建物株式會社合併。
   - 1993年：與NTT Actif株式會社、株式會社NTT Crais合併。
-  - 1999年：與NTT東海不動產株式會社、NTT關西建物株式會社、株式會社NTT
-    Cred、NTT九州不動產株式會社、株式會社NTT北海道Estate合併。
+  - 1999年：與NTT東海不動產株式會社、NTT關西建物株式會社、株式會社NTT Cred、NTT九州不動產株式會社、株式會社NTT北海道Estate合併。
   - 2000年：設立NTT都市開發大樓服務株式會社。
-  - 2004年：[東京證券交易所第一部上市](../Page/東京證券交易所.md "wikilink")。
+  - 2004年：[東京證券交易所](../Page/東京證券交易所.md "wikilink")第一部上市。
   - 2006年：設立NTT都市開發西日本BS株式會社。
 
 ## 主要實績
@@ -145,8 +138,7 @@
 
   - （[京都市](../Page/京都市.md "wikilink")[中京區](../Page/中京區.md "wikilink")）
 
-  - [Grand
-    Front大阪](https://zh.wikipedia.org/wiki/Grand_Front大阪 "wikilink")（[大阪市](../Page/大阪市.md "wikilink")[北區](../Page/北區_\(大阪市\).md "wikilink")）
+  - [Grand Front大阪](https://zh.wikipedia.org/wiki/Grand_Front大阪 "wikilink")（[大阪市](../Page/大阪市.md "wikilink")[北區](../Page/北區_\(大阪市\).md "wikilink")）
 
   - 代官山T-SITE（東京都[澀谷區](../Page/澀谷區.md "wikilink")[猿樂町](../Page/猿樂町_\(澀谷區\).md "wikilink")）※協力
 
@@ -159,6 +151,4 @@
 
   - [NTT都市開發](http://www.nttud.co.jp/)
 
-[Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink")
-[Category:日本地產公司](https://zh.wikipedia.org/wiki/Category:日本地產公司 "wikilink")
-[Category:1986年成立的公司](https://zh.wikipedia.org/wiki/Category:1986年成立的公司 "wikilink")
+[Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink") [Category:日本地產公司](https://zh.wikipedia.org/wiki/Category:日本地產公司 "wikilink") [Category:1986年成立的公司](https://zh.wikipedia.org/wiki/Category:1986年成立的公司 "wikilink")

@@ -1,38 +1,22 @@
-**AMD Radeon Rx 300**系列顯示核心，研發代號「**Pirates
-Islands**」，是[超微半導體所推出的](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[圖形處理器系列](../Page/圖形處理器.md "wikilink")。根據超微的顯示核心發展路線「Pirates
-Islands」將接替「Volcanic Islands」（即[AMD Radeon Rx
-200系列](../Page/AMD_Radeon_Rx_200.md "wikilink")）的產品線。全新核心"Fiji"為首個使用[高頻寬記憶體](../Page/高頻寬記憶體.md "wikilink")（HBM）的顯示核心系列，記憶體寬度達4096bit，記憶體總頻寬達512GB/s。
-Pirates
-Islands系列顯示核心於2015年6月16日美國E3展正式發布，並於當年6月18日展開第一波的銷售，第一波銷售的卡號皆為[AMD
-Radeon Rx
-200系列型號的修訂版本](../Page/AMD_Radeon_Rx_200.md "wikilink")，而基於全新核心"Fiji"的R9
-Fury系列則於當年6月24日後開始銷售。
+**AMD Radeon Rx 300**系列顯示核心，研發代號「**Pirates Islands**」，是[超微半導體所推出的](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[圖形處理器](../Page/圖形處理器.md "wikilink")系列。根據超微的顯示核心發展路線「Pirates Islands」將接替「Volcanic Islands」（即[AMD Radeon Rx 200系列](../Page/AMD_Radeon_Rx_200.md "wikilink")）的產品線。全新核心"Fiji"為首個使用[高頻寬記憶體](../Page/高頻寬記憶體.md "wikilink")（HBM）的顯示核心系列，記憶體寬度達4096bit，記憶體總頻寬達512GB/s。 Pirates Islands系列顯示核心於2015年6月16日美國E3展正式發布，並於當年6月18日展開第一波的銷售，第一波銷售的卡號皆為[AMD Radeon Rx 200系列型號的修訂版本](../Page/AMD_Radeon_Rx_200.md "wikilink")，而基於全新核心"Fiji"的R9 Fury系列則於當年6月24日後開始銷售。
 
 ## 技術特性
 
 ### TrueAudio音频技术
 
-只要是GCN版本1.1以後的核心便有支援該技術，如:R9 Fury系列、R9
-390系列等，最高支援24聲道採樣編碼的環繞聲輸出或是身歷聲[高保真音訊輸出](../Page/高保真.md "wikilink")，不過在發布後便沒有後續消息。\[1\]
+只要是GCN版本1.1以後的核心便有支援該技術，如:R9 Fury系列、R9 390系列等，最高支援24聲道採樣編碼的環繞聲輸出或是身歷聲[高保真](../Page/高保真.md "wikilink")音訊輸出，不過在發布後便沒有後續消息。\[1\]
 
 ### TressFX
 
-TressFX技術，是超微透過DirectX
-11所實作的3D畫面處理技術，能逼真展現像是頭髮絲等超精細的畫面細節而無需消耗過多的顯示核心資源。此次超微利用這個技術與Crytek、Illfonic聯手，基於最新的針對[GCN架構進行最佳化的CryENGINE引擎](https://zh.wikipedia.org/wiki/GCN架構 "wikilink")，重新製作了[ATI時代](https://zh.wikipedia.org/wiki/ATI "wikilink")[Radeon系列的虛擬形象代言人Ruby](../Page/Radeon.md "wikilink")，以此作為Radeon
-R9/R7 200系列的虛擬代言人，但這次是『真正擁有』12150根獨立的頭髮絲。
+TressFX技術，是超微透過DirectX 11所實作的3D畫面處理技術，能逼真展現像是頭髮絲等超精細的畫面細節而無需消耗過多的顯示核心資源。此次超微利用這個技術與Crytek、Illfonic聯手，基於最新的針對[GCN架構進行最佳化的CryENGINE引擎](https://zh.wikipedia.org/wiki/GCN架構 "wikilink")，重新製作了[ATI時代](https://zh.wikipedia.org/wiki/ATI "wikilink")[Radeon](../Page/Radeon.md "wikilink")系列的虛擬形象代言人Ruby，以此作為Radeon R9/R7 200系列的虛擬代言人，但這次是『真正擁有』12150根獨立的頭髮絲。
 
 ### CrossFire
 
-GCN版本1.1(hawaii)以後的核心內的交火互聯模組中，整合硬體DMA引擎（交火合成引擎），如MD R9 Fury系列與R9
-390/380等系列，因此新一代CrossFire技術不再需要CF接橋，可透過[PCI
-Express匯流排直接存取其他GPU](../Page/PCI_Express.md "wikilink")，便可實現多重GPU協同運算。AMD表示，即使不使用接橋，由於PCI-E2.0/2.1/3.0提供的頻寬已經大大超過雙卡互聯所需頻寬的，而且因為每顆顯示核心都內建硬體交火合成引擎，對PCI-E的頻寬佔用也要比以往的技術低不少，因此交火效能亦不會比使用橋接器的有所下降。\[2\]除此以外，還與Catalyst（催化劑）驅動程式的幀平滑技術相容。\[3\]
+GCN版本1.1(hawaii)以後的核心內的交火互聯模組中，整合硬體DMA引擎（交火合成引擎），如MD R9 Fury系列與R9 390/380等系列，因此新一代CrossFire技術不再需要CF接橋，可透過[PCI Express匯流排直接存取其他GPU](../Page/PCI_Express.md "wikilink")，便可實現多重GPU協同運算。AMD表示，即使不使用接橋，由於PCI-E2.0/2.1/3.0提供的頻寬已經大大超過雙卡互聯所需頻寬的，而且因為每顆顯示核心都內建硬體交火合成引擎，對PCI-E的頻寬佔用也要比以往的技術低不少，因此交火效能亦不會比使用橋接器的有所下降。\[2\]除此以外，還與Catalyst（催化劑）驅動程式的幀平滑技術相容。\[3\]
 
 ### 多螢幕顯示
 
-此代的[Eyefinity寬域技術仍然最多支援六螢幕顯示輸出](https://zh.wikipedia.org/wiki/AMD_Eyefinity "wikilink")，標配連接埠依舊是兩個[DVI](../Page/DVI.md "wikilink")、一個[HDMI和一個](../Page/HDMI.md "wikilink")[DisplayPort](../Page/DisplayPort.md "wikilink")。但這一代的Eyefinity技術相比以往的大大降低對DisplayPort技術的依賴。當只組建三螢幕顯示輸出時，可以完全不使用DisplayPort連接埠，只有兩個DVI
-+
-一個HDMI亦可以達成三螢幕輸出，而以往的技術，無論是三螢幕抑或是更多螢幕顯示輸出，都必須使用一個配備DisplayPort連接埠的螢幕方能達成多螢幕輸出。\[4\]因應技術變更，新顯示卡的DVI連接埠相應地改為使用和NVIDIA相同的標準DVI連接埠。\[5\]
-借助MTS擴展器可組建單卡六螢幕輸出。
+此代的[Eyefinity寬域技術仍然最多支援六螢幕顯示輸出](https://zh.wikipedia.org/wiki/AMD_Eyefinity "wikilink")，標配連接埠依舊是兩個[DVI](../Page/DVI.md "wikilink")、一個[HDMI](../Page/HDMI.md "wikilink")和一個[DisplayPort](../Page/DisplayPort.md "wikilink")。但這一代的Eyefinity技術相比以往的大大降低對DisplayPort技術的依賴。當只組建三螢幕顯示輸出時，可以完全不使用DisplayPort連接埠，只有兩個DVI + 一個HDMI亦可以達成三螢幕輸出，而以往的技術，無論是三螢幕抑或是更多螢幕顯示輸出，都必須使用一個配備DisplayPort連接埠的螢幕方能達成多螢幕輸出。\[4\]因應技術變更，新顯示卡的DVI連接埠相應地改為使用和NVIDIA相同的標準DVI連接埠。\[5\] 借助MTS擴展器可組建單卡六螢幕輸出。
 
 ### 高解析度輸出
 
@@ -471,20 +455,12 @@ GDDR5</p></td>
 </tbody>
 </table>
 
-  - <sup>1</sup>
-    [統一渲染器數量](https://zh.wikipedia.org/wiki/統一渲染器 "wikilink")
-    : [紋理對映單元](https://zh.wikipedia.org/wiki/紋理對映單元 "wikilink")（TMU）數量 :
-    [渲染輸出單元](https://zh.wikipedia.org/wiki/渲染輸出單元 "wikilink")（ROP）數量
-  - <sup>2</sup>
-    畫素填充率的計算：ROP的數量乘以基準核心[時脈速率](https://zh.wikipedia.org/wiki/時脈 "wikilink")（時脈單位Hz），單位畫素數每秒（P/s）。
+  - <sup>1</sup> [統一渲染器數量](https://zh.wikipedia.org/wiki/統一渲染器 "wikilink") : [紋理對映單元](https://zh.wikipedia.org/wiki/紋理對映單元 "wikilink")（TMU）數量 : [渲染輸出單元](https://zh.wikipedia.org/wiki/渲染輸出單元 "wikilink")（ROP）數量
+  - <sup>2</sup> 畫素填充率的計算：ROP的數量乘以基準核心[時脈速率](https://zh.wikipedia.org/wiki/時脈 "wikilink")（時脈單位Hz），單位畫素數每秒（P/s）。
   - <sup>3</sup> 紋理填充率的計算：TMU的數量乘以基準核心時脈速率（時脈單位Hz），單位紋理數每秒（T/s）。
-  - <sup>4</sup>
-    單精度浮點數運算效能的計算：兩倍渲染器的數量然後乘以基準核心時脈速率（時脈單位Hz），單位[FLOPS](https://zh.wikipedia.org/wiki/FLOPS "wikilink")。
-  - <sup>5</sup>
-    「Grenada(Hawaii)」核心的圖形處理器，雙精度浮點數運算效能是單精度的1/8，其它使用28奈米製程的顯示核心都是1/16的雙精度/單精度運算效能比率。
-  - <sup>6</sup> R9 380（包括OEM型號）、Nano、Fury、Fury X所使用的
-    1.2版GCN架構，配備了無損顏色壓縮技術，相較於
-    1.0版、1.1版GCN架構，在一些對視訊記憶體有較高需求的應用場合下可以有效提升顯示記憶體的存取效能。\[18\]\[19\]
+  - <sup>4</sup> 單精度浮點數運算效能的計算：兩倍渲染器的數量然後乘以基準核心時脈速率（時脈單位Hz），單位[FLOPS](https://zh.wikipedia.org/wiki/FLOPS "wikilink")。
+  - <sup>5</sup> 「Grenada(Hawaii)」核心的圖形處理器，雙精度浮點數運算效能是單精度的1/8，其它使用28奈米製程的顯示核心都是1/16的雙精度/單精度運算效能比率。
+  - <sup>6</sup> R9 380（包括OEM型號）、Nano、Fury、Fury X所使用的 1.2版GCN架構，配備了無損顏色壓縮技術，相較於 1.0版、1.1版GCN架構，在一些對視訊記憶體有較高需求的應用場合下可以有效提升顯示記憶體的存取效能。\[18\]\[19\]
   - <sup>7</sup> GDDR5視訊記憶體的資料傳輸時脈速率是其運作時脈的四倍，DDR3記憶體的則為兩倍。
   - <sup>8</sup> 以AMD公佈的AIB公版顯示核心為準，非公版設計可能高於（如超頻版）或低於（如節能版、靜音版）這個數值。
   - <sup>9</sup> 中国大陆市售型号为“R9 370 1024SP​”。\[20\]
@@ -522,8 +498,8 @@ GDDR5</p></td>
 <td><p>傳輸頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>類型</p></td>
 <td><p>傳輸介面 (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
-<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D支援</a></p></td>
-<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGLˊ</a> 元</p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a>支援</p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a>ˊ 元</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -712,17 +688,12 @@ GDDR5</p></td>
 ## 外部連結
 
   - [TechPowerUp\! GPU Database](http://www.techpowerup.com/gpudb)
-  - [AMD Radeon™ R9 Series
-    Graphics](http://www.amd.com/US/PRODUCTS/DESKTOP/GRAPHICS/R9/Pages/amd-radeon-hd-r9-series.aspx)
-  - [AMD Radeon™ R7 Series
-    Graphics](http://www.amd.com/US/PRODUCTS/DESKTOP/GRAPHICS/R7/Pages/amd-radeon-hd-r7-series.aspx)
+  - [AMD Radeon™ R9 Series Graphics](http://www.amd.com/US/PRODUCTS/DESKTOP/GRAPHICS/R9/Pages/amd-radeon-hd-r9-series.aspx)
+  - [AMD Radeon™ R7 Series Graphics](http://www.amd.com/US/PRODUCTS/DESKTOP/GRAPHICS/R7/Pages/amd-radeon-hd-r7-series.aspx)
 
-[Category:AMD圖形處理器](https://zh.wikipedia.org/wiki/Category:AMD圖形處理器 "wikilink")
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
+[Category:AMD圖形處理器](https://zh.wikipedia.org/wiki/Category:AMD圖形處理器 "wikilink") [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
 
-1.  [AMD Announces TrueAudio Technology For Upcoming
-    GPUs](http://www.anandtech.com/show/7370/amd-announces-trueaudio-technology-for-upcoming-gpus)
-    - anandtech.com，2013年9月25日
+1.  [AMD Announces TrueAudio Technology For Upcoming GPUs](http://www.anandtech.com/show/7370/amd-announces-trueaudio-technology-for-upcoming-gpus) - anandtech.com，2013年9月25日
 
 2.
 

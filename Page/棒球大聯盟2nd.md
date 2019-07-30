@@ -1,10 +1,10 @@
-是[滿田拓也的](../Page/滿田拓也.md "wikilink")[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")《**[棒球大聯盟](https://zh.wikipedia.org/wiki/棒球大聯盟 "wikilink")**》的續作，以茂野大吾繼承父業為主軸。2015年於[小學館的](../Page/小學館.md "wikilink")[週刊少年Sunday上開始連載](../Page/週刊少年Sunday.md "wikilink")，台灣由[青文出版社代理漫畫出版](../Page/青文出版社.md "wikilink")，2017年10月宣布動畫化。
+是[滿田拓也](../Page/滿田拓也.md "wikilink")的[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")《**[棒球大聯盟](https://zh.wikipedia.org/wiki/棒球大聯盟 "wikilink")**》的續作，以茂野大吾繼承父業為主軸。2015年於[小學館](../Page/小學館.md "wikilink")的[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")上開始連載，台灣由[青文出版社](../Page/青文出版社.md "wikilink")代理漫畫出版，2017年10月宣布動畫化。
 
 ## 概要
 
-2015年3月11日開始[棒球大聯盟2nd的連載](../Page/棒球大聯盟2nd.md "wikilink")，以吾郎的兒子茂野大吾為主角的新故事。
+2015年3月11日開始[棒球大聯盟2nd](../Page/棒球大聯盟2nd.md "wikilink")的連載，以吾郎的兒子茂野大吾為主角的新故事。
 
-  - 自2018年在NHK教育電視台開始播放[棒球大聯盟2nd動畫](../Page/棒球大聯盟2nd.md "wikilink")。（週六17:35～18:00）
+  - 自2018年在NHK教育電視台開始播放[棒球大聯盟2nd](../Page/棒球大聯盟2nd.md "wikilink")動畫。（週六17:35～18:00）
       - 第1季 少棒篇（2018年4月7日－2018年9月22日）
 
 ## 故事簡介
@@ -499,21 +499,9 @@
 
   - [週刊少年Sunday「棒球大聯盟2nd」作品網頁](https://websunday.net/rensai/major2nd/)
 
-  - [電視動畫「棒球大聯盟2nd」官方網頁](https://www6.nhk.or.jp/anime/program/detail.html?i=major2nd/)
+  - [電視動畫「棒球大聯盟2nd」官方網頁](https://www.shopro.co.jp/tv/major2nd/#/)
 
   -
-[Category:MAJOR](https://zh.wikipedia.org/wiki/Category:MAJOR "wikilink")
-[Category:週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:週刊少年Sunday "wikilink")
-[Category:棒球漫畫](https://zh.wikipedia.org/wiki/Category:棒球漫畫 "wikilink")
-[Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink")
-[Category:橫濱市背景作品](https://zh.wikipedia.org/wiki/Category:橫濱市背景作品 "wikilink")
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
-[Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
-[Category:NHK動畫](https://zh.wikipedia.org/wiki/Category:NHK動畫 "wikilink")
-[Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
-[Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
-[Category:民視外購動畫](https://zh.wikipedia.org/wiki/Category:民視外購動畫 "wikilink")
+[Category:MAJOR](https://zh.wikipedia.org/wiki/Category:MAJOR "wikilink") [Category:週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:週刊少年Sunday "wikilink") [Category:棒球漫畫](https://zh.wikipedia.org/wiki/Category:棒球漫畫 "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink") [Category:橫濱市背景作品](https://zh.wikipedia.org/wiki/Category:橫濱市背景作品 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink") [Category:NHK動畫](https://zh.wikipedia.org/wiki/Category:NHK動畫 "wikilink") [Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink") [Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink") [Category:民視外購動畫](https://zh.wikipedia.org/wiki/Category:民視外購動畫 "wikilink")
 
 1.  香港ViuTV標題，以播放時所顯示的字幕為準。

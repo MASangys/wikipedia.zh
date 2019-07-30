@@ -1,7 +1,4 @@
-《**好運的一天**》，亦可稱《運氣好的日子》（）是[韓國olleh](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")
-tv
-mobile的[真人實境-{zh-hans:秀;zh-hant:秀;zh-hk:騷}-](../Page/真人實境秀.md "wikilink")，由[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Mamamoo拍攝](../Page/Mamamoo.md "wikilink")。2018年2月27日起逢星期二、四[韓國時間](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")
-11:00在手機視頻APP“olleh tv mobile”播出。此節目為Mamamoo首個全體參加的專屬實境節目。\[1\]
+《**好運的一天**》，亦可稱《運氣好的日子》（）是[韓國olleh](https://zh.wikipedia.org/wiki/大韓民國 "wikilink") tv mobile的[真人實境-{zh-hans:秀;zh-hant:秀;zh-hk:騷}-](../Page/真人實境秀.md "wikilink")，由[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Mamamoo](../Page/Mamamoo.md "wikilink")拍攝。2018年2月27日起逢星期二、四[韓國時間](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink") 11:00在手機視頻APP“olleh tv mobile”播出。此節目為Mamamoo首個全體參加的專屬實境節目。\[1\]
 
 ## 節目介紹
 
@@ -30,10 +27,6 @@ mobile的[真人實境-{zh-hans:秀;zh-hant:秀;zh-hk:騷}-](../Page/真人實�
 
 ## 參考資料
 
-[Category:Mamamoo](https://zh.wikipedia.org/wiki/Category:Mamamoo "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink")
-[Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink")
-[Category:觀眾參與節目](https://zh.wikipedia.org/wiki/Category:觀眾參與節目 "wikilink")
+[Category:Mamamoo](https://zh.wikipedia.org/wiki/Category:Mamamoo "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink") [Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink") [Category:觀眾參與節目](https://zh.wikipedia.org/wiki/Category:觀眾參與節目 "wikilink")
 
 1.

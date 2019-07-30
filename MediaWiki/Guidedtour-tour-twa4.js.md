@@ -2,8 +2,7 @@
 
 ( function ( window, document, $, mw, gt ) {
 
-//automatic api:edit function to send yourself messages function
-sendMessage( targetPage, msgPage, linkTo ) {
+//automatic api:edit function to send yourself messages function sendMessage( targetPage, msgPage, linkTo ) {
 
 `   var api = new mw.Api();`
 `   api.post( {`
@@ -18,9 +17,7 @@ sendMessage( targetPage, msgPage, linkTo ) {
 
 }
 
-// Fail gracefully post-save but not postedit var postEditButtons =
-\[\]; if ( mw.config.get( 'wgAction' ) === 'view' && \!gt.isPostEdit() )
-{
+// Fail gracefully post-save but not postedit var postEditButtons = \[\]; if ( mw.config.get( 'wgAction' ) === 'view' && \!gt.isPostEdit() ) {
 
 `       postEditButtons.push( {`
 `               name: '按此返回並進行編輯',`
@@ -31,9 +28,7 @@ sendMessage( targetPage, msgPage, linkTo ) {
 
 }
 
-// Fail gracefully post-save but not postedit for visual editor var
-postEditButtonsVisual = \[\]; if ( mw.config.get( 'wgAction' ) ===
-'view' && \!gt.isPostEdit() ) {
+// Fail gracefully post-save but not postedit for visual editor var postEditButtonsVisual = \[\]; if ( mw.config.get( 'wgAction' ) === 'view' && \!gt.isPostEdit() ) {
 
 `       postEditButtonsVisual.push( {`
 `               name: '返回',`
@@ -620,8 +615,7 @@ gt.defineTour( {
 
 </div>
 
-重要的是，維基百科讀起來像一本真正的百科全書，而不是任何編者的個人-{zh-hans:博客; zh-hant:部落格;
-zh-hk:網誌}-。
+重要的是，維基百科讀起來像一本真正的百科全書，而不是任何編者的個人-{zh-hans:博客; zh-hant:部落格; zh-hk:網誌}-。
 
 我們都在這里以一種平衡的方式分享資訊。
 
@@ -706,8 +700,7 @@ zh-hk:網誌}-。
 `               //24`
 `               title: '第四關完成！',`
 `               description: '`
-[<File:02>`   ``Taiko2.ogg``
- ``(short).ogg`](https://zh.wikipedia.org/wiki/File:02_Taiko2.ogg_\(short\).ogg "fig:File:02 Taiko2.ogg (short).ogg")
+[<File:02>`   ``Taiko2.ogg``   ``(short).ogg`](https://zh.wikipedia.org/wiki/File:02_Taiko2.ogg_\(short\).ogg "fig:File:02 Taiko2.ogg (short).ogg")
 <b>`踏上第五關⋯⋯`</b>`',`
 `               onShow: gt.parseDescription,`
 `               overlay: false,`

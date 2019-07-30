@@ -1,28 +1,17 @@
 **變形金剛**漫畫為IDW根據孩之寶的變形金剛人物和玩具系列而出版的漫畫系列。
 
-繼Dreamwave在2005年破產，[IDW公司拿了版權](../Page/IDW公司.md "wikilink")，並聘請長期變形金剛作家[Simon
-Furman製作一個重新啟動第一代故事](https://zh.wikipedia.org/wiki/Simon_Furman "wikilink")。\[1\]。故事的前導版出版於2005年10月，而正式系列開始於2006年1月。
+繼Dreamwave在2005年破產，[IDW公司](../Page/IDW公司.md "wikilink")拿了版權，並聘請長期變形金剛作家[Simon Furman製作一個重新啟動第一代故事](https://zh.wikipedia.org/wiki/Simon_Furman "wikilink")。\[1\]。故事的前導版出版於2005年10月，而正式系列開始於2006年1月。
 
-在前四年該系列銷售各種限量系列的每個故事，發表順序為「變形金剛：滲透行動(The Transformers:
-Infiltration)」、「暴風行動(Stormbringer)」、「升級行動(Escalation)」、「麥加登本紀(
-Megatron Origin)」、「毀滅行動(Devastation)」、「啟示錄(Revelation)」、「麥加登萬歲(All Hail
-Megatron )」和「恐龍行動(Maximum Dinobots)」。
-後來在於2012年1月推出了兩個平行系列「隨時變形(Robots in Disguise)」和「難以置信(More Than Meets the
-Eye)」。
+在前四年該系列銷售各種限量系列的每個故事，發表順序為「變形金剛：滲透行動(The Transformers: Infiltration)」、「暴風行動(Stormbringer)」、「升級行動(Escalation)」、「麥加登本紀( Megatron Origin)」、「毀滅行動(Devastation)」、「啟示錄(Revelation)」、「麥加登萬歲(All Hail Megatron )」和「恐龍行動(Maximum Dinobots)」。
+後來在於2012年1月推出了兩個平行系列「隨時變形(Robots in Disguise)」和「難以置信(More Than Meets the Eye)」。
 
 2016年完結了「難以置信」並開始著手創作新故事「尋光號」。同年又聯合「義勇群英」、「萬變奇兵」等其他IDW簱下漫畫創作出「斗轉星移」。
 
 ## 發展
 
-Dreamwave於2005年1月4日宣布關閉並停止所有漫畫出版，留下了變形金剛G1和一個不完整的變形金剛內戰前傳故事.\[2\]，讓IDW出版社總編輯[Chris
-Ryall拿到](https://zh.wikipedia.org/wiki/Chris_Ryall "wikilink")。
+Dreamwave於2005年1月4日宣布關閉並停止所有漫畫出版，留下了變形金剛G1和一個不完整的變形金剛內戰前傳故事.\[2\]，讓IDW出版社總編輯[Chris Ryall拿到](https://zh.wikipedia.org/wiki/Chris_Ryall "wikilink")。
 
-2005年5月19日，孩之寶公司正式宣布於2005年10月把變形金剛出版許可頒發給IDW公司，而在「滲透行動( The
-Transformers: Infiltration)」製作開始前，Chris
-Ryall遇上變形金剛漫畫（Marvel漫畫版）的長期作家Simon
-Furman，而Furman打算利用第1代G1造型吸引新舊玩家。並引用了焦點的「機器人喬裝(Robots in
-Disguise)」元素，目的是重新帶回變形金剛的“神話和威嚴﹙Myth and
-Majesty﹚”。最後Furman描述：「這是最後（20多年後）我接受變形金剛。」。
+2005年5月19日，孩之寶公司正式宣布於2005年10月把變形金剛出版許可頒發給IDW公司，而在「滲透行動( The Transformers: Infiltration)」製作開始前，Chris Ryall遇上變形金剛漫畫（Marvel漫畫版）的長期作家Simon Furman，而Furman打算利用第1代G1造型吸引新舊玩家。並引用了焦點的「機器人喬裝(Robots in Disguise)」元素，目的是重新帶回變形金剛的“神話和威嚴﹙Myth and Majesty﹚”。最後Furman描述：「這是最後（20多年後）我接受變形金剛。」。
 
 ## 藝術和編輯政策
 
@@ -53,10 +42,7 @@ Majesty﹚”。最後Furman描述：「這是最後（20多年後）我接受�
 
 ## 設定
 
-變形金剛漫畫為IDW出版的美國漫畫，由於對象年齡為青少年，當中更加入了博派和狂開戰前的塞博坦社會描寫，故事已經完全獨立於電視和電影的世界觀。
-以下內容以漫畫「變形金剛：難以罝信(The Transformers: More than Meets the
-Eye)」和「變形金剛：隨時變形(The Transformers: Robots in
-Disguise)」故事為主。
+變形金剛漫畫為IDW出版的美國漫畫，由於對象年齡為青少年，當中更加入了博派和狂開戰前的塞博坦社會描寫，故事已經完全獨立於電視和電影的世界觀。 以下內容以漫畫「變形金剛：難以罝信(The Transformers: More than Meets the Eye)」和「變形金剛：隨時變形(The Transformers: Robots in Disguise)」故事為主。
 
 ### 大戰前塞博坦社會
 
@@ -431,7 +417,7 @@ Disguise)」故事為主。
 
 ### 失落之光
 
-  - **熱破**
+  - **洛迪文/補天士**
 
 <!-- end list -->
 
@@ -465,9 +451,11 @@ Disguise)」故事為主。
 <!-- end list -->
 
   -
+    前霸天虎。
     原副艦長，因霸王事件而被革職趕走。
-    在外傳「岩石帝國」中被力捷找到。
+    在外傳「岩石帝國」中被飛輪找到。
     「難以置信」收到高速發出求救訊號而前來救援。
+    和飛輪發展成戀人關係并成為火種伴侶。
 
 <!-- end list -->
 
@@ -476,7 +464,7 @@ Disguise)」故事為主。
 <!-- end list -->
 
   -
-    人類形態：雙馬尾的獨眼女生
+    人類形態：藍色雙馬尾戴著眼罩的獨眼少女
     原飛行隊成員，後來為興趣而想改行做鐘錶匠。後工作場被人以「沒交保護費」為由破壞，雙手又被俱五刑拆掉，從而性格變得瘋癲。
     而在時間旅行中得知其實一切事都是功能主義者在背後策劃。
     曾經是回收救援隊成員，因為擅自想替昏迷不醒的彈簧進行安樂死而被革職。
@@ -494,10 +482,11 @@ Disguise)」故事為主。
     在靈魂吞噬者事件中被剎車所救。
     「難以置信」\#49，因為魔戈和弗鉻銥德事件辭去心理醫生職務。
     「尋光號」故事中另一個榮格表示自己是個冷組建專用裝置。
+    其實是原始天尊之一。
 
 <!-- end list -->
 
-  - **福特巨人**
+  - **巨無霸福特**
 
 <!-- end list -->
 
@@ -520,7 +509,7 @@ Disguise)」故事為主。
 
 <!-- end list -->
 
-  - **拖板**
+  - **擋板**
 
 <!-- end list -->
 
@@ -530,10 +519,11 @@ Disguise)」故事為主。
     一度被誤會是方舟成員，後被狂飆拆穿。
     曾為加入博派而謊稱自己是拆彈專家。
     曾因電子壞死症而命危，後被狂飆救回。
-    曾被奪路騙去襲擊麥加登，目的是想藉麥加登反應過度殺害拖板而被趕走，但被狂飆救回。
+    曾被奪路騙去襲擊麥加登，目的是想藉麥加登反應過度殺害檔板而被趕走，但被狂飆救回。
     一度以為狂飆死亡而情緒崩潰進入昏迷。
     醒來後發現因當時情緒崩潰造成的能量噴發而成為異能者。
     在睡覺時會發神經而不自知，而成為異能者力量大增甚至打傷狂飆。
+    狂飆的戀人及火種伴侶
 
 <!-- end list -->
 
@@ -543,11 +533,12 @@ Disguise)」故事為主。
 
   -
     前任狂原甲威龍副手。
-    人類型態為衣著猶如十八世紀的嚴肅女性。
-    拖板室友。
-    曾經認為拖板很麻煩，甚至毆打過拖板，後來關係逐漸好轉。
-    最先發現拖板並非方舟成員。
-    被成為異能者力量大增拖板在睡覺時發神經打傷，但刻意隱瞞。
+    人類型態為穿著十八世紀禮服的莊嚴女性。
+    擋板室友。
+    曾經認為擋板很麻煩，甚至毆打過擋板，後來關係逐漸好轉。
+    最先發現擋板並非方舟成員。
+    被成為異能者力量大增的擋板在睡覺時發神經打傷，但刻意隱瞞。
+    擋板的火種伴侶
 
 <!-- end list -->
 
@@ -569,7 +560,7 @@ Disguise)」故事為主。
 
   -
     記憶金剛。
-    為尋找失蹤戀人安帕斯而登上失落之光。
+    為尋找失蹤戀人安帕斯而登上失落之光，但和電腦怪傑成為戀人。
     在霸王逃離後為驅逐霸王而死。
     在量子複製事件中出現的另一架失落之光號唯一生還者。
 
@@ -993,12 +984,10 @@ Disguise)」故事為主。
 ## 外部連結
 
   - [IDW《變形金剛》漫畫官方網站](http://www.idwpublishing.com/transformers/) （英文）
-  - [Tfarchive](http://tfarchive.com/comics/idw/guide.php?s=readingguide)
-    （英文）
+  - [Tfarchive](http://tfarchive.com/comics/idw/guide.php?s=readingguide) （英文）
   - [The_Transformers_(IDW)](http://tfwiki.net/wiki/The_Transformers_\(IDW\))（英文）
 
-[Category:美國漫畫作品](https://zh.wikipedia.org/wiki/Category:美國漫畫作品 "wikilink")
-[Category:变形金刚](https://zh.wikipedia.org/wiki/Category:变形金刚 "wikilink")
+[Category:美國漫畫作品](https://zh.wikipedia.org/wiki/Category:美國漫畫作品 "wikilink") [Category:变形金刚](https://zh.wikipedia.org/wiki/Category:变形金刚 "wikilink")
 
 1.
 2.

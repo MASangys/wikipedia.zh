@@ -1,6 +1,4 @@
-《**B-PROJECT**》（）是由MAGES.負責的虛擬偶像計劃，簡稱為「」\[1\]。總合製作人由[西川貴教擔任](https://zh.wikipedia.org/wiki/西川貴教 "wikilink")，企劃及原作由[志倉千代丸負責](../Page/志倉千代丸.md "wikilink")，而人物設定則是由[雪廣歌子負責](https://zh.wikipedia.org/wiki/雪廣歌子 "wikilink")\[2\]。
-2015年9月，B-PROJECT正式開始\[3\]。電視動畫「B-PROJECT～鼓動＊Ambitious～（B-PROJECT〜鼓動\*アンビシャス〜）」於2016年7月播放。遊戲預定於2016年年底配信，2017年初開放登錄。
-電視動畫第二季「B-PROJECT～絶頂＊エモーション～」於2019年1月11日開始播放。
+《**B-PROJECT**》（）是由MAGES.負責的虛擬偶像計劃，簡稱為「」\[1\]。總合製作人由[西川貴教擔任](https://zh.wikipedia.org/wiki/西川貴教 "wikilink")，企劃及原作由[志倉千代丸](../Page/志倉千代丸.md "wikilink")負責，而人物設定則是由[雪廣歌子負責](https://zh.wikipedia.org/wiki/雪廣歌子 "wikilink")\[2\]。 2015年9月，B-PROJECT正式開始\[3\]。電視動畫「B-PROJECT～鼓動＊Ambitious～（B-PROJECT〜鼓動\*アンビシャス〜）」於2016年7月播放。遊戲預定於2016年年底配信，2017年初開放登錄。 電視動畫第二季「B-PROJECT～絶頂＊エモーション～」於2019年1月11日開始播放。
 
 ## 登場人物
 
@@ -197,12 +195,9 @@
 
 ## 電視動畫
 
-以「」為題，於2016年7月預定由[TOKYO
-MX](../Page/東京都會電視台.md "wikilink")、[ABC](../Page/朝日放送.md "wikilink")、CBC電視台、[群馬電視台](https://zh.wikipedia.org/wiki/群馬電視台 "wikilink")、[栃木電視台及](https://zh.wikipedia.org/wiki/栃木電視台 "wikilink")[BS11等電視台播放](../Page/日本BS放送.md "wikilink")。
+以「」為題，於2016年7月預定由[TOKYO MX](../Page/東京都會電視台.md "wikilink")、[ABC](../Page/朝日放送.md "wikilink")、CBC電視台、[群馬電視台](https://zh.wikipedia.org/wiki/群馬電視台 "wikilink")、[栃木電視台及](https://zh.wikipedia.org/wiki/栃木電視台 "wikilink")[BS11等電視台播放](../Page/日本BS放送.md "wikilink")。
 
-第二季以「」為題，於2019年1月預定由[TOKYO
-MX](../Page/東京都會電視台.md "wikilink")、[群馬電視台](https://zh.wikipedia.org/wiki/群馬電視台 "wikilink")、[栃木電視台](https://zh.wikipedia.org/wiki/栃木電視台 "wikilink")、[BS11](../Page/日本BS放送.md "wikilink")
-及[ABC等電視台放送](../Page/朝日放送.md "wikilink")。
+第二季以「」為題，於2019年1月預定由[TOKYO MX](../Page/東京都會電視台.md "wikilink")、[群馬電視台](https://zh.wikipedia.org/wiki/群馬電視台 "wikilink")、[栃木電視台](https://zh.wikipedia.org/wiki/栃木電視台 "wikilink")、[BS11](../Page/日本BS放送.md "wikilink") 及[ABC等電視台放送](../Page/朝日放送.md "wikilink")。
 
 ### 第一季製作人員
 
@@ -270,8 +265,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[群馬電視台](https://zh.
 
   - 片尾曲「」
     作詞、作曲：志倉千代丸，編曲：久下真音
-    主唱：B-PROJECT(第一集、第八集、第十一集)，KiLLER
-    KiNG(第二集、第九集)，MooNs(第三集、第六集)，キタコレ(第四集、第七集)，THRIVE(第五集、第十集)
+    主唱：B-PROJECT(第一集、第八集、第十一集)，KiLLER KiNG(第二集、第九集)，MooNs(第三集、第六集)，キタコレ(第四集、第七集)，THRIVE(第五集、第十集)
 
 ### 插入曲
 
@@ -997,14 +991,10 @@ MX](../Page/東京都會電視台.md "wikilink")、[群馬電視台](https://zh.
 
   - [電視動畫「B-PROJECT～鼓動＊Ambitious～」—朝日放送專頁](http://www.asahi.co.jp/anime/b-project/)
 
-
   -
   - [電視動畫「B-PROJECT～絕頂＊Emotion～」官方網站](https://bpro-anime.com/)
 
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:2019年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2019年日本電視動畫 "wikilink")
-[Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink")
-[Category:音樂題材作品](https://zh.wikipedia.org/wiki/Category:音樂題材作品 "wikilink")
+[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:2019年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2019年日本電視動畫 "wikilink") [Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink") [Category:音樂題材作品](https://zh.wikipedia.org/wiki/Category:音樂題材作品 "wikilink")
 
 1.
 2.

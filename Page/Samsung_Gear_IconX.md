@@ -1,9 +1,6 @@
-**三星Gear IconX**（Samsung Gear
-IconX），是韓國三星電子在2016年7月15日推出的[藍牙無線](../Page/藍牙.md "wikilink")[耳機](../Page/耳機.md "wikilink")。有三種顏色（黑色、藍色和白色），內部存儲可以足夠容納多達1,000個MP3\[1\]，通過[藍牙](../Page/藍牙.md "wikilink")
-4.1 協議鏈接至其他語音設備。
+**三星Gear IconX**（Samsung Gear IconX），是韓國三星電子在2016年7月15日推出的[藍牙](../Page/藍牙.md "wikilink")無線[耳機](../Page/耳機.md "wikilink")。有三種顏色（黑色、藍色和白色），內部存儲可以足夠容納多達1,000個MP3\[1\]，通過[藍牙](../Page/藍牙.md "wikilink") 4.1 協議鏈接至其他語音設備。
 
-下一代是[Samsung Gear IconX
-(2018)](../Page/Samsung_Gear_IconX_\(2018\).md "wikilink")。
+下一代是[Samsung Gear IconX (2018)](../Page/Samsung_Gear_IconX_\(2018\).md "wikilink")。
 
 ## 簡介
 
@@ -63,8 +60,7 @@ IconX），是韓國三星電子在2016年7月15日推出的[藍牙無線](../Pa
 
   - [三星官方網站](https://www.samsung.com/us/support/owners/product/gear-iconx)
 
-[Category:三星可穿戴式设备](https://zh.wikipedia.org/wiki/Category:三星可穿戴式设备 "wikilink")
-[Category:耳機](https://zh.wikipedia.org/wiki/Category:耳機 "wikilink")
+[Category:三星可穿戴式设备](https://zh.wikipedia.org/wiki/Category:三星可穿戴式设备 "wikilink") [Category:耳機](https://zh.wikipedia.org/wiki/Category:耳機 "wikilink")
 
 1.
 2.

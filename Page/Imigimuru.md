@@ -1,6 +1,6 @@
 **Imigimuru**（，），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。
 
-代表作是目前在[KADOKAWA連載](../Page/KADOKAWA.md "wikilink")、2016年7月至9月播出同名[電視動畫的](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[這個美術社大有問題！](https://zh.wikipedia.org/wiki/這個美術社大有問題！ "wikilink")》。
+代表作是目前在[KADOKAWA](../Page/KADOKAWA.md "wikilink")連載、2016年7月至9月播出同名[電視動畫的](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[這個美術社大有問題！](https://zh.wikipedia.org/wiki/這個美術社大有問題！ "wikilink")》。
 
 ## 作品列表
 
@@ -55,8 +55,6 @@
 
   -
 
-[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink")
-[Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.

@@ -1,8 +1,8 @@
-《**Highlight**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Highlight的第三張正規專輯](../Page/Highlight_\(韓國組合\).md "wikilink")，本作亦是成員[張賢勝退出組合後](../Page/張賢勝.md "wikilink")，首次以五人之姿發行的作品。由[Cube娛樂企劃](../Page/Cube娛樂.md "wikilink")，2016年6月27日公開先行曲〈Butterfly〉，專輯則於隊長[尹斗俊生日](../Page/尹斗俊.md "wikilink")7月4日由[環球音樂發行](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")\[1\]，主打曲為〈Ribbon〉（）。
+《**Highlight**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Highlight的第三張正規專輯](../Page/Highlight_\(韓國組合\).md "wikilink")，本作亦是成員[張賢勝](../Page/張賢勝.md "wikilink")退出組合後，首次以五人之姿發行的作品。由[Cube娛樂](../Page/Cube娛樂.md "wikilink")企劃，2016年6月27日公開先行曲〈Butterfly〉，專輯則於隊長[尹斗俊](../Page/尹斗俊.md "wikilink")生日7月4日由[環球音樂發行](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")\[1\]，主打曲為〈Ribbon〉（）。
 
 ## 概要
 
-本次專輯形象一改以往黑白色彩，海報以粉嫩的春天色彩推出，五隻蝴蝶則代表五人突破困境再出發的意境\[2\]。先行曲〈Butterfly〉以鋼琴及木吉他聲揉合成員的和音，歌曲將離開的戀人比喻為振翅飛走的蝴蝶\[3\]。在先行曲公開前，成員[梁耀燮曾誤將公開時間透露](../Page/梁耀燮.md "wikilink")。\[4\]
+本次專輯形象一改以往黑白色彩，海報以粉嫩的春天色彩推出，五隻蝴蝶則代表五人突破困境再出發的意境\[2\]。先行曲〈Butterfly〉以鋼琴及木吉他聲揉合成員的和音，歌曲將離開的戀人比喻為振翅飛走的蝴蝶\[3\]。在先行曲公開前，成員[梁耀燮](../Page/梁耀燮.md "wikilink")曾誤將公開時間透露。\[4\]
 
 〈Ribbon〉則為BEAST全體聽過後便一致認定的主打曲，曲名為緞帶，描述原本緊密卻容易地鬆開的情侶關係。\[5\]粉絲亦為紀念新專輯發行與隊長尹斗俊生日，以BEAST名義進行慈善活動。\[6\]\[7\]
 
@@ -231,10 +231,7 @@
 
 ## 引用資料
 
-[Category:Highlight](https://zh.wikipedia.org/wiki/Category:Highlight "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:Highlight](https://zh.wikipedia.org/wiki/Category:Highlight "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 

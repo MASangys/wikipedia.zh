@@ -1,5 +1,4 @@
-**Passione株式會社**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於2011年1月26日。至今已製作過《[RAIL
-WARS！](../Page/RAIL_WARS!_-日本國有鐵道公安隊-.md "wikilink")》、《[六花的勇者](https://zh.wikipedia.org/wiki/六花的勇者 "wikilink")》、《[雛子的筆記](https://zh.wikipedia.org/wiki/雛子的筆記 "wikilink")》\[2\]在內等多部作品。
+**Passione株式會社**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於2011年1月26日。至今已製作過《[RAIL WARS！](../Page/RAIL_WARS!_-日本國有鐵道公安隊-.md "wikilink")》、《[六花的勇者](https://zh.wikipedia.org/wiki/六花的勇者 "wikilink")》、《[雛子的筆記](https://zh.wikipedia.org/wiki/雛子的筆記 "wikilink")》\[2\]在內等多部作品。
 
 ## 主要客戶
 
@@ -273,9 +272,7 @@ OVA
 
   -
 
-[Category:2011年成立的公司](https://zh.wikipedia.org/wiki/Category:2011年成立的公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
+[Category:2011年成立的公司](https://zh.wikipedia.org/wiki/Category:2011年成立的公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
 
 1.
 2.
@@ -283,4 +280,4 @@ OVA
 3.
 4.
 
-5.  前面3期都由[TNK製作](../Page/TNK.md "wikilink")。
+5.  前面3期都由[TNK](../Page/TNK.md "wikilink")製作。

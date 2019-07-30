@@ -1,20 +1,12 @@
-[YOSAKOI_Soran_Festival.jpg](https://zh.wikipedia.org/wiki/File:YOSAKOI_Soran_Festival.jpg "fig:YOSAKOI_Soran_Festival.jpg")
-[2010_YOSAKOI_Soran_Festival_06.jpg](https://zh.wikipedia.org/wiki/File:2010_YOSAKOI_Soran_Festival_06.jpg "fig:2010_YOSAKOI_Soran_Festival_06.jpg")
-[2010_YOSAKOI_Soran_Festival_09.jpg](https://zh.wikipedia.org/wiki/File:2010_YOSAKOI_Soran_Festival_09.jpg "fig:2010_YOSAKOI_Soran_Festival_09.jpg")
-[2010_YOSAKOI_Soran_Festival_10.jpg](https://zh.wikipedia.org/wiki/File:2010_YOSAKOI_Soran_Festival_10.jpg "fig:2010_YOSAKOI_Soran_Festival_10.jpg")
-[2010_YOSAKOI_Soran_Festival_01.jpg](https://zh.wikipedia.org/wiki/File:2010_YOSAKOI_Soran_Festival_01.jpg "fig:2010_YOSAKOI_Soran_Festival_01.jpg")
+[YOSAKOI_Soran_Festival.jpg](https://zh.wikipedia.org/wiki/File:YOSAKOI_Soran_Festival.jpg "fig:YOSAKOI_Soran_Festival.jpg") [2010_YOSAKOI_Soran_Festival_06.jpg](https://zh.wikipedia.org/wiki/File:2010_YOSAKOI_Soran_Festival_06.jpg "fig:2010_YOSAKOI_Soran_Festival_06.jpg") [2010_YOSAKOI_Soran_Festival_09.jpg](https://zh.wikipedia.org/wiki/File:2010_YOSAKOI_Soran_Festival_09.jpg "fig:2010_YOSAKOI_Soran_Festival_09.jpg") [2010_YOSAKOI_Soran_Festival_10.jpg](https://zh.wikipedia.org/wiki/File:2010_YOSAKOI_Soran_Festival_10.jpg "fig:2010_YOSAKOI_Soran_Festival_10.jpg") [2010_YOSAKOI_Soran_Festival_01.jpg](https://zh.wikipedia.org/wiki/File:2010_YOSAKOI_Soran_Festival_01.jpg "fig:2010_YOSAKOI_Soran_Festival_01.jpg")
 
-**YOSAKOI索朗祭**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：**）**是每年六月上旬在[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")[札幌市舉辦的](../Page/札幌市.md "wikilink")[YOSAKOI祭典](../Page/YOSAKOI.md "wikilink")。由
-YOSAKO索朗祭組織委員會（）主辦。
+**YOSAKOI索朗祭**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：**）**是每年六月上旬在[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")舉辦的[YOSAKOI](../Page/YOSAKOI.md "wikilink")祭典。由 YOSAKO索朗祭組織委員會（）主辦。
 
 ## 歴史
 
-1991年時，[北海道大學學生](../Page/北海道大學.md "wikilink")（現為[日本參議院議員](https://zh.wikipedia.org/wiki/日本參議院 "wikilink")）在[高知縣探病時正好遇到了](https://zh.wikipedia.org/wiki/高知縣 "wikilink")的活動，體驗到現場的氣氛後，決定在北海道也舉辦具有相同氣氛的活動\[1\]，同年12月，由五位學生參考高知縣的「夜來祭」及北海道的「」組成了「YOSAKOI索朗祭實行委員會」\[2\]\[3\]，希望辦出一個融合兩者活動的「YOSAKOI索朗祭
-」。\[4\]
+1991年時，[北海道大學](../Page/北海道大學.md "wikilink")學生（現為[日本參議院議員](https://zh.wikipedia.org/wiki/日本參議院 "wikilink")）在[高知縣探病時正好遇到了](https://zh.wikipedia.org/wiki/高知縣 "wikilink")的活動，體驗到現場的氣氛後，決定在北海道也舉辦具有相同氣氛的活動\[1\]，同年12月，由五位學生參考高知縣的「夜來祭」及北海道的「」組成了「YOSAKOI索朗祭實行委員會」\[2\]\[3\]，希望辦出一個融合兩者活動的「YOSAKOI索朗祭 」。\[4\]
 
-1992年6月，從北海道內16所大學召集了150名工作人員舉辦了第一屆的「YOSAKOI索朗祭
-」\[5\]，當時有1,000人組成了10支隊伍參加活動\[6\]。1996年主辦單位改為「YOSAKOI索朗祭普及振興會」\[7\]，隨著規模的擴大，再次變更為「YOSAKOI索朗祭
-組織委員會」\[8\]。
+1992年6月，從北海道內16所大學召集了150名工作人員舉辦了第一屆的「YOSAKOI索朗祭 」\[5\]，當時有1,000人組成了10支隊伍參加活動\[6\]。1996年主辦單位改為「YOSAKOI索朗祭普及振興會」\[7\]，隨著規模的擴大，再次變更為「YOSAKOI索朗祭 組織委員會」\[8\]。
 
 參加隊伍最多曾經在2001年達到408支隊伍，而活動吸引來的觀光客在2010年達到218萬人。\[9\]\[10\]
 
@@ -55,12 +47,9 @@ YOSAKO索朗祭組織委員會（）主辦。
 
 ## 内容
 
-參加演出人員必須手持「鳴子」（類似響板的樂器）演出，並在樂曲歌詞
-中加入「索朗」\[11\]。並分為進行型和静止型兩種表演方式，進行型是以約100公尺的前進距離作為一個表演段落，因此也各隊會搭配一台裝有音響設備的車輛配合隊伍邊移動邊進行表演。
+參加演出人員必須手持「鳴子」（類似響板的樂器）演出，並在樂曲歌詞 中加入「索朗」\[11\]。並分為進行型和静止型兩種表演方式，進行型是以約100公尺的前進距離作為一個表演段落，因此也各隊會搭配一台裝有音響設備的車輛配合隊伍邊移動邊進行表演。
 
-<File:2010> YOSAKOI Soran Festival 02.jpg|進行型演出時配合使用音響車輛 <File:2010>
-YOSAKOI Soran Festival 03.jpg|進行型演出時配合使用音響車輛 <File:2010> YOSAKOI Soran
-Festival 05.jpg|進行型演出時配合使用音響車輛
+<File:2010> YOSAKOI Soran Festival 02.jpg|進行型演出時配合使用音響車輛 <File:2010> YOSAKOI Soran Festival 03.jpg|進行型演出時配合使用音響車輛 <File:2010> YOSAKOI Soran Festival 05.jpg|進行型演出時配合使用音響車輛
 
 ### 活動時程
 
@@ -76,7 +65,7 @@ Festival 05.jpg|進行型演出時配合使用音響車輛
 
 ## 場地
 
-主會場設於[大通公園西](../Page/大通公園.md "wikilink")8丁目會場，為開幕表演和準決賽、決賽進行的場地。大通南北道路為評審表演場地，其餘表演分散在札幌市內各地。
+主會場設於[大通公園](../Page/大通公園.md "wikilink")西8丁目會場，為開幕表演和準決賽、決賽進行的場地。大通南北道路為評審表演場地，其餘表演分散在札幌市內各地。
 
 ## YOSAKOI索朗大獎得獎隊伍
 
@@ -391,9 +380,7 @@ Festival 05.jpg|進行型演出時配合使用音響車輛
 
   -
 
-[Category:中央區_(札幌市)](https://zh.wikipedia.org/wiki/Category:中央區_\(札幌市\) "wikilink")
-[Category:北海道文化](https://zh.wikipedia.org/wiki/Category:北海道文化 "wikilink")
-[Category:日本的祭](https://zh.wikipedia.org/wiki/Category:日本的祭 "wikilink")
+[Category:中央區_(札幌市)](https://zh.wikipedia.org/wiki/Category:中央區_\(札幌市\) "wikilink") [Category:北海道文化](https://zh.wikipedia.org/wiki/Category:北海道文化 "wikilink") [Category:日本的祭](https://zh.wikipedia.org/wiki/Category:日本的祭 "wikilink")
 
 1.
 

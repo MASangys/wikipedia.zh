@@ -1,34 +1,16 @@
-Starset是個來自美國[俄亥俄州](../Page/俄亥俄州.md "wikilink")[哥倫布市的](../Page/哥伦布_\(俄亥俄州\).md "wikilink")[另類搖滾樂團](../Page/另类摇滚.md "wikilink")\[1\]，在2013由Dustin
-Bates組建，他們在創團後的一年發行首張專輯Transmissions。並在2017年發行第二張專輯Vessels。
+Starset是個來自美國[俄亥俄州](../Page/俄亥俄州.md "wikilink")[哥倫布市的](../Page/哥伦布_\(俄亥俄州\).md "wikilink")[另類搖滾樂團](../Page/另类摇滚.md "wikilink")\[1\]，在2013由Dustin Bates組建，他們在創團後的一年發行首張專輯Transmissions。並在2017年發行第二張專輯Vessels。
 
 ## 經歷
 
 ### 成立與Transmissions專輯(2013-現今)
 
-Starset於2013年由[Downplay的主唱Dustin](https://zh.wikipedia.org/wiki/Downplay "wikilink")
-Bates所創立，他同時兼任主唱、作曲人與鍵盤手的職位，Dustin最早是在[俄亥俄大學攻讀](https://zh.wikipedia.org/wiki/俄亥俄大学 "wikilink")[電機工程博士學位的期間對](../Page/電機工程學.md "wikilink")[天文學產生興趣](../Page/天文學.md "wikilink")，他同時也有對美國空軍的完整研究，並曾在國際太空大學(ISU)任教。
+Starset於2013年由[Downplay的主唱Dustin](https://zh.wikipedia.org/wiki/Downplay "wikilink") Bates所創立，他同時兼任主唱、作曲人與鍵盤手的職位，Dustin最早是在[俄亥俄大學攻讀](https://zh.wikipedia.org/wiki/俄亥俄大学 "wikilink")[電機工程博士學位的期間對](../Page/電機工程學.md "wikilink")[天文學](../Page/天文學.md "wikilink")產生興趣，他同時也有對美國空軍的完整研究，並曾在國際太空大學(ISU)任教。
 
-他們在2014年的七月八號發行了他們的首張專輯Transmissions，而Starset同時也是The Starset
-Society的一份子，後者幫助他們加深並擴展了專輯中的科學性與政治議題表現。此張專輯中的音樂風格曾與[Linkin
-Park、](../Page/聯合公園.md "wikilink")、[Skillet(band)](https://zh.wikipedia.org/wiki/Skillet\(band\) "wikilink")、[30秒上火星](../Page/30秒上火星.md "wikilink")、[Three
-Days
-Grace與](../Page/寬限三天樂團.md "wikilink")[Red等團體相提並論](https://zh.wikipedia.org/wiki/Red "wikilink")。
+他們在2014年的七月八號發行了他們的首張專輯Transmissions，而Starset同時也是The Starset Society的一份子，後者幫助他們加深並擴展了專輯中的科學性與政治議題表現。此張專輯中的音樂風格曾與[Linkin Park、](../Page/聯合公園.md "wikilink")、[Skillet(band)](https://zh.wikipedia.org/wiki/Skillet\(band\) "wikilink")、[30秒上火星](../Page/30秒上火星.md "wikilink")、[Three Days Grace與](../Page/寬限三天樂團.md "wikilink")[Red等團體相提並論](https://zh.wikipedia.org/wiki/Red "wikilink")。
 
 ## 音樂風格
 
-Starset的音樂風格曾被[Erie
-Times-News'](https://zh.wikipedia.org/wiki/Erie_Times-News' "wikilink")
-的Dave Richard評論為「對謬思的激昂進取心與率性的情感表現相互交融，這個樂團擁有與Breaking
-Benjamin一樣強而有力的爆發性。」Starset的音樂風格則受[Hans
-Zimmer](../Page/漢斯·季默.md "wikilink"),
-[九寸釘樂團](../Page/九寸釘樂團.md "wikilink"), [Sigur
-Ros](../Page/詩格洛絲.md "wikilink"),
-[30秒上火星](../Page/30秒上火星.md "wikilink"),
-[Deftones](https://zh.wikipedia.org/wiki/Deftones "wikilink"), [Angels
-and
-Airwaves](https://zh.wikipedia.org/wiki/Angels_and_Airwaves "wikilink")
-和 [Breaking
-Benjamin所影響](https://zh.wikipedia.org/wiki/Breaking_Benjamin "wikilink")。
+Starset的音樂風格曾被[Erie Times-News'](https://zh.wikipedia.org/wiki/Erie_Times-News' "wikilink") 的Dave Richard評論為「對謬思的激昂進取心與率性的情感表現相互交融，這個樂團擁有與Breaking Benjamin一樣強而有力的爆發性。」Starset的音樂風格則受[Hans Zimmer](../Page/漢斯·季默.md "wikilink"), [九寸釘樂團](../Page/九寸釘樂團.md "wikilink"), [Sigur Ros](../Page/詩格洛絲.md "wikilink"), [30秒上火星](../Page/30秒上火星.md "wikilink"), [Deftones](https://zh.wikipedia.org/wiki/Deftones "wikilink"), [Angels and Airwaves](https://zh.wikipedia.org/wiki/Angels_and_Airwaves "wikilink") 和 [Breaking Benjamin所影響](https://zh.wikipedia.org/wiki/Breaking_Benjamin "wikilink")。
 
 ## 作品
 

@@ -1,4 +1,4 @@
-《**幸运钥匙**》（、）是2016年10月13日上映的一部韓國喜劇電影，翻拍自2012年日本電影《[落KEY人生](../Page/盗钥匙的方法.md "wikilink")》，講述一名殺手（崔亨旭，由[柳海真飾演](../Page/柳海真.md "wikilink")）因在澡堂踩到香皂而摔倒失憶，以及一名決心自殺的無名演員（尹在誠，由[李準飾演](../Page/李準_\(歌手\).md "wikilink")）在澡堂調換鑰匙，而讓兩個人的命運大逆轉的故事。
+《**幸运钥匙**》（、）是2016年10月13日上映的一部韓國喜劇電影，翻拍自2012年日本電影《[落KEY人生](../Page/盗钥匙的方法.md "wikilink")》，講述一名殺手（崔亨旭，由[柳海真](../Page/柳海真.md "wikilink")飾演）因在澡堂踩到香皂而摔倒失憶，以及一名決心自殺的無名演員（尹在誠，由[李準飾演](../Page/李準_\(歌手\).md "wikilink")）在澡堂調換鑰匙，而讓兩個人的命運大逆轉的故事。
 
 ## 演員
 
@@ -41,10 +41,4 @@
   - [NAVER電影](http://movie.naver.com/movie/bi/mi/basic.nhn?code=140695)
   - [Daum電影](http://movie.daum.net/moviedb/main?movieId=95647)
 
-[Category:2016年電影](https://zh.wikipedia.org/wiki/Category:2016年電影 "wikilink")
-[Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink")
-[Category:重拍電影](https://zh.wikipedia.org/wiki/Category:重拍電影 "wikilink")
-[Category:韓國喜劇片](https://zh.wikipedia.org/wiki/Category:韓國喜劇片 "wikilink")
-[Category:韓國犯罪片](https://zh.wikipedia.org/wiki/Category:韓國犯罪片 "wikilink")
-[Category:交換身分題材電影](https://zh.wikipedia.org/wiki/Category:交換身分題材電影 "wikilink")
-[Category:戲劇題材作品](https://zh.wikipedia.org/wiki/Category:戲劇題材作品 "wikilink")
+[Category:2016年電影](https://zh.wikipedia.org/wiki/Category:2016年電影 "wikilink") [Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink") [Category:重拍電影](https://zh.wikipedia.org/wiki/Category:重拍電影 "wikilink") [Category:韓國喜劇片](https://zh.wikipedia.org/wiki/Category:韓國喜劇片 "wikilink") [Category:韓國犯罪片](https://zh.wikipedia.org/wiki/Category:韓國犯罪片 "wikilink") [Category:交換身分題材電影](https://zh.wikipedia.org/wiki/Category:交換身分題材電影 "wikilink") [Category:戲劇題材作品](https://zh.wikipedia.org/wiki/Category:戲劇題材作品 "wikilink")

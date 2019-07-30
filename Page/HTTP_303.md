@@ -1,10 +1,8 @@
-**HTTP 303 See Other** ，自 RFC 2616 (HTTP 1.1)起，用于在收到[HTTP
-POST请求之后](https://zh.wikipedia.org/wiki/HTTP_POST "wikilink")，进行[URL重定向的操作](https://zh.wikipedia.org/wiki/URL重定向 "wikilink")。\[1\]
+**HTTP 303 See Other** ，自 RFC 2616 (HTTP 1.1)起，用于在收到[HTTP POST请求之后](https://zh.wikipedia.org/wiki/HTTP_POST "wikilink")，进行[URL重定向的操作](https://zh.wikipedia.org/wiki/URL重定向 "wikilink")。\[1\]
 
 ## 引入
 
-虽然 RFC 1945 和 RFC 2068
-规范不允许客户端在重定向时改变请求的方法，但是很多现存的浏览器在收到302响应时，直接使用GET方式访问在Location中规定的URI，而无视原先请求的方法。\[2\]因此状态码303被添加了进来，用以明确服务器期待客户端进行何种反应。\[3\]
+虽然 RFC 1945 和 RFC 2068 规范不允许客户端在重定向时改变请求的方法，但是很多现存的浏览器在收到302响应时，直接使用GET方式访问在Location中规定的URI，而无视原先请求的方法。\[2\]因此状态码303被添加了进来，用以明确服务器期待客户端进行何种反应。\[3\]
 
 ## 定义
 
@@ -49,14 +47,11 @@ Location: http://www.example.org/view-comment.asp
 
 ## 外部連結
 
-  - [HTTP/1.1 Error codes in
-    RFC 2616](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
+  - [HTTP/1.1 Error codes in RFC 2616](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
   - RFC 1945 (HTTP 1.0)
   - RFC 7231 (HTTP 1.1)
 
-[Category:HTTP](https://zh.wikipedia.org/wiki/Category:HTTP "wikilink")
-[Category:计算机错误](https://zh.wikipedia.org/wiki/Category:计算机错误 "wikilink")
-[Category:網路術語](https://zh.wikipedia.org/wiki/Category:網路術語 "wikilink")
+[Category:HTTP](https://zh.wikipedia.org/wiki/Category:HTTP "wikilink") [Category:计算机错误](https://zh.wikipedia.org/wiki/Category:计算机错误 "wikilink") [Category:網路術語](https://zh.wikipedia.org/wiki/Category:網路術語 "wikilink")
 
 1.
 2.

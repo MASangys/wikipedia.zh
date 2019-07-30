@@ -1,4 +1,4 @@
-**C小调**（，），本名**佟心竹**\[1\]，中国北京配音演员\[2\]，[北斗企鹅工作室成员](../Page/北斗企鹅工作室.md "wikilink")，主要为为动画、动画大电影配音\[3\]。在动画《[你的名字。](../Page/你的名字。.md "wikilink")》中，为女主角宫水三叶配音\[4\]。在动画《[全职高手](https://zh.wikipedia.org/wiki/全职高手 "wikilink")》中，为女主角苏沐橙[配音](../Page/配音.md "wikilink")。
+**C小调**（，），本名**佟心竹**\[1\]，中国北京配音演员\[2\]，[北斗企鹅工作室](../Page/北斗企鹅工作室.md "wikilink")成员，主要为为动画、动画大电影配音\[3\]。在动画《[你的名字。](../Page/你的名字。.md "wikilink")》中，为女主角宫水三叶配音\[4\]。在动画《[全职高手](https://zh.wikipedia.org/wiki/全职高手 "wikilink")》中，为女主角苏沐橙[配音](../Page/配音.md "wikilink")。
 
 ## 配音作品
 
@@ -116,10 +116,8 @@
 
 ### 网络剧
 
-  - 《[仙剑客栈](https://zh.wikipedia.org/wiki/仙剑客栈 "wikilink")》赵灵儿（[孫雪寧](../Page/孫雪寧.md "wikilink")
-    饰）
-  - 《[器靈](https://zh.wikipedia.org/wiki/器靈 "wikilink")》炎槍重黎（[孫雪寧](../Page/孫雪寧.md "wikilink")
-    饰）
+  - 《[仙剑客栈](https://zh.wikipedia.org/wiki/仙剑客栈 "wikilink")》赵灵儿（[孫雪寧](../Page/孫雪寧.md "wikilink") 饰）
+  - 《[器靈](https://zh.wikipedia.org/wiki/器靈 "wikilink")》炎槍重黎（[孫雪寧](../Page/孫雪寧.md "wikilink") 饰）
 
 ### 遊戲
 
@@ -133,14 +131,11 @@
   -
 ## 参考
 
-[分类:中国配音员](https://zh.wikipedia.org/wiki/分类:中国配音员 "wikilink")
-[分类:北京人](https://zh.wikipedia.org/wiki/分类:北京人 "wikilink")
+[分类:中国配音员](https://zh.wikipedia.org/wiki/分类:中国配音员 "wikilink") [分类:北京人](https://zh.wikipedia.org/wiki/分类:北京人 "wikilink")
 
 [Category:女性配音员](https://zh.wikipedia.org/wiki/Category:女性配音员 "wikilink")
 
-1.  [你的名字完整中文配音演员表介绍
-    男女主角配音分别是谁](http://news.52fuqing.com/newsshow-1288910-3.html)
+1.  [你的名字完整中文配音演员表介绍 男女主角配音分别是谁](http://news.52fuqing.com/newsshow-1288910-3.html)
 2.  [豆瓣网 - C小调](https://movie.douban.com/celebrity/1361154/)
 3.  [《300英雄》邀C小调-Olivia献声系统语音](http://news.17173.com/content/2016-03-17/20160317145810909.shtml)
-4.  [《你的名字。》内地票房近五亿
-    首发国语版预告](http://ent.qq.com/a/20161212/035747.htm?t=1481545075821#p=1)
+4.  [《你的名字。》内地票房近五亿 首发国语版预告](http://ent.qq.com/a/20161212/035747.htm?t=1481545075821#p=1)

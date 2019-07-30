@@ -16,7 +16,7 @@
 
 ## 評價
 
-由於是一款恐怖獵奇遊戲，因此遊戲中充斥著大量的血腥暴力和作者的惡趣味，甚至令人感到不適的畫面，例如以[斷頭台砍頭](../Page/斷頭台.md "wikilink")、[電鋸分屍](https://zh.wikipedia.org/wiki/電鋸 "wikilink")、銳器穿眼、肚破腸流等，遊走在法律邊緣，被視為是對中國大陸政府當局的一種挑戰，此遊戲也不可避免的被歸類為18禁成人向作品。還有一些帶有情色意味（但程度較輕微）的女主角的裸露圖片，同樣引起網友熱烈討論，評價兩極。\[5\]
+由於是一款恐怖獵奇遊戲，因此遊戲中充斥著大量的血腥暴力和作者的惡趣味，甚至令人感到不適的畫面，例如以[斷頭台](../Page/斷頭台.md "wikilink")砍頭、[電鋸分屍](https://zh.wikipedia.org/wiki/電鋸 "wikilink")、銳器穿眼、肚破腸流等，遊走在法律邊緣，被視為是對中國大陸政府當局的一種挑戰，此遊戲也不可避免的被歸類為18禁成人向作品。還有一些帶有情色意味（但程度較輕微）的女主角的裸露圖片，同樣引起網友熱烈討論，評價兩極。\[5\]
 
 ## 续作
 
@@ -35,23 +35,11 @@
   -
   - [史悲漫畫臉書專頁](https://www.facebook.com/史悲漫畫投放-1022885061061005)
 
-[Category:2016年电子游戏](https://zh.wikipedia.org/wiki/Category:2016年电子游戏 "wikilink")
-[Category:恐怖遊戲](https://zh.wikipedia.org/wiki/Category:恐怖遊戲 "wikilink")
-[Category:獨立遊戲](https://zh.wikipedia.org/wiki/Category:獨立遊戲 "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink")
-[Category:免費遊戲](https://zh.wikipedia.org/wiki/Category:免費遊戲 "wikilink")
-[Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink")
-[Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
-[Category:丧尸游戏](https://zh.wikipedia.org/wiki/Category:丧尸游戏 "wikilink")
-[Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink")
+[Category:2016年电子游戏](https://zh.wikipedia.org/wiki/Category:2016年电子游戏 "wikilink") [Category:恐怖遊戲](https://zh.wikipedia.org/wiki/Category:恐怖遊戲 "wikilink") [Category:獨立遊戲](https://zh.wikipedia.org/wiki/Category:獨立遊戲 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:免費遊戲](https://zh.wikipedia.org/wiki/Category:免費遊戲 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:丧尸游戏](https://zh.wikipedia.org/wiki/Category:丧尸游戏 "wikilink") [Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink")
 
 1.  [《Kio的人間冒險》：國產恐怖遊戲也可以這樣好玩](https://kknews.cc/zh-tw/game/5r924k.html).每日头条.2016-09-19.
 2.  [Kio的人间冒险](http://indienova.com/g/kio-s-adventure) .Indienova.
-3.  [試玩 | 成人向18禁RPG -
-    KIO的人間冒險：各種死法收集](https://www.youtube.com/watch?v=psmivd76Imo).Youtube.2016-09-23.
-4.  [别错过，机核众人第一次被做到了游戏里面](http://www.g-cores.com/articles/20575)
-    .机核网.2016-09-09.\[2016-11-06\].
+3.  [試玩 | 成人向18禁RPG - KIO的人間冒險：各種死法收集](https://www.youtube.com/watch?v=psmivd76Imo).Youtube.2016-09-23.
+4.  [别错过，机核众人第一次被做到了游戏里面](http://www.g-cores.com/articles/20575) .机核网.2016-09-09.\[2016-11-06\].
 5.  <https://read01.com/5En5P4.html>
 6.  [@史悲](http://www.weibo.com/1722123442/EqkvcxrHD).新浪微博.2017-01-11.\[2017-02-05\].

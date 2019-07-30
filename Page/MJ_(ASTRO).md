@@ -1,11 +1,8 @@
-**MJ**（；）；本名**金明俊**（）；是一名韓國男[歌手及](../Page/歌手.md "wikilink")[演員](../Page/演員.md "wikilink")。2016年以韓國男子團體[ASTRO成員正式出道](https://zh.wikipedia.org/wiki/ASTRO "wikilink")，隊內擔任主唱。
+**MJ**（；）；本名**金明俊**（）；是一名韓國男[歌手](../Page/歌手.md "wikilink")及[演員](../Page/演員.md "wikilink")。2016年以韓國男子團體[ASTRO成員正式出道](https://zh.wikipedia.org/wiki/ASTRO "wikilink")，隊內擔任主唱。
 
-2015年8月18日，ASTRO與師姐[金賽綸合作主演的MBC網絡劇](../Page/金賽綸.md "wikilink")《To Be
-Continued》中首次亮相做為出道的開端。
+2015年8月18日，ASTRO與師姐[金賽綸](../Page/金賽綸.md "wikilink")合作主演的MBC網絡劇《To Be Continued》中首次亮相做為出道的開端。
 
-2016年2月23日，隨組合發行首張迷你專輯《Spring
-Up》，正式宣告出道，並舉行[ASTRO首場Showcase](https://zh.wikipedia.org/wiki/ASTRO "wikilink")。8月27日，隨組合舉行首場迷你演唱會“MINI
-LIVE – Thankx AROHA”；11月10日，隨組合發行第三張迷你專輯《Autumn Story》並開始以主打曲《告白》回歸。
+2016年2月23日，隨組合發行首張迷你專輯《Spring Up》，正式宣告出道，並舉行[ASTRO首場Showcase](https://zh.wikipedia.org/wiki/ASTRO "wikilink")。8月27日，隨組合舉行首場迷你演唱會“MINI LIVE – Thankx AROHA”；11月10日，隨組合發行第三張迷你專輯《Autumn Story》並開始以主打曲《告白》回歸。
 
 ## 音樂作品
 
@@ -194,11 +191,4 @@ LIVE – Thankx AROHA”；11月10日，隨組合發行第三張迷你專輯《A
   - [fantagiomusic官方Twitter](https://twitter.com/fantagiomusic)
   - [fantagiomusic官方Youtube](https://www.youtube.com/channel/UC3Ea2-Ut3navgOlTfoq790g)
 
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:京畿道出身人物](https://zh.wikipedia.org/wiki/Category:京畿道出身人物 "wikilink")
-[Category:水原市出身人物](https://zh.wikipedia.org/wiki/Category:水原市出身人物 "wikilink")
-[Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
+[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:京畿道出身人物](https://zh.wikipedia.org/wiki/Category:京畿道出身人物 "wikilink") [Category:水原市出身人物](https://zh.wikipedia.org/wiki/Category:水原市出身人物 "wikilink") [Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")

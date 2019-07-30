@@ -1,15 +1,10 @@
-《**Candy
-Pop**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[TWICE的第二張日語單曲](https://zh.wikipedia.org/wiki/TWICE "wikilink")，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，[日本華納音樂發行](../Page/日本華納音樂.md "wikilink")，於2018年2月7日推出，主打歌為〈Candy
-Pop〉。
+《**Candy Pop**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[TWICE的第二張日語單曲](https://zh.wikipedia.org/wiki/TWICE "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，[日本華納音樂](../Page/日本華納音樂.md "wikilink")發行，於2018年2月7日推出，主打歌為〈Candy Pop〉。
 
 ## 背景
 
 MV背後的原意，依然是打破偶像不能親近的印象，也再次鞏固ONCE（TWICE粉絲名稱）和TWICE互相關懷，密不可分的關系，更強調JYP對旗下藝人的真善美個性比才華更重要的宗旨。
 
-一個小女孩在[白色情人節的下課時間](../Page/白色情人節.md "wikilink")（5點0分45秒）還沒有收到巧克力而不開心，所以看TWICE在Candy
-Pop的卡通，但在Candy Country的TWICE成員因為燈光故障而拍攝不順利，也想跳進現實世界陪她，卻被Candy
-Country的警察制止。[JYP監制不但把燈光修復](../Page/朴軫永.md "wikilink")，讓TWICE成員化成人類，也幫助她們跳進現實世界。JYP雖然幫助了TWICE,
-但後來被警察逮捕。\[1\]\[2\]
+一個小女孩在[白色情人節](../Page/白色情人節.md "wikilink")的下課時間（5點0分45秒）還沒有收到巧克力而不開心，所以看TWICE在Candy Pop的卡通，但在Candy Country的TWICE成員因為燈光故障而拍攝不順利，也想跳進現實世界陪她，卻被Candy Country的警察制止。[JYP監制不但把燈光修復](../Page/朴軫永.md "wikilink")，讓TWICE成員化成人類，也幫助她們跳進現實世界。JYP雖然幫助了TWICE, 但後來被警察逮捕。\[1\]\[2\]
 
 ## 概要
 
@@ -29,7 +24,7 @@ Country的警察制止。[JYP監制不但把燈光修復](../Page/朴軫永.md "
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量     | 總銷量                                                 | 停留時間 | 參考資料 |-| | 單曲日榜 | \#1 | 117,486 | 341,170+ | 23週 |  |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量     | 總銷量                                                 | 停留時間 | 參考資料 |-| | 單曲日榜 | \#1 | 117,486 | 341,170+ | 23週 |  |
 | ---------------------------------------- | ---- | ------- | --------------------------------------------------- | ---- | -------- | :--- | --- | ------- | -------- | --- |  |
 | 單曲週榜                                     | \#1  | 265,758 | [1](https://www.oricon.co.jp/rank/js/w/2018-02-19/) |      |          |      |     |         |          |     |  |
 | 單曲月榜                                     | \#2  | 324,035 | [2](https://www.oricon.co.jp/rank/js/m/2018-02/)    |      |          |      |     |         |          |     |  |
@@ -49,9 +44,7 @@ Country的警察制止。[JYP監制不但把燈光修復](../Page/朴軫永.md "
 
 ## 外部連結
 
-[Category:2018年單曲](https://zh.wikipedia.org/wiki/Category:2018年單曲 "wikilink")
-[Category:TWICE單曲](https://zh.wikipedia.org/wiki/Category:TWICE單曲 "wikilink")
-[Category:2018年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:2018年單曲](https://zh.wikipedia.org/wiki/Category:2018年單曲 "wikilink") [Category:TWICE單曲](https://zh.wikipedia.org/wiki/Category:TWICE單曲 "wikilink") [Category:2018年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Oricon單曲週榜冠軍作品 "wikilink")
 
 1.
 2.

@@ -1,9 +1,8 @@
-**S\&P娱乐**，（）是[韩国的一家](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[艺人](../Page/艺人.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，是由[金素慧創立的一人經紀公司](../Page/金素慧.md "wikilink")\[1\]\[2\]\[3\]\[4\]。
+**S\&P娱乐**，（）是[韩国的一家](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[艺人](../Page/艺人.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，是由[金素慧](../Page/金素慧.md "wikilink")創立的一人經紀公司\[1\]\[2\]\[3\]\[4\]。
 
 ## 命名原因 \[5\]\[6\]
 
-  - 金素慧參加[韓國綜藝節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")《[PRODUCE
-    101](../Page/PRODUCE_101.md "wikilink")》時：
+  - 金素慧參加[韓國綜藝節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》時：
 
 <!-- end list -->
 
@@ -14,7 +13,7 @@
 
 ## 現有藝人
 
-  - [金素慧](../Page/金素慧.md "wikilink")\[7\]：[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")、[演員](../Page/演員.md "wikilink")；前[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂團體](https://zh.wikipedia.org/wiki/女子音樂團體 "wikilink")[I.O.I的成員](../Page/I.O.I.md "wikilink")。
+  - [金素慧](../Page/金素慧.md "wikilink")\[7\]：[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")、[演員](../Page/演員.md "wikilink")；前[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂團體](https://zh.wikipedia.org/wiki/女子音樂團體 "wikilink")[I.O.I](../Page/I.O.I.md "wikilink")的成員。
 
 ## 參考資料
 

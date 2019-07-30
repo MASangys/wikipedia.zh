@@ -1,4 +1,4 @@
-**RTA**（）是[中國前](../Page/中國.md "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，組合由10名成員組成，隸屬於北京悅音堂文化有限公司和GRIOT株式会社。根據組合成員的年紀，組合又分為少年組和青年組。\[1\]
+**RTA**（）是[中國](../Page/中國.md "wikilink")前[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，組合由10名成員組成，隸屬於北京悅音堂文化有限公司和GRIOT株式会社。根據組合成員的年紀，組合又分為少年組和青年組。\[1\]
 
 ## 組合簡介
 
@@ -127,10 +127,7 @@
 
   - [前田紘利](http://weibo.com/u/1919354817)的新浪微博
 
-[Category:中国男子演唱团体](https://zh.wikipedia.org/wiki/Category:中国男子演唱团体 "wikilink")
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
-[Category:2013年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年解散的音樂團體 "wikilink")
+[Category:中国男子演唱团体](https://zh.wikipedia.org/wiki/Category:中国男子演唱团体 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink") [Category:2013年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年解散的音樂團體 "wikilink")
 
 1.
 2.

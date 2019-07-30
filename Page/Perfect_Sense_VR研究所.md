@@ -1,5 +1,4 @@
-《**Perfect Sense
-VR研究所**》（；）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OGN電視台播出的](https://zh.wikipedia.org/wiki/OGN "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[張東民](../Page/張東民.md "wikilink")、[申雅瑩等人共同主持](../Page/申雅英.md "wikilink")\[1\]，節目主軸以邀請來賓體驗VR為主軸\[2\]\[3\]。
+《**Perfect Sense VR研究所**》（；）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OGN電視台播出的](https://zh.wikipedia.org/wiki/OGN "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[張東民](../Page/張東民.md "wikilink")、[申雅瑩等人共同主持](../Page/申雅英.md "wikilink")\[1\]，節目主軸以邀請來賓體驗VR為主軸\[2\]\[3\]。
 
 ## 各集內容
 
@@ -68,8 +67,7 @@ VR研究所**》（；）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikil
 
 ## 收視率
 
-以下紀錄《**Perfect Sense
-VR研究所**》節目之全國收視，<span style=color:red>**紅色**</span>表示為該季度最高收視率，<span style=color:blue>**藍色**</span>則表示為該季度最低收視率。
+以下紀錄《**Perfect Sense VR研究所**》節目之全國收視，<span style=color:red>**紅色**</span>表示為該季度最高收視率，<span style=color:blue>**藍色**</span>則表示為該季度最低收視率。
 
 <table>
 <thead>
@@ -168,12 +166,9 @@ VR研究所**》節目之全國收視，<span style=color:red>**紅色**</span>�
 
   - \- 官方網站
 
-  - [Perfect Sense VR研究所的Naver
-    TV](http://tv.naver.com/cjenm.perfectsensevr)
+  - [Perfect Sense VR研究所的Naver TV](http://tv.naver.com/cjenm.perfectsensevr)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:正在播放的電視節目](https://zh.wikipedia.org/wiki/Category:正在播放的電視節目 "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:正在播放的電視節目](https://zh.wikipedia.org/wiki/Category:正在播放的電視節目 "wikilink")
 
 1.
 2.

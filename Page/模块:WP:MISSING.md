@@ -1,7 +1,6 @@
 local p = {}
 
-function p.titleToJson(title) -- Load mediawiki page and decodes it as
-json
+function p.titleToJson(title) -- Load mediawiki page and decodes it as json
 
 `   local t = mw.title.new(title) `
 `   if not t.exists then `

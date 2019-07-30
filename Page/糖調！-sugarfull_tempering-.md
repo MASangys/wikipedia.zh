@@ -35,20 +35,15 @@
 
 ## 評價
 
-糖調！-sugarfull
-tempering-在Getchu.com舉辦的美少女遊戲大賞2017中，聖代橋冰織獲得角色部門第18名\[5\]。於2017年「[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")」獲得新品牌賞\[6\]，並於年間排名獲得第8名\[7\]。
+糖調！-sugarfull tempering-在Getchu.com舉辦的美少女遊戲大賞2017中，聖代橋冰織獲得角色部門第18名\[5\]。於2017年「[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")」獲得新品牌賞\[6\]，並於年間排名獲得第8名\[7\]。
 
 ## 參考來源
 
 ## 外部連結
 
-  - [糖調！-sugarfull
-    tempering-遊戲官網](http://recette.clearrave.co.jp/index.html)
+  - [糖調！-sugarfull tempering-遊戲官網](http://recette.clearrave.co.jp/index.html)
 
-[Category:2017年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2017年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
+[Category:2017年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2017年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
 
 1.
 

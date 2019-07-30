@@ -1,5 +1,4 @@
-此頁面主要列舉韓國男子團體[NU'EST及其子組合](../Page/NU'EST.md "wikilink")[NU'EST-M和](https://zh.wikipedia.org/wiki/NU'EST-M "wikilink")[NU'EST
-W歷年舉辦的](../Page/NU'EST.md "wikilink")[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")、見面會及其他參與的大型公演等。迄今，組合演出地點遍佈世界各地不同的國家，包括[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[加拿大等](../Page/加拿大.md "wikilink")。
+此頁面主要列舉韓國男子團體[NU'EST](../Page/NU'EST.md "wikilink")及其子組合[NU'EST-M和](https://zh.wikipedia.org/wiki/NU'EST-M "wikilink")[NU'EST W歷年舉辦的](../Page/NU'EST.md "wikilink")[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")、見面會及其他參與的大型公演等。迄今，組合演出地點遍佈世界各地不同的國家，包括[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")等。
 
 ## 2012年
 
@@ -23,8 +22,7 @@ W歷年舉辦的](../Page/NU'EST.md "wikilink")[演唱會](https://zh.wikipedia.
 | **日期**     | **演唱會站次** | **舉行地點**  |
 | 2013年2月13日 | 韓國        | 首爾麻浦區藝術中心 |
 
-  - **NU'EST 出道一週年 Live ～Show Time～ (NU'EST Debut 1st Anniversary Live
-    ～Show Time ～)**
+  - **NU'EST 出道一週年 Live ～Show Time～ (NU'EST Debut 1st Anniversary Live ～Show Time ～)**
 
 |            |           |                    |
 | ---------- | --------- | ------------------ |
@@ -99,16 +97,14 @@ W歷年舉辦的](../Page/NU'EST.md "wikilink")[演唱會](https://zh.wikipedia.
 
 \== 2015年 ==
 
-  - **NU'EST Re:BIRTH 泰國粉絲見面會 (NU'EST RE:BIRTH FAN MEETING IN
-    THAILAND)**\[8\]
+  - **NU'EST Re:BIRTH 泰國粉絲見面會 (NU'EST RE:BIRTH FAN MEETING IN THAILAND)**\[8\]
 
 |            |           |                     |
 | ---------- | --------- | ------------------- |
 | **日期**     | **演唱會站次** | **舉行地點**            |
 | 2015年1月31日 | 泰國        | 曼谷 Dusit Thani Hall |
 
-  - **NU'EST The 3rd Anniversary Fan Meeting-The First L.O.Λ.E
-    Story**\[9\]
+  - **NU'EST The 3rd Anniversary Fan Meeting-The First L.O.Λ.E Story**\[9\]
 
 |            |           |                |
 | ---------- | --------- | -------------- |
@@ -144,8 +140,7 @@ W歷年舉辦的](../Page/NU'EST.md "wikilink")[演唱會](https://zh.wikipedia.
 | **日期**     | **演唱會站次** | **舉行地點**          |
 | 2015年7月20日 | 香港        | 香港九龍灣國際展貿中心\[10\] |
 
-  - **NU'EST「SUMMER VACATION」韓國粉絲見面會 (NU'EST FAN MEETING 'SUMMER
-    VACATION' in Korea)**
+  - **NU'EST「SUMMER VACATION」韓國粉絲見面會 (NU'EST FAN MEETING 'SUMMER VACATION' in Korea)**
 
 |           |           |                   |
 | --------- | --------- | ----------------- |
@@ -684,24 +679,24 @@ MC：JR、Ren[15]</p></td>
 
 ### 2019年
 
-|        |                                |                                                            |          |
-| ------ | ------------------------------ | ---------------------------------------------------------- | -------- |
-| **日期** | **公演名稱**                       | **舉行地點**                                                   | **附註**   |
-| 2019   |                                |                                                            |          |
-| 1月6日   | JTBC Golden Disk Awards 專輯部門大賞 | 韓國首爾九老區高尺天空巨蛋                                              | NU'EST W |
-| 1月15日  | 第28屆 首爾歌謠大賞                    | 韓國首爾九老區高尺天空巨蛋                                              |          |
-| 1月19日  | MUSIC BANK in HONGKONG         | 香港新界離島區[亞洲國際博覽館Arena](../Page/亞洲國際博覽館.md "wikilink")（1號展館） |          |
-| 2月13日  | SURPRISE BUSKING               | 泰國曼谷Asiatique河濱碼頭                                          | Ren      |
-| 5月18日  | KCON 2019 JAPAN                | 日本千葉縣幕張展覽館國際展示場                                            |          |
-| 5月25日  | HallyuPopFest 2019             | 新加坡室內體育館                                                   |          |
-| 6月28日  | V HEARTBEAT                    | 越南胡志明市華平劇院                                                 |          |
-| 7月6日   | KCON 2019 NY                   | 美國紐約麥迪遜廣場花園與賈維茨會議中心                                        |          |
-| 8月17日  | KCON 2019 LA                   | 美國洛杉磯會議中心史坦波中心                                             |          |
+|        |                                  |                                                            |          |
+| ------ | -------------------------------- | ---------------------------------------------------------- | -------- |
+| **日期** | **公演名稱**                         | **舉行地點**                                                   | **附註**   |
+| 2019   |                                  |                                                            |          |
+| 1月6日   | JTBC Golden Disk Awards 專輯部門大賞   | 韓國首爾九老區高尺天空巨蛋                                              | NU'EST W |
+| 1月15日  | 第28屆 首爾歌謠大賞                      | 韓國首爾九老區高尺天空巨蛋                                              |          |
+| 1月19日  | MUSIC BANK in HONGKONG           | 香港新界離島區[亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink")Arena（1號展館） |          |
+| 2月13日  | SURPRISE BUSKING                 | 泰國曼谷Asiatique河濱碼頭                                          | Ren      |
+| 5月18日  | KCON 2019 JAPAN                  | 日本千葉縣幕張展覽館國際展示場                                            |          |
+| 5月25日  | HallyuPopFest 2019               | 新加坡室內體育館                                                   |          |
+| 6月28日  | V HEARTBEAT                      | 越南胡志明市華平劇院                                                 |          |
+| 7月6日   | KCON 2019 NY                     | 美國紐約麥迪遜廣場花園與賈維茨會議中心                                        |          |
+| 7月18日  | HAPPY BAEKHODAY BAEKHO TALK LIVE | 韓國首爾松坡區奧林匹克公園                                              | 白虎       |
+| 8月17日  | KCON 2019 LA                     | 美國洛杉磯會議中心史坦波中心                                             |          |
 
 ## 參考資料
 
-[Category:NU'EST](https://zh.wikipedia.org/wiki/Category:NU'EST "wikilink")
-[Category:巡迴演唱會列表](https://zh.wikipedia.org/wiki/Category:巡迴演唱會列表 "wikilink")
+[Category:NU'EST](https://zh.wikipedia.org/wiki/Category:NU'EST "wikilink") [Category:巡迴演唱會列表](https://zh.wikipedia.org/wiki/Category:巡迴演唱會列表 "wikilink")
 
 1.  [NU'EST 前往海外見粉絲！](http://kpopn.niusnews.com/=K0glkgg6)
 

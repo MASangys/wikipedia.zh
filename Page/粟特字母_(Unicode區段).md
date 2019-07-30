@@ -1,5 +1,4 @@
-**粟特字母**（Sogdian）是一個位於[Unicode字符平面映射\#第一輔助平面\#第一輔助平面的](https://zh.wikipedia.org/wiki/Unicode字符平面映射#第一輔助平面#第一輔助平面 "wikilink")[Unicode區段](../Page/Unicode區段.md "wikilink")，收錄了西元7至14世紀用於書寫[粟特語的文字](https://zh.wikipedia.org/wiki/粟特語 "wikilink")－粟特字母。\[1\]
- 
+**粟特字母**（Sogdian）是一個位於[Unicode字符平面映射\#第一輔助平面\#第一輔助平面的](https://zh.wikipedia.org/wiki/Unicode字符平面映射#第一輔助平面#第一輔助平面 "wikilink")[Unicode區段](../Page/Unicode區段.md "wikilink")，收錄了西元7至14世紀用於書寫[粟特語的文字](https://zh.wikipedia.org/wiki/粟特語 "wikilink")－粟特字母。\[1\]  
 
 ## 區段
 

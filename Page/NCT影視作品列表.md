@@ -1,4 +1,4 @@
-**NCT影視作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子组合](https://zh.wikipedia.org/wiki/男子组合 "wikilink")[NCT成员歷年參與的影視作品](../Page/NCT.md "wikilink")，例如電視劇、電影、綜藝節目、音樂錄影帶等。
+**NCT影視作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子组合](https://zh.wikipedia.org/wiki/男子组合 "wikilink")[NCT](../Page/NCT.md "wikilink")成员歷年參與的影視作品，例如電視劇、電影、綜藝節目、音樂錄影帶等。
 
 ## 專屬節目
 
@@ -199,7 +199,7 @@
 | 年份    | 播出平台                                           | 剧集名稱                                                                | 參與成員    | 角色  | 性质 | 集数   |
 | ----- | ---------------------------------------------- | ------------------------------------------------------------------- | ------- | --- | -- | ---- |
 | 2018年 | [NAVER TV V LIVE](../Page/NAVER.md "wikilink") | 《[A-TEEN](https://zh.wikipedia.org/wiki/A-TEEN_\(电视剧\) "wikilink")》 | 渽民、Jeno | 学生  | 客串 | 第20集 |
-| 2019年 | [JTBC4](../Page/JTBC.md "wikilink")            | 《[討厭你的方法](https://zh.wikipedia.org/wiki/討厭你的方法 "wikilink")》         | 渽民      | 韓大姜 | 主演 | 全集   |
+| 2019年 | [JTBC](../Page/JTBC.md "wikilink")4            | 《[討厭你的方法](https://zh.wikipedia.org/wiki/討厭你的方法 "wikilink")》         | 渽民      | 韓大姜 | 主演 | 全集   |
 
 ## 綜藝節目
 
@@ -359,17 +359,24 @@
 <td><p>小師弟</p></td>
 </tr>
 <tr class="even">
-<td><p>2019年4月26日－至今</p></td>
+<td><p>2019年4月26日－7月12日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/浙江衛視" title="wikilink">浙江衛視</a></p></td>
 <td><p>《<a href="../Page/奔跑吧.md" title="wikilink">奔跑吧</a>》</p></td>
 <td><p>Lucas</p></td>
 <td><p>第7季</p></td>
 </tr>
 <tr class="odd">
-<td><p>2019年5月4日－至今</p></td>
+<td><p>2019年5月4日－6月8日</p></td>
 <td><p><a href="../Page/Channel_A.md" title="wikilink">Channel A</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/一起玩嗎？_GG" title="wikilink">一起玩嗎？ GG</a>》</p></td>
 <td><p>渽民</p></td>
+<td><p>第1-6期</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -485,10 +492,25 @@
 <td><p>6月23日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p>6月23日、7月7日</p></td>
 </tr>
 <tr class="even">
 <td><p>7月12日</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月13日</p></td>
+</tr>
+<tr class="even">
+<td><p>7月22日</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月23日</p></td>
+</tr>
+<tr class="even">
+<td><p>7月24日</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月31日</p></td>
 </tr>
 </tbody>
 </table>
@@ -527,7 +549,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a>》</p></td>
 <td><p>Mark</p></td>
-<td><p>固定MC，與<a href="https://zh.wikipedia.org/wiki/邕聖祐" title="wikilink">邕聖祐</a>、<a href="../Page/美娜.md" title="wikilink">美娜主持</a>[5]</p></td>
+<td><p>固定MC，與<a href="https://zh.wikipedia.org/wiki/邕聖祐" title="wikilink">邕聖祐</a>、<a href="../Page/美娜.md" title="wikilink">美娜</a>主持[5]</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年5月22日－至今</p></td>
@@ -564,7 +586,7 @@
 
 | 日期                | 播出平台                                              | 節目名稱                                     | 參與成員      | 備註                                     |
 | ----------------- | ------------------------------------------------- | ---------------------------------------- | --------- | -------------------------------------- |
-| 2016年9月19日－12月11日 | [優酷](https://zh.wikipedia.org/wiki/優酷 "wikilink") | 《[My SMT](../Page/My_SMT.md "wikilink")》 | 道英、Johnny | 固定MC，與[利特主持](../Page/利特.md "wikilink") |
+| 2016年9月19日－12月11日 | [優酷](https://zh.wikipedia.org/wiki/優酷 "wikilink") | 《[My SMT](../Page/My_SMT.md "wikilink")》 | 道英、Johnny | 固定MC，與[利特](../Page/利特.md "wikilink")主持 |
 | 2019年7月16日－8月21日  | PPTV                                              | 《Food Truck Battle》                      | Ten       |                                        |
 |                   |                                                   |                                          |           |                                        |
 

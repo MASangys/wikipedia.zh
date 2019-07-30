@@ -1,11 +1,8 @@
-**SHY48 Team SIII Waiting
-Stage「天才少女日記」公演**是[SHY48的劇場公演](../Page/SHY48.md "wikilink")。此套公演同時為SHY48
-Team SIII的第二套公演，也是將姊妹團體原有曲庫組合而成的復刻公演\[1\]\[2\]。
+**SHY48 Team SIII Waiting Stage「天才少女日記」公演**是[SHY48](../Page/SHY48.md "wikilink")的劇場公演。此套公演同時為SHY48 Team SIII的第二套公演，也是將姊妹團體原有曲庫組合而成的復刻公演\[1\]\[2\]。
 
 ## 概要
 
-《天才少女日記》接續出道公演《[心的旅程](https://zh.wikipedia.org/wiki/心的旅程#SHY48_Team_SIII_1st_Stage「心的旅程」公演 "wikilink")》\[3\]，將姊妹團體SNH48的眾多經典曲目重新演繹\[4\]。本套公演以少女日記的方式開篇，記錄了少女偶像的青春成長軌跡，展示年初剛出道的SHY48
-Team SIII成長過程，也象徵邁向新旅途的節點\[5\]。
+《天才少女日記》接續出道公演《[心的旅程](https://zh.wikipedia.org/wiki/心的旅程#SHY48_Team_SIII_1st_Stage「心的旅程」公演 "wikilink")》\[3\]，將姊妹團體SNH48的眾多經典曲目重新演繹\[4\]。本套公演以少女日記的方式開篇，記錄了少女偶像的青春成長軌跡，展示年初剛出道的SHY48 Team SIII成長過程，也象徵邁向新旅途的節點\[5\]。
 
 ## 公演曲目
 

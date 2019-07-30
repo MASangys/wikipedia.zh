@@ -1,4 +1,4 @@
-《**Mint**》為[日本歌手](../Page/日本.md "wikilink")[安室奈美惠於](../Page/安室奈美惠.md "wikilink")2016年5月18日發行的第44張單曲\[1\]。
+《**Mint**》為[日本](../Page/日本.md "wikilink")歌手[安室奈美惠](../Page/安室奈美惠.md "wikilink")於2016年5月18日發行的第44張單曲\[1\]。
 
 ## 簡介
 
@@ -29,8 +29,6 @@
 
 ## 外部連結
 
-[Category:安室奈美惠歌曲](https://zh.wikipedia.org/wiki/Category:安室奈美惠歌曲 "wikilink")
-[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink")
-[Category:富士火十劇主題曲](https://zh.wikipedia.org/wiki/Category:富士火十劇主題曲 "wikilink")
+[Category:安室奈美惠歌曲](https://zh.wikipedia.org/wiki/Category:安室奈美惠歌曲 "wikilink") [Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink") [Category:富士火十劇主題曲](https://zh.wikipedia.org/wiki/Category:富士火十劇主題曲 "wikilink")
 
 1.

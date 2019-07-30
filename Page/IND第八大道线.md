@@ -1,6 +1,6 @@
 **第八大道線**（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市一條](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的路線之一。1932年通車，是[獨立地鐵系統](../Page/獨立地鐵系統.md "wikilink")（IND）第一條路線，紐約人也因此將整個IND系統稱為「第八大道地鐵」\[1\]\[2\]\[3\]。大部分路段都設有四條軌道，兩個方向各一條慢車和快車軌道，最北端和最南端除外，該兩處只有兩條快車軌道。此線在定為「A線」，由西至東依次為A1、A3、A4及A2軌道\[4\]，由南端大約800開始\[5\]到北端的1540為止（以英呎計算）\[6\]\[7\]。
 
-此線由[英伍德的](https://zh.wikipedia.org/wiki/英伍德_\(曼哈頓\) "wikilink")[207街至](https://zh.wikipedia.org/wiki/英伍德-207街車站_\(IND第八大道線\) "wikilink")[布魯克林高地的](https://zh.wikipedia.org/wiki/布魯克林高地 "wikilink")[高街以南一個](https://zh.wikipedia.org/wiki/高街車站_\(IND第八大道線\) "wikilink")[聯鎖](https://zh.wikipedia.org/wiki/聯鎖 "wikilink")，包括、以及[第八大道](https://zh.wikipedia.org/wiki/第八大道_\(曼哈頓\) "wikilink")。全線位於地下，但近北端分岔出來的[207街車廠是位於地面的](https://zh.wikipedia.org/wiki/紐約地鐵車廠#207街車廠 "wikilink")。此線與[IND匯集線](../Page/IND匯集線.md "wikilink")、[IND第六大道線及](../Page/IND第六大道線.md "wikilink")[IND皇后林蔭路線有](../Page/IND皇后林蔭路線.md "wikilink")[立體交匯](../Page/立體交匯.md "wikilink")。在[59街-哥倫布圓環與](../Page/59街-哥倫布圓環車站.md "wikilink")[145街之間](https://zh.wikipedia.org/wiki/145街車站_\(IND第八大道線\) "wikilink")，路線可稱作「中央公園西線」。
+此線由[英伍德的](https://zh.wikipedia.org/wiki/英伍德_\(曼哈頓\) "wikilink")[207街至](https://zh.wikipedia.org/wiki/英伍德-207街車站_\(IND第八大道線\) "wikilink")[布魯克林高地的](https://zh.wikipedia.org/wiki/布魯克林高地 "wikilink")[高街以南一個](https://zh.wikipedia.org/wiki/高街車站_\(IND第八大道線\) "wikilink")[聯鎖](https://zh.wikipedia.org/wiki/聯鎖 "wikilink")，包括、以及[第八大道](https://zh.wikipedia.org/wiki/第八大道_\(曼哈頓\) "wikilink")。全線位於地下，但近北端分岔出來的[207街車廠是位於地面的](https://zh.wikipedia.org/wiki/紐約地鐵車廠#207街車廠 "wikilink")。此線與[IND匯集線](../Page/IND匯集線.md "wikilink")、[IND第六大道線](../Page/IND第六大道線.md "wikilink")及[IND皇后林蔭路線](../Page/IND皇后林蔭路線.md "wikilink")有[立體交匯](../Page/立體交匯.md "wikilink")。在[59街-哥倫布圓環與](../Page/59街-哥倫布圓環車站.md "wikilink")[145街之間](https://zh.wikipedia.org/wiki/145街車站_\(IND第八大道線\) "wikilink")，路線可稱作「中央公園西線」。
 
 全線除深夜外都有[A線列車營運](../Page/紐約地鐵A線.md "wikilink")。[C線在](../Page/紐約地鐵C線.md "wikilink")[168街以南以慢車營運](https://zh.wikipedia.org/wiki/168街車站_\(IND第八大道線\) "wikilink")，而A線則以快車營運。另外[B線在平日以慢車營運](../Page/紐約地鐵B線.md "wikilink")，而[D線則所有時段在匯集線](../Page/紐約地鐵D線.md "wikilink")（[145街](https://zh.wikipedia.org/wiki/145街車站_\(IND第八大道線\) "wikilink")）及第六大道線（[59街-哥倫布圓環](../Page/59街-哥倫布圓環車站.md "wikilink")）之間以快車營運，而[E線則自皇后林蔭路線在](../Page/紐約地鐵E線.md "wikilink")[50街的交匯處以南到](https://zh.wikipedia.org/wiki/50街車站_\(IND第八大道線\) "wikilink")[世界貿易中心之間以慢車營運](https://zh.wikipedia.org/wiki/世界貿易中心車站_\(IND第八大道線\) "wikilink")。A、C與E線利用第八大道線通過[曼哈頓中城](../Page/曼哈頓中城.md "wikilink")，故以藍色顯示；B與D線利用第六大道線通過，則以橙色顯示\[8\]。
 
@@ -198,7 +198,7 @@
 <td><p><a href="../Page/IND匯集線.md" title="wikilink">IND匯集線</a>（）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/IND匯集線.md" title="wikilink">IND匯集線匯入</a>（）</p></td>
+<td><p><a href="../Page/IND匯集線.md" title="wikilink">IND匯集線</a>匯入（）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -308,7 +308,7 @@
 <td><p><a href="../Page/IRT百老匯-第七大道線.md" title="wikilink">IRT百老匯-第七大道線</a>（）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/IND第六大道線.md" title="wikilink">IND第六大道線分岔</a>（）</p></td>
+<td><p><a href="../Page/IND第六大道線.md" title="wikilink">IND第六大道線</a>分岔（）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -329,7 +329,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/IND皇后林蔭路線.md" title="wikilink">IND皇后林蔭路線匯入</a>（）</p></td>
+<td><p><a href="../Page/IND皇后林蔭路線.md" title="wikilink">IND皇后林蔭路線</a>匯入（）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -360,7 +360,7 @@
 <td><p>全部</p></td>
 <td></td>
 <td><p>1932年9月10日[31]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/賓夕法尼亞車站_(紐約市)" title="wikilink">賓州車站</a>：<a href="../Page/美鐵.md" title="wikilink">美鐵</a>、<a href="../Page/長島鐵路.md" title="wikilink">長島鐵路及</a><a href="https://zh.wikipedia.org/wiki/新澤西通勤鐵路" title="wikilink">新澤西交通</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/賓夕法尼亞車站_(紐約市)" title="wikilink">賓州車站</a>：<a href="../Page/美鐵.md" title="wikilink">美鐵</a>、<a href="../Page/長島鐵路.md" title="wikilink">長島鐵路</a>及<a href="https://zh.wikipedia.org/wiki/新澤西通勤鐵路" title="wikilink">新澤西交通</a><br />
 </p></td>
 <td></td>
 </tr>
@@ -516,14 +516,11 @@
 
 ## 參考資料
 
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1932年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1932年啟用的鐵路線 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1932年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1932年啟用的鐵路線 "wikilink")
 
-1.  : "the property is near the Woodhaven Boulevard station of the
-    Eighth Avenue subway"
+1.  : "the property is near the Woodhaven Boulevard station of the Eighth Avenue subway"
 
-2.  : "the Jamaica inspection barn of the Eighth Avenue Subway System,
-    in Kew Gardens, Queens"
+2.  : "the Jamaica inspection barn of the Eighth Avenue Subway System, in Kew Gardens, Queens"
 
 3.
 

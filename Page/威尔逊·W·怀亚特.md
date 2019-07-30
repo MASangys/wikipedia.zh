@@ -6,17 +6,17 @@
 
 1941年，怀亚特当选路易斯维尔市长，开始了政治生涯\[1\]。刚刚就任不久，美国即因[珍珠港事件](../Page/珍珠港事件.md "wikilink")，卷入了[第二次世界大战](../Page/第二次世界大战.md "wikilink")。怀亚特随后将国防的优先级提高，并发起了路易斯维尔的规划和分区委员会。
 
-在[芝加哥举行的](../Page/芝加哥.md "wikilink")上，怀亚特呼吁安抚[美国参议员](https://zh.wikipedia.org/wiki/美国参议员 "wikilink")[阿尔本·W·巴克利的情绪](../Page/阿尔本·W·巴克利.md "wikilink")，因为他此前被安排为美国总统[富兰克林·D·罗斯福举行演讲](https://zh.wikipedia.org/wiki/富兰克林·D·罗斯福 "wikilink")。巴克利起初表示，既然罗斯福总统为取悦[哈利·杜鲁门](https://zh.wikipedia.org/wiki/哈利·杜鲁门 "wikilink")，已经拒绝推荐他担任美国副总统，那他就不必再为罗斯福进行演讲了。怀亚特来到巴克利的酒店房间，告诉他虽然已无现实其他选择，但仍应如期进行演讲，否则他会被视为一位被宠坏的失败者。罗斯福的前邮政大臣，也是巴克利的故交，同意怀亚特的建议，并坚持巴克利的演讲会给罗斯福的执政有很大助力\[2\]。
+在[芝加哥](../Page/芝加哥.md "wikilink")举行的上，怀亚特呼吁安抚[美国参议员](https://zh.wikipedia.org/wiki/美国参议员 "wikilink")[阿尔本·W·巴克利](../Page/阿尔本·W·巴克利.md "wikilink")的情绪，因为他此前被安排为美国总统[富兰克林·D·罗斯福举行演讲](https://zh.wikipedia.org/wiki/富兰克林·D·罗斯福 "wikilink")。巴克利起初表示，既然罗斯福总统为取悦[哈利·杜鲁门](https://zh.wikipedia.org/wiki/哈利·杜鲁门 "wikilink")，已经拒绝推荐他担任美国副总统，那他就不必再为罗斯福进行演讲了。怀亚特来到巴克利的酒店房间，告诉他虽然已无现实其他选择，但仍应如期进行演讲，否则他会被视为一位被宠坏的失败者。罗斯福的前邮政大臣，也是巴克利的故交，同意怀亚特的建议，并坚持巴克利的演讲会给罗斯福的执政有很大助力\[2\]。
 
 ## 政治生涯
 
 在怀亚特的路易斯维尔市长任期结束后，杜鲁门总统（在1948年邀请巴克利担任他的副总统选择），任命怀亚特担任内阁级的的住房稽查员\[3\]。
 
-在[埃莉诺·罗斯福](../Page/埃莉诺·罗斯福.md "wikilink")、[小阿瑟·施莱辛格](https://zh.wikipedia.org/wiki/小阿瑟·施莱辛格 "wikilink")、[休伯特·汉弗莱等人支持下](../Page/休伯特·汉弗莱.md "wikilink")，怀亚特在成立“”这一[利益集团中](https://zh.wikipedia.org/wiki/利益集团 "wikilink")，扮演了重要领导角色。1947年，他也当选首位美国民主行动主席\[4\]。
+在[埃莉诺·罗斯福](../Page/埃莉诺·罗斯福.md "wikilink")、[小阿瑟·施莱辛格](https://zh.wikipedia.org/wiki/小阿瑟·施莱辛格 "wikilink")、[休伯特·汉弗莱](../Page/休伯特·汉弗莱.md "wikilink")等人支持下，怀亚特在成立“”这一[利益集团中](https://zh.wikipedia.org/wiki/利益集团 "wikilink")，扮演了重要领导角色。1947年，他也当选首位美国民主行动主席\[4\]。
 
 1952年，怀亚特担任[阿德莱·史蒂文森的竞选经理](https://zh.wikipedia.org/wiki/阿德莱·史蒂文森 "wikilink")，并在1956年史蒂文森的总统竞选中，发挥了突出作用。然而两次竞选均不敌[德怀特·D·艾森豪威尔](https://zh.wikipedia.org/wiki/德怀特·D·艾森豪威尔 "wikilink")\[5\]。1959年，怀亚特计划竞选[肯塔基州州长](https://zh.wikipedia.org/wiki/肯塔基州州长 "wikilink")。但最终他决定与[伯特·T·库姆斯搭档](https://zh.wikipedia.org/wiki/伯特·T·库姆斯 "wikilink")，改为竞选副州长，并获得最高票\[6\]。库姆斯和怀亚特两人均当选，并从1959年到1963年分别担任正副州长。库姆斯在任期间，创造了肯塔基州经济发展委员会，并委任怀亚特为主席\[7\]。
 
-1962年，怀亚特代表民主党竞选美国参议院席位，但却在选举中不敌的候选人\[8\]。1963年，[肯尼迪总统任命怀亚特作为特使](https://zh.wikipedia.org/wiki/肯尼迪 "wikilink")，抵达[印度尼西亚处理海外关系](../Page/印度尼西亚.md "wikilink")，当时印尼总统[苏加诺威胁将外国石油公司国有化](https://zh.wikipedia.org/wiki/苏加诺 "wikilink")。怀亚特成功完成任务，并促使苏加诺没有接管印尼石油行业的外资部分，避免了1938年曾发生于[墨西哥的问题重现](../Page/墨西哥.md "wikilink")\[9\]。
+1962年，怀亚特代表民主党竞选美国参议院席位，但却在选举中不敌的候选人\[8\]。1963年，[肯尼迪总统任命怀亚特作为特使](https://zh.wikipedia.org/wiki/肯尼迪 "wikilink")，抵达[印度尼西亚](../Page/印度尼西亚.md "wikilink")处理海外关系，当时印尼总统[苏加诺威胁将外国石油公司国有化](https://zh.wikipedia.org/wiki/苏加诺 "wikilink")。怀亚特成功完成任务，并促使苏加诺没有接管印尼石油行业的外资部分，避免了1938年曾发生于[墨西哥](../Page/墨西哥.md "wikilink")的问题重现\[9\]。
 
 ## 返回法律事务
 
@@ -24,7 +24,7 @@
 
 在完成州长任期之后，库姆斯被任命为联邦上诉法院的一位法官。他随后辞职，并在1971年寻求连任州长，但他在民主党初选中，不敌前执行秘书[温德尔·H·福特](../Page/温德尔·H·福特.md "wikilink")。库姆斯随后重操法律旧业，并与布利特，道森和塔兰特合伙，更名为“塔兰特、库姆斯和布利特律所”。在1980年代早期，在怀亚特的退休后，戈登·戴维森，即怀亚特律所的管理合伙人，着手和库姆斯商量，将这两家律所合并，形成了肯塔基州最大的律师事务所——“怀亚特、塔兰特&库姆斯律所”\[11\]。
 
-副总统[休伯特·汉弗莱邀请怀亚特出山](../Page/休伯特·汉弗莱.md "wikilink")，他在上扮演重要的角色，并再次抵达芝加哥。怀亚特，曾在二十四年早安抚的阿尔本·巴克利的挫伤之情，再次在党代会上，制定出新的党内共识，以摆脱[越南战争所带来的停滞不前](../Page/越南战争.md "wikilink")\[12\]。
+副总统[休伯特·汉弗莱](../Page/休伯特·汉弗莱.md "wikilink")邀请怀亚特出山，他在上扮演重要的角色，并再次抵达芝加哥。怀亚特，曾在二十四年早安抚的阿尔本·巴克利的挫伤之情，再次在党代会上，制定出新的党内共识，以摆脱[越南战争](../Page/越南战争.md "wikilink")所带来的停滞不前\[12\]。
 
 在他生命的其余时间中，怀亚特活跃于肯塔基州的法律和公共事务。他和他的妻子安妮·怀亚特，捐赠了500000美元给[杰斐逊县的公立学校](https://zh.wikipedia.org/wiki/杰斐逊县 "wikilink")，作为高中辩论队员的奖学金；并将另一份500000美元资金，捐给路易斯维尔大学法学院，因为他曾担任学校的受托人。1995年，路易斯维尔大学法学院以怀亚特命名，以纪念他的付出。他曾任一届的董事会主席职位；怀亚特将一笔相当大数额的基金捐赠给此校，以支持一系列学术讲座\[13\]。
 
@@ -36,16 +36,11 @@
 
   -
   -
-[Category:肯塔基州副州长](https://zh.wikipedia.org/wiki/Category:肯塔基州副州长 "wikilink")
-[Category:路易斯维尔大学校友](https://zh.wikipedia.org/wiki/Category:路易斯维尔大学校友 "wikilink")
+[Category:肯塔基州副州长](https://zh.wikipedia.org/wiki/Category:肯塔基州副州长 "wikilink") [Category:路易斯维尔大学校友](https://zh.wikipedia.org/wiki/Category:路易斯维尔大学校友 "wikilink")
 
 1.
 
-2.  David M. Jordan, *FDR, Dewey, and the Election of 1944*,
-    [Blomington](https://zh.wikipedia.org/wiki/Bloomington,_Indiana "wikilink"):
-    [Indiana University
-    Press](https://zh.wikipedia.org/wiki/Indiana_University_Press "wikilink"),
-    2011, pp. 165, 167, ISBN 978-0-253-35683-3
+2.  David M. Jordan, *FDR, Dewey, and the Election of 1944*, [Blomington](https://zh.wikipedia.org/wiki/Bloomington,_Indiana "wikilink"): [Indiana University Press](https://zh.wikipedia.org/wiki/Indiana_University_Press "wikilink"), 2011, pp. 165, 167, ISBN 978-0-253-35683-3
 
 3.
 

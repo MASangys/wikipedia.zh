@@ -1,4 +1,4 @@
-**BTOB－BLUE**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB於](../Page/BTOB.md "wikilink")2016年首度推出的子團，由Vocalists成員[徐恩光](../Page/徐恩光.md "wikilink")、[李昌燮](../Page/李昌燮.md "wikilink")、[任炫植](../Page/任炫植.md "wikilink")、[陸星材組成](../Page/陸星材.md "wikilink")。2016年9月19日，發表首張[韓語數位單曲](https://zh.wikipedia.org/wiki/韓語 "wikilink")《[留在我身邊](../Page/留在我身邊_\(BTOB－BLUE單曲\).md "wikilink")》正式出道。
+**BTOB－BLUE**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")於2016年首度推出的子團，由Vocalists成員[徐恩光](../Page/徐恩光.md "wikilink")、[李昌燮](../Page/李昌燮.md "wikilink")、[任炫植](../Page/任炫植.md "wikilink")、[陸星材](../Page/陸星材.md "wikilink")組成。2016年9月19日，發表首張[韓語數位單曲](https://zh.wikipedia.org/wiki/韓語 "wikilink")《[留在我身邊](../Page/留在我身邊_\(BTOB－BLUE單曲\).md "wikilink")》正式出道。
 
 ## 成員列表
 
@@ -13,25 +13,15 @@
 
 ## 經歷
 
-2016年8月13日，於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[不朽的名曲
-2](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》演唱墊腳石 2期的《致你》，並獲得四連勝、最終優勝。
+2016年8月13日，於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[不朽的名曲 2](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》演唱墊腳石 2期的《致你》，並獲得四連勝、最終優勝。
 
-2016年9月13日，正式宣布由[BTOB的Vocal](../Page/BTOB.md "wikilink")
-Line成員恩光、昌燮、炫植、星材組成首個子團BTOB－BLUE，並於9月19日發行首張單曲《[留在我身邊](../Page/留在我身邊_\(BTOB－BLUE單曲\).md "wikilink")（내
-곁에 서
-있어줘）》，由[黑眼必勝作曲填詞編曲](../Page/黑眼必勝.md "wikilink")。9月14日，於[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show\!
-音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》進行該次活動的出道演出，亦是唯一一場打歌舞台。\[1\]\[2\]
+2016年9月13日，正式宣布由[BTOB](../Page/BTOB.md "wikilink")的Vocal Line成員恩光、昌燮、炫植、星材組成首個子團BTOB－BLUE，並於9月19日發行首張單曲《[留在我身邊](../Page/留在我身邊_\(BTOB－BLUE單曲\).md "wikilink")（내 곁에 서 있어줘）》，由[黑眼必勝](../Page/黑眼必勝.md "wikilink")作曲填詞編曲。9月14日，於[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》進行該次活動的出道演出，亦是唯一一場打歌舞台。\[1\]\[2\]
 
-2017年7月8日，正式以分隊名義，再次出演KBS《不朽的名曲
-2》，演唱[金旻鍾的](../Page/金旻鍾.md "wikilink")《在天空下》。
+2017年7月8日，正式以分隊名義，再次出演KBS《不朽的名曲 2》，演唱[金旻鍾](../Page/金旻鍾.md "wikilink")的《在天空下》。
 
-2018年4月15日，出演[JTBC](../Page/JTBC.md "wikilink")《[Sugar Man
-2](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》，作為Show
-Man演唱李基燦的《感冒》。
+2018年4月15日，出演[JTBC](../Page/JTBC.md "wikilink")《[Sugar Man 2](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》，作為Show Man演唱李基燦的《感冒》。
 
-2018年7月23日，宣布BTOB－BLUE於8月初睽違兩年回歸。\[3\]
-同年8月2日，發行第二張數位單曲《[如果下雨的話](../Page/如果下雨的話_\(BTOB－BLUE單曲\).md "wikilink")（비가
-내리면）》。\[4\]\[5\]
+2018年7月23日，宣布BTOB－BLUE於8月初睽違兩年回歸。\[3\] 同年8月2日，發行第二張數位單曲《[如果下雨的話](../Page/如果下雨的話_\(BTOB－BLUE單曲\).md "wikilink")（비가 내리면）》。\[4\]\[5\]
 
 ## 音樂作品
 
@@ -161,13 +151,7 @@ Man演唱李基燦的《感冒》。
 
   - [BTOB](http://channels.vlive.tv/E5D32B/video) 官方 V LIVE CHANNEL+ 頻道
 
-[Category:BTOB](https://zh.wikipedia.org/wiki/Category:BTOB "wikilink")
-[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:Cube娛樂旗下團體](https://zh.wikipedia.org/wiki/Category:Cube娛樂旗下團體 "wikilink")
+[Category:BTOB](https://zh.wikipedia.org/wiki/Category:BTOB "wikilink") [Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:Cube娛樂旗下團體](https://zh.wikipedia.org/wiki/Category:Cube娛樂旗下團體 "wikilink")
 
 1.
 2.

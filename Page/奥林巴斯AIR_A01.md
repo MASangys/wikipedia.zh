@@ -1,5 +1,4 @@
-**奥林巴斯 Air
-A01**是一款于2015年2月推出的可更换镜头[数码相机产品](../Page/数码相机.md "wikilink")\[1\]，属于[微4/3系统](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")，可以兼容该系统中的交换用镜头。
+**奥林巴斯 Air A01**是一款于2015年2月推出的可更换镜头[数码相机](../Page/数码相机.md "wikilink")产品\[1\]，属于[微4/3系统](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")，可以兼容该系统中的交换用镜头。
 
 其设计与传统数码相机有很大不同，属于分离设计，需要使用者搭配智能设备（如手机、平板）与其连接后取景拍摄。其与索尼公司的[ILCE-QX1相像](../Page/索尼ILCE-QX1.md "wikilink")，但奥林巴斯采用开放平台方式（OPC）\[2\]，鼓励用户对该产品进行软件开发。
 
@@ -7,13 +6,11 @@ A01**是一款于2015年2月推出的可更换镜头[数码相机产品](../Page
 
 [Olympus_Air_A01,mounted_lens_and_phone.jpg](https://zh.wikipedia.org/wiki/File:Olympus_Air_A01,mounted_lens_and_phone.jpg "fig:Olympus_Air_A01,mounted_lens_and_phone.jpg")
 
-在2012年左右，数码相机纷纷装配上了[WiFi](https://zh.wikipedia.org/wiki/WiFi "wikilink")，并且提供了智能设备控制相机取景拍摄的APP；在2013年，[索尼推出的QX](../Page/索尼.md "wikilink")100与QX10产品，精简了显示屏与大部分操控按钮，机身尺寸大幅度缩减，而成为一个完整相机的部分模块，需要与智能设备配套使用以完成原本完整的拍摄过程。
+在2012年左右，数码相机纷纷装配上了[WiFi](https://zh.wikipedia.org/wiki/WiFi "wikilink")，并且提供了智能设备控制相机取景拍摄的APP；在2013年，[索尼](../Page/索尼.md "wikilink")推出的QX100与QX10产品，精简了显示屏与大部分操控按钮，机身尺寸大幅度缩减，而成为一个完整相机的部分模块，需要与智能设备配套使用以完成原本完整的拍摄过程。
 
 索尼公司在接下来的2014年夏，推出了[ILCE-QX1](../Page/索尼ILCE-QX1.md "wikilink")，将这类相机推进到可换镜头领域，使用自己无反系统上的E卡口，可以适配所有E卡口兼容镜头。
 
-与此几乎同一时期，奥林巴斯公司在2014年9月宣布了自己的OPC（Open Platform
-Community）计划\[3\]\[4\]，并且在年底披露了消费市场定型产品\[5\]
-，并于次年的2015年春上市，定名为最终的『Air A01』。
+与此几乎同一时期，奥林巴斯公司在2014年9月宣布了自己的OPC（Open Platform Community）计划\[3\]\[4\]，并且在年底披露了消费市场定型产品\[5\] ，并于次年的2015年春上市，定名为最终的『Air A01』。
 
 ## 软件支持
 
@@ -77,8 +74,7 @@ OPC相关app
 </tbody>
 </table>
 
-Olympus Air A01 w Panasonic 25mm F1.7.jpg|装配25mm F1.7镜头的Air A01 Olympus
-Air A01 with Lumix 25mm F1.7.jpg| Olympus Air A01 with cat.jpg|
+Olympus Air A01 w Panasonic 25mm F1.7.jpg|装配25mm F1.7镜头的Air A01 Olympus Air A01 with Lumix 25mm F1.7.jpg| Olympus Air A01 with cat.jpg|
 
 ## 参见
 
@@ -94,9 +90,7 @@ Air A01 with Lumix 25mm F1.7.jpg| Olympus Air A01 with cat.jpg|
 
 ## 外部链接
 
-  - [Olympus Air
-    A01](https://olympus-imaging.jp/product/opc/a01/index.html) -
-    Olympus
+  - [Olympus Air A01](https://olympus-imaging.jp/product/opc/a01/index.html) - Olympus
   - [OPC](https://opc.olympus-imaging.com) Hack\&Make Project
 
 <!-- end list -->
@@ -108,23 +102,16 @@ Air A01 with Lumix 25mm F1.7.jpg| Olympus Air A01 with cat.jpg|
 
 [Category:奥林巴斯无反可交换镜头数码相机](https://zh.wikipedia.org/wiki/Category:奥林巴斯无反可交换镜头数码相机 "wikilink")
 
-1.  [Open Platform Camera, OLYMPUS AIR
-    A01](http://www.olympus-global.com/en/news/2015a/nr150205opce.jsp)
-    - Olympus Global
+1.  [Open Platform Camera, OLYMPUS AIR A01](http://www.olympus-global.com/en/news/2015a/nr150205opce.jsp)  - Olympus Global
 
 2.  [OPC](https://opc.olympus-imaging.com/) Hack\&Make Project
 
-3.  [【フォトキナ】オリンパス、オープンプラットフォームカメラのコンセプト展示](http://dc.watch.impress.co.jp/docs/news/667257.html)
-    - DC Watch Impress
+3.  [【フォトキナ】オリンパス、オープンプラットフォームカメラのコンセプト展示](http://dc.watch.impress.co.jp/docs/news/667257.html) - DC Watch Impress
 
 4.
-5.  [オープンプラットフォームカメラ（OPC）プロトタイプの仕様が公開](http://dc.watch.impress.co.jp/docs/news/680596.html)
-    - DC Watch Impress
+5.  [オープンプラットフォームカメラ（OPC）プロトタイプの仕様が公開](http://dc.watch.impress.co.jp/docs/news/680596.html) - DC Watch Impress
 
-6.  [Air APP](https://olympus-imaging.jp/product/opc/a01/feature.html) -
-    Olympus
+6.  [Air APP](https://olympus-imaging.jp/product/opc/a01/feature.html) - Olympus
 
 7.
-8.  [Firmware Update for OLYMPUS DIGITAL
-    CAMERA](http://cameras.olympus-imaging.cn/ww/ud2/ENU/0001/1170/index03a.html)
-    - olympus-imaging
+8.  [Firmware Update for OLYMPUS DIGITAL CAMERA](http://cameras.olympus-imaging.cn/ww/ud2/ENU/0001/1170/index03a.html) - olympus-imaging

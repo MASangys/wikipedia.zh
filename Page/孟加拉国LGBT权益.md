@@ -2,7 +2,7 @@
 
 ## 宪法和刑法典
 
-[宪法有几个规定可以适用于LGBT公民](../Page/宪法.md "wikilink")：\[1\]
+[宪法](../Page/宪法.md "wikilink")有几个规定可以适用于LGBT公民：\[1\]
 
   - 第二部分第19条 - 保证所有公民享有平等机会。
   - 第三部分第27条 - 承诺所有公民在法律面前平等。
@@ -11,8 +11,7 @@
 
 ` `
 
-第377条涉及的范围延伸到任何涉及非阴茎插入阴道的性结合。
-因此，即使是双方同意的异性之间的[陰莖口交和肛交都可能根据这项法律受到惩罚](https://zh.wikipedia.org/wiki/陰莖口交 "wikilink")。\[2\]\[3\]
+第377条涉及的范围延伸到任何涉及非阴茎插入阴道的性结合。 因此，即使是双方同意的异性之间的[陰莖口交和肛交都可能根据这项法律受到惩罚](https://zh.wikipedia.org/wiki/陰莖口交 "wikilink")。\[2\]\[3\]
 
 ## 社会态度
 
@@ -41,10 +40,7 @@
 
 ## 参考资料
 
-[Category:孟加拉國社會](https://zh.wikipedia.org/wiki/Category:孟加拉國社會 "wikilink")
-[Category:孟加拉國LGBT](https://zh.wikipedia.org/wiki/Category:孟加拉國LGBT "wikilink")
-[Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink")
-[Category:孟加拉國政治](https://zh.wikipedia.org/wiki/Category:孟加拉國政治 "wikilink")
+[Category:孟加拉國社會](https://zh.wikipedia.org/wiki/Category:孟加拉國社會 "wikilink") [Category:孟加拉國LGBT](https://zh.wikipedia.org/wiki/Category:孟加拉國LGBT "wikilink") [Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink") [Category:孟加拉國政治](https://zh.wikipedia.org/wiki/Category:孟加拉國政治 "wikilink")
 
 1.
 2.

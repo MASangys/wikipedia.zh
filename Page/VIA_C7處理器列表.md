@@ -6,18 +6,8 @@
 
 #### ["Esther"](https://zh.wikipedia.org/wiki/VIA_C7#Esther "wikilink") (90 nm)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), VIA PadLock
-    (SHA, AES, Montgomery Multiplier, RNG)*
-  - [VIA
-    PowerSaver](https://zh.wikipedia.org/wiki/PowerSaver "wikilink") 支援
-    2
-    [ACPI](https://zh.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface "wikilink")
-    P-states
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), VIA PadLock (SHA, AES, Montgomery Multiplier, RNG)*
+  - [VIA PowerSaver](https://zh.wikipedia.org/wiki/PowerSaver "wikilink") 支援 2 [ACPI](https://zh.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface "wikilink") P-states
 
 | 型號     | 時脈       | [L2快取](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | [倍頻](https://zh.wikipedia.org/wiki/CPU_multiplier "wikilink") | 核心電壓    | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | 腳位       | 發表時間         | 產品編號 |
 | ------ | -------- | ------------------------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------- | ------- | -------------------------------------------------------------------- | -------- | ------------ | ---- |
@@ -32,18 +22,8 @@
 
 #### ["Esther"](https://zh.wikipedia.org/wiki/VIA_C7#Esther "wikilink") (90 nm)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), VIA PadLock
-    (SHA, AES, Montgomery Multiplier, RNG)*
-  - C7-D 1.8與2.0 [VIA
-    PowerSaver](https://zh.wikipedia.org/wiki/PowerSaver "wikilink") 支援
-    2
-    [ACPI](https://zh.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface "wikilink")
-    P-states
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), VIA PadLock (SHA, AES, Montgomery Multiplier, RNG)*
+  - C7-D 1.8與2.0 [VIA PowerSaver](https://zh.wikipedia.org/wiki/PowerSaver "wikilink") 支援 2 [ACPI](https://zh.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface "wikilink") P-states
 
 | 型號       | 時脈       | [L2快取](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | [倍頻](https://zh.wikipedia.org/wiki/CPU_multiplier "wikilink") | 核心電壓    | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | 腳位       | 發表時間               | 產品編號 |
 | -------- | -------- | ------------------------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------- | ------- | -------------------------------------------------------------------- | -------- | ------------------ | ---- |
@@ -57,18 +37,8 @@
 
 #### ["Esther"](https://zh.wikipedia.org/wiki/VIA_C7#Esther "wikilink") (standard-voltage, 90 nm)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), VIA PadLock
-    (SHA, AES, Montgomery Multiplier, RNG)*
-  - [VIA
-    PowerSaver](https://zh.wikipedia.org/wiki/PowerSaver "wikilink") 支援
-    8
-    [ACPI](https://zh.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface "wikilink")
-    P-states
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), VIA PadLock (SHA, AES, Montgomery Multiplier, RNG)*
+  - [VIA PowerSaver](https://zh.wikipedia.org/wiki/PowerSaver "wikilink") 支援 8 [ACPI](https://zh.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface "wikilink") P-states
 
 | 型號       | 時脈       | [L2快取](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | [倍頻](https://zh.wikipedia.org/wiki/CPU_multiplier "wikilink") | 核心電壓              | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | 腳位                                             | 發表時間         | 產品編號 |
 | -------- | -------- | ------------------------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------- | ----------------- | -------------------------------------------------------------------- | ---------------------------------------------- | ------------ | ---- |
@@ -82,18 +52,8 @@
 
 #### ["Esther"](https://zh.wikipedia.org/wiki/VIA_C7#Esther "wikilink") (ultra-low-voltage, 90 nm)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), VIA PadLock
-    (SHA, AES, Montgomery Multiplier, RNG)*
-  - [VIA
-    PowerSaver](https://zh.wikipedia.org/wiki/PowerSaver "wikilink") 支援
-    8
-    [ACPI](https://zh.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface "wikilink")
-    P-states
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), VIA PadLock (SHA, AES, Montgomery Multiplier, RNG)*
+  - [VIA PowerSaver](https://zh.wikipedia.org/wiki/PowerSaver "wikilink") 支援 8 [ACPI](https://zh.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface "wikilink") P-states
 
 <table>
 <thead>
@@ -193,5 +153,4 @@
   - **[VIA C3處理器列表](../Page/VIA_C3處理器列表.md "wikilink")**
   - **[威盛處理器列表](../Page/威盛處理器列表.md "wikilink")**
 
-[Category:威勝處理器](https://zh.wikipedia.org/wiki/Category:威勝處理器 "wikilink")
-[Category:微處理器列表](https://zh.wikipedia.org/wiki/Category:微處理器列表 "wikilink")
+[Category:威勝處理器](https://zh.wikipedia.org/wiki/Category:威勝處理器 "wikilink") [Category:微處理器列表](https://zh.wikipedia.org/wiki/Category:微處理器列表 "wikilink")

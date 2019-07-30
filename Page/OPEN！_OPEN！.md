@@ -1,5 +1,4 @@
-《**OPEN！ OPEN！**》，官方英文名***OPEN！
-OPEN！***，是一部於[2015年上映的真人動畫電影](https://zh.wikipedia.org/wiki/2015年電影列表 "wikilink")。本部電影為[簡嫚書首部電影執導處女作並擔任女主角](../Page/簡嫚書.md "wikilink")。由[曹晏豪](../Page/曹晏豪.md "wikilink")、[洪都拉斯](../Page/洪都拉斯_\(藝人\).md "wikilink")、[翁虹](../Page/翁虹.md "wikilink")、[施文彬領銜主演](../Page/施文彬.md "wikilink")。[台灣原訂於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2015年8月7日上映，因受[蘇迪勒颱風影響順延至](https://zh.wikipedia.org/wiki/颱風蘇迪勒_\(2015年\) "wikilink")2015年8月28日上映\[1\]，至2015年9月6日止，全國總票房為新台幣355萬，最後總票房為800萬。
+《**OPEN！ OPEN！**》，官方英文名***OPEN！ OPEN！***，是一部於[2015年上映的真人動畫電影](https://zh.wikipedia.org/wiki/2015年電影列表 "wikilink")。本部電影為[簡嫚書](../Page/簡嫚書.md "wikilink")首部電影執導處女作並擔任女主角。由[曹晏豪](../Page/曹晏豪.md "wikilink")、[洪都拉斯](../Page/洪都拉斯_\(藝人\).md "wikilink")、[翁虹](../Page/翁虹.md "wikilink")、[施文彬](../Page/施文彬.md "wikilink")領銜主演。[台灣原訂於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2015年8月7日上映，因受[蘇迪勒颱風影響順延至](https://zh.wikipedia.org/wiki/颱風蘇迪勒_\(2015年\) "wikilink")2015年8月28日上映\[1\]，至2015年9月6日止，全國總票房為新台幣355萬，最後總票房為800萬。
 
 ## 演員陣容
 
@@ -56,9 +55,9 @@ OPEN！***，是一部於[2015年上映的真人動畫電影](https://zh.wikiped
 |        |        |                                                                                    |                                          |       |        |
 | ------ | ------ | ---------------------------------------------------------------------------------- | ---------------------------------------- | ----- | ------ |
 | **曲別** | **歌名** | **演唱者**                                                                            | **作詞**                                   | '''作曲 | **備註** |
-| 主題曲    | 戰神     | [MP魔幻力量](../Page/MP魔幻力量.md "wikilink")                                             | [MP魔幻力量廷廷](../Page/MP魔幻力量.md "wikilink") |       |        |
+| 主題曲    | 戰神     | [MP魔幻力量](../Page/MP魔幻力量.md "wikilink")                                             | [MP魔幻力量](../Page/MP魔幻力量.md "wikilink")廷廷 |       |        |
 | 抒情主題曲  | 恆星     | [劉學甫](https://zh.wikipedia.org/wiki/劉學甫 "wikilink")、[沈懿](../Page/沈懿.md "wikilink") |                                          |       |        |
-| 插曲     | 偷偷的    | MP魔幻力量                                                                             | [MP魔幻力量廷廷](../Page/MP魔幻力量.md "wikilink") |       |        |
+| 插曲     | 偷偷的    | MP魔幻力量                                                                             | [MP魔幻力量](../Page/MP魔幻力量.md "wikilink")廷廷 |       |        |
 | 我無法不愛你 |        |                                                                                    |                                          |       |        |
 | 黑白切    |        |                                                                                    |                                          |       |        |
 | 我還是愛著你 |        |                                                                                    |                                          |       |        |
@@ -105,19 +104,8 @@ OPEN！***，是一部於[2015年上映的真人動畫電影](https://zh.wikiped
   -
   -
   -
-[Category:2015年劇情片](https://zh.wikipedia.org/wiki/Category:2015年劇情片 "wikilink")
-[Category:2010年代台灣電影作品](https://zh.wikipedia.org/wiki/Category:2010年代台灣電影作品 "wikilink")
-[Category:真人動畫電影](https://zh.wikipedia.org/wiki/Category:真人動畫電影 "wikilink")
-[Category:導演處女作](https://zh.wikipedia.org/wiki/Category:導演處女作 "wikilink")
-[Category:臺灣動畫](https://zh.wikipedia.org/wiki/Category:臺灣動畫 "wikilink")
-[Category:人與外星生物接觸題材電影](https://zh.wikipedia.org/wiki/Category:人與外星生物接觸題材電影 "wikilink")
-[Category:台灣科幻片](https://zh.wikipedia.org/wiki/Category:台灣科幻片 "wikilink")
-[Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink")
-[Category:台灣劇情片](https://zh.wikipedia.org/wiki/Category:台灣劇情片 "wikilink")
-[Category:商店背景作品](https://zh.wikipedia.org/wiki/Category:商店背景作品 "wikilink")
+[Category:2015年劇情片](https://zh.wikipedia.org/wiki/Category:2015年劇情片 "wikilink") [Category:2010年代台灣電影作品](https://zh.wikipedia.org/wiki/Category:2010年代台灣電影作品 "wikilink") [Category:真人動畫電影](https://zh.wikipedia.org/wiki/Category:真人動畫電影 "wikilink") [Category:導演處女作](https://zh.wikipedia.org/wiki/Category:導演處女作 "wikilink") [Category:臺灣動畫](https://zh.wikipedia.org/wiki/Category:臺灣動畫 "wikilink") [Category:人與外星生物接觸題材電影](https://zh.wikipedia.org/wiki/Category:人與外星生物接觸題材電影 "wikilink") [Category:台灣科幻片](https://zh.wikipedia.org/wiki/Category:台灣科幻片 "wikilink") [Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink") [Category:台灣劇情片](https://zh.wikipedia.org/wiki/Category:台灣劇情片 "wikilink") [Category:商店背景作品](https://zh.wikipedia.org/wiki/Category:商店背景作品 "wikilink")
 
 1.
-2.  [《OPEN！OPEN！》LOCK 醬宣傳影片釋出《探險活寶》老皮
-    曹冀魯配音演出](http://gnn.gamer.com.tw/2/117962.html)
-3.  [《少女時代》2.7億登基票房王](http://www.chinatimes.com/newspapers/20150906000477-260112)
-    2015.9.5 中時
+2.  [《OPEN！OPEN！》LOCK 醬宣傳影片釋出《探險活寶》老皮 曹冀魯配音演出](http://gnn.gamer.com.tw/2/117962.html)
+3.  [《少女時代》2.7億登基票房王](http://www.chinatimes.com/newspapers/20150906000477-260112) 2015.9.5 中時

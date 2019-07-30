@@ -1,4 +1,4 @@
-**拜克舒基文**是一个位于第一輔助平面的[Unicode區段](../Page/Unicode區段.md "wikilink")，收录了11至12世纪左右，用于拼写[梵语的](../Page/梵语.md "wikilink")[婆罗米系文字](https://zh.wikipedia.org/wiki/婆罗米系文字 "wikilink")，在[西藏曾被称为](https://zh.wikipedia.org/wiki/西藏 "wikilink")**信度文**（Sindhu(ra)）。\[1\]
+**拜克舒基文**是一个位于第一輔助平面的[Unicode區段](../Page/Unicode區段.md "wikilink")，收录了11至12世纪左右，用于拼写[梵语](../Page/梵语.md "wikilink")的[婆罗米系文字](https://zh.wikipedia.org/wiki/婆罗米系文字 "wikilink")，在[西藏曾被称为](https://zh.wikipedia.org/wiki/西藏 "wikilink")**信度文**（Sindhu(ra)）。\[1\]
 
 ## 历史
 

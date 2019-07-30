@@ -1,10 +1,10 @@
-**sana**（，）是[日本的女性](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")。身高155公分\[1\]\[2\]\[3\]。
+**sana**（，）是[日本](../Page/日本.md "wikilink")的女性[歌手](../Page/歌手.md "wikilink")。身高155公分\[1\]\[2\]\[3\]。
 
 ## 簡歷
 
-2010年1月，開始以「鎖那」的名義在[NICONICO動畫上傳翻唱](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[VOCALOID歌曲的影片](../Page/VOCALOID.md "wikilink")。
+2010年1月，開始以「鎖那」的名義在[NICONICO動畫上傳翻唱](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[VOCALOID](../Page/VOCALOID.md "wikilink")歌曲的影片。
 
-2015年5月，與於[NICONICO動畫活動的VOCALOID樂團](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")「[HoneyWorks](../Page/HoneyWorks.md "wikilink")」合作，由HoneyWorks負責作詞作曲，以「sana」的名義於2015年5月27日出道。同年7月，sana以嘉賓身分為[HoneyWorks的專輯](../Page/HoneyWorks.md "wikilink")《喜歡上你的那瞬間。》獻唱16首曲子\[4\]\[5\]。
+2015年5月，與於[NICONICO動畫活動的VOCALOID樂團](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")「[HoneyWorks](../Page/HoneyWorks.md "wikilink")」合作，由HoneyWorks負責作詞作曲，以「sana」的名義於2015年5月27日出道。同年7月，sana以嘉賓身分為[HoneyWorks](../Page/HoneyWorks.md "wikilink")的專輯《喜歡上你的那瞬間。》獻唱16首曲子\[4\]\[5\]。
 
 ## 唱片
 
@@ -12,8 +12,7 @@
 
 #### 不需要言語的約定 / 曉月夜
 
-《**不需要言語的約定 /
-曉月夜**》（）是sana和HoneyWorks合作推出的第一張單曲，而不需要言語的約定為電視動畫《[火影忍者疾風傳](../Page/火影忍者疾風傳.md "wikilink")》的ED。單曲分為兩種版本，分別為：
+《**不需要言語的約定 / 曉月夜**》（）是sana和HoneyWorks合作推出的第一張單曲，而不需要言語的約定為電視動畫《[火影忍者疾風傳](../Page/火影忍者疾風傳.md "wikilink")》的ED。單曲分為兩種版本，分別為：
 
   - 期間生產限定動畫盤
       - [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink")：SMCL-382
@@ -36,8 +35,7 @@
 
 **鎖那名義**
 
-  - みきうた （[EXIT
-    TUNES](../Page/EXIT_TUNES.md "wikilink")／2013年12月18日發售／QWCE-00320）
+  - みきうた （[EXIT TUNES](../Page/EXIT_TUNES.md "wikilink")／2013年12月18日發售／QWCE-00320）
       - クノイチでも恋がしたい
           - 歌：鎖那×\*菜乃（作詞／作曲：みきとP）
       - うぇんずでー・ぶるー
@@ -90,10 +88,7 @@
   - [鎖那官方部落格](http://ameblo.jp/sanaprix/)
 
   -
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:Music_Ray'n所屬藝人](https://zh.wikipedia.org/wiki/Category:Music_Ray'n所屬藝人 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:Music_Ray'n所屬藝人](https://zh.wikipedia.org/wiki/Category:Music_Ray'n所屬藝人 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")
 
 1.
 

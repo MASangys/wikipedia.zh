@@ -1,15 +1,12 @@
-**BONUSbaby**（），是[Maroo娛樂於](https://zh.wikipedia.org/wiki/Maroo娛樂 "wikilink")2017年所推出的[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，最初由6名成員組成，現任成員包括
-[MOONHEE](../Page/崔玟熙.md "wikilink")、HAYOON、CHAEHYUN、DAYUN、GAON。\[1\]
+**BONUSbaby**（），是[Maroo娛樂於](https://zh.wikipedia.org/wiki/Maroo娛樂 "wikilink")2017年所推出的[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，最初由6名成員組成，現任成員包括 [MOONHEE](../Page/崔玟熙.md "wikilink")、HAYOON、CHAEHYUN、DAYUN、GAON。\[1\]
 
-其中成員
-MOONHEE、HAYOON為女團[myB的前成員](https://zh.wikipedia.org/wiki/myB "wikilink")。
+其中成員 MOONHEE、HAYOON為女團[myB的前成員](https://zh.wikipedia.org/wiki/myB "wikilink")。
 
 ## 經歷
 
 **<big>2016年：準備出道</big>**
 
-12月16日，Maroo娛樂方面公開了Bonus Baby的隊徽，並表示：「由10多歲少女們組成的6人組新女團團名為Bonus
-Baby，希望能為大家在近期這樣辛苦的環境中帶來積極明朗的能量，成為傳遞幸運到大家心中的Bonus Baby。」
+12月16日，Maroo娛樂方面公開了Bonus Baby的隊徽，並表示：「由10多歲少女們組成的6人組新女團團名為Bonus Baby，希望能為大家在近期這樣辛苦的環境中帶來積極明朗的能量，成為傳遞幸運到大家心中的Bonus Baby。」
 
 12月22日，Maroo娛樂方面表示：「Bonus Baby的出道曲音源和MV將於1月1日正午12時公開，開啟2017年的女團大戰。」
 
@@ -17,14 +14,13 @@ Baby，希望能為大家在近期這樣辛苦的環境中帶來積極明朗的�
 
 1月1日，正午12時公開《Urikiri (우리끼리，直譯為：我們之間)》出道曲MV和音源。亦於 SBS《人氣歌謠》帶來出道舞台。\[2\]
 
-4月9日，經紀公司 Maroo Entertainment 透露，BONUSbaby 將在4月20日帶著第二張單曲專輯回歸，並透過官方
-Facebook 搶先公開成員 MOO HEE 的概念照。
+4月9日，經紀公司 Maroo Entertainment 透露，BONUSbaby 將在4月20日帶著第二張單曲專輯回歸，並透過官方 Facebook 搶先公開成員 MOO HEE 的概念照。
 
 4月14日，透過官方 Facebook 公開團體、個人概念照以及 MV 預告。
 
 4月20日，發行第二張單曲專輯《成為大人的話 (어른이된다면)》，並公開專輯同名主打歌 MV。
 
-10月29日，全員參加[YG娛樂製作的選秀節目](../Page/YG娛樂.md "wikilink")[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")。成員MOONHEE、HAYOON、CHAEHYUN、DAYUN入選。CHAEHYUN第7集淘汰，最終排名135名；DAYUN第10集淘汰，最終在少女組排名45名；決賽HAYOON未能進入Top9，MOONHEE以第6名成為女子組Top9成員，但是最終因男子組勝出而未能出道。
+10月29日，全員參加[YG娛樂](../Page/YG娛樂.md "wikilink")製作的選秀節目[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")。成員MOONHEE、HAYOON、CHAEHYUN、DAYUN入選。CHAEHYUN第7集淘汰，最終排名135名；DAYUN第10集淘汰，最終在少女組排名45名；決賽HAYOON未能進入Top9，MOONHEE以第6名成為女子組Top9成員，但是最終因男子組勝出而未能出道。
 
 ### 2018年：成員變動，組合活動暫停
 
@@ -300,9 +296,7 @@ Facebook 搶先公開成員 MOO HEE 的概念照。
 <!-- end list -->
 
   -
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
+[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
 
 1.
 2.  [BONUSbaby 於《人氣歌謠》正式出道](http://kpopn.niusnews.com/=K0mhkml7)

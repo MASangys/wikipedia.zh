@@ -1,19 +1,12 @@
-**GameCube – Game Boy Advance 傳輸線** (DOL-011) 是一种用来将[Game Boy
-Advance](../Page/Game_Boy_Advance.md "wikilink")（GBA）和[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")（NGC）连接的传输线缆。该传输线为不同的游戏提供不同的功能。这些功能包括但不限于：解锁附加内容，将GBA转换为，将GBA转换为单独的控制器或在相关游戏之间传输游戏内物品。当与配件一起使用时，GBA可用于控制通过GameCube运行的任何Game
-Boy系列游戏。
+**GameCube – Game Boy Advance 傳輸線** (DOL-011) 是一种用来将[Game Boy Advance](../Page/Game_Boy_Advance.md "wikilink")（GBA）和[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")（NGC）连接的传输线缆。该传输线为不同的游戏提供不同的功能。这些功能包括但不限于：解锁附加内容，将GBA转换为，将GBA转换为单独的控制器或在相关游戏之间传输游戏内物品。当与配件一起使用时，GBA可用于控制通过GameCube运行的任何Game Boy系列游戏。
 
-线缆有一端插入GameCube控制器插槽，另一端插入GBA的扩展端口。该线缆兼容GameCube主机和原版[Wii主机](../Page/Wii.md "wikilink")，以及Game
-Boy Advance，[Game Boy Advance
-SP](../Page/Game_Boy_Advance_SP.md "wikilink")，和。由于[Game Boy
-Micro具有不同形状的链接端口](../Page/Game_Boy_Micro.md "wikilink")，所以官方版本电缆不适用于该机型，但一些爱好者自制了可以与Game
-Boy Micro使用的线缆，并且可以与Game Boy Micro正常使用。\[1\]
+线缆有一端插入GameCube控制器插槽，另一端插入GBA的扩展端口。该线缆兼容GameCube主机和原版[Wii](../Page/Wii.md "wikilink")主机，以及Game Boy Advance，[Game Boy Advance SP](../Page/Game_Boy_Advance_SP.md "wikilink")，和。由于[Game Boy Micro具有不同形状的链接端口](../Page/Game_Boy_Micro.md "wikilink")，所以官方版本电缆不适用于该机型，但一些爱好者自制了可以与Game Boy Micro使用的线缆，并且可以与Game Boy Micro正常使用。\[1\]
 
 《[索尼克大冒险2](../Page/索尼克大冒险2.md "wikilink")》 是第一款使用GBA傳輸線的GameCube游戏.
 
 ## 游戏
 
-以下是兼容GBA傳輸線的GameCube游戏和其对应的Game Boy Advance游戏的列表，如果没有对应的Game Boy
-Advance游戏，Game Boy Advance游戏一栏会显示为不适用。
+以下是兼容GBA傳輸線的GameCube游戏和其对应的Game Boy Advance游戏的列表，如果没有对应的Game Boy Advance游戏，Game Boy Advance游戏一栏会显示为不适用。
 
 <table>
 <thead>
@@ -263,7 +256,7 @@ Advance游戏，Game Boy Advance游戏一栏会显示为不适用。
 <td><p>解锁新的内容，传输游戏进度。</p></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="../Page/索尼克大冒险2.md" title="wikilink">索尼克大冒险2：城堡</a>》</p></td>
+<td><p>《<a href="../Page/索尼克大冒险2.md" title="wikilink">索尼克大冒险2</a>：城堡》</p></td>
 <td></td>
 <td><p>将Chao转移到Tiny Chao Garden（类似于的Chao Adventure）。如果连接到GBA游戏，用户可以将Chao保存到GBA的Tiny Chao Garden。</p></td>
 </tr>
@@ -325,11 +318,8 @@ Advance游戏，Game Boy Advance游戏一栏会显示为不适用。
 
 ## 外部链接
 
-  - [The Ultimate List: Cube Connection
-    (IGN)](http://www.ign.com/articles/2004/02/26/the-ultimate-list-cube-connection)
+  - [The Ultimate List: Cube Connection (IGN)](http://www.ign.com/articles/2004/02/26/the-ultimate-list-cube-connection)
 
-[Category:任天堂硬件](https://zh.wikipedia.org/wiki/Category:任天堂硬件 "wikilink")
-[Category:任天堂GameCube](https://zh.wikipedia.org/wiki/Category:任天堂GameCube "wikilink")
-[Category:Game_Boy_Advance](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance "wikilink")
+[Category:任天堂硬件](https://zh.wikipedia.org/wiki/Category:任天堂硬件 "wikilink") [Category:任天堂GameCube](https://zh.wikipedia.org/wiki/Category:任天堂GameCube "wikilink") [Category:Game_Boy_Advance](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance "wikilink")
 
 1.

@@ -1,5 +1,4 @@
-**Oh\!K TV
-Asia**是[特纳广播公司的一個](https://zh.wikipedia.org/wiki/特纳广播公司 "wikilink")[電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")，主要在[東南亞播出](https://zh.wikipedia.org/wiki/東南亞 "wikilink")。該台播出的大多数節目主要來自韓國[MBC電視台](https://zh.wikipedia.org/wiki/文化广播_\(韩国\) "wikilink")（除了[tvN的](https://zh.wikipedia.org/wiki/tvN "wikilink")《[孤单又灿烂的神－鬼怪](https://zh.wikipedia.org/wiki/孤单又灿烂的神－鬼怪 "wikilink")》[SBS的](../Page/SBS_\(韓國\).md "wikilink")《[师任堂，光的日记](https://zh.wikipedia.org/wiki/师任堂，光的日记 "wikilink")》），並以韓語、華語及馬來語（語言和字幕）24小時滾動播出MBC的戲劇和綜藝節目。\[1\]\[2\]
+**Oh\!K TV Asia**是[特纳广播公司的一個](https://zh.wikipedia.org/wiki/特纳广播公司 "wikilink")[電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")，主要在[東南亞播出](https://zh.wikipedia.org/wiki/東南亞 "wikilink")。該台播出的大多数節目主要來自韓國[MBC電視台](https://zh.wikipedia.org/wiki/文化广播_\(韩国\) "wikilink")（除了[tvN的](https://zh.wikipedia.org/wiki/tvN "wikilink")《[孤单又灿烂的神－鬼怪](https://zh.wikipedia.org/wiki/孤单又灿烂的神－鬼怪 "wikilink")》[SBS的](../Page/SBS_\(韓國\).md "wikilink")《[师任堂，光的日记](https://zh.wikipedia.org/wiki/师任堂，光的日记 "wikilink")》），並以韓語、華語及馬來語（語言和字幕）24小時滾動播出MBC的戲劇和綜藝節目。\[1\]\[2\]
 
 ## 现时节目
 
@@ -103,12 +102,7 @@ Asia**是[特纳广播公司的一個](https://zh.wikipedia.org/wiki/特纳广�
   - [Oh\!K TV Asia官方網站](http://www.ohk-tv.com)
 
   -
-[Category:華納媒體](https://zh.wikipedia.org/wiki/Category:華納媒體 "wikilink")
-[Category:電視頻道](https://zh.wikipedia.org/wiki/Category:電視頻道 "wikilink")
-[Category:2014年新加坡建立](https://zh.wikipedia.org/wiki/Category:2014年新加坡建立 "wikilink")
-[Category:2014年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2014年成立的電視台或電視頻道 "wikilink")
+[Category:華納媒體](https://zh.wikipedia.org/wiki/Category:華納媒體 "wikilink") [Category:電視頻道](https://zh.wikipedia.org/wiki/Category:電視頻道 "wikilink") [Category:2014年新加坡建立](https://zh.wikipedia.org/wiki/Category:2014年新加坡建立 "wikilink") [Category:2014年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2014年成立的電視台或電視頻道 "wikilink")
 
-1.  [Turner Launching Oh\!K Channel In Southeast
-    Asia](http://www.multichannel.com/news/networks/turner-launching-ohk-channel-southeast-asia/384541)
-2.  [Singaporeans get quick access to Korean shows with TV channel
-    Oh\!K](http://www.straitstimes.com/lifestyle/entertainment/singaporeans-get-quick-access-to-korean-shows-with-tv-channel-ohk)
+1.  [Turner Launching Oh\!K Channel In Southeast Asia](http://www.multichannel.com/news/networks/turner-launching-ohk-channel-southeast-asia/384541)
+2.  [Singaporeans get quick access to Korean shows with TV channel Oh\!K](http://www.straitstimes.com/lifestyle/entertainment/singaporeans-get-quick-access-to-korean-shows-with-tv-channel-ohk)

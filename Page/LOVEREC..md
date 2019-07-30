@@ -1,6 +1,4 @@
-《**LOVEREC.**》是[ALcot於](../Page/ALcot.md "wikilink")2015年6月26日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2016年1月29日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《LOVEREC.
--Mini
-Theaters-》（）。\[2\]後來由萌えAPP發售[Android版](../Page/Android.md "wikilink")\[3\]、[iOS版](https://zh.wikipedia.org/wiki/iOS "wikilink")\[4\]。
+《**LOVEREC.**》是[ALcot](../Page/ALcot.md "wikilink")於2015年6月26日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2016年1月29日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《LOVEREC. -Mini Theaters-》（）。\[2\]後來由萌えAPP發售[Android](../Page/Android.md "wikilink")版\[3\]、[iOS版](https://zh.wikipedia.org/wiki/iOS "wikilink")\[4\]。
 
 ## 故事
 
@@ -37,7 +35,7 @@ Theaters-》（）。\[2\]後來由萌えAPP發售[Android版](../Page/Android.m
 
 ## 評價
 
-《LOVEREC.》獲得[萌系遊戲大賞的純愛系作品獎的金獎](../Page/萌系遊戲大賞.md "wikilink")。\[6\]
+《LOVEREC.》獲得[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")的純愛系作品獎的金獎。\[6\]
 
 ## 參考來源
 
@@ -47,13 +45,7 @@ Theaters-》（）。\[2\]後來由萌えAPP發售[Android版](../Page/Android.m
   - [App版官方網站](http://moeapp.net/special/loverec.html)萌えAPP
   - [Fandisc官方網站](http://www.alcot.biz/product/loverec_fd/index.html)ALcot
 
-[Category:2015年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2015年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink")
-[Category:拍照攝影題材作品](https://zh.wikipedia.org/wiki/Category:拍照攝影題材作品 "wikilink")
+[Category:2015年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2015年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink") [Category:拍照攝影題材作品](https://zh.wikipedia.org/wiki/Category:拍照攝影題材作品 "wikilink")
 
 1.
 2.

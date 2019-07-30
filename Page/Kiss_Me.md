@@ -1,11 +1,8 @@
-《**一吻定情**》是由薩拉薩瓦蒂·翁索姆佩奇執導，[Mike D.
-Angelo](https://zh.wikipedia.org/wiki/Mike_D._Angelo "wikilink")、[李海娜主演的泰國電視劇](../Page/李海娜.md "wikilink")。改编自漫畫《[惡作劇之吻](../Page/淘气小亲亲.md "wikilink")》及日本电视剧《[惡作劇之吻](https://zh.wikipedia.org/wiki/惡作劇之吻 "wikilink")》。
+《**一吻定情**》是由薩拉薩瓦蒂·翁索姆佩奇執導，[Mike D. Angelo](https://zh.wikipedia.org/wiki/Mike_D._Angelo "wikilink")、[李海娜](../Page/李海娜.md "wikilink")主演的泰國電視劇。改编自漫畫《[惡作劇之吻](../Page/淘气小亲亲.md "wikilink")》及日本电视剧《[惡作劇之吻](https://zh.wikipedia.org/wiki/惡作劇之吻 "wikilink")》。
 
 ## 劇情概述
 
-该剧讲述了女主Taliw（[李海娜飾](../Page/李海娜.md "wikilink")）因戏剧性的一吻对天才TenTen （[Mike
-D.
-Angelo飾](https://zh.wikipedia.org/wiki/Mike_D._Angelo "wikilink")）进行穷追不舍的故事，用简单夸张的生活展现了坚持不懈的爱定能换得回报这样一个美好的期盼。
+该剧讲述了女主Taliw（[李海娜](../Page/李海娜.md "wikilink")飾）因戏剧性的一吻对天才TenTen （[Mike D. Angelo飾](https://zh.wikipedia.org/wiki/Mike_D._Angelo "wikilink")）进行穷追不舍的故事，用简单夸张的生活展现了坚持不懈的爱定能换得回报这样一个美好的期盼。
 
 ## 演員陣容
 
@@ -151,7 +148,4 @@ Angelo飾](https://zh.wikipedia.org/wiki/Mike_D._Angelo "wikilink")）进行穷�
 
 ## 作品的變遷
 
-[Category:淘气小亲亲](https://zh.wikipedia.org/wiki/Category:淘气小亲亲 "wikilink")
-[Category:泰國偶像劇](https://zh.wikipedia.org/wiki/Category:泰國偶像劇 "wikilink")
-[Category:2015年电视剧集](https://zh.wikipedia.org/wiki/Category:2015年电视剧集 "wikilink")
-[Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
+[Category:淘气小亲亲](https://zh.wikipedia.org/wiki/Category:淘气小亲亲 "wikilink") [Category:泰國偶像劇](https://zh.wikipedia.org/wiki/Category:泰國偶像劇 "wikilink") [Category:2015年电视剧集](https://zh.wikipedia.org/wiki/Category:2015年电视剧集 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")

@@ -1,18 +1,16 @@
-，是[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")『[小魔女DoReMi](../Page/小魔女DoReMi.md "wikilink")』中的架空角色之一，也是系列作中的主角之一，隸屬**魔法堂(MAHO堂**)的其中一名「小麻煩魔女」，也是故事中的核心角色。日本[配音員為](../Page/配音員.md "wikilink")[千葉千恵巳](https://zh.wikipedia.org/wiki/千葉千恵巳 "wikilink")，中文版配音員為[楊凱凱](../Page/楊凱凱.md "wikilink")→[林美秀](https://zh.wikipedia.org/wiki/林美秀 "wikilink")(第二期31\~49話)。
+，是[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")『[小魔女DoReMi](../Page/小魔女DoReMi.md "wikilink")』中的架空角色之一，也是系列作中的主角之一，隸屬**魔法堂(MAHO堂**)的其中一名「小麻煩魔女」，也是故事中的核心角色。日本[配音員](../Page/配音員.md "wikilink")為[千葉千恵巳](https://zh.wikipedia.org/wiki/千葉千恵巳 "wikilink")，中文版配音員為[楊凱凱](../Page/楊凱凱.md "wikilink")→[林美秀](https://zh.wikipedia.org/wiki/林美秀 "wikilink")(第二期31\~49話)。
 
 ## 個人設定
 
-1990年（平成2年）
-7月30日出生，[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，與擔當角色劇中角色設定的[馬越嘉彦同一天生日](https://zh.wikipedia.org/wiki/馬越嘉彦 "wikilink")，[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")[B型](https://zh.wikipedia.org/wiki/B型 "wikilink")，在[小桃子加入](../Page/飛鳥桃子.md "wikilink")**魔法堂**之前是所有人類魔女見習生中最早出生的。
+1990年（平成2年） 7月30日出生，[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，與擔當角色劇中角色設定的[馬越嘉彦同一天生日](https://zh.wikipedia.org/wiki/馬越嘉彦 "wikilink")，[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")[B型](https://zh.wikipedia.org/wiki/B型 "wikilink")，在[小桃子加入](../Page/飛鳥桃子.md "wikilink")**魔法堂**之前是所有人類魔女見習生中最早出生的。
 
-住在架空的城市美空市美空町，家庭成員由編寫釣魚相關的作家的父親春風溪介，身為家庭主婦的母親及就讀幼稚園的妹妹[春風泡泡四人所組成](../Page/春風泡泡.md "wikilink")，另有住在[飛驒市的祖父春風雄介和祖母春風陸](../Page/飛驒市.md "wikilink")。
+住在架空的城市美空市美空町，家庭成員由編寫釣魚相關的作家的父親春風溪介，身為家庭主婦的母親及就讀幼稚園的妹妹[春風泡泡](../Page/春風泡泡.md "wikilink")四人所組成，另有住在[飛驒市](../Page/飛驒市.md "wikilink")的祖父春風雄介和祖母春風陸。
 
 小奏鳴曲幼稚園畢業後進入美空市立美空第一小學就讀，就讀班級為3年2班⇒4年2班⇒5年1班⇒6年1班，之後美空市立美空國中升學到市立美空高中。
 
 經歷過一次大學考試落榜，四年制大學畢業後回到母校美空第一小學3年2班擔任教師\[1\]
 
-見習生服裝顏色為粉紅色，作為隨從的精靈為「多多」，波龍的音色為**鋼琴**音調，剛好對應其擅長的[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")，使用魔法的咒語為「**霹靂卡
-霹靂拉拉 波波力那貝貝魯多**」。魔幻舞台咒語為「**霹靂卡 霹靂拉拉 輕鬆開朗**」。皇家使者咒語為｢**霹靂卡 皇家使者**｣。
+見習生服裝顏色為粉紅色，作為隨從的精靈為「多多」，波龍的音色為**鋼琴**音調，剛好對應其擅長的[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")，使用魔法的咒語為「**霹靂卡 霹靂拉拉 波波力那貝貝魯多**」。魔幻舞台咒語為「**霹靂卡 霹靂拉拉 輕鬆開朗**」。皇家使者咒語為｢**霹靂卡 皇家使者**｣。
 
 名稱由來為[唱名的前三個音調](https://zh.wikipedia.org/wiki/唱名 "wikilink")。
 
@@ -20,8 +18,7 @@
 
 ## 成為魔女見習生
 
-從幼稚園開始就夢想成為魔女，還會自己自創咒語，某日，因為DoReMi強烈的願望需求\[2\]而來到了「卷機山莉卡的魔法堂」，並識破了店主[魔女莉卡](https://zh.wikipedia.org/wiki/魔女莉卡_\(小魔女DoReMi\) "wikilink")
-的魔女身分而害其被詛咒變成魔女青蛙，而為了賠償魔女莉卡無法做生意的損失，而開始進行了魔女見習生的修行，成為魔女的動機為「希望能鼓起勇氣向喜歡的男生告白」。
+從幼稚園開始就夢想成為魔女，還會自己自創咒語，某日，因為DoReMi強烈的願望需求\[2\]而來到了「卷機山莉卡的魔法堂」，並識破了店主[魔女莉卡](https://zh.wikipedia.org/wiki/魔女莉卡_\(小魔女DoReMi\) "wikilink") 的魔女身分而害其被詛咒變成魔女青蛙，而為了賠償魔女莉卡無法做生意的損失，而開始進行了魔女見習生的修行，成為魔女的動機為「希望能鼓起勇氣向喜歡的男生告白」。
 
 但因為太糊塗的緣故，不但初次變身失敗，魔法都施展的很爛，甚至連飛天掃把都不會控制，甚至還成為兩次測驗不合格，和數百年來最簡單的見習生第九級測驗不合格的魔女見習生。
 
@@ -37,8 +34,7 @@
 
 ### 擺姿勢
 
-在變身後都會說出「我是漂亮的俏魔女
-○○」（「○○」則帶入當事人的名子），並擺出動作，本人的理由則表示「這是氣氛」，而後在其他夥伴加入後也會擺出類似的姿勢和此台詞，但音符和小桃子初次變身時尚未遇到Doremi\[8\]，所以這個動作和台詞是否真為Doremi影響還不得而知。
+在變身後都會說出「我是漂亮的俏魔女 ○○」（「○○」則帶入當事人的名子），並擺出動作，本人的理由則表示「這是氣氛」，而後在其他夥伴加入後也會擺出類似的姿勢和此台詞，但音符和小桃子初次變身時尚未遇到Doremi\[8\]，所以這個動作和台詞是否真為Doremi影響還不得而知。
 
 ### 小花真正的母親
 
@@ -46,8 +42,7 @@
 
 ### 與孫女的相見
 
-小學五年級時、與隱瞞自己身分，實為自己後代的**華米**（姓氏不明）見面\[9\]，對方同樣是魔女見習生，但卻不知道Doremi的魔法見習生身分，而是來到過去的世界想告訴Doremi魔女的存在\[10\]。有與Doremi幾乎一模一樣的長髮，見習生服裝也和Doremi差異極少，而咒語使用「霹靂卡霹靂拉拉
-波波力那貝貝魯多」和「世界最不幸美少女」的口頭禪，以及同樣喜愛牛排這點，都跟Doremi幾乎完全對應。
+小學五年級時、與隱瞞自己身分，實為自己後代的**華米**（姓氏不明）見面\[9\]，對方同樣是魔女見習生，但卻不知道Doremi的魔法見習生身分，而是來到過去的世界想告訴Doremi魔女的存在\[10\]。有與Doremi幾乎一模一樣的長髮，見習生服裝也和Doremi差異極少，而咒語使用「霹靂卡霹靂拉拉 波波力那貝貝魯多」和「世界最不幸美少女」的口頭禪，以及同樣喜愛牛排這點，都跟Doremi幾乎完全對應。
 
 Doremi成年後的家庭情況不明，但從劇中可以得知，華米繼承了春風家的[女兒節娃娃](https://zh.wikipedia.org/wiki/女兒節 "wikilink")。
 
@@ -83,8 +78,7 @@ Doremi成年後的家庭情況不明，但從劇中可以得知，華米繼承�
 
 五歲時學過[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")，到現在都還會彈\[22\]，其實也是因為母親嚴厲的訓練，希望DoReMi成為自己沒能當成的鋼琴演奏家，但因為鋼琴發表會因緊張而失敗，從此便討厭鋼琴。而之後母親為了讓DoReMi心中的陰影消失，所以忍痛賣掉鋼琴，後來因泡泡想學鋼琴的慾望，所以父親再次買回了鋼琴，而因為泡泡的緣故，讓DoReMi也再次練習起了鋼琴。
 
-在五歲時鋼琴發表會的回家途中在餐廳吃到[牛排](../Page/牛排.md "wikilink")，所以從此以後就愛上了，還曾說出將來夢想是「開牛排館」，劇中有很多次吃到牛排的機會全都被錯過了，如第1部第45話中本來期待家中[聖誕大餐有](https://zh.wikipedia.org/wiki/聖誕大餐 "wikilink")「牛排」，結果當晚卻是「雞腿排」，第3部第1話因為迎接小桃子而忘記晚餐有牛排，與華米的對話中知道她們學校營養午餐有牛排而表示羨慕\[23\]，結果到小學畢業為止只成功在五歲那次吃到牛排而已，小說版原本還為了牛排，特別要到小學同學**飯田佳苗**家中開的牛排館打工，但隨後因拒絕不了[魔女莉卡](https://zh.wikipedia.org/wiki/小魔女DoReMi角色列表#魔女莉卡/卷機山 "wikilink")
-的請求而作罷。
+在五歲時鋼琴發表會的回家途中在餐廳吃到[牛排](../Page/牛排.md "wikilink")，所以從此以後就愛上了，還曾說出將來夢想是「開牛排館」，劇中有很多次吃到牛排的機會全都被錯過了，如第1部第45話中本來期待家中[聖誕大餐有](https://zh.wikipedia.org/wiki/聖誕大餐 "wikilink")「牛排」，結果當晚卻是「雞腿排」，第3部第1話因為迎接小桃子而忘記晚餐有牛排，與華米的對話中知道她們學校營養午餐有牛排而表示羨慕\[23\]，結果到小學畢業為止只成功在五歲那次吃到牛排而已，小說版原本還為了牛排，特別要到小學同學**飯田佳苗**家中開的牛排館打工，但隨後因拒絕不了[魔女莉卡](https://zh.wikipedia.org/wiki/小魔女DoReMi角色列表#魔女莉卡/卷機山 "wikilink") 的請求而作罷。
 
 夏天會有「麥茶中毒」的徵狀。
 
@@ -137,23 +131,15 @@ Doremi成年後的家庭情況不明，但從劇中可以得知，華米繼承�
   - [小魔女DoReMi](../Page/小魔女DoReMi.md "wikilink")
   - [小魔女DoReMi角色列表](../Page/小魔女DoReMi角色列表.md "wikilink")
 
-[Category:1999年面世的虛構角色](https://zh.wikipedia.org/wiki/Category:1999年面世的虛構角色 "wikilink")
-[Category:虚构女性動漫角色](https://zh.wikipedia.org/wiki/Category:虚构女性動漫角色 "wikilink")
-[Category:女性日本人動漫角色](https://zh.wikipedia.org/wiki/Category:女性日本人動漫角色 "wikilink")
-[Category:日本動漫兒童角色](https://zh.wikipedia.org/wiki/Category:日本動漫兒童角色 "wikilink")
-[Category:動畫中的兒童角色](https://zh.wikipedia.org/wiki/Category:動畫中的兒童角色 "wikilink")
-[Category:虛構日本小學生](https://zh.wikipedia.org/wiki/Category:虛構日本小學生 "wikilink")
-[Category:虛構魔法師](https://zh.wikipedia.org/wiki/Category:虛構魔法師 "wikilink")
+[Category:1999年面世的虛構角色](https://zh.wikipedia.org/wiki/Category:1999年面世的虛構角色 "wikilink") [Category:虚构女性動漫角色](https://zh.wikipedia.org/wiki/Category:虚构女性動漫角色 "wikilink") [Category:女性日本人動漫角色](https://zh.wikipedia.org/wiki/Category:女性日本人動漫角色 "wikilink") [Category:日本動漫兒童角色](https://zh.wikipedia.org/wiki/Category:日本動漫兒童角色 "wikilink") [Category:動畫中的兒童角色](https://zh.wikipedia.org/wiki/Category:動畫中的兒童角色 "wikilink") [Category:虛構日本小學生](https://zh.wikipedia.org/wiki/Category:虛構日本小學生 "wikilink") [Category:虛構魔法師](https://zh.wikipedia.org/wiki/Category:虛構魔法師 "wikilink")
 
-1.  <http://news.gamme.com.tw/1350933>
-    |過了好幾年的《小魔女DoReMi》長大之後的DoReMi變成成熟美女！？-宅宅新聞
+1.  <http://news.gamme.com.tw/1350933> |過了好幾年的《小魔女DoReMi》長大之後的DoReMi變成成熟美女！？-宅宅新聞
 2.  第1部第1話與第3部第25話
 3.  第1期第7話，魔女莉卡表示第九級測驗會不及格的見習生比稀有動物還珍稀
 4.  第1部第46話，本來是差點許下「牛排吃到飽」的願望，但被兩名好友及時遮嘴攔截，一起升級成第二級，在第3部第27話中，DoReMi有向桃子提到這段往事
 5.  第1部第1話初次成為見習生時就成功使時間暫停，及第2部第46話破解魔法師的魔法等等
 6.  第4部第50話
-7.  <http://www.ettoday.net/dalemon/post/12049>
-    ｜這次真的說再見..小魔女DoReMi放下包包頭長大了-鍵盤大檸檬
+7.  <http://www.ettoday.net/dalemon/post/12049> ｜這次真的說再見..小魔女DoReMi放下包包頭長大了-鍵盤大檸檬
 8.  OVA第8話
 9.  OVA第13話
 10. 在當集中有華米害怕被Doremi識破身分的描寫，但華米卻完全沒有提到**魔女青蛙的詛咒**這件事，顯得很不自然，但因為詛咒在Doremi等人畢業前就已經解除，所以來自未來的華米並不適用魔女青蛙的詛咒，這顯得很不合常理
@@ -162,16 +148,12 @@ Doremi成年後的家庭情況不明，但從劇中可以得知，華米繼承�
 13. 小說版第1巻p12・15・19
 14. 第2部第2話・第49話・OVA第1話
 15. OVA第五話
-16. <http://www.toei-anim.co.jp/tv/doremi_s/episode/summary/19/>
-    |東映動畫對於該集數的介紹，第二部第19話，兩人因此事大吵一架完，第二天羽月感冒請假時，又發生了因沒關好籠門，導致野狗闖入籠中咬死兔子的事件，
-    而DoReMi因為害怕羽月傷心，而隱瞞了羽月而將兔子埋葬，並做了墓碑，並編了「兔子已經被媽媽帶回家去了」的謊，
-    但反而傷透了羽月的心，大罵DoReMi「騙子」，讓DoReMi相當自責，但沒多久後兩人便藉由小提琴和鋼琴和解
+16. <http://www.toei-anim.co.jp/tv/doremi_s/episode/summary/19/> |東映動畫對於該集數的介紹，第二部第19話，兩人因此事大吵一架完，第二天羽月感冒請假時，又發生了因沒關好籠門，導致野狗闖入籠中咬死兔子的事件， 而DoReMi因為害怕羽月傷心，而隱瞞了羽月而將兔子埋葬，並做了墓碑，並編了「兔子已經被媽媽帶回家去了」的謊， 但反而傷透了羽月的心，大罵DoReMi「騙子」，讓DoReMi相當自責，但沒多久後兩人便藉由小提琴和鋼琴和解
 17. 第4部第12話
 18. 小說版最終話，鞠躬時頭敲到麥克風
 19. OVA第一話，對小竹的無能感到看不下去後暗中出手幫忙
 20. 第6期第3巻p32
-21. 這個語癖出自配音員千葉千恵巳，本人表示這出自當時小孩子的流行語，在2003年1月26日放送「[電台廣播：動畫小魔女最終回特別篇](https://zh.wikipedia.org/wiki/電台廣播：動畫小魔女最終回特別篇 "wikilink")
-    中，其中一個單元「動畫意見箱」裡千葉本人的發言
+21. 這個語癖出自配音員千葉千恵巳，本人表示這出自當時小孩子的流行語，在2003年1月26日放送「[電台廣播：動畫小魔女最終回特別篇](https://zh.wikipedia.org/wiki/電台廣播：動畫小魔女最終回特別篇 "wikilink") 中，其中一個單元「動畫意見箱」裡千葉本人的發言
 22. 第1部第41話，曾對恐懼將棋的谷山訴說這段歷史
 23. 出自OVA第13話
 24. 高中時小竹已不再用此稱呼，而是後續被Doremi的學生拿來使用

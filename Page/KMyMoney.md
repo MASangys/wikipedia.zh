@@ -1,5 +1,4 @@
-**KMyMoney**是一個[KDE的](../Page/KDE.md "wikilink")[个人理财管理程式](../Page/个人理财.md "wikilink")\[1\]\[2\]\[3\]。它的操作方式類似於[Microsoft
-Money](../Page/Microsoft_Money.md "wikilink")\[4\]與Quicken\[5\]。它支援不同的帳戶類型，支出與收入分類，銀行帳號調和與匯入／匯出到“QIF”檔案格式。透過外掛程式，也可以使用OFX與HBCI格式。同樣透過外掛程式，也可以匯入與匯出[CSV格式](../Page/逗号分隔值.md "wikilink")。
+**KMyMoney**是一個[KDE](../Page/KDE.md "wikilink")的[个人理财](../Page/个人理财.md "wikilink")管理程式\[1\]\[2\]\[3\]。它的操作方式類似於[Microsoft Money](../Page/Microsoft_Money.md "wikilink")\[4\]與Quicken\[5\]。它支援不同的帳戶類型，支出與收入分類，銀行帳號調和與匯入／匯出到“QIF”檔案格式。透過外掛程式，也可以使用OFX與HBCI格式。同樣透過外掛程式，也可以匯入與匯出[CSV格式](../Page/逗号分隔值.md "wikilink")。
 
 ## 功能
 
@@ -22,7 +21,7 @@ Money](../Page/Microsoft_Money.md "wikilink")\[4\]與Quicken\[5\]。它支援不
 
 這個程式的其他功能包含了可以透過外掛程式與數個選項來擷取投資價格。重覆的項目可以事先排定。舉例來說，每月固定的薪水就可以使用排程模組來排定。
 
-因為以[GNU通用公共许可证釋出](../Page/GNU通用公共许可证.md "wikilink")，所以KMyMoney是[自由软件](../Page/自由软件.md "wikilink")。
+因為以[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")釋出，所以KMyMoney是[自由软件](../Page/自由软件.md "wikilink")。
 
 ## 參見
 
@@ -36,10 +35,8 @@ Money](../Page/Microsoft_Money.md "wikilink")\[4\]與Quicken\[5\]。它支援不
 
 [Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink")
 
-1.  Germany, c't magazin, edition 25, 2011, page 36, "Trinity: KDE 3
-    lebt"
-2.  Germany, c't magazin, edition 19, 2011, page 53, "KMyMoney mit
-    verbessertem Import"
+1.  Germany, c't magazin, edition 25, 2011, page 36, "Trinity: KDE 3 lebt"
+2.  Germany, c't magazin, edition 19, 2011, page 53, "KMyMoney mit verbessertem Import"
 3.  Germany, c't magazin, edition 26, 2009, pp. 84-91, "Komfort-Linux"
 4.
 5.

@@ -1,21 +1,18 @@
-《**ALIVE～Always In Your
-Heart～**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[MYNAME的第四張日語](../Page/MYNAME.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，也是他們轉投[日本環球音樂後首張作品](https://zh.wikipedia.org/wiki/日本環球音樂 "wikilink")，於2016年12月7日以七個版不同版本推出\[1\]。
+《**ALIVE～Always In Your Heart～**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[MYNAME](../Page/MYNAME.md "wikilink")的第四張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，也是他們轉投[日本環球音樂後首張作品](https://zh.wikipedia.org/wiki/日本環球音樂 "wikilink")，於2016年12月7日以七個版不同版本推出\[1\]。
 
 ## 背景
 
 2016年10月1日，H2media娛樂在MYNAME日本官方網站公布第四張專輯將在12月7日發行\[2\]，並在10月11日公開專輯詳細資訊，包含初回限定盤、通常盤及五個成員個人封面盤\[3\]\[4\]。
 
-10月31日，公開封面\[5\]，其中各成員個人封面盤與初回限定盤及通常盤的第十一首歌各有不同；11月18日，MYNAME日本官方[Youtube頻道公開](https://zh.wikipedia.org/wiki/Youtube "wikilink")《ALIVE～Always
-In Your Heart～》試聽影片\[6\]。
+10月31日，公開封面\[5\]，其中各成員個人封面盤與初回限定盤及通常盤的第十一首歌各有不同；11月18日，MYNAME日本官方[Youtube頻道公開](https://zh.wikipedia.org/wiki/Youtube "wikilink")《ALIVE～Always In Your Heart～》試聽影片\[6\]。
 
-專輯發售首天售出18,069張，取得[Oricon公信榜專輯銷售日榜第二名](../Page/Oricon公信榜.md "wikilink")\[7\]，至12月9日升上冠軍位置\[8\]。
+專輯發售首天售出18,069張，取得[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯銷售日榜第二名\[7\]，至12月9日升上冠軍位置\[8\]。
 
 ### 發行版本
 
 此單曲共分為7個發行版本，包括限量版本、通常版本及個人封面版本。
 
-  - 初回限定盤：這版本包括了一片CD和一片收錄《MYNAME 2016 SUMMER LIVE～2nd
-    Story～》片段的DVD\[9\]。
+  - 初回限定盤：這版本包括了一片CD和一片收錄《MYNAME 2016 SUMMER LIVE～2nd Story～》片段的DVD\[9\]。
 
 <!-- end list -->
 
@@ -35,7 +32,7 @@ In Your Heart～》試聽影片\[6\]。
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置     | 銷售量    | 總銷量     | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置     | 銷售量    | 總銷量     | 停留時間 |
 | ---------------------------------------- | -------- | ------ | ------- | ---- |
 | 專輯日榜                                     | 2\[12\]  | 18,069 | 29,656+ | 7星期  |
 | 專輯週榜                                     | 2\[13\]  | 24,029 |         |      |
@@ -71,14 +68,9 @@ In Your Heart～》試聽影片\[6\]。
 
   -
 
-  - [第4張專輯「ALIVE〜Always In Your Heart〜」發售前MYNAME採訪！（4thアルバム「ALIVE〜Always
-    In Your
-    Heart〜」を発売するMYNAMEにインタビュー！）＜前編＞](http://ranran-entame.com/music/43248.html)、[＜後編＞](http://ranran-entame.com/music/43274.html)，專輯專題訪問
+  - [第4張專輯「ALIVE〜Always In Your Heart〜」發售前MYNAME採訪！（4thアルバム「ALIVE〜Always In Your Heart〜」を発売するMYNAMEにインタビュー！）＜前編＞](http://ranran-entame.com/music/43248.html)、[＜後編＞](http://ranran-entame.com/music/43274.html)，專輯專題訪問
 
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:MYNAME音樂專輯](https://zh.wikipedia.org/wiki/Category:MYNAME音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink")
+[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:MYNAME音樂專輯](https://zh.wikipedia.org/wiki/Category:MYNAME音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink")
 
 1.
 

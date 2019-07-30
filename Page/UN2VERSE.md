@@ -1,8 +1,8 @@
-《**UN2VERSE**》是[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[饶舌歌手](../Page/饒舌.md "wikilink")[Jessi的第一張韓語迷你專輯](../Page/Jessi.md "wikilink")，由[YMC娛樂於](../Page/YMC娛樂.md "wikilink")2017年7月13日發佈。此次專輯是Jessi時隔12年發行專輯，在這段期間Jessi以單曲形式在樂壇持續活動著。
+《**UN2VERSE**》是[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[饶舌歌手](../Page/饒舌.md "wikilink")[Jessi](../Page/Jessi.md "wikilink")的第一張韓語迷你專輯，由[YMC娛樂](../Page/YMC娛樂.md "wikilink")於2017年7月13日發佈。此次專輯是Jessi時隔12年發行專輯，在這段期間Jessi以單曲形式在樂壇持續活動著。
 
 ## 發行背景
 
-2017年6月，[YMC娛樂對外宣布旗下歌手](../Page/YMC娛樂.md "wikilink")[Jessi正在積極準備回歸樂壇](../Page/Jessi.md "wikilink")，預定將在7月發行新曲，並在6月22日完成最後錄音\[1\]\[2\]。7月2日，Jessi透過個人[Instagram上傳了專輯預告照](../Page/Instagram.md "wikilink")，預告照上顯示專輯明成為《UN2VERSE》，預定於韓國時間7月13日下午6時發行\[3\]。隔日，Jessi解釋專輯名稱為何取為《UN2VERSE》，Jessi表示：「宇宙就是一切，它包含了萬物、時間與空間。因此，我希望可以像宇宙一樣無所不在，無論是在過去、現在還是未來。」\[4\]。7月7日，Jessi透過個人Instagram公布新曲曲目，確定主打曲為〈Gucci〉\[5\]\[6\]。
+2017年6月，[YMC娛樂](../Page/YMC娛樂.md "wikilink")對外宣布旗下歌手[Jessi](../Page/Jessi.md "wikilink")正在積極準備回歸樂壇，預定將在7月發行新曲，並在6月22日完成最後錄音\[1\]\[2\]。7月2日，Jessi透過個人[Instagram](../Page/Instagram.md "wikilink")上傳了專輯預告照，預告照上顯示專輯明成為《UN2VERSE》，預定於韓國時間7月13日下午6時發行\[3\]。隔日，Jessi解釋專輯名稱為何取為《UN2VERSE》，Jessi表示：「宇宙就是一切，它包含了萬物、時間與空間。因此，我希望可以像宇宙一樣無所不在，無論是在過去、現在還是未來。」\[4\]。7月7日，Jessi透過個人Instagram公布新曲曲目，確定主打曲為〈Gucci〉\[5\]\[6\]。
 
 ## 曲目列表
 
@@ -45,9 +45,7 @@
 
   -
   -
-[Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink")
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink") [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 

@@ -1,4 +1,4 @@
-**H<sub>2</sub>O** 是一支美国[硬核朋克乐队](../Page/硬核朋克.md "wikilink")，于1994年成立于[纽约](../Page/纽约.md "wikilink")。
+**H<sub>2</sub>O** 是一支美国[硬核朋克](../Page/硬核朋克.md "wikilink")乐队，于1994年成立于[纽约](../Page/纽约.md "wikilink")。
 
 ## 历史
 
@@ -63,19 +63,12 @@
 
 ## 外部链接
 
-  - [Official
-    website](https://web.archive.org/web/20160622230556/http://www.h2ogo.com/)
-  - [Singer Toby Morse's site promoting a clean
-    lifestyle](http://www.OneLifeOneChance.com/)
-  - [Interview with Adam and Rusty
-    (2009)](https://web.archive.org/web/20110524181034/http://www.thepunksite.com/interviews.php?page=h20)
-  - [Interview with Toby on Late Night Wallflower
-    (2008)](https://web.archive.org/web/20080830042530/http://www.latenightwallflower.com/site/2008/05/27/interview-with-toby-morse-of-h2o/)
-  - [The band talks about their tattoos with Inked
-    Magazine](http://inkedmag.com/inked_people/47/)
-  - [ChangeTheRecord.net interview
-    – 14/08/09](https://web.archive.org/web/20090830084143/http://changetherecord.net/2009/08/23/interview-h2o/)
-  - [PMAKid.com
-    interview](http://www.pmakid.com/2011/05/interview-with-toby-morse-from-h2o-and.html)
+  - [Official website](https://web.archive.org/web/20160622230556/http://www.h2ogo.com/)
+  - [Singer Toby Morse's site promoting a clean lifestyle](http://www.OneLifeOneChance.com/)
+  - [Interview with Adam and Rusty (2009)](https://web.archive.org/web/20110524181034/http://www.thepunksite.com/interviews.php?page=h20)
+  - [Interview with Toby on Late Night Wallflower (2008)](https://web.archive.org/web/20080830042530/http://www.latenightwallflower.com/site/2008/05/27/interview-with-toby-morse-of-h2o/)
+  - [The band talks about their tattoos with Inked Magazine](http://inkedmag.com/inked_people/47/)
+  - [ChangeTheRecord.net interview – 14/08/09](https://web.archive.org/web/20090830084143/http://changetherecord.net/2009/08/23/interview-h2o/)
+  - [PMAKid.com interview](http://www.pmakid.com/2011/05/interview-with-toby-morse-from-h2o-and.html)
 
 [Category:1995年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1995年成立的音樂團體 "wikilink")

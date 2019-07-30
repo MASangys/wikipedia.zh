@@ -1,4 +1,4 @@
-《**DEATHTOPIA**》（死托邦）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[山田惠庸的](https://zh.wikipedia.org/wiki/山田惠庸 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，[講談社出版](https://zh.wikipedia.org/wiki/講談社 "wikilink")，於雙周刊《[Evening](../Page/Evening.md "wikilink")》連載；中文版由[玉皇朝發行](../Page/玉皇朝.md "wikilink")。
+《**DEATHTOPIA**》（死托邦）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[山田惠庸的](https://zh.wikipedia.org/wiki/山田惠庸 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，[講談社出版](https://zh.wikipedia.org/wiki/講談社 "wikilink")，於雙周刊《[Evening](../Page/Evening.md "wikilink")》連載；中文版由[玉皇朝](../Page/玉皇朝.md "wikilink")發行。
 
 ## 故事簡介
 
@@ -169,22 +169,12 @@ ISBN 978-4-06-362349-9（特裝版）</p></td>
 
 ## 外部連結
 
-  - [「DEATHTOPIA」 - 講談社Comic
-    plus](http://kc.kodansha.co.jp/title?code=1000006775)
+  - [「DEATHTOPIA」 - 講談社Comic plus](http://kc.kodansha.co.jp/title?code=1000006775)
 
-  - [DEATHTOPIA －デストピア－ -
-    Evening官方網站](http://evening.moae.jp/lineup/364)
+  - [DEATHTOPIA －デストピア－ - Evening官方網站](http://evening.moae.jp/lineup/364)
 
   -
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:Evening](https://zh.wikipedia.org/wiki/Category:Evening "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink")
-[Category:推理漫畫](https://zh.wikipedia.org/wiki/Category:推理漫畫 "wikilink")
-[Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink")
-[Category:關東地方背景作品](https://zh.wikipedia.org/wiki/Category:關東地方背景作品 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:Evening](https://zh.wikipedia.org/wiki/Category:Evening "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink") [Category:推理漫畫](https://zh.wikipedia.org/wiki/Category:推理漫畫 "wikilink") [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink") [Category:關東地方背景作品](https://zh.wikipedia.org/wiki/Category:關東地方背景作品 "wikilink")
 
 1.  第61話回想起當時10歲遇到蘇我，至今已經過去15年，因此約為25歲以上.
 2.  附插圖集特裝版

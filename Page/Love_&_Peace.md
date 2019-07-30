@@ -1,7 +1,4 @@
-《**Love &
-Peace**》是梁漢文婚後首張推出的個人迷你專輯(EP)，以抒情情歌為主，共收錄7首全新歌。同時亦是金牌唱片易名為「金牌大風」後所發行第一張梁漢文唱片。Edmond
-請來同樣是新秀歌唱比賽出身的吳國敬監製新歌「住家丁麵」，歌詞中帶出他愛家的一面。另一曲「痛快」則由雷頌德炮製，此外，碟內還收錄了 Edmond
-為網上遊戲的主題曲「安魂戰曲」和「最愛」。
+《**Love & Peace**》是梁漢文婚後首張推出的個人迷你專輯(EP)，以抒情情歌為主，共收錄7首全新歌。同時亦是金牌唱片易名為「金牌大風」後所發行第一張梁漢文唱片。Edmond 請來同樣是新秀歌唱比賽出身的吳國敬監製新歌「住家丁麵」，歌詞中帶出他愛家的一面。另一曲「痛快」則由雷頌德炮製，此外，碟內還收錄了 Edmond 為網上遊戲的主題曲「安魂戰曲」和「最愛」。
 
 ## 曲目
 
@@ -22,5 +19,4 @@ Peace**》是梁漢文婚後首張推出的個人迷你專輯(EP)，以抒情情
   - [新城勁爆頒獎禮2009](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink")－新城勁爆歌曲
   - [新城勁爆頒獎禮2009](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink")－新城勁爆卡拉OK歌曲
 
-[Category:梁漢文音樂專輯](https://zh.wikipedia.org/wiki/Category:梁漢文音樂專輯 "wikilink")
-[Category:2009年迷你專輯](https://zh.wikipedia.org/wiki/Category:2009年迷你專輯 "wikilink")
+[Category:梁漢文音樂專輯](https://zh.wikipedia.org/wiki/Category:梁漢文音樂專輯 "wikilink") [Category:2009年迷你專輯](https://zh.wikipedia.org/wiki/Category:2009年迷你專輯 "wikilink")

@@ -1,11 +1,8 @@
-《**BLEACH
-漂靈：劇場版－鑽石星塵的反叛**》（）是於2007年改编自日本漫畫家[久保帶人作品](https://zh.wikipedia.org/wiki/久保帶人 "wikilink")《[BLEACH
-漂靈](../Page/BLEACH.md "wikilink")》的2007年上映[劇場版第](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")2作。
+《**BLEACH 漂靈：劇場版－鑽石星塵的反叛**》（）是於2007年改编自日本漫畫家[久保帶人作品](https://zh.wikipedia.org/wiki/久保帶人 "wikilink")《[BLEACH 漂靈](../Page/BLEACH.md "wikilink")》的2007年上映[劇場版第](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")2作。
 
 ## 故事簡介
 
-日番谷率領的十番隊，在運送屍魂界王族祕寶「
-王印」時遭受不明攻擊，被奪走了王印，和首腦交手的日番谷忽然留下亂菊而離隊。幾天後，在現世接到「日番谷叛逃」報告的一護，對屍魂界的反應存疑。不久，受傷的日番谷被發現，送到黑崎醫院，恢復意識的日番谷卻什麼也不說，結果一護和日番谷意見失和，兩人大打出手。此時，不明的「虛」闖進戰鬥中，表示是來迎接日番谷，日番谷沒否認。
+日番谷率領的十番隊，在運送屍魂界王族祕寶「 王印」時遭受不明攻擊，被奪走了王印，和首腦交手的日番谷忽然留下亂菊而離隊。幾天後，在現世接到「日番谷叛逃」報告的一護，對屍魂界的反應存疑。不久，受傷的日番谷被發現，送到黑崎醫院，恢復意識的日番谷卻什麼也不說，結果一護和日番谷意見失和，兩人大打出手。此時，不明的「虛」闖進戰鬥中，表示是來迎接日番谷，日番谷沒否認。
 
 受到衝擊的一護敗下陣來，此時受十番隊副隊長亂菊之託前來秘密探查日番谷的露琪亞和戀次，救了負傷的一護。沿著日番谷留下的話語和不明的「虛」的線索追查的一護一行人、戀次得到八番隊隊長京樂春水的協助，追查到一個已死的死神「草冠」身上。而春水不知被何襲擊受到重傷，現場還殘留冰輪丸攻擊的痕跡。
 
@@ -75,6 +72,4 @@
 ## 外部連結
 
   -
-[Category:BLEACH](https://zh.wikipedia.org/wiki/Category:BLEACH "wikilink")
-[Category:2007年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2007年日本劇場動畫 "wikilink")
-[Category:日本電視動畫的電影版](https://zh.wikipedia.org/wiki/Category:日本電視動畫的電影版 "wikilink")
+[Category:BLEACH](https://zh.wikipedia.org/wiki/Category:BLEACH "wikilink") [Category:2007年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2007年日本劇場動畫 "wikilink") [Category:日本電視動畫的電影版](https://zh.wikipedia.org/wiki/Category:日本電視動畫的電影版 "wikilink")

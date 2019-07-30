@@ -221,12 +221,8 @@
 
   - [Official site](http://clsknightsbasketball.blogspot.com/)
 
-[Category:東南亞職業籃球聯賽球隊](https://zh.wikipedia.org/wiki/Category:東南亞職業籃球聯賽球隊 "wikilink")
-[Category:印尼籃球](https://zh.wikipedia.org/wiki/Category:印尼籃球 "wikilink")
+[Category:東南亞職業籃球聯賽球隊](https://zh.wikipedia.org/wiki/Category:東南亞職業籃球聯賽球隊 "wikilink") [Category:印尼籃球](https://zh.wikipedia.org/wiki/Category:印尼籃球 "wikilink")
 
-1.  [印尼泗水CLS騎士加入ABL
-    成東方男籃新季對手](https://www.upower.com.hk/article/108449-%E5%8D%B0%E5%B0%BC%E6%B3%97%E6%B0%B4cls%E9%A8%8E%E5%A3%AB%E5%8A%A0%E5%85%A5abl-%E6%88%90%E6%9D%B1%E6%96%B9%E7%94%B7%E7%B1%83%E6%96%B0%E5%AD%A3%E5%B0%8D%E6%89%8B)
-    UPower 2017年09月30日
-2.  [老字號傳統勁旅 - 印尼泗水騎士](https://www.sportsv.net/articles/45436) 運動視界
-    2017/10/01
+1.  [印尼泗水CLS騎士加入ABL 成東方男籃新季對手](https://www.upower.com.hk/article/108449-%E5%8D%B0%E5%B0%BC%E6%B3%97%E6%B0%B4cls%E9%A8%8E%E5%A3%AB%E5%8A%A0%E5%85%A5abl-%E6%88%90%E6%9D%B1%E6%96%B9%E7%94%B7%E7%B1%83%E6%96%B0%E5%AD%A3%E5%B0%8D%E6%89%8B) UPower 2017年09月30日
+2.  [老字號傳統勁旅 - 印尼泗水騎士](https://www.sportsv.net/articles/45436) 運動視界 2017/10/01
 3.

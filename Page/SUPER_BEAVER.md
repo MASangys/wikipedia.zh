@@ -33,7 +33,7 @@
 2009年
 
   -
-    6月，推出第一張單曲「深呼吸」，正式出道。同名主打歌「深呼吸」為[火影忍者疾風傳的片尾曲](../Page/火影忍者疾風傳.md "wikilink")，C/W曲「道標」為[火影忍者少年篇的片頭曲](../Page/火影忍者.md "wikilink")。
+    6月，推出第一張單曲「深呼吸」，正式出道。同名主打歌「深呼吸」為[火影忍者疾風傳](../Page/火影忍者疾風傳.md "wikilink")的片尾曲，C/W曲「道標」為[火影忍者](../Page/火影忍者.md "wikilink")少年篇的片頭曲。
     8月，第二張單曲「二つの旅路」。
     11月，第三張單曲「シアワセ」，與魔法のiらんど和M-ON\!合作企劃「ボクとキミ.com」，點閱率超過一百萬。
     11月末，發行第一張完整專輯「幸福軌道」。
@@ -48,8 +48,7 @@
 
   -
     舉辦超過100場LIVE活動。
-    離開原屬事務所[EPIC Records
-    Japan](https://zh.wikipedia.org/wiki/EPIC_Records_Japan "wikilink")。
+    離開原屬事務所[EPIC Records Japan](https://zh.wikipedia.org/wiki/EPIC_Records_Japan "wikilink")。
 
 2012年
 
@@ -68,11 +67,9 @@
 
   -
     2月，在eggman内成立了新唱片公司\[NOiD\]。第三張專輯「361°」。
-    3月，全國巡演開始。最初日於涉谷eggman售票之后，很快售罄。巡回打破了過去最多的人數紀錄，於涉谷CLUB
-    QUATTRO的最終場進行的800人活動也全數售完。巡迴之後還參加了10-FEET主辦的夏日祭“京都大作戰”。
+    3月，全國巡演開始。最初日於涉谷eggman售票之后，很快售罄。巡回打破了過去最多的人數紀錄，於涉谷CLUB QUATTRO的最終場進行的800人活動也全數售完。巡迴之後還參加了10-FEET主辦的夏日祭“京都大作戰”。
     9月，第五張單曲「らしさ / わたくしごと」。吉他手柳沢因肝臟問題緊急住院。而LIVE活動則由其他吉他手支援。
-    11月，柳沢復歸。從渋谷CLUB QUATTRO開始「らしさ /
-    わたくしごと」發行之巡演，東京、名古屋、大阪、福岡舉辦的個人LIVE，門票售罄。
+    11月，柳沢復歸。從渋谷CLUB QUATTRO開始「らしさ / わたくしごと」發行之巡演，東京、名古屋、大阪、福岡舉辦的個人LIVE，門票售罄。
 
 2015年
 
@@ -911,6 +908,4 @@ NOID-0027:通常盤</p></td>
       -
       -
       -
-[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink")
-[Category:EPIC_Records_Japan](https://zh.wikipedia.org/wiki/Category:EPIC_Records_Japan "wikilink")
-[Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink")
+[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink") [Category:EPIC_Records_Japan](https://zh.wikipedia.org/wiki/Category:EPIC_Records_Japan "wikilink") [Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink")

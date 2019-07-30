@@ -16,13 +16,7 @@
 
 ## 參考資料
 
-[Category:2005年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2005年開業電子遊戲公司 "wikilink")
-[Category:2015年結業公司](https://zh.wikipedia.org/wiki/Category:2015年結業公司 "wikilink")
-[Category:日本已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本已結業電子遊戲公司 "wikilink")
-[Category:文京區公司](https://zh.wikipedia.org/wiki/Category:文京區公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:2005年日本建立](https://zh.wikipedia.org/wiki/Category:2005年日本建立 "wikilink")
-[Category:2015年日本廢除](https://zh.wikipedia.org/wiki/Category:2015年日本廢除 "wikilink")
+[Category:2005年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2005年開業電子遊戲公司 "wikilink") [Category:2015年結業公司](https://zh.wikipedia.org/wiki/Category:2015年結業公司 "wikilink") [Category:日本已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本已結業電子遊戲公司 "wikilink") [Category:文京區公司](https://zh.wikipedia.org/wiki/Category:文京區公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:2005年日本建立](https://zh.wikipedia.org/wiki/Category:2005年日本建立 "wikilink") [Category:2015年日本廢除](https://zh.wikipedia.org/wiki/Category:2015年日本廢除 "wikilink")
 
 1.
 2.  [《Fate/EXTRA》制作公司IMAGEEPOCH宣布破产](http://xw.qq.com/comic/20150513046973)

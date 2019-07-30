@@ -146,7 +146,7 @@
 <td><p>逃出地標(奪得隊伍Running Ball)</p></td>
 <td><p>兒童隊<strong>勝出</strong><br />
 成人隊脸被画然后坐公交車到国立剧场<br />
-<em><strong>註：</strong><a href="../Page/金妍兒.md" title="wikilink">金妍兒傳達任務</a></em></p></td>
+<em><strong>註：</strong><a href="../Page/金妍兒.md" title="wikilink">金妍兒</a>傳達任務</em></p></td>
 </tr>
 <tr class="odd">
 <td><p>005</p></td>
@@ -165,8 +165,8 @@
 <span style=color:#FF0000><strong>紅隊</strong></span><br />
 金鐘國、Gary、哈哈、宋仲基、咸慇晶</p></td>
 <td><p>藍隊<strong>勝出</strong><br />
-紅隊畫花臉從<a href="../Page/光化門站.md" title="wikilink">光化門站乘坐</a><a href="https://zh.wikipedia.org/wiki/首爾地鐵5號線" title="wikilink">地鐵到</a><a href="https://zh.wikipedia.org/wiki/汝矣島站" title="wikilink">汝矣島站</a><br />
-'<strong>'註：</strong>本集為<a href="../Page/宋智孝.md" title="wikilink">宋智孝開始以成員身份正式參與錄影</a>。</p></td>
+紅隊畫花臉從<a href="../Page/光化門站.md" title="wikilink">光化門站</a>乘坐<a href="https://zh.wikipedia.org/wiki/首爾地鐵5號線" title="wikilink">地鐵到</a><a href="https://zh.wikipedia.org/wiki/汝矣島站" title="wikilink">汝矣島站</a><br />
+'<strong>'註：</strong>本集為<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>開始以成員身份正式參與錄影。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -224,7 +224,7 @@
 <span style=color:#FF0000><strong>紅隊</strong></span><br />
 金鐘國、Gary、哈哈、宋仲基、尹世雅</p></td>
 <td><p>紅隊與宋智孝<strong>勝出</strong><br />
-藍隊畫花臉及穿懲罰服裝到<a href="../Page/弘益大學.md" title="wikilink">弘益大學附近的便利店吃即食麵</a></p></td>
+藍隊畫花臉及穿懲罰服裝到<a href="../Page/弘益大學.md" title="wikilink">弘益大學</a>附近的便利店吃即食麵</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -329,7 +329,7 @@
 <span style=color:#0000FF><strong>任務隊</strong></span><br />
 劉在錫、池錫辰、宋智孝、Tony安、金光奎</p></td>
 <td><p>池錫辰、金鐘國、哈哈、李光洙、宋仲基<strong>勝出</strong><br />
-劉在錫、Gary、Tony安穿熱褲、金光奎穿長褲、與貼上鬍鬚的宋智孝到<a href="../Page/紙杻站.md" title="wikilink">紙杻站乘坐</a><a href="../Page/首爾地鐵3號線.md" title="wikilink">地鐵</a></p></td>
+劉在錫、Gary、Tony安穿熱褲、金光奎穿長褲、與貼上鬍鬚的宋智孝到<a href="../Page/紙杻站.md" title="wikilink">紙杻站</a>乘坐<a href="../Page/首爾地鐵3號線.md" title="wikilink">地鐵</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -355,7 +355,7 @@
 <span style=color:#FF0000><strong>追擊隊</strong></span><br />
 池錫辰、金鐘國、李光洙、俞利</p></td>
 <td><p>劉在錫、池錫辰、哈哈、宋智孝、宋仲基<strong>勝出</strong><br />
-金鐘國、Gary、李光洙穿熱褲、與貼上鬍鬚的俞利到<a href="../Page/鷺梁津水產市場.md" title="wikilink">鷺梁津水產市場受罰</a></p></td>
+金鐘國、Gary、李光洙穿熱褲、與貼上鬍鬚的俞利到<a href="../Page/鷺梁津水產市場.md" title="wikilink">鷺梁津水產市場</a>受罰</p></td>
 </tr>
 <tr class="even">
 <td><p>015</p></td>
@@ -381,7 +381,7 @@
 <span style=color:#FF0000><strong>追擊隊</strong></span><br />
 金鐘國、Gary、哈哈、宋智孝、高周元</p></td>
 <td><p>金鐘國、哈哈、宋智孝、李光洙、鄭容和<strong>勝出</strong><br />
-劉在錫、池錫辰、Gary、宋仲基、高周元穿學生設計的熱褲到<a href="../Page/新堂洞.md" title="wikilink">新堂洞吃炒年糕</a></p></td>
+劉在錫、池錫辰、Gary、宋仲基、高周元穿學生設計的熱褲到<a href="../Page/新堂洞.md" title="wikilink">新堂洞</a>吃炒年糕</p></td>
 </tr>
 <tr class="odd">
 <td><p>因改播SBS創社20週年特輯，節目停播一週。</p></td>
@@ -436,7 +436,7 @@
 <span style=color:#FF0000><strong>任務隊</strong></span><br />
 劉在錫、池錫辰、Gary、哈哈、宋智孝、李光洙、宋仲基、Lizzy、Nichkhun</p></td>
 <td><p>金鐘國、Gary、哈哈、Nichkhun<strong>勝出</strong><br />
-劉在錫、池錫辰、宋仲基穿熱褲、與貼上鬍鬚的宋智孝、Lizzy於<a href="../Page/明洞站.md" title="wikilink">明洞站外與市民免費擁抱</a><br />
+劉在錫、池錫辰、宋仲基穿熱褲、與貼上鬍鬚的宋智孝、Lizzy於<a href="../Page/明洞站.md" title="wikilink">明洞站</a>外與市民免費擁抱<br />
 李光洙於電影《平壤城》拍攝場地穿熱褲與其他演員免費擁抱</p></td>
 </tr>
 <tr class="even">
@@ -541,8 +541,7 @@ Gary、哈哈、宋智孝</p></td>
 
 ## 收视率
 
-以下紀錄《**Running
-Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink")》整體收視，<span style=color:red>**紅色**</span>表示為該年度最高收視率，<span style=color:blue>**藍色**</span>則表示為該年度最低收視率。
+以下紀錄《**Running Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink")》整體收視，<span style=color:red>**紅色**</span>表示為該年度最高收視率，<span style=color:blue>**藍色**</span>則表示為該年度最低收視率。
 
 | 集數 \#                       | 播放日期   | TNmS 收視                                | AGB 收視                                 |
 | --------------------------- | ------ | -------------------------------------- | -------------------------------------- |
@@ -583,9 +582,7 @@ Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink
   -
   -
   -
-[Category:Running_Man](https://zh.wikipedia.org/wiki/Category:Running_Man "wikilink")
-[Category:韓國電視節目各集列表](https://zh.wikipedia.org/wiki/Category:韓國電視節目各集列表 "wikilink")
-[Category:2010年電視節目列表](https://zh.wikipedia.org/wiki/Category:2010年電視節目列表 "wikilink")
+[Category:Running_Man](https://zh.wikipedia.org/wiki/Category:Running_Man "wikilink") [Category:韓國電視節目各集列表](https://zh.wikipedia.org/wiki/Category:韓國電視節目各集列表 "wikilink") [Category:2010年電視節目列表](https://zh.wikipedia.org/wiki/Category:2010年電視節目列表 "wikilink")
 
 1.
 2.

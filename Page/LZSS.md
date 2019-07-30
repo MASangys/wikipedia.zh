@@ -1,6 +1,4 @@
-**Lempel–Ziv–Storer–Szymanski**（**LZSS**）是一个[无损数据压缩](../Page/无损数据压缩.md "wikilink")[算法](../Page/算法.md "wikilink")，属于[LZ77的派生](../Page/LZ77与LZ78.md "wikilink")，1982年由James
-Storer和创建。LZSS发布于《Journal of the ACM》\[1\]的“Data compression via textual
-substitution”。\[2\]
+**Lempel–Ziv–Storer–Szymanski**（**LZSS**）是一个[无损数据压缩](../Page/无损数据压缩.md "wikilink")[算法](../Page/算法.md "wikilink")，属于[LZ77的派生](../Page/LZ77与LZ78.md "wikilink")，1982年由James Storer和创建。LZSS发布于《Journal of the ACM》\[1\]的“Data compression via textual substitution”。\[2\]
 
 LZSS是一种字典编码技术。它会尝试以符号字符串替换相同字符串为一个字典位置的引用。
 
@@ -39,10 +37,7 @@ LZ77与LZSS的主要区别是，LZ77的字典引用可能比被替换的字符�
 
 ## 实现
 
-许多流行的存档格式如、[ARJ](https://zh.wikipedia.org/wiki/ARJ "wikilink")、[RAR](../Page/RAR.md "wikilink")、、[LHarc都使用LZSS而不是LZ](../Page/LHA_\(檔案格式\).md "wikilink")77作为主要的压缩算法；原文字符和长度距离对的编码方式各有不同，最常见的选项是[霍夫曼编码](../Page/霍夫曼编码.md "wikilink")。大多数实现源于1989年Haruhiko
-Okumura的代码。\[3\]\[4\][Allegro程序库第四版可以编码和解码LZSS格式](../Page/Allegro.md "wikilink")\[5\]，但该特性在第五版中被去除。[Game
-Boy Advance](../Page/Game_Boy_Advance.md "wikilink")
-BIOS可以解码一个稍作修改的LZSS格式。\[6\]
+许多流行的存档格式如、[ARJ](https://zh.wikipedia.org/wiki/ARJ "wikilink")、[RAR](../Page/RAR.md "wikilink")、、[LHarc都使用LZSS而不是LZ](../Page/LHA_\(檔案格式\).md "wikilink")77作为主要的压缩算法；原文字符和长度距离对的编码方式各有不同，最常见的选项是[霍夫曼编码](../Page/霍夫曼编码.md "wikilink")。大多数实现源于1989年Haruhiko Okumura的代码。\[3\]\[4\][Allegro](../Page/Allegro.md "wikilink")程序库第四版可以编码和解码LZSS格式\[5\]，但该特性在第五版中被去除。[Game Boy Advance](../Page/Game_Boy_Advance.md "wikilink") BIOS可以解码一个稍作修改的LZSS格式。\[6\]
 
 ## 参见
 
@@ -54,8 +49,7 @@ BIOS可以解码一个稍作修改的LZSS格式。\[6\]
 [Category:无损压缩算法](https://zh.wikipedia.org/wiki/Category:无损压缩算法 "wikilink")
 
 1.  （1982年，928页至951页）
-2.  <cite class="citation journal">Storer, James A.; Szymanski, Thomas
-    G. (October 1982). </cite>
+2.  <cite class="citation journal">Storer, James A.; Szymanski, Thomas G. (October 1982). </cite>
 3.  Simtel.net mirror.
 4.  Haruhiko Okumura.
 5.  Hargreaves, Shawn, et al.

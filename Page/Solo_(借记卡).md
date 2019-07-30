@@ -2,7 +2,7 @@
 
 ## 运作
 
-早期，Solo卡被作为多功能[现金卡](https://zh.wikipedia.org/wiki/现金卡 "wikilink")，由[國民威斯敏斯特銀行](https://zh.wikipedia.org/wiki/國民威斯敏斯特銀行 "wikilink")、[苏格兰皇家银行发放给](https://zh.wikipedia.org/wiki/苏格兰皇家银行 "wikilink")11岁以上的持卡人，[汇丰银行](https://zh.wikipedia.org/wiki/英国汇丰银行 "wikilink")（早先的米特蘭銀行）发放给13岁以上的持卡人。不过如今苏格兰皇家银行\[3\]和汇丰银行已经用[Visa金融卡将其取而代之](../Page/Visa金融卡.md "wikilink")。
+早期，Solo卡被作为多功能[现金卡](https://zh.wikipedia.org/wiki/现金卡 "wikilink")，由[國民威斯敏斯特銀行](https://zh.wikipedia.org/wiki/國民威斯敏斯特銀行 "wikilink")、[苏格兰皇家银行发放给](https://zh.wikipedia.org/wiki/苏格兰皇家银行 "wikilink")11岁以上的持卡人，[汇丰银行](https://zh.wikipedia.org/wiki/英国汇丰银行 "wikilink")（早先的米特蘭銀行）发放给13岁以上的持卡人。不过如今苏格兰皇家银行\[3\]和汇丰银行已经用[Visa金融卡](../Page/Visa金融卡.md "wikilink")将其取而代之。
 
 与它的主要竞争对手（如）一样，Solo卡的所有交易均需收到来自发卡行的电子授权。如果持卡人的账户不足结清资金，授权就不会被给予。
 
@@ -16,19 +16,11 @@ Solo卡也被颁发给具有不良信用记录的人们。发卡银行可能承�
 
   - [Solo website](http://www.solocard.co.uk/index.html)
   - [Maestro UK](http://www.maestrocard.com/uk/)
-  - [MasterCard Worldwide
-    (UK)](https://web.archive.org/web/20150813170248/http://www.mastercard.com/uk/)
+  - [MasterCard Worldwide (UK)](https://web.archive.org/web/20150813170248/http://www.mastercard.com/uk/)
 
-[Category:借记卡](https://zh.wikipedia.org/wiki/Category:借记卡 "wikilink")
-[Category:借记卡发卡行](https://zh.wikipedia.org/wiki/Category:借记卡发卡行 "wikilink")
+[Category:借记卡](https://zh.wikipedia.org/wiki/Category:借记卡 "wikilink") [Category:借记卡发卡行](https://zh.wikipedia.org/wiki/Category:借记卡发卡行 "wikilink")
 
-1.  [Barclaycard BIN Ranges and
-    Rules](http://www.barclaycard.co.uk/business/documents/pdfs/bin_rules.pdf)
-
-2.  ["Changes to Solo Card
-    Scheme"](http://www.commidea.com/en-GB/United-Kingdom/Start/News/Industry-News/Changes-to-Solo-Card-Scheme/)
-
+1.  [Barclaycard BIN Ranges and Rules](http://www.barclaycard.co.uk/business/documents/pdfs/bin_rules.pdf)
+2.  ["Changes to Solo Card Scheme"](http://www.commidea.com/en-GB/United-Kingdom/Start/News/Industry-News/Changes-to-Solo-Card-Scheme/)
 3.
-4.  ["What payment methods do you
-    accept?"](http://www.ocado.com/webshop/content/help3/charges#003),
-    Ocado help.
+4.  ["What payment methods do you accept?"](http://www.ocado.com/webshop/content/help3/charges#003), Ocado help.

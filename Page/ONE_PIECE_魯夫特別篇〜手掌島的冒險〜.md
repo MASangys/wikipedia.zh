@@ -1,11 +1,8 @@
-《**ONE PIECE 魯夫特別篇〜手掌島的冒險〜**》（）是電視動畫《[ONE
-PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2012年12月15日在日本播出。
+《**ONE PIECE 魯夫特別篇〜手掌島的冒險〜**》（）是電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2012年12月15日在日本播出。
 
 ## 製作
 
-該2小時特別節目為紀念電影《[ONE PIECE FILM
-Z](https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_Z "wikilink")》上映而製作，在上映日於電視台同日播出\[1\]。為「週六PREMIUM」時段播出的《[ONE
-PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第二彈。
+該2小時特別節目為紀念電影《[ONE PIECE FILM Z](https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_Z "wikilink")》上映而製作，在上映日於電視台同日播出\[1\]。為「週六PREMIUM」時段播出的《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第二彈。
 
 至於本作魯夫與傑克的回憶為重新繪製的版本，在劇情上與原作有一定區別。
 
@@ -174,7 +171,7 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視�
     手掌島的蠟雕工匠，兒子是赫吉斯。會將自己所見過的知名海賊製成蠟像，曾將海賊蠟像秀給魯夫看。劇中結尾中製作出魯夫的蠟像。
   -
     聲優：[桐本琢也](https://zh.wikipedia.org/wiki/桐本琢也 "wikilink")（日本）；[陳彥鈞](../Page/陳彥鈞.md "wikilink")（台灣）
-    迪亞哥的兒子，海兵。因意外知道比力奇准將的邪惡目的，但比力奇囚禁並封鎖了消息。後來被潛入海軍基地的魯夫汗香吉士救出。
+    迪亞哥的兒子，海兵。因意外知道比力奇准將的邪惡目的，但比力奇囚禁並封鎖了消息。後來被潛入海軍基地的魯夫和香吉士救出。
   -
     聲優：[龍田直樹](../Page/龍田直樹.md "wikilink")（日本）；[林谷珍](../Page/林谷珍.md "wikilink")、[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")【布偶腹語術】（台灣）
     海軍准將兼手掌島海軍基地的司令官，特別崇拜上將黃猿。欺騙手掌島民為其製造私人武器，但並不是為了守護和平、維護正義而製造，僅是要滿足升官的慾望。劇中最後被魯夫擊敗。
@@ -298,10 +295,6 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視�
 
 ## 外部連結
 
-[Category:ONE_PIECE](https://zh.wikipedia.org/wiki/Category:ONE_PIECE "wikilink")
-[Category:ONE_PIECE特別篇](https://zh.wikipedia.org/wiki/Category:ONE_PIECE特別篇 "wikilink")
-[Category:2012年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2012年日本電視動畫 "wikilink")
-[Category:富士電視台動畫](https://zh.wikipedia.org/wiki/Category:富士電視台動畫 "wikilink")
-[Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink")
+[Category:ONE_PIECE特別篇](https://zh.wikipedia.org/wiki/Category:ONE_PIECE特別篇 "wikilink") [Category:2012年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2012年日本電視動畫 "wikilink") [Category:富士電視台動畫](https://zh.wikipedia.org/wiki/Category:富士電視台動畫 "wikilink") [Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink")
 
 1.

@@ -1,4 +1,4 @@
-《**PRIMAL×HEARTS2**》是日本[MARMALADE](../Page/MARMALADE.md "wikilink")（ま～まれぇど）在2015年10月30日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，[PRIMAL×HEARTS的續作](../Page/PRIMAL×HEARTS.md "wikilink")。故事的時間點是在前作的6年之後，主要的場景也還是間之島學園。
+《**PRIMAL×HEARTS2**》是日本[MARMALADE](../Page/MARMALADE.md "wikilink")（ま～まれぇど）在2015年10月30日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，[PRIMAL×HEARTS](../Page/PRIMAL×HEARTS.md "wikilink")的續作。故事的時間點是在前作的6年之後，主要的場景也還是間之島學園。
 
 ## 故事
 
@@ -67,8 +67,7 @@
 
 ## CD
 
-2015年10月30日由solfa發售PRIMAL×HEARTS2
-キャラクターソング＆サウンドアルバム，收錄各女主角的ED歌曲和遊戲的BGM。\[5\]
+2015年10月30日由solfa發售PRIMAL×HEARTS2 キャラクターソング＆サウンドアルバム，收錄各女主角的ED歌曲和遊戲的BGM。\[5\]
 
 ## 評價
 
@@ -80,33 +79,18 @@ PRIMAL×HEARTS2在Getchu.com舉辦的美少女遊戲大賞中獲得綜合部門�
 
   - [MARMALADE](http://www.web-marmalade.com/)
 
-[Category:2015年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2015年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:學生會題材作品](https://zh.wikipedia.org/wiki/Category:學生會題材作品 "wikilink")
+[Category:2015年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2015年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:學生會題材作品](https://zh.wikipedia.org/wiki/Category:學生會題材作品 "wikilink")
 
-1.  [PRIMAL×HEARTS2
-    初回限定版](http://www.getchu.com/soft.phtml?id=850597)Getchu.com
-2.  [Primal x Hearts 2](https://vndb.org/v17038)The Visual Novel
-    Database
+1.  [PRIMAL×HEARTS2 初回限定版](http://www.getchu.com/soft.phtml?id=850597)Getchu.com
+2.  [Primal x Hearts 2](https://vndb.org/v17038)The Visual Novel Database
 3.  [プライマルハーツ2](http://erogetrailers.com/soft/13206)ErogeTrailers
-4.  [PRIMAL×HEARTS2](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=21663)ErogameScape
-    -エロゲー批評空間-
-5.  [PRIMAL×HEARTS2
-    キャラクターソング＆サウンドアルバム](http://www.getchu.com/soft.phtml?id=875376)Getchu.com
-6.  [美少女ゲーム大賞2015
-    －総合部門投票・結果発表－](http://www.getchu.com/pc/2015_g_ranking/)Getchu.com
-7.  [美少女ゲーム大賞2015
-    －グラフィック部門投票・結果発表－](http://www.getchu.com/pc/2015_g_ranking/graphic.html)Getchu.com
-8.  [美少女ゲーム大賞2015
-    －ムービー部門投票・結果発表－](http://www.getchu.com/pc/2015_g_ranking/movie.html)Getchu.com
-9.  [美少女ゲーム大賞2015
-    －キャラクター部門投票・結果発表－](http://www.getchu.com/pc/2015_g_ranking/chara.html)Getchu.com
-10. [美少女ゲーム大賞2015
-    －エロ部門投票・結果発表－](http://www.getchu.com/pc/2015_g_ranking/eros.html)Getchu.com
+4.  [PRIMAL×HEARTS2](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=21663)ErogameScape -エロゲー批評空間-
+5.  [PRIMAL×HEARTS2 キャラクターソング＆サウンドアルバム](http://www.getchu.com/soft.phtml?id=875376)Getchu.com
+6.  [美少女ゲーム大賞2015 －総合部門投票・結果発表－](http://www.getchu.com/pc/2015_g_ranking/)Getchu.com
+7.  [美少女ゲーム大賞2015 －グラフィック部門投票・結果発表－](http://www.getchu.com/pc/2015_g_ranking/graphic.html)Getchu.com
+8.  [美少女ゲーム大賞2015 －ムービー部門投票・結果発表－](http://www.getchu.com/pc/2015_g_ranking/movie.html)Getchu.com
+9.  [美少女ゲーム大賞2015 －キャラクター部門投票・結果発表－](http://www.getchu.com/pc/2015_g_ranking/chara.html)Getchu.com
+10. [美少女ゲーム大賞2015 －エロ部門投票・結果発表－](http://www.getchu.com/pc/2015_g_ranking/eros.html)Getchu.com
 11. [2015年間ランキング](http://moe-gameaward.com/annual/2015.html)[萌えゲーアワード](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")
 12. [2015年10月発売タイトル月間賞投票](http://moe-gameaward.com/ranking/index.html?year_id=2015&month_id=10)萌えゲーアワード
-13. [萌えゲーアワード 2015年度
-    受賞作品一覧](http://moe-gameaward.com/prize/2015/pink.html#p03)萌えゲーアワード
+13. [萌えゲーアワード 2015年度 受賞作品一覧](http://moe-gameaward.com/prize/2015/pink.html#p03)萌えゲーアワード

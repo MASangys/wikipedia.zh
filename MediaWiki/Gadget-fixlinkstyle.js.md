@@ -6,8 +6,7 @@
 `*`
 `* 該工具會在``模板下面顯示個按鈕，或者在「編輯」模式頁面最底下添一個「修復link style」按鈕。`
 `*`
-`* 查看已知bug或報告bug：見`[`User``
- ``talk:逆襲的天邪鬼/fixlinkstyle.js`](https://zh.wikipedia.org/wiki/User_talk:逆襲的天邪鬼/fixlinkstyle.js "wikilink")
+`* 查看已知bug或報告bug：見`[`User``   ``talk:逆襲的天邪鬼/fixlinkstyle.js`](https://zh.wikipedia.org/wiki/User_talk:逆襲的天邪鬼/fixlinkstyle.js "wikilink")
 `*`
 `* 更新日誌：`
 `* 0.1（2016-10-14）：修復部分連結有中文但未找到的bug；加入一些細節，例如查看差異、突出顯示文內的跨語言連結。`
@@ -60,8 +59,7 @@
 
 </div>
 
-本工具用于处理<a href="https://zh.wikipedia.org/wiki/WP:MOSIW" target="_blank">跨语言链接</a>和章节标题上的链接，摘掉条目的{{<a href="https://zh.wikipedia.org/wiki/Template:Link_style" target="_blank">link
-style</a>}}模板。<span style="color:red;">在清理过程中请认真检查上下文！</span>
+本工具用于处理<a href="https://zh.wikipedia.org/wiki/WP:MOSIW" target="_blank">跨语言链接</a>和章节标题上的链接，摘掉条目的{{<a href="https://zh.wikipedia.org/wiki/Template:Link_style" target="_blank">link style</a>}}模板。<span style="color:red;">在清理过程中请认真检查上下文！</span>
 
 请选择各跨语言链接的处理方法：',
 
@@ -135,8 +133,7 @@ style</a>}}模板。<span style="color:red;">在清理过程中请认真检查�
 
 </div>
 
-本工具用於處理<a href="https://zh.wikipedia.org/wiki/WP:MOSIW" target="_blank">跨語言連結</a>和章節標題上的連結，摘掉條目的{{<a href="https://zh.wikipedia.org/wiki/Template:Link_style" target="_blank">link
-style</a>}}模板。<span style="color:red;">在清理過程中請認真檢查上下文！</span>
+本工具用於處理<a href="https://zh.wikipedia.org/wiki/WP:MOSIW" target="_blank">跨語言連結</a>和章節標題上的連結，摘掉條目的{{<a href="https://zh.wikipedia.org/wiki/Template:Link_style" target="_blank">link style</a>}}模板。<span style="color:red;">在清理過程中請認真檢查上下文！</span>
 
 請選擇各跨語言連結的處理方法：',
 
@@ -208,9 +205,7 @@ style</a>}}模板。<span style="color:red;">在清理過程中請認真檢查�
 `                   name: '`[`中文`](https://zh.wikipedia.org/wiki/中文 "wikilink")`',`
 `                   replace: function (text) {`
 `                       return text.replace(/([“‘「『《〈]?)`\[\[([^\[\]`]*?)\]\]([”’」』》〉]?)（`\[\[:([^\[\]`]*?):([^`\[\]`]*?)\]\](）?)/, function (match, p1, p2, p3, p4, p5, p6) {`
-`                           return p1 + '`[`'``   ``+``   ``p2``
- ``+``
- ``'`](https://zh.wikipedia.org/wiki/'_+_p2_+_' "wikilink")`' + p3;`
+`                           return p1 + '`[`'``   ``+``   ``p2``   ``+``   ``'`](https://zh.wikipedia.org/wiki/'_+_p2_+_' "wikilink")`' + p3;`
 `                       });`
 `                   }`
 `               },`
@@ -220,9 +215,7 @@ style</a>}}模板。<span style="color:red;">在清理過程中請認真檢查�
 `                       return text.replace(/([“‘「『《〈]?)`\[\[([^\[\]`]*?)\]\]([”’」』》〉]?)（`\[\[:([^\[\]`]*?):([^`\[\]`]*?)\]\](）?)/, function (match, p1, p2, p3, p4, p5, p6) {`
 `                           var p5s = p5.split('|');`
 `                           var p5t = p5s.length>1 ? p5s[1] : p5s[0];`
-`                           return p1 + '`[`'``   ``+``   ``p2``
- ``+``
- ``'`](https://zh.wikipedia.org/wiki/'_+_p2_+_' "wikilink")`' + p3 + '（``' + p6;`
+`                           return p1 + '`[`'``   ``+``   ``p2``   ``+``   ``'`](https://zh.wikipedia.org/wiki/'_+_p2_+_' "wikilink")`' + p3 + '（``' + p6;`
 `                       });`
 `                   }`
 `               },`
@@ -232,9 +225,7 @@ style</a>}}模板。<span style="color:red;">在清理過程中請認真檢查�
 `                       return text.replace(/([“‘「『《〈]?)`\[\[([^\[\]`]*?)\]\]([”’」』》〉]?)（`\[\[:([^\[\]`]*?):([^`\[\]`]*?)\]\](）?)/, function (match, p1, p2, p3, p4, p5, p6) {`
 `                           var p5s = p5.split('|');`
 `                           var p5t = p5s.length>1 ? p5s[1] : p5s[0];`
-`                           return p1 + '`[`'``   ``+``   ``p2``
- ``+``
- ``'`](https://zh.wikipedia.org/wiki/'_+_p2_+_' "wikilink")`' + p3 + '（' + p5t + p6;`
+`                           return p1 + '`[`'``   ``+``   ``p2``   ``+``   ``'`](https://zh.wikipedia.org/wiki/'_+_p2_+_' "wikilink")`' + p3 + '（' + p5t + p6;`
 `                       });`
 `                   }`
 `               },`
@@ -282,8 +273,7 @@ style</a>}}模板。<span style="color:red;">在清理過程中請認真檢查�
 `                   name: '`[`中文`](https://zh.wikipedia.org/wiki/中文 "wikilink")`（外文）',`
 `                   replace: function (text) {`
 `                       return text.replace(/`\[\[:([^\[\]`]*?):([^`\[\]`]*?)\|([^`\[\]`]*?)\]\]/, function (match, p1, p2, p3) {`
-`                           return '`[`'``   ``+``   ``p3``   ``+``
- ``'`](https://zh.wikipedia.org/wiki/'_+_p3_+_' "wikilink")`（' + p2 + '）';`
+`                           return '`[`'``   ``+``   ``p3``   ``+``   ``'`](https://zh.wikipedia.org/wiki/'_+_p3_+_' "wikilink")`（' + p2 + '）';`
 `                       });`
 `                   }`
 `               },`
@@ -291,8 +281,7 @@ style</a>}}模板。<span style="color:red;">在清理過程中請認真檢查�
 `                   name: '`[`中文`](https://zh.wikipedia.org/wiki/中文 "wikilink")`（``）',`
 `                   replace: function (text) {`
 `                       return text.replace(/`\[\[:([^\[\]`]*?):([^`\[\]`]*?)\|([^`\[\]`]*?)\]\]/, function (match, p1, p2, p3) {`
-`                           return '`[`'``   ``+``   ``p3``   ``+``
- ``'`](https://zh.wikipedia.org/wiki/'_+_p3_+_' "wikilink")`（``）';`
+`                           return '`[`'``   ``+``   ``p3``   ``+``   ``'`](https://zh.wikipedia.org/wiki/'_+_p3_+_' "wikilink")`（``）';`
 `                       });`
 `                   }`
 `               },`
@@ -1125,8 +1114,7 @@ style</a>}}模板。<span style="color:red;">在清理過程中請認真檢查�
 
 <div>
 
-').append($('<a href="#" class="fixlinkstyle-quickreplace-undo">' +
-UI.UNDO + '</a>
+').append($('<a href="#" class="fixlinkstyle-quickreplace-undo">' + UI.UNDO + '</a>
 ')
 
 `                   .attr('data-link-id', index)`
@@ -1734,8 +1722,7 @@ UI.UNDO + '</a>
 
 <center>
 
-<a id="fixlinkstyle" href="#"><span class="mw-ui-button mw-ui-progressive">'
-+ UI.CLEARBUTTON + '</span></a>
+<a id="fixlinkstyle" href="#"><span class="mw-ui-button mw-ui-progressive">' + UI.CLEARBUTTON + '</span></a>
 
 </center>
 
@@ -1760,8 +1747,7 @@ UI.UNDO + '</a>
 
 <center>
 
-<a id="fixlinkstyle" href="#"><span class="mw-ui-button mw-ui-progressive">'
-+ UI.CLEARBUTTON + '</span></a>
+<a id="fixlinkstyle" href="#"><span class="mw-ui-button mw-ui-progressive">' + UI.CLEARBUTTON + '</span></a>
 
 </center>
 

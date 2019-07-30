@@ -1,11 +1,8 @@
-《**PIECE**》是韓國男子組合[MONSTA
-X首張日語專輯](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")，於2018年4月25日以通常盤、初回限定盤A及初回限定盤B三種版本發行\[1\]。
+《**PIECE**》是韓國男子組合[MONSTA X首張日語專輯](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")，於2018年4月25日以通常盤、初回限定盤A及初回限定盤B三種版本發行\[1\]。
 
 ## 背景
 
-2018年2月14日，STARSHIP娛樂公佈MONSTA
-X將發行日語專輯《PIECE》\[2\]，同時披露預計收錄曲，包括四首原創日語歌《KILLIN'
-ME》、《Aura》、《PUZZLE》、《\#GFYL》\[3\]；專輯所有版本的封面則在3月28日公開\[4\]。
+2018年2月14日，STARSHIP娛樂公佈MONSTA X將發行日語專輯《PIECE》\[2\]，同時披露預計收錄曲，包括四首原創日語歌《KILLIN' ME》、《Aura》、《PUZZLE》、《\#GFYL》\[3\]；專輯所有版本的封面則在3月28日公開\[4\]。
 
 ### 發行版本
 
@@ -29,7 +26,7 @@ ME》、《Aura》、《PUZZLE》、《\#GFYL》\[3\]；專輯所有版本的封
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置    | 銷售量     | 總銷量                 | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置    | 銷售量     | 總銷量                 | 停留時間 |
 | ---------------------------------------- | ------- | ------- | ------------------- | ---- |
 | 專輯日榜                                     | 4\[8\]  | －       | 48,666张 \[9\]\[10\] | 6週   |
 | 專輯週榜                                     | 3\[11\] | 23,963张 |                     |      |
@@ -65,9 +62,7 @@ ME》、《Aura》、《PUZZLE》、《\#GFYL》\[3\]；專輯所有版本的封
 
 ## 參考文獻
 
-[Category:MONSTA_X音樂專輯](https://zh.wikipedia.org/wiki/Category:MONSTA_X音樂專輯 "wikilink")
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
+[Category:MONSTA_X音樂專輯](https://zh.wikipedia.org/wiki/Category:MONSTA_X音樂專輯 "wikilink") [Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
 
 1.
 

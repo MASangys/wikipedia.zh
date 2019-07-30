@@ -1,5 +1,4 @@
-**尼爾森NV**（Nielsen Holdings
-N.V.）是一家全球性的資訊和市場測量公司，總部位於[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")。
+**尼爾森NV**（Nielsen Holdings N.V.）是一家全球性的資訊和市場測量公司，總部位於[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")。
 
 ## 历史
 
@@ -17,9 +16,7 @@ N.V.）是一家全球性的資訊和市場測量公司，總部位於[紐約](h
   -
   - [Nielsen Wire](http://www.nielsenwire.com) - Nielsen news blog
 
-[Category:1923年成立的公司](https://zh.wikipedia.org/wiki/Category:1923年成立的公司 "wikilink")
-[Category:总部位于纽约市的公司](https://zh.wikipedia.org/wiki/Category:总部位于纽约市的公司 "wikilink")
-[Category:美国市场研究公司](https://zh.wikipedia.org/wiki/Category:美国市场研究公司 "wikilink")
+[Category:1923年成立的公司](https://zh.wikipedia.org/wiki/Category:1923年成立的公司 "wikilink") [Category:总部位于纽约市的公司](https://zh.wikipedia.org/wiki/Category:总部位于纽约市的公司 "wikilink") [Category:美国市场研究公司](https://zh.wikipedia.org/wiki/Category:美国市场研究公司 "wikilink")
 
 1.
 2.  Nielsen 10-K Report 2011 February 22, 2012

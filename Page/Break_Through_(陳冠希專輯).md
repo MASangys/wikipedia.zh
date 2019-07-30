@@ -1,5 +1,4 @@
-《**Break
-Through**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳冠希的第](../Page/陳冠希.md "wikilink")5張個人[音樂專輯](../Page/音樂專輯.md "wikilink")，於2002年7月3日推出。
+《**Break Through**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳冠希](../Page/陳冠希.md "wikilink")的第5張個人[音樂專輯](../Page/音樂專輯.md "wikilink")，於2002年7月3日推出。
 
 ## 曲目
 
@@ -7,6 +6,4 @@ Through**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md 
 
 ## 獎項
 
-[Category:陳冠希音樂專輯](https://zh.wikipedia.org/wiki/Category:陳冠希音樂專輯 "wikilink")
-[Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:陳冠希音樂專輯](https://zh.wikipedia.org/wiki/Category:陳冠希音樂專輯 "wikilink") [Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

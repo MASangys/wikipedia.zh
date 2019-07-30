@@ -1,20 +1,12 @@
-《**Odd**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee的第](../Page/SHINee.md "wikilink")4張韓語正規專輯，於2015年5月18日發行\[1\]，主打曲目為《View》。其後在8月3日發行重新包裝版《Married
-To The Music》，以同名歌曲《Married To The Music》進行打歌活動\[2\]。
+《**Odd**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")的第4張韓語正規專輯，於2015年5月18日發行\[1\]，主打曲目為《View》。其後在8月3日發行重新包裝版《Married To The Music》，以同名歌曲《Married To The Music》進行打歌活動\[2\]。
 
 ## 概要
 
-  - 2015年5月11日下午兩點，[SHINee於官網無預警公開](../Page/SHINee.md "wikilink")《SHINee
-    샤이니_2015 Comeback
-    Trailer》預告，並公布SHINee即將於2015年5月18日以完全體回歸，睽違一年七個月發表正規四輯《Odd》\[3\]。
+  - 2015年5月11日下午兩點，[SHINee](../Page/SHINee.md "wikilink")於官網無預警公開《SHINee 샤이니_2015 Comeback Trailer》預告，並公布SHINee即將於2015年5月18日以完全體回歸，睽違一年七個月發表正規四輯《Odd》\[3\]。
   - 5月12日，官方公開第二段名為Odd的預告、首批概念照\[4\]，並宣布將於在5月15、16、17日的《》演唱會首次公開新專輯舞台\[5\]。
-  - 5月13日，公開名為View的第三段預告及第二批概念照，同時公布主打曲《View》由成員[鐘鉉作詞](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")，英國LDN
-    Noise團隊作曲，為Deep House曲風\[6\]。5月14日公開第三批預告照及曲目，收錄曲《Odd
-    Eye》由成員[鐘鉉作詞](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")、作曲、編曲，是鐘鉉針對各成員嗓音特色所創作的曲子，為SHINee專輯首次收錄成員自作曲\[7\]。
-  - SHINee並於5月15日起的三場演唱會上提前公開五首收錄曲舞台，分別為《Love Sick》、《成為你的歌 （An Ode To
-    You）》、《Woof Woof》、《View》及《再演（An
-    Encore）》，5月18日公開收錄曲音源及發售實體專輯，5月19日12時公布主打曲《View》的MV，並自5月21日的《[M\!
-    Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》起開展打歌活動。
-  - 主打曲《View》由成員[鐘鉉作詞](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")，並由曾與成員[泰民合作的舞者](../Page/泰民.md "wikilink")編舞，MV外景遠赴[泰國拍攝](https://zh.wikipedia.org/wiki/泰國 "wikilink")，為SHINee音樂錄影帶中首次採用外景。
+  - 5月13日，公開名為View的第三段預告及第二批概念照，同時公布主打曲《View》由成員[鐘鉉作詞](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")，英國LDN Noise團隊作曲，為Deep House曲風\[6\]。5月14日公開第三批預告照及曲目，收錄曲《Odd Eye》由成員[鐘鉉作詞](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")、作曲、編曲，是鐘鉉針對各成員嗓音特色所創作的曲子，為SHINee專輯首次收錄成員自作曲\[7\]。
+  - SHINee並於5月15日起的三場演唱會上提前公開五首收錄曲舞台，分別為《Love Sick》、《成為你的歌 （An Ode To You）》、《Woof Woof》、《View》及《再演（An Encore）》，5月18日公開收錄曲音源及發售實體專輯，5月19日12時公布主打曲《View》的MV，並自5月21日的《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》起開展打歌活動。
+  - 主打曲《View》由成員[鐘鉉作詞](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")，並由曾與成員[泰民](../Page/泰民.md "wikilink")合作的舞者編舞，MV外景遠赴[泰國拍攝](https://zh.wikipedia.org/wiki/泰國 "wikilink")，為SHINee音樂錄影帶中首次採用外景。
 
 ## 曲目
 
@@ -150,7 +142,7 @@ To The Music》，以同名歌曲《Married To The Music》進行打歌活動\[2
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
 | ---------------------------------------- | ---- | ------ | ------- | ---- |
 | 專輯日榜                                     | \-   | \-     | 22,501+ | 4星期  |
 | 專輯週榜                                     | 6    | 8,656  |         |      |
@@ -240,12 +232,7 @@ KT Music</p></td>
 
 ## 參考資料
 
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:SHINee音樂專輯](https://zh.wikipedia.org/wiki/Category:SHINee音樂專輯 "wikilink")
-[Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2015年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2015年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯月榜冠軍作品 "wikilink")
+[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:SHINee音樂專輯](https://zh.wikipedia.org/wiki/Category:SHINee音樂專輯 "wikilink") [Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink") [Category:2015年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon單曲週榜冠軍作品 "wikilink") [Category:2015年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯月榜冠軍作品 "wikilink")
 
 1.
 

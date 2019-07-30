@@ -1,6 +1,4 @@
-《**Swap⇔Swap**》是創作的日本[四格漫畫作品](../Page/四格漫畫.md "wikilink")。於[芳文社杂誌](../Page/芳文社.md "wikilink")《[Manga
-Time Kirara
-Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2014年10月号至12月号客串連載，2015年3月号正式連載至2019年4月号。共發行4本[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")。
+《**Swap⇔Swap**》是創作的日本[四格漫畫](../Page/四格漫畫.md "wikilink")作品。於[芳文社](../Page/芳文社.md "wikilink")杂誌《[Manga Time Kirara Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2014年10月号至12月号客串連載，2015年3月号正式連載至2019年4月号。共發行4本[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")。
 
 ## 剧情简介
 
@@ -47,11 +45,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2014年10月号至12月�
 
 ## 參考資料
 
-[Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink")
-[Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink")
-[Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink")
-[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink")
-[Category:身体交换题材漫画](https://zh.wikipedia.org/wiki/Category:身体交换题材漫画 "wikilink")
+[Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink") [Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink") [Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:身体交换题材漫画](https://zh.wikipedia.org/wiki/Category:身体交换题材漫画 "wikilink")
 
 1.  单行本第一册89页
 

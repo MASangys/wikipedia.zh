@@ -1,20 +1,12 @@
-**view-source**
-[URI方案是部分](../Page/统一资源标志符.md "wikilink")[网页浏览器采用的一种特殊](../Page/网页浏览器.md "wikilink")[URL](../Page/统一资源定位符.md "wikilink")，功效是显示指定资源的源代码。\[1\]
+**view-source** [URI方案是部分](../Page/统一资源标志符.md "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")采用的一种特殊[URL](../Page/统一资源定位符.md "wikilink")，功效是显示指定资源的源代码。\[1\]
 
-举例来说，显示[URI为](https://zh.wikipedia.org/wiki/URI "wikilink")
-<http://www.example.com>
-的页面源代码只需使用：**view-source:http://www.example.com**
+举例来说，显示[URI为](https://zh.wikipedia.org/wiki/URI "wikilink") <http://www.example.com> 的页面源代码只需使用：**view-source:http://www.example.com**
 
-2011年5月25日，“view-source”URI方案在[IANA](https://zh.wikipedia.org/wiki/IANA "wikilink")\[2\]按[RFC
-4395正式注册](https://zh.wikipedia.org/wiki/:rfc:4395 "wikilink")。
+2011年5月25日，“view-source”URI方案在[IANA](https://zh.wikipedia.org/wiki/IANA "wikilink")\[2\]按[RFC 4395正式注册](https://zh.wikipedia.org/wiki/:rfc:4395 "wikilink")。
 
 ## 浏览器支持
 
-[Mozilla Firefox和](../Page/Firefox.md "wikilink")[Internet
-Explorer两者支持此方案](../Page/Internet_Explorer.md "wikilink")，不过Internet
-Explorer自[Windows XP](../Page/Windows_XP.md "wikilink")
-SP2开始因安全原因停止支持。\[3\]Firefox也遇到了类似的安全问题（结合view-source和javascript
-URI\[4\]），但在问题修复后于Firefox 1.5\[5\]中继续支持。
+[Mozilla Firefox和](../Page/Firefox.md "wikilink")[Internet Explorer两者支持此方案](../Page/Internet_Explorer.md "wikilink")，不过Internet Explorer自[Windows XP](../Page/Windows_XP.md "wikilink") SP2开始因安全原因停止支持。\[3\]Firefox也遇到了类似的安全问题（结合view-source和javascript URI\[4\]），但在问题修复后于Firefox 1.5\[5\]中继续支持。
 
 <table>
 <thead>
@@ -83,12 +75,9 @@ URI\[4\]），但在问题修复后于Firefox 1.5\[5\]中继续支持。
 
 <references />
 
-[Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink")
-[Category:URI方案](https://zh.wikipedia.org/wiki/Category:URI方案 "wikilink")
-[Category:2011年建立](https://zh.wikipedia.org/wiki/Category:2011年建立 "wikilink")
+[Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink") [Category:URI方案](https://zh.wikipedia.org/wiki/Category:URI方案 "wikilink") [Category:2011年建立](https://zh.wikipedia.org/wiki/Category:2011年建立 "wikilink")
 
-1.  [IETF
-    Draft](https://tools.ietf.org/html/draft-yevstifeyev-view-source-uri)
+1.  [IETF Draft](https://tools.ietf.org/html/draft-yevstifeyev-view-source-uri)
 2.
 3.
 4.

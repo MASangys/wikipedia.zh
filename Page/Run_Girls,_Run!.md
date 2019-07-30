@@ -1,24 +1,14 @@
-**Run Girls,
-Run\!**，是出自[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")《[Wake
-Up, Girls\!
-新章](https://zh.wikipedia.org/wiki/Wake_Up,_Girls!#新章 "wikilink")》的3人女性[聲優組合](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")，所屬唱片公司是。
+**Run Girls, Run\!**，是出自[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")《[Wake Up, Girls\! 新章](https://zh.wikipedia.org/wiki/Wake_Up,_Girls!#新章 "wikilink")》的3人女性[聲優組合](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")，所屬唱片公司是。
 
-2017年初，由與[81 Produce主辦的甄選會](../Page/81_Produce.md "wikilink")「Wake Up,
-Girls！AUDITION第3回動畫主唱試鏡」\[1\]中，選出合格者[林鼓子](../Page/林鼓子.md "wikilink")、[森嶋優花](../Page/森嶋優花.md "wikilink")、[厚木那奈美](../Page/厚木那奈美.md "wikilink")\[2\]共3人所組成。
+2017年初，由與[81 Produce主辦的甄選會](../Page/81_Produce.md "wikilink")「Wake Up, Girls！AUDITION第3回動畫主唱試鏡」\[1\]中，選出合格者[林鼓子](../Page/林鼓子.md "wikilink")、[森嶋優花](../Page/森嶋優花.md "wikilink")、[厚木那奈美](../Page/厚木那奈美.md "wikilink")\[2\]共3人所組成。
 
-之後3人並在同年10月首播的電視動畫《[Wake Up,
-Girls！新章](../Page/Wake_Up,_Girls!.md "wikilink")》中以同名角色和同名聲優組合首次出演。
+之後3人並在同年10月首播的電視動畫《[Wake Up, Girls！新章](../Page/Wake_Up,_Girls!.md "wikilink")》中以同名角色和同名聲優組合首次出演。
 
 ## 來歷
 
-2017年7月30日，從[Wonder
-Festival](../Page/Wonder_Festival.md "wikilink")2017\[夏\]內活動「WONDERFUL
-HOBBY LIFE FOR YOU\!\! 26」的「Wake Up,
-Girls！AUDITION第3回動畫主唱試鏡」\[3\]徵選會中選出3名合格者之後，同時發表該團體結成的消息\[4\]。
+2017年7月30日，從[Wonder Festival](../Page/Wonder_Festival.md "wikilink")2017\[夏\]內活動「WONDERFUL HOBBY LIFE FOR YOU\!\! 26」的「Wake Up, Girls！AUDITION第3回動畫主唱試鏡」\[3\]徵選會中選出3名合格者之後，同時發表該團體結成的消息\[4\]。
 
-2017年8月25日，於[Animelo Summer Live
-2017第一天的活動](https://zh.wikipedia.org/wiki/Animelo_Summer_Live#2017年 "wikilink")「
-THE ～」中出席\[5\]。
+2017年8月25日，於[Animelo Summer Live 2017第一天的活動](https://zh.wikipedia.org/wiki/Animelo_Summer_Live#2017年 "wikilink")「 THE ～」中出席\[5\]。
 
 之後在2017年9月24日、10月28日、11月25日舉辦總計3回共6場的「」公演活動。並於9月24日的公演活動中發表她們的第一首歌曲『✕』を初披露\[6\]\[7\]\[8\]。
 
@@ -70,6 +60,7 @@ THE ～」中出席\[5\]。
 | 2nd   | 2018年5月2日   | ****              | EYCA-11865/B | EYCA-11866                                    |
 | 3rd   | 2018年10月31日 | **Go！Up！！**       | EYCA-12056/B | EYCA-12057                                    |
 | 4th   | 2019年2月6日   | '''Break the Blue | '''          | EYCA-12225                                    |
+| 5th   | 2019年5月29日  | ****              | EYCA-12530/B | EYCA-12531                                    |
 
 ### 參加作品
 
@@ -138,6 +129,11 @@ THE ～」中出席\[5\]。
 <td><p>never-ending</p></td>
 <td></td>
 <td><p>電視動畫《星光頻道》主題歌<ref name=“prichan3”>{{Cite web|url=<a href="https://rungirlsrun.jp/news/detail.php?id=1067820%7Cscript-title=ja:アニメ「キラッとプリ☆チャン」第4クール主題歌「never-ending">https://rungirlsrun.jp/news/detail.php?id=1067820|script-title=ja:アニメ「キラッとプリ☆チャン」第4クール主題歌「never-ending</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -306,7 +302,7 @@ THE ～」中出席\[5\]。
 </tr>
 <tr class="even">
 <td><p>9月29日</p></td>
-<td><p><a href="../Page/中野太陽廣場.md" title="wikilink">中野太陽廣場會堂</a></p></td>
+<td><p><a href="../Page/中野太陽廣場.md" title="wikilink">中野太陽廣場</a>會堂</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -338,7 +334,7 @@ THE ～」中出席\[5\]。
 <td><p>合同活動</p></td>
 <td><p>12月9日</p></td>
 <td></td>
-<td><p><a href="../Page/幕張展覽館.md" title="wikilink">幕張展覽館展示大廳</a></p></td>
+<td><p><a href="../Page/幕張展覽館.md" title="wikilink">幕張展覽館</a>展示大廳</p></td>
 </tr>
 <tr class="even">
 <td><p>合同活動</p></td>
@@ -347,16 +343,88 @@ THE ～」中出席\[5\]。
 <td><p><a href="../Page/舞濱圓形劇場.md" title="wikilink">舞濱圓形劇場</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>活動</p></td>
+<td><p>12月24日</p></td>
+<td><p>Run Girls, Run！！[28]</p></td>
+<td><p><a href="../Page/安利美特.md" title="wikilink">animate池袋本店</a>9樓</p></td>
+</tr>
+<tr class="even">
 <td><p>2019年</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>合同活動</p></td>
 <td><p>1月19日</p></td>
 <td><p>ANIMAX MUSIX 2019 OSAKA supported by </p></td>
 <td><p><a href="../Page/大阪城音樂廳.md" title="wikilink">大阪城音樂廳</a></p></td>
+</tr>
+<tr class="even">
+<td><p>活動</p></td>
+<td><p>1月22日</p></td>
+<td><p>Run Girls, Rado</p></td>
+<td><p>SPECIAL -×WUG- 公開録音<ref>{{Cite web|url=<a href="https://rungirlsrun.jp/news/detail.php?id=1068907%7Cscript-title=ja:Run">https://rungirlsrun.jp/news/detail.php?id=1068907|script-title=ja:Run</a> Girls, Radio</p></td>
+</tr>
+<tr class="odd">
+<td><p>合同活動</p></td>
+<td><p>2月2日</p></td>
+<td><p>i☆Ris&amp;Wake Up, Girls！&amp;Run Girls, Run！ 情人節Live 2019[29]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>活動</p></td>
+<td><p>3月1日</p></td>
+<td><p>Run Girls Run！！[30]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3月5日</p></td>
+<td><p>animate池袋本店9樓</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>活動</p></td>
+<td><p>3月24日</p></td>
+<td><p>Run Girls, Run！ ！ AnimeJapan！2[31]</p></td>
+<td><p>東京Big Sight</p></td>
+</tr>
+<tr class="odd">
+<td><p>活動</p></td>
+<td><p>4月7日</p></td>
+<td><p>Run Girls,Run! Special Stage in C3 Shanghai 2019[32]</p></td>
+<td><p>上海跨國採購會展中心</p></td>
+</tr>
+<tr class="even">
+<td><p>活動</p></td>
+<td><p>4月21日</p></td>
+<td><p>Run Girls, Run！i CD vol.1 &amp;[33]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>獨唱活動</p></td>
+<td><p>5月15日</p></td>
+<td><p>林鼓子「」發售紀念 誕生日特別活動[34]</p></td>
+<td><p>AKIHABARAゲーマーズ本店 6F</p></td>
+</tr>
+<tr class="even">
+<td><p>活動</p></td>
+<td><p>5月19日</p></td>
+<td><p>「」發片紀念 Run Girls, Run！特別自由活動 in 洗足學園音樂大學[35]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洗足學園音樂大學" title="wikilink">洗足學園音樂大學 前田大廳</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>合同活動</p></td>
+<td><p>5月26日</p></td>
+<td><p>飛翔吧！戰機少女 特別活動[36]</p></td>
+<td><p>New Pier Hall</p></td>
+</tr>
+<tr class="even">
+<td><p>活動</p></td>
+<td><p>8月4日</p></td>
+<td><p>Run Girls, Run! 2nd Anniversary LIVE 1.2.3 JUMP</p></td>
+<td><p>![37]</p></td>
 </tr>
 </tbody>
 </table>
@@ -367,27 +435,27 @@ THE ～」中出席\[5\]。
 
 ### 電視節目
 
-  - [Wake Up,
-    Girls！新章](https://zh.wikipedia.org/wiki/Wake_Up,_Girls!#新章 "wikilink")（[東京電視台](../Page/東京電視台.md "wikilink")，2017年10月10日－2018年1月8日）－負責下集預告解說（在錄音室拍攝）
+  - [Wake Up, Girls！新章](https://zh.wikipedia.org/wiki/Wake_Up,_Girls!#新章 "wikilink")（[東京電視台](../Page/東京電視台.md "wikilink")，2017年10月10日－2018年1月8日）－負責下集預告解說（在錄音室拍攝）
       - 第7話特別篇新章（東京電視台，2017年1​1​月20​日）
+  - Run Girls, Run！！（2019年－，[TOKYO MX](../Page/東京都會電視台.md "wikilink")）\[38\]
 
 ### 廣播節目
 
 ※記號表示說明網路廣播。
 
-  - [Wake Up, Girls！與Run Girls, Run！的All
-    Night-NIPPONi](../Page/Wake_Up,_Girls!.md "wikilink")（2017年
-    －**播出中**，[日本放送](../Page/日本放送.md "wikilink")）※\[28\]
+  - [Wake Up, Girls！與Run Girls, Run！的All Night-NIPPONi](../Page/Wake_Up,_Girls!.md "wikilink")（2017年 －2018年 ，[日本放送](../Page/日本放送.md "wikilink")）※\[39\]\[40\]
 
-  - Run Girls, Radio！（2017年 －2018年，）※\[29\]
+  - Run Girls, Radio！（2017年 －2018年，）※\[41\]
 
-  - Run Girls, Radio\!\!（2018年－**播出中**，HiBiKi Radio Station）※\[30\]
+  - Run Girls, Radio\!\!（2018年－**播出中**，HiBiKi Radio Station）※\[42\]
 
-  - （2019年 －**播出中**，）※\[31\]
+  - （2019年 －**播出中**，）※\[43\]
+
+  - Run Girls, Run！的All-Night JAPANi（2019年 －**播出中**，All-Night JAPANi）※\[44\]\[45\]
 
 ### 網路電視
 
-  - （2018年－，FRESH LIVE）－節目主持人\[32\]\[33\]
+  - （2018年－，FRESH LIVE）－節目主持人\[46\]\[47\]
 
 ## 腳註
 
@@ -399,29 +467,21 @@ THE ～」中出席\[5\]。
 
   - [官方網站](http://rungirlsrun.jp/)
 
-  - [Run Girls, Run\! Offical Blog](https://ameblo.jp/rungirlsrun) －Run
-    Girls, Run\! 官方部落格。
+  - [Run Girls, Run\! Offical Blog](https://ameblo.jp/rungirlsrun) －Run Girls, Run\! 官方部落格。
 
   -
 
-  - [Run Girls, Run\! 公式](http://vt.tiktok.com/GKTBK/)
-    (ID:rgr0730)－[TikTok](https://zh.wikipedia.org/wiki/TikTok "wikilink")
+  - [Run Girls, Run\! 公式](http://vt.tiktok.com/GKTBK/)  (ID:rgr0730)－[TikTok](https://zh.wikipedia.org/wiki/TikTok "wikilink")
 
-  - [Run Girls, Radio！](https://hibiki-radio.jp/description/rgr/detail)
-    －株式會社響電台節目官方網站
+  - [Run Girls, Radio！](https://hibiki-radio.jp/description/rgr/detail) －株式會社響電台節目官方網站
 
-[Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
-[Category:81_Produce](https://zh.wikipedia.org/wiki/Category:81_Produce "wikilink")
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
+[Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:81_Produce](https://zh.wikipedia.org/wiki/Category:81_Produce "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
 
 1.  2017年10月首播的電視動畫「Wake Up, Girls\!」新作系列新角色聲優的徵選會。
 
 2.
 
-3.  第1回合格者是[i☆Ris](https://zh.wikipedia.org/wiki/i☆Ris "wikilink")，第2回合格者是[Wake
-    Up, Girls！](../Page/Wake_Up,_Girls!_\(聲優組合\).md "wikilink")。
+3.  第1回合格者是[i☆Ris](https://zh.wikipedia.org/wiki/i☆Ris "wikilink")，第2回合格者是[Wake Up, Girls！](../Page/Wake_Up,_Girls!_\(聲優組合\).md "wikilink")。
 
 4.
 5.
@@ -478,3 +538,30 @@ THE ～」中出席\[5\]。
 32.
 
 33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44.
+45.
+
+46.
+
+47.

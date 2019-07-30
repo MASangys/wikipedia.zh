@@ -1,46 +1,24 @@
-**gugudan**（）是[Jellyfish娛樂於](../Page/Jellyfish娛樂.md "wikilink")2016年推出的九人女子團體，出道時成員包括美美、HANA、、
-[娜英](../Page/娜英.md "wikilink")、[世正](../Page/世正.md "wikilink")、[SALLY](https://zh.wikipedia.org/wiki/劉些寧 "wikilink")、、[美娜](../Page/美娜.md "wikilink")、。官方粉絲名為：단짝(摯友)(Dear
-Friend)。 2016年6月28日推出首張迷你專輯《Act.1 The Little
-Mermaid》正式出道。2018年10月25日，經紀公司[Jellyfish娛樂發布](../Page/Jellyfish娛樂.md "wikilink")
-將退出[gugudan](https://zh.wikipedia.org/wiki/gugudan "wikilink")（但不離開[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")），將集中學業和健康恢復，故此因gugudan日後將以八人女子團體繼續活動\[1\]。
+**gugudan**（）是[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")於2016年推出的九人女子團體，出道時成員包括美美、HANA、、 [娜英](../Page/娜英.md "wikilink")、[世正](../Page/世正.md "wikilink")、[SALLY](https://zh.wikipedia.org/wiki/劉些寧 "wikilink")、、[美娜](../Page/美娜.md "wikilink")、。官方粉絲名為：단짝(摯友)(Dear Friend)。 2016年6月28日推出首張迷你專輯《Act.1 The Little Mermaid》正式出道。2018年10月25日，經紀公司[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")發布 將退出[gugudan](https://zh.wikipedia.org/wiki/gugudan "wikilink")（但不離開[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")），將集中學業和健康恢復，故此因gugudan日後將以八人女子團體繼續活動\[1\]。
 
 ## 經歷
 
 ### 出道前
 
-2013年11月，美美以FNC練習生的身份參演[tvN真人實境秀節目](https://zh.wikipedia.org/wiki/tvN "wikilink")《[清潭洞111](../Page/清潭洞111.md "wikilink")》，展現FNC練習生生活，並在節目中演出[FTIsland](../Page/FTIsland.md "wikilink")《Madly》MV。2015年5月，美美參演[KBS金土連續劇](https://zh.wikipedia.org/wiki/KBS金土連續劇 "wikilink")《[製作人的那些事](https://zh.wikipedia.org/wiki/製作人的那些事 "wikilink")》。2015年12月，娜英、世正、美娜三人以Jellyfish練習生的身分參與了由[Mnet所企劃的出道競爭節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[PRODUCE
-101](../Page/PRODUCE_101.md "wikilink")》，最後世正、美娜入選成為[I.O.I成員出道](../Page/I.O.I.md "wikilink")。
+2013年11月，美美以FNC練習生的身份參演[tvN真人實境秀節目](https://zh.wikipedia.org/wiki/tvN "wikilink")《[清潭洞111](../Page/清潭洞111.md "wikilink")》，展現FNC練習生生活，並在節目中演出[FTIsland](../Page/FTIsland.md "wikilink")《Madly》MV。2015年5月，美美參演[KBS金土連續劇](https://zh.wikipedia.org/wiki/KBS金土連續劇 "wikilink")《[製作人的那些事](https://zh.wikipedia.org/wiki/製作人的那些事 "wikilink")》。2015年12月，娜英、世正、美娜三人以Jellyfish練習生的身分參與了由[Mnet所企劃的出道競爭節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，最後世正、美娜入選成為[I.O.I](../Page/I.O.I.md "wikilink")成員出道。
 
 ### 2016年：首張迷你專輯《Act.1 The Little Mermaid 》
 
-6月7日，Jellyfish官方決定將獲得大眾喜愛的 [I.O.I](../Page/I.O.I.md "wikilink")
-成員世正、美娜加入預計六月底出道的新女團。\[2\]6月10日，新女團成員加入另一曾參與《PRODUCE
-101》的娜英。\[3\]6月14日，公開首波成員HANA、NAYOUNG、MIMI個人概念照。\[4\]6月15日，公開第二波成員SOYEE、SEJEONG、HAEBIN個人概念照。\[5\]6月16日，公開最後一波成員
-SALLY、MINA、HYEYEON個人概念照 。\[6\]6月17日，Jellyfish
-Ent.在官方Facebook公開九人的團體照\[7\]並開通了
-Facebook、Twitter、Instagram、微博與Daum
-Cafe等社群帳號。\[8\]。6月23日，公開出道專輯《Act.1 The
-Little Mermaid》封面照及主打歌《Wonderland (원더랜드)》。\[9\]6月28日，公開出道曲《Wonderland
-(원더랜드)》MV並舉辦出道Showcase。12月16日，於<small>[VLIVE](http://www.vlive.tv/video/18997)</small>中公佈粉絲名稱：단짝（Dear
-Friend）。
-[thumb](https://zh.wikipedia.org/wiki/file:Gugudan_on_04_Sep,_2016_01.jpg "wikilink")
+6月7日，Jellyfish官方決定將獲得大眾喜愛的 [I.O.I](../Page/I.O.I.md "wikilink") 成員世正、美娜加入預計六月底出道的新女團。\[2\]6月10日，新女團成員加入另一曾參與《PRODUCE 101》的娜英。\[3\]6月14日，公開首波成員HANA、NAYOUNG、MIMI個人概念照。\[4\]6月15日，公開第二波成員SOYEE、SEJEONG、HAEBIN個人概念照。\[5\]6月16日，公開最後一波成員 SALLY、MINA、HYEYEON個人概念照 。\[6\]6月17日，Jellyfish Ent.在官方Facebook公開九人的團體照\[7\]並開通了 Facebook、Twitter、Instagram、微博與Daum Cafe等社群帳號。\[8\]。6月23日，公開出道專輯《Act.1 The Little Mermaid》封面照及主打歌《Wonderland (원더랜드)》。\[9\]6月28日，公開出道曲《Wonderland (원더랜드)》MV並舉辦出道Showcase。12月16日，於<small>[VLIVE](http://www.vlive.tv/video/18997)</small>中公佈粉絲名稱：단짝（Dear Friend）。 [thumb](https://zh.wikipedia.org/wiki/file:Gugudan_on_04_Sep,_2016_01.jpg "wikilink")
 
 ### 2017年：第二張迷你專輯《Act.2 Narcissus》、首組子團、第一張單曲專輯《Act.3 Chococo Factory》
 
-2月15日，公開第二張迷你專輯《Act.2 Narcissus》封面照及主打歌《나같은애(A Girl Like
-Me)》。\[10\]2月16日，公開首波成員HANA、NAYOUNG、MIMI個人概念照。\[11\]2月17日，公開第二波成員SALLY、MINA、HYEYEON個人概念照
-。\[12\]2月18日，公開最後一波成員SOYEE、SEJEONG、HAEBIN個人概念照
-。\[13\]2月19日，公開團體概念照。\[14\]2月27日，公開第二張迷你專輯主打曲《나같은애(A
-Girl Like Me)》MV並於隔日舉辦Showcase。
+2月15日，公開第二張迷你專輯《Act.2 Narcissus》封面照及主打歌《나같은애(A Girl Like Me)》。\[10\]2月16日，公開首波成員HANA、NAYOUNG、MIMI個人概念照。\[11\]2月17日，公開第二波成員SALLY、MINA、HYEYEON個人概念照 。\[12\]2月18日，公開最後一波成員SOYEE、SEJEONG、HAEBIN個人概念照 。\[13\]2月19日，公開團體概念照。\[14\]2月27日，公開第二張迷你專輯主打曲《나같은애(A Girl Like Me)》MV並於隔日舉辦Showcase。
 
-7月19日，宣佈推出團體出道以來首個子團，子團成員為MINA及HYEYEON。\[15\]7月26日，公佈子團團名[gugudan
-OGUOGU](https://zh.wikipedia.org/wiki/gugudan_OGUOGU "wikilink")。\[16\]8月10日，子團正式出道。
+7月19日，宣佈推出團體出道以來首個子團，子團成員為MINA及HYEYEON。\[15\]7月26日，公佈子團團名[gugudan OGUOGU](https://zh.wikipedia.org/wiki/gugudan_OGUOGU "wikilink")。\[16\]8月10日，子團正式出道。
 
 10月19日，Soyee 因肩傷理由停止活動。
 
-10月25日，公開首張單曲專輯《Act.3 Chococo
-Factory》預告照。11月1日晚間公開以專輯概念照為背景，主打歌《Chococo》與收錄曲《Lucky》、《Snowball》的試聽影片。2日晚間公開專輯主打歌《Chococo》的重點編舞預告。5日，公開主打歌《Chococo》的歌詞預告。6日，公開MV預告。8日，發布第一張單曲專輯《Act.3
-Chococo Factory》。
+10月25日，公開首張單曲專輯《Act.3 Chococo Factory》預告照。11月1日晚間公開以專輯概念照為背景，主打歌《Chococo》與收錄曲《Lucky》、《Snowball》的試聽影片。2日晚間公開專輯主打歌《Chococo》的重點編舞預告。5日，公開主打歌《Chococo》的歌詞預告。6日，公開MV預告。8日，發布第一張單曲專輯《Act.3 Chococo Factory》。
 
 ### 2018年：第二張單曲專輯《Act.4 Cait Sith》、世正、美娜、娜英子團出道
 
@@ -71,8 +49,7 @@ Chococo Factory》。
 
 ### 粉絲名稱
 
-粉絲名稱是단짝（摯友），這代表著 gugudan和粉絲將會是最好的朋友，而這份友誼亦將會一直持續直到永遠，希望“摯友”们能和
-gugudan一起製造更多美好、愉快的回憶。\[18\]
+粉絲名稱是단짝（摯友），這代表著 gugudan和粉絲將會是最好的朋友，而這份友誼亦將會一直持續直到永遠，希望“摯友”们能和 gugudan一起製造更多美好、愉快的回憶。\[18\]
 
 ## 成員資料
 
@@ -126,21 +103,12 @@ gugudan一起製造更多美好、愉快的回憶。\[18\]
 
 ### 子團
 
-  - [gugudan
-    OGUOGU](https://zh.wikipedia.org/wiki/gugudan_OGUOGU "wikilink")
-    成員：[美娜](../Page/美娜.md "wikilink")、HYEYEON，2017年8月10日出道，出道曲為《ICE
-    CHU》。
-  - [gugudan
-    SEMINA](https://zh.wikipedia.org/wiki/gugudan_SEMINA "wikilink")
-    成員：[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[康美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[金娜英](https://zh.wikipedia.org/wiki/金娜英 "wikilink")，2018年7月10日出道，出道專輯為《SEMINA
-    - SINGLE》，而主打曲為《SEMINA》。
+  - [gugudan SEMINA](https://zh.wikipedia.org/wiki/gugudan_SEMINA "wikilink")
+    成員：[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[康美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[金娜英](https://zh.wikipedia.org/wiki/金娜英 "wikilink")，2018年7月10日出道，出道專輯為《SEMINA - SINGLE》，而主打曲為《SEMINA》。
 
 ### 成員變遷表
 
-<timeline> ImageSize = width:650 height:350 PlotArea = width:500
-height:300 left:125 bottom:35 Alignbars = justify DateFormat =
-mm/dd/yyyy Period = from:2016 till:2019 TimeAxis =
-orientation:horizontal format:mm/yyyy
+<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2016 till:2019 TimeAxis = orientation:horizontal format:mm/yyyy
 
 Colors =
 
@@ -796,8 +764,7 @@ LineData =
 
 **gu9udan團體**
 
-  - Jellyfish
-    [官方網站](http://www.jelly-fish.co.kr/sub/artist_singer02.php?prof_id=32&num=6)
+  - Jellyfish [官方網站](http://www.jelly-fish.co.kr/sub/artist_singer02.php?prof_id=32&num=6)
 
   - gu9udan [Daum cafe](http://cafe.daum.net/gu9udan/)
 
@@ -811,11 +778,7 @@ LineData =
 **gu9udan個人**
 
   -
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink")
+[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink")
 
 1.
 2.  [世正、美娜確定加入 Jellyfish 新女團](http://kpopn.niusnews.com/=K19cxnn6)
@@ -836,8 +799,7 @@ LineData =
 
 10.
 
-11. [gugudan 概念照: HANA,MIMI,Na
-    Young](http://kpopn.niusnews.com/=K04kg444)
+11. [gugudan 概念照: HANA,MIMI,Na Young](http://kpopn.niusnews.com/=K04kg444)
 
 12. [gugudan 概念照：Sally,美娜,Hye Yeon](http://kpopn.niusnews.com/=K04khwg4)
 
@@ -851,8 +813,7 @@ LineData =
 
 17. [뀨](https://twitter.com/gu9udan/status/747794374155599874) twitter
 
-18. [gugudan 粉絲名：Dear Friend！](http://kpopn.niusnews.com/=K2ed7s61)
-    kpopn
+18. [gugudan 粉絲名：Dear Friend！](http://kpopn.niusnews.com/=K2ed7s61) kpopn
 
 19.
 

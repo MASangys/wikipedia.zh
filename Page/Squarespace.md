@@ -4,26 +4,20 @@
 
 ## 競爭者
 
-Squarespace的主要競爭者包括[WordPress](../Page/WordPress.md "wikilink")、[Weebly](../Page/Weebly.md "wikilink")、[Wix.com](../Page/Wix.com.md "wikilink")、[GoDaddy](../Page/GoDaddy.md "wikilink")、[Jimdo](https://zh.wikipedia.org/wiki/Jimdo "wikilink")、、\[3\]
-等。Squarespace並無公開該平台用戶的準確數字，但卡薩里納估計每天Sqaurespace都有約一千名新用戶\[4\]。
+Squarespace的主要競爭者包括[WordPress](../Page/WordPress.md "wikilink")、[Weebly](../Page/Weebly.md "wikilink")、[Wix.com](../Page/Wix.com.md "wikilink")、[GoDaddy](../Page/GoDaddy.md "wikilink")、[Jimdo](https://zh.wikipedia.org/wiki/Jimdo "wikilink")、、\[3\] 等。Squarespace並無公開該平台用戶的準確數字，但卡薩里納估計每天Sqaurespace都有約一千名新用戶\[4\]。
 
 ## 資金
 
-和都曾注資予Squarespace。該公司於2010年7月的投資中取得了3850萬美元，並組成了[董事會](https://zh.wikipedia.org/wiki/董事會 "wikilink")。董事會的創始成員為、安德魯·布拉恰（Andrew
-Braccia）及多米尼克·維達爾（Dominique
-Vidal）。創辦人安東尼·卡薩里納仍是該公司最大[股東](https://zh.wikipedia.org/wiki/股東 "wikilink")\[5\]。
+和都曾注資予Squarespace。該公司於2010年7月的投資中取得了3850萬美元，並組成了[董事會](https://zh.wikipedia.org/wiki/董事會 "wikilink")。董事會的創始成員為、安德魯·布拉恰（Andrew Braccia）及多米尼克·維達爾（Dominique Vidal）。創辦人安東尼·卡薩里納仍是該公司最大[股東](https://zh.wikipedia.org/wiki/股東 "wikilink")\[5\]。
 
-Squarespace由於2014年4月一輪B系列投資取得另外4000萬美元\[6\]\[7\]，為一次少數股權投資。General
-Atlantic的常務董事安東·萊維加入了Squarespace的董事會\[8\]。
+Squarespace由於2014年4月一輪B系列投資取得另外4000萬美元\[6\]\[7\]，為一次少數股權投資。General Atlantic的常務董事安東·萊維加入了Squarespace的董事會\[8\]。
 
 ## 參考資料
 
 ## 外部連結
 
   -
-[Category:雲端平台](https://zh.wikipedia.org/wiki/Category:雲端平台 "wikilink")
-[Category:部落格代管服務](https://zh.wikipedia.org/wiki/Category:部落格代管服務 "wikilink")
-[Category:2003年建立的网站](https://zh.wikipedia.org/wiki/Category:2003年建立的网站 "wikilink")
+[Category:雲端平台](https://zh.wikipedia.org/wiki/Category:雲端平台 "wikilink") [Category:部落格代管服務](https://zh.wikipedia.org/wiki/Category:部落格代管服務 "wikilink") [Category:2003年建立的网站](https://zh.wikipedia.org/wiki/Category:2003年建立的网站 "wikilink")
 
 1.
 2.

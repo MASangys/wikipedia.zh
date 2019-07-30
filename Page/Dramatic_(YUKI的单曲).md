@@ -2,11 +2,9 @@
 
 ## 简介
 
-  - 同名曲「ドラマチック」曲风明快，是主要采用了弦乐器的一首特征鲜明的乐曲。除了这首歌外，还收录了2004年9月30日在Zepp
-    Tokyo举行的演唱会中披露的「JOY」和「ハローグッバイ」的演唱会版本。
+  - 同名曲「ドラマチック」曲风明快，是主要采用了弦乐器的一首特征鲜明的乐曲。除了这首歌外，还收录了2004年9月30日在Zepp Tokyo举行的演唱会中披露的「JOY」和「ハローグッバイ」的演唱会版本。
   - PV由钢笔画风的动画和YUKI在演唱会中歌唱的映像构成。动画的一部分描写了蜂蜜与四叶草的情节，是作为和『蜂蜜与四叶草』联动的包含了其意识的一首作品。
-  - 此曲在oricon周榜上创造了第2位的记录，这是自她单飞后单曲的最好成绩（JUDY AND
-    MARY时代的「そばかす」曾创造了第1位的记录）。
+  - 此曲在oricon周榜上创造了第2位的记录，这是自她单飞后单曲的最好成绩（JUDY AND MARY时代的「そばかす」曾创造了第1位的记录）。
 
 ## 收录曲
 
@@ -23,7 +21,4 @@
   - [Wave](https://zh.wikipedia.org/wiki/Wave_\(YUKI的专辑\) "wikilink")（\#1）
   - [five-star](https://zh.wikipedia.org/wiki/five-star_\(YUKI的专辑\) "wikilink")（\#1）
 
-[Category:YUKI歌曲](https://zh.wikipedia.org/wiki/Category:YUKI歌曲 "wikilink")
-[Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink")
-[Category:富士電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:富士電視台動畫主題曲 "wikilink")
-[Category:noitaminA主題曲](https://zh.wikipedia.org/wiki/Category:noitaminA主題曲 "wikilink")
+[Category:YUKI歌曲](https://zh.wikipedia.org/wiki/Category:YUKI歌曲 "wikilink") [Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink") [Category:富士電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:富士電視台動畫主題曲 "wikilink") [Category:noitaminA主題曲](https://zh.wikipedia.org/wiki/Category:noitaminA主題曲 "wikilink")

@@ -1,6 +1,4 @@
-**** ( 中文: *心已累* )
-是一首由挪威DJ[艾倫·沃克製作的單曲](../Page/艾倫·沃克.md "wikilink")，由[加文·詹姆斯主唱](https://zh.wikipedia.org/wiki/加文·詹姆斯 "wikilink")。這首單曲是「沃克世界」（World
-Of Walker）系列的前導曲目。
+**** ( 中文: *心已累* ) 是一首由挪威DJ[艾倫·沃克](../Page/艾倫·沃克.md "wikilink")製作的單曲，由[加文·詹姆斯主唱](https://zh.wikipedia.org/wiki/加文·詹姆斯 "wikilink")。這首單曲是「沃克世界」（World Of Walker）系列的前導曲目。
 
 ## 背景
 
@@ -51,6 +49,4 @@ Of Walker）系列的前導曲目。
 
 ## 参考文献
 
-[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink")
-[Category:2017年歌曲](https://zh.wikipedia.org/wiki/Category:2017年歌曲 "wikilink")
-[Category:電子歌曲](https://zh.wikipedia.org/wiki/Category:電子歌曲 "wikilink")
+[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink") [Category:2017年歌曲](https://zh.wikipedia.org/wiki/Category:2017年歌曲 "wikilink") [Category:電子歌曲](https://zh.wikipedia.org/wiki/Category:電子歌曲 "wikilink") [Category:艾伦·沃克](https://zh.wikipedia.org/wiki/Category:艾伦·沃克 "wikilink")

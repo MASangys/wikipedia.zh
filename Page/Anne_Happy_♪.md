@@ -1,8 +1,4 @@
-《**Anne
-Happy♪**》是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[琴慈的](../Page/琴慈.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，於[芳文社雜誌](../Page/芳文社.md "wikilink")《[漫畫時間Kirara
-Forward](../Page/Manga_Time_Kirara_Forward.md "wikilink")》2013年2月號\[1\]開始連載至2019年1月號\[2\]\[3\]。共出版10冊[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")\[4\]，台灣和香港[東立均已出版第](https://zh.wikipedia.org/wiki/東立 "wikilink")1冊\[5\]\[6\]。由[SILVER
-LINK.負責動畫製作的](../Page/SILVER_LINK..md "wikilink")[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2016年4月7日起陸續由[AT-X等電視台開始播放](../Page/AT-X.md "wikilink")。有时也被翻译成《**Unhappy♪**》
-，其中Anne来自于主角花小泉杏的名字。
+《**Anne Happy♪**》是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[琴慈](../Page/琴慈.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，於[芳文社](../Page/芳文社.md "wikilink")雜誌《[漫畫時間Kirara Forward](../Page/Manga_Time_Kirara_Forward.md "wikilink")》2013年2月號\[1\]開始連載至2019年1月號\[2\]\[3\]。共出版10冊[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")\[4\]，台灣和香港[東立均已出版第](https://zh.wikipedia.org/wiki/東立 "wikilink")1冊\[5\]\[6\]。由[SILVER LINK.負責動畫製作的](../Page/SILVER_LINK..md "wikilink")[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2016年4月7日起陸續由[AT-X](../Page/AT-X.md "wikilink")等電視台開始播放。有时也被翻译成《**Unhappy♪**》 ，其中Anne来自于主角花小泉杏的名字。
 
 ## 故事簡介
 
@@ -162,9 +158,7 @@ LINK.負責動畫製作的](../Page/SILVER_LINK..md "wikilink")[電視動畫於]
 
 ## 電視動畫
 
-2015年6月24日在《Manga Time Kirara Forward》雜誌宣佈改編為電視動畫及由[SILVER
-LINK.負責動畫製作的訊息](../Page/SILVER_LINK..md "wikilink")\[7\]。由[大沼心擔任導演](../Page/大沼心.md "wikilink")，田中仁負責系列構成，[大島美和擔任角色設計及總作畫監督](https://zh.wikipedia.org/wiki/大島美和 "wikilink")。\[8\]於2016年4月7日由[AT-X開始播放](../Page/AT-X.md "wikilink")，[TOKYO
-MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[京都放送](../Page/京都放送.md "wikilink")、[SUN電視台及](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")[BS富士也陸續開始播放](../Page/BS富士.md "wikilink")\[9\]。
+2015年6月24日在《Manga Time Kirara Forward》雜誌宣佈改編為電視動畫及由[SILVER LINK.負責動畫製作的訊息](../Page/SILVER_LINK..md "wikilink")\[7\]。由[大沼心](../Page/大沼心.md "wikilink")擔任導演，田中仁負責系列構成，[大島美和擔任角色設計及總作畫監督](https://zh.wikipedia.org/wiki/大島美和 "wikilink")。\[8\]於2016年4月7日由[AT-X](../Page/AT-X.md "wikilink")開始播放，[TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[京都放送](../Page/京都放送.md "wikilink")、[SUN電視台及](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")[BS富士](../Page/BS富士.md "wikilink")也陸續開始播放\[9\]。
 
 ### 製作人員
 
@@ -179,25 +173,20 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[京都放送](../Page/
 ### 主題曲
 
   - 片頭曲「PUNCH☆MIND☆HAPPINESS」
-    作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")，作曲、編曲：[田中秀和](https://zh.wikipedia.org/wiki/田中秀和 "wikilink")，主唱：Happy
-    Clover〈花小泉杏（[花守由美里](../Page/花守由美里.md "wikilink")）、雲雀丘瑠璃（[白石晴香](../Page/白石晴香.md "wikilink")）、久米川牡丹（[安野希世乃](../Page/安野希世乃.md "wikilink")）、萩生響（[山村響](../Page/山村響.md "wikilink")）、江古田蓮（[吉岡茉祐](../Page/吉岡茉祐.md "wikilink")）〉
+    作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")，作曲、編曲：[田中秀和](https://zh.wikipedia.org/wiki/田中秀和 "wikilink")，主唱：Happy Clover〈花小泉杏（[花守由美里](../Page/花守由美里.md "wikilink")）、雲雀丘瑠璃（[白石晴香](../Page/白石晴香.md "wikilink")）、久米川牡丹（[安野希世乃](../Page/安野希世乃.md "wikilink")）、萩生響（[山村響](../Page/山村響.md "wikilink")）、江古田蓮（[吉岡茉祐](../Page/吉岡茉祐.md "wikilink")）〉
 
   - 片尾曲「明日也沒關係（）」
-    作詞：畑亞貴，作曲、編曲：[廣川惠一](https://zh.wikipedia.org/wiki/廣川惠一 "wikilink")，主唱：Happy
-    Clover〈花小泉杏（花守由美里）、雲雀丘瑠璃（白石晴香）、久米川牡丹（安野希世乃）、萩生響（山村響）、江古田蓮（吉岡茉祐）〉
+    作詞：畑亞貴，作曲、編曲：[廣川惠一](https://zh.wikipedia.org/wiki/廣川惠一 "wikilink")，主唱：Happy Clover〈花小泉杏（花守由美里）、雲雀丘瑠璃（白石晴香）、久米川牡丹（安野希世乃）、萩生響（山村響）、江古田蓮（吉岡茉祐）〉
 
   - 插入曲
 
 :; 「」（第4話）
 
-::
-作詞：畑亞貴，作曲、編曲：[石濱翔](https://zh.wikipedia.org/wiki/石濱翔 "wikilink")，主唱：Happy
-Clover［花小泉杏（花守由美里）、雲雀丘瑠璃（白石晴香）、久米川牡丹（安野希世乃）、萩生響（山村響）、江古田蓮（吉岡茉祐）］
+:: 作詞：畑亞貴，作曲、編曲：[石濱翔](https://zh.wikipedia.org/wiki/石濱翔 "wikilink")，主唱：Happy Clover［花小泉杏（花守由美里）、雲雀丘瑠璃（白石晴香）、久米川牡丹（安野希世乃）、萩生響（山村響）、江古田蓮（吉岡茉祐）］
 
 :; 「願望不會丟失的原因（）」（第8話）
 
-:: 作詞：畑亞貴，作曲、編曲：，主唱：Happy
-Clover［花小泉杏（花守由美里）、雲雀丘瑠璃（白石晴香）、久米川牡丹（安野希世乃）、萩生響（山村響）、江古田蓮（吉岡茉祐）］
+:: 作詞：畑亞貴，作曲、編曲：，主唱：Happy Clover［花小泉杏（花守由美里）、雲雀丘瑠璃（白石晴香）、久米川牡丹（安野希世乃）、萩生響（山村響）、江古田蓮（吉岡茉祐）］
 
 :; 「knock Knock Map Map」（第10話）
 
@@ -404,17 +393,11 @@ Clover［花小泉杏（花守由美里）、雲雀丘瑠璃（白石晴香）�
 
 ## 外部連結
 
-  - [Unhappy♪ | Manga Time Kirara
-    Web](http://www.dokidokivisual.com/comics/book/index.php?cid=788)
-  - [Unhappy♪ 漫画在线连载 | Niconico静图 ·
-    Kirara基地](http://seiga.nicovideo.jp/comic/20767)
+  - [Unhappy♪ | Manga Time Kirara Web](http://www.dokidokivisual.com/comics/book/index.php?cid=788)
+  - [Unhappy♪ 漫画在线连载 | Niconico静图 · Kirara基地](http://seiga.nicovideo.jp/comic/20767)
   - [TV動畫版Unhappy♪公式官網](http://anne-happy.com/)
 
-[Category:Manga_Time_Kirara_Forward](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara_Forward "wikilink")
-[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink")
-[Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink")
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:Manga_Time_Kirara_Forward](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara_Forward "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 2.

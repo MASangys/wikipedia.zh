@@ -1,5 +1,4 @@
-《**手裏劍戰隊忍忍者 VS 特急者 THE MOVIE 忍者 In
-Wonderland**》（），是2016年1月23日東映預定上映的特攝電影，同時也是[超級戰隊系列的](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")《**[手裏劍戰隊忍忍者](../Page/手裏劍戰隊忍忍者.md "wikilink")**》和《**[烈車戰隊特急者](../Page/烈車戰隊特急者.md "wikilink")**》的劇場版作品。
+《**手裏劍戰隊忍忍者 VS 特急者 THE MOVIE 忍者 In Wonderland**》（），是2016年1月23日東映預定上映的特攝電影，同時也是[超級戰隊系列的](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")《**[手裏劍戰隊忍忍者](../Page/手裏劍戰隊忍忍者.md "wikilink")**》和《**[烈車戰隊特急者](../Page/烈車戰隊特急者.md "wikilink")**》的劇場版作品。
 
 ## 概要
 
@@ -132,8 +131,7 @@ Wonderland**》（），是2016年1月23日東映預定上映的特攝電影，�
   -
 
       -
-        本來可是暗影路線怪人薩拉姆。退出暗影路線後為了贖罪並保護彩虹而成為彩虹路線的維修人員。而虹野明這名字是阿光等人為他而取的新名字。
-        專長是口琴與直笛，並在登場時吹奏著自己創作的鎮魂曲，性格比較我行我素，口頭禪為「這是我的歸宿」。戰鬥時扔武器的習慣仍然存在。
+        本來可是暗影路線怪人薩拉姆。退出暗影路線後為了贖罪並保護彩虹而成為彩虹路線的維修人員。而虹野明這名字是阿光等人為他而取的新名字。 專長是口琴與直笛，並在登場時吹奏著自己創作的鎮魂曲，性格比較我行我素，口頭禪為「這是我的歸宿」。戰鬥時扔武器的習慣仍然存在。
         首次登場時仍然會吹奏著自己創作的鎮魂曲，但口頭禪已改為「這是我的...工作地點」，甚至在霸王特急大王合體時重演本篇超超特急大王合體時的臨時改名情節。
 
 #### 輔助角色
@@ -205,7 +203,7 @@ Wonderland**》（），是2016年1月23日東映預定上映的特攝電影，�
 
       -
         闇黑皇帝所屬幹部。為了組成最強烈車軍團，而圖謀搶奪烈車。擁有專用暗影號，似乎另有圖謀。
-        死後被暗黑博士馬佛羅利用成為[石川五右衛門的克隆載體](../Page/石川五右衛門.md "wikilink")，名稱為**石川施瓦茨五右衛門**。使用武器改為武士刀，但所使之刀法仍然以快速為主。
+        死後被暗黑博士馬佛羅利用成為[石川五右衛門](../Page/石川五右衛門.md "wikilink")的克隆載體，名稱為**石川施瓦茨五右衛門**。使用武器改為武士刀，但所使之刀法仍然以快速為主。
         負責看守木橋入口並迎擊阿洸、阿凪及小霞。最後全員到齊時遭特急4號及桃忍者合力消滅。
 
 :;**[服部半藏](../Page/服部半藏.md "wikilink")**
@@ -282,31 +280,20 @@ Wonderland**》（），是2016年1月23日東映預定上映的特攝電影，�
 《手裏劍戰隊忍忍者》
 
   - 伊賀崎天晴 / 赤忍者（聲） - [西川俊介](../Page/西川俊介.md "wikilink")（台灣配音：）
-  - 加藤・克勞德・八雲 / 青忍者（聲） -
-    [松本岳](../Page/松本岳.md "wikilink")（台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
+  - 加藤・克勞德・八雲 / 青忍者（聲） - [松本岳](../Page/松本岳.md "wikilink")（台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
   - 松尾凪 / 黃忍者（聲） - [中村嘉惟人](../Page/中村嘉惟人.md "wikilink")（台灣配音：）
-  - 伊賀崎風花 / 白忍者（聲） -
-    [矢野優花](../Page/矢野優花.md "wikilink")（台灣配音：[連思宇](../Page/連思宇.md "wikilink")）
-  - 百地霞 / 桃忍者（聲） -
-    [山谷花純](../Page/山谷花純.md "wikilink")（台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")）
-  - 金治・瀧川 / 星忍者（聲） -
-    [多和田秀彌](https://zh.wikipedia.org/wiki/多和田秀彌 "wikilink")（台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
+  - 伊賀崎風花 / 白忍者（聲） - [矢野優花](../Page/矢野優花.md "wikilink")（台灣配音：[連思宇](../Page/連思宇.md "wikilink")）
+  - 百地霞 / 桃忍者（聲） - [山谷花純](../Page/山谷花純.md "wikilink")（台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")）
+  - 金治・瀧川 / 星忍者（聲） - [多和田秀彌](https://zh.wikipedia.org/wiki/多和田秀彌 "wikilink")（台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
 
 《烈車戰隊特急者》
 
-  - 來斗（鈴樹來斗） / 特急1號（聲） - [志尊淳](../Page/志尊淳.md "wikilink") /
-    馬渕誉（孩童時期）（台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
-  - 十勝（渡嘉敷 晴） / 特急2號（聲） - [平牧仁](../Page/平牧仁.md "wikilink") /
-    永瀬圭志朗（孩童時期）（台灣配音：）
-  - 美緒（夏目美緒） / 特急3號（聲） -
-    [梨里杏](https://zh.wikipedia.org/wiki/梨里杏 "wikilink") /
-    石井薫子（孩童時期）（台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")）
-  - 洸（野野村 洸） / 特急4號（聲） - [橫濱流星](../Page/橫濱流星.md "wikilink") /
-    山崎光（孩童時期）（台灣配音：）
-  - 神樂（泉 神樂） / 特急5號（聲） - [森高愛](../Page/森高愛.md "wikilink") /
-    清水羅羅（孩童時期）（台灣配音：[連思宇](../Page/連思宇.md "wikilink")）
-  - 虹野明 / 特急6號（聲） -
-    [長濱慎](../Page/長濱慎.md "wikilink")（台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
+  - 來斗（鈴樹來斗） / 特急1號（聲） - [志尊淳](../Page/志尊淳.md "wikilink") / 馬渕誉（孩童時期）（台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
+  - 十勝（渡嘉敷 晴） / 特急2號（聲） - [平牧仁](../Page/平牧仁.md "wikilink") / 永瀬圭志朗（孩童時期）（台灣配音：）
+  - 美緒（夏目美緒） / 特急3號（聲） - [梨里杏](https://zh.wikipedia.org/wiki/梨里杏 "wikilink") / 石井薫子（孩童時期）（台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")）
+  - 洸（野野村 洸） / 特急4號（聲） - [橫濱流星](../Page/橫濱流星.md "wikilink") / 山崎光（孩童時期）（台灣配音：）
+  - 神樂（泉 神樂） / 特急5號（聲） - [森高愛](../Page/森高愛.md "wikilink") / 清水羅羅（孩童時期）（台灣配音：[連思宇](../Page/連思宇.md "wikilink")）
+  - 虹野明 / 特急6號（聲） - [長濱慎](../Page/長濱慎.md "wikilink")（台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
 
 ### 配音演出
 
@@ -330,9 +317,6 @@ Wonderland**》（），是2016年1月23日東映預定上映的特攝電影，�
 
 ## 外部連結
 
-[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")
-[Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink")
-[Category:2016年日本電影](https://zh.wikipedia.org/wiki/Category:2016年日本電影 "wikilink")
-[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
+[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink") [Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink") [Category:2016年日本電影](https://zh.wikipedia.org/wiki/Category:2016年日本電影 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
 
 1.  如同當時超超特急大王的命名過程。

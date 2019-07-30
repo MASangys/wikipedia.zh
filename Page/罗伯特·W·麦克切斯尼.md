@@ -1,6 +1,4 @@
-**罗伯特·沃特曼·麦克切斯尼**（）是美国[伊利诺伊大学厄巴纳-香槟分校传播学系教授](../Page/伊利诺伊大学厄巴纳-香槟分校.md "wikilink")（Gutgsell
-Endowed Professor）。\[1\] 他擅长传播的历史和政治经济，以及媒体在民主和资本主义社会中的作用。他联合创办了Free
-Press，\[2\] 一个全国媒体改革组织。2002-12年，他每周日下午在WILL-AM电台主持“媒体事务”，\[3\] 一个每周广播节目。
+**罗伯特·沃特曼·麦克切斯尼**（）是美国[伊利诺伊大学厄巴纳-香槟分校](../Page/伊利诺伊大学厄巴纳-香槟分校.md "wikilink")传播学系教授（Gutgsell Endowed Professor）。\[1\] 他擅长传播的历史和政治经济，以及媒体在民主和资本主义社会中的作用。他联合创办了Free Press，\[2\] 一个全国媒体改革组织。2002-12年，他每周日下午在WILL-AM电台主持“媒体事务”，\[3\] 一个每周广播节目。
 
 ## 背景和教育
 
@@ -19,13 +17,10 @@ Press，\[2\] 一个全国媒体改革组织。2002-12年，他每周日下午�
 ### 参考书目
 
   -
-  - *Communication Revolution: Critical Junctures and the Future of
-    Media.* New York: The New Press, 2007.
+  - *Communication Revolution: Critical Junctures and the Future of Media.* New York: The New Press, 2007.
 
   -
-  - *The Death and Life of American Journalism: The Media Revolution
-    that Will Begin the World Again* (with John Nichols). New York:
-    Nation Books, 2010.
+  - *The Death and Life of American Journalism: The Media Revolution that Will Begin the World Again* (with John Nichols). New York: Nation Books, 2010.
 
   -
   -
@@ -43,31 +38,19 @@ Press，\[2\] 一个全国媒体改革组织。2002-12年，他每周日下午�
 
 ## 外部链接
 
-  - [Robert W. McChesney
-    bibliography](http://www.pdxjustice.org/node/47)
+  - [Robert W. McChesney bibliography](http://www.pdxjustice.org/node/47)
 
-  - Micha Odenheimer, ["Your Free Internet is in Danger", Interview with
-    Professor Robert W. McChesney at
-    acheret.co.il](https://web.archive.org/web/20100726031925/http://acheret.co.il/en/?cmd=articles.323&act=read&id=2041)
+  - Micha Odenheimer, ["Your Free Internet is in Danger", Interview with Professor Robert W. McChesney at acheret.co.il](https://web.archive.org/web/20100726031925/http://acheret.co.il/en/?cmd=articles.323&act=read&id=2041)
 
   -
-[Category:含有冗余参数的引用的页面](https://zh.wikipedia.org/wiki/Category:含有冗余参数的引用的页面 "wikilink")
-[Category:美国记者](https://zh.wikipedia.org/wiki/Category:美国记者 "wikilink")
-[Category:美國男作家](https://zh.wikipedia.org/wiki/Category:美國男作家 "wikilink")
-[Category:美国政治作家](https://zh.wikipedia.org/wiki/Category:美国政治作家 "wikilink")
-[Category:伊利諾大學厄巴納－香檳分校教師](https://zh.wikipedia.org/wiki/Category:伊利諾大學厄巴納－香檳分校教師 "wikilink")
-[Category:華盛頓大學校友](https://zh.wikipedia.org/wiki/Category:華盛頓大學校友 "wikilink")
-[Category:威斯康辛大學麥迪遜分校教師](https://zh.wikipedia.org/wiki/Category:威斯康辛大學麥迪遜分校教師 "wikilink")
+[Category:含有冗余参数的引用的页面](https://zh.wikipedia.org/wiki/Category:含有冗余参数的引用的页面 "wikilink") [Category:美国记者](https://zh.wikipedia.org/wiki/Category:美国记者 "wikilink") [Category:美國男作家](https://zh.wikipedia.org/wiki/Category:美國男作家 "wikilink") [Category:美国政治作家](https://zh.wikipedia.org/wiki/Category:美国政治作家 "wikilink") [Category:伊利諾大學厄巴納－香檳分校教師](https://zh.wikipedia.org/wiki/Category:伊利諾大學厄巴納－香檳分校教師 "wikilink") [Category:華盛頓大學校友](https://zh.wikipedia.org/wiki/Category:華盛頓大學校友 "wikilink") [Category:威斯康辛大學麥迪遜分校教師](https://zh.wikipedia.org/wiki/Category:威斯康辛大學麥迪遜分校教師 "wikilink")
 
-1.  [Robert W. McChesney | Department of Communication | University of
-    Illinois](http://www.communication.illinois.edu/people/rwmcches)
-2.  [Free Press website](http://www.freepress.net), freepress.net;
-    accessed April 13, 2015.
+1.  [Robert W. McChesney | Department of Communication | University of Illinois](http://www.communication.illinois.edu/people/rwmcches)
+2.  [Free Press website](http://www.freepress.net), freepress.net; accessed April 13, 2015.
 3.
 4.
 5.
 6.
 7.
-8.  `|work=`和`|newspaper=`只需其一
-    ([帮助](https://zh.wikipedia.org/wiki/Help:引文格式1错误#redundant_parameters "wikilink"))
+8.  `|work=`和`|newspaper=`只需其一 ([帮助](https://zh.wikipedia.org/wiki/Help:引文格式1错误#redundant_parameters "wikilink"))
 9.

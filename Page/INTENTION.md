@@ -2,12 +2,11 @@
 
 ## 概要
 
-聲優[鈴村健一離開原事務所](../Page/鈴村健一.md "wikilink")[ARTSVISION後](../Page/ARTSVISION.md "wikilink")，與過去擔任其經紀人的桑原敦共同設立INTENTION，並自2012年5月1日開始營運\[3\]\[4\]\[5\]。公司名稱與鈴村的首張單曲「」相同。
+聲優[鈴村健一](../Page/鈴村健一.md "wikilink")離開原事務所[ARTSVISION](../Page/ARTSVISION.md "wikilink")後，與過去擔任其經紀人的桑原敦共同設立INTENTION，並自2012年5月1日開始營運\[3\]\[4\]\[5\]。公司名稱與鈴村的首張單曲「」相同。
 
 最初為鈴村的個人事務所，自2014年開始有其他聲優加入。
 
-2014年起每年一次定期舉辦INTENTION
-WORKSHOP的徵選會，而2017年加入該事務所的[川井田夏海是以徵選會方式通過的第一人](../Page/川井田夏海.md "wikilink")。
+2014年起每年一次定期舉辦INTENTION WORKSHOP的徵選會，而2017年加入該事務所的[川井田夏海](../Page/川井田夏海.md "wikilink")是以徵選會方式通過的第一人。
 
 ## 所屬藝人
 
@@ -15,8 +14,7 @@ WORKSHOP的徵選會，而2017年加入該事務所的[川井田夏海是以徵�
 
   - [東山奈央](../Page/東山奈央.md "wikilink")（2014年5月1日加入\[6\]，原屬[ARTSVISION](../Page/ARTSVISION.md "wikilink")）
 
-  - [櫻井孝宏](../Page/櫻井孝宏.md "wikilink")（2014年7月20日加入\[7\]，原屬[81
-    Produce](../Page/81_Produce.md "wikilink")）
+  - [櫻井孝宏](../Page/櫻井孝宏.md "wikilink")（2014年7月20日加入\[7\]，原屬[81 Produce](../Page/81_Produce.md "wikilink")）
 
   - （2017年6月1日加入）
 
@@ -28,9 +26,7 @@ WORKSHOP的徵選會，而2017年加入該事務所的[川井田夏海是以徵�
 
   -
 
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
-[Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink")
+[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink")
 
 1.
 

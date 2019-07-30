@@ -1,12 +1,10 @@
-[第24回](../Page/第24回TV_LIFE年度日劇大賞.md "wikilink") ← **第25回** →
-[第26回](../Page/第26回TV_LIFE年度日劇大賞.md "wikilink")
+[第24回](../Page/第24回TV_LIFE年度日劇大賞.md "wikilink") ← **第25回** → [第26回](../Page/第26回TV_LIFE年度日劇大賞.md "wikilink")
 
-**第25回[TV
-LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2015年播出的連續劇做出的觀眾投票。
+**第25回[TV LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2015年播出的連續劇做出的觀眾投票。
 
-本屆獲獎最多的劇集是[富士電視台的](../Page/富士電視台.md "wikilink")《[歡迎來我家](https://zh.wikipedia.org/wiki/歡迎來我家#電視劇 "wikilink")》，共獲3獎。
+本屆獲獎最多的劇集是[富士電視台](../Page/富士電視台.md "wikilink")的《[歡迎來我家](https://zh.wikipedia.org/wiki/歡迎來我家#電視劇 "wikilink")》，共獲3獎。
 
-個人方面，[相葉雅紀首度獲頒最佳男主角獎](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")，是繼[大野智和](../Page/大野智.md "wikilink")[櫻井翔](../Page/櫻井翔.md "wikilink")，第三位獲得該獎項的「[嵐](../Page/嵐.md "wikilink")」的成員。
+個人方面，[相葉雅紀首度獲頒最佳男主角獎](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")，是繼[大野智](../Page/大野智.md "wikilink")和[櫻井翔](../Page/櫻井翔.md "wikilink")，第三位獲得該獎項的「[嵐](../Page/嵐.md "wikilink")」的成員。
 
 ## 獎項
 
@@ -309,5 +307,4 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 
 ## 參考來源
 
-[Category:2015年日本](https://zh.wikipedia.org/wiki/Category:2015年日本 "wikilink")
-[Category:2015年电视奖项](https://zh.wikipedia.org/wiki/Category:2015年电视奖项 "wikilink")
+[Category:2015年日本](https://zh.wikipedia.org/wiki/Category:2015年日本 "wikilink") [Category:2015年电视奖项](https://zh.wikipedia.org/wiki/Category:2015年电视奖项 "wikilink")

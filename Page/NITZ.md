@@ -1,5 +1,4 @@
-**网络标识和时区**（\[1\]，缩写**NITZ**）是一种通过无线网络向[移动设备提供本地](../Page/移动设备.md "wikilink")[日期和](../Page/日期.md "wikilink")[时间](../Page/时间.md "wikilink")、[时区](../Page/时区.md "wikilink")、[夏时制偏移](../Page/夏时制.md "wikilink")，以及网络提供商身份信息的机制，这通常用于[移动电话自动更新系统时间](../Page/移动电话.md "wikilink")。NITZ技术自[GSM](../Page/GSM.md "wikilink")
-阶段2 Release 96版本开始成为官方标准的可选部分之一。\[2\]
+**网络标识和时区**（\[1\]，缩写**NITZ**）是一种通过无线网络向[移动设备](../Page/移动设备.md "wikilink")提供本地[日期](../Page/日期.md "wikilink")和[时间](../Page/时间.md "wikilink")、[时区](../Page/时区.md "wikilink")、[夏时制](../Page/夏时制.md "wikilink")偏移，以及网络提供商身份信息的机制，这通常用于[移动电话](../Page/移动电话.md "wikilink")自动更新系统时间。NITZ技术自[GSM](../Page/GSM.md "wikilink") 阶段2 Release 96版本开始成为官方标准的可选部分之一。\[2\]
 
 相对于其他网络时间协议或者负载协议规范（例如[NTP或](https://zh.wikipedia.org/wiki/網絡時間協議 "wikilink")[CDMA2000](../Page/CDMA2000.md "wikilink")），NITZ的质量和执行力度都相对较弱。该标准允许网络传送“网络标识、UTC、夏令时、当地时”，\[3\]但每部分都只是可选传的，而且跨[无线电接入网和运营商的技术支持都有不同](https://zh.wikipedia.org/wiki/无线电接入网 "wikilink")。这对于需要维护复杂的时区数据库而不依赖于网络运营商的设备制造商来说是一个问题。另外，与[3GPP2相比](https://zh.wikipedia.org/wiki/3GPP2 "wikilink")，使用[GPS同步来授时能使时间分辨率达到](https://zh.wikipedia.org/wiki/GPS "wikilink")[毫秒级](https://zh.wikipedia.org/wiki/毫秒 "wikilink")，NITZ标识则“对于时间只能精确到数分钟”。\[4\]该标准提供信息的可选性质，会导致不采取夏令时但又与某个地区共享一个时区的地区的用户出现问题，因此现代的手机一般有自己的时区管理程序，自行调节夏令时。
 

@@ -1,5 +1,4 @@
-《**Ben 10 再顯神威**》是[Ben
-10系列的第五個系列作](../Page/Ben_10系列.md "wikilink")，比起前作畫風更加Q版化，也與第一個系列性格大不同，前面作品性格較為黑暗，而此系列則較為開朗明亮。澳洲與東南亞於播出，英國/愛爾蘭與法國於播出，台灣與阿拉伯於播出，歐洲於先行，北美洲及拉美於播出，香港則於2017年7月29日開始在翡翠台逢星期六是-{幪面超人系列}-接檔週播映。中国方面，本节目由[腾讯视频独家播出](../Page/腾讯视频.md "wikilink")，以**《少年骇客再显神威》**名义，目前分为台湾国语版和大陆普通话版，但是只在中国地区适用，境外不可能收看。\[1\]\[2\]电视方面由[上海广播电视台](../Page/上海广播电视台.md "wikilink")[哈哈炫动卫视于](../Page/哈哈炫动卫视.md "wikilink")2019年2月22日播出。\[3\]\[4\]
+《**Ben 10 再顯神威**》是[Ben 10系列的第五個系列作](../Page/Ben_10系列.md "wikilink")，比起前作畫風更加Q版化，也與第一個系列性格大不同，前面作品性格較為黑暗，而此系列則較為開朗明亮。澳洲與東南亞於播出，英國/愛爾蘭與法國於播出，台灣與阿拉伯於播出，歐洲於先行，北美洲及拉美於播出，香港則於2017年7月29日開始在翡翠台逢星期六是-{幪面超人系列}-接檔週播映。中国方面，本节目由[腾讯视频](../Page/腾讯视频.md "wikilink")独家播出，以**《少年骇客再显神威》**名义，目前分为台湾国语版和大陆普通话版，但是只在中国地区适用，境外不可能收看。\[1\]\[2\]电视方面由[上海广播电视台](../Page/上海广播电视台.md "wikilink")[哈哈炫动卫视](../Page/哈哈炫动卫视.md "wikilink")于2019年2月22日播出。\[3\]\[4\]
 
 ## 故事簡介
 
@@ -57,12 +56,10 @@
 ## 人物介紹
 
 **小班**(Ben)
-台灣配音員:[楊凱凱](../Page/楊凱凱.md "wikilink") 美國配音員:[Tara
-Strong](https://zh.wikipedia.org/wiki/Tara_Strong "wikilink")
+台灣配音員:[楊凱凱](../Page/楊凱凱.md "wikilink") 美國配音員:[Tara Strong](https://zh.wikipedia.org/wiki/Tara_Strong "wikilink")
 劇中主角，[Omnitrix的擁有者](https://zh.wikipedia.org/wiki/Omnitrix "wikilink")，可以變身成10種外星生物。
 **小玟**(Gwen)
-台灣配音員:[許淑嬪](../Page/許淑嬪.md "wikilink") 美國配音員:[Montserrat
-Hernandez](https://zh.wikipedia.org/wiki/Montserrat_Hernandez "wikilink")
+台灣配音員:[許淑嬪](../Page/許淑嬪.md "wikilink") 美國配音員:[Montserrat Hernandez](https://zh.wikipedia.org/wiki/Montserrat_Hernandez "wikilink")
 主角小班的堂妹。
 
 ## 每季列表
@@ -732,20 +729,11 @@ Hernandez](https://zh.wikipedia.org/wiki/Montserrat_Hernandez "wikilink")
 
 ## 參考文獻
 
-[Category:2017年動畫](https://zh.wikipedia.org/wiki/Category:2017年動畫 "wikilink")
-[Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink")
-[Category:2016年動畫](https://zh.wikipedia.org/wiki/Category:2016年動畫 "wikilink")
-[Category:Ben_10](https://zh.wikipedia.org/wiki/Category:Ben_10 "wikilink")
-[Category:美國兒童電視影集](https://zh.wikipedia.org/wiki/Category:美國兒童電視影集 "wikilink")
-[Category:卡通頻道電視節目](https://zh.wikipedia.org/wiki/Category:卡通頻道電視節目 "wikilink")
-[Category:超级英雄题材电视剧](https://zh.wikipedia.org/wiki/Category:超级英雄题材电视剧 "wikilink")
-[Category:卡通網絡工作室](https://zh.wikipedia.org/wiki/Category:卡通網絡工作室 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
+[Category:2017年動畫](https://zh.wikipedia.org/wiki/Category:2017年動畫 "wikilink") [Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink") [Category:2016年動畫](https://zh.wikipedia.org/wiki/Category:2016年動畫 "wikilink") [Category:Ben_10](https://zh.wikipedia.org/wiki/Category:Ben_10 "wikilink") [Category:美國兒童電視影集](https://zh.wikipedia.org/wiki/Category:美國兒童電視影集 "wikilink") [Category:卡通頻道電視節目](https://zh.wikipedia.org/wiki/Category:卡通頻道電視節目 "wikilink") [Category:超级英雄题材电视剧](https://zh.wikipedia.org/wiki/Category:超级英雄题材电视剧 "wikilink") [Category:卡通網絡工作室](https://zh.wikipedia.org/wiki/Category:卡通網絡工作室 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 
 1.
 2.
-3.  在炫动卡通 (现哈哈炫动)
-    第一次在2018年6月15日到17日播出，为[上海电视节动画片展播](../Page/上海电视节.md "wikilink")
+3.  在炫动卡通 (现哈哈炫动) 第一次在2018年6月15日到17日播出，为[上海电视节](../Page/上海电视节.md "wikilink")动画片展播
 4.  [1](https://www.bilibili.com/p/h5/16224004)
 5.  <https://en.wikipedia.org/wiki/Ben_10_(2016_TV_series)>
 6.  <https://www.foxtel.com.au/got/whats-on/tv-guide/Ben-10/80263070>

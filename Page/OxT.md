@@ -1,4 +1,4 @@
-**OxT**（オクト）由歌手[大石昌良與作曲家](../Page/大石昌良.md "wikilink")[Tom-H@ck所組成的音樂團體](../Page/Tom-H@ck.md "wikilink")。
+**OxT**（オクト）由歌手[大石昌良](../Page/大石昌良.md "wikilink")與作曲家[Tom-H@ck](../Page/Tom-H@ck.md "wikilink")所組成的音樂團體。
 
 ## 經歷
 
@@ -6,9 +6,7 @@
 
 <!-- end list -->
 
-  - 10月30日以「Tom-H@ck featuring 大石昌良」名義發行第一張單曲「Go
-    EXCEED\!\!」，2014年5月21日第二張單曲「Perfect
-    HERO」，為[鑽石王牌第一首片頭曲和第二首片頭曲](../Page/鑽石王牌.md "wikilink")\[1\]。
+  - 10月30日以「Tom-H@ck featuring 大石昌良」名義發行第一張單曲「Go EXCEED\!\!」，2014年5月21日第二張單曲「Perfect HERO」，為[鑽石王牌](../Page/鑽石王牌.md "wikilink")第一首片頭曲和第二首片頭曲\[1\]。
 
 <!-- end list -->
 
@@ -16,11 +14,9 @@
 
 <!-- end list -->
 
-  - 5月20日更換以「OxT」名義發行第一張單曲「KIMERO\!\!」，為[鑽石王牌
-    第二季第四首片尾曲](../Page/鑽石王牌.md "wikilink")。
+  - 5月20日更換以「OxT」名義發行第一張單曲「KIMERO\!\!」，為[鑽石王牌 第二季第四首片尾曲](../Page/鑽石王牌.md "wikilink")。
   - 8月26日發行第二張單曲「Clattanoia」，為[OVERLORD片頭曲](../Page/OVERLORD_\(小說\).md "wikilink")\[2\]。
-  - 11月23日發行第三張單曲「BLOOM OF YOUTH」，為[鑽石王牌
-    第二季第六首片尾曲](../Page/鑽石王牌.md "wikilink")。
+  - 11月23日發行第三張單曲「BLOOM OF YOUTH」，為[鑽石王牌 第二季第六首片尾曲](../Page/鑽石王牌.md "wikilink")。
 
 <!-- end list -->
 
@@ -28,8 +24,7 @@
 
 <!-- end list -->
 
-  - 2月3日發行第四張單曲「STRIDER'S
-    HIGH」，為[疾走王子片頭曲](../Page/疾走王子.md "wikilink")\[3\]。
+  - 2月3日發行第四張單曲「STRIDER'S HIGH」，為[疾走王子](../Page/疾走王子.md "wikilink")片頭曲\[3\]。
   - 3月2日發行第一張專輯「OxT COMPLETE SONGS "ACE OF DIAMOND"」。
 
 <!-- end list -->
@@ -38,9 +33,7 @@
 
 <!-- end list -->
 
-  - 1月25日發行第五張單曲「One Hand Message」，為[Hand
-    Shakers片頭曲](../Page/Hand_Shakers.md "wikilink")\[4\]。當中的收錄歌「Laughter
-    Slaughter」，為劇場版總集篇 OVERLORD 漆黑的英雄主題曲\[5\]。
+  - 1月25日發行第五張單曲「One Hand Message」，為[Hand Shakers片頭曲](../Page/Hand_Shakers.md "wikilink")\[4\]。當中的收錄歌「Laughter Slaughter」，為劇場版總集篇 OVERLORD 漆黑的英雄主題曲\[5\]。
 
 <!-- end list -->
 
@@ -48,15 +41,11 @@
 
 <!-- end list -->
 
-  - 1月24日發行第七張單曲「GO CRY
-    GO」，為[OVERLORDⅡ片頭曲](../Page/OVERLORD_\(小說\).md "wikilink")\[6\]。
-  - 8月8日發行第八張單曲「Silent
-    Solitude」，為[OVERLORDⅢ片尾曲](../Page/OVERLORD_\(小說\).md "wikilink")\[7\]。
-  - 8月17日 宣布歌曲「MASS FOR THE DEAD」，為手機遊戲「MASS FOR THE
-    DEAD」主題曲，收錄在第一張專輯「Hello New
-    World」。\[8\]。
+  - 1月24日發行第七張單曲「GO CRY GO」，為[OVERLORDⅡ片頭曲](../Page/OVERLORD_\(小說\).md "wikilink")\[6\]。
+  - 8月8日發行第八張單曲「Silent Solitude」，為[OVERLORDⅢ片尾曲](../Page/OVERLORD_\(小說\).md "wikilink")\[7\]。
+  - 8月17日 宣布歌曲「MASS FOR THE DEAD」，為手機遊戲「MASS FOR THE DEAD」主題曲，收錄在第一張專輯「Hello New World」。\[8\]。
   - 9月12日發行第一張專輯「Hello New World」\[9\]。
-  - 11月7日發行第九張單曲「UNION」，為[SSSS.GRIDMAN片頭曲](../Page/SSSS.GRIDMAN.md "wikilink")\[10\]。
+  - 11月7日發行第九張單曲「UNION」，為[SSSS.GRIDMAN](../Page/SSSS.GRIDMAN.md "wikilink")片頭曲\[10\]。
 
 <!-- end list -->
 
@@ -64,8 +53,7 @@
 
 <!-- end list -->
 
-  - 4月17日發行第十張單曲「ゴールデンアフタースクール」，為[鑽石王牌
-    第三季片尾曲](../Page/鑽石王牌.md "wikilink")\[11\]。
+  - 4月17日發行第十張單曲「ゴールデンアフタースクール」，為[鑽石王牌 第三季片尾曲](../Page/鑽石王牌.md "wikilink")\[11\]。
 
 ## 成員
 
@@ -84,7 +72,7 @@
 <th><p>發售日</p></th>
 <th><p>名稱</p></th>
 <th><p>規格品番</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon週榜最高位</a></p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>週榜最高位</p></th>
 </tr>
 </thead>
 <tbody>
@@ -205,7 +193,7 @@ ZMCZ-11850（初回限定盤）</p></td>
 <th><p>發售日</p></th>
 <th><p>名稱</p></th>
 <th><p>規格品番</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon週榜最高位</a></p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>週榜最高位</p></th>
 </tr>
 </thead>
 <tbody>
@@ -222,7 +210,7 @@ ZMCZ−12410（初回限定盤）</p></td>
 
 ### 限定專輯
 
-| 枚   | 發售日       | 名稱                                  | 規格品番       | [Oricon週榜最高位](../Page/Oricon.md "wikilink") |
+| 枚   | 發售日       | 名稱                                  | 規格品番       | [Oricon](../Page/Oricon.md "wikilink")週榜最高位 |
 | --- | --------- | ----------------------------------- | ---------- | ------------------------------------------- |
 | 1st | 2016年3月2日 | OxT COMPLETE SONGS "ACE OF DIAMOND" | PCCG-01510 | 46\[22\]位                                   |
 
@@ -257,10 +245,7 @@ ZMCZ−12410（初回限定盤）</p></td>
   - [Tom-H@ck[twitter](https://zh.wikipedia.org/wiki/twitter "wikilink")](https://twitter.com/TomOshima_TH)
 
   -
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:Media_Factory旗下藝人](https://zh.wikipedia.org/wiki/Category:Media_Factory旗下藝人 "wikilink")
+[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:Media_Factory旗下藝人](https://zh.wikipedia.org/wiki/Category:Media_Factory旗下藝人 "wikilink")
 
 1.
 2.

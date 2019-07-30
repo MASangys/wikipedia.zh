@@ -4,8 +4,7 @@
 
 <references />
 
-[Category:神秘生物](https://zh.wikipedia.org/wiki/Category:神秘生物 "wikilink")
-[Category:活恐龙](https://zh.wikipedia.org/wiki/Category:活恐龙 "wikilink")
+[Category:神秘生物](https://zh.wikipedia.org/wiki/Category:神秘生物 "wikilink") [Category:活恐龙](https://zh.wikipedia.org/wiki/Category:活恐龙 "wikilink")
 
 1.
 2.

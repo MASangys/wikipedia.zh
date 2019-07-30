@@ -1,20 +1,14 @@
-《**Twicetagram**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE的首張韓語正規專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")。由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，[Genie音樂發行](../Page/Genie音樂.md "wikilink")，於2017年10月30日推出。主打歌曲為〈LIKEY〉，由[黑眼必勝製作](../Page/黑眼必勝.md "wikilink")。
+《**Twicetagram**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE的首張韓語正規專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")。由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，[Genie音樂](../Page/Genie音樂.md "wikilink")發行，於2017年10月30日推出。主打歌曲為〈LIKEY〉，由[黑眼必勝](../Page/黑眼必勝.md "wikilink")製作。
 
 ## 背景
 
-2017年10月15日，[JYP娛樂於粉絲見面會](../Page/JYP娛樂.md "wikilink")《ONCE
-BEGINS》中正式公布將於30日攜首張韓語正規專輯回歸，隔日於官方V
-LIVE中釋出回歸前導影片，回歸正式進入倒數。
-跟源自網路分類詞[\#TWICE一樣](../Page/＃TWICE.md "wikilink")，Twicetagram一詞是
-TWICE和[Instagram](../Page/Instagram.md "wikilink")（IG）的合體詞，也是TWICE官方IG名稱\[1\]，而Likey就是對Instagram照片按紅心（Like
-It），跟在Facebook按『讚』的意思相似。9月30日，TWICE也遠赴[加拿大](../Page/加拿大.md "wikilink")[溫哥華拍攝](../Page/溫哥華.md "wikilink")〈LIKEY〉音樂錄影帶。
+2017年10月15日，[JYP娛樂](../Page/JYP娛樂.md "wikilink")於粉絲見面會《ONCE BEGINS》中正式公布將於30日攜首張韓語正規專輯回歸，隔日於官方V LIVE中釋出回歸前導影片，回歸正式進入倒數。 跟源自網路分類詞[\#TWICE一樣](../Page/＃TWICE.md "wikilink")，Twicetagram一詞是 TWICE和[Instagram](../Page/Instagram.md "wikilink")（IG）的合體詞，也是TWICE官方IG名稱\[1\]，而Likey就是對Instagram照片按紅心（Like It），跟在Facebook按『讚』的意思相似。9月30日，TWICE也遠赴[加拿大](../Page/加拿大.md "wikilink")[溫哥華](../Page/溫哥華.md "wikilink")拍攝〈LIKEY〉音樂錄影帶。
 
 2017年10月20日，即TWICE出道兩週年，VLive透露專輯裡會有更多成員作詞的作品。\[2\]
 
 ## 概要
 
-此次專輯《Twicetagram》為TWICE出道兩年來首張韓語正規專輯，共收錄13首歌曲，其中包括成員親自作詞的5首收錄單曲。本次回歸再度聯手[黑眼必勝製作主打曲](../Page/黑眼必勝.md "wikilink")，主打曲〈LIKEY〉是一首具Future
-Electro Pop風格舞曲，比起過往的「Color Pop」風格作品更精緻，流行音樂元素更多。
+此次專輯《Twicetagram》為TWICE出道兩年來首張韓語正規專輯，共收錄13首歌曲，其中包括成員親自作詞的5首收錄單曲。本次回歸再度聯手[黑眼必勝](../Page/黑眼必勝.md "wikilink")製作主打曲，主打曲〈LIKEY〉是一首具Future Electro Pop風格舞曲，比起過往的「Color Pop」風格作品更精緻，流行音樂元素更多。
 
 ### 發行版本
 
@@ -22,8 +16,7 @@ Electro Pop風格舞曲，比起過往的「Color Pop」風格作品更精緻，
   - B版(亮面/霧面)：內含隨機寫真冊（共6款）、隨機貼紙（共10款）、隨機成員印刷CD（共9款）、CD盒(Ver.B)、隨機Selfie小卡(A,B,C各一張)（共27款）
   - C版(亮面/霧面)：內含隨機寫真冊（共6款）、隨機貼紙（共10款）、隨機成員印刷CD（共9款）、CD盒(Ver.C）、隨機Selfie小卡(A,B,C各一張)（共27款）
   - 預購禮追加：特別相片卡1套（共9款）、隨機海報（共2款）、特別券（只有900張）
-      - 特別券：TWICE簽售會免費入場券（共50張）
-        、TWICE下次SHOWCASE免費入場券（共200張）、TWICE簽名專輯（共200張）、與各成員單獨合照（各50張）
+      - 特別券：TWICE簽售會免費入場券（共50張） 、TWICE下次SHOWCASE免費入場券（共200張）、TWICE簽名專輯（共200張）、與各成員單獨合照（各50張）
 
 ## 曲目
 
@@ -232,12 +225,7 @@ Electro Pop風格舞曲，比起過往的「Color Pop」風格作品更精緻，
 
 ## 參考資料
 
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
-[Category:TWICE音樂專輯](https://zh.wikipedia.org/wiki/Category:TWICE音樂專輯 "wikilink")
-[Category:2017年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2017年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon數位下載週榜冠軍作品 "wikilink")
-[Category:2017年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:TWICE音樂專輯](https://zh.wikipedia.org/wiki/Category:TWICE音樂專輯 "wikilink") [Category:2017年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon單曲週榜冠軍作品 "wikilink") [Category:2017年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2017年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

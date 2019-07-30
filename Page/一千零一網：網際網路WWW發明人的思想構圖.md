@@ -2,14 +2,10 @@
 
 ## 參考文獻
 
-  - Port, Otis. "How the Net Was Born—and Where It's Headed". Books.
-    [Bloomberg
-    Businessweek](https://zh.wikipedia.org/wiki/Bloomberg_Businessweek "wikilink").
-    (November 1, 1999)
+  - Port, Otis. "How the Net Was Born—and Where It's Headed". Books. [Bloomberg Businessweek](https://zh.wikipedia.org/wiki/Bloomberg_Businessweek "wikilink"). (November 1, 1999)
 
 ## 外部連結
 
-  - [Weaving the
-    Web](http://www.w3.org/People/Berners-Lee/Weaving/Overview.html)
+  - [Weaving the Web](http://www.w3.org/People/Berners-Lee/Weaving/Overview.html)
 
 [Category:1999年書籍](https://zh.wikipedia.org/wiki/Category:1999年書籍 "wikilink")

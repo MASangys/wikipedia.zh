@@ -1,4 +1,4 @@
-《**Missing9**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2017年1月18日起播出的[水木連續劇](https://zh.wikipedia.org/wiki/MBC水木連續劇 "wikilink")。由《[憤怒的媽媽](../Page/憤怒的媽媽.md "wikilink")》[崔秉吉導演](../Page/崔秉吉.md "wikilink")、吳高美執導與《[最後之舞](https://zh.wikipedia.org/wiki/最後之舞 "wikilink")》孫皇元、文心蘭、周元廣編劇聯手打造的作品。以墜機事故和無人島漂流記為題材，描述了揭開以倖存者的證言為基礎的墜機事故真相，以及隱藏的謎團過程中發生的故事。\[1\]\[2\]
+《**Missing9**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2017年1月18日起播出的[水木連續劇](https://zh.wikipedia.org/wiki/MBC水木連續劇 "wikilink")。由《[憤怒的媽媽](../Page/憤怒的媽媽.md "wikilink")》[崔秉吉](../Page/崔秉吉.md "wikilink")導演、吳高美執導與《[最後之舞](https://zh.wikipedia.org/wiki/最後之舞 "wikilink")》孫皇元、文心蘭、周元廣編劇聯手打造的作品。以墜機事故和無人島漂流記為題材，描述了揭開以倖存者的證言為基礎的墜機事故真相，以及隱藏的謎團過程中發生的故事。\[1\]\[2\]
 
 ## 演員陣容
 
@@ -258,14 +258,9 @@
 
   - [韓國MBC官方網站](http://www.imbc.com/broad/tv/drama/missing9/index.html)
 
-[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink")
-[Category:無人島背景作品](https://zh.wikipedia.org/wiki/Category:無人島背景作品 "wikilink")
-[Category:遇难漂流题材作品](https://zh.wikipedia.org/wiki/Category:遇难漂流题材作品 "wikilink")
-[Category:明星主角題材電視劇](https://zh.wikipedia.org/wiki/Category:明星主角題材電視劇 "wikilink")
-[Category:非直線敘事電視影集](https://zh.wikipedia.org/wiki/Category:非直線敘事電視影集 "wikilink")
+[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink") [Category:無人島背景作品](https://zh.wikipedia.org/wiki/Category:無人島背景作品 "wikilink") [Category:遇难漂流题材作品](https://zh.wikipedia.org/wiki/Category:遇难漂流题材作品 "wikilink") [Category:明星主角題材電視劇](https://zh.wikipedia.org/wiki/Category:明星主角題材電視劇 "wikilink") [Category:非直線敘事電視影集](https://zh.wikipedia.org/wiki/Category:非直線敘事電視影集 "wikilink")
 
 1.  [鄭敬淏、白珍熙確定出演MBC新劇《Missing9》　明年1月首播](http://www.koreastardaily.com/tc/news/86974)
-2.  [緊張氣氛十足！《Missing 9》初回預告公開 9人會遭遇怎樣的磨難？](http://www.vlovekpop.com/20161220-missing9/)
-    vlovekpop
+2.  [緊張氣氛十足！《Missing 9》初回預告公開 9人會遭遇怎樣的磨難？](http://www.vlovekpop.com/20161220-missing9/) vlovekpop
 3.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 4.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)

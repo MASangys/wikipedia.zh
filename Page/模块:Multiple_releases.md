@@ -1,5 +1,4 @@
-local infobox = require ('Module:Infobox').infobox local getArgs =
-require ('Module:Arguments').getArgs
+local infobox = require ('Module:Infobox').infobox local getArgs = require ('Module:Arguments').getArgs
 
 local p = {}
 

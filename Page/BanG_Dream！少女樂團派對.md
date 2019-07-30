@@ -1,12 +1,10 @@
-，日文簡稱“****”，是開發，\[1\]、[武士道發行的音樂節奏](../Page/武士道_\(公司\).md "wikilink")[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，屬於[跨媒體製作企劃](../Page/跨媒體製作.md "wikilink")《[BanG
-Dream\!](../Page/BanG_Dream!.md "wikilink")》的一部分，在2017年1月1日進行事前登錄，2017年3月16日正式開放下載\[2\]\[3\]。台灣地區由[移動怪獸取得代理權](https://zh.wikipedia.org/wiki/移動怪獸 "wikilink")，於2017年10月3日開放下載\[4\]。中國大陸地區由[bilibili取得代理權](https://zh.wikipedia.org/wiki/bilibili "wikilink")，於2017年11月9日宣告並開始接受預約\[5\]，2019年5月9日开始测试。韓國地區由Kakao取得代理權，於2018年2月6日開放下載。英文版於2018年3月29日開放新加坡下載，2018年4月4日開放全球下載\[6\]。
+，日文簡稱“****”，是開發，\[1\]、[武士道發行的音樂節奏](../Page/武士道_\(公司\).md "wikilink")[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，屬於[跨媒體製作](../Page/跨媒體製作.md "wikilink")企劃《[BanG Dream\!](../Page/BanG_Dream!.md "wikilink")》的一部分，在2017年1月1日進行事前登錄，2017年3月16日正式開放下載\[2\]\[3\]。台灣地區由[移動怪獸取得代理權](https://zh.wikipedia.org/wiki/移動怪獸 "wikilink")，於2017年10月3日開放下載\[4\]。中國大陸地區由[bilibili取得代理權](https://zh.wikipedia.org/wiki/bilibili "wikilink")，於2017年11月9日宣告並開始接受預約\[5\]，2019年5月9日开始测试。韓國地區由Kakao取得代理權，於2018年2月6日開放下載。英文版於2018年3月29日開放新加坡下載，2018年4月4日開放全球下載\[6\]。
 
 ## 遊戲簡介
 
 玩家們在遊戲中將扮演一名剛開張的[LiveHouse的員工](https://zh.wikipedia.org/wiki/展演空間 "wikilink")，為了招攬更多的客人，你必須完成老闆對你下達的兩項指令，那就是幫店裡企劃活動和尋找可在活動中演出的樂團。
 
-遊戲中共有五個不同性質的五人女子樂團，分別為Poppin'Party、Roselia、Afterglow、Pastel\*Palettes以及Hello,
-Happy World\!，玩家在遊戲中需要與這五組樂團成員進行互動，達成舉辦共同 Live的目標。
+遊戲中共有五個不同性質的五人女子樂團，分別為Poppin'Party、Roselia、Afterglow、Pastel\*Palettes以及Hello, Happy World\!，玩家在遊戲中需要與這五組樂團成員進行互動，達成舉辦共同 Live的目標。
 
 除了遊戲的主線劇情，每個樂團皆有自己的獨立劇情，遊戲劇情與動畫連貫，官方也持續推出不同的活動劇情。
 
@@ -14,14 +12,11 @@ Happy World\!，玩家在遊戲中需要與這五組樂團成員進行互動，�
 
 此遊戲為下落式音樂遊戲，遊玩時玩家必須在從螢幕上方下落的音符到達判定線時點擊，進而演奏完一首歌曲，點擊每個音符將會獲得分數。
 
-在遊戲中，玩家可以藉由轉蛋與累積活動積分來獲取人物卡片，遊戲內共有25名人物，每個人物都有不同類型的卡片，卡片有一星至四星四個等級，除了一星卡片外其餘卡片主要都由轉蛋與活動獲得，玩家可以使用自身擁有的卡片組成隊伍，每個隊伍有五名成員，其中會有一名隊長，組成隊伍後，玩家可以根據隊伍成員及其屬性在Live
-House擺放樂器、海報及其他物品來加成隊伍的戰力，戰力越高越有機會在演奏時取得高分。
+在遊戲中，玩家可以藉由轉蛋與累積活動積分來獲取人物卡片，遊戲內共有25名人物，每個人物都有不同類型的卡片，卡片有一星至四星四個等級，除了一星卡片外其餘卡片主要都由轉蛋與活動獲得，玩家可以使用自身擁有的卡片組成隊伍，每個隊伍有五名成員，其中會有一名隊長，組成隊伍後，玩家可以根據隊伍成員及其屬性在Live House擺放樂器、海報及其他物品來加成隊伍的戰力，戰力越高越有機會在演奏時取得高分。
 
-此遊戲非體力制，取而代之的是加成道具(Live
-Boost)，玩家可決定消耗1\~3個來獲得不同倍率的獎勵(也套用在活動積分上)，因此就算道具耗光也可繼續遊玩，但有道具時至少需消耗1個。道具每30分鐘回復1個，自動回復的上限為10個，但可消耗回復道具即刻增加數量，最高至99個。
+此遊戲非體力制，取而代之的是加成道具(Live Boost)，玩家可決定消耗1\~3個來獲得不同倍率的獎勵(也套用在活動積分上)，因此就算道具耗光也可繼續遊玩，但有道具時至少需消耗1個。道具每30分鐘回復1個，自動回復的上限為10個，但可消耗回復道具即刻增加數量，最高至99個。
 
-遊戲內的歌曲數眾多，分為原創曲與翻唱曲，原創曲為各樂團的獨創樂曲，翻唱曲則來自動畫或其他著名樂曲，所有樂曲的編曲皆由[Elements
-Garden負責](../Page/Elements_Garden.md "wikilink")。\[7\]\[8\]\[9\]
+遊戲內的歌曲數眾多，分為原創曲與翻唱曲，原創曲為各樂團的獨創樂曲，翻唱曲則來自動畫或其他著名樂曲，所有樂曲的編曲皆由[Elements Garden負責](../Page/Elements_Garden.md "wikilink")。\[7\]\[8\]\[9\]
 
 ## 遊戲模式
 
@@ -51,8 +46,7 @@ Garden負責](../Page/Elements_Garden.md "wikilink")。\[7\]\[8\]\[9\]
 
 ### 任務Live模式(ミッションライブ)
 
-首次出現於第61期活動，Live
-Try的變體版，會在任務列表中的「活動任務(イベンドミッション)」區域中出現一票活動限定的任務(條件皆為累積計算，如打指定歌曲一定次數、累計點擊次數等)，完成後可得到額外的獎勵，但須手動領取且無額外積分可拿。在此活動中會追加活動支援隊伍，此隊伍由系統在該隊伍以外的其他卡片中自動配出經活動加成計算後總合力最高的隊伍(卡片加成計算與共演模式相同)，並在演奏結束後依據隊伍總合力來獲得額外積分，而加成道具會將演奏與支援積分總合後再行加成計算。
+首次出現於第61期活動，Live Try的變體版，會在任務列表中的「活動任務(イベンドミッション)」區域中出現一票活動限定的任務(條件皆為累積計算，如打指定歌曲一定次數、累計點擊次數等)，完成後可得到額外的獎勵，但須手動領取且無額外積分可拿。在此活動中會追加活動支援隊伍，此隊伍由系統在該隊伍以外的其他卡片中自動配出經活動加成計算後總合力最高的隊伍(卡片加成計算與共演模式相同)，並在演奏結束後依據隊伍總合力來獲得額外積分，而加成道具會將演奏與支援積分總合後再行加成計算。
 
 ## 登場人物
 
@@ -150,8 +144,7 @@ Try的變體版，會在任務列表中的「活動任務(イベンドミッシ�
 
 ## 評價
 
-2017年12月4日发布的“Google Play
-2017年最佳游戏”，作为Android游戏应用，获得了用户投票与吸引力两个类别的大奖。\[10\]\[11\]
+2017年12月4日发布的“Google Play 2017年最佳游戏”，作为Android游戏应用，获得了用户投票与吸引力两个类别的大奖。\[10\]\[11\]
 
 ## 相關頁面
 
@@ -174,14 +167,7 @@ Try的變體版，會在任務列表中的「活動任務(イベンドミッシ�
   - [中国大陆游戏官方网站](https://game.bilibili.com/bangdream/yuyue/)
 
   -
-[Category:2017年电子游戏](https://zh.wikipedia.org/wiki/Category:2017年电子游戏 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink")
-[Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink")
-[Category:BanG_Dream\!](https://zh.wikipedia.org/wiki/Category:BanG_Dream! "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
-[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
+[Category:2017年电子游戏](https://zh.wikipedia.org/wiki/Category:2017年电子游戏 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink") [Category:BanG_Dream\!](https://zh.wikipedia.org/wiki/Category:BanG_Dream! "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
 
 1.
 
@@ -198,9 +184,7 @@ Try的變體版，會在任務列表中的「活動任務(イベンドミッシ�
 
 8.
 
-9.   AppMedia : 【国内最大級】ゲームアプリ攻略サイト！ |accessdate=2018-03-15
-    |date=2017-11-27 |work=AppMedia : みんなのソーシャルゲーム攻略情報サイト！
-    |language=ja}}
+9.   AppMedia : 【国内最大級】ゲームアプリ攻略サイト！ |accessdate=2018-03-15 |date=2017-11-27 |work=AppMedia : みんなのソーシャルゲーム攻略情報サイト！ |language=ja}}
 
 10.
 

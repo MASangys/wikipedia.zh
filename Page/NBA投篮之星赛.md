@@ -1,5 +1,4 @@
-**投篮之星赛**是[NBA全明星周末的一项赛事](../Page/NBA.md "wikilink")，在全明星正赛的前一晚举行。它从[2004年NBA全明星赛开始举办](../Page/2004年NBA全明星赛.md "wikilink")，但从[2016年NBA全明星赛起](../Page/2016年NBA全明星赛.md "wikilink"),
-全明星周末取消了这项赛事。\[1\]
+**投篮之星赛**是[NBA](../Page/NBA.md "wikilink")全明星周末的一项赛事，在全明星正赛的前一晚举行。它从[2004年NBA全明星赛](../Page/2004年NBA全明星赛.md "wikilink")开始举办，但从[2016年NBA全明星赛](../Page/2016年NBA全明星赛.md "wikilink")起, 全明星周末取消了这项赛事。\[1\]
 
 ## 参赛规则
 
@@ -7,66 +6,18 @@
 
 ## 历届冠军
 
-  - [2015](https://zh.wikipedia.org/wiki/2015年NBA全明星赛 "wikilink") :
-    **波什队**
-    ([热火](../Page/迈阿密热火.md "wikilink")/[纽约自由人](https://zh.wikipedia.org/wiki/纽约自由人 "wikilink")/[老鹰](../Page/亚特兰大老鹰.md "wikilink")):
-    [克里斯·波什](https://zh.wikipedia.org/wiki/克里斯·波什 "wikilink"),
-    [斯文·卡什](https://zh.wikipedia.org/wiki/斯文·卡什 "wikilink"),
-    [多米尼克·威尔金斯](../Page/多米尼克·威尔金斯.md "wikilink") (57.6秒)
-  - [2014](https://zh.wikipedia.org/wiki/2014年NBA全明星赛 "wikilink") :
-    **波什队**
-    ([热火](../Page/迈阿密热火.md "wikilink")/[芝加哥天空](https://zh.wikipedia.org/wiki/芝加哥天空 "wikilink")/[老鹰](../Page/亚特兰大老鹰.md "wikilink")):
-    [克里斯·波什](https://zh.wikipedia.org/wiki/克里斯·波什 "wikilink"),
-    [斯文·卡什](https://zh.wikipedia.org/wiki/斯文·卡什 "wikilink"),
-    [多米尼克·威尔金斯](../Page/多米尼克·威尔金斯.md "wikilink") (31.4秒)
-  - [2013](https://zh.wikipedia.org/wiki/2013年NBA全明星赛 "wikilink") :
-    **波什队**
-    ([热火](../Page/迈阿密热火.md "wikilink")/[芝加哥天空](https://zh.wikipedia.org/wiki/芝加哥天空 "wikilink")/[老鹰](../Page/亚特兰大老鹰.md "wikilink")):
-    [克里斯·波什](https://zh.wikipedia.org/wiki/克里斯·波什 "wikilink"),
-    [斯文·卡什](https://zh.wikipedia.org/wiki/斯文·卡什 "wikilink"),
-    [多米尼克·威尔金斯](../Page/多米尼克·威尔金斯.md "wikilink") (89.0秒)
-  - [2012](https://zh.wikipedia.org/wiki/2012年NBA全明星赛 "wikilink") :
-    **纽约队**: [兰德里·菲尔兹](../Page/兰德里·菲尔兹.md "wikilink"),
-    [卡皮·庞德克斯特](https://zh.wikipedia.org/wiki/卡皮·庞德克斯特 "wikilink"),
-    [阿兰·休斯顿](../Page/阿兰·休斯顿.md "wikilink") (37.3秒)
-  - [2011](../Page/2011年NBA全明星赛.md "wikilink") : **亚特兰大队**:
-    [艾尔·霍福德](https://zh.wikipedia.org/wiki/艾尔·霍福德 "wikilink"),
-    [Coco Miller](https://zh.wikipedia.org/wiki/Coco_Miller "wikilink"),
-    [史蒂夫·史密斯](../Page/史蒂夫·史密斯.md "wikilink") (70.0秒)
-  - [2010](https://zh.wikipedia.org/wiki/2010年NBA全明星赛 "wikilink") :
-    **德克萨斯队([小牛](https://zh.wikipedia.org/wiki/达拉斯小牛 "wikilink")/[火箭](https://zh.wikipedia.org/wiki/休斯顿火箭 "wikilink")/[马刺](../Page/圣安东尼奥马刺.md "wikilink"))**:
-    [德克·诺维茨基](../Page/德克·诺维茨基.md "wikilink"),
-    [贝姬·哈蒙](../Page/贝姬·哈蒙.md "wikilink"),
-    [肯尼·史密斯](../Page/肯尼·史密斯.md "wikilink") (34.3秒)
-  - [2009](https://zh.wikipedia.org/wiki/2009年NBA全明星赛 "wikilink") :
-    **底特律队**:
-    [阿隆·阿弗拉罗](https://zh.wikipedia.org/wiki/阿隆·阿弗拉罗 "wikilink"),
-    [凯蒂·史密斯](../Page/凯蒂·史密斯.md "wikilink"),
-    [比尔·兰比尔](../Page/比尔·兰比尔.md "wikilink") (58.4秒)
-  - [2008](https://zh.wikipedia.org/wiki/2008年NBA全明星赛 "wikilink") :
-    **圣安东尼奥队**:
-    [蒂姆·邓肯](https://zh.wikipedia.org/wiki/蒂姆·邓肯 "wikilink"),
-    [贝姬·哈蒙](../Page/贝姬·哈蒙.md "wikilink"),
-    [大卫·罗宾逊](https://zh.wikipedia.org/wiki/大卫·罗宾逊 "wikilink")
-    (35.8秒)
-  - [2007](../Page/2007年NBA全明星赛.md "wikilink") : **底特律队**:
-    [昌西·比卢普斯](https://zh.wikipedia.org/wiki/昌西·比卢普斯 "wikilink"),
-    [斯文·卡什](https://zh.wikipedia.org/wiki/斯文·卡什 "wikilink"),
-    [比尔·兰比尔](../Page/比尔·兰比尔.md "wikilink") (50.5秒)
-  - [2006](../Page/2006年NBA全明星赛.md "wikilink") : **圣安东尼奥队**:
-    [托尼·帕克](../Page/托尼·帕克.md "wikilink"), [Kendra
-    Wecker](https://zh.wikipedia.org/wiki/Kendra_Wecker "wikilink"),
-    [史蒂夫·科尔](https://zh.wikipedia.org/wiki/史蒂夫·科尔 "wikilink")
-    (25.1秒)
-  - [2005](../Page/2005年NBA全明星赛.md "wikilink") : **菲尼克斯队**:
-    [肖恩·马里昂](../Page/肖恩·马里昂.md "wikilink"),
-    [黛安娜·陶乐西](../Page/黛安娜·陶乐西.md "wikilink"),
-    [丹·马尔利](../Page/丹·马尔利.md "wikilink") (28秒)
-  - [2004](../Page/2004年NBA全明星赛.md "wikilink") : **洛杉矶队** :
-    [德里克·费舍尔](https://zh.wikipedia.org/wiki/德里克·费舍尔 "wikilink"),
-    [丽莎·莱斯莉](../Page/丽莎·莱斯莉.md "wikilink"),
-    [魔术师约翰逊](../Page/魔术师约翰逊.md "wikilink")
-    (43.9秒)
+  - [2015](https://zh.wikipedia.org/wiki/2015年NBA全明星赛 "wikilink") : **波什队** ([热火](../Page/迈阿密热火.md "wikilink")/[纽约自由人](https://zh.wikipedia.org/wiki/纽约自由人 "wikilink")/[老鹰](../Page/亚特兰大老鹰.md "wikilink")): [克里斯·波什](https://zh.wikipedia.org/wiki/克里斯·波什 "wikilink"), [斯文·卡什](https://zh.wikipedia.org/wiki/斯文·卡什 "wikilink"), [多米尼克·威尔金斯](../Page/多米尼克·威尔金斯.md "wikilink") (57.6秒)
+  - [2014](https://zh.wikipedia.org/wiki/2014年NBA全明星赛 "wikilink") : **波什队** ([热火](../Page/迈阿密热火.md "wikilink")/[芝加哥天空](https://zh.wikipedia.org/wiki/芝加哥天空 "wikilink")/[老鹰](../Page/亚特兰大老鹰.md "wikilink")): [克里斯·波什](https://zh.wikipedia.org/wiki/克里斯·波什 "wikilink"), [斯文·卡什](https://zh.wikipedia.org/wiki/斯文·卡什 "wikilink"), [多米尼克·威尔金斯](../Page/多米尼克·威尔金斯.md "wikilink") (31.4秒)
+  - [2013](https://zh.wikipedia.org/wiki/2013年NBA全明星赛 "wikilink") : **波什队** ([热火](../Page/迈阿密热火.md "wikilink")/[芝加哥天空](https://zh.wikipedia.org/wiki/芝加哥天空 "wikilink")/[老鹰](../Page/亚特兰大老鹰.md "wikilink")): [克里斯·波什](https://zh.wikipedia.org/wiki/克里斯·波什 "wikilink"), [斯文·卡什](https://zh.wikipedia.org/wiki/斯文·卡什 "wikilink"), [多米尼克·威尔金斯](../Page/多米尼克·威尔金斯.md "wikilink") (89.0秒)
+  - [2012](https://zh.wikipedia.org/wiki/2012年NBA全明星赛 "wikilink") : **纽约队**: [兰德里·菲尔兹](../Page/兰德里·菲尔兹.md "wikilink"), [卡皮·庞德克斯特](https://zh.wikipedia.org/wiki/卡皮·庞德克斯特 "wikilink"), [阿兰·休斯顿](../Page/阿兰·休斯顿.md "wikilink") (37.3秒)
+  - [2011](../Page/2011年NBA全明星赛.md "wikilink") : **亚特兰大队**: [艾尔·霍福德](https://zh.wikipedia.org/wiki/艾尔·霍福德 "wikilink"), [Coco Miller](https://zh.wikipedia.org/wiki/Coco_Miller "wikilink"), [史蒂夫·史密斯](../Page/史蒂夫·史密斯.md "wikilink") (70.0秒)
+  - [2010](https://zh.wikipedia.org/wiki/2010年NBA全明星赛 "wikilink") : **德克萨斯队([小牛](https://zh.wikipedia.org/wiki/达拉斯小牛 "wikilink")/[火箭](https://zh.wikipedia.org/wiki/休斯顿火箭 "wikilink")/[马刺](../Page/圣安东尼奥马刺.md "wikilink"))**: [德克·诺维茨基](../Page/德克·诺维茨基.md "wikilink"), [贝姬·哈蒙](../Page/贝姬·哈蒙.md "wikilink"), [肯尼·史密斯](../Page/肯尼·史密斯.md "wikilink") (34.3秒)
+  - [2009](https://zh.wikipedia.org/wiki/2009年NBA全明星赛 "wikilink") : **底特律队**: [阿隆·阿弗拉罗](https://zh.wikipedia.org/wiki/阿隆·阿弗拉罗 "wikilink"), [凯蒂·史密斯](../Page/凯蒂·史密斯.md "wikilink"), [比尔·兰比尔](../Page/比尔·兰比尔.md "wikilink") (58.4秒)
+  - [2008](https://zh.wikipedia.org/wiki/2008年NBA全明星赛 "wikilink") : **圣安东尼奥队**: [蒂姆·邓肯](https://zh.wikipedia.org/wiki/蒂姆·邓肯 "wikilink"), [贝姬·哈蒙](../Page/贝姬·哈蒙.md "wikilink"), [大卫·罗宾逊](https://zh.wikipedia.org/wiki/大卫·罗宾逊 "wikilink") (35.8秒)
+  - [2007](../Page/2007年NBA全明星赛.md "wikilink") : **底特律队**: [昌西·比卢普斯](https://zh.wikipedia.org/wiki/昌西·比卢普斯 "wikilink"), [斯文·卡什](https://zh.wikipedia.org/wiki/斯文·卡什 "wikilink"), [比尔·兰比尔](../Page/比尔·兰比尔.md "wikilink") (50.5秒)
+  - [2006](../Page/2006年NBA全明星赛.md "wikilink") : **圣安东尼奥队**: [托尼·帕克](../Page/托尼·帕克.md "wikilink"), [Kendra Wecker](https://zh.wikipedia.org/wiki/Kendra_Wecker "wikilink"), [史蒂夫·科尔](https://zh.wikipedia.org/wiki/史蒂夫·科尔 "wikilink") (25.1秒)
+  - [2005](../Page/2005年NBA全明星赛.md "wikilink") : **菲尼克斯队**: [肖恩·马里昂](../Page/肖恩·马里昂.md "wikilink"), [黛安娜·陶乐西](../Page/黛安娜·陶乐西.md "wikilink"), [丹·马尔利](../Page/丹·马尔利.md "wikilink") (28秒)
+  - [2004](../Page/2004年NBA全明星赛.md "wikilink") : **洛杉矶队** : [德里克·费舍尔](https://zh.wikipedia.org/wiki/德里克·费舍尔 "wikilink"), [丽莎·莱斯莉](../Page/丽莎·莱斯莉.md "wikilink"), [魔术师约翰逊](../Page/魔术师约翰逊.md "wikilink") (43.9秒)
 
 ## 其他参赛者
 
@@ -128,12 +79,9 @@
 
 ## 外部链接
 
-  - [2012 Shooting
-    Stars](http://www.nba.com/allstar/2012/shooting-stars/index.html)
-  - [2011 Shooting
-    Stars](http://www.nba.com/allstar/2011/shooting.stars/)
-  - [2010 Shooting
-    Stars](http://www.nba.com/allstar/2010/shooting.stars/index.html)
+  - [2012 Shooting Stars](http://www.nba.com/allstar/2012/shooting-stars/index.html)
+  - [2011 Shooting Stars](http://www.nba.com/allstar/2011/shooting.stars/)
+  - [2010 Shooting Stars](http://www.nba.com/allstar/2010/shooting.stars/index.html)
   - [2009 Shooting Stars](http://www.nba.com/allstar2009/shooting_stars)
   - [2008 Shooting Stars](http://www.nba.com/allstar2008/shooting_stars)
   - [2007 Shooting Stars](http://www.nba.com/allstar2007/shooting_stars)
@@ -143,11 +91,6 @@
 
 ## 参考资料
 
-[Category:NBA全明星赛](https://zh.wikipedia.org/wiki/Category:NBA全明星赛 "wikilink")
-[Category:2004年建立的週期性體育事件](https://zh.wikipedia.org/wiki/Category:2004年建立的週期性體育事件 "wikilink")
-[Category:2015年廢除的週期性體育事件](https://zh.wikipedia.org/wiki/Category:2015年廢除的週期性體育事件 "wikilink")
-[Category:2004年美國建立](https://zh.wikipedia.org/wiki/Category:2004年美國建立 "wikilink")
-[Category:2015年美國廢除](https://zh.wikipedia.org/wiki/Category:2015年美國廢除 "wikilink")
+[Category:NBA全明星赛](https://zh.wikipedia.org/wiki/Category:NBA全明星赛 "wikilink") [Category:2004年建立的週期性體育事件](https://zh.wikipedia.org/wiki/Category:2004年建立的週期性體育事件 "wikilink") [Category:2015年廢除的週期性體育事件](https://zh.wikipedia.org/wiki/Category:2015年廢除的週期性體育事件 "wikilink") [Category:2004年美國建立](https://zh.wikipedia.org/wiki/Category:2004年美國建立 "wikilink") [Category:2015年美國廢除](https://zh.wikipedia.org/wiki/Category:2015年美國廢除 "wikilink")
 
-1.  [Chris Bosh says NBA has scrapped Shooting Stars at All-Star
-    weekend](http://www.cbssports.com/nba/eye-on-basketball/25433213/chris-bosh-says-nba-has-scrapped-shooting-stars-at-all-star-weekend)
+1.  [Chris Bosh says NBA has scrapped Shooting Stars at All-Star weekend](http://www.cbssports.com/nba/eye-on-basketball/25433213/chris-bosh-says-nba-has-scrapped-shooting-stars-at-all-star-weekend)

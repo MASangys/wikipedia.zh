@@ -1,20 +1,16 @@
-邁克 D.安吉洛（，），本名'''披拉·尼迪裴善官
-'''（），[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[男演員](https://zh.wikipedia.org/wiki/男演員 "wikilink")、[男歌手](https://zh.wikipedia.org/wiki/男歌手 "wikilink")，中泰混血，爺爺是中國人，中國姓氏為‘吳’。爸爸擁有皮革制品公司和Michelangelo品牌，Mike的小名和藝名均出自該品牌名稱。
+邁克 D.安吉洛（，），本名'''披拉·尼迪裴善官 '''（），[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[男演員](https://zh.wikipedia.org/wiki/男演員 "wikilink")、[男歌手](https://zh.wikipedia.org/wiki/男歌手 "wikilink")，中泰混血，爺爺是中國人，中國姓氏為‘吳’。爸爸擁有皮革制品公司和Michelangelo品牌，Mike的小名和藝名均出自該品牌名稱。
 
 ## 簡介
 
   - 2001年，11歲的Mike和14歲的三哥Golf參加泰國最大娛樂公司GMM的選拔，順利進入公司培訓，成為G-junior的成員之一，學習唱歌跳舞。
-  - 2004年，**Golf\&Mike**作為表演嘉賓參演Bird Thongchai McIntyre's For Fan Fun
-    Fair Concert開幕表演，年底受邀參加日本組合News在東京國際論壇的演唱會。
-  - 2005年，以組合**Golf\&Mike**正式出道，後與[山下智久组成限定組合GYM](../Page/山下智久.md "wikilink")，期間獲得不少獎項並開過多場演唱會。
+  - 2004年，**Golf\&Mike**作為表演嘉賓參演Bird Thongchai McIntyre's For Fan Fun Fair Concert開幕表演，年底受邀參加日本組合News在東京國際論壇的演唱會。
+  - 2005年，以組合**Golf\&Mike**正式出道，後與[山下智久](../Page/山下智久.md "wikilink")组成限定組合GYM，期間獲得不少獎項並開過多場演唱會。
   - 2011年，**Golf\&Mike**解散，Mike單飛後主攻電影和電視劇。
 
 ## 個人生活
 
   - 从小有哮喘、过敏等。以前开演唱会时曾因哮喘发作几次住院。2011年经常咳嗽甚至咳出血。近年身体状况有所好转。眼睛近视且过敏，不适合戴隐形眼镜，因此墨镜都是有度数的。
-  - 2014年7月，Mike與英泰混血的前女友Sarah（原文名：Sarah
-    Casinghini）所生的孩子誕生，取名為Maxwell（原文名：JAO
-    NU），並在第一時間召開發布會承認了這件事。他表示自從知道Sarah懷孕就做好要做爸爸的準備，在產期也有去醫院探視。由于泰国不允许堕胎，虽然有宗教因素在里面可见泰国对堕胎危害后遗症的重视程度。直至孩子Maxwell出生後親自抱過，看第一眼就直覺確定是自己的孩子，並承諾會一直照顧母子，就算去驗DNA也只是讓家人安心\[1\]。
+  - 2014年7月，Mike與英泰混血的前女友Sarah（原文名：Sarah Casinghini）所生的孩子誕生，取名為Maxwell（原文名：JAO NU），並在第一時間召開發布會承認了這件事。他表示自從知道Sarah懷孕就做好要做爸爸的準備，在產期也有去醫院探視。由于泰国不允许堕胎，虽然有宗教因素在里面可见泰国对堕胎危害后遗症的重视程度。直至孩子Maxwell出生後親自抱過，看第一眼就直覺確定是自己的孩子，並承諾會一直照顧母子，就算去驗DNA也只是讓家人安心\[1\]。
 
 ## 影視作品
 
@@ -68,7 +64,7 @@
 <p>2014年</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/Full_House浪漫滿屋" title="wikilink">Full House浪漫滿屋</a>》</p></td>
 <td><p>Mike</p></td>
-<td><p>與<a href="../Page/李海娜.md" title="wikilink">李海娜主演</a></p></td>
+<td><p>與<a href="../Page/李海娜.md" title="wikilink">李海娜</a>主演</p></td>
 </tr>
 <tr class="odd">
 <td><p>《大地之心》</p></td>
@@ -92,7 +88,7 @@
 <tr class="even">
 <td><p>《<a href="../Page/Kiss_Me.md" title="wikilink">Kiss Me</a>》</p></td>
 <td><p>Tenten</p></td>
-<td><p>與<a href="../Page/李海娜.md" title="wikilink">李海娜主演</a></p></td>
+<td><p>與<a href="../Page/李海娜.md" title="wikilink">李海娜</a>主演</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -124,7 +120,7 @@
 <tr class="odd">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/美味奇緣" title="wikilink">美味奇緣</a>》</p></td>
 <td><p>李雨哲</p></td>
-<td><p>與<a href="../Page/毛曉彤.md" title="wikilink">毛曉彤主演</a></p></td>
+<td><p>與<a href="../Page/毛曉彤.md" title="wikilink">毛曉彤</a>主演</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -132,14 +128,14 @@
 <p>2018年</p></td>
 <td><p>《<a href="../Page/游泳先生.md" title="wikilink">游泳先生</a>》</p></td>
 <td><p>白泳澤</p></td>
-<td><p>與<a href="../Page/鞠婧禕.md" title="wikilink">鞠婧禕主演</a></p></td>
+<td><p>與<a href="../Page/鞠婧禕.md" title="wikilink">鞠婧禕</a>主演</p></td>
 </tr>
 <tr class="odd">
 <td><CENTER>
 <p>2019年</p></td>
 <td><p>《<a href="../Page/我的奇妙男友2之恋恋不忘.md" title="wikilink">我的奇妙男友2之恋恋不忘</a>》</p></td>
 <td><p>薛靈喬</p></td>
-<td><p>與<a href="../Page/虞書欣.md" title="wikilink">虞書欣主演</a></p></td>
+<td><p>與<a href="../Page/虞書欣.md" title="wikilink">虞書欣</a>主演</p></td>
 </tr>
 <tr class="even">
 <td><CENTER>
@@ -188,7 +184,7 @@
 <p>2015年</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/万万没想到：西游篇" title="wikilink">万万没想到：西游篇</a>》</p></td>
 <td><p>豬八戒</p></td>
-<td><p>與<a href="../Page/白客.md" title="wikilink">白客</a>、<a href="../Page/陳柏霖.md" title="wikilink">陳柏霖合作主演</a></p></td>
+<td><p>與<a href="../Page/白客.md" title="wikilink">白客</a>、<a href="../Page/陳柏霖.md" title="wikilink">陳柏霖</a>合作主演</p></td>
 </tr>
 <tr class="even">
 <td><p>《面若桃花》</p></td>
@@ -253,7 +249,7 @@
 <tr class="even">
 <td><CENTER>
 <p>2017年</p></td>
-<td><p><a href="../Page/中餐厅.md" title="wikilink">中餐廳</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -523,7 +519,7 @@
 <td><CENTER>
 <p>2017年</p></td>
 <td><p>遙遠的諾言</p></td>
-<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/美味奇緣" title="wikilink">美味奇緣</a>》片尾曲（與<a href="../Page/毛曉彤.md" title="wikilink">毛曉彤合唱</a>）</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/美味奇緣" title="wikilink">美味奇緣</a>》片尾曲（與<a href="../Page/毛曉彤.md" title="wikilink">毛曉彤</a>合唱）</p></td>
 </tr>
 <tr class="even">
 <td><p>Together forever</p></td>
@@ -1007,17 +1003,8 @@ Golf & Mike 已發行3張官方寫真集。全部由GMM Grammy的子公司'In Pu
   -
   - [Twitter:Mike](https://twitter.com/M1KEANGELO/)
 
-  - <https://www.facebook.com/M1KEANGELO1989/> Official Facebook Mike D.
-    Angelo Fanpage
+  - <https://www.facebook.com/M1KEANGELO1989/> Official Facebook Mike D. Angelo Fanpage
 
-[Category:泰国演员](https://zh.wikipedia.org/wiki/Category:泰国演员 "wikilink")
-[Category:泰國電影演員](https://zh.wikipedia.org/wiki/Category:泰國電影演員 "wikilink")
-[Category:泰國電視演員](https://zh.wikipedia.org/wiki/Category:泰國電視演員 "wikilink")
-[Category:泰國男歌手](https://zh.wikipedia.org/wiki/Category:泰國男歌手 "wikilink")
-[Category:泰國華人](https://zh.wikipedia.org/wiki/Category:泰國華人 "wikilink")
-[Category:華裔混血兒](https://zh.wikipedia.org/wiki/Category:華裔混血兒 "wikilink")
-[Category:泰族裔混血兒](https://zh.wikipedia.org/wiki/Category:泰族裔混血兒 "wikilink")
-[Category:曼谷人](https://zh.wikipedia.org/wiki/Category:曼谷人 "wikilink")
+[Category:泰国演员](https://zh.wikipedia.org/wiki/Category:泰国演员 "wikilink") [Category:泰國電影演員](https://zh.wikipedia.org/wiki/Category:泰國電影演員 "wikilink") [Category:泰國電視演員](https://zh.wikipedia.org/wiki/Category:泰國電視演員 "wikilink") [Category:泰國男歌手](https://zh.wikipedia.org/wiki/Category:泰國男歌手 "wikilink") [Category:泰國華人](https://zh.wikipedia.org/wiki/Category:泰國華人 "wikilink") [Category:華裔混血兒](https://zh.wikipedia.org/wiki/Category:華裔混血兒 "wikilink") [Category:泰族裔混血兒](https://zh.wikipedia.org/wiki/Category:泰族裔混血兒 "wikilink") [Category:曼谷人](https://zh.wikipedia.org/wiki/Category:曼谷人 "wikilink")
 
-1.  [mike没结婚为什么有孩子 前女友生下一子两人依旧难以复合
-    尚之潮](http://www.shangc.net/news/2017/0821/34151523.html)
+1.  [mike没结婚为什么有孩子 前女友生下一子两人依旧难以复合 尚之潮](http://www.shangc.net/news/2017/0821/34151523.html)

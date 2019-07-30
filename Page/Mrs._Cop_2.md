@@ -1,12 +1,8 @@
-《**Mrs. Cop
-2**》（）為[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[SBS自](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")2016年3月5日起播出的[週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink")，是《[Mrs.
-Cop](../Page/Mrs._Cop.md "wikilink")》系列作品第二季。由《[Mrs.
-Cop](../Page/Mrs._Cop.md "wikilink")》[黃洙夏](../Page/黃洙夏.md "wikilink")
-作家與[劉仁植導演再次攜手打造](../Page/劉仁植.md "wikilink")。\[1\]
+《**Mrs. Cop 2**》（）為[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[SBS自](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")2016年3月5日起播出的[週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink")，是《[Mrs. Cop](../Page/Mrs._Cop.md "wikilink")》系列作品第二季。由《[Mrs. Cop](../Page/Mrs._Cop.md "wikilink")》[黃洙夏](../Page/黃洙夏.md "wikilink") 作家與[劉仁植](../Page/劉仁植.md "wikilink")導演再次攜手打造。\[1\]
 
 ## 劇情大綱
 
-承接上一季的故事，崔英珍（[金喜愛飾](../Page/金喜愛.md "wikilink")）因個人理由停職，因此由原本的隊伍搭配上剛結束[FBI](https://zh.wikipedia.org/wiki/FBI "wikilink")（聯邦調查局）研修回來的「紐約派大嬸刑警」高潤靜（[金成鈴飾](../Page/金成鈴.md "wikilink")）而開始的故事。
+承接上一季的故事，崔英珍（[金喜愛](../Page/金喜愛.md "wikilink")飾）因個人理由停職，因此由原本的隊伍搭配上剛結束[FBI](https://zh.wikipedia.org/wiki/FBI "wikilink")（聯邦調查局）研修回來的「紐約派大嬸刑警」高潤靜（[金成鈴](../Page/金成鈴.md "wikilink")飾）而開始的故事。
 
 ## 演出陣容
 
@@ -497,13 +493,9 @@ Cop](../Page/Mrs._Cop.md "wikilink")》[黃洙夏](../Page/黃洙夏.md "wikilin
 
   - [韓國SBS官方網站](http://program.sbs.co.kr/builder/programMainList.do?pgm_id=22000009200)
 
-[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink")
-[Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
+[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
 
-1.  [金成鈴確認出演《Mrs.Cop》第二季 3月5日首播](http://www.allthatstar.com/tw/view.php?action=5205&postID=195508)
-     全星網
+1.  [金成鈴確認出演《Mrs.Cop》第二季 3月5日首播](http://www.allthatstar.com/tw/view.php?action=5205&postID=195508)  全星網
 2.  劇中演員曾多次錯誤稱呼金熙燦演員原名
 3.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 4.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)

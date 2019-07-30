@@ -1,4 +1,4 @@
-《**暖DD·食平D**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的飲食節目](../Page/電視廣播有限公司.md "wikilink")**食平D系列**的第四輯，全節目共30集，由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明擔任主持](../Page/陸浩明.md "wikilink")。本節目於[香港時間](../Page/香港時間.md "wikilink")2015年12月28日起，逢星期一至五22:30－23:00在[翡翠台和](../Page/翡翠台.md "wikilink")[高清翡翠台播出](../Page/高清翡翠台.md "wikilink")，並於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。
+《**暖DD·食平D**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的飲食節目**食平D系列**的第四輯，全節目共30集，由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明](../Page/陸浩明.md "wikilink")擔任主持。本節目於[香港時間](../Page/香港時間.md "wikilink")2015年12月28日起，逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")和[高清翡翠台](../Page/高清翡翠台.md "wikilink")播出，並於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。
 
 ## 每集內容
 
@@ -361,7 +361,7 @@
 
 ## 收視
 
-以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 | 週次 | 集數    | 日期               | 平均收視 |
 | -- | ----- | ---------------- | ---- |
@@ -374,12 +374,8 @@
 
 ## 外部連結
 
-  - [無綫電視節目網頁 -
-    暖DD·食平D](http://programme.tvb.com/foodandtravel/goodcheapeats4/)
+  - [無綫電視節目網頁 - 暖DD·食平D](http://programme.tvb.com/foodandtravel/goodcheapeats4/)
 
 ## 電視節目的變遷
 
-[Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink")
-[Category:2016年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2016年無綫電視節目 "wikilink")
-[Category:食平D系列](https://zh.wikipedia.org/wiki/Category:食平D系列 "wikilink")
-[Category:無綫電視飲食節目](https://zh.wikipedia.org/wiki/Category:無綫電視飲食節目 "wikilink")
+[Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink") [Category:2016年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2016年無綫電視節目 "wikilink") [Category:食平D系列](https://zh.wikipedia.org/wiki/Category:食平D系列 "wikilink") [Category:無綫電視飲食節目](https://zh.wikipedia.org/wiki/Category:無綫電視飲食節目 "wikilink")

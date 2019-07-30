@@ -1,9 +1,6 @@
-《**劇場版 假面騎士EX-AID
-True・Ending**》（），是日本特攝節目《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的獨立劇場版。日本地區預定於2017年8月5日上映。
+《**劇場版 假面騎士EX-AID True・Ending**》（），是日本特攝節目《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的獨立劇場版。日本地區預定於2017年8月5日上映。
 
-此外《[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")》的作品《[宇宙戰隊九連者](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")》劇場版《[宇宙戰隊九連者
-THE MOVIE
-Goes・Indaver的逆襲](../Page/宇宙戰隊九連者_THE_MOVIE_Goes·Indaver的逆襲.md "wikilink")》亦同步上映。
+此外《[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")》的作品《[宇宙戰隊九連者](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")》劇場版《[宇宙戰隊九連者 THE MOVIE Goes・Indaver的逆襲](../Page/宇宙戰隊九連者_THE_MOVIE_Goes·Indaver的逆襲.md "wikilink")》亦同步上映。
 
 本作劇場版的口號為「拯救生命的是VR（虛擬實境）的世界？ 亦或是現實的醫療？」、「GAME END」、「醫生戰鬥的終結」。
 
@@ -12,13 +9,10 @@ Goes・Indaver的逆襲](../Page/宇宙戰隊九連者_THE_MOVIE_Goes·Indaver�
   - 本作將與Playstation VR進行連動。
   - 本作劇場版為《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的真結局\[1\]。
   - 本作的部份主要角色會因劇情而擁有不同身份。
-  - 下一部系列作《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》的主角騎士 -
-    假面騎士Build與其兔子坦克及猩猩鑽石形態於本作先行登場。
+  - 下一部系列作《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》的主角騎士 - 假面騎士Build與其兔子坦克及猩猩鑽石形態於本作先行登場。
   - 預告中顯示劇中檀黎斗駕駛的車\[2\]其車牌號為『**し**9610』，正巧是檀黎斗於本篇中其中之一的自稱「檀黎斗神」的諧音。
-  - 本作中反派角色南雲影成 /
-    假面騎士風魔由知名歌手兼演員同時也是知名雙人組合[化學超男子成員的](../Page/化學超男子.md "wikilink")[堂珍嘉邦飾演](https://zh.wikipedia.org/wiki/堂珍嘉邦 "wikilink")。
-  - 本作亦邀清到長年在一線活躍的歌手兼演員[Bro.TOM擔當本作中重要角色](https://zh.wikipedia.org/wiki/Bro.TOM "wikilink")，亦同時原[早安少女組。成員的](../Page/早安少女組。.md "wikilink")[藤本美貴及](../Page/藤本美貴.md "wikilink")[AKB48的Team](../Page/AKB48.md "wikilink")
-    8成員[倉野尾成美參與本作演出](../Page/倉野尾成美.md "wikilink")。
+  - 本作中反派角色南雲影成 / 假面騎士風魔由知名歌手兼演員同時也是知名雙人組合[化學超男子](../Page/化學超男子.md "wikilink")成員的[堂珍嘉邦飾演](https://zh.wikipedia.org/wiki/堂珍嘉邦 "wikilink")。
+  - 本作亦邀清到長年在一線活躍的歌手兼演員[Bro.TOM擔當本作中重要角色](https://zh.wikipedia.org/wiki/Bro.TOM "wikilink")，亦同時原[早安少女組。](../Page/早安少女組。.md "wikilink")成員的[藤本美貴](../Page/藤本美貴.md "wikilink")及[AKB48](../Page/AKB48.md "wikilink")的Team 8成員[倉野尾成美](../Page/倉野尾成美.md "wikilink")參與本作演出。
 
 ## 故事概要
 
@@ -30,8 +24,7 @@ Goes・Indaver的逆襲](../Page/宇宙戰隊九連者_THE_MOVIE_Goes·Indaver�
 
   - 幻夢VR
     原文： / *Genm VR*
-    幻夢集團所開發的VR設備，是本作的關鍵道具，是以PS VR
-    頭戴式裝置為藍本所設計\[3\]，主要功用為讓永夢進入VR空間內並可在此空間進行變身。
+    幻夢集團所開發的VR設備，是本作的關鍵道具，是以PS VR 頭戴式裝置為藍本所設計\[3\]，主要功用為讓永夢進入VR空間內並可在此空間進行變身。
 
 <!-- end list -->
 
@@ -51,26 +44,24 @@ Goes・Indaver的逆襲](../Page/宇宙戰隊九連者_THE_MOVIE_Goes·Indaver�
 
 **寶生永夢（）**（[飯島寛騎飾](https://zh.wikipedia.org/wiki/飯島寛騎 "wikilink")）
 
-**鏡飛彩（）**（[瀨戶利樹飾](../Page/瀨戶利樹.md "wikilink")）
+**鏡飛彩（）**（[瀨戶利樹](../Page/瀨戶利樹.md "wikilink")飾）
 
-**花家大我（）**（[松本享恭飾](../Page/松本享恭.md "wikilink")）
+**花家大我（）**（[松本享恭](../Page/松本享恭.md "wikilink")飾）
 
-**檀黎斗（）**（[岩永徹也飾](../Page/岩永徹也.md "wikilink")）
+**檀黎斗（）**（[岩永徹也](../Page/岩永徹也.md "wikilink")飾）
 
-'''假野明日那（） / Poppypipopapo（）
-'''（[松田瑠華飾](https://zh.wikipedia.org/wiki/松田瑠華 "wikilink")）
+'''假野明日那（） / Poppypipopapo（） '''（[松田瑠華飾](https://zh.wikipedia.org/wiki/松田瑠華 "wikilink")）
 
-**九条貴利矢（）**（[小野塚勇人飾](../Page/小野塚勇人.md "wikilink")）
+**九条貴利矢（）**（[小野塚勇人](../Page/小野塚勇人.md "wikilink")飾）
 
-**帕拉德（）**（[甲斐翔真飾](../Page/甲斐翔真.md "wikilink")）
+**帕拉德（）**（[甲斐翔真](../Page/甲斐翔真.md "wikilink")飾）
 
 ### 本作登場人物
 
 **南雲影成（）**（[堂珍嘉邦飾](https://zh.wikipedia.org/wiki/堂珍嘉邦 "wikilink")）
 
   -
-    星圓的父親及星朱美的丈夫，外資系遊戲公司『機器視覺（マキナビジョン，Machina
-    Vision）』的幹部成員，也是假面騎士風魔的變身者。
+    星圓的父親及星朱美的丈夫，外資系遊戲公司『機器視覺（マキナビジョン，Machina Vision）』的幹部成員，也是假面騎士風魔的變身者。
     打算將人類的意識永久封閉在虛擬世界內，並為了將虛擬世界塑造成「永遠的天國」而對現實世界進行破壞，事实上是为了弥补對女儿星圆的关心而这么做的。
     在被假面騎士Snipe 和Lazer Turbo 打敗後，又被永梦责骂一番，而恍然大悟，後和妻儿恢复了以往的生活。
 
@@ -82,21 +73,23 @@ Goes・Indaver的逆襲](../Page/宇宙戰隊九連者_THE_MOVIE_Goes·Indaver�
 **強尼・馬克希瑪（）**（[Bro.TOM飾](https://zh.wikipedia.org/wiki/Bro.TOM "wikilink")）
 
   -
-    外資系遊戲公司『機器視覺（マキナビジョン，Machina
-    Vision）』的社長，喜歡日本的文化尤其是忍者\[4\]，同時也是蓋姆迪烏斯機器崩源體的變身者。
-    於本篇第41話先行登場，因檀正宗只想推廣「假面騎士編年史」的市場而沒意願合作開發結合兩家技術的全新遊戲下撤除合作意願，後在眾人對戰檀正宗的現場中取走被擊敗的古納法所遺落的Gashacon
-    Bugwiser。
+    外資系遊戲公司『機器視覺（マキナビジョン，Machina Vision）』的社長，喜歡日本的文化尤其是忍者\[4\]，同時也是蓋姆迪烏斯機器崩源體的變身者。
+    於本篇第41話先行登場，因檀正宗只想推廣「假面騎士編年史」的市場而沒意願合作開發結合兩家技術的全新遊戲下撤除合作意願，後在眾人對戰檀正宗的現場中取走被擊敗的古納法所遺落的Gashacon Bugwiser。
     於本劇場版變身成蓋姆迪烏斯機器，但最後仍被假面騎士EX-AID 無敵玩家擊倒。
 
-**星朱美（）**（[藤本美貴飾](../Page/藤本美貴.md "wikilink")）
+**星朱美（）**（[藤本美貴](../Page/藤本美貴.md "wikilink")飾）
 
   -
     星圓的母親，獨自一人養育幼小的小圓。
 
-**女高中生（）** （[倉野尾成美飾](../Page/倉野尾成美.md "wikilink")）
+**女高中生（）** （[倉野尾成美](../Page/倉野尾成美.md "wikilink")飾）
 
   -
     因幫助感染新型病毒的患者，卻導致自身也受到感染的女高中生。
+
+<!-- end list -->
+
+  - 假面騎士Build - [犬飼貴丈](../Page/犬飼貴丈.md "wikilink")
 
 ## 本作限定登場假面騎士/形態
 
@@ -318,39 +311,6 @@ Goes・Indaver的逆襲](../Page/宇宙戰隊九連者_THE_MOVIE_Goes·Indaver�
 
 ### 插入曲
 
-## 演員
-
-  - 寶生永夢 / 假面騎士EX-AID -
-    [飯島寛騎](https://zh.wikipedia.org/wiki/飯島寛騎 "wikilink")
-    飾 / 聲
-  - 鏡飛彩 / 假面騎士Brave - [瀨戶利樹](../Page/瀨戶利樹.md "wikilink") 飾 / 聲
-  - 花家大我 / 假面騎士Snipe - [松本享恭](../Page/松本享恭.md "wikilink") 飾 / 聲
-  - 檀黎斗 / 假面騎士Genm - [岩永徹也](../Page/岩永徹也.md "wikilink") 飾 / 聲
-  - 假野明日那 / Poppypipopapo / 假面騎士Poppy -
-    [松田瑠華](https://zh.wikipedia.org/wiki/松田瑠華 "wikilink") 飾 / 聲
-  - 九条貴利矢 / 假面騎士Lazer Turbo - [小野塚勇人](../Page/小野塚勇人.md "wikilink") 飾 / 聲
-  - 帕拉德 / 假面騎士Para-DX - [甲斐翔真](../Page/甲斐翔真.md "wikilink") 飾 / 聲
-  - 西馬妮可 - [黑崎莉奈](../Page/黑崎莉奈.md "wikilink") 飾
-  - 鏡灰馬 - [博多華丸](https://zh.wikipedia.org/wiki/博多華丸 "wikilink") 飾
-  - 小星作 - [宇野祥平](https://zh.wikipedia.org/wiki/宇野祥平 "wikilink") 飾
-  - 南雲影成 / 假面騎士風魔 -
-    [堂珍嘉邦](https://zh.wikipedia.org/wiki/堂珍嘉邦 "wikilink")
-    飾 / 聲
-  - 星圓 - [森山乃繪留](https://zh.wikipedia.org/wiki/森山乃繪留 "wikilink") 飾
-  - 強尼・馬克希瑪 / 蓋姆迪烏斯機器 -
-    [Bro.TOM](https://zh.wikipedia.org/wiki/Bro.TOM "wikilink") 飾 / 聲
-  - 星朱美 - [藤本美貴](../Page/藤本美貴.md "wikilink") 飾
-  - 女高中生 - [倉野尾成美](../Page/倉野尾成美.md "wikilink") 飾
-  - 弓田吟子 - [河本千明](https://zh.wikipedia.org/wiki/河本千明 "wikilink") 飾
-  - 看護師 - [石丸奈菜美](https://zh.wikipedia.org/wiki/石丸奈菜美 "wikilink") 飾
-  - 麻醉醫師 - [佐藤太三夫](https://zh.wikipedia.org/wiki/佐藤太三夫 "wikilink") 飾
-
-## 皮套演出
-
-## 聲音演出
-
-  - 假面騎士Build - [犬飼貴丈](../Page/犬飼貴丈.md "wikilink")
-
 ## 製作人員
 
   - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")
@@ -367,8 +327,7 @@ Goes・Indaver的逆襲](../Page/宇宙戰隊九連者_THE_MOVIE_Goes·Indaver�
 
 ## 参考资料
 
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
-[Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink")
+[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink")
 
 1.  曾一度被認定劇場版時間點為本篇的1年後，但在製作人大森敬仁出來澄清下，得知本作劇場版的時間點其實是接續在本篇第45話後，而非1年後的時間點。
 2.  為必免進入VR空間的永夢遭到忍者玩家及假面騎士風魔襲擊，而與帕拉德一同合作調虎離山。

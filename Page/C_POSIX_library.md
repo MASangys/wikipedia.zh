@@ -1,5 +1,4 @@
-**C POSIX
-library**是C语言的[POSIX系统下的标准库](https://zh.wikipedia.org/wiki/POSIX "wikilink")。包含了一些在[C语言标准库之外的函数](https://zh.wikipedia.org/wiki/C标准库 "wikilink")。
+**C POSIX library**是C语言的[POSIX系统下的标准库](https://zh.wikipedia.org/wiki/POSIX "wikilink")。包含了一些在[C语言标准库之外的函数](https://zh.wikipedia.org/wiki/C标准库 "wikilink")。
 
 ## C POSIX library头文件
 
@@ -21,7 +20,7 @@ library**是C语言的[POSIX系统下的标准库](https://zh.wikipedia.org/wiki
 </tr>
 <tr class="even">
 <td><p>''' &lt;arpa/inet.h&gt;</p></td>
-<td><p>操纵数值<a href="../Page/IP地址.md" title="wikilink">IP地址的函数胡</a> (部分<a href="../Page/Berkeley套接字.md" title="wikilink">Berkeley套接字</a>)</p></td>
+<td><p>操纵数值<a href="../Page/IP地址.md" title="wikilink">IP地址</a>的函数胡 (部分<a href="../Page/Berkeley套接字.md" title="wikilink">Berkeley套接字</a>)</p></td>
 <td><p>Issue 6</p></td>
 </tr>
 <tr class="odd">
@@ -71,12 +70,12 @@ library**是C语言的[POSIX系统下的标准库](https://zh.wikipedia.org/wiki
 </tr>
 <tr class="even">
 <td><p>''' &lt;iconv.h&gt; '''</p></td>
-<td><p><a href="../Page/字符编码.md" title="wikilink">字符编码转换</a></p></td>
+<td><p><a href="../Page/字符编码.md" title="wikilink">字符编码</a>转换</p></td>
 <td><p>Issue 4</p></td>
 </tr>
 <tr class="odd">
 <td><p>''' &lt;langinfo.h&gt; '''</p></td>
-<td><p>语言信息常量。建于<a href="../Page/Locale.h.md" title="wikilink">Locale.h之上</a>。</p></td>
+<td><p>语言信息常量。建于<a href="../Page/Locale.h.md" title="wikilink">Locale.h</a>之上。</p></td>
 <td><p>Issue 2</p></td>
 </tr>
 <tr class="even">
@@ -106,17 +105,17 @@ library**是C语言的[POSIX系统下的标准库](https://zh.wikipedia.org/wiki
 </tr>
 <tr class="odd">
 <td><p>''' &lt;netdb.h&gt; '''</p></td>
-<td><p>把本地协议与主机名翻译为数值地址。是<a href="../Page/Berkeley套接字.md" title="wikilink">Berkeley套接字的一部分</a></p></td>
+<td><p>把本地协议与主机名翻译为数值地址。是<a href="../Page/Berkeley套接字.md" title="wikilink">Berkeley套接字</a>的一部分</p></td>
 <td><p>Issue 6</p></td>
 </tr>
 <tr class="even">
 <td><p>''' &lt;netinet/in.h&gt; '''</p></td>
-<td><p>定义互联网协议与地址族。是<a href="../Page/Berkeley套接字.md" title="wikilink">Berkeley套接字的一部分</a></p></td>
+<td><p>定义互联网协议与地址族。是<a href="../Page/Berkeley套接字.md" title="wikilink">Berkeley套接字</a>的一部分</p></td>
 <td><p>Issue 6</p></td>
 </tr>
 <tr class="odd">
 <td><p>''' &lt;netinet/tcp.h&gt; '''</p></td>
-<td><p>额外的<a href="https://zh.wikipedia.org/wiki/Transmission_Control_Protocol" title="wikilink">TCP的控制选项</a>。是<a href="../Page/Berkeley套接字.md" title="wikilink">Berkeley套接字的一部分</a></p></td>
+<td><p>额外的<a href="https://zh.wikipedia.org/wiki/Transmission_Control_Protocol" title="wikilink">TCP的控制选项</a>。是<a href="../Page/Berkeley套接字.md" title="wikilink">Berkeley套接字</a>的一部分</p></td>
 <td><p>Issue 6</p></td>
 </tr>
 <tr class="even">
@@ -309,17 +308,14 @@ library**是C语言的[POSIX系统下的标准库](https://zh.wikipedia.org/wiki
 
 ## 参考文献
 
-  - [Official List of headers in the POSIX library on
-    opengroup.org](http://www.opengroup.org/onlinepubs/9699919799/idx/head.html)
+  - [Official List of headers in the POSIX library on opengroup.org](http://www.opengroup.org/onlinepubs/9699919799/idx/head.html)
 
   -
-  - [Description of the posix library from the Flux
-    OSKit](http://www.cs.utah.edu/flux/oskit/html/oskit-wwwch20.html)
+  - [Description of the posix library from the Flux OSKit](http://www.cs.utah.edu/flux/oskit/html/oskit-wwwch20.html)
 
 ## 延伸阅读
 
   -
 {{-}}
 
-[Category:C_POSIX_library](https://zh.wikipedia.org/wiki/Category:C_POSIX_library "wikilink")
-[Category:POSIX](https://zh.wikipedia.org/wiki/Category:POSIX "wikilink")
+[Category:C_POSIX_library](https://zh.wikipedia.org/wiki/Category:C_POSIX_library "wikilink") [Category:POSIX](https://zh.wikipedia.org/wiki/Category:POSIX "wikilink")

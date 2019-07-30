@@ -1,12 +1,6 @@
-[缩略图](https://zh.wikipedia.org/wiki/File:Amiga_1000DP.jpg "fig:缩略图")
-Amiga
-1000電腦是由[康懋達國際公司研發製造](https://zh.wikipedia.org/wiki/康懋達國際 "wikilink")，並於1985年7月23日發佈的16/32位元個人電腦產品。\[1\]
+[缩略图](https://zh.wikipedia.org/wiki/File:Amiga_1000DP.jpg "fig:缩略图") Amiga 1000電腦是由[康懋達國際公司研發製造](https://zh.wikipedia.org/wiki/康懋達國際 "wikilink")，並於1985年7月23日發佈的16/32位元個人電腦產品。\[1\]
 
-這款電腦搭載了[Motorola
-68000處理器](https://zh.wikipedia.org/wiki/Motorola_68000 "wikilink")，256KB
-ROM/256KB RAM(可升級)，圖形和聲音系統則採用了自行研發的AMIGA
-OCS晶片組，圖像可支援最大4096色彩，聲音支援4個8位元[PCM](../Page/脈衝編碼調變.md "wikilink")。
-使用專有的AmigaOS 1作業系統。
+這款電腦搭載了[Motorola 68000處理器](https://zh.wikipedia.org/wiki/Motorola_68000 "wikilink")，256KB ROM/256KB RAM(可升級)，圖形和聲音系統則採用了自行研發的AMIGA OCS晶片組，圖像可支援最大4096色彩，聲音支援4個8位元[PCM](../Page/脈衝編碼調變.md "wikilink")。 使用專有的AmigaOS 1作業系統。
 
 2007年PC World\[50個最佳科技產品文章中，Amiga 1000入選該名單第37位。\[2\]
 

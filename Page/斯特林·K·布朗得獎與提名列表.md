@@ -1,5 +1,4 @@
-[Sterling_K._Brown_Paleyfest.jpg](https://zh.wikipedia.org/wiki/File:Sterling_K._Brown_Paleyfest.jpg "fig:Sterling_K._Brown_Paleyfest.jpg")
-**[斯特林·K·布朗](../Page/斯特林·K·布朗.md "wikilink")**是一名[美國男演員](https://zh.wikipedia.org/wiki/美國 "wikilink")。他於2016年憑在電視劇《[公眾與O·J·辛普森的對決：美國犯罪故事](../Page/公眾與O·J·辛普森的對決：美國犯罪故事.md "wikilink")》中飾演的一角而贏得了首座；此外，他也因此角而入圍了、[金球獎](../Page/金球獎.md "wikilink")、[美國演員工會獎和](../Page/美國演員工會獎.md "wikilink")[有色人種促進協會形象獎](https://zh.wikipedia.org/wiki/有色人種促進協會形象獎 "wikilink")。
+[Sterling_K._Brown_Paleyfest.jpg](https://zh.wikipedia.org/wiki/File:Sterling_K._Brown_Paleyfest.jpg "fig:Sterling_K._Brown_Paleyfest.jpg") **[斯特林·K·布朗](../Page/斯特林·K·布朗.md "wikilink")**是一名[美國男演員](https://zh.wikipedia.org/wiki/美國 "wikilink")。他於2016年憑在電視劇《[公眾與O·J·辛普森的對決：美國犯罪故事](../Page/公眾與O·J·辛普森的對決：美國犯罪故事.md "wikilink")》中飾演的一角而贏得了首座；此外，他也因此角而入圍了、[金球獎](../Page/金球獎.md "wikilink")、[美國演員工會獎](../Page/美國演員工會獎.md "wikilink")和[有色人種促進協會形象獎](https://zh.wikipedia.org/wiki/有色人種促進協會形象獎 "wikilink")。
 
 2017年，布朗贏得了第二座黃金時段艾美獎。他在電視劇《[這就是我們](../Page/這就是我們.md "wikilink")》中所飾演的藍道爾·皮爾森獲得了好評，除了贏得了外，還為此入圍了美國演員工會獎、[青少年票選獎與](https://zh.wikipedia.org/wiki/青少年票選獎 "wikilink")。
 

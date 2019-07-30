@@ -1,5 +1,4 @@
-『**New
-Beginning**』是[BAND-MAID®出道前第](../Page/BAND-MAID.md "wikilink")2張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，在2015年11月18日發售。
+『**New Beginning**』是[BAND-MAID](../Page/BAND-MAID.md "wikilink")®出道前第2張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，在2015年11月18日發售。
 
 ## 概要
 
@@ -61,5 +60,4 @@ Beginning**』是[BAND-MAID®出道前第](../Page/BAND-MAID.md "wikilink")2張[
 
 [DISCOGRAPHY](http://bandmaid.tokyo/music/) - BAND-MAID OFFICIAL WEBSITE
 
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
-[Category:BAND-MAID音樂專輯](https://zh.wikipedia.org/wiki/Category:BAND-MAID音樂專輯 "wikilink")
+[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:BAND-MAID音樂專輯](https://zh.wikipedia.org/wiki/Category:BAND-MAID音樂專輯 "wikilink")

@@ -1,10 +1,8 @@
-**CGI**（\[1\]\[2\]）是由[國立交通大學資訊工程學系](../Page/國立交通大學.md "wikilink")[吳毅成教授所帶領的團隊所開發的](https://zh.wikipedia.org/wiki/吳毅成 "wikilink")[圍棋軟體](https://zh.wikipedia.org/wiki/圍棋軟體 "wikilink")。
+**CGI**（\[1\]\[2\]）是由[國立交通大學](../Page/國立交通大學.md "wikilink")資訊工程學系[吳毅成教授所帶領的團隊所開發的](https://zh.wikipedia.org/wiki/吳毅成 "wikilink")[圍棋軟體](https://zh.wikipedia.org/wiki/圍棋軟體 "wikilink")。
 
 ## 簡介
 
-從2008年開始發展，一開始名稱為HappyGo，之後大幅改寫時改名為Amigo，但因Amigo與其他圍棋軟體名稱衝突，在後來改名時以實驗室的名字為基礎，改名為CGI\[3\]。其中CGI為CGI
-Go
-Intelligence的[递归缩写](../Page/递归缩写.md "wikilink")，指的是「CGI實驗室圍棋智慧」\[4\]\[5\]。
+從2008年開始發展，一開始名稱為HappyGo，之後大幅改寫時改名為Amigo，但因Amigo與其他圍棋軟體名稱衝突，在後來改名時以實驗室的名字為基礎，改名為CGI\[3\]。其中CGI為CGI Go Intelligence的[递归缩写](../Page/递归缩写.md "wikilink")，指的是「CGI實驗室圍棋智慧」\[4\]\[5\]。
 
 於2017年年底與[棋城合作](https://zh.wikipedia.org/wiki/棋城 "wikilink")，推出業餘七段棋力的對弈服務\[6\]。
 
@@ -33,16 +31,15 @@ Intelligence的[递归缩写](../Page/递归缩写.md "wikilink")，指的是「
 
 ### CGI 2.0
 
-2015年十二月到2016年八月的版本，這個版本引入了深度[卷积神经网络](../Page/卷积神经网络.md "wikilink")（DCNN）使得棋力大幅增強。在引入的初期採用Detlef
-Schmicker所提供的資料，在2016一月後採用自己訓練的資料\[12\]\[13\]：
+2015年十二月到2016年八月的版本，這個版本引入了深度[卷积神经网络](../Page/卷积神经网络.md "wikilink")（DCNN）使得棋力大幅增強。在引入的初期採用Detlef Schmicker所提供的資料，在2016一月後採用自己訓練的資料\[12\]\[13\]：
 
-  - 使用[監督式學習策略神經網路](../Page/監督式學習.md "wikilink")（），這個版本還沒有使用[强化学习策略策略神經網路](../Page/强化学习.md "wikilink")（）以及價值神經網路（）。
+  - 使用[監督式學習](../Page/監督式學習.md "wikilink")策略神經網路（），這個版本還沒有使用[强化学习](../Page/强化学习.md "wikilink")策略策略神經網路（）以及價值神經網路（）。
 
 ### CGI 3.0
 
-2016年八月後的版本，在這個版本因為[AlphaGo論文的出現而有了巨大的改動](../Page/AlphaGo.md "wikilink")，使得實力大幅進步，能在不[讓子的對弈中與](../Page/讓子_\(圍棋\).md "wikilink")[職業棋士較勁](https://zh.wikipedia.org/wiki/職業棋士 "wikilink")\[14\]\[15\]：
+2016年八月後的版本，在這個版本因為[AlphaGo](../Page/AlphaGo.md "wikilink")論文的出現而有了巨大的改動，使得實力大幅進步，能在不[讓子的對弈中與](../Page/讓子_\(圍棋\).md "wikilink")[職業棋士較勁](https://zh.wikipedia.org/wiki/職業棋士 "wikilink")\[14\]\[15\]：
 
-  - 引入[監督式學習策略神經網路](../Page/監督式學習.md "wikilink")（）
+  - 引入[監督式學習](../Page/監督式學習.md "wikilink")策略神經網路（）
   - 引入[強化學習策略神經網路](https://zh.wikipedia.org/wiki/強化學習 "wikilink")（）
   - 引入價值網路（）\[16\]
   - 改善[蒙特卡洛树搜索](../Page/蒙特卡洛树搜索.md "wikilink")（MCTS）內的快速走子（）
@@ -210,7 +207,7 @@ Schmicker所提供的資料，在2016一月後採用自己訓練的資料\[12\]\
 
 #### CGOS
 
-在[CGOS上](../Page/CGOS.md "wikilink")，`CGI1407_1_475_7c`的BayesElo為3265分\[53\]。
+在[CGOS](../Page/CGOS.md "wikilink")上，`CGI1407_1_475_7c`的BayesElo為3265分\[53\]。
 
 ### CGI 3.0
 
@@ -256,7 +253,7 @@ Schmicker所提供的資料，在2016一月後採用自己訓練的資料\[12\]\
 
 #### CGOS
 
-在[CGOS上](../Page/CGOS.md "wikilink")，`CGI1900_4c`的BayesElo為3513分\[69\]。
+在[CGOS](../Page/CGOS.md "wikilink")上，`CGI1900_4c`的BayesElo為3513分\[69\]。
 
 ## 參考文獻
 
@@ -272,10 +269,7 @@ Schmicker所提供的資料，在2016一月後採用自己訓練的資料\[12\]\
 
   - ，2017年十月後不再維護。
 
-[Category:围棋软件](https://zh.wikipedia.org/wiki/Category:围棋软件 "wikilink")
-[Category:机器学习](https://zh.wikipedia.org/wiki/Category:机器学习 "wikilink")
-[Category:游戏人工智能](https://zh.wikipedia.org/wiki/Category:游戏人工智能 "wikilink")
-[Category:人工智能应用](https://zh.wikipedia.org/wiki/Category:人工智能应用 "wikilink")
+[Category:围棋软件](https://zh.wikipedia.org/wiki/Category:围棋软件 "wikilink") [Category:机器学习](https://zh.wikipedia.org/wiki/Category:机器学习 "wikilink") [Category:游戏人工智能](https://zh.wikipedia.org/wiki/Category:游戏人工智能 "wikilink") [Category:人工智能应用](https://zh.wikipedia.org/wiki/Category:人工智能应用 "wikilink")
 
 1.
 

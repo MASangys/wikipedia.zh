@@ -1,4 +1,4 @@
-「**BS時代劇**」（）是[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）BS衛星放送系統電視台節目，於日本時間週五晚間20點電視劇時段。與[NHK大河劇一樣目的呈現真實日本歷史故事](../Page/NHK大河劇.md "wikilink")，但播出長度較為短期帶狀。
+「**BS時代劇**」（）是[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）BS衛星放送系統電視台節目，於日本時間週五晚間20點電視劇時段。與[NHK大河劇](../Page/NHK大河劇.md "wikilink")一樣目的呈現真實日本歷史故事，但播出長度較為短期帶狀。
 
 ## 歷年作品一覽
 
@@ -403,7 +403,4 @@
 
   - [NHK連續劇一覽](https://web.archive.org/web/20130216174332/http://www9.nhk.or.jp/drama/)
 
-[Category:NHK電視劇](https://zh.wikipedia.org/wiki/Category:NHK電視劇 "wikilink")
-[Category:BS時代劇](https://zh.wikipedia.org/wiki/Category:BS時代劇 "wikilink")
-[Category:日本電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:日本電視台電視劇列表 "wikilink")
-[Category:日本電視劇播放時段](https://zh.wikipedia.org/wiki/Category:日本電視劇播放時段 "wikilink")
+[Category:NHK電視劇](https://zh.wikipedia.org/wiki/Category:NHK電視劇 "wikilink") [Category:BS時代劇](https://zh.wikipedia.org/wiki/Category:BS時代劇 "wikilink") [Category:日本電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:日本電視台電視劇列表 "wikilink") [Category:日本電視劇播放時段](https://zh.wikipedia.org/wiki/Category:日本電視劇播放時段 "wikilink")

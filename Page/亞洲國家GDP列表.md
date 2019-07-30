@@ -388,5 +388,4 @@
 </tbody>
 </table>
 
-[Category:亞洲相關列表](https://zh.wikipedia.org/wiki/Category:亞洲相關列表 "wikilink")
-[Category:国内生产总值](https://zh.wikipedia.org/wiki/Category:国内生产总值 "wikilink")
+[Category:亞洲相關列表](https://zh.wikipedia.org/wiki/Category:亞洲相關列表 "wikilink") [Category:国内生产总值](https://zh.wikipedia.org/wiki/Category:国内生产总值 "wikilink")

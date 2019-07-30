@@ -1,15 +1,11 @@
-『**三上枝織的mikassho\!**』是從2015年10月5日開始在[文化放送超](https://zh.wikipedia.org/wiki/文化放送 "wikilink")\!A\&G+放送，是由Marine
-ENTERTAINMENT
-Inc.制作的[廣播電台](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")。暱稱是「**mikassho\!**」。主持人為[配音員的](../Page/配音員.md "wikilink")[三上枝織](../Page/三上枝織.md "wikilink")。
+『**三上枝織的mikassho\!**』是從2015年10月5日開始在[文化放送超](https://zh.wikipedia.org/wiki/文化放送 "wikilink")\!A\&G+放送，是由Marine ENTERTAINMENT Inc.制作的[廣播電台](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")。暱稱是「**mikassho\!**」。主持人為[配音員](../Page/配音員.md "wikilink")的[三上枝織](../Page/三上枝織.md "wikilink")。
 
 ## 節目概要
 
 發掘三上枝織各式各樣的面目、與聽眾共同打造的廣播節目。\[1\]標題的「mikassho\!」是「和三上一起」的簡稱。
 節目中時常提及香腸、吃、青森縣等話題。
 
-放送開始時是三上擔任leader的「[A\&G NEXT GENERATION Lady
-Go\!\!](https://zh.wikipedia.org/wiki/A&G_NEXT_GENERATION_Lady_Go!! "wikilink")」結束三日後，Lady
-Go\!\!的活動或週邊販售宣傳也曾在本節目進行。
+放送開始時是三上擔任leader的「[A\&G NEXT GENERATION Lady Go\!\!](https://zh.wikipedia.org/wiki/A&G_NEXT_GENERATION_Lady_Go!! "wikilink")」結束三日後，Lady Go\!\!的活動或週邊販售宣傳也曾在本節目進行。
 
 ### 播出時間
 
@@ -79,8 +75,7 @@ Go\!\!的活動或週邊販售宣傳也曾在本節目進行。
 
 <!-- end list -->
 
-  - **2016年 animate 冬季的Audio/Visual祭典Presents\!
-    三上枝織的mikassho！**\[3\]　（2016年4月17日）
+  - **2016年 animate 冬季的Audio/Visual祭典Presents\! 三上枝織的mikassho！**\[3\]　（2016年4月17日）
 
 <!-- end list -->
 
@@ -92,8 +87,7 @@ Go\!\!的活動或週邊販售宣傳也曾在本節目進行。
 
 <!-- end list -->
 
-  - **三上枝織的mikassho！ Fun Disk vol.1 in 青森
-    發售紀念公開錄音event**\[4\]　（2016年6月11日）(分有第一回跟第二回)
+  - **三上枝織的mikassho！ Fun Disk vol.1 in 青森 發售紀念公開錄音event**\[4\]　（2016年6月11日）(分有第一回跟第二回)
 
 <!-- end list -->
 
@@ -114,8 +108,7 @@ Go\!\!的活動或週邊販售宣傳也曾在本節目進行。
   - [マリン・エンタテインメント通信販売](http://marine.shop-pro.jp/?mode=cate&cbid=102375&csid=32)
 
   -
-[Category:日本網路廣播節目](https://zh.wikipedia.org/wiki/Category:日本網路廣播節目 "wikilink")
-[Category:文化放送的廣播節目](https://zh.wikipedia.org/wiki/Category:文化放送的廣播節目 "wikilink")
+[Category:日本網路廣播節目](https://zh.wikipedia.org/wiki/Category:日本網路廣播節目 "wikilink") [Category:文化放送的廣播節目](https://zh.wikipedia.org/wiki/Category:文化放送的廣播節目 "wikilink")
 
 1.  [【新節目的告知】『三上枝織のみかっしょ！』2015年10月5日開始](http://marine-e.seesaa.net/article/426932777.html)
 2.  [マリコレlive2016 公官方網站](http://www.marine-e.net/sp/marikore2016/)

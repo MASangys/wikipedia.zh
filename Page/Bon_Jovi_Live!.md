@@ -1,6 +1,4 @@
-**Bon Jovi
-Live\!**\[1\]是搖滾樂團[邦喬飛正在巡迴中演唱會巡演](../Page/邦喬飛.md "wikilink")，這場巡演配合2015年專輯《[全力以赴](https://zh.wikipedia.org/wiki/全力以赴 "wikilink")》（*[Burning
-Bridges](https://zh.wikipedia.org/wiki/:en:Burning_Bridges_\(Bon_Jovi_album\) "wikilink")*）的發行。2015年9月11日從[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")[雅加達的](https://zh.wikipedia.org/wiki/雅加達 "wikilink")[格羅拉蓬卡諾體育場開始](https://zh.wikipedia.org/wiki/格羅拉蓬卡諾體育場 "wikilink")，接著在各個亞洲國家演出，最後一場於2015年10月3日在[以色列](../Page/以色列.md "wikilink")[特拉維夫](https://zh.wikipedia.org/wiki/特拉維夫 "wikilink")[雅空公園舉行](https://zh.wikipedia.org/wiki/雅空公園 "wikilink")。\[2\]這是樂團第一場沒有吉他手[瑞奇·山伯拉的巡迴演出](../Page/瑞奇·山伯拉.md "wikilink")。
+**Bon Jovi Live\!**\[1\]是搖滾樂團[邦喬飛](../Page/邦喬飛.md "wikilink")正在巡迴中演唱會巡演，這場巡演配合2015年專輯《[全力以赴](https://zh.wikipedia.org/wiki/全力以赴 "wikilink")》（*[Burning Bridges](https://zh.wikipedia.org/wiki/:en:Burning_Bridges_\(Bon_Jovi_album\) "wikilink")*）的發行。2015年9月11日從[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")[雅加達的](https://zh.wikipedia.org/wiki/雅加達 "wikilink")[格羅拉蓬卡諾體育場開始](https://zh.wikipedia.org/wiki/格羅拉蓬卡諾體育場 "wikilink")，接著在各個亞洲國家演出，最後一場於2015年10月3日在[以色列](../Page/以色列.md "wikilink")[特拉維夫](https://zh.wikipedia.org/wiki/特拉維夫 "wikilink")[雅空公園舉行](https://zh.wikipedia.org/wiki/雅空公園 "wikilink")。\[2\]這是樂團第一場沒有吉他手[瑞奇·山伯拉](../Page/瑞奇·山伯拉.md "wikilink")的巡迴演出。
 
 ## 演唱會
 
@@ -36,23 +34,17 @@ Bridges](https://zh.wikipedia.org/wiki/:en:Burning_Bridges_\(Bon_Jovi_album\) "w
 
 **樂團**
 
-  - [瓊·邦·喬飛](../Page/瓊·邦·喬飛.md "wikilink") -
-    [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[節奏吉他](https://zh.wikipedia.org/wiki/節奏吉他 "wikilink")
+  - [瓊·邦·喬飛](../Page/瓊·邦·喬飛.md "wikilink") - [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[節奏吉他](https://zh.wikipedia.org/wiki/節奏吉他 "wikilink")
 
-  - [大衛·布萊恩](../Page/大衛·布萊恩.md "wikilink") -
-    [鍵盤](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")、[和聲](https://zh.wikipedia.org/wiki/和聲 "wikilink")
+  - [大衛·布萊恩](../Page/大衛·布萊恩.md "wikilink") - [鍵盤](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")、[和聲](https://zh.wikipedia.org/wiki/和聲 "wikilink")
 
-  - \-
-    [鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")、[打擊](https://zh.wikipedia.org/wiki/打擊 "wikilink")
+  - \- [鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")、[打擊](https://zh.wikipedia.org/wiki/打擊 "wikilink")
 
 .**其他非正式演出者**
 
-  - [休·麥唐納](https://zh.wikipedia.org/wiki/休·麥唐納 "wikilink") –
-    [貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")、[和聲](https://zh.wikipedia.org/wiki/和聲 "wikilink")
-  - [菲爾X](https://zh.wikipedia.org/wiki/菲爾X "wikilink") –
-    [主吉他手](https://zh.wikipedia.org/wiki/主吉他手 "wikilink")、[合聲](https://zh.wikipedia.org/wiki/合聲 "wikilink")、talkbox
-  - Matt O'Ree –
-    [節奏吉他](https://zh.wikipedia.org/wiki/節奏吉他 "wikilink")、[合聲](https://zh.wikipedia.org/wiki/合聲 "wikilink")\[6\]
+  - [休·麥唐納](https://zh.wikipedia.org/wiki/休·麥唐納 "wikilink") – [貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")、[和聲](https://zh.wikipedia.org/wiki/和聲 "wikilink")
+  - [菲爾X](https://zh.wikipedia.org/wiki/菲爾X "wikilink") – [主吉他手](https://zh.wikipedia.org/wiki/主吉他手 "wikilink")、[合聲](https://zh.wikipedia.org/wiki/合聲 "wikilink")、talkbox
+  - Matt O'Ree – [節奏吉他](https://zh.wikipedia.org/wiki/節奏吉他 "wikilink")、[合聲](https://zh.wikipedia.org/wiki/合聲 "wikilink")\[6\]
 
 ## 參見
 
@@ -60,8 +52,7 @@ Bridges](https://zh.wikipedia.org/wiki/:en:Burning_Bridges_\(Bon_Jovi_album\) "w
 
   -
   -
-[Category:2015年巡迴演出](https://zh.wikipedia.org/wiki/Category:2015年巡迴演出 "wikilink")
-[Category:邦喬飛巡迴演出](https://zh.wikipedia.org/wiki/Category:邦喬飛巡迴演出 "wikilink")
+[Category:2015年巡迴演出](https://zh.wikipedia.org/wiki/Category:2015年巡迴演出 "wikilink") [Category:邦喬飛巡迴演出](https://zh.wikipedia.org/wiki/Category:邦喬飛巡迴演出 "wikilink")
 
 1.  <http://www.bonjovi.com/tour>
 2.  <http://wcbsfm.cbslocal.com/2015/07/24/bon-jovi-burning-bridges-not-next-album/>

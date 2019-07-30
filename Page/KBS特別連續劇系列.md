@@ -1,4 +1,4 @@
-**KBS特別連續劇系列**（，），是[韓國放送公社為延續及完善](../Page/韓國放送公社.md "wikilink")《[KBS特別劇](../Page/KBS_Drama_Special.md "wikilink")》而編制的短篇電視劇。
+**KBS特別連續劇系列**（，），是[韓國放送公社](../Page/韓國放送公社.md "wikilink")為延續及完善《[KBS特別劇](../Page/KBS_Drama_Special.md "wikilink")》而編制的短篇電視劇。
 
 ## 電視劇列表
 
@@ -696,12 +696,7 @@
   - [KBS特別連續劇系列 第2季 官方網站](http://www.kbs.co.kr/drama/series2/index.html)
   - [KBS特別連續劇系列 第3季 官方網站](http://www.kbs.co.kr/drama/series3/index.html)
 
-[Category:KBS電視劇](https://zh.wikipedia.org/wiki/Category:KBS電視劇 "wikilink")
-[Category:KBS特別連續劇系列](https://zh.wikipedia.org/wiki/Category:KBS特別連續劇系列 "wikilink")
-[Category:2010年電視劇集](https://zh.wikipedia.org/wiki/Category:2010年電視劇集 "wikilink")
-[Category:2011年電視劇集](https://zh.wikipedia.org/wiki/Category:2011年電視劇集 "wikilink")
-[Category:2012年電視劇集](https://zh.wikipedia.org/wiki/Category:2012年電視劇集 "wikilink")
-[Category:2013年電視劇集](https://zh.wikipedia.org/wiki/Category:2013年電視劇集 "wikilink")
+[Category:KBS電視劇](https://zh.wikipedia.org/wiki/Category:KBS電視劇 "wikilink") [Category:KBS特別連續劇系列](https://zh.wikipedia.org/wiki/Category:KBS特別連續劇系列 "wikilink") [Category:2010年電視劇集](https://zh.wikipedia.org/wiki/Category:2010年電視劇集 "wikilink") [Category:2011年電視劇集](https://zh.wikipedia.org/wiki/Category:2011年電視劇集 "wikilink") [Category:2012年電視劇集](https://zh.wikipedia.org/wiki/Category:2012年電視劇集 "wikilink") [Category:2013年電視劇集](https://zh.wikipedia.org/wiki/Category:2013年電視劇集 "wikilink")
 
 1.
 2.

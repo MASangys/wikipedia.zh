@@ -1,13 +1,10 @@
-**Cygames
-Pictures**是日本一間以動畫企畫、製作為主要業務的企業，於2016年成立。[Cygames旗下的子公司](../Page/Cygames.md "wikilink")。
+**Cygames Pictures**是日本一間以動畫企畫、製作為主要業務的企業，於2016年成立。[Cygames](../Page/Cygames.md "wikilink")旗下的子公司。
 
 ## 歷史
 
   - 2015年3月：Cygames成立動畫事業部，希望不只負責企畫跟製作，而是動畫本身都可以由內部自行製作。與遊戲一樣，目標都是要創造出「自家的作品」。
-  - 2016年4月5日：以製作高品質的動畫為目的，Cygames動畫事業部獨立成為子公司Cygames
-    Pictures\[1\]。負責遊戲的動畫製作，並可以參與進原創動畫等的企劃製作裏面。
-  - 2017年9月26日：製作短篇動畫《銀翼殺手Black Out
-    2022》，是電影《[銀翼殺手2049](../Page/銀翼殺手2049.md "wikilink")》的前傳故事。
+  - 2016年4月5日：以製作高品質的動畫為目的，Cygames動畫事業部獨立成為子公司Cygames Pictures\[1\]。負責遊戲的動畫製作，並可以參與進原創動畫等的企劃製作裏面。
+  - 2017年9月26日：製作短篇動畫《銀翼殺手Black Out 2022》，是電影《[銀翼殺手2049](../Page/銀翼殺手2049.md "wikilink")》的前傳故事。
 
 ## 作品列表
 
@@ -80,9 +77,6 @@ Pictures**是日本一間以動畫企畫、製作為主要業務的企業，於2
 
   - [官方網站](https://cygamespictures.co.jp/)
 
-[Category:2016年成立的公司](https://zh.wikipedia.org/wiki/Category:2016年成立的公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:2016年日本建立](https://zh.wikipedia.org/wiki/Category:2016年日本建立 "wikilink")
-[Category:Cygames](https://zh.wikipedia.org/wiki/Category:Cygames "wikilink")
+[Category:2016年成立的公司](https://zh.wikipedia.org/wiki/Category:2016年成立的公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:2016年日本建立](https://zh.wikipedia.org/wiki/Category:2016年日本建立 "wikilink") [Category:Cygames](https://zh.wikipedia.org/wiki/Category:Cygames "wikilink")
 
 1.

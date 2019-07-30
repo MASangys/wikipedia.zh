@@ -1,5 +1,4 @@
-**Alpine
-Linux**是一个由社区开发的[Linux操作系统](https://zh.wikipedia.org/wiki/Linux操作系统 "wikilink")，该操作系统以安全为理念，面向x86[路由器](../Page/路由器.md "wikilink")、[防火墙](../Page/防火墙.md "wikilink")、[虚拟专用网](https://zh.wikipedia.org/wiki/虚拟专用网 "wikilink")、IP电话盒及[服务器而设计](../Page/服务器.md "wikilink")。
+**Alpine Linux**是一个由社区开发的[Linux操作系统](https://zh.wikipedia.org/wiki/Linux操作系统 "wikilink")，该操作系统以安全为理念，面向x86[路由器](../Page/路由器.md "wikilink")、[防火墙](../Page/防火墙.md "wikilink")、[虚拟专用网](https://zh.wikipedia.org/wiki/虚拟专用网 "wikilink")、IP电话盒及[服务器](../Page/服务器.md "wikilink")而设计。
 
 ## 版本历史
 
@@ -77,5 +76,4 @@ Linux**是一个由社区开发的[Linux操作系统](https://zh.wikipedia.org/w
 [CAT:Linux](https://zh.wikipedia.org/wiki/CAT:Linux "wikilink")
 
 1.  <https://alpinelinux.org/posts/> Alpine Linux News archive
-2.  <https://wiki.alpinelinux.org/wiki/Alpine_Linux:Releases> Alpine
-    Linux:Releases
+2.  <https://wiki.alpinelinux.org/wiki/Alpine_Linux:Releases> Alpine Linux:Releases

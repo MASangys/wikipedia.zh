@@ -12,11 +12,9 @@
 
 ## 醫學
 
-  - [高齡產婦](https://zh.wikipedia.org/wiki/高齡產婦 "wikilink")（Advanced
-    maternal age）
+  - [高齡產婦](https://zh.wikipedia.org/wiki/高齡產婦 "wikilink")（Advanced maternal age）
 
-  - , a patient leaving a medical facility early and against the advice
-    of medical staff
+  - , a patient leaving a medical facility early and against the advice of medical staff
 
   - [美国医学会](../Page/美国医学会.md "wikilink")（American Medical Association）
 
@@ -33,9 +31,7 @@
 ## 非醫學機構
 
   -
-  - *Advanced Manageability Alliance* formed in October 1996 by Intel
-    and IBM, this alliance introduced the
-    [Wake-on-LAN](../Page/網路喚醒.md "wikilink") technology
+  - *Advanced Manageability Alliance* formed in October 1996 by Intel and IBM, this alliance introduced the [Wake-on-LAN](../Page/網路喚醒.md "wikilink") technology
 
   - , the United States' national aeromodeling organization
 
@@ -43,11 +39,9 @@
 
   - , the local government body for the Accra city area
 
-  - [African Muslim
-    Agency](https://zh.wikipedia.org/wiki/African_Muslim_Agency "wikilink")
+  - [African Muslim Agency](https://zh.wikipedia.org/wiki/African_Muslim_Agency "wikilink")
 
-  - [世界反運動禁藥機構](../Page/世界反運動禁藥機構.md "wikilink")（Agence Mondiale
-    Antidopage）
+  - [世界反運動禁藥機構](../Page/世界反運動禁藥機構.md "wikilink")（Agence Mondiale Antidopage）
 
   -
   -
@@ -56,15 +50,12 @@
       - , a branch of AMA Computer University, located in Bahrain
 
   -
-  - [美国市场营销协会](../Page/美国市场营销协会.md "wikilink")（American Marketing
-    Association）
+  - [美国市场营销协会](../Page/美国市场营销协会.md "wikilink")（American Marketing Association）
 
   -
-  - , an art museum of modern and contemporary works from Latin America
-    and the Caribbean, located in Washington, D.C.
+  - , an art museum of modern and contemporary works from Latin America and the Caribbean, located in Washington, D.C.
 
-  - ("Metropolitan Bus Authority"), a public corporation based in Puerto
-    Rico that manages the mass transit bus system on the island
+  - ("Metropolitan Bus Authority"), a public corporation based in Puerto Rico that manages the mass transit bus system on the island
 
 ## 獎項
 
@@ -75,9 +66,7 @@
   -
 ## 人物
 
-  - Ama (Ama Kōhei), former ring name for [Harumafuji
-    Kōhei](../Page/日马富士公平.md "wikilink"), a Mongolian sumo
-    wrestler
+  - Ama (Ama Kōhei), former ring name for [Harumafuji Kōhei](../Page/日马富士公平.md "wikilink"), a Mongolian sumo wrestler
 
   - , a British singer
 
@@ -102,20 +91,16 @@
   -
   - , a Basel II Method of measuring operational risk.
 
-  - 《[哥吉拉·迷你拉·加巴拉
-    全體怪獸大進擊](../Page/哥吉拉·迷你拉·加巴拉_全體怪獸大進擊.md "wikilink")》（*All
-    Monsters Attack*），1969年電影
+  - 《[哥吉拉·迷你拉·加巴拉 全體怪獸大進擊](../Page/哥吉拉·迷你拉·加巴拉_全體怪獸大進擊.md "wikilink")》（*All Monsters Attack*），1969年電影
 
   -
   - [美國手語字母](../Page/美國手語字母.md "wikilink")（American Manual Alphabet）
 
   - **, a video game
 
-  - "[Ask Me Anything](../Page/Reddit.md "wikilink")", acronym used on
-    internet forums, primarily [Reddit](../Page/Reddit.md "wikilink")
+  - "[Ask Me Anything](../Page/Reddit.md "wikilink")", acronym used on internet forums, primarily [Reddit](../Page/Reddit.md "wikilink")
 
-  - Asset Management Account, see [Asset
-    management](../Page/资产管理.md "wikilink")
+  - Asset Management Account, see [Asset management](../Page/资产管理.md "wikilink")
 
   - , a telephone billing system
 

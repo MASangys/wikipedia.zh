@@ -63,7 +63,7 @@
 <tr class="odd">
 <td></td>
 <td><p>裴秉三</p></td>
-<td><p>機械工學科2004學年新生，大英的好友，大公司理事的兒子。出生在江南8學區，但長得一點都不像家境很好的樣子,由於從少就讀男校,故此跟女性相處有障礙。</p></td>
+<td><p>機械工學科2004學年新生，大英的好友，大公司理事的兒子。出生在江南8學區，但長得一點都不像家境很好的樣子,由於從小就讀男校,故此跟女性相處有障礙。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/徐必俊" title="wikilink">徐必俊</a></p></td>
@@ -269,17 +269,13 @@
 
 ## 同時段競爭作品
 
-  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
-    [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[你也是人類嗎](../Page/你也是人類嗎.md "wikilink")》、《[Lovely
-    Horribly](../Page/Lovely_Horribly.md "wikilink")》
-  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")
-    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[檢法男女](../Page/檢法男女.md "wikilink")》、《[生死決斷羅曼史](../Page/生死決斷羅曼史.md "wikilink")》
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[油膩的Melo](../Page/油膩的Melo.md "wikilink")》、《[雖然30但仍17](../Page/雖然30但仍17.md "wikilink")》
+  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[你也是人類嗎](../Page/你也是人類嗎.md "wikilink")》、《[Lovely Horribly](../Page/Lovely_Horribly.md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[檢法男女](../Page/檢法男女.md "wikilink")》、《[生死決斷羅曼史](../Page/生死決斷羅曼史.md "wikilink")》
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink") [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[油膩的Melo](../Page/油膩的Melo.md "wikilink")》、《[雖然30但仍17](../Page/雖然30但仍17.md "wikilink")》
 
 ## 記事
 
-  - [尹斗俊在拍攝](../Page/尹斗俊.md "wikilink")《一起吃飯吧3》期間突然收到了兩天後的入伍通知書，劇組也因此將原訂播出的全16集，提前在8月28日以14集完結\[5\]。
+  - [尹斗俊](../Page/尹斗俊.md "wikilink")在拍攝《一起吃飯吧3》期間突然收到了兩天後的入伍通知書，劇組也因此將原訂播出的全16集，提前在8月28日以14集完結\[5\]。
 
 ## 參考資料
 
@@ -287,11 +283,7 @@
 
   - [韓國tvN官方網站](http://program.tving.com/tvn/eat3)
 
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:TvN月火連續劇](https://zh.wikipedia.org/wiki/Category:TvN月火連續劇 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
-[Category:餐飲電視劇](https://zh.wikipedia.org/wiki/Category:餐飲電視劇 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
+[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:TvN月火連續劇](https://zh.wikipedia.org/wiki/Category:TvN月火連續劇 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:餐飲電視劇](https://zh.wikipedia.org/wiki/Category:餐飲電視劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
 
 1.
 2.

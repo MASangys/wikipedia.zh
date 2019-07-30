@@ -1,38 +1,24 @@
-**皇宇（ZECO）**，[臺灣的](../Page/臺灣.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")，擅長設計機械、美少女、軍武題材，2009年在中央研究院數位文化中心的邀約下於其所屬文化振興雜誌『[CCC創作集](../Page/CCC創作集.md "wikilink")（Creative
-Comic Collection）』繪製了《陽炎少女丹陽》的一系列插圖\[1\]，發表後在日本獲得迴響，以此為契機，2011年在日本COMIC
-GUM月刊展開了漫畫作品《[鋼鐵少女](../Page/钢铁少女.md "wikilink")》的連載\[2\]，可說是戰艦[擬人化風潮的先驅](https://zh.wikipedia.org/wiki/擬人化 "wikilink")，並展開多元的跨領域作企劃。\[3\]
+**皇宇（ZECO）**，[臺灣](../Page/臺灣.md "wikilink")的[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")，擅長設計機械、美少女、軍武題材，2009年在中央研究院數位文化中心的邀約下於其所屬文化振興雜誌『[CCC創作集](../Page/CCC創作集.md "wikilink")（Creative Comic Collection）』繪製了《陽炎少女丹陽》的一系列插圖\[1\]，發表後在日本獲得迴響，以此為契機，2011年在日本COMIC GUM月刊展開了漫畫作品《[鋼鐵少女](../Page/钢铁少女.md "wikilink")》的連載\[2\]，可說是戰艦[擬人化風潮的先驅](https://zh.wikipedia.org/wiki/擬人化 "wikilink")，並展開多元的跨領域作企劃。\[3\]
 
 被認為是最早有明確故事及在設計上有完整系統化（但並非最早繪製艦娘）的艦娘作品，進而影響了日本同樣是以船艦為主題擬人化的遊戲《[艦隊Collection](../Page/艦隊Collection.md "wikilink")》；早在《艦隊collection》上架前兩個月，日本媒體就以「給日本帶來衝擊的美少女戰艦是如何誕生的」為題對皇宇進行專訪\[4\]\[5\]\[6\]\[7\]，並由其遊戲製作人[田中謙介於作者畫集](https://zh.wikipedia.org/wiki/田中謙介 "wikilink")「鋼鐵少女圖鑑」上市時撰寫了推薦文。\[8\]
 
 ## 作品列表
 
-  - 《[少女兵器(Girl
-    Arms)](https://zh.wikipedia.org/wiki/少女兵器\(Girl_Arms\) "wikilink")》系列
-    - 角色設定/插圖/原畫
+  - 《[少女兵器(Girl Arms)](https://zh.wikipedia.org/wiki/少女兵器\(Girl_Arms\) "wikilink")》系列 - 角色設定/插圖/原畫
   - 《陽炎少女 -丹陽-》 - 角色設定/插圖/原畫
-  - 《[鋼鐵少女](https://zh.wikipedia.org/wiki/鋼鐵少女 "wikilink")》系列 -
-    漫畫連載\[9\]
-  - 《[Sweepa！](https://zh.wikipedia.org/wiki/Sweepa！ "wikilink")》 -
-    漫畫連載中
+  - 《[鋼鐵少女](https://zh.wikipedia.org/wiki/鋼鐵少女 "wikilink")》系列 - 漫畫連載\[9\]
+  - 《[Sweepa！](https://zh.wikipedia.org/wiki/Sweepa！ "wikilink")》 - 漫畫連載中
 
 ### 參與作品
 
-  - 《[桃色大戦對對碰](https://zh.wikipedia.org/wiki/桃色大戦對對碰 "wikilink")》[線上遊戲](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")
-    - 部分角色設定/插圖/原畫
-  - 《[百萬亞瑟王](https://zh.wikipedia.org/wiki/百萬亞瑟王 "wikilink")》[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")
-    - 部分角色設定/插圖/原畫\[10\]
-  - 《[龍族金幣](https://zh.wikipedia.org/wiki/龍族金幣 "wikilink")》手機遊戲 -
-    部分角色設定/插圖/原畫
-  - 《[英雄獵人](https://zh.wikipedia.org/wiki/英雄獵人 "wikilink")》手機遊戲 -
-    部分角色設定/插圖/原畫
+  - 《[桃色大戦對對碰](https://zh.wikipedia.org/wiki/桃色大戦對對碰 "wikilink")》[線上遊戲](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink") - 部分角色設定/插圖/原畫
+  - 《[百萬亞瑟王](https://zh.wikipedia.org/wiki/百萬亞瑟王 "wikilink")》[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink") - 部分角色設定/插圖/原畫\[10\]
+  - 《[龍族金幣](https://zh.wikipedia.org/wiki/龍族金幣 "wikilink")》手機遊戲 - 部分角色設定/插圖/原畫
+  - 《[英雄獵人](https://zh.wikipedia.org/wiki/英雄獵人 "wikilink")》手機遊戲 - 部分角色設定/插圖/原畫
   - 《[鎖鏈戰記](../Page/鎖鏈戰記.md "wikilink")》手機遊戲 - 部分角色設定/插圖/原畫
-  - 《[請命令！提督Sama](../Page/請命令！提督Sama.md "wikilink")》手機遊戲 -
-    部分角色設定/插圖/原畫—扶桑號戰艦
-  - 《[艦隊Collection](../Page/艦隊Collection.md "wikilink")》網頁遊戲 -
-    部分角色設定/插圖/原畫—塞繆爾·B·羅伯茨號（USS Samuel B. Roberts，
-    DE-413）、約翰斯頓號（USS Johnston， DD-557）、弗莱彻号（USS Fletcher，DD-445）
-  - 《[這一次冥婚辦完，我們家就可以湊一桌麻將了呢！](https://zh.wikipedia.org/wiki/這一次冥婚辦完，我們家就可以湊一桌麻將了呢！ "wikilink")》輕小說
-    - 封面設計/插圖
+  - 《[請命令！提督Sama](../Page/請命令！提督Sama.md "wikilink")》手機遊戲 - 部分角色設定/插圖/原畫—扶桑號戰艦
+  - 《[艦隊Collection](../Page/艦隊Collection.md "wikilink")》網頁遊戲 - 部分角色設定/插圖/原畫—塞繆爾·B·羅伯茨號（USS Samuel B. Roberts， DE-413）、約翰斯頓號（USS Johnston， DD-557）、弗莱彻号（USS Fletcher，DD-445）
+  - 《[這一次冥婚辦完，我們家就可以湊一桌麻將了呢！](https://zh.wikipedia.org/wiki/這一次冥婚辦完，我們家就可以湊一桌麻將了呢！ "wikilink")》輕小說 - 封面設計/插圖
 
 ## 著作權紛爭
 
@@ -64,15 +50,12 @@ GUM月刊展開了漫畫作品《[鋼鐵少女](../Page/钢铁少女.md "wikilin
   - [ZECO (@ZECOXZECO) | Twitter](https://twitter.com/ZECOXZECO)
   - [少女兵器諜報部2.0 - Facebook](https://www.facebook.com/girlarms/)
   - [少女兵器諜報部](http://girlarms.exblog.jp/)
-  - [鋼鉄少女_広報局 (@battleship_girl) |
-    Twitter](https://twitter.com/battleship_girl)
+  - [鋼鉄少女_広報局 (@battleship_girl) | Twitter](https://twitter.com/battleship_girl)
   - [鋼鐵少女委員會 - Facebook](http://www.facebook.com/battleshipgirl1/)
   - [Friendly Land 友善文創](http://www.friendly-land.com/)
-  - [友善文創(Friendly Land) -
-    Facebook](https://www.facebook.com/friendlyland)
+  - [友善文創(Friendly Land) - Facebook](https://www.facebook.com/friendlyland)
   - [鋼鐵少女 哈啦板 - 巴哈姆特（漫畫）](http://forum.gamer.com.tw/A.php?bsn=43733)
-  - [陽炎少女-丹陽:
-    CCC創作集-數位典藏與數位學習國家型科技計畫成果入口網](http://digitalarchives.tw/Theme/CCC/CCC2/CCC2_b.jsp)
+  - [陽炎少女-丹陽: CCC創作集-數位典藏與數位學習國家型科技計畫成果入口網](http://digitalarchives.tw/Theme/CCC/CCC2/CCC2_b.jsp)
 
 [Category:臺灣漫畫家](https://zh.wikipedia.org/wiki/Category:臺灣漫畫家 "wikilink")
 

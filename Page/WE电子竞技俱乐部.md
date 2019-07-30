@@ -1,14 +1,12 @@
-**WE电子竞技俱乐部**（，2016年前为Team World
-Elite），2019年起冠名为**[西安曲江WE电子竞技俱乐部](../Page/曲江新区.md "wikilink")**，是一个成立于2005年4月21日的电子竞技俱乐部，下设[英雄联盟](../Page/英雄联盟.md "wikilink")、[魔兽争霸](https://zh.wikipedia.org/wiki/魔兽争霸 "wikilink")、[炉石传说等分部](https://zh.wikipedia.org/wiki/炉石传说 "wikilink")。其英雄联盟分部参加了中国大陆的[英雄联盟职业联赛](../Page/英雄联盟职业联赛.md "wikilink")，也曾在IPL5赛事中获得冠军\[1\]。
+**WE电子竞技俱乐部**（，2016年前为Team World Elite），2019年起冠名为**[西安曲江WE电子竞技俱乐部](../Page/曲江新区.md "wikilink")**，是一个成立于2005年4月21日的电子竞技俱乐部，下设[英雄联盟](../Page/英雄联盟.md "wikilink")、[魔兽争霸](https://zh.wikipedia.org/wiki/魔兽争霸 "wikilink")、[炉石传说等分部](https://zh.wikipedia.org/wiki/炉石传说 "wikilink")。其英雄联盟分部参加了中国大陆的[英雄联盟职业联赛](../Page/英雄联盟职业联赛.md "wikilink")，也曾在IPL5赛事中获得冠军\[1\]。
 
 ## 俱乐部历史
 
-WE俱乐部成立于2005年，最初以"World
-Elite"为名《[魔兽争霸3](https://zh.wikipedia.org/wiki/魔兽争霸3 "wikilink")》与《[星际争霸](https://zh.wikipedia.org/wiki/星际争霸 "wikilink")》为主要项目，其时最著名选手为魔兽争霸3项目的[李晓峰(WE.Sky)](../Page/李晓峰_\(电玩家\).md "wikilink")。
+WE俱乐部成立于2005年，最初以"World Elite"为名《[魔兽争霸3](https://zh.wikipedia.org/wiki/魔兽争霸3 "wikilink")》与《[星际争霸](https://zh.wikipedia.org/wiki/星际争霸 "wikilink")》为主要项目，其时最著名选手为魔兽争霸3项目的[李晓峰(WE.Sky)](../Page/李晓峰_\(电玩家\).md "wikilink")。
 
 WE英雄联盟分部成立于2011年，为中国英雄联盟职业化初期的主要强队之一，其在2011-2013年间曾获得多项LOL赛事冠军，并一度创下各项赛事48场连胜的世界纪录，该纪录在世界范围内至今仍未被打破。
 
-2013年开始由于版本适应、战术落后及队员离队风波等原因WE曾陷入长达数年的低谷，直至2017年在[英雄联盟职业联赛春季赛中夺冠并在当年](../Page/英雄联盟职业联赛.md "wikilink")[世界总决赛中进入四强](../Page/英雄联盟2017赛季全球总决赛.md "wikilink")。
+2013年开始由于版本适应、战术落后及队员离队风波等原因WE曾陷入长达数年的低谷，直至2017年在[英雄联盟职业联赛](../Page/英雄联盟职业联赛.md "wikilink")春季赛中夺冠并在当年[世界总决赛中进入四强](../Page/英雄联盟2017赛季全球总决赛.md "wikilink")。
 
 2018年WE将俱乐部主场迁回起创始地[西安市](../Page/西安市.md "wikilink")，并获得当地政府大力支持。
 
@@ -16,9 +14,7 @@ WE英雄联盟分部成立于2011年，为中国英雄联盟职业化初期的�
 
 ### 英雄联盟分部（2018年夏季赛）
 
-WE俱乐部目前有两支英雄联盟战队，分别为参加顶级联赛LPL的Team WE与次级联赛LDL的Mighty
-Eagle。此外，WE曾有一支名为**"Team WE Academy"**的战队，但由于Riot
-Games在2014年增加了同级联赛同俱乐部只允许一个战队参赛的规定，WE俱乐部将其出售并改名为"Masters 3"。
+WE俱乐部目前有两支英雄联盟战队，分别为参加顶级联赛LPL的Team WE与次级联赛LDL的Mighty Eagle。此外，WE曾有一支名为**"Team WE Academy"**的战队，但由于Riot Games在2014年增加了同级联赛同俱乐部只允许一个战队参赛的规定，WE俱乐部将其出售并改名为"Masters 3"。
 
 #### Team WE
 
@@ -254,7 +250,7 @@ Games在2014年增加了同级联赛同俱乐部只允许一个战队参赛的�
   - **[英雄联盟职业联赛](../Page/英雄联盟职业联赛.md "wikilink")(1)**：2017春
   - [英特尔极限高手杯](https://zh.wikipedia.org/wiki/IEM "wikilink")(3)：2011（广州站）、2013（上海站）、2014（深圳站）
   - [全国电子竞技大赛](https://zh.wikipedia.org/wiki/全国电子竞技大赛 "wikilink")(1)：2015
-  - [英伟达游戏群英汇](../Page/英伟达.md "wikilink")(2)：2012、2013
+  - [英伟达](../Page/英伟达.md "wikilink")游戏群英汇(2)：2012、2013
   - G联赛(G-League)(1)：2013
   - IPL(IGN ProLeague)(1)：2012
   - HAN Pro League(1)：2012
@@ -269,7 +265,7 @@ Games在2014年增加了同级联赛同俱乐部只允许一个战队参赛的�
 
   - **[德玛西亚杯](https://zh.wikipedia.org/wiki/德玛西亚杯 "wikilink")(2)**：2014春、2014夏
   - 全国电子竞技大赛(1)：2013
-  - [英伟达游戏群英汇](../Page/英伟达.md "wikilink")(1)：2014
+  - [英伟达](../Page/英伟达.md "wikilink")游戏群英汇(1)：2014
   - **[亚洲室内暨武艺运动会](https://zh.wikipedia.org/wiki/亚洲室内暨武艺运动会 "wikilink")(1)**：[2013](https://zh.wikipedia.org/wiki/2013年亚洲室内暨武艺运动会 "wikilink")
 
 ### 魔兽争霸3
@@ -303,8 +299,6 @@ Games在2014年增加了同级联赛同俱乐部只允许一个战队参赛的�
   - [官方微博](http://weibo.com/teamwe?refer_flag=1001030101_)
   - [LPL联赛WE战队](http://lpl.qq.com/es/team_detail.shtml?tid=12)
 
-[Category:中国大陆电子竞技团队](https://zh.wikipedia.org/wiki/Category:中国大陆电子竞技团队 "wikilink")
-[Category:英雄聯盟競技團隊](https://zh.wikipedia.org/wiki/Category:英雄聯盟競技團隊 "wikilink")
-[Category:曲江新区](https://zh.wikipedia.org/wiki/Category:曲江新区 "wikilink")
+[Category:中国大陆电子竞技团队](https://zh.wikipedia.org/wiki/Category:中国大陆电子竞技团队 "wikilink") [Category:英雄聯盟競技團隊](https://zh.wikipedia.org/wiki/Category:英雄聯盟競技團隊 "wikilink") [Category:曲江新区](https://zh.wikipedia.org/wiki/Category:曲江新区 "wikilink")
 
 1.

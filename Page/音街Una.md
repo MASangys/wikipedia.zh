@@ -1,4 +1,4 @@
-**音街ウナ**是动画公司MTK与音乐公司[Internet合作推出的虚拟歌手](../Page/Internet_\(公司\).md "wikilink")，同时具备[Vocaloid和](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")[AITalk](https://zh.wikipedia.org/wiki/AITalk "wikilink")[语音合成技术](../Page/语音合成.md "wikilink")。
+**音街Una**（又译作**音街鳗**，日语原名****）是动画公司MTK与音乐公司[Internet合作推出的虚拟歌手](../Page/Internet_\(公司\).md "wikilink")，同时具备[Vocaloid和](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")[AITalk](https://zh.wikipedia.org/wiki/AITalk "wikilink")[语音合成](../Page/语音合成.md "wikilink")技术。
 
 ## 人物设定
 
@@ -8,8 +8,8 @@
   - 身高：148.5厘米（连带头上的巨型鳗鱼帽）
   - 出生地：音乐之街
   - 名字：「ウナ」代表了其角色形象的创作理念来自于[鳗鱼](https://zh.wikipedia.org/wiki/鳗鱼 "wikilink")\[1\]
-  - 外貌：头戴蝌蚪型鳗鱼帽，留有蓝色的双马尾和一根呆毛，拥有蓝色的[瞳孔和一对小虎牙](../Page/瞳孔.md "wikilink")。身穿以[日本校服为基础修改的服装](../Page/日本校服.md "wikilink")。以下列出不同人设的差异：
-      - Sugar：整体风格为[仪乐队员设计](../Page/仪乐队.md "wikilink")。发色到发尾变为白色。
+  - 外貌：头戴蝌蚪型鳗鱼帽，留有蓝色的双马尾和一根呆毛，拥有蓝色的[瞳孔](../Page/瞳孔.md "wikilink")和一对小虎牙。身穿以[日本校服](../Page/日本校服.md "wikilink")为基础修改的服装。以下列出不同人设的差异：
+      - Sugar：整体风格为[仪乐队](../Page/仪乐队.md "wikilink")员设计。发色到发尾变为白色。
       - Spicy：整体风格为流行歌手设计。帽子上为长有一对黄色犄角、右眼下有黄色闪电状刺青的鳗鱼人面。发色到发尾变为绿混黄色，刘海上有黄色挑染。左脸上有音符状的刺青。
       - Talk：整体风格为优等生设计。帽子上还戴有[博士帽](https://zh.wikipedia.org/wiki/四方帽 "wikilink")。发色到发尾变为粉色，马尾上缠有蓝粉色的丝带。戴着红色框的眼镜。
 
@@ -19,15 +19,11 @@
 
 ### 历史
 
-2016年6月15日，官方YouTube频道上传了一篇新产品的预告视频，当中公开了制作商，新声库的部分名称，形象剪影和发售日期等信息。\[2\]6月29日，官方频道上传了第二篇视频，当中公布了新产品信息，包括其完整立绘图像和原声提供者信息等。\[3\]**7月30日**，《VOCALOID4
-Library 音街ウナ
-V4》下载版开始发售，实体版于8月4日发售。\[4\]2017年3月8日，官方频道上传了第三篇视频，当中预告了即将发布的新产品和其形象剪影。\[5\]3月14日，官方公布新产品《音街ウナTalk
-Ex》，并在官方网站上释放更多详细信息。\[6\]**4月20日**，《音街ウナTalk Ex》的下载版和实体版同步发售。
+2016年6月15日，官方YouTube频道上传了一篇新产品的预告视频，当中公开了制作商，新声库的部分名称，形象剪影和发售日期等信息。\[2\]6月29日，官方频道上传了第二篇视频，当中公布了新产品信息，包括其完整立绘图像和原声提供者信息等。\[3\]**7月30日**，《VOCALOID4 Library 音街ウナ V4》下载版开始发售，实体版于8月4日发售。\[4\]2017年3月8日，官方频道上传了第三篇视频，当中预告了即将发布的新产品和其形象剪影。\[5\]3月14日，官方公布新产品《音街ウナTalk Ex》，并在官方网站上释放更多详细信息。\[6\]**4月20日**，《音街ウナTalk Ex》的下载版和实体版同步发售。
 
 ### Vocaloid 4
 
-**《VOCALOID4 Library
-V4》**收录了甜美可爱声质的“Sugar”、以及元气高亢声质的“Spicy”两款歌声数据库。在有安装Internet发售的其他声库的情况下，两款声库所对应的“UNA”组将扩展到“INTERNET”组。
+**《VOCALOID4 Library  V4》**收录了甜美可爱声质的“Sugar”、以及元气高亢声质的“Spicy”两款歌声数据库。在有安装Internet发售的其他声库的情况下，两款声库所对应的“UNA”组将扩展到“INTERNET”组。
 
 产品附录了可扩展音乐表现力的140种声音素材，包括17种呼吸音素材，语句，倒计时等。\[7\]
 
@@ -47,9 +43,7 @@ V4》**收录了甜美可爱声质的“Sugar”、以及元气高亢声质的�
 
 ### AITalk
 
-不同于采用FineSpeech引擎的《[Megpoid
-Talk](../Page/Megpoid.md "wikilink")》，**《Talk
-Ex》**则采用与[Voiceroid一样的AITalk引擎](../Page/Voiceroid.md "wikilink")。已购买的用户可额外下载超过100段录音样本（内容包括喝彩，对话等）。\[8\]
+不同于采用FineSpeech引擎的《[Megpoid Talk](../Page/Megpoid.md "wikilink")》，**《Talk Ex》**则采用与[Voiceroid](../Page/Voiceroid.md "wikilink")一样的AITalk引擎。已购买的用户可额外下载超过100段录音样本（内容包括喝彩，对话等）。\[8\]
 
   - 演示曲
 
@@ -148,8 +142,7 @@ Ex》**则采用与[Voiceroid一样的AITalk引擎](../Page/Voiceroid.md "wikili
 
 ### 官方共享素材
 
-用户可在官方的\[<http://commons.nicovideo.jp/user/upload/3826651>?
-niconi共享\]频道和[niconi立体](http://3d.nicovideo.jp/users/59051659)频道上下载以下素材。
+用户可在官方的\[<http://commons.nicovideo.jp/user/upload/3826651>? niconi共享\]频道和[niconi立体](http://3d.nicovideo.jp/users/59051659)频道上下载以下素材。
 
   - MMD模型（非商用）
   - 图像（非商用）
@@ -158,15 +151,13 @@ niconi共享\]频道和[niconi立体](http://3d.nicovideo.jp/users/59051659)频�
 
 ### Line贴图
 
-MTK于2017年3月7日，在[Line](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")
-Store上架了40个「音街鳗」的表情贴图，除了「Sugar」和「Spicy」角色，她们的鳗鱼帽也参与其中。\[9\]
+MTK于2017年3月7日，在[Line](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink") Store上架了40个「音街鳗」的表情贴图，除了「Sugar」和「Spicy」角色，她们的鳗鱼帽也参与其中。\[9\]
 
 ## 参考资料
 
 **注释**
 
-[Category:Vocaloid4引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid4引擎产品 "wikilink")
-[Category:Vocaloid角色](https://zh.wikipedia.org/wiki/Category:Vocaloid角色 "wikilink")
+[Category:Vocaloid4引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid4引擎产品 "wikilink") [Category:Vocaloid角色](https://zh.wikipedia.org/wiki/Category:Vocaloid角色 "wikilink")
 
 1.
 2.

@@ -1,8 +1,6 @@
 local p = {}
 
-\--creates a frame object that cannot access any of the parent's args
---unless a table containing a list keys of not to inherit is provided
-function disinherit(frame, onlyTheseKeys)
+\--creates a frame object that cannot access any of the parent's args --unless a table containing a list keys of not to inherit is provided function disinherit(frame, onlyTheseKeys)
 
 `   local parent = frame:getParent() or frame`
 `   local orphan = parent:newChild{}`
@@ -64,11 +62,9 @@ function p.main(frame, demoTable)
 
 </pre>
 
-%s%s', args.style and string.format(" style='%s'", args.style) or '',
-show.source, args.br, show.output) end
+%s%s', args.style and string.format(" style='%s'", args.style) or '', show.source, args.br, show.output) end
 
-\-- Alternate function to return an inline result function
-p.inline(frame, demoTable)
+\-- Alternate function to return an inline result function p.inline(frame, demoTable)
 
 `   local show = demoTable or p.get(frame)`
 `   local args = show.frame.args`
@@ -79,8 +75,7 @@ p.inline(frame, demoTable)
 
 end
 
-\--passing of args into other module without preprocessing function
-p.module(frame)
+\--passing of args into other module without preprocessing function p.module(frame)
 
 `   local orphan, frame = disinherit(frame, {`
 `       'demo_template',`

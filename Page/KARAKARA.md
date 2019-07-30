@@ -1,5 +1,4 @@
-《**KARAKARA**》是由calme製作再由[Sekai
-Project於](../Page/Sekai_Project.md "wikilink")2016年6月27日發售的[戀愛冒險類型的](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")\[1\]，18禁DLC則由Denpasoft發售。\[2\]
+《**KARAKARA**》是由calme製作再由[Sekai Project於](../Page/Sekai_Project.md "wikilink")2016年6月27日發售的[戀愛冒險類型的](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")\[1\]，18禁DLC則由Denpasoft發售。\[2\]
 
 ## 故事
 
@@ -40,14 +39,7 @@ Project於](../Page/Sekai_Project.md "wikilink")2016年6月27日發售的[戀愛
 
   - [官方網站](http://calmeworld.com/krkr/index.html)
 
-[Category:2016年電子遊戲](https://zh.wikipedia.org/wiki/Category:2016年電子遊戲 "wikilink")
-[Category:2016年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2016年日本成人遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:文明崩潰後世界題材遊戲](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材遊戲 "wikilink")
+[Category:2016年電子遊戲](https://zh.wikipedia.org/wiki/Category:2016年電子遊戲 "wikilink") [Category:2016年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2016年日本成人遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:文明崩潰後世界題材遊戲](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材遊戲 "wikilink")
 
 1.
 

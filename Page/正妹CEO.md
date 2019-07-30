@@ -1,4 +1,4 @@
-《**正妹CEO**》（）是一部改編自[蘇菲亞·阿莫魯索同名回憶錄的](../Page/蘇菲亞·阿莫魯索.md "wikilink")[美國電視](https://zh.wikipedia.org/wiki/美國 "wikilink")[喜劇](../Page/喜劇.md "wikilink")，由[凱·卡農開創](https://zh.wikipedia.org/wiki/凱·卡農 "wikilink")，於2017年4月21日在[Netflix開播](../Page/Netflix.md "wikilink")。\[1\]\[2\]6月24日，本劇正式被Netflix取消。\[3\]
+《**正妹CEO**》（）是一部改編自[蘇菲亞·阿莫魯索](../Page/蘇菲亞·阿莫魯索.md "wikilink")同名回憶錄的[美國電視](https://zh.wikipedia.org/wiki/美國 "wikilink")[喜劇](../Page/喜劇.md "wikilink")，由[凱·卡農開創](https://zh.wikipedia.org/wiki/凱·卡農 "wikilink")，於2017年4月21日在[Netflix](../Page/Netflix.md "wikilink")開播。\[1\]\[2\]6月24日，本劇正式被Netflix取消。\[3\]
 
 ## 故事
 
@@ -8,8 +8,7 @@
 
 ### 主要角色
 
-  - [布麗特·羅伯森](https://zh.wikipedia.org/wiki/布麗特妮·羅伯森 "wikilink") 飾演
-    [蘇菲亞·馬羅](../Page/蘇菲亞·阿莫魯索.md "wikilink")（）
+  - [布麗特·羅伯森](https://zh.wikipedia.org/wiki/布麗特妮·羅伯森 "wikilink") 飾演 [蘇菲亞·馬羅](../Page/蘇菲亞·阿莫魯索.md "wikilink")（）
 
 <!-- end list -->
 
@@ -131,7 +130,7 @@
 <!-- end list -->
 
   -
-    畢業於[常春藤盟校的網頁設計師](../Page/常春藤盟校.md "wikilink")，Nasty Gal的員工。
+    畢業於[常春藤盟校](../Page/常春藤盟校.md "wikilink")的網頁設計師，Nasty Gal的員工。
 
 <!-- end list -->
 
@@ -164,8 +163,7 @@
 
 ### 製作與開發
 
-2016年2月4日，宣布《[歌喉讚](../Page/歌喉讚.md "wikilink")》編劇[凱·卡農將攜手](https://zh.wikipedia.org/wiki/凱·卡農 "wikilink")[莎莉·賽隆為](https://zh.wikipedia.org/wiki/查理茲·塞隆 "wikilink")[Netflix開發以](../Page/Netflix.md "wikilink")[蘇菲亞·阿莫魯索的暢銷回憶錄](../Page/蘇菲亞·阿莫魯索.md "wikilink")《正妹CEO》作為靈感的同名喜劇，卡農除執筆首集外，將擔任本劇節目統籌，並與賽隆、貝絲·科諾、拉芙恩·麥金儂及阿莫魯索共同擔任執行製作。\[4\]故事將講述蘇菲亞如何從一個如生活在垃圾堆中的貧窮女孩，透過[eBay經營](https://zh.wikipedia.org/wiki/eBay "wikilink")「壞女孩二手衣」（），成功翻身為引領洛杉磯潮流的時尚帝國「Nasty
-Gal」之CEO。\[5\]6月7日，本劇已獲全季13集預訂，並由執導。\[6\]
+2016年2月4日，宣布《[歌喉讚](../Page/歌喉讚.md "wikilink")》編劇[凱·卡農將攜手](https://zh.wikipedia.org/wiki/凱·卡農 "wikilink")[莎莉·賽隆為](https://zh.wikipedia.org/wiki/查理茲·塞隆 "wikilink")[Netflix](../Page/Netflix.md "wikilink")開發以[蘇菲亞·阿莫魯索](../Page/蘇菲亞·阿莫魯索.md "wikilink")的暢銷回憶錄《正妹CEO》作為靈感的同名喜劇，卡農除執筆首集外，將擔任本劇節目統籌，並與賽隆、貝絲·科諾、拉芙恩·麥金儂及阿莫魯索共同擔任執行製作。\[4\]故事將講述蘇菲亞如何從一個如生活在垃圾堆中的貧窮女孩，透過[eBay經營](https://zh.wikipedia.org/wiki/eBay "wikilink")「壞女孩二手衣」（），成功翻身為引領洛杉磯潮流的時尚帝國「Nasty Gal」之CEO。\[5\]6月7日，本劇已獲全季13集預訂，並由執導。\[6\]
 
 ### 選角
 
@@ -179,7 +177,7 @@ Gal」之CEO。\[5\]6月7日，本劇已獲全季13集預訂，並由執導。\[
 
 ## 評價
 
-本劇獲得電視影評家許多差評。於[爛番茄整合的評論中](../Page/爛番茄.md "wikilink")，僅獲得31%的新鮮度、平均得分5.94/10（26名評論家），影評家共識：「《正妹CEO》擁有自身的魅力，但卻被主角有問題的根本行為消磨殆盡。」\[14\]於[Metacritic整合的評論中](../Page/Metacritic.md "wikilink")，獲得了53分（滿分100；13名評論家），屬好壞參半的評價。\[15\]
+本劇獲得電視影評家許多差評。於[爛番茄](../Page/爛番茄.md "wikilink")整合的評論中，僅獲得31%的新鮮度、平均得分5.94/10（26名評論家），影評家共識：「《正妹CEO》擁有自身的魅力，但卻被主角有問題的根本行為消磨殆盡。」\[14\]於[Metacritic](../Page/Metacritic.md "wikilink")整合的評論中，獲得了53分（滿分100；13名評論家），屬好壞參半的評價。\[15\]
 
 雖然多數的評論家對本劇角色之個性有所異議，但普遍給予[布麗特·羅伯森的演技好評](https://zh.wikipedia.org/wiki/布麗特妮·羅伯森 "wikilink")。\[16\]\[17\]\[18\]〈[紐約郵報](../Page/紐約郵報.md "wikilink")〉珍妮佛·萊特（）稱蘇菲亞的自私個性為“女權的敗筆”，\[19\]不過〈〉艾咪·奧托（）則認為此凸顯了資本主義下的女性寫照。\[20\]
 
@@ -189,18 +187,7 @@ Gal」之CEO。\[5\]6月7日，本劇已獲全季13集預訂，並由執導。\[
 
   -
   -
-[Category:2010年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2010年代美國電視劇 "wikilink")
-[Category:2017年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2017年開播的美國電視影集 "wikilink")
-[Category:2017年停播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2017年停播的美國電視影集 "wikilink")
-[Category:美國電視喜劇](https://zh.wikipedia.org/wiki/Category:美國電視喜劇 "wikilink")
-[Category:美國電視情景喜劇](https://zh.wikipedia.org/wiki/Category:美國電視情景喜劇 "wikilink")
-[Category:英語電視節目](https://zh.wikipedia.org/wiki/Category:英語電視節目 "wikilink")
-[Category:英語電視劇](https://zh.wikipedia.org/wiki/Category:英語電視劇 "wikilink")
-[Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink")
-[Category:自傳改編電視劇](https://zh.wikipedia.org/wiki/Category:自傳改編電視劇 "wikilink")
-[Category:Netflix原創節目](https://zh.wikipedia.org/wiki/Category:Netflix原創節目 "wikilink")
-[Category:舊金山背景電視節目](https://zh.wikipedia.org/wiki/Category:舊金山背景電視節目 "wikilink")
-[Category:時尚題材電視劇](https://zh.wikipedia.org/wiki/Category:時尚題材電視劇 "wikilink")
+[Category:2010年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2010年代美國電視劇 "wikilink") [Category:2017年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2017年開播的美國電視影集 "wikilink") [Category:2017年停播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2017年停播的美國電視影集 "wikilink") [Category:美國電視喜劇](https://zh.wikipedia.org/wiki/Category:美國電視喜劇 "wikilink") [Category:美國電視情景喜劇](https://zh.wikipedia.org/wiki/Category:美國電視情景喜劇 "wikilink") [Category:英語電視節目](https://zh.wikipedia.org/wiki/Category:英語電視節目 "wikilink") [Category:英語電視劇](https://zh.wikipedia.org/wiki/Category:英語電視劇 "wikilink") [Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink") [Category:自傳改編電視劇](https://zh.wikipedia.org/wiki/Category:自傳改編電視劇 "wikilink") [Category:Netflix原創節目](https://zh.wikipedia.org/wiki/Category:Netflix原創節目 "wikilink") [Category:舊金山背景電視節目](https://zh.wikipedia.org/wiki/Category:舊金山背景電視節目 "wikilink") [Category:時尚題材電視劇](https://zh.wikipedia.org/wiki/Category:時尚題材電視劇 "wikilink")
 
 1.
 

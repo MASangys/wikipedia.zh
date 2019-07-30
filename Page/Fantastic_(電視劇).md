@@ -1,4 +1,4 @@
-《**Fantastic**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC自](../Page/JTBC.md "wikilink")2016年9月2日起播出的[金土迷你連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[LAST](../Page/LAST_\(電視劇\).md "wikilink")》[趙南國執導與](../Page/趙南國.md "wikilink")《[吸血鬼偶像](../Page/吸血鬼偶像.md "wikilink")》李成恩作家共同打造的作品，講述韓流明星與生命即將走到盡頭的電視劇編劇相遇的浪漫喜劇。
+《**Fantastic**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")自2016年9月2日起播出的[金土迷你連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[LAST](../Page/LAST_\(電視劇\).md "wikilink")》[趙南國](../Page/趙南國.md "wikilink")執導與《[吸血鬼偶像](../Page/吸血鬼偶像.md "wikilink")》李成恩作家共同打造的作品，講述韓流明星與生命即將走到盡頭的電視劇編劇相遇的浪漫喜劇。
 
 ## 演員陣容
 
@@ -367,8 +367,7 @@
 
 <!-- end list -->
 
-  - [tvN](../Page/TVN.md "wikilink")：《[THE
-    K2](../Page/THE_K2.md "wikilink")》
+  - [tvN](../Page/TVN.md "wikilink")：《[THE K2](../Page/THE_K2.md "wikilink")》
 
 <!-- end list -->
 
@@ -402,13 +401,7 @@
   - [韓國JTBC官方網站](http://drama.jtbc.joins.com/fantastic/)
   - [香港有線電視官方網站](http://epg.i-cable.com/ci/program/intro/528/愛情有限期)
 
-[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink")
-[Category:電視台背景作品](https://zh.wikipedia.org/wiki/Category:電視台背景作品 "wikilink")
-[Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink")
-[Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
+[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:電視台背景作品](https://zh.wikipedia.org/wiki/Category:電視台背景作品 "wikilink") [Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink") [Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
 
-1.  [판타스틱 – Daum 통합
-    검색](http://search.daum.net/search?nil_suggest=btn&rtupcoll=DQP%2CNNS&w=tot&DA=SBC&q=%ED%8C%90%ED%83%80%EC%8A%A4%ED%8B%B1)
-2.  [판타스틱 : 네이버
-    통합검색](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&oquery=%EB%A7%88%EB%85%80%EB%B3%B4%EA%B0%90&ie=utf8&query=%ED%8C%90%ED%83%80%EC%8A%A4%ED%8B%B1)
+1.  [판타스틱 – Daum 통합 검색](http://search.daum.net/search?nil_suggest=btn&rtupcoll=DQP%2CNNS&w=tot&DA=SBC&q=%ED%8C%90%ED%83%80%EC%8A%A4%ED%8B%B1)
+2.  [판타스틱 : 네이버 통합검색](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&oquery=%EB%A7%88%EB%85%80%EB%B3%B4%EA%B0%90&ie=utf8&query=%ED%8C%90%ED%83%80%EC%8A%A4%ED%8B%B1)

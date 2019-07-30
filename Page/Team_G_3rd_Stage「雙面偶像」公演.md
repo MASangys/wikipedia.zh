@@ -1,6 +1,4 @@
-**GNZ48 Team G 3rd
-Stage「雙面偶像」公演**是[GNZ48的剧场公演](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")，此套公演同時也是GNZ48
-Team G的首套原創公演\[1\]。
+**GNZ48 Team G 3rd Stage「雙面偶像」公演**是[GNZ48的剧场公演](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")，此套公演同時也是GNZ48 Team G的首套原創公演\[1\]。
 
 ## 概要
 
@@ -22,8 +20,7 @@ Team G的首套原創公演\[1\]。
 5.  梦想咖啡厅
     （作詞：Mayu Huang 黄枫宜　作曲：7key-Once　编曲：7key-Once）
 6.  9 to 9
-    （作詞：田纳　作曲：金源奕、Hanif Sabzervari、Dennis Kordnejad、Pontus
-    Ljung　编曲：Hanif Sabzevari、Dennis Kordnejad、Pontus Ljung）
+    （作詞：田纳　作曲：金源奕、Hanif Sabzervari、Dennis Kordnejad、Pontus Ljung　编曲：Hanif Sabzevari、Dennis Kordnejad、Pontus Ljung）
 7.  MC Queen
     （作詞：高源婧、田纳　作曲：金源奕、朴志娟　编曲：金源奕）
 8.  双面偶像
@@ -41,8 +38,7 @@ Team G的首套原創公演\[1\]。
 14. 合理失控
     （作詞：陈又宁　作曲：Aaron.H、草木力　编曲：黄冠伦）
 15. Gravity
-    （作詞：甘世佳　作曲：Måns Ek、Erik Sahlén、Hanif Sabzevari　编曲：Måns Ek、Hanif
-    Sabzevari）
+    （作詞：甘世佳　作曲：Måns Ek、Erik Sahlén、Hanif Sabzevari　编曲：Måns Ek、Hanif Sabzevari）
 16. Winkend
     （作詞：Mayu Huang 黄枫宜　作曲：7key-Once　编曲：7key-Once）
 
@@ -175,8 +171,7 @@ SNH48于2018年9月5日及11日分批释出了该公演全部曲目的音源。
 
   - 首次有16人曲穿插於Unit曲之中。
   - 首次Unit曲人選大於16人。
-  - 该公演于2018年12月9日成为SNH48 Group各套公演中由同一队伍表演的周期最长的公演，及于2019年3月1日成为SNH48
-    Group各套公演中由同一队伍表演的场次最多的公演。这个纪录迄今为止随着公演的继续，还在不断刷新。
+  - 该公演于2018年12月9日成为SNH48 Group各套公演中由同一队伍表演的周期最长的公演，及于2019年3月1日成为SNH48 Group各套公演中由同一队伍表演的场次最多的公演。这个纪录迄今为止随着公演的继续，还在不断刷新。
 
 ## 參考資料
 
@@ -189,9 +184,7 @@ SNH48于2018年9月5日及11日分批释出了该公演全部曲目的音源。
 [Category:SNH48_Group剧场公演](https://zh.wikipedia.org/wiki/Category:SNH48_Group剧场公演 "wikilink")
 
 1.  [GNZ48官方网站的介绍](http://www.gnz48.com/event/g021/)
-2.  [GNZ48 Team
-    G全新原创公演《双面偶像》大受好评，首场线上观看人次破百万](http://www.gnz48.com/html/news/info/201708/348.html)
+2.  [GNZ48 Team G全新原创公演《双面偶像》大受好评，首场线上观看人次破百万](http://www.gnz48.com/html/news/info/201708/348.html)
 3.  [《双面偶像》公演太诡异，LED屏里的人竟然活了？！](http://www.sohu.com/a/165598660_115487)
-4.  [《双面偶像》首演太火爆
-    舞台效果震撼百万人](http://music.yule.sohu.com/20170815/n506820740.shtml)
+4.  [《双面偶像》首演太火爆 舞台效果震撼百万人](http://music.yule.sohu.com/20170815/n506820740.shtml)
 5.

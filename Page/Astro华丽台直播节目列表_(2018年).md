@@ -1,4 +1,4 @@
-本條目內之「播放日期」，是指[马来西亚](../Page/马来西亚.md "wikilink")[Astro華麗台的播放日期](../Page/Astro華麗台.md "wikilink")。
+本條目內之「播放日期」，是指[马来西亚](../Page/马来西亚.md "wikilink")[Astro華麗台](../Page/Astro華麗台.md "wikilink")的播放日期。
 
 <table>
 <tbody>
@@ -74,7 +74,7 @@ Astro Go Shop HD (中文版)同步直播</p></td>
 <td><p><a href="../Page/马来西亚.md" title="wikilink">大马</a><a href="../Page/翡翠台.md" title="wikilink">翡翠台</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/第37屆香港電影金像獎.md" title="wikilink">第37屆香港電影金像獎頒獎典禮</a></p></td>
+<td><p><a href="../Page/第37屆香港電影金像獎.md" title="wikilink">第37屆香港電影金像獎</a>頒獎典禮</p></td>
 <td><p>2018年4月15日</p></td>
 <td><p>20:00</p></td>
 <td><p>現場直播<br />

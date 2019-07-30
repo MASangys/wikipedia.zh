@@ -1,4 +1,4 @@
-**日文假名補充**是一个位于第一輔助平面的[Unicode区段](../Page/Unicode區段.md "wikilink")，收录了1个片假名和255个[变体假名](https://zh.wikipedia.org/wiki/变体假名 "wikilink")。其余的变体假名被收录在[日文假名擴展-A区段](../Page/日文假名擴展-A.md "wikilink")。
+**日文假名補充**是一个位于第一輔助平面的[Unicode区段](../Page/Unicode區段.md "wikilink")，收录了1个片假名和255个[变体假名](https://zh.wikipedia.org/wiki/变体假名 "wikilink")。其余的变体假名被收录在[日文假名擴展-A](../Page/日文假名擴展-A.md "wikilink")区段。
 
 ## 历史
 

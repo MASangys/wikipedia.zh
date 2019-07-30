@@ -1,5 +1,4 @@
-**株式會社CLARE
-VOICE**（，）是[日本的](../Page/日本.md "wikilink")[聲優事務所](../Page/聲優.md "wikilink")。
+**株式會社CLARE VOICE**（，）是[日本](../Page/日本.md "wikilink")的[聲優](../Page/聲優.md "wikilink")事務所。
 
 公司名的「CLARE」取自**C**ONNECT（連繫）、**L**EAD（領導）、**A**CTOR（演員）、**R**ESPONSIBILITY（責任）、**E**ARNEST（誠摯）的首字母。
 
@@ -54,10 +53,7 @@ VOICE**（，）是[日本的](../Page/日本.md "wikilink")[聲優事務所](..
 ## 外部連結
 
   -
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink")
-[Category:2014年成立的公司](https://zh.wikipedia.org/wiki/Category:2014年成立的公司 "wikilink")
-[Category:新宿](https://zh.wikipedia.org/wiki/Category:新宿 "wikilink")
+[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink") [Category:2014年成立的公司](https://zh.wikipedia.org/wiki/Category:2014年成立的公司 "wikilink") [Category:新宿](https://zh.wikipedia.org/wiki/Category:新宿 "wikilink")
 
 1.
 2.

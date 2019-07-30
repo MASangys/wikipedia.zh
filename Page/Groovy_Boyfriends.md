@@ -1,5 +1,4 @@
-**Groovy
-Boyfriends**（）為1992年組團，1999年解散的[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。
+**Groovy Boyfriends**（）為1992年組團，1999年解散的[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。
 
 ## 成員
 
@@ -12,14 +11,9 @@ Boyfriends**（）為1992年組團，1999年解散的[日本](../Page/日本.md 
 
 ## 概要
 
-1994年，經由唱片公司[Pony
-Canyon發行首張單曲](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")「愛全部」正式在音樂界出道。同年，首張專輯《TRIAD》發行之後，[鍵盤手](../Page/電子琴.md "wikilink")離開Groovy
-Boyfriends。1997年，移籍進入[avex
-group的旗下公司](../Page/愛貝克思集團.md "wikilink")，1999年隨著活動行程的結束，從此Groovy
-Boyfriends正式宣布解散。
+1994年，經由唱片公司[Pony Canyon發行首張單曲](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")「愛全部」正式在音樂界出道。同年，首張專輯《TRIAD》發行之後，[鍵盤手](../Page/電子琴.md "wikilink")離開Groovy Boyfriends。1997年，移籍進入[avex group的旗下公司](../Page/愛貝克思集團.md "wikilink")，1999年隨著活動行程的結束，從此Groovy Boyfriends正式宣布解散。
 
-解散之後，[主唱](../Page/歌手.md "wikilink")藝名「**K.**」單飛，[吉他手](../Page/吉他.md "wikilink")則主要從事樂曲的企畫製作及重新編曲。至於先前在1994年離開Groovy
-Boyfriends的鍵盤手木村後來加入過、[m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")（主要在公路賽車動畫《[頭文字D](../Page/頭文字D.md "wikilink")》提供樂曲）而廣為人知。
+解散之後，[主唱](../Page/歌手.md "wikilink")藝名「**K.**」單飛，[吉他](../Page/吉他.md "wikilink")手則主要從事樂曲的企畫製作及重新編曲。至於先前在1994年離開Groovy Boyfriends的鍵盤手木村後來加入過、[m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")（主要在公路賽車動畫《[頭文字D](../Page/頭文字D.md "wikilink")》提供樂曲）而廣為人知。
 
 ## 歌曲列表
 
@@ -70,7 +64,7 @@ Boyfriends的鍵盤手木村後來加入過、[m.o.v.e](https://zh.wikipedia.org
 <td><p>1996年5月17日</p></td>
 <td><p><strong>笑笑</strong></p></td>
 <td><p>Little Wing</p></td>
-<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台情報節目</a>《》OP主題歌曲</p></td>
+<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>情報節目《》OP主題歌曲</p></td>
 <td><p>sunburst（#1）</p></td>
 <td><p>PCDA-00866</p></td>
 </tr>
@@ -133,8 +127,7 @@ Boyfriends的鍵盤手木村後來加入過、[m.o.v.e](https://zh.wikipedia.org
 
 ### 其它
 
-  - 『年中夢中 "I Want
-    You"』（1996年12月11日，[日本華納音樂](../Page/日本華納音樂.md "wikilink")）
+  - 『年中夢中 "I Want You"』（1996年12月11日，[日本華納音樂](../Page/日本華納音樂.md "wikilink")）
       - [朝日電視台](../Page/朝日電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[蠟筆小新](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")》第5代片頭主題曲。
       - 作詞：C's，作曲、編曲：，主唱：Puppy（Groovy Boyfriends的蒙面組合）
   - Little Wish－K.from Groovy Boyfriends（1999年9月29日，CTCR-40021）
@@ -148,8 +141,4 @@ Boyfriends的鍵盤手木村後來加入過、[m.o.v.e](https://zh.wikipedia.org
 
   -
   -
-[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink")
-[Category:波麗佳音](https://zh.wikipedia.org/wiki/Category:波麗佳音 "wikilink")
-[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
-[Category:1994年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1994年成立的音樂團體 "wikilink")
-[Category:1999年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1999年解散的音樂團體 "wikilink")
+[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink") [Category:波麗佳音](https://zh.wikipedia.org/wiki/Category:波麗佳音 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:1994年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1994年成立的音樂團體 "wikilink") [Category:1999年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1999年解散的音樂團體 "wikilink")

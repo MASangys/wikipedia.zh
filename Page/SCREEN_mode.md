@@ -1,5 +1,4 @@
-**SCREEN
-mode**（）是由歌手[林勇與作曲家](../Page/林勇.md "wikilink")[太田雅友所組成的](../Page/太田雅友.md "wikilink")[日本樂團](../Page/日本.md "wikilink")。所屬唱片公司為**[Lantis](../Page/Lantis.md "wikilink")**。
+**SCREEN mode**（）是由歌手[林勇](../Page/林勇.md "wikilink")與作曲家[太田雅友](../Page/太田雅友.md "wikilink")所組成的[日本](../Page/日本.md "wikilink")樂團。所屬唱片公司為**[Lantis](../Page/Lantis.md "wikilink")**。
 
 ## 成员
 
@@ -48,8 +47,4 @@ mode**（）是由歌手[林勇與作曲家](../Page/林勇.md "wikilink")[太�
 
   -   -
       -
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink")
-[Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
+[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink") [Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")

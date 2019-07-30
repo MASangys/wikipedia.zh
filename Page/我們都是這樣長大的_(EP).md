@@ -1,4 +1,4 @@
-《**我們都是這樣長大的**》是香港歌手[林欣彤的第](../Page/林欣彤.md "wikilink")5張廣東專輯，於2015年6月22日推出，隨碟附送DVD一片。
+《**我們都是這樣長大的**》是香港歌手[林欣彤](../Page/林欣彤.md "wikilink")的第5張廣東專輯，於2015年6月22日推出，隨碟附送DVD一片。
 
 ## 曲目
 
@@ -22,6 +22,4 @@
 
 ## 參考
 
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:林欣彤音樂專輯](https://zh.wikipedia.org/wiki/Category:林欣彤音樂專輯 "wikilink")
-[Category:香港音乐专辑](https://zh.wikipedia.org/wiki/Category:香港音乐专辑 "wikilink")
+[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:林欣彤音樂專輯](https://zh.wikipedia.org/wiki/Category:林欣彤音樂專輯 "wikilink") [Category:香港音乐专辑](https://zh.wikipedia.org/wiki/Category:香港音乐专辑 "wikilink")

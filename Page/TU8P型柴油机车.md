@@ -8,7 +8,7 @@
 
 于[乌兹别克斯坦](../Page/乌兹别克斯坦.md "wikilink")：
 
-  - [吉扎克州窄轨铁路](../Page/吉扎克州.md "wikilink")\[3\]
+  - [吉扎克州](../Page/吉扎克州.md "wikilink")窄轨铁路\[3\]
 
 于[俄罗斯联邦](https://zh.wikipedia.org/wiki/俄罗斯联邦 "wikilink")：
 
@@ -34,12 +34,11 @@
 
 <references />
 
-[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink")
-[Category:越南柴油机车](https://zh.wikipedia.org/wiki/Category:越南柴油机车 "wikilink")
+[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:越南柴油机车](https://zh.wikipedia.org/wiki/Category:越南柴油机车 "wikilink")
 
 1.
 2.
 3.
 4.
-5.  按[越南铁路的铁路机车命名规则](../Page/越南铁路.md "wikilink")，“D”代表柴油机车，数字代表相对应的机车马力，“E”代表电力传动，“H”代表液力传动。
+5.  按[越南铁路](../Page/越南铁路.md "wikilink")的铁路机车命名规则，“D”代表柴油机车，数字代表相对应的机车马力，“E”代表电力传动，“H”代表液力传动。
 6.

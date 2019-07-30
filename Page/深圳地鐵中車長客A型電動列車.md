@@ -12,18 +12,15 @@
   - 列車的LCD報站顯示屏為長條型，惟顯示方式跟2號線及5號線的增購列車不同。
   - 車門棄用其他批次使用的南京康尼塞拉門，改為使用北京博得（Beijing Bode）製造的塞拉門。
 
-Shenzhen Metro CRRC Changchun rolling stock View of doors.jpg
-|7號綫车门上方液晶显示屏
+Shenzhen Metro CRRC Changchun rolling stock View of doors.jpg |7號綫车门上方液晶显示屏
 
 ### 9号线
 
   - 车頭組件重新設計，外型和7号线列車一模一樣。
-  - 列車牽引系統棄用其他批次所使用、由常牽-龐巴迪生產的[IGBT](https://zh.wikipedia.org/wiki/IGBT "wikilink")-[VVVF](https://zh.wikipedia.org/wiki/VVVF "wikilink")，改為使用中車時代電氣自主研發的[IGBT](https://zh.wikipedia.org/wiki/IGBT "wikilink")-[VVVF牽引系統](https://zh.wikipedia.org/wiki/VVVF "wikilink")（次批改用英威騰製造的IC3000方案牽引系統）
-    。
+  - 列車牽引系統棄用其他批次所使用、由常牽-龐巴迪生產的[IGBT](https://zh.wikipedia.org/wiki/IGBT "wikilink")-[VVVF](https://zh.wikipedia.org/wiki/VVVF "wikilink")，改為使用中車時代電氣自主研發的[IGBT](https://zh.wikipedia.org/wiki/IGBT "wikilink")-[VVVF牽引系統](https://zh.wikipedia.org/wiki/VVVF "wikilink")（次批改用英威騰製造的IC3000方案牽引系統） 。
   - 列車制動系統生產商為北京縱橫機電技術開發公司（[中國鐵科院轄下企業](https://zh.wikipedia.org/wiki/中國鐵科院 "wikilink")），和其他批次列車採用的德國克諾爾（Knorr-Bremse）不同。
   - 車門同樣棄用其他批次使用的南京康尼塞拉門，改為使用北京博得（Beijing Bode）製造的塞拉門。
-  - 9號線使用[SelTrac](../Page/SelTrac.md "wikilink")
-    [CBTC訊號系統](https://zh.wikipedia.org/wiki/CBTC "wikilink")。
+  - 9號線使用[SelTrac](../Page/SelTrac.md "wikilink") [CBTC訊號系統](https://zh.wikipedia.org/wiki/CBTC "wikilink")。
 
 Shenzhen Metro Line 9 Train Display.jpg|9號綫列车车门上方液晶显示屏
 

@@ -210,13 +210,13 @@
 
 ## 電影
 
-| 年份    | 影片名稱                               | 參與成員  | 角色    | 性質      | 備註 |
-| ----- | ---------------------------------- | ----- | ----- | ------- | -- |
-| 2012年 | 《》                                 | 孫娜恩   | 殷熙宰   | 配角      |    |
-| 2013年 | 《》                                 | 鄭恩地   | Shiny | 動畫，韓國配音 |    |
-| 2017年 | 《》                                 | Kelly |       |         |    |
-| 2018年 | 《[女哭聲](../Page/女哭聲.md "wikilink")》 | 孫娜恩   |       | 女主角     |    |
-|       |                                    |       |       |         |    |
+| 年份    | 影片名稱                                     | 參與成員  | 角色    | 性質      | 備註 |
+| ----- | ---------------------------------------- | ----- | ----- | ------- | -- |
+| 2012年 | 《》                                       | 孫娜恩   | 殷熙宰   | 配角      |    |
+| 2013年 | 《》                                       | 鄭恩地   | Shiny | 動畫，韓國配音 |    |
+| 2017年 | 《》                                       | Kelly |       |         |    |
+| 2018年 | 《[女哭聲](../Page/女哭聲.md "wikilink")》       | 孫娜恩   |       | 女主角     |    |
+| 2019年 | 《[0.0MHz](../Page/0.0MHz.md "wikilink")》 | 鄭恩地   | 禹素姬   |         |    |
 
 ## 網絡劇
 
@@ -244,7 +244,7 @@
 | 2012年             | 6月22日－9月14日                                              | |《[Apink NEWS season 3](http://apink3.hyundaimedia.com)》          |                                                                                           |                                                             |
 | 2014年             | 8月7日－9月25日                                               | [MBC every1](https://zh.wikipedia.org/wiki/MBC_every1 "wikilink") | 《[Apink's SHOWTIME](../Page/Apink's_SHOWTIME.md "wikilink")》\[1\]                         |                                                             |
 | 2016年             | 9月20日－10月12日                                             | [NAVER](../Page/NAVER.md "wikilink") V LIVE                       | 《[Extreme Adventure](https://zh.wikipedia.org/wiki/Extreme_Adventure "wikilink") 》\[2\]   |                                                             |
-| 2017年             | 4月28日－8月11日                                              | [NAVERV](../Page/NAVER.md "wikilink") LIVE+                       | 《尋找A Pink的"X-Pink"》                                                                       |                                                             |
+| 2017年             | 4月28日－8月11日                                              | [NAVER](../Page/NAVER.md "wikilink")V LIVE+                       | 《尋找A Pink的"X-Pink"》                                                                       |                                                             |
 | 2018年             | 1月22日－2月5日                                               | [Naver V App](https://zh.wikipedia.org/wiki/Naver "wikilink")     | 《Racing Star with A Pink》                                                                 | 全員 [1](http://www.helloidol.com/tag/racing-star-with-apink) |
 | 2019年             | 5月8日－                                                    | [Naver V App](https://zh.wikipedia.org/wiki/Naver "wikilink")     | 《Everybody Ready\!》                                                                       | 全員                                                          |
 
@@ -457,6 +457,7 @@
 | 3月15、22日    |
 | 5月16日       |
 | 5月25日       |
+| 7月7日        |
 
 ## 音樂錄影帶
 

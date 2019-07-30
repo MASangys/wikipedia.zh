@@ -1,16 +1,10 @@
-《**Mother
-Game～她們的階級～**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），2015年4月14日至6月16日於[日本](../Page/日本.md "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")[週二劇場時段](../Page/TBS週二連續劇.md "wikilink")（毎週二晚間10:00－10:54）播出的連續劇\[1\]\[2\]，此劇亦為[木村文乃首部擔任主演的戲劇作品](../Page/木村文乃.md "wikilink")。
+《**Mother Game～她們的階級～**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），2015年4月14日至6月16日於[日本](../Page/日本.md "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")[週二劇場時段](../Page/TBS週二連續劇.md "wikilink")（毎週二晚間10:00－10:54）播出的連續劇\[1\]\[2\]，此劇亦為[木村文乃](../Page/木村文乃.md "wikilink")首部擔任主演的戲劇作品。
 
 ## 劇情概要
 
-離婚的[單親媽媽蒲原希子](https://zh.wikipedia.org/wiki/單親 "wikilink")（木村文乃
-飾），住在祖父徹治的家中，每天除了忙於便當店的工作，沒出息的前夫三不五時會出現在希子面前，希望與希子復合外，還得為5歲的兒子陽斗就學問題傷腦筋。好不容易終於讓兒子進入當地的幼兒園，這才發現兒子就讀的是一間名門幼兒園。
+離婚的[單親媽媽蒲原希子](https://zh.wikipedia.org/wiki/單親 "wikilink")（木村文乃 飾），住在祖父徹治的家中，每天除了忙於便當店的工作，沒出息的前夫三不五時會出現在希子面前，希望與希子復合外，還得為5歲的兒子陽斗就學問題傷腦筋。好不容易終於讓兒子進入當地的幼兒園，這才發現兒子就讀的是一間名門幼兒園。
 
-希子的「媽媽好友」之中，高中時代的同學也是[軟式網球社的搭檔神谷由紀](https://zh.wikipedia.org/wiki/軟式網球 "wikilink")（[貫地谷栞](../Page/貫地谷栞.md "wikilink")
-飾），表面上是名門貴婦，其實她與丈夫都只是普通的上班族，她沉迷於[賭博而無法自拔](https://zh.wikipedia.org/wiki/賭博 "wikilink")，欠下大筆債務；丈夫擔任執業[醫生的矢野聰子](https://zh.wikipedia.org/wiki/醫生 "wikilink")（[長谷川京子](https://zh.wikipedia.org/wiki/長谷川京子 "wikilink")
-飾），不斷受到婆婆的精神虐待；曾在大型廣告公司擔任企劃，事業有成的後藤綠（[安達祐實](../Page/安達祐實.md "wikilink")
-飾），有個作風強勢的丈夫，之後又發現丈夫與公司女同事有外遇關係，心灰意冷的後藤，與女兒學校裡的足球教練發生外遇關係；所有媽媽的絕對領導者－房地產公司「帝王」繼承人小田寺球繪（[檀麗](../Page/檀麗.md "wikilink")
-飾），實際上也有不為人知的家庭祕密。大兒子因為表現無法讓家族成員滿意，被整個家族當成空氣……。
+希子的「媽媽好友」之中，高中時代的同學也是[軟式網球社的搭檔神谷由紀](https://zh.wikipedia.org/wiki/軟式網球 "wikilink")（[貫地谷栞](../Page/貫地谷栞.md "wikilink") 飾），表面上是名門貴婦，其實她與丈夫都只是普通的上班族，她沉迷於[賭博而無法自拔](https://zh.wikipedia.org/wiki/賭博 "wikilink")，欠下大筆債務；丈夫擔任執業[醫生的矢野聰子](https://zh.wikipedia.org/wiki/醫生 "wikilink")（[長谷川京子](https://zh.wikipedia.org/wiki/長谷川京子 "wikilink") 飾），不斷受到婆婆的精神虐待；曾在大型廣告公司擔任企劃，事業有成的後藤綠（[安達祐實](../Page/安達祐實.md "wikilink") 飾），有個作風強勢的丈夫，之後又發現丈夫與公司女同事有外遇關係，心灰意冷的後藤，與女兒學校裡的足球教練發生外遇關係；所有媽媽的絕對領導者－房地產公司「帝王」繼承人小田寺球繪（[檀麗](../Page/檀麗.md "wikilink") 飾），實際上也有不為人知的家庭祕密。大兒子因為表現無法讓家族成員滿意，被整個家族當成空氣……。
 
 了解到這一切的希子，對於幼兒園內的真實情況感到吃驚，她決定改變這一切，努力與自己身處不同世界的媽媽建立新的關係，讓自己與這些媽媽們找到真正的幸福。
 
@@ -380,22 +374,9 @@ Game～她們的階級～**》（[日語](https://zh.wikipedia.org/wiki/日語 "
 
 ## 節目的變遷
 
-[Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink")
-[Category:TBS週二連續劇](https://zh.wikipedia.org/wiki/Category:TBS週二連續劇 "wikilink")
-[Category:日本家庭劇](https://zh.wikipedia.org/wiki/Category:日本家庭劇 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:淺野妙子劇本電視劇](https://zh.wikipedia.org/wiki/Category:淺野妙子劇本電視劇 "wikilink")
-[Category:欺凌題材電視劇](https://zh.wikipedia.org/wiki/Category:欺凌題材電視劇 "wikilink")
-[Category:外遇題材電視劇](https://zh.wikipedia.org/wiki/Category:外遇題材電視劇 "wikilink")
-[Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink")
-[Category:探討人性電視劇](https://zh.wikipedia.org/wiki/Category:探討人性電視劇 "wikilink")
-[Category:考試題材作品](https://zh.wikipedia.org/wiki/Category:考試題材作品 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
+[Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink") [Category:TBS週二連續劇](https://zh.wikipedia.org/wiki/Category:TBS週二連續劇 "wikilink") [Category:日本家庭劇](https://zh.wikipedia.org/wiki/Category:日本家庭劇 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:淺野妙子劇本電視劇](https://zh.wikipedia.org/wiki/Category:淺野妙子劇本電視劇 "wikilink") [Category:欺凌題材電視劇](https://zh.wikipedia.org/wiki/Category:欺凌題材電視劇 "wikilink") [Category:外遇題材電視劇](https://zh.wikipedia.org/wiki/Category:外遇題材電視劇 "wikilink") [Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink") [Category:探討人性電視劇](https://zh.wikipedia.org/wiki/Category:探討人性電視劇 "wikilink") [Category:考試題材作品](https://zh.wikipedia.org/wiki/Category:考試題材作品 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
 
 1.
 2.
-3.  [マザー・ゲーム〜彼女たちの階級](http://www.sponichi.co.jp/entertainment/yomimono/drama/2015/04_06/mothergame/)
-    〜 スポニチアネックス、2015年6月23日参照
-4.  [木村文乃主演「マザー・ゲーム」最終回で自己最高10・5%](http://www.sponichi.co.jp/entertainment/news/2015/06/17/kiji/K20150617010536160.html)
-    スポニチアネックス、2015年6月17日
+3.  [マザー・ゲーム〜彼女たちの階級](http://www.sponichi.co.jp/entertainment/yomimono/drama/2015/04_06/mothergame/) 〜 スポニチアネックス、2015年6月23日参照
+4.  [木村文乃主演「マザー・ゲーム」最終回で自己最高10・5%](http://www.sponichi.co.jp/entertainment/news/2015/06/17/kiji/K20150617010536160.html) スポニチアネックス、2015年6月17日

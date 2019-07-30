@@ -1,4 +1,4 @@
-《**Evolve**》是[香港歌手](../Page/香港.md "wikilink")[陳慧嫻第](../Page/陳慧嫻.md "wikilink")18張粵語專輯，於2015年11月19日正式發行，一共收錄10首全新演繹歌曲，全為舊作，但推出兩日便獲[金唱片銷量](../Page/金唱片.md "wikilink")。[香港唱片商會銷量榜連續三星期冠軍](../Page/香港唱片商會.md "wikilink")。
+《**Evolve**》是[香港](../Page/香港.md "wikilink")歌手[陳慧嫻](../Page/陳慧嫻.md "wikilink")第18張粵語專輯，於2015年11月19日正式發行，一共收錄10首全新演繹歌曲，全為舊作，但推出兩日便獲[金唱片](../Page/金唱片.md "wikilink")銷量。[香港唱片商會](../Page/香港唱片商會.md "wikilink")銷量榜連續三星期冠軍。
 
 ## 曲目
 
@@ -10,7 +10,4 @@
   - Blu-ray (限量編號版) （2016年1月13日）
   - Vinyl LP (限量編號版) （2016年2月25日）
 
-[Category:陳慧嫻音樂專輯](https://zh.wikipedia.org/wiki/Category:陳慧嫻音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
-[Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink")
+[Category:陳慧嫻音樂專輯](https://zh.wikipedia.org/wiki/Category:陳慧嫻音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink")

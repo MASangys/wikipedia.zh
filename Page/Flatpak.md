@@ -6,8 +6,7 @@
 
 其原始名稱是來自於[freedesktop.org的協作關係](https://zh.wikipedia.org/wiki/freedesktop.org "wikilink")，其通常縮寫為“xdg”\[3\]。當時，[freedesktop.org的伺服器被公認是xdg](https://zh.wikipedia.org/wiki/freedesktop.org "wikilink")-app專案的家\[4\]。2016年5月，在活躍的開發下，其更名為“Flatpak”\[5\]。
 
-，部份應用程式加入了在Flatpak（xdg-app）下執行的初步支援，如[LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")\[6\]\[7\]、
-Glom\[8\]與[Pitivi](https://zh.wikipedia.org/wiki/Pitivi "wikilink")\[9\]。
+，部份應用程式加入了在Flatpak（xdg-app）下執行的初步支援，如[LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")\[6\]\[7\]、 Glom\[8\]與[Pitivi](https://zh.wikipedia.org/wiki/Pitivi "wikilink")\[9\]。
 
 ## 技術
 
@@ -17,13 +16,11 @@ Glom\[8\]與[Pitivi](https://zh.wikipedia.org/wiki/Pitivi "wikilink")\[9\]。
   - Linux namespaces
   - [SELinux](../Page/安全增强式Linux.md "wikilink")（目前未使用）
   - [kdbus](https://zh.wikipedia.org/wiki/D-Bus#kdbus "wikilink")（未來可能會使用，目前使用用戶空間過濾）
-  - 視窗化系統基於[Wayland](../Page/Wayland.md "wikilink")（因為[X
-    Window核心協議已被開發者認為不安全](../Page/X_Window核心協議.md "wikilink")\[10\]）
+  - 視窗化系統基於[Wayland](../Page/Wayland.md "wikilink")（因為[X Window核心協議已被開發者認為不安全](../Page/X_Window核心協議.md "wikilink")\[10\]）
 
 ## 替代方案
 
-不依賴於特定发行版的包裝格式在Linux生態系中在Flatpak前早已被提出過數次。2000年代早期，[autopackage開始](https://zh.wikipedia.org/wiki/autopackage "wikilink")，2004年則是klik，這也提供了Alexander
-Larsson靈感，於2007年開發出*glick*專案\[11\]。到了2014年，klik便演化成AppImage，其目標是成為不依賴於特定散佈版的[可攜式上游打包格式](https://zh.wikipedia.org/wiki/可攜式軟體 "wikilink")。[Canonical公司則於](https://zh.wikipedia.org/wiki/Canonical公司 "wikilink")2016年釋出了[Snappy](../Page/Snappy_\(包管理器\).md "wikilink")，其目標也是為了提供廣泛的linux生態系一個通用的包裝格式\[12\]，其支援類似於Flatpak的格式，同時也支援應用程式商店式的[数字发行與更新模式](https://zh.wikipedia.org/wiki/数字发行 "wikilink")。
+不依賴於特定发行版的包裝格式在Linux生態系中在Flatpak前早已被提出過數次。2000年代早期，[autopackage開始](https://zh.wikipedia.org/wiki/autopackage "wikilink")，2004年則是klik，這也提供了Alexander Larsson靈感，於2007年開發出*glick*專案\[11\]。到了2014年，klik便演化成AppImage，其目標是成為不依賴於特定散佈版的[可攜式上游打包格式](https://zh.wikipedia.org/wiki/可攜式軟體 "wikilink")。[Canonical公司則於](https://zh.wikipedia.org/wiki/Canonical公司 "wikilink")2016年釋出了[Snappy](../Page/Snappy_\(包管理器\).md "wikilink")，其目標也是為了提供廣泛的linux生態系一個通用的包裝格式\[12\]，其支援類似於Flatpak的格式，同時也支援應用程式商店式的[数字发行與更新模式](https://zh.wikipedia.org/wiki/数字发行 "wikilink")。
 
 ## 參考資料
 
@@ -32,12 +29,7 @@ Larsson靈感，於2007年開發出*glick*專案\[11\]。到了2014年，klik便
   - [freedesktop](https://zh.wikipedia.org/wiki/freedesktop "wikilink")
   - [GNOME](../Page/GNOME.md "wikilink")
 
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink")
-[Category:操作系统安全](https://zh.wikipedia.org/wiki/Category:操作系统安全 "wikilink")
-[Category:操作系统技术](https://zh.wikipedia.org/wiki/Category:操作系统技术 "wikilink")
-[Category:Linux软件包管理相关软件](https://zh.wikipedia.org/wiki/Category:Linux软件包管理相关软件 "wikilink")
-[Category:软件分发](https://zh.wikipedia.org/wiki/Category:软件分发 "wikilink")
+[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink") [Category:操作系统安全](https://zh.wikipedia.org/wiki/Category:操作系统安全 "wikilink") [Category:操作系统技术](https://zh.wikipedia.org/wiki/Category:操作系统技术 "wikilink") [Category:Linux软件包管理相关软件](https://zh.wikipedia.org/wiki/Category:Linux软件包管理相关软件 "wikilink") [Category:软件分发](https://zh.wikipedia.org/wiki/Category:软件分发 "wikilink")
 
 1.
 2.

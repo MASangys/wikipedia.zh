@@ -1,6 +1,4 @@
-是[SAGA
-PLANETS在](../Page/SAGA_PLANETS.md "wikilink")2015年3月27日\[1\]發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。2017年4月27日由Entergram發售[PlayStation
-Vita版本](../Page/PlayStation_Vita.md "wikilink")\[2\]。2017年7月7日由發售[Android和](../Page/Android.md "wikilink")[iOS版](https://zh.wikipedia.org/wiki/iOS "wikilink")\[3\]。
+是[SAGA PLANETS在](../Page/SAGA_PLANETS.md "wikilink")2015年3月27日\[1\]發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。2017年4月27日由Entergram發售[PlayStation Vita版本](../Page/PlayStation_Vita.md "wikilink")\[2\]。2017年7月7日由發售[Android](../Page/Android.md "wikilink")和[iOS版](https://zh.wikipedia.org/wiki/iOS "wikilink")\[3\]。
 
 ## 故事簡介
 
@@ -58,16 +56,7 @@ Vita版本](../Page/PlayStation_Vita.md "wikilink")\[2\]。2017年7月7日由發
   - [PSV/PS4版本遊戲官網](http://www.entergram.co.jp/hanasaki/)
   - [APP版本遊戲官網](http://moeapp.net/special/hanasaki.html?utm_content=buffer49d31&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer/)
 
-[Category:2015年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2015年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:2017年電子遊戲](https://zh.wikipedia.org/wiki/Category:2017年電子遊戲 "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
-[Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink")
+[Category:2015年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2015年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:2017年電子遊戲](https://zh.wikipedia.org/wiki/Category:2017年電子遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink")
 
 1.
 

@@ -1,6 +1,4 @@
-《**Every DAY6
-一月**》（）是韓國樂團[DAY6的](../Page/DAY6.md "wikilink")2017年度計畫「Every
-DAY6」中的首張作品，主打曲為〈啊，為何〉，於2017年1月6日正式發行。
+《**Every DAY6 一月**》（）是韓國樂團[DAY6](../Page/DAY6.md "wikilink")的2017年度計畫「Every DAY6」中的首張作品，主打曲為〈啊，為何〉，於2017年1月6日正式發行。
 
 ## 曲目
 
@@ -33,8 +31,6 @@ DAY6」中的首張作品，主打曲為〈啊，為何〉，於2017年1月6日�
 
 ## 引用資料
 
-[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:DAY6音樂專輯](https://zh.wikipedia.org/wiki/Category:DAY6音樂專輯 "wikilink")
+[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:DAY6音樂專輯](https://zh.wikipedia.org/wiki/Category:DAY6音樂專輯 "wikilink")
 
 1.

@@ -1,18 +1,11 @@
-**HTC U
-Ultra**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2017年開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，已可透過升級運行
-[Android
-8.0操作系统](https://zh.wikipedia.org/wiki/Android_8.0 "wikilink")，競爭對手為[Samsung
-Galaxy S7 edge](../Page/三星Galaxy_S7.md "wikilink")、[LG
-V20](https://zh.wikipedia.org/wiki/LG_V20 "wikilink")、[Sony Xperia XZ
-Premium](../Page/Sony_Xperia_XZ_Premium.md "wikilink")。
+**HTC U Ultra**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2017年開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，已可透過升級運行 [Android 8.0操作系统](https://zh.wikipedia.org/wiki/Android_8.0 "wikilink")，競爭對手為[Samsung Galaxy S7 edge](../Page/三星Galaxy_S7.md "wikilink")、[LG V20](https://zh.wikipedia.org/wiki/LG_V20 "wikilink")、[Sony Xperia XZ Premium](../Page/Sony_Xperia_XZ_Premium.md "wikilink")。
 
 ## 簡介
 
   - 新的U系列採用3D水漾玻璃（Liquid）設計，揮別過往的金屬機殼改用的玻璃機身。
   - U系列為首個採用了HTC全新的AI人工智慧HTC Sense Companion功能。
   - U Ultra特仕版為全球首台正面使用藍寶石玻璃覆蓋的手機（128GB 機型）。
-  - 本次的相機感光元件雖然同為Ultra Pixel 2不過從SONY IMX377改為采用OmniVision
-    OV12890，多了相位對焦功能（PDAF），結合雷射對焦有效的提升對焦速度。
+  - 本次的相機感光元件雖然同為Ultra Pixel 2不過從SONY IMX377改為采用OmniVision OV12890，多了相位對焦功能（PDAF），結合雷射對焦有效的提升對焦速度。
 
 ## 詳細規格
 
@@ -132,7 +125,7 @@ TDD: Bands 38, 39, 40, 41<br />
 </p></td>
 </tr>
 <tr class="even">
-<td><p>前相機： 1600 萬畫素 UltraSelfie 相機（<a href="../Page/索尼.md" title="wikilink">索尼IMX</a>351、1.0um）、<a href="http://en.wikipedia.org/wiki/Backside_illumination">BSI</a> 感測器<br />
+<td><p>前相機： 1600 萬畫素 UltraSelfie 相機（<a href="../Page/索尼.md" title="wikilink">索尼</a>IMX351、1.0um）、<a href="http://en.wikipedia.org/wiki/Backside_illumination">BSI</a> 感測器<br />
 F2.0大光圈、等效焦距 28mm 超廣角鏡頭、自動HDR、1080p Full HD 錄影、全景自拍<br />
 支援 HTC UltraPixel™ 模式</p></td>
 <td></td>
@@ -169,38 +162,30 @@ F2.0大光圈、等效焦距 28mm 超廣角鏡頭、自動HDR、1080p Full HD �
 
 ### 外型
 
-與先前的M系列以及HTC 10的金屬材質不同，本次的U系列採用雙面玻璃，背面為三軸對稱曲面3D
-玻璃，且使用了HTC研究的分光混合成色技術（Optical
-Spectrum Hybrid Deposition），在光線照射下，會反射出不同的色系。
+與先前的M系列以及HTC 10的金屬材質不同，本次的U系列採用雙面玻璃，背面為三軸對稱曲面3D 玻璃，且使用了HTC研究的分光混合成色技術（Optical Spectrum Hybrid Deposition），在光線照射下，會反射出不同的色系。
 
 ### 螢幕
 
-本次採用了雙螢幕設計（5.7吋大螢幕+2.05吋小螢幕），小螢幕可顯示即時通知、個性簽名、音樂控制、APP捷徑、VIP 聯絡人，且整合HTC
-Sense Companion（人工智慧）功能，系統會自動提醒。當用戶關閉螢幕時大小螢幕會一起關閉，而拿起手機時，小螢幕會亮起並顯示資訊。
+本次採用了雙螢幕設計（5.7吋大螢幕+2.05吋小螢幕），小螢幕可顯示即時通知、個性簽名、音樂控制、APP捷徑、VIP 聯絡人，且整合HTC Sense Companion（人工智慧）功能，系統會自動提醒。當用戶關閉螢幕時大小螢幕會一起關閉，而拿起手機時，小螢幕會亮起並顯示資訊。
 
 ### 音效
 
-本次搭載了4顆多向性麥克風，可以錄製3D音效，且搭配Always listening功能，在休眠時，麥克風也能持續收音，用戶可直接說出OK
-Google啟動 Google Now 語音助理。 另外本次附贈的U Sonic 耳機採用USB
-TYPE-C格式，能夠依照用戶調整個人化音效，且掃描使用者耳道結構，並調整耳機音效，符合每個人的聆聽喜好。
+本次搭載了4顆多向性麥克風，可以錄製3D音效，且搭配Always listening功能，在休眠時，麥克風也能持續收音，用戶可直接說出OK Google啟動 Google Now 語音助理。 另外本次附贈的U Sonic 耳機採用USB TYPE-C格式，能夠依照用戶調整個人化音效，且掃描使用者耳道結構，並調整耳機音效，符合每個人的聆聽喜好。
 
 ### 相機
 
-本次主相機採用Ultra Pixel
-2相機，不過感光元件從IMX377改用OV12890，多了相位對焦功能（PDAF），搭配雷射對焦及原本的對比式對焦能夠有效的提升對焦速度。1.55um的大像素、光學防手震及F1.8大光圈有助於在低光源能夠獲得更好的成像。
+本次主相機採用Ultra Pixel 2相機，不過感光元件從IMX377改用OV12890，多了相位對焦功能（PDAF），搭配雷射對焦及原本的對比式對焦能夠有效的提升對焦速度。1.55um的大像素、光學防手震及F1.8大光圈有助於在低光源能夠獲得更好的成像。
 
 ### 人工智慧
 
-本次HTC導入了自己的人工智慧HTC Sense
-Companion，可以辨識聲紋來透過聲控來進行解鎖、接聽、發送簡訊、取消鬧鐘等，並觀察用戶的行為適時於小螢幕提供相關資訊\[3\]。
+本次HTC導入了自己的人工智慧HTC Sense Companion，可以辨識聲紋來透過聲控來進行解鎖、接聽、發送簡訊、取消鬧鐘等，並觀察用戶的行為適時於小螢幕提供相關資訊\[3\]。
 
 ## 零件供應商
 
   - 處理器：[高通](../Page/高通.md "wikilink")
   - 螢幕：[LG顯示](../Page/LG顯示.md "wikilink")
   - 電源管理 IC 與 4G 通訊晶片：高通
-  - 後鏡頭感光元件：[OmniVision](https://zh.wikipedia.org/wiki/OmniVision "wikilink")
-    ov12890
+  - 後鏡頭感光元件：[OmniVision](https://zh.wikipedia.org/wiki/OmniVision "wikilink") ov12890
   - 前鏡頭感光元件：[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink") IMX351
 
 ## 發售資訊\[4\]
@@ -255,17 +240,12 @@ Companion，可以辨識聲紋來透過聲控來進行解鎖、接聽、發送�
 
 ## 参见
 
-  - [HTC One
-    系列](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")
+  - [HTC One 系列](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")
   - [宏达国际电子手机列表](https://zh.wikipedia.org/wiki/宏达国际电子手机列表 "wikilink")
 
 ## 参考资料
 
-[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:2017年面世的手機](https://zh.wikipedia.org/wiki/Category:2017年面世的手機 "wikilink")
+[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2017年面世的手機](https://zh.wikipedia.org/wiki/Category:2017年面世的手機 "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
-**蒙古文Unicode区段**是包含[胡都木蒙古文](https://zh.wikipedia.org/wiki/胡都木蒙古文 "wikilink")、[托忒蒙古文](https://zh.wikipedia.org/wiki/托忒蒙古文 "wikilink")、[满文](../Page/满文.md "wikilink")、[锡伯文字符的](../Page/锡伯文.md "wikilink")[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")。\[1\]其书写方向为。在Unicode官方的字符表中该区段的字符被逆时针旋转90度显示\[2\]\[3\]。
+**蒙古文Unicode区段**是包含[胡都木蒙古文](https://zh.wikipedia.org/wiki/胡都木蒙古文 "wikilink")、[托忒蒙古文](https://zh.wikipedia.org/wiki/托忒蒙古文 "wikilink")、[满文](../Page/满文.md "wikilink")、[锡伯文](../Page/锡伯文.md "wikilink")字符的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")。\[1\]其书写方向为。在Unicode官方的字符表中该区段的字符被逆时针旋转90度显示\[2\]\[3\]。
 
 胡都木蒙古文和满文使用的字符中包括一些用于翻译佛教经文的[阿礼嘎礼字母](https://zh.wikipedia.org/wiki/阿礼嘎礼字母 "wikilink")。\[4\]
 
@@ -10,10 +10,7 @@ Unicode标准中为该区段的字符定义了数十个变体序列，用以在�
 
 ## 变体形式
 
-本区段的同一个字符可能有多个变体，Unicode使用[自由变体选择符](https://zh.wikipedia.org/wiki/自由变体选择符 "wikilink")（FVS，Free
-Variant
-Selector）来选择不同变体。FVS有3个，分别是FVS1（U+180B）、FVS2（U+180C）、FVS3（U+180D）。在特定字符的后面加上FVS能够改变字符的形态，这样的字符+FVS的组合称为标准变体（standardized
-variant）。\[7\]\[8\]全部的标准变体见下表。\[9\]
+本区段的同一个字符可能有多个变体，Unicode使用[自由变体选择符](https://zh.wikipedia.org/wiki/自由变体选择符 "wikilink")（FVS，Free Variant Selector）来选择不同变体。FVS有3个，分别是FVS1（U+180B）、FVS2（U+180C）、FVS3（U+180D）。在特定字符的后面加上FVS能够改变字符的形态，这样的字符+FVS的组合称为标准变体（standardized variant）。\[7\]\[8\]全部的标准变体见下表。\[9\]
 
 <table>
 <tbody>
@@ -1824,9 +1821,7 @@ ch</p></td>
 
 ## 参考资料
 
-[Category:Unicode區段](https://zh.wikipedia.org/wiki/Category:Unicode區段 "wikilink")
-[Category:满文](https://zh.wikipedia.org/wiki/Category:满文 "wikilink")
-[Category:蒙古文字](https://zh.wikipedia.org/wiki/Category:蒙古文字 "wikilink")
+[Category:Unicode區段](https://zh.wikipedia.org/wiki/Category:Unicode區段 "wikilink") [Category:满文](https://zh.wikipedia.org/wiki/Category:满文 "wikilink") [Category:蒙古文字](https://zh.wikipedia.org/wiki/Category:蒙古文字 "wikilink")
 
 1.
 

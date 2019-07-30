@@ -1,6 +1,6 @@
-在[密码学中](../Page/密码学.md "wikilink")，**ElGamal加密算法**是一个基于[迪菲-赫尔曼密钥交换的](https://zh.wikipedia.org/wiki/迪菲-赫尔曼密钥交换 "wikilink")[非对称加密算法](https://zh.wikipedia.org/wiki/非对称加密 "wikilink")。它在1985年由[塔希尔·盖莫尔提出](https://zh.wikipedia.org/wiki/塔希尔·盖莫尔 "wikilink")。\[1\][GnuPG和](../Page/GnuPG.md "wikilink")[PGP等很多密码学系统中都应用到了ElGamal算法](../Page/PGP.md "wikilink")。
+在[密码学](../Page/密码学.md "wikilink")中，**ElGamal加密算法**是一个基于[迪菲-赫尔曼密钥交换的](https://zh.wikipedia.org/wiki/迪菲-赫尔曼密钥交换 "wikilink")[非对称加密算法](https://zh.wikipedia.org/wiki/非对称加密 "wikilink")。它在1985年由[塔希尔·盖莫尔提出](https://zh.wikipedia.org/wiki/塔希尔·盖莫尔 "wikilink")。\[1\][GnuPG](../Page/GnuPG.md "wikilink")和[PGP](../Page/PGP.md "wikilink")等很多密码学系统中都应用到了ElGamal算法。
 
-ElGamal加密算法可以定义在任何[循环群](https://zh.wikipedia.org/wiki/循环群 "wikilink")\(G\)上。它的安全性取决于\(G\)上的[离散对数难题](../Page/离散对数.md "wikilink")。
+ElGamal加密算法可以定义在任何[循环群](https://zh.wikipedia.org/wiki/循环群 "wikilink")\(G\)上。它的安全性取决于\(G\)上的[离散对数](../Page/离散对数.md "wikilink")难题。
 
 ## 算法
 
@@ -54,9 +54,6 @@ ElGamal加密系统通常应用在中。例如：用对称加密体制来加密�
 
 <references />
 
-[Category:密码学](https://zh.wikipedia.org/wiki/Category:密码学 "wikilink")
-[Category:算法](https://zh.wikipedia.org/wiki/Category:算法 "wikilink")
+[Category:密码学](https://zh.wikipedia.org/wiki/Category:密码学 "wikilink") [Category:算法](https://zh.wikipedia.org/wiki/Category:算法 "wikilink")
 
-1.   (conference version appeared in
-    [CRYPTO](https://zh.wikipedia.org/wiki/CRYPTO "wikilink")'84, pp.
-    10–18)
+1.   (conference version appeared in [CRYPTO](https://zh.wikipedia.org/wiki/CRYPTO "wikilink")'84, pp. 10–18)

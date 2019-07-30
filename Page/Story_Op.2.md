@@ -1,7 +1,4 @@
-《**Story
-Op.2**》是韓國男子組合[SHINee主唱](../Page/SHINee.md "wikilink")[金鐘鉉於](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")2017年4月24日發行的第二張原創小品輯\[1\]。小品集共收錄10首歌曲（線上版收錄9首歌曲，實體版共10首歌曲），包括鐘鉉作為前DJ主持MBC
-FM4U廣播《藍色夜晚》在企劃環節「藍色深夜作詞，那個男人作曲」中受到好評的自創歌曲，以及在Mnet Live
-Connection已公開的〈Elevator〉經重新編曲後收錄在小品集中\[2\]。主打曲〈Lonely〉由獨步性聲樂家[泰妍傾情參與](https://zh.wikipedia.org/wiki/泰妍 "wikilink")，音樂錄影帶已在專輯發行當日公布。
+《**Story Op.2**》是韓國男子組合[SHINee](../Page/SHINee.md "wikilink")主唱[金鐘鉉於](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")2017年4月24日發行的第二張原創小品輯\[1\]。小品集共收錄10首歌曲（線上版收錄9首歌曲，實體版共10首歌曲），包括鐘鉉作為前DJ主持MBC FM4U廣播《藍色夜晚》在企劃環節「藍色深夜作詞，那個男人作曲」中受到好評的自創歌曲，以及在Mnet Live Connection已公開的〈Elevator〉經重新編曲後收錄在小品集中\[2\]。主打曲〈Lonely〉由獨步性聲樂家[泰妍傾情參與](https://zh.wikipedia.org/wiki/泰妍 "wikilink")，音樂錄影帶已在專輯發行當日公布。
 
 ## 曲目
 
@@ -77,7 +74,7 @@ Connection已公開的〈Elevator〉經重新編曲後收錄在小品集中\[2\]
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量        |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量        |
 | ---------------------------------------- | ---- | ---------- |
 | 專輯週榜                                     | 30   | 2,524\[9\] |
 
@@ -114,10 +111,7 @@ Connection已公開的〈Elevator〉經重新編曲後收錄在小品集中\[2\]
 ## 外部連結
 
   -
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
-[Category:鐘鉉音樂專輯](https://zh.wikipedia.org/wiki/Category:鐘鉉音樂專輯 "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:2017年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon單曲週榜冠軍作品 "wikilink")
+[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:鐘鉉音樂專輯](https://zh.wikipedia.org/wiki/Category:鐘鉉音樂專輯 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2017年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon單曲週榜冠軍作品 "wikilink")
 
 1.
 2.

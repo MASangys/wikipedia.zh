@@ -1,14 +1,12 @@
-**XLIFF**（**XML Localisation Interchange File
-Format**，即XML本地化交换文件格式）是一种基于[XML的交换格式](../Page/XML.md "wikilink")，旨在标准化[本地化过程中在工具之间传递可本地化数据的方式](../Page/国际化与本地化.md "wikilink")，是[CAT工具中常用的一种文件格式](../Page/電腦輔助翻譯.md "wikilink")。XLIFF由[結構化資訊標準促進組織](../Page/結構化資訊標準促進組織.md "wikilink")（OASIS）于2002年[标准化](../Page/标准化.md "wikilink")，目前规范为2014年8月5日发布的v2.0。\[1\]
+**XLIFF**（**XML Localisation Interchange File Format**，即XML本地化交换文件格式）是一种基于[XML](../Page/XML.md "wikilink")的交换格式，旨在标准化[本地化过程中在工具之间传递可本地化数据的方式](../Page/国际化与本地化.md "wikilink")，是[CAT工具中常用的一种文件格式](../Page/電腦輔助翻譯.md "wikilink")。XLIFF由[結構化資訊標準促進組織](../Page/結構化資訊標準促進組織.md "wikilink")（OASIS）于2002年[标准化](../Page/标准化.md "wikilink")，目前规范为2014年8月5日发布的v2.0。\[1\]
 
-该规范针对本地化行业，规范了用何种元素和属性存储从各种原始文件格式中提取的内容与相应翻译。其目标是[抽象化本地化技能](../Page/抽象化.md "wikilink")，使人们从[HTML等特定格式的相关工程技术中抽身](../Page/HTML.md "wikilink")。\[2\]
+该规范针对本地化行业，规范了用何种元素和属性存储从各种原始文件格式中提取的内容与相应翻译。其目标是[抽象化](../Page/抽象化.md "wikilink")本地化技能，使人们从[HTML](../Page/HTML.md "wikilink")等特定格式的相关工程技术中抽身。\[2\]
 
 XLIFF格式是“开放架构”的XML创作与本地化（）参考架构的一部分。
 
 ## 描述 (XLIFF 1.2)
 
-一份XLIFF
-1.2\[3\]文档由一个或多个<file>元素组成。每个<file>元素对应一个原始文件或来源（例如数据库表）。<file>包含可本地化数据的源数据，并且每个区域只有一份的本地化数据。
+一份XLIFF 1.2\[3\]文档由一个或多个<file>元素组成。每个<file>元素对应一个原始文件或来源（例如数据库表）。<file>包含可本地化数据的源数据，并且每个区域只有一份的本地化数据。
 
 本地化数据存储在<trans-unit>元素里。<trans-unit>元素有一个<code>
 
@@ -104,19 +102,12 @@ XLIFF 2.0文档示例：
 
 ### 文件操作和检查工具
 
-  - [Okapi
-    Framework](../Page/Okapi_Framework.md "wikilink")：提供了多个生成XLIFF文档的过滤器\[7\]以及使用XLIFF的各种组件。\[8\]
-  - [Translate
-    Toolkit](../Page/Translate_Toolkit.md "wikilink")：可将多种文件格式转换为XLIFF，并提供该格式的检查、过滤和操作工具。
+  - [Okapi Framework](../Page/Okapi_Framework.md "wikilink")：提供了多个生成XLIFF文档的过滤器\[7\]以及使用XLIFF的各种组件。\[8\]
+  - [Translate Toolkit](../Page/Translate_Toolkit.md "wikilink")：可将多种文件格式转换为XLIFF，并提供该格式的检查、过滤和操作工具。
   - [XLIFFChecker](http://www.maxprograms.com/products/xliffchecker.html)：一个开源的跨平台工具，用于验证XLIFF文件是否符合XML语法和规范。
-  - [Xliff to HTML
-    Converter](http://www.softpedia.com/get/Office-tools/Other-Office-Tools/Xliff-to-HTML-Converter.shtml)：将XLIFF文件转换为HTML以便于校对。
-  - [Okapi XLIFF
-    Toolkit](http://bitbucket.org/okapiframework/xliff-toolkit)：一个开源库，用于创建、读取、操作、验证和编写XLIFF
-    2.0文档。
-  - [Okapi Lynx-Web
-    page](https://okapi-lynx.appspot.com/validation)：可用于在线验证XLIFF
-    2.0文档。
+  - [Xliff to HTML Converter](http://www.softpedia.com/get/Office-tools/Other-Office-Tools/Xliff-to-HTML-Converter.shtml)：将XLIFF文件转换为HTML以便于校对。
+  - [Okapi XLIFF Toolkit](http://bitbucket.org/okapiframework/xliff-toolkit)：一个开源库，用于创建、读取、操作、验证和编写XLIFF 2.0文档。
+  - [Okapi Lynx-Web page](https://okapi-lynx.appspot.com/validation)：可用于在线验证XLIFF 2.0文档。
 
 ### 编辑器
 
@@ -225,8 +216,7 @@ XLIFF 2.0文档示例：
 
 ### 程序库
 
-2015年11月11日，Microsoft XLIFF
-2.0对象模型在[GitHub上](../Page/GitHub.md "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")\[9\]，其是一个[.NET库](https://zh.wikipedia.org/wiki/.NET "wikilink")，可以用来构建本地化工具、平台和系统。
+2015年11月11日，Microsoft XLIFF 2.0对象模型在[GitHub](../Page/GitHub.md "wikilink")上[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")\[9\]，其是一个[.NET库](https://zh.wikipedia.org/wiki/.NET "wikilink")，可以用来构建本地化工具、平台和系统。
 
 ## 参见
 
@@ -243,42 +233,26 @@ XLIFF 2.0文档示例：
 ## 外部链接
 
   - [OASIS XLIFF技术委员会网站](http://www.oasis-open.org/committees/xliff/)
-  - XLIFF邮件列表：[TC List](http://lists.oasis-open.org/archives/xliff/),
-    [Comments to TC
-    List](http://lists.oasis-open.org/archives/xliff-comment/), [Users
-    List](http://lists.oasis-open.org/archives/xliff-users/)
-  - [XML in localisation: Use XLIFF to translate
-    documents](http://www.maxprograms.com/articles/xliff.html)
-  - [An Introduction to XLIFF 2.0 (Multilingual article
-    June-2014)](http://multilingual.com/articles/201406-42/)
-  - [Multilingual App
-    Toolkit](https://www.microsoft.com/en-us/translator/mat.aspx)（MAT），[微软出品](../Page/微软.md "wikilink")
+  - XLIFF邮件列表：[TC List](http://lists.oasis-open.org/archives/xliff/), [Comments to TC List](http://lists.oasis-open.org/archives/xliff-comment/), [Users List](http://lists.oasis-open.org/archives/xliff-users/)
+  - [XML in localisation: Use XLIFF to translate documents](http://www.maxprograms.com/articles/xliff.html)
+  - [An Introduction to XLIFF 2.0 (Multilingual article June-2014)](http://multilingual.com/articles/201406-42/)
+  - [Multilingual App Toolkit](https://www.microsoft.com/en-us/translator/mat.aspx)（MAT），[微软](../Page/微软.md "wikilink")出品
 
-[Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink")
-[Category:國際化與在地化](https://zh.wikipedia.org/wiki/Category:國際化與在地化 "wikilink")
-[Category:基于XML的标准](https://zh.wikipedia.org/wiki/Category:基于XML的标准 "wikilink")
+[Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink") [Category:國際化與在地化](https://zh.wikipedia.org/wiki/Category:國際化與在地化 "wikilink") [Category:基于XML的标准](https://zh.wikipedia.org/wiki/Category:基于XML的标准 "wikilink")
 
 1.
 2.
 
-3.  [OASIS XLIFF 1.2
-    specification](http://docs.oasis-open.org/xliff/xliff-core/xliff-core.html)
+3.  [OASIS XLIFF 1.2 specification](http://docs.oasis-open.org/xliff/xliff-core/xliff-core.html)
 
-4.  [60-day Public Review for XLIFF Version 2.0 Candidate OASIS Standard
-    announcement](http://lists.oasis-open.org/archives/xliff-comment/201405/msg00000.html)
+4.  [60-day Public Review for XLIFF Version 2.0 Candidate OASIS Standard announcement](http://lists.oasis-open.org/archives/xliff-comment/201405/msg00000.html)
 
-5.  [Candidate OASIS
-    Standard 01](http://docs.oasis-open.org/xliff/xliff-core/v2.0/cos01/xliff-core-v2.0-cos01.html)
+5.  [Candidate OASIS Standard 01](http://docs.oasis-open.org/xliff/xliff-core/v2.0/cos01/xliff-core-v2.0-cos01.html)
 
-6.  [Announcement of XLIFF 2.0 becoming an OASIS
-    Standard](https://www.oasis-open.org/news/announcements/xliff-version-2-0-becomes-an-oasis-standard)
+6.  [Announcement of XLIFF 2.0 becoming an OASIS Standard](https://www.oasis-open.org/news/announcements/xliff-version-2-0-becomes-an-oasis-standard)
 
-7.  [Okapi
-    filters](http://www.opentag.com/okapi/wiki/index.php?title=Filters)
+7.  [Okapi filters](http://www.opentag.com/okapi/wiki/index.php?title=Filters)
 
-8.  [Okapi components using
-    XLIFF](http://www.opentag.com/okapi/wiki/index.php?title=Category:XLIFF)
+8.  [Okapi components using XLIFF](http://www.opentag.com/okapi/wiki/index.php?title=Category:XLIFF)
 
-9.  [XLIFF 2.0 Object Model is now Open Source on
-    GitHub](https://blogs.technet.microsoft.com/terminology/2015/11/11/xliff-2-0-object-model-is-now-open-source-on-github/),
-    Microsoft Language Portal Blog
+9.  [XLIFF 2.0 Object Model is now Open Source on GitHub](https://blogs.technet.microsoft.com/terminology/2015/11/11/xliff-2-0-object-model-is-now-open-source-on-github/), Microsoft Language Portal Blog

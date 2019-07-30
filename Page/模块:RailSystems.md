@@ -1,7 +1,6 @@
 -----
 
-\-- 重要：在保存编辑前，请务必跑完所有测试用例并保证没有错误输出。 -- 测试方法为：在调试控制台输入 -- --
-print(p.testCase()) -- -- 如果输出为“所有用例均通过！”，说明可以保存编辑，否则请消除错误。
+\-- 重要：在保存编辑前，请务必跑完所有测试用例并保证没有错误输出。 -- 测试方法为：在调试控制台输入 -- -- print(p.testCase()) -- -- 如果输出为“所有用例均通过！”，说明可以保存编辑，否则请消除错误。
 
 -----
 
@@ -78,8 +77,7 @@ local function _convBool(val, default)
 
 end
 
-function p._internalStationLink(name, style, short, system_data,
-frame)
+function p._internalStationLink(name, style, short, system_data, frame)
 
 `   local station_parts, station_data`
 `   local station_link, station_name`
@@ -96,12 +94,9 @@ frame)
 `           end`
 `       end`
 `       if style == nil or mw.text.trim(style) == '' then`
-`           return '`[`'``   ``..``   ``station_name``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._station_link_.._' "wikilink")`'`
+`           return '`[`'``   ``..``   ``station_name``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._station_link_.._' "wikilink")`'`
 `       else`
-`           return '`[<span style="' .. style .. '">`'``   ``..``
- ``station_name``   ``..``
- ``'`</span>](https://zh.wikipedia.org/wiki/'_.._station_link_.._' "wikilink")`'`
+`           return '`[<span style="' .. style .. '">`'``   ``..``   ``station_name``   ``..``   ``'`</span>](https://zh.wikipedia.org/wiki/'_.._station_link_.._' "wikilink")`'`
 `       end`
 `   end`
 
@@ -224,8 +219,7 @@ function p._internalLineRichTitle(line_code, auto_degrade, system)
 
 end
 
-function p._internalLineTerminal(line_code, side, type_, branch,
-system)
+function p._internalLineTerminal(line_code, side, type_, branch, system)
 
 `   local system_data = _loadSystemData(system, false)`
 `   local side_data, conds`
@@ -313,8 +307,7 @@ function p._formatTemplateTime(frame, sparts, hour, minute, second)
 
 end
 
-function p._internalLineDateMessage(line_code, type_, reprs, options,
-system)
+function p._internalLineDateMessage(line_code, type_, reprs, options, system)
 
 `   local system_data = _loadSystemData(system)`
 `   local frame = mw.getCurrentFrame()`
@@ -688,8 +681,7 @@ function p.testCase(frame)
 `   if fp.lineColor{args={name='1', system='TestComp'}} ~= 'cc0000' then`
 `       error('lineColor compatibility test failed: name=1.')`
 `   end`
-`   if fp.lineColor{args={name='1', prefix='1', system='NonExist'}} ~= '#`[`:Template:NonExist``
- ``color`](https://zh.wikipedia.org/wiki/:Template:NonExist_color "wikilink")`' then`
+`   if fp.lineColor{args={name='1', prefix='1', system='NonExist'}} ~= '#`[`:Template:NonExist``   ``color`](https://zh.wikipedia.org/wiki/:Template:NonExist_color "wikilink")`' then`
 `       error('lineColor compatibility test failed: name=1.')`
 `   end`
 `   `
@@ -706,8 +698,7 @@ function p.testCase(frame)
 `   if fp.lineTitle{args={ name='1', system='TestComp'}} ~= '`[`1号线`](https://zh.wikipedia.org/wiki/哈尔滨地铁1号线 "wikilink")`' then`
 `       error('lineTitle compatibility test failed.')`
 `   end`
-`   if fp.lineTitle{args={ name='1', system='NonExist'}} ~= '`[`:Template:NonExist``
- ``lines`](https://zh.wikipedia.org/wiki/:Template:NonExist_lines "wikilink")`' then`
+`   if fp.lineTitle{args={ name='1', system='NonExist'}} ~= '`[`:Template:NonExist``   ``lines`](https://zh.wikipedia.org/wiki/:Template:NonExist_lines "wikilink")`' then`
 `       error('lineTitle non compatibility test failed.')`
 `   end`
 `   `
@@ -762,8 +753,7 @@ function p.testCase(frame)
 `   if fp.lineTerminalName{args={ name='1', side='left', ['type']='s2', system='TestComp'}} ~= 'DEFAULT' then`
 `       error('lineTerminalName compatibility test failed: type=s2.')`
 `   end`
-`   if fp.lineTerminalName{args={ name='1', side='left', system='NonExist'}} ~= '`[`:Template:S-line/NonExist``
- ``left/1`](https://zh.wikipedia.org/wiki/:Template:S-line/NonExist_left/1 "wikilink")`' then`
+`   if fp.lineTerminalName{args={ name='1', side='left', system='NonExist'}} ~= '`[`:Template:S-line/NonExist``   ``left/1`](https://zh.wikipedia.org/wiki/:Template:S-line/NonExist_left/1 "wikilink")`' then`
 `       error('lineTerminalName compatibility test failed: type=NonExist.')`
 `   end`
 `   `

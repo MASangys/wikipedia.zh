@@ -1,23 +1,6 @@
-**Sony Xperia
-Z5**，是[索尼於](../Page/索尼.md "wikilink")2015年9月2日在柏林發表的旗艦手機，搭載5.2吋螢幕、[高通](../Page/高通.md "wikilink")
-[Snapdragon 810](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")
-MSM8994 2.0GHz + 1.5GHz 八核心處理器、3GB記憶體、2,300萬畫素 25mm
-G鏡且支援4K錄影，120fps慢動作錄影，支援 IP65 / 68
-防水、防塵功能，配有指紋傳感器。\[1\]同时发布还有同为Z系列的[Xperia Z5
-Compact和](../Page/Sony_Xperia_Z5_Compact.md "wikilink")[Xperia Z5
-Premium](../Page/Sony_Xperia_Z5_Premium.md "wikilink")。
+**Sony Xperia Z5**，是[索尼](../Page/索尼.md "wikilink")於2015年9月2日在柏林發表的旗艦手機，搭載5.2吋螢幕、[高通](../Page/高通.md "wikilink") [Snapdragon 810](https://zh.wikipedia.org/wiki/Snapdragon "wikilink") MSM8994 2.0GHz + 1.5GHz 八核心處理器、3GB記憶體、2,300萬畫素 25mm G鏡且支援4K錄影，120fps慢動作錄影，支援 IP65 / 68 防水、防塵功能，配有指紋傳感器。\[1\]同时发布还有同为Z系列的[Xperia Z5 Compact和](../Page/Sony_Xperia_Z5_Compact.md "wikilink")[Xperia Z5 Premium](../Page/Sony_Xperia_Z5_Premium.md "wikilink")。
 
-Xperia Z5為安卓作業系統的旗艦級高階智慧型手機，作為它的前一代[Sony Xperia
-Z3+的繼承機型](../Page/Sony_Xperia_Z3+.md "wikilink")。同期的主要競爭對手有[Samsung
-Galaxy S6
-edge+](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S6_edge+ "wikilink")、[Samsung
-Galaxy Note
-5](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_5 "wikilink")、[iPhone
-6S](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")、[LG
-G4](https://zh.wikipedia.org/wiki/LG_G4 "wikilink")、[HTC One
-M9](../Page/HTC_One_M9.md "wikilink")、[HTC Butterfly
-3](../Page/HTC_Butterfly_3.md "wikilink")、[Huawei
-P8](https://zh.wikipedia.org/wiki/Huawei_Ascend_P8 "wikilink")。
+Xperia Z5為安卓作業系統的旗艦級高階智慧型手機，作為它的前一代[Sony Xperia Z3+的繼承機型](../Page/Sony_Xperia_Z3+.md "wikilink")。同期的主要競爭對手有[Samsung Galaxy S6 edge+](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S6_edge+ "wikilink")、[Samsung Galaxy Note 5](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_5 "wikilink")、[iPhone 6S](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")、[LG G4](https://zh.wikipedia.org/wiki/LG_G4 "wikilink")、[HTC One M9](../Page/HTC_One_M9.md "wikilink")、[HTC Butterfly 3](../Page/HTC_Butterfly_3.md "wikilink")、[Huawei P8](https://zh.wikipedia.org/wiki/Huawei_Ascend_P8 "wikilink")。
 
 Sony Xperia Z5系列亦为Xperia Z系列之最後一代。
 
@@ -139,8 +122,7 @@ LTE</p></td>
 
 ## 顏色
 
-跟先前的Xperia
-Z3+有了更大的改變。**<font color=#000000>黑色</font>**改為較具質感的**<font color=#272727>石墨黑</font>**之外，並且把**<font color=#D2B48C>古銅色</font>**改為**<font color=#EAC100>金色</font>**、**<font color=#94C4D0>水綠色</font>**改為顏色較深的**<font color=#007979>綠色</font>**。
+跟先前的Xperia Z3+有了更大的改變。**<font color=#000000>黑色</font>**改為較具質感的**<font color=#272727>石墨黑</font>**之外，並且把**<font color=#D2B48C>古銅色</font>**改為**<font color=#EAC100>金色</font>**、**<font color=#94C4D0>水綠色</font>**改為顏色較深的**<font color=#007979>綠色</font>**。
 
 顏色包括：
 
@@ -154,11 +136,7 @@ Z3+有了更大的改變。**<font color=#000000>黑色</font>**改為較具質�
 
 ## 參考資料
 
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")
-[Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
+[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink") [Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
 
 1.
 2.

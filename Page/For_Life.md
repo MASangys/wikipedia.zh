@@ -1,15 +1,8 @@
-《**For
-Life**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[EXO繼](../Page/EXO.md "wikilink")2015年發行《[Sing
-For
-You](../Page/Sing_For_You.md "wikilink")》後第三張冬日特別專輯，歌曲將以中韓兩種語言錄製發行，由[SM娛樂製作](../Page/SM娛樂.md "wikilink")，[KT音樂發行](https://zh.wikipedia.org/wiki/韓國通訊 "wikilink")，於2016年12月19日推出。
+《**For Life**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[EXO](../Page/EXO.md "wikilink")繼2015年發行《[Sing For You](../Page/Sing_For_You.md "wikilink")》後第三張冬日特別專輯，歌曲將以中韓兩種語言錄製發行，由[SM娛樂](../Page/SM娛樂.md "wikilink")製作，[KT音樂發行](https://zh.wikipedia.org/wiki/韓國通訊 "wikilink")，於2016年12月19日推出。
 
 ## 簡介
 
-過去，EXO曾發行兩張冬日特別專輯，分別是2013年的《[十二月的奇蹟](https://zh.wikipedia.org/wiki/EXO音乐作品列表 "wikilink")》和2015年的《Sing
-For
-You》，而在2016年11月30日，歌謠界相關人士透露EXO將在2016年12月再次發行冬日專輯\[1\]。12月14日，[SM娛樂宣佈旗下男子組合EXO將於](../Page/SM娛樂.md "wikilink")12月19日正式回歸樂壇，並釋出專輯《For
-Life》回歸海報，而專輯概念海報依舊主打黑白色系\[2\]。12月18日，於韓國時間午夜0時發佈同名主打曲〈For
-Life〉前導預告影像，此次音樂錄影帶以短篇電影的風格進行拍攝與製作，並邀請電影導演金成浩（音譯）執導，由成員[Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")、Chanyeol及[KAI共同出演](https://zh.wikipedia.org/wiki/金鍾仁 "wikilink")。\[3\]
+過去，EXO曾發行兩張冬日特別專輯，分別是2013年的《[十二月的奇蹟](https://zh.wikipedia.org/wiki/EXO音乐作品列表 "wikilink")》和2015年的《Sing For You》，而在2016年11月30日，歌謠界相關人士透露EXO將在2016年12月再次發行冬日專輯\[1\]。12月14日，[SM娛樂](../Page/SM娛樂.md "wikilink")宣佈旗下男子組合EXO將於12月19日正式回歸樂壇，並釋出專輯《For Life》回歸海報，而專輯概念海報依舊主打黑白色系\[2\]。12月18日，於韓國時間午夜0時發佈同名主打曲〈For Life〉前導預告影像，此次音樂錄影帶以短篇電影的風格進行拍攝與製作，並邀請電影導演金成浩（音譯）執導，由成員[Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")、Chanyeol及[KAI共同出演](https://zh.wikipedia.org/wiki/金鍾仁 "wikilink")。\[3\]
 
 ## 曲目
 
@@ -281,11 +274,7 @@ Life〉前導預告影像，此次音樂錄影帶以短篇電影的風格進行�
   - [SM Entertainment官網](http://www.smtown.com/)
   - [EXO官網](http://exo.smtown.com/)
 
-[Category:EXO音樂專輯](https://zh.wikipedia.org/wiki/Category:EXO音樂專輯 "wikilink")
-[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2016年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯月榜冠軍作品 "wikilink")
+[Category:EXO音樂專輯](https://zh.wikipedia.org/wiki/Category:EXO音樂專輯 "wikilink") [Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink") [Category:2016年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯月榜冠軍作品 "wikilink")
 
 1.
 2.

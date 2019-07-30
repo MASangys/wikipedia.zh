@@ -18,8 +18,7 @@
 
 ### 簡介
 
-《新年这一刻》SNH48的第十四张EP，也是SNH48全新的新春贺岁EP，首張主題新年EP，由S队、N队、H队、X队、XII五队成员组成选拔，代表SNH48为粉丝们送上新年的祝福\[7\]。值得一提的是，SNH48
-Group年底登上各大衛視跨年晚會，《新年这一刻》成為各大衛視跨年晚會的壓轴曲\[8\]。
+《新年这一刻》SNH48的第十四张EP，也是SNH48全新的新春贺岁EP，首張主題新年EP，由S队、N队、H队、X队、XII五队成员组成选拔，代表SNH48为粉丝们送上新年的祝福\[7\]。值得一提的是，SNH48 Group年底登上各大衛視跨年晚會，《新年这一刻》成為各大衛視跨年晚會的壓轴曲\[8\]。
 
 ### 收錄曲目
 
@@ -30,16 +29,11 @@ Group年底登上各大衛視跨年晚會，《新年这一刻》成為各大衛
 
 （Center：曾艳芬）
 
-  - Team
-    SII：[許佳琪](https://zh.wikipedia.org/wiki/許佳琪 "wikilink")、[袁雨桢](https://zh.wikipedia.org/wiki/袁雨桢 "wikilink")
-  - Team
-    NII：[馮薪朵](../Page/馮薪朵.md "wikilink")、[萬麗娜](https://zh.wikipedia.org/wiki/萬麗娜 "wikilink")、[曾艷芬](https://zh.wikipedia.org/wiki/曾艷芬 "wikilink")
-  - Team
-    HII：[劉炅然](https://zh.wikipedia.org/wiki/劉炅然 "wikilink")、[孙珍妮](../Page/孙珍妮.md "wikilink")、[谢妮](https://zh.wikipedia.org/wiki/谢妮 "wikilink")、[许杨玉琢](https://zh.wikipedia.org/wiki/许杨玉琢 "wikilink")、[杨惠婷](https://zh.wikipedia.org/wiki/杨惠婷 "wikilink")
-  - Team
-    X：[宋昕冉](../Page/宋昕冉.md "wikilink")、[杨韫玉](https://zh.wikipedia.org/wiki/杨韫玉 "wikilink")、[張丹三](https://zh.wikipedia.org/wiki/張丹三 "wikilink")
-  - Team
-    XII：[費沁源](../Page/費沁源.md "wikilink")、[洪珮雲](../Page/洪珮雲.md "wikilink")、[於佳怡](https://zh.wikipedia.org/wiki/於佳怡 "wikilink")
+  - Team SII：[許佳琪](https://zh.wikipedia.org/wiki/許佳琪 "wikilink")、[袁雨桢](https://zh.wikipedia.org/wiki/袁雨桢 "wikilink")
+  - Team NII：[馮薪朵](../Page/馮薪朵.md "wikilink")、[萬麗娜](https://zh.wikipedia.org/wiki/萬麗娜 "wikilink")、[曾艷芬](https://zh.wikipedia.org/wiki/曾艷芬 "wikilink")
+  - Team HII：[劉炅然](https://zh.wikipedia.org/wiki/劉炅然 "wikilink")、[孙珍妮](../Page/孙珍妮.md "wikilink")、[谢妮](https://zh.wikipedia.org/wiki/谢妮 "wikilink")、[许杨玉琢](https://zh.wikipedia.org/wiki/许杨玉琢 "wikilink")、[杨惠婷](https://zh.wikipedia.org/wiki/杨惠婷 "wikilink")
+  - Team X：[宋昕冉](../Page/宋昕冉.md "wikilink")、[杨韫玉](https://zh.wikipedia.org/wiki/杨韫玉 "wikilink")、[張丹三](https://zh.wikipedia.org/wiki/張丹三 "wikilink")
+  - Team XII：[費沁源](../Page/費沁源.md "wikilink")、[洪珮雲](../Page/洪珮雲.md "wikilink")、[於佳怡](https://zh.wikipedia.org/wiki/於佳怡 "wikilink")
 
 <!-- end list -->
 
@@ -50,9 +44,7 @@ Group年底登上各大衛視跨年晚會，《新年这一刻》成為各大衛
 
 :**Burning Up** （Center：張語格）
 
-  - Team SII：陳觀慧、陳思、戴萌、蔣芸、孔肖吟、李宇琪、莫寒、錢蓓婷、孫芮、吳哲晗（兼任Team
-    X）、徐晨辰、許佳琪、徐子軒、袁丹妮（兼任Team
-    HII）、袁雨楨、張語格
+  - Team SII：陳觀慧、陳思、戴萌、蔣芸、孔肖吟、李宇琪、莫寒、錢蓓婷、孫芮、吳哲晗（兼任Team X）、徐晨辰、許佳琪、徐子軒、袁丹妮（兼任Team HII）、袁雨楨、張語格
 
 
 :**Brave Heart** （Center：黃婷婷）
@@ -77,8 +69,7 @@ Group年底登上各大衛視跨年晚會，《新年这一刻》成為各大衛
 
 :**关于甜蜜的愿望** （Center：張丹三）
 
-  - Team X：陳琳、馮曉菲（兼任Team
-    SII）、李晶、李釗、祈靜、邵雪聰、宋昕冉、孫歆文、汪佳翎、汪束、王曉佳、謝天依、楊冰怡、楊韞玉、張丹三、張嘉予
+  - Team X：陳琳、馮曉菲（兼任Team SII）、李晶、李釗、祈靜、邵雪聰、宋昕冉、孫歆文、汪佳翎、汪束、王曉佳、謝天依、楊冰怡、楊韞玉、張丹三、張嘉予
 
 <!-- end list -->
 
@@ -88,8 +79,7 @@ Group年底登上各大衛視跨年晚會，《新年这一刻》成為各大衛
 
 :**钟声过後是乐园** （Center：費沁源）
 
-  - Team
-    XII：陳音、陳韞凌、費沁源、洪珮雲、姜杉、蔣舒婷、李佳恩、呂夢瑩、劉增艷、潘瑛琪、宋雨珊、嚴佼君、於佳怡、鄒佳佳、張文靜、張怡
+  - Team XII：陳音、陳韞凌、費沁源、洪珮雲、姜杉、蔣舒婷、李佳恩、呂夢瑩、劉增艷、潘瑛琪、宋雨珊、嚴佼君、於佳怡、鄒佳佳、張文靜、張怡
 
 <!-- end list -->
 
@@ -108,9 +98,7 @@ Group年底登上各大衛視跨年晚會，《新年这一刻》成為各大衛
 
 ### 簡介
 
-《甜蜜盛典》是SNH48
-Group为庆祝2018年新年的贺岁EP。作为整张EP的同名主打曲，《甜蜜盛典》由SNH48携姐妹团[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")、[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")、[SHY48](../Page/SHY48.md "wikilink")、[CKG48成员一起演绎](../Page/CKG48.md "wikilink")。这也是SNH48
-Group五团首度集结拍摄同一支MV，希望用这种团圆的感觉为整首MV塑造一个温暖的基调。EP由「[上海迪士尼度假區](../Page/上海迪士尼度假區.md "wikilink")」冠名，《甜蜜盛典》的MV于上海迪士尼拍摄，梦幻乐园遇上元气少女，让这首MV甜蜜加倍，温暖加码\[9\]。
+《甜蜜盛典》是SNH48 Group为庆祝2018年新年的贺岁EP。作为整张EP的同名主打曲，《甜蜜盛典》由SNH48携姐妹团[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")、[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")、[SHY48](../Page/SHY48.md "wikilink")、[CKG48](../Page/CKG48.md "wikilink")成员一起演绎。这也是SNH48 Group五团首度集结拍摄同一支MV，希望用这种团圆的感觉为整首MV塑造一个温暖的基调。EP由「[上海迪士尼度假區](../Page/上海迪士尼度假區.md "wikilink")」冠名，《甜蜜盛典》的MV于上海迪士尼拍摄，梦幻乐园遇上元气少女，让这首MV甜蜜加倍，温暖加码\[9\]。
 
 本作同时作为BEJ48、GNZ48的第5张、SHY48的第2张、CKG48的首张EP发行。
 
@@ -136,7 +124,7 @@ Group五团首度集结拍摄同一支MV，希望用这种团圆的感觉为整�
 
   -
     張雨鑫、劉力菲、韓家樂首次參與選拔。
-    MV在[上海迪士尼度假區拍攝](../Page/上海迪士尼度假區.md "wikilink")。
+    MV在[上海迪士尼度假區](../Page/上海迪士尼度假區.md "wikilink")拍攝。
 
 
 :**好运来**<small>（feat.祖海）</small> （Center：黃婷婷、冯薪朵）
@@ -193,8 +181,7 @@ Group五团首度集结拍摄同一支MV，希望用这种团圆的感觉为整�
 
 ### 簡介
 
-《未来的乐章》是SNH48
-Group为2018年春季EP。这首单曲不仅邀请了国内著名创作人亲自操刀，在演绎阵容上，也做了精心编排。SNH48大重组后四支新队伍的八位队长和每队的成员代表共同组成了此首单曲的演绎阵容，预示着四支队伍将携手并进，共谱SNH48的未来乐章。
+《未来的乐章》是SNH48 Group为2018年春季EP。这首单曲不仅邀请了国内著名创作人亲自操刀，在演绎阵容上，也做了精心编排。SNH48大重组后四支新队伍的八位队长和每队的成员代表共同组成了此首单曲的演绎阵容，预示着四支队伍将携手并进，共谱SNH48的未来乐章。
 
 本作同时以各团体歌曲为主打曲目作为BEJ48、GNZ48的第6张、SHY48的第3张、CKG48的第2张EP发行。
 
@@ -249,14 +236,11 @@ Group为2018年春季EP。这首单曲不仅邀请了国内著名创作人亲自
 
 ## 森林法则
 
-《**森林法则**》（）是中國偶像組合[SNH48的第](https://zh.wikipedia.org/wiki/SNH48 "wikilink")20張EP，EP同時也附有2018年7月28日舉辦的[SNH48
-Group第五屆總選舉投票券](https://zh.wikipedia.org/wiki/SNH48_Group第五屆總選舉 "wikilink")\[10\]。
+《**森林法则**》（）是中國偶像組合[SNH48的第](https://zh.wikipedia.org/wiki/SNH48 "wikilink")20張EP，EP同時也附有2018年7月28日舉辦的[SNH48 Group第五屆總選舉投票券](https://zh.wikipedia.org/wiki/SNH48_Group第五屆總選舉 "wikilink")\[10\]。
 
 ### 簡介
 
-《森林法则》是SNH48 2018夏日主题EP。该EP首次尝试双主打歌的形式，由来自SNH48、BEJ48、
-GNZ48、SHY48、CKG48五团组成选拔组共24名成员演绎，并赴[泰国](../Page/泰国.md "wikilink")[普吉岛取景拍摄MV](https://zh.wikipedia.org/wiki/普吉岛 "wikilink")。
-EP由「[终结者2：审判日](../Page/终结者2：审判日_\(游戏\).md "wikilink")」冠名，《森林法则》MV也以「吃鸡」剧情为主题，成员在神秘小岛为了生存殊死搏斗、上演相爱相杀的场面\[11\]。
+《森林法则》是SNH48 2018夏日主题EP。该EP首次尝试双主打歌的形式，由来自SNH48、BEJ48、 GNZ48、SHY48、CKG48五团组成选拔组共24名成员演绎，并赴[泰国](../Page/泰国.md "wikilink")[普吉岛取景拍摄MV](https://zh.wikipedia.org/wiki/普吉岛 "wikilink")。 EP由「[终结者2：审判日](../Page/终结者2：审判日_\(游戏\).md "wikilink")」冠名，《森林法则》MV也以「吃鸡」剧情为主题，成员在神秘小岛为了生存殊死搏斗、上演相爱相杀的场面\[11\]。
 
 ### 收錄曲目
 
@@ -284,8 +268,7 @@ EP由「[终结者2：审判日](../Page/终结者2：审判日_\(游戏\).md "w
 <!-- end list -->
 
   -
-    赵粤首次擔任選拔Center。刘姝贤、李梓、杨晔、肖文铃、杜秋霖、刘静晗、柏欣妤、李瑜璇首次參與選拔。首次有BEJ48 Team
-    J、GNZ48 Team Z、SHY48 Team HIII、CKG48 Team C与Team K的成員參與選拔。
+    赵粤首次擔任選拔Center。刘姝贤、李梓、杨晔、肖文铃、杜秋霖、刘静晗、柏欣妤、李瑜璇首次參與選拔。首次有BEJ48 Team J、GNZ48 Team Z、SHY48 Team HIII、CKG48 Team C与Team K的成員參與選拔。
     MV在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[普吉拍攝](https://zh.wikipedia.org/wiki/普吉 "wikilink")。
 
 | 成员玩家 | 死亡方式         | 剩余玩家 |
@@ -377,9 +360,7 @@ EP由「[终结者2：审判日](../Page/终结者2：审判日_\(游戏\).md "w
 
 ### 簡介
 
-《此刻到永远》是SNH48
-Group于2018年冬季发布的贺岁EP。运营方宣称该EP由国内外知名音乐创作人为选拔成员定制节日歌曲，其余姐妹团体亦会翻唱此前已发行的新年单曲，旨在为公众传达诚挚的新年祝福\[12\]。《此刻到永远》同名主打曲PV由「ObEN」与「[湾仔码头](../Page/灣仔碼頭_\(品牌\).md "wikilink")」赞助，據《美聯社新聞》和《東方財富網》報導，SNH48
-Group携手美国人工智能公司ObEN创意打造了人工智能形象，制作世界上第一个PAI／人类音乐视频和商业唱片，并在本支PV中特别加入了6名成员的PAI虚拟形象\[13\]\[14\]\[15\]。
+《此刻到永远》是SNH48 Group于2018年冬季发布的贺岁EP。运营方宣称该EP由国内外知名音乐创作人为选拔成员定制节日歌曲，其余姐妹团体亦会翻唱此前已发行的新年单曲，旨在为公众传达诚挚的新年祝福\[12\]。《此刻到永远》同名主打曲PV由「ObEN」与「[湾仔码头](../Page/灣仔碼頭_\(品牌\).md "wikilink")」赞助，據《美聯社新聞》和《東方財富網》報導，SNH48 Group携手美国人工智能公司ObEN创意打造了人工智能形象，制作世界上第一个PAI／人类音乐视频和商业唱片，并在本支PV中特别加入了6名成员的PAI虚拟形象\[13\]\[14\]\[15\]。
 
 本作同时作为BEJ48、GNZ48的第7张、SHY48的第4张、CKG48的第3张EP发行。
 
@@ -392,17 +373,13 @@ Group携手美国人工智能公司ObEN创意打造了人工智能形象，制�
 
 （Center：李艺彤）
 
-  - Team
-    SII：[李宇琪](../Page/李宇琪.md "wikilink")、[莫寒](../Page/莫寒.md "wikilink")、钱蓓婷、[孙芮](../Page/孙芮.md "wikilink")
-  - Team
-    NII：[易嘉爱](https://zh.wikipedia.org/wiki/易嘉爱 "wikilink")、[张怡](https://zh.wikipedia.org/wiki/张怡 "wikilink")
-  - Team
-    HII：[姜杉](../Page/姜杉.md "wikilink")、[李艺彤](https://zh.wikipedia.org/wiki/李艺彤 "wikilink")、[万丽娜](https://zh.wikipedia.org/wiki/万丽娜 "wikilink")
+  - Team SII：[李宇琪](../Page/李宇琪.md "wikilink")、[莫寒](../Page/莫寒.md "wikilink")、钱蓓婷、[孙芮](../Page/孙芮.md "wikilink")
+  - Team NII：[易嘉爱](https://zh.wikipedia.org/wiki/易嘉爱 "wikilink")、[张怡](https://zh.wikipedia.org/wiki/张怡 "wikilink")
+  - Team HII：[姜杉](../Page/姜杉.md "wikilink")、[李艺彤](https://zh.wikipedia.org/wiki/李艺彤 "wikilink")、[万丽娜](https://zh.wikipedia.org/wiki/万丽娜 "wikilink")
   - Team X：祁静、杨冰怡、[张丹三](../Page/张丹三.md "wikilink")
   - Team B：[段艺璇](https://zh.wikipedia.org/wiki/段艺璇 "wikilink")
   - Team E：[苏杉杉](https://zh.wikipedia.org/wiki/苏杉杉 "wikilink")
-  - Team
-    NIII：[刘力菲](https://zh.wikipedia.org/wiki/刘力菲 "wikilink")、[郑丹妮](https://zh.wikipedia.org/wiki/郑丹妮 "wikilink")
+  - Team NIII：[刘力菲](https://zh.wikipedia.org/wiki/刘力菲 "wikilink")、[郑丹妮](https://zh.wikipedia.org/wiki/郑丹妮 "wikilink")
 
 <!-- end list -->
 
@@ -459,10 +436,7 @@ Group携手美国人工智能公司ObEN创意打造了人工智能形象，制�
 
 ### 簡介
 
-《我们的旅程》是SNH48 Group于2019年发布的首张EP，为[SNH48 Group第五届年度金曲大赏BEST
-50举办前所承诺发行的特别纪念版EP](../Page/SNH48_Group第五届年度金曲大赏BEST_50.md "wikilink")。EP中收录了《心的旅程(6周年纪念版)》及[SNH48
-Group第五届年度金曲大赏BEST
-50的年度金曲及曜阳组歌曲](../Page/SNH48_Group第五届年度金曲大赏BEST_50.md "wikilink")，合共10首曲目。
+《我们的旅程》是SNH48 Group于2019年发布的首张EP，为[SNH48 Group第五届年度金曲大赏BEST 50举办前所承诺发行的特别纪念版EP](../Page/SNH48_Group第五届年度金曲大赏BEST_50.md "wikilink")。EP中收录了《心的旅程(6周年纪念版)》及[SNH48 Group第五届年度金曲大赏BEST 50的年度金曲及曜阳组歌曲](../Page/SNH48_Group第五届年度金曲大赏BEST_50.md "wikilink")，合共10首曲目。
 
 而该张EP的发行版本除标准版及捐赠版外，亦首次增加“网络版”。网络版与捐赠版之规格相近，惟捐赠版所含之握手券在网络版中被替换为“网络握手券”，供参加线上握手会的购买者使用。
 
@@ -503,8 +477,7 @@ Group第五届年度金曲大赏BEST
 
 :**Zen** （Center：梁婉琳）
 
-  - GNZ48 Team
-    Z：毕瑞珊、陈桂君、邓惠恩、杜秋霖、何梦瑶、梁婉琳、龙亦瑞、农燕萍、王翠菲、王炯义、王偲越、杨可路、杨媛媛、余芷媛、张秋怡
+  - GNZ48 Team Z：毕瑞珊、陈桂君、邓惠恩、杜秋霖、何梦瑶、梁婉琳、龙亦瑞、农燕萍、王翠菲、王炯义、王偲越、杨可路、杨媛媛、余芷媛、张秋怡
 
 
 :**钢铁之翼**
@@ -540,9 +513,7 @@ Group第五届年度金曲大赏BEST
 
 ### 簡介
 
-《那年夏天的梦》是[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")
-Group于2019年夏季EP。该张EP的同名曲目由来自SNH48、BEJ48、GNZ48三团组成选拔组共20名成员演绎，且以新生代成员为主，并赴[泰国](../Page/泰国.md "wikilink")[普吉岛取景拍摄MV](https://zh.wikipedia.org/wiki/普吉岛 "wikilink")。EP附有2019年7月27日舉辦的[SNH48
-Group第六屆總選舉投票券](https://zh.wikipedia.org/wiki/SNH48_Group第六屆總選舉 "wikilink")。\[16\]
+《那年夏天的梦》是[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink") Group于2019年夏季EP。该张EP的同名曲目由来自SNH48、BEJ48、GNZ48三团组成选拔组共20名成员演绎，且以新生代成员为主，并赴[泰国](../Page/泰国.md "wikilink")[普吉岛取景拍摄MV](https://zh.wikipedia.org/wiki/普吉岛 "wikilink")。EP附有2019年7月27日舉辦的[SNH48 Group第六屆總選舉投票券](https://zh.wikipedia.org/wiki/SNH48_Group第六屆總選舉 "wikilink")。\[16\]
 
 ### 收錄曲目
 
@@ -597,8 +568,7 @@ Group第六屆總選舉投票券](https://zh.wikipedia.org/wiki/SNH48_Group第�
   - [BEJ48發行作品列表](../Page/BEJ48發行作品列表.md "wikilink")
   - [GNZ48發行作品列表](../Page/GNZ48發行作品列表.md "wikilink")
   - [前行的力量](../Page/前行的力量.md "wikilink")
-  - [SNH48 FAMILY
-    GROUP发行作品列表](../Page/SNH48_FAMILY_GROUP发行作品列表.md "wikilink")
+  - [SNH48 FAMILY GROUP发行作品列表](../Page/SNH48_FAMILY_GROUP发行作品列表.md "wikilink")
 
 ## 參考文獻
 
@@ -637,21 +607,15 @@ Group第六屆總選舉投票券](https://zh.wikipedia.org/wiki/SNH48_Group第�
 
 1.  [SNH48首张原创EP《源动力》上线，3月25日引爆无限能量！](http://www.snh48.com/html/allnews/zixun/2016/0320/1614.html)
 2.  [SNH48总决选投票EP《梦想岛》专题上线 5月20日标准版上架](http://www.snh48.com/html/allnews/zixun/2016/0513/1686.html)
-3.  [来自新年的祝福
-    SNH48全新单曲《新年这一刻》暖心贺岁](http://www.snh48.com/html/allnews/zixun/2016/1213/2062.html)
+3.  [来自新年的祝福 SNH48全新单曲《新年这一刻》暖心贺岁](http://www.snh48.com/html/allnews/zixun/2016/1213/2062.html)
 4.
 5.  [AKB創始人：不知SNH48被除名！　營運內部掀「陰謀論」](http://star.ettoday.net/news/714608)
 6.
-7.  [来自SNH48的新年礼物 《新年这一刻》
-    EP12月20日上架销售](http://www.snh48.com/html/allnews/zixun/2016/1214/2065.html)
-8.  [SNH48 GROUP亮相四地跨年晚会
-    青春满屏传递新年美好祝福](http://www.snh48.com/html/allnews/zixun/2017/0103/2089.html)
-9.  [SNH48 GROUP 《甜蜜盛典》MV首发
-    温暖喜气迎新年](http://www.snh48.com/html/allnews/zixun/2017/1220/2778.html)
-10. [“砥砺前行”SNH48
-    GROUP第五届偶像年度人气总决选5月11日启动](http://www.snh48.com/html/allnews/zixun/2018/0511/3066.html)
-11. [SNH48
-    总决选投票EP《森林法则》专题上线 5月17日唱片上架](http://www.snh48.com/html/allnews/zixun/2018/0511/3068.html)
+7.  [来自SNH48的新年礼物 《新年这一刻》 EP12月20日上架销售](http://www.snh48.com/html/allnews/zixun/2016/1214/2065.html)
+8.  [SNH48 GROUP亮相四地跨年晚会 青春满屏传递新年美好祝福](http://www.snh48.com/html/allnews/zixun/2017/0103/2089.html)
+9.  [SNH48 GROUP 《甜蜜盛典》MV首发 温暖喜气迎新年](http://www.snh48.com/html/allnews/zixun/2017/1220/2778.html)
+10. [“砥砺前行”SNH48 GROUP第五届偶像年度人气总决选5月11日启动](http://www.snh48.com/html/allnews/zixun/2018/0511/3066.html)
+11. [SNH48 总决选投票EP《森林法则》专题上线 5月17日唱片上架](http://www.snh48.com/html/allnews/zixun/2018/0511/3068.html)
 12.
 13.
 14.

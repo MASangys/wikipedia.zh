@@ -28,9 +28,7 @@
 
 ## 引用資料
 
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:15&音樂專輯](https://zh.wikipedia.org/wiki/Category:15&音樂專輯 "wikilink")
+[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:15&音樂專輯](https://zh.wikipedia.org/wiki/Category:15&音樂專輯 "wikilink")
 
 1.
 2.

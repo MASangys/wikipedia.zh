@@ -1,4 +1,4 @@
-**《SMAP☆加油\!\!》**（）是[日本](../Page/日本.md "wikilink")[朝日電視台及](../Page/朝日電視台.md "wikilink")[朝日電視網於](https://zh.wikipedia.org/wiki/朝日電視網 "wikilink")2009年到2013年播出的一檔[直播類](https://zh.wikipedia.org/wiki/直播 "wikilink")[綜藝特別節目](https://zh.wikipedia.org/wiki/綜藝 "wikilink")，同時也是日本男子偶像組合[SMAP的冠名節目之一](../Page/SMAP.md "wikilink")。節目採用[立體聲和](../Page/立體聲.md "wikilink")[文字多重放送播出](https://zh.wikipedia.org/wiki/文字多重放送 "wikilink")。
+**《SMAP☆加油\!\!》**（）是[日本](../Page/日本.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")及[朝日電視網於](https://zh.wikipedia.org/wiki/朝日電視網 "wikilink")2009年到2013年播出的一檔[直播類](https://zh.wikipedia.org/wiki/直播 "wikilink")[綜藝特別節目](https://zh.wikipedia.org/wiki/綜藝 "wikilink")，同時也是日本男子偶像組合[SMAP](../Page/SMAP.md "wikilink")的冠名節目之一。節目採用[立體聲](../Page/立體聲.md "wikilink")和[文字多重放送播出](https://zh.wikipedia.org/wiki/文字多重放送 "wikilink")。
 
 ## 節目簡介
 
@@ -160,7 +160,7 @@
   - 草彅剛（全力奔跑的男人）
       - 案發后，不知何故在城市周圍奮力奔跑。
   - 香取慎吾（神秘的[繩文人](../Page/繩文人.md "wikilink")）
-      - 案發后，變裝成繩文人前往無名島。後來在無名島上製作[繩紋時代的](../Page/繩紋時代.md "wikilink")[陶器](../Page/陶器.md "wikilink")。
+      - 案發后，變裝成繩文人前往無名島。後來在無名島上製作[繩紋時代](../Page/繩紋時代.md "wikilink")的[陶器](../Page/陶器.md "wikilink")。
 
 **被害人**
 
@@ -210,15 +210,13 @@
 
 **SMAP元氣演出Live**
 
-  - [KinKi
-    Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（[堂本光一](../Page/堂本光一.md "wikilink")、[堂本剛](../Page/堂本剛.md "wikilink")）
+  - [KinKi Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（[堂本光一](../Page/堂本光一.md "wikilink")、[堂本剛](../Page/堂本剛.md "wikilink")）
   - [瀧與翼](../Page/瀧與翼.md "wikilink")（[瀧澤秀明](../Page/瀧澤秀明.md "wikilink")、[今井翼](../Page/今井翼.md "wikilink")）
   - [龜梨和也](../Page/龜梨和也.md "wikilink")、[田中聖](../Page/田中聖.md "wikilink")（[KAT-TUN](../Page/KAT-TUN.md "wikilink")）
 
 <!-- end list -->
 
-  - [八乙女光](../Page/八乙女光.md "wikilink")、[薮宏太](../Page/薮宏太.md "wikilink")（[Hey\!
-    Say\! JUMP](../Page/Hey!_Say!_JUMP.md "wikilink")）
+  - [八乙女光](../Page/八乙女光.md "wikilink")、[薮宏太](../Page/薮宏太.md "wikilink")（[Hey\! Say\! JUMP](../Page/Hey!_Say!_JUMP.md "wikilink")）
   - [藤谷太輔](../Page/藤谷太輔.md "wikilink")、[玉森裕太](../Page/玉森裕太.md "wikilink")（[Kis-My-Ft.2](https://zh.wikipedia.org/wiki/Kis-My-Ft.2 "wikilink")）
 
 ### 第四期
@@ -266,8 +264,7 @@
   - [《SMAP☆加油\!\!》官方網站](http://www.tv-asahi.co.jp/ganbarimasu/)
   - [毒番茄殺人事件](https://web.archive.org/web/20100615210738/http://www.tv-asahi.co.jp/dokutomato/)
 
-[Category:SMAP所主持的节目](https://zh.wikipedia.org/wiki/Category:SMAP所主持的节目 "wikilink")
-[Category:朝日電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:朝日電視台綜藝節目 "wikilink")
+[Category:SMAP所主持的节目](https://zh.wikipedia.org/wiki/Category:SMAP所主持的节目 "wikilink") [Category:朝日電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:朝日電視台綜藝節目 "wikilink")
 
-1.  節目播出兩日前成為[日本電視台主播](../Page/日本電視台.md "wikilink")，這是SMAP與日本電視台首次在別台合作。
+1.  節目播出兩日前成為[日本電視台](../Page/日本電視台.md "wikilink")主播，這是SMAP與日本電視台首次在別台合作。
 2.  <http://mdpr.jp/photo/detail/1271858>

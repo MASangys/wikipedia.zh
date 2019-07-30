@@ -116,7 +116,7 @@
 珉豪、L、李準、鄭容和、李宗泫、光熙、Sulli</p></td>
 <td><p>擊敗其餘的隊伍</p></td>
 <td><p><a href="../Page/Running_Man.md" title="wikilink">Running Man隊</a><strong>勝出</strong><br />
-獲得<a href="../Page/金.md" title="wikilink">金色名牌</a></p></td>
+獲得<a href="../Page/金.md" title="wikilink">金</a>色名牌</p></td>
 </tr>
 <tr class="even">
 <td><p>101</p></td>
@@ -133,7 +133,7 @@
 沒有隊伍</p></td>
 <td><p>尋找寶箱</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a><strong>勝出</strong><br />
-獲得<a href="../Page/金.md" title="wikilink">金條一箱</a></p></td>
+獲得<a href="../Page/金.md" title="wikilink">金</a>條一箱</p></td>
 </tr>
 <tr class="odd">
 <td><p>102</p></td>
@@ -166,7 +166,7 @@ Gary、宋智孝、李光洙</p></td>
 <small>（<em>1月21日</em>）</small></p></td>
 <td><p><a href="../Page/黃晸玟.md" title="wikilink">黃晸玟</a>、<a href="../Page/朴誠雄.md" title="wikilink">朴誠雄</a>、<br />
 <a href="../Page/金泫雅.md" title="wikilink">泫雅</a>（<a href="../Page/4minute.md" title="wikilink">4minute</a>）</p></td>
-<td><p><a href="../Page/韓亞航空.md" title="wikilink">韓亞航空韓亞城</a><br />
+<td><p><a href="../Page/韓亞航空.md" title="wikilink">韓亞航空</a>韓亞城<br />
 <small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="../Page/江西區_(首爾).md" title="wikilink">江西區</a><a href="../Page/空港洞.md" title="wikilink">空港洞</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>雙重間-{}-諜</strong></span><br />
@@ -259,7 +259,7 @@ Gary、宋智孝、李棟旭</p></td>
 沒有隊伍</p></td>
 <td><p>擊敗其餘的Running Man</p></td>
 <td><p><a href="../Page/宋智孝.md" title="wikilink">宋智孝</a><strong>勝出</strong><br />
-獲得絕對<a href="../Page/金.md" title="wikilink">金劍並還給傳說的烏龜使世界太平</a></p></td>
+獲得絕對<a href="../Page/金.md" title="wikilink">金</a>劍並還給傳說的烏龜使世界太平</p></td>
 </tr>
 <tr class="odd">
 <td><p>107</p></td>
@@ -278,8 +278,8 @@ Gary、宋智孝、李棟旭</p></td>
 <span style=color:#0000FF><strong>藍溫達隊</strong></span>：Gary、哈哈、宋智孝</p></td>
 <td><p>擊敗其餘的隊伍</p></td>
 <td><p>綠溫達隊<strong>勝出</strong><br />
-獲得<a href="../Page/金.md" title="wikilink">金戒指一對</a>、<a href="https://zh.wikipedia.org/wiki/U-ie" title="wikilink">U-ie選擇與</a><a href="../Page/李光洙.md" title="wikilink">李光洙分享</a><br />
-<em><strong>註：</strong><a href="../Page/朴敏荷.md" title="wikilink">朴敏荷特別出演</a></em></p></td>
+獲得<a href="../Page/金.md" title="wikilink">金</a>戒指一對、<a href="https://zh.wikipedia.org/wiki/U-ie" title="wikilink">U-ie選擇與</a><a href="../Page/李光洙.md" title="wikilink">李光洙</a>分享<br />
+<em><strong>註：</strong><a href="../Page/朴敏荷.md" title="wikilink">朴敏荷</a>特別出演</em></p></td>
 </tr>
 <tr class="even">
 <td><p>108</p></td>
@@ -366,7 +366,7 @@ Gary、宋智孝、李棟旭</p></td>
 沒有隊伍</p></td>
 <td><p>擊敗其餘的Running Man</p></td>
 <td><p><a href="../Page/李光洙.md" title="wikilink">李光洙</a><strong>勝出</strong><br />
-獲得<a href="../Page/金.md" title="wikilink">金王冠</a></p></td>
+獲得<a href="../Page/金.md" title="wikilink">金</a>王冠</p></td>
 </tr>
 <tr class="even">
 <td><p>112</p></td>
@@ -418,7 +418,7 @@ Gary、宋智孝、李相侖<br />
 <td><p>橙隊<strong>勝出</strong><br />
 獲得<a href="https://zh.wikipedia.org/wiki/黃金" title="wikilink">黃金獎盃</a>、並轉送<a href="../Page/柳賢慶.md" title="wikilink">柳賢慶</a><br />
 '<strong>'註：</strong>宣傳電影《<a href="../Page/全國歌唱比賽.md" title="wikilink">全國歌唱比賽</a>》<br />
-<a href="../Page/朴玄彬.md" title="wikilink">朴玄彬特別出演</a></p></td>
+<a href="../Page/朴玄彬.md" title="wikilink">朴玄彬</a>特別出演</p></td>
 </tr>
 <tr class="even">
 <td><p>114</p></td>
@@ -461,7 +461,7 @@ Gary、宋智孝、李相侖<br />
 <span style=color:#FF0000><strong>叢林的法則隊</strong></span><br />
 哈哈、金炳萬、盧宇振、朴正哲、全慧彬、鄭珍雲</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則隊</a><strong>勝出</strong><br />
-獲得六隻<a href="../Page/金.md" title="wikilink">金戒指</a><br />
+獲得六隻<a href="../Page/金.md" title="wikilink">金</a>戒指<br />
 '<strong>'註：</strong><a href="https://zh.wikipedia.org/wiki/孫藝珍" title="wikilink">孫藝珍驚喜聲演</a></p></td>
 <td></td>
 </tr>
@@ -487,8 +487,8 @@ Gary、宋智孝、李相侖<br />
 <strong>刑警</strong><br />
 擊敗背叛者俱樂部並奪得「未來筆記」，在「未來筆記」簽名。</p></td>
 <td><p>刑警1隊<strong>勝出</strong><br />
-獲得<a href="../Page/金.md" title="wikilink">金勳章</a><br />
-<a href="../Page/宋智孝.md" title="wikilink">宋智孝奪得</a>「未來筆記」，將獲劇組製作以她為主角的特輯<br />
+獲得<a href="../Page/金.md" title="wikilink">金</a>勳章<br />
+<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>奪得「未來筆記」，將獲劇組製作以她為主角的特輯<br />
 其特輯於163集播出<br />
 '<strong>'註：</strong>宣傳電影《<a href="https://zh.wikipedia.org/wiki/模犯母親" title="wikilink">重罪犯</a>》</p></td>
 </tr>
@@ -527,7 +527,7 @@ Gary、宋智孝、李相侖<br />
 <span style=color:#0000FF><strong>藍隊</strong></span>：Gary、哈哈、宋智孝</p></td>
 <td><p>完成多米諾骨牌遊戲</p></td>
 <td><p>紅隊<strong>勝出</strong><br />
-獲得3把<a href="../Page/金.md" title="wikilink">金湯匙</a><br />
+獲得3把<a href="../Page/金.md" title="wikilink">金</a>湯匙<br />
 <em><strong>註：</strong>概念來自電影《<a href="../Page/逃出魔幻紀.md" title="wikilink">逃出魔幻紀</a>》</em></p></td>
 </tr>
 <tr class="odd">
@@ -551,7 +551,7 @@ Gary、宋智孝、李相侖<br />
 <span style=color:#808080>權梨世、李光洙</span></strong></p></td>
 <td><p>收集九條狐狸尾巴</p></td>
 <td><p><a href="../Page/宋恩伊.md" title="wikilink">宋恩伊</a>、<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a><strong>勝出</strong><br />
-宋恩伊獲得<a href="../Page/金.md" title="wikilink">金如意珠</a></p></td>
+宋恩伊獲得<a href="../Page/金.md" title="wikilink">金</a>如意珠</p></td>
 </tr>
 <tr class="even">
 <td><p>120</p></td>
@@ -560,7 +560,7 @@ Gary、宋智孝、李相侖<br />
 <td><p>6月16日<br />
 <small>（<em>6月3日</em>）</small></p></td>
 <td><p>、<a href="../Page/秋山成勳.md" title="wikilink">秋成勳</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/玉澤演" title="wikilink">澤演</a>、<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">燦盛</a>（<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a>）</p></td>
+<a href="../Page/玉澤演.md" title="wikilink">澤演</a>、<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">燦盛</a>（<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a>）</p></td>
 <td><p>Square1商場<br />
 <small>（<a href="../Page/仁川廣域市.md" title="wikilink">仁川廣域市</a><br />
 <a href="../Page/延壽區.md" title="wikilink">延壽區</a>）</small></p></td>
@@ -779,8 +779,8 @@ Sulli｜朴智星、劉在錫、Gary、哈哈<br />
 <td><p>收集最多金條</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Gary" title="wikilink">Gary</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/趙正治.md" title="wikilink">趙正治</a>、<a href="../Page/鄭仁.md" title="wikilink">鄭仁</a><strong>勝出</strong><br />
 但由於趙正治、鄭仁的選擇不同<br />
-<a href="https://zh.wikipedia.org/wiki/Gary" title="wikilink">Gary</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝共獲得</a><a href="../Page/金.md" title="wikilink">金條</a>8條<br />
-<a href="../Page/趙正治.md" title="wikilink">趙正治單獨獲得</a><a href="../Page/金.md" title="wikilink">金條</a>4條</p></td>
+<a href="https://zh.wikipedia.org/wiki/Gary" title="wikilink">Gary</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>共獲得<a href="../Page/金.md" title="wikilink">金</a>條8條<br />
+<a href="../Page/趙正治.md" title="wikilink">趙正治</a>單獨獲得<a href="../Page/金.md" title="wikilink">金</a>條4條</p></td>
 </tr>
 <tr class="even">
 <td><p>128</p></td>
@@ -869,7 +869,7 @@ vs<br />
 <td><p>撲克牌點數<br />
 總和最大</p></td>
 <td><p><a href="../Page/宋智孝.md" title="wikilink">宋智孝</a><strong>勝出</strong><br />
-獲得<a href="../Page/金.md" title="wikilink">金條</a>6條</p></td>
+獲得<a href="../Page/金.md" title="wikilink">金</a>條6條</p></td>
 </tr>
 <tr class="even">
 <td><p>131</p></td>
@@ -935,7 +935,7 @@ vs<br />
 <a href="https://zh.wikipedia.org/wiki/卜是英" title="wikilink">卜是英</a>、<a href="../Page/M.I.B.md" title="wikilink">M.I.B</a>、南勝勇、<br />
 <a href="https://zh.wikipedia.org/wiki/Yura_(歌手)" title="wikilink">Yura</a>、<a href="https://zh.wikipedia.org/wiki/方珉雅" title="wikilink">珉雅</a>（<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>）<br />
 特別出演<br />
-<a href="../Page/李勳.md" title="wikilink">李勳驚喜出演</a></em></p></td>
+<a href="../Page/李勳.md" title="wikilink">李勳</a>驚喜出演</em></p></td>
 </tr>
 <tr class="odd">
 <td><p>134</p></td>
@@ -972,7 +972,7 @@ vs<br />
 <td><p>10月20日<br />
 <small>（''9月30日'）'</small></p></td>
 <td><p><a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、<a href="https://zh.wikipedia.org/wiki/IU_(歌手)" title="wikilink">IU</a></p></td>
-<td><p><a href="../Page/水原世界盃競技場.md" title="wikilink">水原世界盃競技場游泳場</a><br />
+<td><p><a href="../Page/水原世界盃競技場.md" title="wikilink">水原世界盃競技場</a>游泳場<br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/水原市.md" title="wikilink">水原市</a><br />
 <a href="../Page/八達區.md" title="wikilink">八達區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>狼與羊</strong></span><br />
@@ -1029,7 +1029,7 @@ vs<br />
 劉在錫、金鐘國、Gary、哈哈、宋智孝、李光洙、尹帝文、T.O.P、金有貞</p></td>
 <td><p>擊敗魔法師</p></td>
 <td><p>桃樂絲遠征隊<strong>勝出</strong><br />
-<a href="../Page/尹帝文.md" title="wikilink">尹帝文</a>、<a href="https://zh.wikipedia.org/wiki/T.O.P" title="wikilink">T.O.P</a>、<a href="https://zh.wikipedia.org/wiki/金有貞" title="wikilink">金有貞獲得</a><a href="../Page/金.md" title="wikilink">金戒指</a><br />
+<a href="../Page/尹帝文.md" title="wikilink">尹帝文</a>、<a href="https://zh.wikipedia.org/wiki/T.O.P" title="wikilink">T.O.P</a>、<a href="https://zh.wikipedia.org/wiki/金有貞" title="wikilink">金有貞獲得</a><a href="../Page/金.md" title="wikilink">金</a>戒指<br />
 <em><strong>註：</strong>宣傳電影《<a href="../Page/同窗生.md" title="wikilink">同窗生</a>》<br />
 本集尾段提前播放下集</em></p></td>
 </tr>
@@ -1094,7 +1094,7 @@ vs<br />
 <small>（305）</small></p></td>
 <td><p>11月24日<br />
 <small>（<em>11月13日</em>）</small></p></td>
-<td><p><a href="../Page/友利銀行.md" title="wikilink">友利銀行棒球場</a><br />
+<td><p><a href="../Page/友利銀行.md" title="wikilink">友利銀行</a>棒球場<br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/南楊州市.md" title="wikilink">南楊州市</a><br />
 ）</small></p></td>
 <td><p><span style=font-size:110%><strong>超能力棒球2013</strong></span><br />
@@ -1104,7 +1104,7 @@ vs<br />
 <a href="../Page/柳賢振.md" title="wikilink">柳賢振</a>、<a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a>、<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、<a href="https://zh.wikipedia.org/wiki/Gary" title="wikilink">Gary</a>、<a href="../Page/秀智.md" title="wikilink">秀智</a>、<a href="https://zh.wikipedia.org/wiki/申炅賢" title="wikilink">申炅賢</a></p></td>
 <td><p>擊敗其餘的隊伍</p></td>
 <td><p>賢振隊<strong>勝出</strong><br />
-每人獲得<a href="../Page/金.md" title="wikilink">金戒指</a>1個<br />
+每人獲得<a href="../Page/金.md" title="wikilink">金</a>戒指1個<br />
 <em><strong>註：</strong>本集首段承接播放上集<br />
 、特別出演</em></p></td>
 <td></td>
@@ -1129,7 +1129,7 @@ vs<br />
 <span style=color:#008000>李光洙、李昇基</span></strong></p></td>
 <td><p>猜出最終數字</p></td>
 <td><p><a href="../Page/李光洙.md" title="wikilink">李光洙</a>、<a href="../Page/李昇基.md" title="wikilink">李昇基</a><strong>勝出</strong><br />
-獲得<a href="../Page/金.md" title="wikilink">金條</a>5條'''<br />
+獲得<a href="../Page/金.md" title="wikilink">金</a>條5條'''<br />
 答案:14358</p></td>
 </tr>
 <tr class="even">
@@ -1183,7 +1183,7 @@ vs<br />
 9. <a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a><br />
 10. <a href="https://zh.wikipedia.org/wiki/Muzie" title="wikilink">Muzie</a><br />
 11. <a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a><br />
-<em><strong>註：</strong><a href="../Page/宋智孝.md" title="wikilink">宋智孝於本集以主持身份出演</a></em></p></td>
+<em><strong>註：</strong><a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>於本集以主持身份出演</em></p></td>
 </tr>
 <tr class="even">
 <td><p>142</p></td>
@@ -1232,8 +1232,7 @@ Running Ball</p></td>
 
 ## 收视率
 
-以下紀錄《**Running
-Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink")》整體收視，<span style=color:red>**紅色**</span>表示為該年度最高收視率，<span style=color:blue>**藍色**</span>則表示為該年度最低收視率。
+以下紀錄《**Running Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink")》整體收視，<span style=color:red>**紅色**</span>表示為該年度最高收視率，<span style=color:blue>**藍色**</span>則表示為該年度最低收視率。
 
 <table>
 <thead>
@@ -1603,9 +1602,7 @@ Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink
   -
   -
   -
-[Category:Running_Man](https://zh.wikipedia.org/wiki/Category:Running_Man "wikilink")
-[Category:韓國電視節目各集列表](https://zh.wikipedia.org/wiki/Category:韓國電視節目各集列表 "wikilink")
-[Category:2013年電視節目列表](https://zh.wikipedia.org/wiki/Category:2013年電視節目列表 "wikilink")
+[Category:Running_Man](https://zh.wikipedia.org/wiki/Category:Running_Man "wikilink") [Category:韓國電視節目各集列表](https://zh.wikipedia.org/wiki/Category:韓國電視節目各集列表 "wikilink") [Category:2013年電視節目列表](https://zh.wikipedia.org/wiki/Category:2013年電視節目列表 "wikilink")
 
 1.  Simon D、李起光、鄭容和、李宗泫只參演第127集。
 2.

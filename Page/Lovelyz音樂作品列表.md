@@ -229,9 +229,9 @@
 <td><p>-</p></td>
 <td><ul>
 <li>韓國：43,386+<ref>《SANCTUARY》韓國唱片銷量統計：</li>
-<li>{{cite web| url=<a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=12&amp;hitYear=2018&amp;termGbn=month%7Ctitle=（2018.12">http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=12&amp;hitYear=2018&amp;termGbn=month|title=（2018.12</a>）|publisher=South Korean Gaon Chart|language=Ko}</li>
+<li></li>
 </ul>
-<p>}</ref></p></td>
+<p></ref></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Once_Upon_a_Time_(迷你專輯).md" title="wikilink">ONCE UPON A TIME</a></p></td>
@@ -242,10 +242,10 @@
 </ul></td>
 <td><p>-</p></td>
 <td><ul>
-<li>韓國：38,757+<ref>《ONCE UPON A TIME》韓國唱片銷量統計：</li>
-<li>{{cite web| url=<a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=05&amp;hitYear=2019&amp;termGbn=month%7Ctitle=（2019.05">http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=05&amp;hitYear=2019&amp;termGbn=month|title=（2019.05</a>）|publisher=South Korean Gaon Chart|language=Ko}</li>
+<li>韓國：51,279+<ref>《ONCE UPON A TIME》韓國唱片銷量統計：</li>
+<li></li>
 </ul>
-<p>}</ref></p></td>
+<p></ref></p></td>
 </tr>
 <tr class="even">
 <td><p><small>"—" 表示該專輯/單曲未有在榜上排名或未有資料或沒有在當地發行</small></p></td>
@@ -1117,9 +1117,7 @@
 ## 外部連結
 
   -
-[Category:Lovelyz](https://zh.wikipedia.org/wiki/Category:Lovelyz "wikilink")
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
-[Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
+[Category:Lovelyz](https://zh.wikipedia.org/wiki/Category:Lovelyz "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.
 2.

@@ -1,11 +1,8 @@
-**GIRLS' GENERATION 'THE BEST LIVE' at TOKYO
-DOME**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[少女時代日本出道四周年演唱會](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。
+**GIRLS' GENERATION 'THE BEST LIVE' at TOKYO DOME**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[少女時代日本出道四周年演唱會](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。
 
 ## 概要
 
-在2014年8月25日,
-[SM娛樂宣佈少女時代將會於](../Page/SM娛樂.md "wikilink")[東京巨蛋舉行日本出道四周年演唱會](../Page/東京巨蛋.md "wikilink")。少女時代成為第二個韓國女子組合在東京巨蛋舉行個人演唱會\[1\],
-並在前成員[潔西卡退團後首次以八人姿態舉行個人演唱會](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")。
+在2014年8月25日, [SM娛樂](../Page/SM娛樂.md "wikilink")宣佈少女時代將會於[東京巨蛋](../Page/東京巨蛋.md "wikilink")舉行日本出道四周年演唱會。少女時代成為第二個韓國女子組合在東京巨蛋舉行個人演唱會\[1\], 並在前成員[潔西卡退團後首次以八人姿態舉行個人演唱會](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")。
 
 ## 巡迴時間表
 
@@ -117,8 +114,7 @@ DOME**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合]
 
 <!-- end list -->
 
-  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")
-    （[太妍](../Page/太妍.md "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[Yuri](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
+  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink") （[太妍](../Page/太妍.md "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[Yuri](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
 
 <!-- end list -->
 
@@ -126,10 +122,7 @@ DOME**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合]
 
 <!-- end list -->
 
-  - [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、[SM
-    Entertainment
-    Japan](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
+  - [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、[SM Entertainment Japan](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
 
 <!-- end list -->
 
@@ -137,14 +130,11 @@ DOME**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合]
 
 <!-- end list -->
 
-  - [Nayutawave Records](../Page/環球音樂_\(日本\).md "wikilink")、SM
-    Entertainment Japan
+  - [Nayutawave Records](../Page/環球音樂_\(日本\).md "wikilink")、SM Entertainment Japan
 
 ## 參考資料
 
-[Category:2014年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2014年巡迴演唱會 "wikilink")
-[Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink")
-[Category:少女時代巡迴演唱會](https://zh.wikipedia.org/wiki/Category:少女時代巡迴演唱會 "wikilink")
+[Category:2014年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2014年巡迴演唱會 "wikilink") [Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink") [Category:少女時代巡迴演唱會](https://zh.wikipedia.org/wiki/Category:少女時代巡迴演唱會 "wikilink")
 
 1.
 2.

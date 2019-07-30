@@ -21,13 +21,7 @@
 
 \]=\]--
 
-local z = {} local HTMLTAGS = {'b', '\[Bb\]\[Ii\]\[Gg\]', 'blockquote',
-'br', 'caption', 'center', 'code', 'del', 'div', 'em', 'font', 'i',
-'kbd', 'mark', 'p', 'q', 'rp', 'rt', 'ruby', 's', 'small', 'span',
-'strong', 'sub', 'sup', 'time', 'tt', 'B', 'BLOCKQUOTE', 'BR',
-'CAPTION', 'CENTER', 'CODE', 'DEL', 'DIV', 'EM', 'FONT', 'I', 'KBD',
-'MARK', 'P', 'Q', 'RP', 'RT', 'RUBY', 'S', 'SMALL', 'SPAN', 'STRONG',
-'SUB', 'SUP', 'TIME', 'TT' }
+local z = {} local HTMLTAGS = {'b', '\[Bb\]\[Ii\]\[Gg\]', 'blockquote', 'br', 'caption', 'center', 'code', 'del', 'div', 'em', 'font', 'i', 'kbd', 'mark', 'p', 'q', 'rp', 'rt', 'ruby', 's', 'small', 'span', 'strong', 'sub', 'sup', 'time', 'tt', 'B', 'BLOCKQUOTE', 'BR', 'CAPTION', 'CENTER', 'CODE', 'DEL', 'DIV', 'EM', 'FONT', 'I', 'KBD', 'MARK', 'P', 'Q', 'RP', 'RT', 'RUBY', 'S', 'SMALL', 'SPAN', 'STRONG', 'SUB', 'SUP', 'TIME', 'TT' }
 
 function getCandidates( frame )
 
@@ -137,8 +131,7 @@ end --便于其他模块借用此函数 function z.list( frame )
 `           anchorno[title] = (anchorno[title] or 0) + 1`
 `           local postfix = (anchorno[title] > 1 and '_' .. anchorno[title]) or ''`
 
-`           list[i] = '`[`'``   ``..``   ``title``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/:'_.._linkprefix_.._string.gsub\(title,_'&',_'&'\)_.._postfix_.._' "wikilink")`'`
+`           list[i] = '`[`'``   ``..``   ``title``   ``..``   ``'`](https://zh.wikipedia.org/wiki/:'_.._linkprefix_.._string.gsub\(title,_'&',_'&'\)_.._postfix_.._' "wikilink")`'`
 `       else`
 `           list[i] = '[[:'_.._list[i]_.._'|:' .. list[i] .. ']]'`
 `       end`
@@ -154,7 +147,7 @@ end
 function z.listtalk( frame )
 
 `   -- 假设!`
-`   frame.args.pattern = '\n==([^=][^\n]-)==\n'`
+`   frame.args.pattern = '\n==([^=][^\n]-)== -\n'`
 `   if frame.args[1] and not frame.args.title then`
 `       frame.args.title = frame.args[1]`
 `   end`

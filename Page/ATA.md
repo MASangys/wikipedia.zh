@@ -28,7 +28,7 @@
 
 ## 地方
 
-  - [南极洲的ISO](../Page/南极洲.md "wikilink") 3166-1 alpha-3 代碼
+  - [南极洲](../Page/南极洲.md "wikilink")的ISO 3166-1 alpha-3 代碼
   - [阿陶](https://zh.wikipedia.org/wiki/阿陶 "wikilink")（），一個匈牙利村莊
   - [阿塔島](https://zh.wikipedia.org/wiki/阿塔島 "wikilink")（ʻAta），東加的最南端島嶼
 
@@ -36,8 +36,7 @@
 
   - （），1973年至2008年的美國航空公司
 
-  - [ATA航空
-    (伊朗)](../Page/ATA航空_\(伊朗\).md "wikilink")（），2009年成立於伊朗大不里士的航空公司
+  - [ATA航空 (伊朗)](../Page/ATA航空_\(伊朗\).md "wikilink")（），2009年成立於伊朗大不里士的航空公司
 
 ## 參見
 

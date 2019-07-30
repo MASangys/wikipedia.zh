@@ -1,11 +1,6 @@
-[右](https://zh.wikipedia.org/wiki/File:GVRD_Electoral_A.svg "fig:右")
-**大温A选区**是[卑诗省](https://zh.wikipedia.org/wiki/卑诗省 "wikilink")[大温地区的一部分](https://zh.wikipedia.org/wiki/大温地区 "wikilink")。
-它包括： [大学保留地](https://zh.wikipedia.org/wiki/大学保留地 "wikilink") 和
-[卑诗大学](https://zh.wikipedia.org/wiki/卑诗大学 "wikilink")、[温哥华市西部](https://zh.wikipedia.org/wiki/温哥华市 "wikilink");
-鲍耶岛, 通道岛屿和 Barnston 群岛；皮特湖西侧； 印地湾北部；以及主要是山区、人口稀少的北海岸。
+[右](https://zh.wikipedia.org/wiki/File:GVRD_Electoral_A.svg "fig:右") **大温A选区**是[卑诗省](https://zh.wikipedia.org/wiki/卑诗省 "wikilink")[大温地区的一部分](https://zh.wikipedia.org/wiki/大温地区 "wikilink")。 它包括： [大学保留地](https://zh.wikipedia.org/wiki/大学保留地 "wikilink") 和 [卑诗大学](https://zh.wikipedia.org/wiki/卑诗大学 "wikilink")、[温哥华市西部](https://zh.wikipedia.org/wiki/温哥华市 "wikilink"); 鲍耶岛, 通道岛屿和 Barnston 群岛；皮特湖西侧； 印地湾北部；以及主要是山区、人口稀少的北海岸。
 
-该地区由[大温区域局董事会的一名主任管理](https://zh.wikipedia.org/wiki/大温区域局 "wikilink")。
-这是一个民选职位，任期4年(上次选举是2014年)。 现任主任玛丽亚哈里斯，任期为2014年至2018年。\[1\]
+该地区由[大温区域局董事会的一名主任管理](https://zh.wikipedia.org/wiki/大温区域局 "wikilink")。 这是一个民选职位，任期4年(上次选举是2014年)。 现任主任玛丽亚哈里斯，任期为2014年至2018年。\[1\]
 
 ## 社区
 

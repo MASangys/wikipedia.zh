@@ -1,5 +1,4 @@
-《**SPACE
-SQUAD**》（）是2017年6月17日上映的[錄影帶首映故事作品](https://zh.wikipedia.org/wiki/錄影帶首映 "wikilink")。
+《**SPACE SQUAD**》（）是2017年6月17日上映的[錄影帶首映故事作品](https://zh.wikipedia.org/wiki/錄影帶首映 "wikilink")。
 
 ## 概要
 
@@ -12,8 +11,7 @@ SQUAD**》（）是2017年6月17日上映的[錄影帶首映故事作品](https:
 
 究極的英雄團隊組合\! 站出來，傳說的英雄們\!\! 宇宙刑事XS.P.D 夢幻的合作搜查\!
 
-宇宙刑事卡邦。特搜戰隊刑事連者。在地球上，守護著宇宙的和平的2大英雄首次相會，全新的英雄傳說在此開幕。『SPACE
-SQUAD』系列就此誕生。來自大宇宙的巨大犯罪組織，邪教團・幻魔空界。在其恐怖的陰謀之前，第二代卡邦與刑事連者站出來與其對抗。
+宇宙刑事卡邦。特搜戰隊刑事連者。在地球上，守護著宇宙的和平的2大英雄首次相會，全新的英雄傳說在此開幕。『SPACE SQUAD』系列就此誕生。來自大宇宙的巨大犯罪組織，邪教團・幻魔空界。在其恐怖的陰謀之前，第二代卡邦與刑事連者站出來與其對抗。
 
 但是，在那等待他們的，卻是超乎想像的敵人的陷阱....
 
@@ -23,31 +21,31 @@ SQUAD』系列就此誕生。來自大宇宙的巨大犯罪組織，邪教團・
 
   -
 
-**赤座伴番**（）<small>（[載寧龍二飾](../Page/載寧龍二.md "wikilink")）</small>
+**赤座伴番**（）<small>（[載寧龍二](../Page/載寧龍二.md "wikilink")飾）</small>
 
   -
 
-**戶增寶兒**（）<small>（[林剛史飾](../Page/林剛史.md "wikilink")）</small>
+**戶增寶兒**（）<small>（[林剛史](../Page/林剛史.md "wikilink")飾）</small>
 
   -
 
-**江成仙一**（）<small>（[伊藤陽佑飾](../Page/伊藤陽佑.md "wikilink")）</small>
+**江成仙一**（）<small>（[伊藤陽佑](../Page/伊藤陽佑.md "wikilink")飾）</small>
 
   -
 
-**日渡茉莉花**（）<small>（[木下亞由美飾](../Page/木下亞由美.md "wikilink")）</small>
+**日渡茉莉花**（）<small>（[木下亞由美](../Page/木下亞由美.md "wikilink")飾）</small>
 
   -
 
-**胡堂小梅**（）<small>（[菊地美香飾](../Page/菊地美香.md "wikilink")）</small>
+**胡堂小梅**（）<small>（[菊地美香](../Page/菊地美香.md "wikilink")飾）</small>
 
   -
 
-**姶良鐵幹**（）<small>（[吉田友一飾](../Page/吉田友一.md "wikilink")）</small>
+**姶良鐵幹**（）<small>（[吉田友一](../Page/吉田友一.md "wikilink")飾）</small>
 
   -
 
-**雪莉**（）<small>（[森田涼花飾](../Page/森田涼花.md "wikilink")）</small>
+**雪莉**（）<small>（[森田涼花](../Page/森田涼花.md "wikilink")飾）</small>
 
   -
 
@@ -55,7 +53,7 @@ SQUAD』系列就此誕生。來自大宇宙的巨大犯罪組織，邪教團・
 
   -
 
-**紅牙**（）<small>（[原幹惠飾](../Page/原幹惠.md "wikilink")）</small>
+**紅牙**（）<small>（[原幹惠](../Page/原幹惠.md "wikilink")飾）</small>
 
   -
 
@@ -63,7 +61,7 @@ SQUAD』系列就此誕生。來自大宇宙的巨大犯罪組織，邪教團・
 
   -
 
-**白鳥天鵝**（）<small>（[石野真子飾](../Page/石野真子.md "wikilink")）</small>
+**白鳥天鵝**（）<small>（[石野真子](../Page/石野真子.md "wikilink")飾）</small>
 
   -
 
@@ -95,27 +93,26 @@ SQUAD』系列就此誕生。來自大宇宙的巨大犯罪組織，邪教團・
 
 男性禁制！僅限超級女英雄！夢幻的性感女孩作戰！
 
-刑事連者的一對天使，茉莉花&梅子。以及宇宙刑事們仰賴的搭檔，雪莉&絲絲&塔米。這些超級女英雄們齊聚一起的原因，到底是為何呢！？「SPACE
-SQUAD 卡邦 VS 刑事連者」的前日談描述。
+刑事連者的一對天使，茉莉花&梅子。以及宇宙刑事們仰賴的搭檔，雪莉&絲絲&塔米。這些超級女英雄們齊聚一起的原因，到底是為何呢！？「SPACE SQUAD 卡邦 VS 刑事連者」的前日談描述。
 
 ### 登場角色
 
-**日渡茉莉花**（）<small>（[木下亞由美飾](../Page/木下亞由美.md "wikilink")）</small>
+**日渡茉莉花**（）<small>（[木下亞由美](../Page/木下亞由美.md "wikilink")飾）</small>
 
   -
     特搜戰隊 刑事黃,已婚
 
-**胡堂小梅**（）<small>（[菊地美香飾](../Page/菊地美香.md "wikilink")）</small>
+**胡堂小梅**（）<small>（[菊地美香](../Page/菊地美香.md "wikilink")飾）</small>
 
   -
     特搜戰隊 刑事粉紅 將要與刑事綠 江成仙一步入禮堂
 
-**雪莉**（）<small>（[森田涼花飾](../Page/森田涼花.md "wikilink")）</small>
+**雪莉**（）<small>（[森田涼花](../Page/森田涼花.md "wikilink")飾）</small>
 
   -
     宇宙刑事 賈邦的搭檔
 
-**絲絲**（）<small>（[桃瀨美咲飾](../Page/桃瀨美咲.md "wikilink")）</small>
+**絲絲**（）<small>（[桃瀨美咲](../Page/桃瀨美咲.md "wikilink")飾）</small>
 
   -
     宇宙刑事 雪裏邦的搭檔
@@ -134,7 +131,7 @@ SQUAD 卡邦 VS 刑事連者」的前日談描述。
 
   -
 
-**紅牙**（）<small>（[原幹惠飾](../Page/原幹惠.md "wikilink")）</small>
+**紅牙**（）<small>（[原幹惠](../Page/原幹惠.md "wikilink")飾）</small>
 
   -
     宇宙忍者
@@ -162,20 +159,17 @@ SQUAD 卡邦 VS 刑事連者」的前日談描述。
 ## 『宇宙戰隊九連者 VS SPACE SQUAD 』
 
   -
-    『SPACE
-    SQUAD』系列第三彈，與《[宇宙戰隊九連者](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")》的聯動作品，亦是《[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")》歸來聯動篇（V-ciNext）的第1彈作品，預定於2018年8月8日發賣。
+    『SPACE SQUAD』系列第三彈，與《[宇宙戰隊九連者](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")》的聯動作品，亦是《[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")》歸來聯動篇（V-ciNext）的第1彈作品，預定於2018年8月8日發賣。
 
 ### 故事概要
 
 「九連者，決别！」，「超級戰隊史上首次歸來聯動篇，正式開啟！」
 
-宇宙幕府Jerk Matter全軍覆沒的4年後，「Hammy /
-蝘蜓綠」不知何故地發動叛變，還盗取了由反抗軍Rebellion所開發的「新球玉」。
+宇宙幕府Jerk Matter全軍覆沒的4年後，「Hammy / 蝘蜓綠」不知何故地發動叛變，還盗取了由反抗軍Rebellion所開發的「新球玉」。
 
 後段証實哈米因師傅遭綁架,聽命於戴蒙斯特盜取新球玉
 
-宇宙聯邦的大統領——「鳳劍岳 / 鳳凰士兵」驚覺她有不良居心而對其發布通缉令，突然，「Lucky /
-獅子紅」與部分戰友，為Hammy之事與其產生對立，還一度引發爭鬥。
+宇宙聯邦的大統領——「鳳劍岳 / 鳳凰士兵」驚覺她有不良居心而對其發布通缉令，突然，「Lucky / 獅子紅」與部分戰友，為Hammy之事與其產生對立，還一度引發爭鬥。
 
 就在此時，兩名宇宙刑事——「十文字擊 / 卡邦」和「鳥丸舟 / 夏利班」前来缓解糾紛，然而這一切，似乎暗藏著一個未知的阴謀.......
 
@@ -183,31 +177,31 @@ SQUAD 卡邦 VS 刑事連者」的前日談描述。
 
 #### 宇宙戰隊九連者
 
-**Lucky**（）<small>（[岐洲匠飾](../Page/岐洲匠.md "wikilink")）</small>
+**Lucky**（）<small>（[岐洲匠](../Page/岐洲匠.md "wikilink")飾）</small>
 
   -
 
-**Stinger**（）<small>（[岸洋佑飾](../Page/岸洋佑.md "wikilink")）</small>
+**Stinger**（）<small>（[岸洋佑](../Page/岸洋佑.md "wikilink")飾）</small>
 
   -
 
-**Garu**（）<small>（[中井和哉聲](../Page/中井和哉.md "wikilink")）</small>
+**Garu**（）<small>（[中井和哉](../Page/中井和哉.md "wikilink")聲）</small>
 
   -
 
-**Balance**（）<small>（[小野友樹聲](../Page/小野友樹.md "wikilink")）</small>
+**Balance**（）<small>（[小野友樹](../Page/小野友樹.md "wikilink")聲）</small>
 
   -
 
-**Champ**（）<small>（[大塚明夫聲](../Page/大塚明夫.md "wikilink")）</small>
+**Champ**（）<small>（[大塚明夫](../Page/大塚明夫.md "wikilink")聲）</small>
 
   -
 
-**Naga・Ray**（）<small>（[山崎大輝飾](../Page/山崎大輝.md "wikilink")）</small>
+**Naga・Ray**（）<small>（[山崎大輝](../Page/山崎大輝.md "wikilink")飾）</small>
 
   -
 
-**Hammy**（）<small>（[大久保櫻子飾](../Page/大久保櫻子.md "wikilink")）</small>
+**Hammy**（）<small>（[大久保櫻子](../Page/大久保櫻子.md "wikilink")飾）</small>
 
   -
 
@@ -215,11 +209,11 @@ SQUAD 卡邦 VS 刑事連者」的前日談描述。
 
   -
 
-**Spada**（）<small>（[榊原徹士飾](../Page/榊原徹士.md "wikilink")）</small>
+**Spada**（）<small>（[榊原徹士](../Page/榊原徹士.md "wikilink")飾）</small>
 
   -
 
-**蕭·龍波**（）<small>（[神谷浩史聲](../Page/神谷浩史.md "wikilink")）</small>
+**蕭·龍波**（）<small>（[神谷浩史](../Page/神谷浩史.md "wikilink")聲）</small>
 
   -
 
@@ -237,47 +231,37 @@ SQUAD 卡邦 VS 刑事連者」的前日談描述。
 
   -
 
-**烏丸舟**（）<small>（[岩永洋昭飾](../Page/岩永洋昭.md "wikilink")）</small>
+**烏丸舟**（）<small>（[岩永洋昭](../Page/岩永洋昭.md "wikilink")飾）</small>
 
   -
 
 #### 其他角色
 
-**Roi**（）<small>（[出合正幸飾](../Page/出合正幸.md "wikilink")）</small>
+**Roi**（）<small>（[出合正幸](../Page/出合正幸.md "wikilink")飾）</small>
 
   -
     鳳劍岳手下的大統領輔佐官之一。
-    出合正幸曾在《[轟轟戰隊冒險者](../Page/轟轟戰隊冒險者.md "wikilink")》中飾演高丘映士 /
-    冒險銀、《[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")》中飾演鐵碎
-    / 津古內真也 /
-    強龍灰及《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》的劇場版《[假面騎士W
-    Forever A至Z/命運的Gaia
-    Memory](https://zh.wikipedia.org/wiki/假面騎士W_Forever_A至Z/命運的Gaia_Memory "wikilink")》及外傳《[假面騎士W
-    RETURNS](https://zh.wikipedia.org/wiki/假面騎士W_RETURNS "wikilink")》中飾演蘆原賢。
+    出合正幸曾在《[轟轟戰隊冒險者](../Page/轟轟戰隊冒險者.md "wikilink")》中飾演高丘映士 / 冒險銀、《[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")》中飾演鐵碎 / 津古內真也 / 強龍灰及《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》的劇場版《[假面騎士W Forever A至Z/命運的Gaia Memory](https://zh.wikipedia.org/wiki/假面騎士W_Forever_A至Z/命運的Gaia_Memory "wikilink")》及外傳《[假面騎士W RETURNS](https://zh.wikipedia.org/wiki/假面騎士W_RETURNS "wikilink")》中飾演蘆原賢。
 
-**鳴瀬紀美子**（）<small>（[高山侑子飾](../Page/高山侑子.md "wikilink")）</small>
+**鳴瀬紀美子**（）<small>（[高山侑子](../Page/高山侑子.md "wikilink")飾）</small>
 
   -
     鳳劍岳手下的大統領輔佐官之一。
-    高山侑子曾在《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》中飾演大門凜子及《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》的劇場版《[劇場版
-    假面騎士Ghost
-    100個眼魂與Ghost命運的瞬間](https://zh.wikipedia.org/wiki/劇場版_假面騎士Ghost_100個眼魂與Ghost命運的瞬間 "wikilink")》中飾演捷伊
-    / 假面騎士Dark Necrom Y。
+    高山侑子曾在《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》中飾演大門凜子及《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》的劇場版《[劇場版 假面騎士Ghost 100個眼魂與Ghost命運的瞬間](https://zh.wikipedia.org/wiki/劇場版_假面騎士Ghost_100個眼魂與Ghost命運的瞬間 "wikilink")》中飾演捷伊 / 假面騎士Dark Necrom Y。
 
 **鶴菊**（）<small>（[廣瀨仁美飾](https://zh.wikipedia.org/wiki/廣瀨仁美 "wikilink")）</small>
 
   -
     本作的關鍵人物。哈米的師父
-    廣瀨仁美曾在《[忍者戰隊隱連者](../Page/忍者戰隊隱連者.md "wikilink")》中飾演鶴姬 /
-    忍者白及《[天裝戰隊護星者](https://zh.wikipedia.org/wiki/天裝戰隊護星者 "wikilink")》中客串飾演田村今日子。
+    廣瀨仁美曾在《[忍者戰隊隱連者](../Page/忍者戰隊隱連者.md "wikilink")》中飾演鶴姬 / 忍者白及《[天裝戰隊護星者](https://zh.wikipedia.org/wiki/天裝戰隊護星者 "wikilink")》中客串飾演田村今日子。
 
-**理央**（）<small>（[荒木宏文飾](../Page/荒木宏文.md "wikilink")）</small>
+**理央**（）<small>（[荒木宏文](../Page/荒木宏文.md "wikilink")飾）</small>
 
   -
     《[獸拳戰隊激氣連者](../Page/獸拳戰隊激氣連者.md "wikilink")》登場的的惡役「臨獸拳」成員之一，於該作中後期洗白並協助激氣連者陣營，故此於《[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")》時期獲歸類為超級戰隊戰士之一。
     於本篇中只以梅麗的回憶片段登場。
 
-**露卡・米爾菲**<small>（[市道真央飾](../Page/市道真央.md "wikilink")）</small>
+**露卡・米爾菲**<small>（[市道真央](../Page/市道真央.md "wikilink")飾）</small>
 
   -
     豪快者的豪快黃，因為不明原因來到九連者的宇宙，並來到了Spada的餐廳吃飯。
@@ -300,11 +284,10 @@ SQUAD 卡邦 VS 刑事連者」的前日談描述。
   -
     《[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")》登場的第三勢力「私掠船」船長，「想要得到些什麼，就必須放棄掉些什麼」為其信條，使用武器為一把可作斬擊的手槍。
 
-**Escape／艾司凱貝**（）<small>（[水崎綾女飾](../Page/水崎綾女.md "wikilink")）</small>
+**Escape／艾司凱貝**（）<small>（[水崎綾女](../Page/水崎綾女.md "wikilink")飾）</small>
 
   -
-    《[特命戰隊Go
-    Busters](../Page/特命戰隊Go_Busters.md "wikilink")》登場的惡役「Vaglass」成員之一，對「強者」和「好東西」有著欣賞的概念，使用武器為一對分別名為「Gog」及「Magog」的手槍。
+    《[特命戰隊Go Busters](../Page/特命戰隊Go_Busters.md "wikilink")》登場的惡役「Vaglass」成員之一，對「強者」和「好東西」有著欣賞的概念，使用武器為一對分別名為「Gog」及「Magog」的手槍。
 
 **梅麗**（）<small>（[平田裕香飾](https://zh.wikipedia.org/wiki/平田裕香 "wikilink")）</small>
 
@@ -410,11 +393,7 @@ SQUAD 卡邦 VS 刑事連者」的前日談描述。
 ## 外部連結
 
   -
-[Category:2017年日本剧场动画](https://zh.wikipedia.org/wiki/Category:2017年日本剧场动画 "wikilink")
-[Category:日本电影作品](https://zh.wikipedia.org/wiki/Category:日本电影作品 "wikilink")
-[Category:日语电影](https://zh.wikipedia.org/wiki/Category:日语电影 "wikilink")
-[Category:宇宙刑事系列電影作品](https://zh.wikipedia.org/wiki/Category:宇宙刑事系列電影作品 "wikilink")
-[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")
+[Category:2017年日本剧场动画](https://zh.wikipedia.org/wiki/Category:2017年日本剧场动画 "wikilink") [Category:日本电影作品](https://zh.wikipedia.org/wiki/Category:日本电影作品 "wikilink") [Category:日语电影](https://zh.wikipedia.org/wiki/Category:日语电影 "wikilink") [Category:宇宙刑事系列電影作品](https://zh.wikipedia.org/wiki/Category:宇宙刑事系列電影作品 "wikilink") [Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")
 
 1.
 

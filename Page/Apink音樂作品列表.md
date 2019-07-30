@@ -1108,7 +1108,7 @@ OT: Do or Die (English Ver.)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年10月21日</p></td>
-<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC綜藝</a>《<a href="../Page/Two_Yoo_Project_-_Sugar_Man.md" title="wikilink">Two Yoo Project - Sugar Man</a>》</p></td>
+<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a>綜藝《<a href="../Page/Two_Yoo_Project_-_Sugar_Man.md" title="wikilink">Two Yoo Project - Sugar Man</a>》</p></td>
 <td><p>《Two Yoo Project - Sugar Man OST Part 1》</p></td>
 <td><p>忘了嗎</p></td>
 <td><p>尹普美、金南珠</p></td>
@@ -1137,7 +1137,7 @@ OA: </p></td>
 <td><p>《Two Yoo Project - Sugar Man OST Part 33》</p></td>
 <td><p>SWEETY</p></td>
 <td><p>尹普美</p></td>
-<td><p>與（）、（S#arp）、<br />
+<td><p>與（）、（S#arp）、<a href="../Page/DinDin.md" title="wikilink">DinDin</a><br />
 OA: S#arp</p></td>
 </tr>
 <tr class="odd">
@@ -1159,7 +1159,7 @@ OA: </p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年2月25日</p></td>
-<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC劇集</a>《<a href="../Page/大力女子都奉順.md" title="wikilink">大力女子都奉順</a>》</p></td>
+<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a>劇集《<a href="../Page/大力女子都奉順.md" title="wikilink">大力女子都奉順</a>》</p></td>
 <td><p>《大力女子都奉順OST Part 1》</p></td>
 <td><p>你這座莊園（+Inst.）</p></td>
 <td></td>
@@ -1174,7 +1174,7 @@ OA: </p></td>
 <td><p>以<a href="../Page/Apink_BnN.md" title="wikilink">Apink BnN名義</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>2017年5月2日</p></td>
+<td><p>2018年5月2日</p></td>
 <td><p>KBS劇集《<a href="https://zh.wikipedia.org/wiki/Suits" title="wikilink">Suits</a>》</p></td>
 <td><p>《Suits OST Part 2》</p></td>
 <td><p>風吹的話（+Inst.）</p></td>
@@ -1307,9 +1307,7 @@ OA: <a href="https://zh.wikipedia.org/wiki/Kona" title="wikilink">Kona</a></p></
 
 ## 參考資料
 
-[Category:Apink](https://zh.wikipedia.org/wiki/Category:Apink "wikilink")
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
-[Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
+[Category:Apink](https://zh.wikipedia.org/wiki/Category:Apink "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.
 2.

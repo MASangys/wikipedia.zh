@@ -1,4 +1,4 @@
-《ARISA》是[安藤夏美的日本](../Page/安藤夏美.md "wikilink")[少女漫画作品](../Page/少女漫画.md "wikilink")。Nakayoshi（讲谈社）从2009年2月号到2012年9月号间连载，双胞胎交换身份题材的悬疑作品。全12卷。
+《ARISA》是[安藤夏美](../Page/安藤夏美.md "wikilink")的日本[少女漫画](../Page/少女漫画.md "wikilink")作品。Nakayoshi（讲谈社）从2009年2月号到2012年9月号间连载，双胞胎交换身份题材的悬疑作品。全12卷。
 
 ## 梗概
 
@@ -38,11 +38,4 @@
 
 ## 外部連結
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink")
-[Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink")
-[Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink")
-[Category:雙胞胎題材漫畫](https://zh.wikipedia.org/wiki/Category:雙胞胎題材漫畫 "wikilink")
-[Category:交換身分題材漫畫](https://zh.wikipedia.org/wiki/Category:交換身分題材漫畫 "wikilink")
-[Category:中學背景漫畫](https://zh.wikipedia.org/wiki/Category:中學背景漫畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink") [Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink") [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink") [Category:雙胞胎題材漫畫](https://zh.wikipedia.org/wiki/Category:雙胞胎題材漫畫 "wikilink") [Category:交換身分題材漫畫](https://zh.wikipedia.org/wiki/Category:交換身分題材漫畫 "wikilink") [Category:中學背景漫畫](https://zh.wikipedia.org/wiki/Category:中學背景漫畫 "wikilink")

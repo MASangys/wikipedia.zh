@@ -1,6 +1,4 @@
-《**-{zh-hans:Black; zh-tw:Black;
-zh-hk:陰間使者}-**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN於](https://zh.wikipedia.org/wiki/OCN "wikilink")2017年10月14日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original
-Series），由《[Voice](../Page/Voice.md "wikilink")》金弘善導演執導與《[神的禮物－14天](https://zh.wikipedia.org/wiki/神的禮物－14天 "wikilink")》[崔蘭作家合作打造](https://zh.wikipedia.org/wiki/崔蘭_\(編劇\) "wikilink")。此劇講述附身在警察身上的地獄使者，愛上人類女孩的故事\[1\]\[2\]。台灣由[Netflix（網飛）台灣](https://www.netflix.com/tw/)播出。
+《**-{zh-hans:Black; zh-tw:Black; zh-hk:陰間使者}-**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN於](https://zh.wikipedia.org/wiki/OCN "wikilink")2017年10月14日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original Series），由《[Voice](../Page/Voice.md "wikilink")》金弘善導演執導與《[神的禮物－14天](https://zh.wikipedia.org/wiki/神的禮物－14天 "wikilink")》[崔蘭作家合作打造](https://zh.wikipedia.org/wiki/崔蘭_\(編劇\) "wikilink")。此劇講述附身在警察身上的地獄使者，愛上人類女孩的故事\[1\]\[2\]。台灣由[Netflix（網飛）台灣](https://www.netflix.com/tw/)播出。
 
 ## 演員陣容
 
@@ -455,8 +453,7 @@ Series），由《[Voice](../Page/Voice.md "wikilink")》金弘善導演執導�
 
 ### 記事
 
-  - 西元前57年建立的[武珍郡](https://zh.wikipedia.org/wiki/武珍郡 "wikilink")，現為[光州廣域市](../Page/光州廣域市.md "wikilink")。因此光州廣域市的舊名稱之一就是「武珍」。「武珍市」TSKS
-    翻譯為「武鎮市」，而[武鎮為中國大陸地名](https://zh.wikipedia.org/wiki/武鎮 "wikilink")。
+  - 西元前57年建立的[武珍郡](https://zh.wikipedia.org/wiki/武珍郡 "wikilink")，現為[光州廣域市](../Page/光州廣域市.md "wikilink")。因此光州廣域市的舊名稱之一就是「武珍」。「武珍市」TSKS 翻譯為「武鎮市」，而[武鎮為中國大陸地名](https://zh.wikipedia.org/wiki/武鎮 "wikilink")。
   - 「武珍市」與韓國電影《[熔爐](https://zh.wikipedia.org/wiki/熔爐_\(電影\) "wikilink")》、韓國電視劇《[神的禮物－14天](https://zh.wikipedia.org/wiki/神的禮物－14天 "wikilink")》中的「」韓文都是「무진시」，是作家筆下的虛構地名。
   - 武珍「時代購物超市」倒塌事件影射1995年真實發生過的「[三豐百貨店倒塌事故](../Page/三豐百貨店倒塌事故.md "wikilink")」。
 
@@ -638,35 +635,26 @@ Series），由《[Voice](../Page/Voice.md "wikilink")》金弘善導演執導�
 
 **週六時段劇集**
 
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [週末連續劇](../Page/SBS週末連續劇.md "wikilink")：《[姐姐風采依舊](../Page/姐姐風采依舊.md "wikilink")》、《[Bravo
-    My Life](../Page/Bravo_My_Life.md "wikilink")》
-  - [MBC](../Page/文化廣播公司.md "wikilink")
-    [週末連續劇](../Page/MBC週末連續劇.md "wikilink")：《[擺飯桌的男人](../Page/擺飯桌的男人.md "wikilink")》
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink") [週末連續劇](../Page/SBS週末連續劇.md "wikilink")：《[姐姐風采依舊](../Page/姐姐風采依舊.md "wikilink")》、《[Bravo My Life](../Page/Bravo_My_Life.md "wikilink")》
+  - [MBC](../Page/文化廣播公司.md "wikilink") [週末連續劇](../Page/MBC週末連續劇.md "wikilink")：《[擺飯桌的男人](../Page/擺飯桌的男人.md "wikilink")》
     \- 2017年10月21日 & 11月4日
-  - [MBC](../Page/文化廣播公司.md "wikilink")
-    [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：《[金錢之花](https://zh.wikipedia.org/wiki/金錢之花 "wikilink")》
+  - [MBC](../Page/文化廣播公司.md "wikilink") [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：《[金錢之花](https://zh.wikipedia.org/wiki/金錢之花 "wikilink")》
 
 **週末時段劇集**
 
-  - [MBC](../Page/文化廣播公司.md "wikilink")
-    [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：《[小偷傢伙，小偷大人](../Page/小偷傢伙，小偷大人.md "wikilink")》
+  - [MBC](../Page/文化廣播公司.md "wikilink") [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：《[小偷傢伙，小偷大人](../Page/小偷傢伙，小偷大人.md "wikilink")》
 
 **週日時段劇集**
 
-  - [MBC](../Page/文化廣播公司.md "wikilink")
-    [週末連續劇](../Page/MBC週末連續劇.md "wikilink")：《[擺飯桌的男人](../Page/擺飯桌的男人.md "wikilink")》
+  - [MBC](../Page/文化廣播公司.md "wikilink") [週末連續劇](../Page/MBC週末連續劇.md "wikilink")：《[擺飯桌的男人](../Page/擺飯桌的男人.md "wikilink")》
     \- 始於2017年11月12日
 
 ### 同一劇集時段作品
 
-  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
-    [週末連續劇](../Page/KBS週末連續劇.md "wikilink")：《[我的黃金光輝人生](../Page/我的黃金光輝人生.md "wikilink")》
-  - [MBC](../Page/文化廣播公司.md "wikilink")
-    [週末連續劇](../Page/MBC週末連續劇.md "wikilink")：《[擺飯桌的男人](../Page/擺飯桌的男人.md "wikilink")》
+  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") [週末連續劇](../Page/KBS週末連續劇.md "wikilink")：《[我的黃金光輝人生](../Page/我的黃金光輝人生.md "wikilink")》
+  - [MBC](../Page/文化廣播公司.md "wikilink") [週末連續劇](../Page/MBC週末連續劇.md "wikilink")：《[擺飯桌的男人](../Page/擺飯桌的男人.md "wikilink")》
     截至2017年10月15日
-  - [tvN](../Page/TVN.md "wikilink")
-    [週末連續劇](../Page/TvN週末連續劇.md "wikilink")：《[卞赫的愛情](../Page/卞赫的愛情.md "wikilink")》、《[世上最美麗的離別](../Page/世上最美麗的離別_\(2017年電視劇\).md "wikilink")》
+  - [tvN](../Page/TVN.md "wikilink") [週末連續劇](../Page/TvN週末連續劇.md "wikilink")：《[卞赫的愛情](../Page/卞赫的愛情.md "wikilink")》、《[世上最美麗的離別](../Page/世上最美麗的離別_\(2017年電視劇\).md "wikilink")》
 
 ## 參考資料
 
@@ -674,21 +662,11 @@ Series），由《[Voice](../Page/Voice.md "wikilink")》金弘善導演執導�
 
   - [韓國OCN官方網站](http://program.tving.com/ocn/black)
 
-[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink")
-[Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink")
-[Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink")
-[Category:附身題材作品](https://zh.wikipedia.org/wiki/Category:附身題材作品 "wikilink")
-[Category:身體交換題材電視劇](https://zh.wikipedia.org/wiki/Category:身體交換題材電視劇 "wikilink")
-[Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink")
-[Category:奇幻愛情電視劇](https://zh.wikipedia.org/wiki/Category:奇幻愛情電視劇 "wikilink")
-[Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
+[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink") [Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink") [Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink") [Category:附身題材作品](https://zh.wikipedia.org/wiki/Category:附身題材作品 "wikilink") [Category:身體交換題材電視劇](https://zh.wikipedia.org/wiki/Category:身體交換題材電視劇 "wikilink") [Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink") [Category:奇幻愛情電視劇](https://zh.wikipedia.org/wiki/Category:奇幻愛情電視劇 "wikilink") [Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
 
 1.  [地獄使者+人類女孩+富二代！金桐俊確定出演OCN新劇《Black》攜手宋承憲、金所炫](https://www.koreastardaily.com/tc/news/96576)，21-07-2017，韓星網
 2.  [OCN新劇《Black》是陰間使者尋找心愛女人的故事！你希望誰來演呢？](http://www.koreastardaily.com/tc/news/94460)，14-05-2017，韓星網
 3.  第三集中，住民登錄證(身分證)顯示為姜廈濫，參見[姜廈濫身份証截圖](https://imgur.com/8Qqe5Kr)。
 4.  [AGB尼爾森官網](http://www.nielsenkorea.co.kr/tv_terrestrial_day.asp?menu=Tit_1&sub_menu=3_1)
-
-5.  [케이블 일일시청률
-    Daum](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
-6.  [블랙
-    Naver](https://m.search.naver.com/search.naver?sm=mtb_hty.top&where=m&query=%EB%B8%94%EB%9E%99&oquery=%EB%B3%80%ED%98%81%EC%9D%98+%EC%82%AC%EB%9E%91&tqi=TlmkdlpySAsssc1DTUdssssssB4-058938&tab=변혁의+사랑)
+5.  [케이블 일일시청률 Daum](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
+6.  [블랙 Naver](https://m.search.naver.com/search.naver?sm=mtb_hty.top&where=m&query=%EB%B8%94%EB%9E%99&oquery=%EB%B3%80%ED%98%81%EC%9D%98+%EC%82%AC%EB%9E%91&tqi=TlmkdlpySAsssc1DTUdssssssB4-058938&tab=변혁의+사랑)

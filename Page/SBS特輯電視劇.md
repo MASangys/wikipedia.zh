@@ -1772,7 +1772,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2016年1月1日</p></td>
-<td style="text-align: center;"><p><a href="../Page/Puck.md" title="wikilink">Puck!</a><br />
+<td style="text-align: center;"><p><a href="../Page/Puck.md" title="wikilink">Puck</a>!<br />
 </p></td>
 <td style="text-align: center;"><p>2</p></td>
 <td style="text-align: center;"><p><small><a href="../Page/李光洙_(演員).md" title="wikilink">李光洙</a>、<a href="../Page/孫秀賢.md" title="wikilink">孫秀賢</a>、<a href="../Page/郭東延.md" title="wikilink">郭東延</a></small></p></td>
@@ -1877,9 +1877,7 @@
 
 ## 參考資料
 
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
 
 1.
 2.
@@ -1916,16 +1914,13 @@
 
 20. [4](http://allvod.sbs.co.kr/allvod/vodEndPage.do?filename=dr0059f0000100)
 
-21. [가족
-    만들기](http://allvod.sbs.co.kr/allvod/vodEndPage.do?mdaId=22000017935)
+21. [가족 만들기](http://allvod.sbs.co.kr/allvod/vodEndPage.do?mdaId=22000017935)
 
-22. [그대는 이
-    세상](http://allvod.sbs.co.kr/allvod/vodEndPage.do?filename=dr0108f0000100)
+22. [그대는 이 세상](http://allvod.sbs.co.kr/allvod/vodEndPage.do?filename=dr0108f0000100)
 
 23. [도토리묵](http://allvod.sbs.co.kr/allvod/vodEndPage.do?filename=dr0110f0000100)
 
-24. [추석특집
-    팥쥐엄마](http://allvod.sbs.co.kr/allvod/vodEndPage.do?mdaId=22000024450)
+24. [추석특집 팥쥐엄마](http://allvod.sbs.co.kr/allvod/vodEndPage.do?mdaId=22000024450)
 
 25. [개밥그릇](http://allvod.sbs.co.kr/allvod/vodEndPage.do?mdaId=22000026378)
 
@@ -1935,8 +1930,7 @@
 
 28.
 
-29. [엄마의
-    전성시대](http://allvod.sbs.co.kr/allvod/vodEndPage.do?mdaId=22000030005)
+29. [엄마의 전성시대](http://allvod.sbs.co.kr/allvod/vodEndPage.do?mdaId=22000030005)
 
 30.
 

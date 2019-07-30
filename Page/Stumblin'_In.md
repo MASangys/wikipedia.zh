@@ -1,7 +1,6 @@
 "**Stumblin' In**"是一首由与创作的歌曲，由英國軟搖滾歌手与美國女搖滾歌手男女对唱。收入了Quatro的专辑**。\[1\]
 
-这首歌在1979年美国[告示牌百强单曲榜排進第](../Page/告示牌百强单曲榜.md "wikilink")4和成人當代榜也排進第4。在[英國單曲排行榜](../Page/英國單曲排行榜.md "wikilink")，唱片于1978年11月11日上榜，并保持了8周。\[2\]
-在加拿大登上榜首。\[3\]
+这首歌在1979年美国[告示牌百强单曲榜](../Page/告示牌百强单曲榜.md "wikilink")排進第4和成人當代榜也排進第4。在[英國單曲排行榜](../Page/英國單曲排行榜.md "wikilink")，唱片于1978年11月11日上榜，并保持了8周。\[2\] 在加拿大登上榜首。\[3\]
 
 ## 演职员
 
@@ -62,12 +61,9 @@
 
 ## 外部链接
 
-  - , film of a promotional photoshoot for the *Red Dog* movie, on the
-    SUZI QUATRO OFFICIAL YouTube channel. Features the song "Stumblin'
-    In" prominently.
+  - , film of a promotional photoshoot for the *Red Dog* movie, on the SUZI QUATRO OFFICIAL YouTube channel. Features the song "Stumblin' In" prominently.
 
-[Category:1978年歌曲](https://zh.wikipedia.org/wiki/Category:1978年歌曲 "wikilink")
-[Category:1978年單曲](https://zh.wikipedia.org/wiki/Category:1978年單曲 "wikilink")
+[Category:1978年歌曲](https://zh.wikipedia.org/wiki/Category:1978年歌曲 "wikilink") [Category:1978年單曲](https://zh.wikipedia.org/wiki/Category:1978年單曲 "wikilink")
 
 1.
 2.

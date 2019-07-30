@@ -1,18 +1,10 @@
-**High Brow**，是[MBK
-Entertainment旗下的](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink")2人男子團體\[1\]。兩名成員皆就讀於美國[伯克利音樂學院](../Page/伯克利音樂學院.md "wikilink")，出道歌曲《THE
-MIND
-(마음)》與[Davichi李海莉共同合作演唱](../Page/Davichi.md "wikilink")，MV及概念照都是在他們就讀的伯克利音樂學院中拍攝而成，新曲則是由HIGHBROW成员이주헌負責作曲和作词。
+**High Brow**，是[MBK Entertainment旗下的](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink")2人男子團體\[1\]。兩名成員皆就讀於美國[伯克利音樂學院](../Page/伯克利音樂學院.md "wikilink")，出道歌曲《THE MIND (마음)》與[Davichi](../Page/Davichi.md "wikilink")李海莉共同合作演唱，MV及概念照都是在他們就讀的伯克利音樂學院中拍攝而成，新曲則是由HIGHBROW成员이주헌負責作曲和作词。
 
 ## 經歷
 
-  - 2015年7月6日，[MBK
-    Entertainment公開High](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink")
-    Brow與[Davichi李海莉共同合作的出道歌曲](../Page/Davichi.md "wikilink")《THE
-    MIND》。專輯名稱為"EASTIST",數位單曲於07月6日在韓國音源網站上架\[2\]\[3\]\[4\]，並預計在7月7日發行首張迷你專輯\[5\]。
-  - 2015年11月10日，MBK Entertainment在官方Youtube上傳High Brow與Dok2合作歌曲《요즘
-    내가》的預告影片。
-  - 2015年11月12日，MBK Entertainment於韓國時間0時在官方Youtube上傳High
-    Brow與Dok2合作歌曲《요즘 내가》的MV。
+  - 2015年7月6日，[MBK Entertainment公開High](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink") Brow與[Davichi](../Page/Davichi.md "wikilink")李海莉共同合作的出道歌曲《THE MIND》。專輯名稱為"EASTIST",數位單曲於07月6日在韓國音源網站上架\[2\]\[3\]\[4\]，並預計在7月7日發行首張迷你專輯\[5\]。
+  - 2015年11月10日，MBK Entertainment在官方Youtube上傳High Brow與Dok2合作歌曲《요즘 내가》的預告影片。
+  - 2015年11月12日，MBK Entertainment於韓國時間0時在官方Youtube上傳High Brow與Dok2合作歌曲《요즘 내가》的MV。
 
 ## 成員
 
@@ -79,9 +71,7 @@ MIND
   - [High Brow 官方專頁](http://www.mbk-ent.com/main_highbrow)
   - [High Brow Twitter](https://twitter.com/official_highbr)
 
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
+[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
 
 1.  [High Brow](http://www.mbk-ent.com/main_highbrow)
 2.  [melon](http://www.melon.com/album/detail.htm?albumId=2327679)

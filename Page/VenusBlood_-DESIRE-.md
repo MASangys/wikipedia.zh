@@ -1,6 +1,4 @@
-《**VenusBlood
--DESIRE-**》是日本スタジオ九尾公司的旗下品牌dualtail在2009年11月27日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2010年11月19日由WHITE
-BEAR發售[DVDPG](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]VenusBlood系列的第三作，不同於前兩作的育成模擬遊戲，本作和之後的續作都變更為地域壓制型模擬遊戲。
+《**VenusBlood -DESIRE-**》是日本スタジオ九尾公司的旗下品牌dualtail在2009年11月27日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2010年11月19日由WHITE BEAR發售[DVDPG](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]VenusBlood系列的第三作，不同於前兩作的育成模擬遊戲，本作和之後的續作都變更為地域壓制型模擬遊戲。
 
 ## 遊戲系統
 
@@ -204,8 +202,7 @@ BEAR發售[DVDPG](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]VenusBl
 ## 相關條目
 
   - [VenusBlood](../Page/VenusBlood.md "wikilink")：VenusBlood系列的第一部作品。
-  - [VenusBlood
-    -FRONTIER-](../Page/VenusBlood_-FRONTIER-.md "wikilink")：VenusBlood系列的第五部作品。
+  - [VenusBlood -FRONTIER-](../Page/VenusBlood_-FRONTIER-.md "wikilink")：VenusBlood系列的第五部作品。
 
 ## 參考來源
 
@@ -215,22 +212,10 @@ BEAR發售[DVDPG](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]VenusBl
 
   - [ninetail](http://ninetail.tk/)
 
-[Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:模擬遊戲](https://zh.wikipedia.org/wiki/Category:模擬遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
-[Category:宗教題材作品](https://zh.wikipedia.org/wiki/Category:宗教題材作品 "wikilink")
-[Category:報復題材電子遊戲](https://zh.wikipedia.org/wiki/Category:報復題材電子遊戲 "wikilink")
+[Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:模擬遊戲](https://zh.wikipedia.org/wiki/Category:模擬遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:宗教題材作品](https://zh.wikipedia.org/wiki/Category:宗教題材作品 "wikilink") [Category:報復題材電子遊戲](https://zh.wikipedia.org/wiki/Category:報復題材電子遊戲 "wikilink")
 
-1.  [VenusBlood
-    -DESIRE-](http://www.getchu.com/soft.phtml?id=662162)Getchu.com
-2.  [Venus Blood -Desire-](https://vndb.org/v2869)the visual novel
-    database
-3.  [VenusBlood -DESIRE- DVD the
-    GAME](http://www.getchu.com/soft.phtml?id=692245)Getchu.com
-4.  [Venus Blood -DESIRE- ヴィーナスブラッド
-    デザイア](http://erogetrailers.com/soft/4499)ErogeTrailers
-5.  [VenusBlood
-    -DESIRE-](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=12975#ad)ErogameScape
-    -エロゲー批評空間-
+1.  [VenusBlood -DESIRE-](http://www.getchu.com/soft.phtml?id=662162)Getchu.com
+2.  [Venus Blood -Desire-](https://vndb.org/v2869)the visual novel database
+3.  [VenusBlood -DESIRE- DVD the GAME](http://www.getchu.com/soft.phtml?id=692245)Getchu.com
+4.  [Venus Blood -DESIRE- ヴィーナスブラッド デザイア](http://erogetrailers.com/soft/4499)ErogeTrailers
+5.  [VenusBlood -DESIRE-](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=12975#ad)ErogameScape -エロゲー批評空間-

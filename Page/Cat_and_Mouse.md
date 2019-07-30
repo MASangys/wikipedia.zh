@@ -1,5 +1,4 @@
-《**Cat and
-Mouse**》是[臺灣女子團體](../Page/臺灣.md "wikilink")[BY2的第七張錄音室專輯和第七個音樂作品](https://zh.wikipedia.org/wiki/BY2 "wikilink")\[1\]，已於2015年8月7日正式發行\[2\]。
+《**Cat and Mouse**》是[臺灣](../Page/臺灣.md "wikilink")女子團體[BY2的第七張錄音室專輯和第七個音樂作品](https://zh.wikipedia.org/wiki/BY2 "wikilink")\[1\]，已於2015年8月7日正式發行\[2\]。
 
 ## 曲目
 
@@ -138,9 +137,7 @@ Yumi</p></td>
 |width=14.2% align=center|**第六張專輯
 **Cat and Mouse''''''
 
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
-[Category:貓題材歌曲](https://zh.wikipedia.org/wiki/Category:貓題材歌曲 "wikilink")
-[Category:BY2音樂專輯](https://zh.wikipedia.org/wiki/Category:BY2音樂專輯 "wikilink")
+[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:貓題材歌曲](https://zh.wikipedia.org/wiki/Category:貓題材歌曲 "wikilink") [Category:BY2音樂專輯](https://zh.wikipedia.org/wiki/Category:BY2音樂專輯 "wikilink")
 
 1.  [博客來音樂館](http://www.books.com.tw/exep/cdfile.php?item=0020187172)
 2.  [博客來音樂館](http://www.books.com.tw/exep/cdfile.php?item=0020187172)

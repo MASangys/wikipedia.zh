@@ -1,4 +1,4 @@
-是一款由[任天堂及](../Page/任天堂.md "wikilink")[Cygames共同開發的](../Page/Cygames.md "wikilink")[動作角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，以[IOS和](../Page/IOS.md "wikilink")[Android系統為遊戲平台](../Page/Android.md "wikilink")，在2018年9月27日於[日本](../Page/日本.md "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[澳門推出](../Page/澳門.md "wikilink")。游戏支持[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")、[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")、[繁體中文及](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")[簡體中文](https://zh.wikipedia.org/wiki/簡化字 "wikilink")。\[1\]官方在2018年[台北漫博展預告日台港澳將使用同一個](https://zh.wikipedia.org/wiki/台北市 "wikilink")[伺服器並同時上架](https://zh.wikipedia.org/wiki/伺服器 "wikilink")。\[2\]
+是一款由[任天堂](../Page/任天堂.md "wikilink")及[Cygames](../Page/Cygames.md "wikilink")共同開發的[動作角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，以[IOS](../Page/IOS.md "wikilink")和[Android](../Page/Android.md "wikilink")系統為遊戲平台，在2018年9月27日於[日本](../Page/日本.md "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")推出。游戏支持[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")、[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")、[繁體中文及](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")[簡體中文](https://zh.wikipedia.org/wiki/簡化字 "wikilink")。\[1\]官方在2018年[台北漫博展預告日台港澳將使用同一個](https://zh.wikipedia.org/wiki/台北市 "wikilink")[伺服器並同時上架](https://zh.wikipedia.org/wiki/伺服器 "wikilink")。\[2\]
 
 ## 劇情綱要
 
@@ -122,8 +122,7 @@
 
   -
     活動期間：2019/04/26～2019/05/14
-    活動「FIRE EMBLEM
-    彼此相連的世界」開放期間限定的新模式「防衛戰」。本活動是從逼近的狄亞內魯帝國兵手中守護據點，以獲得獎勵為目標。活動期間內可獲得★5角色「阿爾馮斯」，而「馬爾斯」「菲約爾姆」「維洛妮卡」則在傳說召喚中期間限定登場。
+    活動「FIRE EMBLEM 彼此相連的世界」開放期間限定的新模式「防衛戰」。本活動是從逼近的狄亞內魯帝國兵手中守護據點，以獲得獎勵為目標。活動期間內可獲得★5角色「阿爾馮斯」，而「馬爾斯」「菲約爾姆」「維洛妮卡」則在傳說召喚中期間限定登場。
 
 ## 歌曲
 
@@ -143,15 +142,7 @@
   -
   -
   -
-[Category:2018年電子遊戲](https://zh.wikipedia.org/wiki/Category:2018年電子遊戲 "wikilink")
-[Category:動作角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:動作角色扮演遊戲 "wikilink")
-[Category:Cygames遊戲](https://zh.wikipedia.org/wiki/Category:Cygames遊戲 "wikilink")
-[Category:任天堂企劃製作本部遊戲](https://zh.wikipedia.org/wiki/Category:任天堂企劃製作本部遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink")
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
-[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
+[Category:2018年電子遊戲](https://zh.wikipedia.org/wiki/Category:2018年電子遊戲 "wikilink") [Category:動作角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:動作角色扮演遊戲 "wikilink") [Category:Cygames遊戲](https://zh.wikipedia.org/wiki/Category:Cygames遊戲 "wikilink") [Category:任天堂企劃製作本部遊戲](https://zh.wikipedia.org/wiki/Category:任天堂企劃製作本部遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
 1.
 2.

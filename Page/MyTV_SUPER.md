@@ -1,31 +1,18 @@
-是香港[電視廣播有限公司旗下MyTV](../Page/電視廣播有限公司.md "wikilink") Super
-Limited於2016年3月成立的收費[OTT平台](https://zh.wikipedia.org/wiki/OTT "wikilink")，於同月15日起測試，4月18日正式推出\[1\]，初期提供[流動應用程式版及](../Page/流動應用程式.md "wikilink")[解碼器版](https://zh.wikipedia.org/wiki/解碼器 "wikilink")。2017年2月，myTV
-SUPER推出網上版，惟帳戶與前者並不互通（但可以透過跨屏幕同時睇功能配對手機、平板電腦及網頁觀看）。2017年3月，無綫電視宣佈平台用戶數量達至三百萬；2017年4月17日開始接受香港市民訂購至尊版，除了基本版頻道，也增加9個國際知名娛樂組合（直播連點播）和點播組合加入。；2019年4月1日開始接受香港市民訂購myTV
-Gold，除了基本版頻道，也增加更多組合（包括TVN Movie、BeIN Sport頻道組合及Discovery頻道組合）和點播組合加入。
+是香港[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")旗下MyTV Super Limited於2016年3月成立的收費[OTT平台](https://zh.wikipedia.org/wiki/OTT "wikilink")，於同月15日起測試，4月18日正式推出\[1\]，初期提供[流動應用程式](../Page/流動應用程式.md "wikilink")版及[解碼器版](https://zh.wikipedia.org/wiki/解碼器 "wikilink")。2017年2月，myTV SUPER推出網上版，惟帳戶與前者並不互通（但可以透過跨屏幕同時睇功能配對手機、平板電腦及網頁觀看）。2017年3月，無綫電視宣佈平台用戶數量達至三百萬；2017年4月17日開始接受香港市民訂購至尊版，除了基本版頻道，也增加9個國際知名娛樂組合（直播連點播）和點播組合加入。；2019年4月1日開始接受香港市民訂購myTV Gold，除了基本版頻道，也增加更多組合（包括TVN Movie、BeIN Sport頻道組合及Discovery頻道組合）和點播組合加入。
 
-2017年4月，MyTV SUPER亦向海外地區推出[TVB
-Anywhere](../Page/TVB_Anywhere.md "wikilink")。因應法律或技術問題，在[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[越南等地未有全面支援](https://zh.wikipedia.org/wiki/越南 "wikilink")。
+2017年4月，MyTV SUPER亦向海外地區推出[TVB Anywhere](../Page/TVB_Anywhere.md "wikilink")。因應法律或技術問題，在[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[越南等地未有全面支援](https://zh.wikipedia.org/wiki/越南 "wikilink")。
 
 ## 概要
 
-有別於[無綫網絡電視受](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")[香港法例第](../Page/香港法例.md "wikilink")562章《[廣播條例](https://zh.wikipedia.org/wiki/廣播條例 "wikilink")》所限（[收費電視牌照持有者在公司股東](https://zh.wikipedia.org/wiki/收費電視 "wikilink")、股權上須受嚴格規管，而且須要自行架設傳送節目的專用網絡），myTV
-SUPER以互聯網傳送節目，既能繼承收費電視功能，又在發展上享有更大自由度。
+有別於[無綫網絡電視受](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")[香港法例](../Page/香港法例.md "wikilink")第562章《[廣播條例](https://zh.wikipedia.org/wiki/廣播條例 "wikilink")》所限（[收費電視牌照持有者在公司股東](https://zh.wikipedia.org/wiki/收費電視 "wikilink")、股權上須受嚴格規管，而且須要自行架設傳送節目的專用網絡），myTV SUPER以互聯網傳送節目，既能繼承收費電視功能，又在發展上享有更大自由度。
 
-myTV
-SUPER透過觀眾租用或購買的[解碼器](https://zh.wikipedia.org/wiki/解碼器 "wikilink")（本身建基於[Android](../Page/Android.md "wikilink")
-4.X）、於[流動裝置](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")（Android及[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")）安裝之[流動應用程式及網頁提供服務](../Page/流動應用程式.md "wikilink")，主要服務分有直播及點播兩種。部分節目會支援[4K解像度](../Page/4K解析度.md "wikilink")，但流動裝置版本並不支援4K\[2\]。
+myTV SUPER透過觀眾租用或購買的[解碼器](https://zh.wikipedia.org/wiki/解碼器 "wikilink")（本身建基於[Android](../Page/Android.md "wikilink") 4.X）、於[流動裝置](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")（Android及[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")）安裝之[流動應用程式](../Page/流動應用程式.md "wikilink")及網頁提供服務，主要服務分有直播及點播兩種。部分節目會支援[4K解像度](../Page/4K解析度.md "wikilink")，但流動裝置版本並不支援4K\[2\]。
 
-目前myTV
-SUPER常設直播頻道合共有49條，包括無綫電視現有[5條免費頻道及](https://zh.wikipedia.org/wiki/電視廣播有限公司#免費電視頻道一覽 "wikilink")[13條收費頻道](https://zh.wikipedia.org/wiki/無綫網絡電視#頻道一覽 "wikilink")（其中一條頻道為myTV
-SUPER自創）、及其他營運商提供之32條頻道。大部分頻道支援即時回看3小時內已播出的節目內容，及節目播放後數小時內足本重溫。另外，myTV
-SUPER亦會為大型活動特別增設頻道，讓所有大會提供的直播資源能夠被盡用。
+目前myTV SUPER常設直播頻道合共有49條，包括無綫電視現有[5條免費頻道及](https://zh.wikipedia.org/wiki/電視廣播有限公司#免費電視頻道一覽 "wikilink")[13條收費頻道](https://zh.wikipedia.org/wiki/無綫網絡電視#頻道一覽 "wikilink")（其中一條頻道為myTV SUPER自創）、及其他營運商提供之32條頻道。大部分頻道支援即時回看3小時內已播出的節目內容，及節目播放後數小時內足本重溫。另外，myTV SUPER亦會為大型活動特別增設頻道，讓所有大會提供的直播資源能夠被盡用。
 
-myTV
-SUPER點播服務分為現有節目重溫、GOTV節目、經典節目、首播節目及互動平台。首播節目主要包括於海外播放完畢的節目作全集推出，與及緊貼海外最新一集節目作同步推出，亦會有無綫電視自製節目定期上架。互動平台則是以多頻道模式提供娛樂及藝人資訊，並讓觀眾更大程度參與部分環節。
+myTV SUPER點播服務分為現有節目重溫、GOTV節目、經典節目、首播節目及互動平台。首播節目主要包括於海外播放完畢的節目作全集推出，與及緊貼海外最新一集節目作同步推出，亦會有無綫電視自製節目定期上架。互動平台則是以多頻道模式提供娛樂及藝人資訊，並讓觀眾更大程度參與部分環節。
 
-myTV
-SUPER早期只供收費用戶使用，後來為了擴大宣傳而推出限時免費內容，並在2016年9月起於流動應用程式提供免費區，逐步取代原有[myTV和](https://zh.wikipedia.org/wiki/myTV "wikilink")[GOTV之服務](../Page/GOTV.md "wikilink")。2017年，myTV
-SUPER分別推出基本版（主打TVB主題內容）和內容豐富的至尊版（主打TVB和各國精選節目）。收費服務目前整合為下列16種類別推出：
+myTV SUPER早期只供收費用戶使用，後來為了擴大宣傳而推出限時免費內容，並在2016年9月起於流動應用程式提供免費區，逐步取代原有[myTV和](https://zh.wikipedia.org/wiki/myTV "wikilink")[GOTV](../Page/GOTV.md "wikilink")之服務。2017年，myTV SUPER分別推出基本版（主打TVB主題內容）和內容豐富的至尊版（主打TVB和各國精選節目）。收費服務目前整合為下列16種類別推出：
 
 <table>
 <tbody>
@@ -180,7 +167,7 @@ SUPER分別推出基本版（主打TVB主題內容）和內容豐富的至尊版
 <tr class="even">
 <td><p>2018年4月6日－5月16日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/飛虎之潛行極戰" title="wikilink">飛虎之潛行極戰</a></p></td>
-<td><p>與<a href="../Page/邵氏兄弟.md" title="wikilink">邵氏兄弟和</a><a href="../Page/优酷.md" title="wikilink">优酷合拍網絡劇集</a><br />
+<td><p>與<a href="../Page/邵氏兄弟.md" title="wikilink">邵氏兄弟</a>和<a href="../Page/优酷.md" title="wikilink">优酷</a>合拍網絡劇集<br />
 逢星期一至五上架5集<br />
 （首兩集於4月6日上架）</p></td>
 </tr>
@@ -204,7 +191,7 @@ SUPER分別推出基本版（主打TVB主題內容）和內容豐富的至尊版
 <tr class="even">
 <td><p>2017年6月24日－9月17日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/踩過界" title="wikilink">踩過界</a></p></td>
-<td><p>逢星期六、日21:30-22:30於<a href="../Page/翡翠台.md" title="wikilink">翡翠台播出</a><br />
+<td><p>逢星期六、日21:30-22:30於<a href="../Page/翡翠台.md" title="wikilink">翡翠台</a>播出<br />
 同日20:00於<a href="https://zh.wikipedia.org/wiki/愛奇藝" title="wikilink">愛奇藝同步上架</a></p></td>
 </tr>
 <tr class="odd">
@@ -237,7 +224,7 @@ SUPER分別推出基本版（主打TVB主題內容）和內容豐富的至尊版
 <td><p><a href="https://zh.wikipedia.org/wiki/鐵探" title="wikilink">鐵探</a></p></td>
 <td><p>逢星期一至五21:30-22:30於翡翠台播出<br />
 同日20:00於騰訊視頻同步上架<br />
-5月11日起，於<a href="../Page/Netflix.md" title="wikilink">Netflix全部上架</a></p></td>
+5月11日起，於<a href="../Page/Netflix.md" title="wikilink">Netflix</a>全部上架</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -449,8 +436,7 @@ SUPER分別推出基本版（主打TVB主題內容）和內容豐富的至尊版
 </tbody>
 </table>
 
-[TBS
-Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
+[TBS Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 
 <table>
 <colgroup>
@@ -633,7 +619,7 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 | [女醫神Doctor X 4](https://zh.wikipedia.org/wiki/女醫神Doctor_X_4 "wikilink") |                                                               |                                            |          |
 | 2017年                                                                   | [求職家族](../Page/就活家族～一定會順利的～.md "wikilink")                    |                                            |          |
 | [非常審查官2](https://zh.wikipedia.org/wiki/非常審查官 "wikilink")                |                                                               |                                            |          |
-| [遺留搜查4](../Page/遺留搜查.md "wikilink")                                     | [木八劇](../Page/朝日電視台週四晚間八點推理連續劇.md "wikilink")                 |                                            |          |
+| [遺留搜查](../Page/遺留搜查.md "wikilink")4                                     | [木八劇](../Page/朝日電視台週四晚間八點推理連續劇.md "wikilink")                 |                                            |          |
 | [女醫神Doctor X 5](https://zh.wikipedia.org/wiki/女醫神Doctor_X_5 "wikilink") | [木九劇](../Page/朝日電視台週四晚間九點連續劇.md "wikilink")                   |                                            |          |
 
 [TV_Tokyo_logo_20110629.svg](https://zh.wikipedia.org/wiki/File:TV_Tokyo_logo_20110629.svg "fig:TV_Tokyo_logo_20110629.svg")
@@ -1053,7 +1039,7 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 | 2014                                                                          | [寵物-{小}-精靈：破壞之繭與蒂安希](../Page/Pokemon_the_movie_XY_破壞之繭與蒂安希.md "wikilink") |          |           |
 | [TIGER & BUNNY 最強同盟](../Page/TIGER_&_BUNNY.md "wikilink")                     |                                                                           |          |           |
 | [Stand By Me：多啦A夢](https://zh.wikipedia.org/wiki/STAND_BY_ME：多啦A夢 "wikilink") |                                                                           |          |           |
-| 2015                                                                          | [飆速宅男︰火拼時速](../Page/飆速宅男.md "wikilink")                                   |          |           |
+| 2015                                                                          | [飆速宅男](../Page/飆速宅男.md "wikilink")︰火拼時速                                   |          |           |
 |                                                                               |                                                                           |          |           |
 
 <small>動畫</small>
@@ -1071,7 +1057,7 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 <td><p><strong>收看方式</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/喜羊羊與灰太狼.md" title="wikilink">喜羊羊與灰太狼之衣櫥大冒險</a></p></td>
+<td><p><a href="../Page/喜羊羊與灰太狼.md" title="wikilink">喜羊羊與灰太狼</a>之衣櫥大冒險</p></td>
 <td><p>全集推出</p></td>
 <td><p>TVB外購節目組合</p></td>
 </tr>
@@ -1153,7 +1139,7 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/星光樂園.md" title="wikilink">星光樂園II</a></p></td>
+<td><p><a href="../Page/星光樂園.md" title="wikilink">星光樂園</a>II</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1286,7 +1272,7 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/記錄的地平線.md" title="wikilink">記錄的地平線II</a></p></td>
+<td><p><a href="../Page/記錄的地平線.md" title="wikilink">記錄的地平線</a>II</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1297,7 +1283,7 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/流浪神差.md" title="wikilink">流浪神差II</a></p></td>
+<td><p><a href="../Page/流浪神差.md" title="wikilink">流浪神差</a>II</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1322,8 +1308,8 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/進擊的巨人.md" title="wikilink">進擊的巨人2<br />
-進擊的巨人3</a></p></td>
+<td><p><a href="../Page/進擊的巨人.md" title="wikilink">進擊的巨人<br />
+進擊的巨人3</a>2</p></td>
 <td><p><strong>同步推出</strong></p></td>
 <td></td>
 </tr>
@@ -1436,7 +1422,7 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/中二病也想談戀愛！.md" title="wikilink">中二病也想談戀愛！戀</a></p></td>
+<td><p><a href="../Page/中二病也想談戀愛！.md" title="wikilink">中二病也想談戀愛！</a>戀</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1779,8 +1765,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 
 ## 洗衣舖群星事件簿
 
-為宣傳myTV
-SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤.md "wikilink")[洗衣店店員為主角](https://zh.wikipedia.org/wiki/洗衣店 "wikilink")，描述其遇上不同電視節目角色及主持的14集廣告[微電影](../Page/微電影.md "wikilink")。
+為宣傳myTV SUPER，無綫於2016年5月22日推出以[吳業坤](../Page/吳業坤.md "wikilink")扮演的[洗衣店店員為主角](https://zh.wikipedia.org/wiki/洗衣店 "wikilink")，描述其遇上不同電視節目角色及主持的14集廣告[微電影](../Page/微電影.md "wikilink")。
 
   - 合作對象
 
@@ -1810,94 +1795,50 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
   - 4月18日，[TVB旅遊台](https://zh.wikipedia.org/wiki/TVB旅遊台 "wikilink")（96頻道）啟播，正式加盟基本組合。
   - 5月22日：為宣傳myTV SUPER，《myTV SUPER呈獻：洗衣舖群星事件簿》系列於電視及網上同步推出。
   - 6月26日，TVB Radio（97頻道）啟播，正式加盟基本組合。
-  - 7月1日，[RTL CBS
-    Extreme](https://zh.wikipedia.org/wiki/RTL_CBS_Extreme "wikilink")（301頻道）和[RTL
-    CBS
-    Entertainment](https://zh.wikipedia.org/wiki/RTL_CBS_Entertainment "wikilink")（501頻道）、[AXN](../Page/AXN.md "wikilink")（502頻道）、[Sony
-    Channel](../Page/Sony_Channel_\(亞洲\).md "wikilink")（503頻道）、[Animax
-    Asia](../Page/Animax_Asia.md "wikilink")（504頻道）啟播，並同時整合為「RTL
-    CBS娛樂組合」和「SONY娛樂組合」名義加盟，加入收費模式。
-  - 7月17日：為宣傳myTV SUPER，《myTV SUPER呈獻：萬千星輝放暑假》該晚假將軍澳電視廣播城舉行，同日，Ani-One
-    點播組合推出，加盟收費模式。
-  - 8月8日，[beIN
-    SPORTS](https://zh.wikipedia.org/wiki/beIN_Sports "wikilink")1,2（302和303頻道）啟播，加盟單點收費模式和免費試看至合約期完結或至2018年5月31日止。
-  - 11月14日，[BBC
-    Earth](https://zh.wikipedia.org/wiki/BBC地球 "wikilink")（401頻道）、點播範圍[BBC
-    First](../Page/BBC_First.md "wikilink")、[BBC
-    Lifestyle](https://zh.wikipedia.org/wiki/BBC_Lifestyle "wikilink")（605頻道）、[CBeebies](../Page/CBeebies.md "wikilink")（103頻道）和[BBC
-    World
-    News](https://zh.wikipedia.org/wiki/BBC_World_News "wikilink")（709頻道）啟播，並以「BBC娛樂資訊組合」名義加盟收費模式。
+  - 7月1日，[RTL CBS Extreme](https://zh.wikipedia.org/wiki/RTL_CBS_Extreme "wikilink")（301頻道）和[RTL CBS Entertainment](https://zh.wikipedia.org/wiki/RTL_CBS_Entertainment "wikilink")（501頻道）、[AXN](../Page/AXN.md "wikilink")（502頻道）、[Sony Channel](../Page/Sony_Channel_\(亞洲\).md "wikilink")（503頻道）、[Animax Asia](../Page/Animax_Asia.md "wikilink")（504頻道）啟播，並同時整合為「RTL CBS娛樂組合」和「SONY娛樂組合」名義加盟，加入收費模式。
+  - 7月17日：為宣傳myTV SUPER，《myTV SUPER呈獻：萬千星輝放暑假》該晚假將軍澳電視廣播城舉行，同日，Ani-One 點播組合推出，加盟收費模式。
+  - 8月8日，[beIN SPORTS](https://zh.wikipedia.org/wiki/beIN_Sports "wikilink")1,2（302和303頻道）啟播，加盟單點收費模式和免費試看至合約期完結或至2018年5月31日止。
+  - 11月14日，[BBC Earth](https://zh.wikipedia.org/wiki/BBC地球 "wikilink")（401頻道）、點播範圍[BBC First](../Page/BBC_First.md "wikilink")、[BBC Lifestyle](https://zh.wikipedia.org/wiki/BBC_Lifestyle "wikilink")（605頻道）、[CBeebies](../Page/CBeebies.md "wikilink")（103頻道）和[BBC World News](https://zh.wikipedia.org/wiki/BBC_World_News "wikilink")（709頻道）啟播，並以「BBC娛樂資訊組合」名義加盟收費模式。
 
 ### 2017年
 
-  - 1月1日，[Nickelodeon](https://zh.wikipedia.org/wiki/Nickelodeon "wikilink")（104頻道）和Nick
-    Jr.（105頻道）啟播，分別加盟精選基本頻道和以「尼克兒童組合」名義加盟，啟動收費模式，同日，基本版推出。
+  - 1月1日，[Nickelodeon](https://zh.wikipedia.org/wiki/Nickelodeon "wikilink")（104頻道）和Nick Jr.（105頻道）啟播，分別加盟精選基本頻道和以「尼克兒童組合」名義加盟，啟動收費模式，同日，基本版推出。
   - 1月16日，[Thrill](../Page/Thrill.md "wikilink")（202頻道）、[天映經典頻道](https://zh.wikipedia.org/wiki/天映經典頻道 "wikilink")（203頻道）和KIX（304頻道）啟播，同時推出「天映邵氏電影點播組合」，其餘頻道以「動作驚慄影視組合」名義加盟，整合為收費模式。
-  - 4月1日，[tvN
-    Asia](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")（505頻道）啟播，並以「CJ韓國娛樂組合」名義加盟，整合為收費模式。
+  - 4月1日，[tvN Asia](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")（505頻道）啟播，並以「CJ韓國娛樂組合」名義加盟，整合為收費模式。
   - 4月17日，至尊版推出，除了基本版頻道，也增加9個國際知名娛樂組合（直播連點播）和點播組合加入，同日，也同時開放給觀眾免費試看，推出當日至5月16日登記。
   - 6月4日起：為慶祝香港回歸20周年，《告別殖民地》放免費區點播。
   - 6月12日，[TVB戲曲台](../Page/TVB戲曲台.md "wikilink")（98頻道）啟播，加盟基本組合。
   - 6月26日，myTV SUPER電影組合推出，加盟並整合為收費模式。
-  - 8月15日，[互動新聞台](https://zh.wikipedia.org/wiki/互動新聞台 "wikilink")（83頻道）和[J5](../Page/J5.md "wikilink")（85頻道）改名為[無綫新聞台和](../Page/無綫新聞台.md "wikilink")[無綫財經台](https://zh.wikipedia.org/wiki/無綫財經台 "wikilink")。
+  - 8月15日，[互動新聞台](https://zh.wikipedia.org/wiki/互動新聞台 "wikilink")（83頻道）和[J5](../Page/J5.md "wikilink")（85頻道）改名為[無綫新聞台](../Page/無綫新聞台.md "wikilink")和[無綫財經台](https://zh.wikipedia.org/wiki/無綫財經台 "wikilink")。
   - 10月7日， （602頻道）停播。
-  - 10月16日，BBC娛樂資訊組合全組加盟至尊版，而[BBC World
-    News則剔出此組合](https://zh.wikipedia.org/wiki/BBC_World_News "wikilink")，加盟精選基本頻道。
-  - 10月31日，myTV
-    SUPER與[創世電視進行簽約儀式](../Page/創世電視.md "wikilink")；12月31日，創世電視（602頻道）啟播，myTV
-    SUPER增設創世電視點播區。\[6\]
-  - 12月31日，[beIN
-    SPORTS](https://zh.wikipedia.org/wiki/beIN_Sports "wikilink")1,2（302和303頻道）更改台徽。
+  - 10月16日，BBC娛樂資訊組合全組加盟至尊版，而[BBC World News則剔出此組合](https://zh.wikipedia.org/wiki/BBC_World_News "wikilink")，加盟精選基本頻道。
+  - 10月31日，myTV SUPER與[創世電視](../Page/創世電視.md "wikilink")進行簽約儀式；12月31日，創世電視（602頻道）啟播，myTV SUPER增設創世電視點播區。\[6\]
+  - 12月31日，[beIN SPORTS](https://zh.wikipedia.org/wiki/beIN_Sports "wikilink")1,2（302和303頻道）更改台徽。
 
 ### 2018年
 
-  - 1月1日，[RTL CBS
-    Extreme](https://zh.wikipedia.org/wiki/RTL_CBS_Extreme "wikilink")（301頻道）及[RTL
-    CBS
-    Entertainment](https://zh.wikipedia.org/wiki/RTL_CBS_Entertainment "wikilink")（501頻道）改名為[BLUE
-    ANT Extreme及](../Page/BLUE_ANT_Extreme.md "wikilink")[BLUE ANT
-    Entertainment](../Page/BLUE_ANT_Entertainment.md "wikilink")，而原有的「RTL
-    CBS娛樂組合」則改名為「BLUE ANT娛樂組合」。
+  - 1月1日，[RTL CBS Extreme](https://zh.wikipedia.org/wiki/RTL_CBS_Extreme "wikilink")（301頻道）及[RTL CBS Entertainment](https://zh.wikipedia.org/wiki/RTL_CBS_Entertainment "wikilink")（501頻道）改名為[BLUE ANT Extreme及](../Page/BLUE_ANT_Extreme.md "wikilink")[BLUE ANT Entertainment](../Page/BLUE_ANT_Entertainment.md "wikilink")，而原有的「RTL CBS娛樂組合」則改名為「BLUE ANT娛樂組合」。
   - 1月20日，[無綫財經台](https://zh.wikipedia.org/wiki/無綫財經台 "wikilink")（85頻道）改名為[無綫財經·資訊台](../Page/無綫財經·資訊台.md "wikilink")。
   - 2月1日，[天映經典頻道](https://zh.wikipedia.org/wiki/天映經典頻道 "wikilink")（203頻道）更換台徽。
-  - 4月30日，[NHK World
-    TV](https://zh.wikipedia.org/wiki/NHK_World_TV "wikilink")（707頻道）改名為[NHK
-    World-Japan](../Page/NHK_World-Japan_\(頻道\).md "wikilink")。
-  - 7月1日，Disney Channel (102頻道)正式加盟基本組合，與同屬頻道Disney Junior
-    (101頻道)將會開放給觀眾免費收看至2019年12月31日或至用戶合約期完結。
-  - 7月31日，因應[now
-    TV早於](https://zh.wikipedia.org/wiki/now_TV "wikilink")2018年7月12日與beIN
-    SPORTS簽約，並獲得全球賽事轉播權，換言之，[beIN
-    SPORTS](https://zh.wikipedia.org/wiki/beIN_Sports "wikilink")1,2（302和303頻道）停播，TVB無法取回體育賽事轉播權和解散體育組
-  - 8月15日，因TVB體育組解散和頻道調動，[TVB體育台](../Page/TVB體育台.md "wikilink")（94頻道）、[直播新聞台](../Page/直播新聞台.md "wikilink")
-    （700頻道）和myTV SUPER直播新聞台 （800頻道）停播。
+  - 4月30日，[NHK World TV](https://zh.wikipedia.org/wiki/NHK_World_TV "wikilink")（707頻道）改名為[NHK World-Japan](../Page/NHK_World-Japan_\(頻道\).md "wikilink")。
+  - 7月1日，Disney Channel (102頻道)正式加盟基本組合，與同屬頻道Disney Junior (101頻道)將會開放給觀眾免費收看至2019年12月31日或至用戶合約期完結。
+  - 7月31日，因應[now TV早於](https://zh.wikipedia.org/wiki/now_TV "wikilink")2018年7月12日與beIN SPORTS簽約，並獲得全球賽事轉播權，換言之，[beIN SPORTS](https://zh.wikipedia.org/wiki/beIN_Sports "wikilink")1,2（302和303頻道）停播，TVB無法取回體育賽事轉播權和解散體育組
+  - 8月15日，因TVB體育組解散和頻道調動，[TVB體育台](../Page/TVB體育台.md "wikilink")（94頻道）、[直播新聞台](../Page/直播新聞台.md "wikilink") （700頻道）和myTV SUPER直播新聞台 （800頻道）停播。
   - 9月1日，[TVB旅遊台](https://zh.wikipedia.org/wiki/TVB旅遊台 "wikilink")（96頻道）停播，與綜藝台（92頻道）合併為[綜藝旅遊台](../Page/綜藝旅遊台.md "wikilink")。
   - 9月3日，策略王電視（606頻道）啟播。
   - 12月31日深夜12點（2019年1月1日午夜12點），[精選亞洲劇台](../Page/精選亞洲劇台.md "wikilink")（90頻道）及[翡翠即日重溫](../Page/翡翠即日重溫.md "wikilink")（95頻道）停播。
 
 ### 2019年
 
-  - 1月15日深夜12點（2019年1月16日午夜12點），因應Now
-    TV與無綫網絡電視的合約到期，[TVB經典台](../Page/TVB經典台.md "wikilink")（86頻道）、[韓劇台](../Page/韓劇台.md "wikilink")（87頻道）、[日劇台](../Page/日劇台.md "wikilink")（88頻道）、[華語劇台](../Page/華語劇台.md "wikilink")（89頻道）、[綜藝旅遊台](../Page/綜藝旅遊台.md "wikilink")（92頻道）、[為食台](../Page/為食台.md "wikilink")（93頻道）、TVB
-    Radio（97頻道）、[TVB戲曲台](../Page/TVB戲曲台.md "wikilink")（98頻道）及[粵語片台](../Page/粵語片台.md "wikilink")（200頻道）由TVB商標更改為myTV
-    SUPER商標，廣告時段節目預告和呼號畫面更全被取消。
+  - 1月15日深夜12點（2019年1月16日午夜12點），因應Now TV與無綫網絡電視的合約到期，[TVB經典台](../Page/TVB經典台.md "wikilink")（86頻道）、[韓劇台](../Page/韓劇台.md "wikilink")（87頻道）、[日劇台](../Page/日劇台.md "wikilink")（88頻道）、[華語劇台](../Page/華語劇台.md "wikilink")（89頻道）、[綜藝旅遊台](../Page/綜藝旅遊台.md "wikilink")（92頻道）、[為食台](../Page/為食台.md "wikilink")（93頻道）、TVB Radio（97頻道）、[TVB戲曲台](../Page/TVB戲曲台.md "wikilink")（98頻道）及[粵語片台](../Page/粵語片台.md "wikilink")（200頻道）由TVB商標更改為myTV SUPER商標，廣告時段節目預告和呼號畫面更全被取消。
 
 <!-- end list -->
 
-  - 3月11日，[BLUE ANT
-    Extreme由](../Page/BLUE_ANT_Extreme.md "wikilink")（301頻道）更改為（500頻道）。同日Love
-    Nature HD（402頻道）及Love Nature 4K（403頻道）啟播，Love Nature 4K屬Blue
-    Ant娛樂組合，而Love Nature HD則屬基本頻道。
+  - 3月11日，[BLUE ANT Extreme由](../Page/BLUE_ANT_Extreme.md "wikilink")（301頻道）更改為（500頻道）。同日Love Nature HD（402頻道）及Love Nature 4K（403頻道）啟播，Love Nature 4K屬Blue Ant娛樂組合，而Love Nature HD則屬基本頻道。
 
 <!-- end list -->
 
-  - 4月1日，myTV
-    Gold推出，Eurosport（305頻道）、動物星球頻道（404頻道）、Discovery頻道（405頻道）、Discovery科學頻道（406頻道）、啟播，beIN
-    Sport 1（301頻道）、beIN Sport 2（302頻道）、beIN Sport MAX（303頻道） 再度啟播，beIN
-    Sport 1、beIN Sport 2、beIN Sport MAX加盟beIN
-    Sports體育組合，Eurosport、Discovery頻道、動物星球頻道
-    、Discovery科學頻道、加盟Discovery頻道組合、myTV
-    SUPER荷里活電影組合及高先電影點播組合加盟myTV Gold。
+  - 4月1日，myTV Gold推出，Eurosport（305頻道）、動物星球頻道（404頻道）、Discovery頻道（405頻道）、Discovery科學頻道（406頻道）、啟播，beIN Sport 1（301頻道）、beIN Sport 2（302頻道）、beIN Sport MAX（303頻道） 再度啟播，beIN Sport 1、beIN Sport 2、beIN Sport MAX加盟beIN Sports體育組合，Eurosport、Discovery頻道、動物星球頻道 、Discovery科學頻道、加盟Discovery頻道組合、myTV SUPER荷里活電影組合及高先電影點播組合加盟myTV Gold。
 
 <!-- end list -->
 
@@ -1905,8 +1846,11 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
 
 <!-- end list -->
 
-  - 5月31日，[Sony
-    Channel](../Page/Sony_Channel_\(亞洲\).md "wikilink")（503頻道）停播。
+  - 5月31日，[Sony Channel](../Page/Sony_Channel_\(亞洲\).md "wikilink")（503頻道）停播。
+
+<!-- end list -->
+
+  - 7月20日，王者榮耀電競（666頻道）啟播，並免費至8月31日。
 
 ## 頻道列表
 
@@ -2341,13 +2285,21 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
 <td><p><a href="http://www.mytvsuper.com/tc/epg/STV">myTV SUPER節目表</a>／<a href="http://www.winmoney.hk/">港股策略王網站</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>666</p></td>
+<td><p>王者榮耀電競<br />
+</p></td>
+<td><p>2018年7月20日</p></td>
+<td><p><a href="http://www.mytvsuper.com/tc/epg/KPL">myTV SUPER節目表</a>／<a href="https://www.vspn.com/">王者榮耀電競網站</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><strong>新聞</strong>（7XX）</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>700</p></td>
 <td><p>無綫新聞台<br />
 </p></td>
@@ -2355,7 +2307,7 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
 <td></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CTN2">myTV SUPER節目表</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>701</p></td>
 <td><p><a href="../Page/神州新聞台.md" title="wikilink">神州新聞台</a><br />
 </p></td>
@@ -2363,7 +2315,7 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
 <td><p>基本頻道</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CMN1">myTV SUPER節目表</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>702</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/無線衛星新聞台" title="wikilink">無線衛星新聞台</a><br />
 </p></td>
@@ -2371,7 +2323,7 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CTSN">myTV SUPER節目表</a>／<a href="http://news.tvbs.com.tw/">無線衛星新聞台官方網站</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>703</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/亞洲新聞台" title="wikilink">亞洲新聞台</a><br />
 </p></td>
@@ -2379,7 +2331,7 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>704</p></td>
 <td><p><a href="../Page/半島電視台英語頻道.md" title="wikilink">半島電視台英語頻道</a><br />
 </p></td>
@@ -2387,35 +2339,35 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CJAZ">myTV SUPER節目表</a>／<a href="http://www.aljazeera.com/">半島電視台英語頻道官方網站</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>705</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/France_24" title="wikilink">France 24</a></p></td>
 <td><p>精選基本頻道</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CF24">myTV SUPER節目表</a>／<a href="http://www.france24.com/">France 24官方網站</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>706</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/德國之聲" title="wikilink">DW</a></p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CDW1">myTV SUPER節目表</a>／<a href="http://www.dw.com/">DW官方網站</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>707</p></td>
 <td><p><a href="../Page/NHK_World-Japan_(頻道).md" title="wikilink">NHK World-Japan</a></p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CNHK">myTV SUPER節目表</a>／<a href="http://www3.nhk.or.jp/nhkworld/en/tv/">NHK World-Japan官方網站</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>708</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Arirang_TV" title="wikilink">Arirang TV</a></p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CARI">myTV SUPER節目表</a>／<a href="http://www.arirang.com/">Arirang TV官方網站</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>709</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BBC_World_News" title="wikilink">BBC World News</a></p></td>
 <td><p>2016年11月14日</p></td>
@@ -2546,7 +2498,7 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
 <td><p>2016年3月15日</p></td>
 <td><p>2017年8月15日</p></td>
 <td><p>基本頻道</p></td>
-<td><p>被<a href="../Page/無綫財經·資訊台.md" title="wikilink">無綫財經·資訊台取代</a></p></td>
+<td><p>被<a href="../Page/無綫財經·資訊台.md" title="wikilink">無綫財經·資訊台</a>取代</p></td>
 </tr>
 <tr class="odd">
 <td><p>800</p></td>
@@ -2555,7 +2507,7 @@ HKOBC Channel</p></td>
 <td><p>2016年11月22日</p></td>
 <td><p>2016年11月27日晚上19:00</p></td>
 <td><p>基本頻道</p></td>
-<td><p>直播<a href="../Page/香港公開羽毛球錦標賽.md" title="wikilink">香港公開羽毛球錦標賽頻道</a></p></td>
+<td><p>直播<a href="../Page/香港公開羽毛球錦標賽.md" title="wikilink">香港公開羽毛球錦標賽</a>頻道</p></td>
 </tr>
 <tr class="even">
 <td><p>602</p></td>
@@ -2685,6 +2637,33 @@ Travel</p></td>
 <td><p>Sony娛樂組合</p></td>
 <td><p>索尼影業電視旗下Sony Channel亞洲地區停播</p></td>
 </tr>
+<tr class="even">
+<td><p>900</p></td>
+<td><p>國際冠軍盃1台<br />
+</p></td>
+<td><p>2019年8月20日00:00</p></td>
+<td><p>2019年9月30日00:00</p></td>
+<td><p>基本頻道</p></td>
+<td><p>直播<a href="https://zh.wikipedia.org/wiki/國際冠軍盃" title="wikilink">國際冠軍盃頻道</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>901</p></td>
+<td><p>國際冠軍盃2台<br />
+</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>902</p></td>
+<td><p>國際冠軍盃3台<br />
+</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -2694,15 +2673,9 @@ Travel</p></td>
 
 ### 於翡翠台大肆宣傳
 
-為促銷myTV
-SUPER解碼器，無綫不惜以大量人力物力於翡翠台廣告時段甚至在不同節目作大規模宣傳，更出動慶祝台慶的人手和規模製作特備節目《myTV
-SUPER呈獻：萬千星輝睇多D》和《myTV SUPER呈獻：萬千星輝放暑假》，在這兩個節目不斷介紹myTV
-SUPER的頻道、節目陣容、以至盒子的功能和使用方法，做法有[植入式廣告之嫌](https://zh.wikipedia.org/wiki/植入式廣告 "wikilink")；無綫向傳媒表示，myTV
-SUPER在電視出現的時間，包括《[東張西望](../Page/東張西望.md "wikilink")》節目內的介紹環節，全屬廣告時間，均需支付廣告費，不過就以費用為商業資料不能透露。
+為促銷myTV SUPER解碼器，無綫不惜以大量人力物力於翡翠台廣告時段甚至在不同節目作大規模宣傳，更出動慶祝台慶的人手和規模製作特備節目《myTV SUPER呈獻：萬千星輝睇多D》和《myTV SUPER呈獻：萬千星輝放暑假》，在這兩個節目不斷介紹myTV SUPER的頻道、節目陣容、以至盒子的功能和使用方法，做法有[植入式廣告之嫌](https://zh.wikipedia.org/wiki/植入式廣告 "wikilink")；無綫向傳媒表示，myTV SUPER在電視出現的時間，包括《[東張西望](../Page/東張西望.md "wikilink")》節目內的介紹環節，全屬廣告時間，均需支付廣告費，不過就以費用為商業資料不能透露。
 
-[通訊事務管理局則於](../Page/通訊事務管理局.md "wikilink")《萬千星輝睇多D》和《萬千星輝放暑假》播放後分别接獲23、30宗投訴，但通訊辦表示，根據TVB提交的記錄，myTV
-SUPER的廣告播放時間符合法定廣告時限；但就並未回應myTV
-SUPER利用TVB電視頻道免費賣廣告的爭議\[9\]\[10\]\[11\]\[12\]\[13\]。最終通訊局並判罰無綫20萬港元。\[14\]
+[通訊事務管理局](../Page/通訊事務管理局.md "wikilink")則於《萬千星輝睇多D》和《萬千星輝放暑假》播放後分别接獲23、30宗投訴，但通訊辦表示，根據TVB提交的記錄，myTV SUPER的廣告播放時間符合法定廣告時限；但就並未回應myTV SUPER利用TVB電視頻道免費賣廣告的爭議\[9\]\[10\]\[11\]\[12\]\[13\]。最終通訊局並判罰無綫20萬港元。\[14\]
 
 另外在myTV SUPER推出初期，無綫於每個節目宣傳預告片都新增了myTV SUPER的圖示，但現在已更改圖示設計。
 
@@ -2713,36 +2686,25 @@ SUPER利用TVB電視頻道免費賣廣告的爭議\[9\]\[10\]\[11\]\[12\]\[13\]�
 
 ### 電腦版本限制多
 
-myTV SUPER網上版2017年2月推出初期，只支援[Internet
-Explorer](../Page/Internet_Explorer.md "wikilink")
-11.0或以上、及[Safari](../Page/Safari.md "wikilink")
-8.0或以上之瀏覽器，其他主流瀏覽器（包括[Microsoft
-Edge](../Page/Microsoft_Edge.md "wikilink")、[Google
-Chrome](../Page/Google_Chrome.md "wikilink")、[Firefox](../Page/Firefox.md "wikilink")、[Opera](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")）概不支援\[15\]。其後於2017年4月新增支援Microsoft
-Edge及Google
-Chrome。該版本的缺陷還有同機的使用次數問題：儘管同一部[機器以單一](https://zh.wikipedia.org/wiki/電腦 "wikilink")[IP地址使用該服務](../Page/IP地址.md "wikilink")，當[cookie被重置](https://zh.wikipedia.org/wiki/cookie "wikilink")、[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[重灌後](https://zh.wikipedia.org/wiki/重灌 "wikilink")，都有可能出現相關的網頁警告而無法登入\[16\]。
+myTV SUPER網上版2017年2月推出初期，只支援[Internet Explorer](../Page/Internet_Explorer.md "wikilink") 11.0或以上、及[Safari](../Page/Safari.md "wikilink") 8.0或以上之瀏覽器，其他主流瀏覽器（包括[Microsoft Edge](../Page/Microsoft_Edge.md "wikilink")、[Google Chrome](../Page/Google_Chrome.md "wikilink")、[Firefox](../Page/Firefox.md "wikilink")、[Opera](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")）概不支援\[15\]。其後於2017年4月新增支援Microsoft Edge及Google Chrome。該版本的缺陷還有同機的使用次數問題：儘管同一部[機器以單一](https://zh.wikipedia.org/wiki/電腦 "wikilink")[IP地址](../Page/IP地址.md "wikilink")使用該服務，當[cookie被重置](https://zh.wikipedia.org/wiki/cookie "wikilink")、[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[重灌後](https://zh.wikipedia.org/wiki/重灌 "wikilink")，都有可能出現相關的網頁警告而無法登入\[16\]。
 
 ### 免費版功能大減
 
-相對myTV，myTV
-SUPER免費版的限制更多。除了強迫使用[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")、[姓名等用戶](https://zh.wikipedia.org/wiki/姓名 "wikilink")[個人資料登記會員而不再是免登入使用](https://zh.wikipedia.org/wiki/個人資料 "wikilink")，以往myTV提供無綫電視大部份節目的足本重溫，並保留60天，包括舊有已上傳的節目\[17\]；不過由2017年4月17日起，免費版所有節目（包括為少數獲保留超過60天的節目之一《[新聞檔案](../Page/新聞檔案.md "wikilink")》）現時最多只保留7天，亦只有少量節目可供重溫，變相迫使用戶申請收費服務。
+相對myTV，myTV SUPER免費版的限制更多。除了強迫使用[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")、[姓名等用戶](https://zh.wikipedia.org/wiki/姓名 "wikilink")[個人資料登記會員而不再是免登入使用](https://zh.wikipedia.org/wiki/個人資料 "wikilink")，以往myTV提供無綫電視大部份節目的足本重溫，並保留60天，包括舊有已上傳的節目\[17\]；不過由2017年4月17日起，免費版所有節目（包括為少數獲保留超過60天的節目之一《[新聞檔案](../Page/新聞檔案.md "wikilink")》）現時最多只保留7天，亦只有少量節目可供重溫，變相迫使用戶申請收費服務。
 
 ### 跟第三方網站的糾紛
 
-成人網站「myAVSUPER」疑[商業](https://zh.wikipedia.org/wiki/商業 "wikilink")[二次創作而遭](../Page/二次創作.md "wikilink")[無綫電視的法律回應](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")\[18\]。無綫指，myAVSUPER網站的商標和網址都仿似無綫註冊的「myTVSUPER」商標和網址。「myAVSUPER」回應，域名註冊採用先到先得方式，對方指控無理據，及「myAVSUPER」的全球網站流量排名高過myTVSuper\[19\]。另一間更早成名的[商業性質](https://zh.wikipedia.org/wiki/商業 "wikilink")[二次創作媒體公司](../Page/二次創作.md "wikilink")，[毛記電視並未傳出相關版權糾紛](../Page/毛記電視.md "wikilink")\[20\]。[前香港大氣電波免費電視台](https://zh.wikipedia.org/wiki/香港電視台列表#已停播頻道 "wikilink")，[亞洲電視](../Page/亞洲電視.md "wikilink")（即[ATV](https://zh.wikipedia.org/wiki/ATV "wikilink")）的網站，亦疑被網民[惡搞戲仿](https://zh.wikipedia.org/wiki/惡搞 "wikilink")。「[ThisATV](https://zh.wikipedia.org/wiki/ThisATV "wikilink")」網站的內容是轉載亞視的，然而[網頁設計和域名都仿似香港知名](https://zh.wikipedia.org/wiki/網頁設計 "wikilink")[色情網站](https://zh.wikipedia.org/wiki/色情網站 "wikilink")，「[ThisAV](../Page/ThisAV.md "wikilink")」\[21\]\[22\]，在ATV大氣電波停播而轉做[網絡電視後](https://zh.wikipedia.org/wiki/網絡電視 "wikilink")，「[ThisATV](https://zh.wikipedia.org/wiki/ThisATV "wikilink")」網站不改他的諷刺作風，以「ThisATV.com
-- 亞洲唯一收視只有個位網站，轉載亞洲電視在線欣賞及分享影片。」作標題。
+成人網站「myAVSUPER」疑[商業](https://zh.wikipedia.org/wiki/商業 "wikilink")[二次創作](../Page/二次創作.md "wikilink")而遭[無綫電視的法律回應](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")\[18\]。無綫指，myAVSUPER網站的商標和網址都仿似無綫註冊的「myTVSUPER」商標和網址。「myAVSUPER」回應，域名註冊採用先到先得方式，對方指控無理據，及「myAVSUPER」的全球網站流量排名高過myTVSuper\[19\]。另一間更早成名的[商業性質](https://zh.wikipedia.org/wiki/商業 "wikilink")[二次創作](../Page/二次創作.md "wikilink")媒體公司，[毛記電視](../Page/毛記電視.md "wikilink")並未傳出相關版權糾紛\[20\]。[前香港大氣電波免費電視台](https://zh.wikipedia.org/wiki/香港電視台列表#已停播頻道 "wikilink")，[亞洲電視](../Page/亞洲電視.md "wikilink")（即[ATV](https://zh.wikipedia.org/wiki/ATV "wikilink")）的網站，亦疑被網民[惡搞戲仿](https://zh.wikipedia.org/wiki/惡搞 "wikilink")。「[ThisATV](https://zh.wikipedia.org/wiki/ThisATV "wikilink")」網站的內容是轉載亞視的，然而[網頁設計和域名都仿似香港知名](https://zh.wikipedia.org/wiki/網頁設計 "wikilink")[色情網站](https://zh.wikipedia.org/wiki/色情網站 "wikilink")，「[ThisAV](../Page/ThisAV.md "wikilink")」\[21\]\[22\]，在ATV大氣電波停播而轉做[網絡電視後](https://zh.wikipedia.org/wiki/網絡電視 "wikilink")，「[ThisATV](https://zh.wikipedia.org/wiki/ThisATV "wikilink")」網站不改他的諷刺作風，以「ThisATV.com - 亞洲唯一收視只有個位網站，轉載亞洲電視在線欣賞及分享影片。」作標題。
 
 ### 只能待機不能關機
 
-使用myTV
-SUPER解碼器電視盒原有的遙控器控制開關，並不會完全中斷電源。然而，盒子在待機模式時仍會用電並發熱，還與[路由器保持連接至](../Page/路由器.md "wikilink")[中國大陸的IP地址](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")。完全關機，阻斷連接須完全除去[電池或](https://zh.wikipedia.org/wiki/電池 "wikilink")[電源線](https://zh.wikipedia.org/wiki/電源 "wikilink")。
+使用myTV SUPER解碼器電視盒原有的遙控器控制開關，並不會完全中斷電源。然而，盒子在待機模式時仍會用電並發熱，還與[路由器](../Page/路由器.md "wikilink")保持連接至[中國大陸的IP地址](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")。完全關機，阻斷連接須完全除去[電池或](https://zh.wikipedia.org/wiki/電池 "wikilink")[電源線](https://zh.wikipedia.org/wiki/電源 "wikilink")。
 
 ## 參看
 
   - [myTV](https://zh.wikipedia.org/wiki/myTV "wikilink")
   - [TVB Anywhere](../Page/TVB_Anywhere.md "wikilink")
-  - [big big
-    channel](https://zh.wikipedia.org/wiki/big_big_channel "wikilink")
+  - [big big channel](https://zh.wikipedia.org/wiki/big_big_channel "wikilink")
   - [MyTV SUPER無綫電視劇集列表](../Page/MyTV_SUPER無綫電視劇集列表.md "wikilink")
   - [電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")
 
@@ -2752,12 +2714,9 @@ SUPER解碼器電視盒原有的遙控器控制開關，並不會完全中斷電
 
   - [myTV SUPER網站](http://www.mytvsuper.com)
   - [Ani-one官方網頁](http://www.ani-one.com.hk/)
-  - [Google Play《myTV
-    SUPER》App下載](https://play.google.com/store/apps/details?id=com.tvb.mytvsuper)
+  - [Google Play《myTV SUPER》App下載](https://play.google.com/store/apps/details?id=com.tvb.mytvsuper)
 
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:無綫電視](https://zh.wikipedia.org/wiki/Category:無綫電視 "wikilink")
-[Category:IPTV](https://zh.wikipedia.org/wiki/Category:IPTV "wikilink")
+[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:無綫電視](https://zh.wikipedia.org/wiki/Category:無綫電視 "wikilink") [Category:IPTV](https://zh.wikipedia.org/wiki/Category:IPTV "wikilink")
 
 1.
 
@@ -2768,8 +2727,7 @@ SUPER解碼器電視盒原有的遙控器控制開關，並不會完全中斷電
 4.  點播區上載足本版
 
 5.
-6.  [馬丁路德改教500周年 創世電視登陸myTV SUPER
-    祝福全港700萬人](http://www.media.org.hk/tme_main/index.php/action/1031)
+6.  [馬丁路德改教500周年 創世電視登陸myTV SUPER 祝福全港700萬人](http://www.media.org.hk/tme_main/index.php/action/1031)
 
 7.
 
@@ -2785,30 +2743,20 @@ SUPER解碼器電視盒原有的遙控器控制開關，並不會完全中斷電
 
 13.
 
-14. [蘋果日報：節目狂宣傳「myTV SUPER」被罰20萬
-    TVB擬提司法覆核](http://hk.apple.nextmedia.com/realtime/news/20161122/55951208)，2016年11月22日。
+14. [蘋果日報：節目狂宣傳「myTV SUPER」被罰20萬 TVB擬提司法覆核](http://hk.apple.nextmedia.com/realtime/news/20161122/55951208)，2016年11月22日。
 
 15.
 
-16. 現時已知用戶以被官方系統定性為「新裝置」的[硬件上](../Page/硬件.md "wikilink")，可進行重新登入的限制為每月三次。
+16. 現時已知用戶以被官方系統定性為「新裝置」的[硬件](../Page/硬件.md "wikilink")上，可進行重新登入的限制為每月三次。
 
-17. [myTV
-    節目整合改動](http://b.tvb.com/whatsnew/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/2010/09/18/mytv-%E7%AF%80%E7%9B%AE%E6%95%B4%E5%90%88%E6%94%B9%E5%8B%95/)
-    tvb.com最新消息，2010年9月18日
+17. [myTV 節目整合改動](http://b.tvb.com/whatsnew/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/2010/09/18/mytv-%E7%AF%80%E7%9B%AE%E6%95%B4%E5%90%88%E6%94%B9%E5%8B%95/) tvb.com最新消息，2010年9月18日
 
-18. [【myAVSUPER】色情網站收TVB律師信警告網址及商標刻意抄襲](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/81104/myavsuper-%E8%89%B2%E6%83%85%E7%B6%B2%E7%AB%99%E6%94%B6tvb%E5%BE%8B%E5%B8%AB%E4%BF%A1-%E8%AD%A6%E5%91%8A%E7%B6%B2%E5%9D%80%E5%8F%8A%E5%95%86%E6%A8%99%E5%88%BB%E6%84%8F%E6%8A%84%E8%A5%B2)
-    香港01 2017年3月29日
+18. [【myAVSUPER】色情網站收TVB律師信警告網址及商標刻意抄襲](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/81104/myavsuper-%E8%89%B2%E6%83%85%E7%B6%B2%E7%AB%99%E6%94%B6tvb%E5%BE%8B%E5%B8%AB%E4%BF%A1-%E8%AD%A6%E5%91%8A%E7%B6%B2%E5%9D%80%E5%8F%8A%E5%95%86%E6%A8%99%E5%88%BB%E6%84%8F%E6%8A%84%E8%A5%B2) 香港01 2017年3月29日
 
-19. [myAVSuper反擊：指控無理據、全球流量排名高過myTVSuper](http://www.popnews.hk/?p=15943)
-    POPNews
+19. [myAVSuper反擊：指控無理據、全球流量排名高過myTVSuper](http://www.popnews.hk/?p=15943) POPNews
 
-20. [〈娛樂乜乜乜〉點解毛記冇事，myAVSUPER有事](https://news.now.com/home/entertainment/player?newsId=215990)
-    Now 新聞
+20. [〈娛樂乜乜乜〉點解毛記冇事，myAVSUPER有事](https://news.now.com/home/entertainment/player?newsId=215990) Now 新聞
 
-21. [介面跟足色情網
-    ThisATV網站疑惡搞亞視](https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20150319/s00001/1426757357126/%E4%BB%8B%E9%9D%A2%E8%B7%9F%E8%B6%B3%E8%89%B2%E6%83%85%E7%B6%B2-thisatv%E7%B6%B2%E7%AB%99%E7%96%91%E6%83%A1%E6%90%9E%E4%BA%9E%E8%A6%96)
-    香港明報 2015年3月19日星期四
+21. [介面跟足色情網 ThisATV網站疑惡搞亞視](https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20150319/s00001/1426757357126/%E4%BB%8B%E9%9D%A2%E8%B7%9F%E8%B6%B3%E8%89%B2%E6%83%85%E7%B6%B2-thisatv%E7%B6%B2%E7%AB%99%E7%96%91%E6%83%A1%E6%90%9E%E4%BA%9E%E8%A6%96) 香港明報 2015年3月19日星期四
 
-22. [亞視Fans 惡攪？ thisav
-    色情網變thisatv](https://unwire.hk/2015/03/19/thisatv/fun-tech/)
-    Unwire 2015年3月19日
+22. [亞視Fans 惡攪？ thisav 色情網變thisatv](https://unwire.hk/2015/03/19/thisatv/fun-tech/) Unwire 2015年3月19日

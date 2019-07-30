@@ -1,13 +1,10 @@
-《**EAU DE
-VIXX**》是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[VIXX第三張韓語正規專輯](../Page/VIXX.md "wikilink")，於2018年4月17日發行，主打歌曲為《香》（）\[1\]。
+《**EAU DE VIXX**》是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[VIXX](../Page/VIXX.md "wikilink")第三張韓語正規專輯，於2018年4月17日發行，主打歌曲為《香》（）\[1\]。
 
 ## 背景
 
-2018年3月12日，[Jellyfish娛樂透露VIXX將在](../Page/Jellyfish娛樂.md "wikilink")4月發表正規專輯\[2\]，到3月30日官方公佈正規專輯《EAU
-DE VIXX》會在4月17日推出，同時發放預告照片\[3\]，Jellyfish娛樂亦於次日（3月31日）釋放回歸行程表\[4\]。
+2018年3月12日，[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")透露VIXX將在4月發表正規專輯\[2\]，到3月30日官方公佈正規專輯《EAU DE VIXX》會在4月17日推出，同時發放預告照片\[3\]，Jellyfish娛樂亦於次日（3月31日）釋放回歸行程表\[4\]。
 
-4月9日，《EAU DE
-VIXX》的曲目表公開\[5\]，主打曲《香》以「調香師」作主題，而每一首歌也有成員參與作曲或填詞\[6\]；而主打曲音樂錄影帶預告則在4月15日公布\[7\]。
+4月9日，《EAU DE VIXX》的曲目表公開\[5\]，主打曲《香》以「調香師」作主題，而每一首歌也有成員參與作曲或填詞\[6\]；而主打曲音樂錄影帶預告則在4月15日公布\[7\]。
 
 ## 曲目
 
@@ -67,7 +64,7 @@ VIXX》的曲目表公開\[5\]，主打曲《香》以「調香師」作主題�
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量         | 總銷量 | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量         | 總銷量 | 停留時間 |
 | ---------------------------------------- | ---- | ----------- | --- | ---- |
 | 專輯週榜                                     | 36   | 1,364\[11\] |     | 星期   |
 
@@ -123,10 +120,7 @@ VIXX》的曲目表公開\[5\]，主打曲《香》以「調香師」作主題�
 
 ## 参考文献
 
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:VIXX音樂專輯](https://zh.wikipedia.org/wiki/Category:VIXX音樂專輯 "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:2018年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:VIXX音樂專輯](https://zh.wikipedia.org/wiki/Category:VIXX音樂專輯 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2018年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

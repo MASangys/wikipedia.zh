@@ -54,11 +54,7 @@ Food超人與其他5位超人住在並保護著擁有和人類相同文化、文
 
 ## 參考
 
-[Category:臺灣兒童電視節目](https://zh.wikipedia.org/wiki/Category:臺灣兒童電視節目 "wikilink")
-[Category:公視節目](https://zh.wikipedia.org/wiki/Category:公視節目 "wikilink")
-[Category:臺灣動漫角色](https://zh.wikipedia.org/wiki/Category:臺灣動漫角色 "wikilink")
-[Category:料理動畫](https://zh.wikipedia.org/wiki/Category:料理動畫 "wikilink")
-[Category:超级英雄电视角色](https://zh.wikipedia.org/wiki/Category:超级英雄电视角色 "wikilink")
+[Category:臺灣兒童電視節目](https://zh.wikipedia.org/wiki/Category:臺灣兒童電視節目 "wikilink") [Category:公視節目](https://zh.wikipedia.org/wiki/Category:公視節目 "wikilink") [Category:臺灣動漫角色](https://zh.wikipedia.org/wiki/Category:臺灣動漫角色 "wikilink") [Category:料理動畫](https://zh.wikipedia.org/wiki/Category:料理動畫 "wikilink") [Category:超级英雄电视角色](https://zh.wikipedia.org/wiki/Category:超级英雄电视角色 "wikilink")
 
 1.
 

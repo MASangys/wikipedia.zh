@@ -1,5 +1,4 @@
-**Will
-Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，成立於2011年10月4日。當前旗下藝人包括[金載沅](../Page/金載沅.md "wikilink")、[真理翰](../Page/真理翰.md "wikilink")、[金玉彬等多名演員](../Page/金玉彬.md "wikilink")。
+**Will Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，成立於2011年10月4日。當前旗下藝人包括[金載沅](../Page/金載沅.md "wikilink")、[真理翰](../Page/真理翰.md "wikilink")、[金玉彬](../Page/金玉彬.md "wikilink")等多名演員。
 
 ## 旗下藝人
 
@@ -86,7 +85,6 @@ Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikili
 
   - [官方網站](http://willent.co.kr/)
   - [Will Entertainment 官方 Twitter](http://willent.co.kr/)
-  - [Will Entertainment 官方
-    Facebook專頁](https://www.facebook.com/dnlfdpsxj/)
+  - [Will Entertainment 官方 Facebook專頁](https://www.facebook.com/dnlfdpsxj/)
 
 [Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")

@@ -1,9 +1,6 @@
-是[万代南梦宫娱乐在](../Page/万代南梦宫娱乐.md "wikilink")2012年3月8日于[PlayStation
-3平台发售的](../Page/PlayStation_3.md "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")。有通常版和特装版两个版本。至2013年，在日本销量已达89,080份。\[1\]
+是[万代南梦宫娱乐](../Page/万代南梦宫娱乐.md "wikilink")在2012年3月8日于[PlayStation 3平台发售的](../Page/PlayStation_3.md "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")。有通常版和特装版两个版本。至2013年，在日本销量已达89,080份。\[1\]
 
-本作的剧情改编自《[機動戰士GUNDAM
-UC](../Page/機動戰士GUNDAM_UC.md "wikilink")》OVA动画的Episode
-1-3。特装版中除游戏外，还包含花絮[藍光光碟](../Page/藍光光碟.md "wikilink")（BD）和小说《战后的战争》。\[2\]
+本作的剧情改编自《[機動戰士GUNDAM UC](../Page/機動戰士GUNDAM_UC.md "wikilink")》OVA动画的Episode 1-3。特装版中除游戏外，还包含花絮[藍光光碟](../Page/藍光光碟.md "wikilink")（BD）和小说《战后的战争》。\[2\]
 
 ## 登场机体
 
@@ -95,17 +92,7 @@ UC](../Page/機動戰士GUNDAM_UC.md "wikilink")》OVA动画的Episode
 ## 外部链接
 
   -
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:GUNDAM系列電子遊戲](https://zh.wikipedia.org/wiki/Category:GUNDAM系列電子遊戲 "wikilink")
-[Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:PlayStation_3独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3独占游戏 "wikilink")
-[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
-[Category:FromSoftware游戏](https://zh.wikipedia.org/wiki/Category:FromSoftware游戏 "wikilink")
-[Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink")
-[Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink")
-[Category:使用Havok的电子游戏](https://zh.wikipedia.org/wiki/Category:使用Havok的电子游戏 "wikilink")
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
+[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:GUNDAM系列電子遊戲](https://zh.wikipedia.org/wiki/Category:GUNDAM系列電子遊戲 "wikilink") [Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_3独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3独占游戏 "wikilink") [Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:FromSoftware游戏](https://zh.wikipedia.org/wiki/Category:FromSoftware游戏 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink") [Category:使用Havok的电子游戏](https://zh.wikipedia.org/wiki/Category:使用Havok的电子游戏 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
 
 1.
 2.  [特装版](http://uc.ggame.jp/spec/limited_edition.html)

@@ -1,4 +1,4 @@
-**跨城線**（）又稱「布魯克林-皇后區跨城線」，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[布魯克林及](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")[皇后區](../Page/皇后區.md "wikilink")，屬於[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵路線](../Page/地鐵.md "wikilink")。此線提供布魯克林西部和皇后區西北部之間的跨城列車服務，也是唯一不經過[曼哈頓的主幹線](../Page/曼哈頓.md "wikilink")。
+**跨城線**（）又稱「布魯克林-皇后區跨城線」，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[布魯克林及](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")[皇后區](../Page/皇后區.md "wikilink")，屬於[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵](../Page/地鐵.md "wikilink")路線。此線提供布魯克林西部和皇后區西北部之間的跨城列車服務，也是唯一不經過[曼哈頓](../Page/曼哈頓.md "wikilink")的主幹線。
 
 ## 服務形式
 
@@ -52,7 +52,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/長島市.md" title="wikilink">長島市</a></p></td>
-<td><p>自<a href="../Page/IND皇后林蔭路線.md" title="wikilink">IND皇后林蔭路線慢車軌道分岔</a>（）</p></td>
+<td><p>自<a href="../Page/IND皇后林蔭路線.md" title="wikilink">IND皇后林蔭路線</a>慢車軌道分岔（）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -203,13 +203,10 @@
 
 ## 外部連結
 
-  - nycsubway.org—[IND Brooklyn/Queens Crosstown
-    Line](http://nycsubway.org/wiki/IND_Crosstown_Line)
-  - [G Line Track Diagram: Court Square to Church
-    Avenue](http://web.mta.info/nyct/service/G_Appendices_7_10_13.pdf#page=21)
+  - nycsubway.org—[IND Brooklyn/Queens Crosstown Line](http://nycsubway.org/wiki/IND_Crosstown_Line)
+  - [G Line Track Diagram: Court Square to Church Avenue](http://web.mta.info/nyct/service/G_Appendices_7_10_13.pdf#page=21)
 
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1933年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1933年啟用的鐵路線 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1933年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1933年啟用的鐵路線 "wikilink")
 
 1.
 

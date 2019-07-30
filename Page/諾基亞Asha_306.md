@@ -1,5 +1,4 @@
-**諾基亞Asha
-306**是[諾基亞生產的平板式](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[功能手機](https://zh.wikipedia.org/wiki/功能手機 "wikilink")，2012年6月6日發布。
+**諾基亞Asha 306**是[諾基亞生產的平板式](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[功能手機](https://zh.wikipedia.org/wiki/功能手機 "wikilink")，2012年6月6日發布。
 
 ## 規格
 

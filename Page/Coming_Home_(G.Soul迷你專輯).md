@@ -1,10 +1,8 @@
-《**Coming
-Home**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[G.Soul的出道迷你專輯](../Page/G.Soul.md "wikilink")，於2015年1月19日發行，主打曲為〈You〉。
+《**Coming Home**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[G.Soul](../Page/G.Soul.md "wikilink")的出道迷你專輯，於2015年1月19日發行，主打曲為〈You〉。
 
 ## 概要
 
-G.Soul在歷經15年的練習生涯後\[1\]，終於帶著他全創作的專輯出道。他與製作人李雨珉（）及曾與[大人小孩雙拍檔合作的製作人Paul](../Page/大人小孩雙拍檔.md "wikilink")
-Thompson於[紐約完成本張專輯](https://zh.wikipedia.org/wiki/紐約 "wikilink")，專輯均是由G.Soul的個人經歷而寫成，並融合多種風格，包括[節奏藍調](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")、[靈魂樂等](../Page/靈魂樂.md "wikilink")\[2\]。在G.Soul即將出道前，所屬經紀公司[JYP娛樂的創辦人](../Page/JYP娛樂.md "wikilink")[朴軫永曾在個人Twitter撰文力薦](../Page/朴軫永.md "wikilink")，透露他首次見到G.Soul及其現在的成長對比。本作主打曲〈You〉在[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")「2015年韓國流行音樂最佳二十首歌曲」中名列第七。\[3\]
+G.Soul在歷經15年的練習生涯後\[1\]，終於帶著他全創作的專輯出道。他與製作人李雨珉（）及曾與[大人小孩雙拍檔](../Page/大人小孩雙拍檔.md "wikilink")合作的製作人Paul Thompson於[紐約完成本張專輯](https://zh.wikipedia.org/wiki/紐約 "wikilink")，專輯均是由G.Soul的個人經歷而寫成，並融合多種風格，包括[節奏藍調](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")、[靈魂樂](../Page/靈魂樂.md "wikilink")等\[2\]。在G.Soul即將出道前，所屬經紀公司[JYP娛樂](../Page/JYP娛樂.md "wikilink")的創辦人[朴軫永](../Page/朴軫永.md "wikilink")曾在個人Twitter撰文力薦，透露他首次見到G.Soul及其現在的成長對比。本作主打曲〈You〉在[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")「2015年韓國流行音樂最佳二十首歌曲」中名列第七。\[3\]
 
 ## 曲目
 
@@ -91,9 +89,7 @@ Thompson於[紐約完成本張專輯](https://zh.wikipedia.org/wiki/紐約 "wiki
 
 ## 引用資料
 
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:G.Soul音樂專輯](https://zh.wikipedia.org/wiki/Category:G.Soul音樂專輯 "wikilink")
+[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:G.Soul音樂專輯](https://zh.wikipedia.org/wiki/Category:G.Soul音樂專輯 "wikilink")
 
 1.
 2.

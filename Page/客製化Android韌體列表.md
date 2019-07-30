@@ -1,7 +1,6 @@
-本條目（清單）收錄較為知名的第三方團隊/廠商製作並（曾經）經常更新、基於[Android的售後](../Page/Android.md "wikilink")[韌體](../Page/韌體.md "wikilink")（客製化韌體）。
+本條目（清單）收錄較為知名的第三方團隊/廠商製作並（曾經）經常更新、基於[Android](../Page/Android.md "wikilink")的售後[韌體](../Page/韌體.md "wikilink")（客製化韌體）。
 
-智慧型手機廠商的客製版Android系統（即原廠韌體）則不在本條目的收錄範圍。但要注意的是像是MIUI、Flyme、Smartisan
-OS等某些機型預載，但是它們本身也開放其它廠商的機型刷寫安裝的，也屬於售後韌體之列。
+智慧型手機廠商的客製版Android系統（即原廠韌體）則不在本條目的收錄範圍。但要注意的是像是MIUI、Flyme、Smartisan OS等某些機型預載，但是它們本身也開放其它廠商的機型刷寫安裝的，也屬於售後韌體之列。
 
 ## 清單
 
@@ -124,7 +123,7 @@ OS等某些機型預載，但是它們本身也開放其它廠商的機型刷寫
 <td><p><a href="https://zh.wikipedia.org/wiki/小米科技" title="wikilink">小米科技</a></p></td>
 <td></td>
 <td><p>閉源但開源組件可用</p></td>
-<td><p>MIUI 8</p></td>
+<td><p>MIUI 10</p></td>
 <td><p>4.x/5.x/6.x/7.x</p></td>
 <td><p>2010年</p></td>
 <td><p>286[13]</p></td>

@@ -1,5 +1,4 @@
-**KLT-靖天國際台**是[嘉麗台第二條頻道](../Page/嘉麗台.md "wikilink")，2016年2月1日開播、取代[家娛國際台](https://zh.wikipedia.org/wiki/家娛國際台 "wikilink")。該頻道由[媒體智庫有限公司與](../Page/媒體智庫有限公司.md "wikilink")[靖天傳播合作開設](../Page/靖天傳播.md "wikilink")，主要播出[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro
-TV的節目](https://zh.wikipedia.org/wiki/Astro频道 "wikilink")。
+**KLT-靖天國際台**是[嘉麗台](../Page/嘉麗台.md "wikilink")第二條頻道，2016年2月1日開播、取代[家娛國際台](https://zh.wikipedia.org/wiki/家娛國際台 "wikilink")。該頻道由[媒體智庫有限公司](../Page/媒體智庫有限公司.md "wikilink")與[靖天傳播](../Page/靖天傳播.md "wikilink")合作開設，主要播出[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro TV的節目](https://zh.wikipedia.org/wiki/Astro频道 "wikilink")。
 
 ## 節目列表
 
@@ -152,7 +151,7 @@ TV的節目](https://zh.wikipedia.org/wiki/Astro频道 "wikilink")。
   - 色香味主播室
   - 寵物狗救星
   - [香港亞洲流行音樂節](../Page/香港亞洲流行音樂節.md "wikilink")
-  - [香港亞洲流行音樂節2017](../Page/香港亞洲流行音樂節.md "wikilink")
+  - [香港亞洲流行音樂節](../Page/香港亞洲流行音樂節.md "wikilink")2017
   - 去吧\!台灣住囉囉
   - 名廚．鄉土濃情甄文達
   - 薛凱琪唔做薛凱琪
@@ -294,8 +293,8 @@ TV的節目](https://zh.wikipedia.org/wiki/Astro频道 "wikilink")。
 **其他**
 
   - 尋覓人情味
-  - [香港亞洲流行音樂節2018](../Page/香港亞洲流行音樂節.md "wikilink")
-  - [香港亞洲流行音樂節2019](../Page/香港亞洲流行音樂節.md "wikilink")
+  - [香港亞洲流行音樂節](../Page/香港亞洲流行音樂節.md "wikilink")2018
+  - [香港亞洲流行音樂節](../Page/香港亞洲流行音樂節.md "wikilink")2019
 
 ## 參見
 
@@ -305,8 +304,6 @@ TV的節目](https://zh.wikipedia.org/wiki/Astro频道 "wikilink")。
 ## 外部連結
 
   - [官方網站](http://www.klt.tv/)
-  - [KLT-靖天國際台
-    中華電信MOD相關網站](http://mod.cht.com.tw/channelrw/channelinfo.php?id=087)
+  - [KLT-靖天國際台 中華電信MOD相關網站](http://mod.cht.com.tw/channelrw/channelinfo.php?id=087)
 
-[Category:台灣電視台](https://zh.wikipedia.org/wiki/Category:台灣電視台 "wikilink")
-[Category:華語電視頻道](https://zh.wikipedia.org/wiki/Category:華語電視頻道 "wikilink")
+[Category:台灣電視台](https://zh.wikipedia.org/wiki/Category:台灣電視台 "wikilink") [Category:華語電視頻道](https://zh.wikipedia.org/wiki/Category:華語電視頻道 "wikilink")

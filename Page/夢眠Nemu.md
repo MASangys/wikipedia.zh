@@ -1,43 +1,32 @@
-**夢眠ねむ**（,
-），日本[三重縣出生](https://zh.wikipedia.org/wiki/三重縣 "wikilink")，生日7月14日（年齡未公開）。是日本女性[偶像](https://zh.wikipedia.org/wiki/偶像 "wikilink")[歌手](../Page/歌手.md "wikilink")，亦為[電波組.inc的成員](../Page/電波組.inc.md "wikilink")。身高170公分。暱稱為
-Nemukyun（）。在[電波組.inc的口號是](../Page/電波組.inc.md "wikilink")「永遠的魔法少女未滿」\[1\]，代表色為薄荷綠\[2\]。
+**夢眠ねむ**（, ），日本[三重縣出生](https://zh.wikipedia.org/wiki/三重縣 "wikilink")，生日7月14日（年齡未公開）。是日本女性[偶像](https://zh.wikipedia.org/wiki/偶像 "wikilink")[歌手](../Page/歌手.md "wikilink")，亦為[電波組.inc](../Page/電波組.inc.md "wikilink")的成員。身高170公分。暱稱為 Nemukyun（）。在[電波組.inc](../Page/電波組.inc.md "wikilink")的口號是「永遠的魔法少女未滿」\[1\]，代表色為薄荷綠\[2\]。
 
 ## 簡歷
 
-小時候因為崇拜[松尾芭蕉而想當](../Page/松尾芭蕉.md "wikilink")[俳句詩人](../Page/俳句.md "wikilink")，又因為『[のらくろ](https://zh.wikipedia.org/wiki/のらくろ "wikilink")』而受到[田河水泡和](https://zh.wikipedia.org/wiki/田河水泡 "wikilink")[杉浦茂的影響想當](https://zh.wikipedia.org/wiki/杉浦茂 "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。小學高年級時想當[廣告設計師而以讀美術大學為目標](https://zh.wikipedia.org/wiki/廣告設計師 "wikilink")\[3\]。
+小時候因為崇拜[松尾芭蕉](../Page/松尾芭蕉.md "wikilink")而想當[俳句](../Page/俳句.md "wikilink")詩人，又因為『[のらくろ](https://zh.wikipedia.org/wiki/のらくろ "wikilink")』而受到[田河水泡和](https://zh.wikipedia.org/wiki/田河水泡 "wikilink")[杉浦茂的影響想當](https://zh.wikipedia.org/wiki/杉浦茂 "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。小學高年級時想當[廣告設計師而以讀美術大學為目標](https://zh.wikipedia.org/wiki/廣告設計師 "wikilink")\[3\]。
 
-高中時期去了[女僕咖啡廳](../Page/女僕咖啡廳.md "wikilink")「[@ほぉ〜むカフェ](https://zh.wikipedia.org/wiki/@ほぉ〜むカフェ "wikilink")」，看到[偶像宅的](../Page/御宅族.md "wikilink")[宅藝和](../Page/御宅藝.md "wikilink")[女僕的可愛](https://zh.wikipedia.org/wiki/女僕 "wikilink")。之後進入了[多摩美術大學](../Page/多摩美術大學.md "wikilink")[情報設計系](https://zh.wikipedia.org/wiki/資訊設計 "wikilink")\[4\]。在學時因為美術方面有煩惱而再次前往「@ほぉ〜むカフェ」，受到後來成為[電波組.inc成員的](../Page/電波組.inc.md "wikilink")[成瀬瑛美的厚待](https://zh.wikipedia.org/wiki/成瀬瑛美 "wikilink")。成瀬總是給人像太陽一樣的感覺，高聲地說出「歡迎蒞臨〜！」、「您回來了！」這樣的心情，想將成瀬的開朗取材為美術的解答，便開始在「@ほぉ〜むカフェ」打工\[5\]。此時，得知了在秋葉原開設的
-Live & Bar「Dear☆Stage」，便從「@ほぉ〜むカフェ」辭職後去Dear☆Stage打工面試，並獲得了錄取\[6\]\[7\]。
+高中時期去了[女僕咖啡廳](../Page/女僕咖啡廳.md "wikilink")「[@ほぉ〜むカフェ](https://zh.wikipedia.org/wiki/@ほぉ〜むカフェ "wikilink")」，看到[偶像宅的](../Page/御宅族.md "wikilink")[宅藝和](../Page/御宅藝.md "wikilink")[女僕的可愛](https://zh.wikipedia.org/wiki/女僕 "wikilink")。之後進入了[多摩美術大學](../Page/多摩美術大學.md "wikilink")[情報設計系](https://zh.wikipedia.org/wiki/資訊設計 "wikilink")\[4\]。在學時因為美術方面有煩惱而再次前往「@ほぉ〜むカフェ」，受到後來成為[電波組.inc](../Page/電波組.inc.md "wikilink")成員的[成瀬瑛美的厚待](https://zh.wikipedia.org/wiki/成瀬瑛美 "wikilink")。成瀬總是給人像太陽一樣的感覺，高聲地說出「歡迎蒞臨〜！」、「您回來了！」這樣的心情，想將成瀬的開朗取材為美術的解答，便開始在「@ほぉ〜むカフェ」打工\[5\]。此時，得知了在秋葉原開設的 Live & Bar「Dear☆Stage」，便從「@ほぉ〜むカフェ」辭職後去Dear☆Stage打工面試，並獲得了錄取\[6\]\[7\]。
 
-作為 Dear☆Stage的女性員工「Dear Girls」，同時也在
-的秋葉系Club「秋葉原MOGRA」裡以「**DJねむきゅん**」的名義，把電音和動畫歌曲混音、進行DJ的活動\[8\]。在2009年，和Dear
-Girls的成員西村めめ(現：[相沢梨紗](https://zh.wikipedia.org/wiki/相沢梨紗 "wikilink"))一起加入並組成了女性偶像團體**電波組.inc**。
+作為 Dear☆Stage的女性員工「Dear Girls」，同時也在 的秋葉系Club「秋葉原MOGRA」裡以「**DJねむきゅん**」的名義，把電音和動畫歌曲混音、進行DJ的活動\[8\]。在2009年，和Dear Girls的成員西村めめ(現：[相沢梨紗](https://zh.wikipedia.org/wiki/相沢梨紗 "wikilink"))一起加入並組成了女性偶像團體**電波組.inc**。
 
-自2010年起，開始參與攝影師川本史織的計畫「メタポメ」，並參加雜誌或書籍的[模特兒](../Page/模特兒.md "wikilink")。同年8月16日，發行了由[福嶋麻衣子製作](../Page/福嶋麻衣子.md "wikilink")、Maltine
-Records發行的個人出道單曲「魔法少女☆未滿」。2011年由[グラビア雑誌開始的活動](https://zh.wikipedia.org/wiki/グラビア雑誌 "wikilink")，的「アキバ妄撮」以自己的秋葉原觀點擔任衣服選擇\[9\]。然後，同一年電波組.inc也移籍到[福嶋麻衣子設立的品牌](../Page/福嶋麻衣子.md "wikilink")[Meme
-Tokyo](../Page/TOY'S_FACTORY.md "wikilink")，同時[最上もが及](https://zh.wikipedia.org/wiki/最上もが "wikilink")[藤咲彩音也加入了電波組](../Page/藤咲彩音.md "wikilink").inc，之後則以電波組.inc為中心進行活動。
+自2010年起，開始參與攝影師川本史織的計畫「メタポメ」，並參加雜誌或書籍的[模特兒](../Page/模特兒.md "wikilink")。同年8月16日，發行了由[福嶋麻衣子](../Page/福嶋麻衣子.md "wikilink")製作、Maltine Records發行的個人出道單曲「魔法少女☆未滿」。2011年由[グラビア雑誌開始的活動](https://zh.wikipedia.org/wiki/グラビア雑誌 "wikilink")，的「アキバ妄撮」以自己的秋葉原觀點擔任衣服選擇\[9\]。然後，同一年電波組.inc也移籍到[福嶋麻衣子](../Page/福嶋麻衣子.md "wikilink")設立的品牌[Meme Tokyo](../Page/TOY'S_FACTORY.md "wikilink")，同時[最上もが及](https://zh.wikipedia.org/wiki/最上もが "wikilink")[藤咲彩音](../Page/藤咲彩音.md "wikilink")也加入了電波組.inc，之後則以電波組.inc為中心進行活動。
 
-2012年12月擔任的歌曲「ぼくらの季節」[MV的導演](https://zh.wikipedia.org/wiki/MV "wikilink")\[10\]。同作品的顧問是映像作家，也因這部作品而觸發之後共同組成影像導演團體「スミネム」\[11\]、監導電波組.inc的「ノットボッチ...夏」等
-MV。
+2012年12月擔任的歌曲「ぼくらの季節」[MV的導演](https://zh.wikipedia.org/wiki/MV "wikilink")\[10\]。同作品的顧問是映像作家，也因這部作品而觸發之後共同組成影像導演團體「スミネム」\[11\]、監導電波組.inc的「ノットボッチ...夏」等 MV。
 
 2013年擔任[日本Yahoo拍賣的形象女孩](https://zh.wikipedia.org/wiki/日本Yahoo拍賣 "wikilink")，並於2014年11月公開的電視廣告中演出「物欲的化身」\[12\]。
 
 ## 人物
 
-[澀谷系音樂是因為受到年紀有些差距的姊姊的影響](../Page/秋葉澀谷系.md "wikilink")\[13\]，而[秋葉系則是因為音樂團體](https://zh.wikipedia.org/wiki/秋葉系 "wikilink")[MOSAIC.WAV](../Page/MOSAIC.WAV.md "wikilink")\[14\]\[15\]和[電波組.inc的製作人](../Page/電波組.inc.md "wikilink")[福嶋麻衣子的影響](../Page/福嶋麻衣子.md "wikilink")。2010年的首曲個人單曲「魔法少女☆未滿」時髮型才改為[鮑伯頭](https://zh.wikipedia.org/wiki/鮑伯頭 "wikilink")，在此之前為長髮造型\[16\]。
+[澀谷系音樂是因為受到年紀有些差距的姊姊的影響](../Page/秋葉澀谷系.md "wikilink")\[13\]，而[秋葉系則是因為音樂團體](https://zh.wikipedia.org/wiki/秋葉系 "wikilink")[MOSAIC.WAV](../Page/MOSAIC.WAV.md "wikilink")\[14\]\[15\]和[電波組.inc](../Page/電波組.inc.md "wikilink")的製作人[福嶋麻衣子](../Page/福嶋麻衣子.md "wikilink")的影響。2010年的首曲個人單曲「魔法少女☆未滿」時髮型才改為[鮑伯頭](https://zh.wikipedia.org/wiki/鮑伯頭 "wikilink")，在此之前為長髮造型\[16\]。
 
-偶像藝名「夢眠ねむ」是在「地下偶像」這樣的時期取的。有「在地下、雖然夢到了地上但今天也是睡著。」的意思。在[電波組.inc的口號](../Page/電波組.inc.md "wikilink")，是單曲標題也有的詞句「魔法少女未滿」、有表示「普通女孩」的意思、但也有表示不絕望的人潛力最強的想法\[17\]。代表色薄荷綠的由來是老家的浴室牆壁是薄荷綠\[18\]。
+偶像藝名「夢眠ねむ」是在「地下偶像」這樣的時期取的。有「在地下、雖然夢到了地上但今天也是睡著。」的意思。在[電波組.inc](../Page/電波組.inc.md "wikilink")的口號，是單曲標題也有的詞句「魔法少女未滿」、有表示「普通女孩」的意思、但也有表示不絕望的人潛力最強的想法\[17\]。代表色薄荷綠的由來是老家的浴室牆壁是薄荷綠\[18\]。
 
 ### 料理
 
-2012年1月起，在秋葉原DearStage有約每一個月舉辦一次的「夢眠軒」料理活動，會依季節推出時節菜色\[19\]。2015年2月27日，發售了同一活動之料埋食譜「夢眠軒的料理」\[20\]。2014年7月7日起，與廚師親姊姊
-Maa 常態性演出料理節目「夢眠ねむ＆Maa 夢眠姊妹的興奮♡Cuisine（）」。
+2012年1月起，在秋葉原DearStage有約每一個月舉辦一次的「夢眠軒」料理活動，會依季節推出時節菜色\[19\]。2015年2月27日，發售了同一活動之料埋食譜「夢眠軒的料理」\[20\]。2014年7月7日起，與廚師親姊姊 Maa 常態性演出料理節目「夢眠ねむ＆Maa 夢眠姊妹的興奮♡Cuisine（）」。
 
 ### 美術
 
-2012年夏天，在[田河水泡的漫畫家徒弟](https://zh.wikipedia.org/wiki/田河水泡 "wikilink")[杉浦茂舉辦的作品特別展](https://zh.wikipedia.org/wiki/杉浦茂 "wikilink")「杉浦茂のとと?展」中展出了作品。同年12月，則舉辦了獨自的個展「Cosmic
-Melon Soda Magic Love
-展（）」\[21\]\[22\]。進行偶像活動之前就立志做個美術家，覺得偶像最能表現美術所以選擇了當偶像\[23\]。
+2012年夏天，在[田河水泡的漫畫家徒弟](https://zh.wikipedia.org/wiki/田河水泡 "wikilink")[杉浦茂舉辦的作品特別展](https://zh.wikipedia.org/wiki/杉浦茂 "wikilink")「杉浦茂のとと?展」中展出了作品。同年12月，則舉辦了獨自的個展「Cosmic Melon Soda Magic Love 展（）」\[21\]\[22\]。進行偶像活動之前就立志做個美術家，覺得偶像最能表現美術所以選擇了當偶像\[23\]。
 
 ## 作品
 
@@ -134,7 +123,7 @@ Melon Soda Magic Love
 ホタヒカ〜まだ帰りたくない、蛍の光〜</strong></p></td>
 <td><p>混音專輯</p></td>
 <td><p><a href="../Page/FM東京.md" title="wikilink">Shops.Love</a></p></td>
-<td><p><a href="../Page/福嶋麻衣子.md" title="wikilink">福嶋麻衣子在</a><a href="../Page/FM東京.md" title="wikilink">TOKYO FM演出的節目</a>『妄想科学デパート AKIBANOISE』的企畫作品。參與「蛍の光（PandaBoY REMIX feat.夢眠ねむ）」。</p></td>
+<td><p><a href="../Page/福嶋麻衣子.md" title="wikilink">福嶋麻衣子</a>在<a href="../Page/FM東京.md" title="wikilink">TOKYO FM演出的節目</a>『妄想科学デパート AKIBANOISE』的企畫作品。參與「蛍の光（PandaBoY REMIX feat.夢眠ねむ）」。</p></td>
 </tr>
 <tr class="even">
 <td><p>2014年2月26日</p></td>
@@ -216,17 +205,14 @@ Melon Soda Magic Love
 
 <!-- end list -->
 
-  - 「夢眠ねむ＆Maa 夢眠姉妹のわくわく♡キュイジンヌ」（2014年7月7日起、[FOODIES
-    TV](https://zh.wikipedia.org/wiki/食と旅のフーディーズTV "wikilink")）
+  - 「夢眠ねむ＆Maa 夢眠姉妹のわくわく♡キュイジンヌ」（2014年7月7日起、[FOODIES TV](https://zh.wikipedia.org/wiki/食と旅のフーディーズTV "wikilink")）
 
 <!-- end list -->
 
   -
 
       -
-        獲頒 2014年 [Sky
-        PerfecTV\!](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")
-        awards 的「心動節目」獎。
+        獲頒 2014年 [Sky PerfecTV\!](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink") awards 的「心動節目」獎。
 
 <!-- end list -->
 
@@ -246,8 +232,7 @@ Melon Soda Magic Love
 
 ### 動畫
 
-  - [偶像學園](https://zh.wikipedia.org/wiki/偶像學園 "wikilink")
-    插入歌「さまさまばけーしょん！」演出グッピー角色的歌唱部份。
+  - [偶像學園](https://zh.wikipedia.org/wiki/偶像學園 "wikilink") 插入歌「さまさまばけーしょん！」演出グッピー角色的歌唱部份。
 
 ### 網路節目
 
@@ -258,8 +243,7 @@ Melon Soda Magic Love
   -
 
       -
-        和[吉河順央一起進行個性化的全](https://zh.wikipedia.org/wiki/吉河順央 "wikilink")
-        Free Talk 影像廣播
+        和[吉河順央一起進行個性化的全](https://zh.wikipedia.org/wiki/吉河順央 "wikilink") Free Talk 影像廣播
 
 <!-- end list -->
 
@@ -270,11 +254,11 @@ Melon Soda Magic Love
   -
 
       -
-        和[古川未鈴一起當主持人談論日本流行文化情報的節目](../Page/古川未鈴.md "wikilink")
+        和[古川未鈴](../Page/古川未鈴.md "wikilink")一起當主持人談論日本流行文化情報的節目
 
 <!-- end list -->
 
-  - 「DD.ディスティネーション」（2013年12月至2014年6月，[朝日電視台Douga](../Page/朝日電視台.md "wikilink")，每週六更新）
+  - 「DD.ディスティネーション」（2013年12月至2014年6月，[朝日電視台](../Page/朝日電視台.md "wikilink")Douga，每週六更新）
 
 <!-- end list -->
 
@@ -296,15 +280,13 @@ Melon Soda Magic Love
 
 <!-- end list -->
 
-  - 「[日本動畫人展覽會](../Page/日本動畫人展覽會.md "wikilink")」隨性鑑賞會第一集
-    (2015年2月13日，於[Niconico直播](https://zh.wikipedia.org/wiki/Niconico "wikilink"))
+  - 「[日本動畫人展覽會](../Page/日本動畫人展覽會.md "wikilink")」隨性鑑賞會第一集 (2015年2月13日，於[Niconico直播](https://zh.wikipedia.org/wiki/Niconico "wikilink"))
 
 ### CM
 
   - [真露](../Page/真露.md "wikilink")「[マッコリ](https://zh.wikipedia.org/wiki/マッコリ "wikilink")(マッコリポンチ)」（2013年8月）
   - [Yahoo\!Japan](https://zh.wikipedia.org/wiki/Yahoo!Japan "wikilink")「[ヤフオク\!](https://zh.wikipedia.org/wiki/ヤフオク! "wikilink")」（2013年11月、2014年4月\[32\]）
-  - [SS製藥](https://zh.wikipedia.org/wiki/SS製藥 "wikilink")「エスカップ『ホップ ステップ
-    エスカップ』キャンペーン」（2014年3月）\[33\]
+  - [SS製藥](https://zh.wikipedia.org/wiki/SS製藥 "wikilink")「エスカップ『ホップ ステップ エスカップ』キャンペーン」（2014年3月）\[33\]
 
 ### Music Video
 
@@ -312,10 +294,7 @@ Melon Soda Magic Love
 
 ## 注釋
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:日本女性模特兒](https://zh.wikipedia.org/wiki/Category:日本女性模特兒 "wikilink")
-[Category:日本女性偶像](https://zh.wikipedia.org/wiki/Category:日本女性偶像 "wikilink")
-[Category:電波組.inc成員](https://zh.wikipedia.org/wiki/Category:電波組.inc成員 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本女性模特兒](https://zh.wikipedia.org/wiki/Category:日本女性模特兒 "wikilink") [Category:日本女性偶像](https://zh.wikipedia.org/wiki/Category:日本女性偶像 "wikilink") [Category:電波組.inc成員](https://zh.wikipedia.org/wiki/Category:電波組.inc成員 "wikilink")
 
 1.
 2.
@@ -374,8 +353,7 @@ Melon Soda Magic Love
 
 31.
 
-32. [ヤフオク\!](http://topic.auctions.yahoo.co.jp/promo/zero/)
-    2014年4月13日閲覧
+32. [ヤフオク\!](http://topic.auctions.yahoo.co.jp/promo/zero/)  2014年4月13日閲覧
 
 33.
 

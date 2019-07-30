@@ -1,5 +1,4 @@
-**Fuki**（，），[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")、[作詞家](https://zh.wikipedia.org/wiki/作詞家 "wikilink")、[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")，出生於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")。2016年，使用Fuki
-Commune的名義個人出道。
+**Fuki**（，），[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")、[作詞家](https://zh.wikipedia.org/wiki/作詞家 "wikilink")、[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")，出生於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")。2016年，使用Fuki Commune的名義個人出道。
 
 ## 簡介
 
@@ -42,11 +41,7 @@ Commune的名義個人出道。
 
   - [官方部落格](http://ameblo.jp/fuki-official/)
 
-[Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:日本作詞家](https://zh.wikipedia.org/wiki/Category:日本作詞家 "wikilink")
-[Category:Amuleto](https://zh.wikipedia.org/wiki/Category:Amuleto "wikilink")
-[Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
+[Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本作詞家](https://zh.wikipedia.org/wiki/Category:日本作詞家 "wikilink") [Category:Amuleto](https://zh.wikipedia.org/wiki/Category:Amuleto "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
 
 1.   Fuki|newspaper=ORICON NEWS|accessdate=2018-03-10|language=ja}}
 2.   Fuki|newspaper=ORICON NEWS|accessdate=2018-03-10|language=ja}}

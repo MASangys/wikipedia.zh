@@ -1,5 +1,4 @@
-[Flying_rainbow_flag_at_Taiwan_Pride_20041106.jpg](https://zh.wikipedia.org/wiki/File:Flying_rainbow_flag_at_Taiwan_Pride_20041106.jpg "fig:Flying_rainbow_flag_at_Taiwan_Pride_20041106.jpg")\]\]
-**LGBT用語**（）是指[LGBT人群主要使用的](../Page/LGBT.md "wikilink")[俚語](https://zh.wikipedia.org/wiki/俚語 "wikilink")。在多種不同語言中均有LGBT用語，以便於LGBT人群能夠認知彼此\[1\]\[2\]。LGBT用語同時也有暗語的功能，起到不暴露使用者性取向的作用\[3\]</ref>\[4\]。現在LGBT用語已經成為語言學的研究對象之一\[5\]。也有部分LGBT用語融入到了非LGBT人群使用的语言之中。
+[Flying_rainbow_flag_at_Taiwan_Pride_20041106.jpg](https://zh.wikipedia.org/wiki/File:Flying_rainbow_flag_at_Taiwan_Pride_20041106.jpg "fig:Flying_rainbow_flag_at_Taiwan_Pride_20041106.jpg")\]\] **LGBT用語**（）是指[LGBT](../Page/LGBT.md "wikilink")人群主要使用的[俚語](https://zh.wikipedia.org/wiki/俚語 "wikilink")。在多種不同語言中均有LGBT用語，以便於LGBT人群能夠認知彼此\[1\]\[2\]。LGBT用語同時也有暗語的功能，起到不暴露使用者性取向的作用\[3\]</ref>\[4\]。現在LGBT用語已經成為語言學的研究對象之一\[5\]。也有部分LGBT用語融入到了非LGBT人群使用的语言之中。
 
 ## 同志用語
 
@@ -91,27 +90,17 @@
 
 ## 外部連結
 
-  - [Lavender Linguistics, from Guardian
-    Unlimited](https://www.theguardian.com/gayrights/story/0,12592,997623,00.html)
-  - [Frederick B.J. (2012) Partying with a purpose: Finding meaning in
-    an online party n play
-    subculture](https://www.academia.edu/2041102/Frederick_B.J._2012_._Partying_with_a_purpose_Finding_meaning_in_an_online_party_n_play_subculture_Masters_thesis_._California_State_University_Long_Beach)
-  - [The BLANKmates Glossary of LGBT Chemsex Slang terms
-    (2017)](http://www.blankmates.com/jargon)
+  - [Lavender Linguistics, from Guardian Unlimited](https://www.theguardian.com/gayrights/story/0,12592,997623,00.html)
+  - [Frederick B.J. (2012) Partying with a purpose: Finding meaning in an online party n play subculture](https://www.academia.edu/2041102/Frederick_B.J._2012_._Partying_with_a_purpose_Finding_meaning_in_an_online_party_n_play_subculture_Masters_thesis_._California_State_University_Long_Beach)
+  - [The BLANKmates Glossary of LGBT Chemsex Slang terms (2017)](http://www.blankmates.com/jargon)
 
-[Category:LGBT用語](https://zh.wikipedia.org/wiki/Category:LGBT用語 "wikilink")
-[Category:俗語](https://zh.wikipedia.org/wiki/Category:俗語 "wikilink")
-[Category:口語](https://zh.wikipedia.org/wiki/Category:口語 "wikilink")
+[Category:LGBT用語](https://zh.wikipedia.org/wiki/Category:LGBT用語 "wikilink") [Category:俗語](https://zh.wikipedia.org/wiki/Category:俗語 "wikilink") [Category:口語](https://zh.wikipedia.org/wiki/Category:口語 "wikilink")
 
 1.
 
-2.  Long, Daniel: "Formation Processes of Some Japanese Gay Argot
-    Terms", *American Speech*, Vol. 71, No. 2 (Summer, 1996), pp.
-    215–224. Duke University Press, 1996.
+2.  Long, Daniel: "Formation Processes of Some Japanese Gay Argot Terms", *American Speech*, Vol. 71, No. 2 (Summer, 1996), pp. 215–224. Duke University Press, 1996.
 
 3.
 4.
 
-5.  Proschan, Frank: "Review: Recognizing Gay and Lesbian Speech",
-    *American Anthropologist*, New Series, Vol. 99, No. 1 (Mar., 1997),
-    pp. 164–166.
+5.  Proschan, Frank: "Review: Recognizing Gay and Lesbian Speech", *American Anthropologist*, New Series, Vol. 99, No. 1 (Mar., 1997), pp. 164–166.

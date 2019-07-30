@@ -1,18 +1,12 @@
-**UNB**（），出自[KBS2偶像再造選秀節目](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[The
-Unit](../Page/The_Unit.md "wikilink")》的九人男子[限定團體](https://zh.wikipedia.org/wiki/限定團體 "wikilink")\[1\]\[2\]\[3\]，成員包括隊長Feel
-Dog、宜縝、大元、Marco、鎬廷、韓率、Jun、Chan以及基重。2018年4月7日以迷你專輯《BOYHOOD》雙主打《感覺》及《Only
-One》正式出道。
+**UNB**（），出自[KBS2偶像再造選秀節目](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[The Unit](../Page/The_Unit.md "wikilink")》的九人男子[限定團體](https://zh.wikipedia.org/wiki/限定團體 "wikilink")\[1\]\[2\]\[3\]，成員包括隊長Feel Dog、宜縝、大元、Marco、鎬廷、韓率、Jun、Chan以及基重。2018年4月7日以迷你專輯《BOYHOOD》雙主打《感覺》及《Only One》正式出道。
 
-團體名稱UNB是「**You and
-Boy**」的縮寫，象徵和粉絲成為一體，同時也包含全新開始「Begin」的意思。\[4\]團體口號為「**Let's
-Begin UNB！**大家好，我們是UNB。」粉絲名稱為「**UNMe**」（유앤미）。
+團體名稱UNB是「**You and Boy**」的縮寫，象徵和粉絲成為一體，同時也包含全新開始「Begin」的意思。\[4\]團體口號為「**Let's Begin UNB！**大家好，我們是UNB。」粉絲名稱為「**UNMe**」（유앤미）。
 
 ## 演藝經歷
 
 ### 2018年：正式出道、首張迷你專輯《BOYHOOD》、第二張迷你專輯《BLACK HEART》
 
-2月24日，在《[The Unit](../Page/The_Unit.md "wikilink")》Special
-Show中，公布團名為"**UNB"**，隊長為Feel Dog。\[5\]
+2月24日，在《[The Unit](../Page/The_Unit.md "wikilink")》Special Show中，公布團名為"**UNB"**，隊長為Feel Dog。\[5\]
 
 3月14日，于官方SNS公佈出道預告照，宣佈于4月7日正式出道。\[6\]
 
@@ -26,8 +20,7 @@ Show中，公布團名為"**UNB"**，隊長為Feel Dog。\[5\]
 
 6月11日，宣布UNB將在6月28日回歸，公開預告照，專輯名稱為《BLACK HEART》。
 
-6月18日，公開成員概念照，而這次回歸會與[IM的翰潔](../Page/IM66.md "wikilink")、前[BEAT
-WIN的正夏](https://zh.wikipedia.org/wiki/BEAT_WIN "wikilink")、[DIA的主恩](https://zh.wikipedia.org/wiki/DIA "wikilink")、[S.I.S的Anne合作Performance](../Page/S.I.S.md "wikilink")。
+6月18日，公開成員概念照，而這次回歸會與[IM的翰潔](../Page/IM66.md "wikilink")、前[BEAT WIN的正夏](https://zh.wikipedia.org/wiki/BEAT_WIN "wikilink")、[DIA的主恩](https://zh.wikipedia.org/wiki/DIA "wikilink")、[S.I.S](../Page/S.I.S.md "wikilink")的Anne合作Performance。
 
 6月22日，公開《BLACK HEART》曲目表。
 
@@ -74,8 +67,7 @@ WIN的正夏](https://zh.wikipedia.org/wiki/BEAT_WIN "wikilink")、[DIA的主恩
 <td><p>首張迷你專輯《<strong>BOYHOOD</strong>》</p>
 <ul>
 <li>發行日期：2018年4月7日</li>
-<li>專輯銷量：46,131<ref></li>
-<li></li>
+<li>專輯銷量：46,131+<ref></li>
 </ul>
 <p></ref></p></td>
 <td></td>
@@ -86,7 +78,6 @@ WIN的正夏](https://zh.wikipedia.org/wiki/BEAT_WIN "wikilink")、[DIA的主恩
 <ul>
 <li>發行日期：2018年6月28日</li>
 <li>專輯銷量：36,999+(Black Ver.+Heart Ver.)<ref></li>
-<li></li>
 </ul>
 <p></ref></p></td>
 <td></td>
@@ -221,7 +212,7 @@ WIN的正夏](https://zh.wikipedia.org/wiki/BEAT_WIN "wikilink")、[DIA的主恩
 
 | 年份    | 日期          | 活動名稱                                    | 地點                           | 備註                                               |
 | ----- | ----------- | --------------------------------------- | ---------------------------- | ------------------------------------------------ |
-| 2018年 | 7月1日        | 2018 UNB Fan-Con: LET'S BEGIN, UNME     | 韓國首爾，YES 24 Live Hall        | 此為[UNB在韓國第一次舉行的單獨演唱會](../Page/UNB.md "wikilink") |
+| 2018年 | 7月1日        | 2018 UNB Fan-Con: LET'S BEGIN, UNME     | 韓國首爾，YES 24 Live Hall        | 此為[UNB](../Page/UNB.md "wikilink")在韓國第一次舉行的單獨演唱會 |
 | 2018年 | 7月6日、7月8日   | 2018 UNB JAPAN 1st CONCERT              | 東京豊洲PIT，大阪Zepp Osaka Bayside | 共四場                                              |
 | 2018年 | 9月22日、9月28日 | 2018 UNB JAPAN 2nd CONCERT              | 大阪堂島リバーフォーラム，東京豊洲PIT         | 共四場                                              |
 | 2019年 | 1月25日、27日   | UNB JAPAN FINAL CONCERT \~THANKS UNME\~ | 大阪なんばHatch, 千葉舞浜アンフィシアター     | 共四場                                              |
@@ -436,14 +427,7 @@ Zepp東京　</p></td>
   -
   -
   -
-[Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:期間限定團體](https://zh.wikipedia.org/wiki/Category:期間限定團體 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
-[Category:2019年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年解散的音樂團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
-[Category:已解散的韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國男子演唱團體 "wikilink")
+[Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:期間限定團體](https://zh.wikipedia.org/wiki/Category:期間限定團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:2019年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年解散的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:已解散的韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國男子演唱團體 "wikilink")
 
 1.
 2.
@@ -453,9 +437,6 @@ Zepp東京　</p></td>
 6.
 7.
 8.
-9.  [The Unit Official
-    Twitter 20180221](https://twitter.com/TheUNIT_KBS2017/status/966233589762240512)
-10. [2018 UNB JAPAN 1st FAN
-    MEETINGツアー開催決定！](http://theunit-b.jp/bbs/board.php?bo_table=news&wr_id=11)
-11. [UNB To Hold First Fan Meeting In Thailand This
-    June](https://www.hellokpop.com/event/unb-1st-fan-meeting-in-bangkok/)
+9.  [The Unit Official Twitter 20180221](https://twitter.com/TheUNIT_KBS2017/status/966233589762240512)
+10. [2018 UNB JAPAN 1st FAN MEETINGツアー開催決定！](http://theunit-b.jp/bbs/board.php?bo_table=news&wr_id=11)
+11. [UNB To Hold First Fan Meeting In Thailand This June](https://www.hellokpop.com/event/unb-1st-fan-meeting-in-bangkok/)

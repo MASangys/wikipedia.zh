@@ -1,6 +1,4 @@
-《**新人王 防彈少年團－Channel
-防彈**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Big
-Hit娛樂公司旗下](../Page/Big_Hit娛樂.md "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[防彈少年團的第一個電視](../Page/防彈少年團.md "wikilink")[真人秀](https://zh.wikipedia.org/wiki/真人秀 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，以「防彈頻道」為假想設定的新概念聯合演出。\[1\]防彈少年團親自作為演出者，挑戰各種類型的節目企劃，在節目中展現活潑的嘻哈少年模樣與豐富多彩的魅力。\[2\]\[3\]
+《**新人王 防彈少年團－Channel 防彈**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Big Hit娛樂公司旗下](../Page/Big_Hit娛樂.md "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[防彈少年團](../Page/防彈少年團.md "wikilink")的第一個電視[真人秀](https://zh.wikipedia.org/wiki/真人秀 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，以「防彈頻道」為假想設定的新概念聯合演出。\[1\]防彈少年團親自作為演出者，挑戰各種類型的節目企劃，在節目中展現活潑的嘻哈少年模樣與豐富多彩的魅力。\[2\]\[3\]
 
 自2013年9月3日開始，韓國時間每週二下午五點於播出\[4\]，播映至2013年10月22日結束，總共八集。
 
@@ -133,7 +131,7 @@ Hit娛樂公司旗下](../Page/Big_Hit娛樂.md "wikilink")[男子團體](https:
 |                   |             |                                      |
 | ----------------- | ----------- | ------------------------------------ |
 | 主題                | 演出團員        | 藍本                                   |
-| 防彈漢堡              | V、Jung Kook | [漢堡王電視廣告](../Page/漢堡王.md "wikilink") |
+| 防彈漢堡              | V、Jung Kook | [漢堡王](../Page/漢堡王.md "wikilink")電視廣告 |
 | 防彈洗面乳             | Jimin       | 木村拓哉Gatsby電視廣告                       |
 | BTS Happy Music保險 | j-hope      | 保險廣告                                 |
 | 防彈教育              | Rap Monster | 哈利波特                                 |
@@ -201,10 +199,7 @@ Hit娛樂公司旗下](../Page/Big_Hit娛樂.md "wikilink")[男子團體](https:
 
   - 參考來源
 
-[Category:防彈少年團](https://zh.wikipedia.org/wiki/Category:防彈少年團 "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink")
+[Category:防彈少年團](https://zh.wikipedia.org/wiki/Category:防彈少年團 "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink")
 
 1.
 2.

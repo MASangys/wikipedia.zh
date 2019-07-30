@@ -1,5 +1,4 @@
-《**GO FOR
-IT\!**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[超新星第五張日語專輯](https://zh.wikipedia.org/wiki/超新星_\(韓國組合\) "wikilink")，在2012年9月18日以初回限定盤、通常盤及五個成員完全初回限定盤推出\[1\]；因隊長[允鶴當時正在軍隊服役](https://zh.wikipedia.org/wiki/鄭允鶴 "wikilink")，故這大碟是他唯一一張未參與的超新星專輯。
+《**GO FOR IT\!**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[超新星第五張日語專輯](https://zh.wikipedia.org/wiki/超新星_\(韓國組合\) "wikilink")，在2012年9月18日以初回限定盤、通常盤及五個成員完全初回限定盤推出\[1\]；因隊長[允鶴當時正在軍隊服役](https://zh.wikipedia.org/wiki/鄭允鶴 "wikilink")，故這大碟是他唯一一張未參與的超新星專輯。
 
 ## 背景
 
@@ -23,7 +22,7 @@ IT\!**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量         | 總銷量     | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量         | 總銷量     | 停留時間 |
 | ---------------------------------------- | ---- | ----------- | ------- | ---- |
 | 專輯日榜                                     | 3    | 14,476      | 29,114+ | 4星期  |
 | 專輯週榜                                     | 8    | 26,849      |         |      |
@@ -44,9 +43,7 @@ IT\!**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 
 [Category:超新星音樂專輯](https://zh.wikipedia.org/wiki/Category:超新星音樂專輯 "wikilink")
 
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink")
+[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink")
 
 1.
 2.

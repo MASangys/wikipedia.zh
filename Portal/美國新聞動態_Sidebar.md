@@ -43,7 +43,7 @@ __NOTOC__
 <h5 id="月_1">2月</h5>
 <ul>
 <li>1日，<a href="../Page/托马斯·提格.md" title="wikilink">托马斯·提格</a>，70岁，美国宾夕法尼亚州众议院民主党议员，肺癌。</li>
-<li>4日，<a href="../Page/艾德加·米切尔.md" title="wikilink">艾德加·米切尔</a>，85岁，前<a href="../Page/美国国家航空航天局.md" title="wikilink">美国国家航空航天局宇航员</a>。</li>
+<li>4日，<a href="../Page/艾德加·米切尔.md" title="wikilink">艾德加·米切尔</a>，85岁，前<a href="../Page/美国国家航空航天局.md" title="wikilink">美国国家航空航天局</a>宇航员。</li>
 <li>13日，<a href="../Page/安東寧·斯卡利亞.md" title="wikilink">安東寧·斯卡利亞</a>，79歲，美國法學家，前<a href="https://zh.wikipedia.org/wiki/美國最高法院" title="wikilink">美國最高法院大法官</a>。</li>
 </ul></td>
 </tr>

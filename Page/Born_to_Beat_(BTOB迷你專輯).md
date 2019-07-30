@@ -1,15 +1,8 @@
-《**Born To
-Beat**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB的第](../Page/BTOB.md "wikilink")1張韓語迷你專輯，專輯名稱與BTOB的團名全稱「Born
-To
-Beat」同名，於2012年4月3日正式發行，主打歌曲為《Insane》（）\[1\]。2012年6月15日於[亞洲地區發行](https://zh.wikipedia.org/wiki/亞洲 "wikilink")「亞洲特別盤」\[2\]。
+《**Born To Beat**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的第1張韓語迷你專輯，專輯名稱與BTOB的團名全稱「Born To Beat」同名，於2012年4月3日正式發行，主打歌曲為《Insane》（）\[1\]。2012年6月15日於[亞洲地區發行](https://zh.wikipedia.org/wiki/亞洲 "wikilink")「亞洲特別盤」\[2\]。
 
 ## 背景
 
-2012年3月21日，於[韓國舉行出道記者發表會](https://zh.wikipedia.org/wiki/韓國 "wikilink")，並公開首張迷你專輯《Born
-to
-Beat》的雙主打歌曲《秘密（Insane）》和《Imagine》。3月22日，以[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M
-Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》作為正式出道舞台。
-5月3日，配合韓國父母節而公開單曲《父親》。5月23日，公開單曲《奪走那雙唇（Irresistible Lips）》。
+2012年3月21日，於[韓國舉行出道記者發表會](https://zh.wikipedia.org/wiki/韓國 "wikilink")，並公開首張迷你專輯《Born to Beat》的雙主打歌曲《秘密（Insane）》和《Imagine》。3月22日，以[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》作為正式出道舞台。 5月3日，配合韓國父母節而公開單曲《父親》。5月23日，公開單曲《奪走那雙唇（Irresistible Lips）》。
 
 ## 曲目
 
@@ -191,15 +184,10 @@ Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》作為正式�
 
 ## 外部連結
 
-  - [BTOB Official YouTube
-    Channel](https://www.youtube.com/channel/UCgB7A457ULlgm5c3948vr-w)
+  - [BTOB Official YouTube Channel](https://www.youtube.com/channel/UCgB7A457ULlgm5c3948vr-w)
 
-[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink")
-[Category:BTOB音樂專輯](https://zh.wikipedia.org/wiki/Category:BTOB音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink") [Category:BTOB音樂專輯](https://zh.wikipedia.org/wiki/Category:BTOB音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
-1.  [五大唱片](https://www.5music.com.tw/CDList-C.asp?cdno=433405679447)
-    2017-09-08
-2.  [五大唱片](https://www.5music.com.tw/CDList-C.asp?cdno=433435678828)
-    2017-09-08
+1.  [五大唱片](https://www.5music.com.tw/CDList-C.asp?cdno=433405679447) 2017-09-08
+2.  [五大唱片](https://www.5music.com.tw/CDList-C.asp?cdno=433435678828) 2017-09-08
 3.

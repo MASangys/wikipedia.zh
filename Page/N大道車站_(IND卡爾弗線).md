@@ -36,7 +36,7 @@
 </tbody>
 </table>
 
-此高架車站在1919年3月16日啟用，設有兩個[側式月台和三條軌道](../Page/側式月台.md "wikilink")，中央軌道正常情況下不使用。
+此高架車站在1919年3月16日啟用，設有兩個[側式月台](../Page/側式月台.md "wikilink")和三條軌道，中央軌道正常情況下不使用。
 
 2016年6月7日至2017年5月1日，此站南行月台關閉以便進行翻新\[1\]\[2\]。而曼哈頓方向月台則自2017年5月22日關閉至2018年初\[3\]\[4\]。
 
@@ -45,25 +45,17 @@
 ## 外部連結
 
   -
-  - Station Reporter — [F
-    Train](https://web.archive.org/web/20120204051254/http://www.stationreporter.net/ftrain.htm)
+  - Station Reporter — [F Train](https://web.archive.org/web/20120204051254/http://www.stationreporter.net/ftrain.htm)
 
-  - The Subway Nut — [Avenue N
-    Pictures](http://www.subwaynut.com/ind/ave_nf/index.php)
+  - The Subway Nut — [Avenue N Pictures](http://www.subwaynut.com/ind/ave_nf/index.php)
 
-  - [Avenue N entrance from Google Maps Street
-    View](https://maps.google.com/?ll=40.614347,-73.974397&spn=0.002627,0.004823&t=h&layer=c&cbll=40.614164,-73.974227&panoid=mhe74kXka5qdgeR66eyuKg&cbp=12,43.5,,0,-7.81&z=18)
+  - [Avenue N entrance from Google Maps Street View](https://maps.google.com/?ll=40.614347,-73.974397&spn=0.002627,0.004823&t=h&layer=c&cbll=40.614164,-73.974227&panoid=mhe74kXka5qdgeR66eyuKg&cbp=12,43.5,,0,-7.81&z=18)
 
-  - [Avenue M entrance from Google Maps Street
-    View](https://maps.google.com/?ie=UTF8&ll=40.615569,-73.973984&spn=0,0.006657&t=h&z=18&layer=c&cbll=40.616214,-73.974407&panoid=I1wKoX-R8A3Zth-KliVJ9w&cbp=12,208.03,,0,2.75)
+  - [Avenue M entrance from Google Maps Street View](https://maps.google.com/?ie=UTF8&ll=40.615569,-73.973984&spn=0,0.006657&t=h&z=18&layer=c&cbll=40.616214,-73.974407&panoid=I1wKoX-R8A3Zth-KliVJ9w&cbp=12,208.03,,0,2.75)
 
-  - [Platforms from Google Maps Street View (During 2016-2018
-    Renovation)](https://www.google.com/maps/place/Avenue+N,+Brooklyn,+NY+11230/@40.6151247,-73.9741649,3a,75y,90t/data=!3m4!1e1!3m2!1s-xlQG_YSMUJs%2FWb7ujVUdAHI%2FAAAAAAAAyvY%2FFgWrlsPLnkkYHdPnLxZ9HKWjZNxACrtywCLIBGAYYCw!2e4!4m2!3m1!1s0x89c244e77f6050eb:0xd97310dac9667f9e!5m1!1e2)
+  - [Platforms from Google Maps Street View (During 2016-2018 Renovation)](https://www.google.com/maps/place/Avenue+N,+Brooklyn,+NY+11230/@40.6151247,-73.9741649,3a,75y,90t/data=!3m4!1e1!3m2!1s-xlQG_YSMUJs%2FWb7ujVUdAHI%2FAAAAAAAAyvY%2FFgWrlsPLnkkYHdPnLxZ9HKWjZNxACrtywCLIBGAYYCw!2e4!4m2!3m1!1s0x89c244e77f6050eb:0xd97310dac9667f9e!5m1!1e2)
 
-[Category:IND卡爾弗線車站](https://zh.wikipedia.org/wiki/Category:IND卡爾弗線車站 "wikilink")
-[Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink")
-[Category:1919年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1919年啟用的鐵路車站 "wikilink")
-[Category:1919年紐約州建立](https://zh.wikipedia.org/wiki/Category:1919年紐約州建立 "wikilink")
+[Category:IND卡爾弗線車站](https://zh.wikipedia.org/wiki/Category:IND卡爾弗線車站 "wikilink") [Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink") [Category:1919年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1919年啟用的鐵路車站 "wikilink") [Category:1919年紐約州建立](https://zh.wikipedia.org/wiki/Category:1919年紐約州建立 "wikilink")
 
 1.
 2.

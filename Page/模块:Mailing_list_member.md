@@ -47,8 +47,7 @@ function p.main(frame)
 `       end`
 `   elseif pargs.page then`
 `       page = pargs.page`
-`       retval = '`[`'``   ``..``   ``page``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._page_.._' "wikilink")`'`
+`       retval = '`[`'``   ``..``   ``page``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._page_.._' "wikilink")`'`
 `   else`
 `       return '`<span class="error">`未定義使用者名稱或頁面名稱。`</span>`'`
 `   end`

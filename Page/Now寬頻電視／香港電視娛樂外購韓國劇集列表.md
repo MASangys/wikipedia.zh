@@ -1,5 +1,5 @@
-本條目列出曾於[Now寬頻電視](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")／[香港電視娛樂播放但並非由其公司所製作的](../Page/香港電視娛樂.md "wikilink")**外購韓國劇集**，一般以粵/韓雙語廣播。
-<small>註：劇集名稱**前**的為該劇於[Now寬頻電視](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")／[香港電視娛樂的首播日期及頻道](../Page/香港電視娛樂.md "wikilink")。</small>
+本條目列出曾於[Now寬頻電視](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")／[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")播放但並非由其公司所製作的**外購韓國劇集**，一般以粵/韓雙語廣播。
+<small>註：劇集名稱**前**的為該劇於[Now寬頻電視](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")／[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")的首播日期及頻道。</small>
 
 ## 2009年
 
@@ -872,7 +872,7 @@
 <tr class="odd">
 <td><p>8月24日</p></td>
 <td><p><a href="../Page/Now_101台.md" title="wikilink">Now 101台</a></p></td>
-<td><p><strong><a href="../Page/輝煌或瘋狂.md" title="wikilink">輝煌或瘋狂／輝煌與瘋狂</a>[25]</strong></p></td>
+<td><p><strong><a href="../Page/輝煌或瘋狂.md" title="wikilink">輝煌或瘋狂</a>／輝煌與瘋狂[25]</strong></p></td>
 <td><p><a href="../Page/張赫_(韓國).md" title="wikilink">張赫</a><br />
 <a href="../Page/吳漣序.md" title="wikilink">吳漣序</a><br />
 <a href="https://zh.wikipedia.org/wiki/李荷妮" title="wikilink">李荷妮</a><br />
@@ -884,7 +884,7 @@
 <tr class="even">
 <td><p>9月21日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a></p></td>
-<td><p><strong><a href="../Page/貓來了.md" title="wikilink">貓來了!</a></strong><br />
+<td><p><strong><a href="../Page/貓來了.md" title="wikilink">貓來了</a>!</strong><br />
 （貓來了）</p></td>
 <td><p><a href="../Page/崔允英.md" title="wikilink">崔允英</a><br />
 <a href="../Page/顯祐.md" title="wikilink">顯祐</a><br />
@@ -1262,7 +1262,7 @@
 <tr class="odd">
 <td><p>6月17日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a></p></td>
-<td><p><strong><a href="../Page/太陽的後裔.md" title="wikilink">太陽的後裔特別篇</a></strong></p></td>
+<td><p><strong><a href="../Page/太陽的後裔.md" title="wikilink">太陽的後裔</a>特別篇</strong></p></td>
 <td><p><a href="../Page/宋仲基.md" title="wikilink">宋仲基</a><br />
 <a href="../Page/宋慧喬.md" title="wikilink">宋慧喬</a><br />
 <a href="../Page/晉久.md" title="wikilink">晉久</a><br />
@@ -1421,7 +1421,7 @@
 <td><p>9月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a></p></td>
 <td><p><strong><a href="../Page/打架吧鬼神.md" title="wikilink">打架吧鬼神</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/玉澤演" title="wikilink">玉澤演</a><br />
+<td><p><a href="../Page/玉澤演.md" title="wikilink">玉澤演</a><br />
 <a href="https://zh.wikipedia.org/wiki/金所炫" title="wikilink">金所炫</a><br />
 <a href="../Page/權律.md" title="wikilink">權律</a><br />
 <a href="../Page/金相浩.md" title="wikilink">金相浩</a></p></td>
@@ -1474,7 +1474,7 @@
 <tr class="even">
 <td><p>11月11日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a></p></td>
-<td><p><strong><a href="../Page/雲畫的月光.md" title="wikilink">雲畫的月光特別篇</a></strong></p></td>
+<td><p><strong><a href="../Page/雲畫的月光.md" title="wikilink">雲畫的月光</a>特別篇</strong></p></td>
 <td><p><a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a><br />
 <a href="../Page/金裕貞.md" title="wikilink">金裕貞</a><br />
 <a href="https://zh.wikipedia.org/wiki/鄭振永" title="wikilink">鄭振永</a><br />
@@ -2302,8 +2302,20 @@
 <a href="../Page/金瑞亨.md" title="wikilink">金瑞亨</a></p></td>
 <td></td>
 <td><p>20（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
-（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
+22（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
 <td><p>[264][265]</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月11日</p></td>
+<td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
+<td><p><strong><a href="../Page/今天的偵探.md" title="wikilink">今日的偵探</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/崔丹尼爾" title="wikilink">崔丹尼爾</a><br />
+<a href="../Page/朴恩玭.md" title="wikilink">朴恩玭</a><br />
+<a href="../Page/李智雅.md" title="wikilink">李智雅</a></p></td>
+<td></td>
+<td><p>32（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
+（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
+<td><p>[266][267]</p></td>
 </tr>
 </tbody>
 </table>
@@ -2338,10 +2350,9 @@
 
 ## 參見
 
-[Category:Now寬頻電視節目](https://zh.wikipedia.org/wiki/Category:Now寬頻電視節目 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
+[Category:Now寬頻電視節目](https://zh.wikipedia.org/wiki/Category:Now寬頻電視節目 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
 
-1.  [Now寬頻電視只有收費電視播映權](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")，免費電視播映權由[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")、[亞洲電視或](../Page/亞洲電視.md "wikilink")[奇妙電視擁有](../Page/奇妙電視.md "wikilink")
+1.  [Now寬頻電視只有收費電視播映權](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")，免費電視播映權由[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")、[亞洲電視](../Page/亞洲電視.md "wikilink")或[奇妙電視](../Page/奇妙電視.md "wikilink")擁有
 
 2.
 3.
@@ -2365,7 +2376,7 @@
 18.
 19. 曾在其他電視台首播
 
-20. 曾于[Now香港台重播](../Page/Now香港台.md "wikilink")
+20. 曾于[Now香港台](../Page/Now香港台.md "wikilink")重播
 
 21. 不設粵語配音
 
@@ -2380,7 +2391,7 @@
 29.
 30. 可以在Viu OTT Apps重溫
 
-31. 曾于[ViuTV重播](../Page/ViuTV.md "wikilink")
+31. 曾于[ViuTV](../Page/ViuTV.md "wikilink")重播
 
 32.
 33.
@@ -2626,3 +2637,5 @@
 263.
 264.
 265.
+266.
+267.

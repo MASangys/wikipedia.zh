@@ -1,8 +1,8 @@
-**牙買加線**（），又稱「百老匯線」（）或「百老匯（布魯克林）線」（），是一條位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[布魯克林區和](https://zh.wikipedia.org/wiki/布魯克林區 "wikilink")[皇后區](../Page/皇后區.md "wikilink")，屬於[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的高架[地鐵路線](../Page/地鐵.md "wikilink")。此線由[威廉斯堡大橋東南跨過百老匯到](../Page/威廉斯堡大橋.md "wikilink")，乲後再向東跨過和到。路線在牙買加西部進入隧道，並在牙買加中心成為[射手大道線下層](../Page/射手大道線.md "wikilink")。[J線及](../Page/紐約地鐵J線與Z線.md "wikilink")[Z線列車服務牙買加線全線](../Page/紐約地鐵J線與Z線.md "wikilink")，而[M線服務](../Page/紐約地鐵M線.md "wikilink")[百老匯交匯以西的路段](https://zh.wikipedia.org/wiki/百老匯交匯車站_\(BMT牙買加線\) "wikilink")。
+**牙買加線**（），又稱「百老匯線」（）或「百老匯（布魯克林）線」（），是一條位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[布魯克林區和](https://zh.wikipedia.org/wiki/布魯克林區 "wikilink")[皇后區](../Page/皇后區.md "wikilink")，屬於[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的高架[地鐵](../Page/地鐵.md "wikilink")路線。此線由[威廉斯堡大橋](../Page/威廉斯堡大橋.md "wikilink")東南跨過百老匯到，乲後再向東跨過和到。路線在牙買加西部進入隧道，並在牙買加中心成為[射手大道線](../Page/射手大道線.md "wikilink")下層。[J線及](../Page/紐約地鐵J線與Z線.md "wikilink")[Z線列車服務牙買加線全線](../Page/紐約地鐵J線與Z線.md "wikilink")，而[M線服務](../Page/紐約地鐵M線.md "wikilink")[百老匯交匯以西的路段](https://zh.wikipedia.org/wiki/百老匯交匯車站_\(BMT牙買加線\) "wikilink")。
 
 此線是紐約地鐵最長的高架鐵路，牙買加線也包括紐約地鐵最古老的高架結構：原初1885年的路線，舊，介乎[蓋茲大道及](https://zh.wikipedia.org/wiki/蓋茲大道車站_\(BMT牙買加線\) "wikilink")[凡希克凌大道](../Page/凡希克凌大道車站_\(BMT牙買加線\).md "wikilink")，也有最新的高架結構，1988年進入射手大道線地下段的斜坡。
 
-[布魯克林-曼哈頓運輸股份有限公司](../Page/布魯克林-曼哈頓運輸股份有限公司.md "wikilink")（BMT）起初營運西行列車前往曼哈頓和東行列車前往中村卡納西或牙買加，大致上與羅盤方向相同。然而紐約市公共運輸局的鐵路方向以南北為準，取代了BMT東西向的鐵路方向。這次重新分類導致通過[BMT納蘇街線到](https://zh.wikipedia.org/wiki/BMT納蘇街線 "wikilink")的列車有兩個南端總站。為了消除混亂情況，東分部的列車服務方向對調，開往牙買加的列車視為北行\[1\]\[2\]KK線（後來的[K線](../Page/紐約地鐵K線.md "wikilink")）和現時的[M線列車是少數的例外](../Page/紐約地鐵M線.md "wikilink")，因為都自[IND第六大道線通過](../Page/IND第六大道線.md "wikilink")進入牙買加、百老匯交匯或大都會大道，故此繼續成為南端總站。
+[布魯克林-曼哈頓運輸股份有限公司](../Page/布魯克林-曼哈頓運輸股份有限公司.md "wikilink")（BMT）起初營運西行列車前往曼哈頓和東行列車前往中村卡納西或牙買加，大致上與羅盤方向相同。然而紐約市公共運輸局的鐵路方向以南北為準，取代了BMT東西向的鐵路方向。這次重新分類導致通過[BMT納蘇街線到](https://zh.wikipedia.org/wiki/BMT納蘇街線 "wikilink")的列車有兩個南端總站。為了消除混亂情況，東分部的列車服務方向對調，開往牙買加的列車視為北行\[1\]\[2\]KK線（後來的[K線](../Page/紐約地鐵K線.md "wikilink")）和現時的[M線列車是少數的例外](../Page/紐約地鐵M線.md "wikilink")，因為都自[IND第六大道線](../Page/IND第六大道線.md "wikilink")通過進入牙買加、百老匯交匯或大都會大道，故此繼續成為南端總站。
 
 ## 服務頻率
 
@@ -526,8 +526,7 @@
 
 ## 參考資料
 
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1885年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1885年啟用的鐵路線 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1885年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1885年啟用的鐵路線 "wikilink")
 
 1.  1967市紐約市公共運輸局路線圖的車站導覽的服務時間表在JJ線與QJ線視為南行早上隔站停靠列車。
 
@@ -536,11 +535,7 @@
 3.
 
 4.
-5.  Lee Dembart, [New York
-    Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), [A
-    Sentimental Journey on the
-    BMT](https://select.nytimes.com/gst/abstract.html?res=FB0D16F8385A167493CBA91782D85F438785F9),
-    September 9, 1977, page 61
+5.  Lee Dembart, [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), [A Sentimental Journey on the BMT](https://select.nytimes.com/gst/abstract.html?res=FB0D16F8385A167493CBA91782D85F438785F9), September 9, 1977, page 61
 
 6.
 7.
@@ -577,9 +572,7 @@
 28.
 29.
 30.
-31. BMT Lines: Brooklyn Manhattan Transit: A History as Seen Through the
-    Company's Maps, Guides and other Documents: 1923-1939," by James
-    Poulous
+31. BMT Lines: Brooklyn Manhattan Transit: A History as Seen Through the Company's Maps, Guides and other Documents: 1923-1939," by James Poulous
 
 32.
 

@@ -1,37 +1,20 @@
-**JBJ**（）是由《[PRODUCE 101
-第二季](../Page/PRODUCE_101_第二季.md "wikilink")》節目中，排名第21-30名中的7位參賽者所組成的韓國男子演唱團體，成員包括[盧太鉉](../Page/盧太鉉.md "wikilink")、[髙田健太](https://zh.wikipedia.org/wiki/高田健太 "wikilink")、[金相均](../Page/金相均.md "wikilink")、[金龍國](https://zh.wikipedia.org/wiki/金龍國 "wikilink")、金泰東、[權玄彬](../Page/權玄彬.md "wikilink")、[金東漢](https://zh.wikipedia.org/wiki/金東漢 "wikilink")。金泰東因合約問題而無法加入，最終JBJ成員只有六個。JBJ原是粉絲自創的假想男团，後因反應火熱而正式與[CJ
-E\&M和](https://zh.wikipedia.org/wiki/CJ集團 "wikilink")[LOEN娛樂合作](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，以[FAVE娛樂旗下藝人的身份進行為期](https://zh.wikipedia.org/wiki/LOEN娛樂#Fave_Entertainment\(原Loen_Tree\) "wikilink")7個月的活動。2017年10月18日以第一張迷你專輯《[Fantasy](../Page/Fantasy_\(JBJ迷你專輯\).md "wikilink")》正式出道，並於當晚8點在[高麗大學化汀體育館舉行出道演唱會](../Page/高麗大學.md "wikilink")。
+**JBJ**（）是由《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》節目中，排名第21-30名中的7位參賽者所組成的韓國男子演唱團體，成員包括[盧太鉉](../Page/盧太鉉.md "wikilink")、[髙田健太](https://zh.wikipedia.org/wiki/高田健太 "wikilink")、[金相均](../Page/金相均.md "wikilink")、[金龍國](https://zh.wikipedia.org/wiki/金龍國 "wikilink")、金泰東、[權玄彬](../Page/權玄彬.md "wikilink")、[金東漢](https://zh.wikipedia.org/wiki/金東漢 "wikilink")。金泰東因合約問題而無法加入，最終JBJ成員只有六個。JBJ原是粉絲自創的假想男团，後因反應火熱而正式與[CJ E\&M和](https://zh.wikipedia.org/wiki/CJ集團 "wikilink")[LOEN娛樂合作](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，以[FAVE娛樂旗下藝人的身份進行為期](https://zh.wikipedia.org/wiki/LOEN娛樂#Fave_Entertainment\(原Loen_Tree\) "wikilink")7個月的活動。2017年10月18日以第一張迷你專輯《[Fantasy](../Page/Fantasy_\(JBJ迷你專輯\).md "wikilink")》正式出道，並於當晚8點在[高麗大學](../Page/高麗大學.md "wikilink")化汀體育館舉行出道演唱會。
 
-JBJ意為「**Just Be
-Joyful**」（就這樣在舞台上享受吧），官方應援數字為**787**，原因是787與JBJ形狀相似，另外亦代表87名中的7（7
-of 87，全部練習生101名－因健康下車的3名－出道組11名＝87名）。官方應援色為以官方應援數字787調校出的RGB色碼\#787FFF
-\[1\]和 \#FFF787\[2\]雙色。
+JBJ意為「**Just Be Joyful**」（就這樣在舞台上享受吧），官方應援數字為**787**，原因是787與JBJ形狀相似，另外亦代表87名中的7（7 of 87，全部練習生101名－因健康下車的3名－出道組11名＝87名）。官方應援色為以官方應援數字787調校出的RGB色碼\#787FFF \[1\]和 \#FFF787\[2\]雙色。
 
-官方於2017年12月7日透過V
-APP公開官方粉絲名「**Joyful**」（韓語：**조이풀**）。Joyful本意為“喜悅的、開心的、令人愉快的、令人喜悅的”等，粉絲名的寓意則引申為“粉絲們也一起來享受吧”之意。
+官方於2017年12月7日透過V APP公開官方粉絲名「**Joyful**」（韓語：**조이풀**）。Joyful本意為“喜悅的、開心的、令人愉快的、令人喜悅的”等，粉絲名的寓意則引申為“粉絲們也一起來享受吧”之意。
 
 ## 發展歷程
 
 ### 出道前
 
-在《[PRODUCE 101
-第二季](../Page/PRODUCE_101_第二季.md "wikilink")》第三次排名後，粉絲將7位未能進入前20名的高人氣參賽者[盧太鉉](../Page/盧太鉉.md "wikilink")、[髙田健太](https://zh.wikipedia.org/wiki/高田健太 "wikilink")、[金相均](../Page/金相均.md "wikilink")、[金龍國](https://zh.wikipedia.org/wiki/金龍國 "wikilink")、[權玄彬](../Page/權玄彬.md "wikilink")、金泰東、[金東漢組成假想團體](https://zh.wikipedia.org/wiki/金東漢 "wikilink")「**JBJ**」（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：**제이비제이**或又稱**켄콜태균소호빈**）；因實力與節目播出份量不成正比，在一開始團名意為「**(J)拜託
-(B)分量 (J)多給點吧**」\[3\]，取至韓文首字的諧音。又有「**(J)俊英 (B)拋棄了的
-(J)小子們**」\[4\]（《[PRODUCE 101
-第二季](../Page/PRODUCE_101_第二季.md "wikilink")》的製作人為安俊英））之義。而後JBJ的涵義為「**Just
-Be Joyful**」，有著「**就這樣享受吧**」的意思，同時亦含「**(J)真的是 (B)幻想中的 (J)組合**」\[5\]之義。
+在《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》第三次排名後，粉絲將7位未能進入前20名的高人氣參賽者[盧太鉉](../Page/盧太鉉.md "wikilink")、[髙田健太](https://zh.wikipedia.org/wiki/高田健太 "wikilink")、[金相均](../Page/金相均.md "wikilink")、[金龍國](https://zh.wikipedia.org/wiki/金龍國 "wikilink")、[權玄彬](../Page/權玄彬.md "wikilink")、金泰東、[金東漢組成假想團體](https://zh.wikipedia.org/wiki/金東漢 "wikilink")「**JBJ**」（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：**제이비제이**或又稱**켄콜태균소호빈**）；因實力與節目播出份量不成正比，在一開始團名意為「**(J)拜託 (B)分量 (J)多給點吧**」\[3\]，取至韓文首字的諧音。又有「**(J)俊英 (B)拋棄了的 (J)小子們**」\[4\]（《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》的製作人為安俊英））之義。而後JBJ的涵義為「**Just Be Joyful**」，有著「**就這樣享受吧**」的意思，同時亦含「**(J)真的是 (B)幻想中的 (J)組合**」\[5\]之義。
 
-由於粉絲們的大力支持與宣傳，《[PRODUCE 101
-第二季](../Page/PRODUCE_101_第二季.md "wikilink")》製作單位[CJ
-E\&M於](https://zh.wikipedia.org/wiki/CJ集團 "wikilink")7月12日表示，未來[JBJ將由](../Page/JBJ.md "wikilink")[LOEN娛樂旗下的FAVE娛樂負責專輯企劃製作與銷售](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，並負責不同公司成員的經紀，計畫於9月中旬出道；但稍晚，成員權玄彬所屬社[YG
-K+則表示對於此計畫尚未同意](../Page/YG_K_Plus.md "wikilink")，並需再進行更多商議討論。\[6\]\[7\]
+由於粉絲們的大力支持與宣傳，《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》製作單位[CJ E\&M於](https://zh.wikipedia.org/wiki/CJ集團 "wikilink")7月12日表示，未來[JBJ](../Page/JBJ.md "wikilink")將由[LOEN娛樂旗下的FAVE娛樂負責專輯企劃製作與銷售](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，並負責不同公司成員的經紀，計畫於9月中旬出道；但稍晚，成員權玄彬所屬社[YG K+則表示對於此計畫尚未同意](../Page/YG_K_Plus.md "wikilink")，並需再進行更多商議討論。\[6\]\[7\]
 
-原本一直遲遲未定案的[YG K+最終在](../Page/YG_K_Plus.md "wikilink")7月26日表示同意合流，組合將由CJ
-E\&M跟LOEN共同製作，預計JBJ會在9月初舉辦粉絲見面會並公開音源，並預計出道日期為9月10日。因為是按照粉絲們的意願而組成的組合，今後也會多多參考粉絲們的意見進行活動\[8\]\[9\]。然而，在7月27日，因成員金泰東與所屬社THE
-VIBE LABEL兩方合約狀態不明，因此JBJ出道計畫再次陷入不確定之中。\[10\]
+原本一直遲遲未定案的[YG K+最終在](../Page/YG_K_Plus.md "wikilink")7月26日表示同意合流，組合將由CJ E\&M跟LOEN共同製作，預計JBJ會在9月初舉辦粉絲見面會並公開音源，並預計出道日期為9月10日。因為是按照粉絲們的意願而組成的組合，今後也會多多參考粉絲們的意見進行活動\[8\]\[9\]。然而，在7月27日，因成員金泰東與所屬社THE VIBE LABEL兩方合約狀態不明，因此JBJ出道計畫再次陷入不確定之中。\[10\]
 
-8月15日據媒體指出，JBJ成員所屬經紀人於前一晚開會商討出道計劃，預計下月推出專輯，且LOEN公司方面也證實已開始進行歌曲錄音，音樂方面將由CJ
-E\&M負責，經紀及宣傳則由LOEN旗下的Fave娛樂負責。而早前與經理人公司有合約糾紛的金泰東，亦已解決問題，組合將以7人陣容亮相。\[11\]\[12\]
+8月15日據媒體指出，JBJ成員所屬經紀人於前一晚開會商討出道計劃，預計下月推出專輯，且LOEN公司方面也證實已開始進行歌曲錄音，音樂方面將由CJ E\&M負責，經紀及宣傳則由LOEN旗下的Fave娛樂負責。而早前與經理人公司有合約糾紛的金泰東，亦已解決問題，組合將以7人陣容亮相。\[11\]\[12\]
 
 8月30日，JBJ其中六人（金泰東除外）所屬社聯合發佈出道聲明，表示將在30日開始以JBJ的名字展開組合活動，並於9月通過有線電視Mnet的M2播出單獨真人秀節目作為出道後第一個團體活動，而第一張迷你專輯將在10月18日發售。JBJ一開始計畫的7個人出道，由於金泰東和所屬社的合約糾紛尚未解決，故只先正式宣佈了另外六人的消息，但也會繼續等待金泰東和所屬社的最終協定結果。JBJ此次簽署的合約是7個月，存在延長的可能性，而進行的組合活動不會妨礙到各成員的原有活動。\[13\]
 
@@ -39,10 +22,7 @@ E\&M負責，經紀及宣傳則由LOEN旗下的Fave娛樂負責。而早前與�
 
 2017年10月18日，JBJ發行第一張迷你專輯《[FANTASY](https://zh.wikipedia.org/wiki/FANTASY_\(JBJ迷你專輯\) "wikilink")》，並於高麗大學化汀體育館舉行出道演唱會《真的很適合出道的日子》正式出道。雖然團體是由六個人出道，但成員們均表示**始終將金泰東視為JBJ的一員**\[14\]。
 
-他們的第二張迷你專輯在2018年1月17日發行，主打歌為《꽃이야》，並於首爾廣津區YES24 LIVE HALL舉行迷你2輯「TRUE
-COLORS」媒體SHOW
-CASE。通過這張專輯，JBJ在出道的第101日，即2018年1月26日，於[KBS音樂節目](../Page/韓國放送公社.md "wikilink")《[MUSIC
-BANK](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》取得初一位\[15\]。
+他們的第二張迷你專輯在2018年1月17日發行，主打歌為《꽃이야》，並於首爾廣津區YES24 LIVE HALL舉行迷你2輯「TRUE COLORS」媒體SHOW CASE。通過這張專輯，JBJ在出道的第101日，即2018年1月26日，於[KBS音樂節目](../Page/韓國放送公社.md "wikilink")《[MUSIC BANK](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》取得初一位\[15\]。
 
 雖然外界傳JBJ打算續約延長活動時間，JBJ方面在2018年3月14日宣佈JBJ所有成員皆不續約，團體活動只到4月30日為止。\[16\]。隨後表示他們會在4月17日推出最后一张专辑，這張專輯將以正規專輯形式發行，专辑除了收錄三首新歌之外也會收錄前两张专辑里的所有歌曲，同時JBJ也會在4月21日及22日進行為期兩日名為「真的值得期待的演唱會［Epilogue］」的終場演出。\[17\]\[18\]
 
@@ -66,8 +46,7 @@ BANK](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》取得初一位\[
 ### 迷你專輯
 
   - 2017年：[Fantasy](../Page/Fantasy_\(JBJ迷你專輯\).md "wikilink")
-  - 2018年：[True
-    Colors](https://zh.wikipedia.org/wiki/True_Colors_\(JBJ迷你專輯\) "wikilink")
+  - 2018年：[True Colors](https://zh.wikipedia.org/wiki/True_Colors_\(JBJ迷你專輯\) "wikilink")
 
 ### 正規專輯
 
@@ -499,7 +478,7 @@ Vlive</p></td>
 <td><p>2017年10月18日</p></td>
 <td><p>真的很適合出道的日子</p></td>
 <td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
-<td><p><a href="../Page/高麗大學.md" title="wikilink">高麗大學化汀體育館</a></p></td>
+<td><p><a href="../Page/高麗大學.md" title="wikilink">高麗大學</a>化汀體育館</p></td>
 <td><p>出道Showcase</p></td>
 </tr>
 <tr class="odd">
@@ -589,7 +568,7 @@ Vlive</p></td>
 <tr class="even">
 <td><p>2018年1月6日</p></td>
 <td></td>
-<td><p><a href="../Page/亞洲國際博覽館.md" title="wikilink">亞洲國際博覽館10號展館</a></p></td>
+<td><p><a href="../Page/亞洲國際博覽館.md" title="wikilink">亞洲國際博覽館</a>10號展館</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -694,21 +673,21 @@ Vlive</p></td>
 <tr class="odd">
 <td><p>2017年11月11日</p></td>
 <td><p>2017 DDP K-POP CONCERT</p></td>
-<td><p><a href="../Page/首爾.md" title="wikilink">首爾特別市</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a>特別市</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/東大門設計廣場" title="wikilink">東大門設計廣場</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2017年11月28日</p></td>
 <td><p>Etoos Healing Concert</p></td>
-<td><p><a href="../Page/首爾.md" title="wikilink">首爾特別市</a></p></td>
-<td><p><a href="../Page/高麗大學.md" title="wikilink">高麗大學花亭體育館</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a>特別市</p></td>
+<td><p><a href="../Page/高麗大學.md" title="wikilink">高麗大學</a>花亭體育館</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年11月29日</p></td>
 <td><p>2017 MBN Hero Concert</p></td>
-<td><p><a href="../Page/首爾.md" title="wikilink">首爾特別市</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a>特別市</p></td>
 <td><p><a href="../Page/首爾綜合運動場.md" title="wikilink">蠶室室內體育館</a></p></td>
 <td></td>
 </tr>
@@ -750,7 +729,7 @@ Vlive</p></td>
 <tr class="odd">
 <td><p>2018年2月22日</p></td>
 <td><p>2018 Let's get it! Etoos Concert</p></td>
-<td><p><a href="../Page/首爾.md" title="wikilink">首爾特別市</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a>特別市</p></td>
 <td><p><a href="../Page/首爾綜合運動場.md" title="wikilink">蠶室學生體育館</a></p></td>
 <td><p>|</p></td>
 </tr>
@@ -909,17 +888,7 @@ Vlive</p></td>
 
 ### 參考資料
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
-[Category:期間限定團體](https://zh.wikipedia.org/wiki/Category:期間限定團體 "wikilink")
-[Category:JBJ](https://zh.wikipedia.org/wiki/Category:JBJ "wikilink")
-[Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink")
-[Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink")
-[Category:FAVE娛樂](https://zh.wikipedia.org/wiki/Category:FAVE娛樂 "wikilink")
-[Category:PRODUCE_101](https://zh.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
-[Category:已解散的韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國男子演唱團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:期間限定團體](https://zh.wikipedia.org/wiki/Category:期間限定團體 "wikilink") [Category:JBJ](https://zh.wikipedia.org/wiki/Category:JBJ "wikilink") [Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink") [Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink") [Category:FAVE娛樂](https://zh.wikipedia.org/wiki/Category:FAVE娛樂 "wikilink") [Category:PRODUCE_101](https://zh.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:已解散的韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國男子演唱團體 "wikilink")
 
 1.  Pantone 2725C
 
@@ -955,9 +924,7 @@ Vlive</p></td>
 
 18.
 
-19. [\[★이력서\] 엠 아이 핫샷? 아이 엠
-    핫샷(HOTSHOT)\!](http://www.staraz.co.kr/news/articleView.html?idxno=19003)，Kid
-    Monster將寫錯“鉉”作“銯”
+19. [\[★이력서\] 엠 아이 핫샷? 아이 엠 핫샷(HOTSHOT)\!](http://www.staraz.co.kr/news/articleView.html?idxno=19003)，Kid Monster將寫錯“鉉”作“銯”
 
 20.
 

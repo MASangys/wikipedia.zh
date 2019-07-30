@@ -1,11 +1,6 @@
-**J.Sheon**（1985年12月24日 -
-），本名**莊珣**，[台灣網路新竄起的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[男歌手](https://zh.wikipedia.org/wiki/男歌手 "wikilink")，在[台北出生長大](https://zh.wikipedia.org/wiki/台北 "wikilink")，高中畢業隨家人到[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，在[紐約居住了長達將近八年的時間](https://zh.wikipedia.org/wiki/紐約 "wikilink")\[1\]，懷抱音樂的熱情及想成為創作人堅定的想法於2013年返回台北。
+**J.Sheon**（1985年12月24日 - ），本名**莊珣**，[台灣網路新竄起的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[男歌手](https://zh.wikipedia.org/wiki/男歌手 "wikilink")，在[台北出生長大](https://zh.wikipedia.org/wiki/台北 "wikilink")，高中畢業隨家人到[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，在[紐約居住了長達將近八年的時間](https://zh.wikipedia.org/wiki/紐約 "wikilink")\[1\]，懷抱音樂的熱情及想成為創作人堅定的想法於2013年返回台北。
 
-2015年起在[YouTube頻道上以改編翻唱名曲出名](../Page/YouTube.md "wikilink")，頻道上以改編翻唱名曲出名，將《想你的夜》,
-《喜劇之王》 等歌曲改成歐美流行的[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink") /
-[Hip
-Hop曲風之外](https://zh.wikipedia.org/wiki/Hip_Hop "wikilink")，更將《[妖怪手錶](https://www.youtube.com/watch?v=ZMFxNKKCD2I)》改成不同原曲的中國風格獲得極大回響，另外嘗試將《[玩命關頭7](../Page/玩命關頭7.md "wikilink")》的主題曲《[See
-You Again](https://www.youtube.com/watch?v=NoFOcvUlBF8)》改編成中文版本\[2\]。
+2015年起在[YouTube](../Page/YouTube.md "wikilink")頻道上以改編翻唱名曲出名，將《想你的夜》, 《喜劇之王》 等歌曲改成歐美流行的[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink") / [Hip Hop曲風之外](https://zh.wikipedia.org/wiki/Hip_Hop "wikilink")，更將《[妖怪手錶](https://www.youtube.com/watch?v=ZMFxNKKCD2I)》改成不同原曲的中國風格獲得極大回響，另外嘗試將《[玩命關頭7](../Page/玩命關頭7.md "wikilink")》的主題曲《[See You Again](https://www.youtube.com/watch?v=NoFOcvUlBF8)》改編成中文版本\[2\]。
 
 2017年簽約索尼音樂發行了個人首張同名專輯《街巷》，並入圍隔年[第29屆金曲獎](https://zh.wikipedia.org/wiki/第29屆金曲獎 "wikilink")「最佳新人獎」。
 
@@ -92,7 +87,7 @@ You Again](https://www.youtube.com/watch?v=NoFOcvUlBF8)》改編成中文版本\
 <td><p>2014年6月</p></td>
 <td><p>謝乾乾bboydry</p></td>
 <td><p>Drive</p></td>
-<td><p>謝乾乾bboydry / J.Sheon</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/謝乾乾" title="wikilink">謝乾乾bboydry</a> / J.Sheon</p></td>
 <td><p>謝乾乾bboydry / J.Sheon</p></td>
 <td><p><a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a>、謝乾乾、 J.Sheon</p></td>
 <td></td>
@@ -115,7 +110,7 @@ You Again](https://www.youtube.com/watch?v=NoFOcvUlBF8)》改編成中文版本\
 <td><p>J.Sheon</p></td>
 <td><p>Seojungjin / Keeproots / fascinating</p></td>
 <td></td>
-<td><p>收錄在<a href="../Page/韓庚.md" title="wikilink">韓庚第三張專輯</a>《三庚》</p></td>
+<td><p>收錄在<a href="../Page/韓庚.md" title="wikilink">韓庚</a>第三張專輯《三庚》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -342,8 +337,7 @@ You Again](https://www.youtube.com/watch?v=NoFOcvUlBF8)》改編成中文版本\
 
 <references />
 
-3\.[COOL名人 | 新聲代玩酷好聲音
-J.Sheon](http://www.cool-style.com.tw/wd/archives/237673)
+3\.[COOL名人 | 新聲代玩酷好聲音 J.Sheon](http://www.cool-style.com.tw/wd/archives/237673)
 
 ## 外部連結
 
@@ -352,21 +346,9 @@ J.Sheon](http://www.cool-style.com.tw/wd/archives/237673)
   - [J.Sheon](https://weibo.com/jsheon/)的Weibo專頁
   - [J.Sheon](https://www.youtube.com/channel/UC6zFATnplJUo81fH64InI4g)的YouTube專屬頻道
 
-[Category:1985年出生](https://zh.wikipedia.org/wiki/Category:1985年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:莊姓](https://zh.wikipedia.org/wiki/Category:莊姓 "wikilink")
-[Category:台灣華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:台灣華語流行音樂歌手 "wikilink")
-[Category:台灣作曲家](https://zh.wikipedia.org/wiki/Category:台灣作曲家 "wikilink")
-[Category:台灣作詞家](https://zh.wikipedia.org/wiki/Category:台灣作詞家 "wikilink")
+[Category:1985年出生](https://zh.wikipedia.org/wiki/Category:1985年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:莊姓](https://zh.wikipedia.org/wiki/Category:莊姓 "wikilink") [Category:台灣華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:台灣華語流行音樂歌手 "wikilink") [Category:台灣作曲家](https://zh.wikipedia.org/wiki/Category:台灣作曲家 "wikilink") [Category:台灣作詞家](https://zh.wikipedia.org/wiki/Category:台灣作詞家 "wikilink")
 
-[Category:臺灣YouTuber](https://zh.wikipedia.org/wiki/Category:臺灣YouTuber "wikilink")
-[Category:台灣男歌手](https://zh.wikipedia.org/wiki/Category:台灣男歌手 "wikilink")
-[Category:台灣創作歌手](https://zh.wikipedia.org/wiki/Category:台灣創作歌手 "wikilink")
-[Category:台灣饒舌歌手](https://zh.wikipedia.org/wiki/Category:台灣饒舌歌手 "wikilink")
-[Category:台灣嘻哈歌手](https://zh.wikipedia.org/wiki/Category:台灣嘻哈歌手 "wikilink")
-[Category:台灣嘻哈音樂家](https://zh.wikipedia.org/wiki/Category:台灣嘻哈音樂家 "wikilink")
+[Category:臺灣YouTuber](https://zh.wikipedia.org/wiki/Category:臺灣YouTuber "wikilink") [Category:台灣男歌手](https://zh.wikipedia.org/wiki/Category:台灣男歌手 "wikilink") [Category:台灣創作歌手](https://zh.wikipedia.org/wiki/Category:台灣創作歌手 "wikilink") [Category:台灣饒舌歌手](https://zh.wikipedia.org/wiki/Category:台灣饒舌歌手 "wikilink") [Category:台灣嘻哈歌手](https://zh.wikipedia.org/wiki/Category:台灣嘻哈歌手 "wikilink") [Category:台灣嘻哈音樂家](https://zh.wikipedia.org/wiki/Category:台灣嘻哈音樂家 "wikilink")
 
-1.   即時新聞 {{\!}} 20170406 {{\!}}
-    蘋果日報|newspaper=蘋果日報|accessdate=2017-07-08|language=zh-TW}}
-2.   ETNEWS星光雲 {{\!}}
-    ETNEWS新聞雲|newspaper=ETNEWS星光雲|accessdate=2017-07-08|language=zh-TW}}
+1.   即時新聞 {{\!}} 20170406 {{\!}} 蘋果日報|newspaper=蘋果日報|accessdate=2017-07-08|language=zh-TW}}
+2.   ETNEWS星光雲 {{\!}} ETNEWS新聞雲|newspaper=ETNEWS星光雲|accessdate=2017-07-08|language=zh-TW}}

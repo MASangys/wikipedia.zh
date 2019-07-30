@@ -1,20 +1,14 @@
-《**Com'
-Back**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[水晶男孩第四張正規專輯](../Page/水晶男孩.md "wikilink")，由[DSP娛樂](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")（現已更名為[DSP
-Media](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")）製作，Daeyoung
-AV於1999年9月9日發行\[1\]。專輯收錄十八首歌曲，其中六首為成員自創曲，主打歌為專輯同名歌曲〈Com' Back〉。
+《**Com' Back**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[水晶男孩](../Page/水晶男孩.md "wikilink")第四張正規專輯，由[DSP娛樂](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")（現已更名為[DSP Media](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")）製作，Daeyoung AV於1999年9月9日發行\[1\]。專輯收錄十八首歌曲，其中六首為成員自創曲，主打歌為專輯同名歌曲〈Com' Back〉。
 
-此專輯為[水晶男孩於](../Page/水晶男孩.md "wikilink")[DSP娛樂旗下發行的最後一張正規專輯](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")，組合其後曾於2000年5月20日解散\[2\]，直至2016年4月通過[MBC綜藝節目](https://zh.wikipedia.org/wiki/MBC "wikilink")《[無限挑戰](../Page/無限挑戰.md "wikilink")》企劃特輯《星期六星期六是歌手（六六歌）》第二季首度合體\[3\]。同年5月11日，除目前身為事業家的[高志溶外](../Page/高志溶.md "wikilink")，其餘五名成員與[YG娛樂簽訂團體約](../Page/YG娛樂.md "wikilink")，正式以SECHSKIES之名重啟活動\[4\]。
+此專輯為[水晶男孩](../Page/水晶男孩.md "wikilink")於[DSP娛樂旗下發行的最後一張正規專輯](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")，組合其後曾於2000年5月20日解散\[2\]，直至2016年4月通過[MBC綜藝節目](https://zh.wikipedia.org/wiki/MBC "wikilink")《[無限挑戰](../Page/無限挑戰.md "wikilink")》企劃特輯《星期六星期六是歌手（六六歌）》第二季首度合體\[3\]。同年5月11日，除目前身為事業家的[高志溶](../Page/高志溶.md "wikilink")外，其餘五名成員與[YG娛樂](../Page/YG娛樂.md "wikilink")簽訂團體約，正式以SECHSKIES之名重啟活動\[4\]。
 
 ## 專輯概念
 
-《**Com'
-Back**》為[水晶男孩首張全員參與詞曲創作的專輯](../Page/水晶男孩.md "wikilink")。為了報答粉絲的愛，成員們向以往合作的作曲家學習作曲理論，從而創作出展現各自個性的自創曲\[5\]：〈悲〉（[殷志源作曲](https://zh.wikipedia.org/wiki/殷志源 "wikilink")）、〈A+〉（[金在德作詞作曲](../Page/金在德.md "wikilink")）、〈Rigoletto〉（[李宰鎮作詞作曲](../Page/李宰鎮.md "wikilink")）、〈她留下來的禮物〉（[姜成勳作詞作曲](https://zh.wikipedia.org/wiki/姜成勳 "wikilink")）、〈Missing
-You〉（[張水院作曲](../Page/張水院.md "wikilink")）、〈敵〉（[高志溶作曲](../Page/高志溶.md "wikilink")）。
+《**Com' Back**》為[水晶男孩](../Page/水晶男孩.md "wikilink")首張全員參與詞曲創作的專輯。為了報答粉絲的愛，成員們向以往合作的作曲家學習作曲理論，從而創作出展現各自個性的自創曲\[5\]：〈悲〉（[殷志源作曲](https://zh.wikipedia.org/wiki/殷志源 "wikilink")）、〈A+〉（[金在德](../Page/金在德.md "wikilink")作詞作曲）、〈Rigoletto〉（[李宰鎮](../Page/李宰鎮.md "wikilink")作詞作曲）、〈她留下來的禮物〉（[姜成勳作詞作曲](https://zh.wikipedia.org/wiki/姜成勳 "wikilink")）、〈Missing You〉（[張水院](../Page/張水院.md "wikilink")作曲）、〈敵〉（[高志溶](../Page/高志溶.md "wikilink")作曲）。
 
 ## 曲目
 
-<small>備註：曲目中譯名稱使用[DSP
-Media發行漢字或](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")[滾石唱片翻譯台壓版曲名](../Page/滾石唱片.md "wikilink")</small>
+<small>備註：曲目中譯名稱使用[DSP Media發行漢字或](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")[滾石唱片](../Page/滾石唱片.md "wikilink")翻譯台壓版曲名</small>
 
 ## 音樂錄影帶
 
@@ -117,9 +111,7 @@ Media發行漢字或](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")[滾石
 
 ## 参考資料
 
-[Category:水晶男孩音樂專輯](https://zh.wikipedia.org/wiki/Category:水晶男孩音樂專輯 "wikilink")
-[Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:水晶男孩音樂專輯](https://zh.wikipedia.org/wiki/Category:水晶男孩音樂專輯 "wikilink") [Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

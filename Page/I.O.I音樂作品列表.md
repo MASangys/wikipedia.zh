@@ -1,4 +1,4 @@
-《**I.O.I音樂作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[I.O.I在出道限定期間內所發行的各類音樂作品](../Page/I.O.I.md "wikilink")。
+《**I.O.I音樂作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[I.O.I](../Page/I.O.I.md "wikilink")在出道限定期間內所發行的各類音樂作品。
 
 ## 迷你專輯
 
@@ -472,9 +472,7 @@ World</a><br />
 
 ## 參考文獻
 
-[Category:I.O.I](https://zh.wikipedia.org/wiki/Category:I.O.I "wikilink")
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
-[Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
+[Category:I.O.I](https://zh.wikipedia.org/wiki/Category:I.O.I "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.
 2.

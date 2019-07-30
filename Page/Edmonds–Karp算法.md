@@ -1,7 +1,4 @@
-[计算机科学中](../Page/计算机科学.md "wikilink"),
-Edmonds–Karp算法通过实现[Ford–Fulkerson算法来计算网络中的最大流](../Page/Ford–Fulkerson算法.md "wikilink")，其时间复杂度为\(O(VE^2)\)。该算法由Yefim
-(Chaim) Dinic 在1970年最先提出并由Jack
-Edmonds和[理察·卡普在](https://zh.wikipedia.org/wiki/理察·卡普 "wikilink")1972年独立发表。\[1\]
+[计算机科学](../Page/计算机科学.md "wikilink")中, Edmonds–Karp算法通过实现[Ford–Fulkerson算法](../Page/Ford–Fulkerson算法.md "wikilink")来计算网络中的最大流，其时间复杂度为\(O(VE^2)\)。该算法由Yefim (Chaim) Dinic 在1970年最先提出并由Jack Edmonds和[理察·卡普在](https://zh.wikipedia.org/wiki/理察·卡普 "wikilink")1972年独立发表。\[1\]
 
 ## C++實作
 
@@ -99,7 +96,6 @@ struct Main {
 
 [网络流](../Page/网络流.md "wikilink")
 
-[Category:网络流](https://zh.wikipedia.org/wiki/Category:网络流 "wikilink")
-[Category:图算法](https://zh.wikipedia.org/wiki/Category:图算法 "wikilink")
+[Category:网络流](https://zh.wikipedia.org/wiki/Category:网络流 "wikilink") [Category:图算法](https://zh.wikipedia.org/wiki/Category:图算法 "wikilink")
 
 1.

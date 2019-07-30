@@ -1,11 +1,8 @@
-**koeda（こゑだ）**（[1996年](../Page/1996年.md "wikilink")\[1\][4月28日](../Page/4月28日.md "wikilink")
--
-）是一名[日本](../Page/日本.md "wikilink")[女性创作歌手](../Page/女性.md "wikilink")。[福岡県出身](../Page/福冈县.md "wikilink")。所属事務所是[インクストゥエンター](../Page/INCS_toenter.md "wikilink")，而所属的唱片公司则是BeanZoo。
+**koeda（こゑだ）**（[1996年](../Page/1996年.md "wikilink")\[1\][4月28日](../Page/4月28日.md "wikilink") - ）是一名[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")创作歌手。[福岡県出身](../Page/福冈县.md "wikilink")。所属事務所是[インクストゥエンター](../Page/INCS_toenter.md "wikilink")，而所属的唱片公司则是BeanZoo。
 
 ## 来歴
 
-[2010年夏](https://zh.wikipedia.org/wiki/2010年 "wikilink")，于ニコニコ生放送上以主播身份出道。[2011年](../Page/2011年.md "wikilink")5月在[supercell为新单曲所举办的l新主唱募集会中](../Page/Supercell_\(樂團\).md "wikilink")，在约2,000人的参赛选手中胜出成为新的客串主唱。[2015年](../Page/2015年.md "wikilink")4月21日发表首张个人迷你专辑《Nice
-to meet you.》，并于6月3日正式发售\[2\]。
+[2010年夏](https://zh.wikipedia.org/wiki/2010年 "wikilink")，于ニコニコ生放送上以主播身份出道。[2011年](../Page/2011年.md "wikilink")5月在[supercell为新单曲所举办的l新主唱募集会中](../Page/Supercell_\(樂團\).md "wikilink")，在约2,000人的参赛选手中胜出成为新的客串主唱。[2015年](../Page/2015年.md "wikilink")4月21日发表首张个人迷你专辑《Nice to meet you.》，并于6月3日正式发售\[2\]。
 
 ## 作品集
 
@@ -48,13 +45,7 @@ to meet you.》，并于6月3日正式发售\[2\]。
   - [こゑだ Official Website](http://koeda.xyz/)
 
   -
-[Category:1996年出生](https://zh.wikipedia.org/wiki/Category:1996年出生 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:同人歌手](https://zh.wikipedia.org/wiki/Category:同人歌手 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
-[Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink")
-[Category:福岡縣出身人物](https://zh.wikipedia.org/wiki/Category:福岡縣出身人物 "wikilink")
+[Category:1996年出生](https://zh.wikipedia.org/wiki/Category:1996年出生 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:同人歌手](https://zh.wikipedia.org/wiki/Category:同人歌手 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:福岡縣出身人物](https://zh.wikipedia.org/wiki/Category:福岡縣出身人物 "wikilink")
 
 1.
 2.

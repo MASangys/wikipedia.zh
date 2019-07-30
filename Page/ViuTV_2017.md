@@ -1,10 +1,8 @@
-《**ViuTV
-2017**》是由[香港電視娛樂製作的節目巡禮](../Page/香港電視娛樂.md "wikilink")，宣傳[ViuTV的於](../Page/ViuTV.md "wikilink")2017年的播映節目和介紹[香港電視娛樂的英文頻道](../Page/香港電視娛樂.md "wikilink")[ViuTVsix](../Page/ViuTVsix.md "wikilink")96台於2017年3月31日啟播。節目全長30分鐘連廣告。
+《**ViuTV 2017**》是由[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的節目巡禮，宣傳[ViuTV](../Page/ViuTV.md "wikilink")的於2017年的播映節目和介紹[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")的英文頻道[ViuTVsix](../Page/ViuTVsix.md "wikilink")96台於2017年3月31日啟播。節目全長30分鐘連廣告。
 
 ## 播放時間
 
-ViuTV
-2017為[香港電視娛樂於](../Page/香港電視娛樂.md "wikilink")2016年10月11日舉辦2017年節目發佈會並於10月23日晚上10時於[ViuTV播放](../Page/ViuTV.md "wikilink")。
+ViuTV 2017為[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")於2016年10月11日舉辦2017年節目發佈會並於10月23日晚上10時於[ViuTV](../Page/ViuTV.md "wikilink")播放。
 
 ## 介紹節目
 
@@ -264,8 +262,6 @@ ViuTV
   -
 ## 外部連結
 
-  - [ViuTV 2017年節目發佈會 實況娛樂 當選擇變成更多選擇 一線劇集一周五晚連環放送 開放音樂平台　與夥伴並肩作戰
-    英文頻道ViuTVsix 96台於明年3月31日全面啟播](http://viu.tv/news/ViuTV-2017nin-jit-muk-faat-bo-wooi--sat-fong-yue-lok--dong-suen-jaak-bin-sing-gang-doh-suen-jaak--yat-sin-kek-jaap-yat-jau-ng-maan-lin-waan-fong-sung--hoi-fong-yam-lok-ping-toi-%E3%80%80yue-boon-bing-gin-jok-jin--ying-man-pan-do-ViuTVsix-96toi-yue-ming-nin-3yuet-31yat-chuen-min-kai-boh)
+  - [ViuTV 2017年節目發佈會 實況娛樂 當選擇變成更多選擇 一線劇集一周五晚連環放送 開放音樂平台　與夥伴並肩作戰 英文頻道ViuTVsix 96台於明年3月31日全面啟播](http://viu.tv/news/ViuTV-2017nin-jit-muk-faat-bo-wooi--sat-fong-yue-lok--dong-suen-jaak-bin-sing-gang-doh-suen-jaak--yat-sin-kek-jaap-yat-jau-ng-maan-lin-waan-fong-sung--hoi-fong-yam-lok-ping-toi-%E3%80%80yue-boon-bing-gin-jok-jin--ying-man-pan-do-ViuTVsix-96toi-yue-ming-nin-3yuet-31yat-chuen-min-kai-boh)
 
-[Category:香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目 "wikilink")
-[Category:2016年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2016年香港電視娛樂節目 "wikilink")
+[Category:香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目 "wikilink") [Category:2016年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2016年香港電視娛樂節目 "wikilink")

@@ -1,11 +1,8 @@
-**诺基亚1112**（Nokia
-1112），是[诺基亚销售的低階](../Page/诺基亚.md "wikilink")[GSM](../Page/GSM.md "wikilink")[移动电话](../Page/移动电话.md "wikilink")，发布于2006年。
+**诺基亚1112**（Nokia 1112），是[诺基亚](../Page/诺基亚.md "wikilink")销售的低階[GSM](../Page/GSM.md "wikilink")[移动电话](../Page/移动电话.md "wikilink")，发布于2006年。
 
 ## 簡介
 
-採用图标和大字体的簡單設計、容易使用的移动电话，主要是針對第一次使用移动电话的買家\[1\]。採用GSM-900/1800 或
-GSM-850/[1900](../Page/GSM频段.md "wikilink")
-的网络双频電話。採用96x68像素分辨率的白色背光照明带单色显示和综合免提扬声器。
+採用图标和大字体的簡單設計、容易使用的移动电话，主要是針對第一次使用移动电话的買家\[1\]。採用GSM-900/1800 或 GSM-850/[1900](../Page/GSM频段.md "wikilink") 的网络双频電話。採用96x68像素分辨率的白色背光照明带单色显示和综合免提扬声器。
 
 手机內置簡單工具，例如有计算器、秒表及帶有和弦[铃声](https://zh.wikipedia.org/wiki/电话铃声 "wikilink")。其他基本功能例如有[短信及图片信息](../Page/簡訊.md "wikilink")，它帶有鬧鐘及時鐘。内部存储空間有4MB，內建30多首和弦旋律音樂，能儲存200個聯絡人資料在電話內。
 
@@ -136,9 +133,6 @@ GSM-850/[1900](../Page/GSM频段.md "wikilink")
   - [诺基亚1112官方产品页](https://web.archive.org/web/20080318124402/http://europe.nokia.com/1112)
   - [诺基亚1112用户指南](https://web.archive.org/web/20080312090721/http://europe.nokia.com/A4158045)
 
-[Category:2006年面世的手機](https://zh.wikipedia.org/wiki/Category:2006年面世的手機 "wikilink")
-[Category:诺基亚手机](https://zh.wikipedia.org/wiki/Category:诺基亚手机 "wikilink")
-[Category:諾基亞1000系列](https://zh.wikipedia.org/wiki/Category:諾基亞1000系列 "wikilink")
+[Category:2006年面世的手機](https://zh.wikipedia.org/wiki/Category:2006年面世的手機 "wikilink") [Category:诺基亚手机](https://zh.wikipedia.org/wiki/Category:诺基亚手机 "wikilink") [Category:諾基亞1000系列](https://zh.wikipedia.org/wiki/Category:諾基亞1000系列 "wikilink")
 
-1.  [Nokia Press Release
-    (March 30, 2006).](http://press.nokia.com/2006/03/30/performance-quality-and-ease-of-use-the-hallmarks-of-nokias-newest-range-of-iconic-affordable-phones/)
+1.  [Nokia Press Release (March 30, 2006).](http://press.nokia.com/2006/03/30/performance-quality-and-ease-of-use-the-hallmarks-of-nokias-newest-range-of-iconic-affordable-phones/)

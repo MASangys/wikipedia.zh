@@ -1,17 +1,12 @@
-《**LEVEL UP PROJECT\!
-S2**》（）是[韓國Oksusu的](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[真人實境-{zh-hans:秀;zh-hant:秀;zh-hk:騷}-](../Page/真人實境秀.md "wikilink")，由[SM娛樂的旗下五人](../Page/SM娛樂.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red
-Velvet爲主進行拍攝](../Page/Red_Velvet.md "wikilink")。
+《**LEVEL UP PROJECT\! S2**》（）是[韓國Oksusu的](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[真人實境-{zh-hans:秀;zh-hant:秀;zh-hk:騷}-](../Page/真人實境秀.md "wikilink")，由[SM娛樂](../Page/SM娛樂.md "wikilink")的旗下五人[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red Velvet爲主進行拍攝](../Page/Red_Velvet.md "wikilink")。
 
 2018年1月8日起逢星期一至六于上午10時在[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")「Oksusu」及[泰國的](https://zh.wikipedia.org/wiki/泰國 "wikilink")「TrueID」同步播出。\[1\]\[2\]
 
 ## 節目介紹
 
-在[上一季的最後一集](../Page/LEVEL_UP_PROJECT!.md "wikilink")，Irene在『Level Up
-接字遊戲』擊敗「拉麵PD」，所以贏得續集機會，也再次以旅遊節目形式播放。
+在[上一季的最後一集](../Page/LEVEL_UP_PROJECT!.md "wikilink")，Irene在『Level Up 接字遊戲』擊敗「拉麵PD」，所以贏得續集機會，也再次以旅遊節目形式播放。
 
-《LEVEL UP PROJECT S2》記錄了Red
-Velvet于2017年10月繼泰國之旅后全員在韓國國内的旅遊勝地展開全新的故事，再以全新的升級内容給觀衆展示Red
-Velvet的新魅力。\[3\]這次依然有三種主題的旅行，但形式是由制作組安排的半自由旅行，因為這是第一季最受歡迎的旅游方式。
+《LEVEL UP PROJECT S2》記錄了Red Velvet于2017年10月繼泰國之旅后全員在韓國國内的旅遊勝地展開全新的故事，再以全新的升級内容給觀衆展示Red Velvet的新魅力。\[3\]這次依然有三種主題的旅行，但形式是由制作組安排的半自由旅行，因為這是第一季最受歡迎的旅游方式。
 
 因電視劇拍攝而缺席上季的成員[Joy也在該季加入](../Page/Joy_\(Red_Velvet\).md "wikilink")，因此此節目為全體演出。\[4\]
 
@@ -21,13 +16,11 @@ Velvet的新魅力。\[3\]這次依然有三種主題的旅行，但形式是由
 
 ## 演出成員
 
-  - [Irene](https://zh.wikipedia.org/wiki/裴柱現 "wikilink")
-    （第32－52集因為飽滯而肚子疼，回到陸地酒店休息，而缺席第二天午餐後和第三天行程，也沒有為第二、三天行程評分，只在講評時出現。）
+  - [Irene](https://zh.wikipedia.org/wiki/裴柱現 "wikilink") （第32－52集因為飽滯而肚子疼，回到陸地酒店休息，而缺席第二天午餐後和第三天行程，也沒有為第二、三天行程評分，只在講評時出現。）
   - [Seulgi](../Page/瑟琪.md "wikilink")
   - [Wendy](https://zh.wikipedia.org/wiki/孙胜完 "wikilink")
   - [Joy](../Page/Joy_\(Red_Velvet\).md "wikilink")
-  - [Yeri](../Page/Yeri.md "wikilink")
-    （第15－24集因為飽滯而肚子疼，回到黃土宿舍休息，而缺席第一天午餐後行程，也沒有為第一天行程評分，只在講評時出現。）
+  - [Yeri](../Page/Yeri.md "wikilink") （第15－24集因為飽滯而肚子疼，回到黃土宿舍休息，而缺席第一天午餐後行程，也沒有為第一天行程評分，只在講評時出現。）
 
 ## 每集列表
 
@@ -79,7 +72,7 @@ Velvet的新魅力。\[3\]這次依然有三種主題的旅行，但形式是由
 <td><p>2018年1月12日</p></td>
 <td><p>宿舍揭曉</p>
 <p>（下）</p></td>
-<td><p>到達韓式農村宿舍「<a href="../Page/黃土.md" title="wikilink">黃土屋</a>」</p>
+<td><p>到達韓式農村宿舍「<a href="../Page/黃土.md" title="wikilink">黃土</a>屋」</p>
 <p>迎客晚餐：韓式家常飯</p>
 <p>Joy失蹤，尋找狗隻</p></td>
 </tr>
@@ -262,14 +255,14 @@ Velvet的新魅力。\[3\]這次依然有三種主題的旅行，但形式是由
 <p>Super Sweet 的小小歡迎團</p></td>
 <td><p>第四週回顧 Irene、Wendy搜索下一目的地的景點</p>
 <p>與黃土屋主人和動物們告別</p>
-<p>麗水宿舍劇透時間：水上<a href="../Page/冰屋.md" title="wikilink">冰屋狀民宿</a></p>
+<p>麗水宿舍劇透時間：水上<a href="../Page/冰屋.md" title="wikilink">冰屋</a>狀民宿</p>
 <p>評論房晚餐時間</p>
 <p>移動至麗水</p>
 <p>Red Velvet 到達麗水後，由小學生迎客，Yeri的華麗回歸。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Oksusu 特別篇</p></td>
-<td><p>500萬瀏覽人次特別吃放 <a href="../Page/瑟琪.md" title="wikilink">瑟琪生日儀式</a></p></td>
+<td><p>500萬瀏覽人次特別吃放 <a href="../Page/瑟琪.md" title="wikilink">瑟琪</a>生日儀式</p></td>
 <td><p>在某會議室播放，以南海家常菜為主，因為播放時，團隊剛好到達麗水。Yeri因為傷風，和準備高中畢業禮而缺席。 玩抓綿羊遊戲，預祝瑟琪生日。</p></td>
 <td></td>
 </tr>
@@ -402,7 +395,7 @@ Velvet的新魅力。\[3\]這次依然有三種主題的旅行，但形式是由
 <tr class="even">
 <td><p>40</p></td>
 <td><p>2018年2月22日</p></td>
-<td><p><a href="../Page/刺身.md" title="wikilink">刺身試吃時間</a> 第三天旅行主題：統營豪華遊</p>
+<td><p><a href="../Page/刺身.md" title="wikilink">刺身</a>試吃時間 第三天旅行主題：統營豪華遊</p>
 <p>到統營去</p>
 <p>到達宿舍</p></td>
 <td><p>Joy感言：雖然不能回到冰屋釣魚，但可以留在溫暖的陸地酒店，也有它的優點。 因為刮大風，冰屋宿舍組不能繼續釣魚，但她們決定開「Level Up 小餐廳」，慰勞製作組。</p>
@@ -481,7 +474,7 @@ Velvet的新魅力。\[3\]這次依然有三種主題的旅行，但形式是由
 <td><p>船上練歌房對決 獎品公佈</p>
 <p>船上晚餐派對</p></td>
 <td><p>瑟琪被騙，她的服裝是《<a href="https://zh.wikipedia.org/wiki/冰雪奇緣" title="wikilink">魔雪奇緣</a>》艾莎公主裝扮。 Wendy的的服裝是《<a href="../Page/白雪公主.md" title="wikilink">白雪公主</a>》裝扮，Joy想穿的服裝被奪去。</p>
-<p>Yeri拿到王子服裝，而Joy 拿到18世紀<a href="../Page/管家.md" title="wikilink">管家服裝</a>。</p>
+<p>Yeri拿到王子服裝，而Joy 拿到18世紀<a href="../Page/管家.md" title="wikilink">管家</a>服裝。</p>
 <p>Joy的1億RV幣入場費，以為其她3人當<a href="https://zh.wikipedia.org/wiki/侍應" title="wikilink">侍應服務而抵銷</a>。</p></td>
 </tr>
 <tr class="even">
@@ -532,7 +525,7 @@ Velvet的新魅力。\[3\]這次依然有三種主題的旅行，但形式是由
 <td><p>53</p></td>
 <td><p>2018年3月9日</p></td>
 <td><p>豪華早餐時間</p></td>
-<td><p>高品格歐式早餐，在南海出現的三輪車和長棍麵包道具回歸。 拍攝當天（2017年10月18日），<a href="../Page/泰民.md" title="wikilink">泰民在</a>16日以《<a href="../Page/Move_(李泰民專輯).md" title="wikilink">Move</a>》回歸，Yeri自製編舞，因為還沒有看到正式編舞。</p>
+<td><p>高品格歐式早餐，在南海出現的三輪車和長棍麵包道具回歸。 拍攝當天（2017年10月18日），<a href="../Page/泰民.md" title="wikilink">泰民</a>在16日以《<a href="../Page/Move_(李泰民專輯).md" title="wikilink">Move</a>》回歸，Yeri自製編舞，因為還沒有看到正式編舞。</p>
 <p>Joy到場時，錯過Yeri的舞蹈，也完成「統營夫人三部曲」造型。</p>
 <p>經過兩天休息，Irene回歸，因為怕再次水土不服，她有特製韓式早餐，但已經沒有時間概念，更對第一季玩過的遊戲印象模糊。</p>
 <p>第四天行程：遊艇 Tour（因為昨天天氣問題而取消。）</p></td>
@@ -632,8 +625,7 @@ Irene賣手寫藝術字（定價：3億5千萬RV幣賣給監製），最後外�
 
 ### 參考資料
 
-LEVEL UP PROJECT S2
-[Instagram](https://www.instagram.com/levelupproject2/?hl=zh-tw)
+LEVEL UP PROJECT S2 [Instagram](https://www.instagram.com/levelupproject2/?hl=zh-tw)
 
 ## 外部連結
 
@@ -648,12 +640,7 @@ LEVEL UP PROJECT S2
 
   - [Red Velvet的V Live頻道](http://channels.vlive.tv/DCF447)
 
-[Category:Red_Velvet](https://zh.wikipedia.org/wiki/Category:Red_Velvet "wikilink")
-[Category:KBS](https://zh.wikipedia.org/wiki/Category:KBS "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink")
-[Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink")
-[Category:觀眾參與節目](https://zh.wikipedia.org/wiki/Category:觀眾參與節目 "wikilink")
+[Category:Red_Velvet](https://zh.wikipedia.org/wiki/Category:Red_Velvet "wikilink") [Category:KBS](https://zh.wikipedia.org/wiki/Category:KBS "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink") [Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink") [Category:觀眾參與節目](https://zh.wikipedia.org/wiki/Category:觀眾參與節目 "wikilink")
 
 1.
 2.

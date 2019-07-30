@@ -1,5 +1,4 @@
-《**The
-MOBB**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂推出的企劃組合](../Page/YG娛樂.md "wikilink")[MOBB的首張專輯](../Page/MOBB.md "wikilink")。
+《**The MOBB**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂](../Page/YG娛樂.md "wikilink")推出的企劃組合[MOBB](../Page/MOBB.md "wikilink")的首張專輯。
 
 ## 曲目
 
@@ -164,6 +163,4 @@ KT音樂</p></td>
 
 ## 引用資料
 
-[Category:MOBB音樂專輯](https://zh.wikipedia.org/wiki/Category:MOBB音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
+[Category:MOBB音樂專輯](https://zh.wikipedia.org/wiki/Category:MOBB音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")

@@ -1,14 +1,10 @@
-**[TVB
-馬來西亞星光薈萃頒獎典禮最喜愛TVB女配角](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")**每年是由[香港](../Page/香港.md "wikilink")[TVB娛樂新聞台](../Page/TVB娛樂新聞台.md "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro及MY](https://zh.wikipedia.org/wiki/Astro "wikilink")
-FM聯合頒發，最初名為《Astro華麗台電視劇大獎》，及後名為《MY AOD我的最愛頒獎典禮》，至2013年正式易名為《TVB
-馬來西亞星光薈萃頒獎典禮》。
+**[TVB 馬來西亞星光薈萃頒獎典禮最喜愛TVB女配角](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")**每年是由[香港](../Page/香港.md "wikilink")[TVB娛樂新聞台](../Page/TVB娛樂新聞台.md "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro及MY](https://zh.wikipedia.org/wiki/Astro "wikilink") FM聯合頒發，最初名為《Astro華麗台電視劇大獎》，及後名為《MY AOD我的最愛頒獎典禮》，至2013年正式易名為《TVB 馬來西亞星光薈萃頒獎典禮》。
 
 最喜愛TVB女配角獎於2010年(第7屆)才設立，至今獲獎最多的女演員是[陳敏之](../Page/陳敏之.md "wikilink")、[胡定欣和](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")[姚子羚](https://zh.wikipedia.org/wiki/姚子羚 "wikilink")，每人獲獎2次。
 
 此獎項曾使用多個名字，當中有我的最愛電視女配角（2010，2012）、我的至愛女配角（2011），及2013年開始沿用「**最喜愛TVB女配角**」為此獎項之名字，並一直沿用至今。
 
-截至2017年，[TVB
-馬來西亞星光薈萃頒獎典禮舉辦第](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")14屆，共5位女演員獲得此獎。最近一位得主是[姚子羚](https://zh.wikipedia.org/wiki/姚子羚 "wikilink")\[1\]。
+截至2017年，[TVB 馬來西亞星光薈萃頒獎典禮舉辦第](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")14屆，共5位女演員獲得此獎。最近一位得主是[姚子羚](https://zh.wikipedia.org/wiki/姚子羚 "wikilink")\[1\]。
 
 ## 統計
 
@@ -657,13 +653,10 @@ FM聯合頒發，最初名為《Astro華麗台電視劇大獎》，及後名為�
 
 ## 參見
 
-  - [MY
-    AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/MY_AOD我的最愛頒獎典禮 "wikilink")
-  - [TVB
-    馬來西亞星光薈萃頒獎典禮](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")
+  - [MY AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/MY_AOD我的最愛頒獎典禮 "wikilink")
+  - [TVB 馬來西亞星光薈萃頒獎典禮](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")
   - [萬千星輝頒獎典禮最佳女配角](https://zh.wikipedia.org/wiki/萬千星輝頒獎典禮最佳女配角 "wikilink")
 
 [Category:TVB_馬來西亞星光薈萃頒獎典禮](https://zh.wikipedia.org/wiki/Category:TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")
 
-1.  [《TVB馬來西亞星光薈萃頒獎典禮2017》 TVB馬來西亞星光薈萃頒獎典禮2017 战胜小生花旦
-    苗侨伟宣萱夺大马视帝后](http://www.kwongwah.com.my/?p=430588)
+1.  [《TVB馬來西亞星光薈萃頒獎典禮2017》 TVB馬來西亞星光薈萃頒獎典禮2017 战胜小生花旦 苗侨伟宣萱夺大马视帝后](http://www.kwongwah.com.my/?p=430588)

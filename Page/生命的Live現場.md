@@ -1,6 +1,4 @@
-**生命的Live現場**是[伍佰\&China
-Blue於](https://zh.wikipedia.org/wiki/伍佰&China_Blue "wikilink")2012年12月21日所發行的現場錄音專輯\[1\]，收錄了伍佰於2012年[台北小巨蛋](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")「大感謝」伍佰＆China
-Blue成軍20週年演唱會所演唱的曲目。整張專輯3張CD共54首曲目。
+**生命的Live現場**是[伍佰\&China Blue於](https://zh.wikipedia.org/wiki/伍佰&China_Blue "wikilink")2012年12月21日所發行的現場錄音專輯\[1\]，收錄了伍佰於2012年[台北小巨蛋](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")「大感謝」伍佰＆China Blue成軍20週年演唱會所演唱的曲目。整張專輯3張CD共54首曲目。
 
 ## 專輯曲目
 
@@ -22,8 +20,6 @@ CD3
 
 ## 參考資料
 
-[Category:伍佰\&China_Blue音樂專輯](https://zh.wikipedia.org/wiki/Category:伍佰&China_Blue音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
+[Category:伍佰\&China_Blue音樂專輯](https://zh.wikipedia.org/wiki/Category:伍佰&China_Blue音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
 
 1.

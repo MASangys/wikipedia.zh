@@ -1,6 +1,6 @@
-**福爾頓街線**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IND分部的一條](../Page/獨立地鐵系統.md "wikilink")[地鐵路線](../Page/地鐵.md "wikilink")，由[克蘭貝里街隧道下穿](https://zh.wikipedia.org/wiki/克蘭貝里街隧道 "wikilink")[東河](https://zh.wikipedia.org/wiki/東河_\(紐約\) "wikilink")，通過整個[布魯克林中心地帶前往](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")[皇后區](../Page/皇后區.md "wikilink")的總站。[IND洛克威線支線在](https://zh.wikipedia.org/wiki/IND洛克威線 "wikilink")[洛克威林蔭路以東分支出去](https://zh.wikipedia.org/wiki/洛克威林蔭路車站_\(IND福爾頓街線\) "wikilink")。[A線列車地下路段在日間以快車營運](../Page/紐約地鐵A線.md "wikilink")，深夜以慢車營運，高架路段則任何時候都以慢車營運。[C線列車在地下路段以慢車營運](../Page/紐約地鐵C線.md "wikilink")，深夜除外。
+**福爾頓街線**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IND分部的一條](../Page/獨立地鐵系統.md "wikilink")[地鐵](../Page/地鐵.md "wikilink")路線，由[克蘭貝里街隧道下穿](https://zh.wikipedia.org/wiki/克蘭貝里街隧道 "wikilink")[東河](https://zh.wikipedia.org/wiki/東河_\(紐約\) "wikilink")，通過整個[布魯克林中心地帶前往](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")[皇后區](../Page/皇后區.md "wikilink")的總站。[IND洛克威線支線在](https://zh.wikipedia.org/wiki/IND洛克威線 "wikilink")[洛克威林蔭路以東分支出去](https://zh.wikipedia.org/wiki/洛克威林蔭路車站_\(IND福爾頓街線\) "wikilink")。[A線列車地下路段在日間以快車營運](../Page/紐約地鐵A線.md "wikilink")，深夜以慢車營運，高架路段則任何時候都以慢車營運。[C線列車在地下路段以慢車營運](../Page/紐約地鐵C線.md "wikilink")，深夜除外。
 
-路線基本上沿、皮特金大道及。地下路段包括路線的主要部分，是由紐約市擁有的獨立地鐵系統（IND）興建，在1936年至1956年間分段啟用。[皇后區的高架段原初為](../Page/皇后區.md "wikilink")[布魯克林-曼哈頓運輸股份有限公司](../Page/布魯克林-曼哈頓運輸股份有限公司.md "wikilink")（BMT）的，高架鐵路在布魯克林的路段在此線通車後關閉和分階段拆除。
+路線基本上沿、皮特金大道及。地下路段包括路線的主要部分，是由紐約市擁有的獨立地鐵系統（IND）興建，在1936年至1956年間分段啟用。[皇后區](../Page/皇后區.md "wikilink")的高架段原初為[布魯克林-曼哈頓運輸股份有限公司](../Page/布魯克林-曼哈頓運輸股份有限公司.md "wikilink")（BMT）的，高架鐵路在布魯克林的路段在此線通車後關閉和分階段拆除。
 
 ## 服務
 
@@ -68,7 +68,7 @@
 </tr>
 <tr class="even">
 <td><p>繼續<a href="https://zh.wikipedia.org/wiki/IND第八大道線" title="wikilink">IND第八大道線快車軌道</a>（）；<br />
-有連接<a href="../Page/IND第六大道線.md" title="wikilink">IND第六大道線慢車軌道</a>（）</p></td>
+有連接<a href="../Page/IND第六大道線.md" title="wikilink">IND第六大道線</a>慢車軌道（）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -105,7 +105,7 @@
 <td><p>慢車</p></td>
 <td></td>
 <td><p>1936年4月9日</p></td>
-<td><p>1946年關閉，1976年以<a href="../Page/紐約交通博物館.md" title="wikilink">紐約交通博物館重開</a></p></td>
+<td><p>1946年關閉，1976年以<a href="../Page/紐約交通博物館.md" title="wikilink">紐約交通博物館</a>重開</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -378,8 +378,7 @@
 
 ## 參考資料
 
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1915年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1915年啟用的鐵路線 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1915年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1915年啟用的鐵路線 "wikilink")
 
 1.
 

@@ -1,5 +1,4 @@
-\-- -- This module implements --  --  --  --  -- local p = {} local
-HTMLcolor = mw.loadData( 'Module:Color contrast/colors' )
+\-- -- This module implements --  --  --  --  -- local p = {} local HTMLcolor = mw.loadData( 'Module:Color contrast/colors' )
 
 local function sRGB (v)
 
@@ -122,8 +121,7 @@ local function color2lum(c)
 
 end
 
-\-- This exports the function for use in other modules. -- The colour is
-passed as a string. function p._lum(color)
+\-- This exports the function for use in other modules. -- The colour is passed as a string. function p._lum(color)
 
 `   return color2lum(color)`
 
@@ -223,8 +221,7 @@ function p._styleratio(args)
 
 end
 
-\--\[\[ Use {{\#invoke:Color contrast|somecolor}} directly or
-{{\#invoke:Color contrast}} from a wrapper template.
+\--\[\[ Use {{\#invoke:Color contrast|somecolor}} directly or {{\#invoke:Color contrast}} from a wrapper template.
 
 Parameters:
 

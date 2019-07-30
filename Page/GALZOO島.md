@@ -1,4 +1,4 @@
-是日本[ALICESOFT在](../Page/ALICESOFT.md "wikilink")2005年12月9日的[角色扮演類型](../Page/電子角色扮演遊戲.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]
+是日本[ALICESOFT](../Page/ALICESOFT.md "wikilink")在2005年12月9日的[角色扮演類型](../Page/電子角色扮演遊戲.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]
 
 ## 遊戲系統
 
@@ -104,7 +104,7 @@
     美型男外貌的惡魔。喜歡幫助女魔物，俊俏的外貌能擄獲女魔物們的芳心，過去在ハニワ村時讓女ハニー們都追隨キラ一起離開村子。
   - 倉之助
     女僕先前服侍的武將ハニー。誤認為キラ消滅ハニワ村而尋找失散的同伴忠臣ハニー準備打倒キラ。
-  - [木乃伊人](../Page/木乃伊.md "wikilink")（ミイラマン）
+  - [木乃伊](../Page/木乃伊.md "wikilink")人（ミイラマン）
     喜好女色的大叔。身體缺水的時候會變成乾條狀態。
   - リサ
     バッチ的従魔メイドさん。
@@ -147,8 +147,7 @@
 <!-- end list -->
 
   -
-    作者：高橋恆星　插畫：止田卓史　出版社：[HARVEST出版](../Page/HARVEST出版.md "wikilink")　發售日：2006年12月1日　ISBN
-    978-4434085604
+    作者：高橋恆星　插畫：止田卓史　出版社：[HARVEST出版](../Page/HARVEST出版.md "wikilink")　發售日：2006年12月1日　ISBN 978-4434085604
 
 <!-- end list -->
 
@@ -174,18 +173,10 @@
 
   - [ALICESOFT](https://web.archive.org/web/20060827120749/http://www.alicesoft.com/)限日本地區瀏覽
 
-[Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:怪物題材作品](https://zh.wikipedia.org/wiki/Category:怪物題材作品 "wikilink")
-[Category:妖怪題材電子遊戲](https://zh.wikipedia.org/wiki/Category:妖怪題材電子遊戲 "wikilink")
+[Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:怪物題材作品](https://zh.wikipedia.org/wiki/Category:怪物題材作品 "wikilink") [Category:妖怪題材電子遊戲](https://zh.wikipedia.org/wiki/Category:妖怪題材電子遊戲 "wikilink")
 
 1.  [GALZOOアイランド](http://www.getchu.com/soft.phtml?id=202581)Getchu.com
 2.  [Galzoo Island](https://vndb.org/v334)The Visual Novel Database
-3.  [GALZOOアイランド](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=6582)ErogameScape
-    -エロゲー批評空間-
+3.  [GALZOOアイランド](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=6582)ErogameScape -エロゲー批評空間-
 4.  [2005年美少女ゲームランキング](http://www.getchu.com/pc/ranking2005/system.html)Getchu.com
-5.  [Alicesoft Sound Album Vol. 07 – GALZOO
-    Island](http://vgmdb.net/album/3805)VGMdb
+5.  [Alicesoft Sound Album Vol. 07 – GALZOO Island](http://vgmdb.net/album/3805)VGMdb

@@ -14,24 +14,23 @@
 
 2012年，凡斯在[ABC電視劇](https://zh.wikipedia.org/wiki/美國廣播公司 "wikilink")《[美麗心計](https://zh.wikipedia.org/wiki/美麗心計 "wikilink")》中以班傑明·布魯克斯（）一角參演了4集\[8\]。2015年，他在電影《[魔鬼終結者：創世契機](https://zh.wikipedia.org/wiki/魔鬼終結者：創世契機 "wikilink")》中飾演邁爾斯·戴森（），該片由[亞倫·泰勒執導](https://zh.wikipedia.org/wiki/亞倫·泰勒_\(導演\) "wikilink")，同時也是《[魔鬼終結者](https://zh.wikipedia.org/wiki/魔鬼終結者系列電影 "wikilink")》系列電影的第五部電影作品\[9\]。
 
-凡斯於2016年在敘述[辛普森案故事的電視劇](../Page/辛普森案.md "wikilink")《[公眾與O·J·辛普森的對決：美國犯罪故事](../Page/公眾與O·J·辛普森的對決：美國犯罪故事.md "wikilink")》中飾演\[10\]。該劇於2016年2月2日在[FX首播](https://zh.wikipedia.org/wiki/FX_\(電視頻道\) "wikilink")；凡斯的演出在影評界獲得了普遍讚譽\[11\]\[12\]\[13\]，且也憑此在[第68屆黃金時段艾美獎上贏得了](../Page/第68屆黃金時段艾美獎.md "wikilink")\[14\]，以及在[第74屆金球獎上入圍了](https://zh.wikipedia.org/wiki/第74屆金球獎 "wikilink")\[15\]。
+凡斯於2016年在敘述[辛普森案](../Page/辛普森案.md "wikilink")故事的電視劇《[公眾與O·J·辛普森的對決：美國犯罪故事](../Page/公眾與O·J·辛普森的對決：美國犯罪故事.md "wikilink")》中飾演\[10\]。該劇於2016年2月2日在[FX首播](https://zh.wikipedia.org/wiki/FX_\(電視頻道\) "wikilink")；凡斯的演出在影評界獲得了普遍讚譽\[11\]\[12\]\[13\]，且也憑此在[第68屆黃金時段艾美獎](../Page/第68屆黃金時段艾美獎.md "wikilink")上贏得了\[14\]，以及在[第74屆金球獎上入圍了](https://zh.wikipedia.org/wiki/第74屆金球獎 "wikilink")\[15\]。
 
 2016年4月，宣布他已簽約加入《[神鬼傳奇](https://zh.wikipedia.org/wiki/神鬼傳奇 "wikilink")》[重啟版電影的演出](https://zh.wikipedia.org/wiki/神鬼傳奇_\(2017年電影\) "wikilink")，該片於2017年6月9日在美國上映\[16\]。
 
-2017年12月5日，宣布凡斯將出演執導的劇情片《》，並在片中飾演[盧卡斯·海吉斯角色的繼父](../Page/盧卡斯·海吉斯.md "wikilink")\[17\]。
+2017年12月5日，宣布凡斯將出演執導的劇情片《》，並在片中飾演[盧卡斯·海吉斯](../Page/盧卡斯·海吉斯.md "wikilink")角色的繼父\[17\]。
 
-2018年，凡斯在[魏斯·安德森執導的](../Page/魏斯·安德森.md "wikilink")[定格動畫電影](https://zh.wikipedia.org/wiki/定格動畫 "wikilink")《[犬之島](../Page/犬之島.md "wikilink")》中擔任旁白\[18\]。
+2018年，凡斯在[魏斯·安德森](../Page/魏斯·安德森.md "wikilink")執導的[定格動畫電影](https://zh.wikipedia.org/wiki/定格動畫 "wikilink")《[犬之島](../Page/犬之島.md "wikilink")》中擔任旁白\[18\]。
 
 ### 戲劇
 
 凡斯在戲劇界獲得了廣受好評的成就。他於1987年在《》中的演出使自己獲得，並在上首次入圍了\[19\]。之後於1991年，他又憑《》（1990年）而在上入圍了\[20\]。
 
-2013年，凡斯出演[湯姆·漢克主演的舞台劇](https://zh.wikipedia.org/wiki/湯姆·漢克 "wikilink")《》，該劇本為[諾拉·艾芙倫的遺作](../Page/諾拉·艾芙倫.md "wikilink")；該劇於2013年4月1日在首演後獲得了正面居多的評價，凡斯的演技也備受讚譽，這使他入圍\[21\]，並贏得了\[22\]。
+2013年，凡斯出演[湯姆·漢克主演的舞台劇](https://zh.wikipedia.org/wiki/湯姆·漢克 "wikilink")《》，該劇本為[諾拉·艾芙倫](../Page/諾拉·艾芙倫.md "wikilink")的遺作；該劇於2013年4月1日在首演後獲得了正面居多的評價，凡斯的演技也備受讚譽，這使他入圍\[21\]，並贏得了\[22\]。
 
 ## 個人生活
 
-[Angela_Bassett_and_Courtney_Vance_2_by_David_Shankbone.jpg](https://zh.wikipedia.org/wiki/File:Angela_Bassett_and_Courtney_Vance_2_by_David_Shankbone.jpg "fig:Angela_Bassett_and_Courtney_Vance_2_by_David_Shankbone.jpg")\]\]
-凡斯與女演員[安琪拉·貝瑟於](https://zh.wikipedia.org/wiki/安琪拉·貝瑟 "wikilink")1980年首次見面，並在交往後於1997年10月12日結婚\[23\]。兩人育有雙胞胎，分別為兒子史萊特·約西亞·凡斯（）和女兒布朗溫·高登·凡斯（）；這對雙胞胎出生於2006年1月27日\[24\]\[25\]。凡斯一家人目前住在[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")\[26\]。
+[Angela_Bassett_and_Courtney_Vance_2_by_David_Shankbone.jpg](https://zh.wikipedia.org/wiki/File:Angela_Bassett_and_Courtney_Vance_2_by_David_Shankbone.jpg "fig:Angela_Bassett_and_Courtney_Vance_2_by_David_Shankbone.jpg")\]\] 凡斯與女演員[安琪拉·貝瑟於](https://zh.wikipedia.org/wiki/安琪拉·貝瑟 "wikilink")1980年首次見面，並在交往後於1997年10月12日結婚\[23\]。兩人育有雙胞胎，分別為兒子史萊特·約西亞·凡斯（）和女兒布朗溫·高登·凡斯（）；這對雙胞胎出生於2006年1月27日\[24\]\[25\]。凡斯一家人目前住在[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")\[26\]。
 
 他和貝瑟及作家希拉蕊·比爾德（）共同撰寫的傳記書籍《》於2007年出版\[27\]。
 
@@ -523,15 +522,7 @@
 
   -
   -
-[Category:美國電影男演員](https://zh.wikipedia.org/wiki/Category:美國電影男演員 "wikilink")
-[Category:美國電視男演員](https://zh.wikipedia.org/wiki/Category:美國電視男演員 "wikilink")
-[Category:20世纪美国男演员](https://zh.wikipedia.org/wiki/Category:20世纪美国男演员 "wikilink")
-[Category:21世纪美国男演员](https://zh.wikipedia.org/wiki/Category:21世纪美国男演员 "wikilink")
-[Category:非洲裔美国男演员](https://zh.wikipedia.org/wiki/Category:非洲裔美国男演员 "wikilink")
-[Category:哈佛大學校友](https://zh.wikipedia.org/wiki/Category:哈佛大學校友 "wikilink")
-[Category:曼哈顿人](https://zh.wikipedia.org/wiki/Category:曼哈顿人 "wikilink")
-[Category:黃金時段艾美獎迷你影集或電影最佳男主角](https://zh.wikipedia.org/wiki/Category:黃金時段艾美獎迷你影集或電影最佳男主角 "wikilink")
-[Category:東尼獎得主](https://zh.wikipedia.org/wiki/Category:東尼獎得主 "wikilink")
+[Category:美國電影男演員](https://zh.wikipedia.org/wiki/Category:美國電影男演員 "wikilink") [Category:美國電視男演員](https://zh.wikipedia.org/wiki/Category:美國電視男演員 "wikilink") [Category:20世纪美国男演员](https://zh.wikipedia.org/wiki/Category:20世纪美国男演员 "wikilink") [Category:21世纪美国男演员](https://zh.wikipedia.org/wiki/Category:21世纪美国男演员 "wikilink") [Category:非洲裔美国男演员](https://zh.wikipedia.org/wiki/Category:非洲裔美国男演员 "wikilink") [Category:哈佛大學校友](https://zh.wikipedia.org/wiki/Category:哈佛大學校友 "wikilink") [Category:曼哈顿人](https://zh.wikipedia.org/wiki/Category:曼哈顿人 "wikilink") [Category:黃金時段艾美獎迷你影集或電影最佳男主角](https://zh.wikipedia.org/wiki/Category:黃金時段艾美獎迷你影集或電影最佳男主角 "wikilink") [Category:東尼獎得主](https://zh.wikipedia.org/wiki/Category:東尼獎得主 "wikilink")
 
 1.
 2.

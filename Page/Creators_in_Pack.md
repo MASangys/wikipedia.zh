@@ -1,6 +1,4 @@
-**株式會社Creators in
-Pack**（，）是[日本的](../Page/日本.md "wikilink")[動畫製作公司](../Page/日本动画.md "wikilink")。除了從事總承包業務的studio
-C.P.，尚有負責上色和色彩設定的FINECOLORs等複數團隊存在。
+**株式會社Creators in Pack**（，）是[日本](../Page/日本.md "wikilink")的[動畫製作公司](../Page/日本动画.md "wikilink")。除了從事總承包業務的studio C.P.，尚有負責上色和色彩設定的FINECOLORs等複數團隊存在。
 
 ## 作品列表
 
@@ -79,8 +77,7 @@ C.P.，尚有負責上色和色彩設定的FINECOLORs等複數團隊存在。
 
 ### 網路動畫
 
-  - [NINJA SLAYER from
-    ANIMATION](../Page/NINJA_SLAYER忍者殺手.md "wikilink")（總承包：TRIGGER，協助製作，2015年）
+  - [NINJA SLAYER from ANIMATION](../Page/NINJA_SLAYER忍者殺手.md "wikilink")（總承包：TRIGGER，協助製作，2015年）
   - [日本動畫人展覽會](../Page/日本動畫人展覽會.md "wikilink")《歷史機關》（總承包：TRIGGER、[六花工作室](../Page/六花工作室.md "wikilink")，協助製作，2015年）
 
 ### OVA
@@ -106,10 +103,7 @@ C.P.，尚有負責上色和色彩設定的FINECOLORs等複數團隊存在。
   -
   -
   -
-[Category:Creators_in_Pack](https://zh.wikipedia.org/wiki/Category:Creators_in_Pack "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
-[Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink")
+[Category:Creators_in_Pack](https://zh.wikipedia.org/wiki/Category:Creators_in_Pack "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink") [Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink")
 
 1.
 2.

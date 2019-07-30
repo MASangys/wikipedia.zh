@@ -1,6 +1,4 @@
-《**Timepiece
-Ensemble**》是GLacé在2013年12月27日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，後來於2017年在[PlayStation
-Vita](../Page/PlayStation_Vita.md "wikilink")\[2\]、[Android](../Page/Android.md "wikilink")\[3\]、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")\[4\]平台發售移植版。
+《**Timepiece Ensemble**》是GLacé在2013年12月27日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，後來於2017年在[PlayStation Vita](../Page/PlayStation_Vita.md "wikilink")\[2\]、[Android](../Page/Android.md "wikilink")\[3\]、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")\[4\]平台發售移植版。
 
 ## 故事
 
@@ -33,8 +31,7 @@ Vita](../Page/PlayStation_Vita.md "wikilink")\[2\]、[Android](../Page/Android.m
   - 蔵前こなみ（聲優：羽鳥いち）
     ななみ的雙胞胎姊姊，12歲時因事故過世而成為幽靈並且附身在妹妹身上，有時會控制妹妹的身體行動。
   - 黑翼（聲優：秋野花）
-    《[1/2
-    summer](https://zh.wikipedia.org/wiki/1/2_summer "wikilink")》登場的[座敷童子](../Page/座敷童子.md "wikilink")，回復力量後改名並且開始經營雜貨店「機巧屋」。
+    《[1/2 summer](https://zh.wikipedia.org/wiki/1/2_summer "wikilink")》登場的[座敷童子](../Page/座敷童子.md "wikilink")，回復力量後改名並且開始經營雜貨店「機巧屋」。
   - テトメト（聲優：藤咲ウサ）
     跟隨黑翼的黑貓，能夠與人對話。
 
@@ -47,8 +44,7 @@ Vita](../Page/PlayStation_Vita.md "wikilink")\[2\]、[Android](../Page/Android.m
 
 ## 評價
 
-《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")》1472号的クロスレビュー對PlayStation
-Vita版給予26/40評分。\[7\]
+《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")》1472号的クロスレビュー對PlayStation Vita版給予26/40評分。\[7\]
 
 ## 參考來源
 
@@ -58,15 +54,7 @@ Vita版給予26/40評分。\[7\]
   - [PSV版官方網站](http://www.entergram.co.jp/timepiece/)ENTERGRAM
   - [APP版官方網站](http://moeapp.net/special/timepiece.html)萌えAPP
 
-[Category:2013年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2013年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
+[Category:2013年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2013年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
 
 1.
 2.

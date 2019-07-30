@@ -27,8 +27,6 @@
   - 單行本「雷鳴ZAJI 1 邊境逃亡者」
     [集英社](../Page/集英社.md "wikilink") 1993年7月7日発売
   - 文庫本「雷鳴ZAJI」
-    [集英社文庫](../Page/集英社.md "wikilink") 2001年12月12日発売
+    [集英社](../Page/集英社.md "wikilink")文庫 2001年12月12日発売
 
-[Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:車田正美](https://zh.wikipedia.org/wiki/Category:車田正美 "wikilink")
+[Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:車田正美](https://zh.wikipedia.org/wiki/Category:車田正美 "wikilink")

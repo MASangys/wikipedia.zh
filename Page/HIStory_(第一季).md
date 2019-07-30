@@ -1,7 +1,4 @@
-《**[HISt♂ry系列](../Page/HIStory_\(2017年電視劇\).md "wikilink")**》，第一季於2017年2月14日起在[CHOCO
-TV每周二](../Page/CHOCO_TV.md "wikilink")\~五上架播出，第一季共分為三個單元《My
-Hero》、《離我遠一點》、《著魔》，播出後造成廣大回響，被各國字幕組翻譯成8種語言，包含泰文、印尼文、越南文、日文、韓文、西班牙文、法文、英文\[1\]，播出後熱潮不斷，各界敲碗花絮與續集，[CHOCO
-TV於](../Page/CHOCO_TV.md "wikilink")2017年5月12日推出“HIStory寫真+DVD典藏特集”，截至10月已創全網累積超過500萬次瀏覽數\[2\]，於9月底在日本院線發行，並將於泰國電視台播出。
+《**[HISt♂ry系列](../Page/HIStory_\(2017年電視劇\).md "wikilink")**》，第一季於2017年2月14日起在[CHOCO TV每周二](../Page/CHOCO_TV.md "wikilink")\~五上架播出，第一季共分為三個單元《My Hero》、《離我遠一點》、《著魔》，播出後造成廣大回響，被各國字幕組翻譯成8種語言，包含泰文、印尼文、越南文、日文、韓文、西班牙文、法文、英文\[1\]，播出後熱潮不斷，各界敲碗花絮與續集，[CHOCO TV於](../Page/CHOCO_TV.md "wikilink")2017年5月12日推出“HIStory寫真+DVD典藏特集”，截至10月已創全網累積超過500萬次瀏覽數\[2\]，於9月底在日本院線發行，並將於泰國電視台播出。
 
 [CHOCO TV宣布也開拍第二季](../Page/CHOCO_TV.md "wikilink")，分為兩個單元《是非》、《越界》。\[3\]
 
@@ -140,10 +137,10 @@ TV於](../Page/CHOCO_TV.md "wikilink")2017年5月12日推出“HIStory寫真+DVD
 | ------ | ------------------------------ | --------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | **曲別** | **歌名**                         | **演唱者**                                                         | **作詞**                                              | **作曲**                                                                                             | **備註**                                                                                             |
 | 片頭曲    | HIStory                        | [陳瑋儒](https://zh.wikipedia.org/wiki/陳瑋儒 "wikilink")(from 青鳥合唱團) | [陳瑋儒](https://zh.wikipedia.org/wiki/陳瑋儒 "wikilink") | [陳瑋儒](https://zh.wikipedia.org/wiki/陳瑋儒 "wikilink")                                                |                                                                                                    |
-| 片尾曲    | 小小的                            | [思衛](../Page/思衛.md "wikilink")、[鄭中基](../Page/鄭中基.md "wikilink") | 葉蔓                                                  | [思衛](../Page/思衛.md "wikilink")                                                                     | 收錄於[思衛個人首張創作專輯](../Page/思衛.md "wikilink")[《不療癒系》](https://zh.wikipedia.org/wiki/《不療癒系》 "wikilink") |
+| 片尾曲    | 小小的                            | [思衛](../Page/思衛.md "wikilink")、[鄭中基](../Page/鄭中基.md "wikilink") | 葉蔓                                                  | [思衛](../Page/思衛.md "wikilink")                                                                     | 收錄於[思衛](../Page/思衛.md "wikilink")個人首張創作專輯[《不療癒系》](https://zh.wikipedia.org/wiki/《不療癒系》 "wikilink") |
 | 插曲     | 無動於衷                           | [陳鈺羲](https://zh.wikipedia.org/wiki/陳鈺羲 "wikilink")(from 青鳥合唱團) | [陳鈺羲](https://zh.wikipedia.org/wiki/陳鈺羲 "wikilink") | [陳鈺羲](https://zh.wikipedia.org/wiki/陳鈺羲 "wikilink")                                                | 原唱：[謝文傑](https://zh.wikipedia.org/wiki/嘻小瓜 "wikilink")                                             |
-| 恨不痛快   | [思衛](../Page/思衛.md "wikilink") | [陳宏宇](../Page/陳宏宇.md "wikilink")                                | [思衛](../Page/思衛.md "wikilink")                      | 收錄於[思衛個人首張創作專輯](../Page/思衛.md "wikilink")[《不療癒系》](https://zh.wikipedia.org/wiki/《不療癒系》 "wikilink") |                                                                                                    |
-| 沒想到    | [思衛](../Page/思衛.md "wikilink") | [葉蔓](https://zh.wikipedia.org/wiki/葉蔓 "wikilink")               | [思衛](../Page/思衛.md "wikilink")                      | 收錄於[思衛個人首張創作專輯](../Page/思衛.md "wikilink")[《不療癒系》](https://zh.wikipedia.org/wiki/《不療癒系》 "wikilink") |                                                                                                    |
+| 恨不痛快   | [思衛](../Page/思衛.md "wikilink") | [陳宏宇](../Page/陳宏宇.md "wikilink")                                | [思衛](../Page/思衛.md "wikilink")                      | 收錄於[思衛](../Page/思衛.md "wikilink")個人首張創作專輯[《不療癒系》](https://zh.wikipedia.org/wiki/《不療癒系》 "wikilink") |                                                                                                    |
+| 沒想到    | [思衛](../Page/思衛.md "wikilink") | [葉蔓](https://zh.wikipedia.org/wiki/葉蔓 "wikilink")               | [思衛](../Page/思衛.md "wikilink")                      | 收錄於[思衛](../Page/思衛.md "wikilink")個人首張創作專輯[《不療癒系》](https://zh.wikipedia.org/wiki/《不療癒系》 "wikilink") |                                                                                                    |
 
 ### 製作團隊
 
@@ -232,8 +229,8 @@ TV於](../Page/CHOCO_TV.md "wikilink")2017年5月12日推出“HIStory寫真+DVD
 | 片尾曲    | 無動於衷                                         | [陳鈺羲](https://zh.wikipedia.org/wiki/陳鈺羲 "wikilink")(from 青鳥合唱團) | [陳鈺羲](https://zh.wikipedia.org/wiki/陳鈺羲 "wikilink") | [陳鈺羲](https://zh.wikipedia.org/wiki/陳鈺羲 "wikilink")                                                                                         | 原唱：[謝文傑](https://zh.wikipedia.org/wiki/嘻小瓜 "wikilink") |
 | 信仰     | [Easy Shen](../Page/Easy_Shen.md "wikilink") | [Easy Shen](../Page/Easy_Shen.md "wikilink")                    | [Easy Shen](../Page/Easy_Shen.md "wikilink")        | 收錄於[Easy Shen第三張個人創作專輯](../Page/Easy_Shen.md "wikilink")[《anicca 如果時間流轉我們依然》](https://zh.wikipedia.org/wiki/《anicca_如果時間流轉我們依然》 "wikilink") |                                                        |
 | 插曲     | 無動於衷                                         | [陳鈺羲](https://zh.wikipedia.org/wiki/陳鈺羲 "wikilink")(from 青鳥合唱團) | [陳鈺羲](https://zh.wikipedia.org/wiki/陳鈺羲 "wikilink") | [陳鈺羲](https://zh.wikipedia.org/wiki/陳鈺羲 "wikilink")                                                                                         | 原唱：[謝文傑](https://zh.wikipedia.org/wiki/嘻小瓜 "wikilink") |
-| 恨不痛快   | [思衛](../Page/思衛.md "wikilink")               | [陳宏宇](../Page/陳宏宇.md "wikilink")                                | [思衛](../Page/思衛.md "wikilink")                      | 收錄於[思衛個人首張創作專輯](../Page/思衛.md "wikilink")[《不療癒系》](https://zh.wikipedia.org/wiki/《不療癒系》 "wikilink")                                          |                                                        |
-| 沒想到    | [思衛](../Page/思衛.md "wikilink")               | [葉蔓](https://zh.wikipedia.org/wiki/葉蔓 "wikilink")               | [思衛](../Page/思衛.md "wikilink")                      | 收錄於[思衛個人首張創作專輯](../Page/思衛.md "wikilink")[《不療癒系》](https://zh.wikipedia.org/wiki/《不療癒系》 "wikilink")                                          |                                                        |
+| 恨不痛快   | [思衛](../Page/思衛.md "wikilink")               | [陳宏宇](../Page/陳宏宇.md "wikilink")                                | [思衛](../Page/思衛.md "wikilink")                      | 收錄於[思衛](../Page/思衛.md "wikilink")個人首張創作專輯[《不療癒系》](https://zh.wikipedia.org/wiki/《不療癒系》 "wikilink")                                          |                                                        |
+| 沒想到    | [思衛](../Page/思衛.md "wikilink")               | [葉蔓](https://zh.wikipedia.org/wiki/葉蔓 "wikilink")               | [思衛](../Page/思衛.md "wikilink")                      | 收錄於[思衛](../Page/思衛.md "wikilink")個人首張創作專輯[《不療癒系》](https://zh.wikipedia.org/wiki/《不療癒系》 "wikilink")                                          |                                                        |
 | 信仰     | [Easy Shen](../Page/Easy_Shen.md "wikilink") | [Easy Shen](../Page/Easy_Shen.md "wikilink")                    | [Easy Shen](../Page/Easy_Shen.md "wikilink")        | 收錄於[Easy Shen第三張個人創作專輯](../Page/Easy_Shen.md "wikilink")[《anicca 如果時間流轉我們依然》](https://zh.wikipedia.org/wiki/《anicca_如果時間流轉我們依然》 "wikilink") |                                                        |
 
 ### 製作團隊
@@ -328,8 +325,8 @@ TV於](../Page/CHOCO_TV.md "wikilink")2017年5月12日推出“HIStory寫真+DVD
 | 片頭曲    | HIStory                                      | [陳瑋儒](https://zh.wikipedia.org/wiki/陳瑋儒 "wikilink")(from 青鳥合唱團) | [陳瑋儒](https://zh.wikipedia.org/wiki/陳瑋儒 "wikilink") | [陳瑋儒](https://zh.wikipedia.org/wiki/陳瑋儒 "wikilink")                                                                                         |                                                                       |
 | 片尾曲    | 偷偷                                           | [楊景涵](https://zh.wikipedia.org/wiki/楊景涵 "wikilink")             | [楊景涵](https://zh.wikipedia.org/wiki/楊景涵 "wikilink") | [楊景涵](https://zh.wikipedia.org/wiki/楊景涵 "wikilink")                                                                                         | 收錄於音樂人合輯[《壹號創作基地》](https://zh.wikipedia.org/wiki/《壹號創作基地》 "wikilink") |
 | 插曲     | 無動於衷                                         | [陳鈺羲](https://zh.wikipedia.org/wiki/陳鈺羲 "wikilink")(from 青鳥合唱團) | [陳鈺羲](https://zh.wikipedia.org/wiki/陳鈺羲 "wikilink") | [陳鈺羲](https://zh.wikipedia.org/wiki/陳鈺羲 "wikilink")                                                                                         | 原唱：[謝文傑](https://zh.wikipedia.org/wiki/嘻小瓜 "wikilink")                |
-| 恨不痛快   | [思衛](../Page/思衛.md "wikilink")               | [陳宏宇](../Page/陳宏宇.md "wikilink")                                | [思衛](../Page/思衛.md "wikilink")                      | 收錄於[思衛個人首張創作專輯](../Page/思衛.md "wikilink")[《不療癒系》](https://zh.wikipedia.org/wiki/《不療癒系》 "wikilink")                                          |                                                                       |
-| 沒想到    | [思衛](../Page/思衛.md "wikilink")               | [葉蔓](https://zh.wikipedia.org/wiki/葉蔓 "wikilink")               | [思衛](../Page/思衛.md "wikilink")                      | 收錄於[思衛個人首張創作專輯](../Page/思衛.md "wikilink")[《不療癒系》](https://zh.wikipedia.org/wiki/《不療癒系》 "wikilink")                                          |                                                                       |
+| 恨不痛快   | [思衛](../Page/思衛.md "wikilink")               | [陳宏宇](../Page/陳宏宇.md "wikilink")                                | [思衛](../Page/思衛.md "wikilink")                      | 收錄於[思衛](../Page/思衛.md "wikilink")個人首張創作專輯[《不療癒系》](https://zh.wikipedia.org/wiki/《不療癒系》 "wikilink")                                          |                                                                       |
+| 沒想到    | [思衛](../Page/思衛.md "wikilink")               | [葉蔓](https://zh.wikipedia.org/wiki/葉蔓 "wikilink")               | [思衛](../Page/思衛.md "wikilink")                      | 收錄於[思衛](../Page/思衛.md "wikilink")個人首張創作專輯[《不療癒系》](https://zh.wikipedia.org/wiki/《不療癒系》 "wikilink")                                          |                                                                       |
 | 信仰     | [Easy Shen](../Page/Easy_Shen.md "wikilink") | [Easy Shen](../Page/Easy_Shen.md "wikilink")                    | [Easy Shen](../Page/Easy_Shen.md "wikilink")        | 收錄於[Easy Shen第三張個人創作專輯](../Page/Easy_Shen.md "wikilink")[《anicca 如果時間流轉我們依然》](https://zh.wikipedia.org/wiki/《anicca_如果時間流轉我們依然》 "wikilink") |                                                                       |
 
 ### 製作團隊
@@ -345,26 +342,15 @@ TV於](../Page/CHOCO_TV.md "wikilink")2017年5月12日推出“HIStory寫真+DVD
 ## 外部連結
 
   -
-  - 在影視圈圈上《[HIStory-My
-    Hero](http://www.moviemovie.com.tw/db/program/21044)》的資料
+  - 在影視圈圈上《[HIStory-My Hero](http://www.moviemovie.com.tw/db/program/21044)》的資料
 
   - 在影視圈圈上《[History-離我遠一點](http://www.moviemovie.com.tw/db/program/21077)》的資料
 
   - 在影視圈圈上《[History-著魔](http://www.moviemovie.com.tw/db/program/21078)》的資料
 
   -
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink")
-[Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink")
-[Category:2017年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2017年台灣電視劇集 "wikilink")
-[Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink")
-[Category:男同性戀相關電視節目](https://zh.wikipedia.org/wiki/Category:男同性戀相關電視節目 "wikilink")
-[Category:台灣LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電視節目 "wikilink")
-[Category:緯來電視外購電視劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購電視劇 "wikilink")
-[Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink") [Category:2017年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2017年台灣電視劇集 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink") [Category:男同性戀相關電視節目](https://zh.wikipedia.org/wiki/Category:男同性戀相關電視節目 "wikilink") [Category:台灣LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電視節目 "wikilink") [Category:緯來電視外購電視劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購電視劇 "wikilink") [Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink")
 
-1.  [腐女次文化跨國界
-    影視業者大餅](https://stars.udn.com/star/story/10091/2756921)，噓！星聞，2017年10月25日
-2.  [OTT影視一條龍 CHOCO
-    TV自製劇告捷](https://tw.news.yahoo.com/ott%E5%BD%B1%E8%A6%96-%E6%A2%9D%E9%BE%8D-choco-tv%E8%87%AA%E8%A3%BD%E5%8A%87%E5%91%8A%E6%8D%B7-041721799--finance.html)，中央社，2017年12月14日
-3.  [台灣男男戀網路劇
-    逆襲進軍日本](http://ent.ltn.com.tw/news/breakingnews/2125327)，自由娛樂，2017年07月08日
+1.  [腐女次文化跨國界 影視業者大餅](https://stars.udn.com/star/story/10091/2756921)，噓！星聞，2017年10月25日
+2.  [OTT影視一條龍 CHOCO TV自製劇告捷](https://tw.news.yahoo.com/ott%E5%BD%B1%E8%A6%96-%E6%A2%9D%E9%BE%8D-choco-tv%E8%87%AA%E8%A3%BD%E5%8A%87%E5%91%8A%E6%8D%B7-041721799--finance.html)，中央社，2017年12月14日
+3.  [台灣男男戀網路劇 逆襲進軍日本](http://ent.ltn.com.tw/news/breakingnews/2125327)，自由娛樂，2017年07月08日

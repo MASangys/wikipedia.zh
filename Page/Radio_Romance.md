@@ -1,7 +1,4 @@
-《**Radio
-Romance**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2018年1月29日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由《[Jugglers](../Page/Jugglers.md "wikilink")》文浚河導演與全有利作家合作打造。此劇講述一位沒有劇本就什麼都做不來的頂級明星池秀浩（[尹斗俊](../Page/尹斗俊.md "wikilink")
-飾）和邀請其成為DJ的一位除了寫作之外、任何事都非常擅長的電台作家宋可琳（[金所泫](../Page/金所泫.md "wikilink")
-飾）在絕不按照台本進行的直播電台節目中發生的浪漫故事。
+《**Radio Romance**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2018年1月29日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由《[Jugglers](../Page/Jugglers.md "wikilink")》文浚河導演與全有利作家合作打造。此劇講述一位沒有劇本就什麼都做不來的頂級明星池秀浩（[尹斗俊](../Page/尹斗俊.md "wikilink") 飾）和邀請其成為DJ的一位除了寫作之外、任何事都非常擅長的電台作家宋可琳（[金所泫](../Page/金所泫.md "wikilink") 飾）在絕不按照台本進行的直播電台節目中發生的浪漫故事。
 
 台灣由愛奇藝台灣站，1/30起每周一二上午10點獨家播出。香港由無線電視myTV SUPER在韓國播出8小時後更新。
 
@@ -375,17 +372,14 @@ Romance**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikili
 
 ## 同時段競爭作品
 
-  - [MBC](../Page/文化廣播公司.md "wikilink")
-    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[白色巨塔](../Page/白色巨塔_\(2007年韓劇\).md "wikilink")》（重播）、《[偉大的誘惑者](../Page/偉大的誘惑者.md "wikilink")》
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[疑問的一勝](../Page/疑問的一勝.md "wikilink")》、《[能先接吻嗎？](https://zh.wikipedia.org/wiki/能先接吻嗎？ "wikilink")》
-  - [tvN](../Page/TVN.md "wikilink")
-    [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[Cross](../Page/Cross_\(電視劇\).md "wikilink")》
+  - [MBC](../Page/文化廣播公司.md "wikilink") [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[白色巨塔](../Page/白色巨塔_\(2007年韓劇\).md "wikilink")》（重播）、《[偉大的誘惑者](../Page/偉大的誘惑者.md "wikilink")》
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink") [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[疑問的一勝](../Page/疑問的一勝.md "wikilink")》、《[能先接吻嗎？](https://zh.wikipedia.org/wiki/能先接吻嗎？ "wikilink")》
+  - [tvN](../Page/TVN.md "wikilink") [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[Cross](../Page/Cross_\(電視劇\).md "wikilink")》
 
 ## 記事
 
-  - 此劇是[金所泫成年後的第一部作品](../Page/金所泫.md "wikilink")。
-  - 此劇是[金所泫及](../Page/金所泫.md "wikilink")[尹斗俊繼廣告合作及電視劇](../Page/尹斗俊.md "wikilink")《[打架吧鬼神](../Page/打架吧鬼神.md "wikilink")》主角及客串演出後的合作。
+  - 此劇是[金所泫](../Page/金所泫.md "wikilink")成年後的第一部作品。
+  - 此劇是[金所泫](../Page/金所泫.md "wikilink")及[尹斗俊](../Page/尹斗俊.md "wikilink")繼廣告合作及電視劇《[打架吧鬼神](../Page/打架吧鬼神.md "wikilink")》主角及客串演出後的合作。
 
 ## 腳註
 
@@ -396,10 +390,7 @@ Romance**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikili
   - [香港無綫電視官方網站](http://programme.tvb.com/drama/radioromance0001)
   - [friDay影音廣播羅曼史](https://video.friday.tw/drama/detail/569)
 
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
-[Category:廣播題材電視劇](https://zh.wikipedia.org/wiki/Category:廣播題材電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:廣播題材電視劇](https://zh.wikipedia.org/wiki/Category:廣播題材電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
 1.
 2.

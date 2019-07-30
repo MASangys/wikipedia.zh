@@ -11,11 +11,4 @@
 ## 参考文献
 
   -
-[Category:懷俄明州聯邦眾議員](https://zh.wikipedia.org/wiki/Category:懷俄明州聯邦眾議員 "wikilink")
-[Category:美国共和党联邦众议员](https://zh.wikipedia.org/wiki/Category:美国共和党联邦众议员 "wikilink")
-[Category:懷俄明州眾議員](https://zh.wikipedia.org/wiki/Category:懷俄明州眾議員 "wikilink")
-[Category:懷俄明州參議員](https://zh.wikipedia.org/wiki/Category:懷俄明州參議員 "wikilink")
-[Category:愛荷華州人](https://zh.wikipedia.org/wiki/Category:愛荷華州人 "wikilink")
-[Category:芝加哥大學校友](https://zh.wikipedia.org/wiki/Category:芝加哥大學校友 "wikilink")
-[Category:美國農民](https://zh.wikipedia.org/wiki/Category:美國農民 "wikilink")
-[Category:美西战争美国军事人物](https://zh.wikipedia.org/wiki/Category:美西战争美国军事人物 "wikilink")
+[Category:懷俄明州聯邦眾議員](https://zh.wikipedia.org/wiki/Category:懷俄明州聯邦眾議員 "wikilink") [Category:美国共和党联邦众议员](https://zh.wikipedia.org/wiki/Category:美国共和党联邦众议员 "wikilink") [Category:懷俄明州眾議員](https://zh.wikipedia.org/wiki/Category:懷俄明州眾議員 "wikilink") [Category:懷俄明州參議員](https://zh.wikipedia.org/wiki/Category:懷俄明州參議員 "wikilink") [Category:愛荷華州人](https://zh.wikipedia.org/wiki/Category:愛荷華州人 "wikilink") [Category:芝加哥大學校友](https://zh.wikipedia.org/wiki/Category:芝加哥大學校友 "wikilink") [Category:美國農民](https://zh.wikipedia.org/wiki/Category:美國農民 "wikilink") [Category:美西战争美国军事人物](https://zh.wikipedia.org/wiki/Category:美西战争美国军事人物 "wikilink")

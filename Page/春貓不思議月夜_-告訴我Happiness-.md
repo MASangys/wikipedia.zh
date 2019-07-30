@@ -1,12 +1,8 @@
-《**春貓不思議月夜
--告訴我Happiness-**》（）是[日本女性](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")[林原惠的第](../Page/林原惠.md "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1992年8月5日由[STARCHILD](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")（[King
-Records旗下公司](../Page/國王唱片.md "wikilink")）發行。
+《**春貓不思議月夜 -告訴我Happiness-**》（）是[日本](../Page/日本.md "wikilink")女性[聲優](../Page/聲優.md "wikilink")[林原惠](../Page/林原惠.md "wikilink")的第4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1992年8月5日由[STARCHILD](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")（[King Records旗下公司](../Page/國王唱片.md "wikilink")）發行。
 
 ## 解說
 
-同名標題曲「春貓不思議月夜
--告訴我Happiness-」是聲優[林原惠主演](../Page/林原惠.md "wikilink")1992發行的[OVA動畫系列](https://zh.wikipedia.org/wiki/OVA "wikilink")《[萬能文化貓娘](https://zh.wikipedia.org/wiki/萬能文化貓娘 "wikilink")》選用的第1期片尾主題曲。該歌曲（包含B面歌曲）同年也被歌手[高橋洋子](../Page/高橋洋子.md "wikilink")（當時以**YAUMIN**名義）翻唱，並收錄在專輯《萬能文化貓娘
-SOUND PHASE-01》（規格編號：KICA-123）裡。
+同名標題曲「春貓不思議月夜 -告訴我Happiness-」是聲優[林原惠](../Page/林原惠.md "wikilink")主演1992發行的[OVA動畫系列](https://zh.wikipedia.org/wiki/OVA "wikilink")《[萬能文化貓娘](https://zh.wikipedia.org/wiki/萬能文化貓娘 "wikilink")》選用的第1期片尾主題曲。該歌曲（包含B面歌曲）同年也被歌手[高橋洋子](../Page/高橋洋子.md "wikilink")（當時以**YAUMIN**名義）翻唱，並收錄在專輯《萬能文化貓娘 SOUND PHASE-01》（規格編號：KICA-123）裡。
 
 ## 收錄歌曲
 
@@ -35,9 +31,6 @@ SOUND PHASE-01》（規格編號：KICA-123）裡。
 
 ## 注釋
 
-[Category:林原惠單曲](https://zh.wikipedia.org/wiki/Category:林原惠單曲 "wikilink")
-[Category:1992年單曲](https://zh.wikipedia.org/wiki/Category:1992年單曲 "wikilink")
-[Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")
-[Category:OVA主題曲](https://zh.wikipedia.org/wiki/Category:OVA主題曲 "wikilink")
+[Category:林原惠單曲](https://zh.wikipedia.org/wiki/Category:林原惠單曲 "wikilink") [Category:1992年單曲](https://zh.wikipedia.org/wiki/Category:1992年單曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:OVA主題曲](https://zh.wikipedia.org/wiki/Category:OVA主題曲 "wikilink")
 
-1.  至於日文原曲、包含B面歌曲從未在[林原惠她的個人原創專輯中收錄](../Page/林原惠.md "wikilink")。
+1.  至於日文原曲、包含B面歌曲從未在[林原惠](../Page/林原惠.md "wikilink")她的個人原創專輯中收錄。

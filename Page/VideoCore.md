@@ -1,6 +1,4 @@
-[Raspberry-Pi-2-Bare-BR.jpg](https://zh.wikipedia.org/wiki/File:Raspberry-Pi-2-Bare-BR.jpg "fig:Raspberry-Pi-2-Bare-BR.jpg")微型计算机使用了包含[Broadcom](https://zh.wikipedia.org/wiki/Broadcom "wikilink")
-VideoCore 核心的处理器\]\] **VideoCore**
-是一个由开发并且现在被[Broadcom拥有的](https://zh.wikipedia.org/wiki/Broadcom "wikilink")[低功耗移动多媒体](../Page/低功耗设计.md "wikilink")[指令集架构](https://zh.wikipedia.org/wiki/指令集架构 "wikilink")。二维的[DSP架构使其在软件中可以灵活且高效地编解码多媒体数据的同时保持低功耗](../Page/數位訊號處理器.md "wikilink")。\[1\]该[IP核目前仅在](https://zh.wikipedia.org/wiki/IP核 "wikilink")[Broadcom的](https://zh.wikipedia.org/wiki/Broadcom "wikilink")[SoC中被使用](../Page/系统芯片.md "wikilink")。
+[Raspberry-Pi-2-Bare-BR.jpg](https://zh.wikipedia.org/wiki/File:Raspberry-Pi-2-Bare-BR.jpg "fig:Raspberry-Pi-2-Bare-BR.jpg")微型计算机使用了包含[Broadcom](https://zh.wikipedia.org/wiki/Broadcom "wikilink") VideoCore 核心的处理器\]\] **VideoCore** 是一个由开发并且现在被[Broadcom拥有的](https://zh.wikipedia.org/wiki/Broadcom "wikilink")[低功耗移动多媒体](../Page/低功耗设计.md "wikilink")[指令集架构](https://zh.wikipedia.org/wiki/指令集架构 "wikilink")。二维的[DSP架构使其在软件中可以灵活且高效地编解码多媒体数据的同时保持低功耗](../Page/數位訊號處理器.md "wikilink")。\[1\]该[IP核目前仅在](https://zh.wikipedia.org/wiki/IP核 "wikilink")[Broadcom的](https://zh.wikipedia.org/wiki/Broadcom "wikilink")[SoC中被使用](../Page/系统芯片.md "wikilink")。
 
 ## 技术信息
 
@@ -38,10 +36,6 @@ VideoCore 核心的处理器\]\] **VideoCore**
 
 ## 参考资料
 
-[Category:Broadcom](https://zh.wikipedia.org/wiki/Category:Broadcom "wikilink")
-[Category:數位信號處理器](https://zh.wikipedia.org/wiki/Category:數位信號處理器 "wikilink")
-[Category:图形处理单元](https://zh.wikipedia.org/wiki/Category:图形处理单元 "wikilink")
+[Category:Broadcom](https://zh.wikipedia.org/wiki/Category:Broadcom "wikilink") [Category:數位信號處理器](https://zh.wikipedia.org/wiki/Category:數位信號處理器 "wikilink") [Category:图形处理单元](https://zh.wikipedia.org/wiki/Category:图形处理单元 "wikilink")
 
-1.  [Alphamosaic Ltd \> Technology –
-    VideoCore](https://web.archive.org/web/20030209213838/http://www.alphamosaic.com/videocore/),
-    archived on 9 February 2003.
+1.  [Alphamosaic Ltd \> Technology – VideoCore](https://web.archive.org/web/20030209213838/http://www.alphamosaic.com/videocore/), archived on 9 February 2003.

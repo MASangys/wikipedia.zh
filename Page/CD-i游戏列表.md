@@ -1,4 +1,4 @@
-[飛利浦](../Page/飛利浦.md "wikilink")[CD-i遊戲列表](../Page/CD-i.md "wikilink")。
+[飛利浦](../Page/飛利浦.md "wikilink")[CD-i](../Page/CD-i.md "wikilink")遊戲列表。
 
 ## 發行遊戲
 
@@ -1496,116 +1496,52 @@ Episode 2: New Jersey</p></td>
 
 ## 參考來源
 
-[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
-[Category:CD-i遊戲](https://zh.wikipedia.org/wiki/Category:CD-i遊戲 "wikilink")
+[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink") [Category:CD-i遊戲](https://zh.wikipedia.org/wiki/Category:CD-i遊戲 "wikilink")
 
-1.  "1995: All the News and Views." GameFaqs. CNET, n.d. Web. 27 Oct.
-    2016.
-    \<<http://www.gamefaqs.com/cdi/937425-1995-all-the-news-and-views/data>\>.
-2.  Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles:
-    Coming Soon... - Third Degree". *CDi Magazine*. Bell Perks Design.
-    Issue 1. Pg.13. October 1992.
-3.  Diamond, Dominik. "Celebrity Review - The Diamond Report". *CDi
-    Magazine* (Andy Clough, ed.). Haymarket Publishing, UK. Issue 2.
-    Pp.10-13. October 1993.
-4.  Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles:
-    Coming Soon... - Alice in Wonderland". *CDi Magazine*. Bell Perks
-    Design. Issue 1. Pg.13. October 1992.
-5.  Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles:
-    Games - Backgammon". *CDi Magazine*. Bell Perks Design. Issue 1.
-    Pg.13. October 1992.
-6.  Turner, Simon, et al. (eds.) "Highlights: Kids Stuff - Storybook
-    Adventure Series: Beauty and the Beast". *CDi Magazine*. Bell Perks
-    Design. Issue 1. Pg.8. October 1992.
-7.  Clough, Andy ed. "Kids' Stuff - Berenstain Bears On Their Own". *CDi
-    Magazine*. Haymarket Publishing, UK. Issue 2. Pg.42. October 1993.
-8.  Turner, Simon, et al. (eds.) "Highlights: Kids Stuff - Storybook
-    Adventure Series: Brer Rabbit and the Wonderful Tar Baby". *CDi
-    Magazine*. Bell Perks Design. Issue 1. Pg.8. October 1992.
-9.  Clough, Andy ed. "Preview - Caesar's World of Boxing". *CDi
-    Magazine*. Haymarket Publishing, UK. Issue 2. Pg.19. October 1993.
-10. Clough, Andy ed. "Kids' Stuff - Hanna Barbera's Cartoon Carnival".
-    *CDi Magazine*. Haymarket Publishing, UK. Issue 2. Pg.42. October
-    1993.
-11. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles:
-    Coming Soon... - CD Shoot". *CDi Magazine*. Bell Perks Design. Issue
-    1. Pg.13. October 1992.
-12. "A Child is Born" GameFaqs. CNET, n.d. Web. 27 Oct. 2016.
-    \<<http://www.gamefaqs.com/cdi/937174-a-child-is-born/data>\>.
-13. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles:
-    Connect 4". *CDi Magazine*. Bell Perks Design. Issue 1. Pg.12.
-    October 1992.
+1.  "1995: All the News and Views." GameFaqs. CNET, n.d. Web. 27 Oct. 2016. \<<http://www.gamefaqs.com/cdi/937425-1995-all-the-news-and-views/data>\>.
+2.  Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles: Coming Soon... - Third Degree". *CDi Magazine*. Bell Perks Design. Issue 1. Pg.13. October 1992.
+3.  Diamond, Dominik. "Celebrity Review - The Diamond Report". *CDi Magazine* (Andy Clough, ed.). Haymarket Publishing, UK. Issue 2. Pp.10-13. October 1993.
+4.  Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles: Coming Soon... - Alice in Wonderland". *CDi Magazine*. Bell Perks Design. Issue 1. Pg.13. October 1992.
+5.  Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles: Games - Backgammon". *CDi Magazine*. Bell Perks Design. Issue 1. Pg.13. October 1992.
+6.  Turner, Simon, et al. (eds.) "Highlights: Kids Stuff - Storybook Adventure Series: Beauty and the Beast". *CDi Magazine*. Bell Perks Design. Issue 1. Pg.8. October 1992.
+7.  Clough, Andy ed. "Kids' Stuff - Berenstain Bears On Their Own". *CDi Magazine*. Haymarket Publishing, UK. Issue 2. Pg.42. October 1993.
+8.  Turner, Simon, et al. (eds.) "Highlights: Kids Stuff - Storybook Adventure Series: Brer Rabbit and the Wonderful Tar Baby". *CDi Magazine*. Bell Perks Design. Issue 1. Pg.8. October 1992.
+9.  Clough, Andy ed. "Preview - Caesar's World of Boxing". *CDi Magazine*. Haymarket Publishing, UK. Issue 2. Pg.19. October 1993.
+10. Clough, Andy ed. "Kids' Stuff - Hanna Barbera's Cartoon Carnival". *CDi Magazine*. Haymarket Publishing, UK. Issue 2. Pg.42. October 1993.
+11. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles: Coming Soon... - CD Shoot". *CDi Magazine*. Bell Perks Design. Issue 1. Pg.13. October 1992.
+12. "A Child is Born" GameFaqs. CNET, n.d. Web. 27 Oct. 2016. \<<http://www.gamefaqs.com/cdi/937174-a-child-is-born/data>\>.
+13. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles: Connect 4". *CDi Magazine*. Bell Perks Design. Issue 1. Pg.12. October 1992.
 14.
 15.
-16. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Arcade
-    Adventure: Escape from Cyber City". *CDi Magazine*. Bell Perks
-    Design. Issue 1. Pg.13. October 1992.
-17. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles:
-    Sport - Great British Golf". *CDi Magazine*. Bell Perks Design.
-    Issue 1. Pg.12. October 1992.
-18. Clough, Andy ed. "Reviews - A Great Day at the Races". *CDi
-    Magazine*. Haymarket Publishing, UK. Issue 2. Pg.27. October 1993.
-19. Clough, Andy ed. "Reviews - Inca". *CDi Magazine*. Haymarket
-    Publishing, UK. Issue 2. Pg.26. October 1993.
-20. Clough, Andy ed. "News - Inca 2". *CDi Magazine*. Haymarket
-    Publishing, UK. Issue 2. Pg.7. October 1993.
-21. Southwell, Ben. "Adult - The Joy of Sex". *CDi Magazine* (Andy
-    Clough, ed.). Haymarket Publishing, UK. Issue 2. Pg.39. October
-    1993.
-22. Clough, Andy ed. "Preview - Karaoke Klassics". *CDi Magazine*.
-    Haymarket Publishing, UK. Issue 2. Pg.53. October 1993.
-23. Clough, Andy ed. "Reviews - The Mystery of Kether". *CDi Magazine*.
-    Haymarket Publishing, UK. Issue 2. Pg.20. October 1993.
-24. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles:
-    Coming Soon... - Laser Lords". *CDi Magazine*. Bell Perks Design.
-    Issue 1. Pg.13. October 1992.
-25. Clough, Andy ed. "News - The Lemmings are Coming". *CDi Magazine*.
-    Haymarket Publishing, UK. Issue 2. Pg.9. October 1993.
-26. Toor, Mat. "Games - Link The Faces of Evil". *CDi Magazine* (Andy
-    Clough, ed.). Haymarket Publishing, UK. Issue 2. Pg.24. October
-    1993.
-27. Clough, Andy ed. "Kids' Stuff - Little Monster at School". *CDi
-    Magazine*. Haymarket Publishing, UK. Issue 2. Pg.43. October 1993.
-28. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles:
-    Coming Soon... - Lords of the Rising Sun". *CDi Magazine*. Bell
-    Perks Design. Issue 1. Pg.12. October 1992.
-29. Clough, Andy ed. "Reviews - Mind Quest". *CDi Magazine*. Haymarket
-    Publishing, UK. Issue 2. Pg.26. October 1993.
-30. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Arcade
-    Adventure: Mystic Midway: Rest in Pieces". *CDi Magazine*. Bell
-    Perks Design. Issue 1. Pg.13. October 1992.
+16. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Arcade Adventure: Escape from Cyber City". *CDi Magazine*. Bell Perks Design. Issue 1. Pg.13. October 1992.
+17. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles: Sport - Great British Golf". *CDi Magazine*. Bell Perks Design. Issue 1. Pg.12. October 1992.
+18. Clough, Andy ed. "Reviews - A Great Day at the Races". *CDi Magazine*. Haymarket Publishing, UK. Issue 2. Pg.27. October 1993.
+19. Clough, Andy ed. "Reviews - Inca". *CDi Magazine*. Haymarket Publishing, UK. Issue 2. Pg.26. October 1993.
+20. Clough, Andy ed. "News - Inca 2". *CDi Magazine*. Haymarket Publishing, UK. Issue 2. Pg.7. October 1993.
+21. Southwell, Ben. "Adult - The Joy of Sex". *CDi Magazine* (Andy Clough, ed.). Haymarket Publishing, UK. Issue 2. Pg.39. October 1993.
+22. Clough, Andy ed. "Preview - Karaoke Klassics". *CDi Magazine*. Haymarket Publishing, UK. Issue 2. Pg.53. October 1993.
+23. Clough, Andy ed. "Reviews - The Mystery of Kether". *CDi Magazine*. Haymarket Publishing, UK. Issue 2. Pg.20. October 1993.
+24. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles: Coming Soon... - Laser Lords". *CDi Magazine*. Bell Perks Design. Issue 1. Pg.13. October 1992.
+25. Clough, Andy ed. "News - The Lemmings are Coming". *CDi Magazine*. Haymarket Publishing, UK. Issue 2. Pg.9. October 1993.
+26. Toor, Mat. "Games - Link The Faces of Evil". *CDi Magazine* (Andy Clough, ed.). Haymarket Publishing, UK. Issue 2. Pg.24. October 1993.
+27. Clough, Andy ed. "Kids' Stuff - Little Monster at School". *CDi Magazine*. Haymarket Publishing, UK. Issue 2. Pg.43. October 1993.
+28. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles: Coming Soon... - Lords of the Rising Sun". *CDi Magazine*. Bell Perks Design. Issue 1. Pg.12. October 1992.
+29. Clough, Andy ed. "Reviews - Mind Quest". *CDi Magazine*. Haymarket Publishing, UK. Issue 2. Pg.26. October 1993.
+30. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Arcade Adventure: Mystic Midway: Rest in Pieces". *CDi Magazine*. Bell Perks Design. Issue 1. Pg.13. October 1992.
 31.
 32.
-33. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles:
-    Sport - The Palm Springs Open". *CDi Magazine*. Bell Perks Design.
-    Issue 1. Pg.12. October 1992.
-34. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Arcade
-    Adventure: Pinball". *CDi Magazine*. Bell Perks Design. Issue 1.
-    Pg.13. October 1992.
-35. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles:
-    Sport - ABC Sports - Power Hitter". *CDi Magazine*. Bell Perks
-    Design. Issue 1. Pg.12. October 1992.
+33. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles: Sport - The Palm Springs Open". *CDi Magazine*. Bell Perks Design. Issue 1. Pg.12. October 1992.
+34. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Arcade Adventure: Pinball". *CDi Magazine*. Bell Perks Design. Issue 1. Pg.13. October 1992.
+35. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles: Sport - ABC Sports - Power Hitter". *CDi Magazine*. Bell Perks Design. Issue 1. Pg.12. October 1992.
 36.
-37. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles:
-    Games - Sargon Chess". *CDi Magazine*. Bell Perks Design. Issue 1.
-    Pg.13. October 1992.
+37. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles: Games - Sargon Chess". *CDi Magazine*. Bell Perks Design. Issue 1. Pg.13. October 1992.
 38.
-39. Clough, Andy ed. "News - Striker Pro". *CDi Magazine*. Haymarket
-    Publishing, UK. Issue 2. Pg.9. October 1993.
-40. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles:
-    Tetris". *CDi Magazine*. Bell Perks Design. Issue 1. Pg.12. October
-    1992.
-41. Turner, Simon, et al. (eds.) "Highlights: Kids Stuff - Kid's Titles:
-    Sesame Street Numbers Sesame Street Letters". *CDi Magazine*. Bell
-    Perks Design. Issue 1. Pg.8. October 1992.
-42. Clough, Andy ed. "Kids' Stuff - Wacky World of Miniature Golf". *CDi
-    Magazine*. Haymarket Publishing, UK. Issue 2. Pg.43. October 1993.
-43. Stout, Andy. "Games - Zelda The Wand of Gamelon". *CDi Magazine*
-    (Andy Clough, ed.). Haymarket Publishing, UK. Issue 2. Pg.25.
-    October 1993.
-44. Turner, Simon, et al. (eds.) "Highlights: Kids Stuff - Coming Soon:
-    Zombie Dinos From Planet Zeltoid". *CDi Magazine*. Bell Perks
-    Design. Issue 1. Pg.9. October 1992.
+39. Clough, Andy ed. "News - Striker Pro". *CDi Magazine*. Haymarket Publishing, UK. Issue 2. Pg.9. October 1993.
+40. Turner, Simon, et al. (eds.) "Highlights: Games Plus - Games Titles: Tetris". *CDi Magazine*. Bell Perks Design. Issue 1. Pg.12. October 1992.
+41. Turner, Simon, et al. (eds.) "Highlights: Kids Stuff - Kid's Titles: Sesame Street Numbers Sesame Street Letters". *CDi Magazine*. Bell Perks Design. Issue 1. Pg.8. October 1992.
+42. Clough, Andy ed. "Kids' Stuff - Wacky World of Miniature Golf". *CDi Magazine*. Haymarket Publishing, UK. Issue 2. Pg.43. October 1993.
+43. Stout, Andy. "Games - Zelda The Wand of Gamelon". *CDi Magazine* (Andy Clough, ed.). Haymarket Publishing, UK. Issue 2. Pg.25. October 1993.
+44. Turner, Simon, et al. (eds.) "Highlights: Kids Stuff - Coming Soon: Zombie Dinos From Planet Zeltoid". *CDi Magazine*. Bell Perks Design. Issue 1. Pg.9. October 1992.
 45.
 46.
 47.
@@ -1614,6 +1550,5 @@ Episode 2: New Jersey</p></td>
 50.
 51.
 52.
-53. Clough, Andy ed. "Preview - Microcosm". *CDi Magazine*. Haymarket
-    Publishing, UK. Issue 2. Pg.18. October 1993.
+53. Clough, Andy ed. "Preview - Microcosm". *CDi Magazine*. Haymarket Publishing, UK. Issue 2. Pg.18. October 1993.
 54.

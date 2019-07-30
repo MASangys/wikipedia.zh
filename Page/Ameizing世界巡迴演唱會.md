@@ -1,7 +1,6 @@
-**Ameizing世界巡迴演唱會**，是臺灣女歌手[張惠妹的第六次大型個人巡迴演唱會](../Page/張惠妹.md "wikilink")\[1\]\[2\]\[3\]。
+**Ameizing世界巡迴演唱會**，是臺灣女歌手[張惠妹](../Page/張惠妹.md "wikilink")的第六次大型個人巡迴演唱會\[1\]\[2\]\[3\]。
 
-該演唱會成為[台北小巨蛋連唱最多場](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")、觀看人數最多、離開唱日最短日數售票，創紀錄的8場演唱會共計吸引300多位演藝圈人士前往觀賞，更首次在高雄[國家體育場開唱](https://zh.wikipedia.org/wiki/國家體育場 "wikilink")，並且連開兩場，是第一位在此開唱的華語女歌手，AMeizing演唱會在台灣共舉辦10場，吸引17萬8000多位觀眾前往觀賞，創下同系列演唱會吸引最多觀眾的個人歌手紀錄。\[4\]。
-此次巡演也讓阿妹成為首位單次巡演場次最高的華語女歌手，締造147.5萬人觀賞紀錄，票房收入達新台幣29.5億元。
+該演唱會成為[台北小巨蛋連唱最多場](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")、觀看人數最多、離開唱日最短日數售票，創紀錄的8場演唱會共計吸引300多位演藝圈人士前往觀賞，更首次在高雄[國家體育場開唱](https://zh.wikipedia.org/wiki/國家體育場 "wikilink")，並且連開兩場，是第一位在此開唱的華語女歌手，AMeizing演唱會在台灣共舉辦10場，吸引17萬8000多位觀眾前往觀賞，創下同系列演唱會吸引最多觀眾的個人歌手紀錄。\[4\]。 此次巡演也讓阿妹成為首位單次巡演場次最高的華語女歌手，締造147.5萬人觀賞紀錄，票房收入達新台幣29.5億元。
 
 ## 巡演場次
 
@@ -421,7 +420,7 @@
 <td><p>51</p></td>
 <td><p>2012年10月27日</p></td>
 <td><p>武漢</p></td>
-<td><p><a href="../Page/武漢體育中心.md" title="wikilink">武漢體育中心體育場</a></p></td>
+<td><p><a href="../Page/武漢體育中心.md" title="wikilink">武漢體育中心</a>體育場</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -651,10 +650,7 @@
 
 ## 參考資料
 
-[Category:張惠妹演唱會](https://zh.wikipedia.org/wiki/Category:張惠妹演唱會 "wikilink")
-[Category:2011年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2011年巡回演唱会 "wikilink")
-[Category:2012年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2012年巡回演唱会 "wikilink")
-[Category:2013年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2013年巡回演唱会 "wikilink")
+[Category:張惠妹演唱會](https://zh.wikipedia.org/wiki/Category:張惠妹演唱會 "wikilink") [Category:2011年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2011年巡回演唱会 "wikilink") [Category:2012年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2012年巡回演唱会 "wikilink") [Category:2013年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2013年巡回演唱会 "wikilink")
 
 1.
 2.

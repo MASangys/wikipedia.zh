@@ -786,8 +786,7 @@ end
 
 local function bda(frame)
 
-`   -- Implement `[`Template:Birth``   ``date``   ``and``
- ``age`](https://zh.wikipedia.org/wiki/Template:Birth_date_and_age "wikilink")`.`
+`   -- Implement `[`Template:Birth``   ``date``   ``and``   ``age`](https://zh.wikipedia.org/wiki/Template:Birth_date_and_age "wikilink")`.`
 `   local args = frame:getParent().args`
 `   local options = { noMissing=true, single=true }`
 `   local date = getDates(frame, options)`
@@ -859,8 +858,7 @@ end
 
 local function dateToGsd(frame)
 
-`   -- Implement `[`Template:Gregorian``   ``serial``
- ``date`](https://zh.wikipedia.org/wiki/Template:Gregorian_serial_date "wikilink")`.`
+`   -- Implement `[`Template:Gregorian``   ``serial``   ``date`](https://zh.wikipedia.org/wiki/Template:Gregorian_serial_date "wikilink")`.`
 `   -- Return Gregorian serial date of the given date, or the current date.`
 `   -- The returned value is negative for dates before 1 January 1 AD`
 `   -- despite the fact that GSD is not defined for such dates.`
@@ -904,8 +902,7 @@ end
 
 local function timeInterval(frame)
 
-`   -- Implement `[`Template:Time``
- ``interval`](https://zh.wikipedia.org/wiki/Template:Time_interval "wikilink")`.`
+`   -- Implement `[`Template:Time``   ``interval`](https://zh.wikipedia.org/wiki/Template:Time_interval "wikilink")`.`
 `   -- There are two positional arguments: date1, date2.`
 `   -- The default for each is the current date and time.`
 `   -- Result is date2 - date1 formatted.`
@@ -966,5 +963,4 @@ return {
 
 }
 
-[Category:Age模块错误](https://zh.wikipedia.org/wiki/Category:Age模块错误 "wikilink")
-[Category:Age模块错误](https://zh.wikipedia.org/wiki/Category:Age模块错误 "wikilink")
+[Category:Age模块错误](https://zh.wikipedia.org/wiki/Category:Age模块错误 "wikilink") [Category:Age模块错误](https://zh.wikipedia.org/wiki/Category:Age模块错误 "wikilink")

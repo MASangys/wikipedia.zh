@@ -88,7 +88,7 @@
 <tr class="even">
 <td><p>2018年2月20日－2月23日</p></td>
 <td><p>KBS Cool FM</p></td>
-<td><p>《<a href="../Page/李洪基.md" title="wikilink">李洪基的Kiss</a> The Radio》</p></td>
+<td><p>《<a href="../Page/李洪基.md" title="wikilink">李洪基</a>的Kiss The Radio》</p></td>
 <td><p>B.I、東赫</p></td>
 <td><p>代班 DJ</p></td>
 </tr>
@@ -305,7 +305,7 @@
 </tr>
 <tr class="even">
 <td><p>6月12日</p></td>
-<td><p><a href="../Page/阿里郎.md" title="wikilink">阿里郎Radio</a></p></td>
+<td><p><a href="../Page/阿里郎.md" title="wikilink">阿里郎</a>Radio</p></td>
 <td><p>Super K-Pop</p></td>
 <td></td>
 <td></td>

@@ -1,13 +1,10 @@
-**Lady
-Jane**（，；本名**全智慧**，，，；1984年7月25日－）\[1\]\[2\]\[3\]\[4\]，[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")、女[歌手](../Page/歌手.md "wikilink")，為已解散的弘大女電子樂隊《Humming
-Urban Stereo》和現代搖滾樂隊《Tiramisu》成員。
+**Lady Jane**（，；本名**全智慧**，，，；1984年7月25日－）\[1\]\[2\]\[3\]\[4\]，[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")、女[歌手](../Page/歌手.md "wikilink")，為已解散的弘大女電子樂隊《Humming Urban Stereo》和現代搖滾樂隊《Tiramisu》成員。
 
 ## 專輯與作品
 
   - 2010年10月28日發行第一張專輯《分手不能代表一切》。
   - 2011年2月21日發行第二張專輯《親密關係》。
-  - 2011年6月21日發行第三張專輯《Love Treatment》（With Humming Urban
-    Stereo；Feat.Untouchable）。
+  - 2011年6月21日發行第三張專輯《Love Treatment》（With Humming Urban Stereo；Feat.Untouchable）。
   - 2011年9月23日發行第四張專輯《》（Feat. 토니 안-Tony An）。
   - 2011年11月16日發行第五張專輯《Jane Another Jane》。
 
@@ -142,18 +139,9 @@ Urban Stereo》和現代搖滾樂隊《Tiramisu》成員。
 
   -
   -
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink")
-[Category:韓國電影演員](https://zh.wikipedia.org/wiki/Category:韓國電影演員 "wikilink")
-[Category:全姓](https://zh.wikipedia.org/wiki/Category:全姓 "wikilink")
+[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink") [Category:韓國電影演員](https://zh.wikipedia.org/wiki/Category:韓國電影演員 "wikilink") [Category:全姓](https://zh.wikipedia.org/wiki/Category:全姓 "wikilink")
 
-1.  ['핫'한 레이디제인\! 그녀가
-    궁금하다.](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=144&aid=0000130133),
-    《스포츠경향》, 2010년 11월 8일
-2.  ['홍대여신' 레이디제인, 솔로 데뷔
-    선언](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=022&aid=0002197578),
-    《세계일보》, 2010년 10월 27일
+1.  ['핫'한 레이디제인\! 그녀가 궁금하다.](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=144&aid=0000130133), 《스포츠경향》, 2010년 11월 8일
+2.  ['홍대여신' 레이디제인, 솔로 데뷔 선언](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=022&aid=0002197578), 《세계일보》, 2010년 10월 27일
 3.
 4.

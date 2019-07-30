@@ -1,14 +1,10 @@
-**TRCNG**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TS
-Entertainment公司於](https://zh.wikipedia.org/wiki/TS_Entertainment "wikilink")2017年推出的十人男子團體，
-成員包括JI HUN、HA YOUNG、TAE SEON、HAK MIN、WOO YEOP、JI SUNG、HYUN WOO、SI WOO、HO
-HYEON、KANG MIN共十人。2017年10月10日以《Spectrum》正式出道。
+**TRCNG**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TS Entertainment公司於](https://zh.wikipedia.org/wiki/TS_Entertainment "wikilink")2017年推出的十人男子團體， 成員包括JI HUN、HA YOUNG、TAE SEON、HAK MIN、WOO YEOP、JI SUNG、HYUN WOO、SI WOO、HO HYEON、KANG MIN共十人。2017年10月10日以《Spectrum》正式出道。
 
 ## 團隊資料
 
 ### 團名由來
 
-「**TRCNG**」為「Teen Rising Champion in a New
-Generation」的縮寫，意謂著將成為新世代中崛起的青少年冠軍，\[1\]，目標成為20歲以下的新世代青少年世界頂尖意志。
+「**TRCNG**」為「Teen Rising Champion in a New Generation」的縮寫，意謂著將成為新世代中崛起的青少年冠軍，\[1\]，目標成為20歲以下的新世代青少年世界頂尖意志。
 
 ### 成員資料
 
@@ -152,8 +148,7 @@ Generation」的縮寫，意謂著將成為新世代中崛起的青少年冠軍�
 
 ### 2017年
 
-8月17日，[TS娛樂宣布將推出十人組新男團](../Page/TS娛樂.md "wikilink")，目前正以下半年出道為目標準備當中，並透過官方
-Facebook 公開神秘預告照。
+8月17日，[TS娛樂](../Page/TS娛樂.md "wikilink")宣布將推出十人組新男團，目前正以下半年出道為目標準備當中，並透過官方 Facebook 公開神秘預告照。
 
 9月20日，公開三位成員KANG MIN、HO HYEON、SI WOO個人概念照。
 
@@ -354,16 +349,10 @@ Facebook 公開神秘預告照。
 
 {{-}}
 
-[Category:TS娛樂](https://zh.wikipedia.org/wiki/Category:TS娛樂 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
-[Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink")
+[Category:TS娛樂](https://zh.wikipedia.org/wiki/Category:TS娛樂 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink")
 
 1.  [TRCNG、日本デビューシングル「SPECTRUM」4月4日発売決定！](http://news.kstyle.com/article.ksn?articleNo=2087295)
-2.  [環球音樂
-    J-POP在Facebook貼文上為TRCNG正名](https://m.facebook.com/TaiwanUniversalJapanMusic/posts/1819138588385983)
+2.  [環球音樂 J-POP在Facebook貼文上為TRCNG正名](https://m.facebook.com/TaiwanUniversalJapanMusic/posts/1819138588385983)
 3.
 4.
 5.  [2017年10月GAON專輯榜34位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=10&hitYear=2017&termGbn=month)

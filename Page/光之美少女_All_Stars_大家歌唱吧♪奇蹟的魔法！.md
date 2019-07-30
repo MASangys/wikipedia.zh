@@ -1,5 +1,4 @@
-《**電影 光之美少女 All Stars
-大家歌唱吧♪奇蹟的魔法！**》於2016年3月19日在[日本上映](../Page/日本.md "wikilink")\[1\]。本作是第八次結集[光之美少女系列成員的作品](../Page/光之美少女系列.md "wikilink")，同時為光之美少女系列劇場版第二十部紀念作。
+《**電影 光之美少女 All Stars 大家歌唱吧♪奇蹟的魔法！**》於2016年3月19日在[日本](../Page/日本.md "wikilink")上映\[1\]。本作是第八次結集[光之美少女系列](../Page/光之美少女系列.md "wikilink")成員的作品，同時為光之美少女系列劇場版第二十部紀念作。
 
 ## 故事簡介
 
@@ -81,7 +80,7 @@
 
   -
 
-### [光之美少女／光之美少女Max Heart](../Page/光之美少女.md "wikilink")
+### [光之美少女 Heart](../Page/光之美少女.md "wikilink")／光之美少女Max
 
   -
 
@@ -93,9 +92,7 @@
 
   -
 
-    前作劇場版《[New
-    Stage](../Page/光之美少女_All_Stars_New_Stage_未來的朋友.md "wikilink")、[New
-    Stage3](../Page/光之美少女_All_Stars_New_Stage3_永遠的朋友.md "wikilink")》的女主角。
+    前作劇場版《[New Stage](../Page/光之美少女_All_Stars_New_Stage_未來的朋友.md "wikilink")、[New Stage3](../Page/光之美少女_All_Stars_New_Stage3_永遠的朋友.md "wikilink")》的女主角。
 
     轉學到橫濱的中學生，光之美少女的狂熱支持者。
 
@@ -122,27 +119,19 @@
 **這次聚集的敵人為之前TV版中反派組織的首領或幕後黑手，因索希爾的魔力再次復活。**
 
   -
-    於《[光之美少女](../Page/光之美少女.md "wikilink")》及《[光之美少女 Max
-    Heart](https://zh.wikipedia.org/wiki/光之美少女_Max_Heart "wikilink")》登場，本作中以最終型態登場。
-    在[GO\!
-    光之美少女公主打倒葛亞與皮耶羅後](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")，和深紅一同現身並自爆，使[GO\!
-    光之美少女公主及回聲天使無法繼續戰鬥](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")。
+    於《[光之美少女](../Page/光之美少女.md "wikilink")》及《[光之美少女 Max Heart](https://zh.wikipedia.org/wiki/光之美少女_Max_Heart "wikilink")》登場，本作中以最終型態登場。
+    在[GO\! 光之美少女公主打倒葛亞與皮耶羅後](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")，和深紅一同現身並自爆，使[GO\! 光之美少女公主及回聲天使無法繼續戰鬥](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")。
 
 <!-- end list -->
 
   -
-    於《[光之美少女Splash
-    Star](../Page/光之美少女Splash_Star.md "wikilink")》登場，本作中以最終型態登場。
-    在魔法天使與[GO\!
-    光之美少女公主](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")、回聲天使重逢後，與皮耶羅一同現身，和皮耶羅聯手交戰[GO\!
-    光之美少女公主](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")、回聲天使及魔法天使，最後被**光之美少女
-    宏偉春天（Precure Grand Printemps）**打敗。
+    於《[光之美少女Splash Star](../Page/光之美少女Splash_Star.md "wikilink")》登場，本作中以最終型態登場。
+    在魔法天使與[GO\! 光之美少女公主](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")、回聲天使重逢後，與皮耶羅一同現身，和皮耶羅聯手交戰[GO\! 光之美少女公主](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")、回聲天使及魔法天使，最後被**光之美少女 宏偉春天（Precure Grand Printemps）**打敗。
 
 <!-- end list -->
 
   -
-    於《[Yes\! 光之美少女5
-    GoGo\!](https://zh.wikipedia.org/wiki/Yes!_光之美少女5_GoGo! "wikilink")》登場，本作中以戰鬥型態登場。
+    於《[Yes\! 光之美少女5 GoGo\!](https://zh.wikipedia.org/wiki/Yes!_光之美少女5_GoGo! "wikilink")》登場，本作中以戰鬥型態登場。
     和自私始祖聯手交戰桃天使、花蕾天使、旋律天使、快樂天使及奇蹟天使，最後被打敗。
 
 <!-- end list -->
@@ -161,45 +150,31 @@
 
   -
     於《[光之美少女：美樂天使](../Page/Suite_光之美少女♪.md "wikilink")》登場，本作中以最終型態登場。
-    與[填充幸福
-    光之美少女！及奇蹟天使戰鬥](https://zh.wikipedia.org/wiki/Happiness_Charge_光之美少女 "wikilink")，之後自爆，使[填充幸福
-    光之美少女！無法繼續戰鬥](https://zh.wikipedia.org/wiki/Happiness_Charge_光之美少女 "wikilink")。
+    與[填充幸福 光之美少女！及奇蹟天使戰鬥](https://zh.wikipedia.org/wiki/Happiness_Charge_光之美少女 "wikilink")，之後自爆，使[填充幸福 光之美少女！無法繼續戰鬥](https://zh.wikipedia.org/wiki/Happiness_Charge_光之美少女 "wikilink")。
 
 <!-- end list -->
 
   -
     於《[Smile 光之美少女！](../Page/Smile_光之美少女！.md "wikilink")》登場，本作中以完全型態登場。
-    在魔法天使與[GO\!
-    光之美少女公主](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")、回聲天使重逢後，與葛亞一同現身，和葛亞聯手交戰[GO\!
-    光之美少女公主](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")、回聲天使及魔法天使，最後被**光之美少女
-    宏偉春天（Precure Grand Printemps）**打敗。
+    在魔法天使與[GO\! 光之美少女公主](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")、回聲天使重逢後，與葛亞一同現身，和葛亞聯手交戰[GO\! 光之美少女公主](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")、回聲天使及魔法天使，最後被**光之美少女 宏偉春天（Precure Grand Printemps）**打敗。
 
 <!-- end list -->
 
   -
-    於《[DokiDoki\!
-    光之美少女](../Page/DokiDoki!_光之美少女.md "wikilink")》登場，本作中以最終型態登場。
+    於《[DokiDoki\! 光之美少女](../Page/DokiDoki!_光之美少女.md "wikilink")》登場，本作中以最終型態登場。
     和永恆博物館館長聯手交戰桃天使、花蕾天使、旋律天使、快樂天使及奇蹟天使，最後被打敗。
 
 <!-- end list -->
 
   -
-    於《[填充幸福
-    光之美少女！](../Page/Happiness_Charge_光之美少女！.md "wikilink")》登場，本作中以一般型態登場。
-    在[GO\!
-    光之美少女公主打倒葛亞與皮耶羅後](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")，和賈酷王一同現身並自爆，使[GO\!
-    光之美少女公主及回聲天使無法繼續戰鬥](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")。
+    於《[填充幸福 光之美少女！](../Page/Happiness_Charge_光之美少女！.md "wikilink")》登場，本作中以一般型態登場。
+    在[GO\! 光之美少女公主打倒葛亞與皮耶羅後](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")，和賈酷王一同現身並自爆，使[GO\! 光之美少女公主及回聲天使無法繼續戰鬥](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")。
 
 <!-- end list -->
 
   -
-    於《[GO\!
-    光之美少女公主](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")》登場，本作中以一般型態登場。
-    第一次登場與[GO\!
-    光之美少女公主及](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")[魔法使
-    光之美少女！交戰](../Page/魔法使_光之美少女！.md "wikilink")，第二次登場與[DokiDoki\!
-    光之美少女及魔法天使交戰](../Page/DokiDoki!_光之美少女.md "wikilink")，之後自爆，使[DokiDoki\!
-    光之美少女無法繼續戰鬥](../Page/DokiDoki!_光之美少女.md "wikilink")。
+    於《[GO\! 光之美少女公主](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")》登場，本作中以一般型態登場。
+    第一次登場與[GO\! 光之美少女公主及](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")[魔法使 光之美少女！交戰](../Page/魔法使_光之美少女！.md "wikilink")，第二次登場與[DokiDoki\! 光之美少女及魔法天使交戰](../Page/DokiDoki!_光之美少女.md "wikilink")，之後自爆，使[DokiDoki\! 光之美少女無法繼續戰鬥](../Page/DokiDoki!_光之美少女.md "wikilink")。
 
 ## 登場歌曲
 
@@ -242,8 +217,7 @@
 
   - 「」
     作詞：大森祥子，作曲：渡邊亮希，編曲：渡邊亮希、池田大介，主唱：磯部花凜
-    本曲為《[GO\!
-    光之美少女公主](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")》片頭曲。
+    本曲為《[GO\! 光之美少女公主](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")》片頭曲。
 
 <!-- end list -->
 
@@ -266,20 +240,15 @@
   - 攝影監督：高橋賢司
   - 製作擔當：大町義則
   - 動畫製作：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")
-  - 製作：[電影光之美少女All Stars
-    STMM製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（東映動畫、東映、[Bandai](https://zh.wikipedia.org/wiki/Bandai "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、[Marvelous](../Page/Marvelous.md "wikilink")、木下工務店）
+  - 製作：[電影光之美少女All Stars STMM製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（東映動畫、東映、[Bandai](https://zh.wikipedia.org/wiki/Bandai "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、[Marvelous](../Page/Marvelous.md "wikilink")、木下工務店）
   - 發行：[東映](../Page/東映.md "wikilink")
 
 ## 參考資料
 
 ## 外部連結
 
-  - [光之美少女 All Stars 大家歌唱吧♪奇跡的魔法！
-    官方網站](http://www.precure-allstars.com/)
+  - [光之美少女 All Stars 大家歌唱吧♪奇跡的魔法！ 官方網站](http://www.precure-allstars.com/)
 
-[Category:2016年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2016年日本劇場動畫 "wikilink")
-[Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink")
-[Category:動畫跨界作品](https://zh.wikipedia.org/wiki/Category:動畫跨界作品 "wikilink")
-[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
+[Category:2016年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2016年日本劇場動畫 "wikilink") [Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink") [Category:動畫跨界作品](https://zh.wikipedia.org/wiki/Category:動畫跨界作品 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
 
 1.  『映画プリキュアオールスターズみんなで歌う♪奇跡の魔法！』2016年３月19日（土）公開決定！特報映像・前売特典情報解禁♪

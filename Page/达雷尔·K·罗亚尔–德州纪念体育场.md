@@ -8,15 +8,11 @@
 
 ### 体育场揭幕
 
-1923年，前UT体育总监L. Theo
-Bellmont（体育场的西侧以他的名义命名）以及30名学生领袖向学校董事会提出了建立一个混凝土体育场来替代Clark
-Field的想法。该体育场于1924年竣工。竣工时的体育场仅包括东看台与西看台，座位数为27000个。它在竣工时被誉为“西南地区最大的体育设施”。该体育场被定位为一个双重目的的设施，它有一个周长为440码（400米）轨道的足球场。体育场通过学生和校友的捐款资助。该体育场的估计费用为275,000美元。
+1923年，前UT体育总监L. Theo Bellmont（体育场的西侧以他的名义命名）以及30名学生领袖向学校董事会提出了建立一个混凝土体育场来替代Clark Field的想法。该体育场于1924年竣工。竣工时的体育场仅包括东看台与西看台，座位数为27000个。它在竣工时被誉为“西南地区最大的体育设施”。该体育场被定位为一个双重目的的设施，它有一个周长为440码（400米）轨道的足球场。体育场通过学生和校友的捐款资助。该体育场的估计费用为275,000美元。
 
 ## 參考來源
 
-[Category:美國美式足球場](https://zh.wikipedia.org/wiki/Category:美國美式足球場 "wikilink")
-[Category:德克薩斯州大學](https://zh.wikipedia.org/wiki/Category:德克薩斯州大學 "wikilink")
-[Category:奧斯汀](https://zh.wikipedia.org/wiki/Category:奧斯汀 "wikilink")
+[Category:美國美式足球場](https://zh.wikipedia.org/wiki/Category:美國美式足球場 "wikilink") [Category:德克薩斯州大學](https://zh.wikipedia.org/wiki/Category:德克薩斯州大學 "wikilink") [Category:奧斯汀](https://zh.wikipedia.org/wiki/Category:奧斯汀 "wikilink")
 
 1.
 2.

@@ -63,8 +63,7 @@
 
   -
 
-[Category:韓國證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:韓國證券交易所上市公司 "wikilink")
-[Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
+[Category:韓國證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:韓國證券交易所上市公司 "wikilink") [Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
 
 1.
 2.

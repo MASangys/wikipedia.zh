@@ -1,4 +1,4 @@
-**新地段線**（）或**利沃尼亞大道線**（）\[1\]是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT的一條](../Page/跨區捷運公司.md "wikilink")[地鐵路線](../Page/地鐵.md "wikilink")，位於[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")，由的[猶提卡大道前往](https://zh.wikipedia.org/wiki/皇冠高地-猶提卡大道車站_\(IRT東公園道線\) "wikilink")的[新地段大道](https://zh.wikipedia.org/wiki/新地段大道車站_\(IRT新地段線\) "wikilink")\[2\]\[3\]\[4\]。
+**新地段線**（）或**利沃尼亞大道線**（）\[1\]是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT的一條](../Page/跨區捷運公司.md "wikilink")[地鐵](../Page/地鐵.md "wikilink")路線，位於[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")，由的[猶提卡大道前往](https://zh.wikipedia.org/wiki/皇冠高地-猶提卡大道車站_\(IRT東公園道線\) "wikilink")的[新地段大道](https://zh.wikipedia.org/wiki/新地段大道車站_\(IRT新地段線\) "wikilink")\[2\]\[3\]\[4\]。
 
 ## 服務形式
 
@@ -155,30 +155,16 @@
 
 ## 參考資料
 
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1920年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1920年啟用的鐵路線 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1920年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1920年啟用的鐵路線 "wikilink")
 
 1.
 
-2.  [Metropolitan Transportation
-    Authority](https://zh.wikipedia.org/wiki/Metropolitan_Transportation_Authority "wikilink"),
-    [2005 Adopted Budget - February Financial
-    Plan 2005–2008](http://web.mta.info/mta/budget/2005adopted/index.html),
-     : shows Utica Avenue on "EPK" and Sutter Avenue on "NLT"
+2.  [Metropolitan Transportation Authority](https://zh.wikipedia.org/wiki/Metropolitan_Transportation_Authority "wikilink"), [2005 Adopted Budget - February Financial Plan 2005–2008](http://web.mta.info/mta/budget/2005adopted/index.html),  : shows Utica Avenue on "EPK" and Sutter Avenue on "NLT"
 
-3.  [Metropolitan Transportation
-    Authority](https://zh.wikipedia.org/wiki/Metropolitan_Transportation_Authority "wikilink"),
-    [2005 Final Proposed Budget - November Financial
-    Plan 2005–2008](http://web.mta.info/mta/budget/november2005.htm),
-     : "Sutter Avenue Portal to end"
+3.  [Metropolitan Transportation Authority](https://zh.wikipedia.org/wiki/Metropolitan_Transportation_Authority "wikilink"), [2005 Final Proposed Budget - November Financial Plan 2005–2008](http://web.mta.info/mta/budget/november2005.htm),  : "Sutter Avenue Portal to end"
 
-4.  In a 1981 list of "most deteriorated subway stations", the MTA
-    listed Borough Hall and Court Street stations as part of the New
-    Lots Line:
-    [New York
-    Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"),
-    Agency Lists Its 69 Most Deteriorated Subway Stations, June 11,
-    1981, section B, page 5
+4.  In a 1981 list of "most deteriorated subway stations", the MTA listed Borough Hall and Court Street stations as part of the New Lots Line:
+    [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), Agency Lists Its 69 Most Deteriorated Subway Stations, June 11, 1981, section B, page 5
 
 5.
 6.

@@ -44,18 +44,13 @@ L符號主要用於，表示困難[數論問題之演算法的複雜性](https:/
 
 ## 歷史
 
-最早出現L符號的文獻為所著的論文《一些整數分解演算法的分析與比較》（Analysis and comparison of some
-integer factoring
-algorithms）\[2\]。在此論文中，L符號的參數只有\(c\)，其中的\(\alpha\)則因其所分析的演算法而設為\(1/2\)。
+最早出現L符號的文獻為所著的論文《一些整數分解演算法的分析與比較》（Analysis and comparison of some integer factoring algorithms）\[2\]。在此論文中，L符號的參數只有\(c\)，其中的\(\alpha\)則因其所分析的演算法而設為\(1/2\)。
 
-具有兩個參數的L符號則由及[亨德里克·倫斯特拉在其論文](https://zh.wikipedia.org/wiki/亨德里克·倫斯特拉 "wikilink")《數論中的演算法》（Algorithms
-in Number
-Theory）\[3\]中首次引入，用以分析的[離散對數演算法](https://zh.wikipedia.org/wiki/離散對數 "wikilink")，為現在數學文獻中最常使用的形式。
+具有兩個參數的L符號則由及[亨德里克·倫斯特拉在其論文](https://zh.wikipedia.org/wiki/亨德里克·倫斯特拉 "wikilink")《數論中的演算法》（Algorithms in Number Theory）\[3\]中首次引入，用以分析的[離散對數演算法](https://zh.wikipedia.org/wiki/離散對數 "wikilink")，為現在數學文獻中最常使用的形式。
 
 ## 參考資料
 
-[分類:漸近分析](https://zh.wikipedia.org/wiki/分類:漸近分析 "wikilink")
-[分類:計算複雜性理論](https://zh.wikipedia.org/wiki/分類:計算複雜性理論 "wikilink")
+[分類:漸近分析](https://zh.wikipedia.org/wiki/分類:漸近分析 "wikilink") [分類:計算複雜性理論](https://zh.wikipedia.org/wiki/分類:計算複雜性理論 "wikilink")
 
 1.
 2.

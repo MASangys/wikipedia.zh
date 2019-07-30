@@ -1,29 +1,22 @@
 \--\[=\[
 
-Lua support for the , , and  templates and replacement of various
-supporting templates.
+Lua support for the , , and  templates and replacement of various supporting templates.
 
 \]=\]
 
 require('Module:No globals'); local p = {};
 
-local initial_style_state; -- set by lang_xx_inherit() and
-lang_xx_italic()
+local initial_style_state; -- set by lang_xx_inherit() and lang_xx_italic()
 
-local getArgs = require ('Module:Arguments').getArgs; local
-lang_name_table = mw.loadData ('Module:Language/name/data');
+local getArgs = require ('Module:Arguments').getArgs; local lang_name_table = mw.loadData ('Module:Language/name/data');
 
-local synonym_table = mw.loadData ('Module:Lang/ISO 639 synonyms'); --
-ISO 639-2/639-2T code translation to 639-1 code
+local synonym_table = mw.loadData ('Module:Lang/ISO 639 synonyms'); -- ISO 639-2/639-2T code translation to 639-1 code
 
-local lang_data = mw.loadData ('Module:Lang/data'); -- language name
-override and transliteration tool-tip tables
+local lang_data = mw.loadData ('Module:Lang/data'); -- language name override and transliteration tool-tip tables
 
-local namespace = mw.title.getCurrentTitle().namespace; -- used for
-categorization
+local namespace = mw.title.getCurrentTitle().namespace; -- used for categorization
 
-local maint_cats = {}; -- maintenance categories go here local
-maint_msgs = {}; -- and their messages go here
+local maint_cats = {}; -- maintenance categories go here local maint_msgs = {}; -- and their messages go here
 
 local function page_exists (title)
 
@@ -41,11 +34,7 @@ local function page_exists (title)
 
 end
 
-\--[--------------------------\< I S _ S E T
-\>------------------------------------------------------------------
-Returns true if argument is set; false otherwise. Argument is 'set' when
-it exists (not nil) or when it is not an empty
-string.](https://zh.wikipedia.org/wiki/--------------------------\<_I_S_S_E_T_\>------------------------------------------------------------------_Returns_true_if_argument_is_set;_false_otherwise._Argument_is_'set'_when_it_exists_\(not_nil\)_or_when_it_is_not_an_empty_string. "wikilink")
+\--[--------------------------\< I S _ S E T \>------------------------------------------------------------------ Returns true if argument is set; false otherwise. Argument is 'set' when it exists (not nil) or when it is not an empty string.](https://zh.wikipedia.org/wiki/--------------------------\<_I_S_S_E_T_\>------------------------------------------------------------------_Returns_true_if_argument_is_set;_false_otherwise._Argument_is_'set'_when_it_exists_\(not_nil\)_or_when_it_is_not_an_empty_string. "wikilink")
 
 local function is_set( var )
 
@@ -53,55 +42,34 @@ local function is_set( var )
 
 end
 
-\--\[\[--------------------------\< I S _ L A T N
-\>----------------------------------------------------------------
+\--\[\[--------------------------\< I S _ L A T N \>----------------------------------------------------------------
 
-Returns true if all of text argument is written using Latn script for
-letters, numbers and punctuationset; false else.
+Returns true if all of text argument is written using Latn script for letters, numbers and punctuationset; false else.
 
-For the purposes of this function, Latn script is characters less
-control characters from these Unicode 10.0 Character Code Charts:
+For the purposes of this function, Latn script is characters less control characters from these Unicode 10.0 Character Code Charts:
 
-`   `[`C0``   ``Controls``   ``and``   ``Basic``
- ``Latin`](http://www.unicode.org/charts/PDF/U0000.pdf)` U+0020–U+007E (20 - 7E) + see note about `<poem>`...`</poem>` support`
-`   `[`C1``   ``Controls``   ``and``   ``Latin-1``
- ``Supplement`](http://www.unicode.org/charts/PDF/U0080.pdf)` U+00A0-U+00AC, U+00C0–U+00FF (C2 A0 - C2 AC, C3 80 - C3 BF: \194\160-\194\172)`
-`   `[`Latin``
- ``Extended-A`](http://www.unicode.org/charts/PDF/U0100.pdf)` U+0100–U+017F (C4 80 - C5 BF)`
-`   `[`Latin``
- ``Extended-B`](http://www.unicode.org/charts/PDF/U0180.pdf)` U+0180–U+024F (C6 80 - C9 8F)`
-`   `[`Latin``   ``Extended``
- ``Additional`](http://www.unicode.org/charts/PDF/U1E00.pdf)` U+1E00-U+1EFF (E1 B8 80 - E1 BB BF)`
-`   `[`Latin``
- ``Extended-C`](http://www.unicode.org/charts/PDF/U2C60.pdf)` U+2C60–U+2C7F (E2 B1 A0 - E2 B1 BF)`
-`   `[`Latin``
- ``Extended-D`](http://www.unicode.org/charts/PDF/UA720.pdf)` U+A720-U+A7FF (EA 9C A0 - EA 9F BF)`
-`   `[`Latin``
- ``Extended-E`](http://www.unicode.org/charts/PDF/UAB30.pdf)` U+AB30-U+AB6F (EA AC B0 - EA AD AF)`
-`   `[`Alphabetic``   ``Presentaion``
- ``Forms`](http://www.unicode.org/charts/PDF/UFB00.pdf)` U+FB00-U+FB06 (EF AC 80 - EF AC 86)`
-`   `[`Halfwidth``   ``and``   ``Fullwidth``
- ``Forms`](http://www.unicode.org/charts/PDF/UFF00.pdf)` U+FF01-U+FF3C (EF BC 81 EF BC BC)`
+`   `[`C0``   ``Controls``   ``and``   ``Basic``   ``Latin`](http://www.unicode.org/charts/PDF/U0000.pdf)` U+0020–U+007E (20 - 7E) + see note about `<poem>`...`</poem>` support`
+`   `[`C1``   ``Controls``   ``and``   ``Latin-1``   ``Supplement`](http://www.unicode.org/charts/PDF/U0080.pdf)` U+00A0-U+00AC, U+00C0–U+00FF (C2 A0 - C2 AC, C3 80 - C3 BF: \194\160-\194\172)`
+`   `[`Latin``   ``Extended-A`](http://www.unicode.org/charts/PDF/U0100.pdf)` U+0100–U+017F (C4 80 - C5 BF)`
+`   `[`Latin``   ``Extended-B`](http://www.unicode.org/charts/PDF/U0180.pdf)` U+0180–U+024F (C6 80 - C9 8F)`
+`   `[`Latin``   ``Extended``   ``Additional`](http://www.unicode.org/charts/PDF/U1E00.pdf)` U+1E00-U+1EFF (E1 B8 80 - E1 BB BF)`
+`   `[`Latin``   ``Extended-C`](http://www.unicode.org/charts/PDF/U2C60.pdf)` U+2C60–U+2C7F (E2 B1 A0 - E2 B1 BF)`
+`   `[`Latin``   ``Extended-D`](http://www.unicode.org/charts/PDF/UA720.pdf)` U+A720-U+A7FF (EA 9C A0 - EA 9F BF)`
+`   `[`Latin``   ``Extended-E`](http://www.unicode.org/charts/PDF/UAB30.pdf)` U+AB30-U+AB6F (EA AC B0 - EA AD AF)`
+`   `[`Alphabetic``   ``Presentaion``   ``Forms`](http://www.unicode.org/charts/PDF/UFB00.pdf)` U+FB00-U+FB06 (EF AC 80 - EF AC 86)`
+`   `[`Halfwidth``   ``and``   ``Fullwidth``   ``Forms`](http://www.unicode.org/charts/PDF/UFF00.pdf)` U+FF01-U+FF3C (EF BC 81 EF BC BC)`
 
 does not include:
 
-`   `[`Phonetic``
- ``Extensions`](http://www.unicode.org/charts/PDF/U1D00.pdf)` U+1D00-U+1D7F (E1 B4 80 - E1 B5 BF)`
-`   `[`IPA``
- ``Extensions`](http://www.unicode.org/charts/PDF/U0250.pdf)` U+0250-U+02AF (C9 90 - CA AF)`
-`   `[`Phonetic``   ``Extensions``
- ``Supplement`](http://www.unicode.org/charts/PDF/U1D80.pdf)` U+1D80-U+1DBF (E1 B6 80 - E1 B6 BF)`
+`   `[`Phonetic``   ``Extensions`](http://www.unicode.org/charts/PDF/U1D00.pdf)` U+1D00-U+1D7F (E1 B4 80 - E1 B5 BF)`
+`   `[`IPA``   ``Extensions`](http://www.unicode.org/charts/PDF/U0250.pdf)` U+0250-U+02AF (C9 90 - CA AF)`
+`   `[`Phonetic``   ``Extensions``   ``Supplement`](http://www.unicode.org/charts/PDF/U1D80.pdf)` U+1D80-U+1DBF (E1 B6 80 - E1 B6 BF)`
 
-is used inside <poem>...</poem> tags for song lyrics, poetry, etc.
-<poem>...</poem> replaces newlines with poem stripmarkers. These have
-the form:
+is used inside <poem>...</poem> tags for song lyrics, poetry, etc. <poem>...</poem> replaces newlines with poem stripmarkers. These have the form:
 
 ``   ?'"`UNIQ--poem-67--QINU`"'?``
 
-where the '?' character is actually the delete character (U+007F,
-\\127). Including the '\\n' (U+0010) and 'del' (U+007F) characters in
-the latn character table allows  to auto-italicize text within
-<poem>...</poem> tags.
+where the '?' character is actually the delete character (U+007F, \\127). Including the '\\n' (U+0010) and 'del' (U+007F) characters in the latn character table allows  to auto-italicize text within <poem>...</poem> tags.
 
 \]\]
 
@@ -133,24 +101,13 @@ function p.is_latn (text)
 
 end
 
-\--\[\[--------------------------\< I N V E R T _ I T A L I C S
-\>-------------------------------------------------
+\--\[\[--------------------------\< I N V E R T _ I T A L I C S \>-------------------------------------------------
 
-This function attempts to invert the italic markup a args.text by
-adding/removing leading/trailing italic markup in args.text. Like
-|italic=unset, |italic=invert disables automatic italic markup.
-Individual leading/trailing apostrophes are converted to their html
-numeric entity equivalent so that the new italic markup doesn't become
-bold markup inadvertently.
+This function attempts to invert the italic markup a args.text by adding/removing leading/trailing italic markup in args.text. Like |italic=unset, |italic=invert disables automatic italic markup. Individual leading/trailing apostrophes are converted to their html numeric entity equivalent so that the new italic markup doesn't become bold markup inadvertently.
 
-Leading and trailing wiki markup is extracted from args.text into
-separate table elements. Addition, removal, replacement of wiki markup
-is handled by a string.gsub() replacement table operating only on these
-separate elements. In the string.gsub() matching pattern, '.\*' matches
-empty string as well as the three expected wiki markup patterns.
+Leading and trailing wiki markup is extracted from args.text into separate table elements. Addition, removal, replacement of wiki markup is handled by a string.gsub() replacement table operating only on these separate elements. In the string.gsub() matching pattern, '.\*' matches empty string as well as the three expected wiki markup patterns.
 
-This function expects that markup in args.text is complete and correct;
-if it is not, oddness may result.
+This function expects that markup in args.text is complete and correct; if it is not, oddness may result.
 
 \]\]
 
@@ -186,26 +143,17 @@ local function invert_italics (source)
 
 end
 
-\--\[\[--------------------------\< V A L I D A T E _ I T A L I C
-\>------------------------------------------------
+\--\[\[--------------------------\< V A L I D A T E _ I T A L I C \>------------------------------------------------
 
 validates |italic= or |italics= assigned values.
 
-When |italic= is set and has an acceptible assigned value, return the
-matching css font-style property value or, for the special case
-'default', return nil.
+When |italic= is set and has an acceptible assigned value, return the matching css font-style property value or, for the special case 'default', return nil.
 
-When |italic= is not set, or has an unacceptible assigned value, return
-nil and a nil error message.
+When |italic= is not set, or has an unacceptible assigned value, return nil and a nil error message.
 
-When both |italic= and |italics= are set, returns nil and a
-'conflicting' error message.
+When both |italic= and |italics= are set, returns nil and a 'conflicting' error message.
 
-The return value nil causes the calling lang, lang_xx, or transl
-function to set args.italic according to the template's defined default
-('inherit' for , 'inherit' or 'italic' for  depending on the individual
-template's requirements, 'italic' for ) or to the value appropriate to
-|script=, if set ( and  only).
+The return value nil causes the calling lang, lang_xx, or transl function to set args.italic according to the template's defined default ('inherit' for , 'inherit' or 'italic' for  depending on the individual template's requirements, 'italic' for ) or to the value appropriate to |script=, if set ( and  only).
 
 Accepted values and the values that this function returns are are:
 
@@ -230,10 +178,7 @@ local function validate_italic (italic, italics)
 
 end
 
-\--[--------------------------\< I N _ A R R A Y
-\>-------------------------------------------------------------- Whether
-needle is in
-haystack](https://zh.wikipedia.org/wiki/--------------------------\<_I_N_A_R_R_A_Y_\>--------------------------------------------------------------_Whether_needle_is_in_haystack "wikilink")
+\--[--------------------------\< I N _ A R R A Y \>-------------------------------------------------------------- Whether needle is in haystack](https://zh.wikipedia.org/wiki/--------------------------\<_I_N_A_R_R_A_Y_\>--------------------------------------------------------------_Whether_needle_is_in_haystack "wikilink")
 
 local function in_array( needle, haystack )
 
@@ -249,11 +194,7 @@ local function in_array( needle, haystack )
 
 end
 
-\--[--------------------------\< F O R M A T _ I E T F _ T A G
-\>------------------------------------------------ prettify ietf tags to
-use recommended subtag formats: code: lower case script: sentence case
-region: upper case variant: lower
-case](https://zh.wikipedia.org/wiki/--------------------------\<_F_O_R_M_A_T_I_E_T_F_T_A_G_\>------------------------------------------------_prettify_ietf_tags_to_use_recommended_subtag_formats:_code:_lower_case_script:_sentence_case_region:_upper_case_variant:_lower_case "wikilink")
+\--[--------------------------\< F O R M A T _ I E T F _ T A G \>------------------------------------------------ prettify ietf tags to use recommended subtag formats: code: lower case script: sentence case region: upper case variant: lower case](https://zh.wikipedia.org/wiki/--------------------------\<_F_O_R_M_A_T_I_E_T_F_T_A_G_\>------------------------------------------------_prettify_ietf_tags_to_use_recommended_subtag_formats:_code:_lower_case_script:_sentence_case_region:_upper_case_variant:_lower_case "wikilink")
 
 local function format_ietf_tag (code, script, region, variant)
 
@@ -277,8 +218,7 @@ local function format_ietf_tag (code, script, region, variant)
 
 end
 
-\--\[\[--------------------------\< G E T _ I E T F _ P A R T S
-\>--------------------------------------------------
+\--\[\[--------------------------\< G E T _ I E T F _ P A R T S \>--------------------------------------------------
 
 extracts and returns IETF language tag parts:
 
@@ -297,30 +237,19 @@ in any one of these forms
 `   lang-x-private  `
 `   `
 
-each of lang, script, region, variant, and private, when used, must be
-valid
+each of lang, script, region, variant, and private, when used, must be valid
 
-Languages with both two- and three-character code synonyms are promoted
-to the two-character synonym because the IANA registry file omits the
-synonymous three-character code; we cannot depend on browsers
-understanding the synonymous three-character codes in the lang=
-attribute.
+Languages with both two- and three-character code synonyms are promoted to the two-character synonym because the IANA registry file omits the synonymous three-character code; we cannot depend on browsers understanding the synonymous three-character codes in the lang= attribute.
 
-For  templates, the parameters |script=, |region=, and |variant= are
-supported (not supported in  because those parameters are superfluous to
-the IETF subtags in |code=)
+For  templates, the parameters |script=, |region=, and |variant= are supported (not supported in  because those parameters are superfluous to the IETF subtags in |code=)
 
-returns six values. Valid parts are returned as themselves; omitted
-parts are returned as empty strings, invalid parts are returned as nil;
-the sixth returned item is an error message (if an error detected) or
-nil.
+returns six values. Valid parts are returned as themselves; omitted parts are returned as empty strings, invalid parts are returned as nil; the sixth returned item is an error message (if an error detected) or nil.
 
 see <http://www.rfc-editor.org/rfc/bcp/bcp47.txt> section 2.1
 
 \]\]
 
-local function get_ietf_parts (source, args_script, args_region,
-args_variant)
+local function get_ietf_parts (source, args_script, args_region, args_variant)
 
 `   local code;`
 `   local script = '';`
@@ -464,10 +393,7 @@ args_variant)
 
 end
 
-\--[--------------------------\< M A K E _ E R R O R _ M S G
-\>-------------------------------------------------- assembles an error
-message from template name, message text, help link, and error
-category.](https://zh.wikipedia.org/wiki/--------------------------\<_M_A_K_E_E_R_R_O_R_M_S_G_\>--------------------------------------------------_assembles_an_error_message_from_template_name,_message_text,_help_link,_and_error_category. "wikilink")
+\--[--------------------------\< M A K E _ E R R O R _ M S G \>-------------------------------------------------- assembles an error message from template name, message text, help link, and error category.](https://zh.wikipedia.org/wiki/--------------------------\<_M_A_K_E_E_R_R_O_R_M_S_G_\>--------------------------------------------------_assembles_an_error_message_from_template_name,_message_text,_help_link,_and_error_category. "wikilink")
 
 local function make_error_msg (msg, args, template)
 
@@ -494,14 +420,9 @@ local function make_error_msg (msg, args, template)
 
 end
 
-\--\[=\[-------------------------\< M A K E _ W I K I L I N K
-\>----------------------------------------------------
+\--\[=\[-------------------------\< M A K E _ W I K I L I N K \>----------------------------------------------------
 
-Makes a wikilink; when both link and display text is provided, returns a
-wikilink in the form [D](https://zh.wikipedia.org/wiki/L "wikilink"); if
-only link is provided, returns a wikilink in the form
-[L](https://zh.wikipedia.org/wiki/L "wikilink"); if neither are provided
-or link is omitted, returns an empty string.
+Makes a wikilink; when both link and display text is provided, returns a wikilink in the form [D](https://zh.wikipedia.org/wiki/L "wikilink"); if only link is provided, returns a wikilink in the form [L](https://zh.wikipedia.org/wiki/L "wikilink"); if neither are provided or link is omitted, returns an empty string.
 
 \]=\]
 
@@ -509,11 +430,9 @@ local function make_wikilink (link, display)
 
 `   if is_set (link) then`
 `       if is_set (display) then`
-`           return table.concat ({'`[`',``   ``display,``
- ``'`](https://zh.wikipedia.org/wiki/',_link,_' "wikilink")`'});`
+`           return table.concat ({'`[`',``   ``display,``   ``'`](https://zh.wikipedia.org/wiki/',_link,_' "wikilink")`'});`
 `       else`
-`           return table.concat ({'`[`',``   ``link,``
- ``'`](https://zh.wikipedia.org/wiki/',_link,_' "wikilink")`'});`
+`           return table.concat ({'`[`',``   ``link,``   ``'`](https://zh.wikipedia.org/wiki/',_link,_' "wikilink")`'});`
 `       end`
 `   else`
 `       return '';`
@@ -521,15 +440,11 @@ local function make_wikilink (link, display)
 
 end
 
-\--\[\[--------------------------\< M A K E _ T E X T _ S P A N
-\>--------------------------------------------------
+\--\[\[--------------------------\< M A K E _ T E X T _ S P A N \>--------------------------------------------------
 
-TODO: add support for block: div tags instead of span tags; would need
-some sort of proper parameter to control the switch
+TODO: add support for block: div tags instead of span tags; would need some sort of proper parameter to control the switch
 
-For italic style, can't do ** without using <span/> tags when text is
-italic because of -Latn, |italic=yes, or auto-italics because the
-wrapping wikimarkup produces this:
+For italic style, can't do ** without using <span/> tags when text is italic because of -Latn, |italic=yes, or auto-italics because the wrapping wikimarkup produces this:
 
 `   `<i><i lang="xx">`text`</i></i>
 
@@ -537,8 +452,7 @@ which is later reduced to this:
 
 `   `<i>`text`</i>
 
-This reduction happens in some sort of cleanup process outside the scope
-of this template/module.
+This reduction happens in some sort of cleanup process outside the scope of this template/module.
 
 Until or unless this is fixed italic text must be:
 
@@ -607,8 +521,7 @@ local function make_text_span (code, text, rtl, style, size, language)
 
 end
 
-\--\[=\[-------------------------\< M A K E _ C A T E G O R Y
-\>----------------------------------------------------
+\--\[=\[-------------------------\< M A K E _ C A T E G O R Y \>----------------------------------------------------
 
 注意：此处有修改
 
@@ -643,20 +556,13 @@ local function make_category (code, language_name, nocat)
 
 end
 
-\--\[\[--------------------------\< M A K E _ T R A N S L I T
-\>----------------------------------------------------
+\--\[\[--------------------------\< M A K E _ T R A N S L I T \>----------------------------------------------------
 
-return translit <i lang=xx-Latn>...</i> where xx is the language code;
-else return empty string
+return translit <i lang=xx-Latn>...</i> where xx is the language code; else return empty string
 
-The value |script= is not used in  for this purpose; instead it uses
-|code. Because language scripts are listed in the  switches they are
-included in the data tables. The script parameter is introduced at . If
-|script= is set, this function uses it in preference to code.
+The value |script= is not used in  for this purpose; instead it uses |code. Because language scripts are listed in the  switches they are included in the data tables. The script parameter is introduced at . If |script= is set, this function uses it in preference to code.
 
-To avoid confusion, in this module and the templates that use it, the
-transliteration script parameter is renamed to be |translit-script= (in
-this function, tscript)
+To avoid confusion, in this module and the templates that use it, the transliteration script parameter is renamed to be |translit-script= (in this function, tscript)
 
 This function is used by both lang_xx() and transl()
 
@@ -665,8 +571,7 @@ This function is used by both lang_xx() and transl()
 
 For , style only applies when a language code is provided \]\]
 
-local function make_translit (code, language_name, translit, std,
-tscript, style)
+local function make_translit (code, language_name, translit, std, tscript, style)
 
 `   local title;`
 `   local tout = {};`
@@ -741,17 +646,11 @@ tscript, style)
 
 end
 
-\--\[=\[-------------------------\< V A L I D A T E _ T E X T
-\>---------------------------------------------------
+\--\[=\[-------------------------\< V A L I D A T E _ T E X T \>---------------------------------------------------
 
-This function checks the content of args.text and returns empty string
-if nothing is amiss else it returns an error message. The tests are for
-empty or missing text and for improper or disallowed use of apostrophe
-markup.
+This function checks the content of args.text and returns empty string if nothing is amiss else it returns an error message. The tests are for empty or missing text and for improper or disallowed use of apostrophe markup.
 
-Italic rendering is controlled by the |italic= template parameter so
-italic markup should never appear in args.text either as *itself*' or as
-***bold italic***.
+Italic rendering is controlled by the |italic= template parameter so italic markup should never appear in args.text either as *itself*' or as ***bold italic***.
 
 \]=\]
 
@@ -767,8 +666,7 @@ local function validate_text (template, args)
 
 `   local style = args.italic or args.italics;`
 
-\-- if ('unset' \~= args.italic) and ('unset' \~= args.italics) then --
-allow italic markup when |italic=unset or |italics=unset
+\-- if ('unset' \~= args.italic) and ('unset' \~= args.italics) then -- allow italic markup when |italic=unset or |italics=unset
 
 `   if ('unset' ~= style) and ('invert' ~=style) then`
 `       if args.text:find ("%f[\']\'\'%f[^\']") or args.text:find ("%f[\']\'\'\'\'\'%f[^\']") then  -- italic but not bold, or bold italic`
@@ -778,10 +676,7 @@ allow italic markup when |italic=unset or |italics=unset
 
 end
 
-\--[--------------------------\< R E N D E R _ M A I N T
-\>------------------------------------------------------ render
-mainenance messages and
-categories](https://zh.wikipedia.org/wiki/--------------------------\<_R_E_N_D_E_R_M_A_I_N_T_\>------------------------------------------------------_render_mainenance_messages_and_categories "wikilink")
+\--[--------------------------\< R E N D E R _ M A I N T \>------------------------------------------------------ render mainenance messages and categories](https://zh.wikipedia.org/wiki/--------------------------\<_R_E_N_D_E_R_M_A_I_N_T_\>------------------------------------------------------_render_mainenance_messages_and_categories "wikilink")
 
 local function render_maint(nocat)
 
@@ -805,13 +700,7 @@ local function render_maint(nocat)
 
 end
 
-\--[--------------------------\< P R O T O _ P R E F I X
-\>------------------------------------------------------ for proto
-languages, text is prefixed with a splat. We do that here as a flag for
-make_text_span() so that a splat will be rendered outside of italic
-markup (if used). If the first character in text here is already a
-splat, we do
-nothing](https://zh.wikipedia.org/wiki/--------------------------\<_P_R_O_T_O_P_R_E_F_I_X_\>------------------------------------------------------_for_proto_languages,_text_is_prefixed_with_a_splat._We_do_that_here_as_a_flag_for_make_text_span\(\)_so_that_a_splat_will_be_rendered_outside_of_italic_markup_\(if_used\)._If_the_first_character_in_text_here_is_already_a_splat,_we_do_nothing "wikilink")
+\--[--------------------------\< P R O T O _ P R E F I X \>------------------------------------------------------ for proto languages, text is prefixed with a splat. We do that here as a flag for make_text_span() so that a splat will be rendered outside of italic markup (if used). If the first character in text here is already a splat, we do nothing](https://zh.wikipedia.org/wiki/--------------------------\<_P_R_O_T_O_P_R_E_F_I_X_\>------------------------------------------------------_for_proto_languages,_text_is_prefixed_with_a_splat._We_do_that_here_as_a_flag_for_make_text_span\(\)_so_that_a_splat_will_be_rendered_outside_of_italic_markup_\(if_used\)._If_the_first_character_in_text_here_is_already_a_splat,_we_do_nothing "wikilink")
 
 local function proto_prefix (text, language_name)
 
@@ -823,8 +712,7 @@ local function proto_prefix (text, language_name)
 
 end
 
-\--\[\[--------------------------\< L A N G
-\>----------------------------------------------------------------------
+\--\[\[--------------------------\< L A N G \>----------------------------------------------------------------------
 
 entry point for
 
@@ -928,17 +816,11 @@ function p.lang (frame)
 
 end
 
-\--\[\[--------------------------\< L A N G _ X X
-\>----------------------------------------------------------------
+\--\[\[--------------------------\< L A N G _ X X \>----------------------------------------------------------------
 
-For the  templates, the only parameter required to be set in the
-template is the language code. All other parameters can, usually should,
-be written in the template call. For  templates for languages that can
-have multiple writing systems, it may be appropriate to set |script= as
-well.
+For the  templates, the only parameter required to be set in the template is the language code. All other parameters can, usually should, be written in the template call. For  templates for languages that can have multiple writing systems, it may be appropriate to set |script= as well.
 
-For each  template choose the appropriate entry-point function so that
-this function know the default styling that should be applied to text.
+For each  template choose the appropriate entry-point function so that this function know the default styling that should be applied to text.
 
 For normal, upright style:
 
@@ -948,8 +830,7 @@ For italic style:
 
 `   `<includeonly>`{{#invoke:lang|lang_xx_italic|code=xx}}`</includeonly>
 
-All other parameters should be received from the template's frame
-(parent frame)
+All other parameters should be received from the template's frame (parent frame)
 
 Supported parameters are:
 
@@ -1170,11 +1051,7 @@ local function _lang_xx (frame)
 
 end
 
-\--[--------------------------\< L A N G _ X X _ I T A L I C
-\>-------------------------------------------------- Entry point for
-those {{lang-xx}} templates that call lang_xx_italic(). Sets the
-initial style state to
-italic.](https://zh.wikipedia.org/wiki/--------------------------\<_L_A_N_G_X_X_I_T_A_L_I_C_\>--------------------------------------------------_Entry_point_for_those_{{lang-xx}}_templates_that_call_lang_xx_italic\(\)._Sets_the_initial_style_state_to_italic. "wikilink")
+\--[--------------------------\< L A N G _ X X _ I T A L I C \>-------------------------------------------------- Entry point for those {{lang-xx}} templates that call lang_xx_italic(). Sets the initial style state to italic.](https://zh.wikipedia.org/wiki/--------------------------\<_L_A_N_G_X_X_I_T_A_L_I_C_\>--------------------------------------------------_Entry_point_for_those_{{lang-xx}}_templates_that_call_lang_xx_italic\(\)._Sets_the_initial_style_state_to_italic. "wikilink")
 
 function p.lang_xx_italic (frame)
 
@@ -1183,11 +1060,7 @@ function p.lang_xx_italic (frame)
 
 end
 
-\--[--------------------------\< L A N G _ X X _ I N H E R I T
-\>------------------------------------------------ Entry point for those
-{{lang-xx}} templates that call lang_xx_inherit(). Sets the initial
-style state to
-inherit.](https://zh.wikipedia.org/wiki/--------------------------\<_L_A_N_G_X_X_I_N_H_E_R_I_T_\>------------------------------------------------_Entry_point_for_those_{{lang-xx}}_templates_that_call_lang_xx_inherit\(\)._Sets_the_initial_style_state_to_inherit. "wikilink")
+\--[--------------------------\< L A N G _ X X _ I N H E R I T \>------------------------------------------------ Entry point for those {{lang-xx}} templates that call lang_xx_inherit(). Sets the initial style state to inherit.](https://zh.wikipedia.org/wiki/--------------------------\<_L_A_N_G_X_X_I_N_H_E_R_I_T_\>------------------------------------------------_Entry_point_for_those_{{lang-xx}}_templates_that_call_lang_xx_inherit\(\)._Sets_the_initial_style_state_to_inherit. "wikilink")
 
 function p.lang_xx_inherit (frame)
 
@@ -1196,12 +1069,7 @@ function p.lang_xx_inherit (frame)
 
 end
 
-\--[--------------------------\< N A M E _ F R O M _ C O D E
-\>-------------------------------------------------- Returns language
-name associated with IETF language tag if valid; empty string else. All
-code combinations supported by {{lang}} and the {{lang-xx}} templates
-are supported by this
-function.](https://zh.wikipedia.org/wiki/--------------------------\<_N_A_M_E_F_R_O_M_C_O_D_E_\>--------------------------------------------------_Returns_language_name_associated_with_IETF_language_tag_if_valid;_empty_string_else._All_code_combinations_supported_by_{{lang}}_and_the_{{lang-xx}}_templates_are_supported_by_this_function. "wikilink")
+\--[--------------------------\< N A M E _ F R O M _ C O D E \>-------------------------------------------------- Returns language name associated with IETF language tag if valid; empty string else. All code combinations supported by {{lang}} and the {{lang-xx}} templates are supported by this function.](https://zh.wikipedia.org/wiki/--------------------------\<_N_A_M_E_F_R_O_M_C_O_D_E_\>--------------------------------------------------_Returns_language_name_associated_with_IETF_language_tag_if_valid;_empty_string_else._All_code_combinations_supported_by_{{lang}}_and_the_{{lang-xx}}_templates_are_supported_by_this_function. "wikilink")
 
 function p.name_from_code (frame)
 
@@ -1236,10 +1104,7 @@ function p.name_from_code (frame)
 
 end
 
-\--[--------------------------\< T R A N S L
-\>------------------------------------------------------------------
-Prospective replacement for the template
-{{transl}}](https://zh.wikipedia.org/wiki/--------------------------\<_T_R_A_N_S_L_\>------------------------------------------------------------------_Prospective_replacement_for_the_template_{{transl}} "wikilink")
+\--[--------------------------\< T R A N S L \>------------------------------------------------------------------ Prospective replacement for the template {{transl}}](https://zh.wikipedia.org/wiki/--------------------------\<_T_R_A_N_S_L_\>------------------------------------------------------------------_Prospective_replacement_for_the_template_{{transl}} "wikilink")
 
 function p.transl (frame)
 
@@ -1307,10 +1172,4 @@ end
 
 return p;
 
-[Category:',_category,_'模板错误](https://zh.wikipedia.org/wiki/Category:',_category,_'模板错误 "wikilink")
-[Category:含有明确引用中文的条目](https://zh.wikipedia.org/wiki/Category:含有明确引用中文的条目 "wikilink")
-[Category:含有\<语言\>的条目](https://zh.wikipedia.org/wiki/Category:含有\<语言\>的条目 "wikilink")
-[Category:含有\<语言\>的条目](https://zh.wikipedia.org/wiki/Category:含有\<语言\>的条目 "wikilink")
-[Category:含有非中文内容的条目](https://zh.wikipedia.org/wiki/Category:含有非中文内容的条目 "wikilink")
-[Category:含有');_if_'zh'_==_code_then_table.insert_(cat,_'明確引用中文');_elseif_'ar'_==_code_then_table.insert_(cat,_'阿拉伯語')_elseif_'en'_==_code_then_table.insert_(cat,_'英語')_elseif_'es'_==_code_then_table.insert_(cat,_'西班牙語')_elseif_'de'_==_code_then_table.insert_(cat,_'德語')_elseif_'fr'_==_code_then_table.insert_(cat,_'法語')_elseif_'ja'_==_code_then_table.insert_(cat,_'日語')_elseif_'bg'_==_code_then_table.insert_(cat,_'保加利亞語')_elseif_'cs'_==_code_then_table.insert_(cat,_'捷克語')_elseif_'da'_==_code_then_table.insert_(cat,_'丹麥語')_elseif_'nl'_==_code_then_table.insert_(cat,_'荷蘭語')_elseif_'et'_==_code_then_table.insert_(cat,_'愛沙尼亞語')_elseif_'fi'_==_code_then_table.insert_(cat,_'芬蘭語')_elseif_'el'_==_code_then_table.insert_(cat,_'希臘語')_elseif_'hu'_==_code_then_table.insert_(cat,_'匈牙利語')_elseif_'ga'_==_code_then_table.insert_(cat,_'愛爾蘭語')_elseif_'grc'_==_code_then_table.insert_(cat,_'古希臘語')_elseif_'kr'_==_code_then_table.insert_(cat,_'卡努里語')_elseif_'la'_==_code_then_table.insert_(cat,_'拉丁語')_elseif_'cy'_==_code_then_table.insert_(cat,_'威爾斯語')_elseif_'sl'_==_code_then_table.insert_(cat,_'斯洛維尼亞語')_elseif_'yue'_==_code_then_table.insert_(cat,_'粵語')_elseif_(page_exists_('Category:含有'_.._language_name_.._'的條目')_)_then_table.insert_(cat,_language_name);_else_table.insert_(cat,_'非中文內容');_end_table.insert_(cat,_'的條目](https://zh.wikipedia.org/wiki/Category:含有'\);_if_'zh'_==_code_then_table.insert_\(cat,_'明確引用中文'\);_elseif_'ar'_==_code_then_table.insert_\(cat,_'阿拉伯語'\)_elseif_'en'_==_code_then_table.insert_\(cat,_'英語'\)_elseif_'es'_==_code_then_table.insert_\(cat,_'西班牙語'\)_elseif_'de'_==_code_then_table.insert_\(cat,_'德語'\)_elseif_'fr'_==_code_then_table.insert_\(cat,_'法語'\)_elseif_'ja'_==_code_then_table.insert_\(cat,_'日語'\)_elseif_'bg'_==_code_then_table.insert_\(cat,_'保加利亞語'\)_elseif_'cs'_==_code_then_table.insert_\(cat,_'捷克語'\)_elseif_'da'_==_code_then_table.insert_\(cat,_'丹麥語'\)_elseif_'nl'_==_code_then_table.insert_\(cat,_'荷蘭語'\)_elseif_'et'_==_code_then_table.insert_\(cat,_'愛沙尼亞語'\)_elseif_'fi'_==_code_then_table.insert_\(cat,_'芬蘭語'\)_elseif_'el'_==_code_then_table.insert_\(cat,_'希臘語'\)_elseif_'hu'_==_code_then_table.insert_\(cat,_'匈牙利語'\)_elseif_'ga'_==_code_then_table.insert_\(cat,_'愛爾蘭語'\)_elseif_'grc'_==_code_then_table.insert_\(cat,_'古希臘語'\)_elseif_'kr'_==_code_then_table.insert_\(cat,_'卡努里語'\)_elseif_'la'_==_code_then_table.insert_\(cat,_'拉丁語'\)_elseif_'cy'_==_code_then_table.insert_\(cat,_'威爾斯語'\)_elseif_'sl'_==_code_then_table.insert_\(cat,_'斯洛維尼亞語'\)_elseif_'yue'_==_code_then_table.insert_\(cat,_'粵語'\)_elseif_\(page_exists_\('Category:含有'_.._language_name_.._'的條目'\)_\)_then_table.insert_\(cat,_language_name\);_else_table.insert_\(cat,_'非中文內容'\);_end_table.insert_\(cat,_'的條目 "wikilink")
-[Category:',_cat,_'](https://zh.wikipedia.org/wiki/Category:',_cat,_' "wikilink")
+[Category:',_category,_'模板错误](https://zh.wikipedia.org/wiki/Category:',_category,_'模板错误 "wikilink") [Category:含有明确引用中文的条目](https://zh.wikipedia.org/wiki/Category:含有明确引用中文的条目 "wikilink") [Category:含有\<语言\>的条目](https://zh.wikipedia.org/wiki/Category:含有\<语言\>的条目 "wikilink") [Category:含有\<语言\>的条目](https://zh.wikipedia.org/wiki/Category:含有\<语言\>的条目 "wikilink") [Category:含有非中文内容的条目](https://zh.wikipedia.org/wiki/Category:含有非中文内容的条目 "wikilink") [Category:含有');_if_'zh'_==_code_then_table.insert_(cat,_'明確引用中文');_elseif_'ar'_==_code_then_table.insert_(cat,_'阿拉伯語')_elseif_'en'_==_code_then_table.insert_(cat,_'英語')_elseif_'es'_==_code_then_table.insert_(cat,_'西班牙語')_elseif_'de'_==_code_then_table.insert_(cat,_'德語')_elseif_'fr'_==_code_then_table.insert_(cat,_'法語')_elseif_'ja'_==_code_then_table.insert_(cat,_'日語')_elseif_'bg'_==_code_then_table.insert_(cat,_'保加利亞語')_elseif_'cs'_==_code_then_table.insert_(cat,_'捷克語')_elseif_'da'_==_code_then_table.insert_(cat,_'丹麥語')_elseif_'nl'_==_code_then_table.insert_(cat,_'荷蘭語')_elseif_'et'_==_code_then_table.insert_(cat,_'愛沙尼亞語')_elseif_'fi'_==_code_then_table.insert_(cat,_'芬蘭語')_elseif_'el'_==_code_then_table.insert_(cat,_'希臘語')_elseif_'hu'_==_code_then_table.insert_(cat,_'匈牙利語')_elseif_'ga'_==_code_then_table.insert_(cat,_'愛爾蘭語')_elseif_'grc'_==_code_then_table.insert_(cat,_'古希臘語')_elseif_'kr'_==_code_then_table.insert_(cat,_'卡努里語')_elseif_'la'_==_code_then_table.insert_(cat,_'拉丁語')_elseif_'cy'_==_code_then_table.insert_(cat,_'威爾斯語')_elseif_'sl'_==_code_then_table.insert_(cat,_'斯洛維尼亞語')_elseif_'yue'_==_code_then_table.insert_(cat,_'粵語')_elseif_(page_exists_('Category:含有'_.._language_name_.._'的條目')_)_then_table.insert_(cat,_language_name);_else_table.insert_(cat,_'非中文內容');_end_table.insert_(cat,_'的條目](https://zh.wikipedia.org/wiki/Category:含有'\);_if_'zh'_==_code_then_table.insert_\(cat,_'明確引用中文'\);_elseif_'ar'_==_code_then_table.insert_\(cat,_'阿拉伯語'\)_elseif_'en'_==_code_then_table.insert_\(cat,_'英語'\)_elseif_'es'_==_code_then_table.insert_\(cat,_'西班牙語'\)_elseif_'de'_==_code_then_table.insert_\(cat,_'德語'\)_elseif_'fr'_==_code_then_table.insert_\(cat,_'法語'\)_elseif_'ja'_==_code_then_table.insert_\(cat,_'日語'\)_elseif_'bg'_==_code_then_table.insert_\(cat,_'保加利亞語'\)_elseif_'cs'_==_code_then_table.insert_\(cat,_'捷克語'\)_elseif_'da'_==_code_then_table.insert_\(cat,_'丹麥語'\)_elseif_'nl'_==_code_then_table.insert_\(cat,_'荷蘭語'\)_elseif_'et'_==_code_then_table.insert_\(cat,_'愛沙尼亞語'\)_elseif_'fi'_==_code_then_table.insert_\(cat,_'芬蘭語'\)_elseif_'el'_==_code_then_table.insert_\(cat,_'希臘語'\)_elseif_'hu'_==_code_then_table.insert_\(cat,_'匈牙利語'\)_elseif_'ga'_==_code_then_table.insert_\(cat,_'愛爾蘭語'\)_elseif_'grc'_==_code_then_table.insert_\(cat,_'古希臘語'\)_elseif_'kr'_==_code_then_table.insert_\(cat,_'卡努里語'\)_elseif_'la'_==_code_then_table.insert_\(cat,_'拉丁語'\)_elseif_'cy'_==_code_then_table.insert_\(cat,_'威爾斯語'\)_elseif_'sl'_==_code_then_table.insert_\(cat,_'斯洛維尼亞語'\)_elseif_'yue'_==_code_then_table.insert_\(cat,_'粵語'\)_elseif_\(page_exists_\('Category:含有'_.._language_name_.._'的條目'\)_\)_then_table.insert_\(cat,_language_name\);_else_table.insert_\(cat,_'非中文內容'\);_end_table.insert_\(cat,_'的條目 "wikilink") [Category:',_cat,_'](https://zh.wikipedia.org/wiki/Category:',_cat,_' "wikilink")

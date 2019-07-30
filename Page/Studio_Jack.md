@@ -1,23 +1,16 @@
-**有限公司STUDIO
-JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")，專門從事[動畫美術背景製作的日本動畫工作室](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1970年。
+**有限公司STUDIO JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")，專門從事[動畫美術背景製作的日本動畫工作室](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1970年。
 
 ## 概要、沿革
 
-STUDIO JACK的前身為「**ANIME STUDIO
-JACK**（<small></small>）」背景部門，1967年9月在[東京都](../Page/東京都.md "wikilink")[保谷市](https://zh.wikipedia.org/wiki/保谷市 "wikilink")（今[西東京市](../Page/西東京市.md "wikilink")）增設。
+STUDIO JACK的前身為「**ANIME STUDIO JACK**（<small></small>）」背景部門，1967年9月在[東京都](../Page/東京都.md "wikilink")[保谷市](https://zh.wikipedia.org/wiki/保谷市 "wikilink")（今[西東京市](../Page/西東京市.md "wikilink")）增設。
 
 1968年3月，搬遷至[澀谷區](../Page/澀谷區.md "wikilink")[新宿](../Page/新宿.md "wikilink")。
 
-1970年4月，由當時在籍的鈴木森繁與八村博也兩人共同在澀谷區[千駄谷現址](../Page/千駄谷.md "wikilink")，正式成立「**有限公司STUDIO
-JACK**（<small></small>）」。
+1970年4月，由當時在籍的鈴木森繁與八村博也兩人共同在澀谷區[千駄谷](../Page/千駄谷.md "wikilink")現址，正式成立「**有限公司STUDIO JACK**（<small></small>）」。
 
-1997年4月，STUDIO
-JACK的創辦元老之一鈴木森繁逝世，由八村博也繼任。2013年，金村勝義就任代表董事社長。同時，由八村博也就任代表董事會長。
+1997年4月，STUDIO JACK的創辦元老之一鈴木森繁逝世，由八村博也繼任。2013年，金村勝義就任代表董事社長。同時，由八村博也就任代表董事會長。
 
-主要承包[MADHOUSE](../Page/MADHOUSE.md "wikilink")、[STUDIO
-COMET](../Page/STUDIO_COMET.md "wikilink")、[OLM](../Page/OLM.md "wikilink")、[Diomedéa的作品的美術背景製作](../Page/Diomedéa.md "wikilink")，包括OLM的代表作品《[神奇寶貝](https://zh.wikipedia.org/wiki/神奇寶貝_\(動畫\) "wikilink")》系列大部分幾乎被STUDIO
-JACK承包。在海外，也承包了[韓國的ARTMAX](https://zh.wikipedia.org/wiki/韓國 "wikilink")、STUDIO
-BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
+主要承包[MADHOUSE](../Page/MADHOUSE.md "wikilink")、[STUDIO COMET](../Page/STUDIO_COMET.md "wikilink")、[OLM](../Page/OLM.md "wikilink")、[Diomedéa](../Page/Diomedéa.md "wikilink")的作品的美術背景製作，包括OLM的代表作品《[神奇寶貝](https://zh.wikipedia.org/wiki/神奇寶貝_\(動畫\) "wikilink")》系列大部分幾乎被STUDIO JACK承包。在海外，也承包了[韓國的ARTMAX](https://zh.wikipedia.org/wiki/韓國 "wikilink")、STUDIO BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
 ## 主要參與作品
 
@@ -123,8 +116,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
   - [天才小魚郎](../Page/天才小魚郎.md "wikilink")（1997年－1998年）
 
-  - [咕嚕咕嚕魔法陣
-    心跳♡傳說](https://zh.wikipedia.org/wiki/咕嚕咕嚕魔法陣#2000年《咕嚕咕嚕魔法陣_心跳♡傳說》 "wikilink")（2000年）
+  - [咕嚕咕嚕魔法陣 心跳♡傳說](https://zh.wikipedia.org/wiki/咕嚕咕嚕魔法陣#2000年《咕嚕咕嚕魔法陣_心跳♡傳說》 "wikilink")（2000年）
 
 <!-- end list -->
 
@@ -142,7 +134,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
   - [貓狗寵物街](../Page/貓狗寵物街.md "wikilink")（1993年、1994年）
 
-  - [秀逗泰山阿達](../Page/秀逗泰山.md "wikilink")（1993年－1994年）
+  - [秀逗泰山](../Page/秀逗泰山.md "wikilink")阿達（1993年－1994年）
 
   - [暖暖日記](../Page/暖暖日記.md "wikilink")（1995年）\[2\]
 
@@ -156,7 +148,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
   - （2001年）
 
-  - [足球小將翼 (平成版)](../Page/足球小將.md "wikilink")（2001年－2002年）\[3\]
+  - [足球小將 (平成版)](../Page/足球小將.md "wikilink")翼（2001年－2002年）\[3\]
 
   - （2007年／背景）
 
@@ -186,11 +178,9 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
   - [馬可·波羅遊記](https://zh.wikipedia.org/wiki/馬可·波羅遊記 "wikilink")（1979年－1980年）
 
-  - [炸彈人
-    彈珠人爆外傳V](https://zh.wikipedia.org/wiki/炸彈人_彈珠人爆外傳 "wikilink")（1999年－2000年）
+  - [炸彈人 彈珠人爆外傳V](https://zh.wikipedia.org/wiki/炸彈人_彈珠人爆外傳 "wikilink")（1999年－2000年）
 
-  - [櫻花大戰
-    (TV動畫)](https://zh.wikipedia.org/wiki/櫻花大戰_\(電視動畫\) "wikilink")（2000年）
+  - [櫻花大戰 (TV動畫)](https://zh.wikipedia.org/wiki/櫻花大戰_\(電視動畫\) "wikilink")（2000年）
 
   - [戰鬥陀螺](../Page/戰鬥陀螺.md "wikilink")（2001年）
 
@@ -216,10 +206,9 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
   - （2008年）
 
-  - [青色文學系列：跑吧！美樂斯](../Page/青色文學系列.md "wikilink")（2009年）
+  - [青色文學系列](../Page/青色文學系列.md "wikilink")：跑吧！美樂斯（2009年）
 
-  - [超自然檔案：THE
-    ANIMATION](https://zh.wikipedia.org/wiki/邪惡力量 "wikilink")（背景，2011年）
+  - [超自然檔案：THE ANIMATION](https://zh.wikipedia.org/wiki/邪惡力量 "wikilink")（背景，2011年）
 
 <!-- end list -->
 
@@ -287,15 +276,14 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
   - （1997年）
 
-  - [東京喰種系列](../Page/東京喰種.md "wikilink")
+  - [東京喰種](../Page/東京喰種.md "wikilink")系列
 
       - 東京喰種（2014年）
       - 東京喰種√A（2015年）
 
 <!-- end list -->
 
-  - [葦Production (今PRODUCTION
-    REED)](../Page/PRODUCTION_REED.md "wikilink")
+  - [葦Production (今PRODUCTION REED)](../Page/PRODUCTION_REED.md "wikilink")
 
 <!-- end list -->
 
@@ -319,7 +307,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
   - [小小男子漢](https://zh.wikipedia.org/wiki/小小男子漢 "wikilink")（1992年－1994年）
 
-  - [足球小將翼J](../Page/足球小將.md "wikilink")（1994年－1995年）
+  - [足球小將](../Page/足球小將.md "wikilink")翼J（1994年－1995年）
 
   - [水色時代](../Page/水色時代.md "wikilink")（1996年－1997年）
 
@@ -341,7 +329,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
   - （包含美術指導，2004年－2005年）
 
-  - [校園迷糊大王系列](../Page/校園迷糊大王.md "wikilink")
+  - [校園迷糊大王](../Page/校園迷糊大王.md "wikilink")系列
 
       - 校園迷糊大王（2004年－2005年）
       - 校園迷糊大王 二學期（2006年）
@@ -356,20 +344,15 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
   - [神聖十月](../Page/神聖十月.md "wikilink")（2007年）
 
-  - [寶石寵物系列](../Page/寶石寵物.md "wikilink")
+  - [寶石寵物](../Page/寶石寵物.md "wikilink")系列
 
       - 寶石寵物（2009年－2010年）
-      - [寶石寵物
-        Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")（2010年－2011年）
-      - [寶石寵物
-        Sunshine](../Page/寶石寵物_Sunshine.md "wikilink")（2011年－2012年）
-      - [寶石寵物
-        Kira☆Deco！](../Page/寶石寵物_Kira☆Deco！.md "wikilink")（2011年－2012年）
-      - [寶石寵物
-        Happiness](../Page/寶石寵物_Happiness.md "wikilink")（2013年－2014年）
+      - [寶石寵物 Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")（2010年－2011年）
+      - [寶石寵物 Sunshine](../Page/寶石寵物_Sunshine.md "wikilink")（2011年－2012年）
+      - [寶石寵物 Kira☆Deco！](../Page/寶石寵物_Kira☆Deco！.md "wikilink")（2011年－2012年）
+      - [寶石寵物 Happiness](../Page/寶石寵物_Happiness.md "wikilink")（2013年－2014年）
 
-  - [Lady
-    寶石寵物](../Page/Lady_寶石寵物.md "wikilink")（2014年－2015年）（2014年）\[11\]
+  - [Lady 寶石寵物](../Page/Lady_寶石寵物.md "wikilink")（2014年－2015年）（2014年）\[11\]
 
 <!-- end list -->
 
@@ -426,7 +409,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 <!-- end list -->
 
   - [吸血姬美夕](https://zh.wikipedia.org/wiki/吸血姬美夕 "wikilink")（1997年－1998年）
-  - [女孩萬歲系列](../Page/女孩萬歲.md "wikilink")
+  - [女孩萬歲](../Page/女孩萬歲.md "wikilink")系列
       - 女孩萬歲 first season（2004年）
       - 女孩萬歲 second season（2005年）
   - [砂沙美魔法少女俱樂部](../Page/砂沙美魔法少女俱樂部.md "wikilink")（2006年－2007年）
@@ -440,8 +423,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
   - [七小花](../Page/七小花.md "wikilink")（2002年）
 
-  - [決鬥王Duel
-    Masters系列](https://zh.wikipedia.org/wiki/決鬥王Duel_Masters "wikilink")\[14\]
+  - [決鬥王Duel Masters系列](https://zh.wikipedia.org/wiki/決鬥王Duel_Masters "wikilink")\[14\]
 
       - 決鬥王Duel Masters（2002年－2003年）\[15\]
       - 決鬥王Duel Masters Charge（2004年－2006年）
@@ -461,8 +443,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 <!-- end list -->
 
   - [魔法人力派遣公司](../Page/魔法人力派遣公司.md "wikilink")（擔任第8話的背景，2007年－2008年）
-  - [H2O -FOOTPRINTS IN THE
-    SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")（2008年）
+  - [H2O -FOOTPRINTS IN THE SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")（2008年）
   - [我家有個狐仙大人](../Page/我家有個狐仙大人.md "wikilink")（2008年）
 
 <!-- end list -->
@@ -471,8 +452,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
 <!-- end list -->
 
-  - [GUNSLINGER GIRL -IL
-    TEATRINO-](https://zh.wikipedia.org/wiki/GUNSLINGER_GIRL "wikilink")（2008年）
+  - [GUNSLINGER GIRL -IL TEATRINO-](https://zh.wikipedia.org/wiki/GUNSLINGER_GIRL "wikilink")（2008年）
   - [泰坦尼亞](../Page/泰坦尼亞.md "wikilink")（2008年－2009年）
 
 <!-- end list -->
@@ -481,7 +461,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
 <!-- end list -->
 
-  - [乃木坂春香的秘密系列](../Page/乃木坂春香的秘密.md "wikilink")
+  - [乃木坂春香的秘密](../Page/乃木坂春香的秘密.md "wikilink")系列
       - 乃木坂春香的秘密（2008年）
       - 乃木坂春香的秘密 Purezza♪（2009年）
   - [銀狐](../Page/銀狐_\(漫畫\).md "wikilink")（2013年）
@@ -510,8 +490,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 <!-- end list -->
 
   - [我們大家的河合莊](../Page/我們大家的河合莊.md "wikilink")（2014年）
-  - [BLOOD LAD
-    血意少年](https://zh.wikipedia.org/wiki/BLOOD_LAD_血意少年 "wikilink")（2014年）
+  - [BLOOD LAD 血意少年](https://zh.wikipedia.org/wiki/BLOOD_LAD_血意少年 "wikilink")（2014年）
   - [青春×機關槍](https://zh.wikipedia.org/wiki/青春×機關槍 "wikilink")（2015年）
 
 <!-- end list -->
@@ -538,19 +517,15 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
   - [星之卡比](../Page/星之卡比_\(動畫\).md "wikilink")（總承包商：，2001年－2003年）
 
-  - [寶貝婆婆](../Page/天才兒童MAX.md "wikilink")（總承包商：[BANDAI
-    VISUAL](../Page/萬代影視.md "wikilink")，2002年）
+  - [寶貝婆婆](../Page/天才兒童MAX.md "wikilink")（總承包商：[BANDAI VISUAL](../Page/萬代影視.md "wikilink")，2002年）
 
-  - [青青校樹](../Page/青青校樹_\(遊戲\).md "wikilink")（總承包商：[Studio
-    Matrix](../Page/Studio_Matrix.md "wikilink")，2003年）
+  - [青青校樹](../Page/青青校樹_\(遊戲\).md "wikilink")（總承包商：[Studio Matrix](../Page/Studio_Matrix.md "wikilink")，2003年）
 
-  - [真魔神
-    衝擊！Z篇](../Page/真魔神_衝擊！Z篇.md "wikilink")（總承包商：BEE·MEDIA、Code，2009年）
+  - [真魔神 衝擊！Z篇](../Page/真魔神_衝擊！Z篇.md "wikilink")（總承包商：BEE·MEDIA、Code，2009年）
 
   - [我們沒有翅膀](https://zh.wikipedia.org/wiki/我們沒有羽翼 "wikilink")（總承包商：[Nomad](../Page/Nomad_\(公司\).md "wikilink")，2011年）
 
-  - [生存遊戲社](../Page/生存遊戲社.md "wikilink")（總承包商：[Studio
-    Pirrot+](../Page/Pierrot_PLUS.md "wikilink")，2014年）
+  - [生存遊戲社](../Page/生存遊戲社.md "wikilink")（總承包商：[Studio Pirrot+](../Page/Pierrot_PLUS.md "wikilink")，2014年）
 
 #### 國外
 
@@ -566,8 +541,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
       - （1991年）
 
-  - [X戰警
-    (1994年東京電視台版)](https://zh.wikipedia.org/wiki/X戰警 "wikilink")（1994年）
+  - [X戰警 (1994年東京電視台版)](https://zh.wikipedia.org/wiki/X戰警 "wikilink")（1994年）
 
   - （1996年）\[19\]
 
@@ -593,8 +567,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
   - （總承包商：，負責第2部、第3部 (完結篇)，1983年－1984年）
 
-  - [將太的壽司](../Page/將太的壽司.md "wikilink")（總承包商：[STUDIO
-    COMET](../Page/STUDIO_COMET.md "wikilink")，1999年）
+  - [將太的壽司](../Page/將太的壽司.md "wikilink")（總承包商：[STUDIO COMET](../Page/STUDIO_COMET.md "wikilink")，1999年）
 
 ### OVA
 
@@ -650,7 +623,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
   - （1994年－1995年）
 
-  - [愛天使傳說DX](../Page/愛天使傳說.md "wikilink")（總承包商：KSS，1996年）\[26\]
+  - [愛天使傳說](../Page/愛天使傳說.md "wikilink")DX（總承包商：KSS，1996年）\[26\]
 
   - [龍機傳承](../Page/龍機傳承.md "wikilink")（1996年）\[27\]
 
@@ -674,7 +647,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
 <!-- end list -->
 
-  - [校園迷糊大王系列](../Page/校園迷糊大王.md "wikilink")
+  - [校園迷糊大王](../Page/校園迷糊大王.md "wikilink")系列
       - 校園迷糊大王 一學期補習（2005年）
       - 校園迷糊大王 三學期（2008年）
 
@@ -688,16 +661,13 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
   - （總承包商：[MAGICBUS](https://zh.wikipedia.org/wiki/MAGICBUS "wikilink")，1989年）
 
-  - （總承包商：[Studio
-    Pierrot](../Page/Studio_Pierrot.md "wikilink")，\]1990年）
+  - （總承包商：[Studio Pierrot](../Page/Studio_Pierrot.md "wikilink")，\]1990年）
 
   - （總承包商：[圓谷Production](../Page/圓谷製作.md "wikilink")，1990年）
 
-  - [同级生
-    (OVA第1～3部)](https://zh.wikipedia.org/wiki/同级生 "wikilink")（總承包商：[Triple
-    X](../Page/Arms.md "wikilink")，1993年）
+  - [同级生 (OVA第1～3部)](https://zh.wikipedia.org/wiki/同级生 "wikilink")（總承包商：[Triple X](../Page/Arms.md "wikilink")，1993年）
 
-  - [搞怪拍檔FLASH](../Page/搞怪拍檔.md "wikilink")（總承包商：[日昇動畫](../Page/日昇動畫.md "wikilink")，1995年）
+  - [搞怪拍檔](../Page/搞怪拍檔.md "wikilink")FLASH（總承包商：[日昇動畫](../Page/日昇動畫.md "wikilink")，1995年）
 
   - [下級生](../Page/下級生.md "wikilink")（總承包商：PP Project，1995年）
 
@@ -735,8 +705,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
 <!-- end list -->
 
-  - **[劇場版
-    神奇寶貝系列](https://zh.wikipedia.org/wiki/神奇寶貝劇場版 "wikilink")**（1998年－)
+  - **[劇場版 神奇寶貝系列](https://zh.wikipedia.org/wiki/神奇寶貝劇場版 "wikilink")**（1998年－)
   - [劇場版 動物之森](../Page/劇場版_動物之森.md "wikilink")（2006年）
 
 <!-- end list -->
@@ -747,16 +716,11 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
   - [一千零一夜](../Page/一千零一夜.md "wikilink")（總承包商：[蟲製作公司](../Page/蟲製作公司.md "wikilink")，1969年）
   - [頑皮大師](../Page/頑皮大師.md "wikilink")（總承包商：，1981年）
-  - [劇場版 奇諾之旅：活著的目標 -life goes
-    on.-](https://zh.wikipedia.org/wiki/奇諾之旅 "wikilink")（總承包商：[A.C.G.T](../Page/A.C.G.T.md "wikilink")，2005年）
-  - [翡翠森林狼與羊](https://zh.wikipedia.org/wiki/翡翠森林狼與羊 "wikilink")（總承包商：Sparky
-    Animation、獏Enterprise，2005年）
-  - [TRIGUN THE MOVIE Badlands
-    Rumble](../Page/槍神Trigun.md "wikilink")（總承包商：[MADHOUSE](../Page/MADHOUSE.md "wikilink")，2010年）
-  - [麵包超人：復活吧香蕉島](https://zh.wikipedia.org/wiki/復活吧香蕉島 "wikilink")（總承包商：[TMS
-    Entertainment](../Page/TMS娛樂.md "wikilink")，2012年）
-  - [寶石寵物電影 甜品舞公主](../Page/寶石寵物電影_甜品舞公主.md "wikilink")（總承包商：[STUDIO
-    COMET](../Page/STUDIO_COMET.md "wikilink")，2012年）
+  - [劇場版 奇諾之旅：活著的目標 -life goes on.-](https://zh.wikipedia.org/wiki/奇諾之旅 "wikilink")（總承包商：[A.C.G.T](../Page/A.C.G.T.md "wikilink")，2005年）
+  - [翡翠森林狼與羊](https://zh.wikipedia.org/wiki/翡翠森林狼與羊 "wikilink")（總承包商：Sparky Animation、獏Enterprise，2005年）
+  - [TRIGUN THE MOVIE Badlands Rumble](../Page/槍神Trigun.md "wikilink")（總承包商：[MADHOUSE](../Page/MADHOUSE.md "wikilink")，2010年）
+  - [麵包超人：復活吧香蕉島](https://zh.wikipedia.org/wiki/復活吧香蕉島 "wikilink")（總承包商：[TMS Entertainment](../Page/TMS娛樂.md "wikilink")，2012年）
+  - [寶石寵物電影 甜品舞公主](../Page/寶石寵物電影_甜品舞公主.md "wikilink")（總承包商：[STUDIO COMET](../Page/STUDIO_COMET.md "wikilink")，2012年）
 
 ## 相關人物
 
@@ -789,8 +753,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
 ### 來源
 
-  - [STUDIO
-    JACK的公式官方網站｜會社概要／企業沿革](http://www.studiojack.com/company.html)
+  - [STUDIO JACK的公式官方網站｜會社概要／企業沿革](http://www.studiojack.com/company.html)
   - [STUDIO JACK的公式官方網站｜作品履歷](http://www.studiojack.com/artwork.html)
 
 ## 相關項目
@@ -802,9 +765,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
   - [STUDIO JACK](http://www.studiojack.com/)的官方網站
 
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
-[Category:1970年成立的公司](https://zh.wikipedia.org/wiki/Category:1970年成立的公司 "wikilink")
+[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:1970年成立的公司](https://zh.wikipedia.org/wiki/Category:1970年成立的公司 "wikilink")
 
 1.  總承包商原為，日本動畫公司接手時參與。
 
@@ -824,14 +785,14 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
 9.  首部以電腦製作的動畫。
 
-10. 台灣[木棉花國際代理發行譯名](../Page/木棉花國際.md "wikilink")。
+10. 台灣[木棉花國際](../Page/木棉花國際.md "wikilink")代理發行譯名。
 
-11. 與[ZEXCS共同製作的動畫](../Page/ZEXCS.md "wikilink")。
+11. 與[ZEXCS](../Page/ZEXCS.md "wikilink")共同製作的動畫。
 
 12. MAGICBUS負責動畫製作，總承包商為EIKEN。
 
 13.
-14. 與[雲雀工作室共同製作的動畫](../Page/雲雀工作室.md "wikilink")。
+14. 與[雲雀工作室](../Page/雲雀工作室.md "wikilink")共同製作的動畫。
 
 15. 美國播映版。
 

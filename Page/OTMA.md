@@ -1,8 +1,4 @@
-[OlgaTatianaMariaAnastasia1916.jpg](https://zh.wikipedia.org/wiki/File:OlgaTatianaMariaAnastasia1916.jpg "fig:OlgaTatianaMariaAnastasia1916.jpg")
-[Olga,_Tatiana,_Maria_and_Anastasia_Nikolaevna_in_Darmstadt,_Hesse(2).jpg](https://zh.wikipedia.org/wiki/File:Olga,_Tatiana,_Maria_and_Anastasia_Nikolaevna_in_Darmstadt,_Hesse\(2\).jpg "fig:Olga,_Tatiana,_Maria_and_Anastasia_Nikolaevna_in_Darmstadt,_Hesse(2).jpg")
-[OTMA_1906.jpg](https://zh.wikipedia.org/wiki/File:OTMA_1906.jpg "fig:OTMA_1906.jpg")
-[OTMAA_1910_formal.jpg](https://zh.wikipedia.org/wiki/File:OTMAA_1910_formal.jpg "fig:OTMAA_1910_formal.jpg")
-[Otmaincaptivity1917.jpg](https://zh.wikipedia.org/wiki/File:Otmaincaptivity1917.jpg "fig:Otmaincaptivity1917.jpg")。\]\]
+[OlgaTatianaMariaAnastasia1916.jpg](https://zh.wikipedia.org/wiki/File:OlgaTatianaMariaAnastasia1916.jpg "fig:OlgaTatianaMariaAnastasia1916.jpg") [Olga,_Tatiana,_Maria_and_Anastasia_Nikolaevna_in_Darmstadt,_Hesse(2).jpg](https://zh.wikipedia.org/wiki/File:Olga,_Tatiana,_Maria_and_Anastasia_Nikolaevna_in_Darmstadt,_Hesse\(2\).jpg "fig:Olga,_Tatiana,_Maria_and_Anastasia_Nikolaevna_in_Darmstadt,_Hesse(2).jpg") [OTMA_1906.jpg](https://zh.wikipedia.org/wiki/File:OTMA_1906.jpg "fig:OTMA_1906.jpg") [OTMAA_1910_formal.jpg](https://zh.wikipedia.org/wiki/File:OTMAA_1910_formal.jpg "fig:OTMAA_1910_formal.jpg") [Otmaincaptivity1917.jpg](https://zh.wikipedia.org/wiki/File:Otmaincaptivity1917.jpg "fig:Otmaincaptivity1917.jpg")。\]\]
 
 **OTMA**是[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[沙皇](../Page/沙皇.md "wikilink")[尼古拉二世及其配偶](https://zh.wikipedia.org/wiki/尼古拉二世 "wikilink")[亞歷山德拉·費奧多羅芙娜皇后所生的四個女兒](https://zh.wikipedia.org/wiki/亞歷山德拉·費奧多羅芙娜皇后_\(尼古拉二世\) "wikilink")：[奧麗加](https://zh.wikipedia.org/wiki/奧麗加·尼古拉耶芙娜·羅曼諾娃 "wikilink")、[塔季揚娜](https://zh.wikipedia.org/wiki/塔季揚娜·尼古拉耶芙娜·羅曼諾娃 "wikilink")、[瑪麗亞和](https://zh.wikipedia.org/wiki/瑪麗亞·尼古拉耶芙娜·羅曼諾娃 "wikilink")[安娜塔西亞有時使用的合稱](https://zh.wikipedia.org/wiki/安娜塔西亞·尼古拉耶芙娜·羅曼諾娃 "wikilink")。
 
@@ -15,8 +11,7 @@
 3.  **М**ария──**[瑪麗亞·尼古拉耶芙娜·羅曼諾娃](https://zh.wikipedia.org/wiki/瑪麗亞·尼古拉耶芙娜·羅曼諾娃 "wikilink")**女大公（1899年6月27日－1918年7月17日），三女。
 4.  **А**настасия──**[安娜塔西亞·尼古拉耶芙娜·羅曼諾娃](https://zh.wikipedia.org/wiki/安娜塔西亞·尼古拉耶芙娜·羅曼諾娃 "wikilink")**女大公（1901年6月18日－1918年7月17日），四女及么女。
 
-童年時代，女大公們想出了「**OTMA**」作為彼此關係親密的標誌，並將其寫在她們的日記中。女孩們是[維多利亞女王的外曾孫女](https://zh.wikipedia.org/wiki/維多利亞女王 "wikilink")，而女孩們的母親亞歷山德拉皇后也會說英語。因此即使女大公們是土生土長的俄羅斯人，也能流利地使用英語\[2\]。奧麗加和塔季揚娜住在同一個房間，兩人經常在一起，被叫做「年長組」。瑪麗亞和安娜塔西亞也住在同一個房間，兩人經常在一起，被叫做「年幼組」。
-在[1917年俄國革命爆發後](https://zh.wikipedia.org/wiki/1917年俄國革命 "wikilink")，尼古拉二世全家遭到關押，他們只被允許發送幾封信。在女大公們寄給親人或朋友的信件中，她們經常使用OTMA作為信件上的共同署名。
+童年時代，女大公們想出了「**OTMA**」作為彼此關係親密的標誌，並將其寫在她們的日記中。女孩們是[維多利亞女王的外曾孫女](https://zh.wikipedia.org/wiki/維多利亞女王 "wikilink")，而女孩們的母親亞歷山德拉皇后也會說英語。因此即使女大公們是土生土長的俄羅斯人，也能流利地使用英語\[2\]。奧麗加和塔季揚娜住在同一個房間，兩人經常在一起，被叫做「年長組」。瑪麗亞和安娜塔西亞也住在同一個房間，兩人經常在一起，被叫做「年幼組」。 在[1917年俄國革命爆發後](https://zh.wikipedia.org/wiki/1917年俄國革命 "wikilink")，尼古拉二世全家遭到關押，他們只被允許發送幾封信。在女大公們寄給親人或朋友的信件中，她們經常使用OTMA作為信件上的共同署名。
 
 ## 四姊妹的特徵
 
@@ -41,13 +36,9 @@
 
 
 
-[Category:俄羅斯帝國女大公](https://zh.wikipedia.org/wiki/Category:俄羅斯帝國女大公 "wikilink")
-[Category:人物合稱](https://zh.wikipedia.org/wiki/Category:人物合稱 "wikilink")
-[Category:字首縮寫](https://zh.wikipedia.org/wiki/Category:字首縮寫 "wikilink")
+[Category:俄羅斯帝國女大公](https://zh.wikipedia.org/wiki/Category:俄羅斯帝國女大公 "wikilink") [Category:人物合稱](https://zh.wikipedia.org/wiki/Category:人物合稱 "wikilink") [Category:字首縮寫](https://zh.wikipedia.org/wiki/Category:字首縮寫 "wikilink")
 
-1.  alexanderpalace.org, *[The Grand Duchesses –
-    OTMA](http://www.alexanderpalace.org/palace/gds.html)*, retrieved 14
-    June 2009
+1.  alexanderpalace.org, *[The Grand Duchesses – OTMA](http://www.alexanderpalace.org/palace/gds.html)*, retrieved 14 June 2009
 
 2.
 3.

@@ -6,10 +6,8 @@
 
 #### 全年齡漫畫
 
-  - [下級生2 ～brilliant
-    days～](../Page/下級生2.md "wikilink")（原作：[élf](https://zh.wikipedia.org/wiki/élf "wikilink")，《[Comptiq](../Page/Comptiq.md "wikilink")》連載，[角川書店刊](../Page/角川書店.md "wikilink")，2005年5月10日發行）
-  - [燦爛星光
-    ～星藤學園天文同好會～](../Page/燦爛星光_～星藤學園天文同好會～.md "wikilink")（原作：[F\&C·FC01](../Page/F&C.md "wikilink")，《Comptiq》連載，角川書店刊，2008年5月22日發行）
+  - [下級生2 ～brilliant days～](../Page/下級生2.md "wikilink")（原作：[élf](https://zh.wikipedia.org/wiki/élf "wikilink")，《[Comptiq](../Page/Comptiq.md "wikilink")》連載，[角川書店](../Page/角川書店.md "wikilink")刊，2005年5月10日發行）
+  - [燦爛星光 ～星藤學園天文同好會～](../Page/燦爛星光_～星藤學園天文同好會～.md "wikilink")（原作：[F\&C](../Page/F&C.md "wikilink")·FC01，《Comptiq》連載，角川書店刊，2008年5月22日發行）
   - [祝福的鐘聲](https://zh.wikipedia.org/wiki/祝福的鐘聲 "wikilink")（原作：，《Comptiq》連載，角川書店刊）
 
 <!-- end list -->
@@ -20,8 +18,7 @@
 
 <!-- end list -->
 
-  - [聖誕之吻 dreamy
-    forever](../Page/聖誕之吻.md "wikilink")（原作：[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")，《Comptiq》連載，角川書店刊，2011年7月26日發行）
+  - [聖誕之吻 dreamy forever](../Page/聖誕之吻.md "wikilink")（原作：[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")，《Comptiq》連載，角川書店刊，2011年7月26日發行）
 
 #### 成人漫畫
 
@@ -70,12 +67,10 @@
 
 ## 外部連結
 
-  - [YOUR'S-WOW\!\!](https://web.archive.org/web/20161105224800/http://yours-wow.chips.jp/)
-    －虎向Hyuura的官方個人網站。
+  - [YOUR'S-WOW\!\!](https://web.archive.org/web/20161105224800/http://yours-wow.chips.jp/) －虎向Hyuura的官方個人網站。
 
   - －虎向Hyuura的官方個人部落格。
 
   -
 
-[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")

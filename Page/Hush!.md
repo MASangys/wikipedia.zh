@@ -167,11 +167,7 @@
 ## 外部連結
 
   -
-[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
-[Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink")
-[Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink")
-[Category:台灣搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣搖滾樂團 "wikilink")
-[Category:台灣獨立樂團](https://zh.wikipedia.org/wiki/Category:台灣獨立樂團 "wikilink")
+[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink") [Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink") [Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink") [Category:台灣搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣搖滾樂團 "wikilink") [Category:台灣獨立樂團](https://zh.wikipedia.org/wiki/Category:台灣獨立樂團 "wikilink")
 
 1.
 2.

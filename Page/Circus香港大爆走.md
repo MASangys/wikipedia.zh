@@ -1,14 +1,12 @@
-《**Circus香港大爆走**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的旅遊節目](../Page/電視廣播有限公司.md "wikilink")，全節目共13集，由[CIRCUS擔任主持](https://zh.wikipedia.org/wiki/CIRCUS "wikilink")。本節目於2013年8月31日起[香港時間逢星期六至日](../Page/香港時間.md "wikilink")23:30-00:00在[J2播出](../Page/J2.md "wikilink")，及於[myTV提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")（集數上傳後兩個月後會刪除）。本節目是CIRCUS於2014年解散前的最後一個電視節目。
+《**Circus香港大爆走**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的旅遊節目，全節目共13集，由[CIRCUS擔任主持](https://zh.wikipedia.org/wiki/CIRCUS "wikilink")。本節目於2013年8月31日起[香港時間](../Page/香港時間.md "wikilink")逢星期六至日23:30-00:00在[J2](../Page/J2.md "wikilink")播出，及於[myTV提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")（集數上傳後兩個月後會刪除）。本節目是CIRCUS於2014年解散前的最後一個電視節目。
 
 ## 節目簡介
 
 以台灣人角度，重新發掘香港和澳門的本土特色，為三個年輕台灣歌手，實現 一次熱血的瘋狂冒險之旅！
 
-台灣樂團「Circus」一向敢說敢作，其深受年輕人歡迎的自家製的《Circus
-Action》，節目中多次完成「不可能任務」！今次他們把基地轉至香港和澳門，以台灣人身份玩轉香港，在香港鬧市街頭體驗背包客式的「工作假期」。
+台灣樂團「Circus」一向敢說敢作，其深受年輕人歡迎的自家製的《Circus Action》，節目中多次完成「不可能任務」！今次他們把基地轉至香港和澳門，以台灣人身份玩轉香港，在香港鬧市街頭體驗背包客式的「工作假期」。
 
-今輯《Circus
-香港大爆走》由「Circus」的廖人帥（Leo）、黃尹宣（Esaon）和林柏升（Kid）領航，並帶著兩頭最「牛」助理，誓要以一萬元港幣留港十五天！拋棄所有信用卡和提款卡的他們，期間靠著無比勇氣和傻勁，犧牲色相「出賣」身體，以驚人膽量挑戰另類工作，不惜放下偶像包袱在街頭賣藝的三人，能否成功賺回返台旅費？
+今輯《Circus 香港大爆走》由「Circus」的廖人帥（Leo）、黃尹宣（Esaon）和林柏升（Kid）領航，並帶著兩頭最「牛」助理，誓要以一萬元港幣留港十五天！拋棄所有信用卡和提款卡的他們，期間靠著無比勇氣和傻勁，犧牲色相「出賣」身體，以驚人膽量挑戰另類工作，不惜放下偶像包袱在街頭賣藝的三人，能否成功賺回返台旅費？
 
 節目中三人盡展真我性情，有「嘔吐病」Eason親嚐補身聖品牛鞭和蛇膽，以「裸跑」成名的Kid還在重慶大廈前重現「Bollywood」式的性感舞蹈，連受「粉絲」歡迎的Leo亦將難逃「被整」命運，最終他們可否成功征服香港？
 
@@ -34,9 +32,6 @@ Action》，節目中多次完成「不可能任務」！今次他們把基地�
 
 ## 外部連結
 
-  - [無綫電視節目網頁 -
-    Circus香港大爆走](http://programme.tvb.com/variety/survivinghk)
+  - [無綫電視節目網頁 - Circus香港大爆走](http://programme.tvb.com/variety/survivinghk)
 
-[Category:2013年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2013年無綫電視節目 "wikilink")
-[Category:J2節目](https://zh.wikipedia.org/wiki/Category:J2節目 "wikilink")
-[Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink")
+[Category:2013年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2013年無綫電視節目 "wikilink") [Category:J2節目](https://zh.wikipedia.org/wiki/Category:J2節目 "wikilink") [Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink")

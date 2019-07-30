@@ -1,14 +1,12 @@
-[第15回](../Page/第15回TV_LIFE年度日劇大賞.md "wikilink") ← **第16回** →
-[第17回](../Page/第17回TV_LIFE年度日劇大賞.md "wikilink")
+[第15回](../Page/第15回TV_LIFE年度日劇大賞.md "wikilink") ← **第16回** → [第17回](../Page/第17回TV_LIFE年度日劇大賞.md "wikilink")
 
-**第16回[TV
-LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2006年播出的連續劇做出的觀眾投票。
+**第16回[TV LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2006年播出的連續劇做出的觀眾投票。
 
-本屆獲獎最多的劇集是[富士電視台的](../Page/富士電視台.md "wikilink")《》，共獲4獎。
+本屆獲獎最多的劇集是[富士電視台](../Page/富士電視台.md "wikilink")的《》，共獲4獎。
 
 除了最佳男、女主角、最佳男配角及最佳劇本，所有獎項均有相同票數情況出現，故有兩位入圍者並列同一排名位置。
 
-個人方面，[草彅剛第二度獲頒最佳男主角獎](../Page/草彅剛.md "wikilink")。[志田未來是首位同屆一併奪得](../Page/志田未來.md "wikilink")「最佳女主角」和「最佳新演員」的女演員。
+個人方面，[草彅剛](../Page/草彅剛.md "wikilink")第二度獲頒最佳男主角獎。[志田未來](../Page/志田未來.md "wikilink")是首位同屆一併奪得「最佳女主角」和「最佳新演員」的女演員。
 
 ## 獎項
 
@@ -547,5 +545,4 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 
 ## 參考來源
 
-[Category:2006年日本](https://zh.wikipedia.org/wiki/Category:2006年日本 "wikilink")
-[Category:2006年电视奖项](https://zh.wikipedia.org/wiki/Category:2006年电视奖项 "wikilink")
+[Category:2006年日本](https://zh.wikipedia.org/wiki/Category:2006年日本 "wikilink") [Category:2006年电视奖项](https://zh.wikipedia.org/wiki/Category:2006年电视奖项 "wikilink")

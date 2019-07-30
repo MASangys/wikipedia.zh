@@ -1,5 +1,4 @@
-是由[SMEE製作並於](../Page/HOOKSOFT.md "wikilink")2011年2月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，後來於2012年1月27日發售續作《同棲Lover
-Able》（）。\[2\]
+是由[SMEE製作並於](../Page/HOOKSOFT.md "wikilink")2011年2月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，後來於2012年1月27日發售續作《同棲Lover Able》（）。\[2\]
 
 ## 故事
 
@@ -46,8 +45,7 @@ Able》（）。\[2\]
 
 ## 小說
 
-同名小說是由赤月蓮理寫作，由Eagle Publishing（）公司於2011年6月25日發售共一冊（ISBN
-9784861462061）。\[5\]
+同名小說是由赤月蓮理寫作，由Eagle Publishing（）公司於2011年6月25日發售共一冊（ISBN 9784861462061）。\[5\]
 
 ## 參考來源
 
@@ -56,10 +54,7 @@ Able》（）。\[2\]
   - [Lover Able官方網站](http://www.hook-net.jp/smee/loverable/)
   - [同棲Lover Able](http://www.hook-net.jp/smee/dousei/index.html)
 
-[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
+[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
 
 1.
 2.

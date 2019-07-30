@@ -1,14 +1,8 @@
-《**Two
-Cops**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2017年11月27日起播出的[月火連續劇](../Page/MBC月火連續劇.md "wikilink")，由《[舉重妖精金福珠](../Page/舉重妖精金福珠.md "wikilink")》[吳賢鍾導演執導與卞尚順作家合作打造](https://zh.wikipedia.org/wiki/吳賢鍾 "wikilink")。此劇講述案組熱血刑警被詐騙犯靈魂附身後，一個身體裡藏著兩個截然不同的靈魂，兩個靈魂聯手解決棘手案件的奇妙故事。\[1\]香港地區由[Viu獨家追播](../Page/Viu.md "wikilink")；台灣地區，KKTV、愛奇藝台灣站
-2017/11/28(二)起，每周二三中午12點更新，MOD
-[龍華偶像台則為全台電視首播](https://zh.wikipedia.org/wiki/龍華電視 "wikilink")，歡樂看FAIN
-TV也可全集觀賞。
+《**Two Cops**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2017年11月27日起播出的[月火連續劇](../Page/MBC月火連續劇.md "wikilink")，由《[舉重妖精金福珠](../Page/舉重妖精金福珠.md "wikilink")》[吳賢鍾導演執導與卞尚順作家合作打造](https://zh.wikipedia.org/wiki/吳賢鍾 "wikilink")。此劇講述案組熱血刑警被詐騙犯靈魂附身後，一個身體裡藏著兩個截然不同的靈魂，兩個靈魂聯手解決棘手案件的奇妙故事。\[1\]香港地區由[Viu](../Page/Viu.md "wikilink")獨家追播；台灣地區，KKTV、愛奇藝台灣站 2017/11/28(二)起，每周二三中午12點更新，MOD [龍華偶像台則為全台電視首播](https://zh.wikipedia.org/wiki/龍華電視 "wikilink")，歡樂看FAIN TV也可全集觀賞。
 
 ## 劇情
 
-重案組刑警車蝀晫（[曹政奭飾](../Page/曹政奭.md "wikilink")）充滿強烈的正義感，被犯罪者稱為“地獄使者”。有一天，天生善於巧妙的言辭和小聰明的騙子孔秀昌（[金善浩飾](../Page/金善浩.md "wikilink")）的靈魂附著在他的身體裡。重案組刑警車蝀晫和騙子孔秀昌共用一個身體，為了克服危機不得不攜手合作。為什麼他倆偏偏要共用一個身體呢?
-《Two
-Cops》描述被騙子靈魂附身的刑警東卓和潑辣女記者宋智安（[惠利飾](../Page/惠利.md "wikilink")）之間發生的奇幻偵查愛情故事。\[2\]
+重案組刑警車蝀晫（[曹政奭](../Page/曹政奭.md "wikilink")飾）充滿強烈的正義感，被犯罪者稱為“地獄使者”。有一天，天生善於巧妙的言辭和小聰明的騙子孔秀昌（[金善浩](../Page/金善浩.md "wikilink")飾）的靈魂附著在他的身體裡。重案組刑警車蝀晫和騙子孔秀昌共用一個身體，為了克服危機不得不攜手合作。為什麼他倆偏偏要共用一個身體呢? 《Two Cops》描述被騙子靈魂附身的刑警東卓和潑辣女記者宋智安（[惠利](../Page/惠利.md "wikilink")飾）之間發生的奇幻偵查愛情故事。\[2\]
 
 ## 演員陣容
 
@@ -641,12 +635,9 @@ Cops》描述被騙子靈魂附身的刑警東卓和潑辣女記者宋智安（[
 
 ## 同時段競爭作品
 
-  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
-    [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[魔女的法庭](../Page/魔女的法庭.md "wikilink")》、《[Jugglers](../Page/Jugglers.md "wikilink")》
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[疑問的一勝](../Page/疑問的一勝.md "wikilink")》
-  - [tvN](../Page/TVN.md "wikilink")
-    [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[今生是第一次](../Page/今生是第一次.md "wikilink")》、《[沒禮貌的英愛小姐16](../Page/沒禮貌的英愛小姐16.md "wikilink")》
+  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[魔女的法庭](../Page/魔女的法庭.md "wikilink")》、《[Jugglers](../Page/Jugglers.md "wikilink")》
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink") [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[疑問的一勝](../Page/疑問的一勝.md "wikilink")》
+  - [tvN](../Page/TVN.md "wikilink") [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[今生是第一次](../Page/今生是第一次.md "wikilink")》、《[沒禮貌的英愛小姐16](../Page/沒禮貌的英愛小姐16.md "wikilink")》
 
 ## 獎項
 
@@ -766,16 +757,10 @@ Cops》描述被騙子靈魂附身的刑警東卓和潑辣女記者宋智安（[
   - [-DAUM](https://web.archive.org/web/20180102132219/http://movie.daum.net/tv/main?tvProgramId=80747)
   - [-NAVER](https://m.search.naver.com/search.naver?sm=mtb_sug.top&where=m&query=%ED%88%AC%EA%B9%9D%EC%8A%A4&oquery=%EA%B0%95%EC%8B%9D%EB%8B%B9&tqi=TBmMhdpVuqwssae9kodssssssJd-116357&tab=&qdt=0&acq=%ED%88%AC%EA%B9%9D%EC%8A%A4&acr=2)
 
-[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink")
-[Category:身體交換題材電視劇](https://zh.wikipedia.org/wiki/Category:身體交換題材電視劇 "wikilink")
-[Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink")
-[Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink")
-[Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
+[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink") [Category:身體交換題材電視劇](https://zh.wikipedia.org/wiki/Category:身體交換題材電視劇 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
 
-1.  [曹政奭加盟《Two Cops》
-    這次不玩傲嬌變刑警！ooo人設太新奇](http://www.koreastardaily.com/tc/news/95449)
-2.  [MBC Global Media
-    中文介紹](http://content.mbc.co.kr/program/drama/__icsFiles/afieldfile/2017/12/07/twoccaps.pdf)
+1.  [曹政奭加盟《Two Cops》 這次不玩傲嬌變刑警！ooo人設太新奇](http://www.koreastardaily.com/tc/news/95449)
+2.  [MBC Global Media 中文介紹](http://content.mbc.co.kr/program/drama/__icsFiles/afieldfile/2017/12/07/twoccaps.pdf)
 3.  第20集卓在熙手上拿著的身分資料
 4.
 5.

@@ -1,6 +1,4 @@
-local p = {} local origArgs local error = require( 'Module:Error' )
-local element = {} local lib_arg = {} local strings = require(
-'Module:String' ) local element_data = {} function p.formula(frame)
+local p = {} local origArgs local error = require( 'Module:Error' ) local element = {} local lib_arg = {} local strings = require( 'Module:String' ) local element_data = {} function p.formula(frame)
 
 `   -- For calling from #invoke.`
 `   local args`
@@ -128,8 +126,7 @@ function put_elements(element_name, count)
 `   local check_group = mw.ustring.gsub(element_name,"`<官能基/>`","")`
 `   if element_name ~= check_group then`
 `       if( tonumber(count) ~= nil and tonumber(count) > 1 )then`
-`           body = body .. '(' .. check_group .. ')' .. "`<sub>`"``
- ``..``   ``tostring(count)``   ``..``   ``"`</sub>`"`
+`           body = body .. '(' .. check_group .. ')' .. "`<sub>`"``   ``..``   ``tostring(count)``   ``..``   ``"`</sub>`"`
 `       else body = body .. check_group end`
 `   else`
 `       local number = 1 if tonumber(count) ~= nil then number = tonumber(count) end`
@@ -163,11 +160,9 @@ function p._formula(args)
 `               else if(number==-1)then`
 `                   body = body .. '`<sup>`-`</sup>`'`
 `               else if(number>0)then`
-`                   body = body .. '`<sup>`'..``   ``number``
- ``..'+`</sup>`'`
+`                   body = body .. '`<sup>`'..``   ``number``   ``..'+`</sup>`'`
 `               else if(number<0)then`
-`                   body = body .. '`<sup>`'..``   ``-number``
- ``..'−`</sup>`'`
+`                   body = body .. '`<sup>`'..``   ``-number``   ``..'−`</sup>`'`
 `               end end end end`
 `           end end end`
 `       else`
@@ -183,8 +178,7 @@ function p._formula(args)
 `   end`
 `   if(link and link ~= '' or link == 'nolink')then`
 `       if(link ~= '#' and link ~= 'nolink')then`
-`           body = '`[`'``   ``..``   ``body``
- ``..'`](https://zh.wikipedia.org/wiki/'_.._link_.._' "wikilink")`'`
+`           body = '`[`'``   ``..``   ``body``   ``..'`](https://zh.wikipedia.org/wiki/'_.._link_.._' "wikilink")`'`
 `       end`
 `   end`
 `   return body`
@@ -227,11 +221,9 @@ function p._reaction(args)
 `               elseif(number==-1)then`
 `                   body = body .. '`<sup>`-`</sup>`'`
 `               elseif(number>0)then`
-`                   body = body .. '`<sup>`'..``   ``number``
- ``..'+`</sup>`'`
+`                   body = body .. '`<sup>`'..``   ``number``   ``..'+`</sup>`'`
 `               elseif(number<0)then`
-`                   body = body .. '`<sup>`'..``   ``-number``
- ``..'−`</sup>`'`
+`                   body = body .. '`<sup>`'..``   ``-number``   ``..'−`</sup>`'`
 `               end`
 `           else`
 `               body = last .. x .. body `

@@ -1,4 +1,4 @@
-**LIR**，[香港](../Page/香港.md "wikilink")[流行樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")，成員共有四人，由[松岡李那和](../Page/松岡李那.md "wikilink")[王友良](../Page/王友良.md "wikilink")、[李礎業](../Page/李礎業.md "wikilink")、[鄧佑剛組成](https://zh.wikipedia.org/wiki/鄧佑剛 "wikilink")\[1\]\[2\]\[3\]\[4\]。
+**LIR**，[香港](../Page/香港.md "wikilink")[流行樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")，成員共有四人，由[松岡李那](../Page/松岡李那.md "wikilink")和[王友良](../Page/王友良.md "wikilink")、[李礎業](../Page/李礎業.md "wikilink")、[鄧佑剛組成](https://zh.wikipedia.org/wiki/鄧佑剛 "wikilink")\[1\]\[2\]\[3\]\[4\]。
 
 ## 團名由來
 
@@ -6,7 +6,7 @@
 
 ## 出道歷程
 
-2017年5月9日舉辦[迷你專輯發行記者會](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，臺灣演員[魏蔓到場祝賀](../Page/魏蔓.md "wikilink")，官方也公開新歌《溫泉》的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")\[6\]。
+2017年5月9日舉辦[迷你專輯發行記者會](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，臺灣演員[魏蔓](../Page/魏蔓.md "wikilink")到場祝賀，官方也公開新歌《溫泉》的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")\[6\]。
 
 ## 音樂
 
@@ -35,9 +35,7 @@
 
 ## 參考文獻
 
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
-[Category:香港演唱團體](https://zh.wikipedia.org/wiki/Category:香港演唱團體 "wikilink")
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
+[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:香港演唱團體](https://zh.wikipedia.org/wiki/Category:香港演唱團體 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
 
 1.
 2.

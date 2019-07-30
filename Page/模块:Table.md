@@ -1,12 +1,8 @@
 local p = {}
 
-\-- A number of functions, most of them imported from
-[wikt:Module:table](https://zh.wikipedia.org/wiki/wikt:Module:table "wikilink"),
-a -- spinoff of
-[Module:TableTools](https://zh.wikipedia.org/wiki/Module:TableTools "wikilink").
+\-- A number of functions, most of them imported from [wikt:Module:table](https://zh.wikipedia.org/wiki/wikt:Module:table "wikilink"), a -- spinoff of [Module:TableTools](https://zh.wikipedia.org/wiki/Module:TableTools "wikilink").
 
-local libraryUtil = require('libraryUtil') local checkType =
-libraryUtil.checkType local checkTypeMulti = libraryUtil.checkTypeMulti
+local libraryUtil = require('libraryUtil') local checkType = libraryUtil.checkType local checkTypeMulti = libraryUtil.checkTypeMulti
 
 local function _check(funcName, expectType)
 
@@ -26,10 +22,7 @@ local function _check(funcName, expectType)
 
 end
 
-\--[Returns a list of the keys in a table, sorted using either a default
-comparison function or a custom keySort
-function.](https://zh.wikipedia.org/wiki/Returns_a_list_of_the_keys_in_a_table,_sorted_using_either_a_default_comparison_function_or_a_custom_keySort_function. "wikilink")
-function p.keysToList(t, keySort, checked)
+\--[Returns a list of the keys in a table, sorted using either a default comparison function or a custom keySort function.](https://zh.wikipedia.org/wiki/Returns_a_list_of_the_keys_in_a_table,_sorted_using_either_a_default_comparison_function_or_a_custom_keySort_function. "wikilink") function p.keysToList(t, keySort, checked)
 
 `   if not checked then`
 `       local check = _check('keysToList')`
@@ -63,11 +56,7 @@ function p.keysToList(t, keySort, checked)
 
 end
 
-\--[Iterates through a table, with the keys sorted using the keysToList
-function. If there are only numerical keys, sparseIpairs is probably
-more
-efficient.](https://zh.wikipedia.org/wiki/Iterates_through_a_table,_with_the_keys_sorted_using_the_keysToList_function._If_there_are_only_numerical_keys,_sparseIpairs_is_probably_more_efficient. "wikilink")
-function p.sortedPairs(t, keySort)
+\--[Iterates through a table, with the keys sorted using the keysToList function. If there are only numerical keys, sparseIpairs is probably more efficient.](https://zh.wikipedia.org/wiki/Iterates_through_a_table,_with_the_keys_sorted_using_the_keysToList_function._If_there_are_only_numerical_keys,_sparseIpairs_is_probably_more_efficient. "wikilink") function p.sortedPairs(t, keySort)
 
 `   local check = _check('keysToList')`
 `   check(1, t, 'table')`
@@ -88,10 +77,7 @@ function p.sortedPairs(t, keySort)
 
 end
 
-\--[Returns true if all keys in the table are consecutive integers
-starting at 1.
---](https://zh.wikipedia.org/wiki/Returns_true_if_all_keys_in_the_table_are_consecutive_integers_starting_at_1._-- "wikilink")
-function p.isArray(t)
+\--[Returns true if all keys in the table are consecutive integers starting at 1. --](https://zh.wikipedia.org/wiki/Returns_true_if_all_keys_in_the_table_are_consecutive_integers_starting_at_1._-- "wikilink") function p.isArray(t)
 
 `   checkType("isArray", 1, t, "table")`
 `   `
@@ -106,8 +92,7 @@ function p.isArray(t)
 
 end
 
-\-- { "a", "b", "c" } -\> { a = 1, b = 2, c = 3 } function
-p.invert(array)
+\-- { "a", "b", "c" } -\> { a = 1, b = 2, c = 3 } function p.invert(array)
 
 `   checkType("invert", 1, array, "table")`
 `   `
@@ -137,9 +122,7 @@ end
 
 end
 
-\--[Recursive deep copy
-function](https://zh.wikipedia.org/wiki/Recursive_deep_copy_function "wikilink")
-function p.deepCopy(orig, noMetatable)
+\--[Recursive deep copy function](https://zh.wikipedia.org/wiki/Recursive_deep_copy_function "wikilink") function p.deepCopy(orig, noMetatable)
 
 `   local orig_type = type(orig)`
 `   local copy`
@@ -158,11 +141,7 @@ function p.deepCopy(orig, noMetatable)
 
 end
 
-\--[Concatenates all values in the table that are indexed by a number,
-in order. sparseConcat{ a, nil, c, d } =\> "acd" sparseConcat{ nil, b,
-c, d } =\>
-"bcd"](https://zh.wikipedia.org/wiki/Concatenates_all_values_in_the_table_that_are_indexed_by_a_number,_in_order._sparseConcat{_a,_nil,_c,_d_}_=\>_"acd"_sparseConcat{_nil,_b,_c,_d_}_=\>_"bcd" "wikilink")
-function p.sparseConcat(t, sep, i, j)
+\--[Concatenates all values in the table that are indexed by a number, in order. sparseConcat{ a, nil, c, d } =\> "acd" sparseConcat{ nil, b, c, d } =\> "bcd"](https://zh.wikipedia.org/wiki/Concatenates_all_values_in_the_table_that_are_indexed_by_a_number,_in_order._sparseConcat{_a,_nil,_c,_d_}_=\>_"acd"_sparseConcat{_nil,_b,_c,_d_}_=\>_"bcd" "wikilink") function p.sparseConcat(t, sep, i, j)
 
 `   local list = {}`
 `   `

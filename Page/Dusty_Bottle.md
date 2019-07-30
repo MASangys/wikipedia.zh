@@ -1,8 +1,4 @@
-樂隊**Dusty Bottle**
-是一支於2016年組成的香港樂隊，由鍵琴手JNY(JNYBeatz)、結他手Jeff、低音結他手Matthew，以及鼓手Kay組成。
-樂隊於2018年加盟 [環球唱片 (香港)旗下廠牌](../Page/環球唱片_\(香港\).md "wikilink") [Brave
-Nusic](https://zh.wikipedia.org/wiki/Brave_Nusic "wikilink")。2018年推出四支單曲，由四位不同的女歌手作為主音。
-2019年，女主音Kerryta正式加入。
+樂隊**Dusty Bottle** 是一支於2016年組成的香港樂隊，由鍵琴手JNY(JNYBeatz)、結他手Jeff、低音結他手Matthew，以及鼓手Kay組成。 樂隊於2018年加盟 [環球唱片 (香港)旗下廠牌](../Page/環球唱片_\(香港\).md "wikilink") [Brave Nusic](https://zh.wikipedia.org/wiki/Brave_Nusic "wikilink")。2018年推出四支單曲，由四位不同的女歌手作為主音。 2019年，女主音Kerryta正式加入。
 
 ## 音樂作品
 
@@ -12,8 +8,7 @@ Nusic](https://zh.wikipedia.org/wiki/Brave_Nusic "wikilink")。2018年推出四�
   - 2018年：《How Could You?》(feat. Moon)
   - 2018年：《Forever Summer》(feat. [Jace](../Page/陳凱詠.md "wikilink"))
   - 2018年：《Don’t You Know》(feat. [Sophy](../Page/王嘉儀.md "wikilink"))
-  - 2018年：《That Shit Raw》(feat. [Shimica
-    Wong](../Page/黃凱妮.md "wikilink"))
+  - 2018年：《That Shit Raw》(feat. [Shimica Wong](../Page/黃凱妮.md "wikilink"))
 
 ## 派台歌曲成績
 

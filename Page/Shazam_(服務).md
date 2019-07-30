@@ -12,13 +12,7 @@ Shazam娛樂有限公司於1999年由克里斯·巴頓、菲利浦·英格布雷
 ## 外部連結
 
   -
-[Category:倫敦公司](https://zh.wikipedia.org/wiki/Category:倫敦公司 "wikilink")
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
-[Category:黑莓软件](https://zh.wikipedia.org/wiki/Category:黑莓软件 "wikilink")
-[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
-[Category:1999年成立的公司](https://zh.wikipedia.org/wiki/Category:1999年成立的公司 "wikilink")
-[Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink")
-[Category:Modern_UI應用程式](https://zh.wikipedia.org/wiki/Category:Modern_UI應用程式 "wikilink")
+[Category:倫敦公司](https://zh.wikipedia.org/wiki/Category:倫敦公司 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:黑莓软件](https://zh.wikipedia.org/wiki/Category:黑莓软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:1999年成立的公司](https://zh.wikipedia.org/wiki/Category:1999年成立的公司 "wikilink") [Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink") [Category:Modern_UI應用程式](https://zh.wikipedia.org/wiki/Category:Modern_UI應用程式 "wikilink")
 
 1.
 2.

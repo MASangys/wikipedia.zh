@@ -1,5 +1,4 @@
-《[Spark](https://zh.wikipedia.org/wiki/Spark "wikilink")》（）是羅鐘贊、南寶拉主演的網劇，由[Cube
-娛樂與](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[iHQ製作](../Page/SidusHQ.md "wikilink")，7月25日起，每周一至周四於[Naver TVcast播出](https://zh.wikipedia.org/wiki/Naver "wikilink")，共12集。
+《[Spark](https://zh.wikipedia.org/wiki/Spark "wikilink")》（）是羅鐘贊、南寶拉主演的網劇，由[Cube 娛樂與](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[iHQ製作](../Page/SidusHQ.md "wikilink")，7月25日起，每周一至周四於[Naver TVcast播出](https://zh.wikipedia.org/wiki/Naver "wikilink")，共12集。
 
 ## 劇情
 
@@ -13,8 +12,7 @@
 
   - [南寶拉](../Page/南寶拉.md "wikilink") 飾演 宋河娜
   - [羅鐘贊](../Page/羅鐘贊.md "wikilink") 飾演 尹可溫
-  - [Yeo One](https://zh.wikipedia.org/wiki/呂暢九 "wikilink")
-    ([Pentagon](../Page/Pentagon_\(男子組合\).md "wikilink"))飾演 知勝
+  - [Yeo One](https://zh.wikipedia.org/wiki/呂暢九 "wikilink") ([Pentagon](../Page/Pentagon_\(男子組合\).md "wikilink"))飾演 知勝
   - [朱多英](../Page/朱多英.md "wikilink") 飾演 元彩京
   - [朴真珠](../Page/朴真珠.md "wikilink") 飾演 楊真順
   - 金基斗 飾演 奉九
@@ -38,24 +36,15 @@
 ## 外部連結
 
   - [Spark 官方網站 (1-12集)](http://tvcast.naver.com/spark)
-  - [Spark OST
-    Part 1](http://www.melon.com/album/detail.htm?albumId=2699945)
-  - [Spark OST
-    Part 2](http://www.melon.com/album/detail.htm?albumId=2701435)
+  - [Spark OST Part 1](http://www.melon.com/album/detail.htm?albumId=2699945)
+  - [Spark OST Part 2](http://www.melon.com/album/detail.htm?albumId=2701435)
   - [Spark 網路見面會](http://www.vlive.tv/video/11202)
-  - [Asia Dramatic TV
-    日本播放](https://twitter.com/AsiaDramaticTV/status/832536267560660994)
+  - [Asia Dramatic TV 日本播放](https://twitter.com/AsiaDramaticTV/status/832536267560660994)
 
 ## 參考資料
 
-[Category:2016年韩国网络剧](https://zh.wikipedia.org/wiki/Category:2016年韩国网络剧 "wikilink")
-[Category:偶像題材電視劇](https://zh.wikipedia.org/wiki/Category:偶像題材電視劇 "wikilink")
-[Category:韓國科幻劇](https://zh.wikipedia.org/wiki/Category:韓國科幻劇 "wikilink")
-[Category:PENTAGON](https://zh.wikipedia.org/wiki/Category:PENTAGON "wikilink")
+[Category:2016年韩国网络剧](https://zh.wikipedia.org/wiki/Category:2016年韩国网络剧 "wikilink") [Category:偶像題材電視劇](https://zh.wikipedia.org/wiki/Category:偶像題材電視劇 "wikilink") [Category:韓國科幻劇](https://zh.wikipedia.org/wiki/Category:韓國科幻劇 "wikilink") [Category:PENTAGON](https://zh.wikipedia.org/wiki/Category:PENTAGON "wikilink")
 
 1.  [Spark](http://kpopn.niusnews.com/=K25766x0)  2015年7月25日
-2.  [男團PENTAGON成員YEO
-    ONE出演網路劇Spark預告公開](http://www.koreastardaily.com/tc/news/81362)
-    2015年7月17日
-3.  [南寶拉將出演網絡劇《Spark》](http://www.hanjumi.net/hanjuxinwen/39816)
-    2015年5月25日
+2.  [男團PENTAGON成員YEO ONE出演網路劇Spark預告公開](http://www.koreastardaily.com/tc/news/81362) 2015年7月17日
+3.  [南寶拉將出演網絡劇《Spark》](http://www.hanjumi.net/hanjuxinwen/39816) 2015年5月25日

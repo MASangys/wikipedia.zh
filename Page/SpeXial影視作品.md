@@ -1,10 +1,10 @@
-本條目主要收錄[臺灣](../Page/臺灣.md "wikilink")[男子](https://zh.wikipedia.org/wiki/男子 "wikilink")[偶像](https://zh.wikipedia.org/wiki/偶像 "wikilink")[團體](https://zh.wikipedia.org/wiki/團體 "wikilink")[SpeXial的相關影視作品](../Page/SpeXial.md "wikilink")，其中包含部分衍生團體的作品记录。
+本條目主要收錄[臺灣](../Page/臺灣.md "wikilink")[男子](https://zh.wikipedia.org/wiki/男子 "wikilink")[偶像](https://zh.wikipedia.org/wiki/偶像 "wikilink")[團體](https://zh.wikipedia.org/wiki/團體 "wikilink")[SpeXial](../Page/SpeXial.md "wikilink")的相關影視作品，其中包含部分衍生團體的作品记录。
 
-關於成員[宏正在](https://zh.wikipedia.org/wiki/羅弘証 "wikilink")[武虎將時期所參與演出的作品](../Page/武虎將.md "wikilink")，詳見[武虎將條目](../Page/武虎將.md "wikilink")。
+關於成員[宏正在](https://zh.wikipedia.org/wiki/羅弘証 "wikilink")[武虎將](../Page/武虎將.md "wikilink")時期所參與演出的作品，詳見[武虎將](../Page/武虎將.md "wikilink")條目。
 
 關於成員[偉晉在星光時期參賽紀錄](https://zh.wikipedia.org/wiki/黃偉晉 "wikilink")，詳見[超級星光大道6條目](https://zh.wikipedia.org/wiki/超級星光大道6 "wikilink")。
 
-關於成員[明-{杰}-和](https://zh.wikipedia.org/wiki/許名傑 "wikilink")[子閎的](../Page/子閎.md "wikilink")[YouTube頻道](../Page/YouTube.md "wikilink")，詳見[龍兄虎弟](https://www.youtube.com/channel/UComUQFkhd4jA2hLfJZ1zBKg)
+關於成員[明-{杰}-和](https://zh.wikipedia.org/wiki/許名傑 "wikilink")[子閎](../Page/子閎.md "wikilink")的[YouTube](../Page/YouTube.md "wikilink")頻道，詳見[龍兄虎弟](https://www.youtube.com/channel/UComUQFkhd4jA2hLfJZ1zBKg)
 
 ## 連續劇
 
@@ -321,7 +321,7 @@
 </tr>
 <tr class="even">
 <td><p>11月6日</p></td>
-<td><p><a href="../Page/有喜歡的人.md" title="wikilink">有喜歡的人台-{湾}-篇 心有所屬</a></p></td>
+<td><p><a href="../Page/有喜歡的人.md" title="wikilink">有喜歡的人 心有所屬</a>台-{湾}-篇</p></td>
 <td><p><a href="../Page/WakuWaku_Japan.md" title="wikilink">WakuWaku Japan</a><br />
 <a href="../Page/富士電視台.md" title="wikilink">富士電視台</a></p></td>
 <td><p><a href="../Page/Teddy_(SpeXial).md" title="wikilink">Teddy</a></p></td>
@@ -437,15 +437,44 @@
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
+<td><p>|5月5日</p></td>
+<td><p><a href="../Page/月村歡迎你.md" title="wikilink">月村歡迎你</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台視" title="wikilink">台視</a><br />
+<a href="../Page/Vidol.md" title="wikilink">Vidol</a></p></td>
+<td><p><a href="../Page/風田.md" title="wikilink">風田</a></p></td>
+<td><p>-</p></td>
+<td><p>客串（第集）</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月6日</p></td>
+<td><p><a href="../Page/LINE_TV.md" title="wikilink">LINE TV</a><br />
+<a href="https://zh.wikipedia.org/wiki/愛奇藝" title="wikilink">愛奇藝</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>5月14日</p></td>
 <td><p><a href="../Page/90後的我們.md" title="wikilink">90後的我們</a></p></td>
 <td><p><a href="../Page/八大綜合台.md" title="wikilink">八大綜合台</a><br />
 <a href="../Page/KKTV.md" title="wikilink">KKTV</a></p></td>
 <td><p><a href="../Page/風田.md" title="wikilink">風田</a></p></td>
-<td><p>風田</p></td>
-<td><p>客串（第集）</p></td>
+<td><p>豐田我孫子</p></td>
+<td><p>客串（第34(腳)、35~40集）</p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p>7月22日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/七月與安生_(電視劇)" title="wikilink">七月與安生</a></p></td>
+<td><p><a href="../Page/爱奇艺.md" title="wikilink">爱奇艺</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/熊梓淇" title="wikilink">Dylan</a></p></td>
+<td><p>蘇家明</p></td>
+<td><p>男主角</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>待播</p></td>
 <td><p><a href="../Page/對的時間對的人.md" title="wikilink">對的時間對的人</a></p></td>
 <td></td>
@@ -454,7 +483,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/熊梓淇" title="wikilink">Dylan</a></p></td>
 <td><p>江安瀾</p></td>
 <td><p>男主角</p></td>
@@ -463,21 +492,12 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/愛情的開關" title="wikilink">愛情的開關</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/湖南衛視" title="wikilink">湖南衛視</a><br />
 <a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/熊梓淇" title="wikilink">Dylan</a></p></td>
 <td><p>周衍照</p></td>
-<td><p>男主角</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/七月與安生_(電視劇)" title="wikilink">七月與安生</a></p></td>
-<td><p><a href="../Page/爱奇艺.md" title="wikilink">爱奇艺</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/熊梓淇" title="wikilink">Dylan</a></p></td>
-<td><p>蘇家明</p></td>
 <td><p>男主角</p></td>
 <td></td>
 <td></td>
@@ -702,7 +722,7 @@
 </tr>
 <tr class="even">
 <td><p>6月15日</p></td>
-<td><p><a href="../Page/刺客列傳.md" title="wikilink">刺客列傳2 龍血玄黃</a></p></td>
+<td><p><a href="../Page/刺客列傳.md" title="wikilink">刺客列傳 龍血玄黃</a>2</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/搜狐視頻" title="wikilink">搜狐視頻</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/熊梓淇" title="wikilink">Dylan</a></p></td>
 <td><p>仲堃儀</p></td>
@@ -1012,7 +1032,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/奈何BOSS要娶我.md" title="wikilink">奈何BOSS要娶我第二季</a></p></td>
+<td><p><a href="../Page/奈何BOSS要娶我.md" title="wikilink">奈何BOSS要娶我</a>第二季</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/搜狐視頻" title="wikilink">搜狐視頻</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/易恩" title="wikilink">易恩</a></p></td>
 <td><p>楚炎</p></td>
@@ -1115,7 +1135,7 @@
 | ---------- | ---------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------ | --- | --- |
 | 首播日期       | 電影名稱                                     | 首播頻道                                                                                       | 出演成員                           | 角色  | 性質  |
 | 2015年3月21日 | [傑克的爺爺](../Page/傑克的爺爺.md "wikilink")     | [公視HD台](https://zh.wikipedia.org/wiki/公視HD台 "wikilink")、[公視主頻](../Page/公視主頻.md "wikilink") | [子閎](../Page/子閎.md "wikilink") | 林子閎 | 男主角 |
-| 2017年1月1日  | [麥呆的劈腿日記](../Page/麥呆的劈腿日記.md "wikilink") | [緯來電影台](https://zh.wikipedia.org/wiki/緯來電影台 "wikilink")                                    | [子閎](../Page/子閎.md "wikilink") | 麥威  | 男主角 |
+| 2017年1月1日  | [麥呆的劈腿日記](../Page/麥呆的劈腿日記.md "wikilink") | [緯來電影台](../Page/緯來電影台.md "wikilink")                                                       | [子閎](../Page/子閎.md "wikilink") | 麥威  | 男主角 |
 
 ### 網絡電影
 
@@ -1642,7 +1662,8 @@
 2019年2月21日<br />
 2019年3月19日<br />
 2019年4月2日<br />
-2019年4月23日}}</p></td>
+2019年4月23日<br />
+2019年7月9日}}</p></td>
 <td><p><a href="../Page/風田.md" title="wikilink">風田</a></p></td>
 <td><p>「風田好瘋癲」<br />
 單元主持</p></td>
@@ -1786,7 +1807,10 @@
 2019年6月6日<br />
 2019年6月7日<br />
 2019年6月11日<br />
-2019年6月19日}}</p></td>
+2019年6月19日<br />
+2019年6月26日<br />
+2019年6月27日<br />
+2019年7月12日}}</p></td>
 <td><p><a href="../Page/風田.md" title="wikilink">風田</a></p></td>
 <td></td>
 <td></td>
@@ -2150,7 +2174,9 @@
 2019年4月22日<br />
 2019年5月6日<br />
 2019年5月20日<br />
-2019年6月3日}}</p></td>
+2019年6月3日<br />
+2019年7月1日<br />
+2019年7月8日}}</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/17app" title="wikilink">17app</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">明-{杰}-</a></p></td>
 </tr>
@@ -2187,8 +2213,4 @@
   -
   -
   -
-[Category:SpeXial](https://zh.wikipedia.org/wiki/Category:SpeXial "wikilink")
-[Category:臺灣男子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣男子演唱團體 "wikilink")
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
-[Category:華納音樂集團旗下樂團](https://zh.wikipedia.org/wiki/Category:華納音樂集團旗下樂團 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
+[Category:SpeXial](https://zh.wikipedia.org/wiki/Category:SpeXial "wikilink") [Category:臺灣男子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣男子演唱團體 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:華納音樂集團旗下樂團](https://zh.wikipedia.org/wiki/Category:華納音樂集團旗下樂團 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")

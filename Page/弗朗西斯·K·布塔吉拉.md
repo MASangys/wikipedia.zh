@@ -6,6 +6,4 @@
 
 ## 參考資料
 
-[分類:哈佛法學院校友](https://zh.wikipedia.org/wiki/分類:哈佛法學院校友 "wikilink")
-[分類:倫敦大學亞非學院校友](https://zh.wikipedia.org/wiki/分類:倫敦大學亞非學院校友 "wikilink")
-[分類:達累斯薩拉姆大學校友](https://zh.wikipedia.org/wiki/分類:達累斯薩拉姆大學校友 "wikilink")
+[分類:哈佛法學院校友](https://zh.wikipedia.org/wiki/分類:哈佛法學院校友 "wikilink") [分類:倫敦大學亞非學院校友](https://zh.wikipedia.org/wiki/分類:倫敦大學亞非學院校友 "wikilink") [分類:達累斯薩拉姆大學校友](https://zh.wikipedia.org/wiki/分類:達累斯薩拉姆大學校友 "wikilink")

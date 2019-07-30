@@ -1,14 +1,10 @@
-《**Beautiful
-Liar**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX子團體](../Page/VIXX.md "wikilink")[VIXX
-LR首張韓語迷你專輯](../Page/VIXX_LR.md "wikilink")，於2015年8月17日發行，主打歌曲為專輯同名歌曲《Beautiful
-Liar》\[1\]。
+《**Beautiful Liar**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX](../Page/VIXX.md "wikilink")子團體[VIXX LR首張韓語迷你專輯](../Page/VIXX_LR.md "wikilink")，於2015年8月17日發行，主打歌曲為專輯同名歌曲《Beautiful Liar》\[1\]。
 
 ## 背景
 
-2015年8月5日，[Jellyfish娛樂突然在VIXX的官方網站放置一個計時器](../Page/Jellyfish娛樂.md "wikilink")\[2\]，後來在8月7日證實是由VIXX成員[LEO與](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")[RAVI將組成子團體進行打歌活動](../Page/金元植.md "wikilink")\[3\]。
+2015年8月5日，[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")突然在VIXX的官方網站放置一個計時器\[2\]，後來在8月7日證實是由VIXX成員[LEO與](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")[RAVI將組成子團體進行打歌活動](../Page/金元植.md "wikilink")\[3\]。
 
-次日（8月8日），官方公布子團體組合名稱為「VIXX LR」，會於8月17日推出首張迷你專輯，以《Beautiful
-Liar》作主打曲；同時也釋放一張概念照片\[4\]。到8月10日，曲目完整名單出爐\[5\]。
+次日（8月8日），官方公布子團體組合名稱為「VIXX LR」，會於8月17日推出首張迷你專輯，以《Beautiful Liar》作主打曲；同時也釋放一張概念照片\[4\]。到8月10日，曲目完整名單出爐\[5\]。
 
 專輯發行同日，VIXX LR在首爾YES24進行專輯發行演唱會\[6\]。
 
@@ -126,9 +122,7 @@ Liar》作主打曲；同時也釋放一張概念照片\[4\]。到8月10日，�
 
 ## 参考文献
 
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
-[Category:VIXX音樂專輯](https://zh.wikipedia.org/wiki/Category:VIXX音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:VIXX音樂專輯](https://zh.wikipedia.org/wiki/Category:VIXX音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

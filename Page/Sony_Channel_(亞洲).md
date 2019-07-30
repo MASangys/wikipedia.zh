@@ -76,5 +76,4 @@
 
   -
   -
-[Category:索尼影視電視公司](https://zh.wikipedia.org/wiki/Category:索尼影視電視公司 "wikilink")
-[Category:索尼影視娛樂](https://zh.wikipedia.org/wiki/Category:索尼影視娛樂 "wikilink")
+[Category:索尼影視電視公司](https://zh.wikipedia.org/wiki/Category:索尼影視電視公司 "wikilink") [Category:索尼影視娛樂](https://zh.wikipedia.org/wiki/Category:索尼影視娛樂 "wikilink")

@@ -1,4 +1,4 @@
-《**Sunday好戲王**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司繼](../Page/電視廣播有限公司.md "wikilink")《[Sunday扮嘢王](../Page/Sunday扮嘢王.md "wikilink")》、《[Sunday靚聲王](../Page/Sunday靚聲王.md "wikilink")》後延續週日「王者」系列的全新遊戲節目。由[森美](https://zh.wikipedia.org/wiki/森美 "wikilink")、[陳敏之擔任主持](../Page/陳敏之.md "wikilink")，於2016年1月17日起，逢星期日20:30-21:30於[翡翠台播出](../Page/翡翠台.md "wikilink")，並於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。
+《**Sunday好戲王**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")繼《[Sunday扮嘢王](../Page/Sunday扮嘢王.md "wikilink")》、《[Sunday靚聲王](../Page/Sunday靚聲王.md "wikilink")》後延續週日「王者」系列的全新遊戲節目。由[森美](https://zh.wikipedia.org/wiki/森美 "wikilink")、[陳敏之](../Page/陳敏之.md "wikilink")擔任主持，於2016年1月17日起，逢星期日20:30-21:30於[翡翠台](../Page/翡翠台.md "wikilink")播出，並於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。
 
 ## 節目簡介
 
@@ -255,7 +255,7 @@
 
   - 睇你點死
 
-      - 每位「好戲王」要根據主持人[森美或](https://zh.wikipedia.org/wiki/森美 "wikilink")[陳敏之的指示](../Page/陳敏之.md "wikilink")，演出不同死亡方法，表現最出色的「好戲王」便會勝出。
+      - 每位「好戲王」要根據主持人[森美或](https://zh.wikipedia.org/wiki/森美 "wikilink")[陳敏之](../Page/陳敏之.md "wikilink")的指示，演出不同死亡方法，表現最出色的「好戲王」便會勝出。
 
   - 講一套 做一套
 
@@ -263,8 +263,7 @@
 
   - 超級遙控戲
 
-      - 每位「好戲王」要根據主持人[森美或](https://zh.wikipedia.org/wiki/森美 "wikilink")[陳敏之的指示](../Page/陳敏之.md "wikilink")，把正常的戲份加上「Pause」、「Reverse」、「Fast
-        Forward」、「Slow Motion」等的特別後製效果，表現最出色的「好戲王」便會勝出。
+      - 每位「好戲王」要根據主持人[森美或](https://zh.wikipedia.org/wiki/森美 "wikilink")[陳敏之](../Page/陳敏之.md "wikilink")的指示，把正常的戲份加上「Pause」、「Reverse」、「Fast Forward」、「Slow Motion」等的特別後製效果，表現最出色的「好戲王」便會勝出。
 
   - 極速變臉王
 
@@ -276,8 +275,7 @@
 
   - 扮friend食老虎
 
-      - 遊戲玩法類似電台節目「[早霸王](../Page/早霸王.md "wikilink")」的經典遊戲——「飛砂風中轉 -
-        古惑的針」，每位「好戲王」會參與一個1分鐘的討論當中，在討論當中要說有關一位指定人物的話題。他們會先收到指示，而當中有一位會是只得兩個提示，而沒有直接表明誰是討論中的指定人物。在討論過後，大家要估出誰是當中沒有手持人名的「好戲王」，而最快猜出誰是沒有手持人名的「好戲王」的參加者或到最後也沒有被識穿是沒有手持人名的「好戲王」的話，便會勝出。此遊戲當天評判也會加入參與當中。
+      - 遊戲玩法類似電台節目「[早霸王](../Page/早霸王.md "wikilink")」的經典遊戲——「飛砂風中轉 - 古惑的針」，每位「好戲王」會參與一個1分鐘的討論當中，在討論當中要說有關一位指定人物的話題。他們會先收到指示，而當中有一位會是只得兩個提示，而沒有直接表明誰是討論中的指定人物。在討論過後，大家要估出誰是當中沒有手持人名的「好戲王」，而最快猜出誰是沒有手持人名的「好戲王」的參加者或到最後也沒有被識穿是沒有手持人名的「好戲王」的話，便會勝出。此遊戲當天評判也會加入參與當中。
 
   - 另類好戲王
 
@@ -303,8 +301,7 @@
 
 ## 電視節目的變遷
 
-[Category:2016年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2016年無綫電視節目 "wikilink")
-[Category:無綫電視遊戲節目](https://zh.wikipedia.org/wiki/Category:無綫電視遊戲節目 "wikilink")
+[Category:2016年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2016年無綫電視節目 "wikilink") [Category:無綫電視遊戲節目](https://zh.wikipedia.org/wiki/Category:無綫電視遊戲節目 "wikilink")
 
 1.  宣傳劇集《[愛情食物鏈](../Page/愛情食物鏈.md "wikilink")》
 2.  宣傳劇集《[潮流教主](https://zh.wikipedia.org/wiki/潮流教主 "wikilink")》

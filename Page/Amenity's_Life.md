@@ -1,12 +1,8 @@
-《**Amenity's
-Life**》是[HOOKSOFT制作的一部](../Page/HOOKSOFT.md "wikilink")[Windows平台](https://zh.wikipedia.org/wiki/Windows "wikilink")[日本成人](../Page/日本成人遊戲.md "wikilink")[戀愛冒險游戏](https://zh.wikipedia.org/wiki/戀愛冒險游戏 "wikilink")，已於2016年12月22日發售\[1\]。已於2017年5月26日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Amenity's
-Life MiniFanDisc -レゾナ＆板野奏 Ver.-》。
+《**Amenity's Life**》是[HOOKSOFT](../Page/HOOKSOFT.md "wikilink")制作的一部[Windows平台](https://zh.wikipedia.org/wiki/Windows "wikilink")[日本成人](../Page/日本成人遊戲.md "wikilink")[戀愛冒險游戏](https://zh.wikipedia.org/wiki/戀愛冒險游戏 "wikilink")，已於2016年12月22日發售\[1\]。已於2017年5月26日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Amenity's Life MiniFanDisc -レゾナ＆板野奏 Ver.-》。
 
 ## 系統
 
-《Amenity's
-Life》作為一款[戀愛冒險游戏](https://zh.wikipedia.org/wiki/戀愛冒險游戏 "wikilink")，玩家會與遊戲中女主角互動以推動劇情發展。玩家在遊玩《Amenity's
-Life》時將會花費時間觀看出現在螢幕上的文字敘述、人物對話以及角色心理等，藉由這樣的方式除了讓故事獲得進展外，也可以與遊戲角色對話進行交流。玩家可以選擇不同選項，並隨著遊戲的進行而與女主角關係漸趨親密，甚至最後還有可能發生更加親密的關係。
+《Amenity's Life》作為一款[戀愛冒險游戏](https://zh.wikipedia.org/wiki/戀愛冒險游戏 "wikilink")，玩家會與遊戲中女主角互動以推動劇情發展。玩家在遊玩《Amenity's Life》時將會花費時間觀看出現在螢幕上的文字敘述、人物對話以及角色心理等，藉由這樣的方式除了讓故事獲得進展外，也可以與遊戲角色對話進行交流。玩家可以選擇不同選項，並隨著遊戲的進行而與女主角關係漸趨親密，甚至最後還有可能發生更加親密的關係。
 
 ## 故事
 
@@ -33,8 +29,7 @@ Life》時將會花費時間觀看出現在螢幕上的文字敘述、人物對�
 
 ## 音樂
 
-《Amenity's Life》的主題歌是由Ayumi演唱的《Love
-Loading\!\!\!》，片尾曲為[霜月遙演唱的](../Page/霜月遙.md "wikilink")《》，特別歌曲為[橋本美雪演唱的](../Page/橋本美雪.md "wikilink")《》。以上3首均由折倉俊則作曲和編曲，作詞\[5\]。
+《Amenity's Life》的主題歌是由Ayumi演唱的《Love Loading\!\!\!》，片尾曲為[霜月遙](../Page/霜月遙.md "wikilink")演唱的《》，特別歌曲為[橋本美雪](../Page/橋本美雪.md "wikilink")演唱的《》。以上3首均由折倉俊則作曲和編曲，作詞\[5\]。
 
 ## 評價
 
@@ -48,13 +43,7 @@ Loading\!\!\!》，片尾曲為[霜月遙演唱的](../Page/霜月遙.md "wikili
   - [PSV版官方網站](http://www.piacci.co.jp/GN/amenityslife/)GN Software
   - [MiniFanDisc官方網站](http://www.hook-net.jp/amenityslife/FD/index.html)HOOKSOFT
 
-
-[Category:2016年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2016年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
-[Category:萌擬人化題材作品](https://zh.wikipedia.org/wiki/Category:萌擬人化題材作品 "wikilink")
+[Category:2016年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2016年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:萌擬人化題材作品](https://zh.wikipedia.org/wiki/Category:萌擬人化題材作品 "wikilink")
 
 1.
 

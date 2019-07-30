@@ -1,10 +1,10 @@
-**布克爾·T與M.G.'s樂隊**（）是影響並塑造了與風格的[節奏藍調](../Page/节奏布鲁斯.md "wikilink")/[放克](../Page/放克.md "wikilink")[器樂搖滾樂團](../Page/器樂搖滾.md "wikilink")。樂團的原成員為（電子管風琴、鋼琴）、（吉他）、（貝斯）和（爵士鼓）。在1960年代，作為的錄音室樂團，他們參與了、[奧蒂斯·雷丁](../Page/奧蒂斯·雷丁.md "wikilink")、[比爾·威瑟斯](../Page/比爾·威瑟斯.md "wikilink")、、、、、[艾爾伯特·金等音樂人的上百首作品](../Page/艾尔伯特·金_\(音乐家\).md "wikilink")。他們也以自己的名義發布作品，其中最著名的便是1962年的熱門單曲〈〉。\[1\]身為一手創造Stax唱片獨特聲音的樂團，他們在當時最多產、最受崇敬和模仿的樂團之一。\[2\]\[3\]
+**布克爾·T與M.G.'s樂隊**（）是影響並塑造了與風格的[節奏藍調](../Page/节奏布鲁斯.md "wikilink")/[放克](../Page/放克.md "wikilink")[器樂搖滾](../Page/器樂搖滾.md "wikilink")樂團。樂團的原成員為（電子管風琴、鋼琴）、（吉他）、（貝斯）和（爵士鼓）。在1960年代，作為的錄音室樂團，他們參與了、[奧蒂斯·雷丁](../Page/奧蒂斯·雷丁.md "wikilink")、[比爾·威瑟斯](../Page/比爾·威瑟斯.md "wikilink")、、、、、[艾爾伯特·金等音樂人的上百首作品](../Page/艾尔伯特·金_\(音乐家\).md "wikilink")。他們也以自己的名義發布作品，其中最著名的便是1962年的熱門單曲〈〉。\[1\]身為一手創造Stax唱片獨特聲音的樂團，他們在當時最多產、最受崇敬和模仿的樂團之一。\[2\]\[3\]
 
 斯坦伯格在1965由取代，後者與樂團一起表演與錄製作品，直到2012年去世。傑克森則在1975年被謀殺，之後樂團先後替換了許多鼓手，包括、、和現任的史蒂夫·帕茲。\[4\]
 
 樂團於1992年入選[搖滾名人堂](https://zh.wikipedia.org/wiki/搖滾名人堂 "wikilink")、2008年被引入[田納西州](https://zh.wikipedia.org/wiki/田納西州 "wikilink")[納什維爾的](../Page/纳什维尔.md "wikilink")、和2012年入選。\[5\]
 
-在1960年代，[靈魂樂與](../Page/靈魂樂.md "wikilink")[孟菲斯音樂界被認為是](../Page/孟菲斯_\(田納西州\).md "wikilink")中最為保守的，而當時布克爾·T與M.G.'s樂隊因為先後擁有3名[白人成員](../Page/白人.md "wikilink")（斯坦伯格、克羅帕、鄧恩）而成為第一個的搖滾樂團。\[6\]
+在1960年代，[靈魂樂](../Page/靈魂樂.md "wikilink")與[孟菲斯音樂界被認為是](../Page/孟菲斯_\(田納西州\).md "wikilink")中最為保守的，而當時布克爾·T與M.G.'s樂隊因為先後擁有3名[白人](../Page/白人.md "wikilink")成員（斯坦伯格、克羅帕、鄧恩）而成為第一個的搖滾樂團。\[6\]
 
 ## 成員列表
 
@@ -12,8 +12,7 @@
 
 <!-- end list -->
 
-  - – 電子管風琴、鋼琴、鍵盤、貝斯、吉他
-    <small>(1962–1971、1975–1977、1986、1992–現在)</small>
+  - – 電子管風琴、鋼琴、鍵盤、貝斯、吉他 <small>(1962–1971、1975–1977、1986、1992–現在)</small>
 
   - – 吉他 <small>(1962–1971、1975–1977、1986、1992–現在)</small>
 
@@ -51,12 +50,7 @@
 
 ### 時間線
 
-{{\#tag:timeline| ImageSize = width:800 height:auto barincrement:25
-PlotArea = left:120 bottom:100 top:20 right:10 Alignbars = justify
-DateFormat = dd/mm/yyyy Period = from:01/06/1962 till:{{\#time:d/m/Y}}
-TimeAxis = orientation:horizontal format:yyyy Legend =
-orientation:vertical position:bottom columns:1 ScaleMajor = increment:5
-start:1965 ScaleMinor = increment:1 start:1963
+{{\#tag:timeline| ImageSize = width:800 height:auto barincrement:25 PlotArea = left:120 bottom:100 top:20 right:10 Alignbars = justify DateFormat = dd/mm/yyyy Period = from:01/06/1962 till:{{\#time:d/m/Y}} TimeAxis = orientation:horizontal format:yyyy Legend = orientation:vertical position:bottom columns:1 ScaleMajor = increment:5 start:1965 ScaleMinor = increment:1 start:1963
 
 Colors =
 
@@ -521,41 +515,22 @@ PlotData =
 
   - [「鴨子」唐納德·鄧恩的官方頁面](http://www.duckdunn.com)
 
-  - [2011年6月，布克爾·T·瓊斯在節目《Blues &
-    Soul》由皮特·路易斯的採訪](http://www.bluesandsoul.com/feature/679/booker_t_jones_stax_appeal/)
+  - [2011年6月，布克爾·T·瓊斯在節目《Blues & Soul》由皮特·路易斯的採訪](http://www.bluesandsoul.com/feature/679/booker_t_jones_stax_appeal/)
 
-  - ["'Green Onions' – The Greatest Single of all
-    Time"在PopMatters.com](http://www.popmatters.com/pm/column/109314-green-onions-the-greatest-single-of-all-time/)
+  - ["'Green Onions' – The Greatest Single of all Time"在PopMatters.com](http://www.popmatters.com/pm/column/109314-green-onions-the-greatest-single-of-all-time/)
 
   -
-  - [1967年4月7日，於挪威奧斯陸現場演出的〈Green
-    Onions〉](https://www.youtube.com/watch?v=Dy83xtvZ5RA)
+  - [1967年4月7日，於挪威奧斯陸現場演出的〈Green Onions〉](https://www.youtube.com/watch?v=Dy83xtvZ5RA)
 
-[Category:美國樂團](https://zh.wikipedia.org/wiki/Category:美國樂團 "wikilink")
-[Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink")
-[Category:美國靈魂樂團](https://zh.wikipedia.org/wiki/Category:美國靈魂樂團 "wikilink")
-[Category:美國放克樂團](https://zh.wikipedia.org/wiki/Category:美國放克樂團 "wikilink")
-[Category:器樂搖滾樂團](https://zh.wikipedia.org/wiki/Category:器樂搖滾樂團 "wikilink")
-[Category:1962年田纳西州建立](https://zh.wikipedia.org/wiki/Category:1962年田纳西州建立 "wikilink")
-[Category:1962年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1962年成立的音樂團體 "wikilink")
-[Category:1971年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1971年解散的音樂團體 "wikilink")
-[Category:摇滚名人堂入选者](https://zh.wikipedia.org/wiki/Category:摇滚名人堂入选者 "wikilink")
+[Category:美國樂團](https://zh.wikipedia.org/wiki/Category:美國樂團 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:美國靈魂樂團](https://zh.wikipedia.org/wiki/Category:美國靈魂樂團 "wikilink") [Category:美國放克樂團](https://zh.wikipedia.org/wiki/Category:美國放克樂團 "wikilink") [Category:器樂搖滾樂團](https://zh.wikipedia.org/wiki/Category:器樂搖滾樂團 "wikilink") [Category:1962年田纳西州建立](https://zh.wikipedia.org/wiki/Category:1962年田纳西州建立 "wikilink") [Category:1962年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1962年成立的音樂團體 "wikilink") [Category:1971年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1971年解散的音樂團體 "wikilink") [Category:摇滚名人堂入选者](https://zh.wikipedia.org/wiki/Category:摇滚名人堂入选者 "wikilink")
 
 1.
 
 2.
 
-3.  ["Ronnie Lane Interview \#1,
-    The-Faces.com"](http://www.the-faces.com/lane/1LaneMain.htm)
+3.  ["Ronnie Lane Interview \#1, The-Faces.com"](http://www.the-faces.com/lane/1LaneMain.htm)
 
 4.
 5.
 
-6.  [*Racial
-    integration*](http://www.reasontorock.com/elements/liberation.html)
-    [Benny
-    Goodman](https://zh.wikipedia.org/wiki/Benny_Goodman "wikilink") led
-    the racially integrated Benny Goodman Trio and Quartet a
-    quarter-century prior, and other integrated
-    [jazz](https://zh.wikipedia.org/wiki/jazz "wikilink") bands existed
-    since the 1930s.
+6.  [*Racial integration*](http://www.reasontorock.com/elements/liberation.html) [Benny Goodman](https://zh.wikipedia.org/wiki/Benny_Goodman "wikilink") led the racially integrated Benny Goodman Trio and Quartet a quarter-century prior, and other integrated [jazz](https://zh.wikipedia.org/wiki/jazz "wikilink") bands existed since the 1930s.

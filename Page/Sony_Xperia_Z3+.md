@@ -1,27 +1,10 @@
-**Sony Xperia Z3+**(日版名為Sony Xperia
-Z4)，是[索尼於](../Page/索尼.md "wikilink")2015年4月20日在日本發表的旗艦手機，搭載5.2吋螢幕、[Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink")
-[Snapdragon](https://zh.wikipedia.org/wiki/Snapdragon "wikilink") 810
-MSM8994 2.0GHz + 1.5GHz 八核心處理器、3GB記憶體、2,070萬畫素 25mm
-G鏡且支援4K錄影，120fps慢動作錄影，支援 IP65 / 68 防水、防塵功能。
+**Sony Xperia Z3+**(日版名為Sony Xperia Z4)，是[索尼](../Page/索尼.md "wikilink")於2015年4月20日在日本發表的旗艦手機，搭載5.2吋螢幕、[Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink") [Snapdragon](https://zh.wikipedia.org/wiki/Snapdragon "wikilink") 810 MSM8994 2.0GHz + 1.5GHz 八核心處理器、3GB記憶體、2,070萬畫素 25mm G鏡且支援4K錄影，120fps慢動作錄影，支援 IP65 / 68 防水、防塵功能。
 
-Xperia Z3+為安卓作業系統的旗艦級高階智慧型手機，作為它的前一代[Sony Xperia
-Z3的繼承機型](../Page/Sony_Xperia_Z3.md "wikilink")。同期的主要競爭對手有[Samsung
-Galaxy
-S6](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S6 "wikilink")、[LG
-G4](https://zh.wikipedia.org/wiki/LG_G4 "wikilink")、[HTC One
-M9](../Page/HTC_One_M9.md "wikilink")、[Huawei
-P8](https://zh.wikipedia.org/wiki/Huawei_Ascend_P8 "wikilink")。
+Xperia Z3+為安卓作業系統的旗艦級高階智慧型手機，作為它的前一代[Sony Xperia Z3的繼承機型](../Page/Sony_Xperia_Z3.md "wikilink")。同期的主要競爭對手有[Samsung Galaxy S6](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S6 "wikilink")、[LG G4](https://zh.wikipedia.org/wiki/LG_G4 "wikilink")、[HTC One M9](../Page/HTC_One_M9.md "wikilink")、[Huawei P8](https://zh.wikipedia.org/wiki/Huawei_Ascend_P8 "wikilink")。
 
 ## 設計特點
 
-在新一代的Xperia Z3+中，側邊的部分與 [Xperia
-Z3不同](../Page/Sony_Xperia_Z3.md "wikilink")，採用了鏡面拋光處理，螢幕上下兩側的喇叭設計，回歸到比較像
-[Xperia Z2](https://zh.wikipedia.org/wiki/Xperia_Z2 "wikilink")
-的設計，但其開口又沒有那麼寬，此外，大幅提升的 25mm 超廣角 510 萬畫素前置鏡頭，位置與
-Xperia Z3 不同，是置於 LOGO 的左側。microSD 卡與 SIM 卡槽併在一起，因此其設計也較 Xperia Z3
-大一號。側邊仍舊維持其特有的 OmniBlance 全平衡與金屬設計，不過 Xperia Z3+ 機身厚度已經縮減成
-6.9mm，USB 連接埠則是改到手機底部，是採用無防水蓋的設計，但仍具備 IP65 / 68
-防水防塵效能，因此取消了原有的磁吸式充電埠設計。機身重量不僅縮減了8公克來到了144g，厚度也變薄了0.4mm來到了6.9mm，但是電池容量則縮減了170mAh來到了2,930mAh。\[1\]
+在新一代的Xperia Z3+中，側邊的部分與 [Xperia Z3不同](../Page/Sony_Xperia_Z3.md "wikilink")，採用了鏡面拋光處理，螢幕上下兩側的喇叭設計，回歸到比較像 [Xperia Z2](https://zh.wikipedia.org/wiki/Xperia_Z2 "wikilink") 的設計，但其開口又沒有那麼寬，此外，大幅提升的 25mm 超廣角 510 萬畫素前置鏡頭，位置與 Xperia Z3 不同，是置於 LOGO 的左側。microSD 卡與 SIM 卡槽併在一起，因此其設計也較 Xperia Z3 大一號。側邊仍舊維持其特有的 OmniBlance 全平衡與金屬設計，不過 Xperia Z3+ 機身厚度已經縮減成 6.9mm，USB 連接埠則是改到手機底部，是採用無防水蓋的設計，但仍具備 IP65 / 68 防水防塵效能，因此取消了原有的磁吸式充電埠設計。機身重量不僅縮減了8公克來到了144g，厚度也變薄了0.4mm來到了6.9mm，但是電池容量則縮減了170mAh來到了2,930mAh。\[1\]
 
 ## 規格
 
@@ -107,8 +90,7 @@ Xperia Z3 不同，是置於 LOGO 的左側。microSD 卡與 SIM 卡槽併在一
 
 ## 顏色
 
-跟先前的Xperia
-Z3不同的是，**<font color=#90EE90>銀綠色</font>**改為顏色相近的**<font color=#94C4D0>水綠色</font>**，並且取消了**<font color=purple>紫色</font>**的設計。\[2\]
+跟先前的Xperia Z3不同的是，**<font color=#90EE90>銀綠色</font>**改為顏色相近的**<font color=#94C4D0>水綠色</font>**，並且取消了**<font color=purple>紫色</font>**的設計。\[2\]
 
 | 顏色 | 名稱                                                                             | 英語         | 備註        |
 | -- | ------------------------------------------------------------------------------ | ---------- | --------- |
@@ -119,11 +101,7 @@ Z3不同的是，**<font color=#90EE90>銀綠色</font>**改為顏色相近的**
 
 ## 參考資料
 
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")
-[Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
+[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink") [Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
 
 1.
 2.

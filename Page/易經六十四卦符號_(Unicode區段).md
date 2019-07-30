@@ -1,4 +1,4 @@
-**易經六十四卦符號**是一个位于基本多文种平面的[Unicode区段](../Page/Unicode區段.md "wikilink")，收录了[易经六十四卦的符号](../Page/易经.md "wikilink")。
+**易經六十四卦符號**是一个位于基本多文种平面的[Unicode区段](../Page/Unicode區段.md "wikilink")，收录了[易经](../Page/易经.md "wikilink")六十四卦的符号。
 
 ## 历史
 

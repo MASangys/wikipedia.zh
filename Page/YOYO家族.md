@@ -1,4 +1,4 @@
-YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東森幼幼台所屬兒童音樂組合](../Page/東森幼幼台.md "wikilink")，於2000年成立，以[水果](https://zh.wikipedia.org/wiki/水果 "wikilink")、[昆蟲](https://zh.wikipedia.org/wiki/昆蟲 "wikilink")、[天空](../Page/天空.md "wikilink")、[動物等名稱為](https://zh.wikipedia.org/wiki/動物 "wikilink")[藝名](../Page/藝名.md "wikilink")，由於[主持](https://zh.wikipedia.org/wiki/主持 "wikilink")[兒童節目](https://zh.wikipedia.org/wiki/兒童節目 "wikilink")，在兒童間廣受歡迎\[1\]。
+YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東森幼幼台](../Page/東森幼幼台.md "wikilink")所屬兒童音樂組合，於2000年成立，以[水果](https://zh.wikipedia.org/wiki/水果 "wikilink")、[昆蟲](https://zh.wikipedia.org/wiki/昆蟲 "wikilink")、[天空](../Page/天空.md "wikilink")、[動物等名稱為](https://zh.wikipedia.org/wiki/動物 "wikilink")[藝名](../Page/藝名.md "wikilink")，由於[主持](https://zh.wikipedia.org/wiki/主持 "wikilink")[兒童節目](https://zh.wikipedia.org/wiki/兒童節目 "wikilink")，在兒童間廣受歡迎\[1\]。
 
 ## 成員
 
@@ -44,7 +44,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <td><p>金牛座</p></td>
 <td><p>A型</p></td>
 <td><p>1－13</p></td>
-<td><p>已婚，2018年3月宣布與<a href="../Page/草莓姐姐.md" title="wikilink">草莓姐姐結婚</a></p></td>
+<td><p>已婚，2018年3月宣布與<a href="../Page/草莓姐姐.md" title="wikilink">草莓姐姐</a>結婚</p></td>
 <td><p><br />
 黃色</p></td>
 </tr>
@@ -73,7 +73,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <td><p>水瓶座</p></td>
 <td><p>A型</p></td>
 <td><p>6－13</p></td>
-<td><p>已婚，2018年3月宣布與<a href="../Page/香蕉哥哥.md" title="wikilink">香蕉哥哥結婚</a></p></td>
+<td><p>已婚，2018年3月宣布與<a href="../Page/香蕉哥哥.md" title="wikilink">香蕉哥哥</a>結婚</p></td>
 <td><p><br />
 粉紅色</p></td>
 </tr>
@@ -274,7 +274,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <td><p>天秤座</p></td>
 <td><p>A型</p></td>
 <td><p>1－5</p></td>
-<td><p>移籍至<a href="../Page/MOMO親子台.md" title="wikilink">MOMO親子台並加入</a><a href="../Page/MOMO家族.md" title="wikilink">MOMO家族</a>，已婚，育有一子，曾擔任<a href="https://zh.wikipedia.org/wiki/空中服務員" title="wikilink">空中服務員</a>，在<a href="../Page/中國.md" title="wikilink">中國經營親子酒店</a></p></td>
+<td><p>移籍至<a href="../Page/MOMO親子台.md" title="wikilink">MOMO親子台</a>並加入<a href="../Page/MOMO家族.md" title="wikilink">MOMO家族</a>，已婚，育有一子，曾擔任<a href="https://zh.wikipedia.org/wiki/空中服務員" title="wikilink">空中服務員</a>，在<a href="../Page/中國.md" title="wikilink">中國</a>經營親子酒店</p></td>
 <td><p><br />
 紅色</p></td>
 <td></td>
@@ -376,7 +376,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <td><p>水瓶座</p></td>
 <td><p>B型</p></td>
 <td><p>9－10</p></td>
-<td><p>目前主要活躍於主持界</p></td>
+<td><p>已婚，目前主要活躍於主持界</p></td>
 <td><p><br />
 灰色</p></td>
 </tr>
@@ -419,7 +419,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <td><p>射手座</p></td>
 <td><p>A型</p></td>
 <td><p>12</p></td>
-<td><p>現為<a href="../Page/Fami通.md" title="wikilink">Fami通電玩主持人</a>，曾客串演出MV《我不是英雄》</p></td>
+<td><p>現為<a href="../Page/Fami通.md" title="wikilink">Fami通</a>電玩主持人，曾客串演出MV《我不是英雄》</p></td>
 <td><p><br />
 紫色</p></td>
 </tr>
@@ -581,5 +581,4 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 
 [Category:東森幼幼台](https://zh.wikipedia.org/wiki/Category:東森幼幼台 "wikilink")
 
-1.  [YOYO台哥姐快閃街頭賣藝現身
-    小朋友瘋狂追星](https://archive.today/20160413162540/http://times.hinet.net/news/17866783)
+1.  [YOYO台哥姐快閃街頭賣藝現身 小朋友瘋狂追星](https://archive.today/20160413162540/http://times.hinet.net/news/17866783)

@@ -4,18 +4,13 @@
   - FileUploadWizard.js
   - Zh-localized project-led by AlexanderMisel
   - Script for uploading files through a dynamic questionnaire.
-  - This is the code to accompany [Wikipedia:File Upload
-    Wizard](https://zh.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard "wikilink").
+  - This is the code to accompany [Wikipedia:File Upload Wizard](https://zh.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard "wikilink").
   - \===============================================================
   - /
 
-var fuwTesting = false; var fuwDefaultTextboxLength = 60; var
-fuwDefaultTextareaWidth = '90%'; var fuwDefaultTextareaLines = 3;
+var fuwTesting = false; var fuwDefaultTextboxLength = 60; var fuwDefaultTextareaWidth = '90%'; var fuwDefaultTextareaLines = 3;
 
-// ================================================================ //
-Constructor function of global fuw (= File Upload Wizard) object //
-================================================================
-function fuwGlobal() {
+// ================================================================ // Constructor function of global fuw (= File Upload Wizard) object // ================================================================ function fuwGlobal() {
 
 `  // Loading the accompanying .css`
 `  mw.loader.load( mw.config.get('wgServer') + mw.config.get('wgScriptPath') +`
@@ -509,8 +504,7 @@ function fuwGlobal() {
 `  // make main area visible`
 `  fuwSetVisible('UploadScriptArea', true);`
 
-} // ====================================== // end of fuwGlobal
-constructor function // ======================================
+} // ====================================== // end of fuwGlobal constructor function // ======================================
 
 function fuwRadioClick(e) {
 
@@ -789,18 +783,9 @@ function fuwUpdateOptions() {
 
 }
 
-// ============================================================ //
-methods of the global fuw object //
-============================================================
+// ============================================================ // methods of the global fuw object // ============================================================
 
-// ============================================================ //
-report validation status of filename information //
-============================================================ // This is
-called from within fuw.validateInput(), i.e. every // time anything in
-the whole form is changed. It only reports // results that have
-previously been cached in the opts and warn // objects. The actual
-checking is done in the event handler // of the file input boxes.
-fuwGlobal.prototype.hasValidFilename = function() {
+// ============================================================ // report validation status of filename information // ============================================================ // This is called from within fuw.validateInput(), i.e. every // time anything in the whole form is changed. It only reports // results that have previously been cached in the opts and warn // objects. The actual checking is done in the event handler // of the file input boxes. fuwGlobal.prototype.hasValidFilename = function() {
 
 `  var opts = this.opts;`
 `  var warn = this.warn;`
@@ -816,10 +801,7 @@ fuwGlobal.prototype.hasValidFilename = function() {
 
 };
 
-// ============================================================ //
-validation status for common input elements for all free // options //
-============================================================
-fuwGlobal.prototype.hasValidCommonFreeInput = function() {
+// ============================================================ // validation status for common input elements for all free // options // ============================================================ fuwGlobal.prototype.hasValidCommonFreeInput = function() {
 
 `  var opts = this.opts;`
 `  var warn = this.warn;`
@@ -827,10 +809,7 @@ fuwGlobal.prototype.hasValidCommonFreeInput = function() {
 `  //alert("HasValidCommonFreeInput: " + valid);`
 `  return valid;`
 
-}; // ============================================================ //
-validation status for common input elements for all non-free // options
-// ============================================================
-fuwGlobal.prototype.hasValidCommonNFInput = function() {
+}; // ============================================================ // validation status for common input elements for all non-free // options // ============================================================ fuwGlobal.prototype.hasValidCommonNFInput = function() {
 
 `  var opts = this.opts;`
 `  var warn = this.warn;`
@@ -846,11 +825,7 @@ fuwGlobal.prototype.hasValidCommonNFInput = function() {
 `  //alert("hasValidCommonNFInput: " + valid);`
 `  return valid;`
 
-}; // ============================================================ //
-Main validation routine. Modify this to tweak which fields // are to be
-considered obligatory for each case group //
-============================================================
-fuwGlobal.prototype.validateInput = function() {
+}; // ============================================================ // Main validation routine. Modify this to tweak which fields // are to be considered obligatory for each case group // ============================================================ fuwGlobal.prototype.validateInput = function() {
 
 `  var opts = this.opts;`
 `  var warn = this.warn;`
@@ -964,11 +939,7 @@ fuwGlobal.prototype.validateInput = function() {
 
 };
 
-// ============================================================= //
-return which template name will be used as the main // description
-template //
-=============================================================
-fuwGlobal.prototype.getDescriptionTemplateName = function() {
+// ============================================================= // return which template name will be used as the main // description template // ============================================================= fuwGlobal.prototype.getDescriptionTemplateName = function() {
 
 `  // standard "Information" template for free files:`
 `  if (this.opts.OptionFree) return "Information";`
@@ -979,9 +950,7 @@ fuwGlobal.prototype.getDescriptionTemplateName = function() {
 
 };
 
-// ============================================================= // get
-the license tag code from the appropriate input element //
-=============================================================
+// ============================================================= // get the license tag code from the appropriate input element // =============================================================
 
 fuwGlobal.prototype.getStandardLicense = function() {
 
@@ -1049,10 +1018,7 @@ function fuwSubst(template) {
 
 }
 
-// ===================================================================
-// Produce code for local tracking categories //
-===================================================================
-fuwGlobal.prototype.getTrackingCategory = function() {
+// =================================================================== // Produce code for local tracking categories // =================================================================== fuwGlobal.prototype.getTrackingCategory = function() {
 
 `  var opts = this.opts;`
 `  var cat = "";`
@@ -1068,17 +1034,7 @@ fuwGlobal.prototype.getTrackingCategory = function() {
 
 };
 
-// ===================================================================
-// Get or create an edit summary for the upload //
-=================================================================== //
-Note: if we work with the api.php interface, we can have separate //
-data for the edit summary and the description page, which is far //
-better than the way the index.php interface does it. // TO DO: need to
-actually define an input element for a manually // entered edit summary.
-Must be obligatory when overwriting files. // In other cases we'll use
-an automatic edit ummary. //
-===================================================================
-fuwGlobal.prototype.getEditSummary = function() {
+// =================================================================== // Get or create an edit summary for the upload // =================================================================== // Note: if we work with the api.php interface, we can have separate // data for the edit summary and the description page, which is far // better than the way the index.php interface does it. // TO DO: need to actually define an input element for a manually // entered edit summary. Must be obligatory when overwriting files. // In other cases we'll use an automatic edit ummary. // =================================================================== fuwGlobal.prototype.getEditSummary = function() {
 
 `  var opts = this.opts;`
 `  return (`
@@ -1111,8 +1067,7 @@ function fuwPackInfo(text, forCommons) {
 
 `           // mark File links as local`
 `           if (p1.match(/^:(File|Image):/)) {`
-`              return "`[`:zh"``   ``+``   ``p1``   ``+``
- ``"`](https://zh.wikipedia.org/wiki/:zh"_+_p1_+_" "wikilink")`";`
+`              return "`[`:zh"``   ``+``   ``p1``   ``+``   ``"`](https://zh.wikipedia.org/wiki/:zh"_+_p1_+_" "wikilink")`";`
 `           }      `
 `           // leave prefixed links unchanged:`
 `           else if (p1.match(/^:[\w\-]+:/)) {`
@@ -1120,13 +1075,11 @@ function fuwPackInfo(text, forCommons) {
 `           }`
 `           // if the link is piped, add a prefix only`
 `           else if (p1.match(/.+\|/)) {`
-`              return "`[`:zh:"``   ``+``   ``p1``   ``+``
- ``"`](https://zh.wikipedia.org/wiki/:zh:"_+_p1_+_" "wikilink")`";`
+`              return "`[`:zh:"``   ``+``   ``p1``   ``+``   ``"`](https://zh.wikipedia.org/wiki/:zh:"_+_p1_+_" "wikilink")`";`
 `           }`
 `           // introduce a pipe`
 `           else {`
-`              return "`[`"``   ``+``   ``p1``   ``+``
- ``"`](https://zh.wikipedia.org/wiki/:zh:"_+_p1_+_" "wikilink")`";`
+`              return "`[`"``   ``+``   ``p1``   ``+``   ``"`](https://zh.wikipedia.org/wiki/:zh:"_+_p1_+_" "wikilink")`";`
 `           }`
 `        }`
 `     );`
@@ -1135,12 +1088,7 @@ function fuwPackInfo(text, forCommons) {
 
 }
 
-// ================================================================ //
-This is the main method called by the event handler for the //
-(experimental) submit button. Its main task is to collect the // input
-into a single string of wikitext for the description page. //
-================================================================
-fuwGlobal.prototype.collectInput = function() {
+// ================================================================ // This is the main method called by the event handler for the // (experimental) submit button. Its main task is to collect the // input into a single string of wikitext for the description page. // ================================================================ fuwGlobal.prototype.collectInput = function() {
 
 `  var opts = this.opts;`
 
@@ -1172,8 +1120,7 @@ fuwGlobal.prototype.collectInput = function() {
 `\n", `
 `           fuwSurroundString(wgULS("`**`先前发布`**`：", "`**`先前釋出`**`："), opts.OwnWorkPublication)]);`
 `        var username = mw.user.getName();`
-`        descFields.Author = '`[`'``   ``+``   ``username``   ``+``
- ``'`](https://zh.wikipedia.org/wiki/User:'_+_username_+_' "wikilink")`';`
+`        descFields.Author = '`[`'``   ``+``   ``username``   ``+``   ``'`](https://zh.wikipedia.org/wiki/User:'_+_username_+_' "wikilink")`';`
 `        break;`
 
 `     case 'OptionThirdParty':`
@@ -1801,10 +1748,7 @@ function fuwCleanFilename() {
 
 }
 
-// ================================================== // check filename
-for technically illegal // characters, trying to fix them automatically
-// ================================================== function
-fuwCheckLegalFilename() {
+// ================================================== // check filename for technically illegal // characters, trying to fix them automatically // ================================================== function fuwCheckLegalFilename() {
 
 `  var nameBox = window.fuw.ScriptForm.InputName;`
 `  var oldname = name = $.trim(nameBox.value);`
@@ -1845,11 +1789,7 @@ fuwCheckLegalFilename() {
 
 }
 
-// ======================================================= // Check
-against various common patterns of poorly chosen // filenames (too short
-/ too generic) //
-======================================================= function
-fuwCheckPoorFilename() {
+// ======================================================= // Check against various common patterns of poorly chosen // filenames (too short / too generic) // ======================================================= function fuwCheckPoorFilename() {
 
 `  var nameBox = window.fuw.ScriptForm.InputName;`
 `  var name = $.trim(nameBox.value);`
@@ -1873,12 +1813,7 @@ fuwCheckPoorFilename() {
 
 }
 
-// ======================================================= // check if
-file extensions match between local filename // and target filename
-input box. Automatically append // appropriate extension to target
-filename if they don't. //
-======================================================= function
-fuwCheckFileExtension() {
+// ======================================================= // check if file extensions match between local filename // and target filename input box. Automatically append // appropriate extension to target filename if they don't. // ======================================================= function fuwCheckFileExtension() {
 
 `  var nameBox = window.fuw.ScriptForm.InputName;`
 `  var name = $.trim(nameBox.value);`
@@ -1919,12 +1854,7 @@ fuwCheckFileExtension() {
 
 }
 
-// ============================================================ // Check
-if a file under the chosen name already exists, // either locally or on
-Commons. // Store results in the fuw.warn object, so warnings will // be
-displayed on the next fuwUpdateOptions() call //
-============================================================ function
-fuwCheckFileExists() {
+// ============================================================ // Check if a file under the chosen name already exists, // either locally or on Commons. // Store results in the fuw.warn object, so warnings will // be displayed on the next fuwUpdateOptions() call // ============================================================ function fuwCheckFileExists() {
 
 `  // this is an asynchronous AJAX function.`
 `  // results won't yet be present when this function returns.`
@@ -2008,20 +1938,14 @@ fuwCheckFileExists() {
 
 }
 
-// =========================================================== //
-onchange event handler for the local filename box //
-===========================================================
-fuwValidateFile = function() {
+// =========================================================== // onchange event handler for the local filename box // =========================================================== fuwValidateFile = function() {
 
 `  fuwCheckFileExtension();`
 `  fuwUpdateOptions();`
 
 };
 
-// =========================================================== //
-onchange event handler for the name input box //
-===========================================================
-fuwValidateFilename = function() {
+// =========================================================== // onchange event handler for the name input box // =========================================================== fuwValidateFilename = function() {
 
 `  fuwCleanFilename();`
 `  if (`
@@ -2040,19 +1964,7 @@ fuwValidateFilename = function() {
 
 };
 
-// ========================================================== //
-function fuwValidateNFArticle() //
-========================================================== // This is
-the validation routine for the obligatory // article-to-be-used-in field
-for non-free files. It queries // api.php about the target article
-through an Ajax call. // It will store error info in the fuw.warn
-object, // triggering the following error on the next updateOptions():
-// \* warningNFArticleNotFound : target page doesn't exist. // \*
-warningNFArticleNotMainspace : target is not an article. // \*
-warningNFArticleDab : target is a disambiguation page. // Redirects will
-automatically be substituted. //
-==========================================================
-fuwValidateNFArticle = function() {
+// ========================================================== // function fuwValidateNFArticle() // ========================================================== // This is the validation routine for the obligatory // article-to-be-used-in field for non-free files. It queries // api.php about the target article through an Ajax call. // It will store error info in the fuw.warn object, // triggering the following error on the next updateOptions(): // \* warningNFArticleNotFound : target page doesn't exist. // \* warningNFArticleNotMainspace : target is not an article. // \* warningNFArticleDab : target is a disambiguation page. // Redirects will automatically be substituted. // ========================================================== fuwValidateNFArticle = function() {
 
 `  var nameBox = window.fuw.ScriptForm.NFArticle;`
 `  oldname = name = nameBox.value;`
@@ -2169,18 +2081,14 @@ fuwValidateNFArticle = function() {
 
 };
 
-// ================================================ // manually reload
-script (just for testing) //
-================================================ function fuwReload() {
+// ================================================ // manually reload script (just for testing) // ================================================ function fuwReload() {
 
 `  mw.loader.load( '`<http://localhost/script/uploadscript.js>`' );`
 `  fuwReset();`
 
 }
 
-// ================================================ // reset forms // TO
-DO: add a button that actually triggers this. //
-================================================ function fuwReset() {
+// ================================================ // reset forms // TO DO: add a button that actually triggers this. // ================================================ function fuwReset() {
 
 `  var forms = mw.util.$content[0].getElementsByTagName('form');`
 `  for (i = 0; i < forms.length; i++) {`
@@ -2195,10 +2103,7 @@ DO: add a button that actually triggers this. //
 
 }
 
-// =============================================== // convenience
-functions for string handling //
-=============================================== function
-fuwAppendLines(parts) {
+// =============================================== // convenience functions for string handling // =============================================== function fuwAppendLines(parts) {
 
 `  // assemble a string from an array of strings.`
 `  // treat every second element as a conditional`
@@ -2223,10 +2128,7 @@ fuwAppendLines(parts) {
 
 }
 
-// ======================================================== //
-convenience function for accessing the contents of the // dummy
-TargetIFrame // ========================================================
-function fuwGetDocumentFromIFrame(iframe) {
+// ======================================================== // convenience function for accessing the contents of the // dummy TargetIFrame // ======================================================== function fuwGetDocumentFromIFrame(iframe) {
 
 `  var doc = (iframe.contentDocument ? iframe.contentDocument : iframe.contentWindow.document);`
 `  if (doc.XMLDocument) {`
@@ -2234,12 +2136,7 @@ function fuwGetDocumentFromIFrame(iframe) {
 `  }`
 `  return doc;`
 
-} // ======================================================== // event
-handler for the dummy TargetIFrame's onload event. // TO DO: expand stub
-to add real notification of success, // link to new file page,
-instructions about how to include // file in articles, etc. //
-======================================================== function
-fuwUploadCompleted() {
+} // ======================================================== // event handler for the dummy TargetIFrame's onload event. // TO DO: expand stub to add real notification of success, // link to new file page, instructions about how to include // file in articles, etc. // ======================================================== function fuwUploadCompleted() {
 
 `  var doc = fuwGetDocumentFromIFrame(fuwGet('TargetIFrame'));`
 `  if (doc) {`
@@ -2338,10 +2235,7 @@ fuwUploadCompleted() {
 
 }
 
-// ======================================================== // clean out
-dummy IFrame before submitting a request //
-======================================================== function
-fuwResetTargetIFrame() {
+// ======================================================== // clean out dummy IFrame before submitting a request // ======================================================== function fuwResetTargetIFrame() {
 
 `  var doc = fuwGetDocumentFromIFrame(fuwGet('TargetIFrame'));`
 `  if (doc) {`
@@ -2352,10 +2246,7 @@ fuwResetTargetIFrame() {
 
 }
 
-// ======================================================== // Event
-handler for the real submit button //
-======================================================== function
-fuwSubmitUpload() {
+// ======================================================== // Event handler for the real submit button // ======================================================== function fuwSubmitUpload() {
 
 `  var fuw = window.fuw;`
 `  var frm = fuw.TargetForm;`
@@ -2411,10 +2302,7 @@ fuwSubmitUpload() {
 
 }
 
-// ======================================================= // Event
-handler for the Commons submit button //
-======================================================= function
-fuwSubmitCommons() {
+// ======================================================= // Event handler for the Commons submit button // ======================================================= function fuwSubmitCommons() {
 
 `  var fuw = window.fuw;`
 `  fuw.collectInput();`
@@ -2424,10 +2312,7 @@ fuwSubmitCommons() {
 
 }
 
-// ======================================================= // Event
-handler for the test submit button // (write description string to
-sandbox only) // =======================================================
-function fuwSubmitSandbox() {
+// ======================================================= // Event handler for the test submit button // (write description string to sandbox only) // ======================================================= function fuwSubmitSandbox() {
 
 `  var frm = window.fuw.TestForm;`
 `  $.ajax({`
@@ -2450,11 +2335,7 @@ function fuwSubmitSandbox() {
 
 }
 
-// ======================================================== //
-convenience wrapper function to replace calls to //
-document.getElementById() // to avoid browser incompatibility //
-======================================================== function
-fuwGet(target) {
+// ======================================================== // convenience wrapper function to replace calls to // document.getElementById() // to avoid browser incompatibility // ======================================================== function fuwGet(target) {
 
 `  if (target && target.nodeType) return target;`
 `  else {`
@@ -2465,9 +2346,7 @@ fuwGet(target) {
 
 }
 
-// ======================================================== // onload
-hook function, loading this script //
-======================================================== $(function() {
+// ======================================================== // onload hook function, loading this script // ======================================================== $(function() {
 
 `  if (fuwGet('UploadScriptArea')) {`
 `     window.fuw = new fuwGlobal();`

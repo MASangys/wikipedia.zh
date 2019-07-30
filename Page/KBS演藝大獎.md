@@ -1,4 +1,4 @@
-**《KBS演藝大獎》**（；）是由[韓國三大](https://zh.wikipedia.org/wiki/韓國 "wikilink")[無線電視台之一的](https://zh.wikipedia.org/wiki/無線電視台 "wikilink")[韓國放送公社](../Page/韓國放送公社.md "wikilink")（KBS）自1987年起主辦，以表彰過去一年中為觀眾帶來歡笑和感動的藝人而舉辦的頒獎典禮。創立初期的典禮名稱為《KBS喜劇大獎》（），1995年曾更名為《KBS喜劇大祝祭》（），其後一度取消頒獎典禮。直至2002年起復辦，並正式更名為《KBS演藝大獎》，定於每年12月第4個周六於[汝矣島洞KBS新館公開廳舉行](../Page/汝矣島.md "wikilink")。
+**《KBS演藝大獎》**（；）是由[韓國三大](https://zh.wikipedia.org/wiki/韓國 "wikilink")[無線電視台之一的](https://zh.wikipedia.org/wiki/無線電視台 "wikilink")[韓國放送公社](../Page/韓國放送公社.md "wikilink")（KBS）自1987年起主辦，以表彰過去一年中為觀眾帶來歡笑和感動的藝人而舉辦的頒獎典禮。創立初期的典禮名稱為《KBS喜劇大獎》（），1995年曾更名為《KBS喜劇大祝祭》（），其後一度取消頒獎典禮。直至2002年起復辦，並正式更名為《KBS演藝大獎》，定於每年12月第4個周六於[汝矣島](../Page/汝矣島.md "wikilink")洞KBS新館公開廳舉行。
 
 ## 歷屆主持名單
 
@@ -611,7 +611,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/金俊昊.md" title="wikilink">金俊昊</a>、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>（<a href="../Page/高耀太.md" title="wikilink">高耀太</a>）</p></td>
-<td><p>《<a href="../Page/兩天一夜.md" title="wikilink">兩天一夜（第三季）</a>》</p></td>
+<td><p>《<a href="../Page/兩天一夜.md" title="wikilink">兩天一夜</a>（第三季）》</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -647,10 +647,10 @@
 <td><p>2018年</p></td>
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/李同國" title="wikilink">李同國子女</a>（李在詩、李在雅、李雪雅、李秀雅、李時安）</li>
-<li><a href="../Page/森姆·汗明頓.md" title="wikilink">森姆·汗明頓兒子</a>（威廉·汗明頓、本特利·汗明頓）</li>
-<li><a href="../Page/高志溶.md" title="wikilink">高志溶兒子</a>（高昇材）</li>
-<li><a href="../Page/奉太奎.md" title="wikilink">奉太奎兒子</a>（奉時河）</li>
-<li><a href="../Page/朴柱昊.md" title="wikilink">朴柱昊子女</a>（朴娜恩、朴建厚）</li>
+<li><a href="../Page/森姆·汗明頓.md" title="wikilink">森姆·汗明頓</a>兒子（威廉·汗明頓、本特利·汗明頓）</li>
+<li><a href="../Page/高志溶.md" title="wikilink">高志溶</a>兒子（高昇材）</li>
+<li><a href="../Page/奉太奎.md" title="wikilink">奉太奎</a>兒子（奉時河）</li>
+<li><a href="../Page/朴柱昊.md" title="wikilink">朴柱昊</a>子女（朴娜恩、朴建厚）</li>
 </ul></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/超人回來了" title="wikilink">超人回來了</a>》</p></td>
 </tr>
@@ -659,9 +659,9 @@
 <td><p>2016年</p></td>
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/李同國" title="wikilink">李同國子女</a>（李在詩、李在雅、李雪雅、李秀雅、李時安）</li>
-<li><a href="../Page/李凡秀.md" title="wikilink">李凡秀子女</a>（李素乙、李多乙）</li>
-<li><a href="../Page/李輝宰.md" title="wikilink">李輝宰兒子</a>（李書言、李書俊）</li>
-<li><a href="../Page/奇太映.md" title="wikilink">奇太映女兒</a>（金露熙）</li>
+<li><a href="../Page/李凡秀.md" title="wikilink">李凡秀</a>子女（李素乙、李多乙）</li>
+<li><a href="../Page/李輝宰.md" title="wikilink">李輝宰</a>兒子（李書言、李書俊）</li>
+<li><a href="../Page/奇太映.md" title="wikilink">奇太映</a>女兒（金露熙）</li>
 </ul></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/超人回來了" title="wikilink">超人回來了</a>》</p></td>
 </tr>
@@ -671,8 +671,8 @@
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/Tablo" title="wikilink">Tablo女兒</a>（李Haru）</li>
 <li><a href="../Page/秋山成勳.md" title="wikilink">秋成勳女兒</a>（秋小愛）</li>
-<li><a href="../Page/宋一國.md" title="wikilink">宋一國兒子</a>（宋大韓、宋民國、宋萬歲）</li>
-<li><a href="../Page/李輝宰.md" title="wikilink">李輝宰兒子</a>（李書言、李書俊）</li>
+<li><a href="../Page/宋一國.md" title="wikilink">宋一國</a>兒子（宋大韓、宋民國、宋萬歲）</li>
+<li><a href="../Page/李輝宰.md" title="wikilink">李輝宰</a>兒子（李書言、李書俊）</li>
 </ul></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/超人回來了" title="wikilink">超人回來了</a>》</p></td>
 </tr>
@@ -958,10 +958,8 @@
   - [《2014 KBS演藝大獎》官方網站](http://program.kbs.co.kr/2tv/enter/enter14/pc/)
   - [《2015 KBS演藝大獎》官方網站](http://program.kbs.co.kr/2tv/enter/enter15/pc/)
   - [《2016 KBS演藝大獎》官方網站](http://program.kbs.co.kr/2tv/enter/enter16/pc/)
-  - [《2018
-    KBS演藝大獎》官方網站](http://program.kbs.co.kr/2tv/enter/2018kbsentawards/pc/)
+  - [《2018 KBS演藝大獎》官方網站](http://program.kbs.co.kr/2tv/enter/2018kbsentawards/pc/)
 
-[Category:KBS演藝大獎](https://zh.wikipedia.org/wiki/Category:KBS演藝大獎 "wikilink")
-[Category:韓國電視獎項](https://zh.wikipedia.org/wiki/Category:韓國電視獎項 "wikilink")
+[Category:KBS演藝大獎](https://zh.wikipedia.org/wiki/Category:KBS演藝大獎 "wikilink") [Category:韓國電視獎項](https://zh.wikipedia.org/wiki/Category:韓國電視獎項 "wikilink")
 
 1.

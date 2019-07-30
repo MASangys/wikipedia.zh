@@ -1,5 +1,4 @@
-《**FORTISSIMO**》（），是由[葉瀨敦子企劃](https://zh.wikipedia.org/wiki/葉瀨敦子 "wikilink")、原田爽香編寫的[日本多媒體作品](../Page/日本.md "wikilink")，原作為小說形式於雜誌[電擊SYLPH連載](https://zh.wikipedia.org/wiki/電擊SYLPH "wikilink")。故事繼承前作《**[BROTHERS
-CONFLICT](https://zh.wikipedia.org/wiki/BROTHERS_CONFLICT "wikilink")**》的設定。人物設定同樣由宇多所（ウダジョ）擔當。
+《**FORTISSIMO**》（），是由[葉瀨敦子企劃](https://zh.wikipedia.org/wiki/葉瀨敦子 "wikilink")、原田爽香編寫的[日本](../Page/日本.md "wikilink")多媒體作品，原作為小說形式於雜誌[電擊SYLPH連載](https://zh.wikipedia.org/wiki/電擊SYLPH "wikilink")。故事繼承前作《**[BROTHERS CONFLICT](https://zh.wikipedia.org/wiki/BROTHERS_CONFLICT "wikilink")**》的設定。人物設定同樣由宇多所（ウダジョ）擔當。
 
 ## 故事簡介
 
@@ -44,8 +43,7 @@ CONFLICT](https://zh.wikipedia.org/wiki/BROTHERS_CONFLICT "wikilink")**》的設
   -
     18歳。1995年7月7日生。B型。176cm。東京都出身。
     小學時即進入事務所，廣告和伴舞出道，現在尤以戲劇與電影演出的評價最高。現在為了磨練演技而前往洛杉磯念書，未與雙葉見過面。
-    為前作《BROTHERS
-    CONFLICT》的朝日奈風斗本人。是家裡14個孩子的12男。在同事務所裡有同行的哥哥祈織、以及其他從事聲優的兄長。
+    為前作《BROTHERS CONFLICT》的朝日奈風斗本人。是家裡14個孩子的12男。在同事務所裡有同行的哥哥祈織、以及其他從事聲優的兄長。
 
 ### 其他
 
@@ -79,5 +77,4 @@ CONFLICT](https://zh.wikipedia.org/wiki/BROTHERS_CONFLICT "wikilink")**》的設
   - [FORTISSIMO官方網站](http://sylph.dengeki.com/special/ff/)
   - [電擊SYLPH](http://sylph.dengeki.com/)
 
-[Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink")
-[Category:家庭題材作品](https://zh.wikipedia.org/wiki/Category:家庭題材作品 "wikilink")
+[Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink") [Category:家庭題材作品](https://zh.wikipedia.org/wiki/Category:家庭題材作品 "wikilink")

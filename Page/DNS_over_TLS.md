@@ -1,13 +1,6 @@
-（缩写：）是通过[传输层安全协议](https://zh.wikipedia.org/wiki/传输层安全协议 "wikilink")（TLS）來加密並打包[域名系统](../Page/域名系统.md "wikilink")（DNS）的安全协议。此協議旨在防止[中间人攻击与控制DNS数据以保护用户隐私](../Page/中间人攻击.md "wikilink")。
+（缩写：）是通过[传输层安全协议](https://zh.wikipedia.org/wiki/传输层安全协议 "wikilink")（TLS）來加密並打包[域名系统](../Page/域名系统.md "wikilink")（DNS）的安全协议。此協議旨在防止[中间人攻击](../Page/中间人攻击.md "wikilink")与控制DNS数据以保护用户隐私。
 
-及定义了DNS over TLS。\[1\]\[2\]
-，[Cloudflare](../Page/CloudFlare.md "wikilink")、[Quad9与](https://zh.wikipedia.org/wiki/Quad9 "wikilink")[CleanBrowsing均向大众提供支持DNS](https://zh.wikipedia.org/wiki/CleanBrowsing "wikilink")
-over
-TLS的[公共DNS解析服务](https://zh.wikipedia.org/wiki/公共DNS解析服务 "wikilink")。\[3\]\[4\]\[5\]\[6\]2018年4月，[Google宣布](../Page/Google.md "wikilink")[Android
-P将包含对DNS](https://zh.wikipedia.org/wiki/Android_P "wikilink") over
-TLS的支持。\[7\][PowerDNS的](https://zh.wikipedia.org/wiki/PowerDNS "wikilink")[DNSDist也宣布在其最新的](https://zh.wikipedia.org/wiki/DNSDist "wikilink")1.3.0版本中添加了对DNS
-over TLS的支持。\[8\][BIND用户也可以通过stunnel代理提供DNS](../Page/BIND.md "wikilink")
-over TLS服务。\[9\]
+及定义了DNS over TLS。\[1\]\[2\] ，[Cloudflare](../Page/CloudFlare.md "wikilink")、[Quad9与](https://zh.wikipedia.org/wiki/Quad9 "wikilink")[CleanBrowsing均向大众提供支持DNS](https://zh.wikipedia.org/wiki/CleanBrowsing "wikilink") over TLS的[公共DNS解析服务](https://zh.wikipedia.org/wiki/公共DNS解析服务 "wikilink")。\[3\]\[4\]\[5\]\[6\]2018年4月，[Google](../Page/Google.md "wikilink")宣布[Android P将包含对DNS](https://zh.wikipedia.org/wiki/Android_P "wikilink") over TLS的支持。\[7\][PowerDNS的](https://zh.wikipedia.org/wiki/PowerDNS "wikilink")[DNSDist也宣布在其最新的](https://zh.wikipedia.org/wiki/DNSDist "wikilink")1.3.0版本中添加了对DNS over TLS的支持。\[8\][BIND](../Page/BIND.md "wikilink")用户也可以通过stunnel代理提供DNS over TLS服务。\[9\]
 
 ## 公共DNS服务器列表
 
@@ -81,13 +74,7 @@ over TLS服务。\[9\]
 
 ## 参考文献
 
-[Category:含有缺少标题的引用的页面](https://zh.wikipedia.org/wiki/Category:含有缺少标题的引用的页面 "wikilink")
-[Category:含有裸露网址的引用的页面](https://zh.wikipedia.org/wiki/Category:含有裸露网址的引用的页面 "wikilink")
-[Category:应用层协议](https://zh.wikipedia.org/wiki/Category:应用层协议 "wikilink")
-[Category:网络安全](https://zh.wikipedia.org/wiki/Category:网络安全 "wikilink")
-[Category:域名](https://zh.wikipedia.org/wiki/Category:域名 "wikilink")
-[Category:网际协议](https://zh.wikipedia.org/wiki/Category:网际协议 "wikilink")
-[Category:网络小作品](https://zh.wikipedia.org/wiki/Category:网络小作品 "wikilink")
+[Category:含有缺少标题的引用的页面](https://zh.wikipedia.org/wiki/Category:含有缺少标题的引用的页面 "wikilink") [Category:含有裸露网址的引用的页面](https://zh.wikipedia.org/wiki/Category:含有裸露网址的引用的页面 "wikilink") [Category:应用层协议](https://zh.wikipedia.org/wiki/Category:应用层协议 "wikilink") [Category:网络安全](https://zh.wikipedia.org/wiki/Category:网络安全 "wikilink") [Category:域名](https://zh.wikipedia.org/wiki/Category:域名 "wikilink") [Category:网际协议](https://zh.wikipedia.org/wiki/Category:网际协议 "wikilink") [Category:网络小作品](https://zh.wikipedia.org/wiki/Category:网络小作品 "wikilink")
 
 1.
 2.
@@ -96,8 +83,7 @@ over TLS服务。\[9\]
 5.
 6.
 7.
-8.  缺少或`|title=`为空
-    ([帮助](https://zh.wikipedia.org/wiki/Help:引文格式1错误#citation_missing_title "wikilink"))
+8.  缺少或`|title=`为空 ([帮助](https://zh.wikipedia.org/wiki/Help:引文格式1错误#citation_missing_title "wikilink"))
 9.
 10.
 11.

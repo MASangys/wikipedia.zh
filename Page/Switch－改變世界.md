@@ -398,12 +398,9 @@
 
 ## 同時段競爭作品
 
-  - [KBS](../Page/韓國放送公社.md "wikilink")
-    [水木連續劇](../Page/KBS水木連續劇.md "wikilink")：《[推理的女王2](../Page/推理的女王2.md "wikilink")》、《[Suits](../Page/Suits_\(韓國電視劇\).md "wikilink")》
-  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")
-    [水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")：《[牽著手，看夕陽西下](../Page/牽著手，看夕陽西下.md "wikilink")》、《[過來抱抱我](../Page/過來抱抱我.md "wikilink")》
-  - [tvN](../Page/TVN.md "wikilink")
-    [水木連續劇](../Page/TvN水木連續劇.md "wikilink")：《[我的大叔](../Page/我的大叔.md "wikilink")》
+  - [KBS](../Page/韓國放送公社.md "wikilink") [水木連續劇](../Page/KBS水木連續劇.md "wikilink")：《[推理的女王2](../Page/推理的女王2.md "wikilink")》、《[Suits](../Page/Suits_\(韓國電視劇\).md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") [水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")：《[牽著手，看夕陽西下](../Page/牽著手，看夕陽西下.md "wikilink")》、《[過來抱抱我](../Page/過來抱抱我.md "wikilink")》
+  - [tvN](../Page/TVN.md "wikilink") [水木連續劇](../Page/TvN水木連續劇.md "wikilink")：《[我的大叔](../Page/我的大叔.md "wikilink")》
 
 ## 參考資料
 
@@ -414,10 +411,7 @@
   - [Switch－改變世界-BLOG](https://m.post.naver.com/my/series/detail.nhn?seriesNo=439963&memberNo=17330384)
   - [香港無綫電視官方網站](http://programme.tvb.com/drama/switchchangetheworld0001)
 
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:韓國律政劇](https://zh.wikipedia.org/wiki/Category:韓國律政劇 "wikilink")
-[Category:檢察官題材電視劇](https://zh.wikipedia.org/wiki/Category:檢察官題材電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:韓國律政劇](https://zh.wikipedia.org/wiki/Category:韓國律政劇 "wikilink") [Category:檢察官題材電視劇](https://zh.wikipedia.org/wiki/Category:檢察官題材電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
 1.
 2.

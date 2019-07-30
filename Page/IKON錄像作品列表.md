@@ -1,4 +1,4 @@
-**iKON錄像作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[iKON歷年發行的演唱會DVD](https://zh.wikipedia.org/wiki/iKON "wikilink")、藍光，及歷年在[YouTube上發佈的音樂錄影帶](../Page/YouTube.md "wikilink")。
+**iKON錄像作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[iKON歷年發行的演唱會DVD](https://zh.wikipedia.org/wiki/iKON "wikilink")、藍光，及歷年在[YouTube](../Page/YouTube.md "wikilink")上發佈的音樂錄影帶。
 
 ## 影像專輯
 
@@ -304,8 +304,7 @@ Yoo Soong-woo (NAIVE)[10]</p></td>
 
   -
   -
-[Category:iKON](https://zh.wikipedia.org/wiki/Category:iKON "wikilink")
-[Category:韓國錄像作品列表](https://zh.wikipedia.org/wiki/Category:韓國錄像作品列表 "wikilink")
+[Category:iKON](https://zh.wikipedia.org/wiki/Category:iKON "wikilink") [Category:韓國錄像作品列表](https://zh.wikipedia.org/wiki/Category:韓國錄像作品列表 "wikilink")
 
 1.
 

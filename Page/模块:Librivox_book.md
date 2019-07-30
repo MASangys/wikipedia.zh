@@ -13,14 +13,13 @@ function p.book(frame)
 ` local lname   = nil -- last name`
 ` local id      = nil -- unsupported argument`
 ` local author  = nil -- author`
-` local tagline = "`[`LibriVox中的公有领域有声书`](../Page/LibriVox.md "wikilink")`"`
+` local tagline = "`[`LibriVox`](../Page/LibriVox.md "wikilink")中的公有领域有声书`"`
 ` local urlhead = "`<https://librivox.org/search>`?"`
 ` local italic   = "''"`
 
 ` id = trimArg(args.id)`
 ` if id then`
-`   error("Error in Template:" .. tname .. " - id argument not supported - please see documentation at `[`Template:Librivox``
- ``author`](https://zh.wikipedia.org/wiki/Template:Librivox_author "wikilink")`")`
+`   error("Error in Template:" .. tname .. " - id argument not supported - please see documentation at `[`Template:Librivox``   ``author`](https://zh.wikipedia.org/wiki/Template:Librivox_author "wikilink")`")`
 ` end`
 
 ` title = trimArg(args.title)`

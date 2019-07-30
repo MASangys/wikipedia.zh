@@ -1,9 +1,8 @@
-《**Miss Devil
-人事惡魔·椿真子**》（）為[日本電視台製作的連續劇](../Page/日本電視台.md "wikilink")，2018年4月14日起於[日本電視台週六連續劇時段播出](../Page/日本電視台週六連續劇.md "wikilink")。由[菜菜緒主演](../Page/菜菜緒.md "wikilink")\[1\]。
+《**Miss Devil 人事惡魔·椿真子**》（）為[日本電視台](../Page/日本電視台.md "wikilink")製作的連續劇，2018年4月14日起於[日本電視台週六連續劇](../Page/日本電視台週六連續劇.md "wikilink")時段播出。由[菜菜緒](../Page/菜菜緒.md "wikilink")主演\[1\]。
 
 ## 劇情概要
 
-人事顧問椿真子（[菜菜緒飾演](../Page/菜菜緒.md "wikilink")），一身黑色套裝，腳踩紅色高跟鞋。她作風大膽，不擇手段。只要她出馬，職權暴力、派系鬥爭、辦公室戀情、職場騷擾等公司內部問題都能一次解決…\[2\]
+人事顧問椿真子（[菜菜緒](../Page/菜菜緒.md "wikilink")飾演），一身黑色套裝，腳踩紅色高跟鞋。她作風大膽，不擇手段。只要她出馬，職權暴力、派系鬥爭、辦公室戀情、職場騷擾等公司內部問題都能一次解決…\[2\]
 
 ## 登場人物
 
@@ -18,8 +17,7 @@
 
 <!-- end list -->
 
-  - 齊藤博史：[佐藤勝利](../Page/佐藤勝利.md "wikilink")（[Sexy
-    Zone](../Page/Sexy_Zone.md "wikilink")）\[3\]
+  - 齊藤博史：[佐藤勝利](../Page/佐藤勝利.md "wikilink")（[Sexy Zone](../Page/Sexy_Zone.md "wikilink")）\[3\]
 
 <!-- end list -->
 
@@ -430,10 +428,8 @@
 ## 製作團隊
 
   - 劇本：山浦雅大、藤平久子
-  - 主題歌：[安室奈美惠](../Page/安室奈美惠.md "wikilink")「Body Feels EXIT」（Dimension
-    Point）\[4\]
-  - 插曲：[Sexy Zone](../Page/Sexy_Zone.md "wikilink")「Innocent
-    days」（[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")）
+  - 主題歌：[安室奈美惠](../Page/安室奈美惠.md "wikilink")「Body Feels EXIT」（Dimension Point）\[4\]
+  - 插曲：[Sexy Zone](../Page/Sexy_Zone.md "wikilink")「Innocent days」（[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")）
   - 製作統籌：福士睦（日本電視台，第1集－第7集）、池田健司（日本電視台，第8集－）
   - 製作人：森雅弘、本多繁勝（AXON）
   - 導演：佐久間紀佳、小室直子、本多繁勝
@@ -567,12 +563,7 @@
 
   -
   -
-[Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:日本電視台週六連續劇](https://zh.wikipedia.org/wiki/Category:日本電視台週六連續劇 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:職場題材電視劇](https://zh.wikipedia.org/wiki/Category:職場題材電視劇 "wikilink")
-[Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink")
+[Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:日本電視台週六連續劇](https://zh.wikipedia.org/wiki/Category:日本電視台週六連續劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:職場題材電視劇](https://zh.wikipedia.org/wiki/Category:職場題材電視劇 "wikilink") [Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink")
 
 1.
 2.  [緯來日本台－人事女惡魔](http://japan.vl.com.tw/channel/20180304/intro.htm)

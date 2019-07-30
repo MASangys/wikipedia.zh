@@ -1,6 +1,4 @@
-《**BLEACH
-漂靈：劇場版－呼喚你的名字**》（）是於2008年改编自日本漫畫家[久保帶人作品](https://zh.wikipedia.org/wiki/久保帶人 "wikilink")《[BLEACH
-漂靈](../Page/BLEACH.md "wikilink")》的2008年上映[劇場版第](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")3作。
+《**BLEACH 漂靈：劇場版－呼喚你的名字**》（）是於2008年改编自日本漫畫家[久保帶人作品](https://zh.wikipedia.org/wiki/久保帶人 "wikilink")《[BLEACH 漂靈](../Page/BLEACH.md "wikilink")》的2008年上映[劇場版第](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")3作。
 
 ## 故事簡介
 
@@ -68,6 +66,4 @@
 ## 外部連結
 
   -
-[Category:BLEACH](https://zh.wikipedia.org/wiki/Category:BLEACH "wikilink")
-[Category:2008年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2008年日本劇場動畫 "wikilink")
-[Category:日本電視動畫的電影版](https://zh.wikipedia.org/wiki/Category:日本電視動畫的電影版 "wikilink")
+[Category:BLEACH](https://zh.wikipedia.org/wiki/Category:BLEACH "wikilink") [Category:2008年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2008年日本劇場動畫 "wikilink") [Category:日本電視動畫的電影版](https://zh.wikipedia.org/wiki/Category:日本電視動畫的電影版 "wikilink")

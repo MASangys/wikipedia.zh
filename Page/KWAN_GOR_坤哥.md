@@ -1,5 +1,4 @@
-《**KWAN GOR
-坤哥**》是[香港歌手](../Page/香港.md "wikilink")[吳業坤的第一張個人唱片](../Page/吳業坤.md "wikilink")，於2015年11月18日發行。
+《**KWAN GOR 坤哥**》是[香港](../Page/香港.md "wikilink")歌手[吳業坤](../Page/吳業坤.md "wikilink")的第一張個人唱片，於2015年11月18日發行。
 
 ## 曲目
 
@@ -68,7 +67,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/梁柏堅" title="wikilink">梁柏堅</a></p></td>
 <td><p>戴龍</p></td>
 <td><p>戴龍、<a href="https://zh.wikipedia.org/wiki/丁文俊" title="wikilink">丁文俊</a></p></td>
-<td><p>與<a href="../Page/張惠雅.md" title="wikilink">張惠雅</a>、<a href="../Page/羅孝勇.md" title="wikilink">羅孝勇</a>、<a href="../Page/張紋嘉.md" title="wikilink">張紋嘉合唱</a><br />
+<td><p>與<a href="../Page/張惠雅.md" title="wikilink">張惠雅</a>、<a href="../Page/羅孝勇.md" title="wikilink">羅孝勇</a>、<a href="../Page/張紋嘉.md" title="wikilink">張紋嘉</a>合唱<br />
 《2打6七七八八演唱會》主題曲 3rd plug</p></td>
 </tr>
 </tbody>
@@ -151,7 +150,7 @@
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>與<a href="../Page/張惠雅.md" title="wikilink">張惠雅</a>、<a href="../Page/羅孝勇.md" title="wikilink">羅孝勇</a>、<a href="../Page/張紋嘉.md" title="wikilink">張紋嘉合唱</a><br />
+<td><p>與<a href="../Page/張惠雅.md" title="wikilink">張惠雅</a>、<a href="../Page/羅孝勇.md" title="wikilink">羅孝勇</a>、<a href="../Page/張紋嘉.md" title="wikilink">張紋嘉</a>合唱<br />
 《2打6七七八八演唱會》主題曲</p></td>
 </tr>
 <tr class="odd">
@@ -177,14 +176,10 @@
 
 ## 獎項
 
-  - [2015年勁歌金曲優秀選第一回](../Page/2015年勁歌金曲優秀選第一回得獎名單.md "wikilink")
-    得獎歌曲《原來她不夠愛我》
-  - [2015年勁歌金曲優秀選第二回](../Page/2015年勁歌金曲優秀選第二回得獎名單.md "wikilink")
-    得獎歌曲《陽光點的歌》
-  - [2015年度勁歌金曲頒獎典禮](../Page/2015年度勁歌金曲得獎名單.md "wikilink")
-    勁歌金曲獎《原來她不夠愛我》
-  - [2015年度叱-{咤}-樂壇流行榜頒獎典禮](../Page/2015年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")
-    叱咤樂壇我最喜愛的歌曲《原來她不夠愛我》
+  - [2015年勁歌金曲優秀選第一回](../Page/2015年勁歌金曲優秀選第一回得獎名單.md "wikilink") 得獎歌曲《原來她不夠愛我》
+  - [2015年勁歌金曲優秀選第二回](../Page/2015年勁歌金曲優秀選第二回得獎名單.md "wikilink") 得獎歌曲《陽光點的歌》
+  - [2015年度勁歌金曲頒獎典禮](../Page/2015年度勁歌金曲得獎名單.md "wikilink") 勁歌金曲獎《原來她不夠愛我》
+  - [2015年度叱-{咤}-樂壇流行榜頒獎典禮](../Page/2015年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") 叱咤樂壇我最喜愛的歌曲《原來她不夠愛我》
 
 ## 專輯活動
 

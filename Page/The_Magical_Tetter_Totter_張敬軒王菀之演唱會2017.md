@@ -1,15 +1,10 @@
-**The Magical Teeter Totter**
-張敬軒王菀之演唱會2017，是[香港歌手](../Page/香港.md "wikilink")[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")、[王菀之於](https://zh.wikipedia.org/wiki/王菀之 "wikilink")2017年2月16日至19日在[紅磡體育館舉辦的](https://zh.wikipedia.org/wiki/紅磡體育館 "wikilink")4場大型演唱會。
+**The Magical Teeter Totter** 張敬軒王菀之演唱會2017，是[香港](../Page/香港.md "wikilink")歌手[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")、[王菀之於](https://zh.wikipedia.org/wiki/王菀之 "wikilink")2017年2月16日至19日在[紅磡體育館舉辦的](https://zh.wikipedia.org/wiki/紅磡體育館 "wikilink")4場大型演唱會。
 
 主辦單位[英皇娛樂集團](https://zh.wikipedia.org/wiki/英皇娛樂集團 "wikilink")，主題贊助廠商為[AIA](https://zh.wikipedia.org/wiki/AIA "wikilink")。
 
 ## 簡介
 
-**The Magical Teeter Totter 張敬軒王菀之演唱會2017**
-為[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")[王菀之首個於紅磡香港體育館舉行的演唱會](https://zh.wikipedia.org/wiki/王菀之 "wikilink")。
-電視訪問中提到，多年前[王菀之希望二人舉辦演唱會](https://zh.wikipedia.org/wiki/王菀之 "wikilink")，而由於時機未成熟加上張敬軒希望每人的首個演唱會是個人獨立演唱會，因此當時未能成事，直至2016年時機成熟及每人都已經儲存一定的經典作品後，便促成是次演唱會。
-演唱會主題曲為[友誼的小船](https://www.kkbox.com/hk/tc/song/97800I1ALIHSfzm3Sfzm30XL-index.html)演唱會的舞台設計為一個星系，代表兩個不同星球的人連繫在一起。
-演唱會的名稱主題為搖搖板，根據[王菀之在訪問中描述](https://zh.wikipedia.org/wiki/王菀之 "wikilink")，是代表「一黑一白、一高一矮、一肥一瘦、一好一壞、一動一靜」，因此產生這個演唱會名稱。\[1\]
+**The Magical Teeter Totter 張敬軒王菀之演唱會2017** 為[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")[王菀之首個於紅磡香港體育館舉行的演唱會](https://zh.wikipedia.org/wiki/王菀之 "wikilink")。 電視訪問中提到，多年前[王菀之希望二人舉辦演唱會](https://zh.wikipedia.org/wiki/王菀之 "wikilink")，而由於時機未成熟加上張敬軒希望每人的首個演唱會是個人獨立演唱會，因此當時未能成事，直至2016年時機成熟及每人都已經儲存一定的經典作品後，便促成是次演唱會。 演唱會主題曲為[友誼的小船](https://www.kkbox.com/hk/tc/song/97800I1ALIHSfzm3Sfzm30XL-index.html)演唱會的舞台設計為一個星系，代表兩個不同星球的人連繫在一起。 演唱會的名稱主題為搖搖板，根據[王菀之在訪問中描述](https://zh.wikipedia.org/wiki/王菀之 "wikilink")，是代表「一黑一白、一高一矮、一肥一瘦、一好一壞、一動一靜」，因此產生這個演唱會名稱。\[1\]
 
 ## 各部分之簡介
 
@@ -43,8 +38,7 @@
 
 ### Encore
 
-歌曲 : My Way（張敬軒）、我真的受傷了（王菀之）、哥歌
-（王菀之）（尾場王菀之臨時加插的一小段歌曲）、Credit、擁抱一個人（王菀之）、手望(守望版)
+歌曲 : My Way（張敬軒）、我真的受傷了（王菀之）、哥歌 （王菀之）（尾場王菀之臨時加插的一小段歌曲）、Credit、擁抱一個人（王菀之）、手望(守望版)
 
 服飾 : 演唱會主題T-Shirt（設計：Gavin So ）
 
@@ -109,6 +103,5 @@
 
 [Category:2017年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2017年巡迴演唱會 "wikilink")
 
-1.  [2016-12-4
-    張敬軒、王菀之專訪](http://cntube.net/watch/UkYURtop-Cg/default.html)
-2.  原為[我是歌手練習曲](../Page/我是歌手.md "wikilink")
+1.  [2016-12-4 張敬軒、王菀之專訪](http://cntube.net/watch/UkYURtop-Cg/default.html)
+2.  原為[我是歌手](../Page/我是歌手.md "wikilink")練習曲

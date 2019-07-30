@@ -1,11 +1,4 @@
-**第六代[iPod
-touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")**（其正式名称仅为**iPod
-touch**，而**iPod touch 6**或**iTouch
-6**为俗称）是[苹果公司設計的第六代可携式多媒体播放器](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，属于iPod系列。它使用與[第五代iPod
-touch一样的](https://zh.wikipedia.org/wiki/iPod_touch_5 "wikilink")4吋[Retina螢幕和与](https://zh.wikipedia.org/wiki/Retina "wikilink")[iPhone
-6一样的](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")[Apple
-A8处理器](../Page/Apple_A8.md "wikilink")。iPod touch 6移除了iPod touch
-5机身背面左下角的Loop挂绳孔。
+**第六代[iPod touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")**（其正式名称仅为**iPod touch**，而**iPod touch 6**或**iTouch 6**为俗称）是[苹果公司設計的第六代可携式多媒体播放器](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，属于iPod系列。它使用與[第五代iPod touch一样的](https://zh.wikipedia.org/wiki/iPod_touch_5 "wikilink")4吋[Retina螢幕和与](https://zh.wikipedia.org/wiki/Retina "wikilink")[iPhone 6一样的](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")[Apple A8处理器](../Page/Apple_A8.md "wikilink")。iPod touch 6移除了iPod touch 5机身背面左下角的Loop挂绳孔。
 
 ## 规格表
 
@@ -43,7 +36,7 @@ A8处理器](../Page/Apple_A8.md "wikilink")。iPod touch 6移除了iPod touch
 </tr>
 <tr class="odd">
 <td><p>|<a href="../Page/鏡頭.md" title="wikilink">鏡頭</a></p></td>
-<td><p>後置：800万<a href="../Page/像素.md" title="wikilink">像素</a>，f/2.4，支持录制30 fps的<a href="../Page/1080p.md" title="wikilink">1080p</a>，60 fps的<a href="../Page/720p.md" title="wikilink">720p和</a>30 fps的<a href="../Page/720p.md" title="wikilink">720p视频</a> 前置：120万像素，支持录制30 fps的720p视频</p></td>
+<td><p>後置：800万<a href="../Page/像素.md" title="wikilink">像素</a>，f/2.4，支持录制30 fps的<a href="../Page/1080p.md" title="wikilink">1080p</a>，60 fps的<a href="../Page/720p.md" title="wikilink">720p</a>和30 fps的<a href="../Page/720p.md" title="wikilink">720p</a>视频 前置：120万像素，支持录制30 fps的720p视频</p></td>
 </tr>
 <tr class="even">
 <td><p>|外殼物料</p></td>
@@ -76,5 +69,4 @@ A8处理器](../Page/Apple_A8.md "wikilink")。iPod touch 6移除了iPod touch
 
 [官方網站](http://www.apple.com/cn/ipodtouch/)
 
-[Category:IPod](https://zh.wikipedia.org/wiki/Category:IPod "wikilink")
-[Category:个人数码助理](https://zh.wikipedia.org/wiki/Category:个人数码助理 "wikilink")
+[Category:IPod](https://zh.wikipedia.org/wiki/Category:IPod "wikilink") [Category:个人数码助理](https://zh.wikipedia.org/wiki/Category:个人数码助理 "wikilink")

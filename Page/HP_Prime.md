@@ -1,24 +1,16 @@
-**HP
-Prime**是一款由HP公司在2013年发布的带有[CAS系统的图形计算器](../Page/計算機代數系統.md "wikilink")，该机型是目前[HP图形计算器中的旗舰机型](../Page/惠普图形计算器对比.md "wikilink")，其有一系列类似于智能手机的功能，例如[触摸屏以及允许安装](https://zh.wikipedia.org/wiki/触摸屏 "wikilink")[应用程序](../Page/应用程序.md "wikilink")\[1\]HP
-Prime的CAS系统是一个独立的模式，用户可以自由选择是否启用。CAS系统基于一个由[Bernard
-Parisse开发的开源平台](https://zh.wikipedia.org/wiki/Bernard_Parisse "wikilink")[Xcas](https://zh.wikipedia.org/wiki/Xcas "wikilink")/[Giac](https://zh.wikipedia.org/wiki/Giac_\(software\) "wikilink")
-1.1.2 ，此计算器拥有1500毫安时的可充电[锂电池](../Page/锂电池.md "wikilink")，大约可提供15小时的续航时间。
+**HP Prime**是一款由HP公司在2013年发布的带有[CAS系统的图形计算器](../Page/計算機代數系統.md "wikilink")，该机型是目前[HP图形计算器中的旗舰机型](../Page/惠普图形计算器对比.md "wikilink")，其有一系列类似于智能手机的功能，例如[触摸屏以及允许安装](https://zh.wikipedia.org/wiki/触摸屏 "wikilink")[应用程序](../Page/应用程序.md "wikilink")\[1\]HP Prime的CAS系统是一个独立的模式，用户可以自由选择是否启用。CAS系统基于一个由[Bernard Parisse开发的开源平台](https://zh.wikipedia.org/wiki/Bernard_Parisse "wikilink")[Xcas](https://zh.wikipedia.org/wiki/Xcas "wikilink")/[Giac](https://zh.wikipedia.org/wiki/Giac_\(software\) "wikilink") 1.1.2 ，此计算器拥有1500毫安时的可充电[锂电池](../Page/锂电池.md "wikilink")，大约可提供15小时的续航时间。
 
 HP Prime因为拥有18.23×8.58×1.39 cm的尺寸，是目前（2015年）最薄的带有CAS系统的计算器。\[2\]
 
 ## 考试模式
 
-HP
-Prime有一个叫做「考试模式」的新特性，在启用这个模式之后，一些功能将无法使用（例如CAS系统、应用程序、笔记……）。启用考试模式时可以设定一系列预置的时间（从15分钟到8小时），这可以在计算器或电脑配套软件上设定。\[3\]当计算器进入考试模式后，其顶部的LED灯将会亮起，以便监考人员方便的查验计算器是否处于考试模式。但需要注意的是尽管拥有了考试模式，HP
-Prime依旧在美国的[ACT考试中被禁用](https://zh.wikipedia.org/wiki/ACT "wikilink")\[4\]，不过HP
-Prime已经开始被其他考试接受，例如荷兰的[CvTE](https://zh.wikipedia.org/wiki/CvTE "wikilink")\[5\]、瑞士的[IB](https://zh.wikipedia.org/wiki/國際文憑組織 "wikilink")\[6\]以及加拿大[艾伯塔省的教育机构举办的考试](https://zh.wikipedia.org/wiki/艾伯塔 "wikilink")。\[7\]
+HP Prime有一个叫做「考试模式」的新特性，在启用这个模式之后，一些功能将无法使用（例如CAS系统、应用程序、笔记……）。启用考试模式时可以设定一系列预置的时间（从15分钟到8小时），这可以在计算器或电脑配套软件上设定。\[3\]当计算器进入考试模式后，其顶部的LED灯将会亮起，以便监考人员方便的查验计算器是否处于考试模式。但需要注意的是尽管拥有了考试模式，HP Prime依旧在美国的[ACT考试中被禁用](https://zh.wikipedia.org/wiki/ACT "wikilink")\[4\]，不过HP Prime已经开始被其他考试接受，例如荷兰的[CvTE](https://zh.wikipedia.org/wiki/CvTE "wikilink")\[5\]、瑞士的[IB](https://zh.wikipedia.org/wiki/國際文憑組織 "wikilink")\[6\]以及加拿大[艾伯塔省的教育机构举办的考试](https://zh.wikipedia.org/wiki/艾伯塔 "wikilink")。\[7\]
 
 ## 不同的发布版本
 
 第一个版本是***（NW280AA）***其版本代码为A，这个版本不支持无线连接和通过USB的双机互联。
 
-目前的版本是***（G8X92AA）***其版本代码为C，这个版本加入了和无线套装相配合的无线连接方式以及USB串口数据传输。\[8\]其中无线传输主要面向教育用户，其支持一台主机与30台HP
-Prime连接。
+目前的版本是***（G8X92AA）***其版本代码为C，这个版本加入了和无线套装相配合的无线连接方式以及USB串口数据传输。\[8\]其中无线传输主要面向教育用户，其支持一台主机与30台HP Prime连接。
 
 ## 固件版本
 
@@ -68,18 +60,12 @@ Hp prime apps.jpg|系统功能菜单 Hp prime cas.jpg|CAS系统界面
 
 ## 外部链接
 
-  - [HP
-    Prime官方网页](http://www.shopping.hp.com/en_US/home-office/-/products/Accessories/Calculators/NW280AA?HP-Prime-Graphing-Calculator)
+  - [HP Prime官方网页](http://www.shopping.hp.com/en_US/home-office/-/products/Accessories/Calculators/NW280AA?HP-Prime-Graphing-Calculator)
   - [惠普官方FTP服务器，PC模拟器，最新的文档和固件下载](ftp://ftp.hp.com/pub/calculators/Prime/)
-  - [Emulator for evaluation
-    (Windows)](http://tiplanet.org/modules/archives/download.php?id=19496),
-    alternative download:
-    [hpcalc.org](http://www.hpcalc.org/details.php?id=7468)
-  - [逆向工程HP Prime
-    USB协议](https://web.archive.org/web/20160303222112/http://ried.cl/en/franqueando-los-secretos-del-hardware-mediante-ingenieria-inversa/)
+  - [Emulator for evaluation (Windows)](http://tiplanet.org/modules/archives/download.php?id=19496), alternative download: [hpcalc.org](http://www.hpcalc.org/details.php?id=7468)
+  - [逆向工程HP Prime USB协议](https://web.archive.org/web/20160303222112/http://ried.cl/en/franqueando-los-secretos-del-hardware-mediante-ingenieria-inversa/)
 
-[Category:惠普计算器](https://zh.wikipedia.org/wiki/Category:惠普计算器 "wikilink")
-[Category:图形计算器](https://zh.wikipedia.org/wiki/Category:图形计算器 "wikilink")
+[Category:惠普计算器](https://zh.wikipedia.org/wiki/Category:惠普计算器 "wikilink") [Category:图形计算器](https://zh.wikipedia.org/wiki/Category:图形计算器 "wikilink")
 
 1.
 

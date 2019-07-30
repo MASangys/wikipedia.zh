@@ -1,15 +1,8 @@
-，是由[光荣特库摩旗下ω](../Page/光荣特库摩.md "wikilink")-Force制作部开发，[史克威尔艾尼克斯发行的](../Page/史克威尔艾尼克斯.md "wikilink")[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")。游戏于2016年5月在日本推出，对应[PlayStation
-3](../Page/PlayStation_3.md "wikilink")、[PlayStation
-4和](../Page/PlayStation_4.md "wikilink")[PlayStation
-Vita平台](../Page/PlayStation_Vita.md "wikilink")；正体中文版于2016年8月发行，对应PlayStation
-4和PlayStation
-Vita。2017年3月3日，游戏和前作的合集在[任天堂Switch上发售](../Page/任天堂Switch.md "wikilink")。
+，是由[光荣特库摩](../Page/光荣特库摩.md "wikilink")旗下ω-Force制作部开发，[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")发行的[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")。游戏于2016年5月在日本推出，对应[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[PlayStation 4和](../Page/PlayStation_4.md "wikilink")[PlayStation Vita平台](../Page/PlayStation_Vita.md "wikilink")；正体中文版于2016年8月发行，对应PlayStation 4和PlayStation Vita。2017年3月3日，游戏和前作的合集在[任天堂Switch](../Page/任天堂Switch.md "wikilink")上发售。
 
 ## 玩法
 
-《勇者鬥惡龍
-英雄集結II》是[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")，繼承並強化了前作《[勇者鬥惡龍
-英雄集結](../Page/勇者鬥惡龍_英雄集結_闇龍與世界樹之城.md "wikilink")》的玩法。遊戲採用第三人稱3D畫面，玩家直接操控角色探索地圖、與非玩家角色對話、和怪物戰鬥。遊戲由城鎮、原野和戰鬥關卡三類區域構成。城鎮是玩家的據點，玩家可通過城內的各種設施，調整強化戰鬥陣容。城鎮和原野相互連接，玩家可在原野自由探索、與怪物戰鬥或收集素材。玩家推進故事或做某些任務時，要進入戰鬥關卡作戰，關卡最後多要迎戰[強敵](https://zh.wikipedia.org/wiki/頭目_\(電子遊戲\) "wikilink")\[1\]。
+《勇者鬥惡龍 英雄集結II》是[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")，繼承並強化了前作《[勇者鬥惡龍 英雄集結](../Page/勇者鬥惡龍_英雄集結_闇龍與世界樹之城.md "wikilink")》的玩法。遊戲採用第三人稱3D畫面，玩家直接操控角色探索地圖、與非玩家角色對話、和怪物戰鬥。遊戲由城鎮、原野和戰鬥關卡三類區域構成。城鎮是玩家的據點，玩家可通過城內的各種設施，調整強化戰鬥陣容。城鎮和原野相互連接，玩家可在原野自由探索、與怪物戰鬥或收集素材。玩家推進故事或做某些任務時，要進入戰鬥關卡作戰，關卡最後多要迎戰[強敵](https://zh.wikipedia.org/wiki/頭目_\(電子遊戲\) "wikilink")\[1\]。
 
 戰鬥隊伍由至多4人組成，玩家可操作其中任意一人，其他人由電腦自動操作。玩家可用武器攻擊、特技或魔法傷害敵人，發動特技或魔法需要消耗魔法值。玩家攻擊時還要防禦或躲避敵方攻擊，角色被擊中時[生命值](../Page/生命值.md "wikilink")（HP）會下降，如果降到0角色將無法戰鬥。全隊角色倒下時戰鬥即告失敗，玩家會自動返回據點。玩家頭像邊顯示有鬥志量表，攻擊敵人可以積累鬥志。鬥志量表充滿的角色可進入鬥志高昂狀態，此時角色不會受到傷害，且發動特技不耗費魔法值。鬥志高昂結束時，角色會發動威力強大的必殺技，同時鬥志量表清零。怪物擊敗後有時會化身怪物硬幣，玩家可收集硬幣釋放怪物協助戰鬥。不同怪物支援方法不一，有些直接在戰場上作戰，有些可讓玩家暫時變身為怪物\[2\]。
 
@@ -21,8 +14,7 @@ Vita。2017年3月3日，游戏和前作的合集在[任天堂Switch上发售](.
 
 《英雄集結II》採用多元世界的設定。玩家除故事主要展開的世界外，還能進入結構類似的「異世界」，此外部分本傳作品角色也會受到召喚，從他們的世界來到主人公的世界。异世界在遊戲情節開始的一千年前，由雙子之王札拉姆和納吉姆統治，但札拉姆变成魔王，毀滅了异世界。其弟納吉姆封印后札拉姆，来到游戏所在的世界，并留下了子嗣。而游戏世界千年前也发生了大战，战后世界分裂成七国：南方三国奥伦加、杰瓦尔、库雷帝亚，北方三国莫利亚斯、拉达尔、费尔诺克，及位於世界中心的宗主国瑟比翁。南方三國和宗主國由人類和怪物共同居住、北方三國由怪物統治。在盟主瑟比翁王协调下，战后世界一直维持着和平\[5\]。世间流传著预言，称世界再次爆發大戰時，會有双子之王君临天下。
 
-游戏有4名原创操作角色：杰瓦尔出身的军校生兄妹拉杰尔（[森山未来配音](https://zh.wikipedia.org/wiki/森山未来 "wikilink")）、泰雷西雅（[武井咲配音](../Page/武井咲.md "wikilink")）；二人的青梅竹马，
-杰瓦尔王子切札尔（[山田孝之配音](../Page/山田孝之.md "wikilink")）；效力于瑟比翁王的战士奥尔妮瑟（[水树奈奈配音](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")）。此外跟随主角的还有隻[荷伊米史莱姆怪物伙伴](../Page/史莱姆_\(勇者斗恶龙\).md "wikilink")，名為霍米隆（[钉宫理惠配音](https://zh.wikipedia.org/wiki/钉宫理惠 "wikilink")）。故事中登場的本传操控角色有：《[勇者斗恶龙IV](https://zh.wikipedia.org/wiki/勇者斗恶龙IV "wikilink")》的特鲁内克（[茶風林配音](../Page/茶風林.md "wikilink")）、米妮娅（[日笠陽子配音](../Page/日笠陽子.md "wikilink")）、玛妮娅（[澤城美雪配音](../Page/澤城美雪.md "wikilink")）、亚莉娜（[中川翔子配音](../Page/中川翔子.md "wikilink")）、克里弗特（[緑川光配音](https://zh.wikipedia.org/wiki/緑川光 "wikilink")），《[勇者斗恶龙VI](https://zh.wikipedia.org/wiki/勇者斗恶龙VI "wikilink")》的哈森（[安元洋贵配音](https://zh.wikipedia.org/wiki/安元洋贵 "wikilink")）、泰瑞（[神谷浩史配音](../Page/神谷浩史.md "wikilink")），《[勇者斗恶龙VII](https://zh.wikipedia.org/wiki/勇者斗恶龙VII "wikilink")》的玛丽贝尔（[悠木碧配音](../Page/悠木碧.md "wikilink")）、贾波（[田村睦心配音](../Page/田村睦心.md "wikilink")），以及《[勇者斗恶龙VIII](https://zh.wikipedia.org/wiki/勇者斗恶龙VIII "wikilink")》的库库鲁（[細谷佳正配音](../Page/細谷佳正.md "wikilink")）、洁西卡（[竹達彩奈配音](../Page/竹達彩奈.md "wikilink")）\[6\]。
+游戏有4名原创操作角色：杰瓦尔出身的军校生兄妹拉杰尔（[森山未来配音](https://zh.wikipedia.org/wiki/森山未来 "wikilink")）、泰雷西雅（[武井咲](../Page/武井咲.md "wikilink")配音）；二人的青梅竹马， 杰瓦尔王子切札尔（[山田孝之](../Page/山田孝之.md "wikilink")配音）；效力于瑟比翁王的战士奥尔妮瑟（[水树奈奈配音](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")）。此外跟随主角的还有隻[荷伊米史莱姆怪物伙伴](../Page/史莱姆_\(勇者斗恶龙\).md "wikilink")，名為霍米隆（[钉宫理惠配音](https://zh.wikipedia.org/wiki/钉宫理惠 "wikilink")）。故事中登場的本传操控角色有：《[勇者斗恶龙IV](https://zh.wikipedia.org/wiki/勇者斗恶龙IV "wikilink")》的特鲁内克（[茶風林](../Page/茶風林.md "wikilink")配音）、米妮娅（[日笠陽子](../Page/日笠陽子.md "wikilink")配音）、玛妮娅（[澤城美雪](../Page/澤城美雪.md "wikilink")配音）、亚莉娜（[中川翔子](../Page/中川翔子.md "wikilink")配音）、克里弗特（[緑川光配音](https://zh.wikipedia.org/wiki/緑川光 "wikilink")），《[勇者斗恶龙VI](https://zh.wikipedia.org/wiki/勇者斗恶龙VI "wikilink")》的哈森（[安元洋贵配音](https://zh.wikipedia.org/wiki/安元洋贵 "wikilink")）、泰瑞（[神谷浩史](../Page/神谷浩史.md "wikilink")配音），《[勇者斗恶龙VII](https://zh.wikipedia.org/wiki/勇者斗恶龙VII "wikilink")》的玛丽贝尔（[悠木碧](../Page/悠木碧.md "wikilink")配音）、贾波（[田村睦心](../Page/田村睦心.md "wikilink")配音），以及《[勇者斗恶龙VIII](https://zh.wikipedia.org/wiki/勇者斗恶龙VIII "wikilink")》的库库鲁（[細谷佳正](../Page/細谷佳正.md "wikilink")配音）、洁西卡（[竹達彩奈](../Page/竹達彩奈.md "wikilink")配音）\[6\]。
 
 ### 故事
 
@@ -34,8 +26,7 @@ Vita。2017年3月3日，游戏和前作的合集在[任天堂Switch上发售](.
 
 ## 开发
 
-本作和前作《[勇者斗恶龙 英雄集结
-暗龙与世界树之城](https://zh.wikipedia.org/wiki/勇者斗恶龙_英雄集结_暗龙与世界树之城 "wikilink")》一样，由[光荣特库摩旗下的ω](../Page/光荣特库摩.md "wikilink")-Force开发，该制作部主要作品为[无双系列](https://zh.wikipedia.org/wiki/无双系列 "wikilink")。[史克威尔艾尼克斯的青海亮太担任游戏制作人](../Page/史克威尔艾尼克斯.md "wikilink")，光荣特库摩游戏的庄知彦担任总监。《英雄集結II》在前作《[英雄集结](https://zh.wikipedia.org/wiki/勇者斗恶龙_英雄集结_暗龙与世界树之城 "wikilink")》完成時分開始計畫。遊戲於2016年4月1日首次公開，當時遊戲已有大體構思，並開始決定劇本\[7\]。日版游戏副标题于2015年7月底正式公开\[8\]。
+本作和前作《[勇者斗恶龙 英雄集结 暗龙与世界树之城](https://zh.wikipedia.org/wiki/勇者斗恶龙_英雄集结_暗龙与世界树之城 "wikilink")》一样，由[光荣特库摩](../Page/光荣特库摩.md "wikilink")旗下的ω-Force开发，该制作部主要作品为[无双系列](https://zh.wikipedia.org/wiki/无双系列 "wikilink")。[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")的青海亮太担任游戏制作人，光荣特库摩游戏的庄知彦担任总监。《英雄集結II》在前作《[英雄集结](https://zh.wikipedia.org/wiki/勇者斗恶龙_英雄集结_暗龙与世界树之城 "wikilink")》完成時分開始計畫。遊戲於2016年4月1日首次公開，當時遊戲已有大體構思，並開始決定劇本\[7\]。日版游戏副标题于2015年7月底正式公开\[8\]。
 
 游戏定位为系列30周年纪念作品，在2016年5月27日30周年纪念日发行\[9\]。
 
@@ -51,17 +42,7 @@ Vita。2017年3月3日，游戏和前作的合集在[任天堂Switch上发售](.
 
   -
 
-[Category:2016年电子游戏](https://zh.wikipedia.org/wiki/Category:2016年电子游戏 "wikilink")
-[Category:勇者鬥惡龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:勇者鬥惡龍系列電子遊戲 "wikilink")
-[Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink")
-[Category:光荣特库摩游戏](https://zh.wikipedia.org/wiki/Category:光荣特库摩游戏 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink")
-[Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink")
-[Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
-[Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink")
+[Category:2016年电子游戏](https://zh.wikipedia.org/wiki/Category:2016年电子游戏 "wikilink") [Category:勇者鬥惡龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:勇者鬥惡龍系列電子遊戲 "wikilink") [Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink") [Category:光荣特库摩游戏](https://zh.wikipedia.org/wiki/Category:光荣特库摩游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink")
 
 1.
 2.

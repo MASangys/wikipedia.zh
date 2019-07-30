@@ -1,6 +1,4 @@
-《**秘密庭園**》\[1\]（、）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[Oh
-My
-Girl的第五張](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，以《秘密庭園》為主打歌。\[2\]
+《**秘密庭園**》\[1\]（、）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[Oh My Girl的第五張](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，以《秘密庭園》為主打歌。\[2\]
 
 ## 曲目
 
@@ -56,11 +54,8 @@ Girl的第五張](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")[迷你專
 
 ## 參考文獻
 
-[Category:韓國音樂專辑](https://zh.wikipedia.org/wiki/Category:韓國音樂專辑 "wikilink")
-[Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink")
-[Category:Oh_My_Girl音樂專輯](https://zh.wikipedia.org/wiki/Category:Oh_My_Girl音樂專輯 "wikilink")
+[Category:韓國音樂專辑](https://zh.wikipedia.org/wiki/Category:韓國音樂專辑 "wikilink") [Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink") [Category:Oh_My_Girl音樂專輯](https://zh.wikipedia.org/wiki/Category:Oh_My_Girl音樂專輯 "wikilink")
 
 1.  以韓文漢字應翻為"庭園"而非"花園"
 2.
-3.  [厚积薄发OH MY GIRL新曲《秘密花園》斩獲音源榜一位 韓國之眼
-    朝鲜日報網](https://cnnews.chosun.com/client/news/viw.asp?cate=C04&mcate=M1002&nNewsNumb=20180149094&nidx=49095)
+3.  [厚积薄发OH MY GIRL新曲《秘密花園》斩獲音源榜一位 韓國之眼 朝鲜日報網](https://cnnews.chosun.com/client/news/viw.asp?cate=C04&mcate=M1002&nNewsNumb=20180149094&nidx=49095)

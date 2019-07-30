@@ -1,7 +1,4 @@
-是由[大川bkub創作的](../Page/大川bkub.md "wikilink")[日本搞笑](../Page/日本.md "wikilink")[四格漫畫作品](../Page/四格漫畫.md "wikilink")，自2014年8月在[竹書房的](../Page/竹書房.md "wikilink")[網路漫畫發布站](https://zh.wikipedia.org/wiki/網路漫畫 "wikilink")《》連載\[1\]。本作品一度在2015年11月結束連載\[2\]，並於同年12月發行[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")\[3\]。2016年2月18日，大川bkub開始在同網站連載新作品\[4\]，翌日得知該作品實際上是《-{
-zh-cn:pop子和pipi美的日常;zh-hans:pop子和pipi美的日常; zh-mo:POP TEAM EPIC;
-zh-tw:POP TEAM EPIC; zh-hk:POP TEAM
-EPIC;}-》\[5\]，該連載後來在2017年4月30日結束。2017年10月10日，漫畫第三部開始連載\[6\]。[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2018年1月6日至3月24日播出\[7\]，電視特別篇於2019年4月1日播出\[8\]\[9\]，全14集。
+是由[大川bkub](../Page/大川bkub.md "wikilink")創作的[日本](../Page/日本.md "wikilink")搞笑[四格漫畫](../Page/四格漫畫.md "wikilink")作品，自2014年8月在[竹書房](../Page/竹書房.md "wikilink")的[網路漫畫發布站](https://zh.wikipedia.org/wiki/網路漫畫 "wikilink")《》連載\[1\]。本作品一度在2015年11月結束連載\[2\]，並於同年12月發行[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")\[3\]。2016年2月18日，大川bkub開始在同網站連載新作品\[4\]，翌日得知該作品實際上是《-{ zh-cn:pop子和pipi美的日常;zh-hans:pop子和pipi美的日常; zh-mo:POP TEAM EPIC; zh-tw:POP TEAM EPIC; zh-hk:POP TEAM EPIC;}-》\[5\]，該連載後來在2017年4月30日結束。2017年10月10日，漫畫第三部開始連載\[6\]。[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2018年1月6日至3月24日播出\[7\]，電視特別篇於2019年4月1日播出\[8\]\[9\]，全14集。
 
 ## 登場人物
 
@@ -17,8 +14,7 @@ EPIC;}-》\[5\]，該連載後來在2017年4月30日結束。2017年10月10日�
 
 ### 星色Girl Drop
 
-2017年4月1日宣布動畫化，在官方網站設立倒計時，並放出了一段PV，動畫預定2017年10月播出，但第2天就改為了《POP TEAM
-EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只保留预告部分。
+2017年4月1日宣布動畫化，在官方網站設立倒計時，並放出了一段PV，動畫預定2017年10月播出，但第2天就改為了《POP TEAM EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只保留预告部分。
 
   -
     大地的青梅竹馬，高中二年級生。活潑開朗的人。是人氣超高的偶像組合「DropStars」的主要人物，但平時隱藏身份。
@@ -115,7 +111,7 @@ EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只�
 <td><p>後半</p></td>
 <td><p><a href="../Page/玄田哲章.md" title="wikilink">玄田哲章</a></p></td>
 <td><p><a href="../Page/神谷明.md" title="wikilink">神谷明</a></p></td>
-<td><p><strong>《<a href="../Page/城市猎人.md" title="wikilink">城市猎人</a>》</strong>中<a href="../Page/冴羽獠.md" title="wikilink">冴羽獠和海坊主</a>（伊集院隼人）的声優。<br />
+<td><p><strong>《<a href="../Page/城市猎人.md" title="wikilink">城市猎人</a>》</strong>中<a href="../Page/冴羽獠.md" title="wikilink">冴羽獠</a>和海坊主（伊集院隼人）的声優。<br />
 此外曾在<strong>《<a href="../Page/福星小子.md" title="wikilink">福星小子</a>》</strong>、<strong>《<a href="https://zh.wikipedia.org/wiki/聖鬥士星矢" title="wikilink">聖鬥士星矢</a>》</strong>等作品中共演。</p></td>
 <td></td>
 </tr>
@@ -132,7 +128,7 @@ EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只�
 <td><p>後半</p></td>
 <td><p><a href="../Page/中村悠一.md" title="wikilink">中村悠一</a></p></td>
 <td><p><a href="../Page/杉田智和.md" title="wikilink">杉田智和</a></p></td>
-<td><p>曾在<strong>《<a href="https://zh.wikipedia.org/wiki/銀魂" title="wikilink">銀魂</a>》</strong>中坂田金時和<a href="../Page/坂田銀時.md" title="wikilink">坂田銀時的聲優</a>。<br />
+<td><p>曾在<strong>《<a href="https://zh.wikipedia.org/wiki/銀魂" title="wikilink">銀魂</a>》</strong>中坂田金時和<a href="../Page/坂田銀時.md" title="wikilink">坂田銀時</a>的聲優。<br />
 此外曾在<strong>《<a href="https://zh.wikipedia.org/wiki/小松先生" title="wikilink">小松先生</a>》</strong>、<strong>《<a href="../Page/愚者信長.md" title="wikilink">愚者信長</a>》</strong>等作品中共演。<br />
 曾合作主持遊戲節目《》。<br />
 「POP TEAM EPIC」聲優組合預測問卷結果首位[18]。</p></td>
@@ -150,7 +146,7 @@ EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只�
 <td><p>後半</p></td>
 <td><p><a href="../Page/下野紘.md" title="wikilink">下野紘</a></p></td>
 <td><p><a href="../Page/梶裕貴.md" title="wikilink">梶裕貴</a></p></td>
-<td><p><strong>《<a href="../Page/進擊的巨人.md" title="wikilink">進擊的巨人</a>》</strong>中柯尼·史普林格和<a href="../Page/艾連·葉卡.md" title="wikilink">艾連·葉卡的聲優</a>。<br />
+<td><p><strong>《<a href="../Page/進擊的巨人.md" title="wikilink">進擊的巨人</a>》</strong>中柯尼·史普林格和<a href="../Page/艾連·葉卡.md" title="wikilink">艾連·葉卡</a>的聲優。<br />
 此外曾在<strong>《<a href="https://zh.wikipedia.org/wiki/閃電十一人" title="wikilink">閃電十一人</a>》</strong>、<strong>《<a href="../Page/歌之王子殿下.md" title="wikilink">歌之王子殿下</a>》</strong>等作品中共演。<br />
 曾合作主持網路電台《》。<br />
 「POP TEAM EPIC」聲優組合預測問卷結果第十九位。</p></td>
@@ -161,7 +157,7 @@ EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只�
 <td><p>前半</p></td>
 <td><p><a href="../Page/興梠里美.md" title="wikilink">興梠里美</a></p></td>
 <td><p><a href="../Page/矢島晶子.md" title="wikilink">矢島晶子</a></p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/蠟筆小新" title="wikilink">蠟筆小新</a>》</strong>中<a href="https://zh.wikipedia.org/wiki/野原向日葵" title="wikilink">野原向日葵和</a><a href="../Page/野原新之助.md" title="wikilink">野原新之助的声優</a>[20]。<br />
+<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/蠟筆小新" title="wikilink">蠟筆小新</a>》</strong>中<a href="https://zh.wikipedia.org/wiki/野原向日葵" title="wikilink">野原向日葵和</a><a href="../Page/野原新之助.md" title="wikilink">野原新之助</a>的声優[20]。<br />
 此外曾在<strong>《<a href="../Page/少女革命.md" title="wikilink">少女革命</a>》</strong>、<strong>《<a href="../Page/VS騎士檸檬汽水&amp;40炎.md" title="wikilink">VS騎士檸檬汽水&amp;40炎</a>》</strong>等作品中共演。</p></td>
 </tr>
 <tr class="even">
@@ -216,7 +212,7 @@ EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只�
 <td><p>後半</p></td>
 <td><p><a href="../Page/小山力也.md" title="wikilink">小山力也</a></p></td>
 <td><p><a href="../Page/高木涉.md" title="wikilink">高木涉</a></p></td>
-<td><p><strong>《<a href="../Page/名偵探柯南.md" title="wikilink">名偵探柯南</a>》</strong>中<a href="../Page/毛利小五郎.md" title="wikilink">毛利小五郎和</a><a href="../Page/高木涉_(名偵探柯南).md" title="wikilink">高木涉的聲優</a>。<br />
+<td><p><strong>《<a href="../Page/名偵探柯南.md" title="wikilink">名偵探柯南</a>》</strong>中<a href="../Page/毛利小五郎.md" title="wikilink">毛利小五郎</a>和<a href="../Page/高木涉_(名偵探柯南).md" title="wikilink">高木涉的聲優</a>。<br />
 此外曾在'''《[[無頭騎士異聞錄_DuRaRaRa</p></td>
 <td><p>|無頭騎士異聞錄 DuRaRaRa</p></td>
 </tr>
@@ -241,7 +237,7 @@ EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只�
 <td><p>前半</p></td>
 <td><p><a href="../Page/小山茉美.md" title="wikilink">小山茉美</a></p></td>
 <td><p><a href="../Page/三石琴乃.md" title="wikilink">三石琴乃</a></p></td>
-<td><p><strong>《<a href="../Page/美少女戰士R.md" title="wikilink">美少女戰士R</a>》</strong>中翠之艾絲美露和<a href="../Page/月野兔.md" title="wikilink">月野兔的聲優</a>[25]。<br />
+<td><p><strong>《<a href="../Page/美少女戰士R.md" title="wikilink">美少女戰士R</a>》</strong>中翠之艾絲美露和<a href="../Page/月野兔.md" title="wikilink">月野兔</a>的聲優[25]。<br />
 此外曾在<strong>《<a href="../Page/天使心_(北條司).md" title="wikilink">天使心</a>》</strong>、<strong>《<a href="../Page/機動戰士GUNDAM_SEED_DESTINY.md" title="wikilink">機動戰士GUNDAM SEED DESTINY</a>》</strong>等作品中共演。</p></td>
 </tr>
 <tr class="even">
@@ -274,7 +270,7 @@ EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只�
 <td><p>前半</p></td>
 <td><p><a href="../Page/田村由香里.md" title="wikilink">田村由香里</a></p></td>
 <td><p><a href="../Page/堀江由衣.md" title="wikilink">堀江由衣</a></p></td>
-<td><p>两人曾组建组合“”，同为<a href="../Page/17岁教.md" title="wikilink">17岁教成员</a>，<br />
+<td><p>两人曾组建组合“”，同为<a href="../Page/17岁教.md" title="wikilink">17岁教</a>成员，<br />
 並在多部作品中合作演出。</p></td>
 </tr>
 <tr class="even">
@@ -470,7 +466,7 @@ EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只�
 
 | 欄目名                    | 段落          | POP子                                                                       | PIPI美                                                                               | 備注                                     |
 | ---------------------- | ----------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------- |
-| Bobunemimimmi          | 共通          | 板倉俊介                                                                       | 安達亨                                                                                 | 製作組[AC部成員](../Page/AC部.md "wikilink")。 |
+| Bobunemimimmi          | 共通          | 板倉俊介                                                                       | 安達亨                                                                                 | 製作組[AC部](../Page/AC部.md "wikilink")成員。 |
 | 第7話 高速紙芝居「HellShake矢野」 | 前半          |                                                                            |                                                                                     |                                        |
 | 後半                     | 安達亨         | 板倉俊介                                                                       |                                                                                     |                                        |
 | JAPON MiGNON           | 共通          | [Fanny Bloc](https://zh.wikipedia.org/wiki/:wikidata:Q15973739 "wikilink") | [Christine Bellier](https://zh.wikipedia.org/wiki/:fr:Christine_Bellier "wikilink") | 法國女配音員。                                |
@@ -849,8 +845,7 @@ EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只�
 
 ### 官方選集
 
-基於漫畫、動畫中的虛擬動畫《星色Girl
-Drop》製作的[漫畫選集](https://zh.wikipedia.org/wiki/漫畫選集 "wikilink")，於電視動畫第一集播放後宣佈出版\[29\]。漫畫和插圖由17位作者參與，由[渡邊明夫負責封面插圖](../Page/渡邊明夫.md "wikilink")，神風動画負責協助設定，原作者大川bkub也以「bkub」的名義參與製作\[30\]。
+基於漫畫、動畫中的虛擬動畫《星色Girl Drop》製作的[漫畫選集](https://zh.wikipedia.org/wiki/漫畫選集 "wikilink")，於電視動畫第一集播放後宣佈出版\[29\]。漫畫和插圖由17位作者參與，由[渡邊明夫](../Page/渡邊明夫.md "wikilink")負責封面插圖，神風動画負責協助設定，原作者大川bkub也以「bkub」的名義參與製作\[30\]。
 
 <table>
 <thead>
@@ -876,12 +871,7 @@ Drop》製作的[漫畫選集](https://zh.wikipedia.org/wiki/漫畫選集 "wikil
 
 ## 電視動畫
 
-2017年[4月1日](../Page/愚人节.md "wikilink")，《星色Girl
-Drop》宣布推出動畫，並在官方網站設置倒數計時\[31\]。翌日，網站內容變更為《-{
-zh-cn:pop子和pipi美的日常;zh-hans:pop子和pipi美的日常; zh-mo:POP TEAM EPIC;
-zh-tw:POP TEAM EPIC; zh-hk:POP TEAM
-EPIC;}-》，動畫原預定在同年10月播出\[32\]，但官方後來表示由於「King
-Records的錯誤」而延期至2018年1月。
+2017年[4月1日](../Page/愚人节.md "wikilink")，《星色Girl Drop》宣布推出動畫，並在官方網站設置倒數計時\[31\]。翌日，網站內容變更為《-{ zh-cn:pop子和pipi美的日常;zh-hans:pop子和pipi美的日常; zh-mo:POP TEAM EPIC; zh-tw:POP TEAM EPIC; zh-hk:POP TEAM EPIC;}-》，動畫原預定在同年10月播出\[32\]，但官方後來表示由於「King Records的錯誤」而延期至2018年1月。
 
 動畫采取「[重播](https://zh.wikipedia.org/wiki/重播 "wikilink")」形式播出，分爲前半和後半，兩段的内容基本相同，但後半相較於前半有一些細節上的變化，包括聲優陣容變換、主題曲演唱者變換、畫面與台詞改動等\[33\]。本動畫原本是以網路配送的形式播放，長度為15分鐘。但在製作過程中項目規劃變更，改爲電視動畫播放。為適應電視動畫長度，改爲現今採用的「重播」形式。
 
@@ -928,8 +918,7 @@ Records的錯誤」而延期至2018年1月。
 
 :; 「Twinkling star」（第1話）
 
-:: 作詞、作曲、編曲：吟（BUSTED
-ROSE），演唱：DropStars（）（星降注（[小倉唯](../Page/小倉唯.md "wikilink")）、月野雫（[水瀨祈](../Page/水瀨祈.md "wikilink")）、夕阳可罗奈（[上坂堇](../Page/上坂堇.md "wikilink")））
+:: 作詞、作曲、編曲：吟（BUSTED ROSE），演唱：DropStars（）（星降注（[小倉唯](../Page/小倉唯.md "wikilink")）、月野雫（[水瀨祈](../Page/水瀨祈.md "wikilink")）、夕阳可罗奈（[上坂堇](../Page/上坂堇.md "wikilink")））
 
 :: 虛構動畫「星色Girl Drop」的片頭曲。
 
@@ -937,8 +926,7 @@ ROSE），演唱：DropStars（）（星降注（[小倉唯](../Page/小倉唯.m
 
 :: 作詞、作曲、編曲：吟（BUSTED ROSE），主唱：[上坂堇](../Page/上坂堇.md "wikilink")
 
-:: 第10話後半中加入[音效](../Page/音效.md "wikilink")；第11話中使用本歌的插曲部分，同時作爲該集「POP
-TEAM STORY」的插入曲使用。
+:: 第10話後半中加入[音效](../Page/音效.md "wikilink")；第11話中使用本歌的插曲部分，同時作爲該集「POP TEAM STORY」的插入曲使用。
 
 :; 「last sparkle」（第13話）
 
@@ -949,15 +937,13 @@ TEAM STORY」的插入曲使用。
   -
 
       -
-        作詞、作曲、編曲：吟（BUSTED
-        ROSE），演唱：DropStars（）（星降注（小倉唯）、月野雫（水瀨祈）、夕阳可罗奈（上坂堇））、AC部
+        作詞、作曲、編曲：吟（BUSTED ROSE），演唱：DropStars（）（星降注（小倉唯）、月野雫（水瀨祈）、夕阳可罗奈（上坂堇））、AC部
 
   - 片尾曲
 
 :; 「POPPY PAPPY DAY」（第1話－第4話、第6話、第8話－第9話、第11話、第12話）
 
-:: 作詞、作曲、編曲：吟（BUSTED
-ROSE），主唱：POP子、PIPI美、[蒼井翔太](../Page/蒼井翔太.md "wikilink")
+:: 作詞、作曲、編曲：吟（BUSTED ROSE），主唱：POP子、PIPI美、[蒼井翔太](../Page/蒼井翔太.md "wikilink")
 
 :; 「POPPY PAPPY DAY (Route66 Mix)」（第5話）
 
@@ -2341,8 +2327,7 @@ Bansaku neender</p></td>
 
 ## 其他
 
-本作品在中國大陸流行后，出现大量相关[表情包](../Page/表情包.md "wikilink")，大多为将該作品中人物配上[粤语粗口台词](https://zh.wikipedia.org/wiki/粤语粗口 "wikilink")，这也让该作品在中國大陸网络上更为流行\[43\]。除了粤语粗口表情包，还有爱好者对动画进行粤语配音，同样充满粤语粗口，有时也会针对时下流行话题进行调侃。
-此外，该动画在bilibili被网友称作“人类神经”、“人类月经”、甚至“人类古兰经”（与同期《[紫罗兰永恒花园](../Page/紫罗兰永恒花园.md "wikilink")》被称作人类圣经相对）\[44\]。
+本作品在中國大陸流行后，出现大量相关[表情包](../Page/表情包.md "wikilink")，大多为将該作品中人物配上[粤语粗口台词](https://zh.wikipedia.org/wiki/粤语粗口 "wikilink")，这也让该作品在中國大陸网络上更为流行\[43\]。除了粤语粗口表情包，还有爱好者对动画进行粤语配音，同样充满粤语粗口，有时也会针对时下流行话题进行调侃。 此外，该动画在bilibili被网友称作“人类神经”、“人类月经”、甚至“人类古兰经”（与同期《[紫罗兰永恒花园](../Page/紫罗兰永恒花园.md "wikilink")》被称作人类圣经相对）\[44\]。
 
 ## 注釋
 
@@ -2350,22 +2335,16 @@ Bansaku neender</p></td>
 
 ## 外部連結
 
-  - [《POP TEAM
-    EPIC》第一部連載頁面](http://mangalifewin.takeshobo.co.jp/rensai/popute/)
+  - [《POP TEAM EPIC》第一部連載頁面](http://mangalifewin.takeshobo.co.jp/rensai/popute/)
 
-  - [《POP TEAM
-    EPIC》第二部連載頁面](http://mangalifewin.takeshobo.co.jp/rensai/popute2/)
+  - [《POP TEAM EPIC》第二部連載頁面](http://mangalifewin.takeshobo.co.jp/rensai/popute2/)
 
-  - [《POP TEAM
-    EPIC》第三部連載頁面](http://mangalifewin.takeshobo.co.jp/rensai/popute3/)
+  - [《POP TEAM EPIC》第三部連載頁面](http://mangalifewin.takeshobo.co.jp/rensai/popute3/)
 
   - [電視動畫《POP TEAM EPIC》官方網站](http://hoshiiro.jp/)
 
   -
-[Category:搞笑漫畫](https://zh.wikipedia.org/wiki/Category:搞笑漫畫 "wikilink")
-[Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink")
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:搞笑漫畫](https://zh.wikipedia.org/wiki/Category:搞笑漫畫 "wikilink") [Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 2.

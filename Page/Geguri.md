@@ -1,13 +1,8 @@
-**金世娟**（，），游戏化名“**Geguri**（）”，是一名韩国《[守望先锋](https://zh.wikipedia.org/wiki/守望先锋 "wikilink")》职业玩家。她因在游戏中精准的[鼠标操作而受到国际关注](../Page/鼠标.md "wikilink")。2016年，有职业选手指责她使用[外挂](../Page/游戏外挂.md "wikilink")，她在一个受监控的房间里进行了直播，证明了她的能力。后来她加入了职业团队EHOME，但队伍成绩并不理想。2017年，她签约ROX
-Orcas，成为第一位参加APEX的女性职业选手。2018年，她加入[上海龍之隊](https://zh.wikipedia.org/wiki/上海龍之隊 "wikilink")，成為[守望先锋联赛首位女性選手](../Page/守望先锋联赛.md "wikilink")。
+**金世娟**（，），游戏化名“**Geguri**（）”，是一名韩国《[守望先锋](https://zh.wikipedia.org/wiki/守望先锋 "wikilink")》职业玩家。她因在游戏中精准的[鼠标](../Page/鼠标.md "wikilink")操作而受到国际关注。2016年，有职业选手指责她使用[外挂](../Page/游戏外挂.md "wikilink")，她在一个受监控的房间里进行了直播，证明了她的能力。后来她加入了职业团队EHOME，但队伍成绩并不理想。2017年，她签约ROX Orcas，成为第一位参加APEX的女性职业选手。2018年，她加入[上海龍之隊](https://zh.wikipedia.org/wiki/上海龍之隊 "wikilink")，成為[守望先锋联赛](../Page/守望先锋联赛.md "wikilink")首位女性選手。
 
 ## 生涯
 
-  - 2016年[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")《[守望先锋](https://zh.wikipedia.org/wiki/守望先锋 "wikilink")》发行后，UW
-    ARTISAN宣布成立，Geguri作为队中的两位女选手之一成为焦点。8月，中国电子竞技俱乐部EHOME宣布与UW
-    ARTISAN签约，成立EHOME.KR。然而，EHOME在韩国APEX中的表现差强人意。在2017年6月战队解散之前，EHOME甚至都没闯入APEX的挑战者联赛。\[1\]2017年8月，Geguri与ROX
-    Orcas签约，[ESPN称她有望成为首位参加](../Page/ESPN.md "wikilink")[OGN](https://zh.wikipedia.org/wiki/OGN "wikilink")
-    APEX联赛的女性选手\[2\]。
+  - 2016年[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")《[守望先锋](https://zh.wikipedia.org/wiki/守望先锋 "wikilink")》发行后，UW ARTISAN宣布成立，Geguri作为队中的两位女选手之一成为焦点。8月，中国电子竞技俱乐部EHOME宣布与UW ARTISAN签约，成立EHOME.KR。然而，EHOME在韩国APEX中的表现差强人意。在2017年6月战队解散之前，EHOME甚至都没闯入APEX的挑战者联赛。\[1\]2017年8月，Geguri与ROX Orcas签约，[ESPN](../Page/ESPN.md "wikilink")称她有望成为首位参加[OGN](https://zh.wikipedia.org/wiki/OGN "wikilink") APEX联赛的女性选手\[2\]。
   - 2018年2月，Geguri在直播上提及自己接受了國外隊伍的邀約。2月14日，[上海龍之隊宣佈了Geguri的加入](https://zh.wikipedia.org/wiki/上海龍之隊 "wikilink")。\[3\]\[4\]
 
 ## 被质疑作弊
@@ -30,15 +25,11 @@ Orcas，成为第一位参加APEX的女性职业选手。2018年，她加入[上
 
   - [采访](https://www.akshonesports.com/2016/06/geguri-interview-translated)
 
-[Category:韩国电玩家](https://zh.wikipedia.org/wiki/Category:韩国电玩家 "wikilink")
-[Category:守望先锋玩家](https://zh.wikipedia.org/wiki/Category:守望先锋玩家 "wikilink")
-[Category:女性电子竞技选手](https://zh.wikipedia.org/wiki/Category:女性电子竞技选手 "wikilink")
-[Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
+[Category:韩国电玩家](https://zh.wikipedia.org/wiki/Category:韩国电玩家 "wikilink") [Category:守望先锋玩家](https://zh.wikipedia.org/wiki/Category:守望先锋玩家 "wikilink") [Category:女性电子竞技选手](https://zh.wikipedia.org/wiki/Category:女性电子竞技选手 "wikilink") [Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
 
 1.
 2.
-3.  [geguri has accepted an offer from a foreign
-    team](https://www.reddit.com/r/Competitiveoverwatch/comments/7v3pt7/geguri_has_accepted_an_offer_from_a_foreign_team/)
+3.  [geguri has accepted an offer from a foreign team](https://www.reddit.com/r/Competitiveoverwatch/comments/7v3pt7/geguri_has_accepted_an_offer_from_a_foreign_team/)
 
 4.
 

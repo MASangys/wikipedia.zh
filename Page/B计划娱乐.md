@@ -1,8 +1,4 @@
-**B計畫娛樂**（），\[1\]有時也簡稱為“**B計劃**”，為[美國一家](https://zh.wikipedia.org/wiki/美國 "wikilink")[電影製作公司](../Page/電影製作.md "wikilink")，2001年由[畢·彼特](https://zh.wikipedia.org/wiki/畢·彼特 "wikilink")、和[珍妮佛·安妮斯頓成立](https://zh.wikipedia.org/wiki/珍妮佛·安妮斯頓 "wikilink")。在2005年彼特和安妮斯頓[離婚](https://zh.wikipedia.org/wiki/離婚 "wikilink")、格雷出任[派拉蒙電影的總經理後](https://zh.wikipedia.org/wiki/派拉蒙電影 "wikilink")，彼特成為公司的唯一[所有人](https://zh.wikipedia.org/wiki/所有權 "wikilink")。
-B計劃旗下的三部電影：[無間行者](https://zh.wikipedia.org/wiki/無間行者 "wikilink")(2006) ,
-[為奴十二年](https://zh.wikipedia.org/wiki/為奴十二年 "wikilink")(2013)
-和[月光男孩](../Page/月光男孩.md "wikilink")(2016)
-奪得[奧斯卡最佳影片獎](https://zh.wikipedia.org/wiki/奧斯卡最佳影片獎 "wikilink")。
+**B計畫娛樂**（），\[1\]有時也簡稱為“**B計劃**”，為[美國一家](https://zh.wikipedia.org/wiki/美國 "wikilink")[電影製作](../Page/電影製作.md "wikilink")公司，2001年由[畢·彼特](https://zh.wikipedia.org/wiki/畢·彼特 "wikilink")、和[珍妮佛·安妮斯頓成立](https://zh.wikipedia.org/wiki/珍妮佛·安妮斯頓 "wikilink")。在2005年彼特和安妮斯頓[離婚](https://zh.wikipedia.org/wiki/離婚 "wikilink")、格雷出任[派拉蒙電影的總經理後](https://zh.wikipedia.org/wiki/派拉蒙電影 "wikilink")，彼特成為公司的唯一[所有人](https://zh.wikipedia.org/wiki/所有權 "wikilink")。 B計劃旗下的三部電影：[無間行者](https://zh.wikipedia.org/wiki/無間行者 "wikilink")(2006) , [為奴十二年](https://zh.wikipedia.org/wiki/為奴十二年 "wikilink")(2013) 和[月光男孩](../Page/月光男孩.md "wikilink")(2016) 奪得[奧斯卡最佳影片獎](https://zh.wikipedia.org/wiki/奧斯卡最佳影片獎 "wikilink")。
 
 ## 製片交易
 
@@ -10,8 +6,7 @@ B計劃旗下的三部電影：[無間行者](https://zh.wikipedia.org/wiki/無�
 
 <!-- end list -->
 
-  - [Annapurna Pictures](../Page/Annapurna_Pictures.md "wikilink")
-    (2017-)\[2\]
+  - [Annapurna Pictures](../Page/Annapurna_Pictures.md "wikilink") (2017-)\[2\]
 
 <!-- end list -->
 
@@ -25,8 +20,7 @@ B計劃旗下的三部電影：[無間行者](https://zh.wikipedia.org/wiki/無�
 
   - [派拉蒙影業](../Page/派拉蒙影業.md "wikilink") (2005-2013)\[7\]
 
-  - [華納兄弟](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")
-    (2002-2005)\[8\]
+  - [華納兄弟](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink") (2002-2005)\[8\]
 
 ## 電影
 
@@ -98,8 +92,7 @@ B計劃旗下的三部電影：[無間行者](https://zh.wikipedia.org/wiki/無�
 
   - (2019)\[11\]
 
-  - [地球末日戰2](https://zh.wikipedia.org/wiki/地球末日戰#續集 "wikilink")
-    (TBA)\[12\]
+  - [地球末日戰2](https://zh.wikipedia.org/wiki/地球末日戰#續集 "wikilink") (TBA)\[12\]
 
   - 錯誤答案 (TBA)\[13\]
 
@@ -116,8 +109,7 @@ B計劃旗下的三部電影：[無間行者](https://zh.wikipedia.org/wiki/無�
   - *[平常的心](../Page/平常心.md "wikilink")* (2014)
   - ** (2016–現在)
   - *[宿敵](../Page/宿敵_\(電視劇\).md "wikilink")* (2017–現在)
-  - *[苦甜曼哈頓](https://zh.wikipedia.org/wiki/苦甜曼哈頓#電視劇 "wikilink")*
-    (2018–現在)
+  - *[苦甜曼哈頓](https://zh.wikipedia.org/wiki/苦甜曼哈頓#電視劇 "wikilink")* (2018–現在)
 
 **未上映**
 
@@ -126,8 +118,7 @@ B計劃旗下的三部電影：[無間行者](https://zh.wikipedia.org/wiki/無�
 
 ## 參考資料
 
-[Category:電影公司](https://zh.wikipedia.org/wiki/Category:電影公司 "wikilink")
-[Category:電影製作公司](https://zh.wikipedia.org/wiki/Category:電影製作公司 "wikilink")
+[Category:電影公司](https://zh.wikipedia.org/wiki/Category:電影公司 "wikilink") [Category:電影製作公司](https://zh.wikipedia.org/wiki/Category:電影製作公司 "wikilink")
 
 1.
 

@@ -1,4 +1,4 @@
-是由[PeasSoft製作於](../Page/PeasSoft.md "wikilink")2014年2月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]
+是由[PeasSoft](../Page/PeasSoft.md "wikilink")製作於2014年2月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]
 
 ## 故事
 
@@ -44,8 +44,7 @@
   - 片頭曲「HONEY」
     作詞、作曲、編曲：a.k.a.dRESS，主唱：[佐倉紗織](../Page/佐倉紗織.md "wikilink")\[3\]
   - 片尾曲「禮物」（）
-    作曲：Dreaming
-    Rabbit，作詞、主唱：[Rita](https://zh.wikipedia.org/wiki/Rita "wikilink")
+    作曲：Dreaming Rabbit，作詞、主唱：[Rita](https://zh.wikipedia.org/wiki/Rita "wikilink")
 
 ## 參考來源
 
@@ -53,11 +52,7 @@
 
   - [PeasSoft](https://web.archive.org/web/20161226135610/http://www.peassoft.com/index2.html)
 
-[Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
+[Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
 
 1.
 2.

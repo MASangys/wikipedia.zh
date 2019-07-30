@@ -1,7 +1,4 @@
-是1994年首映的香港電影。由[王家衛](https://zh.wikipedia.org/wiki/王家衛 "wikilink"),
-[陳勳奇](../Page/陳勳奇.md "wikilink"),
-[左頌昇聯合編劇](../Page/左頌昇.md "wikilink")(掛名[陳家聲](https://zh.wikipedia.org/wiki/陳家聲 "wikilink"))\[1\]，
-[陳勳奇](../Page/陳勳奇.md "wikilink")[導演](https://zh.wikipedia.org/wiki/導演 "wikilink")，陳勳奇、[曾志偉](../Page/曾志偉.md "wikilink")、[翁慧德主演](../Page/翁慧德.md "wikilink")。
+是1994年首映的香港電影。由[王家衛](https://zh.wikipedia.org/wiki/王家衛 "wikilink"), [陳勳奇](../Page/陳勳奇.md "wikilink"), [左頌昇](../Page/左頌昇.md "wikilink")聯合編劇(掛名[陳家聲](https://zh.wikipedia.org/wiki/陳家聲 "wikilink"))\[1\]， [陳勳奇](../Page/陳勳奇.md "wikilink")[導演](https://zh.wikipedia.org/wiki/導演 "wikilink")，陳勳奇、[曾志偉](../Page/曾志偉.md "wikilink")、[翁慧德](../Page/翁慧德.md "wikilink")主演。
 
 ## 演员
 
@@ -28,7 +25,6 @@
   -
   -
   -
-[Category:1990年代香港电影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港电影作品 "wikilink")
-[Category:华语电影](https://zh.wikipedia.org/wiki/Category:华语电影 "wikilink")
+[Category:1990年代香港电影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港电影作品 "wikilink") [Category:华语电影](https://zh.wikipedia.org/wiki/Category:华语电影 "wikilink")
 
 1.  <http://yule.sohu.com/20080604/n257279606_2.shtml>

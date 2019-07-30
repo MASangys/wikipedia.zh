@@ -1,4 +1,4 @@
-**亞美尼亞字母**是一个位于基本多文种平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了拼写[亚美尼亚语的字母](../Page/亚美尼亚语.md "wikilink")。
+**亞美尼亞字母**是一个位于基本多文种平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了拼写[亚美尼亚语](../Page/亚美尼亚语.md "wikilink")的字母。
 
 ## 历史
 

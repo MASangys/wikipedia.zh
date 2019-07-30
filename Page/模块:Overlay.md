@@ -1,11 +1,8 @@
-\-- this module implements
-[Template:Overlay](https://zh.wikipedia.org/wiki/Template:Overlay "wikilink")
-local p = {}
+\-- this module implements [Template:Overlay](https://zh.wikipedia.org/wiki/Template:Overlay "wikilink") local p = {}
 
 local mArguments = require('Module:Arguments')
 
-\-- used to cache the calculated font color to avoid repeat calculations
-local previous_backgroundcolor = '' local fontcolor = ''
+\-- used to cache the calculated font color to avoid repeat calculations local previous_backgroundcolor = '' local fontcolor = ''
 
 local function buildicon(n, form, lk, c, t)
 
@@ -54,8 +51,7 @@ local function buildicon(n, form, lk, c, t)
 
 `       -- link the inner span if requested and insert in the div`
 `       if lk ~= '' then`
-`           div:wikitext('`[`'``   ``..``   ``tostring(span)``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/:'_.._lk_.._' "wikilink")`')`
+`           div:wikitext('`[`'``   ``..``   ``tostring(span)``   ``..``   ``'`](https://zh.wikipedia.org/wiki/:'_.._lk_.._' "wikilink")`')`
 `       else`
 `           div:wikitext(tostring(span))`
 `       end`
@@ -111,14 +107,12 @@ local function buildlegenditem(im, lk, t)
 `   local res = {im, ''}`
 `   if t ~= '' then`
 `       if lk ~= '' then`
-`           res[2] = '`[`'``   ``..``   ``t``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/:'_.._lk_.._' "wikilink")`'`
+`           res[2] = '`[`'``   ``..``   ``t``   ``..``   ``'`](https://zh.wikipedia.org/wiki/:'_.._lk_.._' "wikilink")`'`
 `       else`
 `           res[2] = t`
 `       end`
 `   else`
-`       res[2] = '`[`'``   ``..``   ``lk``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/:'_.._lk_.._' "wikilink")`'`
+`       res[2] = '`[`'``   ``..``   ``lk``   ``..``   ``'`](https://zh.wikipedia.org/wiki/:'_.._lk_.._' "wikilink")`'`
 `   end`
 `   return res `
 
@@ -246,9 +240,7 @@ function p.main(frame)
 `           :css('z-index', '0')`
 `           :css('width', width .. 'px')`
 `           :css('height', height .. 'px')`
-`           :wikitext('`[`'``   ``..``   ``width``   ``..``   ``'x'``
- ``..``   ``height``   ``..``
- ``'px`](https://zh.wikipedia.org/wiki/File:'_.._image_.._' "fig:' .. width .. 'x' .. height .. 'px")`')`
+`           :wikitext('`[`'``   ``..``   ``width``   ``..``   ``'x'``   ``..``   ``height``   ``..``   ``'px`](https://zh.wikipedia.org/wiki/File:'_.._image_.._' "fig:' .. width .. 'x' .. height .. 'px")`')`
 `       if overlay == 'yes' then`
 `           for k = 1,#itemnums do`
 `               local i = itemnums[k]`

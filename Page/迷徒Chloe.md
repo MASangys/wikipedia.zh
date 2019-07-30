@@ -1,12 +1,8 @@
-《**迷徒Chloe**》【迷徒第二季】（英語： Lost ? Me too II
-），2016年由製作公司《傳遞娛樂》製作出品的台灣網路劇，為《迷徒》此IP系列劇集的第二季，第一季為《[迷徒·Claire](../Page/迷徒·Claire.md "wikilink")》，第二季為另外一個獨立故事，由[李千那](../Page/李千那.md "wikilink")、[吳慷仁](../Page/吳慷仁.md "wikilink")、[劉以豪](../Page/劉以豪.md "wikilink")、[謝祖武](../Page/謝祖武.md "wikilink")、張雁名、穆熙妍等人主演。
+《**迷徒Chloe**》【迷徒第二季】（英語： Lost ? Me too II ），2016年由製作公司《傳遞娛樂》製作出品的台灣網路劇，為《迷徒》此IP系列劇集的第二季，第一季為《[迷徒·Claire](../Page/迷徒·Claire.md "wikilink")》，第二季為另外一個獨立故事，由[李千那](../Page/李千那.md "wikilink")、[吳慷仁](../Page/吳慷仁.md "wikilink")、[劉以豪](../Page/劉以豪.md "wikilink")、[謝祖武](../Page/謝祖武.md "wikilink")、張雁名、穆熙妍等人主演。
 
 傳遞娛樂的《迷徒》故事IP，開啟了一種寫實的風格，打破了台灣偶像劇慣有的王子公主夢幻童話套路，不論是第一季的Claire或是第二季的Chloe，都以寫實的職場都會女性為主人翁切入，探討女性在追求夢想、追逐愛情以及事業、感情、成名、虛榮等人生諸多選項中"迷途"，在其中迷失或重新找到自我的過程；兩季的影像視覺，也具質感與電影感。
 
-《迷徒Chloe》【迷徒第二季】於多個網路平台放映：全劇共13集，一集20分鐘，首輪於[LINE
-TV獨家首播](../Page/LINE_TV.md "wikilink")，2016年10月17日中午十二點播出預告，2016年11月14日播出第一集。\[1\]其他OTT平台如[Vidol影音](../Page/Vidol.md "wikilink")、[LiTV
-線上影視](../Page/LiTV_線上影視.md "wikilink")、[KKTV](../Page/KKTV.md "wikilink")、[CHOCO
-TV](../Page/CHOCO_TV.md "wikilink")，於2017年2月24日全劇上架，並於三立Vidol舉辦直播記者會，目前上述網路平台皆能以免付費的方式收看本劇。
+《迷徒Chloe》【迷徒第二季】於多個網路平台放映：全劇共13集，一集20分鐘，首輪於[LINE TV獨家首播](../Page/LINE_TV.md "wikilink")，2016年10月17日中午十二點播出預告，2016年11月14日播出第一集。\[1\]其他OTT平台如[Vidol](../Page/Vidol.md "wikilink")影音、[LiTV 線上影視](../Page/LiTV_線上影視.md "wikilink")、[KKTV](../Page/KKTV.md "wikilink")、[CHOCO TV](../Page/CHOCO_TV.md "wikilink")，於2017年2月24日全劇上架，並於三立Vidol舉辦直播記者會，目前上述網路平台皆能以免付費的方式收看本劇。
 
 ## 播出時間
 
@@ -108,10 +104,7 @@ Chloe，三十歲，是一名[新媒體](../Page/新媒體.md "wikilink")[製作
 
   - [《迷徒Chloe》KKTV全劇](https://www.kktv.me/titles/02000063-%E5%8F%B0%E5%8A%87-%E8%BF%B7%E5%BE%922%C2%B7CHLOE-%E7%B7%9A%E4%B8%8A%E7%9C%8B)
 
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink")
-[Category:2016年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2016年台灣電視劇集 "wikilink")
-[Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink")
-[Category:電視台背景作品](https://zh.wikipedia.org/wiki/Category:電視台背景作品 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:2016年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2016年台灣電視劇集 "wikilink") [Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink") [Category:電視台背景作品](https://zh.wikipedia.org/wiki/Category:電視台背景作品 "wikilink")
 
 1.
 2.

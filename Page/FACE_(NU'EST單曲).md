@@ -1,12 +1,10 @@
-**《FACE》**是韓國男子團體[NU'EST出道單曲](../Page/NU'EST.md "wikilink")，於2012年3月15日發行。主打曲〈FACE〉為韓國男子團體出道曲於YOUTUBE頻道最高觀看次數記錄保持者，迄今觀看次數已抵達一億。
+**《FACE》**是韓國男子團體[NU'EST](../Page/NU'EST.md "wikilink")出道單曲，於2012年3月15日發行。主打曲〈FACE〉為韓國男子團體出道曲於YOUTUBE頻道最高觀看次數記錄保持者，迄今觀看次數已抵達一億。
 
 ## 背景
 
-2012年3月12日，韓國Pledis娛樂公司陸續公開了“NU'EST”的預告影片\[1\]。15日，於Mnet音樂節目《[M
-Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》出道，首張單曲《FACE》正式發售\[2\]。
+2012年3月12日，韓國Pledis娛樂公司陸續公開了“NU'EST”的預告影片\[1\]。15日，於Mnet音樂節目《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》出道，首張單曲《FACE》正式發售\[2\]。
 
-出道作在眾多新人組合中脫穎而出
-，銷量是[Gaon音樂榜月榜中的](https://zh.wikipedia.org/wiki/Gaon音樂榜 "wikilink")11位\[3\]。主打曲更在MelOn音源網站排行榜最高達到十五名，[MV](https://www.youtube.com/watch?v=gyXy0m-4bvE)更是首位韓國現存男團出道曲YouTube觀看次數抵達一億次，於4月28日韓國時間17時09分，觀看次數已突破一億點擊\[4\]，持續為紀錄保持者\[5\]。
+出道作在眾多新人組合中脫穎而出 ，銷量是[Gaon音樂榜月榜中的](https://zh.wikipedia.org/wiki/Gaon音樂榜 "wikilink")11位\[3\]。主打曲更在MelOn音源網站排行榜最高達到十五名，[MV](https://www.youtube.com/watch?v=gyXy0m-4bvE)更是首位韓國現存男團出道曲YouTube觀看次數抵達一億次，於4月28日韓國時間17時09分，觀看次數已突破一億點擊\[4\]，持續為紀錄保持者\[5\]。
 
 ## 簡介
 
@@ -130,8 +128,7 @@ Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》出道，首�
 
 ## 参考文献
 
-[Category:NU'EST音樂專輯](https://zh.wikipedia.org/wiki/Category:NU'EST音樂專輯 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
+[Category:NU'EST音樂專輯](https://zh.wikipedia.org/wiki/Category:NU'EST音樂專輯 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
 
 1.
 2.

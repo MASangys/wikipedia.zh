@@ -1,4 +1,4 @@
-本條目內之「播放日期」，是指[马来西亚](../Page/马来西亚.md "wikilink")[Astro華麗台的播放日期](../Page/Astro華麗台.md "wikilink")。
+本條目內之「播放日期」，是指[马来西亚](../Page/马来西亚.md "wikilink")[Astro華麗台](../Page/Astro華麗台.md "wikilink")的播放日期。
 
 ## 7.00港劇時段
 
@@ -160,7 +160,7 @@ A Pillow Case of Mystery II</p></td>
 ## 8.00港劇時段
 
 星期一至五 20:00 - 20:30
-与[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[翡翠台同步播出](../Page/翡翠台.md "wikilink")
+与[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")同步播出
 
 <table style="width:274%;">
 <colgroup>
@@ -441,7 +441,7 @@ Law dis-Order</p></td>
 <td style="text-align: center;"><p><a href="../Page/方中信.md" title="wikilink">方中信</a>、<a href="../Page/廖啟智.md" title="wikilink">廖啟智</a>、<a href="https://zh.wikipedia.org/wiki/李佳芯" title="wikilink">李佳芯</a>、<br />
 <a href="../Page/黃智雯.md" title="wikilink">黃智雯</a>、<a href="../Page/曹永廉.md" title="wikilink">曹永廉</a>、<a href="../Page/郭少芸.md" title="wikilink">郭少芸</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/羅永賢.md" title="wikilink">羅永賢</a></p></td>
-<td style="text-align: center;"><p>主：公義（<a href="../Page/張家誠.md" title="wikilink">張家誠作曲</a>）<br />
+<td style="text-align: center;"><p>主：公義（<a href="../Page/張家誠.md" title="wikilink">張家誠</a>作曲）<br />
 插：公義的抉擇（<a href="https://zh.wikipedia.org/wiki/胡鴻鈞" title="wikilink">胡鴻鈞</a>）<br />
 插：Can You See（<a href="../Page/譚嘉儀.md" title="wikilink">譚嘉儀</a>）</p></td>
 <td style="text-align: center;"></td>
@@ -783,7 +783,7 @@ Reality Check</p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/李司棋.md" title="wikilink">李司棋</a>、<a href="https://zh.wikipedia.org/wiki/陳展鵬" title="wikilink">陳展鵬</a>、<a href="../Page/黃翠如.md" title="wikilink">黃翠如</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/李艷芳.md" title="wikilink">李艷芳</a></p></td>
-<td style="text-align: center;"><p>主：小草（<a href="https://zh.wikipedia.org/wiki/陳展鵬" title="wikilink">陳展鵬</a>、<a href="../Page/李司棋.md" title="wikilink">李司棋獨白</a>）</p></td>
+<td style="text-align: center;"><p>主：小草（<a href="https://zh.wikipedia.org/wiki/陳展鵬" title="wikilink">陳展鵬</a>、<a href="../Page/李司棋.md" title="wikilink">李司棋</a>獨白）</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
@@ -927,7 +927,6 @@ BOO頻道同步播出<br />
 
 ## 參考及連結
 
-  - [Astro華麗台
-    官方網站](http://whatson.astro.com.my/channels/astro-wah-lai-toi/2/?cat=variety-entertainment&lang=chinese&stb=311)
+  - [Astro華麗台 官方網站](http://whatson.astro.com.my/channels/astro-wah-lai-toi/2/?cat=variety-entertainment&lang=chinese&stb=311)
 
 [Category:Astro華麗台電視劇列表](https://zh.wikipedia.org/wiki/Category:Astro華麗台電視劇列表 "wikilink")

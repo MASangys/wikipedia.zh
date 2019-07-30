@@ -233,7 +233,7 @@
 </tbody>
 </table>
 
-### [韓國音樂大獎（Korean Music Awards）](../Page/韓國音樂大獎.md "wikilink")
+### [韓國音樂大獎 Music Awards）](../Page/韓國音樂大獎.md "wikilink")（Korean
 
 <small>**韓國音樂大獎**（；）是韓國一個主要的年度音樂頒獎禮，由知名樂評、製作人、音樂圈專業人士等擔任評審。每年大約二月會頒發獎項給前一年表現最好的歌手。</small>
 
@@ -302,8 +302,7 @@
 
 ### [Gaon Chart K-POP大獎（Gaon Chart K-POP Awards）](../Page/Gaon_Chart_K-POP大獎.md "wikilink")
 
-<small>**Gaon Chart K-POP大獎**（；）是依據Gaon
-Chart統計數據授獎的年度大型頒獎禮，自2012年開始於每年二月頒發前一年的獎項。其由管理，韓國文化體育觀光部贊助，於2012年正式開始，主要頒發給過去一年裡在韓國音樂界有優秀成就的藝人。</small>
+<small>**Gaon Chart K-POP大獎**（；）是依據Gaon Chart統計數據授獎的年度大型頒獎禮，自2012年開始於每年二月頒發前一年的獎項。其由管理，韓國文化體育觀光部贊助，於2012年正式開始，主要頒發給過去一年裡在韓國音樂界有優秀成就的藝人。</small>
 
 <table>
 <thead>
@@ -555,7 +554,7 @@ Chart統計數據授獎的年度大型頒獎禮，自2012年開始於每年二�
 </tbody>
 </table>
 
-### [甜瓜音樂獎（Melon Music Awards）](../Page/甜瓜音樂獎.md "wikilink")
+### [甜瓜音樂獎 Music Awards）](../Page/甜瓜音樂獎.md "wikilink")（Melon
 
 <small>**甜瓜音樂獎**（；，簡稱：**MMA**）是韓國[LOEN娛樂的在線音樂網站](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")「[MelOn](https://zh.wikipedia.org/wiki/LOEN娛樂#Melon "wikilink")」自2009年開始每年舉辦的韓國主要音樂頒獎禮，只遵循該網站數位音樂銷售量和網上投票來決定得獎者。</small>
 
@@ -874,11 +873,9 @@ Chart統計數據授獎的年度大型頒獎禮，自2012年開始於每年二�
 </tbody>
 </table>
 
-### [Mnet亞洲音樂大獎（Mnet Asian Music Awards）](../Page/Mnet亞洲音樂大獎.md "wikilink")
+### [Mnet亞洲音樂大獎 Asian Music Awards）](../Page/Mnet亞洲音樂大獎.md "wikilink")（Mnet
 
-<small>**Mnet亞洲音樂大獎**（；，簡稱：**MAMA**）是由[Mnet
-Media舉辦的一個](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")[韓國主要年度音樂頒獎禮](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")，其前身為Mnet
-KM音樂錄像帶節（）。</small>
+<small>**Mnet亞洲音樂大獎**（；，簡稱：**MAMA**）是由[Mnet Media舉辦的一個](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")[韓國主要年度音樂頒獎禮](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")，其前身為Mnet KM音樂錄像帶節（）。</small>
 
 <table>
 <thead>
@@ -1213,8 +1210,7 @@ KM音樂錄像帶節（）。</small>
 
 ### [首爾音樂獎（Seoul Music Awards）](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")
 
-<small>**首爾音樂獎**（；，簡稱：**SMA**）是自1990年起由首爾體育舉辦、High1
-Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒獎典禮。</small>
+<small>**首爾音樂獎**（；，簡稱：**SMA**）是自1990年起由首爾體育舉辦、High1 Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒獎典禮。</small>
 
 <table>
 <thead>
@@ -1451,9 +1447,9 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 </tbody>
 </table>
 
-### [亞洲明星盛典（Asia Artist Awards）](../Page/亞洲明星盛典.md "wikilink")
+### [亞洲明星盛典 Artist Awards）](../Page/亞洲明星盛典.md "wikilink")（Asia
 
-<small>**亞洲明星盛典**（；，簡稱：**AAA**）是由[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[SBS電視台自](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink")2016年起舉辦的韓國戲劇類和音樂類頒獎典禮，首屆於11月16日在[首爾](../Page/首爾.md "wikilink")[慶熙大學和平殿堂舉行](../Page/慶熙大學.md "wikilink")。</small>
+<small>**亞洲明星盛典**（；，簡稱：**AAA**）是由[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[SBS電視台自](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink")2016年起舉辦的韓國戲劇類和音樂類頒獎典禮，首屆於11月16日在[首爾](../Page/首爾.md "wikilink")[慶熙大學](../Page/慶熙大學.md "wikilink")和平殿堂舉行。</small>
 
 <table>
 <thead>
@@ -1488,9 +1484,9 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 
 ## 海外地區頒獎典禮
 
-### [日本唱片大獎（Japan Record Award）](../Page/日本唱片大獎.md "wikilink")
+### [日本唱片大獎 Record Award）](../Page/日本唱片大獎.md "wikilink")（Japan
 
-<small>**日本唱片大獎**（），是[日本從](../Page/日本.md "wikilink")1959年開始的著名音樂獎項。</small>
+<small>**日本唱片大獎**（），是[日本](../Page/日本.md "wikilink")從1959年開始的著名音樂獎項。</small>
 
 <table>
 <thead>
@@ -1539,7 +1535,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 </tbody>
 </table>
 
-### [日本金唱片大獎（Japan Gold Disc Award）](../Page/日本金唱片大獎.md "wikilink")
+### [日本金唱片大獎 Gold Disc Award）](../Page/日本金唱片大獎.md "wikilink")（Japan
 
 <small>**日本金唱片大獎**（），是由[日本唱片協會](../Page/日本唱片協會.md "wikilink")（RIAJ）主辦的音樂獎項，嘉獎每一年為日本唱片業做出深刻貢獻的藝術家和音樂產品。1986年創立，1987年3月舉辦了第1回日本金唱片大賞，是日本主要的年度音樂獎項之一。</small>
 
@@ -1646,7 +1642,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 </tbody>
 </table>
 
-### [MTV日本音樂錄影帶大獎（MTV Video Music Awards Japan）](../Page/MTV日本音樂錄影帶大獎.md "wikilink")
+### [MTV日本音樂錄影帶大獎 Video Music Awards Japan）](../Page/MTV日本音樂錄影帶大獎.md "wikilink")（MTV
 
 <table>
 <thead>
@@ -1687,7 +1683,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 </tbody>
 </table>
 
-### [MTV歐洲音樂大獎（MTV Europe Music Awards）](../Page/MTV歐洲音樂大獎.md "wikilink")
+### [MTV歐洲音樂大獎 Europe Music Awards）](../Page/MTV歐洲音樂大獎.md "wikilink")（MTV
 
 <small>**MTV歐洲音樂大獎**（，簡稱：**EMA**）於1994年創辦，是[MTV全球音樂電視臺為歐洲各國表現傑出的歌手設立的獎項](https://zh.wikipedia.org/wiki/MTV "wikilink")，由公眾投票評選，目的是表彰觀眾喜歡的歌手。</small>
 
@@ -1782,7 +1778,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 </tbody>
 </table>
 
-### [世界音樂獎（World Music Awards）](../Page/世界音樂獎.md "wikilink")
+### [世界音樂獎 Music Awards）](../Page/世界音樂獎.md "wikilink")（World
 
 <table>
 <thead>
@@ -2646,7 +2642,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 <td><p>[98]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/KKBOX.md" title="wikilink">KKBOX音樂大獎</a></p></td>
+<td><p><a href="../Page/KKBOX.md" title="wikilink">KKBOX</a>音樂大獎</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3010,8 +3006,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 
   -
 
-[Category:BIGBANG](https://zh.wikipedia.org/wiki/Category:BIGBANG "wikilink")
-[Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink")
+[Category:BIGBANG](https://zh.wikipedia.org/wiki/Category:BIGBANG "wikilink") [Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink")
 
 1.
 
@@ -3068,22 +3063,15 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 
 31.
 
-32. ["2006 MKMF Part 1 : I Love Punk - Haerang + Lee SungWoo/ Break
-    Through-SS501/ The Queen Is Back\! - Cocoboys and Dodogirls + Um
-    JungHwa"](http://mwave.interest.me/mnettv/videodetail.m?searchVideoDetailVO.clip_id=9552).
-    *MAMA*. Retrieved 2014-10-26.
+32. ["2006 MKMF Part 1 : I Love Punk - Haerang + Lee SungWoo/ Break Through-SS501/ The Queen Is Back\! - Cocoboys and Dodogirls + Um JungHwa"](http://mwave.interest.me/mnettv/videodetail.m?searchVideoDetailVO.clip_id=9552). *MAMA*. Retrieved 2014-10-26.
 
 33.
 
 34.
 
-35. ["2008 Mnet KM Music Festival
-    Part1"](http://mwave.interest.me/mnettv/videodetail.m?searchVideoDetailVO.clip_id=87840)
-    . *MAMA*. Retrieved 2014-12-17.
+35. ["2008 Mnet KM Music Festival Part1"](http://mwave.interest.me/mnettv/videodetail.m?searchVideoDetailVO.clip_id=87840) . *MAMA*. Retrieved 2014-12-17.
 
-36. ["2009 Mnet Asian Music Awards
-    Part1"](http://mwave.interest.me/mnettv/videodetail.m?searchVideoDetailVO.clip_id=100689)
-    . *MAMA*. Retrieved 2014-12-18.
+36. ["2009 Mnet Asian Music Awards Part1"](http://mwave.interest.me/mnettv/videodetail.m?searchVideoDetailVO.clip_id=100689) . *MAMA*. Retrieved 2014-12-18.
 
 37.
 
@@ -3121,13 +3109,9 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 
 54.
 
-55. ["Big Bang a hot issue in
-    Belfast"](http://koreajoongangdaily.joinsmsn.com/news/article/Article.aspx?aid=2943862)
-     *JoongAng Ilbo*. 9 November 2011. Retrieved 2011-11-23
+55. ["Big Bang a hot issue in Belfast"](http://koreajoongangdaily.joinsmsn.com/news/article/Article.aspx?aid=2943862)  *JoongAng Ilbo*. 9 November 2011. Retrieved 2011-11-23
 
-56. ["Justin Bieber, LMFAO and Subsonica also receive TRL
-    Awards."](http://www.mtvasia.com/news/big-bang-wins-best-fan-mtv-trl-award-in-italy/)
-    *mtvasia.com*. 8 May 2012. Retrieved 2015-12-21
+56. ["Justin Bieber, LMFAO and Subsonica also receive TRL Awards."](http://www.mtvasia.com/news/big-bang-wins-best-fan-mtv-trl-award-in-italy/) *mtvasia.com*. 8 May 2012. Retrieved 2015-12-21
 
 57. <http://www.yg-life.com/archives/75810?lang=en>
 
@@ -3163,14 +3147,11 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 
 73. 參見條目[韓國福布斯名人榜](../Page/韩国福布斯名人榜.md "wikilink")
 
-74. [2010
-    List](http://www.forbes.com/2010/07/16/celebs-korea-rankings-entertainers-power-asia_slide.html)
+74. [2010 List](http://www.forbes.com/2010/07/16/celebs-korea-rankings-entertainers-power-asia_slide.html)
 
-75. [2013
-    List](http://www.forbes.com/sites/timferguson/2013/04/25/k-pop-meets-michael-milken/)
+75. [2013 List](http://www.forbes.com/sites/timferguson/2013/04/25/k-pop-meets-michael-milken/)
 
-76. \[<http://www.forbes.com/sites/forbesasia/2014/04/11/forbes-koreas-top-10-celebrities-2014/>?
-    2014 List\]
+76. \[<http://www.forbes.com/sites/forbesasia/2014/04/11/forbes-koreas-top-10-celebrities-2014/>? 2014 List\]
 
 77.
 
@@ -3178,8 +3159,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 
 79.
 
-80. [Style Icon
-    Asia](https://zh.wikipedia.org/wiki/Style_Icon_Asia "wikilink")
+80. [Style Icon Asia](https://zh.wikipedia.org/wiki/Style_Icon_Asia "wikilink")
 
 81.
 

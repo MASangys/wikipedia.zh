@@ -1,12 +1,8 @@
-**Hello Games
-Ltd**是英国一家游戏开发商和发行商，总部设在英国吉尔福德，因开发制作了《[无人深空](../Page/无人深空.md "wikilink")》（No
-Man's Sky）而知名。
+**Hello Games Ltd**是英国一家游戏开发商和发行商，总部设在英国吉尔福德，因开发制作了《[无人深空](../Page/无人深空.md "wikilink")》（No Man's Sky）而知名。
 
 ## 简介
 
-Hello Games由其他电子游戏公司（如[Criterion
-Games](../Page/Criterion_Games.md "wikilink")、[艺电和](../Page/艺电.md "wikilink")[Kuju
-Entertainment](https://zh.wikipedia.org/wiki/Kuju_Entertainment "wikilink")）的前雇员于2008年2月成立。\[1\]
+Hello Games由其他电子游戏公司（如[Criterion Games](../Page/Criterion_Games.md "wikilink")、[艺电](../Page/艺电.md "wikilink")和[Kuju Entertainment](https://zh.wikipedia.org/wiki/Kuju_Entertainment "wikilink")）的前雇员于2008年2月成立。\[1\]
 
 在2010年Develop大奖中，该工作室获得两个奖项：最佳新工作室和最佳微型工作室。\[2\]\[3\]
 
@@ -37,10 +33,7 @@ Hello Games因在《无人深空》中的欺骗行为而饱受批评。\[9\]
 ## 外部链接
 
   -
-[Category:2008年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2008年開業電子遊戲公司 "wikilink")
-[Category:英國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:英國開發電子遊戲 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink")
+[Category:2008年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2008年開業電子遊戲公司 "wikilink") [Category:英國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:英國開發電子遊戲 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink")
 
 1.
 2.

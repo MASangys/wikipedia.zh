@@ -1,11 +1,8 @@
-《**HERO（日語版）**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[MONSTA
-X的出道日語單曲](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")，由Punch
-Sound（）作曲、ZERO（YVES\&ADAMS）填詞，並在2017年5月17日以三個不同版本推出\[1\]。
+《**HERO（日語版）**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[MONSTA X的出道日語單曲](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")，由Punch Sound（）作曲、ZERO（YVES\&ADAMS）填詞，並在2017年5月17日以三個不同版本推出\[1\]。
 
 ## 背景
 
-2017年3月27日，STARSHIP娛樂在MONSTA
-X日本官方網站公布宣布將在日本出道，並在5月24日發行出道單曲，同時公布單曲詳細資訊\[2\]\[3\]。
+2017年3月27日，STARSHIP娛樂在MONSTA X日本官方網站公布宣布將在日本出道，並在5月24日發行出道單曲，同時公布單曲詳細資訊\[2\]\[3\]。
 
 ### 發行版本
 
@@ -15,8 +12,7 @@ X日本官方網站公布宣布將在日本出道，並在5月24日發行出道�
 
 <!-- end list -->
 
-  - 初回限定盤B：這版本包括了一片CD和一片收錄MONSTA X在2017年1月20日於品川Stella Ball舉行之《Japan 1st
-    SHOWCASE》片段的DVD\[5\]。
+  - 初回限定盤B：這版本包括了一片CD和一片收錄MONSTA X在2017年1月20日於品川Stella Ball舉行之《Japan 1st SHOWCASE》片段的DVD\[5\]。
 
 <!-- end list -->
 
@@ -28,7 +24,7 @@ X日本官方網站公布宣布將在日本出道，並在5月24日發行出道�
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置   | 銷售量          | 總銷量     | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置   | 銷售量          | 總銷量     | 停留時間 |
 | ---------------------------------------- | ------ | ------------ | ------- | ---- |
 | 單曲日榜                                     | 2\[7\] | 26,425       | 49,112+ | 4星期  |
 | 單曲週榜                                     | 2\[8\] | 48,141       |         |      |
@@ -63,9 +59,7 @@ X日本官方網站公布宣布將在日本出道，並在5月24日發行出道�
 
   -
 
-[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink")
-[Category:MONSTA_X](https://zh.wikipedia.org/wiki/Category:MONSTA_X "wikilink")
-[Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
+[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink") [Category:MONSTA_X](https://zh.wikipedia.org/wiki/Category:MONSTA_X "wikilink") [Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
 
 1.
 

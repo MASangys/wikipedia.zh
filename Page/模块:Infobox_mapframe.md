@@ -1,7 +1,6 @@
 local mf = require('Module:Mapframe')
 
-\-- Trim whitespace from args, and remove empty args function
-trimArgs(argsTable)
+\-- Trim whitespace from args, and remove empty args function trimArgs(argsTable)
 
 `   local cleanArgs = {}`
 `   for key, val in pairs(argsTable) do`

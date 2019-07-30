@@ -1,7 +1,6 @@
 **F8F熊貓戰鬥機**是美國[格魯曼飛機公司於](../Page/格鲁门公司.md "wikilink")[第二次世界大戰末期推出的艦載戰鬥機](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，也是該公司最後推出的螺旋槳戰鬥機，該機延續了格魯曼飛機總是以「X貓」或貓科動物的命名傳統而定名為「熊貓」（BEARCAT）。
 
-1943年格魯曼雖然推出[F6F地獄貓戰鬥機而能在](../Page/F6F地獄貓戰鬥機.md "wikilink")[太平洋戰區壓制日軍](https://zh.wikipedia.org/wiki/太平洋戰爭 "wikilink")[零式艦上戰鬥機](../Page/零式艦上戰鬥機.md "wikilink")，但日軍卻連續推出了[紫電改戰鬥機和](../Page/紫电改.md "wikilink")[疾風戰鬥機等不下於F](../Page/四式戰鬥機.md "wikilink")6F的先進戰鬥機，尤其是原訂計劃於1945年11月，美軍進攻日本本土的「奧林匹克作戰」，美軍更需要有超越這些日軍戰鬥機的先進戰鬥機，對格魯曼而言若不能推出更先進的戰鬥機就會把海軍主力戰鬥機的寶座讓給對手錢斯沃特公司的[F4U海盜式戰鬥機](../Page/F4U海盜式戰鬥機.md "wikilink")，這時格魯曼派人考察了一架擄獲的德國[Fw
-190戰鬥機](../Page/Fw_190戰鬥機.md "wikilink")。
+1943年格魯曼雖然推出[F6F地獄貓戰鬥機](../Page/F6F地獄貓戰鬥機.md "wikilink")而能在[太平洋戰區壓制日軍](https://zh.wikipedia.org/wiki/太平洋戰爭 "wikilink")[零式艦上戰鬥機](../Page/零式艦上戰鬥機.md "wikilink")，但日軍卻連續推出了[紫電改戰鬥機和](../Page/紫电改.md "wikilink")[疾風戰鬥機等不下於F](../Page/四式戰鬥機.md "wikilink")6F的先進戰鬥機，尤其是原訂計劃於1945年11月，美軍進攻日本本土的「奧林匹克作戰」，美軍更需要有超越這些日軍戰鬥機的先進戰鬥機，對格魯曼而言若不能推出更先進的戰鬥機就會把海軍主力戰鬥機的寶座讓給對手錢斯沃特公司的[F4U海盜式戰鬥機](../Page/F4U海盜式戰鬥機.md "wikilink")，這時格魯曼派人考察了一架擄獲的德國[Fw 190戰鬥機](../Page/Fw_190戰鬥機.md "wikilink")。
 
 ## 基本資料(F8F-1)
 
@@ -20,9 +19,7 @@
 
 ## 設計
 
-[Grumman_F8F-2_Bearcat_(121707_-_N3025)_(26655838476).jpg](https://zh.wikipedia.org/wiki/File:Grumman_F8F-2_Bearcat_\(121707_-_N3025\)_\(26655838476\).jpg "fig:Grumman_F8F-2_Bearcat_(121707_-_N3025)_(26655838476).jpg")
-當格魯曼考察完德國[Fw
-190戰鬥機後得到小機身搭配大馬力的設計概念](../Page/Fw_190戰鬥機.md "wikilink")，在發動機沿用自F6F的情況之下，F8F小巧輕盈得多，機身尺寸比F6F小了1/3而重量減輕了大約一噸。
+[Grumman_F8F-2_Bearcat_(121707_-_N3025)_(26655838476).jpg](https://zh.wikipedia.org/wiki/File:Grumman_F8F-2_Bearcat_\(121707_-_N3025\)_\(26655838476\).jpg "fig:Grumman_F8F-2_Bearcat_(121707_-_N3025)_(26655838476).jpg") 當格魯曼考察完德國[Fw 190戰鬥機後得到小機身搭配大馬力的設計概念](../Page/Fw_190戰鬥機.md "wikilink")，在發動機沿用自F6F的情況之下，F8F小巧輕盈得多，機身尺寸比F6F小了1/3而重量減輕了大約一噸。
 
 F8F的座艙和發動機罩仍然有裝甲保護，方向舵和升降舵等控制翼面有配平調整片，座艙採用水滴形座艙蓋而令飛行員有360度良好視界，此座艙蓋在跳傘時可整個拋棄，後來以防當飛機翻倒時座艙蓋會被即時壓碎而危及飛行員安全，在座艙蓋內側加上一條脊樑以支持飛機重量，以令倒吊的飛行員能夠有時間被救出。
 
@@ -38,8 +35,7 @@ F8F為求輕量化，武裝祇有機翼4挺[M2重機槍](../Page/白朗寧M2重�
 
 ## 型號
 
-[Bearcat_Grumman_F8F-2.jpg](https://zh.wikipedia.org/wiki/File:Bearcat_Grumman_F8F-2.jpg "fig:Bearcat_Grumman_F8F-2.jpg")
-[Grumman_F8F-2_Bearcat_(G-58)_AN1223980.jpg](https://zh.wikipedia.org/wiki/File:Grumman_F8F-2_Bearcat_\(G-58\)_AN1223980.jpg "fig:Grumman_F8F-2_Bearcat_(G-58)_AN1223980.jpg")
+[Bearcat_Grumman_F8F-2.jpg](https://zh.wikipedia.org/wiki/File:Bearcat_Grumman_F8F-2.jpg "fig:Bearcat_Grumman_F8F-2.jpg") [Grumman_F8F-2_Bearcat_(G-58)_AN1223980.jpg](https://zh.wikipedia.org/wiki/File:Grumman_F8F-2_Bearcat_\(G-58\)_AN1223980.jpg "fig:Grumman_F8F-2_Bearcat_(G-58)_AN1223980.jpg")
 
   - F8F-1
 
@@ -75,8 +71,7 @@ F8F-2的偵察機型，加裝3部K-17或K-18空用照相機，外側機炮被拆
 
 ## 實戰
 
-[F8F-2_Bearcat_(21240969572).jpg](https://zh.wikipedia.org/wiki/File:F8F-2_Bearcat_\(21240969572\).jpg "fig:F8F-2_Bearcat_(21240969572).jpg")
-1945年8月6日，載著VF-19中隊的F8F-1的[蘭利號航空母艦起程前往太平洋戰區](https://zh.wikipedia.org/wiki/蘭利號航空母艦_\(CVL-27\) "wikilink")，但在同一日，美國在日本[廣島投下了一枚](https://zh.wikipedia.org/wiki/廣島 "wikilink")[原子彈](https://zh.wikipedia.org/wiki/原子彈 "wikilink")，不久日本宣佈投降，F8F因此失去在二次大戰出場的機會，二戰後F6F退役而令F8F成為美國海軍唯一的格魯曼製螺旋槳戰鬥機，美國海軍陸戰隊也使用F8F-2，[韓戰期間F](https://zh.wikipedia.org/wiki/韓戰 "wikilink")8F-2P曾多次在[朝鮮半島作空中偵察](https://zh.wikipedia.org/wiki/朝鮮半島 "wikilink")，美國海軍艦載戰鬥機隊使用F8F至1951年，之後改為用於飛行訓練和作為靶機控制機至1955年，退役後F8F曾用於[藍天使特技飛行表演隊](../Page/美國海軍藍天使特技飛行隊.md "wikilink")，也有一些流落民間被改裝成為比賽機，改裝包括拆除著艦鈎、裝甲和機炮等軍用設備，令這些比賽機重量減輕了大約1360公斤。
+[F8F-2_Bearcat_(21240969572).jpg](https://zh.wikipedia.org/wiki/File:F8F-2_Bearcat_\(21240969572\).jpg "fig:F8F-2_Bearcat_(21240969572).jpg") 1945年8月6日，載著VF-19中隊的F8F-1的[蘭利號航空母艦起程前往太平洋戰區](https://zh.wikipedia.org/wiki/蘭利號航空母艦_\(CVL-27\) "wikilink")，但在同一日，美國在日本[廣島投下了一枚](https://zh.wikipedia.org/wiki/廣島 "wikilink")[原子彈](https://zh.wikipedia.org/wiki/原子彈 "wikilink")，不久日本宣佈投降，F8F因此失去在二次大戰出場的機會，二戰後F6F退役而令F8F成為美國海軍唯一的格魯曼製螺旋槳戰鬥機，美國海軍陸戰隊也使用F8F-2，[韓戰期間F](https://zh.wikipedia.org/wiki/韓戰 "wikilink")8F-2P曾多次在[朝鮮半島作空中偵察](https://zh.wikipedia.org/wiki/朝鮮半島 "wikilink")，美國海軍艦載戰鬥機隊使用F8F至1951年，之後改為用於飛行訓練和作為靶機控制機至1955年，退役後F8F曾用於[藍天使特技飛行表演隊](../Page/美國海軍藍天使特技飛行隊.md "wikilink")，也有一些流落民間被改裝成為比賽機，改裝包括拆除著艦鈎、裝甲和機炮等軍用設備，令這些比賽機重量減輕了大約1360公斤。
 
 法國空軍也買了美國二手的F8F並用於越南對付由胡志明領導的[越盟](../Page/越南獨立同盟會.md "wikilink")，法軍的F8F曾用於[奠邊府戰役](../Page/奠邊府戰役.md "wikilink")，作為對地攻擊機，面對越盟的防空炮火損失不詳，奠邊府戰役以法軍的戰敗作結，之後，美國開始插手越南事務，親美的南越有25架法國人留下的F8F，泰國也有100架二手的F8F-1和29架F8F-1B。
 
@@ -95,7 +90,4 @@ F8F-2的偵察機型，加裝3部K-17或K-18空用照相機，外側機炮被拆
 
   - [纯种格鲁曼-F8F“熊猫”](http://www.afwing.com/intro/f8f/1.htm)
 
-[Category:美國戰鬥機](https://zh.wikipedia.org/wiki/Category:美國戰鬥機 "wikilink")
-[Category:艦載機](https://zh.wikipedia.org/wiki/Category:艦載機 "wikilink")
-[Category:美國海軍陸戰隊裝備](https://zh.wikipedia.org/wiki/Category:美國海軍陸戰隊裝備 "wikilink")
-[Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
+[Category:美國戰鬥機](https://zh.wikipedia.org/wiki/Category:美國戰鬥機 "wikilink") [Category:艦載機](https://zh.wikipedia.org/wiki/Category:艦載機 "wikilink") [Category:美國海軍陸戰隊裝備](https://zh.wikipedia.org/wiki/Category:美國海軍陸戰隊裝備 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")

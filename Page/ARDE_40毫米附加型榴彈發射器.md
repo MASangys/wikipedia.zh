@@ -1,6 +1,4 @@
-**ARDE
-40毫米下掛式榴彈發射器**是一具由[印度](../Page/印度.md "wikilink")（ARDE；負責本槍的設計）、（OFB）旗下的（OFT
-Trichy；負責本槍的生產）所組成的聯合企業自主研發和生產的單發下掛式[榴弹发射器](../Page/榴弹发射器.md "wikilink")，是目前[印度陸軍的](../Page/印度陸軍.md "wikilink")[INSAS和](../Page/英薩斯突擊步槍.md "wikilink")[AK-47所使用的下掛式武器](https://zh.wikipedia.org/wiki/AK-47突擊步槍 "wikilink")，發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。它除了可以下掛於步槍的下護木，也可通過增加及[槍托配件改裝成一個獨立的](../Page/槍托.md "wikilink")[肩射型榴彈發射器武器系統](https://zh.wikipedia.org/wiki/榴弹发射器#肩射型榴弹发射器 "wikilink")。
+**ARDE 40毫米下掛式榴彈發射器**是一具由[印度](../Page/印度.md "wikilink")（ARDE；負責本槍的設計）、（OFB）旗下的（OFT Trichy；負責本槍的生產）所組成的聯合企業自主研發和生產的單發下掛式[榴弹发射器](../Page/榴弹发射器.md "wikilink")，是目前[印度陸軍](../Page/印度陸軍.md "wikilink")的[INSAS和](../Page/英薩斯突擊步槍.md "wikilink")[AK-47所使用的下掛式武器](https://zh.wikipedia.org/wiki/AK-47突擊步槍 "wikilink")，發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。它除了可以下掛於步槍的下護木，也可通過增加及[槍托](../Page/槍托.md "wikilink")配件改裝成一個獨立的[肩射型榴彈發射器武器系統](https://zh.wikipedia.org/wiki/榴弹发射器#肩射型榴弹发射器 "wikilink")。
 
 ## 概述
 
@@ -10,7 +8,7 @@ Trichy；負責本槍的生產）所組成的聯合企業自主研發和生產�
 
 ## 使用國
 
-  - ：被[印度陸軍所使用](../Page/印度陸軍.md "wikilink")。
+  - ：被[印度陸軍](../Page/印度陸軍.md "wikilink")所使用。
 
 ## 資料來源
 
@@ -38,20 +36,17 @@ Trichy；負責本槍的生產）所組成的聯合企業自主研發和生產�
   - [GPBO-40附加型榴彈發射器](https://zh.wikipedia.org/wiki/GPBO-40附加型榴彈發射器 "wikilink")
   - [希爾頓HG40附加型榴彈發射器](https://zh.wikipedia.org/wiki/希爾頓HG40附加型榴彈發射器 "wikilink")
   - [HK79附加型榴彈發射器](../Page/HK79附加型榴彈發射器.md "wikilink")
-  - [HK
-    AG36](../Page/HK_AG36附加型榴彈發射器.md "wikilink")、[AG-C/EGLM榴彈發射器](https://zh.wikipedia.org/wiki/HK_AG-C/EGLM附加型榴彈發射器 "wikilink")
+  - [HK AG36](../Page/HK_AG36附加型榴彈發射器.md "wikilink")、[AG-C/EGLM榴彈發射器](https://zh.wikipedia.org/wiki/HK_AG-C/EGLM附加型榴彈發射器 "wikilink")
   - [M320榴彈發射器](../Page/M320榴彈發射器.md "wikilink")
   - [Istec ISL-200附加型榴彈發射器](../Page/Istec_ISL-200附加型榴彈發射器.md "wikilink")
-  - [Istec
-    ISL-274附加型榴彈發射器](https://zh.wikipedia.org/wiki/Istec_ISL-274附加型榴彈發射器 "wikilink")
+  - [Istec ISL-274附加型榴彈發射器](https://zh.wikipedia.org/wiki/Istec_ISL-274附加型榴彈發射器 "wikilink")
   - [IMC-40枪挂榴弹发射器](../Page/IMC-40枪挂榴弹发射器.md "wikilink")
   - [IWI GL 40附加型榴彈發射器](../Page/IWI_GL_40附加型榴彈發射器.md "wikilink")
   - [MKEK T-40附加型榴彈發射器](../Page/MKEK_T-40附加型榴彈發射器.md "wikilink")
   - [ML40附加型榴彈發射器](https://zh.wikipedia.org/wiki/ML40附加型榴彈發射器 "wikilink")
   - [米爾科姆40毫米附加型榴彈發射器](https://zh.wikipedia.org/wiki/米爾科姆40毫米附加型榴彈發射器 "wikilink")
   - [SIG GL 5040附加型榴彈發射器](../Page/SIG_GL_5040附加型榴彈發射器.md "wikilink")
-  - [斯泰爾GL
-    40附加型榴彈發射器](https://zh.wikipedia.org/wiki/斯泰爾GL_40附加型榴彈發射器 "wikilink")
+  - [斯泰爾GL 40附加型榴彈發射器](https://zh.wikipedia.org/wiki/斯泰爾GL_40附加型榴彈發射器 "wikilink")
   - [VHS-BG附加型榴彈發射器](../Page/VHS-BG附加型榴彈發射器.md "wikilink")
   - [Wz. 1974鈀式附加型榴彈發射器](../Page/Wz._1974鈀式附加型榴彈發射器.md "wikilink")
   - [AG-40附加型榴彈發射器](../Page/AG-40附加型榴彈發射器.md "wikilink")
@@ -59,14 +54,9 @@ Trichy；負責本槍的生產）所組成的聯合企業自主研發和生產�
   - [QLG-10／QLG-10A榴弹发射器](../Page/10式枪挂榴弹发射器.md "wikilink")
   - [M32連發式榴彈發射器](../Page/米尔科姆转轮连发式榴弹发射器.md "wikilink")
 
-[Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink")
-[Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink")
-[Category:附加型榴彈發射器](https://zh.wikipedia.org/wiki/Category:附加型榴彈發射器 "wikilink")
-[Category:印度轻武器](https://zh.wikipedia.org/wiki/Category:印度轻武器 "wikilink")
+[Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink") [Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink") [Category:附加型榴彈發射器](https://zh.wikipedia.org/wiki/Category:附加型榴彈發射器 "wikilink") [Category:印度轻武器](https://zh.wikipedia.org/wiki/Category:印度轻武器 "wikilink")
 
 1.
-2.  [Asian Military Review—INFANTRY SUPPORT
-    WEAPONS](http://www.asianmilitaryreview.com/infantry-support-weapons/)
-
+2.  [Asian Military Review—INFANTRY SUPPORT WEAPONS](http://www.asianmilitaryreview.com/infantry-support-weapons/)
 
 3.

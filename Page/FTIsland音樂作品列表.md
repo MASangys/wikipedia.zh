@@ -1,5 +1,4 @@
-**[FTIsland](../Page/FTIsland.md "wikilink")**是韓國[流行搖滾樂團](../Page/流行搖滾.md "wikilink")，現隸屬於[FNC娛樂](../Page/FNC娛樂.md "wikilink")，於2007年以專輯《Cheerful
-Sensibility》正式出道。迄今共發行16張專輯、3張合輯、8張迷你專輯及36張單曲。
+**[FTIsland](../Page/FTIsland.md "wikilink")**是韓國[流行搖滾](../Page/流行搖滾.md "wikilink")樂團，現隸屬於[FNC娛樂](../Page/FNC娛樂.md "wikilink")，於2007年以專輯《Cheerful Sensibility》正式出道。迄今共發行16張專輯、3張合輯、8張迷你專輯及36張單曲。
 
 ## 專輯
 
@@ -1540,10 +1539,7 @@ Sensibility》正式出道。迄今共發行16張專輯、3張合輯、8張迷�
   - [韓國官方網站中的專輯資訊](https://fncent.com/?m=bbs&bid=album&mod=view&r=FTISLAND&uid=24962&ma_lang=1&ma_cate=1)
   - [日本官方網站中的專輯資訊](http://ftisland-official.jp/discography/)
 
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
-[Category:搖滾樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:搖滾樂團音樂作品列表 "wikilink")
-[Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
-[Category:FTIsland](https://zh.wikipedia.org/wiki/Category:FTIsland "wikilink")
+[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:搖滾樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:搖滾樂團音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink") [Category:FTIsland](https://zh.wikipedia.org/wiki/Category:FTIsland "wikilink")
 
 1.
 2.
@@ -1585,9 +1581,7 @@ Sensibility》正式出道。迄今共發行16張專輯、3張合輯、8張迷�
 38.
 39.
 40.
-41.  FT ISLAND - TAKE ME
-    NOW|date=2016-07-17|url=[https://www.youngnwise.co.kr/ft-island-take-me-now|accessdate=2018-02-24|work=YOUNG](https://www.youngnwise.co.kr/ft-island-take-me-now%7Caccessdate=2018-02-24%7Cwork=YOUNG)
-    & WISE|language=ko}}
+41.  FT ISLAND - TAKE ME NOW|date=2016-07-17|url=[https://www.youngnwise.co.kr/ft-island-take-me-now|accessdate=2018-02-24|work=YOUNG](https://www.youngnwise.co.kr/ft-island-take-me-now%7Caccessdate=2018-02-24%7Cwork=YOUNG) & WISE|language=ko}}
 42.
 43.
 44.

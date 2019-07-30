@@ -1,13 +1,10 @@
-**女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群在**毛里塔尼亚**面临着法律问题。[毛里塔尼亚将男性或女性的同性间性行为视为犯罪](../Page/毛里塔尼亚.md "wikilink")。[与男性发生性关系的穆斯林男子面临](https://zh.wikipedia.org/wiki/男男性接触人群 "wikilink")[石刑](../Page/石刑.md "wikilink")（一种钝击致死的死刑执行方式），而[与女性发生性关系的妇女则面临监禁](../Page/女女性行为.md "wikilink")。\[1\]
+**女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群在**毛里塔尼亚**面临着法律问题。[毛里塔尼亚](../Page/毛里塔尼亚.md "wikilink")将男性或女性的同性间性行为视为犯罪。[与男性发生性关系的穆斯林男子面临](https://zh.wikipedia.org/wiki/男男性接触人群 "wikilink")[石刑](../Page/石刑.md "wikilink")（一种钝击致死的死刑执行方式），而[与女性发生性关系的妇女则面临监禁](../Page/女女性行为.md "wikilink")。\[1\]
 
 ## 有关同性性行为的法律
 
-[毛里塔尼亚适用](../Page/毛里塔尼亚.md "wikilink")[伊斯兰教法](https://zh.wikipedia.org/wiki/伊斯兰教法 "wikilink")。\[2\]
+[毛里塔尼亚](../Page/毛里塔尼亚.md "wikilink")适用[伊斯兰教法](https://zh.wikipedia.org/wiki/伊斯兰教法 "wikilink")。\[2\]
 
-根据1983年《刑法典》第308条的非正式英文译本“任何与同性发生不自然关系的成年穆斯林男子将面临公开石刑的处罚。”\[3\]第308条的法文正式文本为“Tout
-musulman majeur qui aura commis un acte impudique ou contre nature avec
-un individu de son sexe sera puni de peine de mort par lapidation
-publique（任何成年穆斯林男子与和他的性别相同的个体发生猥亵行为或违反自然的行为会被判处公开石刑惩罚。”\[4\]
+根据1983年《刑法典》第308条的非正式英文译本“任何与同性发生不自然关系的成年穆斯林男子将面临公开石刑的处罚。”\[3\]第308条的法文正式文本为“Tout musulman majeur qui aura commis un acte impudique ou contre nature avec un individu de son sexe sera puni de peine de mort par lapidation publique（任何成年穆斯林男子与和他的性别相同的个体发生猥亵行为或违反自然的行为会被判处公开石刑惩罚。”\[4\]
 
 ## 生存现状
 
@@ -38,8 +35,7 @@ publique（任何成年穆斯林男子与和他的性别相同的个体发生猥
 
 ## 参考资料
 
-[Category:非洲LGBT權益](https://zh.wikipedia.org/wiki/Category:非洲LGBT權益 "wikilink")
-[Category:毛里塔尼亚政治](https://zh.wikipedia.org/wiki/Category:毛里塔尼亚政治 "wikilink")
+[Category:非洲LGBT權益](https://zh.wikipedia.org/wiki/Category:非洲LGBT權益 "wikilink") [Category:毛里塔尼亚政治](https://zh.wikipedia.org/wiki/Category:毛里塔尼亚政治 "wikilink")
 
 1.
 2.

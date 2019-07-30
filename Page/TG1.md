@@ -1,18 +1,12 @@
-**TG1**（，全称为“**TeleGiornale
-1**”，直译为“一台电视新闻”），是[意大利广播电视公司](../Page/意大利广播电视公司.md "wikilink")（RAI）旗下频道[Rai
-1的新闻节目](https://zh.wikipedia.org/wiki/Rai_1 "wikilink")，每天播出多次。节目也通过RAI的对外频道向海外播出。
+**TG1**（，全称为“**TeleGiornale 1**”，直译为“一台电视新闻”），是[意大利广播电视公司](../Page/意大利广播电视公司.md "wikilink")（RAI）旗下频道[Rai 1的新闻节目](https://zh.wikipedia.org/wiki/Rai_1 "wikilink")，每天播出多次。节目也通过RAI的对外频道向海外播出。
 
 ## 历史
 
-1952年9月10日，《TG1》的前身《TeleGiornale》（电视新闻）开播。1961年，意大利广播电视公司第二频道（，今[Rai
-2](../Page/Rai_2.md "wikilink")）开播，《TeleGiornale》除了在全国频道（，今[Rai
-1](https://zh.wikipedia.org/wiki/Rai_1 "wikilink")）播出外，亦开始在第二频道播出。
+1952年9月10日，《TG1》的前身《TeleGiornale》（电视新闻）开播。1961年，意大利广播电视公司第二频道（，今[Rai 2](../Page/Rai_2.md "wikilink")）开播，《TeleGiornale》除了在全国频道（，今[Rai 1](https://zh.wikipedia.org/wiki/Rai_1 "wikilink")）播出外，亦开始在第二频道播出。
 
 1975年，RAI进行改革之后，全国廣播和第二频道分别改名为“第一電視網”（）和“第二電視網”（），兩台的新闻节目分拆為《TG1》和《TG2》。
 
-1982年，RAI第一套節目更名为“Rai
-Uno”（“Uno”即意大利语中的“一”，2010年改用數字表示），但《TG1》节目名称依然保留，直到1992年更名为《TeleGiornale
-Uno》（一台电视新闻），但次年又改回《TG1》并沿用至今。
+1982年，RAI第一套節目更名为“Rai Uno”（“Uno”即意大利语中的“一”，2010年改用數字表示），但《TG1》节目名称依然保留，直到1992年更名为《TeleGiornale Uno》（一台电视新闻），但次年又改回《TG1》并沿用至今。
 
 节目的片头曲及片尾曲自1952年《TeleGiornale》开播以来一直沿用至今，最新的编曲版本2010年起开始使用。
 
@@ -50,5 +44,4 @@ Uno》（一台电视新闻），但次年又改回《TG1》并沿用至今。
   -
   - （《TG1》1952年至2014年片头片尾集锦）
 
-[Category:義大利電視](https://zh.wikipedia.org/wiki/Category:義大利電視 "wikilink")
-[Category:電視新聞節目](https://zh.wikipedia.org/wiki/Category:電視新聞節目 "wikilink")
+[Category:義大利電視](https://zh.wikipedia.org/wiki/Category:義大利電視 "wikilink") [Category:電視新聞節目](https://zh.wikipedia.org/wiki/Category:電視新聞節目 "wikilink")

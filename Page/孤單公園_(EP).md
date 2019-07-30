@@ -9,5 +9,4 @@
 | <small>903</small>  |    <small>週數</small>    | <small>RTHK</small> |
 | <small>2003</small> | <small>**孤單公園**</small> |         15          |
 
-[Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
-[Category:張敬軒音樂專輯](https://zh.wikipedia.org/wiki/Category:張敬軒音樂專輯 "wikilink")
+[Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink") [Category:張敬軒音樂專輯](https://zh.wikipedia.org/wiki/Category:張敬軒音樂專輯 "wikilink")

@@ -1,4 +1,4 @@
-為2017年[中國網路電視劇](../Page/中國.md "wikilink")，第二季改編自尼罗同名第三部作品，由[韩东君](../Page/韩东君.md "wikilink")、[陈瑶](../Page/陈瑶.md "wikilink")、[王彦霖](../Page/王彦霖.md "wikilink")、[李蘭迪](../Page/李蘭迪.md "wikilink")、[Mike及](https://zh.wikipedia.org/wiki/Mike_D._Angelo "wikilink")[高泰宇領銜主演](../Page/高泰宇.md "wikilink")，故事的開端將定於20年后的1937年，把岳綺羅吞噬的饕餮化為人形出來人世間，人稱「小丁貓」，白琉璃化身變成一條小白蛇，顧大人之子顧基也將登場。除此之外，蘇桃將加入一同冒險、反派人物白川凜也將登場與無心對陣。該劇於2016年8月8日開機，同年11月初杀青，亦於2017年8月14日在[搜狐视频和](../Page/搜狐.md "wikilink")[腾讯视频首播](../Page/腾讯视频.md "wikilink")。\[1\]
+為2017年[中國](../Page/中國.md "wikilink")網路電視劇，第二季改編自尼罗同名第三部作品，由[韩东君](../Page/韩东君.md "wikilink")、[陈瑶](../Page/陈瑶.md "wikilink")、[王彦霖](../Page/王彦霖.md "wikilink")、[李蘭迪](../Page/李蘭迪.md "wikilink")、[Mike及](https://zh.wikipedia.org/wiki/Mike_D._Angelo "wikilink")[高泰宇](../Page/高泰宇.md "wikilink")領銜主演，故事的開端將定於20年后的1937年，把岳綺羅吞噬的饕餮化為人形出來人世間，人稱「小丁貓」，白琉璃化身變成一條小白蛇，顧大人之子顧基也將登場。除此之外，蘇桃將加入一同冒險、反派人物白川凜也將登場與無心對陣。該劇於2016年8月8日開機，同年11月初杀青，亦於2017年8月14日在[搜狐](../Page/搜狐.md "wikilink")视频和[腾讯视频](../Page/腾讯视频.md "wikilink")首播。\[1\]
 
 ## 播出時間及平台
 
@@ -14,7 +14,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/搜狐.md" title="wikilink">搜狐视频</a>/<a href="../Page/腾讯视频.md" title="wikilink">腾讯视频</a></p></td>
+<td><p><a href="../Page/搜狐.md" title="wikilink">搜狐</a>视频/<a href="../Page/腾讯视频.md" title="wikilink">腾讯视频</a></p></td>
 <td></td>
 <td><p>2017年8月14日</p></td>
 <td><p>8：00 PM</p></td>
@@ -40,7 +40,7 @@
 
 ## 劇情簡介
 
-二十世纪三十年代初，位于上海郊区的苏宅有人登门，求购苏家的家传古董——宋代瓷枕，苏老爷（[劉松仁飾](../Page/劉松仁.md "wikilink")）严辞拒绝，并砸碎瓷枕以示决绝。女儿苏桃（[李蘭迪飾](../Page/李蘭迪.md "wikilink")）出来收拾，却意外在碎瓷中发现一枚精巧的铜镜。她一时好奇将铜镜拿回阁楼把玩，不料却由此引发一系列诡异离奇之事。
+二十世纪三十年代初，位于上海郊区的苏宅有人登门，求购苏家的家传古董——宋代瓷枕，苏老爷（[劉松仁](../Page/劉松仁.md "wikilink")飾）严辞拒绝，并砸碎瓷枕以示决绝。女儿苏桃（[李蘭迪](../Page/李蘭迪.md "wikilink")飾）出来收拾，却意外在碎瓷中发现一枚精巧的铜镜。她一时好奇将铜镜拿回阁楼把玩，不料却由此引发一系列诡异离奇之事。
 
 ## 演員表
 
@@ -326,8 +326,7 @@
 
   - 王彦霖在接演该剧前，曾有不少制作精良的作品找他主演，其中不乏一些男主和非常重要的角色。面对这种情况，王彦霖依然毫不犹豫地选择了该剧，因为在他的心中，是《无心法师》让更多的观众认识并喜爱他，这部剧对他的表演之路有着非比寻常的意义。
   - 陈瑶在剧中反串饰演男性角色小丁猫，为了演好男性角色，陈瑶平时跟韩东君和王彦霖学习，包括走路、穿衣、穿鞋等等方面，并且为了更接近男生的形象，不仅要束胸，穿内增高十多厘米的鞋子，服装加垫肩，垫肌肉块，还要穿着多达七件的戏服。此外，陈瑶的定妆照所采用的姿势就参考了韩东君的照片。
-  - 在探班采访中，李兰迪表示韩东君、陈瑶、王彦霖、Mike在戏里是她的四个奶爸，对于四位“奶爸”，李兰迪还有自己下的定位：韩东君是负责思想教育的，也会管着她吃，看到她忍不住的时候，又会不忍心专门找一些东西给她吃；陈瑶和她一样都很爱吃，是生活上的“奶爸”，
-    王彦霖则非常幽默，可以帮她放松，而Mike是一起练英语，算是课外语言辅导奶爸
+  - 在探班采访中，李兰迪表示韩东君、陈瑶、王彦霖、Mike在戏里是她的四个奶爸，对于四位“奶爸”，李兰迪还有自己下的定位：韩东君是负责思想教育的，也会管着她吃，看到她忍不住的时候，又会不忍心专门找一些东西给她吃；陈瑶和她一样都很爱吃，是生活上的“奶爸”， 王彦霖则非常幽默，可以帮她放松，而Mike是一起练英语，算是课外语言辅导奶爸
   - 李兰迪透露和陈瑶在房间里吃火锅，并被韩东君“指控”是剧组的“道具杀手”。有一天李兰迪姐姐有一包薯片不让她吃，她就不行了。之后韩东君与她对戏，感觉到她的眼睛里充满了薯片，说词也忘了，演戏也演不好。最后李兰迪吃了一片，状态就好了。还有在一场吃火锅的戏，李兰迪表示一定要吃羊肉，不吃就会忘词。
   - 韩东君透露，陈瑶在片场是用奶瓶喝水。
   - 王彦霖把教陈瑶走路当成了片场的娱乐之一，陈瑶表示王彦霖一看到我走路就看不惯，说她走路不像男的，得外八走路。
@@ -351,15 +350,9 @@
   -
   - －香港無綫電視
 
-[Category:2017年中国网络剧](https://zh.wikipedia.org/wiki/Category:2017年中国网络剧 "wikilink")
-[Category:中国网络小说改编电视剧](https://zh.wikipedia.org/wiki/Category:中国网络小说改编电视剧 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
-[Category:中華民國大陸時期背景電視劇](https://zh.wikipedia.org/wiki/Category:中華民國大陸時期背景電視劇 "wikilink")
-[Category:企鹅影视出品电视剧](https://zh.wikipedia.org/wiki/Category:企鹅影视出品电视剧 "wikilink")
+[Category:2017年中国网络剧](https://zh.wikipedia.org/wiki/Category:2017年中国网络剧 "wikilink") [Category:中国网络小说改编电视剧](https://zh.wikipedia.org/wiki/Category:中国网络小说改编电视剧 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:中華民國大陸時期背景電視劇](https://zh.wikipedia.org/wiki/Category:中華民國大陸時期背景電視劇 "wikilink") [Category:企鹅影视出品电视剧](https://zh.wikipedia.org/wiki/Category:企鹅影视出品电视剧 "wikilink")
 
-1.  [《无心法师2》开机
-    韩东君领衔四大主演回归](http://yule.sohu.com/20160808/n463058982.shtml)
+1.  [《无心法师2》开机 韩东君领衔四大主演回归](http://yule.sohu.com/20160808/n463058982.shtml)
 2.
 3.
 4.

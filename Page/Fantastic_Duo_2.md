@@ -1,14 +1,12 @@
-《**Fantastic Duo
-2**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台的](../Page/SBS_\(韓國\).md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，於2017年3月26日起逢[韓國時間星期日下午](https://zh.wikipedia.org/wiki/韓國 "wikilink")6時20分開始播放。
+《**Fantastic Duo 2**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台的](../Page/SBS_\(韓國\).md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，於2017年3月26日起逢[韓國時間星期日下午](https://zh.wikipedia.org/wiki/韓國 "wikilink")6時20分開始播放。
 
-2017年10月26日，Fantastic Duo
-2製作團隊宣佈將在11月7日進行該季最後一次錄影\[1\]，同年12月17日播出最後一集\[2\]。
+2017年10月26日，Fantastic Duo 2製作團隊宣佈將在11月7日進行該季最後一次錄影\[1\]，同年12月17日播出最後一集\[2\]。
 
 ## 節目形式
 
 每集共有2\~3位歌手進行競演，而每位歌手都必須在眾多申請者中選出一位拍擋，以便於決賽舞台中進行二重唱競演。一般觀眾挑選希望能夠合唱的歌手後，需要上載其對唱視頻至手機[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")「everySing」，才可成為正式的申請者。而節目組會從首輪眾人當中選出5\~8名申請者以進入次回合；成功晉身次回合的申請者，其申請時之部份視頻會在正規節目中播放；而在次回合之數人當中，只有五\~六名申請者能夠進入第三回合，並得到出演節目的邀請。及後此數名參賽者會在歌手面前，進行初印象、1：7或1：5及1：3對決舞台以爭奪與歌手合唱之機會。
 
-與首季不同，在本季各集對決中取得優勝的組合並不會獲得任何獎金或獎品，取而代之的為最終演唱會（王中王戰）的參賽資格，而在該戰中優勝的組合可獲得一輛轎車。另所有獲勝隊伍在決賽舞台中的合唱歌曲，均會仿傚上一季的做法，以單曲的形式發行。而此曲之[著作權能夠維持至往後的](../Page/著作權.md "wikilink")70年（由成功登記後一刻起計算）以及會被[韓國法律所保護](https://zh.wikipedia.org/wiki/韓國法律 "wikilink")。為保障獲勝的參賽者們能夠得到稅收，[SBS會為他們登記為](../Page/SBS_\(韓國\).md "wikilink")的一員，及後他們會自動享有作為韓國歌手的專利。
+與首季不同，在本季各集對決中取得優勝的組合並不會獲得任何獎金或獎品，取而代之的為最終演唱會（王中王戰）的參賽資格，而在該戰中優勝的組合可獲得一輛轎車。另所有獲勝隊伍在決賽舞台中的合唱歌曲，均會仿傚上一季的做法，以單曲的形式發行。而此曲之[著作權](../Page/著作權.md "wikilink")能夠維持至往後的70年（由成功登記後一刻起計算）以及會被[韓國法律所保護](https://zh.wikipedia.org/wiki/韓國法律 "wikilink")。為保障獲勝的參賽者們能夠得到稅收，[SBS會為他們登記為](../Page/SBS_\(韓國\).md "wikilink")的一員，及後他們會自動享有作為韓國歌手的專利。
 
 ### 1：7混合舞台
 
@@ -81,8 +79,7 @@
 
 ### 決賽舞台
 
-當每位歌手均選出各自的Fantastic
-Duo後，便會開始二人組合之間的最終競演。每隊的舞台完結後會由現場觀眾進行評分，在200名觀眾中取得最高票數（分數）的組合便能成為當晚的優勝者。
+當每位歌手均選出各自的Fantastic Duo後，便會開始二人組合之間的最終競演。每隊的舞台完結後會由現場觀眾進行評分，在200名觀眾中取得最高票數（分數）的組合便能成為當晚的優勝者。
 
 ### 最終演唱會
 
@@ -357,7 +354,7 @@ Duo後，便會開始二人組合之間的最終競演。每隊的舞台完結�
 "加平雪樂高初戀歷史老師"－李忠模、禹雅韓<br />
 "天安浪漫吉他"－黃周明<br />
 "釜山發光辣炒菜"－車炯宗<br />
-"<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍好朋友</a>"－趙煥智<br />
+"<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a>好朋友"－趙煥智<br />
 "大田雞籠山大力水手"－李民觀<br />
 安東市內明星－孫正秀</p></td>
 <td><p>車炯宗<br />
@@ -870,7 +867,7 @@ Duo後，便會開始二人組合之間的最終競演。每隊的舞台完結�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>&amp; <a href="../Page/酷龍.md" title="wikilink">酷龍的朋友們</a>（<a href="../Page/蔡妍.md" title="wikilink">蔡妍</a>、<a href="https://zh.wikipedia.org/wiki/嘉熙_(歌手)" title="wikilink">嘉熙</a>）</p></td>
+<td><p>&amp; <a href="../Page/酷龍.md" title="wikilink">酷龍</a>的朋友們（<a href="../Page/蔡妍.md" title="wikilink">蔡妍</a>、<a href="https://zh.wikipedia.org/wiki/嘉熙_(歌手)" title="wikilink">嘉熙</a>）</p></td>
 <td><p>Everybody／我（난）<br />
 <a href="https://zh.wikipedia.org/wiki/砰砰" title="wikilink">砰砰</a><br />
 <br />
@@ -1356,7 +1353,7 @@ A-Yo</p></td>
 <td><p>1：3對決舞台</p></td>
 <td><p>2</p></td>
 <td><p><a href="../Page/李素羅.md" title="wikilink">李素羅</a> &amp; 最終三甲<br />
-"<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍好朋友</a>"－趙煥智<br />
+"<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a>好朋友"－趙煥智<br />
 "大田雞籠山大力水手"－李民觀<br />
 安東市內明星－孫正秀</p></td>
 <td><p>你內心的憂鬱（그대 안의 블루）</p></td>
@@ -1949,8 +1946,7 @@ A-Yo</p></td>
   - [第二季官方網站](http://program.sbs.co.kr/builder/programMainList.do?pgm_id=22000010248)
   - [Everysing](http://www.everysing.com/singwithstar.sm)
 
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
+[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
 
 1.
 

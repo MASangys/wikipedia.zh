@@ -3,23 +3,14 @@
 ## 體育賽事
 
   - [2001年世界運動會](../Page/2001年世界運動會.md "wikilink")
-  - [2018年秋田羽毛球大師賽](../Page/2018年秋田羽毛球大師賽.md "wikilink")
+  - [秋田羽毛球大師賽](../Page/秋田羽毛球大師賽.md "wikilink")
 
 ## 画册
 
-Image:Akita Municipal Gymnasium 20161019b.jpg| Image:Akita Municipal
-Gymnasium 20161019c.jpg| Image:Akita Municipal Gymnasium 20161019a.jpg|
-Image:Akita_Municipal_Gymnasium_20111014b.jpg| Image:Basketball court
-in Akita Municipal Gymnasium.jpg| Image:City gymnasium - panoramio.jpg|
-Image:CNA Arena Akita.png|卫星图
+Image:Akita Municipal Gymnasium 20161019b.jpg| Image:Akita Municipal Gymnasium 20161019c.jpg| Image:Akita Municipal Gymnasium 20161019a.jpg| Image:Akita_Municipal_Gymnasium_20111014b.jpg| Image:Basketball court in Akita Municipal Gymnasium.jpg| Image:City gymnasium - panoramio.jpg| Image:CNA Arena Akita.png|卫星图
 
 ## 外部連結
 
-[分類:羽毛球場館](https://zh.wikipedia.org/wiki/分類:羽毛球場館 "wikilink")
-[分類:後現代主義建築](https://zh.wikipedia.org/wiki/分類:後現代主義建築 "wikilink")
+[分類:羽毛球場館](https://zh.wikipedia.org/wiki/分類:羽毛球場館 "wikilink") [分類:後現代主義建築](https://zh.wikipedia.org/wiki/分類:後現代主義建築 "wikilink")
 
-[Category:日本室內體育場](https://zh.wikipedia.org/wiki/Category:日本室內體育場 "wikilink")
-[Category:日本籃球場館](https://zh.wikipedia.org/wiki/Category:日本籃球場館 "wikilink")
-[Category:1994年建立](https://zh.wikipedia.org/wiki/Category:1994年建立 "wikilink")
-[Category:秋田北部喜悅](https://zh.wikipedia.org/wiki/Category:秋田北部喜悅 "wikilink")
-[Category:日本職業摔角場館](https://zh.wikipedia.org/wiki/Category:日本職業摔角場館 "wikilink")
+[Category:日本室內體育場](https://zh.wikipedia.org/wiki/Category:日本室內體育場 "wikilink") [Category:日本籃球場館](https://zh.wikipedia.org/wiki/Category:日本籃球場館 "wikilink") [Category:1994年建立](https://zh.wikipedia.org/wiki/Category:1994年建立 "wikilink") [Category:秋田北部喜悅](https://zh.wikipedia.org/wiki/Category:秋田北部喜悅 "wikilink") [Category:日本職業摔角場館](https://zh.wikipedia.org/wiki/Category:日本職業摔角場館 "wikilink")

@@ -1,20 +1,16 @@
-以下是**[JTBC的](../Page/JTBC.md "wikilink")[电视节目列表](../Page/电视节目.md "wikilink")**，按照节目名称及播出时间排序。
+以下是**[JTBC](../Page/JTBC.md "wikilink")的[电视节目](../Page/电视节目.md "wikilink")列表**，按照节目名称及播出时间排序。
 
 ## 0–9
 
   -    （2011年12月11日－2012年4月1日）
 
-  - [61号英雄是我的朴赞浩](https://zh.wikipedia.org/wiki/61号英雄是我的朴赞浩 "wikilink")
-    （2013年8月3日）
+  - [61号英雄是我的朴赞浩](https://zh.wikipedia.org/wiki/61号英雄是我的朴赞浩 "wikilink")  （2013年8月3日）
 
-  - [2013游民论坛](https://zh.wikipedia.org/wiki/2013游民论坛 "wikilink")
-    （2013年10月14日－2013年10月19日）
+  - [2013游民论坛](https://zh.wikipedia.org/wiki/2013游民论坛 "wikilink")  （2013年10月14日－2013年10月19日）
 
-  - [12年後的重逢：山蒜醬湯](../Page/12年後的重逢：山蒜醬湯.md "wikilink")
-    （2014年3月22日－2014年6月29日）
+  - [12年後的重逢：山蒜醬湯](../Page/12年後的重逢：山蒜醬湯.md "wikilink")   （2014年3月22日－2014年6月29日）
 
-  - [1%的情报](https://zh.wikipedia.org/wiki/1%的情报 "wikilink")
-    （2016年6月3日－2016年9月28日）
+  - [1%的情报](https://zh.wikipedia.org/wiki/1%的情报 "wikilink")   （2016年6月3日－2016年9月28日）
 
 ## A
 
@@ -22,33 +18,27 @@
 
 ## B
 
-  - [边宇民和朴志胤的幸福咖啡屋](https://zh.wikipedia.org/wiki/边宇民和朴志胤的幸福咖啡屋 "wikilink")
-      （2011年12月5日－2012年2月2日）
+  - [边宇民和朴志胤的幸福咖啡屋](https://zh.wikipedia.org/wiki/边宇民和朴志胤的幸福咖啡屋 "wikilink")   （2011年12月5日－2012年2月2日）
 
-  - [不治之症的希望](https://zh.wikipedia.org/wiki/不治之症的希望 "wikilink")
-    （2012年4月8日－2012年4月29日）
+  - [不治之症的希望](https://zh.wikipedia.org/wiki/不治之症的希望 "wikilink")  （2012年4月8日－2012年4月29日）
 
   -    （2012年11月9日－2013年5月19日）
 
   -    （2013年2月11日－2013年4月8日）
 
-  - [白刃五谷从头到尾](https://zh.wikipedia.org/wiki/白刃五谷从头到尾 "wikilink")
-    （2014年10月31日－2015年9月27日）
+  - [白刃五谷从头到尾](https://zh.wikipedia.org/wiki/白刃五谷从头到尾 "wikilink")   （2014年10月31日－2015年9月27日）
 
-  - [百万富翁电梯](https://zh.wikipedia.org/wiki/百万富翁电梯 "wikilink")
-    （2014年11月30日）
+  - [百万富翁电梯](https://zh.wikipedia.org/wiki/百万富翁电梯 "wikilink")   （2014年11月30日）
 
   - [半月朋友](../Page/半月朋友.md "wikilink")   （2016年4月23日－2016年7月16日）
 
-  - [本月的活動王](https://zh.wikipedia.org/wiki/本月的活動王 "wikilink")
-    （2016年10月12日－2016年10月21日）
+  - [本月的活動王](https://zh.wikipedia.org/wiki/本月的活動王 "wikilink")   （2016年10月12日－2016年10月21日）
 
 ## C
 
   -    （2011年12月4日－2012年2月19日）
 
-  - [CODE - 秘密的房间](../Page/CODE_-_秘密的房间.md "wikilink")
-    （2016年1月1日－2016年3月25日）
+  - [CODE - 秘密的房间](../Page/CODE_-_秘密的房间.md "wikilink")   （2016年1月1日－2016年3月25日）
 
   - [Cook家代表](../Page/Cook家代表.md "wikilink")   （2016年2月17日－2016年8月10日）
 
@@ -60,18 +50,13 @@
 
   -    （2012年11月23日－2013年11月9日）
 
-  - [大明星小明星](https://zh.wikipedia.org/wiki/大明星小明星 "wikilink")
-    （2014年7月19日－2014年8月9日）
+  - [大明星小明星](https://zh.wikipedia.org/wiki/大明星小明星 "wikilink")  （2014年7月19日－2014年8月9日）
 
-  - [D-Day](../Page/D-Day_\(電視劇\).md "wikilink")
-    （2015年9月18日－2015年11月21日）
+  - [D-Day](../Page/D-Day_\(電視劇\).md "wikilink")   （2015年9月18日－2015年11月21日）
 
-  - [当代人类报告书 -
-    他人的取向](https://zh.wikipedia.org/wiki/当代人类报告书_-_他人的取向 "wikilink")
-      （2015年11月11日－2015年12月27日）
+  - [当代人类报告书 - 他人的取向](https://zh.wikipedia.org/wiki/当代人类报告书_-_他人的取向 "wikilink")   （2015年11月11日－2015年12月27日）
 
-  - [到岛上去吧](https://zh.wikipedia.org/wiki/到岛上去吧 "wikilink")
-    （2015年12月20日－2016年2月21日）
+  - [到岛上去吧](https://zh.wikipedia.org/wiki/到岛上去吧 "wikilink")  （2015年12月20日－2016年2月21日）
 
   - [大力女子都奉順](../Page/大力女子都奉順.md "wikilink")   （2017年2月24日－2017年4月15日）
 
@@ -81,25 +66,19 @@
 
   -    （2014年11月27日－2015年3月19日）
 
-  - [儿童直线球秀 -
-    我的年龄如何](https://zh.wikipedia.org/wiki/儿童直线球秀_-_我的年龄如何 "wikilink")
-      （2015年9月1日－2015年10月13日）
+  - [儿童直线球秀 - 我的年龄如何](https://zh.wikipedia.org/wiki/儿童直线球秀_-_我的年龄如何 "wikilink")   （2015年9月1日－2015年10月13日）
 
 ## F
 
   - [發酵家族](../Page/發酵家族.md "wikilink")   （2011年12月7日－2012年2月23日）\[1\]
 
-  - [犯罪现场](../Page/Crime_Scene_犯罪現場.md "wikilink")
-    （2014年5月10日－2014年7月12日）
+  - [犯罪现场](../Page/Crime_Scene_犯罪現場.md "wikilink")   （2014年5月10日－2014年7月12日）
 
-  - [非首脑会谈](https://zh.wikipedia.org/wiki/非首脑会谈 "wikilink")
-    （2014年7月7日－）\[2\]
+  - [非首脑会谈](https://zh.wikipedia.org/wiki/非首脑会谈 "wikilink")   （2014年7月7日－）\[2\]
 
-  - [犯罪现场2](../Page/Crime_Scene_犯罪現場.md "wikilink")
-    （2015年4月1日－2015年6月24日）
+  - [犯罪现场2](../Page/Crime_Scene_犯罪現場.md "wikilink")   （2015年4月1日－2015年6月24日）
 
-  - [Fantastic](../Page/Fantastic_\(電視劇\).md "wikilink")
-    （2016年9月2日－2016年10月22日）
+  - [Fantastic](../Page/Fantastic_\(電視劇\).md "wikilink")   （2016年9月2日－2016年10月22日）
 
   - [犯罪现场3](../Page/Crime_Scene_犯罪現場.md "wikilink")   （2017年4月21日－）
 
@@ -107,29 +86,23 @@
 
   -   （2011年12月9日－）
 
-  - [故事猎人](https://zh.wikipedia.org/wiki/故事猎人 "wikilink")
-    （2011年12月9日－2012年2月18日）
+  - [故事猎人](https://zh.wikipedia.org/wiki/故事猎人 "wikilink")   （2011年12月9日－2012年2月18日）
 
   -    （2012年2月7日－2012年3月22日）
 
-  - [感性访谈动物园](https://zh.wikipedia.org/wiki/感性访谈动物园 "wikilink")
-    （2012年4月5日－2012年5月29日）
+  - [感性访谈动物园](https://zh.wikipedia.org/wiki/感性访谈动物园 "wikilink")  （2012年4月5日－2012年5月29日）
 
-  - [給親愛的你](../Page/給親愛的你_\(韓國電視劇\).md "wikilink")
-    （2012年6月27日－2012年8月16日）
+  - [給親愛的你](../Page/給親愛的你_\(韓國電視劇\).md "wikilink")   （2012年6月27日－2012年8月16日）
 
-  - [宮中殘酷史－花的戰爭](../Page/宮中殘酷史－花的戰爭.md "wikilink")
-    （2013年3月23日－2013年9月8日）\[3\]
+  - [宮中殘酷史－花的戰爭](../Page/宮中殘酷史－花的戰爭.md "wikilink")   （2013年3月23日－2013年9月8日）\[3\]
 
   - [貴夫人](../Page/貴夫人.md "wikilink")   （2014年1月13日－2014年7月4日）
 
-  - [Girl Spirit](../Page/Girl_Spirit.md "wikilink")
-    （2016年7月19日－2016年9月27日）
+  - [Girl Spirit](../Page/Girl_Spirit.md "wikilink")   （2016年7月19日－2016年9月27日）
 
 ## H
 
-  - [Happy Ending](../Page/Happy_Ending.md "wikilink")
-    （2012年4月23日－2012年7月16日）\[4\]
+  - [Happy Ending](../Page/Happy_Ending.md "wikilink")   （2012年4月23日－2012年7月16日）\[4\]
 
   -    （2012年7月9日－2012年11月2日）
 
@@ -137,11 +110,9 @@
 
   -   （2013年3月4日－2013年5月16日）
 
-  - [韩智慧的战争般的爱情](https://zh.wikipedia.org/wiki/韩智慧的战争般的爱情 "wikilink")
-    （2013年3月8日）
+  - [韩智慧的战争般的爱情](https://zh.wikipedia.org/wiki/韩智慧的战争般的爱情 "wikilink")  （2013年3月8日）
 
-  - [呼噜呼噜小区王](https://zh.wikipedia.org/wiki/呼噜呼噜小区王 "wikilink")
-    （2013年6月8日－2013年6月15日）
+  - [呼噜呼噜小区王](https://zh.wikipedia.org/wiki/呼噜呼噜小区王 "wikilink")  （2013年6月8日－2013年6月15日）
 
   -    （2013年6月29日－2013年6月30日）
 
@@ -149,21 +120,17 @@
 
   - [皇家別墅](../Page/皇家別墅.md "wikilink")   （2013年7月15日－2013年9月9日）
 
-  - [和您一起](https://zh.wikipedia.org/wiki/和您一起 "wikilink")
-    （2014年1月27日－2014年12月30日）
+  - [和您一起](https://zh.wikipedia.org/wiki/和您一起 "wikilink")   （2014年1月27日－2014年12月30日）
 
   -    （2014年1月29日－2014年9月17日）
 
   -    （2014年4月2日－2014年6月21日）
 
-  - [和您一起2 -
-    最佳的爱情](https://zh.wikipedia.org/wiki/和您一起2_-_最佳的爱情 "wikilink")
-      （2015年5月7日－）
+  - [和您一起2 - 最佳的爱情](https://zh.wikipedia.org/wiki/和您一起2_-_最佳的爱情 "wikilink")   （2015年5月7日－）
 
   -    （2016年5月6日－2016年5月20日）
 
-  - [Hello I.B.I](../Page/Hello_I.B.I.md "wikilink")
-    （2016年10月8日－2016年11月12日）
+  - [Hello I.B.I](../Page/Hello_I.B.I.md "wikilink")   （2016年10月8日－2016年11月12日）
 
   -    （2016年11月11日－2017年1月27日）
 
@@ -185,29 +152,23 @@
 
   -   （2012年2月6日－2012年7月9日）
 
-  - [JTBC回忆旅行](https://zh.wikipedia.org/wiki/JTBC回忆旅行 "wikilink")
-    （2012年4月18日－2012年6月17日）
+  - [JTBC回忆旅行](https://zh.wikipedia.org/wiki/JTBC回忆旅行 "wikilink")  （2012年4月18日－2012年6月17日）
 
-  - [JTBC新闻7](https://zh.wikipedia.org/wiki/JTBC新闻晚间 "wikilink")
-    （2012年4月30日－2012年5月25日）
+  - [JTBC新闻7](https://zh.wikipedia.org/wiki/JTBC新闻晚间 "wikilink")  （2012年4月30日－2012年5月25日）
 
-  - [JTBC新闻晚间](https://zh.wikipedia.org/wiki/JTBC新闻晚间 "wikilink")
-    （2012年5月29日－2013年9月13日）
+  - [JTBC新闻晚间](https://zh.wikipedia.org/wiki/JTBC新闻晚间 "wikilink")  （2012年5月29日－2013年9月13日）
 
   -  <small>（早间）</small>  （2012年2月6日－2012年5月25日）
 
   -   （2012年5月29日－2012年7月27日）
 
-  - [健康演唱会 -
-    百岁秘密](https://zh.wikipedia.org/wiki/健康演唱会_-_百岁秘密 "wikilink")
-     （2012年7月14日－2012年10月20日）
+  - [健康演唱会 - 百岁秘密](https://zh.wikipedia.org/wiki/健康演唱会_-_百岁秘密 "wikilink")  （2012年7月14日－2012年10月20日）
 
   -    （2012年8月16日－2013年5月28日）
 
   -   （2012年8月16日－2012年9月21日）
 
-  - [JTBC新闻9](https://zh.wikipedia.org/wiki/JTBC新闻9 "wikilink")
-    （2012年11月5日－2014年9月19日）
+  - [JTBC新闻9](https://zh.wikipedia.org/wiki/JTBC新闻9 "wikilink")  （2012年11月5日－2014年9月19日）
 
   -    （2012年11月6日－2013年7月5日）
 
@@ -221,13 +182,11 @@
 
   -   （2013年9月27日－）
 
-  - [金美京和全炫茂的只有我那样吗](https://zh.wikipedia.org/wiki/金美京和全炫茂的只有我那样吗 "wikilink")
-      （2014年3月15日－2014年3月22日）
+  - [金美京和全炫茂的只有我那样吗](https://zh.wikipedia.org/wiki/金美京和全炫茂的只有我那样吗 "wikilink")   （2014年3月15日－2014年3月22日）
 
   - [JTBC新闻室](../Page/JTBC新闻室.md "wikilink")  （2014年9月22日－）
 
-  - [健康的品格](https://zh.wikipedia.org/wiki/健康的品格 "wikilink")
-    （2014年8月24日－2015年6月14日）
+  - [健康的品格](https://zh.wikipedia.org/wiki/健康的品格 "wikilink")   （2014年8月24日－2015年6月14日）
 
   - [舊屋變新居](../Page/舊屋變新居.md "wikilink")   （2015年12月10日－2016年7月28日）
 
@@ -235,11 +194,9 @@
 
 ## L
 
-  - [李秀根和金炳萬的上流社會](../Page/李秀根和金炳萬的上流社會.md "wikilink")
-    （2011年12月10日－2013年6月15日）
+  - [李秀根和金炳萬的上流社會](../Page/李秀根和金炳萬的上流社會.md "wikilink")   （2011年12月10日－2013年6月15日）
 
-  - [Love Again](../Page/Love_Again_\(韓國電視劇\).md "wikilink")
-    （2012年4月25日－2012年6月14日）\[5\]
+  - [Love Again](../Page/Love_Again_\(韓國電視劇\).md "wikilink")   （2012年4月25日－2012年6月14日）\[5\]
 
   -    （2013年5月12日－2013年6月16日）
 
@@ -251,16 +208,11 @@
 
   - [連鎖購物家族](../Page/連鎖購物家族.md "wikilink")   （2015年8月22日－2015年10月21日）
 
-  - [李丞涓的With
-    you](https://zh.wikipedia.org/wiki/李丞涓的With_you "wikilink")
-     （2016年6月20日－2016年9月5日）
+  - [李丞涓的With you](https://zh.wikipedia.org/wiki/李丞涓的With_you "wikilink")   （2016年6月20日－2016年9月5日）
 
-  - [李丞涓的With you
-    2](https://zh.wikipedia.org/wiki/李丞涓的With_you_2 "wikilink")
-     （2016年9月19日－2016年11月28日）
+  - [李丞涓的With you 2](https://zh.wikipedia.org/wiki/李丞涓的With_you_2 "wikilink")   （2016年9月19日－2016年11月28日）
 
-  - [老婆這週要出牆](../Page/老婆這週要出牆_\(韓國電視劇\).md "wikilink")
-    （2016年10月28日－2016年12月3日）
+  - [老婆這週要出牆](../Page/老婆這週要出牆_\(韓國電視劇\).md "wikilink")   （2016年10月28日－2016年12月3日）
 
 ## M
 
@@ -270,16 +222,13 @@
 
   -   （2011年12月10日－2012年1月18日）
 
-  - [梦想出租车](https://zh.wikipedia.org/wiki/梦想出租车 "wikilink")
-    （2012年3月28日－2012年4月20日）
+  - [梦想出租车](https://zh.wikipedia.org/wiki/梦想出租车 "wikilink")   （2012年3月28日－2012年4月20日）
 
   -    （2012年3月31日）
 
-  - [沒有玫瑰的花店](https://zh.wikipedia.org/wiki/沒有玫瑰的花店 "wikilink")
-    （2012年9月2日－2012年10月14日）
+  - [沒有玫瑰的花店](https://zh.wikipedia.org/wiki/沒有玫瑰的花店 "wikilink")   （2012年9月2日－2012年10月14日）
 
-  - [魔女狩猎](https://zh.wikipedia.org/wiki/魔女狩猎 "wikilink")
-    （2013年8月2日－2015年12月18日）
+  - [魔女狩猎](https://zh.wikipedia.org/wiki/魔女狩猎 "wikilink")   （2013年8月2日－2015年12月18日）
 
   -    （2014年2月10日－2014年9月15日）
 
@@ -299,8 +248,7 @@
 
   -    （2011年12月5日－2012年3月7日）
 
-  - [你的选择砰砰秀！](https://zh.wikipedia.org/wiki/你的选择砰砰秀！ "wikilink")
-    （2011年12月5日－2012年2月3日）
+  - [你的选择砰砰秀！](https://zh.wikipedia.org/wiki/你的选择砰砰秀！ "wikilink")   （2011年12月5日－2012年2月3日）
 
   -    （2011年12月23日－2012年2月5日）
 
@@ -312,18 +260,15 @@
 
   -   （2013年10月19日－2014年6月14日）
 
-  - [女演员恶行 in 纽约](https://zh.wikipedia.org/wiki/女演员恶行_in_纽约 "wikilink")
-     （2014年11月27日－2014年12月25日）
+  - [女演员恶行 in 纽约](https://zh.wikipedia.org/wiki/女演员恶行_in_纽约 "wikilink")   （2014年11月27日－2014年12月25日）
 
   - [能吃的少女们](../Page/我要开动了.md "wikilink")   （2016年6月29日－2016年7月6日）
 
 ## P
 
-  - [噗通噗通… 他和她的心跳聲](../Page/噗通噗通…_他和她的心跳聲.md "wikilink")
-    （2011年12月5日－2012年2月7日）\[8\]
+  - [噗通噗通… 他和她的心跳聲](../Page/噗通噗通…_他和她的心跳聲.md "wikilink")   （2011年12月5日－2012年2月7日）\[8\]
 
-  - [派兵纪录片Hero](https://zh.wikipedia.org/wiki/派兵纪录片Hero "wikilink")
-    （2011年12月11日－2011年12月25日）
+  - [派兵纪录片Hero](https://zh.wikipedia.org/wiki/派兵纪录片Hero "wikilink")  （2011年12月11日－2011年12月25日）
 
   -    （2012年2月20日－2012年6月21日）
 
@@ -341,24 +286,17 @@
 
   - [親愛的恩東啊](../Page/親愛的恩東啊.md "wikilink")   （2015年5月29日－2015年7月18日）
 
-  - [奇怪的美容院 -
-    沙龙梦](https://zh.wikipedia.org/wiki/奇怪的美容院_-_沙龙梦 "wikilink")
-      （2015年10月5日－2015年11月9日）
+  - [奇怪的美容院 - 沙龙梦](https://zh.wikipedia.org/wiki/奇怪的美容院_-_沙龙梦 "wikilink")   （2015年10月5日－2015年11月9日）
 
-  - [青春時代](../Page/青春時代_\(韓國電視劇\).md "wikilink")
-    （2016年7月22日－2016年8月27日）
+  - [青春時代](../Page/青春時代_\(韓國電視劇\).md "wikilink")   （2016年7月22日－2016年8月27日）
 
-  - [請給一頓飯Show](https://zh.wikipedia.org/wiki/請給一頓飯Show "wikilink")
-    （2016年10月19日－）\[10\]
+  - [請給一頓飯Show](https://zh.wikipedia.org/wiki/請給一頓飯Show "wikilink")   （2016年10月19日－）\[10\]
 
 ## R
 
-  - [仁粹大妃](../Page/仁粹大妃_\(電視劇\).md "wikilink")
-    （2011年12月3日－2012年6月24日）\[11\]
+  - [仁粹大妃](../Page/仁粹大妃_\(電視劇\).md "wikilink")   （2011年12月3日－2012年6月24日）\[11\]
 
-  - [River
-    Odyssey](https://zh.wikipedia.org/wiki/River_Odyssey "wikilink")
-    （2011年12月3日－2012年2月19日）
+  - [River Odyssey](https://zh.wikipedia.org/wiki/River_Odyssey "wikilink")  （2011年12月3日－2012年2月19日）
 
   -   （2012年4月9日－2013年6月24日）
 
@@ -368,31 +306,25 @@
 
 ## S
 
-  - [Sunday People &
-    People](https://zh.wikipedia.org/wiki/Sunday_People_&_People "wikilink")
-      （2011年12月4日－2012年1月8日）
+  - [Sunday People & People](https://zh.wikipedia.org/wiki/Sunday_People_&_People "wikilink")   （2011年12月4日－2012年1月8日）
 
   -    （2011年12月5日－2012年1月29日）
 
   - [少年駭客](../Page/少年駭客.md "wikilink")  （2011年12月10日－2011年12月25日）
 
-  - [少女時代和危險少年](../Page/少女時代和危險少年.md "wikilink")
-    （2011年12月18日－2012年3月11日）
+  - [少女時代和危險少年](../Page/少女時代和危險少年.md "wikilink")   （2011年12月18日－2012年3月11日）
 
   -    （2011年12月11日－2012年5月24日）
 
-  - [三个男人的选择](https://zh.wikipedia.org/wiki/三个男人的选择 "wikilink")
-    （2012年1月30日－2012年3月27日）
+  - [三个男人的选择](https://zh.wikipedia.org/wiki/三个男人的选择 "wikilink")   （2012年1月30日－2012年3月27日）
 
-  - [神話放送](../Page/神話放送.md "wikilink")
-    （2012年3月17日－2014年1月19日）\[12\]\[13\]
+  - [神話放送](../Page/神話放送.md "wikilink")   （2012年3月17日－2014年1月19日）\[12\]\[13\]
 
   -    （2012年8月29日－2013年10月30日）
 
   - [舌战](../Page/舌战.md "wikilink")   （2013年2月21日－）
 
-  - [世界的盡頭](../Page/世界的盡頭_\(韓國電視劇\).md "wikilink")
-    （2013年3月16日－2013年5月5日）
+  - [世界的盡頭](../Page/世界的盡頭_\(韓國電視劇\).md "wikilink")   （2013年3月16日－2013年5月5日）
 
   -   （2013年9月29日－2013年11月3日）
 
@@ -400,20 +332,17 @@
 
   -   （2013年12月21日－2014年3月9日）
 
-  - [善巖女高偵探團](../Page/善巖女高偵探團.md "wikilink")
-    （2014年12月16日－2015年3月18日）\[14\]
+  - [善巖女高偵探團](../Page/善巖女高偵探團.md "wikilink")   （2014年12月16日－2015年3月18日）\[14\]
 
   - [说话之路](../Page/说话之路.md "wikilink")   （2016年9月21日－2017年3月8日）\[15\]
 
   -    （2016年12月3日－2017年4月1日）
 
-  - [所羅門的偽證](../Page/所羅門的偽證_\(韓國電視劇\).md "wikilink")
-    （2016年12月16日－2017年1月28日）
+  - [所羅門的偽證](../Page/所羅門的偽證_\(韓國電視劇\).md "wikilink")   （2016年12月16日－2017年1月28日）
 
 ## T
 
-  - [脱北者1.5](https://zh.wikipedia.org/wiki/脱北者1.5 "wikilink")
-    （2012年4月16日－2012年4月17日）
+  - [脱北者1.5](https://zh.wikipedia.org/wiki/脱北者1.5 "wikilink")  （2012年4月16日－2012年4月17日）
 
   -    （2012年7月15日－2012年9月24日）
 
@@ -427,12 +356,9 @@
 
   -    （2014年3月28日－2015年2月27日）
 
-  - [同龄人](https://zh.wikipedia.org/wiki/同龄人 "wikilink")
-    （2014年9月7日－2014年9月8日）
+  - [同龄人](https://zh.wikipedia.org/wiki/同龄人 "wikilink")   （2014年9月7日－2014年9月8日）
 
-  - [Two Yoo Project - Sugar
-    Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")
-    （2015年8月19日－2015年8月26日）
+  - [Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")   （2015年8月19日－2015年8月26日）
 
   - [天下壯士](../Page/天下壯士.md "wikilink")   （2016年6月5日－2016年8月21日）
 
@@ -442,8 +368,7 @@
 
   -  （2012年3月4日－2013年2月23日）
 
-  - [我们幸福的生活](https://zh.wikipedia.org/wiki/我们幸福的生活 "wikilink")
-    （2012年6月29日－2012年7月20日）
+  - [我们幸福的生活](https://zh.wikipedia.org/wiki/我们幸福的生活 "wikilink")  （2012年6月29日－2012年7月20日）
 
   - [無子無懮](../Page/無子無懮.md "wikilink")   （2012年10月27日－2013年3月17日）\[16\]
 
@@ -459,14 +384,11 @@
 
   - [我們能相愛嗎](../Page/我們能相愛嗎.md "wikilink")   （2014年1月6日－2014年3月11日）
 
-  - [我去上學啦](../Page/我去上學啦_\(韓國\).md "wikilink")
-    （2014年7月12日－2015年11月3日）
+  - [我去上學啦](../Page/我去上學啦_\(韓國\).md "wikilink")   （2014年7月12日－2015年11月3日）
 
-  - [我獨自戀愛中](../Page/我獨自戀愛中.md "wikilink")
-    （2015年2月1日－2015年4月18日）\[18\]
+  - [我獨自戀愛中](../Page/我獨自戀愛中.md "wikilink")   （2015年2月1日－2015年4月18日）\[18\]
 
-  - [我朋友的家在哪裏](https://zh.wikipedia.org/wiki/我朋友的家在哪裏 "wikilink")
-    （2015年2月7日－2016年4月29日）\[19\]
+  - [我朋友的家在哪裏](https://zh.wikipedia.org/wiki/我朋友的家在哪裏 "wikilink")   （2015年2月7日－2016年4月29日）\[19\]
 
   - [為純情著迷](../Page/為純情著迷.md "wikilink")   （2015年4月3日－2015年5月23日）
 
@@ -476,8 +398,7 @@
 
   -   （2012年1月1日－2013年8月30日）
 
-  - [现场出动新闻Plus](https://zh.wikipedia.org/wiki/现场出动新闻Plus "wikilink")
-    （2012年2月8日－2012年2月17日）
+  - [现场出动新闻Plus](https://zh.wikipedia.org/wiki/现场出动新闻Plus "wikilink")  （2012年2月8日－2012年2月17日）
 
   -   （2013年4月1日－2014年2月7日）
 
@@ -487,16 +408,13 @@
 
   - [嘻哈民族](../Page/嘻哈民族.md "wikilink")   （2016年4月1日－2016年5月27日）
 
-  - [嘻哈民族2](../Page/嘻哈民族.md "wikilink")   （2016年10月18日－2017年1月17日）
+  - [嘻哈民族](../Page/嘻哈民族.md "wikilink")2   （2016年10月18日－2017年1月17日）
 
 ## Y
 
-  - [演艺独家！Survival](https://zh.wikipedia.org/wiki/演艺独家！Survival "wikilink")
-      （2011年12月3日－2011年12月10日）
+  - [演艺独家！Survival](https://zh.wikipedia.org/wiki/演艺独家！Survival "wikilink")   （2011年12月3日－2011年12月10日）
 
-  - [演艺Photo
-    line](https://zh.wikipedia.org/wiki/演艺Photo_line "wikilink")
-    （2011年12月5日－2011年12月29日）
+  - [演艺Photo line](https://zh.wikipedia.org/wiki/演艺Photo_line "wikilink")   （2011年12月5日－2011年12月29日）
 
   -    （2011年12月19日－2015年8月30日）
 
@@ -510,13 +428,11 @@
 
   - [宥娜的街](../Page/宥娜的街.md "wikilink")   （2014年5月19日－2014年11月11日）\[20\]
 
-  - [与BOSS同寝](https://zh.wikipedia.org/wiki/与BOSS同寝 "wikilink")
-    （2014年7月26日－2014年10月17日）
+  - [与BOSS同寝](https://zh.wikipedia.org/wiki/与BOSS同寝 "wikilink")   （2014年7月26日－2014年10月17日）
 
   - [玉氏南政基](../Page/玉氏南政基.md "wikilink")   （2016年3月18日－2016年5月7日）
 
-  - [遇到超人](https://zh.wikipedia.org/wiki/遇到超人 "wikilink")
-    （2016年8月25日－2016年12月15日）
+  - [遇到超人](https://zh.wikipedia.org/wiki/遇到超人 "wikilink")   （2016年8月25日－2016年12月15日）
 
   -    （2016年3月6日－2016年5月22日）
 
@@ -528,16 +444,13 @@
 
   - [住在清潭洞](../Page/住在清潭洞.md "wikilink")   （2011年12月5日－2012年8月3日）\[21\]
 
-  - [郑镇弘的人的力量](https://zh.wikipedia.org/wiki/郑镇弘的人的力量 "wikilink")
-    （2011年12月10日－2012年4月1日）
+  - [郑镇弘的人的力量](https://zh.wikipedia.org/wiki/郑镇弘的人的力量 "wikilink")   （2011年12月10日－2012年4月1日）
 
   - [紙箱戰機](../Page/紙箱戰機.md "wikilink")  （2011年12月10日－2012年1月16日）
 
-  - [症候群](../Page/症候群_\(電視劇\).md "wikilink")
-    （2012年2月13日－2012年4月17日）\[22\]
+  - [症候群](../Page/症候群_\(電視劇\).md "wikilink")   （2012年2月13日－2012年4月17日）\[22\]
 
-  - [直击talk](https://zh.wikipedia.org/wiki/直击talk "wikilink")
-    （2012年3月1日－2012年7月22日）
+  - [直击talk](https://zh.wikipedia.org/wiki/直击talk "wikilink")  （2012年3月1日－2012年7月22日）
 
   -   （2012年7月10日－2012年11月30日）
 
@@ -547,14 +460,11 @@
 
   -    （2013年7月7日－2014年1月26日）
 
-  - [震惊！地球到了尽头](https://zh.wikipedia.org/wiki/震惊！地球到了尽头 "wikilink")
-    （2013年7月12日－2013年9月27日）
+  - [震惊！地球到了尽头](https://zh.wikipedia.org/wiki/震惊！地球到了尽头 "wikilink")   （2013年7月12日－2013年9月27日）
 
-  - [真实照相机五感度](https://zh.wikipedia.org/wiki/真实照相机五感度 "wikilink")
-    （2013年7月13日－2014年9月19日）
+  - [真实照相机五感度](https://zh.wikipedia.org/wiki/真实照相机五感度 "wikilink")   （2013年7月13日－2014年9月19日）
 
-  - [宰孝的花园](https://zh.wikipedia.org/wiki/宰孝的花园 "wikilink")
-    （2013年7月21日－2013年8月11日）
+  - [宰孝的花园](https://zh.wikipedia.org/wiki/宰孝的花园 "wikilink")  （2013年7月21日－2013年8月11日）
 
   - [再也無法忍受](../Page/再也無法忍受.md "wikilink")   （2013年8月5日－2014年1月9日）
 
@@ -562,8 +472,7 @@
 
   -    （2014年4月8日－2014年9月11日）
 
-  - [治愈的品格](https://zh.wikipedia.org/wiki/治愈的品格 "wikilink")
-    （2015年7月26日－2016年2月28日）
+  - [治愈的品格](https://zh.wikipedia.org/wiki/治愈的品格 "wikilink")   （2015年7月26日－2016年2月28日）
 
   - [錐子](../Page/錐子_\(電視劇\).md "wikilink")   （2015年10月24日－2015年11月29日）
 
@@ -581,8 +490,7 @@
   -
 ## 参考资料
 
-[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
-[Category:韓國電視節目列表](https://zh.wikipedia.org/wiki/Category:韓國電視節目列表 "wikilink")
+[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink") [Category:韓國電視節目列表](https://zh.wikipedia.org/wiki/Category:韓國電視節目列表 "wikilink")
 
 1.
 

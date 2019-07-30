@@ -1,13 +1,10 @@
-《**愚蠢的節奏**》（**Foolish
-Beat**）是美國女歌手[黛比·吉布森在](../Page/黛比·吉布森.md "wikilink")1988年2月發行的歌曲，它在告示牌單曲榜獲得一週冠軍，成為黛比·吉布森首支全美冠軍單曲，〈愚蠢的節奏〉在英國單曲榜最高名次為第9名\[1\]\[2\]。
+《**愚蠢的節奏**》（**Foolish Beat**）是美國女歌手[黛比·吉布森](../Page/黛比·吉布森.md "wikilink")在1988年2月發行的歌曲，它在告示牌單曲榜獲得一週冠軍，成為黛比·吉布森首支全美冠軍單曲，〈愚蠢的節奏〉在英國單曲榜最高名次為第9名\[1\]\[2\]。
 
 ## 歌曲資料
 
 ### 收錄專輯
 
-〈愚蠢的節奏〉最早收錄在[黛比·吉布森首張個人](../Page/黛比·吉布森.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[走出憂鬱](../Page/走出憂鬱_\(黛比·吉布森專輯\).md "wikilink")》（Out
-of the Blue），〈愚蠢的節奏〉是從這張專輯中所推出的第四首單曲。《走出憂鬱》專輯前三首單曲分別為〈Only In My
-Dreams〉（no.4）、〈Shake Your Love〉（no.4）和〈Out of the Blue〉（no.3）。
+〈愚蠢的節奏〉最早收錄在[黛比·吉布森](../Page/黛比·吉布森.md "wikilink")首張個人[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[走出憂鬱](../Page/走出憂鬱_\(黛比·吉布森專輯\).md "wikilink")》（Out of the Blue），〈愚蠢的節奏〉是從這張專輯中所推出的第四首單曲。《走出憂鬱》專輯前三首單曲分別為〈Only In My Dreams〉（no.4）、〈Shake Your Love〉（no.4）和〈Out of the Blue〉（no.3）。
 
 ### 單曲簡介
 
@@ -19,9 +16,7 @@ Dreams〉（no.4）、〈Shake Your Love〉（no.4）和〈Out of the Blue〉（
 
 ## 參考資料
 
-[Category:美國冠軍單曲](https://zh.wikipedia.org/wiki/Category:美國冠軍單曲 "wikilink")
-[Category:告示牌百強單曲榜冠軍單曲](https://zh.wikipedia.org/wiki/Category:告示牌百強單曲榜冠軍單曲 "wikilink")
-[Category:黛比·吉布森歌曲](https://zh.wikipedia.org/wiki/Category:黛比·吉布森歌曲 "wikilink")
+[Category:美國冠軍單曲](https://zh.wikipedia.org/wiki/Category:美國冠軍單曲 "wikilink") [Category:告示牌百強單曲榜冠軍單曲](https://zh.wikipedia.org/wiki/Category:告示牌百強單曲榜冠軍單曲 "wikilink") [Category:黛比·吉布森歌曲](https://zh.wikipedia.org/wiki/Category:黛比·吉布森歌曲 "wikilink")
 
 1.  [美國告示牌黛比·吉布森單曲榜成績](http://www.billboard.com/artist/300622/debbie-gibson/chart)
 2.  [英國排行榜黛比·吉布森專輯單曲成績](http://www.officialcharts.com/artist/24481/debbie-gibson/)

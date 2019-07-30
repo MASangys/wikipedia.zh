@@ -1,7 +1,6 @@
-**MTV影視大獎最佳反派**（MTV Movie & TV Award for Best
-Villain）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wikilink")，頒發給於電影中有出色表現的反派，於1992年開始頒發。
+**MTV影視大獎最佳反派**（MTV Movie & TV Award for Best Villain）是[MTV影視大獎](../Page/MTV影視大獎.md "wikilink")重要的獎項之一，頒發給於電影中有出色表現的反派，於1992年開始頒發。
 
-其中第8屆有兩位演員共同獲得此獎，分別是[麥·迪倫和](../Page/麥·迪倫.md "wikilink")[斯蒂芬·多爾夫](../Page/斯蒂芬·多爾夫.md "wikilink")。
+其中第8屆有兩位演員共同獲得此獎，分別是[麥·迪倫](../Page/麥·迪倫.md "wikilink")和[斯蒂芬·多爾夫](../Page/斯蒂芬·多爾夫.md "wikilink")。
 
 ## 歷屆得主
 
@@ -793,11 +792,9 @@ Villain）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "
 
 ## 參考資料
 
-[Category:MTV電影大獎](https://zh.wikipedia.org/wiki/Category:MTV電影大獎 "wikilink")
-[Category:反派角色](https://zh.wikipedia.org/wiki/Category:反派角色 "wikilink")
+[Category:MTV電影大獎](https://zh.wikipedia.org/wiki/Category:MTV電影大獎 "wikilink") [Category:反派角色](https://zh.wikipedia.org/wiki/Category:反派角色 "wikilink")
 
 1.  本屆有兩名得獎者。
 2.  [第25屆MTV電影頒獎禮得獎名單《太陽報》](http://the-sun.on.cc/cnt/entertainment/20150414/00476_003.html)
-3.  [MTV電影頒獎禮
-    《星球大戰》掃3獎大贏家](http://news.mingpao.com/pns/dailynews/web_tc/article/20160411/s00016/1460312276550)
+3.  [MTV電影頒獎禮 《星球大戰》掃3獎大贏家](http://news.mingpao.com/pns/dailynews/web_tc/article/20160411/s00016/1460312276550)
 4.  [【MTV電影電視獎】《美女與野獸》奪最佳影片　最佳親吻卻輸給他們](http://www.appledaily.com.tw/realtimenews/article/new/20170508/1113834/)

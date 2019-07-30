@@ -1,5 +1,4 @@
-**SHIHO**（しほ、12月16日 -
-），[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[北海道](../Page/北海道.md "wikilink")[札幌市出身](../Page/札幌市.md "wikilink")。[身高](../Page/人類身高.md "wikilink")161[cm](../Page/厘米.md "wikilink")。[血型为B型](../Page/ABO血型系统.md "wikilink")。
+**SHIHO**（しほ、12月16日 - ），[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")出身。[身高](../Page/人類身高.md "wikilink")161[cm](../Page/厘米.md "wikilink")。[血型为B型](../Page/ABO血型系统.md "wikilink")。
 
 ## 唱片
 
@@ -132,14 +131,12 @@ I've Special Unit 名义
 
 #### 混音专辑
 
-  - **Divarats Extension/Blasterhead VS quad** （SEMICONDUCTOR RECORDS
-    2006年4月21日发售）
+  - **Divarats Extension/Blasterhead VS quad** （SEMICONDUCTOR RECORDS 2006年4月21日发售）
 
 <!-- end list -->
 
   -
-    雷鳴 -ACID MIX- / Purple stone -CT MIX- / Reason -ACID MIX- / 雷鳴
-    -Upliffing MIX-
+    雷鳴 -ACID MIX- / Purple stone -CT MIX- / Reason -ACID MIX- / 雷鳴 -Upliffing MIX-
 
 <!-- end list -->
 
@@ -148,18 +145,11 @@ I've Special Unit 名义
 <!-- end list -->
 
   -
-    Key (happy cola mix) / Chain of soul (green apple mix) / Rebirth
-    (gold bear mix)/
+    Key (happy cola mix) / Chain of soul (green apple mix) / Rebirth (gold bear mix)/
 
 ### touchtrax作品
 
-渡部真也、大黑淳一、山口真の3人による音楽ユニットWOMとSHIHOのコラボレーション作品。
-2003年から休止となっていたが、2011年にボーカロイドを採用して活動を再開、3rd
-Singleの0831以降はボーカルと歌詞をSHIHOが行っている。 また0831、R629ではWOM feat.
-SHIHOという名義であったが、IK56以降はSHIHO supported by
-WOMに変更している。 メンバーの多忙からtouchtrax010
-TV10が実質の最後の作品と宣言されており、2017年4月に発売されたベストアルバム「WORKS
-Remaster + Remix Vol.2」の発売を機に活動が終了した。
+渡部真也、大黑淳一、山口真の3人による音楽ユニットWOMとSHIHOのコラボレーション作品。 2003年から休止となっていたが、2011年にボーカロイドを採用して活動を再開、3rd Singleの0831以降はボーカルと歌詞をSHIHOが行っている。 また0831、R629ではWOM feat. SHIHOという名義であったが、IK56以降はSHIHO supported by WOMに変更している。 メンバーの多忙からtouchtrax010 TV10が実質の最後の作品と宣言されており、2017年4月に発売されたベストアルバム「WORKS Remaster + Remix Vol.2」の発売を機に活動が終了した。
 
 <table>
 <thead>
@@ -262,13 +252,9 @@ Come over (MUSIKADeLIK Chillstep Mix) / edge (wata BeatRockStyle Mix)</p></td>
 
   - [STARAVID 官方Facebook页面](https://www.facebook.com/staravid)
 
-[Category:電子遊戲音樂家](https://zh.wikipedia.org/wiki/Category:電子遊戲音樂家 "wikilink")
-[Category:同人歌手](https://zh.wikipedia.org/wiki/Category:同人歌手 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink")
+[Category:電子遊戲音樂家](https://zh.wikipedia.org/wiki/Category:電子遊戲音樂家 "wikilink") [Category:同人歌手](https://zh.wikipedia.org/wiki/Category:同人歌手 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink")
 
 1.  \[0381, R629, IK56収録曲のリマスター版とCome over及びedgeのリミックス版を収録\]
 2.  \[ジャケットにはボツタイトルとなったRing of Saturnと表記\]
 3.  \[ジャケットにはローマ字でwasurezinotsukiと表記\]
-4.  \[392U～TV10収録曲のリマスター版と、makouによる「薄目を開けた眠り姫 -眠らせremix-」および完全新曲「To the
-    Next」が収録\]
+4.  \[392U～TV10収録曲のリマスター版と、makouによる「薄目を開けた眠り姫 -眠らせremix-」および完全新曲「To the Next」が収録\]

@@ -1,10 +1,8 @@
-《**Young
-Animal**》（）由日本[白泉社發行的](../Page/白泉社.md "wikilink")[青年漫畫雜誌](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")。發售日為每月的第2和第4個星期五，1992年創刊。
+《**Young Animal**》（）由日本[白泉社](../Page/白泉社.md "wikilink")發行的[青年漫畫雜誌](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")。發售日為每月的第2和第4個星期五，1992年創刊。
 
 ## 概要
 
-此雜誌雖然是[少年漫畫雜誌](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")，但是其中有許多作品是成年向的。在2000年發佈了增刊號《[Young
-Animal嵐](https://zh.wikipedia.org/wiki/Young_Animal嵐 "wikilink")》。
+此雜誌雖然是[少年漫畫雜誌](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")，但是其中有許多作品是成年向的。在2000年發佈了增刊號《[Young Animal嵐](https://zh.wikipedia.org/wiki/Young_Animal嵐 "wikilink")》。
 
 ## 連載中作品
 
@@ -24,5 +22,4 @@ Animal嵐](https://zh.wikipedia.org/wiki/Young_Animal嵐 "wikilink")》。
   - [官網](http://www.younganimal.com/)
   - [官方twitter](https://twitter.com/YoungAnimalHaku/)
 
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink")
+[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink")

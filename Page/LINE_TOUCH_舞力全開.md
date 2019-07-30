@@ -1,17 +1,12 @@
-[LINE_TOUCH_舞力全開遊戲截圖.jpg](https://zh.wikipedia.org/wiki/File:LINE_TOUCH_舞力全開遊戲截圖.jpg "fig:LINE_TOUCH_舞力全開遊戲截圖.jpg")
-《**LINE TOUCH
-舞力全開**》於2015年4月30日由[艾玩天地取得](../Page/艾玩天地.md "wikilink")[台灣代理權](https://zh.wikipedia.org/wiki/台灣 "wikilink")\[1\]，並於2015年7月7日正式於[Android版本不刪檔封測](../Page/Android.md "wikilink")\[2\]，於2015年7月14日於[iOS系統釋出](https://zh.wikipedia.org/wiki/iOS "wikilink")[正體中文的版本](https://zh.wikipedia.org/wiki/正體中文 "wikilink")\[3\]。是一款抓準節拍按鍵點擊的[音樂舞蹈](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")\[4\]。點擊有分單按（單光圈）、長按（雙光圈）、滑動（長箭頭）、雙按（雙按鍵）四種模式，當[光圈縮到與](../Page/光圈.md "wikilink")[按鍵相互重合時](https://zh.wikipedia.org/wiki/按鍵 "wikilink")，點擊會得到最高的分數\[5\]。若遇到版本正在更新或未連接[網路時](https://zh.wikipedia.org/wiki/網路 "wikilink")，可使用[離線模式進行練習](https://zh.wikipedia.org/wiki/離線 "wikilink")（僅限於遊戲大廳的觸動經典模式）\[6\]\[7\]。
+[LINE_TOUCH_舞力全開遊戲截圖.jpg](https://zh.wikipedia.org/wiki/File:LINE_TOUCH_舞力全開遊戲截圖.jpg "fig:LINE_TOUCH_舞力全開遊戲截圖.jpg") 《**LINE TOUCH 舞力全開**》於2015年4月30日由[艾玩天地](../Page/艾玩天地.md "wikilink")取得[台灣代理權](https://zh.wikipedia.org/wiki/台灣 "wikilink")\[1\]，並於2015年7月7日正式於[Android](../Page/Android.md "wikilink")版本不刪檔封測\[2\]，於2015年7月14日於[iOS系統釋出](https://zh.wikipedia.org/wiki/iOS "wikilink")[正體中文的版本](https://zh.wikipedia.org/wiki/正體中文 "wikilink")\[3\]。是一款抓準節拍按鍵點擊的[音樂舞蹈](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")\[4\]。點擊有分單按（單光圈）、長按（雙光圈）、滑動（長箭頭）、雙按（雙按鍵）四種模式，當[光圈](../Page/光圈.md "wikilink")縮到與[按鍵相互重合時](https://zh.wikipedia.org/wiki/按鍵 "wikilink")，點擊會得到最高的分數\[5\]。若遇到版本正在更新或未連接[網路時](https://zh.wikipedia.org/wiki/網路 "wikilink")，可使用[離線模式進行練習](https://zh.wikipedia.org/wiki/離線 "wikilink")（僅限於遊戲大廳的觸動經典模式）\[6\]\[7\]。
 
 ## 玩法簡介
 
-《LINE TOUCH
-舞力全開》點擊動態模式有分為觸動經典、觸動情侶、觸動問答、熱舞經典、熱舞情侶、熱舞問答共六種\[8\]。其中觸動模式為點擊的區塊不固定；熱舞模式有六個固定區塊去做點擊動作（左上、左、左下、右上、右、右下）\[9\]。而情侶模式為兩個人一組，於遊戲中雙方同時點擊，增加親密的程度；問答模式則是採隨機問題模式，雙方同時猜對可獲得額外分數\[10\]。
+《LINE TOUCH 舞力全開》點擊動態模式有分為觸動經典、觸動情侶、觸動問答、熱舞經典、熱舞情侶、熱舞問答共六種\[8\]。其中觸動模式為點擊的區塊不固定；熱舞模式有六個固定區塊去做點擊動作（左上、左、左下、右上、右、右下）\[9\]。而情侶模式為兩個人一組，於遊戲中雙方同時點擊，增加親密的程度；問答模式則是採隨機問題模式，雙方同時猜對可獲得額外分數\[10\]。
 
 ### Touch星路
 
-《LINE TOUCH
-舞力全開》的Touch星路目前共分為六個章節，各章節名稱分為新星啟航、初入舞壇（10等）、轟動‧語言（20等）、喵星人來襲（30等）、涅槃‧幻想（40等）以及新紀元（45等），其中點擊動態模式分為觸動經典、熱舞經典兩種模式來運作，以星星多寡作為難易度
-。
+《LINE TOUCH 舞力全開》的Touch星路目前共分為六個章節，各章節名稱分為新星啟航、初入舞壇（10等）、轟動‧語言（20等）、喵星人來襲（30等）、涅槃‧幻想（40等）以及新紀元（45等），其中點擊動態模式分為觸動經典、熱舞經典兩種模式來運作，以星星多寡作為難易度 。
 
 ## 開發
 
@@ -19,13 +14,11 @@
 
 為了要打造出韓國演唱會[舞台的規模](https://zh.wikipedia.org/wiki/舞台 "wikilink")，研發團隊參考大量資料，設計出具有炫麗燈光效果及[激情](https://zh.wikipedia.org/wiki/激情 "wikilink")[火花效果的華麗舞台](https://zh.wikipedia.org/wiki/火花 "wikilink")，也配置出受大批[粉絲景仰的歡呼聲](https://zh.wikipedia.org/wiki/粉絲 "wikilink")，在遊戲中能感受到純正韓系時尚服裝[潮流與韓星潮舞](https://zh.wikipedia.org/wiki/潮流 "wikilink")[魅力](https://zh.wikipedia.org/wiki/魅力 "wikilink")\[11\]。
 
-《LINE TOUCH 舞力全開》採用[Unity](../Page/Unity_\(游戏引擎\).md "wikilink")
-3D引擎打造具有[立體效果](https://zh.wikipedia.org/wiki/立體 "wikilink")，也可以自由轉換[視角的遊戲場景與人物](../Page/視角.md "wikilink")，有別於市面上一般[跳舞的手機遊戲](https://zh.wikipedia.org/wiki/跳舞 "wikilink")，遊戲中的[韓國流行歌曲](https://zh.wikipedia.org/wiki/韓國 "wikilink")(k-pop)也被正版授權\[12\]\[13\]。遊戲中的舞蹈動作由動態[機器去捕捉全方位專業](https://zh.wikipedia.org/wiki/機器 "wikilink")[舞蹈家的動作](https://zh.wikipedia.org/wiki/舞蹈家 "wikilink")，百分百還原巨星的舞蹈\[14\]\[15\]。
+《LINE TOUCH 舞力全開》採用[Unity](../Page/Unity_\(游戏引擎\).md "wikilink") 3D引擎打造具有[立體效果](https://zh.wikipedia.org/wiki/立體 "wikilink")，也可以自由轉換[視角](../Page/視角.md "wikilink")的遊戲場景與人物，有別於市面上一般[跳舞的手機遊戲](https://zh.wikipedia.org/wiki/跳舞 "wikilink")，遊戲中的[韓國流行歌曲](https://zh.wikipedia.org/wiki/韓國 "wikilink")(k-pop)也被正版授權\[12\]\[13\]。遊戲中的舞蹈動作由動態[機器去捕捉全方位專業](https://zh.wikipedia.org/wiki/機器 "wikilink")[舞蹈家的動作](https://zh.wikipedia.org/wiki/舞蹈家 "wikilink")，百分百還原巨星的舞蹈\[14\]\[15\]。
 
 ### 音樂
 
-《LINE TOUCH
-舞力全開》目前共有61首音樂舞蹈手機遊戲的[流行歌曲](https://zh.wikipedia.org/wiki/流行歌曲 "wikilink")，其中有13首中文版，其餘為韓文版。
+《LINE TOUCH 舞力全開》目前共有61首音樂舞蹈手機遊戲的[流行歌曲](https://zh.wikipedia.org/wiki/流行歌曲 "wikilink")，其中有13首中文版，其餘為韓文版。
 
 | 歌曲名稱                                     | BPM（節拍速度） | 歌手／團體                                                         | 上映至遊戲日期           | 主要語言 | 最高難度（星星顆數） |
 | ---------------------------------------- | --------- | ------------------------------------------------------------- | ----------------- | ---- | ---------- |
@@ -93,9 +86,7 @@
 
 ## 評價與影響
 
-《LINE TOUCH
-舞力全開》曾經都只上市韓流歌曲，許多玩家都建議多一些中文歌曲，要不然會變得枯燥乏味。於2015年10月13日首度上映中文流行歌曲，之後也陸陸續續地推出當中\[74\]。大部分對於《LINE
-TOUCH 舞力全開》的評價還算不錯，只是近期部分玩家要求該遊戲的連線品質要好一點。
+《LINE TOUCH 舞力全開》曾經都只上市韓流歌曲，許多玩家都建議多一些中文歌曲，要不然會變得枯燥乏味。於2015年10月13日首度上映中文流行歌曲，之後也陸陸續續地推出當中\[74\]。大部分對於《LINE TOUCH 舞力全開》的評價還算不錯，只是近期部分玩家要求該遊戲的連線品質要好一點。
 
 ## 註釋
 
@@ -106,61 +97,39 @@ TOUCH 舞力全開》的評價還算不錯，只是近期部分玩家要求該�
 ## 外部連結
 
   - [《LINE TOUCH 舞力全開》官方網站](http://touch.iwplay.com.tw/default.html)
-  - [iOS版本的《LINE TOUCH
-    舞力全開》](https://itunes.apple.com/tw/app/TOUCH/id959459535?l=zh&mt=8)
-  - [Android版本的《LINE TOUCH
-    舞力全開》](https://play.google.com/store/apps/details?id=tw.com.iwplay.touch)
+  - [iOS版本的《LINE TOUCH 舞力全開》](https://itunes.apple.com/tw/app/TOUCH/id959459535?l=zh&mt=8)
+  - [Android版本的《LINE TOUCH 舞力全開》](https://play.google.com/store/apps/details?id=tw.com.iwplay.touch)
 
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:LINE](https://zh.wikipedia.org/wiki/Category:LINE "wikilink")
-[Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink")
-[Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink")
+[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:LINE](https://zh.wikipedia.org/wiki/Category:LINE "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink")
 
-1.  [LINE GAME首款音樂跳舞遊戲！《LINE TOUCH
-    舞力全開》台灣代理權確定](http://www.iwplay.com.tw/all/news/20150430/10179.shtml)，《LINE
-    TOUCH 舞力全開》官方網站，2015年4月30日發布，引用時間：2015年12月16日。
+1.  [LINE GAME首款音樂跳舞遊戲！《LINE TOUCH 舞力全開》台灣代理權確定](http://www.iwplay.com.tw/all/news/20150430/10179.shtml)，《LINE TOUCH 舞力全開》官方網站，2015年4月30日發布，引用時間：2015年12月16日。
 
-2.  [7/7（二）CB - 安卓版不刪檔封測
-    魅力引爆開台](http://touch.iwplay.com.tw/NewsList/newsevent/20150707/10789.html)，《LINE
-    TOUCH 舞力全開》官方網站，2015年7月7日發布，引用時間：2015年12月16日。
+2.  [7/7（二）CB - 安卓版不刪檔封測 魅力引爆開台](http://touch.iwplay.com.tw/NewsList/newsevent/20150707/10789.html)，《LINE TOUCH 舞力全開》官方網站，2015年7月7日發布，引用時間：2015年12月16日。
 
-3.  [7/14（二）繁體中文版IOS平台開放
-    盛大公測開啟](http://touch.iwplay.com.tw/NewsList/newsevent/20150714/10861.html)，《LINE
-    TOUCH 舞力全開》官方網站，2015年7月14日發布，引用時間：2015年12月16日。
+3.  [7/14（二）繁體中文版IOS平台開放 盛大公測開啟](http://touch.iwplay.com.tw/NewsList/newsevent/20150714/10861.html)，《LINE TOUCH 舞力全開》官方網站，2015年7月14日發布，引用時間：2015年12月16日。
 
-4.  Naga，[《LINE TOUCH
-    舞力全開》 3D用少女心培養大明星～＊](http://history.n.yam.com/app01/fn/20150725/20150725174356.html)
-    ，[蕃薯藤新聞網](../Page/蕃薯藤.md "wikilink")，2015年7月25日發布，引用時間：2015年12月16日。
+4.  Naga，[《LINE TOUCH 舞力全開》 3D用少女心培養大明星～＊](http://history.n.yam.com/app01/fn/20150725/20150725174356.html) ，[蕃薯藤](../Page/蕃薯藤.md "wikilink")新聞網，2015年7月25日發布，引用時間：2015年12月16日。
 
 5.
 6.
-7.  [遊戲離線模式說明](http://touch.iwplay.com.tw/NewsList/newsevent/20150707/10781.html)，《LINE
-    TOUCH 舞力全開》官方網站，2015年7月7日發布，引用時間：2015年12月16日。
+7.  [遊戲離線模式說明](http://touch.iwplay.com.tw/NewsList/newsevent/20150707/10781.html)，《LINE TOUCH 舞力全開》官方網站，2015年7月7日發布，引用時間：2015年12月16日。
 
-8.  [跟著韓曲動次動！《LINE TOUCH
-    舞力全開》7月7日不刪檔封測](http://www.iwplay.com.tw/all/news/20150707/10801.shtml)，《LINE
-    TOUCH 舞力全開》官方網站，2015年7月7日發布，引用時間：2015年12月16日。
+8.  [跟著韓曲動次動！《LINE TOUCH 舞力全開》7月7日不刪檔封測](http://www.iwplay.com.tw/all/news/20150707/10801.shtml)，《LINE TOUCH 舞力全開》官方網站，2015年7月7日發布，引用時間：2015年12月16日。
 
 9.
 10.
-11. [超韓系魅力破表！《LINE TOUCH
-    舞力全開》搶先曝光多款角色時裝設計與遊戲場景](http://www.iwplay.com.tw/all/news/20150508/10236.shtml)，《LINE
-    TOUCH 舞力全開》官方網站，2015年5月8日發布，引用時間：2015年12月18日。
+11. [超韓系魅力破表！《LINE TOUCH 舞力全開》搶先曝光多款角色時裝設計與遊戲場景](http://www.iwplay.com.tw/all/news/20150508/10236.shtml)，《LINE TOUCH 舞力全開》官方網站，2015年5月8日發布，引用時間：2015年12月18日。
 
 12.
 13.
-14. [《LINE TOUCH
-    舞力全開》上市後首波更新！六大趣味統計結果搶先看](http://www.iwplay.com.tw/all/news/20150714/10879.shtml)，《LINE
-    TOUCH 舞力全開》官方網站，2015年7月24日發布，引用時間：2015年12月16日。
+14. [《LINE TOUCH 舞力全開》上市後首波更新！六大趣味統計結果搶先看](http://www.iwplay.com.tw/all/news/20150714/10879.shtml)，《LINE TOUCH 舞力全開》官方網站，2015年7月24日發布，引用時間：2015年12月16日。
 
 15. ，艾玩天地，2015年7月13日發布，引用時間：2015年12月16日。
 
 16.
 17.
 18.
-19. [每周更新的內容](http://touch.iwplay.com.tw/NewsList/indexnewslist.html)，《LINE
-    TOUCH 舞力全開》官方網站。
+19. [每周更新的內容](http://touch.iwplay.com.tw/NewsList/indexnewslist.html)，《LINE TOUCH 舞力全開》官方網站。
 
 20.
 21.

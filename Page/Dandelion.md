@@ -1,4 +1,4 @@
-**dandelion**（）是[日本的](../Page/日本.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，設立於2012年5月30日。
+**dandelion**（）是[日本](../Page/日本.md "wikilink")的[經紀公司](../Page/經紀公司.md "wikilink")，設立於2012年5月30日。
 
 ## 旗下藝人
 
@@ -32,10 +32,7 @@
 
   -
   -
-[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
-[Category:2012年成立的公司](https://zh.wikipedia.org/wiki/Category:2012年成立的公司 "wikilink")
+[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:2012年成立的公司](https://zh.wikipedia.org/wiki/Category:2012年成立的公司 "wikilink")
 
 1.
 

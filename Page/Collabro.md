@@ -1,7 +1,4 @@
-**Collabro**是[英國的男子音樂團體](https://zh.wikipedia.org/wiki/英國 "wikilink")。他們是第八屆《[英國達人](https://zh.wikipedia.org/wiki/英國達人 "wikilink")》的冠軍得主，擅長[歌劇曲目的演唱](https://zh.wikipedia.org/wiki/歌劇 "wikilink")。Collabro的成員原有五人，分別是Michael
-Auger、Richard Hadfield、Jamie Lambert、Matt Pagan、Thomas J
-Redgrave\[1\]。後於2016年Richard
-Hadfield以與樂團理念不合而宣布退團\[2\]。Collabro迄今為止已經發行過兩張專輯。
+**Collabro**是[英國的男子音樂團體](https://zh.wikipedia.org/wiki/英國 "wikilink")。他們是第八屆《[英國達人](https://zh.wikipedia.org/wiki/英國達人 "wikilink")》的冠軍得主，擅長[歌劇曲目的演唱](https://zh.wikipedia.org/wiki/歌劇 "wikilink")。Collabro的成員原有五人，分別是Michael Auger、Richard Hadfield、Jamie Lambert、Matt Pagan、Thomas J Redgrave\[1\]。後於2016年Richard Hadfield以與樂團理念不合而宣布退團\[2\]。Collabro迄今為止已經發行過兩張專輯。
 
 2018年2月28日，COLLABRO首度來台在三創CLAPPER STUDIO 開唱\[3\]。
 
@@ -41,7 +38,5 @@ Hadfield以與樂團理念不合而宣布退團\[2\]。Collabro迄今為止已�
 
 1.
 2.
-3.  [「英國達人秀」冠軍COLLABRO首度來台開唱
-    中文出糗反見團員真性情](https://memeon-music.com/2018/03/02/collabro-livereport/)
-4.  [英國最強美聲男團COLLABRO 開工拜拜撈金魚
-    互相吐槽凸顯好感情](https://memeon-music.com/2018/02/22/collabro-interview/)
+3.  [「英國達人秀」冠軍COLLABRO首度來台開唱 中文出糗反見團員真性情](https://memeon-music.com/2018/03/02/collabro-livereport/)
+4.  [英國最強美聲男團COLLABRO 開工拜拜撈金魚 互相吐槽凸顯好感情](https://memeon-music.com/2018/02/22/collabro-interview/)

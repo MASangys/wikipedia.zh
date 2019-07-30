@@ -45,8 +45,7 @@
 
 ## 漫畫
 
-STAR☆jewel的外傳漫畫《》由高遠るい擔任作畫，在秋田書店的《》Vol.29連載，後來製作成COMIC
-MOVIE《STAR☆jewel外傳》（）於2012年3月22日發售。\[5\]
+STAR☆jewel的外傳漫畫《》由高遠るい擔任作畫，在秋田書店的《》Vol.29連載，後來製作成COMIC MOVIE《STAR☆jewel外傳》（）於2012年3月22日發售。\[5\]
 
 ## 網路廣播
 
@@ -59,11 +58,7 @@ MOVIE《STAR☆jewel外傳》（）於2012年3月22日發售。\[5\]
   - [官方網站](http://www.37c-binetsu.com/starjewel/top.html)
   - [37℃ BINETSU官方網站](http://www.37c-binetsu.com/)
 
-[Category:2011年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2011年日本成人動畫 "wikilink")
-[Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink")
-[Category:變身女主角動畫](https://zh.wikipedia.org/wiki/Category:變身女主角動畫 "wikilink")
-[Category:Champion_RED](https://zh.wikipedia.org/wiki/Category:Champion_RED "wikilink")
-[Category:跨性別題材作品](https://zh.wikipedia.org/wiki/Category:跨性別題材作品 "wikilink")
+[Category:2011年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2011年日本成人動畫 "wikilink") [Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink") [Category:變身女主角動畫](https://zh.wikipedia.org/wiki/Category:變身女主角動畫 "wikilink") [Category:Champion_RED](https://zh.wikipedia.org/wiki/Category:Champion_RED "wikilink") [Category:跨性別題材作品](https://zh.wikipedia.org/wiki/Category:跨性別題材作品 "wikilink")
 
 1.
 2.

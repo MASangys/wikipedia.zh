@@ -1,7 +1,6 @@
 \-{T|We are the QUEENS}-
 
-《**We are the
-QUEENS**》是日本歌手[濱崎步的一張數位單曲](../Page/濱崎步.md "wikilink")，2016年9月30日發行，開始全曲線上下載。
+《**We are the QUEENS**》是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的一張數位單曲，2016年9月30日發行，開始全曲線上下載。
 
 ## 說明
 
@@ -26,5 +25,4 @@ QUEENS**》是日本歌手[濱崎步的一張數位單曲](../Page/濱崎步.md 
 
 <references/>
 
-[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink")
-[Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")
+[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink") [Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")

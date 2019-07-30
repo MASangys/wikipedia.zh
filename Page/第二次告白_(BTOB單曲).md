@@ -1,4 +1,4 @@
-《**第二次告白**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB於](../Page/BTOB.md "wikilink")2013年4月10日發行的第二張韓文單曲，描述為挽回喜歡的女孩，決定向她進行第二次告白的心情。\[1\]\[2\]
+《**第二次告白**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")於2013年4月10日發行的第二張韓文單曲，描述為挽回喜歡的女孩，決定向她進行第二次告白的心情。\[1\]\[2\]
 
 ## 曲目
 
@@ -113,12 +113,9 @@
 
 <references/>
 
-[Category:BTOB單曲](https://zh.wikipedia.org/wiki/Category:BTOB單曲 "wikilink")
-[Category:韓國歌曲](https://zh.wikipedia.org/wiki/Category:韓國歌曲 "wikilink")
+[Category:BTOB單曲](https://zh.wikipedia.org/wiki/Category:BTOB單曲 "wikilink") [Category:韓國歌曲](https://zh.wikipedia.org/wiki/Category:韓國歌曲 "wikilink")
 
-1.  [BTOB【第二次告白】預告](http://kpopn.niusnews.com/=K1oxxxn4) 2017-02-20
-    kpopn
-2.  [BTOB《第二次告白》MV](http://kpopn.niusnews.com/=K0twk800) 2017-02-20
-    kpopn
+1.  [BTOB【第二次告白】預告](http://kpopn.niusnews.com/=K1oxxxn4) 2017-02-20 kpopn
+2.  [BTOB《第二次告白》MV](http://kpopn.niusnews.com/=K0twk800) 2017-02-20 kpopn
 3.
 4.

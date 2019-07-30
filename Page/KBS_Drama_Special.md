@@ -1,6 +1,4 @@
-**KBS Drama
-Special**（），中文譯名為**KBS特別劇**，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
-2TV於每年推出的特別短劇系列](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")。此劇集時段創始於1997年，但在播出14部短劇後便無以為繼。2010年起，KBS復播此劇集時段，此後於每年固定時間推出不同的短劇。
+**KBS Drama Special**（），中文譯名為**KBS特別劇**，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS 2TV於每年推出的特別短劇系列](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")。此劇集時段創始於1997年，但在播出14部短劇後便無以為繼。2010年起，KBS復播此劇集時段，此後於每年固定時間推出不同的短劇。
 
 此劇集時段的短劇，不少在內容構思、拍攝與後期製作上，都遠比大部份的劇集來得大膽及創新。\[1\]另外，此時段的劇集常被觀眾錯誤稱呼為「[獨幕劇](https://zh.wikipedia.org/wiki/獨幕劇 "wikilink")」，但獨幕劇的本質是全劇在一個場景內拍攝，並不代表只有一集的短劇。
 
@@ -1919,18 +1917,13 @@ Special**（），中文譯名為**KBS特別劇**，是[韓國](https://zh.wikip
   -
   - [KBS特別連續劇系列](../Page/KBS特別連續劇系列.md "wikilink")
 
-  - [KBS Web Drama
-    Special](https://zh.wikipedia.org/wiki/KBS_Web_Drama_Special "wikilink")
+  - [KBS Web Drama Special](https://zh.wikipedia.org/wiki/KBS_Web_Drama_Special "wikilink")
 
 ## 外部連結
 
-  - [2017年KBS Drama Special
-    官方網站](http://www.kbs.co.kr/drama/dramaspecial2017/about/week/index.html)
-  - [2018年KBS Drama Special
-    官方網站](http://program.kbs.co.kr/2tv/drama/dramaspecial2018/)
+  - [2017年KBS Drama Special 官方網站](http://www.kbs.co.kr/drama/dramaspecial2017/about/week/index.html)
+  - [2018年KBS Drama Special 官方網站](http://program.kbs.co.kr/2tv/drama/dramaspecial2018/)
 
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
 
-1.  [【把愛人變成機械人的韓劇故事】—
-    鍾樂偉](https://www.facebook.com/stevechung413/videos/891340017681181/)
+1.  [【把愛人變成機械人的韓劇故事】— 鍾樂偉](https://www.facebook.com/stevechung413/videos/891340017681181/)

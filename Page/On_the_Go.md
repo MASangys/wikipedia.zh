@@ -1,5 +1,4 @@
-《**On The
-Go**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[林二汶的第](https://zh.wikipedia.org/wiki/林二汶 "wikilink")2張個人音樂專輯、第1張國語專輯，於2014年7月25日發行。
+《**On The Go**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[林二汶的第](https://zh.wikipedia.org/wiki/林二汶 "wikilink")2張個人音樂專輯、第1張國語專輯，於2014年7月25日發行。
 
 ## 曲目
 
@@ -12,6 +11,4 @@ Go**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wiki
 | <small>最幸運的人</small> |               9               |          4          |
 |  <small>最後</small>   |              \-               |         \-          |
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:林二汶音樂專輯](https://zh.wikipedia.org/wiki/Category:林二汶音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:林二汶音樂專輯](https://zh.wikipedia.org/wiki/Category:林二汶音樂專輯 "wikilink")

@@ -1,10 +1,8 @@
-《**NOBLE☆WORKS**》（）是日本[成人遊戲公司](../Page/日本成人遊戲.md "wikilink")[YUZUSOFT於](../Page/YUZUSOFT.md "wikilink")2010年12月24日發售的[美少女遊戲](../Page/美少女遊戲.md "wikilink")。它是YUZUSOFT5周年紀念作並為其第五部作品。簡稱「」\[1\]。
+《**NOBLE☆WORKS**》（）是日本[成人遊戲公司](../Page/日本成人遊戲.md "wikilink")[YUZUSOFT](../Page/YUZUSOFT.md "wikilink")於2010年12月24日發售的[美少女遊戲](../Page/美少女遊戲.md "wikilink")。它是YUZUSOFT5周年紀念作並為其第五部作品。簡稱「」\[1\]。
 
 ## 概要
 
-在企劃會議上原本是提議使用諸如「和少女們奇妙的關係」（）等含劇透內容的標題\[2\]，之後則建議用帶有「高貴」意思的「noble」和「工作」含義的「work」的合成詞「NOBLE
-WORKS」，最後決定採用以[平假名標記](../Page/平假名.md "wikilink")「NOBLE
-WORKS」並加上「☆」的「」作為標題名稱\[3\]。
+在企劃會議上原本是提議使用諸如「和少女們奇妙的關係」（）等含劇透內容的標題\[2\]，之後則建議用帶有「高貴」意思的「noble」和「工作」含義的「work」的合成詞「NOBLE WORKS」，最後決定採用以[平假名](../Page/平假名.md "wikilink")標記「NOBLE WORKS」並加上「☆」的「」作為標題名稱\[3\]。
 
 ## 簡介
 
@@ -47,11 +45,9 @@ WORKS」並加上「☆」的「」作為標題名稱\[3\]。
 ## 主題曲
 
   - OP「Change\&Chance\!」\[4\]
-    作詞：[榊原由依](../Page/榊原由依.md "wikilink")　作曲：Famishin　編曲：NGTA (Angel
-    Note)　歌：榊原由依
+    作詞：[榊原由依](../Page/榊原由依.md "wikilink")　作曲：Famishin　編曲：NGTA (Angel Note)　歌：榊原由依
   - ED「光差す未来」
-    作詞：[霜月はるか](https://zh.wikipedia.org/wiki/霜月はるか "wikilink")　作曲：Famishin　編曲：井ノ原智
-    (Angel Note)　歌：霜月はるか
+    作詞：[霜月はるか](https://zh.wikipedia.org/wiki/霜月はるか "wikilink")　作曲：Famishin　編曲：井ノ原智 (Angel Note)　歌：霜月はるか
 
 ## 工作人員
 
@@ -71,11 +67,7 @@ WORKS」並加上「☆」的「」作為標題名稱\[3\]。
 
   - [YUZUSOFT](http://www.yuzu-soft.com/)
 
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:2010年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2010年日本成人遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:交換身分題材作品](https://zh.wikipedia.org/wiki/Category:交換身分題材作品 "wikilink")
+[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:2010年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2010年日本成人遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:交換身分題材作品](https://zh.wikipedia.org/wiki/Category:交換身分題材作品 "wikilink")
 
 1.
 2.  『TECH GIAN』第14巻第10号（2010年8月号）、86-95頁。

@@ -68,8 +68,7 @@ $(document).ready(function() {
 
 </li>
 
-").html('<a href="' + link + '" title="' + page.title + '">' +
-shortTitle + '</a>').appendTo($list);
+").html('<a href="' + link + '" title="' + page.title + '">' + shortTitle + '</a>').appendTo($list);
 
 `       if (!page.confidence) {`
 `           item.addClass('patrollListNotConfident');`

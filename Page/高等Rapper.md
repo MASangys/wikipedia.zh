@@ -1,7 +1,4 @@
-《**高等Rapper**》（）是[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Mnet频道自](../Page/Mnet媒體.md "wikilink")2017年2月10日至同年3月31日\[1\]播出的韩国[高中生](https://zh.wikipedia.org/wiki/高中生 "wikilink")[Rapper](../Page/饒舌.md "wikilink")[选秀](../Page/选秀.md "wikilink")[节目](../Page/綜藝節目.md "wikilink")。\[2\]节目是由《[Show
-Me The Money](../Page/Show_Me_The_Money.md "wikilink")》的制作团队继《[Show Me
-The Money](../Page/Show_Me_The_Money.md "wikilink")》、《[Unpretty
-Rapstar](../Page/Unpretty_Rapstar.md "wikilink")》后打造的全新形式的[Hiphop选秀节目](../Page/嘻哈.md "wikilink")。节目分别从韩国六个地区的[高校学生中选出每个地区前九强](../Page/高級中學.md "wikilink")，由各地区名次相同的选手同台竞赛，并按各地区总分的顺序依次由选择带领自己地区的导师，经过数轮淘汰赛和决赛前的复活赛后，最终将有6名选手参与决赛。第一季的冠军为（梁洪元）。\[3\]
+《**高等Rapper**》（）是[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Mnet频道自](../Page/Mnet媒體.md "wikilink")2017年2月10日至同年3月31日\[1\]播出的韩国[高中生](https://zh.wikipedia.org/wiki/高中生 "wikilink")[Rapper](../Page/饒舌.md "wikilink")[选秀](../Page/选秀.md "wikilink")[节目](../Page/綜藝節目.md "wikilink")。\[2\]节目是由《[Show Me The Money](../Page/Show_Me_The_Money.md "wikilink")》的制作团队继《[Show Me The Money](../Page/Show_Me_The_Money.md "wikilink")》、《[Unpretty Rapstar](../Page/Unpretty_Rapstar.md "wikilink")》后打造的全新形式的[Hiphop选秀节目](../Page/嘻哈.md "wikilink")。节目分别从韩国六个地区的[高校学生中选出每个地区前九强](../Page/高級中學.md "wikilink")，由各地区名次相同的选手同台竞赛，并按各地区总分的顺序依次由选择带领自己地区的导师，经过数轮淘汰赛和决赛前的复活赛后，最终将有6名选手参与决赛。第一季的冠军为（梁洪元）。\[3\]
 
 ## 主持
 
@@ -158,8 +155,7 @@ Rapstar](../Page/Unpretty_Rapstar.md "wikilink")》后打造的全新形式的[H
 
 <!-- end list -->
 
-  - 導師決定戰 :
-    在各地區代表第1至第9的排名中，由導師親自選擇排名rapper代表各地區進行cypher對決。cypher對決共分三輪，每個導師各有20分，總分120分，從三輪中總分第一的地區選手按順序選擇導師。
+  - 導師決定戰 : 在各地區代表第1至第9的排名中，由導師親自選擇排名rapper代表各地區進行cypher對決。cypher對決共分三輪，每個導師各有20分，總分120分，從三輪中總分第一的地區選手按順序選擇導師。
 
 | 第一輪 : 各地區代表的第3名進行cypher對決 |
 | ------------------------- |
@@ -311,8 +307,7 @@ Rapstar](../Page/Unpretty_Rapstar.md "wikilink")》后打造的全新形式的[H
 
 <!-- end list -->
 
-  - 最終對決
-    :6名在1:1對決中獲勝的成員，以及由100名rapper評審團給予1名在1:1對決中失敗的成員晉級決賽的機會，共7名成員進行最終對決。
+  - 最終對決 :6名在1:1對決中獲勝的成員，以及由100名rapper評審團給予1名在1:1對決中失敗的成員晉級決賽的機會，共7名成員進行最終對決。
 
 <!-- end list -->
 
@@ -400,9 +395,7 @@ Rapstar](../Page/Unpretty_Rapstar.md "wikilink")》后打造的全新形式的[H
 
   -
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
 1.
 2.

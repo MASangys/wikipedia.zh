@@ -4,7 +4,7 @@
 
 ## 影視娛樂
 
-  - ，2017年[印度驚悚片](../Page/印度.md "wikilink")。
+  - ，2017年[印度](../Page/印度.md "wikilink")驚悚片。
 
   - 《[極品老媽](../Page/極品老媽.md "wikilink")》（*Mom*），美國喜劇
 
@@ -32,8 +32,7 @@
 
 ## MOM 或 MOMS
 
-  - [火星軌道探測器](../Page/火星軌道探測器.md "wikilink")（Mars Orbiter Mission）, an
-    Indian spacecraft
+  - [火星軌道探測器](../Page/火星軌道探測器.md "wikilink")（Mars Orbiter Mission）, an Indian spacecraft
 
   - , a series of 1990s alternative-rock charity albums
 
@@ -63,8 +62,7 @@
 
   - , a 1960s socially conservative American organization
 
-  - Methoxymethyl, see also [chloromethyl methyl
-    ether](../Page/氯甲醚.md "wikilink")
+  - Methoxymethyl, see also [chloromethyl methyl ether](../Page/氯甲醚.md "wikilink")
 
   - , a research body in France
 
@@ -72,9 +70,7 @@
 
 ## MoM
 
-  - [Mac-on-Mac](https://zh.wikipedia.org/wiki/Mac-on-Mac "wikilink"),
-    software for running legacy Macintosh operating systems under Mac OS
-    X
+  - [Mac-on-Mac](https://zh.wikipedia.org/wiki/Mac-on-Mac "wikilink"), software for running legacy Macintosh operating systems under Mac OS X
 
   - , a defunct mall in Memphis, Tennessee
 
@@ -84,23 +80,20 @@
 
   - or Method of moments, a computational electromagnetics technique
 
-  - [氢氧化镁懸浮液](../Page/氢氧化镁.md "wikilink")（Milk of magnesia）
+  - [氢氧化镁](../Page/氢氧化镁.md "wikilink")懸浮液（Milk of magnesia）
 
   - **, an MMORPG by Prairie Games
 
   - [新加坡人力部](../Page/新加坡人力部.md "wikilink")（Ministry of Manpower）
 
-  - [魔法部](../Page/魔法部.md "wikilink")（Ministry of
-    Magic），英國小說《[哈利波特](https://zh.wikipedia.org/wiki/哈利波特 "wikilink")》中的一個虛構部門。
+  - [魔法部](../Page/魔法部.md "wikilink")（Ministry of Magic），英國小說《[哈利波特](https://zh.wikipedia.org/wiki/哈利波特 "wikilink")》中的一個虛構部門。
 
   - **, a British children's television show
 
-  - [Mouse on Mars](../Page/Mouse_on_Mars.md "wikilink"), an electronic
-    music duo from Germany
+  - [Mouse on Mars](../Page/Mouse_on_Mars.md "wikilink"), an electronic music duo from Germany
 
   -
-  - 《[指环王Online：莫里亚矿坑](../Page/指环王Online：莫里亚矿坑.md "wikilink")》（*The Lord
-    of the Rings Online: Mines of Moria*）
+  - 《[指环王Online：莫里亚矿坑](../Page/指环王Online：莫里亚矿坑.md "wikilink")》（*The Lord of the Rings Online: Mines of Moria*）
 
 ## 其它
 

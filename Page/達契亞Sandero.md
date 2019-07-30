@@ -1,41 +1,30 @@
-**達契亞Sandero**是由[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")[達契亞汽車於](../Page/達契亞汽車.md "wikilink")2007年開始生產的一款緊湊型汽車，目前已經推出至第二代。在某些市場中，如[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")，[埃及](../Page/埃及.md "wikilink")，[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")，[墨西哥和](../Page/墨西哥.md "wikilink")[南美洲](../Page/南美洲.md "wikilink")，它們以達契亞的母公司雷諾的名義發售\[1\]。
+**達契亞Sandero**是由[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")[達契亞汽車](../Page/達契亞汽車.md "wikilink")於2007年開始生產的一款緊湊型汽車，目前已經推出至第二代。在某些市場中，如[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")，[埃及](../Page/埃及.md "wikilink")，[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")，[墨西哥](../Page/墨西哥.md "wikilink")和[南美洲](../Page/南美洲.md "wikilink")，它們以達契亞的母公司雷諾的名義發售\[1\]。
 
 ## 第一代（2007–2012）
 
 
-[德黑蘭](https://zh.wikipedia.org/wiki/德黑蘭 "wikilink")（Pars Khodro） |
-body_style = 5門[掀背車](https://zh.wikipedia.org/wiki/掀背車 "wikilink") |
-platform =  | engine = 1.0 L [I4](../Page/直列四缸引擎.md "wikilink")
+[德黑蘭](https://zh.wikipedia.org/wiki/德黑蘭 "wikilink")（Pars Khodro） | body_style = 5門[掀背車](https://zh.wikipedia.org/wiki/掀背車 "wikilink") | platform =  | engine = 1.0 L [I4](../Page/直列四缸引擎.md "wikilink")
 1.2 L [I4](../Page/直列四缸引擎.md "wikilink")
-1.4 L
-[I4](../Page/直列四缸引擎.md "wikilink")（[汽油引擎](../Page/汽油引擎.md "wikilink")）
+1.4 L [I4](../Page/直列四缸引擎.md "wikilink")（[汽油引擎](../Page/汽油引擎.md "wikilink")）
 1.4 L [I4](../Page/直列四缸引擎.md "wikilink")
 1.6 L [I4](../Page/直列四缸引擎.md "wikilink")
-1.6 L
-[I4](../Page/直列四缸引擎.md "wikilink")（[汽油引擎](../Page/汽油引擎.md "wikilink")）
+1.6 L [I4](../Page/直列四缸引擎.md "wikilink")（[汽油引擎](../Page/汽油引擎.md "wikilink")）
 1.6 L [I4](../Page/直列四缸引擎.md "wikilink")
-1.5 L [I4](../Page/直列四缸引擎.md "wikilink")
-[dCi](https://zh.wikipedia.org/wiki/高壓共軌 "wikilink")（[柴油引擎](../Page/柴油引擎.md "wikilink")）
-| transmission = 5速[手排](https://zh.wikipedia.org/wiki/手排 "wikilink")
-4速
-[自排](https://zh.wikipedia.org/wiki/自排 "wikilink"){{\#tag:ref|只限部分市場，例如巴西、哥倫比亞、墨西哥和俄羅斯\[2\]\[3\]\[4\]}}
-| wheelbase =
-(Stepway) | length =
-(Stepway) | width =
-(Stepway) | height =
-(Stepway) | weight =  | related =
+1.5 L [I4](../Page/直列四缸引擎.md "wikilink") [dCi](https://zh.wikipedia.org/wiki/高壓共軌 "wikilink")（[柴油引擎](../Page/柴油引擎.md "wikilink")） | transmission = 5速[手排](https://zh.wikipedia.org/wiki/手排 "wikilink")
+4速 [自排](https://zh.wikipedia.org/wiki/自排 "wikilink"){{\#tag:ref|只限部分市場，例如巴西、哥倫比亞、墨西哥和俄羅斯\[2\]\[3\]\[4\]}} | wheelbase =
+ (Stepway) | length =
+ (Stepway) | width =
+ (Stepway) | height =
+ (Stepway) | weight =  | related =
 
-第三代
+ 第三代
 [日產Tiida](https://zh.wikipedia.org/wiki/日產Tiida#歷史 "wikilink") 第一代
 [日產Note](../Page/日產Note.md "wikilink")
-[日產March](../Page/日產March.md "wikilink") 第三代 | designer = Renault Design
-Barcelona\[5\] }}
-由於這款車的輪距略小於普通轎車的輪距，這款車於法國巴黎近郊的雷諾科技中心與雷諾[巴西和](../Page/巴西.md "wikilink")[達契亞的工程中心聯合開發](https://zh.wikipedia.org/wiki/達契亞 "wikilink")\[6\]\[7\]
-這款車後來在[法蘭克福車展亮相](../Page/法蘭克福車展.md "wikilink")\[8\]，並於2007年12月在巴西以雷諾的名義下首次正式亮相，成為第一款在歐洲以外首次亮相的雷諾車型。
+[日產March](../Page/日產March.md "wikilink") 第三代 | designer = Renault Design Barcelona\[5\] }} 由於這款車的輪距略小於普通轎車的輪距，這款車於法國巴黎近郊的雷諾科技中心與雷諾[巴西](../Page/巴西.md "wikilink")和[達契亞的工程中心聯合開發](https://zh.wikipedia.org/wiki/達契亞 "wikilink")\[6\]\[7\] 這款車後來在[法蘭克福車展](../Page/法蘭克福車展.md "wikilink")亮相\[8\]，並於2007年12月在巴西以雷諾的名義下首次正式亮相，成為第一款在歐洲以外首次亮相的雷諾車型。
 
 ### 安全性
 
-根據[歐盟新車安全評鑑協會的](../Page/歐盟新車安全評鑑協會.md "wikilink")[撞擊測試](https://zh.wikipedia.org/wiki/撞擊測試 "wikilink")，其安全性結果如下：
+根據[歐盟新車安全評鑑協會](../Page/歐盟新車安全評鑑協會.md "wikilink")的[撞擊測試](https://zh.wikipedia.org/wiki/撞擊測試 "wikilink")，其安全性結果如下：
 
   - 成人司機/乘客：，25分
   - 兒童乘客：，38分
@@ -154,12 +143,7 @@ Barcelona\[5\] }}
 
 ## 参考来源
 
-[Category:雷諾車輛](https://zh.wikipedia.org/wiki/Category:雷諾車輛 "wikilink")
-[Category:達契亞車輛](https://zh.wikipedia.org/wiki/Category:達契亞車輛 "wikilink")
-[Category:2007年面世的汽車](https://zh.wikipedia.org/wiki/Category:2007年面世的汽車 "wikilink")
-[Category:次紧凑型车](https://zh.wikipedia.org/wiki/Category:次紧凑型车 "wikilink")
-[Category:掀背车](https://zh.wikipedia.org/wiki/Category:掀背车 "wikilink")
-[Category:2007年面世的汽車](https://zh.wikipedia.org/wiki/Category:2007年面世的汽車 "wikilink")
+[Category:雷諾車輛](https://zh.wikipedia.org/wiki/Category:雷諾車輛 "wikilink") [Category:達契亞車輛](https://zh.wikipedia.org/wiki/Category:達契亞車輛 "wikilink") [Category:2007年面世的汽車](https://zh.wikipedia.org/wiki/Category:2007年面世的汽車 "wikilink") [Category:次紧凑型车](https://zh.wikipedia.org/wiki/Category:次紧凑型车 "wikilink") [Category:掀背车](https://zh.wikipedia.org/wiki/Category:掀背车 "wikilink") [Category:2007年面世的汽車](https://zh.wikipedia.org/wiki/Category:2007年面世的汽車 "wikilink")
 
 1.
 2.

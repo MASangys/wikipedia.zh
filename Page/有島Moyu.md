@@ -1,8 +1,8 @@
-**有島Moyu**\[1\]（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Page/配音員.md "wikilink")。出身於[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[白河市](../Page/白河市.md "wikilink")\[2\]\[3\]。[身高](https://zh.wikipedia.org/wiki/身高 "wikilink")152cm\[4\]。B型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[5\]\[6\]。
+**有島Moyu**\[1\]（，），[日本](../Page/日本.md "wikilink")女性[配音員](../Page/配音員.md "wikilink")。出身於[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[白河市](../Page/白河市.md "wikilink")\[2\]\[3\]。[身高](https://zh.wikipedia.org/wiki/身高 "wikilink")152cm\[4\]。B型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[5\]\[6\]。
 
 ## 人物簡介
 
-本名：**有島**（與現用藝名的日文讀音相同，寫法將「****」平假名轉換用片假名「****」）。[青二Production所屬](../Page/青二製作.md "wikilink")，[青二塾東京校第](../Page/青二塾.md "wikilink")18期出身\[7\]\[8\]。
+本名：**有島**（與現用藝名的日文讀音相同，寫法將「****」平假名轉換用片假名「****」）。[青二Production所屬](../Page/青二製作.md "wikilink")，[青二塾](../Page/青二塾.md "wikilink")東京校第18期出身\[7\]\[8\]。
 
 為人熟悉的代表配音作品有動畫《[甜蜜偶像](../Page/甜蜜偶像.md "wikilink")》的北條美奈\[9\]、《[花右京女侍隊](../Page/花右京女侍隊.md "wikilink")》的鈴木郁世、《[死亡筆記](../Page/死亡筆記_\(動畫\).md "wikilink")》的相澤由美、《[銀河冒險戰記](../Page/銀河冒險戰記.md "wikilink")》的米詩堤·康薇爾；遊戲方面有《[英雄傳說](../Page/英雄傳說VII.md "wikilink")》系列的芙蘭·希卡、《》的、《[符文工廠](../Page/符文工廠_-新牧場物語-.md "wikilink")》系列的碧安卡及《》的瑪莉·懷海德等。
 
@@ -129,8 +129,7 @@
 
 <!-- end list -->
 
-  - [劇場版
-    CLANNAD](https://zh.wikipedia.org/wiki/CLANNAD_\(遊戲\) "wikilink")（場内播報員）
+  - [劇場版 CLANNAD](https://zh.wikipedia.org/wiki/CLANNAD_\(遊戲\) "wikilink")（場内播報員）
 
 ### 網路動畫
 
@@ -222,8 +221,7 @@
 
   - （三郎太）
 
-  - [Simple角色2000系列](https://zh.wikipedia.org/wiki/Simple系列 "wikilink")
-    Vol.92 （佐緒里的同僚）
+  - [Simple角色2000系列](https://zh.wikipedia.org/wiki/Simple系列 "wikilink") Vol.92 （佐緒里的同僚）
 
   - （凱洛）
 
@@ -435,12 +433,9 @@
 ## 外部連結
 
   - [青二Production公式官網的聲優簡介](http://www.aoni.co.jp/actress/a/arishima-moyu.html)
-
   - [\!\!](http://www.tosp.co.jp/i.asp?I=monemone_happy) －有島Moyu的官方個人網站。
 
-[Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink")
-[Category:福島縣出身人物](https://zh.wikipedia.org/wiki/Category:福島縣出身人物 "wikilink")
-[Category:青二Production](https://zh.wikipedia.org/wiki/Category:青二Production "wikilink")
+[Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink") [Category:福島縣出身人物](https://zh.wikipedia.org/wiki/Category:福島縣出身人物 "wikilink") [Category:青二Production](https://zh.wikipedia.org/wiki/Category:青二Production "wikilink")
 
 1.  由於沒有固定的中文正式譯名，故有時譯作“**有島萌優**”、“**有島摩由**”或“**有島茂宇**”等。
 
@@ -451,8 +446,7 @@
 6.
 7.
 8.
-9.  2003年6月因[福井裕佳梨罹患急性疾病要長期療養而暫時休業](../Page/福井裕佳梨.md "wikilink")，從廣播劇CD『甜蜜偶像
-    3rd.Project』之後出場的北條美奈由有島接替。2004年2月，即使福井病癒重返工作崗位，還是由有島接替。
+9.  2003年6月因[福井裕佳梨](../Page/福井裕佳梨.md "wikilink")罹患急性疾病要長期療養而暫時休業，從廣播劇CD『甜蜜偶像 3rd.Project』之後出場的北條美奈由有島接替。2004年2月，即使福井病癒重返工作崗位，還是由有島接替。
 
 10.
 11.
@@ -460,7 +454,7 @@
 13.
 14. 未在電視上播出。
 
-15. 接替降板的[岡田純子飾演](../Page/岡田純子.md "wikilink")。
+15. 接替降板的[岡田純子](../Page/岡田純子.md "wikilink")飾演。
 
 16.
 

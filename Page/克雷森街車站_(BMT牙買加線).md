@@ -35,29 +35,21 @@
 </tbody>
 </table>
 
-此高架車站在1893年5月30日啟用，設有一個狹窄的[島式月台和兩條軌道](../Page/島式月台.md "wikilink")。
+此高架車站在1893年5月30日啟用，設有一個狹窄的[島式月台](../Page/島式月台.md "wikilink")和兩條軌道。
 
 ## 參考資料
 
 ## 外部連結
 
   -
-  - Station Reporter — [J
-    Train](https://web.archive.org/web/20121108033658/http://www.stationreporter.net/jtrain.htm)
+  - Station Reporter — [J Train](https://web.archive.org/web/20121108033658/http://www.stationreporter.net/jtrain.htm)
 
-  - The Subway Nut — [Crescent Street
-    Pictures](http://www.subwaynut.com/bmt/crescentj/index.php)
+  - The Subway Nut — [Crescent Street Pictures](http://www.subwaynut.com/bmt/crescentj/index.php)
 
-  - MTA's Arts For Transit — [Crescent Street (BMT Jamaica
-    Line)](https://web.archive.org/web/20110606073100/http://mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&station=3&xdev=129)
+  - MTA's Arts For Transit — [Crescent Street (BMT Jamaica Line)](https://web.archive.org/web/20110606073100/http://mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&station=3&xdev=129)
 
-  - [Crescent Street entrance from Google Maps Street
-    View](https://maps.google.com/maps?hl=en&ie=UTF8&ll=40.683575,-73.872435&spn=0,0.013314&z=17&layer=c&cbll=40.683539,-73.872539&panoid=L-5lSNqOKdJghsyIMaP4Tg&cbp=12,252.76,,0,6.38)
+  - [Crescent Street entrance from Google Maps Street View](https://maps.google.com/maps?hl=en&ie=UTF8&ll=40.683575,-73.872435&spn=0,0.013314&z=17&layer=c&cbll=40.683539,-73.872539&panoid=L-5lSNqOKdJghsyIMaP4Tg&cbp=12,252.76,,0,6.38)
 
-  - [Platform from Google Maps Street
-    View](https://www.google.com/maps/@40.6832123,-73.8737183,3a,75y,133.75h,94.71t/data=!3m8!1e1!3m6!1s-ar2GPlhmJfk%2FWHWWDoa6nUI%2FAAAAAAAAaY0%2FlANqyd71pIscYFboelISV9EWzjAZES1VQCLIB!2e4!3e11!6s%2F%2Flh3.googleusercontent.com%2F-ar2GPlhmJfk%2FWHWWDoa6nUI%2FAAAAAAAAaY0%2FlANqyd71pIscYFboelISV9EWzjAZES1VQCLIB%2Fw203-h100-p-k-no%2F!7i9728!8i4864!4m3!8m2!3m1!1e1!6m1!1e1)
+  - [Platform from Google Maps Street View](https://www.google.com/maps/@40.6832123,-73.8737183,3a,75y,133.75h,94.71t/data=!3m8!1e1!3m6!1s-ar2GPlhmJfk%2FWHWWDoa6nUI%2FAAAAAAAAaY0%2FlANqyd71pIscYFboelISV9EWzjAZES1VQCLIB!2e4!3e11!6s%2F%2Flh3.googleusercontent.com%2F-ar2GPlhmJfk%2FWHWWDoa6nUI%2FAAAAAAAAaY0%2FlANqyd71pIscYFboelISV9EWzjAZES1VQCLIB%2Fw203-h100-p-k-no%2F!7i9728!8i4864!4m3!8m2!3m1!1e1!6m1!1e1)
 
-[Category:BMT牙買加線車站](https://zh.wikipedia.org/wiki/Category:BMT牙買加線車站 "wikilink")
-[Category:1893年紐約州建立](https://zh.wikipedia.org/wiki/Category:1893年紐約州建立 "wikilink")
-[Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink")
-[Category:1893年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1893年啟用的鐵路車站 "wikilink")
+[Category:BMT牙買加線車站](https://zh.wikipedia.org/wiki/Category:BMT牙買加線車站 "wikilink") [Category:1893年紐約州建立](https://zh.wikipedia.org/wiki/Category:1893年紐約州建立 "wikilink") [Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink") [Category:1893年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1893年啟用的鐵路車站 "wikilink")

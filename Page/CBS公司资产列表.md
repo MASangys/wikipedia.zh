@@ -1,4 +1,4 @@
-**CBS公司资产列表**中的资产为[CBS公司所拥有或曾拥有](../Page/CBS公司.md "wikilink")，许多CBS公司曾经拥有的资产现在归属于2006年分拆之后的[新维亚康姆集团](https://zh.wikipedia.org/wiki/维亚康姆 "wikilink")。
+**CBS公司资产列表**中的资产为[CBS公司](../Page/CBS公司.md "wikilink")所拥有或曾拥有，许多CBS公司曾经拥有的资产现在归属于2006年分拆之后的[新维亚康姆集团](https://zh.wikipedia.org/wiki/维亚康姆 "wikilink")。
 
 ## CBS娱乐
 

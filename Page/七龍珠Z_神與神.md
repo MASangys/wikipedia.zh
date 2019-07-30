@@ -1,6 +1,4 @@
-《**七龍珠Z
-神與神**》（，），是2013年3月30日上映的第18部《[七龍珠](https://zh.wikipedia.org/wiki/七龍珠 "wikilink")》劇場版動畫\[1\]，也是首部有連接電視動畫《[七龍珠](https://zh.wikipedia.org/wiki/七龍珠 "wikilink")》的劇場版，亦是《[七龍珠Z](../Page/七龍珠Z.md "wikilink")》的第14部劇場版動畫。这是继《[七龙珠
-最强之道](https://zh.wikipedia.org/wiki/七龙珠_最强之道 "wikilink")》后，相隔18年再度推出全新劇場版。香港是在2013年8月15日，臺灣是在2013年10月25日上映\[2\]。
+《**七龍珠Z 神與神**》（，），是2013年3月30日上映的第18部《[七龍珠](https://zh.wikipedia.org/wiki/七龍珠 "wikilink")》劇場版動畫\[1\]，也是首部有連接電視動畫《[七龍珠](https://zh.wikipedia.org/wiki/七龍珠 "wikilink")》的劇場版，亦是《[七龍珠Z](../Page/七龍珠Z.md "wikilink")》的第14部劇場版動畫。这是继《[七龙珠 最强之道](https://zh.wikipedia.org/wiki/七龙珠_最强之道 "wikilink")》后，相隔18年再度推出全新劇場版。香港是在2013年8月15日，臺灣是在2013年10月25日上映\[2\]。
 
 ## 故事
 
@@ -180,18 +178,9 @@
   - [官方網站](http://www.foxjapan.com/dragon-ball-z-battle-of-gods)[二十世紀福斯](../Page/二十世紀福斯.md "wikilink")
 
   -
-[Category:七龙珠电影](https://zh.wikipedia.org/wiki/Category:七龙珠电影 "wikilink")
-[Category:2013年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2013年日本劇場動畫 "wikilink")
-[Category:日語電影](https://zh.wikipedia.org/wiki/Category:日語電影 "wikilink")
-[Category:IMAX電影](https://zh.wikipedia.org/wiki/Category:IMAX電影 "wikilink")
-[Category:20世紀福斯動畫電影](https://zh.wikipedia.org/wiki/Category:20世紀福斯動畫電影 "wikilink")
+[Category:七龙珠电影](https://zh.wikipedia.org/wiki/Category:七龙珠电影 "wikilink") [Category:2013年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2013年日本劇場動畫 "wikilink") [Category:日語電影](https://zh.wikipedia.org/wiki/Category:日語電影 "wikilink") [Category:IMAX電影](https://zh.wikipedia.org/wiki/Category:IMAX電影 "wikilink") [Category:20世紀福斯動畫電影](https://zh.wikipedia.org/wiki/Category:20世紀福斯動畫電影 "wikilink")
 
-1.  [Dragon Ball Z: Battle of Gods
-    (movie)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14887)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+1.  [Dragon Ball Z: Battle of Gods (movie)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14887)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 2.  [《七龍珠Z劇場版：神與神》10月25日在台上映](http://gnn.gamer.com.tw/0/85810.html)[巴哈姆特電玩資訊站](../Page/巴哈姆特電玩資訊站.md "wikilink")
-3.  <https://natalie.mu/comic/news/72927>　映画「ドラゴンボールZ」17年ぶり新作！空白の10年間描く』17年ぶり映画で復活
-    Z～GT間の“空白の10年”紡ぐ
-4.  [2013年（平成25年）
-    興行収入１０億円以上番組](http://www.eiren.org/toukei/img/eiren_kosyu/data_2013.pdf)一般社団法人日本映画製作者連盟
+3.  <https://natalie.mu/comic/news/72927>　映画「ドラゴンボールZ」17年ぶり新作！空白の10年間描く』17年ぶり映画で復活 Z～GT間の“空白の10年”紡ぐ
+4.  [2013年（平成25年） 興行収入１０億円以上番組](http://www.eiren.org/toukei/img/eiren_kosyu/data_2013.pdf)一般社団法人日本映画製作者連盟

@@ -1,5 +1,4 @@
-Six60是來自[紐西蘭的五人](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")。他們在2011年10月推出了他們的同名專輯。專輯推出的第一週在紐西蘭的排行榜得了第一名和達到了金銷量。他們的兩首單曲“Rise
-Up 2.0”和“Don't Forget Your Roots”在紐西蘭單曲榜也得了第一和第二名和達到了雙和三白金銷量。
+Six60是來自[紐西蘭的五人](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")。他們在2011年10月推出了他們的同名專輯。專輯推出的第一週在紐西蘭的排行榜得了第一名和達到了金銷量。他們的兩首單曲“Rise Up 2.0”和“Don't Forget Your Roots”在紐西蘭單曲榜也得了第一和第二名和達到了雙和三白金銷量。
 
 ## 歷史
 

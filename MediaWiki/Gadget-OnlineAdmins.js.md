@@ -1,7 +1,6 @@
 /\*\*
 
-`* 原作者：`[`User:Alexander``
- ``Misel/admin.js`](https://zh.wikipedia.org/wiki/User:Alexander_Misel/admin.js "wikilink")`，逆襲的天邪鬼修改。`
+`* 原作者：`[`User:Alexander``   ``Misel/admin.js`](https://zh.wikipedia.org/wiki/User:Alexander_Misel/admin.js "wikilink")`，逆襲的天邪鬼修改。`
 `* 取自 oldid=45739798`
 `* `
 `* 修改内容：`
@@ -131,8 +130,7 @@
 `                       if (admins.length > 0) {`
 `                           adminsstring.push('`
 
-' + wgULS('管理员', '管理員') + ' (' + admins.length + wgULS('个在线', '個在線') +
-')：');
+' + wgULS('管理员', '管理員') + ' (' + admins.length + wgULS('个在线', '個在線') + ')：');
 
 `                           $.each(admins, function(i, e) {`
 `                               adminsstring.push(userlink(e));`
@@ -146,8 +144,7 @@
 `                       if (patrollers.length > 0) {`
 `                           adminsstring.push('`
 
-' + wgULS('巡查员', '巡查員') + ' (' + patrollers.length + wgULS('个在线', '個在線')
-+ ')：');
+' + wgULS('巡查员', '巡查員') + ' (' + patrollers.length + wgULS('个在线', '個在線') + ')：');
 
 `                           $.each(patrollers, function(i, e) {`
 `                               adminsstring.push(userlink(e));`
@@ -161,8 +158,7 @@
 `                       if (rollbackers.length > 0) {`
 `                           adminsstring.push('`
 
-' + wgULS('回退员', '回退員') + ' (' + rollbackers.length + wgULS('个在线',
-'個在線') + ')：');
+' + wgULS('回退员', '回退員') + ' (' + rollbackers.length + wgULS('个在线', '個在線') + ')：');
 
 `                           $.each(rollbackers, function(i, e) {`
 `                               adminsstring.push(userlink(e));`

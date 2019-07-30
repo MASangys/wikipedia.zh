@@ -1,11 +1,10 @@
-《**創聖機械天使
-LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikilink")[機器人動畫](../Page/機器人動畫.md "wikilink")，已於2015年7月播映。
+《**創聖機械天使 LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikilink")[機器人動畫](../Page/機器人動畫.md "wikilink")，已於2015年7月播映。
 
 ## 概要
 
 本作是繼2005年《[創聖機械天使](https://zh.wikipedia.org/wiki/創聖機械天使 "wikilink")》及2012年《[創聖機械天使EVOL](../Page/創聖機械天使EVOL.md "wikilink")》的第三部續作\[1\]，並且是「創聖大天使系列」的十週年作品。製作於2015年3月發表。\[2\]
 
-除了動畫製作繼續由[SATELIGHT擔任](../Page/SATELIGHT.md "wikilink")，以及系列原作者[河森正治不變外](../Page/河森正治.md "wikilink")，其他主要製作人員均有變動。
+除了動畫製作繼續由[SATELIGHT](../Page/SATELIGHT.md "wikilink")擔任，以及系列原作者[河森正治](../Page/河森正治.md "wikilink")不變外，其他主要製作人員均有變動。
 
 從一開始的『創聖』，至一萬兩千年後的『EVOL』，都為近未來的故事背景，而本作『LOGOS』卻以現代日本真實存在的地區東京都杉並區的阿佐谷為故事背景，其中的設施都是以現實的真實名稱出現。
 
@@ -32,7 +31,7 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 ### DEAVA
 
   -
-    居於[阿佐谷的少年](../Page/阿佐谷.md "wikilink")。沉默寡言。成長於書法世家，不但寫得一手好字，亦有很深的漢字造詣。
+    居於[阿佐谷](../Page/阿佐谷.md "wikilink")的少年。沉默寡言。成長於書法世家，不但寫得一手好字，亦有很深的漢字造詣。
     在世界遭遇危機之際，自稱救世主。擁有極高的創聲力，能驅動「DEAVA」所保管的「VECTOR 1」。
     與舞亞共同對戰駕駛著Aquarion「傷」的總，卻因對方說出『救世主若沒有世界的敵人出現的話根本不需要有存在的價值』這句話動搖了心，最後因此而敗。
     卻因其動搖的心，誕生出M.J.B.K「敵」，並且在其自身過度執著敵之下暴走並召喚了暴動的餓號機，最後在舞亞的阻止及未知的求救聲之下恢復正常。
@@ -46,15 +45,12 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
     世界级IT企業「NESTA」所屬，執行特別任務的少女。駕駛「VECTOR 2」。
     自幼生活在封閉管理的環境，造成她除了能完美執行任務外，生活方面的相關常識極為糟糕。與同事的總為青梅竹馬，但沒有把孩子氣的他當成異性看待。
     在NESTA的命令之下，與總出擊執行任務，卻遭遇到駕駛VECTOR 1的陽，被強迫解除合體，後被DEAVA俘虜。
-    兑换给系统曾乘亂之際逃離DEAVA，駕駛VECTOR
-    2回NESTA，卻在傳送之門前被拒絕，而且被莊嚴命令留在DEAVA監視陽的一舉一動。
+    兑换给系统曾乘亂之際逃離DEAVA，駕駛VECTOR 2回NESTA，卻在傳送之門前被拒絕，而且被莊嚴命令留在DEAVA監視陽的一舉一動。
     潛入DEAVA之間還因其糟糕的生活常識鬧出不少的笑話。
-    對陽的感情從當初的任務監視對象到後來共同作戰之下萌生愛戀的情感，直到陽在總與M.J.B.K「離」攻擊之下產生危機之時，駕駛著VECTOR
-    2來幫助他並同時說出“我想跟你合體”的告白詞。
+    對陽的感情從當初的任務監視對象到後來共同作戰之下萌生愛戀的情感，直到陽在總與M.J.B.K「離」攻擊之下產生危機之時，駕駛著VECTOR 2來幫助他並同時說出“我想跟你合體”的告白詞。
     在打倒莊嚴後曾經一度內心精神支柱崩潰，盲目地在NESTA塔周圍追尋莊嚴的背影，直到在M.J.B.K「死」影響之下與莊嚴的靈體再會後終得解脫。
     因擔心陽的情況而偷偷潛入NESTA總公司尋找解決方法，卻被NESTA跟總抓住，進而得知她其實是總當初施展創聲力之時，與NESTA部分靈魂所產生的結晶-創聲人偶。
-    為了讓陽遠離餓號機的概念侵蝕，選擇駕駛VECTOR
-    2與Aquarion「傷」合體成Aquarion「裂傷」並讓NESTA的靈魂佔據身體，同時要求陽將她與Aquarion「裂傷」一起打爆，但陽卻下不了手。
+    為了讓陽遠離餓號機的概念侵蝕，選擇駕駛VECTOR 2與Aquarion「傷」合體成Aquarion「裂傷」並讓NESTA的靈魂佔據身體，同時要求陽將她與Aquarion「裂傷」一起打爆，但陽卻下不了手。
     後在總不人道的手段之下，恢復了當年的記憶，想起當年真正與她做出約定的那個人，其實就是年幼的陽，使她想回到陽的身邊。
     最後在毫無目標的陽面前告白，兩人正式成為戀人。
 
@@ -230,8 +226,7 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 ## 登場機體
 
   -
-    本作比起前作的最大改變在於Vector
-    Machine由原先三架增至成七架,合體兩架Vector即可行（原本的三架模式亦可），以及機組合體成Aquarion後不再以英文發音為名，改以日本漢字為名。
+    本作比起前作的最大改變在於Vector Machine由原先三架增至成七架,合體兩架Vector即可行（原本的三架模式亦可），以及機組合體成Aquarion後不再以英文發音為名，改以日本漢字為名。
 
 ### Vector Machine
 
@@ -246,8 +241,7 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 
   -
     創聲力為“天”
-    由灰吹 陽駕駛的紅色Vector
-    Machine（本來應由心音駕駛的）。用途廣泛的泛用型。外觀設計如同箭形一般的高直進性三角翼機體。陽個人稱其為"救世號"（遭到除了心音以外的其他成員吐槽）。後在Aquariong「傷」的無限總灰劍攻擊之下而損毀。
+    由灰吹 陽駕駛的紅色Vector Machine（本來應由心音駕駛的）。用途廣泛的泛用型。外觀設計如同箭形一般的高直進性三角翼機體。陽個人稱其為"救世號"（遭到除了心音以外的其他成員吐槽）。後在Aquariong「傷」的無限總灰劍攻擊之下而損毀。
       - 合體必殺技:「」
 
 <!-- end list -->
@@ -280,8 +274,7 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 
   -
     創聲力為“龍”
-    由土聞 努虫 / 岩上 笑子駕駛的黃色Vector
-    Machine。強攻型，適合一擊脫離的作戰方式。外觀設計像箭尾一般的平尖形狀並擁有細小主翼的全翼機機體。
+    由土聞 努虫 / 岩上 笑子駕駛的黃色Vector Machine。強攻型，適合一擊脫離的作戰方式。外觀設計像箭尾一般的平尖形狀並擁有細小主翼的全翼機機體。
       - 合體必殺技:「」
 
 <!-- end list -->
@@ -303,8 +296,7 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 
   -
     創聲力為“王”
-    由海凪 花嵐駕駛的粉色Vector
-    Machine。伏擊型，而且在索敵行動方面也很出色。外觀設計與貳號機同樣為雙機首，卻帶有點圓形感，類似心型的半雙機身機體。
+    由海凪 花嵐駕駛的粉色Vector Machine。伏擊型，而且在索敵行動方面也很出色。外觀設計與貳號機同樣為雙機首，卻帶有點圓形感，類似心型的半雙機身機體。
       - 合體必殺技:「」
 
 <!-- end list -->
@@ -314,8 +306,7 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 <!-- end list -->
 
   -
-    由剣嵜 総駕駛的黑色Vector
-    Machine。在初期出場戰鬥中受到損傷故障，後經改良之後又因各部份附加赤紅銳利之刃呈現出新的樣貌，另外追加了可與M.J.B.K合體的機能。
+    由剣嵜 総駕駛的黑色Vector Machine。在初期出場戰鬥中受到損傷故障，後經改良之後又因各部份附加赤紅銳利之刃呈現出新的樣貌，另外追加了可與M.J.B.K合體的機能。
 
 <!-- end list -->
 
@@ -343,8 +334,7 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 <!-- end list -->
 
   -
-    由灰吹 陽新駕駛的Vector Machine。全身與Vector
-    1相同顏色，並有著令人印象深刻的黑色線條。自古代文明遺跡中挖掘出來的機體殘骸，有“神話的破壞者”別稱。
+    由灰吹 陽新駕駛的Vector Machine。全身與Vector 1相同顏色，並有著令人印象深刻的黑色線條。自古代文明遺跡中挖掘出來的機體殘骸，有“神話的破壞者”別稱。
 
 ### Aquarion
 
@@ -360,11 +350,8 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 
   -
     合體之時的發聲為「吶喊」
-    由 Vector 1 （上半身）和 Vector 2
-    （下半身）合體而成，是Aquarion所有合體型態中穩定性最高的型態，有著近似人的形態，擁有能應對任何文字異常事態的力量。
-    必殺技為“無限拳”，創聖系列的著名絕技，此作的拳字以漢字來發音。【灰吹 陽的（陽）字+月銀
-    舞亜的（銀）字，取各半邊形成（限）字，再以（舞）字變異為（無）字，再將M.J.B.K「卷」的（卷）字下半以（手）字替換，形成（拳）字】、“煬無限拳”【灰吹
-    陽的（灰）字下半+（陽）字右半而形成（煬）字，放置於無限拳之上】
+    由 Vector 1 （上半身）和 Vector 2 （下半身）合體而成，是Aquarion所有合體型態中穩定性最高的型態，有著近似人的形態，擁有能應對任何文字異常事態的力量。
+    必殺技為“無限拳”，創聖系列的著名絕技，此作的拳字以漢字來發音。【灰吹 陽的（陽）字+月銀 舞亜的（銀）字，取各半邊形成（限）字，再以（舞）字變異為（無）字，再將M.J.B.K「卷」的（卷）字下半以（手）字替換，形成（拳）字】、“煬無限拳”【灰吹 陽的（灰）字下半+（陽）字右半而形成（煬）字，放置於無限拳之上】
       - 相關文字:「明」、「月結」、「景」、「合」
 
 <!-- end list -->
@@ -374,8 +361,7 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 <!-- end list -->
 
   -
-    由 Vector 0（上半身）和 Vector 2
-    （下半身）合體而成。主任務為負責觀測及守護M.J.B.K。此型態為在粗朶櫻子在奪走Aquarion後將面對Aquarion戰鬥所預設的。自第一話因陽的創聲力下解除合體後沒再登場。
+    由 Vector 0（上半身）和 Vector 2 （下半身）合體而成。主任務為負責觀測及守護M.J.B.K。此型態為在粗朶櫻子在奪走Aquarion後將面對Aquarion戰鬥所預設的。自第一話因陽的創聲力下解除合體後沒再登場。
 
 <!-- end list -->
 
@@ -385,8 +371,7 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 
   -
     合體之時的發聲為「盛開」
-    由 Vector 6 （上半身）和 Vector 1 / Vector 餓
-    （下半部）合體而成，令人聯想到優雅的芭蕾舞者的合體形態，正是花嵐夢想中形象的具現化產物。如同起舞一般地玩弄著文字妖怪。
+    由 Vector 6 （上半身）和 Vector 1 / Vector 餓 （下半部）合體而成，令人聯想到優雅的芭蕾舞者的合體形態，正是花嵐夢想中形象的具現化產物。如同起舞一般地玩弄著文字妖怪。
       - 相關文字:「儚」
 
 <!-- end list -->
@@ -397,8 +382,7 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 
   -
     合體之時的發聲為「疾馳」
-    由 Vector 5 （上半身）和 Vector 4
-    （下半身）合體而成。憑藉具有優秀機動性的高速戰鬥形態，活用其速度擔任文字妖怪空間的哨戒任務。作為物理兵裝，裝備有翼迴旋鏢。
+    由 Vector 5 （上半身）和 Vector 4 （下半身）合體而成。憑藉具有優秀機動性的高速戰鬥形態，活用其速度擔任文字妖怪空間的哨戒任務。作為物理兵裝，裝備有翼迴旋鏢。
 
 <!-- end list -->
 
@@ -419,8 +403,7 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 
   -
     合體之時的發聲為「貫穿」
-    由 Vector 4 （腹）和 Vector 5
-    （頭、胸及翅膀）合體而成。努虫將隱藏在如同自身名字（虫）字裡沉睡的（龍）之力覺醒誕生，凌駕於Aquarion「迅」的超高速型態。型態外觀如同[蜻蜓般](../Page/蜻蜓.md "wikilink")。
+    由 Vector 4 （腹）和 Vector 5 （頭、胸及翅膀）合體而成。努虫將隱藏在如同自身名字（虫）字裡沉睡的（龍）之力覺醒誕生，凌駕於Aquarion「迅」的超高速型態。型態外觀如同[蜻蜓](../Page/蜻蜓.md "wikilink")般。
       - 相關文字:「虹」
 
 <!-- end list -->
@@ -431,8 +414,7 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 
   -
     合體之時的發聲為「傳達」
-    由 Vector 3 （下半身）和 Vector 1
-    （上半身）合體而成。有著[兔子一般的外形](https://zh.wikipedia.org/wiki/兔子 "wikilink")。具有動態聲吶機能的耳朵與心音的優秀音感融合，發揮出超乎想像的力量。
+    由 Vector 3 （下半身）和 Vector 1 （上半身）合體而成。有著[兔子一般的外形](https://zh.wikipedia.org/wiki/兔子 "wikilink")。具有動態聲吶機能的耳朵與心音的優秀音感融合，發揮出超乎想像的力量。
       - 相關文字:「言」
 
 <!-- end list -->
@@ -443,8 +425,7 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 
   -
     合體之時的發聲為「飛翔」
-    由 Vector 5 （上半身）和 Vector 6
-    （下半身）合體而成。具空中的機動性及優異斬擊力的高速格鬥型態。這個型態為翼人心中所想嚮往的天空之獅（[獅鷲](https://zh.wikipedia.org/wiki/獅鷲 "wikilink")）。
+    由 Vector 5 （上半身）和 Vector 6 （下半身）合體而成。具空中的機動性及優異斬擊力的高速格鬥型態。這個型態為翼人心中所想嚮往的天空之獅（[獅鷲](https://zh.wikipedia.org/wiki/獅鷲 "wikilink")）。
     必殺技為“風凪ノ翼”【空篠 翼人的（翼）字，海凪 花嵐的（凪）字和（嵐）字下半部的（風）字】
 
 <!-- end list -->
@@ -454,8 +435,7 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 <!-- end list -->
 
   -
-    由 Vector 0 （上半身）和 強攻型Vector 無人機α
-    （下半身）合體而成。具有強大的創聲力，由總獨自一人駕駛也能發揮令人恐懼的潛力。臉部的損傷則是將總所承受的心之「傷」給予具現化。
+    由 Vector 0 （上半身）和 強攻型Vector 無人機α （下半身）合體而成。具有強大的創聲力，由總獨自一人駕駛也能發揮令人恐懼的潛力。臉部的損傷則是將總所承受的心之「傷」給予具現化。
     必殺技為“無限総灰剣”【奪取來自無限拳的（無）字和（限）字，及灰吹 陽的（灰）字，最後加上剣嵜 総的（剣）字和（総）字】、“総月剣”
 
 <!-- end list -->
@@ -466,10 +446,8 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 
   -
     合體之時的發聲與「煌」同為「吶喊」
-    由 Vector 餓 （上半身）和 Vector 2
-    （下半身）合體而成。變形模式如同Aquarion「煌」般。一萬兩千年前強大的力量，別名為“神話的破壞者”的餓號機之力在此復活。
-    必殺技為“救世無限拳”【灰吹
-    陽自身想法所產生的（求）字+M.J.B.K「敵」的右半而形成（救）字，加上（世）字，組合成（救世）二字，然後放置於無限拳之前】、“陽拳”
+    由 Vector 餓 （上半身）和 Vector 2 （下半身）合體而成。變形模式如同Aquarion「煌」般。一萬兩千年前強大的力量，別名為“神話的破壞者”的餓號機之力在此復活。
+    必殺技為“救世無限拳”【灰吹 陽自身想法所產生的（求）字+M.J.B.K「敵」的右半而形成（救）字，加上（世）字，組合成（救世）二字，然後放置於無限拳之前】、“陽拳”
 
 #### 三機合體
 
@@ -478,8 +456,7 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 <!-- end list -->
 
   -
-    曾登場於第4話。因心音被M.J.B.K「戀」控制，而進行強制性的合體，外觀如同夾娃娃機般的模樣，由 Vector 3 夾住
-    Aquarion「煌」行動。
+    曾登場於第4話。因心音被M.J.B.K「戀」控制，而進行強制性的合體，外觀如同夾娃娃機般的模樣，由 Vector 3 夾住 Aquarion「煌」行動。
 
 <!-- end list -->
 
@@ -489,10 +466,8 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 
   -
     合體之時的發聲為「閃耀」
-    由 Aquarion「煌」和 Vector
-    3（胸）合體而成，本作初次（正規性）成功的三機合體，外觀如同天使般，但創聲力比起一般合體更具異常消耗，而且合體之時，Aquarion「煌」的頭部由雙眼變化為單眼。
-    必殺技為“月陽恋歌”【月銀 舞亜的（月）字，灰吹 陽的（陽）字，綺声神 心音自身想法所產生的（戀）字，以及綺声神
-    心音的（綺）字取其右下半上下堆疊形成（哥）字再加上（欠）字而成（歌）字】
+    由 Aquarion「煌」和 Vector 3（胸）合體而成，本作初次（正規性）成功的三機合體，外觀如同天使般，但創聲力比起一般合體更具異常消耗，而且合體之時，Aquarion「煌」的頭部由雙眼變化為單眼。
+    必殺技為“月陽恋歌”【月銀 舞亜的（月）字，灰吹 陽的（陽）字，綺声神 心音自身想法所產生的（戀）字，以及綺声神 心音的（綺）字取其右下半上下堆疊形成（哥）字再加上（欠）字而成（歌）字】
 
 <!-- end list -->
 
@@ -502,10 +477,8 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 
   -
     合體之時的發聲為「響徹」
-    由 Vector 4（頭及身）和 Vector 5（雙翼）和 Vector 1 / Vector
-    餓（尾）合體而成，充滿男子漢熱情的不死鳥型態。
-    必殺技為“男火魂”【空篠 翼人的（翼）字+土聞 努虫的（努）字，各取中間及下半形成（男）字，加上灰吹
-    陽的（灰）字下半部的（火）字，最後加上（魂）字】
+    由 Vector 4（頭及身）和 Vector 5（雙翼）和 Vector 1 / Vector 餓（尾）合體而成，充滿男子漢熱情的不死鳥型態。
+    必殺技為“男火魂”【空篠 翼人的（翼）字+土聞 努虫的（努）字，各取中間及下半形成（男）字，加上灰吹 陽的（灰）字下半部的（火）字，最後加上（魂）字】
       - 相關文字:「笑照」
 
 <!-- end list -->
@@ -515,8 +488,7 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 <!-- end list -->
 
   -
-    由 Vector 0（上半身）和 Vector 2（背包）和 強攻型Vector 無人機α
-    （下半身）合體而成，舞亜所被撕裂的感情及決心而成的充滿悲劇般三機合體，其潛力凌駕於Aquarion「燦」的合體型態，其背上的披風散發著黑色的氣場光芒。另外型態外觀會讓人聯想到「[黑騎士](https://zh.wikipedia.org/wiki/黑騎士 "wikilink")」。
+    由 Vector 0（上半身）和 Vector 2（背包）和 強攻型Vector 無人機α （下半身）合體而成，舞亜所被撕裂的感情及決心而成的充滿悲劇般三機合體，其潛力凌駕於Aquarion「燦」的合體型態，其背上的披風散發著黑色的氣場光芒。另外型態外觀會讓人聯想到「[黑騎士](https://zh.wikipedia.org/wiki/黑騎士 "wikilink")」。
 
 #### 四機合體
 
@@ -526,11 +498,7 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 
   -
     合體之時的發聲為「贊頌」
-    由 Vector 0（上半身）、Vector 2 （戰車型態:後半身 人形型態:背包）和強攻型Vector
-    無人機α、β（戰車型態:下身、前半身
-    人形型態:下半身、武器）合體而成。當初桐生與NESTA兩人駕駛時為二機合體。但現代之時因力量不足之下以新型Vector
-    Machine漆號機（強攻型Vector 無人機α）跟捌號機（強攻型Vector
-    無人機β）兩架機體加入組合後得以補足。最後以桐生的因子繼承者的總及舞亞（NESTA）搭乘其中，使得神話之力再次復活。另外人形型態可由戰車型態變形。
+    由 Vector 0（上半身）、Vector 2 （戰車型態:後半身 人形型態:背包）和強攻型Vector 無人機α、β（戰車型態:下身、前半身 人形型態:下半身、武器）合體而成。當初桐生與NESTA兩人駕駛時為二機合體。但現代之時因力量不足之下以新型Vector Machine漆號機（強攻型Vector 無人機α）跟捌號機（強攻型Vector 無人機β）兩架機體加入組合後得以補足。最後以桐生的因子繼承者的總及舞亞（NESTA）搭乘其中，使得神話之力再次復活。另外人形型態可由戰車型態變形。
     必殺技為“総零”
 
 <!-- end list -->
@@ -541,8 +509,7 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 
   -
     為Aquarion「語靈」的究極創聲合體型態，融合了餓號機的金黃色光輝機體。
-    必殺技為“無限剣”【月銀 舞亜的（舞）字變異為（無）字，灰吹 陽的（陽）字+月銀 舞亜的（銀）字，取各半邊形成（限）字，最後加上剣嵜
-    総的（剣）字】、“無総陽月剣”【灰吹 陽的（陽）字，月銀 舞亜的（月）字和（舞）字變異為（無）字，剣嵜 総的（剣）字和（総）字】
+    必殺技為“無限剣”【月銀 舞亜的（舞）字變異為（無）字，灰吹 陽的（陽）字+月銀 舞亜的（銀）字，取各半邊形成（限）字，最後加上剣嵜 総的（剣）字】、“無総陽月剣”【灰吹 陽的（陽）字，月銀 舞亜的（月）字和（舞）字變異為（無）字，剣嵜 総的（剣）字和（総）字】
 
 #### 五機合體
 
@@ -552,20 +519,14 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 
   -
     合體之時的發聲為「拯救」
-    由 Vector 餓 （上半身）和 Vector 3 （前肢） 、Vector 4 （下身）、Vector 5 （後足）、 Vector
-    6
-    （後半身）合體而成。當初對戰M.J.B.K「無」之時就有這種多重機體合體的預兆出現，是從合體必殺技“天空永龍王音”中得知。其胸口可以打開，取出由文字具現化而成的武器。型態外觀會直接地想到半人半獸的半人馬，疑似當年將Aquarion
-    LOGOS封印的巨兵。
+    由 Vector 餓 （上半身）和 Vector 3 （前肢） 、Vector 4 （下身）、Vector 5 （後足）、 Vector 6 （後半身）合體而成。當初對戰M.J.B.K「無」之時就有這種多重機體合體的預兆出現，是從合體必殺技“天空永龍王音”中得知。其胸口可以打開，取出由文字具現化而成的武器。型態外觀會直接地想到半人半獸的半人馬，疑似當年將Aquarion LOGOS封印的巨兵。
     第24話時，改由陽駕駛餓號機，其他四架改由自動控制出擊並進行合體，與總所駕駛的Aquarion「語靈」進行最終決戰。
-    必殺技為“電晄石花”【M.J.B.K「電」的（電）字，灰吹 陽的「陽」右上+「灰」下半的（火）字變異為（光）字而形成（晄）字，岩上
-    笑子的（岩）字下半部的（石）字，最後加上海凪 花嵐的（花）字】、“火吹斬”
+    必殺技為“電晄石花”【M.J.B.K「電」的（電）字，灰吹 陽的「陽」右上+「灰」下半的（火）字變異為（光）字而形成（晄）字，岩上 笑子的（岩）字下半部的（石）字，最後加上海凪 花嵐的（花）字】、“火吹斬”
 
 ## 用語
 
   -
-    全稱為**D**ivision of **EA**rth **V**erbalism
-    **A**bility（DEAVA），是為了回避文字文化的危機而組成的國際機構。目的主要是以創聲力來解決由LOGOS
-    WORLD發生的文字的異常事件。
+    全稱為**D**ivision of **EA**rth **V**erbalism **A**bility（DEAVA），是為了回避文字文化的危機而組成的國際機構。目的主要是以創聲力來解決由LOGOS WORLD發生的文字的異常事件。
     現時，由於文字的異常事件集中發生於[漢字文化圈](https://zh.wikipedia.org/wiki/漢字文化圈 "wikilink")，日本政府在獲得DEAVA日本分部的支援下得以應對。而對其他言語圏，DEAVA則密切關注其未來。
 
 <!-- end list -->
@@ -605,15 +566,12 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 <!-- end list -->
 
   -
-    在文字誕生之時，“人的意志”與“萬物的真理”之間所產生的干涉空間。也就是所謂的“文字的世界”。近年來因為網路過度發達，造成「無意義的文字」爆發性增加，也同時為LOGOS
-    WORLD持續膨脹的主要原因。
+    在文字誕生之時，“人的意志”與“萬物的真理”之間所產生的干涉空間。也就是所謂的“文字的世界”。近年來因為網路過度發達，造成「無意義的文字」爆發性增加，也同時為LOGOS WORLD持續膨脹的主要原因。
 
 <!-- end list -->
 
   -
-    英文全稱為“**M**enace of **J**apanese with **B**iological **K**inetic
-    energy ”，M.J.B.K是它的略稱。為LOGOS
-    WORLD內部異常現象所產生的變異文字怪物。在M.J.B.K的影響之下文字歪曲了本意，並且使現實世界產生相關的異常現象。同時在M.J.B.K的影響之下會使得文字侵蝕率上升，逐漸地讓文字喪失本身的意義，最嚴重的情況會是文字概念因此消失在世界上。一旦文字被完全侵蝕掉的話，會嚴重地影響歷史及文化的延續傳承，造成從根本上的崩潰。
+    英文全稱為“**M**enace of **J**apanese with **B**iological **K**inetic energy ”，M.J.B.K是它的略稱。為LOGOS WORLD內部異常現象所產生的變異文字怪物。在M.J.B.K的影響之下文字歪曲了本意，並且使現實世界產生相關的異常現象。同時在M.J.B.K的影響之下會使得文字侵蝕率上升，逐漸地讓文字喪失本身的意義，最嚴重的情況會是文字概念因此消失在世界上。一旦文字被完全侵蝕掉的話，會嚴重地影響歷史及文化的延續傳承，造成從根本上的崩潰。
     Aquarion所裝備的常規武器雖然對它傷害性較低卻很有效，不過給予最後一擊的關鍵還是在於創聲力。即使不是像無限拳這一種必殺技能，任何將其形成的文字抵銷的變異言词也是能將其消滅。
 
 <!-- end list -->
@@ -625,8 +583,7 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 
   -
     一萬兩千年由古代文字文明所發動的大型戰爭。
-    由聲音為「真理的世界」的連繫關鍵的信奉者與文字使用者之間所起的爭端。儘管前者投入了有著「殺戮的天使」別稱的Aquarion
-    Logos，卻還是由後者獲得勝利。
+    由聲音為「真理的世界」的連繫關鍵的信奉者與文字使用者之間所起的爭端。儘管前者投入了有著「殺戮的天使」別稱的Aquarion Logos，卻還是由後者獲得勝利。
     當時戰爭的樣子有被描繪下來並被後世挖掘出來，但實際的過程內容卻未有相關描述。
 
 <!-- end list -->
@@ -665,9 +622,7 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
   - 音響監督：清水洋史
   - 音樂製作：flying DOG
   - 動畫制作：SATELIGHT、[C2C](https://zh.wikipedia.org/wiki/C2C_\(工作室\) "wikilink")
-  - 製作：Project AQUARION
-    LOGOS（KADOKAWA、SATELIGHT、加賀電子、[AT-X](../Page/AT-X.md "wikilink")、[飛犬](https://zh.wikipedia.org/wiki/飛犬 "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[東京都會電視台](../Page/東京都會電視台.md "wikilink")、[萬代](../Page/萬代.md "wikilink")、[萬代南夢宮娛樂](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")、Sony
-    Music Communications、[Horipro](../Page/Horipro.md "wikilink")）
+  - 製作：Project AQUARION LOGOS（KADOKAWA、SATELIGHT、加賀電子、[AT-X](../Page/AT-X.md "wikilink")、[飛犬](https://zh.wikipedia.org/wiki/飛犬 "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[東京都會電視台](../Page/東京都會電視台.md "wikilink")、[萬代](../Page/萬代.md "wikilink")、[萬代南夢宮娛樂](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")、Sony Music Communications、[Horipro](../Page/Horipro.md "wikilink")）
 
 ### 主題曲
 
@@ -675,16 +630,14 @@ LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikili
 
 :; 「darlin'」（第1\~16話）
 
-:: 作詞：[Gabriela
-Robin](https://zh.wikipedia.org/wiki/Gabriela_Robin "wikilink")，作曲、編曲：[菅野洋子](../Page/菅野洋子.md "wikilink")，主唱：[May'n](../Page/May'n.md "wikilink")
+:: 作詞：[Gabriela Robin](https://zh.wikipedia.org/wiki/Gabriela_Robin "wikilink")，作曲、編曲：[菅野洋子](../Page/菅野洋子.md "wikilink")，主唱：[May'n](../Page/May'n.md "wikilink")
 
 :; 「」（第17話\~）
 
   -
 
       -
-        作詞：[Gabriela
-        Robin](https://zh.wikipedia.org/wiki/Gabriela_Robin "wikilink")，作曲、編曲：[菅野洋子](../Page/菅野洋子.md "wikilink")，主唱：[May'n](../Page/May'n.md "wikilink")
+        作詞：[Gabriela Robin](https://zh.wikipedia.org/wiki/Gabriela_Robin "wikilink")，作曲、編曲：[菅野洋子](../Page/菅野洋子.md "wikilink")，主唱：[May'n](../Page/May'n.md "wikilink")
 
 <!-- end list -->
 
@@ -692,16 +645,14 @@ Robin](https://zh.wikipedia.org/wiki/Gabriela_Robin "wikilink")，作曲、編�
 
 :; 「」（第1\~16話）
 
-::
-作詞、作曲、編曲：[清竜人](https://zh.wikipedia.org/wiki/清竜人 "wikilink")，主唱：[千菅春香](../Page/千菅春香.md "wikilink")
+:: 作詞、作曲、編曲：[清竜人](https://zh.wikipedia.org/wiki/清竜人 "wikilink")，主唱：[千菅春香](../Page/千菅春香.md "wikilink")
 
 :; 「」（第17話\~）
 
   -
 
       -
-        作詞：[東京かくれんぼ](https://zh.wikipedia.org/wiki/東京かくれんぼ "wikilink")，作曲：[鈴木裕明](https://zh.wikipedia.org/wiki/鈴木裕明 "wikilink")，編曲：[NAOKI-T](https://zh.wikipedia.org/wiki/NAOKI-T "wikilink")，主唱：[May'n](../Page/May'n.md "wikilink")
-        featuring [千菅春香](../Page/千菅春香.md "wikilink")
+        作詞：[東京かくれんぼ](https://zh.wikipedia.org/wiki/東京かくれんぼ "wikilink")，作曲：[鈴木裕明](https://zh.wikipedia.org/wiki/鈴木裕明 "wikilink")，編曲：[NAOKI-T](https://zh.wikipedia.org/wiki/NAOKI-T "wikilink")，主唱：[May'n](../Page/May'n.md "wikilink") featuring [千菅春香](../Page/千菅春香.md "wikilink")
 
 <!-- end list -->
 
@@ -709,19 +660,15 @@ Robin](https://zh.wikipedia.org/wiki/Gabriela_Robin "wikilink")，作曲、編�
 
 :; 「」（第6話）
 
-::
-作詞、作曲、編曲：[R・O・N](https://zh.wikipedia.org/wiki/R・O・N "wikilink")，主唱：海凪花嵐（[小澤亜李](../Page/小澤亞李.md "wikilink")）
+:: 作詞、作曲、編曲：[R・O・N](https://zh.wikipedia.org/wiki/R・O・N "wikilink")，主唱：海凪花嵐（[小澤亜李](../Page/小澤亞李.md "wikilink")）
 
 :; 「」（第10、22話）
 
-::
-作詞、作曲：[May'n](../Page/May'n.md "wikilink")，編曲：[R・O・N](https://zh.wikipedia.org/wiki/R・O・N "wikilink")，主唱：綺聲神心音（[千菅春香](../Page/千菅春香.md "wikilink")）
+:: 作詞、作曲：[May'n](../Page/May'n.md "wikilink")，編曲：[R・O・N](https://zh.wikipedia.org/wiki/R・O・N "wikilink")，主唱：綺聲神心音（[千菅春香](../Page/千菅春香.md "wikilink")）
 
 :; 「」（第25話）
 
-:: 作詞：[Gabriela
-Robin](https://zh.wikipedia.org/wiki/Gabriela_Robin "wikilink")，作曲、編曲：[菅野洋子](../Page/菅野洋子.md "wikilink")，主唱：[AKINO](../Page/AKINO.md "wikilink")
-with [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
+:: 作詞：[Gabriela Robin](https://zh.wikipedia.org/wiki/Gabriela_Robin "wikilink")，作曲、編曲：[菅野洋子](../Page/菅野洋子.md "wikilink")，主唱：[AKINO](../Page/AKINO.md "wikilink") with [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
 
 :; 「」（第25話）
 
@@ -1171,8 +1118,7 @@ M.J.B.K[10]</p></th>
 ## Web Radio
 
   -
-    標題為『Radio「創聖的大天使LOGOS」創聲部』的Web Radio節目在HiBiKi Radio
-    Station\[[http://hibiki-radio.jp/\]播送。每周星期四更新。由](http://hibiki-radio.jp/%5D播送。每周星期四更新。由)[安達勇人](https://zh.wikipedia.org/wiki/安達勇人 "wikilink")（剣嵜総的CV）、[小澤亜李](../Page/小澤亞李.md "wikilink")（海凪花嵐的CV）、[千菅春香](../Page/千菅春香.md "wikilink")（綺声神心音的CV）擔任主持人。
+    標題為『Radio「創聖的大天使LOGOS」創聲部』的Web Radio節目在HiBiKi Radio Station\[[http://hibiki-radio.jp/\]播送。每周星期四更新。由](http://hibiki-radio.jp/%5D播送。每周星期四更新。由)[安達勇人](https://zh.wikipedia.org/wiki/安達勇人 "wikilink")（剣嵜総的CV）、[小澤亜李](../Page/小澤亞李.md "wikilink")（海凪花嵐的CV）、[千菅春香](../Page/千菅春香.md "wikilink")（綺声神心音的CV）擔任主持人。
 
 ## 參考資料
 
@@ -1182,11 +1128,7 @@ M.J.B.K[10]</p></th>
 
   -
 
-[Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:創聖系列](https://zh.wikipedia.org/wiki/Category:創聖系列 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
-[Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink")
+[Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:創聖系列](https://zh.wikipedia.org/wiki/Category:創聖系列 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink")
 
 1.  與前兩作並無任何關連性
 2.

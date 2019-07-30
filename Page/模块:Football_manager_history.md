@@ -1,9 +1,4 @@
-\-- Implement [Template:Football manager
-history](https://zh.wikipedia.org/wiki/Template:Football_manager_history "wikilink")
-to avoid articles being -- added to [:Category:Pages where template
-include size is
-exceeded](https://zh.wikipedia.org/wiki/Category:Pages_where_template_include_size_is_exceeded "wikilink")
--- when the template is used many times.
+\-- Implement [Template:Football manager history](https://zh.wikipedia.org/wiki/Template:Football_manager_history "wikilink") to avoid articles being -- added to [:Category:Pages where template include size is exceeded](https://zh.wikipedia.org/wiki/Category:Pages_where_template_include_size_is_exceeded "wikilink") -- when the template is used many times.
 
 local function clean(text, default)
 
@@ -65,9 +60,7 @@ local function message(msg, caller, nocat)
 `   return anchor ..`
 `       '`<strong class="error">`Error: ' ..`
 `       msg ..`
-`       (caller and (' at `[`Template:'``   ``..``   ``caller``
- ``..``
- ``'`](https://zh.wikipedia.org/wiki/Template:'_.._caller_.._' "wikilink")`') or '') ..`
+`       (caller and (' at `[`Template:'``   ``..``   ``caller``   ``..``   ``'`](https://zh.wikipedia.org/wiki/Template:'_.._caller_.._' "wikilink")`') or '') ..`
 `       '`</strong>`' ..`
 `       category .. '\n'`
 
@@ -184,8 +177,7 @@ local function arg_style(bgcolor, textcolor, bordercolor)
 
 end
 
-local function arg_title(title, teamname, managerlist, textcolor,
-american_english)
+local function arg_title(title, teamname, managerlist, textcolor, american_english)
 
 `   title = clean(title)`
 `   teamname = clean(teamname, 'MISSING "teamname"')`
@@ -198,8 +190,7 @@ american_english)
 `       '`<span class="fn org">`[[' .. teamname .. '|' ..`
 `       spancolor ..`
 `       (title or teamname) .. '`</span>`]]`</span>` – ' ..`
-`       (managerlist and ('`[`'``   ``..``   ``mgr``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._managerlist_.._' "wikilink")`') or mgr)`
+`       (managerlist and ('`[`'``   ``..``   ``mgr``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._managerlist_.._' "wikilink")`') or mgr)`
 
 end
 

@@ -16,8 +16,7 @@
 
   - （著：初美陽一，〈GA文庫〉，SB Creative，已發行7冊）
 
-  - （著：，〈[電擊文庫](../Page/電擊文庫.md "wikilink")〉，[ASCII Media
-    Works](../Page/ASCII_Media_Works.md "wikilink")／[KADOKAWA](../Page/KADOKAWA.md "wikilink")）
+  - （著：，〈[電擊文庫](../Page/電擊文庫.md "wikilink")〉，[ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")／[KADOKAWA](../Page/KADOKAWA.md "wikilink")）
 
   - （著：，〈〉，[集英社](../Page/集英社.md "wikilink")）
 
@@ -35,13 +34,10 @@
 
 ## 外部連結
 
-  - [心拍日記](https://web.archive.org/web/20130605101115/http://palpito.blog4.fc2.com/)
-    －SACRANECO的官方個人部落格。
+  - [心拍日記](https://web.archive.org/web/20130605101115/http://palpito.blog4.fc2.com/) －SACRANECO的官方個人部落格。
 
   -
 
-[Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink")
-[Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink") [Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.

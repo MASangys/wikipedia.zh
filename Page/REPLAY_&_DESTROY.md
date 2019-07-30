@@ -1,5 +1,4 @@
-《**REPLAY & DESTROY**》是日本LISMO
-Channel于2011年製作配信的手機劇，共4集，每集5分鐘。之後于2015年由[MBS重新製作成日劇](../Page/每日放送.md "wikilink")，在MBS、[TBS播出](../Page/TBS電視台.md "wikilink")，共8集，每集24分鐘。
+《**REPLAY & DESTROY**》是日本LISMO Channel于2011年製作配信的手機劇，共4集，每集5分鐘。之後于2015年由[MBS重新製作成日劇](../Page/每日放送.md "wikilink")，在MBS、[TBS播出](../Page/TBS電視台.md "wikilink")，共8集，每集24分鐘。
 
 ## 手機劇
 
@@ -15,8 +14,7 @@ Channel于2011年製作配信的手機劇，共4集，每集5分鐘。之後于2
   - 真野真广（25歲） - [林遣都](../Page/林遣都.md "wikilink")：药学科研究生，偏差值70的優等生。
   - 新田广重（27歲） - ：在快递公司工作，背筋力达到280公斤的怪力男。
   - 葛西露西（17歲） - ：高三女生，混血兒。
-  - 石原専務（62歲） -
-    [大和田伸也](../Page/大和田伸也.md "wikilink")（特別出演）：空手道八段，剛剛退休的前上班族。
+  - 石原専務（62歲） - [大和田伸也](../Page/大和田伸也.md "wikilink")（特別出演）：空手道八段，剛剛退休的前上班族。
   - 富田正行（42歲） - [吹越滿](../Page/吹越滿.md "wikilink")：教齡20年，露西的班主任老師。
 
 ### 製作
@@ -37,7 +35,7 @@ Channel于2011年製作配信的手機劇，共4集，每集5分鐘。之後于2
 
 ### 概要
 
-改编自2011年的同名手机剧。手机版广受欢迎，因此推出日剧版。[山田孝之非常喜欢他所飾演的横山要这个人物](../Page/山田孝之.md "wikilink")，日剧化也是由他提议的。
+改编自2011年的同名手机剧。手机版广受欢迎，因此推出日剧版。[山田孝之](../Page/山田孝之.md "wikilink")非常喜欢他所飾演的横山要这个人物，日剧化也是由他提议的。
 
 ### 演員
 
@@ -55,19 +53,15 @@ Channel于2011年製作配信的手機劇，共4集，每集5分鐘。之後于2
 
   -
     滑川 - [余贵美子](https://zh.wikipedia.org/wiki/余贵美子 "wikilink")：神秘的女占卜师
-    秋尾秋好 -
-    [菅原大吉](https://zh.wikipedia.org/wiki/菅原大吉 "wikilink")：中华料理店“再见”的店主
+    秋尾秋好 - [菅原大吉](https://zh.wikipedia.org/wiki/菅原大吉 "wikilink")：中华料理店“再见”的店主
     宫田 - [我修院达也](https://zh.wikipedia.org/wiki/我修院达也 "wikilink")
-    風間岳 -
-    [井戶田潤](https://zh.wikipedia.org/wiki/井戶田潤 "wikilink")（SPEEDWAGON）
+    風間岳 - [井戶田潤](https://zh.wikipedia.org/wiki/井戶田潤 "wikilink")（SPEEDWAGON）
     蒲生京子 - [佐藤仁美](../Page/佐藤仁美.md "wikilink")
     久保力 - [角田晃广](https://zh.wikipedia.org/wiki/角田晃广 "wikilink")（東京03）
-    儿玉 - [ANI](https://zh.wikipedia.org/wiki/ANI "wikilink")（Scha Dara
-    Parr）
+    儿玉 - [ANI](https://zh.wikipedia.org/wiki/ANI "wikilink")（Scha Dara Parr）
     畑中 - [鸟肌实](https://zh.wikipedia.org/wiki/鸟肌实 "wikilink")
     Mr. Rhythmic·五十岚 - [神谷浩史](../Page/神谷浩史.md "wikilink")（聲演）
-    Miss. Melody三枝 -
-    [水树奈奈](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")（聲演）
+    Miss. Melody三枝 - [水树奈奈](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")（聲演）
 
 <!-- end list -->
 
@@ -84,8 +78,7 @@ Channel于2011年製作配信的手機劇，共4集，每集5分鐘。之後于2
     中島葉月 - [井上和香](../Page/井上和香.md "wikilink")（第4、6、8集）
     竹中重則 - [手塚通](https://zh.wikipedia.org/wiki/手塚通 "wikilink")（第4、6、8集）
     竹中純 - [中川大志](../Page/中川大志.md "wikilink")（第4、8集）
-    音楽节目主持人 -
-    [諏訪太朗](https://zh.wikipedia.org/wiki/諏訪太朗 "wikilink")（第4、6集）
+    音楽节目主持人 - [諏訪太朗](https://zh.wikipedia.org/wiki/諏訪太朗 "wikilink")（第4、6集）
     宇野英子 - [中別府葵](../Page/中別府葵.md "wikilink")（第5、8集）
     麻生律子 - [篠原友惠](https://zh.wikipedia.org/wiki/篠原友惠 "wikilink")（第5集）
     片山史香 - [笛木優子](../Page/笛木優子.md "wikilink")（第5-7集）
@@ -107,13 +100,11 @@ Channel于2011年製作配信的手機劇，共4集，每集5分鐘。之後于2
   - 美術：吉田敬
   - 音樂：海田庄吾
   - 剪輯:木村悦子(第1.2.6.8集)、瀧田隆一(第3.4集)、川村紫織(第5.7集)
-  - 著作：R\&D運命共同体2015（[松竹](../Page/松竹.md "wikilink")、Sony Music
-    Entertainment、MBS、SOP、ダブ）\[2\]
+  - 著作：R\&D運命共同体2015（[松竹](../Page/松竹.md "wikilink")、Sony Music Entertainment、MBS、SOP、ダブ）\[2\]
 
 ### 主題歌
 
-  - [亚细亚功夫世代](https://zh.wikipedia.org/wiki/亚细亚功夫世代 "wikilink")《Planet
-    of the Apes》
+  - [亚细亚功夫世代](https://zh.wikipedia.org/wiki/亚细亚功夫世代 "wikilink")《Planet of the Apes》
 
 ## 參考資料
 
@@ -123,11 +114,7 @@ Channel于2011年製作配信的手機劇，共4集，每集5分鐘。之後于2
 
   - 電視劇版官網
 
-[Category:TBS深夜劇集](https://zh.wikipedia.org/wiki/Category:TBS深夜劇集 "wikilink")
-[Category:2011年開播的網路劇](https://zh.wikipedia.org/wiki/Category:2011年開播的網路劇 "wikilink")
-[Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink")
-[Category:日本電視喜劇](https://zh.wikipedia.org/wiki/Category:日本電視喜劇 "wikilink")
+[Category:TBS深夜劇集](https://zh.wikipedia.org/wiki/Category:TBS深夜劇集 "wikilink") [Category:2011年開播的網路劇](https://zh.wikipedia.org/wiki/Category:2011年開播的網路劇 "wikilink") [Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink") [Category:日本電視喜劇](https://zh.wikipedia.org/wiki/Category:日本電視喜劇 "wikilink")
 
 1.  [山田孝之主演日剧与饭冢健导演孕妻合作](http://ent.taiwan.cn/list/201504/t20150420_9619011.htm)
-
 2.  [官方網站Staff](http://replay-destroy.com/staff.html)

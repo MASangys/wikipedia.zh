@@ -1,59 +1,39 @@
-**Show Me The Money
-5**（，简称：**SMTM5**）是[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Mnet频道制作并播出的](../Page/Mnet媒體.md "wikilink")[Hiphop](../Page/嘻哈音樂.md "wikilink")[选秀节目](../Page/真人實境秀.md "wikilink")，为[Show
-Me The
-Money系列的第五季](../Page/Show_Me_The_Money.md "wikilink")，于2016年5月13日至7月15日每逢周五晚间播出。
+**Show Me The Money 5**（，简称：**SMTM5**）是[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Mnet频道制作并播出的](../Page/Mnet媒體.md "wikilink")[Hiphop](../Page/嘻哈音樂.md "wikilink")[选秀节目](../Page/真人實境秀.md "wikilink")，为[Show Me The Money系列的第五季](../Page/Show_Me_The_Money.md "wikilink")，于2016年5月13日至7月15日每逢周五晚间播出。
 
-SMTM第五季的由[YG娛樂的](../Page/YG娛樂.md "wikilink")、[Zion.T](../Page/Zion.T.md "wikilink")；[ILLIONAIRE的](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")[Dok2](../Page/Dok2.md "wikilink")、[The
-Quiett](../Page/The_Quiett.md "wikilink")；的联合CEO [Simon
-D](../Page/Simon_D.md "wikilink")、制作人[Gray以及](../Page/Gray_\(歌手\).md "wikilink")[Mad
-Clown与](../Page/Mad_Clown.md "wikilink")[Leessang的](../Page/Leessang.md "wikilink")[Gill担任导师](../Page/吉成俊.md "wikilink")。\[1\]此季有破纪录的超过9000名参赛者参赛，优胜者将获得1亿韩元奖金及一辆[大众高尔夫轿车](../Page/大众高尔夫.md "wikilink")。
+SMTM第五季的由[YG娛樂](../Page/YG娛樂.md "wikilink")的、[Zion.T](../Page/Zion.T.md "wikilink")；[ILLIONAIRE的](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")[Dok2](../Page/Dok2.md "wikilink")、[The Quiett](../Page/The_Quiett.md "wikilink")；的联合CEO [Simon D](../Page/Simon_D.md "wikilink")、制作人[Gray以及](../Page/Gray_\(歌手\).md "wikilink")[Mad Clown与](../Page/Mad_Clown.md "wikilink")[Leessang](../Page/Leessang.md "wikilink")的[Gill担任导师](../Page/吉成俊.md "wikilink")。\[1\]此季有破纪录的超过9000名参赛者参赛，优胜者将获得1亿韩元奖金及一辆[大众高尔夫](../Page/大众高尔夫.md "wikilink")轿车。
 
-SMTM5的比赛过程与[Show Me The Money
-4基本类似](../Page/Show_Me_The_Money_4.md "wikilink")，首轮面试参赛者需要准备并表演无伴奏Rap，值得注意的是此季除了在历届进行海选的首尔面试外，还首次于海外Hiphop发源地美国的洛杉矶进行了海选面试。
+SMTM5的比赛过程与[Show Me The Money 4基本类似](../Page/Show_Me_The_Money_4.md "wikilink")，首轮面试参赛者需要准备并表演无伴奏Rap，值得注意的是此季除了在历届进行海选的首尔面试外，还首次于海外Hiphop发源地美国的洛杉矶进行了海选面试。
 
 ## 制作人团队（导师）
 
-**[YG队](../Page/YG娛樂.md "wikilink")（ &
-[Zion.T](../Page/Zion.T.md "wikilink")）：**
+**[YG队](../Page/YG娛樂.md "wikilink")（ & [Zion.T](../Page/Zion.T.md "wikilink")）：**
 
   - ：YG旗下的独立厂牌The Black Label的联席主管，热门歌曲制作人及前Stony Skunk组合成员。
 
-  - [Zion.T](../Page/Zion.T.md "wikilink")：歌手及制作人，曾隶属旗下，现隶属The Black
-    Label旗下。
+  - [Zion.T](../Page/Zion.T.md "wikilink")：歌手及制作人，曾隶属旗下，现隶属The Black Label旗下。
 
-**队（[Simon D](../Page/Simon_D.md "wikilink") &
-[Gray](../Page/Gray_\(歌手\).md "wikilink")）：**
+**队（[Simon D](../Page/Simon_D.md "wikilink") & [Gray](../Page/Gray_\(歌手\).md "wikilink")）：**
 
-  - [Simon D](../Page/Simon_D.md "wikilink")：全称Simon
-    Dominic，AOMG联合CEO，Rapper及[Supreme
-    Team前成员](https://zh.wikipedia.org/wiki/Supreme_Team "wikilink")。
+  - [Simon D](../Page/Simon_D.md "wikilink")：全称Simon Dominic，AOMG联合CEO，Rapper及[Supreme Team前成员](https://zh.wikipedia.org/wiki/Supreme_Team "wikilink")。
   - [Gray](../Page/Gray_\(歌手\).md "wikilink")：制作人、Rapper及歌手，隶属AOMG旗下。
 
-**[ILLIONAIRE队](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")（[Dok2](../Page/Dok2.md "wikilink")
-& [The Quiett](../Page/The_Quiett.md "wikilink")）：**
+**[ILLIONAIRE队](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")（[Dok2](../Page/Dok2.md "wikilink") & [The Quiett](../Page/The_Quiett.md "wikilink")）：**
 
   - [Dok2](../Page/Dok2.md "wikilink")：ILLIONAIRE联合CEO及Rapper，曾担任SMTM3导师。
-  - [The
-    Quiett](../Page/The_Quiett.md "wikilink")：ILLIONAIRE联合CEO及Rapper，曾担任SMTM3导师。
+  - [The Quiett](../Page/The_Quiett.md "wikilink")：ILLIONAIRE联合CEO及Rapper，曾担任SMTM3导师。
 
-**Mad Clown & Gill队（[Mad Clown](../Page/Mad_Clown.md "wikilink") &
-[Gill](../Page/吉成俊.md "wikilink")）：**
+**Mad Clown & Gill队（[Mad Clown](../Page/Mad_Clown.md "wikilink") & [Gill](../Page/吉成俊.md "wikilink")）：**
 
-  - [Mad
-    Clown](../Page/Mad_Clown.md "wikilink")：[STARSHIP娛樂旗下Rapper](../Page/STARSHIP娛樂.md "wikilink")。曾作为选手参加Show
-    Me The Money 2。
-  - [Gill](../Page/吉成俊.md "wikilink")：Rapper及制作人，Hiphop组合[Leessang成员](../Page/Leessang.md "wikilink")，前地下Rap团体Honey
-    Family成员。
+  - [Mad Clown](../Page/Mad_Clown.md "wikilink")：[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")旗下Rapper。曾作为选手参加Show Me The Money 2。
+  - [Gill](../Page/吉成俊.md "wikilink")：Rapper及制作人，Hiphop组合[Leessang](../Page/Leessang.md "wikilink")成员，前地下Rap团体Honey Family成员。
 
 ## 选手（16强）
 
 **YG队**
 
-  - [C Jamm](../Page/C_Jamm.md "wikilink")：曾参加SMTM3并进入半决赛，签约Just
-    Music旗下。与BewhY组成Sexy Street团体。
+  - [C Jamm](../Page/C_Jamm.md "wikilink")：曾参加SMTM3并进入半决赛，签约Just Music旗下。与BewhY组成Sexy Street团体。
 
-  - ：旗下Rapper，曾参加[SUPER STAR
-    K之K](../Page/SUPER_STAR_K.md "wikilink")-Pop团体[防彈少年團的Rapper面试](../Page/防彈少年團.md "wikilink")，但未能通过。
+  - ：旗下Rapper，曾参加[SUPER STAR K之K](../Page/SUPER_STAR_K.md "wikilink")-Pop团体[防彈少年團](../Page/防彈少年團.md "wikilink")的Rapper面试，但未能通过。
 
   - Killagramz：美国洛杉矶Rapper，签约Cycadelic Records旗下。
 
@@ -63,24 +43,19 @@ SMTM5的比赛过程与[Show Me The Money
 
   - ：签约旗下。
 
-  - [BewhY](../Page/BewhY.md "wikilink")：曾参加SMTM4，在淘汰后逐渐受到关注，二人组Sexy
-    Street成员。
+  - [BewhY](../Page/BewhY.md "wikilink")：曾参加SMTM4，在淘汰后逐渐受到关注，二人组Sexy Street成员。
 
-  - [One](https://zh.wikipedia.org/wiki/鄭帝元 "wikilink")：[YG娛樂旗下Rapper](../Page/YG娛樂.md "wikilink")，前1Punch成员。\[2\]曾参加SMTM4，为ZiPal队成员。
+  - [One](https://zh.wikipedia.org/wiki/鄭帝元 "wikilink")：[YG娛樂](../Page/YG娛樂.md "wikilink")旗下Rapper，前1Punch成员。\[2\]曾参加SMTM4，为ZiPal队成员。
 
-  - ：制作人兼词曲家，[斑点狗乐队前成员](../Page/斑點狗_\(樂隊\).md "wikilink")。曾参加SMTM4，同为AOMG队成员，本名为David
-    Kim。
+  - ：制作人兼词曲家，[斑点狗乐队前成员](../Page/斑點狗_\(樂隊\).md "wikilink")。曾参加SMTM4，同为AOMG队成员，本名为David Kim。
 
 **Mad Clown & Gill队**
 
-  - ：通常以歌手及制作人的身份为大众所知，组合[Phantom成员并隶属](../Page/Phantom_\(韓國組合\).md "wikilink")[Brand
-    New
-    Music旗下](../Page/Brand_New_Music.md "wikilink")，SMTM4参赛者的哥哥。起初作为Rapper出道的艺名为Fassnakuh。
+  - ：通常以歌手及制作人的身份为大众所知，组合[Phantom成员并隶属](../Page/Phantom_\(韓國組合\).md "wikilink")[Brand New Music旗下](../Page/Brand_New_Music.md "wikilink")，SMTM4参赛者的哥哥。起初作为Rapper出道的艺名为Fassnakuh。
 
   - Donutman：独立Rapper，曾签约现已结业的。
 
-  - ：曾参加[STARSHIP娛樂的偶像团体出道节目No](../Page/STARSHIP娛樂.md "wikilink")
-    Mercy，但最终无缘出道。SMTM4亚军[宋旻浩的表弟](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")，签约[STARSHIP娛樂旗下](../Page/STARSHIP娛樂.md "wikilink")。
+  - ：曾参加[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")的偶像团体出道节目No Mercy，但最终无缘出道。SMTM4亚军[宋旻浩的表弟](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")，签约[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")旗下。
 
   - Boi B：[Rhythm Power成员](../Page/Rhythm_Power.md "wikilink")，隶属旗下。
 
@@ -88,15 +63,11 @@ SMTM5的比赛过程与[Show Me The Money
 
   - ：多次参加SMTM，但均在1对1Rap对决回合遭淘汰。与Superbee组成82 Hottest MC's团体。
 
-  - ：前[Aziatix成员](../Page/Aziatix.md "wikilink")，参加洛杉矶面试通过，[Timbaland在洛杉矶海选中认为表现最好的选手](../Page/提姆巴蘭.md "wikilink")。曾在2013至2014年所属[Lil
-    Wayne的](../Page/小韋恩.md "wikilink")。
+  - ：前[Aziatix](../Page/Aziatix.md "wikilink")成员，参加洛杉矶面试通过，[Timbaland在洛杉矶海选中认为表现最好的选手](../Page/提姆巴蘭.md "wikilink")。曾在2013至2014年所属[Lil Wayne的](../Page/小韋恩.md "wikilink")。
 
-  - 金孝恩，曾参加SMTM3，因在与Tarae的1对1Rap对决中获胜而引人瞩目。艺名为Kenny
-    Raw。现签约[ILLIONAIRE旗下厂牌AMBITION](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")
-    MUSIK。
+  - 金孝恩，曾参加SMTM3，因在与Tarae的1对1Rap对决中获胜而引人瞩目。艺名为Kenny Raw。现签约[ILLIONAIRE旗下厂牌AMBITION](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink") MUSIK。
 
-  - [Superbee](https://zh.wikipedia.org/wiki/Superbee "wikilink")，曾参加SMTM4，为YG队成员。此季参加洛杉矶面试通过。参加了SMTM开播至今所有的赛季，与myunDo组成82
-    Hottest MC's团体。
+  - [Superbee](https://zh.wikipedia.org/wiki/Superbee "wikilink")，曾参加SMTM4，为YG队成员。此季参加洛杉矶面试通过。参加了SMTM开播至今所有的赛季，与myunDo组成82 Hottest MC's团体。
 
 ## 回合
 
@@ -392,8 +363,7 @@ SMTM5特别公演阵容
 
 由主持人抽签决定可以优先选择对阵对手的团队。
 
-同样，规则仍然是观众根据Rapper们的公演表现投票累积竞演收入，获得收入相对较低的团队表演者将被淘汰。Mad Clown &
-Gill队全员被淘汰。
+同样，规则仍然是观众根据Rapper们的公演表现投票累积竞演收入，获得收入相对较低的团队表演者将被淘汰。Mad Clown & Gill队全员被淘汰。
 
 <table>
 <caption>公演对阵[4]</caption>
@@ -502,8 +472,7 @@ Gill队全员被淘汰。
 
 ### 第九轮－总决赛
 
-[BewhY取得了第一轮公演的优胜](../Page/BewhY.md "wikilink")，并最终获得胜利。AOMG队最终获得了Show
-Me The Money 5的胜利。
+[BewhY](../Page/BewhY.md "wikilink")取得了第一轮公演的优胜，并最终获得胜利。AOMG队最终获得了Show Me The Money 5的胜利。
 
 #### 第一轮
 
@@ -635,9 +604,7 @@ Me The Money 5的胜利。
 | **Junoflo**                                                       | \-               | 通过 |
 | ****                                                              | \-               | 通过 |
 
-**其他参赛者：**[鄭埻夏](../Page/鄭埻夏.md "wikilink")（演员、主持人）、（后参加[高等Rapper获得冠军](../Page/高等Rapper.md "wikilink")）、[禹泰云](https://zh.wikipedia.org/wiki/禹泰云 "wikilink")（[Zico的哥哥](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")）、Hash
-Swan（节目结束后签约ILLIONAIRE旗下的厂牌AMBITION MUSIK）、（后参加[Unpretty Rapstar
-3获得冠军](../Page/Unpretty_Rapstar_3.md "wikilink")）
+**其他参赛者：**[鄭埻夏](../Page/鄭埻夏.md "wikilink")（演员、主持人）、（后参加[高等Rapper](../Page/高等Rapper.md "wikilink")获得冠军）、[禹泰云](https://zh.wikipedia.org/wiki/禹泰云 "wikilink")（[Zico的哥哥](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")）、Hash Swan（节目结束后签约ILLIONAIRE旗下的厂牌AMBITION MUSIK）、（后参加[Unpretty Rapstar 3获得冠军](../Page/Unpretty_Rapstar_3.md "wikilink")）
 
 ## 音源销量
 
@@ -1051,10 +1018,7 @@ Swan（节目结束后签约ILLIONAIRE旗下的厂牌AMBITION MUSIK）、（后�
 
   - [Show Me The Money 5](http://www.mnet.com/tv/program/1633) - 官方网站
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:韩国音乐比赛](https://zh.wikipedia.org/wiki/Category:韩国音乐比赛 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:韩国音乐比赛](https://zh.wikipedia.org/wiki/Category:韩国音乐比赛 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
 1.
 

@@ -1,19 +1,14 @@
-**Kiasmos**是由音樂家[Ólafur
-Arnalds和](https://zh.wikipedia.org/wiki/Ólafur_Arnalds "wikilink")[Janus
-Rasmussen於](https://zh.wikipedia.org/wiki/Janus_Rasmussen "wikilink")2009年組成的[冰島實驗電子計劃組合](https://zh.wikipedia.org/wiki/冰島 "wikilink")\[1\]，後來加入英國音樂廠牌[Erased
-Tapes Records](../Page/Erased_Tapes_Records.md "wikilink")。
+**Kiasmos**是由音樂家[Ólafur Arnalds和](https://zh.wikipedia.org/wiki/Ólafur_Arnalds "wikilink")[Janus Rasmussen於](https://zh.wikipedia.org/wiki/Janus_Rasmussen "wikilink")2009年組成的[冰島實驗電子計劃組合](https://zh.wikipedia.org/wiki/冰島 "wikilink")\[1\]，後來加入英國音樂廠牌[Erased Tapes Records](../Page/Erased_Tapes_Records.md "wikilink")。
 
 ## 團隊成員
 
 ### Ólafur Arnalds
 
-奥拉佛·阿納爾德斯（，）是曾獲得[英國電影學院獎配樂大獎的](https://zh.wikipedia.org/wiki/英國電影學院獎 "wikilink")[冰島](https://zh.wikipedia.org/wiki/冰島 "wikilink")[莫斯費德斯拜爾](https://zh.wikipedia.org/wiki/莫斯費德斯拜爾 "wikilink")[作曲家和音樂製作人](https://zh.wikipedia.org/wiki/作曲家 "wikilink")，擅長融合管弦樂、鋼琴回聲、和電子鼓聲響，製做氛圍音樂、電子歌曲，曾經為樂團Fighting
-Shit、Celestine⋯⋯等金屬樂團鼓手。
+奥拉佛·阿納爾德斯（，）是曾獲得[英國電影學院獎配樂大獎的](https://zh.wikipedia.org/wiki/英國電影學院獎 "wikilink")[冰島](https://zh.wikipedia.org/wiki/冰島 "wikilink")[莫斯費德斯拜爾](https://zh.wikipedia.org/wiki/莫斯費德斯拜爾 "wikilink")[作曲家和音樂製作人](https://zh.wikipedia.org/wiki/作曲家 "wikilink")，擅長融合管弦樂、鋼琴回聲、和電子鼓聲響，製做氛圍音樂、電子歌曲，曾經為樂團Fighting Shit、Celestine⋯⋯等金屬樂團鼓手。
 
 ### Janus Rasmussen
 
-來自[丹麥](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[法羅群島的Janus](https://zh.wikipedia.org/wiki/法羅群島 "wikilink")
-Rasmussen是Bloodgroup的成員之一\[2\]。
+來自[丹麥](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[法羅群島的Janus](https://zh.wikipedia.org/wiki/法羅群島 "wikilink") Rasmussen是Bloodgroup的成員之一\[2\]。
 
 ## 發行作品
 

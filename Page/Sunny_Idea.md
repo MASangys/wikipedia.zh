@@ -1,7 +1,4 @@
-**意晴**（**Sunny
-Idea**），[香港](../Page/香港.md "wikilink")[唱片公司成立於](../Page/唱片公司.md "wikilink")2013年
-及**HKonlineTV**
-網絡電視成立於2014年。公司現時主要負責[歌手和](../Page/歌手.md "wikilink")[藝人經紀業務](https://zh.wikipedia.org/wiki/藝人 "wikilink")，旗下著名歌手和藝人包括[王灝兒](../Page/王灝兒.md "wikilink")、[關楚耀](../Page/關楚耀.md "wikilink")、[董嘉儀等](../Page/董嘉儀.md "wikilink")。
+**意晴**（**Sunny Idea**），[香港](../Page/香港.md "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")成立於2013年 及**HKonlineTV** 網絡電視成立於2014年。公司現時主要負責[歌手](../Page/歌手.md "wikilink")和[藝人經紀業務](https://zh.wikipedia.org/wiki/藝人 "wikilink")，旗下著名歌手和藝人包括[王灝兒](../Page/王灝兒.md "wikilink")、[關楚耀](../Page/關楚耀.md "wikilink")、[董嘉儀](../Page/董嘉儀.md "wikilink")等。
 
 ## 旗下藝人
 
@@ -83,7 +80,7 @@ Idea**），[香港](../Page/香港.md "wikilink")[唱片公司成立於](../Pag
 <td><p>小故事</p></td>
 </tr>
 <tr class="odd">
-<td><p>colspan = "23" | 2018年</p></td>
+<td><p>colspan = "23" | 2019年</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -101,25 +98,12 @@ Idea**），[香港](../Page/香港.md "wikilink")[唱片公司成立於](../Pag
 <td><p>死亡之吻</p></td>
 <td><p>飢餓遊戲</p></td>
 <td><p>求生</p></td>
-<td></td>
+<td><p>寫真家‬‬</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/野仔" title="wikilink">Yellow!</a></p></td>
-<td></td>
-<td></td>
-<td><p>跟車太貼</p></td>
-<td><p>唔紅有原因</p></td>
-<td><p>一生青春<br />
-与<a href="../Page/RubberBand.md" title="wikilink">RubberBand合唱</a></p></td>
-<td><p>老佛爺</p></td>
-<td><p>嫌小姐</p></td>
-<td><p>大約在冬至</p></td>
-<td><p>火熱泡菜啦啦啦</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/王灝兒.md" title="wikilink">王灝兒</a></p></td>
 <td></td>
 <td></td>
@@ -129,9 +113,9 @@ Idea**），[香港](../Page/香港.md "wikilink")[唱片公司成立於](../Pag
 <td><p>I Just Wanna Stay With You</p></td>
 <td><p>維多利亞</p></td>
 <td><p>主宰</p></td>
-<td></td>
+<td><p>逃生門‬</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -275,6 +259,4 @@ Indian Curry Mix Live Jam Session</p></td>
 
   - [HKonlineTV](https://www.youtube.com/user/HKonlineTV)的Youtube的官方頻道
 
-[Category:香港唱片公司](https://zh.wikipedia.org/wiki/Category:香港唱片公司 "wikilink")
-[Category:香港藝人經紀公司](https://zh.wikipedia.org/wiki/Category:香港藝人經紀公司 "wikilink")
-[Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink")
+[Category:香港唱片公司](https://zh.wikipedia.org/wiki/Category:香港唱片公司 "wikilink") [Category:香港藝人經紀公司](https://zh.wikipedia.org/wiki/Category:香港藝人經紀公司 "wikilink") [Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink")

@@ -1,5 +1,4 @@
-《**Running
-Man**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台的綜藝節目](../Page/SBS_\(韓國\).md "wikilink")，受到多國觀眾熱烈歡迎，節目製作組舉行海外巡演，感謝粉絲對節目支持。
+《**Running Man**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台的綜藝節目](../Page/SBS_\(韓國\).md "wikilink")，受到多國觀眾熱烈歡迎，節目製作組舉行海外巡演，感謝粉絲對節目支持。
 
 ## 巡演
 
@@ -355,6 +354,29 @@ HKD480</p></td>
 <td><p><a href="../Page/亞洲國際博覽館.md" title="wikilink">亞洲國際博覽館</a></p></td>
 <td><p>(全體成員)</p></td>
 <td><p>HKD1,480、HKD1,280、HKD980、HKD680、HKD480</p></td>
+</tr>
+</tbody>
+</table>
+
+### 2019年：Running Man ‘KEEP ON RUNNING’ Live in Jakarta
+
+<table>
+<thead>
+<tr class="header">
+<th><p>日期</p></th>
+<th><p>國家或地區</p></th>
+<th><p>場地</p></th>
+<th><p>出席之節目成員</p></th>
+<th><p>票價</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>8月17日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/印尼" title="wikilink">印尼</a><a href="https://zh.wikipedia.org/wiki/雅加達" title="wikilink">雅加達</a></p></td>
+<td></td>
+<td><p>(全體成員)</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

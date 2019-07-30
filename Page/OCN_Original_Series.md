@@ -1,9 +1,4 @@
-**OCN Original
-Series**（），是[韓國有線頻道](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN自家製作電視劇的品牌](../Page/OCN_\(頻道\).md "wikilink")\[1\]。主題內容大膽創新，包括犯罪、刑偵、神秘、穿越﹑翻拍外國劇集作品﹑甚至靈異驅魔。首部“OCN
-Original
-Series”劇集於2006年誕生，惟當時OCN的劇集以**非固定**'形式安排在週末(星期五﹑六﹑日)的不同時間段播出，也不是一部接一部連續播放。2017年1月14日起本節目固定為逢星期六日晚10時播放。
-由2018年9月12日起，OCN增加全新水木經典連續劇時段，逢星期三﹑四晚11時播映，首部作品為《[客：The
-Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
+**OCN Original Series**（），是[韓國有線頻道](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN自家製作電視劇的品牌](../Page/OCN_\(頻道\).md "wikilink")\[1\]。主題內容大膽創新，包括犯罪、刑偵、神秘、穿越﹑翻拍外國劇集作品﹑甚至靈異驅魔。首部“OCN Original Series”劇集於2006年誕生，惟當時OCN的劇集以**非固定**'形式安排在週末(星期五﹑六﹑日)的不同時間段播出，也不是一部接一部連續播放。2017年1月14日起本節目固定為逢星期六日晚10時播放。 由2018年9月12日起，OCN增加全新水木經典連續劇時段，逢星期三﹑四晚11時播映，首部作品為《[客：The Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 
 ## 播映時間變遷
 
@@ -549,7 +544,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <tr class="even">
 <td><p>2011年6月10日－<br />
 2011年8月26日</p></td>
-<td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗2</a><br />
+<td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗</a>2<br />
 </p></td>
 <td><p>12</p></td>
 <td><p><a href="../Page/柳德煥.md" title="wikilink">柳德煥</a>、<a href="../Page/尹周熙.md" title="wikilink">尹周熙</a>、<a href="../Page/崔政宇.md" title="wikilink">崔政宇</a>、<a href="../Page/朴俊勉.md" title="wikilink">朴俊勉</a>、<a href="../Page/金大鎮.md" title="wikilink">金大鎮</a></p></td>
@@ -618,7 +613,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <tr class="odd">
 <td><p>2012年5月20日－<br />
 2012年8月12日</p></td>
-<td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗3</a><br />
+<td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗</a>3<br />
 </p></td>
 <td><p>12</p></td>
 <td><p><a href="../Page/柳德煥.md" title="wikilink">柳德煥</a>、<a href="../Page/崔政宇.md" title="wikilink">崔政宇</a>、<a href="../Page/朴俊勉.md" title="wikilink">朴俊勉</a>、<a href="../Page/金大鎮.md" title="wikilink">金大鎮</a></p></td>
@@ -629,7 +624,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <tr class="even">
 <td><p>2012年9月9日－<br />
 2012年11月18日</p></td>
-<td><p><a href="../Page/吸血鬼檢察官.md" title="wikilink">吸血鬼檢察官2</a><br />
+<td><p><a href="../Page/吸血鬼檢察官.md" title="wikilink">吸血鬼檢察官</a>2<br />
 </p></td>
 <td><p>12</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/延政勳" title="wikilink">延政勳</a>、<a href="../Page/李英雅.md" title="wikilink">李英雅</a>、<a href="../Page/李原種.md" title="wikilink">李原種</a></p></td>
@@ -676,7 +671,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <tr class="odd">
 <td><p>2013年4月14日－<br />
 2013年6月30日</p></td>
-<td><p><a href="../Page/特殊案件專案組TEN.md" title="wikilink">特殊案件專案組TEN2</a><br />
+<td><p><a href="../Page/特殊案件專案組TEN.md" title="wikilink">特殊案件專案組TEN</a>2<br />
 </p></td>
 <td><p>10</p></td>
 <td><p><a href="../Page/朱相昱.md" title="wikilink">朱相昱</a>、<a href="../Page/趙安_(韓國藝人).md" title="wikilink">趙安</a>、<a href="../Page/金相浩.md" title="wikilink">金相浩</a>、<a href="../Page/崔宇植.md" title="wikilink">崔宇植</a></p></td>
@@ -723,7 +718,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <tr class="odd">
 <td><p>2014年5月18日－<br />
 2014年8月3日</p></td>
-<td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗4</a><br />
+<td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗</a>4<br />
 </p></td>
 <td><p>12</p></td>
 <td><p><a href="../Page/柳德煥.md" title="wikilink">柳德煥</a>、<a href="../Page/尹周熙.md" title="wikilink">尹周熙</a>、<a href="../Page/朴俊勉.md" title="wikilink">朴俊勉</a>、<a href="../Page/東海_(藝人).md" title="wikilink">東海</a>、<a href="../Page/金栽經.md" title="wikilink">金栽經</a></p></td>
@@ -814,7 +809,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <tr class="even">
 <td><p>2015年8月23日－<br />
 2015年10月18日</p></td>
-<td><p><a href="../Page/能看見鬼的警察處容.md" title="wikilink">能看見鬼的警察處容2</a><br />
+<td><p><a href="../Page/能看見鬼的警察處容.md" title="wikilink">能看見鬼的警察處容</a>2<br />
 </p></td>
 <td><p>10</p></td>
 <td><p><a href="../Page/吳智昊.md" title="wikilink">吳智昊</a>、<a href="../Page/全烋星.md" title="wikilink">全烋星</a>、<a href="../Page/河戀姝.md" title="wikilink">河戀姝</a></p></td>
@@ -946,7 +941,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <td><p><a href="../Page/救救我.md" title="wikilink">救救我</a><br />
 </p></td>
 <td><p>16</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/玉澤演" title="wikilink">玉澤演</a>、<a href="../Page/徐睿知.md" title="wikilink">徐睿知</a>、<a href="https://zh.wikipedia.org/wiki/禹棹奐" title="wikilink">禹棹奐</a>、<a href="../Page/趙成夏.md" title="wikilink">趙成夏</a>、<a href="../Page/朴智英.md" title="wikilink">朴智英</a>、<a href="../Page/趙在允.md" title="wikilink">趙在允</a></p></td>
+<td><p><a href="../Page/玉澤演.md" title="wikilink">玉澤演</a>、<a href="../Page/徐睿知.md" title="wikilink">徐睿知</a>、<a href="https://zh.wikipedia.org/wiki/禹棹奐" title="wikilink">禹棹奐</a>、<a href="../Page/趙成夏.md" title="wikilink">趙成夏</a>、<a href="../Page/朴智英.md" title="wikilink">朴智英</a>、<a href="../Page/趙在允.md" title="wikilink">趙在允</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭新圭" title="wikilink">鄭新圭</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金成洙" title="wikilink">金成洙</a></p></td>
 <td><p>原作：<a href="https://zh.wikipedia.org/wiki/趙錦山" title="wikilink">趙錦山</a>《走出世界》</p></td>
@@ -1048,7 +1043,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <td><p><a href="../Page/Player_(韓國電視劇).md" title="wikilink">Player</a><br />
 </p></td>
 <td><p>14</p></td>
-<td><p><a href="../Page/宋承憲.md" title="wikilink">宋承憲</a>、<a href="https://zh.wikipedia.org/wiki/Krystal" title="wikilink">Krystal</a></p></td>
+<td><p><a href="../Page/宋承憲.md" title="wikilink">宋承憲</a>、<a href="https://zh.wikipedia.org/wiki/Krystal" title="wikilink">Krystal</a>、<a href="../Page/李施彥.md" title="wikilink">李施彥</a>、</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/申載亨" title="wikilink">申載亨</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/高再賢" title="wikilink">高再賢</a></p></td>
 <td><p>打破收視紀錄</p></td>
@@ -1125,12 +1120,12 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <tr class="odd">
 <td><p>2019年7月6日－<br />
 2019年8月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Watcher" title="wikilink">Watcher</a><br />
+<td><p><a href="../Page/Watcher.md" title="wikilink">Watcher</a><br />
 </p></td>
 <td><p>16</p></td>
 <td><p><a href="../Page/韓石圭.md" title="wikilink">韓石圭</a>、<a href="../Page/徐康俊.md" title="wikilink">徐康俊</a>、<a href="../Page/金賢珠.md" title="wikilink">金賢珠</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安吉镐" title="wikilink">安吉镐</a></p></td>
-<td><p>韓相雲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韓相雲" title="wikilink">韓相雲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安吉鎬" title="wikilink">安吉鎬</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1174,7 +1169,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <tr class="odd">
 <td><p>2018年11月14日－<br />
 2019年1月10日</p></td>
-<td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗：重啟</a><br />
+<td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗</a>：重啟<br />
 </p></td>
 <td><p>16</p></td>
 <td><p><a href="../Page/柳德煥.md" title="wikilink">柳德煥</a>、<a href="../Page/尹周熙.md" title="wikilink">尹周熙</a>、<a href="../Page/朴俊勉.md" title="wikilink">朴俊勉</a>、<a href="../Page/金載沅.md" title="wikilink">金載沅</a>、<a href="https://zh.wikipedia.org/wiki/尹寶拉" title="wikilink">尹寶拉</a>、<a href="../Page/朴孝珠.md" title="wikilink">朴孝珠</a></p></td>
@@ -1232,12 +1227,12 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <tr class="even">
 <td><p>2019年7月17日－<br />
 2019年 月 日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/臨時制先生" title="wikilink">臨時制先生</a><br />
+<td><p><a href="../Page/臨時制先生.md" title="wikilink">臨時制先生</a><br />
 </p></td>
 <td></td>
-<td><p><a href="../Page/尹鈞相.md" title="wikilink">尹鈞相</a>、<a href="https://zh.wikipedia.org/wiki/琴賽璐" title="wikilink">琴賽璐</a>、<a href="../Page/李濬榮.md" title="wikilink">李濬榮</a>、<a href="../Page/崔有華.md" title="wikilink">崔有華</a></p></td>
-<td><p>成容日</p></td>
-<td></td>
+<td><p><a href="../Page/尹鈞相.md" title="wikilink">尹鈞相</a>、<a href="https://zh.wikipedia.org/wiki/琴世祿" title="wikilink">琴世祿</a>、<a href="../Page/李濬榮.md" title="wikilink">李濬榮</a>、<a href="../Page/崔有華.md" title="wikilink">崔有華</a></p></td>
+<td><p>張洪哲</p></td>
+<td><p>成勇日</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1259,15 +1254,10 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 
 ## 外部連結
 
-  - [OCN Original Series
-    Instagram](https://www.instagram.com/ocn_original/)
+  - [OCN Original Series Instagram](https://www.instagram.com/ocn_original/)
   - [OCN Original Series 官方部落格](https://blog.naver.com/ocnblog)
 
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink")
-[Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink") [Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
 
 1.
 2.

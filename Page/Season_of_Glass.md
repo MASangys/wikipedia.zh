@@ -1,25 +1,15 @@
-《**Season of
-Glass**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND作為出道作品的首張迷你專輯](../Page/GFRIEND.md "wikilink")，由[Source
-Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，KT音樂發行，於2015年1月15日推出。此專輯為「校園系列三部曲」的第一部曲，以《유리구슬（Glass
-Bead）》為主打歌曲。《Season of Glass》曾於[Gaon
-Chart專輯週榜排行第](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")9，並售出超過1萬張。
+《**Season of Glass**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")作為出道作品的首張迷你專輯，由[Source Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，KT音樂發行，於2015年1月15日推出。此專輯為「校園系列三部曲」的第一部曲，以《유리구슬（Glass Bead）》為主打歌曲。《Season of Glass》曾於[Gaon Chart專輯週榜排行第](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")9，並售出超過1萬張。
 
-GFRIEND於韓國各大音樂節目表演及宣傳專輯。GFRIEND出道時，時常被外界與[少女時代出道時作出比較](https://zh.wikipedia.org/wiki/少女時代 "wikilink")；主打歌曲《유리구슬（Glass
-Bead）》則與少女時代的出道單曲《[Into The New
-World](../Page/再次重逢的世界.md "wikilink")》作比較\[1\]\[2\]\[3\]。
+GFRIEND於韓國各大音樂節目表演及宣傳專輯。GFRIEND出道時，時常被外界與[少女時代出道時作出比較](https://zh.wikipedia.org/wiki/少女時代 "wikilink")；主打歌曲《유리구슬（Glass Bead）》則與少女時代的出道單曲《[Into The New World](../Page/再次重逢的世界.md "wikilink")》作比較\[1\]\[2\]\[3\]。
 
 ## 概述
 
-《유리구슬(Glass Bead)》是作曲家團隊Lee Ki Yong
-Bae為[GFRIEND量身打造的出道曲](../Page/GFRIEND.md "wikilink")，主打歌〈유리구슬(Glass
-Bead)〉用「玻璃珠」來比喻這六位小女生，看似脆弱易碎，實際上卻是能夠為心愛的人而堅強的內容，活潑輕快的旋律與青春洋溢的舞蹈動作，讓人印象深刻。
+《유리구슬(Glass Bead)》是作曲家團隊Lee Ki Yong Bae為[GFRIEND](../Page/GFRIEND.md "wikilink")量身打造的出道曲，主打歌〈유리구슬(Glass Bead)〉用「玻璃珠」來比喻這六位小女生，看似脆弱易碎，實際上卻是能夠為心愛的人而堅強的內容，活潑輕快的旋律與青春洋溢的舞蹈動作，讓人印象深刻。
 
 ## 事件
 
-  - 2014年11月初，所屬公司Source
-    Music透過官方Facebook釋出了旗下女子團體[GFRIEND預計將於](../Page/GFRIEND.md "wikilink")11月出道。
-  - 1月5日，所屬公司Source
-    Music正式宣布原定在2014年11月出道的[GFRIEND將在](../Page/GFRIEND.md "wikilink")1月15日正式出道。
+  - 2014年11月初，所屬公司Source Music透過官方Facebook釋出了旗下女子團體[GFRIEND](../Page/GFRIEND.md "wikilink")預計將於11月出道。
+  - 1月5日，所屬公司Source Music正式宣布原定在2014年11月出道的[GFRIEND](../Page/GFRIEND.md "wikilink")將在1月15日正式出道。
   - 1月7日，團體預告透過官方YouTube頻道公開，預告的背景音樂帶有一絲神秘感，配合著音樂，GFRIEND們穿著潔白的運動風服裝，從畫面的遠方走向前，接著鏡頭一一帶到成員們的正臉，清純與青春的魅力，讓人印象深刻。
 
 ## 曲目
@@ -141,10 +131,7 @@ Bead)〉用「玻璃珠」來比喻這六位小女生，看似脆弱易碎，實
   -
   -
   -
-[Category:GFRIEND](https://zh.wikipedia.org/wiki/Category:GFRIEND "wikilink")
-[Category:GFRIEND音乐专辑](https://zh.wikipedia.org/wiki/Category:GFRIEND音乐专辑 "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
+[Category:GFRIEND](https://zh.wikipedia.org/wiki/Category:GFRIEND "wikilink") [Category:GFRIEND音乐专辑](https://zh.wikipedia.org/wiki/Category:GFRIEND音乐专辑 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
 
 1.
 2.

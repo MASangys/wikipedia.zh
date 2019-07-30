@@ -1,7 +1,4 @@
-**Intel Core
-M**是屬於[英特爾酷睿的](https://zh.wikipedia.org/wiki/英特尔酷睿 "wikilink")[超低電壓微處理器系列](../Page/CULV.md "wikilink")，專為超薄[筆記本電腦](../Page/筆記型電腦.md "wikilink")，2合1可拆卸部件和其他移動設備而設計。所有Core
-M微處理器的[散熱設計功耗](../Page/热设计功耗.md "wikilink")（TDP）為4.5
-[瓦或更低](../Page/瓦特.md "wikilink")。由於TDP較低，英特爾酷睿M微處理器無風扇。
+**Intel Core M**是屬於[英特爾酷睿的](https://zh.wikipedia.org/wiki/英特尔酷睿 "wikilink")[超低電壓微處理器系列](../Page/CULV.md "wikilink")，專為超薄[筆記本電腦](../Page/筆記型電腦.md "wikilink")，2合1可拆卸部件和其他移動設備而設計。所有Core M微處理器的[散熱設計功耗](../Page/热设计功耗.md "wikilink")（TDP）為4.5 [瓦或更低](../Page/瓦特.md "wikilink")。由於TDP較低，英特爾酷睿M微處理器無風扇。
 
 ## Broadwell-Y (SoC, 雙核, 14 nm)
 

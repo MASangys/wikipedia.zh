@@ -1,14 +1,8 @@
-**株式會社Seven Arcs
-Pictures**（，）是[日本的](../Page/日本.md "wikilink")[動畫製作公司](../Page/日本动画.md "wikilink")，[Seven
-Arcs的相關企業](../Page/Seven_Arcs.md "wikilink")。
+**株式會社Seven Arcs Pictures**（，）是[日本](../Page/日本.md "wikilink")的[動畫製作公司](../Page/日本动画.md "wikilink")，[Seven Arcs的相關企業](../Page/Seven_Arcs.md "wikilink")。
 
-2004年，Seven
-Arcs藉《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》正式涉足製作電視動畫。2012年，其創辦人上村修設立**Seven
-Arcs Pictures**並移轉實質製作部門至新公司\[1\]。Seven Arcs Pictures的主要業務為製作動畫，而Seven
-Arcs目前則主要負責企劃、製片和版權管理。
+2004年，Seven Arcs藉《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》正式涉足製作電視動畫。2012年，其創辦人上村修設立**Seven Arcs Pictures**並移轉實質製作部門至新公司\[1\]。Seven Arcs Pictures的主要業務為製作動畫，而Seven Arcs目前則主要負責企劃、製片和版權管理。
 
-2017年12月26日，Seven Arcs
-Pictures動畫製作公司宣布该公司被[TBS收購](../Page/TBS.md "wikilink")。\[2\]
+2017年12月26日，Seven Arcs Pictures動畫製作公司宣布该公司被[TBS](../Page/TBS.md "wikilink")收購。\[2\]
 
 ## 作品列表
 
@@ -58,7 +52,7 @@ Pictures動畫製作公司宣布该公司被[TBS收購](../Page/TBS.md "wikilink
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>
-<td><p><a href="../Page/我的朋友很少.md" title="wikilink">我的朋友很少NEXT</a></p></td>
+<td><p><a href="../Page/我的朋友很少.md" title="wikilink">我的朋友很少</a>NEXT</p></td>
 <td><p><a href="../Page/動畫國際公司.md" title="wikilink">AIC Build</a></p></td>
 </tr>
 <tr class="odd">
@@ -68,7 +62,7 @@ Pictures動畫製作公司宣布该公司被[TBS收購](../Page/TBS.md "wikilink
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
-<td><p><a href="../Page/約會大作戰.md" title="wikilink">約會大作戰Ⅱ</a></p></td>
+<td><p><a href="../Page/約會大作戰.md" title="wikilink">約會大作戰</a>Ⅱ</p></td>
 <td><p><a href="../Page/Production_IMS.md" title="wikilink">Production IMS</a></p></td>
 </tr>
 <tr class="odd">
@@ -78,7 +72,7 @@ Pictures動畫製作公司宣布该公司被[TBS收購](../Page/TBS.md "wikilink
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
-<td><p><a href="../Page/果然我的青春戀愛喜劇搞錯了。.md" title="wikilink">果然我的青春戀愛喜劇搞錯了。續</a></p></td>
+<td><p><a href="../Page/果然我的青春戀愛喜劇搞錯了。.md" title="wikilink">果然我的青春戀愛喜劇搞錯了。</a>續</p></td>
 <td><p>feel.</p></td>
 </tr>
 <tr class="odd">
@@ -113,7 +107,7 @@ Pictures動畫製作公司宣布该公司被[TBS收購](../Page/TBS.md "wikilink
 </tr>
 <tr class="odd">
 <td><p>2016年</p></td>
-<td><p><a href="../Page/莉露莉露妖精.md" title="wikilink">莉露莉露妖精～妖精之門～</a></p></td>
+<td><p><a href="../Page/莉露莉露妖精.md" title="wikilink">莉露莉露妖精</a>～妖精之門～</p></td>
 <td><p>STUDIO DEEN</p></td>
 </tr>
 <tr class="even">
@@ -128,7 +122,7 @@ Pictures動畫製作公司宣布该公司被[TBS收購](../Page/TBS.md "wikilink
 </tr>
 <tr class="even">
 <td><p>2016年</p></td>
-<td><p><a href="../Page/傷物語.md" title="wikilink">傷物語〈Ⅰ 鐵血篇〉</a></p></td>
+<td><p><a href="../Page/傷物語.md" title="wikilink">傷物語 鐵血篇〉</a>〈Ⅰ</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -201,10 +195,7 @@ Pictures動畫製作公司宣布该公司被[TBS收購](../Page/TBS.md "wikilink
 ## 外部連結
 
   -
-[Category:Seven_Arcs](https://zh.wikipedia.org/wiki/Category:Seven_Arcs "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:練馬區公司](https://zh.wikipedia.org/wiki/Category:練馬區公司 "wikilink")
-[Category:2012年成立的公司](https://zh.wikipedia.org/wiki/Category:2012年成立的公司 "wikilink")
+[Category:Seven_Arcs](https://zh.wikipedia.org/wiki/Category:Seven_Arcs "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:練馬區公司](https://zh.wikipedia.org/wiki/Category:練馬區公司 "wikilink") [Category:2012年成立的公司](https://zh.wikipedia.org/wiki/Category:2012年成立的公司 "wikilink")
 
 1.
 2.  [TBS、「リリカルなのは」製作のアニメ会社を買収](http://www.itmedia.co.jp/business/spv/1712/26/news106.html)

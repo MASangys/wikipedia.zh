@@ -2,8 +2,7 @@
 
 ## 經歴
 
-曾擔任過的助手。2002年，開始在[白泉社雜誌](../Page/白泉社.md "wikilink")《[Young
-Animal](../Page/Young_Animal.md "wikilink")》連載《》。
+曾擔任過的助手。2002年，開始在[白泉社](../Page/白泉社.md "wikilink")雜誌《[Young Animal](../Page/Young_Animal.md "wikilink")》連載《》。
 
 2009年繼續在《Young Animal》2010年1號\[1\]開始至2014年21號\[2\]連載《》。
 
@@ -12,8 +11,7 @@ Animal](../Page/Young_Animal.md "wikilink")》連載《》。
 ### 人物、作風
 
   - 連載《》、《》期間一致以不想努力、不上進、無藥可救（日文所謂的“”）的題材為故事內容。
-  - 性別雖然未公開，不過在助手原著漫畫《漫家！ R's Bar
-    ～漫家集店～》曾經以戴著黑色面罩、很像[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[職業摔角手](../Page/職業摔角.md "wikilink")的形象角色在作品中登場。
+  - 性別雖然未公開，不過在助手原著漫畫《漫家！ R's Bar ～漫家集店～》曾經以戴著黑色面罩、很像[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[職業摔角](../Page/職業摔角.md "wikilink")手的形象角色在作品中登場。
 
 ## 作品列表
 
@@ -71,9 +69,7 @@ Animal](../Page/Young_Animal.md "wikilink")》連載《》。
 
 ## 來源
 
-[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink")
-[Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.
 2.

@@ -1,10 +1,10 @@
-《**BLUEMING**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE的第六張韓語迷你專輯](../Page/CNBLUE.md "wikilink")，於2016年4月4日發行\[1\]，主打曲目為《美好的你》（）。
+《**BLUEMING**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第六張韓語迷你專輯，於2016年4月4日發行\[1\]，主打曲目為《美好的你》（）。
 
 ## 背景
 
-2016年3月16日，韓國媒體《mydaily》報導CNBLUE將會在4月推出新作品\[2\]，隨後3月22日[FNC娛樂公佈CNBLUE會在](../Page/FNC娛樂.md "wikilink")4月4日發行迷你專輯《BLUEMING》\[3\]。
+2016年3月16日，韓國媒體《mydaily》報導CNBLUE將會在4月推出新作品\[2\]，隨後3月22日[FNC娛樂](../Page/FNC娛樂.md "wikilink")公佈CNBLUE會在4月4日發行迷你專輯《BLUEMING》\[3\]。
 
-3月30日，官方公開完整專輯曲目名單\[4\]；專輯歌曲試聽影片則於4月1日在官方[YouTube頻道推出](../Page/YouTube.md "wikilink")\[5\]；而主打曲《美好的你》音樂錄影帶在4月4日隨專輯音源公開\[6\]。
+3月30日，官方公開完整專輯曲目名單\[4\]；專輯歌曲試聽影片則於4月1日在官方[YouTube](../Page/YouTube.md "wikilink")頻道推出\[5\]；而主打曲《美好的你》音樂錄影帶在4月4日隨專輯音源公開\[6\]。
 
 ## 曲目
 
@@ -71,7 +71,7 @@
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 總銷量    |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 總銷量    |
 | ---------------------------------------- | ---- | ------ |
 | 專輯年榜                                     | 417  | 10,690 |
 
@@ -133,10 +133,7 @@
 
 ## 参考文献
 
-[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
-[Category:CNBLUE音樂專輯](https://zh.wikipedia.org/wiki/Category:CNBLUE音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:CNBLUE音樂專輯](https://zh.wikipedia.org/wiki/Category:CNBLUE音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

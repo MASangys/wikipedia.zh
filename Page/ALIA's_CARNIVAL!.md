@@ -1,10 +1,4 @@
-《**ALIA's
-CARNIVAL\!**》是日本[NanaWind在](../Page/NanaWind.md "wikilink")2014年3月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2015年5月29日發售續作《**ALIA's
-CARNIVAL\! Flowering Sky**》。\[3\]\[4\]2015年10月29日由dramatic
-create發售[PlayStation
-Vita版](../Page/PlayStation_Vita.md "wikilink")《**ALIA's CARNIVAL\!
-サクラメント**》。\[5\]\[6\]2016年5月27日發售合集《**ALIA's CARNIVAL\!
-Wパッケージ**》。\[7\]
+《**ALIA's CARNIVAL\!**》是日本[NanaWind](../Page/NanaWind.md "wikilink")在2014年3月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2015年5月29日發售續作《**ALIA's CARNIVAL\! Flowering Sky**》。\[3\]\[4\]2015年10月29日由dramatic create發售[PlayStation Vita版](../Page/PlayStation_Vita.md "wikilink")《**ALIA's CARNIVAL\! サクラメント**》。\[5\]\[6\]2016年5月27日發售合集《**ALIA's CARNIVAL\! Wパッケージ**》。\[7\]
 
 ## 故事
 
@@ -131,39 +125,20 @@ Wパッケージ**》。\[7\]
 
 ## 評價
 
-《ALIA's
-CARNIVAL\!》在[萌系遊戲大賞舉辦的](../Page/萌系遊戲大賞.md "wikilink")2014年間排名獲得第25名\[12\]和2014年3月的月間賞第4名。\[13\]《ALIA's
-CARNIVAL\! Flowering
-Sky》也在萌系遊戲大賞舉辦的2015年間排名中獲得第25名\[14\]和2015年5月的月間賞第2名。\[15\]《[Fami通](../Page/Fami通.md "wikilink")》1403号的クロスレビュー對PlayStation
-Vita版給予27/40評分。\[16\]
+《ALIA's CARNIVAL\!》在[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")舉辦的2014年間排名獲得第25名\[12\]和2014年3月的月間賞第4名。\[13\]《ALIA's CARNIVAL\! Flowering Sky》也在萌系遊戲大賞舉辦的2015年間排名中獲得第25名\[14\]和2015年5月的月間賞第2名。\[15\]《[Fami通](../Page/Fami通.md "wikilink")》1403号的クロスレビュー對PlayStation Vita版給予27/40評分。\[16\]
 
 ## 參考來源
 
 ## 外部連結
 
   - [ALIA's CARNIVAL\!](http://nanawind.jp/product/prj02/)NanaWind
-  - [ALIA's
-    CARNIVAL\!](http://moeapp.net/special/aliascarnival.html)萌えAPP
-  - [ALIA's CARNIVAL\!中文版官方網站](http://hikarifield.co.jp/alia/)HIKARI
-    FIELD
-  - [ALIA's CARNIVAL\! Flowering
-    Sky](http://nanawind.jp/product/prj03/index.html)NanaWind
-  - [ALIA's CARNIVAL\! Flowering
-    Sky](http://moeapp.net/special/floweringsky.html)萌えAPP
-  - [ALIA's CARNIVAL\!
-    サクラメント](http://www.dramaticcreate.com/aliascarnival/)dramatic
-    create
+  - [ALIA's CARNIVAL\!](http://moeapp.net/special/aliascarnival.html)萌えAPP
+  - [ALIA's CARNIVAL\!中文版官方網站](http://hikarifield.co.jp/alia/)HIKARI FIELD
+  - [ALIA's CARNIVAL\! Flowering Sky](http://nanawind.jp/product/prj03/index.html)NanaWind
+  - [ALIA's CARNIVAL\! Flowering Sky](http://moeapp.net/special/floweringsky.html)萌えAPP
+  - [ALIA's CARNIVAL\! サクラメント](http://www.dramaticcreate.com/aliascarnival/)dramatic create
 
-[Category:2014年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2014年日本成人遊戲 "wikilink")
-[Category:2015年電子遊戲](https://zh.wikipedia.org/wiki/Category:2015年電子遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
-[Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
+[Category:2014年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2014年日本成人遊戲 "wikilink") [Category:2015年電子遊戲](https://zh.wikipedia.org/wiki/Category:2015年電子遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
 
 1.
 2.
@@ -171,9 +146,7 @@ Vita版給予27/40評分。\[16\]
 4.
 5.
 6.
-7.  [【TG SCOOP】NanaWind最新作『ALIA's CARNIVAL\! Wパッケージ』は『ALIA's
-    CARNIVAL\!』とその続編『フラワリングスカイ』の豪華セット！](http://www.tgsmart.jp/article.aspx?a=12343)[TECH
-    GIAN](../Page/TECH_GIAN.md "wikilink")
+7.  [【TG SCOOP】NanaWind最新作『ALIA's CARNIVAL\! Wパッケージ』は『ALIA's CARNIVAL\!』とその続編『フラワリングスカイ』の豪華セット！](http://www.tgsmart.jp/article.aspx?a=12343)[TECH GIAN](../Page/TECH_GIAN.md "wikilink")
 8.
 9.
 10.

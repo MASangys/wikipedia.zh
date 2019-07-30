@@ -10,7 +10,7 @@
 
   - **火神砲**（紅）：火神砲擁有很大的攻擊範圍，缺點是單發威力相當弱小。不過如果是近距離發射的話，會有驚人的威力，甚至可5秒消滅BOSS。
   - **電漿雷射**（藍）：電漿雷射擁有威力強大的特性，缺點是攻擊的範圍相當小（值得注意的是6等雷射攻擊範圍比7等雷射略大）。
-  - **質子電漿雷射**（紫）：[質子電漿射擁有類似追蹤飛彈的追蹤性](../Page/質子.md "wikilink")，且威力介於[電漿雷射與火神砲之間](https://zh.wikipedia.org/wiki/電漿 "wikilink")，缺點是要達到追蹤功能需要連射一段時間，本作新增散射模式，發射三條較小的雷射適用掃蕩戰場小敵人。
+  - **質子電漿雷射**（紫）：[質子](../Page/質子.md "wikilink")電漿射擁有類似追蹤飛彈的追蹤性，且威力介於[電漿雷射與火神砲之間](https://zh.wikipedia.org/wiki/電漿 "wikilink")，缺點是要達到追蹤功能需要連射一段時間，本作新增散射模式，發射三條較小的雷射適用掃蕩戰場小敵人。
 
 與上一代相同，有暴風飛彈(M)及追蹤飛彈(H)同時新增了一款[雷達導引飛彈](https://zh.wikipedia.org/wiki/雷達 "wikilink")(R)，威力比追蹤飛彈強但只有正前方的有限追蹤力。\[2\]
 
@@ -26,14 +26,7 @@ ORIGINAL模式為五關打兩遍，LIGHT模式較簡易只需一遍就破關，�
 
 ## 参考文献
 
-[Category:雷电系列](https://zh.wikipedia.org/wiki/Category:雷电系列 "wikilink")
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink")
-[Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink")
-[Category:太東遊戲](https://zh.wikipedia.org/wiki/Category:太東遊戲 "wikilink")
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
+[Category:雷电系列](https://zh.wikipedia.org/wiki/Category:雷电系列 "wikilink") [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink") [Category:太東遊戲](https://zh.wikipedia.org/wiki/Category:太東遊戲 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
 
 1.  [雷電4官網360](http://raiden.mossjp.co.jp/raiden4/x360/)
 2.  [雷電部落格](http://raiden4.air-nifty.com/blog/)

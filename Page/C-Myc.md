@@ -1,4 +1,4 @@
-**C-Myc**或**Myc**是编码[转录因子的](../Page/转录因子.md "wikilink")。这一基因编码的蛋白在[细胞核内被](https://zh.wikipedia.org/wiki/细胞核 "wikilink")[磷酸化](../Page/磷酸化.md "wikilink")，有多种功能：在[细胞周期进程](https://zh.wikipedia.org/wiki/细胞周期 "wikilink")、[细胞凋亡和细胞](../Page/细胞凋亡.md "wikilink")[轉化中发挥作用](https://zh.wikipedia.org/wiki/轉化_\(生物\) "wikilink")。\[1\]
+**C-Myc**或**Myc**是编码[转录因子](../Page/转录因子.md "wikilink")的。这一基因编码的蛋白在[细胞核内被](https://zh.wikipedia.org/wiki/细胞核 "wikilink")[磷酸化](../Page/磷酸化.md "wikilink")，有多种功能：在[细胞周期进程](https://zh.wikipedia.org/wiki/细胞周期 "wikilink")、[细胞凋亡](../Page/细胞凋亡.md "wikilink")和细胞[轉化中发挥作用](https://zh.wikipedia.org/wiki/轉化_\(生物\) "wikilink")。\[1\]
 
 ## 相互作用
 
@@ -26,8 +26,7 @@ Myc可与以下蛋白质发生[交互作用](../Page/蛋白質交互作用.md "w
   - [P73](../Page/P73.md "wikilink")\[40\]
   - [PCAF](https://zh.wikipedia.org/wiki/PCAF "wikilink")\[41\]
   - [PFDN5](https://zh.wikipedia.org/wiki/PFDN5 "wikilink")\[42\]\[43\]
-  - [RuvB-like
-    1](https://zh.wikipedia.org/wiki/RuvB-like_1 "wikilink")\[44\]\[45\]
+  - [RuvB-like 1](https://zh.wikipedia.org/wiki/RuvB-like_1 "wikilink")\[44\]\[45\]
   - [SAP130](https://zh.wikipedia.org/wiki/SAP130 "wikilink")\[46\]
   - [SMAD2](https://zh.wikipedia.org/wiki/Mothers_against_decapentaplegic_homolog_2 "wikilink")\[47\]
   - [SMAD3](https://zh.wikipedia.org/wiki/Mothers_against_decapentaplegic_homolog_3 "wikilink")\[48\]
@@ -50,8 +49,7 @@ Myc可与以下蛋白质发生[交互作用](../Page/蛋白質交互作用.md "w
 
 [Category:转录因子](https://zh.wikipedia.org/wiki/Category:转录因子 "wikilink")
 
-1.  [Myc myelocytomatosis oncogene \[ Mus musculus (house
-    mouse)](https://www.ncbi.nlm.nih.gov/gene/17869)\]
+1.  [Myc myelocytomatosis oncogene \[ Mus musculus (house mouse)](https://www.ncbi.nlm.nih.gov/gene/17869)\]
 
 2.
 3.

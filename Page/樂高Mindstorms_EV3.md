@@ -1,13 +1,10 @@
-**樂高機器人 Mindstorms
-EV3**是樂高集團所製造第三代的可程式即可組合[機器人玩具](https://zh.wikipedia.org/wiki/機器人 "wikilink")（第一代為RCX，第二代為NXT）。整組的套件包含了感測器及連接線。[樂高](../Page/樂高.md "wikilink")（LEGO）于2013年下旬推出樂高公司和美國[麻省理工學院](https://zh.wikipedia.org/wiki/麻省理工學院 "wikilink")（MIT）共同開發的機器人組件新款“教育用LEGO
-Mindstorms
-EV3”\[1\]。Mindstorms是將配備微處理器的LEGO公司的塑膠積木組裝起來，通過[個人電腦制作的程式來控制的](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")。
+**樂高機器人 Mindstorms EV3**是樂高集團所製造第三代的可程式即可組合[機器人玩具](https://zh.wikipedia.org/wiki/機器人 "wikilink")（第一代為RCX，第二代為NXT）。整組的套件包含了感測器及連接線。[樂高](../Page/樂高.md "wikilink")（LEGO）于2013年下旬推出樂高公司和美國[麻省理工學院](https://zh.wikipedia.org/wiki/麻省理工學院 "wikilink")（MIT）共同開發的機器人組件新款“教育用LEGO Mindstorms EV3”\[1\]。Mindstorms是將配備微處理器的LEGO公司的塑膠積木組裝起來，通過[個人電腦制作的程式來控制的](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")。
 
 ## [RCX與](https://zh.wikipedia.org/wiki/RCX "wikilink")[NXT及EV](https://zh.wikipedia.org/wiki/乐高Mindstorms_NXT "wikilink")3的比較
 
 ## 電子零件
 
-EV3可外接[馬達](https://zh.wikipedia.org/wiki/馬達 "wikilink")、[感應器等組件](https://zh.wikipedia.org/wiki/感應器 "wikilink")，以下[樂高原廠提供的組件](../Page/樂高.md "wikilink")，此外，也有樂高以外的廠商製作相容於NXT、EV3的感應器。
+EV3可外接[馬達](https://zh.wikipedia.org/wiki/馬達 "wikilink")、[感應器等組件](https://zh.wikipedia.org/wiki/感應器 "wikilink")，以下[樂高](../Page/樂高.md "wikilink")原廠提供的組件，此外，也有樂高以外的廠商製作相容於NXT、EV3的感應器。
 
   - 可程式控制積木（EV3主機）
   - 伺服馬達（大）
@@ -35,8 +32,7 @@ EV3可外接[馬達](https://zh.wikipedia.org/wiki/馬達 "wikilink")、[感應�
 
   - [EV3-G](https://zh.wikipedia.org/wiki/EV3-G "wikilink")
   - [BricxCC](https://zh.wikipedia.org/wiki/BricxCC "wikilink")
-  - [LabVIEW for EV3
-    Module](https://zh.wikipedia.org/wiki/LabVIEW_for_EV3_Module "wikilink")
+  - [LabVIEW for EV3 Module](https://zh.wikipedia.org/wiki/LabVIEW_for_EV3_Module "wikilink")
   - [RobotC](https://zh.wikipedia.org/wiki/RobotC "wikilink")
   - [leJOS](https://zh.wikipedia.org/wiki/leJOS "wikilink")
   - [MonoBrick](https://zh.wikipedia.org/wiki/MonoBrick "wikilink")
@@ -44,8 +40,7 @@ EV3可外接[馬達](https://zh.wikipedia.org/wiki/馬達 "wikilink")、[感應�
   - [python-ev3](https://zh.wikipedia.org/wiki/python-ev3 "wikilink")
   - [MATLAB](../Page/MATLAB.md "wikilink")
   - [Node.js](../Page/Node.js.md "wikilink")
-  - [Ch Mindstorms NXT Control
-    Package](https://zh.wikipedia.org/wiki/Ch_Mindstorms_NXT_Control_Package "wikilink")
+  - [Ch Mindstorms NXT Control Package](https://zh.wikipedia.org/wiki/Ch_Mindstorms_NXT_Control_Package "wikilink")
   - [C和](https://zh.wikipedia.org/wiki/C语言 "wikilink")[C++](../Page/C++.md "wikilink")
 
 ## 參見
@@ -58,9 +53,6 @@ EV3可外接[馬達](https://zh.wikipedia.org/wiki/馬達 "wikilink")、[感應�
 ## 參考資料
 
   -
-[Category:乐高](https://zh.wikipedia.org/wiki/Category:乐高 "wikilink")
-[Category:教学玩具](https://zh.wikipedia.org/wiki/Category:教学玩具 "wikilink")
-[Category:嵌入式系统](https://zh.wikipedia.org/wiki/Category:嵌入式系统 "wikilink")
-[Category:电子玩具](https://zh.wikipedia.org/wiki/Category:电子玩具 "wikilink")
+[Category:乐高](https://zh.wikipedia.org/wiki/Category:乐高 "wikilink") [Category:教学玩具](https://zh.wikipedia.org/wiki/Category:教学玩具 "wikilink") [Category:嵌入式系统](https://zh.wikipedia.org/wiki/Category:嵌入式系统 "wikilink") [Category:电子玩具](https://zh.wikipedia.org/wiki/Category:电子玩具 "wikilink")
 
 1.

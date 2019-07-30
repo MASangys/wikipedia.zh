@@ -1,7 +1,4 @@
-《**金裝律師**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
-2TV於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2018年4月25日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")，由《[推理的女王](../Page/推理的女王.md "wikilink")》金振宇導演、金正敏作家合作打造。此劇改編自[美國電視劇](https://zh.wikipedia.org/wiki/美國 "wikilink")《[Suits](https://zh.wikipedia.org/wiki/金裝律師 "wikilink")》，\[1\]\[2\]\[3\]講述一名資深著名律師遇到一位沒念過法學院、沒有執照卻有超強記憶力的新人律師，成為法律界黃金拍檔的故事。\[4\]\[5\]\[6\]
-台灣由愛奇藝台灣站4/26起，每周四、五上午10點播出。新加坡由新傳媒U頻道5/26起，每周六、日晚間9點以雙聲道（華語及韓語）播出。香港地區在
-[Viu](../Page/Viu.md "wikilink") 可以免費收看。
+《**金裝律師**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS 2TV於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2018年4月25日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")，由《[推理的女王](../Page/推理的女王.md "wikilink")》金振宇導演、金正敏作家合作打造。此劇改編自[美國電視劇](https://zh.wikipedia.org/wiki/美國 "wikilink")《[Suits](https://zh.wikipedia.org/wiki/金裝律師 "wikilink")》，\[1\]\[2\]\[3\]講述一名資深著名律師遇到一位沒念過法學院、沒有執照卻有超強記憶力的新人律師，成為法律界黃金拍檔的故事。\[4\]\[5\]\[6\] 台灣由愛奇藝台灣站4/26起，每周四、五上午10點播出。新加坡由新傳媒U頻道5/26起，每周六、日晚間9點以雙聲道（華語及韓語）播出。香港地區在 [Viu](../Page/Viu.md "wikilink") 可以免費收看。
 
 ## 演員陣容
 
@@ -331,7 +328,7 @@
 
 ## 其他搭配歌曲
 
-  - 台灣[東森戲劇台版本](../Page/東森戲劇台.md "wikilink")
+  - 台灣[東森戲劇台](../Page/東森戲劇台.md "wikilink")版本
       - 片頭曲：[信](../Page/信_\(歌手\).md "wikilink")《煉金術》
 
 ## 收視率
@@ -463,12 +460,9 @@
 
 ## 同時段競爭作品
 
-  - [MBC](../Page/文化廣播公司.md "wikilink")
-    [水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")：《[牽著手，看夕陽西下](../Page/牽著手，看夕陽西下.md "wikilink")》、《[過來抱抱我](../Page/過來抱抱我.md "wikilink")》
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [特別劇](../Page/SBS特別劇.md "wikilink")：《[Switch－改變世界](../Page/Switch－改變世界.md "wikilink")》、《[訓南正音](../Page/訓南正音.md "wikilink")》
-  - [tvN](../Page/TVN.md "wikilink")
-    [水木連續劇](../Page/TvN水木連續劇.md "wikilink")：《[我的大叔](../Page/我的大叔.md "wikilink")》、《[金秘書為何那樣](../Page/金秘書為何那樣.md "wikilink")》
+  - [MBC](../Page/文化廣播公司.md "wikilink") [水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")：《[牽著手，看夕陽西下](../Page/牽著手，看夕陽西下.md "wikilink")》、《[過來抱抱我](../Page/過來抱抱我.md "wikilink")》
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink") [特別劇](../Page/SBS特別劇.md "wikilink")：《[Switch－改變世界](../Page/Switch－改變世界.md "wikilink")》、《[訓南正音](../Page/訓南正音.md "wikilink")》
+  - [tvN](../Page/TVN.md "wikilink") [水木連續劇](../Page/TvN水木連續劇.md "wikilink")：《[我的大叔](../Page/我的大叔.md "wikilink")》、《[金秘書為何那樣](../Page/金秘書為何那樣.md "wikilink")》
 
 ## 注釋
 
@@ -478,24 +472,15 @@
 
   - [韓國KBS官方網站](http://www.kbs.co.kr/drama/suits/)
   - [金裝律師-BLOG](https://m.post.naver.com/my/series/detail.nhn?memberNo=34609460&seriesNo=452015&prevVolumeNo=15978980)
-  - [Suits
-    (韓國電視劇)-DAUM](https://web.archive.org/web/20180510202149/http://movie.daum.net/tv/main?tvProgramId=81175)
+  - [Suits (韓國電視劇)-DAUM](https://web.archive.org/web/20180510202149/http://movie.daum.net/tv/main?tvProgramId=81175)
   - [Suits (韓國電視劇)-NAVER](http://m.entertain.naver.com/tvBrand/6358077)
 
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:律師題材電視劇](https://zh.wikipedia.org/wiki/Category:律師題材電視劇 "wikilink")
-[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
-[Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
-[Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
-[Category:翻拍電視劇](https://zh.wikipedia.org/wiki/Category:翻拍電視劇 "wikilink")
+[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:律師題材電視劇](https://zh.wikipedia.org/wiki/Category:律師題材電視劇 "wikilink") [Category:無照律師](https://zh.wikipedia.org/wiki/Category:無照律師 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink") [Category:翻拍電視劇](https://zh.wikipedia.org/wiki/Category:翻拍電視劇 "wikilink")
 
 1.
-2.  ['슈츠' 장동건X박형식, 최강 투톱 브로맨스..열정의
-    대본리딩](http://entertain.naver.com/read?oid=109&aid=0003740956)
+2.  ['슈츠' 장동건X박형식, 최강 투톱 브로맨스..열정의 대본리딩](http://entertain.naver.com/read?oid=109&aid=0003740956)
 3.
-4.  [【2018韓劇 Suits／韓劇金裝律師】電視劇 Suits
-    劇情介紹～張東健、朴炯植](https://chi.gogoblog.tw/blogview.php?blogid=3430)，小宅戲劇週記，2018-02-19
+4.  [【2018韓劇 Suits／韓劇金裝律師】電視劇 Suits 劇情介紹～張東健、朴炯植](https://chi.gogoblog.tw/blogview.php?blogid=3430)，小宅戲劇週記，2018-02-19
 5.
 6.
 7.

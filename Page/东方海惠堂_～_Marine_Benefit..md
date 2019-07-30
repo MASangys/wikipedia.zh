@@ -16,7 +16,7 @@
 
 ### 气泡
 
-在部分BOSS的[符卡中](../Page/符卡.md "wikilink")，玩家会被要求进入气泡中。此后，如果自机触碰到了气泡的边界，就会被判定为miss（被击中）。
+在部分BOSS的[符卡](../Page/符卡.md "wikilink")中，玩家会被要求进入气泡中。此后，如果自机触碰到了气泡的边界，就会被判定为miss（被击中）。
 
 ## 剧情
 
@@ -99,11 +99,7 @@
   - [东方海惠堂主页](http://rgbxyz.org/th_kaikeidou/top.html)
   - [原色空间主页](http://rgbxyz.org/index)
 
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:东方Project的二次创作](https://zh.wikipedia.org/wiki/Category:东方Project的二次创作 "wikilink")
-[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
-[Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
-[Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
+[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:东方Project的二次创作](https://zh.wikipedia.org/wiki/Category:东方Project的二次创作 "wikilink") [Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
 
 1.
 

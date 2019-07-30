@@ -1,16 +1,12 @@
-是由[萬代南夢宮娛樂製作并发行在](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")[Xbox
-One](../Page/Xbox_One.md "wikilink")、[PlayStation
-4](../Page/PlayStation_4.md "wikilink")、[Windows上的格鬥電子遊戲](https://zh.wikipedia.org/wiki/Windows "wikilink")。本作以集結[集英社旗下漫畫雜誌](../Page/集英社.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》的角色，并庆祝该漫畫雜誌50周年纪念為主題。遊戲在2018年[E3游戏展的微软展前发布会中正式公布](https://zh.wikipedia.org/wiki/E3游戏展 "wikilink")，採用[虛幻引擎](https://zh.wikipedia.org/wiki/虛幻引擎 "wikilink")4研發，預計於2019年2月15日推出。
+是由[萬代南夢宮娛樂製作并发行在](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")[Xbox One](../Page/Xbox_One.md "wikilink")、[PlayStation 4](../Page/PlayStation_4.md "wikilink")、[Windows上的格鬥電子遊戲](https://zh.wikipedia.org/wiki/Windows "wikilink")。本作以集結[集英社](../Page/集英社.md "wikilink")旗下漫畫雜誌《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》的角色，并庆祝该漫畫雜誌50周年纪念為主題。遊戲在2018年[E3游戏展的微软展前发布会中正式公布](https://zh.wikipedia.org/wiki/E3游戏展 "wikilink")，採用[虛幻引擎](https://zh.wikipedia.org/wiki/虛幻引擎 "wikilink")4研發，預計於2019年2月15日推出。
 
-在公佈的預告影片中，有《七龍珠》的[孫悟空](../Page/孙悟空_\(七龙珠\).md "wikilink")、[弗利沙](../Page/弗利沙.md "wikilink")、《ONE
-PIECE》的[-{zh-hant:蒙奇·D·路飛;zh-hans:蒙奇·D·路飞;zh-tw:蒙其·D·魯夫;zh-hk:莫奇·D·路飛;zh-mo:莫奇·D·路飛;}-](../Page/蒙其·D·魯夫.md "wikilink")、《火影忍者》的[漩渦鳴人](../Page/漩渦鳴人.md "wikilink")、《-{zh-tw:死亡筆記本;zh-hans:死亡笔记;zh-hant:死亡筆記本;zh-hk:死亡筆記;zh-mo:死亡筆記本;}-》的[夜神月和](../Page/夜神月.md "wikilink")-{zh-hans:流愚;zh-hk:流克;zh-sg:龙轲;zh-tw:路克;}-等角色登場。\[1\]\[2\]
+在公佈的預告影片中，有《七龍珠》的[孫悟空](../Page/孙悟空_\(七龙珠\).md "wikilink")、[弗利沙](../Page/弗利沙.md "wikilink")、《ONE PIECE》的[-{zh-hant:蒙奇·D·路飛;zh-hans:蒙奇·D·路飞;zh-tw:蒙其·D·魯夫;zh-hk:莫奇·D·路飛;zh-mo:莫奇·D·路飛;}-](../Page/蒙其·D·魯夫.md "wikilink")、《火影忍者》的[漩渦鳴人](../Page/漩渦鳴人.md "wikilink")、《-{zh-tw:死亡筆記本;zh-hans:死亡笔记;zh-hant:死亡筆記本;zh-hk:死亡筆記;zh-mo:死亡筆記本;}-》的[夜神月](../Page/夜神月.md "wikilink")和-{zh-hans:流愚;zh-hk:流克;zh-sg:龙轲;zh-tw:路克;}-等角色登場。\[1\]\[2\]
 
 ## 玩法
 
 ## 故事大纲
 
-一個大反派想要利用「縞瑪瑙之書（Onyx
-Book）」重建世界，結果似乎導致了各個漫畫世界以及玩家所處的世界交錯到了一起，並造成了巨大的混亂和破壞；那些漫畫世界被稱作「Jump」，里面出現了很多敵人，所幸也有一批名為「J-Force」的英雄來御敵，玩家也有機會和他們一起作戰。
+一個大反派想要利用「縞瑪瑙之書（Onyx Book）」重建世界，結果似乎導致了各個漫畫世界以及玩家所處的世界交錯到了一起，並造成了巨大的混亂和破壞；那些漫畫世界被稱作「Jump」，里面出現了很多敵人，所幸也有一批名為「J-Force」的英雄來御敵，玩家也有機會和他們一起作戰。
 
 ## 登场人物
 
@@ -61,7 +57,7 @@ Book）」重建世界，結果似乎導致了各個漫畫世界以及玩家所�
   - [小杰·富力士](https://zh.wikipedia.org/wiki/小杰·富力士 "wikilink")
   - [奇犽·揍敵客](../Page/奇犽·揍敵客.md "wikilink")
   - [酷拉皮卡](../Page/酷拉皮卡.md "wikilink")
-  - [西索·莫羅](../Page/西索.md "wikilink")
+  - [西索](../Page/西索.md "wikilink")·莫羅
   - [比司吉·酷露佳](https://zh.wikipedia.org/wiki/HUNTER×HUNTER角色列表#比司吉·酷露佳 "wikilink")\*\[8\]
 
 #### [遊戲王](../Page/遊戲王.md "wikilink")
@@ -115,6 +111,12 @@ Book）」重建世界，結果似乎導致了各個漫畫世界以及玩家所�
 
   - [達伊（小呆）](https://zh.wikipedia.org/wiki/勇者鬥惡龍_達伊的大冒險#主要登場人物 "wikilink")
 
+#### 原创角色
+
+  - \*\[10\]
+
+  - \*\[11\]
+
 ### 非操作角色
 
 #### [死亡笔记](../Page/死亡笔记.md "wikilink")
@@ -126,12 +128,9 @@ Book）」重建世界，結果似乎導致了各個漫畫世界以及玩家所�
 
   -
   -
-  -
-  -
 ## 评价
 
-《JUMP
-FORCE》收到褒贬不一的评价，GameRankings与Metacritic等网站批评该游戏没有足够的女性角色可选，并批评该游戏除了故事模式之外没有其他模式可玩。有些玩家甚至认为该游戏的情况与《》相当类似。\[10\]\[11\]然而，Twinfinite.net网站批评该游戏的头目战斗实在过于简单，不过认为战斗系统还是能享受乐趣既又愉快。\[12\]
+《JUMP FORCE》收到褒贬不一的评价，GameRankings与Metacritic等网站批评该游戏没有足够的女性角色可选，并批评该游戏除了故事模式之外没有其他模式可玩。有些玩家甚至认为该游戏的情况与《》相当类似。\[12\]\[13\]然而，Twinfinite.net网站批评该游戏的头目战斗实在过于简单，不过认为战斗系统还是能享受乐趣既又愉快。\[14\]
 
 ## 关连项目
 
@@ -144,17 +143,7 @@ FORCE》收到褒贬不一的评价，GameRankings与Metacritic等网站批评�
 ## 外部链接
 
   -
-[Category:2019年电子游戏](https://zh.wikipedia.org/wiki/Category:2019年电子游戏 "wikilink")
-[Category:格斗游戏](https://zh.wikipedia.org/wiki/Category:格斗游戏 "wikilink")
-[Category:Spike_Chunsoft游戏](https://zh.wikipedia.org/wiki/Category:Spike_Chunsoft游戏 "wikilink")
-[Category:万代南梦宫游戏](https://zh.wikipedia.org/wiki/Category:万代南梦宫游戏 "wikilink")
-[Category:Xbox_One游戏](https://zh.wikipedia.org/wiki/Category:Xbox_One游戏 "wikilink")
-[Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:Steam商店游戏](https://zh.wikipedia.org/wiki/Category:Steam商店游戏 "wikilink")
-[Category:漫畫改編電子遊戲](https://zh.wikipedia.org/wiki/Category:漫畫改編電子遊戲 "wikilink")
-[Category:虚幻引擎游戏](https://zh.wikipedia.org/wiki/Category:虚幻引擎游戏 "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
+[Category:2019年电子游戏](https://zh.wikipedia.org/wiki/Category:2019年电子游戏 "wikilink") [Category:格斗游戏](https://zh.wikipedia.org/wiki/Category:格斗游戏 "wikilink") [Category:Spike_Chunsoft游戏](https://zh.wikipedia.org/wiki/Category:Spike_Chunsoft游戏 "wikilink") [Category:万代南梦宫游戏](https://zh.wikipedia.org/wiki/Category:万代南梦宫游戏 "wikilink") [Category:Xbox_One游戏](https://zh.wikipedia.org/wiki/Category:Xbox_One游戏 "wikilink") [Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Steam商店游戏](https://zh.wikipedia.org/wiki/Category:Steam商店游戏 "wikilink") [Category:漫畫改編電子遊戲](https://zh.wikipedia.org/wiki/Category:漫畫改編電子遊戲 "wikilink") [Category:虚幻引擎游戏](https://zh.wikipedia.org/wiki/Category:虚幻引擎游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
 1.
 
@@ -168,10 +157,11 @@ FORCE》收到褒贬不一的评价，GameRankings与Metacritic等网站批评�
 7.
 8.
 9.
-10. <https://www.gamerankings.com/browse.html?search=Jump+Force&numrev=3&site=>
+10. <http://www.yxdown.com/news/201907/457733.html>
 
-11. <https://www.metacritic.com/game/xbox-one/jump-force>
+11.
+12. <https://www.gamerankings.com/browse.html?search=Jump+Force&numrev=3&site=>
 
-12. Madsen, Haynes. "[Jump Force
-    Review](https://twinfinite.net/2019/02/jump-force-review/)".
-    Twinfinite.net. Twinfinite. Retrieved 2019-02-15.
+13. <https://www.metacritic.com/game/xbox-one/jump-force>
+
+14. Madsen, Haynes. "[Jump Force Review](https://twinfinite.net/2019/02/jump-force-review/)". Twinfinite.net. Twinfinite. Retrieved 2019-02-15.

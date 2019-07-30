@@ -1,14 +1,12 @@
-是由著、擔任插畫的日本[輕小說作品](../Page/輕小說.md "wikilink")，最初在[TECH
-GIAN連載](../Page/TECH_GIAN.md "wikilink")，由enterbrain發售，全部7集。\[1\]Schwarzesmarken是[Muv-Luv](../Page/Muv-Luv.md "wikilink")（マブラヴ）系列的[衍生作品](../Page/衍生作品.md "wikilink")，除了輕小說外也有發售電腦遊戲\[2\]，2016年1月開始播放電視動畫。Schwarzes-{}-marken是[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")，意思是「黑色标记」。日本又簡稱為「」或「柴犬（）」。\[3\]\[4\]
+是由著、擔任插畫的日本[輕小說](../Page/輕小說.md "wikilink")作品，最初在[TECH GIAN連載](../Page/TECH_GIAN.md "wikilink")，由enterbrain發售，全部7集。\[1\]Schwarzesmarken是[Muv-Luv](../Page/Muv-Luv.md "wikilink")（マブラヴ）系列的[衍生作品](../Page/衍生作品.md "wikilink")，除了輕小說外也有發售電腦遊戲\[2\]，2016年1月開始播放電視動畫。Schwarzes-{}-marken是[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")，意思是「黑色标记」。日本又簡稱為「」或「柴犬（）」。\[3\]\[4\]
 
 ## 設定
 
-âge在2009年12月26日發售官方機體設定集《MUV-LUV ALTERNATIVE INTEGRAL
-WORKS》\[5\]1年之後，內田弘樹提出以歐洲為背景描寫東德和西德的衛士訓練學校的學生展開艱苦奮戰故事的企劃書但吉宗鋼紀則是要求能有更多鐵腥和血腥味的故事，後來變更成描寫以1980年代為背景的東德軍故事。\[6\]\[7\]標題最初是由吉宗鋼紀提案「死神部隊」但沒有採用，後來經過與他人討論後從「黒牌（黒の札）」、「黒印（黒の印）」、「-{黒之宣告}-（黒の宣告）」、「Schwarz」、「Schwarzmarken」等…最後決定採用「-{Schwarzesmarken}-」。\[8\]
+âge在2009年12月26日發售官方機體設定集《MUV-LUV ALTERNATIVE INTEGRAL WORKS》\[5\]1年之後，內田弘樹提出以歐洲為背景描寫東德和西德的衛士訓練學校的學生展開艱苦奮戰故事的企劃書但吉宗鋼紀則是要求能有更多鐵腥和血腥味的故事，後來變更成描寫以1980年代為背景的東德軍故事。\[6\]\[7\]標題最初是由吉宗鋼紀提案「死神部隊」但沒有採用，後來經過與他人討論後從「黒牌（黒の札）」、「黒印（黒の印）」、「-{黒之宣告}-（黒の宣告）」、「Schwarz」、「Schwarzmarken」等…最後決定採用「-{Schwarzesmarken}-」。\[8\]
 
 ## 故事
 
-1973年外星生物BETA入侵地球後，[明斯克巢穴的BETA自](../Page/明斯克.md "wikilink")1983年開始向歐洲入侵。由於1978年由歐洲聯軍所發動的巴萊奧羅格斯作戰失敗，隔年波蘭遭到淪陷後，[東德成為抵禦BETA的前線並且陷入困境](../Page/東德.md "wikilink")。[東德國家人民軍最強的](../Page/國家人民軍.md "wikilink")[陸軍第](https://zh.wikipedia.org/wiki/國家人民軍陸軍_\(東德\) "wikilink")666戰術機中隊「黒之宣告」（）的隊員提奧多爾和中隊長愛麗絲蒂娜在戰場上解救凱蒂亞之後開始展開的歐洲戰場故事。
+1973年外星生物BETA入侵地球後，[明斯克](../Page/明斯克.md "wikilink")巢穴的BETA自1983年開始向歐洲入侵。由於1978年由歐洲聯軍所發動的巴萊奧羅格斯作戰失敗，隔年波蘭遭到淪陷後，[東德](../Page/東德.md "wikilink")成為抵禦BETA的前線並且陷入困境。[東德國家人民軍最強的](../Page/國家人民軍.md "wikilink")[陸軍第](https://zh.wikipedia.org/wiki/國家人民軍陸軍_\(東德\) "wikilink")666戰術機中隊「黒之宣告」（）的隊員提奧多爾和中隊長愛麗絲蒂娜在戰場上解救凱蒂亞之後開始展開的歐洲戰場故事。
 
 ## 登場人物
 
@@ -91,30 +89,23 @@ WORKS》\[5\]1年之後，內田弘樹提出以歐洲為背景描寫東德和西
 
 ## 戰術機
 
-戰術機（英語:Tactical Surface
-Fighter）指的是對抗BETA用的巨大人型兵器，全名是「戰術步行攻擊機」。BETA入侵之前的人類戰爭乃是以戰鬥機為中心而爭奪制空權的形式，但在具有強大地對空火力的BETA光線屬種出現之後，戰鬥機可說完全派不上用場了。因此人類在1974年開發出與BETA戰鬥用的巨大人型兵器「戰術機」。
+戰術機（英語:Tactical Surface Fighter）指的是對抗BETA用的巨大人型兵器，全名是「戰術步行攻擊機」。BETA入侵之前的人類戰爭乃是以戰鬥機為中心而爭奪制空權的形式，但在具有強大地對空火力的BETA光線屬種出現之後，戰鬥機可說完全派不上用場了。因此人類在1974年開發出與BETA戰鬥用的巨大人型兵器「戰術機」。
 
-  - [MiG-21三弦琴](https://zh.wikipedia.org/wiki/MiG-21 "wikilink")（MiG-21
-    バラライカ）
+  - [MiG-21三弦琴](https://zh.wikipedia.org/wiki/MiG-21 "wikilink")（MiG-21 バラライカ）
     [蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[米高揚－古列維奇設計局將F](../Page/俄羅斯米格航空器集團.md "wikilink")-4R修改而來的第1世代戰術機，東德軍的主力戰術機。
   - MiG-21PF三弦琴（MiG-21PF バラライカ）
     米高揚－古列維奇設計局在東德軍協助下開發出來的第1世代戰術機。
-  - [MiG-23大耳猴](https://zh.wikipedia.org/wiki/MiG-23 "wikilink")（MiG-23
-    チボラシュカ）
+  - [MiG-23大耳猴](https://zh.wikipedia.org/wiki/MiG-23 "wikilink")（MiG-23 チボラシュカ）
     針對提升MiG-21的機動格鬥戰能力而開發出來的準第二世代戰術機，由武裝警察軍使用。
   - MiG-23大耳猴改（チボラシュカ改）
     從MiG-23修改而來的戰術機。
-  - [MiG-27短吻鱷](https://zh.wikipedia.org/wiki/米格-27 "wikilink")（MiG-27
-    アリゲートル）
+  - [MiG-27短吻鱷](https://zh.wikipedia.org/wiki/米格-27 "wikilink")（MiG-27 アリゲートル）
     由武裝警察軍使用的戰術機，由蘇聯提供。
-  - [F-14雄貓](https://zh.wikipedia.org/wiki/F-14 "wikilink")（F-14
-    トムキャット）
-    [美國海軍所使用的第](../Page/美國海軍.md "wikilink")2世代戰術機。
-  - [A-10雷霆二式](https://zh.wikipedia.org/wiki/A-10 "wikilink")（A-10
-    サンダーボルトⅡ）
+  - [F-14雄貓](https://zh.wikipedia.org/wiki/F-14 "wikilink")（F-14 トムキャット）
+    [美國海軍](../Page/美國海軍.md "wikilink")所使用的第2世代戰術機。
+  - [A-10雷霆二式](https://zh.wikipedia.org/wiki/A-10 "wikilink")（A-10 サンダーボルトⅡ）
     由美國開發的突擊戰術機。
-  - [F-5自由鬥士](https://zh.wikipedia.org/wiki/F-5 "wikilink")（F-5
-    フリーダムファイター）
+  - [F-5自由鬥士](https://zh.wikipedia.org/wiki/F-5 "wikilink")（F-5 フリーダムファイター）
     由美國開發的戰術機，為填補戰術機配備缺額所開發的低成本戰術機。
   - F-5G/E/I 龍捲風（F-5G/E/I トーネード）
     由西德、英國、義大利共同出資成立帕拉維亞企業（パラヴィア・インダストリアル）所開發出來的第1世代戰術機。
@@ -221,8 +212,7 @@ Fighter）指的是對抗BETA用的巨大人型兵器，全名是「戰術步行
 ### 工作人員
 
   - 原作：吉宗鋼紀（ixtl/âge）\[10\]
-  - 原作劇本：內田弘樹（[Fami通文庫](../Page/Fami通文庫.md "wikilink")／[KADOKAWA](../Page/KADOKAWA.md "wikilink")
-    [enterbrain刊](https://zh.wikipedia.org/wiki/enterbrain "wikilink")）
+  - 原作劇本：內田弘樹（[Fami通文庫](../Page/Fami通文庫.md "wikilink")／[KADOKAWA](../Page/KADOKAWA.md "wikilink") [enterbrain刊](https://zh.wikipedia.org/wiki/enterbrain "wikilink")）
   - 角色原案：CARNELIAN
   - 監督：渡邊哲哉
   - 系列構成：樋口達人
@@ -236,8 +226,7 @@ Fighter）指的是對抗BETA用的巨大人型兵器，全名是「戰術步行
   - 3DCGI：SANZIGEN
   - 編集：長谷川舞
   - 音響監督：本山哲
-  - 音樂：Evan Call（[Elements
-    Garden](../Page/Elements_Garden.md "wikilink")）
+  - 音樂：Evan Call（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
   - 音樂製作：avex pictures
   - 音樂製作人：田中宏幸
   - 製作人：田中宏幸、山崎彬、紅谷佳和、清水美佳、松村俊輔、新宿五郎、馬場楊子
@@ -247,16 +236,14 @@ Fighter）指的是對抗BETA用的巨大人型兵器，全名是「戰術步行
 
 ### 主題曲
 
-  - 片頭曲「[white
-    forces](https://zh.wikipedia.org/wiki/white_forces "wikilink")」\[11\]（第2－12話）
+  - 片頭曲「[white forces](https://zh.wikipedia.org/wiki/white_forces "wikilink")」\[11\]（第2－12話）
     作詞、作曲、編曲：[八木沼悟志](../Page/八木沼悟志.md "wikilink")，主唱：[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")
     第1話未使用
 
 <!-- end list -->
 
   - 片尾曲「」\[12\]（第1－5、7－11話）
-    作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")，作曲、編曲：Evan Call（[Elements
-    Garden](../Page/Elements_Garden.md "wikilink")）
+    作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")，作曲、編曲：Evan Call（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
     主唱（第1－5、9－11話）：Zahre（[田中美海](../Page/田中美海.md "wikilink")、[山本希望](../Page/山本希望.md "wikilink")）
     主唱（第7話）：山本希望
     主唱（第8話）：田中美海
@@ -417,10 +404,7 @@ Sung-hui Han</p></td>
 
 ## 遊戲
 
-2015年11月27日由âge發售冒險類型PC遊戲《**Schwarzesmarken 紅血的紋章**》（シュヴァルツェスマーケン
-紅血の紋章）。\[13\]2016年10月28日發售續作《**Schwarzesmarken
-殉教者們**》（シュヴァルツェスマーケン
-殉教者たち）。\[14\]2016年1月1日âge公開Schwarzesmarken的即時戰略類型網頁遊戲《****》。\[15\]
+2015年11月27日由âge發售冒險類型PC遊戲《**Schwarzesmarken 紅血的紋章**》（シュヴァルツェスマーケン 紅血の紋章）。\[13\]2016年10月28日發售續作《**Schwarzesmarken 殉教者們**》（シュヴァルツェスマーケン 殉教者たち）。\[14\]2016年1月1日âge公開Schwarzesmarken的即時戰略類型網頁遊戲《****》。\[15\]
 
 ### 主題曲
 
@@ -497,16 +481,13 @@ Sung-hui Han</p></td>
 
 ## 廣播
 
-從2015年10月4日到2016年6月25日期間由[文化放送在毎週日](../Page/文化放送_\(日本\).md "wikilink")25點（深夜時間）到25點30分開始播放廣播節目《**Radio
-Schwarzesmarken**》（ラジオ
-シュヴァルツェスマーケン），2016年1月2日起改為毎週六26時到26時30分播放，主持人是由山本希望（愛麗絲蒂娜·伯恩哈德）、田中美海（凱蒂亞·瓦爾特海姆）來擔任。\[18\]
+從2015年10月4日到2016年6月25日期間由[文化放送在毎週日](../Page/文化放送_\(日本\).md "wikilink")25點（深夜時間）到25點30分開始播放廣播節目《**Radio Schwarzesmarken**》（ラジオ シュヴァルツェスマーケン），2016年1月2日起改為毎週六26時到26時30分播放，主持人是由山本希望（愛麗絲蒂娜·伯恩哈德）、田中美海（凱蒂亞·瓦爾特海姆）來擔任。\[18\]
 
 ## 相關條目
 
   - [Muv-Luv](../Page/Muv-Luv.md "wikilink")
   - [Muv-Luv Alternative](../Page/Muv-Luv_Alternative.md "wikilink")
-  - [Muv-Luv Alternative Total
-    Eclipse](../Page/Muv-Luv_Alternative_Total_Eclipse.md "wikilink")
+  - [Muv-Luv Alternative Total Eclipse](../Page/Muv-Luv_Alternative_Total_Eclipse.md "wikilink")
 
 ## 註釋
 
@@ -528,24 +509,9 @@ Schwarzesmarken**》（ラジオ
   - [廣播官方網站](http://www.joqr.co.jp/sm666/)文化放送
 
   -
-[Category:2011年小說](https://zh.wikipedia.org/wiki/Category:2011年小說 "wikilink")
-[Category:Fami通文庫](https://zh.wikipedia.org/wiki/Category:Fami通文庫 "wikilink")
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
-[Category:2015年電子遊戲](https://zh.wikipedia.org/wiki/Category:2015年電子遊戲 "wikilink")
-[Category:2016年電子遊戲](https://zh.wikipedia.org/wiki/Category:2016年電子遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:機器人题材作品](https://zh.wikipedia.org/wiki/Category:機器人题材作品 "wikilink")
-[Category:架空歷史作品](https://zh.wikipedia.org/wiki/Category:架空歷史作品 "wikilink")
-[Category:外星生命入侵地球題材遊戲](https://zh.wikipedia.org/wiki/Category:外星生命入侵地球題材遊戲 "wikilink")
-[Category:德國背景作品](https://zh.wikipedia.org/wiki/Category:德國背景作品 "wikilink")
-[Category:1980年代背景作品](https://zh.wikipedia.org/wiki/Category:1980年代背景作品 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:2011年小說](https://zh.wikipedia.org/wiki/Category:2011年小說 "wikilink") [Category:Fami通文庫](https://zh.wikipedia.org/wiki/Category:Fami通文庫 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:2015年電子遊戲](https://zh.wikipedia.org/wiki/Category:2015年電子遊戲 "wikilink") [Category:2016年電子遊戲](https://zh.wikipedia.org/wiki/Category:2016年電子遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:機器人题材作品](https://zh.wikipedia.org/wiki/Category:機器人题材作品 "wikilink") [Category:架空歷史作品](https://zh.wikipedia.org/wiki/Category:架空歷史作品 "wikilink") [Category:外星生命入侵地球題材遊戲](https://zh.wikipedia.org/wiki/Category:外星生命入侵地球題材遊戲 "wikilink") [Category:德國背景作品](https://zh.wikipedia.org/wiki/Category:德國背景作品 "wikilink") [Category:1980年代背景作品](https://zh.wikipedia.org/wiki/Category:1980年代背景作品 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
-1.  [シュヴァルツェスマーケン
-    公式サイト](https://web.archive.org/web/20151228105721/http://schwarzesmarken.jp/schwarzesmarken/index.html)ixtl
+1.  [シュヴァルツェスマーケン 公式サイト](https://web.archive.org/web/20151228105721/http://schwarzesmarken.jp/schwarzesmarken/index.html)ixtl
 
 2.  [Schwarzesmarken](https://vndb.org/v14910)The Visual Novel Database
 
@@ -553,18 +519,14 @@ Schwarzesmarken**》（ラジオ
 
 4.  「シバケン」和「しばけん」的日語讀音相同
 
-5.  [『マブラヴ オルタネイティヴ』公式メカ設定資料集 MUV-LUV ALTERNATIVE INTEGRAL
-    WORKS](https://www.enterbrain.co.jp/product/mook/mook_tech_gian/212_tg_style/07325301)enterbrain
+5.  [『マブラヴ オルタネイティヴ』公式メカ設定資料集 MUV-LUV ALTERNATIVE INTEGRAL WORKS](https://www.enterbrain.co.jp/product/mook/mook_tech_gian/212_tg_style/07325301)enterbrain
 
 6.  [「シュヴァルツェスマーケン」吉宗鋼紀×内田弘樹対談（前編）―内田先生のゴリゴリの世界観が見たい 1](http://animeanime.jp/article/2016/03/23/27592.html)アニメ！アニメ！
 
 7.  [『シュヴァルツェスマーケン』内田弘樹さんインタビュー 2](http://ln-news.com/archives/10719/sm_aisaka/2/)ラノベニュースオンライン
 
 8.
-9.  [Schwarzesmarken
-    (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17670)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+9.  [Schwarzesmarken (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17670)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 
 10. [シュヴァルツェスマーケン(2016)](http://www.allcinema.net/prog/show_c.php?num_c=354178)allcinema
 
@@ -572,19 +534,14 @@ Schwarzesmarken**》（ラジオ
 
 12. [科幻輕小說改編動畫《Schwarzesmarken》第2彈宣傳影片發表，片尾曲『哀しみが時代を駆ける』於片中搶先提供試聽！](http://www.animen.com.tw/NewsArea/NewsItemDetail?NewsId=14495&categoryId=800&realCategoryId=1&subCategoryId=5)Animen
 
-13. [シュヴァルツェスマーケン
-    紅血の紋章](http://www.4gamer.net/games/318/G031880/)[4Gamer.net](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")
+13. [シュヴァルツェスマーケン 紅血の紋章](http://www.4gamer.net/games/318/G031880/)[4Gamer.net](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")
 
-14. [シュヴァルツェスマーケン
-    殉教者たち](http://www.getchu.com/soft.phtml?id=853838)Getchu.com
+14. [シュヴァルツェスマーケン 殉教者たち](http://www.getchu.com/soft.phtml?id=853838)Getchu.com
 
 15. [怪奇！ 着ぐるみ政治将校](http://kiminozo-radio.jp/kaiki/index.htm) âge
 
-16. [シュヴァルツェスマーケン
-    紅血の紋章](http://erogetrailers.com/soft/11935)ErogeTrailers
+16. [シュヴァルツェスマーケン 紅血の紋章](http://erogetrailers.com/soft/11935)ErogeTrailers
 
-17. [シュヴァルツェスマーケン
-    殉教者たち](http://erogetrailers.com/soft/13295)ErogeTrailers
+17. [シュヴァルツェスマーケン 殉教者たち](http://erogetrailers.com/soft/13295)ErogeTrailers
 
-18. [HPもオープンなのであります！(￣^￣)ゞ新番組「ラジオ
-    シュヴァルツェスマーケン」は日曜夜に放送中\!\!](http://www.agqr.jp/topics/archives/_104.php)超！A\&G
+18. [HPもオープンなのであります！(￣^￣)ゞ新番組「ラジオ シュヴァルツェスマーケン」は日曜夜に放送中\!\!](http://www.agqr.jp/topics/archives/_104.php)超！A\&G

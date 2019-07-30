@@ -1,5 +1,4 @@
-**SACRA
-MUSIC**（）是[日本索尼音樂娛樂的旗下的子公司](../Page/日本索尼音樂娛樂.md "wikilink")。於2017年4月1日成立。
+**SACRA MUSIC**（）是[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")的旗下的子公司。於2017年4月1日成立。
 
 ## 旗下藝人
 
@@ -23,8 +22,7 @@ MUSIC**（）是[日本索尼音樂娛樂的旗下的子公司](../Page/日本�
   - [花澤香菜](../Page/花澤香菜.md "wikilink")\[14\]
   - [halca](https://zh.wikipedia.org/wiki/halca "wikilink")
   - [春奈るな](https://zh.wikipedia.org/wiki/春奈るな "wikilink")\[15\]
-  - [PENGUIN
-    RESEARCH](https://zh.wikipedia.org/wiki/PENGUIN_RESEARCH "wikilink")\[16\]
+  - [PENGUIN RESEARCH](https://zh.wikipedia.org/wiki/PENGUIN_RESEARCH "wikilink")\[16\]
   - [LiSA](../Page/LiSA.md "wikilink")\[17\]
   - [ReoNa](../Page/ReoNa.md "wikilink")
 
@@ -39,14 +37,10 @@ MUSIC**（）是[日本索尼音樂娛樂的旗下的子公司](../Page/日本�
   -
   -
 
-[Category:日本索尼音樂娛樂](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂 "wikilink")
-[Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink")
-[Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink")
-[Category:2017年成立的公司](https://zh.wikipedia.org/wiki/Category:2017年成立的公司 "wikilink")
+[Category:日本索尼音樂娛樂](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂 "wikilink") [Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink") [Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink") [Category:2017年成立的公司](https://zh.wikipedia.org/wiki/Category:2017年成立的公司 "wikilink")
 
 1.
-2.  從[Ariola
-    Japan移籍](https://zh.wikipedia.org/wiki/Ariola_Japan "wikilink")。
+2.  從[Ariola Japan移籍](https://zh.wikipedia.org/wiki/Ariola_Japan "wikilink")。
 
 3.  從[Sony Music Records移籍](../Page/Sony_Music_Records.md "wikilink")。
 
@@ -59,12 +53,11 @@ MUSIC**（）是[日本索尼音樂娛樂的旗下的子公司](../Page/日本�
 9.
 10. 從Ki/oon Music移籍。
 
-11. [関西発3Pバンド『スピラ・スピカ』SACRA
-    MUSICよりメジャーデビュー決定！8月8日にデビューシングルリリース！](https://prtimes.jp/main/html/rd/p/000001413.000013546.html),株式会社ソニー・ミュージックレーベルズ,2018年5月21日
+11. [関西発3Pバンド『スピラ・スピカ』SACRA MUSICよりメジャーデビュー決定！8月8日にデビューシングルリリース！](https://prtimes.jp/main/html/rd/p/000001413.000013546.html),株式会社ソニー・ミュージックレーベルズ,2018年5月21日
 
 12.
 13.
 14.
 15.
 16.
-17. 從[Aniplex移籍](../Page/Aniplex.md "wikilink")。
+17. 從[Aniplex](../Page/Aniplex.md "wikilink")移籍。

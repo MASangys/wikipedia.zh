@@ -1,4 +1,4 @@
-**女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群在**[佛得角](../Page/佛得角.md "wikilink")**面临着许多法律和社会方面的挑战。[佛得角男性和女性的同性性行为都是合法的](../Page/佛得角.md "wikilink")，但同性伴侣没有资格获得与异性恋夫妻相同的法律保护。
+**女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群在**[佛得角](../Page/佛得角.md "wikilink")**面临着许多法律和社会方面的挑战。[佛得角](../Page/佛得角.md "wikilink")男性和女性的同性性行为都是合法的，但同性伴侣没有资格获得与异性恋夫妻相同的法律保护。
 
 ## 有关同性性行为的法律
 
@@ -43,8 +43,7 @@
 
 ## 注释
 
-[Category:非洲LGBT權益](https://zh.wikipedia.org/wiki/Category:非洲LGBT權益 "wikilink")
-[Category:佛得角政治](https://zh.wikipedia.org/wiki/Category:佛得角政治 "wikilink")
+[Category:非洲LGBT權益](https://zh.wikipedia.org/wiki/Category:非洲LGBT權益 "wikilink") [Category:佛得角政治](https://zh.wikipedia.org/wiki/Category:佛得角政治 "wikilink")
 
 1.
 2.

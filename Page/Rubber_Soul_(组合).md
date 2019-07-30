@@ -1,29 +1,18 @@
-{{ otheruses | subject=韩国一女子组合 |
-other=[披頭四的一張專輯](https://zh.wikipedia.org/wiki/披頭四 "wikilink")
-| Rubber Soul }}
+{{ otheruses | subject=韩国一女子组合 | other=[披頭四的一張專輯](https://zh.wikipedia.org/wiki/披頭四 "wikilink") | Rubber Soul }}
 
-**Rubber Soul**（）是韩国女子组合。2015年2月10日她们以单曲《Life》正式出道，该单曲由曾帮助过她们的导师[Mad
-Clown合作制作](../Page/Mad_Clown.md "wikilink")。组合出道时为3人团体，分别为：Choi
-Cho、Kim、Lala，后成员Lala退出变为2人团体。团名来自[披头士乐队专辑](https://zh.wikipedia.org/wiki/披头士乐队 "wikilink")《Rubber
-Soul》，该名字展示了成员以流行音乐家和表演艺术家身份与听众交流的愿望\[1\]。
+**Rubber Soul**（）是韩国女子组合。2015年2月10日她们以单曲《Life》正式出道，该单曲由曾帮助过她们的导师[Mad Clown合作制作](../Page/Mad_Clown.md "wikilink")。组合出道时为3人团体，分别为：Choi Cho、Kim、Lala，后成员Lala退出变为2人团体。团名来自[披头士乐队专辑](https://zh.wikipedia.org/wiki/披头士乐队 "wikilink")《Rubber Soul》，该名字展示了成员以流行音乐家和表演艺术家身份与听众交流的愿望\[1\]。
 
 ## 2015至今：出道、三次发布单曲和宣传活动
 
-2015年2月10日该组合首次以单曲《Life》在[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")
-MTV的《The Show》节目中亮相，随后继续在各个打歌节目中出现。
+2015年2月10日该组合首次以单曲《Life》在[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") MTV的《The Show》节目中亮相，随后继续在各个打歌节目中出现。
 
-Rubber
-Soul在[弘大街头表演进行宣传](https://zh.wikipedia.org/wiki/弘大_\(首尔\) "wikilink")，同时也包括一些当时未正式发行的的歌曲，如《Choic》和《Beautiful
-Woman》\[2\]。
+Rubber Soul在[弘大街头表演进行宣传](https://zh.wikipedia.org/wiki/弘大_\(首尔\) "wikilink")，同时也包括一些当时未正式发行的的歌曲，如《Choic》和《Beautiful Woman》\[2\]。
 
-2015年2月，她们以嘉宾身份参加了[SNL Korea
-6的第一集](https://zh.wikipedia.org/wiki/SNL_Korea_6 "wikilink")。\[3\]
+2015年2月，她们以嘉宾身份参加了[SNL Korea 6的第一集](https://zh.wikipedia.org/wiki/SNL_Korea_6 "wikilink")。\[3\]
 
 2015年4月她们参加Dazed杂志画报的拍摄。\[4\]
 
-该组合曾和其他参加2015年9月AMN（Asian Music
-Network）节的韩国组合一同演出，如：[MYNAME](../Page/MYNAME.md "wikilink")、[Gfriend](https://zh.wikipedia.org/wiki/Gfriend "wikilink")、[Galaxy
-Express](https://zh.wikipedia.org/wiki/Galaxy_Express "wikilink")、[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")、[MAMAMOO等](../Page/Mamamoo.md "wikilink")。
+该组合曾和其他参加2015年9月AMN（Asian Music Network）节的韩国组合一同演出，如：[MYNAME](../Page/MYNAME.md "wikilink")、[Gfriend](https://zh.wikipedia.org/wiki/Gfriend "wikilink")、[Galaxy Express](https://zh.wikipedia.org/wiki/Galaxy_Express "wikilink")、[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")、[MAMAMOO等](../Page/Mamamoo.md "wikilink")。
 
 2015年10月，组合与歌手Giriboy、Black Nut和Genius Nochang参与画报《1st Look》拍摄。\[5\]
 
@@ -121,14 +110,11 @@ Express](https://zh.wikipedia.org/wiki/Galaxy_Express "wikilink")、[T-ara](http
 
 ## 影视作品
 
-  - 2015年：《[SNL Korea
-    6](https://zh.wikipedia.org/wiki/SNL_Korea_6 "wikilink")》、《[Yaman
-    TV](../Page/Yaman_TV.md "wikilink")》、《Unpretty RapStar2》
+  - 2015年：《[SNL Korea 6](https://zh.wikipedia.org/wiki/SNL_Korea_6 "wikilink")》、《[Yaman TV](../Page/Yaman_TV.md "wikilink")》、《Unpretty RapStar2》
 
 ## 参考资料
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
 
 1.
 2.

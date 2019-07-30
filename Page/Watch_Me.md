@@ -1,5 +1,4 @@
-**《Watch
-Me》**為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳慧琳首張數碼迷你專輯](../Page/陳慧琳.md "wikilink")，於2018年7月20日正式於各大數碼平台上架\[1\]。專輯共收錄了4首粵語歌曲及4首國語歌曲，更破天荒把每一首作品都拍攝MV，將聽覺與視覺享受推上高峰。Kelly憑《花見小路》一曲獲得韓國作曲人的高度評價，形容她的聲音「好像珍珠脫蚌而出」，被冠上「氣質女聲」之名。
+**《Watch Me》**為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳慧琳](../Page/陳慧琳.md "wikilink")首張數碼迷你專輯，於2018年7月20日正式於各大數碼平台上架\[1\]。專輯共收錄了4首粵語歌曲及4首國語歌曲，更破天荒把每一首作品都拍攝MV，將聽覺與視覺享受推上高峰。Kelly憑《花見小路》一曲獲得韓國作曲人的高度評價，形容她的聲音「好像珍珠脫蚌而出」，被冠上「氣質女聲」之名。
 
 ## 曲目
 
@@ -22,8 +21,6 @@ Me》**為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wiki
 
   - [陳慧琳歷年推出專集](https://zh.wikipedia.org/wiki/陳慧琳#.E6.AD.B7.E5.B9.B4.E6.8E.A8.E5.87.BA.E5.B0.88.E9.9B.86 "wikilink")
 
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:陳慧琳音樂專輯](https://zh.wikipedia.org/wiki/Category:陳慧琳音樂專輯 "wikilink")
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
+[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:陳慧琳音樂專輯](https://zh.wikipedia.org/wiki/Category:陳慧琳音樂專輯 "wikilink") [Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
 
 1.

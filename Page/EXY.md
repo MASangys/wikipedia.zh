@@ -1,17 +1,10 @@
-**EXY**（，），本名**秋昭贞**\[1\]\[2\]（，），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")、[演員](../Page/演員.md "wikilink")，[STARSHIP娛樂旗下女子組合](../Page/STARSHIP娛樂.md "wikilink")[宇宙少女及小分隊](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")**Sweet**組\[3\]成員，在隊中擔任隊長、主Rapper、在每張專輯裡擔任作曲者、作詞者。原預計於2011年以Viva
-Girls出道，因公司倒閉而告吹，後加入[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")。2016年2月25日以宇宙少女成員身份，發行首張迷你專輯《WOULD
-YOU LIKE?》正式出道。
+**EXY**（，），本名**秋昭贞**\[1\]\[2\]（，），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")、[演員](../Page/演員.md "wikilink")，[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")旗下女子組合[宇宙少女及小分隊](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")**Sweet**組\[3\]成員，在隊中擔任隊長、主Rapper、在每張專輯裡擔任作曲者、作詞者。原預計於2011年以Viva Girls出道，因公司倒閉而告吹，後加入[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")。2016年2月25日以宇宙少女成員身份，發行首張迷你專輯《WOULD YOU LIKE?》正式出道。
 
 ## 经历
 
 ### 出道前
 
-EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine娛樂 "wikilink")，一直以[Viva
-Girls](https://zh.wikipedia.org/wiki/Viva_Girls "wikilink")（預定成員包括[倞利](https://zh.wikipedia.org/wiki/倞利 "wikilink")、[Lime](https://zh.wikipedia.org/wiki/金慧林 "wikilink")、[蘇有美](https://zh.wikipedia.org/wiki/蘇有美 "wikilink")、[優熙](../Page/優熙.md "wikilink")、[EXY](../Page/EXY.md "wikilink")）成員的身份練習，直至2011年公司因財務問題倒閉，EXY轉到[STARSHIP娛樂繼續練習](../Page/STARSHIP娛樂.md "wikilink")。2015年，EXY以[STARSHIP娛樂練習生身份參與](../Page/STARSHIP娛樂.md "wikilink")《[Unpretty
-Rapstar
-2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")》，但在第8集被淘汰。2015年12月5日，[STARSHIP娛樂宣佈](../Page/STARSHIP娛樂.md "wikilink")[EXY為即將出道的女子團體宇宙少女的確定成員之一](../Page/EXY.md "wikilink")，並暫定於2016年1月出道。2015年12月22日，[EXY](../Page/EXY.md "wikilink")、[程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")、[多榮](https://zh.wikipedia.org/wiki/多榮 "wikilink")、[苞娜](../Page/苞娜.md "wikilink")、[雪娥](../Page/雪娥.md "wikilink")、[美岐](https://zh.wikipedia.org/wiki/美岐 "wikilink")、[多願演唱](https://zh.wikipedia.org/wiki/多願 "wikilink")《All
-I Want For Christmas is You》。2015年12月30日，出演
-[UNIQ](../Page/UNIQ.md "wikilink") 新曲《Happy New Year》MV。
+EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine娛樂 "wikilink")，一直以[Viva Girls](https://zh.wikipedia.org/wiki/Viva_Girls "wikilink")（預定成員包括[倞利](https://zh.wikipedia.org/wiki/倞利 "wikilink")、[Lime](https://zh.wikipedia.org/wiki/金慧林 "wikilink")、[蘇有美](https://zh.wikipedia.org/wiki/蘇有美 "wikilink")、[優熙](../Page/優熙.md "wikilink")、[EXY](../Page/EXY.md "wikilink")）成員的身份練習，直至2011年公司因財務問題倒閉，EXY轉到[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")繼續練習。2015年，EXY以[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")練習生身份參與《[Unpretty Rapstar 2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")》，但在第8集被淘汰。2015年12月5日，[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")宣佈[EXY](../Page/EXY.md "wikilink")為即將出道的女子團體宇宙少女的確定成員之一，並暫定於2016年1月出道。2015年12月22日，[EXY](../Page/EXY.md "wikilink")、[程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")、[多榮](https://zh.wikipedia.org/wiki/多榮 "wikilink")、[苞娜](../Page/苞娜.md "wikilink")、[雪娥](../Page/雪娥.md "wikilink")、[美岐](https://zh.wikipedia.org/wiki/美岐 "wikilink")、[多願演唱](https://zh.wikipedia.org/wiki/多願 "wikilink")《All I Want For Christmas is You》。2015年12月30日，出演 [UNIQ](../Page/UNIQ.md "wikilink") 新曲《Happy New Year》MV。
 
 ### 2016年：以宇宙少女出道、企划组合 Y Teen
 
@@ -21,10 +14,7 @@ I Want For Christmas is You》。2015年12月30日，出演
 
 #### 企划组合 Y Teen
 
-8月3日，EXY与[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")6名成员（[雪娥](../Page/雪娥.md "wikilink")、[秀斌](../Page/秀斌.md "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")
-、[程潇](../Page/程潇.md "wikilink")、[夏天及](../Page/夏天_\(歌手\).md "wikilink")[多榮](https://zh.wikipedia.org/wiki/多榮 "wikilink")）與男子组合[MONSTA
-X的](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")7名成员组成限定版的男女混合團“Y
-Teen”。8月6日，公開限定组合“Y Teen”《Do Better》的MV。
+8月3日，EXY与[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")6名成员（[雪娥](../Page/雪娥.md "wikilink")、[秀斌](../Page/秀斌.md "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink") 、[程潇](../Page/程潇.md "wikilink")、[夏天及](../Page/夏天_\(歌手\).md "wikilink")[多榮](https://zh.wikipedia.org/wiki/多榮 "wikilink")）與男子组合[MONSTA X的](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")7名成员组成限定版的男女混合團“Y Teen”。8月6日，公開限定组合“Y Teen”《Do Better》的MV。
 
 ## 音樂作品
 
@@ -89,7 +79,7 @@ Teen”。8月6日，公開限定组合“Y Teen”《Do Better》的MV。
 <td><p>STARSHIP PLANET 2015 (스타쉽플래닛)</p></td>
 <td><p>《STARSHIP PLANET 2015》</p>
 <ul>
-<li>主唱：<a href="../Page/STARSHIP娛樂.md" title="wikilink">STARSHIP娛樂旗下藝人</a></li>
+<li>主唱：<a href="../Page/STARSHIP娛樂.md" title="wikilink">STARSHIP娛樂</a>旗下藝人</li>
 <li>發行日期：2015年12月2日</li>
 <li>語言：韓語</li>
 <li>音樂類型：K-POP、Rap、Hip-hop</li>
@@ -156,14 +146,26 @@ Teen”。8月6日，公開限定组合“Y Teen”《Do Better》的MV。
 | 日期    | 電視台                                                   | 節目名稱                                                                              |
 | 2015年 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [Unpretty Rapstar 2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink") |
 
-### 广告拍摄
+## 代言
 
-|      |      |                                                   |               |                                                                                                                                    |
-| ---- | ---- | ------------------------------------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 年份   | 品種   | 企業人                                               | 品牌名           | 共同拍攝藝人                                                                                                                             |
-| 2016 | 化妆品  | skin79                                            | skin79 X 宇宙少女 | [苞娜](../Page/苞娜.md "wikilink")、[程潇](../Page/程潇.md "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")                                |
-| 2017 | 移动通信 | [KT](https://zh.wikipedia.org/wiki/KT "wikilink") | Y高考           | [程潇](../Page/程潇.md "wikilink")、[苞娜](../Page/苞娜.md "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")、[璉靜](../Page/璉靜.md "wikilink") |
-|      |      |                                                   |               |                                                                                                                                    |
+  -
+    <small>——團體代言請參閱 [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")</small>
+
+### 品牌代言
+
+|        |      |           |         |              |
+| ------ | ---- | --------- | ------- | ------------ |
+| 年份     | 品類   | 企業        | 品牌      | 合作藝人         |
+| 2019至今 | 隱形眼鏡 | LENS TOWN | UNITURE | EXY、雪娥、苞娜、延靜 |
+
+### 廣告拍攝
+
+|      |      |                                                   |               |                                                                                                                                                       |
+| ---- | ---- | ------------------------------------------------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 年份   | 品種   | 企業                                                | 品牌／廣告名稱       | 合作藝人                                                                                                                                                  |
+| 2016 | 化妝品  | skin79                                            | skin79 X 宇宙少女 | [苞娜](../Page/苞娜.md "wikilink")、[程潇](../Page/程潇.md "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")                                                   |
+| 2017 | 移動通信 | [KT](https://zh.wikipedia.org/wiki/KT "wikilink") | Y高考           | [程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink")、[苞娜](../Page/苞娜.md "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")、[璉靜](../Page/璉靜.md "wikilink") |
+|      |      |                                                   |               |                                                                                                                                                       |
 
 ## 參考資料
 
@@ -172,13 +174,7 @@ Teen”。8月6日，公開限定组合“Y Teen”《Do Better》的MV。
   -
   -
   -
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓國女性模特兒](https://zh.wikipedia.org/wiki/Category:韓國女性模特兒 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:釜山廣域市出身人物](https://zh.wikipedia.org/wiki/Category:釜山廣域市出身人物 "wikilink")
-[Category:秋姓](https://zh.wikipedia.org/wiki/Category:秋姓 "wikilink")
-[Category:宇宙少女成員](https://zh.wikipedia.org/wiki/Category:宇宙少女成員 "wikilink")
+[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國女性模特兒](https://zh.wikipedia.org/wiki/Category:韓國女性模特兒 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:釜山廣域市出身人物](https://zh.wikipedia.org/wiki/Category:釜山廣域市出身人物 "wikilink") [Category:秋姓](https://zh.wikipedia.org/wiki/Category:秋姓 "wikilink") [Category:宇宙少女成員](https://zh.wikipedia.org/wiki/Category:宇宙少女成員 "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
-**法医秦明II**（法医秦明II：清道夫），2018年[搜狐视频自制网络剧](../Page/搜狐视频.md "wikilink")。第二季改编自秦明[同名系列小说](../Page/法医秦明_\(小说\).md "wikilink")《法医秦明之清道夫》，由搜狐视频、博集影业联合出品，导演[李爽执导](../Page/李爽.md "wikilink")，[刘冬沁](../Page/刘冬沁.md "wikilink")、[刘畅](https://zh.wikipedia.org/wiki/刘畅 "wikilink")、[于莎莎](../Page/于莎莎.md "wikilink")、要武、杨凯淳、李逸男等主演\[1\]。于2017年11月11日在武汉市汉阳区“汉阳造”创意产业园开机。於2018年6月15日[芒果TV和](../Page/芒果TV.md "wikilink")[搜狐视频首播](../Page/搜狐视频.md "wikilink")
+**法医秦明II**（法医秦明II：清道夫），2018年[搜狐视频](../Page/搜狐视频.md "wikilink")自制网络剧。第二季改编自秦明[同名系列小说](../Page/法医秦明_\(小说\).md "wikilink")《法医秦明之清道夫》，由搜狐视频、博集影业联合出品，导演[李爽](../Page/李爽.md "wikilink")执导，[刘冬沁](../Page/刘冬沁.md "wikilink")、[刘畅](https://zh.wikipedia.org/wiki/刘畅 "wikilink")、[于莎莎](../Page/于莎莎.md "wikilink")、要武、杨凯淳、李逸男等主演\[1\]。于2017年11月11日在武汉市汉阳区“汉阳造”创意产业园开机。於2018年6月15日[芒果TV](../Page/芒果TV.md "wikilink")和[搜狐视频](../Page/搜狐视频.md "wikilink")首播
 
 ## 演员表
 
@@ -28,10 +28,6 @@
 
 
 
-[Category:2018年中国网络剧](https://zh.wikipedia.org/wiki/Category:2018年中国网络剧 "wikilink")
-[Category:中國小說改編電視劇](https://zh.wikipedia.org/wiki/Category:中國小說改編電視劇 "wikilink")
-[Category:中華人民共和國背景電視劇](https://zh.wikipedia.org/wiki/Category:中華人民共和國背景電視劇 "wikilink")
-[Category:程序型罪案调查剧](https://zh.wikipedia.org/wiki/Category:程序型罪案调查剧 "wikilink")
-[Category:法醫學題材電視劇](https://zh.wikipedia.org/wiki/Category:法醫學題材電視劇 "wikilink")
+[Category:2018年中国网络剧](https://zh.wikipedia.org/wiki/Category:2018年中国网络剧 "wikilink") [Category:中國小說改編電視劇](https://zh.wikipedia.org/wiki/Category:中國小說改編電視劇 "wikilink") [Category:中華人民共和國背景電視劇](https://zh.wikipedia.org/wiki/Category:中華人民共和國背景電視劇 "wikilink") [Category:程序型罪案调查剧](https://zh.wikipedia.org/wiki/Category:程序型罪案调查剧 "wikilink") [Category:法醫學題材電視劇](https://zh.wikipedia.org/wiki/Category:法醫學題材電視劇 "wikilink")
 
 1.

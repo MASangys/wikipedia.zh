@@ -1,17 +1,12 @@
-**HTC Butterfly 3**（日本為**HTC J butterfly
-HTV31**）是[台灣公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電於](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2015年所開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，屬於「HTC
-Butterfly」系列中的高階旗舰机型，採用[Android](../Page/Android.md "wikilink") [5.0
-Lollipop操作系统](../Page/Android_Lollipop.md "wikilink")。
+**HTC Butterfly 3**（日本為**HTC J butterfly HTV31**）是[台灣公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電於](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2015年所開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，屬於「HTC Butterfly」系列中的高階旗舰机型，採用[Android](../Page/Android.md "wikilink") [5.0 Lollipop操作系统](../Page/Android_Lollipop.md "wikilink")。
 
 ## 簡介
 
-  - 本次推出了au與HTC共同開發的Butterfly系列最新機種，採日系設計的[聚碳酸酯機殼並延續先前的防水](../Page/聚碳酸酯.md "wikilink")（IPX5/IPX7）/防塵（IP5X）設計\[1\]。
-  - 正面加入了類[HTC Desire
-    EYE的設計風格凸顯前鏡頭的重要性](https://zh.wikipedia.org/wiki/HTC_Desire_EYE "wikilink")，本次主打的賣點為日本推出的手機中「自拍畫素最高的機種」（1300萬前鏡頭）。
+  - 本次推出了au與HTC共同開發的Butterfly系列最新機種，採日系設計的[聚碳酸酯](../Page/聚碳酸酯.md "wikilink")機殼並延續先前的防水（IPX5/IPX7）/防塵（IP5X）設計\[1\]。
+  - 正面加入了類[HTC Desire EYE的設計風格凸顯前鏡頭的重要性](https://zh.wikipedia.org/wiki/HTC_Desire_EYE "wikilink")，本次主打的賣點為日本推出的手機中「自拍畫素最高的機種」（1300萬前鏡頭）。
   - 相機延續了M8、M9+的雙鏡頭，可以使用**UFocus**來進行事後對焦。
-  - 為提升外放音效，兩個喇叭從過去各放一個單體提升到兩個單體，且略增大喇叭孔來降低失真，並與[杜比實驗室合作搭載杜比環繞音效](../Page/杜比實驗室.md "wikilink")，提供更好的外放音質體驗。
-  - HTC新SENSE
-    7加入更多個人化的應用，可以依據地點推薦餐廳、依據工作或上班地點自動更換所需APP、自動更換桌布圖片來形成主題等\[2\]。
+  - 為提升外放音效，兩個喇叭從過去各放一個單體提升到兩個單體，且略增大喇叭孔來降低失真，並與[杜比實驗室](../Page/杜比實驗室.md "wikilink")合作搭載杜比環繞音效，提供更好的外放音質體驗。
+  - HTC新SENSE 7加入更多個人化的應用，可以依據地點推薦餐廳、依據工作或上班地點自動更換所需APP、自動更換桌布圖片來形成主題等\[2\]。
 
 ## 詳細規格
 
@@ -173,10 +168,7 @@ F2.0 大光圈、具備 HDR 功能、4K 錄影、28.2mm廣角</p></td>
 
 ## 参考资料
 
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
+[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
 
 1.
 

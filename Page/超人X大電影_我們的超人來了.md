@@ -1,13 +1,10 @@
-《**超人X大電影
-我們的超人來了**》（），是一部2016年日本超人電影，由[田口清隆執導](https://zh.wikipedia.org/wiki/田口清隆 "wikilink")，、、及[松本享恭主演](../Page/松本享恭.md "wikilink")。是[新超人力霸王列傳](https://zh.wikipedia.org/wiki/新超人力霸王列傳 "wikilink")《[超人X](../Page/超人X.md "wikilink")》劇場版，亦是超人系列誕生50週年記念作。
+《**超人X大電影 我們的超人來了**》（），是一部2016年日本超人電影，由[田口清隆執導](https://zh.wikipedia.org/wiki/田口清隆 "wikilink")，、、及[松本享恭](../Page/松本享恭.md "wikilink")主演。是[新超人力霸王列傳](https://zh.wikipedia.org/wiki/新超人力霸王列傳 "wikilink")《[超人X](../Page/超人X.md "wikilink")》劇場版，亦是超人系列誕生50週年記念作。
 
 2016年5月12日於日本上映、2016年12月1日於香港上映。香港同時上映日語及粵語配音版本。
 
 ## 劇情
 
-太陽風曝喚醒了潛藏於地球深海及地殼的Spark Dolls及怪獸，也吸引了大量外星人來襲地球。為對應這些危機，地球成立了名為「Xeno
-Invasion
-Outcutters（異種入侵防衛隊）」，簡稱「XiO」的組織。而15年之後，Xio的隊員，大空大地，則在姻緣際會下，成為了「超人X」，與這些怪獸和外星人戰鬥...\[1\]
+太陽風曝喚醒了潛藏於地球深海及地殼的Spark Dolls及怪獸，也吸引了大量外星人來襲地球。為對應這些危機，地球成立了名為「Xeno Invasion Outcutters（異種入侵防衛隊）」，簡稱「XiO」的組織。而15年之後，Xio的隊員，大空大地，則在姻緣際會下，成為了「超人X」，與這些怪獸和外星人戰鬥...\[1\]
 
 在遠古時期，傳說地獄是被封印在芭羅慈村的遺址上。一位貪婪的電視製作人－黒崎卡諾斯挑戰傳說打開封印，結果喚醒了閻魔獸－西爾哥古，並將這世界變成地獄。在閻魔獸的恐怖力量下，超人Ｘ的光消失了，這個世界將因此而結束嗎？
 
@@ -210,14 +207,9 @@ Xio在考古學家玉城司教授幫助下，決心找出一股神秘的力量�
 ## 外部連結
 
   - [《超人X》官方網站](http://m-78.jp/x/)
-  - [《超人X 大電影 -
-    我們的超人來了》香港官方網站](http://www.china3d8078.com/film/detail.html?film_id=53)
+  - [《超人X 大電影 - 我們的超人來了》香港官方網站](http://www.china3d8078.com/film/detail.html?film_id=53)
 
-[分類:2016年日本電影](https://zh.wikipedia.org/wiki/分類:2016年日本電影 "wikilink")
-[分類:日語電影](https://zh.wikipedia.org/wiki/分類:日語電影 "wikilink")
-[分類:超人力霸王系列電影作品](https://zh.wikipedia.org/wiki/分類:超人力霸王系列電影作品 "wikilink")
-[分類:松竹特攝電影](https://zh.wikipedia.org/wiki/分類:松竹特攝電影 "wikilink")
-[分類:外星生命入侵地球的電影](https://zh.wikipedia.org/wiki/分類:外星生命入侵地球的電影 "wikilink")
+[分類:2016年日本電影](https://zh.wikipedia.org/wiki/分類:2016年日本電影 "wikilink") [分類:日語電影](https://zh.wikipedia.org/wiki/分類:日語電影 "wikilink") [分類:超人力霸王系列電影作品](https://zh.wikipedia.org/wiki/分類:超人力霸王系列電影作品 "wikilink") [分類:松竹特攝電影](https://zh.wikipedia.org/wiki/分類:松竹特攝電影 "wikilink") [分類:外星生命入侵地球的電影](https://zh.wikipedia.org/wiki/分類:外星生命入侵地球的電影 "wikilink")
 
 1.
 2.

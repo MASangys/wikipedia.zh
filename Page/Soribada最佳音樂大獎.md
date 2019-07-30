@@ -56,7 +56,7 @@
 
 | 屆數 | 年份   | 獲獎者                                                         |
 | -- | ---- | ----------------------------------------------------------- |
-| 1  | 2017 | [NCT127](../Page/NCT.md "wikilink")                         |
+| 1  | 2017 | [NCT](../Page/NCT.md "wikilink")127                         |
 | 2  | 2018 | [金Samuel](https://zh.wikipedia.org/wiki/金Samuel "wikilink") |
 
 ### 新韓流藝人賞
@@ -214,8 +214,7 @@ Social - SEO J</p></td>
 
 ## 參考資料
 
-[Category:韓國音樂獎項](https://zh.wikipedia.org/wiki/Category:韓國音樂獎項 "wikilink")
-[Category:2017年建立的奖项](https://zh.wikipedia.org/wiki/Category:2017年建立的奖项 "wikilink")
+[Category:韓國音樂獎項](https://zh.wikipedia.org/wiki/Category:韓國音樂獎項 "wikilink") [Category:2017年建立的奖项](https://zh.wikipedia.org/wiki/Category:2017年建立的奖项 "wikilink")
 
 1.
 2.

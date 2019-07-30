@@ -1,14 +1,10 @@
-**SPICA.S**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[B2M
-Entertainment於](https://zh.wikipedia.org/wiki/B2M_Entertainment "wikilink")2014年9月12日所推出的女子團體[SPICA的小分隊](../Page/SPICA_\(組合\).md "wikilink")，亦為[SPICA
-Project的Part](https://zh.wikipedia.org/wiki/SPICA_\(組合\)#SPICA_Project "wikilink")
-1，成員包括[是炫](../Page/朴是炫.md "wikilink")、[娜萊](../Page/朴娜萊.md "wikilink")、[知元](../Page/楊知元.md "wikilink")、[保亨](../Page/金保亨.md "wikilink")。
+**SPICA.S**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[B2M Entertainment於](https://zh.wikipedia.org/wiki/B2M_Entertainment "wikilink")2014年9月12日所推出的女子團體[SPICA的小分隊](../Page/SPICA_\(組合\).md "wikilink")，亦為[SPICA Project的Part](https://zh.wikipedia.org/wiki/SPICA_\(組合\)#SPICA_Project "wikilink") 1，成員包括[是炫](../Page/朴是炫.md "wikilink")、[娜萊](../Page/朴娜萊.md "wikilink")、[知元](../Page/楊知元.md "wikilink")、[保亨](../Page/金保亨.md "wikilink")。
 
 SPICA.S 當中最後一個「S」代表著「Special (特別)」的意思，期望這四位成員能夠帶來比 SPICA 更加獨特、新奇的樣貌給大家看。
 
-首張數位單曲《남주긴 아까워? (Give Your Love)
-》(中文：《讓給別人很可惜》)於2014年9月11日公開MV及音源，同月16日正式出道。
+首張數位單曲《남주긴 아까워? (Give Your Love) 》(中文：《讓給別人很可惜》)於2014年9月11日公開MV及音源，同月16日正式出道。
 
-SPICA.S**全員亦為主唱**，[朴是炫兼任Rapper](../Page/朴是炫.md "wikilink")。
+SPICA.S**全員亦為主唱**，[朴是炫](../Page/朴是炫.md "wikilink")兼任Rapper。
 
 ## 成員資料
 
@@ -34,7 +30,7 @@ SPICA.S**全員亦為主唱**，[朴是炫兼任Rapper](../Page/朴是炫.md "wi
 
 暫時已知延期。
 
-  - Part.3： [SPICA合體](../Page/SPICA.md "wikilink")
+  - Part.3： [SPICA](../Page/SPICA.md "wikilink")合體
 
 以5人之姿於2014年11月5日推出新單曲《Ghost》。
 
@@ -103,12 +99,6 @@ SPICA.S**全員亦為主唱**，[朴是炫兼任Rapper](../Page/朴是炫.md "wi
 
   - [SPICA官方Cafe推特](http://twitter.com/MERCURY_STAFF)
 
-[Category:SPICA](https://zh.wikipedia.org/wiki/Category:SPICA "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
+[Category:SPICA](https://zh.wikipedia.org/wiki/Category:SPICA "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
 
-1.  [가요계의 가장 밝은 별이 될래요,
-    SPICA\!](http://music.naver.com/promotion/specialContent.nhn?articleId=2696).
-    Naver Music(January 2012)
+1.  [가요계의 가장 밝은 별이 될래요, SPICA\!](http://music.naver.com/promotion/specialContent.nhn?articleId=2696). Naver Music(January 2012)

@@ -6,35 +6,31 @@
 求學階段都將鋼琴作為興趣愛好，並未擁有任何音樂學位或參與任何鋼琴比賽。最後畢業於台灣大學物理研究所，獲得台大物理碩士學位。
 高一時師從社區鋼琴老師柳友麗學習鋼琴數年\[2\]，奠定起現今的鋼琴演奏能力。
 出生時右手因接生不當造成終生無法復原的臂神經叢損傷(brachial plexus injury)，無法演奏困難的曲子。
-2004年創作出[流行鋼琴單曲The](https://zh.wikipedia.org/wiki/流行鋼琴 "wikilink") truth
-that you leave，最先發表於[PTT](https://zh.wikipedia.org/wiki/批踢踢 "wikilink")
-share版，之後又成為[無名小站網誌音樂](../Page/無名小站.md "wikilink")，普遍流傳於台灣和中國大陸。
-2006年簽約台灣唱片公司[華研國際音樂作為詞曲創作人](../Page/華研國際音樂.md "wikilink")，但在台灣主要工作為物理教師、教育作家、教育演講者。
+2004年創作出[流行鋼琴單曲The](https://zh.wikipedia.org/wiki/流行鋼琴 "wikilink") truth that you leave，最先發表於[PTT](https://zh.wikipedia.org/wiki/批踢踢 "wikilink") share版，之後又成為[無名小站](../Page/無名小站.md "wikilink")網誌音樂，普遍流傳於台灣和中國大陸。
+2006年簽約台灣唱片公司[華研國際音樂](../Page/華研國際音樂.md "wikilink")作為詞曲創作人，但在台灣主要工作為物理教師、教育作家、教育演講者。
 曾任教於台大文成補習班、睿升補習班、吳平數學補習班、東山中學、康橋雙語學校、崇光女中等。
-2007年創辦台大[FunLearn網站](../Page/FunLearn.md "wikilink")，推廣華人免費國中高中網路開放教育課程，主要核心成員為洪文璞、賴浩詮，並在2010年轉型為[FunLearn網站](../Page/FunLearn.md "wikilink")，吸引台灣和大陸學生聚集交流。
+2007年創辦台大[FunLearn](../Page/FunLearn.md "wikilink")網站，推廣華人免費國中高中網路開放教育課程，主要核心成員為洪文璞、賴浩詮，並在2010年轉型為[FunLearn](../Page/FunLearn.md "wikilink")網站，吸引台灣和大陸學生聚集交流。
 2016年前往上海定居，發展流行鋼琴事業，並開始展開多座城市的巡迴演出。2018年，被邀請至莫斯科國際音樂廳演出，成為首位被邀請至[俄羅斯的華人流行鋼琴家](../Page/俄罗斯.md "wikilink")。
 
 ## 作品
 
   - [安靜的午後](https://www.youtube.com/watch?v=b32H76LY1vg)（2004）
-  - [The truth that you
-    leave](https://www.youtube.com/watch?v=u6FcPuCs57o)（2004）
+  - [The truth that you leave](https://www.youtube.com/watch?v=u6FcPuCs57o)（2004）
   - [第105天](https://www.youtube.com/watch?v=ddgScB1omOw)（2005）
   - DOUTOR COFFEE SHOP（2005）
   - 寂靜的跳舞娃娃（2006）
   - [Annabelle](https://www.youtube.com/watch?v=9Z_IsgW81uw)（2007）
   - [夏日綠蔭](https://www.youtube.com/watch?v=wnc3xTEm8D4)（2011）
-  - [ALONE ON THE
-    WAY](https://www.youtube.com/watch?v=nN65ki8XvkY)（2012）
+  - [ALONE ON THE WAY](https://www.youtube.com/watch?v=nN65ki8XvkY)（2012）
   - [復刻回憶](https://www.youtube.com/watch?v=Iol16vfqk2I)（2012）
   - [王者降臨](https://www.youtube.com/watch?v=qoLgJbGCR4Y)（2013）
   - [那年記憶中的追尋](https://www.youtube.com/watch?v=9r24h93FvRg)（2015）
   - [Anifled](https://www.youtube.com/watch?v=iMdtGz6Fu5I)（2015）
   - [Layee](https://www.youtube.com/watch?v=Cvdt28znzSI)（2017）
   - [愛麗絲花園](https://www.youtube.com/watch?v=LoNXTtPQ8sc&list=RDLoNXTtPQ8sc&index=1)（2018）
-  - [Romantic
-    Fantasy](https://www.youtube.com/watch?v=3V-bNXvg4oY)（2018）
+  - [Romantic Fantasy](https://www.youtube.com/watch?v=3V-bNXvg4oY)（2018）
   - [梧桐影](https://www.youtube.com/watch?v=PW2prQIqyCo)（2019）
+  - [風的故鄉](https://www.youtube.com/watch?v=ZK59xCksdP4)（2019）
 
 ## 演出經歷
 
@@ -141,18 +137,23 @@ share版，之後又成為[無名小站網誌音樂](../Page/無名小站.md "wi
   - 2019－深圳(深圳市少年宮劇院)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會
   - 2019－廣州(星海音樂廳)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會
   - 2019－上海(東方藝術中心)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會
+  - 2019－南京(南京保利大劇院)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會
   - 2019－西安(西安音樂廳)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會
   - 2019－成都(特侖蘇音樂廳)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會(2019加演場)
-  - 2019－重慶(地點待定)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會
+  - 2019－重慶(施光南大劇院)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會
   - 2019－南寧(廣西音樂廳)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會
-  - 2019－昆明(地點待定)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會
+  - 2019－昆明(昆明春城劇院)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會
   - 2019－貴陽(貴陽星光劇場)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會
   - 2019－長沙(地點待定)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會
-  - 2019－武漢(地點待定)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會
-  - 2019－廈門(地點待定)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會
-  - 2019－福州(地點待定)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會
-  - 2019－深圳(地點待定)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會(2019加演場)
-  - 2019－廣州(地點待定)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會(2019加演場)
+  - 2019－武漢(中南劇場大劇場)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會
+  - 2019－廈門(閩南大劇院)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會
+  - 2019－福州(福建會堂)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會
+  - 2019－北京(地點待定)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會(2019加演場)
+  - 2019－深圳(深圳市少年宮劇院)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會(2019加演場)
+  - 2019－廣州(星海音樂廳)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會(2019加演場)
+  - 2019－上海(地點待定)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會(2019加演場)
+  - 2019－杭州(地點待定)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會
+  - 2019－蘇州(地點待定)．台灣鋼琴詩人Pianoboy高至豪流行鋼琴音樂會
 
 ## 競賽獎項
 
@@ -194,21 +195,17 @@ share版，之後又成為[無名小站網誌音樂](../Page/無名小站.md "wi
 
   - [新京報-當物理高材生愛上鋼琴](http://epaper.bjnews.com.cn/html/2018-01/02/content_707447.htm?div=0)
 
-  - [自由時報-高至豪成首位登俄演奏台灣鋼琴家
-    他的神曲你一定聽過](http://news.ltn.com.tw/news/life/breakingnews/2358423)
+  - [自由時報-高至豪成首位登俄演奏台灣鋼琴家 他的神曲你一定聽過](http://news.ltn.com.tw/news/life/breakingnews/2358423)
 
   - [ETtoday新聞雲-13年前無名小站神曲！Pianoboy高至豪曝近況「超狂成就」PTT暴動](https://star.ettoday.net/news/1129022)
 
   - [蘋果日報-遭最大唱片公司冷凍10年　他海外發光！首位登俄台灣鋼琴家](https://tw.appledaily.com/new/realtime/20180313/1313524/)
 
-  - [聯合新聞網-曾被唱片公司羞辱離開家鄉
-    首位台灣鋼琴家登俄演出](https://udn.com/news/story/7266/3033710)
+  - [聯合新聞網-曾被唱片公司羞辱離開家鄉 首位台灣鋼琴家登俄演出](https://udn.com/news/story/7266/3033710)
 
-  - [EBC東森新聞-他24歲創無名「神曲」
-    卻遭公司冷凍！近況曝光…超狂成就讓網暴動](https://tw.news.yahoo.com/他24歲創無名-神曲-卻遭公司冷凍-近況曝光-超狂成就讓網暴動-085355030.html)
+  - [EBC東森新聞-他24歲創無名「神曲」 卻遭公司冷凍！近況曝光…超狂成就讓網暴動](https://tw.news.yahoo.com/他24歲創無名-神曲-卻遭公司冷凍-近況曝光-超狂成就讓網暴動-085355030.html)
 
-[Category:鋼琴家](https://zh.wikipedia.org/wiki/Category:鋼琴家 "wikilink")
-[Category:台灣鋼琴家](https://zh.wikipedia.org/wiki/Category:台灣鋼琴家 "wikilink")
+[Category:鋼琴家](https://zh.wikipedia.org/wiki/Category:鋼琴家 "wikilink") [Category:台灣鋼琴家](https://zh.wikipedia.org/wiki/Category:台灣鋼琴家 "wikilink")
 
 1.
 2.

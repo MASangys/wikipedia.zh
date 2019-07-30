@@ -1,6 +1,4 @@
-《**Chained
-Up**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX的第二張韓語正規專輯](../Page/VIXX.md "wikilink")，於2015年11月10日發行\[1\]，主打曲目為《Chained
-Up》（）。
+《**Chained Up**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX](../Page/VIXX.md "wikilink")的第二張韓語正規專輯，於2015年11月10日發行\[1\]，主打曲目為《Chained Up》（）。
 
 ## 曲目
 
@@ -76,7 +74,7 @@ Up》（）。
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量   | 總銷量 | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量   | 總銷量 | 停留時間 |
 | ---------------------------------------- | ---- | ----- | --- | ---- |
 | 專輯日榜                                     | \-   | \-    |     |      |
 | 專輯週榜                                     | 29   | 2,623 |     |      |
@@ -140,10 +138,7 @@ Up》（）。
 
 ## 参考文献
 
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
-[Category:VIXX音樂專輯](https://zh.wikipedia.org/wiki/Category:VIXX音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:VIXX音樂專輯](https://zh.wikipedia.org/wiki/Category:VIXX音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 

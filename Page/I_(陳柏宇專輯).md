@@ -1,4 +1,4 @@
-《**I**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳柏宇的第](../Page/陳柏宇.md "wikilink")13張個人音樂專輯，於2017年11月24日推出。
+《**I**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳柏宇](../Page/陳柏宇.md "wikilink")的第13張個人音樂專輯，於2017年11月24日推出。
 
 ## 曲目列表
 
@@ -15,16 +15,9 @@
 
 ## 獎項
 
-  - [2017勁歌金曲優秀選第二回](../Page/2017年勁歌金曲優秀選第二回得獎名單.md "wikilink") -
-    得獎歌曲《霸氣情歌》
-  - [2017勁歌金曲優秀選第二回](../Page/2017年勁歌金曲優秀選第二回得獎名單.md "wikilink") -
-    得獎歌曲《行屍走肉》
-  - [YAHOO\!人氣大獎2017 頒獎典禮](../Page/2017年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink")
-    - 人氣歌曲《霸氣情歌》
-  - [第四十屆十大中文金曲頒獎典禮](../Page/第四十屆十大中文金曲得獎名單.md "wikilink") -
-    十大中文金曲《霸氣情歌》
+  - [2017勁歌金曲優秀選第二回](../Page/2017年勁歌金曲優秀選第二回得獎名單.md "wikilink") - 得獎歌曲《霸氣情歌》
+  - [2017勁歌金曲優秀選第二回](../Page/2017年勁歌金曲優秀選第二回得獎名單.md "wikilink") - 得獎歌曲《行屍走肉》
+  - [YAHOO\!人氣大獎2017 頒獎典禮](../Page/2017年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") - 人氣歌曲《霸氣情歌》
+  - [第四十屆十大中文金曲頒獎典禮](../Page/第四十屆十大中文金曲得獎名單.md "wikilink") - 十大中文金曲《霸氣情歌》
 
-[Category:陳柏宇音樂專輯](https://zh.wikipedia.org/wiki/Category:陳柏宇音樂專輯 "wikilink")
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:陳柏宇音樂專輯](https://zh.wikipedia.org/wiki/Category:陳柏宇音樂專輯 "wikilink") [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

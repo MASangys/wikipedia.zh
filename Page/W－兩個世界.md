@@ -1,13 +1,10 @@
-《**W**》\[1\]（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2016年7月20日起播出的[水木連續劇](https://zh.wikipedia.org/wiki/MBC水木連續劇 "wikilink")，由《[她很漂亮](https://zh.wikipedia.org/wiki/她很漂亮 "wikilink")》[鄭大胤導演執導](https://zh.wikipedia.org/wiki/鄭大胤 "wikilink")，《[仁顯王后的男人](../Page/仁顯王后的男人.md "wikilink")》、《[Nine：九回時間旅行](../Page/Nine：九回時間旅行.md "wikilink")》[宋在貞作者執筆](../Page/宋在貞.md "wikilink")，是一部充滿奇幻且浪漫的電視劇。\[2\]。
-W兩個世界於2016年9月14日播发完结。
+《**W**》\[1\]（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2016年7月20日起播出的[水木連續劇](https://zh.wikipedia.org/wiki/MBC水木連續劇 "wikilink")，由《[她很漂亮](https://zh.wikipedia.org/wiki/她很漂亮 "wikilink")》[鄭大胤導演執導](https://zh.wikipedia.org/wiki/鄭大胤 "wikilink")，《[仁顯王后的男人](../Page/仁顯王后的男人.md "wikilink")》、《[Nine：九回時間旅行](../Page/Nine：九回時間旅行.md "wikilink")》[宋在貞](../Page/宋在貞.md "wikilink")作者執筆，是一部充滿奇幻且浪漫的電視劇。\[2\]。 W兩個世界於2016年9月14日播发完结。
 
-[myVideo](https://zh.wikipedia.org/wiki/myVideo "wikilink")、[KKTV等OTT平台均有播出](../Page/KKTV.md "wikilink")。中華電信MOD龍華偶像台、龍華影劇台獲得台灣播映版權，於7月30日起播出。[Viu獲得香港播映權](../Page/Viu.md "wikilink")，每集在韓​​國首播後四小時連同繁體字幕上線。
+[myVideo](https://zh.wikipedia.org/wiki/myVideo "wikilink")、[KKTV](../Page/KKTV.md "wikilink")等OTT平台均有播出。中華電信MOD龍華偶像台、龍華影劇台獲得台灣播映版權，於7月30日起播出。[Viu](../Page/Viu.md "wikilink")獲得香港播映權，每集在韓​​國首播後四小時連同繁體字幕上線。
 
 ## 劇情簡介
 
-講述現實世界中的女醫生吳妍珠（[韓孝周](../Page/韓孝周.md "wikilink")
-飾）偶然地進入了人氣漫畫《W》的世界，與漫畫主人公姜哲（[李鍾碩](../Page/李鍾碩.md "wikilink")
-飾）相遇後發生往來現實和虛幻中的懸疑愛情故事。
+講述現實世界中的女醫生吳妍珠（[韓孝周](../Page/韓孝周.md "wikilink") 飾）偶然地進入了人氣漫畫《W》的世界，與漫畫主人公姜哲（[李鍾碩](../Page/李鍾碩.md "wikilink") 飾）相遇後發生往來現實和虛幻中的懸疑愛情故事。
 
 ## 演員列表
 
@@ -76,7 +73,7 @@ W兩個世界於2016年9月14日播发完结。
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/李太奐" title="wikilink">李太奐</a></strong></p></td>
 <td><p><strong>徐道允</strong></p></td>
 <td><p>31歲，姜哲的保鏢及格鬥老師。曾是韓國最優秀的格鬥選手，單純又充滿男子氣概，只要確定了方向，就直進的類型。幾年前，毫不猶豫地捨棄了選手生活，開始與姜哲合作，兩人成為了至親。雖然話很少，但偶爾說出的話也會有點搞笑。知道昭熙暗戀著姜哲後，感到很鬱悶。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/莊汶錡" title="wikilink">莊汶錡</a></p></td>
+<td><p>莊汶錡</p></td>
 <td><p><a href="../Page/梁皓翔.md" title="wikilink">梁皓翔</a></p></td>
 <td><p>1-5、7-16</p></td>
 </tr>
@@ -714,8 +711,8 @@ W兩個世界於2016年9月14日播发完结。
 
 ## 其他
 
-  - [李鍾碩跟](../Page/李鍾碩.md "wikilink")[金義聖繼電影](../Page/金義聖.md "wikilink")《[觀相](../Page/觀相.md "wikilink")》再度合作。
-  - [李泰煥跟](../Page/李泰煥.md "wikilink")[姜其永繼](../Page/姜其永.md "wikilink")《[高校處世王](../Page/高校處世王.md "wikilink")》和《[回來吧大叔](../Page/回來吧大叔.md "wikilink")》再度合作。
+  - [李鍾碩](../Page/李鍾碩.md "wikilink")跟[金義聖](../Page/金義聖.md "wikilink")繼電影《[觀相](../Page/觀相.md "wikilink")》再度合作。
+  - [李泰煥](../Page/李泰煥.md "wikilink")跟[姜其永](../Page/姜其永.md "wikilink")繼《[高校處世王](../Page/高校處世王.md "wikilink")》和《[回來吧大叔](../Page/回來吧大叔.md "wikilink")》再度合作。
   - 8月15日播出長達100分鐘的特輯－「W完全征服」，收錄《W》第一至七集所有經典場面。
   - 9月17日播出特別篇－「W特輯－未完成的故事」，收錄《W》電視劇拍攝現場和精彩的場面以及觀眾好奇的故事。
 
@@ -736,20 +733,10 @@ W兩個世界於2016年9月14日播发完结。
   -
   - [CHOCO TV免費追](https://www.chocotv.com.tw/drama/4304/1)
 
-[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink")
-[Category:虚构书籍](https://zh.wikipedia.org/wiki/Category:虚构书籍 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
-[Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink")
-[Category:星空傳媒(台灣)電視外購韓劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購韓劇 "wikilink")
-[Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink")
-[Category:緯來電視外購韓劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購韓劇 "wikilink")
-[Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
+[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:虚构书籍](https://zh.wikipedia.org/wiki/Category:虚构书籍 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:星空傳媒(台灣)電視外購韓劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購韓劇 "wikilink") [Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink") [Category:緯來電視外購韓劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購韓劇 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
 
 1.  [MBC官方劇集介紹手冊](http://content.mbc.co.kr/program/drama/__icsFiles/afieldfile/2016/08/12/W_LEAFLET.pdf)
-2.  [李鍾碩、韓孝周確定出演MBC新劇《W》
-    將接檔《好運羅曼史》](http://www.koreastardaily.com/tc/news/75968)
-    韓星網
+2.  [李鍾碩、韓孝周確定出演MBC新劇《W》 將接檔《好運羅曼史》](http://www.koreastardaily.com/tc/news/75968) 韓星網
 3.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 4.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)
 5.  原本預計11日播出的第8集因轉播里約奧運停播

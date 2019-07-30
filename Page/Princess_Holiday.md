@@ -1,6 +1,4 @@
-是由日本[AUGUST在](../Page/AUGUST.md "wikilink")2002年9月27日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2003年5月29日由[Alchemist代理發售](../Page/Alchemist.md "wikilink")[Dreamcast版](../Page/Dreamcast.md "wikilink")\[3\]和2004年5月27日發售[PlayStation
-2版](../Page/PlayStation_2.md "wikilink")\[4\]。2004年8月27日由[AUGUST發售](../Page/AUGUST.md "wikilink")[Fan
-disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。\[5\]\[6\]\[7\]
+是由日本[AUGUST](../Page/AUGUST.md "wikilink")在2002年9月27日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2003年5月29日由[Alchemist](../Page/Alchemist.md "wikilink")代理發售[Dreamcast](../Page/Dreamcast.md "wikilink")版\[3\]和2004年5月27日發售[PlayStation 2版](../Page/PlayStation_2.md "wikilink")\[4\]。2004年8月27日由[AUGUST](../Page/AUGUST.md "wikilink")發售[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。\[5\]\[6\]\[7\]
 
 ## 故事簡介
 
@@ -128,8 +126,7 @@ Complete版和完全版都是合集。
 <!-- end list -->
 
   -
-    著者：有沢黎　原畫：べっかんこう　出版社：[HARVEST出版](../Page/HARVEST出版.md "wikilink")　發售日：2003年3月1日　ISBN
-    4-434-02799-9
+    著者：有沢黎　原畫：べっかんこう　出版社：[HARVEST出版](../Page/HARVEST出版.md "wikilink")　發售日：2003年3月1日　ISBN 4-434-02799-9
 
   - 書籍
 
@@ -150,33 +147,15 @@ Complete版和完全版都是合集。
   - [DC版官網](https://web.archive.org/web/20120614015732/http://products.alchemist-net.co.jp/products/princess_holiday/)Alchemist
   - [PS2版官網](https://web.archive.org/web/20120614133955/http://products.alchemist-net.co.jp/products/phps2/)Alchemist
 
-[Category:2002年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2002年日本成人遊戲 "wikilink")
-[Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink")
-[Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:公主主角題材作品](https://zh.wikipedia.org/wiki/Category:公主主角題材作品 "wikilink")
-[Category:2004年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2004年日本成人動畫 "wikilink")
+[Category:2002年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2002年日本成人遊戲 "wikilink") [Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:公主主角題材作品](https://zh.wikipedia.org/wiki/Category:公主主角題材作品 "wikilink") [Category:2004年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2004年日本成人動畫 "wikilink")
 
-1.  [Princess Holiday～転がるりんご亭千夜一夜～
-    初回版](http://www.getchu.com/soft.phtml?id=15123)Getchu.com
-2.  [Princess Holiday \~Korogaru Ringotei Senya
-    Ichiya\~](https://vndb.org/v198)The Visual Novel Database
-3.  [Princess Holiday
-    〜転がるりんご亭千夜一夜〜](http://products.alchemist-net.co.jp/products/princess_holiday/)
-    Alchemist
-4.  [Princess Holiday
-    〜転がるりんご亭千夜一夜〜](http://products.alchemist-net.co.jp/products/phps2/)
-    Alchemist
+1.  [Princess Holiday～転がるりんご亭千夜一夜～ 初回版](http://www.getchu.com/soft.phtml?id=15123)Getchu.com
+2.  [Princess Holiday \~Korogaru Ringotei Senya Ichiya\~](https://vndb.org/v198)The Visual Novel Database
+3.  [Princess Holiday 〜転がるりんご亭千夜一夜〜](http://products.alchemist-net.co.jp/products/princess_holiday/) Alchemist
+4.  [Princess Holiday 〜転がるりんご亭千夜一夜〜](http://products.alchemist-net.co.jp/products/phps2/) Alchemist
 5.  [オーガストファンBOX](http://august-soft.com/fbox/)AUGUST
 6.  [オーガストファンBOX](http://www.getchu.com/soft.phtml?id=66901)Getchu.com
 7.  [August Fan Box](https://vndb.org/v458)The Visual Novel Database
-8.  [PrincessHoliday ～転がるりんご亭千夜一夜～
-    プリンセスホリデー](http://erogetrailers.com/soft/1514)ErogeTrailers
-9.  [Princess Holiday
-    ～転がるりんご亭千夜一夜～](http://erogetrailers.com/soft/799)ErogeTrailers
-10. [Princess Holiday
-    (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6943)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+8.  [PrincessHoliday ～転がるりんご亭千夜一夜～ プリンセスホリデー](http://erogetrailers.com/soft/1514)ErogeTrailers
+9.  [Princess Holiday ～転がるりんご亭千夜一夜～](http://erogetrailers.com/soft/799)ErogeTrailers
+10. [Princess Holiday (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6943)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")

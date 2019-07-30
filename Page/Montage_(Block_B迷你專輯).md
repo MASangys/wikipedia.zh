@@ -1,21 +1,14 @@
-《**Montage**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Block
-B第六張韓語迷你專輯](../Page/Block_B.md "wikilink")，於2017年11月7日發行，主打歌曲為《Shall We
-Dance》\[1\]。
+《**Montage**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Block B第六張韓語迷你專輯](../Page/Block_B.md "wikilink")，於2017年11月7日發行，主打歌曲為《Shall We Dance》\[1\]。
 
 ## 背景
 
-2017年10月18日，Block
-B在官方Facebook公布將在11月7日發行新作，並指出成員[朴經有份參與製作此迷你專輯](../Page/朴經.md "wikilink")\[2\]，不久經紀公司[Seven
-Seasons發放兩組截然不同的概念照片](https://zh.wikipedia.org/wiki/Seven_Seasons "wikilink")，預兆此次音樂作品的風格偏向組合既有的「惡童」色彩\[3\]。
+2017年10月18日，Block B在官方Facebook公布將在11月7日發行新作，並指出成員[朴經](../Page/朴經.md "wikilink")有份參與製作此迷你專輯\[2\]，不久經紀公司[Seven Seasons發放兩組截然不同的概念照片](https://zh.wikipedia.org/wiki/Seven_Seasons "wikilink")，預兆此次音樂作品的風格偏向組合既有的「惡童」色彩\[3\]。
 
-10月29日，組合於官方SNS宣布專輯主打歌曲名稱是《Shall We Dance》\[4\]；到11月1日，Seven
-Seasons揭曉專輯名稱為《Montage》，披露收錄五首歌曲\[5\]，包括之前為[LG手機拍攝廣告歌曲](https://zh.wikipedia.org/wiki/LG "wikilink")、曾為日文專輯主打歌的《MY
-ZONE》韓語版\[6\]。
+10月29日，組合於官方SNS宣布專輯主打歌曲名稱是《Shall We Dance》\[4\]；到11月1日，Seven Seasons揭曉專輯名稱為《Montage》，披露收錄五首歌曲\[5\]，包括之前為[LG手機拍攝廣告歌曲](https://zh.wikipedia.org/wiki/LG "wikilink")、曾為日文專輯主打歌的《MY ZONE》韓語版\[6\]。
 
 與此同時，日本官方亦於10月24日公布在12月6日推出此專輯的日本版\[7\]；到11月9日公開日本版曲目與各版本封面\[8\]。
 
-12月28日，Block
-B在各官方社交平台宣布於2018年1月8日推出《Montage》的改版專輯《**Re:Montage**》，同時發布新的預告照片\[9\]；至2018年1月1日於發表成員[宰孝的個人概念照時同時公開收錄曲目](../Page/宰孝.md "wikilink")——主打歌為[朴經創作及製作的](../Page/朴經.md "wikilink")《不要離開》（）\[10\]。
+12月28日，Block B在各官方社交平台宣布於2018年1月8日推出《Montage》的改版專輯《**Re:Montage**》，同時發布新的預告照片\[9\]；至2018年1月1日於發表成員[宰孝](../Page/宰孝.md "wikilink")的個人概念照時同時公開收錄曲目——主打歌為[朴經](../Page/朴經.md "wikilink")創作及製作的《不要離開》（）\[10\]。
 
 ## 曲目
 
@@ -101,7 +94,7 @@ B在各官方社交平台宣布於2018年1月8日推出《Montage》的改版專
 
 ### Oricon公信榜（日本版）
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置     | 銷售量    | 總銷量    | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置     | 銷售量    | 總銷量    | 停留時間 |
 | ---------------------------------------- | -------- | ------ | ------ | ---- |
 | 專輯日榜                                     | 4\[20\]  | －      | 13,835 | 1星期  |
 | 專輯週榜                                     | 7\[21\]  | 13,835 |        |      |
@@ -180,9 +173,7 @@ B在各官方社交平台宣布於2018年1月8日推出《Montage》的改版專
 
 ## 参考文献
 
-[Category:Block_B音樂專輯](https://zh.wikipedia.org/wiki/Category:Block_B音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink")
+[Category:Block_B音樂專輯](https://zh.wikipedia.org/wiki/Category:Block_B音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink")
 
 1.
 2.

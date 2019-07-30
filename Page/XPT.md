@@ -34,7 +34,7 @@ XPT于2015年注册成立，业务范围涉及电动汽车核心零部件及软�
 
 ### 郑显聪
 
-XPT首席执行官，[蔚来汽车联合创始人](../Page/蔚来汽车.md "wikilink")，[蔚来汽车执行副总裁](../Page/蔚来汽车.md "wikilink")。\[10\]
+XPT首席执行官，[蔚来汽车](../Page/蔚来汽车.md "wikilink")联合创始人，[蔚来汽车](../Page/蔚来汽车.md "wikilink")执行副总裁。\[10\]
 
 ## 參考資料
 
@@ -45,11 +45,7 @@ XPT首席执行官，[蔚来汽车联合创始人](../Page/蔚来汽车.md "wiki
 
   - [XPT中國](http://www.xptglobal.com/cn/)
 
-[Category:上海公司](https://zh.wikipedia.org/wiki/Category:上海公司 "wikilink")
-[Category:中國民營企業](https://zh.wikipedia.org/wiki/Category:中國民營企業 "wikilink")
-[Category:中國品牌](https://zh.wikipedia.org/wiki/Category:中國品牌 "wikilink")
-[Category:2015年成立的公司](https://zh.wikipedia.org/wiki/Category:2015年成立的公司 "wikilink")
-[Category:總部在中國的跨國公司](https://zh.wikipedia.org/wiki/Category:總部在中國的跨國公司 "wikilink")
+[Category:上海公司](https://zh.wikipedia.org/wiki/Category:上海公司 "wikilink") [Category:中國民營企業](https://zh.wikipedia.org/wiki/Category:中國民營企業 "wikilink") [Category:中國品牌](https://zh.wikipedia.org/wiki/Category:中國品牌 "wikilink") [Category:2015年成立的公司](https://zh.wikipedia.org/wiki/Category:2015年成立的公司 "wikilink") [Category:總部在中國的跨國公司](https://zh.wikipedia.org/wiki/Category:總部在中國的跨國公司 "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-**VAV**（），是韓國[A team
-Entertainment旗下七人男子組合](https://zh.wikipedia.org/wiki/A_team_Entertainment "wikilink")，成員包括St.Van、BaRon、Ace、Ayno、Jacob、Lou、Ziu。以及退團成員Xiao、Zehan、Gyeoul。\[1\]。
+**VAV**（），是韓國[A team Entertainment旗下七人男子組合](https://zh.wikipedia.org/wiki/A_team_Entertainment "wikilink")，成員包括St.Van、BaRon、Ace、Ayno、Jacob、Lou、Ziu。以及退團成員Xiao、Zehan、Gyeoul。\[1\]。
 
 VAV的官方歌迷名稱為「VAMPZ」（）。
 
@@ -9,8 +8,7 @@ VAV的官方歌迷名稱為「VAMPZ」（）。
 
 Ayno为[STARSHIP娱乐练习生](../Page/STARSHIP娛樂.md "wikilink")，参与《[NO.MERCY](../Page/NO.MERCY.md "wikilink")》选秀节目。
 
-VAV出道風格源自神秘古老的吸血鬼故事。韓國網漫《沐浴之神》的作者河一權創作的新系列網漫《Under The
-Moonlight》紀錄了这一團體的誕生故事。
+VAV出道風格源自神秘古老的吸血鬼故事。韓國網漫《沐浴之神》的作者河一權創作的新系列網漫《Under The Moonlight》紀錄了这一團體的誕生故事。
 
 ### 2015年：出道
 
@@ -197,6 +195,7 @@ Moonlight》紀錄了这一團體的誕生故事。
 | 2月10日  | [예쁘다고(Gorgeous)](https://www.youtube.com/watch?v=ByLrmZJ7VdI)             |                                                                    |
 | 10月11日 | [Senorita](https://www.youtube.com/watch?v=umv7vZ4SmCc)                   |                                                                    |
 | 2019年  | 3月18日                                                                     | [THRILLA KILLA](https://www.youtube.com/watch?v=waN7F0nSLk8)       |
+| 7月23日  | [Give me more](https://www.youtube.com/watch?v=_XlbPm4KPp0)               |                                                                    |
 |        |                                                                           |                                                                    |
 
 ## 參考來源
@@ -210,8 +209,7 @@ Moonlight》紀錄了这一團體的誕生故事。
   -
   -
   -
-  - [A
-    team官方YouTube](https://www.youtube.com/channel/UCAogbKfNxlAKxzBXFHB8i5g)
+  - [A team官方YouTube](https://www.youtube.com/channel/UCAogbKfNxlAKxzBXFHB8i5g)
 
   - [VAV官方V LIVE頻道](http://channels.vlive.tv/E6A311)
 

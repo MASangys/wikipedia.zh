@@ -230,34 +230,20 @@
 
 [Category:巡迴演唱會列表](https://zh.wikipedia.org/wiki/Category:巡迴演唱會列表 "wikilink")
 
-1.  [MYNAME “The Beginning” Concert Tickets Go On
-    Sale](https://www.soompi.com/2013/01/29/myname-the-beginning-concert-tickets-made-available-and-started-a-reservation-war/)
-2.  [MYNAME to hold their first domestic concert in over 2
-    years\!](https://www.allkpop.com/article/2017/09/myname-to-hold-their-first-domestic-concert-in-over-2-years)
+1.  [MYNAME “The Beginning” Concert Tickets Go On Sale](https://www.soompi.com/2013/01/29/myname-the-beginning-concert-tickets-made-available-and-started-a-reservation-war/)
+2.  [MYNAME to hold their first domestic concert in over 2 years\!](https://www.allkpop.com/article/2017/09/myname-to-hold-their-first-domestic-concert-in-over-2-years)
 3.  [MYNAME、日本初単独コンサート大成功！1stアルバムリリースを発表](http://news.kstyle.com/article.ksn?articleNo=1958808)
-4.  [初の日本全国ツアー「MYNAME LIVE TOUR 2013～THE
-    DEPARTURE～」を開催\!](http://korepo.com/archives/2912)
-5.  [Boy Group MYNAME Entertains 8,000 Fans Through Japan Hall
-    Tour](https://www.soompi.com/2014/01/18/boy-group-myname-entertains-8000-fans-through-japan-hall-tour/)
-6.  [MYNAME全国ライブツアー「MYNAME LIVE HOUSE TOUR 2014 "WOW！"
-    vol.2」スタート＠新宿BLAZE](http://www.asian-hana.com/2014/10/mynamemyname-live-house-tour-2014-wow-vol2blaze.html)
-7.  [「MYNAME JAPAN 2nd HALL
-    TOUR 2014」のファイナル公演](http://www.wowkorea.jp/section/photospecial/all/3236/1/)
-8.  [【ライブレポ】MYNAME TOUR 2015 “The Greatest Stories”
-    毎回変わるコンセプトでファンを魅了！](http://kanpen.asia/archives/8485)
-9.  [【ライブレポ】MYNAME TOUR 2015 “The Greatest Stories”
-    毎回変わるコンセプトでファンを魅了！](http://kanpen.asia/archives/8485)
-10. [13都市19公演「MYNAME 2016 LIVEHOUSE TOUR \~1st
-    Story\~」開催決定！](http://www.myname-jp.com/news/?news_id=2514)
-11. [「MYNAME 2017 LIVE TOUR ALIVE」東京公演大盛況！ 初のLINE
-    LIVE生中継も大好評！ 4月5日に2年ぶりのシングル発売決定！！
-    K-PLAZA](http://k-plaza.com/2017/02/myname-57.html)
-12. [「MYNAME LIVEHOUSE TOUR 2017 〜The Eternal
-    Story〜」開催決定！](http://www.myname-jp.com/news/?news_id=2705)
-13. [【ライブレポ（韓ペンオリジナル）】 ～MYNAME～　5年間、全力で走り続けて来た集大成！8月25日、「 MYNAME
-    LIVE　2017～さよならからはじまるSTORY～開催。インスの入隊前最後の5人のステージは4時間・40曲！](http://kanpen.asia/archives/23005)
-14. [MYNAME To Take Over Europe With New Concert
-    Tour](http://officiallykmusic.com/myname-announced-full-info-about-their-european-tour/)
+4.  [初の日本全国ツアー「MYNAME LIVE TOUR 2013～THE DEPARTURE～」を開催\!](http://korepo.com/archives/2912)
+5.  [Boy Group MYNAME Entertains 8,000 Fans Through Japan Hall Tour](https://www.soompi.com/2014/01/18/boy-group-myname-entertains-8000-fans-through-japan-hall-tour/)
+6.  [MYNAME全国ライブツアー「MYNAME LIVE HOUSE TOUR 2014 "WOW！" vol.2」スタート＠新宿BLAZE](http://www.asian-hana.com/2014/10/mynamemyname-live-house-tour-2014-wow-vol2blaze.html)
+7.  [「MYNAME JAPAN 2nd HALL TOUR 2014」のファイナル公演](http://www.wowkorea.jp/section/photospecial/all/3236/1/)
+8.  [【ライブレポ】MYNAME TOUR 2015 “The Greatest Stories” 毎回変わるコンセプトでファンを魅了！](http://kanpen.asia/archives/8485)
+9.  [【ライブレポ】MYNAME TOUR 2015 “The Greatest Stories” 毎回変わるコンセプトでファンを魅了！](http://kanpen.asia/archives/8485)
+10. [13都市19公演「MYNAME 2016 LIVEHOUSE TOUR \~1st Story\~」開催決定！](http://www.myname-jp.com/news/?news_id=2514)
+11. [「MYNAME 2017 LIVE TOUR ALIVE」東京公演大盛況！ 初のLINE LIVE生中継も大好評！ 4月5日に2年ぶりのシングル発売決定！！ K-PLAZA](http://k-plaza.com/2017/02/myname-57.html)
+12. [「MYNAME LIVEHOUSE TOUR 2017 〜The Eternal Story〜」開催決定！](http://www.myname-jp.com/news/?news_id=2705)
+13. [【ライブレポ（韓ペンオリジナル）】 ～MYNAME～　5年間、全力で走り続けて来た集大成！8月25日、「 MYNAME LIVE　2017～さよならからはじまるSTORY～開催。インスの入隊前最後の5人のステージは4時間・40曲！](http://kanpen.asia/archives/23005)
+14. [MYNAME To Take Over Europe With New Concert Tour](http://officiallykmusic.com/myname-announced-full-info-about-their-european-tour/)
 15.
 16.
 17.

@@ -1,5 +1,4 @@
-\-- This module implements . It converts a year in the Gregorian --
-calendar to the equivalent English or British regnal year.
+\-- This module implements . It converts a year in the Gregorian -- calendar to the equivalent English or British regnal year.
 
 local data = mw.loadData( 'Module:British regnal year/data' )
 

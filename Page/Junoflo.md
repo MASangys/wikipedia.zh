@@ -1,13 +1,9 @@
-**Junoflo**（韓語：주노플로
-，本名**朴俊浩**（韓語：박준호），1992年9月25日－），韓裔美籍[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[饒舌](../Page/饒舌.md "wikilink")[歌手](../Page/歌手.md "wikilink")。
-2016年10月加入Tiger JK成立的Feel GHood Music。
+**Junoflo**（韓語：주노플로 ，本名**朴俊浩**（韓語：박준호），1992年9月25日－），韓裔美籍[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[饒舌](../Page/饒舌.md "wikilink")[歌手](../Page/歌手.md "wikilink")。 2016年10月加入Tiger JK成立的Feel GHood Music。
 
 ## 經歷
 
-參加[Show Me The Money 5](../Page/Show_Me_The_Money_5.md "wikilink") 在1:1
-Battle與Hash Swan對決後淘汰。
-參加[Show Me The Money
-6晉級到半決賽後淘汰](../Page/Show_Me_The_Money_6.md "wikilink")。
+參加[Show Me The Money 5](../Page/Show_Me_The_Money_5.md "wikilink") 在1:1 Battle與Hash Swan對決後淘汰。
+參加[Show Me The Money 6晉級到半決賽後淘汰](../Page/Show_Me_The_Money_6.md "wikilink")。
 
 ## 音乐作品
 
@@ -289,7 +285,7 @@ Life Is 82 Year End Party</p></td>
 <td><p>2017年10月22日</p></td>
 <td><p><a href="../Page/Show_Me_The_Money_6.md" title="wikilink">Show Me The Money 6</a> 演唱會</p></td>
 <td><p><a href="../Page/光州.md" title="wikilink">光州</a></p></td>
-<td><p><a href="../Page/金大中.md" title="wikilink">金大中會議中心多功能廳</a></p></td>
+<td><p><a href="../Page/金大中.md" title="wikilink">金大中</a>會議中心多功能廳</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年10月28日</p></td>
@@ -332,7 +328,7 @@ WITH <a href="../Page/Illionaire_Records.md" title="wikilink">Illionaire Records
 <td><p>2018年2月10日</p></td>
 <td><p>LET'S GET IT HIP-HOP CONCERT</p></td>
 <td><p><a href="../Page/光州.md" title="wikilink">光州</a></p></td>
-<td><p><a href="../Page/金大中.md" title="wikilink">金大中會議中心</a></p></td>
+<td><p><a href="../Page/金大中.md" title="wikilink">金大中</a>會議中心</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年2月23日</p></td>
@@ -383,10 +379,4 @@ WITH <a href="../Page/Illionaire_Records.md" title="wikilink">Illionaire Records
   -
   -
   -
-[Category:1992年出生](https://zh.wikipedia.org/wiki/Category:1992年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink")
-[Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink")
-[Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink")
-[Category:在韓國的美國人](https://zh.wikipedia.org/wiki/Category:在韓國的美國人 "wikilink")
-[Category:韓裔美國人](https://zh.wikipedia.org/wiki/Category:韓裔美國人 "wikilink")
+[Category:1992年出生](https://zh.wikipedia.org/wiki/Category:1992年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink") [Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink") [Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink") [Category:在韓國的美國人](https://zh.wikipedia.org/wiki/Category:在韓國的美國人 "wikilink") [Category:韓裔美國人](https://zh.wikipedia.org/wiki/Category:韓裔美國人 "wikilink")

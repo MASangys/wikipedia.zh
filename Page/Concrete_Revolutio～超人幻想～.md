@@ -1,12 +1,10 @@
-《**Concrete
-Revolutio～超人幻想～**》（）是[BONES和](../Page/BONES_\(動畫製作公司\).md "wikilink")[水島精二推出的原創動畫](../Page/水島精二.md "wikilink")，2015年10月4日開始播放。2016年4月3日起播放第二季《Concrete
-Revolutio～超人幻想～The Last Song》。\[1\]\[2\]
+《**Concrete Revolutio～超人幻想～**》（）是[BONES和](../Page/BONES_\(動畫製作公司\).md "wikilink")[水島精二](../Page/水島精二.md "wikilink")推出的原創動畫，2015年10月4日開始播放。2016年4月3日起播放第二季《Concrete Revolutio～超人幻想～The Last Song》。\[1\]\[2\]
 
 ## 故事簡介
 
 故事以[戰後日本高度經濟成長時期為時代背景和以](https://zh.wikipedia.org/wiki/日本戰後經濟奇蹟 "wikilink")「神化」的虛構年號紀年的日本為舞台。作品中，地球上存在特性各異、由來萬種的各種「超人」，有來自宇宙的巨人、魔科幻世界的生命體、古代即存的妖怪、科學狂人改造的機械人、遠古文明的遺產等。這些超人部分公然活動而受到民眾歡迎，也有部分在暗地裡活躍；而世間上則有和超人立場不同的各種組織、勢力存在並蠢動。
 
-超人的存在，讓日本政府為了維持社會秩序，在[厚生省下設立通稱為](../Page/厚生省.md "wikilink")「超人課」的外圍組織，對外則偽稱「超過人口審議研究所」。超人課在該偽裝下，在社會上協助發現、保護、引導甚至是消滅超人。作品中，以超人課一員的「人吉爾朗」為主角。\[3\]
+超人的存在，讓日本政府為了維持社會秩序，在[厚生省](../Page/厚生省.md "wikilink")下設立通稱為「超人課」的外圍組織，對外則偽稱「超過人口審議研究所」。超人課在該偽裝下，在社會上協助發現、保護、引導甚至是消滅超人。作品中，以超人課一員的「人吉爾朗」為主角。\[3\]
 
 ## 登場角色
 
@@ -50,13 +48,11 @@ Revolutio～超人幻想～The Last Song》。\[1\]\[2\]
 
   -
 
-妖精，喜歡和孩子們玩和惡作劇，前期被超人課逮住，後來加入了超人課，因為身體可以自由變身，常常做著潛入的工作，不老不死的型態，讓郎太不時感到寂寞，但遇到輝子他們後，似乎對現在的任務很有熱忱。
-【"神化44年後半"】 作為超人課的成員追捕爾朗。
+妖精，喜歡和孩子們玩和惡作劇，前期被超人課逮住，後來加入了超人課，因為身體可以自由變身，常常做著潛入的工作，不老不死的型態，讓郎太不時感到寂寞，但遇到輝子他們後，似乎對現在的任務很有熱忱。 【"神化44年後半"】 作為超人課的成員追捕爾朗。
 
   -
 
-身分其實是未來人，因為在未來沒有了超人的存在，所以回到過去成立超人課，目的是保護超人，在這個時代活了三次，能力是變成豹，有能控制時間的懷錶(時間管理局的工具)。
-【"神化44年後半"】 依然是超人課的成員，保護"剩下的"超人，有時幫助爾朗，有時敵對，看不慣公安局的做法。
+身分其實是未來人，因為在未來沒有了超人的存在，所以回到過去成立超人課，目的是保護超人，在這個時代活了三次，能力是變成豹，有能控制時間的懷錶(時間管理局的工具)。 【"神化44年後半"】 依然是超人課的成員，保護"剩下的"超人，有時幫助爾朗，有時敵對，看不慣公安局的做法。
 
   -
 
@@ -172,16 +168,14 @@ Revolutio～超人幻想～The Last Song》。\[1\]\[2\]
   -
 
       -
-        作詞：[松井洋平](https://zh.wikipedia.org/wiki/松井洋平 "wikilink")，作曲、編曲：山本陽介，主唱：山本陽介
-        feat. [玉置成實](../Page/玉置成實.md "wikilink")
+        作詞：[松井洋平](https://zh.wikipedia.org/wiki/松井洋平 "wikilink")，作曲、編曲：山本陽介，主唱：山本陽介 feat. [玉置成實](../Page/玉置成實.md "wikilink")
 
 :;「THE LAST SONG」（第24話）
 
   -
 
       -
-        作詞：[ZAQ](../Page/ZAQ.md "wikilink")，作曲、編曲：山本陽介，主唱：山本陽介 feat.
-        [玉置成實](../Page/玉置成實.md "wikilink")
+        作詞：[ZAQ](../Page/ZAQ.md "wikilink")，作曲、編曲：山本陽介，主唱：山本陽介 feat. [玉置成實](../Page/玉置成實.md "wikilink")
 
 <!-- end list -->
 
@@ -192,8 +186,7 @@ Revolutio～超人幻想～The Last Song》。\[1\]\[2\]
   -
 
       -
-        作詞：北山修，作曲：[加藤和彥](../Page/加藤和彥.md "wikilink")，編曲：Shingo
-        Suzuki，主唱：川本真琴
+        作詞：北山修，作曲：[加藤和彥](../Page/加藤和彥.md "wikilink")，編曲：Shingo Suzuki，主唱：川本真琴
 
 :; 「」（第2、16話）
 
@@ -221,8 +214,7 @@ Revolutio～超人幻想～The Last Song》。\[1\]\[2\]
   -
 
       -
-        作詞：松岡英明，作曲、編曲：TECHNOBOYS PULCRAFT GREEN-FUND，主唱：Mountain
-        Horse（TECHNOBOYS PULCRAFT GREEN-FUND feat. 松岡英明）
+        作詞：松岡英明，作曲、編曲：TECHNOBOYS PULCRAFT GREEN-FUND，主唱：Mountain Horse（TECHNOBOYS PULCRAFT GREEN-FUND feat. 松岡英明）
 
 :; 「」（第6、11、13話）
 
@@ -292,8 +284,7 @@ Revolutio～超人幻想～The Last Song》。\[1\]\[2\]
   -
 
       -
-        作詞、作曲：[井上陽水](../Page/井上陽水.md "wikilink")，編曲：TECHNOBOYS PULCRAFT
-        GREEN-FUND，主唱：[淺岡雄也](https://zh.wikipedia.org/wiki/淺岡雄也 "wikilink")
+        作詞、作曲：[井上陽水](../Page/井上陽水.md "wikilink")，編曲：TECHNOBOYS PULCRAFT GREEN-FUND，主唱：[淺岡雄也](https://zh.wikipedia.org/wiki/淺岡雄也 "wikilink")
 
 :; 「」（第21話）
 
@@ -647,7 +638,7 @@ Revolutio～超人幻想～The Last Song》。\[1\]\[2\]
 | [東京都](../Page/東京都.md "wikilink")                    | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 2015年10月4日－12月27日 | 星期日 23時00分－23時30分                                                                                             | [獨立局](../Page/全國獨立放送協議會.md "wikilink")                | **製作委員會參加**                              |
 | [京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink") | [KBS京都](https://zh.wikipedia.org/wiki/KBS京都 "wikilink")       | 星期日 23時30分－24時00分 |                                                                                                               |                                                       |                                          |
 | [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink") | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")     | 星期日 24時30分－25時00分 |                                                                                                               |                                                       |                                          |
-| 日本全國                                                | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")         | 2015年10月6日－12月29日 | 星期二 24時30分－25時00分                                                                                             | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink") | [ANIME+節目](../Page/ANIME+.md "wikilink") |
+| 日本全國                                                | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")         | 2015年10月6日－12月29日 | 星期二 24時30分－25時00分                                                                                             | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink") | [ANIME+](../Page/ANIME+.md "wikilink")節目 |
 | [AT-X](../Page/AT-X.md "wikilink")                  | 2016年1月16日－4月9日                                               | 星期六 21時00分－21時30分 | 有重播                                                                                                           |                                                       |                                          |
 | 第2期                                                 |                                                               |                   |                                                                                                               |                                                       |                                          |
 | 東京都                                                 | TOKYO MX                                                      | 2016年4月10日－6月19日  | 星期日 23時00分－23時30分                                                                                             | 獨立局                                                   | **製作委員會參加**                              |
@@ -679,7 +670,7 @@ Revolutio～超人幻想～The Last Song》。\[1\]\[2\]
 1.  八束重工影射参与第二次世界大战的三菱重工等企业。
 2.  生田研究所影射进行人体生物实验的[七三一部队](https://zh.wikipedia.org/wiki/七三一部队 "wikilink")
 3.  第一集开始的海报来自[归来的奥特曼](https://zh.wikipedia.org/wiki/归来的奥特曼 "wikilink")（帰ってきたウルトラマン）和美国电影[爱的故事](https://zh.wikipedia.org/wiki/爱的故事 "wikilink")。杂志《周刊少年キング》是少年画报社1963年7月起发行，1982年4月休刊，曾连载过人造人009。博士与S星人交易neta天蝎座ScoX-1的发现。人吉尔朗的盒子影射森永牛奶糖，后段古罗斯奥肯的黑影影射[广岛之影](https://zh.wikipedia.org/wiki/广岛之影 "wikilink")。
-4.  第二集的黑雾事件影射[佐藤荣作政府](../Page/佐藤荣作.md "wikilink")1966年下半年的一连串政治丑闻，如[共和制糖事件](https://zh.wikipedia.org/wiki/共和制糖事件 "wikilink")。
+4.  第二集的黑雾事件影射[佐藤荣作](../Page/佐藤荣作.md "wikilink")政府1966年下半年的一连串政治丑闻，如[共和制糖事件](https://zh.wikipedia.org/wiki/共和制糖事件 "wikilink")。
 5.  第三集的军人影射潜伏关岛28年的[横井庄一](https://zh.wikipedia.org/wiki/横井庄一 "wikilink")，插入歌《青年以荒野为目标》是当年前30名流行歌曲。后段剧情影射1972年的[日本冬季奥运会和日本赤军](https://zh.wikipedia.org/wiki/日本冬季奥运会 "wikilink")。女机器人袭击八束重工车辆的情节致敬[攻壳机动队电影第一部和OVA第一季以及](https://zh.wikipedia.org/wiki/攻壳机动队 "wikilink")[福音战士新剧场版：破](https://zh.wikipedia.org/wiki/福音战士新剧场版：破 "wikilink")。
 6.  第四集开头影射电影[金刚](https://zh.wikipedia.org/wiki/金刚 "wikilink")、[瓜达尔卡纳尔岛战役和电影](https://zh.wikipedia.org/wiki/瓜达尔卡纳尔岛战役 "wikilink")[哥斯拉](../Page/哥斯拉.md "wikilink")，章鱼怪兽neta雷欧奥特曼的圆盘怪兽アブソウバ
 
@@ -689,23 +680,11 @@ Revolutio～超人幻想～The Last Song》。\[1\]\[2\]
 
   - [電視動畫「Concrete Revolutio～超人幻想～」官方網站](http://concreterevolutio.com/)
 
-  - [電視動畫「Concrete
-    Revolutio～超人幻想～」中文官方網站](http://concreterevolutio.com/zh-hk/)
+  - [電視動畫「Concrete Revolutio～超人幻想～」中文官方網站](http://concreterevolutio.com/zh-hk/)
 
   -
   -
-[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:外星生命題材動畫](https://zh.wikipedia.org/wiki/Category:外星生命題材動畫 "wikilink")
-[Category:魔法少女動畫](https://zh.wikipedia.org/wiki/Category:魔法少女動畫 "wikilink")
-[Category:妖怪題材動畫](https://zh.wikipedia.org/wiki/Category:妖怪題材動畫 "wikilink")
-[Category:機械人動畫](https://zh.wikipedia.org/wiki/Category:機械人動畫 "wikilink")
-[Category:怪兽题材作品](https://zh.wikipedia.org/wiki/Category:怪兽题材作品 "wikilink")
-[Category:超級英雄](https://zh.wikipedia.org/wiki/Category:超級英雄 "wikilink")
-[Category:Young_Ace](https://zh.wikipedia.org/wiki/Category:Young_Ace "wikilink")
-[Category:虛構日本背景動畫](https://zh.wikipedia.org/wiki/Category:虛構日本背景動畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:外星生命題材動畫](https://zh.wikipedia.org/wiki/Category:外星生命題材動畫 "wikilink") [Category:魔法少女動畫](https://zh.wikipedia.org/wiki/Category:魔法少女動畫 "wikilink") [Category:妖怪題材動畫](https://zh.wikipedia.org/wiki/Category:妖怪題材動畫 "wikilink") [Category:機械人動畫](https://zh.wikipedia.org/wiki/Category:機械人動畫 "wikilink") [Category:怪兽题材作品](https://zh.wikipedia.org/wiki/Category:怪兽题材作品 "wikilink") [Category:超級英雄](https://zh.wikipedia.org/wiki/Category:超級英雄 "wikilink") [Category:Young_Ace](https://zh.wikipedia.org/wiki/Category:Young_Ace "wikilink") [Category:虛構日本背景動畫](https://zh.wikipedia.org/wiki/Category:虛構日本背景動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 2.

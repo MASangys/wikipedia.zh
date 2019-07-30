@@ -3032,13 +3032,9 @@
   - [KBS特輯電視劇](../Page/KBS特輯電視劇.md "wikilink")
   - [SBS特輯電視劇](../Page/SBS特輯電視劇.md "wikilink")
 
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
 
-1.  [동아일보, TV
-    프로그램](http://newslibrary.naver.com/viewer/index.nhn?articleId=1980123000209208009&editNo=2&printCount=1&publishDate=1980-12-30&officeId=00020&pageNo=8&printNo=18228&publishType=00020)《옛날
-    나 어릴 적에》는 KBS 1TV에서 함
+1.  [동아일보, TV 프로그램](http://newslibrary.naver.com/viewer/index.nhn?articleId=1980123000209208009&editNo=2&printCount=1&publishDate=1980-12-30&officeId=00020&pageNo=8&printNo=18228&publishType=00020)《옛날 나 어릴 적에》는 KBS 1TV에서 함
 2.
 3.
 4.
@@ -3054,5 +3050,4 @@
 14. [스쿨버스](http://www.imbc.com/broad/tv/drama/schoolbus/)
 15. [我隱藏的愛情](http://www.imbc.com/broad/tv/drama/deeplove/)
 16. [蓮花道](http://www.imbc.com/broad/tv/drama/lotusflower/)
-17. [우리 다시 사랑할까요?](http://movie.daum.net/tv/main?tvProgramId=54991) Daum
-    movie
+17. [우리 다시 사랑할까요?](http://movie.daum.net/tv/main?tvProgramId=54991) Daum movie

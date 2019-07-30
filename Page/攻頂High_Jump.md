@@ -1,10 +1,8 @@
-[いただきハイジャンプ](http://www.fujitv.co.jp/high-jump/)即「攻頂High
-JUMP」。由日本[傑尼斯事務所旗下團體](../Page/傑尼斯事務所.md "wikilink")[Hey\!Say\!JUMP冠名主持播出](../Page/Hey!_Say!_JUMP.md "wikilink")，並且是[Hey\!Say\!JUMP在](../Page/Hey!_Say!_JUMP.md "wikilink")[富士電視台的首個冠名節目](../Page/富士電視台.md "wikilink")。第一期於2014年12月29日深夜1：00\~2：00播出。因為播出後反應非常好，求常規化的呼聲很高，所以2015年6月10日25：45\~26：15(深夜1:：45\~2：45)放送第二期作为正式常規化前的SP，並在節目最後以驚喜的形式宣布節目將於7月開始常規化，放送時間為每周三深夜25:40～26:10播出(日本)。2017年十月開始，放送時間改為每周六14:00\~14:30播出\[1\]
+《**攻頂High JUMP**》（）。由日本[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")旗下團體[Hey\!Say\!JUMP冠名主持播出](../Page/Hey!_Say!_JUMP.md "wikilink")，並且是[Hey\!Say\!JUMP在](../Page/Hey!_Say!_JUMP.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")的首個冠名節目。第一期於2014年12月29日深夜1：00\~2：00播出。因為播出後反應非常好，求常規化的呼聲很高，所以2015年6月10日25：45\~26：15(深夜1:：45\~2：45)放送第二期作为正式常規化前的SP，並在節目最後以驚喜的形式宣布節目將於7月開始常規化，放送時間為每周三深夜25:40～26:10播出(日本)。2017年十月開始，放送時間改為每周六14:00\~14:30播出\[1\]
 
 ## 節目簡介
 
-いただきハイジャンプ是為[Hey\!Say\!JUMP將要解決世間的一切大事件所製作在](../Page/Hey!_Say!_JUMP.md "wikilink")[富士電視台的冠名節目](../Page/富士電視台.md "wikilink")。為了把事情一件一件的努力解决，JUMP的成員都會全力以赴，目標是攻頂藝能界，所以節目名稱命名為「攻頂High
-JUMP」
+《攻頂High JUMP》是為[Hey\!Say\!JUMP將要解決世間的一切大事件所製作在](../Page/Hey!_Say!_JUMP.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")的冠名節目。為了把事情一件一件的努力解决，JUMP的成員都會全力以赴，目標是攻頂藝能界，所以節目名稱命名為「攻頂High JUMP」
 
 ## 節目列表
 
@@ -142,15 +140,11 @@ JUMP」
 | 111    | 18.03.17     |                        |                                              |                                                    |
 | 112    | 18.03.24     | 無                      | 有岡大貴 知念侑李                                    | 將搬家費縮減到一萬元左右的方法！                                   |
 
-\[9\]\[10\]
-
 ### 參考資料
 
 <references />
 
-[Category:Hey\!_Say\!_JUMP](https://zh.wikipedia.org/wiki/Category:Hey!_Say!_JUMP "wikilink")
-[Category:富士電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台綜藝節目 "wikilink")
-[Category:2015年日本電視節目](https://zh.wikipedia.org/wiki/Category:2015年日本電視節目 "wikilink")
+[Category:Hey\!_Say\!_JUMP](https://zh.wikipedia.org/wiki/Category:Hey!_Say!_JUMP "wikilink") [Category:富士電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台綜藝節目 "wikilink") [Category:2015年日本電視節目](https://zh.wikipedia.org/wiki/Category:2015年日本電視節目 "wikilink")
 
 1.
 
@@ -162,5 +156,3 @@ JUMP」
 6.
 7.
 8.
-9.
-10.

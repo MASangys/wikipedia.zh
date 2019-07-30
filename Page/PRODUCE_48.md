@@ -1,48 +1,30 @@
-《**PRODUCE
-48**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[Mnet在](../Page/Mnet媒體.md "wikilink")2018年推出，由韓國多家[經紀公司旗下](../Page/經紀公司.md "wikilink")[練習生](https://zh.wikipedia.org/wiki/練習生 "wikilink")、以及日本[AKB48集團旗下藝人兩方共同演出的選拔](../Page/AKB48集團.md "wikilink")／生存[實境節目](../Page/真人實境秀.md "wikilink")，為《[PRODUCE
-101](../Page/PRODUCE_101.md "wikilink")》系列節目的第三季。參賽者在比賽期間將會同吃同住、完成各種任務。選拔方式與前作相同，參賽者國籍與賽制並無相關，僅限韓國觀眾可參與投票，最後獲選的12名成員將會組成一個[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，以該團體身分活動2年6個月、並在日韓兩國同時出道\[1\]。節目最終回中公佈團體名為[IZ\*ONE](../Page/IZ*ONE.md "wikilink")（）。
+《**PRODUCE 48**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[Mnet在](../Page/Mnet媒體.md "wikilink")2018年推出，由韓國多家[經紀公司](../Page/經紀公司.md "wikilink")旗下[練習生](https://zh.wikipedia.org/wiki/練習生 "wikilink")、以及日本[AKB48集團](../Page/AKB48集團.md "wikilink")旗下藝人兩方共同演出的選拔／生存[實境節目](../Page/真人實境秀.md "wikilink")，為《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》系列節目的第三季。參賽者在比賽期間將會同吃同住、完成各種任務。選拔方式與前作相同，參賽者國籍與賽制並無相關，僅限韓國觀眾可參與投票，最後獲選的12名成員將會組成一個[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，以該團體身分活動2年6個月、並在日韓兩國同時出道\[1\]。節目最終回中公佈團體名為[IZ\*ONE](../Page/IZ*ONE.md "wikilink")（）。
 
 ## 節目概要
 
-2017年11月29日，Mnet在[2017 Mnet Asian Music
-Awards](../Page/2017年Mnet亞洲音樂大獎.md "wikilink") in
-Japan現場公佈節目預告，並與[AKB48家族總](../Page/AKB48.md "wikilink")[製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink")[秋元康合作](../Page/秋元康.md "wikilink")\[2\]\[3\]。12月10日，在AKB48的演唱会《第7届AKB48紅白对抗歌合战》上宣布了AKB48家族的成員們可以报名参加节目\[4\]。成员报名申請期為2017年12月15日至2018年1月10日\[5\]，并将在1月开始进行第一次甄选\[6\]。2018年1月16日，内幕人士透露，製作人已經開始與[韓國和](https://zh.wikipedia.org/wiki/韓國 "wikilink")[日本的參賽成員會面](../Page/日本.md "wikilink")，進行選拔\[7\]。
+2017年11月29日，Mnet在[2017 Mnet Asian Music Awards](../Page/2017年Mnet亞洲音樂大獎.md "wikilink") in Japan現場公佈節目預告，並與[AKB48](../Page/AKB48.md "wikilink")家族總[製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink")[秋元康](../Page/秋元康.md "wikilink")合作\[2\]\[3\]。12月10日，在AKB48的演唱会《第7届AKB48紅白对抗歌合战》上宣布了AKB48家族的成員們可以报名参加节目\[4\]。成员报名申請期為2017年12月15日至2018年1月10日\[5\]，并将在1月开始进行第一次甄选\[6\]。2018年1月16日，内幕人士透露，製作人已經開始與[韓國和](https://zh.wikipedia.org/wiki/韓國 "wikilink")[日本](../Page/日本.md "wikilink")的參賽成員會面，進行選拔\[7\]。
 
 2018年4月10日，参加节目的AKB48家族成员前往韩国\[8\]。但节目内部人士表示“在节目开播之前不会发表日本的出演者名单”\[9\]。
 
-2018年4月11日开始，進行第一次拍攝，节目預計同年6月中播出\[10\]。[PRODUCE
-101的](../Page/PRODUCE_101.md "wikilink")[昭彌以及](../Page/昭彌.md "wikilink")[PRODUCE
-101
-第二季的](../Page/PRODUCE_101_第二季.md "wikilink")[姜丹尼爾參與了](../Page/姜丹尼爾.md "wikilink")11日進行的《PRODUCE
-48》首次錄影，兩人以過來人的身分給予了鼓勵和應援\[11\]\[12\]。
+2018年4月11日开始，進行第一次拍攝，节目預計同年6月中播出\[10\]。[PRODUCE 101的](../Page/PRODUCE_101.md "wikilink")[昭彌](../Page/昭彌.md "wikilink")以及[PRODUCE 101 第二季的](../Page/PRODUCE_101_第二季.md "wikilink")[姜丹尼爾](../Page/姜丹尼爾.md "wikilink")參與了11日進行的《PRODUCE 48》首次錄影，兩人以過來人的身分給予了鼓勵和應援\[11\]\[12\]。
 
 2018年4月12日，製作組表示：「最終選出的女團成員活動期間已經確定為2年6個月，由於是國民製作人選出的第一個韓日女團，所以這個團體將會在韓國、日本分別出道，並且展開全球活動。為了確保各位成員在回到原經紀公司時，已經成為世界性的明星，所以我們與所有參與本次節目的經紀公司一起討論出2年6個月的活動期間。」\[13\]\[14\]\[15\]。
 
-2018年4月17日，Mnet相關人員表示：「《PRODUCE
-48》參賽者們在今日已完成主題曲錄音，至於歌曲名稱和曲風請透過節目舞台確認」\[16\]。
+2018年4月17日，Mnet相關人員表示：「《PRODUCE 48》參賽者們在今日已完成主題曲錄音，至於歌曲名稱和曲風請透過節目舞台確認」\[16\]。
 
-2018年4月18日，[Mnet相關人員透露演員兼歌手](https://zh.wikipedia.org/wiki/Mnet "wikilink")[李昇基確定擔任節目的主持兼國民製作人代表](../Page/李昇基.md "wikilink")\[17\]\[18\]。
+2018年4月18日，[Mnet相關人員透露演員兼歌手](https://zh.wikipedia.org/wiki/Mnet "wikilink")[李昇基](../Page/李昇基.md "wikilink")確定擔任節目的主持兼國民製作人代表\[17\]\[18\]。
 
-2018年4月22日，節目相關人員表示，[I.O.I](../Page/I.O.I.md "wikilink")、[Wanna
-One共](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")22名成員參與今天進行的錄製，為即將透過《PRODUCE
-48》誕生的全新企劃團體應援，而這天96位練習生在仁川附近進行 Mnet《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》事前錄製，首次公開新的主題曲舞台\[19\]。
+2018年4月22日，節目相關人員表示，[I.O.I](../Page/I.O.I.md "wikilink")、[Wanna One共](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")22名成員參與今天進行的錄製，為即將透過《PRODUCE 48》誕生的全新企劃團體應援，而這天96位練習生在仁川附近進行 Mnet《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》事前錄製，首次公開新的主題曲舞台\[19\]。
 
-2018年5月3日，節目相關人員表示，參賽者[李佳恩](https://zh.wikipedia.org/wiki/李佳恩 "wikilink")（[After
-School](../Page/After_School.md "wikilink")）擔當韓國選拔的中心成員，而日本選拔的中心成員由[宮脇咲良](../Page/宮脇咲良.md "wikilink")（[HKT48](../Page/HKT48.md "wikilink")）擔當\[20\]\[21\]。
+2018年5月3日，節目相關人員表示，參賽者[李佳恩](https://zh.wikipedia.org/wiki/李佳恩 "wikilink")（[After School](../Page/After_School.md "wikilink")）擔當韓國選拔的中心成員，而日本選拔的中心成員由[宮脇咲良](../Page/宮脇咲良.md "wikilink")（[HKT48](../Page/HKT48.md "wikilink")）擔當\[20\]\[21\]。
 
-2018年5月10日，在當晚6點播出的《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中，首次公開練習生於上月22日錄製的團體舞台，歌曲是《是我的
-(PICK ME)》（），這首歌音源也已於同日6點同時公開韩日双版\[22\]。
+2018年5月10日，在當晚6點播出的《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中，首次公開練習生於上月22日錄製的團體舞台，歌曲是《是我的 (PICK ME)》（），這首歌音源也已於同日6點同時公開韩日双版\[22\]。
 
-2018年6月15日，節目開播，[I.O.I的](../Page/I.O.I.md "wikilink")[昭彌及](../Page/昭彌.md "wikilink")[Wanna
-One的](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")[姜丹尼爾擔任首期节目的特約主持](../Page/姜丹尼爾.md "wikilink")\[23\]。
+2018年6月15日，節目開播，[I.O.I](../Page/I.O.I.md "wikilink")的[昭彌](../Page/昭彌.md "wikilink")及[Wanna One的](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")[姜丹尼爾](../Page/姜丹尼爾.md "wikilink")擔任首期节目的特約主持\[23\]。
 
-2018年7月14日播出的第5集中，[I.O.I的](../Page/I.O.I.md "wikilink")[金请夏](https://zh.wikipedia.org/wiki/金请夏 "wikilink")、[昭弥作为特别MC主持Dancing](https://zh.wikipedia.org/wiki/昭弥 "wikilink")
-Queen选拔战。
+2018年7月14日播出的第5集中，[I.O.I](../Page/I.O.I.md "wikilink")的[金请夏](https://zh.wikipedia.org/wiki/金请夏 "wikilink")、[昭弥作为特别MC主持Dancing](https://zh.wikipedia.org/wiki/昭弥 "wikilink") Queen选拔战。
 
-2018年8月16日，Mnet官方宣布8月31日的決賽直播將提早三個小時從晚上8點開始進行， 同時播出的日本BS SKY
-PerfecTV\!也將調整最後一集的播出時間\[24\]\[25\]。
+2018年8月16日，Mnet官方宣布8月31日的決賽直播將提早三個小時從晚上8點開始進行， 同時播出的日本BS SKY PerfecTV\!也將調整最後一集的播出時間\[24\]\[25\]。
 
 2018年9月25日及26日中秋特輯中播放重新剪輯舞台鏡頭。
 
@@ -50,8 +32,7 @@ PerfecTV\!也將調整最後一集的播出時間\[24\]\[25\]。
 
   - 國民製作人代表：[李昇基](../Page/李昇基.md "wikilink")
   - 聲樂導師：[李洪基](../Page/李洪基.md "wikilink")（[FTIsland](../Page/FTIsland.md "wikilink")）\[26\]、[韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink")
-  - 舞蹈導師：、、[May J
-    Lee](../Page/May_J_Lee.md "wikilink")、[嘉熙](https://zh.wikipedia.org/wiki/嘉熙_\(歌手\) "wikilink")\[27\]
+  - 舞蹈導師：、、[May J Lee](../Page/May_J_Lee.md "wikilink")、[嘉熙](https://zh.wikipedia.org/wiki/嘉熙_\(歌手\) "wikilink")\[27\]
   - Rap導師：[Cheetah](../Page/Cheetah.md "wikilink")
 
 ## 成員
@@ -175,7 +156,7 @@ PerfecTV\!也將調整最後一集的播出時間\[24\]\[25\]。
 ### 第一集
 
   - 成員出場介紹並自由選擇排名1－96的座位。
-  - 第一季和第二季的第一名[Somi](../Page/昭彌.md "wikilink")、[姜丹尼爾作為開場MC](../Page/姜丹尼爾.md "wikilink")
+  - 第一季和第二季的第一名[Somi](../Page/昭彌.md "wikilink")、[姜丹尼爾](../Page/姜丹尼爾.md "wikilink")作為開場MC
   - 練習生分級——自由分組進行表演後，由主持人及導師群分配至最佳的A級到最差的F級。
       - 分級不受經紀公司所限，每位練習生依表現得到相應的分級，再給予相應程度的練習課程。
 
@@ -190,7 +171,7 @@ PerfecTV\!也將調整最後一集的播出時間\[24\]\[25\]。
 | 金秀润                                                                           |
 | 金采源                                                                           |
 | [WM娱乐](../Page/WM娱乐.md "wikilink")                                            |
-| 李彩䜩                                                                           |
+| 李彩演                                                                           |
 | 赵荣印                                                                           |
 | 8D Creative                                                                   |
 | Urban Works                                                                   |
@@ -943,8 +924,7 @@ Very Very Raspberry</p></td>
 
   - 李昇基讲述自己出道经历心路历程，告诉练习生欲戴王冠必承其重
   - 昭宥带领练习生进行形体健身。
-  - 舞蹈對決：特別MC：[金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")、[全昭彌](../Page/昭彌.md "wikilink")、Dancing
-    Queen：AKB48[後藤萌咲](../Page/後藤萌咲.md "wikilink")，給舞后所屬C等級全員練習生贈送化妝品禮物。
+  - 舞蹈對決：特別MC：[金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")、[全昭彌](../Page/昭彌.md "wikilink")、Dancing Queen：AKB48[後藤萌咲](../Page/後藤萌咲.md "wikilink")，給舞后所屬C等級全員練習生贈送化妝品禮物。
   - 隐藏摄影机——胆量测验。
   - 練習生票選視覺中心排名。
 
@@ -1148,8 +1128,7 @@ Very Very Raspberry</p></td>
 
 ### 第八集
 
-  - 概念風格評價分組與練習：概念風格配對投票：2018年7月14日 01:30～7月21日 01:00
-    期間，經網路投票選出適合練習生風格的歌曲，每一首歌得票數最高的10位練習生進入該組，最後7位練習生自動組成一組。
+  - 概念風格評價分組與練習：概念風格配對投票：2018年7月14日 01:30～7月21日 01:00 期間，經網路投票選出適合練習生風格的歌曲，每一首歌得票數最高的10位練習生進入該組，最後7位練習生自動組成一組。
   - （L）代表隊長，（C）代表C位，**粗字**為晉級練習生
 
 | 概念風格評價最初分組名單                     |
@@ -1214,8 +1193,7 @@ Very Very Raspberry</p></td>
 | HKT48                            |
 |                                  |
 
-  - 公佈第二次綜合評價排名結果
-    （淘汰第31-57名）：綜合評價票數包含：定位評價現場觀眾投票票數+福利票數及網路投票（官網+手機App）票數
+  - 公佈第二次綜合評價排名結果 （淘汰第31-57名）：綜合評價票數包含：定位評價現場觀眾投票票數+福利票數及網路投票（官網+手機App）票數
   - 網路投票期：7月14日 01:00～7月28日 11:00
 
 | 第二次綜合評價排名 |
@@ -1512,7 +1490,7 @@ Very Very Raspberry</p></td>
 | 副主唱8     |
 | 副主唱9     |
 
-  - 最終排名儀式（淘汰第13-20名），最高12位獲選為[IZ\*ONE出道](../Page/IZ*ONE.md "wikilink")。
+  - 最終排名儀式（淘汰第13-20名），最高12位獲選為[IZ\*ONE](../Page/IZ*ONE.md "wikilink")出道。
 
 | 最終綜合評價排名 |
 | -------- |
@@ -1598,7 +1576,7 @@ Very Very Raspberry</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>最终<a href="../Page/IZ*ONE.md" title="wikilink">IZ*ONE组合出道成员</a></p></td>
+<td><p>最终<a href="../Page/IZ*ONE.md" title="wikilink">IZ*ONE</a>组合出道成员</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1695,7 +1673,7 @@ Very Very Raspberry</p></td>
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
-<td><p>李彩䜩</p></td>
+<td><p>李彩演</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/WM娛樂" title="wikilink">WM娛樂</a></p></td>
 <td></td>
@@ -2544,7 +2522,7 @@ Very Very Raspberry</p></td>
 | 2018年5月10日           | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | 是我的 내꺼야(PICK ME)（韩语+日语）\[30\] | 全員   |
 | 2018年6月14日           | 是我的 내꺼야(PICK ME)（韩语）\[31\]                                          | 全員（練習服Ver）                    |      |
 | 2018年8月23日           | I AM\[32\]                                                          | 崔叡娜、安兪真、許允真、高橋朱里、李佳恩          |      |
-| 1000%\[33\]          | 宮崎美穂、後藤萌咲、李彩䜩、下尾美羽、金珉周                                              |                               |      |
+| 1000%\[33\]          | 宮崎美穂、後藤萌咲、李彩演、下尾美羽、金珉周                                              |                               |      |
 | 再次相遇\[34\]           | 姜惠元、王怡人、竹內美宥、朴海允、宮脇咲良                                               |                               |      |
 | Rumor\[35\]          | 韓初媛、村瀨紗英、金施贤、李詩安、權恩妃                                                |                               |      |
 | 想要觸碰到你\[36\]         | 曺柔理、羅高恩、矢吹奈子、金采源、張圭悧                                                |                               |      |
@@ -2610,8 +2588,7 @@ Very Very Raspberry</p></td>
 
 ## 相關事件
 
-  - 合約預定為2年6個月，較先前[I.O.I](../Page/I.O.I.md "wikilink")（1年）與[Wanna
-    One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")（1年6個月）長，原因是因為此企劃為日韓兩國合作，故合約期限較長\[38\]。节目播出时未对可否兼任原所属团体同时活动给出说明。
+  - 合約預定為2年6個月，較先前[I.O.I](../Page/I.O.I.md "wikilink")（1年）與[Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")（1年6個月）長，原因是因為此企劃為日韓兩國合作，故合約期限較長\[38\]。节目播出时未对可否兼任原所属团体同时活动给出说明。
   - 練習生的待遇改善：出場費為10万韩元/场，每唱一曲则可收入100万韩元\[39\]。
   - 2018年5月8日，拍攝現場的無人機意外於飛行途中墜落，並砸傷兩名練習生\[40\]。
 
@@ -2621,12 +2598,10 @@ Very Very Raspberry</p></td>
 
 <!-- end list -->
 
-  - 2018年11月28日发行的AKB48第54张单曲《[NO WAY
-    MAN](../Page/NO_WAY_MAN.md "wikilink")》中，所有进入节目最终评价阶段的日方参与成员皆获选为单曲选拔成员\[41\]，而单曲的B面曲也收录了由“PRODUCE48选拔”（所有未进入最终评价但未于首轮被淘汰的日方成员）演唱的歌曲《一下就被看穿真是对不起》（）及其MV\[42\]以及由“Team
-    Nice Fight”（所有于首轮被淘汰的日方成员）演唱的歌曲《堵住耳朵\!》（、中途退赛的成员未参加）\[43\]。
-  - [高桥朱里](https://zh.wikipedia.org/wiki/高桥朱里 "wikilink")（最終第16名）于2019年3月4日的生诞祭公演中宣布于2019年5月6日自AKB48毕业，并签约[Woollim娱乐于韩国出道](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")\[44\]。
-  - [竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")（最終第17名）于2019年5月6日自AKB48毕业，并签约[Mystic娱乐于韩国出道](https://zh.wikipedia.org/wiki/Mystic娱乐 "wikilink")\[45\]。
-  - [千叶惠里](https://zh.wikipedia.org/wiki/千叶惠里 "wikilink")（最終第33名）作为常规班底出演了2019年5月起播出的[Mnet综艺节目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[留学少女](https://zh.wikipedia.org/wiki/留学少女 "wikilink")》\[46\]。
+  - 2018年11月28日发行的AKB48第54张单曲《[NO WAY MAN](../Page/NO_WAY_MAN.md "wikilink")》中，所有进入节目最终评价阶段的日方参与成员皆获选为单曲选拔成员\[41\]，而单曲的B面曲也收录了由“PRODUCE48选拔”（所有未进入最终评价但未于首轮被淘汰的日方成员）演唱的歌曲《一下就被看穿真是对不起》（）及其MV\[42\]以及由“Team Nice Fight”（所有于首轮被淘汰的日方成员）演唱的歌曲《堵住耳朵\!》（、中途退赛的成员未参加）\[43\]。
+  - [高桥朱里](https://zh.wikipedia.org/wiki/高桥朱里 "wikilink")（最終第16名）于2019年3月4日的生诞祭公演中宣布于2019年5月6日自AKB48毕业，并签约[Woollim娱乐](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")\[44\]。2019年7月22日，Woollim娱乐公开了高桥将作为新组合[Rocket Punch成员于下半年出道的消息](../Page/Rocket_Punch.md "wikilink")\[45\]\[46\]。
+  - [竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")（最終第17名）于2019年5月6日自AKB48毕业，并签约[Mystic娱乐于韩国发展](https://zh.wikipedia.org/wiki/Mystic娱乐 "wikilink")\[47\]。
+  - [千叶惠里](https://zh.wikipedia.org/wiki/千叶惠里 "wikilink")（最終第33名）作为常规班底出演了2019年5月至7月播出的[Mnet综艺节目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[留学少女](https://zh.wikipedia.org/wiki/留学少女 "wikilink")》\[48\]，节目参加者以“留学少女(UHSN)”的名义发行了单曲《Popsicle》。
 
 <!-- end list -->
 
@@ -2634,16 +2609,14 @@ Very Very Raspberry</p></td>
 
 <!-- end list -->
 
-  - [朴海允](../Page/海允.md "wikilink")（最終第19名）作为组合[Cherry
-    Bullet的成员于](../Page/Cherry_Bullet.md "wikilink")2019年1月21日出道\[47\]。
-  - [金镀我](https://zh.wikipedia.org/wiki/金镀我 "wikilink")（最終第23名）以组合[FANATICS的分队](../Page/FANATICS.md "wikilink")[FLAVOR成员于](../Page/FLAVOR.md "wikilink")2018年11月26日出道\[48\]。
-  - [张圭悧](https://zh.wikipedia.org/wiki/张圭悧 "wikilink")（最終第25名）回归之前所属组合[fromis
-    9](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")，并以2018年10月10日发行的单曲专辑《[From.9](../Page/From.9.md "wikilink")》正式以组合一员回归\[49\]。
-  - [金施贤](../Page/金施贤.md "wikilink")（最終第27名）及[王怡人](../Page/王怡人.md "wikilink")（最終第28名）以组合[EVERGLOW成员身份于](../Page/EVERGLOW.md "wikilink")2019年3月18日出道\[50\]\[51\]。
-  - 尹海率（最終第35名）获选[JLAB
-    COSMETIC旗下品牌](https://zh.wikipedia.org/wiki/JLAB_COSMETIC "wikilink")[NUMYNK的专属模特](https://zh.wikipedia.org/wiki/NUMYNK "wikilink")。并以韩国首个电子竞技组合[Aqua主唱的身份活动](https://zh.wikipedia.org/wiki/Aqua_\(组合\) "wikilink")\[52\]。
-  - 金慜㥠（最終第44名）和王珂（最終第56名）所属经纪公司的控股公司NHN
-    Bugs\!于2019年1月30日宣布，二人将以新女团成员身份于2019年上半年出道\[53\]。
+  - [李佳恩](https://zh.wikipedia.org/wiki/李佳恩 "wikilink")（最終第14名）因合约到期于2019年7月离开了[Pledis娱乐并退出](https://zh.wikipedia.org/wiki/Pledis娱乐 "wikilink")[After School](../Page/After_School.md "wikilink")，后签约[High娱乐继续发展](https://zh.wikipedia.org/wiki/High娱乐 "wikilink")\[49\]。
+  - [朴海允](../Page/海允.md "wikilink")（最終第19名）作为组合[Cherry Bullet的成员于](../Page/Cherry_Bullet.md "wikilink")2019年1月21日出道\[50\]。
+  - [金镀我](https://zh.wikipedia.org/wiki/金镀我 "wikilink")（最終第23名）以组合[FANATICS](../Page/FANATICS.md "wikilink")的分队[FLAVOR](../Page/FLAVOR.md "wikilink")成员于2018年11月26日出道\[51\]。
+  - [张圭悧](https://zh.wikipedia.org/wiki/张圭悧 "wikilink")（最終第25名）回归之前所属组合[fromis_9](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")，并以2018年10月10日发行的单曲专辑《[From.9](../Page/From.9.md "wikilink")》正式以组合一员回归\[52\]。
+  - [金施贤](../Page/金施贤.md "wikilink")（最終第27名）及[王怡人](../Page/王怡人.md "wikilink")（最終第28名）以组合[EVERGLOW](../Page/EVERGLOW.md "wikilink")成员身份于2019年3月18日出道\[53\]\[54\]。
+  - 尹海率（最終第35名）获选[JLAB COSMETIC旗下品牌](https://zh.wikipedia.org/wiki/JLAB_COSMETIC "wikilink")[NUMYNK的专属模特](https://zh.wikipedia.org/wiki/NUMYNK "wikilink")。并以韩国首个电子竞技组合[Aqua主唱的身份活动](https://zh.wikipedia.org/wiki/Aqua_\(组合\) "wikilink")\[55\]。
+  - [金素嬉](https://zh.wikipedia.org/wiki/金素嬉 "wikilink")（最終第43名）和[金秀润](https://zh.wikipedia.org/wiki/金秀润 "wikilink")（最終第47名）将与高桥朱里一同以组合[Rocket Punch出道](../Page/Rocket_Punch.md "wikilink")\[56\]。
+  - 金慜㥠（最終第44名）和王珂（最終第56名）所属经纪公司的控股公司NHN Bugs\!于2019年1月30日宣布，二人将以新女团成员身份于2019年上半年出道\[57\]。
 
 ## 備註
 
@@ -2659,14 +2632,9 @@ Very Very Raspberry</p></td>
 
   - （节目播出时）
 
-  - [PRODUCE 48](https://tv.naver.com/cjenm.produce48)的[NAVER频道](../Page/NAVER.md "wikilink")
+  - [PRODUCE 48](https://tv.naver.com/cjenm.produce48)的[NAVER](../Page/NAVER.md "wikilink")频道
 
-[Category:PRODUCE_101](https://zh.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
-[Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
-[Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink")
-[Category:IZ\*ONE](https://zh.wikipedia.org/wiki/Category:IZ*ONE "wikilink")
-[Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink")
+[Category:PRODUCE_101](https://zh.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink") [Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink") [Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink") [Category:IZ\*ONE](https://zh.wikipedia.org/wiki/Category:IZ*ONE "wikilink") [Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink")
 
 1.
 
@@ -2772,3 +2740,10 @@ Very Very Raspberry</p></td>
 52.
 
 53.
+
+54.
+
+55.
+
+56.
+57.

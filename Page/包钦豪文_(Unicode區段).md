@@ -1,4 +1,4 @@
-**包钦豪文**是一个位于第一輔助平面的[Unicode區段](../Page/Unicode區段.md "wikilink")，收录了[欽邦](../Page/欽邦.md "wikilink")[梯頂鎮的宗教领袖](../Page/梯頂鎮.md "wikilink")於1902年发明的。這種文字主要用於拼寫[库基-钦语支的](https://zh.wikipedia.org/wiki/库基-钦语支 "wikilink")。\[1\]
+**包钦豪文**是一个位于第一輔助平面的[Unicode區段](../Page/Unicode區段.md "wikilink")，收录了[欽邦](../Page/欽邦.md "wikilink")[梯頂鎮](../Page/梯頂鎮.md "wikilink")的宗教领袖於1902年发明的。這種文字主要用於拼寫[库基-钦语支的](https://zh.wikipedia.org/wiki/库基-钦语支 "wikilink")。\[1\]
 
 ## 历史
 

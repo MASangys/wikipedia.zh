@@ -1,12 +1,12 @@
-《**突变异种**》（）是美国[科幻电视剧](https://zh.wikipedia.org/wiki/科幻电视作品 "wikilink")《[X档案](../Page/X档案.md "wikilink")》第一季的第三集，于1993年9月24日通过[福克斯电视网在美国首播](https://zh.wikipedia.org/wiki/福斯广播公司 "wikilink")。节目由格伦·摩根和[黄毅瑜编剧](../Page/黄毅瑜.md "wikilink")，哈里·朗斯特里特执导，另有部分附加镜头由迈克尔·卡特曼导演。道格·休切逊饰演的变异连环杀手尤金·维克多·托姆斯在本集首度与观众见面，之后他还会在第一季第21集《[终结突变异种](https://zh.wikipedia.org/wiki/终结突变异种_\(X档案\) "wikilink")》中再次亮相。《突变异种》是《档案》“每周怪物”系列的第一集，其剧情同主线相对独立，与[剧中的层层谜团没有联系](https://zh.wikipedia.org/wiki/X档案的神话 "wikilink")。
+《**突变异种**》（）是美国[科幻电视剧](https://zh.wikipedia.org/wiki/科幻电视作品 "wikilink")《[X档案](../Page/X档案.md "wikilink")》第一季的第三集，于1993年9月24日通过[福克斯电视网在美国首播](https://zh.wikipedia.org/wiki/福斯广播公司 "wikilink")。节目由格伦·摩根和[黄毅瑜](../Page/黄毅瑜.md "wikilink")编剧，哈里·朗斯特里特执导，另有部分附加镜头由迈克尔·卡特曼导演。道格·休切逊饰演的变异连环杀手尤金·维克多·托姆斯在本集首度与观众见面，之后他还会在第一季第21集《[终结突变异种](https://zh.wikipedia.org/wiki/终结突变异种_\(X档案\) "wikilink")》中再次亮相。《突变异种》是《档案》“每周怪物”系列的第一集，其剧情同主线相对独立，与[剧中的层层谜团没有联系](https://zh.wikipedia.org/wiki/X档案的神话 "wikilink")。
 
-[联邦调查局特工](../Page/联邦调查局.md "wikilink")[福克斯·穆德](https://zh.wikipedia.org/wiki/福克斯·穆德 "wikilink")（[大卫·杜考夫尼饰](https://zh.wikipedia.org/wiki/大卫·杜考夫尼 "wikilink")）和[丹娜·斯嘉丽](https://zh.wikipedia.org/wiki/丹娜·斯嘉丽 "wikilink")（[吉莲·安德森饰](https://zh.wikipedia.org/wiki/吉莲·安德森 "wikilink")）受命调查人称“档案”的悬案，这些案件大多同[超自然现象有关](https://zh.wikipedia.org/wiki/超常现象 "wikilink")。穆德相信有超自然现象存在，但斯嘉丽对此抱怀疑态度，希望能证明实情并非如此。两人在本集调查一起连环凶杀案，凶手似乎有某种超能力，能将躯体挤压后通过极其狭窄的缝隙。两名特工推断凶手可能存在基因突变，并且已经这样疯狂杀戮达90年之久。
+[联邦调查局](../Page/联邦调查局.md "wikilink")特工[福克斯·穆德](https://zh.wikipedia.org/wiki/福克斯·穆德 "wikilink")（[大卫·杜考夫尼饰](https://zh.wikipedia.org/wiki/大卫·杜考夫尼 "wikilink")）和[丹娜·斯嘉丽](https://zh.wikipedia.org/wiki/丹娜·斯嘉丽 "wikilink")（[吉莲·安德森饰](https://zh.wikipedia.org/wiki/吉莲·安德森 "wikilink")）受命调查人称“档案”的悬案，这些案件大多同[超自然现象有关](https://zh.wikipedia.org/wiki/超常现象 "wikilink")。穆德相信有超自然现象存在，但斯嘉丽对此抱怀疑态度，希望能证明实情并非如此。两人在本集调查一起连环凶杀案，凶手似乎有某种超能力，能将躯体挤压后通过极其狭窄的缝隙。两名特工推断凶手可能存在基因突变，并且已经这样疯狂杀戮达90年之久。
 
 《突变异种》的制作困难重重，朗斯特里特同其他剧组成员在创作理念上存在难以调和的分歧，导致导演换人，部分镜头只能在前期拍摄完成后补拍。受此影响，剧集依赖[后期制作技术才得以完成](https://zh.wikipedia.org/wiki/后期制作 "wikilink")。不过，节目播出后获得评论界好评，特别是休切逊的表演和人物塑造颇受赞赏。马来西亚《[星报](../Page/星报_\(马来西亚\).md "wikilink")》之后称赞《突变异种》令观众真正接纳《档案》的构想\[1\]。部分学者认为本集对执法政治的描绘值得称道，并且《档案》系列剧集到处都有同类写照，侦察人员渴望探求事实真相的同时，往往也必须同确保刑事定罪的职责妥协。
 
 ## 剧情
 
-[巴尔的摩商人乔治](https://zh.wikipedia.org/wiki/巴尔的摩 "wikilink")·厄舍（）回到工作的办公楼内，似乎有人躲在[风暴排水管内偷偷看着他](https://zh.wikipedia.org/wiki/风暴排水管 "wikilink")，再经电梯井进入通风系统并潜入大楼，然后杀害厄舍，还掏出他的[肝脏](https://zh.wikipedia.org/wiki/肝脏 "wikilink")。厄舍已是近期第三个被同类手法杀害的人，雄心勃勃的[联邦调查局特工汤姆](../Page/联邦调查局.md "wikilink")·科尔顿（，[多纳尔·罗格饰](https://zh.wikipedia.org/wiki/多纳尔·罗格 "wikilink")）获派调查此案，由于缺乏线索，他找上曾一起接受训练的丹娜·斯嘉丽（，[吉莲·安德森饰](https://zh.wikipedia.org/wiki/吉莲·安德森 "wikilink")）请求协助。
+[巴尔的摩商人乔治](https://zh.wikipedia.org/wiki/巴尔的摩 "wikilink")·厄舍（）回到工作的办公楼内，似乎有人躲在[风暴排水管内偷偷看着他](https://zh.wikipedia.org/wiki/风暴排水管 "wikilink")，再经电梯井进入通风系统并潜入大楼，然后杀害厄舍，还掏出他的[肝脏](https://zh.wikipedia.org/wiki/肝脏 "wikilink")。厄舍已是近期第三个被同类手法杀害的人，雄心勃勃的[联邦调查局](../Page/联邦调查局.md "wikilink")特工汤姆·科尔顿（，[多纳尔·罗格饰](https://zh.wikipedia.org/wiki/多纳尔·罗格 "wikilink")）获派调查此案，由于缺乏线索，他找上曾一起接受训练的丹娜·斯嘉丽（，[吉莲·安德森饰](https://zh.wikipedia.org/wiki/吉莲·安德森 "wikilink")）请求协助。
 
 科尔顿对案情感到迷茫，三起凶杀案中受害人的肝脏都是被徒手掏出，但却无法断定凶手是如何进入室内。福克斯·穆德（，[大卫·杜考夫尼饰](https://zh.wikipedia.org/wiki/大卫·杜考夫尼 "wikilink")）查看卷宗后发现，三起案件同发生在1933和1963年的连环杀人案颇为相似。穆德还在命案现场的通气孔位置发现拉长的指纹，同“档案”中记载的指纹类似。由于数十年前的连环杀人案都有五人被害，因此他断定杀戳尚未结束，还会有两人被杀。
 
@@ -22,7 +22,7 @@
 
 [Foie_gras_DSC00180.jpg](https://zh.wikipedia.org/wiki/File:Foie_gras_DSC00180.jpg "fig:Foie_gras_DSC00180.jpg")在尝过[鹅肝后建议让托姆斯以人类肝脏为食](https://zh.wikipedia.org/wiki/鹅肝 "wikilink")\]\]
 
-《[X档案](../Page/X档案.md "wikilink")》的前两集都是围绕节目的虚构历史、即《档案》的“[神话](https://zh.wikipedia.org/wiki/X档案的神话 "wikilink")”展开，但第三集并非如此。作为整部电视剧中“每周怪物”系列的第一集，《突变异种》证明该剧同样能涉足其他[超自然题材](https://zh.wikipedia.org/wiki/超常现象 "wikilink")。电视剧主创人[克里斯·卡特认为](https://zh.wikipedia.org/wiki/克里斯·卡特 "wikilink")，为了保持良好发展势头，节目剧情不能只以[不明飞行物为核心](../Page/不明飞行物.md "wikilink")，必须发散出去。\[4\]编剧[格伦·摩根](https://zh.wikipedia.org/wiki/格伦·摩根 "wikilink")（）和[黄毅瑜在看着办公室外的通风井时突发奇想](../Page/黄毅瑜.md "wikilink")，有没有谁能够从那里爬进来，本集的剧情灵感便由此而来。虽然《突变异种》的剧情同第二部“[考查克](https://zh.wikipedia.org/wiki/考查克之锦衣夜行 "wikilink")”系列[电视电影](https://zh.wikipedia.org/wiki/电视电影 "wikilink")《[考查克：花街恶魔](https://zh.wikipedia.org/wiki/考查克：花街恶魔 "wikilink")》（）颇为相似，该片中的凶手每隔21年就会犯案，但摩根和黄毅瑜表示，他们的灵感实际上源自连环杀手[开膛手杰克和](https://zh.wikipedia.org/wiki/开膛手杰克 "wikilink")[理察·拉米雷兹](https://zh.wikipedia.org/wiki/理察·拉米雷兹 "wikilink")。\[5\]卡特在前往法国期间品尝过[鹅肝](https://zh.wikipedia.org/wiki/鹅肝 "wikilink")，他提议让凶手以人类肝脏为食\[6\]\[7\]。摩根对此称，编剧之所以同意选择肝脏是因为觉得这比用其他器官“更滑稽”\[8\]。剧中托姆斯筑巢休眠的情节源自摩根和黄毅瑜的建议，两人觉得如果特工未能把嫌疑人抓捕归案，那么托姆斯就可以在休眠数周-{}-后回归\[9\]。
+《[X档案](../Page/X档案.md "wikilink")》的前两集都是围绕节目的虚构历史、即《档案》的“[神话](https://zh.wikipedia.org/wiki/X档案的神话 "wikilink")”展开，但第三集并非如此。作为整部电视剧中“每周怪物”系列的第一集，《突变异种》证明该剧同样能涉足其他[超自然题材](https://zh.wikipedia.org/wiki/超常现象 "wikilink")。电视剧主创人[克里斯·卡特认为](https://zh.wikipedia.org/wiki/克里斯·卡特 "wikilink")，为了保持良好发展势头，节目剧情不能只以[不明飞行物](../Page/不明飞行物.md "wikilink")为核心，必须发散出去。\[4\]编剧[格伦·摩根](https://zh.wikipedia.org/wiki/格伦·摩根 "wikilink")（）和[黄毅瑜](../Page/黄毅瑜.md "wikilink")在看着办公室外的通风井时突发奇想，有没有谁能够从那里爬进来，本集的剧情灵感便由此而来。虽然《突变异种》的剧情同第二部“[考查克](https://zh.wikipedia.org/wiki/考查克之锦衣夜行 "wikilink")”系列[电视电影](https://zh.wikipedia.org/wiki/电视电影 "wikilink")《[考查克：花街恶魔](https://zh.wikipedia.org/wiki/考查克：花街恶魔 "wikilink")》（）颇为相似，该片中的凶手每隔21年就会犯案，但摩根和黄毅瑜表示，他们的灵感实际上源自连环杀手[开膛手杰克和](https://zh.wikipedia.org/wiki/开膛手杰克 "wikilink")[理察·拉米雷兹](https://zh.wikipedia.org/wiki/理察·拉米雷兹 "wikilink")。\[5\]卡特在前往法国期间品尝过[鹅肝](https://zh.wikipedia.org/wiki/鹅肝 "wikilink")，他提议让凶手以人类肝脏为食\[6\]\[7\]。摩根对此称，编剧之所以同意选择肝脏是因为觉得这比用其他器官“更滑稽”\[8\]。剧中托姆斯筑巢休眠的情节源自摩根和黄毅瑜的建议，两人觉得如果特工未能把嫌疑人抓捕归案，那么托姆斯就可以在休眠数周-{}-后回归\[9\]。
 
 男演员道格·休切逊（）参加托姆斯一角试镜时已有33岁，但制片人起初还是觉得他太年轻，格伦·摩根甚至认为休切逊“看起来才12岁”\[10\]。不过，休切逊突然转变成攻击状态的能力令几位编剧刮目相看，所以最终决定请他出演\[11\]。据休切逊表示，把托姆斯塑造成“沉寂型”人物是受到[安东尼·霍普金斯在电影](https://zh.wikipedia.org/wiki/安东尼·霍普金斯 "wikilink")《[沉默的羔羊](../Page/沉默的羔羊.md "wikilink")》中的表演启发\[12\]。
 
@@ -50,7 +50,7 @@
 
 《突变异种》于1993年9月24日通过[福克斯电视网在美国首播](https://zh.wikipedia.org/wiki/福斯广播公司 "wikilink")，再于1994年10月3日通过[英国广播公司第二台在英国播映](https://zh.wikipedia.org/wiki/英国广播公司第二台 "wikilink")\[29\]。节目在美国首播期间约有680万户家庭收看，观众人数约1110万\[30\]\[31\]。[尼尔森收视率数值为](https://zh.wikipedia.org/wiki/尼尔森收视率 "wikilink")7.2，收视率13，意即当时所有装有电视的美国家庭中有7.2%收看本集，当时就在看电视的观众则有13%选择《突变异种》\[32\]。
 
-格伦·摩根对休切逊的演出赞不绝口，称赞他是节目的“王牌”，表现“精彩绝伦”\[33\]。摩根之后还创作有第一季第21集《终结突变异种》（）的剧本\[34\]，让休切逊的角色回归。[文斯·吉利根执笔的](../Page/文斯·吉利根.md "wikilink")[第二季第](https://zh.wikipedia.org/wiki/X档案_\(第二季\) "wikilink")23集《[柔光](https://zh.wikipedia.org/wiki/柔光_\(X档案\) "wikilink")》（）也曾提及托姆斯一角\[35\]\[36\]。休切逊还为《突变异种》写出前传剧本发给卡特，题为《他就是长有金色眼睛的黑暗》（），但由于法律方面缘故，卡特没有查看手稿，将之原样退回\[37\]。有评论认为，《突变异种》是《档案》首次向恐惧风格拓展，节目之后也发展成恐怖类电视剧\[38\]。1996年，美国小说家[艾伦·斯泰博](https://zh.wikipedia.org/wiki/艾伦·斯泰博 "wikilink")（）把这集改编成面向青壮年读者的小说\[39\]\[40\]。此外，电视剧《[异形庇护所](https://zh.wikipedia.org/wiki/异形庇护所 "wikilink")》[第一季第四集](https://zh.wikipedia.org/wiki/异形庇护所_\(第一季\) "wikilink")《能够折叠的人》（）就是受到《突变异种》启发而创作\[41\]。
+格伦·摩根对休切逊的演出赞不绝口，称赞他是节目的“王牌”，表现“精彩绝伦”\[33\]。摩根之后还创作有第一季第21集《终结突变异种》（）的剧本\[34\]，让休切逊的角色回归。[文斯·吉利根](../Page/文斯·吉利根.md "wikilink")执笔的[第二季第](https://zh.wikipedia.org/wiki/X档案_\(第二季\) "wikilink")23集《[柔光](https://zh.wikipedia.org/wiki/柔光_\(X档案\) "wikilink")》（）也曾提及托姆斯一角\[35\]\[36\]。休切逊还为《突变异种》写出前传剧本发给卡特，题为《他就是长有金色眼睛的黑暗》（），但由于法律方面缘故，卡特没有查看手稿，将之原样退回\[37\]。有评论认为，《突变异种》是《档案》首次向恐惧风格拓展，节目之后也发展成恐怖类电视剧\[38\]。1996年，美国小说家[艾伦·斯泰博](https://zh.wikipedia.org/wiki/艾伦·斯泰博 "wikilink")（）把这集改编成面向青壮年读者的小说\[39\]\[40\]。此外，电视剧《[异形庇护所](https://zh.wikipedia.org/wiki/异形庇护所 "wikilink")》[第一季第四集](https://zh.wikipedia.org/wiki/异形庇护所_\(第一季\) "wikilink")《能够折叠的人》（）就是受到《突变异种》启发而创作\[41\]。
 
 《[娱乐周刊](../Page/娱乐周刊.md "wikilink")》在回顾第一季时给本集评分“+”（最高“+”），称其为“重要剧集”，还称赞休切逊饰演的托姆斯“的确令人毛骨悚然\[42\]。”不过，《[独立报](https://zh.wikipedia.org/wiki/独立报 "wikilink")》的托马斯·萨特克利夫（）对节目评价不佳，称节目的整体设定“荒谬可笑”，他还讽刺剧中穆德推导托姆斯超能力的桥段太过做作，“显然就是演绎法的又一次胜利\[43\]。”《[温哥华太阳报](https://zh.wikipedia.org/wiki/温哥华太阳报 "wikilink")》发文，把《突变异种》评为《档案》的最佳独立剧集之一，文中写道：“《档案》逐渐以令人毛骨悚然的每周怪物剧集闻名，《突变异种》便是其中一部开山之作。”文中还称，本集同《终结突变异种》“依然身处电视史上最吓人的节目之列。”\[44\]在线杂志《》的康妮·奥格勒（）将托姆斯评为《档案》是最伟大的怪物之一\[45\]。
 
@@ -67,9 +67,7 @@
   -
   -
 
-[Category:1993年电视剧分集](https://zh.wikipedia.org/wiki/Category:1993年电视剧分集 "wikilink")
-[Category:马里兰州巴尔的摩题材作品](https://zh.wikipedia.org/wiki/Category:马里兰州巴尔的摩题材作品 "wikilink")
-[Category:X档案第一季剧集](https://zh.wikipedia.org/wiki/Category:X档案第一季剧集 "wikilink")
+[Category:1993年电视剧分集](https://zh.wikipedia.org/wiki/Category:1993年电视剧分集 "wikilink") [Category:马里兰州巴尔的摩题材作品](https://zh.wikipedia.org/wiki/Category:马里兰州巴尔的摩题材作品 "wikilink") [Category:X档案第一季剧集](https://zh.wikipedia.org/wiki/Category:X档案第一季剧集 "wikilink")
 
 1.
 
@@ -104,11 +102,7 @@
 22.
 23.
 
-24.  The X-Files/Millennium {{\!}} TV Club {{\!}} TV | first = Keith |
-    last = Phipps | publisher = *The A.V. Club* | date = 2008-06-20 |
-    accessdate = 2016-10-04 | archiveurl =
-    <https://web.archive.org/web/20160303193315/http://www.avclub.com/tvclub/the-x-filesmillennium-deep-throatsqueeze-13036>
-    | archivedate = 2016-03-03 | deadurl = no}}
+24.  The X-Files/Millennium {{\!}} TV Club {{\!}} TV | first = Keith | last = Phipps | publisher = *The A.V. Club* | date = 2008-06-20 | accessdate = 2016-10-04 | archiveurl = <https://web.archive.org/web/20160303193315/http://www.avclub.com/tvclub/the-x-filesmillennium-deep-throatsqueeze-13036> | archivedate = 2016-03-03 | deadurl = no}}
 
 25.
 
@@ -150,13 +144,7 @@
 
 49.
 50.
-51.  Neil Gaiman: My Top 10 New Classic Monsters {{\!}} Photo 7 of 12 |
-    first = Neil | last = Gaiman | publisher = *Entertainment Weekly* |
-    date = 2008-07-23 | archiveurl =
-    <https://web.archive.org/web/20151027012808/http://www.ew.com/gallery/neil-gaiman-my-top-10-new-classic-monsters/293729_eugene-toomsljpg>
-    | archivedate = 2015-10-27 | deadurl = no | accessdate = 2016-10-04
-    | url =
-    <http://www.ew.com/gallery/neil-gaiman-my-top-10-new-classic-monsters/293729_eugene-toomsljpg>}}
+51.  Neil Gaiman: My Top 10 New Classic Monsters {{\!}} Photo 7 of 12 | first = Neil | last = Gaiman | publisher = *Entertainment Weekly* | date = 2008-07-23 | archiveurl = <https://web.archive.org/web/20151027012808/http://www.ew.com/gallery/neil-gaiman-my-top-10-new-classic-monsters/293729_eugene-toomsljpg> | archivedate = 2015-10-27 | deadurl = no | accessdate = 2016-10-04 | url = <http://www.ew.com/gallery/neil-gaiman-my-top-10-new-classic-monsters/293729_eugene-toomsljpg>}}
 
 52.
 

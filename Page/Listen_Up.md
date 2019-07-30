@@ -1,5 +1,4 @@
-《**Listen
-Up**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[謝霆鋒的第](../Page/謝霆鋒.md "wikilink")16張[音樂專輯](../Page/音樂專輯.md "wikilink")，第四張國語專輯，於2004年5月14日推出。
+《**Listen Up**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[謝霆鋒](../Page/謝霆鋒.md "wikilink")的第16張[音樂專輯](../Page/音樂專輯.md "wikilink")，第四張國語專輯，於2004年5月14日推出。
 
 ## 曲目
 
@@ -24,9 +23,4 @@ Up**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wiki
   - 2004年TVB8金曲榜第三季季選\[Listen up\]
   - 第二屆中國唱片金碟獎 \~ 最佳舞曲（港澳台）\[戰\]
 
-[Category:謝霆鋒音樂專輯](https://zh.wikipedia.org/wiki/Category:謝霆鋒音樂專輯 "wikilink")
-[Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:謝霆鋒](https://zh.wikipedia.org/wiki/Category:謝霆鋒 "wikilink")
+[Category:謝霆鋒音樂專輯](https://zh.wikipedia.org/wiki/Category:謝霆鋒音樂專輯 "wikilink") [Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:謝霆鋒](https://zh.wikipedia.org/wiki/Category:謝霆鋒 "wikilink")

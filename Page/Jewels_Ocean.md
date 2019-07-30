@@ -1,6 +1,4 @@
-是日本[Escu:de在](../Page/Escu:de.md "wikilink")2004年3月19日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2006年2月23日由Pionesoft發售[PlayStation
-2版](../Page/PlayStation_2.md "wikilink")《**Jewels Ocean** Star of Sierra
-Leone》（ジュエルスオーシャン Star of Sierra Leone）。\[3\]除了遊戲外也發售CD、小說等相關作品。
+是日本[Escu:de](../Page/Escu:de.md "wikilink")在2004年3月19日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2006年2月23日由Pionesoft發售[PlayStation 2版](../Page/PlayStation_2.md "wikilink")《**Jewels Ocean** Star of Sierra Leone》（ジュエルスオーシャン Star of Sierra Leone）。\[3\]除了遊戲外也發售CD、小說等相關作品。
 
 ## 故事
 
@@ -157,18 +155,11 @@ Leone》（ジュエルスオーシャン Star of Sierra Leone）。\[3\]除了�
   - [Escu:de](http://www.escude.co.jp/)
   - [Pionesoft](https://web.archive.org/web/20080915073417/http://www.pionesoft.jp/)
 
-[Category:2004年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2004年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink")
-[Category:寶石題材作品](https://zh.wikipedia.org/wiki/Category:寶石題材作品 "wikilink")
+[Category:2004年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2004年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:寶石題材作品](https://zh.wikipedia.org/wiki/Category:寶石題材作品 "wikilink")
 
 1.  [ジュエルスオーシャン特集](http://www.game-style.jp/special/200402/27/00jew_es.php)Game-Style
 2.  [Jewels Ocean](https://vndb.org/v3329)The Visual Novel Database
-3.  [ジュエルスオーシャン Star of Sierra
-    Leone](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=11101)ファミ通.com
+3.  [ジュエルスオーシャン Star of Sierra Leone](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=11101)ファミ通.com
 4.  [ジュエルスオーシャン](http://erogetrailers.com/soft/1252#layout_page)ErogeTrailers
-5.  [ジュエルスオーシャン](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=3342#ad)ErogameScape
-    -エロゲー批評空間-
+5.  [ジュエルスオーシャン](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=3342#ad)ErogameScape -エロゲー批評空間-
 6.  [2004年MOEゲーランキング](http://www.getchu.com/pc/rank.phtml?rank_flag=3)Getchu.com

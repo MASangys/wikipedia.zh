@@ -12,17 +12,8 @@
 
 |-
 
-[Category:明尼阿波利斯人](https://zh.wikipedia.org/wiki/Category:明尼阿波利斯人 "wikilink")
-[Category:阿默斯特學院校友](https://zh.wikipedia.org/wiki/Category:阿默斯特學院校友 "wikilink")
-[Category:明尼蘇達州參議員](https://zh.wikipedia.org/wiki/Category:明尼蘇達州參議員 "wikilink")
-[Category:明尼蘇達州眾議員](https://zh.wikipedia.org/wiki/Category:明尼蘇達州眾議員 "wikilink")
-[Category:明尼蘇達州共和黨人](https://zh.wikipedia.org/wiki/Category:明尼蘇達州共和黨人 "wikilink")
-[Category:明尼蘇達州企業家](https://zh.wikipedia.org/wiki/Category:明尼蘇達州企業家 "wikilink")
-[Category:美國軍事人物](https://zh.wikipedia.org/wiki/Category:美國軍事人物 "wikilink")
+[Category:明尼阿波利斯人](https://zh.wikipedia.org/wiki/Category:明尼阿波利斯人 "wikilink") [Category:阿默斯特學院校友](https://zh.wikipedia.org/wiki/Category:阿默斯特學院校友 "wikilink") [Category:明尼蘇達州參議員](https://zh.wikipedia.org/wiki/Category:明尼蘇達州參議員 "wikilink") [Category:明尼蘇達州眾議員](https://zh.wikipedia.org/wiki/Category:明尼蘇達州眾議員 "wikilink") [Category:明尼蘇達州共和黨人](https://zh.wikipedia.org/wiki/Category:明尼蘇達州共和黨人 "wikilink") [Category:明尼蘇達州企業家](https://zh.wikipedia.org/wiki/Category:明尼蘇達州企業家 "wikilink") [Category:美國軍事人物](https://zh.wikipedia.org/wiki/Category:美國軍事人物 "wikilink")
 
-1.  [Minnesota Legislators Past and Present-Robert G.
-    Dunn](http://www.leg.state.mn.us/legdb/fulldetail?ID=10154)
-2.  'Introduced By Austin Lawmakers-Gambling bill passed by Senate,'
-    **Austin Daily Herald,** Judy Allen, May 13, 1977, pg. 1
-3.  [Robert G. "Bob"
-    Dunn-obituary](http://www.startribune.com/obituaries/detail/188626/?fullname=robert-g-bob-dunn)
+1.  [Minnesota Legislators Past and Present-Robert G. Dunn](http://www.leg.state.mn.us/legdb/fulldetail?ID=10154)
+2.  'Introduced By Austin Lawmakers-Gambling bill passed by Senate,' **Austin Daily Herald,** Judy Allen, May 13, 1977, pg. 1
+3.  [Robert G. "Bob" Dunn-obituary](http://www.startribune.com/obituaries/detail/188626/?fullname=robert-g-bob-dunn)

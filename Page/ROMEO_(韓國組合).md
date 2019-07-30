@@ -1,5 +1,4 @@
-**ROMEO**（；），由[HUNUS旗下子公司CT娛樂於](../Page/HUNUS娛樂.md "wikilink")2015年第一個推出的七人男子組合，於2015年5月7日推出首張迷你專輯《THE
-ROMEO》，以《LOVESICK》（因為漂亮／예쁘니까）正式出道。出道時平均年齡17.7歲。
+**ROMEO**（；），由[HUNUS旗下子公司CT娛樂於](../Page/HUNUS娛樂.md "wikilink")2015年第一個推出的七人男子組合，於2015年5月7日推出首張迷你專輯《THE ROMEO》，以《LOVESICK》（因為漂亮／예쁘니까）正式出道。出道時平均年齡17.7歲。
 
 組合名稱「ROMEO」來自莎士比亞的名作《[羅密歐與茱麗葉](https://zh.wikipedia.org/wiki/羅密歐與茱麗葉 "wikilink")》，形象也如羅密歐一樣，洋溢著純真、心動、熱情、幸福、永恆、信任和希望七種氣息。
 
@@ -273,7 +272,7 @@ Special</strong></p></td>
 | 2015年11月4日 | [TARGET](https://www.youtube.com/watch?v=YC0-c0iW4WA)                       |                                  |
 | 2015年11月9日 | [TARGET(DANCE Ver.)](https://www.youtube.com/watch?v=AE-c7Gem6To)           |                                  |
 | 2016年5月22日 | [악몽(Nightmare)](https://m.youtube.com/watch?v=wmupWIAwFIA&feature=youtu.be) |                                  |
-| 2016年6月22日 | [MIRO](https://m.youtube.com/watch?feature=youtu.be&v=a9WTD8-zVGc)          | [珉豪演出](../Page/珉豪.md "wikilink") |
+| 2016年6月22日 | [MIRO](https://m.youtube.com/watch?feature=youtu.be&v=a9WTD8-zVGc)          | [珉豪](../Page/珉豪.md "wikilink")演出 |
 | 2016年7月4日  | [MIRO(DANCE Ver.)](https://www.youtube.com/watch?v=iHS4fOozgvY)             |                                  |
 | 2016年8月22日 | [TREASURE](https://www.youtube.com/watch?v=QypLJyTKpkA)                     |                                  |
 | 2017年3月8日  | [니가 없는데(Without U)](https://www.youtube.com/watch?v=y6nJeOVrXU0&t=4s)       |                                  |
@@ -515,8 +514,7 @@ Special</strong></p></td>
 <!-- end list -->
 
   - [ROMEO 官方VLIVE頻道](http://channels.vlive.tv/EA529B/video)
-  - [ROMEO
-    官方YOUTUBE頻道](https://www.youtube.com/channel/UCgsFFT6vJIxYgA0T5vHsPAg)
+  - [ROMEO 官方YOUTUBE頻道](https://www.youtube.com/channel/UCgsFFT6vJIxYgA0T5vHsPAg)
 
 <!-- end list -->
 
@@ -530,9 +528,6 @@ Special</strong></p></td>
   - [ROMEO 官方微博](https://weibo.com/teamctromeo)
   - [ROMEO 工作人員TWITTER](https://twitter.com/ROMEO_STAFF)
 
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
+[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
 
 1.  中文藝名參照ROMEO官方微博；成員 **江珉** 曾作 **姜民**，現以正名作準。

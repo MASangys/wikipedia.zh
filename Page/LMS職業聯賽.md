@@ -1,5 +1,4 @@
-**LMS職業聯賽**（**League of Legends Master
-Series**，簡稱**LMS**，因賽事區域位在台港澳又稱**台港澳職業聯賽**），為[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[澳門地區的](../Page/澳門.md "wikilink")[英雄聯盟職業聯賽](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")\[1\]，第一個賽季在2015年春季，一年將有春、夏兩季的八個隊伍常規性季賽，每半季的賽事結束後，會進行新一季的升降賽，決定下一季的參賽隊伍名單\[2\]。
+**LMS職業聯賽**（**League of Legends Master Series**，簡稱**LMS**，因賽事區域位在台港澳又稱**台港澳職業聯賽**），為[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")地區的[英雄聯盟職業聯賽](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")\[1\]，第一個賽季在2015年春季，一年將有春、夏兩季的八個隊伍常規性季賽，每半季的賽事結束後，會進行新一季的升降賽，決定下一季的參賽隊伍名單\[2\]。
 
 LMS職業聯賽於2015及2016年採用各戰隊雙循環BO2賽制，2017年與各賽區同時採用各戰隊雙循環BO3賽制，而春季例行賽積分前四之隊伍將可參加春季季後賽，爭奪春季冠軍與代表LMS賽區參加[英雄聯盟季中邀請賽](https://zh.wikipedia.org/wiki/英雄聯盟季中邀請賽 "wikilink")（MSI），夏季例行賽積分前四強隊伍則參加夏季季後賽，爭奪夏季冠軍與代表LMS賽區第一種子參加[英雄聯盟世界大賽](https://zh.wikipedia.org/wiki/英雄聯盟世界大賽 "wikilink")，而年度積分前四名隊伍扣除夏季冠軍隊伍則爭奪LMS賽區區域選拔賽冠軍代表第二種子前往世界大賽。
 
@@ -28,7 +27,7 @@ LMS職業聯賽於2015及2016年採用各戰隊雙循環BO2賽制，2017年與�
 
 主播：湯米(Tommy)、Rex、部分(Section)、考特(Scott)、KH
 
-賽評：叉燒(Fluidwind)、Egg、Woody、 貝克(Backstairs)、ZOD、Cyo、Jwell
+賽評：Egg、Woody、 貝克(Backstairs)、ZOD、Cyo、Jwell
 
 主持人：JoJo、蘇蘇
 
@@ -47,7 +46,7 @@ LMS職業聯賽於2015及2016年採用各戰隊雙循環BO2賽制，2017年與�
 | 夏季                                         | 閃電狼               | ahq e-Sports Club                                                               | [Raise Gaming](https://zh.wikipedia.org/wiki/Raise_Gaming "wikilink") | J Team                                                                            | Machi E-Sports                                                                  | [Hong Kong Attitude](https://zh.wikipedia.org/wiki/Hong_Kong_Attitude "wikilink") | 華義Spider                                                                              | [Fireball](https://zh.wikipedia.org/wiki/Fireball "wikilink")             |                                                                               |
 | [2018](../Page/2018_LMS職業聯賽.md "wikilink") | 春季                | 閃電狼                                                                             | [G-Rex](../Page/G-Rex.md "wikilink")                                  | [MAD Team](https://zh.wikipedia.org/wiki/MAD_Team "wikilink")                     | Machi E-Sports                                                                  | J Team                                                                            | ahq e-Sports Club                                                                     | Hong Kong Attitude                                                        | [Team Afro](https://zh.wikipedia.org/wiki/Team_Afro "wikilink")               |
 | 夏季                                         | 閃電狼               | MAD Team                                                                        | J Team                                                                | [Hong Kong Attitude](https://zh.wikipedia.org/wiki/Hong_Kong_Attitude "wikilink") | G-Rex                                                                           | Machi E-Sports                                                                    | Team Afro                                                                             | ahq e-Sports Club                                                         |                                                                               |
-| 2019                                       | 春季                | 閃電狼                                                                             | MAD Team                                                              | ahq e-Sports Club                                                                 | CTBC J Team                                                                     | Hong Kong Attitude                                                                | G-Rex                                                                                 | [Alpha Esports](https://zh.wikipedia.org/wiki/Alpha_Esports "wikilink")   | [Dragon Gate Team](https://zh.wikipedia.org/wiki/Dragon_Gate_Team "wikilink") |
+| [2019](../Page/2019_LMS職業聯賽.md "wikilink") | 春季                | 閃電狼                                                                             | MAD Team                                                              | ahq e-Sports Club                                                                 | CTBC J Team                                                                     | Hong Kong Attitude                                                                | G-Rex                                                                                 | [Alpha Esports](../Page/Alpha_Esports.md "wikilink")                      | [Dragon Gate Team](https://zh.wikipedia.org/wiki/Dragon_Gate_Team "wikilink") |
 | 夏季                                         |                   |                                                                                 |                                                                       |                                                                                   |                                                                                 |                                                                                   |                                                                                       |                                                                           |                                                                               |
 
 ## 獎項
@@ -165,7 +164,7 @@ LMS職業聯賽於2015及2016年採用各戰隊雙循環BO2賽制，2017年與�
 | 2016 | Machi E-Sports     | J Team      | Flash Wolves       |
 | 2017 | Hong Kong Attitude | Wayi Spider | Machi E-Sports     |
 | 2018 | MAD Team           | J Team      | Hong Kong Attitude |
-|      |                    |             |                    |
+| 2019 |                    |             |                    |
 |      |                    |             |                    |
 
 ## 其他
@@ -217,10 +216,7 @@ LMS職業聯賽於2015及2016年採用各戰隊雙循環BO2賽制，2017年與�
 
 ## 參考資料
 
-[Category:台灣電子競技賽事](https://zh.wikipedia.org/wiki/Category:台灣電子競技賽事 "wikilink")
-[Category:英雄聯盟](https://zh.wikipedia.org/wiki/Category:英雄聯盟 "wikilink")
-[Category:競舞娛樂](https://zh.wikipedia.org/wiki/Category:競舞娛樂 "wikilink")
-[Category:2014年台灣建立](https://zh.wikipedia.org/wiki/Category:2014年台灣建立 "wikilink")
+[Category:台灣電子競技賽事](https://zh.wikipedia.org/wiki/Category:台灣電子競技賽事 "wikilink") [Category:英雄聯盟](https://zh.wikipedia.org/wiki/Category:英雄聯盟 "wikilink") [Category:競舞娛樂](https://zh.wikipedia.org/wiki/Category:競舞娛樂 "wikilink") [Category:2014年台灣建立](https://zh.wikipedia.org/wiki/Category:2014年台灣建立 "wikilink")
 
 1.  [LMS 職業聯賽](http://2017.lms.garena.tw/)
 2.  [ECS菁英挑戰聯賽](http://ecs.esport.garena.tw/)

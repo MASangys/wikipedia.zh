@@ -1,6 +1,4 @@
-《**驚人的大會-Star
-King**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台從](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")2007年1月13日開播的一檔[真人實境](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由
-[姜虎東主持](https://zh.wikipedia.org/wiki/姜虎東 "wikilink")、[利特助理主持](../Page/利特.md "wikilink")。節目每集會邀請[運動選手](https://zh.wikipedia.org/wiki/運動選手 "wikilink")、明星、藝人、歌手等一同討論熱門話題或比賽、[競技等](https://zh.wikipedia.org/wiki/競技 "wikilink")。
+《**驚人的大會-Star King**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台從](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")2007年1月13日開播的一檔[真人實境](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由 [姜虎東主持](https://zh.wikipedia.org/wiki/姜虎東 "wikilink")、[利特](../Page/利特.md "wikilink")助理主持。節目每集會邀請[運動選手](https://zh.wikipedia.org/wiki/運動選手 "wikilink")、明星、藝人、歌手等一同討論熱門話題或比賽、[競技等](https://zh.wikipedia.org/wiki/競技 "wikilink")。
 
 ## 播放時段變更
 
@@ -51,42 +49,4 @@ King**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[S
 </tbody>
 </table>
 
-## 各集內容
-
-| 集數 | 播放日期   | 嘉賓                                                    |
-| -- | ------ | ----------------------------------------------------- |
-| 1  |        |                                                       |
-| 2  |        | SJ强仁，HAHA，池项烈，YES等                                    |
-| 3  |        | 裴涩琪，金钟民，HAHA，池尚烈，YES等                                 |
-| 4  |        | 白宝蓝，李钟秀，HAHA，池尚烈，YES等                                 |
-| 5  |        | BATTLE 2人，李有真，池尚烈，YES等                                |
-| 6  |        | 李特，强仁，星(Rain的师妹)，池尚烈，YES等                             |
-| 7  |        | babyvox Re.V组合成员：恩智，Babyvox成员简美妍，HAHA，池尚烈，YES等        |
-| 8  |        | SJ强仁，Brian，张英兰，Babyvox re.v恩智，HAHA，池尚烈，YES等           |
-| 9  |        | super junior T，宋大官，HAHA，池尚烈，YES等                      |
-| 10 |        | SJ强仁，神童，Brian，HAHA，池尚烈，YES等                           |
-| 11 |        | SJ强仁，徐仁英，Wonder Girls，池尚烈，HAHA，YES等                   |
-| 12 |        | SJ-T全体，babyvox RE.V恩智，池尚烈，YES等                        |
-| 13 |        | 东方神起，babyvox RE.V恩智，HAHA,池尚烈，YES等                     |
-| 14 |        | SJ强仁，babyvox RE.V恩智，HAHA,池尚烈，YES等                     |
-| 15 |        | SJ强仁，battle，BOOM，HAHA，YES等                            |
-| 16 |        | 由浩熙、南宝拉、HAHA、YES、池尚烈、李胜基等                             |
-| 17 |        | SJ金希澈、强仁、恩赫、神童 Tablo、Mithra Jin、HAHA、YES、池尚烈等         |
-| 18 |        | 蔡妍、boom、李钟秀、吉健、李基灿、HAHA、YES、池尚烈                       |
-| 19 |        | SJ强仁、BOOM、星、李秀根、HAHA、YES等                             |
-| 20 |        | SJ强仁、BOOM、天上智喜、李在元、李秀根、HAHA、YES等                      |
-| 21 |        | SJ强仁、BOOM、南宝拉、babyvox rev恩智、李秀根、HAHA、YES等             |
-| 22 |        | SJ强仁、BOOM、南宝拉、李秀根、HAHA、YES等                           |
-| 23 |        | SJ强仁、BOOM、天上至喜(天舞,Dana等)、李秀根、HAHA、YES等                |
-| 24 |        | SJ强仁、BOOM、黄浦，南宝拉，babyvox rev恩智、李秀根、HAHA、YES等          |
-| 25 |        | SJ强仁、BOOM，允荷，SBS主持人若乾、李秀根、HAHA、YES等                   |
-| 26 |        | SJ强仁、Fany，Brian，黄宝拉、李秀根、HAHA、YES等                     |
-| 27 |        | super junior五人组 强仁 崔始源 金基范 李东海 金丽旭，BOOM，李秀根、HAHA、YES等 |
-| 28 | 070728 | SJ强仁 申海哲 蔡妍 金成珠 吴钟赫 Rhymer 梁世炯 BATTLE，BOOM，HAHA等      |
-| 29 |        | BATTLE，BOOM，李秀根、HAHA、YES等                             |
-| 30 |        | SJ强仁，SOLBE，BOOM，李秀根，HAHA，YES，赵形基，SBS DJ               |
-| 31 | 070825 | 韩庚，卢宏哲，申智，崔远俊，HAHA，梁世炯, 朴佳圆等                          |
-
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")

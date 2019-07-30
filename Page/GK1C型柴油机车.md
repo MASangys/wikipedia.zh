@@ -19,9 +19,6 @@ GK1C型柴油机车是在GK1型机车的基础上，根据工矿企业技术要�
 
   - [中国中车：GK1C型内燃机车](http://www.crrcgc.cc/g5126/s13953/t263473.aspx)
 
-[Category:中國柴油機車](https://zh.wikipedia.org/wiki/Category:中國柴油機車 "wikilink")
-[Category:B-B轴式机车](https://zh.wikipedia.org/wiki/Category:B-B轴式机车 "wikilink")
-[Category:中车资阳制铁路机车](https://zh.wikipedia.org/wiki/Category:中车资阳制铁路机车 "wikilink")
-[Category:调车机车](https://zh.wikipedia.org/wiki/Category:调车机车 "wikilink")
+[Category:中國柴油機車](https://zh.wikipedia.org/wiki/Category:中國柴油機車 "wikilink") [Category:B-B轴式机车](https://zh.wikipedia.org/wiki/Category:B-B轴式机车 "wikilink") [Category:中车资阳制铁路机车](https://zh.wikipedia.org/wiki/Category:中车资阳制铁路机车 "wikilink") [Category:调车机车](https://zh.wikipedia.org/wiki/Category:调车机车 "wikilink")
 
 1.

@@ -1,10 +1,8 @@
-，日本漫畫家[神尾葉子創作的漫畫](../Page/神尾葉子.md "wikilink")，2015年起於《少年Jump+》連載 \[1\]。
+，日本漫畫家[神尾葉子](../Page/神尾葉子.md "wikilink")創作的漫畫，2015年起於《少年Jump+》連載 \[1\]。
 
 ## 故事概要
 
-《花過天晴～花樣男子 Next
-Season～》是漫畫家神尾代表作《[花樣男子](../Page/花樣男子.md "wikilink")》的續編。以[F4畢業後兩年的英德學園為舞台](../Page/流星花園角色列表.md "wikilink")，學園出現了以神樂木晴為領袖，專門狙擊窮學生，令其退學的組織「Correct
-5」。江戶川音本來是社長千金，但因父親公司破產而成為窮人的她亦入讀了英德學園，兩人的戀愛故事亦開始展開 \[2\]。
+《花過天晴～花樣男子 Next Season～》是漫畫家神尾代表作《[花樣男子](../Page/花樣男子.md "wikilink")》的續編。以[F4畢業後兩年的英德學園為舞台](../Page/流星花園角色列表.md "wikilink")，學園出現了以神樂木晴為領袖，專門狙擊窮學生，令其退學的組織「Correct 5」。江戶川音本來是社長千金，但因父親公司破產而成為窮人的她亦入讀了英德學園，兩人的戀愛故事亦開始展開 \[2\]。
 
 ## 登場人物
 
@@ -12,16 +10,13 @@ Season～》是漫畫家神尾代表作《[花樣男子](../Page/花樣男子.md
 
   -
     12月15日出生，身高163cm。
-    英德學園女子高中生，前化妝品社長千金，父親公司破產後與母親2人過著貧困生活，為了生活於便利店[Family
-    Mart打工](https://zh.wikipedia.org/wiki/Family_Mart "wikilink")。與馳天馬有婚約，但條件是18歲前必須在英德學園上學。
+    英德學園女子高中生，前化妝品社長千金，父親公司破產後與母親2人過著貧困生活，為了生活於便利店[Family Mart打工](https://zh.wikipedia.org/wiki/Family_Mart "wikilink")。與馳天馬有婚約，但條件是18歲前必須在英德學園上學。
 
 **神樂木晴**（）
 
   -
     8月5日出生，身高176cm，體重60kg。
-    英德學園男子高中生、Correct
-    5的首領。神樂木集團的少爺，喜歡蒐集奇奇怪怪的周邊商品。初中時受到道明寺司的幫助而崇拜F4。由於學園失去已往的光輝，為了守護學園而組成Correct
-    5。表面上是道明寺第二，實際上只是個膽小鬼。
+    英德學園男子高中生、Correct 5的首領。神樂木集團的少爺，喜歡蒐集奇奇怪怪的周邊商品。初中時受到道明寺司的幫助而崇拜F4。由於學園失去已往的光輝，為了守護學園而組成Correct 5。表面上是道明寺第二，實際上只是個膽小鬼。
 
 **馳天馬**（）
 
@@ -137,12 +132,24 @@ Season～》是漫畫家神尾代表作《[花樣男子](../Page/花樣男子.md
 <td><p>ISBN 978-4-08-881651-7</p></td>
 <td><p>2019年2月25日</p></td>
 </tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>2019年4月4日</p></td>
+<td><p>ISBN 978-4-08-881804-7</p></td>
+<td><p>2019年7月8日</p></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>2019年7月4日</p></td>
+<td><p>ISBN 978-4-08-882007-1</p></td>
+<td><p>|</p></td>
+</tr>
 </tbody>
 </table>
 
 ## 電視劇
 
-2018年4月，[TBS電視台改編成真人版連續劇](../Page/TBS電視台.md "wikilink")\[12\]，由[杉咲花主演](../Page/杉咲花.md "wikilink")\[13\]。此劇亦是杉咲初次主演連續劇。與原作不同，電視劇設定於F4畢業後的10年。
+2018年4月，[TBS電視台](../Page/TBS電視台.md "wikilink")改編成真人版連續劇\[12\]，由[杉咲花](../Page/杉咲花.md "wikilink")主演\[13\]。此劇亦是杉咲初次主演連續劇。與原作不同，電視劇設定於F4畢業後的10年。
 
 ### 登場人物
 
@@ -390,26 +397,20 @@ Season～》是漫畫家神尾代表作《[花樣男子](../Page/花樣男子.md
 
 ### 幕後花絮
 
-  - 此劇拍攝期間的5月23日為男主角[平野紫耀](../Page/平野紫耀.md "wikilink")（[King &
-    Prince成員](../Page/King_&_Prince.md "wikilink")）出道日，[杉咲花事前策劃提議劇組為平野送上出道驚喜祝賀](../Page/杉咲花.md "wikilink")。當天沒有拍戲行程的杉咲穿著劇中制服突然出現拍攝現場，並準備共演者的祝福卡片，平野感動落淚。\[15\]
+  - 此劇拍攝期間的5月23日為男主角[平野紫耀](../Page/平野紫耀.md "wikilink")（[King & Prince成員](../Page/King_&_Prince.md "wikilink")）出道日，[杉咲花](../Page/杉咲花.md "wikilink")事前策劃提議劇組為平野送上出道驚喜祝賀。當天沒有拍戲行程的杉咲穿著劇中制服突然出現拍攝現場，並準備共演者的祝福卡片，平野感動落淚。\[15\]
 
 ### 反響爭議
 
   - 此劇至最終回播出後半小時，關鍵字「花晴」的[推特數為](https://zh.wikipedia.org/wiki/推特 "wikilink")11萬2166條，為世界第五名。每集播出後的入口網站新聞評論區留言亦多次破千篇\[16\]。
-  - 因第七集之後，女二西留惠的出鏡大幅增加以致女主角江戶川音戲份銳減、劇情主線比重失衡及情節不斷重複、男主角專情的優點頓失等，引發大批觀眾至官方[Instagram及編劇](../Page/Instagram.md "wikilink")[推特表達強烈不滿](https://zh.wikipedia.org/wiki/推特 "wikilink")，觀眾並表示多所改編之處致使男女主角性格變得令人厭煩，與前三集調性落差過大，亦為初次主演的杉咲花及其他演員抱屈。編劇吉田在推特上一一回覆留言並公開向觀眾致歉\[17\]。最終回最後不斷重複的某句台詞及結局拍法，亦引發觀眾質疑此舉是否為了拍攝續集或電影版而刻意留下的伏筆\[18\]。
+  - 因第七集之後，女二西留惠的出鏡大幅增加以致女主角江戶川音戲份銳減、劇情主線比重失衡及情節不斷重複、男主角專情的優點頓失等，引發大批觀眾至官方[Instagram](../Page/Instagram.md "wikilink")及編劇[推特表達強烈不滿](https://zh.wikipedia.org/wiki/推特 "wikilink")，觀眾並表示多所改編之處致使男女主角性格變得令人厭煩，與前三集調性落差過大，亦為初次主演的杉咲花及其他演員抱屈。編劇吉田在推特上一一回覆留言並公開向觀眾致歉\[17\]。最終回最後不斷重複的某句台詞及結局拍法，亦引發觀眾質疑此舉是否為了拍攝續集或電影版而刻意留下的伏筆\[18\]。
 
 ### 幕後人員
 
-  - 原作：[神尾葉子](../Page/神尾葉子.md "wikilink")《花過天晴〜花樣男子Next
-    Season〜》（[集英社少年Jump](../Page/集英社.md "wikilink")+）
+  - 原作：[神尾葉子](../Page/神尾葉子.md "wikilink")《花過天晴〜花樣男子Next Season〜》（[集英社](../Page/集英社.md "wikilink")少年Jump+）
   - 劇本：[吉田恵里香](https://zh.wikipedia.org/wiki/吉田恵里香 "wikilink")
   - 音樂：[大間々昂](https://zh.wikipedia.org/wiki/大間々昂 "wikilink")
-  - 主題歌：[King &
-    Prince](../Page/King_&_Prince.md "wikilink")「[シンデレラガール](https://zh.wikipedia.org/wiki/シンデレラガール_\(曲\) "wikilink")」（[Johnnys’Universe
-    /
-    ユニバーサルJ](https://zh.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）\[19\]
-  - 主題曲：[宇多田光](../Page/宇多田光.md "wikilink")《初戀》（[EPIC Records
-    Japan](https://zh.wikipedia.org/wiki/EPICレコードジャパン "wikilink")）
+  - 主題歌：[King & Prince](../Page/King_&_Prince.md "wikilink")「[シンデレラガール](https://zh.wikipedia.org/wiki/シンデレラガール_\(曲\) "wikilink")」（[Johnnys’Universe / ユニバーサルJ](https://zh.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）\[19\]
+  - 主題曲：[宇多田光](../Page/宇多田光.md "wikilink")《初戀》（[EPIC Records Japan](https://zh.wikipedia.org/wiki/EPICレコードジャパン "wikilink")）
   - 製作人：[瀬戸口克陽](https://zh.wikipedia.org/wiki/瀬戸口克陽 "wikilink")
   - 協力製作：齊藤彩奈
   - 導演：[石井康晴](https://zh.wikipedia.org/wiki/石井康晴 "wikilink")、坪井敏雄、岡本伸吾
@@ -542,21 +543,7 @@ Season～》是漫畫家神尾代表作《[花樣男子](../Page/花樣男子.md
   - [流星花園C5－緯來日本台官方網站](http://japan.videoland.com.tw/channel/20180603rcf2/default.htm)
 
   -
-[Category:少年Jump+](https://zh.wikipedia.org/wiki/Category:少年Jump+ "wikilink")
-[Category:漫畫衍生作品](https://zh.wikipedia.org/wiki/Category:漫畫衍生作品 "wikilink")
-[Category:花樣男子](https://zh.wikipedia.org/wiki/Category:花樣男子 "wikilink")
-[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink")
-[Category:歧視與差別待遇題材作品](https://zh.wikipedia.org/wiki/Category:歧視與差別待遇題材作品 "wikilink")
-[Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink")
-[Category:TBS週二連續劇](https://zh.wikipedia.org/wiki/Category:TBS週二連續劇 "wikilink")
-[Category:日本浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:日本浪漫喜劇電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink")
-[Category:貧窮題材電視劇](https://zh.wikipedia.org/wiki/Category:貧窮題材電視劇 "wikilink")
-[Category:身分差異戀情題材電視劇](https://zh.wikipedia.org/wiki/Category:身分差異戀情題材電視劇 "wikilink")
-[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink")
-[Category:日本校園劇](https://zh.wikipedia.org/wiki/Category:日本校園劇 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
+[Category:少年Jump+](https://zh.wikipedia.org/wiki/Category:少年Jump+ "wikilink") [Category:漫畫衍生作品](https://zh.wikipedia.org/wiki/Category:漫畫衍生作品 "wikilink") [Category:花樣男子](https://zh.wikipedia.org/wiki/Category:花樣男子 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:歧視與差別待遇題材作品](https://zh.wikipedia.org/wiki/Category:歧視與差別待遇題材作品 "wikilink") [Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink") [Category:TBS週二連續劇](https://zh.wikipedia.org/wiki/Category:TBS週二連續劇 "wikilink") [Category:日本浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:日本浪漫喜劇電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:貧窮題材電視劇](https://zh.wikipedia.org/wiki/Category:貧窮題材電視劇 "wikilink") [Category:身分差異戀情題材電視劇](https://zh.wikipedia.org/wiki/Category:身分差異戀情題材電視劇 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:日本校園劇](https://zh.wikipedia.org/wiki/Category:日本校園劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
 
 1.
 
@@ -580,8 +567,7 @@ Season～》是漫畫家神尾代表作《[花樣男子](../Page/花樣男子.md
 
 11.
 
-12. [TBS、4月改編で「午後10時台」拡大 13分延長しプライム強化](https://www.sponichi.co.jp/entertainment/news/2018/01/25/kiji/20180124s00041000201000c.html)
-    Sponichi Annex 208年1月25日発行、同日閲覧。
+12. [TBS、4月改編で「午後10時台」拡大 13分延長しプライム強化](https://www.sponichi.co.jp/entertainment/news/2018/01/25/kiji/20180124s00041000201000c.html) Sponichi Annex 208年1月25日発行、同日閲覧。
 
 13.
 
@@ -591,8 +577,7 @@ Season～》是漫畫家神尾代表作《[花樣男子](../Page/花樣男子.md
 
 16. [「花晴れ」の「それから」連呼で幕に期待と困惑の声](https://www.nikkansports.com/entertainment/news/201806260001012.html)
 
-17. [新・花男『花晴れ』、視聴率アップもクレームの嵐？
-    脚本家は謝罪、公式インスタは炎上寸前](https://npn.co.jp/article/detail/50077779/)
+17. [新・花男『花晴れ』、視聴率アップもクレームの嵐？ 脚本家は謝罪、公式インスタは炎上寸前](https://npn.co.jp/article/detail/50077779/)
 
 18.
 19.

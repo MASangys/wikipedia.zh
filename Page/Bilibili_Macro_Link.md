@@ -1,16 +1,10 @@
-[缩略图](https://zh.wikipedia.org/wiki/File:BML2017LOGO.png "fig:缩略图")
-**Bilibili Macro
-Link**是[bilibili弹幕网举办的线下聚会中的一部分活动](../Page/Bilibili.md "wikilink")，简称BML，以演唱会形式为主。
+[缩略图](https://zh.wikipedia.org/wiki/File:BML2017LOGO.png "fig:缩略图") **Bilibili Macro Link**是[bilibili弹幕网举办的线下聚会中的一部分活动](../Page/Bilibili.md "wikilink")，简称BML，以演唱会形式为主。
 
-Bilibili Macro
-Link于2013年首次在[梅赛德斯奔驰文化中心的Mixing](https://zh.wikipedia.org/wiki/梅赛德斯奔驰文化中心 "wikilink")
-Room举办，迄今为止已经举办了7届。晚会一般由北京时间17点开始到晚上21点结束，邀请的是日本当红歌手、人气唱见舞见、国内网络年轻文化代表人物和哔哩哔哩知名的UP主。
+Bilibili Macro Link于2013年首次在[梅赛德斯奔驰文化中心的Mixing](https://zh.wikipedia.org/wiki/梅赛德斯奔驰文化中心 "wikilink") Room举办，迄今为止已经举办了7届。晚会一般由北京时间17点开始到晚上21点结束，邀请的是日本当红歌手、人气唱见舞见、国内网络年轻文化代表人物和哔哩哔哩知名的UP主。
 
 ## 举办地点
 
-[2018届北京凯迪拉克中心C座.jpg](https://zh.wikipedia.org/wiki/File:2018届北京凯迪拉克中心C座.jpg "fig:2018届北京凯迪拉克中心C座.jpg")
-Bilibili Macro Link的举办地点和规模逐年扩大，从2013年最初在梅赛德斯奔驰文化中心Mixing
-Room举办到2017年的梅赛德斯奔驰文化中心主场举办
+[2018届北京凯迪拉克中心C座.jpg](https://zh.wikipedia.org/wiki/File:2018届北京凯迪拉克中心C座.jpg "fig:2018届北京凯迪拉克中心C座.jpg") Bilibili Macro Link的举办地点和规模逐年扩大，从2013年最初在梅赛德斯奔驰文化中心Mixing Room举办到2017年的梅赛德斯奔驰文化中心主场举办
 
 | 时间    | 举办地点                                                       |
 | ----- | ---------------------------------------------------------- |
@@ -61,8 +55,7 @@ BML举办地\[1\]
 
 ## 外部链接
 
-[Category:现场影像](https://zh.wikipedia.org/wiki/Category:现场影像 "wikilink")
-[Category:Bilibili](https://zh.wikipedia.org/wiki/Category:Bilibili "wikilink")
+[Category:现场影像](https://zh.wikipedia.org/wiki/Category:现场影像 "wikilink") [Category:Bilibili](https://zh.wikipedia.org/wiki/Category:Bilibili "wikilink")
 
 1.
 

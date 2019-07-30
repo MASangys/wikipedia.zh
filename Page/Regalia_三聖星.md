@@ -1,9 +1,8 @@
-《**Regalia
-三聖星**》是[永谷敬之擔任製作人](../Page/永谷敬之.md "wikilink")，[QP:flapper擔當角色原案](../Page/QP:flapper.md "wikilink")，[Actas製作的原創動畫](../Page/Actas.md "wikilink")，電視動畫於2016年7月7日開始播出\[1\]。
+《**Regalia 三聖星**》是[永谷敬之](../Page/永谷敬之.md "wikilink")擔任製作人，[QP:flapper](../Page/QP:flapper.md "wikilink")擔當角色原案，[Actas](../Page/Actas.md "wikilink")製作的原創動畫，電視動畫於2016年7月7日開始播出\[1\]。
 
 在第3話播出後，官方宣佈由於已經播出的動畫品質沒有達到預期要求，因此第4話之後動畫將停止播出。據官方推特表示，因製作趕不上放映時間而被迫延期，動畫在9月1日開始從第1集重新播放。影碟（藍光和DVD）也將延期一個月發售\[2\]\[3\]。
 
-香港[ViuTV於](../Page/ViuTV.md "wikilink")12月9日以粵日雙語播出。
+香港[ViuTV](../Page/ViuTV.md "wikilink")於12月9日以粵日雙語播出。
 
 ## 故事簡介
 
@@ -140,8 +139,7 @@
   - 音樂 - 高橋諒
   - 音樂制作 - [Lantis](../Page/Lantis.md "wikilink")
   - 音樂製作人 - 吉江輝成
-  - 製作人 - 川村仁、百武弘二、岡村武真、山崎史紀、金庭こず惠、中島保裕、土橋哲也、大橋智之、若林由美（第2話 -
-    ）、伊藤幸弘、青木絵理子、兼光一博（復活放送第3話 - ）
+  - 製作人 - 川村仁、百武弘二、岡村武真、山崎史紀、金庭こず惠、中島保裕、土橋哲也、大橋智之、若林由美（第2話 - ）、伊藤幸弘、青木絵理子、兼光一博（復活放送第3話 - ）
   - 動畫製作人 - 丸山俊平
   - 監製 - [永谷敬之](../Page/永谷敬之.md "wikilink")
   - 動畫製作 - [Actas](../Page/Actas.md "wikilink")
@@ -150,13 +148,10 @@
 ## 主題曲
 
   - 片頭曲「Divine Spell」
-    作詞：[唐澤美帆](../Page/唐澤美帆.md "wikilink") / 作曲、編曲：本多友紀 /
-    主唱：[TRUE](../Page/唐澤美帆.md "wikilink")
+    作詞：[唐澤美帆](../Page/唐澤美帆.md "wikilink") / 作曲、編曲：本多友紀 / 主唱：[TRUE](../Page/唐澤美帆.md "wikilink")
     第1話作為片尾曲使用。
   - 片尾曲「Patria」（第2－13話）
-    作詞、主唱：[Minami](../Page/Minami.md "wikilink") /
-    作曲：[俊龍](../Page/俊龍.md "wikilink") /
-    編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")
+    作詞、主唱：[Minami](../Page/Minami.md "wikilink") / 作曲：[俊龍](../Page/俊龍.md "wikilink") / 編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")
 
 ## 各話列表
 
@@ -315,10 +310,7 @@
   - [電視動畫《Regalia 三聖星》官方網站](http://regalia-anime.com/)
 
   -
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
-[Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink")
+[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink")
 
 1.
 2.

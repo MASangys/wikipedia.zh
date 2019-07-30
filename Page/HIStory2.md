@@ -1,5 +1,4 @@
-《**[HIStory系列](../Page/HIStory_\(2017年電視劇\).md "wikilink")**》，第二季分為二個單元《是非》、《越界》於2017年10月開鏡拍攝\[1\]，自2017年10月26日起發起群眾募資，共募得新台幣257萬8029元，不僅已達原先設定門檻也破台劇募資新紀錄，第二季已於2018年1月30日在CHOCO
-TV上架播出。\[2\]
+《**[HIStory系列](../Page/HIStory_\(2017年電視劇\).md "wikilink")**》，第二季分為二個單元《是非》、《越界》於2017年10月開鏡拍攝\[1\]，自2017年10月26日起發起群眾募資，共募得新台幣257萬8029元，不僅已達原先設定門檻也破台劇募資新紀錄，第二季已於2018年1月30日在CHOCO TV上架播出。\[2\]
 
   -
 ## 播出時間
@@ -58,6 +57,8 @@ TV上架播出。\[2\]
 ## 是非（Right or Wrong）
 
 ### 劇情大綱
+
+是奕杰（[江常輝](../Page/江常輝.md "wikilink") 飾）是離婚的考古學教授，獨力撫養女兒是可優（[葉翊恩](https://zh.wikipedia.org/wiki/葉翊恩 "wikilink") 飾），非盛哲（[張行](../Page/張行.md "wikilink") 飾）則是是奕傑的學生，陰錯陽差成為了是可優的保母，進入了是奕杰的生活，原本忙於工作的是奕杰，從每天三餐不定，到回家就有溫熱的飯菜，感受到有人等待自己回家的溫暖，讓是奕杰對非盛哲感情起了變化，而帥氣的是奕杰，更是讓非盛哲心動不已，兩人之間的情愫日益增長，展開一段男人、男孩、小女孩一家三口的家庭愛情故事。
 
 ### 演員列表
 
@@ -165,6 +166,8 @@ TV上架播出。\[2\]
 ## 越界（Crossing the Line）
 
 ### 劇情大綱
+
+不良少年如何變身熱血排少，譜出一個交織汗水、青春的愛情故事。
 
 ### 演員列表
 
@@ -341,9 +344,7 @@ TV上架播出。\[2\]
 
 ### 獲得獎項
 
-|- |2018年 |《HIStory2 越界》
-|[第53屆金鐘獎](https://zh.wikipedia.org/wiki/第53屆金鐘獎 "wikilink")
-迷你劇集獎 | |- |}
+|- |2018年 |《HIStory2 越界》 |[第53屆金鐘獎](https://zh.wikipedia.org/wiki/第53屆金鐘獎 "wikilink") 迷你劇集獎 | |- |}
 
 ## 紀事
 
@@ -351,11 +352,9 @@ TV上架播出。\[2\]
   - 2017年10月26日於[群募貝果](https://www.webackers.com/Proposal/Display/1162)開始群眾募資，並在[Youtube](https://www.youtube.com/watch?v=r0jpGdcXKDY)釋出卡司及角色介紹影片
   - 2017年11月19日募資已達標，並超過224萬，破台灣戲劇募資紀錄
   - 2017年12月22日募資結束，共募得NT$2,578,029，達原目標的128%
-  - 2018年1月3日[CHOCO
-    TV官方臉書與](../Page/CHOCO_TV.md "wikilink")[Youtube](https://www.youtube.com/watch?v=dRnGDlAVi5U)釋出首波預告搶先看
+  - 2018年1月3日[CHOCO TV官方臉書與](../Page/CHOCO_TV.md "wikilink")[Youtube](https://www.youtube.com/watch?v=dRnGDlAVi5U)釋出首波預告搶先看
   - 2018年1月30日“是非”於[CHOCO TV上架](../Page/CHOCO_TV.md "wikilink")
-  - 2018年2月1日HIStory2寫真典藏特集開始於CHOCO
-    SHOP與[博客來開放預購](https://zh.wikipedia.org/wiki/博客來 "wikilink")，於2月7日開始出貨
+  - 2018年2月1日HIStory2寫真典藏特集開始於CHOCO SHOP與[博客來開放預購](https://zh.wikipedia.org/wiki/博客來 "wikilink")，於2月7日開始出貨
   - 2018年2月7日HIStory2寫真典藏特集於誠品、金石堂、光南等連鎖書店上架販售
   - 2018年3月6日“越界”於[CHOCO TV上架](../Page/CHOCO_TV.md "wikilink")
   - 2018年3月20日周邊商品於[Fandora](https://fandorashop.com/tw/shop/chocoshop?nav=product&sort=hot)開放預購
@@ -367,7 +366,7 @@ TV上架播出。\[2\]
   - 2018年6月1日香港hmvod開播記者會
   - 2018年6月12日確定HIStory系列將於華視暑期八點檔播出
   - 2018年6月22日HIStory2限量典藏版DVD正式發行
-  - 2018年7月17日，《是非》於[華視主頻播出](../Page/華視主頻.md "wikilink")
+  - 2018年7月17日，《是非》於[華視主頻](../Page/華視主頻.md "wikilink")播出
   - 2018年7月20日，《越界》於華視主頻播出
   - 2018年8月17日，位於高雄的HIStory主題限定店開幕，並宣布將開拍《越界》電影版——《跨界》。《是非》則因為飾演優優的小演員需專注學業而沒有後續。
   - 2018年8月29日，《越界》入圍[第53屆金鐘獎最佳迷你劇集奬](https://zh.wikipedia.org/wiki/第53屆金鐘獎 "wikilink")
@@ -375,8 +374,7 @@ TV上架播出。\[2\]
   - 2018年11月20日，《越界》於日本電視台 DATV頻道播出
   - 2018年11月22日，HIStory2於泰國Doonee平台上架
   - 2019年1月1日，HIStory2於日本的Video Market平台及Rakuten TV平台上架
-  - 2019年3月27日， 《是非》官方衍生短篇漫畫《幸福得要命王國》出版，刊於
-    [CCC創作集](../Page/CCC創作集.md "wikilink") 第12號，由BL漫畫家MN繪製。
+  - 2019年3月27日， 《是非》官方衍生短篇漫畫《幸福得要命王國》出版，刊於 [CCC創作集](../Page/CCC創作集.md "wikilink") 第12號，由BL漫畫家MN繪製。
 
 ## 參考資料
 
@@ -392,17 +390,8 @@ TV上架播出。\[2\]
 
   - 在TMDB上《[HIStory2-越界](https://www.themoviedb.org/tv/77641)》的資料
 
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink")
-[Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink")
-[Category:台灣校園劇](https://zh.wikipedia.org/wiki/Category:台灣校園劇 "wikilink")
-[Category:2018年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2018年台灣電視劇集 "wikilink")
-[Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink")
-[Category:男同性戀相關電視節目](https://zh.wikipedia.org/wiki/Category:男同性戀相關電視節目 "wikilink")
-[Category:台灣LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電視節目 "wikilink")
-[Category:緯來電視外購電視劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購電視劇 "wikilink")
-[Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink") [Category:台灣校園劇](https://zh.wikipedia.org/wiki/Category:台灣校園劇 "wikilink") [Category:2018年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2018年台灣電視劇集 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink") [Category:男同性戀相關電視節目](https://zh.wikipedia.org/wiki/Category:男同性戀相關電視節目 "wikilink") [Category:台灣LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電視節目 "wikilink") [Category:緯來電視外購電視劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購電視劇 "wikilink") [Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink")
 
 1.  [《花甲》光頭戀上小鮮肉　BL劇《History》開拍第二季](https://star.ettoday.net/news/1030123)，ETNEWS星光雲，2017年10月12日
-2.  [男男戀題材網路劇
-    群募224萬破台劇紀錄](https://money.udn.com/money/story/5641/2827754)，經濟日報，2017年11月19日
+2.  [男男戀題材網路劇 群募224萬破台劇紀錄](https://money.udn.com/money/story/5641/2827754)，經濟日報，2017年11月19日
 3.  [《花甲》光頭戀上小鮮肉　BL劇《History》開拍第二季](https://star.ettoday.net/news/1030123?t=%E3%80%8A%E8%8A%B1%E7%94%B2%E3%80%8B%E5%85%89%E9%A0%AD%E6%88%80%E4%B8%8A%E5%B0%8F%E9%AE%AE%E8%82%89%E3%80%80BL%E5%8A%87%E3%80%8AHistory%E3%80%8B%E9%96%8B%E6%8B%8D%E7%AC%AC%E4%BA%8C%E5%AD%A3)，ETtoday星光雲，2017年10月12日

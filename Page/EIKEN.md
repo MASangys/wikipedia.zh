@@ -1,22 +1,20 @@
-**株式會社EIKEN**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[荒川區](../Page/荒川區.md "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1969年。[日本動畫協會正式會員](../Page/日本動畫協會.md "wikilink")。
+**株式會社EIKEN**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[荒川區](../Page/荒川區.md "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1969年。[日本動畫協會](../Page/日本動畫協會.md "wikilink")正式會員。
 
 ## 概要、沿革
 
-EIKEN的前身是一家專門從事[電視機進口與銷售的一般企業](https://zh.wikipedia.org/wiki/電視機 "wikilink")。1952年，配合電視草創時期的節目播出，[梁瀨次郎成立](https://zh.wikipedia.org/wiki/梁瀨次郎 "wikilink")（Television
-Corporation of
-Japan，簡稱TCJ）\[2\]。只是電視的普及率比預期中還要早，1950年代TCJ開始投入生產製作[電視廣告為副業之後](../Page/電視廣告.md "wikilink")，不久成為該公司的正業，也成為EIKEN成立的契機。
+EIKEN的前身是一家專門從事[電視機進口與銷售的一般企業](https://zh.wikipedia.org/wiki/電視機 "wikilink")。1952年，配合電視草創時期的節目播出，[梁瀨次郎成立](https://zh.wikipedia.org/wiki/梁瀨次郎 "wikilink")（Television Corporation of Japan，簡稱TCJ）\[2\]。只是電視的普及率比預期中還要早，1950年代TCJ開始投入生產製作[電視廣告](../Page/電視廣告.md "wikilink")為副業之後，不久成為該公司的正業，也成為EIKEN成立的契機。
 
 1963年，受到首部電視動畫《[原子小金剛](https://zh.wikipedia.org/wiki/鐵臂阿童木 "wikilink")》的播出掀起動畫熱潮的影響，動畫廣告的製作團隊以獨立分離的形式，和在TCJ電影部門發掘下。由他們自製首部作品《》在電視上播出之後，接著受到另一部電視動畫《[鐵人28號](../Page/鐵人28號.md "wikilink")》的播出獲得廣大的迴響，正式步上軌道。
 
 1969年4月，TCJ改名為株式會社TCJ（<small></small>）之際，TCJ動畫部門從TCJ獨立，公司登記名稱為「株式會社TCJ動畫中心（<small></small>）」\[3\]。一方面，到目前為止以從事動畫製作為中心的高橋茂人則是成立（《[嚕嚕米](../Page/姆明.md "wikilink")》和《[阿爾卑斯山的少女](https://zh.wikipedia.org/wiki/阿爾卑斯山的少女 "wikilink")》的製作公司）。
 
-1973年5月，TCJ將所有股權讓渡，改名為現在的「**株式會社EIKEN**」\[4\]。而「EIKEN」命名來自以前TCJ時期和EIKEN的首任社長[村田英憲的名字](../Page/村田英憲.md "wikilink")「英憲」的[音讀念法](../Page/音讀.md "wikilink")\[5\]。
+1973年5月，TCJ將所有股權讓渡，改名為現在的「**株式會社EIKEN**」\[4\]。而「EIKEN」命名來自以前TCJ時期和EIKEN的首任社長[村田英憲](../Page/村田英憲.md "wikilink")的名字「英憲」的[音讀](../Page/音讀.md "wikilink")念法\[5\]。
 
-2002年7月，大型廣告代理商[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")（ADK）取得EIKEN的70%股權之後，與[富士電視台連結成為關係企業](../Page/富士電視台.md "wikilink")，剩餘10%則由富士電視台繼續保有。而TCJ因為完全成為旗下子公司，與EIKEN的關係逐漸淡化。
+2002年7月，大型廣告代理商[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")（ADK）取得EIKEN的70%股權之後，與[富士電視台](../Page/富士電視台.md "wikilink")連結成為關係企業，剩餘10%則由富士電視台繼續保有。而TCJ因為完全成為旗下子公司，與EIKEN的關係逐漸淡化。
 
-2007年，村田從代表董事社長升任代表董事會長，代表董事社長的職位由副社長毛內節夫接任；翌年，村田榮獲2008年第4回[東京國際動畫博覽會功勞奬](../Page/東京國際動畫博覽會.md "wikilink")。
+2007年，村田從代表董事社長升任代表董事會長，代表董事社長的職位由副社長毛內節夫接任；翌年，村田榮獲2008年第4回[東京國際動畫博覽會](../Page/東京國際動畫博覽會.md "wikilink")功勞奬。
 
-2013年10月6日，EIKEN的代表長壽電視動畫《[海螺小姐](../Page/海螺小姐.md "wikilink")》製作全面[數位化](https://zh.wikipedia.org/wiki/數位化 "wikilink")，作為日本最後使用[賽璐珞作品正式走入歷史](../Page/賽璐珞.md "wikilink")\[6\]。
+2013年10月6日，EIKEN的代表長壽電視動畫《[海螺小姐](../Page/海螺小姐.md "wikilink")》製作全面[數位化](https://zh.wikipedia.org/wiki/數位化 "wikilink")，作為日本最後使用[賽璐珞](../Page/賽璐珞.md "wikilink")作品正式走入歷史\[6\]。
 
 2017年8月31日，村田辭去代表董事，轉任名譽會長\[7\]。
 
@@ -461,12 +459,11 @@ Japan，簡稱TCJ）\[2\]。只是電視的普及率比預期中還要早，1950
 
   - 中邨太（助理製作人）
 
-  - （前[宣弘社代表董事社長](../Page/宣弘社.md "wikilink")）
+  - （前[宣弘社](../Page/宣弘社.md "wikilink")代表董事社長）
 
   - （前宣弘社所屬製作人）
 
-  - [松下洋子](../Page/松下洋子.md "wikilink")（[Kitty
-    film](../Page/Kitty_film.md "wikilink")→[ADK出身](../Page/旭通DK.md "wikilink")）
+  - [松下洋子](../Page/松下洋子.md "wikilink")（[Kitty film](../Page/Kitty_film.md "wikilink")→[ADK出身](../Page/旭通DK.md "wikilink")）
 
 ### 動畫師、演出家
 
@@ -514,7 +511,7 @@ Japan，簡稱TCJ）\[2\]。只是電視的普及率比預期中還要早，1950
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [山崎立士](../Page/山崎立士.md "wikilink")（[旭通DK出身](../Page/旭通DK.md "wikilink")）
+  - [山崎立士](../Page/山崎立士.md "wikilink")（[旭通DK](../Page/旭通DK.md "wikilink")出身）
   - 長友孝和
   - 岩澤秀平
   - 神原雄二
@@ -561,9 +558,7 @@ Japan，簡稱TCJ）\[2\]。只是電視的普及率比預期中還要早，1950
 ## 參考文獻
 
   - 《 No.04》（ISBN 4-416-80678-7），，2006年出版，44頁－57頁。
-  - 小野耕世
-    《高橋茂人、日本CMTV創世記語（TCJ史）》「[京都精華大學記要](http://www.kyoto-seika.ac.jp/researchlab/?page_id=104)」
-    26號，2004年。
+  - 小野耕世 《高橋茂人、日本CMTV創世記語（TCJ史）》「[京都精華大學記要](http://www.kyoto-seika.ac.jp/researchlab/?page_id=104)」 26號，2004年。
   - 但馬、鷺巢政安：「鷺政安 ·元製作者」，社 ISBN 978-4821144266（2016年4月15日）。
 
 ## 相關項目
@@ -574,10 +569,7 @@ Japan，簡稱TCJ）\[2\]。只是電視的普及率比預期中還要早，1950
 
   - [株式會社EIKEN公式官網](http://www.eiken-anime.jp/)
 
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:1969年成立的公司](https://zh.wikipedia.org/wiki/Category:1969年成立的公司 "wikilink")
-[Category:荒川區公司](https://zh.wikipedia.org/wiki/Category:荒川區公司 "wikilink")
-[Category:南千住](https://zh.wikipedia.org/wiki/Category:南千住 "wikilink")
+[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:1969年成立的公司](https://zh.wikipedia.org/wiki/Category:1969年成立的公司 "wikilink") [Category:荒川區公司](https://zh.wikipedia.org/wiki/Category:荒川區公司 "wikilink") [Category:南千住](https://zh.wikipedia.org/wiki/Category:南千住 "wikilink")
 
 1.
 2.  和電視台[日本電視放送網是不同的公司而且毫無關係](../Page/日本電視台.md "wikilink")。
@@ -586,7 +578,6 @@ Japan，簡稱TCJ）\[2\]。只是電視的普及率比預期中還要早，1950
 
 4.
 5.
-6.  [海螺小姐動畫製作全面數位化，賽璐珞正式走入歷史。](http://www.47news.jp/CN/201309/CN2013092701000609.html)
-    （共同通信） 47NEWS（全國新聞網） 2013年9月27日。
+6.  [海螺小姐動畫製作全面數位化，賽璐珞正式走入歷史。](http://www.47news.jp/CN/201309/CN2013092701000609.html) （共同通信） 47NEWS（全國新聞網） 2013年9月27日。
 
 7.

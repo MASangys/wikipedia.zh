@@ -1,19 +1,16 @@
-《**CODE -
-秘密的房間**》（；）是韓國[JTBC電視台的一檔密室解謎類遊戲節目](../Page/JTBC.md "wikilink")，韓國時間每周五晚上11:00播出。\[1\]
+《**CODE - 秘密的房間**》（；）是韓國[JTBC](../Page/JTBC.md "wikilink")電視台的一檔密室解謎類遊戲節目，韓國時間每周五晚上11:00播出。\[1\]
 
 ## 遊戲方式
 
 本節目為一檔益智類的密室解密逃脫遊戲節目，透過各項任務獲得線索，再根據這些線索破解密碼並嘗試逃出密室。
 
-節目中設計有「Main Code」環節與「Last Code」環節，嘉賓需想辦法在此二環節之一中生存下來。「Main
-Code」為解開密室內的隱藏的線索，得到關於密碼的提示，之後可依照自己推測出的密碼開啟中央電梯的門，繼續前往上一層樓；然而因每人僅有三張機會卡，因此每人僅有三次輸入密碼的機會。機會卡可以轉讓他人。最先輸入密碼成功，而順利抵達上一層的嘉賓，可獲得該層的密碼提示以及額外的一張機會卡等有利條件。
+節目中設計有「Main Code」環節與「Last Code」環節，嘉賓需想辦法在此二環節之一中生存下來。「Main Code」為解開密室內的隱藏的線索，得到關於密碼的提示，之後可依照自己推測出的密碼開啟中央電梯的門，繼續前往上一層樓；然而因每人僅有三張機會卡，因此每人僅有三次輸入密碼的機會。機會卡可以轉讓他人。最先輸入密碼成功，而順利抵達上一層的嘉賓，可獲得該層的密碼提示以及額外的一張機會卡等有利條件。
 
 除第一集外，每集皆有四個房間，分別布置成不同的主題。每個房間都有若干個線索。
 
 遊戲過程會進行不定次數的「全場一致投票」。
 
-「Main Code」環節會持續進行至未逃出人數減少為若干名，剩餘的玩家將進入「Last Code」環節。在「Last
-Code」環節中，最後未逃出的玩家為該集淘汰者。
+「Main Code」環節會持續進行至未逃出人數減少為若干名，剩餘的玩家將進入「Last Code」環節。在「Last Code」環節中，最後未逃出的玩家為該集淘汰者。
 
 每輪最終優勝獎金為兩千萬韓圓。
 
@@ -448,10 +445,6 @@ Code」環節中，最後未逃出的玩家為該集淘汰者。
 ## 外部連結
 
   -
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:遊戲節目](https://zh.wikipedia.org/wiki/Category:遊戲節目 "wikilink")
-[Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink")
-[Category:密室逃脫](https://zh.wikipedia.org/wiki/Category:密室逃脫 "wikilink")
-[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
+[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:遊戲節目](https://zh.wikipedia.org/wiki/Category:遊戲節目 "wikilink") [Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink") [Category:密室逃脫](https://zh.wikipedia.org/wiki/Category:密室逃脫 "wikilink") [Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
 
 1.

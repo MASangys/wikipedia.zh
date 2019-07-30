@@ -16,11 +16,9 @@
   - 2007年7月
     還是中學生的大濱、寺内、平柿，組成樂團。之後大濱的住所附近的竹内加入，成為4人樂團。
   - 2007年10月
-    參加[山葉贊助的](https://zh.wikipedia.org/wiki/山葉_\(公司\) "wikilink")「The
-    1st Music Revolution」，進入大阪決賽。
+    參加[山葉贊助的](https://zh.wikipedia.org/wiki/山葉_\(公司\) "wikilink")「The 1st Music Revolution」，進入大阪決賽。
   - 2008年10月
-    參加「The 2nd Music Revolution OSAKA FINAL」（關西地區）大獎獲得，11月進入「JAPAN
-    FINAL」決賽。
+    參加「The 2nd Music Revolution OSAKA FINAL」（關西地區）大獎獲得，11月進入「JAPAN FINAL」決賽。
   - 2010年2月
     最初發行的獨立CD「little globe」，在一個月內賣出500份。
   - 2010.07
@@ -51,12 +49,10 @@
 
 ## 外部連結
 
-  - [ULTRA
-    TOWER](https://web.archive.org/web/20170202094142/http://ultratower.net/)（公式網站）
+  - [ULTRA TOWER](https://web.archive.org/web/20170202094142/http://ultratower.net/)（公式網站）
 
   -
   -
-[Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
+[Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
 
 1.

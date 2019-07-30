@@ -1,17 +1,6 @@
-\-- This module returns the country name or the flag name for a country,
--- based on the three-letter IOC/CGA/FINA alias.
+\-- This module returns the country name or the flag name for a country, -- based on the three-letter IOC/CGA/FINA alias.
 
-\--[The following country code is used for multiple countries: ANG
-(workaround: added ANG_CGF) The following names occur twice due to
-CGF/IOC/FINA differences Anguilla AIA, ANG_CGF Antigua and Barbuda ANT,
-ATG Curaçao CUR, CUW Faroe Islands FAR, FRO French Polynesia PYF, TAH
-Hong Kong HKG, HKG_CGF (latter added to keep colonial flag) Iran IRI,
-IRN Ireland IRE, IRL - IRE is \*only\* for CGF apps Lebanon LBN, LIB
-Nicaragua NCA, NIC Refugee Olympic Team ROA, ROT Romania ROM, ROU Saint
-Helena SHE, SHN Saint Vincent and the Grenadines SVG, VIN Sarawak SAR,
-SWK Singapore SGP, SIN South Africa RSA, SAF Tonga TGA, TON Trinidad and
-Tobago TRI, TTO Turks and Caicos Islands TCI,
-TKS](https://zh.wikipedia.org/wiki/The_following_country_code_is_used_for_multiple_countries:_ANG_\(workaround:_added_ANG_CGF\)_The_following_names_occur_twice_due_to_CGF/IOC/FINA_differences_Anguilla_AIA,_ANG_CGF_Antigua_and_Barbuda_ANT,_ATG_Curaçao_CUR,_CUW_Faroe_Islands_FAR,_FRO_French_Polynesia_PYF,_TAH_Hong_Kong_HKG,_HKG_CGF_\(latter_added_to_keep_colonial_flag\)_Iran_IRI,_IRN_Ireland_IRE,_IRL_-_IRE_is_*only*_for_CGF_apps_Lebanon_LBN,_LIB_Nicaragua_NCA,_NIC_Refugee_Olympic_Team_ROA,_ROT_Romania_ROM,_ROU_Saint_Helena_SHE,_SHN_Saint_Vincent_and_the_Grenadines_SVG,_VIN_Sarawak_SAR,_SWK_Singapore_SGP,_SIN_South_Africa_RSA,_SAF_Tonga_TGA,_TON_Trinidad_and_Tobago_TRI,_TTO_Turks_and_Caicos_Islands_TCI,_TKS "wikilink")
+\--[The following country code is used for multiple countries: ANG (workaround: added ANG_CGF) The following names occur twice due to CGF/IOC/FINA differences Anguilla AIA, ANG_CGF Antigua and Barbuda ANT, ATG Curaçao CUR, CUW Faroe Islands FAR, FRO French Polynesia PYF, TAH Hong Kong HKG, HKG_CGF (latter added to keep colonial flag) Iran IRI, IRN Ireland IRE, IRL - IRE is \*only\* for CGF apps Lebanon LBN, LIB Nicaragua NCA, NIC Refugee Olympic Team ROA, ROT Romania ROM, ROU Saint Helena SHE, SHN Saint Vincent and the Grenadines SVG, VIN Sarawak SAR, SWK Singapore SGP, SIN South Africa RSA, SAF Tonga TGA, TON Trinidad and Tobago TRI, TTO Turks and Caicos Islands TCI, TKS](https://zh.wikipedia.org/wiki/The_following_country_code_is_used_for_multiple_countries:_ANG_\(workaround:_added_ANG_CGF\)_The_following_names_occur_twice_due_to_CGF/IOC/FINA_differences_Anguilla_AIA,_ANG_CGF_Antigua_and_Barbuda_ANT,_ATG_Curaçao_CUR,_CUW_Faroe_Islands_FAR,_FRO_French_Polynesia_PYF,_TAH_Hong_Kong_HKG,_HKG_CGF_\(latter_added_to_keep_colonial_flag\)_Iran_IRI,_IRN_Ireland_IRE,_IRL_-_IRE_is_*only*_for_CGF_apps_Lebanon_LBN,_LIB_Nicaragua_NCA,_NIC_Refugee_Olympic_Team_ROA,_ROT_Romania_ROM,_ROU_Saint_Helena_SHE,_SHN_Saint_Vincent_and_the_Grenadines_SVG,_VIN_Sarawak_SAR,_SWK_Singapore_SGP,_SIN_South_Africa_RSA,_SAF_Tonga_TGA,_TON_Trinidad_and_Tobago_TRI,_TTO_Turks_and_Caicos_Islands_TCI,_TKS "wikilink")
 
 local countries = {
 

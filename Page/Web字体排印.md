@@ -1,14 +1,6 @@
-[Web_fonts.png](https://zh.wikipedia.org/wiki/File:Web_fonts.png "fig:Web_fonts.png")
-**Web字体排印**（）是指在[万维网上使用](../Page/万维网.md "wikilink")[字体](../Page/字型.md "wikilink")。首次创建[HTML时](../Page/HTML.md "wikilink")，字体和字形完全由每个[Web浏览器的设置控制](../Page/网页浏览器.md "wikilink")。直到1995年[Netscape引入了](../Page/網景.md "wikilink")标签，在HTML
-3.2规范中标准化，单个网页才能控制字体显示。但是，标签指定的字体必须安装在用户的计算机上，否则将使用后备字体，例如浏览器的默认[无衬线字体或](../Page/无衬线体.md "wikilink")[等宽字体](../Page/等宽字体.md "wikilink")。1996年发布的第一个[CSS规范提供了相同的功能](https://zh.wikipedia.org/wiki/CSS "wikilink")。
+[Web_fonts.png](https://zh.wikipedia.org/wiki/File:Web_fonts.png "fig:Web_fonts.png") **Web字体排印**（）是指在[万维网](../Page/万维网.md "wikilink")上使用[字体](../Page/字型.md "wikilink")。首次创建[HTML](../Page/HTML.md "wikilink")时，字体和字形完全由每个[Web浏览器的设置控制](../Page/网页浏览器.md "wikilink")。直到1995年[Netscape引入了](../Page/網景.md "wikilink")标签，在HTML 3.2规范中标准化，单个网页才能控制字体显示。但是，标签指定的字体必须安装在用户的计算机上，否则将使用后备字体，例如浏览器的默认[无衬线字体或](../Page/无衬线体.md "wikilink")[等宽字体](../Page/等宽字体.md "wikilink")。1996年发布的第一个[CSS规范提供了相同的功能](https://zh.wikipedia.org/wiki/CSS "wikilink")。
 
-CSS2规范于1998年发布，试图通过添加字体匹配、合成和下载来改进字体选择过程。这些技术没有得到太多的使用，并且在CSS2.1规范中被删除。不过，[Internet
-Explorer在](../Page/Internet_Explorer.md "wikilink")1997年发布的[4.0版本中添加了对字体下载功能的支持](../Page/Internet_Explorer_4.md "wikilink")。\[1\]
-字体下载后来被包含在CSS3字体模块中，并且已经在[Safari
-3.1](../Page/Safari.md "wikilink")、[Opera
-10和](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")[Mozilla
-Firefox
-3.5中实现](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")。随后，人们增长了对Web字体排印以及字体下载应用的兴趣。
+CSS2规范于1998年发布，试图通过添加字体匹配、合成和下载来改进字体选择过程。这些技术没有得到太多的使用，并且在CSS2.1规范中被删除。不过，[Internet Explorer在](../Page/Internet_Explorer.md "wikilink")1997年发布的[4.0版本中添加了对字体下载功能的支持](../Page/Internet_Explorer_4.md "wikilink")。\[1\] 字体下载后来被包含在CSS3字体模块中，并且已经在[Safari 3.1](../Page/Safari.md "wikilink")、[Opera 10和](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")[Mozilla Firefox 3.5中实现](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")。随后，人们增长了对Web字体排印以及字体下载应用的兴趣。
 
 ## CSS1
 
@@ -28,12 +20,7 @@ Firefox
 
 ### 微软的Web核心字体
 
-[3_Core_Fonts_for_the_web.png](https://zh.wikipedia.org/wiki/File:3_Core_Fonts_for_the_web.png "fig:3_Core_Fonts_for_the_web.png")以来，Arial、Georgia和Verdana已经成为三种实打实的在Web上广泛使用的字体。\]\]
-
-为确保所有Web用户都拥有基本的字体集，[微软于](../Page/微软.md "wikilink")1996年启动了[Web核心字体计划](../Page/網頁核心字型.md "wikilink")（该计划在2002年终止）。发布的字体包括[Arial](../Page/Arial.md "wikilink")、[Courier
-New](../Page/Courier.md "wikilink")、[Times New
-Roman](../Page/Times_New_Roman.md "wikilink")、[Comic
-Sans](../Page/Comic_Sans.md "wikilink")、[Impact](https://zh.wikipedia.org/wiki/Impact "wikilink")、[Georgia](../Page/Georgia_\(字型\).md "wikilink")、[Trebuchet](../Page/Trebuchet_MS.md "wikilink")、[Webdings和](../Page/Webdings.md "wikilink")[Verdana](../Page/Verdana.md "wikilink")，其[EULA使这些字体可以自由分发](https://zh.wikipedia.org/wiki/最终用户许可协议 "wikilink")，但也限制了一些使用权限。他们的高渗透率使他们成为网页设计师的必备品。但是，大多数[Linux发行版默认不包含这些字体](../Page/Linux发行版.md "wikilink")。
+[3_Core_Fonts_for_the_web.png](https://zh.wikipedia.org/wiki/File:3_Core_Fonts_for_the_web.png "fig:3_Core_Fonts_for_the_web.png")以来，Arial、Georgia和Verdana已经成为三种实打实的在Web上广泛使用的字体。\]\]  为确保所有Web用户都拥有基本的字体集，[微软](../Page/微软.md "wikilink")于1996年启动了[Web核心字体计划](../Page/網頁核心字型.md "wikilink")（该计划在2002年终止）。发布的字体包括[Arial](../Page/Arial.md "wikilink")、[Courier New](../Page/Courier.md "wikilink")、[Times New Roman](../Page/Times_New_Roman.md "wikilink")、[Comic Sans](../Page/Comic_Sans.md "wikilink")、[Impact](https://zh.wikipedia.org/wiki/Impact "wikilink")、[Georgia](../Page/Georgia_\(字型\).md "wikilink")、[Trebuchet](../Page/Trebuchet_MS.md "wikilink")、[Webdings](../Page/Webdings.md "wikilink")和[Verdana](../Page/Verdana.md "wikilink")，其[EULA使这些字体可以自由分发](https://zh.wikipedia.org/wiki/最终用户许可协议 "wikilink")，但也限制了一些使用权限。他们的高渗透率使他们成为网页设计师的必备品。但是，大多数[Linux发行版](../Page/Linux发行版.md "wikilink")默认不包含这些字体。
 
 [CSS2试图通过添加字体合成](../Page/层叠样式表.md "wikilink")、改进的字体匹配以及下载远程字体的能力来增加Web开发人员可用的工具。\[3\]
 
@@ -78,8 +65,7 @@ CSS规范允许将多种字体列为后备字体。\[6\] 在CSS中，`font-famil
 
 ## 参见
 
-  - [Scalable Inman Flash
-    Replacement](https://zh.wikipedia.org/wiki/Scalable_Inman_Flash_Replacement "wikilink")
+  - [Scalable Inman Flash Replacement](https://zh.wikipedia.org/wiki/Scalable_Inman_Flash_Replacement "wikilink")
   - WOFF中提到的RFC列表（2009-10-23草案）：
       - RFC 1950 ZLIB压缩数据格式规范
       - RFC 2119 在RFC中用于指示需求级别的关键词
@@ -91,9 +77,7 @@ CSS规范允许将多种字体列为后备字体。\[6\] 在CSS中，`font-famil
 
   - [W3C CSS字体规范](https://www.w3.org/TR/css-fonts-3/)
 
-[Category:數碼字體排印](https://zh.wikipedia.org/wiki/Category:數碼字體排印 "wikilink")
-[Category:网页设计](https://zh.wikipedia.org/wiki/Category:网页设计 "wikilink")
-[Category:全球資訊網](https://zh.wikipedia.org/wiki/Category:全球資訊網 "wikilink")
+[Category:數碼字體排印](https://zh.wikipedia.org/wiki/Category:數碼字體排印 "wikilink") [Category:网页设计](https://zh.wikipedia.org/wiki/Category:网页设计 "wikilink") [Category:全球資訊網](https://zh.wikipedia.org/wiki/Category:全球資訊網 "wikilink")
 
 1.
 

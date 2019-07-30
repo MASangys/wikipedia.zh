@@ -1,27 +1,10 @@
-**PC原人**（ピーシーげんじん，BONKS
-ADVENTURE）是以[小学館](https://zh.wikipedia.org/wiki/小学館 "wikilink")『[月刊PC
-Engine](https://zh.wikipedia.org/wiki/月刊PC_Engine "wikilink")』連載的4格漫画為原作，並於1989年12月15日由[Hudson
-Soft發售的](../Page/Hudson_Soft.md "wikilink") [PC
-Engine版](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。Red
-Company（現[Red
-Entertainment](../Page/Red_Entertainment.md "wikilink")）以及[Atlus也有參與製作](../Page/Atlus.md "wikilink")。保有PC
-ENGINE上動作遊戲銷售最高的紀錄\[1\]
+**PC原人**（ピーシーげんじん，BONKS ADVENTURE）是以[小学館](https://zh.wikipedia.org/wiki/小学館 "wikilink")『[月刊PC Engine](https://zh.wikipedia.org/wiki/月刊PC_Engine "wikilink")』連載的4格漫画為原作，並於1989年12月15日由[Hudson Soft發售的](../Page/Hudson_Soft.md "wikilink") [PC Engine版](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。Red Company（現[Red Entertainment](../Page/Red_Entertainment.md "wikilink")）以及[Atlus](../Page/Atlus.md "wikilink")也有參與製作。保有PC ENGINE上動作遊戲銷售最高的紀錄\[1\]
 
-2003年12月4日，作為Hudson
-Selection第3部作品而發售3D化的版本。2006年12月2日在[Wii的](../Page/Wii.md "wikilink")[Virtual
-Console開始下載販售](../Page/Virtual_Console.md "wikilink")，2007年12月發售手機用的遊戲app。2010年以「Bonk:
-Brink of Extinction」之名，由北美Hudson 在[Xbox
-Live](../Page/Xbox_Live.md "wikilink")，[WiiWare](../Page/WiiWare.md "wikilink")，[PSN等平台上發售](https://zh.wikipedia.org/wiki/PSN "wikilink")，2013年6月改編為[雲端遊戲在](../Page/雲端遊戲.md "wikilink")
-[ひかりTV遊戲以及](https://zh.wikipedia.org/wiki/ひかりTV "wikilink")[G-cluster上發售](https://zh.wikipedia.org/wiki/G-cluster "wikilink")，2013年12月25日也在[Wii
-U](../Page/Wii_U.md "wikilink") Virtual Console上發售。
+2003年12月4日，作為Hudson Selection第3部作品而發售3D化的版本。2006年12月2日在[Wii](../Page/Wii.md "wikilink")的[Virtual Console開始下載販售](../Page/Virtual_Console.md "wikilink")，2007年12月發售手機用的遊戲app。2010年以「Bonk: Brink of Extinction」之名，由北美Hudson 在[Xbox Live](../Page/Xbox_Live.md "wikilink")，[WiiWare](../Page/WiiWare.md "wikilink")，[PSN等平台上發售](https://zh.wikipedia.org/wiki/PSN "wikilink")，2013年6月改編為[雲端遊戲](../Page/雲端遊戲.md "wikilink")在 [ひかりTV遊戲以及](https://zh.wikipedia.org/wiki/ひかりTV "wikilink")[G-cluster上發售](https://zh.wikipedia.org/wiki/G-cluster "wikilink")，2013年12月25日也在[Wii U](../Page/Wii_U.md "wikilink") Virtual Console上發售。
 
-名稱由來除了來自PC
-ENGINE的PC以外，也來自於本作的標語「**P**ithecanthropus**C**omputerurus」(*Pithecanthropus*是[猿人](https://zh.wikipedia.org/wiki/猿人屬 "wikilink")，*Computerurus*是電腦)。
+名稱由來除了來自PC ENGINE的PC以外，也來自於本作的標語「**P**ithecanthropus**C**omputerurus」(*Pithecanthropus*是[猿人](https://zh.wikipedia.org/wiki/猿人屬 "wikilink")，*Computerurus*是電腦)。
 
-原先預計在PC
-ENGINE發售稱為「RPC原人」的[角色扮演遊戲](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")，但之後中止開發
-\[2\]。另外原先也預計發售叫做「究極PC原人」的街機版，但之後中止發售，現在仍有試玩作的基板存在。\[3\]該作開發與三辻富貴朗有關。在『月刊PC
-ENGINE』所附錄的CD-ROM裡面，有其4格漫畫的作品。
+原先預計在PC ENGINE發售稱為「RPC原人」的[角色扮演遊戲](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")，但之後中止開發 \[2\]。另外原先也預計發售叫做「究極PC原人」的街機版，但之後中止發售，現在仍有試玩作的基板存在。\[3\]該作開發與三辻富貴朗有關。在『月刊PC ENGINE』所附錄的CD-ROM裡面，有其4格漫畫的作品。
 
 ## 故事大綱
 
@@ -35,7 +18,7 @@ PC原人的主要攻擊方式是使用像是石頭一樣堅硬的頭部進行攻
 
 ## 提升力量
 
-當吃下[漫畫肉時](../Page/漫畫肉.md "wikilink")，最高能提昇到兩階段的力量，肉共有兩種，小塊肉能提升1階段，大塊肉能提升2階段。力量提升時，攻擊力在1階段是通常的2倍，2階段時是通常的3倍，一部分的動作還會帶有特殊效果。隨著時間或遭到一定程度的傷害會降低力量。另外力量提升到2階段時，還會有一段時間的無敵狀態。
+當吃下[漫畫肉](../Page/漫畫肉.md "wikilink")時，最高能提昇到兩階段的力量，肉共有兩種，小塊肉能提升1階段，大塊肉能提升2階段。力量提升時，攻擊力在1階段是通常的2倍，2階段時是通常的3倍，一部分的動作還會帶有特殊效果。隨著時間或遭到一定程度的傷害會降低力量。另外力量提升到2階段時，還會有一段時間的無敵狀態。
 
   - PC猿人
     初代1階段力量提升的狀態。只要使用落地頭槌就能讓畫面中的敵人停止動作。
@@ -60,13 +43,11 @@ PC原人的主要攻擊方式是使用像是石頭一樣堅硬的頭部進行攻
   - GB怪我人
     GB原人2的力量提升的狀態，在獎勵關卡中輸給機械原人時就會變身。在這個狀態下，受到的傷害是2倍，在力量沒有提升前都無法回復原狀。
   - 機械原人
-    GB原人2的獎勵關卡中出現的敵人。在獎勵關卡中，是用羽毛會落到合者那邊決定勝負。規則是三戰兩勝，贏的話就能加一命，但輸的話會變成
-    GB怪我人。
+    GB原人2的獎勵關卡中出現的敵人。在獎勵關卡中，是用羽毛會落到合者那邊決定勝負。規則是三戰兩勝，贏的話就能加一命，但輸的話會變成 GB怪我人。
 
 ## 尺寸的變化
 
-3開始導入的遊戲要素。吃下糖果以後就能讓身體變成大・中・小的尺寸。也因為這樣，所以會有不利用尺寸變化就無法到達的場所，或因此無法取得強力的物品。
-另外受到傷害時，一律都會變回到中的尺寸，但可以透過糖果以及糖果所生出的彈簧花而回復最初狀態。
+3開始導入的遊戲要素。吃下糖果以後就能讓身體變成大・中・小的尺寸。也因為這樣，所以會有不利用尺寸變化就無法到達的場所，或因此無法取得強力的物品。 另外受到傷害時，一律都會變回到中的尺寸，但可以透過糖果以及糖果所生出的彈簧花而回復最初狀態。
 
   - 大原人
     大尺寸時的名字。能夠和力量提升的狀態重複累加。
@@ -108,10 +89,7 @@ PC原人的主要攻擊方式是使用像是石頭一樣堅硬的頭部進行攻
 <!-- end list -->
 
   -
-    日本國內只有CD電人使用[SUPER
-    CD-ROM2](https://zh.wikipedia.org/wiki/SUPER_CD-ROM2 "wikilink")，其他4座使用[HuCARD](https://zh.wikipedia.org/wiki/HuCARD "wikilink")。北美則發售[SUPER
-    CD-ROM2版的PC原人](https://zh.wikipedia.org/wiki/SUPER_CD-ROM2 "wikilink")3。PC電人及CD電人為[射擊遊戲](https://zh.wikipedia.org/wiki/射擊遊戲 "wikilink")。與其他5作一起在Virtual
-    Console下載販售。
+    日本國內只有CD電人使用[SUPER CD-ROM2](https://zh.wikipedia.org/wiki/SUPER_CD-ROM2 "wikilink")，其他4座使用[HuCARD](https://zh.wikipedia.org/wiki/HuCARD "wikilink")。北美則發售[SUPER CD-ROM2版的PC原人](https://zh.wikipedia.org/wiki/SUPER_CD-ROM2 "wikilink")3。PC電人及CD電人為[射擊遊戲](https://zh.wikipedia.org/wiki/射擊遊戲 "wikilink")。與其他5作一起在Virtual Console下載販售。
 
   - [紅白機](https://zh.wikipedia.org/wiki/紅白機 "wikilink")
 
@@ -141,8 +119,7 @@ PC原人的主要攻擊方式是使用像是石頭一樣堅硬的頭部進行攻
 
 <!-- end list -->
 
-  - [GAMECUBE](https://zh.wikipedia.org/wiki/GAMECUBE "wikilink")・[PlayStation
-    2](../Page/PlayStation_2.md "wikilink")
+  - [GAMECUBE](https://zh.wikipedia.org/wiki/GAMECUBE "wikilink")・[PlayStation 2](../Page/PlayStation_2.md "wikilink")
 
 <!-- end list -->
 
@@ -154,8 +131,7 @@ PC原人的主要攻擊方式是使用像是石頭一樣堅硬的頭部進行攻
 
 <!-- end list -->
 
-  - PC原人（2008年3月現在，[EZ APP
-    (BREW)版](https://zh.wikipedia.org/wiki/無線二進位執行環境 "wikilink")，[i-αppli版](https://zh.wikipedia.org/wiki/i-αppli "wikilink")，[S\!アプリ版が配信](https://zh.wikipedia.org/wiki/S!アプリ "wikilink")）
+  - PC原人（2008年3月現在，[EZ APP (BREW)版](https://zh.wikipedia.org/wiki/無線二進位執行環境 "wikilink")，[i-αppli版](https://zh.wikipedia.org/wiki/i-αppli "wikilink")，[S\!アプリ版が配信](https://zh.wikipedia.org/wiki/S!アプリ "wikilink")）
 
 <!-- end list -->
 
@@ -187,8 +163,7 @@ PC原人的主要攻擊方式是使用像是石頭一樣堅硬的頭部進行攻
 
 <!-- end list -->
 
-  - [サターンボンバーマン](https://zh.wikipedia.org/wiki/サターンボンバーマン "wikilink")
-    –在戰鬥模式中以原人的角色身分登場。
+  - [サターンボンバーマン](https://zh.wikipedia.org/wiki/サターンボンバーマン "wikilink") –在戰鬥模式中以原人的角色身分登場。
 
 ## 漫画
 
@@ -200,19 +175,12 @@ PC原人的主要攻擊方式是使用像是石頭一樣堅硬的頭部進行攻
 
 ## 外部連結
 
-  - [Hudson Selection PC原人
-    官網](https://web.archive.org/web/20080208221152/http://www.hudson.co.jp/gamenavi/gamedb/softinfo/hu_select/pc/)
+  - [Hudson Selection PC原人 官網](https://web.archive.org/web/20080208221152/http://www.hudson.co.jp/gamenavi/gamedb/softinfo/hu_select/pc/)
 
-[Category:1989年電子遊戲](https://zh.wikipedia.org/wiki/Category:1989年電子遊戲 "wikilink")
-[Category:PC_Engine遊戲](https://zh.wikipedia.org/wiki/Category:PC_Engine遊戲 "wikilink")
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:原始人題材作品](https://zh.wikipedia.org/wiki/Category:原始人題材作品 "wikilink")
-[Category:Hudson_Soft遊戲](https://zh.wikipedia.org/wiki/Category:Hudson_Soft遊戲 "wikilink")
+[Category:1989年電子遊戲](https://zh.wikipedia.org/wiki/Category:1989年電子遊戲 "wikilink") [Category:PC_Engine遊戲](https://zh.wikipedia.org/wiki/Category:PC_Engine遊戲 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:原始人題材作品](https://zh.wikipedia.org/wiki/Category:原始人題材作品 "wikilink") [Category:Hudson_Soft遊戲](https://zh.wikipedia.org/wiki/Category:Hudson_Soft遊戲 "wikilink")
 
-1.  [-
-    岩崎啓真的個人blog](http://www.highriskrevolution.com/gamelife/index.php?e=28%7C遊戲的色彩)
-2.  [沒有發售的夢幻遊戲們-
-    NAVERまとめ](https://matome.naver.jp/odai/2140479813053111501?grid=false&page=4)2018年2月10日閲覧
+1.  [- 岩崎啓真的個人blog](http://www.highriskrevolution.com/gamelife/index.php?e=28%7C遊戲的色彩)
+2.  [沒有發售的夢幻遊戲們- NAVERまとめ](https://matome.naver.jp/odai/2140479813053111501?grid=false&page=4)2018年2月10日閲覧
 3.  [1](http://www.nicovideo.jp/watch/sm3688519) ニコニコ動画中的街機動画
 4.  3D版改名成頭槌
 5.  3D版中改名成落地頭槌

@@ -1,9 +1,6 @@
-**Mia
-REGINA**是[Lantis旗下的](../Page/Lantis.md "wikilink")[日本](../Page/日本.md "wikilink")[女子歌唱團體](../Page/女子音乐组合.md "wikilink")，主要演唱[動畫歌曲](../Page/動畫歌曲.md "wikilink")\[1\]。團名中的Mia意為「我」，而REGINA則是[拉丁語的](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")「[女王](../Page/女王.md "wikilink")」\[2\]。
+**Mia REGINA**是[Lantis](../Page/Lantis.md "wikilink")旗下的[日本](../Page/日本.md "wikilink")[女子歌唱團體](../Page/女子音乐组合.md "wikilink")，主要演唱[動畫歌曲](../Page/動畫歌曲.md "wikilink")\[1\]。團名中的Mia意為「我」，而REGINA則是[拉丁語的](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")「[女王](../Page/女王.md "wikilink")」\[2\]。
 
-本團體由原先在活動，同時也是[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")「[STAR☆ANIS](../Page/STAR☆ANIS.md "wikilink")」成員的霧島若歌、上花楓裏以及笹鎌里須子組成\[3\]，在2016年8月藉由演唱電視動畫《[小桃小栗
-Love
-Love物語](../Page/小桃小栗_Love_Love物語.md "wikilink")》的片尾曲出道，並於同年12月發行首張專輯\[4\]。
+本團體由原先在活動，同時也是[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")「[STAR☆ANIS](../Page/STAR☆ANIS.md "wikilink")」成員的霧島若歌、上花楓裏以及笹鎌里須子組成\[3\]，在2016年8月藉由演唱電視動畫《[小桃小栗 Love Love物語](../Page/小桃小栗_Love_Love物語.md "wikilink")》的片尾曲出道，並於同年12月發行首張專輯\[4\]。
 
 ## 成員
 
@@ -13,15 +10,12 @@ Love物語](../Page/小桃小栗_Love_Love物語.md "wikilink")》的片尾曲�
 <!-- end list -->
 
   -
-    在《星夢學園》中擔任霧矢葵／音城星羅／夏樹未來的歌唱者，也為《[Concrete
-    Revolutio～超人幻想～](../Page/Concrete_Revolutio～超人幻想～.md "wikilink")》中的女子樂團「Angel
-    Stars」配唱。\[6\]
+    在《星夢學園》中擔任霧矢葵／音城星羅／夏樹未來的歌唱者，也為《[Concrete Revolutio～超人幻想～](../Page/Concrete_Revolutio～超人幻想～.md "wikilink")》中的女子樂團「Angel Stars」配唱。\[6\]
 
 <!-- end list -->
 
   -
-    在《星夢學園》中擔任神崎美月的歌唱者，也為《Concrete Revolutio～超人幻想～》中的女子樂團「Angel
-    Stars」配唱。\[7\]
+    在《星夢學園》中擔任神崎美月的歌唱者，也為《Concrete Revolutio～超人幻想～》中的女子樂團「Angel Stars」配唱。\[7\]
 
 ## 音樂作品
 
@@ -154,6 +148,11 @@ Love物語](../Page/小桃小栗_Love_Love物語.md "wikilink")》的片尾曲�
 <td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/citrus_～柑橘味香氣～" title="wikilink">citrus ～柑橘味香氣～</a>》片尾曲</p></td>
 <td><p>2018年</p></td>
 </tr>
+<tr class="even">
+<td></td>
+<td><p>電視動畫《<a href="../Page/只要長得可愛，即使是變態你也喜歡嗎？.md" title="wikilink">只要長得可愛，即使是變態你也喜歡嗎？</a>》片尾曲</p></td>
+<td><p>2019年</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -168,9 +167,7 @@ Love物語](../Page/小桃小栗_Love_Love物語.md "wikilink")》的片尾曲�
 
   - [Mia REGINA於Lantis的官方網站](http://www.lantis.jp/artist/Mia_REGINA/)
 
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
+[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
 
 1.
 

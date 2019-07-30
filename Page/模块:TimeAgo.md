@@ -1,7 +1,4 @@
-\-- Replacement for [Template:Time
-ago](https://zh.wikipedia.org/wiki/Template:Time_ago "wikilink") local
-numberSpell = require('Module:NumberSpell')._main local yesno =
-require('Module:Yesno')
+\-- Replacement for [Template:Time ago](https://zh.wikipedia.org/wiki/Template:Time_ago "wikilink") local numberSpell = require('Module:NumberSpell')._main local yesno = require('Module:Yesno')
 
 local p = {}
 
@@ -17,8 +14,7 @@ local p = {}
 
 }
 
-\-- Table containing tables of possible units to use in output.
-timeUnits = {
+\-- Table containing tables of possible units to use in output. timeUnits = {
 
 `   [1] = { '秒', '秒', "秒", "秒" },`
 `   [60] = { '分鐘', '分鐘', "分鐘", "分鐘" },`

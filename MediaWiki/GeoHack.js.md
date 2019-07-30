@@ -28,18 +28,11 @@ window.onload = function() {
 
 }
 
-var head = document.getElementsByTagName('head')\[0\]; var style =
-document.createElement('link'); style.rel = 'stylesheet'; style.type =
-'text/css'; style.href = '//maps.wikimedia.org/leaflet/leaflet.css';
-head.appendChild(style);
+var head = document.getElementsByTagName('head')\[0\]; var style = document.createElement('link'); style.rel = 'stylesheet'; style.type = 'text/css'; style.href = '//maps.wikimedia.org/leaflet/leaflet.css'; head.appendChild(style);
 
-var script = document.createElement('script'); script.type =
-'text/javascript'; script.src =
-'//maps.wikimedia.org/leaflet/leaflet.js'; head.appendChild(script);
+var script = document.createElement('script'); script.type = 'text/javascript'; script.src = '//maps.wikimedia.org/leaflet/leaflet.js'; head.appendChild(script);
 
-var OSM_class_R =
-/\\bOSM:(\[\\d.+-\]+)_(\[\\d.+-\]+)_(\[\\d.+-\]+)_(\\w+)/; function
-embedOpenStreetMap() {
+var OSM_class_R = /\\bOSM:(\[\\d.+-\]+)_(\[\\d.+-\]+)_(\[\\d.+-\]+)_(\\w+)/; function embedOpenStreetMap() {
 
 `   clearInterval(osmtimer);`
 `   var osmTarget = document.getElementById('osmEmbed');`
@@ -59,6 +52,4 @@ embedOpenStreetMap() {
 
 }
 
-osmtimer = setInterval("if (document.getElementById('osmEmbed') && L) {
-embedOpenStreetMap(); }", 200); setTimeout('clearInterval(osmtimer)',
-5000);
+osmtimer = setInterval("if (document.getElementById('osmEmbed') && L) { embedOpenStreetMap(); }", 200); setTimeout('clearInterval(osmtimer)', 5000);

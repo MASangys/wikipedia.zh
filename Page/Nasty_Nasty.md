@@ -1,6 +1,4 @@
-**Nasty
-Nasty**是[大韓民國的一個混聲組合](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")，於2014年8月27日推出，由[ZE:A的](../Page/ZE:A.md "wikilink")[凱文](https://zh.wikipedia.org/wiki/凱文_\(韓國藝人\) "wikilink")（Kevin）、[Nine
-Muses的](https://zh.wikipedia.org/wiki/Nine_Muses "wikilink")[倞利](https://zh.wikipedia.org/wiki/倞利 "wikilink")、組成。同年9月4日，該組合正式公開《Knock》完整版MV，通過Mnet音樂節目《M！Countdown》正式出道。
+**Nasty Nasty**是[大韓民國的一個混聲組合](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")，於2014年8月27日推出，由[ZE:A](../Page/ZE:A.md "wikilink")的[凱文](https://zh.wikipedia.org/wiki/凱文_\(韓國藝人\) "wikilink")（Kevin）、[Nine Muses的](https://zh.wikipedia.org/wiki/Nine_Muses "wikilink")[倞利](https://zh.wikipedia.org/wiki/倞利 "wikilink")、組成。同年9月4日，該組合正式公開《Knock》完整版MV，通過Mnet音樂節目《M！Countdown》正式出道。
 
 ## 暫停活動成員列表
 
@@ -72,9 +70,6 @@ Muses的](https://zh.wikipedia.org/wiki/Nine_Muses "wikilink")[倞利](https://z
 
 ## 參考
 
-  - [混聲組合NASTY NASTY曝性感宣傳照
-    兩女一男的火辣時刻](http://www.koreastardaily.com/tc/photo/46799)
+  - [混聲組合NASTY NASTY曝性感宣傳照 兩女一男的火辣時刻](http://www.koreastardaily.com/tc/photo/46799)
 
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
+[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")

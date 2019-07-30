@@ -4,8 +4,7 @@
 
 ## 外部链接
 
-  - [Interview with
-    HitQuarters](http://www.hitquarters.com/index.php3?page=intrview/opar/intrview_Evan_Bogart_Interview.html)
+  - [Interview with HitQuarters](http://www.hitquarters.com/index.php3?page=intrview/opar/intrview_Evan_Bogart_Interview.html)
 
 [Category:美国音乐制作人](https://zh.wikipedia.org/wiki/Category:美国音乐制作人 "wikilink")
 

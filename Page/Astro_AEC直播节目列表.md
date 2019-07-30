@@ -1,5 +1,4 @@
-本條目內之「播放日期」，是指[马来西亚](../Page/马来西亚.md "wikilink")[Astro
-AEC的播放日期](../Page/Astro_AEC.md "wikilink")。
+本條目內之「播放日期」，是指[马来西亚](../Page/马来西亚.md "wikilink")[Astro AEC的播放日期](../Page/Astro_AEC.md "wikilink")。
 
 ## 每晚直播
 
@@ -141,8 +140,8 @@ Astro Go、Njoi Now、热点Hotspot、Melody 同步直播</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Astro经典名曲歌唱大赛.md" title="wikilink">Astro经典名曲歌唱大赛2018<br />
-国际总决赛</a></p></td>
+<td><p><a href="../Page/Astro经典名曲歌唱大赛.md" title="wikilink">Astro经典名曲歌唱大赛<br />
+国际总决赛</a>2018</p></td>
 <td><p>2018年11月3日</p></td>
 <td><p>晚上8點30分</p></td>
 <td><p>現場直播<br />

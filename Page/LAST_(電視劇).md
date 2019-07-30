@@ -1,6 +1,4 @@
-《**LAST**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC自](../Page/JTBC.md "wikilink")2015年7月24日起播出的[金土迷你連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[黃金帝國](../Page/黃金帝國.md "wikilink")》、《[追擊者
-THE
-CHASER](../Page/追擊者_THE_CHASER.md "wikilink")》[趙南國導演與](../Page/趙南國.md "wikilink")《[狗與狼的時間](https://zh.wikipedia.org/wiki/狗與狼的時間 "wikilink")》[韓智勳編劇攜手打造](https://zh.wikipedia.org/wiki/韓智勳 "wikilink")。講述了原本在證券行業呼風喚雨的男主人公因一次投資失敗而在一夜間失去一切淪為流浪漢，在有森嚴等級制度的流浪漢組織中一步一步往上爬，最終推翻組織頭目掌握組織主導權的故事。\[1\]
+《**LAST**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")自2015年7月24日起播出的[金土迷你連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[黃金帝國](../Page/黃金帝國.md "wikilink")》、《[追擊者 THE CHASER](../Page/追擊者_THE_CHASER.md "wikilink")》[趙南國](../Page/趙南國.md "wikilink")導演與《[狗與狼的時間](https://zh.wikipedia.org/wiki/狗與狼的時間 "wikilink")》[韓智勳編劇攜手打造](https://zh.wikipedia.org/wiki/韓智勳 "wikilink")。講述了原本在證券行業呼風喚雨的男主人公因一次投資失敗而在一夜間失去一切淪為流浪漢，在有森嚴等級制度的流浪漢組織中一步一步往上爬，最終推翻組織頭目掌握組織主導權的故事。\[1\]
 
 ## 演員陣容
 
@@ -245,8 +243,7 @@ CHASER](../Page/追擊者_THE_CHASER.md "wikilink")》[趙南國導演與](../Pa
 
 <!-- end list -->
 
-  - [tvN](../Page/TVN.md "wikilink")：《[Oh
-    我的鬼神君](../Page/Oh_我的鬼神君.md "wikilink")》、《[第二個二十歲](../Page/第二個二十歲.md "wikilink")》
+  - [tvN](../Page/TVN.md "wikilink")：《[Oh 我的鬼神君](../Page/Oh_我的鬼神君.md "wikilink")》、《[第二個二十歲](../Page/第二個二十歲.md "wikilink")》
 
 <!-- end list -->
 
@@ -272,15 +269,8 @@ CHASER](../Page/追擊者_THE_CHASER.md "wikilink")》[趙南國導演與](../Pa
 
   - [韓國JTBC官方網站](http://drama.jtbc.joins.com/last/)
 
-[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink")
-[Category:韓國漫畫改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:韓國漫畫改編韓國電視劇 "wikilink")
-[Category:流浪漢題材作品](https://zh.wikipedia.org/wiki/Category:流浪漢題材作品 "wikilink")
-[Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink")
-[Category:借貸題材作品](https://zh.wikipedia.org/wiki/Category:借貸題材作品 "wikilink")
+[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:韓國漫畫改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:韓國漫畫改編韓國電視劇 "wikilink") [Category:流浪漢題材作品](https://zh.wikipedia.org/wiki/Category:流浪漢題材作品 "wikilink") [Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink") [Category:借貸題材作品](https://zh.wikipedia.org/wiki/Category:借貸題材作品 "wikilink")
 
-1.  [《Last》7月開播
-    尹繼相李凡秀硬漢對決](http://www.koreastardaily.com/tc/news/63728)韓星網
-2.  [AGB 닐슨 미디어리서치 케이블
-    시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
-3.  [NAVER
-    라스트](http://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&ie=utf8&query=%EB%9D%BC%EC%8A%A4%ED%8A%B8)
+1.  [《Last》7月開播 尹繼相李凡秀硬漢對決](http://www.koreastardaily.com/tc/news/63728)韓星網
+2.  [AGB 닐슨 미디어리서치 케이블 시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
+3.  [NAVER 라스트](http://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&ie=utf8&query=%EB%9D%BC%EC%8A%A4%ED%8A%B8)

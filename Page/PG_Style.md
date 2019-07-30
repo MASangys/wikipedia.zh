@@ -1,7 +1,4 @@
-《**PG Style**》（**PG
-Style**），是[香港電視娛樂製作的訪談及真人騷節目](../Page/香港電視娛樂.md "wikilink")，2017年9月2日至23日逢星期六23:00-23:30於[ViuTV播出](../Page/ViuTV.md "wikilink")，由[劉美君](../Page/劉美君.md "wikilink")（Prudence
-Liew）及[李幸倪](../Page/李幸倪.md "wikilink")（Gin
-Lee）主持，PG則是由兩位主持英文名字第一個字母拼合而成。每一集都會設定有特別主題。圍繞-{著}-不同的主題，兩位主持將透過不同的情況下，完成一些前所未試的任務，及會邀請嘉賓訪問\[1\]\[2\]。
+《**PG Style**》（**PG Style**），是[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的訪談及真人騷節目，2017年9月2日至23日逢星期六23:00-23:30於[ViuTV](../Page/ViuTV.md "wikilink")播出，由[劉美君](../Page/劉美君.md "wikilink")（Prudence Liew）及[李幸倪](../Page/李幸倪.md "wikilink")（Gin Lee）主持，PG則是由兩位主持英文名字第一個字母拼合而成。每一集都會設定有特別主題。圍繞-{著}-不同的主題，兩位主持將透過不同的情況下，完成一些前所未試的任務，及會邀請嘉賓訪問\[1\]\[2\]。
 
 ## 每集一覽
 
@@ -52,11 +49,7 @@ Lee）主持，PG則是由兩位主持英文名字第一個字母拼合而成。
 
   - [ViuTV：PG Style](http://viu.tv/encore/pg-style)
 
-[Category:2017年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2017年香港電視娛樂節目 "wikilink")
-[Category:香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目 "wikilink")
-[Category:香港綜藝節目](https://zh.wikipedia.org/wiki/Category:香港綜藝節目 "wikilink")
+[Category:2017年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2017年香港電視娛樂節目 "wikilink") [Category:香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目 "wikilink") [Category:香港綜藝節目](https://zh.wikipedia.org/wiki/Category:香港綜藝節目 "wikilink")
 
-1.  [上ViuTV《PG Style》傾舊事 劉美君
-    陳慧嫻互數前度醜樣](http://orientaldaily.on.cc/cnt/entertainment/20170828/00282_009.html)
-2.  [劉美君陳慧嫻互數前度
-    喜歡黃泰來「唔靚仔」](https://www.singpao.com.hk/index.php?fi=news4&id=44402)
+1.  [上ViuTV《PG Style》傾舊事 劉美君 陳慧嫻互數前度醜樣](http://orientaldaily.on.cc/cnt/entertainment/20170828/00282_009.html)
+2.  [劉美君陳慧嫻互數前度 喜歡黃泰來「唔靚仔」](https://www.singpao.com.hk/index.php?fi=news4&id=44402)

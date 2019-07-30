@@ -1,10 +1,10 @@
-**Lynn**（\[1\]\[2\]）是[日本的女性](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")。[ARTSVISION所屬](../Page/ARTSVISION.md "wikilink")。成長於[新潟縣](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")（出生地為[神奈川縣](../Page/神奈川縣.md "wikilink")）\[3\]。
+**Lynn**（\[1\]\[2\]）是[日本](../Page/日本.md "wikilink")的女性[聲優](../Page/聲優.md "wikilink")。[ARTSVISION](../Page/ARTSVISION.md "wikilink")所屬。成長於[新潟縣](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")（出生地為[神奈川縣](../Page/神奈川縣.md "wikilink")）\[3\]。
 
 ## 人物
 
 興趣：看電影、攝影、打桌球
 
-由聲優事務所[ARTSVISION附屬的聲優養成所](../Page/ARTSVISION.md "wikilink")[日本播音演技研究所](../Page/日本播音演技研究所.md "wikilink")，所畢業。
+由聲優事務所[ARTSVISION](../Page/ARTSVISION.md "wikilink")附屬的聲優養成所[日本播音演技研究所](../Page/日本播音演技研究所.md "wikilink")，所畢業。
 
 喜歡貓科動物，最喜歡的歌手[絢香](../Page/絢香.md "wikilink")，最喜歡食物拉麵。
 
@@ -37,15 +37,13 @@
   - [最近，妹妹的樣子有點怪？](../Page/最近，妹妹的樣子有點怪？.md "wikilink")（網球俱樂部部長、神前夕哉（幼年））
   - BABY GAMBA（**シオジ**\[5\]）
   - [魔法科高中的劣等生](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")（廣播員）
-  - [LoveLive\! 2nd
-    Season](https://zh.wikipedia.org/wiki/LoveLive!_\(動畫\) "wikilink")（同學）
+  - [LoveLive\! 2nd Season](https://zh.wikipedia.org/wiki/LoveLive!_\(動畫\) "wikilink")（同學）
   - [飆速宅男](../Page/飆速宅男.md "wikilink")（佳奈）
 
 **2015年**
 
   - [亞爾斯蘭戰記](../Page/亞爾斯蘭戰記.md "wikilink")（侍女）
-  - [機動戰士鋼彈
-    鐵血孤兒](https://zh.wikipedia.org/wiki/機動戰士鋼彈_鐵血孤兒 "wikilink")（昌弘（幼年））
+  - [機動戰士鋼彈 鐵血孤兒](https://zh.wikipedia.org/wiki/機動戰士鋼彈_鐵血孤兒 "wikilink")（昌弘（幼年））
   - [GATE 奇幻自衛隊](../Page/GATE_奇幻自衛隊.md "wikilink")（馬車中少女、廣播員、店員、朵拉）
   - [攻殼機動隊](../Page/攻殼機動隊.md "wikilink")（少女）
   - [彗星·路西法](../Page/彗星·路西法.md "wikilink")（宗吾·天城（幼年））
@@ -60,7 +58,7 @@
 **2016年**
 
   - [重裝武器](../Page/重裝武器.md "wikilink")（操作員）
-  - [疾走王子Alternative](../Page/疾走王子.md "wikilink")（小孩）
+  - [疾走王子](../Page/疾走王子.md "wikilink")Alternative（小孩）
   - [NORN9 命運九重奏](../Page/NORN9_命運九重奏.md "wikilink")（同級生1）
   - [GATE 奇幻自衛隊](../Page/GATE_奇幻自衛隊.md "wikilink") 第2期（繆緹、騎士、女騎士）
   - [Dimension W －第四次元－](../Page/Dimension_W_－第四次元－.md "wikilink")（廣瀨敦子）
@@ -73,8 +71,7 @@
   - [齊木楠雄的災難](../Page/齊木楠雄的災難.md "wikilink")（女學生A、板野依子）
   - [WWW.WORKING\!\!](https://zh.wikipedia.org/wiki/WORKING!!_\(網路漫畫\) "wikilink")（小齊藤）
   - [競女\!\!\!\!\!\!\!\!](../Page/競女!!!!!!!!.md "wikilink")（**神無望**\[10\]）
-  - [Lostorage incited
-    WIXOSS](../Page/Lostorage_incited_WIXOSS.md "wikilink")（女性選擇者）
+  - [Lostorage incited WIXOSS](../Page/Lostorage_incited_WIXOSS.md "wikilink")（女性選擇者）
   - [雙星之陰陽師](../Page/雙星之陰陽師.md "wikilink")（**蹉跎櫻**\[11\]）
 
 **2017年**
@@ -84,20 +81,16 @@
   - [亞人醬有話要說](../Page/亞人醬有話要說.md "wikilink")（**小鳥遊緋毬**\[13\]）
   - [ElDLIVE宇宙警探](../Page/ElDLIVE宇宙警探.md "wikilink")（**妮諾奇嘉**\[14\]）
   - [偶像事變](../Page/偶像事變.md "wikilink")（**不動瑞希**\[15\]）
-  - [烙印勇士](https://zh.wikipedia.org/wiki/烙印勇士 "wikilink")
-    第2期（賽路畢克〈少年時代〉）
+  - [烙印勇士](https://zh.wikipedia.org/wiki/烙印勇士 "wikilink") 第2期（賽路畢克〈少年時代〉）
   - [境界之輪迴](../Page/境界之輪迴.md "wikilink") 第3期（少女靈）
   - [猜謎王](../Page/猜謎王.md "wikilink")（矢木明日香）
   - [人馬小姐不迷茫](https://zh.wikipedia.org/wiki/人馬小姐不迷茫 "wikilink")（若牧綾香）
   - [歡迎來到實力至上主義的教室](../Page/歡迎來到實力至上主義的教室.md "wikilink")（佐藤麻耶）
-  - [Just
-    Because\!](../Page/Just_Because!.md "wikilink")（**小宮惠那**\[16\]）
-  - [奇諾之旅 -the Beautiful World- the Animated
-    Series](https://zh.wikipedia.org/wiki/奇諾之旅 "wikilink")（師父\[17\]）
+  - [Just Because\!](../Page/Just_Because!.md "wikilink")（**小宮惠那**\[16\]）
+  - [奇諾之旅 -the Beautiful World- the Animated Series](https://zh.wikipedia.org/wiki/奇諾之旅 "wikilink")（師父\[17\]）
   - [魔法使的新娘](../Page/魔法使的新娘.md "wikilink")（亞莉〈茉莉的女兒〉）
   - [泥鯨之子們在沙地上歌唱](../Page/泥鯨之子們在沙地上歌唱.md "wikilink")（伊提亞）
-  - [ROBOMASTERS THE ANIMATED
-    SERIES](https://zh.wikipedia.org/wiki/ROBOMASTERS_THE_ANIMATED_SERIES "wikilink")（**蕭若涵**\[18\]）
+  - [ROBOMASTERS THE ANIMATED SERIES](https://zh.wikipedia.org/wiki/ROBOMASTERS_THE_ANIMATED_SERIES "wikilink")（**蕭若涵**\[18\]）
 
 **2018年**
 
@@ -106,14 +99,12 @@
   - [愛吃拉麵的小泉同學](../Page/愛吃拉麵的小泉同學.md "wikilink")（女性記者）
   - [童話魔法使](../Page/童話魔法使.md "wikilink")（**尤米莉雅·卡贊**\[19\]）
   - [七美德](https://zh.wikipedia.org/wiki/sin_七大罪 "wikilink")（**拉斐爾**\[20\]）
-  - [賽馬娘Pretty
-    Derby](https://zh.wikipedia.org/wiki/賽馬娘Pretty_Derby "wikilink")（Maruzensky）
+  - [賽馬娘Pretty Derby](https://zh.wikipedia.org/wiki/賽馬娘Pretty_Derby "wikilink")（Maruzensky）
   - [魔法少女網站](../Page/魔法少女網站.md "wikilink")（瀧口旭）
   - [和風喫茶鹿楓堂](../Page/和風喫茶鹿楓堂.md "wikilink")（砂子）
   - [音樂少女](../Page/音樂少女.md "wikilink")（**金時琴子**\[21\]）
   - [百鍊霸王與聖約女武神](../Page/百鍊霸王與聖約女武神.md "wikilink")（西格恩）
-  - [Angolmois
-    元寇合戰記](https://zh.wikipedia.org/wiki/Angolmois_元寇合戰記 "wikilink")（**輝日**\[22\]）
+  - [Angolmois 元寇合戰記](https://zh.wikipedia.org/wiki/Angolmois_元寇合戰記 "wikilink")（**輝日**\[22\]）
   - [茜色少女](../Page/茜色少女.md "wikilink")（**燈中優**\[23\]）
   - [隔壁的吸血鬼美眉](../Page/隔壁的吸血鬼美眉.md "wikilink")（**夏木日向**\[24\]）
 
@@ -123,11 +114,11 @@
   - [約定的夢幻島](../Page/約定的夢幻島.md "wikilink")（**吉爾妲**\[26\]）
   - [不愉快的妖怪庵 續](../Page/不愉快的妖怪庵.md "wikilink")（繪源）
   - [天使降臨到我身邊！](../Page/天使降臨到我身邊！.md "wikilink")（**松本香子**\[27\]）
-  - [巴哈姆特之怒 -Manaria
-    Friends-](https://zh.wikipedia.org/wiki/Mysteria_Friends "wikilink")（波比）
+  - [巴哈姆特之怒 -Manaria Friends-](https://zh.wikipedia.org/wiki/Mysteria_Friends "wikilink")（波比）
   - [我們真的學不來！](../Page/我們真的學不來！.md "wikilink")（**桐須真冬**\[28\]）
   - [炎炎消防隊](../Page/炎炎消防隊.md "wikilink")（**普林西斯火華**\[29\]）
-  - [普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？](https://zh.wikipedia.org/wiki/普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？ "wikilink")（**梅迪**）
+  - [普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？](../Page/普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？.md "wikilink")（**梅迪**）
+  - [我們真的學不來！ 第二季](../Page/我們真的學不來！.md "wikilink")（**桐須真冬**）
 
 ### OVA
 
@@ -142,11 +133,11 @@
 
 **2018年**
 
-  - [噬血狂襲III](../Page/噬血狂襲.md "wikilink")（**狄珊珀**）
+  - [噬血狂襲](../Page/噬血狂襲.md "wikilink")III（**狄珊珀**）
 
 **2019年**
 
-  - [噬血狂襲III](../Page/噬血狂襲.md "wikilink")（**狄珊珀**\[31\]）
+  - [噬血狂襲](../Page/噬血狂襲.md "wikilink")III（**狄珊珀**\[31\]）
   - [天使降臨到我身邊！](../Page/天使降臨到我身邊！.md "wikilink")（**松本香子**）
 
 ### 劇場版
@@ -179,8 +170,7 @@
 
 **2015年**
 
-  - [NINJA
-    SLAYER忍者殺手](../Page/NINJA_SLAYER忍者殺手.md "wikilink")（妓女、ブナコ、電子聲音）
+  - [NINJA SLAYER忍者殺手](../Page/NINJA_SLAYER忍者殺手.md "wikilink")（妓女、ブナコ、電子聲音）
   - [怪物彈珠](../Page/怪物彈珠.md "wikilink")（**水澤葵**\[33\]）
 
 ### 數位漫畫
@@ -232,8 +222,7 @@
 **2017年**
 
   - 東京偶像計劃（美沙紀）
-  - [聖火降魔錄
-    英雄雲集](https://zh.wikipedia.org/wiki/聖火降魔錄_英雄雲集 "wikilink")（阿庫婭）
+  - [聖火降魔錄 英雄雲集](https://zh.wikipedia.org/wiki/聖火降魔錄_英雄雲集 "wikilink")（阿庫婭）
 
 **2019年**
 
@@ -303,11 +292,7 @@
   - [アーツビジョン(ARTSVISION)官方網站](http://www.artsvision.co.jp/talent/506/)
 
   -
-[Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink")
-[Category:日本女演員](https://zh.wikipedia.org/wiki/Category:日本女演員 "wikilink")
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:新潟縣出身人物](https://zh.wikipedia.org/wiki/Category:新潟縣出身人物 "wikilink")
+[Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink") [Category:日本女演員](https://zh.wikipedia.org/wiki/Category:日本女演員 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:新潟縣出身人物](https://zh.wikipedia.org/wiki/Category:新潟縣出身人物 "wikilink")
 
 1.
 2.

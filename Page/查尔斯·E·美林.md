@@ -1,15 +1,11 @@
-**查尔斯·爱德华·梅里尔**（，\[1\]）是美国股票经纪人，银行家，慈善家，和[埃德蒙·C·林奇共同创立](../Page/埃德蒙·C·林奇.md "wikilink")[美林证券公司](../Page/美林证券.md "wikilink")（以前称为Charles
-E. Merrill＆Co.）
+**查尔斯·爱德华·梅里尔**（，\[1\]）是美国股票经纪人，银行家，慈善家，和[埃德蒙·C·林奇](../Page/埃德蒙·C·林奇.md "wikilink")共同创立[美林证券](../Page/美林证券.md "wikilink")公司（以前称为Charles E. Merrill＆Co.）
 
 ## 早年生活
 
-查尔斯·E·美林，Charles
-Merrill博士和Octavia（Wilson）Merrill的儿子。查尔斯·E·美林出生于佛罗里达州的[绿湾温泉](https://zh.wikipedia.org/wiki/绿湾温泉 "wikilink")，在那里度过了他的童年。
+查尔斯·E·美林，Charles Merrill博士和Octavia（Wilson）Merrill的儿子。查尔斯·E·美林出生于佛罗里达州的[绿湾温泉](https://zh.wikipedia.org/wiki/绿湾温泉 "wikilink")，在那里度过了他的童年。
 
 ## 参考资料
 
-[Category:美国企业家](https://zh.wikipedia.org/wiki/Category:美国企业家 "wikilink")
-[Category:美国银行家](https://zh.wikipedia.org/wiki/Category:美国银行家 "wikilink")
-[Category:美国慈善家](https://zh.wikipedia.org/wiki/Category:美国慈善家 "wikilink")
+[Category:美国企业家](https://zh.wikipedia.org/wiki/Category:美国企业家 "wikilink") [Category:美国银行家](https://zh.wikipedia.org/wiki/Category:美国银行家 "wikilink") [Category:美国慈善家](https://zh.wikipedia.org/wiki/Category:美国慈善家 "wikilink")
 
 1.

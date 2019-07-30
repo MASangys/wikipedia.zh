@@ -1,35 +1,22 @@
-**BULLDOK**（）由[韓國Kconic](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-entertainment 於2016年推出的五人女子團體，出道成員包括
-小拉、GENIE、KIMI（隊長）、SAY、亨恩。團名是Bulldog（鬥牛犬）+Kconic
-Entertainment（經紀公司）的組合；[鬥牛犬是性情堅強勇敢](https://zh.wikipedia.org/wiki/鬥牛犬 "wikilink")，卻對主人很溫馴的狗種，是希望在舞台上表現出動感與力度，但是對粉絲展現出溫柔的一面的意思。2018年1月18日正式宣布解散。
+**BULLDOK**（）由[韓國Kconic](https://zh.wikipedia.org/wiki/韓國 "wikilink") entertainment 於2016年推出的五人女子團體，出道成員包括 小拉、GENIE、KIMI（隊長）、SAY、亨恩。團名是Bulldog（鬥牛犬）+Kconic Entertainment（經紀公司）的組合；[鬥牛犬是性情堅強勇敢](https://zh.wikipedia.org/wiki/鬥牛犬 "wikilink")，卻對主人很溫馴的狗種，是希望在舞台上表現出動感與力度，但是對粉絲展現出溫柔的一面的意思。2018年1月18日正式宣布解散。
 
 ## 經歷
 
 ### 出道前:《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》
 
-除了小拉，其他四名成員都參加了2016年播出的[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")
-練習生競爭節目《[PRODUCE
-101](../Page/PRODUCE_101.md "wikilink")》，亨恩於第七集獲得了位置評價RAP組第一名。
+除了小拉，其他四名成員都參加了2016年播出的[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") 練習生競爭節目《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，亨恩於第七集獲得了位置評價RAP組第一名。
 
 ### 2016年：出道
 
-  - 2016年10月20日發行出道單曲《**어때요**》\[1\]。當天在首爾市麻浦區 Rolling Hall 舉辦了
-    showcase\[2\]。同日並以
-    [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") 音樂節目《[M
-    Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》為出道初登場舞台，演唱〈**어때요（Why
-    Not）**〉\[3\]。
+  - 2016年10月20日發行出道單曲《**어때요**》\[1\]。當天在首爾市麻浦區 Rolling Hall 舉辦了 showcase\[2\]。同日並以 [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") 音樂節目《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》為出道初登場舞台，演唱〈**어때요（Why Not）**〉\[3\]。
 
 <!-- end list -->
 
-  - 12月21日，美國最具權威的音樂雜誌《[告示牌雜誌（Billboard
-    Magazine）](https://zh.wikipedia.org/wiki/告示牌 "wikilink")》在其官方網站評選出「2016年度十大最佳
-    K-Pop 新人」第十為 BULLDOK，“〈Why Not〉 是融合了hip-hop
-    與電子節奏的魅力舞曲，最終成為2016年出道女團觀看次數最多的MV之一”。\[4\]
+  - 12月21日，美國最具權威的音樂雜誌《[告示牌雜誌（Billboard Magazine）](https://zh.wikipedia.org/wiki/告示牌 "wikilink")》在其官方網站評選出「2016年度十大最佳 K-Pop 新人」第十為 BULLDOK，“〈Why Not〉 是融合了hip-hop 與電子節奏的魅力舞曲，最終成為2016年出道女團觀看次數最多的MV之一”。\[4\]
 
 ### 2017年：亨恩、小拉退出
 
-  - 5月17日，經紀公司Kconic
-    entertainment發布新聞稿，指成員亨恩因健康問題退出組合，組合今後以小拉、GENIE、KIMI和SAY的四人形式繼續活動\[5\]。
+  - 5月17日，經紀公司Kconic entertainment發布新聞稿，指成員亨恩因健康問題退出組合，組合今後以小拉、GENIE、KIMI和SAY的四人形式繼續活動\[5\]。
 
 <!-- end list -->
 
@@ -41,8 +28,7 @@ Entertainment（經紀公司）的組合；[鬥牛犬是性情堅強勇敢](http
 
 ### 2019年：解散後動向
 
-  - 2019年，前BULLDOK成員小拉、SAY及亨恩與Yu
-    Rim組成新組合[Peace](../Page/Peace_\(女子團體\).md "wikilink")。
+  - 2019年，前BULLDOK成員小拉、SAY及亨恩與Yu Rim組成新組合[Peace](../Page/Peace_\(女子團體\).md "wikilink")。
 
 ## 成員資料
 
@@ -151,12 +137,7 @@ Entertainment（經紀公司）的組合；[鬥牛犬是性情堅強勇敢](http
 
 ## 外部連結
 
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink")
-[Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
+[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
 
 1.
 

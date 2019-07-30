@@ -1,4 +1,4 @@
-《**牙狼－紅蓮之月－**》（）是《[牙狼](../Page/牙狼〈GARO〉.md "wikilink")》系列的第二部動畫作品。於2015年8月公佈《牙狼》新系列動畫啟動\[1\]，並於2015年10月9日開始在[東京電視網等頻道播放](../Page/東京電視網.md "wikilink")。
+《**牙狼－紅蓮之月－**》（）是《[牙狼](../Page/牙狼〈GARO〉.md "wikilink")》系列的第二部動畫作品。於2015年8月公佈《牙狼》新系列動畫啟動\[1\]，並於2015年10月9日開始在[東京電視網](../Page/東京電視網.md "wikilink")等頻道播放。
 
 故事以日本[平安時代作為舞台](https://zh.wikipedia.org/wiki/平安時代 "wikilink")，此次黃金騎士所活躍的舞台是「平安之都」。
 
@@ -81,8 +81,7 @@
   -
 
       -
-        作詞：[奧井雅美](../Page/奧井雅美.md "wikilink")，作曲：[影山浩宣](../Page/影山浩宣.md "wikilink")，編曲：須藤賢一，主唱：[JAM
-        Project](../Page/JAM_Project.md "wikilink")（分別由以下成員獨唱）
+        作詞：[奧井雅美](../Page/奧井雅美.md "wikilink")，作曲：[影山浩宣](../Page/影山浩宣.md "wikilink")，編曲：須藤賢一，主唱：[JAM Project](../Page/JAM_Project.md "wikilink")（分別由以下成員獨唱）
           - [影山浩宣](../Page/影山浩宣.md "wikilink")（第1、2話）
           - [北谷洋](../Page/北谷洋.md "wikilink")（第3、4話）
           - [奧井雅美](../Page/奧井雅美.md "wikilink")（第5、6話）
@@ -95,8 +94,7 @@
   -
 
       -
-        作詞：[奧井雅美](../Page/奧井雅美.md "wikilink")，作曲：[影山浩宣](../Page/影山浩宣.md "wikilink")，編曲：鈴木マサキ、寺田志保，主唱：[JAM
-        Project](../Page/JAM_Project.md "wikilink")
+        作詞：[奧井雅美](../Page/奧井雅美.md "wikilink")，作曲：[影山浩宣](../Page/影山浩宣.md "wikilink")，編曲：鈴木マサキ、寺田志保，主唱：[JAM Project](../Page/JAM_Project.md "wikilink")
 
 <!-- end list -->
 
@@ -107,8 +105,7 @@
   -
 
       -
-        作詞：[佐咲紗花](../Page/佐咲紗花.md "wikilink")，作曲：[奧井雅美](../Page/奧井雅美.md "wikilink")，編曲：鈴木マサキ，主唱：[佐咲紗花](../Page/佐咲紗花.md "wikilink")
-        with 三狐神囃子（鵜殿麻、佐藤依莉子）
+        作詞：[佐咲紗花](../Page/佐咲紗花.md "wikilink")，作曲：[奧井雅美](../Page/奧井雅美.md "wikilink")，編曲：鈴木マサキ，主唱：[佐咲紗花](../Page/佐咲紗花.md "wikilink") with 三狐神囃子（鵜殿麻、佐藤依莉子）
 
 :;「」（第15－24話）
 
@@ -437,10 +434,7 @@ Lee Min Bae</p></td>
   - [電視動畫「牙狼－紅蓮之月－」東京電視台節目網頁](http://www.tv-tokyo.co.jp/anime/garo-gurennotsuki/)
 
   -
-[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink")
-[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink") [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 2.

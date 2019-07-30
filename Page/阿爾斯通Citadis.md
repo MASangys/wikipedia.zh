@@ -5,15 +5,13 @@
 Citadis系列提供略低及[特低地台電車](https://zh.wikipedia.org/wiki/特低地台電車 "wikilink")，及3、5或7廂列車的選擇：
 
   - Citadis X-00
-      - Citadis 100 –
-        3個車廂，70%低地台，於[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")[霍茹夫生產](../Page/霍茹夫.md "wikilink")
+      - Citadis 100 – 3個車廂，70%低地台，於[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")[霍茹夫](../Page/霍茹夫.md "wikilink")生產
 
 <!-- end list -->
 
   - Citadis X-01
       - Citadis 301 – 3個車廂，70%低地台
-          - Citadis 301 CIS –
-            3個車廂，100%低地台，帶有IPOMOS轉向架，轉向架適合[俄羅斯使用](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")，軌距為1524mm
+          - Citadis 301 CIS – 3個車廂，100%低地台，帶有IPOMOS轉向架，轉向架適合[俄羅斯使用](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")，軌距為1524mm
       - Citadis 401 – 5個車廂，70%低地台
 
 <!-- end list -->
@@ -27,13 +25,12 @@ Citadis系列提供略低及[特低地台電車](https://zh.wikipedia.org/wiki/�
 <!-- end list -->
 
   - Citadis X-03
-      - Citadis 403，7個車廂，100%低地台，改良[轉向架設計](../Page/轉向架.md "wikilink")
+      - Citadis 403，7個車廂，100%低地台，改良[轉向架](../Page/轉向架.md "wikilink")設計
 
 <!-- end list -->
 
   - Citadis X-04
-      - Citadis
-        304，3個車廂，100%低地台，於[土耳其](../Page/土耳其.md "wikilink")[伊斯坦堡生產](../Page/伊斯坦堡.md "wikilink")
+      - Citadis 304，3個車廂，100%低地台，於[土耳其](../Page/土耳其.md "wikilink")[伊斯坦堡](../Page/伊斯坦堡.md "wikilink")生產
 
 <!-- end list -->
 
@@ -905,19 +902,13 @@ Citadis系列提供略低及[特低地台電車](https://zh.wikipedia.org/wiki/�
 8.
 9.
 
-10. [Fiche
-    technique 402](http://perso.wanadoo.fr/florent.brisou/Fiche%20Bordeaux402.htm)
-
+10. [Fiche technique 402](http://perso.wanadoo.fr/florent.brisou/Fiche%20Bordeaux402.htm)
 
 11.
 
-12. [Fiche
-    technique 401](http://perso.wanadoo.fr/florent.brisou/Fiche%20Montpellier401.htm)
+12. [Fiche technique 401](http://perso.wanadoo.fr/florent.brisou/Fiche%20Montpellier401.htm)
 
-
-13. [Fiche technique
-    Orléans](http://perso.wanadoo.fr/florent.brisou/Fiche%20Orleans.htm)
-
+13. [Fiche technique Orléans](http://perso.wanadoo.fr/florent.brisou/Fiche%20Orleans.htm)
 
 14.
 
@@ -928,9 +919,7 @@ Citadis系列提供略低及[特低地台電車](https://zh.wikipedia.org/wiki/�
 
 18.
 
-19. [Fiche technique
-    Strasbourg](http://perso.wanadoo.fr/florent.brisou/Fiche%20Strasbourg.htm)
-
+19. [Fiche technique Strasbourg](http://perso.wanadoo.fr/florent.brisou/Fiche%20Strasbourg.htm)
 
 20.
 

@@ -45,15 +45,8 @@
       - **biography**
       - **feature**
       - **short**
-      - **article** (for any article which doesn't fit into one of the
-        other categories)
-  - **image:** Insert the name of the image you wish to insert. DO NOT
-    include the
-    [Image:](https://zh.wikipedia.org/wiki/Image: "wikilink") tag.
-  - **caption:** Insert the caption for the image. This text will be
-    displayed on mouse-over, so make sure the entire caption fits.
-  - **text:** Insert the text you wish to be displayed. This is usually
-    the lead of an article.
-  - **link:** Insert the name of the article you are adding. DO NOT
-    include the [](https://zh.wikipedia.org/wiki/ "wikilink")
-    tag.</noinclude>
+      - **article** (for any article which doesn't fit into one of the other categories)
+  - **image:** Insert the name of the image you wish to insert. DO NOT include the [Image:](https://zh.wikipedia.org/wiki/Image: "wikilink") tag.
+  - **caption:** Insert the caption for the image. This text will be displayed on mouse-over, so make sure the entire caption fits.
+  - **text:** Insert the text you wish to be displayed. This is usually the lead of an article.
+  - **link:** Insert the name of the article you are adding. DO NOT include the [](https://zh.wikipedia.org/wiki/ "wikilink") tag.</noinclude>

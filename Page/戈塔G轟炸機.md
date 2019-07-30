@@ -29,9 +29,7 @@
 
 ## 發展簡史和設計特點
 
-[GothaGII.jpg](https://zh.wikipedia.org/wiki/File:GothaGII.jpg "fig:GothaGII.jpg")
-[Gotha_Bomber_Internal_Arrangement.JPG](https://zh.wikipedia.org/wiki/File:Gotha_Bomber_Internal_Arrangement.JPG "fig:Gotha_Bomber_Internal_Arrangement.JPG")
-[Gotha_replica_at_RAF_Manston_History_Museum_1.jpg](https://zh.wikipedia.org/wiki/File:Gotha_replica_at_RAF_Manston_History_Museum_1.jpg "fig:Gotha_replica_at_RAF_Manston_History_Museum_1.jpg")
+[GothaGII.jpg](https://zh.wikipedia.org/wiki/File:GothaGII.jpg "fig:GothaGII.jpg") [Gotha_Bomber_Internal_Arrangement.JPG](https://zh.wikipedia.org/wiki/File:Gotha_Bomber_Internal_Arrangement.JPG "fig:Gotha_Bomber_Internal_Arrangement.JPG") [Gotha_replica_at_RAF_Manston_History_Museum_1.jpg](https://zh.wikipedia.org/wiki/File:Gotha_replica_at_RAF_Manston_History_Museum_1.jpg "fig:Gotha_replica_at_RAF_Manston_History_Museum_1.jpg")
 
 戈塔G轟炸機原本由業餘的飛機設計師奧斯卡·厄西納斯(他的正職是一本名為《飛行運動雜誌》的社長)設計的，這是一架設計怪異的飛機尤其它的機身是和上機翼相連，但此機卻被德國軍方看中作為對地攻擊機，此機原名是「FU」但由於後來被戈塔公司買了專利權而改名為「戈塔G-I轟炸機」並生產了6架用於東線，後來戈塔公司的飛機設計師漢斯·布克哈德對其重新設計成為「戈塔G-II轟炸機」。
 
@@ -41,8 +39,7 @@
 
 ## 實戰
 
-[Gotha_G_IV_Flug.jpg](https://zh.wikipedia.org/wiki/File:Gotha_G_IV_Flug.jpg "fig:Gotha_G_IV_Flug.jpg")
-[Gotha_G.jpg](https://zh.wikipedia.org/wiki/File:Gotha_G.jpg "fig:Gotha_G.jpg")
+[Gotha_G_IV_Flug.jpg](https://zh.wikipedia.org/wiki/File:Gotha_G_IV_Flug.jpg "fig:Gotha_G_IV_Flug.jpg") [Gotha_G.jpg](https://zh.wikipedia.org/wiki/File:Gotha_G.jpg "fig:Gotha_G.jpg")
 
 1916年秋天(日期不詳)一架戈塔G-III轟炸機在東線羅馬尼亞炸毀了一條橫越多瑙河的鐵橋而阻止了羅馬尼亞軍的調度。
 
@@ -88,6 +85,4 @@
 
   - [伦敦上空的第一群鹰](http://www.afwing.com/combat/eagle_over_london/eagle_over_london-1.htm)
 
-[Category:雙翼機](https://zh.wikipedia.org/wiki/Category:雙翼機 "wikilink")
-[Category:德國轟炸機](https://zh.wikipedia.org/wiki/Category:德國轟炸機 "wikilink")
-[Category:第一次世界大戰飛機](https://zh.wikipedia.org/wiki/Category:第一次世界大戰飛機 "wikilink")
+[Category:雙翼機](https://zh.wikipedia.org/wiki/Category:雙翼機 "wikilink") [Category:德國轟炸機](https://zh.wikipedia.org/wiki/Category:德國轟炸機 "wikilink") [Category:第一次世界大戰飛機](https://zh.wikipedia.org/wiki/Category:第一次世界大戰飛機 "wikilink")

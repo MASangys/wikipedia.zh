@@ -122,5 +122,4 @@
 
   - [TVBS-G播映過的無綫劇集列表](../Page/TVBS-G播映過的無綫劇集列表.md "wikilink")
 
-[Category:TVBS電視劇](https://zh.wikipedia.org/wiki/Category:TVBS電視劇 "wikilink")
-[Category:台灣電視劇列表](https://zh.wikipedia.org/wiki/Category:台灣電視劇列表 "wikilink")
+[Category:TVBS電視劇](https://zh.wikipedia.org/wiki/Category:TVBS電視劇 "wikilink") [Category:台灣電視劇列表](https://zh.wikipedia.org/wiki/Category:台灣電視劇列表 "wikilink")

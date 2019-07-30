@@ -361,8 +361,7 @@
 </tbody>
 </table>
 
-**什么是[超线程](https://zh.wikipedia.org/wiki/超线程 "wikilink")：**超线程是使单个CPU核心模拟成两个“核心”而非线程的技术。Intel
-Core i3、i7等目前提供超线程技术。
+**什么是[超线程](https://zh.wikipedia.org/wiki/超线程 "wikilink")：**超线程是使单个CPU核心模拟成两个“核心”而非线程的技术。Intel Core i3、i7等目前提供超线程技术。
 
 ## 参见
 
@@ -378,20 +377,16 @@ Core i3、i7等目前提供超线程技术。
       -
       -
       -
-      - [Intel Pentium
-        4處理器列表](../Page/Intel_Pentium_4處理器列表.md "wikilink")
+      - [Intel Pentium 4處理器列表](../Page/Intel_Pentium_4處理器列表.md "wikilink")
 
-      - [Intel Pentium
-        Dual-Core處理器列表](https://zh.wikipedia.org/wiki/Intel_Pentium_Dual-Core處理器列表 "wikilink")
+      - [Intel Pentium Dual-Core處理器列表](https://zh.wikipedia.org/wiki/Intel_Pentium_Dual-Core處理器列表 "wikilink")
 
-      - [Intel Pentium
-        D處理器列表](../Page/Intel_Pentium_D處理器列表.md "wikilink")
+      - [Intel Pentium D處理器列表](../Page/Intel_Pentium_D處理器列表.md "wikilink")
 
       -
       - [Intel Xeon處理器列表](../Page/Intel_Xeon處理器列表.md "wikilink")
 
-      - [Intel
-        Core處理器列表](https://zh.wikipedia.org/wiki/Intel_Core處理器列表 "wikilink")
+      - [Intel Core處理器列表](https://zh.wikipedia.org/wiki/Intel_Core處理器列表 "wikilink")
 
       - [Intel Core 2處理器列表](../Page/Intel_Core_2處理器列表.md "wikilink")
 
@@ -414,9 +409,6 @@ Core i3、i7等目前提供超线程技术。
 
 ## 外部链接
 
-  - [Intel- Intel Source for Specification of Intel
-    Processor](https://web.archive.org/web/20090827002703/http://processorfinder.intel.com/Default.aspx?notFound=ordCode)
+  - [Intel- Intel Source for Specification of Intel Processor](https://web.archive.org/web/20090827002703/http://processorfinder.intel.com/Default.aspx?notFound=ordCode)
 
-[Category:计算机比较](https://zh.wikipedia.org/wiki/Category:计算机比较 "wikilink")
-[Category:Intel处理器](https://zh.wikipedia.org/wiki/Category:Intel处理器 "wikilink")
-[Category:微處理器列表](https://zh.wikipedia.org/wiki/Category:微處理器列表 "wikilink")
+[Category:计算机比较](https://zh.wikipedia.org/wiki/Category:计算机比较 "wikilink") [Category:Intel处理器](https://zh.wikipedia.org/wiki/Category:Intel处理器 "wikilink") [Category:微處理器列表](https://zh.wikipedia.org/wiki/Category:微處理器列表 "wikilink")

@@ -1,5 +1,4 @@
-《**Bonjour♪
-恋味点心学园**》是一部在制作点心的学校中，以主人公和学校讲师们的爱情故事为线索的女性向动画。该动画共24集，于2014年10月11日首播。
+《**Bonjour♪ 恋味点心学园**》是一部在制作点心的学校中，以主人公和学校讲师们的爱情故事为线索的女性向动画。该动画共24集，于2014年10月11日首播。
 
 ## 故事简介
 
@@ -54,8 +53,7 @@
 
 ## 动画音乐
 
-  - 片头歌《Bonjour♪Magic》 歌：Les\*Fleurirs \[皋月
-    辽（CV：石川界人）、葵井三斗希（CV：柿原彻也）、花房吉尔贝尔（CV：木村良平）、凉芳之助（CV：绿川光）\]
+  - 片头歌《Bonjour♪Magic》 歌：Les\*Fleurirs \[皋月 辽（CV：石川界人）、葵井三斗希（CV：柿原彻也）、花房吉尔贝尔（CV：木村良平）、凉芳之助（CV：绿川光）\]
   - 片尾歌1《优しさを包み込んで》 歌：皋月辽（CV：石川界人）、葵井三斗希（CV：柿原彻也）
   - 片尾歌2《どちなにするの？》 歌：花房吉尔贝尔（CV：木村良平）、凉芳之助（CV：绿川光）
 
@@ -69,8 +67,7 @@
 
 【初回生产特典】
 
-1)游戏「Bonjour♪
-恋味点心学园」特别语音SS礼物串行码(【出演】皐月辽:石川界人、葵井三斗希:柿原彻也、花房吉尔贝尔:木村良平、凉芳乃助:绿川光)
+1)游戏「Bonjour♪ 恋味点心学园」特别语音SS礼物串行码(【出演】皐月辽:石川界人、葵井三斗希:柿原彻也、花房吉尔贝尔:木村良平、凉芳乃助:绿川光)
 
 2)2015年7月4日举办预定活动门票优先贩卖申请券
 
@@ -100,12 +97,7 @@
 
 ## 参考资料
 
-[Category:2014年日本網絡動畫](https://zh.wikipedia.org/wiki/Category:2014年日本網絡動畫 "wikilink")
-[Category:動畫短片](https://zh.wikipedia.org/wiki/Category:動畫短片 "wikilink")
-[Category:戀愛動畫](https://zh.wikipedia.org/wiki/Category:戀愛動畫 "wikilink")
-[Category:糖果甜點題材作品](https://zh.wikipedia.org/wiki/Category:糖果甜點題材作品 "wikilink")
-[Category:料理學校背景作品](https://zh.wikipedia.org/wiki/Category:料理學校背景作品 "wikilink")
-[Category:SILVER_LINK.](https://zh.wikipedia.org/wiki/Category:SILVER_LINK. "wikilink")
+[Category:2014年日本網絡動畫](https://zh.wikipedia.org/wiki/Category:2014年日本網絡動畫 "wikilink") [Category:動畫短片](https://zh.wikipedia.org/wiki/Category:動畫短片 "wikilink") [Category:戀愛動畫](https://zh.wikipedia.org/wiki/Category:戀愛動畫 "wikilink") [Category:糖果甜點題材作品](https://zh.wikipedia.org/wiki/Category:糖果甜點題材作品 "wikilink") [Category:料理學校背景作品](https://zh.wikipedia.org/wiki/Category:料理學校背景作品 "wikilink") [Category:SILVER_LINK.](https://zh.wikipedia.org/wiki/Category:SILVER_LINK. "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
-《**杏的magomago圖書之國**》（），又譯《小杏的圖書之國》，是[日本](../Page/日本.md "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[樋口橘所創作的](../Page/樋口橘.md "wikilink")[少女漫画](../Page/少女漫画.md "wikilink")，自2014年18號開始於[白泉社雜誌](../Page/白泉社.md "wikilink")《[花與夢](../Page/花與夢.md "wikilink")》上連載，至2015年12月日文版單行本已發行3冊。
+《**杏的magomago圖書之國**》（），又譯《小杏的圖書之國》，是[日本](../Page/日本.md "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[樋口橘](../Page/樋口橘.md "wikilink")所創作的[少女漫画](../Page/少女漫画.md "wikilink")，自2014年18號開始於[白泉社](../Page/白泉社.md "wikilink")雜誌《[花與夢](../Page/花與夢.md "wikilink")》上連載，至2015年12月日文版單行本已發行3冊。
 
 ## 故事簡介
 
@@ -59,8 +59,7 @@
 
   -
     高中二年級，所屬金組。擁有髮量太多的小煩惱。為杏音的青梅竹馬，雖然本身十分不情願。討厭杏音，似乎對嵐抱持特殊的情感。
-    進入「圖書之國」的願望為「拯救老師的性命」以及「讓杏遭到天譴」。被分配到自身不喜歡的故事，依照書本封面的書名（La dame aux
-    camélias）判斷故事為「[茶花女](../Page/茶花女.md "wikilink")」\[2\]。
+    進入「圖書之國」的願望為「拯救老師的性命」以及「讓杏遭到天譴」。被分配到自身不喜歡的故事，依照書本封面的書名（La dame aux camélias）判斷故事為「[茶花女](../Page/茶花女.md "wikilink")」\[2\]。
   -
     高中二年級同組班導師，與米澤一同潛入MAGO學園極密調查MAGO公園的失蹤事件。
     向杏音等人表示十幾年前就已經推測MAGO教為失蹤事件的黑幕，卻因為有一些原因連警察都不能對MAGO教出手。
@@ -170,10 +169,7 @@
 
 <references/>
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink")
-[Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink")
-[Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink") [Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink")
 
 1.  單行本1第5話 ISBN 978-4-592-21521-9
 2.  單行本2第9話 ISBN 978-4-592-21522-6

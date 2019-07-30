@@ -1,4 +1,4 @@
-**IR石川鐵道線**（）是一條連結[石川縣](../Page/石川縣.md "wikilink")[金澤市的](../Page/金澤市.md "wikilink")[金澤站與](https://zh.wikipedia.org/wiki/金澤站 "wikilink")[石川縣](../Page/石川縣.md "wikilink")[河北郡](https://zh.wikipedia.org/wiki/河北郡 "wikilink")[津幡町的](https://zh.wikipedia.org/wiki/津幡町 "wikilink")[俱利伽羅站](../Page/俱利伽羅站.md "wikilink")，屬於[IR石川鐵道的鐵道路線](../Page/IR石川鐵道.md "wikilink")。起初是[北陸本線的一部分](../Page/北陸本線.md "wikilink")，2015年3月14日[北陸新幹線](../Page/北陸新幹線.md "wikilink")[長野站](https://zh.wikipedia.org/wiki/長野站 "wikilink")－[金澤站間開業之際自](https://zh.wikipedia.org/wiki/金澤站 "wikilink")[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）經營分離路段的一部分。
+**IR石川鐵道線**（）是一條連結[石川縣](../Page/石川縣.md "wikilink")[金澤市](../Page/金澤市.md "wikilink")的[金澤站與](https://zh.wikipedia.org/wiki/金澤站 "wikilink")[石川縣](../Page/石川縣.md "wikilink")[河北郡](https://zh.wikipedia.org/wiki/河北郡 "wikilink")[津幡町的](https://zh.wikipedia.org/wiki/津幡町 "wikilink")[俱利伽羅站](../Page/俱利伽羅站.md "wikilink")，屬於[IR石川鐵道](../Page/IR石川鐵道.md "wikilink")的鐵道路線。起初是[北陸本線](../Page/北陸本線.md "wikilink")的一部分，2015年3月14日[北陸新幹線](../Page/北陸新幹線.md "wikilink")[長野站](https://zh.wikipedia.org/wiki/長野站 "wikilink")－[金澤站間開業之際自](https://zh.wikipedia.org/wiki/金澤站 "wikilink")[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）經營分離路段的一部分。
 
 ## 路線資料
 
@@ -24,13 +24,11 @@
 
   - 1898年：
 
-:\*
-4月1日：[北陸線](../Page/北陸本線.md "wikilink")[小松](https://zh.wikipedia.org/wiki/小松站 "wikilink")～[金澤間伸延開業](https://zh.wikipedia.org/wiki/金澤站 "wikilink")。
+:\* 4月1日：[北陸線](../Page/北陸本線.md "wikilink")[小松](../Page/小松站.md "wikilink")～[金澤間伸延開業](https://zh.wikipedia.org/wiki/金澤站 "wikilink")。
 
-:\*
-11月1日：北陸線金澤～[高岡間延伸開業](https://zh.wikipedia.org/wiki/高岡站 "wikilink")。[津幡站啟用](../Page/津幡站.md "wikilink")。
+:\* 11月1日：北陸線金澤～[高岡間延伸開業](https://zh.wikipedia.org/wiki/高岡站 "wikilink")。[津幡站](../Page/津幡站.md "wikilink")啟用。
 
-  - 1902年11月1日：北陸線改以[公里表示](../Page/公里.md "wikilink")。
+  - 1902年11月1日：北陸線改以[公里](../Page/公里.md "wikilink")表示。
   - 1908年2月16日：津幡～[石動間開設](../Page/石動站.md "wikilink")[俱利伽羅信號所](../Page/俱利伽羅站.md "wikilink")。
   - 1909年
 
@@ -38,14 +36,14 @@
 
 :\* 10月12日：路線改稱為「北陸本線」。
 
-  - 1911年11月1日：[森本站開業](../Page/森本站.md "wikilink")。
+  - 1911年11月1日：[森本站](../Page/森本站.md "wikilink")開業。
   - 1925年8月1日：金澤～森本間開設小坂信號場、森本～津幡間開設花園信號場。
-  - 1930年4月1日：距離修正，伸延部份改以[公里表示](../Page/公里.md "wikilink")。
+  - 1930年4月1日：距離修正，伸延部份改以[公里](../Page/公里.md "wikilink")表示。
   - 1933年8月1日：小坂信號場昇格，改稱為[東金澤站](../Page/東金澤站.md "wikilink")。
   - 1938年10月1日：金澤～津幡間複線化。花園信號場廢止。
   - 1962年9月25日：津幡～俱利伽羅間複線化。
-  - 1964年8月24日：金澤～富山操車場間[交流電化](../Page/交流電.md "wikilink")。
-  - 1987年4月1日：[國鐵分割民營化](../Page/國鐵分割民營化.md "wikilink")，北陸本線全線改由[西日本旅客鐵道承繼](../Page/西日本旅客鐵道.md "wikilink")；[日本貨物鐵道為](https://zh.wikipedia.org/wiki/日本貨物鐵道 "wikilink")[第二種鐵道事業者](https://zh.wikipedia.org/wiki/第二種鐵道事業者 "wikilink")。
+  - 1964年8月24日：金澤～富山操車場間[交流電](../Page/交流電.md "wikilink")化。
+  - 1987年4月1日：[國鐵分割民營化](../Page/國鐵分割民營化.md "wikilink")，北陸本線全線改由[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")承繼；[日本貨物鐵道為](https://zh.wikipedia.org/wiki/日本貨物鐵道 "wikilink")[第二種鐵道事業者](https://zh.wikipedia.org/wiki/第二種鐵道事業者 "wikilink")。
   - 1990年6月5日：金澤站高架化。
   - 2000年2月8日：[近江鹽津](https://zh.wikipedia.org/wiki/近江鹽津站 "wikilink")～直江津間採用[中央控制行車](https://zh.wikipedia.org/wiki/中央控制行車 "wikilink")(CTC)\[1\]。
   - 2002年：
@@ -57,13 +55,11 @@
   - 2003年6月12日：[JR貨物金澤站改稱為](https://zh.wikipedia.org/wiki/JR貨物 "wikilink")[金澤貨物總站](https://zh.wikipedia.org/wiki/金澤貨物總站 "wikilink")。
   - 2011年：
 
-:\*
-1月31日：北陸地方受大規模大雪影響，為進行除雪作業工作，[長濱](https://zh.wikipedia.org/wiki/長濱站 "wikilink")～直江津間列車全日停駛。是自民營化以來，首次全線停駛\[3\]。
+:\* 1月31日：北陸地方受大規模大雪影響，為進行除雪作業工作，[長濱](https://zh.wikipedia.org/wiki/長濱站 "wikilink")～直江津間列車全日停駛。是自民營化以來，首次全線停駛\[3\]。
 
-:\* 4月2日 -
-4月7日：受[東日本大震災影響](../Page/東日本大震災.md "wikilink")，位於[福島縣內的車輛零件工場受災](https://zh.wikipedia.org/wiki/福島縣 "wikilink")，由未能確保有足夠備件使用，線內部份普通列車班次及編組被縮減\[4\]\[5\]。
+:\* 4月2日 - 4月7日：受[東日本大震災](../Page/東日本大震災.md "wikilink")影響，位於[福島縣內的車輛零件工場受災](https://zh.wikipedia.org/wiki/福島縣 "wikilink")，由未能確保有足夠備件使用，線內部份普通列車班次及編組被縮減\[4\]\[5\]。
 
-  - 2013年12月12日：因應[北陸新幹線開業](../Page/北陸新幹線.md "wikilink")，JR西日本提出在來線並行區間金澤～直江津間廢止申請\[6\]。
+  - 2013年12月12日：因應[北陸新幹線](../Page/北陸新幹線.md "wikilink")開業，JR西日本提出在來線並行區間金澤～直江津間廢止申請\[6\]。
   - 2014年10月18日：金澤～富山間部份普通列車在日間時段改以[單人駕駛操作](https://zh.wikipedia.org/wiki/單人駕駛 "wikilink")\[7\]。
   - 2015年3月14日：北陸新幹線開業，金澤～俱利伽羅站移交由IR石川鐵道經營，路線名稱改稱為「**IR石川鐵道線**」。
 
@@ -75,7 +71,7 @@
       - 愛之風Liner…●的車站停靠，｜的車站通過
       - 特急「[雷鳥](../Page/雷鳥號列車.md "wikilink")」、「[能登篝火](https://zh.wikipedia.org/wiki/能登篝火號列車 "wikilink")」、「」…參見列車條目
   - 軌道 … 全線複線
-  - 所有車站都位於[石川縣內](../Page/石川縣.md "wikilink")
+  - 所有車站都位於[石川縣](../Page/石川縣.md "wikilink")內
 
 <table>
 <thead>
@@ -174,20 +170,13 @@
 
   - [IR石川鐵道公式網頁](http://www.ishikawa-railway.jp/)
 
-[Category:石川縣鐵路](https://zh.wikipedia.org/wiki/Category:石川縣鐵路 "wikilink")
-[Category:IR石川鐵道](https://zh.wikipedia.org/wiki/Category:IR石川鐵道 "wikilink")
-[Category:2015年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:2015年啟用的鐵路線 "wikilink")
+[Category:石川縣鐵路](https://zh.wikipedia.org/wiki/Category:石川縣鐵路 "wikilink") [Category:IR石川鐵道](https://zh.wikipedia.org/wiki/Category:IR石川鐵道 "wikilink") [Category:2015年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:2015年啟用的鐵路線 "wikilink")
 
 1.  『JR気動車客車編成表』'00年版 ジェー・アール・アール 1998年 ISBN 4-88283-121-X
 2.  『JR気動車客車編成表』'03年版 ジェー・アール・アール 2003年 ISBN 4-88283-124-4
-3.  [大雪、JR終日運休
-    北陸線・七尾線の全線](http://www.hokkoku.co.jp/subpage/H20110201101.htm)
-     - [北國新聞](https://zh.wikipedia.org/wiki/北國新聞 "wikilink") 2011年2月1日
+3.  [大雪、JR終日運休 北陸線・七尾線の全線](http://www.hokkoku.co.jp/subpage/H20110201101.htm)  - [北國新聞](https://zh.wikipedia.org/wiki/北國新聞 "wikilink") 2011年2月1日
 4.   - 西日本旅客鉄道金沢支社プレスリリース 2011年3月25日
-5.  [車両保守部品の不足に伴う列車運転計画の見直しについて](http://www.westjr.co.jp/news/newslist/article/1175270_799.html)
-     - 西日本旅客鉄道プレスリリース 2011年4月6日
-6.  [北陸線（金沢〜直江津駅間）の廃止届出書の提出について](http://www.westjr.co.jp/press/article/2013/12/page_4931.html)
-    - 西日本旅客鉄道プレスリリース 2013年12月12日
-7.  \[<http://www.westjr.co.jp/press/article/2014/08/page_6102.html>　平成26年秋ダイヤ修正について（北陸エリア）\]
-    - 西日本旅客鉄道プレスリリース 2014年8月29日
+5.  [車両保守部品の不足に伴う列車運転計画の見直しについて](http://www.westjr.co.jp/news/newslist/article/1175270_799.html)  - 西日本旅客鉄道プレスリリース 2011年4月6日
+6.  [北陸線（金沢〜直江津駅間）の廃止届出書の提出について](http://www.westjr.co.jp/press/article/2013/12/page_4931.html) - 西日本旅客鉄道プレスリリース 2013年12月12日
+7.  \[<http://www.westjr.co.jp/press/article/2014/08/page_6102.html>　平成26年秋ダイヤ修正について（北陸エリア）\] - 西日本旅客鉄道プレスリリース 2014年8月29日
 8.  七尾線的路線起點是津幡站，運行系統上所有列車直通至金澤站

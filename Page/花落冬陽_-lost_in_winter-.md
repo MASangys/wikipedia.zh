@@ -1,23 +1,20 @@
-《**花落冬陽 -lost in winter-**》（英語版名：**Snowdreams - lost in winter
--**，簡稱**花落冬陽**）是由台灣團隊[+觀象草圖+原創獨立製作的](https://zh.wikipedia.org/wiki/+觀象草圖+ "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")（AVG）\[1\]。在2015年末發表製作消息\[2\]，並於2016年1月底公開體驗版\[3\]\[4\]，同年7月16日官方推出遊戲的前導漫畫。故事以[台北東區為背景](https://zh.wikipedia.org/wiki/台北東區 "wikilink")\[5\]，遊戲中許多地點、背景甚至是物品\[6\]都是實際存在的（少數參考原型已經消失）。但因為是獨立製作，成員皆為利用下班後空閒時間動工，因此尚未有正式版的明確時程。不過目前除了正體中文版外，還預定有簡體中文和英文版，以及登錄[Steam的企劃](../Page/Steam.md "wikilink")。\[7\]
+《**花落冬陽 -lost in winter-**》（英語版名：**Snowdreams - lost in winter -**，簡稱**花落冬陽**）是由台灣團隊[+觀象草圖+原創獨立製作的](https://zh.wikipedia.org/wiki/+觀象草圖+ "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")（AVG）\[1\]。在2015年末發表製作消息\[2\]，並於2016年1月底公開體驗版\[3\]\[4\]，同年7月16日官方推出遊戲的前導漫畫。故事以[台北東區為背景](https://zh.wikipedia.org/wiki/台北東區 "wikilink")\[5\]，遊戲中許多地點、背景甚至是物品\[6\]都是實際存在的（少數參考原型已經消失）。但因為是獨立製作，成員皆為利用下班後空閒時間動工，因此尚未有正式版的明確時程。不過目前除了正體中文版外，還預定有簡體中文和英文版，以及登錄[Steam](../Page/Steam.md "wikilink")的企劃。\[7\]
 
 ## 歷程概要
 
-  - 2015年8月7日：《花落冬陽》的STAFF開發BLOG成立並成立[Facebook粉絲專頁](../Page/Facebook.md "wikilink")\[8\]
+  - 2015年8月7日：《花落冬陽》的STAFF開發BLOG成立並成立[Facebook](../Page/Facebook.md "wikilink")粉絲專頁\[8\]
   - 2015年12月11日：公布《花落冬陽》2015聖誕節特別活動：遊戲先行版搶先體驗！\[9\]
   - 2015年12月20日：預告體驗版釋出時間為2016年1月\[10\]
   - 2015年12月31日：釋出故事簡介和短PV\[11\]
   - 2016年1月22日：於STAFF開發BLOG宣布《花落冬陽》的體驗版將於1/30發佈\[12\]
-  - 2016年1月28日：台灣團隊「+ 觀象草圖
-    +」首次參加[台北國際電玩展](../Page/台北國際電玩展.md "wikilink")，並展出自製的戀愛遊戲《花落冬陽》\[13\]
+  - 2016年1月28日：台灣團隊「+ 觀象草圖 +」首次參加[台北國際電玩展](../Page/台北國際電玩展.md "wikilink")，並展出自製的戀愛遊戲《花落冬陽》\[13\]
   - 2016年1月30日：正式公開體驗版（網路下載）\[14\]
-  - 2016年4月2日：宣布夏芊帆（小芊）[黏土人企劃](../Page/黏土人.md "wikilink")\[15\]\[16\]和官方漫畫的消息\[17\]
+  - 2016年4月2日：宣布夏芊帆（小芊）[黏土人](../Page/黏土人.md "wikilink")企劃\[15\]\[16\]和官方漫畫的消息\[17\]
   - 2016年10月21日：宣布有特別篇小遊戲，並公布部分開發畫面\[18\]
   - 2016年12月16日：宣布將於12/22開放《花落冬陽》2016聖誕特別篇遊戲下載\[19\]
-  - 2016年12月22日：開放《花落冬陽》的番外篇遊戲——《花落冬陽 - 2016 聖誕特別篇
-    -》下載\[20\]，並且舉辦人氣投票活動\[21\]
+  - 2016年12月22日：開放《花落冬陽》的番外篇遊戲——《花落冬陽 - 2016 聖誕特別篇 -》下載\[20\]，並且舉辦人氣投票活動\[21\]
   - 2016年12月30日：宣布「英文／簡中體驗版」以及「登錄STEAM綠光」兩項重大企劃\[22\]
-  - 2017年1月25日：《花落冬陽》在[Steam平台上綠光](../Page/Steam.md "wikilink")（Greenlight）通過\[23\]
+  - 2017年1月25日：《花落冬陽》在[Steam](../Page/Steam.md "wikilink")平台上綠光（Greenlight）通過\[23\]
 
 ## 內容簡介
 
@@ -70,7 +67,7 @@
   - 謝子璇
     年齡：17；興趣：溜狗、看電視；特技：馴服動物、[跆拳道](../Page/跆拳道.md "wikilink")
     子臣的妹妹，兩人從小一起長大。個子嬌小，性格活潑外向、獨立自主。喜歡看各式各樣的鄉土劇、綜藝節目和影集。運動神經很好，對跆拳道和一些基本防身術有所心得。雖然每次見到哥哥會和他拌嘴個幾句，但總擔心著在外獨居的哥哥，希望他早點回家。
-    在子臣離家後接手了照顧寵物[柴犬Nono的任務](../Page/柴犬.md "wikilink")。
+    在子臣離家後接手了照顧寵物[柴犬](../Page/柴犬.md "wikilink")Nono的任務。
   - 莫雲
     年齡：58；興趣：旅行、開發風味飲料；特技：據說身懷108種特技
     冬陽時光咖啡廳的店長。泡的一手好咖啡與好茶，年輕時似乎累積了許多歷練，身懷多種技術。若客人有意願的話，他很樂意交流各種經驗（曾多次向子臣遊說），經營這家咖啡廳可說是為了實踐自身的「感性」。
@@ -90,13 +87,9 @@
 
 ## 遊戲
 
-《花落冬陽 -lost in
-winter-》\[28\]於2015年由[+觀象草圖+原創並開始製作](https://zh.wikipedia.org/wiki/+觀象草圖+ "wikilink")，工具採用The
-NVL
-Maker製作\[29\]。2016年1月公布體驗版（佔正式版約四分之一\[30\]，劇本字數約五萬餘字，正常遊玩速度花費約兩個小時\[31\]\[32\]，而且暫時沒有配音只有語音SE\[33\]）。目前正式版尚未有確定的公開時程。
+《花落冬陽 -lost in winter-》\[28\]於2015年由[+觀象草圖+原創並開始製作](https://zh.wikipedia.org/wiki/+觀象草圖+ "wikilink")，工具採用The NVL Maker製作\[29\]。2016年1月公布體驗版（佔正式版約四分之一\[30\]，劇本字數約五萬餘字，正常遊玩速度花費約兩個小時\[31\]\[32\]，而且暫時沒有配音只有語音SE\[33\]）。目前正式版尚未有確定的公開時程。
 
-2016年12月22日開放《花落冬陽》的番外篇遊戲——《花落冬陽 - 2016 聖誕特別篇 -》免費下載\[34\]，遊戲時間約遊戲時間約
-60～90 分鐘。還舉辦人氣投票活動，票選第一名的會製作小周邊。\[35\]
+2016年12月22日開放《花落冬陽》的番外篇遊戲——《花落冬陽 - 2016 聖誕特別篇 -》免費下載\[34\]，遊戲時間約遊戲時間約 60～90 分鐘。還舉辦人氣投票活動，票選第一名的會製作小周邊。\[35\]
 
 ## 衍伸作品
 
@@ -115,14 +108,7 @@ Maker製作\[29\]。2016年1月公布體驗版（佔正式版約四分之一\[30
   - 《[花落冬陽](https://www.facebook.com/wintersun2015)》的Facebook專頁
   - 《[花落冬陽](https://winter-sun2015.blogspot.tw/)》的STAFF開發BLOG
 
-[Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink")
-[Category:原生中文遊戲](https://zh.wikipedia.org/wiki/Category:原生中文遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:台灣背景作品](https://zh.wikipedia.org/wiki/Category:台灣背景作品 "wikilink")
-[Category:台北市背景作品](https://zh.wikipedia.org/wiki/Category:台北市背景作品 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink")
-[Category:冬天題材作品](https://zh.wikipedia.org/wiki/Category:冬天題材作品 "wikilink")
+[Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink") [Category:原生中文遊戲](https://zh.wikipedia.org/wiki/Category:原生中文遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:台灣背景作品](https://zh.wikipedia.org/wiki/Category:台灣背景作品 "wikilink") [Category:台北市背景作品](https://zh.wikipedia.org/wiki/Category:台北市背景作品 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink") [Category:冬天題材作品](https://zh.wikipedia.org/wiki/Category:冬天題材作品 "wikilink")
 
 1.
 

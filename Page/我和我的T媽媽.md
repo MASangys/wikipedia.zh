@@ -1,9 +1,8 @@
-《**我和我的T媽媽**》（），是[黃惠偵的紀錄短片](../Page/黃惠偵.md "wikilink")，並榮獲2016年[南方影展的評審團獎和人權關懷獎](../Page/南方影展.md "wikilink")，以及第39屆[金穗獎首獎](../Page/金穗獎.md "wikilink")。\[1\]\[2\]\[3\]
+《**我和我的T媽媽**》（），是[黃惠偵](../Page/黃惠偵.md "wikilink")的紀錄短片，並榮獲2016年[南方影展](../Page/南方影展.md "wikilink")的評審團獎和人權關懷獎，以及第39屆[金穗獎](../Page/金穗獎.md "wikilink")首獎。\[1\]\[2\]\[3\]
 
 ## 書籍
 
-2017年10月1日[黃惠偵出版同名散文](../Page/黃惠偵.md "wikilink")《我和我的T媽媽》。該書獲得[侯孝賢](../Page/侯孝賢.md "wikilink")、[陳芳明](../Page/陳芳明.md "wikilink")、[唐綺陽](https://zh.wikipedia.org/wiki/唐綺陽 "wikilink")、[聶永真](../Page/聶永真.md "wikilink")、[洪仲清](../Page/洪仲清.md "wikilink")、[郝譽翔](../Page/郝譽翔.md "wikilink")、[陳雪](../Page/陳雪.md "wikilink")、[紀大偉](../Page/紀大偉.md "wikilink")、[李屏瑤](https://zh.wikipedia.org/wiki/李屏瑤 "wikilink")、Orange
-Fruit等人聯合推薦，並隨書附贈紀錄片《我和我的T媽媽》DVD。
+2017年10月1日[黃惠偵](../Page/黃惠偵.md "wikilink")出版同名散文《我和我的T媽媽》。該書獲得[侯孝賢](../Page/侯孝賢.md "wikilink")、[陳芳明](../Page/陳芳明.md "wikilink")、[唐綺陽](https://zh.wikipedia.org/wiki/唐綺陽 "wikilink")、[聶永真](../Page/聶永真.md "wikilink")、[洪仲清](../Page/洪仲清.md "wikilink")、[郝譽翔](../Page/郝譽翔.md "wikilink")、[陳雪](../Page/陳雪.md "wikilink")、[紀大偉](../Page/紀大偉.md "wikilink")、[李屏瑤](https://zh.wikipedia.org/wiki/李屏瑤 "wikilink")、Orange Fruit等人聯合推薦，並隨書附贈紀錄片《我和我的T媽媽》DVD。
 
 ## 奬項
 
@@ -63,13 +62,7 @@ Fruit等人聯合推薦，並隨書附贈紀錄片《我和我的T媽媽》DVD�
   - {{@movies|ftcn73968276}}
 
   -
-[Category:台灣紀錄片](https://zh.wikipedia.org/wiki/Category:台灣紀錄片 "wikilink")
-[Category:2016年电影](https://zh.wikipedia.org/wiki/Category:2016年电影 "wikilink")
-[Category:黃惠偵電影](https://zh.wikipedia.org/wiki/Category:黃惠偵電影 "wikilink")
-[Category:南方獎得主](https://zh.wikipedia.org/wiki/Category:南方獎得主 "wikilink")
-[Category:LGBT相關紀錄片](https://zh.wikipedia.org/wiki/Category:LGBT相關紀錄片 "wikilink")
-[Category:台灣LGBT相關電影](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電影 "wikilink")
-[Category:臺灣散文作品](https://zh.wikipedia.org/wiki/Category:臺灣散文作品 "wikilink")
+[Category:台灣紀錄片](https://zh.wikipedia.org/wiki/Category:台灣紀錄片 "wikilink") [Category:2016年电影](https://zh.wikipedia.org/wiki/Category:2016年电影 "wikilink") [Category:黃惠偵電影](https://zh.wikipedia.org/wiki/Category:黃惠偵電影 "wikilink") [Category:南方獎得主](https://zh.wikipedia.org/wiki/Category:南方獎得主 "wikilink") [Category:LGBT相關紀錄片](https://zh.wikipedia.org/wiki/Category:LGBT相關紀錄片 "wikilink") [Category:台灣LGBT相關電影](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電影 "wikilink") [Category:臺灣散文作品](https://zh.wikipedia.org/wiki/Category:臺灣散文作品 "wikilink")
 
 1.
 2.

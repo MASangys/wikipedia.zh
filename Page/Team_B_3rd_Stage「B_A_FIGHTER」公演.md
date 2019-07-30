@@ -1,14 +1,8 @@
-*' Team B 3rd Stage「B A
-FIGHTER」公演*'是[BEJ48的剧场公演](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")，此套公演同時也是BEJ48
-Team B的首套原創公演\[1\]。
+*' Team B 3rd Stage「B A FIGHTER」公演*'是[BEJ48的剧场公演](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")，此套公演同時也是BEJ48 Team B的首套原創公演\[1\]。
 
 ## 概要
 
-《B A FIGHTER》是[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")
-Team B的首套原創公演。是为Team
-B成员量身打造，加入了具有地域特色的[中国风元素](../Page/中国风.md "wikilink")
-，更有成员参与作词，以多元视角还原Team B成员的舞台魅力，全新的试听效果打造如临其境的紧张感，同时的Team B三期生成员也将登台亮相
-\[2\]。
+《B A FIGHTER》是[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink") Team B的首套原創公演。是为Team B成员量身打造，加入了具有地域特色的[中国风](../Page/中国风.md "wikilink")元素 ，更有成员参与作词，以多元视角还原Team B成员的舞台魅力，全新的试听效果打造如临其境的紧张感，同时的Team B三期生成员也将登台亮相 \[2\]。
 
 ## 公演曲目
 
@@ -82,9 +76,7 @@ B成员量身打造，加入了具有地域特色的[中国风元素](../Page/�
 
 ## 轶事
 
-2017年12月29日，BEJ48運營公司宣布由於突發的不可抗因素，原定於12月29日進行的B隊原創公演首演將延期舉辦，首演具體時間將另行通知\[3\]。Team
-B成員熊素君於2018年1月1日的直播中透露公演曲目未過審核，被[北京市文化局駁回](../Page/北京市.md "wikilink")，所以公演首演將延期演出。2018年1月11日，BEJ48運營公司宣布歌单经细微调整后，《B
-A FIGHTER》將于2018年1月19日举行首演\[4\]。
+2017年12月29日，BEJ48運營公司宣布由於突發的不可抗因素，原定於12月29日進行的B隊原創公演首演將延期舉辦，首演具體時間將另行通知\[3\]。Team B成員熊素君於2018年1月1日的直播中透露公演曲目未過審核，被[北京市](../Page/北京市.md "wikilink")文化局駁回，所以公演首演將延期演出。2018年1月11日，BEJ48運營公司宣布歌单经细微调整后，《B A FIGHTER》將于2018年1月19日举行首演\[4\]。
 
 ## 參考資料
 
@@ -94,8 +86,7 @@ A FIGHTER》將于2018年1月19日举行首演\[4\]。
 
 [Category:SNH48_Group剧场公演](https://zh.wikipedia.org/wiki/Category:SNH48_Group剧场公演 "wikilink")
 
-1.  [《B A
-    FIGHTER》官网专题页上线](https://weibo.com/5676293287/FzhYppxnJ?type=comment#_rnd1515204179429)
+1.  [《B A FIGHTER》官网专题页上线](https://weibo.com/5676293287/FzhYppxnJ?type=comment#_rnd1515204179429)
 2.  [BEJ48官方網站的介紹](http://www.bej48.com/event/b00123/index.html)
 3.  [关于B队原创公演延期的公告](http://www.bej48.com/news/show-752.html)
 4.

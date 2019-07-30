@@ -1,13 +1,6 @@
-**MIL-STD-1553**是[美国国防部发布的一个军用](../Page/美国国防部.md "wikilink")[标准](../Page/标准化.md "wikilink")，定义了[机械](../Page/机器.md "wikilink")、[电气和](../Page/電.md "wikilink")[串行](../Page/串行通信.md "wikilink")[数据总线的功能特征](../Page/总线.md "wikilink")。它最初是设计來作为军用[航空电子的航空数据总线](../Page/航空电子.md "wikilink")，但现在已普遍用于军用和民用航天器的（OBDH）子系统
-。它具有多个（通常为双重）的物理层、一个差分、[时分多路复用](https://zh.wikipedia.org/wiki/时分多路复用 "wikilink")、半双工命令/响应协议，并可处理多达30个远程终端（设备）。使用[光缆代替](https://zh.wikipedia.org/wiki/光缆 "wikilink")[电缆的MIL](https://zh.wikipedia.org/wiki/电缆 "wikilink")-STD-1553版本称为**MIL-STD-1773**。
+**MIL-STD-1553**是[美国国防部](../Page/美国国防部.md "wikilink")发布的一个军用[标准](../Page/标准化.md "wikilink")，定义了[机械](../Page/机器.md "wikilink")、[电气和](../Page/電.md "wikilink")[串行](../Page/串行通信.md "wikilink")[数据总线的功能特征](../Page/总线.md "wikilink")。它最初是设计來作为军用[航空电子](../Page/航空电子.md "wikilink")的航空数据总线，但现在已普遍用于军用和民用航天器的（OBDH）子系统 。它具有多个（通常为双重）的物理层、一个差分、[时分多路复用](https://zh.wikipedia.org/wiki/时分多路复用 "wikilink")、半双工命令/响应协议，并可处理多达30个远程终端（设备）。使用[光缆代替](https://zh.wikipedia.org/wiki/光缆 "wikilink")[电缆的MIL](https://zh.wikipedia.org/wiki/电缆 "wikilink")-STD-1553版本称为**MIL-STD-1773**。
 
-MIL-STD-1553最早在1973年作为一项[美国空军标准发布](../Page/美国空军.md "wikilink")，并首次用于[F-16戰隼戰鬥機战斗机](../Page/F-16戰隼戰鬥機.md "wikilink")。其他飞机的设计也迅速跟进，包括[F/A-18黃蜂式戰鬥攻擊機](https://zh.wikipedia.org/wiki/F/A-18黃蜂式戰鬥攻擊機 "wikilink")、[AH-64阿帕契直升機](../Page/AH-64阿帕契直升機.md "wikilink")、[P-3獵戶座海上巡邏機](../Page/P-3獵戶座海上巡邏機.md "wikilink")、[F-15鷹式戰鬥機以及](../Page/F-15鷹式戰鬥機.md "wikilink")[F-20虎鲨战斗机](../Page/F-20虎鲨战斗机.md "wikilink")。它现在在[美军所有](../Page/美军.md "wikilink")[軍種广泛使用](https://zh.wikipedia.org/wiki/軍種 "wikilink")，[北大西洋公约组织](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")（NATO）亦已將之作為[STANAG](../Page/标准化协议.md "wikilink")
-3838 AVS采用。STANAG 3838在英国为UK MoD Def-Stan 00-18 Part
-2\[1\]，使用于[龍捲風戰鬥轟炸機](../Page/龍捲風戰鬥轟炸機.md "wikilink")、[鹰式教练机](../Page/鹰式教练机.md "wikilink")（Mk
-100及之后），以及广泛配合
--“EFABus”，用于[颱風戰鬥機](../Page/颱風戰鬥機.md "wikilink")。\[2\][JAS
-39獅鷲戰鬥機使用MIL](../Page/JAS_39獅鷲戰鬥機.md "wikilink")-STD-1553B。\[3\]俄罗斯制造的[米格-35戰鬥機也使用MIL](../Page/米格-35戰鬥機.md "wikilink")-STD-1553。\[4\]印度的[烈火系列飛彈据称也使用了该总线系统](../Page/烈火系列飛彈.md "wikilink")\[5\]\[6\]\[7\]，并还有不少军事装备应用该总线作为电子通信接口\[8\]\[9\]\[10\]\[11\]。MIL-STD-1553正在由一些更新的美国技术取代，如[IEEE
-1394](../Page/IEEE_1394.md "wikilink")。\[12\]
+MIL-STD-1553最早在1973年作为一项[美国空军](../Page/美国空军.md "wikilink")标准发布，并首次用于[F-16戰隼戰鬥機](../Page/F-16戰隼戰鬥機.md "wikilink")战斗机。其他飞机的设计也迅速跟进，包括[F/A-18黃蜂式戰鬥攻擊機](https://zh.wikipedia.org/wiki/F/A-18黃蜂式戰鬥攻擊機 "wikilink")、[AH-64阿帕契直升機](../Page/AH-64阿帕契直升機.md "wikilink")、[P-3獵戶座海上巡邏機](../Page/P-3獵戶座海上巡邏機.md "wikilink")、[F-15鷹式戰鬥機](../Page/F-15鷹式戰鬥機.md "wikilink")以及[F-20虎鲨战斗机](../Page/F-20虎鲨战斗机.md "wikilink")。它现在在[美军](../Page/美军.md "wikilink")所有[軍種广泛使用](https://zh.wikipedia.org/wiki/軍種 "wikilink")，[北大西洋公约组织](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")（NATO）亦已將之作為[STANAG](../Page/标准化协议.md "wikilink") 3838 AVS采用。STANAG 3838在英国为UK MoD Def-Stan 00-18 Part 2\[1\]，使用于[龍捲風戰鬥轟炸機](../Page/龍捲風戰鬥轟炸機.md "wikilink")、[鹰式教练机](../Page/鹰式教练机.md "wikilink")（Mk 100及之后），以及广泛配合 -“EFABus”，用于[颱風戰鬥機](../Page/颱風戰鬥機.md "wikilink")。\[2\][JAS 39獅鷲戰鬥機使用MIL](../Page/JAS_39獅鷲戰鬥機.md "wikilink")-STD-1553B。\[3\]俄罗斯制造的[米格-35戰鬥機](../Page/米格-35戰鬥機.md "wikilink")也使用MIL-STD-1553。\[4\]印度的[烈火系列飛彈](../Page/烈火系列飛彈.md "wikilink")据称也使用了该总线系统\[5\]\[6\]\[7\]，并还有不少军事装备应用该总线作为电子通信接口\[8\]\[9\]\[10\]\[11\]。MIL-STD-1553正在由一些更新的美国技术取代，如[IEEE 1394](../Page/IEEE_1394.md "wikilink")。\[12\]
 
 ## 修订
 
@@ -15,18 +8,17 @@ MIL-STD-1553B发布于1978年，取代了早先1975年发布的MIL-STD-1553A规�
 
 自1978年以来，已经对该标准发布了六项变更通知。\[13\]例如，1986年的第二号变更通知将文档标题“飞机内部时分命令/响应多路复用数据总线”改为“数字时分命令/响应多路复用数据总线”。
 
-MIL-STD-1553标准目前由[美国国防部和](../Page/美国国防部.md "wikilink")航天部门维护。
+MIL-STD-1553标准目前由[美国国防部](../Page/美国国防部.md "wikilink")和航天部门维护。
 
 ## 物理层
 
-单个总线由在1MHz时具有70-85Ω阻抗的线对组成。在使用圆形连接器的情况下，其中心引脚用于高（正）[曼彻斯特双相信号](../Page/曼彻斯特编码.md "wikilink")。发射器和接收器经由隔离变压器[耦合到总线](../Page/耦合_\(电子学\).md "wikilink")，并使用一对隔离电阻器和可选地耦合变压器分支出[短截线连接](../Page/短截线.md "wikilink")。这减少了[短路的影响](../Page/短路.md "wikilink")，并确保总线不通过飞机传导电流。[曼彻斯特编码用于在同一线对上呈现](../Page/曼彻斯特编码.md "wikilink")[时钟和数据](https://zh.wikipedia.org/wiki/时钟 "wikilink")，并消除信号中的任何（其不能通过变压器）。[比特率为](../Page/比特率.md "wikilink")1.0[兆比特每秒](../Page/码率单位.md "wikilink")（每[微秒](https://zh.wikipedia.org/wiki/微秒 "wikilink")1位元）。比特率的组合精度和长期稳定性仅规定在±0.1％之内；短期时钟稳定度必须在±0.01％以内。发射器的峰值输出电压为18-27V。
+单个总线由在1MHz时具有70-85Ω阻抗的线对组成。在使用圆形连接器的情况下，其中心引脚用于高（正）[曼彻斯特双相信号](../Page/曼彻斯特编码.md "wikilink")。发射器和接收器经由隔离变压器[耦合到总线](../Page/耦合_\(电子学\).md "wikilink")，并使用一对隔离电阻器和可选地耦合变压器分支出[短截线](../Page/短截线.md "wikilink")连接。这减少了[短路](../Page/短路.md "wikilink")的影响，并确保总线不通过飞机传导电流。[曼彻斯特编码](../Page/曼彻斯特编码.md "wikilink")用于在同一线对上呈现[时钟和数据](https://zh.wikipedia.org/wiki/时钟 "wikilink")，并消除信号中的任何（其不能通过变压器）。[比特率](../Page/比特率.md "wikilink")为1.0[兆比特每秒](../Page/码率单位.md "wikilink")（每[微秒](https://zh.wikipedia.org/wiki/微秒 "wikilink")1位元）。比特率的组合精度和长期稳定性仅规定在±0.1％之内；短期时钟稳定度必须在±0.01％以内。发射器的峰值输出电压为18-27V。
 
-通过使用几个独立的线对，总线可以成为，然后所有设备连接到所有总线。在当前主控制器发生故障的情况下，指定新的总线控制计算机。通常，辅助飞行控制计算机通过主数据总线监视主计算机和飞行器传感器。使用[光纤的不同版本总线重量较轻](../Page/光導纖維.md "wikilink")，并具有更好的电磁干扰抗性，包括[电磁脉冲](../Page/电磁脉冲.md "wikilink")（EMP）。这也称为MIL-STD-1773。“AS
-1773”实现具有1Mbit/s与20Mbit/s的双速率。\[14\]
+通过使用几个独立的线对，总线可以成为，然后所有设备连接到所有总线。在当前主控制器发生故障的情况下，指定新的总线控制计算机。通常，辅助飞行控制计算机通过主数据总线监视主计算机和飞行器传感器。使用[光纤的不同版本总线重量较轻](../Page/光導纖維.md "wikilink")，并具有更好的电磁干扰抗性，包括[电磁脉冲](../Page/电磁脉冲.md "wikilink")（EMP）。这也称为MIL-STD-1773。“AS 1773”实现具有1Mbit/s与20Mbit/s的双速率。\[14\]
 
 ## 总线协议
 
-一个MIL-STD-1553多路数据总线系统由控制多个远程终端（RT）的总线控制器（BC）组成，它们通过数据总线连接在一起，在总线控制器与所有相关的远程终端之间提供单个数据路径。这也可以有一个或多个总线监视器（BM）；但是，总线监视器尤为不允许参与数据传输，仅用于捕获和记录数据用于分析等。在冗余总线实现中，使用若干数据总线来提供多于一个数据路径，即为双冗余数据总线、三冗余数据总线等。到数据总线的所有传输都可以藉由总线控制器和所有连接的远程终端取得。消息是由一个或多个16位字（命令、数据或状态）组成。包含每个字的16位元使用[曼彻斯特编码发送](../Page/曼彻斯特编码.md "wikilink")，其中每个位元传输为0.5微秒高与0.5微秒低表示一个逻辑**1**，而低-高序列表示一个逻辑**0**。每个字前面有一个3微秒同步脉冲（数据字为1.5微秒低+1.5微秒高，对于命令和状态字则相反，不能在曼彻斯特码中出现）及尾随的[奇偶校验位](../Page/奇偶校验位.md "wikilink")。实际上每个字可以視同一个20位元字：3位元用于同步，16位元用于[有效负载](https://zh.wikipedia.org/wiki/有效负载 "wikilink")，1位元用于奇偶校验控制。消息内的字连续传输，并且消息之间必须至少有4微秒的间隙。不过，这种消息间间隙可以并且通常远大于4微秒，甚至一些旧的总线控制器将达到1[毫秒](https://zh.wikipedia.org/wiki/毫秒 "wikilink")。设备必须在4-12[微秒内开始将其响应发送到一个有效命令](https://zh.wikipedia.org/wiki/微秒 "wikilink")，并且如果在14微秒内没有开始响应，则认为没有接收到命令或消息。
+一个MIL-STD-1553多路数据总线系统由控制多个远程终端（RT）的总线控制器（BC）组成，它们通过数据总线连接在一起，在总线控制器与所有相关的远程终端之间提供单个数据路径。这也可以有一个或多个总线监视器（BM）；但是，总线监视器尤为不允许参与数据传输，仅用于捕获和记录数据用于分析等。在冗余总线实现中，使用若干数据总线来提供多于一个数据路径，即为双冗余数据总线、三冗余数据总线等。到数据总线的所有传输都可以藉由总线控制器和所有连接的远程终端取得。消息是由一个或多个16位字（命令、数据或状态）组成。包含每个字的16位元使用[曼彻斯特编码](../Page/曼彻斯特编码.md "wikilink")发送，其中每个位元传输为0.5微秒高与0.5微秒低表示一个逻辑**1**，而低-高序列表示一个逻辑**0**。每个字前面有一个3微秒同步脉冲（数据字为1.5微秒低+1.5微秒高，对于命令和状态字则相反，不能在曼彻斯特码中出现）及尾随的[奇偶校验位](../Page/奇偶校验位.md "wikilink")。实际上每个字可以視同一个20位元字：3位元用于同步，16位元用于[有效负载](https://zh.wikipedia.org/wiki/有效负载 "wikilink")，1位元用于奇偶校验控制。消息内的字连续传输，并且消息之间必须至少有4微秒的间隙。不过，这种消息间间隙可以并且通常远大于4微秒，甚至一些旧的总线控制器将达到1[毫秒](https://zh.wikipedia.org/wiki/毫秒 "wikilink")。设备必须在4-12[微秒内开始将其响应发送到一个有效命令](https://zh.wikipedia.org/wiki/微秒 "wikilink")，并且如果在14微秒内没有开始响应，则认为没有接收到命令或消息。
 
 总线上的所有通信都在总线控制器的控制下，包括从总线控制器到远程终端的接收与发送命令。用于将数据从总线控制器传输到终端的字序列（符号形式为<originator>`.<word_type(destination)>`，类似[交談循序程式的符号](https://zh.wikipedia.org/wiki/交談循序程式 "wikilink")）为：
 
@@ -36,9 +28,7 @@ MIL-STD-1553标准目前由[美国国防部和](../Page/美国国防部.md "wiki
 而终端到终端的通信为：
 
   -
-    主动方.命令(终端_1) → 终端_1.状态(主动方) → 主动方.命令(终端_2) → 终端_2.状态(主动方) →
-    主动方.命令(终端_1) → 终端_1.数据(终端_2) → 主动方.命令(终端_2) →
-    终端_2.状态(主动方)
+    主动方.命令(终端_1) → 终端_1.状态(主动方) → 主动方.命令(终端_2) → 终端_2.状态(主动方) → 主动方.命令(终端_1) → 终端_1.数据(终端_2) → 主动方.命令(终端_2) → 终端_2.状态(主动方)
 
 这意味着在传输期间，所有通信由总线控制器启动，并且终端设备不能自己开始数据传输。在远程终端到远程终端传输的情况下，序列如下：在远程终端接口（例如RT1）后面的子系统中的应用或功能将要发送的数据写入特定（发送）子地址（数据缓冲器）中。该数据写入子地址的时间不一定与事务的时间相关联，尽管接口确保不发送部分更新的数据。总线控制器命令作为数据目的地的远程终端（例如RT2）在指定（接收）数据子地址接收数据，然后命令RT1从命令中指定的发送子地址发送。RT1发送状态字，指示其当前状态和数据。总线控制器接收RT1的状态字，并且看到发送命令已经接收，并且操作無誤。RT2接收共享数据总线上的数据，并将其写入指定的接收子地址，并发送其状态字。接收RT接口后面的子系统上的应用或功能然后可以访问数据。同样，该读取的时间不一定与传送的时间相关。总线控制器接收RT2的状态字，并且看到接收命令和数据已经無誤接收和操作。
 
@@ -48,8 +38,7 @@ MIL-STD-1553标准目前由[美国国防部和](../Page/美国国防部.md "wiki
 
 然而，该标准没有规定任何特定传输的特定时间——这取决于系统设计师。通常（大多数军用飞机上的做法），总线控制器具有覆盖大多数传送的传送调度，通常组织成主帧或主周期，再细分为小周期。在这种调度结构中，在每个小周期（速率组1）中发生的传送以最高速率（通常为50Hz）发生，在每隔一个小周期发生的传送中，其中有两个组（速率组2.1和2.2）以下一个最高速率发生，例如25Hz。类似地，有四组（3.1、3.2、3.3和3.4）则例如12.5Hz等。因此，在使用该调度结构的情况下，传输全部在谐波相关的频率上，例如50、25、12.5、6.25、3.125及1.5625Hz（对于在50Hz下包括32个次循环的主帧）。虽然远程终端不能直接自己开始传送，但该标准包括远程终端需要传送、而未經总线控制器自动调度时的方法。这些传送通常称为非循环传送，因为它们在循环执行程序使用的结构之外。在此序列中，远程终端通过状态字中的一个位（“服务请求”位）请求传送。通常来说，这使总线控制器发送“传送向量字模式代码”命令。然而，当远程终端仅具有一个可能的非循环传输时，总线控制器可以跳过该部分。向量字由远程终端作为单个16位数据字发送。此向量字的格式未在标准中定义，因此系统设计人员必须指定什么值、来自什么远程终端、意味着总线控制器将采取什么操作。这可以是立即或在当前次循环结束时安排非循环传送。这意味着总线控制器必须轮询连接到数据总线的所有远程终端，通常在主要周期中至少轮询一次。具有较高优先级功能的远程终端（例如，操作飞行器控制表面的远程终端）轮询地更為频繁。低优先级功能的轮询频率较低。
 
-在总线控制器与特定远程终端之间，或者在总线控制器与一对远程终端之间，允许六种类型的事务：
-[缩略图](https://zh.wikipedia.org/wiki/File:Information_transfer_formats.JPG "fig:缩略图")
+在总线控制器与特定远程终端之间，或者在总线控制器与一对远程终端之间，允许六种类型的事务： [缩略图](https://zh.wikipedia.org/wiki/File:Information_transfer_formats.JPG "fig:缩略图")
 
 1.  **控制器到远程终端传输。**总线控制器发送一个16位接收命令字，紧随1到32个16位数据字。然后，所选的远程终端发送一个16位状态字。
 2.  **远程终端到控制器传输。**总线控制器向远程终端发送一个发送命令字。远程终端然后发送一个状态字，紧随1到32个字。
@@ -60,8 +49,7 @@ MIL-STD-1553标准目前由[美国国防部和](../Page/美国国防部.md "wiki
 
 MIL-STD-1553B还引入了可选的广播传输的概念，其中数据會发送到实现该选项的所有远程终端，但是没有远程终端响应，因为这将导致总线上的冲突。这可以用在将相同的数据发送到多个远程终端的地方，以减少事务的数量，从而减少数据总线上的负载。然而，接收这些广播的远程终端缺乏显式响应意味着，在事务有错误的情况下不能自动地重新尝试这些传输。
 
-在总线控制器和所有有能力的远程终端之间允许四种类型的广播事务：
-[缩略图](https://zh.wikipedia.org/wiki/File:Broadcast_information_transfer_formats.JPG "fig:缩略图")
+在总线控制器和所有有能力的远程终端之间允许四种类型的广播事务： [缩略图](https://zh.wikipedia.org/wiki/File:Broadcast_information_transfer_formats.JPG "fig:缩略图")
 
 1.  **控制器到远程终端传输。**总线控制器发送一个接收命令字，终端地址为31，表示广播类型命令，后面紧随0到32个数据字。所有实现广播的远程终端将接受数据，但不会有远程终端响应。
 2.  **远程终端到远程终端传输。**总线控制器发出一个接收命令字，终端地址为31，表示广播类型命令，紧随一个发送命令。发送远程终端发送一个状态字，紧随1到32个数据字。所有实现广播的远程终端将接受该数据，但不会有远程终端响应。
@@ -90,13 +78,11 @@ MIL-STD-1553B还引入了可选的广播传输的概念，其中数据會发送�
 
 同样如上所述，设备必须在4-12[微秒内开始将其响应发送到有效命令](https://zh.wikipedia.org/wiki/微秒 "wikilink")。在如下示例中，响应时间为8.97微秒，因此在规格范围内。这意味着远程终端3在总线控制器查询的8.97微秒后响应。查询的振幅比响应的振幅低，是因为信号探测位置更靠近远程终端。
 
-在状态字中，前5位元是正在响应的远程终端的地址，在这种情况下为0x3。正确的传输在命令字中显示与状态字中相同的远程终端地址。
-[居中](https://zh.wikipedia.org/wiki/File:RTtoBC2.png "fig:居中")
+在状态字中，前5位元是正在响应的远程终端的地址，在这种情况下为0x3。正确的传输在命令字中显示与状态字中相同的远程终端地址。 [居中](https://zh.wikipedia.org/wiki/File:RTtoBC2.png "fig:居中")
 
 ## 概念描述
 
-[缩略图](https://zh.wikipedia.org/wiki/File:MS1553B-Large-v2.png "fig:缩略图")
-图1显示了一个样例MIL-STD-1553B系统，包括：
+[缩略图](https://zh.wikipedia.org/wiki/File:MS1553B-Large-v2.png "fig:缩略图") 图1显示了一个样例MIL-STD-1553B系统，包括：
 
   - 冗余MIL-STD-1553B总线
   - 一个总线控制器
@@ -125,8 +111,7 @@ MIL-STD-1553B还引入了可选的广播传输的概念，其中数据會发送�
 
 ### 总线监控器
 
-总线监控器（Bus
-Monitor，BM）不能通过数据总线传递信息。它的主要作用是监视和记录总线事务，而不会干扰总线控制器或RT的操作。然后可以存储这些记录下來的总线事务，用于以后的离线分析。
+总线监控器（Bus Monitor，BM）不能通过数据总线传递信息。它的主要作用是监视和记录总线事务，而不会干扰总线控制器或RT的操作。然后可以存储这些记录下來的总线事务，用于以后的离线分析。
 
 理想情况下，总线监控器捕获并记录通过1553数据总线发送的所有消息。然而，记录繁忙数据总线上的所有事务可能是不切实际的，因此总线监控器经常會配置为事务紀錄子集，根基于应用程序提供的一些标准。
 
@@ -143,13 +128,9 @@ Monitor，BM）不能通过数据总线传递信息。它的主要作用是监�
 
 **远程终端测试计划：**
 
-**远程终端验证测试计划**（**RT Validation Test Plan**）是用于远程终端设计的设计验证，以满足AS
-15531和MIL-STD-1553B（含通知2）的要求。这个测试计划最初定义在MIL-HDBK-1553附录A。它在MIL-HDBK-1553A第100章中更新。该测试计划现在由SAE
-AS-1A航空电子网络小组委员会维护为AS4111。
+**远程终端验证测试计划**（**RT Validation Test Plan**）是用于远程终端设计的设计验证，以满足AS 15531和MIL-STD-1553B（含通知2）的要求。这个测试计划最初定义在MIL-HDBK-1553附录A。它在MIL-HDBK-1553A第100章中更新。该测试计划现在由SAE AS-1A航空电子网络小组委员会维护为AS4111。
 
-**远程终端生产测试计划**（**RT Production Test
-Plan**）是验证测试计划的简化子集，用于远程终端的生产测试。该测试计划由SAE
-AS-1A航空网络小组委员会维护为AS4112。
+**远程终端生产测试计划**（**RT Production Test Plan**）是验证测试计划的简化子集，用于远程终端的生产测试。该测试计划由SAE AS-1A航空网络小组委员会维护为AS4112。
 
 ## 总线硬件特征
 
@@ -159,22 +140,17 @@ AS-1A航空网络小组委员会维护为AS4112。
 
 尽管MIL-STD-1553B规定数据总线应具有70至85欧姆之间的特性阻抗，但业界标准化为78欧姆。同样，业界已普遍标准化的特性阻抗为78欧姆。
 
-MIL-STD-1553B没有指定总线的长度。但是，总线的最大长度直接与电缆导体的规格和发送信号的时间延迟有关。较小的导体比较大的导体更易衰减信号。1553B电缆的典型传播延迟为每英尺1.6纳秒。因而，端到端
-将具有160纳秒的传播延迟，其等于1553B信号的平均上升时间。根据MIL-HDBK-1553A，当信号的传播延迟时间大于上升或下降时间的50%时，需要考虑传输线效应。该延迟时间与传播的距离成比例。此外，必须考虑发射机和接收机之间的实际距离以及发射机和接收机的各个波形特性。
+MIL-STD-1553B没有指定总线的长度。但是，总线的最大长度直接与电缆导体的规格和发送信号的时间延迟有关。较小的导体比较大的导体更易衰减信号。1553B电缆的典型传播延迟为每英尺1.6纳秒。因而，端到端 将具有160纳秒的传播延迟，其等于1553B信号的平均上升时间。根据MIL-HDBK-1553A，当信号的传播延迟时间大于上升或下降时间的50%时，需要考虑传输线效应。该延迟时间与传播的距离成比例。此外，必须考虑发射机和接收机之间的实际距离以及发射机和接收机的各个波形特性。
 
 MIL-STD-1553B指定对于变压器耦合的[短截线](../Page/短截线.md "wikilink")，最长的stub长度为，但可以超过。当没有连接短截线，主母线看起来像一条无限长的传输线，没有干扰的反射。短截线添加後，便會加載总线，并且与所产生的反射发生不匹配。由于反射引起的失配和信号失真的程度是由短截线和端子输入阻抗呈现的阻抗的函数。为使信号失真最小化，期望短截线保持高阻抗，该阻抗反射回总线。但与此同时，阻抗必须保持较低，方能將足够的信号功率传送到接收端。因此，为了达到指定的信噪比和系统误码率性能，需要在这些冲突要求之间进行权衡。（有关更多信息，参阅MIL-HDBK-1553A）。
 
 ### 短截线
 
-[缩略图](https://zh.wikipedia.org/wiki/File:1553b_fig_9_Data_bus_interface_using_transformer_coupling.JPG "fig:缩略图")
-每个终端、远程终端、总线控制器、总线监控器都是通过[短截线连接到总线](../Page/短截线.md "wikilink")，短截线由与该总线本身相同类型的一段电缆形成。MIL-STD-1553B定义了将这些短截线耦合到总线的两种方式：变压器耦合的短截线和直接耦合的短截线。变压器耦合的短截线对于它们的容错和更好地匹配总线阻抗以及随之而来的减少反射等是优选的。MIL-STD-1553B的附录（10.5节，Stubbing）说明“优选的短截线方法是使用变压器耦合短截线...这种方法提供了直流隔离，增加共模抑制，有效短截线加倍阻抗和整个短截线与终端的故障隔离好处。直接耦合的短截线...如果可能的话应该避免。直接耦合短截线不为其子系统外部的终端提供直流隔离或共模抑制。此外，子系统内部隔离电阻（通常在电路板上）和主总线结之间的任何短路故障将导致整个总线的故障。可以预期，当直接耦合短截线长度超过1.6英尺\[0.5米\]时，它将开始使主总线波形失真。”
+[缩略图](https://zh.wikipedia.org/wiki/File:1553b_fig_9_Data_bus_interface_using_transformer_coupling.JPG "fig:缩略图") 每个终端、远程终端、总线控制器、总线监控器都是通过[短截线](../Page/短截线.md "wikilink")连接到总线，短截线由与该总线本身相同类型的一段电缆形成。MIL-STD-1553B定义了将这些短截线耦合到总线的两种方式：变压器耦合的短截线和直接耦合的短截线。变压器耦合的短截线对于它们的容错和更好地匹配总线阻抗以及随之而来的减少反射等是优选的。MIL-STD-1553B的附录（10.5节，Stubbing）说明“优选的短截线方法是使用变压器耦合短截线...这种方法提供了直流隔离，增加共模抑制，有效短截线加倍阻抗和整个短截线与终端的故障隔离好处。直接耦合的短截线...如果可能的话应该避免。直接耦合短截线不为其子系统外部的终端提供直流隔离或共模抑制。此外，子系统内部隔离电阻（通常在电路板上）和主总线结之间的任何短路故障将导致整个总线的故障。可以预期，当直接耦合短截线长度超过1.6英尺\[0.5米\]时，它将开始使主总线波形失真。”
 
 使用变压器耦合的短截线还可以为1553终端提供更好的防雷击保护。在新的复合材料飞机中，隔离是更加关键的，其飞机外皮不再提供铝蒙皮飞机那样固有的[法拉第屏蔽](https://zh.wikipedia.org/wiki/法拉第笼 "wikilink")。\[15\]
 
-在变压器耦合的短截线中，短截线电缆的长度不应超过
-，但如果安装要求决定，这可能会超过。耦合变压器的匝数比必须为1：1.41±3.0%。电阻R都必须具有0.75Zo±2.0%的值，其中Zo是1MHz处总线的特性阻抗。
-[缩略图](https://zh.wikipedia.org/wiki/File:1553b_fig_10_Data_bus_interface_using_direct_coupling.JPG "fig:缩略图")
-在直接耦合短截线中，短截线电缆的长度不应超过1英尺，但如果安装要求，也可能超过这个长度。隔离电阻R必须具有55欧姆±2.0%的固定值。
+在变压器耦合的短截线中，短截线电缆的长度不应超过 ，但如果安装要求决定，这可能会超过。耦合变压器的匝数比必须为1：1.41±3.0%。电阻R都必须具有0.75Zo±2.0%的值，其中Zo是1MHz处总线的特性阻抗。 [缩略图](https://zh.wikipedia.org/wiki/File:1553b_fig_10_Data_bus_interface_using_direct_coupling.JPG "fig:缩略图") 在直接耦合短截线中，短截线电缆的长度不应超过1英尺，但如果安装要求，也可能超过这个长度。隔离电阻R必须具有55欧姆±2.0%的固定值。
 
 ### 总线耦合器
 
@@ -192,8 +168,7 @@ MIL-STD-1553B指定对于变压器耦合的[短截线](../Page/短截线.md "wik
 
 **DIGIBUS**（或**Digibus**）是法国与MIL-STD-1553等效的标准，它在总线控制器、远程终端、监控器、相同传输速度的概念上类似MIL-STD-1553，不同之处是DIGIBUS对数据与命令使用独立的链接。\[16\]
 
-**GJB289A**是中国与MIL-STD-1553等效的标准，**GOST R
-52070-2003**是俄罗斯/苏联与MIL-STD-1553等效的标准。\[17\]
+**GJB289A**是中国与MIL-STD-1553等效的标准，**GOST R 52070-2003**是俄罗斯/苏联与MIL-STD-1553等效的标准。\[17\]
 
 ## 开发工具
 
@@ -205,10 +180,9 @@ MIL-STD-1553B指定对于变压器耦合的[短截线](../Page/短截线.md "wik
   -
   - [飞行控制系统](../Page/飞行控制系统.md "wikilink")
 
-  - [电传操纵系统](https://zh.wikipedia.org/wiki/电传操纵系统 "wikilink")
+  - [电传操纵系统](../Page/电传操纵系统.md "wikilink")
 
-  - [航空电子全双工交换以太网](../Page/航空电子全双工交换式以太网.md "wikilink")（AFDX） -
-    一项更快的基于[以太网的技术](../Page/以太网.md "wikilink")
+  - [航空电子全双工交换以太网](../Page/航空电子全双工交换式以太网.md "wikilink")（AFDX） - 一项更快的基于[以太网](../Page/以太网.md "wikilink")的技术
 
   - \- 商业航空电子对手
 
@@ -216,68 +190,32 @@ MIL-STD-1553B指定对于变压器耦合的[短截线](../Page/短截线.md "wik
 
 ## 来源
 
-  - MIL-STD-1553B：[Digital Time Division Command/Response Multiplex Data
-    Bus](https://web.archive.org/web/20120205092101/http://assist.daps.dla.mil/quicksearch/basic_profile.cfm?ident_number=36973)
-    [美国国防部](../Page/美国国防部.md "wikilink")，1978年9月。
-  - SAE AS15531：[Digital Time Division Command/Response Multiplex Data
-    Bus](http://www.sae.org/technical/standards/AS15531)
-  - SAE AS15532：[Data Word and Message
-    Formats](http://www.sae.org/technical/standards/AS15532)
-  - SAE AS4111：[RT Validation Test
-    Plan](http://www.sae.org/technical/standards/AS4111)
-  - SAE AS4112：[RT Production Test
-    Plan](http://www.sae.org/technical/standards/AS4112)
+  - MIL-STD-1553B：[Digital Time Division Command/Response Multiplex Data Bus](https://web.archive.org/web/20120205092101/http://assist.daps.dla.mil/quicksearch/basic_profile.cfm?ident_number=36973) [美国国防部](../Page/美国国防部.md "wikilink")，1978年9月。
+  - SAE AS15531：[Digital Time Division Command/Response Multiplex Data Bus](http://www.sae.org/technical/standards/AS15531)
+  - SAE AS15532：[Data Word and Message Formats](http://www.sae.org/technical/standards/AS15532)
+  - SAE AS4111：[RT Validation Test Plan](http://www.sae.org/technical/standards/AS4111)
+  - SAE AS4112：[RT Production Test Plan](http://www.sae.org/technical/standards/AS4112)
 
 ## 参考资料
 
 ## 外部链接
 
-  - [MIL-STD-1553
-    Tutorial](http://aviftech.com/files/3313/5168/8298/1553_Tutorial.pdf)
-    from [Avionics Interface Technologies](http://www.aviftech.com/)
-    (registration required)
-  - [MIL-STD-1553 Tutorial
-    (video)](http://www.mil-1553.com/tutorials-1553) from Excalibur
-    Systems Inc.
-  - [MIL-STD-1553
-    Tutorial](http://defense.ge-ip.com/library/detail/11743?cid=wik1553)
-    by GE Intelligent Platforms (registration required)
-  - [MIL-STD-1553 Tutorial and
-    References](http://www.ballardtech.com/support.aspx/Tutorials/#mil-std-1553)
-    from Ballard Technology (includes MIL-STD-1553B & MIL-HDBK-1553A
-    Notice2)
-  - [MIL-STD-1553 Designer's
-    Guide](http://www.ddc-web.com/Documents/dguidehg.pdf) from Data
-    Device Corporation
-  - [MIL-STD-1553 Tutorial and
-    Reference](http://www.altadt.com/support/tutorials/mil-std-1553-tutorial-and-reference/)
-    from Alta Data Technologies
-  - [MIL-STD-1553 Tutorial](http://www.aim-online.com/pdf/OVW1553.PDF)
-    from AIM GmbH
-  - [INTRODUCTION TO THE MIL-STD-1553B SERIAL MULTIPLEX DATA
-    BUS](http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA202511) by D. R.
-    Bracknell,
-    [皇家航空研究院](https://zh.wikipedia.org/wiki/皇家航空研究院 "wikilink"),
-    Farnbourogh, 1988.
-  - [Introduction to MIL-STD-1553 Short
-    Course](http://www.pe.gatech.edu/courses/introduction-mil-std-1553)
-    from Georgia Tech Professional Education
-  - [*MIL-STD-1553 Complete online
-    reference*](http://www.milstd1553.com/) from Data Device Corporation
-  - [Military Computer with MIL-STD-1553
-    Interface](http://www.amdtec.com.tr/36/military-computer-with-4th-gen-intel-i7-mil-std-1553-canbus-dual-lan-com-usb-30)
-    from AMDTEC Defence
+  - [MIL-STD-1553 Tutorial](http://aviftech.com/files/3313/5168/8298/1553_Tutorial.pdf) from [Avionics Interface Technologies](http://www.aviftech.com/) (registration required)
+  - [MIL-STD-1553 Tutorial (video)](http://www.mil-1553.com/tutorials-1553) from Excalibur Systems Inc.
+  - [MIL-STD-1553 Tutorial](http://defense.ge-ip.com/library/detail/11743?cid=wik1553) by GE Intelligent Platforms (registration required)
+  - [MIL-STD-1553 Tutorial and References](http://www.ballardtech.com/support.aspx/Tutorials/#mil-std-1553) from Ballard Technology (includes MIL-STD-1553B & MIL-HDBK-1553A Notice2)
+  - [MIL-STD-1553 Designer's Guide](http://www.ddc-web.com/Documents/dguidehg.pdf) from Data Device Corporation
+  - [MIL-STD-1553 Tutorial and Reference](http://www.altadt.com/support/tutorials/mil-std-1553-tutorial-and-reference/) from Alta Data Technologies
+  - [MIL-STD-1553 Tutorial](http://www.aim-online.com/pdf/OVW1553.PDF) from AIM GmbH
+  - [INTRODUCTION TO THE MIL-STD-1553B SERIAL MULTIPLEX DATA BUS](http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA202511) by D. R. Bracknell, [皇家航空研究院](https://zh.wikipedia.org/wiki/皇家航空研究院 "wikilink"), Farnbourogh, 1988.
+  - [Introduction to MIL-STD-1553 Short Course](http://www.pe.gatech.edu/courses/introduction-mil-std-1553) from Georgia Tech Professional Education
+  - [*MIL-STD-1553 Complete online reference*](http://www.milstd1553.com/) from Data Device Corporation
+  - [Military Computer with MIL-STD-1553 Interface](http://www.amdtec.com.tr/36/military-computer-with-4th-gen-intel-i7-mil-std-1553-canbus-dual-lan-com-usb-30) from AMDTEC Defence
 
-[Category:航空电子学](https://zh.wikipedia.org/wiki/Category:航空电子学 "wikilink")
-[Category:串行总线](https://zh.wikipedia.org/wiki/Category:串行总线 "wikilink")
-[Category:美国军用标准](https://zh.wikipedia.org/wiki/Category:美国军用标准 "wikilink")
+[Category:航空电子学](https://zh.wikipedia.org/wiki/Category:航空电子学 "wikilink") [Category:串行总线](https://zh.wikipedia.org/wiki/Category:串行总线 "wikilink") [Category:美国军用标准](https://zh.wikipedia.org/wiki/Category:美国军用标准 "wikilink")
 
-1.  Avionic Systems Standardisation Committee, *Avionic Data
-    Transmission Interface Systems Part 2 : Serial, Time Division
-    Command/Response Multiplex Data Bus Standard*, Def Stan 00-18, Issue
-    2, 28 September 1990
-2.  George Marsh, *Typhoon: Europe’s Finest*, Avionics Today, June 1st
-    2003.
+1.  Avionic Systems Standardisation Committee, *Avionic Data Transmission Interface Systems Part 2 : Serial, Time Division Command/Response Multiplex Data Bus Standard*, Def Stan 00-18, Issue 2, 28 September 1990
+2.  George Marsh, *Typhoon: Europe’s Finest*, Avionics Today, June 1st 2003.
 3.
 4.
 5.
@@ -288,12 +226,8 @@ MIL-STD-1553B指定对于变压器耦合的[短截线](../Page/短截线.md "wik
 10.
 11.
 12. "The Electric Jet." Philips, E. H. **. 2007-02-05.
-13. [ASSIST-QuickSearch - Basic
-    Profile](http://assist.daps.dla.mil/quicksearch/basic_profile.cfm?ident_number=275874)
-
-14. [MIL-STD-1773 Data
-    Bus](https://fas.org/man/dod-101/sys/ac/equip/mil-std-1773.htm)
-15. Hegarty, Michael, ["MIL-STD-1553 Goes
-    Commercial"](http://www.ddc-web.com/Pub/0/568.ashx)
+13. [ASSIST-QuickSearch - Basic Profile](http://assist.daps.dla.mil/quicksearch/basic_profile.cfm?ident_number=275874)
+14. [MIL-STD-1773 Data Bus](https://fas.org/man/dod-101/sys/ac/equip/mil-std-1773.htm)
+15. Hegarty, Michael, ["MIL-STD-1553 Goes Commercial"](http://www.ddc-web.com/Pub/0/568.ashx)
 16. [DIGIBUS](http://www.adas.fr/cartes-digibusus.htm)
 17. [GOST R 52070-2003](http://www.freestd.us/soft1/569526.htm)

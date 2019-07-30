@@ -101,8 +101,7 @@
 
 ### The G.R.E.A.T
 
-《The
-G.R.E.A.T》是BIGBANG連續兩年在首尔奥林匹克体操竞技场舉辦演唱會。組合以熱門歌曲《謊言》和《最後的問候》成名之後，受到眾人的喜愛，所有的門票在短短的十分鐘便售罄。\[3\]\[4\]
+《The G.R.E.A.T》是BIGBANG連續兩年在首尔奥林匹克体操竞技场舉辦演唱會。組合以熱門歌曲《謊言》和《最後的問候》成名之後，受到眾人的喜愛，所有的門票在短短的十分鐘便售罄。\[3\]\[4\]
 
   - 演唱歌單
 
@@ -237,8 +236,7 @@ G.R.E.A.T》是BIGBANG連續兩年在首尔奥林匹克体操竞技场舉辦演�
 
 ### Big Show 2011
 
-《2011 Big Show》是Big Show系列的第三場演唱會 。演唱會DVD發行後登上Gaon
-Chart專輯榜的冠軍，總共售出了25,834張 \[7\].\[8\]
+《2011 Big Show》是Big Show系列的第三場演唱會 。演唱會DVD發行後登上Gaon Chart專輯榜的冠軍，總共售出了25,834張 \[7\].\[8\]
 
   - 演唱歌單
 
@@ -1099,8 +1097,7 @@ Chart專輯榜的冠軍，總共售出了25,834張 \[7\].\[8\]
 
 ### MADE World Tour
 
-《MADE World
-Tour》動員人數為1,500,000人，同時是韓國演唱會動員人數最多的韓國歌手\[30\]。這也是BIGBANG連續三年登上日本巨蛋進行巡演，是首例的韓國歌手。
+《MADE World Tour》動員人數為1,500,000人，同時是韓國演唱會動員人數最多的韓國歌手\[30\]。這也是BIGBANG連續三年登上日本巨蛋進行巡演，是首例的韓國歌手。
 
   - 巡演時間表
 
@@ -2427,8 +2424,7 @@ Tour》動員人數為1,500,000人，同時是韓國演唱會動員人數最多�
 
   -
 
-[Category:BIGBANG](https://zh.wikipedia.org/wiki/Category:BIGBANG "wikilink")
-[Category:BIGBANG巡迴演唱會](https://zh.wikipedia.org/wiki/Category:BIGBANG巡迴演唱會 "wikilink")
+[Category:BIGBANG](https://zh.wikipedia.org/wiki/Category:BIGBANG "wikilink") [Category:BIGBANG巡迴演唱會](https://zh.wikipedia.org/wiki/Category:BIGBANG巡迴演唱會 "wikilink")
 
 1.
 
@@ -2505,9 +2501,7 @@ Tour》動員人數為1,500,000人，同時是韓國演唱會動員人數最多�
 
 39.
 
-40. {{ cite
-    web|url=[http://ent.news.cn/2015-08/11/c_128116303.htm|title=韩国人气天团BIGBANG南京开唱](http://ent.news.cn/2015-08/11/c_128116303.htm%7Ctitle=韩国人气天团BIGBANG南京开唱)
-    万名粉丝齐互动|publisher=news.cn|accessdate=2017-06-14}}
+40. {{ cite web|url=[http://ent.news.cn/2015-08/11/c_128116303.htm|title=韩国人气天团BIGBANG南京开唱](http://ent.news.cn/2015-08/11/c_128116303.htm%7Ctitle=韩国人气天团BIGBANG南京开唱) 万名粉丝齐互动|publisher=news.cn|accessdate=2017-06-14}}
 
 41.
 

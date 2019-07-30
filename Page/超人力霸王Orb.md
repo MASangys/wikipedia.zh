@@ -1,16 +1,8 @@
-{{ Infobox television | | show_name = 超人力霸王Orb | eng_name =  | format
-=
-[特攝片](../Page/特攝片.md "wikilink")、[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")
-| image =
-[280px](https://zh.wikipedia.org/wiki/檔案:Ultraman_Orb_Poster_resized.jpg "wikilink")
-| runtime = 26分鐘 | creator =
-[圓谷製作公司](https://zh.wikipedia.org/wiki/圓谷製作公司 "wikilink")
-| director = [田口清隆](https://zh.wikipedia.org/wiki/田口清隆 "wikilink")
+{{ Infobox television | | show_name = 超人力霸王Orb | eng_name =  | format = [特攝片](../Page/特攝片.md "wikilink")、[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink") | image = [280px](https://zh.wikipedia.org/wiki/檔案:Ultraman_Orb_Poster_resized.jpg "wikilink") | runtime = 26分鐘 | creator = [圓谷製作公司](https://zh.wikipedia.org/wiki/圓谷製作公司 "wikilink") | director = [田口清隆](https://zh.wikipedia.org/wiki/田口清隆 "wikilink")
 [アベユーイチ](https://zh.wikipedia.org/wiki/アベユーイチ "wikilink")
 [市野龍一](https://zh.wikipedia.org/wiki/市野龍一 "wikilink")
 [冨田卓](https://zh.wikipedia.org/wiki/冨田卓 "wikilink")
-[武居正能](https://zh.wikipedia.org/wiki/武居正能 "wikilink") | writer =
-[中野貴雄](https://zh.wikipedia.org/wiki/中野貴雄 "wikilink")
+[武居正能](https://zh.wikipedia.org/wiki/武居正能 "wikilink") | writer = [中野貴雄](https://zh.wikipedia.org/wiki/中野貴雄 "wikilink")
 [小林雄次](https://zh.wikipedia.org/wiki/小林雄次 "wikilink")
 [林壯太郎](https://zh.wikipedia.org/wiki/林壯太郎 "wikilink")
 [三好昭央](https://zh.wikipedia.org/wiki/三好昭央 "wikilink")
@@ -22,50 +14,17 @@
 [內田裕基](https://zh.wikipedia.org/wiki/內田裕基 "wikilink")
 [柳井祥緒](https://zh.wikipedia.org/wiki/柳井祥緒 "wikilink")
 [勝冶京子](https://zh.wikipedia.org/wiki/勝冶京子 "wikilink")
-[幸修司](https://zh.wikipedia.org/wiki/幸修司 "wikilink") | starring =
-[石黑英雄](../Page/石黑英雄.md "wikilink")
+[幸修司](https://zh.wikipedia.org/wiki/幸修司 "wikilink") | starring = [石黑英雄](../Page/石黑英雄.md "wikilink")
 [松浦雅](../Page/松浦雅.md "wikilink")
 [髙橋直人](https://zh.wikipedia.org/wiki/髙橋直人 "wikilink")
 [練苧弘晃](https://zh.wikipedia.org/wiki/練苧弘晃 "wikilink")
 [青柳尊哉](https://zh.wikipedia.org/wiki/青柳尊哉 "wikilink")
-[柳澤慎吾](../Page/柳澤慎吾.md "wikilink") | country =
-[日本](../Page/日本.md "wikilink") | language =
-[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")
-[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink") | opentheme =
-オーブの祈り（[水木一郎](../Page/水木一郎.md "wikilink") w.
-[ボイジャー](https://zh.wikipedia.org/wiki/ボイジャー "wikilink")）
-光の序曲（[Nowhere
-boys](https://zh.wikipedia.org/wiki/Nowhere_boys "wikilink")） | endtheme
-= Shine your ORB | composer = | network =
-[東京電視台](../Page/東京電視台.md "wikilink") |
-picture_format = [高清電視](https://zh.wikipedia.org/wiki/高清電視 "wikilink")
-[16:9](https://zh.wikipedia.org/wiki/16:9 "wikilink") | audio_format =
-[立體聲](../Page/立體聲.md "wikilink") | first_run =  | first_aired =  |
-last_aired = 12月24日 | aired_time = 逢星期六 09:00-09:30(JST) |
-num_episodes = 25回 | network_1 = [ViuTV](../Page/ViuTV.md "wikilink")
-| picture_format_1 =
-[高清電視](https://zh.wikipedia.org/wiki/高清電視 "wikilink")
-[16:9](https://zh.wikipedia.org/wiki/16:9 "wikilink")
-[H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink")
-[1080i](https://zh.wikipedia.org/wiki/1080i "wikilink")50 |
-audio_format_1 = [立體聲](../Page/立體聲.md "wikilink")
-[AC-3](https://zh.wikipedia.org/wiki/AC-3 "wikilink") | first_run_1 =
-| first_aired_1 = 2017年6月25日 | last_aired_1 = 12月17日 |
-aired_time_1 = 逢星期日 09:35-10:05(HKT) | network_2 =
-[MOMO親子台](../Page/MOMO親子台.md "wikilink") | picture_format_2 =
-[高清電視](https://zh.wikipedia.org/wiki/高清電視 "wikilink")
-[16:9](https://zh.wikipedia.org/wiki/16:9 "wikilink") | audio_format_2
-= [立體聲](../Page/立體聲.md "wikilink") | first_run_2 =  | first_aired_2
-=  | last_aired_2 = | aired_time_2 = 逢星期日 17:30-18:00(TWN) |
-show_name_zh-cn = 欧布·奧特曼 | show_name_zh-tw = 超人力霸王欧布 |
-show_name_zh-hk = 超人Orb | preceded_by =
-[超人X](../Page/超人X.md "wikilink") | followed_by =  | website =
-<http://m-78.jp/orb/> }} 《**超人力霸王Orb**》（），為2016年7月9日起於東京電視台系列頻道每週六上午9:00
--
-9:30（JST）播出25集，由[圓谷製作所攝製的特攝電視劇](../Page/圓谷製作.md "wikilink")，且為作品中登場的巨大變身英雄名稱。
+[柳澤慎吾](../Page/柳澤慎吾.md "wikilink") | country = [日本](../Page/日本.md "wikilink") | language =  [日語](https://zh.wikipedia.org/wiki/日語 "wikilink")
+ [粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink") | opentheme =  オーブの祈り（[水木一郎](../Page/水木一郎.md "wikilink") w. [ボイジャー](https://zh.wikipedia.org/wiki/ボイジャー "wikilink")）
+ 光の序曲（[Nowhere boys](https://zh.wikipedia.org/wiki/Nowhere_boys "wikilink")） | endtheme = Shine your ORB | composer = | network = [東京電視台](../Page/東京電視台.md "wikilink") | picture_format = [高清電視](https://zh.wikipedia.org/wiki/高清電視 "wikilink") [16:9](https://zh.wikipedia.org/wiki/16:9 "wikilink") | audio_format = [立體聲](../Page/立體聲.md "wikilink") | first_run =  | first_aired =  | last_aired = 12月24日 | aired_time = 逢星期六 09:00-09:30(JST) | num_episodes = 25回 | network_1 = [ViuTV](../Page/ViuTV.md "wikilink") | picture_format_1 = [高清電視](https://zh.wikipedia.org/wiki/高清電視 "wikilink") [16:9](https://zh.wikipedia.org/wiki/16:9 "wikilink")
+[H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink") [1080i](https://zh.wikipedia.org/wiki/1080i "wikilink")50 | audio_format_1 = [立體聲](../Page/立體聲.md "wikilink") [AC-3](https://zh.wikipedia.org/wiki/AC-3 "wikilink") | first_run_1 =  | first_aired_1 = 2017年6月25日 | last_aired_1 = 12月17日 | aired_time_1 = 逢星期日 09:35-10:05(HKT) | network_2 = [MOMO親子台](../Page/MOMO親子台.md "wikilink") | picture_format_2 = [高清電視](https://zh.wikipedia.org/wiki/高清電視 "wikilink") [16:9](https://zh.wikipedia.org/wiki/16:9 "wikilink") | audio_format_2 = [立體聲](../Page/立體聲.md "wikilink") | first_run_2 =  | first_aired_2 =  | last_aired_2 = | aired_time_2 = 逢星期日 17:30-18:00(TWN) | show_name_zh-cn = 欧布·奧特曼 | show_name_zh-tw = 超人力霸王欧布 | show_name_zh-hk = 超人Orb | preceded_by = [超人X](../Page/超人X.md "wikilink") | followed_by =  | website = <http://m-78.jp/orb/> }} 《**超人力霸王Orb**》（），為2016年7月9日起於東京電視台系列頻道每週六上午9:00 - 9:30（JST）播出25集，由[圓谷製作](../Page/圓谷製作.md "wikilink")所攝製的特攝電視劇，且為作品中登場的巨大變身英雄名稱。
 
-本片的宣傳文案為「請賜與我光的力量！」（）、「覺醒吧，光之戰士」（）。
-在台灣則是由momo親子台自2017年9月24日起，於每周日下午17:30播出，並後於2018年3月18日同時段再次播出。
+本片的宣傳文案為「請賜與我光的力量！」（）、「覺醒吧，光之戰士」（）。 在台灣則是由momo親子台自2017年9月24日起，於每周日下午17:30播出，並後於2018年3月18日同時段再次播出。
 
 ## 本作特色
 
@@ -394,7 +353,7 @@ show_name_zh-hk = 超人Orb | preceded_by =
 Spacium Zeperion<br />
 </strong></p></td>
 <td><p><br />
-<a href="../Page/初代超人力霸王.md" title="wikilink">初代超人力霸王和</a><a href="https://zh.wikipedia.org/wiki/超人力霸王迪卡" title="wikilink">超人力霸王迪卡之力</a>，與超人力霸王Orb合體的模式。 身高：50公尺</p>
+<a href="../Page/初代超人力霸王.md" title="wikilink">初代超人力霸王</a>和<a href="https://zh.wikipedia.org/wiki/超人力霸王迪卡" title="wikilink">超人力霸王迪卡之力</a>，與超人力霸王Orb合體的模式。 身高：50公尺</p>
 <p>體重：5萬噸</p>
 <p>飛行速度：6.5馬赫</p>
 <p>走行速度：2.5馬赫</p>
@@ -421,7 +380,7 @@ Spacium Zeperion<br />
 Burnmite<br />
 </strong></p></td>
 <td><p><br />
-<a href="../Page/超人力霸王太郎.md" title="wikilink">超人力霸王太郎和</a><a href="../Page/超人力霸王梅比斯.md" title="wikilink">超人力霸王梅比斯之力</a>，與超人力霸王Orb合體的模式。 身高：50公尺</p>
+<a href="../Page/超人力霸王太郎.md" title="wikilink">超人力霸王太郎</a>和<a href="../Page/超人力霸王梅比斯.md" title="wikilink">超人力霸王梅比斯</a>之力，與超人力霸王Orb合體的模式。 身高：50公尺</p>
 <p>體重：5萬噸</p>
 <p>飛行速度：11馬赫</p>
 <p>走行速度：2.7馬赫</p>
@@ -449,7 +408,7 @@ Burnmite<br />
 ハリケーンスラッシュ<br />
 Hurricane Slash</strong></p></td>
 <td><p><br />
-<a href="../Page/超人力霸王傑克.md" title="wikilink">超人力霸王傑克和</a><a href="https://zh.wikipedia.org/wiki/超人力霸王傑洛" title="wikilink">超人力霸王傑洛之力</a>，與超人力霸王Orb合體的模式。 身高：50公尺</p>
+<a href="../Page/超人力霸王傑克.md" title="wikilink">超人力霸王傑克</a>和<a href="https://zh.wikipedia.org/wiki/超人力霸王傑洛" title="wikilink">超人力霸王傑洛之力</a>，與超人力霸王Orb合體的模式。 身高：50公尺</p>
 <p>體重：3.5萬噸</p>
 <p>飛行速度：13馬赫</p>
 <p>走行速度：4馬赫</p>
@@ -649,7 +608,7 @@ Orb Trinity</strong></p></td>
 ライトニングアタッカー<br />
 Lightning Attacker</strong></p></td>
 <td><p><br />
-<a href="../Page/超人力霸王銀河.md" title="wikilink">超人力霸王銀河和</a><a href="https://zh.wikipedia.org/wiki/超人力霸王列表#新超人力霸王列傳" title="wikilink">超人力霸王X之力</a>，與超人力霸王Orb合體的模式。</p>
+<a href="../Page/超人力霸王銀河.md" title="wikilink">超人力霸王銀河</a>和<a href="https://zh.wikipedia.org/wiki/超人力霸王列表#新超人力霸王列傳" title="wikilink">超人力霸王X之力</a>，與超人力霸王Orb合體的模式。</p>
 <p>身高：50公尺</p>
 <p>體重：5萬噸</p>
 <p>飛行速度：14馬赫</p>
@@ -676,7 +635,7 @@ Lightning Attacker</strong></p></td>
 エメリウムスラッガー<br />
 Emerium Slugger</strong></p></td>
 <td><p><br />
-<a href="../Page/超人七號.md" title="wikilink">超人七號和</a><a href="https://zh.wikipedia.org/wiki/超人力霸王傑洛" title="wikilink">超人力霸王傑洛之力</a>，與超人力霸王Orb合體的模式。 身高：50公尺</p>
+<a href="../Page/超人七號.md" title="wikilink">超人七號</a>和<a href="https://zh.wikipedia.org/wiki/超人力霸王傑洛" title="wikilink">超人力霸王傑洛之力</a>，與超人力霸王Orb合體的模式。 身高：50公尺</p>
 <p>體重：5萬噸</p>
 <p>飛行速度：13馬赫</p>
 <p>走行速度：5馬赫</p>
@@ -715,7 +674,7 @@ Emerium Slugger</strong></p></td>
 <!-- end list -->
 
   -
-    [超人力霸王蓋亞V2和](../Page/超人力霸王蓋亞.md "wikilink")[超人力霸王勝利之力](../Page/超人力霸王銀河S.md "wikilink")，與超人力霸王Orb合體的模式。
+    [超人力霸王蓋亞](../Page/超人力霸王蓋亞.md "wikilink")V2和[超人力霸王勝利之力](../Page/超人力霸王銀河S.md "wikilink")，與超人力霸王Orb合體的模式。
     屬性: 地
     登場台詞：悪を砕き光を照らせ！（I smash the darkness and shine with the light！）
     必殺技：フォトリウムナックル（Photorium Knuckle）
@@ -728,8 +687,7 @@ Emerium Slugger</strong></p></td>
   -
     [超人力霸王高斯和](https://zh.wikipedia.org/wiki/超人力霸王高斯 "wikilink")[超人力霸王X之力](https://zh.wikipedia.org/wiki/超人力霸王列表#新超人力霸王列傳 "wikilink")，與超人力霸王Orb合體的模式。
     屬性: 慈
-    登場台詞：つながる力は心の光！（The power to connect is with the light of the
-    heart！）
+    登場台詞：つながる力は心の光！（The power to connect is with the light of the heart！）
     必殺技：フルディウム光線（Flutium Ray）
 
 <!-- end list -->
@@ -760,7 +718,7 @@ Emerium Slugger</strong></p></td>
 <!-- end list -->
 
   -
-    [超人力霸王雷歐和](../Page/超人力霸王雷歐.md "wikilink")[超人力霸王傑洛之力](https://zh.wikipedia.org/wiki/超人力霸王傑洛 "wikilink")，與超人力霸王Orb合體的模式。
+    [超人力霸王雷歐](../Page/超人力霸王雷歐.md "wikilink")和[超人力霸王傑洛之力](https://zh.wikipedia.org/wiki/超人力霸王傑洛 "wikilink")，與超人力霸王Orb合體的模式。
     屬性: 鬪
     登場台詞：宇宙拳法、ビッグバン！（My space martial art style makes a big bang！）
     必殺技：ナックルクロスビーム（Knuckle Crossbeam）
@@ -773,8 +731,7 @@ Emerium Slugger</strong></p></td>
   -
     [超人力霸王貝利爾和](../Page/贝利亚·奥特曼.md "wikilink")[超人力霸王帝納奇蹟型之力](https://zh.wikipedia.org/wiki/超人力霸王帝納 "wikilink")，與超人力霸王Orb合體的模式。
     屬性: 超
-    登場台詞：闇の力を奇跡の光に！（I wield the power of darkness and the miraculous
-    light！）
+    登場台詞：闇の力を奇跡の光に！（I wield the power of darkness and the miraculous light！）
     必殺技：サンダーミラクルアタック（Thunder Miracle Attack）
 
 <!-- end list -->
@@ -783,10 +740,9 @@ Emerium Slugger</strong></p></td>
 <!-- end list -->
 
   -
-    [超人七號和](../Page/超人七號.md "wikilink")[超人力霸王衛司之力](../Page/超人力霸王衛司.md "wikilink")，與超人力霸王Orb合體的模式。
+    [超人七號](../Page/超人七號.md "wikilink")和[超人力霸王衛司](../Page/超人力霸王衛司.md "wikilink")之力，與超人力霸王Orb合體的模式。
     屬性: 裂
-    登場台詞：斬り裂け闇を、光と共に！（I slice and tear apart the darkness together with
-    the light！）
+    登場台詞：斬り裂け闇を、光と共に！（I slice and tear apart the darkness together with the light！）
     武器：バーチカルスラッガー（Vertical Slugger）
     必殺技：スラッガーエーススライサー（Slugger Ace Slicer）
 
@@ -796,7 +752,7 @@ Emerium Slugger</strong></p></td>
 <!-- end list -->
 
   -
-    [超人力霸王亞格V2和](https://zh.wikipedia.org/wiki/超人力霸王蓋亞#超人力霸王亞格（Ultraman_Agul） "wikilink")[超人力霸王希卡利之力](../Page/超人力霸王希卡利.md "wikilink")，與超人力霸王Orb合體的模式。
+    [超人力霸王亞格V2和](https://zh.wikipedia.org/wiki/超人力霸王蓋亞#超人力霸王亞格（Ultraman_Agul） "wikilink")[超人力霸王希卡利](../Page/超人力霸王希卡利.md "wikilink")之力，與超人力霸王Orb合體的模式。
     屬性: 両
     登場台詞：影を払いし、光の刃！（The blades of light shall clear the darkness！）
     武器：ナイトアグルブレード（Knight Agul Blade）
@@ -808,7 +764,7 @@ Emerium Slugger</strong></p></td>
 <!-- end list -->
 
   -
-    [初代超人力霸王和](../Page/初代超人力霸王.md "wikilink")[超人力霸王納克斯青年型之力](../Page/超人力霸王納克斯.md "wikilink")，與超人力霸王Orb合體的模式。
+    [初代超人力霸王](../Page/初代超人力霸王.md "wikilink")和[超人力霸王納克斯](../Page/超人力霸王納克斯.md "wikilink")青年型之力，與超人力霸王Orb合體的模式。
     屬性: 絆
     登場台詞：受け継がれてゆく魂の絆！（The bond of the soul passed along！）
     必殺技：ウルトラフルバースト（Ultra Full Burst）
@@ -842,7 +798,7 @@ Emerium Slugger</strong></p></td>
 <!-- end list -->
 
   -
-    [超人力霸王梅比斯和](../Page/超人力霸王梅比斯.md "wikilink")[超人力霸王銀河之力與超人力霸王Orb合體的模式](../Page/超人力霸王銀河.md "wikilink")。
+    [超人力霸王梅比斯](../Page/超人力霸王梅比斯.md "wikilink")和[超人力霸王銀河](../Page/超人力霸王銀河.md "wikilink")之力與超人力霸王Orb合體的模式。
     屬性: 刃
     登場台詞：眩い光で未来を示せ！（The future will show the dazzling light！）
     必殺技：メビュースペシャリーブレード（Mebius Special Blade）
@@ -853,7 +809,7 @@ Emerium Slugger</strong></p></td>
 <!-- end list -->
 
   -
-    [佐菲和](https://zh.wikipedia.org/wiki/超人力霸王列表#超人力霸王 "wikilink")[超人力霸王希卡利之力與超人力霸王Orb合體的模式](../Page/超人力霸王希卡利.md "wikilink")。
+    [佐菲和](https://zh.wikipedia.org/wiki/超人力霸王列表#超人力霸王 "wikilink")[超人力霸王希卡利](../Page/超人力霸王希卡利.md "wikilink")之力與超人力霸王Orb合體的模式。
     屬性: 栄
     登場台詞：光の誉れ、只今参上！（The glory of the light arrives now！）
     必殺技：ナイト87シュート（Knight 87 Shoot）
@@ -864,10 +820,9 @@ Emerium Slugger</strong></p></td>
 <!-- end list -->
 
   -
-    [超人力霸王馬克斯和](https://zh.wikipedia.org/wiki/超人力霸王馬克斯 "wikilink")[超人力霸王太郎之力與超人力霸王Orb合體的模式](../Page/超人力霸王太郎.md "wikilink")。
+    [超人力霸王馬克斯和](https://zh.wikipedia.org/wiki/超人力霸王馬克斯 "wikilink")[超人力霸王太郎](../Page/超人力霸王太郎.md "wikilink")之力與超人力霸王Orb合體的模式。
     屬性: 猛
-    登場台詞：宇宙の悪に立ち向かう光！（The light that confronts the evil of the
-    universe！）
+    登場台詞：宇宙の悪に立ち向かう光！（The light that confronts the evil of the universe！）
     必殺技：ストキシムカノン（Stoxium Cannon）
 
 ## 輔助工具
@@ -880,8 +835,7 @@ Emerium Slugger</strong></p></td>
 
   -
     原文： / *Orb Ring*
-    音效：[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")
-    ／（国語）：[DK](https://zh.wikipedia.org/wiki/DK "wikilink")（欧布格斗）宝木中阳（剧场版、TV）／（粵語）：[劉文光](https://zh.wikipedia.org/wiki/劉文光 "wikilink")
+    音效：[櫻井孝宏](../Page/櫻井孝宏.md "wikilink") ／（国語）：[DK](https://zh.wikipedia.org/wiki/DK "wikilink")（欧布格斗）宝木中阳（剧场版、TV）／（粵語）：[劉文光](https://zh.wikipedia.org/wiki/劉文光 "wikilink")
     欧布·奥特曼专用变身装置，可将“Orb Origin”的卡片起動原始形态，也可将两位奥特曼的卡片进行融合，形成拥有两种力量的身体。
 
 <!-- end list -->
@@ -909,8 +863,7 @@ Emerium Slugger</strong></p></td>
   -
     {| class="wikitable" width="65%" style="font-size:100%;"
 
-|-align=center |style="width:11%"|**名稱** |style="width:5%"|**屬性**
-|style="width:5%"|**顏色** |style="width:25%"|**說明** |- |超人力霸王迪卡 |
+|-align=center |style="width:11%"|**名稱** |style="width:5%"|**屬性** |style="width:5%"|**顏色** |style="width:25%"|**說明** |- |超人力霸王迪卡 |
 
 <center>
 
@@ -974,9 +927,7 @@ Emerium Slugger</strong></p></td>
 
 <center>
 
-紫 |原為行星侵略聯盟盟主諾斯特拉持有，但其後賈古拉將其斬殺而奪取卡片。
-賈古拉用光之魔王獸、闇之魔王獸、風之魔王獸、土之魔王獸、水之魔王獸、火之魔王獸等六張怪獸卡復活大魔王獸的封印後，賈古拉將本張卡片導入暗黑圓環，擊碎佐菲的封印而復活大魔王獸。本卡之後被玉響公主拾取，而轉交給紅凱。
-|- |超人力霸王歐布 |
+紫 |原為行星侵略聯盟盟主諾斯特拉持有，但其後賈古拉將其斬殺而奪取卡片。 賈古拉用光之魔王獸、闇之魔王獸、風之魔王獸、土之魔王獸、水之魔王獸、火之魔王獸等六張怪獸卡復活大魔王獸的封印後，賈古拉將本張卡片導入暗黑圓環，擊碎佐菲的封印而復活大魔王獸。本卡之後被玉響公主拾取，而轉交給紅凱。 |- |超人力霸王歐布 |
 
 <center>
 
@@ -984,8 +935,7 @@ Emerium Slugger</strong></p></td>
 
 <center>
 
-藍\[5\] |紅凱找回了面對自己的勇氣後，從合體魔王獸杰龐頓的(大魔王獸瑪伽歐洛奇)尾巴復原的歐布聖劍飛入Orb圓環產生而得的卡片。 |-
-|超人力霸王銀河 |
+藍\[5\] |紅凱找回了面對自己的勇氣後，從合體魔王獸杰龐頓的(大魔王獸瑪伽歐洛奇)尾巴復原的歐布聖劍飛入Orb圓環產生而得的卡片。 |- |超人力霸王銀河 |
 
 <center>
 
@@ -1377,19 +1327,13 @@ Emerium Slugger</strong></p></td>
 
 2017年3月11日『劇場版 超人力霸王Orb 絆之力，請借我一用吧！』在日本正式上映
 
-**電影劇情：** 有一天小女孩帶著神秘道具到SSP去。 那是超人力霸王X的變身器X終端。
-落入敵人的陷阱而解除與Xio隊員大空大地Unite的超人力霸王X，SSP，流浪之旅行歸來的凱，還有行蹤不明的大地！地球新危機的前兆降臨！
+**電影劇情：** 有一天小女孩帶著神秘道具到SSP去。 那是超人力霸王X的變身器X終端。 落入敵人的陷阱而解除與Xio隊員大空大地Unite的超人力霸王X，SSP，流浪之旅行歸來的凱，還有行蹤不明的大地！地球新危機的前兆降臨！
 
-尋找宇宙中擁有邪惡之心的人， 擁有放大持有著的能力的黑暗圓環。 準備用它將一切美麗的事物都做為寶石收藏的黑暗的宇宙魔女賊穆魯娜奥。
-它已把超人力霸王銀河和勝利都變成寶石收藏了， 如今有了新的目標，
-準備把地球化成寶石來收藏，似乎有什麼企圖的賈古拉暗中開始活動。
-在穆魯娜奥率領的邪惡宇宙人軍團的面前， X將要被變成寶石！ 銀河、勝利、X 新世代超人的羈絆！ Orb新力量 三位一體的Fusion
-up！地球最大決戰即將開始！
+尋找宇宙中擁有邪惡之心的人， 擁有放大持有著的能力的黑暗圓環。 準備用它將一切美麗的事物都做為寶石收藏的黑暗的宇宙魔女賊穆魯娜奥。 它已把超人力霸王銀河和勝利都變成寶石收藏了， 如今有了新的目標， 準備把地球化成寶石來收藏，似乎有什麼企圖的賈古拉暗中開始活動。 在穆魯娜奥率領的邪惡宇宙人軍團的面前， X將要被變成寶石！ 銀河、勝利、X 新世代超人的羈絆！ Orb新力量 三位一體的Fusion up！地球最大決戰即將開始！
 
 ### 特別篇
 
-  - 《[超人力霸王Orb
-    開播前特別篇](https://zh.wikipedia.org/wiki/超人力霸王Orb#播放列表 "wikilink")》
+  - 《[超人力霸王Orb 開播前特別篇](https://zh.wikipedia.org/wiki/超人力霸王Orb#播放列表 "wikilink")》
   - 《超人力霸王Orb 始源傳奇》(ウルトラマンオーブ THE ORIGIN SAGA)
   - 《超格鬥Orb 親子之力，請借我一用吧！》(ウルトラファイトオーブ 親子の力、おかりします\!)
   - 《超人力霸王Orb 年代記》(ウルトラマンオーブ THE CHRONICLE)
@@ -1406,21 +1350,16 @@ up！地球最大決戰即將開始！
 
   - 演唱：[水木一郎](../Page/水木一郎.md "wikilink") with
   - 作詞／作曲：[高見澤俊彦](https://zh.wikipedia.org/wiki/高見澤俊彦 "wikilink")
-  - 編曲：[高見澤俊彦](https://zh.wikipedia.org/wiki/高見澤俊彦 "wikilink") with
-    [本田優一郎](https://zh.wikipedia.org/wiki/本田優一郎 "wikilink")
+  - 編曲：[高見澤俊彦](https://zh.wikipedia.org/wiki/高見澤俊彦 "wikilink") with [本田優一郎](https://zh.wikipedia.org/wiki/本田優一郎 "wikilink")
 
 ### 香港版片頭曲
 
 「光の序曲」\[11\]
 
-  - 演唱：[Nowhere
-    boys](https://zh.wikipedia.org/wiki/Nowhere_boys "wikilink")
+  - 演唱：[Nowhere boys](https://zh.wikipedia.org/wiki/Nowhere_boys "wikilink")
   - 作曲：[高見澤俊彦](https://zh.wikipedia.org/wiki/高見澤俊彦 "wikilink")
-  - 作詞：[Fisher Kan](https://zh.wikipedia.org/wiki/簡豪銳 "wikilink") @
-    [Nowhere
-    boys](https://zh.wikipedia.org/wiki/Nowhere_boys "wikilink")
-  - 編曲：[Nowhere
-    boys](https://zh.wikipedia.org/wiki/Nowhere_boys "wikilink")
+  - 作詞：[Fisher Kan](https://zh.wikipedia.org/wiki/簡豪銳 "wikilink") @ [Nowhere boys](https://zh.wikipedia.org/wiki/Nowhere_boys "wikilink")
+  - 編曲：[Nowhere boys](https://zh.wikipedia.org/wiki/Nowhere_boys "wikilink")
 
 ### 片尾曲
 
@@ -1442,8 +1381,7 @@ up！地球最大決戰即將開始！
 
   - 導演 - 田口清隆、アベユーイチ、市野龍一、冨田卓、武居正能
   - 系列構成 - 中野貴雄、小林雄次
-  - 劇本 -
-    中野貴雄、小林雄次、林壮太郎、三好昭央、小林弘利、黒沢久子、足木淳一郎、三浦有為子、瀬戸大希、内田裕基、柳井祥緒、勝冶京子、幸修司
+  - 劇本 - 中野貴雄、小林雄次、林壮太郎、三好昭央、小林弘利、黒沢久子、足木淳一郎、三浦有為子、瀬戸大希、内田裕基、柳井祥緒、勝冶京子、幸修司
   - 監製 - 大岡新一
   - 企劃 - 猪狩友宏、押田裕一（テレビ東京）、今井陽介（電通）、桃井信彦（バンダイ）
   - 製作人 - 菊池英次、北浦嗣巳、鶴田幸伸、吉野文（テレビ東京）、竹葉理沙（電通）
@@ -1504,7 +1442,7 @@ up！地球最大決戰即將開始！
 <!-- end list -->
 
   -
-    香港由2017年6月25日起，於本地免費地面電視[ViuTV播放](../Page/ViuTV.md "wikilink")，提供粵語／日語雙語廣播。
+    香港由2017年6月25日起，於本地免費地面電視[ViuTV](../Page/ViuTV.md "wikilink")播放，提供粵語／日語雙語廣播。
 
 ### 中國大陸
 
@@ -1515,7 +1453,7 @@ up！地球最大決戰即將開始！
   -
     中國大陸地區版權總代理為上海新創華文化發展有限公司，在2017年8月21日於網絡發行官方國語配音版。
     發佈時間：2017年8月21日
-    發佈媒介：[愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")、[騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")、[优酷网](https://zh.wikipedia.org/wiki/优酷网 "wikilink")、[土豆网](../Page/土豆网.md "wikilink")、[搜狐视频](../Page/搜狐.md "wikilink")、[乐视网](../Page/乐视网.md "wikilink")
+    發佈媒介：[愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")、[騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")、[优酷网](https://zh.wikipedia.org/wiki/优酷网 "wikilink")、[土豆网](../Page/土豆网.md "wikilink")、[搜狐](../Page/搜狐.md "wikilink")视频、[乐视网](../Page/乐视网.md "wikilink")
     配音工作室：[北斗企鵝工作室](https://zh.wikipedia.org/wiki/北斗企鵝工作室 "wikilink")
     配音導演：林强、[李佳怡](https://zh.wikipedia.org/wiki/李佳怡 "wikilink")
 
@@ -1542,23 +1480,16 @@ up！地球最大決戰即將開始！
 
 ## 參考資料
 
-[Category:超人力霸王系列](https://zh.wikipedia.org/wiki/Category:超人力霸王系列 "wikilink")
-[Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink")
-[Category:東京電視台特攝節目](https://zh.wikipedia.org/wiki/Category:東京電視台特攝節目 "wikilink")
-[Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
-[Category:卡片題材作品](https://zh.wikipedia.org/wiki/Category:卡片題材作品 "wikilink")
-[Category:特攝跨界作品](https://zh.wikipedia.org/wiki/Category:特攝跨界作品 "wikilink")
+[Category:超人力霸王系列](https://zh.wikipedia.org/wiki/Category:超人力霸王系列 "wikilink") [Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink") [Category:東京電視台特攝節目](https://zh.wikipedia.org/wiki/Category:東京電視台特攝節目 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink") [Category:卡片題材作品](https://zh.wikipedia.org/wiki/Category:卡片題材作品 "wikilink") [Category:特攝跨界作品](https://zh.wikipedia.org/wiki/Category:特攝跨界作品 "wikilink")
 
 1.  後於動畫『怪獸娘』第2期第1話替角色JJ配音（JJ的名字就是他所飾演的「札古拉斯・札古拉」的縮寫，樣貌直接參照他所飾演的札古拉。）
 2.  大陆譯版本為早见善太。
 3.  台譯版本為松戶信。
-4.  資料取自"超人力霸王Orb
-    完全超全集(ウルトラマンオーブ　完全超全集)"一書，https://www.shogakukan.co.jp/books/09105158
+4.  資料取自"超人力霸王Orb 完全超全集(ウルトラマンオーブ　完全超全集)"一書，https://www.shogakukan.co.jp/books/09105158
 5.  導入Orb圓環後為彩虹色
 6.  凱的奥特英雄大研究
 7.
 8.  因直播體育賽事順延一小時後播放。
 9.  <https://twitter.com/movie_core2014/status/756056481477169152?ref_src=twsrc%5Etfw>
 10. <http://m-78.jp/news/n-4291/>
-11. [Nowhere boys
-    主唱《超人Orb》主題曲MV](https://www.facebook.com/ViuTV.hk/videos/1861699914085421/)
+11. [Nowhere boys 主唱《超人Orb》主題曲MV](https://www.facebook.com/ViuTV.hk/videos/1861699914085421/)

@@ -1,4 +1,4 @@
-**Yandex翻譯**（）是一項[Yandex提供的翻譯文段及網頁的服務](../Page/Yandex.md "wikilink")。
+**Yandex翻譯**（）是一項[Yandex](../Page/Yandex.md "wikilink")提供的翻譯文段及網頁的服務。
 
 Yandex使用自己開發的翻譯軟件，大部分語言對採用[統計機器翻譯技術](https://zh.wikipedia.org/wiki/統計機器翻譯 "wikilink")，少部份語言採用Yandex[神經网络翻譯系統](https://zh.wikipedia.org/wiki/神經网络 "wikilink")。
 
@@ -15,8 +15,7 @@ Yandex翻譯提供即時翻譯功能（即時輸入即時翻譯），使用者�
   - [機器翻譯](https://zh.wikipedia.org/wiki/機器翻譯 "wikilink")
   - [統計機器翻譯](https://zh.wikipedia.org/wiki/統計機器翻譯 "wikilink")
   - [Google翻译](../Page/Google翻译.md "wikilink")
-  - [Windows Live
-    Translator](https://zh.wikipedia.org/wiki/Windows_Live_Translator "wikilink")
+  - [Windows Live Translator](https://zh.wikipedia.org/wiki/Windows_Live_Translator "wikilink")
   - [Asia Online](https://zh.wikipedia.org/wiki/Asia_Online "wikilink")
   - [Bing翻譯](../Page/Bing翻譯.md "wikilink")
 
@@ -25,7 +24,4 @@ Yandex翻譯提供即時翻譯功能（即時輸入即時翻譯），使用者�
   - [Yandex Translate](https://translate.yandex.com)
   - [博客 Yandex翻译](https://yandex.ru/blog/translate)
 
-[Category:Yandex](https://zh.wikipedia.org/wiki/Category:Yandex "wikilink")
-[Category:機器翻譯](https://zh.wikipedia.org/wiki/Category:機器翻譯 "wikilink")
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
-[Category:2011年面世的產品](https://zh.wikipedia.org/wiki/Category:2011年面世的產品 "wikilink")
+[Category:Yandex](https://zh.wikipedia.org/wiki/Category:Yandex "wikilink") [Category:機器翻譯](https://zh.wikipedia.org/wiki/Category:機器翻譯 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:2011年面世的產品](https://zh.wikipedia.org/wiki/Category:2011年面世的產品 "wikilink")

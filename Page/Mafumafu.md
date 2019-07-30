@@ -1,7 +1,6 @@
 **Mafumafu**（まふまふ，），是日本男性歌手、作曲家。身高178公分，體重58.1公斤。
 
-負責音樂團體[After the
-Rain的歌唱](../Page/After_the_Rain.md "wikilink")、作詞、作曲、編曲。
+負責音樂團體[After the Rain的歌唱](../Page/After_the_Rain.md "wikilink")、作詞、作曲、編曲。
 
 也會提供樂曲給其他歌手。
 
@@ -10,19 +9,16 @@ Rain的歌唱](../Page/After_the_Rain.md "wikilink")、作詞、作曲、編曲�
 ## 簡介
 
   - 由2010年開始在[niconico動畫活動](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")。唱歌、歌词、作曲、編曲、演奏、技術等這些大多是獨自處理。也有向遊戲、動畫作品等其他歌手提供樂曲。
-  - 以發行同人專輯為主要活動，2016年1月8日和[そらる組成音樂團體](https://zh.wikipedia.org/wiki/そらる "wikilink")「[After
-    the
-    Rain](../Page/After_the_Rain.md "wikilink")」，2016年4月13日發售專輯『クロクレストストーリー』，於[Oricon公信榜獲得第](../Page/Oricon公信榜.md "wikilink")2名\[1\]。。
-  - 現在也以[niconico動畫](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")、[niconico直播為中心活動](https://zh.wikipedia.org/wiki/niconico直播 "wikilink")。此外還參加了Live、夏季Comic
-    Market等活動。
-  - 第一人稱是"僕（boku）"。在[Twitter談論時以](../Page/Twitter.md "wikilink")"ボク"為居多，有時候會用"俺（ore）"。
+  - 以發行同人專輯為主要活動，2016年1月8日和[そらる組成音樂團體](https://zh.wikipedia.org/wiki/そらる "wikilink")「[After the Rain](../Page/After_the_Rain.md "wikilink")」，2016年4月13日發售專輯『クロクレストストーリー』，於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")獲得第2名\[1\]。。
+  - 現在也以[niconico動畫](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")、[niconico直播為中心活動](https://zh.wikipedia.org/wiki/niconico直播 "wikilink")。此外還參加了Live、夏季Comic Market等活動。
+  - 第一人稱是"僕（boku）"。在[Twitter](../Page/Twitter.md "wikilink")談論時以"ボク"為居多，有時候會用"俺（ore）"。
   - 守護神是叫做まふてる的[晴天娃娃](https://zh.wikipedia.org/wiki/晴天娃娃 "wikilink")。
   - 2017年10月18日發售的專輯『明日色ワールドエンド』於Oricon公信榜獲得第2名\[2\]，首週售出71,325張。
 
 ## 軼事
 
   - 本人提到形象的設計是從電腦的程式錯誤誕生的，只要掃描左邊臉頰上的條碼的話，就會召喚出三次元的まふまふ。
-  - Twitter用戶名「uni_mafumafu」中的"uni"是從海產物[海膽的日文來的](../Page/海膽.md "wikilink")\[3\]。
+  - Twitter用戶名「uni_mafumafu」中的"uni"是從海產物[海膽](../Page/海膽.md "wikilink")的日文來的\[3\]。
   - 喜歡貓，但是和[そらる一起去貓咪咖啡廳的時候才知道自己對貓過敏](https://zh.wikipedia.org/wiki/そらる "wikilink")\[4\]。現在養了兩隻貓，貓名分別為いろは和ぽてと。
   - 偶而會上傳和歌手[そらる](https://zh.wikipedia.org/wiki/そらる "wikilink")、[うらたぬき](https://zh.wikipedia.org/wiki/浦田涉 "wikilink")、一起玩遊戲的實況影片，四人合稱為「」。
 
@@ -269,8 +265,7 @@ Rain的歌唱](../Page/After_the_Rain.md "wikilink")、作詞、作曲、編曲�
 
 ### Music Video
 
-  - [夢のまた夢](https://www.youtube.com/watch?v=yV0j3-SGaYA) -
-    [YouTube](../Page/YouTube.md "wikilink")
+  - [夢のまた夢](https://www.youtube.com/watch?v=yV0j3-SGaYA) - [YouTube](../Page/YouTube.md "wikilink")
 
 ### 商業合作曲
 
@@ -286,7 +281,7 @@ Rain的歌唱](../Page/After_the_Rain.md "wikilink")、作詞、作曲、編曲�
 #### CD
 
   - 『Hello,World\!』（[國王唱片](../Page/國王唱片.md "wikilink")、2014年7月16日發行）
-      - [天月的專輯](../Page/天月.md "wikilink")。提供「-{僕らのセカイ系戦争}-」。
+      - [天月](../Page/天月.md "wikilink")的專輯。提供「-{僕らのセカイ系戦争}-」。
   - 『夕溜まりのしおり』（Subcul-rise Record、2015年4月22日發行）
       - [そらる的專輯](https://zh.wikipedia.org/wiki/そらる "wikilink")。提供「天罰」。
   - 『re:stArT』（赤ティン、2015年4月30日發行）
@@ -342,17 +337,15 @@ Rain的歌唱](../Page/After_the_Rain.md "wikilink")、作詞、作曲、編曲�
 #### 遊戲
 
   - [新楓之谷](../Page/新楓之谷.md "wikilink")
-      - 為線上遊戲「新楓之谷」與[初音未來合作的原創歌曲](../Page/初音未來.md "wikilink")。提供「-{モノクロと勇者の遺伝子}-」。
+      - 為線上遊戲「新楓之谷」與[初音未來](../Page/初音未來.md "wikilink")合作的原創歌曲。提供「-{モノクロと勇者の遺伝子}-」。
   - \#COMPASS - 戰鬥神意解析系統
-      - 為遊戲中角色[聖女貞德的主題曲](../Page/聖女貞德.md "wikilink")。提供「マチガイサガシ」。
+      - 為遊戲中角色[聖女貞德](../Page/聖女貞德.md "wikilink")的主題曲。提供「マチガイサガシ」。
   - [CROSS×BEATS](https://zh.wikipedia.org/wiki/CROSS×BEATS "wikilink")
       - 提供「大殺界がらくたシンパシー」「ロマンシングゲーム(まふ×ティン名義)」。
-  - [crossbeats
-    REV.](https://zh.wikipedia.org/wiki/crossbeats_REV. "wikilink")
+  - [crossbeats REV.](https://zh.wikipedia.org/wiki/crossbeats_REV. "wikilink")
       - 收錄了「大殺界がらくたシンパシー」。
-  - [あんさんぶるスターズ\!](https://zh.wikipedia.org/wiki/あんさんぶるスターズ! "wikilink")
-      - 為遊戲中其中一個名為「UNDEAD」的團體作曲(收錄在團體第三張專輯裡的第7首)，曲名是「Valentine Eve's
-        Nightmare」
+  - [偶像夢幻祭](../Page/偶像夢幻祭.md "wikilink")
+      - 為遊戲中其中一個名為「UNDEAD」的團體作曲(收錄在團體第三張專輯裡的第7首)，曲名是「Valentine Eve's Nightmare」
 
 #### 其他
 
@@ -413,10 +406,8 @@ Rain的歌唱](../Page/After_the_Rain.md "wikilink")、作詞、作曲、編曲�
 ### 參演活動
 
   - 08月29日　EXIT TUNES ACADEMY@0829 Zepp Fukuoka　福岡市 Zepp Fukuoka
-  - 12月16日　EXIT TUNES ACADEMY@1216 Zepp DiverCity ～イケメンボイスパラダイス5 Release
-    Party～　東京都 Zepp DiverCity
-  - 12月31日　EXIT TUNES ACADEMY@1231 Namba Hatch OSAKA 2013 COUNT DOWN
-    SPECIAL　大阪府 なんばHatch
+  - 12月16日　EXIT TUNES ACADEMY@1216 Zepp DiverCity ～イケメンボイスパラダイス5 Release Party～　東京都 Zepp DiverCity
+  - 12月31日　EXIT TUNES ACADEMY@1231 Namba Hatch OSAKA 2013 COUNT DOWN SPECIAL　大阪府 なんばHatch
 
 <!-- end list -->
 
@@ -462,8 +453,7 @@ Rain的歌唱](../Page/After_the_Rain.md "wikilink")、作詞、作曲、編曲�
 <!-- end list -->
 
   - 02月3日　NBCUniversal ANIME×MUSIC FESTIVAL 　埼玉県 さいたまスーパーアリーナ
-  - 02月14日　XYZ TOUR 2018 -Valentine's Night Ladies Only-　東京都 TSUTAYA
-    O-EAST
+  - 02月14日　XYZ TOUR 2018 -Valentine's Night Ladies Only-　東京都 TSUTAYA O-EAST
   - 09月1日　XYZ TOUR 2018 -SUMMER‐　大阪府 Zepp Osaka Bayside
 
 </div>
@@ -521,28 +511,20 @@ Rain的歌唱](../Page/After_the_Rain.md "wikilink")、作詞、作曲、編曲�
 
   - [まふまふ Official Website](http://uni-mafumafu.jp)
   - [『ひきこもりでもLIVEがしたい！～明日色ワールドエンド発売記念公演～』公演特設網站](http://hikikomoridemo.jp/)
-  - [After the Rain(そらる×まふまふ) NBCUniversal OFFICIAL
-    SITE](http://nbcuni-music.com/aftertherain/)
+  - [After the Rain(そらる×まふまふ) NBCUniversal OFFICIAL SITE](http://nbcuni-music.com/aftertherain/)
 
 ## 外部連結
 
   -
   -
-  - [まふりすと](http://www.nicovideo.jp/mylist/22993832) -
-    [niconico公開清單](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")
+  - [まふりすと](http://www.nicovideo.jp/mylist/22993832) - [niconico公開清單](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")
 
   -
-  - [晴れときどきまふまふ](http://ameblo.jp/uni-mafumafu/) -
-    [Ameba官方部落格](../Page/Ameba.md "wikilink")
+  - [晴れときどきまふまふ](http://ameblo.jp/uni-mafumafu/) - [Ameba](../Page/Ameba.md "wikilink")官方部落格
 
-[Category:使用Vocaloid的音樂家](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的音樂家 "wikilink")
-[Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink")
-[Category:同人歌手](https://zh.wikipedia.org/wiki/Category:同人歌手 "wikilink")
-[Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")
-[Category:在世歌手](https://zh.wikipedia.org/wiki/Category:在世歌手 "wikilink")
+[Category:使用Vocaloid的音樂家](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的音樂家 "wikilink") [Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink") [Category:同人歌手](https://zh.wikipedia.org/wiki/Category:同人歌手 "wikilink") [Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink") [Category:在世歌手](https://zh.wikipedia.org/wiki/Category:在世歌手 "wikilink")
 
-1.  [After the
-    Rain(そらる×まふまふ)の売上ランキング](http://www.oricon.co.jp/prof/668054/rank/)
+1.  [After the Rain(そらる×まふまふ)の売上ランキング](http://www.oricon.co.jp/prof/668054/rank/)
 2.
 3.  [發表自2017年8月7日的推文](https://twitter.com/uni_mafumafu/status/894527345045917696)
 4.  [【そらる×まふまふ】ひきこもらないラジオ【第４回】-残酷な現実-](https://www.youtube.com/watch?v=tb9Z8oXZKzg)
@@ -551,5 +533,4 @@ Rain的歌唱](../Page/After_the_Rain.md "wikilink")、作詞、作曲、編曲�
 7.
 8.
 9.
-10. [小說『永眠童話
-    -幻想世界與玩具的心臟-』特集網站](http://www.enterbrain.co.jp/kcg/special/201504_eimindouwa.html)
+10. [小說『永眠童話 -幻想世界與玩具的心臟-』特集網站](http://www.enterbrain.co.jp/kcg/special/201504_eimindouwa.html)

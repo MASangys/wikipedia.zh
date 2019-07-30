@@ -1,4 +1,4 @@
-**DAF-16**是人[FOXO家族蛋白在](https://zh.wikipedia.org/wiki/FOX蛋白 "wikilink")[线虫动物门](../Page/线虫动物门.md "wikilink")（如[秀麗隱桿線蟲](../Page/秀麗隱桿線蟲.md "wikilink")）中的[同源基因](../Page/同源.md "wikilink")\[1\]，在线虫的[胰岛素样生长因子1受体同源基因](../Page/胰岛素样生长因子1受体.md "wikilink")[daf-2产生延长寿命的突变后](https://zh.wikipedia.org/wiki/daf-2 "wikilink")，DAF-16是被激活的主要的[转录因子](../Page/转录因子.md "wikilink")\[2\]。
+**DAF-16**是人[FOXO家族蛋白在](https://zh.wikipedia.org/wiki/FOX蛋白 "wikilink")[线虫动物门](../Page/线虫动物门.md "wikilink")（如[秀麗隱桿線蟲](../Page/秀麗隱桿線蟲.md "wikilink")）中的[同源](../Page/同源.md "wikilink")基因\[1\]，在线虫的[胰岛素样生长因子1受体](../Page/胰岛素样生长因子1受体.md "wikilink")同源基因[daf-2产生延长寿命的突变后](https://zh.wikipedia.org/wiki/daf-2 "wikilink")，DAF-16是被激活的主要的[转录因子](../Page/转录因子.md "wikilink")\[2\]。
 
 ## 另见
 
@@ -25,11 +25,7 @@
 </tbody>
 </table>
 
-[Category:秀丽隐杆线虫基因](https://zh.wikipedia.org/wiki/Category:秀丽隐杆线虫基因 "wikilink")
-[Category:遺傳學小作品](https://zh.wikipedia.org/wiki/Category:遺傳學小作品 "wikilink")
-[Category:动物蛋白](https://zh.wikipedia.org/wiki/Category:动物蛋白 "wikilink")
+[Category:秀丽隐杆线虫基因](https://zh.wikipedia.org/wiki/Category:秀丽隐杆线虫基因 "wikilink") [Category:遺傳學小作品](https://zh.wikipedia.org/wiki/Category:遺傳學小作品 "wikilink") [Category:动物蛋白](https://zh.wikipedia.org/wiki/Category:动物蛋白 "wikilink")
 
-1.  [*daf-16* at
-    WormBase](http://www.wormbase.org/species/c_elegans/gene/WBGene00000912)
-    www.wormbase.org
+1.  [*daf-16* at WormBase](http://www.wormbase.org/species/c_elegans/gene/WBGene00000912) www.wormbase.org
 2.

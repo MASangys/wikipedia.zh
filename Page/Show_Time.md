@@ -1,5 +1,4 @@
-《**Show
-Time**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[羅志祥的首張國語](../Page/羅志祥.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2003年12月5日推出，也是他自[四大天王及](../Page/四大天王_\(團體\).md "wikilink")[羅密歐解散後加盟](../Page/羅密歐_\(團體\).md "wikilink")[愛貝克思的首張大碟](../Page/愛貝克思_\(台灣\).md "wikilink")。
+《**Show Time**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[羅志祥](../Page/羅志祥.md "wikilink")的首張國語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2003年12月5日推出，也是他自[四大天王及](../Page/四大天王_\(團體\).md "wikilink")[羅密歐解散後加盟](../Page/羅密歐_\(團體\).md "wikilink")[愛貝克思的首張大碟](../Page/愛貝克思_\(台灣\).md "wikilink")。
 
 ## 曲目
 
@@ -62,6 +61,4 @@ Time**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](..
 </tbody>
 </table>
 
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:羅志祥音樂專輯](https://zh.wikipedia.org/wiki/Category:羅志祥音樂專輯 "wikilink")
-[Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")
+[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:羅志祥音樂專輯](https://zh.wikipedia.org/wiki/Category:羅志祥音樂專輯 "wikilink") [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")

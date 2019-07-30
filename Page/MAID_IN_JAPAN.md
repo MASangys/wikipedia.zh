@@ -1,5 +1,4 @@
-『**MAID IN
-JAPAN**』是[BAND-MAID®出道前第](../Page/BAND-MAID.md "wikilink")1張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，在2014年1月8日發售。在2018年2月14日，加入兩首出道前的歌曲，重新發售。
+『**MAID IN JAPAN**』是[BAND-MAID](../Page/BAND-MAID.md "wikilink")®出道前第1張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，在2014年1月8日發售。在2018年2月14日，加入兩首出道前的歌曲，重新發售。
 
 ## 概要
 
@@ -70,5 +69,4 @@ JAPAN**』是[BAND-MAID®出道前第](../Page/BAND-MAID.md "wikilink")1張[迷�
 
 [DISCOGRAPHY](http://bandmaid.tokyo/music/) - BAND-MAID OFFICIAL WEBSITE
 
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:BAND-MAID音樂專輯](https://zh.wikipedia.org/wiki/Category:BAND-MAID音樂專輯 "wikilink")
+[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:BAND-MAID音樂專輯](https://zh.wikipedia.org/wiki/Category:BAND-MAID音樂專輯 "wikilink")

@@ -1,8 +1,4 @@
-是[日本動畫公司](../Page/日本.md "wikilink")[白組與](../Page/白組.md "wikilink")[EMT
-Squared共同製作的](../Page/EMT_Squared.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，2017年10月至12月在[TOKYO
-MX](../Page/東京都會電視台.md "wikilink")、[AbemaTV及](../Page/AbemaTV.md "wikilink")[BS富士首播](../Page/BS富士.md "wikilink")。動畫的原作是2015年5月起於[Crunchyroll連載的插圖小說](../Page/Crunchyroll.md "wikilink")"PARK
-Harajuku: Crisis
-Team！"\[1\]\[2\]\[3\]，該小說是Crunchyroll和位於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[原宿的零售商店PARK](../Page/原宿.md "wikilink")\[4\]共同推出的企劃。
+是[日本](../Page/日本.md "wikilink")動畫公司[白組](../Page/白組.md "wikilink")與[EMT Squared共同製作的](../Page/EMT_Squared.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，2017年10月至12月在[TOKYO MX](../Page/東京都會電視台.md "wikilink")、[AbemaTV](../Page/AbemaTV.md "wikilink")及[BS富士](../Page/BS富士.md "wikilink")首播。動畫的原作是2015年5月起於[Crunchyroll](../Page/Crunchyroll.md "wikilink")連載的插圖小說"PARK Harajuku: Crisis Team！"\[1\]\[2\]\[3\]，該小說是Crunchyroll和位於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[原宿](../Page/原宿.md "wikilink")的零售商店PARK\[4\]共同推出的企劃。
 
 ## 故事簡介
 
@@ -78,10 +74,8 @@ Team！"\[1\]\[2\]\[3\]，該小說是Crunchyroll和位於[東京](https://zh.wi
   - 音樂製作：[DOG ON BEAT](../Page/Flying_DOG.md "wikilink")
   - 製作人：杉多久磨、茂田美穗、榮龍太朗
   - 動畫製作人：宮本秀晃
-  - 動畫製作：[白組](../Page/白組.md "wikilink")×[EMT
-    Squared](../Page/EMT_Squared.md "wikilink")\[15\]
-  - 製作：URAHARA製作委員會（[Crunchyroll SC
-    Anime-fund](../Page/Crunchyroll.md "wikilink")、[VAP](../Page/VAP.md "wikilink")）
+  - 動畫製作：[白組](../Page/白組.md "wikilink")×[EMT Squared](../Page/EMT_Squared.md "wikilink")\[15\]
+  - 製作：URAHARA製作委員會（[Crunchyroll SC Anime-fund](../Page/Crunchyroll.md "wikilink")、[VAP](../Page/VAP.md "wikilink")）
 
 ### 主題曲
 
@@ -292,11 +286,9 @@ STUDIO MASSKET</p></td>
 
   -
 
-  - [PARK](http://www.park-harajuku.com/)
-    －位於原宿所架設的店鋪網站。並以理都、琴子、麻里3人作為店鋪的形象角色。
+  - [PARK](http://www.park-harajuku.com/) －位於原宿所架設的店鋪網站。並以理都、琴子、麻里3人作為店鋪的形象角色。
 
-[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
+[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
 
 1.
 

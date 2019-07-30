@@ -1,4 +1,4 @@
-《**Addendum**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[麥浚龍的第](../Page/麥浚龍.md "wikilink")14張唱片，於2015年9月20日發行，限量版則於2015年9月26日發行。
+《**Addendum**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[麥浚龍](../Page/麥浚龍.md "wikilink")的第14張唱片，於2015年9月20日發行，限量版則於2015年9月26日發行。
 
 唱片中收錄了大熱作品〈[羅生門](../Page/羅生門_\(歌曲\).md "wikilink")〉，在2015年暑假期間引起一時網絡瘋傳。
 
@@ -213,7 +213,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/加拿大中文電台.md" title="wikilink">加拿大中文電台中文歌曲排行榜年度總選</a>2015</p></td>
+<td><p><a href="../Page/加拿大中文電台.md" title="wikilink">加拿大中文電台</a>中文歌曲排行榜年度總選2015</p></td>
 <td><p>全國推崇十大歌曲（粵語）</p></td>
 <td><p><a href="../Page/羅生門_(歌曲).md" title="wikilink">羅生門</a></p></td>
 <td></td>
@@ -245,6 +245,4 @@
 
 ## 參考資料
 
-[Category:麥浚龍音樂專輯](https://zh.wikipedia.org/wiki/Category:麥浚龍音樂專輯 "wikilink")
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:麥浚龍音樂專輯](https://zh.wikipedia.org/wiki/Category:麥浚龍音樂專輯 "wikilink") [Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

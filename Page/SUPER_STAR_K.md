@@ -1,10 +1,4 @@
-《SUPER STAR **K**》（韓語：슈퍼스타K）是
-[韩国的有线电视](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")
-Mnet的全國選拔／生存實境節目。 節目會在韩国全国8个地区以及海外進行预赛和决赛，連同首尔Super
-Week的前10名(第2季、第3季及第6季為TOP 11；第4季為TOP12；第5季、第7季為TOP
-10)，在现场直播舞台上進行生存選拔比賽。
-获胜者會獲得Mnet年终頒獎典禮– [MAMA](../Page/Mnet亞洲音樂大獎.md "wikilink") 的表演機會以及其他的奖金及獎品。
-2009年起，每年製作一季節目。
+《SUPER STAR **K**》（韓語：슈퍼스타K）是 [韩国的有线电视](https://zh.wikipedia.org/wiki/大韩民国 "wikilink") Mnet的全國選拔／生存實境節目。 節目會在韩国全国8个地区以及海外進行预赛和决赛，連同首尔Super Week的前10名(第2季、第3季及第6季為TOP 11；第4季為TOP12；第5季、第7季為TOP 10)，在现场直播舞台上進行生存選拔比賽。 获胜者會獲得Mnet年终頒獎典禮– [MAMA](../Page/Mnet亞洲音樂大獎.md "wikilink") 的表演機會以及其他的奖金及獎品。 2009年起，每年製作一季節目。
 
 ## 節目內容
 
@@ -15,21 +9,16 @@ MC：
 
 评委：
 
-  - SUPER STAR **K**
-    (第1季)：李承哲、[李孝利](../Page/李孝利.md "wikilink")、[楊賢碩](https://zh.wikipedia.org/wiki/楊賢碩 "wikilink")
-  - SUPER STAR **K2**
-    (第2季)：李承哲、[尹鍾信](../Page/尹鍾信.md "wikilink")、徐寅英、[嚴正花](https://zh.wikipedia.org/wiki/嚴正花 "wikilink")、[朴振英](https://zh.wikipedia.org/wiki/朴振英 "wikilink")（海选）
+  - SUPER STAR **K** (第1季)：李承哲、[李孝利](../Page/李孝利.md "wikilink")、[楊賢碩](https://zh.wikipedia.org/wiki/楊賢碩 "wikilink")
+  - SUPER STAR **K2** (第2季)：李承哲、[尹鍾信](../Page/尹鍾信.md "wikilink")、徐寅英、[嚴正花](https://zh.wikipedia.org/wiki/嚴正花 "wikilink")、[朴振英](https://zh.wikipedia.org/wiki/朴振英 "wikilink")（海选）
   - SUPER STAR **K3** (第3季)：李承哲、[尹鍾信](../Page/尹鍾信.md "wikilink")、尹美莱
   - SUPER STAR **K4** (第4季)：李承哲、[PSY](../Page/PSY.md "wikilink")、尹美莱、尹健；
       - 特別評委：[李玟雨](../Page/李玟雨.md "wikilink")\[1\]、[金泰宇](../Page/金泰宇.md "wikilink")
   - SUPER STAR **K5** (第5季)：李承哲、[尹鍾信](../Page/尹鍾信.md "wikilink")、李哈嫩
-  - SUPER STAR **K6**
-    (第6季)：李承哲、[尹鍾信](../Page/尹鍾信.md "wikilink")、[金汎秀](https://zh.wikipedia.org/wiki/金范秀 "wikilink")、[白智英](https://zh.wikipedia.org/wiki/白智英 "wikilink")
-  - SUPER STAR **K7**
-    (第7季)\[2\]：[尹鍾信](../Page/尹鍾信.md "wikilink")、[白智榮](../Page/白智榮.md "wikilink")、[金汎秀](https://zh.wikipedia.org/wiki/金范秀 "wikilink")、成始璄；
+  - SUPER STAR **K6** (第6季)：李承哲、[尹鍾信](../Page/尹鍾信.md "wikilink")、[金汎秀](https://zh.wikipedia.org/wiki/金范秀 "wikilink")、[白智英](https://zh.wikipedia.org/wiki/白智英 "wikilink")
+  - SUPER STAR **K7** (第7季)\[2\]：[尹鍾信](../Page/尹鍾信.md "wikilink")、[白智榮](../Page/白智榮.md "wikilink")、[金汎秀](https://zh.wikipedia.org/wiki/金范秀 "wikilink")、成始璄；
       - 特別評審團\[3\]：[Zion.T](../Page/Zion.T.md "wikilink")、[許閣](../Page/許閣.md "wikilink")(第2季冠軍)、[圭賢](../Page/圭賢.md "wikilink")、Ailee、洪真英、[佳仁](../Page/孙佳人.md "wikilink")
-  - SUPER STAR **K 2016**
-    (第8季)：[Ailee](../Page/李艺真.md "wikilink")、[吉](../Page/Leessang.md "wikilink")、金延宇、金範修、[Gummy](https://zh.wikipedia.org/wiki/Gummy "wikilink")、韓勝浩、[勇敢兄弟](../Page/勇敢兄弟.md "wikilink")
+  - SUPER STAR **K 2016** (第8季)：[Ailee](../Page/李艺真.md "wikilink")、[吉](../Page/Leessang.md "wikilink")、金延宇、金範修、[Gummy](https://zh.wikipedia.org/wiki/Gummy "wikilink")、韓勝浩、[勇敢兄弟](../Page/勇敢兄弟.md "wikilink")
 
 ## 各季參賽者名單
 
@@ -132,9 +121,7 @@ MC：
 ## 外部連結
 
   -
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
 1.
 

@@ -1,16 +1,12 @@
-《**REBOOT**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Wonder
-Girls第三張正規專輯](../Page/Wonder_Girls.md "wikilink")。[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，2015年8月3日由KT
-Music發行。主打歌曲〈I Feel You〉的詞曲由[朴軫永製作](../Page/朴軫永.md "wikilink")。\[1\]
+《**REBOOT**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Wonder Girls第三張正規專輯](../Page/Wonder_Girls.md "wikilink")。[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，2015年8月3日由KT Music發行。主打歌曲〈I Feel You〉的詞曲由[朴軫永](../Page/朴軫永.md "wikilink")製作。\[1\]
 
 ## 背景
 
-[Wonder
-Girls三年多未推出新作品](../Page/Wonder_Girls.md "wikilink")，這段期間對於該如何更進一步而思考著，最後在一年前決定要以樂團形式回歸歌壇\[2\]。婑斌擔任鼓手、譽恩是鍵盤手、惠林是吉他手、善美則是貝斯手\[3\]，除了譽恩會彈鋼琴之外，其它三名成員都是從零開始學習樂器。
+[Wonder Girls三年多未推出新作品](../Page/Wonder_Girls.md "wikilink")，這段期間對於該如何更進一步而思考著，最後在一年前決定要以樂團形式回歸歌壇\[2\]。婑斌擔任鼓手、譽恩是鍵盤手、惠林是吉他手、善美則是貝斯手\[3\]，除了譽恩會彈鋼琴之外，其它三名成員都是從零開始學習樂器。
 
 ## 現場演出
 
-公開音源的當天在首爾梨泰院舉行一場小型的Showcase\[4\]，表演〈Tell me〉、〈Baby Don't
-Play〉、〈Nobody〉、〈Rewind〉、〈Back〉、〈I Feel You〉等歌曲。
+公開音源的當天在首爾梨泰院舉行一場小型的Showcase\[4\]，表演〈Tell me〉、〈Baby Don't Play〉、〈Nobody〉、〈Rewind〉、〈Back〉、〈I Feel You〉等歌曲。
 
 ## 曲目
 
@@ -101,9 +97,7 @@ Play〉、〈Nobody〉、〈Rewind〉、〈Back〉、〈I Feel You〉等歌曲�
 
 ## 參考資料
 
-[Category:Wonder_Girls音樂專輯](https://zh.wikipedia.org/wiki/Category:Wonder_Girls音樂專輯 "wikilink")
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:Wonder_Girls音樂專輯](https://zh.wikipedia.org/wiki/Category:Wonder_Girls音樂專輯 "wikilink") [Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

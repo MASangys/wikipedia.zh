@@ -1,5 +1,4 @@
-这是一份销售或出货超过100万份的[Wii
-U](../Page/Wii_U.md "wikilink")[电子游戏清单](../Page/电子游戏.md "wikilink")。
+这是一份销售或出货超过100万份的[Wii U](../Page/Wii_U.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")清单。
 
 ## 列表
 
@@ -166,12 +165,9 @@ U](../Page/Wii_U.md "wikilink")[电子游戏清单](../Page/电子游戏.md "wik
 
 ## 参考资料
 
-[Category:Wii_U遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U遊戲 "wikilink")
-[Category:電子遊戲列表](https://zh.wikipedia.org/wiki/Category:電子遊戲列表 "wikilink")
-[Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink")
+[Category:Wii_U遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U遊戲 "wikilink") [Category:電子遊戲列表](https://zh.wikipedia.org/wiki/Category:電子遊戲列表 "wikilink") [Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink")
 
-1.  This game comes with the Deluxe Set, along with a bonus game
-    promotion.
+1.  This game comes with the Deluxe Set, along with a bonus game promotion.
 
 2.
 
@@ -187,8 +183,7 @@ U](../Page/Wii_U.md "wikilink")[电子游戏清单](../Page/电子游戏.md "wik
 10.
 11.
 12.
-13. This game comes with the Deluxe Set, although has largely been
-    replaced by the New Super Mario Bros. U bundle.
+13. This game comes with the Deluxe Set, although has largely been replaced by the New Super Mario Bros. U bundle.
 
 14.
 15.

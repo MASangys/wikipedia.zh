@@ -1,10 +1,8 @@
 __索引__
 
-Masta Wu（[韓語](../Page/朝鮮語.md "wikilink")：**마스타
-우**，1978年10月25日－），181cm，63kg，信仰為基督教，是韓國男饒舌歌手、鮮明的個性和獨特的說唱風格，並曾為[YG娛樂旗下](../Page/YG娛樂.md "wikilink")。
+Masta Wu（[韓語](../Page/朝鮮語.md "wikilink")：**마스타 우**，1978年10月25日－），181cm，63kg，信仰為基督教，是韓國男饒舌歌手、鮮明的個性和獨特的說唱風格，並曾為[YG娛樂](../Page/YG娛樂.md "wikilink")旗下。
 
-2003透過專輯«Masta
-Peace»出道，\[1\]2016年1月8日離開了[YG娛樂](../Page/YG娛樂.md "wikilink")。
+2003透過專輯«Masta Peace»出道，\[1\]2016年1月8日離開了[YG娛樂](../Page/YG娛樂.md "wikilink")。
 
 ## 音樂作品
 
@@ -16,8 +14,7 @@ Peace»出道，\[1\]2016年1月8日離開了[YG娛樂](../Page/YG娛樂.md "wik
 
 ### 單曲
 
-2014年12月2日«Come Here»(Feat. [Dok2](../Page/Dok2.md "wikilink"),
-[BOBBY](../Page/金知元_\(饒舌者\).md "wikilink"))
+2014年12月2日«Come Here»(Feat. [Dok2](../Page/Dok2.md "wikilink"), [BOBBY](../Page/金知元_\(饒舌者\).md "wikilink"))
 
 2016年10月3日«야마하»(Feat. Red Roc, Okasian)
 
@@ -27,37 +24,29 @@ Peace»出道，\[1\]2016年1月8日離開了[YG娛樂](../Page/YG娛樂.md "wik
 
 2000年 1月 專輯 “2000 대한민국”中的 «Do Da Right One»
 
-2000年 1月 D.O“완전힙합”中的 «투혼» 、«Party\!»、«비틀린 세상(Cold World)»、 «힙합»、«돈이
-Money?»、«King With No Crown»、«흑열가»
+2000年 1月 D.O“완전힙합”中的 «투혼» 、«Party\!»、«비틀린 세상(Cold World)»、 «힙합»、«돈이 Money?»、«King With No Crown»、«흑열가»
 
-2000年 7月 DM“Digital Masta”中的«소년원 Freestyle»、«망가진 청색 호랑이»、«폭풍전야»、«Sky's
-High Cloud Is Low»
+2000年 7月 DM“Digital Masta”中的«소년원 Freestyle»、«망가진 청색 호랑이»、«폭풍전야»、«Sky's High Cloud Is Low»
 
 2001年 2月 [Jinusean](../Page/Jinusean.md "wikilink")“The Reign”中的«힙合»
 
-2001年 8月 Perry“Perry By Storm”中的«Storm»、«Turn It Out»、«Get Ready»、«You
-Know What I Mean»、«Bounce»
+2001年 8月 Perry“Perry By Storm”中的«Storm»、«Turn It Out»、«Get Ready»、«You Know What I Mean»、«Bounce»
 
 2001年 8月 윤희중“Enlightenment”中的«The Lost World»
 
 2002年 1月 [PSY](../Page/PSY.md "wikilink")“싸2”中的«Intro'«싸우나 속으로»
 
-2002年 4月 [輝星](https://zh.wikipedia.org/wiki/輝星 "wikilink")“Like A
-Movie”中的«악몽»
+2002年 4月 [輝星](https://zh.wikipedia.org/wiki/輝星 "wikilink")“Like A Movie”中的«악몽»
 
-2002年 10月 YG Family “Why Be Normal”中的 «멋쟁이 신사»、«Sweet Love»、«Why Be
-Normal?»
+2002年 10月 YG Family “Why Be Normal”中的 «멋쟁이 신사»、«Sweet Love»、«Why Be Normal?»
 
-2003年 7月 [輝星](https://zh.wikipedia.org/wiki/輝星 "wikilink")“It's Real”中的
-«Outro»
+2003年 7月 [輝星](https://zh.wikipedia.org/wiki/輝星 "wikilink")“It's Real”中的 «Outro»
 
 2004年 7月 [SE7EN](../Page/崔東昱.md "wikilink")“Must Listen”中的 «오기»
 
-2004年 9月 [GUMMY](https://zh.wikipedia.org/wiki/GUMMY "wikilink")“It's
-Different”中的 «So Much»
+2004年 9月 [GUMMY](https://zh.wikipedia.org/wiki/GUMMY "wikilink")“It's Different”中的 «So Much»
 
-2004年 10月 [輝星](https://zh.wikipedia.org/wiki/輝星 "wikilink")“For The
-Moment”中的 «불치병»
+2004年 10月 [輝星](https://zh.wikipedia.org/wiki/輝星 "wikilink")“For The Moment”中的 «불치병»
 
 2004年 11月 [Jinusean](../Page/Jinusean.md "wikilink")“노라보세”中的 «미스터 지누션»
 
@@ -67,8 +56,7 @@ Moment”中的 «불치병»
 
 2005年 7月 [PSY](../Page/PSY.md "wikilink")“Remake\&Mix 18번”中的 «Life»
 
-2005年 9月 [GUMMY](https://zh.wikipedia.org/wiki/GUMMY "wikilink") “For
-The Bloom”中的 «실수»
+2005年 9月 [GUMMY](https://zh.wikipedia.org/wiki/GUMMY "wikilink") “For The Bloom”中的 «실수»
 
 2006年 3月 [SE7EN](../Page/崔東昱.md "wikilink") “24/7”中的 «Love Story»
 
@@ -100,13 +88,11 @@ The Bloom”中的 «실수»
 
 2014年11月11日 [HI SUHYUN](../Page/HI秀賢.md "wikilink")《I'm Different》作詞
 
-2014年12月1日 [Dok2](../Page/Dok2.md "wikilink")、[Girl's
-Day](../Page/Girl's_Day.md "wikilink") 素珍《Finale》作詞\[2\]
+2014年12月1日 [Dok2](../Page/Dok2.md "wikilink")、[Girl's Day](../Page/Girl's_Day.md "wikilink") 素珍《Finale》作詞\[2\]
 
 ## 綜藝節目
 
-2014年：[Mnet](../Page/Mnet媒體.md "wikilink")《[Show me the money
-3](../Page/Show_Me_The_Money.md "wikilink")》與TABLO共同擔任評審
+2014年：[Mnet](../Page/Mnet媒體.md "wikilink")《[Show me the money 3](../Page/Show_Me_The_Money.md "wikilink")》與TABLO共同擔任評審
 
 ## 參考文獻
 
@@ -120,13 +106,7 @@ Day](../Page/Girl's_Day.md "wikilink") 素珍《Finale》作詞\[2\]
 
 [NAVER網站人物介紹](http://people.search.naver.com/search.naver?where=nexearch&sm=tab_ppn&query=%EB%A7%88%EC%8A%A4%ED%83%80%EC%9A%B0&os=96478&ie=utf8&key=PeopleService)
 
-[Category:1978年出生](https://zh.wikipedia.org/wiki/Category:1978年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:韩国作曲家](https://zh.wikipedia.org/wiki/Category:韩国作曲家 "wikilink")
-[Category:韓國作詞家](https://zh.wikipedia.org/wiki/Category:韓國作詞家 "wikilink")
-[Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink")
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓國創作歌手](https://zh.wikipedia.org/wiki/Category:韓國創作歌手 "wikilink")
+[Category:1978年出生](https://zh.wikipedia.org/wiki/Category:1978年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:韩国作曲家](https://zh.wikipedia.org/wiki/Category:韩国作曲家 "wikilink") [Category:韓國作詞家](https://zh.wikipedia.org/wiki/Category:韓國作詞家 "wikilink") [Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國創作歌手](https://zh.wikipedia.org/wiki/Category:韓國創作歌手 "wikilink")
 
 1.
 2.

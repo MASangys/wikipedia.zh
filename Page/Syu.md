@@ -1,12 +1,10 @@
-**Syu**（シュウ、1980年9月23日 -
-）日本[視覺系藝人](../Page/視覺系.md "wikilink")。本名不公開。兵庫縣蘆屋市人，目前為[Galneryus](../Page/Galneryus.md "wikilink")、Spinnalcord的成員，擅長作曲。
+**Syu**（シュウ、1980年9月23日 - ）日本[視覺系](../Page/視覺系.md "wikilink")藝人。本名不公開。兵庫縣蘆屋市人，目前為[Galneryus](../Page/Galneryus.md "wikilink")、Spinnalcord的成員，擅長作曲。
 
 ## 經歷
 
 小時候就開始學鋼琴與小提琴\[1\]。
 
-小學四年級時受到[X
-JAPAN的鼓手與吉他手影響](../Page/X_Japan.md "wikilink")，之後決定成為一個專業的吉他手\[2\]。
+小學四年級時受到[X JAPAN的鼓手與吉他手影響](../Page/X_Japan.md "wikilink")，之後決定成為一個專業的吉他手\[2\]。
 
 1998年，加入[視覺系樂團Valkyr](https://zh.wikipedia.org/wiki/視覺系樂團 "wikilink")\[3\]。
 
@@ -59,13 +57,7 @@ JAPAN的鼓手與吉他手影響](../Page/X_Japan.md "wikilink")，之後決定�
 
   -
   -
-[Category:1980年出生](https://zh.wikipedia.org/wiki/Category:1980年出生 "wikilink")
-[Category:視覺系音樂家](https://zh.wikipedia.org/wiki/Category:視覺系音樂家 "wikilink")
-[Category:兵庫縣出身人物](https://zh.wikipedia.org/wiki/Category:兵庫縣出身人物 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:日本吉他手](https://zh.wikipedia.org/wiki/Category:日本吉他手 "wikilink")
-[Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
-[Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink")
+[Category:1980年出生](https://zh.wikipedia.org/wiki/Category:1980年出生 "wikilink") [Category:視覺系音樂家](https://zh.wikipedia.org/wiki/Category:視覺系音樂家 "wikilink") [Category:兵庫縣出身人物](https://zh.wikipedia.org/wiki/Category:兵庫縣出身人物 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:日本吉他手](https://zh.wikipedia.org/wiki/Category:日本吉他手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink")
 
 1.
 2.

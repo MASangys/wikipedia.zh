@@ -2,12 +2,9 @@
 
 ## 節目主持
 
-2016年12月14日，SBS電視台發表聲明，表示[金鍾國和](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")[宋智孝因為分別專注音樂及演藝事業而退出](../Page/宋智孝.md "wikilink")《Running
-Man》節目主持，將會邀請[姜-{zh-cn:虎东;zh-hk:鎬童;zh-tw:鎬童}-及添加新成員接手](../Page/姜鎬童.md "wikilink")\[1\]\[2\]\[3\]。同月15日，製作組表示因為節目重組但未與成員充分溝通而意外地發出報導，向金鍾國、宋智孝和相關成員致歉\[4\]\[5\]，而姜鎬童亦因此事而拒絶出演。最終在隔日召開緊急會議商討節目的未來動向，SBS製作組與節目成員包括被撤銷成員資格的[金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")、[宋智孝決定將於](../Page/宋智孝.md "wikilink")2017年2月底進行最後播放，六位成員將會共同參與節目至結束\[6\]\[7\]。
+2016年12月14日，SBS電視台發表聲明，表示[金鍾國和](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")[宋智孝](../Page/宋智孝.md "wikilink")因為分別專注音樂及演藝事業而退出《Running Man》節目主持，將會邀請[姜-{zh-cn:虎东;zh-hk:鎬童;zh-tw:鎬童}-及添加新成員接手](../Page/姜鎬童.md "wikilink")\[1\]\[2\]\[3\]。同月15日，製作組表示因為節目重組但未與成員充分溝通而意外地發出報導，向金鍾國、宋智孝和相關成員致歉\[4\]\[5\]，而姜鎬童亦因此事而拒絶出演。最終在隔日召開緊急會議商討節目的未來動向，SBS製作組與節目成員包括被撤銷成員資格的[金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")、[宋智孝](../Page/宋智孝.md "wikilink")決定將於2017年2月底進行最後播放，六位成員將會共同參與節目至結束\[6\]\[7\]。
 
-2017年1月24日，SBS綜藝節目《Running Man》方面發布聲明，宣布將繼續製作節目《Running
-Man》，取消停播決定，六位成員將繼續奔跑\[8\]。2017年4月3日，SBS綜藝節目《Running
-Man》方面發布聲明，宣布[全昭旻](../Page/全昭旻.md "wikilink")、[梁世燦](../Page/梁世燦.md "wikilink")\[9\]兩人作為新成員合流節目，於同日開始參與錄影\[10\]。
+2017年1月24日，SBS綜藝節目《Running Man》方面發布聲明，宣布將繼續製作節目《Running Man》，取消停播決定，六位成員將繼續奔跑\[8\]。2017年4月3日，SBS綜藝節目《Running Man》方面發布聲明，宣布[全昭旻](../Page/全昭旻.md "wikilink")、[梁世燦](../Page/梁世燦.md "wikilink")\[9\]兩人作為新成員合流節目，於同日開始參與錄影\[10\]。
 
   - 主持
 
@@ -399,33 +396,26 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 
 ### 2017年Running Man全球企劃 （4月至7月）
 
-  - 該企劃是新增兩位「Running
-    Mate」**[梁世燦](../Page/梁世燦.md "wikilink")**和**[全昭旻](../Page/全昭旻.md "wikilink")**後的特別企劃。
+  - 該企劃是新增兩位「Running Mate」**[梁世燦](../Page/梁世燦.md "wikilink")**和**[全昭旻](../Page/全昭旻.md "wikilink")**後的特別企劃。
 
 #### Global Race（4月至6月）
 
-  - 為全球計劃第一季，成員和嘉賓分組到不同國家及地區執行任務，而每集落敗的人會獲得一張「啊撒觀光券」或懲罰（集數346,
-    349，落敗者可以選擇一人同時獲得「啊撒觀光券」或懲罰），只要成員累計得到三張「啊撒觀光劵」，就可選擇其中一個地方進行「觀光」，參與極端懲罰任務，包括：
-      - [夏威夷](https://zh.wikipedia.org/wiki/夏威夷 "wikilink") — 鯊魚籠（Shark
-        Cage）
+  - 為全球計劃第一季，成員和嘉賓分組到不同國家及地區執行任務，而每集落敗的人會獲得一張「啊撒觀光券」或懲罰（集數346, 349，落敗者可以選擇一人同時獲得「啊撒觀光券」或懲罰），只要成員累計得到三張「啊撒觀光劵」，就可選擇其中一個地方進行「觀光」，參與極端懲罰任務，包括：
+      - [夏威夷](https://zh.wikipedia.org/wiki/夏威夷 "wikilink") — 鯊魚籠（Shark Cage）
 
-      - [達爾文](https://zh.wikipedia.org/wiki/達爾文_\(澳大利亞\) "wikilink") —
-        鱷魚死亡之籠（Cage of Death）
+      - [達爾文](https://zh.wikipedia.org/wiki/達爾文_\(澳大利亞\) "wikilink") — 鱷魚死亡之籠（Cage of Death）
 
       - [托萊多](https://zh.wikipedia.org/wiki/托萊多 "wikilink") — 180米高空飛索
 
-      - [爪哇島](https://zh.wikipedia.org/wiki/爪哇島 "wikilink") —
-        [布羅莫火山行](../Page/布羅莫火山.md "wikilink")
+      - [爪哇島](https://zh.wikipedia.org/wiki/爪哇島 "wikilink") — [布羅莫火山](../Page/布羅莫火山.md "wikilink")行
 
-      - **[東京](https://zh.wikipedia.org/wiki/東京 "wikilink") —
-        [富士急高原樂園戰慄迷宮](../Page/富士急高原樂園.md "wikilink")（最終選定）**
+      - **[東京](https://zh.wikipedia.org/wiki/東京 "wikilink") — [富士急高原樂園](../Page/富士急高原樂園.md "wikilink")戰慄迷宮（最終選定）**
 
       - [皇后鎮](https://zh.wikipedia.org/wiki/皇后鎮 "wikilink") — 160米峽谷鞦韆（）
 
       - [阿基拉斯](../Page/阿基拉斯_\(巴西\).md "wikilink") —
 
-      - [新澤西州](https://zh.wikipedia.org/wiki/新澤西州 "wikilink") — 自由落體 ()
-        (由宋智孝追加，於播出時誤報設施名字及地點，後於半半旅行更正)
+      - [新澤西州](https://zh.wikipedia.org/wiki/新澤西州 "wikilink") — 自由落體 () (由宋智孝追加，於播出時誤報設施名字及地點，後於半半旅行更正)
 
 <span style="color:red;">紅色</span>表示該成員需進行懲罰：
 
@@ -746,14 +736,10 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 
 #### 國民推薦計畫 － 1%的某個地方<small>(1%의 어떤 곳)</small>（6月至7月）
 
-  - 為全球計劃第二季，成員和嘉賓分組到不同國家及地區執行任務，而每集獲勝的人會擲骰或指定至少一人獲得一張「 I
-    Go觀光券」或懲罰，只要成員累計得到三張「 I
-    Go觀光券」，就可選擇與另一位成員，一起到其中一個地方進行「觀光」，參與極端任務（任務有好有壞），包括：
-      - [巴黎](../Page/巴黎.md "wikilink") —
-        [地下墓穴](../Page/巴黎地下墓穴.md "wikilink")
+  - 為全球計劃第二季，成員和嘉賓分組到不同國家及地區執行任務，而每集獲勝的人會擲骰或指定至少一人獲得一張「 I Go觀光券」或懲罰，只要成員累計得到三張「 I Go觀光券」，就可選擇與另一位成員，一起到其中一個地方進行「觀光」，參與極端任務（任務有好有壞），包括：
+      - [巴黎](../Page/巴黎.md "wikilink") — [地下墓穴](../Page/巴黎地下墓穴.md "wikilink")
 
-      - **[科羅拉多州](../Page/科羅拉多州.md "wikilink") — （Giant Canyon
-        Swing）（最終選定）**
+      - **[科羅拉多州](../Page/科羅拉多州.md "wikilink") — （Giant Canyon Swing）（最終選定）**
 
       - — [溜索](https://zh.wikipedia.org/wiki/溜索 "wikilink")
 
@@ -847,7 +833,7 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 <span style="color:#FF8C00"><strong>惠成隊</strong></span>：鄭惠成、金鐘國、李光洙</p></td>
 <td><p>收集最多1%印章</p></td>
 <td><p><a href="../Page/劉在錫.md" title="wikilink">劉在錫</a><strong>勝出</strong><br />
-擲骰後決定由<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a>、<a href="../Page/全昭旻.md" title="wikilink">全昭旻各獲得一張</a> I Go觀光券[27]</p></td>
+擲骰後決定由<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a>、<a href="../Page/全昭旻.md" title="wikilink">全昭旻</a>各獲得一張 I Go觀光券[27]</p></td>
 <td><p>劉在錫 0<br />
 池錫辰 0<br />
 金鐘國 0<br />
@@ -949,7 +935,7 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 <strong><span style=color:#0000FF>保安</span></strong><br />
 淘汰所有小偷</p></td>
 <td><p><a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a><strong>勝出</strong><br />
-劉在錫、金鐘國決定由池錫辰、<a href="../Page/全昭旻.md" title="wikilink">全昭旻各獲得一張I</a> Go觀光券</p></td>
+劉在錫、金鐘國決定由池錫辰、<a href="../Page/全昭旻.md" title="wikilink">全昭旻</a>各獲得一張I Go觀光券</p></td>
 <td><p>劉在錫 0<br />
 <span style="color:red;">池錫辰 2</span><br />
 金鐘國 0<br />
@@ -974,7 +960,7 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 劉在錫、金鐘國、宋智孝、李光洙、梁世燦</p></td>
 <td><p>與較少咣Man同一隊</p></td>
 <td><p><a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、<a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a>、<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a><strong>勝出</strong><br />
-<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a>、<a href="../Page/全昭旻.md" title="wikilink">全昭旻各獲得一張I</a> Go觀光券</p></td>
+<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a>、<a href="../Page/全昭旻.md" title="wikilink">全昭旻</a>各獲得一張I Go觀光券</p></td>
 <td><p>劉在錫 0<br />
 池錫辰 2<br />
 金鐘國 0<br />
@@ -1080,8 +1066,7 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 
 ### 常規節目－2017 夏日特輯三部曲（8月）
 
-Running Man 2017年夏季特別企劃，一共三集，Running
-Man成員與嘉賓進行一系列任務並爭取在競賽中獲勝，而任務內容會圍繞跟夏季有關的主題。
+Running Man 2017年夏季特別企劃，一共三集，Running Man成員與嘉賓進行一系列任務並爭取在競賽中獲勝，而任務內容會圍繞跟夏季有關的主題。
 
 <table style="width:10%;">
 <colgroup>
@@ -1465,8 +1450,7 @@ vs<br />
 
 #### 續・國民推薦計劃 － 1%的某個地方（9月至10月）
 
-  - 為國民推薦計劃 － 1%的某個地方中的懲罰部分（第一部分），由該其中一位累計得到三張「 I
-    Go觀光券」的成員，和他們所選擇與另一位成員，到指定地方進行「觀光」，參與極端任務。
+  - 為國民推薦計劃 － 1%的某個地方中的懲罰部分（第一部分），由該其中一位累計得到三張「 I Go觀光券」的成員，和他們所選擇與另一位成員，到指定地方進行「觀光」，參與極端任務。
 
 <table style="width:10%;">
 <colgroup>
@@ -1562,8 +1546,7 @@ Cheongpung Land<br />
 
 #### 續 · 累積企劃 － 半半旅行（10月）
 
-  - 由累積企劃 －
-    半半旅行中的當選人可以透過這次比賽來選擇一同接受懲罰的成員，勝出可以選擇二位成員一同接受懲罰，否則該位勝出的成員可以獲得陪同觀光懲罰豁免權，而當選人只可以選擇一位成員一同接受懲罰。
+  - 由累積企劃 － 半半旅行中的當選人可以透過這次比賽來選擇一同接受懲罰的成員，勝出可以選擇二位成員一同接受懲罰，否則該位勝出的成員可以獲得陪同觀光懲罰豁免權，而當選人只可以選擇一位成員一同接受懲罰。
 
 <table style="width:10%;">
 <colgroup>
@@ -1710,7 +1693,7 @@ Cheongpung Land<br />
 </tr>
 <tr class="even">
 <td><p>無嘉賓</p></td>
-<td><p><a href="../Page/仁川亞運主體育場.md" title="wikilink">仁川亞運主體育場外</a><br />
+<td><p><a href="../Page/仁川亞運主體育場.md" title="wikilink">仁川亞運主體育場</a>外<br />
 <small>（<a href="../Page/仁川廣域市.md" title="wikilink">仁川廣域市</a><br />
 <a href="../Page/西區_(仁川).md" title="wikilink">西區</a>）</small></p></td>
 <td><p><span style="font-size:110%"><strong>神秘秋日回憶旅行</strong></span><br />
@@ -1777,20 +1760,17 @@ Cheongpung Land<br />
 </tbody>
 </table>
 
-  - 10月30日，、、[鄭尚勳](../Page/鄭尚勳.md "wikilink")、[李宥英原定於](../Page/李宥英.md "wikilink")[釜山進行拍攝](https://zh.wikipedia.org/wiki/釜山 "wikilink")，但後來因[李宥英男友](../Page/李宥英.md "wikilink")、演員[金柱赫突然意外逝世](../Page/金柱赫.md "wikilink")，需要前往[首爾辦理金柱赫的身後事](../Page/首爾.md "wikilink")，因而取消所有當日餘下的拍攝\[34\]，而該集錄製內容製作組並未公開。
+  - 10月30日，、、[鄭尚勳](../Page/鄭尚勳.md "wikilink")、[李宥英](../Page/李宥英.md "wikilink")原定於[釜山進行拍攝](https://zh.wikipedia.org/wiki/釜山 "wikilink")，但後來因[李宥英](../Page/李宥英.md "wikilink")男友、演員[金柱赫](../Page/金柱赫.md "wikilink")突然意外逝世，需要前往[首爾](../Page/首爾.md "wikilink")辦理金柱赫的身後事，因而取消所有當日餘下的拍攝\[34\]，而該集錄製內容製作組並未公開。
 
 ### 續・2017年Running Man全球企劃 （11月至12月）
 
 #### 續・國民推薦計劃 － 1%的某個地方&續 · 累積企劃 － 半半旅行（11月至12月）
 
-  - 為國民推薦計劃 － 1%的某個地方中的懲罰部分（第二部分）&累積企劃 －
-    半半旅行的懲罰部分，由該比賽中被抽中的成員，和他所選擇與另一位成員，到被選出地點進行觀光。
+  - 為國民推薦計劃 － 1%的某個地方中的懲罰部分（第二部分）&累積企劃 － 半半旅行的懲罰部分，由該比賽中被抽中的成員，和他所選擇與另一位成員，到被選出地點進行觀光。
   - 國民推薦計劃 － 1%的某個地方中的懲罰部分（第二部分）
-      - 哈哈、梁世燦 — [皇后鎮](https://zh.wikipedia.org/wiki/皇后鎮 "wikilink") —
-        160米峽谷鞦韆（）\[35\]
+      - 哈哈、梁世燦 — [皇后鎮](https://zh.wikipedia.org/wiki/皇后鎮 "wikilink") — 160米峽谷鞦韆（）\[35\]
   - 累積企劃 － 半半旅行的懲罰部分
-      - 劉在錫、李光洙 — [達爾文](../Page/达尔文_\(澳大利亚\).md "wikilink") —
-        鱷魚死亡之籠（Cage of Death）
+      - 劉在錫、李光洙 — [達爾文](../Page/达尔文_\(澳大利亚\).md "wikilink") — 鱷魚死亡之籠（Cage of Death）
   - 毎組到不同地方執行懲罰任務期間，成員可以利用機會券改變整個任務的進展，會在懲罰前後或期間懲罰各抽一次（成員可以決定不使用機會券），機會券有好有壞，抽到好的機會券可以割免部份懲罰或獲得額外獎勵，而抽到壞的機會券可能會増加額外懲罰或增加毋順接受懲罰的成員一同接受懲罰。
 
 <table style="width:10%;">
@@ -1925,7 +1905,7 @@ b. 餵飼鱷魚期間完成合照 新西蘭隊：<br />
 <strong>歹徒隊</strong><br />
 金鐘國、崔貴華<br />
 <strong>刑警</strong><br />
-劉在錫<br />
+劉在錫、崔貴華<br />
 <strong>證人</strong><br />
 許成泰<br />
 <strong>平民隊</strong><br />
@@ -2065,7 +2045,7 @@ b. 餵飼鱷魚期間完成合照 新西蘭隊：<br />
 <td><p>8.2%</p></td>
 </tr>
 <tr class="even">
-<td><p>因直播<a href="../Page/朴槿惠.md" title="wikilink">朴槿惠搬離</a><a href="../Page/青瓦台.md" title="wikilink">青瓦台</a>，節目停播一週。</p></td>
+<td><p>因直播<a href="../Page/朴槿惠.md" title="wikilink">朴槿惠</a>搬離<a href="../Page/青瓦台.md" title="wikilink">青瓦台</a>，節目停播一週。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2580,9 +2560,7 @@ b. 餵飼鱷魚期間完成合照 新西蘭隊：<br />
   -
   -
   -
-[Category:Running_Man](https://zh.wikipedia.org/wiki/Category:Running_Man "wikilink")
-[Category:韓國電視節目各集列表](https://zh.wikipedia.org/wiki/Category:韓國電視節目各集列表 "wikilink")
-[Category:2017年電視節目列表](https://zh.wikipedia.org/wiki/Category:2017年電視節目列表 "wikilink")
+[Category:Running_Man](https://zh.wikipedia.org/wiki/Category:Running_Man "wikilink") [Category:韓國電視節目各集列表](https://zh.wikipedia.org/wiki/Category:韓國電視節目各集列表 "wikilink") [Category:2017年電視節目列表](https://zh.wikipedia.org/wiki/Category:2017年電視節目列表 "wikilink")
 
 1.
 2.
@@ -2592,29 +2570,27 @@ b. 餵飼鱷魚期間完成合照 新西蘭隊：<br />
 6.
 7.
 8.
-9.  양세찬：梁世燦本人在2016年7月31日播出的《[喜劇大聯盟](../Page/喜劇大聯盟.md "wikilink")》自我介紹：我是**梁世燦**，南原梁氏、世界的世、燦爛的燦［남원
-    양(梁), 세상 세(世), 빛날 찬(燦)］
+9.  양세찬：梁世燦本人在2016年7月31日播出的《[喜劇大聯盟](../Page/喜劇大聯盟.md "wikilink")》自我介紹：我是**梁世燦**，南原梁氏、世界的世、燦爛的燦［남원 양(梁), 세상 세(世), 빛날 찬(燦)］
 10.
 11.
 12. 本集以主持人身份出演，朴成俊（曆術家）、李允貞（塔羅牌大師）、朴成日（韓醫學博士）特別出演。
 13. 金鐘明（金鐘國哥哥）特別出演。
 14. 柳秀晶（池錫辰妻子）特別出演。
 15. 特別出演。
-16. [Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")、[Seulgi](../Page/瑟琪.md "wikilink")、[Wendy](../Page/Wendy_\(Red_Velvet\).md "wikilink")、[Yeri](../Page/Yeri.md "wikilink")（[Red
-    Velvet](../Page/Red_Velvet.md "wikilink")）特別出演。
-17. [劉在錫於本集以主持身份出演](../Page/劉在錫.md "wikilink")。
+16. [Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")、[Seulgi](../Page/瑟琪.md "wikilink")、[Wendy](../Page/Wendy_\(Red_Velvet\).md "wikilink")、[Yeri](../Page/Yeri.md "wikilink")（[Red Velvet](../Page/Red_Velvet.md "wikilink")）特別出演。
+17. [劉在錫](../Page/劉在錫.md "wikilink")於本集以主持身份出演。
 18. [朴寶英驚喜聲演](https://zh.wikipedia.org/wiki/朴寶英 "wikilink")。
 19. 朴成俊（曆術家）特別出演。
 20. 《星期天真好》時段於本集播出後取消。
-21. [洪錫天](https://zh.wikipedia.org/wiki/洪錫天 "wikilink")、[千成文](../Page/千成文.md "wikilink")（宋智孝弟弟）、、、[朴正民](../Page/朴正民.md "wikilink")、[車太鉉特別出演](../Page/車太鉉.md "wikilink")；[李棟旭](../Page/李棟旭.md "wikilink")、李宗浩（李光洙爸爸）、[趙寅成](../Page/趙寅成.md "wikilink")、[宋仲基特別聲演](../Page/宋仲基.md "wikilink")；[孫賢周](../Page/孫賢周.md "wikilink")、[朴寶劍驚喜出演](../Page/朴寶劍.md "wikilink")。
+21. [洪錫天](https://zh.wikipedia.org/wiki/洪錫天 "wikilink")、[千成文](../Page/千成文.md "wikilink")（宋智孝弟弟）、、、[朴正民](../Page/朴正民.md "wikilink")、[車太鉉](../Page/車太鉉.md "wikilink")特別出演；[李棟旭](../Page/李棟旭.md "wikilink")、李宗浩（李光洙爸爸）、[趙寅成](../Page/趙寅成.md "wikilink")、[宋仲基](../Page/宋仲基.md "wikilink")特別聲演；[孫賢周](../Page/孫賢周.md "wikilink")、[朴寶劍](../Page/朴寶劍.md "wikilink")驚喜出演。
 22. 宣傳電影《》。
-    本集尾段提前播放下集，播放[全昭旻和](../Page/全昭旻.md "wikilink")[梁世燦介紹片段](../Page/梁世燦.md "wikilink")。[梁世炯驚喜出演](../Page/梁世炯.md "wikilink")。
-23. 本集為[全昭旻和](../Page/全昭旻.md "wikilink")[梁世燦開始以成員身份正式參與錄影](../Page/梁世燦.md "wikilink")。
-24. [李瑞鎮同在](../Page/李瑞鎮.md "wikilink")[仁川國際機場驚喜出現](../Page/仁川國際機場.md "wikilink")。
-25. [梁世炯驚喜出演](../Page/梁世炯.md "wikilink")，[李燦赫驚喜聲演](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")。
+    本集尾段提前播放下集，播放[全昭旻](../Page/全昭旻.md "wikilink")和[梁世燦](../Page/梁世燦.md "wikilink")介紹片段。[梁世炯](../Page/梁世炯.md "wikilink")驚喜出演。
+23. 本集為[全昭旻](../Page/全昭旻.md "wikilink")和[梁世燦](../Page/梁世燦.md "wikilink")開始以成員身份正式參與錄影。
+24. [李瑞鎮](../Page/李瑞鎮.md "wikilink")同在[仁川國際機場](../Page/仁川國際機場.md "wikilink")驚喜出現。
+25. [梁世炯](../Page/梁世炯.md "wikilink")驚喜出演，[李燦赫驚喜聲演](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")。
 26. **戰慄迷宮 D-DAY**僅劉在錫、池錫辰、李光洙、全昭旻及梁世燦前往
 27. 特別出演。
-28. [梁世炯驚喜出現](../Page/梁世炯.md "wikilink")。
+28. [梁世炯](../Page/梁世炯.md "wikilink")驚喜出現。
 29. 宣傳電影《[青年警察](../Page/青年警察.md "wikilink")》。
 30. 劉在錫和池錫辰於本集分別以女性角色「Janny」和「錫子」身份參與錄影。
 31. [金淑](../Page/金淑.md "wikilink")、[吳智昊](../Page/吳智昊.md "wikilink")、[朴娜萊](https://zh.wikipedia.org/wiki/朴娜萊_\(喜劇演員\) "wikilink")、[鄭恩地](../Page/鄭恩地.md "wikilink")([Apink](../Page/Apink.md "wikilink"))特別出演。
@@ -2625,8 +2601,6 @@ b. 餵飼鱷魚期間完成合照 新西蘭隊：<br />
 36. 本集拍攝是10月30日的重拍，而原定嘉賓鄭尚勳及李宥英分別改由李相燁及高甫潔頂上。
 37. 宣傳[2018冬季奧運會](https://zh.wikipedia.org/wiki/2018年冬季奧林匹克運動會 "wikilink")。
 38. [TNmS 收視數據表](http://www.tnms.tv/rating/default.asp)
-39. [AGB Nielsen Media Research
-    收視數據表](http://www.nielsenkorea.co.kr/tv_terrestrial_day.asp?menu=Tit_1&sub_menu=1_1&area=00)
-
+39. [AGB Nielsen Media Research 收視數據表](http://www.nielsenkorea.co.kr/tv_terrestrial_day.asp?menu=Tit_1&sub_menu=1_1&area=00)
 40. 節目由本集起分為上下兩部分播出。
 41. 由於SBS播放聖誕電影，本集播放時間順延至韓國時間17：20播出

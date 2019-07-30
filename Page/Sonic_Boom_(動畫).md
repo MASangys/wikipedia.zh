@@ -1,9 +1,9 @@
-\[1\]是基于[刺猬索尼克系列延伸出来的](../Page/刺猬索尼克系列.md "wikilink")，由[世嘉](../Page/世嘉.md "wikilink")、制作的[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")。也是繼《[音速小子X](../Page/音速小子X.md "wikilink")》之後的一部以[刺蝟索尼克為主要角色的電視動畫](https://zh.wikipedia.org/wiki/刺蝟索尼克 "wikilink")。第1季于2014年11月8日开始播出，于2015年11月14日完结。2016年，SEGA宣布了推出第2季的消息。第2季于2016年10月29日开始播出，并于2017年11月11日完结。
+\[1\]是基于[刺猬索尼克系列](../Page/刺猬索尼克系列.md "wikilink")延伸出来的，由[世嘉](../Page/世嘉.md "wikilink")、制作的[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")。也是繼《[音速小子X](../Page/音速小子X.md "wikilink")》之後的一部以[刺蝟索尼克為主要角色的電視動畫](https://zh.wikipedia.org/wiki/刺蝟索尼克 "wikilink")。第1季于2014年11月8日开始播出，于2015年11月14日完结。2016年，SEGA宣布了推出第2季的消息。第2季于2016年10月29日开始播出，并于2017年11月11日完结。
 本動畫目前共兩季，每季各52集，各集約11分鐘。
 
 ## 故事情节
 
-故事設定在一個無比遼闊的海邊小島裡，其中有不少居民生活在一個無名的村子裡。在這個龐大的小島裡，有叢林，高山，海底文明，小鎮和其他各種各樣的區域。住在這座小島上是[索尼克和他的朋友們](https://zh.wikipedia.org/wiki/刺蝟索尼克 "wikilink")：[塔爾斯](https://zh.wikipedia.org/wiki/塔爾斯 "wikilink")、[纳克鲁斯](../Page/纳克鲁斯.md "wikilink")、[艾咪蘿絲和](https://zh.wikipedia.org/wiki/艾咪蘿絲 "wikilink")[斯迪克斯](https://zh.wikipedia.org/wiki/斯迪克斯 "wikilink")，與大反派[艾格曼博士和他的手下鬥智斗勇的故事](../Page/艾格曼博士.md "wikilink")。同時，他們還將面臨威力強大的機械怪物等新敵人們的挑戰。
+故事設定在一個無比遼闊的海邊小島裡，其中有不少居民生活在一個無名的村子裡。在這個龐大的小島裡，有叢林，高山，海底文明，小鎮和其他各種各樣的區域。住在這座小島上是[索尼克和他的朋友們](https://zh.wikipedia.org/wiki/刺蝟索尼克 "wikilink")：[塔爾斯](https://zh.wikipedia.org/wiki/塔爾斯 "wikilink")、[纳克鲁斯](../Page/纳克鲁斯.md "wikilink")、[艾咪蘿絲和](https://zh.wikipedia.org/wiki/艾咪蘿絲 "wikilink")[斯迪克斯](https://zh.wikipedia.org/wiki/斯迪克斯 "wikilink")，與大反派[艾格曼博士](../Page/艾格曼博士.md "wikilink")和他的手下鬥智斗勇的故事。同時，他們還將面臨威力強大的機械怪物等新敵人們的挑戰。
 
 ## 登场人物
 
@@ -624,12 +624,9 @@
 
 ## 外部链接
 
-  - [電視動畫「Sonic
-    Boom」法文介紹頁面](https://www.technicoloranimationproductions.com/fr/production.php?prodid=6)
-  - [電視動畫「Sonic
-    Boom」英文介紹頁面](https://www.technicoloranimationproductions.com/en/production.php?prodid=6)
+  - [電視動畫「Sonic Boom」法文介紹頁面](https://www.technicoloranimationproductions.com/fr/production.php?prodid=6)
+  - [電視動畫「Sonic Boom」英文介紹頁面](https://www.technicoloranimationproductions.com/en/production.php?prodid=6)
 
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
-[Category:刺猬索尼克系列](https://zh.wikipedia.org/wiki/Category:刺猬索尼克系列 "wikilink")
+[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:刺猬索尼克系列](https://zh.wikipedia.org/wiki/Category:刺猬索尼克系列 "wikilink")
 
 1.

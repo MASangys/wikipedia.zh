@@ -1,8 +1,6 @@
-**仙王座 OB1**是環繞著[NGC
-7380的一個](../Page/NGC_7380.md "wikilink")[OB星協](https://zh.wikipedia.org/wiki/OB星協 "wikilink")。它位於[仙王座](../Page/仙王座.md "wikilink")，距離地球大約1,600秒差距。
+**仙王座 OB1**是環繞著[NGC 7380的一個](../Page/NGC_7380.md "wikilink")[OB星協](https://zh.wikipedia.org/wiki/OB星協 "wikilink")。它位於[仙王座](../Page/仙王座.md "wikilink")，距離地球大約1,600秒差距。
 
-仙王座 OB1擁有數打O和B型的恆星，但其中最亮的卻是低溫的超巨星，例如[HR
-8752和](../Page/仙后座V509.md "wikilink")[仙王座RW](../Page/仙王座RW.md "wikilink")\[1\]。
+仙王座 OB1擁有數打O和B型的恆星，但其中最亮的卻是低溫的超巨星，例如[HR 8752和](../Page/仙后座V509.md "wikilink")[仙王座RW](../Page/仙王座RW.md "wikilink")\[1\]。
 
 <table>
 <caption>著名的恆星</caption>
@@ -58,8 +56,6 @@
 
   - [Cepheus OB1](http://galaxymap.org/drupal/node/106)
 
-[Category:星協](https://zh.wikipedia.org/wiki/Category:星協 "wikilink")
-[Category:仙王座](https://zh.wikipedia.org/wiki/Category:仙王座 "wikilink")
-[Category:恆星形成區](https://zh.wikipedia.org/wiki/Category:恆星形成區 "wikilink")
+[Category:星協](https://zh.wikipedia.org/wiki/Category:星協 "wikilink") [Category:仙王座](https://zh.wikipedia.org/wiki/Category:仙王座 "wikilink") [Category:恆星形成區](https://zh.wikipedia.org/wiki/Category:恆星形成區 "wikilink")
 
 1.

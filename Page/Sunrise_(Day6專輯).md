@@ -1,35 +1,20 @@
-《**Sunrise**》是韓國樂團[DAY6的首張正規專輯](../Page/DAY6.md "wikilink")，由[JYP娛樂企劃](../Page/JYP娛樂.md "wikilink")，於2017年6月7日發行\[1\]，主打曲為〈I
-Smile〉（）。
+《**Sunrise**》是韓國樂團[DAY6](../Page/DAY6.md "wikilink")的首張正規專輯，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")企劃，於2017年6月7日發行\[1\]，主打曲為〈I Smile〉（）。
 
 ## 背景與發行
 
-2016年年底，經紀公司JYP娛樂宣布2017年年度計畫「Every
-Day6」，預告樂團DAY6將於每個月發行單曲及舉行演唱會\[2\]。一至五月共發行5張單曲，每張單曲均收錄兩首歌曲。5月30日，公開首張正規專輯《Sunrise》預告，透露專輯將於6月7日發行。\[3\]
+2016年年底，經紀公司JYP娛樂宣布2017年年度計畫「Every Day6」，預告樂團DAY6將於每個月發行單曲及舉行演唱會\[2\]。一至五月共發行5張單曲，每張單曲均收錄兩首歌曲。5月30日，公開首張正規專輯《Sunrise》預告，透露專輯將於6月7日發行。\[3\]
 
 ## 詞曲
 
-專輯除兩首新歌外，另外收錄年度計畫「Every Day6」一月至五月發行之歌曲、〈[放手 放手
-放手](../Page/Daydream.md "wikilink")〉重製版及出道主打曲〈[Congratulations](../Page/The_Day_\(DAY6迷你專輯\).md "wikilink")〉最終版本，一共14首歌曲\[4\]\[5\]。專輯名稱「Sunrise」意為「日出」，如同太陽升起時是一天開始，有著「從現在開始」的意涵，希望DAY6的音樂之路順利開始的抱負。\[6\]
+專輯除兩首新歌外，另外收錄年度計畫「Every Day6」一月至五月發行之歌曲、〈[放手 放手 放手](../Page/Daydream.md "wikilink")〉重製版及出道主打曲〈[Congratulations](../Page/The_Day_\(DAY6迷你專輯\).md "wikilink")〉最終版本，一共14首歌曲\[4\]\[5\]。專輯名稱「Sunrise」意為「日出」，如同太陽升起時是一天開始，有著「從現在開始」的意涵，希望DAY6的音樂之路順利開始的抱負。\[6\]
 
-DAY6參與全碟創作，其中貝斯手[Young
-K參與全部作詞](https://zh.wikipedia.org/wiki/Young_K "wikilink")。第一首歌曲〈Lean
-On Me〉是送給因為暗戀而身心俱疲的朋友們的療傷之歌。第二首歌曲〈I Smile〉描述面對分手的戀人，仍忍住痛苦露出笑容的無奈情感。
+DAY6參與全碟創作，其中貝斯手[Young K參與全部作詞](https://zh.wikipedia.org/wiki/Young_K "wikilink")。第一首歌曲〈Lean On Me〉是送給因為暗戀而身心俱疲的朋友們的療傷之歌。第二首歌曲〈I Smile〉描述面對分手的戀人，仍忍住痛苦露出笑容的無奈情感。
 
-第三首歌曲〈Man In A
-Movie〉描寫與愛人在一起時，自己如同電影男主角的心境故事，歌曲以[六八音符為基調加入現代搖滾](../Page/拍號.md "wikilink")、混音及管絃樂等元素\[7\]。第四首歌曲〈I
-Wait〉描述男子對於女人曖昧的態度感到吃力困惑的心情。第五首歌曲〈How Can I
-Say〉描述心已冷卻的男人不知如何向仍愛著自己的女人表達的心情，透過歌詞表達焦慮與抱歉的情緒，是繼〈Letting
-Go〉後錄音與後製次數最多的歌曲。
+第三首歌曲〈Man In A Movie〉描寫與愛人在一起時，自己如同電影男主角的心境故事，歌曲以[六八音符為基調加入現代搖滾](../Page/拍號.md "wikilink")、混音及管絃樂等元素\[7\]。第四首歌曲〈I Wait〉描述男子對於女人曖昧的態度感到吃力困惑的心情。第五首歌曲〈How Can I Say〉描述心已冷卻的男人不知如何向仍愛著自己的女人表達的心情，透過歌詞表達焦慮與抱歉的情緒，是繼〈Letting Go〉後錄音與後製次數最多的歌曲。
 
-第六首歌曲〈Letting
-Go〉在處理歌曲過門（Bridge）部份，準備了饒舌與無饒舌的兩種版本，饒舌版本作為《[Daydream](../Page/Daydream.md "wikilink")》主打歌發行；為了顯現流行搖滾的色彩，以更強烈的吉他聲音與搖滾元素處理編曲及，無饒舌的重製版本則收錄於本張專輯中。第七首歌曲〈I
-Would〉對於無法抓住而結束的愛情表達遺憾。第八首歌曲〈Goodbye Winter〉融合悲傷的人聲與傷心感性。第九首歌曲〈I'm
-Serious〉描述暗戀對象不明白自己感情，同時自己也無處表現的鬱悶心情。第十首歌曲〈Say Wow〉描述一見鍾情的情緒。
+第六首歌曲〈Letting Go〉在處理歌曲過門（Bridge）部份，準備了饒舌與無饒舌的兩種版本，饒舌版本作為《[Daydream](../Page/Daydream.md "wikilink")》主打歌發行；為了顯現流行搖滾的色彩，以更強烈的吉他聲音與搖滾元素處理編曲及，無饒舌的重製版本則收錄於本張專輯中。第七首歌曲〈I Would〉對於無法抓住而結束的愛情表達遺憾。第八首歌曲〈Goodbye Winter〉融合悲傷的人聲與傷心感性。第九首歌曲〈I'm Serious〉描述暗戀對象不明白自己感情，同時自己也無處表現的鬱悶心情。第十首歌曲〈Say Wow〉描述一見鍾情的情緒。
 
-第十一首〈Dance Dance〉非描述愛情故事，而是以自由奔放為主的歌曲，充滿輕快與能量。第十二首歌曲 〈My
-Day〉透過歌詞描述「你填滿我每一天」的熱情。第十三首歌曲 〈You Were
-Beautiful〉描述分手後的男人回想和戀人在一起的所有瞬間「你都很美」的心情\[8\]。鍵盤手元弼認為〈You Were
-Beautiful〉是一首能凸顯樂團成員聲音特色的歌曲。
+第十一首〈Dance Dance〉非描述愛情故事，而是以自由奔放為主的歌曲，充滿輕快與能量。第十二首歌曲 〈My Day〉透過歌詞描述「你填滿我每一天」的熱情。第十三首歌曲 〈You Were Beautiful〉描述分手後的男人回想和戀人在一起的所有瞬間「你都很美」的心情\[8\]。鍵盤手元弼認為〈You Were Beautiful〉是一首能凸顯樂團成員聲音特色的歌曲。
 
 ## 專業評分
 
@@ -58,8 +43,7 @@ Beautiful〉是一首能凸顯樂團成員聲音特色的歌曲。
 
 ## 商業成績
 
-《Sunrise》發行後於[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[瑞典等](../Page/瑞典.md "wikilink")9個國家[iTunes專輯榜上登上冠軍](https://zh.wikipedia.org/wiki/iTunes "wikilink")，主打曲〈I
-Smile〉也在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[澳洲等](https://zh.wikipedia.org/wiki/澳洲 "wikilink")11個國家韓國流行音樂榜登上一位。\[10\]\[11\]
+《Sunrise》發行後於[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[瑞典](../Page/瑞典.md "wikilink")等9個國家[iTunes專輯榜上登上冠軍](https://zh.wikipedia.org/wiki/iTunes "wikilink")，主打曲〈I Smile〉也在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[澳洲等](https://zh.wikipedia.org/wiki/澳洲 "wikilink")11個國家韓國流行音樂榜登上一位。\[10\]\[11\]
 
 銷售量部分，在韓國以28,999張成績登上2017年上半年榜第51位\[12\]，截至2017年年底售出約39,225張\[13\]。在臺灣，首週以3.32%銷售比例登上日韓榜第4名\[14\]，共連續在榜4週。\[15\]
 
@@ -213,9 +197,7 @@ Smile〉也在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[澳�
 
   - [官網中《Sunrise》資訊](http://day6.jype.com/discography.asp?idx=8&page=)
 
-[Category:DAY6音樂專輯](https://zh.wikipedia.org/wiki/Category:DAY6音樂專輯 "wikilink")
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:DAY6音樂專輯](https://zh.wikipedia.org/wiki/Category:DAY6音樂專輯 "wikilink") [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

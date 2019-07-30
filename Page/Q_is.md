@@ -1,29 +1,20 @@
-**《Q
-is.》**是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NU'EST第四張韓語迷你專輯](../Page/NU'EST.md "wikilink")，於2016年2月17日發行，主打歌曲為〈Overcome〉。
+**《Q is.》**是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NU'EST](../Page/NU'EST.md "wikilink")第四張韓語迷你專輯，於2016年2月17日發行，主打歌曲為〈Overcome〉。
 
 ## 背景
 
-2016年1月25日，[PLEDIS](../Page/Pledis娛樂.md "wikilink") 在官方 Instagram 寫下
-\#PLEDIS_2016_1st \#NUEST，並且分享一張在攝影棚拍攝的照片，暗示著 NU'EST 將會是PLEDIS
-旗下第一組在2016年回歸的組合。\[1\]
+2016年1月25日，[PLEDIS](../Page/Pledis娛樂.md "wikilink") 在官方 Instagram 寫下 \#PLEDIS_2016_1st \#NUEST，並且分享一張在攝影棚拍攝的照片，暗示著 NU'EST 將會是PLEDIS 旗下第一組在2016年回歸的組合。\[1\]
 
-2月5日，NU'EST正式公佈發行新作品的消息，同日公開成員概念照片\[2\]，隔天發放團體概念照。\[3\]
-2月13日，在官方Youtube頻道發放專輯預告，並在官方推特也釋出了 MV 拍攝花絮照。\[4\]
+2月5日，NU'EST正式公佈發行新作品的消息，同日公開成員概念照片\[2\]，隔天發放團體概念照。\[3\] 2月13日，在官方Youtube頻道發放專輯預告，並在官方推特也釋出了 MV 拍攝花絮照。\[4\]
 
 2月17日隨專輯音源公開完整音樂錄影帶\[5\]，隔天也在首爾YES24 MUV HALL舉行專輯發佈音樂會\[6\]。
 
-2017年，[JR](https://zh.wikipedia.org/wiki/金鐘炫 "wikilink")、[白虎](../Page/姜東昊.md "wikilink")、[旼炫](https://zh.wikipedia.org/wiki/旼炫 "wikilink")、[Ren參加](https://zh.wikipedia.org/wiki/Ren "wikilink")《[PRODUCE
-101
-第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，四人在舞台上出色的表現讓觀眾眼前一亮\[7\]，使NU'EST所有發行過的專輯包括《Q
-is》自五月在韓國HANTEO榜、Aladdin和Yes24等多個銷量排行榜持續逆行\[8\]。
+2017年，[JR](https://zh.wikipedia.org/wiki/金鐘炫 "wikilink")、[白虎](../Page/姜東昊.md "wikilink")、[旼炫](https://zh.wikipedia.org/wiki/旼炫 "wikilink")、[Ren參加](https://zh.wikipedia.org/wiki/Ren "wikilink")《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，四人在舞台上出色的表現讓觀眾眼前一亮\[7\]，使NU'EST所有發行過的專輯包括《Q is》自五月在韓國HANTEO榜、Aladdin和Yes24等多個銷量排行榜持續逆行\[8\]。
 
 ## 簡介
 
-NU'EST 成員在《Q is》專輯中參與度比過往的專輯大大増加。白虎參與了專輯的製作，專輯當中也收錄多首成員們的創作作品。
-5首歌曲名各取一部分可以拼合成LOVE♥，這是由白虎提議送給NU'EST粉絲LOVE的禮物。\[9\]
+NU'EST 成員在《Q is》專輯中參與度比過往的專輯大大増加。白虎參與了專輯的製作，專輯當中也收錄多首成員們的創作作品。 5首歌曲名各取一部分可以拼合成LOVE♥，這是由白虎提議送給NU'EST粉絲LOVE的禮物。\[9\]
 
-主打歌〈OVERCOME〉是[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")
-曲風，希望藉著遺忘悲傷的咒語，慰勞對方的痛苦，傳達守護對方的心意。\[10\]
+主打歌〈OVERCOME〉是[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink") 曲風，希望藉著遺忘悲傷的咒語，慰勞對方的痛苦，傳達守護對方的心意。\[10\]
 
 ## 曲目
 
@@ -161,9 +152,7 @@ NU'EST 成員在《Q is》專輯中參與度比過往的專輯大大増加。白
 
 ## 外部链接
 
-[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
-[Category:NU'EST音樂專輯](https://zh.wikipedia.org/wiki/Category:NU'EST音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:NU'EST音樂專輯](https://zh.wikipedia.org/wiki/Category:NU'EST音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 

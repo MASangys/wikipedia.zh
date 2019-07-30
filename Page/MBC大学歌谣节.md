@@ -285,14 +285,11 @@
 
 ## 相关文化作品
 
-[韩国电视剧](https://zh.wikipedia.org/wiki/韩国电视剧 "wikilink")《[请回答1988](https://zh.wikipedia.org/wiki/请回答1988 "wikilink")》回顾了1988–1994年间的获奖歌手，并使用了以[申海澈为首的](../Page/申海澈.md "wikilink")[无限轨道乐队的歌曲](https://zh.wikipedia.org/wiki/无限轨道乐队 "wikilink")《[致你（그대에게）](https://zh.wikipedia.org/wiki/致你_\(歌曲\) "wikilink")》作为片头曲，该歌曲名亦作为第7集片名出现\[19\]。
+[韩国电视剧](https://zh.wikipedia.org/wiki/韩国电视剧 "wikilink")《[请回答1988](https://zh.wikipedia.org/wiki/请回答1988 "wikilink")》回顾了1988–1994年间的获奖歌手，并使用了以[申海澈](../Page/申海澈.md "wikilink")为首的[无限轨道乐队的歌曲](https://zh.wikipedia.org/wiki/无限轨道乐队 "wikilink")《[致你（그대에게）](https://zh.wikipedia.org/wiki/致你_\(歌曲\) "wikilink")》作为片头曲，该歌曲名亦作为第7集片名出现\[19\]。
 
 ## 参考链接
 
-[Category:韩国音乐比赛](https://zh.wikipedia.org/wiki/Category:韩国音乐比赛 "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink")
+[Category:韩国音乐比赛](https://zh.wikipedia.org/wiki/Category:韩国音乐比赛 "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink")
 
 1.
 

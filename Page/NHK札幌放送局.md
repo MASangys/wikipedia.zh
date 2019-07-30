@@ -5,6 +5,4 @@
   -
 
   -
-[Category:NHK](https://zh.wikipedia.org/wiki/Category:NHK "wikilink")
-[Category:中央區_(札幌市)](https://zh.wikipedia.org/wiki/Category:中央區_\(札幌市\) "wikilink")
-[Category:1928年日本建立](https://zh.wikipedia.org/wiki/Category:1928年日本建立 "wikilink")
+[Category:NHK](https://zh.wikipedia.org/wiki/Category:NHK "wikilink") [Category:中央區_(札幌市)](https://zh.wikipedia.org/wiki/Category:中央區_\(札幌市\) "wikilink") [Category:1928年日本建立](https://zh.wikipedia.org/wiki/Category:1928年日本建立 "wikilink")

@@ -8,6 +8,4 @@ Y翼战机在[克隆人战争早期就脱颖而出了](https://zh.wikipedia.org/
 
 在反抗军获得X翼战机之前，Y翼战机已经在反抗军服役了相当的时间，以致成为大战期间损失最多的战机。虽然Y翼战机是种多用途战机，但其的飞行性能不擅缠斗，却适于执行长程攻击或轰炸任务。当反抗军获得优异的X翼战机后，依靠其优秀的厚重防护和武器携带力，Y翼战机只是从空战战机退至了战术轰炸机的位置。因为强悍以及地面密接轰炸任务的杰出表现，使的较快战机的飞行员为其取了“打滚猪”的绰号
 
-[Category:星際大戰太空船艦](https://zh.wikipedia.org/wiki/Category:星際大戰太空船艦 "wikilink")
-[Category:星際大戰武裝載具](https://zh.wikipedia.org/wiki/Category:星際大戰武裝載具 "wikilink")
-[Category:虛構交通工具](https://zh.wikipedia.org/wiki/Category:虛構交通工具 "wikilink")
+[Category:星際大戰太空船艦](https://zh.wikipedia.org/wiki/Category:星際大戰太空船艦 "wikilink") [Category:星際大戰武裝載具](https://zh.wikipedia.org/wiki/Category:星際大戰武裝載具 "wikilink") [Category:虛構交通工具](https://zh.wikipedia.org/wiki/Category:虛構交通工具 "wikilink")

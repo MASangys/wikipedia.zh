@@ -1,10 +1,8 @@
-本列表為統計嘉賓出演《**[Running
-Man](../Page/Running_Man.md "wikilink")**》歷年次數及集數的節目嘉賓列表。
+本列表為統計嘉賓出演《**[Running Man](../Page/Running_Man.md "wikilink")**》歷年次數及集數的節目嘉賓列表。
 
 ## 嘉賓
 
-該列表名字根據名牌顯示決定，而有關「次數」及「集數」詳情請參閱[節目列表](../Page/Running_Man節目列表.md "wikilink")。以其他方式參與演出者，包括「傳達任務」或「特別出演」則不在計算之列。另外，中途加入及已退出的**Running
-Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主持，在以下名單中，只計算其以嘉賓身份出演的集數。
+該列表名字根據名牌顯示決定，而有關「次數」及「集數」詳情請參閱[節目列表](../Page/Running_Man節目列表.md "wikilink")。以其他方式參與演出者，包括「傳達任務」或「特別出演」則不在計算之列。另外，中途加入及已退出的**Running Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主持，在以下名單中，只計算其以嘉賓身份出演的集數。
 
 <table style="width:178%;">
 <colgroup>
@@ -354,7 +352,7 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 <td><p>4</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/玉澤演" title="wikilink">澤演</a>（택연）</p></td>
+<td><p><a href="../Page/玉澤演.md" title="wikilink">澤演</a>（택연）</p></td>
 <td><p>歌手組合（男）（<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a>）</p></td>
 <td><p>040、150、234-235、256</p></td>
 <td><p>5</p></td>
@@ -642,7 +640,7 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/金孝靜" title="wikilink">孝琳</a>（효린）</p></td>
-<td><p>歌手組合（女）（前<a href="../Page/SISTAR.md" title="wikilink">SISTAR成員</a>）</p></td>
+<td><p>歌手組合（女）（前<a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>成員）</p></td>
 <td><p>075、162、307、348-349</p></td>
 <td><p>5</p></td>
 <td><p>4</p></td>
@@ -810,7 +808,7 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金泫雅.md" title="wikilink">泫雅</a>（현아）</p></td>
-<td><p>歌手組合（女）（前<a href="../Page/Wonder_Girls.md" title="wikilink">Wonder Girls及</a><a href="../Page/4minute.md" title="wikilink">4minute成員</a>）</p></td>
+<td><p>歌手組合（女）（前<a href="../Page/Wonder_Girls.md" title="wikilink">Wonder Girls及</a><a href="../Page/4minute.md" title="wikilink">4minute</a>成員）</p></td>
 <td><p>094、132</p></td>
 <td><p>2</p></td>
 <td><p>2</p></td>
@@ -1447,28 +1445,28 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 </tr>
 <tr class="even">
 <td><p><a href="../Page/朴春.md" title="wikilink">朴春</a>（박봄）</p></td>
-<td><p>歌手組合（女）（前<a href="../Page/2NE1.md" title="wikilink">2NE1成員</a>）</p></td>
+<td><p>歌手組合（女）（前<a href="../Page/2NE1.md" title="wikilink">2NE1</a>成員）</p></td>
 <td><p>156、195</p></td>
 <td><p>2</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Dara" title="wikilink">Sandara 朴</a>（산다라박）</p></td>
-<td><p>歌手、演員（女）（前<a href="../Page/2NE1.md" title="wikilink">2NE1成員</a>）</p></td>
+<td><p>歌手、演員（女）（前<a href="../Page/2NE1.md" title="wikilink">2NE1</a>成員）</p></td>
 <td><p>156、195、345</p></td>
 <td><p>3</p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/李彩麟" title="wikilink">CL</a>（씨엘）</p></td>
-<td><p>歌手組合（女）（前<a href="../Page/2NE1.md" title="wikilink">2NE1成員</a>）</p></td>
+<td><p>歌手組合（女）（前<a href="../Page/2NE1.md" title="wikilink">2NE1</a>成員）</p></td>
 <td><p>156、195</p></td>
 <td><p>2</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/孔旻智.md" title="wikilink">孔旻智</a>（공민지）</p></td>
-<td><p>歌手組合（女）（前<a href="../Page/2NE1.md" title="wikilink">2NE1成員</a>）</p></td>
+<td><p>歌手組合（女）（前<a href="../Page/2NE1.md" title="wikilink">2NE1</a>成員）</p></td>
 <td><p>156、195</p></td>
 <td><p>2</p></td>
 <td><p>2</p></td>
@@ -1608,7 +1606,7 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/多順.md" title="wikilink">多順</a>（다솜）</p></td>
-<td><p>歌手組合（女）（前<a href="../Page/SISTAR.md" title="wikilink">SISTAR成員</a>）</p></td>
+<td><p>歌手組合（女）（前<a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>成員）</p></td>
 <td><p>162、307</p></td>
 <td><p>2</p></td>
 <td><p>2</p></td>
@@ -1706,7 +1704,7 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/尹寶拉" title="wikilink">尹寶拉</a>（윤보라）</p></td>
-<td><p>歌手組合（女）（前<a href="../Page/SISTAR.md" title="wikilink">SISTAR成員</a>）</p></td>
+<td><p>歌手組合（女）（前<a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>成員）</p></td>
 <td><p>174、201、255、307、409</p></td>
 <td><p>5</p></td>
 <td><p>5</p></td>
@@ -1797,7 +1795,7 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 </tr>
 <tr class="even">
 <td><p><a href="../Page/閔都凞.md" title="wikilink">閔都凞</a>（민도희）</p></td>
-<td><p>歌手組合（女）（前<a href="../Page/Tiny-G.md" title="wikilink">Tiny-G成員</a>）</p></td>
+<td><p>歌手組合（女）（前<a href="../Page/Tiny-G.md" title="wikilink">Tiny-G</a>成員）</p></td>
 <td><p>182</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -2048,7 +2046,7 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p>（샘 오취리）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sam_Okyere" title="wikilink">Sam Okyere</a>（샘 오취리）</p></td>
 <td><p>電台主持（男）</p></td>
 <td><p>202-203</p></td>
 <td><p>2</p></td>
@@ -2147,7 +2145,7 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/姜智賢" title="wikilink">韶宥</a>（소유）</p></td>
-<td><p>歌手組合（女）（前<a href="../Page/SISTAR.md" title="wikilink">SISTAR成員</a>）</p></td>
+<td><p>歌手組合（女）（前<a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>成員）</p></td>
 <td><p>209、255、307、366、383</p></td>
 <td><p>5</p></td>
 <td><p>5</p></td>
@@ -2651,7 +2649,7 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 </tr>
 <tr class="even">
 <td><p><a href="../Page/權昭賢.md" title="wikilink">權昭賢</a>（권소현）</p></td>
-<td><p>歌手組合（女）（前<a href="../Page/4minute.md" title="wikilink">4minute成員</a>）</p></td>
+<td><p>歌手組合（女）（前<a href="../Page/4minute.md" title="wikilink">4minute</a>成員）</p></td>
 <td><p>233</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -2973,7 +2971,7 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 </tr>
 <tr class="even">
 <td><p><a href="../Page/海嶺.md" title="wikilink">海　嶺</a>（해　령）</p></td>
-<td><p>歌手組合（女）（前<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID成員</a>，今<a href="../Page/BESTie.md" title="wikilink">BESTie成員</a>）</p></td>
+<td><p>歌手組合（女）（前<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID成員</a>，今<a href="../Page/BESTie.md" title="wikilink">BESTie</a>成員）</p></td>
 <td><p>253、319</p></td>
 <td><p>2</p></td>
 <td><p>2</p></td>
@@ -3176,7 +3174,7 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 </tr>
 <tr class="odd">
 <td><p>Stephanie（스테파니）</p></td>
-<td><p>歌手組合（女）（前<a href="../Page/天上智喜.md" title="wikilink">天上智喜成員</a>）</p></td>
+<td><p>歌手組合（女）（前<a href="../Page/天上智喜.md" title="wikilink">天上智喜</a>成員）</p></td>
 <td><p>268、278-279</p></td>
 <td><p>3</p></td>
 <td><p>2</p></td>
@@ -3974,7 +3972,7 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/南太鉉.md" title="wikilink">南太鉉</a>（남태현）</p></td>
-<td><p>歌手組合（男）（前<a href="../Page/WINNER.md" title="wikilink">WINNER成員</a>）</p></td>
+<td><p>歌手組合（男）（前<a href="../Page/WINNER.md" title="wikilink">WINNER</a>成員）</p></td>
 <td><p>294</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -4457,14 +4455,14 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 </tr>
 <tr class="even">
 <td><p>（혜　연）</p></td>
-<td><p>歌手組合（女）（前<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID成員</a>，今<a href="../Page/BESTie.md" title="wikilink">BESTie成員</a>）</p></td>
+<td><p>歌手組合（女）（前<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID成員</a>，今<a href="../Page/BESTie.md" title="wikilink">BESTie</a>成員）</p></td>
 <td><p>319</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/有智.md" title="wikilink">有　智</a>（유　지）</p></td>
-<td><p>歌手組合（女）（前<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID成員</a>，今<a href="../Page/BESTie.md" title="wikilink">BESTie成員</a>）</p></td>
+<td><p>歌手組合（女）（前<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID成員</a>，今<a href="../Page/BESTie.md" title="wikilink">BESTie</a>成員）</p></td>
 <td><p>319</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -5200,9 +5198,9 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 <tr class="even">
 <td><p><a href="../Page/薛仁雅.md" title="wikilink">薛仁雅</a>（설인아）</p></td>
 <td><p>演員（女）</p></td>
-<td><p>388-389、426-427</p></td>
-<td><p>4</p></td>
-<td><p>2</p></td>
+<td><p>388-389、426-427、457</p></td>
+<td><p>5</p></td>
+<td><p>3</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/美娜.md" title="wikilink">美　娜</a>（미　나）</p></td>
@@ -5479,7 +5477,7 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 </tr>
 <tr class="even">
 <td><p><a href="../Page/珉娥.md" title="wikilink">珉娥</a>（민아）</p></td>
-<td><p>歌手組合（女）（前<a href="../Page/AOA.md" title="wikilink">AOA成員</a>）</p></td>
+<td><p>歌手組合（女）（前<a href="../Page/AOA.md" title="wikilink">AOA</a>成員）</p></td>
 <td><p>436</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -5568,12 +5566,19 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 <td><p>1</p></td>
 <td><p>1</p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/請夏" title="wikilink">請夏</a>（청하）</p></td>
+<td><p>歌手（女）</p></td>
+<td><p>457</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+</tr>
 </tbody>
 </table>
 
 ## 記事
 
-在下列集數中節目無嘉賓：012、029、038、042、048、060、074、081、091、093、098、130、140、160、165、171、178、185、187、196-197、216、222-223、231、247、261、267、270、276、279-280、285、288、291、293、295-296、300-301、311、316、318-319、324、329、333、335、337-338、340-342、346、349、350-354、356、358-359、364-365、368-371、373、375、378-379、382、384-387、389、397-399、401、403-404、411-412、415-416、418-421、423、426、433-434、438-441、443-444、451-452，總共105集。
+在下列集數中節目無嘉賓：012、029、038、042、048、060、074、081、091、093、098、130、140、160、165、171、178、185、187、196-197、216、222-223、231、247、261、267、270、276、279-280、285、288、291、293、295-296、300-301、311、316、318-319、324、329、333、335、337-338、340-342、346、349、350-354、356、358-359、364-365、368-371、373、375、378-379、382、384-387、389、397-399、401、403-404、411-412、415-416、418-421、423、426、433-434、438-441、443-444、451-452、454-456，總共108集。
 
 ## 參考文獻
 
@@ -5582,5 +5587,4 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
   -
   -
   -
-[Category:Running_Man](https://zh.wikipedia.org/wiki/Category:Running_Man "wikilink")
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
+[Category:Running_Man](https://zh.wikipedia.org/wiki/Category:Running_Man "wikilink") [Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")

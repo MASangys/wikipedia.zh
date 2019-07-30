@@ -1,11 +1,10 @@
-《**Zelos**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX的第六張韓語實體](../Page/VIXX.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")（不計算特別單曲則為第五張），以[Simon
-Janlov](https://zh.wikipedia.org/wiki/Simon_Janlov "wikilink")、、[MELODESIGN作曲](https://zh.wikipedia.org/wiki/MELODESIGN "wikilink")、[Misfit與](https://zh.wikipedia.org/wiki/Misfit "wikilink")[RAVI作詞的](../Page/金元植.md "wikilink")《炸藥》（，直譯為｢Dynamite｣）主打曲，並在2016年4月19日推出\[1\]。
+《**Zelos**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX](../Page/VIXX.md "wikilink")的第六張韓語實體[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")（不計算特別單曲則為第五張），以[Simon Janlov](https://zh.wikipedia.org/wiki/Simon_Janlov "wikilink")、、[MELODESIGN作曲](https://zh.wikipedia.org/wiki/MELODESIGN "wikilink")、[Misfit與](https://zh.wikipedia.org/wiki/Misfit "wikilink")[RAVI作詞的](../Page/金元植.md "wikilink")《炸藥》（，直譯為｢Dynamite｣）主打曲，並在2016年4月19日推出\[1\]。
 
 ## 背景
 
-2016年3月16日，[Jellyfish娛樂公布VIXX將於](../Page/Jellyfish娛樂.md "wikilink")4月19日發行新單曲\[2\]。其後在3月28日於官方[Youtube頻道發佈回歸概念影片](https://zh.wikipedia.org/wiki/Youtube "wikilink")\[3\]。
+2016年3月16日，[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")公布VIXX將於4月19日發行新單曲\[2\]。其後在3月28日於官方[Youtube頻道發佈回歸概念影片](https://zh.wikipedia.org/wiki/Youtube "wikilink")\[3\]。
 
-4月12日，官方推出團體回歸照片，選用鮮明對比背景以吸引注目\[4\]；到4月16日，Jellyfish娛樂在官方[Instagram和](../Page/Instagram.md "wikilink")[Facebook公開曲目名單與試聽](../Page/Facebook.md "wikilink")\[5\]。
+4月12日，官方推出團體回歸照片，選用鮮明對比背景以吸引注目\[4\]；到4月16日，Jellyfish娛樂在官方[Instagram](../Page/Instagram.md "wikilink")和[Facebook](../Page/Facebook.md "wikilink")公開曲目名單與試聽\[5\]。
 
 ## 曲目
 
@@ -142,9 +141,7 @@ Janlov](https://zh.wikipedia.org/wiki/Simon_Janlov "wikilink")、、[MELODESIGN�
 
   -
 
-[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink")
-[Category:VIXX音樂專輯](https://zh.wikipedia.org/wiki/Category:VIXX音樂專輯 "wikilink")
-[Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink") [Category:VIXX音樂專輯](https://zh.wikipedia.org/wiki/Category:VIXX音樂專輯 "wikilink") [Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 

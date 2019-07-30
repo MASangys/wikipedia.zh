@@ -1,12 +1,4 @@
-\-- This module implements Template:Engvar. -- Template:Engvar is to be
-build into the template (like an infobox), with default & variant
-spellings defined. -- That template should also allow parameter
-'|engvar=' for the editor (article page). -- The module/template Engvar
-then returns the spelling variant as is set in that article (for example
-'|engvar=en-GB'). -- The defaultWord is returned, unless the engvar
-input hits on a defined (en-XX) variant word. local p = {} local getArgs
-= require('Module:Arguments').getArgs local gsub = string.gsub local
-lower = string.lower local upper = string.upper
+\-- This module implements Template:Engvar. -- Template:Engvar is to be build into the template (like an infobox), with default & variant spellings defined. -- That template should also allow parameter '|engvar=' for the editor (article page). -- The module/template Engvar then returns the spelling variant as is set in that article (for example '|engvar=en-GB'). -- The defaultWord is returned, unless the engvar input hits on a defined (en-XX) variant word. local p = {} local getArgs = require('Module:Arguments').getArgs local gsub = string.gsub local lower = string.lower local upper = string.upper
 
 function p.variants(frame) local args = getArgs(frame)
 
@@ -41,9 +33,7 @@ function p._variants(args) local returnWord = nil
 
 end
 
-\-- Returns arguments and intermediate result. Plus the template result,
-in front. function p.explain(frame) local args = getArgs(frame) local
-ret = {}
+\-- Returns arguments and intermediate result. Plus the template result, in front. function p.explain(frame) local args = getArgs(frame) local ret = {}
 
 `   table.insert(ret, '\n\n: Settings:')`
 `   table.insert(ret, 'defaultWord=' .. (args.defaultWord or '') .. '; ')`
@@ -82,9 +72,7 @@ end
 
 end
 
-function engvarLang(searchEngvar) -- Search verbose language identifiers
-to ISO-format 'en-XX' -- Assumed: not a blank string '' to seacrch local
-match = string.match
+function engvarLang(searchEngvar) -- Search verbose language identifiers to ISO-format 'en-XX' -- Assumed: not a blank string '' to seacrch local match = string.match
 
 `   searchEngvar = gsub(searchEngvar, '^%s*en%-(.*)', '%1') -- rm any opening 'en-'.`
 `   searchEngvar = gsub(lower(searchEngvar), '[%s%(%)%-]', '') -- To lc, remove all: (, ) , ws, hyphen.`

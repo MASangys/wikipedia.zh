@@ -1,5 +1,4 @@
-《**Melo
-Holic**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN於](https://zh.wikipedia.org/wiki/OCN "wikilink")2017年11月6日起播出的[月火連續劇](../Page/OCN_Romance_Series.md "wikilink")，改編自同名人氣網路漫畫，由《[內向的老闆](../Page/內向的老闆.md "wikilink")》[宋賢旭導演執導](../Page/宋賢旭.md "wikilink")、朴素英作家執筆。此劇講述一位有讀取他人心智能力的男人與雙重人格女人的故事。\[1\]\[2\]\[3\]\[4\]
+《**Melo Holic**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN於](https://zh.wikipedia.org/wiki/OCN "wikilink")2017年11月6日起播出的[月火連續劇](../Page/OCN_Romance_Series.md "wikilink")，改編自同名人氣網路漫畫，由《[內向的老闆](../Page/內向的老闆.md "wikilink")》[宋賢旭](../Page/宋賢旭.md "wikilink")導演執導、朴素英作家執筆。此劇講述一位有讀取他人心智能力的男人與雙重人格女人的故事。\[1\]\[2\]\[3\]\[4\]
 
 ## 演員陣容
 
@@ -141,11 +140,7 @@ Holic**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[
 
   - [韓國OCN官方網站](http://program.tving.com/ocn/meloholic)
 
-[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink")
-[Category:韓國漫畫改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:韓國漫畫改編韓國電視劇 "wikilink")
-[Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:多重人格題材電視劇](https://zh.wikipedia.org/wiki/Category:多重人格題材電視劇 "wikilink")
+[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink") [Category:韓國漫畫改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:韓國漫畫改編韓國電視劇 "wikilink") [Category:OCN_Romance_Series](https://zh.wikipedia.org/wiki/Category:OCN_Romance_Series "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:多重人格題材電視劇](https://zh.wikipedia.org/wiki/Category:多重人格題材電視劇 "wikilink")
 
 1.
 2.

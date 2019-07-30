@@ -1,4 +1,4 @@
-**諾伍德大道車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT牙買加線的一個](https://zh.wikipedia.org/wiki/BMT牙買加線 "wikilink")[隔站停靠的](../Page/隔站停靠.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")諾伍德大道及福爾頓街交界\[1\]，設有[Z線](../Page/紐約地鐵J線與Z線.md "wikilink")（僅繁忙時段的尖峰方向停站）、[J線](../Page/紐約地鐵J線與Z線.md "wikilink")（任何時候停站（繁忙時段的尖峰方向除外））\[2\]。
+**諾伍德大道車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT牙買加線的一個](https://zh.wikipedia.org/wiki/BMT牙買加線 "wikilink")[隔站停靠](../Page/隔站停靠.md "wikilink")的[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")諾伍德大道及福爾頓街交界\[1\]，設有[Z線](../Page/紐約地鐵J線與Z線.md "wikilink")（僅繁忙時段的尖峰方向停站）、[J線](../Page/紐約地鐵J線與Z線.md "wikilink")（任何時候停站（繁忙時段的尖峰方向除外））\[2\]。
 
 ## 車站結構
 
@@ -35,32 +35,24 @@
 </tbody>
 </table>
 
-此高架車站設有一個[島式月台和兩條軌道](../Page/島式月台.md "wikilink")\[3\]。
+此高架車站設有一個[島式月台](../Page/島式月台.md "wikilink")和兩條軌道\[3\]。
 
 ## 參考資料
 
 ## 外部連結
 
   -
-  - Station Reporter — [J
-    Train](https://web.archive.org/web/20141010103453/http://www.stationreporter.net/jtrain.htm)
+  - Station Reporter — [J Train](https://web.archive.org/web/20141010103453/http://www.stationreporter.net/jtrain.htm)
 
-  - The Subway Nut — [Norwood Avenue
-    Pictures](http://www.subwaynut.com/bmt/norwoodj/index.php)
+  - The Subway Nut — [Norwood Avenue Pictures](http://www.subwaynut.com/bmt/norwoodj/index.php)
 
-  - MTA's Arts For Transit — [Norwood Avenue (BMT Jamaica
-    Line)](https://web.archive.org/web/20110606073109/http://mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&station=4&xdev=245)
+  - MTA's Arts For Transit — [Norwood Avenue (BMT Jamaica Line)](https://web.archive.org/web/20110606073109/http://mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&station=4&xdev=245)
 
-  - [Norwood Avenue entrance from Google Maps Street
-    View](https://maps.google.com/maps?hl=en&ll=40.681671,-73.879184&spn=0.002791,0.011061&layer=c&cbll=40.681675,-73.879184&panoid=sEWjnmHL6Uz2OjQyzQuV2A&cbp=12,73.55,,0,5.5&t=m&z=17)
+  - [Norwood Avenue entrance from Google Maps Street View](https://maps.google.com/maps?hl=en&ll=40.681671,-73.879184&spn=0.002791,0.011061&layer=c&cbll=40.681675,-73.879184&panoid=sEWjnmHL6Uz2OjQyzQuV2A&cbp=12,73.55,,0,5.5&t=m&z=17)
 
-  - [Platform from Google Maps Street
-    View](https://www.google.com/maps/contrib/103237729589375373179/photos/@40.6815033,-73.8796158,3a,75y,92h,90t/data=!3m7!1e1!3m5!1s-HM7KGXAARi8%2FWULHtMiItiI%2FAAAAAAAAsgs%2FjJJRnTLXRMEv6afltIa383rFmN9-0OWFQCLIBGAYYCw!2e4!6s%2F%2Flh3.googleusercontent.com%2F-HM7KGXAARi8%2FWULHtMiItiI%2FAAAAAAAAsgs%2FjJJRnTLXRMEv6afltIa383rFmN9-0OWFQCLIBGAYYCw%2Fw203-h100-p-k-no%2F!7i8704!8i4352!4m3!8m2!3m1!1e1)
+  - [Platform from Google Maps Street View](https://www.google.com/maps/contrib/103237729589375373179/photos/@40.6815033,-73.8796158,3a,75y,92h,90t/data=!3m7!1e1!3m5!1s-HM7KGXAARi8%2FWULHtMiItiI%2FAAAAAAAAsgs%2FjJJRnTLXRMEv6afltIa383rFmN9-0OWFQCLIBGAYYCw!2e4!6s%2F%2Flh3.googleusercontent.com%2F-HM7KGXAARi8%2FWULHtMiItiI%2FAAAAAAAAsgs%2FjJJRnTLXRMEv6afltIa383rFmN9-0OWFQCLIBGAYYCw%2Fw203-h100-p-k-no%2F!7i8704!8i4352!4m3!8m2!3m1!1e1)
 
-[Category:BMT牙買加線車站](https://zh.wikipedia.org/wiki/Category:BMT牙買加線車站 "wikilink")
-[Category:1893年紐約州建立](https://zh.wikipedia.org/wiki/Category:1893年紐約州建立 "wikilink")
-[Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink")
-[Category:1893年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1893年啟用的鐵路車站 "wikilink")
+[Category:BMT牙買加線車站](https://zh.wikipedia.org/wiki/Category:BMT牙買加線車站 "wikilink") [Category:1893年紐約州建立](https://zh.wikipedia.org/wiki/Category:1893年紐約州建立 "wikilink") [Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink") [Category:1893年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1893年啟用的鐵路車站 "wikilink")
 
 1.
 2.

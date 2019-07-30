@@ -1,6 +1,4 @@
-《**Do姐有問題**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的資訊遊戲節目](../Page/電視廣播有限公司.md "wikilink")，共3輯，第1、2輯都是25集，由[鄭裕玲](../Page/鄭裕玲.md "wikilink")、[陸永權](https://zh.wikipedia.org/wiki/陸永權 "wikilink")、[鄭詩君擔任主持](https://zh.wikipedia.org/wiki/鄭詩君 "wikilink")\[1\]，第一輯於2016年3月7日起[香港時間逢星期一至五](../Page/香港時間.md "wikilink")22:30－23:00在[翡翠台播出](../Page/翡翠台.md "wikilink")，及於[myTV提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")（集數上傳後兩個月後會刪除），由[樓上特約](https://zh.wikipedia.org/wiki/樓上 "wikilink")。第二輯\[2\]\[3\]於2018年3月12日起香港時間逢星期一至五22:30－23:00在[翡翠台播出](../Page/翡翠台.md "wikilink")，及於[myTV
-SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除），由[康業信貸快遞特約](https://zh.wikipedia.org/wiki/康業信貸快遞 "wikilink")。第3輯為2019[TVB
-Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
+《**Do姐有問題**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的資訊遊戲節目，共3輯，第1、2輯都是25集，由[鄭裕玲](../Page/鄭裕玲.md "wikilink")、[陸永權](https://zh.wikipedia.org/wiki/陸永權 "wikilink")、[鄭詩君擔任主持](https://zh.wikipedia.org/wiki/鄭詩君 "wikilink")，第一輯於2016年3月7日起[香港時間](../Page/香港時間.md "wikilink")逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出\[1\]，及於[myTV提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")（集數上傳後兩個月後會刪除），由[樓上特約](https://zh.wikipedia.org/wiki/樓上 "wikilink")。第二輯於2018年3月12日起香港時間逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出\[2\]\[3\]\[4\]，及於[myTV SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除），由[康業信貸快遞特約](https://zh.wikipedia.org/wiki/康業信貸快遞 "wikilink")。第三輯於2019年7月21日起香港時間逢星期日20:30－21:30在[翡翠台](../Page/翡翠台.md "wikilink")播出\[5\]\[6\]，及於[myTV SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除），由[康業信貸快遞特約](https://zh.wikipedia.org/wiki/康業信貸快遞 "wikilink")。
 
 ## 每集內容
 
@@ -242,10 +240,9 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 
 ### 第二輯
 
-  - 本輯的玩法為嘉賓在答三條問題，答中可得500分
-  - 嘉賓可以在遊戲使用兩個錦囊（「Big Big
-    Tips」：給予與該題目相關的大提示；「Double」：如答中該問題，得分將會乘以2），但每個錦囊在全集遊戲只能使用一次
-  - 嘉賓所得的分數可在最後環節中由5個貨幣（其中4個為外幣，1個為[港幣](https://zh.wikipedia.org/wiki/港幣 "wikilink")）中選出心儀的貨幣，之後將該分數的貨幣轉換成港幣，成爲嘉賓該集可獲得的獎金（如嘉賓得500分，而嘉賓選擇美國，即該嘉賓可獲得以500[美金轉換成約](https://zh.wikipedia.org/wiki/美金 "wikilink")3900港元\[4\]的獎金）\[5\]
+  - 本輯的玩法為嘉賓回答三條問題，答對可得500分
+  - 嘉賓可以在遊戲使用兩個錦囊（「Big Big Tips」：給予與該題目相關的大提示；「Double」：如答中該問題，得分將會乘以2），但每個錦囊在全集遊戲只能使用一次
+  - 嘉賓所得的分數可在最後環節中由5個貨幣（其中4個為外幣，1個為[港幣](https://zh.wikipedia.org/wiki/港幣 "wikilink")）中選出心儀的貨幣，之後將該分數的貨幣轉換成港幣，成爲嘉賓該集獲得的獎金（如嘉賓得500分，而嘉賓選擇[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，即該嘉賓可獲得以500[美元](../Page/美元.md "wikilink")轉換成約3920港元的獎金）
   - 粗體為該集獎金最多嘉賓。
 
 <table>
@@ -255,8 +252,9 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <td><p><strong>播映日期</strong></p></td>
 <td><p><strong>嘉賓</strong></p></td>
 <td><p><strong>得分</strong></p></td>
+<td><p><strong>地點</strong></p></td>
 <td><p><strong>貨幣</strong></p></td>
-<td><p><strong>所得港元</strong>[6]</p></td>
+<td><p><strong>所得港元</strong></p></td>
 <td><p><strong>嘉賓特別稱呼</strong></p></td>
 </tr>
 <tr class="even">
@@ -267,8 +265,10 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -284,8 +284,10 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <strong><a href="https://zh.wikipedia.org/wiki/唐詩詠" title="wikilink">唐詩詠</a></strong></p></td>
 <td><p>1000<br />
 <strong>2000</strong></p></td>
-<td><p><a href="../Page/多明尼加比索.md" title="wikilink">多明尼加披索</a><br />
-<strong><a href="https://zh.wikipedia.org/wiki/波斯尼亞和黑塞哥維那可兌換馬克" title="wikilink">波黑馬克</a></strong></p></td>
+<td><p><a href="../Page/多明尼加.md" title="wikilink">多明尼加</a><br />
+<strong><a href="https://zh.wikipedia.org/wiki/波斯尼亞和黑塞哥維那" title="wikilink">波斯尼亞和黑塞哥維那</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/多明尼加披索" title="wikilink">多明尼加披索</a><br />
+<strong><a href="https://zh.wikipedia.org/wiki/波黑馬克" title="wikilink">波黑馬克</a></strong></p></td>
 <td><p>160<br />
 <strong>9860</strong></p></td>
 <td><p>馬國明：馬國明屈<br />
@@ -298,8 +300,10 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <strong><a href="../Page/馮盈盈.md" title="wikilink">馮盈盈</a>、<a href="../Page/張寶兒.md" title="wikilink">張寶兒</a></strong></p></td>
 <td><p>1500<br />
 <strong>2000</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/不丹努爾特魯姆" title="wikilink">不丹努扎母</a><br />
-<strong><a href="https://zh.wikipedia.org/wiki/皮特凱恩群島" title="wikilink">皮特凱恩群島</a><a href="../Page/紐西蘭元.md" title="wikilink">紐西蘭元</a></strong></p></td>
+<td><p><a href="../Page/不丹.md" title="wikilink">不丹</a><br />
+<strong><a href="https://zh.wikipedia.org/wiki/皮特凱恩群島" title="wikilink">皮特凱恩群島</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/不丹努扎姆" title="wikilink">不丹努扎姆</a><br />
+<strong><a href="../Page/紐西蘭元.md" title="wikilink">紐西蘭元</a></strong></p></td>
 <td><p>180<br />
 <strong>11460</strong></p></td>
 <td><p>是非精：是非「蒸」鯇魚</p></td>
@@ -311,8 +315,10 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <strong><a href="../Page/高海寧.md" title="wikilink">高海寧</a></strong></p></td>
 <td><p>1000<br />
 <strong>1000</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/冰島" title="wikilink">冰島</a><br />
+<strong><a href="https://zh.wikipedia.org/wiki/斯威士蘭" title="wikilink">斯威士蘭</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/冰島克朗" title="wikilink">冰島克朗</a><br />
-<strong><a href="https://zh.wikipedia.org/wiki/史瓦濟蘭里蘭吉尼" title="wikilink">史瓦濟蘭里蘭吉尼</a></strong></p></td>
+<strong><a href="https://zh.wikipedia.org/wiki/斯威士蘭里蘭吉尼" title="wikilink">斯威士蘭里蘭吉尼</a></strong></p></td>
 <td><p>80<br />
 <strong>680</strong></p></td>
 <td><p>袁文傑：拍「完聞」傑（拍袁文傑）<br />
@@ -325,7 +331,9 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <a href="../Page/阮小儀.md" title="wikilink">阮小儀</a></p></td>
 <td><p><strong>1500</strong><br />
 1500</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/庫拉索島" title="wikilink">庫拉索島</a><a href="../Page/荷屬安的列斯盾.md" title="wikilink">列斯盾</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/庫拉索島" title="wikilink">庫拉索島</a></strong><br />
+<a href="../Page/尼加拉瓜.md" title="wikilink">尼加拉瓜</a></p></td>
+<td><p><strong><a href="../Page/荷屬安的列斯盾.md" title="wikilink">荷屬安的列斯盾</a></strong><br />
 <a href="../Page/尼加拉瓜科多巴.md" title="wikilink">尼加拉瓜科多巴</a></p></td>
 <td><p><strong>6585</strong><br />
 375</p></td>
@@ -339,8 +347,10 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <strong><a href="../Page/吳業坤.md" title="wikilink">吳業坤</a></strong></p></td>
 <td><p>1500<br />
 <strong>1500</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉爾吉斯" title="wikilink">吉爾吉斯</a><br />
+<strong><a href="../Page/圖瓦盧.md" title="wikilink">圖瓦盧</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吉爾吉斯索姆" title="wikilink">吉爾吉斯索姆</a><br />
-<strong><a href="../Page/圖瓦盧.md" title="wikilink">圖瓦盧</a><a href="https://zh.wikipedia.org/wiki/澳元" title="wikilink">澳元</a></strong></p></td>
+<strong><a href="https://zh.wikipedia.org/wiki/圖瓦盧元" title="wikilink">圖瓦盧元</a></strong></p></td>
 <td><p>180<br />
 <strong>9240</strong></p></td>
 <td><p>田蕊妮：田蕊「嚟」<br />
@@ -353,7 +363,9 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <a href="../Page/朱千雪.md" title="wikilink">朱千雪</a></p></td>
 <td><p><strong>1000</strong><br />
 1000</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/法屬波利尼西亞" title="wikilink">法屬波利尼西亞</a><a href="../Page/太平洋法郎.md" title="wikilink">太平洋法郎</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/法屬波利尼西亞" title="wikilink">法屬波利尼西亞</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/烏茲別克" title="wikilink">烏茲別克</a></p></td>
+<td><p><strong><a href="../Page/太平洋法郎.md" title="wikilink">太平洋法郎</a></strong><br />
 <a href="https://zh.wikipedia.org/wiki/烏茲別克索姆" title="wikilink">烏茲別克索姆</a></p></td>
 <td><p><strong>81</strong><br />
 0.96</p></td>
@@ -366,6 +378,8 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <strong><a href="../Page/許紹雄.md" title="wikilink">許紹雄</a></strong></p></td>
 <td><p>1000<br />
 <strong>1500</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/塞爾維亞" title="wikilink">塞爾維亞</a><br />
+<strong><a href="https://zh.wikipedia.org/wiki/法羅群島" title="wikilink">法羅群島</a></strong></p></td>
 <td><p><a href="../Page/塞爾維亞第納爾.md" title="wikilink">塞爾維亞第納爾</a><br />
 <strong><a href="../Page/法羅群島克朗.md" title="wikilink">法羅群島克朗</a></strong></p></td>
 <td><p>82<br />
@@ -380,6 +394,8 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <strong><a href="../Page/江嘉敏.md" title="wikilink">江嘉敏</a>、<a href="../Page/余德丞.md" title="wikilink">余德丞</a></strong></p></td>
 <td><p>1500<br />
 <strong>1000</strong></p></td>
+<td><p><a href="../Page/瑞典.md" title="wikilink">瑞典</a><br />
+<strong><a href="../Page/阿塞拜疆.md" title="wikilink">阿塞拜疆</a></strong></p></td>
 <td><p><a href="../Page/瑞典克朗.md" title="wikilink">瑞典克朗</a><br />
 <strong><a href="https://zh.wikipedia.org/wiki/阿塞拜疆馬納特" title="wikilink">阿塞拜疆馬納特</a></strong></p></td>
 <td><p>1425<br />
@@ -393,8 +409,10 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <td><p><strong><a href="../Page/陳煒.md" title="wikilink">陳　煒</a></strong><br />
 <a href="https://zh.wikipedia.org/wiki/岑麗香" title="wikilink">岑麗香</a></p></td>
 <td><p><strong>1500</strong><br />
-1500'''</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/百慕達" title="wikilink">百慕達</a><a href="../Page/百慕達元.md" title="wikilink">百慕達元</a></strong><br />
+1500</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/百慕達" title="wikilink">百慕達</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/烏克蘭" title="wikilink">烏克蘭</a></p></td>
+<td><p><strong><a href="../Page/百慕達元.md" title="wikilink">百慕達元</a></strong><br />
 <a href="https://zh.wikipedia.org/wiki/烏克蘭格里夫納" title="wikilink">烏克蘭格里夫納</a></p></td>
 <td><p><strong>11760</strong><br />
 450</p></td>
@@ -406,10 +424,12 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <td><p>3月23日</p></td>
 <td><p><a href="../Page/何遠東.md" title="wikilink">何遠東</a><br />
 <strong><a href="https://zh.wikipedia.org/wiki/胡鴻鈞" title="wikilink">胡鴻鈞</a></strong></p></td>
-<td><p>500[7]<br />
+<td><p>500<br />
 <strong>500</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馬其頓代納爾" title="wikilink">馬其頓代納爾</a><br />
-'''<a href="../Page/蘇丹鎊.md" title="wikilink">蘇丹鎊</a></p></td>
+<td><p><a href="../Page/馬其頓.md" title="wikilink">馬其頓</a><br />
+<strong><a href="https://zh.wikipedia.org/wiki/蘇丹" title="wikilink">蘇丹</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬其頓第納爾" title="wikilink">馬其頓第納爾</a><br />
+<strong><a href="../Page/蘇丹鎊.md" title="wikilink">蘇丹鎊</a></strong></p></td>
 <td><p>80<br />
 <strong>215</strong></p></td>
 <td><p>何遠東：何遠「Don't」<br />
@@ -422,8 +442,10 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <strong><a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a></strong></p></td>
 <td><p>1500<br />
 <strong>2000</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/博茨瓦納" title="wikilink">博茨瓦納</a><br />
+<strong><a href="https://zh.wikipedia.org/wiki/科科斯群島" title="wikilink">科科斯群島</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/博茨瓦納普拉" title="wikilink">博茨瓦納普拉</a><br />
-<strong><a href="https://zh.wikipedia.org/wiki/科科斯群島" title="wikilink">科科斯群島</a><a href="https://zh.wikipedia.org/wiki/澳元" title="wikilink">澳元</a></strong></p></td>
+<strong><a href="https://zh.wikipedia.org/wiki/澳元" title="wikilink">澳元</a></strong></p></td>
 <td><p>1230<br />
 <strong>12340</strong></p></td>
 <td><p>麥美恩：「默」美恩<br />
@@ -436,10 +458,12 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <a href="../Page/麥長青.md" title="wikilink">麥長青</a></p></td>
 <td><p><strong>1500</strong><br />
 1500</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/保加利亞" title="wikilink">保加利亞</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/厄立特里亞" title="wikilink">厄立特里亞</a></p></td>
 <td><p><strong><a href="../Page/保加利亞列弗.md" title="wikilink">保加利亞列弗</a></strong><br />
 <a href="https://zh.wikipedia.org/wiki/厄立特里亞納克法" title="wikilink">厄立特里亞納克法</a></p></td>
 <td><p><strong>7410</strong><br />
-780'''</p></td>
+780</p></td>
 <td><p>江美儀：江「尾宜」<br />
 麥長青：「勿長青」</p></td>
 </tr>
@@ -450,8 +474,10 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <a href="../Page/鄭俊弘.md" title="wikilink">鄭俊弘</a>、<a href="../Page/林穎彤.md" title="wikilink">林穎彤</a></p></td>
 <td><p><strong>1000</strong><br />
 1500</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/聖誕島" title="wikilink">聖誕島</a><a href="https://zh.wikipedia.org/wiki/澳元" title="wikilink">澳元</a></strong><br />
-<a href="https://zh.wikipedia.org/wiki/所羅門群島" title="wikilink">所羅門群島</a><a href="https://zh.wikipedia.org/wiki/所羅門群島元" title="wikilink">所羅門群島元</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/聖誕島" title="wikilink">聖誕島</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/所羅門群島" title="wikilink">所羅門群島</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/澳元" title="wikilink">澳元</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/所羅門群島元" title="wikilink">所羅門群島元</a></p></td>
 <td><p><strong>6070</strong><br />
 1530'''</p></td>
 <td><p>無</p></td>
@@ -463,6 +489,8 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <strong><a href="../Page/方力申.md" title="wikilink">方力申</a></strong></p></td>
 <td><p>1500<br />
 <strong>1000</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/科摩羅" title="wikilink">科摩羅</a><br />
+<strong><a href="https://zh.wikipedia.org/wiki/巴拿馬" title="wikilink">巴拿馬</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/科摩羅法郎" title="wikilink">科摩羅法郎</a><br />
 <strong><a href="../Page/巴拿馬巴波亞.md" title="wikilink">巴拿馬巴波亞</a></strong></p></td>
 <td><p>30<br />
@@ -477,7 +505,9 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <a href="https://zh.wikipedia.org/wiki/陳嘉寶" title="wikilink">陳嘉寶</a>、<a href="../Page/賴慰玲.md" title="wikilink">賴慰玲</a></p></td>
 <td><p><strong>1500</strong><br />
 2000</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/索科特拉島" title="wikilink">索科特拉島</a><a href="https://zh.wikipedia.org/wiki/也門里亞爾" title="wikilink">里亞爾</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/索科特拉島" title="wikilink">索科特拉島</a></strong><br />
+<a href="../Page/巴拉圭.md" title="wikilink">巴拉圭</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/也門里亞爾" title="wikilink">也門里亞爾</a></strong><br />
 <a href="../Page/巴拉圭瓜拉尼.md" title="wikilink">巴拉圭瓜拉尼</a></p></td>
 <td><p><strong>46.5</strong><br />
 2.8''</p></td>
@@ -491,8 +521,10 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <strong><a href="../Page/范振鋒.md" title="wikilink">范振鋒</a>、<a href="../Page/林盛斌.md" title="wikilink">林盛斌</a></strong></p></td>
 <td><p>2000<br />
 <strong>1000</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/達赫拉克群島" title="wikilink">達赫拉克群島</a><a href="https://zh.wikipedia.org/wiki/厄立特里亞納克法" title="wikilink">納克法</a><br />
-<strong><a href="../Page/澤西.md" title="wikilink">澤西</a><a href="https://zh.wikipedia.org/wiki/英鎊" title="wikilink">英鎊</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/達赫拉克群島" title="wikilink">達赫拉克群島</a><br />
+<strong><a href="../Page/澤西.md" title="wikilink">澤西</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/厄立特里亞納克法" title="wikilink">厄立特里亞納克法</a><br />
+<strong><a href="https://zh.wikipedia.org/wiki/英鎊" title="wikilink">英鎊</a></strong></p></td>
 <td><p>1040<br />
 <strong>10990</strong></p></td>
 <td><p>林欣彤：無＋陳慧敏：無<br />
@@ -505,6 +537,8 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <a href="../Page/陸浩明.md" title="wikilink">陸浩明</a></p></td>
 <td><p><strong>1500</strong><br />
 2000</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/摩洛哥" title="wikilink">摩洛哥</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/聖多美和普林西比" title="wikilink">聖多美和普林西比</a></p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/摩洛哥迪拉姆" title="wikilink">摩洛哥迪拉姆</a></strong><br />
 <a href="https://zh.wikipedia.org/wiki/聖多美和普林西比多布拉" title="wikilink">聖多美和普林西比多布拉</a></p></td>
 <td><p><strong>1275</strong><br />
@@ -519,8 +553,10 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <strong><a href="../Page/關楚耀.md" title="wikilink">關楚耀</a>、<a href="../Page/陳健安.md" title="wikilink">陳健安</a></strong></p></td>
 <td><p>1500<br />
 <strong>1000</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/毛里裘斯" title="wikilink">毛里裘斯</a><br />
+<strong><a href="https://zh.wikipedia.org/wiki/哥特蘭島" title="wikilink">哥特蘭島</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/毛里裘斯盧比" title="wikilink">毛里裘斯盧比</a><br />
-<strong><a href="https://zh.wikipedia.org/wiki/哥特蘭島" title="wikilink">哥特蘭島</a><a href="../Page/瑞典克朗.md" title="wikilink">瑞典克朗</a></strong></p></td>
+<strong><a href="../Page/瑞典克朗.md" title="wikilink">瑞典克朗</a></strong></p></td>
 <td><p>345<br />
 <strong>950</strong></p></td>
 <td><p>王灝兒：「即dou」（JW）＋梁釗峰：梁「超封」<br />
@@ -533,8 +569,10 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <a href="../Page/陳敏之.md" title="wikilink">陳敏之</a></p></td>
 <td><p><strong>1500</strong><br />
 1500</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/厄瓜多爾" title="wikilink">厄瓜多爾</a><a href="../Page/美元.md" title="wikilink">美元</a></strong><br />
-<a href="../Page/新喀里多尼亞.md" title="wikilink">新喀里多尼亞</a><a href="../Page/太平洋法郎.md" title="wikilink">太平洋法郎</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/厄瓜多爾" title="wikilink">厄瓜多爾</a></strong><br />
+<a href="../Page/新喀里多尼亞.md" title="wikilink">新喀里多尼亞</a></p></td>
+<td><p><strong><a href="../Page/美元.md" title="wikilink">美元</a></strong><br />
+<a href="../Page/太平洋法郎.md" title="wikilink">太平洋法郎</a></p></td>
 <td><p><strong>11760</strong><br />
 121.5</p></td>
 <td><p>陳山聰：陳「生」聰<br />
@@ -547,6 +585,8 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <a href="../Page/袁偉豪.md" title="wikilink">袁偉豪</a></p></td>
 <td><p><strong>2000</strong><br />
 1500</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/約旦" title="wikilink">約旦</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/阿爾巴尼亞" title="wikilink">阿爾巴尼亞</a></p></td>
 <td><p><strong><a href="../Page/約旦第納爾.md" title="wikilink">約旦第納爾</a></strong><br />
 <a href="../Page/阿爾巴尼亞列克.md" title="wikilink">阿爾巴尼亞列克</a></p></td>
 <td><p><strong>22140</strong><br />
@@ -561,8 +601,10 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <strong><a href="../Page/單立文.md" title="wikilink">單立文</a>、<a href="../Page/胡蓓蔚.md" title="wikilink">胡蓓蔚</a></strong></p></td>
 <td><p>1500<br />
 <strong>1500</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/土庫曼斯坦" title="wikilink">土庫曼斯坦</a><br />
+<strong><a href="https://zh.wikipedia.org/wiki/巴哈馬" title="wikilink">巴哈馬</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/土庫曼斯坦馬納特" title="wikilink">土庫曼斯坦馬納特</a><br />
-<strong><a href="https://zh.wikipedia.org/wiki/巴哈馬" title="wikilink">巴哈馬</a><a href="../Page/巴哈馬元.md" title="wikilink">巴哈馬元</a></strong></p></td>
+<strong><a href="../Page/巴哈馬元.md" title="wikilink">巴哈馬元</a></strong></p></td>
 <td><p>3360<br />
 <strong>11760</strong></p></td>
 <td><p>張敬軒：張敬「軒」酒家<br />
@@ -575,8 +617,10 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <strong><a href="../Page/姜皓文.md" title="wikilink">姜皓文</a></strong></p></td>
 <td><p>2000<br />
 <strong>1500</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/瑪格麗塔島" title="wikilink">瑪格麗塔島</a><a href="../Page/委內瑞拉玻利瓦爾.md" title="wikilink">委內瑞拉玻利瓦爾</a><br />
-<strong><a href="../Page/波多黎各.md" title="wikilink">波多黎各</a><a href="../Page/美元.md" title="wikilink">美元</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/瑪格麗塔島" title="wikilink">瑪格麗塔島</a><br />
+<strong><a href="../Page/波多黎各.md" title="wikilink">波多黎各</a></strong></p></td>
+<td><p><a href="../Page/委內瑞拉玻利瓦爾.md" title="wikilink">委內瑞拉玻利瓦爾</a><br />
+<strong><a href="../Page/美元.md" title="wikilink">美元</a></strong></p></td>
 <td><p>1580<br />
 <strong>11775</strong></p></td>
 <td><p>苑瓊丹：一粒苑瓊丹／苑瓊丹紙（苑瓊丹子）<br />
@@ -589,12 +633,14 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <a href="../Page/衛志豪.md" title="wikilink">衛志豪</a>、<a href="../Page/張致恆.md" title="wikilink">張致恆</a></p></td>
 <td><p><strong>1500</strong><br />
 1500</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/瓦利斯群島和富圖納群島" title="wikilink">瓦利斯群島和富圖納群島</a><a href="../Page/太平洋法郎.md" title="wikilink">太平洋法郎</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/瓦利斯群島和富圖納群島" title="wikilink">瓦利斯群島和富圖納群島</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/哥斯達黎加" title="wikilink">哥斯達黎加</a></p></td>
+<td><p><strong><a href="../Page/太平洋法郎.md" title="wikilink">太平洋法郎</a></strong><br />
 <a href="https://zh.wikipedia.org/wiki/哥斯達黎加科朗" title="wikilink">哥斯達黎加科朗</a></p></td>
 <td><p><strong>121.5</strong><br />
 21</p></td>
-<td><p>鄭融：無 +連詩雅：「唸詩啊」／「連絲啊」／「練 C 啊」<br />
-衛志豪：衛「至」豪+張致恆：張「至行」</p></td>
+<td><p>鄭融：無＋連詩雅：「唸詩啊」／「連絲啊」／「練 C 啊」<br />
+衛志豪：衛「至」豪＋張致恆：張「至行」</p></td>
 </tr>
 <tr class="odd">
 <td><p>24</p></td>
@@ -603,7 +649,9 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <a href="../Page/王君馨.md" title="wikilink">王君馨</a></p></td>
 <td><p><strong>1500</strong><br />
 1000</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/黑山" title="wikilink">黑山</a><a href="https://zh.wikipedia.org/wiki/歐元" title="wikilink">歐元</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/黑山" title="wikilink">黑山</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/波蘭" title="wikilink">波蘭</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/歐元" title="wikilink">歐元</a></strong><br />
 <a href="https://zh.wikipedia.org/wiki/波蘭茲羅提" title="wikilink">波蘭茲羅提</a></p></td>
 <td><p><strong>14430</strong><br />
 2270</p></td>
@@ -617,8 +665,10 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 <a href="../Page/黃浩然.md" title="wikilink">黃浩然</a></p></td>
 <td><p><strong>2000</strong><br />
 2000</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/聖皮埃爾和密克隆群島" title="wikilink">聖皮埃爾和密克隆群島</a><a href="https://zh.wikipedia.org/wiki/歐元" title="wikilink">歐元</a></strong><br />
-<a href="../Page/邦加島.md" title="wikilink">邦加島</a><a href="../Page/印尼盾.md" title="wikilink">印尼盾</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/聖皮埃爾和密克隆群島" title="wikilink">聖皮埃爾和密克隆群島</a></strong><br />
+<a href="../Page/邦加島.md" title="wikilink">邦加島</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/歐元" title="wikilink">歐元</a></strong><br />
+<a href="../Page/印尼盾.md" title="wikilink">印尼盾</a></p></td>
 <td><p><strong>19240</strong><br />
 1.14</p></td>
 <td><p>蕭正楠：「燒」我地（農夫）「正男」<br />
@@ -627,27 +677,88 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 </tbody>
 </table>
 
-|         |                                  |                                                                     |               |
-| ------- | -------------------------------- | ------------------------------------------------------------------- | ------------- |
-|         | '''嘉賓                            | '''貨幣                                                               | **所得港元\[8\]** |
-| 所得港元最高者 | [周柏豪](../Page/周柏豪.md "wikilink") | [約旦第納爾](../Page/約旦第納爾.md "wikilink")                                | 22140         |
-| 所得港元最低者 | [陸浩明](../Page/陸浩明.md "wikilink") | [聖多美和普林西比多布拉](https://zh.wikipedia.org/wiki/聖多美和普林西比多布拉 "wikilink") | 0.78          |
+|         |                                  |                                                                     |          |
+| ------- | -------------------------------- | ------------------------------------------------------------------- | -------- |
+|         | '''嘉賓                            | '''貨幣                                                               | **所得港元** |
+| 所得港元最高者 | [周柏豪](../Page/周柏豪.md "wikilink") | [約旦第納爾](../Page/約旦第納爾.md "wikilink")                                | 22140    |
+| 所得港元最低者 | [陸浩明](../Page/陸浩明.md "wikilink") | [聖多美和普林西比多布拉](https://zh.wikipedia.org/wiki/聖多美和普林西比多布拉 "wikilink") | 0.78     |
 
 ### 第三輯
 
-  - 粗體為該集勝出嘉賓，可以享用得奬美食。
+  - 本輯加入「Do姐常識問答比賽」，嘉賓回答一條常識題，答對可得底分1000分，答錯則有底分500分
+  - 嘉賓回答五條問題，答對可擲骰決定所加的分數。不過若擲中或踩Do姐圖案則需另再擲骰，以決定嘉賓可額外加分或扣分
+  - 嘉賓可以在遊戲使用兩次「Big Big Tips」，即給予與該題目相關的大提示
+  - 嘉賓另有六張功能卡，其中包括「進攻卡」：把對方的答案據為己有、「防守卡」：防止自己的答案被對方搶走及「空白卡」：無功用，嘉賓在每次答完問題均必須使用
+  - 在最後環節中，嘉賓先拉[老虎機](https://zh.wikipedia.org/wiki/老虎機 "wikilink")，再按所得的圖案決定所屬的等級，依次為「[頭等艙](https://zh.wikipedia.org/wiki/頭等艙 "wikilink")」：4個地方中有3個屬高匯率國家、「[商務艙](../Page/商務艙.md "wikilink")」：4地中有2個屬高匯率國家及「[經濟艙](../Page/經濟艙.md "wikilink")」：4地中只有1個屬高匯率國家
+  - 嘉賓所得的分數可在4個城市中選出所屬國家的貨幣，之後將該分數的貨幣轉換成港幣，成爲嘉賓該集獲得的獎金（如嘉賓得500分，而嘉賓選擇[華盛頓市](https://zh.wikipedia.org/wiki/華盛頓市 "wikilink")，即該嘉賓可獲得以500[美元](../Page/美元.md "wikilink")轉換成約3900港元的獎金）
+  - 粗體為該集獎金最多嘉賓。
 
-|        |          |        |        |          |             |
-| ------ | -------- | ------ | ------ | -------- | ----------- |
-| **集數** | **播映日期** | **嘉賓** | **廚師** | **得獎美食** | **Do姐特別稱號** |
-| 2019年  |          |        |        |          |             |
-|        |          |        |        |          |             |
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>集數</strong></p></td>
+<td><p><strong>播映日期</strong></p></td>
+<td><p><strong>嘉賓</strong></p></td>
+<td><p><strong>得分</strong></p></td>
+<td><p><strong>等級</strong></p></td>
+<td><p><strong>城市</strong></p></td>
+<td><p><strong>貨幣</strong></p></td>
+<td><p><strong>所得港元</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>01</p></td>
+<td><p>7月21日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a>、<a href="../Page/黃智雯.md" title="wikilink">黃智雯</a><br />
+<strong><a href="../Page/黃翠如.md" title="wikilink">黃翠如</a>、<a href="https://zh.wikipedia.org/wiki/唐詩詠" title="wikilink">唐詩詠</a></strong></p></td>
+<td><p>2800<br />
+<strong>1100</strong></p></td>
+<td><p><a href="../Page/商務艙.md" title="wikilink">商務艙</a></p></td>
+<td><p><a href="../Page/阿克拉.md" title="wikilink">阿克拉</a><br />
+<strong><a href="../Page/帝力.md" title="wikilink">帝力</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/加納塞地" title="wikilink">加納塞地</a><br />
+<strong><a href="../Page/美元.md" title="wikilink">美元</a></strong></p></td>
+<td><p>4032<br />
+<strong>8580</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>02</p></td>
+<td><p>7月28日</p></td>
+<td><p><a href="../Page/陸浩明.md" title="wikilink">陸浩明</a>、<a href="../Page/麥美恩.md" title="wikilink">麥美恩</a><br />
+<a href="../Page/馮盈盈.md" title="wikilink">馮盈盈</a>、<a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 收視
 
 ### 第一輯
 
-以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台之收視紀錄](../Page/翡翠台.md "wikilink")：
+以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")之收視紀錄：
 
 | 週次 | 集數    | 日期               | 平均收視 | 最高收視  |
 | -- | ----- | ---------------- | ---- | ----- |
@@ -659,8 +770,7 @@ Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 
 ### 第二輯
 
-以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台及](../Page/翡翠台.md "wikilink")[myTV
-SUPER](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")7日跨平台總收視之紀錄：
+以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")及[myTV SUPER](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")7日跨平台總收視之紀錄：
 
 | 週次 | 集數    | 日期               | 收視    |
 | -- | ----- | ---------------- | ----- |
@@ -677,10 +787,10 @@ SUPER](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")7日跨平台總收�
 | 獎項                                                                           | 得奬單位   |
 | ---------------------------------------------------------------------------- | ------ |
 | align="left"; colspan="2"|[星和無綫電視大獎2016](../Page/星和無綫電視大獎2016.md "wikilink") |        |
-| 「我最愛TVB綜藝節目主持人」                                                              | 鄭裕玲、農夫 |
+| 「我最愛TVB綜藝節目主持人」\[7\]                                                         | 鄭裕玲、農夫 |
 |                                                                              |        |
 | align="left"; colspan="2"|[萬千星輝頒獎典禮2016](../Page/萬千星輝頒獎典禮2016.md "wikilink") |        |
-| 「最佳節目主持」\[9\]                                                                | 鄭裕玲、農夫 |
+| 「最佳節目主持」\[8\]                                                                | 鄭裕玲、農夫 |
 
 ## 注釋
 
@@ -688,25 +798,19 @@ SUPER](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")7日跨平台總收�
 
 ## 外部連結
 
-  - [無綫電視節目網頁 -
-    Do姐有問題（第一輯）](http://programme.tvb.com/foodandtravel/dodideat)
-  - [無綫電視節目網頁 -
-    Do姐有問題（第二輯）](http://programme.tvb.com/variety/dodideatsr2)
+  - [無綫電視節目網頁 - Do姐有問題（第一輯）](http://programme.tvb.com/foodandtravel/dodideat)
+  - [無綫電視節目網頁 - Do姐有問題（第二輯）](http://programme.tvb.com/variety/dodideatsr2)
+  - [無綫電視節目網頁 - Do姐有問題（第三輯）](http://programme.tvb.com/variety/dodideatsr3)
 
 ## 電視節目的變遷
 
-[Category:2016年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2016年無綫電視節目 "wikilink")
-[Category:2018年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2018年無綫電視節目 "wikilink")
-[Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink")
-[Category:無綫電視遊戲節目](https://zh.wikipedia.org/wiki/Category:無綫電視遊戲節目 "wikilink")
-[Category:無綫電視資訊節目](https://zh.wikipedia.org/wiki/Category:無綫電視資訊節目 "wikilink")
+[Category:2016年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2016年無綫電視節目 "wikilink") [Category:2018年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2018年無綫電視節目 "wikilink") [Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink") [Category:無綫電視遊戲節目](https://zh.wikipedia.org/wiki/Category:無綫電視遊戲節目 "wikilink") [Category:無綫電視資訊節目](https://zh.wikipedia.org/wiki/Category:無綫電視資訊節目 "wikilink")
 
 1.
 2.
 3.
-4.  因1美金=7.84港元，匯率以香港時間2018年3月16日爲準。
-5.  主持人[農夫多番提及一些](../Page/農夫_\(組合\).md "wikilink")[島嶼的](../Page/島嶼.md "wikilink")[貨幣幣值一般較高](../Page/貨幣.md "wikilink")，這是因為不少島嶼也是[已發展國家](https://zh.wikipedia.org/wiki/已發展國家 "wikilink")（例如[美國和](https://zh.wikipedia.org/wiki/美國 "wikilink")[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")）的屬地，所以這些島嶼直接使用主權國家的貨幣或自行發行貨幣，但與主權國家的貨幣[掛鉤](https://zh.wikipedia.org/wiki/掛鉤 "wikilink")。
-6.  匯率以該集錄影當日爲準。
-7.  原本[何遠東三條題目都答錯而只得零分](../Page/何遠東.md "wikilink")，但最終Do姐為了使其能參與第二回合遊戲而給予他500分。
-8.  匯率以該集錄影當日爲準。
-9.
+4.
+5.
+6.
+7.
+8.

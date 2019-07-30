@@ -1,5 +1,4 @@
-《**Mad Dog**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
-2TV於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2017年10月11日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")，由《[浪漫小鎮](../Page/浪漫小鎮.md "wikilink")》[黃義慶導演執導與金秀珍作家合作打造](../Page/黃義慶.md "wikilink")。\[1\]此劇講述不同的保險犯罪案件，以揭露韓國社會真實現象的故事。\[2\]\[3\]\[4\]。
+《**Mad Dog**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS 2TV於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2017年10月11日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")，由《[浪漫小鎮](../Page/浪漫小鎮.md "wikilink")》[黃義慶](../Page/黃義慶.md "wikilink")導演執導與金秀珍作家合作打造。\[1\]此劇講述不同的保險犯罪案件，以揭露韓國社會真實現象的故事。\[2\]\[3\]\[4\]。
 
 ## 演員陣容
 
@@ -443,22 +442,13 @@
 ## 外部連結
 
   - [韓國KBS官方網站](http://www.kbs.co.kr/drama/maddog/index.html)
-  - [Mad
-    Dog-BLOG](https://m.post.naver.com/my/series/detail.nhn?seriesNo=373759&memberNo=34609460)
+  - [Mad Dog-BLOG](https://m.post.naver.com/my/series/detail.nhn?seriesNo=373759&memberNo=34609460)
 
-[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink")
-[Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink")
-[Category:詐騙題材電視劇](https://zh.wikipedia.org/wiki/Category:詐騙題材電視劇 "wikilink")
-[Category:虛構組織](https://zh.wikipedia.org/wiki/Category:虛構組織 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
+[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink") [Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink") [Category:詐騙題材電視劇](https://zh.wikipedia.org/wiki/Category:詐騙題材電視劇 "wikilink") [Category:虛構組織](https://zh.wikipedia.org/wiki/Category:虛構組織 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
 
-1.  [유지태·우도환·류화영, KBS '매드독' 출연 확정..10월
-    방송](http://osen.mt.co.kr/article/G1110716851)
-2.  ['매드독' 류화영·공명·유지태 등 출연진부터 제작진까지 화려한
-    라인업](http://www.ikoreadaily.co.kr/news/articleView.html?idxno=253753)
-3.  [유지태·류화영·공명, KBS '매드 독'
-    주인공](http://news.jtbc.joins.com/article/article.aspx?news_id=NB11505613)
-4.  [KBS推新劇《瘋狗》
-    劉智泰禹棹奐柳巨魔任主演](http://www.allthatstar.com/tw/view.php?action=5205&postID=357035)
+1.  [유지태·우도환·류화영, KBS '매드독' 출연 확정..10월 방송](http://osen.mt.co.kr/article/G1110716851)
+2.  ['매드독' 류화영·공명·유지태 등 출연진부터 제작진까지 화려한 라인업](http://www.ikoreadaily.co.kr/news/articleView.html?idxno=253753)
+3.  [유지태·류화영·공명, KBS '매드 독' 주인공](http://news.jtbc.joins.com/article/article.aspx?news_id=NB11505613)
+4.  [KBS推新劇《瘋狗》 劉智泰禹棹奐柳巨魔任主演](http://www.allthatstar.com/tw/view.php?action=5205&postID=357035)
 5.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 6.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)

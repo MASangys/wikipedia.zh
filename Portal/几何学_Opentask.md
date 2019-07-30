@@ -14,8 +14,7 @@
 
 <!-- end list -->
 
-  - 创建栏目**[特色图片](https://zh.wikipedia.org/wiki/Portal:几何学/特色图片 "wikilink")**,
-    和**[精选传记](https://zh.wikipedia.org/wiki/Portal:几何学/精选传记 "wikilink")**
+  - 创建栏目**[特色图片](https://zh.wikipedia.org/wiki/Portal:几何学/特色图片 "wikilink")**, 和**[精选传记](https://zh.wikipedia.org/wiki/Portal:几何学/精选传记 "wikilink")**
   - 创建, , , ,
   - 创建, , ,,,,, , , ,
   - 创建, , , , , ,
@@ -28,9 +27,7 @@
 <!-- end list -->
 
   - 模板:, ，,
-  - [空间群](../Page/空间群.md "wikilink"),
-    [多胞形](https://zh.wikipedia.org/wiki/多胞形 "wikilink"),
-    [代数几何](../Page/代数几何.md "wikilink")
+  - [空间群](../Page/空间群.md "wikilink"), [多胞形](https://zh.wikipedia.org/wiki/多胞形 "wikilink"), [代数几何](../Page/代数几何.md "wikilink")
 
 <!-- end list -->
 

@@ -1,9 +1,4 @@
-[Wavelet_Coif1.svg](https://zh.wikipedia.org/wiki/File:Wavelet_Coif1.svg "fig:Wavelet_Coif1.svg")
-**Coiflet小波**是[英格麗·多貝西](https://zh.wikipedia.org/wiki/英格麗·多貝西 "wikilink")（Ingrid
-Daubechies）應Ronald
-Coifman的要求所設計的一種離散[小波](https://zh.wikipedia.org/wiki/小波 "wikilink")。Coiflet小波的調整函式（scaling
-function）及小波函式（wavelet
-function）能同時擁有高消失動量，且其波形接近對稱，常被用於[數位訊號處理](https://zh.wikipedia.org/wiki/數位訊號處理 "wikilink")。\[1\]
+[Wavelet_Coif1.svg](https://zh.wikipedia.org/wiki/File:Wavelet_Coif1.svg "fig:Wavelet_Coif1.svg") **Coiflet小波**是[英格麗·多貝西](https://zh.wikipedia.org/wiki/英格麗·多貝西 "wikilink")（Ingrid Daubechies）應Ronald Coifman的要求所設計的一種離散[小波](https://zh.wikipedia.org/wiki/小波 "wikilink")。Coiflet小波的調整函式（scaling function）及小波函式（wavelet function）能同時擁有高消失動量，且其波形接近對稱，常被用於[數位訊號處理](https://zh.wikipedia.org/wiki/數位訊號處理 "wikilink")。\[1\]
 
 ## 性質
 
@@ -12,8 +7,7 @@ function）能同時擁有高消失動量，且其波形接近對稱，常被用
 <!-- end list -->
 
   -
-    一個[正交小波](https://zh.wikipedia.org/wiki/正交小波 "wikilink")（orthogonal
-    wavelet）系統若符合以下條件，則稱為Generalized Coiflet Wavelet(GOC)。
+    一個[正交小波](https://zh.wikipedia.org/wiki/正交小波 "wikilink")（orthogonal wavelet）系統若符合以下條件，則稱為Generalized Coiflet Wavelet(GOC)。
 
 \[\begin{array}{lcl}
 \\
@@ -34,23 +28,20 @@ function）能同時擁有高消失動量，且其波形接近對稱，常被用
     若\(N\)為濾波器長度，而\(L\)為系統消失動量，則最小的\(N\)為：
     :<math>N=\\begin{cases}
 
-3L - 1, & \\mbox{if }L\\mbox{ is odd} \\\\ 3L, & \\mbox{if }L\\mbox{ is
-even} \\\\ \\end{cases}</math>
+3L - 1, & \\mbox{if }L\\mbox{ is odd} \\\\ 3L, & \\mbox{if }L\\mbox{ is even} \\\\ \\end{cases}</math>
 
   - 近線性相位（Near-linear phase）濾波器
 
 <!-- end list -->
 
   -
-    當\(|w|\)夠小時，GOC的[低通濾波器的](https://zh.wikipedia.org/wiki/低通濾波器 "wikilink")[頻率響應擁有漸進型態](https://zh.wikipedia.org/wiki/頻率響應 "wikilink")（asymptotic
-    form）：
+    當\(|w|\)夠小時，GOC的[低通濾波器的](https://zh.wikipedia.org/wiki/低通濾波器 "wikilink")[頻率響應擁有漸進型態](https://zh.wikipedia.org/wiki/頻率響應 "wikilink")（asymptotic form）：
     \[\angle{H(w)}=-t_0w+C\cdot{w^{L'}}+O(w^{L'+2})\]
 
 <!-- end list -->
 
   -
-    其中\(L'=2\left \lfloor L/2 \right \rfloor+1\)，\(C\)則為常數項。因此\(h\)具有漸近線性相位（asymptotic
-    linear phase）的特性：
+    其中\(L'=2\left \lfloor L/2 \right \rfloor+1\)，\(C\)則為常數項。因此\(h\)具有漸近線性相位（asymptotic linear phase）的特性：
     \[\lim_{L \to \infty}\angle{H(w)}=-t_0w\]
 
 ## 應用
@@ -61,9 +52,7 @@ even} \\\\ \\end{cases}</math>
 ## 係數
 
   -
-    下表為coiflet小波調整函式C6\~30的係數，小波函式的係數可以藉由每兩個係數變換一次符號來推導(例如C6 wavelet =
-    {−0.022140543057, 0.102859456942, 0.544281086116, −1.205718913884,
-    0.477859456942, 0.102859456942})
+    下表為coiflet小波調整函式C6\~30的係數，小波函式的係數可以藉由每兩個係數變換一次符號來推導(例如C6 wavelet = {−0.022140543057, 0.102859456942, 0.544281086116, −1.205718913884, 0.477859456942, 0.102859456942})
 
 | k    | C6                   | C12                  | C18                  | C24                  | C30                  |
 | ---- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
@@ -116,13 +105,7 @@ even} \\\\ \\end{cases}</math>
     一個order為\((L,\tilde{L})\)的雙正交Coiflet小波需符合以下條件：
     :<math>
 
-\\begin{array}{lcl} \\\\ \\mathcal{M_\\tilde{\\phi}}(0,l\] =
-\\delta\[l\] & \\mbox{for }l\\mbox{ =0,1,...,L-1} \\\\
-\\mathcal{M_\\tilde{\\psi}}(0,l\] = 0 & \\mbox{for }l\\mbox{
-=0,1,...,L-1} \\\\ \\mathcal{M_{\\phi}}(0,l\] = \\delta\[l\] &
-\\mbox{for }l\\mbox{ =0,1,...,L-1} \\\\ \\mathcal{M_{\\psi}}(0,l\] = 0
-& \\mbox{for }l\\mbox{ =0,1,...,}\\tilde{L}\\mbox{-1} \\\\
-\\end{array}</math>
+\\begin{array}{lcl} \\\\ \\mathcal{M_\\tilde{\\phi}}(0,l\] = \\delta\[l\] & \\mbox{for }l\\mbox{ =0,1,...,L-1} \\\\ \\mathcal{M_\\tilde{\\psi}}(0,l\] = 0 & \\mbox{for }l\\mbox{ =0,1,...,L-1} \\\\ \\mathcal{M_{\\phi}}(0,l\] = \\delta\[l\] & \\mbox{for }l\\mbox{ =0,1,...,L-1} \\\\ \\mathcal{M_{\\psi}}(0,l\] = 0 & \\mbox{for }l\\mbox{ =0,1,...,}\\tilde{L}\\mbox{-1} \\\\ \\end{array}</math>
 
   - 性質
 

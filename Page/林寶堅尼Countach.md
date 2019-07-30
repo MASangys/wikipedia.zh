@@ -1,6 +1,4 @@
-**林寶堅尼Countach**（Lamborghini
-Countach），是[林寶堅尼車廠於](https://zh.wikipedia.org/wiki/林寶堅尼 "wikilink")1974至90年間所生產的[中置後驅](../Page/中置後驅.md "wikilink")[V12](../Page/V12发动机.md "wikilink")[超級跑車](../Page/超級跑車.md "wikilink")。美國汽車雜誌《Sports
-Car International》於2004年将其評為1970年代頂級跑車第三位及1980年代頂級跑車第十位。
+**林寶堅尼Countach**（Lamborghini Countach），是[林寶堅尼車廠於](https://zh.wikipedia.org/wiki/林寶堅尼 "wikilink")1974至90年間所生產的[中置後驅](../Page/中置後驅.md "wikilink")[V12](../Page/V12发动机.md "wikilink")[超級跑車](../Page/超級跑車.md "wikilink")。美國汽車雜誌《Sports Car International》於2004年将其評為1970年代頂級跑車第三位及1980年代頂級跑車第十位。
 
 ## 引擎規格
 
@@ -150,19 +148,12 @@ Car International》於2004年将其評為1970年代頂級跑車第三位及1980
 
 ## 外部連結
 
-  - [The Lamborghini Countach line up at
-    LamboCARS.com](http://www.lambocars.com/countach/)
-  - [Countach 25th
-    Anniversary](http://www.lambo.com.ua/cars/modification.php?ID=769)
-  - [LP500 Prototype
-    Gallery](https://web.archive.org/web/20141227062619/http://www.bozhdynsky.com/cars/lamborghini-countach-prototipo/)
-  - [LP500 Prototype Specifications & Further Additional
-    Images](http://www.timpelen.com/?car=countach_lp500)
+  - [The Lamborghini Countach line up at LamboCARS.com](http://www.lambocars.com/countach/)
+  - [Countach 25th Anniversary](http://www.lambo.com.ua/cars/modification.php?ID=769)
+  - [LP500 Prototype Gallery](https://web.archive.org/web/20141227062619/http://www.bozhdynsky.com/cars/lamborghini-countach-prototipo/)
+  - [LP500 Prototype Specifications & Further Additional Images](http://www.timpelen.com/?car=countach_lp500)
 
-[Category:林寶堅尼車輛](https://zh.wikipedia.org/wiki/Category:林寶堅尼車輛 "wikilink")
-[Category:超級跑車](https://zh.wikipedia.org/wiki/Category:超級跑車 "wikilink")
-[Category:中置引擎](https://zh.wikipedia.org/wiki/Category:中置引擎 "wikilink")
-[Category:後輪驅動](https://zh.wikipedia.org/wiki/Category:後輪驅動 "wikilink")
+[Category:林寶堅尼車輛](https://zh.wikipedia.org/wiki/Category:林寶堅尼車輛 "wikilink") [Category:超級跑車](https://zh.wikipedia.org/wiki/Category:超級跑車 "wikilink") [Category:中置引擎](https://zh.wikipedia.org/wiki/Category:中置引擎 "wikilink") [Category:後輪驅動](https://zh.wikipedia.org/wiki/Category:後輪驅動 "wikilink")
 
 1.
 2.

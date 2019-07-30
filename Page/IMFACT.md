@@ -1,9 +1,6 @@
-**IMFACT**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[明星帝國娛樂旗下的男子偶像組合](../Page/明星帝國娛樂.md "wikilink")，成員為帝業、泰浩、摯安、李想、雄宰，於2016年1月27日發行《Lollipop》專輯正式出道。
+**IMFACT**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[明星帝國娛樂](../Page/明星帝國娛樂.md "wikilink")旗下的男子偶像組合，成員為帝業、泰浩、摯安、李想、雄宰，於2016年1月27日發行《Lollipop》專輯正式出道。
 
-**IMFACT**是一支創作型團隊，成員們具備著詞曲創作、音樂製作，與編舞能力，團名「**IMFACT**」表示他們有強大的衝擊力，及「I'm
-Fact（我是真實的）」——將帶來最真實的音樂之意\[1\]。團體口號為「**We Are IMFACT\!**
-」\[2\]。粉絲名為「**IF**」，代表 **I**MFACT 和 **F**an，有著IMFACT
-和粉絲合為一體、一起走下去的意思，也代表著多樣的可能性。\[3\]
+**IMFACT**是一支創作型團隊，成員們具備著詞曲創作、音樂製作，與編舞能力，團名「**IMFACT**」表示他們有強大的衝擊力，及「I'm Fact（我是真實的）」——將帶來最真實的音樂之意\[1\]。團體口號為「**We Are IMFACT\!** 」\[2\]。粉絲名為「**IF**」，代表 **I**MFACT 和 **F**an，有著IMFACT 和粉絲合為一體、一起走下去的意思，也代表著多樣的可能性。\[3\]
 
 ## 成員資料
 
@@ -21,35 +18,24 @@ Fact（我是真實的）」——將帶來最真實的音樂之意\[1\]。團�
 
 ### 出道前
 
-出道前，帝業曾為國家武術代表隊選手\[5\]\[6\]，摯安曾為許多偶像組合及歌手的伴舞\[7\]，泰浩曾拿過2014年密陽阿里郎歌謠節大賞\[8\]\[9\]。2015年3月\~5月，IMFACT於[ZE:A](../Page/ZE:A.md "wikilink")[時完的亞洲粉絲見面會](../Page/時完.md "wikilink")《2015
-Asia Tour Fan
-Meeting-HELLO》擔任開場表演嘉賓\[10\]，並在活動中為時完伴舞及伴奏。2015年4月17日，[明星帝國娛樂宣布IMFACT開通官方微博及twitter](../Page/明星帝國娛樂.md "wikilink")，並陸續公開成員街拍宣傳圖。同年8月29日，於《2015
-Feel Korea in New Delhi》表演，累積表演經驗。
+出道前，帝業曾為國家武術代表隊選手\[5\]\[6\]，摯安曾為許多偶像組合及歌手的伴舞\[7\]，泰浩曾拿過2014年密陽阿里郎歌謠節大賞\[8\]\[9\]。2015年3月\~5月，IMFACT於[ZE:A](../Page/ZE:A.md "wikilink")[時完](../Page/時完.md "wikilink")的亞洲粉絲見面會《2015 Asia Tour Fan Meeting-HELLO》擔任開場表演嘉賓\[10\]，並在活動中為時完伴舞及伴奏。2015年4月17日，[明星帝國娛樂](../Page/明星帝國娛樂.md "wikilink")宣布IMFACT開通官方微博及twitter，並陸續公開成員街拍宣傳圖。同年8月29日，於《2015 Feel Korea in New Delhi》表演，累積表演經驗。
 
 ### 2016年：出道與回歸
 
-2016年1月14日起，陸續於官方Youtube頻道公開成員形象片，展現成員各自的才藝與創作。2016年1月17日，於[首爾清潭洞Ilchi](../Page/首爾.md "wikilink")
-Art
-Hall舉行出道Showcase，由[ZE:A](../Page/ZE:A.md "wikilink")[光熙擔任MC](../Page/光熙.md "wikilink")\[11\]。隔日，公開《Lollipop》專輯曲目清單，成員均參與詞曲創作與製作\[12\]；其中，雄宰創作的出道曲《Lollipop》為一首舞曲，描述少年一見鍾情後積極示好的情景\[13\]。1月26日，公開《Lollipop》的MV預告片。8月14日，在出道二百天紀念活動中宣佈團體粉絲名為「IF」\[14\]\[15\]。
-11月2日，官方宣佈IMFACT將攜第二張專輯《斑爛》回歸，且成員參與全輯詞曲創作\[16\]\[17\]。
+2016年1月14日起，陸續於官方Youtube頻道公開成員形象片，展現成員各自的才藝與創作。2016年1月17日，於[首爾](../Page/首爾.md "wikilink")清潭洞Ilchi Art Hall舉行出道Showcase，由[ZE:A](../Page/ZE:A.md "wikilink")[光熙](../Page/光熙.md "wikilink")擔任MC\[11\]。隔日，公開《Lollipop》專輯曲目清單，成員均參與詞曲創作與製作\[12\]；其中，雄宰創作的出道曲《Lollipop》為一首舞曲，描述少年一見鍾情後積極示好的情景\[13\]。1月26日，公開《Lollipop》的MV預告片。8月14日，在出道二百天紀念活動中宣佈團體粉絲名為「IF」\[14\]\[15\]。 11月2日，官方宣佈IMFACT將攜第二張專輯《斑爛》回歸，且成員參與全輯詞曲創作\[16\]\[17\]。
 
 ### 2017年：「IMFACTORY」 計畫、參與《The Unit》
 
-2017年公開計畫「IMFACTORY」，代表組合將製作具影響力及真誠的音樂，計畫內容包含每月發行新曲、迷你見面會及迷你公演等\[18\]。第一首單曲《沒有你》（；）於1月25日公開，此曲在成員練習生時期所作，講述離別時的悲傷\[19\]。2月13日，預告2月單曲《拜託了初戀》（）於2月27日公開\[20\]。4月5日推出《Tension
-Up》，並於音樂節目進行兩周的活動。
-2017年秋，成員帝業、泰浩、摯安、雄宰參與選秀節目《[The
-Unit](../Page/The_Unit.md "wikilink")》，決心透過此節目再次宣傳並展現IMFACT。節目於2017年10月28日開播，並於2018年2月10日正式結束，四人最終名次分別為帝業11名、泰浩27名、摯安49名、雄宰26名。
+2017年公開計畫「IMFACTORY」，代表組合將製作具影響力及真誠的音樂，計畫內容包含每月發行新曲、迷你見面會及迷你公演等\[18\]。第一首單曲《沒有你》（；）於1月25日公開，此曲在成員練習生時期所作，講述離別時的悲傷\[19\]。2月13日，預告2月單曲《拜託了初戀》（）於2月27日公開\[20\]。4月5日推出《Tension Up》，並於音樂節目進行兩周的活動。
+2017年秋，成員帝業、泰浩、摯安、雄宰參與選秀節目《[The Unit](../Page/The_Unit.md "wikilink")》，決心透過此節目再次宣傳並展現IMFACT。節目於2017年10月28日開播，並於2018年2月10日正式結束，四人最終名次分別為帝業11名、泰浩27名、摯安49名、雄宰26名。
 
 ### 2018年：嶄新回歸
 
-4月9日，官方公告IMFACT將於4月17日發行數位單曲《閃耀》回歸。《閃耀》是IMFACT與[THE BLACK
-LABEL合作的作品](https://zh.wikipedia.org/wiki/YG娛樂#THE_BLACK_LABEL "wikilink")，是IMFACT首度在音樂上與其他製作人共同合作；至於造型方面則採用華麗而強烈的[Chav風格](../Page/Chav.md "wikilink")，此次時隔一年的回歸，IMFACT無論在音樂上或造型上都展現出了全新的面貌\[21\]。
-8月16日，以曲風的單曲《Nanana（懦那䛔）》回歸，此次是IMFACT出道以來首度在夏季回歸。
+4月9日，官方公告IMFACT將於4月17日發行數位單曲《閃耀》回歸。《閃耀》是IMFACT與[THE BLACK LABEL合作的作品](https://zh.wikipedia.org/wiki/YG娛樂#THE_BLACK_LABEL "wikilink")，是IMFACT首度在音樂上與其他製作人共同合作；至於造型方面則採用華麗而強烈的[Chav](../Page/Chav.md "wikilink")風格，此次時隔一年的回歸，IMFACT無論在音樂上或造型上都展現出了全新的面貌\[21\]。 8月16日，以曲風的單曲《Nanana（懦那䛔）》回歸，此次是IMFACT出道以來首度在夏季回歸。
 
 ### 2019年：回歸、歐洲巡迴演出
 
-從2018接續到2019年的IMFACT，在空白期仍不斷推出COVER曲與自創曲，積極展現在音樂方面的努力與才華。1月13日，官方公告IMFACT將於4月16至21日展開歐洲巡演。1月24日，IMFACT發行單曲《ONLY
-U》回歸，《ONLY U》是一首既明朗，又輕鬆、歡快的歌曲，是IMFACT出道以來首度嘗試的風格。
+從2018接續到2019年的IMFACT，在空白期仍不斷推出COVER曲與自創曲，積極展現在音樂方面的努力與才華。1月13日，官方公告IMFACT將於4月16至21日展開歐洲巡演。1月24日，IMFACT發行單曲《ONLY U》回歸，《ONLY U》是一首既明朗，又輕鬆、歡快的歌曲，是IMFACT出道以來首度嘗試的風格。
 
 ## 音樂作品
 
@@ -395,7 +381,7 @@ U》回歸，《ONLY U》是一首既明朗，又輕鬆、歡快的歌曲，是I
 <td><p>7月28日</p></td>
 <td><p>不朽的名曲：傳說在歌唱</p></td>
 <td><p>謠言</p></td>
-<td><p><a href="../Page/不朽的名曲：傳說在歌唱.md" title="wikilink">不朽的名曲：傳說在歌唱第</a>363回參演歌手</p></td>
+<td><p><a href="../Page/不朽的名曲：傳說在歌唱.md" title="wikilink">不朽的名曲：傳說在歌唱</a>第363回參演歌手</p></td>
 <td><p>全員</p></td>
 <td><p>經典歌曲翻唱</p></td>
 </tr>
@@ -607,12 +593,7 @@ U》回歸，《ONLY U》是一首既明朗，又輕鬆、歡快的歌曲，是I
   - [IMFACT](http://channels.vlive.tv/F28195/video)的V LIVE
 
   -
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
-[Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink")
 
 1.
 2.

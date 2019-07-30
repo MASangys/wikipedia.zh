@@ -1,6 +1,4 @@
-《**守護者K2**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2016年9月23日起播出的[創社10周年特別企劃連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，由《[鄰家英雄](../Page/鄰家英雄.md "wikilink")》[郭正煥導演指導和](https://zh.wikipedia.org/wiki/郭正煥 "wikilink")《[龍八夷](https://zh.wikipedia.org/wiki/龍八夷 "wikilink")》編劇[張赫麟共同製作的作品](https://zh.wikipedia.org/wiki/張赫麟 "wikilink")。講述一位無比熱愛國家與同事卻慘遭陷害的特種部隊成員金濟夏（[池昌旭](../Page/池昌旭.md "wikilink")
-飾），被準第一夫人相中挖角，聘用為其的御用保鏢，代號「K2」。故事圍繞著他與總-{}-統候選人私生女高安娜（[林潤娥](https://zh.wikipedia.org/wiki/林潤娥 "wikilink")
-飾）的戀情，以及刻畫崔宥真（[宋玧妸](../Page/宋玧妸.md "wikilink") 飾）隱藏的野心和政治與家族鬥爭。
+《**守護者K2**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2016年9月23日起播出的[創社10周年特別企劃連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，由《[鄰家英雄](../Page/鄰家英雄.md "wikilink")》[郭正煥導演指導和](https://zh.wikipedia.org/wiki/郭正煥 "wikilink")《[龍八夷](https://zh.wikipedia.org/wiki/龍八夷 "wikilink")》編劇[張赫麟共同製作的作品](https://zh.wikipedia.org/wiki/張赫麟 "wikilink")。講述一位無比熱愛國家與同事卻慘遭陷害的特種部隊成員金濟夏（[池昌旭](../Page/池昌旭.md "wikilink") 飾），被準第一夫人相中挖角，聘用為其的御用保鏢，代號「K2」。故事圍繞著他與總-{}-統候選人私生女高安娜（[林潤娥](https://zh.wikipedia.org/wiki/林潤娥 "wikilink") 飾）的戀情，以及刻畫崔宥真（[宋玧妸](../Page/宋玧妸.md "wikilink") 飾）隱藏的野心和政治與家族鬥爭。
 
 ## 演員陣容
 
@@ -278,9 +276,8 @@
 
 ### 其他搭配歌曲
 
-  - 台灣[東森電視版本](../Page/東森電視.md "wikilink")
-      - 片頭曲：[畢書盡](https://zh.wikipedia.org/wiki/畢書盡 "wikilink")《Nothing
-        At All》
+  - 台灣[東森電視](../Page/東森電視.md "wikilink")版本
+      - 片頭曲：[畢書盡](https://zh.wikipedia.org/wiki/畢書盡 "wikilink")《Nothing At All》
       - 片尾曲：[李子森](https://zh.wikipedia.org/wiki/李子森 "wikilink")《還有呼吸就愛你》
 
 ## 收視率
@@ -429,10 +426,7 @@
 
 ### 台灣東森戲劇台
 
-|- |1-2 |1 |2017年9月7日－9月8日 |0.83 | |- |3-7 |2 |2017年9月11日－9月15日 | 0.80 |
-|- |8-12 |3 |2017年9月18日－9月22日 | 0.92 | |- |13-17 |4 |2017年9月25日－9月29日
-|0.82 | |- |18-22 |5 |2017年10月2日－10月6日 | | |- |23-25 |6
-|2017年10月9日－10月11日 | | |- \!colspan="3"|平均收視率 || ||
+|- |1-2 |1 |2017年9月7日－9月8日 |0.83 | |- |3-7 |2 |2017年9月11日－9月15日 | 0.80 | |- |8-12 |3 |2017年9月18日－9月22日 | 0.92 | |- |13-17 |4 |2017年9月25日－9月29日 |0.82 | |- |18-22 |5 |2017年10月2日－10月6日 | | |- |23-25 |6 |2017年10月9日－10月11日 | | |- \!colspan="3"|平均收視率 || ||
 
 ## 同時段競爭作品
 
@@ -509,14 +503,7 @@
   -
   -
   -
-[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink")
-[Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink")
-[Category:保安題材電視劇](https://zh.wikipedia.org/wiki/Category:保安題材電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
-[Category:中視外購電視劇](https://zh.wikipedia.org/wiki/Category:中視外購電視劇 "wikilink")
+[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink") [Category:保安題材電視劇](https://zh.wikipedia.org/wiki/Category:保安題材電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink") [Category:中視外購電視劇](https://zh.wikipedia.org/wiki/Category:中視外購電視劇 "wikilink")
 
-1.  [AGB 닐슨 미디어리서치 케이블
-    시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
-2.  [더케이투 : 네이버
-    통합검색](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&oquery=%EB%8D%94%EC%BC%80%EC%9D%B4%ED%88%AC&ie=utf8&query=%EB%8D%94%EC%BC%80%EC%9D%B4%ED%88%AC)
+1.  [AGB 닐슨 미디어리서치 케이블 시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
+2.  [더케이투 : 네이버 통합검색](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&oquery=%EB%8D%94%EC%BC%80%EC%9D%B4%ED%88%AC&ie=utf8&query=%EB%8D%94%EC%BC%80%EC%9D%B4%ED%88%AC)

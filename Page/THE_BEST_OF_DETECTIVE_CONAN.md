@@ -1,11 +1,8 @@
-「**THE BEST OF DETECTIVE
-CONAN**」（）是改編自[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[青山剛昌原作](../Page/青山剛昌.md "wikilink")《[名偵探柯南](../Page/名偵探柯南.md "wikilink")》的同名電視動畫《[名偵探柯南](../Page/名偵探柯南_\(動畫\).md "wikilink")》的第1張[主題曲合輯](../Page/主題曲.md "wikilink")。截至2014年10月已發行6張。
+「**THE BEST OF DETECTIVE CONAN**」（）是改編自[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[青山剛昌](../Page/青山剛昌.md "wikilink")原作《[名偵探柯南](../Page/名偵探柯南.md "wikilink")》的同名電視動畫《[名偵探柯南](../Page/名偵探柯南_\(動畫\).md "wikilink")》的第1張[主題曲](../Page/主題曲.md "wikilink")合輯。截至2014年10月已發行6張。
 
-《名偵探柯南》於[1997年與](../Page/1997年.md "wikilink")合作，[主題曲](../Page/主題曲.md "wikilink")（[片頭曲](https://zh.wikipedia.org/wiki/主題曲#.E7.89.87.E9.A0.AD.E6.9B.B2 "wikilink")、[片尾曲](https://zh.wikipedia.org/wiki/主題曲#.E7.89.87.E5.B0.BE.E6.9B.B2 "wikilink")）開始使用其發售的[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。在1998年至[2000年代前半段大部分採用BEING旗下藝人](../Page/2000年代.md "wikilink")[B'z](../Page/B'z.md "wikilink")、[DEEN和](../Page/DEEN.md "wikilink")[ZARD等](../Page/ZARD.md "wikilink")[90年代的知名歌手及甫發行出道曲旋即獲得百萬銷售紀錄的](https://zh.wikipedia.org/wiki/90年代 "wikilink")「**平成歌姬**」—[倉木麻衣的熱門歌曲](../Page/倉木麻衣.md "wikilink")。
+《名偵探柯南》於[1997年](../Page/1997年.md "wikilink")與合作，[主題曲](../Page/主題曲.md "wikilink")（[片頭曲](https://zh.wikipedia.org/wiki/主題曲#.E7.89.87.E9.A0.AD.E6.9B.B2 "wikilink")、[片尾曲](https://zh.wikipedia.org/wiki/主題曲#.E7.89.87.E5.B0.BE.E6.9B.B2 "wikilink")）開始使用其發售的[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。在1998年至[2000年代](../Page/2000年代.md "wikilink")前半段大部分採用BEING旗下藝人[B'z](../Page/B'z.md "wikilink")、[DEEN](../Page/DEEN.md "wikilink")和[ZARD](../Page/ZARD.md "wikilink")等[90年代的知名歌手及甫發行出道曲旋即獲得百萬銷售紀錄的](https://zh.wikipedia.org/wiki/90年代 "wikilink")「**平成歌姬**」—[倉木麻衣](../Page/倉木麻衣.md "wikilink")的熱門歌曲。
 
-此外，[小松未歩](../Page/小松未步.md "wikilink") 、[愛内里菜](../Page/愛內里菜.md "wikilink")、、[GARNET
-CROW](../Page/GARNET_CROW.md "wikilink")、[三枝夕夏 IN
-db等人也與](../Page/三枝夕夏IN_db.md "wikilink")《名偵探柯南》合作並獻唱許多歌曲。
+此外，[小松未歩](../Page/小松未步.md "wikilink") 、[愛内里菜](../Page/愛內里菜.md "wikilink")、、[GARNET CROW](../Page/GARNET_CROW.md "wikilink")、[三枝夕夏 IN db等人也與](../Page/三枝夕夏IN_db.md "wikilink")《名偵探柯南》合作並獻唱許多歌曲。
 
 ## 合輯列表
 
@@ -76,15 +73,7 @@ db等人也與](../Page/三枝夕夏IN_db.md "wikilink")《名偵探柯南》合
   - \[<https://www.amazon.co.jp/%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3-%E3%83%86%E3%83%BC%E3%83%9E%E6%9B%B2%E9%9B%864-BEST-DETECTIVE-CONAN/dp/B005QRO0BM/ref=pd_sim_15_1?_encoding=UTF8&psc=1&refRID=JW01AH4Z3EXP0NJ13TE6>\]
   - \[<https://www.amazon.co.jp/%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3-%E3%83%86%E3%83%BC%E3%83%9E%E6%9B%B2%E9%9B%865-DETECTIVE-CONAN5-%E3%80%90%E9%80%9A%E5%B8%B8%E7%9B%A4%E3%80%91/dp/B00N6XRBVE/ref=pd_sim_15_2?_encoding=UTF8&psc=1&refRID=ARB8XBGSAVHSRBEFFF4N>\]
 
-[Category:电视动画主题歌合辑](https://zh.wikipedia.org/wiki/Category:电视动画主题歌合辑 "wikilink")
-[Category:名偵探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名偵探柯南歌曲 "wikilink")
-[Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")
-[Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")
-[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
+[Category:电视动画主题歌合辑](https://zh.wikipedia.org/wiki/Category:电视动画主题歌合辑 "wikilink") [Category:名偵探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名偵探柯南歌曲 "wikilink") [Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink") [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink") [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink") [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
 
 1.
 2.

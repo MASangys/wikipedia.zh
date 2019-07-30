@@ -1,7 +1,6 @@
 local fs={} local getArgs local KW_LIMIT=5
 
-function
-fs.linkbuilder(args,url_model,split,url_other,firstword_show,split_show)
+function fs.linkbuilder(args,url_model,split,url_other,firstword_show,split_show)
 
 `   local qw={}`
 `   for i=1,KW_LIMIT do`

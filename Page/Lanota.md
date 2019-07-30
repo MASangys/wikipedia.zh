@@ -1,21 +1,16 @@
-《**Lanota**》是由台灣諾西遊戲（Noxy Games）開發的一款[音樂遊戲](../Page/音樂遊戲.md "wikilink")
-。遊戲的[iOS版本於](https://zh.wikipedia.org/wiki/iOS "wikilink")2016年7月13日在全球的[App
-Store上架](../Page/App_Store_\(iOS\).md "wikilink")\[1\]\[2\]\[3\]
+《**Lanota**》是由台灣諾西遊戲（Noxy Games）開發的一款[音樂遊戲](../Page/音樂遊戲.md "wikilink") 。遊戲的[iOS版本於](https://zh.wikipedia.org/wiki/iOS "wikilink")2016年7月13日在全球的[App Store上架](../Page/App_Store_\(iOS\).md "wikilink")\[1\]\[2\]\[3\]
 
 Lanota的遊戲進行方式以音樂遊戲為主，並含有故事劇情、地圖探索與道具收集等要素。遊戲中主要以繪本敘述故事劇情，分為主線與支線各數個章節，各章節以地圖方式進行並有數個關卡，每個關卡包含一首歌曲；在初次進入章節與每首歌曲初次遊玩結束時，會播放繪本將劇情推進。
 
 ## 遊戲系統
 
-《Lanota》的遊戲方式為由圓盤中央的齒輪邊界向外發射出音符，玩家依照節奏在音符到達外圈發光的判定線時，在對應位置做出點擊、滑動、接取、長按等各種操作。依照演奏的精準度，分為Harmony、Tune、Fail不同判定，並獲得不同分數。遊玩模式分為調律（Tune）與淨化（Purify）兩種\[4\]，模式的命名與劇情相關。每首歌曲分為WHISPER、ACOUSTIC、ULTRA、MASTER四種難度可選擇(MASTER難度需ULTRA難度達Rank
-A後開放)。
+《Lanota》的遊戲方式為由圓盤中央的齒輪邊界向外發射出音符，玩家依照節奏在音符到達外圈發光的判定線時，在對應位置做出點擊、滑動、接取、長按等各種操作。依照演奏的精準度，分為Gold Harmony (大Harmony)、Red Harmony (小Harmony)、Tune、Fail不同判定，並獲得不同分數。遊玩模式分為調律（Tune）與淨化（Purify）兩種\[4\]，模式的命名與劇情相關。每首歌曲分為WHISPER、ACOUSTIC、ULTRA、MASTER四種難度可選擇(MASTER難度需ULTRA難度達Rank A後開放)。
 
-隨著故事章節的演進，玩家將會依序獲得與劇情密切相關的道具。玩家可以查看樂曲所有譜面的遊玩、音礦收集的狀況以及總分，并可调整游戏系统和界面，如背景特效的開關、準度判定的校正、遊玩時圓盤的透明度以及打擊
-Note 的音量。
+隨著故事章節的演進，玩家將會依序獲得與劇情密切相關的道具。玩家可以查看樂曲所有譜面的遊玩、音礦收集的狀況以及總分，并可调整游戏系统和界面，如背景特效的開關、準度判定的校正、遊玩時圓盤的透明度以及打擊 Note 的音量。
 
 ## 情节
 
-依照官方設定\[5\]，
-遊戲中的世界與現實世界相似，但在250年前，世界因為稱為「靜默化」的災難而使得大部分的場所失去聲音與色彩。只有使用前人創造出的一種能源濃縮體──音礦（Notalium），才能讓這些場所恢復原狀。這個人工物質現今無法再被製造，為了要確保世界的正常運作並將受到災害影響的地方恢復原狀，主角只能再利用過去遺留下的音礦。玩家在遊戲中扮演主角菲希卡與里莫，兩人帶著所擁有的音礦調律裝置，將各個場所的無序音礦，調律至可以使用的狀態，讓世界恢復正常運作。
+依照官方設定\[5\]， 遊戲中的世界與現實世界相似，但在250年前，世界因為稱為「靜默化」的災難而使得大部分的場所失去聲音與色彩。只有使用前人創造出的一種能源濃縮體──音礦（Notalium），才能讓這些場所恢復原狀。這個人工物質現今無法再被製造，為了要確保世界的正常運作並將受到災害影響的地方恢復原狀，主角只能再利用過去遺留下的音礦。玩家在遊戲中扮演主角菲希卡與里莫，兩人帶著所擁有的音礦調律裝置，將各個場所的無序音礦，調律至可以使用的狀態，讓世界恢復正常運作。
 
 ## 收錄曲目
 
@@ -852,12 +847,7 @@ Chapter. I</p></td>
   - [Lanota官網](http://www.noxygames.com/lanota)
   - [Lanota iOS版](https://itunes.apple.com/tw/app/lanota/id1050535507)
 
-[Category:2016年电子游戏](https://zh.wikipedia.org/wiki/Category:2016年电子游戏 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink")
-[Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink")
-[Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink")
+[Category:2016年电子游戏](https://zh.wikipedia.org/wiki/Category:2016年电子游戏 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink") [Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink")
 
 1.
 

@@ -1,11 +1,8 @@
-《*' [Go！Princess
-光之美少女](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")
-Go！Go！！豪華三部曲！！！*'》（）是一部[2015年](../Page/2015年.md "wikilink")[10月31日在日本播映的](../Page/10月31日.md "wikilink")[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")。\[1\]
+《*' [Go！Princess 光之美少女](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink") Go！Go！！豪華三部曲！！！*'》（）是一部[2015年](../Page/2015年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")在日本播映的[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")。\[1\]
 
 ## 故事簡介
 
-[Casts_&_Crew_from_"Go\!_Princess_Pretty_Cure_the_Movie"_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_(22241687550).jpg](https://zh.wikipedia.org/wiki/File:Casts_&_Crew_from_"Go!_Princess_Pretty_Cure_the_Movie"_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_\(22241687550\).jpg "fig:Casts_&_Crew_from_\"Go!_Princess_Pretty_Cure_the_Movie\"_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_(22241687550).jpg")にて、プリキュア（着ぐるみ）と声優陣、[Every
-Little Thingが登壇](../Page/小事樂團.md "wikilink")\]\]
+[Casts_&_Crew_from_"Go\!_Princess_Pretty_Cure_the_Movie"_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_(22241687550).jpg](https://zh.wikipedia.org/wiki/File:Casts_&_Crew_from_"Go!_Princess_Pretty_Cure_the_Movie"_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_\(22241687550\).jpg "fig:Casts_&_Crew_from_\"Go!_Princess_Pretty_Cure_the_Movie\"_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_(22241687550).jpg")にて、プリキュア（着ぐるみ）と声優陣、[Every Little Thingが登壇](../Page/小事樂團.md "wikilink")\]\]
 
   - 南瓜王國的寶物：讲述光之美少女为了拯救被抓走的公主殿下而奮身作戰的故事。
   - 光之美少女與萊菲的奇妙之夜！：讲述光之美少女与生活在失去白天的夜之王国的萊菲公主一起夺回白天的故事。
@@ -23,8 +20,7 @@ Little Thingが登壇](../Page/小事樂團.md "wikilink")\]\]
 
   -
 
-    南瓜王國的大臣，本作反派之一，一位長著一頭水色頭髮並且左眼戴著一副用紫色寶石製成的單片眼鏡的神秘男子，手裡總是拿著一本能召喚出絕望堡的玻璃書。曾經是迪斯達克的幹部，但因為首領迪絲比婭沒有對他的能力給予正當的評價，引起了他的強烈不滿，因此退出了該組織轉而來到了南瓜王國。表面看起來文質彬彬很有紳士風度，但實際上他卻是一個笑裡藏刀、口蜜腹劍的陰險小人，自稱自己為「絕望收藏家」，他的真正目的是想要令整個南瓜王國陷入絕望之中并從其中收集絕望能量。其真身是一隻身形巨大的變色龍，最終被全體光之美少女以「光之美少女
-    萬聖夜閃電」（Precure Halloween Eclair）消滅。
+    南瓜王國的大臣，本作反派之一，一位長著一頭水色頭髮並且左眼戴著一副用紫色寶石製成的單片眼鏡的神秘男子，手裡總是拿著一本能召喚出絕望堡的玻璃書。曾經是迪斯達克的幹部，但因為首領迪絲比婭沒有對他的能力給予正當的評價，引起了他的強烈不滿，因此退出了該組織轉而來到了南瓜王國。表面看起來文質彬彬很有紳士風度，但實際上他卻是一個笑裡藏刀、口蜜腹劍的陰險小人，自稱自己為「絕望收藏家」，他的真正目的是想要令整個南瓜王國陷入絕望之中并從其中收集絕望能量。其真身是一隻身形巨大的變色龍，最終被全體光之美少女以「光之美少女 萬聖夜閃電」（Precure Halloween Eclair）消滅。
 
     名字源自於英語「扭曲」。
 
@@ -107,10 +103,6 @@ Little Thingが登壇](../Page/小事樂團.md "wikilink")\]\]
 
   - [映画Go\!プリンセスプリキュア　Go\!Go\!\!豪華3本立て\!\!\!](http://www.toei-anim.co.jp/movie/2015_princess_precure/)
 
-[Category:2015年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2015年日本劇場動畫 "wikilink")
-[Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink")
-[Category:日本兒童文學](https://zh.wikipedia.org/wiki/Category:日本兒童文學 "wikilink")
-[Category:日本奇幻小說](https://zh.wikipedia.org/wiki/Category:日本奇幻小說 "wikilink")
-[Category:2017年小說](https://zh.wikipedia.org/wiki/Category:2017年小說 "wikilink")
+[Category:2015年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2015年日本劇場動畫 "wikilink") [Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink") [Category:日本兒童文學](https://zh.wikipedia.org/wiki/Category:日本兒童文學 "wikilink") [Category:日本奇幻小說](https://zh.wikipedia.org/wiki/Category:日本奇幻小說 "wikilink") [Category:2017年小說](https://zh.wikipedia.org/wiki/Category:2017年小說 "wikilink")
 
 1.

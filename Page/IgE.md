@@ -1,17 +1,10 @@
-[IgE.jpg](https://zh.wikipedia.org/wiki/File:IgE.jpg "fig:IgE.jpg")
-[Mast_cells.jpg](https://zh.wikipedia.org/wiki/File:Mast_cells.jpg "fig:Mast_cells.jpg")
-[Allergy_degranulation_processes_01.svg](https://zh.wikipedia.org/wiki/File:Allergy_degranulation_processes_01.svg "fig:Allergy_degranulation_processes_01.svg"),[蛋白酶](https://zh.wikipedia.org/wiki/蛋白酶 "wikilink"),[趋化因子](../Page/趋化因子.md "wikilink"),[肝素](../Page/肝素.md "wikilink"));
-5 - 颗粒; 6 - 肥大细胞; 7 - 新合成的介质 ([前列腺素](../Page/前列腺素.md "wikilink"),
-[白三烯](../Page/白三烯.md "wikilink"),[血栓素](https://zh.wikipedia.org/wiki/血栓素 "wikilink"),
-PAF)\]\]
+[IgE.jpg](https://zh.wikipedia.org/wiki/File:IgE.jpg "fig:IgE.jpg") [Mast_cells.jpg](https://zh.wikipedia.org/wiki/File:Mast_cells.jpg "fig:Mast_cells.jpg") [Allergy_degranulation_processes_01.svg](https://zh.wikipedia.org/wiki/File:Allergy_degranulation_processes_01.svg "fig:Allergy_degranulation_processes_01.svg"),[蛋白酶](https://zh.wikipedia.org/wiki/蛋白酶 "wikilink"),[趋化因子](../Page/趋化因子.md "wikilink"),[肝素](../Page/肝素.md "wikilink")); 5 - 颗粒; 6 - 肥大细胞; 7 - 新合成的介质 ([前列腺素](../Page/前列腺素.md "wikilink"), [白三烯](../Page/白三烯.md "wikilink"),[血栓素](https://zh.wikipedia.org/wiki/血栓素 "wikilink"), PAF)\]\]
 
-**免疫球蛋白E**（Immunoglobulin
-E，簡稱**IgE**）是一类只发现于哺乳动物内的抗体，是正常人血清中含量最小的免疫球蛋白\[1\]。免疫球蛋白E由黏膜下淋巴组织中的\[2\][效应B细胞合成](https://zh.wikipedia.org/wiki/效应B细胞 "wikilink")，IgE的单体由两个重链和两个轻链组成\[3\]。它是一类亲细胞抗体。IgE可引起I型变态反应（又称[过敏](../Page/过敏.md "wikilink")），同时可能与机体抗寄生虫免疫有关。\[4\]寄生虫和过敏原入侵时，血清中的免疫球蛋白E的含量有明显的提升。
+**免疫球蛋白E**（Immunoglobulin E，簡稱**IgE**）是一类只发现于哺乳动物内的抗体，是正常人血清中含量最小的免疫球蛋白\[1\]。免疫球蛋白E由黏膜下淋巴组织中的\[2\][效应B细胞合成](https://zh.wikipedia.org/wiki/效应B细胞 "wikilink")，IgE的单体由两个重链和两个轻链组成\[3\]。它是一类亲细胞抗体。IgE可引起I型变态反应（又称[过敏](../Page/过敏.md "wikilink")），同时可能与机体抗寄生虫免疫有关。\[4\]寄生虫和过敏原入侵时，血清中的免疫球蛋白E的含量有明显的提升。
 
 ## 首次发现
 
-免疫球蛋白E于1966年被日本免疫学家[石坂公成和妻子](../Page/石坂公成.md "wikilink")[石坂照子发现](../Page/石坂照子.md "wikilink")。
-石坂夫妇和贡纳尔约翰逊和Hans Bennich于1969年联合发表论文在免疫学杂志上。\[5\]
+免疫球蛋白E于1966年被日本免疫学家[石坂公成](../Page/石坂公成.md "wikilink")和妻子[石坂照子](../Page/石坂照子.md "wikilink")发现。 石坂夫妇和贡纳尔约翰逊和Hans Bennich于1969年联合发表论文在免疫学杂志上。\[5\]
 
 ## 受体
 
@@ -32,21 +25,16 @@ E，簡稱**IgE**）是一类只发现于哺乳动物内的抗体，是正常人
 
 ## 参考文献
 
-[Category:免疫系統](https://zh.wikipedia.org/wiki/Category:免疫系統 "wikilink")
-[Category:糖蛋白](https://zh.wikipedia.org/wiki/Category:糖蛋白 "wikilink")
-[Category:抗体](https://zh.wikipedia.org/wiki/Category:抗体 "wikilink")
+[Category:免疫系統](https://zh.wikipedia.org/wiki/Category:免疫系統 "wikilink") [Category:糖蛋白](https://zh.wikipedia.org/wiki/Category:糖蛋白 "wikilink") [Category:抗体](https://zh.wikipedia.org/wiki/Category:抗体 "wikilink")
 
 1.
 
 2.
-3.  [1](https://web.archive.org/web/20080906211232/http://www.cartage.org.lb/en/themes/Sciences/LifeScience/GeneralBiology/Immunology/Recognition/AntigenRecognition/Antibodystructure/Antibodystructure.htm),Web,wayback
-    machine
+3.  [1](https://web.archive.org/web/20080906211232/http://www.cartage.org.lb/en/themes/Sciences/LifeScience/GeneralBiology/Immunology/Recognition/AntigenRecognition/Antibodystructure/Antibodystructure.htm),Web,wayback machine
 
 4.
-5.  [2](http://onlinelibrary.wiley.com/doi/10.1111/j.1398-9995.1993.tb00687.x/pdf),Stanworth
-    DR. *Allergy* 1993: 48: 67-71
+5.  [2](http://onlinelibrary.wiley.com/doi/10.1111/j.1398-9995.1993.tb00687.x/pdf),Stanworth DR. *Allergy* 1993: 48: 67-71
 
 6.  [3](http://www.nature.com/gene/journal/v3/n3/full/6363848a.html),Nature
 
-7.  [4](http://www.cqvip.com/qk/95553x/201213/1001995906.html),
-    中文科技期刊数据库
+7.  [4](http://www.cqvip.com/qk/95553x/201213/1001995906.html), 中文科技期刊数据库

@@ -1,4 +1,4 @@
-《**我与你的光年距离2**》為[芒果TV及](../Page/芒果TV.md "wikilink")[藍港影業合拍](https://zh.wikipedia.org/wiki/藍港影業 "wikilink")\[1\]的奇幻愛情劇\[2\]，2018年5月26日於深圳正式開機\[3\]，由[王以綸](../Page/王以綸.md "wikilink")、許曉諾、[張柏嘉](../Page/張柏嘉.md "wikilink")、完顏落絨主演。為網絡劇[我與你的光年距離的續集](../Page/我與你的光年距離.md "wikilink")，但劇情並無關聯。[芒果TV于](../Page/芒果TV.md "wikilink")2018年12月16日首播\[4\]。
+《**我与你的光年距离2**》為[芒果TV](../Page/芒果TV.md "wikilink")及[藍港影業合拍](https://zh.wikipedia.org/wiki/藍港影業 "wikilink")\[1\]的奇幻愛情劇\[2\]，2018年5月26日於深圳正式開機\[3\]，由[王以綸](../Page/王以綸.md "wikilink")、許曉諾、[張柏嘉](../Page/張柏嘉.md "wikilink")、完顏落絨主演。為網絡劇[我與你的光年距離](../Page/我與你的光年距離.md "wikilink")的續集，但劇情並無關聯。[芒果TV](../Page/芒果TV.md "wikilink")于2018年12月16日首播\[4\]。
 
 ## 播出时间
 
@@ -119,8 +119,7 @@
 
   - [我與你的光年距離網劇的微博](https://www.weibo.com/p/1002066010839476/home?from=page_100206&mod=TAB#place)
 
-[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink")
-[Category:2018年中国网络剧](https://zh.wikipedia.org/wiki/Category:2018年中国网络剧 "wikilink")
+[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink") [Category:2018年中国网络剧](https://zh.wikipedia.org/wiki/Category:2018年中国网络剧 "wikilink")
 
 1.
 2.

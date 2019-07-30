@@ -1,5 +1,4 @@
-《**PG家長指引**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[梁漢文在](https://zh.wikipedia.org/wiki/梁漢文 "wikilink")2000年發行的一張[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")。專輯同名作兼第二主打《PG家長指引》獲得[2000年度叱咤樂壇流行榜頒獎典禮專業推介](../Page/2000年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")
-叱咤十大：第九位，是梁漢文首支獲得叱咤十大的歌曲。
+《**PG家長指引**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[梁漢文在](https://zh.wikipedia.org/wiki/梁漢文 "wikilink")2000年發行的一張[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")。專輯同名作兼第二主打《PG家長指引》獲得[2000年度叱咤樂壇流行榜頒獎典禮專業推介](../Page/2000年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") 叱咤十大：第九位，是梁漢文首支獲得叱咤十大的歌曲。
 而此唱片亦是標誌著梁漢文歌路和形象上轉變，梁漢文在法國拍攝唱片封套時，在當地穿了耳洞，衣着打扮亦走龐克路線（Punk），有別於過往走大路抒情歌，鄰家男孩的形象\[1\]。
 
 ## 唱片版本
@@ -26,14 +25,11 @@
 
 ### 歌曲《PG家長指引》
 
-  - [2000年度叱咤樂壇流行榜頒獎典禮](../Page/2000年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")－專業推介
-    叱咤十大：第九位
+  - [2000年度叱咤樂壇流行榜頒獎典禮](../Page/2000年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")－專業推介 叱咤十大：第九位
 
 ## 参考来源
 
-[Category:梁漢文音樂專輯](https://zh.wikipedia.org/wiki/Category:梁漢文音樂專輯 "wikilink")
-[Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")
+[Category:梁漢文音樂專輯](https://zh.wikipedia.org/wiki/Category:梁漢文音樂專輯 "wikilink") [Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")
 
 1.  [谢霆锋梁汉文穿耳洞打造狂野形象](http://ent.sina.com.cn/star/hk_tw/2000-09-03/15402.html)
-2.  [PG家長指引 (金碟)
-    (華星40經典金唱片)](http://www.yesasia.com/global/pg%E5%AE%B6%E9%95%B7%E6%8C%87%E5%BC%95-%E9%87%91%E7%A2%9F-%E8%8F%AF%E6%98%9F40%E7%B6%93%E5%85%B8%E9%87%91%E5%94%B1%E7%89%87/1036312606-0-0-0-zh_TW/info.html)
+2.  [PG家長指引 (金碟) (華星40經典金唱片)](http://www.yesasia.com/global/pg%E5%AE%B6%E9%95%B7%E6%8C%87%E5%BC%95-%E9%87%91%E7%A2%9F-%E8%8F%AF%E6%98%9F40%E7%B6%93%E5%85%B8%E9%87%91%E5%94%B1%E7%89%87/1036312606-0-0-0-zh_TW/info.html)

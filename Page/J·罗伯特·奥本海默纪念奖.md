@@ -14,10 +14,8 @@
   - 1978 – [约瑟琳·贝尔·伯奈尔](../Page/约瑟琳·贝尔·伯奈尔.md "wikilink")\[10\]
   - 1979 – [亚伯拉罕·派斯](../Page/亞伯拉罕·派斯.md "wikilink")\[11\]
   - 1980 – [理查德·H·达利兹](../Page/理查德·达利兹.md "wikilink")\[12\]
-  - 1981 –
-    [弗雷德里克·莱茵斯](https://zh.wikipedia.org/wiki/弗雷德里克·莱因斯 "wikilink")\[13\]
-  - 1982 – Maurice Goldhaber 和
-    [罗伯特·E·马沙克](../Page/羅伯特·馬沙克.md "wikilink")\[14\]
+  - 1981 – [弗雷德里克·莱茵斯](https://zh.wikipedia.org/wiki/弗雷德里克·莱因斯 "wikilink")\[13\]
+  - 1982 – Maurice Goldhaber 和 [罗伯特·E·马沙克](../Page/羅伯特·馬沙克.md "wikilink")\[14\]
   - 1983 – [维克托·魏斯科普夫](../Page/维克托·魏斯科普夫.md "wikilink")\[15\]
   - 1984 – [约翰·阿奇博尔德·惠勒](../Page/約翰·惠勒.md "wikilink")\[16\]
 
@@ -26,8 +24,7 @@
 ## 参考资料
 
   -
-[Category:1969年建立的奖项](https://zh.wikipedia.org/wiki/Category:1969年建立的奖项 "wikilink")
-[Category:物理獎項](https://zh.wikipedia.org/wiki/Category:物理獎項 "wikilink")
+[Category:1969年建立的奖项](https://zh.wikipedia.org/wiki/Category:1969年建立的奖项 "wikilink") [Category:物理獎項](https://zh.wikipedia.org/wiki/Category:物理獎項 "wikilink")
 
 1.
 2.

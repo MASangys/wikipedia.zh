@@ -1,4 +1,4 @@
-**Dramaism**（），是[每日放送每逢星期日不定時間播放的](../Page/每日放送.md "wikilink")[電視連續劇時段](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")。
+**Dramaism**（），是[每日放送](../Page/每日放送.md "wikilink")每逢星期日不定時間播放的[電視連續劇時段](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")。
 
 ## 概要
 
@@ -8,8 +8,7 @@
 
 #### 2016年
 
-  - 4月18日－6月13日：**[迪亞茲警察
-    異邦警察](https://zh.wikipedia.org/wiki/迪亞茲警察_異邦警察 "wikilink")（）**
+  - 4月18日－6月13日：**[迪亞茲警察 異邦警察](https://zh.wikipedia.org/wiki/迪亞茲警察_異邦警察 "wikilink")（）**
       - 出演：[松田翔太](../Page/松田翔太.md "wikilink")
       - 原作：[理查德·吳](https://zh.wikipedia.org/wiki/長崎尚志 "wikilink")（）、畫：[杉村伸一](https://zh.wikipedia.org/wiki/杉村伸一 "wikilink")（）
       - 劇本：冨永昌敬、茂木克仁、真利子哲也、熊切和嘉
@@ -43,8 +42,7 @@
       - 出演：[清水富美加](../Page/清水富美加.md "wikilink")・[松井玲奈](../Page/松井玲奈.md "wikilink")
       - 原作：[山本幸久](https://zh.wikipedia.org/wiki/山本幸久 "wikilink")
       - 劇本：[飯塚健](https://zh.wikipedia.org/wiki/飯塚健 "wikilink")
-  - 4月17日－5月29日：**[Final Fantasy XIV
-    光之老爸](https://zh.wikipedia.org/wiki/Final_Fantasy_XIV_光之老爸 "wikilink")（）**
+  - 4月17日－5月29日：**[Final Fantasy XIV 光之老爸](https://zh.wikipedia.org/wiki/Final_Fantasy_XIV_光之老爸 "wikilink")（）**
       - 出演：[千葉雄大](../Page/千葉雄大.md "wikilink")・[大杉漣](../Page/大杉漣.md "wikilink")
       - 原作：麥迪（）《》
       - 劇本：[吹原幸太](https://zh.wikipedia.org/wiki/吹原幸太 "wikilink")
@@ -54,8 +52,7 @@
   - 7月5日－7月31日：**[真的要去航海](../Page/真的要去航海.md "wikilink")（）**
       - 出演：[飯豐萬理江](../Page/飯豐萬理江.md "wikilink")・[武田玲奈](../Page/武田玲奈.md "wikilink")
       - 劇本：アサダアツシ
-  - 8月16日－：**[伊藤君A to
-    E](https://zh.wikipedia.org/wiki/伊藤君A_to_E "wikilink")（）**
+  - 8月16日－：**[伊藤君A to E](https://zh.wikipedia.org/wiki/伊藤君A_to_E "wikilink")（）**
       - 出演：[木村文乃](../Page/木村文乃.md "wikilink")
       - 原作：[柚木麻子](https://zh.wikipedia.org/wiki/柚木麻子 "wikilink")
       - 劇本：[喜安浩平](../Page/喜安浩平.md "wikilink")
@@ -67,8 +64,7 @@
       - 出演：[青柳翔](../Page/青柳翔.md "wikilink")
       - 原作：[大日向豪](https://zh.wikipedia.org/wiki/大日向豪 "wikilink")
       - 劇本：[鈴木謙一](https://zh.wikipedia.org/wiki/鈴木謙一 "wikilink")
-  - 12月5日－：**[咲-Saki-阿知賀篇 episode of
-    side-A](../Page/咲-Saki-.md "wikilink")（）**
+  - 12月5日－：**[咲-Saki- episode of side-A](../Page/咲-Saki-.md "wikilink")阿知賀篇（）**
       - 出演：
       - 原作：小林立
       - 劇本：森迅史
@@ -82,12 +78,9 @@
 
 <!-- end list -->
 
-  - 3月26日－：**[絕對戀愛命令](../Page/絕對戀愛命令.md "wikilink") /
-    [兄友](https://zh.wikipedia.org/wiki/兄友 "wikilink")（）**
-      - 出演：[玉城ティナ](https://zh.wikipedia.org/wiki/玉城ティナ "wikilink")・[小關裕太](../Page/小關裕太.md "wikilink")
-        / [橫濱流星](../Page/橫濱流星.md "wikilink")
-      - 原作：[遠山繪麻](../Page/遠山繪麻.md "wikilink") /
-        [赤瓦もどむ](https://zh.wikipedia.org/wiki/赤瓦もどむ "wikilink")
+  - 3月26日－：**[絕對戀愛命令](../Page/絕對戀愛命令.md "wikilink") / [兄友](https://zh.wikipedia.org/wiki/兄友 "wikilink")（）**
+      - 出演：[玉城ティナ](https://zh.wikipedia.org/wiki/玉城ティナ "wikilink")・[小關裕太](../Page/小關裕太.md "wikilink") / [橫濱流星](../Page/橫濱流星.md "wikilink")
+      - 原作：[遠山繪麻](../Page/遠山繪麻.md "wikilink") / [赤瓦もどむ](https://zh.wikipedia.org/wiki/赤瓦もどむ "wikilink")
       - 劇本：山本透、北川亞矢子 / 中川千英子
 
 <!-- end list -->
@@ -106,8 +99,7 @@
 
 <!-- end list -->
 
-  - 7月31日－：**[真的要去航海～Second
-    Season～](../Page/真的要去航海_\(第二季\).md "wikilink")（）**
+  - 7月31日－：**[真的要去航海～Second Season～](../Page/真的要去航海_\(第二季\).md "wikilink")（）**
       - 出演：[飯豐萬理江](../Page/飯豐萬理江.md "wikilink")・[武田玲奈](../Page/武田玲奈.md "wikilink")
       - 劇本：アサダアツシ
 
@@ -141,8 +133,4 @@
       - 原作：[河本焰](../Page/河本焰.md "wikilink")、畫：[尚村透](../Page/尚村透.md "wikilink")
       - 劇本：[高野水澄](https://zh.wikipedia.org/wiki/高野水澄 "wikilink")、[英勉](https://zh.wikipedia.org/wiki/英勉 "wikilink")
 
-[Category:Dramaism](https://zh.wikipedia.org/wiki/Category:Dramaism "wikilink")
-[Category:TBS深夜劇集](https://zh.wikipedia.org/wiki/Category:TBS深夜劇集 "wikilink")
-[Category:每日放送深夜劇集](https://zh.wikipedia.org/wiki/Category:每日放送深夜劇集 "wikilink")
-[Category:日本電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:日本電視台電視劇列表 "wikilink")
-[Category:日本電視劇播放時段](https://zh.wikipedia.org/wiki/Category:日本電視劇播放時段 "wikilink")
+[Category:Dramaism](https://zh.wikipedia.org/wiki/Category:Dramaism "wikilink") [Category:TBS深夜劇集](https://zh.wikipedia.org/wiki/Category:TBS深夜劇集 "wikilink") [Category:每日放送深夜劇集](https://zh.wikipedia.org/wiki/Category:每日放送深夜劇集 "wikilink") [Category:日本電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:日本電視台電視劇列表 "wikilink") [Category:日本電視劇播放時段](https://zh.wikipedia.org/wiki/Category:日本電視劇播放時段 "wikilink")

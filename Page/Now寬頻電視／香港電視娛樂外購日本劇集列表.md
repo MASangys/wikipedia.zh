@@ -1,5 +1,5 @@
-本條目列出曾於[Now寬頻電視](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")／[香港電視娛樂播放但並非由其公司所製作的](../Page/香港電視娛樂.md "wikilink")**外購日本劇集**，一般以粵/日雙語廣播。
-<small>註：劇集名稱**前**的為該劇於[Now寬頻電視](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")／[香港電視娛樂的首播日期及頻道](../Page/香港電視娛樂.md "wikilink")。</small>
+本條目列出曾於[Now寬頻電視](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")／[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")播放但並非由其公司所製作的**外購日本劇集**，一般以粵/日雙語廣播。
+<small>註：劇集名稱**前**的為該劇於[Now寬頻電視](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")／[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")的首播日期及頻道。</small>
 
 ## 2009年
 
@@ -301,7 +301,7 @@
 <tr class="even">
 <td><p>5月20日</p></td>
 <td><p><a href="../Page/Now_101台.md" title="wikilink">Now 101台</a></p></td>
-<td><p><a href="../Page/孃王.md" title="wikilink">孃王3</a></p></td>
+<td><p><a href="../Page/孃王.md" title="wikilink">孃王</a>3</p></td>
 <td><p><a href="../Page/原幹惠.md" title="wikilink">原幹惠</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/原紗央莉" title="wikilink">原紗央莉</a><br />
 <a href="../Page/神樂坂惠.md" title="wikilink">神樂坂惠</a></p></td>
@@ -1629,8 +1629,7 @@
 
 ## 參見
 
-[Category:Now寬頻電視節目](https://zh.wikipedia.org/wiki/Category:Now寬頻電視節目 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
+[Category:Now寬頻電視節目](https://zh.wikipedia.org/wiki/Category:Now寬頻電視節目 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
 
 1.
 2.

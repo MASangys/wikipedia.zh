@@ -2,16 +2,13 @@
 
 ## 背景
 
-2015年5月6日，[JYP娛樂透露](../Page/JYP娛樂.md "wikilink")2PM即將推出新專輯\[2\]，並於5月8日在2PM官方[Facebook公布新專輯在](../Page/Facebook.md "wikilink")6月1日發行；6月27日－28日在[首爾奧林匹克體操競技場舉行演唱會](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink")\[3\]。
+2015年5月6日，[JYP娛樂](../Page/JYP娛樂.md "wikilink")透露2PM即將推出新專輯\[2\]，並於5月8日在2PM官方[Facebook](../Page/Facebook.md "wikilink")公布新專輯在6月1日發行；6月27日－28日在[首爾奧林匹克體操競技場舉行演唱會](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink")\[3\]。
 
-5月11日，JYP娛樂發表公告，指為2PM拍攝新專輯[音樂錄影帶的導演韓師旼](../Page/音樂錄影帶.md "wikilink")（音譯，）逕自宣布因為與其相關的藝人推出新歌曲而中止製作2PM音樂錄影帶（同時還有負責[GOT7歌曲音樂錄影帶的導演金智庸](../Page/GOT7.md "wikilink")（音譯，）也用同樣理由中止製作），決定控告其所屬公司Production
-DEXTERLAB，亦因此2PM新專輯需延期發行\[4\]。兩天後（5月13日），韓國傳媒報導JYP娛樂改與Naive Creative
-Production合作，為2PM拍攝新歌的音樂錄影帶，也會加快步伐處理新專輯事宜\[5\]。
+5月11日，JYP娛樂發表公告，指為2PM拍攝新專輯[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")的導演韓師旼（音譯，）逕自宣布因為與其相關的藝人推出新歌曲而中止製作2PM音樂錄影帶（同時還有負責[GOT7](../Page/GOT7.md "wikilink")歌曲音樂錄影帶的導演金智庸（音譯，）也用同樣理由中止製作），決定控告其所屬公司Production DEXTERLAB，亦因此2PM新專輯需延期發行\[4\]。兩天後（5月13日），韓國傳媒報導JYP娛樂改與Naive Creative Production合作，為2PM拍攝新歌的音樂錄影帶，也會加快步伐處理新專輯事宜\[5\]。
 
-5月18日，成員[俊昊在為他主演的電影](https://zh.wikipedia.org/wiki/李俊昊 "wikilink")《[二十](https://zh.wikipedia.org/wiki/二十_\(電影\) "wikilink")》和[金宇彬在電台節目](../Page/金宇彬.md "wikilink")《》（）宣傳時，透露了2PM將改於6月中旬發表新作品，公司方面則指出確實時間尚未決定\[6\]。
+5月18日，成員[俊昊在為他主演的電影](https://zh.wikipedia.org/wiki/李俊昊 "wikilink")《[二十](https://zh.wikipedia.org/wiki/二十_\(電影\) "wikilink")》和[金宇彬](../Page/金宇彬.md "wikilink")在電台節目《》（）宣傳時，透露了2PM將改於6月中旬發表新作品，公司方面則指出確實時間尚未決定\[6\]。
 
-到6月5日，JYP娛樂公開多張新專輯預告照片，公布了他們的回歸日期——6月15日及新專輯名稱——《No.5》\[7\]，主打歌曲是由[Jun.
-K創作的](https://zh.wikipedia.org/wiki/Jun._K "wikilink")《我們家》（）\[8\]。
+到6月5日，JYP娛樂公開多張新專輯預告照片，公布了他們的回歸日期——6月15日及新專輯名稱——《No.5》\[7\]，主打歌曲是由[Jun. K創作的](https://zh.wikipedia.org/wiki/Jun._K "wikilink")《我們家》（）\[8\]。
 
 6月10日，JYP娛樂公開完整專輯曲目名單\[9\]；而首支回歸預告片則於6月12日在其官方Youtube頻道上傳\[10\]。
 
@@ -80,7 +77,7 @@ K創作的](https://zh.wikipedia.org/wiki/Jun._K "wikilink")《我們家》（�
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量   | 總銷量    |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量   | 總銷量    |
 | ---------------------------------------- | ---- | ----- | ------ |
 | 專輯月榜                                     | 36   | 9,132 | 9,132+ |
 
@@ -146,10 +143,7 @@ K創作的](https://zh.wikipedia.org/wiki/Jun._K "wikilink")《我們家》（�
 
   - [2PM官方網站](http://2pm.jype.com)
 
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
-[Category:2PM音樂專輯](https://zh.wikipedia.org/wiki/Category:2PM音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:2PM音樂專輯](https://zh.wikipedia.org/wiki/Category:2PM音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

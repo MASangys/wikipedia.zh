@@ -136,6 +136,4 @@
 
   - [TVnavi日劇年度大賞第1回得獎名單](http://www.tvnaviweb.jp/TVnavi_contents/doYear/2004index.html)
 
-
-[Category:2004年日本](https://zh.wikipedia.org/wiki/Category:2004年日本 "wikilink")
-[Category:2004年电视奖项](https://zh.wikipedia.org/wiki/Category:2004年电视奖项 "wikilink")
+[Category:2004年日本](https://zh.wikipedia.org/wiki/Category:2004年日本 "wikilink") [Category:2004年电视奖项](https://zh.wikipedia.org/wiki/Category:2004年电视奖项 "wikilink")

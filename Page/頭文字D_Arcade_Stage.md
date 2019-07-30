@@ -1,20 +1,15 @@
-《**头文字D Arcade Stage**》系列是由 SEGA 以漫画《头文字D》的主题为基础开发，由 SEGA Interactive
-负责发行的街机赛车游戏系列。
+《**头文字D Arcade Stage**》系列是由 SEGA 以漫画《头文字D》的主题为基础开发，由 SEGA Interactive 负责发行的街机赛车游戏系列。
 
 ## 系列列表
 
-  - 頭文字D Arcade Stage
-    Ver.1（[街机游戏](https://zh.wikipedia.org/wiki/街机游戏 "wikilink")）
+  - 頭文字D Arcade Stage Ver.1（[街机游戏](https://zh.wikipedia.org/wiki/街机游戏 "wikilink")）
   - 頭文字D Arcade Stage Ver.2 （街机游戏）
-  - 頭文字D Special Stage （[PlayStation
-    2](../Page/PlayStation_2.md "wikilink")）
+  - 頭文字D Special Stage （[PlayStation 2](../Page/PlayStation_2.md "wikilink")）
   - 頭文字D Arcade Stage Ver.3 （街机游戏）
-  - 頭文字D Street Stage （[PlayStation
-    Portable](../Page/PlayStation_Portable.md "wikilink")）
+  - 頭文字D Street Stage （[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")）
   - 頭文字D Arcade Stage 4 （街机游戏）
       - 頭文字D Arcade Stage 4 改（街机游戏）※4代强化版
-  - 頭文字D Extreme Stage （[PlayStation
-    3](../Page/PlayStation_3.md "wikilink")）
+  - 頭文字D Extreme Stage （[PlayStation 3](../Page/PlayStation_3.md "wikilink")）
   - 頭文字D Arcade Stage 5 （街机游戏）
   - 頭文字D Arcade Stage 6 AA（街机游戏）
   - 頭文字D Arcade Stage 7 AAX（街机游戏）
@@ -45,20 +40,14 @@
   - 筐体厂家：SEGA
   - 游戏基板：Nu2
   - 游玩人数：1人～2人
-  - 输入设备：方向盘・6速变速器・油门・刹车・Start 按钮・View Change 按钮・上下左右按钮
+  - 输入设备：方向盘・6速变速器・油门・刹车・Start 按钮・View Change 按钮・上下左右按钮\[2\]
   - [Aime卡感应器](https://zh.wikipedia.org/wiki/Aime "wikilink")
 
 ## 游戏介绍
 
-以传说中的赛车手・[藤原文太的儿子](../Page/頭文字D角色列表.md "wikilink")[藤原拓海在群馬的](../Page/藤原拓海.md "wikilink")[秋名山与各路车手对战的](../Page/榛名山.md "wikilink")[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")《[頭文字D](../Page/頭文字D.md "wikilink")》的故事为背景，其街机游戏于[2002年春开始稼動](../Page/2002年.md "wikilink")。
-机器筐体以藤原豆腐店的熊猫色Trueno（黑白色的[AE86型 SPRINTER
-TRUENO](../Page/豐田AE86.md "wikilink")）为原型打造，用于保存游戏数据的磁卡和游戏载入画面则使用了部分原作插画（部分含有卷数来源）。
+以传说中的赛车手・[藤原文太的儿子](../Page/頭文字D角色列表.md "wikilink")[藤原拓海](../Page/藤原拓海.md "wikilink")在群馬的[秋名山与各路车手对战的](../Page/榛名山.md "wikilink")[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")《[頭文字D](../Page/頭文字D.md "wikilink")》的故事为背景，其街机游戏于[2002年](../Page/2002年.md "wikilink")春开始稼動。 机器筐体以藤原豆腐店的熊猫色Trueno（黑白色的[AE86型 SPRINTER TRUENO](../Page/豐田AE86.md "wikilink")）为原型打造，用于保存游戏数据的磁卡和游戏载入画面则使用了部分原作插画（部分含有卷数来源）。
 
-使用记录了自己的名称与爱车的“頭文字D免許証”（初代至三代为磁式软卡，从四代到八代更改为IC卡。《ZERO》（九代）则使用SEGA
-Interactive 的 Aime 卡，兼容[ 万代南梦宫娱乐](../Page/万代南梦宫娱乐.md "wikilink") 的
-BANAPASSPORT），即可使用在游戏内取得的 D Point 改装车辆和游玩各个游戏模式。
-与原作中的角色在各个山路对战的“公道最速伝説（故事模式）”、挑战在线排行榜的“タイムアタック（计时赛）”。从Ver.2开始加入了“文太に挑戦\!\!（挑战文太）”，赢的次数越多藤原文太将变得越来越快。
-其次，还有各个模式中都可以进行“乱入対戦（店内挑战）”，五代则增加了可与全国玩家对战的“全国対戦（全国对战）”模式，从六代开始大为发展的海外市场使得世嘉开启了亚太地区服务器的海外世界对战，更有几率遭遇日本顶级选手的模式，大大增加了游戏的乐趣。
+使用记录了自己的名称与爱车的“頭文字D免許証”（初代至三代为磁式软卡，从四代到八代更改为IC卡。《ZERO》（九代）则使用SEGA Interactive 的 Aime 卡，兼容[ 万代南梦宫娱乐](../Page/万代南梦宫娱乐.md "wikilink") 的 BANAPASSPORT），即可使用在游戏内取得的 D Point 改装车辆和游玩各个游戏模式。 与原作中的角色在各个山路对战的“公道最速伝説（故事模式）”、挑战在线排行榜的“タイムアタック（计时赛）”。从Ver.2开始加入了“文太に挑戦\!\!（挑战文太）”，赢的次数越多藤原文太将变得越来越快。 其次，还有各个模式中都可以进行“乱入対戦（店内挑战）”，五代则增加了可与全国玩家对战的“全国対戦（全国对战）”模式，从六代开始大为发展的海外市场使得世嘉开启了亚太地区服务器的海外世界对战，更有几率遭遇日本顶级选手的模式，大大增加了游戏的乐趣。
 
 ## 主要游戏模式
 
@@ -74,14 +63,10 @@ BANAPASSPORT），即可使用在游戏内取得的 D Point 改装车辆和游�
 ### タイムアタック（计时赛）
 
   -
-    单人玩家进行计时赛的模式。游戏画面的右上会显示筐体内记录（如有店内[服务器黑盒则为店内记录](../Page/服务器.md "wikilink")）综合排名第一・车种排名第一・个人最佳的时间记录，且各个时间记录的下面会显示目前成绩与最佳成绩的时间差（从Ver.3开始显示）・个人最佳的时间差（Diffタイム）还有各种信息。达到筐体内（店内）记录（综合榜十名以内・车种时间榜第一），又或者打破了个人最佳纪录时，用于登记在线时间排行榜的专用密码会在
-    GAME OVER 时提示发行（框体需联网）。
+    单人玩家进行计时赛的模式。游戏画面的右上会显示筐体内记录（如有店内[服务器](../Page/服务器.md "wikilink")黑盒则为店内记录）综合排名第一・车种排名第一・个人最佳的时间记录，且各个时间记录的下面会显示目前成绩与最佳成绩的时间差（从Ver.3开始显示）・个人最佳的时间差（Diffタイム）还有各种信息。达到筐体内（店内）记录（综合榜十名以内・车种时间榜第一），又或者打破了个人最佳纪录时，用于登记在线时间排行榜的专用密码会在 GAME OVER 时提示发行（框体需联网）。
     此密码可在游戏开始时的 Status 画面确认。（Street Stage则无该项功能）。
     从四代开始实装在线排行榜机能，只要筐体连接了ALL.Net，个人最佳时间将会被自动发送到排行榜上，排行也会实时更新。
-    从6代开始增加了基于时间标准的时间评价，分别为BRONZE・SILVER・GOLD・PLATINUM，七代则增加了第五个评价
-    SPECIALIST, Zero则增加了第六个评价
-    PROFESSIONAL。八代则为全系列中评价最严格的一代，哪怕是高手根据使用的车种不同也有可能出现拿不到
-    SPECIALIST 评价的情况。根据这个情况『Zero』降低了各个评价的时间标准，这个问题也随之消失了。
+    从6代开始增加了基于时间标准的时间评价，分别为BRONZE・SILVER・GOLD・PLATINUM，七代则增加了第五个评价 SPECIALIST, Zero则增加了第六个评价 PROFESSIONAL。八代则为全系列中评价最严格的一代，哪怕是高手根据使用的车种不同也有可能出现拿不到 SPECIALIST 评价的情况。根据这个情况『Zero』降低了各个评价的时间标准，这个问题也随之消失了。
     八代中使用 D Coin 可以在计时赛中开启幽灵模式（个人最佳录像）『Zero』则将此功能完全免费化了。
 
 ### 通信対戦（通信对战）
@@ -97,14 +82,9 @@ BANAPASSPORT），即可使用在游戏内取得的 D Point 改装车辆和游�
 ### 文太に挑戦\!\!（挑战文太！！）
 
   -
-    与原作中的角色「藤原文太」对战的模式。于『Ver.2』中实装\[2\]，赛道限制为上级和超上级，『Ver.3』则无限制。四代及以后版本则移除该模式。
-    街机版本中需要点数（以下简称pts）才可选择，Street Stage 中则需要于「公道最速伝説」中 全峠制覇（全山道制霸）
-    （只需一回即可），并查阅所获得的藤原文太角色卡即可选择。战胜文太可*'获得 **pts
-    ，战败则**没收*'参加所需的 pts 。不过在 Street Stage
-    中，无论胜败均可获得卡片。
-    在『Ver.2』中，1 到 10 级需要 1000pts 。11 到 20 级需要 2000pts 。21 到 30 级需要
-    3000pts 。到了『Ver.3』则全部统一为 4000pts
-    ，文太的难度等级也更改为15个级别。且于秋名的11到15级的对战则被强制在雪天进行（秋名·雪）
+    与原作中的角色「藤原文太」对战的模式。于『Ver.2』中实装\[3\]，赛道限制为上级和超上级，『Ver.3』则无限制。四代及以后版本则移除该模式。
+    街机版本中需要点数（以下简称pts）才可选择，Street Stage 中则需要于「公道最速伝説」中 全峠制覇（全山道制霸） （只需一回即可），并查阅所获得的藤原文太角色卡即可选择。战胜文太可*'获得 **pts ，战败则**没收*'参加所需的 pts 。不过在 Street Stage 中，无论胜败均可获得卡片。
+    在『Ver.2』中，1 到 10 级需要 1000pts 。11 到 20 级需要 2000pts 。21 到 30 级需要 3000pts 。到了『Ver.3』则全部统一为 4000pts ，文太的难度等级也更改为15个级别。且于秋名的11到15级的对战则被强制在雪天进行（秋名·雪）
     此外，无论胜败均不可继续游戏，游戏将强制 GAME OVER 并排出游戏卡。
 
 ### 挑戦状（挑战书）
@@ -120,16 +100,8 @@ BANAPASSPORT），即可使用在游戏内取得的 D Point 改装车辆和游�
 
 <references />
 
-[Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:電子遊戲跨媒體製作](https://zh.wikipedia.org/wiki/Category:電子遊戲跨媒體製作 "wikilink")
-[Category:世嘉游戏](https://zh.wikipedia.org/wiki/Category:世嘉游戏 "wikilink")
-[Category:競速遊戲](https://zh.wikipedia.org/wiki/Category:競速遊戲 "wikilink")
-[Category:漫畫改編電子遊戲](https://zh.wikipedia.org/wiki/Category:漫畫改編電子遊戲 "wikilink")
-[Category:頭文字D](https://zh.wikipedia.org/wiki/Category:頭文字D "wikilink")
+[Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:電子遊戲跨媒體製作](https://zh.wikipedia.org/wiki/Category:電子遊戲跨媒體製作 "wikilink") [Category:世嘉游戏](https://zh.wikipedia.org/wiki/Category:世嘉游戏 "wikilink") [Category:競速遊戲](https://zh.wikipedia.org/wiki/Category:競速遊戲 "wikilink") [Category:漫畫改編電子遊戲](https://zh.wikipedia.org/wiki/Category:漫畫改編電子遊戲 "wikilink") [Category:頭文字D](https://zh.wikipedia.org/wiki/Category:頭文字D "wikilink")
 
-1.  [弊社製品保守対応の終了について](https://www2.sls-net.co.jp/cms/sls/pdf/news/201611_p_maintenance.pdf)セガ・インタラクティブ、セガ・ロジスティクスサービス
-    2016年11月
-2.  并没有收录于『Special Stage』（基于『Ver.2』）、但在『Street Stage』（基于『Ver.3』）中则有收录。
+1.  [弊社製品保守対応の終了について](https://www2.sls-net.co.jp/cms/sls/pdf/news/201611_p_maintenance.pdf)セガ・インタラクティブ、セガ・ロジスティクスサービス 2016年11月
+2.  在比賽開始前，只能使用\[上下左右\]、Start、View Change，無法操作方向盤、其它按鈕、踏板或拉動把手
+3.  并没有收录于『Special Stage』（基于『Ver.2』）、但在『Street Stage』（基于『Ver.3』）中则有收录。

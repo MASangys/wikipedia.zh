@@ -1,17 +1,12 @@
-**Puyo**（，），[日本男性](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。他的作品主要以[電子遊戲為題材](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，在[同人漫畫選集或](https://zh.wikipedia.org/wiki/漫畫選集 "wikilink")[輕小說發表插圖為中心](../Page/輕小說.md "wikilink")。
+**Puyo**（，），[日本](../Page/日本.md "wikilink")男性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。他的作品主要以[電子遊戲為題材](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，在[同人漫畫選集或](https://zh.wikipedia.org/wiki/漫畫選集 "wikilink")[輕小說](../Page/輕小說.md "wikilink")發表插圖為中心。
 
 ## 來歷
 
-2007年，在[角川書店旗下雜誌](../Page/角川書店.md "wikilink")《[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")》9月號開始連載[涼宮春日系列](../Page/涼宮春日系列.md "wikilink")（原作：[谷川流](../Page/谷川流.md "wikilink")／人物原案：[伊東雜音](../Page/伊東雜音_\(1999年出道\).md "wikilink")）衍伸外傳作品「[小涼宮春日的憂鬱](https://zh.wikipedia.org/wiki/涼宮春日系列#小涼宮春日的憂鬱 "wikilink")」（後隨著《[The
-Sneaker](../Page/The_Sneaker.md "wikilink")》在2007年10月號宣布停刊之下，移轉至《[Ace
-Assault](https://zh.wikipedia.org/wiki/Ace_Assault "wikilink")》2007年夏季號繼續連載，直到《Ace
-Assault》在2009年春季號也宣布停刊為止）。
+2007年，在[角川書店](../Page/角川書店.md "wikilink")旗下雜誌《[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")》9月號開始連載[涼宮春日系列](../Page/涼宮春日系列.md "wikilink")（原作：[谷川流](../Page/谷川流.md "wikilink")／人物原案：[伊東雜音](../Page/伊東雜音_\(1999年出道\).md "wikilink")）衍伸外傳作品「[小涼宮春日的憂鬱](https://zh.wikipedia.org/wiki/涼宮春日系列#小涼宮春日的憂鬱 "wikilink")」（後隨著《[The Sneaker](../Page/The_Sneaker.md "wikilink")》在2007年10月號宣布停刊之下，移轉至《[Ace Assault](https://zh.wikipedia.org/wiki/Ace_Assault "wikilink")》2007年夏季號繼續連載，直到《Ace Assault》在2009年春季號也宣布停刊為止）。
 
-2009年7月4日，開始在《[Young
-Ace](../Page/Young_Ace.md "wikilink")》創刊號連載涼宮春日系列的另一部衍伸外傳作品「[小長門有希的消失](../Page/小長門有希的消失.md "wikilink")」，至2016年9月號完結。同名作品於2013年12月18日宣佈製作[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[1\]，首播時間2015年4月至7月。
+2009年7月4日，開始在《[Young Ace](../Page/Young_Ace.md "wikilink")》創刊號連載涼宮春日系列的另一部衍伸外傳作品「[小長門有希的消失](../Page/小長門有希的消失.md "wikilink")」，至2016年9月號完結。同名作品於2013年12月18日宣佈製作[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[1\]，首播時間2015年4月至7月。
 
-[涼宮春日系列電視動畫播出時](../Page/涼宮春日系列.md "wikilink")，還擔任過《涼宮春日的憂鬱
-(2009年版)》和《小長門有希的消失》的第7話～第9話過場動畫插圖。
+[涼宮春日系列](../Page/涼宮春日系列.md "wikilink")電視動畫播出時，還擔任過《涼宮春日的憂鬱 (2009年版)》和《小長門有希的消失》的第7話～第9話過場動畫插圖。
 
 ## 主要作品
 
@@ -41,7 +36,7 @@ Ace](../Page/Young_Ace.md "wikilink")》創刊號連載涼宮春日系列的另�
  <a href="../Page/台灣角川.md" title="wikilink">台灣角川</a></p></td>
 <td><p>已發行11冊<br />
 （2017年2月）</p></td>
-<td><p><a href="../Page/涼宮春日系列.md" title="wikilink">涼宮春日系列官方衍生外傳漫畫</a><br />
+<td><p><a href="../Page/涼宮春日系列.md" title="wikilink">涼宮春日系列</a>官方衍生外傳漫畫<br />
 連載期間另外曾在《<a href="../Page/The_Sneaker.md" title="wikilink">The Sneaker</a>》、《<a href="https://zh.wikipedia.org/wiki/Ace_Assault" title="wikilink">Ace Assault</a>》<br />
 及《》進行連載</p></td>
 </tr>
@@ -120,14 +115,11 @@ Ace](../Page/Young_Ace.md "wikilink")》創刊號連載涼宮春日系列的另�
 
 ### 插圖
 
-  - （著：，〈[電撃文庫](https://zh.wikipedia.org/wiki/電撃文庫 "wikilink")〉，[ASCII
-    Media
-    Works](../Page/ASCII_Media_Works.md "wikilink")／[KADOKAWA](../Page/KADOKAWA.md "wikilink")）
+  - （著：，〈[電撃文庫](https://zh.wikipedia.org/wiki/電撃文庫 "wikilink")〉，[ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")／[KADOKAWA](../Page/KADOKAWA.md "wikilink")）
 
   - （著：，〈[HJ文庫](../Page/HJ文庫.md "wikilink")〉，）
 
-  - [涼宮春日的憂鬱
-    公式同人漫畫選集](../Page/涼宮春日的憂鬱.md "wikilink")『涼宮春日的祝祭』封面插圖（[角川書店](../Page/角川書店.md "wikilink")／KADOKAWA刊）
+  - [涼宮春日的憂鬱 公式同人漫畫選集](../Page/涼宮春日的憂鬱.md "wikilink")『涼宮春日的祝祭』封面插圖（[角川書店](../Page/角川書店.md "wikilink")／KADOKAWA刊）
 
   - [襲來！美少女邪神 同人漫畫選集封面插圖](../Page/襲來！美少女邪神.md "wikilink")（出版刊）
 
@@ -139,10 +131,7 @@ Ace](../Page/Young_Ace.md "wikilink")》創刊號連載涼宮春日系列的另�
 
   -
 
-[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink")
-[Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink")
-[Category:1984年出生](https://zh.wikipedia.org/wiki/Category:1984年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink") [Category:1984年出生](https://zh.wikipedia.org/wiki/Category:1984年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.
 2.

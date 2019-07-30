@@ -1,4 +1,4 @@
-**Franky仲村**（，），[日本男](../Page/日本.md "wikilink")[演員](../Page/演員.md "wikilink")、[配音員](../Page/配音員.md "wikilink")。劇團「在阪劇團『激富』」的團長\[1\]。出身於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")\[2\]。A型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[3\]。
+**Franky仲村**（，），[日本](../Page/日本.md "wikilink")男[演員](../Page/演員.md "wikilink")、[配音員](../Page/配音員.md "wikilink")。劇團「在阪劇團『激富』」的團長\[1\]。出身於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")\[2\]。A型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[3\]。
 
 ## 人物簡介
 
@@ -32,8 +32,7 @@
 
 <!-- end list -->
 
-  - （2002年2月14日，[朝日電視台](../Page/朝日電視台.md "wikilink")）－PHASE 4
-    [宮本武藏](../Page/宮本武藏.md "wikilink")
+  - （2002年2月14日，[朝日電視台](../Page/朝日電視台.md "wikilink")）－PHASE 4 [宮本武藏](../Page/宮本武藏.md "wikilink")
 
   - （2003年3月8日，[BS日本](../Page/BS日本.md "wikilink")）
 
@@ -91,9 +90,7 @@
 
 ### 參考文獻
 
-  - 《A.A. Game History Series Vol.2 -All About SNK格 1991－2000-》，[Studio
-    BentStuff](https://zh.wikipedia.org/wiki/Studio_BentStuff "wikilink")
-    (編輯、發行)、 (販售)，2000年12月15日發行，第357頁 ISBN 978-4-885-54677-8
+  - 《A.A. Game History Series Vol.2 -All About SNK格 1991－2000-》，[Studio BentStuff](https://zh.wikipedia.org/wiki/Studio_BentStuff "wikilink") (編輯、發行)、 (販售)，2000年12月15日發行，第357頁 ISBN 978-4-885-54677-8
 
 ### 注釋
 
@@ -109,11 +106,7 @@
 
   -
 
-[Category:日本男演員](https://zh.wikipedia.org/wiki/Category:日本男演員 "wikilink")
-[Category:日本男性配音員](https://zh.wikipedia.org/wiki/Category:日本男性配音員 "wikilink")
-[Category:大阪府出身人物](https://zh.wikipedia.org/wiki/Category:大阪府出身人物 "wikilink")
-[Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本男演員](https://zh.wikipedia.org/wiki/Category:日本男演員 "wikilink") [Category:日本男性配音員](https://zh.wikipedia.org/wiki/Category:日本男性配音員 "wikilink") [Category:大阪府出身人物](https://zh.wikipedia.org/wiki/Category:大阪府出身人物 "wikilink") [Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.
 2.

@@ -1,8 +1,6 @@
-Sanchez{{·}}[韓海](https://zh.wikipedia.org/wiki/鄭韓海 "wikilink") |音樂專輯 =
-|電影 = |主持節目 = |電視劇 = |廣播劇 = |舞台劇 = |書籍 = |電視節目 = }}
+Sanchez{{·}}[韓海](https://zh.wikipedia.org/wiki/鄭韓海 "wikilink") |音樂專輯 = |電影 = |主持節目 = |電視劇 = |廣播劇 = |舞台劇 = |書籍 = |電視節目 = }}
 
-**Phantom**\[1\]（），是由Kiggen、Sanchez、[韓海組成的團體](https://zh.wikipedia.org/wiki/鄭韓海 "wikilink")，三位成員都有自己的特長，可以參與唱歌、rap、作詞和作曲。2014年發行第一張正規專輯《Phantom
-Power》。於2017年12月22日正式解散。\[2\]
+**Phantom**\[1\]（），是由Kiggen、Sanchez、[韓海組成的團體](https://zh.wikipedia.org/wiki/鄭韓海 "wikilink")，三位成員都有自己的特長，可以參與唱歌、rap、作詞和作曲。2014年發行第一張正規專輯《Phantom Power》。於2017年12月22日正式解散。\[2\]
 
 ## 成員資料
 
@@ -57,15 +55,7 @@ Power》。於2017年12月22日正式解散。\[2\]
 
 ## 引用資料
 
-[Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
-[Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink")
-[Category:2011年韓國建立](https://zh.wikipedia.org/wiki/Category:2011年韓國建立 "wikilink")
-[Category:2017年韓國廢除](https://zh.wikipedia.org/wiki/Category:2017年韓國廢除 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink") [Category:2011年韓國建立](https://zh.wikipedia.org/wiki/Category:2011年韓國建立 "wikilink") [Category:2017年韓國廢除](https://zh.wikipedia.org/wiki/Category:2017年韓國廢除 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
 1.
 2.

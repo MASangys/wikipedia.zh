@@ -38,7 +38,6 @@
   - [Gruppo Mediaset](http://www.mediaset.it/corporate/)
   - [Mediaset.it](http://www.mediaset.it)
 
-[Category:義大利電視](https://zh.wikipedia.org/wiki/Category:義大利電視 "wikilink")
-[Category:1978年成立的公司](https://zh.wikipedia.org/wiki/Category:1978年成立的公司 "wikilink")
+[Category:義大利電視](https://zh.wikipedia.org/wiki/Category:義大利電視 "wikilink") [Category:1978年成立的公司](https://zh.wikipedia.org/wiki/Category:1978年成立的公司 "wikilink")
 
 1.

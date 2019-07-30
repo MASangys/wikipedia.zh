@@ -1,4 +1,4 @@
-**6over4**是一种[IPv6转换传送机制](../Page/IPv6.md "wikilink")，通过支持多播的[IPv4网络的双栈节点传输IPv](../Page/IPv4.md "wikilink")6数据包。6over4将IPv4网络视为一个[数据链路层](../Page/数据链路层.md "wikilink")。
+**6over4**是一种[IPv6](../Page/IPv6.md "wikilink")转换传送机制，通过支持多播的[IPv4](../Page/IPv4.md "wikilink")网络的双栈节点传输IPv6数据包。6over4将IPv4网络视为一个[数据链路层](../Page/数据链路层.md "wikilink")。
 
 ## 運作機制
 
@@ -10,7 +10,7 @@
 
 ### 多播地址映射
 
-为了使[ICMPv6的](https://zh.wikipedia.org/wiki/ICMPv6 "wikilink")[邻居发现可用](https://zh.wikipedia.org/wiki/邻居发现协议 "wikilink")，IPv4网络必须能进行多播访问。IPv6多播数据包按照[6in4进行封装后](../Page/6in4.md "wikilink")，其IPv4数据包目的地址为`239.192.x.y`，x和y值是IPv6多播目的地址的倒数第二和第一个字节值。
+为了使[ICMPv6的](https://zh.wikipedia.org/wiki/ICMPv6 "wikilink")[邻居发现可用](https://zh.wikipedia.org/wiki/邻居发现协议 "wikilink")，IPv4网络必须能进行多播访问。IPv6多播数据包按照[6in4](../Page/6in4.md "wikilink")进行封装后，其IPv4数据包目的地址为`239.192.x.y`，x和y值是IPv6多播目的地址的倒数第二和第一个字节值。
 
   - 例子：
 
@@ -26,14 +26,12 @@
 
 ## 限制
 
-6over4依赖于IPv4多播的可用性，但IPv4网络基础设施并未得到广泛的支持。 6over4实际使用有限，并且不被最常见的操作系统支持。
-要连接不同物理链路上的IPv6主机，必须在连接链路的路由器上启用IPv4组播路由。
+6over4依赖于IPv4多播的可用性，但IPv4网络基础设施并未得到广泛的支持。 6over4实际使用有限，并且不被最常见的操作系统支持。 要连接不同物理链路上的IPv6主机，必须在连接链路的路由器上启用IPv4组播路由。
 
-对于不依赖IPv4网络多播的话，[ISATAP是更复杂的替代方案](../Page/ISATAP.md "wikilink")。
+对于不依赖IPv4网络多播的话，[ISATAP](../Page/ISATAP.md "wikilink")是更复杂的替代方案。
 
 ## 参考文献
 
-  - B. Carpenter & C. Jung *Transmission of IPv6 over IPv4 Domains
-    without Explicit Tunnels* , March 1999.
+  - B. Carpenter & C. Jung *Transmission of IPv6 over IPv4 Domains without Explicit Tunnels* , March 1999.
 
 [Category:IPv6](https://zh.wikipedia.org/wiki/Category:IPv6 "wikilink")

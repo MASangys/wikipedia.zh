@@ -4,18 +4,13 @@
 
 ### 2014年～2015年
 
-2014年，Zenith Media
-Contents創立首個女子團體WANNA.B，成員包括允瑟、智雨、世春、J.Bin。並於同年11月17日，推出首張出道單曲《My
-Type》\[1\]。
+2014年，Zenith Media Contents創立首個女子團體WANNA.B，成員包括允瑟、智雨、世春、J.Bin。並於同年11月17日，推出首張出道單曲《My Type》\[1\]。
 
 出道不久，世春（先改藝名為**Bom**、後再改為**Carla**）、J.Bin退出，2016年5月9日再以Urban娛樂旗下組合MOXIE成員身份重新出道。
 
-世春、J.Bin退出後，Zenith Media Contents在2015年1月27日宣布加入新成員世真、詩英。當中，世真曾為[Happy
-Face娛樂練習生](../Page/Happy_Face娛樂.md "wikilink")。
+世春、J.Bin退出後，Zenith Media Contents在2015年1月27日宣布加入新成員世真、詩英。當中，世真曾為[Happy Face娛樂練習生](../Page/Happy_Face娛樂.md "wikilink")。
 
-2015年5月至6月期間，**允瑟**在正式出道前退出，Zenith Media
-Contents在這時宣布加入瑞潤、雅美、恩絮三名新成員。當中，恩絮曾以本名（恩珠）作為[HOT
-PLACE](../Page/HOT_PLACE.md "wikilink")（前稱**BADKIZ**）成員出道，後亦曾與瑞潤作為[LULUZ成員出道](../Page/LULUZ.md "wikilink")；而雅美則曾以NEP成員身份出道。
+2015年5月至6月期間，**允瑟**在正式出道前退出，Zenith Media Contents在這時宣布加入瑞潤、雅美、恩絮三名新成員。當中，恩絮曾以本名（恩珠）作為[HOT PLACE](../Page/HOT_PLACE.md "wikilink")（前稱**BADKIZ**）成員出道，後亦曾與瑞潤作為[LULUZ](../Page/LULUZ.md "wikilink")成員出道；而雅美則曾以NEP成員身份出道。
 
 2015年7月20日，官方宣布團體正式出道，並推出正式出道單曲《Attention》\[2\]\[3\]。正式成員有智雨、世真、瑞潤、詩英、雅美、恩絮\[4\]。
 
@@ -25,11 +20,7 @@ PLACE](../Page/HOT_PLACE.md "wikilink")（前稱**BADKIZ**）成員出道，後�
 
 ### 2016年至2018年
 
-2016年4月6日，Zenith Media
-Contents宣布瑞潤因後背疼痛的關係決定退團。同時，宣布加入新成員路恩和琳雅。琳雅是[Girl's
-Day成員](../Page/Girl's_Day.md "wikilink")[珉雅親姐姐](https://zh.wikipedia.org/wiki/珉雅 "wikilink")，曾為[Happy
-Face娛樂](../Page/Happy_Face娛樂.md "wikilink")、[MBK娛樂練習生和Bella](../Page/MBK娛樂.md "wikilink")4、CCM
-Girls成員。
+2016年4月6日，Zenith Media Contents宣布瑞潤因後背疼痛的關係決定退團。同時，宣布加入新成員路恩和琳雅。琳雅是[Girl's Day成員](../Page/Girl's_Day.md "wikilink")[珉雅親姐姐](https://zh.wikipedia.org/wiki/珉雅 "wikilink")，曾為[Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink")、[MBK娛樂](../Page/MBK娛樂.md "wikilink")練習生和Bella4、CCM Girls成員。
 
 2016年6月24日，官方Youtube推出《Why?》回歸預告\[8\]。
 
@@ -37,9 +28,7 @@ Girls成員。
 
 2016年11月，智雨和詩英決定退團，而智雨（改藝名為**J.C.**）在2018年9月28日以D-Side娛樂旗下組合Destiny成員身份重新出道。
 
-2017年4月6日，琳雅參加綜藝節目《[看見你的聲音
-第四季](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》演唱[Girl's
-Day的歌曲](../Page/Girl's_Day.md "wikilink")《Something》，與妹妹[珉雅同台歌唱](https://zh.wikipedia.org/wiki/珉雅 "wikilink")\[11\]。
+2017年4月6日，琳雅參加綜藝節目《[看見你的聲音 第四季](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》演唱[Girl's Day的歌曲](../Page/Girl's_Day.md "wikilink")《Something》，與妹妹[珉雅同台歌唱](https://zh.wikipedia.org/wiki/珉雅 "wikilink")\[11\]。
 
 2017年8月24日，琳雅與妹妹[珉雅參加綜藝節目](https://zh.wikipedia.org/wiki/珉雅 "wikilink")《[歡樂在一起](../Page/歡樂在一起.md "wikilink")》\[12\]。
 
@@ -51,8 +40,7 @@ Day的歌曲](../Page/Girl's_Day.md "wikilink")《Something》，與妹妹[珉�
 
 2019年2月8日，Zenith Media Contents宣布將於2月20日comeback，並公開回歸時間表\[13\]。
 
-2019年2月11日，Zenith Media Contents宣布2月20日comeback的主打歌曲為《LEGGO》，是Girl
-Crush和Hip Hop風格的歌曲\[14\]。
+2019年2月11日，Zenith Media Contents宣布2月20日comeback的主打歌曲為《LEGGO》，是Girl Crush和Hip Hop風格的歌曲\[14\]。
 
 ## 成員列表
 
@@ -77,10 +65,7 @@ Crush和Hip Hop風格的歌曲\[14\]。
 
 ### 成員變遷表
 
-<timeline> ImageSize = width:600 height:200 PlotArea = width:405
-height:175 left:75 bottom:20 Alignbars = justify DateFormat = mm/dd/yyyy
-Period = from:11/17/2014 till:07/31/2019 TimeAxis =
-orientation:horizontal format:yyyy
+<timeline> ImageSize = width:600 height:200 PlotArea = width:405 height:175 left:75 bottom:20 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:11/17/2014 till:07/31/2019 TimeAxis = orientation:horizontal format:yyyy
 
 Colors =
 
@@ -90,8 +75,7 @@ Colors =
 `id:d value:rgb(0,1,0.5) legend:FourthGeneration`
 `id:e value:rgb(1,1,0) legend:FifthGeneration`
 
-Legend = orientation:horizontal position:bottom ScaleMajor = unit:year
-increment:1 start:2015 gridcolor:black
+Legend = orientation:horizontal position:bottom ScaleMajor = unit:year increment:1 start:2015 gridcolor:black
 
 PlotData =
 
@@ -285,11 +269,7 @@ PlotData =
   -
   - WANNA.B [官方粉絲CAFE](http://cafe.daum.net/WANNA.B)
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
 
 1.
 2.
@@ -303,11 +283,8 @@ PlotData =
 10.
 11.
 12.
-13. [Wanna.B reveal comeback schedule for 4th digital
-    single](https://www.allkpop.com/article/2019/02/wannab-reveal-comeback-schedule-for-4th-digital-single)
-14. [Girl group Wanna.B preparing for first comeback in over two and a
-    half
-    years](https://www.allkpop.com/article/2019/02/girl-group-wannab-preparing-for-first-comeback-in-over-two-and-a-half-years)
+13. [Wanna.B reveal comeback schedule for 4th digital single](https://www.allkpop.com/article/2019/02/wannab-reveal-comeback-schedule-for-4th-digital-single)
+14. [Girl group Wanna.B preparing for first comeback in over two and a half years](https://www.allkpop.com/article/2019/02/girl-group-wannab-preparing-for-first-comeback-in-over-two-and-a-half-years)
 15. 根據微博更新的貼文，這裏列出較常使用的譯名
 16. 也有另一譯名「世晉」
 17. 另一譯名為「紀汶」，但是**紀**為**기**的漢字而非**지**，**汶**為**문**或**민**的漢字而非**우**，故譯為**智雨**才是正確的。

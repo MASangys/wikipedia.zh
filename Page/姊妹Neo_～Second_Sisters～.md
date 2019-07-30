@@ -1,7 +1,4 @@
-是日本bootUP\!在2012年11月30日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，姊妹（あねいも）系列的第3部作品。2013年5月16日由N43
-Project發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]2013年11月29日發售《**姊妹Neo＋
-～Second Sisters～**》（あねいも Neo＋ ～Second Sisters～）\[4\]，2014年6月26日同樣由N43
-Project發售DVDPG版。\[5\]2015年4月24日分別發售日向家母姊妹的[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")，共有3作和合集《**もっともっと、日向家セット**》。\[6\]
+是日本bootUP\!在2012年11月30日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，姊妹（あねいも）系列的第3部作品。2013年5月16日由N43 Project發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]2013年11月29日發售《**姊妹Neo＋ ～Second Sisters～**》（あねいも Neo＋ ～Second Sisters～）\[4\]，2014年6月26日同樣由N43 Project發售DVDPG版。\[5\]2015年4月24日分別發售日向家母姊妹的[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")，共有3作和合集《**もっともっと、日向家セット**》。\[6\]
 
 ## 故事
 
@@ -19,8 +16,7 @@ Project發售DVDPG版。\[5\]2015年4月24日分別發售日向家母姊妹的[F
   - 日向七菜（CV：木村あやか\[8\]）
     身高：154cm　血型：B　三圍：B92（F）/W62/H88
     四郎的義妹，八鐘學園1年級學生，文藝部的部員。很喜歡四郎並且經常向他撒嬌，因此無法接受四郎離開家而強烈反對。
-  - 日向櫻（日向
-    桜　CV：[一色ヒカル](https://zh.wikipedia.org/wiki/一色ヒカル "wikilink")\[9\]）
+  - 日向櫻（日向 桜　CV：[一色ヒカル](https://zh.wikipedia.org/wiki/一色ヒカル "wikilink")\[9\]）
     身高：158cm　血型：O　三圍：B100（I）/W65/H91
     舞、七菜的母親，四郎的養母。丈夫在過去因為意外事故而去世後便成為家中唯一的經濟支柱，想讓孩子們能順利讀大學便決定增加自己的工作量。
   - 最上佐和子（CV：野神奈奈\[10\]）
@@ -73,29 +69,19 @@ Project發售DVDPG版。\[5\]2015年4月24日分別發售日向家母姊妹的[F
 
   - [bootUP\!](http://www.bootup.jp/)
 
-[Category:2012年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2012年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
+[Category:2012年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2012年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
 
-1.  [あねいもNeo Second
-    Sisters](http://www.getchu.com/soft.phtml?id=748123)Getchu.com
+1.  [あねいもNeo Second Sisters](http://www.getchu.com/soft.phtml?id=748123)Getchu.com
 
-2.  [Aneimo Neo \~Second Sisters\~](https://vndb.org/v10867)The Visual
-    Novel Database
+2.  [Aneimo Neo \~Second Sisters\~](https://vndb.org/v10867)The Visual Novel Database
 
-3.  [あねいもＮｅｏ](http://www.n43project.com/n43/npg165/outline.html)N43
-    Project
+3.  [あねいもＮｅｏ](http://www.n43project.com/n43/npg165/outline.html)N43 Project
 
-4.  [あねいも Neo＋ ～Second Sisters～
-    特集](http://www.game-style.jp/special/201309/10/00anp_bu.php)Game-Style
+4.  [あねいも Neo＋ ～Second Sisters～ 特集](http://www.game-style.jp/special/201309/10/00anp_bu.php)Game-Style
 
-5.  [Aneimo Neo+ \~Second Sisters\~](https://vndb.org/v12606)The Visual
-    Novel Database
+5.  [Aneimo Neo+ \~Second Sisters\~](https://vndb.org/v12606)The Visual Novel Database
 
-6.  [もっともっと、日向家セット](http://www.net-ride.com/shopping/syosai.php?R_km_url=bootup&R_sm_code=7190&dw_week=20160123233503)NET
-    RIDE
+6.  [もっともっと、日向家セット](http://www.net-ride.com/shopping/syosai.php?R_km_url=bootup&R_sm_code=7190&dw_week=20160123233503)NET RIDE
 
 7.
 
@@ -107,15 +93,10 @@ Project發售DVDPG版。\[5\]2015年4月24日分別發售日向家母姊妹的[F
 13.
 14.
 15.
-16. [あねいもNeo Second
-    Sisters](http://erogetrailers.com/soft/9140)ErogeTrailers
+16. [あねいもNeo Second Sisters](http://erogetrailers.com/soft/9140)ErogeTrailers
 
-17. [あねいもNeo＋ Second
-    Sisters](http://erogetrailers.com/soft/10545)ErogeTrailers
+17. [あねいもNeo＋ Second Sisters](http://erogetrailers.com/soft/10545)ErogeTrailers
 
-18. [あねいも Neo ～Second
-    Sisters～](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=17392)ErogameScape
-    -エロゲー批評空間-
+18. [あねいも Neo ～Second Sisters～](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=17392)ErogameScape -エロゲー批評空間-
 
-19. [美少女ゲーム大賞2012
-    エロ部門投票・結果発表](http://www.getchu.com/pc/2012_g_ranking/eros.html)Getchu.com
+19. [美少女ゲーム大賞2012 エロ部門投票・結果発表](http://www.getchu.com/pc/2012_g_ranking/eros.html)Getchu.com

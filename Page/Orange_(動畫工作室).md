@@ -1,7 +1,6 @@
 **Orange有限公司**（，）是一家以制作CG动画为主要业务的日本公司。
 
-为[SATELIGHT的](../Page/SATELIGHT.md "wikilink")[创圣的亚库艾里翁和](../Page/創聖的亞庫艾里翁.md "wikilink")[Kinema
-Citrus的](../Page/Kinema_Citrus.md "wikilink")[.hack//Quantum制作](https://zh.wikipedia.org/wiki/.hack/Quantum "wikilink")3DCG动画的[自由职业导演](../Page/自由職業.md "wikilink")作为代表人，在2004年5月1日创办了这家[CG动画公司](../Page/计算机动画.md "wikilink")。\[1\]
+为[SATELIGHT](../Page/SATELIGHT.md "wikilink")的[创圣的亚库艾里翁和](../Page/創聖的亞庫艾里翁.md "wikilink")[Kinema Citrus的](../Page/Kinema_Citrus.md "wikilink")[.hack//Quantum制作](https://zh.wikipedia.org/wiki/.hack/Quantum "wikilink")3DCG动画的[自由职业导演](../Page/自由職業.md "wikilink")作为代表人，在2004年5月1日创办了这家[CG动画公司](../Page/计算机动画.md "wikilink")。\[1\]
 
 Orange公司的制作特点是，展现动作时，不仅通过3DCG动画的移动，也通过部分画面的变形等夸张的手法来表现。\[2\]
 
@@ -22,13 +21,10 @@ Orange公司的制作特点是，展现动作时，不仅通过3DCG动画的移�
   -
   - [索斯機械獸](../Page/索斯機械獸.md "wikilink")
 
-  - [攻殼機動隊 STAND ALONE
-    COMPLEX系列](../Page/攻殼機動隊_STAND_ALONE_COMPLEX.md "wikilink")
+  - [攻殼機動隊 STAND ALONE COMPLEX系列](../Page/攻殼機動隊_STAND_ALONE_COMPLEX.md "wikilink")
 
-      - [攻殼機動隊 STAND ALONE
-        COMPLEX](../Page/攻殼機動隊_STAND_ALONE_COMPLEX.md "wikilink")
-      - [攻壳机动队 S.A.C. 2nd
-        GIG](../Page/攻壳机动队_S.A.C._2nd_GIG.md "wikilink")
+      - [攻殼機動隊 STAND ALONE COMPLEX](../Page/攻殼機動隊_STAND_ALONE_COMPLEX.md "wikilink")
+      - [攻壳机动队 S.A.C. 2nd GIG](../Page/攻壳机动队_S.A.C._2nd_GIG.md "wikilink")
 
   - [創聖的亞庫艾里翁](../Page/創聖的亞庫艾里翁.md "wikilink")
 
@@ -44,8 +40,7 @@ Orange公司的制作特点是，展现动作时，不仅通过3DCG动画的移�
 
   - [超时空要塞Frontier](../Page/超时空要塞Frontier.md "wikilink")
 
-  - [Phantom 〜Requiem for the
-    Phantom〜](https://zh.wikipedia.org/wiki/Phantom_〜Requiem_for_the_Phantom〜 "wikilink")
+  - [Phantom 〜Requiem for the Phantom〜](https://zh.wikipedia.org/wiki/Phantom_〜Requiem_for_the_Phantom〜 "wikilink")
 
   - [東京地震8.0](../Page/東京地震8.0.md "wikilink")
 
@@ -66,8 +61,7 @@ Orange公司的制作特点是，展现动作时，不仅通过3DCG动画的移�
 
   - [CØDE:BREAKER 法外-{制}-裁者](../Page/CØDE:BREAKER_法外制裁者.md "wikilink")
 
-  - **[銀河機攻隊
-    莊嚴皇子](../Page/銀河機攻隊_莊嚴皇子.md "wikilink")**（共同制作：[動畫工房](../Page/動畫工房.md "wikilink")）
+  - **[銀河機攻隊 莊嚴皇子](../Page/銀河機攻隊_莊嚴皇子.md "wikilink")**（共同制作：[動畫工房](../Page/動畫工房.md "wikilink")）
 
   - [魔王勇者](../Page/魔王勇者.md "wikilink")
 
@@ -83,11 +77,9 @@ Orange公司的制作特点是，展现动作时，不仅通过3DCG动画的移�
 
   - [BUDDY COMPLEX](../Page/BUDDY_COMPLEX.md "wikilink")
 
-  - **[黑色子彈](../Page/黑色子彈.md "wikilink")**（共同制作：[Kinema
-    Citrus](../Page/Kinema_Citrus.md "wikilink")）
+  - **[黑色子彈](../Page/黑色子彈.md "wikilink")**（共同制作：[Kinema Citrus](../Page/Kinema_Citrus.md "wikilink")）
 
-  - [RAIL WARS\!
-    -日本國有鐵道公安隊-](../Page/RAIL_WARS!_-日本國有鐵道公安隊-.md "wikilink")
+  - [RAIL WARS\! -日本國有鐵道公安隊-](../Page/RAIL_WARS!_-日本國有鐵道公安隊-.md "wikilink")
 
   - [戲劇性謀殺](../Page/戲劇性謀殺.md "wikilink")
 
@@ -97,11 +89,9 @@ Orange公司的制作特点是，展现动作时，不仅通过3DCG动画的移�
 
   - [蒼穹之戰神](../Page/蒼穹之戰神.md "wikilink")
 
-  - [哆啦A梦
-    (2005年电视动画)](https://zh.wikipedia.org/wiki/哆啦A梦_\(2005年电视动画\) "wikilink")
+  - [哆啦A梦 (2005年电视动画)](https://zh.wikipedia.org/wiki/哆啦A梦_\(2005年电视动画\) "wikilink")
 
-  - **[NORN9 命運九重奏](../Page/NORN9_命運九重奏.md "wikilink")**（共同制作：[Kinema
-    Citrus](../Page/Kinema_Citrus.md "wikilink")）
+  - **[NORN9 命運九重奏](../Page/NORN9_命運九重奏.md "wikilink")**（共同制作：[Kinema Citrus](../Page/Kinema_Citrus.md "wikilink")）
 
   - [Active Raid－機動強襲室第八係－](../Page/Active_Raid－機動強襲室第八係－.md "wikilink")
 
@@ -109,8 +99,7 @@ Orange公司的制作特点是，展现动作时，不仅通过3DCG动画的移�
 
   - [蒼之彼方的四重奏](../Page/蒼之彼方的四重奏.md "wikilink")
 
-  - **[Dimension W
-    －第四次元－](../Page/Dimension_W_－第四次元－.md "wikilink")**（共同制作：[3Hz](../Page/3Hz.md "wikilink")）
+  - **[Dimension W －第四次元－](../Page/Dimension_W_－第四次元－.md "wikilink")**（共同制作：[3Hz](../Page/3Hz.md "wikilink")）
 
   - **[寶石之國](../Page/寶石之國.md "wikilink")**（首次獨立製作）
 
@@ -151,8 +140,7 @@ Orange公司的制作特点是，展现动作时，不仅通过3DCG动画的移�
 
   -
   -
-  - [光之美少女 All Stars DX2
-    希望之光☆守护彩虹宝石！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_DX2_希望之光☆守护彩虹宝石！ "wikilink")
+  - [光之美少女 All Stars DX2 希望之光☆守护彩虹宝石！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_DX2_希望之光☆守护彩虹宝石！ "wikilink")
 
   - [槍神Trigun](../Page/槍神Trigun.md "wikilink")
 
@@ -175,7 +163,7 @@ Orange公司的制作特点是，展现动作时，不仅通过3DCG动画的移�
 ### 游戏
 
   - [空中殺手Tesses](../Page/空中杀手.md "wikilink")
-  - [武裝神姬Battle Masters Mk.2](../Page/武裝神姬.md "wikilink")
+  - [武裝神姬 Masters Mk.2](../Page/武裝神姬.md "wikilink")Battle
 
 ### 特摄
 
@@ -193,9 +181,7 @@ Orange公司的制作特点是，展现动作时，不仅通过3DCG动画的移�
   - [官方網站](http://orange-cg.com/)
 
   -
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:2004年成立的公司](https://zh.wikipedia.org/wiki/Category:2004年成立的公司 "wikilink")
+[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:2004年成立的公司](https://zh.wikipedia.org/wiki/Category:2004年成立的公司 "wikilink")
 
-1.   インタビュー {{\!}} CGWORLD.jp|newspaper=CG・映像の専門情報サイト {{\!}}
-    CGWORLD.jp|accessdate=2018-01-06|language=ja}}
+1.   インタビュー {{\!}} CGWORLD.jp|newspaper=CG・映像の専門情報サイト {{\!}} CGWORLD.jp|accessdate=2018-01-06|language=ja}}
 2.

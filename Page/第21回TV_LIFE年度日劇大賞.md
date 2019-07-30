@@ -1,12 +1,10 @@
-[第20回](../Page/第20回TV_LIFE年度日劇大賞.md "wikilink") ← **第21回** →
-[第22回](https://zh.wikipedia.org/wiki/第22回TV_LIFE年度日劇大賞 "wikilink")
+[第20回](../Page/第20回TV_LIFE年度日劇大賞.md "wikilink") ← **第21回** → [第22回](https://zh.wikipedia.org/wiki/第22回TV_LIFE年度日劇大賞 "wikilink")
 
-**第21回[TV
-LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2011年播出的連續劇做出的觀眾投票。
+**第21回[TV LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2011年播出的連續劇做出的觀眾投票。
 
-本屆獲獎最多的劇集是《[妖怪人間](https://zh.wikipedia.org/wiki/妖怪人間貝姆#電視劇 "wikilink")》，共獲3獎，由[日本電視台製作](../Page/日本電視台.md "wikilink")。
+本屆獲獎最多的劇集是《[妖怪人間](https://zh.wikipedia.org/wiki/妖怪人間貝姆#電視劇 "wikilink")》，共獲3獎，由[日本電視台](../Page/日本電視台.md "wikilink")製作。
 
-個人方面，[櫻井翔首度獲頒最佳男主角獎](../Page/櫻井翔.md "wikilink")，是[嵐成員之中第二位獲獎](../Page/嵐.md "wikilink")；女演員[松嶋菜菜子相隔](../Page/松嶋菜菜子.md "wikilink")12年，再度奪得最佳女主角；[鈴木福是首位同屆一併奪得](../Page/鈴木福.md "wikilink")「最佳男配角」和「最佳新演員」的男演員。
+個人方面，[櫻井翔](../Page/櫻井翔.md "wikilink")首度獲頒最佳男主角獎，是[嵐](../Page/嵐.md "wikilink")成員之中第二位獲獎；女演員[松嶋菜菜子](../Page/松嶋菜菜子.md "wikilink")相隔12年，再度奪得最佳女主角；[鈴木福](../Page/鈴木福.md "wikilink")是首位同屆一併奪得「最佳男配角」和「最佳新演員」的男演員。
 
 ## 獎項
 
@@ -397,5 +395,4 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 
 ## 參考來源
 
-[Category:2011年日本](https://zh.wikipedia.org/wiki/Category:2011年日本 "wikilink")
-[Category:2011年电视奖项](https://zh.wikipedia.org/wiki/Category:2011年电视奖项 "wikilink")
+[Category:2011年日本](https://zh.wikipedia.org/wiki/Category:2011年日本 "wikilink") [Category:2011年电视奖项](https://zh.wikipedia.org/wiki/Category:2011年电视奖项 "wikilink")

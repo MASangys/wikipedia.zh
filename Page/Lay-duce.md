@@ -105,9 +105,6 @@
   - [官方網站](http://cstation.jp/)
 
   -
-[Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:2013年日本建立](https://zh.wikipedia.org/wiki/Category:2013年日本建立 "wikilink")
-[Category:西東京市公司](https://zh.wikipedia.org/wiki/Category:西東京市公司 "wikilink")
+[Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:2013年日本建立](https://zh.wikipedia.org/wiki/Category:2013年日本建立 "wikilink") [Category:西東京市公司](https://zh.wikipedia.org/wiki/Category:西東京市公司 "wikilink")
 
 1.

@@ -1,5 +1,4 @@
-**H.U.B**（，為「**H**ope **U** **B**ounce」之簡寫）是New
-Planet娱乐推出的四人女子组合，現由Rui、Yehin、Chehee、Seoryeong和Hyosun五名成员组成。
+**H.U.B**（，為「**H**ope **U** **B**ounce」之簡寫）是New Planet娱乐推出的四人女子组合，現由Rui、Yehin、Chehee、Seoryeong和Hyosun五名成员组成。
 
 2016年11月24日，H.U.B携她们的首张数位單曲《我们一起的时间》（우리가 함께한 시간）首次亮相。\[1\]
 
@@ -11,21 +10,17 @@ Rui曾在第十三、十四届《[MBC偶像明星运动会](https://zh.wikipedia
 
 ### 2016年：出道
 
-11月24日，H.U.B以Gracie、Yui、Yuem、Keina四人姿態发布數位單曲《我们一起的时间》（우리가 함께한
-시간）正式出道，並由Gracie擔任隊長一職。
+11月24日，H.U.B以Gracie、Rui、Yuem、Keina四人姿態发布數位單曲《我们一起的时间》（우리가 함께한 시간）正式出道，並由Gracie擔任隊長一職。
 
 ### 2017年：發行單曲、新成員加入、成員參加選秀節目《[The Unit](../Page/The_Unit.md "wikilink")》及《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》
 
 2月9日，发行第二張数位單曲《女孩們》（미친듯이）。
 
-5月31日，加入[Pledis娛樂練習生](../Page/Pledis娛樂.md "wikilink")、Kiwi
-Band成員、《[PRODUCE
-101](../Page/PRODUCE_101.md "wikilink")》出身的Hyosun，團體改以五人姿態活動。
+5月31日，加入[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")練習生、Kiwi Band成員、《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》出身的Hyosun，團體改以五人姿態活動。
 
 6月1日，发行第三張数位單曲《Ooh Ooh》。
 
-10月，Rui參加選秀節目《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，最終排名為第25名；而Hyosun則參加選秀節目《[The
-Unit](../Page/The_Unit.md "wikilink")》，最終排名為第19名。
+10月，Rui參加選秀節目《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，最終排名為第25名；而Hyosun則參加選秀節目《[The Unit](../Page/The_Unit.md "wikilink")》，最終排名為第19名。
 
 ### 2018年：成員退出、新成員加入
 
@@ -148,11 +143,7 @@ Unit](../Page/The_Unit.md "wikilink")》，最終排名為第19名。
   - [H.U.B V LIVE](http://channels.vlive.tv/E3337F)
   - [H.U.B 官方Facebook](https://www.facebook.com/jongseohub)
 
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
-[Category:MIXNINE](https://zh.wikipedia.org/wiki/Category:MIXNINE "wikilink")
+[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:MIXNINE](https://zh.wikipedia.org/wiki/Category:MIXNINE "wikilink")
 
 1.
 2.

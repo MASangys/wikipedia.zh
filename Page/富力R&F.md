@@ -1,13 +1,12 @@
-**富力R\&F**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**R\&F**）為[中國足球會](https://zh.wikipedia.org/wiki/PRC "wikilink")[廣州富力的附屬球隊](https://zh.wikipedia.org/wiki/廣州富力 "wikilink")，現時於[香港丙組聯賽派員參賽](../Page/香港丙組聯賽.md "wikilink")，亦是現時唯一一支在港丙作賽的中國球隊。
+**富力R\&F**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**R\&F**）為[中國足球會](https://zh.wikipedia.org/wiki/PRC "wikilink")[廣州富力的附屬球隊](https://zh.wikipedia.org/wiki/廣州富力 "wikilink")，現時於[香港超級聯賽派員參賽](https://zh.wikipedia.org/wiki/香港超級聯賽 "wikilink")，亦是現時唯一一支在港超作賽的香港境外球隊。
 
 ## 球隊歷史
 
 ### 球隊簡介
 
-富力以外地球會身份首次參與[2016–17年香港超級聯賽](../Page/2016–17年香港超級聯賽.md "wikilink")，為符合[香港足球總會董事局開出繳納](../Page/香港足球總會.md "wikilink")100萬港幣「參賽費」冠名一項杯賽及「註8出3」的參賽要求，將會註冊8名香港本地球員，每場派出至少3位香港本地球員上陣，其餘為中國球員，不設外援。\[1\]
+富力以外地球會身份首次參與[2016–17年香港超級聯賽](../Page/2016–17年香港超級聯賽.md "wikilink")，為符合[香港足球總會](../Page/香港足球總會.md "wikilink")董事局開出繳納100萬港幣「參賽費」冠名一項杯賽及「註8出3」的參賽要求，將會註冊8名香港本地球員，每場派出至少3位香港本地球員上陣，其餘為中國球員，不設外援。\[1\]
 
-由於富力為中國足球協會旗下球隊，無論獲得任何賽事排名，都不能夠代表香港參加亞洲賽事，包括[-{zh-cn:亚足联冠军联赛;zh-hk:亞洲聯賽冠軍盃;zh-tw:亞足聯冠軍聯賽;zh-mo:亞足協冠軍聯賽;}-及](https://zh.wikipedia.org/wiki/亞足聯冠軍聯賽 "wikilink")[-{zh-hans:亚洲足联杯;zh-cn:亚足联杯;zh-hk:亞洲足協盃;zh-tw:亞洲足聯盃;}-](https://zh.wikipedia.org/wiki/亞洲足聯盃 "wikilink")。R\&F富力在2017–18球季將向[香港足球總會支付](../Page/香港足球總會.md "wikilink")30萬元贊助費，以原有內地球員班底及聘用八名半數為20歲以下香港本地球員作為主力，配以3名外援「註3出2」的外援參賽要求征戰[2017–18年香港超級聯賽](../Page/2017–18年香港超級聯賽.md "wikilink")。\[2\]
-\[3\]
+由於富力為中國足球協會旗下球隊，無論獲得任何賽事排名，都不能夠代表香港參加亞洲賽事，包括[-{zh-cn:亚足联冠军联赛;zh-hk:亞洲聯賽冠軍盃;zh-tw:亞足聯冠軍聯賽;zh-mo:亞足協冠軍聯賽;}-及](https://zh.wikipedia.org/wiki/亞足聯冠軍聯賽 "wikilink")[-{zh-hans:亚洲足联杯;zh-cn:亚足联杯;zh-hk:亞洲足協盃;zh-tw:亞洲足聯盃;}-](https://zh.wikipedia.org/wiki/亞洲足聯盃 "wikilink")。R\&F富力在2017–18球季將向[香港足球總會](../Page/香港足球總會.md "wikilink")支付30萬元贊助費，以原有內地球員班底及聘用八名半數為20歲以下香港本地球員作為主力，配以3名外援「註3出2」的外援參賽要求征戰[2017–18年香港超級聯賽](../Page/2017–18年香港超級聯賽.md "wikilink")。\[2\] \[3\]
 
 ### 2016–17球季
 
@@ -15,20 +14,19 @@ R\&F富力首次參戰，香港超級聯賽最終在11隊中排第10名。
 
 ### 2017–18球季
 
-R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖角簽下羅拔圖、基奧雲尼、伊達及[周綽豐等本地戰將](../Page/周綽豐.md "wikilink")。然而[香港足總容許R](https://zh.wikipedia.org/wiki/香港足總 "wikilink")\&F富力註冊三名外援，所以外援方面除了前南華中場麥高派路域來投，亦從中超一隊借來轉會費驚人的[布鲁尼奥](../Page/般連奴.md "wikilink")，並招攬了多名入籍港腳分別是中堅[勞烈斯](../Page/勞烈斯.md "wikilink")、中堅[羅拔圖及攻擊中場](../Page/羅拔圖·祖利亞.md "wikilink")[伊達](https://zh.wikipedia.org/wiki/伊達 "wikilink")，配合93至98年出生的內地球員成軍。全季18場主，客賽事都會安排直播及轉播。
+R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖角簽下羅拔圖、基奧雲尼、伊達及[周綽豐](../Page/周綽豐.md "wikilink")等本地戰將。然而[香港足總容許R](https://zh.wikipedia.org/wiki/香港足總 "wikilink")\&F富力註冊三名外援，所以外援方面除了前南華中場麥高派路域來投，亦從中超一隊借來轉會費驚人的[布鲁尼奥](../Page/般連奴.md "wikilink")，並招攬了多名入籍港腳分別是中堅[勞烈斯](../Page/勞烈斯.md "wikilink")、中堅[羅拔圖及攻擊中場](../Page/羅拔圖·祖利亞.md "wikilink")[伊達](https://zh.wikipedia.org/wiki/伊達 "wikilink")，配合93至98年出生的內地球員成軍。全季18場主，客賽事都會安排直播及轉播。
 
 2017年6月27日，R\&F富力宣布與[自由人足球發展公司簽訂為期](../Page/自由人足球會.md "wikilink")3至7年的合作協議，成立港超預備隊交給自由人管理，並與4名小將吳文軒、羅境曦、黃啟耀及洪流簽署職業合約，成為R\&F富力預備隊的主力。如他們水準達標將提拔上[港超聯R](https://zh.wikipedia.org/wiki/港超聯 "wikilink")\&F富力，有更出色表現便會升上[中超的](https://zh.wikipedia.org/wiki/中超 "wikilink")[廣州富力](https://zh.wikipedia.org/wiki/廣州富力 "wikilink")，長遠希望培養更多出色的香港球員。
 
 ### 2018–19球季
 
-富力於2017/18球季後大肆擴軍，並公佈2018一19球季班費高達五千萬港元，並以高薪向各支港超聯勁旅挖角。其中[傑志於](../Page/傑志體育會.md "wikilink")2018年5月31日向[香港足球總會就有關](../Page/香港足球總會.md "wikilink")[R\&F富力非法接觸球員](https://zh.wikipedia.org/wiki/R&F富力 "wikilink")[丹尼作出投訴](../Page/丹尼·簡斯拿.md "wikilink")。[R\&F富力早前在未有通知的情況下直接與尚有合約在身球員](https://zh.wikipedia.org/wiki/R&F富力 "wikilink")[丹尼接觸](../Page/丹尼·簡斯拿.md "wikilink")，並傾談轉會事宜。違反國際足協的規例。\[4\]球隊先簽入[楊正光擔任球隊主教練](../Page/楊正光.md "wikilink")，同時[陳俊樂以外借加盟方式來投](../Page/陳俊樂.md "wikilink")，其他加盟球員均來自2017-18球季的「前四」隊伍。\[5\]
+富力於2017/18球季後大肆擴軍，並公佈2018一19球季班費高達五千萬港元，並以高薪向各支港超聯勁旅挖角。其中[傑志於](../Page/傑志體育會.md "wikilink")2018年5月31日向[香港足球總會](../Page/香港足球總會.md "wikilink")就有關[R\&F富力非法接觸球員](https://zh.wikipedia.org/wiki/R&F富力 "wikilink")[丹尼作出投訴](../Page/丹尼·簡斯拿.md "wikilink")。[R\&F富力早前在未有通知的情況下直接與尚有合約在身球員](https://zh.wikipedia.org/wiki/R&F富力 "wikilink")[丹尼接觸](../Page/丹尼·簡斯拿.md "wikilink")，並傾談轉會事宜。違反國際足協的規例。\[4\]球隊先簽入[楊正光](../Page/楊正光.md "wikilink")擔任球隊主教練，同時[陳俊樂](../Page/陳俊樂.md "wikilink")以外借加盟方式來投，其他加盟球員均來自2017-18球季的「前四」隊伍。\[5\]
 
-2019年4月28日，在兩度改期之下，富力完成對[凱景的港超聯賽事](../Page/凱景體育會.md "wikilink")，並以99人刷新歷屆最低入場紀錄，是[香港超級聯賽史上首現雙位入場數字](https://zh.wikipedia.org/wiki/香港超級聯賽 "wikilink")。\[6\]
-而在5月4日，[富力R\&F在](../Page/富力R&F.md "wikilink")[燕子崗體育場上演榜首大戰對陣](https://zh.wikipedia.org/wiki/燕子崗體育場 "wikilink")[和富大埔](../Page/大埔足球會.md "wikilink")，大埔憑著[辛祖於比賽尾段連入兩球上演大逆轉](../Page/辛祖.md "wikilink")，2比1反勝，富力R\&F親手將冠軍拱手相讓，同時富力R\&F再次未有錦標結束球季。\[7\]
+2019年4月28日，在兩度改期之下，富力完成對[凱景的港超聯賽事](../Page/凱景體育會.md "wikilink")，並以99人刷新歷屆最低入場紀錄，是[香港超級聯賽史上首現雙位入場數字](https://zh.wikipedia.org/wiki/香港超級聯賽 "wikilink")。\[6\] 而在5月4日，[富力R\&F](../Page/富力R&F.md "wikilink")在[燕子崗體育場上演榜首大戰對陣](https://zh.wikipedia.org/wiki/燕子崗體育場 "wikilink")[和富大埔](../Page/大埔足球會.md "wikilink")，大埔憑著[辛祖](../Page/辛祖.md "wikilink")於比賽尾段連入兩球上演大逆轉，2比1反勝，富力R\&F親手將冠軍拱手相讓，同時富力R\&F再次未有錦標結束球季。\[7\]
 
 ### 2019-2020球季
 
-6月簽入香港年青前鋒來自[中西區足球隊](../Page/中西區足球隊.md "wikilink")[陳嘉寶](https://zh.wikipedia.org/wiki/陳嘉寶 "wikilink")、[傑志體育會中場](../Page/傑志體育會.md "wikilink")[林柱機](../Page/林柱機.md "wikilink")、[大埔足球會前鋒](../Page/大埔足球會.md "wikilink")[伊高沙托尼](../Page/伊高·沙托尼.md "wikilink")。
+6月簽入香港年青前鋒來自[中西區足球隊](../Page/中西區足球隊.md "wikilink")[陳嘉寶](https://zh.wikipedia.org/wiki/陳嘉寶 "wikilink")、[傑志體育會](../Page/傑志體育會.md "wikilink")中場[林柱機](../Page/林柱機.md "wikilink")、[大埔足球會](../Page/大埔足球會.md "wikilink")前鋒[伊高沙托尼](../Page/伊高·沙托尼.md "wikilink")。 7月簽入2名新外援，龍門[謝家榮](https://zh.wikipedia.org/wiki/謝家榮 "wikilink")，後衛[方柏倫及](https://zh.wikipedia.org/wiki/方柏倫 "wikilink")[林衍廷](../Page/林衍廷.md "wikilink")，中場[林樂勤](../Page/林樂勤.md "wikilink")。
 
 ## 歷年球隊名字變更
 
@@ -108,16 +106,16 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 
 ### 球員名單（一隊）（2019 / 20）
 
-<table style="width:158%;">
+<table style="width:173%;">
 <colgroup>
-<col style="width: 24%" />
 <col style="width: 40%" />
-<col style="width: 20%" />
-<col style="width: 8%" />
-<col style="width: 40%" />
-<col style="width: 8%" />
-<col style="width: 8%" />
-<col style="width: 8%" />
+<col style="width: 55%" />
+<col style="width: 23%" />
+<col style="width: 11%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 13%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -143,36 +141,6 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>1</strong></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/姬向争" title="wikilink">姬向-{争}-</a>（Ji Xiangzheng）</p></td>
-<td><p>1997年7月4日</p></td>
-<td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/廣州富力" title="wikilink">廣州富力預備隊</a></p></td>
-<td><p>大陸球員</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>13</strong></p></td>
-<td></td>
-<td><p><a href="../Page/周煜辰.md" title="wikilink">周煜辰</a>（Zhou Yuchen）</p></td>
-<td><p>1995年1月12日</p></td>
-<td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山东鲁能泰山足球俱乐部" title="wikilink">山东鲁能</a></p></td>
-<td><p>大陸球員</p></td>
-<td><p>外借加盟</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>98</strong></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳梓榮" title="wikilink">陳梓榮</a>（Chen Zirong）</p></td>
-<td><p>1998年1月30日</p></td>
-<td><p>2017年</p></td>
-<td><p><a href="../Page/維積利足球會.md" title="wikilink">維積利</a></p></td>
-<td><p>大陸球員</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><strong>94</strong></p></td>
 <td></td>
 <td><p><a href="../Page/謝家榮_(足球運動員).md" title="wikilink">謝家榮</a>（Tse Ka Wing）</p></td>
@@ -182,7 +150,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>U-22青年球員</p></td>
 <td><p>新加盟</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><font color="black"><strong>後衛</strong></p></td>
 <td></td>
 <td></td>
@@ -192,16 +160,6 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><strong>6</strong></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/侯俊傑_(足球運動員)" title="wikilink">侯俊傑</a>（Hou Junjie）</p></td>
-<td><p>1993年7月8日</p></td>
-<td><p>2016年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/廣州富力" title="wikilink">廣州富力</a></p></td>
-<td><p>大陸球員</p></td>
-<td></td>
-</tr>
 <tr class="even">
 <td><p><strong>5</strong></p></td>
 <td></td>
@@ -209,7 +167,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>1995年11月22日</p></td>
 <td><p>2017年</p></td>
 <td><p><a href="../Page/東方足球隊.md" title="wikilink">東方龍獅</a></p></td>
-<td><p>香港球員</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -219,7 +177,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>1984年10月9日</p></td>
 <td><p>2018年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/傑志" title="wikilink">傑志</a></p></td>
-<td><p>香港球員</p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Captain_sports.svg" title="fig:Captain_sports.svg">Captain_sports.svg</a> 隊長</p></td>
 </tr>
 <tr class="even">
@@ -229,40 +187,50 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>1983年5月28日</p></td>
 <td><p>2017年</p></td>
 <td><p><a href="../Page/東方足球隊.md" title="wikilink">東方龍獅</a></p></td>
-<td><p>香港球員</p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Captain_sports.svg" title="fig:Captain_sports.svg">Captain_sports.svg</a> 隊長</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>21</strong></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/梁永豐" title="wikilink">梁永豐</a>（Liang Yongfeng）</p></td>
-<td><p>1997年6月27日</p></td>
-<td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/廣州富力" title="wikilink">廣州富力預備隊</a></p></td>
-<td><p>大陸球員</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><strong>24</strong></p></td>
 <td></td>
 <td><p><a href="../Page/梁諾恆.md" title="wikilink">梁諾恆</a>（Leung Nok Hang）</p></td>
 <td><p>1994年11月14日</p></td>
 <td><p>2018年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/香港飛馬足球會" title="wikilink">香港飛馬</a></p></td>
-<td><p>香港球員</p></td>
+<td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>--</strong></p></td>
 <td></td>
 <td><p><a href="../Page/方栢倫.md" title="wikilink">方栢倫</a>（Fong Pak Lun）</p></td>
 <td><p>1993年4月14日</p></td>
 <td><p>2019年</p></td>
 <td><p><a href="../Page/理文足球會.md" title="wikilink">理文</a></p></td>
-<td><p>香港球員</p></td>
+<td></td>
+<td><p>新加盟</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>--</strong></p></td>
+<td></td>
+<td><p>（Vladis-Emmerson Illoy-Ayyet）</p></td>
+<td><p>1993年4月14日</p></td>
+<td><p>2019年</p></td>
+<td><p><a href="../Page/維積利足球會.md" title="wikilink">維積利</a></p></td>
+<td><p>外援</p></td>
 <td><p>新加盟</p></td>
 </tr>
 <tr class="even">
+<td><p><strong>--</strong></p></td>
+<td></td>
+<td><p><a href="../Page/林衍廷.md" title="wikilink">林衍廷</a>（Lam Hin Ting）</p></td>
+<td><p>1999年12月9日</p></td>
+<td><p>2017年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/夢想體育會" title="wikilink">夢想FC</a></p></td>
+<td><p>U-22青年球員</p></td>
+<td><p>新加盟</p></td>
+</tr>
+<tr class="odd">
 <td><p><font color="black"><strong>中場</strong></p></td>
 <td></td>
 <td></td>
@@ -272,35 +240,25 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>4</strong></p></td>
 <td></td>
 <td><p><a href="../Page/白鶴_(足球運動員).md" title="wikilink">白鶴</a>（Bai He）</p></td>
 <td><p>1983年11月19日</p></td>
 <td><p>2018年</p></td>
 <td><p><a href="../Page/東方足球隊.md" title="wikilink">東方龍獅</a></p></td>
-<td><p>香港球員</p></td>
+<td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>7</strong></p></td>
-<td></td>
+<td><p></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/林志堅_(足球運動員)" title="wikilink">林志堅</a>（Lam Zhi Gin Andreas）</p></td>
 <td><p>1991年6月4日</p></td>
 <td><p>2018年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/傑志" title="wikilink">傑志</a></p></td>
-<td><p><strong><em>多重國籍香港球員</em></strong></p></td>
+<td><p>多重國籍本地球員</p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>8</strong></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吳偉安" title="wikilink">吳偉安</a>（Wu Weian）</p></td>
-<td><p>1981年9月1日</p></td>
-<td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/深圳市足球俱樂部" title="wikilink">深圳佳兆業</a></p></td>
-<td><p>大陸球員</p></td>
-<td><p>助教兼球員</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>11</strong></p></td>
@@ -309,71 +267,31 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>1992年6月19日</p></td>
 <td><p>2018年</p></td>
 <td><p><a href="../Page/東方足球隊.md" title="wikilink">東方龍獅</a></p></td>
-<td><p>香港球員</p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>14</strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/寧安_(足球運動員)" title="wikilink">寧安</a>（Ning An）</p></td>
-<td><p>1995年10月8日</p></td>
-<td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/廣州富力" title="wikilink">廣州富力預備隊</a></p></td>
-<td><p>大陸球員</p></td>
-<td><p>外借加盟</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>16</strong></p></td>
-<td></td>
-<td><p><a href="../Page/陳俊樂.md" title="wikilink">陳俊樂</a>（Tan Chun Lok）</p></td>
-<td><p>1996年1月15日</p></td>
-<td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/廣州富力" title="wikilink">廣州富力</a></p></td>
-<td><p>香港球員</p></td>
-<td><p>外借加盟</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>30</strong></p></td>
-<td></td>
+<td><p></p></td>
 <td><p><a href="../Page/謝家強.md" title="wikilink">謝家強</a>（Sean Tse）</p></td>
 <td><p>1992年5月3日</p></td>
 <td><p>2018年</p></td>
 <td><p><a href="../Page/大埔足球會.md" title="wikilink">和富大埔</a></p></td>
-<td><p><strong><em>多重國籍香港球員</em></strong></p></td>
+<td><p>多重國籍本地球員</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>33</strong></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/王新輝" title="wikilink">王新輝</a>（Wang Xinhui）</p></td>
-<td><p>1993年1月2日</p></td>
-<td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/廣州富力" title="wikilink">廣州富力</a></p></td>
-<td><p>大陸球員</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>97</strong></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳富海" title="wikilink">陳富海</a>（Chen Fuhai）</p></td>
-<td><p>1997年2月9日</p></td>
-<td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/廣州富力" title="wikilink">廣州富力預備隊</a></p></td>
-<td><p>大陸球員</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>--</strong></p></td>
-<td></td>
+<td><p><strong>20</strong></p></td>
+<td><p></p></td>
 <td><p><a href="../Page/林柱機.md" title="wikilink">林柱機</a>（Matthew Thomas Lam）</p></td>
 <td><p>1989年9月10日</p></td>
 <td><p>2019年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/傑志" title="wikilink">傑志</a></p></td>
-<td><p><strong><em>多重國籍香港球員</em></strong></p></td>
+<td><p>多重國籍本地球員</p></td>
 <td><p>新加盟</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>--</strong></p></td>
+<td><p><strong>27</strong></p></td>
 <td></td>
 <td><p><a href="../Page/林樂勤.md" title="wikilink">林樂勤</a>（Lam Jordan Lok Kan）</p></td>
 <td><p>1999年2月2日</p></td>
@@ -419,7 +337,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>1982年11月25日</p></td>
 <td><p>2017年</p></td>
 <td><p><a href="../Page/東方足球隊.md" title="wikilink">東方龍獅</a></p></td>
-<td><p>香港球員</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -445,7 +363,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 </tbody>
 </table>
 
-### 球員名單（一隊）外借球員
+### 外借球員（2019／20）
 
 <table style="width:148%;">
 <colgroup>
@@ -471,6 +389,27 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>前鋒</p></td>
 <td><p>1993年2月16日</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李卓翰" title="wikilink">李卓翰</a>（Lee Cheuk Hon）</p></td>
+<td><p>後衛</p></td>
+<td><p>2000年2月21日</p></td>
+<td><p><a href="../Page/香港流浪足球會.md" title="wikilink">標準流浪</a></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曾通明" title="wikilink">曾通明</a>（Tsang Tung Ming）</p></td>
+<td><p>中場</p></td>
+<td><p>1999年7月21日</p></td>
+<td><p><a href="../Page/香港流浪足球會.md" title="wikilink">標準流浪</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/麥富城" title="wikilink">麥富城</a>（Mak Fu Shing）</p></td>
+<td><p>前鋒</p></td>
+<td><p>2000年11月14日</p></td>
+<td><p><a href="../Page/香港流浪足球會.md" title="wikilink">標準流浪</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -511,38 +450,24 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李卓翰" title="wikilink">李卓翰</a>（Lee Cheuk Hon）</p></td>
-<td><p>後衛</p></td>
-<td><p>2000年2月21日</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
 <td><p><a href="../Page/林俊生.md" title="wikilink">林俊生</a>（Lin Junsheng）</p></td>
 <td><p>後衛</p></td>
 <td><p>1985年1月8日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/曾通明" title="wikilink">曾通明</a>（Tsang Tung Ming）</p></td>
-<td><p>中場</p></td>
-<td><p>1999年7月21日</p></td>
-<td></td>
-</tr>
 <tr class="even">
+<td></td>
+<td><p><a href="../Page/陳俊樂.md" title="wikilink">陳俊樂</a>（Tan Chun Lok）</p></td>
+<td><p>中場</p></td>
+<td><p>1996年1月15日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/廣州富力" title="wikilink">廣州富力</a></p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/伊達_(足球運動員).md" title="wikilink">伊達</a>（"Ita", Manoel dos Santos Filho, Itaparica）</p></td>
 <td><p>中場</p></td>
 <td><p>1980年7月8日</p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/麥富城" title="wikilink">麥富城</a>（Mak Fu Shing）</p></td>
-<td><p>前鋒</p></td>
-<td><p>2000年11月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/夢想FC" title="wikilink">夢想FC</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -559,27 +484,90 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 </tr>
 <tr class="even">
-<td><p><font color="black">非轉會窗時期(冬季轉會窗後)</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姬向争" title="wikilink">姬向-{争}-</a>（Ji Xiangzheng）</p></td>
+<td><p>守門員</p></td>
+<td><p>1997年7月4日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><font color="black">2018年冬季轉會窗</p></td>
+<td></td>
+<td><p><a href="../Page/周煜辰.md" title="wikilink">周煜辰</a>（Zhou Yuchen）</p></td>
+<td><p>守門員</p></td>
+<td><p>1995年1月12日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳梓榮" title="wikilink">陳梓榮</a>（Chen Zirong）</p></td>
+<td><p>守門員</p></td>
+<td><p>1998年1月30日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/侯俊傑_(足球運動員)" title="wikilink">侯俊傑</a>（Hou Junjie）</p></td>
+<td><p>後衛</p></td>
+<td><p>1993年7月8日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁永豐" title="wikilink">梁永豐</a>（Liang Yongfeng）</p></td>
+<td><p>後衛</p></td>
+<td><p>1997年6月27日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳偉安" title="wikilink">吳偉安</a>（Wu Weian）</p></td>
+<td><p>中場</p></td>
+<td><p>1981年9月1日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/寧安_(足球運動員)" title="wikilink">寧安</a>（Ning An）</p></td>
+<td><p>中場</p></td>
+<td><p>1995年10月8日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王新輝" title="wikilink">王新輝</a>（Wang Xinhui）</p></td>
+<td><p>中場</p></td>
+<td><p>1993年1月2日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳富海" title="wikilink">陳富海</a>（Chen Fuhai）</p></td>
+<td><p>中場</p></td>
+<td><p>1997年2月9日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><font color="black">非轉會窗時期(冬季轉會窗後)</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><font color="black">非轉會窗時期(冬季轉會窗後)</p></td>
+<td><p><font color="black">2018年冬季轉會窗</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><font color="black">非轉會窗時期(冬季轉會窗後)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -593,7 +581,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 
   - [楊正光](../Page/楊正光.md "wikilink")（2018年－）
 
-  - [吳耀星](https://zh.wikipedia.org/wiki/吳耀星 "wikilink")（2018年）
+  - 吳耀星（2018年）
 
   - [馬里科](../Page/馬里科.md "wikilink")（2017年一2018年）
 
@@ -607,7 +595,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 
   - [閔俊麟](https://zh.wikipedia.org/wiki/閔俊麟 "wikilink")（2016年）
 
-  - [楊挺](https://zh.wikipedia.org/wiki/楊挺 "wikilink")（2016年）
+  - 楊挺（2016年）
 
 ## 曾效力球員
 
@@ -624,10 +612,10 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p><a href="https://zh.wikipedia.org/wiki/洪流" title="wikilink">洪流</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/卓耀國.md" title="wikilink">卓耀國</a></p></td>
+<td><p><a href="../Page/袁振昇.md" title="wikilink">袁振昇</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/伊達_(足球運動員).md" title="wikilink">伊達</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/荆騰" title="wikilink">荆騰</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -645,16 +633,16 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p><a href="https://zh.wikipedia.org/wiki/趙銘_(足球運動員)" title="wikilink">趙銘</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄺灝堃" title="wikilink">鄺灝堃</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李雷" title="wikilink">李雷</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/何子霖" title="wikilink">何子霖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/葉鋭文" title="wikilink">葉鋭文</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/王洱多" title="wikilink">王洱多</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韋宗仁" title="wikilink">韋宗仁</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/向嘉馳" title="wikilink">向嘉馳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳佳奇" title="wikilink">陳佳奇</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -678,21 +666,15 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 
 ## 外部連結
 
-  - [R\&F富力官方網頁 -
-    港超聯新聞](http://www.gzrffc.com.cn/index.php?m=Article&a=index&id=98)
-  - [香港足球總會網頁球會資料](https://web.archive.org/web/20180101030212/http://www.hkfa.com/ch/club/300/detail/)
+  - [R\&F富力官方網頁 - 港超聯新聞](http://www.gzrffc.com.cn/index.php?m=Article&a=index&id=98)
+  - [香港足球總會網頁球會資料](https://www.hkfa.com/ch/club/300/detail/)
 
-[Category:香港超級聯賽球會](https://zh.wikipedia.org/wiki/Category:香港超級聯賽球會 "wikilink")
-[Category:2016年香港建立](https://zh.wikipedia.org/wiki/Category:2016年香港建立 "wikilink")
+[Category:香港超級聯賽球會](https://zh.wikipedia.org/wiki/Category:香港超級聯賽球會 "wikilink") [Category:2016年香港建立](https://zh.wikipedia.org/wiki/Category:2016年香港建立 "wikilink")
 
-1.  [港超聯　R＆F富力來季外援「註3出2」 - on.cc
-    東網 20160619](http://m.on.cc/nc/sports/20170619/20170619153319sp.html)
+1.  [港超聯　R＆F富力來季外援「註3出2」 - on.cc 東網 20160619](http://m.on.cc/nc/sports/20170619/20170619153319sp.html)
 2.  [Ｒ＆Ｆ富力下季大搞？](http://hk.on.cc/hk/bkn/cnt/sport/20170525/bkn-20170525231328756-0525_00882_001.html)
-3.  [港超聯 富力特權被削 將聘9員港將續參戰 -
-    蘋果日報體育 20160619](http://hk.apple.nextmedia.com/realtime/sports/20170619/56849812)
-4.  [傑志就R\&F富力非法接觸本會球員作出投訴
-    (2018-05-31)](http://www.kitchee.com/news.php?id=659) 傑志- 最新消息
-    2018-05-31
+3.  [港超聯 富力特權被削 將聘9員港將續參戰 - 蘋果日報體育 20160619](http://hk.apple.nextmedia.com/realtime/sports/20170619/56849812)
+4.  [傑志就R\&F富力非法接觸本會球員作出投訴 (2018-05-31)](http://www.kitchee.com/news.php?id=659) 傑志- 最新消息 2018-05-31
 5.  [关于球员陈俊乐加盟广州富力足球俱乐部的公告](https://weibo.com/2456231390/GpLzObg0J?ref=home&rid=1_0_8_3074308831379527477_0_1)
 6.  [【港超聯】凱景作客負富力正式降班　港超史上首現雙位入場人數](https://www.hk01.com/即時體育/322944/港超聯-凱景作客負富力正式降班-港超史上首現雙位入場人數)
 7.  [港超聯　和富大埔搞掂富力　首奪聯賽冠軍](https://hk.on.cc/hk/bkn/cnt/sport/20190504/bkn-20190504162426410-0504_00882_001.html)

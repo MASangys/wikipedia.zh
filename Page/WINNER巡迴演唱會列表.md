@@ -1,12 +1,10 @@
-《**WINNER巡迴演唱會列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[WINNER出道至今所舉行的團體演唱會](../Page/WINNER.md "wikilink")、見面會及大型公演。
+《**WINNER巡迴演唱會列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[WINNER](../Page/WINNER.md "wikilink")出道至今所舉行的團體演唱會、見面會及大型公演。
 
 ## 演唱會
 
 ### WINNER 2014 Zepp Tour in Japan
 
-「WINNER 2014 Zepp Tour in
-Japan」是紀念WINNER在[日本發行的首張日語正規專輯](../Page/日本.md "wikilink")《[2014
-S/S](https://zh.wikipedia.org/wiki/2014_S/S_-Japan_Collection- "wikilink")》所舉行的首場日本巡迴演唱會，從2014年9月11日開始至10月11日動員近2萬5千名觀眾進場觀賞。\[1\]\[2\]
+「WINNER 2014 Zepp Tour in Japan」是紀念WINNER在[日本](../Page/日本.md "wikilink")發行的首張日語正規專輯《[2014 S/S](https://zh.wikipedia.org/wiki/2014_S/S_-Japan_Collection- "wikilink")》所舉行的首場日本巡迴演唱會，從2014年9月11日開始至10月11日動員近2萬5千名觀眾進場觀賞。\[1\]\[2\]
 
 <table>
 <thead>
@@ -555,7 +553,7 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S_-Japan_Collection- "wikilink")》所
 </tr>
 <tr class="even">
 <td><p>2019年1月5日</p></td>
-<td><p><a href="../Page/首爾.md" title="wikilink">首爾安可場</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a>安可場</p></td>
 <td></td>
 <td><p>KSPO DOME</p></td>
 </tr>
@@ -878,7 +876,7 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S_-Japan_Collection- "wikilink")》所
 | 2017年5月14日     | YG×UNICEF WALKING FESTIVAL                                                                                   | 首爾上岩洞世界盃公園和平草地廣場（缺宋旻浩）                         |
 | 2017年5月25日     | Dongguk University's Annual Spring Festival                                                                  | 首爾東國大學                                         |
 | 2017年6月1日      | Cheongju University festival                                                                                 | 忠清北道清州大學                                       |
-| 2017年6月3日      | [鄭恩地個人演唱會](../Page/鄭恩地.md "wikilink")《閣樓( 다락방)》                                                              | 梨花女子大學三星Hall（姜昇潤）                              |
+| 2017年6月3日      | [鄭恩地](../Page/鄭恩地.md "wikilink")個人演唱會《閣樓( 다락방)》                                                              | 梨花女子大學三星Hall（姜昇潤）                              |
 | 2017年7月8－9日    | [太陽](../Page/太陽_\(歌手\).md "wikilink")《[白夜世界巡迴演唱會](https://zh.wikipedia.org/wiki/白夜世界巡迴演唱會 "wikilink")》       | 日本[千葉海洋球場](../Page/千葉海洋球場.md "wikilink")（開場嘉賓） |
 | 2017年7月15日     | Oak valley HOOXIE camping festival 2017                                                                      | Oak Valley Camping                             |
 | 2017年7月24日     | MBC Music Core Ulsan Summer Festival 2017                                                                    | 蔚山綜合運動場附設球場                                    |
@@ -894,7 +892,7 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S_-Japan_Collection- "wikilink")》所
 | 2017年12月1日     | SK-II Pop Up Store開幕典禮                                                                                       | 首爾瑞草區Famille Station                           |
 | 2017年12月5日     | Severance 1%分享10周年紀念分享公演                                                                                     | 延世大學附屬醫院Severance本館                            |
 | 2017年12月25日    | SBS歌謠大戰                                                                                                      | 首爾高尺天空巨蛋                                       |
-| 2017年12月28日    | [PSY演唱會](../Page/PSY.md "wikilink")《ALL NIGHT STAND 2017》                                                    | 首爾蠶室室內體育館（特別嘉賓）                                |
+| 2017年12月28日    | [PSY](../Page/PSY.md "wikilink")演唱會《ALL NIGHT STAND 2017》                                                    | 首爾蠶室室內體育館（特別嘉賓）                                |
 | 2017年12月31日    | [MBC歌謠大祭典](../Page/MBC歌謠大祭典.md "wikilink")：The FAN                                                           | 日山MBC Dream Center                             |
 | 2018年4月26日     | 第64屆京畿道體育大會                                                                                                  | 楊平綜合運動場                                        |
 | 2018年4月30日     | 高麗大學世宗校區校慶                                                                                                   | 高麗大學世宗校區                                       |
@@ -942,8 +940,7 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S_-Japan_Collection- "wikilink")》所
   - [Official Site](http://innercircle.yg-winner.com/)
   - [YG Entertainment](http://ygfamily.com/)
 
-[Category:WINNER](https://zh.wikipedia.org/wiki/Category:WINNER "wikilink")
-[Category:巡迴演唱會列表](https://zh.wikipedia.org/wiki/Category:巡迴演唱會列表 "wikilink")
+[Category:WINNER](https://zh.wikipedia.org/wiki/Category:WINNER "wikilink") [Category:巡迴演唱會列表](https://zh.wikipedia.org/wiki/Category:巡迴演唱會列表 "wikilink")
 
 1.
 

@@ -1,5 +1,4 @@
-**Before You
-Exit**是一支[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[流行搖滾樂隊](../Page/流行搖滾.md "wikilink")，由康納·麥克唐納、萊利·麥克唐納、托比·麥克唐納組成。
+**Before You Exit**是一支[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[流行搖滾](../Page/流行搖滾.md "wikilink")樂隊，由康納·麥克唐納、萊利·麥克唐納、托比·麥克唐納組成。
 
 ## 成員列表
 
@@ -228,8 +227,7 @@ Exit**是一支[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[流行�
 
 ## 參考資料
 
-[Category:美國男子演唱團體](https://zh.wikipedia.org/wiki/Category:美國男子演唱團體 "wikilink")
-[Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink")
+[Category:美國男子演唱團體](https://zh.wikipedia.org/wiki/Category:美國男子演唱團體 "wikilink") [Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink")
 
 1.  <https://www.famousbirthdays.com/people/>
 2.

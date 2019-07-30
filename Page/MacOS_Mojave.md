@@ -1,24 +1,16 @@
-**macOS Mojave**（版本
-10.14）是[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Mac電腦系列產品的](https://zh.wikipedia.org/wiki/Mac系列 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，在2018年6月4日舉行的[WWDC](https://zh.wikipedia.org/wiki/WWDC "wikilink")2018首日發佈了首個開發者預覽版，正式版於2018年9月24日發佈\[1\]。蘋果公司依循從[10.9版起用美國加州地理景觀命名的慣例](../Page/OS_X_Mavericks.md "wikilink")。今次更新的名稱為
-macOS
-Mojave，即代表橫跨[加州東南部](https://zh.wikipedia.org/wiki/加州 "wikilink")、[猶他州](https://zh.wikipedia.org/wiki/猶他州 "wikilink")、[內華達州南部及](https://zh.wikipedia.org/wiki/內華達州 "wikilink")[亞利桑那州的](../Page/亞利桑那州.md "wikilink")[莫哈韋沙漠](https://zh.wikipedia.org/wiki/莫哈韋沙漠 "wikilink")。
+**macOS Mojave**（版本 10.14）是[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Mac電腦系列產品的](https://zh.wikipedia.org/wiki/Mac系列 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，在2018年6月4日舉行的[WWDC](https://zh.wikipedia.org/wiki/WWDC "wikilink")2018首日發佈了首個開發者預覽版，正式版於2018年9月24日發佈\[1\]。蘋果公司依循從[10.9版起用美國加州地理景觀命名的慣例](../Page/OS_X_Mavericks.md "wikilink")。今次更新的名稱為 macOS Mojave，即代表橫跨[加州東南部](https://zh.wikipedia.org/wiki/加州 "wikilink")、[猶他州](https://zh.wikipedia.org/wiki/猶他州 "wikilink")、[內華達州南部及](https://zh.wikipedia.org/wiki/內華達州 "wikilink")[亞利桑那州](../Page/亞利桑那州.md "wikilink")的[莫哈韋沙漠](https://zh.wikipedia.org/wiki/莫哈韋沙漠 "wikilink")。
 
 ## 支援產品
 
-macOS Mojave需要机型支援[Metal
-API](https://zh.wikipedia.org/wiki/Metal_API "wikilink")，因此不再支援2012年中之前的舊款機種，可更換兼容Metal
-API顯示卡的[Mac Pro例外](../Page/Mac_Pro.md "wikilink")\[2\]：
+macOS Mojave需要机型支援[Metal API](https://zh.wikipedia.org/wiki/Metal_API "wikilink")，因此不再支援2012年中之前的舊款機種，可更換兼容Metal API顯示卡的[Mac Pro例外](../Page/Mac_Pro.md "wikilink")\[2\]：
 
   - [MacBook](../Page/MacBook_\(Retina显示屏\).md "wikilink")：2015年及以后的所有機型（即配备Retina显示屏的新款MacBook）
   - [MacBook Pro](../Page/MacBook_Pro.md "wikilink")：2012年中或其後機型
   - [MacBook Air](../Page/MacBook_Air.md "wikilink")：2012年中或其後機型
-  - [Mac
-    Mini](https://zh.wikipedia.org/wiki/Mac_Mini "wikilink")：2012年末或其後機型
+  - [Mac Mini](https://zh.wikipedia.org/wiki/Mac_Mini "wikilink")：2012年末或其後機型
   - [iMac](https://zh.wikipedia.org/wiki/iMac "wikilink"): 2012年末或其後機型
-  - [iMac Pro](https://zh.wikipedia.org/wiki/iMac_Pro "wikilink"):
-    2017年末或其後機型
-  - [Mac Pro](../Page/Mac_Pro.md "wikilink"):
-    2010年中、2012年中支持Metal的機型，以及2013年或其後機型
+  - [iMac Pro](https://zh.wikipedia.org/wiki/iMac_Pro "wikilink"): 2017年末或其後機型
+  - [Mac Pro](../Page/Mac_Pro.md "wikilink"): 2010年中、2012年中支持Metal的機型，以及2013年或其後機型
 
 ## 變更
 
@@ -26,8 +18,7 @@ API顯示卡的[Mac Pro例外](../Page/Mac_Pro.md "wikilink")\[2\]：
 
 #### APFS 檔案系統
 
-[苹果文件系统](../Page/苹果文件系统.md "wikilink")（APFS）正式支援硬碟及[Fusion
-Drive](../Page/Fusion_Drive.md "wikilink")。
+[苹果文件系统](../Page/苹果文件系统.md "wikilink")（APFS）正式支援硬碟及[Fusion Drive](../Page/Fusion_Drive.md "wikilink")。
 
 #### Metal
 
@@ -43,10 +34,7 @@ Drive](../Page/Fusion_Drive.md "wikilink")。
 
 #### 32位元應用程式警告
 
-在[macOS High
-Sierra](https://zh.wikipedia.org/wiki/macOS_High_Sierra "wikilink")
-中，只會在首次打开[32位元應用程式時提示用戶](https://zh.wikipedia.org/wiki/32位元應用程式 "wikilink")；而在macOS
-Mojave中，會在每次打开32位元應用程式時提示用戶，因為这是最後一代支援32位元应用程序的macOS。
+在[macOS High Sierra](https://zh.wikipedia.org/wiki/macOS_High_Sierra "wikilink") 中，只會在首次打开[32位元應用程式時提示用戶](https://zh.wikipedia.org/wiki/32位元應用程式 "wikilink")；而在macOS Mojave中，會在每次打开32位元應用程式時提示用戶，因為这是最後一代支援32位元应用程序的macOS。
 
 ### 新增功能
 
@@ -70,8 +58,7 @@ Mojave中，會在每次打开32位元應用程式時提示用戶，因為这是
 
 #### 接續互通
 
-在 Mac 上使用 Pages、 Keynote 等辦公軟體進行編輯時，可以使用 iPhone 來拍攝圖片，或者用 iPhone
-來掃描文件，並插入到媒體中。
+在 Mac 上使用 Pages、 Keynote 等辦公軟體進行編輯時，可以使用 iPhone 來拍攝圖片，或者用 iPhone 來掃描文件，並插入到媒體中。
 
 #### 新應用程式
 
@@ -285,8 +272,8 @@ xnu-4903.241.1~1</p></td>
 <a href="https://support.apple.com/kb/DL1996">macOS Mojave 10.14.4 Combo Update</a></p></td>
 </tr>
 <tr class="even">
-<td><p>10.14.5 Beta 2</p></td>
-<td><p>18F108f</p></td>
+<td><p>10.14.5 Beta 3</p></td>
+<td><p>18G59b</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -297,8 +284,7 @@ xnu-4903.241.1~1</p></td>
 
 ## 参考链接
 
-[Category:MacOS](https://zh.wikipedia.org/wiki/Category:MacOS "wikilink")
-[Category:苹果公司软件](https://zh.wikipedia.org/wiki/Category:苹果公司软件 "wikilink")
+[Category:MacOS](https://zh.wikipedia.org/wiki/Category:MacOS "wikilink") [Category:苹果公司软件](https://zh.wikipedia.org/wiki/Category:苹果公司软件 "wikilink")
 
 1.
 2.

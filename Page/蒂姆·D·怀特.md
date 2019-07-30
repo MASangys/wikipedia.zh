@@ -1,6 +1,4 @@
-**蒂姆·D·懷特**（**Timothy Douglas
-White**）是美國[加州大學柏克萊分校的](https://zh.wikipedia.org/wiki/加州大學柏克萊分校 "wikilink")[古人類學教授](https://zh.wikipedia.org/wiki/古人類學 "wikilink")。
-[Tim_White_David_Shankbone_2010_NYC.jpg](https://zh.wikipedia.org/wiki/File:Tim_White_David_Shankbone_2010_NYC.jpg "fig:Tim_White_David_Shankbone_2010_NYC.jpg")盛会\]\]
+**蒂姆·D·懷特**（**Timothy Douglas White**）是美國[加州大學柏克萊分校的](https://zh.wikipedia.org/wiki/加州大學柏克萊分校 "wikilink")[古人類學教授](https://zh.wikipedia.org/wiki/古人類學 "wikilink")。 [Tim_White_David_Shankbone_2010_NYC.jpg](https://zh.wikipedia.org/wiki/File:Tim_White_David_Shankbone_2010_NYC.jpg "fig:Tim_White_David_Shankbone_2010_NYC.jpg")盛会\]\]
 
 ## 生平
 
@@ -25,27 +23,13 @@ White**）是美國[加州大學柏克萊分校的](https://zh.wikipedia.org/wik
 
 ## 外部链接
 
-  - [Webpage on
-    Dr.White](http://www.isepp.org/Pages/03-04%20Pages/White.html)
-  - [On the Trail of our Human
-    Ancestors](http://video.google.com/videoplay?docid=-8024035453825980995&q=%22Conversations+with+History%22)
-    Interview - Google Video
-  - [Conversation with Tim
-    White](http://globetrotter.berkeley.edu/people3/White/white-con0.html)
-  - [Tim White's research
-    profile](https://ib.berkeley.edu/people/faculty/whitet)
-  - [Director](http://herc.berkeley.edu/index.php?title=People) - Human
-    Evolution Research Center at UC Berkeley
-  - [Project
-    Leader](https://middleawash.berkeley.edu/middle_awash/leadership.php)
-    - Middle Awash Research Project
+  - [Webpage on Dr.White](http://www.isepp.org/Pages/03-04%20Pages/White.html)
+  - [On the Trail of our Human Ancestors](http://video.google.com/videoplay?docid=-8024035453825980995&q=%22Conversations+with+History%22) Interview - Google Video
+  - [Conversation with Tim White](http://globetrotter.berkeley.edu/people3/White/white-con0.html)
+  - [Tim White's research profile](https://ib.berkeley.edu/people/faculty/whitet)
+  - [Director](http://herc.berkeley.edu/index.php?title=People) - Human Evolution Research Center at UC Berkeley
+  - [Project Leader](https://middleawash.berkeley.edu/middle_awash/leadership.php) - Middle Awash Research Project
 
-[Category:河滨加州大学校友](https://zh.wikipedia.org/wiki/Category:河滨加州大学校友 "wikilink")
-[Category:美国人类学家](https://zh.wikipedia.org/wiki/Category:美国人类学家 "wikilink")
-[Category:密歇根大学校友](https://zh.wikipedia.org/wiki/Category:密歇根大学校友 "wikilink")
-[Category:美国国家科学院院士](https://zh.wikipedia.org/wiki/Category:美国国家科学院院士 "wikilink")
-[Category:美国古人类学家](https://zh.wikipedia.org/wiki/Category:美国古人类学家 "wikilink")
-[Category:柏克萊加州大學教師](https://zh.wikipedia.org/wiki/Category:柏克萊加州大學教師 "wikilink")
-[Category:人类演化理论家](https://zh.wikipedia.org/wiki/Category:人类演化理论家 "wikilink")
+[Category:河滨加州大学校友](https://zh.wikipedia.org/wiki/Category:河滨加州大学校友 "wikilink") [Category:美国人类学家](https://zh.wikipedia.org/wiki/Category:美国人类学家 "wikilink") [Category:密歇根大学校友](https://zh.wikipedia.org/wiki/Category:密歇根大学校友 "wikilink") [Category:美国国家科学院院士](https://zh.wikipedia.org/wiki/Category:美国国家科学院院士 "wikilink") [Category:美国古人类学家](https://zh.wikipedia.org/wiki/Category:美国古人类学家 "wikilink") [Category:柏克萊加州大學教師](https://zh.wikipedia.org/wiki/Category:柏克萊加州大學教師 "wikilink") [Category:人类演化理论家](https://zh.wikipedia.org/wiki/Category:人类演化理论家 "wikilink")
 
 1.

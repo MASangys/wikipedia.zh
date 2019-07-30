@@ -1,6 +1,4 @@
-《*'
-宇宙LIKE少女*'》（韓語：）是韓國[Mnet的綜藝節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")，由[宇宙少女的](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")[雪娥](../Page/雪娥.md "wikilink")、[EXY](../Page/EXY.md "wikilink")、[苞娜](../Page/苞娜.md "wikilink")、[宣儀](https://zh.wikipedia.org/wiki/宣儀 "wikilink")、[秀斌](../Page/秀斌.md "wikilink")、[Luda](../Page/Luda.md "wikilink")、[多願](https://zh.wikipedia.org/wiki/多願 "wikilink")、[程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink")、[恩熙](../Page/恩熙.md "wikilink")、[美岐](https://zh.wikipedia.org/wiki/美岐 "wikilink")、[夏天](https://zh.wikipedia.org/wiki/夏天 "wikilink")、[多榮](https://zh.wikipedia.org/wiki/多榮 "wikilink")、[璉靜等人出演](../Page/璉靜.md "wikilink")。節目為[宇宙少女成員參與的偶像團綜](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，成員們將展示各自不同的個性和魅力，同時也將會展現成員們真實的日常生活\[1\]。節目以第一人稱的觀點，通過熱烈粉絲「Dukhoo
-Kim」（虛擬人物）的觀點，向觀眾介紹宇宙少女每一分每一秒的超級近距離觀察真人秀節目。
+《*' 宇宙LIKE少女*'》（韓語：）是韓國[Mnet的綜藝節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")，由[宇宙少女的](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")[雪娥](../Page/雪娥.md "wikilink")、[EXY](../Page/EXY.md "wikilink")、[苞娜](../Page/苞娜.md "wikilink")、[宣儀](https://zh.wikipedia.org/wiki/宣儀 "wikilink")、[秀斌](../Page/秀斌.md "wikilink")、[Luda](../Page/Luda.md "wikilink")、[多願](https://zh.wikipedia.org/wiki/多願 "wikilink")、[程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink")、[恩熙](../Page/恩熙.md "wikilink")、[美岐](https://zh.wikipedia.org/wiki/美岐 "wikilink")、[夏天](https://zh.wikipedia.org/wiki/夏天 "wikilink")、[多榮](https://zh.wikipedia.org/wiki/多榮 "wikilink")、[璉靜](../Page/璉靜.md "wikilink")等人出演。節目為[宇宙少女成員參與的偶像團綜](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，成員們將展示各自不同的個性和魅力，同時也將會展現成員們真實的日常生活\[1\]。節目以第一人稱的觀點，通過熱烈粉絲「Dukhoo Kim」（虛擬人物）的觀點，向觀眾介紹宇宙少女每一分每一秒的超級近距離觀察真人秀節目。
 
   - 成員璉靜因加入宇宙少女時間較晚，故僅參加第8集的錄製\[2\]。
 
@@ -24,7 +22,7 @@ Kim」（虛擬人物）的觀點，向觀眾介紹宇宙少女每一分每一�
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2016年6月16日</p></td>
-<td><p>金狂饭来到宇宙少女粉丝见面会现场。宇宙少女装扮成动画或电影角色登场，供粉丝在台下拍摄。见面会公开此前拍摄的真人秀预告片，宣仪想到拍摄辛苦感动落泪。宇宙少女回答粉丝们关于真人秀的问题并于粉丝握手。苞娜、EXY、恩熙、程潇前去摄影棚拍摄艺人生涯的第一则美妆广告，雪娥、Luda、美岐为工作人员准备的饮料前来为四人应援，测试自制自助铝箔纸反光板。 宇宙少女来到成均馆大学校庆现场进行游击公演，迎来EXY的至亲好友、成均馆大学毕业生<a href="../Page/Apink.md" title="wikilink">Apink组合前辈</a><a href="../Page/金南珠_(歌手).md" title="wikilink">南珠造访</a>。少女们分别在大学食堂、球场、教师等场所宣传公演招揽观众。少女们成功吸引了诸多观众，游击公演顺利进行，表演了组合出道舞台和因<a href="https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2" title="wikilink">Unpretty Rapstar 2已小有名气的EXY的个人舞台</a>。</p>
+<td><p>金狂饭来到宇宙少女粉丝见面会现场。宇宙少女装扮成动画或电影角色登场，供粉丝在台下拍摄。见面会公开此前拍摄的真人秀预告片，宣仪想到拍摄辛苦感动落泪。宇宙少女回答粉丝们关于真人秀的问题并于粉丝握手。苞娜、EXY、恩熙、程潇前去摄影棚拍摄艺人生涯的第一则美妆广告，雪娥、Luda、美岐为工作人员准备的饮料前来为四人应援，测试自制自助铝箔纸反光板。 宇宙少女来到成均馆大学校庆现场进行游击公演，迎来EXY的至亲好友、成均馆大学毕业生<a href="../Page/Apink.md" title="wikilink">Apink</a>组合前辈<a href="../Page/金南珠_(歌手).md" title="wikilink">南珠造访</a>。少女们分别在大学食堂、球场、教师等场所宣传公演招揽观众。少女们成功吸引了诸多观众，游击公演顺利进行，表演了组合出道舞台和因<a href="https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2" title="wikilink">Unpretty Rapstar 2已小有名气的EXY的个人舞台</a>。</p>
 <p>清晨，柜子上的相框突然掉落，似乎暗示了曲折的一天。少女们决定午餐的时候，雪娥、苞娜、EXY和秀份被理事召唤前去公司，余下成员决定午餐最终选择外送披萨和炸鸡。恩熙和程潇额外制作大酱汤却放入了过多的青阳辣椒，而多荣试图联系餐厅却均为打通或被告知无法配送，好在最后均顺利解决。程潇不熟练的韩语引出了可爱笑料，放送了部分程潇的韩语初学者语录。忙碌过后，成员们享用食物并给外出的姐姐们留下午餐。少女们不顺的一天还没有结束。Wonder Unit轮值洗衣服，却遭遇停电和玻璃碎掉，随后多荣召唤苞娜帮助手洗衣服，晾衣架却又屡屡倒塌。夜晚的拍摄中，又一次遭遇停电，少女们点起蜡烛分享鬼故事。</p>
 <p>最后，宇宙少女在电视前集合，观看上一集真人秀的首播放送，回忆起拍摄宣传片时的过程。最后得知宇宙少女出现在网络搜索榜上而激动不已。</p></td>
 </tr>
@@ -32,8 +30,8 @@ Kim」（虛擬人物）的觀點，向觀眾介紹宇宙少女每一分每一�
 <td><p>3</p></td>
 <td><p>2016年6月23日</p></td>
 <td><p>金狂饭来到仁川国际机场，欢送宇宙少女前往上海参加M Countdown in Shanghai演唱会。画面回到出发前一天夜里的宿舍，多愿采访三位中国成员即将回国的心情。宣仪、苞娜、EXY、Luda和多荣为采购去上海旅行要带的零食前往超市购物。公开宇宙少女的必备行李和机场时尚。 宇宙少女们也来到仁川机场，在与送机粉丝问候后启程前往上海，上一集中出现的反光板又一次登场。飞行过后，宇宙少女抵达上海酒店：雪娥、EXY上床午睡；Luda、夏天收拾零食并用拍立得拍照；秀份、多荣介绍各自的行李、用反光板拍摄插线板广告；宣仪、苞娜观看中文电视、分享所带的紫菜；多愿、美岐重新制作行李里被压坏的反光板。</p>
-<p>少女们来到梅赛德斯奔驰文化中心进行M Countdown演唱会的彩排，由于不适应360度的环形舞台第一次彩排效果不佳留有遗憾。少女们在台上问候上台的同公司前辈，开始与<a href="../Page/SISTAR.md" title="wikilink">SISTAR合作舞台的彩排</a>，结束后下场观看SISTAR的彩排并向结束彩排的师姐们致意。下场后夏天认出了在场下观看彩排的Yanis Marshall舞蹈团队成员并上前问候。随后在待机室，少女们集合总结彩排时的失误。回到酒店，成员们为恩熙策划惊喜生日派对。成员们为恩熙制作生日信，秀份、美岐和多荣前往水果店和面包房购买水果和生日蛋糕。惊喜派对准备就绪，全部成员在雪娥、EXY的房间内庆祝恩熙的生日。</p>
-<p>次日，少女们来到现场进行彩排，金狂饭也见到了中国的粉丝和他们的应援方式。彩排完毕少女们又遇到了Yanis的舞团，并与舞蹈演员们比拼身体的柔软。<a href="../Page/Secret_(組合).md" title="wikilink">Secret的</a><a href="../Page/全烋星.md" title="wikilink">全烋星前辈经过</a>，少女们同前辈问好并加入了前辈与Yanis舞团的合影。少女们的社会礼仪继续，接连拜访了<a href="https://zh.wikipedia.org/wiki/神话_(组合)" title="wikilink">神话的</a><a href="../Page/前進_(藝人).md" title="wikilink">前進前辈</a>、<a href="../Page/FTIsland.md" title="wikilink">FTIsland前辈和台湾天后歌手</a><a href="../Page/蔡依林.md" title="wikilink">蔡依林</a>。EXY回到待机室学习中文，独特的表达逗笑了其他成员。登台前，恩熙至亲<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND成员</a><a href="../Page/SinB.md" title="wikilink">SinB和苞娜在</a><a href="../Page/Cube娛樂.md" title="wikilink">Cube娛樂当练习生时期的好友兼前辈</a><a href="../Page/BTOB.md" title="wikilink">BTOB分别造访宇宙少女待机室</a>。最终，宇宙少女顺利完成了在M Countdown in Shanghai的演出，并与中国的观众们热情问好。</p></td>
+<p>少女们来到梅赛德斯奔驰文化中心进行M Countdown演唱会的彩排，由于不适应360度的环形舞台第一次彩排效果不佳留有遗憾。少女们在台上问候上台的同公司前辈，开始与<a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>合作舞台的彩排，结束后下场观看SISTAR的彩排并向结束彩排的师姐们致意。下场后夏天认出了在场下观看彩排的Yanis Marshall舞蹈团队成员并上前问候。随后在待机室，少女们集合总结彩排时的失误。回到酒店，成员们为恩熙策划惊喜生日派对。成员们为恩熙制作生日信，秀份、美岐和多荣前往水果店和面包房购买水果和生日蛋糕。惊喜派对准备就绪，全部成员在雪娥、EXY的房间内庆祝恩熙的生日。</p>
+<p>次日，少女们来到现场进行彩排，金狂饭也见到了中国的粉丝和他们的应援方式。彩排完毕少女们又遇到了Yanis的舞团，并与舞蹈演员们比拼身体的柔软。<a href="../Page/Secret_(組合).md" title="wikilink">Secret的</a><a href="../Page/全烋星.md" title="wikilink">全烋星</a>前辈经过，少女们同前辈问好并加入了前辈与Yanis舞团的合影。少女们的社会礼仪继续，接连拜访了<a href="https://zh.wikipedia.org/wiki/神话_(组合)" title="wikilink">神话的</a><a href="../Page/前進_(藝人).md" title="wikilink">前進前辈</a>、<a href="../Page/FTIsland.md" title="wikilink">FTIsland</a>前辈和台湾天后歌手<a href="../Page/蔡依林.md" title="wikilink">蔡依林</a>。EXY回到待机室学习中文，独特的表达逗笑了其他成员。登台前，恩熙至亲<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>成员<a href="../Page/SinB.md" title="wikilink">SinB</a>和苞娜在<a href="../Page/Cube娛樂.md" title="wikilink">Cube娛樂</a>当练习生时期的好友兼前辈<a href="../Page/BTOB.md" title="wikilink">BTOB</a>分别造访宇宙少女待机室。最终，宇宙少女顺利完成了在M Countdown in Shanghai的演出，并与中国的观众们热情问好。</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -44,7 +42,7 @@ Kim」（虛擬人物）的觀點，向觀眾介紹宇宙少女每一分每一�
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>2016年7月7日</p></td>
-<td><p>宇宙少女回到韩国进行出道期间最后一场签售活动。回到宿舍的宇宙少女们正式公开宇宙少女的宿舍全貌，介绍各成员床铺私人物品及装饰。此时，快递送达餐桌零件，少女们自然地分为购物组（宣仪、恩熙、美岐、夏天）和装配组（其他全员），分别负责宿舍物件采购和餐桌组装。少女们和最终拼装完成的“宇桌”合影。 十二人来到公司练歌房，以为是公司的集体娱乐活动，却不知监听室里同公司的前辈歌手<a href="../Page/鄭基高.md" title="wikilink">鄭基高正在观察少女们的表现</a>，并为其2014年与同公司组合<a href="../Page/SISTAR.md" title="wikilink">SISTAR的</a><a href="https://zh.wikipedia.org/wiki/韶宥" title="wikilink">韶宥合作的大热歌曲</a>《Some》寻找2016版本的合作歌手。最终雪娥、秀份和多愿三人被郑基高选中，成为《Some》2016版的演唱者。</p></td>
+<td><p>宇宙少女回到韩国进行出道期间最后一场签售活动。回到宿舍的宇宙少女们正式公开宇宙少女的宿舍全貌，介绍各成员床铺私人物品及装饰。此时，快递送达餐桌零件，少女们自然地分为购物组（宣仪、恩熙、美岐、夏天）和装配组（其他全员），分别负责宿舍物件采购和餐桌组装。少女们和最终拼装完成的“宇桌”合影。 十二人来到公司练歌房，以为是公司的集体娱乐活动，却不知监听室里同公司的前辈歌手<a href="../Page/鄭基高.md" title="wikilink">鄭基高</a>正在观察少女们的表现，并为其2014年与同公司组合<a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>的<a href="https://zh.wikipedia.org/wiki/韶宥" title="wikilink">韶宥合作的大热歌曲</a>《Some》寻找2016版本的合作歌手。最终雪娥、秀份和多愿三人被郑基高选中，成为《Some》2016版的演唱者。</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
@@ -62,10 +60,7 @@ Kim」（虛擬人物）的觀點，向觀眾介紹宇宙少女每一分每一�
 
 ## 參考資料
 
-[Category:宇宙少女](https://zh.wikipedia.org/wiki/Category:宇宙少女 "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:宇宙少女](https://zh.wikipedia.org/wiki/Category:宇宙少女 "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
 1.
 2.

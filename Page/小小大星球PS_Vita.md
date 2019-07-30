@@ -1,6 +1,4 @@
-是由[索尼公司的旗下工作室Double](https://zh.wikipedia.org/wiki/索尼公司 "wikilink")
-Eleven、Tarsier Studios和XDev Studio Europe開發，並在[PlayStation
-Vita平台上發布](../Page/PlayStation_Vita.md "wikilink")。屬於[小小大星球系列](https://zh.wikipedia.org/wiki/小小大星球系列 "wikilink")。遊戲於2011年1月首次公佈，於2012年9月19日在[英國發布](https://zh.wikipedia.org/wiki/英國 "wikilink")，2012年9月20日在[日本和澳大利亞發布](../Page/日本.md "wikilink")，[北美地區於](https://zh.wikipedia.org/wiki/北美 "wikilink")2012年9月25日發布。
+是由[索尼公司的旗下工作室Double](https://zh.wikipedia.org/wiki/索尼公司 "wikilink") Eleven、Tarsier Studios和XDev Studio Europe開發，並在[PlayStation Vita平台上發布](../Page/PlayStation_Vita.md "wikilink")。屬於[小小大星球系列](https://zh.wikipedia.org/wiki/小小大星球系列 "wikilink")。遊戲於2011年1月首次公佈，於2012年9月19日在[英國發布](https://zh.wikipedia.org/wiki/英國 "wikilink")，2012年9月20日在[日本](../Page/日本.md "wikilink")和澳大利亞發布，[北美地區於](https://zh.wikipedia.org/wiki/北美 "wikilink")2012年9月25日發布。
 
 ## 遊戲玩法
 
@@ -60,16 +58,7 @@ Vita平台上發布](../Page/PlayStation_Vita.md "wikilink")。屬於[小小大�
 
   - [Tarsier Studios 官方网站](http://www.tarsier.se)
 
-[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:平台游戏](https://zh.wikipedia.org/wiki/Category:平台游戏 "wikilink")
-[Category:科学奇幻电子游戏](https://zh.wikipedia.org/wiki/Category:科学奇幻电子游戏 "wikilink")
-[Category:橫向捲軸遊戲](https://zh.wikipedia.org/wiki/Category:橫向捲軸遊戲 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:英國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:英國開發電子遊戲 "wikilink")
-[Category:官方中文化游戏](https://zh.wikipedia.org/wiki/Category:官方中文化游戏 "wikilink")
-[Category:小小大星球系列](https://zh.wikipedia.org/wiki/Category:小小大星球系列 "wikilink")
+[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:平台游戏](https://zh.wikipedia.org/wiki/Category:平台游戏 "wikilink") [Category:科学奇幻电子游戏](https://zh.wikipedia.org/wiki/Category:科学奇幻电子游戏 "wikilink") [Category:橫向捲軸遊戲](https://zh.wikipedia.org/wiki/Category:橫向捲軸遊戲 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:英國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:英國開發電子遊戲 "wikilink") [Category:官方中文化游戏](https://zh.wikipedia.org/wiki/Category:官方中文化游戏 "wikilink") [Category:小小大星球系列](https://zh.wikipedia.org/wiki/Category:小小大星球系列 "wikilink")
 
 1.
 2.

@@ -1,7 +1,4 @@
-《**WeKid**》（韓語：위키드）是韓國[Mnet與](https://zh.wikipedia.org/wiki/Mnet "wikilink")[tvN共同製作的綜藝節目](https://zh.wikipedia.org/wiki/tvN "wikilink")，節目名稱來源為「**We**
-sing like a
-**KID**.」的縮寫。由[金成柱主持](https://zh.wikipedia.org/wiki/金成柱 "wikilink")，由[柳演錫](https://zh.wikipedia.org/wiki/柳演錫 "wikilink")、[朴寶英](https://zh.wikipedia.org/wiki/朴寶英 "wikilink")\[1\]、[Tiger
-JK擔任導師](https://zh.wikipedia.org/wiki/Tiger_JK "wikilink")，作曲家[Bizzy](https://zh.wikipedia.org/wiki/Bizzy "wikilink")、[劉宰煥](https://zh.wikipedia.org/wiki/劉宰煥 "wikilink")、[尹日尚參與](https://zh.wikipedia.org/wiki/尹日尚 "wikilink")，每集邀請不同來賓一同製作膾炙人口的兒童歌謠，屬於真人秀綜藝節目\[2\]。
+《**WeKid**》（韓語：위키드）是韓國[Mnet與](https://zh.wikipedia.org/wiki/Mnet "wikilink")[tvN共同製作的綜藝節目](https://zh.wikipedia.org/wiki/tvN "wikilink")，節目名稱來源為「**We** sing like a **KID**.」的縮寫。由[金成柱主持](https://zh.wikipedia.org/wiki/金成柱 "wikilink")，由[柳演錫](https://zh.wikipedia.org/wiki/柳演錫 "wikilink")、[朴寶英](https://zh.wikipedia.org/wiki/朴寶英 "wikilink")\[1\]、[Tiger JK擔任導師](https://zh.wikipedia.org/wiki/Tiger_JK "wikilink")，作曲家[Bizzy](https://zh.wikipedia.org/wiki/Bizzy "wikilink")、[劉宰煥](https://zh.wikipedia.org/wiki/劉宰煥 "wikilink")、[尹日尚參與](https://zh.wikipedia.org/wiki/尹日尚 "wikilink")，每集邀請不同來賓一同製作膾炙人口的兒童歌謠，屬於真人秀綜藝節目\[2\]。
 
 ## 來賓
 
@@ -18,10 +15,7 @@ JK擔任導師](https://zh.wikipedia.org/wiki/Tiger_JK "wikilink")，作曲家[B
 
 ## 參考資料
 
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
-[Category:TvN](https://zh.wikipedia.org/wiki/Category:TvN "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink") [Category:TvN](https://zh.wikipedia.org/wiki/Category:TvN "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
 1.  <http://kpopn.niusnews.com/=K1rvbol2>
 2.  <http://www.koreastardaily.com/tc/news/74024>

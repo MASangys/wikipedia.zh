@@ -1,5 +1,4 @@
-诺基亚 Lumia 1320是诺基亚公司在Nokia World 2013上发布的一款Lumia 系列手机，其6英寸的ClearBlack
-IPS屏幕使它与Lumia 1520并肩成为屏幕最大的Lumia 手机。
+诺基亚 Lumia 1320是诺基亚公司在Nokia World 2013上发布的一款Lumia 系列手机，其6英寸的ClearBlack IPS屏幕使它与Lumia 1520并肩成为屏幕最大的Lumia 手机。
 
 Lumia 1320在中国大陆于2013年12月末上市，售价2499元。\[1\]
 
@@ -62,12 +61,8 @@ DC-HSPA+: 42.2/5.76 Mbit/s</p></td>
 
 ## 参考资料
 
-[Category:诺基亚手机](https://zh.wikipedia.org/wiki/Category:诺基亚手机 "wikilink")
-[Category:平板手机](https://zh.wikipedia.org/wiki/Category:平板手机 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:科学技术小作品](https://zh.wikipedia.org/wiki/Category:科学技术小作品 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Windows_Phone設備](https://zh.wikipedia.org/wiki/Category:Windows_Phone設備 "wikilink")
-[Category:2013年面世的手機](https://zh.wikipedia.org/wiki/Category:2013年面世的手機 "wikilink")
+
+
+[Category:诺基亚手机](https://zh.wikipedia.org/wiki/Category:诺基亚手机 "wikilink") [Category:平板手机](https://zh.wikipedia.org/wiki/Category:平板手机 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:科学技术小作品](https://zh.wikipedia.org/wiki/Category:科学技术小作品 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Windows_Phone設備](https://zh.wikipedia.org/wiki/Category:Windows_Phone設備 "wikilink") [Category:2013年面世的手機](https://zh.wikipedia.org/wiki/Category:2013年面世的手機 "wikilink")
 
 1.  <http://news.mydrivers.com/1/287/287834.htm>

@@ -1,6 +1,4 @@
-《**宋智孝的Beauty
-View**》（，）是韓國[JTBC的美妝綜藝節目](../Page/JTBC.md "wikilink")，由[宋智孝](../Page/宋智孝.md "wikilink")\[1\]\[2\]\[3\]、[孔明主持](../Page/孔明_\(藝人\).md "wikilink")，美妝編輯[金美玖與時裝設計師](https://zh.wikipedia.org/wiki/金美玖 "wikilink")[Katia
-Cho(趙成京)擔任輔助主持](https://zh.wikipedia.org/wiki/Katia_Cho\(趙成京\) "wikilink")，每集邀請不同來賓參演，並介紹時下流行趨勢，與觀眾進行現場交流，根據觀眾的皮膚類型、色調，進行1:1的美妝秀。此外，還將介紹名人從素顏到完成化妝過程的相關內容。
+《**宋智孝的Beauty View**》（，）是韓國[JTBC](../Page/JTBC.md "wikilink")的美妝綜藝節目，由[宋智孝](../Page/宋智孝.md "wikilink")\[1\]\[2\]\[3\]、[孔明主持](../Page/孔明_\(藝人\).md "wikilink")，美妝編輯[金美玖與時裝設計師](https://zh.wikipedia.org/wiki/金美玖 "wikilink")[Katia Cho(趙成京)擔任輔助主持](https://zh.wikipedia.org/wiki/Katia_Cho\(趙成京\) "wikilink")，每集邀請不同來賓參演，並介紹時下流行趨勢，與觀眾進行現場交流，根據觀眾的皮膚類型、色調，進行1:1的美妝秀。此外，還將介紹名人從素顏到完成化妝過程的相關內容。
 
 ## 節目格式
 
@@ -24,8 +22,7 @@ Cho(趙成京)擔任輔助主持](https://zh.wikipedia.org/wiki/Katia_Cho\(趙�
 
 **5. 潮流趨勢主題 Talk**
 
-  - 由兩位主持夥拍設計師[Katia
-    Cho(趙成京)](https://zh.wikipedia.org/wiki/Katia_Cho\(趙成京\) "wikilink")、服裝師具東賢、超模宋海娜及另外兩名嘉賓介紹潮流趨勢。
+  - 由兩位主持夥拍設計師[Katia Cho(趙成京)](https://zh.wikipedia.org/wiki/Katia_Cho\(趙成京\) "wikilink")、服裝師具東賢、超模宋海娜及另外兩名嘉賓介紹潮流趨勢。
 
 **6. 明星們的真實Beauty**（非固定環節）
 
@@ -46,10 +43,7 @@ Cho(趙成京)擔任輔助主持](https://zh.wikipedia.org/wiki/Katia_Cho\(趙�
 
 ## 參考資料
 
-[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:化妝](https://zh.wikipedia.org/wiki/Category:化妝 "wikilink")
+[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:化妝](https://zh.wikipedia.org/wiki/Category:化妝 "wikilink")
 
 1.
 2.

@@ -1,25 +1,16 @@
-《**Holiday
-Night**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[少女時代的第六張韓語正規專輯](https://zh.wikipedia.org/wiki/少女時代 "wikilink")，於2017年8月7日發行。此專輯發佈之時也是少女時代出道十週年，專輯包含十首歌曲，以歌曲〈All
-Night〉以及〈Holiday〉為雙主打。
+《**Holiday Night**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[少女時代的第六張韓語正規專輯](https://zh.wikipedia.org/wiki/少女時代 "wikilink")，於2017年8月7日發行。此專輯發佈之時也是少女時代出道十週年，專輯包含十首歌曲，以歌曲〈All Night〉以及〈Holiday〉為雙主打。
 
 ## 背景及製作
 
-《Holiday Night》包括十首不同種類的歌曲。其中一首單曲〈All
-Night〉，由曾經為〈[再次重逢的世界](../Page/再次重逢的世界.md "wikilink")〉執筆的[Kenzie製作](../Page/Kenzie.md "wikilink")，而另一首單曲〈Holiday〉則由成員[徐玄參與創作歌詞](https://zh.wikipedia.org/wiki/徐玄 "wikilink")，同時她也參與了〈Sweet
-Talk〉的填詞\[1\]。另一首歌曲〈It's You〉則由成員[俞利填詞](../Page/俞利.md "wikilink")。
+《Holiday Night》包括十首不同種類的歌曲。其中一首單曲〈All Night〉，由曾經為〈[再次重逢的世界](../Page/再次重逢的世界.md "wikilink")〉執筆的[Kenzie](../Page/Kenzie.md "wikilink")製作，而另一首單曲〈Holiday〉則由成員[徐玄參與創作歌詞](https://zh.wikipedia.org/wiki/徐玄 "wikilink")，同時她也參與了〈Sweet Talk〉的填詞\[1\]。另一首歌曲〈It's You〉則由成員[俞利](../Page/俞利.md "wikilink")填詞。
 
 ## 發行與宣傳
 
-2017年7月4日，SM娛樂確定將於8月發表第六張正規專輯回歸，是自2015年發表第五張正規專輯《[Lion
-Heart](https://zh.wikipedia.org/wiki/Lion_Heart "wikilink")》之後時隔兩年的回歸，同時也紀念少女時代出道十週年。\[2\]
+2017年7月4日，SM娛樂確定將於8月發表第六張正規專輯回歸，是自2015年發表第五張正規專輯《[Lion Heart](https://zh.wikipedia.org/wiki/Lion_Heart "wikilink")》之後時隔兩年的回歸，同時也紀念少女時代出道十週年。\[2\]
 
-2017年7月27日，於韓國凌晨12點釋出十週年回歸的第一支預告，形式比照十年前釋出出道影片的順序，每日釋出一支。官方亦公布正規六輯名為《Holiday
-Night》，名稱取自其兩首主打曲\[3\]。 專輯共收錄10首歌曲，將於8月4日下午6時公開線上音源，雙主打曲為〈All
-Night〉及〈Holiday〉，8月7日發售實體專輯正式回歸。\[4\]
+2017年7月27日，於韓國凌晨12點釋出十週年回歸的第一支預告，形式比照十年前釋出出道影片的順序，每日釋出一支。官方亦公布正規六輯名為《Holiday Night》，名稱取自其兩首主打曲\[3\]。 專輯共收錄10首歌曲，將於8月4日下午6時公開線上音源，雙主打曲為〈All Night〉及〈Holiday〉，8月7日發售實體專輯正式回歸。\[4\]
 
-為了宣傳《Holiday
-Night》和慶祝十週年，少女時代在2017年8月5日[首爾奧林匹克公園舉辦粉絲見面會](https://zh.wikipedia.org/wiki/首爾奧林匹克公園 "wikilink")「Holiday
-to Remember」\[5\]。
+為了宣傳《Holiday Night》和慶祝十週年，少女時代在2017年8月5日[首爾奧林匹克公園舉辦粉絲見面會](https://zh.wikipedia.org/wiki/首爾奧林匹克公園 "wikilink")「Holiday to Remember」\[5\]。
 
 ## 曲目
 
@@ -209,9 +200,7 @@ to Remember」\[5\]。
 
 ## 參考文獻
 
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:少女時代音樂專輯](https://zh.wikipedia.org/wiki/Category:少女時代音樂專輯 "wikilink")
+[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:少女時代音樂專輯](https://zh.wikipedia.org/wiki/Category:少女時代音樂專輯 "wikilink")
 
 1.
 

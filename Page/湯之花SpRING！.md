@@ -1,6 +1,4 @@
-是[Otomate预定于](https://zh.wikipedia.org/wiki/Otomate "wikilink")2015年9月17日起\[1\]\[2\]，以[PlayStation
-Vita形式發售的獨佔遊戲](../Page/PlayStation_Vita.md "wikilink")。\[3\]\[4\]名字的意思是“溫泉之花
-春天！”，「湯之花」發音（ゆのは）與女主角結乃葉的發音相同，所以有暗示另一個意思是「結乃葉的春天」。
+是[Otomate预定于](https://zh.wikipedia.org/wiki/Otomate "wikilink")2015年9月17日起\[1\]\[2\]，以[PlayStation Vita形式發售的獨佔遊戲](../Page/PlayStation_Vita.md "wikilink")。\[3\]\[4\]名字的意思是“溫泉之花 春天！”，「湯之花」發音（ゆのは）與女主角結乃葉的發音相同，所以有暗示另一個意思是「結乃葉的春天」。
 
 ## 故事大綱
 
@@ -8,8 +6,7 @@ Vita形式發售的獨佔遊戲](../Page/PlayStation_Vita.md "wikilink")。\[3\]
 
 對城市憧憬，不理父母反對離家出走，卻求職一直失敗中的女主角「結乃葉」。 她是彩川峡温旅館『福壽樓』的老闆娘獨女。
 
-不過，因為接到母親病例的通知而回老家， 儘管是個小地方，以前卻是客似雲來的『福壽樓』，現在變得門可羅雀。
-受到新開張的度假酒店『清峰閣』的人氣打壓下，人客數目處於極減中。
+不過，因為接到母親病例的通知而回老家， 儘管是個小地方，以前卻是客似雲來的『福壽樓』，現在變得門可羅雀。 受到新開張的度假酒店『清峰閣』的人氣打壓下，人客數目處於極減中。
 
 「儘管家有家的好……！」
 
@@ -117,11 +114,7 @@ Vita形式發售的獨佔遊戲](../Page/PlayStation_Vita.md "wikilink")。\[3\]
   - [湯之花SpRING！](http://www.otomate.jp/yunohana_spring/)
 
   -
-[Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink")
-[Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink")
-[Category:PlayStation_Vita独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita独占游戏 "wikilink")
-[Category:少女遊戲](https://zh.wikipedia.org/wiki/Category:少女遊戲 "wikilink")
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
+[Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:PlayStation_Vita独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita独占游戏 "wikilink") [Category:少女遊戲](https://zh.wikipedia.org/wiki/Category:少女遊戲 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
 
 1.
 

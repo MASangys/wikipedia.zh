@@ -2,8 +2,7 @@
 
 ## 出版历史
 
-1983年7月《The Brave and the Bold》\#200首次登场\[1\]，由作家Mike W. Barr和画家Jim
-Aparo所创。
+1983年7月《The Brave and the Bold》\#200首次登场\[1\]，由作家Mike W. Barr和画家Jim Aparo所创。
 
 2013年2月，武士刀‬拥有了自己的漫画系列，由作家Ann Nocenti和画家Alex Sanchez进行创作。
 
@@ -40,14 +39,6 @@ Aparo所创。
 
 ## 参考文献
 
-[Category:DC漫画超级英雄](https://zh.wikipedia.org/wiki/Category:DC漫画超级英雄 "wikilink")
-[Category:1983年首次亮相的漫画角色](https://zh.wikipedia.org/wiki/Category:1983年首次亮相的漫画角色 "wikilink")
-[Category:DC漫画武术家](https://zh.wikipedia.org/wiki/Category:DC漫画武术家 "wikilink")
-[Category:虚构保镖](https://zh.wikipedia.org/wiki/Category:虚构保镖 "wikilink")
-[Category:虚构剑士](https://zh.wikipedia.org/wiki/Category:虚构剑士 "wikilink")
-[Category:虛構女勇士](https://zh.wikipedia.org/wiki/Category:虛構女勇士 "wikilink")
-[Category:超级英雄电视角色](https://zh.wikipedia.org/wiki/Category:超级英雄电视角色 "wikilink")
-[Category:超级英雄电影角色](https://zh.wikipedia.org/wiki/Category:超级英雄电影角色 "wikilink")
+[Category:DC漫画超级英雄](https://zh.wikipedia.org/wiki/Category:DC漫画超级英雄 "wikilink") [Category:1983年首次亮相的漫画角色](https://zh.wikipedia.org/wiki/Category:1983年首次亮相的漫画角色 "wikilink") [Category:DC漫画武术家](https://zh.wikipedia.org/wiki/Category:DC漫画武术家 "wikilink") [Category:虚构保镖](https://zh.wikipedia.org/wiki/Category:虚构保镖 "wikilink") [Category:虚构剑士](https://zh.wikipedia.org/wiki/Category:虚构剑士 "wikilink") [Category:虛構女勇士](https://zh.wikipedia.org/wiki/Category:虛構女勇士 "wikilink") [Category:超级英雄电视角色](https://zh.wikipedia.org/wiki/Category:超级英雄电视角色 "wikilink") [Category:超级英雄电影角色](https://zh.wikipedia.org/wiki/Category:超级英雄电影角色 "wikilink")
 
-1.  [Mike's Amazing World of DC
-    Comics](http://www.dcindexes.com/database/story-details.php?storyid=36497)
+1.  [Mike's Amazing World of DC Comics](http://www.dcindexes.com/database/story-details.php?storyid=36497)

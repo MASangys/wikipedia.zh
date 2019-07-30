@@ -1,6 +1,4 @@
-《**Singderella**》（）是韓國[Channel
-A電視台的綜藝節目](../Page/Channel_A.md "wikilink")，原由[金希澈](https://zh.wikipedia.org/wiki/金希澈 "wikilink")\[1\]、[李壽根](../Page/李壽根.md "wikilink")、[文熙俊](../Page/文熙俊.md "wikilink")\[2\]、[金泰宇](../Page/金泰宇.md "wikilink")、
-[崔成國](https://zh.wikipedia.org/wiki/崔成國_\(演員\) "wikilink")、[姜成妍](../Page/姜成妍.md "wikilink")、[韓錫俊等人主持](https://zh.wikipedia.org/wiki/韓錫俊 "wikilink")。節目名稱《Singderella》指的是為天下的「灰姑娘」獻唱的節目，出自法國童話《灰姑娘》的英文名**Cinderella**和意為歌唱的英文詞**Sing**的合成詞（Sing+derella）。主要是一檔MC與來賓們為安慰觀眾們的苦惱，進而挑選與介紹最適合的歌曲的音樂脫口秀節目。2017年2月24日改版為結合唱歌與宵夜的節目，主持人改為[金希澈](https://zh.wikipedia.org/wiki/金希澈 "wikilink")、[金聖圭](../Page/金聖圭.md "wikilink")\[3\]、[李秀根](https://zh.wikipedia.org/wiki/李秀根 "wikilink")、[文熙俊](../Page/文熙俊.md "wikilink")。
+《**Singderella**》（）是韓國[Channel A電視台的綜藝節目](../Page/Channel_A.md "wikilink")，原由[金希澈](https://zh.wikipedia.org/wiki/金希澈 "wikilink")\[1\]、[李壽根](../Page/李壽根.md "wikilink")、[文熙俊](../Page/文熙俊.md "wikilink")\[2\]、[金泰宇](../Page/金泰宇.md "wikilink")、 [崔成國](https://zh.wikipedia.org/wiki/崔成國_\(演員\) "wikilink")、[姜成妍](../Page/姜成妍.md "wikilink")、[韓錫俊等人主持](https://zh.wikipedia.org/wiki/韓錫俊 "wikilink")。節目名稱《Singderella》指的是為天下的「灰姑娘」獻唱的節目，出自法國童話《灰姑娘》的英文名**Cinderella**和意為歌唱的英文詞**Sing**的合成詞（Sing+derella）。主要是一檔MC與來賓們為安慰觀眾們的苦惱，進而挑選與介紹最適合的歌曲的音樂脫口秀節目。2017年2月24日改版為結合唱歌與宵夜的節目，主持人改為[金希澈](https://zh.wikipedia.org/wiki/金希澈 "wikilink")、[金聖圭](../Page/金聖圭.md "wikilink")\[3\]、[李秀根](https://zh.wikipedia.org/wiki/李秀根 "wikilink")、[文熙俊](../Page/文熙俊.md "wikilink")。
 
 ## 各集資訊
 
@@ -40,9 +38,7 @@ A電視台的綜藝節目](../Page/Channel_A.md "wikilink")，原由[金希澈](
 
   - [官方網站](http://m.ichannela.com/program/main/program_home_templ1_mob.do?pgm_contents=050017)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Channel_A](https://zh.wikipedia.org/wiki/Category:Channel_A "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Channel_A](https://zh.wikipedia.org/wiki/Category:Channel_A "wikilink")
 
 1.
 2.

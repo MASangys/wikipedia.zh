@@ -1,5 +1,4 @@
-**Artist
-Company**（[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：**아티스트컴퍼니**）是韓國的[經紀公司](../Page/經紀公司.md "wikilink")，於2016年成立。
+**Artist Company**（[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：**아티스트컴퍼니**）是韓國的[經紀公司](../Page/經紀公司.md "wikilink")，於2016年成立。
 
 ## 旗下藝人
 

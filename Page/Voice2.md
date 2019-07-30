@@ -1,7 +1,4 @@
-《**Voice
-2**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN於](../Page/OCN_\(頻道\).md "wikilink")2018年8月11日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original
-Series）\[1\]，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink")》李勝英導演執導與《[Voice](../Page/Voice_\(韓國電視劇\).md "wikilink")》馬珍媛作家合作打造。\[2\]
-本劇時間點為[第一季結束後一段時間](../Page/Voice_\(韓國電視劇\).md "wikilink")，由於「112舉報中心黃金時間隊」在第一季的活躍，警察廳認可表現因此擴編人手，同時也希望「112舉報中心黃金時間隊」能夠在新的都市（豐山市）中示範發揮阻卻犯罪的效果\[3\]\[4\]。因此本季講述112舉報中心黃金時間隊將追逐更兇殘的犯人，並順利解決案件的過程\[5\]。台灣播出時間，8月12日起每周日一早上10點，愛奇藝台灣站獨家播出。
+《**Voice 2**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN於](../Page/OCN_\(頻道\).md "wikilink")2018年8月11日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original Series）\[1\]，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink")》李勝英導演執導與《[Voice](../Page/Voice_\(韓國電視劇\).md "wikilink")》[馬珍媛](../Page/馬珍媛.md "wikilink")作家合作打造。\[2\] 本劇時間點為[第一季結束後一段時間](../Page/Voice_\(韓國電視劇\).md "wikilink")，由於「112舉報中心黃金時間隊」在第一季的活躍，警察廳認可表現因此擴編人手，同時也希望「112舉報中心黃金時間隊」能夠在新的都市（豐山市）中示範發揮阻卻犯罪的效果\[3\]\[4\]。因此本季講述112舉報中心黃金時間隊將追逐更兇殘的犯人，並順利解決案件的過程\[5\]。台灣播出時間，8月12日起每周日一早上10點，愛奇藝台灣站獨家播出。
 製作單位與OCN電視台於2018年9月10日確定製作[第三季](../Page/Voice3.md "wikilink")\[6\]，故本季將會縮短為12集\[7\]\[8\]。
 
 該劇首播收視率為3.938%，創下[OCN電視台的劇集首播第一高的收視成績](https://zh.wikipedia.org/wiki/OCN "wikilink")，更在第12集以7.086%的收視率刷新了[OCN歷代劇集最高收視紀錄](https://zh.wikipedia.org/wiki/OCN "wikilink")。
@@ -26,9 +23,9 @@ Series）\[1\]，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink"
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李荷娜.md" title="wikilink">李荷娜</a></p></td>
-<td><p>姜權酒</p></td>
+<td><p>姜勸酒</p></td>
 <td><p>112舉報中心主任，聽力很好。<br />
-第一季時，父親姜國煥在值勤時被銀型洞事件真兇殺害，而父親被殺害的當下，姜權酒因正好與父親通話，也在此事件中權酒聽到真兇的聲音，後與武鎮赫聯合調查藏在幕後的真兇。<br />
+第一季時，父親姜國煥在值勤時被銀型洞事件真兇殺害，而父親被殺害的當下，姜勸酒因正好與父親通話，也在此事件中勸酒聽到真兇的聲音，後與武鎮赫聯合調查藏在幕後的真兇。<br />
 本季則是在新的都市（豐山市）中帶領試辦的112舉報中心黃金時間組，希望也能在豐山市發揮阻卻犯罪的效果。於第二季第12集掉入真兇陷阱裡，生死不明。</p></td>
 <td><p><a href="../Page/姜嘉蕾.md" title="wikilink">姜嘉蕾</a></p></td>
 </tr>
@@ -36,7 +33,7 @@ Series）\[1\]，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink"
 <td><p><a href="../Page/李陣郁.md" title="wikilink">李陣郁</a></p></td>
 <td><p>都強優（康宇）<br />
 康祐（光介）</p></td>
-<td><p>原本是奉山警察廳的重案組刑警。幼年時住在<a href="../Page/日本.md" title="wikilink">日本</a><a href="https://zh.wikipedia.org/wiki/大阪" title="wikilink">大阪</a>，日本名為「康祐」，但父親有精神疾病，因此利用他引誘鄰居女兒美穗一起玩，過程中殺了美穗；同時父母當時沒有把他送去上學，而戶籍在母親婚後的繼父底下，且母親已身亡1年。三年前曾在船上被迫目擊真兇控制有精神病的犯人虐殺自己的同事羅炯俊，過程中因反抗也同時也被真兇劃傷太陽穴而留下疤痕，由於真兇巧妙的手法，讓都康宇被警察廳當成殺害警察的嫌疑人，但證據不足而停職中。後又因張慶學警察被殺案件而被調查，然而此時被姜權酒祕密將其吸收進112舉報中心黃金時間組。<br />
+<td><p>原本是奉山警察廳的重案組刑警。幼年時住在<a href="../Page/日本.md" title="wikilink">日本</a><a href="https://zh.wikipedia.org/wiki/大阪" title="wikilink">大阪</a>，日本名為「康祐」，但父親有精神疾病，因此利用他引誘鄰居女兒美穗一起玩，過程中殺了美穗；同時父母當時沒有把他送去上學，而戶籍在母親婚後的繼父底下，且母親已身亡1年。三年前曾在船上被迫目擊真兇控制有精神病的犯人虐殺自己的同事羅炯俊，過程中因反抗也同時也被真兇劃傷太陽穴而留下疤痕，由於真兇巧妙的手法，讓都康宇被警察廳當成殺害警察的嫌疑人，但證據不足而停職中。後又因張慶學警察被殺案件而被調查，然而此時被姜勸酒祕密將其吸收進112舉報中心黃金時間組。<br />
 112舉報中心黃金時間組的機動隊長，擅長<a href="../Page/犯罪心理學.md" title="wikilink">犯罪心理學</a>，能夠用犯人的思維剖析犯罪現場[9]。平時服用<a href="https://zh.wikipedia.org/wiki/卡馬西平" title="wikilink">卡馬西平</a>，且有Blackout（昏迷）症狀[10]。</p></td>
 <td><p><a href="../Page/杜景煜.md" title="wikilink">杜景煜</a></p></td>
 </tr>
@@ -70,7 +67,7 @@ Series）\[1\]，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink"
 <td><p>陳書律</p></td>
 <td><p>112舉報中心黃金時間組新成員。<br />
 負責資訊相關方面的成員。<br />
-某日被真兇入侵其住家中的電腦，同時引爆主機板書律受傷，進而警告112舉報中心黃金時間組不要繼續追查下去。後來由於查到<a href="https://zh.wikipedia.org/wiki/暗網" title="wikilink">暗網</a>（名為「醫生法布爾的昆蟲世界」），所以被真兇挾持著逼姜權酒主任三分鐘內抵達書律家，但在姜權酒到達前書律已被真兇剪去手指。</p></td>
+某日被真兇入侵其住家中的電腦，同時引爆主機板書律受傷，進而警告112舉報中心黃金時間組不要繼續追查下去。後來由於查到<a href="https://zh.wikipedia.org/wiki/暗網" title="wikilink">暗網</a>（名為「醫生法布爾的昆蟲世界」），所以被真兇挾持著逼姜權酒主任三分鐘內抵達書律家，但在姜勸酒到達前書律已被真兇剪去手指。</p></td>
 <td><p><a href="../Page/方榮基.md" title="wikilink">方榮基</a></p></td>
 </tr>
 <tr class="even">
@@ -161,7 +158,7 @@ Series）\[1\]，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink"
 |                                  |        |                    |          |
 | -------------------------------- | ------ | ------------------ | -------- |
 | **演員**                           | **角色** | **介紹**             | **粵語配音** |
-|                                  | 高廳長    | 首爾警察廳廳長，和姜權珠父親的同事。 |          |
+|                                  | 高廳長    | 首爾警察廳廳長，和姜勸酒父親的同事。 |          |
 | [趙英鎮](../Page/趙英鎮.md "wikilink") | 裴炳坤    | 成雲地方警察廳廳長。         |          |
 
 ### 案件相關人物
@@ -192,13 +189,13 @@ Series）\[1\]，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink"
 <td style="text-align: left;"><p>在地鐵中挾持人質的嫌犯。<br />
 精神分裂症患者，目前無業中，住在清閣洞半地下室建築中。<br />
 但因炸彈的連接線鬆動而引爆列車失敗。<br />
-第五集時自白說有看到有<a href="../Page/月桂.md" title="wikilink">月桂樹枝</a><a href="https://zh.wikipedia.org/wiki/警帽" title="wikilink">警帽</a>[11]，了解警察內部的作業方式與偵查程序等，並教他如何使用炸彈，懷疑是豐山廳刑中某位<a href="../Page/警長.md" title="wikilink">警長</a>。</p></td>
+第五集時自白說有看到有<a href="../Page/月桂.md" title="wikilink">月桂</a>樹枝<a href="https://zh.wikipedia.org/wiki/警帽" title="wikilink">警帽</a>[11]，了解警察內部的作業方式與偵查程序等，並教他如何使用炸彈，懷疑是豐山廳刑中某位<a href="../Page/警長.md" title="wikilink">警長</a>。</p></td>
 <td><p><a href="../Page/鄧永健.md" title="wikilink">鄧永健</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>張慶學</p></td>
-<td><p>原本是已退休的成雲地方警察廳重案組處長，但因武鎮赫留職停薪而回來接替112舉報中心黃金時間組組長位置，事發前一天與姜權酒閒聊，提及女兒準備返國，也對112舉報中心黃金時間組新勤務十分關心。<br />
+<td><p>原本是已退休的成雲地方警察廳重案組處長，但因武鎮赫留職停薪而回來接替112舉報中心黃金時間組組長位置，事發前一天與姜勸酒閒聊，提及女兒準備返國，也對112舉報中心黃金時間組新勤務十分關心。<br />
 在地鐵人質挾持事件挾持案發生同時，正被嫌犯挾持且被割下耳朵，後來又被嫌犯遙控汽車撞擊路人，最後被嫌犯將車子推下山坡而死亡。</p></td>
 <td><p><a href="../Page/袁德基.md" title="wikilink">袁德基</a></p></td>
 <td></td>
@@ -276,7 +273,7 @@ Series）\[1\]，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink"
 <tr class="odd">
 <td></td>
 <td><p>黃熙珠</p></td>
-<td><p>當年兒童性暴力受害者。目前為中學生，但由於當年留下的傷痛，造成她長年飽受<a href="../Page/創傷後壓力症候群.md" title="wikilink">創傷後壓力症候群困擾</a>。因此想設局讓廉基泰再度入獄。</p></td>
+<td><p>當年兒童性暴力受害者。目前為中學生，但由於當年留下的傷痛，造成她長年飽受<a href="../Page/創傷後壓力症候群.md" title="wikilink">創傷後壓力症候群</a>困擾。因此想設局讓廉基泰再度入獄。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -345,7 +342,7 @@ Series）\[1\]，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink"
 <tr class="even">
 <td><p>張熙貞</p></td>
 <td><p>王玉麗</p></td>
-<td><p>39歲<a href="../Page/中國.md" title="wikilink">中國人</a>，過去有人口販賣、詐騙、強盜、殺人等多項重案前科，為<a href="https://zh.wikipedia.org/wiki/國際刑警組織" title="wikilink">國際刑警組織</a><a href="https://zh.wikipedia.org/wiki/紅色通緝令" title="wikilink">紅色通緝對象</a>，且常用小刀突襲警方。本次為詐騙集團的大哥，前往福利院取錢時被警察逮捕。有作話(confabulation)症狀和<a href="https://zh.wikipedia.org/wiki/戲劇化人格違常" title="wikilink">表演型人格障礙</a>。透過志願者服務接近老人，並設計後續詐取金錢。</p></td>
+<td><p>39歲<a href="../Page/中國.md" title="wikilink">中國</a>人，過去有人口販賣、詐騙、強盜、殺人等多項重案前科，為<a href="https://zh.wikipedia.org/wiki/國際刑警組織" title="wikilink">國際刑警組織</a><a href="https://zh.wikipedia.org/wiki/紅色通緝令" title="wikilink">紅色通緝對象</a>，且常用小刀突襲警方。本次為詐騙集團的大哥，前往福利院取錢時被警察逮捕。有作話(confabulation)症狀和<a href="https://zh.wikipedia.org/wiki/戲劇化人格違常" title="wikilink">表演型人格障礙</a>。透過志願者服務接近老人，並設計後續詐取金錢。</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -476,13 +473,13 @@ Series）\[1\]，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink"
 <tr class="even">
 <td><p>　　　　　</p></td>
 <td><p>鄭韓秀</p></td>
-<td><p>發現羅洪洙科長屍體並報案的漁民。</p></td>
+<td><p>發現羅洪洙科長弟弟羅亨俊屍體並報案的漁民。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>　　　　　</p></td>
 <td><p>美穗</p></td>
-<td><p>都康宇小時候在<a href="../Page/日本.md" title="wikilink">日本</a><a href="https://zh.wikipedia.org/wiki/大阪" title="wikilink">大阪生活時</a>，住同小區的<a href="../Page/律師.md" title="wikilink">律師之女兒</a>，常常來和都康宇玩。某日和康宇玩捉迷藏，卻被康宇的爸爸所殺害並割下耳朵。</p></td>
+<td><p>都康宇小時候在<a href="../Page/日本.md" title="wikilink">日本</a><a href="https://zh.wikipedia.org/wiki/大阪" title="wikilink">大阪生活時</a>，住同小區的<a href="../Page/律師.md" title="wikilink">律師</a>之女兒，常常來和都康宇玩。某日和康宇玩捉迷藏，卻被康宇的爸爸所殺害並割下耳朵。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -563,7 +560,7 @@ Series）\[1\]，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink"
 <tr class="odd">
 <td></td>
 <td><p>陳美妍</p></td>
-<td><p>方濟水的媽媽，住在豐山市世明洞一帶。某日不幸被眾男人<a href="../Page/輪姦.md" title="wikilink">輪姦後懷孕</a>，後來生下方濟水。2003年時（當時36歲），把<a href="https://zh.wikipedia.org/wiki/讚美詩" title="wikilink">讚美詩放得很大聲</a>，同時用熱水對兒子家暴[16]，被當時正在巡邏的<a href="https://zh.wikipedia.org/wiki/義警" title="wikilink">義警羅炯俊發現而向豐山廳警局報案</a>，最終被捕。當警方詢問兒子狀況時，兒子的說詞卻是支持母親且對警方頗有敵意。但後來因生病而住院，又被兒子接回家住。</p></td>
+<td><p>方濟水的媽媽，住在豐山市世明洞一帶。某日不幸被眾男人<a href="../Page/輪姦.md" title="wikilink">輪姦</a>後懷孕，後來生下方濟水。2003年時（當時36歲），把<a href="https://zh.wikipedia.org/wiki/讚美詩" title="wikilink">讚美詩放得很大聲</a>，同時用熱水對兒子家暴[16]，被當時正在巡邏的<a href="https://zh.wikipedia.org/wiki/義警" title="wikilink">義警羅炯俊發現而向豐山廳警局報案</a>，最終被捕。當警方詢問兒子狀況時，兒子的說詞卻是支持母親且對警方頗有敵意。但後來因生病而住院，又被兒子接回家住。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -632,7 +629,7 @@ Series）\[1\]，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink"
 <tr class="even">
 <td><p><a href="../Page/張赫_(韓國).md" title="wikilink">張赫</a></p></td>
 <td><p>武鎮赫</p></td>
-<td><p>112舉報中心黃金時間組組長，為了兒子治療而留職停薪，並陪伴兒子東宇一同前往美國治療。第四集時以e-mail告知姜權酒，若兒子病情好轉就回國幫忙黃金時間組。</p></td>
+<td><p>112舉報中心黃金時間組組長，為了兒子治療而留職停薪，並陪伴兒子東宇一同前往美國治療。第四集時以e-mail告知姜勸酒，若兒子病情好轉就回國幫忙黃金時間組。</p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
@@ -677,7 +674,7 @@ Series）\[1\]，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink"
 <tr class="even">
 <td><p><a href="../Page/在喜.md" title="wikilink">在喜</a></p></td>
 <td><p>孫浩民</p></td>
-<td><p>新光精神醫院院長，專責幫助警察廳警察的防止<a href="../Page/創傷後壓力症候群.md" title="wikilink">創傷後壓力症候群及精神健康諮詢</a>，也擔任電視健康節目《健康建議》的錄影嘉賓。<br />
+<td><p>新光精神醫院院長，專責幫助警察廳警察的防止<a href="../Page/創傷後壓力症候群.md" title="wikilink">創傷後壓力症候群</a>及精神健康諮詢，也擔任電視健康節目《健康建議》的錄影嘉賓。<br />
 恩秀前男友，但一直糾纏朴恩秀，並放出恩秀出軌而離開自己的假消息，實際上是恐怖情人、約會暴力的慣犯，且有喜歡穿著制服的女性之癖好。每次在毆打女性後，都會贈送花束。</p></td>
 <td><p>8、9</p></td>
 <td></td>
@@ -808,14 +805,11 @@ Series）\[1\]，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink"
 
 ## 同時段競爭節目
 
-  - [JTBC](../Page/JTBC.md "wikilink")
-    《[我的ID是江南美人](../Page/我的ID是江南美人.md "wikilink")》
+  - [JTBC](../Page/JTBC.md "wikilink") 《[我的ID是江南美人](../Page/我的ID是江南美人.md "wikilink")》
 
-## 註釋與參考資料
+## 註釋
 
-### 註釋
-
-### 參考資料
+## 參考資料
 
 ## 外部連結
 
@@ -823,16 +817,7 @@ Series）\[1\]，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink"
   - [Voice2－Naver TV](https://tv.naver.com/cjenm.Voice2)
   - [香港有線電視官方網站](http://epg.i-cable.com/ci/program/intro/591/奪命殺聲2)
 
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink")
-[Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink")
-[Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink")
-[Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink")
-[Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink")
-[Category:驚悚電視劇](https://zh.wikipedia.org/wiki/Category:驚悚電視劇 "wikilink")
-[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
+[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink") [Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink") [Category:驚悚電視劇](https://zh.wikipedia.org/wiki/Category:驚悚電視劇 "wikilink") [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
 
 1.
 2.
@@ -844,7 +829,7 @@ Series）\[1\]，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink"
 8.
 9.  後來被發現其實並是為了不和自己父親一樣，而蒐集世界各地犯案後割下身體部份的犯罪資料。
 10. 突然不記得自己先前做的事情。
-11. 即[警長等級](../Page/警長.md "wikilink")
+11. 即[警長](../Page/警長.md "wikilink")等級
 12. 負責監視車手取款，若有意外則殺掉車手等相關人等，避免詐騙集團情報外洩。
 13. 其他偶像男團NT7成員則由2018年出道之男團「[D-CRUNCH](../Page/D-CRUNCH.md "wikilink")」客串演出。
 14. 希望大家關注自己，否則有被淘汰的感覺；且對於做壞事沒有罪惡感，只要能引起大眾目光就會去做。

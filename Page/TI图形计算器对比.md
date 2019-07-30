@@ -1,4 +1,4 @@
-[图形计算器是一种手持](../Page/图形计算器.md "wikilink")[计算器](../Page/计算器.md "wikilink")，能够绘制图表和解决复杂问题的仪器。有许多公司生产[图形计算器](../Page/图形计算器.md "wikilink")，[德州仪器就是其中一家主要制造商](../Page/德州仪器.md "wikilink")。
+[图形计算器](../Page/图形计算器.md "wikilink")是一种手持[计算器](../Page/计算器.md "wikilink")，能够绘制图表和解决复杂问题的仪器。有许多公司生产[图形计算器](../Page/图形计算器.md "wikilink")，[德州仪器](../Page/德州仪器.md "wikilink")就是其中一家主要制造商。
 
 下表列出比较常规和技术信息精选的常见和不常见的德州仪器图形计算器。
 
@@ -472,9 +472,7 @@
 
 <references />
 
-[Category:德州仪器计算器](https://zh.wikipedia.org/wiki/Category:德州仪器计算器 "wikilink")
-[Category:图形计算器](https://zh.wikipedia.org/wiki/Category:图形计算器 "wikilink")
-[Category:德州仪器](https://zh.wikipedia.org/wiki/Category:德州仪器 "wikilink")
+[Category:德州仪器计算器](https://zh.wikipedia.org/wiki/Category:德州仪器计算器 "wikilink") [Category:图形计算器](https://zh.wikipedia.org/wiki/Category:图形计算器 "wikilink") [Category:德州仪器](https://zh.wikipedia.org/wiki/Category:德州仪器 "wikilink")
 
 1.  <http://www.datamath.org/>
 2.

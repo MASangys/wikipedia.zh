@@ -1,24 +1,8 @@
-[MVG_015_Schloss_Broich.jpg](https://zh.wikipedia.org/wiki/File:MVG_015_Schloss_Broich.jpg "fig:MVG_015_Schloss_Broich.jpg")[魯爾河畔米爾海姆行駛的A](https://zh.wikipedia.org/wiki/魯爾河畔米爾海姆 "wikilink")23單層掛接巴士\]\]
-[Sporveisbussene_18jun2005.jpg](https://zh.wikipedia.org/wiki/File:Sporveisbussene_18jun2005.jpg "fig:Sporveisbussene_18jun2005.jpg")的A21單層巴士\]\]
-[MAN_Lion's_City_-_MZK_Toruń_nr_539.jpg](https://zh.wikipedia.org/wiki/File:MAN_Lion's_City_-_MZK_Toruń_nr_539.jpg "fig:MAN_Lion's_City_-_MZK_Toruń_nr_539.jpg")的Lion’s
-City單層巴士\]\]
-[K-VB_5000_Deckstein.JPG](https://zh.wikipedia.org/wiki/File:K-VB_5000_Deckstein.JPG "fig:K-VB_5000_Deckstein.JPG")
-[MAN_Lion's_City_in_Sion_VS.jpg](https://zh.wikipedia.org/wiki/File:MAN_Lion's_City_in_Sion_VS.jpg "fig:MAN_Lion's_City_in_Sion_VS.jpg")
-[MAN_Lion´s_City_Heck.jpg](https://zh.wikipedia.org/wiki/File:MAN_Lion´s_City_Heck.jpg "fig:MAN_Lion´s_City_Heck.jpg")
-[MVG_5284_Munchen_Ostbahnhof_18-07-2007.jpg](https://zh.wikipedia.org/wiki/File:MVG_5284_Munchen_Ostbahnhof_18-07-2007.jpg "fig:MVG_5284_Munchen_Ostbahnhof_18-07-2007.jpg")行駛的Lion's
-City G\]\]
-[NEOMAN_A39_2007-03-15.jpg](https://zh.wikipedia.org/wiki/File:NEOMAN_A39_2007-03-15.jpg "fig:NEOMAN_A39_2007-03-15.jpg")服務的Lion's
-City DD，採用A39底盤。\]\]
-[KMB_TP1095_AMNE1_TinShui.jpg](https://zh.wikipedia.org/wiki/File:KMB_TP1095_AMNE1_TinShui.jpg "fig:KMB_TP1095_AMNE1_TinShui.jpg")[九巴與](../Page/九龍巴士.md "wikilink")[新巴](../Page/新世界第一巴士.md "wikilink")[猛獅A95之Lion](../Page/猛獅A95.md "wikilink")'s
-City
-DD車身由馬來西亞[順豐客車生產](https://zh.wikipedia.org/wiki/彭順國際 "wikilink")\]\]
-**MAN Lion's
-City**，是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[猛獅車廠設計製造的](https://zh.wikipedia.org/wiki/猛獅車廠 "wikilink")[巴士車系](https://zh.wikipedia.org/wiki/巴士 "wikilink")。
+[MVG_015_Schloss_Broich.jpg](https://zh.wikipedia.org/wiki/File:MVG_015_Schloss_Broich.jpg "fig:MVG_015_Schloss_Broich.jpg")[魯爾河畔米爾海姆行駛的A](https://zh.wikipedia.org/wiki/魯爾河畔米爾海姆 "wikilink")23單層掛接巴士\]\] [Sporveisbussene_18jun2005.jpg](https://zh.wikipedia.org/wiki/File:Sporveisbussene_18jun2005.jpg "fig:Sporveisbussene_18jun2005.jpg")的A21單層巴士\]\] [MAN_Lion's_City_-_MZK_Toruń_nr_539.jpg](https://zh.wikipedia.org/wiki/File:MAN_Lion's_City_-_MZK_Toruń_nr_539.jpg "fig:MAN_Lion's_City_-_MZK_Toruń_nr_539.jpg")的Lion’s City單層巴士\]\] [K-VB_5000_Deckstein.JPG](https://zh.wikipedia.org/wiki/File:K-VB_5000_Deckstein.JPG "fig:K-VB_5000_Deckstein.JPG") [MAN_Lion's_City_in_Sion_VS.jpg](https://zh.wikipedia.org/wiki/File:MAN_Lion's_City_in_Sion_VS.jpg "fig:MAN_Lion's_City_in_Sion_VS.jpg") [MAN_Lion´s_City_Heck.jpg](https://zh.wikipedia.org/wiki/File:MAN_Lion´s_City_Heck.jpg "fig:MAN_Lion´s_City_Heck.jpg") [MVG_5284_Munchen_Ostbahnhof_18-07-2007.jpg](https://zh.wikipedia.org/wiki/File:MVG_5284_Munchen_Ostbahnhof_18-07-2007.jpg "fig:MVG_5284_Munchen_Ostbahnhof_18-07-2007.jpg")行駛的Lion's City G\]\] [NEOMAN_A39_2007-03-15.jpg](https://zh.wikipedia.org/wiki/File:NEOMAN_A39_2007-03-15.jpg "fig:NEOMAN_A39_2007-03-15.jpg")服務的Lion's City DD，採用A39底盤。\]\] [KMB_TP1095_AMNE1_TinShui.jpg](https://zh.wikipedia.org/wiki/File:KMB_TP1095_AMNE1_TinShui.jpg "fig:KMB_TP1095_AMNE1_TinShui.jpg")[九巴與](../Page/九龍巴士.md "wikilink")[新巴](../Page/新世界第一巴士.md "wikilink")[猛獅A95](../Page/猛獅A95.md "wikilink")之Lion's City DD車身由馬來西亞[順豐客車生產](https://zh.wikipedia.org/wiki/彭順國際 "wikilink")\]\] **MAN Lion's City**，是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[猛獅車廠設計製造的](https://zh.wikipedia.org/wiki/猛獅車廠 "wikilink")[巴士車系](https://zh.wikipedia.org/wiki/巴士 "wikilink")。
 
 ## 概要
 
-Lion's
-City系列巴士有不同類型，包括單層巴士、雙層巴士、掛接巴士及城際巴士。動力組合除了傳統的柴油引擎外，還有天然氣巴士\[1\]，以及柴電混合動力巴士\[2\]\[3\]\[4\]。
+Lion's City系列巴士有不同類型，包括單層巴士、雙層巴士、掛接巴士及城際巴士。動力組合除了傳統的柴油引擎外，還有天然氣巴士\[1\]，以及柴電混合動力巴士\[2\]\[3\]\[4\]。
 
 ## 款式
 
@@ -196,18 +180,12 @@ Lion's City GXL掛接巴士：
 
 ## 外部連結
 
-  - [MAN Lion’s
-    City](http://www.bus.man.eu/man/media/en/content_medien/doc/business_website_bus_master_1/Lions_City.pdf)
+  - [MAN Lion’s City](http://www.bus.man.eu/man/media/en/content_medien/doc/business_website_bus_master_1/Lions_City.pdf)
 
-[Category:巴士型號](https://zh.wikipedia.org/wiki/Category:巴士型號 "wikilink")
-[Category:猛獅巴士](https://zh.wikipedia.org/wiki/Category:猛獅巴士 "wikilink")
+[Category:巴士型號](https://zh.wikipedia.org/wiki/Category:巴士型號 "wikilink") [Category:猛獅巴士](https://zh.wikipedia.org/wiki/Category:猛獅巴士 "wikilink")
 
-1.  [集中展示全新技术
-    MAN亮相汉诺威车展](http://www.cvworld.cn/news/sycnews/show/140925/80192_1.html)，第一商用车网，2014-9-25
+1.  [集中展示全新技术 MAN亮相汉诺威车展](http://www.cvworld.cn/news/sycnews/show/140925/80192_1.html)，第一商用车网，2014-9-25
 2.  [慕尼黑启用曼(MAN)混合动力城市公交车](http://auto.sina.com.cn/news/2010-06-03/1104609541.shtml)，新浪汽車，2010年06月03日
-3.  [曼Lion’s
-    City混合动力公交车：替代能源与智能控制技术的结合](http://www.magcv.com/html/Model/Newcar/990.html)，商用汽车杂志，2011-7-12
-4.  [慕尼黑启用曼(MAN)混合动力城市公交车](http://www.cupta.net.cn/Law/Details.aspx?ID=16195)
-    ，中国城市公交网，2010年6月3日
-5.  [2014IAA：曼Lion's City
-    GL荣获“2015年度巴士”](http://cv.ce.cn/kcpd/hydt/201409/24/t20140924_3592298.shtml)，中国商用汽车网，2014年09月24日
+3.  [曼Lion’s City混合动力公交车：替代能源与智能控制技术的结合](http://www.magcv.com/html/Model/Newcar/990.html)，商用汽车杂志，2011-7-12
+4.  [慕尼黑启用曼(MAN)混合动力城市公交车](http://www.cupta.net.cn/Law/Details.aspx?ID=16195) ，中国城市公交网，2010年6月3日
+5.  [2014IAA：曼Lion's City GL荣获“2015年度巴士”](http://cv.ce.cn/kcpd/hydt/201409/24/t20140924_3592298.shtml)，中国商用汽车网，2014年09月24日

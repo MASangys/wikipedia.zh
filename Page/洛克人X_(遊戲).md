@@ -1,6 +1,6 @@
-是1993年12月17日[卡普空發行於](../Page/卡普空.md "wikilink")[超級任天堂上的](../Page/超級任天堂.md "wikilink")[電視遊戲](https://zh.wikipedia.org/wiki/電視遊戲 "wikilink")，[洛克人系列的第一個分支](../Page/洛克人系列.md "wikilink")，也是[洛克人X系列主軸故事的最初作品](../Page/洛克人X系列.md "wikilink")。
+是1993年12月17日[卡普空](../Page/卡普空.md "wikilink")發行於[超級任天堂](../Page/超級任天堂.md "wikilink")上的[電視遊戲](https://zh.wikipedia.org/wiki/電視遊戲 "wikilink")，[洛克人系列](../Page/洛克人系列.md "wikilink")的第一個分支，也是[洛克人X系列](../Page/洛克人X系列.md "wikilink")主軸故事的最初作品。
 
-除最初的[超級任天堂版本外亦有移植](../Page/超級任天堂.md "wikilink")、1996年5月24日推出[Windows版](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、2012年1月12日推出[iphone版本](https://zh.wikipedia.org/wiki/iphone "wikilink")，而在2013年5月22日推出了[WiiU的完全移植版](https://zh.wikipedia.org/wiki/WiiU "wikilink")。
+除最初的[超級任天堂](../Page/超級任天堂.md "wikilink")版本外亦有移植、1996年5月24日推出[Windows版](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、2012年1月12日推出[iphone版本](https://zh.wikipedia.org/wiki/iphone "wikilink")，而在2013年5月22日推出了[WiiU的完全移植版](https://zh.wikipedia.org/wiki/WiiU "wikilink")。
 
 ## 概要
 
@@ -8,10 +8,9 @@
 
 本作包含日本國內外的總銷售量為116萬，為「[洛克人X系列](../Page/洛克人X系列.md "wikilink")」中銷售量最高的。
 
-最初的版本因為在初始關卡中發現了嚴重的遊戲錯誤，使得[卡普空大量回收了遊戲卡帶](../Page/卡普空.md "wikilink")。
+最初的版本因為在初始關卡中發現了嚴重的遊戲錯誤，使得[卡普空](../Page/卡普空.md "wikilink")大量回收了遊戲卡帶。
 
-後續在[PlayStation
-Portable發行的](../Page/PlayStation_Portable.md "wikilink")《[反亂獵人X](../Page/反亂獵人X.md "wikilink")》為本遊戲的重製版。
+後續在[PlayStation Portable發行的](../Page/PlayStation_Portable.md "wikilink")《[反亂獵人X](../Page/反亂獵人X.md "wikilink")》為本遊戲的重製版。
 
 ## 故事大綱
 
@@ -41,7 +40,7 @@ Portable發行的](../Page/PlayStation_Portable.md "wikilink")《[反亂獵人X]
 
   - [傑洛](../Page/傑洛.md "wikilink")( /)
     艾克斯的前輩兼知心好友，也是少數了解艾克斯的人，擁有與特A級機器人並駕齊驅的能力。
-    反抗軍領袖之一，西格瑪叛亂後接任非正規機械人獵人第17部隊的隊長。
+    反抗軍領袖之一，西格瑪叛亂後，與霸法的戰鬥中為了救艾克斯自爆身亡。X2復活後接任非正規機械人獵人第0部隊的隊長。
 
 <!-- end list -->
 
@@ -63,12 +62,12 @@ Portable發行的](../Page/PlayStation_Portable.md "wikilink")《[反亂獵人X]
     原非正規獵人第6艦隊的隊員，[章魚型機器人](https://zh.wikipedia.org/wiki/章魚 "wikilink")。
     本身火力強大，戰略知識也相當豐富，戰鬥時非常講究美學，所以打倒對手時常常使用華麗的手法。
     因為長久以來對保護人類的想法感到不解，又剛好碰上西格瑪的叛亂，所以欣然加入了西格瑪的麾下，以海軍部隊的火力鎮壓了海上都市。
-    為[洛克人X5中閃電烏賊的前輩兼好友](../Page/洛克人X5.md "wikilink")。
+    為[洛克人X5](../Page/洛克人X5.md "wikilink")中閃電烏賊的前輩兼好友。
 
 <!-- end list -->
 
   - 「雪原的皇帝」冰凍企鵝((Icy Penguigo) /)
-    原非正規獵人第13極地部隊的隊員，[企鵝型機器人](../Page/企鵝.md "wikilink")，也是少數特A級的非正規獵人。
+    原非正規獵人第13極地部隊的隊員，[企鵝](../Page/企鵝.md "wikilink")型機器人，也是少數特A級的非正規獵人。
     雖然是寒地用機器人，但相當喜歡都市的生活，對於極地一成不變的生活感到無聊，時常利用西格瑪請求其他部隊派員支援的機會來回到都市。
     在得知西格瑪叛亂之後認為是個可以永遠遠離極地的機會，於是打倒了自己的長官而加入了西格瑪的叛亂。
 
@@ -83,7 +82,7 @@ Portable發行的](../Page/PlayStation_Portable.md "wikilink")《[反亂獵人X]
 <!-- end list -->
 
   - 「時空的斬鐵鬼」機器忍者 ( /)
-    原非正規獵人第17精銳部隊的隊員，[鍬形蟲型機器人](../Page/鍬形蟲.md "wikilink")。
+    原非正規獵人第17精銳部隊的隊員，[鍬形蟲](../Page/鍬形蟲.md "wikilink")型機器人。
     戰鬥方式為快速移動來混淆對手，相當擅長資料處理與分析，為講求理性的理論派戰鬥家，並不太在意是非善惡是什麼。
     雖然自稱「覺得站在這一邊比較有趣」而加入西格瑪的麾下來叛亂，但實際上是在冷靜分析後得到「不這麼做的話是死路一條」的結論，而作出這決定，攻佔了都市高塔作為戰鬥的基地。
     [X3登場的鐮刀甲蟲為他的弟弟](../Page/洛克人X3.md "wikilink")。
@@ -91,15 +90,15 @@ Portable發行的](../Page/PlayStation_Portable.md "wikilink")《[反亂獵人X]
 <!-- end list -->
 
   - 「幽林的妖撃手」變色龍 ((Sting Chameleao) /)
-    原非正規獵人第9突擊部隊的隊員，[變色龍型機器人](../Page/變色龍.md "wikilink")。
+    原非正規獵人第9突擊部隊的隊員，[變色龍](../Page/變色龍.md "wikilink")型機器人。
     擅長使用高速的舌頭攻擊及擬態能力來戰鬥，是部隊中實力最強的成員之一，但是個做事相當不擇手段的野心家，個性又多疑狡猾且人望極差，一直以來都妄想著升遷隊長職位。
     自打聽到自己在下一次的升遷也只會升級到副隊長之後，感覺到自己在隊上發展無望，因此加入了西格瑪的麾下來反叛。
-    在[洛克人X6的八大頭目之一](../Page/洛克人X6.md "wikilink")「金屬鯊」的其中一個招式中，會出現用資料重現的金屬變色龍來攻擊對手。
+    在[洛克人X6](../Page/洛克人X6.md "wikilink")的八大頭目之一「金屬鯊」的其中一個招式中，會出現用資料重現的金屬變色龍來攻擊對手。
 
 <!-- end list -->
 
   - 「豪速拳的雷王」電氣金剛((Spark Mandriller) /)
-    原非正規獵人第17精銳部隊的隊員，[山魈型機器人](../Page/山魈.md "wikilink")，也是少數特A級的非正規獵人。。
+    原非正規獵人第17精銳部隊的隊員，[山魈](../Page/山魈.md "wikilink")型機器人，也是少數特A級的非正規獵人。。
     擅長使用強力的電擊和龐大的身體產生戰鬥力來攻擊對手，但頭腦並不怎麼聰明，加入西格瑪叛亂的理由就只是因為西格瑪是他的上司。
     在西格瑪的命令下進行攻佔發電所，因為個性懶惰的緣故，在攻佔發電所後便留在最深處吸收自己最愛的電力，而將其他的後續工作都交給了部下去忙。
 
@@ -109,7 +108,7 @@ Portable發行的](../Page/PlayStation_Portable.md "wikilink")《[反亂獵人X]
     原非正規獵人第7空艇部隊的隊長，[老鷹型機器人](https://zh.wikipedia.org/wiki/老鷹 "wikilink")。
     擅長在空中進行高速纏鬥，個性十分冷靜沉著，部下對他的評價非常的高，因為曾在第17精銳部隊受訓過，所以也是艾克斯和傑洛的舊識兼老朋友。
     在西格瑪叛亂初期作為反抗軍領導者反抗西格瑪，但因不敵西格瑪的壓倒性力量，只好加入西格瑪麾下一同叛亂，佔領了空中機場。
-    在[洛克人X6使用特殊武器](../Page/洛克人X6.md "wikilink")「金屬錨」的聚氣版時，會出現大量用資料重現的金屬暴風鐵鷹來攻擊對手。
+    在[洛克人X6](../Page/洛克人X6.md "wikilink")使用特殊武器「金屬錨」的聚氣版時，會出現大量用資料重現的金屬暴風鐵鷹來攻擊對手。
 
 <!-- end list -->
 
@@ -121,14 +120,14 @@ Portable發行的](../Page/PlayStation_Portable.md "wikilink")《[反亂獵人X]
 ### 其他頭目角色
 
   - 波蜘蛛( /)
-    西格瑪城第一關的守門頭目，以雜魚機器人**粉碎者**為大型化藍本所開發的[蜘蛛型大型機器人](../Page/蜘蛛.md "wikilink")。
-    會在隨機產生的縱橫軌道上以[鬼腳圖的方式移動](../Page/鬼腳圖.md "wikilink")，讓入侵者難以預測其攻擊路線進而被壓扁，還能夠從體內製造小型蜘蛛來增加擾亂敵人的效果。
+    西格瑪城第一關的守門頭目，以雜魚機器人**粉碎者**為大型化藍本所開發的[蜘蛛](../Page/蜘蛛.md "wikilink")型大型機器人。
+    會在隨機產生的縱橫軌道上以[鬼腳圖](../Page/鬼腳圖.md "wikilink")的方式移動，讓入侵者難以預測其攻擊路線進而被壓扁，還能夠從體內製造小型蜘蛛來增加擾亂敵人的效果。
     原先裝甲是設計成無法破壞的，一旦讓入侵者誤入巢穴後就難以脫身，但因為設計上的失誤，在衝撞到地面時裝甲會鬆脫而短暫地露出脆弱的核心，也成為牠唯一的弱點。
 
 <!-- end list -->
 
   - 混亂壁畫( /)
-    西格瑪城第二關的守門頭目，[壁畫型機器人](../Page/壁畫.md "wikilink")。
+    西格瑪城第二關的守門頭目，[壁畫](../Page/壁畫.md "wikilink")型機器人。
     其設計是西格瑪過去執行任務在東南亞發現的遺跡壁畫，從壁畫上畫的[巫婆中得到的靈感](https://zh.wikipedia.org/wiki/巫婆 "wikilink")。
     後續的[X5中亦有出現改良型的混亂壁畫W](../Page/洛克人X5.md "wikilink")。
 
@@ -156,11 +155,11 @@ Portable發行的](../Page/PlayStation_Portable.md "wikilink")《[反亂獵人X]
 
   - 鮟鱇魚( /)
 
-於魚雷烏賊關卡出現的中級頭目。[鮟鱇科型機器魚](../Page/鮟鱇科.md "wikilink")。原本是用於專門清潔海底垃圾汙垢的機器魚，頭部的燈籠部分是一個移動型的感知器，機體上有四個導彈發射口，能用口中的強勁的氣流吹走、吸入玩家造成傷害。
+於魚雷烏賊關卡出現的中級頭目。[鮟鱇科](../Page/鮟鱇科.md "wikilink")型機器魚。原本是用於專門清潔海底垃圾汙垢的機器魚，頭部的燈籠部分是一個移動型的感知器，機體上有四個導彈發射口，能用口中的強勁的氣流吹走、吸入玩家造成傷害。
 
   - 巨型海鰻( /)
 
-於魚雷烏賊關卡出現的中級頭目。[鯙科型機器魚](../Page/鯙科.md "wikilink")。原本是用於海底探查的機器魚，能夠透過柔軟的身體，潛入狹窄的凹槽或潛入沙中。通常於海底沙中竄出，在水中游泳，然後再潛入海底沙中，不過有些類型不會潛入沙地。
+於魚雷烏賊關卡出現的中級頭目。[鯙科](../Page/鯙科.md "wikilink")型機器魚。原本是用於海底探查的機器魚，能夠透過柔軟的身體，潛入狹窄的凹槽或潛入沙中。通常於海底沙中竄出，在水中游泳，然後再潛入海底沙中，不過有些類型不會潛入沙地。
 
   - RT-55J
 
@@ -181,11 +180,4 @@ Portable發行的](../Page/PlayStation_Portable.md "wikilink")《[反亂獵人X]
   - [Yahoo\!手機](http://www.capcom.co.jp/keitai/softbank/rockman_x.html)
   - [iPhone版官網](https://web.archive.org/web/20150923223953/http://www.capcom.co.jp/iphone/rockmanx_jp/index.html)
 
-[Category:1993年电子游戏](https://zh.wikipedia.org/wiki/Category:1993年电子游戏 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink")
-[Category:任天堂3DS_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS_Virtual_Console游戏 "wikilink")
-[Category:洛克人X系列](https://zh.wikipedia.org/wiki/Category:洛克人X系列 "wikilink")
+[Category:1993年电子游戏](https://zh.wikipedia.org/wiki/Category:1993年电子游戏 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink") [Category:任天堂3DS_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS_Virtual_Console游戏 "wikilink") [Category:洛克人X系列](https://zh.wikipedia.org/wiki/Category:洛克人X系列 "wikilink")

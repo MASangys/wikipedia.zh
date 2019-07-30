@@ -1,5 +1,4 @@
-《**Come On
-Baby**》，原名《**煮俾BB食**》，為一個[ViuTV播放的飲食清談節目](../Page/ViuTV.md "wikilink")，2016年7月17日開始在[ViuTV首播](../Page/ViuTV.md "wikilink")，播放時間為逢星期日晚上21:30-22:30。主持人為[陳子豐](../Page/陳子豐.md "wikilink")（Colin）、（Dennis）、（Ray）。
+《**Come On Baby**》，原名《**煮俾BB食**》，為一個[ViuTV](../Page/ViuTV.md "wikilink")播放的飲食清談節目，2016年7月17日開始在[ViuTV](../Page/ViuTV.md "wikilink")首播，播放時間為逢星期日晚上21:30-22:30。主持人為[陳子豐](../Page/陳子豐.md "wikilink")（Colin）、（Dennis）、（Ray）。
 
 節目主持化身餐廳老闆，每集會邀請「女神」級的明星，將她們真實一面呈現給觀眾。\[1\]\[2\]\[3\]\[4\]\[5\]
 
@@ -56,15 +55,10 @@ Baby**》，原名《**煮俾BB食**》，為一個[ViuTV播放的飲食清談�
 
   - [ViuTV：Come On Baby](http://viu.tv/encore/come-on-baby)
 
-[Category:香港綜藝節目](https://zh.wikipedia.org/wiki/Category:香港綜藝節目 "wikilink")
-[Category:香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目 "wikilink")
-[Category:2016年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2016年香港電視娛樂節目 "wikilink")
+[Category:香港綜藝節目](https://zh.wikipedia.org/wiki/Category:香港綜藝節目 "wikilink") [Category:香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目 "wikilink") [Category:2016年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2016年香港電視娛樂節目 "wikilink")
 
-1.  [ViuTV
-    Highlights（煮俾BB食）](https://viutv-cms.s3.amazonaws.com/bc9d94137999261ef553537854f8dd05.pdf)
-2.  [《煮畀BB食》 陳子豐、虞逸峰、鍾健威
-    誓要「為女神BB服務」](https://viu.tv/news/jue-bei-BBsik--chan-ji-fung-yan-yat-fung-jung-gin-wai--sai-yiu-wai-nui-san-BBfuk-mo)
-3.  [【兵仔最愛】360解構Super
-    Girls私密](http://viu.tv/readtv/bing-jai-jui-oi-360gaai-kau-Super-Girlssi-mat)
+1.  [ViuTV Highlights（煮俾BB食）](https://viutv-cms.s3.amazonaws.com/bc9d94137999261ef553537854f8dd05.pdf)
+2.  [《煮畀BB食》 陳子豐、虞逸峰、鍾健威 誓要「為女神BB服務」](https://viu.tv/news/jue-bei-BBsik--chan-ji-fung-yan-yat-fung-jung-gin-wai--sai-yiu-wai-nui-san-BBfuk-mo)
+3.  [【兵仔最愛】360解構Super Girls私密](http://viu.tv/readtv/bing-jai-jui-oi-360gaai-kau-Super-Girlssi-mat)
 4.  [ViuTV輪流召喚女神　黃心美董嘉儀袁澧林邊食邊傾](http://www.hk01.com/%E5%A8%9B%E6%A8%82/31083/ViuTV%E8%BC%AA%E6%B5%81%E5%8F%AC%E5%96%9A%E5%A5%B3%E7%A5%9E-%E9%BB%83%E5%BF%83%E7%BE%8E%E8%91%A3%E5%98%89%E5%84%80%E8%A2%81%E6%BE%A7%E6%9E%97%E9%82%8A%E9%A3%9F%E9%82%8A%E5%82%BE)
 5.  [陳嘉桓讚男仔識煮飯會加分](http://eastweek.my-magazine.me/main/55843)

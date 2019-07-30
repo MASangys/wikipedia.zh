@@ -1,5 +1,4 @@
-《**dinner**》是自2013年1月13日在[富士电视台播出的日本电视剧](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")，以[料理為主題](https://zh.wikipedia.org/wiki/料理 "wikilink")、虛構[義式](https://zh.wikipedia.org/wiki/義式料理 "wikilink")[餐廳Ristorante](https://zh.wikipedia.org/wiki/餐廳 "wikilink")
-Roccabianca為背景，由[江口洋介主演](../Page/江口洋介.md "wikilink")。
+《**dinner**》是自2013年1月13日在[富士电视台播出的日本电视剧](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")，以[料理為主題](https://zh.wikipedia.org/wiki/料理 "wikilink")、虛構[義式](https://zh.wikipedia.org/wiki/義式料理 "wikilink")[餐廳Ristorante](https://zh.wikipedia.org/wiki/餐廳 "wikilink") Roccabianca為背景，由[江口洋介](../Page/江口洋介.md "wikilink")主演。
 
 ## 故事大綱
 
@@ -82,7 +81,7 @@ Roccabianca為背景，由[江口洋介主演](../Page/江口洋介.md "wikilink
 <p><a href="https://zh.wikipedia.org/wiki/八嶋智人" title="wikilink">八嶋智人</a>（少年期：<a href="https://zh.wikipedia.org/wiki/溝口怜冴" title="wikilink">溝口怜冴</a>）</p></td>
 <td><center>
 <p>木村数馬</p></td>
-<td><p>主要做<a href="../Page/意式麵食.md" title="wikilink">意式麵食及</a><a href="../Page/義大利燉飯.md" title="wikilink">義大利燉飯</a>。小時候父母離婚，後跟著母親生活，但高中後母親也失蹤，為撫養妹妹，他一路辛苦過來，卻從對熱愛料理到待人苛薄和放縱自己，讓曾經在羅彼昂擔任外場的妻子相當失望，提出離婚，後來透過回憶找到初衷，和妻子重回感情。</p></td>
+<td><p>主要做<a href="../Page/意式麵食.md" title="wikilink">意式麵食</a>及<a href="../Page/義大利燉飯.md" title="wikilink">義大利燉飯</a>。小時候父母離婚，後跟著母親生活，但高中後母親也失蹤，為撫養妹妹，他一路辛苦過來，卻從對熱愛料理到待人苛薄和放縱自己，讓曾經在羅彼昂擔任外場的妻子相當失望，提出離婚，後來透過回憶找到初衷，和妻子重回感情。</p></td>
 <td><center>
 <p>43歲</p></td>
 </tr>
@@ -136,7 +135,7 @@ Roccabianca為背景，由[江口洋介主演](../Page/江口洋介.md "wikilink
 <p><a href="../Page/柴本幸.md" title="wikilink">柴本幸</a></p></td>
 <td><center>
 <p>本宮惠理子</p></td>
-<td><p><a href="../Page/侍酒師.md" title="wikilink">侍酒師兼</a><a href="https://zh.wikipedia.org/wiki/侍應" title="wikilink">侍應</a>。</p></td>
+<td><p><a href="../Page/侍酒師.md" title="wikilink">侍酒師</a>兼<a href="https://zh.wikipedia.org/wiki/侍應" title="wikilink">侍應</a>。</p></td>
 <td><center>
 <p>29歲</p></td>
 </tr>
@@ -348,10 +347,4 @@ Roccabianca為背景，由[江口洋介主演](../Page/江口洋介.md "wikilink
 
 ## 節目的變遷
 
-[Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink")
-[Category:共同電視製作電視劇](https://zh.wikipedia.org/wiki/Category:共同電視製作電視劇 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:Dramatic_Sunday](https://zh.wikipedia.org/wiki/Category:Dramatic_Sunday "wikilink")
-[Category:料理電視劇](https://zh.wikipedia.org/wiki/Category:料理電視劇 "wikilink")
-[Category:餐館背景電視劇](https://zh.wikipedia.org/wiki/Category:餐館背景電視劇 "wikilink")
+[Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink") [Category:共同電視製作電視劇](https://zh.wikipedia.org/wiki/Category:共同電視製作電視劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:Dramatic_Sunday](https://zh.wikipedia.org/wiki/Category:Dramatic_Sunday "wikilink") [Category:料理電視劇](https://zh.wikipedia.org/wiki/Category:料理電視劇 "wikilink") [Category:餐館背景電視劇](https://zh.wikipedia.org/wiki/Category:餐館背景電視劇 "wikilink")

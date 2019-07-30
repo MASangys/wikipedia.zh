@@ -1,78 +1,51 @@
-**BIG3** 是專業室內3對3
-籃球比賽聯盟，參賽成員主要以前NBA球員為主。由[冰塊酷巴和娛樂總監](../Page/艾斯·库伯.md "wikilink")創立。
+**BIG3** 是專業室內3對3 籃球比賽聯盟，參賽成員主要以前NBA球員為主。由[冰塊酷巴和娛樂總監](../Page/艾斯·库伯.md "wikilink")創立。
 
 ## 歷史
 
-在2017年1月11日，冰塊酷巴和娛樂總監Jeff
-Kwatinetz在紐約市喜來登酒店時代廣場分店宣布BIG3聯盟正式成立。\[1\]這也呼應[2020年夏季奧運會加入](https://zh.wikipedia.org/wiki/2000年夏季奥林匹克运动会 "wikilink")3對3籃球比賽。
+在2017年1月11日，冰塊酷巴和娛樂總監Jeff Kwatinetz在紐約市喜來登酒店時代廣場分店宣布BIG3聯盟正式成立。\[1\]這也呼應[2020年夏季奧運會加入](https://zh.wikipedia.org/wiki/2000年夏季奥林匹克运动会 "wikilink")3對3籃球比賽。
 
 ## 球員陣容
 
 以下是各個同意參加BIG3聯盟的前NBA球員列表：
 
-  - [Etan Thomas](https://zh.wikipedia.org/wiki/Etan_Thomas "wikilink")
-  - [Ruben
-    Patterson](https://zh.wikipedia.org/wiki/Ruben_Patterson "wikilink")
-  - [Xavier
-    Silas](https://zh.wikipedia.org/wiki/Xavier_Silas "wikilink")
-  - [Eddie
-    Robinson](https://zh.wikipedia.org/wiki/Eddie_Robinson_\(basketball\) "wikilink")
-  - [Lee Nailon](https://zh.wikipedia.org/wiki/Lee_Nailon "wikilink")
-  - [Rashad
-    McCants](https://zh.wikipedia.org/wiki/Rashad_McCants "wikilink")
-  - [Voshon
-    Lenard](https://zh.wikipedia.org/wiki/Voshon_Lenard "wikilink")
-  - [Mike
-    James](https://zh.wikipedia.org/wiki/Mike_James_\(basketball,_born_1975\) "wikilink")
-  - [Jamario
-    Moon](https://zh.wikipedia.org/wiki/Jamario_Moon "wikilink")
-  - [Smush
-    Parker](https://zh.wikipedia.org/wiki/Smush_Parker "wikilink")
-  - [Kenny
-    Anderson](https://zh.wikipedia.org/wiki/Kenny_Anderson_\(basketball\) "wikilink")
-  - [Shane Heal](https://zh.wikipedia.org/wiki/Shane_Heal "wikilink")
-  - [Derrick
-    Byars](https://zh.wikipedia.org/wiki/Derrick_Byars "wikilink")
-  - [Keith
-    Bogans](https://zh.wikipedia.org/wiki/Keith_Bogans "wikilink")
-  - [Marcus
-    Banks](https://zh.wikipedia.org/wiki/Marcus_Banks "wikilink")
-  - [Rashard
-    Lewis](https://zh.wikipedia.org/wiki/Rashard_Lewis "wikilink")
-  - [Kenyon
-    Martin](https://zh.wikipedia.org/wiki/Kenyon_Martin "wikilink")
+  - [伊坦·托马斯](https://zh.wikipedia.org/wiki/伊坦·托马斯 "wikilink")
+  - [鲁本·帕特森](https://zh.wikipedia.org/wiki/鲁本·帕特森 "wikilink")
+  - [泽维尔·西拉斯](https://zh.wikipedia.org/wiki/泽维尔·西拉斯 "wikilink")
+  - [艾迪·罗宾逊](https://zh.wikipedia.org/wiki/艾迪·罗宾逊 "wikilink")
+  - [李·耐龙](https://zh.wikipedia.org/wiki/李·耐龙 "wikilink")
+  - [拉沙德·麦坎茨](https://zh.wikipedia.org/wiki/拉沙德·麦坎茨 "wikilink")
+  - [沃什·莱纳德](https://zh.wikipedia.org/wiki/沃什·莱纳德 "wikilink")
+  - [麦克·詹姆斯](../Page/麦克·詹姆斯.md "wikilink")
+  - [贾马里奥·穆恩](../Page/贾马里奥·穆恩.md "wikilink")
+  - [斯马什·帕克](../Page/斯马什·帕克.md "wikilink")
+  - [肯尼·安德森](../Page/肯尼·安德森.md "wikilink")
+  - [肖恩·黑尔](../Page/肖恩·黑尔.md "wikilink")
+  - [德里克·贝耶斯](https://zh.wikipedia.org/wiki/德里克·贝耶斯 "wikilink")
+  - [基斯·博甘斯](../Page/基斯·博甘斯.md "wikilink")
+  - [马库斯·班克斯](../Page/马库斯·班克斯.md "wikilink")
+  - [拉沙德·路易斯](../Page/拉沙德·路易斯.md "wikilink")
+  - [肯扬·马丁](https://zh.wikipedia.org/wiki/肯扬·马丁 "wikilink")
   - [杰梅因·奥尼尔](../Page/杰梅因·奥尼尔.md "wikilink")
-  - [Stephen
-    Jackson](https://zh.wikipedia.org/wiki/Stephen_Jackson "wikilink")
+  - [斯蒂芬·杰克逊](../Page/斯蒂芬·杰克逊.md "wikilink")
 
 <!-- end list -->
 
-  - [Allen
-    Iverson](https://zh.wikipedia.org/wiki/Allen_Iverson "wikilink")\[2\]
-  - [Bonzi Wells](https://zh.wikipedia.org/wiki/Bonzi_Wells "wikilink")
+  - [阿伦·艾弗森](https://zh.wikipedia.org/wiki/阿伦·艾弗森 "wikilink")\[2\]
+  - [邦奇·威尔斯](../Page/邦奇·威尔斯.md "wikilink")
   - [迈克·毕比](../Page/迈克·毕比.md "wikilink")
   - [贾森·威廉姆斯](https://zh.wikipedia.org/wiki/贾森·威廉姆斯 "wikilink")
-  - [Corey
-    Maggette](https://zh.wikipedia.org/wiki/Corey_Maggette "wikilink")
-  - [Steve
-    Francis](https://zh.wikipedia.org/wiki/Steve_Francis "wikilink")
-  - [Kendall
-    Gill](https://zh.wikipedia.org/wiki/Kendall_Gill "wikilink")
-  - [DeShawn
-    Stevenson](https://zh.wikipedia.org/wiki/DeShawn_Stevenson "wikilink")
+  - [科里·马盖蒂](../Page/科里·马盖蒂.md "wikilink")
+  - [史蒂夫·弗朗西斯](../Page/史蒂夫·弗朗西斯.md "wikilink")
+  - [肯德·吉尔](https://zh.wikipedia.org/wiki/肯德·吉尔 "wikilink")
+  - [德肖恩·史蒂文森](https://zh.wikipedia.org/wiki/德肖恩·史蒂文森 "wikilink")
   - [乔·史密斯](../Page/乔·史密斯.md "wikilink")
-  - [Al
-    Harrington](https://zh.wikipedia.org/wiki/Al_Harrington "wikilink")
-  - [Ricky Davis](https://zh.wikipedia.org/wiki/Ricky_Davis "wikilink")
-  - [Brian
-    Scalabrine](https://zh.wikipedia.org/wiki/Brian_Scalabrine "wikilink")
-  - [Charles
-    Oakley](https://zh.wikipedia.org/wiki/Charles_Oakley "wikilink")
-  - [Chauncey
-    Billups](https://zh.wikipedia.org/wiki/Chauncey_Billups "wikilink")
-  - [Latrell
-    Sprewell](https://zh.wikipedia.org/wiki/Latrell_Sprewell "wikilink")
-  - [J.R. Rider](https://zh.wikipedia.org/wiki/J.R._Rider "wikilink")
+  - [艾尔·哈灵顿](https://zh.wikipedia.org/wiki/艾尔·哈灵顿 "wikilink")
+  - [里基·戴维斯](../Page/里基·戴维斯.md "wikilink")
+  - [布萊恩·斯卡拉布萊恩](../Page/布萊恩·斯卡拉布萊恩.md "wikilink")
+  - [查尔斯·奥克利](https://zh.wikipedia.org/wiki/查尔斯·奥克利 "wikilink")
+  - [昌西·比卢普斯](https://zh.wikipedia.org/wiki/昌西·比卢普斯 "wikilink")
+  - [拉特里尔·斯普雷维尔](https://zh.wikipedia.org/wiki/拉特里尔·斯普雷维尔 "wikilink")
+  - [伊塞亚·莱德尔](https://zh.wikipedia.org/wiki/伊塞亚·莱德尔 "wikilink")
   - [厄尔·博伊金斯](../Page/厄尔·博伊金斯.md "wikilink")
   - [布莱恩·库克](https://zh.wikipedia.org/wiki/布莱恩·库克 "wikilink")
   - [皮特·奇尔卡特](../Page/皮特·奇尔卡特.md "wikilink")
@@ -80,21 +53,18 @@ Kwatinetz在紐約市喜來登酒店時代廣場分店宣布BIG3聯盟正式成�
 
 <!-- end list -->
 
-  - Coaches
+  - 教练
 
 <!-- end list -->
 
-  - [Allen
-    Iverson](https://zh.wikipedia.org/wiki/Allen_Iverson "wikilink")
-    (Player and Coach)
+  - [阿伦·艾弗森](https://zh.wikipedia.org/wiki/阿伦·艾弗森 "wikilink") (球员兼教练)
   - [加里·佩頓](https://zh.wikipedia.org/wiki/加里·佩頓 "wikilink")
   - [乔治·格温](../Page/乔治·格温.md "wikilink")
   - [朱利叶斯·欧文](../Page/朱利叶斯·欧文.md "wikilink")
-  - [Rick Mahorn](https://zh.wikipedia.org/wiki/Rick_Mahorn "wikilink")
+  - [里克·马洪](https://zh.wikipedia.org/wiki/里克·马洪 "wikilink")
   - [里克·巴里](../Page/里克·巴里.md "wikilink")
   - [克莱德·德雷克斯勒](https://zh.wikipedia.org/wiki/克莱德·德雷克斯勒 "wikilink")
-  - [查爾斯·歐克利](../Page/查爾斯·歐克利.md "wikilink") (Player and
-    Coach)\[4\]</ref>\[5\]\[6\]
+  - [查爾斯·歐克利](../Page/查爾斯·歐克利.md "wikilink") (球员兼教练)\[4\]</ref>\[5\]\[6\]
 
 ## 規模
 
@@ -104,27 +74,16 @@ BIG3聯盟共有8隊，沒有各自主場。每隊包含5位球員和一位教�
 
 第一季從2017年6月25日由布魯克林開始，同年8月26日在拉斯維加斯完結。所有比賽，除總決賽（週六比賽）以外，都在週日比賽
 
-  - 第1週 (6月25日): [巴克萊中心](../Page/巴克萊中心.md "wikilink"),
-    [紐約州](../Page/纽约州.md "wikilink")[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")
-  - 第2週 (7月2日): [光譜中心](https://zh.wikipedia.org/wiki/光譜中心 "wikilink"),
-    [北卡羅萊納州](../Page/北卡罗来纳州.md "wikilink")[夏洛特](../Page/夏洛特_\(北卡羅來納州\).md "wikilink")
-  - 第3週 (7月9日): 奧克拉荷馬銀行中心,
-    [奧克拉荷馬州](../Page/奧克拉荷馬州.md "wikilink")[土爾沙](../Page/塔爾薩.md "wikilink")
-  - 第4週 (7月16日): [富國銀行中心](../Page/富國銀行中心.md "wikilink"),
-    [賓夕凡尼亞州](../Page/宾夕法尼亚州.md "wikilink")[費城](../Page/費城.md "wikilink")
-  - 第5週(7月23日): [伊利諾大學芝加哥分校亭樓](../Page/伊利諾大學芝加哥分校.md "wikilink"),
-    [伊利諾伊州](../Page/伊利诺伊州.md "wikilink")[芝加哥](../Page/芝加哥.md "wikilink")
-  - 第6週 (7月30日): [美國航空中心](../Page/美國航空中心.md "wikilink"),
-    [德克薩斯州](../Page/德克萨斯州.md "wikilink")[達拉斯](../Page/達拉斯.md "wikilink")
-  - 第7週 (8月6日): Rupp 中心,
-    [肯塔基州](../Page/肯塔基州.md "wikilink")[勒星頓](../Page/列克星敦_\(肯塔基州\).md "wikilink")
-  - 第8週 (8月13日):
-    [史達普斯中心](https://zh.wikipedia.org/wiki/Staples_Center "wikilink"),
-    [加利福尼亞州](../Page/加利福尼亚州.md "wikilink")[洛杉磯](../Page/洛杉矶.md "wikilink")
-  - 第9週 (8月20日): 鑰匙競技場,
-    [華盛頓州](../Page/华盛顿州.md "wikilink")[西雅圖](https://zh.wikipedia.org/wiki/西雅图 "wikilink")(季後҉賽)
-  - 第10週(8月26日): T-Mobile 體育館,
-    [內華達州](../Page/内华达州.md "wikilink")[拉斯維加斯](../Page/拉斯维加斯.md "wikilink")(總決賽)
+  - 第1週 (6月25日): [巴克萊中心](../Page/巴克萊中心.md "wikilink"), [紐約州](../Page/纽约州.md "wikilink")[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")
+  - 第2週 (7月2日): [光譜中心](https://zh.wikipedia.org/wiki/光譜中心 "wikilink"), [北卡羅萊納州](../Page/北卡罗来纳州.md "wikilink")[夏洛特](../Page/夏洛特_\(北卡羅來納州\).md "wikilink")
+  - 第3週 (7月9日): 奧克拉荷馬銀行中心, [奧克拉荷馬州](../Page/奧克拉荷馬州.md "wikilink")[土爾沙](../Page/塔爾薩.md "wikilink")
+  - 第4週 (7月16日): [富國銀行中心](../Page/富國銀行中心.md "wikilink"), [賓夕凡尼亞州](../Page/宾夕法尼亚州.md "wikilink")[費城](../Page/費城.md "wikilink")
+  - 第5週(7月23日): [伊利諾大學芝加哥分校](../Page/伊利諾大學芝加哥分校.md "wikilink")亭樓, [伊利諾伊州](../Page/伊利诺伊州.md "wikilink")[芝加哥](../Page/芝加哥.md "wikilink")
+  - 第6週 (7月30日): [美國航空中心](../Page/美國航空中心.md "wikilink"), [德克薩斯州](../Page/德克萨斯州.md "wikilink")[達拉斯](../Page/達拉斯.md "wikilink")
+  - 第7週 (8月6日): Rupp 中心, [肯塔基州](../Page/肯塔基州.md "wikilink")[勒星頓](../Page/列克星敦_\(肯塔基州\).md "wikilink")
+  - 第8週 (8月13日): [史達普斯中心](https://zh.wikipedia.org/wiki/Staples_Center "wikilink"), [加利福尼亞州](../Page/加利福尼亚州.md "wikilink")[洛杉磯](../Page/洛杉矶.md "wikilink")
+  - 第9週 (8月20日): 鑰匙競技場, [華盛頓州](../Page/华盛顿州.md "wikilink")[西雅圖](https://zh.wikipedia.org/wiki/西雅图 "wikilink")(季後҉賽)
+  - 第10週(8月26日): T-Mobile 體育館, [內華達州](../Page/内华达州.md "wikilink")[拉斯維加斯](../Page/拉斯维加斯.md "wikilink")(總決賽)
 
 ### 規則\[7\]
 
@@ -147,9 +106,7 @@ BIG3聯盟共有8隊，沒有各自主場。每隊包含5位球員和一位教�
   - NBA的即時重播生效。可覆核3、4分球、惡意犯規、守龍門或進攻入球干擾和控球權
   - 允許所有NBA防守策略，包括在NBA已廢除的打手干擾。
   - 每隊每半場有一個60秒和30秒暫停，不能在下半場累積。
-  - 每隊可以在沒有比賽的一週時間內進行球員調換，但不能進行球員交易（例：[昌西·比立斯在第二週代替效力Killer](https://zh.wikipedia.org/wiki/昌西·比卢普斯 "wikilink")
-    3's 的Eddie
-    Robinson出戰，也決定退出角逐[克里夫蘭҉騎士球隊總裁](../Page/克里夫兰骑士.md "wikilink")）。
+  - 每隊可以在沒有比賽的一週時間內進行球員調換，但不能進行球員交易（例：[昌西·比立斯在第二週代替效力Killer](https://zh.wikipedia.org/wiki/昌西·比卢普斯 "wikilink") 3's 的Eddie Robinson出戰，也決定退出角逐[克里夫蘭҉騎士球隊總裁](../Page/克里夫兰骑士.md "wikilink")）。
 
 ## 隊伍
 
@@ -240,10 +197,7 @@ BIG3聯盟共有8隊，沒有各自主場。每隊包含5位球員和一位教�
 
 ## Draft
 
-The draft lottery was held on April 28, 2017 with Trilogy having the
-first pick followed by a player combine the next day. The actual draft
-took place on April 30, 2017 with 24 draft selections out of 70 draft
-entrants.\[15\]\[16\]
+The draft lottery was held on April 28, 2017 with Trilogy having the first pick followed by a player combine the next day. The actual draft took place on April 30, 2017 with 24 draft selections out of 70 draft entrants.\[15\]\[16\]
 
 ### Draft selections
 
@@ -414,67 +368,43 @@ entrants.\[15\]\[16\]
 
 ### Undrafted Players
 
-  - [Keith
-    Bogans](https://zh.wikipedia.org/wiki/Keith_Bogans "wikilink")
-  - [Earl
-    Boykins](https://zh.wikipedia.org/wiki/Earl_Boykins "wikilink")
-  - [Pete
-    Chilcutt](https://zh.wikipedia.org/wiki/Pete_Chilcutt "wikilink")
+  - [Keith Bogans](https://zh.wikipedia.org/wiki/Keith_Bogans "wikilink")
+  - [Earl Boykins](https://zh.wikipedia.org/wiki/Earl_Boykins "wikilink")
+  - [Pete Chilcutt](https://zh.wikipedia.org/wiki/Pete_Chilcutt "wikilink")
   - [Ndudi Ebi](https://zh.wikipedia.org/wiki/Ndudi_Ebi "wikilink")
   - [Jonny Flynn](https://zh.wikipedia.org/wiki/Jonny_Flynn "wikilink")
-  - [Steve
-    Francis](https://zh.wikipedia.org/wiki/Steve_Francis "wikilink")
-  - [J.R.
-    Giddens](https://zh.wikipedia.org/wiki/J.R._Giddens "wikilink")
-  - [Kendall
-    Gill](https://zh.wikipedia.org/wiki/Kendall_Gill "wikilink")
-  - [Donte
-    Greene](https://zh.wikipedia.org/wiki/Donte_Greene "wikilink")
+  - [Steve Francis](https://zh.wikipedia.org/wiki/Steve_Francis "wikilink")
+  - [J.R. Giddens](https://zh.wikipedia.org/wiki/J.R._Giddens "wikilink")
+  - [Kendall Gill](https://zh.wikipedia.org/wiki/Kendall_Gill "wikilink")
+  - [Donte Greene](https://zh.wikipedia.org/wiki/Donte_Greene "wikilink")
   - [Shane Heal](https://zh.wikipedia.org/wiki/Shane_Heal "wikilink")
-  - [Bernard
-    James](https://zh.wikipedia.org/wiki/Bernard_James "wikilink")
-  - [Voshon
-    Lenard](https://zh.wikipedia.org/wiki/Voshon_Lenard "wikilink")
+  - [Bernard James](https://zh.wikipedia.org/wiki/Bernard_James "wikilink")
+  - [Voshon Lenard](https://zh.wikipedia.org/wiki/Voshon_Lenard "wikilink")
   - [O.J. Mayo](https://zh.wikipedia.org/wiki/O.J._Mayo "wikilink")
-  - [Pops
-    Mensah-Bonsu](https://zh.wikipedia.org/wiki/Pops_Mensah-Bonsu "wikilink")
+  - [Pops Mensah-Bonsu](https://zh.wikipedia.org/wiki/Pops_Mensah-Bonsu "wikilink")
   - [Chris Mihm](https://zh.wikipedia.org/wiki/Chris_Mihm "wikilink")
 
 <!-- end list -->
 
-  - [Jamario
-    Moon](https://zh.wikipedia.org/wiki/Jamario_Moon "wikilink")
-  - [Lawrence
-    Moten](https://zh.wikipedia.org/wiki/Lawrence_Moten "wikilink")
-  - [Ronald "Flip"
-    Murray](https://zh.wikipedia.org/wiki/Ronald_"Flip"_Murray "wikilink")
-  - [Smush
-    Parker](https://zh.wikipedia.org/wiki/Smush_Parker "wikilink")
-  - [Nikola
-    Peković](https://zh.wikipedia.org/wiki/Nikola_Peković "wikilink")
-  - [Isaiah
-    Rider](https://zh.wikipedia.org/wiki/Isaiah_Rider "wikilink")
-  - [Eddie
-    Robinson](https://zh.wikipedia.org/wiki/Eddie_Robinson_\(basketball\) "wikilink")
-  - [Joe
-    Smith](https://zh.wikipedia.org/wiki/Joe_Smith_\(basketball\) "wikilink")
-  - [Latrell
-    Sprewell](https://zh.wikipedia.org/wiki/Latrell_Sprewell "wikilink")
+  - [Jamario Moon](https://zh.wikipedia.org/wiki/Jamario_Moon "wikilink")
+  - [Lawrence Moten](https://zh.wikipedia.org/wiki/Lawrence_Moten "wikilink")
+  - [Ronald "Flip" Murray](https://zh.wikipedia.org/wiki/Ronald_"Flip"_Murray "wikilink")
+  - [Smush Parker](https://zh.wikipedia.org/wiki/Smush_Parker "wikilink")
+  - [Nikola Peković](https://zh.wikipedia.org/wiki/Nikola_Peković "wikilink")
+  - [Isaiah Rider](https://zh.wikipedia.org/wiki/Isaiah_Rider "wikilink")
+  - [Eddie Robinson](https://zh.wikipedia.org/wiki/Eddie_Robinson_\(basketball\) "wikilink")
+  - [Joe Smith](https://zh.wikipedia.org/wiki/Joe_Smith_\(basketball\) "wikilink")
+  - [Latrell Sprewell](https://zh.wikipedia.org/wiki/Latrell_Sprewell "wikilink")
   - [Eric Snow](https://zh.wikipedia.org/wiki/Eric_Snow "wikilink")
   - [Etan Thomas](https://zh.wikipedia.org/wiki/Etan_Thomas "wikilink")
-  - [Tyrus
-    Thomas](https://zh.wikipedia.org/wiki/Tyrus_Thomas "wikilink")
-  - [Robert
-    Vaden](https://zh.wikipedia.org/wiki/Robert_Vaden "wikilink")
-  - [Hakim
-    Warrick](https://zh.wikipedia.org/wiki/Hakim_Warrick "wikilink")
-  - [Jordan
-    Williams](https://zh.wikipedia.org/wiki/Jordan_Williams_\(basketball\) "wikilink")
+  - [Tyrus Thomas](https://zh.wikipedia.org/wiki/Tyrus_Thomas "wikilink")
+  - [Robert Vaden](https://zh.wikipedia.org/wiki/Robert_Vaden "wikilink")
+  - [Hakim Warrick](https://zh.wikipedia.org/wiki/Hakim_Warrick "wikilink")
+  - [Jordan Williams](https://zh.wikipedia.org/wiki/Jordan_Williams_\(basketball\) "wikilink")
 
 ## 播҉放頻道
 
-[Fox Sports 1](https://zh.wikipedia.org/wiki/Fox_Sports_1 "wikilink")
-會以預錄形式播放8星期常規賽和季後҉賽, Fox 則會直播決賽。\[18\]
+[Fox Sports 1](https://zh.wikipedia.org/wiki/Fox_Sports_1 "wikilink") 會以預錄形式播放8星期常規賽和季後҉賽, Fox 則會直播決賽。\[18\]
 
 ## 參考資料
 
@@ -482,10 +412,7 @@ entrants.\[15\]\[16\]
 
   - [Official Website](http://www.big3.com/)
 
-[Category:2017年紐約州建立](https://zh.wikipedia.org/wiki/Category:2017年紐約州建立 "wikilink")
-[Category:美國籃球聯賽](https://zh.wikipedia.org/wiki/Category:美國籃球聯賽 "wikilink")
-[Category:紐約州體育](https://zh.wikipedia.org/wiki/Category:紐約州體育 "wikilink")
-[Category:2017年建立的體育聯賽](https://zh.wikipedia.org/wiki/Category:2017年建立的體育聯賽 "wikilink")
+[Category:2017年紐約州建立](https://zh.wikipedia.org/wiki/Category:2017年紐約州建立 "wikilink") [Category:美國籃球聯賽](https://zh.wikipedia.org/wiki/Category:美國籃球聯賽 "wikilink") [Category:紐約州體育](https://zh.wikipedia.org/wiki/Category:紐約州體育 "wikilink") [Category:2017年建立的體育聯賽](https://zh.wikipedia.org/wiki/Category:2017年建立的體育聯賽 "wikilink")
 
 1.
 
@@ -520,7 +447,4 @@ entrants.\[15\]\[16\]
 
 17.
 
-18. [Fox’s Big 3 basketball broadcast team: Gus Johnson, Jim Jackson
-    and…Michael
-    Rapaport?](http://awfulannouncing.com/fox/big-3-basketball-broadcast-team-fox-gus-johnson-jim-jackson-and-michael-rapaport.html)
-    *awfulannouncing.com*. Retrieved June 15, 2017.
+18. [Fox’s Big 3 basketball broadcast team: Gus Johnson, Jim Jackson and…Michael Rapaport?](http://awfulannouncing.com/fox/big-3-basketball-broadcast-team-fox-gus-johnson-jim-jackson-and-michael-rapaport.html) *awfulannouncing.com*. Retrieved June 15, 2017.

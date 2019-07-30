@@ -1,9 +1,8 @@
-**EZOUTDOOR** (讀作:easy
-outdoor)，是台湾一個整合戶外活動的報名平台，平台集結北、中、南各地戶外與室內挑戰活動的廠商。
+**EZOUTDOOR** (讀作:easy outdoor)，是台湾一個整合戶外活動的報名平台，平台集結北、中、南各地戶外與室內挑戰活動的廠商。
 
 ## 概述
 
-目前EZOUTDOOR的平台上，有超過20個專業戶外與室內挑戰活動的合作廠商，幾乎每日都有提供活動。包含[獨木舟](https://zh.wikipedia.org/wiki/獨木舟 "wikilink")、[SUP立槳](https://zh.wikipedia.org/wiki/立槳衝浪 "wikilink")、[登山](https://zh.wikipedia.org/wiki/登山 "wikilink")、[潛水](https://zh.wikipedia.org/wiki/潛水 "wikilink")、[溯溪](../Page/溯溪.md "wikilink")、[露營](https://zh.wikipedia.org/wiki/露營 "wikilink")、[攀樹](https://zh.wikipedia.org/wiki/攀樹 "wikilink")、[飛行傘](https://zh.wikipedia.org/wiki/飛行傘 "wikilink")、[垂直風洞等](../Page/垂直風洞.md "wikilink")\[1\]。
+目前EZOUTDOOR的平台上，有超過20個專業戶外與室內挑戰活動的合作廠商，幾乎每日都有提供活動。包含[獨木舟](https://zh.wikipedia.org/wiki/獨木舟 "wikilink")、[SUP立槳](https://zh.wikipedia.org/wiki/立槳衝浪 "wikilink")、[登山](https://zh.wikipedia.org/wiki/登山 "wikilink")、[潛水](https://zh.wikipedia.org/wiki/潛水 "wikilink")、[溯溪](../Page/溯溪.md "wikilink")、[露營](https://zh.wikipedia.org/wiki/露營 "wikilink")、[攀樹](https://zh.wikipedia.org/wiki/攀樹 "wikilink")、[飛行傘](https://zh.wikipedia.org/wiki/飛行傘 "wikilink")、[垂直風洞](../Page/垂直風洞.md "wikilink")等\[1\]。
 
 ## [目前合作廠商](https://www.ezoutdoor.com.tw/store)
 
@@ -38,25 +37,16 @@ outdoor)，是台湾一個整合戶外活動的報名平台，平台集結北、
 
 ## 歷史
 
-  - 2017年10月30日：應邀參加 2017小琉球海洋牧民產業系列活動
-    10勇士獨木舟跨島橫渡，從[屏東縣](../Page/屏東縣.md "wikilink")[東港鎮海宮跨島橫渡至](../Page/東港鎮海宮.md "wikilink")[小琉球中澳沙灘](https://zh.wikipedia.org/wiki/小琉球 "wikilink")。\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]
+  - 2017年10月30日：應邀參加 2017小琉球海洋牧民產業系列活動 10勇士獨木舟跨島橫渡，從[屏東縣](../Page/屏東縣.md "wikilink")[東港鎮海宮](../Page/東港鎮海宮.md "wikilink")跨島橫渡至[小琉球中澳沙灘](https://zh.wikipedia.org/wiki/小琉球 "wikilink")。\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]
 
 ## 資料來源
 
-[Category:極限運動](https://zh.wikipedia.org/wiki/Category:極限運動 "wikilink")
-[Category:台灣工商業機構](https://zh.wikipedia.org/wiki/Category:台灣工商業機構 "wikilink")
-[Category:野外運動](https://zh.wikipedia.org/wiki/Category:野外運動 "wikilink")
-[Category:休閒活動](https://zh.wikipedia.org/wiki/Category:休閒活動 "wikilink")
-[Category:冒險旅行](https://zh.wikipedia.org/wiki/Category:冒險旅行 "wikilink")
-[Category:休閒公司](https://zh.wikipedia.org/wiki/Category:休閒公司 "wikilink")
-[Category:登山](https://zh.wikipedia.org/wiki/Category:登山 "wikilink")
-[Category:水上運動](https://zh.wikipedia.org/wiki/Category:水上運動 "wikilink")
+[Category:極限運動](https://zh.wikipedia.org/wiki/Category:極限運動 "wikilink") [Category:台灣工商業機構](https://zh.wikipedia.org/wiki/Category:台灣工商業機構 "wikilink") [Category:野外運動](https://zh.wikipedia.org/wiki/Category:野外運動 "wikilink") [Category:休閒活動](https://zh.wikipedia.org/wiki/Category:休閒活動 "wikilink") [Category:冒險旅行](https://zh.wikipedia.org/wiki/Category:冒險旅行 "wikilink") [Category:休閒公司](https://zh.wikipedia.org/wiki/Category:休閒公司 "wikilink") [Category:登山](https://zh.wikipedia.org/wiki/Category:登山 "wikilink") [Category:水上運動](https://zh.wikipedia.org/wiki/Category:水上運動 "wikilink")
 
 1.  [走向戶外，獨木舟、溯溪、飛行傘，報名上EZOUTDOOR一站搞定.蘋果日報.2016-08-11\[2016-12-23](http://www.appledaily.com.tw/appledaily/article/supplement/20150811/36714347/).
 2.
 3.
-4.   高屏離島 {{\!}} 地方 {{\!}}
-    聯合新聞網|last=聯合新聞網|newspaper=聯合新聞網|accessdate=2017-11-01}}
+4.   高屏離島 {{\!}} 地方 {{\!}} 聯合新聞網|last=聯合新聞網|newspaper=聯合新聞網|accessdate=2017-11-01}}
 5.
 6.   亞太新聞網 ATA News|accessdate=2017-11-01|work=亞太新聞網 ATA News}}
 7.

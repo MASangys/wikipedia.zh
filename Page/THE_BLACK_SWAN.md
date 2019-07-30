@@ -1,7 +1,4 @@
-**THE BLACK
-SWAN**是[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，於2014年3月31日始動，同年6月6日起展開樂團的首次巡演「NEEDLESS
-x
-NEEDLESS」，三個月期間共舉行14場演出，足跡遍及東京、仙台、新潟、金沢、名古屋、福岡、廣島、岡山、大阪\[1\]。2018年5月1日解散。
+**THE BLACK SWAN**是[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，於2014年3月31日始動，同年6月6日起展開樂團的首次巡演「NEEDLESS x NEEDLESS」，三個月期間共舉行14場演出，足跡遍及東京、仙台、新潟、金沢、名古屋、福岡、廣島、岡山、大阪\[1\]。2018年5月1日解散。
 
 ## 成員
 
@@ -18,8 +15,7 @@ NEEDLESS」，三個月期間共舉行14場演出，足跡遍及東京、仙台�
         出生地︰長野縣
     **[誠-MAKOTO-](https://zh.wikipedia.org/wiki/誠-MAKOTO- "wikilink")（吉他手）**
       -
-        樂團經歷︰→ ReivieЯ → (DEATH PROJECT) → ReivieЯ → ドップラー → THE BLACK
-        SWAN
+        樂團經歷︰→ ReivieЯ → (DEATH PROJECT) → ReivieЯ → ドップラー → THE BLACK SWAN
         生日：7月10日
         出生地︰千葉縣
     **[RENA](https://zh.wikipedia.org/wiki/RENA "wikilink")（貝斯手）**
@@ -29,9 +25,7 @@ NEEDLESS」，三個月期間共舉行14場演出，足跡遍及東京、仙台�
         出生地︰鳥取縣米子市 \[3\]
     **[煉-LEN-](https://zh.wikipedia.org/wiki/煉-LEN- "wikilink")（鼓手）**
       -
-        樂團經歷︰→ THE BLACK SWAN (煉) →
-        [DADAROMA](https://zh.wikipedia.org/wiki/DADAROMA "wikilink")
-        (諒平)
+        樂團經歷︰→ THE BLACK SWAN (煉) → [DADAROMA](https://zh.wikipedia.org/wiki/DADAROMA "wikilink") (諒平)
         生日：5月30日
         出生地︰秋田縣
 
@@ -68,14 +62,10 @@ NEEDLESS」，三個月期間共舉行14場演出，足跡遍及東京、仙台�
 
 ## 參考資料
 
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:視覺系樂團](https://zh.wikipedia.org/wiki/Category:視覺系樂團 "wikilink")
+[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:視覺系](https://zh.wikipedia.org/wiki/Category:視覺系 "wikilink")
 
-1.  [VROCKHK - THE BLACK SWAN公開成員身份
-    首次巡演發限定音源《黒聴》](http://vrockhk.com/2014/05/12/5412/)
+1.  [VROCKHK - THE BLACK SWAN公開成員身份 首次巡演發限定音源《黒聴》](http://vrockhk.com/2014/05/12/5412/)
 2.  [VKDB - THE BLACK SWAN](https://www.vkdb.jp/THE+BLACK+SWAN.html)
-3.  [VROCKHK - THE BLACK
-    SWAN新單曲《RAGE》](http://vrockhk.com/2017/02/08/33377/)
+3.  [VROCKHK - THE BLACK SWAN新單曲《RAGE》](http://vrockhk.com/2017/02/08/33377/)
 4.  [THE BLACK SWAN鼓手煉出版愛貓虎徹成長紀錄](http://vrockhk.com/2016/02/13/24010/)
 5.  [The Black Swan 官方網頁 - 專輯列表](http://www.theblackswan.jp/disco.html)

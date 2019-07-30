@@ -1,6 +1,4 @@
-是一款由[From
-Software開發的中世紀主題之](https://zh.wikipedia.org/wiki/From_Software "wikilink")[第一人稱](https://zh.wikipedia.org/wiki/第一人称视角游戏 "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")，1995年於[PlayStation平台發售](../Page/PlayStation.md "wikilink")。本作是國王密令系列的第二作，也是首部發行到海外地區的系列作。由於初代《[國王密令](../Page/國王密令.md "wikilink")》只在日本而未在歐美地區發行，因此歐美版本本作标题不带编号，直接叫“King's
-Field”。
+是一款由[From Software開發的中世紀主題之](https://zh.wikipedia.org/wiki/From_Software "wikilink")[第一人稱](https://zh.wikipedia.org/wiki/第一人称视角游戏 "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")，1995年於[PlayStation](../Page/PlayStation.md "wikilink")平台發售。本作是國王密令系列的第二作，也是首部發行到海外地區的系列作。由於初代《[國王密令](../Page/國王密令.md "wikilink")》只在日本而未在歐美地區發行，因此歐美版本本作标题不带编号，直接叫“King's Field”。
 
 ## 劇情
 
@@ -11,11 +9,7 @@ Field”。
 ## 外部連結
 
   -
-[Category:1995年電子遊戲](https://zh.wikipedia.org/wiki/Category:1995年電子遊戲 "wikilink")
-[Category:PlayStation_(遊戲機)遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_\(遊戲機\)遊戲 "wikilink")
-[Category:PlayStation_Network遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Network遊戲 "wikilink")
-[Category:動作角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:動作角色扮演遊戲 "wikilink")
-[Category:FromSoftware游戏](https://zh.wikipedia.org/wiki/Category:FromSoftware游戏 "wikilink")
+[Category:1995年電子遊戲](https://zh.wikipedia.org/wiki/Category:1995年電子遊戲 "wikilink") [Category:PlayStation_(遊戲機)遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_\(遊戲機\)遊戲 "wikilink") [Category:PlayStation_Network遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Network遊戲 "wikilink") [Category:動作角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:動作角色扮演遊戲 "wikilink") [Category:FromSoftware游戏](https://zh.wikipedia.org/wiki/Category:FromSoftware游戏 "wikilink")
 
 1.
 2.

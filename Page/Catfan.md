@@ -2,14 +2,13 @@
 
 ## 建立与运营
 
-Catfan于2010年3月建站并投入运营，名字取Catch
-fan（抓住朋友）之意\[3\]。据其创始人所述，在建站之前使用半年以上的时间进行各种设计和开发；他认为站点的主要定位为“年轻，追求个性化，并爱好交流的用户”\[4\]。
+Catfan于2010年3月建站并投入运营，名字取Catch fan（抓住朋友）之意\[3\]。据其创始人所述，在建站之前使用半年以上的时间进行各种设计和开发；他认为站点的主要定位为“年轻，追求个性化，并爱好交流的用户”\[4\]。
 
 2011年，其总用户数达到7000\[5\]。
 
 ## 功能
 
-外界将Catfan形容为类似[Tumblr的](https://zh.wikipedia.org/wiki/Tumblr "wikilink")“实时轻[博客](https://zh.wikipedia.org/wiki/博客 "wikilink")”\[6\]，主要因其用户在网页上作出各种更新，自定义等操作无需刷新，可以在一个页面中完成。网站亦使用[HTML5及CSS技术简化用户操作](../Page/HTML5.md "wikilink")，并为用户个性化提供自定义应用。网站另有为移动设备优化的页面\[7\]。
+外界将Catfan形容为类似[Tumblr的](https://zh.wikipedia.org/wiki/Tumblr "wikilink")“实时轻[博客](https://zh.wikipedia.org/wiki/博客 "wikilink")”\[6\]，主要因其用户在网页上作出各种更新，自定义等操作无需刷新，可以在一个页面中完成。网站亦使用[HTML5](../Page/HTML5.md "wikilink")及CSS技术简化用户操作，并为用户个性化提供自定义应用。网站另有为移动设备优化的页面\[7\]。
 
 该站于2011年9月推出“企业账户”。企业账户提供初步的数据分析，地理位置，幻灯片信息展示等模块，供企业用户管理和跟踪数据以及展示品牌形象\[8\]。
 
@@ -21,8 +20,7 @@ Catfan团队称Catfan“未来将会有更丰富的的应用和模板，还会�
 
 ## 参考资料
 
-[Category:中文网站](https://zh.wikipedia.org/wiki/Category:中文网站 "wikilink")
-[Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink")
+[Category:中文网站](https://zh.wikipedia.org/wiki/Category:中文网站 "wikilink") [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink")
 
 1.
 

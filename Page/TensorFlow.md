@@ -1,21 +1,16 @@
-**TensorFlow**是一个[开源](../Page/开放源代码.md "wikilink")[软件库](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink")，用于各种感知和语言理解任务的[机器学习](../Page/机器学习.md "wikilink")。\[1\]目前被50个团队\[2\]用于研究和生产许多[Google商业产品](../Page/Google产品列表.md "wikilink")\[3\]，如[语音辨識](https://zh.wikipedia.org/wiki/语音辨識 "wikilink")、[Gmail](../Page/Gmail.md "wikilink")、[Google
-相册和搜索](https://zh.wikipedia.org/wiki/Google_相册 "wikilink")\[4\]，其中许多产品曾使用过其前任软件DistBelief。
+**TensorFlow**是一个[开源](../Page/开放源代码.md "wikilink")[软件库](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink")，用于各种感知和语言理解任务的[机器学习](../Page/机器学习.md "wikilink")。\[1\]目前被50个团队\[2\]用于研究和生产许多[Google商业产品](../Page/Google产品列表.md "wikilink")\[3\]，如[语音辨識](https://zh.wikipedia.org/wiki/语音辨識 "wikilink")、[Gmail](../Page/Gmail.md "wikilink")、[Google 相册和搜索](https://zh.wikipedia.org/wiki/Google_相册 "wikilink")\[4\]，其中许多产品曾使用过其前任软件DistBelief。
 
-TensorFlow最初由[谷歌大脑团队开发](../Page/谷歌大脑.md "wikilink")，用于[Google的研究和生产](../Page/Google.md "wikilink")，于2015年11月9日在[Apache
-2.0开源许可证下发布](https://zh.wikipedia.org/wiki/Apache_2.0 "wikilink")。\[5\]\[6\]
+TensorFlow最初由[谷歌大脑](../Page/谷歌大脑.md "wikilink")团队开发，用于[Google](../Page/Google.md "wikilink")的研究和生产，于2015年11月9日在[Apache 2.0开源许可证下发布](https://zh.wikipedia.org/wiki/Apache_2.0 "wikilink")。\[5\]\[6\]
 
 ## 历史
 
 ### DistBelief
 
-从2010年开始，谷歌大脑建立DistBelief作为他们的第一代[专有的](https://zh.wikipedia.org/wiki/专有 "wikilink")[机器学习系统](../Page/机器学习.md "wikilink")。50多个团队在Google和其他[Alphabet公司在商业产品部署了DistBelief的](../Page/Alphabet.md "wikilink")[深度学习](../Page/深度学习.md "wikilink")[神经网络](../Page/人工神经网络.md "wikilink")，包括[Google搜索](../Page/Google搜索.md "wikilink")、[Google语音搜索](../Page/Google语音搜索.md "wikilink")、广告、[Google
-相册](https://zh.wikipedia.org/wiki/Google_相册 "wikilink")、[Google地图](../Page/Google地图.md "wikilink")、[Google街景](https://zh.wikipedia.org/wiki/Google街景 "wikilink")、[Google翻译和](../Page/Google翻译.md "wikilink")[YouTube](../Page/YouTube.md "wikilink")。\[7\]\[8\]Google指派计算机科学家，如Geoffrey
-Hinton和Jeff
-Dean，简化和[重构DistBelief的代码库](../Page/代码重构.md "wikilink")，使其变成一个更快、更健壮的应用级别代码库，形成了TensorFlow。\[9\]2009年，Hinton领导的研究小组大大减少使用DistBelief的神经网络的错误数量，通过Hinton在广义反向传播的科学突破。最值得注意的是，Hinton的突破直接使Google语音识别软件中的错误减少至少25%。\[10\]
+从2010年开始，谷歌大脑建立DistBelief作为他们的第一代[专有的](https://zh.wikipedia.org/wiki/专有 "wikilink")[机器学习](../Page/机器学习.md "wikilink")系统。50多个团队在Google和其他[Alphabet](../Page/Alphabet.md "wikilink")公司在商业产品部署了DistBelief的[深度学习](../Page/深度学习.md "wikilink")[神经网络](../Page/人工神经网络.md "wikilink")，包括[Google搜索](../Page/Google搜索.md "wikilink")、[Google语音搜索](../Page/Google语音搜索.md "wikilink")、广告、[Google 相册](https://zh.wikipedia.org/wiki/Google_相册 "wikilink")、[Google地图](../Page/Google地图.md "wikilink")、[Google街景](https://zh.wikipedia.org/wiki/Google街景 "wikilink")、[Google翻译](../Page/Google翻译.md "wikilink")和[YouTube](../Page/YouTube.md "wikilink")。\[7\]\[8\]Google指派计算机科学家，如Geoffrey Hinton和Jeff Dean，简化和[重构DistBelief的代码库](../Page/代码重构.md "wikilink")，使其变成一个更快、更健壮的应用级别代码库，形成了TensorFlow。\[9\]2009年，Hinton领导的研究小组大大减少使用DistBelief的神经网络的错误数量，通过Hinton在广义反向传播的科学突破。最值得注意的是，Hinton的突破直接使Google语音识别软件中的错误减少至少25%。\[10\]
 
 ### TensorFlow
 
-TensorFlow是谷歌大脑的第二代[机器学习系统](../Page/机器学习.md "wikilink")。
+TensorFlow是谷歌大脑的第二代[机器学习](../Page/机器学习.md "wikilink")系统。
 
 从0.8.0版本（发布于2016年4月）开始原生的支持分布式运行。
 
@@ -23,43 +18,31 @@ TensorFlow是谷歌大脑的第二代[机器学习系统](../Page/机器学习.m
 
 从0.12.0版本（发布于2016年12月）开始支持Windows系统。该移植代码主要由微软贡献。
 
-1.0.0版本发布于2017年2月11日。虽然参考实现运行在单台设备，TensorFlow可以运行在多个[CPU和](https://zh.wikipedia.org/wiki/CPU "wikilink")[GPU](../Page/圖形處理器.md "wikilink")（和可选的[CUDA扩展和](../Page/CUDA.md "wikilink")[图形处理器通用计算的](../Page/图形处理器通用计算.md "wikilink")[SYCL扩展](../Page/SYCL.md "wikilink")）。\[11\]TensorFlow可用于64位[Linux](../Page/Linux.md "wikilink")、[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，以及移动计算平台，包括[Android和](../Page/Android.md "wikilink")[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")。
+1.0.0版本发布于2017年2月11日。虽然参考实现运行在单台设备，TensorFlow可以运行在多个[CPU和](https://zh.wikipedia.org/wiki/CPU "wikilink")[GPU](../Page/圖形處理器.md "wikilink")（和可选的[CUDA](../Page/CUDA.md "wikilink")扩展和[图形处理器通用计算](../Page/图形处理器通用计算.md "wikilink")的[SYCL](../Page/SYCL.md "wikilink")扩展）。\[11\]TensorFlow可用于64位[Linux](../Page/Linux.md "wikilink")、[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，以及移动计算平台，包括[Android](../Page/Android.md "wikilink")和[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
-TensorFlow的计算使用有状态的数据流图表示。TensorFlow的名字来源于这类神经网络对多维数组执行的操作。这些多维数组被称为[张量](https://zh.wikipedia.org/wiki/张量 "wikilink")（Tensor）。2016年6月，Jeff
-Dean称在[GitHub有](../Page/GitHub.md "wikilink")1500个库提到了TensorFlow，其中只有5个来自Google。\[12\]
+TensorFlow的计算使用有状态的数据流图表示。TensorFlow的名字来源于这类神经网络对多维数组执行的操作。这些多维数组被称为[张量](https://zh.wikipedia.org/wiki/张量 "wikilink")（Tensor）。2016年6月，Jeff Dean称在[GitHub](../Page/GitHub.md "wikilink")有1500个库提到了TensorFlow，其中只有5个来自Google。\[12\]
 
 ### 张量处理单元（TPU）
 
-2016年5月，Google宣布了[张量处理单元](https://zh.wikipedia.org/wiki/张量处理单元 "wikilink")（TPU），一个专为[机器学习和TensorFlow](../Page/机器学习.md "wikilink")[全定制的](../Page/全定制.md "wikilink")[专用集成电路](https://zh.wikipedia.org/wiki/专用集成电路 "wikilink")。TPU是一个可编程的[人工智能加速器](../Page/人工智能加速器.md "wikilink")，提供高[吞吐量的低精度计算](../Page/吞吐量.md "wikilink")（如[8位](https://zh.wikipedia.org/wiki/8位 "wikilink")），面向使用或运行模型而不是训练模型。Google宣布他们已经在数据中心中运行TPU长达一年多，发现它们对机器学习提供一个[数量级更优的每瓦特性能](../Page/数量级.md "wikilink")。\[13\]
+2016年5月，Google宣布了[张量处理单元](https://zh.wikipedia.org/wiki/张量处理单元 "wikilink")（TPU），一个专为[机器学习](../Page/机器学习.md "wikilink")和TensorFlow[全定制](../Page/全定制.md "wikilink")的[专用集成电路](https://zh.wikipedia.org/wiki/专用集成电路 "wikilink")。TPU是一个可编程的[人工智能加速器](../Page/人工智能加速器.md "wikilink")，提供高[吞吐量](../Page/吞吐量.md "wikilink")的低精度计算（如[8位](https://zh.wikipedia.org/wiki/8位 "wikilink")），面向使用或运行模型而不是训练模型。Google宣布他们已经在数据中心中运行TPU长达一年多，发现它们对机器学习提供一个[数量级](../Page/数量级.md "wikilink")更优的每瓦特性能。\[13\]
 
-2017年5月Google宣布第二代[张量处理单元](https://zh.wikipedia.org/wiki/张量处理单元 "wikilink")，并在中可用。\[14\]第二代TPU提供最高180
-teraflops性能，组装成64个TPU的集群时提供最高11.5 petaflops性能。
+2017年5月Google宣布第二代[张量处理单元](https://zh.wikipedia.org/wiki/张量处理单元 "wikilink")，并在中可用。\[14\]第二代TPU提供最高180 teraflops性能，组装成64个TPU的集群时提供最高11.5 petaflops性能。
 
 ### TensorFlow Lite
 
-[2017年5月Google宣布从](../Page/2017年5月.md "wikilink")[Android
-Oreo开始](../Page/Android_Oreo.md "wikilink")，提供一个专用于Android开发的软件栈TensorFlow
-Lite\[15\]。
+[2017年5月](../Page/2017年5月.md "wikilink")Google宣布从[Android Oreo开始](../Page/Android_Oreo.md "wikilink")，提供一个专用于Android开发的软件栈TensorFlow Lite\[15\]。
 
 ### 应用
 
-[Google于](../Page/Google.md "wikilink")2015年10月26日正式发布了[RankBrain](https://zh.wikipedia.org/wiki/RankBrain "wikilink")，由TensorFlow支持。
+[Google](../Page/Google.md "wikilink")于2015年10月26日正式发布了[RankBrain](https://zh.wikipedia.org/wiki/RankBrain "wikilink")，由TensorFlow支持。
 
 ## 特性
 
-TensorFlow提供了一个[Python
-API](https://www.tensorflow.org/versions/master/api_docs/python/index.html)，以及[C++](https://www.tensorflow.org/versions/master/api_docs/cc/index.html)、[Haskell](https://github.com/tensorflow/haskell)、[Java](https://www.tensorflow.org/api_docs/java/reference/org/tensorflow/package-summary)、[Go](https://godoc.org/github.com/tensorflow/tensorflow/tensorflow/go)和[Rust](https://github.com/tensorflow/rust)
-API。第三方包可用于
-[C\#](https://github.com/migueldeicaza/TensorFlowSharp)、[Julia](https://github.com/malmaud/TensorFlow.jl)、[R](https://github.com/rstudio/tensorflow)和[Scala](https://github.com/eaplatanios/tensorflow_scala)。
+TensorFlow提供了一个[Python API](https://www.tensorflow.org/versions/master/api_docs/python/index.html)，以及[C++](https://www.tensorflow.org/versions/master/api_docs/cc/index.html)、[Haskell](https://github.com/tensorflow/haskell)、[Java](https://www.tensorflow.org/api_docs/java/reference/org/tensorflow/package-summary)、[Go](https://godoc.org/github.com/tensorflow/tensorflow/tensorflow/go)和[Rust](https://github.com/tensorflow/rust) API。第三方包可用于 [C\#](https://github.com/migueldeicaza/TensorFlowSharp)、[Julia](https://github.com/malmaud/TensorFlow.jl)、[R](https://github.com/rstudio/tensorflow)和[Scala](https://github.com/eaplatanios/tensorflow_scala)。
 
-TensorFlow的底层核心引擎由C++实现，通过 [gRPC](https://grpc.io/)
-实现网络互访、分布式执行。虽然它的Python/C++/Java
-API共享了大部分执行代码，但是有关于反向传播梯度计算的部分需要在不同语言单独实现。目前只有Python
-API较为丰富的实现了[反向传播部分](../Page/反向传播算法.md "wikilink")。所以大多数人使用[Python进行模型训练](../Page/Python.md "wikilink")，但是可以选择使用其它语言进行线上推理。
+TensorFlow的底层核心引擎由C++实现，通过 [gRPC](https://grpc.io/) 实现网络互访、分布式执行。虽然它的Python/C++/Java API共享了大部分执行代码，但是有关于反向传播梯度计算的部分需要在不同语言单独实现。目前只有Python API较为丰富的实现了[反向传播部分](../Page/反向传播算法.md "wikilink")。所以大多数人使用[Python](../Page/Python.md "wikilink")进行模型训练，但是可以选择使用其它语言进行线上推理。
 
-TensorFlow在Windows和Linux上支持使用 Bazel 或
-[CMake](../Page/CMake.md "wikilink") 构建，在某些平台上也支持直接使用 [GNU
-Make](https://zh.wikipedia.org/wiki/GNU_make "wikilink") 进行编译。
+TensorFlow在Windows和Linux上支持使用 Bazel 或 [CMake](../Page/CMake.md "wikilink") 构建，在某些平台上也支持直接使用 [GNU Make](https://zh.wikipedia.org/wiki/GNU_make "wikilink") 进行编译。
 
 ## 例子
 
@@ -160,16 +143,17 @@ tf.train.basic_train_loop(sv,train_fn)
 
 假设1.txt的内容为：
 
-3
-2
-5
-8
+    3
+    2
+    5
+    8
+
 那么上述程序的输出应该为：
 
-step 1: grad = 3
-step 2: grad = 2
-step 3: grad = 5
-step 4: grad = 8
+    step 1: grad = 3
+    step 2: grad = 2
+    step 3: grad = 5
+    step 4: grad = 8
 
 ## 应用
 
@@ -193,26 +177,11 @@ step 4: grad = 8
   -
   -
   -
-[Category:数据挖掘和机器学习软件](https://zh.wikipedia.org/wiki/Category:数据挖掘和机器学习软件 "wikilink")
-[Category:机器学习](https://zh.wikipedia.org/wiki/Category:机器学习 "wikilink")
-[Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink")
-[Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink")
-[Category:自由統計軟件](https://zh.wikipedia.org/wiki/Category:自由統計軟件 "wikilink")
-[Category:Python科学库](https://zh.wikipedia.org/wiki/Category:Python科学库 "wikilink")
-[Category:使用Apache许可证的软件](https://zh.wikipedia.org/wiki/Category:使用Apache许可证的软件 "wikilink")
-[Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink")
+[Category:数据挖掘和机器学习软件](https://zh.wikipedia.org/wiki/Category:数据挖掘和机器学习软件 "wikilink") [Category:机器学习](https://zh.wikipedia.org/wiki/Category:机器学习 "wikilink") [Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink") [Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink") [Category:自由統計軟件](https://zh.wikipedia.org/wiki/Category:自由統計軟件 "wikilink") [Category:Python科学库](https://zh.wikipedia.org/wiki/Category:Python科学库 "wikilink") [Category:使用Apache许可证的软件](https://zh.wikipedia.org/wiki/Category:使用Apache许可证的软件 "wikilink") [Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink")
 
-1.  ["TensorFlow: Open source machine
-    learning"](https://www.youtube.com/watch?v=oZikw5k_2FM)  "It is
-    machine learning software being used for various kinds of perceptual
-    and language understanding tasks" — Jeffrey Dean, minute 0:47 / 2:17
-    from Youtube clip
+1.  ["TensorFlow: Open source machine learning"](https://www.youtube.com/watch?v=oZikw5k_2FM)  "It is machine learning software being used for various kinds of perceptual and language understanding tasks" — Jeffrey Dean, minute 0:47 / 2:17 from Youtube clip
 
-2.  ["TensorFlow: Open source machine
-    learning"](https://www.youtube.com/watch?v=oZikw5k_2FM)  "It is
-    machine learning software being used for various kinds of perceptual
-    and language understanding tasks" — Jeffrey Dean, minute 0:47 / 2:17
-    from Youtube clip
+2.  ["TensorFlow: Open source machine learning"](https://www.youtube.com/watch?v=oZikw5k_2FM)  "It is machine learning software being used for various kinds of perceptual and language understanding tasks" — Jeffrey Dean, minute 0:47 / 2:17 from Youtube clip
 
 3.
 
@@ -231,9 +200,7 @@ step 4: grad = 8
 
 11.
 
-12. [Machine Learning: Google I/O 2016
-    Minute 07:30/44:44](https://www.youtube.com/watch?v=Rnm83GqgqPE)
-    accessdate=2016-06-05
+12. [Machine Learning: Google I/O 2016 Minute 07:30/44:44](https://www.youtube.com/watch?v=Rnm83GqgqPE)  accessdate=2016-06-05
 
 13.
 

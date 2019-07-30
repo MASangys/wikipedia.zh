@@ -142,8 +142,7 @@
 </tbody>
 </table>
 
-**Wonder Girls獲獎與提名列表**列舉韓國女子團體[Wonder
-Girls出道以來在重要的頒獎典禮和音樂節目上獲得的獎項](../Page/Wonder_Girls.md "wikilink")。
+**Wonder Girls獲獎與提名列表**列舉韓國女子團體[Wonder Girls出道以來在重要的頒獎典禮和音樂節目上獲得的獎項](../Page/Wonder_Girls.md "wikilink")。
 
 ## 韓國獎項
 
@@ -286,8 +285,7 @@ Girls出道以來在重要的頒獎典禮和音樂節目上獲得的獎項](../P
 
 ### 首爾音樂獎
 
-[首爾音樂獎是從](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")1990年起由首爾體育舉辦、High1
-Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒獎典禮。
+[首爾音樂獎是從](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")1990年起由首爾體育舉辦、High1 Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒獎典禮。
 
 <table>
 <thead>
@@ -340,7 +338,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 
 ### Mnet亞洲音樂大獎
 
-[Mnet亞洲音樂大獎是由](../Page/Mnet亞洲音樂大獎.md "wikilink")[Mnet舉辦的一個](https://zh.wikipedia.org/wiki/Mnet "wikilink")[韓國主要年度音樂頒獎禮](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
+[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")是由[Mnet舉辦的一個](https://zh.wikipedia.org/wiki/Mnet "wikilink")[韓國主要年度音樂頒獎禮](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
 
 <table>
 <thead>
@@ -455,7 +453,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 
 ### 韓國音樂大獎
 
-[韓國音樂大獎是](../Page/韓國音樂大獎.md "wikilink")[韓國一個主要的年度音樂頒獎禮](https://zh.wikipedia.org/wiki/韓國 "wikilink")。由知名樂評、製作人、音樂圈專業人士等擔任評審。每年大約二月會頒發獎項給前一年表現最好的歌手。
+[韓國音樂大獎](../Page/韓國音樂大獎.md "wikilink")是[韓國一個主要的年度音樂頒獎禮](https://zh.wikipedia.org/wiki/韓國 "wikilink")。由知名樂評、製作人、音樂圈專業人士等擔任評審。每年大約二月會頒發獎項給前一年表現最好的歌手。
 
 <table>
 <thead>
@@ -626,7 +624,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 
 ### 甜瓜音樂獎
 
-[甜瓜音樂獎是韓國](../Page/甜瓜音樂獎.md "wikilink")[LOEN娛樂的在線音樂網站](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")「[MelOn](https://zh.wikipedia.org/wiki/LOEN娛樂#Melon "wikilink")」自2009年開始每年舉辦的韓國主要音樂頒獎禮，只遵循該網站數位音樂銷售量和網上投票來決定得獎者。
+[甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")是韓國[LOEN娛樂的在線音樂網站](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")「[MelOn](https://zh.wikipedia.org/wiki/LOEN娛樂#Melon "wikilink")」自2009年開始每年舉辦的韓國主要音樂頒獎禮，只遵循該網站數位音樂銷售量和網上投票來決定得獎者。
 
 <table>
 <thead>
@@ -1080,13 +1078,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 
 ## 音樂節目
 
-以下為[Wonder
-Girls在](../Page/Wonder_Girls.md "wikilink")[韓國音樂節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Music
-Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》、[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show\!
-音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》、
-[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》、MBC
-Music《[Show Champion](../Page/Show_Champion.md "wikilink")》中獲得1位的記錄。
+以下為[Wonder Girls在](../Page/Wonder_Girls.md "wikilink")[韓國音樂節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》、[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》、 [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》、MBC Music《[Show Champion](../Page/Show_Champion.md "wikilink")》中獲得1位的記錄。
 
 ### Music Bank
 
@@ -1174,63 +1166,38 @@ Music《[Show Champion](../Page/Show_Champion.md "wikilink")》中獲得1位的�
 
 ## 註釋與參考資料
 
-[Category:Wonder_Girls](https://zh.wikipedia.org/wiki/Category:Wonder_Girls "wikilink")
-[Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink")
+[Category:Wonder_Girls](https://zh.wikipedia.org/wiki/Category:Wonder_Girls "wikilink") [Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink")
 
 1.
 
-2.  [2007 Golden Disk
-    Awards](http://forums.soompi.com/discussion/175919/x).
-    *soompi*.November 7, 2007.
+2.  [2007 Golden Disk Awards](http://forums.soompi.com/discussion/175919/x). *soompi*.November 7, 2007.
 
 3.
-4.  [Wonder Girls Nominations at the 23rd Golden Disk
-    Awards](http://wondergirls.wordpress.com/2008/11/08/wonder-girls-nominations-at-the-23rd-golden-disk-awards/).
-    Wonder Girls Wordpress. November 8, 2008
+4.  [Wonder Girls Nominations at the 23rd Golden Disk Awards](http://wondergirls.wordpress.com/2008/11/08/wonder-girls-nominations-at-the-23rd-golden-disk-awards/). Wonder Girls Wordpress. November 8, 2008
 
-5.  [Vote for Wonder Girls for the 2010 Golden Disk
-    Awards\!](http://wonderfulsworld.com/2010/11/25/vote-for-wonder-girls-for-the-2010-golden-disk-awards/).
-    wonderfulsworld. November 25, 2010.
+5.  [Vote for Wonder Girls for the 2010 Golden Disk Awards\!](http://wonderfulsworld.com/2010/11/25/vote-for-wonder-girls-for-the-2010-golden-disk-awards/). wonderfulsworld. November 25, 2010.
 
-6.  [Golden Disk Awards in Malaysia: List of
-    nominees](http://www.hellokpop.com/2012/12/08/golden-disk-awards-in-malaysia-list-of-nominees/).
-    hellokpop. December 8, 2012
+6.  [Golden Disk Awards in Malaysia: List of nominees](http://www.hellokpop.com/2012/12/08/golden-disk-awards-in-malaysia-list-of-nominees/). hellokpop. December 8, 2012
 
-7.  [GALAXY The 27th GDA in Kuala Lumpur
-    Nominees](http://hype.my/2012/12/samsung-galaxy-the-27th-gda-in-kuala-lumpur-nominees/Samsung).
-    *Hype Malaysia*. December 10, 2012.
+7.  [GALAXY The 27th GDA in Kuala Lumpur Nominees](http://hype.my/2012/12/samsung-galaxy-the-27th-gda-in-kuala-lumpur-nominees/Samsung). *Hype Malaysia*. December 10, 2012.
 
 8.
 
 9.
 10.
-11. [원더걸스, \`서울가요대상\` 대상 (*Wonder Girls, "Seoul Music Awards" Artist of
-    the
-    Year*)](http://news.joins.com/article/3491360.html?ctg=1502&cloc=home%7Cstar%7Cstar_article).
-    *[Joins.com](https://zh.wikipedia.org/wiki/JoongAng_Ilbo "wikilink")*.
-    February 12, 2009. Retrieved February 12, 2009.
+11. [원더걸스, \`서울가요대상\` 대상 (*Wonder Girls, "Seoul Music Awards" Artist of the Year*)](http://news.joins.com/article/3491360.html?ctg=1502&cloc=home%7Cstar%7Cstar_article). *[Joins.com](https://zh.wikipedia.org/wiki/JoongAng_Ilbo "wikilink")*. February 12, 2009. Retrieved February 12, 2009.
 
 12.
 
-13. ["2007 Mnet KM Music Festival
-    Part1"](http://mwave.interest.me/mnettv/videodetail.m?searchVideoDetailVO.clip_id=75123).
-    *MAMA*. Retrieved 2014-12-14.
+13. ["2007 Mnet KM Music Festival Part1"](http://mwave.interest.me/mnettv/videodetail.m?searchVideoDetailVO.clip_id=75123). *MAMA*. Retrieved 2014-12-14.
 
-14. Kim, Shi-eun. [‘MKMF 3관왕’ 원더걸스 “변치 않는 원더걸스 되겠다” (''MKMF Triple
-    Winner Wonder Girls "Will Never
-    Change")](http://www.hankyung.com/news/app/newsview.php?aid=2008111638117&sid=01073305&nid=007&ltype=1&pkind=all).
-    *[HanKyung.com](https://zh.wikipedia.org/wiki/Korea_Economic_Daily "wikilink")*.
-    November 16, 2008. Retrieved November 16, 2008.
+14. Kim, Shi-eun. [‘MKMF 3관왕’ 원더걸스 “변치 않는 원더걸스 되겠다” (''MKMF Triple Winner Wonder Girls "Will Never Change")](http://www.hankyung.com/news/app/newsview.php?aid=2008111638117&sid=01073305&nid=007&ltype=1&pkind=all). *[HanKyung.com](https://zh.wikipedia.org/wiki/Korea_Economic_Daily "wikilink")*. November 16, 2008. Retrieved November 16, 2008.
 
 15.
 
-16. [\[NEWS](http://yeeun-impact.net/blog/news-090204-wonder-girls-nominated-for-3-korean-music-awards/)
-    090204 Wonder Girls Nominated for 3 Korean Music Awards\] .
-    yeeunimpact. February 4, 2009.
+16. [\[NEWS](http://yeeun-impact.net/blog/news-090204-wonder-girls-nominated-for-3-korean-music-awards/) 090204 Wonder Girls Nominated for 3 Korean Music Awards\] . yeeunimpact. February 4, 2009.
 
-17.  [한국대중음악상, 아이돌 가수는 후보제외‥그
-    기준은?](http://www.newsen.com/news_view.php?uid=200902041135461002&search=title&searchstring=%C7%D1%B1%B9%B4%EB%C1%DF%C0%BD%BE%C7%BB%F3).
-    *Newsen*. February 4, 2009.
+17.  [한국대중음악상, 아이돌 가수는 후보제외‥그 기준은?](http://www.newsen.com/news_view.php?uid=200902041135461002&search=title&searchstring=%C7%D1%B1%B9%B4%EB%C1%DF%C0%BD%BE%C7%BB%F3). *Newsen*. February 4, 2009.
 
 18.
 
@@ -1238,20 +1205,12 @@ Music《[Show Champion](../Page/Show_Champion.md "wikilink")》中獲得1位的�
 
 20.
 
-21. [2008 MNet Choice Awards
-    Results](http://www.allkpop.com/2008/08/2008_mnet_choice_awards_results)
-    . allkpop. August 23, 2008.
+21. [2008 MNet Choice Awards Results](http://www.allkpop.com/2008/08/2008_mnet_choice_awards_results) . allkpop. August 23, 2008.
 
-22. [Bugs reveals the results for “2010 Bugs Music
-    Awards”](http://www.allkpop.com/2010/12/bugs-reveals-the-results-for-2010-bugs-music-awards).
-    *allkpop*. December 14, 2010.
+22. [Bugs reveals the results for “2010 Bugs Music Awards”](http://www.allkpop.com/2010/12/bugs-reveals-the-results-for-2010-bugs-music-awards). *allkpop*. December 14, 2010.
 
-23.  [소녀시대, 벅스뮤직어워드 '올해의 노래'
-    등 3관왕](http://news.nate.com/view/20101215n10573). *Nate*.
-    December 15, 2010.
+23.  [소녀시대, 벅스뮤직어워드 '올해의 노래' 등 3관왕](http://news.nate.com/view/20101215n10573). *Nate*. December 15, 2010.
 
 24. Gaon Chart Awards
 
-25. [Super Junior wins 2008 MTV Asia
-    Award](http://www.allkpop.com/2008/08/super_junior_wins_2008_mtv_asia_award)
-    . *allkpop*. August 2, 2008.
+25. [Super Junior wins 2008 MTV Asia Award](http://www.allkpop.com/2008/08/super_junior_wins_2008_mtv_asia_award) . *allkpop*. August 2, 2008.

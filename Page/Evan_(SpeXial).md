@@ -1,12 +1,10 @@
-**馬振桓**（英文名：**Evan**，），藝名**Evan**。粉絲名為「小木馬」。2歲半時隨著父母移民到[加拿大](../Page/加拿大.md "wikilink")[溫哥華](../Page/溫哥華.md "wikilink")。2012年加拿大[SunShine
-Nation](../Page/SunShine_Nation.md "wikilink")-Sunshine
-Boys比賽冠軍。後為台灣團體[SpeXial第二期成員](../Page/SpeXial.md "wikilink")，與[晨翔](https://zh.wikipedia.org/wiki/晨翔 "wikilink")、[Teddy於](../Page/Teddy_\(SpeXial\).md "wikilink")2014年6月5日正式出道。在團內擔任副主唱、[英文Rapper](../Page/饒舌.md "wikilink")、[英文擔當](https://zh.wikipedia.org/wiki/英語 "wikilink")。被列為[SpeXial最帥的](../Page/SpeXial.md "wikilink")。
+**馬振桓**（英文名：**Evan**，），藝名**Evan**。粉絲名為「小木馬」。2歲半時隨著父母移民到[加拿大](../Page/加拿大.md "wikilink")[溫哥華](../Page/溫哥華.md "wikilink")。2012年加拿大[SunShine Nation](../Page/SunShine_Nation.md "wikilink")-Sunshine Boys比賽冠軍。後為台灣團體[SpeXial](../Page/SpeXial.md "wikilink")第二期成員，與[晨翔](https://zh.wikipedia.org/wiki/晨翔 "wikilink")、[Teddy於](../Page/Teddy_\(SpeXial\).md "wikilink")2014年6月5日正式出道。在團內擔任副主唱、[英文Rapper](../Page/饒舌.md "wikilink")、[英文擔當](https://zh.wikipedia.org/wiki/英語 "wikilink")。被列為[SpeXial](../Page/SpeXial.md "wikilink")最帥的。
 
 
 
 ## 音樂作品
 
-<small>所屬團體[SpeXial之音樂作品](../Page/SpeXial.md "wikilink")，請參考[SpeXial](../Page/SpeXial.md "wikilink")。</small>
+<small>所屬團體[SpeXial](../Page/SpeXial.md "wikilink")之音樂作品，請參考[SpeXial](../Page/SpeXial.md "wikilink")。</small>
 
 ### 個人單曲
 
@@ -18,7 +16,7 @@ Boys比賽冠軍。後為台灣團體[SpeXial第二期成員](../Page/SpeXial.md
 
 ## 影視作品
 
-<small>所屬團體[SpeXial之團體影視作品請參考](../Page/SpeXial.md "wikilink")[SpeXial](../Page/SpeXial.md "wikilink")。</small>
+<small>所屬團體[SpeXial](../Page/SpeXial.md "wikilink")之團體影視作品請參考[SpeXial](../Page/SpeXial.md "wikilink")。</small>
 
 ### 電視劇
 
@@ -58,8 +56,4 @@ Boys比賽冠軍。後為台灣團體[SpeXial第二期成員](../Page/SpeXial.md
   - [SpeXial-Evan](https://www.instagram.com/sx_evanma)的Instagram專頁
   - [SpeXial-Evan](http://www.weibo.com/spexialevan)的新浪微博
 
-[Category:臺灣電視男演員](https://zh.wikipedia.org/wiki/Category:臺灣電視男演員 "wikilink")
-[Category:台灣男歌手](https://zh.wikipedia.org/wiki/Category:台灣男歌手 "wikilink")
-[Category:1992年出生](https://zh.wikipedia.org/wiki/Category:1992年出生 "wikilink")
-[Category:馬姓](https://zh.wikipedia.org/wiki/Category:馬姓 "wikilink")
-[Category:SpeXial](https://zh.wikipedia.org/wiki/Category:SpeXial "wikilink")
+[Category:臺灣電視男演員](https://zh.wikipedia.org/wiki/Category:臺灣電視男演員 "wikilink") [Category:台灣男歌手](https://zh.wikipedia.org/wiki/Category:台灣男歌手 "wikilink") [Category:1992年出生](https://zh.wikipedia.org/wiki/Category:1992年出生 "wikilink") [Category:馬姓](https://zh.wikipedia.org/wiki/Category:馬姓 "wikilink") [Category:SpeXial](https://zh.wikipedia.org/wiki/Category:SpeXial "wikilink")

@@ -909,6 +909,25 @@
 <td><p>全12話</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>已完結</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/7SEEDS_幻海奇情.md" title="wikilink">7SEEDS 幻海奇情</a><br />
+</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/科幻" title="wikilink">科幻</a>/<a href="https://zh.wikipedia.org/wiki/奇幻" title="wikilink">奇幻</a></p></td>
+<td></td>
+<td><p>全1季</p></td>
+<td><p>全12話</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -1568,7 +1587,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/克里斯·塔克.md" title="wikilink">克里斯·塔克Live秀</a></p></td>
+<td><p><a href="../Page/克里斯·塔克.md" title="wikilink">克里斯·塔克</a>Live秀</p></td>
 <td><p><em>Chris Tucker: Chris Tucker Live</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/獨角喜劇" title="wikilink">獨角喜劇</a></p></td>
 <td></td>
@@ -2439,8 +2458,7 @@
 
 ## 資料來源
 
-[Category:Netflix原创节目](https://zh.wikipedia.org/wiki/Category:Netflix原创节目 "wikilink")
-[Category:各電視台節目列表](https://zh.wikipedia.org/wiki/Category:各電視台節目列表 "wikilink")
+[Category:Netflix原创节目](https://zh.wikipedia.org/wiki/Category:Netflix原创节目 "wikilink") [Category:各電視台節目列表](https://zh.wikipedia.org/wiki/Category:各電視台節目列表 "wikilink")
 
 1.
 2.

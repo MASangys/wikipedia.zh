@@ -1,4 +1,4 @@
-《**假面騎士Ghost**》（，），從2015年10月4日起於[朝日電視台](../Page/朝日電視台.md "wikilink")，每週日早上8:00-8:30播出的日本[特攝電視劇](https://zh.wikipedia.org/wiki/特攝 "wikilink")，假面騎士Ghost也是該劇主角變身的名字。本作為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第17部[平成系列作品](../Page/平成.md "wikilink")，口號是「燃燒生命吧！」、「英雄，是不停復活」、「幽靈眼魂爭奪戰！！」。
+《**假面騎士Ghost**》（，），從2015年10月4日起於[朝日電視台](../Page/朝日電視台.md "wikilink")，每週日早上8:00-8:30播出的日本[特攝電視劇](https://zh.wikipedia.org/wiki/特攝 "wikilink")，假面騎士Ghost也是該劇主角變身的名字。本作為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第17部[平成](../Page/平成.md "wikilink")系列作品，口號是「燃燒生命吧！」、「英雄，是不停復活」、「幽靈眼魂爭奪戰！！」。
 
 台灣的東森綜合台及東森超視台於《假面騎士鎧武》播映完畢後，跳過本作與前作《假面騎士Drive》播出《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》。故此，本作是繼《[假面騎士顎門](https://zh.wikipedia.org/wiki/假面騎士顎門 "wikilink")》、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》、《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》後，第四部沒有在台灣播出的平成假面騎士作品。
 
@@ -10,11 +10,7 @@
 
   -
     首次採用以世界歷史中存在的偉人英靈作為變身元素，主角設定上同樣為死者。\[1\]\[2\]\[3\]
-    本作世界觀設定與前作《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》和續作《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》相連\[4\]，之後於2017年上映的《[假面騎士平成Generations
-    FINAL Build & EX-AID with
-    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》實为同一世界觀，在《[劇場版
-    假面騎士Drive SURPRISE
-    FUTURE](https://zh.wikipedia.org/wiki/劇場版_假面騎士Drive_SURPRISE_FUTURE "wikilink")》裡先行現身，亦繼後在劇中再次使用「**假面騎士**」一詞稱呼。
+    本作世界觀設定與前作《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》和續作《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》相連\[4\]，之後於2017年上映的《[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》實为同一世界觀，在《[劇場版 假面騎士Drive SURPRISE FUTURE](https://zh.wikipedia.org/wiki/劇場版_假面騎士Drive_SURPRISE_FUTURE "wikilink")》裡先行現身，亦繼後在劇中再次使用「**假面騎士**」一詞稱呼。
     雖然有明確使用「**假面騎士**」一詞，但相對其它有使用「**假面騎士**」的作品，本作除第1、49、50話及每話開頭前男主角的旁白外基本上沒有提及。而各假面騎士的名稱在劇中同樣甚少提及，即使變身後各假面騎士及敵方亦會直呼變身者的名字。
     怪人「眼魔」一詞是繼《[假面騎士響鬼](https://zh.wikipedia.org/wiki/假面騎士響鬼 "wikilink")》後再次使用漢字命名，而非使用日式合併的原創英字或是正統英文。
     製作團隊為謳歌前作《[假面騎士](../Page/假面騎士.md "wikilink")》的「怪奇戲劇」理念而採用「鬼怪」作為本作主要的特色，使用「眼球」作元素是因為假面騎士1號及2號的腰帶形狀與眼睛相似。外型設計上以樸素先決，望求與前作《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的機械感造成極端的反差，另外同時創新採用了以布料外衣作為變化形態的元素。\[5\]
@@ -29,8 +25,7 @@
 ## 故事概要
 
   -
-    一心想成為幽靈獵人的天空寺尊於18歲生日時，收到來自十年前亡父生前所寄的幽靈眼魂（Ghost
-    Eyecon）後，突如其來地來自異世界的怪人眼魔出現在面前並盯上此物，甚至為救青梅竹馬月村朱里和御成而身亡。
+    一心想成為幽靈獵人的天空寺尊於18歲生日時，收到來自十年前亡父生前所寄的幽靈眼魂（Ghost Eyecon）後，突如其來地來自異世界的怪人眼魔出現在面前並盯上此物，甚至為救青梅竹馬月村朱里和御成而身亡。
     得到仙人的幫助之下而獲得Ghost驅動器變身，成為假面騎士Ghost並得以九十九日短暫的生命復甦。
     為了收集能實現願望的十五個英雄眼魂，而即將投身影響世界命運的戰鬥中。
 
@@ -67,8 +62,7 @@
     若特定人類內心信念強烈至與英雄或偉人遺物產生共鳴後，向該遺物結印出眼睛徽章會化成所屬名為「Parka幽靈」的英雄靈魂，再透過Ghost驅動器能夠進一步轉化成為幽靈眼魂。
     若齊集十五個幽靈眼魂，並帶到石碑前進行儀式便能夠實現任何一個願望，但如果沒有Ghost驅動器便沒有許願的資格。
     而許完一次願望之後十五個幽靈眼魂將會四散，如果再需要許願的話必須再次齊集十五個幽靈眼魂才可以。
-    （有關幽靈眼魂的種類，請參閱「[幽靈眼魂（Ghost
-    Eyecon）](https://zh.wikipedia.org/wiki/假面騎士Ghost#幽靈眼魂（Ghost_Eyecon） "wikilink")」一欄）
+    （有關幽靈眼魂的種類，請參閱「[幽靈眼魂（Ghost Eyecon）](https://zh.wikipedia.org/wiki/假面騎士Ghost#幽靈眼魂（Ghost_Eyecon） "wikilink")」一欄）
 
 :;Parka幽靈（Parka Ghosts）
 
@@ -95,8 +89,7 @@
     原文：
     本作假面騎士專用的結合動物特性和日常品的支援型小道具。
     主要可變形成為「動物模式」與「工具模式」，各自都擁有自我意識去作適當的協助，亦可與專屬的武器結合以應付不同狀況的戰鬥。
-    （有關幽靈小工具的種類，請參閱「[幽靈小工具（Ghost
-    Gadgets）](https://zh.wikipedia.org/wiki/假面騎士Ghost#幽靈小工具（Ghost_Gadgets） "wikilink")」一欄）
+    （有關幽靈小工具的種類，請參閱「[幽靈小工具（Ghost Gadgets）](https://zh.wikipedia.org/wiki/假面騎士Ghost#幽靈小工具（Ghost_Gadgets） "wikilink")」一欄）
 
 <!-- end list -->
 
@@ -157,10 +150,8 @@
   - Demia Project
     原文：
     伊格爾與阿迪爾所推動的謎之計畫，此計畫利用到Deep Connect的技術。
-    後得知是透過Deep
-    Connect所開發的特殊電子隱形眼鏡得以與世界各種系統進行連接從中獲取相關知識造福人群（但事實上是透過此項技術將人類世界轉化為眼魔世界並且將兩個世界合二為一）
-    此項計畫共分為測試版本及正式版本，測試版的伺服器位於Deep Connect總公司，而正式版的伺服器則放置在Deep
-    Connect旗下所管理的一座廢棄教堂。
+    後得知是透過Deep Connect所開發的特殊電子隱形眼鏡得以與世界各種系統進行連接從中獲取相關知識造福人群（但事實上是透過此項技術將人類世界轉化為眼魔世界並且將兩個世界合二為一）
+    此項計畫共分為測試版本及正式版本，測試版的伺服器位於Deep Connect總公司，而正式版的伺服器則放置在Deep Connect旗下所管理的一座廢棄教堂。
     測試版本已遭到解除，但正式版因阿迪爾代替遭破壞的伺服器而完全啟動。
 
 ## 登場人物
@@ -223,7 +214,7 @@ Ghost驅動器拉推手把「Detonate Trigger」四次後發動，向目標送�
 跳躍力：41.0m<br />
 行動速度：100m / 5.7秒</p></td>
 <td><p>全身以紅色、銀色和黑色為主，頭部位置增添刀柄型及頭巾型的配件，面部圖案為交叉的日本刀</p></td>
-<td><p>寄宿劍豪<a href="../Page/宮本武藏.md" title="wikilink">宮本武藏靈魂的力量</a>，使用二刀流的劍術形態，適合以一敵眾應付群體式戰鬥，唯一的弱點則是對電擊類的攻擊沒有抗性。</p></td>
+<td><p>寄宿劍豪<a href="../Page/宮本武藏.md" title="wikilink">宮本武藏</a>靈魂的力量，使用二刀流的劍術形態，適合以一敵眾應付群體式戰鬥，唯一的弱點則是對電擊類的攻擊沒有抗性。</p></td>
 <td><p><strong>Omega Slash</strong><br />
 原文：<br />
 眼槍劍「二刀流模式」之下將「Energy Eye Crest」放於Ghost驅動器「Glint Eye」感應後發動。能夠向敵人送上最大力量輸出的必殺斬擊；如再拉推Ghost驅動器的手掣「Detonate Trigger」後會發動附帶火焰的強化形式能量性斬擊。<br />
@@ -320,7 +311,7 @@ Ghost驅動器拉推手把「Detonate Trigger」後發動，釋放出最大功�
 跳躍力：45.0m<br />
 行動速度：100m / 4.7秒</p></td>
 <td><p>全身以紅棕色、黑色和白色為主，頭部上增添西部牛仔帽，面部圖案為正視的轉輪手槍</p></td>
-<td><p>寄宿西部槍手<a href="../Page/比利小子.md" title="wikilink">比利小子靈魂的力量</a>，以攻為守的遠距連射模式的步槍手型態。</p></td>
+<td><p>寄宿西部槍手<a href="../Page/比利小子.md" title="wikilink">比利小子</a>靈魂的力量，以攻為守的遠距連射模式的步槍手型態。</p></td>
 <td><p><strong>Omega Impact</strong><br />
 原文：<br />
 眼槍劍「步槍模式」之下將「Energy Eye Crest」放於Ghost驅動器「Glint Eye」感應後發動，向目標擊發強大力量的光束子彈。<br />
@@ -354,7 +345,7 @@ Ghost驅動器拉推手把「Detonate Trigger」後發動，釋放出最大功�
 <td><p>原文：<br />
 我魂形態下使用「Goemon」幽靈眼魂變身的形態</p></td>
 <td><p>全身以黑色和黃綠色為主，面部圖案為歌舞伎的化妝面譜</p></td>
-<td><p>寄宿大盜<a href="../Page/石川五右衛門.md" title="wikilink">石川五右衛門靈魂的力量</a>，運用忍者戰鬥技巧的型態。</p></td>
+<td><p>寄宿大盜<a href="../Page/石川五右衛門.md" title="wikilink">石川五右衛門</a>靈魂的力量，運用忍者戰鬥技巧的型態。</p></td>
 <td><p><strong>Omega Drive Goemon</strong><br />
 原文：<br />
 所屬的騎士踢。<br />
@@ -427,7 +418,7 @@ Ghost驅動器拉推手把「Detonate Trigger」後發動，釋放出霧氣力�
 跳躍力：43.5m<br />
 行動速度：100m / 4.0秒</p></td>
 <td><p>全身以紅色、黃綠色和黑色為主，面部圖案為歌舞伎的化妝面譜</p></td>
-<td><p>寄宿大盜<a href="../Page/石川五右衛門.md" title="wikilink">石川五右衛門靈魂的力量</a>，運用忍者戰鬥技巧的型態，並能夠通過搭配<strong>鬥魂鼓舞魂</strong>形態再作綜合性的強化。</p></td>
+<td><p>寄宿大盜<a href="../Page/石川五右衛門.md" title="wikilink">石川五右衛門</a>靈魂的力量，運用忍者戰鬥技巧的型態，並能夠通過搭配<strong>鬥魂鼓舞魂</strong>形態再作綜合性的強化。</p></td>
 <td><p><strong>Omega Drive Goemon</strong><br />
 原文：<br />
 所屬的騎士踢。<br />
@@ -639,7 +630,7 @@ Ghost驅動器拉推手把「Detonate Trigger」後發動。眼槍劍「長劍�
 <td><p>原文：<br />
 利用「Ikkyu」幽靈眼魂變身的形態</p></td>
 <td><p>全身以白色、水藍色和黑色為主，面部圖案為問號</p></td>
-<td><p>於月刊雜誌《てれびくん》特別篇DVD中登場，寄宿奇僧<a href="../Page/一休.md" title="wikilink">一休靈魂的力量</a>，擅長運用機智的和尚型態。</p></td>
+<td><p>於月刊雜誌《てれびくん》特別篇DVD中登場，寄宿奇僧<a href="../Page/一休.md" title="wikilink">一休</a>靈魂的力量，擅長運用機智的和尚型態。</p></td>
 <td><p><strong>Omega Drive Ikkyu</strong><br />
 原文：<br />
 所屬的騎士踢。</p></td>
@@ -728,15 +719,8 @@ Ghost驅動器拉推手把「Detonate Trigger」後發動。眼槍劍「長劍�
     原文： / *Gan Gun Saber*
     多元化變形的長劍武器。
     在不同的狀況之下可隨之拆卸及組合成為「長劍模式」、「二刀流模式」、「銃模式」和「薙刀模式」，亦可利用多種幽靈小工具併合成另類模式的武器。
-    當準備發動必殺技時，先將護手部位的眼睛圖紋裝置「Energy Eye Crest」接觸於Ghost驅動器正中眼球位置「Glint
-    Eye」中感應並發出音效「Daikaigan！（原文「」，漢字為「大開眼」）」，再連續發出待機音效「Gan Gun
-    Mina！（原文「」，即是「」，中文為「眼槍看見」的意思）後扣下板機裝置「Gan Gun
-    Trigger」以發動必殺技 ，「長劍模式」扣下板機後所發出音效是「Omega
-    Break！」；「二刀流模式」音效則是「Omega
-    Slash！」；「銃模式」音效則是「Omega
-    Shoot！」；「薙刀模式」音效則是「Omega Stream！」。
-    （幽靈小工具所併合的武器模式及發動必殺技音效請詳見「[幽靈小工具（Ghost
-    Gadgets）](https://zh.wikipedia.org/wiki/假面騎士Ghost#幽靈小工具（Ghost_Gadgets） "wikilink")」一欄）
+    當準備發動必殺技時，先將護手部位的眼睛圖紋裝置「Energy Eye Crest」接觸於Ghost驅動器正中眼球位置「Glint Eye」中感應並發出音效「Daikaigan！（原文「」，漢字為「大開眼」）」，再連續發出待機音效「Gan Gun Mina！（原文「」，即是「」，中文為「眼槍看見」的意思）後扣下板機裝置「Gan Gun Trigger」以發動必殺技 ，「長劍模式」扣下板機後所發出音效是「Omega Break！」；「二刀流模式」音效則是「Omega Slash！」；「銃模式」音效則是「Omega Shoot！」；「薙刀模式」音效則是「Omega Stream！」。
+    （幽靈小工具所併合的武器模式及發動必殺技音效請詳見「[幽靈小工具（Ghost Gadgets）](https://zh.wikipedia.org/wiki/假面騎士Ghost#幽靈小工具（Ghost_Gadgets） "wikilink")」一欄）
 
 <!-- end list -->
 
@@ -747,13 +731,8 @@ Ghost驅動器拉推手把「Detonate Trigger」後發動。眼槍劍「長劍�
   -
     原文： / *Sunglass Slasher*
     鬥魂鼓舞魂形態專用的刀槍兩用型武器，根據狀況可轉換成為「衝擊槍模式」和「刀模式」，感恩魂及無限魂同樣可使用。
-    設置在護手的眼鏡型裝置「Blender Furnace」是能源反應-{}-爐的所在，內藏的兩個插槽「Dual Eye
-    Socket」用作裝上兩種幽靈眼魂以推動反應-{}-爐至最高幅度來使出混合屬性必殺技。
-    當兩個幽靈眼魂接入插槽「Dual Eye Socket」後會連續發出待機音效「Mega
-    Mabushi！（原文「，即是「」，中文為「很刺眼！」的意思）」，再合上太陽鏡型罩蓋「Mega
-    Shade」後會發出「Toucon
-    Daikaigan！（原文「」，漢字為「鬥魂大開眼！」）」的音效，在「衝擊槍模式」扣下板機發動必殺技所發出音效是「Mega
-    Omega Flash！」；「刀模式」音效則是「Mega Omega Shine！」。
+    設置在護手的眼鏡型裝置「Blender Furnace」是能源反應-{}-爐的所在，內藏的兩個插槽「Dual Eye Socket」用作裝上兩種幽靈眼魂以推動反應-{}-爐至最高幅度來使出混合屬性必殺技。
+    當兩個幽靈眼魂接入插槽「Dual Eye Socket」後會連續發出待機音效「Mega Mabushi！（原文「，即是「」，中文為「很刺眼！」的意思）」，再合上太陽鏡型罩蓋「Mega Shade」後會發出「Toucon Daikaigan！（原文「」，漢字為「鬥魂大開眼！」）」的音效，在「衝擊槍模式」扣下板機發動必殺技所發出音效是「Mega Omega Flash！」；「刀模式」音效則是「Mega Omega Shine！」。
 
 ### 假面騎士Specter
 
@@ -803,7 +782,7 @@ Ghost驅動器拉推手把「Detonate Trigger」後發動。眼槍劍「長劍�
 跳躍力：42.5m<br />
 行動速度：100m / 5.8秒</p></td>
 <td><p>全身以紫色、金色和黑色為主，頭部後額位置增添髮髻型配件及遮蓋雙腕布衣，面部圖案為交叉形狀的兩把火繩槍</p></td>
-<td><p>寄宿日本戰國武將<a href="../Page/織田信長.md" title="wikilink">織田信長靈魂的力量</a>，運用極致的頭腦達到最有效之戰術的武將型態。</p></td>
+<td><p>寄宿日本戰國武將<a href="../Page/織田信長.md" title="wikilink">織田信長</a>靈魂的力量，運用極致的頭腦達到最有效之戰術的武將型態。</p></td>
 <td><p><strong>Omega Spark</strong><br />
 原文：<br />
 眼手槍「槍模式」之下將「Energy Eye Crest」放於Ghost驅動器「Glint Eye」感應後發動，分化出多個眼手槍的能量形體後，再向目標作出密集式的射擊。<br />
@@ -1021,13 +1000,8 @@ Ghost驅動器拉推手把「Detonate Trigger」後發動。眼槍劍「長劍�
     多元化變形的長槍武器，假面騎士Ghost感恩魂同樣可使用。
     在不同的形態可隨之轉換成為「棍模式」和「槍模式」，亦可利用多種幽靈小工具併合成另類模式的武器。
     槍身具有長短伸縮的能力；槍端帶有的手形配件除可作錘撃敵人或抓物之外，亦可放出高壓式能量波動以破壞所接觸的目標內部機能。
-    當準備發動必殺技時，先將護手部位的眼睛圖紋裝置「Energy Eye Crest」接觸於Ghost驅動器正中眼球位置「Glint
-    Eye」中感應並發出音效「Daikaigan！（原文「ダイカイガン！」，漢字為「大開眼」）」，再連續發出待機音效「Gan Gun
-    Mino！（原文「ガンガンミロー！」，即是「ガンガン見ろ！」，中文為「眼槍看見」的意思）後扣下板機裝置「Gan Gun
-    Trigger」以發動必殺技 ，「槍模式」扣下板機後所發出音效是「Omega Spark！」；「棍模式」音效則是「Omega
-    Smash！」。
-    （幽靈小工具所併合的武器模式及發動必殺技音效請詳見「[幽靈小工具（Ghost
-    Gadgets）](https://zh.wikipedia.org/wiki/假面騎士Ghost#幽靈小工具（Ghost_Gadgets） "wikilink")」一欄）
+    當準備發動必殺技時，先將護手部位的眼睛圖紋裝置「Energy Eye Crest」接觸於Ghost驅動器正中眼球位置「Glint Eye」中感應並發出音效「Daikaigan！（原文「ダイカイガン！」，漢字為「大開眼」）」，再連續發出待機音效「Gan Gun Mino！（原文「ガンガンミロー！」，即是「ガンガン見ろ！」，中文為「眼槍看見」的意思）後扣下板機裝置「Gan Gun Trigger」以發動必殺技 ，「槍模式」扣下板機後所發出音效是「Omega Spark！」；「棍模式」音效則是「Omega Smash！」。
+    （幽靈小工具所併合的武器模式及發動必殺技音效請詳見「[幽靈小工具（Ghost Gadgets）](https://zh.wikipedia.org/wiki/假面騎士Ghost#幽靈小工具（Ghost_Gadgets） "wikilink")」一欄）
 
 <!-- end list -->
 
@@ -1038,13 +1012,8 @@ Ghost驅動器拉推手把「Detonate Trigger」後發動。眼槍劍「長劍�
   -
     原文： / *Deep Slasher*
     深淵亡靈魂形態專用的刀槍兩用型武器，根據狀況可轉換成為「衝擊槍模式」和「刀模式」。
-    設置在護手的眼鏡型裝置「Blender Furnace」是能源反應-{}-爐的所在，內藏的兩個插槽「Dual Eye
-    Socket」用作裝上兩種幽靈眼魂以推動反應-{}-爐至最高幅度來使出混合屬性必殺技。
-    當兩個幽靈眼魂接入插槽「Dual Eye Socket」後會連續發出待機音效「Mega
-    Hageshi！（原文「，即是「」，中文為「很刺眼！」的意思）」，再合上深淵鏡型罩蓋「Mega
-    Shade」後會發出「Kyokugen
-    Daikaigan！（原文「」，漢字為「闘魂大開眼！」）」的音效，在「衝擊槍模式」扣下板機發動必殺技所發出音效是「Giga
-    Omega Dama！」；「刀模式」音效則是「Giga Omega Giri！」。
+    設置在護手的眼鏡型裝置「Blender Furnace」是能源反應-{}-爐的所在，內藏的兩個插槽「Dual Eye Socket」用作裝上兩種幽靈眼魂以推動反應-{}-爐至最高幅度來使出混合屬性必殺技。
+    當兩個幽靈眼魂接入插槽「Dual Eye Socket」後會連續發出待機音效「Mega Hageshi！（原文「，即是「」，中文為「很刺眼！」的意思）」，再合上深淵鏡型罩蓋「Mega Shade」後會發出「Kyokugen Daikaigan！（原文「」，漢字為「闘魂大開眼！」）」的音效，在「衝擊槍模式」扣下板機發動必殺技所發出音效是「Giga Omega Dama！」；「刀模式」音效則是「Giga Omega Giri！」。
 
 ### 假面騎士Necrom
 
@@ -1091,7 +1060,7 @@ Ghost驅動器拉推手把「Detonate Trigger」後發動。眼槍劍「長劍�
 跳躍力：45.7m<br />
 行動速度：100m / 3.9秒</p></td>
 <td><p>全身以白色、深綠色和草綠色為主，眼罩邊緣的形狀為書本</p></td>
-<td><p>寄宿童話編輯者<a href="../Page/格林兄弟.md" title="wikilink">格林兄弟靈魂的力量</a>，以想像力化成現實性的能力，及以鞭子作中距性的攻擊形態。</p></td>
+<td><p>寄宿童話編輯者<a href="../Page/格林兄弟.md" title="wikilink">格林兄弟</a>靈魂的力量，以想像力化成現實性的能力，及以鞭子作中距性的攻擊形態。</p></td>
 <td><p><strong>Necrom Destroy</strong><br />
 原文：<br />
 所屬的騎士踢。<br />
@@ -1110,7 +1079,7 @@ Ghost驅動器拉推手把「Detonate Trigger」後發動。眼槍劍「長劍�
 跳躍力：45.2m<br />
 行動速度：100m / 4.1秒</p></td>
 <td><p>全身以白色、金色和草綠色為主，眼罩邊緣的形狀為光輪</p></td>
-<td><p>寄宿佛教譯經師<a href="../Page/玄奘.md" title="wikilink">玄奘靈魂的力量</a>，運用拳腳武術達到猛攻及召喚使魔協助攻擊的武僧型態。</p></td>
+<td><p>寄宿佛教譯經師<a href="../Page/玄奘.md" title="wikilink">玄奘</a>靈魂的力量，運用拳腳武術達到猛攻及召喚使魔協助攻擊的武僧型態。</p></td>
 <td><p><strong>Necrom Destroy</strong><br />
 原文：<br />
 潤眼手環按下眼藥水型配件的按鈕後發動，能夠召喚出<a href="https://zh.wikipedia.org/wiki/孫悟空" title="wikilink">孫悟空</a>、<a href="https://zh.wikipedia.org/wiki/豬八戒" title="wikilink">豬八戒及</a><a href="https://zh.wikipedia.org/wiki/沙悟淨" title="wikilink">沙悟淨形相的使魔共同應敵</a>。<br />
@@ -1251,9 +1220,7 @@ Ghost驅動器拉推手把「Detonate Trigger」後發動。眼槍劍「長劍�
 
 ## 輔助工具
 
-【「▲▲」代表幽靈眼魂的名字，例如「Ore」、「Musashi 」，亦有部分例如「Robin」在音效上會讀作「Robin Hood」；「■
-■」代表幽靈眼魂個別所屬音效，詳情請見「[幽靈眼魂（Ghost
-Eyecon）](https://zh.wikipedia.org/wiki/假面騎士Ghost#幽靈眼魂（Ghost_Eyecon） "wikilink")」】
+【「▲▲」代表幽靈眼魂的名字，例如「Ore」、「Musashi 」，亦有部分例如「Robin」在音效上會讀作「Robin Hood」；「■ ■」代表幽靈眼魂個別所屬音效，詳情請見「[幽靈眼魂（Ghost Eyecon）](https://zh.wikipedia.org/wiki/假面騎士Ghost#幽靈眼魂（Ghost_Eyecon） "wikilink")」】
 
 ### 變身道具
 
@@ -1266,47 +1233,14 @@ Eyecon）](https://zh.wikipedia.org/wiki/假面騎士Ghost#幽靈眼魂（Ghost_
     音效：
     假面騎士Ghost及Specter專用變身腰帶。
     除了用作變身之外，亦是作為將別名「Parka幽靈」的英雄靈魂轉化成為幽靈眼魂的主要工具。
-    當準備變身或「靈魂轉換」時，先將表面罩蓋「Wraith Invoke」打開並把幽靈眼魂放入內部插槽「Eyecon
-    Sloan」再把罩蓋合上後會發出「Eye！」音效，再連續發出待機音效「Bacchiri
-    Mina！（原文「」，即是「」，中文為「完美地看見！」的意思）後將位於右方的手把「Detonate
-    Trigger」 拉推並發出音效「Kaigan！（原文「」，漢字為「開眼！」）▲▲！■ ■！」以發動變身或變換形態程序。
-    當處於變身狀態時拉推手把「Detonate
-    Trigger」，並發出音效「Daikaigan！（原文「」，漢字為「大開眼！」）▲▲！Omega
-    Drive！（原文「」）」；若再將手把「Detonate
-    Trigger」拉推四次，並發出音效「Daikaigan！▲▲！Omedama！（原文「」，即是「」，中文意思為「大眼球！」）」後以發動最大力量輸出的必殺技。
-    當準備使用「Toucon Boost」幽靈眼魂變身鬥魂鼓舞魂形態之時，放入內部插槽「Eyecon Sloan」則會先發出「Ibbatsu
-    Toucon！（原文「」）」的音效；拉推手把「Detonate Trigger」 變身時發出的音效則是「Toucon
-    Kaigan！（原文「」，漢字為「鬥魂開眼！」）▲▲！■ ■！」；當拉推手把「Detonate
-    Trigger」發動必殺技時音效則是「Toucon
-    Daikaigan！（原文「」，漢字為「鬥魂大開眼！」）▲▲！Omega
-    Drive！」。
-    當準備使用「Mugen」幽靈眼魂變身無限魂形態之時，放入內部插槽「Eyecon
-    Sloan」則會先發出「無限進化（原文「」）」的音效；拉推手把「Detonate
-    Trigger」 變身時發出的音效則是「Cho Kaigan！（原文「」，漢字為「超開眼！」）」▲▲！■
-    ■！」；當拉推手把「Detonate Trigger」發動必殺技時音效則是「Inochi
-    Daikaigan！（原文「」，漢字為「命大開眼！」，亦即是「生命大開眼！」）■ ■！」；當發動最大必殺技時音效則是「Cho
-    Daikaigan！（原文「」，漢字為「超大開眼！」）▲▲！God Omega Drive！」
-    假面騎士Specter專用的腰帶在罩蓋合上及發出「Eye！」音效後，隨著所發出的連續待機音效則是「Bacchiri
-    Miro！（原文「」，即是「」，中文意思同樣為「完美地看見！」）；使用「Necrom」幽靈眼魂變身時在罩蓋合上及發出「Eye！」音效後，隨著所發出的連續待機音效則是「Bacchiri
-    Miya！（原文「」，即是「」，中文意思同樣為「完美地看見！」）。
-    當準備使用「Deep Specter」幽靈眼魂變身Deep Specter形態之時，放入內部插槽「Eyecon
-    Sloan」則會先發出「Dive・to・Deep！（原文「ダイブ・トゥ・ディープ！」）」的音效，再發出待機音效「Girotto
-    Miro！（原文「」；拉推手把「Detonate Trigger」
-    變身時發出的音效則是「Genkaigan！（原文「」，漢字為「限界眼！」，或可理解作「限界開眼！」）▲▲！■
-    ■！」；當拉推手把「Detonate Trigger」進入「激昂模式」時音效則是「Genkai
-    Daikaigan！（原文「」，漢字為「限界大開眼！」）」▲▲！■
-    ■！」；當發動必殺技時音效則是「Kyokugen
-    Daikaigan！（原文「」，漢字為「極限大開眼！」）▲▲！Giga Omega
-    Drive！」
-    當準備使用「Sin Specter」幽靈眼魂變身Sin Specter形態之時，放入內部插槽「Eyecon
-    Sloan」則會先發出「Seven进化（原文「」）」的音效；拉推手把「Detonate Trigger」
-    變身時發出的音效則是「Sin Kaigan！（原文「」，漢字為「罪開眼！」）」▲▲！■ ■！」；當拉推手把「Detonate
-    Trigger」發動必殺技時音效則是「Sin Daikaigan！（原文「」，漢字為「命大開眼！」，亦即是「罪大開眼！」）■
-    ■！」；當發動最大必殺技時音效則是「Sin
-    Daikaigan！（原文「」，漢字為「超大開眼！」）▲▲！Deadly
-    Omega Drive！（原文「」
-    使用「Ore Specter」幽靈眼魂變身時在罩蓋合上及發出「Eye！」音效後，隨著所發出的連續待機音效則是「Bacchiri
-    Mina！Bacchiri Miro！（原文「」，即是「」，中文意思同樣為「完美地看見！完美地看見！」）。
+    當準備變身或「靈魂轉換」時，先將表面罩蓋「Wraith Invoke」打開並把幽靈眼魂放入內部插槽「Eyecon Sloan」再把罩蓋合上後會發出「Eye！」音效，再連續發出待機音效「Bacchiri Mina！（原文「」，即是「」，中文為「完美地看見！」的意思）後將位於右方的手把「Detonate Trigger」 拉推並發出音效「Kaigan！（原文「」，漢字為「開眼！」）▲▲！■ ■！」以發動變身或變換形態程序。
+    當處於變身狀態時拉推手把「Detonate Trigger」，並發出音效「Daikaigan！（原文「」，漢字為「大開眼！」）▲▲！Omega Drive！（原文「」）」；若再將手把「Detonate Trigger」拉推四次，並發出音效「Daikaigan！▲▲！Omedama！（原文「」，即是「」，中文意思為「大眼球！」）」後以發動最大力量輸出的必殺技。
+    當準備使用「Toucon Boost」幽靈眼魂變身鬥魂鼓舞魂形態之時，放入內部插槽「Eyecon Sloan」則會先發出「Ibbatsu Toucon！（原文「」）」的音效；拉推手把「Detonate Trigger」 變身時發出的音效則是「Toucon Kaigan！（原文「」，漢字為「鬥魂開眼！」）▲▲！■ ■！」；當拉推手把「Detonate Trigger」發動必殺技時音效則是「Toucon Daikaigan！（原文「」，漢字為「鬥魂大開眼！」）▲▲！Omega Drive！」。
+    當準備使用「Mugen」幽靈眼魂變身無限魂形態之時，放入內部插槽「Eyecon Sloan」則會先發出「無限進化（原文「」）」的音效；拉推手把「Detonate Trigger」 變身時發出的音效則是「Cho Kaigan！（原文「」，漢字為「超開眼！」）」▲▲！■ ■！」；當拉推手把「Detonate Trigger」發動必殺技時音效則是「Inochi Daikaigan！（原文「」，漢字為「命大開眼！」，亦即是「生命大開眼！」）■ ■！」；當發動最大必殺技時音效則是「Cho Daikaigan！（原文「」，漢字為「超大開眼！」）▲▲！God Omega Drive！」
+    假面騎士Specter專用的腰帶在罩蓋合上及發出「Eye！」音效後，隨著所發出的連續待機音效則是「Bacchiri Miro！（原文「」，即是「」，中文意思同樣為「完美地看見！」）；使用「Necrom」幽靈眼魂變身時在罩蓋合上及發出「Eye！」音效後，隨著所發出的連續待機音效則是「Bacchiri Miya！（原文「」，即是「」，中文意思同樣為「完美地看見！」）。
+    當準備使用「Deep Specter」幽靈眼魂變身Deep Specter形態之時，放入內部插槽「Eyecon Sloan」則會先發出「Dive・to・Deep！（原文「ダイブ・トゥ・ディープ！」）」的音效，再發出待機音效「Girotto Miro！（原文「」；拉推手把「Detonate Trigger」 變身時發出的音效則是「Genkaigan！（原文「」，漢字為「限界眼！」，或可理解作「限界開眼！」）▲▲！■ ■！」；當拉推手把「Detonate Trigger」進入「激昂模式」時音效則是「Genkai Daikaigan！（原文「」，漢字為「限界大開眼！」）」▲▲！■ ■！」；當發動必殺技時音效則是「Kyokugen Daikaigan！（原文「」，漢字為「極限大開眼！」）▲▲！Giga Omega Drive！」
+    當準備使用「Sin Specter」幽靈眼魂變身Sin Specter形態之時，放入內部插槽「Eyecon Sloan」則會先發出「Seven进化（原文「」）」的音效；拉推手把「Detonate Trigger」 變身時發出的音效則是「Sin Kaigan！（原文「」，漢字為「罪開眼！」）」▲▲！■ ■！」；當拉推手把「Detonate Trigger」發動必殺技時音效則是「Sin Daikaigan！（原文「」，漢字為「命大開眼！」，亦即是「罪大開眼！」）■ ■！」；當發動最大必殺技時音效則是「Sin Daikaigan！（原文「」，漢字為「超大開眼！」）▲▲！Deadly Omega Drive！（原文「」
+    使用「Ore Specter」幽靈眼魂變身時在罩蓋合上及發出「Eye！」音效後，隨著所發出的連續待機音效則是「Bacchiri Mina！Bacchiri Miro！（原文「」，即是「」，中文意思同樣為「完美地看見！完美地看見！」）。
     拔出幽靈眼魂並將表面罩蓋蓋上，當發出音效「Oyasumi！（原文「」，即是「」，中文為「晚安」的意思」）」後以作解除變身。
 
 <!-- end list -->
@@ -1324,17 +1258,11 @@ Eyecon）](https://zh.wikipedia.org/wiki/假面騎士Ghost#幽靈眼魂（Ghost_
 
     主要具有變身及純粹以意念指揮動員眼魔行動的功能。
 
-    使用「Necrom」幽靈眼魂變身時，先將眼魂按下按鈕並發出音效「Standby！」後，將眼魂接入插槽「Eyecon
-    Sloan」會發出音效「Yes Sir！」，轉動手環上主體裝置成直立模式後按下則面按鈕「Destloading
-    Starter」使其發出音效「Loading！」，再按下上方眼藥水型配件的按鈕並發出「Tengan！（原文「」，漢字為「點眼！」）Necrom！Megauruoudo！（原文「」，即是「」，中文意思同樣為「濕潤眼睛！」）クラッシュザインベーダー！」音效後以完成變身程序。
+    使用「Necrom」幽靈眼魂變身時，先將眼魂按下按鈕並發出音效「Standby！」後，將眼魂接入插槽「Eyecon Sloan」會發出音效「Yes Sir！」，轉動手環上主體裝置成直立模式後按下則面按鈕「Destloading Starter」使其發出音效「Loading！」，再按下上方眼藥水型配件的按鈕並發出「Tengan！（原文「」，漢字為「點眼！」）Necrom！Megauruoudo！（原文「」，即是「」，中文意思同樣為「濕潤眼睛！」）クラッシュザインベーダー！」音效後以完成變身程序。
 
-    當處於變身狀態時按下「Destloading
-    Starter」並發出音效「Destroy！」後，再按下眼藥水型配件的按鈕和發出「Daitengan！（原文「」，漢字為「大點眼！」）Necrom！Omega
-    Uruoudo！（原文「」，可解作「」或「」，中文可分別理解為「Ω濕潤！」或「這眼睛濕潤！」的意思）」音效後以發動必殺技。
+    當處於變身狀態時按下「Destloading Starter」並發出音效「Destroy！」後，再按下眼藥水型配件的按鈕和發出「Daitengan！（原文「」，漢字為「大點眼！」）Necrom！Omega Uruoudo！（原文「」，可解作「」或「」，中文可分別理解為「Ω濕潤！」或「這眼睛濕潤！」的意思）」音效後以發動必殺技。
 
-    使用其他幽靈眼魂進行「靈魂轉換」時，當到達按下按鈕「Destloading
-    Starter」的程序時則沒有音效，再按下眼藥水型配件按鈕發出類似的音效「Tengan！▲▲！Megauruoudo！■
-    ■！」後以完成轉換程序。
+    使用其他幽靈眼魂進行「靈魂轉換」時，當到達按下按鈕「Destloading Starter」的程序時則沒有音效，再按下眼藥水型配件按鈕發出類似的音效「Tengan！▲▲！Megauruoudo！■ ■！」後以完成轉換程序。
 
   - \***原型潤眼手環**
 
@@ -1353,19 +1281,12 @@ Eyecon）](https://zh.wikipedia.org/wiki/假面騎士Ghost#幽靈眼魂（Ghost_
   -
     原文： / *Eyecon Driver G*
     集合十五個幽靈眼魂之力的變身腰帶，同時也可理解作變身成為感恩魂形態的巨大幽靈眼魂，標註編號為「G15」。
-    當準備變身時，先按下左邊按鈕「Resonate
-    Trigger」會連續發出雙重待機音效「Gacchirimina！Kotchinikina！（原文「」，即是「，中文意思為「牢牢地看見！（朝著這裡來吧！）」），再將右方的扳機「Revolt
-    Trigger」按下後發出音效「Zenkaigan！（原文「」，即是「」，中文意思為「完全開眼」） Kengo Hakken
-    Kyoshou Ni Ousama！Samurai Bouzu Ni Sniper！Dai
-    Henge！（原文「」，即是「」，中文意思為「劍豪發現巨匠以及國王！武士僧侶還有狙擊手！大變化！」）」以完成變身程序。
-    將右方的扳機「Revolt Trigger」按兩下後發出音效「Zen
-    Daikaigan！（原文「」，漢字為「全大開眼！」）Grateful！Omega
-    Drive！（原文「」）」
+    當準備變身時，先按下左邊按鈕「Resonate Trigger」會連續發出雙重待機音效「Gacchirimina！Kotchinikina！（原文「」，即是「，中文意思為「牢牢地看見！（朝著這裡來吧！）」），再將右方的扳機「Revolt Trigger」按下後發出音效「Zenkaigan！（原文「」，即是「」，中文意思為「完全開眼」） Kengo Hakken Kyoshou Ni Ousama！Samurai Bouzu Ni Sniper！Dai Henge！（原文「」，即是「」，中文意思為「劍豪發現巨匠以及國王！武士僧侶還有狙擊手！大變化！」）」以完成變身程序。
+    將右方的扳機「Revolt Trigger」按兩下後發出音效「Zen Daikaigan！（原文「」，漢字為「全大開眼！」）Grateful！Omega Drive！（原文「」）」
     召喚幽靈眼魂音效「○○！Rasshai」
     任何多個幽靈眼魂必殺技音效「原文（）」
     集合十五個幽靈眼魂之力的必殺技再將右方的扳機「Revolt Trigger」按下後發出音效「（原文「）」」
-    當解除變身時按下「Resonate
-    Trigger」後發出音效「Kaisan！（原文「」，即是「，中文意思為「解散！」）」之後眼魂會各自回歸召喚人身邊。
+    當解除變身時按下「Resonate Trigger」後發出音效「Kaisan！（原文「」，即是「，中文意思為「解散！」）」之後眼魂會各自回歸召喚人身邊。
 
 ### 交通工具
 
@@ -2101,7 +2022,7 @@ Ghost驅動器使用時音效為「Let's Go！Kakugo！Gho・Gho・Gho・Ghost�
 <td><p>Ghost</p></td>
 <td><p>靈魂轉換<br />
 （傳說騎士系列）</p></td>
-<td><p>擁有使用<a href="../Page/假面騎士空我.md" title="wikilink">假面騎士空我力量的能力</a></p></td>
+<td><p>擁有使用<a href="../Page/假面騎士空我.md" title="wikilink">假面騎士空我</a>力量的能力</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/假面騎士大亂鬥_GANBARIZING" title="wikilink">假面騎士大亂鬥 GANBARIZING</a>》限定。<br />
 變身形態 <strong>-{zh-hk:古迦;zh-tw:空我;zh-cn:空我;zh-sg:空我}-魂</strong>。<br />
 Ghost驅動器使用時音效為「Chou Henshin！Kawaru Zenshin！」<br />
@@ -2112,7 +2033,7 @@ Ghost驅動器使用時音效為「Chou Henshin！Kawaru Zenshin！」<br />
 <td></td>
 <td><p>龍騎</p></td>
 <td><p>R03</p></td>
-<td><p>擁有運用<a href="../Page/假面騎士龍騎.md" title="wikilink">假面騎士龍騎力量的能力</a></p></td>
+<td><p>擁有運用<a href="../Page/假面騎士龍騎.md" title="wikilink">假面騎士龍騎</a>力量的能力</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/假面騎士大亂鬥_GANBARIZING" title="wikilink">假面騎士大亂鬥 GANBARIZING</a>》限定。<br />
 變身形態 <strong>龍騎魂</strong>。<br />
 Ghost驅動器使用時音效為「Mawari Wa Raibaru！Hajimaru Survival！」<br />
@@ -3768,17 +3689,12 @@ Ghost驅動器使用時音效為「Let's Go！Kakugo！Gho・Gho・Gho・Ghost�
 
 ### 劇場版
 
-  - 《[劇場版 假面騎士Drive SURPRISE
-    FUTURE](https://zh.wikipedia.org/wiki/劇場版_假面騎士Drive_SURPRISE_FUTURE "wikilink")》（2015年8月8日上映）
-  - 《[假面騎士×假面騎士 Ghost & Drive 超MOVIE大戰
-    Genesis](../Page/假面騎士×假面騎士_Ghost_&_Drive_超MOVIE大戰_Genesis.md "wikilink")》（2015年12月12日上映）
+  - 《[劇場版 假面騎士Drive SURPRISE FUTURE](https://zh.wikipedia.org/wiki/劇場版_假面騎士Drive_SURPRISE_FUTURE "wikilink")》（2015年8月8日上映）
+  - 《[假面騎士×假面騎士 Ghost & Drive 超MOVIE大戰 Genesis](../Page/假面騎士×假面騎士_Ghost_&_Drive_超MOVIE大戰_Genesis.md "wikilink")》（2015年12月12日上映）
   - 《[假面騎士1號](../Page/假面騎士1號.md "wikilink")》（2016年3月26日上映）
-  - 《[劇場版 假面騎士Ghost
-    100個眼魂與Ghost命運的瞬間](https://zh.wikipedia.org/wiki/劇場版_假面騎士Ghost_100個眼魂與Ghost命運的瞬間 "wikilink")》（2016年8月6日上映）
-  - 《[假面騎士平成Generations Dr.Pac-Man對EX-AID\&Ghost with
-    傳說騎士](../Page/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士.md "wikilink")》（2016年12月10日上映）
-  - 《[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》（2017年12月9日上映）
+  - 《[劇場版 假面騎士Ghost 100個眼魂與Ghost命運的瞬間](https://zh.wikipedia.org/wiki/劇場版_假面騎士Ghost_100個眼魂與Ghost命運的瞬間 "wikilink")》（2016年8月6日上映）
+  - 《[假面騎士平成Generations Dr.Pac-Man對EX-AID\&Ghost with 傳說騎士](../Page/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士.md "wikilink")》（2016年12月10日上映）
+  - 《[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》（2017年12月9日上映）
 
 ### 電視影集
 
@@ -3836,12 +3752,8 @@ Ghost驅動器使用時音效為「Let's Go！Kakugo！Gho・Gho・Gho・Ghost�
 
 ### 電視遊戲
 
-  - 《假面騎士Battride War 創生》（預定2016年2月25日發行、[PlayStation
-    3](../Page/PlayStation_3.md "wikilink") / [PlayStation
-    4](../Page/PlayStation_4.md "wikilink") / [PS
-    Vita](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")）
-  - 《假面騎士Ghost 遊戲開眼》（2015年12月2日配信下載、[Nintendo
-    3DS](https://zh.wikipedia.org/wiki/Nintendo_3DS "wikilink")）
+  - 《假面騎士Battride War 創生》（預定2016年2月25日發行、[PlayStation 3](../Page/PlayStation_3.md "wikilink") / [PlayStation 4](../Page/PlayStation_4.md "wikilink") / [PS Vita](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")）
+  - 《假面騎士Ghost 遊戲開眼》（2015年12月2日配信下載、[Nintendo 3DS](https://zh.wikipedia.org/wiki/Nintendo_3DS "wikilink")）
 
 ### 超戰鬥DVD
 
@@ -3874,8 +3786,7 @@ Ghost驅動器使用時音效為「Let's Go！Kakugo！Gho・Gho・Gho・Ghost�
 
 ### 網絡劇集
 
-  - **《[假面騎士Ghost
-    傳說！騎士之魂！](https://zh.wikipedia.org/wiki/假面騎士Ghost_傳說！騎士之魂！ "wikilink")》**
+  - **《[假面騎士Ghost 傳說！騎士之魂！](https://zh.wikipedia.org/wiki/假面騎士Ghost_傳說！騎士之魂！ "wikilink")》**
 
 <!-- end list -->
 
@@ -3898,8 +3809,7 @@ Ghost驅動器使用時音效為「Let's Go！Kakugo！Gho・Gho・Gho・Ghost�
 
 「**全力スタートライン！**」（第36、37話）
 
-  - 演唱：Harp+y
-    4（[奥仲麻琴](https://zh.wikipedia.org/wiki/奥仲麻琴 "wikilink")、、、）
+  - 演唱：Harp+y 4（[奥仲麻琴](https://zh.wikipedia.org/wiki/奥仲麻琴 "wikilink")、、、）
   - 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")
   - 作曲：
   - 編曲：
@@ -3908,8 +3818,7 @@ Ghost驅動器使用時音效為「Let's Go！Kakugo！Gho・Gho・Gho・Ghost�
 
   - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")
   - 監製 -
-  - 製作人 -
-    （[朝日電視台](../Page/朝日電視台.md "wikilink")）、高橋一浩（[東映](../Page/東映.md "wikilink")）
+  - 製作人 - （[朝日電視台](../Page/朝日電視台.md "wikilink")）、高橋一浩（[東映](../Page/東映.md "wikilink")）
   - 劇本 - 、[毛利亘宏](../Page/毛利亘宏.md "wikilink")、
   - 導演 - 、、、、[渡邊勝也](https://zh.wikipedia.org/wiki/渡邊勝也 "wikilink")
   - 配樂 -
@@ -3940,10 +3849,9 @@ Ghost驅動器使用時音效為「Let's Go！Kakugo！Gho・Gho・Gho・Ghost�
   - 分鏡 - なかの★陽
   - 特攝導演 -
   - 動作指導 - （[JAE](https://zh.wikipedia.org/wiki/JAE "wikilink")）
-  - 製作單位 -
-    [東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")
+  - 製作單位 - [東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")
 
-## [超級英雄時間相關條目](../Page/超級英雄時間.md "wikilink")
+## [超級英雄時間](../Page/超級英雄時間.md "wikilink")相關條目
 
   - [手裏劍戰隊忍忍者](../Page/手裏劍戰隊忍忍者.md "wikilink")
   - [動物戰隊獸王者](../Page/動物戰隊獸王者.md "wikilink")
@@ -3964,16 +3872,11 @@ Ghost驅動器使用時音效為「Let's Go！Kakugo！Gho・Gho・Gho・Ghost�
 
 ## 參考資料
 
-[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink")
-[Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink")
-[Category:鬼題材電視劇](https://zh.wikipedia.org/wiki/Category:鬼題材電視劇 "wikilink")
-[Category:历史人物题材作品](https://zh.wikipedia.org/wiki/Category:历史人物题材作品 "wikilink")
-[Category:羅賓漢題材作品](https://zh.wikipedia.org/wiki/Category:羅賓漢題材作品 "wikilink")
+[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink") [Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink") [Category:鬼題材電視劇](https://zh.wikipedia.org/wiki/Category:鬼題材電視劇 "wikilink") [Category:历史人物题材作品](https://zh.wikipedia.org/wiki/Category:历史人物题材作品 "wikilink") [Category:羅賓漢題材作品](https://zh.wikipedia.org/wiki/Category:羅賓漢題材作品 "wikilink")
 
 1.  [仮面ライダー最新作は、お化けがモチーフ！目が変身アイテムの「仮面ライダーゴースト」](http://headlines.yahoo.co.jp/hl?a=20150730-00000286-sph-ent)
 
-
-2.  系列中首位死者設定的主角為[假面騎士555的乾巧](../Page/假面騎士555.md "wikilink")，雖然設定上迥異但確實為已死去之人
+2.  系列中首位死者設定的主角為[假面騎士555](../Page/假面騎士555.md "wikilink")的乾巧，雖然設定上迥異但確實為已死去之人
 
 3.  [新ライダーはいきなり死亡\!?ジュノンボーイ・西銘駿が「仮面ライダーゴースト」襲名](http://www.cinemacafe.net/article/2015/08/18/33486.html)
 
@@ -3981,12 +3884,11 @@ Ghost驅動器使用時音效為「Let's Go！Kakugo！Gho・Gho・Gho・Ghost�
 
 5.  『東映ヒーローMAX』VOLUME 52（2015 autumn）
 
-6.  過往部分平成騎士主角曾用另一腰帶變身,但只是變身**另一個騎士**,而非強化形態,如[假面騎士555主角乾巧](../Page/假面騎士555.md "wikilink")/假面騎士Faiz曾用Delta變身假面騎士Delta;[假面騎士W主角左翔太郎](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")/假面騎士W用Lost
-    Driver變身假面騎士Joker。首位更換變身腰帶進行強化的平成騎士是[假面騎士鎧武驅紋戒斗](../Page/假面騎士鎧武.md "wikilink")/假面騎士巴隆,需更換創世紀驅動器和檸檬能量定鎖種子才能變身假面騎士男爵(次世代型),但他不是第一男主角騎士。
+6.  過往部分平成騎士主角曾用另一腰帶變身,但只是變身**另一個騎士**,而非強化形態,如[假面騎士555](../Page/假面騎士555.md "wikilink")主角乾巧/假面騎士Faiz曾用Delta變身假面騎士Delta;[假面騎士W主角左翔太郎](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")/假面騎士W用Lost Driver變身假面騎士Joker。首位更換變身腰帶進行強化的平成騎士是[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")驅紋戒斗/假面騎士巴隆,需更換創世紀驅動器和檸檬能量定鎖種子才能變身假面騎士男爵(次世代型),但他不是第一男主角騎士。
 
 7.  內部供奉著[毘沙門天](https://zh.wikipedia.org/wiki/毘沙門天 "wikilink")（也就是四大天王中的多聞天王）的佛像
 
-8.  負責怪人設計的島本和彥曾透露刀眼魔及槍眼魔的藍本均為[佐佐木小次郎及](../Page/佐佐木小次郎.md "wikilink")[胤舜](https://zh.wikipedia.org/wiki/胤舜 "wikilink")，但其後在第二話播出後在[twitter](https://twitter.com/simakazu/status/652989487878828032)透露在其立場不能多說。網友推斷電力眼魔及巨大電力眼魔的藍本為[尼古拉·特斯拉及](../Page/尼古拉·特斯拉.md "wikilink")[費城實驗中的驅逐艦](../Page/費城實驗.md "wikilink")，而島本和彥亦有轉載有關推文。可推斷眼魔均以歷史人物及事件作藍本。
+8.  負責怪人設計的島本和彥曾透露刀眼魔及槍眼魔的藍本均為[佐佐木小次郎](../Page/佐佐木小次郎.md "wikilink")及[胤舜](https://zh.wikipedia.org/wiki/胤舜 "wikilink")，但其後在第二話播出後在[twitter](https://twitter.com/simakazu/status/652989487878828032)透露在其立場不能多說。網友推斷電力眼魔及巨大電力眼魔的藍本為[尼古拉·特斯拉](../Page/尼古拉·特斯拉.md "wikilink")及[費城實驗](../Page/費城實驗.md "wikilink")中的驅逐艦，而島本和彥亦有轉載有關推文。可推斷眼魔均以歷史人物及事件作藍本。
 
 9.  透過亞蘭
     身體進行變身
@@ -4032,10 +3934,8 @@ Ghost驅動器使用時音效為「Let's Go！Kakugo！Gho・Gho・Gho・Ghost�
 
 30. 從《假面騎士DECADE》（2009）以後，主題曲MV皆由主角騎士擔任演出已是慣例，但本作的MV假面騎士Ghost卻沒有參與演出。
 
-31. 氣志團的主唱綾小路翔自劇場版《假面騎士×假面騎士 Fourze & OOO MOVIE大戰 MEGA
-    MAX》（2011）以後再次地擔任主題曲的演唱者（在電視版系列上及以氣志團身分演唱卻是首次）
+31. 氣志團的主唱綾小路翔自劇場版《假面騎士×假面騎士 Fourze & OOO MOVIE大戰 MEGA MAX》（2011）以後再次地擔任主題曲的演唱者（在電視版系列上及以氣志團身分演唱卻是首次）
 
-32. 2016年1月29日，氣志團於同台的「[Music
-    Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")」演出並宣傳此歌，劇中的兩位假面騎士（Ghost跟Specter）也在該節目登台亮相。
+32. 2016年1月29日，氣志團於同台的「[Music Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")」演出並宣傳此歌，劇中的兩位假面騎士（Ghost跟Specter）也在該節目登台亮相。
 
 33. 自《假面騎士龍騎》（2002）之後再次並非由藤林聖子親手作詞的主題曲

@@ -1,5 +1,4 @@
-X'Trapolis
-100是由[阿尔斯通公司制造的](https://zh.wikipedia.org/wiki/阿尔斯通公司 "wikilink")[电力动车组](../Page/電聯車.md "wikilink")，此款列车为阿尔斯通中的一个型号。这款列车分为两个版本，分别运行于[墨尔本](../Page/墨尔本.md "wikilink")[火车系以及](https://zh.wikipedia.org/wiki/墨爾本軌道交通 "wikilink")[智利](../Page/智利.md "wikilink")[瓦尔帕莱索](../Page/瓦尔帕莱索.md "wikilink")。
+X'Trapolis 100是由[阿尔斯通公司制造的](https://zh.wikipedia.org/wiki/阿尔斯通公司 "wikilink")[电力动车组](../Page/電聯車.md "wikilink")，此款列车为阿尔斯通中的一个型号。这款列车分为两个版本，分别运行于[墨尔本](../Page/墨尔本.md "wikilink")[火车系以及](https://zh.wikipedia.org/wiki/墨爾本軌道交通 "wikilink")[智利](../Page/智利.md "wikilink")[瓦尔帕莱索](../Page/瓦尔帕莱索.md "wikilink")。
 
 ## 墨尔本
 
@@ -7,14 +6,11 @@ X'Trapolis
 
 #### 机械
 
-在机械上，这些列车和之前的墨尔本的火车有很大不同。X'Trapolis
-100是墨尔本第一种由电脑负责控制牵引、刹车和安全系统的电力动车组，列车还拥有一个贯穿整列列车的电路，当通电时可以让紧急制动缓解。这个电路会在一些情况下被断电，比如司机触发了[驾驶失知制动装置](https://zh.wikipedia.org/wiki/駕駛失知制動裝置 "wikilink")、使用了紧急制动和停车时超过了信号机，这些行为会使得列车使用所有的制动。
+在机械上，这些列车和之前的墨尔本的火车有很大不同。X'Trapolis 100是墨尔本第一种由电脑负责控制牵引、刹车和安全系统的电力动车组，列车还拥有一个贯穿整列列车的电路，当通电时可以让紧急制动缓解。这个电路会在一些情况下被断电，比如司机触发了[驾驶失知制动装置](https://zh.wikipedia.org/wiki/駕駛失知制動裝置 "wikilink")、使用了紧急制动和停车时超过了信号机，这些行为会使得列车使用所有的制动。
 
 列车的受电弓方面，每3节列车（即每组）拥有一个[受电弓](../Page/集電弓.md "wikilink")，这也是墨尔本所有电气化列车中唯一3节车厢采用单受电弓设计的。列车的受电弓采用单弓设计。
 
-列车的电动机采用阿尔斯通为通勤和长途火车设计的4 ECA
-1836A三相[异步电动机](../Page/异步电动机.md "wikilink")，该型号的电动机只有在X'Trapolis
-100列车上使用，每组列车配备4台。电机在2000转的情况下可以输出190kw的功率，持续扭矩达到860N.m，齿轮比为5.41。由于定位为较长距离使用，列车的加速度仅为1.2m/s²，而最高速度可以达到130km/h。每组列车的动拖比为2：1，头尾两节为带控制室动车，中间为拖车。
+列车的电动机采用阿尔斯通为通勤和长途火车设计的4 ECA 1836A三相[异步电动机](../Page/异步电动机.md "wikilink")，该型号的电动机只有在X'Trapolis 100列车上使用，每组列车配备4台。电机在2000转的情况下可以输出190kw的功率，持续扭矩达到860N.m，齿轮比为5.41。由于定位为较长距离使用，列车的加速度仅为1.2m/s²，而最高速度可以达到130km/h。每组列车的动拖比为2：1，头尾两节为带控制室动车，中间为拖车。
 
 #### 车厢设备
 
@@ -26,17 +22,13 @@ X'Trapolis
 
 #### 列车资讯显示
 
-X'Trapolis列车资讯显示系统包括了车头、车身侧面和车厢头尾的点阵显示屏。车外的屏幕会显示列车的终点和路径，而车内的屏幕除了终点外还会显示列车是否为快速服务，同时在列车抵达车站时，会显示抵达车站的站名，如果车站可以换乘，还会显示换乘线路的名称。列车的广播则是会和显示屏同步，在抵达车站时播报“Now
-arriving at+站名”，同时在从起点站发车前，会播报列车的终点以及种别。
+X'Trapolis列车资讯显示系统包括了车头、车身侧面和车厢头尾的点阵显示屏。车外的屏幕会显示列车的终点和路径，而车内的屏幕除了终点外还会显示列车是否为快速服务，同时在列车抵达车站时，会显示抵达车站的站名，如果车站可以换乘，还会显示换乘线路的名称。列车的广播则是会和显示屏同步，在抵达车站时播报“Now arriving at+站名”，同时在从起点站发车前，会播报列车的终点以及种别。
 
 列车的屏幕从第二批订单开始进行了改进，屏幕被替换为可以显示更大、更粗字体的屏幕。同时所有的第一批列车也在之后进行了改进，到2013年时所有第一批列车都已经安装了更新的显示屏,同时列车的广播系统和面向司机的部分也进行了改进。
 
 ### 列车命名和涂装
 
-一些列车被给予了名字比如："Croydon West"、"Don Corrie"\[1\]、"Flash"、"Flinders
-Flyer"、"Iramoo"、"Melbourne Rocks"和"Westernport"。X'Trapolis
-100中编号为863M-1632T-864M-897M-1649T-898M的列车在2009年11月获得了全新"Metro"涂装，这也是第一列获得新涂装的墨尔本火车，同时这也是为了新的市域铁路的运营商成立所做的准备。\[2\]
-在2014年10月22日，第一列列车在上开始运行，它将会在每个工作日早高峰运行2个班次。
+一些列车被给予了名字比如："Croydon West"、"Don Corrie"\[1\]、"Flash"、"Flinders Flyer"、"Iramoo"、"Melbourne Rocks"和"Westernport"。X'Trapolis 100中编号为863M-1632T-864M-897M-1649T-898M的列车在2009年11月获得了全新"Metro"涂装，这也是第一列获得新涂装的墨尔本火车，同时这也是为了新的市域铁路的运营商成立所做的准备。\[2\] 在2014年10月22日，第一列列车在上开始运行，它将会在每个工作日早高峰运行2个班次。
 
 ### 历次订单和运营情况
 
@@ -44,36 +36,23 @@ Flyer"、"Iramoo"、"Melbourne Rocks"和"Westernport"。X'Trapolis
 
 #### 第一批订单
 
-[缩略图](https://zh.wikipedia.org/wiki/File:XTrapolisInterior.JPG "fig:缩略图")
-[缩略图](https://zh.wikipedia.org/wiki/File:X'TrapolisFSS.jpg "fig:缩略图")
-墨尔本（当时为伯恩利线组、克利夫顿山线组和马场线的运营商）于2000年首次订购了58列X'Trapolis
-100列车来履行对于获得特许经营权的承诺并且替换车队中老旧的日立列车\[3\]，而同时路网中其他线路的运营商M\>Train则订购了西门子Neas。首10组列车完全在阿尔斯通位于[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[拉罗歇尔的工厂组装](../Page/拉罗歇尔.md "wikilink")，从第11组列车开始，只有车体会在法国的工厂完成，剩余的工作会在阿尔斯通位于[维多利亚州](../Page/維多利亞州.md "wikilink")[巴拉瑞特的工厂完成](../Page/巴拉瑞特.md "wikilink")。\[4\]
+[缩略图](https://zh.wikipedia.org/wiki/File:XTrapolisInterior.JPG "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:X'TrapolisFSS.jpg "fig:缩略图") 墨尔本（当时为伯恩利线组、克利夫顿山线组和马场线的运营商）于2000年首次订购了58列X'Trapolis 100列车来履行对于获得特许经营权的承诺并且替换车队中老旧的日立列车\[3\]，而同时路网中其他线路的运营商M\>Train则订购了西门子Neas。首10组列车完全在阿尔斯通位于[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[拉罗歇尔](../Page/拉罗歇尔.md "wikilink")的工厂组装，从第11组列车开始，只有车体会在法国的工厂完成，剩余的工作会在阿尔斯通位于[维多利亚州](../Page/維多利亞州.md "wikilink")[巴拉瑞特](../Page/巴拉瑞特.md "wikilink")的工厂完成。\[4\]
 
-第一批订单的首列列车于2002年12月27日投入服务，而最后一列车于2004年12月17日投入服务。\[5\]
-列车在上线后于[弗林德斯街站至](https://zh.wikipedia.org/wiki/弗林德斯街站 "wikilink")之间运行特别班次以评估列车情况。
+第一批订单的首列列车于2002年12月27日投入服务，而最后一列车于2004年12月17日投入服务。\[5\] 列车在上线后于[弗林德斯街站至](https://zh.wikipedia.org/wiki/弗林德斯街站 "wikilink")之间运行特别班次以评估列车情况。
 
 #### 第二和第三批订单
 
-在2007年7月维多利亚州政府宣布阿尔斯通是2家被受邀投标为现有线路新制造10列6节列车项目的公司之一，另一家公司是[西门子交通](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")。\[6\]
-不过基础建设部门发现新的列车只可以在高峰时间在全火车网络多提供少于一个班次的服务，他们于是开始游说州政府购买20列6节列车。\[7\]
-在2007年10月，订单总数增加为18列6节编组列车，同时列车的交付将会直到2010年为止。\[8\]
-在2007年12月投标被阿尔斯通所投得，同时列车将在2009年底开始逐步交付。\[9\]在2009年2月又有额外的20列6节编组列车的订单被下达，这一订单中的首列列车将和第二批订单一样在海外生产，而之后的19列6节编组列车将在巴拉瑞特生产，这使得列车总数增加到38列6节编组列车。\[10\]
+在2007年7月维多利亚州政府宣布阿尔斯通是2家被受邀投标为现有线路新制造10列6节列车项目的公司之一，另一家公司是[西门子交通](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")。\[6\] 不过基础建设部门发现新的列车只可以在高峰时间在全火车网络多提供少于一个班次的服务，他们于是开始游说州政府购买20列6节列车。\[7\] 在2007年10月，订单总数增加为18列6节编组列车，同时列车的交付将会直到2010年为止。\[8\] 在2007年12月投标被阿尔斯通所投得，同时列车将在2009年底开始逐步交付。\[9\]在2009年2月又有额外的20列6节编组列车的订单被下达，这一订单中的首列列车将和第二批订单一样在海外生产，而之后的19列6节编组列车将在巴拉瑞特生产，这使得列车总数增加到38列6节编组列车。\[10\]
 
-第二批订单中的第一列列车由阿尔斯通在欧洲制造，于2009年7月从意大利装船起运，\[11\]
-随后于2009年8月24日抵达纽波特工厂。\[12\] \[13\]
+第二批订单中的第一列列车由阿尔斯通在欧洲制造，于2009年7月从意大利装船起运，\[11\] 随后于2009年8月24日抵达纽波特工厂。\[12\] \[13\]
 
-在9月底编号为1M-1301T-2M和3M-1302T-4M的列车，被转移到纽波特工厂并且退出测试运行，同时也列车车体也没有任何涂装。在10月，列车获得了车厢编号以及名字，同时兼容性测试也在现有列车中一列经过改造的列车上进行。\[14\]
-在2009年12月这一列列车被涂上Metro的涂装，并且在埃平线（现在的南摩朗线）上进行了每站停车不载客的测试运行\[15\]。
+在9月底编号为1M-1301T-2M和3M-1302T-4M的列车，被转移到纽波特工厂并且退出测试运行，同时也列车车体也没有任何涂装。在10月，列车获得了车厢编号以及名字，同时兼容性测试也在现有列车中一列经过改造的列车上进行。\[14\] 在2009年12月这一列列车被涂上Metro的涂装，并且在埃平线（现在的南摩朗线）上进行了每站停车不载客的测试运行\[15\]。
 
-第二列引进的列车在抵达后由于地板的损坏被立刻转移到巴拉瑞特，然后花费了阿尔斯通和联合集团铁路两个月的时间来修理。\[16\]
-在修复完成后这列列车在2月28日被转移到纽波特工厂。\[17\]
+第二列引进的列车在抵达后由于地板的损坏被立刻转移到巴拉瑞特，然后花费了阿尔斯通和联合集团铁路两个月的时间来修理。\[16\] 在修复完成后这列列车在2月28日被转移到纽波特工厂。\[17\]
 
-第一组列车在2009年12月30日第一次进行了数小时的服务，尽管声明表示司机在驾驶时仍有一些问题，包括让搭载的乘客信息显示组件运行，\[18\]
-\[19\] 列车在第二天被调离了正常的运行。\[20\]
+第一组列车在2009年12月30日第一次进行了数小时的服务，尽管声明表示司机在驾驶时仍有一些问题，包括让搭载的乘客信息显示组件运行，\[18\] \[19\] 列车在第二天被调离了正常的运行。\[20\]
 
-在2010年2月15日，运营方Metro计划将列车重新投入运营，但是司机拒绝驾驶列车并列举了没有得到解决的安全问题。作为结果，Metro将铁路、电车和巴士工会带到了联邦工业法庭。\[21\]
-在2月18日工会代表和Metro的管理层在面见澳洲平等工作委员会前进行了一次私下的交谈，\[22\]
-随后在2月20日双方达成了协议，列车会在当天下午重新投入服务。\[23\]
+在2010年2月15日，运营方Metro计划将列车重新投入运营，但是司机拒绝驾驶列车并列举了没有得到解决的安全问题。作为结果，Metro将铁路、电车和巴士工会带到了联邦工业法庭。\[21\] 在2月18日工会代表和Metro的管理层在面见澳洲平等工作委员会前进行了一次私下的交谈，\[22\] 随后在2月20日双方达成了协议，列车会在当天下午重新投入服务。\[23\]
 
 订单中最后一列列车，由编号为149M-1375T-150M和151M-1376T-152M所组成，于2012年4月底投入服务。
 
@@ -87,8 +66,7 @@ Flyer"、"Iramoo"、"Melbourne Rocks"和"Westernport"。X'Trapolis
 
 #### 第八和第九批订单
 
-在2017年9月，州政府追加了第八批订单，增购了9列6节编组列车，这也使得该型号列车在维多利亚州的生产线可以继续维持至2019年初。\[30\]
-2018年5月，在州政府公布的计划中，进一步增购了10列共30节车厢的3节编组列车。\[31\]
+在2017年9月，州政府追加了第八批订单，增购了9列6节编组列车，这也使得该型号列车在维多利亚州的生产线可以继续维持至2019年初。\[30\] 2018年5月，在州政府公布的计划中，进一步增购了10列共30节车厢的3节编组列车。\[31\]
 
 ### 列车编号\[32\]
 
@@ -100,8 +78,7 @@ Flyer"、"Iramoo"、"Melbourne Rocks"和"Westernport"。X'Trapolis
 
 2010年5月12日，9M-1305T-10M列车在令伍特站存车侧线停车时刹车不及，撞毁止挡，9M车厢车头受损，涉事列车已经完成修复重返服务。
 
-2015年11月11日凌晨，故意破坏公物者进入了一列停放赫斯特桥站的6节编组列车中，并且启动了列车，列车在行驶了一些距离后发生脱轨。事故中927M车厢受到了最多的损伤，车厢撞进了相邻的另一组X'Trapolis
-100s列车中，同时其它车厢和轨道设备也受到了损伤。所有车厢被期望在维修结束后重返服务。\[33\]\[34\]
+2015年11月11日凌晨，故意破坏公物者进入了一列停放赫斯特桥站的6节编组列车中，并且启动了列车，列车在行驶了一些距离后发生脱轨。事故中927M车厢受到了最多的损伤，车厢撞进了相邻的另一组X'Trapolis 100s列车中，同时其它车厢和轨道设备也受到了损伤。所有车厢被期望在维修结束后重返服务。\[33\]\[34\]
 
 2016年2月6日，9M-1305T-10M列车中的的拖车在南摩朗线Rushall站出轨，这段轨道是一个曲线半径极小的30km/h限速的弯道。\[35\]
 
@@ -109,9 +86,7 @@ Flyer"、"Iramoo"、"Melbourne Rocks"和"Westernport"。X'Trapolis
 
 ## 瓦尔帕莱索
 
-瓦尔帕莱索自19世纪起曾拥有一个在城市内的客运火车系统，但它由于稀疏班次以及其他的问题而不能被称为[地铁](../Page/地鐵.md "wikilink")。在1999年开始建造的
-[现有的系统](../Page/瓦爾帕萊索地鐵.md "wikilink")，拆除了旧的车站并且新建了和原本风格类似的新的车站，同时在
-[比尼亚德尔马建造了一条长度超过](../Page/比尼亚德尔马.md "wikilink")5公里的隧道。新的专门为新系统建造的列车于2005年2月22日抵达智利，同时旧的系统在2005年6月30日结束服务。\[37\]
+瓦尔帕莱索自19世纪起曾拥有一个在城市内的客运火车系统，但它由于稀疏班次以及其他的问题而不能被称为[地铁](../Page/地鐵.md "wikilink")。在1999年开始建造的 [现有的系统](../Page/瓦爾帕萊索地鐵.md "wikilink")，拆除了旧的车站并且新建了和原本风格类似的新的车站，同时在 [比尼亚德尔马](../Page/比尼亚德尔马.md "wikilink")建造了一条长度超过5公里的隧道。新的专门为新系统建造的列车于2005年2月22日抵达智利，同时旧的系统在2005年6月30日结束服务。\[37\]
 
 ## 参考文献
 
@@ -122,9 +97,7 @@ Flyer"、"Iramoo"、"Melbourne Rocks"和"Westernport"。X'Trapolis
 
   - [X'Trapolis在瓦尔帕莱索的照片(西班牙语)](https://web.archive.org/web/20060227093842/http://trenes.4t.com/pasajeros/xtrapolis/)
 
-[Category:阿爾斯通製鐵路車輛](https://zh.wikipedia.org/wiki/Category:阿爾斯通製鐵路車輛 "wikilink")
-[Category:墨尔本交通](https://zh.wikipedia.org/wiki/Category:墨尔本交通 "wikilink")
-[Category:墨尔本轨道车辆](https://zh.wikipedia.org/wiki/Category:墨尔本轨道车辆 "wikilink")
+[Category:阿爾斯通製鐵路車輛](https://zh.wikipedia.org/wiki/Category:阿爾斯通製鐵路車輛 "wikilink") [Category:墨尔本交通](https://zh.wikipedia.org/wiki/Category:墨尔本交通 "wikilink") [Category:墨尔本轨道车辆](https://zh.wikipedia.org/wiki/Category:墨尔本轨道车辆 "wikilink")
 
 1.
 
@@ -174,15 +147,9 @@ Flyer"、"Iramoo"、"Melbourne Rocks"和"Westernport"。X'Trapolis
 
 25. [X'Trapolis](http://www.vicsig.net/suburban/train/X'Trapolis) Vicsig
 
-26. [New trains ordered for Melbourne rail
-    network](http://www.abc.net.au/news/2013-04-10/new-trains-ordered-for-melbourne-rail-network/4620390?section=business)
-    *\[//en.wikipedia.org/wiki/ABC_News_(Australia) ABC News\]* 10
-    April 2013
+26. [New trains ordered for Melbourne rail network](http://www.abc.net.au/news/2013-04-10/new-trains-ordered-for-melbourne-rail-network/4620390?section=business) *\[//en.wikipedia.org/wiki/ABC_News_(Australia) ABC News\]* 10 April 2013
 
-27. [Alstom to provide an additional eight Xtrapolis trainsets for
-    Melbourne's Metropolitan Rail Network in
-    Australia](http://www.alstom.com/press-centre/2013/6/alstom-to-provide-an-additional-eight-xtrapolis-trainsets-for-melbournes-metropolitan-rail-network-in-australia/)
-    Alstom 21 June 2013
+27. [Alstom to provide an additional eight Xtrapolis trainsets for Melbourne's Metropolitan Rail Network in Australia](http://www.alstom.com/press-centre/2013/6/alstom-to-provide-an-additional-eight-xtrapolis-trainsets-for-melbournes-metropolitan-rail-network-in-australia/) Alstom 21 June 2013
 
 28.
 
@@ -194,22 +161,12 @@ Flyer"、"Iramoo"、"Melbourne Rocks"和"Westernport"。X'Trapolis
 
 32.
 
-33. [Train stolen and derailed, in 'severe act of vandalism' at a
-    Melbourne
-    station](http://www.abc.net.au/news/2015-11-11/train-derailed-damage-hurstbridge-railway-station/6929500)
-    *ABC News* 11 November 2015
+33. [Train stolen and derailed, in 'severe act of vandalism' at a Melbourne station](http://www.abc.net.au/news/2015-11-11/train-derailed-damage-hurstbridge-railway-station/6929500) *ABC News* 11 November 2015
 
-34. [Hurstbridge derailing: Keys used to steal train 'could have been
-    bought
-    online'](http://www.theage.com.au/victoria/hurstbridge-derailing-keys-used-to-steal-train-could-have-come-from-ebay-20151110-gkvut8)
-    *The Age* 11 November 2015
+34. [Hurstbridge derailing: Keys used to steal train 'could have been bought online'](http://www.theage.com.au/victoria/hurstbridge-derailing-keys-used-to-steal-train-could-have-come-from-ebay-20151110-gkvut8) *The Age* 11 November 2015
 
-35. [Train derails at Rushall Station on Melbourne's South Morang
-    line](http://www.abc.net.au/news/2016-02-06/train-derailed-at-rushall-station-on-south-morang-line/7146150?section=vic)
-    *ABC News* 6 February 2016
+35. [Train derails at Rushall Station on Melbourne's South Morang line](http://www.abc.net.au/news/2016-02-06/train-derailed-at-rushall-station-on-south-morang-line/7146150?section=vic) *ABC News* 6 February 2016
 
 36.
 
-37. [Alstom in
-    Chile](http://www.alstom.com/Global/Group/Resources/Documents/Factsheets/Chile-Factsheet.pdf)
-     Alstom
+37. [Alstom in Chile](http://www.alstom.com/Global/Group/Resources/Documents/Factsheets/Chile-Factsheet.pdf)  Alstom

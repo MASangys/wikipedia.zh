@@ -4,18 +4,17 @@
 
 ## 有关同性性行为的法律
 
-在[瓦努阿图同性性行为是合法的](../Page/瓦努阿图.md "wikilink")。
-自2007年以来，无论性别如何，[同意年龄都是相等的](https://zh.wikipedia.org/wiki/同意年龄 "wikilink")。\[2\]
+在[瓦努阿图](../Page/瓦努阿图.md "wikilink")同性性行为是合法的。 自2007年以来，无论性别如何，[同意年龄都是相等的](https://zh.wikipedia.org/wiki/同意年龄 "wikilink")。\[2\]
 
 ## 同性伴侣关系的承认
 
-[瓦努阿图不承认任何形式的同性伴侣关系](../Page/瓦努阿图.md "wikilink")。\[3\]\[4\]
+[瓦努阿图](../Page/瓦努阿图.md "wikilink")不承认任何形式的同性伴侣关系。\[3\]\[4\]
 
 2013年10月，内政部发出警告表示牧师不得主持同性婚姻。\[5\]
 
 ## 反歧视保障
 
-没有基于[性取向或](../Page/性取向.md "wikilink")[性别认同的一切形式歧视的法律保护](https://zh.wikipedia.org/wiki/性别认同 "wikilink")。\[6\]
+没有基于[性取向](../Page/性取向.md "wikilink")或[性别认同的一切形式歧视的法律保护](https://zh.wikipedia.org/wiki/性别认同 "wikilink")。\[6\]
 
 在瓦努阿图没有普遍禁止基于性取向的就业歧视。然而，《2013年教学服务法》第18.2（f）节规定了瓦努阿图教学委员会的义务，不得在“性别”的基础上对招聘，晋升，职业发展和雇员管理的其他方面有“性别偏好”。\[7\]\[8\]
 
@@ -49,8 +48,7 @@
 
 ## 参考资料
 
-[Category:大洋洲LGBT權益](https://zh.wikipedia.org/wiki/Category:大洋洲LGBT權益 "wikilink")
-[Category:瓦努阿图政治](https://zh.wikipedia.org/wiki/Category:瓦努阿图政治 "wikilink")
+[Category:大洋洲LGBT權益](https://zh.wikipedia.org/wiki/Category:大洋洲LGBT權益 "wikilink") [Category:瓦努阿图政治](https://zh.wikipedia.org/wiki/Category:瓦努阿图政治 "wikilink")
 
 1.
 

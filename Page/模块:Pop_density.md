@@ -1,5 +1,4 @@
-\-- -- This module implements  -- local p = {} local math_module =
-require( "Module:Math" ) local precision = math_module._precision
+\-- -- This module implements  -- local p = {} local math_module = require( "Module:Math" ) local precision = math_module._precision
 
 local function rnd(num, digits)
 
@@ -41,8 +40,7 @@ end local unitnames = {
 
 }
 
-local function popdensity(pop, area1, areaunit1, areaunit2, prec, disp,
-flip)
+local function popdensity(pop, area1, areaunit1, areaunit2, prec, disp, flip)
 
 `   local dens1, prec1 = nil, nil`
 `   local dens2, prec2 = nil, nil`

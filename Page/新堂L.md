@@ -2,8 +2,7 @@
 
 ## 經歷
 
-新堂L的父親是日本人，母親是美國人，有美國國籍，在紐約出生並接受教育，由於喜歡看漫畫，自大學期間就參與[同人活動](https://zh.wikipedia.org/wiki/同人 "wikilink")、並立志成為漫畫家。由於新堂認為美國情色產業的不自由而前往日本發展，2008年被出版社相中，在BURSTER
-COMIC出道。\[1\]
+新堂L的父親是日本人，母親是美國人，有美國國籍，在紐約出生並接受教育，由於喜歡看漫畫，自大學期間就參與[同人活動](https://zh.wikipedia.org/wiki/同人 "wikilink")、並立志成為漫畫家。由於新堂認為美國情色產業的不自由而前往日本發展，2008年被出版社相中，在BURSTER COMIC出道。\[1\]
 
 ## 作品
 
@@ -23,7 +22,7 @@ COMIC出道。\[1\]
 
 ### 原畫
 
-[日本成人遊戲的掛名原畫師](../Page/日本成人遊戲.md "wikilink")。
+[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")的掛名原畫師。
 
   - 虜囚市場〜罠に嵌められたエルフの女将校〜（2011年3月25日發售、Black Lilith）
   - Monsters Survive 〜負ければモンスターに生殖される〜（2012年7月27日發售、Black Lilith）
@@ -33,14 +32,10 @@ COMIC出道。\[1\]
   - [DaHootch](http://www.dahootch.com/) - 公式サイト
 
   -
-  - [えろまんがけんきゅう
-    新堂エル先生インタビュー](http://ero.manga-studies.com/?p=article&bid=105)
+  - [えろまんがけんきゅう 新堂エル先生インタビュー](http://ero.manga-studies.com/?p=article&bid=105)
 
 ## 參考文獻
 
-[Category:日本成人漫畫家](https://zh.wikipedia.org/wiki/Category:日本成人漫畫家 "wikilink")
-[Category:美國漫畫家](https://zh.wikipedia.org/wiki/Category:美國漫畫家 "wikilink")
-[Category:紐約市人](https://zh.wikipedia.org/wiki/Category:紐約市人 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本成人漫畫家](https://zh.wikipedia.org/wiki/Category:日本成人漫畫家 "wikilink") [Category:美國漫畫家](https://zh.wikipedia.org/wiki/Category:美國漫畫家 "wikilink") [Category:紐約市人](https://zh.wikipedia.org/wiki/Category:紐約市人 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.

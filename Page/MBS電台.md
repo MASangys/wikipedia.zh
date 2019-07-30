@@ -1,7 +1,6 @@
-**MBS電台**（，）是一座以[關西地區為放送範圍的](https://zh.wikipedia.org/wiki/關西地區 "wikilink")[AM](../Page/調幅廣播.md "wikilink")[廣播電台](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")。它是[每日放送集團下屬的](../Page/每日放送.md "wikilink")[廣播電台](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")。總部設於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")，頻率為AM
-1179。
+**MBS電台**（，）是一座以[關西地區為放送範圍的](https://zh.wikipedia.org/wiki/關西地區 "wikilink")[AM](../Page/調幅廣播.md "wikilink")[廣播電台](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")。它是[每日放送](../Page/每日放送.md "wikilink")集團下屬的[廣播電台](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")。總部設於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")，頻率為AM 1179。
 
-MBS電台是[廣播聯播網](https://zh.wikipedia.org/wiki/廣播聯播網 "wikilink")[JRN及](https://zh.wikipedia.org/wiki/JRN "wikilink")[NRN的成員](../Page/NRN.md "wikilink")。
+MBS電台是[廣播聯播網](https://zh.wikipedia.org/wiki/廣播聯播網 "wikilink")[JRN及](https://zh.wikipedia.org/wiki/JRN "wikilink")[NRN](../Page/NRN.md "wikilink")的成員。
 
 ## 沿革
 
@@ -28,9 +27,4 @@ MBS電台是[廣播聯播網](https://zh.wikipedia.org/wiki/廣播聯播網 "wik
   -
   - [MBS電台歷史](http://www.homemate-research-radio-station.com/useful/16605_facil_046/)
 
-
-[Category:近畿地方的廣播電台](https://zh.wikipedia.org/wiki/Category:近畿地方的廣播電台 "wikilink")
-[Category:每日放送](https://zh.wikipedia.org/wiki/Category:每日放送 "wikilink")
-[Category:日本新聞網_(TBS)](https://zh.wikipedia.org/wiki/Category:日本新聞網_\(TBS\) "wikilink")
-[Category:1951年日本建立](https://zh.wikipedia.org/wiki/Category:1951年日本建立 "wikilink")
-[Category:大阪市北區建築物](https://zh.wikipedia.org/wiki/Category:大阪市北區建築物 "wikilink")
+[Category:近畿地方的廣播電台](https://zh.wikipedia.org/wiki/Category:近畿地方的廣播電台 "wikilink") [Category:每日放送](https://zh.wikipedia.org/wiki/Category:每日放送 "wikilink") [Category:日本新聞網_(TBS)](https://zh.wikipedia.org/wiki/Category:日本新聞網_\(TBS\) "wikilink") [Category:1951年日本建立](https://zh.wikipedia.org/wiki/Category:1951年日本建立 "wikilink") [Category:大阪市北區建築物](https://zh.wikipedia.org/wiki/Category:大阪市北區建築物 "wikilink")

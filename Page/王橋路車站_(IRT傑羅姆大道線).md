@@ -1,4 +1,4 @@
-**王橋路車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT傑羅姆大道線高架段翻新後的慢車](../Page/IRT傑羅姆大道線.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布朗克斯王橋路及傑羅姆大道交界](../Page/布朗克斯.md "wikilink")，設有[4號線](https://zh.wikipedia.org/wiki/紐約地鐵4號線 "wikilink")（任何時候停站）列車服務。
+**王橋路車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT傑羅姆大道線](../Page/IRT傑羅姆大道線.md "wikilink")高架段翻新後的慢車[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布朗克斯](../Page/布朗克斯.md "wikilink")王橋路及傑羅姆大道交界，設有[4號線](https://zh.wikipedia.org/wiki/紐約地鐵4號線 "wikilink")（任何時候停站）列車服務。
 
 ## 車站結構
 
@@ -36,7 +36,7 @@
 </tbody>
 </table>
 
-此站設有兩個[側式月台和三條軌道](../Page/側式月台.md "wikilink")，中央軌道不營運。此站是一個典型的[IRT的高架車站](../Page/跨區捷運公司.md "wikilink")。車站以西即設有。
+此站設有兩個[側式月台](../Page/側式月台.md "wikilink")和三條軌道，中央軌道不營運。此站是一個典型的[IRT的高架車站](../Page/跨區捷運公司.md "wikilink")。車站以西即設有。
 
 王橋路車站原先於1917年6月2日啟用，並為北端總站，直至1918年4月15日路線北延至[伍德羅恩](https://zh.wikipedia.org/wiki/伍德羅恩車站_\(IRT傑羅姆大道線\) "wikilink")。
 
@@ -46,24 +46,16 @@
 
   -
   -
-  - nycsubway.org — [Urban Motif Artwork by Mario M. Muller
-    (2006)](http://www.nycsubway.org/perl/artwork_show?178)
+  - nycsubway.org — [Urban Motif Artwork by Mario M. Muller (2006)](http://www.nycsubway.org/perl/artwork_show?178)
 
-  - Station Reporter — [4
-    Train](https://web.archive.org/web/20131219141200/http://www.stationreporter.net/4train.htm)
+  - Station Reporter — [4 Train](https://web.archive.org/web/20131219141200/http://www.stationreporter.net/4train.htm)
 
-  - The Subway Nut — [Kingsbridge Road
-    Pictures](http://www.subwaynut.com/irt/kingsbridgen4/index.html)
+  - The Subway Nut — [Kingsbridge Road Pictures](http://www.subwaynut.com/irt/kingsbridgen4/index.html)
 
-  - MTA's Arts For Transit — [Kingsbridge Road (IRT Jerome Avenue
-    Line)](https://web.archive.org/web/20110606071201/http://mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=4&station=4&xdev=257)
+  - MTA's Arts For Transit — [Kingsbridge Road (IRT Jerome Avenue Line)](https://web.archive.org/web/20110606071201/http://mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=4&station=4&xdev=257)
 
-  - [Kingsbridge Road entrance from Google Maps Street
-    View](https://maps.google.com/?ll=40.867428,-73.897433&spn=0.006142,0.011061&layer=c&cbll=40.867503,-73.897378&panoid=llXPWadwKT1Pc3S6RXFLRg&cbp=12,31.64,,0,1.31&t=m&z=17)
+  - [Kingsbridge Road entrance from Google Maps Street View](https://maps.google.com/?ll=40.867428,-73.897433&spn=0.006142,0.011061&layer=c&cbll=40.867503,-73.897378&panoid=llXPWadwKT1Pc3S6RXFLRg&cbp=12,31.64,,0,1.31&t=m&z=17)
 
-  - [Platforms from Google Maps Street
-    View](https://www.google.com/maps/contrib/103237729589375373179/photos/@40.8678284,-73.8970413,3a,75y,149h,90t/data=!3m7!1e1!3m5!1s-thwH_8BLaEA%2FWVR_z8JHTaI%2FAAAAAAAAujQ%2F7_7AAw1dC7YtIo8RBki-pEx2WgK2P3mtACLIBGAYYCw!2e4!6s%2F%2Flh4.googleusercontent.com%2F-thwH_8BLaEA%2FWVR_z8JHTaI%2FAAAAAAAAujQ%2F7_7AAw1dC7YtIo8RBki-pEx2WgK2P3mtACLIBGAYYCw%2Fw203-h100-p-k-no%2F!7i8704!8i4352!4m3!8m2!3m1!1e1)
+  - [Platforms from Google Maps Street View](https://www.google.com/maps/contrib/103237729589375373179/photos/@40.8678284,-73.8970413,3a,75y,149h,90t/data=!3m7!1e1!3m5!1s-thwH_8BLaEA%2FWVR_z8JHTaI%2FAAAAAAAAujQ%2F7_7AAw1dC7YtIo8RBki-pEx2WgK2P3mtACLIBGAYYCw!2e4!6s%2F%2Flh4.googleusercontent.com%2F-thwH_8BLaEA%2FWVR_z8JHTaI%2FAAAAAAAAujQ%2F7_7AAw1dC7YtIo8RBki-pEx2WgK2P3mtACLIBGAYYCw%2Fw203-h100-p-k-no%2F!7i8704!8i4352!4m3!8m2!3m1!1e1)
 
-[Category:IRT傑羅姆大道線車站](https://zh.wikipedia.org/wiki/Category:IRT傑羅姆大道線車站 "wikilink")
-[Category:1917年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路車站 "wikilink")
-[Category:布朗克斯紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布朗克斯紐約地鐵車站 "wikilink")
+[Category:IRT傑羅姆大道線車站](https://zh.wikipedia.org/wiki/Category:IRT傑羅姆大道線車站 "wikilink") [Category:1917年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路車站 "wikilink") [Category:布朗克斯紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布朗克斯紐約地鐵車站 "wikilink")

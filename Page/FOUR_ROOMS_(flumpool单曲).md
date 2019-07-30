@@ -1,6 +1,4 @@
-《**FOUR
-ROOMS**》是日本樂團[flumpool的Comcept](https://zh.wikipedia.org/wiki/flumpool "wikilink")
-Disc\[1\]，2015年8月5日發行，台灣方面則由[相信音樂製作](https://zh.wikipedia.org/wiki/相信音樂 "wikilink")、[台灣索尼音樂娛樂股份有限公司發行](../Page/台灣索尼音樂娛樂.md "wikilink")\[2\]。
+《**FOUR ROOMS**》是日本樂團[flumpool的Comcept](https://zh.wikipedia.org/wiki/flumpool "wikilink") Disc\[1\]，2015年8月5日發行，台灣方面則由[相信音樂製作](https://zh.wikipedia.org/wiki/相信音樂 "wikilink")、[台灣索尼音樂娛樂](../Page/台灣索尼音樂娛樂.md "wikilink")股份有限公司發行\[2\]。
 
 ## 收錄歌曲
 
@@ -27,12 +25,7 @@ Disc\[1\]，2015年8月5日發行，台灣方面則由[相信音樂製作](https
 
 ## 參考資料
 
-[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink")
-[Category:flumpool歌曲](https://zh.wikipedia.org/wiki/Category:flumpool歌曲 "wikilink")
-[Category:A-Sketch音樂專輯](https://zh.wikipedia.org/wiki/Category:A-Sketch音樂專輯 "wikilink")
-[Category:台灣索尼唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣索尼唱片音樂專輯 "wikilink")
-[Category:相信音樂製作音樂專輯](https://zh.wikipedia.org/wiki/Category:相信音樂製作音樂專輯 "wikilink")
+[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:flumpool歌曲](https://zh.wikipedia.org/wiki/Category:flumpool歌曲 "wikilink") [Category:A-Sketch音樂專輯](https://zh.wikipedia.org/wiki/Category:A-Sketch音樂專輯 "wikilink") [Category:台灣索尼唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣索尼唱片音樂專輯 "wikilink") [Category:相信音樂製作音樂專輯](https://zh.wikipedia.org/wiki/Category:相信音樂製作音樂專輯 "wikilink")
 
 1.  雖然列入單曲榜單，但官方不將本張作品算入單曲編號中
-2.  [台灣索尼音樂娛樂股份有限公司\>FOUR
-    ROOMS](https://www.sonymusic.com.tw/main/album/four-rooms-flumpool-bd0089)
+2.  [台灣索尼音樂娛樂股份有限公司\>FOUR ROOMS](https://www.sonymusic.com.tw/main/album/four-rooms-flumpool-bd0089)

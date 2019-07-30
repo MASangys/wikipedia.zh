@@ -1,5 +1,4 @@
-'''T-ARA 2017 Live:
-'''是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[T-ara於](https://zh.wikipedia.org/wiki/T-ara "wikilink")2017年舉辦的演唱會。
+'''T-ARA 2017 Live: '''是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[T-ara於](https://zh.wikipedia.org/wiki/T-ara "wikilink")2017年舉辦的演唱會。
 
 ## 演出日期
 
@@ -9,7 +8,6 @@
 
 ## 參考資料
 
-  - [T-ARA 2017 Live in
-    Taipei](https://iticket.gmusic.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=M02Z7RPR)
+  - [T-ARA 2017 Live in Taipei](https://iticket.gmusic.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=M02Z7RPR)
 
 [Category:T-ara](https://zh.wikipedia.org/wiki/Category:T-ara "wikilink")

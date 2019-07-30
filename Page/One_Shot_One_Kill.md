@@ -1,27 +1,18 @@
-《**One Shot One
-Kill**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS的第五張日語](../Page/U-KISS.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2016年3月23日以五個版本：CD＋Blu-ray盤、CD＋DVD盤、event
-LIVE合體盤（）、通常盤及mu-mo盤推出\[1\]。兩張打入Oricon單曲週榜前五名的單曲：《[Stay
-Gold](https://zh.wikipedia.org/wiki/Stay_Gold_\(U-KISS單曲\) "wikilink")》及《[Kissing
-to
-feel](https://zh.wikipedia.org/wiki/Kissing_to_feel "wikilink")》在專輯推出前預先發行。
+《**One Shot One Kill**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")的第五張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2016年3月23日以五個版本：CD＋Blu-ray盤、CD＋DVD盤、event LIVE合體盤（）、通常盤及mu-mo盤推出\[1\]。兩張打入Oricon單曲週榜前五名的單曲：《[Stay Gold](https://zh.wikipedia.org/wiki/Stay_Gold_\(U-KISS單曲\) "wikilink")》及《[Kissing to feel](https://zh.wikipedia.org/wiki/Kissing_to_feel "wikilink")》在專輯推出前預先發行。
 
 ## 概觀
 
-2016年1月22日，U-KISS的官方網站宣布將在3月23日發行新專輯\[2\]；2月15日確定大碟名稱為《One Shot One
-Kill》，並披露專輯所有版本的封面與所有收錄曲目\[3\]。
+2016年1月22日，U-KISS的官方網站宣布將在3月23日發行新專輯\[2\]；2月15日確定大碟名稱為《One Shot One Kill》，並披露專輯所有版本的封面與所有收錄曲目\[3\]。
 
 ### 發行版本
 
 此專輯共分為5個發行版本：
 
-  - CD＋Blu-ray盤／CD＋DVD盤（編號：AVCD-93405/B／AVCD-93404/B）：此版本包括一片CD及一片收錄《U-KISS
-    FANCLUB EVENT 2015 IN CHRISTMAS Supprted by
-    grove》活動的Blu-ray／DVD，同時附贈20頁活動寫真書和活動參加券\[4\]\[5\]。
+  - CD＋Blu-ray盤／CD＋DVD盤（編號：AVCD-93405/B／AVCD-93404/B）：此版本包括一片CD及一片收錄《U-KISS FANCLUB EVENT 2015 IN CHRISTMAS Supprted by grove》活動的Blu-ray／DVD，同時附贈20頁活動寫真書和活動參加券\[4\]\[5\]。
 
 <!-- end list -->
 
-  - event LIVE合體盤（）（編號：AVCD-93406/B）：此版本包括了一片CD及一片收錄《U-KISS 2015'Nico
-    Faret premium live events》（）活動的DVD，同時附贈活動參加券\[6\]。
+  - event LIVE合體盤（）（編號：AVCD-93406/B）：此版本包括了一片CD及一片收錄《U-KISS 2015'Nico Faret premium live events》（）活動的DVD，同時附贈活動參加券\[6\]。
 
 <!-- end list -->
 
@@ -37,7 +28,7 @@ Kill》，並披露專輯所有版本的封面與所有收錄曲目\[3\]。
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量          | 總銷量     | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量          | 總銷量     | 停留時間 |
 | ---------------------------------------- | ---- | ------------ | ------- | ---- |
 | 專輯日榜                                     | 3    | 9,770        | 13,252+ | 2週   |
 | 專輯週榜                                     | 6    | 12,988\[10\] |         |      |
@@ -52,10 +43,7 @@ Kill》，並披露專輯所有版本的封面與所有收錄曲目\[3\]。
 
 ## 參考資料
 
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:U-KISS音樂專輯](https://zh.wikipedia.org/wiki/Category:U-KISS音樂專輯 "wikilink")
-[Category:愛貝克思音樂專輯](https://zh.wikipedia.org/wiki/Category:愛貝克思音樂專輯 "wikilink")
+[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:U-KISS音樂專輯](https://zh.wikipedia.org/wiki/Category:U-KISS音樂專輯 "wikilink") [Category:愛貝克思音樂專輯](https://zh.wikipedia.org/wiki/Category:愛貝克思音樂專輯 "wikilink")
 
 1.
 

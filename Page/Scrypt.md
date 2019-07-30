@@ -1,5 +1,4 @@
-在[密碼學中](https://zh.wikipedia.org/wiki/密碼學 "wikilink")，**scrypt**（唸作「ess
-crypt」\[1\]）是於2009年所發明的，當初設計用在他所創立的服務上\[2\]。設計時考慮到大規模的而刻意設計需要大量記憶體運算。2016年，scrypt演算法發佈在。scrypt的簡化版被用在數個[密碼貨幣的](../Page/密碼貨幣.md "wikilink")[工作量證明](../Page/工作量證明.md "wikilink")（）上。
+在[密碼學中](https://zh.wikipedia.org/wiki/密碼學 "wikilink")，**scrypt**（唸作「ess crypt」\[1\]）是於2009年所發明的，當初設計用在他所創立的服務上\[2\]。設計時考慮到大規模的而刻意設計需要大量記憶體運算。2016年，scrypt演算法發佈在。scrypt的簡化版被用在數個[密碼貨幣](../Page/密碼貨幣.md "wikilink")的[工作量證明](../Page/工作量證明.md "wikilink")（）上。
 
 ## 概觀
 
@@ -11,7 +10,7 @@ scrypt需要使用大量記憶體的原因來自於產生大量[伪随机性](..
 
 ## 密碼貨幣上的使用
 
-scrypt被用在數個[密碼貨幣的](../Page/密碼貨幣.md "wikilink")[工作量證明演算法上](../Page/工作量證明.md "wikilink")。首先被所使用（2011年九月)，而後被[莱特币](../Page/莱特币.md "wikilink")（）與[多吉币](../Page/多吉币.md "wikilink")（）所採用。因[GPU在計算使用scrypt的密碼貨幣較](https://zh.wikipedia.org/wiki/GPU "wikilink")[CPU有效率](https://zh.wikipedia.org/wiki/CPU "wikilink")，這導致了高階顯示卡在2013年年底的短缺\[3\]。
+scrypt被用在數個[密碼貨幣](../Page/密碼貨幣.md "wikilink")的[工作量證明](../Page/工作量證明.md "wikilink")演算法上。首先被所使用（2011年九月)，而後被[莱特币](../Page/莱特币.md "wikilink")（）與[多吉币](../Page/多吉币.md "wikilink")（）所採用。因[GPU在計算使用scrypt的密碼貨幣較](https://zh.wikipedia.org/wiki/GPU "wikilink")[CPU有效率](https://zh.wikipedia.org/wiki/CPU "wikilink")，這導致了高階顯示卡在2013年年底的短缺\[3\]。
 
 在2014年開始，市場上已經有使用[ASIC計算scrypt演算法的挖礦機](../Page/特殊應用積體電路.md "wikilink")\[4\]。
 
@@ -23,11 +22,9 @@ scrypt被用在數個[密碼貨幣的](../Page/密碼貨幣.md "wikilink")[工�
 
 ## 外部連結
 
-  - [Tarsnap - The scrypt key derivation function and encryption
-    utility](https://www.tarsnap.com/scrypt.html)
+  - [Tarsnap - The scrypt key derivation function and encryption utility](https://www.tarsnap.com/scrypt.html)
 
-  - [STRONGER KEY DERIVATION VIA SEQUENTIAL MEMORY-HARD
-    FUNCTIONS](https://www.tarsnap.com/scrypt/scrypt.pdf)
+  - [STRONGER KEY DERIVATION VIA SEQUENTIAL MEMORY-HARD FUNCTIONS](https://www.tarsnap.com/scrypt/scrypt.pdf)
 
   -
 

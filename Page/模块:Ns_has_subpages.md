@@ -1,8 +1,4 @@
-\-- This module implements [Template:Ns has
-subpages](https://zh.wikipedia.org/wiki/Template:Ns_has_subpages "wikilink").
--- While the template is fairly simple, this information is made
-available to -- Lua directly, so using a module means that we don't have
-to update the -- template as new namespaces are added.
+\-- This module implements [Template:Ns has subpages](https://zh.wikipedia.org/wiki/Template:Ns_has_subpages "wikilink"). -- While the template is fairly simple, this information is made available to -- Lua directly, so using a module means that we don't have to update the -- template as new namespaces are added.
 
 local p = {}
 

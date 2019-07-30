@@ -1,5 +1,4 @@
-《**Dearest Blue**》是LiLiM
-DARKNESS在2016年5月27日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]\[3\]，BLUE系列的第8個作品\[4\]，遊戲的主題是「偏愛」。\[5\]
+《**Dearest Blue**》是LiLiM DARKNESS在2016年5月27日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]\[3\]，BLUE系列的第8個作品\[4\]，遊戲的主題是「偏愛」。\[5\]
 
 ## 故事
 
@@ -40,24 +39,13 @@ DARKNESS在2016年5月27日發售的[戀愛冒險類型](https://zh.wikipedia.or
 ## 外部連結
 
   - [LiLiM](http://s-digi.jp/lilim/)
-  - [Dearest
-    Blue](http://s-digi.jp/lilim/02_soft/02_darkness/08_deb/deb01.html)LiLiM
-    DARKNESS
+  - [Dearest Blue](http://s-digi.jp/lilim/02_soft/02_darkness/08_deb/deb01.html)LiLiM DARKNESS
 
-[Category:2016年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2016年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
+[Category:2016年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2016年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
 
-1.  [Dearest
-    Blue特集](http://www.game-style.jp/special/201604/13/00der_ld.php)Game-Style
+1.  [Dearest Blue特集](http://www.game-style.jp/special/201604/13/00der_ld.php)Game-Style
 2.  [Dearest Blue](http://www.getchu.com/soft.phtml?id=892271)Getchu.com
 3.  [Dearest Blue](https://vndb.org/v19024)The Visual Novel Database
-4.  [【TG
-    SCOOP】寝取られがテーマの『Blue』シリーズ第8弾！](http://www.tgsmart.jp/article.aspx?a=12571)TG
-    Smart
-5.  [新人アイドルの初体験を奪え。悪趣味な遊戯が幕を開ける『Dearest
-    Blue』](http://dengeki-hime.com/2016/03/08/12494/) 電撃姫.com
+4.  [【TG SCOOP】寝取られがテーマの『Blue』シリーズ第8弾！](http://www.tgsmart.jp/article.aspx?a=12571)TG Smart
+5.  [新人アイドルの初体験を奪え。悪趣味な遊戯が幕を開ける『Dearest Blue』](http://dengeki-hime.com/2016/03/08/12494/) 電撃姫.com
 6.  [Dearest Blue](http://erogetrailers.com/soft/13919)ErogeTrailers

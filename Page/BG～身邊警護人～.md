@@ -1,4 +1,4 @@
-《**BG～身邊警護人～**》（日語：），2018年1月18日於[朝日電視台週四晚間九點連續劇播出](../Page/朝日電視台週四晚間九點連續劇.md "wikilink")。主演為[木村拓哉](../Page/木村拓哉.md "wikilink") \[1\]。
+《**BG～身邊警護人～**》（日語：），2018年1月18日於[朝日電視台週四晚間九點連續劇](../Page/朝日電視台週四晚間九點連續劇.md "wikilink")播出。主演為[木村拓哉](../Page/木村拓哉.md "wikilink") \[1\]。
 
 ## 簡介
 
@@ -10,23 +10,18 @@
 
   - 島崎章：[木村拓哉](../Page/木村拓哉.md "wikilink")（香港有線配音：[羅偉傑](../Page/羅偉傑.md "wikilink")）
     隸屬於民間警備會社，日之出警備保障身邊警護課。6年前是河野純也的私人保鏢，辭去私人保鏢的工作後後曾擔任交通警備員。
-  - 高梨雅也：[齋藤工](../Page/齋藤工.md "wikilink")
-    \[2\]（香港有線配音：[簡懷甄](../Page/簡懷甄.md "wikilink")）
+  - 高梨雅也：[齋藤工](../Page/齋藤工.md "wikilink") \[2\]（香港有線配音：[簡懷甄](../Page/簡懷甄.md "wikilink")）
     隸屬於身邊警護課。前自衛隊成員。正在調查島崎的過去。曾離開身邊警護課，但在村田五郎的說服下返回身邊警護課。
-  - 菅沼麻友：[菜菜緒](../Page/菜菜緒.md "wikilink")
-    \[3\]（香港有線配音：[黃紫嫻](https://zh.wikipedia.org/wiki/黃紫嫻 "wikilink")）
+  - 菅沼麻友：[菜菜緒](../Page/菜菜緒.md "wikilink") \[3\]（香港有線配音：[黃紫嫻](https://zh.wikipedia.org/wiki/黃紫嫻 "wikilink")）
     隸屬於身邊警護課。前柔道選手，運動神經出眾。
-  - 澤口正太郎：[間宮祥太朗](../Page/間宮祥太朗.md "wikilink")
-    \[4\]（香港有線配音：[張振熙](../Page/張振熙.md "wikilink")）
+  - 澤口正太郎：[間宮祥太朗](../Page/間宮祥太朗.md "wikilink") \[4\]（香港有線配音：[張振熙](../Page/張振熙.md "wikilink")）
     隸屬於身邊警護課。因為就職活動失敗，所以暫時於警護課工作。
-  - 村田五郎：[上川隆也](../Page/上川隆也.md "wikilink")
-    \[5\]（香港有線配音：[陳冠宏](../Page/陳冠宏.md "wikilink")）
+  - 村田五郎：[上川隆也](../Page/上川隆也.md "wikilink") \[5\]（香港有線配音：[陳冠宏](../Page/陳冠宏.md "wikilink")）
     身邊警護課課長。負責管理身邊警護課中有不同個性的隊員。
 
 ### 政治家
 
-  - 立原愛子：[石田百合子](../Page/石田百合子.md "wikilink")
-    \[6\]（香港有線配音：[莎拉](../Page/莎拉.md "wikilink")）
+  - 立原愛子：[石田百合子](../Page/石田百合子.md "wikilink") \[6\]（香港有線配音：[莎拉](../Page/莎拉.md "wikilink")）
     厚生勞動大臣。前人氣主播，8年前在眾議院選舉因得到男性支持而當選。
   - 五十嵐映一：[堀内正美](https://zh.wikipedia.org/wiki/堀内正美 "wikilink")
     民事黨幹事長。
@@ -35,8 +30,7 @@
 
 ### 警視廳SP
 
-  - 落合義明：[江口洋介](../Page/江口洋介.md "wikilink")
-    \[7\]（香港有線配音：[楊耀泰](../Page/楊耀泰.md "wikilink")）
+  - 落合義明：[江口洋介](../Page/江口洋介.md "wikilink") \[7\]（香港有線配音：[楊耀泰](../Page/楊耀泰.md "wikilink")）
     在加入警視廳後被編入SP 。反對私人機構擔任保鏢工作。
   - 冰川修： \[8\]
     警視廳警備部警護課係長。
@@ -64,11 +58,9 @@
 
 #### 第1集
 
-  - 犬飼悟：[勝地涼](../Page/勝地涼.md "wikilink")
-    \[14\]（香港有線配音：[李家傑](../Page/李家傑_\(配音員\).md "wikilink")）
+  - 犬飼悟：[勝地涼](../Page/勝地涼.md "wikilink") \[14\]（香港有線配音：[李家傑](../Page/李家傑_\(配音員\).md "wikilink")）
     雜誌「時論」記者。立原愛子最為信任的記者。
-  - 大久保佐助：[伊武雅刀](../Page/伊武雅刀.md "wikilink")
-    \[15\]（香港有線配音：[陳冠宏](../Page/陳冠宏.md "wikilink")）
+  - 大久保佐助：[伊武雅刀](../Page/伊武雅刀.md "wikilink") \[15\]（香港有線配音：[陳冠宏](../Page/陳冠宏.md "wikilink")）
     佐助食品會長，隅田川馬拉松大會贊助人。因立原愛子的脅迫事件而成位身邊警備課首位委託人。
   - 佐藤雄二：
     工事現場交通警備員。
@@ -289,13 +281,7 @@
   - [BG〜身辺警護人〜 - 朝日電視台](http://www.tv-asahi.co.jp/bg/)
 
   -
-[Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink")
-[Category:井上由美子劇本電視劇](https://zh.wikipedia.org/wiki/Category:井上由美子劇本電視劇 "wikilink")
-[Category:朝日電視台週四晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週四晚間九點連續劇 "wikilink")
-[Category:木村拓哉](https://zh.wikipedia.org/wiki/Category:木村拓哉 "wikilink")
-[Category:日本動作劇](https://zh.wikipedia.org/wiki/Category:日本動作劇 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
+[Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink") [Category:井上由美子劇本電視劇](https://zh.wikipedia.org/wiki/Category:井上由美子劇本電視劇 "wikilink") [Category:朝日電視台週四晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週四晚間九點連續劇 "wikilink") [Category:木村拓哉](https://zh.wikipedia.org/wiki/Category:木村拓哉 "wikilink") [Category:日本動作劇](https://zh.wikipedia.org/wiki/Category:日本動作劇 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
 
 1.
 

@@ -1,11 +1,4 @@
-[Screenshot_of_Trinity_3.5.12.png](https://zh.wikipedia.org/wiki/File:Screenshot_of_Trinity_3.5.12.png "fig:Screenshot_of_Trinity_3.5.12.png")
-[Debian72Trinity35132.png](https://zh.wikipedia.org/wiki/File:Debian72Trinity35132.png "fig:Debian72Trinity35132.png")
-**Trinity桌面环境**（，缩写为）是一个由[KDE
-3.5衍生而来的桌面环境](https://zh.wikipedia.org/wiki/KDE_3 "wikilink")。在Kubuntu切换到KDE
-Plasma 4之后，曾为Kubuntu提供KDE 3.5支持的Timothy
-Pearson组织了这项专案。\[1\]该项目旨在提供延续的Bug修复、新特性，以及对新硬件的支持。Trinity在[Debian](../Page/Debian.md "wikilink")、[Fedora](../Page/Fedora.md "wikilink")、[Ubuntu和其他Linux发行版中有软件包提供](../Page/Ubuntu.md "wikilink")。\[2\]它也用于Q4OS和Exe
-GNU/Linux的默认桌面环境。\[3\]\[4\]自3.5.12版本开始，它使用其自己的[Qt
-3的复刻版本](../Page/Qt.md "wikilink")：TQt，以便和其他版本的Qt一起安装。\[5\]
+[Screenshot_of_Trinity_3.5.12.png](https://zh.wikipedia.org/wiki/File:Screenshot_of_Trinity_3.5.12.png "fig:Screenshot_of_Trinity_3.5.12.png") [Debian72Trinity35132.png](https://zh.wikipedia.org/wiki/File:Debian72Trinity35132.png "fig:Debian72Trinity35132.png") **Trinity桌面环境**（，缩写为）是一个由[KDE 3.5衍生而来的桌面环境](https://zh.wikipedia.org/wiki/KDE_3 "wikilink")。在Kubuntu切换到KDE Plasma 4之后，曾为Kubuntu提供KDE 3.5支持的Timothy Pearson组织了这项专案。\[1\]该项目旨在提供延续的Bug修复、新特性，以及对新硬件的支持。Trinity在[Debian](../Page/Debian.md "wikilink")、[Fedora](../Page/Fedora.md "wikilink")、[Ubuntu](../Page/Ubuntu.md "wikilink")和其他Linux发行版中有软件包提供。\[2\]它也用于Q4OS和Exe GNU/Linux的默认桌面环境。\[3\]\[4\]自3.5.12版本开始，它使用其自己的[Qt 3的复刻版本](../Page/Qt.md "wikilink")：TQt，以便和其他版本的Qt一起安装。\[5\]
 
 ## 版本历史
 
@@ -82,9 +75,7 @@ GNU/Linux的默认桌面环境。\[3\]\[4\]自3.5.12版本开始，它使用其�
 
 ## 外部链接
 
-  - [DistroWatch: list of distributions in their database that have
-    Trinity in their official
-    repositories](http://distrowatch.com/search.php?desktop=Trinity#simple)
+  - [DistroWatch: list of distributions in their database that have Trinity in their official repositories](http://distrowatch.com/search.php?desktop=Trinity#simple)
   - [Exe GNU/Linux官方网站](http://exegnulinux.net/)
   - [Q4OS官方网站](http://www.q4os.org/)
   - [Trinity桌面环境Wiki](https://wiki.trinitydesktop.org/Trinity_Desktop_Environment)

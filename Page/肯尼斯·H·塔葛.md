@@ -8,16 +8,8 @@
 
 ## 参考資料
 
-[Category:肯塔基州副州长](https://zh.wikipedia.org/wiki/Category:肯塔基州副州长 "wikilink")
-[Category:州际商务委员会人物](https://zh.wikipedia.org/wiki/Category:州际商务委员会人物 "wikilink")
-[Category:肯塔基州共和党人](https://zh.wikipedia.org/wiki/Category:肯塔基州共和党人 "wikilink")
+[Category:肯塔基州副州长](https://zh.wikipedia.org/wiki/Category:肯塔基州副州长 "wikilink") [Category:州际商务委员会人物](https://zh.wikipedia.org/wiki/Category:州际商务委员会人物 "wikilink") [Category:肯塔基州共和党人](https://zh.wikipedia.org/wiki/Category:肯塔基州共和党人 "wikilink")
 
 1.
-2.  Martin Luther King (Jr.), Peter Holloran, Ralph Luker, Penny A.
-    Russell. *The Papers of Martin Luther King, Jr: Threshold of a new
-    decade, January 1959 - December, 1960*. University of California
-    Press, 01-01-2548 BE. Page: 309.
-3.  United States. Division of the Federal Register, United States.
-    Federal Register Division, United States. Office of the Federal
-    Register. *The Code of Federal Regulations of the United States of
-    America*. U.S. Government Printing Office, 1975. Page: 160.
+2.  Martin Luther King (Jr.), Peter Holloran, Ralph Luker, Penny A. Russell. *The Papers of Martin Luther King, Jr: Threshold of a new decade, January 1959 - December, 1960*. University of California Press, 01-01-2548 BE. Page: 309.
+3.  United States. Division of the Federal Register, United States. Federal Register Division, United States. Office of the Federal Register. *The Code of Federal Regulations of the United States of America*. U.S. Government Printing Office, 1975. Page: 160.

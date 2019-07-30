@@ -1,17 +1,12 @@
-**Square Enix
-Collective**是由[史克威尔艾尼克斯子公司](../Page/史克威尔艾尼克斯.md "wikilink")[史克威尔艾尼克斯欧洲持有](../Page/史克威尔艾尼克斯欧洲.md "wikilink")，位於英國的[電子遊戲發行商](../Page/電子遊戲發行商.md "wikilink")。公司于2013年建立，主要負責[獨立遊戲的發行](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")。目前由Phil
-Elliott擔任公司總經理\[1\]。
+**Square Enix Collective**是由[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")子公司[史克威尔艾尼克斯欧洲](../Page/史克威尔艾尼克斯欧洲.md "wikilink")持有，位於英國的[電子遊戲發行商](../Page/電子遊戲發行商.md "wikilink")。公司于2013年建立，主要負責[獨立遊戲的發行](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")。目前由Phil Elliott擔任公司總經理\[1\]。
 
 ## 歷史
 
-2013年，史克威尔艾尼克斯宣布推出全新遊戲募資計畫「Square Enix
-Collective」。該計畫宗旨不在於單純地為作品開發籌募資金，而是期盼獨立遊戲開發商能為他們的遊戲概念得到反饋以及資金，讓這些好點子實現成真\[2\]
-\[3\]。
+2013年，史克威尔艾尼克斯宣布推出全新遊戲募資計畫「Square Enix Collective」。該計畫宗旨不在於單純地為作品開發籌募資金，而是期盼獨立遊戲開發商能為他們的遊戲概念得到反饋以及資金，讓這些好點子實現成真\[2\] \[3\]。
 
 ## 發行遊戲
 
-遊戲創作者將他們的作品構思發佈在Square Enix
-Collective平台，將由網站註冊會員所組成的社群在這28天內對遊戲進行評估。[史克威尔艾尼克斯會依據玩家意見](../Page/史克威尔艾尼克斯.md "wikilink")，審核作品是否能成功。一旦審核通過，將與籌資網站合作，為遊戲進行籌資和開發，並於作品完成後，提供銷售服務。若不幸未能通過審核條件，也會提供工作室意見反饋和確切落選原因。同時也開放Eidos的部分作品。若遊戲公司確認開發者新提交的遊戲創意和概念優於原有作品，即有可能將這個作品授權，交付開發商進行製作\[4\]\[5\]。
+遊戲創作者將他們的作品構思發佈在Square Enix Collective平台，將由網站註冊會員所組成的社群在這28天內對遊戲進行評估。[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")會依據玩家意見，審核作品是否能成功。一旦審核通過，將與籌資網站合作，為遊戲進行籌資和開發，並於作品完成後，提供銷售服務。若不幸未能通過審核條件，也會提供工作室意見反饋和確切落選原因。同時也開放Eidos的部分作品。若遊戲公司確認開發者新提交的遊戲創意和概念優於原有作品，即有可能將這個作品授權，交付開發商進行製作\[4\]\[5\]。
 
 <table>
 <thead>
@@ -208,15 +203,11 @@ Collective平台，將由網站註冊會員所組成的社群在這28天內對�
 
   -
   -
-  - [Square Enix
-    Collective](https://www.youtube.com/user/SquareEnixCollective)的官方YouTube頻道
+  - [Square Enix Collective](https://www.youtube.com/user/SquareEnixCollective)的官方YouTube頻道
 
 [Category:伦敦公司](https://zh.wikipedia.org/wiki/Category:伦敦公司 "wikilink")
 
-[Category:2013年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2013年開業電子遊戲公司 "wikilink")
-[Category:英國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:英國電子遊戲公司 "wikilink")
-[Category:史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/Category:史克威爾艾尼克斯 "wikilink")
-[Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink")
+[Category:2013年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2013年開業電子遊戲公司 "wikilink") [Category:英國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:英國電子遊戲公司 "wikilink") [Category:史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/Category:史克威爾艾尼克斯 "wikilink") [Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink")
 
 1.
 

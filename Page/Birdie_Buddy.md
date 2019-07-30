@@ -1,5 +1,4 @@
-《**Birdie
-Buddy**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN自](https://zh.wikipedia.org/wiki/tvN "wikilink")2011年8月8日播出，由曾獲韓國漫畫大獎的漫畫家（이현세）《BUDDY》的[高爾夫漫畫](https://zh.wikipedia.org/wiki/高爾夫 "wikilink")\[1\]改編而成的[月火連續劇](../Page/TvN月火連續劇.md "wikilink")。和追求事實性的以往作品不同，結合了高爾夫和武俠的獨特風格。劇情是講述了鄉下天才少女夢想成為職業高爾夫選手的故事。\[2\]\[3\]
+《**Birdie Buddy**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN自](https://zh.wikipedia.org/wiki/tvN "wikilink")2011年8月8日播出，由曾獲韓國漫畫大獎的漫畫家（이현세）《BUDDY》的[高爾夫漫畫](https://zh.wikipedia.org/wiki/高爾夫 "wikilink")\[1\]改編而成的[月火連續劇](../Page/TvN月火連續劇.md "wikilink")。和追求事實性的以往作品不同，結合了高爾夫和武俠的獨特風格。劇情是講述了鄉下天才少女夢想成為職業高爾夫選手的故事。\[2\]\[3\]
 
 ## 演員陣容
 
@@ -119,16 +118,8 @@ Buddy**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN
 
   - [日本官方網站](http://buddy.ponycanyon.co.jp/index.html)
 
-[Category:tvN月火連續劇](https://zh.wikipedia.org/wiki/Category:tvN月火連續劇 "wikilink")
-[Category:2011年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年韓國電視劇集 "wikilink")
-[Category:韓國偶像劇](https://zh.wikipedia.org/wiki/Category:韓國偶像劇 "wikilink")
-[Category:TvN深夜劇集](https://zh.wikipedia.org/wiki/Category:TvN深夜劇集 "wikilink")
-[Category:韓國漫畫改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:韓國漫畫改編韓國電視劇 "wikilink")
-[Category:高爾夫球題材作品](https://zh.wikipedia.org/wiki/Category:高爾夫球題材作品 "wikilink")
+[Category:tvN月火連續劇](https://zh.wikipedia.org/wiki/Category:tvN月火連續劇 "wikilink") [Category:2011年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年韓國電視劇集 "wikilink") [Category:韓國偶像劇](https://zh.wikipedia.org/wiki/Category:韓國偶像劇 "wikilink") [Category:TvN深夜劇集](https://zh.wikipedia.org/wiki/Category:TvN深夜劇集 "wikilink") [Category:韓國漫畫改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:韓國漫畫改編韓國電視劇 "wikilink") [Category:高爾夫球題材作品](https://zh.wikipedia.org/wiki/Category:高爾夫球題材作品 "wikilink")
 
-1.  [골프 무협 열전 드라마 <버디버디> 티저 포스터
-    공개](http://www.newscj.com/news/articleView.html?idxno=33961)
-2.  [‘버디버디’ 유이-이용우 골프샷 포즈 2차 티저포스터
-    공개](http://www.newsen.com/news_view.php?uid=201005270806021001)
-3.  [【韓劇】Birdie Buddy
-    (無名俠客)](http://sweet818032.pixnet.net/blog/post/38402568-%e3%80%90%e9%9f%93%e5%8a%87%e3%80%91birdie-buddy-%28%e7%84%a1%e5%90%8d%e4%bf%a0%e5%ae%a2%29)
+1.  [골프 무협 열전 드라마 <버디버디> 티저 포스터 공개](http://www.newscj.com/news/articleView.html?idxno=33961)
+2.  [‘버디버디’ 유이-이용우 골프샷 포즈 2차 티저포스터 공개](http://www.newsen.com/news_view.php?uid=201005270806021001)
+3.  [【韓劇】Birdie Buddy (無名俠客)](http://sweet818032.pixnet.net/blog/post/38402568-%e3%80%90%e9%9f%93%e5%8a%87%e3%80%91birdie-buddy-%28%e7%84%a1%e5%90%8d%e4%bf%a0%e5%ae%a2%29)

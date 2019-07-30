@@ -2,9 +2,7 @@
 
 ## 早期生活
 
-克里斯多福·B·藍登出生於[加利福尼亞州的](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，為演員與瑪喬麗·琳恩·諾（Marjorie
-Lynn
-Noe）的兒子。他是家中透過婚姻生產的四個孩子中最小的。他的父母於1980年離婚，當時他僅4歲，並與父親同住；直到他16歲時，他的父親死於[胰腺癌](../Page/胰腺癌.md "wikilink")\[1\]。克里斯多福·B·藍登的哥哥是名演員，而另一個半親的姊姊也是名女演員。
+克里斯多福·B·藍登出生於[加利福尼亞州的](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，為演員與瑪喬麗·琳恩·諾（Marjorie Lynn Noe）的兒子。他是家中透過婚姻生產的四個孩子中最小的。他的父母於1980年離婚，當時他僅4歲，並與父親同住；直到他16歲時，他的父親死於[胰腺癌](../Page/胰腺癌.md "wikilink")\[1\]。克里斯多福·B·藍登的哥哥是名演員，而另一個半親的姊姊也是名女演員。
 
 ## 個人生活
 
@@ -165,16 +163,7 @@ Noe）的兒子。他是家中透過婚姻生產的四個孩子中最小的。�
 
   -
   -
-[Category:1975年出生](https://zh.wikipedia.org/wiki/Category:1975年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:美國電影導演](https://zh.wikipedia.org/wiki/Category:美國電影導演 "wikilink")
-[Category:美国男性编剧](https://zh.wikipedia.org/wiki/Category:美国男性编剧 "wikilink")
-[Category:美国肥皂剧作家](https://zh.wikipedia.org/wiki/Category:美国肥皂剧作家 "wikilink")
-[Category:美國電視編劇](https://zh.wikipedia.org/wiki/Category:美國電視編劇 "wikilink")
-[Category:爱尔兰裔美国人](https://zh.wikipedia.org/wiki/Category:爱尔兰裔美国人 "wikilink")
-[Category:男同性戀作家](https://zh.wikipedia.org/wiki/Category:男同性戀作家 "wikilink")
-[Category:美國LGBT作家](https://zh.wikipedia.org/wiki/Category:美國LGBT作家 "wikilink")
-[Category:恐怖片導演](https://zh.wikipedia.org/wiki/Category:恐怖片導演 "wikilink")
+[Category:1975年出生](https://zh.wikipedia.org/wiki/Category:1975年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:美國電影導演](https://zh.wikipedia.org/wiki/Category:美國電影導演 "wikilink") [Category:美国男性编剧](https://zh.wikipedia.org/wiki/Category:美国男性编剧 "wikilink") [Category:美国肥皂剧作家](https://zh.wikipedia.org/wiki/Category:美国肥皂剧作家 "wikilink") [Category:美國電視編劇](https://zh.wikipedia.org/wiki/Category:美國電視編劇 "wikilink") [Category:爱尔兰裔美国人](https://zh.wikipedia.org/wiki/Category:爱尔兰裔美国人 "wikilink") [Category:男同性戀作家](https://zh.wikipedia.org/wiki/Category:男同性戀作家 "wikilink") [Category:美國LGBT作家](https://zh.wikipedia.org/wiki/Category:美國LGBT作家 "wikilink") [Category:恐怖片導演](https://zh.wikipedia.org/wiki/Category:恐怖片導演 "wikilink")
 
 1.
 

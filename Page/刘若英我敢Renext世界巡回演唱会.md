@@ -1942,6 +1942,4 @@
 | 收获         | 刘若英                              | 收获 新歌+精选                       | 2001.1.5   | 滚石唱片                               |
 | 后来         | 刘若英                              | 我等你                            | 2000       | 滚石唱片                               |
 
-[Category:2015年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2015年巡迴演唱會 "wikilink")
-[Category:2016年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2016年巡迴演唱會 "wikilink")
-[Category:2017年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2017年巡迴演唱會 "wikilink")
+[Category:2015年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2015年巡迴演唱會 "wikilink") [Category:2016年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2016年巡迴演唱會 "wikilink") [Category:2017年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2017年巡迴演唱會 "wikilink")

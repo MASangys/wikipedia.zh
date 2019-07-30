@@ -1,5 +1,4 @@
-《**Vocal戰爭:
-神的聲音**》（）是由[SBS製作的全新型態音樂](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink")[節目](../Page/綜藝節目.md "wikilink")。\[1\]由200為現場觀眾--神之耳以及5位神的聲音決定選手的合格與否，合格者將挑戰一名神的聲音，將其擊敗後將獲得獎金。节目在2016年2月10日试播，2016年3月30日开始正式放送，于每周三23:10播出。\[2\]於2016年8月17日播出最後一集，並正式停播。
+《**Vocal戰爭: 神的聲音**》（）是由[SBS製作的全新型態音樂](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink")[節目](../Page/綜藝節目.md "wikilink")。\[1\]由200為現場觀眾--神之耳以及5位神的聲音決定選手的合格與否，合格者將挑戰一名神的聲音，將其擊敗後將獲得獎金。节目在2016年2月10日试播，2016年3月30日开始正式放送，于每周三23:10播出。\[2\]於2016年8月17日播出最後一集，並正式停播。
 
 ## 主持人
 
@@ -123,8 +122,7 @@
 
 ### 第二轮
 
-挑战者选择一位歌手进行挑战，挑战者需演唱挑战的歌手的歌曲。歌手演唱的歌曲是挑战者从网友选出的歌单中选择的指定的歌曲。
-双方均表演后，由在场的200名观众投票，票数高的一方获胜。
+挑战者选择一位歌手进行挑战，挑战者需演唱挑战的歌手的歌曲。歌手演唱的歌曲是挑战者从网友选出的歌单中选择的指定的歌曲。 双方均表演后，由在场的200名观众投票，票数高的一方获胜。
 
 ### 獎金
 
@@ -146,9 +144,7 @@
 
 神的聲音：尹度玹、朴正炫、GUMMY、金朝翰、薛雲道。
 
-藝人陪審團：[金永哲](../Page/金永哲_\(藝人\).md "wikilink")、[黃光熙](../Page/黃光熙.md "wikilink")([ZE:A](../Page/ZE:A.md "wikilink"))、小百合、娜璉,
-Mina,
-彩瑛([Twice](https://zh.wikipedia.org/wiki/TWICE "wikilink"))、[洪錫天](https://zh.wikipedia.org/wiki/洪錫天 "wikilink")、Muzie(UV)、藝正花。
+藝人陪審團：[金永哲](../Page/金永哲_\(藝人\).md "wikilink")、[黃光熙](../Page/黃光熙.md "wikilink")([ZE:A](../Page/ZE:A.md "wikilink"))、小百合、娜璉, Mina, 彩瑛([Twice](https://zh.wikipedia.org/wiki/TWICE "wikilink"))、[洪錫天](https://zh.wikipedia.org/wiki/洪錫天 "wikilink")、Muzie(UV)、藝正花。
 
 <table style="width:250%;">
 <colgroup>
@@ -440,8 +436,7 @@ Rough ( <a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a> )</p></td>
 
 神的聲音：尹度玹、朴正炫、GUMMY、金朝翰、鄭仁。
 
-藝人陪審團：李國主、徐康俊、許齡智(Kara)、Jackson, JB(GOT7)、恩熙, EXY,
-程瀟(WJSN)、趙正治、Muzie(UV)。
+藝人陪審團：李國主、徐康俊、許齡智(Kara)、Jackson, JB(GOT7)、恩熙, EXY, 程瀟(WJSN)、趙正治、Muzie(UV)。
 
 <table style="width:260%;">
 <colgroup>
@@ -668,8 +663,7 @@ Ah-Choo ( <a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovel
 
 神的聲音：尹度玹、朴正炫、GUMMY、K.Will、雪雲道。
 
-藝人陪審團：李國主、朴俊亨(g.o.d)、許齡智(Kara)、子瑜, 志效(Twice)、Joy, 瑟琪(Red
-velvet)、沈賢甫、Muzie(UV)。
+藝人陪審團：李國主、朴俊亨(g.o.d)、許齡智(Kara)、子瑜, 志效(Twice)、Joy, 瑟琪(Red velvet)、沈賢甫、Muzie(UV)。
 
 <table style="width:250%;">
 <colgroup>
@@ -1017,8 +1011,7 @@ velvet)、沈賢甫、Muzie(UV)。
 
 神的聲音：尹度玹、朴正炫、GUMMY、金朝翰、Zion.T。
 
-藝人陪審團：李國主、許齡智(Kara)、南珠, 初瓏(Apink)、Lizzy(After
-School)、Alberto、洪錫天、Muzie(UV)。
+藝人陪審團：李國主、許齡智(Kara)、南珠, 初瓏(Apink)、Lizzy(After School)、Alberto、洪錫天、Muzie(UV)。
 
 <table style="width:250%;">
 <colgroup>
@@ -1165,8 +1158,7 @@ School)、Alberto、洪錫天、Muzie(UV)。
 
 神的聲音：尹度玹、朴正炫、GUMMY、鄭仁、尹敏洙。
 
-藝人陪審團：李國主、李天秀、許齡智(Kara)、N, HONGBIN(VIXX)、Kei,
-美珠(Lovelyz)、梁定元、趙正治、Muzie(UV)。
+藝人陪審團：李國主、李天秀、許齡智(Kara)、N, HONGBIN(VIXX)、Kei, 美珠(Lovelyz)、梁定元、趙正治、Muzie(UV)。
 
 <table style="width:250%;">
 <colgroup>
@@ -1265,7 +1257,7 @@ School)、Alberto、洪錫天、Muzie(UV)。
 ( <a href="https://zh.wikipedia.org/wiki/SoReal" title="wikilink">SoReal</a> )<br />
 服務業</p></td>
 <td><p>西邊天空 （李承哲）</p></td>
-<td><p>不能為你做的事 （<a href="../Page/朴孝信.md" title="wikilink">朴孝信原曲</a>，<a href="../Page/Gummy_(歌手).md" title="wikilink">GUMMY翻唱</a>）</p></td>
+<td><p>不能為你做的事 （<a href="../Page/朴孝信.md" title="wikilink">朴孝信</a>原曲，<a href="../Page/Gummy_(歌手).md" title="wikilink">GUMMY翻唱</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Gummy_(韓國歌手)" title="wikilink">GUMMY</a></p></td>
 <td><p>不像理由的理由（<a href="../Page/朴美京.md" title="wikilink">朴美京</a>） 變了（動物園）</p>
 <p>朋友啊（趙PD）</p>
@@ -1623,8 +1615,7 @@ School)、Alberto、洪錫天、Muzie(UV)。
 
 神的聲音：尹度玹、朴正炫、GUMMY、尹敏洙、Yangpa。
 
-藝人陪審團：李國主、李天秀、許齡智(Kara)、世正(Gugudan),
-HANA(Gugudan)、申雅英、趙正治、Muzie(UV)、張玉安。
+藝人陪審團：李國主、李天秀、許齡智(Kara)、世正(Gugudan), HANA(Gugudan)、申雅英、趙正治、Muzie(UV)、張玉安。
 
 <table style="width:250%;">
 <colgroup>
@@ -1730,13 +1721,9 @@ HANA(Gugudan)、申雅英、趙正治、Muzie(UV)、張玉安。
 
 ## 外部链接
 
-[Vocal
-战争：神的声音](http://program.sbs.co.kr/builder/programMainList.do?pgm_id=22000009078)
-- 官方网站
+[Vocal 战争：神的声音](http://program.sbs.co.kr/builder/programMainList.do?pgm_id=22000009078) - 官方网站
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
 
 1.
 2.

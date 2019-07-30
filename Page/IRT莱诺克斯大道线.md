@@ -111,7 +111,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>軌道以<a href="../Page/IRT百老匯-第七大道線.md" title="wikilink">IRT百老匯-第七大道線快車軌道繼續</a>（）</p></td>
+<td><p>軌道以<a href="../Page/IRT百老匯-第七大道線.md" title="wikilink">IRT百老匯-第七大道線</a>快車軌道繼續（）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -123,5 +123,4 @@
 
 ## 參考資料
 
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1904年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1904年啟用的鐵路線 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1904年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1904年啟用的鐵路線 "wikilink")

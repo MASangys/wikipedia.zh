@@ -1,7 +1,6 @@
-《**Gotta Get
-High**》為香港女歌手[容祖兒的歌曲](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")，亦是其專輯《[J-POP](https://zh.wikipedia.org/wiki/J-POP_\(專輯\) "wikilink")》的第二主打。
+《**Gotta Get High**》為香港女歌手[容祖兒的歌曲](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")，亦是其專輯《[J-POP](https://zh.wikipedia.org/wiki/J-POP_\(專輯\) "wikilink")》的第二主打。
 
-單曲於2015年12月4日派至各大電台，由[馮翰銘作曲](../Page/馮翰銘.md "wikilink")、[陳詠謙填詞](../Page/陳詠謙.md "wikilink")\[1\]。
+單曲於2015年12月4日派至各大電台，由[馮翰銘](../Page/馮翰銘.md "wikilink")作曲、[陳詠謙](../Page/陳詠謙.md "wikilink")填詞\[1\]。
 
 ## 曲目
 
@@ -21,8 +20,7 @@ High**》為香港女歌手[容祖兒的歌曲](https://zh.wikipedia.org/wiki/�
 
 ### [叱吒903專業推介 走勢](../Page/叱咤903.md "wikilink")
 
-〈Gotta Get
-High〉於2015年12月4日在叱咤903節目[叱咤樂壇首播](https://zh.wikipedia.org/wiki/叱咤樂壇 "wikilink")，當周為2015年第50周。
+〈Gotta Get High〉於2015年12月4日在叱咤903節目[叱咤樂壇首播](https://zh.wikipedia.org/wiki/叱咤樂壇 "wikilink")，當周為2015年第50周。
 
 | 周次       | 第50周        | 第51周         | 第52周          | 2016年第1周      | 第2周         | 第3周        | 第4周         | 第5周         | 第6周        | 備註         |
 | -------- | ----------- | ------------ | ------------- | ------------- | ----------- | ---------- | ----------- | ----------- | ---------- | ---------- |
@@ -65,16 +63,9 @@ High〉於2015年12月4日在叱咤903節目[叱咤樂壇首播](https://zh.wiki
 
 ## 参考资料
 
-[Category:容祖兒歌曲](https://zh.wikipedia.org/wiki/Category:容祖兒歌曲 "wikilink")
-[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink")
-[Category:香港歌曲](https://zh.wikipedia.org/wiki/Category:香港歌曲 "wikilink")
+[Category:容祖兒歌曲](https://zh.wikipedia.org/wiki/Category:容祖兒歌曲 "wikilink") [Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:香港歌曲](https://zh.wikipedia.org/wiki/Category:香港歌曲 "wikilink")
 
-1.  [my903.com
-    叱咤樂迷](http://www.my903.com/my903/903music/detail.jsp?newsid=5347&category=12&index=0)
-
-2.  [叱吒903專業推介
-    歌曲排行榜](http://www.my903.com/my903/903music/detail.jsp?newsid=4480&category=12_13_14_15_16&index=27)
-
-3.  [香港電台第二台
-    中文歌曲龍虎榜](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/chinesepopchart&p=411)
+1.  [my903.com 叱咤樂迷](http://www.my903.com/my903/903music/detail.jsp?newsid=5347&category=12&index=0)
+2.  [叱吒903專業推介 歌曲排行榜](http://www.my903.com/my903/903music/detail.jsp?newsid=4480&category=12_13_14_15_16&index=27)
+3.  [香港電台第二台 中文歌曲龍虎榜](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/chinesepopchart&p=411)
 4.  [新城勁爆本地榜](http://www.metroradio.com.hk/997/Music/Chart/Local.aspx)

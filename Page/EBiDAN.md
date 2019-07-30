@@ -1,13 +1,12 @@
 [EBiDAN_logo.jpg](https://zh.wikipedia.org/wiki/File:EBiDAN_logo.jpg "fig:EBiDAN_logo.jpg")
 
-（）是[日本经纪公司](../Page/日本.md "wikilink")[星尘传播旗下年轻男性](https://zh.wikipedia.org/wiki/星尘传播 "wikilink")[艺人及](../Page/艺人.md "wikilink")[演员所组成的剧团及艺人集体](https://zh.wikipedia.org/wiki/演员 "wikilink")，该名字源自“惠比寿学园男子部”（）的缩写。
+（）是[日本](../Page/日本.md "wikilink")经纪公司[星尘传播旗下年轻男性](https://zh.wikipedia.org/wiki/星尘传播 "wikilink")[艺人](../Page/艺人.md "wikilink")及[演员所组成的剧团及艺人集体](https://zh.wikipedia.org/wiki/演员 "wikilink")，该名字源自“惠比寿学园男子部”（）的缩写。
 
-此外，该名字也是成员出演[电视节目的节目名](../Page/电视节目.md "wikilink")，\[1\]
-和发表他们情报[杂志的杂志名](../Page/杂志.md "wikilink")。
+此外，该名字也是成员出演[电视节目](../Page/电视节目.md "wikilink")的节目名，\[1\] 和发表他们情报[杂志](../Page/杂志.md "wikilink")的杂志名。
 
 ## 团队简介
 
-2010年，EBiDAN作为一个戏剧团体开始展开活动。团名中的“惠比寿”是其所属经纪公司[星尘传播所在地](https://zh.wikipedia.org/wiki/星尘传播 "wikilink")。随着成员的替换，在2012年，EBiDAN正式成为一个[艺人集团](../Page/艺人.md "wikilink")。同时在集团内部，又形成了类似[超特急](../Page/超特急_\(音樂團體\).md "wikilink")、[DISH//这样的小分队](https://zh.wikipedia.org/wiki/DISH/ "wikilink")。EBiDAN目前在籍的演员大多以个人身份进行活动，也有少数情况采用剧团形式进行演出。
+2010年，EBiDAN作为一个戏剧团体开始展开活动。团名中的“惠比寿”是其所属经纪公司[星尘传播所在地](https://zh.wikipedia.org/wiki/星尘传播 "wikilink")。随着成员的替换，在2012年，EBiDAN正式成为一个[艺人](../Page/艺人.md "wikilink")集团。同时在集团内部，又形成了类似[超特急](../Page/超特急_\(音樂團體\).md "wikilink")、[DISH//这样的小分队](https://zh.wikipedia.org/wiki/DISH/ "wikilink")。EBiDAN目前在籍的演员大多以个人身份进行活动，也有少数情况采用剧团形式进行演出。
 
 2016年3月至今，EBiDAN在籍的6岁至25岁艺人已超过百人。
 
@@ -99,8 +98,7 @@
 
 <!-- end list -->
 
-  - EBiDAN NAGOYA、EBiDAN SENDAI、EBiDAN FUKUOKA、EBiDAN OSAKA及EBiDAN
-    OKINAWA的试镜启动（EBiDAN OSAKA在2014年8月开始活动）。
+  - EBiDAN NAGOYA、EBiDAN SENDAI、EBiDAN FUKUOKA、EBiDAN OSAKA及EBiDAN OKINAWA的试镜启动（EBiDAN OSAKA在2014年8月开始活动）。
 
 <!-- end list -->
 
@@ -195,11 +193,10 @@
 
 ### DISH//
 
-  - 本组合是一支[摇滚](../Page/摇滚.md "wikilink")[舞曲乐队](../Page/舞曲.md "wikilink")。
+  - 本组合是一支[摇滚](../Page/摇滚.md "wikilink")[舞曲](../Page/舞曲.md "wikilink")乐队。
   - 2011年11月正式结成。\[15\]
   - 2012年6月10日，处女作《》正式发表。
-  - 2013年6月19日，以单曲CD《》正式出道，该单曲由[Sony Music
-    Records发行](../Page/Sony_Music_Records.md "wikilink")。
+  - 2013年6月19日，以单曲CD《》正式出道，该单曲由[Sony Music Records发行](../Page/Sony_Music_Records.md "wikilink")。
   - 2015年1月1日，首次登上[日本武道馆](https://zh.wikipedia.org/wiki/日本武道馆 "wikilink")，公演成功。
   - 2017年1月1日，武道馆公演上，新成员泉大智加入。
   - 本组合隶属星尘传播旗下艺能三部。\[16\]
@@ -418,8 +415,7 @@
 
 ### 电台节目
 
-  - 《惠比寿男子学园
-    放学后》（2012年4月－2013年7月，[音泉网络电台](https://zh.wikipedia.org/wiki/音泉网络电台 "wikilink")）——主持人：
+  - 《惠比寿男子学园 放学后》（2012年4月－2013年7月，[音泉网络电台](https://zh.wikipedia.org/wiki/音泉网络电台 "wikilink")）——主持人：
 
 <!-- end list -->
 
@@ -497,15 +493,11 @@
 
   - EBiDAN OSAKA
       -
-[Category:EBiDAN](https://zh.wikipedia.org/wiki/Category:EBiDAN "wikilink")
-[Category:星尘传播](https://zh.wikipedia.org/wiki/Category:星尘传播 "wikilink")
-[Category:日本剧团](https://zh.wikipedia.org/wiki/Category:日本剧团 "wikilink")
-[Category:日本電視綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視綜藝節目 "wikilink")
+[Category:EBiDAN](https://zh.wikipedia.org/wiki/Category:EBiDAN "wikilink") [Category:星尘传播](https://zh.wikipedia.org/wiki/Category:星尘传播 "wikilink") [Category:日本剧团](https://zh.wikipedia.org/wiki/Category:日本剧团 "wikilink") [Category:日本電視綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視綜藝節目 "wikilink")
 
 1.
 
-2.  [行事予定。。。EBiDAN（恵比寿学園男子部）オフィシャルサイト](https://web.archive.org/web/20110623132603/http://ebidan.jp/schedule.php)（2011-06-23
-    [互联网档案馆](../Page/互联网档案馆.md "wikilink")）
+2.  [行事予定。。。EBiDAN（恵比寿学園男子部）オフィシャルサイト](https://web.archive.org/web/20110623132603/http://ebidan.jp/schedule.php)（2011-06-23 [互联网档案馆](../Page/互联网档案馆.md "wikilink")）
 
 3.
 4.  根据该舞台剧宣传手册说明。
@@ -526,11 +518,9 @@
 
 12.
 
-13. [速報！！新アイドルユニットのメンバーが決定☆☆｜EBiDAN オフィシャルブログ 「EBiDAN BLOG」 Poweredby
-    Ameba](http://ameblo.jp/ebidan/entry-11076388665.html)
+13. [速報！！新アイドルユニットのメンバーが決定☆☆｜EBiDAN オフィシャルブログ 「EBiDAN BLOG」 Poweredby Ameba](http://ameblo.jp/ebidan/entry-11076388665.html)
 
-14. [STARDUST - スターダスト オフィシャルサイト - ニュース - 第2期“超特急”始動\!草川拓弥
-    新メンバーに決定](http://www.stardust.co.jp/news/?id=1917)
+14. [STARDUST - スターダスト オフィシャルサイト - ニュース - 第2期“超特急”始動\!草川拓弥 新メンバーに決定](http://www.stardust.co.jp/news/?id=1917)
 
 15.
 16.

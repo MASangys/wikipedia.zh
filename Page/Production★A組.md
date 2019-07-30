@@ -2,7 +2,7 @@
 
 ## 概要
 
-2000年（平成12年）7月1日\[2\]，由[九Production的總經理須貝誓子另外獨立](../Page/九Production.md "wikilink")，成立**楡ProductionA組**（<small></small>），2001年7月改為現在的公司名稱。2004年10月底，九Production解散後，其所屬聲優大多移籍至此。
+2000年（平成12年）7月1日\[2\]，由[九Production](../Page/九Production.md "wikilink")的總經理須貝誓子另外獨立，成立**楡ProductionA組**（<small></small>），2001年7月改為現在的公司名稱。2004年10月底，九Production解散後，其所屬聲優大多移籍至此。
 
 ## 所屬聲優
 
@@ -85,8 +85,7 @@
 
   - [井上文彥](../Page/井上文彥.md "wikilink")（現所屬：remax）
 
-  - [大竹宏](../Page/大竹宏.md "wikilink")（現所屬：[81
-    Produce](../Page/81_Produce.md "wikilink")）
+  - [大竹宏](../Page/大竹宏.md "wikilink")（現所屬：[81 Produce](../Page/81_Produce.md "wikilink")）
 
   - （現所屬：）
 
@@ -112,8 +111,7 @@
 
   - （現所屬：）
 
-  - [藤井啓輔](https://zh.wikipedia.org/wiki/藤井啓輔 "wikilink")（現所屬：[Kenyu
-    Office](../Page/Kenyu_Office.md "wikilink")）
+  - [藤井啓輔](https://zh.wikipedia.org/wiki/藤井啓輔 "wikilink")（現所屬：[Kenyu Office](../Page/Kenyu_Office.md "wikilink")）
 
   - （現所屬：[Pro-Fit](../Page/Pro-Fit.md "wikilink")）
 
@@ -131,14 +129,12 @@
 
   - （現所屬：Ritrovo）
 
-  - [大關英里](../Page/大關英里.md "wikilink")（現所屬：[Office
-    PAC](../Page/Office_PAC.md "wikilink")）
+  - [大關英里](../Page/大關英里.md "wikilink")（現所屬：[Office PAC](../Page/Office_PAC.md "wikilink")）
 
   -
   - 大福弓子（現所屬：aptepro）
 
-  - （現所屬：[Across
-    Entertainment](../Page/Across_Entertainment.md "wikilink")）
+  - （現所屬：[Across Entertainment](../Page/Across_Entertainment.md "wikilink")）
 
   - [佳川紘子](../Page/佳川紘子.md "wikilink")
 
@@ -148,8 +144,7 @@
   -
   - [紗百合](../Page/紗百合.md "wikilink")（在籍中死去）
 
-  - [島形麻衣奈](https://zh.wikipedia.org/wiki/島形麻衣奈 "wikilink")（現所屬：[Production
-    Ace](../Page/Production_Ace.md "wikilink")）
+  - [島形麻衣奈](https://zh.wikipedia.org/wiki/島形麻衣奈 "wikilink")（現所屬：[Production Ace](../Page/Production_Ace.md "wikilink")）
 
   - 杉森多惠子（現所屬：Ooffice-chirp）
 
@@ -168,8 +163,7 @@
 
   - （舊藝名：林沙世里）
 
-  - [麥穗杏菜](../Page/麥穗杏菜.md "wikilink")（現所屬：[Bell
-    Production](../Page/Bell_Production.md "wikilink")）
+  - [麥穗杏菜](../Page/麥穗杏菜.md "wikilink")（現所屬：[Bell Production](../Page/Bell_Production.md "wikilink")）
 
   - （現所屬：Pro-Fit）
 
@@ -182,9 +176,7 @@
 
   - [有限公司Production★A組公式官網](http://www.aigumi.com/)
 
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink")
-[Category:2000年成立的公司](https://zh.wikipedia.org/wiki/Category:2000年成立的公司 "wikilink")
+[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink") [Category:2000年成立的公司](https://zh.wikipedia.org/wiki/Category:2000年成立的公司 "wikilink")
 
 1.
 

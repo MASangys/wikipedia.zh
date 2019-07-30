@@ -4,14 +4,11 @@
 
 ## BOOM\! BOOM\! BOOM\!
 
-**《BOOM\! BOOM\!
-BOOM\!》**是中國偶像組合[GNZ48的第](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")2張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，於2017年1月16日發行。
+**《BOOM\! BOOM\! BOOM\!》**是中國偶像組合[GNZ48的第](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")2張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，於2017年1月16日發行。
 
 ### 簡介
 
-《BOOM\! BOOM\! BOOM\!》是GNZ48第二张EP，也是GNZ48首张農曆新年贺岁EP，也是SNH48
-Group首张以農曆新年為主題的EP。本张EP由GNZ48原创团队倾情打造，根据三支队伍的不同风格，打造了Team
-G、Team NIII和Team Z三队的专属单曲，也是Team Z首次参与GNZ48 EP录制。\[1\]\[2\]
+《BOOM\! BOOM\! BOOM\!》是GNZ48第二张EP，也是GNZ48首张農曆新年贺岁EP，也是SNH48 Group首张以農曆新年為主題的EP。本张EP由GNZ48原创团队倾情打造，根据三支队伍的不同风格，打造了Team G、Team NIII和Team Z三队的专属单曲，也是Team Z首次参与GNZ48 EP录制。\[1\]\[2\]
 
 ### 收錄曲目
 
@@ -29,8 +26,7 @@ G、Team NIII和Team Z三队的专属单曲，也是Team Z首次参与GNZ48 EP�
 <!-- end list -->
 
   -
-    黄黎蓉、李沁潔、張凱祺、肖文鈴、龍亦瑞、王盈、張心雨首次參與選拔。陳珂、林嘉佩、曾艾佳、周倩玉、陳慧婧、陳欣妤、左嘉欣首次沒有進入選拔組。首次有Team
-    Z的成員參與選拔。
+    黄黎蓉、李沁潔、張凱祺、肖文鈴、龍亦瑞、王盈、張心雨首次參與選拔。陳珂、林嘉佩、曾艾佳、周倩玉、陳慧婧、陳欣妤、左嘉欣首次沒有進入選拔組。首次有Team Z的成員參與選拔。
 
 <!-- end list -->
 
@@ -53,8 +49,7 @@ G、Team NIII和Team Z三队的专属单曲，也是Team Z首次参与GNZ48 EP�
 
 （Center：劉力菲）
 
-  - Team
-    NIII：陳慧婧、陳楠茜、陳欣妤、馮嘉希、洪靜雯、劉力菲、劉倩倩、盧靜、孫馨、唐莉佳、冼燊楠、肖文鈴、熊心瑤、鄭丹妮、左嘉欣、左靖媛
+  - Team NIII：陳慧婧、陳楠茜、陳欣妤、馮嘉希、洪靜雯、劉力菲、劉倩倩、盧靜、孫馨、唐莉佳、冼燊楠、肖文鈴、熊心瑤、鄭丹妮、左嘉欣、左靖媛
 
 <!-- end list -->
 
@@ -81,9 +76,7 @@ G、Team NIII和Team Z三队的专属单曲，也是Team Z首次参与GNZ48 EP�
 
 ### 簡介
 
-《I.F》是GNZ48第三张EP，也是GNZ48一周年纪念EP大碟。I.F为Immortal
-Flower的缩写，意为不朽的花，不朽之花的绽放，象征着GNZ48初心不改，梦想永不褪色，对未来的渴望是梦想永恒的象征。\[3\]\[4\]而且值得注意的是，《I.F》也收錄SNH48
-Group史上第一首原創粤语歌《紫荆》，歌曲有慶祝「香港回歸二十周年」之意。
+《I.F》是GNZ48第三张EP，也是GNZ48一周年纪念EP大碟。I.F为Immortal Flower的缩写，意为不朽的花，不朽之花的绽放，象征着GNZ48初心不改，梦想永不褪色，对未来的渴望是梦想永恒的象征。\[3\]\[4\]而且值得注意的是，《I.F》也收錄SNH48 Group史上第一首原創粤语歌《紫荆》，歌曲有慶祝「香港回歸二十周年」之意。
 
 ### 收錄曲目
 
@@ -125,8 +118,7 @@ Group史上第一首原創粤语歌《紫荆》，歌曲有慶祝「香港回歸
 
 （Center：盧靜）
 
-  - Team
-    NIII：陳慧婧、陳楠茜、陳欣妤、馮嘉希、洪靜雯、李伊虹、劉力菲、劉倩倩、盧靜、唐莉佳、冼燊楠、肖文鈴、熊心瑤、鄭丹妮、左嘉欣、左靖媛
+  - Team NIII：陳慧婧、陳楠茜、陳欣妤、馮嘉希、洪靜雯、李伊虹、劉力菲、劉倩倩、盧靜、唐莉佳、冼燊楠、肖文鈴、熊心瑤、鄭丹妮、左嘉欣、左靖媛
 
 <!-- end list -->
 
@@ -182,9 +174,7 @@ Group史上第一首原創粤语歌《紫荆》，歌曲有慶祝「香港回歸
 
 ### 簡介
 
-《HERO》是GNZ48于2019年发布的首张EP，其同名主打曲目则是GNZ48三周年纪念曲，以“英雄”为主题，意在传达“行动成就英雄”的理念，及为心灵受到创伤的听众传递温暖。该EP收录的其余曲目则为在[SNH48
-Group第五届年度金曲大赏BEST
-50获选年度金曲及入围曜阳组的曲目](../Page/SNH48_Group第五届年度金曲大赏BEST_50.md "wikilink")。
+《HERO》是GNZ48于2019年发布的首张EP，其同名主打曲目则是GNZ48三周年纪念曲，以“英雄”为主题，意在传达“行动成就英雄”的理念，及为心灵受到创伤的听众传递温暖。该EP收录的其余曲目则为在[SNH48 Group第五届年度金曲大赏BEST 50获选年度金曲及入围曜阳组的曲目](../Page/SNH48_Group第五届年度金曲大赏BEST_50.md "wikilink")。
 
 ### 收錄曲目
 
@@ -232,11 +222,7 @@ Group第五届年度金曲大赏BEST
 
 [Category:GNZ48歌曲](https://zh.wikipedia.org/wiki/Category:GNZ48歌曲 "wikilink")
 
-1.  [GNZ48官网《BOOM\! BOOM\!
-    BOOM\!》专页介紹](http://www.gnz48.com/event/g012/)
-2.  [人气偶像天团GNZ48推出MV《新年好》
-    情暖万家](http://m2.21cn.com/news/roll/a/2017/0119/11/31904365.shtml)
-
+1.  [GNZ48官网《BOOM\! BOOM\! BOOM\!》专页介紹](http://www.gnz48.com/event/g012/)
+2.  [人气偶像天团GNZ48推出MV《新年好》 情暖万家](http://m2.21cn.com/news/roll/a/2017/0119/11/31904365.shtml)
 3.  [GNZ48一周年专页](http://www.gnz48.com/event/g017/)
-4.  [GNZ48原创公演《第1人称》上演
-    将推粉丝文化祭](http://music.yule.sohu.com/20170328/n485232138.shtml)
+4.  [GNZ48原创公演《第1人称》上演 将推粉丝文化祭](http://music.yule.sohu.com/20170328/n485232138.shtml)

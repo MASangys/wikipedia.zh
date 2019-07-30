@@ -1,10 +1,4 @@
-{{ Infobox television | | show_name = 超人X | eng_name =  | image =
-[280px](https://zh.wikipedia.org/wiki/檔案:Ultraman_X_Poster_resized.jpg "wikilink")
-| format =
-[特攝片](../Page/特攝片.md "wikilink")、[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")
-| runtime = 約30分鐘 | creator =
-[圓谷製作公司](https://zh.wikipedia.org/wiki/圓谷製作公司 "wikilink")
-| writer = [小林雄次](https://zh.wikipedia.org/wiki/小林雄次 "wikilink")
+{{ Infobox television | | show_name = 超人X | eng_name =  | image = [280px](https://zh.wikipedia.org/wiki/檔案:Ultraman_X_Poster_resized.jpg "wikilink") | format = [特攝片](../Page/特攝片.md "wikilink")、[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink") | runtime = 約30分鐘 | creator = [圓谷製作公司](https://zh.wikipedia.org/wiki/圓谷製作公司 "wikilink") | writer = [小林雄次](https://zh.wikipedia.org/wiki/小林雄次 "wikilink")
 [小林弘利](https://zh.wikipedia.org/wiki/小林弘利 "wikilink")
 [中野貴雄](https://zh.wikipedia.org/wiki/中野貴雄 "wikilink")
 [黑澤久子](https://zh.wikipedia.org/wiki/黑澤久子 "wikilink")
@@ -13,8 +7,7 @@
 [内田裕基](https://zh.wikipedia.org/wiki/内田裕基 "wikilink")
 [三好昭央](https://zh.wikipedia.org/wiki/三好昭央 "wikilink")
 [勝冶京子](https://zh.wikipedia.org/wiki/勝冶京子 "wikilink")
-[三浦有為子](https://zh.wikipedia.org/wiki/三浦有為子 "wikilink") | director =
-[田口清隆](https://zh.wikipedia.org/wiki/田口清隆 "wikilink")
+[三浦有為子](https://zh.wikipedia.org/wiki/三浦有為子 "wikilink") | director = [田口清隆](https://zh.wikipedia.org/wiki/田口清隆 "wikilink")
 [坂本浩一](../Page/坂本浩一.md "wikilink")
 [辻本貴則](https://zh.wikipedia.org/wiki/辻本貴則 "wikilink")
 [アベユーイチ](https://zh.wikipedia.org/wiki/アベユーイチ "wikilink")
@@ -30,31 +23,10 @@
 [山村響](../Page/山村響.md "wikilink")
 [松本保典](../Page/松本保典.md "wikilink")
 
-| country =  | language =
-[日語](https://zh.wikipedia.org/wiki/日語 "wikilink") | opentheme =
-Ultraman X | endtheme = Unite 〜君とつながるために〜 | network =
-[東京電視台](../Page/東京電視台.md "wikilink") | picture_format =
-[高清電視](https://zh.wikipedia.org/wiki/高清電視 "wikilink")
-[16:9](https://zh.wikipedia.org/wiki/16:9 "wikilink") | audio_format =
-[立體聲](../Page/立體聲.md "wikilink") | first_run =  | first_aired =  |
-last_aired =  | aired_time = 逢星期二 18:00-18:30(JST) | network_1 =
-[ViuTV](../Page/ViuTV.md "wikilink") | picture_format_1 =
-[高清電視](https://zh.wikipedia.org/wiki/高清電視 "wikilink")
-[16:9](https://zh.wikipedia.org/wiki/16:9 "wikilink")
-[H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink")
-[1080i](https://zh.wikipedia.org/wiki/1080i "wikilink")50 |
-audio_format_1 = [立體聲](../Page/立體聲.md "wikilink")
-[AC-3](https://zh.wikipedia.org/wiki/AC-3 "wikilink") | first_run_1 =
-| first_aired_1 =  \[1\] | last_aired_1 =  | aired_time_1 = 逢星期四、五
-16:30-17:00(HKT) \[2\] | num_episodes = 22+3集 | preceded_by =
-[超人力霸王銀河S](../Page/超人力霸王銀河S.md "wikilink") | followed_by
-= [超人力霸王Orb](../Page/超人力霸王Orb.md "wikilink") | related = [超人X大電影
-我們的超人來了](../Page/超人X大電影_我們的超人來了.md "wikilink") |
-show_name_zh-cn = 艾克斯·奧特曼 | show_name_zh-tw = 超人力霸王X |
-show_name_zh-hk = 超人X | website = <http://m-78.jp/x/> }}
+ | country =  | language = [日語](https://zh.wikipedia.org/wiki/日語 "wikilink") | opentheme = Ultraman X | endtheme = Unite 〜君とつながるために〜 | network = [東京電視台](../Page/東京電視台.md "wikilink") | picture_format = [高清電視](https://zh.wikipedia.org/wiki/高清電視 "wikilink") [16:9](https://zh.wikipedia.org/wiki/16:9 "wikilink") | audio_format = [立體聲](../Page/立體聲.md "wikilink") | first_run =  | first_aired =  | last_aired =  | aired_time = 逢星期二 18:00-18:30(JST) | network_1 = [ViuTV](../Page/ViuTV.md "wikilink") | picture_format_1 = [高清電視](https://zh.wikipedia.org/wiki/高清電視 "wikilink") [16:9](https://zh.wikipedia.org/wiki/16:9 "wikilink")
+[H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink") [1080i](https://zh.wikipedia.org/wiki/1080i "wikilink")50 | audio_format_1 = [立體聲](../Page/立體聲.md "wikilink") [AC-3](https://zh.wikipedia.org/wiki/AC-3 "wikilink") | first_run_1 =  | first_aired_1 =  \[1\] | last_aired_1 =  | aired_time_1 = 逢星期四、五 16:30-17:00(HKT) \[2\] | num_episodes = 22+3集 | preceded_by = [超人力霸王銀河S](../Page/超人力霸王銀河S.md "wikilink") | followed_by = [超人力霸王Orb](../Page/超人力霸王Orb.md "wikilink") | related = [超人X大電影 我們的超人來了](../Page/超人X大電影_我們的超人來了.md "wikilink") | show_name_zh-cn = 艾克斯·奧特曼 | show_name_zh-tw = 超人力霸王X | show_name_zh-hk = 超人X | website = <http://m-78.jp/x/> }}
 
-《**超人X**》（日語：**ウルトラマンX**（**ウルトラマンエックス**），英語：**Ultraman
-X**）是屬於[奥特曼列传](../Page/奥特曼列传.md "wikilink")。由日本[圓谷製作製作的特攝電視劇](../Page/圓谷製作.md "wikilink")，並於2015年7月14日起每周二下午6點到6點30分(JST)在日本[東京電視台播出](../Page/東京電視台.md "wikilink")。
+《**超人X**》（日語：**ウルトラマンX**（**ウルトラマンエックス**），英語：**Ultraman X**）是屬於[奥特曼列传](../Page/奥特曼列传.md "wikilink")。由日本[圓谷製作](../Page/圓谷製作.md "wikilink")製作的特攝電視劇，並於2015年7月14日起每周二下午6點到6點30分(JST)在日本[東京電視台](../Page/東京電視台.md "wikilink")播出。
 
 ## 本作特色
 
@@ -196,8 +168,7 @@ X**）是屬於[奥特曼列传](../Page/奥特曼列传.md "wikilink")。由日
 
 ## 登場人物
 
-Xio（Xeno invasion outcutters；異種入侵防衛戰鬥部隊）是為了對抗怪獸而組成的地球防衛組織UNVER（Ultimate
-Noxious event Versus Earth Ranger）裏，擔任實際活動角色的防衛隊伍。\[7\]
+Xio（Xeno invasion outcutters；異種入侵防衛戰鬥部隊）是為了對抗怪獸而組成的地球防衛組織UNVER（Ultimate Noxious event Versus Earth Ranger）裏，擔任實際活動角色的防衛隊伍。\[7\]
 
 ### Xio特殊防衛部隊
 
@@ -1097,8 +1068,7 @@ tE・rU</p></td>
 
 <!-- end list -->
 
-  - 企劃 -
-    猪狩友宏、片野良太([萬代](../Page/萬代.md "wikilink"))、仲吉治人([萬代影視](../Page/萬代影視.md "wikilink"))、山西太平([電通](https://zh.wikipedia.org/wiki/電通 "wikilink"))
+  - 企劃 - 猪狩友宏、片野良太([萬代](../Page/萬代.md "wikilink"))、仲吉治人([萬代影視](../Page/萬代影視.md "wikilink"))、山西太平([電通](https://zh.wikipedia.org/wiki/電通 "wikilink"))
 
 <!-- end list -->
 
@@ -1290,8 +1260,7 @@ tE・rU</p></td>
 
 <!-- end list -->
 
-  - VFX・CG - 日本映像クリエイティブ、アンダーグラフ、キュー・テック、林デジタル工務店、有限会社イコナ、株式会社
-    幻影、TSUBAKI、MAGNUS-AGRI
+  - VFX・CG - 日本映像クリエイティブ、アンダーグラフ、キュー・テック、林デジタル工務店、有限会社イコナ、株式会社 幻影、TSUBAKI、MAGNUS-AGRI
 
 <!-- end list -->
 
@@ -1303,13 +1272,11 @@ tE・rU</p></td>
 
 <!-- end list -->
 
-  - 外景攝影協力 - はだのクリーンセンター、富士急グループ
-    プレジャーフォレスト、[多摩市](../Page/多摩市.md "wikilink")、[木更津市](https://zh.wikipedia.org/wiki/木更津市 "wikilink")、[明星大學](../Page/明星大學.md "wikilink")
+  - 外景攝影協力 - はだのクリーンセンター、富士急グループ プレジャーフォレスト、[多摩市](../Page/多摩市.md "wikilink")、[木更津市](https://zh.wikipedia.org/wiki/木更津市 "wikilink")、[明星大學](../Page/明星大學.md "wikilink")
 
 <!-- end list -->
 
-  - 連載協力 -
-    [講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、[小學館](../Page/小學館.md "wikilink")
+  - 連載協力 - [講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、[小學館](../Page/小學館.md "wikilink")
 
 <!-- end list -->
 
@@ -1327,12 +1294,11 @@ tE・rU</p></td>
 
 ### 劇場版
 
-《[超人X大電影
-我們的超人來了](../Page/超人X大電影_我們的超人來了.md "wikilink")》2016年電影，由電視版主要導演田口清隆執導，、、及[松本享恭主演](../Page/松本享恭.md "wikilink")。
+《[超人X大電影 我們的超人來了](../Page/超人X大電影_我們的超人來了.md "wikilink")》2016年電影，由電視版主要導演田口清隆執導，、、及[松本享恭](../Page/松本享恭.md "wikilink")主演。
 
 為本電視系列的劇場版，同為[超人系列誕生](https://zh.wikipedia.org/wiki/超人系列 "wikilink")50週年記念作。2016年5月12日於日本上映、2016年12月1日於香港上映。香港地區同時上映日語原聲及粵語配音版本。
 
-電影的香港版[Blu-ray](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")、[DVD及](https://zh.wikipedia.org/wiki/DVD "wikilink")[VCD已於](../Page/VCD.md "wikilink")2017年4月7日由[鐳射企業發行](../Page/鐳射企業.md "wikilink")，影碟內容包含中文字幕、日語原聲／粵語配音。
+電影的香港版[Blu-ray](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")、[DVD及](https://zh.wikipedia.org/wiki/DVD "wikilink")[VCD](../Page/VCD.md "wikilink")已於2017年4月7日由[鐳射企業](../Page/鐳射企業.md "wikilink")發行，影碟內容包含中文字幕、日語原聲／粵語配音。
 
 ## 播放詳情
 
@@ -1353,7 +1319,7 @@ tE・rU</p></td>
 <!-- end list -->
 
   -
-    香港由2017年3月30日起，於本地免費地面電視[ViuTV播放](../Page/ViuTV.md "wikilink")，提供粵語／日語雙語廣播。
+    香港由2017年3月30日起，於本地免費地面電視[ViuTV](../Page/ViuTV.md "wikilink")播放，提供粵語／日語雙語廣播。
 
 ### 中國大陸
 
@@ -1382,15 +1348,9 @@ tE・rU</p></td>
 
 ## 參見
 
-  - [-{zh-hans:奥特曼系列; zh-tw:超人力霸王系列;
-    zh-hk:超人系列;}-](https://zh.wikipedia.org/wiki/超人系列 "wikilink")
+  - [-{zh-hans:奥特曼系列; zh-tw:超人力霸王系列; zh-hk:超人系列;}-](https://zh.wikipedia.org/wiki/超人系列 "wikilink")
 
-[Category:超人力霸王系列](https://zh.wikipedia.org/wiki/Category:超人力霸王系列 "wikilink")
-[Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink")
-[Category:東京電視台特攝節目](https://zh.wikipedia.org/wiki/Category:東京電視台特攝節目 "wikilink")
-[Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
-[Category:赛博朋克作品](https://zh.wikipedia.org/wiki/Category:赛博朋克作品 "wikilink")
-[Category:卡片題材作品](https://zh.wikipedia.org/wiki/Category:卡片題材作品 "wikilink")
+[Category:超人力霸王系列](https://zh.wikipedia.org/wiki/Category:超人力霸王系列 "wikilink") [Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink") [Category:東京電視台特攝節目](https://zh.wikipedia.org/wiki/Category:東京電視台特攝節目 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink") [Category:赛博朋克作品](https://zh.wikipedia.org/wiki/Category:赛博朋克作品 "wikilink") [Category:卡片題材作品](https://zh.wikipedia.org/wiki/Category:卡片題材作品 "wikilink")
 
 1.
 

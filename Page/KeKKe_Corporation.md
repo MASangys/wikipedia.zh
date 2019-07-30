@@ -1,5 +1,4 @@
-**有限公司KeKKe
-Corporation**（）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[富谷](../Page/富谷.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。成立於1996年（平成8年）4月\[2\]。現任代表董事社長由聲優[難波圭一](../Page/難波圭一.md "wikilink")\[3\]就任。
+**有限公司KeKKe Corporation**（）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[富谷](../Page/富谷.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。成立於1996年（平成8年）4月\[2\]。現任代表董事社長由聲優[難波圭一](../Page/難波圭一.md "wikilink")\[3\]就任。
 
 ## 所屬聲優
 
@@ -191,8 +190,7 @@ Corporation**（）是一家位於[日本](../Page/日本.md "wikilink")[東京�
   - （現所屬：）
 
   -
-  - 海老原廣規（現所屬：[Heartful Human
-    Voice](https://www.hh-voice.jp/%E3%83%8F%E3%83%BC%E3%83%88%E3%83%95%E3%83%AB%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%9C%E3%82%A4%E3%82%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/)）
+  - 海老原廣規（現所屬：[Heartful Human Voice](https://www.hh-voice.jp/%E3%83%8F%E3%83%BC%E3%83%88%E3%83%95%E3%83%AB%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%9C%E3%82%A4%E3%82%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/)）
 
   - （現所屬：）
 
@@ -207,8 +205,7 @@ Corporation**（）是一家位於[日本](../Page/日本.md "wikilink")[東京�
 <!-- end list -->
 
   -
-  - [川原慶久](../Page/川原慶久.md "wikilink")（現所屬：[Across
-    Entertainment](../Page/Across_Entertainment.md "wikilink")）
+  - [川原慶久](../Page/川原慶久.md "wikilink")（現所屬：[Across Entertainment](../Page/Across_Entertainment.md "wikilink")）
 
   - （現所屬：Soremo）
 
@@ -244,8 +241,7 @@ Corporation**（）是一家位於[日本](../Page/日本.md "wikilink")[東京�
 
 <!-- end list -->
 
-  - [中村太亮](../Page/中村太亮.md "wikilink")（現所屬：[Mausu
-    Promotion](../Page/Mausu_Promotion.md "wikilink")）
+  - [中村太亮](../Page/中村太亮.md "wikilink")（現所屬：[Mausu Promotion](../Page/Mausu_Promotion.md "wikilink")）
 
   -
   - 新川昇平
@@ -366,8 +362,7 @@ Corporation**（）是一家位於[日本](../Page/日本.md "wikilink")[東京�
 
 <!-- end list -->
 
-  - [高口幸子](../Page/高口幸子.md "wikilink")（現所屬：[Kenyu
-    Office](../Page/Kenyu_Office.md "wikilink")）
+  - [高口幸子](../Page/高口幸子.md "wikilink")（現所屬：[Kenyu Office](../Page/Kenyu_Office.md "wikilink")）
 
   - （現所屬：）
 
@@ -377,8 +372,7 @@ Corporation**（）是一家位於[日本](../Page/日本.md "wikilink")[東京�
 
   - （現所屬：）
 
-  - [寺依沙織](../Page/寺依沙織.md "wikilink")（現所屬：[Mausu
-    Promotion](../Page/Mausu_Promotion.md "wikilink")）
+  - [寺依沙織](../Page/寺依沙織.md "wikilink")（現所屬：[Mausu Promotion](../Page/Mausu_Promotion.md "wikilink")）
 
   - 東條惠美
 
@@ -416,8 +410,7 @@ Corporation**（）是一家位於[日本](../Page/日本.md "wikilink")[東京�
 
   - 福島千紘
 
-  - 古川（現所屬：\[<https://www.google.com.tw/search?q=%E3%82%AF%E3%83%AD%E3%82%B3%E3%83%87%E3%82%A4%E3%83%AB&oq=%E3%82%AF%E3%83%AD%E3%82%B3%E3%83%87%E3%82%A4%E3%83%AB&aqs=chrome>..69i57.479j0j4\&sourceid=chrome\&ie=UTF-8
-    Crocodeile\]）
+  - 古川（現所屬：\[<https://www.google.com.tw/search?q=%E3%82%AF%E3%83%AD%E3%82%B3%E3%83%87%E3%82%A4%E3%83%AB&oq=%E3%82%AF%E3%83%AD%E3%82%B3%E3%83%87%E3%82%A4%E3%83%AB&aqs=chrome>..69i57.479j0j4\&sourceid=chrome\&ie=UTF-8 Crocodeile\]）
 
 <!-- end list -->
 
@@ -460,10 +453,7 @@ Corporation**（）是一家位於[日本](../Page/日本.md "wikilink")[東京�
 
   - [有限公司KeKKe Corporation公式官網](http://www.kekke.co.jp/)
 
-[Category:KeKKe_Corporation](https://zh.wikipedia.org/wiki/Category:KeKKe_Corporation "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
-[Category:1996年成立的公司](https://zh.wikipedia.org/wiki/Category:1996年成立的公司 "wikilink")
+[Category:KeKKe_Corporation](https://zh.wikipedia.org/wiki/Category:KeKKe_Corporation "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:1996年成立的公司](https://zh.wikipedia.org/wiki/Category:1996年成立的公司 "wikilink")
 
 1.
 

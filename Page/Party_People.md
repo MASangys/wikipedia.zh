@@ -1,6 +1,4 @@
-《**朴轸永的Party
-People**》（）[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台于](../Page/SBS_\(韓國\).md "wikilink")2017年推出的綜藝節目，由[朴軫永主持](../Page/朴軫永.md "wikilink")\[1\]，節目每集會邀請不同嘉賓，而以音樂脫口秀為主軸\[2\]。節目營造以夜店氣氛為主，同時有酒類飲品，另其中有一個環節「搶歌Song」，進行方式為選取對方歌手的歌曲並以與原本不同的方式演唱。10月18日，SBS電視台方面表示，綜藝節目《朴軫永的Party
-People》第一季將於10月21日播出最後一集\[3\]。
+《**朴轸永的Party People**》（）[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台于](../Page/SBS_\(韓國\).md "wikilink")2017年推出的綜藝節目，由[朴軫永](../Page/朴軫永.md "wikilink")主持\[1\]，節目每集會邀請不同嘉賓，而以音樂脫口秀為主軸\[2\]。節目營造以夜店氣氛為主，同時有酒類飲品，另其中有一個環節「搶歌Song」，進行方式為選取對方歌手的歌曲並以與原本不同的方式演唱。10月18日，SBS電視台方面表示，綜藝節目《朴軫永的Party People》第一季將於10月21日播出最後一集\[3\]。
 
 ## 各集嘉賓
 
@@ -289,16 +287,13 @@ Produce 101</p></td>
 
 ## 同時段競爭節目
 
-  - [KBS](../Page/韓國放送公社.md "wikilink")：《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")
-    》
+  - [KBS](../Page/韓國放送公社.md "wikilink")：《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink") 》
 
 ## 參考資料
 
 ## 外部連結
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
 
 1.
 2.

@@ -1,16 +1,14 @@
-**every♥ing\!**（エブリング）由兩位聲優，[山崎惠理](../Page/山崎惠理.md "wikilink")、[木戶衣吹所組成的團體](../Page/木戶衣吹.md "wikilink")。
+**every♥ing\!**（エブリング）由兩位聲優，[山崎惠理](../Page/山崎惠理.md "wikilink")、[木戶衣吹](../Page/木戶衣吹.md "wikilink")所組成的團體。
 
 ## 概要
 
 2011年參加著名的「」選秀會，所選出來的兩位現役女子高中生[山崎惠理](../Page/山崎惠理.md "wikilink")、[木戶衣吹](../Page/木戶衣吹.md "wikilink")（現在兩位皆已高中畢業）所組成。
 
-2014年秋天在[King
-Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")「**Every♥ing\!**」出道\[1\]。
+2014年秋天在[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")「**Every♥ing\!**」出道\[1\]。
 
 2017年2月12日，every♥ing\!宣布將於同年11月停止活動\[2\]。
 
-2017年11月26日最後一次公演「every♥ing！ Final Fantasia-Show 2017 〜Lesson3
-輝く未来へ〜」，兩人皆滿20歲後解散\[3\]。
+2017年11月26日最後一次公演「every♥ing！ Final Fantasia-Show 2017 〜Lesson3 輝く未来へ〜」，兩人皆滿20歲後解散\[3\]。
 
 ## 成員
 
@@ -30,7 +28,7 @@ Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")「**Every♥ing\
 <th><p>發售日</p></th>
 <th><p>名稱</p></th>
 <th><p>規格品番</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon週榜最高位</a></p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>週榜最高位</p></th>
 </tr>
 </thead>
 <tbody>
@@ -53,7 +51,7 @@ Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")「**Every♥ing\
 <td></td>
 <td><p>2014年10月8日</p></td>
 <td><p>ゆめいろ学院校歌</p></td>
-<td></td>
+<td><p>colspan="2" </p></td>
 <td><p>NKZM-1007/8（A）<br />
 NMAX-1173（B）</p></td>
 </tr>
@@ -97,7 +95,7 @@ NMAX-1173（B）</p></td>
 
 ### 專輯
 
-| 枚      | 發售日        | 名稱                                 | 規格品番       | [Oricon週榜最高位](../Page/Oricon.md "wikilink") |
+| 枚      | 發售日        | 名稱                                 | 規格品番       | [Oricon](../Page/Oricon.md "wikilink")週榜最高位 |
 | ------ | ---------- | ---------------------------------- | ---------- | ------------------------------------------- |
 | CD+DVD | CD         |                                    |            |                                             |
 | 1st    | 2017年1月18日 | Colorful Shining Dream First Date♥ | KICS-93446 | KICS-3446                                   |
@@ -123,14 +121,11 @@ NMAX-1173（B）</p></td>
 
   - [Horipro官方網站](https://web.archive.org/web/20170328105145/http://www.horipro.co.jp/everying/)（保存檔）
 
-  - [everying！ ｴﾌﾞﾘﾝｸﾞ every ing
-    國王唱片官方網站](http://www.kingrecords.co.jp/cs/artist/artist.aspx?artist=44617)
+  - [everying！ ｴﾌﾞﾘﾝｸﾞ every ing 國王唱片官方網站](http://www.kingrecords.co.jp/cs/artist/artist.aspx?artist=44617)
 
   - [every♡ing\!官方網站](http://every-ing.com/)
 
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
-[Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
+[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink") [Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
 
 1.
 2.

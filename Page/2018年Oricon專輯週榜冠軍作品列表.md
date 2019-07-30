@@ -1,4 +1,4 @@
-**2018年Oricon專輯週榜冠軍作品列表**列出2018年度曾經登上[Oricon公信榜專輯週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[專輯作品及其資料](../Page/音樂專輯.md "wikilink")。
+**2018年Oricon專輯週榜冠軍作品列表**列出2018年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯週榜冠軍的[專輯作品及其資料](../Page/音樂專輯.md "wikilink")。
 
 ## 冠軍專輯列表
 
@@ -76,7 +76,7 @@
 <tr class="even">
 <td><p>2月19日</p></td>
 <td><p><a href="../Page/20歲的早安少女組。.md" title="wikilink">20歲的早安少女組。</a></p></td>
-<td><p><a href="../Page/早安少女組。.md" title="wikilink">早安少女組。20th</a></p></td>
+<td><p><a href="../Page/早安少女組。.md" title="wikilink">早安少女組。</a>20th</p></td>
 <td><p>原創</p></td>
 <td><p>4.7</p></td>
 <td><p>1</p></td>
@@ -450,6 +450,4 @@
 
 ## 參考資料
 
-[Category:2018年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:每年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon專輯週榜冠軍作品列表 "wikilink")
-[Category:2018年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2018年音樂排行榜 "wikilink")
+[Category:2018年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Oricon專輯週榜冠軍作品 "wikilink") [Category:每年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon專輯週榜冠軍作品列表 "wikilink") [Category:2018年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2018年音樂排行榜 "wikilink")

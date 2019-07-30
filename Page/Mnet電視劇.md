@@ -1,4 +1,4 @@
-**Mnet電視劇**（，），是由[Mnet媒體編製並於韓國時間星期五晚上](../Page/Mnet媒體.md "wikilink")10:50播出的[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，本時段已於2015年6月25日正式廢止。
+**Mnet電視劇**（，），是由[Mnet媒體](../Page/Mnet媒體.md "wikilink")編製並於韓國時間星期五晚上10:50播出的[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，本時段已於2015年6月25日正式廢止。
 
 ## 放送期間
 
@@ -132,8 +132,6 @@
   -
   -
   -
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
 1.

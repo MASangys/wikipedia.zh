@@ -1,4 +1,4 @@
-是由[同人組織](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛莉絲幻樂團所制作的](../Page/上海愛莉絲幻樂團.md "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")16.5作。于2018年8月10日的[夏Comi發售](../Page/Comic_Market.md "wikilink")。\[1\]\[2\]遊戲操作類似於[文花帖和](https://zh.wikipedia.org/wiki/文花帖 "wikilink")[彈幕天邪鬼](https://zh.wikipedia.org/wiki/彈幕天邪鬼 "wikilink")。\[3\]
+是由[同人組織](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")所制作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")16.5作。于2018年8月10日的[夏Comi發售](../Page/Comic_Market.md "wikilink")。\[1\]\[2\]遊戲操作類似於[文花帖和](https://zh.wikipedia.org/wiki/文花帖 "wikilink")[彈幕天邪鬼](https://zh.wikipedia.org/wiki/彈幕天邪鬼 "wikilink")。\[3\]
 
 ## 登場人物
 
@@ -47,13 +47,9 @@
 
 ## 外部連結
 
-  - [steam上的《秘封ナイトメアダイアリー　～ Violet
-    Detector.》](https://store.steampowered.com/app/924650)
+  - [steam上的《秘封ナイトメアダイアリー　～ Violet Detector.》](https://store.steampowered.com/app/924650)
 
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:2018年電子遊戲](https://zh.wikipedia.org/wiki/Category:2018年電子遊戲 "wikilink")
-[Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:2018年電子遊戲](https://zh.wikipedia.org/wiki/Category:2018年電子遊戲 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
 
 1.
 

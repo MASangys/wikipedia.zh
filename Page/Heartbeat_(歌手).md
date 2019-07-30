@@ -1,9 +1,8 @@
-**Heartbeat**，日本女歌手，本名為勝又亞依子，[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市人](../Page/名古屋市.md "wikilink")。
+**Heartbeat**，日本女歌手，本名為勝又亞依子，[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")人。
 
 ## 簡歷
 
-  - 2002年從選秀節目「ASAYAN」的「超歌姫オーディション」比賽中脫穎而出\[1\]，並得以從[R and
-    C唱片公司以本名出道](../Page/YOSHIMOTO_R_and_C.md "wikilink")。
+  - 2002年從選秀節目「ASAYAN」的「超歌姫オーディション」比賽中脫穎而出\[1\]，並得以從[R and C唱片公司以本名出道](../Page/YOSHIMOTO_R_and_C.md "wikilink")。
   - 2004年跳槽到[日本環球音樂](https://zh.wikipedia.org/wiki/日本環球音樂 "wikilink")，並改名為**ahhco**。
   - 2010年開始「Project：**Heartbeat**（ハービー）」企畫，並持續音樂活動至今。
 
@@ -11,8 +10,7 @@
 
 ### 單曲
 
-1.  **KEEP ON YOUR
-    SIDE**（2002年1月23日）[亀田誠治](../Page/龜田誠治.md "wikilink")・久保こーじ・島野聡共同製作。[東京電視台](../Page/東京電視台.md "wikilink")「[ソルトレイクシティオリンピック](../Page/2002年冬季奥林匹克运动会.md "wikilink")」主題曲。[Oricon第](../Page/Oricon.md "wikilink")16名
+1.  **KEEP ON YOUR SIDE**（2002年1月23日）[亀田誠治](../Page/龜田誠治.md "wikilink")・久保こーじ・島野聡共同製作。[東京電視台](../Page/東京電視台.md "wikilink")「[ソルトレイクシティオリンピック](../Page/2002年冬季奥林匹克运动会.md "wikilink")」主題曲。[Oricon](../Page/Oricon.md "wikilink")第16名
     1.  KEEP ON YOUR SIDE\[5:22\]
           -
             作詞：Chang Jung／作曲・編曲：亀田誠治・島野聡・久保こーじ
@@ -105,15 +103,13 @@
 
 ## 参考资料
 
-  - [MTV音樂頻道 星發行 / Aiko Katsumata
-    (勝又亞依子)](http://www.mtv.com.tw/release_detail.php?d=1263)
+  - [MTV音樂頻道 星發行 / Aiko Katsumata (勝又亞依子)](http://www.mtv.com.tw/release_detail.php?d=1263)
 
 ## 外部連結
 
   - [ユニバーサルミュージック](http://www.universal-music.co.jp/heartbeat/)
   - [ハービー オフィシャルブログ](http://ameblo.jp/heartbeat-blog/)
 
-[Category:名古屋市出身人物](https://zh.wikipedia.org/wiki/Category:名古屋市出身人物 "wikilink")
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
+[Category:名古屋市出身人物](https://zh.wikipedia.org/wiki/Category:名古屋市出身人物 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
 
 1.  [台北吃喝玩樂電子報8/10─智邦公益電子報─台灣最大公益電子報發行中心](https://enews.url.com.tw/enews/13423)

@@ -1,12 +1,8 @@
-**《And
-Then》**為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳慧琳入行](../Page/陳慧琳.md "wikilink")20周年的全新大碟\[1\]，亦是其第二十張個人粵語大碟(第31張個人專輯)，於2016年1月11日正式發售。2015年12月26日經已於[iTunes開放預購專輯](https://zh.wikipedia.org/wiki/iTunes "wikilink")，獨家收錄Digital
-Booklet，專輯推出首日旋即高踞iTunes排行榜No.1位置。首批實體限量版反應熱烈，開售3天便賣斷市並引起炒風\[2\]，因此唱片公司決定提早於2016年1月15日加推精裝版本。是次專輯回響極佳，甚至連2016年1月30日舉行的簽唱會證亦引發炒賣潮\[3\]\!
+**《And Then》**為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳慧琳](../Page/陳慧琳.md "wikilink")入行20周年的全新大碟\[1\]，亦是其第二十張個人粵語大碟(第31張個人專輯)，於2016年1月11日正式發售。2015年12月26日經已於[iTunes開放預購專輯](https://zh.wikipedia.org/wiki/iTunes "wikilink")，獨家收錄Digital Booklet，專輯推出首日旋即高踞iTunes排行榜No.1位置。首批實體限量版反應熱烈，開售3天便賣斷市並引起炒風\[2\]，因此唱片公司決定提早於2016年1月15日加推精裝版本。是次專輯回響極佳，甚至連2016年1月30日舉行的簽唱會證亦引發炒賣潮\[3\]\!
 
-專輯共收錄了9首粵語歌曲及1首國語歌曲，隨碟內附40頁寫真歌冊。首批二十週年特別版全球限量2000張，特別加送DVD收錄《其後》、《請放心傷我》、《Let's
-Celebrate》三首MV。
+專輯共收錄了9首粵語歌曲及1首國語歌曲，隨碟內附40頁寫真歌冊。首批二十週年特別版全球限量2000張，特別加送DVD收錄《其後》、《請放心傷我》、《Let's Celebrate》三首MV。
 
-2016年1月11日，陳慧琳出席完新碟發佈會後接受記者訪問，表示近年樂迷已開始使用數碼形式聽歌，《And
-Then》或是她最後一張實體唱片\[4\]。
+2016年1月11日，陳慧琳出席完新碟發佈會後接受記者訪問，表示近年樂迷已開始使用數碼形式聽歌，《And Then》或是她最後一張實體唱片\[4\]。
 
 ## 曲目
 
@@ -28,10 +24,9 @@ Then》或是她最後一張實體唱片\[4\]。
 | <small>Let's Celebrate</small> |         8          |          2          |
 |              2016              | <small>偽君子</small> |         \-          |
 
-### [香港唱片商會銷量榜](../Page/香港唱片商會.md "wikilink")2016
+### [香港唱片商會](../Page/香港唱片商會.md "wikilink")銷量榜2016
 
-《AND THEN》推出兩周便橫掃iTunes、HMV、Cd
-Warehouse、Yesasia等唱片銷量榜No.1位置，並於2016年1月22日榮登香港唱片商會銷量榜No.1。
+《AND THEN》推出兩周便橫掃iTunes、HMV、Cd Warehouse、Yesasia等唱片銷量榜No.1位置，並於2016年1月22日榮登香港唱片商會銷量榜No.1。
 
 | 周次   | 排名    |
 | ---- | ----- |
@@ -100,14 +95,9 @@ Warehouse、Yesasia等唱片銷量榜No.1位置，並於2016年1月22日榮登�
 
   - [陳慧琳歷年推出專集](https://zh.wikipedia.org/wiki/陳慧琳#.E6.AD.B7.E5.B9.B4.E6.8E.A8.E5.87.BA.E5.B0.88.E9.9B.86 "wikilink")
 
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:陳慧琳音樂專輯](https://zh.wikipedia.org/wiki/Category:陳慧琳音樂專輯 "wikilink")
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
+[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:陳慧琳音樂專輯](https://zh.wikipedia.org/wiki/Category:陳慧琳音樂專輯 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
 
-1.  [陳慧琳 二十週年全新大碟『其後』 | 環球唱片 -
-    正東唱片](http://umg.com.hk/album/4371/detail/b5)
-2.  [新碟遭炒賣出招叫停
-    Kelly被叫拍牀照嚇親](https://www.singtaousa.com/631482/post-%E6%96%B0%E7%A2%9F%E9%81%AD%E7%82%92%E8%B3%A3-%E5%87%BA%E6%8B%9B%E5%8F%AB%E5%81%9C-kelly%E8%A2%AB%E5%8F%AB%E6%8B%8D%E7%89%80%E7%85%A7-%E5%9A%87%E8%A6%AA/)
-
+1.  [陳慧琳 二十週年全新大碟『其後』 | 環球唱片 - 正東唱片](http://umg.com.hk/album/4371/detail/b5)
+2.  [新碟遭炒賣出招叫停 Kelly被叫拍牀照嚇親](https://www.singtaousa.com/631482/post-%E6%96%B0%E7%A2%9F%E9%81%AD%E7%82%92%E8%B3%A3-%E5%87%BA%E6%8B%9B%E5%8F%AB%E5%81%9C-kelly%E8%A2%AB%E5%8F%AB%E6%8B%8D%E7%89%80%E7%85%A7-%E5%9A%87%E8%A6%AA/)
 3.
 4.  [Kelly入行廿年最驚變阿毛](http://www.orientaldaily.on.cc/cnt/entertainment/20160112/00282_013.html)

@@ -1,35 +1,24 @@
 [Dx135can.jpg](https://zh.wikipedia.org/wiki/File:Dx135can.jpg "fig:Dx135can.jpg")
 
-**DX碼**（**D**igital inde**X**）
-，是由[柯达在](https://zh.wikipedia.org/wiki/柯达 "wikilink")1983年3月時發明，印在[135和](../Page/135底片.md "wikilink")[APS格式的](https://zh.wikipedia.org/wiki/先进摄影系统 "wikilink")[底片殼上的一種標記](../Page/底片.md "wikilink")。它由數個不同的部份所組成，包括了底片邊緣、齒孔外側的負像[條碼](https://zh.wikipedia.org/wiki/條碼 "wikilink")；底片殼上給自動相機讀取的**CAS**（Camera
-Auto Sensing）金屬條碼，還有一條印刷在底片殼上，給沖印機讀取的條碼。
+**DX碼**（**D**igital inde**X**） ，是由[柯达在](https://zh.wikipedia.org/wiki/柯达 "wikilink")1983年3月時發明，印在[135和](../Page/135底片.md "wikilink")[APS格式的](https://zh.wikipedia.org/wiki/先进摄影系统 "wikilink")[底片](../Page/底片.md "wikilink")殼上的一種標記。它由數個不同的部份所組成，包括了底片邊緣、齒孔外側的負像[條碼](https://zh.wikipedia.org/wiki/條碼 "wikilink")；底片殼上給自動相機讀取的**CAS**（Camera Auto Sensing）金屬條碼，還有一條印刷在底片殼上，給沖印機讀取的條碼。
 
 ## 底片殼上的印刷條碼
 
-由印在出片口旁的ITF條碼和數字組成。六位數字分別代表製造廠商(頭位)、由I3A指定的DX號碼(中間4位)和底片張數。除了辨認製造廠、底片種類外，還能讓沖印機正確的處理不同底片。(科達
-)
+由印在出片口旁的ITF條碼和數字組成。六位數字分別代表製造廠商(頭位)、由I3A指定的DX號碼(中間4位)和底片張數。除了辨認製造廠、底片種類外，還能讓沖印機正確的處理不同底片。(科達 )
 
 ## DX底片邊標示
 
-[Dx-film-edge-barcode.jpg](https://zh.wikipedia.org/wiki/File:Dx-film-edge-barcode.jpg "fig:Dx-film-edge-barcode.jpg")
-在每格135底片的齒孔之下都有印上DX底片邊碼。底片邊碼要在底片沖洗後才可見。它是製造時投影在底片邊上的負像，用以辨識每張照片，並讓每格照片在放相時能妥善對齊。它包含了兩行平行的條碼，其一是同步時間用，另一行包含了種類、製造商及格數等底片資訊。(科達
-)
+[Dx-film-edge-barcode.jpg](https://zh.wikipedia.org/wiki/File:Dx-film-edge-barcode.jpg "fig:Dx-film-edge-barcode.jpg") 在每格135底片的齒孔之下都有印上DX底片邊碼。底片邊碼要在底片沖洗後才可見。它是製造時投影在底片邊上的負像，用以辨識每張照片，並讓每格照片在放相時能妥善對齊。它包含了兩行平行的條碼，其一是同步時間用，另一行包含了種類、製造商及格數等底片資訊。(科達 )
 
 ## DX相機自動辨識
 
-[底片暗盒外印有可供相機辨識的CAS條碼](https://zh.wikipedia.org/wiki/底片暗盒 "wikilink") (DX
-**C**amera **A**uto
-**S**ensing)，讓相機可以自動決定[ISO值](https://zh.wikipedia.org/wiki/ISO值 "wikilink")、內含的張數和曝光寬容度。第一部可自動讀取DX碼的的相機是1984年的
-Konica TC-X SLR 和 Pentax Super Sport 35 (PC 35AF-M)。\[1\] .
+[底片暗盒外印有可供相機辨識的CAS條碼](https://zh.wikipedia.org/wiki/底片暗盒 "wikilink") (DX **C**amera **A**uto **S**ensing)，讓相機可以自動決定[ISO值](https://zh.wikipedia.org/wiki/ISO值 "wikilink")、內含的張數和曝光寬容度。第一部可自動讀取DX碼的的相機是1984年的 Konica TC-X SLR 和 Pentax Super Sport 35 (PC 35AF-M)。\[1\] .
 
-CAS的原理是在金屬製的底片暗盒上，將導電或絕緣的塗料印成 2x6
-的格狀，而相機上的電子接點就可以讀取條碼。大多數相機只讀取一部分的條碼，通常是[ISO值的部分](https://zh.wikipedia.org/wiki/ISO值 "wikilink")。還有一些入門相機只讀取更少的接點，就能分別出最常用的ISO值。例如100,
-200, 400, 800僅憑S1和S2接點即可分辨。
+CAS的原理是在金屬製的底片暗盒上，將導電或絕緣的塗料印成 2x6 的格狀，而相機上的電子接點就可以讀取條碼。大多數相機只讀取一部分的條碼，通常是[ISO值的部分](https://zh.wikipedia.org/wiki/ISO值 "wikilink")。還有一些入門相機只讀取更少的接點，就能分別出最常用的ISO值。例如100, 200, 400, 800僅憑S1和S2接點即可分辨。
 
 ### 電子接點
 
-在底片暗盒上印有二列六行的長方形區域。把凸出的捲軸朝左邊時，最左側兩格接點都是基點，它們總是印著導電材料。上排剩下的五格用以編列32種可能的ISO值，但只有
-ISO 25 到 5000 、以 1/3 EV 遞增的24種數值被編碼。這些編碼並不嚴格遵守二進制。
+在底片暗盒上印有二列六行的長方形區域。把凸出的捲軸朝左邊時，最左側兩格接點都是基點，它們總是印著導電材料。上排剩下的五格用以編列32種可能的ISO值，但只有 ISO 25 到 5000 、以 1/3 EV 遞增的24種數值被編碼。這些編碼並不嚴格遵守二進制。
 
 第二排的頭三碼可以分辨底片是 12, 20, 24 或是 36 張裝。最後兩碼編了四種曝光寬容度。
 
@@ -138,8 +127,7 @@ G是接地點，S是ISO值，L是底片長度，I是曝光寬容度。
 
 ## 外部連結
 
-  - [A Java applet for generating and interpreting DX
-    codes](http://www.imageaircraft.portfairy.town/DXsim/)
+  - [A Java applet for generating and interpreting DX codes](http://www.imageaircraft.portfairy.town/DXsim/)
 
 [Category:柯达](https://zh.wikipedia.org/wiki/Category:柯达 "wikilink")
 

@@ -1,8 +1,4 @@
-**EXID音樂作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[EXID自](https://zh.wikipedia.org/wiki/EXID "wikilink")2012年出道至今所發行的音樂作品。該團體原先隸屬於AB娛樂（2014年更名為Gamgak娛樂），以單曲《[Whoz
-That
-Girl](https://zh.wikipedia.org/wiki/Holla_\(EXID單曲\) "wikilink")》在2012年2月16日出道，後在2014年6月27日，轉至[Yedang娛樂](../Page/Imagine_Asia.md "wikilink")，即現在的（2016年更名），同年推出數位單曲《[Up
-&
-Down](https://zh.wikipedia.org/wiki/Up_&_Down_\(EXID單曲\) "wikilink")》回歸樂壇，這首單曲為EXID演藝生涯的轉捩點，她們為少數例子因歌迷上傳拍攝表演影片而爆紅的女子組合。迄今，EXID在韓國共發行了1張正規專輯、4張迷你專輯、4張單曲、2張中文單曲。
+**EXID音樂作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[EXID自](https://zh.wikipedia.org/wiki/EXID "wikilink")2012年出道至今所發行的音樂作品。該團體原先隸屬於AB娛樂（2014年更名為Gamgak娛樂），以單曲《[Whoz That Girl](https://zh.wikipedia.org/wiki/Holla_\(EXID單曲\) "wikilink")》在2012年2月16日出道，後在2014年6月27日，轉至[Yedang娛樂](../Page/Imagine_Asia.md "wikilink")，即現在的（2016年更名），同年推出數位單曲《[Up & Down](https://zh.wikipedia.org/wiki/Up_&_Down_\(EXID單曲\) "wikilink")》回歸樂壇，這首單曲為EXID演藝生涯的轉捩點，她們為少數例子因歌迷上傳拍攝表演影片而爆紅的女子組合。迄今，EXID在韓國共發行了1張正規專輯、4張迷你專輯、4張單曲、2張中文單曲。
 
 ## 錄音室專輯
 
@@ -350,7 +346,7 @@ Down](https://zh.wikipedia.org/wiki/Up_&_Down_\(EXID單曲\) "wikilink")》回�
 
 ### 子團歌曲
 
-成員[哈妮和](../Page/哈妮.md "wikilink")[率智在](../Page/率智.md "wikilink")2013年組成EXID第一個子團體，名為[Dasoni](../Page/DASONI.md "wikilink")，後來在2016年更名為率智哈妮\[7\]，她們發佈了三首單曲，其中兩首以Dasoni名義發行，另外一首以率智哈妮名義發行。
+成員[哈妮](../Page/哈妮.md "wikilink")和[率智](../Page/率智.md "wikilink")在2013年組成EXID第一個子團體，名為[Dasoni](../Page/DASONI.md "wikilink")，後來在2016年更名為率智哈妮\[7\]，她們發佈了三首單曲，其中兩首以Dasoni名義發行，另外一首以率智哈妮名義發行。
 
 <table>
 <thead>
@@ -1895,9 +1891,7 @@ Dr. Lee</p></td>
 
   - [官網上的專輯資訊](https://www.bananact.com:5011/album_exid)
 
-[Category:EXID](https://zh.wikipedia.org/wiki/Category:EXID "wikilink")
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
-[Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
+[Category:EXID](https://zh.wikipedia.org/wiki/Category:EXID "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
 
 1.
 

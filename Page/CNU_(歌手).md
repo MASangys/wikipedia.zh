@@ -1,4 +1,4 @@
-**申東佑**（，）韓國5人男子組合[B1A4組合的成員出生於韓國](../Page/B1A4.md "wikilink")[忠清北道](../Page/忠清北道.md "wikilink")[清州市](../Page/清州市.md "wikilink")，是組合中的老大。“8等身”身材的CNU不論在演唱還是RAP實力上都非常突出，很具有男人氣概，雖然沉默寡言，但是只要一微笑便能動搖女生的心。
+**申東佑**（，）韓國5人男子組合[B1A4](../Page/B1A4.md "wikilink")組合的成員出生於韓國[忠清北道](../Page/忠清北道.md "wikilink")[清州市](../Page/清州市.md "wikilink")，是組合中的老大。“8等身”身材的CNU不論在演唱還是RAP實力上都非常突出，很具有男人氣概，雖然沉默寡言，但是只要一微笑便能動搖女生的心。
 
 ## 影視作品
 
@@ -124,10 +124,4 @@
 </tbody>
 </table>
 
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:忠清北道出身人物](https://zh.wikipedia.org/wiki/Category:忠清北道出身人物 "wikilink")
-[Category:申姓](https://zh.wikipedia.org/wiki/Category:申姓 "wikilink")
-[Category:韓國男演員](https://zh.wikipedia.org/wiki/Category:韓國男演員 "wikilink")
-[Category:1991年出生](https://zh.wikipedia.org/wiki/Category:1991年出生 "wikilink")
+[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:忠清北道出身人物](https://zh.wikipedia.org/wiki/Category:忠清北道出身人物 "wikilink") [Category:申姓](https://zh.wikipedia.org/wiki/Category:申姓 "wikilink") [Category:韓國男演員](https://zh.wikipedia.org/wiki/Category:韓國男演員 "wikilink") [Category:1991年出生](https://zh.wikipedia.org/wiki/Category:1991年出生 "wikilink")

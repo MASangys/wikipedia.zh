@@ -9,7 +9,4 @@
   - [官方網站](http://www.venchi.it/en)
   - [Linkedin頁面](https://www.linkedin.com/company/)
 
-[分類:1878年成立的公司](https://zh.wikipedia.org/wiki/分類:1878年成立的公司 "wikilink")
-[分類:巧克力公司](https://zh.wikipedia.org/wiki/分類:巧克力公司 "wikilink")
-[分類:意大利食品公司](https://zh.wikipedia.org/wiki/分類:意大利食品公司 "wikilink")
-[分類:冰淇淋公司](https://zh.wikipedia.org/wiki/分類:冰淇淋公司 "wikilink")
+[分類:1878年成立的公司](https://zh.wikipedia.org/wiki/分類:1878年成立的公司 "wikilink") [分類:巧克力公司](https://zh.wikipedia.org/wiki/分類:巧克力公司 "wikilink") [分類:意大利食品公司](https://zh.wikipedia.org/wiki/分類:意大利食品公司 "wikilink") [分類:冰淇淋公司](https://zh.wikipedia.org/wiki/分類:冰淇淋公司 "wikilink")

@@ -1,4 +1,4 @@
-《**TWICE優雅的私生活**》（）是以[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂公司旗下的女子團體](../Page/JYP娛樂.md "wikilink")[TWICE為主角所拍攝的](https://zh.wikipedia.org/wiki/TWICE "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。將團員們的真實日常生活毫不保留地完整公開。2016年3月1日於韓國[Mnet頻道首播](https://zh.wikipedia.org/wiki/Mnet "wikilink")\[1\]。
+《**TWICE優雅的私生活**》（）是以[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂](../Page/JYP娛樂.md "wikilink")公司旗下的女子團體[TWICE為主角所拍攝的](https://zh.wikipedia.org/wiki/TWICE "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。將團員們的真實日常生活毫不保留地完整公開。2016年3月1日於韓國[Mnet頻道首播](https://zh.wikipedia.org/wiki/Mnet "wikilink")\[1\]。
 
 2016年3月8日起，日本網路數位平台Mnet Smart同步播出\[2\]。5月8日起於日本Mnet Japan頻道播出。
 
@@ -66,16 +66,10 @@
 
   - [Mnet官方網頁](http://www.mnet.com/tv/program/1652)
 
-[Category:TWICE](https://zh.wikipedia.org/wiki/Category:TWICE "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:TWICE](https://zh.wikipedia.org/wiki/Category:TWICE "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
-1.  [Mnet 측 "트와이스 단독 리얼리티, 3월 1일 첫방송
-    확정"(공식)](http://entertain.naver.com/read?oid=076&aid=0002893647)
+1.  [Mnet 측 "트와이스 단독 리얼리티, 3월 1일 첫방송 확정"(공식)](http://entertain.naver.com/read?oid=076&aid=0002893647)
 
-
-2.  [TWICE初のリアリティ番組「TWICEの優雅な私生活」の日韓同時配信がMnet
-    Smartでスタート](https://www.instagram.com/p/BCrwe5FQNri/?taken-by=mnetsmart)
-
+2.  [TWICE初のリアリティ番組「TWICEの優雅な私生活」の日韓同時配信がMnet Smartでスタート](https://www.instagram.com/p/BCrwe5FQNri/?taken-by=mnetsmart)
 
 3.

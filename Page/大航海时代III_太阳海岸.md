@@ -1,14 +1,14 @@
 是日本[光荣公司出品的](https://zh.wikipedia.org/wiki/光荣公司 "wikilink")[模拟类游戏](https://zh.wikipedia.org/wiki/模拟游戏 "wikilink")[大航海时代系列的第三部](https://zh.wikipedia.org/wiki/大航海时代系列 "wikilink")，于1996年11月29日发行。
 
-对应机种Windows和Macintosh，无[家用游戏机移植版](../Page/家用游戏机.md "wikilink")。
+对应机种Windows和Macintosh，无[家用游戏机](../Page/家用游戏机.md "wikilink")移植版。
 
 大航海时代III是系列中最为贴近史实的一部，很多历史上的真实人物都在游戏中登场。
 
 ## 時代背景
 
-本作的背景设定于《大航海时代II》开始年代之前的1480年，也就是[地理大发现的萌芽阶段](../Page/地理大发现.md "wikilink")。此时，西班牙的[收复失地运动尚未完成](https://zh.wikipedia.org/wiki/收复失地运动 "wikilink")，[伊比利亚半岛南部的](../Page/伊比利亚半岛.md "wikilink")[格拉纳达仍是](https://zh.wikipedia.org/wiki/格拉纳达 "wikilink")[伊斯兰的势力范围](https://zh.wikipedia.org/wiki/伊斯兰 "wikilink")。随着时间的推移，游戏的进程也根据历史的发展向前推进，并在一定程度上受到玩家的影响。
+本作的背景设定于《大航海时代II》开始年代之前的1480年，也就是[地理大发现](../Page/地理大发现.md "wikilink")的萌芽阶段。此时，西班牙的[收复失地运动尚未完成](https://zh.wikipedia.org/wiki/收复失地运动 "wikilink")，[伊比利亚半岛](../Page/伊比利亚半岛.md "wikilink")南部的[格拉纳达仍是](https://zh.wikipedia.org/wiki/格拉纳达 "wikilink")[伊斯兰的势力范围](https://zh.wikipedia.org/wiki/伊斯兰 "wikilink")。随着时间的推移，游戏的进程也根据历史的发展向前推进，并在一定程度上受到玩家的影响。
 
-此外，游戏中存在因政治原因造成的进港困难。玩家扮演的航海者在进入与基督教国家敌对的伊斯兰的城市以及实行[海禁的明朝都市时都会遇到阻碍](../Page/海禁.md "wikilink")。1494年西班牙和葡萄牙签订《[托尔德西里亚斯条约](../Page/托尔德西里亚斯条约.md "wikilink")》之后，两国之中一国的玩家进入另一国的城市也会被阻拦。这些城市可以通过金钱交涉进入，或者冒着失败的风险秘密潜入，也可以通过武力进攻强行占领。
+此外，游戏中存在因政治原因造成的进港困难。玩家扮演的航海者在进入与基督教国家敌对的伊斯兰的城市以及实行[海禁](../Page/海禁.md "wikilink")的明朝都市时都会遇到阻碍。1494年西班牙和葡萄牙签订《[托尔德西里亚斯条约](../Page/托尔德西里亚斯条约.md "wikilink")》之后，两国之中一国的玩家进入另一国的城市也会被阻拦。这些城市可以通过金钱交涉进入，或者冒着失败的风险秘密潜入，也可以通过武力进攻强行占领。
 
 ## 主要登场人物
 
@@ -45,10 +45,6 @@
 
 ## 外部链接
 
-  - [大航海時代III
-    制品介绍](http://www.gamecity.ne.jp/products/products/ee/Rldai3.htm)
+  - [大航海時代III 制品介绍](http://www.gamecity.ne.jp/products/products/ee/Rldai3.htm)
 
-[Category:大航海時代系列](https://zh.wikipedia.org/wiki/Category:大航海時代系列 "wikilink")
-[Category:1996年电子游戏](https://zh.wikipedia.org/wiki/Category:1996年电子游戏 "wikilink")
-[Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
+[Category:大航海時代系列](https://zh.wikipedia.org/wiki/Category:大航海時代系列 "wikilink") [Category:1996年电子游戏](https://zh.wikipedia.org/wiki/Category:1996年电子游戏 "wikilink") [Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")

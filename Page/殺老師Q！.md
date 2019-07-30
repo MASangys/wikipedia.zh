@@ -1,4 +1,4 @@
-《**殺老師Q！**》是2015年11月號的《[最強Jump](https://zh.wikipedia.org/wiki/最強Jump "wikilink")》上連載，《[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教室 "wikilink")》的[外傳](https://zh.wikipedia.org/wiki/外傳 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。企畫、故事為渡邉築、作畫為[青戶成](https://zh.wikipedia.org/wiki/青戶成 "wikilink")。把原作世界觀變成RPG世界的[喜劇作品](../Page/喜劇.md "wikilink")。已發布第3冊[單行本及](https://zh.wikipedia.org/wiki/單行本 "wikilink")[ONA](https://zh.wikipedia.org/wiki/ONA "wikilink")。
+《**殺老師Q！**》是2015年11月號的《[最強Jump](https://zh.wikipedia.org/wiki/最強Jump "wikilink")》上連載，《[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教室 "wikilink")》的[外傳](https://zh.wikipedia.org/wiki/外傳 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。企畫、故事為渡邉築、作畫為[青戶成](https://zh.wikipedia.org/wiki/青戶成 "wikilink")。把原作世界觀變成RPG世界的[喜劇](../Page/喜劇.md "wikilink")作品。已發布第3冊[單行本及](https://zh.wikipedia.org/wiki/單行本 "wikilink")[ONA](https://zh.wikipedia.org/wiki/ONA "wikilink")。
 
 ## 劇情
 
@@ -92,8 +92,7 @@
 
 ## 動畫
 
-動畫於2016年11月19日《劇場版 暗殺教室
-365日的時間》同時上映。2016年12月23日短篇動畫在[FOD](https://zh.wikipedia.org/wiki/FOD "wikilink")、[dTV](https://zh.wikipedia.org/wiki/dTV "wikilink")、[UULA發佈](https://zh.wikipedia.org/wiki/UULA "wikilink")\[4\]。
+動畫於2016年11月19日《劇場版 暗殺教室 365日的時間》同時上映。2016年12月23日短篇動畫在[FOD](https://zh.wikipedia.org/wiki/FOD "wikilink")、[dTV](https://zh.wikipedia.org/wiki/dTV "wikilink")、[UULA發佈](https://zh.wikipedia.org/wiki/UULA "wikilink")\[4\]。
 
 ### 主題曲
 
@@ -265,19 +264,9 @@
 
   - [動畫「殺老師Q！」官方網站](http://koroq-anime.com/)
 
-[分類:搞笑漫畫](https://zh.wikipedia.org/wiki/分類:搞笑漫畫 "wikilink")
-[分類:漫畫衍生作品](https://zh.wikipedia.org/wiki/分類:漫畫衍生作品 "wikilink")
-[分類:SD作品](https://zh.wikipedia.org/wiki/分類:SD作品 "wikilink")
-[分類:2016年日本網絡動畫](https://zh.wikipedia.org/wiki/分類:2016年日本網絡動畫 "wikilink")
-[分類:雲雀工作室](https://zh.wikipedia.org/wiki/分類:雲雀工作室 "wikilink")
-[分類:關西電視台製作的電影](https://zh.wikipedia.org/wiki/分類:關西電視台製作的電影 "wikilink")
-[分類:動畫短片](https://zh.wikipedia.org/wiki/分類:動畫短片 "wikilink")
-[分類:搞笑動畫](https://zh.wikipedia.org/wiki/分類:搞笑動畫 "wikilink")
+[分類:搞笑漫畫](https://zh.wikipedia.org/wiki/分類:搞笑漫畫 "wikilink") [分類:漫畫衍生作品](https://zh.wikipedia.org/wiki/分類:漫畫衍生作品 "wikilink") [分類:SD作品](https://zh.wikipedia.org/wiki/分類:SD作品 "wikilink") [分類:2016年日本網絡動畫](https://zh.wikipedia.org/wiki/分類:2016年日本網絡動畫 "wikilink") [分類:雲雀工作室](https://zh.wikipedia.org/wiki/分類:雲雀工作室 "wikilink") [分類:關西電視台製作的電影](https://zh.wikipedia.org/wiki/分類:關西電視台製作的電影 "wikilink") [分類:動畫短片](https://zh.wikipedia.org/wiki/分類:動畫短片 "wikilink") [分類:搞笑動畫](https://zh.wikipedia.org/wiki/分類:搞笑動畫 "wikilink")
 
-[Category:魔王主角題材作品](https://zh.wikipedia.org/wiki/Category:魔王主角題材作品 "wikilink")
-[Category:日本動畫短片電影](https://zh.wikipedia.org/wiki/Category:日本動畫短片電影 "wikilink")
-[Category:2016年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2016年日本劇場動畫 "wikilink")
-[Category:网络动画](https://zh.wikipedia.org/wiki/Category:网络动画 "wikilink")
+[Category:魔王主角題材作品](https://zh.wikipedia.org/wiki/Category:魔王主角題材作品 "wikilink") [Category:日本動畫短片電影](https://zh.wikipedia.org/wiki/Category:日本動畫短片電影 "wikilink") [Category:2016年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2016年日本劇場動畫 "wikilink") [Category:网络动画](https://zh.wikipedia.org/wiki/Category:网络动画 "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
-**Bucky木場**（，），[日本資深男](../Page/日本.md "wikilink")[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")、[DJ](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")、[配音員](../Page/配音員.md "wikilink")。[東京俳優生活協同組合](../Page/東京俳優生活協同組合.md "wikilink")（簡稱俳協）所屬\[1\]。出身於[鹿兒島縣](https://zh.wikipedia.org/wiki/鹿兒島縣 "wikilink")\[2\]。
+**Bucky木場**（，），[日本](../Page/日本.md "wikilink")資深男[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")、[DJ](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")、[配音員](../Page/配音員.md "wikilink")。[東京俳優生活協同組合](../Page/東京俳優生活協同組合.md "wikilink")（簡稱俳協）所屬\[1\]。出身於[鹿兒島縣](https://zh.wikipedia.org/wiki/鹿兒島縣 "wikilink")\[2\]。
 
 ## 人物簡介
 
@@ -44,7 +44,7 @@
 
   - [運財智叻星](https://zh.wikipedia.org/wiki/運財智叻星 "wikilink")
 
-  - （擔任人物排行榜的現場旁白、及《火燄大對抗》在[武道館和](../Page/日本武道館.md "wikilink")[東京國際論壇等活動會場現場的企劃指南](../Page/東京國際論壇.md "wikilink")。）
+  - （擔任人物排行榜的現場旁白、及《火燄大對抗》在[武道館和](../Page/日本武道館.md "wikilink")[東京國際論壇](../Page/東京國際論壇.md "wikilink")等活動會場現場的企劃指南。）
 
 <!-- end list -->
 
@@ -103,8 +103,7 @@
 
 <!-- end list -->
 
-  - [SMAP×SMAP](https://zh.wikipedia.org/wiki/SMAP×SMAP "wikilink")
-    （1996年－2016年）※不定期參加。
+  - [SMAP×SMAP](https://zh.wikipedia.org/wiki/SMAP×SMAP "wikilink") （1996年－2016年）※不定期參加。
 
   - 「超級特報」（1998年－2015年）※不定期參加。
 
@@ -121,8 +120,7 @@
   -
 ### 廣播
 
-  - [Interval
-    signal](https://zh.wikipedia.org/wiki/調諧信號 "wikilink")（至2015年1月31日為止，2015年2月起由聲優[山寺宏一接任](../Page/山寺宏一.md "wikilink")。）
+  - [Interval signal](https://zh.wikipedia.org/wiki/調諧信號 "wikilink")（至2015年1月31日為止，2015年2月起由聲優[山寺宏一](../Page/山寺宏一.md "wikilink")接任。）
 
   - Bucky木場的我們的時間（）
 
@@ -139,7 +137,7 @@
   -
   -
   -
-  - [TBS電視台台呼](../Page/TBS電視台.md "wikilink")
+  - [TBS電視台](../Page/TBS電視台.md "wikilink")台呼
 
   -
   - 「」
@@ -160,19 +158,17 @@
 
 ### 電視劇、特攝影集
 
-  - [太陽戰隊太陽火神](../Page/太陽戰隊太陽火神.md "wikilink")
-    第27話（1981年，[朝日電視台](../Page/朝日電視台.md "wikilink")）
+  - [太陽戰隊太陽火神](../Page/太陽戰隊太陽火神.md "wikilink") 第27話（1981年，[朝日電視台](../Page/朝日電視台.md "wikilink")）
 
   - （1982年，[日本電視台](../Page/日本電視台.md "wikilink")）
 
-  - [電擊戰隊變化人](../Page/電擊戰隊變化人.md "wikilink")
-    第21話（1985年6月22日，朝日電視台）－托拉星人波爾塔的配音。
+  - [電擊戰隊變化人](../Page/電擊戰隊變化人.md "wikilink") 第21話（1985年6月22日，朝日電視台）－托拉星人波爾塔的配音。
 
   - （1985年，朝日電視台）
 
   - [獨眼龍政宗](../Page/獨眼龍政宗.md "wikilink")（1987年，[NHK](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")）－飾演綿貫源吾。
 
-  - [超人機梅塔路達](../Page/超人機.md "wikilink")（1987年－1988年，朝日電視台）－暴魂X騎士的配音、爆鬥士羅賓肯的配音。
+  - [超人機](../Page/超人機.md "wikilink")梅塔路達（1987年－1988年，朝日電視台）－暴魂X騎士的配音、爆鬥士羅賓肯的配音。
 
   - [假面騎士Build](../Page/假面騎士Build.md "wikilink")（2017年－2018年，朝日電視台）－旁白\[6\]
 
@@ -182,10 +178,8 @@
 
 <!-- end list -->
 
-  - [JoJo的奇妙冒險](../Page/JoJo的奇妙冒險_\(電視動畫\).md "wikilink")
-    [不滅鑽石](../Page/不滅鑽石.md "wikilink")（原田海\[7\]）
-  - [忘年Gudaguda
-    Order2016](https://zh.wikipedia.org/wiki/Fate/Grand_Order "wikilink")（旁白）
+  - [JoJo的奇妙冒險](../Page/JoJo的奇妙冒險_\(電視動畫\).md "wikilink") [不滅鑽石](../Page/不滅鑽石.md "wikilink")（原田海\[7\]）
+  - [忘年Gudaguda Order2016](https://zh.wikipedia.org/wiki/Fate/Grand_Order "wikilink")（旁白）
 
 <!-- end list -->
 
@@ -198,8 +192,7 @@
 ### 電影
 
   - [哥吉拉×美加基拉斯 G消滅作戰](../Page/哥吉拉×美加基拉斯_G消滅作戰.md "wikilink")（預告旁白）
-  - [哥吉拉·摩斯拉·王者基多拉
-    大怪獸總攻擊](../Page/哥吉拉·摩斯拉·王者基多拉_大怪獸總攻擊.md "wikilink")（預告旁白）
+  - [哥吉拉·摩斯拉·王者基多拉 大怪獸總攻擊](../Page/哥吉拉·摩斯拉·王者基多拉_大怪獸總攻擊.md "wikilink")（預告旁白）
   - [J聯賽的](../Page/日本職業足球聯賽.md "wikilink")（旁白）
 
 ### 音樂
@@ -208,10 +201,8 @@
 
 ### 遊戲
 
-  - [BS F-ZERO GRAND PRIX
-    2](../Page/F-Zero.md "wikilink")（[Satellaview](../Page/Satellaview.md "wikilink")）
-  - [勇者鬥惡龍VIII
-    天空、碧海、大地與被詛咒的公主](https://zh.wikipedia.org/wiki/勇者鬥惡龍VIII_天空、碧海、大地與被詛咒的公主 "wikilink")（2015年，裁判）\[8\]
+  - [BS F-ZERO GRAND PRIX 2](../Page/F-Zero.md "wikilink")（[Satellaview](../Page/Satellaview.md "wikilink")）
+  - [勇者鬥惡龍VIII 天空、碧海、大地與被詛咒的公主](https://zh.wikipedia.org/wiki/勇者鬥惡龍VIII_天空、碧海、大地與被詛咒的公主 "wikilink")（2015年，裁判）\[8\]
   - [碧藍幻想](../Page/碧藍幻想.md "wikilink")（2016年，法蘭克爾特）\[9\]
 
 ### CD
@@ -228,14 +219,7 @@
 
   - [東京俳優生活協同組合公式官網的聲優簡介](http://haikyo.co.jp/profile/profile.php?ActorID=11988)
 
-
-[Category:日本廣播主持人](https://zh.wikipedia.org/wiki/Category:日本廣播主持人 "wikilink")
-[Category:日本男性配音員](https://zh.wikipedia.org/wiki/Category:日本男性配音員 "wikilink")
-[Category:旁白](https://zh.wikipedia.org/wiki/Category:旁白 "wikilink")
-[Category:東京俳優生活協同組合](https://zh.wikipedia.org/wiki/Category:東京俳優生活協同組合 "wikilink")
-[Category:1956年出生](https://zh.wikipedia.org/wiki/Category:1956年出生 "wikilink")
-[Category:鹿兒島縣出身人物](https://zh.wikipedia.org/wiki/Category:鹿兒島縣出身人物 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本廣播主持人](https://zh.wikipedia.org/wiki/Category:日本廣播主持人 "wikilink") [Category:日本男性配音員](https://zh.wikipedia.org/wiki/Category:日本男性配音員 "wikilink") [Category:旁白](https://zh.wikipedia.org/wiki/Category:旁白 "wikilink") [Category:東京俳優生活協同組合](https://zh.wikipedia.org/wiki/Category:東京俳優生活協同組合 "wikilink") [Category:1956年出生](https://zh.wikipedia.org/wiki/Category:1956年出生 "wikilink") [Category:鹿兒島縣出身人物](https://zh.wikipedia.org/wiki/Category:鹿兒島縣出身人物 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.
 2.

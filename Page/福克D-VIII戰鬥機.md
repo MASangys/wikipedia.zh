@@ -1,4 +1,4 @@
-**福克D-VIII戰鬥機**原本被稱為「福克E-V戰鬥機」，和[福克D-VII戰鬥機一樣是福克飛機公司為了參加德國空軍的](../Page/福克D-VII戰鬥機.md "wikilink")「新型戰鬥機比賽」而提出的戰鬥機設計。
+**福克D-VIII戰鬥機**原本被稱為「福克E-V戰鬥機」，和[福克D-VII戰鬥機](../Page/福克D-VII戰鬥機.md "wikilink")一樣是福克飛機公司為了參加德國空軍的「新型戰鬥機比賽」而提出的戰鬥機設計。
 
 ## 基本資料
 
@@ -45,6 +45,4 @@
   - [信天翁D戰鬥機](../Page/信天翁D戰鬥機.md "wikilink")
   - [福克D-VII戰鬥機](../Page/福克D-VII戰鬥機.md "wikilink")
 
-[Category:福克](https://zh.wikipedia.org/wiki/Category:福克 "wikilink")
-[Category:德國戰鬥機](https://zh.wikipedia.org/wiki/Category:德國戰鬥機 "wikilink")
-[Category:第一次世界大戰飛機](https://zh.wikipedia.org/wiki/Category:第一次世界大戰飛機 "wikilink")
+[Category:福克](https://zh.wikipedia.org/wiki/Category:福克 "wikilink") [Category:德國戰鬥機](https://zh.wikipedia.org/wiki/Category:德國戰鬥機 "wikilink") [Category:第一次世界大戰飛機](https://zh.wikipedia.org/wiki/Category:第一次世界大戰飛機 "wikilink")

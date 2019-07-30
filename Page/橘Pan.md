@@ -39,8 +39,7 @@
 
   - 簒奪執行者（）
 
-  - [美少女死神
-    還我H之魂！](../Page/美少女死神_還我H之魂！.md "wikilink")《。》。全11冊。[台灣角川](../Page/台灣角川.md "wikilink")。
+  - [美少女死神 還我H之魂！](../Page/美少女死神_還我H之魂！.md "wikilink")《。》。全11冊。[台灣角川](../Page/台灣角川.md "wikilink")。
 
   - 初巫女妹 色出我
 
@@ -60,6 +59,4 @@
 
   -
 
-[Category:日本小說家](https://zh.wikipedia.org/wiki/Category:日本小說家 "wikilink")
-[Category:日本輕小說作家](https://zh.wikipedia.org/wiki/Category:日本輕小說作家 "wikilink")
-[Category:日本成人遊戲編劇](https://zh.wikipedia.org/wiki/Category:日本成人遊戲編劇 "wikilink")
+[Category:日本小說家](https://zh.wikipedia.org/wiki/Category:日本小說家 "wikilink") [Category:日本輕小說作家](https://zh.wikipedia.org/wiki/Category:日本輕小說作家 "wikilink") [Category:日本成人遊戲編劇](https://zh.wikipedia.org/wiki/Category:日本成人遊戲編劇 "wikilink")

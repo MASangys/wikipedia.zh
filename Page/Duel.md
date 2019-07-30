@@ -1,10 +1,4 @@
-《**Duel**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN電視台自](https://zh.wikipedia.org/wiki/OCN "wikilink")2017年6月3日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original
-Series）。本劇由《[Nine：九回時間旅行](../Page/Nine：九回時間旅行.md "wikilink")》金允珠編劇和《[又，吳海英](../Page/又，吳海英.md "wikilink")》李鍾在導演合作，講述的是與複製人相遇後被捲入驚人事件中的刑警張得天（[鄭在詠](../Page/鄭在詠.md "wikilink")
-飾）、對張得天與複製人之間的關係產生疑問並開始追踪真相的崔朝惠（[金諪恩](https://zh.wikipedia.org/wiki/金諪恩 "wikilink")
-飾），與為了生存下去不得不對決，分為善惡兩方的複製人（[梁世宗](../Page/梁世宗_\(韓國\).md "wikilink")
-飾）之間的故事。另外，[Viu和](../Page/Viu.md "wikilink")[tvN
-Asia將會同步播出](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")，僅在新加坡播出，tvN
-Asia於播出後24小時之內(6月4日)播出，Viu新加坡版隨即上架。
+《**Duel**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN電視台自](https://zh.wikipedia.org/wiki/OCN "wikilink")2017年6月3日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original Series）。本劇由《[Nine：九回時間旅行](../Page/Nine：九回時間旅行.md "wikilink")》金允珠編劇和《[又，吳海英](../Page/又，吳海英.md "wikilink")》李鍾在導演合作，講述的是與複製人相遇後被捲入驚人事件中的刑警張得天（[鄭在詠](../Page/鄭在詠.md "wikilink") 飾）、對張得天與複製人之間的關係產生疑問並開始追踪真相的崔朝惠（[金諪恩](https://zh.wikipedia.org/wiki/金諪恩 "wikilink") 飾），與為了生存下去不得不對決，分為善惡兩方的複製人（[梁世宗](../Page/梁世宗_\(韓國\).md "wikilink") 飾）之間的故事。另外，[Viu](../Page/Viu.md "wikilink")和[tvN Asia將會同步播出](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")，僅在新加坡播出，tvN Asia於播出後24小時之內(6月4日)播出，Viu新加坡版隨即上架。
 
 ## 演員陣容
 
@@ -359,21 +353,8 @@ Asia於播出後24小時之內(6月4日)播出，Viu新加坡版隨即上架。
   - [韓國OCN官方網站](http://program.tving.com/ocn/duel)
   - [香港有線電視官方網站](http://epg.i-cable.com/ci/program/intro/525/再生敵人)
 
-[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink")
-[Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink")
-[Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink")
-[Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink")
-[Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink")
-[Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink")
-[Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink")
-[Category:檢察官題材電視劇](https://zh.wikipedia.org/wiki/Category:檢察官題材電視劇 "wikilink")
-[Category:克隆題材的虛構作品](https://zh.wikipedia.org/wiki/Category:克隆題材的虛構作品 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
+[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink") [Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink") [Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink") [Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink") [Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink") [Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink") [Category:檢察官題材電視劇](https://zh.wikipedia.org/wiki/Category:檢察官題材電視劇 "wikilink") [Category:克隆題材的虛構作品](https://zh.wikipedia.org/wiki/Category:克隆題材的虛構作品 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
 
 1.  [AGB尼爾森官網](http://www.nielsenkorea.co.kr/tv_terrestrial_day.asp?menu=Tit_1&sub_menu=3_1)
-
-2.  [케이블 일일시청률
-    Daum](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
-3.  [듀얼 : 네이버
-    통합검색](https://search.naver.com/search.naver?where=nexearch&query=듀얼)
+2.  [케이블 일일시청률 Daum](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
+3.  [듀얼 : 네이버 통합검색](https://search.naver.com/search.naver?where=nexearch&query=듀얼)

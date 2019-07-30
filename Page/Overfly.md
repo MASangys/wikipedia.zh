@@ -1,5 +1,4 @@
-《**Overfly**》是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[春奈露娜的第](../Page/春奈露娜.md "wikilink")2张[单曲唱片](../Page/单曲.md "wikilink")，总共收录三首歌曲，于2012年11月28日由[SME
-Records发行](../Page/SME_Records.md "wikilink")。
+《**Overfly**》是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[春奈露娜](../Page/春奈露娜.md "wikilink")的第2张[单曲](../Page/单曲.md "wikilink")唱片，总共收录三首歌曲，于2012年11月28日由[SME Records发行](../Page/SME_Records.md "wikilink")。
 
 ## 概要
 
@@ -13,11 +12,7 @@ Records发行](../Page/SME_Records.md "wikilink")。
 
 在2012年12月1日公布的Oricon日间排行榜中，《Overfly》排名第3位，随后该曲又以售出1.9万张的成绩在2012年12月10日公布的Oricon周度排行榜中排名第7，刷新了春奈露娜发售的单曲在该榜的最高排名\[5\]\[6\]。截至2015年11月，《Overfly》仍是春奈唯一一张曾进入Oricon周榜前十的单曲\[7\]。
 
-与此同时，本曲在2012年12月10日公布的Billboard Japan Hot
-Animation排行榜中仅次于[宇多田光的](../Page/宇多田光.md "wikilink")《[樱花纷飞](https://zh.wikipedia.org/wiki/樱花纷飞 "wikilink")》排名第2位\[8\]。另外，本曲在同日公布的Hot
-100\[9\]、Hot Singles Sales\[10\]与Hot Top
-Airplay\[11\]中分别取得第12位、第6位以及第45位。而Nielsen
-SoundScan Top 20排行榜方面，本曲的最高排名是第7名\[12\]。
+与此同时，本曲在2012年12月10日公布的Billboard Japan Hot Animation排行榜中仅次于[宇多田光](../Page/宇多田光.md "wikilink")的《[樱花纷飞](https://zh.wikipedia.org/wiki/樱花纷飞 "wikilink")》排名第2位\[8\]。另外，本曲在同日公布的Hot 100\[9\]、Hot Singles Sales\[10\]与Hot Top Airplay\[11\]中分别取得第12位、第6位以及第45位。而Nielsen SoundScan Top 20排行榜方面，本曲的最高排名是第7名\[12\]。
 
 ## 评价
 
@@ -33,8 +28,7 @@ SoundScan Top 20排行榜方面，本曲的最高排名是第7名\[12\]。
       - 作詞、作曲：小川智之，編曲：森空青
 3.  **魔法之城、真實之書**（） \[3:34\]
       - 作詞、作曲・編曲：
-4.  Overfly
-    〜[instrumental](https://zh.wikipedia.org/wiki/器乐 "wikilink")〜
+4.  Overfly 〜[instrumental](https://zh.wikipedia.org/wiki/器乐 "wikilink")〜
 
 **Blu-ray（初回限定盘）**
 
@@ -68,10 +62,7 @@ SoundScan Top 20排行榜方面，本曲的最高排名是第7名\[12\]。
       - [通常盘](http://www.sonymusic.co.jp/artist/Lunaharuna/discography/SECL-1222)
       - [期间限定盘](http://www.sonymusic.co.jp/artist/Lunaharuna/discography/SECL-1223)
 
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
-[Category:刀剑神域](https://zh.wikipedia.org/wiki/Category:刀剑神域 "wikilink")
+[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink") [Category:刀剑神域](https://zh.wikipedia.org/wiki/Category:刀剑神域 "wikilink")
 
 1.
 

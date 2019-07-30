@@ -1,6 +1,4 @@
-**YAHOO\!人氣大獎2015
-頒獎典禮**（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），於2015年12月10日晚上8時假[香港展覽中心Hall](../Page/香港展覽中心.md "wikilink")
-5G舉行，司儀由[森美和](https://zh.wikipedia.org/wiki/森美 "wikilink")[胡蓓蔚擔任](../Page/胡蓓蔚.md "wikilink")，頒獎典禮門票收益扣除成本撥捐[願望成真基金](../Page/願望成真基金.md "wikilink")。
+**YAHOO\!人氣大獎2015 頒獎典禮**（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），於2015年12月10日晚上8時假[香港展覽中心](../Page/香港展覽中心.md "wikilink")Hall 5G舉行，司儀由[森美和](https://zh.wikipedia.org/wiki/森美 "wikilink")[胡蓓蔚](../Page/胡蓓蔚.md "wikilink")擔任，頒獎典禮門票收益扣除成本撥捐[願望成真基金](../Page/願望成真基金.md "wikilink")。
 
 ## 得獎名單
 
@@ -23,8 +21,7 @@
       - 《安徒生的錯》 － [林奕匡](../Page/林奕匡.md "wikilink")
       - 《年月匆匆》 － [馮允謙](../Page/馮允謙.md "wikilink")
   - 年度熱搜熱曲
-      - 《羅生門》 － [麥浚龍](../Page/麥浚龍.md "wikilink") /
-        [謝安琪](../Page/謝安琪.md "wikilink")
+      - 《羅生門》 － [麥浚龍](../Page/麥浚龍.md "wikilink") / [謝安琪](../Page/謝安琪.md "wikilink")
   - 本地唱作歌手
       - [周國賢](../Page/周國賢.md "wikilink")
   - 本地女歌手
@@ -34,8 +31,7 @@
   - 本地音樂組合
       - [Dear Jane](../Page/Dear_Jane.md "wikilink")
       - [RubberBand](../Page/RubberBand.md "wikilink")
-      - [Supper
-        Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")
+      - [Supper Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")
   - 樂壇新勢力
       - [葉巧琳](https://zh.wikipedia.org/wiki/葉巧琳 "wikilink")
       - [曾若華](../Page/曾若華.md "wikilink")
@@ -96,5 +92,4 @@
 
   - [搜尋人氣大獎2015](https://yahoo.digitalmktg.com.hk/buzz2015)
 
-[Category:Yahoo\!搜尋人氣大獎](https://zh.wikipedia.org/wiki/Category:Yahoo!搜尋人氣大獎 "wikilink")
-[Category:雅虎](https://zh.wikipedia.org/wiki/Category:雅虎 "wikilink")
+[Category:Yahoo\!搜尋人氣大獎](https://zh.wikipedia.org/wiki/Category:Yahoo!搜尋人氣大獎 "wikilink") [Category:雅虎](https://zh.wikipedia.org/wiki/Category:雅虎 "wikilink")

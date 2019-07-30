@@ -1,5 +1,4 @@
-《**下北澤die hard**》
-（，）為[東京電視台](../Page/東京電視台.md "wikilink")2017年播出的電視劇，由上田誠、細川徹、松井周、喜安浩平、柴幸男、根本宗子、福原充則、丸尾丸一郎、三浦直之等人編劇，関和亮、細川徹執導，而由[古田新太](../Page/古田新太.md "wikilink")、[小池榮子等人主演](https://zh.wikipedia.org/wiki/小池榮子 "wikilink")，於2017年7月22日首播\[1\]\[2\]\[3\]。標題向[美國電影](https://zh.wikipedia.org/wiki/美國電影 "wikilink")《[終極警探](../Page/終極警探.md "wikilink")》[致敬](../Page/致敬.md "wikilink")，各集主要以喬・幕練\[4\][古田新太](../Page/古田新太.md "wikilink")、[小池榮子的閒聊中開場](https://zh.wikipedia.org/wiki/小池榮子 "wikilink")，爾後引出各個小劇場。
+《**下北澤die hard**》 （，）為[東京電視台](../Page/東京電視台.md "wikilink")2017年播出的電視劇，由上田誠、細川徹、松井周、喜安浩平、柴幸男、根本宗子、福原充則、丸尾丸一郎、三浦直之等人編劇，関和亮、細川徹執導，而由[古田新太](../Page/古田新太.md "wikilink")、[小池榮子等人主演](https://zh.wikipedia.org/wiki/小池榮子 "wikilink")，於2017年7月22日首播\[1\]\[2\]\[3\]。標題向[美國電影](https://zh.wikipedia.org/wiki/美國電影 "wikilink")《[終極警探](../Page/終極警探.md "wikilink")》[致敬](../Page/致敬.md "wikilink")，各集主要以喬・幕練\[4\][古田新太](../Page/古田新太.md "wikilink")、[小池榮子的閒聊中開場](https://zh.wikipedia.org/wiki/小池榮子 "wikilink")，爾後引出各個小劇場。
 
 ## 演員列表
 
@@ -501,12 +500,7 @@
   - [官方網站](http://www.tv-tokyo.co.jp/shimokitazawa/index.html)
 
   -
-[Category:2017年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2017年開播的日本電視劇集 "wikilink")
-[Category:電視劇24](https://zh.wikipedia.org/wiki/Category:電視劇24 "wikilink")
-[Category:東京背景電視劇](https://zh.wikipedia.org/wiki/Category:東京背景電視劇 "wikilink")
-[Category:下北澤背景作品](https://zh.wikipedia.org/wiki/Category:下北澤背景作品 "wikilink")
-[Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink")
-[Category:餐館背景電視劇](https://zh.wikipedia.org/wiki/Category:餐館背景電視劇 "wikilink")
+[Category:2017年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2017年開播的日本電視劇集 "wikilink") [Category:電視劇24](https://zh.wikipedia.org/wiki/Category:電視劇24 "wikilink") [Category:東京背景電視劇](https://zh.wikipedia.org/wiki/Category:東京背景電視劇 "wikilink") [Category:下北澤背景作品](https://zh.wikipedia.org/wiki/Category:下北澤背景作品 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink") [Category:餐館背景電視劇](https://zh.wikipedia.org/wiki/Category:餐館背景電視劇 "wikilink")
 
 1.
 2.

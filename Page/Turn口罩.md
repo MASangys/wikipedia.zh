@@ -1,8 +1,8 @@
-《**Turn口罩**》是一首由臺灣歌手[謝金燕創作的單曲](https://zh.wikipedia.org/wiki/謝金燕 "wikilink")，此單曲於2017年[台灣跨年晚會桃園場首次演唱](../Page/台灣跨年晚會.md "wikilink")\[1\]。《Turn口罩》為謝金燕自2015年發行《蹦X趴》後，時隔一年半的作品\[2\]。
+《**Turn口罩**》是一首由臺灣歌手[謝金燕創作的單曲](https://zh.wikipedia.org/wiki/謝金燕 "wikilink")，此單曲於2017年[台灣跨年晚會](../Page/台灣跨年晚會.md "wikilink")桃園場首次演唱\[1\]。《Turn口罩》為謝金燕自2015年發行《蹦X趴》後，時隔一年半的作品\[2\]。
 
 ## 創作背景
 
-謝金燕在跨年晚會結束後，對於新曲命名表示曲名與台語「脫褲跑」有著相同諧音，並表示新曲的創作不要想太嚴肅，只想讓大家輕鬆面對所有的事情，有正面、詼諧的感覺，幽默點面對生活\[3\]。在新曲首次演出後，經紀公司於官方[YouTube發布音樂錄影帶前導預告](../Page/YouTube.md "wikilink")\[4\]。
+謝金燕在跨年晚會結束後，對於新曲命名表示曲名與台語「脫褲跑」有著相同諧音，並表示新曲的創作不要想太嚴肅，只想讓大家輕鬆面對所有的事情，有正面、詼諧的感覺，幽默點面對生活\[3\]。在新曲首次演出後，經紀公司於官方[YouTube](../Page/YouTube.md "wikilink")發布音樂錄影帶前導預告\[4\]。
 
 ## 紀錄
 
@@ -20,8 +20,7 @@
 
 ## 參考來源
 
-[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink")
-[Category:台灣歌曲](https://zh.wikipedia.org/wiki/Category:台灣歌曲 "wikilink")
+[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink") [Category:台灣歌曲](https://zh.wikipedia.org/wiki/Category:台灣歌曲 "wikilink")
 
 1.
 2.

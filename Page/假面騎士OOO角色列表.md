@@ -1,9 +1,8 @@
-**假面騎士OOO角色列表**展示於[朝日電視台放映的特攝劇集](../Page/朝日電視台.md "wikilink")《**[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")**》（原題：）各個角色。
+**假面騎士OOO角色列表**展示於[朝日電視台](../Page/朝日電視台.md "wikilink")放映的特攝劇集《**[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")**》（原題：）各個角色。
 
 ## 假面騎士
 
-**火野映司（ひの
-えいじ）**（21）（[渡部秀飾](../Page/渡部秀.md "wikilink")／香港配音：[黃積權](../Page/黃積權.md "wikilink")／台灣配音：[余孟珂](https://zh.wikipedia.org/wiki/余孟珂 "wikilink")）
+**火野映司（ひの えいじ）**（21）（[渡部秀](../Page/渡部秀.md "wikilink")飾／香港配音：[黃積權](../Page/黃積權.md "wikilink")／台灣配音：[余孟珂](https://zh.wikipedia.org/wiki/余孟珂 "wikilink")）
 
   -
     **假面騎士OOO** 的變身者。不抱有任何夢想與追求，基本上和慾望沾不上邊的散漫青年。雙親與兄弟都是有名的政治家。
@@ -22,15 +21,10 @@
     在47話為阻止真木，吸收鸿上所持有的無限普通硬幣。
     在48話得到了最初的TATOBA聯組，成為真正的OOO，但該硬幣於使用後即損毀。
     擊敗真木後，帶著Ankh的硬幣碎片，重新開始旅行。
-    於\<[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega
-    Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")\>中因Ankh的幫助而取回所有（除恐龍系硬幣以外，因在48話擊敗真木後，恐龍系硬幣吸進黑洞全被破壞）變身使用的硬幣，可以再次變身成**假面騎士OOO**。得以對抗來自40年後的**假面騎士波賽頓**，並救出湊海遙。事件過後，從海遙手上得到未來的Taka，Tora，Batta硬幣，變成Super
-    TATOBA COMBA，與幪面超人Fourze擊敗超銀河王。
-    [假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")
-    [假面騎士ZI-O中再次登場](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")
+    於\<[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")\>中因Ankh的幫助而取回所有（除恐龍系硬幣以外，因在48話擊敗真木後，恐龍系硬幣吸進黑洞全被破壞）變身使用的硬幣，可以再次變身成**假面騎士OOO**。得以對抗來自40年後的**假面騎士波賽頓**，並救出湊海遙。事件過後，從海遙手上得到未來的Taka，Tora，Batta硬幣，變成Super TATOBA COMBA，與幪面超人Fourze擊敗超銀河王。
+    [假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink") [假面騎士ZI-O中再次登場](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")
 
-**伊達明（だて
-あきら）**（30）（[岩永洋昭飾](../Page/岩永洋昭.md "wikilink")/香港配音：[鄧志堅](../Page/鄧志堅.md "wikilink")、[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")（代配））
+**伊達明（だて あきら）**（30）（[岩永洋昭](../Page/岩永洋昭.md "wikilink")飾/香港配音：[鄧志堅](../Page/鄧志堅.md "wikilink")、[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")（代配））
 
   -
     **假面騎士Birth** 的第一任變身者，亦是本作中第二位騎士。
@@ -53,8 +47,7 @@
     第38话說明了賺一億元的動機是為了赴國外動手術將子彈取出，並將真木預支予他的五千萬，加上鴻上交給他的危險工作補償、退休金、後藤（成為第二代Birth）的培訓獎金合計剛好賺足一億，亦因此離開日本。於同話真木欲啟動Birth系統的自爆裝置以炸死反叛的他，但在真木離開自己的研究室後便被後藤利用來研究Birth說明書，並且把Birth系統的自爆裝置給移除，因此避免被炸死。
     在第46話再次出場，並以試作型Birth與使用Birth的後藤一起戰鬥，並且擊敗Gamel。
 
-**後藤慎太郎（ごとう
-しんたろう）**（22）（[君嶋麻耶飾](../Page/君嶋麻耶.md "wikilink")／香港配音：[陳灝瑋](../Page/陳灝瑋.md "wikilink")／台灣配音：[李培松](https://zh.wikipedia.org/wiki/李培松 "wikilink")）
+**後藤慎太郎（ごとう しんたろう）**（22）（[君嶋麻耶](../Page/君嶋麻耶.md "wikilink")飾／香港配音：[陳灝瑋](../Page/陳灝瑋.md "wikilink")／台灣配音：[李培松](https://zh.wikipedia.org/wiki/李培松 "wikilink")）
 
   -
     **假面騎士Birth**的第二任變身者，亦算是本作中第三位騎士，財團所屬Ridevedor的一番隊的隊長。原本是警察的傑出人才。鴻上的忠實部下。
@@ -67,9 +60,7 @@
     在第16話目見完成後的Birth Dirver。
     在第17話跑步時看到伊達明變身為Birth而決定向他請教變強的方法。
     在第19話開始在多國料理店打工。
-    在第20話取得Birth
-    Buster並試射，卻無法承受其[後座力而向後震飛](../Page/後座力.md "wikilink")，後來伊達明將Birth
-    Buster借給後藤練習使用。
+    在第20話取得Birth Buster並試射，卻無法承受其[後座力](../Page/後座力.md "wikilink")而向後震飛，後來伊達明將Birth Buster借給後藤練習使用。
     在第21話以Birth Buster練習射擊。
     在第22話成功使用Birth Buster射中Uva。
     在第24話已經能使用Birth Buster作戰而不會被後座力震飛而開始幫助伊達作戰上的支援。
@@ -85,30 +76,21 @@
   -
     **假面騎士OOO** 的上任變身者，在鴻上的幻想中曾經登場過。
     被Ankh稱其為「慾望集合體」。
-    真實身份是一位王者，因想成為神一樣的存在而使用得太多Core
-    Medal的力量而暴走，順帶把Greeed封印；自己創造了OOO腰帶和命令Master
-    Gala等鍊金術師制造core Medal（根據電影\<[假面騎士OOO WONDERFUL
-    將軍與21枚核心硬幣](../Page/假面騎士OOO_WONDERFUL_將軍與21枚核心硬幣.md "wikilink")\>中的說法）。Greeed則是因為Core
-    Medal而誕生的（根據鴻上第16話中的說法）。
+    真實身份是一位王者，因想成為神一樣的存在而使用得太多Core Medal的力量而暴走，順帶把Greeed封印；自己創造了OOO腰帶和命令Master Gala等鍊金術師制造core Medal（根據電影\<[假面騎士OOO WONDERFUL 將軍與21枚核心硬幣](../Page/假面騎士OOO_WONDERFUL_將軍與21枚核心硬幣.md "wikilink")\>中的說法）。Greeed則是因為Core Medal而誕生的（根據鴻上第16話中的說法）。
 
-**湊海遙（みなと
-ミハル）**（[荒井敦史飾](https://zh.wikipedia.org/wiki/荒井敦史 "wikilink")）（[濱田賢二聲演](../Page/濱田賢二.md "wikilink")）
+**湊海遙（みなと ミハル）**（[荒井敦史飾](https://zh.wikipedia.org/wiki/荒井敦史 "wikilink")）（[濱田賢二](../Page/濱田賢二.md "wikilink")聲演）
 
   -
     **假面騎士AQUA**與**假面騎士波賽頓**的變身者。只在Movie大戰Mega Max中登場。
     來自40年後的世界，對水的恐懼使它不能變身成AQUA。
     從鴻上處得到SAME、KUJIRA與OOKAMIUO Medal，因此獲得波賽頓的變身能力。
     於吸收所有Medal後暴走，並開始穿越時空以滿足其對於戰鬥的慾望。
-    波賽頓在映司與Ankh的計劃之下與海遙的身體脫離，最後被克服恐懼的海遙以AQUA的必殺技**Oceaning
-    Break**擊敗，海遙在戰鬥結束後回到未來。
-    在Movie大戰Mega Max最後一段歸來，將Super
-    TaToBa變身用Medal交給映司。並與Stronger等七位幪面超人一起阻擋財團X的再生怪人，支援Fourze
-    & OOO 去追擊超銀河王。
+    波賽頓在映司與Ankh的計劃之下與海遙的身體脫離，最後被克服恐懼的海遙以AQUA的必殺技**Oceaning Break**擊敗，海遙在戰鬥結束後回到未來。
+    在Movie大戰Mega Max最後一段歸來，將Super TaToBa變身用Medal交給映司。並與Stronger等七位幪面超人一起阻擋財團X的再生怪人，支援Fourze & OOO 去追擊超銀河王。
 
 ## 主要人物
 
-**Ankh（アンク）（台譯：安酷）**（鳥系幹部怪人）（[三浦涼介飾](../Page/三浦涼介.md "wikilink")／香港配音：[關令翹](../Page/關令翹.md "wikilink")、[梁偉德](../Page/梁偉德.md "wikilink")（/代配）
-/ 台灣配音：[姜先誠](../Page/姜先誠.md "wikilink")）
+**Ankh（アンク）（台譯：安酷）**（鳥系幹部怪人）（[三浦涼介](../Page/三浦涼介.md "wikilink")飾／香港配音：[關令翹](../Page/關令翹.md "wikilink")、[梁偉德](../Page/梁偉德.md "wikilink")（/代配） / 台灣配音：[姜先誠](../Page/姜先誠.md "wikilink")）
 
   -
     與其說是主角的搭檔，不如說是代幣的管理者。給與了主角變身能力（腰帶）的主謀。由於自己不能戰鬥，所以通過映司來搜集代幣。
@@ -119,14 +101,12 @@
     雖然使用同類系代幣組成的聯組形態擁有較強大的力量，但由於需要維持該强大的力量，所以會消耗變身者的體力。正因如此，Ankh初期並不鼓勵映司使用聯組形態。但隨著映司使用聯組形態次數越多，其承受聯組形態的能力亦越來越强，Ankh將其評價為「有着收集代幣的才能」。
     性格非常彆扭，偏好算計別人，同時唯利是圖，和映司正好完全相反。
     表面上其終極目的是希望搜集到幾乎所有代幣，成為一種集所有慾望接近神的存在，但其實只是想有一個完整的身體。
-    在第3話與後籐對話後發現自己必須進化，而學會了使用[iPhone
-    4和](https://zh.wikipedia.org/wiki/iPhone#iPhone_4 "wikilink")[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")。
+    在第3話與後籐對話後發現自己必須進化，而學會了使用[iPhone 4和](https://zh.wikipedia.org/wiki/iPhone#iPhone_4 "wikilink")[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")。
     喜歡吃冰棒，但卻常常去偷別人的來吃。
     因為被鴻上基金會收取60%的代幣，加上第8話被Uva重傷時失去一部分硬幣，令本體（右手）常常不能維持平常的型態（第8話時，右手上的翼不能維持，一部分消失，要映司把硬幣拿來才回復）。
     在第17話獲得了用來裝Core Medals的盒子（比奈送的）。
     在第20話將自己的3枚Core Medals吸入身體內，令右臂產生出一隻會放出彩色光影的深紅色羽翼，但不久後即消失。
-    在第25話對出現的鳥系Yummy進行跟蹤調查（這隻鳥系Yummy不是由Ankh製造的，而是由Ankh（Lost）製造的），並將組成TAJADORU
-    COMBO的硬幣交給映司後便離開。在第26話被映司識破用意而放棄調查讓映司打倒Yummy。
+    在第25話對出現的鳥系Yummy進行跟蹤調查（這隻鳥系Yummy不是由Ankh製造的，而是由Ankh（Lost）製造的），並將組成TAJADORU COMBO的硬幣交給映司後便離開。在第26話被映司識破用意而放棄調查讓映司打倒Yummy。
     在第29話發現Ankh（Lost），其後與其互雙吸收身體卻不敵Ankh（Lost）。
     在第33話試圖取走映司身上的恐龍系硬幣，卻不敵其力量而無法順利取走。
     在第34話遭貓頭鷹Yummy帶走，與Kazari和Ankh（Lost）見面，後因映司自己呼喚恐龍系硬幣變身暴走而得救，卻為了阻止暴走的映司而用右腕擋下Madagaburyu的攻擊。
@@ -139,14 +119,10 @@
     在第48話將自身的所有硬幣交與映司，完成最後的TAJADORU COMBO，並於戰後消失。
     加入真木的組織後，漸漸覺得Greeed的生活很無趣，有了「自己是人類」的感覺，決心因此動搖。
     之後終於確認了自己的想法，那就是視映司為一生不可或缺的夥伴，帶著這樣的想法，最後用出所有力量幫助映司打敗真木。
-    於聯動劇場版《[假面骑士×假面骑士 Fourze & OOO MOVIE大戰 Mega
-    MAX](https://zh.wikipedia.org/wiki/假面骑士×假面骑士_Fourze_&_OOO_MOVIE大戰_Mega_MAX "wikilink")》中復活，由40年後的世界回到現在幫助映司取回變身使用的硬幣，令他可以再次變身成**假面騎士OOO**。並於打敗的**假面騎士波賽頓**後回到未來。
-    在聯動劇場版《假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士》中因存有自身意識的碎裂硬幣注入最上魁星（EX-AID世界）所召喚的Ankh復製體而短暫復活，在幫助映司對敵並索討冰棒後再次消失。
+    於聯動劇場版《[假面骑士×假面骑士 Fourze & OOO MOVIE大戰 Mega MAX](https://zh.wikipedia.org/wiki/假面骑士×假面骑士_Fourze_&_OOO_MOVIE大戰_Mega_MAX "wikilink")》中復活，由40年後的世界回到現在幫助映司取回變身使用的硬幣，令他可以再次變身成**假面騎士OOO**。並於打敗的**假面騎士波賽頓**後回到未來。
+    在聯動劇場版《假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士》中因存有自身意識的碎裂硬幣注入最上魁星（EX-AID世界）所召喚的Ankh復製體而短暫復活，在幫助映司對敵並索討冰棒後再次消失。
 
-**泉 信吾（いずみ
-しんご）**（24）（三浦涼介飾／香港配音：[關令翹](../Page/關令翹.md "wikilink")、[梁偉德](../Page/梁偉德.md "wikilink")（代配）
-/ 台灣配音：[姜先誠](../Page/姜先誠.md "wikilink")）
+**泉 信吾（いずみ しんご）**（24）（三浦涼介飾／香港配音：[關令翹](../Page/關令翹.md "wikilink")、[梁偉德](../Page/梁偉德.md "wikilink")（代配） / 台灣配音：[姜先誠](../Page/姜先誠.md "wikilink")）
 
   -
     比奈的哥哥，是一位刑警。
@@ -157,8 +133,7 @@
     於第43話再次被Ankh附身至第48話Ankh消失為止。
     最后，与泉比奈恢复了正常的生活。
 
-**泉 比奈（いずみ
-ひな）**（18）（[高田里穂飾](https://zh.wikipedia.org/wiki/高田里穂 "wikilink")／香港配音：[凌晞](../Page/凌晞.md "wikilink")／台灣配音：[劉艾靈](https://zh.wikipedia.org/wiki/劉艾靈 "wikilink")）
+**泉 比奈（いずみ ひな）**（18）（[高田里穂飾](https://zh.wikipedia.org/wiki/高田里穂 "wikilink")／香港配音：[凌晞](../Page/凌晞.md "wikilink")／台灣配音：[劉艾靈](https://zh.wikipedia.org/wiki/劉艾靈 "wikilink")）
 
   -
     被Ankh奪取身體的泉刑警之妹。因為Ankh持有著因附身在哥哥身上，而開始負責照顧映司他們，也監督著Ankh的飲食狀況，常常禁止他吃冰棒。
@@ -169,8 +144,7 @@
     第32話阻止映司因受五枚硬幣的影響組成了PuToTyra聯組的暴走。
     假面騎士ZI-O中再次登場
 
-**白石千世子（しらいし
-ちよこ）**（30）（飾／香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")、[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")（代配）／台灣配音：[高嘉鎂](https://zh.wikipedia.org/wiki/高嘉鎂 "wikilink")）
+**白石千世子（しらいし ちよこ）**（30）（飾／香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")、[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")（代配）／台灣配音：[高嘉鎂](https://zh.wikipedia.org/wiki/高嘉鎂 "wikilink")）
 
   -
     比奈的多國料理店的店長。
@@ -200,10 +174,8 @@
   - 第37集：香港主題
   - 第41集：希臘主題
   - 第48集：阿拉伯主題
-  - \<[假面騎士OOO WONDERFUL
-    將軍與21枚核心硬幣](../Page/假面騎士OOO_WONDERFUL_將軍與21枚核心硬幣.md "wikilink")\>：江戶時代主題
-  - \<[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega
-    Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")\>：七夕主題
+  - \<[假面騎士OOO WONDERFUL 將軍與21枚核心硬幣](../Page/假面騎士OOO_WONDERFUL_將軍與21枚核心硬幣.md "wikilink")\>：江戶時代主題
+  - \<[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")\>：七夕主題
 
 ## Greeed
 
@@ -296,8 +268,7 @@
     於第9話被奪走四枚核心硬幣。導致除了頭和身體以外都不完全。
     於第12話從Gamel手上取回2枚自己的核心硬幣，完成身體的一部分。
     於第15話被Kazari襲擊而幾乎失去所有核心硬幣（五枚），而被強制變成人類型態。
-    於第16話把回復為完全形態的Gamel和自己的七枚核心硬幣吸收再回復為完全形態，其後被真木強行將5,000個Cell
-    Medals與Uva的兩枚核心硬幣吸收入體內而變成巨大的貪婪形態並暴走，最後被OOO擊破。其本體和Gamel一起爆炸而核心硬幣卻被Kazari、Uva和Ankh奪取。
+    於第16話把回復為完全形態的Gamel和自己的七枚核心硬幣吸收再回復為完全形態，其後被真木強行將5,000個Cell Medals與Uva的兩枚核心硬幣吸收入體內而變成巨大的貪婪形態並暴走，最後被OOO擊破。其本體和Gamel一起爆炸而核心硬幣卻被Kazari、Uva和Ankh奪取。
     於第36話再次復活。
     於第45話中完全復活，能夠變為水流，但被OOO擊破，身上三枚核心硬幣亦被斬碎，隨即死亡。
     完全體時，頭部為殺人鯨造形，全身為電鰻造形的藍、黑和銀色衣甲，身上裝上有章魚腳的斗篷，雙腿也是章魚造形的，腰帶加上外框和金色寶石。
@@ -323,13 +294,11 @@
   -
     劇場版Let's go kamen rider中登場的Greeed，由修卡核心硬幣變成。同時具有Greeed和Shocker怪人的特性。
     外形為修卡鳥。能連續放出硬幣狀的能源彈。
-    實力強大，在1971年曾壓倒性打敗假面騎士一號、二號，力壓OOO和NEW電王。但在2011年再戰時最終敗北在假面騎士一號、二號的Rider
-    Double Kick之下。而修卡核心硬幣被使用成TaMaShi Combo上。
+    實力強大，在1971年曾壓倒性打敗假面騎士一號、二號，力壓OOO和NEW電王。但在2011年再戰時最終敗北在假面騎士一號、二號的Rider Double Kick之下。而修卡核心硬幣被使用成TaMaShi Combo上。
 
 ## 關係者
 
-**鴻上光生（こうがみ
-こうせい）**（）（43）（飾/香港配音：[招世亮](../Page/招世亮.md "wikilink")、[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")（代配））
+**鴻上光生（こうがみ こうせい）**（）（43）（飾/香港配音：[招世亮](../Page/招世亮.md "wikilink")、[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")（代配））
 
   -
     神秘財團—鴻上基金會的會長，常常以浮誇的語氣說話。也是Ridevendor的創立人。Ridevedor是為了對付怪人而特別培養的精銳部隊，但在第一話中其中一隊被4個Greeed全數消滅（後藤慎太郎例外）。
@@ -345,15 +314,10 @@
     在第19話將CONDORU的Core Medal給予映司，但卻被要求將其保管。
     在第20話透過里中惠理將CONDORU的Core Medal交給映司。
     在第44話吿訢映司只要有欲望就不會繼續Greeed化。
-    在第48話鴻上光生會長交給映司鳥系、貓系、昆蟲系各1枚硬幣，此三枚硬幣全部皆為800年前硬幣製造初期，在每套10枚硬幣組裡的第10枚硬幣Core
-    Medals。
+    在第48話鴻上光生會長交給映司鳥系、貓系、昆蟲系各1枚硬幣，此三枚硬幣全部皆為800年前硬幣製造初期，在每套10枚硬幣組裡的第10枚硬幣Core Medals。
     Ankh的軀體其實是被鴻上找到，但僅空有生命型態並無自我意識和記憶，於是藉著拔除KUJAKU和CONDORU給予刺激，使其復活。
-    於電影\<[假面騎士OOO WONDERFUL
-    將軍與21枚核心硬幣](../Page/假面騎士OOO_WONDERFUL_將軍與21枚核心硬幣.md "wikilink")\>中被Master
-    Gala說出他是繼承了將Gala毀滅之人的血統，而得知他是800年前OOO，王的後人。
-    於\<[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega
-    Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")\>中仍不放棄Core
-    Medals的力量，40年後並繼續開發新的Core Medals及Driver，結果引發未來的假面騎士穿越時空的暴走事件。
+    於電影\<[假面騎士OOO WONDERFUL 將軍與21枚核心硬幣](../Page/假面騎士OOO_WONDERFUL_將軍與21枚核心硬幣.md "wikilink")\>中被Master Gala說出他是繼承了將Gala毀滅之人的血統，而得知他是800年前OOO，王的後人。
+    於\<[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")\>中仍不放棄Core Medals的力量，40年後並繼續開發新的Core Medals及Driver，結果引發未來的假面騎士穿越時空的暴走事件。
 
 **里中惠理（さとなか エリカ）**（21）（飾／香港配音：[吳羨婷](../Page/吳羨婷.md "wikilink")）
 
@@ -383,17 +347,13 @@
     在第12話時和Kazari接觸，也開始和其合作來得到更多代幣（由Kazari弄出Yummy再給OOO打敗，60%硬幣便會經鴻上回收到研究所）。
     在第13話把Birth Driver製成。
     在第14話尾把假面騎士Birth的程式完成。
-    在第15話要求鴻上找後藤運送5000枚Cell Medals去鴻上生體研究所，同話中和Kazari合作得到大量Core
-    Medals，並進行把大量Core Medals放入一個容器（Greeed）再看其成長的實驗。
-    在第16話令Mezool把5000枚Cell Medals和兩枚昆蟲系Core
-    Medals吸收而變成為大型Greeed暴走態。同話完成Birth
-    Driver，將其交給伊達明和讓他變身為假面騎士Birth。
+    在第15話要求鴻上找後藤運送5000枚Cell Medals去鴻上生體研究所，同話中和Kazari合作得到大量Core Medals，並進行把大量Core Medals放入一個容器（Greeed）再看其成長的實驗。
+    在第16話令Mezool把5000枚Cell Medals和兩枚昆蟲系Core Medals吸收而變成為大型Greeed暴走態。同話完成Birth Driver，將其交給伊達明和讓他變身為假面騎士Birth。
     第22話把一把新的Birth Buster交給伊達明。
     第24話把Drill Arm修好。
     因為白石千世子和其已死的姊姊真木仁美極為相像，而非常震驚。
     只要和伊達明一起就會變成搞笑角色。
-    於第29話生日，同話因為對其姊姊的感情而被Kazari製造出虎鯨熊貓Yummy，為保護白石千世子而用Candroids攻擊Shachipanda
-    Yummy但反被其丟傷。
+    於第29話生日，同話因為對其姊姊的感情而被Kazari製造出虎鯨熊貓Yummy，為保護白石千世子而用Candroids攻擊Shachipanda Yummy但反被其丟傷。
     於30話破壞自己的研究室，並正式脫離財團，而和Kazari等人聯手合作。
     第32話被Kazari投入五枚恐龍硬幣，因而可製造憑依型Yummy。
     於38話欲啟動Birth系統的自爆裝置以炸死反叛伊達明，但在他離開自己的研究室後便被後藤利用來研究Birth說明書，並且把Birth系統的自爆裝置給移除，因此伊達明險被炸死。
@@ -410,8 +370,7 @@
     真木清人已故的姐姐，和白石千世子極為相像，仅出現于真木的回憶中。生於1958年，於1986年去世。
     真木和她姐姐年齡相差很大，自真木兒時父母去世後，一直撫養他長大。真木從小開始只跟她聊天，只對她打開心扉。
     看出真木的優秀，在父母的喪禮中，灌輸真木「就像故事劃上句號完結，人因為死而終結。」的觀念。她亦是對真木扭曲的人格造成重大影響的人。
-    在结婚前日決定結婚後離開真木家，她知道真木無法與其他人溝通，便送給他一個洋娃娃作為她離開後的代替品，並對真木說「放心吧，你比誰都厲害。」，使真木感到疏離。真木無法接受她離開的事實，
-    於是在结婚前夜趁她睡覺的時候，於她的寢室用洋燭放火將其燒死，不讓她離開自己，並具體實現她的說話「人因為死後才終結」。洋娃娃的頭髮亦是在當時燒掉。
+    在结婚前日決定結婚後離開真木家，她知道真木無法與其他人溝通，便送給他一個洋娃娃作為她離開後的代替品，並對真木說「放心吧，你比誰都厲害。」，使真木感到疏離。真木無法接受她離開的事實， 於是在结婚前夜趁她睡覺的時候，於她的寢室用洋燭放火將其燒死，不讓她離開自己，並具體實現她的說話「人因為死後才終結」。洋娃娃的頭髮亦是在當時燒掉。
     雖然在真木的回憶中顯得很慈祥，但事實上並非如此。真正的仁美性格較為腹黑，殘酷；一直帶著甜美的笑容，溫柔的對別人笑的仁美只是真木心目中姐姐的形象。
     不過，她只出現於真木的回憶中，無法得知事實上她是個怎樣的人。
 

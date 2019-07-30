@@ -14,17 +14,7 @@
 
   - [悪魔城ドラキュラシリーズ総合サイト](http://www.konami.jp/gs/game/dracula/)
 
-[Category:恶魔城系列电子游戏](https://zh.wikipedia.org/wiki/Category:恶魔城系列电子游戏 "wikilink")
-[Category:1987年电子游戏](https://zh.wikipedia.org/wiki/Category:1987年电子游戏 "wikilink")
-[Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink")
-[Category:FC磁碟机游戏](https://zh.wikipedia.org/wiki/Category:FC磁碟机游戏 "wikilink")
-[Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink")
-[Category:任天堂3DS_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS_Virtual_Console游戏 "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:類銀河戰士惡魔城遊戲](https://zh.wikipedia.org/wiki/Category:類銀河戰士惡魔城遊戲 "wikilink")
+[Category:恶魔城系列电子游戏](https://zh.wikipedia.org/wiki/Category:恶魔城系列电子游戏 "wikilink") [Category:1987年电子游戏](https://zh.wikipedia.org/wiki/Category:1987年电子游戏 "wikilink") [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink") [Category:FC磁碟机游戏](https://zh.wikipedia.org/wiki/Category:FC磁碟机游戏 "wikilink") [Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink") [Category:任天堂3DS_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS_Virtual_Console游戏 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:類銀河戰士惡魔城遊戲](https://zh.wikipedia.org/wiki/Category:類銀河戰士惡魔城遊戲 "wikilink")
 
-1.  [castlevania
-    ii](http://www.mobygames.com/game/castlevania-ii-simons-quest) game
-    overview at
-    [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
+1.  [castlevania ii](http://www.mobygames.com/game/castlevania-ii-simons-quest) game overview at [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
 2.

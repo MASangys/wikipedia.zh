@@ -1,13 +1,10 @@
-《**Save
-Me**》是的一首歌曲，收錄於他們於2001年9月18日發行的專輯《》中\[1\]。歌曲由、森札·泰特、謝爾比·泰特、傑佛瑞·凱恩與賽德里克·勒莫安創作，並由製作。
+《**Save Me**》是的一首歌曲，收錄於他們於2001年9月18日發行的專輯《》中\[1\]。歌曲由、森札·泰特、謝爾比·泰特、傑佛瑞·凱恩與賽德里克·勒莫安創作，並由製作。
 
-該曲為電視劇《[超人前傳](https://zh.wikipedia.org/wiki/超人前傳 "wikilink")》的片頭曲。《Save
-Me》的[音樂錄影帶由](../Page/音樂錄影帶.md "wikilink")執導。歌曲在美國《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》的上名列第27位，並位居法國百大單曲排行榜的第16名。
+該曲為電視劇《[超人前傳](https://zh.wikipedia.org/wiki/超人前傳 "wikilink")》的片頭曲。《Save Me》的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")由執導。歌曲在美國《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》的上名列第27位，並位居法國百大單曲排行榜的第16名。
 
 ## 簡介
 
-《Save
-Me》是一首[另類搖滾歌曲](https://zh.wikipedia.org/wiki/另類搖滾 "wikilink")\[2\]，時長4分1秒\[3\]，由、森札·泰特、謝爾比·泰特、傑佛瑞·凱恩與賽德里克·勒莫安創作\[4\]，並由負責製作\[5\]。歌曲的[音樂錄影帶由](../Page/音樂錄影帶.md "wikilink")執導，並在[明尼蘇達州的](https://zh.wikipedia.org/wiki/明尼蘇達州 "wikilink")[明尼亞波利斯等地拍攝](https://zh.wikipedia.org/wiki/明尼亞波利斯 "wikilink")。
+《Save Me》是一首[另類搖滾歌曲](https://zh.wikipedia.org/wiki/另類搖滾 "wikilink")\[2\]，時長4分1秒\[3\]，由、森札·泰特、謝爾比·泰特、傑佛瑞·凱恩與賽德里克·勒莫安創作\[4\]，並由負責製作\[5\]。歌曲的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")由執導，並在[明尼蘇達州的](https://zh.wikipedia.org/wiki/明尼蘇達州 "wikilink")[明尼亞波利斯等地拍攝](https://zh.wikipedia.org/wiki/明尼亞波利斯 "wikilink")。
 
 ## 榜單
 
@@ -37,17 +34,14 @@ Me》是一首[另類搖滾歌曲](https://zh.wikipedia.org/wiki/另類搖滾 "w
 
 ## 在其他媒體中
 
-該曲為電視劇《[超人前傳](https://zh.wikipedia.org/wiki/超人前傳 "wikilink")》的片頭曲\[9\]\[10\]\[11\]。除了擔任片頭曲外，《Save
-Me》還經在《超人前傳》[第一季的劇集](https://zh.wikipedia.org/wiki/超人前傳_\(第一季\) "wikilink")《[暴風雨](../Page/暴風雨_\(超人前傳\).md "wikilink")》的舞會場景中親自現身演唱\[12\]。
+該曲為電視劇《[超人前傳](https://zh.wikipedia.org/wiki/超人前傳 "wikilink")》的片頭曲\[9\]\[10\]\[11\]。除了擔任片頭曲外，《Save Me》還經在《超人前傳》[第一季的劇集](https://zh.wikipedia.org/wiki/超人前傳_\(第一季\) "wikilink")《[暴風雨](../Page/暴風雨_\(超人前傳\).md "wikilink")》的舞會場景中親自現身演唱\[12\]。
 
 ## 參考資料
 
 ## 外部連結
 
   -
-[Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink")
-[Category:電視節目主題曲](https://zh.wikipedia.org/wiki/Category:電視節目主題曲 "wikilink")
-[Category:超人前傳](https://zh.wikipedia.org/wiki/Category:超人前傳 "wikilink")
+[Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink") [Category:電視節目主題曲](https://zh.wikipedia.org/wiki/Category:電視節目主題曲 "wikilink") [Category:超人前傳](https://zh.wikipedia.org/wiki/Category:超人前傳 "wikilink")
 
 1.
 2.

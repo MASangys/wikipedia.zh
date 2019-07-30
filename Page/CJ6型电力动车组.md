@@ -1,4 +1,4 @@
-**CJ6型电力动车组**是[中车株洲电力机车有限公司研发的](../Page/中车株洲电力机车.md "wikilink")160km/h级别[动力分散式](../Page/動力分散式列車.md "wikilink")[城际动车组](../Page/城际动车组列车.md "wikilink")。其基础为中车株机出口马来西亚和马其顿的动车组列车，主要为[长株潭城际铁路的需求而设计](../Page/长株潭城际铁路.md "wikilink")。\[1\]2016年，两列CJ6型动车组前往[北京环铁试验线进行测试](../Page/中国国家铁道试验中心（东郊分院）.md "wikilink")，及後再前往长株潭城际铁路、南寧至北海鐵路及[海南環島鐵路進行測試](https://zh.wikipedia.org/wiki/海南環島鐵路 "wikilink")。
+**CJ6型电力动车组**是[中车株洲电力机车](../Page/中车株洲电力机车.md "wikilink")有限公司研发的160km/h级别[动力分散式](../Page/動力分散式列車.md "wikilink")[城际动车组](../Page/城际动车组列车.md "wikilink")。其基础为中车株机出口马来西亚和马其顿的动车组列车，主要为[长株潭城际铁路](../Page/长株潭城际铁路.md "wikilink")的需求而设计。\[1\]2016年，两列CJ6型动车组前往[北京环铁试验线进行测试](../Page/中国国家铁道试验中心（东郊分院）.md "wikilink")，及後再前往长株潭城际铁路、南寧至北海鐵路及[海南環島鐵路進行測試](https://zh.wikipedia.org/wiki/海南環島鐵路 "wikilink")。
 
 ## 研发历程
 
@@ -29,16 +29,13 @@
 
 ## 运用
 
-现已制造CJ6-0601、CJ6-0602两列列车，另有14列（CJ6-0603至CJ6-0616）製造中。
-[CJ6_在海南环.jpg](https://zh.wikipedia.org/wiki/File:CJ6_在海南环.jpg "fig:CJ6_在海南环.jpg")在[海口站](../Page/海口站.md "wikilink")\]\]
-目前，CJ6型动车组尚未投入正式运营，曾在[海南環島鐵路进行试验](https://zh.wikipedia.org/wiki/海南環島鐵路 "wikilink")，並曾配屬三亞動車所\[5\]。
+现已制造CJ6-0601、CJ6-0602两列列车，另有14列（CJ6-0603至CJ6-0616）製造中。 [CJ6_在海南环.jpg](https://zh.wikipedia.org/wiki/File:CJ6_在海南环.jpg "fig:CJ6_在海南环.jpg")在[海口站](../Page/海口站.md "wikilink")\]\] 目前，CJ6型动车组尚未投入正式运营，曾在[海南環島鐵路进行试验](https://zh.wikipedia.org/wiki/海南環島鐵路 "wikilink")，並曾配屬三亞動車所\[5\]。
 
 但在相關測試完成後，兩列列車已送回株機工廠存放，稍後將與首批另外四列列車一併配屬長沙動車所，並擬於2019年尾投入服務。
 
 ## 参考资料
 
-[Category:中国电力动车组](https://zh.wikipedia.org/wiki/Category:中国电力动车组 "wikilink")
-[Category:中车株机制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车株机制铁路车辆 "wikilink")
+[Category:中国电力动车组](https://zh.wikipedia.org/wiki/Category:中国电力动车组 "wikilink") [Category:中车株机制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车株机制铁路车辆 "wikilink")
 
 1.
 2.

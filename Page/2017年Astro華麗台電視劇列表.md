@@ -1,8 +1,8 @@
-本條目內之「播放日期」，是指[马来西亚](../Page/马来西亚.md "wikilink")[Astro華麗台的播放日期](../Page/Astro華麗台.md "wikilink")。
+本條目內之「播放日期」，是指[马来西亚](../Page/马来西亚.md "wikilink")[Astro華麗台](../Page/Astro華麗台.md "wikilink")的播放日期。
 
 ## 8.00港劇時段
 
-与大马版[翡翠台同步播出](../Page/翡翠台.md "wikilink")
+与大马版[翡翠台](../Page/翡翠台.md "wikilink")同步播出
 
 <table style="width:274%;">
 <colgroup>
@@ -62,7 +62,7 @@ Come Home Love：Lo And Behold</p></td>
 <td style="text-align: center;"><p><a href="../Page/劉丹_(香港).md" title="wikilink">劉　丹</a>、<a href="../Page/單立文.md" title="wikilink">單立文</a>、<a href="../Page/湯盈盈.md" title="wikilink">湯盈盈</a>、<br />
 <a href="../Page/呂慧儀.md" title="wikilink">呂慧儀</a>、<a href="../Page/陳浚霆.md" title="wikilink">陳浚霆</a>、<a href="../Page/蘇韻姿.md" title="wikilink">蘇韻姿</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/羅鎮岳.md" title="wikilink">羅鎮岳</a></p></td>
-<td style="text-align: center;"><p>主：（<a href="../Page/張家誠.md" title="wikilink">張家誠作曲</a>）</p></td>
+<td style="text-align: center;"><p>主：（<a href="../Page/張家誠.md" title="wikilink">張家誠</a>作曲）</p></td>
 <td style="text-align: center;"><p>3月14日暫停播映</p></td>
 </tr>
 <tr class="even">
@@ -126,7 +126,7 @@ Fashion War</p></td>
 <td style="text-align: center;"><p><a href="../Page/陳豪.md" title="wikilink">陳　豪</a>、<a href="../Page/羅仲謙.md" title="wikilink">羅仲謙</a>、<a href="https://zh.wikipedia.org/wiki/蔡思貝" title="wikilink">蔡思貝</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/李佳芯" title="wikilink">李佳芯</a>、<a href="../Page/陳山聰.md" title="wikilink">陳山聰</a>、<a href="../Page/楊秀惠.md" title="wikilink">楊秀惠</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/方駿釗" title="wikilink">方駿釗</a></p></td>
-<td style="text-align: center;"><p>主：潮流（<a href="../Page/徐洛鏘.md" title="wikilink">徐洛鏘作曲</a>）</p></td>
+<td style="text-align: center;"><p>主：潮流（<a href="../Page/徐洛鏘.md" title="wikilink">徐洛鏘</a>作曲）</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
@@ -163,7 +163,7 @@ Beyond The Rainbow</p></td>
 <a href="../Page/唐寧_(香港).md" title="wikilink">唐　寧</a>、<a href="../Page/關寶慧.md" title="wikilink">關寶慧</a>、<a href="../Page/姜皓文.md" title="wikilink">姜皓文</a>、<br />
 <a href="../Page/曾偉權.md" title="wikilink">曾偉權</a>、<a href="../Page/林利.md" title="wikilink">林　利</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/黃國強.md" title="wikilink">黃國強</a></p></td>
-<td style="text-align: center;"><p>主：獅子山下主題音樂（<a href="../Page/顧嘉煇.md" title="wikilink">顧嘉煇原曲</a>、<a href="../Page/陳詩慧.md" title="wikilink">陳詩慧改編</a>）<br />
+<td style="text-align: center;"><p>主：獅子山下主題音樂（<a href="../Page/顧嘉煇.md" title="wikilink">顧嘉煇</a>原曲、<a href="../Page/陳詩慧.md" title="wikilink">陳詩慧</a>改編）<br />
 插：一些往事（<a href="../Page/陳詩慧.md" title="wikilink">陳詩慧</a>）<br />
 插：Sealed With A Kiss（）</p></td>
 <td style="text-align: center;"></td>
@@ -217,7 +217,7 @@ Incredible Mama</p></td>
 <a href="../Page/黃美棋.md" title="wikilink">黃美棋</a>、<a href="https://zh.wikipedia.org/wiki/陳家樂" title="wikilink">陳家樂</a>、<a href="../Page/陳曼娜.md" title="wikilink">陳曼娜</a>、<br />
 <a href="../Page/龔慈恩.md" title="wikilink">龔慈恩</a>、<a href="../Page/黃芷晴.md" title="wikilink">黃芷晴</a>、<a href="https://zh.wikipedia.org/wiki/湯怡" title="wikilink">湯　怡</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/歐耀興.md" title="wikilink">歐耀興</a></p></td>
-<td style="text-align: center;"><p>主：我阿媽係黑玫瑰主題音樂（<a href="../Page/陳詩慧.md" title="wikilink">陳詩慧作曲</a>）<br />
+<td style="text-align: center;"><p>主：我阿媽係黑玫瑰主題音樂（<a href="../Page/陳詩慧.md" title="wikilink">陳詩慧</a>作曲）<br />
 插：東角駅（<a href="../Page/陳詩慧.md" title="wikilink">陳詩慧</a>）</p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -437,7 +437,7 @@ Law dis-Order</p></td>
 <td style="text-align: center;"><p><a href="../Page/方中信.md" title="wikilink">方中信</a>、<a href="../Page/廖啟智.md" title="wikilink">廖啟智</a>、<a href="https://zh.wikipedia.org/wiki/李佳芯" title="wikilink">李佳芯</a>、<br />
 <a href="../Page/黃智雯.md" title="wikilink">黃智雯</a>、<a href="../Page/曹永廉.md" title="wikilink">曹永廉</a>、<a href="../Page/郭少芸.md" title="wikilink">郭少芸</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/羅永賢.md" title="wikilink">羅永賢</a></p></td>
-<td style="text-align: center;"><p>主：公義（<a href="../Page/張家誠.md" title="wikilink">張家誠作曲</a>）<br />
+<td style="text-align: center;"><p>主：公義（<a href="../Page/張家誠.md" title="wikilink">張家誠</a>作曲）<br />
 插：公義的抉擇（<a href="https://zh.wikipedia.org/wiki/胡鴻鈞" title="wikilink">胡鴻鈞</a>）<br />
 插：Can You See（<a href="../Page/譚嘉儀.md" title="wikilink">譚嘉儀</a>）</p></td>
 <td style="text-align: center;"></td>
@@ -548,7 +548,6 @@ Healer</p></td>
 
 ## 參考及連結
 
-  - [Astro華麗台
-    官方網站](https://web.archive.org/web/20160502163026/http://zhongwen.astro.com.my/Channels/WLT.aspx)
+  - [Astro華麗台 官方網站](https://web.archive.org/web/20160502163026/http://zhongwen.astro.com.my/Channels/WLT.aspx)
 
 [Category:Astro華麗台電視劇列表](https://zh.wikipedia.org/wiki/Category:Astro華麗台電視劇列表 "wikilink")

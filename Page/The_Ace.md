@@ -1,5 +1,4 @@
-《**The
-Ace**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2015年8月4日播出的單集[特輯電視劇](../Page/SBS特輯電視劇.md "wikilink")。講述在不符合法律原則且無情的社會中，堅持以法律的方式去解決事件的律師們，期間發生的故事。本劇亦為2013年SBS電視劇劇本公開募集中獲得優秀獎的作品之一\[1\]。
+《**The Ace**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2015年8月4日播出的單集[特輯電視劇](../Page/SBS特輯電視劇.md "wikilink")。講述在不符合法律原則且無情的社會中，堅持以法律的方式去解決事件的律師們，期間發生的故事。本劇亦為2013年SBS電視劇劇本公開募集中獲得優秀獎的作品之一\[1\]。
 
 ## 演員陣容
 
@@ -129,11 +128,9 @@ Ace**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 
 ## 外部連結
 
-  - [The
-    Ace官方網站](http://program.sbs.co.kr/builder/programMainList.do?pgm_id=22000008372)
+  - [The Ace官方網站](http://program.sbs.co.kr/builder/programMainList.do?pgm_id=22000008372)
 
-[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink")
-[Category:2015年背景作品](https://zh.wikipedia.org/wiki/Category:2015年背景作品 "wikilink")
+[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:2015年背景作品](https://zh.wikipedia.org/wiki/Category:2015年背景作品 "wikilink")
 
 1.
 2.

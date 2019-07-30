@@ -5,13 +5,9 @@
 TestDisk支持以下这些操作系统：
 
   - [DOS](../Page/DOS.md "wikilink")：实模式或者 Win9x DOS 模拟
-  - [Microsoft
-    Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")：[NT4](../Page/Windows_NT.md "wikilink")、[2000](../Page/Windows_2000.md "wikilink")、[XP](../Page/Windows_XP.md "wikilink")、[2003](../Page/Windows_Server_2003.md "wikilink")、[2008](../Page/Windows_Server_2008.md "wikilink")、[Vista](../Page/Windows_Vista.md "wikilink")、[Windows
-    7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")
+  - [Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")：[NT4](../Page/Windows_NT.md "wikilink")、[2000](../Page/Windows_2000.md "wikilink")、[XP](../Page/Windows_XP.md "wikilink")、[2003](../Page/Windows_Server_2003.md "wikilink")、[2008](../Page/Windows_Server_2008.md "wikilink")、[Vista](../Page/Windows_Vista.md "wikilink")、[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")
   - [GNU/Linux](../Page/Linux.md "wikilink")
-  - [FreeBSD](../Page/FreeBSD.md "wikilink"),
-    [NetBSD](../Page/NetBSD.md "wikilink"),
-    [OpenBSD](../Page/OpenBSD.md "wikilink")
+  - [FreeBSD](../Page/FreeBSD.md "wikilink"), [NetBSD](../Page/NetBSD.md "wikilink"), [OpenBSD](../Page/OpenBSD.md "wikilink")
   - [SunOS](../Page/SunOS.md "wikilink")
   - [Mac OS X](https://zh.wikipedia.org/wiki/OS_X "wikilink")
 
@@ -19,48 +15,39 @@ TestDisk支持以下这些操作系统：
 
 TestDisk能够识别以下分区格式：
 
-  - [Apple partition
-    map](https://zh.wikipedia.org/wiki/Apple_Partition_Map "wikilink")
+  - [Apple partition map](https://zh.wikipedia.org/wiki/Apple_Partition_Map "wikilink")
   - [GUID分区表](../Page/GUID磁碟分割表.md "wikilink")
   - PC/Intel分区表 ([MBR](https://zh.wikipedia.org/wiki/MBR "wikilink"))
-  - Sun [Solaris](../Page/Solaris.md "wikilink")
-    [slice](../Page/硬盘分区.md "wikilink")
+  - Sun [Solaris](../Page/Solaris.md "wikilink") [slice](../Page/硬盘分区.md "wikilink")
   - [Xbox固定分区机制](../Page/Xbox_\(遊戲機\).md "wikilink")
 
 TestDisk也能处理未分区的介质。
 
 ## 分区恢复
 
-TestDisk查询[BIOS或](../Page/BIOS.md "wikilink")[操作系统以便找到](../Page/操作系统.md "wikilink")[儲存裝置](../Page/儲存裝置.md "wikilink")（[硬盘](../Page/硬盘.md "wikilink")、[存储卡](https://zh.wikipedia.org/wiki/存储卡 "wikilink")、……）及其特征（[LBA大小和](https://zh.wikipedia.org/wiki/LBA "wikilink")[CHS形态](../Page/CHS.md "wikilink")）。TestDisk
-能够：\[1\]
+TestDisk查询[BIOS](../Page/BIOS.md "wikilink")或[操作系统](../Page/操作系统.md "wikilink")以便找到[儲存裝置](../Page/儲存裝置.md "wikilink")（[硬盘](../Page/硬盘.md "wikilink")、[存储卡](https://zh.wikipedia.org/wiki/存储卡 "wikilink")、……）及其特征（[LBA大小和](https://zh.wikipedia.org/wiki/LBA "wikilink")[CHS](../Page/CHS.md "wikilink")形态）。TestDisk 能够：\[1\]
 
   - 恢复删除的分区
   - 重建分区表
   - 重写主引导记录（MBR）
 
-TestDisk快速检查磁盘的结构并与分区表比对以检测错误。
-然后它搜索下列[文件系统的丢失分区](../Page/文件系统.md "wikilink")\[2\]\[3\]：
+TestDisk快速检查磁盘的结构并与分区表比对以检测错误。 然后它搜索下列[文件系统](../Page/文件系统.md "wikilink")的丢失分区\[2\]\[3\]：
 
-  - [Be
-    文件系统](https://zh.wikipedia.org/wiki/Be_文件系统 "wikilink") ([BeOS](../Page/BeOS.md "wikilink"))
+  - [Be 文件系统](https://zh.wikipedia.org/wiki/Be_文件系统 "wikilink") ([BeOS](../Page/BeOS.md "wikilink"))
 
   - (FreeBSD/OpenBSD/NetBSD)
 
   - [Cramfs](https://zh.wikipedia.org/wiki/Cramfs "wikilink")，压缩文件系统
 
-  - DOS/Windows[FAT12](https://zh.wikipedia.org/wiki/FAT12 "wikilink"),
-    FAT16, and [FAT32](../Page/FAT.md "wikilink")
+  - DOS/Windows[FAT12](https://zh.wikipedia.org/wiki/FAT12 "wikilink"), FAT16, and [FAT](../Page/FAT.md "wikilink")32
 
   - Windows [exFAT](https://zh.wikipedia.org/wiki/exFAT "wikilink")
 
-  - [HFS](../Page/分层文件系统.md "wikilink"),
-    [HFS+](../Page/HFS+.md "wikilink") and HFSX,
-    [分层文件系统](../Page/分层文件系统.md "wikilink")
+  - [HFS](../Page/分层文件系统.md "wikilink"), [HFS+](../Page/HFS+.md "wikilink") and HFSX, [分层文件系统](../Page/分层文件系统.md "wikilink")
 
   - [JFS](../Page/JFS_\(文件系统\).md "wikilink"), IBM 日志文件系统
 
-  - Linux
-    [ext2](https://zh.wikipedia.org/wiki/ext2 "wikilink")、[ext3](https://zh.wikipedia.org/wiki/ext3 "wikilink")、[ext4](https://zh.wikipedia.org/wiki/ext4 "wikilink")
+  - Linux [ext2](https://zh.wikipedia.org/wiki/ext2 "wikilink")、[ext3](https://zh.wikipedia.org/wiki/ext3 "wikilink")、[ext4](https://zh.wikipedia.org/wiki/ext4 "wikilink")
 
   - Linux RAID
 
@@ -71,21 +58,17 @@ TestDisk快速检查磁盘的结构并与分区表比对以检测错误。
 
   - Linux Swap (版本 1 and 2)
 
-  - LVM and LVM2, Linux
-    [邏輯捲軸管理員](https://zh.wikipedia.org/wiki/邏輯捲軸管理員 "wikilink")
+  - LVM and LVM2, Linux [邏輯捲軸管理員](https://zh.wikipedia.org/wiki/邏輯捲軸管理員 "wikilink")
 
-  - [Novell存储服务](https://zh.wikipedia.org/wiki/Novell存储服务 "wikilink")
-    (NSS)
+  - [Novell存储服务](https://zh.wikipedia.org/wiki/Novell存储服务 "wikilink") (NSS)
 
-  - [NTFS](../Page/NTFS.md "wikilink") (Windows
-    NT/2000/XP/2003/Vista/2008/7)
+  - [NTFS](../Page/NTFS.md "wikilink") (Windows NT/2000/XP/2003/Vista/2008/7)
 
   - [ReiserFS](../Page/ReiserFS.md "wikilink") 3.5、3.6、4
 
   - Sun Solaris i386 disklabel
 
-  - [Unix File System](../Page/Unix文件系统.md "wikilink") UFS and UFS2
-    (Sun/BSD/…)
+  - [Unix File System](../Page/Unix文件系统.md "wikilink") UFS and UFS2 (Sun/BSD/…)
 
   - [XFS](../Page/XFS.md "wikilink"), SGI’s Journaled File System
 
@@ -99,24 +82,12 @@ TestDisk快速检查磁盘的结构并与分区表比对以检测错误。
 ## 外部链接
 
   - [TestDisk Wiki](http://www.cgsecurity.org/wiki/TestDisk)
-  - [List of news articles about TestDisk and
-    PhotoRec](http://www.cgsecurity.org/wiki/In_The_News)
-  - Falko Timme, [Data Recovery With
-    TestDisk](http://www.howtoforge.com/data_recovery_with_testdisk)
-    HowTo
-  - [Digital Forensics using Linux and Open Source
-    Tools](http://www.digitalforensics.ch/nikkel05b.pdf)
+  - [List of news articles about TestDisk and PhotoRec](http://www.cgsecurity.org/wiki/In_The_News)
+  - Falko Timme, [Data Recovery With TestDisk](http://www.howtoforge.com/data_recovery_with_testdisk) HowTo
+  - [Digital Forensics using Linux and Open Source Tools](http://www.digitalforensics.ch/nikkel05b.pdf)
 
-[Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
-[Category:硬盘分区软件](https://zh.wikipedia.org/wiki/Category:硬盘分区软件 "wikilink")
-[Category:自由系統軟體](https://zh.wikipedia.org/wiki/Category:自由系統軟體 "wikilink")
-[Category:硬盘软件](https://zh.wikipedia.org/wiki/Category:硬盘软件 "wikilink")
-[Category:綠色軟件](https://zh.wikipedia.org/wiki/Category:綠色軟件 "wikilink")
+[Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:硬盘分区软件](https://zh.wikipedia.org/wiki/Category:硬盘分区软件 "wikilink") [Category:自由系統軟體](https://zh.wikipedia.org/wiki/Category:自由系統軟體 "wikilink") [Category:硬盘软件](https://zh.wikipedia.org/wiki/Category:硬盘软件 "wikilink") [Category:綠色軟件](https://zh.wikipedia.org/wiki/Category:綠色軟件 "wikilink")
 
 1.  Debra Littlejohn Shinder, Michael Cross (2002).
-2.  Ido Perelmutter - Debian Administration, [Recovering from file
-    system corruption using
-    TestDisk](http://www.debian-administration.org/articles/420)
-3.  Ionut Ilascu, [Softpedia](../Page/Softpedia.md "wikilink"), [Your
-    HDD Is Missing a
-    Slice?](http://www.softpedia.com/reviews/windows/TestDisk-Review-32579.shtml)
+2.  Ido Perelmutter - Debian Administration, [Recovering from file system corruption using TestDisk](http://www.debian-administration.org/articles/420)
+3.  Ionut Ilascu, [Softpedia](../Page/Softpedia.md "wikilink"), [Your HDD Is Missing a Slice?](http://www.softpedia.com/reviews/windows/TestDisk-Review-32579.shtml)

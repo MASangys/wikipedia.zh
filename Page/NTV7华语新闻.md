@@ -1,4 +1,4 @@
-**ntv7华语新闻**（）是马来西亚[首要媒体有限公司为](../Page/首要媒体.md "wikilink")[ntv7制作的新闻节目](https://zh.wikipedia.org/wiki/ntv7 "wikilink")。新闻节目使用华语制作。播放时间因为时代的变迁而改变，截至2018年5月31日，新闻的播映时段被固定为2段，分别为每天下午5点35分至傍晚6点05分播出的《ntv7华语新闻》和每天晚上10点30分至晚上11点播出的《ntv7晚间新闻》。2018年6月1日，《ntv7华语新闻》推出全新混合布景和设计，播出时段改为每天下午5点至傍晚6点，并开始在Facebook专页提供网上直播，ntv7也成为马来西亚第一家连续播出1小时华语新闻的电视台\[1\]；同日，《ntv7晚间新闻》也停播。
+**ntv7华语新闻**（）是马来西亚[首要媒体](../Page/首要媒体.md "wikilink")有限公司为[ntv7制作的新闻节目](https://zh.wikipedia.org/wiki/ntv7 "wikilink")。新闻节目使用华语制作。播放时间因为时代的变迁而改变，截至2018年5月31日，新闻的播映时段被固定为2段，分别为每天下午5点35分至傍晚6点05分播出的《ntv7华语新闻》和每天晚上10点30分至晚上11点播出的《ntv7晚间新闻》。2018年6月1日，《ntv7华语新闻》推出全新混合布景和设计，播出时段改为每天下午5点至傍晚6点，并开始在Facebook专页提供网上直播，ntv7也成为马来西亚第一家连续播出1小时华语新闻的电视台\[1\]；同日，《ntv7晚间新闻》也停播。
 
 ## 主播制度
 
@@ -10,9 +10,9 @@
 
 2018年10月11日，因直播[三星智能手机推介礼](https://zh.wikipedia.org/wiki/三星电子 "wikilink")，该日《ntv7华语新闻》停播\[3\]。
 
-2018年11月2日，因直播[财政部长](../Page/马来西亚财政部长.md "wikilink")[林冠英的](../Page/林冠英.md "wikilink")2019年财政预算案演讲，该日《ntv7华语新闻》延后至傍晚6点42分至7点40分播出，并作为特备新闻节目，邀请白沙罗区国会下议员[潘俭伟和](../Page/潘俭伟.md "wikilink")[亚依淡区国会下议员](../Page/亚依淡国会议席.md "wikilink")[魏家祥参与点评](../Page/魏家祥.md "wikilink")\[4\]。
+2018年11月2日，因直播[财政部长](../Page/马来西亚财政部长.md "wikilink")[林冠英](../Page/林冠英.md "wikilink")的2019年财政预算案演讲，该日《ntv7华语新闻》延后至傍晚6点42分至7点40分播出，并作为特备新闻节目，邀请白沙罗区国会下议员[潘俭伟](../Page/潘俭伟.md "wikilink")和[亚依淡区国会下议员](../Page/亚依淡国会议席.md "wikilink")[魏家祥](../Page/魏家祥.md "wikilink")参与点评\[4\]。
 
-2019年5月9日，《ntv7华语新闻》特设“改朝365全民听政”环节，邀请[国会](../Page/马来西亚国会.md "wikilink")[下议院](https://zh.wikipedia.org/wiki/马来西亚下议院 "wikilink")[副议长兼](https://zh.wikipedia.org/wiki/马来西亚国会下议院议长#下议院副议长 "wikilink")国会下议员[倪可敏和](../Page/倪可敏.md "wikilink")国会下议员[魏家祥参与访谈和讨论](../Page/魏家祥.md "wikilink")\[5\]。
+2019年5月9日，《ntv7华语新闻》特设“改朝365全民听政”环节，邀请[国会](../Page/马来西亚国会.md "wikilink")[下议院](https://zh.wikipedia.org/wiki/马来西亚下议院 "wikilink")[副议长兼](https://zh.wikipedia.org/wiki/马来西亚国会下议院议长#下议院副议长 "wikilink")区国会议员[倪可敏](../Page/倪可敏.md "wikilink")和区国会议员[魏家祥](../Page/魏家祥.md "wikilink")参与访谈和讨论\[5\]。
 
 ## 新闻时段
 
@@ -45,12 +45,10 @@
 [Category:馬來西亞電視節目](https://zh.wikipedia.org/wiki/Category:馬來西亞電視節目 "wikilink")
 
 1.
-2.  [20180916 ntv7华语新闻脸书同步直播 -
-    YouTube](https://www.youtube.com/watch?v=omcv7ttc0RM)
+2.  [20180916 ntv7华语新闻脸书同步直播 - YouTube](https://www.youtube.com/watch?v=omcv7ttc0RM)
 3.  [1](https://www.facebook.com/ntv7mandarinnews/posts/10155508072150448)
 4.  [2](https://www.facebook.com/ntv7mandarinnews/videos/274429119874158)
-5.  [2019年5月9日
-    ntv7华语新闻网络同步直播](https://www.youtube.com/watch?v=kA2JDaosYBc)
+5.  [2019年5月9日 ntv7华语新闻网络同步直播](https://www.youtube.com/watch?v=kA2JDaosYBc)
 6.
 7.
 8.

@@ -18,14 +18,9 @@
   -
   -
   -
-[Category:維吉尼亞州眾議員](https://zh.wikipedia.org/wiki/Category:維吉尼亞州眾議員 "wikilink")
-[Category:弗吉尼亚州民主党人](https://zh.wikipedia.org/wiki/Category:弗吉尼亚州民主党人 "wikilink")
-[Category:华盛顿与李大学校友](https://zh.wikipedia.org/wiki/Category:华盛顿与李大学校友 "wikilink")
-[Category:弗吉尼亚州律师](https://zh.wikipedia.org/wiki/Category:弗吉尼亚州律师 "wikilink")
+[Category:維吉尼亞州眾議員](https://zh.wikipedia.org/wiki/Category:維吉尼亞州眾議員 "wikilink") [Category:弗吉尼亚州民主党人](https://zh.wikipedia.org/wiki/Category:弗吉尼亚州民主党人 "wikilink") [Category:华盛顿与李大学校友](https://zh.wikipedia.org/wiki/Category:华盛顿与李大学校友 "wikilink") [Category:弗吉尼亚州律师](https://zh.wikipedia.org/wiki/Category:弗吉尼亚州律师 "wikilink")
 
-1.  [Lacey Putney, longest-serving state legislator in Virginia's
-    history, dies
-    at 89](http://www.roanoke.com/news/politics/lacey-putney-longest-serving-state-legislator-in-virginia-s-history/article_896cea32-41fd-586a-a7f1-ae836cce071b.html)
+1.  [Lacey Putney, longest-serving state legislator in Virginia's history, dies at 89](http://www.roanoke.com/news/politics/lacey-putney-longest-serving-state-legislator-in-virginia-s-history/article_896cea32-41fd-586a-a7f1-ae836cce071b.html)
 2.
 3.
 4.

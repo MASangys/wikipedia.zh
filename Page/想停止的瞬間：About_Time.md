@@ -1,9 +1,6 @@
-**想停止的瞬間：About
-Time**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](../Page/TVN.md "wikilink")2018年5月21日起播出的[月火連續劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink")，由《[第二個二十歲](../Page/第二個二十歲.md "wikilink")》[金亨植導演執導與秋惠美作家合作打造](../Page/金亨植.md "wikilink")。此劇講述能看到別人和自己壽命時鐘的不幸女人，遇到了一個輕而易舉能把她時間暫停的男人後，只能實現愛情魔法的瞬間的奇幻故事。\[1\]\[2\]\[3\]
+**想停止的瞬間：About Time**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](../Page/TVN.md "wikilink")2018年5月21日起播出的[月火連續劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink")，由《[第二個二十歲](../Page/第二個二十歲.md "wikilink")》[金亨植](../Page/金亨植.md "wikilink")導演執導與秋惠美作家合作打造。此劇講述能看到別人和自己壽命時鐘的不幸女人，遇到了一個輕而易舉能把她時間暫停的男人後，只能實現愛情魔法的瞬間的奇幻故事。\[1\]\[2\]\[3\]
 
-台灣由[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")、[LINE
-TV](../Page/LINE_TV.md "wikilink")、[KKTV](../Page/KKTV.md "wikilink")、[CHOCO
-TV](../Page/CHOCO_TV.md "wikilink")、[遠傳friDay影音播出上架](https://zh.wikipedia.org/wiki/遠傳friDay影音 "wikilink")。香港地區於[Viu免費同步追播](../Page/Viu.md "wikilink")。
+台灣由[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")、[LINE TV](../Page/LINE_TV.md "wikilink")、[KKTV](../Page/KKTV.md "wikilink")、[CHOCO TV](../Page/CHOCO_TV.md "wikilink")、[遠傳friDay影音播出上架](https://zh.wikipedia.org/wiki/遠傳friDay影音 "wikilink")。香港地區於[Viu](../Page/Viu.md "wikilink")免費同步追播。
 
 ## 演員陣容
 
@@ -410,36 +407,25 @@ TV](../Page/CHOCO_TV.md "wikilink")、[遠傳friDay影音播出上架](https://z
 
 ## 同時段競爭作品
 
-  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
-    [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[我們遇見的奇蹟](../Page/我們遇見的奇蹟.md "wikilink")》、《[你也是人類嗎](../Page/你也是人類嗎.md "wikilink")》
-  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")
-    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[檢法男女](../Page/檢法男女.md "wikilink")》
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[油膩的Melo](../Page/油膩的Melo.md "wikilink")》
+  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[我們遇見的奇蹟](../Page/我們遇見的奇蹟.md "wikilink")》、《[你也是人類嗎](../Page/你也是人類嗎.md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[檢法男女](../Page/檢法男女.md "wikilink")》
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink") [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[油膩的Melo](../Page/油膩的Melo.md "wikilink")》
 
 ## 記事
 
-  - [李曙原因涉嫌對女藝人性騷擾](../Page/李曙原.md "wikilink")，確定從該劇下車，在劇中他飾演女主角李聖經出演的音樂劇的音樂指導，雖然是支線但出演的份量也不算少，無法將角色直接刪除，預計剩下的部分將會尋找其他演員代替進行拍攝\[6\]。
-  - [金桐俊接替音樂指導趙在侑一角](../Page/金桐俊.md "wikilink")，由於金桐俊是緊急加入拍攝的，為了準備拍攝取消了所有日程，在18日開始進行拍攝，將會盡最大的努力，為觀眾們獻上最好的作品\[7\]。
+  - [李曙原](../Page/李曙原.md "wikilink")因涉嫌對女藝人性騷擾，確定從該劇下車，在劇中他飾演女主角李聖經出演的音樂劇的音樂指導，雖然是支線但出演的份量也不算少，無法將角色直接刪除，預計剩下的部分將會尋找其他演員代替進行拍攝\[6\]。
+  - [金桐俊](../Page/金桐俊.md "wikilink")接替音樂指導趙在侑一角，由於金桐俊是緊急加入拍攝的，為了準備拍攝取消了所有日程，在18日開始進行拍攝，將會盡最大的努力，為觀眾們獻上最好的作品\[7\]。
 
 ## 參考資料
 
 ## 外部連結
 
   - [韓國tvN官方網站](http://program.tving.com/tvn/abouttime/)
-  - [想暫停的瞬間：About
-    Time](https://web.archive.org/web/20180514064957/http://movie.daum.net/tv/main?tvProgramId=80425)
-    [DAUM](../Page/多音.md "wikilink")
-  - [想暫停的瞬間：About Time](http://m.entertain.naver.com/tvBrand/6010516)
-    [NAVER](../Page/NAVER.md "wikilink")
-  - [想停止的瞬間：About Time](https://video.friday.tw/drama/detail/458) -
-    [friDay影音](https://zh.wikipedia.org/wiki/friDay影音 "wikilink")
+  - [想暫停的瞬間：About Time](https://web.archive.org/web/20180514064957/http://movie.daum.net/tv/main?tvProgramId=80425) [DAUM](../Page/多音.md "wikilink")
+  - [想暫停的瞬間：About Time](http://m.entertain.naver.com/tvBrand/6010516) [NAVER](../Page/NAVER.md "wikilink")
+  - [想停止的瞬間：About Time](https://video.friday.tw/drama/detail/458) - [friDay影音](https://zh.wikipedia.org/wiki/friDay影音 "wikilink")
 
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:2018年背景作品](https://zh.wikipedia.org/wiki/Category:2018年背景作品 "wikilink")
-[Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
+[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:2018年背景作品](https://zh.wikipedia.org/wiki/Category:2018年背景作品 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
 
 1.
 2.

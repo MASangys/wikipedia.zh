@@ -1,12 +1,8 @@
-**Team HII 4th Stage「Beautiful
-World」公演**是[SNH48的剧场公演](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，此套公演同時也是SNH48
-Team HII的首套原創公演。\[1\]
+**Team HII 4th Stage「Beautiful World」公演**是[SNH48的剧场公演](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，此套公演同時也是SNH48 Team HII的首套原創公演。\[1\]
 
 ## 概要
 
-《Beautiful World》是历时长达8个月的企划制作周期，经过一年的打磨历练，SNH48音乐原创之路逐渐成型，《Beautiful
-World》公演也在基本架构上也有所调整和改变。《Beautiful
-World》的上演，也标志着SNH48已全面实现剧场公演100%原创。\[2\]
+《Beautiful World》是历时长达8个月的企划制作周期，经过一年的打磨历练，SNH48音乐原创之路逐渐成型，《Beautiful World》公演也在基本架构上也有所调整和改变。《Beautiful World》的上演，也标志着SNH48已全面实现剧场公演100%原创。\[2\]
 
 ## 公演曲目
 
@@ -47,8 +43,7 @@ World》的上演，也标志着SNH48已全面实现剧场公演100%原创。\[2
 ### CKG48 Team K 2nd Stage“美丽世界”公演
 
   - 《H Zone》更改歌词为《K Zone》
-  - 《天天向上》与《Running Girls》替换为《灰姑娘》（日文作词：秋元康　作曲、编曲：井上义正）与《爱的洄游鱼》
-    （日文作词：秋元康　作曲：Gajin　编曲：市川裕一）
+  - 《天天向上》与《Running Girls》替换为《灰姑娘》（日文作词：秋元康　作曲、编曲：井上义正）与《爱的洄游鱼》 （日文作词：秋元康　作曲：Gajin　编曲：市川裕一）
 
 ## SNH48 Team HII 4th Stage「Beautiful World」公演
 
@@ -123,9 +118,6 @@ World》的上演，也标志着SNH48已全面实现剧场公演100%原创。\[2
 
 [Category:SNH48_Group剧场公演](https://zh.wikipedia.org/wiki/Category:SNH48_Group剧场公演 "wikilink")
 
-1.  [SNH48 H队原创公演《Beautiful
-    World》 3月24日首秀场竞价](http://www.snh48.com/html/allnews/zixun/2017/0320/2159.html)
-2.  [SNH48集团发布三场新公演
-    提升原创质量](http://ent.sina.com.cn/y/yneidi/2016-12-09/doc-ifxypipt0692234.shtml)
-3.  [SNH48 H队首场原创公演《Beautiful
-    World》（美丽世界）闪耀上演](http://www.snh48.com/html/allnews/zixun/2017/0409/2181.html)
+1.  [SNH48 H队原创公演《Beautiful World》 3月24日首秀场竞价](http://www.snh48.com/html/allnews/zixun/2017/0320/2159.html)
+2.  [SNH48集团发布三场新公演 提升原创质量](http://ent.sina.com.cn/y/yneidi/2016-12-09/doc-ifxypipt0692234.shtml)
+3.  [SNH48 H队首场原创公演《Beautiful World》（美丽世界）闪耀上演](http://www.snh48.com/html/allnews/zixun/2017/0409/2181.html)

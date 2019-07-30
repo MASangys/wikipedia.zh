@@ -1,7 +1,5 @@
-**FAKY**是[日本的女子團體](../Page/日本.md "wikilink")。隸屬於rhythm
-zone、2013年出道。\[1\]。
-預定2014年3月、4月發售的首張迷你專輯遭到延期，6月以團體整備作為理由活動停止（但是成員個人活動依然進行）。7月發表配信限定的首張專輯「The
-One」。
+**FAKY**是[日本](../Page/日本.md "wikilink")的女子團體。隸屬於rhythm zone、2013年出道。\[1\]。
+預定2014年3月、4月發售的首張迷你專輯遭到延期，6月以團體整備作為理由活動停止（但是成員個人活動依然進行）。7月發表配信限定的首張專輯「The One」。
 2015年10月官方網站整備的同時，宣布睽違1年半重新活動。取代退出的2人，來自美國的新成員Akina加入，變為四人體制。
 2017年6月14日，以迷你專輯「Unwrapped」正式出道。
 
@@ -259,21 +257,10 @@ One」。
   - [官方網站](http://www.faky.jp)
       - [Facebook](http://www.facebook.com/FAKYjp)
       - [YouTube](http://www.youtube.com/user/FAKYjp)
-      - [Twitter](http://twitter.com/FAKYjp)（[FAKY](http://twitter.com/fakyjp)
-        | [Anna](http://twitter.com/Anna_FAKY) {{\!}} [Lil'
-        Fang](http://twitter.com/LilFang_FAKY) {{\!}}
-        [Mikako](http://twitter.com/Mikako_FAKY) {{\!}}
-        [Akina](http://twitter.com/akina_faky)）
-      - [Instagram](http://www.instagram.com/)
-        （[FAKY](http://www.instagram.com/fakyjp/) |
-        [Anna](http://www.instagram.com/anna_faky/) {{\!}} [Lil'
-        Fang](http://www.instagram.com/lilfang_faky) {{\!}}
-        [Mikako](http://www.instagram.com/mikako_faky/) {{\!}}
-        [Akina](http://www.instagram.com/akina_faky/)）
+      - [Twitter](http://twitter.com/FAKYjp)（[FAKY](http://twitter.com/fakyjp) | [Anna](http://twitter.com/Anna_FAKY) {{\!}} [Lil' Fang](http://twitter.com/LilFang_FAKY) {{\!}} [Mikako](http://twitter.com/Mikako_FAKY) {{\!}} [Akina](http://twitter.com/akina_faky)）
+      - [Instagram](http://www.instagram.com/) （[FAKY](http://www.instagram.com/fakyjp/) | [Anna](http://www.instagram.com/anna_faky/) {{\!}} [Lil' Fang](http://www.instagram.com/lilfang_faky) {{\!}} [Mikako](http://www.instagram.com/mikako_faky/) {{\!}} [Akina](http://www.instagram.com/akina_faky/)）
 
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
-[Category:2013年日本建立](https://zh.wikipedia.org/wiki/Category:2013年日本建立 "wikilink")
+[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:2013年日本建立](https://zh.wikipedia.org/wiki/Category:2013年日本建立 "wikilink")
 
 1.
 2.

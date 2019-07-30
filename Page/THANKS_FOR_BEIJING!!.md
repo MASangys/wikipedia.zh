@@ -1,10 +1,8 @@
-《**THANKS FOR
-BEIJING\!\!**》是2011年12月7日在[日本发行的](../Page/日本.md "wikilink")[SMAP的](../Page/SMAP.md "wikilink")[DVD作品](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+《**THANKS FOR BEIJING\!\!**》是2011年12月7日在[日本](../Page/日本.md "wikilink")发行的[SMAP](../Page/SMAP.md "wikilink")的[DVD作品](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 专辑概要
 
-  - 本影像作品集收录的是[SMAP于](../Page/SMAP.md "wikilink")2011年9月16日在[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[北京市的](../Page/北京市.md "wikilink")[北京工人体育馆所举办的](https://zh.wikipedia.org/wiki/北京工人体育馆 "wikilink")“2011年北京SMAP演唱会
-    加油日本！感谢中国！－亚洲一家－项目”的影像记录。同时这场演唱会也是SMAP的首次海外公演。
+  - 本影像作品集收录的是[SMAP](../Page/SMAP.md "wikilink")于2011年9月16日在[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[北京市](../Page/北京市.md "wikilink")的[北京工人体育馆所举办的](https://zh.wikipedia.org/wiki/北京工人体育馆 "wikilink")“2011年北京SMAP演唱会 加油日本！感谢中国！－亚洲一家－项目”的影像记录。同时这场演唱会也是SMAP的首次海外公演。
 
 <!-- end list -->
 
@@ -16,10 +14,7 @@ BEIJING\!\!**》是2011年12月7日在[日本发行的](../Page/日本.md "wikil
 
 <!-- end list -->
 
-  - 和通常一样，[SMAP SHOP推出了限量版封面的](../Page/SMAP_SHOP.md "wikilink")《THANKS
-    FOR BEIJING\!\!》。和通常盘采用红色背景下的鞋部特写不同，SMAP
-    SHOP的限量版封面是蓝色背景下的鞋部特写，并且标题改为《RUNNING
-    SMAP\!》。
+  - 和通常一样，[SMAP SHOP推出了限量版封面的](../Page/SMAP_SHOP.md "wikilink")《THANKS FOR BEIJING\!\!》。和通常盘采用红色背景下的鞋部特写不同，SMAP SHOP的限量版封面是蓝色背景下的鞋部特写，并且标题改为《RUNNING SMAP\!》。
 
 <!-- end list -->
 
@@ -27,9 +22,7 @@ BEIJING\!\!**》是2011年12月7日在[日本发行的](../Page/日本.md "wikil
 
 <!-- end list -->
 
-  - 《THANKS FOR BEIJING\!\!》发行首周销量达到5.7万张，荣膺公信榜DVD综合类周榜冠军。\[1\]
-    这是SMAP继《[SMAP 2008 super.modern.artistic.performance
-    tour](https://zh.wikipedia.org/wiki/SMAP_2008_super.modern.artistic.performance_tour "wikilink")》之后，第三张首周荣登DVD综合类周榜冠军的作品。如果延续以前的[VHS版](../Page/VHS.md "wikilink")，则这是SMAP第十五部拿下首周销量冠军的作品。
+  - 《THANKS FOR BEIJING\!\!》发行首周销量达到5.7万张，荣膺公信榜DVD综合类周榜冠军。\[1\] 这是SMAP继《[SMAP 2008 super.modern.artistic.performance tour](https://zh.wikipedia.org/wiki/SMAP_2008_super.modern.artistic.performance_tour "wikilink")》之后，第三张首周荣登DVD综合类周榜冠军的作品。如果延续以前的[VHS](../Page/VHS.md "wikilink")版，则这是SMAP第十五部拿下首周销量冠军的作品。
 
 ## 收录内容
 
@@ -48,8 +41,7 @@ BEIJING\!\!**》是2011年12月7日在[日本发行的](../Page/日本.md "wikil
 13. ****
 14. **[夜空的彼岸](../Page/夜空的彼岸.md "wikilink") 〜 Member Talk**
 15. **夜空的彼岸（夜空ノムコウ Chinese Version）**
-16. **[世界上唯一的花（世界に一つだけの花 Chinese
-    Version）](../Page/世界上唯一的花.md "wikilink")**
+16. **[世界上唯一的花 Chinese Version）](../Page/世界上唯一的花.md "wikilink")（世界に一つだけの花**
 17. **Document**
 18. **[$10](https://zh.wikipedia.org/wiki/$10_\(SMAP单曲\) "wikilink")**
 19. ****
@@ -73,13 +65,8 @@ BEIJING\!\!**》是2011年12月7日在[日本发行的](../Page/日本.md "wikil
 
 ## 外部链接
 
-  - [THANKS FOR
-    BEIJING\!\!｜官方公式站](http://www.jvcmusic.co.jp/-/Discography/A002763/VIBL-888.html)
+  - [THANKS FOR BEIJING\!\!｜官方公式站](http://www.jvcmusic.co.jp/-/Discography/A002763/VIBL-888.html)
 
-[Category:SMAP影像作品](https://zh.wikipedia.org/wiki/Category:SMAP影像作品 "wikilink")
-[Category:2011年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2011年音樂相關影像作品 "wikilink")
-[Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")
-[Category:中国演唱会](https://zh.wikipedia.org/wiki/Category:中国演唱会 "wikilink")
+[Category:SMAP影像作品](https://zh.wikipedia.org/wiki/Category:SMAP影像作品 "wikilink") [Category:2011年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2011年音樂相關影像作品 "wikilink") [Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink") [Category:中国演唱会](https://zh.wikipedia.org/wiki/Category:中国演唱会 "wikilink")
 
-1.  [【オリコン】ＳＭＡＰ北京公演ＤＶＤが首位](http://news24.jp/entertainment/news/1620486.html)
-    日テレNEWS24 2011年12月14日
+1.  [【オリコン】ＳＭＡＰ北京公演ＤＶＤが首位](http://news24.jp/entertainment/news/1620486.html) 日テレNEWS24 2011年12月14日

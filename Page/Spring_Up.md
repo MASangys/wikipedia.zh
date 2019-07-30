@@ -1,6 +1,4 @@
-《**Spring
-Up**》，是韓國六人男子偶像團體[ASTRO的首張迷你專輯](https://zh.wikipedia.org/wiki/ASTRO "wikilink")，以〈숨바꼭질(Hide
-& Seek)〉為主打歌。
+《**Spring Up**》，是韓國六人男子偶像團體[ASTRO的首張迷你專輯](https://zh.wikipedia.org/wiki/ASTRO "wikilink")，以〈숨바꼭질(Hide & Seek)〉為主打歌。
 
 ## 事件
 
@@ -80,16 +78,14 @@ Up**》，是韓國六人男子偶像團體[ASTRO的首張迷你專輯](https://
 
 ## 參考資料
 
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
+[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
 
 1.  [新人男團ASTRO最新寫真十足漫畫風男友](http://www.koreastardaily.com/tc/news/73491)韓星網
 2.
 3.  [新男團ASTRO曝宣傳預告重磅出擊](http://www.koreastardaily.com/tc/news/73737)韓星網
 4.
 5.
-6.  [小鮮肉來啦！
-    ASTRO曝出道曲《捉迷藏》宣傳MV](http://www.koreastardaily.com/tc/news/74025)韓星網
+6.  [小鮮肉來啦！ ASTRO曝出道曲《捉迷藏》宣傳MV](http://www.koreastardaily.com/tc/news/74025)韓星網
 7.
 8.
 9.

@@ -1,8 +1,6 @@
 require('Module:No globals')
 
-local conf = require( 'Module:Taxonbar/conf' ) -- configuration module
-local TaxonItalics = require('Module:TaxonItalics') -- use a function
-from Module:TaxonItalics to italicize a taxon name
+local conf = require( 'Module:Taxonbar/conf' ) -- configuration module local TaxonItalics = require('Module:TaxonItalics') -- use a function from Module:TaxonItalics to italicize a taxon name
 
 local function isNilOrEmpty( thing )
 
@@ -574,8 +572,7 @@ function p.authorityControlTaxon( frame )
 `               end`
 `           end`
 `           --adjust navbox for number of rows`
-`           navboxParams['title'] = '`[`物種識別-{zh-cn:信息;``
- ``zh-tw:資訊;}-`](https://zh.wikipedia.org/wiki/維基百科:生物專題 "wikilink")`'`
+`           navboxParams['title'] = '`[`物種識別-{zh-cn:信息;``   ``zh-tw:資訊;}-`](https://zh.wikipedia.org/wiki/維基百科:生物專題 "wikilink")`'`
 `           if rowCount > 2 then`
 `               navboxParams['navbar'] = 'plain'`
 `           else`
@@ -583,11 +580,9 @@ function p.authorityControlTaxon( frame )
 `               navboxParams['navbar'] = 'off'`
 `           end`
 `       elseif parentArgs['noTitle'..firstRow] then`
-`           navboxParams['group'..firstRow] = '`[`物種識別-{zh-cn:信息;``
- ``zh-tw:資訊;}-`](https://zh.wikipedia.org/wiki/維基百科:生物專題 "wikilink")`'`
+`           navboxParams['group'..firstRow] = '`[`物種識別-{zh-cn:信息;``   ``zh-tw:資訊;}-`](https://zh.wikipedia.org/wiki/維基百科:生物專題 "wikilink")`'`
 `       else`
-`           navboxParams['group'..firstRow] = '`[`物種識別-{zh-cn:信息;``
- ``zh-tw:資訊;}-`](https://zh.wikipedia.org/wiki/維基百科:生物專題 "wikilink")
+`           navboxParams['group'..firstRow] = '`[`物種識別-{zh-cn:信息;``   ``zh-tw:資訊;}-`](https://zh.wikipedia.org/wiki/維基百科:生物專題 "wikilink")
 `' .. navboxParams['group'..firstRow]`
 `       end`
 `       `
@@ -610,35 +605,4 @@ end
 
 return p
 
-[Category:Taxonbars_without_from_parameter](https://zh.wikipedia.org/wiki/Category:Taxonbars_without_from_parameter "wikilink")
-[Category:Taxonbars_desynced_from_Wikidata](https://zh.wikipedia.org/wiki/Category:Taxonbars_desynced_from_Wikidata "wikilink")
-[Category:Taxonbars_using_multiple_manual_Wikidata_items](https://zh.wikipedia.org/wiki/Category:Taxonbars_using_multiple_manual_Wikidata_items "wikilink")
-[Category:Taxonbars_with_invalid_from_parameters](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_invalid_from_parameters "wikilink")
-[Category:Taxonbars_using_manual_taxon_IDs](https://zh.wikipedia.org/wiki/Category:Taxonbars_using_manual_taxon_IDs "wikilink")
-[Category:Taxonbar_pages_requiring_a_Wikidata_item](https://zh.wikipedia.org/wiki/Category:Taxonbar_pages_requiring_a_Wikidata_item "wikilink")
-[Category:Taxonbar_pages_without_Wikidata_taxon_IDs](https://zh.wikipedia.org/wiki/Category:Taxonbar_pages_without_Wikidata_taxon_IDs "wikilink")
-[Category:Taxonbars_with_duplicate_from_parameters](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_duplicate_from_parameters "wikilink")
-[Category:Taxonbars_with_manual_taxon_IDs_differing_from_Wikidata](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_manual_taxon_IDs_differing_from_Wikidata "wikilink")
-[Category:Taxonbars_with_manual_taxon_IDs_identical_to_Wikidata](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_manual_taxon_IDs_identical_to_Wikidata "wikilink")
-[Category:Taxonbars_on_possible_non-taxon_pages](https://zh.wikipedia.org/wiki/Category:Taxonbars_on_possible_non-taxon_pages "wikilink")
-[Category:Taxonbars_with_20+_taxon_IDs](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_20+_taxon_IDs "wikilink")
-[Category:Taxonbars_with_25+_taxon_IDs](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_25+_taxon_IDs "wikilink")
-[Category:Taxonbars_with_automatically_added_basionyms](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_automatically_added_basionyms "wikilink")
-[Category:Taxonbars_with_automatically_added_monotypic_genera](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_automatically_added_monotypic_genera "wikilink")
-[Category:Taxonbars_of_monotypic_species_missing_genera](https://zh.wikipedia.org/wiki/Category:Taxonbars_of_monotypic_species_missing_genera "wikilink")
-[Category:Taxonbars_with_unknown_parameters](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_unknown_parameters "wikilink")
-[Category:Taxonbar_pages_requiring_a_Wikidata_item](https://zh.wikipedia.org/wiki/Category:Taxonbar_pages_requiring_a_Wikidata_item "wikilink")
-[Category:Taxonbars_on_possible_non-taxon_pages](https://zh.wikipedia.org/wiki/Category:Taxonbars_on_possible_non-taxon_pages "wikilink")
-[Category:Taxonbars_with_duplicate_from_parameters](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_duplicate_from_parameters "wikilink")
-[Category:Taxonbars_using_multiple_manual_Wikidata_items](https://zh.wikipedia.org/wiki/Category:Taxonbars_using_multiple_manual_Wikidata_items "wikilink")
-[Category:Taxonbars_using_manual_taxon_IDs](https://zh.wikipedia.org/wiki/Category:Taxonbars_using_manual_taxon_IDs "wikilink")
-[Category:Taxonbars_with_unknown_parameters](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_unknown_parameters "wikilink")
-[Category:Taxonbars_with_automatically_added_basionyms](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_automatically_added_basionyms "wikilink")
-[Category:Taxonbars_with_automatically_added_monotypic_genera](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_automatically_added_monotypic_genera "wikilink")
-[Category:Taxonbars_of_monotypic_species_missing_genera](https://zh.wikipedia.org/wiki/Category:Taxonbars_of_monotypic_species_missing_genera "wikilink")
-[Category:Taxonbars_with_invalid_from_parameters](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_invalid_from_parameters "wikilink")
-[Category:Taxonbars_with_manual_taxon_IDs_differing_from_Wikidata](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_manual_taxon_IDs_differing_from_Wikidata "wikilink")
-[Category:Taxonbars_with_manual_taxon_IDs_identical_to_Wikidata](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_manual_taxon_IDs_identical_to_Wikidata "wikilink")
-[Category:Taxonbars_with_20+_taxon_IDs](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_20+_taxon_IDs "wikilink")
-[Category:Taxonbars_with_25+_taxon_IDs](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_25+_taxon_IDs "wikilink")
-[Category:Taxonbar_pages_without_Wikidata_taxon_IDs](https://zh.wikipedia.org/wiki/Category:Taxonbar_pages_without_Wikidata_taxon_IDs "wikilink")
+[Category:Taxonbars_without_from_parameter](https://zh.wikipedia.org/wiki/Category:Taxonbars_without_from_parameter "wikilink") [Category:Taxonbars_desynced_from_Wikidata](https://zh.wikipedia.org/wiki/Category:Taxonbars_desynced_from_Wikidata "wikilink") [Category:Taxonbars_using_multiple_manual_Wikidata_items](https://zh.wikipedia.org/wiki/Category:Taxonbars_using_multiple_manual_Wikidata_items "wikilink") [Category:Taxonbars_with_invalid_from_parameters](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_invalid_from_parameters "wikilink") [Category:Taxonbars_using_manual_taxon_IDs](https://zh.wikipedia.org/wiki/Category:Taxonbars_using_manual_taxon_IDs "wikilink") [Category:Taxonbar_pages_requiring_a_Wikidata_item](https://zh.wikipedia.org/wiki/Category:Taxonbar_pages_requiring_a_Wikidata_item "wikilink") [Category:Taxonbar_pages_without_Wikidata_taxon_IDs](https://zh.wikipedia.org/wiki/Category:Taxonbar_pages_without_Wikidata_taxon_IDs "wikilink") [Category:Taxonbars_with_duplicate_from_parameters](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_duplicate_from_parameters "wikilink") [Category:Taxonbars_with_manual_taxon_IDs_differing_from_Wikidata](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_manual_taxon_IDs_differing_from_Wikidata "wikilink") [Category:Taxonbars_with_manual_taxon_IDs_identical_to_Wikidata](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_manual_taxon_IDs_identical_to_Wikidata "wikilink") [Category:Taxonbars_on_possible_non-taxon_pages](https://zh.wikipedia.org/wiki/Category:Taxonbars_on_possible_non-taxon_pages "wikilink") [Category:Taxonbars_with_20+_taxon_IDs](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_20+_taxon_IDs "wikilink") [Category:Taxonbars_with_25+_taxon_IDs](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_25+_taxon_IDs "wikilink") [Category:Taxonbars_with_automatically_added_basionyms](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_automatically_added_basionyms "wikilink") [Category:Taxonbars_with_automatically_added_monotypic_genera](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_automatically_added_monotypic_genera "wikilink") [Category:Taxonbars_of_monotypic_species_missing_genera](https://zh.wikipedia.org/wiki/Category:Taxonbars_of_monotypic_species_missing_genera "wikilink") [Category:Taxonbars_with_unknown_parameters](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_unknown_parameters "wikilink") [Category:Taxonbar_pages_requiring_a_Wikidata_item](https://zh.wikipedia.org/wiki/Category:Taxonbar_pages_requiring_a_Wikidata_item "wikilink") [Category:Taxonbars_on_possible_non-taxon_pages](https://zh.wikipedia.org/wiki/Category:Taxonbars_on_possible_non-taxon_pages "wikilink") [Category:Taxonbars_with_duplicate_from_parameters](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_duplicate_from_parameters "wikilink") [Category:Taxonbars_using_multiple_manual_Wikidata_items](https://zh.wikipedia.org/wiki/Category:Taxonbars_using_multiple_manual_Wikidata_items "wikilink") [Category:Taxonbars_using_manual_taxon_IDs](https://zh.wikipedia.org/wiki/Category:Taxonbars_using_manual_taxon_IDs "wikilink") [Category:Taxonbars_with_unknown_parameters](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_unknown_parameters "wikilink") [Category:Taxonbars_with_automatically_added_basionyms](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_automatically_added_basionyms "wikilink") [Category:Taxonbars_with_automatically_added_monotypic_genera](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_automatically_added_monotypic_genera "wikilink") [Category:Taxonbars_of_monotypic_species_missing_genera](https://zh.wikipedia.org/wiki/Category:Taxonbars_of_monotypic_species_missing_genera "wikilink") [Category:Taxonbars_with_invalid_from_parameters](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_invalid_from_parameters "wikilink") [Category:Taxonbars_with_manual_taxon_IDs_differing_from_Wikidata](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_manual_taxon_IDs_differing_from_Wikidata "wikilink") [Category:Taxonbars_with_manual_taxon_IDs_identical_to_Wikidata](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_manual_taxon_IDs_identical_to_Wikidata "wikilink") [Category:Taxonbars_with_20+_taxon_IDs](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_20+_taxon_IDs "wikilink") [Category:Taxonbars_with_25+_taxon_IDs](https://zh.wikipedia.org/wiki/Category:Taxonbars_with_25+_taxon_IDs "wikilink") [Category:Taxonbar_pages_without_Wikidata_taxon_IDs](https://zh.wikipedia.org/wiki/Category:Taxonbar_pages_without_Wikidata_taxon_IDs "wikilink")

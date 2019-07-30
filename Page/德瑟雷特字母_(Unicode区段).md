@@ -1,4 +1,4 @@
-**德瑟雷特字母**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了1847年至1854年间德瑟雷特大学（现为[犹他大学](../Page/犹他大学.md "wikilink")）发明的，用来拼写[英语的字母](../Page/英语.md "wikilink")。
+**德瑟雷特字母**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了1847年至1854年间德瑟雷特大学（现为[犹他大学](../Page/犹他大学.md "wikilink")）发明的，用来拼写[英语](../Page/英语.md "wikilink")的字母。
 
 ## 历史
 

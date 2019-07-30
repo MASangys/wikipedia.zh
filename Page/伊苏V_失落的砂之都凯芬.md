@@ -1,5 +1,4 @@
-是[日本Falcom开发](../Page/日本Falcom.md "wikilink")，并于1995年在[超级任天堂发行的](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")，为[伊苏系列第五代游戏](../Page/伊苏系列.md "wikilink")。2006年[太东发行](https://zh.wikipedia.org/wiki/太东 "wikilink")[PlayStation
-2版](../Page/PlayStation_2.md "wikilink")。
+是[日本Falcom](../Page/日本Falcom.md "wikilink")开发，并于1995年在[超级任天堂发行的](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")，为[伊苏系列](../Page/伊苏系列.md "wikilink")第五代游戏。2006年[太东发行](https://zh.wikipedia.org/wiki/太东 "wikilink")[PlayStation 2版](../Page/PlayStation_2.md "wikilink")。
 
 ## 玩法
 
@@ -59,9 +58,4 @@
     森德里亞地方上的有力人士。
     委託亞特魯探索幻之都市凱芬，然而卻有其它的計畫。
 
-[Category:伊苏系列](https://zh.wikipedia.org/wiki/Category:伊苏系列 "wikilink")
-[Category:1995年电子游戏](https://zh.wikipedia.org/wiki/Category:1995年电子游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:太東遊戲](https://zh.wikipedia.org/wiki/Category:太東遊戲 "wikilink")
-[Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink")
+[Category:伊苏系列](https://zh.wikipedia.org/wiki/Category:伊苏系列 "wikilink") [Category:1995年电子游戏](https://zh.wikipedia.org/wiki/Category:1995年电子游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:太東遊戲](https://zh.wikipedia.org/wiki/Category:太東遊戲 "wikilink") [Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink")

@@ -1,32 +1,16 @@
-《**Scared Rider Xechs**》是[Red
-Entertainment在](../Page/Red_Entertainment.md "wikilink")2010年7月1日發售的[PlayStation
-2平台](../Page/PlayStation_2.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。遊戲分為日常部分與戰鬥部分，以遭到由本能支配的“紅之世界”的生命體侵略的象徵著理性的“青之世界”為舞台，講述在青之世界擔任戰鬥指揮官的主人公與夥伴們的故事。\[1\]
+《**Scared Rider Xechs**》是[Red Entertainment在](../Page/Red_Entertainment.md "wikilink")2010年7月1日發售的[PlayStation 2平台](../Page/PlayStation_2.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。遊戲分為日常部分與戰鬥部分，以遭到由本能支配的“紅之世界”的生命體侵略的象徵著理性的“青之世界”為舞台，講述在青之世界擔任戰鬥指揮官的主人公與夥伴們的故事。\[1\]
 
-2011年6月23日，本作發售了Fan Disc「**Scared Rider Xechs -STARDUST
-LOVERS-**」，後於2012年4月26日又將本篇與Fan Disc彙總成一部遊戲移植到了[PlayStation
-Portable平台](../Page/PlayStation_Portable.md "wikilink")「**Scared Rider
-Xechs Ⅰ+ FD Portable**」，後又於2015年11月19日推出了PlayStation Vita移植版「**Scared
-Rider Xechs
-Rev.**」。\[2\][Android](../Page/Android.md "wikilink")、[iOS平台音樂節奏遊戲](https://zh.wikipedia.org/wiki/iOS "wikilink")「**Scared
-Rider Xechs 青與紅的狂詩曲**」也將在2016年8月上線運營。
+2011年6月23日，本作發售了Fan Disc「**Scared Rider Xechs -STARDUST LOVERS-**」，後於2012年4月26日又將本篇與Fan Disc彙總成一部遊戲移植到了[PlayStation Portable平台](../Page/PlayStation_Portable.md "wikilink")「**Scared Rider Xechs Ⅰ+ FD Portable**」，後又於2015年11月19日推出了PlayStation Vita移植版「**Scared Rider Xechs Rev.**」。\[2\][Android](../Page/Android.md "wikilink")、[iOS平台音樂節奏遊戲](https://zh.wikipedia.org/wiki/iOS "wikilink")「**Scared Rider Xechs 青與紅的狂詩曲**」也將在2016年8月上線運營。
 
-於2016年4月3日聲優見面會上宣佈電視動畫化。作為 Scared Rider Xechs
-系列的分支之一、五週年紀念的第三彈，動畫的監督將由擔任過《[流浪神差](../Page/流浪神差.md "wikilink")》的作畫監督的小森秀人擔任，角色原案由[pako擔任](https://zh.wikipedia.org/wiki/pako "wikilink")，人設則交由羽田浩二，動畫製作交給了[SATELIGHT擔當](../Page/SATELIGHT.md "wikilink")。動畫將於2016年7月5日開始播放。\[3\]
+於2016年4月3日聲優見面會上宣佈電視動畫化。作為 Scared Rider Xechs 系列的分支之一、五週年紀念的第三彈，動畫的監督將由擔任過《[流浪神差](../Page/流浪神差.md "wikilink")》的作畫監督的小森秀人擔任，角色原案由[pako擔任](https://zh.wikipedia.org/wiki/pako "wikilink")，人設則交由羽田浩二，動畫製作交給了[SATELIGHT](../Page/SATELIGHT.md "wikilink")擔當。動畫將於2016年7月5日開始播放。\[3\]
 
 ## 中文譯名
 
-Scared Rider Xechs
-（スカーレッドライダーゼクス）中譯名“紅傷騎士X”。Scared一詞根據staff給出的漢字準確翻譯標記並非“驚鴻”也不是“深紅”，而是英文單詞
-Scar（傷疤）+
-red（紅色）連在一起然後省略了一個R字母的合成詞，取自作品中主角們和他們的substance合體時的口號“紅傷！”——仔細看官方的logo能看
-到“r”上面始終是有兩個點的。Rider譯作“騎士”或“戰隊”皆可。Xechs取自德語「6」的拼寫sechs，指代第六戰鬥單元的主角一眾，並對
-「X」這個字母(符號)註入了“戰鬥將在這一代終結”的決心。\[4\]
+Scared Rider Xechs （スカーレッドライダーゼクス）中譯名“紅傷騎士X”。Scared一詞根據staff給出的漢字準確翻譯標記並非“驚鴻”也不是“深紅”，而是英文單詞 Scar（傷疤）+ red（紅色）連在一起然後省略了一個R字母的合成詞，取自作品中主角們和他們的substance合體時的口號“紅傷！”——仔細看官方的logo能看 到“r”上面始終是有兩個點的。Rider譯作“騎士”或“戰隊”皆可。Xechs取自德語「6」的拼寫sechs，指代第六戰鬥單元的主角一眾，並對 「X」這個字母(符號)註入了“戰鬥將在這一代終結”的決心。\[4\]
 
 ## 概要
 
-舞臺是象征理性的「青之世界」，然而正在遭受由本能支配的「紅之世界」的生命體 NightflyO'Note
-的襲擊與侵略。17歲的主人公麻黃晶就職為青之世界研究員，隨後因為能力出眾而被提拔為最前線的戰鬥指揮官，受命負責橫跨石垣島和西表島而構成的對位相外防衛機關，通稱「琉球LAG」。在那裏她遇見了在第五戰鬥單元經過激戰而全軍覆滅之後，於四年前成立的第六戰鬥單元「IS」的學生們。主人公作為教官，率領著又稱「Scared
-Rider Xechs」的6名騎手（Rider），共同浴血奮戰，應對來自異世界的攻擊和威脅。在這樣的生活中，他們的友情也在逐漸加深。\[5\]
+舞臺是象征理性的「青之世界」，然而正在遭受由本能支配的「紅之世界」的生命體 NightflyO'Note 的襲擊與侵略。17歲的主人公麻黃晶就職為青之世界研究員，隨後因為能力出眾而被提拔為最前線的戰鬥指揮官，受命負責橫跨石垣島和西表島而構成的對位相外防衛機關，通稱「琉球LAG」。在那裏她遇見了在第五戰鬥單元經過激戰而全軍覆滅之後，於四年前成立的第六戰鬥單元「IS」的學生們。主人公作為教官，率領著又稱「Scared Rider Xechs」的6名騎手（Rider），共同浴血奮戰，應對來自異世界的攻擊和威脅。在這樣的生活中，他們的友情也在逐漸加深。\[5\]
 
 ## 角色介紹
 
@@ -50,8 +34,7 @@ Rider Xechs」的6名騎手（Rider），共同浴血奮戰，應對來自異世
 
   -
     21歳　185cm　75kg　8月19日生　O型血
-    興趣是釣魚
-    唯一有社會經驗的成員，年紀最大的騎士。從LAG畢業後，在函館老家的酒店當幫工，此時發現自己被選中成為主要成員，於是回歸。是六位兄弟姐妹中的長子，胸懷寬廣，對家人和夥伴很友善。對自己想保護的對象有強烈的執著心，作為哥哥能很好地照顧弟弟妹妹，但是相反地，與不熟悉的人難以融洽相處。「Odd-I's」中擔任貝斯手，同時也是隊長。
+    興趣是釣魚 唯一有社會經驗的成員，年紀最大的騎士。從LAG畢業後，在函館老家的酒店當幫工，此時發現自己被選中成為主要成員，於是回歸。是六位兄弟姐妹中的長子，胸懷寬廣，對家人和夥伴很友善。對自己想保護的對象有強烈的執著心，作為哥哥能很好地照顧弟弟妹妹，但是相反地，與不熟悉的人難以融洽相處。「Odd-I's」中擔任貝斯手，同時也是隊長。
 
 <!-- end list -->
 
@@ -89,16 +72,14 @@ Rider Xechs」的6名騎手（Rider），共同浴血奮戰，應對來自異世
     和樹的搭檔。因為無法表述出成型的句子，便放棄了，所以發出的話也只是怪聲。但是，與和樹和其他的搭檔的談話似乎能達成。唯一能發音的單詞只有和樹的姓氏“錫木”。喜歡拓斗的聲音。
   -
     202cm　6月6日生　AB型血
-    聖的搭檔。第一個出現在青之世界的Nightfly
-    O'Note。曾與多位紅傷騎士學員測試共鳴，卻沒有一個人成功。從不多說話，這一點和其他的協助成員很不一樣。音樂是唯一能吸引他的東西。
+    聖的搭檔。第一個出現在青之世界的Nightfly O'Note。曾與多位紅傷騎士學員測試共鳴，卻沒有一個人成功。從不多說話，這一點和其他的協助成員很不一樣。音樂是唯一能吸引他的東西。
 
 ### LAG相關成員
 
 ****
 
   -
-    TV動畫新角色，協助成員中負責維護之人，一位從東京派遣而來的少女。
-    喜歡有趣的事情，性格開朗。和任何人關系都很融洽，但也有不講情面的時候。
+    TV動畫新角色，協助成員中負責維護之人，一位從東京派遣而來的少女。 喜歡有趣的事情，性格開朗。和任何人關系都很融洽，但也有不講情面的時候。
 
 <!-- end list -->
 
@@ -111,14 +92,11 @@ Rider Xechs」的6名騎手（Rider），共同浴血奮戰，應對來自異世
 
 ## 名詞解釋
 
-**Nightfly O'Note -**
-紅之世界的住民，侵略性異世界生命體。大多數形態不固定。類似影子或霧氣的存在。但其中亦存在擁有展開紅之結界能力的個體，或與協助成員一樣擁有獨特外型的強力個體。
+**Nightfly O'Note -** 紅之世界的住民，侵略性異世界生命體。大多數形態不固定。類似影子或霧氣的存在。但其中亦存在擁有展開紅之結界能力的個體，或與協助成員一樣擁有獨特外型的強力個體。
 
-**Resonance -** 為了對抗Nightfly
-O'Note，主要成員和協助成員為了成為紅傷騎士發生共鳴而融合變身，以主要成員的身體和協助成員的大腦共同組成騎士。【融合變身】狀態下有著超越常人幾十倍的能力，但是持續時間太久會對主要成員和協助成員的身心都造成傷害，所以極限是30分鐘。然而就算如此，隨著共鳴次數的推進，協助成員們的精神或多会少會侵蝕作為本體的主要成員，並對其人格產生影響。順便還有一點，被協助成員認可的人右手（慣用手）會有一個被稱為“紅傷Scared”的十字傷痕，雙方在進行共鳴之後通過將特殊的耳機插口插入這個傷痕來進行融合變身。
+**Resonance -** 為了對抗Nightfly O'Note，主要成員和協助成員為了成為紅傷騎士發生共鳴而融合變身，以主要成員的身體和協助成員的大腦共同組成騎士。【融合變身】狀態下有著超越常人幾十倍的能力，但是持續時間太久會對主要成員和協助成員的身心都造成傷害，所以極限是30分鐘。然而就算如此，隨著共鳴次數的推進，協助成員們的精神或多会少會侵蝕作為本體的主要成員，並對其人格產生影響。順便還有一點，被協助成員認可的人右手（慣用手）會有一個被稱為“紅傷Scared”的十字傷痕，雙方在進行共鳴之後通過將特殊的耳機插口插入這個傷痕來進行融合變身。
 
-**VOX -** 這是作為SRX作戰據點的航空艦。裝載於其上的武器「錨」可以消滅Nightfly
-O'Note制造的紅之結界，同時讓被紅之世界侵蝕的青之世界恢復原狀。
+**VOX -** 這是作為SRX作戰據點的航空艦。裝載於其上的武器「錨」可以消滅Nightfly O'Note制造的紅之結界，同時讓被紅之世界侵蝕的青之世界恢復原狀。
 
 **Anchor -** 通過VOX激發的對位相差兵器，可奪回被拉入紅之世界的青之世界。Anchor的發射由指揮官決定並執行。
 
@@ -128,12 +106,9 @@ O'Note制造的紅之結界，同時讓被紅之世界侵蝕的青之世界恢�
 
 ## 系列遊戲
 
-雖然是乙女遊戲但是擁有不太像戀愛冒險遊戲的硬派世界觀。結成戰鬥單元與異世界的侵略者殊死決戰，執行游玩者下達的“愛”與“死”的命令，承擔與Nightfly
-O'Note融合進行戰鬥時被侵入神經以至於發狂的風險，伙伴之間的信任和背叛，以及神消失後的世界中隱藏的謎，是一部由諸多元素所組成的戰隊英雄主題王道熱血劇情作。遊戲中騎士們的變身場景和特殊VTOL（垂直起降機）「VOX」的必殺技採用了動畫來表現。不過遊戲中也有大量爆笑的校園日常劇情，在這方面上除了遊戲，還有Drama
-CD也展現出了角色們的獨特性格。而外傳XENON則以前代的視角更多的著墨與世界觀和設定的補完。
+雖然是乙女遊戲但是擁有不太像戀愛冒險遊戲的硬派世界觀。結成戰鬥單元與異世界的侵略者殊死決戰，執行游玩者下達的“愛”與“死”的命令，承擔與Nightfly O'Note融合進行戰鬥時被侵入神經以至於發狂的風險，伙伴之間的信任和背叛，以及神消失後的世界中隱藏的謎，是一部由諸多元素所組成的戰隊英雄主題王道熱血劇情作。遊戲中騎士們的變身場景和特殊VTOL（垂直起降機）「VOX」的必殺技採用了動畫來表現。不過遊戲中也有大量爆笑的校園日常劇情，在這方面上除了遊戲，還有Drama CD也展現出了角色們的獨特性格。而外傳XENON則以前代的視角更多的著墨與世界觀和設定的補完。
 
-音樂是該系列的一大要素在故事中也有著非常重要的地位。紅之世界原本不存在音樂，而最初的協助成員「EPIPHONE」就是受到這一文化吸引而出現，登場角色也在日常的環節中組成了樂隊「Odd-I'
-s」。也因此誕生了諸多風格各異的角色歌。
+音樂是該系列的一大要素在故事中也有著非常重要的地位。紅之世界原本不存在音樂，而最初的協助成員「EPIPHONE」就是受到這一文化吸引而出現，登場角色也在日常的環節中組成了樂隊「Odd-I' s」。也因此誕生了諸多風格各異的角色歌。
 
 ### Scared Rider Xechs
 
@@ -1232,23 +1207,12 @@ Hwang Yeongsik</p></td>
 ## 外部連結
 
   - [遊戲「Scared Rider Xechs」官方網頁](http://scared-rider-xechs.jp/)
-  - [電視動畫「Scared Rider
-    Xechs」官方網頁](https://web.archive.org/web/20160605085417/http://scared-rider-xechs.jp/pr/)
+  - [電視動畫「Scared Rider Xechs」官方網頁](https://web.archive.org/web/20160605085417/http://scared-rider-xechs.jp/pr/)
   - [Scared Rider Xechs 的官方Twitter](https://twitter.com/RED_SRX) 遊戲推特
-  - [Scared Rider Xechs 動畫的官方Twitter](https://twitter.com/SRX_LAG_PR)
-    動畫推特
+  - [Scared Rider Xechs 動畫的官方Twitter](https://twitter.com/SRX_LAG_PR) 動畫推特
   - [アニメSRX音楽サイト](http://5pb.jp/records/animesrxmusic/) 動畫音樂特設頁
 
-[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink")
-[Category:Red_Entertainment游戏](https://zh.wikipedia.org/wiki/Category:Red_Entertainment游戏 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
-[Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink")
+[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:Red_Entertainment游戏](https://zh.wikipedia.org/wiki/Category:Red_Entertainment游戏 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink")
 
 1.
 2.

@@ -1,6 +1,4 @@
-《**anone**》，2018年1月10日起於[日本電視台](../Page/日本電視台.md "wikilink")「[水10](../Page/日本電視台週三連續劇.md "wikilink")」時段（22:00
--
-22:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[坂元裕二編劇](../Page/坂元裕二.md "wikilink")、[廣瀨鈴主演](../Page/廣瀨鈴.md "wikilink")\[1\]\[2\]。此劇為日本電視台繼《[Mother](../Page/Mother_\(電視劇\).md "wikilink")》、《[Woman](../Page/Woman_\(電視劇\).md "wikilink")》後，第三度集結同製作班底與演員[田中裕子所拍攝的電視劇](../Page/田中裕子.md "wikilink")\[3\]。
+《**anone**》，2018年1月10日起於[日本電視台](../Page/日本電視台.md "wikilink")「[水10](../Page/日本電視台週三連續劇.md "wikilink")」時段（22:00 - 22:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[坂元裕二](../Page/坂元裕二.md "wikilink")編劇、[廣瀨鈴](../Page/廣瀨鈴.md "wikilink")主演\[1\]\[2\]。此劇為日本電視台繼《[Mother](../Page/Mother_\(電視劇\).md "wikilink")》、《[Woman](../Page/Woman_\(電視劇\).md "wikilink")》後，第三度集結同製作班底與演員[田中裕子](../Page/田中裕子.md "wikilink")所拍攝的電視劇\[3\]。
 
 ## 登場人物
 
@@ -182,7 +180,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2018<a href="../Page/CONFiDENCE日劇大獎.md" title="wikilink">CONFiDENCE日劇大獎年度大獎</a></p></td>
+<td><p>2018<a href="../Page/CONFiDENCE日劇大獎.md" title="wikilink">CONFiDENCE日劇大獎</a>年度大獎</p></td>
 <td><p>女配角賞</p></td>
 <td><p>田中裕子</p></td>
 <td></td>
@@ -198,13 +196,7 @@
 
   -
   -
-[Category:日本電視台週三晚間十點連續劇](https://zh.wikipedia.org/wiki/Category:日本電視台週三晚間十點連續劇 "wikilink")
-[Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink")
-[Category:坂元裕二劇本作品](https://zh.wikipedia.org/wiki/Category:坂元裕二劇本作品 "wikilink")
-[Category:偽造貨幣題材作品](https://zh.wikipedia.org/wiki/Category:偽造貨幣題材作品 "wikilink")
-[Category:2010年代背景電視節目](https://zh.wikipedia.org/wiki/Category:2010年代背景電視節目 "wikilink")
-[Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink")
-[Category:日本犯罪劇](https://zh.wikipedia.org/wiki/Category:日本犯罪劇 "wikilink")
+[Category:日本電視台週三晚間十點連續劇](https://zh.wikipedia.org/wiki/Category:日本電視台週三晚間十點連續劇 "wikilink") [Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink") [Category:坂元裕二劇本作品](https://zh.wikipedia.org/wiki/Category:坂元裕二劇本作品 "wikilink") [Category:偽造貨幣題材作品](https://zh.wikipedia.org/wiki/Category:偽造貨幣題材作品 "wikilink") [Category:2010年代背景電視節目](https://zh.wikipedia.org/wiki/Category:2010年代背景電視節目 "wikilink") [Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink") [Category:日本犯罪劇](https://zh.wikipedia.org/wiki/Category:日本犯罪劇 "wikilink")
 
 1.
 

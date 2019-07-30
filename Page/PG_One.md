@@ -1,12 +1,8 @@
-**PG
-One**（），本名**王昊**，[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[饶舌歌手](https://zh.wikipedia.org/wiki/饶舌歌手 "wikilink")，2017年與[GAI同获](../Page/GAI.md "wikilink")《[中国有嘻哈](../Page/中国有嘻哈.md "wikilink")》第一季冠军而受到关注。\[1\]后因疑介入艺人[贾乃亮与](../Page/贾乃亮.md "wikilink")[李小璐婚姻而备受争议](../Page/李小璐.md "wikilink")\[2\]\[3\]\[4\]\[5\]。
+**PG One**（），本名**王昊**，[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[饶舌歌手](https://zh.wikipedia.org/wiki/饶舌歌手 "wikilink")，2017年與[GAI](../Page/GAI.md "wikilink")同获《[中国有嘻哈](../Page/中国有嘻哈.md "wikilink")》第一季冠军而受到关注。\[1\]后因疑介入艺人[贾乃亮](../Page/贾乃亮.md "wikilink")与[李小璐](../Page/李小璐.md "wikilink")婚姻而备受争议\[2\]\[3\]\[4\]\[5\]。
 
 ## 艺名由来
 
-PG
-ONE表示，个人最愛[籃球運動](https://zh.wikipedia.org/wiki/籃球 "wikilink")，最喜爱的陣容位置是「控球後衛」，英文称「PG」（Point
-Guard），「ONE」意为第一，他凡事争第一。\[6\] 另外，PG ONE在参加“干一票”battle比赛时介绍过名字含义：“P is
-power, G is gun, remember my name xxxxxx One"。
+PG ONE表示，个人最愛[籃球運動](https://zh.wikipedia.org/wiki/籃球 "wikilink")，最喜爱的陣容位置是「控球後衛」，英文称「PG」（Point Guard），「ONE」意为第一，他凡事争第一。\[6\] 另外，PG ONE在参加“干一票”battle比赛时介绍过名字含义：“P is power, G is gun, remember my name xxxxxx One"。
 
 ## 早年经历
 
@@ -18,14 +14,11 @@ power, G is gun, remember my name xxxxxx One"。
 
 2014年，参加《狗咬狗》地下battle比赛，获得冠军。\[14\]
 
-2015年，获得《地下八英里》比赛东北赛区冠军及全国总决赛亚军\[15\]，并开始发行单曲，《$o what》、《New
-p》、《中二病》等；同年12月参加红花会主办的地下battle《幹一票》比赛，获得全国总冠军，并因此契机加入红花会。\[16\]
+2015年，获得《地下八英里》比赛东北赛区冠军及全国总决赛亚军\[15\]，并开始发行单曲，《$o what》、《New p》、《中二病》等；同年12月参加红花会主办的地下battle《幹一票》比赛，获得全国总冠军，并因此契机加入红花会。\[16\]
 
 2016年，发行《Number (remix)》、《Junky Mouth》、《Real Talk？》、《地平线》等单曲。
 
-2017年，1月发行《How you like me now》、《COCO MADE ME DO IT
-REMIX》，5月参加爱奇艺选秀节目《中国有嘻哈》\[17\]，获得全国总决赛冠军\[18\]\[19\]
-\[20\]。期间参加西安\[21\]\[22\]和杭州草莓音乐节\[23\]、成都MDSK音乐节\[24\]\[25\]，8月参加了中国大型综艺节目《快本》的录制\[26\]。10月，开始美国巡演。\[27\]
+2017年，1月发行《How you like me now》、《COCO MADE ME DO IT REMIX》，5月参加爱奇艺选秀节目《中国有嘻哈》\[17\]，获得全国总决赛冠军\[18\]\[19\] \[20\]。期间参加西安\[21\]\[22\]和杭州草莓音乐节\[23\]、成都MDSK音乐节\[24\]\[25\]，8月参加了中国大型综艺节目《快本》的录制\[26\]。10月，开始美国巡演。\[27\]
 
 ## 音樂作品
 
@@ -122,28 +115,17 @@ REMIX》，5月参加爱奇艺选秀节目《中国有嘻哈》\[17\]，获得�
 
 ## 争议
 
-2017年12月29日晚，媒體拍到PG
-One和[賈乃亮之妻](https://zh.wikipedia.org/wiki/賈乃亮 "wikilink")[李小璐亲密挽手同返PG](../Page/李小璐.md "wikilink")
-One家中，李小璐一夜未出，PG
-One於第二天清晨送她-{回家}-。此「夜宿门」事件被爆出后，在网络上迅速发酵，并引发诸多猜测\[56\]\[57\]\[58\]。
+2017年12月29日晚，媒體拍到PG One和[賈乃亮之妻](https://zh.wikipedia.org/wiki/賈乃亮 "wikilink")[李小璐](../Page/李小璐.md "wikilink")亲密挽手同返PG One家中，李小璐一夜未出，PG One於第二天清晨送她-{回家}-。此「夜宿门」事件被爆出后，在网络上迅速发酵，并引发诸多猜测\[56\]\[57\]\[58\]。
 
-2018年1月4日，《[中国妇女报](https://zh.wikipedia.org/wiki/中国妇女报 "wikilink")》发表[评论员文章](https://zh.wikipedia.org/wiki/评论员 "wikilink")，指PG
-One早期歌曲《圣诞夜》中部分歌词涉嫌教唆[青少年](../Page/青少年.md "wikilink")[吸毒与侮辱妇女](https://zh.wikipedia.org/wiki/吸毒 "wikilink")。\[59\]此后多家中国媒体对此报道，《[新华网](../Page/新华网.md "wikilink")》、[共青团中央等多方对此点名批评](https://zh.wikipedia.org/wiki/中国共青团 "wikilink")。\[60\]\[61\]\[62\]\[63\]\[64\]该事件引起了嘻哈圈广泛关注，1月4日晚，PG
-One在[微博上道歉](../Page/新浪微博.md "wikilink")，自称“早期接触嘻哈文化受黑人音乐影响深厚，对核心价值理解偏颇。”\[65\]并将其歌曲
-《圣诞夜》在音乐网站下线，并表示，已全网主动下架所有歌曲等重新审核再上架。\[66\]
+2018年1月4日，《[中国妇女报](https://zh.wikipedia.org/wiki/中国妇女报 "wikilink")》发表[评论员文章](https://zh.wikipedia.org/wiki/评论员 "wikilink")，指PG One早期歌曲《圣诞夜》中部分歌词涉嫌教唆[青少年](../Page/青少年.md "wikilink")[吸毒与侮辱妇女](https://zh.wikipedia.org/wiki/吸毒 "wikilink")。\[59\]此后多家中国媒体对此报道，《[新华网](../Page/新华网.md "wikilink")》、[共青团中央等多方对此点名批评](https://zh.wikipedia.org/wiki/中国共青团 "wikilink")。\[60\]\[61\]\[62\]\[63\]\[64\]该事件引起了嘻哈圈广泛关注，1月4日晚，PG One在[微博上道歉](../Page/新浪微博.md "wikilink")，自称“早期接触嘻哈文化受黑人音乐影响深厚，对核心价值理解偏颇。”\[65\]并将其歌曲 《圣诞夜》在音乐网站下线，并表示，已全网主动下架所有歌曲等重新审核再上架。\[66\]
 
-原定2018年1月6日晚于[湖南](https://zh.wikipedia.org/wiki/湖南 "wikilink")[长沙举办中国有嘻哈LIVE巡回演唱会](https://zh.wikipedia.org/wiki/长沙 "wikilink")，但演出官方后宣布，作为参演嘉宾的PG
-One因不可抗力因素无法参加演出，演出海报上的PG
-One的位置也遭到[马赛克处理](https://zh.wikipedia.org/wiki/马赛克 "wikilink")。PG
-One在微博上发布的广告代言视频也均被刪除\[67\]。
+原定2018年1月6日晚于[湖南](https://zh.wikipedia.org/wiki/湖南 "wikilink")[长沙举办中国有嘻哈LIVE巡回演唱会](https://zh.wikipedia.org/wiki/长沙 "wikilink")，但演出官方后宣布，作为参演嘉宾的PG One因不可抗力因素无法参加演出，演出海报上的PG One的位置也遭到[马赛克处理](https://zh.wikipedia.org/wiki/马赛克 "wikilink")。PG One在微博上发布的广告代言视频也均被刪除\[67\]。
 
-2018年4月24日，PG
-One于[微博上宣告即將復出](../Page/微博.md "wikilink")，稱「往後音樂上見，作品替我說話」\[68\]。
+2018年4月24日，PG One于[微博](../Page/微博.md "wikilink")上宣告即將復出，稱「往後音樂上見，作品替我說話」\[68\]。
 
 ## 影响
 
-疑似受PG
-One负面新闻的影响，中国的嘻哈音乐市场面临全面整顿，GAI原定参加音乐节目《[歌手2018](../Page/歌手2018.md "wikilink")》，也不得不从当晚录制的第一轮踢馆赛开始退出比赛，已录制第一轮淘汰赛则会将其镜头全数删除\[69\]。
+疑似受PG One负面新闻的影响，中国的嘻哈音乐市场面临全面整顿，GAI原定参加音乐节目《[歌手2018](../Page/歌手2018.md "wikilink")》，也不得不从当晚录制的第一轮踢馆赛开始退出比赛，已录制第一轮淘汰赛则会将其镜头全数删除\[69\]。
 
 ## 注释
 
@@ -154,13 +136,7 @@ One负面新闻的影响，中国的嘻哈音乐市场面临全面整顿，GAI�
 ## 外部链接
 
   -
-[Category:21世紀歌手](https://zh.wikipedia.org/wiki/Category:21世紀歌手 "wikilink")
-[Category:中國創作歌手](https://zh.wikipedia.org/wiki/Category:中國創作歌手 "wikilink")
-[Category:中國饒舌歌手](https://zh.wikipedia.org/wiki/Category:中國饒舌歌手 "wikilink")
-[Category:中國男歌手](https://zh.wikipedia.org/wiki/Category:中國男歌手 "wikilink")
-[Category:華語歌手](https://zh.wikipedia.org/wiki/Category:華語歌手 "wikilink")
-[Category:王姓](https://zh.wikipedia.org/wiki/Category:王姓 "wikilink")
-[Category:肇東人](https://zh.wikipedia.org/wiki/Category:肇東人 "wikilink")
+[Category:21世紀歌手](https://zh.wikipedia.org/wiki/Category:21世紀歌手 "wikilink") [Category:中國創作歌手](https://zh.wikipedia.org/wiki/Category:中國創作歌手 "wikilink") [Category:中國饒舌歌手](https://zh.wikipedia.org/wiki/Category:中國饒舌歌手 "wikilink") [Category:中國男歌手](https://zh.wikipedia.org/wiki/Category:中國男歌手 "wikilink") [Category:華語歌手](https://zh.wikipedia.org/wiki/Category:華語歌手 "wikilink") [Category:王姓](https://zh.wikipedia.org/wiki/Category:王姓 "wikilink") [Category:肇東人](https://zh.wikipedia.org/wiki/Category:肇東人 "wikilink")
 
 1.
 

@@ -1,4 +1,4 @@
-是[日本開發的奇幻主題的問答類](../Page/日本.md "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，對應[Android和](../Page/Android.md "wikilink")[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")。繁體中文版由[so-net於](https://zh.wikipedia.org/wiki/so-net "wikilink")2015年開始營運。
+是[日本](../Page/日本.md "wikilink")開發的奇幻主題的問答類[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，對應[Android](../Page/Android.md "wikilink")和[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")。繁體中文版由[so-net於](https://zh.wikipedia.org/wiki/so-net "wikilink")2015年開始營運。
 
 ## 系統設定
 
@@ -18,8 +18,7 @@
 
 ### 中國大陸
 
-遊戲由Accessport和北京摩游在中國大陸中文化並代理，因中國大陸不普及[Google
-Play](../Page/Google_Play.md "wikilink")，遊戲投放到[360手機助手等第三方軟體市場發行](https://zh.wikipedia.org/wiki/360手機助手 "wikilink")，中國大陸已於2015年6月11日停運。
+遊戲由Accessport和北京摩游在中國大陸中文化並代理，因中國大陸不普及[Google Play](../Page/Google_Play.md "wikilink")，遊戲投放到[360手機助手等第三方軟體市場發行](https://zh.wikipedia.org/wiki/360手機助手 "wikilink")，中國大陸已於2015年6月11日停運。
 
 ### 台港澳
 
@@ -53,15 +52,13 @@ Play](../Page/Google_Play.md "wikilink")，遊戲投放到[360手機助手等第
 
   - <span id="巴隆‧萊歐納爾"></span>
 
-    港町
-    托爾里卡的公會會長，種族為亞人，外表是一頭公[獅](https://zh.wikipedia.org/wiki/獅 "wikilink")。是主角第一個遇見的公會會長。
+    港町 托爾里卡的公會會長，種族為亞人，外表是一頭公[獅](https://zh.wikipedia.org/wiki/獅 "wikilink")。是主角第一個遇見的公會會長。
 
 <!-- end list -->
 
   - <span id="亞力克‧路米納雷斯"></span>
 
-    王都
-    維里多納的公會會長，種族為術士。天文學家，因為外表出眾，異性緣佳，但也因此常招來麻煩。似乎是來自異界，最早發現主角與黑貓（維茲）的真實身份。
+    王都 維里多納的公會會長，種族為術士。天文學家，因為外表出眾，異性緣佳，但也因此常招來麻煩。似乎是來自異界，最早發現主角與黑貓（維茲）的真實身份。
 
 <!-- end list -->
 
@@ -115,31 +112,26 @@ Play](../Page/Google_Play.md "wikilink")，遊戲投放到[360手機助手等第
 
 遊戲下載量在2015年5月突破3400萬，目前官方公布下載量為4000萬(2017年10月20日達成)。
 
-繁中版推出3個月後下載量達到100萬。目前(2018年8月)在Google Play上的評價為4.3(滿分為5)；在App
-Store上的評價為3.9(滿分為5)。
+繁中版推出3個月後下載量達到100萬。目前(2018年8月)在Google Play上的評價為4.3(滿分為5)；在App Store上的評價為3.9(滿分為5)。
 
 ## 相關書籍
 
   - <span id="魔法使與黑貓維茲 3週年紀念公式畫集"></span>
-    (日本[巴而可集團出版](../Page/巴而可.md "wikilink")，2016年10月30日發售、ISBN 9784865061888)
+    (日本[巴而可](../Page/巴而可.md "wikilink")集團出版，2016年10月30日發售、ISBN 9784865061888)
     紀念遊戲推出三周年而發行的畫集。收錄人氣投票前150名的角色。
 
 <!-- end list -->
 
   - <span id="魔法使與黑貓維茲 3週年紀念公式設定資料集"></span>
-    (日本[巴而可集團出版](../Page/巴而可.md "wikilink")，2016年10月30日發售、ISBN 9784865061895)
+    (日本[巴而可](../Page/巴而可.md "wikilink")集團出版，2016年10月30日發售、ISBN 9784865061895)
     紀念遊戲推出三周年而發行的公式設定資料集。
 
 ## 參考文獻
 
-  - [問答型益智
-    RPG《黑貓維茲》預計將於三月中文化進軍中國大陸](http://gnn.gamer.com.tw/5/92935.html)
-  - [《問答RPG
-    魔法使與黑貓維茲》iOS版本正式上架](http://game.ettoday.net/article/473153.htm)
-  - [《問答RPG
-    魔法使與黑貓維茲》搭檔《白猫Project》任家姊妹合體代言](http://www.chinatimes.com/realtimenews/20150114004264-260412)
-  - [《問答 RPG 魔法使與黑貓維茲》突破百萬下載
-    全新地圖同步開放](http://gnn.gamer.com.tw/4/113944.html)
+  - [問答型益智 RPG《黑貓維茲》預計將於三月中文化進軍中國大陸](http://gnn.gamer.com.tw/5/92935.html)
+  - [《問答RPG 魔法使與黑貓維茲》iOS版本正式上架](http://game.ettoday.net/article/473153.htm)
+  - [《問答RPG 魔法使與黑貓維茲》搭檔《白猫Project》任家姊妹合體代言](http://www.chinatimes.com/realtimenews/20150114004264-260412)
+  - [《問答 RPG 魔法使與黑貓維茲》突破百萬下載 全新地圖同步開放](http://gnn.gamer.com.tw/4/113944.html)
 
 ## 外部連結
 
@@ -152,8 +144,4 @@ Store上的評價為3.9(滿分為5)。
 
   -
 
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
-[Category:益智游戏](https://zh.wikipedia.org/wiki/Category:益智游戏 "wikilink")
+[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:益智游戏](https://zh.wikipedia.org/wiki/Category:益智游戏 "wikilink")

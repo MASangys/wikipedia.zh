@@ -1,9 +1,4 @@
-**Insomniac
-Games**是一家位于美国加州[伯班克的电子游戏开发公司](../Page/伯班克_\(加利福尼亚州\).md "wikilink")，公司最早以“**Xtreme
-Software**”之名在1994年成立，一年后更改为现名称。\[1\]公司令人熟知的游戏作品有《[-{zh-cn:小龙斯派罗;zh-hant:寶貝龍
-Spyro the
-Dragon;}-](../Page/寶貝龍_Spyro_the_Dragon系列.md "wikilink")》系列、《[-{zh-cn:瑞奇与叮当;zh-hant:拉捷特與克拉克;}-](../Page/拉捷特與克拉克系列.md "wikilink")》系列、《》系列等。公司虽然大部分作品由[索尼互动娱乐发行](https://zh.wikipedia.org/wiki/索尼互动娱乐 "wikilink")，但其自身一直保持独立；它也为[微软制作过](https://zh.wikipedia.org/wiki/微软工作室 "wikilink")[Xbox
-One的](../Page/Xbox_One.md "wikilink")《[日落过载](../Page/日落过载.md "wikilink")》以及交给第三方发行的《》等作品。
+**Insomniac Games**是一家位于美国加州[伯班克的电子游戏开发公司](../Page/伯班克_\(加利福尼亚州\).md "wikilink")，公司最早以“**Xtreme Software**”之名在1994年成立，一年后更改为现名称。\[1\]公司令人熟知的游戏作品有《[-{zh-cn:小龙斯派罗;zh-hant:寶貝龍 Spyro the Dragon;}-](../Page/寶貝龍_Spyro_the_Dragon系列.md "wikilink")》系列、《[-{zh-cn:瑞奇与叮当;zh-hant:拉捷特與克拉克;}-](../Page/拉捷特與克拉克系列.md "wikilink")》系列、《》系列等。公司虽然大部分作品由[索尼互动娱乐发行](https://zh.wikipedia.org/wiki/索尼互动娱乐 "wikilink")，但其自身一直保持独立；它也为[微软制作过](https://zh.wikipedia.org/wiki/微软工作室 "wikilink")[Xbox One的](../Page/Xbox_One.md "wikilink")《[日落过载](../Page/日落过载.md "wikilink")》以及交给第三方发行的《》等作品。
 
 ## 公司作品
 
@@ -213,7 +208,7 @@ Slow Down, Bull</p></td>
 <a href="https://zh.wikipedia.org/wiki/益智游戏" title="wikilink">益智</a></p></td>
 <td><p>Insomniac Games</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Windows" title="wikilink">Windows</a></p></td>
-<td><p>通过网络游戏商店<a href="../Page/Steam.md" title="wikilink">Steam销售</a></p></td>
+<td><p>通过网络游戏商店<a href="../Page/Steam.md" title="wikilink">Steam</a>销售</p></td>
 </tr>
 <tr class="even">
 <td><p>水果狂热<br />
@@ -307,16 +302,8 @@ Spider-Man</p></td>
 ## 外部链接
 
   -
-[Category:1994年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1994年開業電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
-[Category:加利福尼亚州娱乐公司](https://zh.wikipedia.org/wiki/Category:加利福尼亚州娱乐公司 "wikilink")
+[Category:1994年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1994年開業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:加利福尼亚州娱乐公司](https://zh.wikipedia.org/wiki/Category:加利福尼亚州娱乐公司 "wikilink")
 
-1.  [ALWAYS
-    INDEPENDENT](http://www.ign.com/articles/2012/09/28/always-independent-the-story-of-insomniac-games).IGN.2012-09-28.\[2017-07-10\].
-2.  [Ratchet & Clank Update: Full Frontal Assault and
-    Deadlocked](https://blog.us.playstation.com/2013/02/07/update-ratchet-clank-full-frontal-assault-for-ps-vita-coming-this-spring/).PlayStation
-    Blog.2013-02-07.\[2017-07-10\].
-3.  ["Millions" Played It, But Ratchet & Clank Dev's Outernauts Is
-    Shutting
-    Down](https://www.gamespot.com/articles/millions-played-it-but-ratchet-and-clank-devs-oute/1100-6433055/).GameSpot.2015-12-11.\[2017-07-10\].
+1.  [ALWAYS INDEPENDENT](http://www.ign.com/articles/2012/09/28/always-independent-the-story-of-insomniac-games).IGN.2012-09-28.\[2017-07-10\].
+2.  [Ratchet & Clank Update: Full Frontal Assault and Deadlocked](https://blog.us.playstation.com/2013/02/07/update-ratchet-clank-full-frontal-assault-for-ps-vita-coming-this-spring/).PlayStation Blog.2013-02-07.\[2017-07-10\].
+3.  ["Millions" Played It, But Ratchet & Clank Dev's Outernauts Is Shutting Down](https://www.gamespot.com/articles/millions-played-it-but-ratchet-and-clank-devs-oute/1100-6433055/).GameSpot.2015-12-11.\[2017-07-10\].

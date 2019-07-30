@@ -1,5 +1,4 @@
-本电子游戏列表列举了[SNK](../Page/SNK.md "wikilink") [Neo Geo Pocket
-Color的](https://zh.wikipedia.org/wiki/Neo_Geo_Pocket_Color "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")。
+本电子游戏列表列举了[SNK](../Page/SNK.md "wikilink") [Neo Geo Pocket Color的](https://zh.wikipedia.org/wiki/Neo_Geo_Pocket_Color "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")。
 
 ## 游戏列表
 
@@ -794,5 +793,4 @@ Color的](https://zh.wikipedia.org/wiki/Neo_Geo_Pocket_Color "wikilink")[电子�
 
 ## 参考资料
 
-[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
-[Category:Neo_Geo_Pocket_Color遊戲](https://zh.wikipedia.org/wiki/Category:Neo_Geo_Pocket_Color遊戲 "wikilink")
+[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink") [Category:Neo_Geo_Pocket_Color遊戲](https://zh.wikipedia.org/wiki/Category:Neo_Geo_Pocket_Color遊戲 "wikilink")

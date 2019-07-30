@@ -1,10 +1,8 @@
-是《[精靈寶可夢](https://zh.wikipedia.org/wiki/精靈寶可夢 "wikilink")》系列電視動畫特別篇，改編自系列第一作《[精靈寶可夢
-紅·綠](../Page/精靈寶可夢_紅·綠.md "wikilink")》。
+是《[精靈寶可夢](https://zh.wikipedia.org/wiki/精靈寶可夢 "wikilink")》系列電視動畫特別篇，改編自系列第一作《[精靈寶可夢 紅·綠](../Page/精靈寶可夢_紅·綠.md "wikilink")》。
 
 ## 作品概要
 
-本動畫為[東京電視台開台五十週年特別企劃之一](../Page/東京電視台.md "wikilink")\[1\]，是《[精靈寶可夢
-X·Y](https://zh.wikipedia.org/wiki/精靈寶可夢_X·Y "wikilink")》發售前的連動企劃。故事以赤紅為主角，描述他蒐集寶可夢圖鑑的旅程，與以小智為主角的主系列電視動畫完全無關，風格也大相逕庭。
+本動畫為[東京電視台](../Page/東京電視台.md "wikilink")開台五十週年特別企劃之一\[1\]，是《[精靈寶可夢 X·Y](https://zh.wikipedia.org/wiki/精靈寶可夢_X·Y "wikilink")》發售前的連動企劃。故事以赤紅為主角，描述他蒐集寶可夢圖鑑的旅程，與以小智為主角的主系列電視動畫完全無關，風格也大相逕庭。
 
 ## 故事大綱
 
@@ -39,22 +37,17 @@ X·Y](https://zh.wikipedia.org/wiki/精靈寶可夢_X·Y "wikilink")》發售前
 ## 製作人員
 
   - 監督
-      - 1話 - [川崎逸朗](../Page/川崎逸朗.md "wikilink")（[Production
-        I.G](../Page/Production_I.G.md "wikilink")）
+      - 1話 - [川崎逸朗](../Page/川崎逸朗.md "wikilink")（[Production I.G](../Page/Production_I.G.md "wikilink")）
       - 2話 - 黒田幸生（[XEBEC](../Page/XEBEC.md "wikilink")）
       - 3話 - 高橋秀彌（XEBEC）
-      - 4話 -
-        [冨安大貴](https://zh.wikipedia.org/wiki/冨安大貴 "wikilink")（[OLM](../Page/OLM.md "wikilink")）
-  - 原案 -
-    [田尻智](../Page/田尻智.md "wikilink")、[増田順一](https://zh.wikipedia.org/wiki/増田順一 "wikilink")
+      - 4話 - [冨安大貴](https://zh.wikipedia.org/wiki/冨安大貴 "wikilink")（[OLM](../Page/OLM.md "wikilink")）
+  - 原案 - [田尻智](../Page/田尻智.md "wikilink")、[増田順一](https://zh.wikipedia.org/wiki/増田順一 "wikilink")
   - 監察人 - [石原恒和](https://zh.wikipedia.org/wiki/石原恒和 "wikilink")
   - 企劃 - 伊藤憲二郎
   - 製作人 - 宮原俊雄、野本岳志
   - 動畫製作 - OLM、Production I.G、XEBEC
-  - 協力 -
-    [任天堂](../Page/任天堂.md "wikilink")、[東京電視台](../Page/東京電視台.md "wikilink")、ジェイアール東日本企画
-  - 製作 - [精靈寶可夢
-    (企業)](https://zh.wikipedia.org/wiki/精靈寶可夢_\(企業\) "wikilink")
+  - 協力 - [任天堂](../Page/任天堂.md "wikilink")、[東京電視台](../Page/東京電視台.md "wikilink")、ジェイアール東日本企画
+  - 製作 - [精靈寶可夢 (企業)](https://zh.wikipedia.org/wiki/精靈寶可夢_\(企業\) "wikilink")
 
 ## 各話列表
 
@@ -118,7 +111,6 @@ X·Y](https://zh.wikipedia.org/wiki/精靈寶可夢_X·Y "wikilink")》發售前
 
   - [精靈寶可夢 THE ORIGIN 官方網站](http://www.pokemon.co.jp/ex/origin/)
 
-[Category:精靈寶可夢系列_(動畫)](https://zh.wikipedia.org/wiki/Category:精靈寶可夢系列_\(動畫\) "wikilink")
-[Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink")
+[Category:精靈寶可夢系列_(動畫)](https://zh.wikipedia.org/wiki/Category:精靈寶可夢系列_\(動畫\) "wikilink") [Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink")
 
 1.

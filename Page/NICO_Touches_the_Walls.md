@@ -1,5 +1,4 @@
-**NICO Touches the Walls**是2004年組成的日本搖滾樂團。2007年在[Sony
-Music旗下的](../Page/日本索尼音樂娛樂.md "wikilink")主流出道。
+**NICO Touches the Walls**是2004年組成的日本搖滾樂團。2007年在[Sony Music旗下的](../Page/日本索尼音樂娛樂.md "wikilink")主流出道。
 
 ## 成員
 
@@ -8,10 +7,9 @@ Music旗下的](../Page/日本索尼音樂娛樂.md "wikilink")主流出道。
 <!-- end list -->
 
   - 樂團主唱和吉他手，幾乎所有歌曲都由光村作詞作曲。[血型為](https://zh.wikipedia.org/wiki/血型 "wikilink")[AB型](../Page/ABO血型系统.md "wikilink")。暱稱是『みっちゃん』。出身地為[千葉縣](../Page/千葉縣.md "wikilink")[浦安市](../Page/浦安市.md "wikilink")。家裡有父母和妹妹。高中時參加過熱音社。
-  - 因為崇拜[SPITZ的關係](../Page/SPITZ.md "wikilink")，從小學三年級就開始作曲。另外也曾經公開表示是[南方之星的粉絲](../Page/南方之星.md "wikilink")。
+  - 因為崇拜[SPITZ](../Page/SPITZ.md "wikilink")的關係，從小學三年級就開始作曲。另外也曾經公開表示是[南方之星](../Page/南方之星.md "wikilink")的粉絲。
   - 發行過的歌曲中有許多中學時期獨自或和樂團一起製作的歌曲（「病気」、「雨のブルース」、「雲空の悪魔」、「」等等）。
-  - 使用的器材為[芬達的](../Page/芬達樂器公司.md "wikilink")[Telecaster](https://zh.wikipedia.org/wiki/Telecaster "wikilink")、、[Stratocaster](../Page/Fender_Stratocaster.md "wikilink")、等等。在2013年的11月25日（イイニコ(iinico)之日）的演唱會中主要使用了[吉普森結他公司的復刻版吉他和Gibson](https://zh.wikipedia.org/wiki/吉普森結他公司 "wikilink")
-    ES325（因為是在[栃木縣買的紅色吉他所以取了](../Page/栃木縣.md "wikilink")「とちおとめ」的暱稱）。
+  - 使用的器材為[芬達的](../Page/芬達樂器公司.md "wikilink")[Telecaster](https://zh.wikipedia.org/wiki/Telecaster "wikilink")、、[Stratocaster](../Page/Fender_Stratocaster.md "wikilink")、等等。在2013年的11月25日（イイニコ(iinico)之日）的演唱會中主要使用了[吉普森結他公司的復刻版吉他和Gibson](https://zh.wikipedia.org/wiki/吉普森結他公司 "wikilink") ES325（因為是在[栃木縣](../Page/栃木縣.md "wikilink")買的紅色吉他所以取了「とちおとめ」的暱稱）。
 
 <!-- end list -->
 
@@ -19,10 +17,8 @@ Music旗下的](../Page/日本索尼音樂娛樂.md "wikilink")主流出道。
 
 <!-- end list -->
 
-  - 樂團中擔任吉他手。有一部分的歌曲是由古村作詞作曲(「夕立マーチ」「アルペジオ」等等)。血型為[B型](../Page/ABO血型系统.md "wikilink")。暱稱是『古君』。在[北海道](../Page/北海道.md "wikilink")[函館市出生](../Page/函館市.md "wikilink")、小學三年級時搬到千葉縣。家裡有父母、哥哥和姊姊。高中時曾經短暫參加過田徑隊，之後又加入熱音社。是比光村大一屆的學長。
-  - 使用的器材為Stratocaster、Telecaster、、[Les
-    Paul等等](../Page/Gibson_Les_Paul.md "wikilink")。2013年以前在演唱會上使用的主要是Stratocaster和Telecaster，2014年以後主要使用Les
-    Paul。可以從MV等地方看到他擁有數量龐大的吉他。
+  - 樂團中擔任吉他手。有一部分的歌曲是由古村作詞作曲(「夕立マーチ」「アルペジオ」等等)。血型為[B型](../Page/ABO血型系统.md "wikilink")。暱稱是『古君』。在[北海道](../Page/北海道.md "wikilink")[函館市](../Page/函館市.md "wikilink")出生、小學三年級時搬到千葉縣。家裡有父母、哥哥和姊姊。高中時曾經短暫參加過田徑隊，之後又加入熱音社。是比光村大一屆的學長。
+  - 使用的器材為Stratocaster、Telecaster、、[Les Paul等等](../Page/Gibson_Les_Paul.md "wikilink")。2013年以前在演唱會上使用的主要是Stratocaster和Telecaster，2014年以後主要使用Les Paul。可以從MV等地方看到他擁有數量龐大的吉他。
   - 上高中後開始彈吉他，當時所使用的吉他是利用春假和暑假到處打工、再加上賣掉一直以來囤積的器材所換來的錢買的。(本人在×GiGS的企劃中自述)
   - 是成員中唯一有駕照的人。（大型重型機器腳踏車駕照）
 
@@ -32,8 +28,7 @@ Music旗下的](../Page/日本索尼音樂娛樂.md "wikilink")主流出道。
 
 <!-- end list -->
 
-  - 樂團中擔任貝斯手。有一部分的歌曲是由坂倉作詞作曲(「Endless
-    roll」「マトリョーシカ」、「チェインリアクション」(和古村共同譜曲)等等)。血型為AB型。暱稱是『さっかん』『しんちゃん』（只有古村近年來叫他『心悟さん』）。家裡有父母和姊姊。和其他成員念不同的高中。畢業於[早稻田大学人類科學部門](../Page/早稻田大学.md "wikilink")。
+  - 樂團中擔任貝斯手。有一部分的歌曲是由坂倉作詞作曲(「Endless roll」「マトリョーシカ」、「チェインリアクション」(和古村共同譜曲)等等)。血型為AB型。暱稱是『さっかん』『しんちゃん』（只有古村近年來叫他『心悟さん』）。家裡有父母和姊姊。和其他成員念不同的高中。畢業於[早稻田大学](../Page/早稻田大学.md "wikilink")人類科學部門。
   - 和光村在共同朋友的介紹下認識，NICO Touches the Walls組成以前兩人組成了叫做B+(bplus)的樂團。
   - 使用的器材為芬達的和。在一部分歌曲中也會使用五弦貝斯（主要是「プレイヤ」這首歌）。樂團組成當時主要是使用Music Man的。
 
@@ -63,8 +58,7 @@ Music旗下的](../Page/日本索尼音樂娛樂.md "wikilink")主流出道。
 
   - 4月，光村、古村、坂倉三個人組成樂團。光村因為練團室的廁所空間不大而扶著牆時，想到了「摸牆壁這個動作，可以讓人聯想到牆另一頭的世界、或是從日常生活中創作出新的世界」，於是才有現在的樂團名稱。「NICO」是女性的名字，只是「純粹想在團名中放進外國女性的名字」。
   - 7月，對馬加入樂團。
-  - 11月，參加了TEENS' MUSIC
-    FESTIVAL全國大賽。不過沒有得到冠軍，得到的是LOTTE獎。（演奏歌曲為「そのTAXI,160km/h」）
+  - 11月，參加了TEENS' MUSIC FESTIVAL全國大賽。不過沒有得到冠軍，得到的是LOTTE獎。（演奏歌曲為「そのTAXI,160km/h」）
 
 <!-- end list -->
 
@@ -94,13 +88,11 @@ Music旗下的](../Page/日本索尼音樂娛樂.md "wikilink")主流出道。
   - 6月
       - 發行。
       - 在舉辦個唱『〜目には目を　雨には雨を〜』。
-      - 參加在新木場STUDIO COAST舉辦的『FUN FOR ALL THE FAMILY ～TLGF 10th
-        Anniversary Party～』。
+      - 參加在新木場STUDIO COAST舉辦的『FUN FOR ALL THE FAMILY ～TLGF 10th Anniversary Party～』。
   - 8月
       - 在大阪難波Hatch舉行的「88ROCK\!\! Hatch Go Round」中擔任開場樂團。
       - 參加[SUMMER SONIC](../Page/SUMMER_SONIC.md "wikilink") 07大阪、東京場次。
-  - 9月，參加[凜冽時雨レコ発TOUR](../Page/凜冽時雨.md "wikilink") 07 "NAKANO
-    Inspiration"的仙台、札幌、新潟場次。
+  - 9月，參加[凜冽時雨](../Page/凜冽時雨.md "wikilink")レコ発TOUR 07 "NAKANO Inspiration"的仙台、札幌、新潟場次。
   - 10月
       - 參加列伝 JAPAN TOUR 2007。
       - 參加MINAMI WHEEL 2007。當天BIGCAT座無虛席。
@@ -118,18 +110,14 @@ Music旗下的](../Page/日本索尼音樂娛樂.md "wikilink")主流出道。
       - 發行第一張主流出道單曲『夜の果て』。
   - 3月
       - 參加在新木場STUDIO COAST舉辦的「BRITISH ANTHEMS」。
-      - 參加在水道橋・JCB HALL舉辦的「20th J-WAVE McDonald's TOKYO REAL-EYES
-        presents LIVE SUPERNOVA FESTIVAL」。
-  - 4月，在東京、名古屋和大阪舉辦「NICO Touches the Walls TOUR2008
-    ～ナハトムジーク～」。包含在舉辦的場次，票券開賣當日立即售罄。
+      - 參加在水道橋・JCB HALL舉辦的「20th J-WAVE McDonald's TOKYO REAL-EYES presents LIVE SUPERNOVA FESTIVAL」。
+  - 4月，在東京、名古屋和大阪舉辦「NICO Touches the Walls TOUR2008 ～ナハトムジーク～」。包含在舉辦的場次，票券開賣當日立即售罄。
   - 6月，發行第二張單曲『THE BUNGY』。
   - 7月～10月，參加全國各地的夏日音樂祭或活動，共計15場。
   - 8月，發行第三張單曲『Broken Youth』。
   - 9月，發行第一張完整專輯『Who are you?』。
-  - 10月，在SHIBUYA-AX舉辦「We are NICO Touches the Walls. ～A Queen of the
-    Night～」。票券開賣當日立即售罄。
-  - 11月～12月，舉辦首次全國巡迴演唱會「NICO Touches the Walls TOUR2008 Bon
-    voyage,Etranger」。全部場次票券都在開賣當日立即售罄。
+  - 10月，在SHIBUYA-AX舉辦「We are NICO Touches the Walls. ～A Queen of the Night～」。票券開賣當日立即售罄。
+  - 11月～12月，舉辦首次全國巡迴演唱會「NICO Touches the Walls TOUR2008 Bon voyage,Etranger」。全部場次票券都在開賣當日立即售罄。
   - 12月
       - 參加「rockin'on presents COUNTDOWN JAPAN 08/09」。總共動員了10,000人。
       - 參加「rockin'on presents COUNTDOWN JAPAN 08/09-WEST」。
@@ -142,21 +130,16 @@ Music旗下的](../Page/日本索尼音樂娛樂.md "wikilink")主流出道。
 
   - 4月，參加「ARABAKI ROCK FEST.09 」。就算下著雨也動員了共3,000人。
   - 5月，發行第四張單曲『ビッグフット』。
-  - 6月，在東京、名古屋和大阪舉辦「NICO Touches the Walls LIVE2009 All,Always Walls
-    vol.3 ～Turkeyism～」。首次在日比谷野外大音楽堂舉辦戶外演唱會，動員了3,000人。演唱會門票包括站票都銷售一空。
+  - 6月，在東京、名古屋和大阪舉辦「NICO Touches the Walls LIVE2009 All,Always Walls vol.3 ～Turkeyism～」。首次在日比谷野外大音楽堂舉辦戶外演唱會，動員了3,000人。演唱會門票包括站票都銷售一空。
   - 7月，參加全國各地多數的夏日音樂祭或活動。
-  - 8月，發行第五張單曲『ホログラム』。『ホログラム』是動畫「[鋼之鍊金術師 FULLMETAL
-    ALCHEMIST](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")」的片頭曲，『風人』則是電影「[蟹工船](../Page/蟹工船.md "wikilink")」的主題曲。
+  - 8月，發行第五張單曲『ホログラム』。『ホログラム』是動畫「[鋼之鍊金術師 FULLMETAL ALCHEMIST](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")」的片頭曲，『風人』則是電影「[蟹工船](../Page/蟹工船.md "wikilink")」的主題曲。
   - 11月
       - 發行第六張單曲『かけら-総べての想いたちへ-』。
       - 在東京都內某地舉辦「1125前夜Sercet live」。
       - 發行第二張專輯『オーロラ』。
   - 12月
-      - 發行第一張演唱會DVD「NICO Touches the Walls LIVE2009 All,Always,Walls
-        vol.3 ～Turkeyism」。
-      - 橫跨隔年1月，以Zepp Osaka、Zepp Tokyo為首舉辦第二次全國巡迴演唱會「NICO Touchess the
-        Walls TOUR2009～2010「&
-        Auroras」」。包含3月在[日本武道館的追加場次](../Page/日本武道館.md "wikilink")，總共動員了約兩萬人。
+      - 發行第一張演唱會DVD「NICO Touches the Walls LIVE2009 All,Always,Walls vol.3 ～Turkeyism」。
+      - 橫跨隔年1月，以Zepp Osaka、Zepp Tokyo為首舉辦第二次全國巡迴演唱會「NICO Touchess the Walls TOUR2009～2010「& Auroras」」。包含3月在[日本武道館](../Page/日本武道館.md "wikilink")的追加場次，總共動員了約兩萬人。
 
 <!-- end list -->
 
@@ -166,14 +149,11 @@ Music旗下的](../Page/日本索尼音樂娛樂.md "wikilink")主流出道。
 
   - 3月
       - 發行第一張Clip DVD「NICO Touches the Walls Library Vol.1」。
-      - 在[日本武道館舉辦](../Page/日本武道館.md "wikilink")「NICO Touches the Walls
-        TOUR2009～2010「& Auroras」的追加場次「Walls Is Beginning」。
+      - 在[日本武道館](../Page/日本武道館.md "wikilink")舉辦「NICO Touches the Walls TOUR2009～2010「& Auroras」的追加場次「Walls Is Beginning」。
   - 5月～6月，舉辦了包含横浜BLITZ場次公演的TOUR2010「ミチナキミチ」。場地為至今為止沒有舉辦過單獨演唱會的城市，並且在全部七個場次中，每一場都發表不一樣的新歌。在這場演唱會中發表的新歌多收錄在隔年發行的新專輯『PASSENGER』之中，其他歌曲日後也收錄在其他單曲中，只有最後在橫濱BLIZ場次時發表的『YOU』沒有正式音源化。
   - 7月～9月，參加各地的夏日音樂祭，共計八場。
   - 8月，發行第七張單曲『サドンデスゲーム』。以在前述的巡迴演唱會「ミチナキミチ」中的各場次表演過的「サドンデスゲーム」為主打歌，在長崎場次表演的「泣くのはやめて」為收錄歌曲。
-  - 9月，9月25日在、10月7日在[涉谷C.C.Lemon
-    Hall舉辦LIVE](../Page/澀谷公會堂.md "wikilink")2010
-    Apollo\&Luna。
+  - 9月，9月25日在、10月7日在[涉谷C.C.Lemon Hall舉辦LIVE](../Page/澀谷公會堂.md "wikilink")2010 Apollo\&Luna。
 
 <!-- end list -->
 
@@ -182,20 +162,17 @@ Music旗下的](../Page/日本索尼音樂娛樂.md "wikilink")主流出道。
 <!-- end list -->
 
   - 1月
-      - 同時發行第八張單曲『Diver』、第二張演唱會DVD「NICO Touches the Walls TOUR
-        2010『ミチナキミチ』」。
-      - 舉辦NICO Touches the Walls × [flumpool](../Page/凡人譜.md "wikilink")
-        split Tour 2011。
+      - 同時發行第八張單曲『Diver』、第二張演唱會DVD「NICO Touches the Walls TOUR 2010『ミチナキミチ』」。
+      - 舉辦NICO Touches the Walls × [flumpool](../Page/凡人譜.md "wikilink") split Tour 2011。
   - 4月
-      - 發行第三張專輯『PASSENGER』。首度進榜[Oricon就得到第](../Page/Oricon.md "wikilink")15名。
-      - 舉辦包括6月在Zepp Tokyo追加場次的「TOUR 2011 PASSENGER～We are Passionate
-        Messenger～」。
+      - 發行第三張專輯『PASSENGER』。首度進榜[Oricon](../Page/Oricon.md "wikilink")就得到第15名。
+      - 舉辦包括6月在Zepp Tokyo追加場次的「TOUR 2011 PASSENGER～We are Passionate Messenger～」。
   - 8月
       - 發行第九張單曲『手をたたけ』。
       - 參加各地的夏日音樂祭共六場，直到9月。
   - 9月，發行數位限定單曲 『Endless roll』。
   - 11月，在舉辦「1125(イイニコ)の日 ライブ」。
-  - 12月，發行第四張專輯『HUMANIA』。首度進榜[Oricon就得到第十名](../Page/Oricon.md "wikilink")。
+  - 12月，發行第四張專輯『HUMANIA』。首度進榜[Oricon](../Page/Oricon.md "wikilink")就得到第十名。
 
 <!-- end list -->
 
@@ -204,21 +181,17 @@ Music旗下的](../Page/日本索尼音樂娛樂.md "wikilink")主流出道。
 <!-- end list -->
 
   - 1月
-      - 發行第三張演唱會DVD『NICO Touches the Walls TOUR 2011 PASSENGER ～We are
-        Passionate Messenger～』。
+      - 發行第三張演唱會DVD『NICO Touches the Walls TOUR 2011 PASSENGER ～We are Passionate Messenger～』。
       - 直到2月，舉辦「NICO Touches the Walls TOUR2012 "HUMANIA"」。
-  - 3月，舉辦「NICO Touches the Walls TOUR2012 "HUMANIA"追加公演 "Ground of
-    HUMANIA"」。
-  - 5月，同時發行第十張單曲『夏の大三角形』和音樂錄影帶DVD「Library vol.2」。同日舉辦「NICO Touches the
-    Walls FREE LIVE in 代々木公園」，動員7000人。
+  - 3月，舉辦「NICO Touches the Walls TOUR2012 "HUMANIA"追加公演 "Ground of HUMANIA"」。
+  - 5月，同時發行第十張單曲『夏の大三角形』和音樂錄影帶DVD「Library vol.2」。同日舉辦「NICO Touches the Walls FREE LIVE in 代々木公園」，動員7000人。
   - 7月～8月參加各地的夏日音樂祭共八場。
   - 9月～10月，舉辦全國共23場的「NICO Touches the Walls TOUR2012 "ALGORHYTMIQUE"」。
   - 11月，在橫濱BLITZ舉辦「1125（イイニコ）の日ライブ」。首次舉辦和GRAPEVINE一起的對BAND形式演唱會。
   - 12月
       - 發行第11張單曲「夢1号」。
       - 參加「COUNTDOWN JAPAN 12/13」，在EARTH STAGE演出。
-      - 參加「『Ready Set Go\!\!』Count Down Live2012 ⇒ 2013　supported by
-        A-Sketch」。
+      - 參加「『Ready Set Go\!\!』Count Down Live2012 ⇒ 2013　supported by A-Sketch」。
 
 <!-- end list -->
 
@@ -227,16 +200,12 @@ Music旗下的](../Page/日本索尼音樂娛樂.md "wikilink")主流出道。
 <!-- end list -->
 
   - 3月，發行第12張單曲『Mr.ECHO』。
-  - 4月，發行第五張專輯『Shout to the
-    Walls\!』。首度進榜Oricon得到職涯最高名次的第五名。同日在LIQUIDROOM
-    ebisu舉辦專輯紀念特別演唱會。
-  - 5月～7月，舉辦HALL巡迴演唱會『NICO Touches the Walls TOUR 2013"Shout to the
-    Walls\!"』。
+  - 4月，發行第五張專輯『Shout to the Walls\!』。首度進榜Oricon得到職涯最高名次的第五名。同日在LIQUIDROOM ebisu舉辦專輯紀念特別演唱會。
+  - 5月～7月，舉辦HALL巡迴演唱會『NICO Touches the Walls TOUR 2013"Shout to the Walls\!"』。
   - 7月
       - 發行第13張單曲『ニワカ雨ニモ負ケズ』。
       - 直到9月參加了各地的夏日音樂祭。
-  - 11月，在Zepp
-    DiverCity舉辦『1125(イイニコ)の日ライブ』。在此活動中發表了隔年2月即將的首張精選輯、舉辦為期一個月的籠城型演唱會、並在8月二度登上日本武道館。
+  - 11月，在Zepp DiverCity舉辦『1125(イイニコ)の日ライブ』。在此活動中發表了隔年2月即將的首張精選輯、舉辦為期一個月的籠城型演唱會、並在8月二度登上日本武道館。
 
 <!-- end list -->
 
@@ -268,7 +237,7 @@ Music旗下的](../Page/日本索尼音樂娛樂.md "wikilink")主流出道。
   - 2月
       - 4日，發行首張不插電專輯『Howdy\!\! We are ACO Touches the Walls』。\[1\]
   - 6月，發行第17張單曲『まっすぐなうた』。
-  - 9月，發行第18張單曲『渦と渦』，主打歌『渦と渦』為動畫[亞爾斯蘭戰記的片頭曲](../Page/亞爾斯蘭戰記.md "wikilink")。
+  - 9月，發行第18張單曲『渦と渦』，主打歌『渦と渦』為動畫[亞爾斯蘭戰記](../Page/亞爾斯蘭戰記.md "wikilink")的片頭曲。
   - 11月，吉他手古村大介在錄音室被門夾到右手手腕，導致第四、五掌骨骨折，經手術治療後醫師建議復原期為兩個月，年內演出宣告暫停，12月23日的"渦と渦～西の渦～"大阪城HALL公演也因此延期\[2\]，11月25日的"初と初"＠下北沢CLUB251・梅田Shangri-La公演則為除了古村以外之其他三人演出，預定隔年1月8日武道館公演中復出。
 
 ## 作品
@@ -1229,13 +1198,11 @@ UPJH-9016(黑膠盤)</p></td>
 
 #### 書籍
 
-1.  NICO Touches the Walls 旅の軌跡 -Interview and Photo Chronicle
-    2007-2012-（2012年8月16日）
+1.  NICO Touches the Walls 旅の軌跡 -Interview and Photo Chronicle 2007-2012-（2012年8月16日）
 
 #### LINE貼圖
 
-  - 由貝斯手坂倉心悟所畫的角色「坂立君」的LINE貼圖 - [Sakadachikun by NICO Touches the
-    Walls](https://store.line.me/stickershop/product/1210518/zh-Hant)
+  - 由貝斯手坂倉心悟所畫的角色「坂立君」的LINE貼圖 - [Sakadachikun by NICO Touches the Walls](https://store.line.me/stickershop/product/1210518/zh-Hant)
 
 ### 地下樂團時期
 
@@ -1423,7 +1390,7 @@ UPJH-9016(黑膠盤)</p></td>
 <td><p>2007年</p></td>
 <td></td>
 <td><p>2007年11月份POWER PUSH!<br />
-<a href="../Page/東京電視台.md" title="wikilink">東京電視台系列</a>「」2007年11月份片頭曲<br />
+<a href="../Page/東京電視台.md" title="wikilink">東京電視台</a>系列「」2007年11月份片頭曲<br />
 <a href="../Page/江崎固力果.md" title="wikilink">江崎固力果</a>「<a href="../Page/百奇.md" title="wikilink">Pocky</a>」SPACE SHOWER TV版本廣告歌</p></td>
 <td><p>『』<br />
 『』<br />
@@ -1432,7 +1399,7 @@ UPJH-9016(黑膠盤)</p></td>
 <tr class="even">
 <td><p>2008年</p></td>
 <td></td>
-<td><p><a href="../Page/日本電視台.md" title="wikilink">日本電視台系列</a>「<a href="../Page/音樂戰士_MUSIC_FIGHTER.md" title="wikilink">音樂戰士 MUSIC FIGHTER</a>」2008年2月份片尾曲</p></td>
+<td><p><a href="../Page/日本電視台.md" title="wikilink">日本電視台</a>系列「<a href="../Page/音樂戰士_MUSIC_FIGHTER.md" title="wikilink">音樂戰士 MUSIC FIGHTER</a>」2008年2月份片尾曲</p></td>
 <td><p>｢夜の果て｣<br />
 『Who are you?』</p></td>
 </tr>
@@ -1454,7 +1421,7 @@ UPJH-9016(黑膠盤)</p></td>
 <tr class="odd">
 <td><p>2009年</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/毎日放送" title="wikilink">毎日放送</a>・<a href="../Page/TBS電視台.md" title="wikilink">TBS電視台系列動畫</a>「<a href="../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md" title="wikilink">鋼之鍊金術師 FULLMETAL ALCHEMIST</a>」第2期片頭曲、第64回(最終回)片尾曲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/毎日放送" title="wikilink">毎日放送</a>・<a href="../Page/TBS電視台.md" title="wikilink">TBS電視台</a>系列動畫「<a href="../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md" title="wikilink">鋼之鍊金術師 FULLMETAL ALCHEMIST</a>」第2期片頭曲、第64回(最終回)片尾曲</p></td>
 <td><p>｢ホログラム｣<br />
 『』<br />
 『ニコ タッチズ ザ ウォールズ ノ ベスト』</p></td>
@@ -1492,7 +1459,7 @@ UPJH-9016(黑膠盤)</p></td>
 <tr class="even">
 <td><p>2011年</p></td>
 <td></td>
-<td><p><a href="../Page/富士電視台.md" title="wikilink">富士電視台系列動畫</a> <a href="../Page/NoitaminA.md" title="wikilink">NoitaminA</a>『<a href="../Page/C_(動畫).md" title="wikilink">C</a>』片頭曲</p></td>
+<td><p><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>系列動畫 <a href="../Page/NoitaminA.md" title="wikilink">NoitaminA</a>『<a href="../Page/C_(動畫).md" title="wikilink">C</a>』片頭曲</p></td>
 <td><p>『PASSENGER』<br />
 『ニコ タッチズ ザ ウォールズ ノ ベスト』</p></td>
 </tr>
@@ -1507,7 +1474,7 @@ UPJH-9016(黑膠盤)</p></td>
 <tr class="even">
 <td><p>2011年</p></td>
 <td></td>
-<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台系列</a>・<a href="../Page/朝日電視台週五晚間連續劇.md" title="wikilink">週五晚間連續劇</a>「<a href="../Page/還有第11人！.md" title="wikilink">還有第11人！</a>」主題曲</p></td>
+<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>系列・<a href="../Page/朝日電視台週五晚間連續劇.md" title="wikilink">週五晚間連續劇</a>「<a href="../Page/還有第11人！.md" title="wikilink">還有第11人！</a>」主題曲</p></td>
 <td><p>『HUMANIA』<br />
 『ニコ タッチズ ザ ウォールズ ノ ベスト』</p></td>
 </tr>
@@ -1520,7 +1487,7 @@ UPJH-9016(黑膠盤)</p></td>
 <tr class="even">
 <td><p>2012年</p></td>
 <td></td>
-<td><p>「<a href="../Page/可爾必思.md" title="wikilink">可爾必思水</a>」2012年度廣告歌、<a href="../Page/RecoChoku.md" title="wikilink">RecoChoku電視廣告歌</a></p></td>
+<td><p>「<a href="../Page/可爾必思.md" title="wikilink">可爾必思</a>水」2012年度廣告歌、<a href="../Page/RecoChoku.md" title="wikilink">RecoChoku</a>電視廣告歌</p></td>
 <td><p>｢夏の大三角形｣<br />
 『Shout to the Walls!』<br />
 『ニコ タッチズ ザ ウォールズ ノ ベスト』</p></td>
@@ -1560,7 +1527,7 @@ UPJH-9016(黑膠盤)</p></td>
 <tr class="even">
 <td><p>2014年</p></td>
 <td></td>
-<td><p><a href="../Page/每日放送.md" title="wikilink">每日放送</a>・TBS系列、MBS、<a href="../Page/東京都會電視台.md" title="wikilink">東京都會電視台等播放動畫</a>『<a href="../Page/地球隊長.md" title="wikilink">地球隊長</a>』片頭曲</p></td>
+<td><p><a href="../Page/每日放送.md" title="wikilink">每日放送</a>・TBS系列、MBS、<a href="../Page/東京都會電視台.md" title="wikilink">東京都會電視台</a>等播放動畫『<a href="../Page/地球隊長.md" title="wikilink">地球隊長</a>』片頭曲</p></td>
 <td><p>｢TOKYO Dreamer｣</p></td>
 </tr>
 <tr class="odd">
@@ -1589,8 +1556,7 @@ UPJH-9016(黑膠盤)</p></td>
 ### 主辦演唱會
 
   - 2008年 : We are NICO Touches the Walls. ～A Queen of the Night～
-  - 2009年 : NICO Touches the Walls LIVE2009 All,Always Walls vol.3
-    ～Turkeyism～
+  - 2009年 : NICO Touches the Walls LIVE2009 All,Always Walls vol.3 ～Turkeyism～
   - 2009年 : ＆AURORAS
   - 2010年 : 作為追加場次，3月12日在日本武道館舉行演唱會。
   - 2010年 : 在7大都市舉辦TOUR2010「ミチナキミチ」。
@@ -1604,19 +1570,16 @@ UPJH-9016(黑膠盤)</p></td>
   - 2012年11月25日 : 1125(イイニコ)之日演唱會 w/
   - 2013年 : TOUR "Shout to the Walls\!"
   - 2013年11月25日 : 1125(イイニコ)之日演唱會
-  - 2014年 : ニコ タッチズ ザ ウォールズ ノ フェスト
-    w/[BIGMAMA](../Page/BIGMAMA.md "wikilink")、[［Alexandros］](../Page/［Alexandros］.md "wikilink")、
+  - 2014年 : ニコ タッチズ ザ ウォールズ ノ フェスト w/[BIGMAMA](../Page/BIGMAMA.md "wikilink")、[［Alexandros］](../Page/［Alexandros］.md "wikilink")、
   - 2014年 : ニコ タッチズ ザ ウォールズ ノ ヒミツキチ「」
   - 2014年 : TOUR "ニコ タッチズ ザ ウォールズ ノ ゼップ"
   - 2014年 : 日本武道館公演 "ニコ タッチズ ザ ウォールズ ノ ブドウカン"
   - 2014年11月25日 : 1125/2014
   - 2015年 : Howdy\!\! We are ACO Touches the Walls
-  - 2015年 : ニコ タッチズ ザ ウォールズ ノ フェスト w/、[UNISON SQUARE
-    GARDEN](../Page/UNISON_SQUARE_GARDEN.md "wikilink")、［Alexandros］
+  - 2015年 : ニコ タッチズ ザ ウォールズ ノ フェスト w/、[UNISON SQUARE GARDEN](../Page/UNISON_SQUARE_GARDEN.md "wikilink")、［Alexandros］
   - 2015年5月～7月 : NICO Touches the Walls TOUR 2015 "まっすぐなツアー"
   - 2015年9月3日 : 「渦と渦」發行紀念特別演唱會「UZU-TO-UZU-TO-UZU-TO-UZU」
-  - 2015年10月17日 ： NICO Touches the Walls "Walls Is Auroras" Special
-    Screening（※武道館DVD播映會）
+  - 2015年10月17日 ： NICO Touches the Walls "Walls Is Auroras" Special Screening（※武道館DVD播映會）
   - 2015年11月25日 : 1125/2015 初と初 ～東の初～（午場）1125/2015 初と初 ～西の初～（晚場）
   - 2015年12月23日 : NICO Touches the Walls LIVE SPECIAL 「渦と渦 ～西の渦～」
   - 2016年1月8日 : NICO Touches the Walls LIVE SPECIAL 「渦と渦 ～東の渦～」，三度踏上武道館
@@ -1625,9 +1588,7 @@ UPJH-9016(黑膠盤)</p></td>
 
 ### 參加演出
 
-  - 2006年8月6日 - [ROCK IN JAPAN
-    FESTIVAL](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")
-    2006
+  - 2006年8月6日 - [ROCK IN JAPAN FESTIVAL](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2006
   - 2006年8月12日 - [SUMMER SONIC](../Page/SUMMER_SONIC.md "wikilink") 2006
   - 2007年1月1日 -  06/07
   - 2007年8月11日・12日 - SUMMER SONIC 2007
@@ -1646,8 +1607,7 @@ UPJH-9016(黑膠盤)</p></td>
   - 2009年7月25日 - SETSTOCK'09
   - 2009年8月2日 - ROCK IN JAPAN FESTIVAL 2009
   - 2009年8月30日 - SPACE SHOWER SWEET LOVE SHOWER 2009
-  - 2009年10月24日 - [TOWER RECORDS](../Page/淘兒唱片.md "wikilink") 30th
-    Anniversary SPECIAL FACE THE MUSIC\!
+  - 2009年10月24日 - [TOWER RECORDS](../Page/淘兒唱片.md "wikilink") 30th Anniversary SPECIAL FACE THE MUSIC\!
   - 2009年12月30日 -  ROCK FESTIVAL  2009
   - 2009年12月31日 - COUNTDOWN JAPAN 09/10
   - 2010年1月24日 - au by KDDI presents カーニバル 2010
@@ -1661,8 +1621,7 @@ UPJH-9016(黑膠盤)</p></td>
   - 2010年9月22日 - B-PASS創刊25周年記念 『B-PASS 25th Fes』
   - 2010年12月1日 - Act Against AIDS IN NAGOYA
   - 2010年12月30日 - COUNTDOWN JAPAN 10/11
-  - 2011年1月 - NICO Touches the Walls ×
-    [flumpool](../Page/凡人譜.md "wikilink") Split Tour 2011
+  - 2011年1月 - NICO Touches the Walls × [flumpool](../Page/凡人譜.md "wikilink") Split Tour 2011
   - 2011年5月29日 - ROCKS TOKYO 2011
   - 2011年8月7日 - ROCK IN JAPAN FESTIVAL 2011
   - 2011年8月13日・14日 - SUMMER SONIC 2011
@@ -1683,8 +1642,7 @@ UPJH-9016(黑膠盤)</p></td>
   - 2012年8月25日 - Ver.16 ～ヒーロー広場～
   - 2012年10月7日 -  2012
   - 2012年12月29日 - COUNTDOWN JAPAN 12/13
-  - 2012年12月31日 - 『Ready Set Go\!\!』 Count Down Live2012 ⇒ 2013
-    supported by A-Sketch
+  - 2012年12月31日 - 『Ready Set Go\!\!』 Count Down Live2012 ⇒ 2013 supported by A-Sketch
   - 2013年4月29日 - FM802 SPECIAL LIVE REQUESTAGE 11
   - 2013年7月13日 - Amuse 35th Anniversary BBQ inつま恋 ～僕らのビートを喰らえコラ\!～
   - 2013年8月3日 - ROCK IN JAPAN FESTIVAL 2013
@@ -1694,30 +1652,25 @@ UPJH-9016(黑膠盤)</p></td>
   - 2013年9月9日 - JFL 20TH ANNIVERSARY LIVE FOR THE NEXT
   - 2013年9月22日 - テレビ朝日ドリームフェスティバル 2013
   - 2013年12月29日 - COUNTDOWN JAPAN 13/14
-  - 2013年12月31日 - 『Ready Set Go\!\!』Count Down Live2013⇒2014 supported
-    by A-Sketch
+  - 2013年12月31日 - 『Ready Set Go\!\!』Count Down Live2013⇒2014 supported by A-Sketch
   - 2014年5月5日 - [VIVA LA ROCK](../Page/VIVA_LA_ROCK.md "wikilink") 2014
   - 2014年5月25日 -  2014
-  - 2014年7月13日 - [ASIAN KUNG-FU GENERATION presents NANO-MUGEN
-    FES.](../Page/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_FES..md "wikilink")2014
+  - 2014年7月13日 - [ASIAN KUNG-FU GENERATION presents NANO-MUGEN FES.](../Page/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_FES..md "wikilink")2014
   - 2014年7月26日 - NUMBER SHOT 2014
   - 2014年8月3日 - ROCK IN JAPAN FESTIVAL 2014
   - 2014年8月31日 - SPACE SHOWER SWEET LOVE SHOWER 2014
   - 2014年9月6日 - TREASURE05X 2014 ～galaxy of liberty～
-  - 2014年10月13日 - [攝南大學](https://zh.wikipedia.org/wiki/攝南大學 "wikilink")
-    SETSUDAISAI 40th anniversary special live
+  - 2014年10月13日 - [攝南大學](https://zh.wikipedia.org/wiki/攝南大學 "wikilink") SETSUDAISAI 40th anniversary special live
   - 2014年10月26日 - [東北福祉大學](../Page/東北福祉大學.md "wikilink") 国見祭
   - 2014年10月29日 - スペースシャワー列伝 100巻記念公演 第111巻 音質明媚の宴
-  - 2014年11月3日 - [德島大學蔵本キャンパス](../Page/德島大學.md "wikilink") 第30回蔵本祭
+  - 2014年11月3日 - [德島大學](../Page/德島大學.md "wikilink")蔵本キャンパス 第30回蔵本祭
   - 2014年11月9日 -  第58回常磐祭
   - 2014年12月6日 - DECEMBER'S CHILDREN
   - 2014年12月21日 - MERRY ROCK PARADE 2014
   - 2014年12月24日 - FM802「FLiPLiPS」 クリスマススペシャルLIVE
   - 2014年12月28日 - COUNTDOWN JAPAN 14/15
-  - 2014年12月31日 - 『Ready Set Go\!\!』Count Down Live 2014⇒2015 supported
-    by A-Sketch
-  - 2015年3月8日 - uP\!\!\! presents MUSIC SHOWERチュートリアルの徳ダネ福キタル SPECIAL
-    LIVE
+  - 2014年12月31日 - 『Ready Set Go\!\!』Count Down Live 2014⇒2015 supported by A-Sketch
+  - 2015年3月8日 - uP\!\!\! presents MUSIC SHOWERチュートリアルの徳ダネ福キタル SPECIAL LIVE
   - 2015年5月4日 - rockin'on presents　JAPAN JAM BEACH 2015
   - 2015年8月8日 - ROCK IN JAPAN FES.2015
   - 2015年8月23日 - MONSTER baSH 2015
@@ -1725,10 +1678,8 @@ UPJH-9016(黑膠盤)</p></td>
   - 2015年9月6日 - TREASURE05X 2015 \~rising force\~
   - 2015年9月12日 - SAITAMA SUPER ARENA 15th Anniversary肉ロックフェス2015
   - 2015年9月22日 - スペースシャワー列伝15周年記念公演 特別編 大大大宴会 ～東の宴～
-  - 2015年10月11日 -
-    「[アルスラーン戦記](../Page/亞爾斯蘭戰記.md "wikilink")」ヤシャスィーン！カーニバル
-  - 2016年2月14日 - VALENTINE ROCK 2016 ～愛のロックを鳴らそう～ VOL.9 - FINAL（※光村
-    only）
+  - 2015年10月11日 - 「[アルスラーン戦記](../Page/亞爾斯蘭戰記.md "wikilink")」ヤシャスィーン！カーニバル
+  - 2016年2月14日 - VALENTINE ROCK 2016 ～愛のロックを鳴らそう～ VOL.9 - FINAL（※光村 only）
   - 2016年4月29/30日 - ARABAKI ROCK FEST.16
   - 2016年5月3日 - rockin'on presents　JAPAN JAM BEACH 2016
   - 2016年6月4/5日 - 百万石音楽祭2016～ミリオンロックフェスティバル～
@@ -1740,11 +1691,9 @@ UPJH-9016(黑膠盤)</p></td>
 
 ## 外部連結
 
-  - [NICO TOUCHES THE WALLS : OFFICIAL WEB
-    SITE](http://www.nicotouchesthewalls.com/) - A-Sketch官方網站
+  - [NICO TOUCHES THE WALLS : OFFICIAL WEB SITE](http://www.nicotouchesthewalls.com/) - A-Sketch官方網站
 
-  - [NICO Touches the Walls](http://www.nicotouchesthewalls.net/) -
-    Ki/oon Music官方網站
+  - [NICO Touches the Walls](http://www.nicotouchesthewalls.net/) - Ki/oon Music官方網站
 
   - [NICOと僕と](http://ameblo.jp/nico-touchesthewalls/) （主唱・光村的部落格）
 

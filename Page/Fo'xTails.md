@@ -4,8 +4,7 @@
 
 坂本尭之、テラ、峻洋原有之樂團解散後，峻洋找到takao和鳴風二人，並於2013年11月15日結成**Fo'xTails**\[1\]。鳴風是坂本過去曾經合作過的吉他手，而takao則是峻洋高中時的後輩。成員的目標是製作吸引聽眾的情感音樂，但沒有明確定義音樂性或流派。\[2\]
 
-2015年發布了單曲[GLITTER
-DAYS](https://zh.wikipedia.org/wiki/GLITTER_DAYS "wikilink")，用作電視動畫[黑子的籃球的片尾曲并正式出道](../Page/黑子的籃球.md "wikilink")。
+2015年發布了單曲[GLITTER DAYS](https://zh.wikipedia.org/wiki/GLITTER_DAYS "wikilink")，用作電視動畫[黑子的籃球](../Page/黑子的籃球.md "wikilink")的片尾曲并正式出道。
 
 2018年5月6日宣佈同年8月1日舉行「Make One’s Last Day」後解散。\[3\]
 
@@ -13,7 +12,7 @@ DAYS](https://zh.wikipedia.org/wiki/GLITTER_DAYS "wikilink")，用作電視動�
 
 ### 單曲
 
-| 編號    | 發售日         | 標題                                                                                  | 規格編號 | [Oricon最高排名](../Page/Oricon.md "wikilink") |
+| 編號    | 發售日         | 標題                                                                                  | 規格編號 | [Oricon](../Page/Oricon.md "wikilink")最高排名 |
 | ----- | ----------- | ----------------------------------------------------------------------------------- | ---- | ------------------------------------------ |
 | 初回限定盤 | 通常盤         |                                                                                     |      |                                            |
 | 1st   | 2015年2月4日   | **[GLITTER DAYS](https://zh.wikipedia.org/wiki/GLITTER_DAYS "wikilink")**           |      | LACM-14301                                 |
@@ -62,16 +61,10 @@ CD+DVD</p></td>
   - [Fo'xTails](http://xfoxtailsx.com/)Fo'xTails公式サイト
   - [Fo'xTails](http://www.lantis.jp/artist/foxtails/) Lantis公式
   - [Fo'xTails](http://highwaystar.co.jp/) アイウィル公式
-  - [Fo'xTails](https://twitter.com/FoxTails_kon) (@FoxTails_kon) -
-    Twitter
+  - [Fo'xTails](https://twitter.com/FoxTails_kon) (@FoxTails_kon) - Twitter
 
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
+[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
 
 1.  『リスアニ』vol.20, p.108.
-2.  高橋智樹 「 [Fo'xTails
-    ジャンルレスを掲げるロックバンドが切り開く景色とは？](https://rockinon.com/feat/foxtails_201501/page:1)
-    」
-3.  「[Fo’xTailsより皆様へ大切なお知らせ](http://xfoxtailsx.com/news/2018/05/06/894)
-    」
+2.  高橋智樹 「 [Fo'xTails ジャンルレスを掲げるロックバンドが切り開く景色とは？](https://rockinon.com/feat/foxtails_201501/page:1) 」
+3.  「[Fo’xTailsより皆様へ大切なお知らせ](http://xfoxtailsx.com/news/2018/05/06/894) 」

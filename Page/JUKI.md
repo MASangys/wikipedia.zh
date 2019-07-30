@@ -1,6 +1,4 @@
-**JUKI**
-株式會社（，日語漢字為「重機」），是一間總部位於[東京多摩市的](https://zh.wikipedia.org/wiki/東京 "wikilink")[日本製造商](../Page/日本.md "wikilink")。其主要產品工業用[縫紉機](https://zh.wikipedia.org/wiki/縫紉機 "wikilink")，不管於日本國內或國際，皆為市佔率第一，包括許多知名成衣與製鞋品牌，皆為該產品的使用者。除了日本國內，在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[新加坡和](../Page/新加坡.md "wikilink")[中國皆有分公司](../Page/中國.md "wikilink")，皆以英文字母
-JUKI 命名。
+**JUKI** 株式會社（，日語漢字為「重機」），是一間總部位於[東京多摩市的](https://zh.wikipedia.org/wiki/東京 "wikilink")[日本](../Page/日本.md "wikilink")製造商。其主要產品工業用[縫紉機](https://zh.wikipedia.org/wiki/縫紉機 "wikilink")，不管於日本國內或國際，皆為市佔率第一，包括許多知名成衣與製鞋品牌，皆為該產品的使用者。除了日本國內，在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")和[中國](../Page/中國.md "wikilink")皆有分公司，皆以英文字母 JUKI 命名。
 
 ## 主要營業據點
 
@@ -55,15 +53,13 @@ JUKI 命名。
   - 1970年7月 在香港成立第一個海外據點。
   - 1972年4月 在歐洲成立銷售據點。
   - 1974年3月 在美國成立銷售據點。
-  - 1981年10月
-    工業用縫紉機部門獲得[戴明獎](https://zh.wikipedia.org/wiki/戴明獎 "wikilink")。
+  - 1981年10月 工業用縫紉機部門獲得[戴明獎](https://zh.wikipedia.org/wiki/戴明獎 "wikilink")。
   - 1987年7月 開始製作與販售電子元件安裝設備
   - 1988年4月 適逢公司成立50周年，更新企業識別、並更名為「JUKI 株式會社」。
   - 1995年1月 第一家在越南成立工廠的日本企業。
   - 1997年12月 工業用縫紉機的「下線輸送機構」榮獲機械促進協會獎（日文：機械振興協会賞）。
   - 2001年1月 於中國成立投資公司以統籌於中國的各據點。
-  - 2009年12月
-    總部從[東京都調布市](../Page/東京都.md "wikilink")，遷移到現址位於的[多摩市鶴牧的總部大樓](../Page/多摩市.md "wikilink")。
+  - 2009年12月 總部從[東京都](../Page/東京都.md "wikilink")調布市，遷移到現址位於的[多摩市](../Page/多摩市.md "wikilink")鶴牧的總部大樓。
   - 2014年3月 JUKIオートメーションシステムズ(株) 與 SONY EMCS Corporation 安裝設備事業部合併。
 
 ## 參見

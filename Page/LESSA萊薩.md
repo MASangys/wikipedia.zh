@@ -1,5 +1,4 @@
-**LESSA萊薩**（，）是一部[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[網絡](https://zh.wikipedia.org/wiki/網絡 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，由漫畫家[POGO所繪](https://zh.wikipedia.org/wiki/POGO "wikilink")，2012年開始於[NAVER](../Page/Naver_\(公司\).md "wikilink")
-[Webtoon連載](../Page/Webtoon.md "wikilink")\[1\]。
+**LESSA萊薩**（，）是一部[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[網絡](https://zh.wikipedia.org/wiki/網絡 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，由漫畫家[POGO所繪](https://zh.wikipedia.org/wiki/POGO "wikilink")，2012年開始於[NAVER](../Page/Naver_\(公司\).md "wikilink") [Webtoon](../Page/Webtoon.md "wikilink")連載\[1\]。
 
 ## 劇情簡介
 
@@ -138,20 +137,15 @@ LESSA萊薩開始連載後就在網上獲得好評，不久NAVER也推出了官�
   -
 ## 外部連結
 
-  - [《LESSA萊薩》 - NAVER
-    Webtoon](http://comic.naver.com/webtoon/list.nhn?titleId=478262)
+  - [《LESSA萊薩》 - NAVER Webtoon](http://comic.naver.com/webtoon/list.nhn?titleId=478262)
 
-  - [《LESSA萊薩 第2季 深紅騎士》 - NAVER
-    Webtoon](http://comic.naver.com/webtoon/list.nhn?titleId=603159)
+  - [《LESSA萊薩 第2季 深紅騎士》 - NAVER Webtoon](http://comic.naver.com/webtoon/list.nhn?titleId=603159)
 
-  - [《LESSA萊薩》 - LINE
-    Webtoon](http://www.webtoons.com/en/fantasy/lessa/list?title_no=89)
+  - [《LESSA萊薩》 - LINE Webtoon](http://www.webtoons.com/en/fantasy/lessa/list?title_no=89)
 
-  - [《LESSA萊薩 第2季 深紅騎士》 - LINE
-    Webtoon](http://www.webtoons.com/en/fantasy/lessa-2/list?title_no=507)
+  - [《LESSA萊薩 第2季 深紅騎士》 - LINE Webtoon](http://www.webtoons.com/en/fantasy/lessa-2/list?title_no=507)
 
-  - [《LESSA萊薩》 - LINE
-    Webtoon](http://www.webtoons.com/zh-hant/fantasy/lessa/list?title_no=154)
+  - [《LESSA萊薩》 - LINE Webtoon](http://www.webtoons.com/zh-hant/fantasy/lessa/list?title_no=154)
 
   - [LESSA萊薩非官方維基](http://lessa.wikia.com/)
 
@@ -160,25 +154,7 @@ LESSA萊薩開始連載後就在網上獲得好評，不久NAVER也推出了官�
   -
   - [POGO的DeviantArt](http://4go.deviantart.com/)
 
-[Category:韓國漫畫作品](https://zh.wikipedia.org/wiki/Category:韓國漫畫作品 "wikilink")
-[Category:韓國網絡漫畫](https://zh.wikipedia.org/wiki/Category:韓國網絡漫畫 "wikilink")
-[Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink")
-[Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink")
-[Category:搞笑漫畫](https://zh.wikipedia.org/wiki/Category:搞笑漫畫 "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:神話題材漫畫](https://zh.wikipedia.org/wiki/Category:神話題材漫畫 "wikilink")
-[Category:轉生題材作品](https://zh.wikipedia.org/wiki/Category:轉生題材作品 "wikilink")
-[Category:天使題材漫畫](https://zh.wikipedia.org/wiki/Category:天使題材漫畫 "wikilink")
-[Category:惡魔題材漫畫](https://zh.wikipedia.org/wiki/Category:惡魔題材漫畫 "wikilink")
-[Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink")
-[Category:人吃人題材作品](https://zh.wikipedia.org/wiki/Category:人吃人題材作品 "wikilink")
-[Category:死後世界背景作品](https://zh.wikipedia.org/wiki/Category:死後世界背景作品 "wikilink")
-[Category:不死生物題材作品](https://zh.wikipedia.org/wiki/Category:不死生物題材作品 "wikilink")
-[Category:長生不老題材作品](https://zh.wikipedia.org/wiki/Category:長生不老題材作品 "wikilink")
-[Category:種族滅絕相關作品](https://zh.wikipedia.org/wiki/Category:種族滅絕相關作品 "wikilink")
-[Category:反烏托邦題材漫畫](https://zh.wikipedia.org/wiki/Category:反烏托邦題材漫畫 "wikilink")
-[Category:文明崩潰後世界題材漫畫](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材漫畫 "wikilink")
-[Category:虛構島嶼背景作品](https://zh.wikipedia.org/wiki/Category:虛構島嶼背景作品 "wikilink")
+[Category:韓國漫畫作品](https://zh.wikipedia.org/wiki/Category:韓國漫畫作品 "wikilink") [Category:韓國網絡漫畫](https://zh.wikipedia.org/wiki/Category:韓國網絡漫畫 "wikilink") [Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink") [Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink") [Category:搞笑漫畫](https://zh.wikipedia.org/wiki/Category:搞笑漫畫 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:神話題材漫畫](https://zh.wikipedia.org/wiki/Category:神話題材漫畫 "wikilink") [Category:轉生題材作品](https://zh.wikipedia.org/wiki/Category:轉生題材作品 "wikilink") [Category:天使題材漫畫](https://zh.wikipedia.org/wiki/Category:天使題材漫畫 "wikilink") [Category:惡魔題材漫畫](https://zh.wikipedia.org/wiki/Category:惡魔題材漫畫 "wikilink") [Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink") [Category:人吃人題材作品](https://zh.wikipedia.org/wiki/Category:人吃人題材作品 "wikilink") [Category:死後世界背景作品](https://zh.wikipedia.org/wiki/Category:死後世界背景作品 "wikilink") [Category:不死生物題材作品](https://zh.wikipedia.org/wiki/Category:不死生物題材作品 "wikilink") [Category:長生不老題材作品](https://zh.wikipedia.org/wiki/Category:長生不老題材作品 "wikilink") [Category:種族滅絕相關作品](https://zh.wikipedia.org/wiki/Category:種族滅絕相關作品 "wikilink") [Category:反烏托邦題材漫畫](https://zh.wikipedia.org/wiki/Category:反烏托邦題材漫畫 "wikilink") [Category:文明崩潰後世界題材漫畫](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材漫畫 "wikilink") [Category:虛構島嶼背景作品](https://zh.wikipedia.org/wiki/Category:虛構島嶼背景作品 "wikilink")
 
 1.
 

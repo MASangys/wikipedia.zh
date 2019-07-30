@@ -1,8 +1,6 @@
 \-- This module implements .
 
-require('Module:No globals') local libraryUtil = require('libraryUtil')
-local checkType = libraryUtil.checkType local checkTypeForNamedArg =
-libraryUtil.checkTypeForNamedArg local yesno = require('Module:Yesno')
+require('Module:No globals') local libraryUtil = require('libraryUtil') local checkType = libraryUtil.checkType local checkTypeForNamedArg = libraryUtil.checkTypeForNamedArg local yesno = require('Module:Yesno')
 
 -----
 

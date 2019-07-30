@@ -1,7 +1,6 @@
 local p = { }
 
-local Navbox = require('Module:Navbox') local Styles =
-require('Module:WPMILHIST Infobox style')
+local Navbox = require('Module:Navbox') local Styles = require('Module:WPMILHIST Infobox style')
 
 local function isblank(s)
 

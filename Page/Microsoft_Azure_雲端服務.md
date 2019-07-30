@@ -1,65 +1,37 @@
-**Microsoft Azure 雲端服務** (Cloud Service) 是 Microsoft Azure
-最早開始供應的服務之一，它提供了抽象化的運算資源給雲端應用程式 (Cloud
-Application) 使用，開發人員可以部署雲端應用程式到 Azure 雲端服務，以獲取所需的執行環境與運算能力，是一種
-[PaaS](https://zh.wikipedia.org/wiki/PaaS "wikilink") 服務，而它也是 Azure 供應的
-PaaS 服務中彈性最大，客制能力最高的服務。
+**Microsoft Azure 雲端服務** (Cloud Service) 是 Microsoft Azure 最早開始供應的服務之一，它提供了抽象化的運算資源給雲端應用程式 (Cloud Application) 使用，開發人員可以部署雲端應用程式到 Azure 雲端服務，以獲取所需的執行環境與運算能力，是一種 [PaaS](https://zh.wikipedia.org/wiki/PaaS "wikilink") 服務，而它也是 Azure 供應的 PaaS 服務中彈性最大，客制能力最高的服務。
 
-它也是早期[Azure虛擬機器所使用的邏輯管理單位](https://zh.wikipedia.org/wiki/Microsoft_Azure_Virtual_Machine "wikilink")，[Azure虛擬網路的原型](https://zh.wikipedia.org/wiki/Microsoft_Azure_Virtual_Network "wikilink")
-Azure Connect 服務也是由雲端服務所起，因此它被稱為 Azure 運算與網路服務的源頭也不為過。
+它也是早期[Azure虛擬機器所使用的邏輯管理單位](https://zh.wikipedia.org/wiki/Microsoft_Azure_Virtual_Machine "wikilink")，[Azure虛擬網路的原型](https://zh.wikipedia.org/wiki/Microsoft_Azure_Virtual_Network "wikilink") Azure Connect 服務也是由雲端服務所起，因此它被稱為 Azure 運算與網路服務的源頭也不為過。
 
 ## 架構與開發方法
 
-雲端服務一開始的設計是給開發人員部署其雲端應用程式為概念，因此設計上較針對開發人員的需求，使得 Azure
-虛擬機器服務在推出時就有一些不便性存在，但這是雲端服務本身的限制使然。
+雲端服務一開始的設計是給開發人員部署其雲端應用程式為概念，因此設計上較針對開發人員的需求，使得 Azure 虛擬機器服務在推出時就有一些不便性存在，但這是雲端服務本身的限制使然。
 
 ### 角色類型
 
 雲端服務提供了兩種服務角色：
 
-  - Web Role: 用來代管以 HTTP/HTTPS (SSL) 為主的服務，包含網站、Web Service、WCF HTTP
-    Service 或 Web API 等，早期以 Hosted Web Component (HWC) 為主 HTTP
-    服務，2011年起回歸到[IIS](https://zh.wikipedia.org/wiki/IIS "wikilink")。
-  - Worker Role: 用來處理背景工作，它也可以利用 WCF 或 Web API Self-hosting Service 掛用
-    HTTP 的服務，沒有 IIS，因此可用的系統資源比 Web Role 要多。
+  - Web Role: 用來代管以 HTTP/HTTPS (SSL) 為主的服務，包含網站、Web Service、WCF HTTP Service 或 Web API 等，早期以 Hosted Web Component (HWC) 為主 HTTP 服務，2011年起回歸到[IIS](https://zh.wikipedia.org/wiki/IIS "wikilink")。
+  - Worker Role: 用來處理背景工作，它也可以利用 WCF 或 Web API Self-hosting Service 掛用 HTTP 的服務，沒有 IIS，因此可用的系統資源比 Web Role 要多。
 
-另外，早期還沒有虛擬機器服務時，雲端服務有提供另一個角色，稱為 VM
-Role，它可以產生可用遠端桌面控制的虛擬機器，是虛擬機器服務的原型實作，後來
-VM Role 演化成虛擬機器服務。
+另外，早期還沒有虛擬機器服務時，雲端服務有提供另一個角色，稱為 VM Role，它可以產生可用遠端桌面控制的虛擬機器，是虛擬機器服務的原型實作，後來 VM Role 演化成虛擬機器服務。
 
 ### 開發支援
 
-雲端服務由於需要較多的組態設定，因此無法以很簡單的方式開發與部署，微軟在早期就開始提供 Azure SDK 以及雲端服務的模擬器
-(包含運算模擬器與儲存模擬器，早期名稱為 Development Fabric 與 Development
-Storage，後來定名為 Compute Emulator 與 Storage Emulator)，以及 Microsoft Azure
-Tools for Visual Studio，給 Visual Studio 的開發人員充分的支援。
+雲端服務由於需要較多的組態設定，因此無法以很簡單的方式開發與部署，微軟在早期就開始提供 Azure SDK 以及雲端服務的模擬器 (包含運算模擬器與儲存模擬器，早期名稱為 Development Fabric 與 Development Storage，後來定名為 Compute Emulator 與 Storage Emulator)，以及 Microsoft Azure Tools for Visual Studio，給 Visual Studio 的開發人員充分的支援。
 
-但隨著 Azure 平台的開放程度愈來愈高，[PHP](../Page/PHP.md "wikilink")
-\[1\]、[node.js](https://zh.wikipedia.org/wiki/node.js "wikilink")
-\[2\] 以及 [Java](../Page/Java.md "wikilink") \[3\]
-的開發人員也可以使用雲端服務來代管其應用程式。
+但隨著 Azure 平台的開放程度愈來愈高，[PHP](../Page/PHP.md "wikilink") \[1\]、[node.js](https://zh.wikipedia.org/wiki/node.js "wikilink") \[2\] 以及 [Java](../Page/Java.md "wikilink") \[3\] 的開發人員也可以使用雲端服務來代管其應用程式。
 
 ## 運算資源
 
-雲端服務的運算資源是由虛擬機器提供，虛擬機器依照運算能力區分為數種類型 \[4\]，共分為一般性運算能量的 A 類型、經效能提升的 D
-類型以及擁有最強運算效能的 G
-類型，未來也會推出使用[GPU運算的](https://zh.wikipedia.org/wiki/GPU "wikilink")
-N 類型。
+雲端服務的運算資源是由虛擬機器提供，虛擬機器依照運算能力區分為數種類型 \[4\]，共分為一般性運算能量的 A 類型、經效能提升的 D 類型以及擁有最強運算效能的 G 類型，未來也會推出使用[GPU運算的](https://zh.wikipedia.org/wiki/GPU "wikilink") N 類型。
 
 不過雲端服務可用的虛擬機器類型只有 A 類型和 D 類型\[5\]。
 
 ### A 類型
 
-A 類型是 Azure 一開始就提供的標準虛擬機器類型，使用
-[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink") 的 CPU 以及傳統
-[SATA](../Page/SATA.md "wikilink") 介面的硬碟，提供最標準不需太高運算能量的應用，早期是以五種規格推出，分別是
-Extra Small (XS)、Small (S)、Medium (M)、Large (L) 以及 Extra Large (XL)
-五種，除了 XS 記憶體使用 0.75GB 記憶體外，其他是以 1.75GB
-記憶體，每晉一級就會加倍，可作為衡量運算資源與成本的標準之一。不過在虛擬機器種類愈來愈多的情況下，A
-類型也做了擴充，現在除了原有的五類外，還多加了 A5\~A7、A8\~A11等七種規格。
+A 類型是 Azure 一開始就提供的標準虛擬機器類型，使用 [AMD](https://zh.wikipedia.org/wiki/AMD "wikilink") 的 CPU 以及傳統 [SATA](../Page/SATA.md "wikilink") 介面的硬碟，提供最標準不需太高運算能量的應用，早期是以五種規格推出，分別是 Extra Small (XS)、Small (S)、Medium (M)、Large (L) 以及 Extra Large (XL) 五種，除了 XS 記憶體使用 0.75GB 記憶體外，其他是以 1.75GB 記憶體，每晉一級就會加倍，可作為衡量運算資源與成本的標準之一。不過在虛擬機器種類愈來愈多的情況下，A 類型也做了擴充，現在除了原有的五類外，還多加了 A5\~A7、A8\~A11等七種規格。
 
-A5\~A7 與 A8\~A11 均使用 Intel Xeon E5 系列 CPU，但 A5\~A7 的記憶體量比 A2\~A4
-高；A8\~A9 與 A10\~A11 規格相同，但 A8\~A9 有支援 HPC 的 InfiniBand 網路介面與 RDMA
-技術，A10\~A11 則無。
+A5\~A7 與 A8\~A11 均使用 Intel Xeon E5 系列 CPU，但 A5\~A7 的記憶體量比 A2\~A4 高；A8\~A9 與 A10\~A11 規格相同，但 A8\~A9 有支援 HPC 的 InfiniBand 網路介面與 RDMA 技術，A10\~A11 則無。
 
 | 規格            | CPU核心數 | 記憶體量   | 暫存硬碟大小 (SATA) | 可用網卡數 | 可用資料磁碟數 | 最高[IOPS](../Page/IOPS.md "wikilink") | 說明                   |
 | ------------- | ------ | ------ | ------------- | ----- | ------- | ------------------------------------ | -------------------- |
@@ -78,10 +50,7 @@ A5\~A7 與 A8\~A11 均使用 Intel Xeon E5 系列 CPU，但 A5\~A7 的記憶體�
 
 ### D 類型
 
-D 類型是 Azure 在 2013 年推出的類型，它使用比 A 類型更好的 CPU，並且在實體伺服器上使用固態硬碟
-([SSD](https://zh.wikipedia.org/wiki/SSD "wikilink"))，以加速在本地運算時的 I/O
-速度，另外，為滿足提升虛擬機器本身的 I/O 量的需求，微軟開發了高階儲存體 (Premium Storage)
-用來保存虛擬機使用的 VHD (稱為 OS Disk)，而使用高階儲存體的 D 類型虛擬機器，稱為 DS 類型。
+D 類型是 Azure 在 2013 年推出的類型，它使用比 A 類型更好的 CPU，並且在實體伺服器上使用固態硬碟 ([SSD](https://zh.wikipedia.org/wiki/SSD "wikilink"))，以加速在本地運算時的 I/O 速度，另外，為滿足提升虛擬機器本身的 I/O 量的需求，微軟開發了高階儲存體 (Premium Storage) 用來保存虛擬機使用的 VHD (稱為 OS Disk)，而使用高階儲存體的 D 類型虛擬機器，稱為 DS 類型。
 
 <table>
 <thead>
@@ -188,8 +157,7 @@ Standard_DS14</p></td>
 </tbody>
 </table>
 
-2015年，微軟利用新的 Intel Xeon E5-2673 v3 CPU 的伺服器組建了 D 類型的第二版，稱為 Dv2，可獲取 D
-類型虛擬機高 35% 的效能。
+2015年，微軟利用新的 Intel Xeon E5-2673 v3 CPU 的伺服器組建了 D 類型的第二版，稱為 Dv2，可獲取 D 類型虛擬機高 35% 的效能。
 
 | 規格                | CPU核心數 | 記憶體量  | 暫存硬碟大小 (SSD) | 可用網卡數 | 可用資料磁碟數 | 最高[IOPS](../Page/IOPS.md "wikilink") | 說明 |
 | ----------------- | ------ | ----- | ------------ | ----- | ------- | ------------------------------------ | -- |
@@ -205,9 +173,7 @@ Standard_DS14</p></td>
 
 ## 作業系統
 
-雲端服務提供的虛擬機器都是標準的作業系統虛擬機，其可用作業系統稱為客座作業系統 (Guest Operating System, Guest
-OS)，依照作業系統世代不同分為四個版本 (後續 [Windows Server
-2016](../Page/Windows_Server_2016.md "wikilink") 推出時也會新增 5.0 版) \[6\]。
+雲端服務提供的虛擬機器都是標準的作業系統虛擬機，其可用作業系統稱為客座作業系統 (Guest Operating System, Guest OS)，依照作業系統世代不同分為四個版本 (後續 [Windows Server 2016](../Page/Windows_Server_2016.md "wikilink") 推出時也會新增 5.0 版) \[6\]。
 
 | 版本  | 基礎作業系統                                                                                    | 現行客座作業系統的版本                       |
 | --- | ----------------------------------------------------------------------------------------- | --------------------------------- |
@@ -216,16 +182,11 @@ OS)，依照作業系統世代不同分為四個版本 (後續 [Windows Server
 | 2.x | [Windows Server 2008 R2](../Page/Windows_Server_2008_R2.md "wikilink")                    | 2.48 (.NET Framework 3.5 & 4.5.2) |
 | 1.x | [Windows Server 2008](../Page/Windows_Server_2008.md "wikilink") with SP2                 | 已淘汰 \[7\]                         |
 
-雲端服務使用的客座作業系統能在服務組態檔中的 osFamily 項設定版本 (例如 osFamily="4"
-表示使用第四版的客座作業系統)，osVersion 設定版本號 (或是
-"\*"，表示直接用取新版本)。
+雲端服務使用的客座作業系統能在服務組態檔中的 osFamily 項設定版本 (例如 osFamily="4" 表示使用第四版的客座作業系統)，osVersion 設定版本號 (或是 "\*"，表示直接用取新版本)。
 
 ## 組態架構
 
-雲端服務使用兩個主要的設定檔來組態服務功能，一個是服務定義檔
-(ServiceDefinition.csdef)，它定義了一個雲端服務要使用到的雲端基礎資源，包含使用的虛擬機器角色類型
-(Web Role 或 Worker Role)、虛擬機器的大小、使用的網路組態、負載平衡器組態、憑證資訊、使用的組態項目、IIS
-使用的網站繫結資訊等，這些資訊在部署雲端服務之後不可改變。例如下列 XML：
+雲端服務使用兩個主要的設定檔來組態服務功能，一個是服務定義檔 (ServiceDefinition.csdef)，它定義了一個雲端服務要使用到的雲端基礎資源，包含使用的虛擬機器角色類型 (Web Role 或 Worker Role)、虛擬機器的大小、使用的網路組態、負載平衡器組態、憑證資訊、使用的組態項目、IIS 使用的網站繫結資訊等，這些資訊在部署雲端服務之後不可改變。例如下列 XML：
 
 ``` xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -276,8 +237,7 @@ OS)，依照作業系統世代不同分為四個版本 (後續 [Windows Server
 </ServiceDefinition>
 ```
 
-另一個是服務組態檔 (ServiceConfiguration.cscfg)，用來設定使用的 VM
-作業系統類型與版本、虛擬機器數量、角色的設定值、憑證的使用等，這些設定在服務部署後仍然可以修改。如下列XML：
+另一個是服務組態檔 (ServiceConfiguration.cscfg)，用來設定使用的 VM 作業系統類型與版本、虛擬機器數量、角色的設定值、憑證的使用等，這些設定在服務部署後仍然可以修改。如下列XML：
 
 ``` xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -309,19 +269,12 @@ OS)，依照作業系統世代不同分為四個版本 (後續 [Windows Server
 
 <references />
 
-[Category:微軟](https://zh.wikipedia.org/wiki/Category:微軟 "wikilink")
-[Category:Microsoft_Azure](https://zh.wikipedia.org/wiki/Category:Microsoft_Azure "wikilink")
+[Category:微軟](https://zh.wikipedia.org/wiki/Category:微軟 "wikilink") [Category:Microsoft_Azure](https://zh.wikipedia.org/wiki/Category:Microsoft_Azure "wikilink")
 
-1.  [How to create PHP web and worker
-    roles](https://azure.microsoft.com/en-us/documentation/articles/cloud-services-php-create-web-role/)
-2.  [Build and deploy a Node.js application to an Azure Cloud
-    Service](https://azure.microsoft.com/en-us/documentation/articles/cloud-services-nodejs-develop-deploy-app/)
-3.  [How to Migrate Java Applications to Azure
-    Cloud](http://www.developer.com/java/how-to-migrate-java-applications-to-azure-cloud.html)
+1.  [How to create PHP web and worker roles](https://azure.microsoft.com/en-us/documentation/articles/cloud-services-php-create-web-role/)
+2.  [Build and deploy a Node.js application to an Azure Cloud Service](https://azure.microsoft.com/en-us/documentation/articles/cloud-services-nodejs-develop-deploy-app/)
+3.  [How to Migrate Java Applications to Azure Cloud](http://www.developer.com/java/how-to-migrate-java-applications-to-azure-cloud.html)
 4.  [虛擬機器的大小](https://azure.microsoft.com/zh-tw/documentation/articles/virtual-machines-size-specs/)
-5.  [Sizes for Cloud
-    Services](https://azure.microsoft.com/en-us/documentation/articles/cloud-services-sizes-specs/)
-6.  [Azure 客體 OS 版次與 SDK
-    相容性矩陣](https://azure.microsoft.com/zh-tw/documentation/articles/cloud-services-guestos-update-matrix/)
-7.  [客體作業系統系列 1
-    淘汰通知](https://azure.microsoft.com/zh-tw/documentation/articles/cloud-services-guestos-family1-retirement/)
+5.  [Sizes for Cloud Services](https://azure.microsoft.com/en-us/documentation/articles/cloud-services-sizes-specs/)
+6.  [Azure 客體 OS 版次與 SDK 相容性矩陣](https://azure.microsoft.com/zh-tw/documentation/articles/cloud-services-guestos-update-matrix/)
+7.  [客體作業系統系列 1 淘汰通知](https://azure.microsoft.com/zh-tw/documentation/articles/cloud-services-guestos-family1-retirement/)

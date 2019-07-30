@@ -1,5 +1,4 @@
-[Debconfshirts12.jpg](https://zh.wikipedia.org/wiki/File:Debconfshirts12.jpg "fig:Debconfshirts12.jpg")
-**DebConf，Debian開發者會議**（）是[Debian作業系統的開發者每年都會舉辦的會議](../Page/Debian.md "wikilink")，主要目的是讓開發者可以會面並討論作業系統的未來開發。
+[Debconfshirts12.jpg](https://zh.wikipedia.org/wiki/File:Debconfshirts12.jpg "fig:Debconfshirts12.jpg") **DebConf，Debian開發者會議**（）是[Debian](../Page/Debian.md "wikilink")作業系統的開發者每年都會舉辦的會議，主要目的是讓開發者可以會面並討論作業系統的未來開發。
 
 除了排定的工作坊與演講以外，Debian開發者也有機會在較不常見的設定中[徹底了解Debian系統](../Page/黑客.md "wikilink")。透過在2003年的奧斯陸DebConf中加入“DebCamp”來達成這個目標：預留一個房間並提供電腦等基礎設施。
 
@@ -230,8 +229,6 @@
   - [DebConf網頁](http://www.debconf.org)
   - [DebConf影片封存檔案](http://meetings-archive.debian.net/pub/debian-meetings/)
 
-[Category:Linux會議](https://zh.wikipedia.org/wiki/Category:Linux會議 "wikilink")
-[Category:Debian](https://zh.wikipedia.org/wiki/Category:Debian "wikilink")
-[Category:自由軟體會議](https://zh.wikipedia.org/wiki/Category:自由軟體會議 "wikilink")
+[Category:Linux會議](https://zh.wikipedia.org/wiki/Category:Linux會議 "wikilink") [Category:Debian](https://zh.wikipedia.org/wiki/Category:Debian "wikilink") [Category:自由軟體會議](https://zh.wikipedia.org/wiki/Category:自由軟體會議 "wikilink")
 
 1.

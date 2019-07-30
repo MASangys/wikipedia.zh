@@ -1,5 +1,4 @@
-This temporary tracking category includes pages which are transcluding
-with parameter syntax problems. The pages are sorted by problem type
+This temporary tracking category includes pages which are transcluding  with parameter syntax problems. The pages are sorted by problem type
 
 | Index | Issue                                 |
 | ----- | ------------------------------------- |

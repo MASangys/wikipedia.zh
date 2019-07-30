@@ -10,8 +10,7 @@
 
   - [路雲·雅堅遜](../Page/路雲·雅堅遜.md "wikilink") 飾 強尼·英格力：探員。
 
-  - [歐嘉·柯瑞蘭寇](https://zh.wikipedia.org/wiki/歐嘉·柯瑞蘭寇 "wikilink") 飾
-    奧菲莉亞：俄罗斯间谍。
+  - [歐嘉·柯瑞蘭寇](https://zh.wikipedia.org/wiki/歐嘉·柯瑞蘭寇 "wikilink") 飾 奧菲莉亞：俄罗斯间谍。
 
   - [本·米勒](../Page/本·米勒.md "wikilink") 飾 安格斯·布加
 
@@ -35,7 +34,7 @@
 
 ### 評價
 
-[爛番茄根據](../Page/爛番茄.md "wikilink")103條評論，持有37%的新鮮度，平均得分4.75／10，觀眾投票則給出50%的分數，平均得分為3.3／5\[6\]。在[Metacritic上](../Page/Metacritic.md "wikilink")，電影獲得了39分\[7\]，整體獲得的評價以負面居多。
+[爛番茄](../Page/爛番茄.md "wikilink")根據105條評論，持有37%的新鮮度，平均得分4.77／10\[6\]。在[Metacritic](../Page/Metacritic.md "wikilink")上，電影獲得了39分\[7\]，整體獲得的評價以負面居多。
 
 ### 票房
 
@@ -56,34 +55,7 @@
   -
   -
   -
-[Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink")
-[Category:英國電影作品](https://zh.wikipedia.org/wiki/Category:英國電影作品 "wikilink")
-[Category:2018年電影](https://zh.wikipedia.org/wiki/Category:2018年電影 "wikilink")
-[Category:2010年代冒險片](https://zh.wikipedia.org/wiki/Category:2010年代冒險片 "wikilink")
-[Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink")
-[Category:續集電影](https://zh.wikipedia.org/wiki/Category:續集電影 "wikilink")
-[Category:英國間諜片](https://zh.wikipedia.org/wiki/Category:英國間諜片 "wikilink")
-[Category:英國喜劇片](https://zh.wikipedia.org/wiki/Category:英國喜劇片 "wikilink")
-[Category:喜劇間諜片](https://zh.wikipedia.org/wiki/Category:喜劇間諜片 "wikilink")
-[Category:喜劇動作片](https://zh.wikipedia.org/wiki/Category:喜劇動作片 "wikilink")
-[Category:警匪片](https://zh.wikipedia.org/wiki/Category:警匪片 "wikilink")
-[Category:擬人化角色電影](https://zh.wikipedia.org/wiki/Category:擬人化角色電影 "wikilink")
-[Category:虛擬世界背景電影](https://zh.wikipedia.org/wiki/Category:虛擬世界背景電影 "wikilink")
-[Category:亞洲背景電影](https://zh.wikipedia.org/wiki/Category:亞洲背景電影 "wikilink")
-[Category:歐洲背景電影](https://zh.wikipedia.org/wiki/Category:歐洲背景電影 "wikilink")
-[Category:法國背景電影](https://zh.wikipedia.org/wiki/Category:法國背景電影 "wikilink")
-[Category:日本背景電影](https://zh.wikipedia.org/wiki/Category:日本背景電影 "wikilink")
-[Category:倫敦背景電影](https://zh.wikipedia.org/wiki/Category:倫敦背景電影 "wikilink")
-[Category:新加坡背景電影](https://zh.wikipedia.org/wiki/Category:新加坡背景電影 "wikilink")
-[Category:東京都背景電影](https://zh.wikipedia.org/wiki/Category:東京都背景電影 "wikilink")
-[Category:英國背景電影](https://zh.wikipedia.org/wiki/Category:英國背景電影 "wikilink")
-[Category:法國取景電影](https://zh.wikipedia.org/wiki/Category:法國取景電影 "wikilink")
-[Category:日本取景電影](https://zh.wikipedia.org/wiki/Category:日本取景電影 "wikilink")
-[Category:倫敦取景電影](https://zh.wikipedia.org/wiki/Category:倫敦取景電影 "wikilink")
-[Category:新加坡取景電影](https://zh.wikipedia.org/wiki/Category:新加坡取景電影 "wikilink")
-[Category:東京取景電影](https://zh.wikipedia.org/wiki/Category:東京取景電影 "wikilink")
-[Category:通道影業電影](https://zh.wikipedia.org/wiki/Category:通道影業電影 "wikilink")
-[Category:環球影業電影](https://zh.wikipedia.org/wiki/Category:環球影業電影 "wikilink")
+[Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:英國電影作品](https://zh.wikipedia.org/wiki/Category:英國電影作品 "wikilink") [Category:2018年電影](https://zh.wikipedia.org/wiki/Category:2018年電影 "wikilink") [Category:2010年代冒險片](https://zh.wikipedia.org/wiki/Category:2010年代冒險片 "wikilink") [Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink") [Category:續集電影](https://zh.wikipedia.org/wiki/Category:續集電影 "wikilink") [Category:英國間諜片](https://zh.wikipedia.org/wiki/Category:英國間諜片 "wikilink") [Category:英國喜劇片](https://zh.wikipedia.org/wiki/Category:英國喜劇片 "wikilink") [Category:喜劇間諜片](https://zh.wikipedia.org/wiki/Category:喜劇間諜片 "wikilink") [Category:喜劇動作片](https://zh.wikipedia.org/wiki/Category:喜劇動作片 "wikilink") [Category:警匪片](https://zh.wikipedia.org/wiki/Category:警匪片 "wikilink") [Category:擬人化角色電影](https://zh.wikipedia.org/wiki/Category:擬人化角色電影 "wikilink") [Category:虛擬世界背景電影](https://zh.wikipedia.org/wiki/Category:虛擬世界背景電影 "wikilink") [Category:亞洲背景電影](https://zh.wikipedia.org/wiki/Category:亞洲背景電影 "wikilink") [Category:歐洲背景電影](https://zh.wikipedia.org/wiki/Category:歐洲背景電影 "wikilink") [Category:法國背景電影](https://zh.wikipedia.org/wiki/Category:法國背景電影 "wikilink") [Category:日本背景電影](https://zh.wikipedia.org/wiki/Category:日本背景電影 "wikilink") [Category:倫敦背景電影](https://zh.wikipedia.org/wiki/Category:倫敦背景電影 "wikilink") [Category:新加坡背景電影](https://zh.wikipedia.org/wiki/Category:新加坡背景電影 "wikilink") [Category:東京都背景電影](https://zh.wikipedia.org/wiki/Category:東京都背景電影 "wikilink") [Category:英國背景電影](https://zh.wikipedia.org/wiki/Category:英國背景電影 "wikilink") [Category:法國取景電影](https://zh.wikipedia.org/wiki/Category:法國取景電影 "wikilink") [Category:日本取景電影](https://zh.wikipedia.org/wiki/Category:日本取景電影 "wikilink") [Category:倫敦取景電影](https://zh.wikipedia.org/wiki/Category:倫敦取景電影 "wikilink") [Category:新加坡取景電影](https://zh.wikipedia.org/wiki/Category:新加坡取景電影 "wikilink") [Category:東京取景電影](https://zh.wikipedia.org/wiki/Category:東京取景電影 "wikilink") [Category:通道影業電影](https://zh.wikipedia.org/wiki/Category:通道影業電影 "wikilink") [Category:環球影業電影](https://zh.wikipedia.org/wiki/Category:環球影業電影 "wikilink")
 
 1.
 2.

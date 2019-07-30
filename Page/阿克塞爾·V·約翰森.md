@@ -2,8 +2,6 @@
 
 ## 參考資料
 
-[Category:法罗群岛总理](https://zh.wikipedia.org/wiki/Category:法罗群岛总理 "wikilink")
-[Category:法羅群島足球運動員](https://zh.wikipedia.org/wiki/Category:法羅群島足球運動員 "wikilink")
-[Category:哥本哈根大學校友](https://zh.wikipedia.org/wiki/Category:哥本哈根大學校友 "wikilink")
+[Category:法罗群岛总理](https://zh.wikipedia.org/wiki/Category:法罗群岛总理 "wikilink") [Category:法羅群島足球運動員](https://zh.wikipedia.org/wiki/Category:法羅群島足球運動員 "wikilink") [Category:哥本哈根大學校友](https://zh.wikipedia.org/wiki/Category:哥本哈根大學校友 "wikilink")
 
 1.

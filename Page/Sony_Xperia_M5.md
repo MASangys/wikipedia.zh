@@ -1,8 +1,4 @@
-**Sony Xperia
-M5**是一款由[索尼製造](../Page/索尼.md "wikilink")，於2015年8月3日和[Xperia
-C5
-Ultra共同發表的手機](https://zh.wikipedia.org/wiki/Xperia_C5_Ultra "wikilink")\[1\]。市場設定為中階機種，擁有不錯的防水性能（因為其主打防水性能又稱水水機）
-。另外，還有雙卡版本Sony Xperia M5 dual。
+**Sony Xperia M5**是一款由[索尼](../Page/索尼.md "wikilink")製造，於2015年8月3日和[Xperia C5 Ultra共同發表的手機](https://zh.wikipedia.org/wiki/Xperia_C5_Ultra "wikilink")\[1\]。市場設定為中階機種，擁有不錯的防水性能（因為其主打防水性能又稱水水機） 。另外，還有雙卡版本Sony Xperia M5 dual。
 
 ## 設計特點
 
@@ -24,20 +20,13 @@ Ultra共同發表的手機](https://zh.wikipedia.org/wiki/Xperia_C5_Ultra "wikil
 
 <references />
 
-  - [Sony Xperia M5 Dual –主題樂園試用 2150
-    萬像素鏡頭](http://www.dcfever.com/news/readnews.php?id=14357)
-  - [索尼Xperia
-    M5上手：支持相位对焦的防水手机(1)](http://tech.china.com/news/11146420/20150919/20425528.html)
+  - [Sony Xperia M5 Dual –主題樂園試用 2150 萬像素鏡頭](http://www.dcfever.com/news/readnews.php?id=14357)
+  - [索尼Xperia M5上手：支持相位对焦的防水手机(1)](http://tech.china.com/news/11146420/20150919/20425528.html)
 
 ## 外部链接
 
-[Xperia
-M5官方網站](http://www.sonymobile.com/global-zh/products/phones/xperia-m5/)
+[Xperia M5官方網站](http://www.sonymobile.com/global-zh/products/phones/xperia-m5/)
 
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")
-[Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
+[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink") [Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
 
 1.

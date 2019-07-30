@@ -1,5 +1,4 @@
-**硒酸铈(IV)**是一种无机化合物，[化学式为Ce](../Page/化学式.md "wikilink")(SeO<sub>4</sub>)<sub>2</sub>。其[空间群为](../Page/空间群.md "wikilink")*Pbca*，[晶胞参数为a](https://zh.wikipedia.org/wiki/晶胞参数 "wikilink")
-= 9.748 Å，b = 9.174 Å，c = 13.740 Å。\[1\]
+**硒酸铈(IV)**是一种无机化合物，[化学式](../Page/化学式.md "wikilink")为Ce(SeO<sub>4</sub>)<sub>2</sub>。其[空间群](../Page/空间群.md "wikilink")为*Pbca*，[晶胞参数为a](https://zh.wikipedia.org/wiki/晶胞参数 "wikilink") = 9.748 Å，b = 9.174 Å，c = 13.740 Å。\[1\]
 
 ## 参考文献
 

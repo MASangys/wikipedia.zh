@@ -1,9 +1,8 @@
-《**INFINITE
-ONLY**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE的第六張韓語迷你專輯](../Page/INFINITE.md "wikilink")，於2016年9月19日發行\[1\]，主打曲為《태풍》。
+《**INFINITE ONLY**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")的第六張韓語迷你專輯，於2016年9月19日發行\[1\]，主打曲為《태풍》。
 
 ## 背景
 
-2016年8月31日，經紀公司[Woollim娛樂在官方Youtube頻道發佈回歸預告](../Page/Woollim娛樂.md "wikilink")\[2\]，隨後於9月2日公開新專輯名字及標誌\[3\]。
+2016年8月31日，經紀公司[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")在官方Youtube頻道發佈回歸預告\[2\]，隨後於9月2日公開新專輯名字及標誌\[3\]。
 
 ## 曲目
 
@@ -140,11 +139,7 @@ ONLY**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 
 ## 參考資料
 
-[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:INFINITE音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE音樂專輯 "wikilink")
-[Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2016年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯月榜冠軍作品 "wikilink")
+[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:INFINITE音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE音樂專輯 "wikilink") [Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink") [Category:2016年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯月榜冠軍作品 "wikilink")
 
 1.
 

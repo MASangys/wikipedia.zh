@@ -1,6 +1,6 @@
-**卡爾弗線**（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的一條[地鐵路線](../Page/地鐵.md "wikilink")，由向南至[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")[康尼島](../Page/康尼島.md "wikilink")。此線以命名，並興建了現時地鐵路線的前身，原初路線。卡爾弗線慢車軌道有[F線使用](../Page/紐約地鐵F線.md "wikilink")，另外[G線也服務介乎](../Page/紐約地鐵G線.md "wikilink")[卑爾根街和教堂大道之間的路段](https://zh.wikipedia.org/wiki/卑爾根街車站_\(IND卡爾弗線\) "wikilink")。教堂大道以北的快車軌道自1976年就未曾定期使用，介乎[迪特馬斯大道及](../Page/迪特馬斯大道車站_\(IND卡爾弗線\).md "wikilink")[X大道的尖峰特快軌道自](../Page/X大道車站_\(IND卡爾弗線\).md "wikilink")1987年也未曾再有定期使用\[1\]。
+**卡爾弗線**（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的一條[地鐵](../Page/地鐵.md "wikilink")路線，由向南至[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")[康尼島](../Page/康尼島.md "wikilink")。此線以命名，並興建了現時地鐵路線的前身，原初路線。卡爾弗線慢車軌道有[F線使用](../Page/紐約地鐵F線.md "wikilink")，另外[G線也服務介乎](../Page/紐約地鐵G線.md "wikilink")[卑爾根街和教堂大道之間的路段](https://zh.wikipedia.org/wiki/卑爾根街車站_\(IND卡爾弗線\) "wikilink")。教堂大道以北的快車軌道自1976年就未曾定期使用，介乎[迪特馬斯大道及](../Page/迪特馬斯大道車站_\(IND卡爾弗線\).md "wikilink")[X大道的尖峰特快軌道自](../Page/X大道車站_\(IND卡爾弗線\).md "wikilink")1987年也未曾再有定期使用\[1\]。
 
-此線以一個[傑伊街-都會科技以北的](https://zh.wikipedia.org/wiki/傑伊街-都會科技車站_\(IND卡爾弗線\) "wikilink")[聯鎖開始](https://zh.wikipedia.org/wiki/聯鎖 "wikilink")，該處卡爾弗線可以前往[IND第六大道線或](../Page/IND第六大道線.md "wikilink")[IND第八大道線](https://zh.wikipedia.org/wiki/IND第八大道線 "wikilink")，南至的[教堂大道為止](https://zh.wikipedia.org/wiki/教堂大道車站_\(IND卡爾弗線\) "wikilink")，全線多為四線軌道，之後上升跨過，也是唯一原初[獨立地鐵系統位於地面以上的建築](../Page/獨立地鐵系統.md "wikilink")。肯辛頓，一個坡度容許列車上升至紐約市興建、以名義為營運的三線軌道高架結構。此坡度1954年啟用時由肯辛頓西北到[日落公園的舊路線仍然以](https://zh.wikipedia.org/wiki/日落公園_\(布魯克林\) "wikilink")的方式維持原樣，直至1975年關閉為止。此線在康尼島的最後部分位於雙層高架結構的下層，[BMT布萊頓線在上方](https://zh.wikipedia.org/wiki/BMT布萊頓線 "wikilink")。
+此線以一個[傑伊街-都會科技以北的](https://zh.wikipedia.org/wiki/傑伊街-都會科技車站_\(IND卡爾弗線\) "wikilink")[聯鎖開始](https://zh.wikipedia.org/wiki/聯鎖 "wikilink")，該處卡爾弗線可以前往[IND第六大道線](../Page/IND第六大道線.md "wikilink")或[IND第八大道線](https://zh.wikipedia.org/wiki/IND第八大道線 "wikilink")，南至的[教堂大道為止](https://zh.wikipedia.org/wiki/教堂大道車站_\(IND卡爾弗線\) "wikilink")，全線多為四線軌道，之後上升跨過，也是唯一原初[獨立地鐵系統](../Page/獨立地鐵系統.md "wikilink")位於地面以上的建築。肯辛頓，一個坡度容許列車上升至紐約市興建、以名義為營運的三線軌道高架結構。此坡度1954年啟用時由肯辛頓西北到[日落公園的舊路線仍然以](https://zh.wikipedia.org/wiki/日落公園_\(布魯克林\) "wikilink")的方式維持原樣，直至1975年關閉為止。此線在康尼島的最後部分位於雙層高架結構的下層，[BMT布萊頓線在上方](https://zh.wikipedia.org/wiki/BMT布萊頓線 "wikilink")。
 
 卡爾弗線的高架部分到1954年為止都以BMT分部營運，現時只營運舊IND路線的F線列車，並以IND的一部分進行\[2\]和設置[信號](https://zh.wikipedia.org/wiki/鐵路信號機 "wikilink")\[3\]。然而教堂大道以南的高架路段卻使用BMT的電台頻率B1\[4\]\[5\]。
 
@@ -48,7 +48,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>以繼續<a href="../Page/IND第六大道線.md" title="wikilink">IND第六大道線慢車軌道</a>（）開始</p></td>
+<td><p>以繼續<a href="../Page/IND第六大道線.md" title="wikilink">IND第六大道線</a>慢車軌道（）開始</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -393,39 +393,25 @@
 ## 外部連結
 
   -
-  - [NYCsubway.org – IND Crosstown
-    Line](http://nycsubway.org/ind/crosstown/)
+  - [NYCsubway.org – IND Crosstown Line](http://nycsubway.org/ind/crosstown/)
 
   - [NYCsubway.org – BMT Culver Line](http://nycsubway.org/bmt/culver/)
 
-  - [The Prospect Park and South Brooklyn Railroad Company and The
-    Culver Shuttle (Arrt's
-    Arrchives)](http://arrts-arrchives.com/PP&SB.html)
+  - [The Prospect Park and South Brooklyn Railroad Company and The Culver Shuttle (Arrt's Arrchives)](http://arrts-arrchives.com/PP&SB.html)
 
-  - [Brooklyn F Express Study and Culver Line Track
-    Diagram](http://web.mta.info/nyct/service/pdf/F_express.pdf)
+  - [Brooklyn F Express Study and Culver Line Track Diagram](http://web.mta.info/nyct/service/pdf/F_express.pdf)
 
-  - [G Line Track Diagram: Court Square to Church
-    Avenue](http://web.mta.info/nyct/service/G_Appendices_7_10_13.pdf#page=21)
+  - [G Line Track Diagram: Court Square to Church Avenue](http://web.mta.info/nyct/service/G_Appendices_7_10_13.pdf#page=21)
 
-  - [Track Diagram: Bergen Street to Church
-    Avenue](http://cdn-sas.secondavenuesagas.com/wp-content/uploads/Culver%20Presentation.pdf#page=29)
+  - [Track Diagram: Bergen Street to Church Avenue](http://cdn-sas.secondavenuesagas.com/wp-content/uploads/Culver%20Presentation.pdf#page=29)
 
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1919年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1919年啟用的鐵路線 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1919年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1919年啟用的鐵路線 "wikilink")
 
 1.
 
 2.
 
-3.  [City of New
-    York](https://zh.wikipedia.org/wiki/City_of_New_York "wikilink")
-    Office of the Comptroller, [Dilemma in the : Capital Needs of the
-    World's Capital
-    City](http://www.comptroller.nyc.gov/bureaus/eng/complete.pdf) ,
-    August 1998, signal system data table (page 197) from the [New York
-    City Transit
-    Authority](https://zh.wikipedia.org/wiki/New_York_City_Transit_Authority "wikilink")
+3.  [City of New York](https://zh.wikipedia.org/wiki/City_of_New_York "wikilink") Office of the Comptroller, [Dilemma in the  : Capital Needs of the World's Capital City](http://www.comptroller.nyc.gov/bureaus/eng/complete.pdf) , August 1998, signal system data table (page 197) from the [New York City Transit Authority](https://zh.wikipedia.org/wiki/New_York_City_Transit_Authority "wikilink")
 
 4.
 5.
@@ -434,17 +420,9 @@
 
 7.
 
-8.  [New York
-    Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"),
-    [City Subway Adds
-    Link](https://www.nytimes.com/1933/03/21/archives/city-subway-adds-link-extension-to-bergensmith-street-station-in.html),
-    March 21, 1933, page 4
+8.  [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), [City Subway Adds Link](https://www.nytimes.com/1933/03/21/archives/city-subway-adds-link-extension-to-bergensmith-street-station-in.html), March 21, 1933, page 4
 
-9.  [New York
-    Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"),
-    [City Subway
-    Extended](https://www.nytimes.com/1933/10/07/archives/6000000-saving-planned-for-irt-drastic-economies-described-by.html),
-    October 7, 1933, page 16
+9.  [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), [City Subway Extended](https://www.nytimes.com/1933/10/07/archives/6000000-saving-planned-for-irt-drastic-economies-described-by.html), October 7, 1933, page 16
 
 10.
 11.
@@ -454,12 +432,7 @@
 15.
 16.
 
-17. [New York
-    Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"),
-    [B.R.T. Will Open Culver Line Elevated Road as Far as Kings Highway
-    on Sunday
-    Next](https://select.nytimes.com/gst/abstract.html?res=FA0D14FC355D147A93CBA91788D85F4D8185F9),
-    March 9, 1919, page 23
+17. [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), [B.R.T. Will Open Culver Line Elevated Road as Far as Kings Highway on Sunday Next](https://select.nytimes.com/gst/abstract.html?res=FA0D14FC355D147A93CBA91788D85F4D8185F9), March 9, 1919, page 23
 
 18.
 19.
@@ -482,17 +455,9 @@
 36.
 37.
 38.
-39. [New York
-    Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"),
-    [New Transit Line
-    Opened](https://www.nytimes.com/1919/05/11/archives/new-transit-line-opened-culver-elevated-service-extended-from-kings.html),
-    May 11, 1919, page 25
+39. [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), [New Transit Line Opened](https://www.nytimes.com/1919/05/11/archives/new-transit-line-opened-culver-elevated-service-extended-from-kings.html), May 11, 1919, page 25
 
-40. [New York
-    Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"),
-    [New Culver
-    Extension](https://www.nytimes.com/1919/05/18/archives/new-culver-extension-runs-now-as-fay-as-avenue-x-soon-will-reach.html),
-    May 18, 1919, page 116
+40. [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), [New Culver Extension](https://www.nytimes.com/1919/05/18/archives/new-culver-extension-runs-now-as-fay-as-avenue-x-soon-will-reach.html), May 18, 1919, page 116
 
 41.
 42.

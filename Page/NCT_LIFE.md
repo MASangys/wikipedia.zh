@@ -1,5 +1,4 @@
-《**NCT LIFE**》是專屬於偶像團體[NCT](../Page/NCT.md "wikilink")（包含出演节目时尚未出道的男[SM
-ROOKIES](../Page/SM_ROOKIES.md "wikilink")）的網路真人秀。
+《**NCT LIFE**》是專屬於偶像團體[NCT](../Page/NCT.md "wikilink")（包含出演节目时尚未出道的男[SM ROOKIES](../Page/SM_ROOKIES.md "wikilink")）的網路真人秀。
 
 每一季NCT都會去到一個城市旅遊拍攝、完成任務，展現NCT不同的樣貌與獨特的魅力\[1\]。節目首播於2016年4月16日播出，目前已播出八季。
 
@@ -44,9 +43,9 @@ ROOKIES](../Page/SM_ROOKIES.md "wikilink")）的網路真人秀。
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/NCT_Life_in_Seoul" title="wikilink">NCT LIFE in Seoul</a>》</p></td>
-<td><p>韓國<a href="../Page/首爾.md" title="wikilink">首爾特別市</a>。</p></td>
+<td><p>韓國<a href="../Page/首爾.md" title="wikilink">首爾</a>特別市。</p></td>
 <td><p>成員與新加入的兩位中國籍練習生在首爾展開為期兩天一夜的旅行。<br />
-旅遊景點：SM C&amp;C大樓、<a href="../Page/梨泰院.md" title="wikilink">梨泰院經理團路</a>、<a href="../Page/北村韓屋村.md" title="wikilink">北村韓屋村</a>、<a href="../Page/三岛_(首尔).md" title="wikilink">三島</a>、<a href="../Page/清溪川.md" title="wikilink">清溪川</a></p></td>
+旅遊景點：SM C&amp;C大樓、<a href="../Page/梨泰院.md" title="wikilink">梨泰院</a>經理團路、<a href="../Page/北村韓屋村.md" title="wikilink">北村韓屋村</a>、<a href="../Page/三岛_(首尔).md" title="wikilink">三島</a>、<a href="../Page/清溪川.md" title="wikilink">清溪川</a></p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
@@ -86,7 +85,7 @@ ROOKIES](../Page/SM_ROOKIES.md "wikilink")）的網路真人秀。
 <td><p>7</p></td>
 <td><p>《NCT LIFE in Osaka》</p></td>
 <td><p>日本<a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a>、<a href="https://zh.wikipedia.org/wiki/京都府" title="wikilink">京都府</a></p></td>
-<td><p>以日本成員<a href="../Page/悠太.md" title="wikilink">悠太為嚮導</a>，帶領成員們一起暢遊大阪京都。[4]<br />
+<td><p>以日本成員<a href="../Page/悠太.md" title="wikilink">悠太</a>為嚮導，帶領成員們一起暢遊大阪京都。[4]<br />
 旅遊景點：釣船茶屋、<a href="../Page/大阪城公園.md" title="wikilink">大阪城公園</a>、章魚燒專賣店、天保山大摩天輪、<a href="../Page/唐吉訶德_(企業).md" title="wikilink">唐吉軻德</a>、<a href="../Page/日本環球影城.md" title="wikilink">日本環球影城</a>、<a href="../Page/東映太秦映畫村.md" title="wikilink">東映太秦映畫村</a>、<a href="../Page/嵐山_(京都市).md" title="wikilink">嵐山</a></p></td>
 </tr>
 <tr class="even">
@@ -107,9 +106,7 @@ ROOKIES](../Page/SM_ROOKIES.md "wikilink")）的網路真人秀。
 
 ## 播放平台
 
-  - 第一至四季：TRUE4U（泰國）、[Naver
-    TVcast](https://zh.wikipedia.org/wiki/Naver "wikilink")、V LIVE、MBC
-    Music（韓國）、阿里音樂頻道、[优酷](../Page/优酷.md "wikilink")、[土豆](../Page/土豆网.md "wikilink")（中國大陆）、[MTV](https://zh.wikipedia.org/wiki/MTV "wikilink")（臺灣）
+  - 第一至四季：TRUE4U（泰國）、[Naver TVcast](https://zh.wikipedia.org/wiki/Naver "wikilink")、V LIVE、MBC Music（韓國）、阿里音樂頻道、[优酷](../Page/优酷.md "wikilink")、[土豆](../Page/土豆网.md "wikilink")（中國大陆）、[MTV](https://zh.wikipedia.org/wiki/MTV "wikilink")（臺灣）
   - 第五至六季：Naver TVcast、V LIVE（韓國）、優酷、土豆（中國）
   - 第七季：KBS Joy、oksusu（韓國）
   - 第八季：Youtube
@@ -121,11 +118,7 @@ ROOKIES](../Page/SM_ROOKIES.md "wikilink")）的網路真人秀。
   - [官方網站](http://nct.smtown.com/Intro)
   - 包含[NCT LIFE](http://channels.vlive.tv/F3C16D/video)的V LIVE頻道
 
-[Category:NCT](https://zh.wikipedia.org/wiki/Category:NCT "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink")
-[Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink")
-[Category:旅遊節目](https://zh.wikipedia.org/wiki/Category:旅遊節目 "wikilink")
+[Category:NCT](https://zh.wikipedia.org/wiki/Category:NCT "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink") [Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink") [Category:旅遊節目](https://zh.wikipedia.org/wiki/Category:旅遊節目 "wikilink")
 
 1.
 2.

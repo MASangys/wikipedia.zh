@@ -1,27 +1,26 @@
-**JK经济**（），在日本指有偿提供与[女高中生](https://zh.wikipedia.org/wiki/女高中生 "wikilink")（，简称JK）近距离接触服务的[商业模式](../Page/商业.md "wikilink")\[1\]\[2\]。
+**JK经济**（），在日本指有偿提供与[女高中生](https://zh.wikipedia.org/wiki/女高中生 "wikilink")（，简称JK）近距离接触服务的[商业](../Page/商业.md "wikilink")模式\[1\]\[2\]。
 
 ## 发展
 
 2006年左右起，日本[东京都](../Page/東京都.md "wikilink")[秋叶原出现与](../Page/秋葉原.md "wikilink")[女仆咖啡厅不同](../Page/女僕咖啡廳.md "wikilink")（或从其演化而来）的新经营模式“JK按摩”（），其中店员穿着女高中生[制服](../Page/制服.md "wikilink")，提供称为“[区域反射疗法](https://zh.wikipedia.org/wiki/區域反射療法 "wikilink")”的简单按摩服务\[3\]，这类店铺随后扩展到东京都[新宿](../Page/新宿.md "wikilink")、[池袋](../Page/池袋.md "wikilink")、[涩谷和](../Page/澀谷.md "wikilink")[大阪府的](https://zh.wikipedia.org/wiki/大阪府 "wikilink")等地\[4\]。“JK按摩”的主要卖点是按摩时的近距离接触感，除按摩外，还提供在单独房间内进行2人悄悄话、膝枕、掏耳、在旁边陪睡觉等服务\[5\]\[6\]。
 
-由于“JK按摩”不属于[风俗店或](https://zh.wikipedia.org/wiki/風俗店 "wikilink")，经营这类店铺无需特别或\[7\]。尽管日本规定按摩店师傅需要获得的[国家资格认证](https://zh.wikipedia.org/wiki/認證 "wikilink")，但区域反射疗法类服务是否属于真正的按摩行为是灰色地带，因此这些店员并未经过相关认证\[8\]。不属于风俗店的“JK按摩”即使雇用未满18岁的少女也不会违反《》，因此店员中除高中毕业后来进行[Cosplay的女性外](../Page/Cosplay.md "wikilink")，包括18岁以下在内，真正的女高中生也有不少，部分店铺亦将此作为卖点之一宣传\[9\]。
+由于“JK按摩”不属于[风俗店或](https://zh.wikipedia.org/wiki/風俗店 "wikilink")，经营这类店铺无需特别或\[7\]。尽管日本规定按摩店师傅需要获得的[国家资格认证](https://zh.wikipedia.org/wiki/認證 "wikilink")，但区域反射疗法类服务是否属于真正的按摩行为是灰色地带，因此这些店员并未经过相关认证\[8\]。不属于风俗店的“JK按摩”即使雇用未满18岁的少女也不会违反《》，因此店员中除高中毕业后来进行[Cosplay](../Page/Cosplay.md "wikilink")的女性外，包括18岁以下在内，真正的女高中生也有不少，部分店铺亦将此作为卖点之一宣传\[9\]。
 
 日本《》规定，禁止让未满18岁的劳动者“”“[时间外劳动](../Page/加班.md "wikilink")”和“休日劳动”。只要不要求18岁以下店员进行这些劳动，店方雇用就没有问题。\[10\]
 
-光顾“JK按摩”的[男性通过要求少女进一步提供近距离接触的服务](../Page/男性.md "wikilink")，容易与女性店员发生[性行为](../Page/性交.md "wikilink")；比起其他的，店里进行的服务不难，报酬又高，来当店员的少女也不少，“JK按摩”日渐成为变相的风俗店。如上文所述，这些店铺并不违反《风俗营业法》，未满18岁的少女相当于在钻法律空子的风俗店中工作，给[雏妓和](../Page/雛妓.md "wikilink")[跟踪狂犯罪以温床](../Page/纏擾.md "wikilink")，引发社会关注。\[11\]还有店铺因规定有，店员只好到路上强行拉客，导致社会问题的出现\[12\]。
+光顾“JK按摩”的[男性](../Page/男性.md "wikilink")通过要求少女进一步提供近距离接触的服务，容易与女性店员发生[性行为](../Page/性交.md "wikilink")；比起其他的，店里进行的服务不难，报酬又高，来当店员的少女也不少，“JK按摩”日渐成为变相的风俗店。如上文所述，这些店铺并不违反《风俗营业法》，未满18岁的少女相当于在钻法律空子的风俗店中工作，给[雏妓和](../Page/雛妓.md "wikilink")[跟踪狂犯罪以温床](../Page/纏擾.md "wikilink")，引发社会关注。\[11\]还有店铺因规定有，店员只好到路上强行拉客，导致社会问题的出现\[12\]。
 
-在警方查处一些“JK按摩”店铺之后（见下文），又出现了名为“JK摄影会”（）的新模式，顾客可要求女高中生穿上[制服或](../Page/制服.md "wikilink")[泳衣](../Page/泳衣.md "wikilink")，并与之进行2人合影\[13\]。和“JK按摩”一样，由于不受《风俗营业法》的约束，这项服务也有真正的女高中生和18岁以下少女从事。由于摄影场所多装饰成教室或是女高中生的私人房间，根据男性顾客的指示，女高中生可能做出让人观看裙下内裤的姿势，或是身穿泳装、摆出性暗示类姿势，这类服务被视为[儿童色情等犯罪行为的温床](../Page/兒童色情.md "wikilink")。
+在警方查处一些“JK按摩”店铺之后（见下文），又出现了名为“JK摄影会”（）的新模式，顾客可要求女高中生穿上[制服](../Page/制服.md "wikilink")或[泳衣](../Page/泳衣.md "wikilink")，并与之进行2人合影\[13\]。和“JK按摩”一样，由于不受《风俗营业法》的约束，这项服务也有真正的女高中生和18岁以下少女从事。由于摄影场所多装饰成教室或是女高中生的私人房间，根据男性顾客的指示，女高中生可能做出让人观看裙下内裤的姿势，或是身穿泳装、摆出性暗示类姿势，这类服务被视为[儿童色情等犯罪行为的温床](../Page/兒童色情.md "wikilink")。
 
-[日本警察对此没有完全坐视不管](../Page/日本警察.md "wikilink")，他们查处了部分“JK按摩”“JK摄影会”和“JK见学店”，有的涉嫌对未满18岁员工作出违反《》对待行为（危险有害业务），有的涉嫌违反《》（有害支配行为），有的涉嫌违反《》（儿童色情制造），还有的涉嫌违反《》（无许可营业）\[14\]\[15\]\[16\]\[17\]\[18\]。
+[日本警察](../Page/日本警察.md "wikilink")对此没有完全坐视不管，他们查处了部分“JK按摩”“JK摄影会”和“JK见学店”，有的涉嫌对未满18岁员工作出违反《》对待行为（危险有害业务），有的涉嫌违反《》（有害支配行为），有的涉嫌违反《》（儿童色情制造），还有的涉嫌违反《》（无许可营业）\[14\]\[15\]\[16\]\[17\]\[18\]。
 
 然而，这之后又诞生了采用名为“JK散步”（）这一新经营模式的店铺，不同于在单独房间进行的“JK按摩”“JK摄影会”，该服务宣传的是与女高中生一起散步（事实上的店外约会），顾客可与其2人单独前往和[漫画咖啡店等地](../Page/漫畫咖啡店.md "wikilink")\[19\]。JK在散步途中会和客人聊天，这有时又称为“占卜”（）\[20\]\[21\]。和“JK按摩”“JK摄影会”一样，由于不受《风俗营业法》的约束，这项服务也有真正的女高中生和18岁以下少女从事，被视为嫖宿幼女等犯罪行为的温床，在路上强行拉客亦成为问题之一。
 
 2013年4月后，日本警方将从事“JK按摩”“JK摄影会”“JK散步”等“JK经济”行业的17岁以下女性设为对象\[22\]，并在2014年12月后扩大范围，将18岁的女高中生也包括在内\[23\]。像上面那样，“JK经济”店铺会通过改变具体的经营形态保持营业，为减少警察查处的风险，还有经营者选择放弃实体店铺，通过“无店铺”方式在互联网上揽客，“JK经济”和警察的猫鼠游戏至今仍在继续\[24\]\[25\]。
 
-2014年，[美国国务院公布了一份](../Page/美国国务院.md "wikilink")[报告](https://zh.wikipedia.org/wiki/报告 "wikilink")，在这份《年度人口贩运报告》中，[日本的](../Page/日本.md "wikilink")“JK散步”被看成是性目的人口贩卖（[援助交际](../Page/援助交際.md "wikilink")）的实例之一\[26\]\[27\]。美国国务院指出[日本政府](https://zh.wikipedia.org/wiki/日本政府 "wikilink")“没有完全遵守消除人口贩运的最低标准”
-，“继续助长日本儿童的性交易”\[28\]。
+2014年，[美国国务院](../Page/美国国务院.md "wikilink")公布了一份[报告](https://zh.wikipedia.org/wiki/报告 "wikilink")，在这份《年度人口贩运报告》中，[日本](../Page/日本.md "wikilink")的“JK散步”被看成是性目的人口贩卖（[援助交际](../Page/援助交際.md "wikilink")）的实例之一\[26\]\[27\]。美国国务院指出[日本政府](https://zh.wikipedia.org/wiki/日本政府 "wikilink")“没有完全遵守消除人口贩运的最低标准” ，“继续助长日本儿童的性交易”\[28\]。
 
-活动人士强烈批评政府在此问题上的不作为，她在[东京建立了一个慈善机构帮助这些女孩](../Page/东京.md "wikilink")\[29\]\[30\]\[31\]。文化人类学家认为日本有一种[耻感文化](https://zh.wikipedia.org/wiki/耻感文化 "wikilink")，阻碍离家出走的青少年与家庭重新团聚，使得他们更容易被招进未成年性行业\[32\]\[33\]。
+活动人士强烈批评政府在此问题上的不作为，她在[东京](../Page/东京.md "wikilink")建立了一个慈善机构帮助这些女孩\[29\]\[30\]\[31\]。文化人类学家认为日本有一种[耻感文化](https://zh.wikipedia.org/wiki/耻感文化 "wikilink")，阻碍离家出走的青少年与家庭重新团聚，使得他们更容易被招进未成年性行业\[32\]\[33\]。
 
 2015年3月，[爱知县通过](../Page/愛知縣.md "wikilink")《[青少年保护育成条例](../Page/青少年保護育成條例.md "wikilink")》修正案，规定JK经济属于“有害役务营业”，禁止未满18岁人士接客，政府部分会上门调查进行有害役务营业的店铺，若发现违规会下达营业停止命令，违反停业命令者处1年以下监禁或50万日元以下罚金。这些内容包含在《JK经济包括性规制条例》（）中，于7月生效\[34\]。
 
@@ -52,9 +51,7 @@
 
   - [恋青少年](../Page/戀青少年.md "wikilink")
 
-[Category:女孩](https://zh.wikipedia.org/wiki/Category:女孩 "wikilink")
-[Category:日本性产业](https://zh.wikipedia.org/wiki/Category:日本性产业 "wikilink")
-[Category:性交易](https://zh.wikipedia.org/wiki/Category:性交易 "wikilink")
+[Category:女孩](https://zh.wikipedia.org/wiki/Category:女孩 "wikilink") [Category:日本性产业](https://zh.wikipedia.org/wiki/Category:日本性产业 "wikilink") [Category:性交易](https://zh.wikipedia.org/wiki/Category:性交易 "wikilink")
 
 1.
 
@@ -86,13 +83,9 @@
 18.
 
 19.
-20. ["In-debt idols send wrong message to
-    girls"](http://www.japantimes.co.jp/news/2014/10/11/national/media-national/debt-idols-send-wrong-message-girls),
-    [Japan Times](https://zh.wikipedia.org/wiki/日本时报 "wikilink")
+20. ["In-debt idols send wrong message to girls"](http://www.japantimes.co.jp/news/2014/10/11/national/media-national/debt-idols-send-wrong-message-girls), [Japan Times](https://zh.wikipedia.org/wiki/日本时报 "wikilink")
 
-21. [](http://www.asahi.com/articles/TKY201310020130.html),
-    [朝日新闻](https://zh.wikipedia.org/wiki/朝日新闻 "wikilink"),
-    2013年10月2日
+21. [](http://www.asahi.com/articles/TKY201310020130.html), [朝日新闻](https://zh.wikipedia.org/wiki/朝日新闻 "wikilink"), 2013年10月2日
 
 22.
 23.
@@ -102,9 +95,7 @@
 
 26.
 
-27. [2014 Trafficking in Persons
-    Report](http://www.state.gov/j/tip/rls/tiprpt/countries/2014/226748.htm)
-    [美国国务院](../Page/美国国务院.md "wikilink")
+27. [2014 Trafficking in Persons Report](http://www.state.gov/j/tip/rls/tiprpt/countries/2014/226748.htm) [美国国务院](../Page/美国国务院.md "wikilink")
 
 28.
 

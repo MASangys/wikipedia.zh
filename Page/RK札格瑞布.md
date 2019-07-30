@@ -53,5 +53,4 @@
 
   - [官方網站](http://rk-zagreb.hr/)
 
-[Category:克羅埃西亞手球俱樂部](https://zh.wikipedia.org/wiki/Category:克羅埃西亞手球俱樂部 "wikilink")
-[Category:1922年建立](https://zh.wikipedia.org/wiki/Category:1922年建立 "wikilink")
+[Category:克羅埃西亞手球俱樂部](https://zh.wikipedia.org/wiki/Category:克羅埃西亞手球俱樂部 "wikilink") [Category:1922年建立](https://zh.wikipedia.org/wiki/Category:1922年建立 "wikilink")

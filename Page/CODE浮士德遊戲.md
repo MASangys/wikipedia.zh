@@ -1,5 +1,4 @@
-《**CODE
-浮士德遊戲**》（），2016年[臺灣網路劇](../Page/臺灣.md "wikilink")，首度以科幻為主的偶像劇。為集合電影首部自製網路電視劇，獲得文化部104年度補助製作行動寬頻影音節目補助，由[吳慷仁](../Page/吳慷仁.md "wikilink")、[謝沛恩](../Page/謝沛恩.md "wikilink")、[張翰領銜主演](../Page/張翰_\(台灣演員\).md "wikilink")。\[1\]\[2\]，2016年3月4日全劇正式殺青\[3\]，於2016年10月1日起在[愛奇藝台灣站上架](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")，2017年1月21日在[衛視電影台播出](../Page/衛視電影台.md "wikilink")。
+《**CODE 浮士德遊戲**》（），2016年[臺灣](../Page/臺灣.md "wikilink")網路劇，首度以科幻為主的偶像劇。為集合電影首部自製網路電視劇，獲得文化部104年度補助製作行動寬頻影音節目補助，由[吳慷仁](../Page/吳慷仁.md "wikilink")、[謝沛恩](../Page/謝沛恩.md "wikilink")、[張翰領銜主演](../Page/張翰_\(台灣演員\).md "wikilink")。\[1\]\[2\]，2016年3月4日全劇正式殺青\[3\]，於2016年10月1日起在[愛奇藝台灣站上架](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")，2017年1月21日在[衛視電影台](../Page/衛視電影台.md "wikilink")播出。
 
 ## 播出時間
 
@@ -40,8 +39,7 @@
 
 ## 劇情大綱
 
-Alex（吳慷仁 飾）只是一個平凡且工作能力平平的銀行理財專員，因想讓未婚妻（謝沛恩
-飾）以後過上有錢的好日子，聽信了公司的內線消息，卻一夜之間失去了所有的存款積蓄，此時出現了謎樣的APP「CODE」，此APP宣稱可以實現任何願望，Alex開始胡亂許願，但也要完成CODE指定的任務「還願」，隨著願望越大，任務也越困難複雜，最後卻引發了一連串的犯罪事件。
+Alex（吳慷仁 飾）只是一個平凡且工作能力平平的銀行理財專員，因想讓未婚妻（謝沛恩 飾）以後過上有錢的好日子，聽信了公司的內線消息，卻一夜之間失去了所有的存款積蓄，此時出現了謎樣的APP「CODE」，此APP宣稱可以實現任何願望，Alex開始胡亂許願，但也要完成CODE指定的任務「還願」，隨著願望越大，任務也越困難複雜，最後卻引發了一連串的犯罪事件。
 
 ## 演員列表
 
@@ -104,7 +102,6 @@ Alex（吳慷仁 飾）只是一個平凡且工作能力平平的銀行理財專
 | [潘繡安](https://zh.wikipedia.org/wiki/潘繡安 "wikilink")               | 銀行業務    | 全劇       |
 | [許庭菘](https://zh.wikipedia.org/wiki/許庭菘 "wikilink")               | 銀行業務    | 全劇       |
 | [遠藤賢太](https://zh.wikipedia.org/wiki/遠藤賢太 "wikilink")             | 銀行業務    | 全劇       |
-| [王嘉群](https://zh.wikipedia.org/wiki/王嘉群 "wikilink")               | 銀行業務    | 全劇       |
 | [蘇煜㭿](https://zh.wikipedia.org/wiki/蘇煜㭿 "wikilink")               | 銀行業務    | 全劇       |
 | [Aaron S.](https://zh.wikipedia.org/wiki/Aaron_S. "wikilink")     | 銀行業務    | 全劇       |
 | [聶志湧](https://zh.wikipedia.org/wiki/聶志湧 "wikilink")               | 銀行經理    | 6-7.10集  |
@@ -122,22 +119,13 @@ Alex（吳慷仁 飾）只是一個平凡且工作能力平平的銀行理財專
 
 ## 獎項
 
-|- | 2017 |邵慧婷、塗芳祥、詹大為、藍夢荷《CODE浮士德遊戲》
-|[第52屆金鐘獎迷你劇集](https://zh.wikipedia.org/wiki/第52屆金鐘獎 "wikilink")／電視電影編劇獎
-| |}
+|- | 2017 |邵慧婷、塗芳祥、詹大為、藍夢荷《CODE浮士德遊戲》 |[第52屆金鐘獎迷你劇集](https://zh.wikipedia.org/wiki/第52屆金鐘獎 "wikilink")／電視電影編劇獎 | |}
 
 ## 參考資料
 
 ## 外部連結
 
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink")
-[Category:2016年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2016年台灣電視劇集 "wikilink")
-[Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink")
-[Category:驚悚電視劇](https://zh.wikipedia.org/wiki/Category:驚悚電視劇 "wikilink")
-[Category:台灣科幻劇](https://zh.wikipedia.org/wiki/Category:台灣科幻劇 "wikilink")
-[Category:願望成真相關作品](https://zh.wikipedia.org/wiki/Category:願望成真相關作品 "wikilink")
-[Category:手機題材作品](https://zh.wikipedia.org/wiki/Category:手機題材作品 "wikilink")
-[Category:浮士德](https://zh.wikipedia.org/wiki/Category:浮士德 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:2016年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2016年台灣電視劇集 "wikilink") [Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink") [Category:驚悚電視劇](https://zh.wikipedia.org/wiki/Category:驚悚電視劇 "wikilink") [Category:台灣科幻劇](https://zh.wikipedia.org/wiki/Category:台灣科幻劇 "wikilink") [Category:願望成真相關作品](https://zh.wikipedia.org/wiki/Category:願望成真相關作品 "wikilink") [Category:手機題材作品](https://zh.wikipedia.org/wiki/Category:手機題材作品 "wikilink") [Category:浮士德](https://zh.wikipedia.org/wiki/Category:浮士德 "wikilink")
 
 1.  [《CODE浮士德遊戲》首映記者會](http://udn.com/news/story/8/1974845-%E3%80%8ACODE%E6%B5%AE%E5%A3%AB%E5%BE%B7%E9%81%8A%E6%88%B2%E3%80%8B%E9%A6%96%E6%98%A0%E8%A8%98%E8%80%85%E6%9C%83)
 2.  [吳慷仁自嘲外型像胖大叔 33歲不急婚](http://www.chinatimes.com/realtimenews/20160921006421-260404)

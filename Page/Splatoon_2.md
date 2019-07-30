@@ -1,18 +1,14 @@
-是[任天堂开发并发行在](../Page/任天堂.md "wikilink")[任天堂Switch上的](../Page/任天堂Switch.md "wikilink")[第三人称射击游戏](https://zh.wikipedia.org/wiki/第三人称射击游戏 "wikilink")。本作于2017年7月21日在全球发行。其前作为[Wii
-U平台的](../Page/Wii_U.md "wikilink")《[Splatoon](../Page/Splatoon.md "wikilink")》。
+是[任天堂](../Page/任天堂.md "wikilink")开发并发行在[任天堂Switch](../Page/任天堂Switch.md "wikilink")上的[第三人称射击游戏](https://zh.wikipedia.org/wiki/第三人称射击游戏 "wikilink")。本作于2017年7月21日在全球发行。其前作为[Wii U平台的](../Page/Wii_U.md "wikilink")《[Splatoon](../Page/Splatoon.md "wikilink")》。
 
 ## 概要
 
-游戏早于2016年10月[任天堂Switch首部介紹影片中出現](../Page/任天堂Switch.md "wikilink")，曾經引起觀眾和玩家討論本作是為前作完全移植，抑或是以完全新作登場。2017年1月，本作於任天堂Switch发布会正式亮相，並確認將會跟隨系列發售時間，將遊戲世界觀設定為前作兩年後。\[1\]
+游戏早于2016年10月[任天堂Switch](../Page/任天堂Switch.md "wikilink")首部介紹影片中出現，曾經引起觀眾和玩家討論本作是為前作完全移植，抑或是以完全新作登場。2017年1月，本作於任天堂Switch发布会正式亮相，並確認將會跟隨系列發售時間，將遊戲世界觀設定為前作兩年後。\[1\]
 
-在2017年4月13日的[任天堂直面會中](https://zh.wikipedia.org/wiki/任天堂直面會 "wikilink")，[任天堂就公開了](../Page/任天堂.md "wikilink")《Splatoon
-2》全新的遊戲模式「鮭魚酷跑」的情報，並確認遊戲於2017年7月21日在全球范围内推出。而在5月18日的ARMS直面會中公開了單人遊戲的情報，在7月6日的《Splatoon
-2》直面會中也公開了[任天堂Switch線上服務的語音聊天應用程式等更多情報](../Page/任天堂Switch線上服務.md "wikilink")，並承諾將會支援最少一年內容更新，及兩年定期祭典活動。為達至更正面的遊戲體驗，本作改變了前作同類武器的使用方法，刪改過強的特殊技能，與及改變展示賽後數據的形式。
+在2017年4月13日的[任天堂直面會中](https://zh.wikipedia.org/wiki/任天堂直面會 "wikilink")，[任天堂](../Page/任天堂.md "wikilink")就公開了《Splatoon 2》全新的遊戲模式「鮭魚酷跑」的情報，並確認遊戲於2017年7月21日在全球范围内推出。而在5月18日的ARMS直面會中公開了單人遊戲的情報，在7月6日的《Splatoon 2》直面會中也公開了[任天堂Switch線上服務](../Page/任天堂Switch線上服務.md "wikilink")的語音聊天應用程式等更多情報，並承諾將會支援最少一年內容更新，及兩年定期祭典活動。為達至更正面的遊戲體驗，本作改變了前作同類武器的使用方法，刪改過強的特殊技能，與及改變展示賽後數據的形式。
 
 正式推出初期，遊戲平均每週發佈新款射擊武器組合，及平均每月發佈新比賽場地。後來為了等級賽有更公平體驗，武器組合均改為每月更新。2018年6月，官方宣佈追加半年內容更新，後再於2019年4月再作一次性武器更新。截至2019年4月，官方已確認推出超過40款主要武器及衍生超過130款戰鬥組合，與及超過20款比賽場地。
 
-在2018年3月8日的任天堂直面會中，宣佈將於夏季發售系列首個收費[可下載內容](https://zh.wikipedia.org/wiki/可下載內容 "wikilink")
-《Octo Expansion》，於同年6月14日在全球范围内推出。
+在2018年3月8日的任天堂直面會中，宣佈將於夏季發售系列首個收費[可下載內容](https://zh.wikipedia.org/wiki/可下載內容 "wikilink") 《Octo Expansion》，於同年6月14日在全球范围内推出。
 
 ## 設定
 
@@ -22,8 +18,7 @@ U平台的](../Page/Wii_U.md "wikilink")《[Splatoon](../Page/Splatoon.md "wikil
 
 同一時間，三文魚的族群以難以解釋的速度急劇進化。一間大企業乘勢冒起，以薄酬招聘中心區的青年人打工，讓他們在與三文魚的鬥爭中奪取價值連城的能量。
 
-繼後，一隻喪失記憶的八爪魚被前作的墨魚船長喚醒。對方指其之前在一次與對抗組織3號成員的對壘中，突然被一同攻擊，恢復意識時已經被困在疑似於城鎮地底的廢棄地鐵站內，並跟3號失散。為了逃出，船長決定讓八爪魚成為8號成員，一同登上連接各個測試站的列車。期間他們聯繫上兩位新晉歌手幫忙,
-並與他們回顧一眾八爪魚如何走到今天的社群融合，並意外揭開12000年前一個殘酷的科學計劃。
+繼後，一隻喪失記憶的八爪魚被前作的墨魚船長喚醒。對方指其之前在一次與對抗組織3號成員的對壘中，突然被一同攻擊，恢復意識時已經被困在疑似於城鎮地底的廢棄地鐵站內，並跟3號失散。為了逃出，船長決定讓八爪魚成為8號成員，一同登上連接各個測試站的列車。期間他們聯繫上兩位新晉歌手幫忙, 並與他們回顧一眾八爪魚如何走到今天的社群融合，並意外揭開12000年前一個殘酷的科學計劃。
 
 ### 玩法
 
@@ -43,8 +38,7 @@ U平台的](../Page/Wii_U.md "wikilink")《[Splatoon](../Page/Splatoon.md "wikil
 
 ## 迴響
 
-《Splatoon
-2》獲得了业界很好的評價，其在MetaCritic的汇总得分为83/100，高于前作的81/100。\[2\]GameSpot給這款遊戲8分的評價，並且認為遊戲的單人模式很有趣，但是其中的創意並沒有延續到多人遊戲中。此外每次更換武器都需要退出房間(已改进至可以有20秒更换武器)，遊戲內語音聊天功能的缺失也成為扣分項。
+《Splatoon 2》獲得了业界很好的評價，其在MetaCritic的汇总得分为83/100，高于前作的81/100。\[2\]GameSpot給這款遊戲8分的評價，並且認為遊戲的單人模式很有趣，但是其中的創意並沒有延續到多人遊戲中。此外每次更換武器都需要退出房間(已改进至可以有20秒更换武器)，遊戲內語音聊天功能的缺失也成為扣分項。
 
 2019年4月底公开的第四季（截止至2019年3月底）任天堂财报宣布本作全球销量已达870万份。\[3\]
 
@@ -55,16 +49,9 @@ U平台的](../Page/Wii_U.md "wikilink")《[Splatoon](../Page/Splatoon.md "wikil
   -
   -
   -
-[Category:2017年电子游戏](https://zh.wikipedia.org/wiki/Category:2017年电子游戏 "wikilink")
-[Category:第三人称射击游戏](https://zh.wikipedia.org/wiki/Category:第三人称射击游戏 "wikilink")
-[Category:任天堂企划制作本部游戏](https://zh.wikipedia.org/wiki/Category:任天堂企划制作本部游戏 "wikilink")
-[Category:任天堂Switch獨占遊戲](https://zh.wikipedia.org/wiki/Category:任天堂Switch獨占遊戲 "wikilink")
-[Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink")
-[Category:多人及單人電子遊戲](https://zh.wikipedia.org/wiki/Category:多人及單人電子遊戲 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:可使用amiibo的游戏](https://zh.wikipedia.org/wiki/Category:可使用amiibo的游戏 "wikilink")
+  -
+[Category:2017年电子游戏](https://zh.wikipedia.org/wiki/Category:2017年电子游戏 "wikilink") [Category:第三人称射击游戏](https://zh.wikipedia.org/wiki/Category:第三人称射击游戏 "wikilink") [Category:任天堂企划制作本部游戏](https://zh.wikipedia.org/wiki/Category:任天堂企划制作本部游戏 "wikilink") [Category:任天堂Switch獨占遊戲](https://zh.wikipedia.org/wiki/Category:任天堂Switch獨占遊戲 "wikilink") [Category:多人及單人電子遊戲](https://zh.wikipedia.org/wiki/Category:多人及單人電子遊戲 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:可使用amiibo的游戏](https://zh.wikipedia.org/wiki/Category:可使用amiibo的游戏 "wikilink")
 
 1.
-2.  [Splatoon 2 on Nintendo
-    Switch](http://www.metacritic.com/game/switch/splatoon-2).Metacritic.\[2017-07-26\].
+2.  [Splatoon 2 on Nintendo Switch](http://www.metacritic.com/game/switch/splatoon-2).Metacritic.\[2017-07-26\].
 3.

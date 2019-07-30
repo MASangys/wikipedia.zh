@@ -1,7 +1,4 @@
-《**One
-Room**》是在2017年1月開始播放的[日本原創短篇](../Page/日本.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，為[SMIRAL
-animation繼](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wikilink")《[枕男子](../Page/枕男子.md "wikilink")》和《[動畫鍛鍊！EX](../Page/動畫鍛鍊！EX.md "wikilink")》系列之後推出的第三部[第一人稱視角動畫](https://zh.wikipedia.org/wiki/第一人稱 "wikilink")，內容描述三個發生在「你（One）的房間（Room）」的故事\[1\]。另有男性角色版本《**Room
-Mate**》在同年4月播出\[2\]。第二期動畫於2018年7月2日播映\[3\]。
+《**One Room**》是在2017年1月開始播放的[日本](../Page/日本.md "wikilink")原創短篇[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，為[SMIRAL animation繼](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wikilink")《[枕男子](../Page/枕男子.md "wikilink")》和《[動畫鍛鍊！EX](../Page/動畫鍛鍊！EX.md "wikilink")》系列之後推出的第三部[第一人稱視角動畫](https://zh.wikipedia.org/wiki/第一人稱 "wikilink")，內容描述三個發生在「你（One）的房間（Room）」的故事\[1\]。另有男性角色版本《**Room Mate**》在同年4月播出\[2\]。第二期動畫於2018年7月2日播映\[3\]。
 
 ## 登場人物
 
@@ -49,8 +46,7 @@ Mate**》在同年4月播出\[2\]。第二期動畫於2018年7月2日播映\[3\]
 
   - 原作：[SMIRAL](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wikilink")
   - 企劃：菊田昌史、櫻井崇
-  - 人物原案：[監督](../Page/監督_\(插畫家\).md "wikilink")（One
-    Room）、[左](../Page/左_\(插畫家\).md "wikilink")（Room Mate）
+  - 人物原案：[監督](../Page/監督_\(插畫家\).md "wikilink")（One Room）、[左](../Page/左_\(插畫家\).md "wikilink")（Room Mate）
   - 人物設定、總作畫監督：奧田泰弘（One Room）、中田知里（Room Mate）
   - 故事原案：真野英二
   - 劇本：霜井蒼星
@@ -63,8 +59,7 @@ Mate**》在同年4月播出\[2\]。第二期動畫於2018年7月2日播映\[3\]
   - 音樂：
   - 音樂製作：
   - 製作人：後藤裕、鈴木良兵、鈴木脩一
-  - 動畫製作：[颱風Graphics](https://zh.wikipedia.org/wiki/颱風Graphics "wikilink")、[ZERO-G](../Page/ZERO-G.md "wikilink")（One
-    Room Second Season）
+  - 動畫製作：[颱風Graphics](https://zh.wikipedia.org/wiki/颱風Graphics "wikilink")、[ZERO-G](../Page/ZERO-G.md "wikilink")（One Room Second Season）
   - 製作：「One Room」製作委員會、「Room Mate」製作委員會、「One Room Second Season」製作委員會
 
 ## 主題曲
@@ -559,12 +554,7 @@ Mate**》在同年4月播出\[2\]。第二期動畫於2018年7月2日播映\[3\]
   - [電視動畫《One Room》官方網站](http://oneroom-anime.com/)
 
   -
-[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:練馬區背景作品](https://zh.wikipedia.org/wiki/Category:練馬區背景作品 "wikilink")
-[Category:泡麵番](https://zh.wikipedia.org/wiki/Category:泡麵番 "wikilink")
-[Category:戀愛動畫](https://zh.wikipedia.org/wiki/Category:戀愛動畫 "wikilink")
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
+[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:練馬區背景作品](https://zh.wikipedia.org/wiki/Category:練馬區背景作品 "wikilink") [Category:泡麵番](https://zh.wikipedia.org/wiki/Category:泡麵番 "wikilink") [Category:戀愛動畫](https://zh.wikipedia.org/wiki/Category:戀愛動畫 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
 
 1.
 2.

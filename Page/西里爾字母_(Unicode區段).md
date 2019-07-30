@@ -1,5 +1,4 @@
-**西里爾字母**是一个位于基本多文种平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了目前使用西里尔字母正字法的语言中，最常用的西里尔字母。此区段主要基于ISO
-8859-5。
+**西里爾字母**是一个位于基本多文种平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了目前使用西里尔字母正字法的语言中，最常用的西里尔字母。此区段主要基于ISO 8859-5。
 
 ## 历史
 

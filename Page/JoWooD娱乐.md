@@ -1,7 +1,6 @@
 是一家于1995年建立的[奥地利游戏公司](https://zh.wikipedia.org/wiki/奥地利 "wikilink")。
 
-公司由Dieter Bernauer、Johann Reitinger、Johann Schilcher和Andreas
-Tobler于1995年在[埃本塞建立](https://zh.wikipedia.org/wiki/埃本塞 "wikilink")。不久，公司搬迁至[利岑](https://zh.wikipedia.org/wiki/利岑县 "wikilink")。
+公司由Dieter Bernauer、Johann Reitinger、Johann Schilcher和Andreas Tobler于1995年在[埃本塞建立](https://zh.wikipedia.org/wiki/埃本塞 "wikilink")。不久，公司搬迁至[利岑](https://zh.wikipedia.org/wiki/利岑县 "wikilink")。
 
 2011年1月7日，JoWooD宣布破产。
 
@@ -284,10 +283,10 @@ Tobler于1995年在[埃本塞建立](https://zh.wikipedia.org/wiki/埃本塞 "wi
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>{{tsl|en|Legend of Kay</p></td>
-<td><p>凱之傳奇}} [18]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Legend_of_Kay" title="wikilink">凱之傳奇</a> [18]</p></td>
 <td></td>
 <td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Neon_Studios" title="wikilink">Neon Studios</a></p></td>
 </tr>
 <tr class="even">
 <td><p>{{tsl|en|SpellForce 2: Shadow Wars</p></td>
@@ -444,11 +443,7 @@ Tobler于1995年在[埃本塞建立](https://zh.wikipedia.org/wiki/埃本塞 "wi
 
 ## 参考资料
 
-[Category:1995年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1995年開業電子遊戲公司 "wikilink")
-[Category:2011年結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2011年結業電子遊戲公司 "wikilink")
-[Category:已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:已結業電子遊戲公司 "wikilink")
-[Category:奧地利電子遊戲公司](https://zh.wikipedia.org/wiki/Category:奧地利電子遊戲公司 "wikilink")
-[Category:THQ_Nordic](https://zh.wikipedia.org/wiki/Category:THQ_Nordic "wikilink")
+[Category:1995年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1995年開業電子遊戲公司 "wikilink") [Category:2011年結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2011年結業電子遊戲公司 "wikilink") [Category:已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:已結業電子遊戲公司 "wikilink") [Category:奧地利電子遊戲公司](https://zh.wikipedia.org/wiki/Category:奧地利電子遊戲公司 "wikilink") [Category:THQ_Nordic](https://zh.wikipedia.org/wiki/Category:THQ_Nordic "wikilink")
 
 1.
 2.
@@ -467,12 +462,9 @@ Tobler于1995年在[埃本塞建立](https://zh.wikipedia.org/wiki/埃本塞 "wi
 15.
 16.
 17.
-18. PAL version of the PlayStation 2 release. Published in North America
-    by Capcom.
-19. In cooperation with [Deep
-    Silver](../Page/Deep_Silver.md "wikilink").
-20. EU release in affiliation with Deep Silver. NA release by [Aspyr
-    Media](../Page/Aspyr_Media.md "wikilink").
+18. PAL version of the PlayStation 2 release. Published in North America by Capcom.
+19. In cooperation with [Deep Silver](../Page/Deep_Silver.md "wikilink").
+20. EU release in affiliation with Deep Silver. NA release by [Aspyr Media](../Page/Aspyr_Media.md "wikilink").
 21.
 22.
 23. Also released under the name The Guild 2: Pirates of the High Seas.

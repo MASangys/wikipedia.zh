@@ -7,15 +7,13 @@ service文件的用途是：
 
 ## 介绍
 
-[IP协议的端口号](https://zh.wikipedia.org/wiki/IP协议 "wikilink")，可用于区分服务器提供的不同服务。值得范围是0至65535.
-[IP地址](../Page/IP地址.md "wikilink")、端口号、[TCP](https://zh.wikipedia.org/wiki/TCP协议 "wikilink")/[UDP协议](https://zh.wikipedia.org/wiki/UDP协议 "wikilink")，这三者合起来称为[套接字](https://zh.wikipedia.org/wiki/套接字 "wikilink")（socket）。
+[IP协议的端口号](https://zh.wikipedia.org/wiki/IP协议 "wikilink")，可用于区分服务器提供的不同服务。值得范围是0至65535. [IP地址](../Page/IP地址.md "wikilink")、端口号、[TCP](https://zh.wikipedia.org/wiki/TCP协议 "wikilink")/[UDP协议](https://zh.wikipedia.org/wiki/UDP协议 "wikilink")，这三者合起来称为[套接字](https://zh.wikipedia.org/wiki/套接字 "wikilink")（socket）。
 
-前1000个被保留用于特定应用，被称为著名端口（well known ports）。细节见RFC
-1340。并写在service文件中。\[3\]
+前1000个被保留用于特定应用，被称为著名端口（well known ports）。细节见RFC 1340。并写在service文件中。\[3\]
 
 ## 历史
 
-最初在[Internet的前身](https://zh.wikipedia.org/wiki/Internet "wikilink")[ARPANET中](../Page/ARPANET.md "wikilink")，其成员手动维护并分享了一个名为SERVICES.TXT的文件，其中就包括网络服务名对应的端口号与协议。\[4\]
+最初在[Internet的前身](https://zh.wikipedia.org/wiki/Internet "wikilink")[ARPANET](../Page/ARPANET.md "wikilink")中，其成员手动维护并分享了一个名为SERVICES.TXT的文件，其中就包括网络服务名对应的端口号与协议。\[4\]
 
 端口号和标准服务之间的对应关系在RFC 1700 “Assigned Numbers”中有详细的定义。
 
@@ -36,7 +34,7 @@ service文件的用途是：
 `qotd               17/tcp    quote                  #Quote of the day`
 `qotd               17/udp    quote                  #Quote of the day`
 
-[Winsock的API函数](../Page/Winsock.md "wikilink")`WSAConnectByName`的第三个参数`servicename`，其官方文档解释是：服务名是端口号的字符串别名。\[6\]
+[Winsock](../Page/Winsock.md "wikilink")的API函数`WSAConnectByName`的第三个参数`servicename`，其官方文档解释是：服务名是端口号的字符串别名。\[6\]
 
 ## 参见
 
@@ -47,15 +45,9 @@ service文件的用途是：
 
 [Category:配置文件](https://zh.wikipedia.org/wiki/Category:配置文件 "wikilink")
 
-1.  \[<https://msdn.microsoft.com/en-us/library/windows/desktop/ms738538(v=vs.85>).aspx
-    MSDN:getservbyname function\]
-2.  \[<https://msdn.microsoft.com/en-us/library/windows/desktop/ms738541(v=vs.85>).aspx
-    MSDN:getservbyport function\]
-3.  [TCP and UDP port numbers (/etc/services) quick
-    reference](http://www.penguintutor.com/linux/network-services-ports)
+1.  \[<https://msdn.microsoft.com/en-us/library/windows/desktop/ms738538(v=vs.85>).aspx MSDN:getservbyname function\]
+2.  \[<https://msdn.microsoft.com/en-us/library/windows/desktop/ms738541(v=vs.85>).aspx MSDN:getservbyport function\]
+3.  [TCP and UDP port numbers (/etc/services) quick reference](http://www.penguintutor.com/linux/network-services-ports)
 4.
-5.  \[<https://technet.microsoft.com/en-us/library/cc720022(v=ws.10>).aspx
-    MSDN:Add or Edit a Service\]
-6.  \[<https://msdn.microsoft.com/en-us/library/windows/desktop/ms741557(v=vs.85>).aspx
-    MSDN: WSAConnectByName function, "A service name is a string alias
-    for a port number."\]
+5.  \[<https://technet.microsoft.com/en-us/library/cc720022(v=ws.10>).aspx MSDN:Add or Edit a Service\]
+6.  \[<https://msdn.microsoft.com/en-us/library/windows/desktop/ms741557(v=vs.85>).aspx MSDN: WSAConnectByName function, "A service name is a string alias for a port number."\]

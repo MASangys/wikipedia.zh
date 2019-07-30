@@ -1,10 +1,10 @@
-GEM是一條亞洲娛樂頻道，除了為觀眾提供大部分與日本同週播出的精選黃金時段劇集，其中很多更是電視上獨家首播。同時也網羅了[日本製作的多元化綜藝節目](../Page/日本.md "wikilink")，以及由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[中國](../Page/中國.md "wikilink")、[香港和](../Page/香港.md "wikilink")[台灣製作的人氣劇集](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
+GEM是一條亞洲娛樂頻道，除了為觀眾提供大部分與日本同週播出的精選黃金時段劇集，其中很多更是電視上獨家首播。同時也網羅了[日本](../Page/日本.md "wikilink")製作的多元化綜藝節目，以及由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[中國](../Page/中國.md "wikilink")、[香港](../Page/香港.md "wikilink")和[台灣製作的人氣劇集](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
 
 2018年7月，GEM正式升格為日本娛樂頻道，並加入日本動畫，值得一提，日本動畫曾經在[Animax首播期間播出過](../Page/Animax_Asia.md "wikilink")。
 
 ## 越南版本
 
-[Nuvola_apps_important_yellow.svg](https://zh.wikipedia.org/wiki/File:Nuvola_apps_important_yellow.svg "fig:Nuvola_apps_important_yellow.svg") 本段時間均以[二十四小時制東七區時間](../Page/二十四小時制.md "wikilink")（[UTC+7](https://zh.wikipedia.org/wiki/UTC+7 "wikilink")）為準。
+[Nuvola_apps_important_yellow.svg](https://zh.wikipedia.org/wiki/File:Nuvola_apps_important_yellow.svg "fig:Nuvola_apps_important_yellow.svg") 本段時間均以[二十四小時制](../Page/二十四小時制.md "wikilink")東七區時間（[UTC+7](https://zh.wikipedia.org/wiki/UTC+7 "wikilink")）為準。
 
 越南版本于2014年1月正式越南启播，以越南语字幕，华语广播 节目包括：
 5/6:00檔
@@ -173,29 +173,20 @@ GEM是一條亞洲娛樂頻道，除了為觀眾提供大部分與日本同週�
 
 日本 現在播出中(星期一至五 22:10，一週內緊貼日本播放)
 
-  - [GOCHI: Dinner is on YOU
-    Tonight](https://zh.wikipedia.org/wiki/GOCHI:_Dinner_is_on_YOU_Tonight "wikilink")(第2季,星期一)
-  - [Moco's
-    廚房](https://zh.wikipedia.org/wiki/Moco's_廚房 "wikilink")(星期二22:10)
-  - [Dining ★ Al
-    Fresco](https://zh.wikipedia.org/wiki/Dining_★_Al_Fresco "wikilink")(星期二
-    22:40)
+  - [GOCHI: Dinner is on YOU Tonight](https://zh.wikipedia.org/wiki/GOCHI:_Dinner_is_on_YOU_Tonight "wikilink")(第2季,星期一)
+  - [Moco's 廚房](https://zh.wikipedia.org/wiki/Moco's_廚房 "wikilink")(星期二22:10)
+  - [Dining ★ Al Fresco](https://zh.wikipedia.org/wiki/Dining_★_Al_Fresco "wikilink")(星期二 22:40)
   - [志村動物園](https://zh.wikipedia.org/wiki/志村動物園 "wikilink")(星期三，第7季)
-  - [NEXT
-    STOP,DISCOVERY](https://zh.wikipedia.org/wiki/NEXT_STOP,DISCOVERY "wikilink")(星期四)
+  - [NEXT STOP,DISCOVERY](https://zh.wikipedia.org/wiki/NEXT_STOP,DISCOVERY "wikilink")(星期四)
   - [千奇百趣大挑戰](../Page/千奇百趣大挑戰.md "wikilink")(星期五，第4季現在播出，第5季7月7日起)
-  - [I Can Sing in Japanese\!
-    2017](https://zh.wikipedia.org/wiki/I_Can_Sing_in_Japanese!_2017 "wikilink")(星期六
-    18:00，緊貼日本播放
+  - [I Can Sing in Japanese\! 2017](https://zh.wikipedia.org/wiki/I_Can_Sing_in_Japanese!_2017 "wikilink")(星期六 18:00，緊貼日本播放
 
 其他
 
   - [有吉的反省会](https://zh.wikipedia.org/wiki/有吉的反省会 "wikilink")
   - [EXIT\!](https://zh.wikipedia.org/wiki/EXIT! "wikilink")
-  - [GOCHI: Dinner is on YOU
-    Tonight](https://zh.wikipedia.org/wiki/GOCHI:_Dinner_is_on_YOU_Tonight "wikilink")(第1季)
-  - [I Can Sing in
-    Japanese\!](https://zh.wikipedia.org/wiki/I_Can_Sing_in_Japanese! "wikilink")
+  - [GOCHI: Dinner is on YOU Tonight](https://zh.wikipedia.org/wiki/GOCHI:_Dinner_is_on_YOU_Tonight "wikilink")(第1季)
+  - [I Can Sing in Japanese\!](https://zh.wikipedia.org/wiki/I_Can_Sing_in_Japanese! "wikilink")
   - [超級變變變](../Page/超級變變變.md "wikilink")(第1季、2017年版)
   - [松子機器人](https://zh.wikipedia.org/wiki/松子機器人 "wikilink")
   - [松子會議](https://zh.wikipedia.org/wiki/松子會議 "wikilink")
@@ -205,10 +196,8 @@ GEM是一條亞洲娛樂頻道，除了為觀眾提供大部分與日本同週�
   - 《[Pharaoh\!](https://zh.wikipedia.org/wiki/Pharaoh! "wikilink")》
   - [志村動物園](https://zh.wikipedia.org/wiki/志村動物園 "wikilink")(第4-6季)
   - [千奇百趣大挑戰](../Page/千奇百趣大挑戰.md "wikilink")(原版)
-  - [TOKUSON:Life
-    Hacks\!](https://zh.wikipedia.org/wiki/TOKUSON:Life_Hacks! "wikilink")
-  - [We are Asia: Dean Fujioka &
-    Friends](https://zh.wikipedia.org/wiki/We_are_Asia:_Dean_Fujioka_&_Friends "wikilink")
+  - [TOKUSON:Life Hacks\!](https://zh.wikipedia.org/wiki/TOKUSON:Life_Hacks! "wikilink")
+  - [We are Asia: Dean Fujioka & Friends](https://zh.wikipedia.org/wiki/We_are_Asia:_Dean_Fujioka_&_Friends "wikilink")
 
 韓國
 
@@ -225,5 +214,4 @@ GEM是一條亞洲娛樂頻道，除了為觀眾提供大部分與日本同週�
 
 [官方网](http://www.gemtvasia.com/)
 
-[Category:2010年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2010年成立的电视台或电视频道 "wikilink")
-[Category:索尼影視娛樂](https://zh.wikipedia.org/wiki/Category:索尼影視娛樂 "wikilink")
+[Category:2010年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2010年成立的电视台或电视频道 "wikilink") [Category:索尼影視娛樂](https://zh.wikipedia.org/wiki/Category:索尼影視娛樂 "wikilink")

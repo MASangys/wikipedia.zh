@@ -1,5 +1,4 @@
-《**orange橘色奇蹟**》（
-）是日本女性漫畫家[高野莓創作的日本漫畫](https://zh.wikipedia.org/wiki/高野莓 "wikilink")。最初於「[別冊瑪格麗特](https://zh.wikipedia.org/wiki/別冊瑪格麗特 "wikilink")」（[集英社](../Page/集英社.md "wikilink")）2012年4月號至12月號連載後休刊，之後轉至「[月刊Action](https://zh.wikipedia.org/wiki/月刊Action "wikilink")」（[雙葉社](https://zh.wikipedia.org/wiki/雙葉社 "wikilink")）的2014年2月號至2015年10月號不定期連載。集英社版單行本共發行2冊、雙葉社版單行本目前共6冊，並在世界9個國家翻譯出版\[1\]。
+《**orange橘色奇蹟**》（ ）是日本女性漫畫家[高野莓創作的日本漫畫](https://zh.wikipedia.org/wiki/高野莓 "wikilink")。最初於「[別冊瑪格麗特](https://zh.wikipedia.org/wiki/別冊瑪格麗特 "wikilink")」（[集英社](../Page/集英社.md "wikilink")）2012年4月號至12月號連載後休刊，之後轉至「[月刊Action](https://zh.wikipedia.org/wiki/月刊Action "wikilink")」（[雙葉社](https://zh.wikipedia.org/wiki/雙葉社 "wikilink")）的2014年2月號至2015年10月號不定期連載。集英社版單行本共發行2冊、雙葉社版單行本目前共6冊，並在世界9個國家翻譯出版\[1\]。
 
 ## 故事概要
 
@@ -64,8 +63,7 @@
 
 #### 雙葉社版
 
-  - 高野莓「orange橘色奇蹟」，[雙葉社](https://zh.wikipedia.org/wiki/雙葉社 "wikilink")〈ACTION
-    COMICS〉，目前共6冊。台灣中文版由[東立出版社代理](../Page/東立出版社.md "wikilink")，趙聖媛譯。
+  - 高野莓「orange橘色奇蹟」，[雙葉社](https://zh.wikipedia.org/wiki/雙葉社 "wikilink")〈ACTION COMICS〉，目前共6冊。台灣中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理，趙聖媛譯。
 
 <table>
 <thead>
@@ -177,8 +175,7 @@ ISBN 978-4-575-84988-2（附DVD限定版）[12]</p></td>
 </tbody>
 </table>
 
-  - 蒔田陽平（著）／高野莓（原作）「電影小說
-    orange」，[雙葉文庫](https://zh.wikipedia.org/wiki/雙葉文庫 "wikilink")，全1冊
+  - 蒔田陽平（著）／高野莓（原作）「電影小說 orange」，[雙葉文庫](https://zh.wikipedia.org/wiki/雙葉文庫 "wikilink")，全1冊
 
 <table>
 <thead>
@@ -205,7 +202,7 @@ ISBN 978-4-575-84988-2（附DVD限定版）[12]</p></td>
 
 ## 電影
 
-2015年12月12日於日本上映，[東寶電影公司出品](../Page/東寶.md "wikilink")。7月20日公佈演員人選，歷經3個半月的拍攝之後火速上映\[18\]。全片在[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[松本市拍攝](../Page/松本市.md "wikilink")（部分場景在[鹽尻市](../Page/鹽尻市.md "wikilink")、[飯田市拍攝](../Page/飯田市.md "wikilink")）。9月1日電影拍攝完成，同年10月11日正式殺青。本片為導演橋本光二郎首部長篇電影執導作品\[19\]。由NHK晨間劇《[小希](../Page/小希.md "wikilink")》女主角[土屋太鳳主演](../Page/土屋太鳳.md "wikilink")。同劇中飾演男主角暨丈夫的[山崎賢人亦參與本片的演出](../Page/山崎賢人.md "wikilink")，這是兩人繼晨間劇《[小希](../Page/小希.md "wikilink")》之後的二度合作之影視作品\[20\]\[21\]。
+2015年12月12日於日本上映，[東寶](../Page/東寶.md "wikilink")電影公司出品。7月20日公佈演員人選，歷經3個半月的拍攝之後火速上映\[18\]。全片在[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[松本市](../Page/松本市.md "wikilink")拍攝（部分場景在[鹽尻市](../Page/鹽尻市.md "wikilink")、[飯田市](../Page/飯田市.md "wikilink")拍攝）。9月1日電影拍攝完成，同年10月11日正式殺青。本片為導演橋本光二郎首部長篇電影執導作品\[19\]。由NHK晨間劇《[小希](../Page/小希.md "wikilink")》女主角[土屋太鳳](../Page/土屋太鳳.md "wikilink")主演。同劇中飾演男主角暨丈夫的[山崎賢人](../Page/山崎賢人.md "wikilink")亦參與本片的演出，這是兩人繼晨間劇《[小希](../Page/小希.md "wikilink")》之後的二度合作之影視作品\[20\]\[21\]。
 
 ### 登場人物與演員
 
@@ -255,8 +252,7 @@ ISBN 978-4-575-84988-2（附DVD限定版）[12]</p></td>
 
 ## 電視動畫
 
-2016年7月起於[TOKYO
-MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[AT-X等多家電視台播出](../Page/AT-X.md "wikilink")。共13話。
+2016年7月起於[TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[AT-X](../Page/AT-X.md "wikilink")等多家電視台播出。共13話。
 
 ### 登場人物與配音員
 
@@ -503,7 +499,7 @@ LETTER22</p></td>
 | -------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------ | ------------------------------------------------------- | ----------- |
 | [東京都](../Page/東京都.md "wikilink")                                           | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 2016年7月3日－9月25日                                       | 星期日 24時00分－24時30分                    | [獨立局](../Page/全國獨立放送協議會.md "wikilink")                  |             |
 | 日本全國                                                                       | [AT-X](../Page/AT-X.md "wikilink")                            | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink") | 有重播                                  |                                                         |             |
-| [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")                      | 星期日 24時30分－25時00分                                             | [ANIME+節目](../Page/ANIME+.md "wikilink")              |                                      |                                                         |             |
+| [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")                      | 星期日 24時30分－25時00分                                             | [ANIME+](../Page/ANIME+.md "wikilink")節目              |                                      |                                                         |             |
 | [Amazon Prime Video](https://zh.wikipedia.org/wiki/日本亞馬遜 "wikilink")\[27\] | 星期日 24時30分更新                                                  | [網絡電視](https://zh.wikipedia.org/wiki/網絡電視 "wikilink") | 首集於7月3日24時00分上傳                      |                                                         |             |
 | [愛知縣](../Page/愛知縣.md "wikilink")                                           | [愛知電視台](../Page/愛知電視台.md "wikilink")                          | 星期日 25時05分－25時35分                                     | [東京電視網](../Page/東京電視網.md "wikilink") |                                                         |             |
 | [近畿地方](../Page/近畿地方.md "wikilink")                                         | [朝日放送](../Page/朝日放送.md "wikilink")                            | 2016年7月6日－9月29日                                       | 星期三 26時14分－26時44分                    | [朝日電視網](https://zh.wikipedia.org/wiki/朝日電視網 "wikilink") | 「週三動畫」第1部   |
@@ -525,8 +521,7 @@ LETTER22</p></td>
 
 ### 廣播節目
 
-《山下誠一郎・古川慎的兩人orange》2016年7月2日起毎週六於[大阪放送播出](../Page/大阪放送.md "wikilink")，另於網路電台「Radital」播出。由山下誠一郎（飾
-成瀬翔）與古川慎（飾 須和弘人）主持。
+《山下誠一郎・古川慎的兩人orange》2016年7月2日起毎週六於[大阪放送](../Page/大阪放送.md "wikilink")播出，另於網路電台「Radital」播出。由山下誠一郎（飾 成瀬翔）與古川慎（飾 須和弘人）主持。
 
 ## 動畫電影
 
@@ -606,23 +601,11 @@ LETTER22</p></td>
   - [電視動畫「Orange」朝日放送網站](http://www.asahi.co.jp/anime/orange/)
 
   -
-  - [動畫電影「orange
-    -未來-」官方網站](https://web.archive.org/web/20160925221553/http://movie.orange-anime.com/)
+  - [動畫電影「orange -未來-」官方網站](https://web.archive.org/web/20160925221553/http://movie.orange-anime.com/)
 
 [Category:自殺相關電影](https://zh.wikipedia.org/wiki/Category:自殺相關電影 "wikilink")
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:改編成電影的日本漫畫](https://zh.wikipedia.org/wiki/Category:改編成電影的日本漫畫 "wikilink")
-[Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink")
-[Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink")
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink")
-[Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink")
-[Category:長野縣背景作品](https://zh.wikipedia.org/wiki/Category:長野縣背景作品 "wikilink")
-[Category:日本愛情片](https://zh.wikipedia.org/wiki/Category:日本愛情片 "wikilink")
-[Category:東寶](https://zh.wikipedia.org/wiki/Category:東寶 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:Comico](https://zh.wikipedia.org/wiki/Category:Comico "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:改編成電影的日本漫畫](https://zh.wikipedia.org/wiki/Category:改編成電影的日本漫畫 "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink") [Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink") [Category:長野縣背景作品](https://zh.wikipedia.org/wiki/Category:長野縣背景作品 "wikilink") [Category:日本愛情片](https://zh.wikipedia.org/wiki/Category:日本愛情片 "wikilink") [Category:東寶](https://zh.wikipedia.org/wiki/Category:東寶 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:Comico](https://zh.wikipedia.org/wiki/Category:Comico "wikilink")
 
 1.
 
@@ -670,8 +653,7 @@ LETTER22</p></td>
 24.
 25.
 26.
-27. 另於Google Play、YouTube、樂天showtime等多個付費或免費視頻網站播出，本條目以Amazon Prime
-    Video視頻網站作為代表。
+27. 另於Google Play、YouTube、樂天showtime等多個付費或免費視頻網站播出，本條目以Amazon Prime Video視頻網站作為代表。
 
 28.
 

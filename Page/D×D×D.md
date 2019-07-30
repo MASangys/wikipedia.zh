@@ -1,6 +1,4 @@
-《**D×D×D**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee的第四張日語](../Page/SHINee.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2016年1月1日以三個版本：初回限定盤A、初回限定盤B及通常盤推出\[1\]。兩張打入Oricon單曲週榜前五名的單曲：《[Your
-Number](../Page/Your_Number.md "wikilink")》及《[Sing Your
-Song](https://zh.wikipedia.org/wiki/Sing_Your_Song_\(SHINee單曲\) "wikilink")》在專輯推出前預先發行。
+《**D×D×D**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")的第四張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2016年1月1日以三個版本：初回限定盤A、初回限定盤B及通常盤推出\[1\]。兩張打入Oricon單曲週榜前五名的單曲：《[Your Number](../Page/Your_Number.md "wikilink")》及《[Sing Your Song](https://zh.wikipedia.org/wiki/Sing_Your_Song_\(SHINee單曲\) "wikilink")》在專輯推出前預先發行。
 
 ## 概觀
 
@@ -10,14 +8,11 @@ Song](https://zh.wikipedia.org/wiki/Sing_Your_Song_\(SHINee單曲\) "wikilink")�
 
 此專輯共分為3個發行版本：
 
-  - 初回限定盤A：此版本包括一片CD及一片收錄《D×D×D》、《Your Number》、《View（日語版）》及《Sing Your
-    Song》音樂錄影帶；《D×D×D》與《View（日語版）》音樂錄影帶拍攝花絮和CD曲目之48kHz／24bit
-    Audio版本的Blu-ray，同時附贈小卡及活動參加券\[4\]。
+  - 初回限定盤A：此版本包括一片CD及一片收錄《D×D×D》、《Your Number》、《View（日語版）》及《Sing Your Song》音樂錄影帶；《D×D×D》與《View（日語版）》音樂錄影帶拍攝花絮和CD曲目之48kHz／24bit Audio版本的Blu-ray，同時附贈小卡及活動參加券\[4\]。
 
 <!-- end list -->
 
-  - 初回限定盤B：此版本包括了一片CD及一片收錄《D×D×D》、《Your Number》、《View（日語版）》及《Sing Your
-    Song》音樂錄影帶；《D×D×D》與《View（日語版）》音樂錄影帶拍攝花絮的DVD，同時附贈小卡及活動參加券\[5\]。
+  - 初回限定盤B：此版本包括了一片CD及一片收錄《D×D×D》、《Your Number》、《View（日語版）》及《Sing Your Song》音樂錄影帶；《D×D×D》與《View（日語版）》音樂錄影帶拍攝花絮的DVD，同時附贈小卡及活動參加券\[5\]。
 
 <!-- end list -->
 
@@ -29,7 +24,7 @@ Song](https://zh.wikipedia.org/wiki/Sing_Your_Song_\(SHINee單曲\) "wikilink")�
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量         | 總銷量 | 停留時間    |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量         | 總銷量 | 停留時間    |
 | ---------------------------------------- | ---- | ----------- | --- | ------- |
 | 專輯日榜                                     | 1    | \-          | 14週 | 61,263+ |
 | 專輯週榜                                     | 1    | 44,921\[8\] |     |         |
@@ -45,11 +40,7 @@ Song](https://zh.wikipedia.org/wiki/Sing_Your_Song_\(SHINee單曲\) "wikilink")�
 
 ## 參考資料
 
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:SHINee音樂專輯](https://zh.wikipedia.org/wiki/Category:SHINee音樂專輯 "wikilink")
-[Category:2016年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink")
+[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:SHINee音樂專輯](https://zh.wikipedia.org/wiki/Category:SHINee音樂專輯 "wikilink") [Category:2016年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Oricon專輯週榜冠軍作品 "wikilink") [Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink")
 
 1.
 

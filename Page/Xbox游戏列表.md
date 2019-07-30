@@ -678,8 +678,8 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/Battle_Engine_Aquila" title="wikilink">Battle Engine Aquila</a></em></p></td>
+<td><p><a href="../Page/戰都天鷹.md" title="wikilink">戰都天鷹</a></p></td>
+<td><p><em>Battle Engine Aquila</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Lost_Toys" title="wikilink">Lost Toys</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Atari" title="wikilink">Atari</a></p></td>
 <td></td>
@@ -9847,36 +9847,21 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 
 ## 参考资料
 
-[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
-[Category:Xbox遊戲](https://zh.wikipedia.org/wiki/Category:Xbox遊戲 "wikilink")
+[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink") [Category:Xbox遊戲](https://zh.wikipedia.org/wiki/Category:Xbox遊戲 "wikilink")
 
 1.
 
 2.
 3.
-4.  Pack included [Grand Theft Auto
-    III](https://zh.wikipedia.org/wiki/Grand_Theft_Auto_III "wikilink")
-    and [Grand Theft Auto: Vice
-    City](https://zh.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City "wikilink").
+4.  Pack included [Grand Theft Auto III](https://zh.wikipedia.org/wiki/Grand_Theft_Auto_III "wikilink") and [Grand Theft Auto: Vice City](https://zh.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City "wikilink").
 
-5.  Included [Grand Theft Auto
-    III](https://zh.wikipedia.org/wiki/Grand_Theft_Auto_III "wikilink"),
-    [Grand Theft Auto: Vice
-    City](https://zh.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City "wikilink"),
-    and [Grand Theft Auto: San
-    Andreas](https://zh.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas "wikilink").
+5.  Included [Grand Theft Auto III](https://zh.wikipedia.org/wiki/Grand_Theft_Auto_III "wikilink"), [Grand Theft Auto: Vice City](https://zh.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City "wikilink"), and [Grand Theft Auto: San Andreas](https://zh.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas "wikilink").
 
 6.  Special "Manchester United" branded edition of "LMA Manager 2005".
 
-7.  Sleeve marked"Blockbuster Exclusive"; has full case/instructions,
-    but no UPC on sleeve
+7.  Sleeve marked"Blockbuster Exclusive"; has full case/instructions, but no UPC on sleeve
 
 8.
 9.
 10.
-11. Compilation included [Tom Clancy's Ghost
-    Recon](https://zh.wikipedia.org/wiki/Tom_Clancy's_Ghost_Recon "wikilink"),
-    [Tom Clancy's Rainbow Six
-    3](https://zh.wikipedia.org/wiki/Tom_Clancy's_Rainbow_Six_3:_Raven_Shield#Console_versions "wikilink"),
-    and [Tom Clancy's Splinter
-    Cell](https://zh.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell_\(video_game\) "wikilink").
+11. Compilation included [Tom Clancy's Ghost Recon](https://zh.wikipedia.org/wiki/Tom_Clancy's_Ghost_Recon "wikilink"), [Tom Clancy's Rainbow Six 3](https://zh.wikipedia.org/wiki/Tom_Clancy's_Rainbow_Six_3:_Raven_Shield#Console_versions "wikilink"), and [Tom Clancy's Splinter Cell](https://zh.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell_\(video_game\) "wikilink").

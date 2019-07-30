@@ -1,10 +1,10 @@
-《**Misty**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC於](../Page/JTBC.md "wikilink")2018年2月2日起播出的[金土連續劇](../Page/JTBC金土連續劇.md "wikilink")。由《[Beautiful
-Mind](../Page/Beautiful_Mind.md "wikilink")》[毛完日導演執導與諸仁作家合作打造](https://zh.wikipedia.org/wiki/毛完日 "wikilink")。此劇講述被認為是殺人事件嫌疑人的韓國頂尖主播高惠蘭（[金南珠飾](../Page/金南珠_\(1971年\).md "wikilink")）和她的律师丈夫姜泰旭\[1\]（[池珍熙飾](../Page/池珍熙.md "wikilink")）所相信的愛情的真諦的激情懸疑故事\[2\]\[3\]\[4\]。台灣由myVideo、LiTV
-線上影視、KKTV播出，香港由Viu在網路平台免費播出，中天娛樂台已於2018年10月18日晚間8點至10點在台播出。
+《**Misty**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")於2018年2月2日起播出的[金土連續劇](../Page/JTBC金土連續劇.md "wikilink")。由《[Beautiful Mind](../Page/Beautiful_Mind.md "wikilink")》[毛完日導演執導與諸仁作家合作打造](https://zh.wikipedia.org/wiki/毛完日 "wikilink")。此劇講述被認為是殺人事件嫌疑人的韓國頂尖主播高惠蘭（[金南珠飾](../Page/金南珠_\(1971年\).md "wikilink")）和她的律师丈夫姜泰旭\[1\]（[池珍熙](../Page/池珍熙.md "wikilink")飾）所相信的愛情的真諦的激情懸疑故事\[2\]\[3\]\[4\]。
+
+台灣由myVideo、LiTV 線上影視、KKTV播出，香港由Viu在網路平台免費播出。
 
 ## 劇情大綱
 
-[首爾發生一宗蹊蹺的交通事故](../Page/首爾.md "wikilink")，前來調查的警官姜基俊（[安內相飾](../Page/安內相.md "wikilink")）認出了死者是高爾夫界新星，連帶發現這不是一起簡單的車禍，死者生前曾與女主播高惠蘭（[金南珠飾](../Page/金南珠_\(1971年\).md "wikilink")）有交集，於是傳喚高惠蘭到警局問話，警方調查的證據指向高惠蘭有殺人嫌疑。最紅女主播高惠蘭變成殺人嫌疑受到注目，連帶影響她的律師丈夫姜太昱（[池珍熙飾](../Page/池珍熙.md "wikilink")）兩人的生活，即使兩人的婚姻關系早已名存實亡，但他的丈夫仍為洗刷嫌疑而努力解開真相。在層層謎霧之中，隱藏的是極度醜陋的真相。
+[首爾](../Page/首爾.md "wikilink")發生一宗蹊蹺的交通事故，前來調查的警官姜基俊（[安內相](../Page/安內相.md "wikilink")飾）認出了死者是高爾夫界新星，連帶發現這不是一起簡單的車禍，死者生前曾與女主播高惠蘭（[金南珠飾](../Page/金南珠_\(1971年\).md "wikilink")）有交集，於是傳喚高惠蘭到警局問話，警方調查的證據指向高惠蘭有殺人嫌疑。最紅女主播高惠蘭變成殺人嫌疑受到注目，連帶影響她的律師丈夫姜太昱（[池珍熙](../Page/池珍熙.md "wikilink")飾）兩人的生活，即使兩人的婚姻關系早已名存實亡，但他的丈夫仍為洗刷嫌疑而努力解開真相。在層層謎霧之中，隱藏的是極度醜陋的真相。
 
 ## 演員陣容
 
@@ -498,7 +498,7 @@ Mind](../Page/Beautiful_Mind.md "wikilink")》[毛完日導演執導與諸仁作
 
   - 收視最低的集數以表示，收視最高的集數以表示，而空格則表示該集的收視沒有相關數據。</small>
 
-## 腳註
+## 參考資料
 
 ## 外部連結
 
@@ -506,13 +506,7 @@ Mind](../Page/Beautiful_Mind.md "wikilink")》[毛完日導演執導與諸仁作
   - [MISTY](https://m.search.naver.com/search.naver?sm=mtb_sug.top&where=m&query=%EB%AF%B8%EC%8A%A4%ED%8B%B0&oquery=%ED%99%A9%EA%B8%88%EB%B9%9B+%EB%82%B4+%EC%9D%B8%EC%83%9D&tqi=TpFpywpySAsssatQR20sssssshV-183930&qdt=0&acq=%EB%AF%B8%EC%8A%A4%ED%8B%B0&acr=1)[NAVER](../Page/NAVER.md "wikilink")
   - [Misty迷霧-BLOG](https://m.post.naver.com/my/series/detail.nhn?seriesNo=413685&memberNo=11773044)
 
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:2018年背景作品](https://zh.wikipedia.org/wiki/Category:2018年背景作品 "wikilink")
-[Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink")
-[Category:律師主角題材作品](https://zh.wikipedia.org/wiki/Category:律師主角題材作品 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
-[Category:中天電視外購電視劇](https://zh.wikipedia.org/wiki/Category:中天電視外購電視劇 "wikilink")
-[Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
+[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:2018年背景作品](https://zh.wikipedia.org/wiki/Category:2018年背景作品 "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink") [Category:律師主角題材作品](https://zh.wikipedia.org/wiki/Category:律師主角題材作品 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:中天電視外購電視劇](https://zh.wikipedia.org/wiki/Category:中天電視外購電視劇 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
 
 1.  第3集離婚協議書上的漢名字為姜太昱
 

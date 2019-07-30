@@ -1,7 +1,6 @@
-《**LOL**》為[Twins的](https://zh.wikipedia.org/wiki/Twins "wikilink")[中文專輯](https://zh.wikipedia.org/wiki/中文 "wikilink")，於2015年11月26日在[香港發行](../Page/香港.md "wikilink")。
+《**LOL**》為[Twins的](https://zh.wikipedia.org/wiki/Twins "wikilink")[中文專輯](https://zh.wikipedia.org/wiki/中文 "wikilink")，於2015年11月26日在[香港](../Page/香港.md "wikilink")發行。
 
-本唱片分了平裝版及限量版：平裝版共有不同造型封面，6首歌曲獨立EP推出；限量版則以Boxset形式發售，與[CHOCOOLATE](../Page/I.T.md "wikilink")
-X BABY MILO®合作，內送DVD、Tshirt、貼紙及明信片。
+本唱片分了平裝版及限量版：平裝版共有不同造型封面，6首歌曲獨立EP推出；限量版則以Boxset形式發售，與[CHOCOOLATE](../Page/I.T.md "wikilink") X BABY MILO®合作，內送DVD、Tshirt、貼紙及明信片。
 
 ## 曲目
 
@@ -58,8 +57,7 @@ X BABY MILO®合作，內送DVD、Tshirt、貼紙及明信片。
 
 ## 曲目資料
 
-  - 《LOL》為[Twins LOL Live in Hong
-    Kong主題曲](https://zh.wikipedia.org/wiki/Twins_LOL_Live "wikilink")，及為2015年[國慶煙花主題音樂](../Page/香港慶祝中華人民共和國國慶煙花匯演.md "wikilink")。
+  - 《LOL》為[Twins LOL Live in Hong Kong主題曲](https://zh.wikipedia.org/wiki/Twins_LOL_Live "wikilink")，及為2015年[國慶煙花主題音樂](../Page/香港慶祝中華人民共和國國慶煙花匯演.md "wikilink")。
   - 《TGIF》為2016年[賀歲煙花主題音樂](../Page/香港賀歲煙花匯演.md "wikilink")。
   - 《虛齡時代》為Twins x伍樂城‬x黃偉文睽違十一年的合作作品。
 
@@ -154,7 +152,4 @@ TWINS x :CHOCOOLATE x BABY MILO® 限量版Boxset包括
 | 虛齡時代  | 4        | 14           | 2         | 2        |
 | emoji | \-       | \-           | 18        | \-       |
 
-[Category:Twins音樂專輯](https://zh.wikipedia.org/wiki/Category:Twins音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
+[Category:Twins音樂專輯](https://zh.wikipedia.org/wiki/Category:Twins音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")

@@ -1,5 +1,4 @@
-《NEW KIDS:
-BEGIN》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[iKON時隔一年的新作品](https://zh.wikipedia.org/wiki/iKON "wikilink")，也是首次以全新藝名發行的作品。2017年5月16日宣佈在5月22日下午6點發表新專輯回歸。
+《NEW KIDS: BEGIN》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[iKON時隔一年的新作品](https://zh.wikipedia.org/wiki/iKON "wikilink")，也是首次以全新藝名發行的作品。2017年5月16日宣佈在5月22日下午6點發表新專輯回歸。
 
 ## 曲目
 
@@ -69,9 +68,7 @@ BEGIN》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 
 ## 參考資料
 
-[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:iKON音樂專輯](https://zh.wikipedia.org/wiki/Category:iKON音樂專輯 "wikilink")
+[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:iKON音樂專輯](https://zh.wikipedia.org/wiki/Category:iKON音樂專輯 "wikilink")
 
 1.
 2.

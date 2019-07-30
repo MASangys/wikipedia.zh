@@ -1,5 +1,4 @@
-韓國女子組合[Wonder
-Girls迄今共發行](../Page/Wonder_Girls.md "wikilink")3張正規專輯、4張迷你專輯、2張精選輯及18張單曲。
+韓國女子組合[Wonder Girls迄今共發行](../Page/Wonder_Girls.md "wikilink")3張正規專輯、4張迷你專輯、2張精選輯及18張單曲。
 
 ## 專輯
 
@@ -1069,10 +1068,7 @@ Girls迄今共發行](../Page/Wonder_Girls.md "wikilink")3張正規專輯、4張
 
 ## 引用資料
 
-[Category:Wonder_Girls](https://zh.wikipedia.org/wiki/Category:Wonder_Girls "wikilink")
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
-[Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
-[Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
+[Category:Wonder_Girls](https://zh.wikipedia.org/wiki/Category:Wonder_Girls "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.
 2.

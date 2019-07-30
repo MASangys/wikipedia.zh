@@ -1,11 +1,8 @@
-require('Module:No globals') local m_data =
-mw.loadData("Module:Language/data")
+require('Module:No globals') local m_data = mw.loadData("Module:Language/data")
 
 local p = {}
 
-local sub = mw.ustring.sub local gsub = mw.ustring.gsub local find =
-mw.ustring.find local match = mw.ustring.match local lower =
-mw.ustring.lower local upper = mw.ustring.upper
+local sub = mw.ustring.sub local gsub = mw.ustring.gsub local find = mw.ustring.find local match = mw.ustring.match local lower = mw.ustring.lower local upper = mw.ustring.upper
 
 local function checkForString(variable)
 
@@ -18,8 +15,7 @@ local function makeLinkedName(languageCode)
 `   local data = m_data[languageCode]`
 `   local article = data["article"]`
 `   local name = data["Wikipedia_name"] or data["name"]`
-`   return "`[`"``   ``..``   ``name``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._article_.._" "wikilink")`: "`
+`   return "`[`"``   ``..``   ``name``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._article_.._" "wikilink")`: "`
 
 end
 
@@ -179,14 +175,12 @@ local function linkToWiktionary(entry, linkText, languageCode)
 `           end`
 `       end`
 `       if entry and linkText then`
-`           return "`[`"``   ``..``   ``linkText``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/wikt:"_.._entry_.._"#"_.._name_.._" "wikilink")`"`
+`           return "`[`"``   ``..``   ``linkText``   ``..``   ``"`](https://zh.wikipedia.org/wiki/wikt:"_.._entry_.._"#"_.._name_.._" "wikilink")`"`
 `       else`
 `           error("linkToWiktionary needs a Wiktionary entry or link text, or both")`
 `       end`
 `   else`
-`       return "`[`"``   ``..``   ``linkText``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/wikt:"_.._entry_.._" "wikilink")`"`
+`       return "`[`"``   ``..``   ``linkText``   ``..``   ``"`](https://zh.wikipedia.org/wiki/wikt:"_.._entry_.._" "wikilink")`"`
 `   end`
 
 end

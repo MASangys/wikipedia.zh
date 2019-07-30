@@ -1,4 +1,4 @@
-《**Odyssey**》是[香港歌手](../Page/香港.md "wikilink")[馮允謙第四張個人唱片](../Page/馮允謙.md "wikilink")，於2015年6月11日推出。
+《**Odyssey**》是[香港](../Page/香港.md "wikilink")歌手[馮允謙](../Page/馮允謙.md "wikilink")第四張個人唱片，於2015年6月11日推出。
 
 ## 曲目資料
 
@@ -54,9 +54,4 @@
 
 ## 參考資料
 
-[Category:馮允謙音樂專輯](https://zh.wikipedia.org/wiki/Category:馮允謙音樂專輯 "wikilink")
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:英皇娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:英皇娛樂音樂專輯 "wikilink")
+[Category:馮允謙音樂專輯](https://zh.wikipedia.org/wiki/Category:馮允謙音樂專輯 "wikilink") [Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:英皇娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:英皇娛樂音樂專輯 "wikilink")

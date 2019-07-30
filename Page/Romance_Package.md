@@ -1,7 +1,6 @@
-《**Romance
-Package**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台](https://zh.wikipedia.org/wiki/SBS "wikilink")\[1\]\[2\]\[3\]，以10位年青男女參加四天三夜的酒店假期為背景的情侶配對綜藝節目\[4\]\[5\]。
+《**Romance Package**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台](https://zh.wikipedia.org/wiki/SBS "wikilink")\[1\]\[2\]\[3\]，以10位年青男女參加四天三夜的酒店假期為背景的情侶配對綜藝節目\[4\]\[5\]。
 
-本節目於2018年2月16日、17日試播\[6\]，由[全炫茂及](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")[韓惠珍共同主持](../Page/韓惠珍_\(模特兒\).md "wikilink")\[7\]\[8\]，並於同年5月2日納為正規節目，第一季由[全炫茂及](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")[林秀香共同主持](../Page/林秀香.md "wikilink")\[9\]\[10\]，而本節目之[釜山篇增加特別主持](https://zh.wikipedia.org/wiki/釜山 "wikilink")[勝利](../Page/勝利_\(歌手\).md "wikilink")\[11\]\[12\]。
+本節目於2018年2月16日、17日試播\[6\]，由[全炫茂及](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")[韓惠珍共同主持](../Page/韓惠珍_\(模特兒\).md "wikilink")\[7\]\[8\]，並於同年5月2日納為正規節目，第一季由[全炫茂及](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")[林秀香](../Page/林秀香.md "wikilink")共同主持\[9\]\[10\]，而本節目之[釜山篇增加特別主持](https://zh.wikipedia.org/wiki/釜山 "wikilink")[勝利](../Page/勝利_\(歌手\).md "wikilink")\[11\]\[12\]。
 
 ## 節目報名方法
 
@@ -44,7 +43,7 @@ Package**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 <td><p>102</p></td>
 <td><p>1991年生 (28歲)</p></td>
 <td><p>軟體工程師</p></td>
-<td><p><a href="../Page/明知大學.md" title="wikilink">明知大學電腦工程系畢業</a>。<br />
+<td><p><a href="../Page/明知大學.md" title="wikilink">明知大學</a>電腦工程系畢業。<br />
 曾擔任健身模特，也參與健身比賽。<br />
 在<a href="../Page/楊平郡.md" title="wikilink">楊平有</a>200坪土地。</p></td>
 <td></td>
@@ -54,7 +53,7 @@ Package**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 <td><p>1985年生 (34歲)</p></td>
 <td><p>律師</p></td>
 <td><p>只花三年就司法考試及格[14]，司法研修院41期。<br />
-<a href="../Page/首爾大學.md" title="wikilink">首爾大學</a><a href="../Page/法律.md" title="wikilink">法律系畢業</a>。<br />
+<a href="../Page/首爾大學.md" title="wikilink">首爾大學</a><a href="../Page/法律.md" title="wikilink">法律</a>系畢業。<br />
 理想型是<a href="../Page/蔡秀彬.md" title="wikilink">蔡秀彬</a>。</p></td>
 <td></td>
 </tr>
@@ -62,7 +61,7 @@ Package**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 <td><p>104</p></td>
 <td><p>1987年生 (32歲)</p></td>
 <td><p>牙醫</p></td>
-<td><p><a href="../Page/延世大學.md" title="wikilink">延世大學牙醫系畢業</a>。<br />
+<td><p><a href="../Page/延世大學.md" title="wikilink">延世大學</a>牙醫系畢業。<br />
 事先準備牙膏／牙刷及牙齒簡易美容組，發給在場所有所有人。</p></td>
 <td></td>
 </tr>
@@ -89,7 +88,7 @@ Package**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 <tr class="odd">
 <td><p>107</p></td>
 <td><p>1991年生 (28歲)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿拉伯語" title="wikilink">阿拉伯語</a><a href="../Page/口譯.md" title="wikilink">口譯員兼講師</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿拉伯語" title="wikilink">阿拉伯語</a><a href="../Page/口譯.md" title="wikilink">口譯</a>員兼講師</p></td>
 <td><p><a href="../Page/韓國外國語大學.md" title="wikilink">韓國外國語大學</a><a href="https://zh.wikipedia.org/wiki/阿拉伯語" title="wikilink">阿拉伯語系畢業</a>。<br />
 曾在<a href="https://zh.wikipedia.org/wiki/敘利亞" title="wikilink">敘利亞和</a><a href="https://zh.wikipedia.org/wiki/約旦" title="wikilink">約旦留學</a>。<br />
 理想型是<a href="../Page/李碩薰.md" title="wikilink">李碩薰</a>。</p></td>
@@ -155,7 +154,7 @@ Package**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 <tr class="odd">
 <td><p>103</p></td>
 <td><p>1991年生 (28歲)</p></td>
-<td><p><a href="../Page/NC恐龍.md" title="wikilink">NC恐龍棒球選手經紀人及翻譯</a>。</p></td>
+<td><p><a href="../Page/NC恐龍.md" title="wikilink">NC恐龍</a>棒球選手經紀人及翻譯。</p></td>
 <td><p>個人單品為棒球手套。</p></td>
 <td></td>
 </tr>
@@ -187,7 +186,7 @@ Package**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 <td><p>107</p></td>
 <td><p>1991年生 (28歲)</p></td>
 <td><p><a href="../Page/藥劑師.md" title="wikilink">藥劑師</a></p></td>
-<td><p>個人單品為<a href="../Page/棒球.md" title="wikilink">棒球及棒球手套</a>。</p></td>
+<td><p>個人單品為<a href="../Page/棒球.md" title="wikilink">棒球</a>及棒球手套。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -201,7 +200,7 @@ Package**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 <tr class="odd">
 <td><p>109</p></td>
 <td><p>1992年生 (27歲)</p></td>
-<td><p>首席<a href="../Page/舞蹈.md" title="wikilink">舞蹈家</a></p></td>
+<td><p>首席<a href="../Page/舞蹈.md" title="wikilink">舞蹈</a>家</p></td>
 <td><p>從小學習芭蕾舞，專業為韓國傳統舞。<br />
 畢業於<a href="../Page/韓國藝術綜合大學.md" title="wikilink">韓國藝術綜合大學</a>。</p></td>
 <td></td>
@@ -234,7 +233,7 @@ Package**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 <td><p>男</p></td>
 <td><p>1991年生(28歲)</p></td>
 <td><p>飾品生意</p></td>
-<td style="text-align: center;"><p>畢業於<a href="../Page/中央大學_(韓國).md" title="wikilink">中央大學經營科</a>，曾在<a href="../Page/大韓航空.md" title="wikilink">大韓航空擔任</a><a href="../Page/空中乘务员.md" title="wikilink">空服員</a>。</p></td>
+<td style="text-align: center;"><p>畢業於<a href="../Page/中央大學_(韓國).md" title="wikilink">中央大學經營科</a>，曾在<a href="../Page/大韓航空.md" title="wikilink">大韓航空</a>擔任<a href="../Page/空中乘务员.md" title="wikilink">空服員</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>102</p></td>
@@ -262,7 +261,7 @@ Package**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 <td><p>男</p></td>
 <td><p>1988年生(31歲)</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS播音員</a></p></td>
-<td style="text-align: center;"><p>畢業於<a href="../Page/建國大學.md" title="wikilink">建國大學英文專業</a>。</p></td>
+<td style="text-align: center;"><p>畢業於<a href="../Page/建國大學.md" title="wikilink">建國大學</a>英文專業。</p></td>
 </tr>
 <tr class="even">
 <td><p>106</p></td>
@@ -283,21 +282,21 @@ Package**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 <td><p>女</p></td>
 <td><p>1990年生(29歲)</p></td>
 <td><p><a href="../Page/西班牙语.md" title="wikilink">西班牙語</a>&amp;<a href="https://zh.wikipedia.org/wiki/葡萄牙語" title="wikilink">葡萄牙語</a><a href="../Page/口譯.md" title="wikilink">口譯</a></p></td>
-<td style="text-align: center;"><p>參與<a href="../Page/尹食堂.md" title="wikilink">尹食堂的翻譯工作</a>。</p></td>
+<td style="text-align: center;"><p>參與<a href="../Page/尹食堂.md" title="wikilink">尹食堂</a>的翻譯工作。</p></td>
 </tr>
 <tr class="odd">
 <td><p>109</p></td>
 <td><p>女</p></td>
 <td><p>1990年生(29歲)</p></td>
 <td><p><a href="../Page/芭蕾舞者.md" title="wikilink">芭蕾舞者</a>&amp;<a href="https://zh.wikipedia.org/wiki/彼拉提斯" title="wikilink">普拉提講師</a></p></td>
-<td style="text-align: center;"><p>畢業於<a href="../Page/世宗大學.md" title="wikilink">世宗大學舞蹈系</a>。</p></td>
+<td style="text-align: center;"><p>畢業於<a href="../Page/世宗大學.md" title="wikilink">世宗大學</a>舞蹈系。</p></td>
 </tr>
 <tr class="even">
 <td><p>110</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p>自由主持人兼<a href="../Page/播音員.md" title="wikilink">播音員</a></p></td>
-<td style="text-align: center;"><p>曾在<a href="../Page/大韓航空.md" title="wikilink">大韓航空擔任</a><a href="../Page/空中乘务员.md" title="wikilink">空服員</a>，畢業於<a href="../Page/梨花女子大學.md" title="wikilink">梨花女子大學陶瓷藝術系</a>。</p></td>
+<td style="text-align: center;"><p>曾在<a href="../Page/大韓航空.md" title="wikilink">大韓航空</a>擔任<a href="../Page/空中乘务员.md" title="wikilink">空服員</a>，畢業於<a href="../Page/梨花女子大學.md" title="wikilink">梨花女子大學</a>陶瓷藝術系。</p></td>
 </tr>
 </tbody>
 </table>
@@ -353,7 +352,7 @@ Package**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 <td><p>105</p></td>
 <td><p>rowspan ="4"|女</p></td>
 <td><p>1991年生(27歲)</p></td>
-<td><p><a href="../Page/延世大學.md" title="wikilink">延世大學傳播學院研究生</a>，<br />
+<td><p><a href="../Page/延世大學.md" title="wikilink">延世大學</a>傳播學院研究生，<br />
 主修文化研究與藝術社會學。</p></td>
 <td style="text-align: center;"><p>準備創業（與時尚相關）。</p></td>
 </tr>
@@ -410,7 +409,7 @@ Package**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 <tr class="even">
 <td><p>102</p></td>
 <td><p>1989年生(30歲)</p></td>
-<td><p><a href="../Page/汝矣島.md" title="wikilink">汝矣島的證券公司</a><br />
+<td><p><a href="../Page/汝矣島.md" title="wikilink">汝矣島</a>的證券公司<br />
 大宗經紀商[19]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/UCLA" title="wikilink">UCLA</a><a href="https://zh.wikipedia.org/wiki/國際關係" title="wikilink">國際關係學系畢業</a><br />
 喜歡<a href="https://zh.wikipedia.org/wiki/重訓" title="wikilink">重訓和打</a><a href="https://zh.wikipedia.org/wiki/籃球" title="wikilink">籃球</a>。</p></td>
@@ -419,7 +418,7 @@ Package**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 <tr class="odd">
 <td><p>103</p></td>
 <td><p>1985年生(34歲)</p></td>
-<td><p><a href="../Page/現代汽車.md" title="wikilink">現代汽車公司研究員</a></p></td>
+<td><p><a href="../Page/現代汽車.md" title="wikilink">現代汽車</a>公司研究員</p></td>
 <td><p>曾稱擔任過雜誌模特兒。<br />
 會<a href="https://zh.wikipedia.org/wiki/中文" title="wikilink">中文和</a><a href="https://zh.wikipedia.org/wiki/英文" title="wikilink">英文</a>，有英語娛樂教練2級證。</p></td>
 <td style="text-align: center;"></td>
@@ -428,8 +427,8 @@ Package**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 <td><p>104</p></td>
 <td><p>1984年生(35歲)</p></td>
 <td><p>律師</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/成均館大學" title="wikilink">成均館大學</a><a href="../Page/法律.md" title="wikilink">法律學系畢業</a>。曾經擔任過軍法官。<br />
-目前業務的領域為<a href="https://zh.wikipedia.org/wiki/建設" title="wikilink">建設</a>、<a href="../Page/不動產.md" title="wikilink">不動產和</a><a href="https://zh.wikipedia.org/wiki/離婚" title="wikilink">離婚業務相關</a>。<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/成均館大學" title="wikilink">成均館大學</a><a href="../Page/法律.md" title="wikilink">法律</a>學系畢業。曾經擔任過軍法官。<br />
+目前業務的領域為<a href="https://zh.wikipedia.org/wiki/建設" title="wikilink">建設</a>、<a href="../Page/不動產.md" title="wikilink">不動產</a>和<a href="https://zh.wikipedia.org/wiki/離婚" title="wikilink">離婚業務相關</a>。<br />
 故鄉是<a href="https://zh.wikipedia.org/wiki/濟州島" title="wikilink">濟州島</a>，目前住在<a href="../Page/首爾.md" title="wikilink">首爾</a><a href="https://zh.wikipedia.org/wiki/龍山區" title="wikilink">龍山區</a>。</p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -454,7 +453,7 @@ Package**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 <td><p>1994年生(25歲)</p></td>
 <td><p>經營帽子品牌<a href="http://www.dontforgetme.co.kr/">dontforgetme</a><br />
 副業為<a href="https://zh.wikipedia.org/wiki/TOEIC" title="wikilink">TOEIC英語教學</a></p></td>
-<td><p>曾在<a href="../Page/斯里蘭卡.md" title="wikilink">斯里蘭卡生活</a>13年。<br />
+<td><p>曾在<a href="../Page/斯里蘭卡.md" title="wikilink">斯里蘭卡</a>生活13年。<br />
 不喜歡愛喝酒的男人，連前一晚合宿者聚餐也只喝可樂。</p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -462,8 +461,8 @@ Package**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 <td><p>108</p></td>
 <td><p>1992年生(27歲)</p></td>
 <td><p>廣告模特兒</p></td>
-<td><p>父母都是<a href="../Page/日本.md" title="wikilink">日本人</a>，日本<a href="../Page/青山學院大學.md" title="wikilink">青山學院大學英語系畢業</a>，但自學<a href="https://zh.wikipedia.org/wiki/韓文" title="wikilink">韓文</a>。<br />
-目前在<a href="../Page/首爾.md" title="wikilink">首爾生活</a>，也有擔任平面模特兒。<br />
+<td><p>父母都是<a href="../Page/日本.md" title="wikilink">日本</a>人，日本<a href="../Page/青山學院大學.md" title="wikilink">青山學院大學</a>英語系畢業，但自學<a href="https://zh.wikipedia.org/wiki/韓文" title="wikilink">韓文</a>。<br />
+目前在<a href="../Page/首爾.md" title="wikilink">首爾</a>生活，也有擔任平面模特兒。<br />
 但因為簽證關係，必須三個月往返一次日本。</p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -531,7 +530,7 @@ Package**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 | 4           |            | 2018/05/23                                                                                                                                                                            |            |
 | 5           |            | 2018/05/30                                                                                                                                                                            |            |
 | 6           |            | 2018/06/07                                                                                                                                                                            |            |
-| colspan="2" | 2018/06/13 | 停播（[2018年大韓民國地方選舉特別節目](../Page/2018年大韓民國地方選舉.md "wikilink")）                                                                                                                          |            |
+| colspan="2" | 2018/06/13 | 停播（[2018年大韓民國地方選舉](../Page/2018年大韓民國地方選舉.md "wikilink")特別節目）                                                                                                                          |            |
 | colspan="2" | 2018/06/20 | 停播（[2018年世足賽](https://zh.wikipedia.org/wiki/2018年國際足協世界盃 "wikilink") B組 [葡萄牙](../Page/葡萄牙.md "wikilink") vs [摩洛哥](https://zh.wikipedia.org/wiki/摩洛哥 "wikilink")（現場直播））                |            |
 | colspan="2" | 2018/06/27 | 停播（[2018年世足賽](https://zh.wikipedia.org/wiki/2018年國際足協世界盃 "wikilink") F組 [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink") vs [德國](https://zh.wikipedia.org/wiki/德國 "wikilink")（現場直播）） |            |
 | 7           |            | 2018/07/04                                                                                                                                                                            |            |
@@ -579,9 +578,7 @@ Package**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
   -
   -
   -
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
+[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
 
 1.
 2.
@@ -599,8 +596,7 @@ Package**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 14. 在韓國即屬於一次性通過者，屬於十分頂尖。
 15. 爸爸是德國人，媽媽是韓國人。
 16. 「自由」指的是未受任何公司合約綁定限制。
-17. 源自韓國古典小說《春香傳》。從 1931
-    年開始，韓國[南原地方開始舉辦](../Page/南原市.md "wikilink")「春香祭」（「祭」在韓語裡是「活動、慶典」），而其中有個活動為「全國春香選拔大會」，目的是選出和春香一樣符合韓國傳統女性婦德的美女。
+17. 源自韓國古典小說《春香傳》。從 1931 年開始，韓國[南原地方開始舉辦](../Page/南原市.md "wikilink")「春香祭」（「祭」在韓語裡是「活動、慶典」），而其中有個活動為「全國春香選拔大會」，目的是選出和春香一樣符合韓國傳統女性婦德的美女。
 18. 「真」是第一名。（善為第二名，美為第三名。）
 19. 把海外對沖基金商品化進國內，親自到海外探訪研究後賣給顧客。
 20. 例如男友突然出現在自己家門口，拿著鮮花禮物等自己。

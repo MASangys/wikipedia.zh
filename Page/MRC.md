@@ -6,11 +6,9 @@
 
   - ，美國志工組織
 
-  - (regional county municipality), a type of government division in
-    Quebec, Canada
+  - (regional county municipality), a type of government division in Quebec, Canada
 
-  - , military organs of the Russian Revolution of 1917 and Russian
-    Civil War
+  - , military organs of the Russian Revolution of 1917 and Russian Civil War
 
   -
   - Mail recovery center, or postal
@@ -35,8 +33,7 @@
 
   - （Movement for the Rehabilitation of Citizens–Rurenzangemero），蒲隆地政黨
 
-  - [公民與共和運動](../Page/公民與共和運動.md "wikilink")（Mouvement républicain et
-    citoyen），法國政黨
+  - [公民與共和運動](../Page/公民與共和運動.md "wikilink")（Mouvement républicain et citoyen），法國政黨
 
   - ，[剛果民主共和國的反叛組織](https://zh.wikipedia.org/wiki/剛果民主共和國 "wikilink")。
 
@@ -66,7 +63,7 @@
 
   - , a component of Intel computer firmware
 
-  - 記憶喚回（Memory Recall），[电子计算器的功能](../Page/电子计算器.md "wikilink")
+  - 記憶喚回（Memory Recall），[电子计算器](../Page/电子计算器.md "wikilink")的功能
 
 ## 科研
 

@@ -1,16 +1,12 @@
-[缩略图](https://zh.wikipedia.org/wiki/File:What_is_Love.png "fig:缩略图")
-《**What is
-Love?**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE的第五張韓語迷你專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")。由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，於2018年4月9日推出，主打歌為〈What
-is Love?〉，在韓國時間下午六點正式公開主打歌MV以及專輯完整音源。
+[缩略图](https://zh.wikipedia.org/wiki/File:What_is_Love.png "fig:缩略图") 《**What is Love?**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE的第五張韓語迷你專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")。由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，於2018年4月9日推出，主打歌為〈What is Love?〉，在韓國時間下午六點正式公開主打歌MV以及專輯完整音源。
 
 ## 背景及回歸日程
 
 2018年3月24日，[TWICE於官方推特和臉書釋出回歸行程日期](https://zh.wikipedia.org/wiki/TWICE "wikilink")\[1\]，宣布TWICE將於2018年4月9日[韓國時間下午六點回歸](https://zh.wikipedia.org/wiki/韓國時間 "wikilink")。
 
-3月25日，釋出第一張回歸團體概念照以及回歸Showcase事項。3月27日，釋出[娜璉](../Page/娜璉.md "wikilink")、[定延](../Page/定延.md "wikilink")、[Momo](https://zh.wikipedia.org/wiki/平井桃 "wikilink")、[Sana第一波個人概念照以及專輯預覽圖](https://zh.wikipedia.org/wiki/湊崎紗夏 "wikilink")。翌日，釋出[志效](../Page/志效.md "wikilink")、[Mina](https://zh.wikipedia.org/wiki/名井南 "wikilink")、[多賢](../Page/多賢.md "wikilink")、[彩瑛及](../Page/彩瑛.md "wikilink")[子瑜之個人概念照以及開放預購](https://zh.wikipedia.org/wiki/子瑜 "wikilink")。
+3月25日，釋出第一張回歸團體概念照以及回歸Showcase事項。3月27日，釋出[娜璉](../Page/娜璉.md "wikilink")、[定延](../Page/定延.md "wikilink")、[Momo](https://zh.wikipedia.org/wiki/平井桃 "wikilink")、[Sana第一波個人概念照以及專輯預覽圖](https://zh.wikipedia.org/wiki/湊崎紗夏 "wikilink")。翌日，釋出[志效](../Page/志效.md "wikilink")、[Mina](https://zh.wikipedia.org/wiki/名井南 "wikilink")、[多賢](../Page/多賢.md "wikilink")、[彩瑛](../Page/彩瑛.md "wikilink")及[子瑜之個人概念照以及開放預購](https://zh.wikipedia.org/wiki/子瑜 "wikilink")。
 
-3月28日，透露同名主打歌〈What is
-Love?〉由[朴軫永作曲和填詞](../Page/朴軫永.md "wikilink")。這也是繼《[SIGNAL](../Page/Signal_\(TWICE迷你專輯\).md "wikilink")》後再度由朴軫永親自為TWICE操刀寫歌。
+3月28日，透露同名主打歌〈What is Love?〉由[朴軫永](../Page/朴軫永.md "wikilink")作曲和填詞。這也是繼《[SIGNAL](../Page/Signal_\(TWICE迷你專輯\).md "wikilink")》後再度由朴軫永親自為TWICE操刀寫歌。
 
 3月30日，公開完整專輯收錄曲歌單以及第二波個人概念照，包括子瑜、彩瑛、多賢及Mina。翌日，釋出志效、Sana、Momo、定延及娜璉的個人概念照。
 
@@ -378,13 +374,9 @@ Love?〉由[朴軫永作曲和填詞](../Page/朴軫永.md "wikilink")。這也�
 
 ## 參考資料
 
-[Category:TWICE](https://zh.wikipedia.org/wiki/Category:TWICE "wikilink")
-[Category:TWICE音樂專輯](https://zh.wikipedia.org/wiki/Category:TWICE音樂專輯 "wikilink")
-[Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:2018年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2018年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon數位下載週榜冠軍作品 "wikilink")
-[Category:2018年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon流媒體週榜冠軍作品 "wikilink")
+
+
+[Category:TWICE](https://zh.wikipedia.org/wiki/Category:TWICE "wikilink") [Category:TWICE音樂專輯](https://zh.wikipedia.org/wiki/Category:TWICE音樂專輯 "wikilink") [Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2018年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon單曲週榜冠軍作品 "wikilink") [Category:2018年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2018年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon流媒體週榜冠軍作品 "wikilink")
 
 1.
 2.

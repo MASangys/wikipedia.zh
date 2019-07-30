@@ -1,18 +1,17 @@
-**99RadioService**（），是一個於2007年組成的[日本的](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。暱稱「**Nine
-Nine**（）」。
+**99RadioService**（），是一個於2007年組成的[日本](../Page/日本.md "wikilink")的[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。暱稱「**Nine Nine**（）」。
 
 ## 成員簡介
 
 ### 現任成員
 
   - **Ko-ta**（）
-      - [吉他手](../Page/吉他.md "wikilink")、[主唱](../Page/歌手.md "wikilink")。同團成員Ko-hey的胞兄\[1\]、歌手的兒子\[2\]。
+      - [吉他](../Page/吉他.md "wikilink")手、[主唱](../Page/歌手.md "wikilink")。同團成員Ko-hey的胞兄\[1\]、歌手的兒子\[2\]。
   - **Ko-hey**（）
       - 主唱、吉他手。同團成員Ko-ta的胞弟\[3\]、歌手堀內孝雄的兒子\[4\]。
   - **Jigen**（）
       - [貝斯手](https://zh.wikipedia.org/wiki/貝斯 "wikilink")。
   - **riri**
-      - [電子琴手](../Page/電子琴.md "wikilink")。
+      - [電子琴](../Page/電子琴.md "wikilink")手。
   - **Endo Tatsuro**
       - 鼓手。
 
@@ -21,24 +20,21 @@ Nine**（）」。
   - **Katsu**（）
       - [貝斯手](https://zh.wikipedia.org/wiki/貝斯 "wikilink")。2011年退出。
   - **GOI**（）
-      - [電子琴手](../Page/電子琴.md "wikilink")。2013年退出。
+      - [電子琴](../Page/電子琴.md "wikilink")手。2013年退出。
   - **Negi**（）
       - 鼓手。2014年退出。
 
 ## 概要
 
-2007年居住東京時組團。樂團名稱取自於Ko-ta和Ko-hey兄弟他們家裡，從9月9日開始飼養的一隻兔子，並幫牠取名叫「\[5\]」。而「RadioService」取自於Ko-hey他喜歡的吉他製造商[芬達樂器在創業初期取的公司名稱](../Page/芬達樂器公司.md "wikilink")「Fender's
-Radio Service」\[6\]。
+2007年居住東京時組團。樂團名稱取自於Ko-ta和Ko-hey兄弟他們家裡，從9月9日開始飼養的一隻兔子，並幫牠取名叫「\[5\]」。而「RadioService」取自於Ko-hey他喜歡的吉他製造商[芬達樂器在創業初期取的公司名稱](../Page/芬達樂器公司.md "wikilink")「Fender's Radio Service」\[6\]。
 
-2009年12月發行首張專輯《1》。2010年7月登上[日本富士搖滾音樂祭](../Page/日本富士搖滾音樂祭.md "wikilink")
-'10 ROOKIE A
-GO-GO的舞台演出。2011年6月首次在[澳門](../Page/澳門.md "wikilink")、[香港舉辦現場Live演唱](../Page/香港.md "wikilink")。
+2009年12月發行首張專輯《1》。2010年7月登上[日本富士搖滾音樂祭](../Page/日本富士搖滾音樂祭.md "wikilink") '10 ROOKIE A GO-GO的舞台演出。2011年6月首次在[澳門](../Page/澳門.md "wikilink")、[香港](../Page/香港.md "wikilink")舉辦現場Live演唱。
 
 2011年9月9日發行第二張專輯《2》正式亮相。
 
 2011年11月1日，貝斯手Katsu退出99RadioSrvice\[7\]。
 
-2011年11月30日發行他們的首部單曲「YOUTHFUL」，是同年10月4日開始在[日本電視台播放電視動畫](../Page/日本電視台.md "wikilink")《[花牌情緣](https://zh.wikipedia.org/wiki/花牌情緣 "wikilink")》的片頭曲\[8\]。
+2011年11月30日發行他們的首部單曲「YOUTHFUL」，是同年10月4日開始在[日本電視台](../Page/日本電視台.md "wikilink")播放電視動畫《[花牌情緣](https://zh.wikipedia.org/wiki/花牌情緣 "wikilink")》的片頭曲\[8\]。
 
 2012年9月9日，支援的貝斯手Jigen在Live現場宣布成為99RadioSrevice正式成員。
 
@@ -309,8 +305,7 @@ VPCC-82309：通常盤</p></td>
   - 2011年11月12日：FPP LIVE GO！NEXT7×mole 5th Anniversary -2nd day-
   - 2012年4月23日： VS La.mama
   - 2012年9月4日：Musicoholic
-  - 2012年12月20日：殘響record×EMI JAPAN×GARDEN presents 【SHIMOKITAZAWA ACTIVE
-    DRIVE vol.1】
+  - 2012年12月20日：殘響record×EMI JAPAN×GARDEN presents 【SHIMOKITAZAWA ACTIVE DRIVE vol.1】
   - 2013年5月18日：DESPERADO
 
 ## 腳註
@@ -335,10 +330,7 @@ VPCC-82309：通常盤</p></td>
 
       -
 
-[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink")
-[Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:VAP旗下藝人](https://zh.wikipedia.org/wiki/Category:VAP旗下藝人 "wikilink")
+[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:VAP旗下藝人](https://zh.wikipedia.org/wiki/Category:VAP旗下藝人 "wikilink")
 
 1.
 
@@ -350,14 +342,10 @@ VPCC-82309：通常盤</p></td>
 
 6.  [99RadioService、](http://210.248.156.194/article/feature_item/2011/09/03/81616)
 
-
 7.  [](http://99rs.sblo.jp/article/49707312.html)
 
 8.
 
-9.  [99RadioService電子琴手GOI於10月獨自退團](http://natalie.mu/music/news/99171).
-    [音樂Natalie](../Page/Natalie_\(網站\).md "wikilink"). 2013-09-11
-    \[2018-09-24\]
+9.  [99RadioService電子琴手GOI於10月獨自退團](http://natalie.mu/music/news/99171). [音樂Natalie](../Page/Natalie_\(網站\).md "wikilink"). 2013-09-11 \[2018-09-24\]
 
-10. [99RadioService鼓手Negi退出樂團](http://natalie.mu/music/news/110051).
-    音樂Natalie. 2014-02-17 \[2018-09-24\] .
+10. [99RadioService鼓手Negi退出樂團](http://natalie.mu/music/news/110051). 音樂Natalie. 2014-02-17 \[2018-09-24\] .

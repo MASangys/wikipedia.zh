@@ -21,8 +21,7 @@
 
   - **需要提升至典範條目的水準：**
   - **需要協作：**
-  - **需要擴充：**[堪萨斯州](https://zh.wikipedia.org/wiki/堪萨斯州 "wikilink")，[托皮卡](../Page/托皮卡.md "wikilink")，[威奇托
-    (堪萨斯州)](../Page/威奇托_\(堪萨斯州\).md "wikilink")
+  - **需要擴充：**[堪萨斯州](https://zh.wikipedia.org/wiki/堪萨斯州 "wikilink")，[托皮卡](../Page/托皮卡.md "wikilink")，[威奇托 (堪萨斯州)](../Page/威奇托_\(堪萨斯州\).md "wikilink")
   - **需要清理：**
   - **需要合併：**
   - **需要分類：**

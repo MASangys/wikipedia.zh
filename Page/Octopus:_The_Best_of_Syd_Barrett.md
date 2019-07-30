@@ -1,8 +1,4 @@
-《[Octopus: The Best of Syd
-Barrett](../Page/Octopus:_The_Best_of_Syd_Barrett.md "wikilink")》是1992年5月29日发行的西德·巴雷特创作的单曲汇编的精选集。它包含他的两张个人专辑《The
-Madcap Laughs》和《Barrett》的歌曲以及精选集《Opel》。\[1\]这张专辑后来被[The Best of Syd
-Barrett: Wouldn't You Miss
-Me?取代](../Page/The_Best_of_Syd_Barrett:_Wouldn't_You_Miss_Me?.md "wikilink")。\[2\]
+《[Octopus: The Best of Syd Barrett](../Page/Octopus:_The_Best_of_Syd_Barrett.md "wikilink")》是1992年5月29日发行的西德·巴雷特创作的单曲汇编的精选集。它包含他的两张个人专辑《The Madcap Laughs》和《Barrett》的歌曲以及精选集《Opel》。\[1\]这张专辑后来被[The Best of Syd Barrett: Wouldn't You Miss Me?取代](../Page/The_Best_of_Syd_Barrett:_Wouldn't_You_Miss_Me?.md "wikilink")。\[2\]
 
 ## 曲目
 

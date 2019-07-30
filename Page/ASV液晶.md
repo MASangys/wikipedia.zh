@@ -10,8 +10,7 @@
 
 ## 参考
 
-[Category:夏普產品](https://zh.wikipedia.org/wiki/Category:夏普產品 "wikilink")
-[Category:液晶](https://zh.wikipedia.org/wiki/Category:液晶 "wikilink")
+[Category:夏普產品](https://zh.wikipedia.org/wiki/Category:夏普產品 "wikilink") [Category:液晶](https://zh.wikipedia.org/wiki/Category:液晶 "wikilink")
 
 1.
 2.

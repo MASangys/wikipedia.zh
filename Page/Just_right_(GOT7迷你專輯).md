@@ -1,38 +1,25 @@
-《**Just
-right**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7的第三張](../Page/GOT7.md "wikilink")[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，於2015年7月13日發行，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，唱片公司為KT
-Music，主打歌為《Just right》。12月23日發行《Just right》特別版專輯（Special Edition）。
+《**Just right**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")的第三張[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，於2015年7月13日發行，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為KT Music，主打歌為《Just right》。12月23日發行《Just right》特別版專輯（Special Edition）。
 
 ## 背景
 
-2015年6月29日（韓國時間），GOT7官方網站、JYP娛樂官方臉書及推特發布了首波預告照片，以月曆的概念預告GOT7即將回歸。6月30日釋出第一張概念照，以貼滿成員照片的日記本為背景，同步公開新專輯名稱與發行日期。\[1\]
-7月1日、3日、6日分別發布三張團體及個人概念照，照片中成員們開心的乘坐旋轉木馬，像在等待女友赴約的男孩般，配合主打歌《Just
-right》的主題比出「OKAY」的手勢，十分俏皮可愛。\[2\]
+2015年6月29日（韓國時間），GOT7官方網站、JYP娛樂官方臉書及推特發布了首波預告照片，以月曆的概念預告GOT7即將回歸。6月30日釋出第一張概念照，以貼滿成員照片的日記本為背景，同步公開新專輯名稱與發行日期。\[1\] 7月1日、3日、6日分別發布三張團體及個人概念照，照片中成員們開心的乘坐旋轉木馬，像在等待女友赴約的男孩般，配合主打歌《Just right》的主題比出「OKAY」的手勢，十分俏皮可愛。\[2\]
 
-7月8日公開專輯曲目清單\[3\]，7月9日透過Naver Starcast直播《Just right》LIVE
-PARTY，由成員們親自公布專輯試聽片段與《Just
-right》MV預告影片。7月13日零時公開專輯音源、《Just
-right》完整MV，7月14日發行實體專輯。
+7月8日公開專輯曲目清單\[3\]，7月9日透過Naver Starcast直播《Just right》LIVE PARTY，由成員們親自公布專輯試聽片段與《Just right》MV預告影片。7月13日零時公開專輯音源、《Just right》完整MV，7月14日發行實體專輯。
 
 ## 概要
 
-本專輯共收錄6首歌曲，主打歌《Just
-right》由曾為[賈斯汀·比伯](https://zh.wikipedia.org/wiki/賈斯汀·比伯 "wikilink")、[瑪丹娜](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")、[克里斯小子等多位知名歌手擔任製作](https://zh.wikipedia.org/wiki/克里斯小子 "wikilink")、屢獲[葛萊美獎的雙人創作組合](../Page/葛萊美獎.md "wikilink")作曲和製作，[朴軫永擔任填詞](../Page/朴軫永.md "wikilink")，結合美國[南部嘻哈節奏與](../Page/南部嘻哈.md "wikilink")[流行音樂旋律](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")，講述男友安慰並鼓勵缺乏自信的女友的故事。\[4\]
-而成員[JB](../Page/林在範.md "wikilink")、[Mark](../Page/段宜恩.md "wikilink")、[Jackson也分別參與了歌曲](../Page/王嘉爾.md "wikilink")〈Mine〉和〈Back
-To Me〉的rap歌詞創作。
+本專輯共收錄6首歌曲，主打歌《Just right》由曾為[賈斯汀·比伯](https://zh.wikipedia.org/wiki/賈斯汀·比伯 "wikilink")、[瑪丹娜](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")、[克里斯小子等多位知名歌手擔任製作](https://zh.wikipedia.org/wiki/克里斯小子 "wikilink")、屢獲[葛萊美獎](../Page/葛萊美獎.md "wikilink")的雙人創作組合作曲和製作，[朴軫永](../Page/朴軫永.md "wikilink")擔任填詞，結合美國[南部嘻哈](../Page/南部嘻哈.md "wikilink")節奏與[流行音樂旋律](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")，講述男友安慰並鼓勵缺乏自信的女友的故事。\[4\] 而成員[JB](../Page/林在範.md "wikilink")、[Mark](../Page/段宜恩.md "wikilink")、[Jackson也分別參與了歌曲](../Page/王嘉爾.md "wikilink")〈Mine〉和〈Back To Me〉的rap歌詞創作。
 
 ### 發行版本
 
 此專輯共發行2個版本：
 
   - 原版：內含1張CD、3本寫真冊（共84頁）、1張成員小卡（8款隨機）、1張成員大卡（8款隨機）
-  - 特別版：為限量發行的[USB專輯](../Page/USB.md "wikilink")，USB外觀是以成員們的 Q
-    版漫畫形象製作，共8款（每個成員各1款，團體1款），容量16G。
+  - 特別版：為限量發行的[USB](../Page/USB.md "wikilink")專輯，USB外觀是以成員們的 Q 版漫畫形象製作，共8款（每個成員各1款，團體1款），容量16G。
 
 ## 音樂錄影帶
 
-《Just
-right》MV女主角由曾與成員[珍榮共同合作電視劇](../Page/朴珍榮.md "wikilink")《[親愛的恩東啊](../Page/親愛的恩東啊.md "wikilink")》的童星[李子仁出演](https://zh.wikipedia.org/wiki/李子仁 "wikilink")\[5\]，在MV中GOT7化身為身型迷你的小精靈，在化妝台、時鐘、書桌上又唱又跳，為女主角加油打氣。歌詞唱道「不需要魔鏡，只需要看著我的眼睛，不需要體重計，到我肩膀上讓我背著妳」、「無論怎麼看，我還是找不到妳所謂不漂亮的地方在哪裡」、「什麼都不要擔心，妳的一切都很好，所以請不要做任何的改變」，各種貼心話語使得原本為外貌自卑、苦惱不已的她終於破涕為笑並重拾信心。2017年3月6日，《Just
-right》MV於[YouTube點擊量突破](../Page/YouTube.md "wikilink")1億人次，成為GOT7出道以來首支點擊量破億的MV。\[6\]
+《Just right》MV女主角由曾與成員[珍榮共同合作電視劇](../Page/朴珍榮.md "wikilink")《[親愛的恩東啊](../Page/親愛的恩東啊.md "wikilink")》的童星[李子仁出演](https://zh.wikipedia.org/wiki/李子仁 "wikilink")\[5\]，在MV中GOT7化身為身型迷你的小精靈，在化妝台、時鐘、書桌上又唱又跳，為女主角加油打氣。歌詞唱道「不需要魔鏡，只需要看著我的眼睛，不需要體重計，到我肩膀上讓我背著妳」、「無論怎麼看，我還是找不到妳所謂不漂亮的地方在哪裡」、「什麼都不要擔心，妳的一切都很好，所以請不要做任何的改變」，各種貼心話語使得原本為外貌自卑、苦惱不已的她終於破涕為笑並重拾信心。2017年3月6日，《Just right》MV於[YouTube](../Page/YouTube.md "wikilink")點擊量突破1億人次，成為GOT7出道以來首支點擊量破億的MV。\[6\]
 
 ## 曲目
 
@@ -164,37 +151,18 @@ right》MV於[YouTube點擊量突破](../Page/YouTube.md "wikilink")1億人次�
   -
   -
   -
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
-[Category:GOT7音樂專輯](https://zh.wikipedia.org/wiki/Category:GOT7音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:GOT7音樂專輯](https://zh.wikipedia.org/wiki/Category:GOT7音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
-1.  [GOT7 Gear Up For 3rd EP Release On
-    July 13](http://www.kpopstarz.com/articles/215187/20150629/got7-gears-up-comeback-july.htm)
-    kpopstarz. \[2015-06-29\]
-2.  [GOT7集體宣傳照公開 變身陽光男友](http://www.koreastardaily.com/tc/photo/64352)
-    韓星網. \[2015-07-01\]
-3.  [GOT7 迷你三輯曲目表](http://kpopn.com/2015/07/08/284518/) kpopn.
-    \[2015-07-08\]
-4.  [GOT7公開新專輯《Just Right》曲目表
-    風格多樣](http://www.koreastardaily.com/tc/news/64739) 韓星網.
-    \[2015-07-08\]
-5.  [GOT7新歌女主角大有來頭！與Junior有段羞澀愛情](http://www.ettoday.net/news/20150713/534579.htm)
-    東森新聞雲. \[2015-07-13\]
+1.  [GOT7 Gear Up For 3rd EP Release On July 13](http://www.kpopstarz.com/articles/215187/20150629/got7-gears-up-comeback-july.htm) kpopstarz. \[2015-06-29\]
+2.  [GOT7集體宣傳照公開 變身陽光男友](http://www.koreastardaily.com/tc/photo/64352) 韓星網. \[2015-07-01\]
+3.  [GOT7 迷你三輯曲目表](http://kpopn.com/2015/07/08/284518/) kpopn. \[2015-07-08\]
+4.  [GOT7公開新專輯《Just Right》曲目表 風格多樣](http://www.koreastardaily.com/tc/news/64739) 韓星網. \[2015-07-08\]
+5.  [GOT7新歌女主角大有來頭！與Junior有段羞澀愛情](http://www.ettoday.net/news/20150713/534579.htm) 東森新聞雲. \[2015-07-13\]
 6.
-7.  [2015년 30주차 Digital
-    Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=30&hitYear=2015&termGbn=week)Gaon
-    Chart. \[2015-07-23\]
-8.  [2015년 07월 Digital
-    Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&termGbn=month)Gaon
-    Chart. \[2015-08-22\]
-9.  [2015년 30주차 Album
-    Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=32&hitYear=2015&termGbn=week)Gaon
-    Chart. \[2015-07-23\]
-10. [2015년 07월 Album
-    Chart](http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2015&termGbn=month)Gaon
-    Chart. \[2015-08-06\]
-11. [2015년 Album
-    Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=year)
-    Gaon Chart. \[2016-01-22\]
+7.  [2015년 30주차 Digital Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=30&hitYear=2015&termGbn=week)Gaon Chart. \[2015-07-23\]
+8.  [2015년 07월 Digital Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&termGbn=month)Gaon Chart. \[2015-08-22\]
+9.  [2015년 30주차 Album Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=32&hitYear=2015&termGbn=week)Gaon Chart. \[2015-07-23\]
+10. [2015년 07월 Album Chart](http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2015&termGbn=month)Gaon Chart. \[2015-08-06\]
+11. [2015년 Album Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=year) Gaon Chart. \[2016-01-22\]
 12.
 13.

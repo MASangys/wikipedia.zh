@@ -1,4 +1,4 @@
-（）是[日本的一支](../Page/日本.md "wikilink")[嘻哈乐](https://zh.wikipedia.org/wiki/嘻哈乐 "wikilink")[男子组合](../Page/男子音乐组合.md "wikilink")。他们是[星尘传播旗下音乐组合](https://zh.wikipedia.org/wiki/星尘传播 "wikilink")[惠比寿学园男子部推出的选拔企划](https://zh.wikipedia.org/wiki/惠比寿学园男子部 "wikilink")“”所推出来的一系列组合之一。组合由（）、（）、（藤田真广）和四名[MC和](https://zh.wikipedia.org/wiki/MC_\(音樂\) "wikilink")（安本丞）一名[DJ组成](https://zh.wikipedia.org/wiki/DJ "wikilink")。
+（）是[日本](../Page/日本.md "wikilink")的一支[嘻哈乐](https://zh.wikipedia.org/wiki/嘻哈乐 "wikilink")[男子组合](../Page/男子音乐组合.md "wikilink")。他们是[星尘传播旗下音乐组合](https://zh.wikipedia.org/wiki/星尘传播 "wikilink")[惠比寿学园男子部推出的选拔企划](https://zh.wikipedia.org/wiki/惠比寿学园男子部 "wikilink")“”所推出来的一系列组合之一。组合由（）、（）、（藤田真广）和四名[MC和](https://zh.wikipedia.org/wiki/MC_\(音樂\) "wikilink")（安本丞）一名[DJ组成](https://zh.wikipedia.org/wiki/DJ "wikilink")。
 
 其粉丝一直用“”称呼他们。
 
@@ -163,7 +163,7 @@ ZXRC-1082（DO盘）</p></td>
 
 ### 限定
 
-  - 《》（2016年12月25日，[HMV限定](../Page/HMV.md "wikilink")）
+  - 《》（2016年12月25日，[HMV](../Page/HMV.md "wikilink")限定）
 
 ## 表演活动
 
@@ -194,6 +194,4 @@ ZXRC-1082（DO盘）</p></td>
 
   - [MAGiC BOYZ音乐出版品](http://www.stardust.co.jp/profile/magicboyz.html)
 
-[Category:EBiDAN](https://zh.wikipedia.org/wiki/Category:EBiDAN "wikilink")
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:日本嘻哈團體](https://zh.wikipedia.org/wiki/Category:日本嘻哈團體 "wikilink")
+[Category:EBiDAN](https://zh.wikipedia.org/wiki/Category:EBiDAN "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:日本嘻哈團體](https://zh.wikipedia.org/wiki/Category:日本嘻哈團體 "wikilink")

@@ -1,6 +1,4 @@
-是由[TRIGGER和](../Page/TRIGGER.md "wikilink")[A-1
-Pictures共同製作的](../Page/A-1_Pictures.md "wikilink")[日本原創](../Page/日本.md "wikilink")[機器人動畫作品](../Page/機器人動畫.md "wikilink")\[1\]，於2017年7月在[Anime
-Expo公布作品消息](../Page/Anime_Expo.md "wikilink")\[2\]，於2018年1月13日起[東京都會電視台首播](../Page/東京都會電視台.md "wikilink")。官方简称为**Dari-fra**（）\[3\]。
+是由[TRIGGER](../Page/TRIGGER.md "wikilink")和[A-1 Pictures共同製作的](../Page/A-1_Pictures.md "wikilink")[日本](../Page/日本.md "wikilink")原創[機器人動畫](../Page/機器人動畫.md "wikilink")作品\[1\]，於2017年7月在[Anime Expo公布作品消息](../Page/Anime_Expo.md "wikilink")\[2\]，於2018年1月13日起[東京都會電視台](../Page/東京都會電視台.md "wikilink")首播。官方简称为**Dari-fra**（）\[3\]。
 
 作品標題的「FRANXX」是有着少女外貌的巨大機械人，DARLING（親愛的）就是女主角02稱呼男主角廣（016）的用詞。
 
@@ -23,8 +21,7 @@ Expo公布作品消息](../Page/Anime_Expo.md "wikilink")\[2\]，於2018年1月1
 <!-- end list -->
 
   -
-    本名「**CODE：002**」。美麗而神祕的女性，帶有兩個犄角，是博士根据「叫龍公主」的細胞的複製品。隸屬APE直屬的特屬近衛部隊中的菁英，別名「搭檔殺手」。根據9'α的描述，在9's時期被稱作“9'ι”（Nain
-    Iota, Nine Iota）。
+    本名「**CODE：002**」。美麗而神祕的女性，帶有兩個犄角，是博士根据「叫龍公主」的細胞的複製品。隸屬APE直屬的特屬近衛部隊中的菁英，別名「搭檔殺手」。根據9'α的描述，在9's時期被稱作“9'ι”（Nain Iota, Nine Iota）。
     幼年時被FRANXX博士為首的研究者們進行了殘酷的非人道實驗，在與看不下去的廣一起逃亡後被取了02的稱呼，之後被大人們抓回並消除了該段期間的記憶，但本能上仍記得這段逃亡期間的甜蜜經歷，也堅信只有不斷打倒叫龍才能變成人類並遇見那期間遇上的Darling。於13話種植園戰鬥時恢復過去的記憶。
     大裂縫作戰結束後個性變化極大，與第13都市部隊的成員、尤其是女性們相處變得極為融洽。
     於動畫24話於廣一同前往宇宙，戰勝VIRM後與廣化成光芒消失在宇宙當中。於結尾，和廣一起轉生在櫻花樹下並再次相遇。
@@ -165,8 +162,7 @@ Expo公布作品消息](../Page/Anime_Expo.md "wikilink")\[2\]，於2018年1月1
 ### 第13都市部隊
 
   - \[4\]
-    廣與02的FRANXX機體。頭部有著尖角、以白色為主的機體。02單獨駕駛的情況下會進入Stampede
-    Mode的四足野獸型態。配有名為「Queen Pike」的巨型長矛。
+    廣與02的FRANXX機體。頭部有著尖角、以白色為主的機體。02單獨駕駛的情況下會進入Stampede Mode的四足野獸型態。配有名為「Queen Pike」的巨型長矛。
       -
         鶴望蘭的巨大FRANXX機體。
           -
@@ -185,15 +181,12 @@ Expo公布作品消息](../Page/Anime_Expo.md "wikilink")\[2\]，於2018年1月1
 <!-- end list -->
 
   - \[7\]
-    開始時由心與太操縱的FRANXX機體，後改由心與滿駕駛。有著看似大衣的重裝甲，配有名為「Rook
-    Sparrow」的附刺刀重型火砲。心曾在單獨駕駛的情況下進入過Stampede
-    Mode的四足野獸型態，但只持續數秒就被滿制止。
+    開始時由心與太操縱的FRANXX機體，後改由心與滿駕駛。有著看似大衣的重裝甲，配有名為「Rook Sparrow」的附刺刀重型火砲。心曾在單獨駕駛的情況下進入過Stampede Mode的四足野獸型態，但只持續數秒就被滿制止。
 
 <!-- end list -->
 
   - \[8\]
-    開始時由生野（郁乃）與滿操作的FRANXX機體，後改由生野與太駕駛。手臂上一對名為「Wing
-    Span」的部件足以令它飛行一段時間，內藏的高速機砲使它擅長打游擊戰和進行支援。
+    開始時由生野（郁乃）與滿操作的FRANXX機體，後改由生野與太駕駛。手臂上一對名為「Wing Span」的部件足以令它飛行一段時間，內藏的高速機砲使它擅長打游擊戰和進行支援。
 
 ### 第13都市部隊以外的機體
 
@@ -309,20 +302,17 @@ Expo公布作品消息](../Page/Anime_Expo.md "wikilink")\[2\]，於2018年1月1
   - 美術監督：平柳悟
   - 色彩設計：中島和子
   - 3D總監：釣井省吾、雲藤隆太
-  - 3DCG：[Khara](../Page/Khara.md "wikilink")、[A-1
-    Pictures](../Page/A-1_Pictures.md "wikilink")
+  - 3DCG：[Khara](../Page/Khara.md "wikilink")、[A-1 Pictures](../Page/A-1_Pictures.md "wikilink")
   - Monitor Graphics：座間香代子
   - 攝影監督：佐久間悠也
   - 音樂：橘麻美
   - 音響監督：秦昌二
   - 編集：三嶋章紀
-  - 動畫製作：[TRIGGER](../Page/TRIGGER.md "wikilink")、[CloverWorks](../Page/CloverWorks.md "wikilink")（A-1
-    Pictures高圓寺工作室）
+  - 動畫製作：[TRIGGER](../Page/TRIGGER.md "wikilink")、[CloverWorks](../Page/CloverWorks.md "wikilink")（A-1 Pictures高圓寺工作室）
 
 ### 主題曲
 
-  - 片頭曲《[KISS OF DEATH (Produced by
-    HYDE)](../Page/KISS_OF_DEATH_\(Produced_by_HYDE\).md "wikilink")》（第2話－第5話、第7話－第12話、第14話－第20話、第22話－第23話）
+  - 片頭曲《[KISS OF DEATH (Produced by HYDE)](../Page/KISS_OF_DEATH_\(Produced_by_HYDE\).md "wikilink")》（第2話－第5話、第7話－第12話、第14話－第20話、第22話－第23話）
     作詞、作曲：[HYDE](https://zh.wikipedia.org/wiki/HYDE "wikilink")，編曲：HYDE、，主唱：[中島美嘉](../Page/中島美嘉.md "wikilink")
     第15話做為片尾曲使用。
     第15話前使用歌詞第一段，第16話起使用歌詞第二段。
@@ -632,8 +622,7 @@ Expo公布作品消息](../Page/Anime_Expo.md "wikilink")\[2\]，於2018年1月1
 
 ### 播放電視台
 
-2018年2月3日，[爱奇艺动漫](../Page/爱奇艺.md "wikilink")（非爱奇艺台湾站）在微博发表声明称，由于不可抗力，将《DARLING
-in the FRANXX》暂时下线。\[24\]雖已于2月13日重新上线，但对影片进行了部分删减。\[25\]
+2018年2月3日，[爱奇艺](../Page/爱奇艺.md "wikilink")动漫（非爱奇艺台湾站）在微博发表声明称，由于不可抗力，将《DARLING in the FRANXX》暂时下线。\[24\]雖已于2月13日重新上线，但对影片进行了部分删减。\[25\]
 
 ### BD\&DVD
 
@@ -717,7 +706,7 @@ in the FRANXX》暂时下线。\[24\]雖已于2月13日重新上线，但对影�
 
 ## 漫畫版
 
-由[矢吹健太朗負責作畫](../Page/矢吹健太朗.md "wikilink")，2018年1月14日開始在[集英社的網路漫畫連載平台少年JUMP](../Page/集英社.md "wikilink")+上進行連載\[27\]。
+由[矢吹健太朗](../Page/矢吹健太朗.md "wikilink")負責作畫，2018年1月14日開始在[集英社](../Page/集英社.md "wikilink")的網路漫畫連載平台少年JUMP+上進行連載\[27\]。
 
 <table>
 <thead>
@@ -754,8 +743,7 @@ in the FRANXX》暂时下线。\[24\]雖已于2月13日重新上线，但对影�
 </tbody>
 </table>
 
-《DARLING in the
-FRANXX！》由mato繪製的四格漫畫，於2018年1月14日開始在少年JUMP+連載，每周日、周一、周二配信。
+《DARLING in the FRANXX！》由mato繪製的四格漫畫，於2018年1月14日開始在少年JUMP+連載，每周日、周一、周二配信。
 
 <table>
 <thead>
@@ -785,20 +773,12 @@ FRANXX！》由mato繪製的四格漫畫，於2018年1月14日開始在少年JUM
 
   - [電視動畫《DARLING in the FRANXX》官方網站](http://darli-fra.jp/)
 
-  - [網路漫畫「DARLING in the
-    FRANXX」第一話](https://shonenjumpplus.com/episode/13932016480029291902)
+  - [網路漫畫「DARLING in the FRANXX」第一話](https://shonenjumpplus.com/episode/13932016480029291902)
 
   - [網路漫畫「だーりん·いん·ざ·ふらんきす\!」第一話](https://shonenjumpplus.com/episode/13932016480029291377)
 
   -
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
-[Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink")
-[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
-[Category:少年Jump+](https://zh.wikipedia.org/wiki/Category:少年Jump+ "wikilink")
-[Category:怪物題材作品](https://zh.wikipedia.org/wiki/Category:怪物題材作品 "wikilink")
-[Category:末日題材作品](https://zh.wikipedia.org/wiki/Category:末日題材作品 "wikilink")
-[Category:愛奇藝外購動畫](https://zh.wikipedia.org/wiki/Category:愛奇藝外購動畫 "wikilink")
+[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink") [Category:少年Jump+](https://zh.wikipedia.org/wiki/Category:少年Jump+ "wikilink") [Category:怪物題材作品](https://zh.wikipedia.org/wiki/Category:怪物題材作品 "wikilink") [Category:末日題材作品](https://zh.wikipedia.org/wiki/Category:末日題材作品 "wikilink") [Category:愛奇藝外購動畫](https://zh.wikipedia.org/wiki/Category:愛奇藝外購動畫 "wikilink")
 
 1.
 

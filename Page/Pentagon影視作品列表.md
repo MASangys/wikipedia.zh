@@ -110,75 +110,480 @@
 
 ### 綜藝節目
 
-|                  |                          |                                                                       |                   |                                                                                                                                                |
-| ---------------- | ------------------------ | --------------------------------------------------------------------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 日期               | 電視台/ 網絡頻道                | 節目名稱                                                                  | 參與成員              | 備註                                                                                                                                             |
-| 2013年            |                          |                                                                       |                   |                                                                                                                                                |
-| 5月26日、6月15日      | 東方衛視                     | [中國夢之聲 (第一季)](https://zh.wikipedia.org/wiki/中國夢之聲_\(第一季\) "wikilink") | Hui               | 出道前                                                                                                                                            |
-| 2014年            |                          |                                                                       |                   |                                                                                                                                                |
-| 1月2日             | Mnet                     | Rain Effect                                                           | Hui、E'、Kino       | 出道前                                                                                                                                            |
-| 9月11日－11月6日      | Mnet                     | [MIX & MATCH](../Page/MIX_&_MATCH.md "wikilink")                      | 洪碩                | 出道前                                                                                                                                            |
-| 2016年            |                          |                                                                       |                   |                                                                                                                                                |
-| 8月21日            | Al Arabiya TV            | Kpop Interview                                                        |                   | \[23\]                                                                                                                                         |
-| 10月18日           | Arirang TV               | [After School Club](../Page/After_School_Club.md "wikilink")          |                   | \[24\]                                                                                                                                         |
-| 10月27日           | Arirang TV               | Pop in Seoul                                                          |                   | \[25\]                                                                                                                                         |
-| 11月7日            | Mwave                    | MEET & GREET                                                          |                   | \[26\]                                                                                                                                         |
-| 11月15日           | iMBC & Heyo TV           | 朴素賢的偶像TV                                                              |                   | \[27\]                                                                                                                                         |
-| 11月21日           | MTV                      | 我愛偶像 Idols of Asia                                                    |                   | \[28\]                                                                                                                                         |
-| 11月25日           | KSTYLE TV                | The Immigration                                                       |                   | \[29\]                                                                                                                                         |
-| 12月20日           | Arirang TV               | [After School Club](../Page/After_School_Club.md "wikilink")          |                   | \[30\]                                                                                                                                         |
-| 2017年            |                          |                                                                       |                   |                                                                                                                                                |
-| 2月1日             | MBC every1               | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                      |                   | \[31\]                                                                                                                                         |
-| 2月12日            | Sky TV Drama             | Juke Bus                                                              | 珍虎                | \[32\]                                                                                                                                         |
-| 3月28日            | freshlive.tv             | K-POP LOVERS\! TV                                                     |                   | \[33\]                                                                                                                                         |
-| 4月5日、5月31日、6月14日 | MBC every1               | [Weekly Idol](../Page/Weekly_Idol.md "wikilink") 蒙面偶像                 | 洪碩                | 銀河系喉結美男 \[34\] \[35\]                                                                                                                          |
-| 5月3日             | MTV                      | 我愛偶像 Idols of Asia                                                    |                   | \[36\]                                                                                                                                         |
-| 5月4日             | KStar TV                 | 找新品的人                                                                 | 洪碩                | \[37\]                                                                                                                                         |
-| 5月8日、5月15日       | Arirang TV               | Tour Avatar                                                           | 珍虎 洪碩             | \[38\] \[39\]                                                                                                                                  |
-| 6月29日            | Celuv TV                 | I'm Celuv                                                             |                   | \[40\]                                                                                                                                         |
-| 7月4日             | Arirang TV               | [After School Club](../Page/After_School_Club.md "wikilink")          |                   | \[41\]                                                                                                                                         |
-| 7月4日－            | iMBC                     | Nimdle                                                                |                   | \[42\]                                                                                                                                         |
-| 8月21日            | Naver VLive StyLive      | Yolo Live                                                             | 洪碩、Yeo One        | \[43\]                                                                                                                                         |
-| 9月9日             | MBC Music                | Idol Tour                                                             | Hui、洪碩            | \[44\]                                                                                                                                         |
-| 9月26日            | Mwave                    | MEET & GREET                                                          |                   | \[45\]                                                                                                                                         |
-| 10月7日－8日         | KBS                      | [鍵盤上的鬣狗](https://zh.wikipedia.org/wiki/鍵盤上的鬣狗 "wikilink")             | Hui Kino          | 中秋節目 \[46\]                                                                                                                                    |
-| 10月8日            | KBS                      | [明星金鐘](../Page/明星金鐘.md "wikilink")                                    |                   | \[47\]                                                                                                                                         |
-| 10月22日、29日       | SBS                      | [Fantastic Duo 2](../Page/Fantastic_Duo_2.md "wikilink")              | 珍虎 Hui 洪碩         | \[48\]                                                                                                                                         |
-| 10月31日           | JTBC                     | 配送美食會                                                                 | 珍虎 Hui 洪碩 信源      | \[49\]                                                                                                                                         |
-| 11月5日            | KBS World & BS-TBS       | ようこそ！美しい韓国 江原道へ                                                       | Yuto              | \[50\]                                                                                                                                         |
-| 11月15日－1月3日      | Olive TV                 | [吃貨48小時](../Page/吃貨48小時.md "wikilink")                                | Hui               | \[51\]                                                                                                                                         |
-| 12月11日           | Naver VLive V COOKIE     | Happiness Train                                                       | A 宿舍              | \[52\]                                                                                                                                         |
-| 12月28日           | 一直播                      | 愛我請舉手                                                                 |                   | \[53\]                                                                                                                                         |
-| 12月22日           | REDE BRASIL              | Documentary Eu Vivo K-Pop                                             |                   | \[54\]                                                                                                                                         |
-| 2018年            |                          |                                                                       |                   |                                                                                                                                                |
-| 1月12日            | freshlive.tv             | PENTAGONがやってきた！                                                       |                   | \[55\]                                                                                                                                         |
-| 1月12日            | KBS                      | Entertainment Weekly                                                  | 洪碩                | \[56\]                                                                                                                                         |
-| 1月26日            | Comedy TV                | 炸雞之王                                                                  | Yeo One 禹奭        | <ref>{{cite web|url=[https://www.instagram.com/p/BdRi_ufgPe6/|title=치킨의제왕에](https://www.instagram.com/p/BdRi_ufgPe6/%7Ctitle=치킨의제왕에) 타고니들 오셨다 |
-| 2月18日、25日        | MBC                      | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                        | Hui               | 鶴少年 \[57\]                                                                                                                                     |
-| 3月2日 - 5月11日     | Arirang                  | [Simply K-Pop](https://zh.wikipedia.org/wiki/Simply_K-Pop "wikilink") | 洪碩                | Special MC EP 301 - 311                                                                                                                        |
-| 3月9日             | KBS                      | [鍵盤上的鬣狗](https://zh.wikipedia.org/wiki/鍵盤上的鬣狗 "wikilink")             | Hui Kino          |                                                                                                                                                |
-| 4月3日             | TBS                      | Fact in Star                                                          |                   |                                                                                                                                                |
-| 4月3日             | Naver VLive V COOKIE     | Lie V                                                                 |                   |                                                                                                                                                |
-| 4月6日 - 4月13日     | tvN Digital              | gamebar2                                                              |                   |                                                                                                                                                |
-| 4月10日            | Arirang TV               | [After School Club](../Page/After_School_Club.md "wikilink")          |                   |                                                                                                                                                |
-| 4月20日            | Naver VLive MOMOX        | 突襲高中 지각방지 라이브                                                         |                   | EP.3                                                                                                                                           |
-| 4月23日            | Naver VLive CASPER RADIO | 옥상달빛의 옥탑라됴                                                            |                   | \#49                                                                                                                                           |
-| 5月4日             | Celuv TV                 | I'm Celuv                                                             |                   |                                                                                                                                                |
-| 5月4日－6月8日        | Mnet                     | [BREAKERS](../Page/BREAKERS.md "wikilink")                            | Hui               |                                                                                                                                                |
-| 6月 9日            | JTBC                     | [Idol Room](../Page/Idol_Room.md "wikilink")                          |                   |                                                                                                                                                |
-| 6月21日 - 7月19日    | JTBC                     | Hit Man 히트맨                                                           | 洪碩                | EP 6 - 10                                                                                                                                      |
-| 6月26日 - 7月30日    | Naver VLive              | Please Stream 스트리밍                                                    | Hui               |                                                                                                                                                |
-| 7月12日 -          | 騰訊視頻                     | 潮音戰記（原 作戰吧偶像）                                                         | 閆桉                |                                                                                                                                                |
-| 8月15日            | tvN                      | 不知不覺變大人 어쩌다 어른                                                        | 洪碩 Yeo One        | 嘉賓觀眾                                                                                                                                           |
-| 8月30日            | KBS World                | Kクリック                                                                 |                   |                                                                                                                                                |
-| 9月10日            | Naver VLive              | PENTAGON X EATING SHOW Season 2                                       |                   |                                                                                                                                                |
-| 9月28日、10月5日      | Naver VLive MOMOX        | MOMOX 紀錄片 追求真實的Artist                                                 | Kino              |                                                                                                                                                |
-| 10月6日、10月13日     | KBS2                     | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")                      |                   |                                                                                                                                                |
-| 10月12日           | KBS World                | K-Rush Idol Show                                                      |                   |                                                                                                                                                |
-| 10月22日           | Mwave                    | MEET & GREET                                                          |                   |                                                                                                                                                |
-| 11月10日 - 11月17日  | KBS                      | [戰鬥旅行](../Page/戰鬥旅行.md "wikilink")                                    | Hui 洪碩 Yeo One 信源 | 試吃嘉賓                                                                                                                                           |
-| 11月29日           | tvN                      | 不知不覺變大人 어쩌다 어른                                                        | Yeo One           | 嘉賓觀眾                                                                                                                                           |
-|                  |                          |                                                                       |                   |                                                                                                                                                |
+<table>
+<tbody>
+<tr class="odd">
+<td><p>日期</p></td>
+<td><p>電視台/ 網絡頻道</p></td>
+<td><p>節目名稱</p></td>
+<td><p>參與成員</p></td>
+<td><p>備註</p></td>
+</tr>
+<tr class="even">
+<td><p>2013年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5月26日、6月15日</p></td>
+<td><p>東方衛視</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中國夢之聲_(第一季)" title="wikilink">中國夢之聲 (第一季)</a></p></td>
+<td><p>Hui</p></td>
+<td><p>出道前</p></td>
+</tr>
+<tr class="even">
+<td><p>2014年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1月2日</p></td>
+<td><p>Mnet</p></td>
+<td><p>Rain Effect</p></td>
+<td><p>Hui、E'、Kino</p></td>
+<td><p>出道前</p></td>
+</tr>
+<tr class="even">
+<td><p>9月11日－11月6日</p></td>
+<td><p>Mnet</p></td>
+<td><p><a href="../Page/MIX_&amp;_MATCH.md" title="wikilink">MIX &amp; MATCH</a></p></td>
+<td><p>洪碩</p></td>
+<td><p>出道前</p></td>
+</tr>
+<tr class="odd">
+<td><p>2016年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8月21日</p></td>
+<td><p>Al Arabiya TV</p></td>
+<td><p>Kpop Interview</p></td>
+<td></td>
+<td><p>[23]</p></td>
+</tr>
+<tr class="odd">
+<td><p>10月18日</p></td>
+<td><p>Arirang TV</p></td>
+<td><p><a href="../Page/After_School_Club.md" title="wikilink">After School Club</a></p></td>
+<td></td>
+<td><p>[24]</p></td>
+</tr>
+<tr class="even">
+<td><p>10月27日</p></td>
+<td><p>Arirang TV</p></td>
+<td><p>Pop in Seoul</p></td>
+<td></td>
+<td><p>[25]</p></td>
+</tr>
+<tr class="odd">
+<td><p>11月7日</p></td>
+<td><p>Mwave</p></td>
+<td><p>MEET &amp; GREET</p></td>
+<td></td>
+<td><p>[26]</p></td>
+</tr>
+<tr class="even">
+<td><p>11月15日</p></td>
+<td><p>iMBC &amp; Heyo TV</p></td>
+<td><p>朴素賢的偶像TV</p></td>
+<td></td>
+<td><p>[27]</p></td>
+</tr>
+<tr class="odd">
+<td><p>11月21日</p></td>
+<td><p>MTV</p></td>
+<td><p>我愛偶像 Idols of Asia</p></td>
+<td></td>
+<td><p>[28]</p></td>
+</tr>
+<tr class="even">
+<td><p>11月25日</p></td>
+<td><p>KSTYLE TV</p></td>
+<td><p>The Immigration</p></td>
+<td></td>
+<td><p>[29]</p></td>
+</tr>
+<tr class="odd">
+<td><p>12月20日</p></td>
+<td><p>Arirang TV</p></td>
+<td><p><a href="../Page/After_School_Club.md" title="wikilink">After School Club</a></p></td>
+<td></td>
+<td><p>[30]</p></td>
+</tr>
+<tr class="even">
+<td><p>2017年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2月1日</p></td>
+<td><p>MBC every1</p></td>
+<td><p><a href="../Page/Weekly_Idol.md" title="wikilink">Weekly Idol</a></p></td>
+<td></td>
+<td><p>[31]</p></td>
+</tr>
+<tr class="even">
+<td><p>2月12日</p></td>
+<td><p>Sky TV Drama</p></td>
+<td><p>Juke Bus</p></td>
+<td><p>珍虎</p></td>
+<td><p>[32]</p></td>
+</tr>
+<tr class="odd">
+<td><p>3月28日</p></td>
+<td><p>freshlive.tv</p></td>
+<td><p>K-POP LOVERS! TV</p></td>
+<td></td>
+<td><p>[33]</p></td>
+</tr>
+<tr class="even">
+<td><p>4月5日、5月31日、6月14日</p></td>
+<td><p>MBC every1</p></td>
+<td><p><a href="../Page/Weekly_Idol.md" title="wikilink">Weekly Idol</a> 蒙面偶像</p></td>
+<td><p>洪碩</p></td>
+<td><p>銀河系喉結美男 [34] [35]</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月3日</p></td>
+<td><p>MTV</p></td>
+<td><p>我愛偶像 Idols of Asia</p></td>
+<td></td>
+<td><p>[36]</p></td>
+</tr>
+<tr class="even">
+<td><p>5月4日</p></td>
+<td><p>KStar TV</p></td>
+<td><p>找新品的人</p></td>
+<td><p>洪碩</p></td>
+<td><p>[37]</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月8日、5月15日</p></td>
+<td><p>Arirang TV</p></td>
+<td><p>Tour Avatar</p></td>
+<td><p>珍虎 洪碩</p></td>
+<td><p>[38] [39]</p></td>
+</tr>
+<tr class="even">
+<td><p>6月29日</p></td>
+<td><p>Celuv TV</p></td>
+<td><p>I'm Celuv</p></td>
+<td></td>
+<td><p>[40]</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月4日</p></td>
+<td><p>Arirang TV</p></td>
+<td><p><a href="../Page/After_School_Club.md" title="wikilink">After School Club</a></p></td>
+<td></td>
+<td><p>[41]</p></td>
+</tr>
+<tr class="even">
+<td><p>7月4日－</p></td>
+<td><p>iMBC</p></td>
+<td><p>Nimdle</p></td>
+<td></td>
+<td><p>[42]</p></td>
+</tr>
+<tr class="odd">
+<td><p>8月21日</p></td>
+<td><p>Naver</p>
+<p><code>VLive StyLive</code></p></td>
+<td><p>Yolo Live</p></td>
+<td><p>洪碩、Yeo One</p></td>
+<td><p>[43]</p></td>
+</tr>
+<tr class="even">
+<td><p>9月9日</p></td>
+<td><p>MBC Music</p></td>
+<td><p>Idol Tour</p></td>
+<td><p>Hui、洪碩</p></td>
+<td><p>[44]</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月26日</p></td>
+<td><p>Mwave</p></td>
+<td><p>MEET &amp; GREET</p></td>
+<td></td>
+<td><p>[45]</p></td>
+</tr>
+<tr class="even">
+<td><p>10月7日－8日</p></td>
+<td><p>KBS</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鍵盤上的鬣狗" title="wikilink">鍵盤上的鬣狗</a></p></td>
+<td><p>Hui Kino</p></td>
+<td><p>中秋節目 [46]</p></td>
+</tr>
+<tr class="odd">
+<td><p>10月8日</p></td>
+<td><p>KBS</p></td>
+<td><p><a href="../Page/明星金鐘.md" title="wikilink">明星金鐘</a></p></td>
+<td></td>
+<td><p>[47]</p></td>
+</tr>
+<tr class="even">
+<td><p>10月22日、29日</p></td>
+<td><p>SBS</p></td>
+<td><p><a href="../Page/Fantastic_Duo_2.md" title="wikilink">Fantastic Duo 2</a></p></td>
+<td><p>珍虎 Hui 洪碩</p></td>
+<td><p>[48]</p></td>
+</tr>
+<tr class="odd">
+<td><p>10月31日</p></td>
+<td><p>JTBC</p></td>
+<td><p>配送美食會</p></td>
+<td><p>珍虎 Hui 洪碩 信源</p></td>
+<td><p>[49]</p></td>
+</tr>
+<tr class="even">
+<td><p>11月5日</p></td>
+<td><p>KBS World &amp; BS-TBS</p></td>
+<td><p>ようこそ！美しい韓国 江原道へ</p></td>
+<td><p>Yuto</p></td>
+<td><p>[50]</p></td>
+</tr>
+<tr class="odd">
+<td><p>11月15日－1月3日</p></td>
+<td><p>Olive TV</p></td>
+<td><p><a href="../Page/吃貨48小時.md" title="wikilink">吃貨48小時</a></p></td>
+<td><p>Hui</p></td>
+<td><p>[51]</p></td>
+</tr>
+<tr class="even">
+<td><p>12月11日</p></td>
+<td><p>Naver VLive V COOKIE</p></td>
+<td><p>Happiness Train</p></td>
+<td><p>A 宿舍</p></td>
+<td><p>[52]</p></td>
+</tr>
+<tr class="odd">
+<td><p>12月28日</p></td>
+<td><p>一直播</p></td>
+<td><p>愛我請舉手</p></td>
+<td></td>
+<td><p>[53]</p></td>
+</tr>
+<tr class="even">
+<td><p>12月22日</p></td>
+<td><p>REDE BRASIL</p></td>
+<td><p>Documentary Eu Vivo K-Pop</p></td>
+<td></td>
+<td><p>[54]</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1月12日</p></td>
+<td><p>freshlive.tv</p></td>
+<td><p>PENTAGONがやってきた！</p></td>
+<td></td>
+<td><p>[55]</p></td>
+</tr>
+<tr class="odd">
+<td><p>1月12日</p></td>
+<td><p>KBS</p></td>
+<td><p>Entertainment Weekly</p></td>
+<td><p>洪碩</p></td>
+<td><p>[56]</p></td>
+</tr>
+<tr class="even">
+<td><p>1月26日</p></td>
+<td><p>Comedy TV</p></td>
+<td><p>炸雞之王</p></td>
+<td><p>Yeo One 禹奭</p></td>
+<td><p><ref>{{cite web|url=<a href="https://www.instagram.com/p/BdRi_ufgPe6/%7Ctitle=치킨의제왕에">https://www.instagram.com/p/BdRi_ufgPe6/|title=치킨의제왕에</a> 타고니들 오셨다</p></td>
+</tr>
+<tr class="odd">
+<td><p>2月18日、25日</p></td>
+<td><p>MBC</p></td>
+<td><p><a href="../Page/神秘音樂秀：蒙面歌王.md" title="wikilink">神秘音樂秀：蒙面歌王</a></p></td>
+<td><p>Hui</p></td>
+<td><p>鶴少年 [57]</p></td>
+</tr>
+<tr class="even">
+<td><p>3月2日 - 5月11日</p></td>
+<td><p>Arirang</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Simply_K-Pop" title="wikilink">Simply K-Pop</a></p></td>
+<td><p>洪碩</p></td>
+<td><p>Special MC EP 301 - 311</p></td>
+</tr>
+<tr class="odd">
+<td><p>3月9日</p></td>
+<td><p>KBS</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鍵盤上的鬣狗" title="wikilink">鍵盤上的鬣狗</a></p></td>
+<td><p>Hui Kino</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4月3日</p></td>
+<td><p>TBS</p></td>
+<td><p>Fact in Star</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4月3日</p></td>
+<td><p>Naver VLive V COOKIE</p></td>
+<td><p>Lie V</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4月6日 - 4月13日</p></td>
+<td><p>tvN Digital</p></td>
+<td><p>gamebar2</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4月10日</p></td>
+<td><p>Arirang TV</p></td>
+<td><p><a href="../Page/After_School_Club.md" title="wikilink">After School Club</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4月20日</p></td>
+<td><p>Naver VLive MOMOX</p></td>
+<td><p>突襲高中 지각방지 라이브</p></td>
+<td></td>
+<td><p>EP.3</p></td>
+</tr>
+<tr class="odd">
+<td><p>4月23日</p></td>
+<td><p>Naver VLive CASPER RADIO</p></td>
+<td><p>옥상달빛의 옥탑라됴</p></td>
+<td></td>
+<td><p>#49</p></td>
+</tr>
+<tr class="even">
+<td><p>5月4日</p></td>
+<td><p>Celuv TV</p></td>
+<td><p>I'm Celuv</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5月4日－6月8日</p></td>
+<td><p>Mnet</p></td>
+<td><p><a href="../Page/BREAKERS.md" title="wikilink">BREAKERS</a></p></td>
+<td><p>Hui</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6月 9日</p></td>
+<td><p>JTBC</p></td>
+<td><p><a href="../Page/Idol_Room.md" title="wikilink">Idol Room</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6月21日 - 7月19日</p></td>
+<td><p>JTBC</p></td>
+<td><p>Hit Man 히트맨</p></td>
+<td><p>洪碩</p></td>
+<td><p>EP 6 - 10</p></td>
+</tr>
+<tr class="even">
+<td><p>6月26日 - 7月30日</p></td>
+<td><p>Naver VLive</p></td>
+<td><p>Please Stream 스트리밍</p></td>
+<td><p>Hui</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月12日 -</p></td>
+<td><p>騰訊視頻</p></td>
+<td><p>潮音戰記（原 作戰吧偶像）</p></td>
+<td><p>閆桉</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8月15日</p></td>
+<td><p>tvN</p></td>
+<td><p>不知不覺變大人 어쩌다 어른</p></td>
+<td><p>洪碩 Yeo One</p></td>
+<td><p>嘉賓觀眾</p></td>
+</tr>
+<tr class="odd">
+<td><p>8月30日</p></td>
+<td><p>KBS World</p></td>
+<td><p>Kクリック</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>9月10日</p></td>
+<td><p>Naver VLive</p></td>
+<td><p>PENTAGON X EATING SHOW Season 2</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9月28日、10月5日</p></td>
+<td><p>Naver VLive MOMOX</p></td>
+<td><p>MOMOX 紀錄片 追求真實的Artist</p></td>
+<td><p>Kino</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10月6日、10月13日</p></td>
+<td><p>KBS2</p></td>
+<td><p><a href="../Page/不朽的名曲：傳說在歌唱.md" title="wikilink">不朽的名曲：傳說在歌唱</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10月12日</p></td>
+<td><p>KBS World</p></td>
+<td><p>K-Rush Idol Show</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10月22日</p></td>
+<td><p>Mwave</p></td>
+<td><p>MEET &amp; GREET</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11月10日 - 11月17日</p></td>
+<td><p>KBS</p></td>
+<td><p><a href="../Page/戰鬥旅行.md" title="wikilink">戰鬥旅行</a></p></td>
+<td><p>Hui 洪碩 Yeo One 信源</p></td>
+<td><p>試吃嘉賓</p></td>
+</tr>
+<tr class="even">
+<td><p>11月29日</p></td>
+<td><p>tvN</p></td>
+<td><p>不知不覺變大人 어쩌다 어른</p></td>
+<td><p>Yeo One</p></td>
+<td><p>嘉賓觀眾</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 |                  |                                    |                                                                                |            |         |
 | ---------------- | ---------------------------------- | ------------------------------------------------------------------------------ | ---------- | ------- |
@@ -205,9 +610,13 @@
 | 6月5日             | ARIRANG                            | Showbiz Korea                                                                  | 洪碩 Yeo One |         |
 | 6月22日            | SBS                                | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")                               |            |         |
 | 6月24、25日、7月26日   | Ole TV Mobile                      | 밀실의아이들 Secret Room's Kids                                                      | 信源         |         |
-| 7月12日            | [浙江卫视](../Page/浙江卫视.md "wikilink") | [奔跑吧第三季](../Page/奔跑吧.md "wikilink")                                            | 闫桉         |         |
+| 7月12日            | [浙江卫视](../Page/浙江卫视.md "wikilink") | [奔跑吧](../Page/奔跑吧.md "wikilink")第三季                                            | 闫桉         |         |
+| 7月17日            | MBC every1                         | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                               |            |         |
+| 7月17日            | Naver VLive                        | Rooftop Live                                                                   |            |         |
 | 7月19日            | JTBC                               | Run.wav                                                                        |            |         |
+| 7月19日            | Mnet                               | [PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")                           | Hui        |         |
 | 7月20日            | KBS                                | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")                        | 洪碩         |         |
+| 7月26日            | Olleh TV                           | 밀실의 아이들 (Secret Room of Children)                                              | 信源         |         |
 
 ## 電台節目
 
@@ -330,22 +739,18 @@
 | Haru Hana                                    | Vol. 59    |         |             |
 | Marie Claire Korea                           | June 2019  |         |             |
 | Men’s Health Korea                           | July 2019  | 洪碩      |             |
+| 1ST Look                                     | Aug 2019   |         |             |
+| Dazed Korea                                  | Aug 2019   |         |             |
 
 ## 參考資料
 
-[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink")
-[Category:PENTAGON](https://zh.wikipedia.org/wiki/Category:PENTAGON "wikilink")
-[Category:作品列表](https://zh.wikipedia.org/wiki/Category:作品列表 "wikilink")
+[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink") [Category:PENTAGON](https://zh.wikipedia.org/wiki/Category:PENTAGON "wikilink") [Category:作品列表](https://zh.wikipedia.org/wiki/Category:作品列表 "wikilink")
 
-1.  [男團PENTAGON成員YEO
-    ONE出演網路劇Spark預告公開](http://www.koreastardaily.com/tc/news/81362)
-    2016-07-17
+1.  [男團PENTAGON成員YEO ONE出演網路劇Spark預告公開](http://www.koreastardaily.com/tc/news/81362) 2016-07-17
 
-2.  [PENTAGON友情出演青春時代2](http://entertain.naver.com/read?oid=076&aid=0003136421)
-    2017-08-13
+2.  [PENTAGON友情出演青春時代2](http://entertain.naver.com/read?oid=076&aid=0003136421) 2017-08-13
 
-3.  [Naver 電影 My Last
-    Love](http://movie.naver.com/movie/bi/mi/basic.nhn?code=164108)2017-11-02
+3.  [Naver 電影 My Last Love](http://movie.naver.com/movie/bi/mi/basic.nhn?code=164108)2017-11-02
 
 4.
 
@@ -408,8 +813,7 @@
 
 34.
 
-35. [一周偶像蒙面偶像環節
-    粉絲目前猜率百分百準確啊](http://www.koreastardaily.com/tc/news/93459)2017-04-14
+35. [一周偶像蒙面偶像環節 粉絲目前猜率百分百準確啊](http://www.koreastardaily.com/tc/news/93459)2017-04-14
 
 36.
 
@@ -447,9 +851,7 @@
 
 53.
 
-54. [Veja os bastidores da gravação em 360 graus do grupo PENTAGON NA
-    EMPRESA
-    CUBE](https://www.facebook.com/EuVivoKpop/videos/321133445036702)
+54. [Veja os bastidores da gravação em 360 graus do grupo PENTAGON NA EMPRESA CUBE](https://www.facebook.com/EuVivoKpop/videos/321133445036702)
 
 55.
 
@@ -471,8 +873,7 @@
 
 64.
 
-65. [170107 박소현의
-    러브게임](http://wizard2.sbs.co.kr/w3/template/tpl_iframetype.jsp?vVodId=V0000336099&vProgId=1000493&vMenuId=1009610)
+65. [170107 박소현의 러브게임](http://wizard2.sbs.co.kr/w3/template/tpl_iframetype.jsp?vVodId=V0000336099&vProgId=1000493&vMenuId=1009610)
 
 66.
 
@@ -510,22 +911,15 @@
 
 83.
 
-84. [I.O.I代言校服品牌
-    朝氣蓬勃清新靚麗](http://www.allthatstar.com/tw/view.php?action=26298&postID=268199)
-     2016-08-19
+84. [I.O.I代言校服品牌 朝氣蓬勃清新靚麗](http://www.allthatstar.com/tw/view.php?action=26298&postID=268199)  2016-08-19
 
 85. [D'Live Promotion Model](http://tv.naver.com/v/1501576) 2016-12-07
 
-86. [엘리트학생복, 하복 시즌 이벤트 진행…아이오아이 사인 파일케이스
-    등](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=417&aid=0000237060)
-    2017-3-10
+86. [엘리트학생복, 하복 시즌 이벤트 진행…아이오아이 사인 파일케이스 등](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=417&aid=0000237060) 2017-3-10
 
-87. [D'Live Promotion
-    Model](https://www.youtube.com/watch?v=T1vTTCpgzIk) 2017-09-27
+87. [D'Live Promotion Model](https://www.youtube.com/watch?v=T1vTTCpgzIk) 2017-09-27
 
-88. [멤버 전원이 창작자…펜타곤, 한국 저작권보호원 홍보대사
-    위촉](http://entertain.naver.com/read?oid=311&aid=0000779289)
-    2017-09-28
+88. [멤버 전원이 창작자…펜타곤, 한국 저작권보호원 홍보대사 위촉](http://entertain.naver.com/read?oid=311&aid=0000779289) 2017-09-28
 
 89.
 

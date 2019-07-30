@@ -1,10 +1,8 @@
-《**Apink 1ST CONCERT "PINK
-PARADISE"**》是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Apink的首次韓國暨亞洲巡回](../Page/Apink.md "wikilink")[演唱会](https://zh.wikipedia.org/wiki/演唱会 "wikilink")。\[1\]
+《**Apink 1ST CONCERT "PINK PARADISE"**》是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Apink](../Page/Apink.md "wikilink")的首次韓國暨亞洲巡回[演唱会](https://zh.wikipedia.org/wiki/演唱会 "wikilink")。\[1\]
 
 ## 概述
 
-2014年12月，Apink憑迷你5輯《[Pink
-LUV](../Page/Pink_LUV.md "wikilink")》的主打歌《》包攬韓國音樂節目悉數共15次音樂榜單的1位\[2\]，打榜期間共計17次1位，為答謝歌迷，決定在韓國舉辦首次單獨演唱會。12月23日，演唱會門票在及[InterPark網站開賣](https://zh.wikipedia.org/wiki/InterPark "wikilink")，共7,200張門票於2分鐘內售罄。\[3\]
+2014年12月，Apink憑迷你5輯《[Pink LUV](../Page/Pink_LUV.md "wikilink")》的主打歌《》包攬韓國音樂節目悉數共15次音樂榜單的1位\[2\]，打榜期間共計17次1位，為答謝歌迷，決定在韓國舉辦首次單獨演唱會。12月23日，演唱會門票在及[InterPark網站開賣](https://zh.wikipedia.org/wiki/InterPark "wikilink")，共7,200張門票於2分鐘內售罄。\[3\]
 
 2015年1月30及31日，演唱會於[奧林匹克公園奧林匹克館內舉行](../Page/奧林匹克公園_\(首爾\).md "wikilink")。\[4\]其後亞洲巡演相繼展開。
 
@@ -71,8 +69,7 @@ LUV](../Page/Pink_LUV.md "wikilink")》的主打歌《》包攬韓國音樂節�
 
   - －朴初瓏（原唱：[-{zh-hans:克里斯·布朗;zh-hant:克里斯小子}-](../Page/克里斯·布朗.md "wikilink")）
 
-  - [因為從有到無](../Page/因為從有到無.md "wikilink")
-    ()－孫娜恩、吳夏榮（原唱：[SISTAR19](../Page/SISTAR19.md "wikilink")）
+  - [因為從有到無](../Page/因為從有到無.md "wikilink") ()－孫娜恩、吳夏榮（原唱：[SISTAR19](../Page/SISTAR19.md "wikilink")）
 
   - [Dirrty](https://zh.wikipedia.org/wiki/裸_\(克莉絲汀·阿奎萊拉專輯\) "wikilink")－金南珠（原唱：[-{zh-hans:克里斯蒂娜·阿奎莱拉;zh-hant:克莉絲汀·阿奎萊拉}-](../Page/克莉絲汀·阿奎萊拉.md "wikilink")）
 
@@ -129,8 +126,7 @@ LUV](../Page/Pink_LUV.md "wikilink")》的主打歌《》包攬韓國音樂節�
 ## 製作
 
   - 演出：[Apink](../Page/Apink.md "wikilink")（[朴初瓏](../Page/朴初瓏.md "wikilink")、[尹普美](../Page/尹普美.md "wikilink")、[鄭恩地](../Page/鄭恩地.md "wikilink")、[孫娜恩](../Page/孫娜恩.md "wikilink")、[金南珠](../Page/金南珠_\(歌手\).md "wikilink")、[吳夏榮](../Page/吳夏榮.md "wikilink")）
-  - 主辦：[A Cube娛樂](../Page/Plan_A娛樂.md "wikilink")、[Hakuna
-    Matata株式會社](http://hakuna.co.kr)\[7\]
+  - 主辦：[A Cube娛樂](../Page/Plan_A娛樂.md "wikilink")、[Hakuna Matata株式會社](http://hakuna.co.kr)\[7\]
   - 製作：Hakuna Matata株式會社
 
 <!-- end list -->
@@ -147,8 +143,7 @@ LUV](../Page/Pink_LUV.md "wikilink")》的主打歌《》包攬韓國音樂節�
 
 <!-- end list -->
 
-  - 聯合主辦：[Three Angles Group Pte.
-    Ltd.](http://www.threeanglesproduction.com)
+  - 聯合主辦：[Three Angles Group Pte. Ltd.](http://www.threeanglesproduction.com)
   - 冠名贊助：Mediatech
   - 票務：[SISTIC Singapore](http://www.sistic.com.sg)
   - 宣傳媒體：[SET ONE](https://zh.wikipedia.org/wiki/ONE_TV_ASIA "wikilink")
@@ -169,8 +164,7 @@ LUV](../Page/Pink_LUV.md "wikilink")》的主打歌《》包攬韓國音樂節�
 
 ## 参考资料
 
-[Category:Apink](https://zh.wikipedia.org/wiki/Category:Apink "wikilink")
-[Category:2015年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2015年巡回演唱会 "wikilink")
+[Category:Apink](https://zh.wikipedia.org/wiki/Category:Apink "wikilink") [Category:2015年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2015年巡回演唱会 "wikilink")
 
 1.
 2.

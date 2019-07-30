@@ -2,7 +2,7 @@
 
 ## 投稿影片
 
-於[Niconico動畫平台所投稿的作品](../Page/Niconico動畫.md "wikilink")。
+於[Niconico動畫](../Page/Niconico動畫.md "wikilink")平台所投稿的作品。
 
 ### minato（流星P）名義
 
@@ -84,8 +84,7 @@
 ### 網路販售
 
   - 『delicious』（KarenT、2009年3月25日發售）
-      - 由初音未來製造商[Crypton Future
-        Media直營品牌](https://zh.wikipedia.org/wiki/CRYPTON_FUTURE_MEDIA "wikilink")[KarenT發售](../Page/KarenT.md "wikilink")。網路販售限定。
+      - 由初音未來製造商[Crypton Future Media直營品牌](https://zh.wikipedia.org/wiki/CRYPTON_FUTURE_MEDIA "wikilink")[KarenT](../Page/KarenT.md "wikilink")發售。網路販售限定。
     <!-- end list -->
     1.  delicious(feat. 初音未來&鏡音鈴・連)
     2.  SPICE\!(feat. 鏡音連)
@@ -103,7 +102,7 @@
 
 ### 音樂製作
 
-  - 『storyteller』（[5pb.Records](../Page/5pb..md "wikilink")、2010年9月23日發售）
+  - 『storyteller』（[5pb.](../Page/5pb..md "wikilink")Records、2010年9月23日發售）
       - VALSHE的原創迷你專輯。擔任音樂製作。
           - 「NEVER LAND」（作詞、作曲、編曲、合聲）
           - 「graffias」（共同作詞、作曲、合聲）
@@ -211,9 +210,7 @@
 
   - 『EXIT TUNES PRESENTS STARDOM』（EXIT TUNES、2009年5月20日發售）
       - 收錄動畫網站上人氣歌曲的合輯。提供「Soar」。
-  - 『[EXIT TUNES PRESENTS
-    Vocalostar](https://zh.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Vocalostar "wikilink")
-    feat.初音ミク』（EXIT TUNES、2009年6月17日發售）
+  - 『[EXIT TUNES PRESENTS Vocalostar](https://zh.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Vocalostar "wikilink") feat.初音ミク』（EXIT TUNES、2009年6月17日發售）
       - 收錄了有使用初音未來的歌曲合輯。提供「RIP=RELEASE」。
   - 『初音ミク ベスト〜impacts〜』（ドワンゴ・エージー・エンタテインメント、2009年8月26日發售）
       - 初音未來發售兩周年的紀念精選輯。提供「magnet」。
@@ -232,23 +229,16 @@
 
 <!-- end list -->
 
-  - 『初音ミク -Project DIVA- 2nd NONSTOP MIX
-    COLLECTION』（ソニー・ミュージックダイレクト、2010年7月28日發售）
-      - [PlayStation
-        Portable的音樂節奏遊戲](../Page/PlayStation_Portable.md "wikilink")『[初音ミク
-        -Project DIVA-
-        2nd](https://zh.wikipedia.org/wiki/初音ミク_-Project_DIVA- "wikilink")』的官方合輯。收錄「カラフル
-        × メロディ」的Remix版本，以ちーむMOER成員身分負責作詞。
+  - 『初音ミク -Project DIVA- 2nd NONSTOP MIX COLLECTION』（ソニー・ミュージックダイレクト、2010年7月28日發售）
+      - [PlayStation Portable的音樂節奏遊戲](../Page/PlayStation_Portable.md "wikilink")『[初音ミク -Project DIVA- 2nd](https://zh.wikipedia.org/wiki/初音ミク_-Project_DIVA- "wikilink")』的官方合輯。收錄「カラフル × メロディ」的Remix版本，以ちーむMOER成員身分負責作詞。
   - 『MOER feat.初音ミク -2nd anniversary-』（MOER、2010年8月11日發售）
       - MOER的活動2周年紀念精選輯。提供「magnet」、「RIP=RELEASE」、「夏色☆キャンバス」。
   - 『ロミオとシンデレラ』（5pb.Records、2010年11月24日發售）
       - doriko的創作專輯。擔任「Paradise Cage」的作詞。
-  - 『V.I.P(Marasy plays Vocaloid Instrumental on Piano)』
-    （ドワンゴ・ミュージックエンタテインメント、2010年12月8日發售）
+  - 『V.I.P(Marasy plays Vocaloid Instrumental on Piano)』 （ドワンゴ・ミュージックエンタテインメント、2010年12月8日發售）
       - marasy的鋼琴獨奏專輯。提供「magnet」。
   - 『カラフル×メロディ』（MOER、2011年3月9日發售）
-      - 使用在『[初音ミク -Project DIVA-
-        2nd](https://zh.wikipedia.org/wiki/初音ミク_-Project_DIVA- "wikilink")』上的原創歌單曲，以ちーむMOER成員身分負責作詞。
+      - 使用在『[初音ミク -Project DIVA- 2nd](https://zh.wikipedia.org/wiki/初音ミク_-Project_DIVA- "wikilink")』上的原創歌單曲，以ちーむMOER成員身分負責作詞。
   - 『LINK / RING』（avex trax、2011年3月9日發售）
       - うさ的個人專輯。提供「向日葵」。
   - 『サオリリス 歌ってみた 初音ミク』（日本索尼音樂娛樂、2011年4月27日發售）
@@ -259,16 +249,12 @@
       - 收錄Niconico動畫上使用VOCALOID發表的歌曲精選輯。提供「magnet」。
   - 『Gourmet』（インディーズレーベル、2011年7月7日發售）
       - gero的原創專輯。提供「アイ」，同時擔任合聲。
-  - 『「[聖鬥士星矢 THE LOST CANVAS
-    冥王神話](../Page/圣斗士星矢_THE_LOST_CANVAS_冥王神话.md "wikilink")」キャラクターソング
-    アルバム』（dmARTS、2011年8月10日發售）
+  - 『「[聖鬥士星矢 THE LOST CANVAS 冥王神話](../Page/圣斗士星矢_THE_LOST_CANVAS_冥王神话.md "wikilink")」キャラクターソング アルバム』（dmARTS、2011年8月10日發售）
       - 由動畫角色來演唱的印象歌曲專輯。擔任[平野綾所唱的](https://zh.wikipedia.org/wiki/平野綾 "wikilink")「azure」作詞。
   - 『V love 25〜Aperios〜』（BinaryMixx Records、2011年11月16日發售）
-      - 收錄VOCALOID原創曲的合輯。收錄以初音未來演唱『「聖鬥士星矢 THE LOST CANVAS
-        冥王神話」角色歌專輯』中「azure」的版本。
+      - 收錄VOCALOID原創曲的合輯。收錄以初音未來演唱『「聖鬥士星矢 THE LOST CANVAS 冥王神話」角色歌專輯』中「azure」的版本。
   - 『アコミク with VOCALOIDS』（BALLOOM、2011年11月30日發售）
-      - 初音未來的演唱會活動「未來之日感謝祭」「MIKUNOPOLIS in Los Angeles」中由安部潤率領的The
-        39s所演奏的VOCALOID歌曲專輯。提供「magnet」。
+      - 初音未來的演唱會活動「未來之日感謝祭」「MIKUNOPOLIS in Los Angeles」中由安部潤率領的The 39s所演奏的VOCALOID歌曲專輯。提供「magnet」。
   - 『かえしうた』（dmARTS、2011年11月30日發售）
       - 武士先生以[木吉他重新詮釋的VOCALOID原創曲的音樂專輯](../Page/原聲吉他.md "wikilink")。提供「magnet」。
   - 『himekanvas』（SMJ、2011年11月30日發售）
@@ -276,33 +262,25 @@
   - 『アコミク with VOCALISTS』（BALLOOM、2011年12月28日發售）
       - 由The 39s所演奏的人聲版VOCALOID歌曲專輯。提供「magnet」。歌手為ヲタみん&柿チョコ。
   - 『SONICONICOROCK Tribute To VOCALOID』（dmARTS、2012年2月8日發售）
-      - [超級索尼子的專輯](../Page/超級索尼子.md "wikilink")。提供「Soar」並以トゥライ名義合聲。
+      - [超級索尼子](../Page/超級索尼子.md "wikilink")的專輯。提供「Soar」並以トゥライ名義合聲。
   - 『Forbidden Fruits』（BinaryMixx Records、2012年4月28、29日限定販売）
-      - minato、doriko、[OSTER
-        project所組成的創作團體](../Page/OSTER_project.md "wikilink")「MIDSTER」的單曲。在「Niconico超會議」上限定販售。負責作詞。
+      - minato、doriko、[OSTER project所組成的創作團體](../Page/OSTER_project.md "wikilink")「MIDSTER」的單曲。在「Niconico超會議」上限定販售。負責作詞。
   - 『V love 25 〜cantabile〜』（BinaryMixx Records、2012年6月13日發售）
-      - 收錄VOCALOID原創曲的合輯。提供以創作團體「MIDSTER」（minato、doriko、OSTER
-        project）名義作的「ヒスイドリ」。
-  - 『Download
-    feat.初音ミク』（[日本華納音樂](../Page/日本華納音樂.md "wikilink")、2014年12月10日發售）
+      - 收錄VOCALOID原創曲的合輯。提供以創作團體「MIDSTER」（minato、doriko、OSTER project）名義作的「ヒスイドリ」。
+  - 『Download feat.初音ミク』（[日本華納音樂](../Page/日本華納音樂.md "wikilink")、2014年12月10日發售）
       - 收錄使用初音未來創作的紀念精選合輯。提供「magnet」。
-  - 『Upload
-    feat.Vocalist』（[日本勝利娛樂](../Page/勝利娛樂.md "wikilink")、2014年12月10日發售）
+  - 『Upload feat.Vocalist』（[日本勝利娛樂](../Page/勝利娛樂.md "wikilink")、2014年12月10日發售）
       - 收錄VOCALOID原創曲的人聲版紀念精選精選合輯。提供「SPICE\!」並且和Rib一起合唱。
 
 #### 其他
 
-  - 『[初音ミク -Project
-    DIVA-](https://zh.wikipedia.org/wiki/初音ミク_-Project_DIVA- "wikilink")』（[SEGA](../Page/世嘉.md "wikilink")、2009年7月2日發售）
+  - 『[初音ミク -Project DIVA-](https://zh.wikipedia.org/wiki/初音ミク_-Project_DIVA- "wikilink")』（[SEGA](../Page/世嘉.md "wikilink")、2009年7月2日發售）
       - 初音未來為主角的PlayStation Portable音樂節奏遊戲。提供遊戲中使用的歌曲「Soar」。
   - 『もっとおかわり、リン・レン ルカ』（SEGA、2010年7月1日發售）
       - 『初音ミク -Project DIVA-』的額外下載音樂集。提供「RIP=RELEASE」。
   - 『初音ミク -Project DIVA- 2nd』（SEGA、2010年7月29日發售）
-      - 『初音ミク -Project
-        DIVA-』的二代遊戲，提供遊戲內使用的歌曲「magnet」和、以ちーむMOER成員身分負責作詞的「カラフル
-        × メロディ」。
-  - 『[Re：笨蛋也能拯救世界？Drama](../Page/Re：笨蛋也能拯救世界？.md "wikilink") CD』（ティー ワイ
-    エンタテインメント、2010年12月15日發售）
+      - 『初音ミク -Project DIVA-』的二代遊戲，提供遊戲內使用的歌曲「magnet」和、以ちーむMOER成員身分負責作詞的「カラフル × メロディ」。
+  - 『[Re：笨蛋也能拯救世界？](../Page/Re：笨蛋也能拯救世界？.md "wikilink")Drama CD』（ティー ワイ エンタテインメント、2010年12月15日發售）
       - 『Re：笨蛋也能拯救世界？』的Drama CD。以トゥライ名義主唱的主題曲「愛の唄」，收錄在附屬DVD中。
 
 ## 參考來源

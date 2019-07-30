@@ -28,6 +28,4 @@
 6.  Break a bone funk
 7.  Be grateful ※於通常盤収録
 
-[Category:堂本剛音樂專輯](https://zh.wikipedia.org/wiki/Category:堂本剛音樂專輯 "wikilink")
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:2016年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:堂本剛音樂專輯](https://zh.wikipedia.org/wiki/Category:堂本剛音樂專輯 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:2016年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Oricon專輯週榜冠軍作品 "wikilink")

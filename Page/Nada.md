@@ -1,5 +1,4 @@
-**尹禮珍**（，），藝名**Nada**（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[女歌手](../Page/歌手.md "wikilink")、[舞者及](https://zh.wikipedia.org/wiki/舞者 "wikilink")[Rapper](../Page/嘻哈音樂.md "wikilink")，在2013年8月7日以女團[WA$$UP成員在韓國出道](https://zh.wikipedia.org/wiki/WA$$UP "wikilink")，擔任[主Rapper](https://zh.wikipedia.org/wiki/饒舌擔當 "wikilink")、領舞。2016年12月推出第一张个人SOLO[单曲](../Page/单曲.md "wikilink")。\[1\]於2017年2月2日退出[WA$$UP](https://zh.wikipedia.org/wiki/WA$$UP "wikilink")。\[2\]2017年2月14日与歌手Kirk
-Kim恋情曝光。\[3\]\[4\]
+**尹禮珍**（，），藝名**Nada**（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[女歌手](../Page/歌手.md "wikilink")、[舞者及](https://zh.wikipedia.org/wiki/舞者 "wikilink")[Rapper](../Page/嘻哈音樂.md "wikilink")，在2013年8月7日以女團[WA$$UP成員在韓國出道](https://zh.wikipedia.org/wiki/WA$$UP "wikilink")，擔任[主Rapper](https://zh.wikipedia.org/wiki/饒舌擔當 "wikilink")、領舞。2016年12月推出第一张个人SOLO[单曲](../Page/单曲.md "wikilink")。\[1\]於2017年2月2日退出[WA$$UP](https://zh.wikipedia.org/wiki/WA$$UP "wikilink")。\[2\]2017年2月14日与歌手Kirk Kim恋情曝光。\[3\]\[4\]
 
 ## 音樂作品
 
@@ -100,8 +99,7 @@ Kim恋情曝光。\[3\]\[4\]
 
 ### 電視劇
 
-2018年 [Channel A](../Page/Channel_A.md "wikilink")
-《[十二夜](../Page/十二夜_\(韓國電視劇\).md "wikilink")》客串演出
+2018年 [Channel A](../Page/Channel_A.md "wikilink") 《[十二夜](../Page/十二夜_\(韓國電視劇\).md "wikilink")》客串演出
 
 ## 廣告代言
 
@@ -132,11 +130,7 @@ Kim恋情曝光。\[3\]\[4\]
 ## 外部連結
 
   -
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink")
-[Category:尹姓](https://zh.wikipedia.org/wiki/Category:尹姓 "wikilink")
+[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink") [Category:尹姓](https://zh.wikipedia.org/wiki/Category:尹姓 "wikilink")
 
 1.
 2.

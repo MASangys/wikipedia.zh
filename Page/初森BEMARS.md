@@ -1,17 +1,14 @@
-《**初森BEMARS**》（）為2015年7月11日至9月26日由[東京電視台](../Page/東京電視台.md "wikilink")[電視劇24系列開始播出以壘球為題材的電視劇](../Page/電視劇24.md "wikilink")。\[1\]
-[秋元康在](../Page/秋元康.md "wikilink")[電視劇24裡的製作往常是以偶像團體](../Page/電視劇24.md "wikilink")[AKB48和其姊妹團體一起共同主演的](../Page/AKB48.md "wikilink")[馬路須加學園展開序幕](../Page/馬路須加學園.md "wikilink")，這次，則是由[AKB48的官方對手](../Page/AKB48.md "wikilink")，同時也是[秋元康所創立的偶像團體](../Page/秋元康.md "wikilink")[乃木坂46第一次主演的電視劇](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")。\[2\]
+《**初森BEMARS**》（）為2015年7月11日至9月26日由[東京電視台](../Page/東京電視台.md "wikilink")[電視劇24](../Page/電視劇24.md "wikilink")系列開始播出以壘球為題材的電視劇。\[1\] [秋元康](../Page/秋元康.md "wikilink")在[電視劇24](../Page/電視劇24.md "wikilink")裡的製作往常是以偶像團體[AKB48](../Page/AKB48.md "wikilink")和其姊妹團體一起共同主演的[馬路須加學園](../Page/馬路須加學園.md "wikilink")展開序幕，這次，則是由[AKB48](../Page/AKB48.md "wikilink")的官方對手，同時也是[秋元康](../Page/秋元康.md "wikilink")所創立的偶像團體[乃木坂46第一次主演的電視劇](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")。\[2\]
 
 ## 劇情概要
 
-某個平民區，因為再開發，鎮上的休憩場所「初森公園」即將拆除改建成公寓。鎮內的居民稱這座公園為「初始公園」（）。「在這裡出生，在這個公園結識朋友，每天都會在這裡碰面...
-對大家來說，這裡是起跑點。所以稱為「初始公園」\!」\[3\]\[4\]\[5\]\[6\]\[7\]
+某個平民區，因為再開發，鎮上的休憩場所「初森公園」即將拆除改建成公寓。鎮內的居民稱這座公園為「初始公園」（）。「在這裡出生，在這個公園結識朋友，每天都會在這裡碰面... 對大家來說，這裡是起跑點。所以稱為「初始公園」\!」\[3\]\[4\]\[5\]\[6\]\[7\]
 
 ## 登場人物
 
 ### 初森第二女子商業高等學校
 
-  - 七丸 （） -
-    [西野七瀨](../Page/西野七瀨.md "wikilink")（幼年期：岩崎愛香）\[8\]（粤语配音：[何凱怡](https://zh.wikipedia.org/wiki/何凱怡 "wikilink")）
+  - 七丸 （） - [西野七瀨](../Page/西野七瀨.md "wikilink")（幼年期：岩崎愛香）\[8\]（粤语配音：[何凱怡](https://zh.wikipedia.org/wiki/何凱怡 "wikilink")）
     球衣背號1號，守備位置為[投手](../Page/投手.md "wikilink")。\[9\]
     故事的主角。
     店的獨生女。
@@ -21,32 +18,28 @@
 
 <!-- end list -->
 
-  - 小手 （） -
-    [高山一實](../Page/高山一實.md "wikilink")（幼年期：林日葵）（粵語配音：[顧詠雪](../Page/顧詠雪.md "wikilink")）
+  - 小手 （） - [高山一實](../Page/高山一實.md "wikilink")（幼年期：林日葵）（粵語配音：[顧詠雪](../Page/顧詠雪.md "wikilink")）
     球衣背號2號，守備位置為[捕手](../Page/捕手.md "wikilink")。\[10\]
     隸屬於劍道部。
-    有著[天然呆的個性](../Page/天然呆.md "wikilink")，對任何事務皆保持著熱情。
+    有著[天然呆](../Page/天然呆.md "wikilink")的個性，對任何事務皆保持著熱情。
     喜歡將肉包和冰淇淋搭配著一起吃。
 
 <!-- end list -->
 
-  - 蕭邦 （） -
-    [生田繪梨花](../Page/生田繪梨花.md "wikilink")（粵語配音：[陳頴琪](../Page/陳頴琪.md "wikilink")）
+  - 蕭邦 （） - [生田繪梨花](../Page/生田繪梨花.md "wikilink")（粵語配音：[陳頴琪](../Page/陳頴琪.md "wikilink")）
     球衣背號3號，守備位置為[游擊手](https://zh.wikipedia.org/wiki/游擊手 "wikilink")。\[11\]
     擁有[絕對音感的天份](https://zh.wikipedia.org/wiki/絕對音感 "wikilink")，並從小就志願當鋼琴家的少女。
 
 <!-- end list -->
 
-  - 時下 （，今時） -
-    [若月佑美](../Page/若月佑美.md "wikilink")（粵語配音：[廖欣怡](../Page/廖欣怡.md "wikilink")）
+  - 時下 （，今時） - [若月佑美](../Page/若月佑美.md "wikilink")（粵語配音：[廖欣怡](../Page/廖欣怡.md "wikilink")）
     球衣背號4號，守備位置為[一壘手](https://zh.wikipedia.org/wiki/一壘手 "wikilink")。\[12\]
     是個時常拿著球棒到處遊蕩，有著昭和時期味道的不良少女。
     打架時有78勝2敗3平的戰績。
 
 <!-- end list -->
 
-  - 奧斯卡（） -
-    [生駒里奈](../Page/生駒里奈.md "wikilink")（幼年期：）（粵語配音：[黎皓宜](../Page/黎皓宜.md "wikilink")）
+  - 奧斯卡（） - [生駒里奈](../Page/生駒里奈.md "wikilink")（幼年期：）（粵語配音：[黎皓宜](../Page/黎皓宜.md "wikilink")）
     球衣背號5號，守備位置為[二壘手](https://zh.wikipedia.org/wiki/二壘手 "wikilink")。\[13\]
     隸屬於演劇部。
     夢想成為[奧斯卡金像獎女演員](https://zh.wikipedia.org/wiki/奧斯卡金像獎 "wikilink")。
@@ -56,37 +49,33 @@
 
   - 無難 （）- [櫻井玲香](../Page/櫻井玲香.md "wikilink")
     球衣背號6號，守備位置為[右外野手](https://zh.wikipedia.org/wiki/右外野手 "wikilink")。\[14\]
-    [投機主義的學生會會長](../Page/投機主義.md "wikilink")。
+    [投機主義](../Page/投機主義.md "wikilink")的學生會會長。
     有著優柔寡斷、不引發是非的無難性格。
 
 <!-- end list -->
 
-  - 憂鬱 （） -
-    [松村沙友理](../Page/松村沙友理.md "wikilink")（粵語配音：[高可慧](../Page/高可慧.md "wikilink")）
+  - 憂鬱 （） - [松村沙友理](../Page/松村沙友理.md "wikilink")（粵語配音：[高可慧](../Page/高可慧.md "wikilink")）
     球衣背號7號，為球隊替補選手。\[15\]
     是個神經質、超負面個性、常常自言自語且陰暗又消極的少女。
     對蟲的觀察有興趣並且有飼養一隻寵物蟻名字是田島，在最終話時繁殖到100隻。
 
 <!-- end list -->
 
-  - 哈佛 （） -
-    [秋元真夏](../Page/秋元真夏.md "wikilink")（粵語配音：[石梓晴](../Page/石梓晴.md "wikilink")）
+  - 哈佛 （） - [秋元真夏](../Page/秋元真夏.md "wikilink")（粵語配音：[石梓晴](../Page/石梓晴.md "wikilink")）
     球衣背號8號，守備位置為[中外野手](https://zh.wikipedia.org/wiki/中外野手 "wikilink")。\[16\]
     擅長數學和物理學的天才少女。
     為七丸的魔球「寸止」的發明者。
 
 <!-- end list -->
 
-  - 媽媽 （） -
-    [深川麻衣](../Page/深川麻衣.md "wikilink")（粵語配音：[鄭家蕙](../Page/鄭家蕙.md "wikilink")）
+  - 媽媽 （） - [深川麻衣](../Page/深川麻衣.md "wikilink")（粵語配音：[鄭家蕙](../Page/鄭家蕙.md "wikilink")）
     球衣背號9號，守備位置為[左外野手](https://zh.wikipedia.org/wiki/左外野手 "wikilink")。\[17\]
     打理家裡的家事，並照顧弟弟、妹妹及一名性別不明的嬰兒。
     時常流露出異於高校生的成熟言語及思想。
 
 <!-- end list -->
 
-  - 09 （） -
-    [橋本奈奈未](../Page/橋本奈奈未.md "wikilink")（粵語配音：[姜嘉蕾](../Page/姜嘉蕾.md "wikilink")）
+  - 09 （） - [橋本奈奈未](../Page/橋本奈奈未.md "wikilink")（粵語配音：[姜嘉蕾](../Page/姜嘉蕾.md "wikilink")）
     球衣背號10號，守備位置為[三壘手](https://zh.wikipedia.org/wiki/三壘手 "wikilink")。\[18\]
     個性冷靜的時髦美少女。
     高校休學中並在時尚店"209"工作。
@@ -106,8 +95,7 @@
 
 <!-- end list -->
 
-  - 雪莉 （） -
-    [衛藤美彩](../Page/衛藤美彩.md "wikilink")（粤语配音：[杨婉潼](https://zh.wikipedia.org/wiki/杨婉潼 "wikilink")）
+  - 雪莉 （） - [衛藤美彩](../Page/衛藤美彩.md "wikilink")（粤语配音：[杨婉潼](https://zh.wikipedia.org/wiki/杨婉潼 "wikilink")）
     球衣背號2號，守備位置為[捕手](../Page/捕手.md "wikilink")。\[21\]
     聖田園調布北極星學園壘球部副隊長。
     壘球實力僅次於美麗。
@@ -211,7 +199,7 @@
 
 <!-- end list -->
 
-  - 光芒（）- [相樂伊織](https://zh.wikipedia.org/wiki/相樂伊織 "wikilink")\[29\]
+  - 光芒（）- [相樂伊織](../Page/相樂伊織.md "wikilink")\[29\]
     守備位置為捕手。
 
 #### 須決鬪國際學校（第7球）
@@ -227,8 +215,7 @@
 
 <!-- end list -->
 
-  - 大目鮪（）-
-    [能條愛未](../Page/能條愛未.md "wikilink")（粤语配音：[陳凱婷](../Page/陳凱婷.md "wikilink")）\[31\]
+  - 大目鮪（）- [能條愛未](../Page/能條愛未.md "wikilink")（粤语配音：[陳凱婷](../Page/陳凱婷.md "wikilink")）\[31\]
     守備位置為投手，擁有必殺技魔球「魚群魔球」（）。
 
 <!-- end list -->
@@ -253,8 +240,7 @@
 
 #### 第2球
 
-  - 鎌田的學生 -
-    [渡邊米莉愛](https://zh.wikipedia.org/wiki/渡邊米莉愛 "wikilink")\[34\]
+  - 鎌田的學生 - [渡邊米莉愛](https://zh.wikipedia.org/wiki/渡邊米莉愛 "wikilink")\[34\]
     鎌田俊郎早期在學校當壘球部教練時的學生。即使鎌田不小心因為指導過度而將她弄受傷了，她也依然不責怪鎌田。
 
 #### 第3球
@@ -279,8 +265,7 @@
 
 #### 第6球
 
-  - 佐佐木幸次郎（）-
-    [真劍佑](https://zh.wikipedia.org/wiki/真劍佑 "wikilink")\[39\]
+  - 佐佐木幸次郎（）- [真劍佑](https://zh.wikipedia.org/wiki/真劍佑 "wikilink")\[39\]
     小手單戀的對象。
 
 #### 第7球
@@ -300,8 +285,7 @@
 
 <!-- end list -->
 
-  - 瀧谷小百合（）-
-    [井上小百合](https://zh.wikipedia.org/wiki/井上小百合 "wikilink")\[43\]
+  - 瀧谷小百合（）- [井上小百合](https://zh.wikipedia.org/wiki/井上小百合 "wikilink")\[43\]
     以下四名皆為黑薔薇女子學院的不良少女們。
 
 <!-- end list -->
@@ -374,15 +358,12 @@
 <!-- end list -->
 
   -
-    作詞:[秋元康](../Page/秋元康.md "wikilink")，作曲:
-    ，[N46Div.發行](../Page/日本索尼音樂娛樂.md "wikilink")
+    作詞:[秋元康](../Page/秋元康.md "wikilink")，作曲: ，[N46Div.發行](../Page/日本索尼音樂娛樂.md "wikilink")
 
 ### 插曲
 
-  - [AKB48](../Page/AKB48.md "wikilink") -
-    [戀愛的幸運餅乾](../Page/戀愛的幸運餅乾.md "wikilink")
-  - [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink") -
-    [你就是希望](../Page/你就是希望.md "wikilink")
+  - [AKB48](../Page/AKB48.md "wikilink") - [戀愛的幸運餅乾](../Page/戀愛的幸運餅乾.md "wikilink")
+  - [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink") - [你就是希望](../Page/你就是希望.md "wikilink")
 
 ## 集數列表
 
@@ -502,7 +483,7 @@
 <td></td>
 <td><p>近在眼前的夢</p></td>
 <td><p>根本ノンジ</p></td>
-<td><p><a href="../Page/宮脇咲良.md" title="wikilink">宮脇咲良</a>、<a href="../Page/島崎遙香.md" title="wikilink">島崎遙香客串</a></p></td>
+<td><p><a href="../Page/宮脇咲良.md" title="wikilink">宮脇咲良</a>、<a href="../Page/島崎遙香.md" title="wikilink">島崎遙香</a>客串</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -645,14 +626,7 @@
 
 ## 參考資料
 
-[Category:電視劇24](https://zh.wikipedia.org/wiki/Category:電視劇24 "wikilink")
-[Category:與運動有關的電視劇](https://zh.wikipedia.org/wiki/Category:與運動有關的電視劇 "wikilink")
-[Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink")
-[Category:乃木坂46電視節目](https://zh.wikipedia.org/wiki/Category:乃木坂46電視節目 "wikilink")
-[Category:球類運動題材作品](https://zh.wikipedia.org/wiki/Category:球類運動題材作品 "wikilink")
-[Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
-[Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
+[Category:電視劇24](https://zh.wikipedia.org/wiki/Category:電視劇24 "wikilink") [Category:與運動有關的電視劇](https://zh.wikipedia.org/wiki/Category:與運動有關的電視劇 "wikilink") [Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink") [Category:乃木坂46電視節目](https://zh.wikipedia.org/wiki/Category:乃木坂46電視節目 "wikilink") [Category:球類運動題材作品](https://zh.wikipedia.org/wiki/Category:球類運動題材作品 "wikilink") [Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
 
 1.
 2.

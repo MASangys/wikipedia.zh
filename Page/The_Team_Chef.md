@@ -1,7 +1,4 @@
-《**The Team
-Chef**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC於](../Page/JTBC.md "wikilink")2018年製作的綜藝節目\[1\]\[2\]，由
-[鄭亨敦](../Page/鄭亨敦.md "wikilink")、[金俊鉉](https://zh.wikipedia.org/wiki/金俊鉉 "wikilink")、Shahkrit
-Yamnarm（泰國演員兼餐廳老闆）、2PM成員-尼坤等人\[3\]\[4\]共同主持，節目主軸為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[泰國兩國的頂級廚師與素人分隊進行料理對決](https://zh.wikipedia.org/wiki/泰國 "wikilink")。
+《**The Team Chef**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")於2018年製作的綜藝節目\[1\]\[2\]，由 [鄭亨敦](../Page/鄭亨敦.md "wikilink")、[金俊鉉](https://zh.wikipedia.org/wiki/金俊鉉 "wikilink")、Shahkrit Yamnarm（泰國演員兼餐廳老闆）、2PM成員-尼坤等人\[3\]\[4\]共同主持，節目主軸為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[泰國兩國的頂級廚師與素人分隊進行料理對決](https://zh.wikipedia.org/wiki/泰國 "wikilink")。
 
 ## 收視率
 
@@ -38,8 +35,7 @@ Yamnarm（泰國演員兼餐廳老闆）、2PM成員-尼坤等人\[3\]\[4\]共�
 
   - [官方網站](http://tv.jtbc.joins.com/teamchef)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
 1.
 2.

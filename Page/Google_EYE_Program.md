@@ -1,11 +1,4 @@
-[Google EYE
-Program](http://www.eyeprogram.org/index.html)（中文：EYE年輕創業家計劃；英文：Google
-Empowering Young Entrepreneurs
-Program）是[Google聯同](../Page/Google.md "wikilink")[香港中文大學在](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")2014年\[1\]於[香港成立的新創](../Page/香港.md "wikilink")[加速器](https://zh.wikipedia.org/wiki/加速器 "wikilink")。此計畫旨在透過長期培訓與國際參訪，連結海內外新創資源，推動青年企業家、新創團隊與實業界的創新。至今已經成功培育16家新創公司、連結超過80位新創導師與專家，更接獲[南華早報](../Page/南華早報.md "wikilink"),
-[香港經濟日報](../Page/香港經濟日報.md "wikilink"),
-[信報財經新聞](../Page/信報財經新聞.md "wikilink"),
-[華爾街日報](https://zh.wikipedia.org/wiki/華爾街日報 "wikilink"),
-[CNBC等多家媒體報導](https://zh.wikipedia.org/wiki/CNBC "wikilink")。
+[Google EYE Program](http://www.eyeprogram.org/index.html)（中文：EYE年輕創業家計劃；英文：Google Empowering Young Entrepreneurs Program）是[Google](../Page/Google.md "wikilink")聯同[香港中文大學在](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")2014年\[1\]於[香港](../Page/香港.md "wikilink")成立的新創[加速器](https://zh.wikipedia.org/wiki/加速器 "wikilink")。此計畫旨在透過長期培訓與國際參訪，連結海內外新創資源，推動青年企業家、新創團隊與實業界的創新。至今已經成功培育16家新創公司、連結超過80位新創導師與專家，更接獲[南華早報](../Page/南華早報.md "wikilink"), [香港經濟日報](../Page/香港經濟日報.md "wikilink"), [信報財經新聞](../Page/信報財經新聞.md "wikilink"), [華爾街日報](https://zh.wikipedia.org/wiki/華爾街日報 "wikilink"), [CNBC等多家媒體報導](https://zh.wikipedia.org/wiki/CNBC "wikilink")。
 
 ## 計畫內容
 
@@ -36,7 +29,7 @@ Program）是[Google聯同](../Page/Google.md "wikilink")[香港中文大學在]
 
 ### 國際參訪
 
-第二階段的6組團隊將會前往海外進行企業參訪，同時也會透過合作夥伴的幫助，實際在當地市場展示團隊的商業理念與目前成果。入選團隊分別在2014年前進至[矽谷](https://zh.wikipedia.org/wiki/矽谷 "wikilink")，2015到[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，2016到[新加坡進行參訪](../Page/新加坡.md "wikilink")。
+第二階段的6組團隊將會前往海外進行企業參訪，同時也會透過合作夥伴的幫助，實際在當地市場展示團隊的商業理念與目前成果。入選團隊分別在2014年前進至[矽谷](https://zh.wikipedia.org/wiki/矽谷 "wikilink")，2015到[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，2016到[新加坡](../Page/新加坡.md "wikilink")進行參訪。
 
 ### 媒合晚宴
 
@@ -53,9 +46,7 @@ Program）是[Google聯同](../Page/Google.md "wikilink")[香港中文大學在]
 ### 協助夥伴
 
   - [blueprint Hong Kong](http://blueprint.swireproperties.com)
-  - [香港中文大學](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")[商學院創業研究中心](https://entrepreneurship.bschool.cuhk.edu.hk/eyeprogram)（英文：Center
-    for Entrepreneurship in The Chinese University of Hong Kong Business
-    School）
+  - [香港中文大學](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")[商學院創業研究中心](https://entrepreneurship.bschool.cuhk.edu.hk/eyeprogram)（英文：Center for Entrepreneurship in The Chinese University of Hong Kong Business School）
   - [數碼港](../Page/數碼港.md "wikilink")（英文：Cyberport）
   - [星展銀行（香港）](../Page/星展銀行（香港）.md "wikilink")（英文：DBS Hong Kong）
   - [恆生管理學院](https://zh.wikipedia.org/wiki/恆生管理學院 "wikilink")[企業發展中心](http://edc.hsmc.edu.hk)
@@ -63,8 +54,7 @@ Program）是[Google聯同](../Page/Google.md "wikilink")[香港中文大學在]
   - 香港[投資推廣署](../Page/投資推廣署.md "wikilink")（英文：Invest Hong Kong）
   - [Jumpstart Magazine](http://jumpstartmag.com)
   - [K11 (香港)](../Page/K11_\(香港\).md "wikilink")
-  - [蘭桂坊集團](https://www.lkfgroup.com)（英文：LAN KWAI FONG Group;
-    英文縮寫：LKFGroup）
+  - [蘭桂坊集團](https://www.lkfgroup.com)（英文：LAN KWAI FONG Group; 英文縮寫：LKFGroup）
   - [香港理工大學](../Page/香港理工大學.md "wikilink")[企業發展院](https://www.polyu.edu.hk/ife/corp/en/index.php)
   - [香港科技大學](../Page/香港科技大學.md "wikilink")（英文簡寫：HKUST）
   - [The Wave](https://www.thewave.com.hk)
@@ -74,8 +64,7 @@ Program）是[Google聯同](../Page/Google.md "wikilink")[香港中文大學在]
 
 ### 海外合作
 
-  - [Action Community for
-    Entrepreneurship](http://www.ace.org.sg)（英文縮寫：ACE）
+  - [Action Community for Entrepreneurship](http://www.ace.org.sg)（英文縮寫：ACE）
   - DBS Innovation
   - [BASH](https://web.archive.org/web/20171213142726/https://www.sginnovate.com/about/bash)
   - 新加坡安建之友（英文：[KPMG Singapore](https://home.kpmg.com/sg/en/home.html)）
@@ -119,27 +108,17 @@ Program）是[Google聯同](../Page/Google.md "wikilink")[香港中文大學在]
 ## 外部連結
 
   - （英文）[Google Eye Program 官網](http://www.eyeprogram.org/index.html)
-  - （英文）[Google Eye Program 2015
-    資料專頁](https://entrepreneurship.bschool.cuhk.edu.hk/eyeprogram)
-  - （英文）（中文）（粵語）[Eye Program
-    臉書粉絲專頁](https://www.facebook.com/eyeprogramhk)
-  - （英文）（中文）[Eye Program
-    官方Youtube](https://www.youtube.com/channel/UC7ycfJ7dSnDBFj8Rddj-7Hw)
+  - （英文）[Google Eye Program 2015 資料專頁](https://entrepreneurship.bschool.cuhk.edu.hk/eyeprogram)
+  - （英文）（中文）（粵語）[Eye Program 臉書粉絲專頁](https://www.facebook.com/eyeprogramhk)
+  - （英文）（中文）[Eye Program 官方Youtube](https://www.youtube.com/channel/UC7ycfJ7dSnDBFj8Rddj-7Hw)
   - （英文）[Google Eye Program 官方Twitter](https://twitter.com/eye_program)
   - （英文）[Eye Program 官方Instagram](https://www.instagram.com/eyeprogram/)
 
 {{-}}
 
-[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
-[Category:企业孵化器](https://zh.wikipedia.org/wiki/Category:企业孵化器 "wikilink")
-[Category:香港科技](https://zh.wikipedia.org/wiki/Category:香港科技 "wikilink")
+[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:企业孵化器](https://zh.wikipedia.org/wiki/Category:企业孵化器 "wikilink") [Category:香港科技](https://zh.wikipedia.org/wiki/Category:香港科技 "wikilink")
 
-1.  [Google與香港中文大學聯手推出「EYE年輕創業家計劃」
-    為本港培育年輕創業家打造更有活力的創業文化](http://www.bschool.cuhk.edu.hk/index.php/newsroom/press-release/1708-google-eye)，香港中文大學創業研究中心，2013-12-09。
-2.  [10 HK Startups Emerged from EYE
-    Program](http://entrepreneurhk.org/10-hk-startups-emerged-from-eye-program).
-    EntrepreneurHK. \[2015-07-27\].
-3.  [EYE Program 10 Best Performing Teams at a
-    glance](https://entrepreneurship.bschool.cuhk.edu.hk/eyeprogram2015/10teams).
-    香港中文大學創業研究中心. \[2015-10-28\].
+1.  [Google與香港中文大學聯手推出「EYE年輕創業家計劃」 為本港培育年輕創業家打造更有活力的創業文化](http://www.bschool.cuhk.edu.hk/index.php/newsroom/press-release/1708-google-eye)，香港中文大學創業研究中心，2013-12-09。
+2.  [10 HK Startups Emerged from EYE Program](http://entrepreneurhk.org/10-hk-startups-emerged-from-eye-program). EntrepreneurHK. \[2015-07-27\].
+3.  [EYE Program 10 Best Performing Teams at a glance](https://entrepreneurship.bschool.cuhk.edu.hk/eyeprogram2015/10teams). 香港中文大學創業研究中心. \[2015-10-28\].
 4.  [「EYE年輕創業家計劃」6隊勝出團隊](http://startupbeat.hkej.com/?p=11831)，信報，2014-12-22。

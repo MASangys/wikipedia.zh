@@ -1,5 +1,4 @@
-《**The Magical Teeter
-Totter**》（意思：夢幻蹺蹺板）是[香港歌手](../Page/香港.md "wikilink")[張敬軒和](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")[王菀之合作的一系列演唱會](https://zh.wikipedia.org/wiki/王菀之 "wikilink")。
+《**The Magical Teeter Totter**》（意思：夢幻蹺蹺板）是[香港](../Page/香港.md "wikilink")歌手[張敬軒和](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")[王菀之合作的一系列演唱會](https://zh.wikipedia.org/wiki/王菀之 "wikilink")。
 
 ## 場次
 
@@ -133,18 +132,16 @@ Totter**》（意思：夢幻蹺蹺板）是[香港歌手](../Page/香港.md "wi
 
 ## 專輯
 
-《**The Magical Teeter Totter
-張敬軒·王菀之演唱會**》是香港歌手[張敬軒和](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")[王菀之的](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[現場錄音專輯](../Page/現場專輯.md "wikilink")，由[寰亞唱片和](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")[英皇娛樂於](../Page/英皇娛樂.md "wikilink")2017年4月11日發行，以雙CD加雙[DVD套裝收錄他們於](https://zh.wikipedia.org/wiki/DVD "wikilink")2017年2月16至19日在[紅磡香港體育館演唱的歌曲](../Page/香港體育館.md "wikilink")。\[7\]\[8\]然後，於同年6月3日發行[藍光光碟版本](../Page/藍光光碟.md "wikilink")。\[9\]\[10\]DVD和藍光光碟特別收錄約二十分鐘製作花絮「Making
-Of」。
+《**The Magical Teeter Totter 張敬軒·王菀之演唱會**》是香港歌手[張敬軒和](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")[王菀之的](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[現場錄音專輯](../Page/現場專輯.md "wikilink")，由[寰亞唱片和](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")[英皇娛樂](../Page/英皇娛樂.md "wikilink")於2017年4月11日發行，以雙CD加雙[DVD套裝收錄他們於](https://zh.wikipedia.org/wiki/DVD "wikilink")2017年2月16至19日在[紅磡香港體育館演唱的歌曲](../Page/香港體育館.md "wikilink")。\[7\]\[8\]然後，於同年6月3日發行[藍光光碟](../Page/藍光光碟.md "wikilink")版本。\[9\]\[10\]DVD和藍光光碟特別收錄約二十分鐘製作花絮「Making Of」。
 
 ### 宣傳
 
-2017年4月16日，張敬軒和王菀之出席《The Magical Teeter Totter 演唱會》專輯簽唱會，地點為香港九龍尖沙咀[The
-ONE純零售商場UG](../Page/The_ONE.md "wikilink")2中庭，演唱演唱會主題曲「友誼的小船」。\[11\]\[12\]
+2017年4月16日，張敬軒和王菀之出席《The Magical Teeter Totter 演唱會》專輯簽唱會，地點為香港九龍尖沙咀[The ONE純零售商場UG](../Page/The_ONE.md "wikilink")2中庭，演唱演唱會主題曲「友誼的小船」。\[11\]\[12\]
 
 ### 曲目
 
 出自《The Magical Teeter Totter 張敬軒．王菀之演唱會》專輯內頁。\[13\]
+
 
 ### 發行歷史
 
@@ -181,10 +178,7 @@ ONE純零售商場UG](../Page/The_ONE.md "wikilink")2中庭，演唱演唱會主
 
 ## 參考文獻
 
-[Category:王菀之音樂專輯](https://zh.wikipedia.org/wiki/Category:王菀之音樂專輯 "wikilink")
-[Category:張敬軒音樂專輯](https://zh.wikipedia.org/wiki/Category:張敬軒音樂專輯 "wikilink")
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
-[Category:香港演唱會](https://zh.wikipedia.org/wiki/Category:香港演唱會 "wikilink")
+[Category:王菀之音樂專輯](https://zh.wikipedia.org/wiki/Category:王菀之音樂專輯 "wikilink") [Category:張敬軒音樂專輯](https://zh.wikipedia.org/wiki/Category:張敬軒音樂專輯 "wikilink") [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:香港演唱會](https://zh.wikipedia.org/wiki/Category:香港演唱會 "wikilink")
 
 1.
 

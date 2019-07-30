@@ -1,7 +1,4 @@
-**IO-Link**是將[智能感測器及](https://zh.wikipedia.org/wiki/智能感測器 "wikilink")[执行器連接到自動化系統的](https://zh.wikipedia.org/wiki/执行器 "wikilink")，依照[IEC
-61131-9標準中的Single](../Page/IEC_61131.md "wikilink")-drop digital
-communication interface for small sensors and
-actuators（SDCI）。此規範包括電氣的連接方式以及數位的通訊協定，智能感測器及执行器可以依此和自動化系統互動。
+**IO-Link**是將[智能感測器及](https://zh.wikipedia.org/wiki/智能感測器 "wikilink")[执行器連接到自動化系統的](https://zh.wikipedia.org/wiki/执行器 "wikilink")，依照[IEC 61131-9標準中的Single](../Page/IEC_61131.md "wikilink")-drop digital communication interface for small sensors and actuators（SDCI）。此規範包括電氣的連接方式以及數位的通訊協定，智能感測器及执行器可以依此和自動化系統互動。
 
 IO-Link系統會包括一個IO-Link主站，一台或是多台的IO-Link設備（可能是感測器或是执行器）。IO-Link主站提供介面給上層的控制器（[PLC](../Page/可编程逻辑控制器.md "wikilink")），並且透過通訊控制連接的IO-Link設備。
 
@@ -13,9 +10,7 @@ IO-Link設備可以是智能感測器、動作器或是集線器。在市面上�
 
 ## 設備商的聲明
 
-各設備IO-Link或是SDCI標準的品質是由設備商的聲明來保證的。要準備設備商的聲明，除了CE認證的測試外，還需要依照IO-Link測試規範V1.1版進行測試。測試需要有一個主站以及一個設備。
-目前已有三個可以提供支援的認證中心，其任務是在廠商開發IO-Link設備時提供建議。
-自從2011年7月1日起，已強制IO-Link設備都需要設備商的聲明。
+各設備IO-Link或是SDCI標準的品質是由設備商的聲明來保證的。要準備設備商的聲明，除了CE認證的測試外，還需要依照IO-Link測試規範V1.1版進行測試。測試需要有一個主站以及一個設備。 目前已有三個可以提供支援的認證中心，其任務是在廠商開發IO-Link設備時提供建議。 自從2011年7月1日起，已強制IO-Link設備都需要設備商的聲明。
 
 ## 傳輸方式
 
@@ -23,19 +18,14 @@ IO-Link的訊號電壓是24V，若傳輸失敗了，會重送二次要傳輸的�
 
 ## 來源
 
-  - [Beschreibung von
-    IO-Link](http://www.io-link.com/de/Technologie/IO-Link_im_Durchblick.php)
-    IO-Link組織
+  - [Beschreibung von IO-Link](http://www.io-link.com/de/Technologie/IO-Link_im_Durchblick.php) IO-Link組織
 
 ## 參考資料
 
-  - Peter Wienzek, Joachim R. Uffelmann: *IO-Link. Intelligente Geräte
-    brauchen einfache Schnittstellen* Oldenbourg Industrieverlag,
-    München 2010, ISBN 978-3-8356-3115-1.
+  - Peter Wienzek, Joachim R. Uffelmann: *IO-Link. Intelligente Geräte brauchen einfache Schnittstellen* Oldenbourg Industrieverlag, München 2010, ISBN 978-3-8356-3115-1.
 
 ## 外部連結
 
-  - Digitale Sensorausgänge: [PNP/NPN/PP oder
-    IO-Link?](http://www.ichaus.de/upload/pdf/EInfo_H3_2011_PNP-NPN-PP_oder_IO-Link.pdf)
+  - Digitale Sensorausgänge: [PNP/NPN/PP oder IO-Link?](http://www.ichaus.de/upload/pdf/EInfo_H3_2011_PNP-NPN-PP_oder_IO-Link.pdf)
 
 [分類:网络协议](https://zh.wikipedia.org/wiki/分類:网络协议 "wikilink")

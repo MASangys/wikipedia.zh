@@ -1,18 +1,16 @@
-《**悅音響起**》（），2016年4月11日起，每週一晚間9:00－9:54於[日本](../Page/日本.md "wikilink")[富士電視台播出的](../Page/富士電視台.md "wikilink")[月9連續劇](https://zh.wikipedia.org/wiki/月9 "wikilink")\[1\]，由[福山雅治主演](../Page/福山雅治.md "wikilink")。此劇的編劇為獲得的新銳編劇[倉光泰子](../Page/倉光泰子.md "wikilink")。福山雅治是繼《[破案天才伽利略](https://zh.wikipedia.org/wiki/破案天才伽利略 "wikilink")》之後睽違三年主演月九劇\[2\]\[3\]。
+《**悅音響起**》（），2016年4月11日起，每週一晚間9:00－9:54於[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")播出的[月9連續劇](https://zh.wikipedia.org/wiki/月9 "wikilink")\[1\]，由[福山雅治](../Page/福山雅治.md "wikilink")主演。此劇的編劇為獲得的新銳編劇[倉光泰子](../Page/倉光泰子.md "wikilink")。福山雅治是繼《[破案天才伽利略](https://zh.wikipedia.org/wiki/破案天才伽利略 "wikilink")》之後睽違三年主演月九劇\[2\]\[3\]。
 
 ## 劇情大綱
 
-曾經演唱過人氣歌曲的神代廣平（[福山雅治](../Page/福山雅治.md "wikilink")
-飾）雖一度為音樂界的明日之星，但其後同伴宍户春乃車禍去世,心灰意冷。受挫的神代因而逐漸遠離音樂界，轉行擔任心理諮商師(心理醫生)。
+曾經演唱過人氣歌曲的神代廣平（[福山雅治](../Page/福山雅治.md "wikilink") 飾）雖一度為音樂界的明日之星，但其後同伴宍户春乃車禍去世,心灰意冷。受挫的神代因而逐漸遠離音樂界，轉行擔任心理諮商師(心理醫生)。
 
-20多年後，已邁入40歲的神代雖然吸引了許多女性，卻沒有一位真正能打動心弦的人出現。就在神代自暴自棄之時，遇見了一位在養育院長大、不擅長與人來往的[口吃少女佐野櫻](../Page/口吃.md "wikilink")（[藤原櫻](https://zh.wikipedia.org/wiki/藤原櫻_\(創作歌手\) "wikilink")
-飾）。
+20多年後，已邁入40歲的神代雖然吸引了許多女性，卻沒有一位真正能打動心弦的人出現。就在神代自暴自棄之時，遇見了一位在養育院長大、不擅長與人來往的[口吃](../Page/口吃.md "wikilink")少女佐野櫻（[藤原櫻](https://zh.wikipedia.org/wiki/藤原櫻_\(創作歌手\) "wikilink") 飾）。
 
 神代發現了佐野櫻與生俱來的好歌喉。於是讓神代燃起再度挑戰音樂的念頭……。
 
 ## 製作選角
 
-此部月九劇之女主角由出道一年、未曾有戲劇經驗的[AMUSE新人歌手](https://zh.wikipedia.org/wiki/AMUSE "wikilink")[藤原櫻擔任演出](../Page/藤原櫻.md "wikilink")\[4\]，自約100位試鏡者脫穎而出，而「演唱」能力亦為選角考量之一。但因此劇為愛情劇之設定，藤原櫻與福山雅治26歲的年齡差距，加上兩人隸屬同家經紀公司，亦引起觀眾和媒體在播出前的討論聲浪\[5\]\[6\]。而為了減輕藤原初次演戲之壓力，電視台亦將角色改為與藤原同名的「櫻」\[7\]。
+此部月九劇之女主角由出道一年、未曾有戲劇經驗的[AMUSE新人歌手](https://zh.wikipedia.org/wiki/AMUSE "wikilink")[藤原櫻](../Page/藤原櫻.md "wikilink")擔任演出\[4\]，自約100位試鏡者脫穎而出，而「演唱」能力亦為選角考量之一。但因此劇為愛情劇之設定，藤原櫻與福山雅治26歲的年齡差距，加上兩人隸屬同家經紀公司，亦引起觀眾和媒體在播出前的討論聲浪\[5\]\[6\]。而為了減輕藤原初次演戲之壓力，電視台亦將角色改為與藤原同名的「櫻」\[7\]。
 
 ## 登場人物
 
@@ -281,12 +279,11 @@
 </tbody>
 </table>
 
-  - 註：5月16日播出的第六話及5月23日播出的第七話，以收視率6.8%創下富士電視台史上該時段最低單集收視率紀錄\[12\]。其後，因2017年1月由[西內瑪麗亞主演的](../Page/西內瑪麗亞.md "wikilink")《[也許很突然，明天我要結婚了](https://zh.wikipedia.org/wiki/也許很突然，明天我要結婚了 "wikilink")》第六話僅5.0%，才擺脫單集墊底位置。
+  - 註：5月16日播出的第六話及5月23日播出的第七話，以收視率6.8%創下富士電視台史上該時段最低單集收視率紀錄\[12\]。其後，因2017年1月由[西內瑪麗亞](../Page/西內瑪麗亞.md "wikilink")主演的《[也許很突然，明天我要結婚了](https://zh.wikipedia.org/wiki/也許很突然，明天我要結婚了 "wikilink")》第六話僅5.0%，才擺脫單集墊底位置。
 
 ## 受賞
 
-  - 第4回[CONFiDENCE日劇大獎](../Page/CONFiDENCE日劇大獎.md "wikilink")
-    新人賞（[藤原櫻](../Page/藤原櫻.md "wikilink")）
+  - 第4回[CONFiDENCE日劇大獎](../Page/CONFiDENCE日劇大獎.md "wikilink") 新人賞（[藤原櫻](../Page/藤原櫻.md "wikilink")）
 
 ## 參見條目
 
@@ -303,16 +300,7 @@
   -
 ## 節目變遷
 
-[Category:富士電視台週一晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週一晚間九點連續劇 "wikilink")
-[Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink")
-[Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:音樂家主角題材作品](https://zh.wikipedia.org/wiki/Category:音樂家主角題材作品 "wikilink")
-[Category:流行音樂題材作品](https://zh.wikipedia.org/wiki/Category:流行音樂題材作品 "wikilink")
-[Category:發展障礙題材作品](https://zh.wikipedia.org/wiki/Category:發展障礙題材作品 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
-[Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
-[Category:星空傳媒(台灣)電視外購日劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購日劇 "wikilink")
+[Category:富士電視台週一晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週一晚間九點連續劇 "wikilink") [Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink") [Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:音樂家主角題材作品](https://zh.wikipedia.org/wiki/Category:音樂家主角題材作品 "wikilink") [Category:流行音樂題材作品](https://zh.wikipedia.org/wiki/Category:流行音樂題材作品 "wikilink") [Category:發展障礙題材作品](https://zh.wikipedia.org/wiki/Category:發展障礙題材作品 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink") [Category:星空傳媒(台灣)電視外購日劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購日劇 "wikilink")
 
 1.
 

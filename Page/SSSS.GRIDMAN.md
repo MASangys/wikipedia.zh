@@ -1,7 +1,4 @@
-《**SSSS.GRIDMAN**》為[圓谷製作的特攝作品](../Page/圓谷製作.md "wikilink")《[電光超人古立特](../Page/電光超人古立特.md "wikilink")》的改編動畫\[1\]，由當年於《[日本動畫人展覽會](../Page/日本動畫人展覽會.md "wikilink")》中製作電光超人古立特短篇動畫《電光超人古立特
-boys invent great
-hero》的製作公司[TRIGGER擔任製作](../Page/TRIGGER.md "wikilink")\[2\]，導演則由同作的導演雨宮哲擔任，於2018年6月13日在[Anime
-Expo首映](../Page/Anime_Expo.md "wikilink")，於10月開始播放。
+《**SSSS.GRIDMAN**》為[圓谷製作](../Page/圓谷製作.md "wikilink")的特攝作品《[電光超人古立特](../Page/電光超人古立特.md "wikilink")》的改編動畫\[1\]，由當年於《[日本動畫人展覽會](../Page/日本動畫人展覽會.md "wikilink")》中製作電光超人古立特短篇動畫《電光超人古立特 boys invent great hero》的製作公司[TRIGGER](../Page/TRIGGER.md "wikilink")擔任製作\[2\]，導演則由同作的導演雨宮哲擔任，於2018年6月13日在[Anime Expo首映](../Page/Anime_Expo.md "wikilink")，於10月開始播放。
 
 ## 故事簡介
 
@@ -14,8 +11,7 @@ Expo首映](../Page/Anime_Expo.md "wikilink")，於10月開始播放。
 ### GRIDMAN同盟
 
   -
-    本作主角，能與古立特Access
-    Flash。杜鵑台高中一年E班的高中生，目前是包含自己的名字全都忘記的喪失記憶狀態。父母出差中，獨生子，現階段自己一個人住。
+    本作主角，能與古立特Access Flash。杜鵑台高中一年E班的高中生，目前是包含自己的名字全都忘記的喪失記憶狀態。父母出差中，獨生子，現階段自己一個人住。
     初登場時昏倒在六花家門口，而自己在昏倒前可能對六花說過什麼。喜歡六花，平時眼神會飄到六花身上、注意她的動向，很在意六花對裕太說的「如果你是假裝喪失記憶那可就太差勁了」。
     實際上裕太本身的人格處於完全沉睡的狀態，在此之前都是古立特的意識，古立特必須離開，主人格才會甦醒。但據古立特所言，即使是古立特寄宿在裕太身上，裕太本人對六花的心意也沒有改變。
 
@@ -23,8 +19,7 @@ Expo首映](../Page/Anime_Expo.md "wikilink")，於10月開始播放。
 
   -
     寄宿在六花家的古董電腦(JUNK )中，初登場時因為電腦老舊而只能與裕太對話，經過武士聖劍優化之後已經可以與六花、內海對話。
-    可以自由調整變身大小，最大高度為70公尺，但相對的體型越大，能與裕太維持Access
-    Flash的時間也就越短。與新世紀中學生全員共同作戰時，因為電腦性能老舊跟不上動作而定格，必須縮小輸出才能全員共同出動作戰。
+    可以自由調整變身大小，最大高度為70公尺，但相對的體型越大，能與裕太維持Access Flash的時間也就越短。與新世紀中學生全員共同作戰時，因為電腦性能老舊跟不上動作而定格，必須縮小輸出才能全員共同出動作戰。
     依附在六花家的電腦被六花媽媽定價37249日圓，被新世紀中學生以32049日圓買下後帶到深山去以供裕太與古立特變身。結束後所有人的家裡皆無法放置電腦，或是地理位置不便而決定退貨，再度搬回六花家。
     最終以FIXER光束修復了整個世界，在這個世界任務完成後，帶著剩餘的阿格雷希斯碎片與新世紀中學生們離開這個世界。
 
@@ -45,34 +40,27 @@ Expo首映](../Page/Anime_Expo.md "wikilink")，於10月開始播放。
 支援GRIDMAN的夥伴，可以變身成GRIDMAN的武器或裝備。平時雖然穿著黑西裝，但沒事的時候就會泡在六花家的咖啡吧台，而被六花媽媽問你們都沒有在工作嗎？
 
   -
-    在裕太喪失記憶後時不時出現在裕太附近暗地里保护裕太。腰間後總是掛著四把直刀的神祕西裝男子，但總會忘記自己有掛著刀，常常因此撞到門。真正身分不明，平時都駝著背，說話開頭會結巴，但會協助裕太等人。刀法了得，能夠在裕太等人不注意的時候斬開玻璃瓶以及斬斷落下的鋼樑。Access
-    Code "GRIDMAN CALIBUR"，可變成古立特的裝備，外觀是一把金色聖劍。武士只是名字，並不是職業。
+    在裕太喪失記憶後時不時出現在裕太附近暗地里保护裕太。腰間後總是掛著四把直刀的神祕西裝男子，但總會忘記自己有掛著刀，常常因此撞到門。真正身分不明，平時都駝著背，說話開頭會結巴，但會協助裕太等人。刀法了得，能夠在裕太等人不注意的時候斬開玻璃瓶以及斬斷落下的鋼樑。Access Code "GRIDMAN CALIBUR"，可變成古立特的裝備，外觀是一把金色聖劍。武士只是名字，並不是職業。
     年齡為33歲。家中有養貓，很樂意收留流浪貓。但貓會咬壞電線，拒絕把JUNK安置在自家。
 
 <!-- end list -->
 
   -
-    外表粗曠，會帶著鋼鐵口罩，相當於領袖般的存在，Access Code "BATTLE TRACTO
-    MAX"。外觀是一輛搭載自走砲的卡車，可以與GRIDMAN合體成「剛力合體超人
-    MAX GRIDMAN」。沒合體時本身亦可透過自己的砲管發射加農砲。
+    外表粗曠，會帶著鋼鐵口罩，相當於領袖般的存在，Access Code "BATTLE TRACTO MAX"。外觀是一輛搭載自走砲的卡車，可以與GRIDMAN合體成「剛力合體超人 MAX GRIDMAN」。沒合體時本身亦可透過自己的砲管發射加農砲。
     因為家中的傢俱顏色與JUNK不搭，而拒絕把JUNK安置在自家。看到裕太喜歡六花但卻不太敢行動，嘲諷裕太「真是個拖拖拉拉的傢伙」。在怪獸出現在校外教學地點後，開始思考為什麼怪獸總是出現在裕太等人身邊。
     名字出自美版的戰車天龍號（Tracto）
 
 <!-- end list -->
 
   -
-    外表像是一般的中年上班族。Access Code "SKY VITTER"。外觀是戰機，可以與GRIDMAN合體成「大空合體超人 SKY
-    GRIDMAN」。安奇在使出與BUSTER GRIDMAN的BUSTER
-    GRID飛彈相似的技能之後，很平淡地說出「波拉的飛彈被抄走了」。
+    外表像是一般的中年上班族。Access Code "SKY VITTER"。外觀是戰機，可以與GRIDMAN合體成「大空合體超人 SKY GRIDMAN」。安奇在使出與BUSTER GRIDMAN的BUSTER GRID飛彈相似的技能之後，很平淡地說出「波拉的飛彈被抄走了」。
     家中有養熱帶魚，因此家裡用電量非常高，拒絕把JUNK安置在自家。
     名字出自美版的噴射機鳳凰號（Vitor）
 
 <!-- end list -->
 
   -
-    穿著一身黑衣男裝的支援者。幼兒體型的雙馬尾。外表矮小，說話時有著與可愛外表呈現反差的粗魯語氣。Access Code "BUSTER
-    BORR"。外觀是裝備鑽頭的履帶戰車，本身亦可發射飛彈，可以與GRIDMAN合體成「武装合體超人 BUSTER
-    GRIDMAN」，可以釋放無限飛彈，著重於高火力攻擊。
+    穿著一身黑衣男裝的支援者。幼兒體型的雙馬尾。外表矮小，說話時有著與可愛外表呈現反差的粗魯語氣。Access Code "BUSTER BORR"。外觀是裝備鑽頭的履帶戰車，本身亦可發射飛彈，可以與GRIDMAN合體成「武装合體超人 BUSTER GRIDMAN」，可以釋放無限飛彈，著重於高火力攻擊。
     直接拒絕把JUNK安置在自家。在看到六花對沒接裕太電話的事情道歉後跑走躲起來，直接評價六花「真是有夠麻煩的女人」。
     名字出自美版的鑽地車毒蛇號（Borr）
 
@@ -87,23 +75,19 @@ Expo首映](../Page/Anime_Expo.md "wikilink")，於10月開始播放。
 
   -
     茜房間的螢幕中出現的神祕人物，擁有讓茜製作的怪獸模型實體化的能力，而在怪獸被打敗之後的隔天，城市會復原，像是完全沒有經過破壞一樣，有關怪獸的影片與新聞都會被一併抹除，一般人的記憶會改寫。在怪獸襲擊中死亡的人不會復活，會被改寫成提前在數年前死亡，或是根本沒有這個人。
-    實際上是擁有無限生命的存在，缺乏死亡的概念;
-    會不斷在不同"世界"中找尋像新條茜這樣擁有強烈負面情感的人類，將其吞噬後填補自己內心因無限生命所帶來的空虛感。最後被完全體的GRIDMAN所擊敗並被封印後帶離杜鵑台。
+    實際上是擁有無限生命的存在，缺乏死亡的概念; 會不斷在不同"世界"中找尋像新條茜這樣擁有強烈負面情感的人類，將其吞噬後填補自己內心因無限生命所帶來的空虛感。最後被完全體的GRIDMAN所擊敗並被封印後帶離杜鵑台。
 
 <!-- end list -->
 
   -
     具有高度智慧、能獨立思考的怪獸，平常的外表是個小男孩的樣子，能言語對話，食量驚人，接收到茜的命令之後會變身成怪獸，異常的敵視GRIDMAN。聲稱自己是為了打倒GRIDMAN而生，而拒絕茜委託想殺死人類的要求。可以變身成怪獸ANTI。能力基本上高於GRIDMAN，能複製對手的招式、出拳，並且利用本身高速移動的優勢壓制沒有裝備支援的GRIDMAN。與GRIDMAN一樣，變身同樣有時間限制，時間限制快到達時，頭頂一樣會發出閃燈。
-    初次與GRIDMAN對打時，因為裕太的迷惘而單方面將GRIDMAN壓制，並造成GRIDMAN進入休眠。後來再次對戰時被裝備BATTLE
-    TRUCK
-    MAX的GRIDMAN打到能量耗盡，變回人形後昏倒，在敗給GRIDMAN事後茜不滿敗北的結果而將便當直接砸在安奇頭上。動畫第4集因為安奇和古立特的出現阻擋了茜的怪獸殺死Arcadia團體最後一位成員的大和，之後讓茜覺得噁心的大和又打來，茜氣而把手機往安奇臉上砸了過去。茜在深山召喚怪獸之後反而造成自己移動困難時，安奇主動揹著茜走出深山，並把自己的圍巾給茜披著，但被茜嫌臭。
+    初次與GRIDMAN對打時，因為裕太的迷惘而單方面將GRIDMAN壓制，並造成GRIDMAN進入休眠。後來再次對戰時被裝備BATTLE TRUCK MAX的GRIDMAN打到能量耗盡，變回人形後昏倒，在敗給GRIDMAN事後茜不滿敗北的結果而將便當直接砸在安奇頭上。動畫第4集因為安奇和古立特的出現阻擋了茜的怪獸殺死Arcadia團體最後一位成員的大和，之後讓茜覺得噁心的大和又打來，茜氣而把手機往安奇臉上砸了過去。茜在深山召喚怪獸之後反而造成自己移動困難時，安奇主動揹著茜走出深山，並把自己的圍巾給茜披著，但被茜嫌臭。
     被茜正式丟棄並被亞雷克希斯砍傷右眼，之後受到新世紀中學生及六花家等人的幫助脫離困境尋找生命的意義，後來成為守護古立特的騎士-。
 
 ### 其他人物
 
   -
-    在自家一樓經營店面(絢 JUNK
-    SHOP)，擺放許多老舊的商品，客人鮮少甚至是沒有，同時也是一間咖啡廳。常常很隨興的跑出去並要求六花在家看店。因為與女兒鬥嘴晚餐吃冷的，而被裕太誇六花家的感情很好。
+    在自家一樓經營店面(絢 JUNK SHOP)，擺放許多老舊的商品，客人鮮少甚至是沒有，同時也是一間咖啡廳。常常很隨興的跑出去並要求六花在家看店。因為與女兒鬥嘴晚餐吃冷的，而被裕太誇六花家的感情很好。
 
 <!-- end list -->
 
@@ -181,20 +165,13 @@ Expo首映](../Page/Anime_Expo.md "wikilink")，於10月開始播放。
   - 音響監督：[龜山俊樹](../Page/龜山俊樹.md "wikilink")
   - 音樂製作：[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")
   - 動畫製作：[TRIGGER](../Page/TRIGGER.md "wikilink")
-  - 製作：[圓谷製作](../Page/圓谷製作.md "wikilink")、FIELDS
-    CORPORATION、波麗佳音、[DOCOMO動畫商城](https://zh.wikipedia.org/wiki/DOCOMO動畫商城 "wikilink")、[MBS](https://zh.wikipedia.org/wiki/MBS "wikilink")、Ultra
-    Super
-    Pictures、KlockWorx、[BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")
+  - 製作：[圓谷製作](../Page/圓谷製作.md "wikilink")、FIELDS CORPORATION、波麗佳音、[DOCOMO動畫商城](https://zh.wikipedia.org/wiki/DOCOMO動畫商城 "wikilink")、[MBS](https://zh.wikipedia.org/wiki/MBS "wikilink")、Ultra Super Pictures、KlockWorx、[BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")
 
 ### 动画制作
 
-2015年，导演[雨宮哲在](../Page/雨宮哲.md "wikilink")《[日本動畫人展覽會](../Page/日本動畫人展覽會.md "wikilink")》中制作了《[電光超人古立特](../Page/電光超人古立特.md "wikilink")》的短篇动画《電光超人古立特
-boys invent great
-hero》。最初导演是希望把《奥特曼》给动画化，然而[圓谷製作方面的回复是希望能够改编其他作品](../Page/圓谷製作.md "wikilink")，于是就拿了《電光超人古立特》的授权。制作完短篇后，雨宫哲希望能与圓谷製作有更进一步的合作，于是有了本作。\[4\]
+2015年，导演[雨宮哲](../Page/雨宮哲.md "wikilink")在《[日本動畫人展覽會](../Page/日本動畫人展覽會.md "wikilink")》中制作了《[電光超人古立特](../Page/電光超人古立特.md "wikilink")》的短篇动画《電光超人古立特 boys invent great hero》。最初导演是希望把《奥特曼》给动画化，然而[圓谷製作](../Page/圓谷製作.md "wikilink")方面的回复是希望能够改编其他作品，于是就拿了《電光超人古立特》的授权。制作完短篇后，雨宫哲希望能与圓谷製作有更进一步的合作，于是有了本作。\[4\]
 
-《SSSS.GRIDMAN》中的「SSSS」除了致敬自美版古立特的标题《[Superhuman Samurai
-Syber-Squad](../Page/電光超人.md "wikilink")》，劇中也顯示了SSSS另一個縮寫Special
-Signature to Save a Soul (拯救靈魂的特別署名)。
+《SSSS.GRIDMAN》中的「SSSS」除了致敬自美版古立特的标题《[Superhuman Samurai Syber-Squad](../Page/電光超人.md "wikilink")》，劇中也顯示了SSSS另一個縮寫Special Signature to Save a Soul (拯救靈魂的特別署名)。
 
 三位角色名稱「響裕太」「新条アカネ」「アレクシス・ケリヴ」以及地名ツツジ台(杜鵑台)出自續集廢案「電撃超人グリッドマンF（ファイター）」
 
@@ -496,7 +473,7 @@ HAPPY!動画、MBS動画イズム</p></td>
 
 ### 銷量
 
-BD發售第一週，以7115張在[Oricon公信榜排行當季動畫第二名](../Page/Oricon公信榜.md "wikilink")\[10\]。
+BD發售第一週，以7115張在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")排行當季動畫第二名\[10\]。
 
 ## 參考資料
 
@@ -513,12 +490,7 @@ BD發售第一週，以7115張在[Oricon公信榜排行當季動畫第二名](..
   - [電視動畫「SSSS.GRIDMAN」巴哈姆特動畫瘋正版播出專頁](https://ani.gamer.com.tw/animeVideo.php?sn=11317)
 
   -
-[Category:怪兽题材作品](https://zh.wikipedia.org/wiki/Category:怪兽题材作品 "wikilink")
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
-[Category:每日放送深夜動畫](https://zh.wikipedia.org/wiki/Category:每日放送深夜動畫 "wikilink")
-[Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink")
+[Category:怪兽题材作品](https://zh.wikipedia.org/wiki/Category:怪兽题材作品 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink") [Category:每日放送深夜動畫](https://zh.wikipedia.org/wiki/Category:每日放送深夜動畫 "wikilink") [Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink")
 
 1.
 
@@ -527,8 +499,7 @@ BD發售第一週，以7115張在[Oricon公信榜排行當季動畫第二名](..
 3.
 4.
     （有节选）
-    （编辑）监督雨宫哲×脚本长谷川圭一谈《SSSS.GRIDMAN》的制作秘话（[上](http://www.anitama.cn/article/8afeb1e3696d0a8a)、[下](http://www.anitama.cn/article/68729ae9e9e5b20c)）.
-    Anitama
+    （编辑）监督雨宫哲×脚本长谷川圭一谈《SSSS.GRIDMAN》的制作秘话（[上](http://www.anitama.cn/article/8afeb1e3696d0a8a)、[下](http://www.anitama.cn/article/68729ae9e9e5b20c)）. Anitama
 
 5.
 

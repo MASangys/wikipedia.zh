@@ -1,6 +1,6 @@
-**FASTQ格式**是一种保存生物序列（通常为[核酸序列](../Page/核酸序列.md "wikilink")）及其测序质量得分信息的文本[格式](https://zh.wikipedia.org/wiki/文件格式 "wikilink")。序列与质量得分皆由单个[ASCII字符表示](../Page/ASCII.md "wikilink")。
+**FASTQ格式**是一种保存生物序列（通常为[核酸序列](../Page/核酸序列.md "wikilink")）及其测序质量得分信息的文本[格式](https://zh.wikipedia.org/wiki/文件格式 "wikilink")。序列与质量得分皆由单个[ASCII](../Page/ASCII.md "wikilink")字符表示。
 
-该格式最初由开发，旨在将[FASTA格式序列及其质量数据整合在一起](../Page/FASTA格式.md "wikilink")。而目前，FASTQ格式已经成为了保存[高通量测序结果的事实标准](https://zh.wikipedia.org/wiki/高通量测序 "wikilink")。\[1\]
+该格式最初由开发，旨在将[FASTA格式](../Page/FASTA格式.md "wikilink")序列及其质量数据整合在一起。而目前，FASTQ格式已经成为了保存[高通量测序结果的事实标准](https://zh.wikipedia.org/wiki/高通量测序 "wikilink")。\[1\]
 
 ## 格式
 
@@ -32,7 +32,6 @@ FASTQ文件中，一个序列通常由四行组成：
 
 ## 参考文献
 
-[Category:生物信息学](https://zh.wikipedia.org/wiki/Category:生物信息学 "wikilink")
-[Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink")
+[Category:生物信息学](https://zh.wikipedia.org/wiki/Category:生物信息学 "wikilink") [Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink")
 
 1.

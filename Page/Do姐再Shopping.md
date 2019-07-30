@@ -1,5 +1,4 @@
-《**Do姐再Shopping**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的真人秀節目](../Page/電視廣播有限公司.md "wikilink")，亦是監製[周子妮節目系列之一](https://zh.wikipedia.org/wiki/周子妮 "wikilink")，全節目共15集，由[鄭裕玲](../Page/鄭裕玲.md "wikilink")、[農夫擔任主持](../Page/農夫_\(組合\).md "wikilink")，本節目於2017年11月27日起[香港時間逢星期一至五](../Page/香港時間.md "wikilink")22:30－23:00在[翡翠台播出](../Page/翡翠台.md "wikilink")，及於[myTV
-SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除）\[1\]\[2\]\[3\]\[4\]。亦為無綫電視50週年9部「[台慶獻禮](https://zh.wikipedia.org/wiki/無綫電視台慶相關活動#台慶鉅獻／台慶獻禮 "wikilink")」之一。
+《**Do姐再Shopping**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的真人秀節目，亦是監製[周子妮節目系列之一](https://zh.wikipedia.org/wiki/周子妮 "wikilink")，全節目共15集，由[鄭裕玲](../Page/鄭裕玲.md "wikilink")、[農夫擔任主持](../Page/農夫_\(組合\).md "wikilink")，本節目於2017年11月27日起[香港時間](../Page/香港時間.md "wikilink")逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出，及於[myTV SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除）\[1\]\[2\]\[3\]\[4\]。亦為無綫電視50週年9部「[台慶獻禮](https://zh.wikipedia.org/wiki/無綫電視台慶相關活動#台慶鉅獻／台慶獻禮 "wikilink")」之一。
 
 ## 每集主題
 
@@ -110,7 +109,7 @@ SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilin
 
 ## 收視
 
-以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台之收視紀錄](../Page/翡翠台.md "wikilink")：
+以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")之收視紀錄：
 
 | 週次 | 集數    | 日期                 | 平均收視  |
 | -- | ----- | ------------------ | ----- |
@@ -121,7 +120,7 @@ SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilin
 
 ## 軼事
 
-  - [鄭裕玲於第一集訪問](../Page/鄭裕玲.md "wikilink")[朴敘俊](../Page/朴敘俊.md "wikilink")\[5\]
+  - [鄭裕玲](../Page/鄭裕玲.md "wikilink")於第一集訪問[朴敘俊](../Page/朴敘俊.md "wikilink")\[5\]
 
 ## 獎項
 
@@ -134,23 +133,16 @@ SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilin
 
 ## 外部連結
 
-  - [無綫電視節目網頁 -
-    Do姐再Shopping](http://programme.tvb.com/foodandtravel/dodogoesshoppingsr2)
-  - [Do姐再Shopping - 節目介紹 - encoreTVB
-    官方網站](http://www.encoretvb.com/cantonese/series/znaJReoU-DoDo_Goes_Shopping_Sr.2)
+  - [無綫電視節目網頁 - Do姐再Shopping](http://programme.tvb.com/foodandtravel/dodogoesshoppingsr2)
+  - [Do姐再Shopping - 節目介紹 - encoreTVB 官方網站](http://www.encoretvb.com/cantonese/series/znaJReoU-DoDo_Goes_Shopping_Sr.2)
 
 ## 電視節目的變遷
 
-[Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink")
-[Category:無綫電視旅遊節目](https://zh.wikipedia.org/wiki/Category:無綫電視旅遊節目 "wikilink")
-[Category:無綫電視台慶節目](https://zh.wikipedia.org/wiki/Category:無綫電視台慶節目 "wikilink")
+[Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink") [Category:無綫電視旅遊節目](https://zh.wikipedia.org/wiki/Category:無綫電視旅遊節目 "wikilink") [Category:無綫電視台慶節目](https://zh.wikipedia.org/wiki/Category:無綫電視台慶節目 "wikilink")
 
 1.  [【Do姐再shopping】黃翠如農夫狂晒北海道靚相](http://sina.com.hk/news/article/20170628/0/3/53/Do%E5%A7%90%E5%86%8Dshopping-%E9%BB%83%E7%BF%A0%E5%A6%82%E8%BE%B2%E5%A4%AB%E7%8B%82%E6%99%92%E5%8C%97%E6%B5%B7%E9%81%93%E9%9D%9A%E7%9B%B8-7613522.html)
-2.  [猛男陪歐遊Shopping
-    鄭裕玲同蕭正楠好好傾](https://news.mingpao.com/ins/instantnews/web_tc/article/20170926/s00007/1506433447062)
+2.  [猛男陪歐遊Shopping 鄭裕玲同蕭正楠好好傾](https://news.mingpao.com/ins/instantnews/web_tc/article/20170926/s00007/1506433447062)
 3.  [蕭正楠農夫唱台慶生日歌賀嘟姐「登六」](http://hk.on.cc/hk/bkn/cnt/entertainment/20170915/bkn-20170915024502451-0915_00862_001.html)
 4.  [C君出手！影到鄭裕玲有少女味](http://hk.on.cc/hk/bkn/cnt/entertainment/20170820/bkn-20170820090050667-0820_00862_001.html)
-5.  [俾Oppa冧到暈 嘟姐攬實「男友
-    」朴叙俊合影](https://hk.celebrity.yahoo.com/%E4%BF%BEoppa%E5%86%A7%E5%88%B0%E6%9A%88-%E5%98%9F%E5%A7%90%E6%94%AC%E5%AF%A6-%E7%94%B7%E5%8F%8B-%E6%9C%B4%E5%8F%99%E4%BF%8A%E5%90%88%E5%BD%B1-075900172.html)
-6.  [第2屆
-    觀眾在民間電視大奬奬果](https://www.facebook.com/fongeman/posts/1706975109366527)
+5.  [俾Oppa冧到暈 嘟姐攬實「男友 」朴叙俊合影](https://hk.celebrity.yahoo.com/%E4%BF%BEoppa%E5%86%A7%E5%88%B0%E6%9A%88-%E5%98%9F%E5%A7%90%E6%94%AC%E5%AF%A6-%E7%94%B7%E5%8F%8B-%E6%9C%B4%E5%8F%99%E4%BF%8A%E5%90%88%E5%BD%B1-075900172.html)
+6.  [第2屆 觀眾在民間電視大奬奬果](https://www.facebook.com/fongeman/posts/1706975109366527)

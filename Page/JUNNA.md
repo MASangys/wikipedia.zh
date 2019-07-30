@@ -1,4 +1,4 @@
-**JUNNA**（，本名：境純菜）是日本的女[歌手](../Page/歌手.md "wikilink")，[愛知縣出身](../Page/愛知縣.md "wikilink")。
+**JUNNA**（，本名：境純菜）是日本的女[歌手](../Page/歌手.md "wikilink")，[愛知縣](../Page/愛知縣.md "wikilink")出身。
 
 ## 人物
 
@@ -35,8 +35,8 @@
 | -------- | ------------------------------------------------------------------------------------------------ | ----- |
 | Here     | 動畫『[魔法使的新娘](../Page/魔法使的新娘.md "wikilink")』片頭曲                                                    | 2017年 |
 | 紅く、絶望の花。 | 動畫『[LORD of VERMILION 紅蓮之王](https://zh.wikipedia.org/wiki/LORD_of_VERMILION_紅蓮之王 "wikilink")』片尾曲 | 2018年 |
-| コノユビトマレ  | 動畫『[狂賭之淵××](../Page/狂賭之淵.md "wikilink")』片頭曲                                                      | 2019年 |
-| イルイミ     | 動畫『[妖怪人間貝姆(BEM)](../Page/妖怪人間貝姆.md "wikilink")』片尾曲                                               |       |
+| コノユビトマレ  | 動畫『[狂賭之淵](../Page/狂賭之淵.md "wikilink")××』片頭曲                                                      | 2019年 |
+| イルイミ     | 動畫『[妖怪人間貝姆](../Page/妖怪人間貝姆.md "wikilink")(BEM)』片尾曲                                               |       |
 
 ### 參加作品
 
@@ -199,9 +199,7 @@
   -
   - [經紀公司介紹網頁](http://www.cubeinc.co.jp/members/prf/098.html)（日文）
 
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:名古屋市出身人物](https://zh.wikipedia.org/wiki/Category:名古屋市出身人物 "wikilink")
-[Category:Flying_DOG旗下藝人](https://zh.wikipedia.org/wiki/Category:Flying_DOG旗下藝人 "wikilink")
+[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:名古屋市出身人物](https://zh.wikipedia.org/wiki/Category:名古屋市出身人物 "wikilink") [Category:Flying_DOG旗下藝人](https://zh.wikipedia.org/wiki/Category:Flying_DOG旗下藝人 "wikilink")
 
 1.  美雲Δ**JUNNA**、フレイアΔ[鈴木實里](../Page/鈴木實里.md "wikilink")、カナメΔ[安野希世乃](../Page/安野希世乃.md "wikilink")、レイナΔ[東山奈央](../Page/東山奈央.md "wikilink")、マキナΔ[西田望見](../Page/西田望見.md "wikilink")。
 

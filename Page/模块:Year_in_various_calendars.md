@@ -1,14 +1,6 @@
-\-- Load dependencies. local getArgs =
-require('Module:Arguments').getArgs local numToRoman = require(
-'Module:Roman' ).main local getOlympiad = require( 'Module:Ancient
-Olympiads' )._main local getDynasty = require( 'Module:Ancient Egypt
-era' )._main local getPharaoh = require( 'Module:Ancient Egypt kings'
-)._main local numToArmenian = require( 'Module:Armenian' ).main local
-getRegnal = require( 'Module:British regnal year' ).main local
-japaneseEra = require( 'Module:Japanese calendar' ).era()
+\-- Load dependencies. local getArgs = require('Module:Arguments').getArgs local numToRoman = require( 'Module:Roman' ).main local getOlympiad = require( 'Module:Ancient Olympiads' )._main local getDynasty = require( 'Module:Ancient Egypt era' )._main local getPharaoh = require( 'Module:Ancient Egypt kings' )._main local numToArmenian = require( 'Module:Armenian' ).main local getRegnal = require( 'Module:British regnal year' ).main local japaneseEra = require( 'Module:Japanese calendar' ).era()
 
-\-- Define constants. local lang = mw.language.getContentLanguage()
-local currentYear = tonumber( lang:formatDate( 'Y' ) )
+\-- Define constants. local lang = mw.language.getContentLanguage() local currentYear = tonumber( lang:formatDate( 'Y' ) )
 
 -----
 
@@ -172,10 +164,7 @@ function calendarBox:addCalendar( obj )
 
 end
 
-\-- Add an alias for adding calendar groups. The function is the same,
-but it might be confusing for users -- to have to use the name
-"addCalendar" for a calendar group. calendarBox.addCalendarGroup =
-calendarBox.addCalendar
+\-- Add an alias for adding calendar groups. The function is the same, but it might be confusing for users -- to have to use the name "addCalendar" for a calendar group. calendarBox.addCalendarGroup = calendarBox.addCalendar
 
 function calendarBox:export()
 
@@ -235,10 +224,7 @@ end
 
 -----
 
-\-- Calendar groups are used to group different calendars together. --
-Previously, the template did this by including a table row with -- no
-year value. By using objects we can do the same thing more --
-semantically.
+\-- Calendar groups are used to group different calendars together. -- Previously, the template did this by including a table row with -- no year value. By using objects we can do the same thing more -- semantically.
 
 local calendarGroup = {} calendarGroup.__index = calendarGroup
 
@@ -303,8 +289,7 @@ end
 
 -----
 
-local calendar = {} calendar.__index = calendar calendar.type =
-'calendar'
+local calendar = {} calendar.__index = calendar calendar.type = 'calendar'
 
 function calendar:new()
 
@@ -645,8 +630,7 @@ local function makeCalendarBox( args )
 `   chinese:setLink( '农历' )`
 
 `   -- Define the information for the "heavenly stems" and "earthly branches" year cycles.`
-`   -- See `[`Chinese``   ``calendar#Cycle``   ``of``
- ``years`](https://zh.wikipedia.org/wiki/Chinese_calendar#Cycle_of_years "wikilink")` for information.`
+`   -- See `[`Chinese``   ``calendar#Cycle``   ``of``   ``years`](https://zh.wikipedia.org/wiki/Chinese_calendar#Cycle_of_years "wikilink")` for information.`
 
 `   local heavenlyStems = {`
 `       { '甲', '木' },   -- 1`
@@ -677,8 +661,7 @@ local function makeCalendarBox( args )
 `   }`
 
 `   -- Calculate the cycle numbers from the year. The first sexagenary year corresponds to the `*`previous`*` year's entry`
-`   -- in `[`Chinese``   ``calendar``   ``correspondence``
- ``table`](https://zh.wikipedia.org/wiki/Chinese_calendar_correspondence_table "wikilink")`, as the Chinese New Year doesn't happen until Jan/Feb in`
+`   -- in `[`Chinese``   ``calendar``   ``correspondence``   ``table`](https://zh.wikipedia.org/wiki/Chinese_calendar_correspondence_table "wikilink")`, as the Chinese New Year doesn't happen until Jan/Feb in`
 `   -- Gregorian years.`
 `   local sexagenaryYear1 = ( year - 4 ) % 60`
 `   local sexagenaryYear2 = ( year - 3 ) % 60`
@@ -693,9 +676,7 @@ local function makeCalendarBox( args )
 `   local earthlyTable1 = earthlyBranches[ earthlyNum1 ]`
 `   local earthlyTable2 = earthlyBranches[ earthlyNum2 ]`
 
-`   -- Work out the continously-numbered year. (See `[`Chinese``
- ``calendar#Continuously``   ``numbered``
- ``years`](https://zh.wikipedia.org/wiki/Chinese_calendar#Continuously_numbered_years "wikilink")`.)`
+`   -- Work out the continously-numbered year. (See `[`Chinese``   ``calendar#Continuously``   ``numbered``   ``years`](https://zh.wikipedia.org/wiki/Chinese_calendar#Continuously_numbered_years "wikilink")`.)`
 `   local year1 = year + 2696`
 `   local year2 = year + 2697`
 `   local year1Alt = year1 - 60`
@@ -992,8 +973,7 @@ local function makeCalendarBox( args )
 `   else -- if year >= 1912 or year <= 1887 -- year started in March/April`
 `       thai:setYearRange( year + 542, year + 543 )`
 `   -- else -- Rattanakosin Era, 1888?-1912`
-`   --          thai:setYear( string.format( '%d  – %d `<small>`(`[`Rattanakosin``
- ``Era`](https://zh.wikipedia.org/wiki/Rattanakosin_Kingdom "wikilink")`)`</small>`', year - 1782 , year - 1781 ) )`
+`   --          thai:setYear( string.format( '%d  – %d `<small>`(`[`Rattanakosin``   ``Era`](https://zh.wikipedia.org/wiki/Rattanakosin_Kingdom "wikilink")`)`</small>`', year - 1782 , year - 1781 ) )`
 `   end`
 `   box:addCalendar( thai )`
 
@@ -1005,8 +985,7 @@ local function makeCalendarBox( args )
 `   tibetan:setLink( '藏历' )`
 
 `   -- Define the information for the "heavenly stems" and "earthly branches" year cycles.`
-`   -- See `[`Tibetan``
- ``calendar#Years`](https://zh.wikipedia.org/wiki/Tibetan_calendar#Years "wikilink")` for information.`
+`   -- See `[`Tibetan``   ``calendar#Years`](https://zh.wikipedia.org/wiki/Tibetan_calendar#Years "wikilink")` for information.`
 
 `   local heavenlyStems = {`
 `       { '阳木', '阳木' },   -- 1`
@@ -1037,8 +1016,7 @@ local function makeCalendarBox( args )
 `   }`
 
 `   -- Calculate the cycle numbers from the year. The first sexagenary year corresponds to the `*`previous`*` year's entry`
-`   -- in `[`Tibetan``   ``calendar``   ``correspondence``
- ``table`](https://zh.wikipedia.org/wiki/Tibetan_calendar_correspondence_table "wikilink")`, as the Tibetan New Year doesn't happen until Feb/Mar in`
+`   -- in `[`Tibetan``   ``calendar``   ``correspondence``   ``table`](https://zh.wikipedia.org/wiki/Tibetan_calendar_correspondence_table "wikilink")`, as the Tibetan New Year doesn't happen until Feb/Mar in`
 `   -- Gregorian years.`
 `   local sexagenaryYear1 = ( year - 4 ) % 60`
 `   local sexagenaryYear2 = ( year - 3 ) % 60`
@@ -1053,9 +1031,7 @@ local function makeCalendarBox( args )
 `   local earthlyTable1 = earthlyBranches[ earthlyNum1 ]`
 `   local earthlyTable2 = earthlyBranches[ earthlyNum2 ]`
 
-`   -- Work out the continously-numbered year. (See `[`Tibetan``
- ``calendar#Years``   ``with``   ``cardinal``
- ``numbers`](https://zh.wikipedia.org/wiki/Tibetan_calendar#Years_with_cardinal_numbers "wikilink")`.)`
+`   -- Work out the continously-numbered year. (See `[`Tibetan``   ``calendar#Years``   ``with``   ``cardinal``   ``numbers`](https://zh.wikipedia.org/wiki/Tibetan_calendar#Years_with_cardinal_numbers "wikilink")`.)`
 `   local year1 = year + 126`
 `   local year2 = year + 127`
 `   local year1Alt1 = year1 - 381`

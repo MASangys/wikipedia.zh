@@ -1,8 +1,4 @@
-local mHatnote = require('Module:Hatnote') local mHatlist =
-require('Module:Hatnote list') local mArguments --initialize lazily
-local mTableTools --initialize lazily local libraryUtil =
-require('libraryUtil') local checkType = libraryUtil.checkType local p =
-{}
+local mHatnote = require('Module:Hatnote') local mHatlist = require('Module:Hatnote list') local mArguments --initialize lazily local mTableTools --initialize lazily local libraryUtil = require('libraryUtil') local checkType = libraryUtil.checkType local p = {}
 
 \-- Produces standard  implementation function p.otheruses(frame)
 
@@ -14,8 +10,7 @@ require('libraryUtil') local checkType = libraryUtil.checkType local p =
 
 end
 
-\--Implements "other \[x\]" templates with otherText supplied at
-invocation function p.otherX(frame)
+\--Implements "other \[x\]" templates with otherText supplied at invocation function p.otherX(frame)
 
 `   mArguments = require('Module:Arguments')`
 `   mTableTools = require('Module:TableTools')`

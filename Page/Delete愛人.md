@@ -1,9 +1,8 @@
-又名《百變愛人》，是一部由[葉念琛執導的愛情喜劇](../Page/葉念琛.md "wikilink")。影片講述蘇波榮（[王祖藍飾](../Page/王祖藍.md "wikilink")）被種種不如意的事情包圍，直到一天，他收到一個短訊，人生自此改變。\[1\]\[2\]
+又名《百變愛人》，是一部由[葉念琛](../Page/葉念琛.md "wikilink")執導的愛情喜劇。影片講述蘇波榮（[王祖藍](../Page/王祖藍.md "wikilink")飾）被種種不如意的事情包圍，直到一天，他收到一個短訊，人生自此改變。\[1\]\[2\]
 
 ## 劇情
 
-蘇波榮（[王祖藍飾](../Page/王祖藍.md "wikilink")）生活不如意，因他有個縮骨（[吝嗇](https://zh.wikipedia.org/wiki/吝嗇 "wikilink")）的衰老闆馬上發（[許冠文飾](../Page/許冠文.md "wikilink")），只顧榨盡兒子身上錢財的母親蘇太（[元秋飾](../Page/元秋.md "wikilink")）和阿妹蘇依時（[莊思敏](../Page/莊思敏.md "wikilink")
-飾），整天撞板的損友華Dee（[方力申飾](../Page/方力申.md "wikilink")）和文靜內向的賢淑女友鍾家寶（[王菀之飾](https://zh.wikipedia.org/wiki/王菀之 "wikilink")）。但榮的命運在他33歲生日那天發生了變化，他忽然擁有一種超能力，能將所有不喜歡的人從生命中刪除(delete)，搖身一變成為只喜歡自己、崇拜自己和服從自己的人。
+蘇波榮（[王祖藍](../Page/王祖藍.md "wikilink")飾）生活不如意，因他有個縮骨（[吝嗇](https://zh.wikipedia.org/wiki/吝嗇 "wikilink")）的衰老闆馬上發（[許冠文](../Page/許冠文.md "wikilink")飾），只顧榨盡兒子身上錢財的母親蘇太（[元秋](../Page/元秋.md "wikilink")飾）和阿妹蘇依時（[莊思敏](../Page/莊思敏.md "wikilink") 飾），整天撞板的損友華Dee（[方力申](../Page/方力申.md "wikilink")飾）和文靜內向的賢淑女友鍾家寶（[王菀之飾](https://zh.wikipedia.org/wiki/王菀之 "wikilink")）。但榮的命運在他33歲生日那天發生了變化，他忽然擁有一種超能力，能將所有不喜歡的人從生命中刪除(delete)，搖身一變成為只喜歡自己、崇拜自己和服從自己的人。
 
 ## 演員表
 
@@ -279,9 +278,7 @@
 ## 外部連結
 
   -
-  - Delete My Love
-    (2014)，[](http://www.hkmdb.com/db/movies/view.mhtml?id=16864&display_set=eng)、[](http://www.hkmdb.com/db/movies/view.mhtml?id=16864&display_set=big5)
-    - 香港影庫
+  - Delete My Love (2014)，[](http://www.hkmdb.com/db/movies/view.mhtml?id=16864&display_set=eng)、[](http://www.hkmdb.com/db/movies/view.mhtml?id=16864&display_set=big5) - 香港影庫
 
 [Category:2014年香港電影](https://zh.wikipedia.org/wiki/Category:2014年香港電影 "wikilink")
 

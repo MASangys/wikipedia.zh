@@ -50,8 +50,7 @@ void encrypt(uint64_t ct[2],
 
 ## 参考文献
 
-[Category:分组密码](https://zh.wikipedia.org/wiki/Category:分组密码 "wikilink")
-[Category:美国国家安全局密码](https://zh.wikipedia.org/wiki/Category:美国国家安全局密码 "wikilink")
+[Category:分组密码](https://zh.wikipedia.org/wiki/Category:分组密码 "wikilink") [Category:美国国家安全局密码](https://zh.wikipedia.org/wiki/Category:美国国家安全局密码 "wikilink")
 
 1.
 

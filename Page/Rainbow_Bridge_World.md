@@ -1,9 +1,4 @@
-**Rainbow Bridge
-World**，簡稱RBW，是一間[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，由3位作曲家(Kim
-Do Hoon)、黃成鎮(Hwang Sung Jin)與金鎮宇(Kim Jin Woo)共同成立，前身為WA
-Entertainment，2015年合併為**Rainbow Bridge
-World**。2017年3月，RBW成立獨立嘻哈音樂品牌「All Right
-Music」。\[1\]
+**Rainbow Bridge World**，簡稱RBW，是一間[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，由3位作曲家(Kim Do Hoon)、黃成鎮(Hwang Sung Jin)與金鎮宇(Kim Jin Woo)共同成立，前身為WA Entertainment，2015年合併為**Rainbow Bridge World**。2017年3月，RBW成立獨立嘻哈音樂品牌「All Right Music」。\[1\]
 
 ## 歷史
 
@@ -15,7 +10,7 @@ Music」。\[1\]
 
 2015年，Rainbowbridge Agency與WA Entertainment合併為**Rainbow Bridge World**。
 
-2016年，男子組合[VROMANCE出道](../Page/VROMANCE.md "wikilink")。
+2016年，男子組合[VROMANCE](../Page/VROMANCE.md "wikilink")出道。
 
 2019年，男子組合[ONEUS出道](https://zh.wikipedia.org/wiki/ONEUS "wikilink")。
 
@@ -58,32 +53,25 @@ Music」。\[1\]
 
 ### 組合
 
-  - [Geeks](https://zh.wikipedia.org/wiki/Geeks "wikilink") (2012-2016)
-    (與Grandline娛樂共同管理)
-  - [OBROJECT](https://zh.wikipedia.org/wiki/OBROJECT "wikilink")
-    (2014-2017) (與TSN娛樂共同管理)
+  - [Geeks](https://zh.wikipedia.org/wiki/Geeks "wikilink") (2012-2016) (與Grandline娛樂共同管理)
+  - [OBROJECT](https://zh.wikipedia.org/wiki/OBROJECT "wikilink") (2014-2017) (與TSN娛樂共同管理)
   - Phantom (2012–2017) (與Brand New Music共同管理)
   - [Monday Kiz](../Page/Monday_Kiz.md "wikilink") (2016-2018)
-  - [P.O.P](../Page/P.O.P.md "wikilink") (2017-2018) (與DWM
-    Entertainment共同管理)
+  - [P.O.P](../Page/P.O.P.md "wikilink") (2017-2018) (與DWM Entertainment共同管理)
 
 ### Solo歌手
 
   - [Yangpa](../Page/Yangpa.md "wikilink")(2015-2018)
-  - [Basick](https://zh.wikipedia.org/wiki/Basick "wikilink")
-    (2015-2018)
+  - [Basick](https://zh.wikipedia.org/wiki/Basick "wikilink") (2015-2018)
   - [Wan Park](https://zh.wikipedia.org/wiki/Wan_Park "wikilink")
   - [Cosmic Girl](../Page/Cosmic_Girl.md "wikilink")
   - ESna (2014–2017)
 
 ### 練習生
 
-  - [林煐岷](../Page/林煐岷.md "wikilink")（轉投[Brand New
-    Music](../Page/Brand_New_Music.md "wikilink")，以[MXM](../Page/MXM_\(男子音樂組合\).md "wikilink"),[AB6IX出道](../Page/AB6IX.md "wikilink")）
-  - 崔栽佑（[PRODUCE
-    101第二季](https://zh.wikipedia.org/wiki/PRODUCE_101第二季 "wikilink")，轉投J-Flo娛樂，以藝名**崔智眼**在[NewKidd出道](../Page/NewKidd.md "wikilink")）
-  - 文俊浩（曾以練習生身分試鏡[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")\[3\]，轉投[Woollim娛樂參加](../Page/Woollim娛樂.md "wikilink")[PRODUCE
-    X 101](../Page/PRODUCE_X_101.md "wikilink")）
+  - [林煐岷](../Page/林煐岷.md "wikilink")（轉投[Brand New Music](../Page/Brand_New_Music.md "wikilink")，以[MXM](../Page/MXM_\(男子音樂組合\).md "wikilink"),[AB6IX](../Page/AB6IX.md "wikilink")出道）
+  - 崔栽佑（[PRODUCE 101第二季](https://zh.wikipedia.org/wiki/PRODUCE_101第二季 "wikilink")，轉投J-Flo娛樂，以藝名**崔智眼**在[NewKidd](../Page/NewKidd.md "wikilink")出道）
+  - 文俊浩（曾以練習生身分試鏡[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")\[3\]，轉投[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")參加[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
 
 ## 註解
 
@@ -106,9 +94,7 @@ Music」。\[1\]
   - [RBW](https://channels.vlive.tv/EDC22D)的VLIVE頻道
 
   -
-[Category:Rainbow_Bridge_World](https://zh.wikipedia.org/wiki/Category:Rainbow_Bridge_World "wikilink")
-[Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
-[Category:2010年成立的公司](https://zh.wikipedia.org/wiki/Category:2010年成立的公司 "wikilink")
+[Category:Rainbow_Bridge_World](https://zh.wikipedia.org/wiki/Category:Rainbow_Bridge_World "wikilink") [Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink") [Category:2010年成立的公司](https://zh.wikipedia.org/wiki/Category:2010年成立的公司 "wikilink")
 
 1.
 2.

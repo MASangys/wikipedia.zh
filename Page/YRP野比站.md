@@ -1,24 +1,17 @@
-[Keikyu_YRP-nobi_sta_003.jpg](https://zh.wikipedia.org/wiki/File:Keikyu_YRP-nobi_sta_003.jpg "fig:Keikyu_YRP-nobi_sta_003.jpg")
-[Keikyu_YRP-nobi_sta_002.jpg](https://zh.wikipedia.org/wiki/File:Keikyu_YRP-nobi_sta_002.jpg "fig:Keikyu_YRP-nobi_sta_002.jpg")
-[DocomoR\&D.JPG](https://zh.wikipedia.org/wiki/File:DocomoR&D.JPG "fig:DocomoR&D.JPG")
-**YRP野比站**（）是一個位於[神奈川縣](../Page/神奈川縣.md "wikilink")[橫須賀市野比一丁目](../Page/橫須賀市.md "wikilink")，屬於[京濱急行電鐵](../Page/京濱急行電鐵.md "wikilink")[久里濱線的](../Page/久里濱線.md "wikilink")[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。[車站編號是](../Page/車站編號.md "wikilink")**KK68**。
+[Keikyu_YRP-nobi_sta_003.jpg](https://zh.wikipedia.org/wiki/File:Keikyu_YRP-nobi_sta_003.jpg "fig:Keikyu_YRP-nobi_sta_003.jpg") [Keikyu_YRP-nobi_sta_002.jpg](https://zh.wikipedia.org/wiki/File:Keikyu_YRP-nobi_sta_002.jpg "fig:Keikyu_YRP-nobi_sta_002.jpg") [DocomoR\&D.JPG](https://zh.wikipedia.org/wiki/File:DocomoR&D.JPG "fig:DocomoR&D.JPG") **YRP野比站**（）是一個位於[神奈川縣](../Page/神奈川縣.md "wikilink")[橫須賀市](../Page/橫須賀市.md "wikilink")野比一丁目，屬於[京濱急行電鐵](../Page/京濱急行電鐵.md "wikilink")[久里濱線](../Page/久里濱線.md "wikilink")的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。[車站編號](../Page/車站編號.md "wikilink")是**KK68**。
 
 ## 年表
 
-  - 1963年（[昭和](../Page/昭和.md "wikilink")38年）11月1日 -
-    久里濱線終點站啟用，當時稱為**野比站**。
-  - 1966年（昭和41年）3月27日 -
-    久里濱線延伸至[津久井濱站](../Page/津久井濱站.md "wikilink")，本站成為中間站。
-  - 1998年（[平成](../Page/平成.md "wikilink")10年）4月1日 -
-    啟用，車站因而冠上園區的英語縮寫，改稱**YRP野比站**。
-  - 2019年（令和元年）7月8日至9月16日 -
-    京急成立120周年及知名動漫作品《[航海王](https://zh.wikipedia.org/wiki/航海王 "wikilink")》連載20周年，做為慶祝活動的一環，將站名牌標示的站名改為「**耶！魯夫野比車站**」（），並繪有航海王角色[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")。\[1\]
+  - 1963年（[昭和](../Page/昭和.md "wikilink")38年）11月1日 - 久里濱線終點站啟用，當時稱為**野比站**。
+  - 1966年（昭和41年）3月27日 - 久里濱線延伸至[津久井濱站](../Page/津久井濱站.md "wikilink")，本站成為中間站。
+  - 1998年（[平成](../Page/平成.md "wikilink")10年）4月1日 - 啟用，車站因而冠上園區的英語縮寫，改稱**YRP野比站**。
+  - 2019年（令和元年）7月8日至9月16日 - 京急成立120周年及知名動漫作品《[航海王](https://zh.wikipedia.org/wiki/航海王 "wikilink")》連載20周年，做為慶祝活動的一環，將站名牌標示的站名改為「**耶！魯夫野比車站**」（），並繪有航海王角色[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")。\[1\]
 
 ## 車站結構
 
 本站為[側式月台](../Page/側式月台.md "wikilink")2面2線[地面車站](../Page/地面車站.md "wikilink")，剪票口位於車站南側月台下。付費區內有[7-Eleven](../Page/7-Eleven.md "wikilink")\[2\]，付費區外有勝博殿\[3\]。
 
-本站的簡易自動廣播分別由1號線的、2號線的[大原沙耶香配音](../Page/大原沙耶香.md "wikilink")。
+本站的簡易自動廣播分別由1號線的、2號線的[大原沙耶香](../Page/大原沙耶香.md "wikilink")配音。
 
 ### 月台配置
 
@@ -186,7 +179,7 @@ YRP野比站月台
   -
   -
   -
-  - [神奈川大學野比研修所](../Page/神奈川大學.md "wikilink")
+  - [神奈川大學](../Page/神奈川大學.md "wikilink")野比研修所
 
   - 野比支店
 
@@ -206,7 +199,7 @@ YRP野比站月台
 
 ### 巴士路線
 
-[京濱急行巴士提供本站往來YRP地區與周邊住宅區的路線](../Page/京濱急行巴士.md "wikilink")。
+[京濱急行巴士](../Page/京濱急行巴士.md "wikilink")提供本站往來YRP地區與周邊住宅區的路線。
 
   - 1號乘車處
     YRP線 - YRP方向、部分往京急新市鎮方向
@@ -214,8 +207,7 @@ YRP野比站月台
     市民醫院線 - YRP、通信研究所、橫須賀市民醫院方向
     Highland（ハイランド）線、市內線 - 久里濱站方向
   - 3號乘車處
-    岩戶線 -
-    [北久里濱站](../Page/北久里濱站.md "wikilink")、[久里濱站](../Page/久里濱站.md "wikilink")、[衣笠十字路方向](../Page/衣笠站.md "wikilink")
+    岩戶線 - [北久里濱站](../Page/北久里濱站.md "wikilink")、[久里濱站](../Page/久里濱站.md "wikilink")、[衣笠十字路方向](../Page/衣笠站.md "wikilink")
   - 4號乘車處
     YRP線 - YRP方向
 
@@ -225,10 +217,8 @@ YRP野比站月台
 
 ## 相鄰車站
 
-  - [Keikyu_logo_small.svg](https://zh.wikipedia.org/wiki/File:Keikyu_logo_small.svg "fig:Keikyu_logo_small.svg")
-    京濱急行電鐵
-    [Number_prefix_Keikyū.PNG](https://zh.wikipedia.org/wiki/File:Number_prefix_Keikyū.PNG "fig:Number_prefix_Keikyū.PNG")
-    久里濱線
+  - [Keikyu_logo_small.svg](https://zh.wikipedia.org/wiki/File:Keikyu_logo_small.svg "fig:Keikyu_logo_small.svg") 京濱急行電鐵
+    [Number_prefix_Keikyū.PNG](https://zh.wikipedia.org/wiki/File:Number_prefix_Keikyū.PNG "fig:Number_prefix_Keikyū.PNG") 久里濱線
       -
 
         早晨翼號
@@ -256,27 +246,19 @@ YRP野比站月台
 
 ## 外部連結
 
-  - [京濱急行電鐵 -
-    YRP野比站](http://www.keikyu.co.jp/train-info/kakueki/KK68.html)
+  - [京濱急行電鐵 - YRP野比站](http://www.keikyu.co.jp/train-info/kakueki/KK68.html)
 
-[Category:日本鐵路車站_Wa](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Wa "wikilink")
-[Category:橫須賀市鐵路車站](https://zh.wikipedia.org/wiki/Category:橫須賀市鐵路車站 "wikilink")
-[Category:久里濱線車站](https://zh.wikipedia.org/wiki/Category:久里濱線車站 "wikilink")
-[Category:1963年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1963年啟用的鐵路車站 "wikilink")
+[Category:日本鐵路車站_Wa](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Wa "wikilink") [Category:橫須賀市鐵路車站](https://zh.wikipedia.org/wiki/Category:橫須賀市鐵路車站 "wikilink") [Category:久里濱線車站](https://zh.wikipedia.org/wiki/Category:久里濱線車站 "wikilink") [Category:1963年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1963年啟用的鐵路車站 "wikilink")
 
 1.
 
-2.  [セブンイレブン 京急ST
-    YRP野比店](http://www.keikyu-sc.com/shop/store/detail/post-112.html)
-    - 京急ステーションコマース
+2.  [セブンイレブン 京急ST YRP野比店](http://www.keikyu-sc.com/shop/store/detail/post-112.html) - 京急ステーションコマース
 
-3.  [新宿さぼてん デリカ YRP野比駅前店](http://www.ghf.co.jp/shop/sid-356/) -
-    株式会社グリーンハウス
+3.  [新宿さぼてん デリカ YRP野比駅前店](http://www.ghf.co.jp/shop/sid-356/) - 株式会社グリーンハウス
 
 4.   - 33ページ
 
-5.  [横須賀市統計書](https://www.city.yokosuka.kanagawa.jp/0210/data/t-k-syo/now.html)
-     - 横須賀市
+5.  [横須賀市統計書](https://www.city.yokosuka.kanagawa.jp/0210/data/t-k-syo/now.html)  - 横須賀市
 
 6.  [各種報告書](http://www.train-media.net/report/index.html)  - 関東交通広告協議会
 

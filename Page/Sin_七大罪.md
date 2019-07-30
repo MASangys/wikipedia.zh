@@ -1,11 +1,6 @@
-《**sin 七大罪**》（）是模型雜誌出版商[Hobby
-Japan](https://zh.wikipedia.org/wiki/Hobby_Japan "wikilink")2012年推出的「魔王崇拜型計劃」的[跨媒體製作](../Page/跨媒體製作.md "wikilink")，內容包括[手辦](https://zh.wikipedia.org/wiki/手辦 "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。同時2012年10月有OVA化發表，但計劃最終取消。
+《**sin 七大罪**》（）是模型雜誌出版商[Hobby Japan](https://zh.wikipedia.org/wiki/Hobby_Japan "wikilink")2012年推出的「魔王崇拜型計劃」的[跨媒體製作](../Page/跨媒體製作.md "wikilink")，內容包括[手辦](https://zh.wikipedia.org/wiki/手辦 "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。同時2012年10月有OVA化發表，但計劃最終取消。
 
-電視動畫的先行製作，漫畫《sin 七大罪》於2016年8月29日開始在漫畫網站[Comic
-Fire進行連載](https://zh.wikipedia.org/wiki/Comic_Fire "wikilink")，作畫是。新連載漫畫《七大罪
-日常默示錄》於[Media Factory](../Page/Media_Factory.md "wikilink")《[月刊Comic
-Alive](../Page/月刊Comic_Alive.md "wikilink")》2017年2月號開始連載，作畫是\[1\]。電視動畫《sin
-七大罪》2017年4月14日起由[東京都會電視台](../Page/東京都會電視台.md "wikilink")、[AT-X等電視台播出](../Page/AT-X.md "wikilink")。
+電視動畫的先行製作，漫畫《sin 七大罪》於2016年8月29日開始在漫畫網站[Comic Fire進行連載](https://zh.wikipedia.org/wiki/Comic_Fire "wikilink")，作畫是。新連載漫畫《七大罪 日常默示錄》於[Media Factory](../Page/Media_Factory.md "wikilink")《[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")》2017年2月號開始連載，作畫是\[1\]。電視動畫《sin 七大罪》2017年4月14日起由[東京都會電視台](../Page/東京都會電視台.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")等電視台播出。
 
 2017年11月宣佈本作天使版《**七美德**》動畫化，2018年1月26日播放。
 
@@ -68,7 +63,7 @@ Alive](../Page/月刊Comic_Alive.md "wikilink")》2017年2月號開始連載，�
   -
     與路西法爭奪「傲慢」慘敗，異端之罪「[虛榮](https://zh.wikipedia.org/wiki/虛榮 "wikilink")」的魔王。
     地獄中的名門凡得爾家的大小姐、「七大罪」的首席。
-    真實身分為曾經是與[路西法交戰](../Page/路西法.md "wikilink")，後來被其打倒而被放逐至地獄的強大魔王[撒旦耶爾](https://zh.wikipedia.org/wiki/撒旦 "wikilink")。
+    真實身分為曾經是與[路西法](../Page/路西法.md "wikilink")交戰，後來被其打倒而被放逐至地獄的強大魔王[撒旦耶爾](https://zh.wikipedia.org/wiki/撒旦 "wikilink")。
     自尊心非常高經常過份膨脹自己的實力。
     有利的時候妄尊自大、不利的時候也不服輸。
     不得其他魔王的信賴但不知為何受到亞斯塔祿的仰慕。
@@ -85,12 +80,12 @@ Alive](../Page/月刊Comic_Alive.md "wikilink")》2017年2月號開始連載，�
 
   -
     第一美德「[忠義](https://zh.wikipedia.org/wiki/忠義 "wikilink")」的天使。親自將路西法從天界放逐。
-    魔王路西法原本所属的天使团的天使长，後期為[七美德之首](../Page/七美德.md "wikilink")。
+    魔王路西法原本所属的天使团的天使长，後期為[七美德](../Page/七美德.md "wikilink")之首。
     虽然平时作风冷酷，但是对神的信仰和忠诚比谁都要深厚，对自己的同伴则是非常的热心。
     潜在能力非常的高，现在的实力却并不是特别的强大，非常讨厌失败。
     吃货属性，对蛋类料理情有独钟。
     持有一把追讨恶魔的神圣之刃。
-    動畫版中持有命運之槍「[朗基努斯枪](https://zh.wikipedia.org/wiki/朗基努斯枪 "wikilink")」，以及[七美德之首才可持有的](../Page/七美德.md "wikilink")「聖光翼」，該翅膀的每一片都可跟[七美德匹敵](../Page/七美德.md "wikilink")，威力強大無比。
+    動畫版中持有命運之槍「[朗基努斯枪](https://zh.wikipedia.org/wiki/朗基努斯枪 "wikilink")」，以及[七美德](../Page/七美德.md "wikilink")之首才可持有的「聖光翼」，該翅膀的每一片都可跟[七美德](../Page/七美德.md "wikilink")匹敵，威力強大無比。
 
 <!-- end list -->
 
@@ -173,8 +168,7 @@ Alive](../Page/月刊Comic_Alive.md "wikilink")》2017年2月號開始連載，�
 #### 主題曲
 
   - 片頭曲「My Sweet Maiden」\[2\]
-    作詞：，作曲：SHINTA-LOW、本多友紀，編曲：本多友紀，主唱：[Mia
-    REGINA](../Page/Mia_REGINA.md "wikilink")
+    作詞：，作曲：SHINTA-LOW、本多友紀，編曲：本多友紀，主唱：[Mia REGINA](../Page/Mia_REGINA.md "wikilink")
 
   - 片尾曲「Welcome to our diabolic paradise」\[3\]
     作詞、作曲：[小暮閣下](../Page/小暮閣下.md "wikilink")，編曲：pal@pop，主唱：Mia REGINA
@@ -203,8 +197,7 @@ Alive](../Page/月刊Comic_Alive.md "wikilink")》2017年2月號開始連載，�
 
 :; 「（路西法版）」（第5話）
 
-:: 作詞：ZAQ & 河田貴央 &
-juun.coo，作曲：ZAQ，編曲：河田貴央，主唱：路西法（[喜多村英梨](../Page/喜多村英梨.md "wikilink")）
+:: 作詞：ZAQ & 河田貴央 & juun.coo，作曲：ZAQ，編曲：河田貴央，主唱：路西法（[喜多村英梨](../Page/喜多村英梨.md "wikilink")）
 
 :; 「」（第5話）
 
@@ -638,8 +631,7 @@ Sin 七大罪短篇小劇場《懺悔錄》在各話播出結束後在YouTube上
 
 ### 七美德
 
-[2018年](../Page/2018年.md "wikilink")1月27日凌晨0點放送\[6\]。並於同年4月27日預定全10話+特典2話收BD與DVD發售。
-刪減版(非AT-X版)原定於在[Youtube免費播出](https://zh.wikipedia.org/wiki/Youtube "wikilink")，但是制作組官方賬號所發布的內容仍然由於違反Youtube政策中裸露或色情內容的相關要求而被移除。\[7\]
+[2018年](../Page/2018年.md "wikilink")1月27日凌晨0點放送\[6\]。並於同年4月27日預定全10話+特典2話收BD與DVD發售。 刪減版(非AT-X版)原定於在[Youtube免費播出](https://zh.wikipedia.org/wiki/Youtube "wikilink")，但是制作組官方賬號所發布的內容仍然由於違反Youtube政策中裸露或色情內容的相關要求而被移除。\[7\]
 
 之後改在[NicoNico網站免費播出](../Page/Niconico動畫.md "wikilink")。之後2018年4月27日發售藍光版（(HJNB-1）和DVD版（HJNB-2），內收入全10話外加特典兩話。
 
@@ -796,8 +788,7 @@ Sin 七大罪短篇小劇場《懺悔錄》在各話播出結束後在YouTube上
 ### 漫畫
 
   - sin 七大罪
-    Hobby Japan《[Comic
-    Fire](https://zh.wikipedia.org/wiki/Comic_Fire "wikilink")》2016年8月29日連載。作畫。
+    Hobby Japan《[Comic Fire](https://zh.wikipedia.org/wiki/Comic_Fire "wikilink")》2016年8月29日連載。作畫。
 
 <table>
 <thead>
@@ -819,8 +810,7 @@ Sin 七大罪短篇小劇場《懺悔錄》在各話播出結束後在YouTube上
 </table>
 
   - 七大罪 日常默示錄
-    KADOKAWA《[月刊Comic
-    Alive](../Page/月刊Comic_Alive.md "wikilink")》2017年2月号連載。作畫。
+    KADOKAWA《[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")》2017年2月号連載。作畫。
 
 <table>
 <thead>
@@ -857,18 +847,9 @@ Sin 七大罪短篇小劇場《懺悔錄》在各話播出結束後在YouTube上
 
   -
   -
-  - [sin 七大罪 | 漫畫Comic
-    Fire官網](https://hobbyjapan.co.jp/comic/series/taizai/)
+  - [sin 七大罪 | 漫畫Comic Fire官網](https://hobbyjapan.co.jp/comic/series/taizai/)
 
-[Category:ARTLAND](https://zh.wikipedia.org/wiki/Category:ARTLAND "wikilink")
-[Category:恶魔题材作品](https://zh.wikipedia.org/wiki/Category:恶魔题材作品 "wikilink")
-[Category:Hobby_Japan](https://zh.wikipedia.org/wiki/Category:Hobby_Japan "wikilink")
-[Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink")
-[Category:天使题材作品](https://zh.wikipedia.org/wiki/Category:天使题材作品 "wikilink")
-[Category:萌擬人化題材作品](https://zh.wikipedia.org/wiki/Category:萌擬人化題材作品 "wikilink")
-[Category:七宗罪題材作品](https://zh.wikipedia.org/wiki/Category:七宗罪題材作品 "wikilink")
-[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink")
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
+[Category:ARTLAND](https://zh.wikipedia.org/wiki/Category:ARTLAND "wikilink") [Category:恶魔题材作品](https://zh.wikipedia.org/wiki/Category:恶魔题材作品 "wikilink") [Category:Hobby_Japan](https://zh.wikipedia.org/wiki/Category:Hobby_Japan "wikilink") [Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink") [Category:天使题材作品](https://zh.wikipedia.org/wiki/Category:天使题材作品 "wikilink") [Category:萌擬人化題材作品](https://zh.wikipedia.org/wiki/Category:萌擬人化題材作品 "wikilink") [Category:七宗罪題材作品](https://zh.wikipedia.org/wiki/Category:七宗罪題材作品 "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
 
 1.
 
@@ -881,7 +862,6 @@ Sin 七大罪短篇小劇場《懺悔錄》在各話播出結束後在YouTube上
 
 6.
 
-7.  [七つの美徳公式
-    Twitter](https://twitter.com/hj_7_virtues/status/960344989745152000)"
+7.  [七つの美徳公式 Twitter](https://twitter.com/hj_7_virtues/status/960344989745152000)"
 
 8.

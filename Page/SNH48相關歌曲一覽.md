@@ -683,5 +683,4 @@
 
 :\* 小豬歌
 
-[Category:SNH48歌曲](https://zh.wikipedia.org/wiki/Category:SNH48歌曲 "wikilink")
-[Category:中國音樂作品列表](https://zh.wikipedia.org/wiki/Category:中國音樂作品列表 "wikilink")
+[Category:SNH48歌曲](https://zh.wikipedia.org/wiki/Category:SNH48歌曲 "wikilink") [Category:中國音樂作品列表](https://zh.wikipedia.org/wiki/Category:中國音樂作品列表 "wikilink")

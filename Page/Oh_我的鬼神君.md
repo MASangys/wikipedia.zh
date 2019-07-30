@@ -1,12 +1,8 @@
-《**Oh
-我的鬼神君**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](../Page/TVN.md "wikilink")2015年7月3日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，由[曹政奭](../Page/曹政奭.md "wikilink")、[朴寶英](https://zh.wikipedia.org/wiki/朴寶英 "wikilink")、[金瑟琪及](../Page/金瑟琪.md "wikilink")[林周煥主演](../Page/林周煥.md "wikilink")，《[高校處世王](../Page/高校處世王.md "wikilink")》[柳濟元導演](https://zh.wikipedia.org/wiki/柳濟元 "wikilink")、[楊熙勝作家再次攜手打造的作品](https://zh.wikipedia.org/wiki/楊熙勝 "wikilink")。
+《**Oh 我的鬼神君**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](../Page/TVN.md "wikilink")2015年7月3日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，由[曹政奭](../Page/曹政奭.md "wikilink")、[朴寶英](https://zh.wikipedia.org/wiki/朴寶英 "wikilink")、[金瑟琪](../Page/金瑟琪.md "wikilink")及[林周煥](../Page/林周煥.md "wikilink")主演，《[高校處世王](../Page/高校處世王.md "wikilink")》[柳濟元導演](https://zh.wikipedia.org/wiki/柳濟元 "wikilink")、[楊熙勝作家再次攜手打造的作品](https://zh.wikipedia.org/wiki/楊熙勝 "wikilink")。
 
 ## 劇情
 
-講述了不信鬼神的「陽氣男」姜宣宇（[曹政奭](../Page/曹政奭.md "wikilink")
-飾）和被「處女鬼」申順愛（[金瑟琪](../Page/金瑟琪.md "wikilink")
-飾）附體的天生可以看见鬼神的「膽小女」羅奉仙（[朴寶英](https://zh.wikipedia.org/wiki/朴寶英 "wikilink")
-飾）三人之間的人鬼愛情故事。\[1\]\[2\]\[3\]\[4\]\[5\]
+講述了不信鬼神的「陽氣男」姜宣宇（[曹政奭](../Page/曹政奭.md "wikilink") 飾）和被「處女鬼」申順愛（[金瑟琪](../Page/金瑟琪.md "wikilink") 飾）附體的天生可以看见鬼神的「膽小女」羅奉仙（[朴寶英](https://zh.wikipedia.org/wiki/朴寶英 "wikilink") 飾）三人之間的人鬼愛情故事。\[1\]\[2\]\[3\]\[4\]\[5\]
 
 ## 演員陣容
 
@@ -156,7 +152,7 @@ J2：<strong>許民秀</strong></p></td>
 <td><p><strong><a href="../Page/郭時暘.md" title="wikilink">郭時暘</a></strong></p></td>
 <td><p><strong>徐俊</strong></p></td>
 <td><p>29歲</p></td>
-<td><p><strong>Sun Restaurant</strong>廚師，曾在<a href="../Page/巴黎藍帶廚藝學校.md" title="wikilink">巴黎藍帶廚藝學校留學被大家暱稱藍帶</a>。為了追隨宣宇而來到Sun Restaurant，像個鄰家大哥哥般十分照顧奉仙並且喜歡奉仙。店內唯一無視敏修的廚師。</p></td>
+<td><p><strong>Sun Restaurant</strong>廚師，曾在<a href="../Page/巴黎藍帶廚藝學校.md" title="wikilink">巴黎藍帶廚藝學校</a>留學被大家暱稱藍帶。為了追隨宣宇而來到Sun Restaurant，像個鄰家大哥哥般十分照顧奉仙並且喜歡奉仙。店內唯一無視敏修的廚師。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -364,7 +360,7 @@ J2：周昌奎</p></td>
 
 ### 其他搭配歌曲
 
-  - 台灣[緯來戲劇台版本](../Page/緯來戲劇台.md "wikilink")
+  - 台灣[緯來戲劇台](../Page/緯來戲劇台.md "wikilink")版本
       - 片頭曲：[范瑋琪](../Page/范瑋琪.md "wikilink")《很久很久以後》
       - 片尾曲：[林俊傑](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")《不為誰而作的歌》
 
@@ -521,8 +517,7 @@ J2：周昌奎</p></td>
 
 <!-- end list -->
 
-  - [JTBC](../Page/JTBC.md "wikilink")：《[親愛的恩東啊](../Page/親愛的恩東啊.md "wikilink")》、
-    《[LAST](../Page/LAST_\(電視劇\).md "wikilink")》
+  - [JTBC](../Page/JTBC.md "wikilink")：《[親愛的恩東啊](../Page/親愛的恩東啊.md "wikilink")》、 《[LAST](../Page/LAST_\(電視劇\).md "wikilink")》
 
 <!-- end list -->
 
@@ -539,8 +534,7 @@ J2：周昌奎</p></td>
 
 <!-- end list -->
 
-  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")：《[青鳥之家](../Page/青鳥之家.md "wikilink")》、
-    《[拜託了，媽媽](../Page/拜託了，媽媽.md "wikilink")》
+  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")：《[青鳥之家](../Page/青鳥之家.md "wikilink")》、 《[拜託了，媽媽](../Page/拜託了，媽媽.md "wikilink")》
   - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[讓女人哭泣](../Page/讓女人哭泣.md "wikilink")》
 
 ## 獎項
@@ -657,26 +651,12 @@ J2：周昌奎</p></td>
   - [台灣台視官方網站](http://www.ttv.com.tw/drama16/OhMyGhost/default.asp)
 
   -
-[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink")
-[Category:tvN金土連續劇](https://zh.wikipedia.org/wiki/Category:tvN金土連續劇 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
-[Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink")
-[Category:鬼題材電視劇](https://zh.wikipedia.org/wiki/Category:鬼題材電視劇 "wikilink")
-[Category:身體交換題材電視劇](https://zh.wikipedia.org/wiki/Category:身體交換題材電視劇 "wikilink")
-[Category:附身題材作品](https://zh.wikipedia.org/wiki/Category:附身題材作品 "wikilink")
-[Category:韓國電視喜劇](https://zh.wikipedia.org/wiki/Category:韓國電視喜劇 "wikilink")
-[Category:餐館背景電視劇](https://zh.wikipedia.org/wiki/Category:餐館背景電視劇 "wikilink")
-[Category:廚師主角題材電視劇](https://zh.wikipedia.org/wiki/Category:廚師主角題材電視劇 "wikilink")
-[Category:緯來電視外購韓劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購韓劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:台視外購電視劇](https://zh.wikipedia.org/wiki/Category:台視外購電視劇 "wikilink")
+[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:tvN金土連續劇](https://zh.wikipedia.org/wiki/Category:tvN金土連續劇 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:鬼題材電視劇](https://zh.wikipedia.org/wiki/Category:鬼題材電視劇 "wikilink") [Category:身體交換題材電視劇](https://zh.wikipedia.org/wiki/Category:身體交換題材電視劇 "wikilink") [Category:附身題材作品](https://zh.wikipedia.org/wiki/Category:附身題材作品 "wikilink") [Category:韓國電視喜劇](https://zh.wikipedia.org/wiki/Category:韓國電視喜劇 "wikilink") [Category:餐館背景電視劇](https://zh.wikipedia.org/wiki/Category:餐館背景電視劇 "wikilink") [Category:廚師主角題材電視劇](https://zh.wikipedia.org/wiki/Category:廚師主角題材電視劇 "wikilink") [Category:緯來電視外購韓劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購韓劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:台視外購電視劇](https://zh.wikipedia.org/wiki/Category:台視外購電視劇 "wikilink")
 
 1.  [tvN新週五週六劇《我的女鬼》確定出演陣容](http://china.mydaily.co.kr/new_yk/china/news_read.php?newsid=OTUINzMIODUIODQIODkIODkINzIIMTA3CDY3CDg2CDgyCDkzCDk0CDc1CDkzCDg4CDg4CDg4CA==&enc=MjUIMTUINDIIMTM1CDI1NQgyMjAIMTQ0CDIyMwgxOTUIMTI5CDIxOQgyNDAIMTMyCDI0OQgyMTMIMTMyCDIzNggxOTMIMTU2CDIxMwgyNDUIMTM0CDIyNQgyMzgIMTM5CDI0MQgyNDUIMTM0CDI0MwgyMzIIMTU2CDI1MAgxOTMIMTQwCDIwNQgyMTYIMTQyCDI0OQgyMzkIMTM0CDIwMwgyMTQIMTU2CDI0MQgyMzIIMTI4CDIzMAgyMjIIMTM5CDE5NwgyNDAIMTM2CDI0MAgyMDcIMTU2CDI0MQgyMDMI&chk=bun&cate=991)mydaily
 2.
 3.
 4.
 5.
-6.  [AGB 닐슨 미디어리서치 케이블
-    시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
-7.  [NAVER 오 나의
-    귀신님](http://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&ie=utf8&query=%EC%98%A4+%EB%82%98%EC%9D%98+%EA%B7%80%EC%8B%A0%EB%8B%98)
+6.  [AGB 닐슨 미디어리서치 케이블 시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
+7.  [NAVER 오 나의 귀신님](http://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&ie=utf8&query=%EC%98%A4+%EB%82%98%EC%9D%98+%EA%B7%80%EC%8B%A0%EB%8B%98)

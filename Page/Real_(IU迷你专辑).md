@@ -11,7 +11,4 @@
   -
   - [IU's official website](http://loen-tree.com/?p=11)
 
-[Category:2010年迷你專輯](https://zh.wikipedia.org/wiki/Category:2010年迷你專輯 "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:2010年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Gaon單曲月榜冠軍作品 "wikilink")
-[Category:2010年代Gaon流媒體年榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年代Gaon流媒體年榜冠軍作品 "wikilink")
+[Category:2010年迷你專輯](https://zh.wikipedia.org/wiki/Category:2010年迷你專輯 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2010年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Gaon單曲月榜冠軍作品 "wikilink") [Category:2010年代Gaon流媒體年榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年代Gaon流媒體年榜冠軍作品 "wikilink")

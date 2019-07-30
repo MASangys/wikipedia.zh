@@ -1,6 +1,4 @@
-《FATE NUMBER
-FOR》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[WINNER時隔一年兩個月的新作品](../Page/WINNER.md "wikilink")，是WINNER首次以四人體制發行的作品。2017年3月17日宣佈在4月4日下午4點發表新專輯回歸，而4月5日發行實體專輯。此專輯的版本分別為《For
-Seoul》和《For LA》。
+《FATE NUMBER FOR》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[WINNER](../Page/WINNER.md "wikilink")時隔一年兩個月的新作品，是WINNER首次以四人體制發行的作品。2017年3月17日宣佈在4月4日下午4點發表新專輯回歸，而4月5日發行實體專輯。此專輯的版本分別為《For Seoul》和《For LA》。
 
 ## 曲目
 
@@ -88,11 +86,7 @@ Seoul》和《For LA》。
 
 ## 參考資料
 
-[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:WINNER音樂專輯](https://zh.wikipedia.org/wiki/Category:WINNER音樂專輯 "wikilink")
-[Category:2017年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2017年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon數位下載週榜冠軍作品 "wikilink")
+[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:WINNER音樂專輯](https://zh.wikipedia.org/wiki/Category:WINNER音樂專輯 "wikilink") [Category:2017年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon單曲週榜冠軍作品 "wikilink") [Category:2017年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon數位下載週榜冠軍作品 "wikilink")
 
 1.
 2.

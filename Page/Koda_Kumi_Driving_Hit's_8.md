@@ -1,5 +1,4 @@
-《**Koda Kumi Driving Hit's 8**》（飆速快感混音極選
-8）為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2018年3月8日發行的第9張[混音專輯](../Page/混音.md "wikilink")。
+《**Koda Kumi Driving Hit's 8**》（飆速快感混音極選 8）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2018年3月8日發行的第9張[混音](../Page/混音.md "wikilink")專輯。
 
 ## 簡介
 
@@ -20,21 +19,14 @@
 5.  **OUTTA MY HEAD (YUTO Remix)**
 6.  **[NEVER ENOUGH](../Page/NEVER_ENOUGH.md "wikilink") (YUTO Remix)**
 7.  **ALL RIGHT (Voia Remix)**
-8.  **[LIT](https://zh.wikipedia.org/wiki/LIT_\(倖田來未單曲\) "wikilink")
-    (YUTO Remix)**
+8.  **[LIT](https://zh.wikipedia.org/wiki/LIT_\(倖田來未單曲\) "wikilink") (YUTO Remix)**
 9.  **BRAIN (James Landino Remix)**
 10. **IT'S MY LIFE (VXIA Remix)**
-11. **[real
-    Emotion](https://zh.wikipedia.org/wiki/BEST〜first_things〜 "wikilink")
-    (TeddyLoid Remix)**
+11. **[real Emotion](https://zh.wikipedia.org/wiki/BEST〜first_things〜 "wikilink") (TeddyLoid Remix)**
 12. **[FREAKY](../Page/Kingdom_\(倖田來未專輯\).md "wikilink") (MATZ Remix)**
-13. **[Sometimes Dream Come True](../Page/WALK_OF_MY_LIFE.md "wikilink")
-    (Kiyoshi Sugo Remix)**
-14. **[You're So
-    Beautiful](../Page/BEST～third_universe～_&_8th_AL_"UNIVERSE".md "wikilink")
-    (D.O.C. Remix)**
-15. **[Selfish](https://zh.wikipedia.org/wiki/secret_\(倖田來未專輯\) "wikilink")
-    (ALKA-LINE Remix)**
+13. **[Sometimes Dream Come True](../Page/WALK_OF_MY_LIFE.md "wikilink") (Kiyoshi Sugo Remix)**
+14. **[You're So Beautiful](../Page/BEST～third_universe～_&_8th_AL_"UNIVERSE".md "wikilink") (D.O.C. Remix)**
+15. **[Selfish](https://zh.wikipedia.org/wiki/secret_\(倖田來未專輯\) "wikilink") (ALKA-LINE Remix)**
 16. **ALL RIGHT (qlius Remix)**
 
 ## 資料來源
@@ -43,5 +35,4 @@
 
 ## 外部連結
 
-[分類:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/分類:倖田來未音樂專輯 "wikilink")
-[分類:2018年音樂專輯](https://zh.wikipedia.org/wiki/分類:2018年音樂專輯 "wikilink")
+[分類:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/分類:倖田來未音樂專輯 "wikilink") [分類:2018年音樂專輯](https://zh.wikipedia.org/wiki/分類:2018年音樂專輯 "wikilink")

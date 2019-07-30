@@ -408,14 +408,10 @@
 
 ## 參考資料
 
-  - [乐视年度压轴剧《X Girl》启动
-    周秀娜参与探案](http://ent.163.com/13/0829/22/97FRU1GC00031GVS.html)
+  - [乐视年度压轴剧《X Girl》启动 周秀娜参与探案](http://ent.163.com/13/0829/22/97FRU1GC00031GVS.html)
 
 ## 外部連結
 
   - [《XGirl/妙探三姐妹》电视剧_高清全集在线观看_演员表_剧情介绍-乐视网](http://tv.le.com/zt/xgirl/)
 
-[Category:2013年中国网络剧](https://zh.wikipedia.org/wiki/Category:2013年中国网络剧 "wikilink")
-[Category:中國電視喜劇](https://zh.wikipedia.org/wiki/Category:中國電視喜劇 "wikilink")
-[Category:中國推理劇](https://zh.wikipedia.org/wiki/Category:中國推理劇 "wikilink")
-[Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink")
+[Category:2013年中国网络剧](https://zh.wikipedia.org/wiki/Category:2013年中国网络剧 "wikilink") [Category:中國電視喜劇](https://zh.wikipedia.org/wiki/Category:中國電視喜劇 "wikilink") [Category:中國推理劇](https://zh.wikipedia.org/wiki/Category:中國推理劇 "wikilink") [Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink")

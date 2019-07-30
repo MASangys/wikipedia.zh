@@ -1,4 +1,4 @@
-是[久慈政宗所作的](../Page/久慈政宗.md "wikilink")[日本](../Page/日本.md "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，[插圖由](https://zh.wikipedia.org/wiki/插圖 "wikilink")[Hisasi繪畫](../Page/Hisasi.md "wikilink")，[黑銀負責機械設定](https://zh.wikipedia.org/wiki/黑銀 "wikilink")，並有漫畫、廣播劇CD等衍生作品。2016年1月宣佈改編為電視動畫\[1\]，同年夏季開始播放。
+是[久慈政宗](../Page/久慈政宗.md "wikilink")所作的[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品，[插圖由](https://zh.wikipedia.org/wiki/插圖 "wikilink")[Hisasi](../Page/Hisasi.md "wikilink")繪畫，[黑銀負責機械設定](https://zh.wikipedia.org/wiki/黑銀 "wikilink")，並有漫畫、廣播劇CD等衍生作品。2016年1月宣佈改編為電視動畫\[1\]，同年夏季開始播放。
 
 ## 故事簡介
 
@@ -10,7 +10,7 @@
 
 <div class="notice metadata"  id="spoiler">
 
-<small>**※中文譯名參考自[尖端出版的版本](../Page/尖端出版.md "wikilink")，聲優順序為廣播劇／電視動畫版\[2\]。**</small>
+<small>**※中文譯名參考自[尖端出版](../Page/尖端出版.md "wikilink")的版本，聲優順序為廣播劇／電視動畫版\[2\]。**</small>
 
 </div>
 
@@ -186,13 +186,11 @@
 
 ### 巴特蘭提斯帝國
 
-又稱異世界，原為愛音所待的世界，居住的人民全為女性，因為先前的戰鬥，失去記憶的愛音跑到雷姆利亞的世界(又稱地球)，
-現任的皇帝為古蕾絲·辛克拉維亞，裡面支撐異世界的為創世御柱。
+又稱異世界，原為愛音所待的世界，居住的人民全為女性，因為先前的戰鬥，失去記憶的愛音跑到雷姆利亞的世界(又稱地球)， 現任的皇帝為古蕾絲·辛克拉維亞，裡面支撐異世界的為創世御柱。
 
 ### 雷姆利亞(地球)
 
-又稱為地球，原本主角們居住的世界，因為被異世界魔導裝甲入侵後，各個國家幾乎瀕臨絕滅，兩星期後通往異世界的門(又稱衝突面)關閉，
-之後又再次入侵，各個國家開始擬定政策，把國家首都遷往巨大人工浮島，在各個世界漂流。
+又稱為地球，原本主角們居住的世界，因為被異世界魔導裝甲入侵後，各個國家幾乎瀕臨絕滅，兩星期後通往異世界的門(又稱衝突面)關閉， 之後又再次入侵，各個國家開始擬定政策，把國家首都遷往巨大人工浮島，在各個世界漂流。
 
 ### 心靈混合裝置
 
@@ -351,8 +349,7 @@ ISBN 978-4-04-103290-9</p></td>
 
 ### 漫畫
 
-由作畫的漫畫首度發表2015年6月26日發售的[角川書店雜誌](../Page/角川書店.md "wikilink")《[月刊Comp
-Ace](../Page/月刊Comp_Ace.md "wikilink")》2015年8月號。\[3\]
+由作畫的漫畫首度發表2015年6月26日發售的[角川書店](../Page/角川書店.md "wikilink")雜誌《[月刊Comp Ace](../Page/月刊Comp_Ace.md "wikilink")》2015年8月號。\[3\]
 
 <table>
 <thead>
@@ -412,8 +409,7 @@ Ace](../Page/月刊Comp_Ace.md "wikilink")》2015年8月號。\[3\]
   - 色彩設定：村上朋輝
   - 音響監督：大室正勝
   - 音響製作：DAX
-  - 音樂製作：[flying
-    DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")
+  - 音樂製作：[flying DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")
   - 動畫製作：[Production IMS](../Page/Production_IMS.md "wikilink")
   - 製作：魔裝學園製作委員會
 
@@ -710,23 +706,11 @@ Ace](../Page/月刊Comp_Ace.md "wikilink")》2015年8月號。\[3\]
 
   - [魔裝學園H×H](http://sneakerbunko.jp/series/masouHH/) - 角川Sneaker文庫
 
-  - [魔裝學園H×H](https://comic-walker.com/contents/detail/kdcw_ks04000011010000_68/)
-    - Comic Walker
+  - [魔裝學園H×H](https://comic-walker.com/contents/detail/kdcw_ks04000011010000_68/) - Comic Walker
 
   - [電視動畫「魔裝學園H×H」官方網站](http://www.masou-hh.com/)
 
-[Category:角川Sneaker文庫](https://zh.wikipedia.org/wiki/Category:角川Sneaker文庫 "wikilink")
-[Category:2014年小說](https://zh.wikipedia.org/wiki/Category:2014年小說 "wikilink")
-[Category:校園小說](https://zh.wikipedia.org/wiki/Category:校園小說 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:動力服題材作品](https://zh.wikipedia.org/wiki/Category:動力服題材作品 "wikilink")
-[Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink")
-[Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink")
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:校園動畫](https://zh.wikipedia.org/wiki/Category:校園動畫 "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
-[Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:角川Sneaker文庫](https://zh.wikipedia.org/wiki/Category:角川Sneaker文庫 "wikilink") [Category:2014年小說](https://zh.wikipedia.org/wiki/Category:2014年小說 "wikilink") [Category:校園小說](https://zh.wikipedia.org/wiki/Category:校園小說 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:動力服題材作品](https://zh.wikipedia.org/wiki/Category:動力服題材作品 "wikilink") [Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:校園動畫](https://zh.wikipedia.org/wiki/Category:校園動畫 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:异世界题材作品](https://zh.wikipedia.org/wiki/Category:异世界题材作品 "wikilink")
 
 1.
 2.  [久慈マサムネ「魔装学園Ｈ×Ｈ」アニメ化！のツイート](https://twitter.com/Kuji_Masamune/status/714100985342242818)

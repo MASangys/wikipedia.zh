@@ -1,5 +1,4 @@
-**High Moon Studios**（前身为**Sammy
-Studios**），是美国的游戏开发商。曾经是内华达娱乐的一部分，于2006年1月被[维旺迪游戏收购并保留现在的名字](../Page/维旺迪游戏.md "wikilink")。现在是由[动视暴雪的全资子公司](../Page/动视暴雪.md "wikilink")\[1\]\[2\]。
+**High Moon Studios**（前身为**Sammy Studios**），是美国的游戏开发商。曾经是内华达娱乐的一部分，于2006年1月被[维旺迪游戏](../Page/维旺迪游戏.md "wikilink")收购并保留现在的名字。现在是由[动视暴雪](../Page/动视暴雪.md "wikilink")的全资子公司\[1\]\[2\]。
 
 ## 旗下游戏
 
@@ -65,16 +64,9 @@ Studios**），是美国的游戏开发商。曾经是内华达娱乐的一部�
 ## 外部链接
 
   -
-  - [*High Moon
-    Studios*](http://www.mobygames.com/company/high-moon-studios-inc)
-    profile on
-    [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
+  - [*High Moon Studios*](http://www.mobygames.com/company/high-moon-studios-inc) profile on [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
 
-[Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink")
-[Category:2001年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2001年開業電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
-[Category:加利福尼亞州公司](https://zh.wikipedia.org/wiki/Category:加利福尼亞州公司 "wikilink")
+[Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink") [Category:2001年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2001年開業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:加利福尼亞州公司](https://zh.wikipedia.org/wiki/Category:加利福尼亞州公司 "wikilink")
 
 1.
 2.

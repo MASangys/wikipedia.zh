@@ -2,12 +2,9 @@
 
 ## 概要
 
-《RISE》是韓國流行音樂歌手太陽繼2010年的首張正規專輯《Solar》后，時隔4年的第二張正規專輯。在此專輯發行之前，太陽在2013年11月8日事先發行了單曲〈Ringa
-Linga〉回歸樂壇\[3\]。除此之外，此專輯的主打歌〈眼，鼻，嘴〉也是太陽和YG著名製作人Teddy親筆製作。〈眼，鼻，嘴〉是一首以鋼琴旋律為基底的歌曲，是一首曲風悲傷的歌曲講述著男女之間感情分散后僅僅記得的只有彼此的臉龐\[4\]。
+《RISE》是韓國流行音樂歌手太陽繼2010年的首張正規專輯《Solar》后，時隔4年的第二張正規專輯。在此專輯發行之前，太陽在2013年11月8日事先發行了單曲〈Ringa Linga〉回歸樂壇\[3\]。除此之外，此專輯的主打歌〈眼，鼻，嘴〉也是太陽和YG著名製作人Teddy親筆製作。〈眼，鼻，嘴〉是一首以鋼琴旋律為基底的歌曲，是一首曲風悲傷的歌曲講述著男女之間感情分散后僅僅記得的只有彼此的臉龐\[4\]。
 
-〈凌晨一點〉是一首節奏輕快又帶有一點悲傷的旋律為基底的歌曲，講述著男生故作堅強地自以為忘記了女生卻在半夜時分又想起了曾經愛過的那位女生\[5\]。〈Stay
-With
-Me〉一曲是由同組合成員[G-Dragon寫給太陽的歌曲](../Page/G-Dragon.md "wikilink")，G-Dragon除了擔任作詞作曲的工作以外也是這首歌曲的伴唱歌手\[6\]。
+〈凌晨一點〉是一首節奏輕快又帶有一點悲傷的旋律為基底的歌曲，講述著男生故作堅強地自以為忘記了女生卻在半夜時分又想起了曾經愛過的那位女生\[5\]。〈Stay With Me〉一曲是由同組合成員[G-Dragon](../Page/G-Dragon.md "wikilink")寫給太陽的歌曲，G-Dragon除了擔任作詞作曲的工作以外也是這首歌曲的伴唱歌手\[6\]。
 
 ## 曲目
 
@@ -104,16 +101,7 @@ Me〉一曲是由同組合成員[G-Dragon寫給太陽的歌曲](../Page/G-Dragon
 
 ## 參考資料
 
-[Category:太陽音樂專輯](https://zh.wikipedia.org/wiki/Category:太陽音樂專輯 "wikilink")
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2014年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2014年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon單曲月榜冠軍作品 "wikilink")
-[Category:2014年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon數位下載週榜冠軍作品 "wikilink")
-[Category:2014年Gaon數位下載月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon數位下載月榜冠軍作品 "wikilink")
-[Category:2014年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon流媒體週榜冠軍作品 "wikilink")
-[Category:2014年Gaon流媒體月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon流媒體月榜冠軍作品 "wikilink")
+[Category:太陽音樂專輯](https://zh.wikipedia.org/wiki/Category:太陽音樂專輯 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2014年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon單曲週榜冠軍作品 "wikilink") [Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink") [Category:2014年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon單曲月榜冠軍作品 "wikilink") [Category:2014年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2014年Gaon數位下載月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon數位下載月榜冠軍作品 "wikilink") [Category:2014年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon流媒體週榜冠軍作品 "wikilink") [Category:2014年Gaon流媒體月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon流媒體月榜冠軍作品 "wikilink")
 
 1.
 2.

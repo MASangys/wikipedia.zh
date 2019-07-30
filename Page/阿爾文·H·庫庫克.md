@@ -10,15 +10,10 @@
 
 ## 參考資料
 
-[Category:密歇根州共和黨人](https://zh.wikipedia.org/wiki/Category:密歇根州共和黨人 "wikilink")
-[Category:密歇根州眾議員](https://zh.wikipedia.org/wiki/Category:密歇根州眾議員 "wikilink")
+[Category:密歇根州共和黨人](https://zh.wikipedia.org/wiki/Category:密歇根州共和黨人 "wikilink") [Category:密歇根州眾議員](https://zh.wikipedia.org/wiki/Category:密歇根州眾議員 "wikilink")
 
-1.  1997–1998 Michigan Manual: [Alvin H.
-    Kukuk](http://legislature.mi.gov/documents/1997-1998/michiganmanual/1997-MM-P0242-P0242.pdf)
-2.  House Resolution 428 (1998): [A resolution of tribute for the
-    Honorable Alvin H.
-    Kukuk](http://legislature.mi.gov/doc.aspx?1998-HR-0428)
+1.  1997–1998 Michigan Manual: [Alvin H. Kukuk](http://legislature.mi.gov/documents/1997-1998/michiganmanual/1997-MM-P0242-P0242.pdf)
+2.  House Resolution 428 (1998): [A resolution of tribute for the Honorable Alvin H. Kukuk](http://legislature.mi.gov/doc.aspx?1998-HR-0428)
 3.
-4.  Gongwer News Service (April 26, 2017): [Former Rep. Al Kukuk Dead
-    At 79](https://www.gongwer.com/programming/news.cfm?Article_ID=560810116)
+4.  Gongwer News Service (April 26, 2017): [Former Rep. Al Kukuk Dead At 79](https://www.gongwer.com/programming/news.cfm?Article_ID=560810116)
 5.

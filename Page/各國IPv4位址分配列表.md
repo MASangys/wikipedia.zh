@@ -1,6 +1,6 @@
-此表為**各國IPv4位址分配列表**，該表列出252個國家IPv4位址的分配數量，其中除[聯合國會員國外](https://zh.wikipedia.org/wiki/聯合國會員國 "wikilink")，也包含[教廷](../Page/教廷.md "wikilink")（[梵蒂岡](https://zh.wikipedia.org/wiki/梵蒂岡 "wikilink")）、[科索沃以及](../Page/科索沃.md "wikilink")[中華民國等非聯合國會員國](../Page/中華民國.md "wikilink")。該列表統計截至於2012年4月2日。
+此表為**各國IPv4位址分配列表**，該表列出252個國家IPv4位址的分配數量，其中除[聯合國會員國外](https://zh.wikipedia.org/wiki/聯合國會員國 "wikilink")，也包含[教廷](../Page/教廷.md "wikilink")（[梵蒂岡](https://zh.wikipedia.org/wiki/梵蒂岡 "wikilink")）、[科索沃](../Page/科索沃.md "wikilink")以及[中華民國](../Page/中華民國.md "wikilink")等非聯合國會員國。該列表統計截至於2012年4月2日。
 
-[IPv4協定版本中有](../Page/IPv4.md "wikilink")2<sup>32</sup>個（超過40億個）[IP位址](https://zh.wikipedia.org/wiki/IP位址 "wikilink")。其中將近6億個位址被保留而且不能使用於公共網域中\[1\]，其餘由[網際網路號碼分配局](https://zh.wikipedia.org/wiki/網際網路號碼分配局 "wikilink")（IANA）透過[区域互联网注册管理机构](../Page/区域互联网注册管理机构.md "wikilink")（RIRs）來於各個國家分配位址\[2\]。
+[IPv4](../Page/IPv4.md "wikilink")協定版本中有2<sup>32</sup>個（超過40億個）[IP位址](https://zh.wikipedia.org/wiki/IP位址 "wikilink")。其中將近6億個位址被保留而且不能使用於公共網域中\[1\]，其餘由[網際網路號碼分配局](https://zh.wikipedia.org/wiki/網際網路號碼分配局 "wikilink")（IANA）透過[区域互联网注册管理机构](../Page/区域互联网注册管理机构.md "wikilink")（RIRs）來於各個國家分配位址\[2\]。
 
 <table>
 <thead>
@@ -2048,30 +2048,15 @@ IP位址數量</p></th>
   - [IP位址](https://zh.wikipedia.org/wiki/IP位址 "wikilink")
   - [IPv4位址枯竭](https://zh.wikipedia.org/wiki/IPv4位址枯竭 "wikilink")
   - [2012年互联网普查](https://zh.wikipedia.org/wiki/2012年互联网普查 "wikilink")（卡爾納殭屍網路）
-  - [已分配的/8
-    IPv4地址块列表](https://zh.wikipedia.org/wiki/已分配的/8_IPv4地址块列表 "wikilink")
+  - [已分配的/8 IPv4地址块列表](https://zh.wikipedia.org/wiki/已分配的/8_IPv4地址块列表 "wikilink")
 
 ## 參見
 
-[Category:國家列表](https://zh.wikipedia.org/wiki/Category:國家列表 "wikilink")
-[Category:網路定址](https://zh.wikipedia.org/wiki/Category:網路定址 "wikilink")
+[Category:國家列表](https://zh.wikipedia.org/wiki/Category:國家列表 "wikilink") [Category:網路定址](https://zh.wikipedia.org/wiki/Category:網路定址 "wikilink")
 
-1.  ["IANA IPv4 Address Space
-    Registry"](http://www.iana.org/assignments/ipv4-address-space/ipv4-address-space.xhtml),
-    Internet Assigned Numbers Authority (IANA).2014-07-12
-2.  ["Number Resources"](http://www.iana.org/numbers), Internet Assigned
-    Numbers Authority (IANA).2014-07-12.
-3.  ["Allocation of IP addresses by
-    Country"](https://www.countryipblocks.net/allocation-of-ip-addresses-by-country.php)
-    , Country IP Blocks. Accessed on 2 April 2012. Note: Site is said to
-    be updated daily.
-4.  [Population](https://www.cia.gov/library/publications/the-world-factbook/fields/2119.html),
-    [The World
-    Factbook](https://zh.wikipedia.org/wiki/The_World_Factbook "wikilink"),
-    [United
-    States](https://zh.wikipedia.org/wiki/United_States "wikilink")
-    [Central Intelligence
-    Agency](https://zh.wikipedia.org/wiki/Central_Intelligence_Agency "wikilink").
-    Accessed on 2 April 2012. Note: Data are mostly for 1 July 2012.
+1.  ["IANA IPv4 Address Space Registry"](http://www.iana.org/assignments/ipv4-address-space/ipv4-address-space.xhtml), Internet Assigned Numbers Authority (IANA).2014-07-12
+2.  ["Number Resources"](http://www.iana.org/numbers), Internet Assigned Numbers Authority (IANA).2014-07-12.
+3.  ["Allocation of IP addresses by Country"](https://www.countryipblocks.net/allocation-of-ip-addresses-by-country.php) , Country IP Blocks. Accessed on 2 April 2012. Note: Site is said to be updated daily.
+4.  [Population](https://www.cia.gov/library/publications/the-world-factbook/fields/2119.html), [The World Factbook](https://zh.wikipedia.org/wiki/The_World_Factbook "wikilink"), [United States](https://zh.wikipedia.org/wiki/United_States "wikilink") [Central Intelligence Agency](https://zh.wikipedia.org/wiki/Central_Intelligence_Agency "wikilink"). Accessed on 2 April 2012. Note: Data are mostly for 1 July 2012.
 5.  包含[阿魯巴](../Page/阿魯巴.md "wikilink")、[古拉索以及](https://zh.wikipedia.org/wiki/古拉索 "wikilink")[聖馬丁的人口](../Page/荷屬聖馬丁.md "wikilink")。
-6.  [揚馬延島人口未包括在內](../Page/揚馬延.md "wikilink")。
+6.  [揚馬延](../Page/揚馬延.md "wikilink")島人口未包括在內。

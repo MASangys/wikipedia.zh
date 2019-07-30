@@ -1,5 +1,4 @@
-《**Andante**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
-1TV於](https://zh.wikipedia.org/wiki/KBS第1頻道 "wikilink")2017年9月24日起播出的\[1\]，由《[廣告天才李太白](../Page/廣告天才李太白.md "wikilink")》朴基鎬導演執導與《玉琳成長日記》朴善子作家合作打造。此劇講述男主角轉學到農村學校後，生活中的點點滴滴與故事。\[2\]
+《**Andante**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS 1TV於](https://zh.wikipedia.org/wiki/KBS第1頻道 "wikilink")2017年9月24日起播出的\[1\]，由《[廣告天才李太白](../Page/廣告天才李太白.md "wikilink")》朴基鎬導演執導與《玉琳成長日記》朴善子作家合作打造。此劇講述男主角轉學到農村學校後，生活中的點點滴滴與故事。\[2\]
 
 ## 演員陣容
 
@@ -335,13 +334,9 @@
   - [韓國KBS官方網站](http://www.kbs.co.kr/drama/andante/index.html)
   - [Andante-BLOG](https://m.post.naver.com/my/series/detail.nhn?seriesNo=367910&memberNo=34609460)
 
-[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink")
-[Category:韓國校園劇](https://zh.wikipedia.org/wiki/Category:韓國校園劇 "wikilink")
-[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
+[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink") [Category:韓國校園劇](https://zh.wikipedia.org/wiki/Category:韓國校園劇 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
 
-1.  [엑소 카이, 주연 드라마 ‘안단테’ 편성변경으로 2주 연기… 9월 24일
-    ‘첫방’](http://www.topstarnews.net/detail.php?number=298941)
+1.  [엑소 카이, 주연 드라마 ‘안단테’ 편성변경으로 2주 연기… 9월 24일 ‘첫방’](http://www.topstarnews.net/detail.php?number=298941)
 2.
 3.
 4.

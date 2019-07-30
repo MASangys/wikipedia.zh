@@ -1,12 +1,10 @@
-**AKB48 Team
-SH**為以[中國](../Page/中國.md "wikilink")[上海為活動據點的女子偶像團體](https://zh.wikipedia.org/wiki/上海 "wikilink")，同時也是[日本偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48的第](../Page/AKB48.md "wikilink")6個海外姐妹團。總製作人由作詞家[秋元康擔任](../Page/秋元康.md "wikilink")。現時共有21名成員。
+**AKB48 Team SH**為以[中國](../Page/中國.md "wikilink")[上海為活動據點的女子偶像團體](https://zh.wikipedia.org/wiki/上海 "wikilink")，同時也是[日本偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")的第6個海外姐妹團。總製作人由作詞家[秋元康](../Page/秋元康.md "wikilink")擔任。現時共有21名成員。
 
 ## 簡介
 
 團體名稱中的「**SH**」以所在地[上海的簡寫](https://zh.wikipedia.org/wiki/上海 "wikilink")（**S**hang**H**ai）命名，代表色為與AKB48相同的「粉紅色」。但標誌整體以「白色」為底色，字樣及邊框由粉紅色構成。
 
-[AKB48-CHINA_Logo.svg](https://zh.wikipedia.org/wiki/File:AKB48-CHINA_Logo.svg "fig:AKB48-CHINA_Logo.svg")
-而作為AKB48在中國的整個計劃「**AKB48 CHINA**」的標誌同樣以「白色」為底色，字樣及邊框則是由「紅色」構成。
+[AKB48-CHINA_Logo.svg](https://zh.wikipedia.org/wiki/File:AKB48-CHINA_Logo.svg "fig:AKB48-CHINA_Logo.svg") 而作為AKB48在中國的整個計劃「**AKB48 CHINA**」的標誌同樣以「白色」為底色，字樣及邊框則是由「紅色」構成。
 
 ## 歷史
 
@@ -15,7 +13,7 @@ SH**為以[中國](../Page/中國.md "wikilink")[上海為活動據點的女子�
 ### 2016年
 
   - 4月26日，於香港成立經紀公司「**AKB48（CHINA）Holdings Limited**」\[1\]。
-  - 12月10日，AKB48在上海浦东新区喜马拉雅中心舉辦AKB48中国见面会暨新闻发布会，AKB48成員[渡邊麻友](../Page/渡邊麻友.md "wikilink")、[伊豆田莉奈和](../Page/伊豆田莉奈.md "wikilink")[川本紗矢出席](../Page/川本紗矢.md "wikilink")。標誌著AKB48正式以中日双方合作的形式再一次進軍中國\[2\]。
+  - 12月10日，AKB48在上海浦东新区喜马拉雅中心舉辦AKB48中国见面会暨新闻发布会，AKB48成員[渡邊麻友](../Page/渡邊麻友.md "wikilink")、[伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")和[川本紗矢](../Page/川本紗矢.md "wikilink")出席。標誌著AKB48正式以中日双方合作的形式再一次進軍中國\[2\]。
 
 ### 2017年
 
@@ -24,13 +22,11 @@ SH**為以[中國](../Page/中國.md "wikilink")[上海為活動據點的女子�
 ### 2018年
 
   - 3月27日，毛唯嘉與劉念兩人以预备成员身分加入AKB48 CHINA\[5\]。
-  - 4月10日，AKB48於官方部落格正式公布中國新的官方姐妹團體名稱為「**AKB48 Team
-    SH**」，同時發表一期生徵選活動相關事宜，徵選網站於當日上線\[6\]。
+  - 4月10日，AKB48於官方部落格正式公布中國新的官方姐妹團體名稱為「**AKB48 Team SH**」，同時發表一期生徵選活動相關事宜，徵選網站於當日上線\[6\]。
   - 7月24日，一期生招募决赛举行，共34名成員合格。預備成員毛唯嘉與劉念亦作為一期生正式加入Team SH\[7\]。
   - 8月8日，官方自微博公布一期生名单，共有23人进入组合\[8\]。
   - 10月27日，在“天猫亚洲偶像嘉年华”中，AKB48 Team SH首次公开亮相并表演\[9\]。
-  - 12月3日，举行出道新闻发布会\[10\]，以数字单曲《Love Trip》（AKB48《[LOVE
-    TRIP](https://zh.wikipedia.org/wiki/LOVE_TRIP "wikilink")》中文版）正式出道。
+  - 12月3日，举行出道新闻发布会\[10\]，以数字单曲《Love Trip》（AKB48《[LOVE TRIP](https://zh.wikipedia.org/wiki/LOVE_TRIP "wikilink")》中文版）正式出道。
   - 12月27日，官方宣布自10月起未参加活动的刘绘和刘奕含两名成员因身体原因与组合正式解约\[11\]。
 
 ### 2019年
@@ -39,6 +35,8 @@ SH**為以[中國](../Page/中國.md "wikilink")[上海為活動據點的女子�
   - 1月24日，运营方公布因屡次违反相关守则，暂停成员施可妍及万芳舟的活动\[13\]。二人在自省后，于3月2日起正式归队\[14\]。
   - 5月27日，二期生招募开始\[15\]。
   - 6月10日，第二张EP《So long\!》发行\[16\]。
+  - 7月4日，运营方公布因违反艺人管理规定，暂停研修生管天天的活动至8月1日\[17\]。
+  - 7月10日，运营方公布因严重违反艺人管理规定，暂停成員徐依婷的通告，並降格為練習生\[18\]。
 
 ## 成員
 
@@ -160,14 +158,6 @@ SH**為以[中國](../Page/中國.md "wikilink")[上海為活動據點的女子�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>徐依婷</p></td>
-<td><p>Xu YiTing</p></td>
-<td></td>
-<td><p>上海</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>叶知恩</p></td>
 <td><p>Ye ZhiEn</p></td>
 <td></td>
@@ -175,7 +165,7 @@ SH**為以[中國](../Page/中國.md "wikilink")[上海為活動據點的女子�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>袁瑞希</p></td>
 <td><p>Yuan RuiXi</p></td>
 <td></td>
@@ -183,7 +173,7 @@ SH**為以[中國](../Page/中國.md "wikilink")[上海為活動據點的女子�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>翟羽佳</p></td>
 <td><p>Zhai YuJia</p></td>
 <td></td>
@@ -191,7 +181,7 @@ SH**為以[中國](../Page/中國.md "wikilink")[上海為活動據點的女子�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>周念琪</p></td>
 <td><p>Zhou NianQi</p></td>
 <td></td>
@@ -199,7 +189,7 @@ SH**為以[中國](../Page/中國.md "wikilink")[上海為活動據點的女子�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>朱苓</p></td>
 <td><p>Zhu Ling</p></td>
 <td></td>
@@ -207,7 +197,7 @@ SH**為以[中國](../Page/中國.md "wikilink")[上海為活動據點的女子�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>庄晓媞</p></td>
 <td><p>Zhuang XiaoTi</p></td>
 <td></td>
@@ -215,12 +205,22 @@ SH**為以[中國](../Page/中國.md "wikilink")[上海為活動據點的女子�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>管天天</p></td>
 <td><p>Guan TianTian</p></td>
 <td></td>
 <td><p>江苏</p></td>
-<td><p>研修生</p></td>
+<td><p>研修生<br />
+因违反管理规定停止活动至8月1日[19]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>徐依婷</p></td>
+<td><p>Xu YiTing</p></td>
+<td></td>
+<td><p>上海</p></td>
+<td><p>練習生<br />
+2019年7月10日降格[20]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -230,12 +230,12 @@ SH**為以[中國](../Page/中國.md "wikilink")[上海為活動據點的女子�
 
 | 姓名  | 读音        | 出生日期   | 出生地 | 加入期別 | 最终在籍日         | 备注       |
 | --- | --------- | ------ | --- | ---- | ------------- | -------- |
-| 刘绘  | Liu Hui   | 10月18日 | 江苏  | 1期   | 2018年12月27日公布 | 解约\[17\] |
+| 刘绘  | Liu Hui   | 10月18日 | 江苏  | 1期   | 2018年12月27日公布 | 解约\[21\] |
 | 刘奕含 | Liu YiHan |        | 江苏  | 1期   |               |          |
 
 ### 成員招募活動
 
-  - 招募事項\[18\]
+  - 招募事項\[22\]
 
 <!-- end list -->
 
@@ -256,7 +256,7 @@ SH**為以[中國](../Page/中國.md "wikilink")[上海為活動據點的女子�
 <!-- end list -->
 
   -
-    一次審査－書面審核，報名人數38066人\[19\]
+    一次審査－書面審核，報名人數38066人\[23\]
     二次審査－面試，于成都、广州、武汉、北京、沈阳及上海六地举行
     三次審査－面試（上海）：合格者62名
     最終審查－面試（上海[梅賽德斯-奔馳文化中心音乐俱乐部](https://zh.wikipedia.org/wiki/梅賽德斯-奔馳文化中心 "wikilink")）：合格者34名
@@ -268,7 +268,7 @@ SH**為以[中國](../Page/中國.md "wikilink")[上海為活動據點的女子�
 
 #### 二期生
 
-  - 報名期間：2019年5月27日\[20\]至7月17日
+  - 報名期間：2019年5月27日\[24\]至7月17日\[25\]
   - 招募過程：
 
 <!-- end list -->
@@ -315,7 +315,7 @@ SH**為以[中國](../Page/中國.md "wikilink")[上海為活動據點的女子�
 </tr>
 <tr class="even">
 <td><p>12月27日</p></td>
-<td><p>一期生 刘绘、刘奕含解约离团[21]</p></td>
+<td><p>一期生 刘绘、刘奕含解约离团[26]</p></td>
 <td><p>-2</p></td>
 <td><p>21</p></td>
 <td><p><strong>1期生</strong>23人→<strong>21人</strong></p></td>
@@ -368,16 +368,14 @@ Type-B（CD+DVD）</p></td>
 
 ### 网络综艺
 
-  - 《[創造101](https://zh.wikipedia.org/wiki/創造101 "wikilink")》（[腾讯视频](../Page/腾讯视频.md "wikilink")，2018年4月21日
-    - 6月23日）毛唯嘉、劉念作以参赛者身分出演
-  - 《AKB少女90天的挑战》（腾讯视频、Bilibili、优酷、YouTube，2019年3月16日 -
-    6月15日，每周二、四、六更新）魏新及袁瑞希为主角\[22\]
-  - 《SH第二现场》（腾讯视频、Bilibili、优酷、AcFun、YouTube，2019年3月11日 - 、不定期更新）\[23\]
-  - 《Say Hi》（Bilibili，2019年5月8日 - 、每周三更新）\[24\]
+  - 《[創造101](https://zh.wikipedia.org/wiki/創造101 "wikilink")》（[腾讯视频](../Page/腾讯视频.md "wikilink")，2018年4月21日 - 6月23日）毛唯嘉、劉念作以参赛者身分出演
+  - 《AKB少女90天的挑战》（腾讯视频、Bilibili、优酷、YouTube，2019年3月16日 - 6月15日，每周二、四、六更新）魏新及袁瑞希为主角\[27\]
+  - 《SH第二现场》（腾讯视频、Bilibili、优酷、AcFun、YouTube，2019年3月11日 - 、不定期更新）\[28\]
+  - 《Say Hi》（Bilibili，2019年5月8日 - 、每周三更新）\[29\]
 
 ### 广告代言
 
-  - [资生堂跨境形象大使](https://zh.wikipedia.org/wiki/资生堂 "wikilink")（2019年4月）：刘念、毛唯嘉、朱苓、吴安琪、魏新\[25\]
+  - [资生堂跨境形象大使](https://zh.wikipedia.org/wiki/资生堂 "wikilink")（2019年4月）：刘念、毛唯嘉、朱苓、吴安琪、魏新\[30\]
 
 ## 註釋
 
@@ -394,16 +392,9 @@ Type-B（CD+DVD）</p></td>
   -
   -
   -
-[Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink")
-[Category:中國女子演唱團體](https://zh.wikipedia.org/wiki/Category:中國女子演唱團體 "wikilink")
-[Category:以上海为据点的女子演唱团体](https://zh.wikipedia.org/wiki/Category:以上海为据点的女子演唱团体 "wikilink")
-[Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink")
-[Category:上海文化](https://zh.wikipedia.org/wiki/Category:上海文化 "wikilink")
-[Category:中国名数48](https://zh.wikipedia.org/wiki/Category:中国名数48 "wikilink")
+[Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink") [Category:中國女子演唱團體](https://zh.wikipedia.org/wiki/Category:中國女子演唱團體 "wikilink") [Category:以上海为据点的女子演唱团体](https://zh.wikipedia.org/wiki/Category:以上海为据点的女子演唱团体 "wikilink") [Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink") [Category:上海文化](https://zh.wikipedia.org/wiki/Category:上海文化 "wikilink") [Category:中国名数48](https://zh.wikipedia.org/wiki/Category:中国名数48 "wikilink")
 
-1.  [AKB48 (China) Holding
-    Limited](https://webb-site.com/dbpub/orgdata.asp?p=2567986) -
-    Webb-site Who's Who
+1.  [AKB48 (China) Holding Limited](https://webb-site.com/dbpub/orgdata.asp?p=2567986) - Webb-site Who's Who
 
 2.
 
@@ -436,6 +427,7 @@ Type-B（CD+DVD）</p></td>
 16.
 
 17.
+
 18.
 
 19.
@@ -444,7 +436,14 @@ Type-B（CD+DVD）</p></td>
 22.
 
 23.
-
 24.
-
 25.
+
+26.
+27.
+
+28.
+
+29.
+
+30.

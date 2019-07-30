@@ -160,6 +160,4 @@ CIS SGL</small></p></td>
 
 ## 外部链接
 
-[Category:裝甲運兵車](https://zh.wikipedia.org/wiki/Category:裝甲運兵車 "wikilink")
-[Category:蘇聯裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:蘇聯裝甲戰鬥車輛 "wikilink")
-[Category:俄羅斯裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:俄羅斯裝甲戰鬥車輛 "wikilink")
+[Category:裝甲運兵車](https://zh.wikipedia.org/wiki/Category:裝甲運兵車 "wikilink") [Category:蘇聯裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:蘇聯裝甲戰鬥車輛 "wikilink") [Category:俄羅斯裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:俄羅斯裝甲戰鬥車輛 "wikilink")

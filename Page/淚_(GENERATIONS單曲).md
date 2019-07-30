@@ -1,5 +1,4 @@
-《**涙**》是[日本](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[GENERATIONS的第](https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")12张[单曲](../Page/单曲.md "wikilink")，於2016年6月29日由[rhythm
-zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
+《**涙**》是[日本](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[GENERATIONS的第](https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")12张[单曲](../Page/单曲.md "wikilink")，於2016年6月29日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
@@ -14,8 +13,7 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 1.  **涙**
     （作詞：小竹正人、作曲：春川仁志）
 2.  涙 (Instrumental)
-3.  **[AGEHA](../Page/AGEHA_\(GENERATIONS單曲\).md "wikilink")（English
-    version）**
+3.  **[AGEHA](../Page/AGEHA_\(GENERATIONS單曲\).md "wikilink")（English version）**
 
 ### DVD
 
@@ -24,7 +22,4 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 ## 外部連結
 
   -
-[Category:GENERATIONS的單曲](https://zh.wikipedia.org/wiki/Category:GENERATIONS的單曲 "wikilink")
-[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
-[Category:2016年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:GENERATIONS的單曲](https://zh.wikipedia.org/wiki/Category:GENERATIONS的單曲 "wikilink") [Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink") [Category:2016年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Oricon單曲週榜冠軍作品 "wikilink")

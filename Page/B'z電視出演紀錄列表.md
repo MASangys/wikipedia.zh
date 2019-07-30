@@ -1,6 +1,6 @@
-**B'z電視出演紀錄列表**是[B'z出演過的電視節目彙整條目](../Page/B'z.md "wikilink")。
+**B'z電視出演紀錄列表**是[B'z](../Page/B'z.md "wikilink")出演過的電視節目彙整條目。
 
-本頁面除了作為B'z的出演以外，亦包含成員[松本孝弘與](../Page/松本孝弘.md "wikilink")[稻葉浩志的](../Page/稻葉浩志.md "wikilink")[SOLO活動出演](https://zh.wikipedia.org/wiki/獨奏 "wikilink")。但由於部分年代久遠已不可考，因此並非記述了所有出演。
+本頁面除了作為B'z的出演以外，亦包含成員[松本孝弘](../Page/松本孝弘.md "wikilink")與[稻葉浩志](../Page/稻葉浩志.md "wikilink")的[SOLO活動出演](https://zh.wikipedia.org/wiki/獨奏 "wikilink")。但由於部分年代久遠已不可考，因此並非記述了所有出演。
 
 ### 1989年 - 1993年
 
@@ -267,7 +267,7 @@ Opening Music - 「BAD COMMUNICATION」</p></td>
 <td><p><br />
 B'z 稲葉浩志×小室哲哉「対談企画」</p></td>
 <td><p>富士電視台</p></td>
-<td><p>稻葉與<a href="../Page/小室哲哉.md" title="wikilink">小室哲哉對談</a>。</p></td>
+<td><p>稻葉與<a href="../Page/小室哲哉.md" title="wikilink">小室哲哉</a>對談。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -525,7 +525,7 @@ B'z 稲葉浩志×小室哲哉「対談企画」</p></td>
 <td><p>1999年</p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a>3月3日</p></td>
 <td><p>B'z</p></td>
-<td><p><a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎'99</a></p></td>
+<td><p><a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a>'99</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/NHK衛星第2頻道" title="wikilink">NHK-BS2其它</a></p></td>
 <td><p>留言：榮獲『年度最佳藝人獎』（Artist of the Year Award）之留言。</p></td>
 </tr>
@@ -559,7 +559,7 @@ B'z 稲葉浩志×小室哲哉「対談企画」</p></td>
 「<a href="https://zh.wikipedia.org/wiki/KNOCKIN&#39;&quot;T&quot;AROUND" title="wikilink">Nothin' But The Blues</a>」<br />
 「<a href="https://zh.wikipedia.org/wiki/KNOCKIN&#39;&quot;T&quot;AROUND" title="wikilink">冬の灯</a>」<br />
 「<a href="https://zh.wikipedia.org/wiki/Wanna_Go_Home" title="wikilink">Wanna Go Home</a>」<br />
-與<a href="../Page/布袋寅泰.md" title="wikilink">布袋寅泰</a>、<a href="../Page/GLAY.md" title="wikilink">GLAY</a><a href="https://zh.wikipedia.org/wiki/吉他手" title="wikilink">吉他手</a><a href="https://zh.wikipedia.org/wiki/TAKURO" title="wikilink">TAKURO</a>、<a href="../Page/足球.md" title="wikilink">足球</a><a href="https://zh.wikipedia.org/wiki/運動員" title="wikilink">運動員</a><a href="../Page/城彰二.md" title="wikilink">城彰二選手等人對談</a>。</p></td>
+與<a href="../Page/布袋寅泰.md" title="wikilink">布袋寅泰</a>、<a href="../Page/GLAY.md" title="wikilink">GLAY</a><a href="https://zh.wikipedia.org/wiki/吉他手" title="wikilink">吉他手</a><a href="https://zh.wikipedia.org/wiki/TAKURO" title="wikilink">TAKURO</a>、<a href="../Page/足球.md" title="wikilink">足球</a><a href="https://zh.wikipedia.org/wiki/運動員" title="wikilink">運動員</a><a href="../Page/城彰二.md" title="wikilink">城彰二</a>選手等人對談。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -626,7 +626,7 @@ B'z 稲葉浩志×小室哲哉「対談企画」</p></td>
 <td><p>松本孝弘</p></td>
 <td></td>
 <td><p>富士電視台</p></td>
-<td><p>以<a href="https://zh.wikipedia.org/wiki/電吉他" title="wikilink">電吉他獨奏</a><a href="../Page/日本.md" title="wikilink">日本國歌</a>「<a href="../Page/君之代.md" title="wikilink">君之代</a>」</p></td>
+<td><p>以<a href="https://zh.wikipedia.org/wiki/電吉他" title="wikilink">電吉他獨奏</a><a href="../Page/日本.md" title="wikilink">日本</a>國歌「<a href="../Page/君之代.md" title="wikilink">君之代</a>」</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -667,7 +667,7 @@ B'z 稲葉浩志×小室哲哉「対談企画」</p></td>
 （B'z的@llnightnippon.com ～Media Mixture Special～）</p></td>
 <td><p>日本放送</p></td>
 <td><p>廣播電台特別節目。<br />
-以<a href="../Page/原聲吉他.md" title="wikilink">原聲吉他直播演奏</a>「今夜月の見える丘に」</p></td>
+以<a href="../Page/原聲吉他.md" title="wikilink">原聲吉他</a>直播演奏「今夜月の見える丘に」</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -843,7 +843,7 @@ B'z 稲葉浩志×小室哲哉「対談企画」</p></td>
 <td><p>日本搖滾團體B'z親切訪臺</p></td>
 <td><p><a href="../Page/TVB娛樂新聞台.md" title="wikilink">TVB娛樂新聞台</a></p></td>
 <td><p>此為B'z首次召開記者會，亦是首次舉行海外公演。<br />
-在<a href="../Page/臺灣.md" title="wikilink">臺灣各家電視台播放採訪新聞</a>，訪談並預告於8月25日・26日在<a href="../Page/臺北.md" title="wikilink">臺北南港</a>101文創會館舉行公演。</p></td>
+在<a href="../Page/臺灣.md" title="wikilink">臺灣</a>各家電視台播放採訪新聞，訪談並預告於8月25日・26日在<a href="../Page/臺北.md" title="wikilink">臺北</a>南港101文創會館舉行公演。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -957,7 +957,7 @@ B'z 稲葉浩志×小室哲哉「対談企画」</p></td>
 <td><p>決勝直前！2002 FIFA WORLD CUP TM OFFICIAL LIVE</p></td>
 <td><p>朝日電視台</p></td>
 <td><p>訪談。<br />
-「熱き鼓動の果て」(播放6月27日在<a href="../Page/東京體育場.md" title="wikilink">東京體育場公演的演唱會影像</a>)</p></td>
+「熱き鼓動の果て」(播放6月27日在<a href="../Page/東京體育場.md" title="wikilink">東京體育場</a>公演的演唱會影像)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1201,7 +1201,7 @@ B'z 稲葉浩志×小室哲哉「対談企画」</p></td>
 <td><p>2003年12月23日</p></td>
 <td><p>B'z LIVE-GYM 2003 "BANZAI IN NORTH AMERICA" ～LIVE &amp; DOCUMENT～</p></td>
 <td><p>BSデジタル5局</p></td>
-<td><p>B'z<a href="../Page/美國西岸.md" title="wikilink">美國西岸巡演</a>『B'z LIVE-GYM 2003 "BANZAI IN NORTH AMERICA"』的演唱會＆紀錄片。</p></td>
+<td><p>B'z<a href="../Page/美國西岸.md" title="wikilink">美國西岸</a>巡演『B'z LIVE-GYM 2003 "BANZAI IN NORTH AMERICA"』的演唱會＆紀錄片。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1498,7 +1498,7 @@ B'z 稲葉浩志×小室哲哉「対談企画」</p></td>
 <td><p>朝日電視台</p></td>
 <td><p>「<a href="https://zh.wikipedia.org/wiki/ゆるぎないものひとつ" title="wikilink">ゆるぎないものひとつ</a>」<br />
 與<a href="../Page/DREAMS_COME_TRUE.md" title="wikilink">DREAMS COME TRUE漫談</a>。<br />
-與<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN首次合演</a>。</p></td>
+與<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>首次合演。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1767,7 +1767,7 @@ B'z 稲葉浩志×小室哲哉「対談企画」</p></td>
 <td><p>B'z</p></td>
 <td><p><a href="../Page/百事可樂.md" title="wikilink">百事可樂</a>「Pepsi NEX」エフェクト・荒野篇</p></td>
 <td><p>日本各家電視台</p></td>
-<td><p>以<a href="../Page/音樂錄影帶.md" title="wikilink">音樂錄影帶般的演奏場面出演</a>「<a href="https://zh.wikipedia.org/wiki/さよなら傷だらけの日々よ" title="wikilink">さよなら傷だらけの日々よ</a>」一曲<a href="../Page/商業搭配.md" title="wikilink">商業搭配的</a><a href="../Page/電視廣告.md" title="wikilink">電視廣告</a>。</p></td>
+<td><p>以<a href="../Page/音樂錄影帶.md" title="wikilink">音樂錄影帶</a>般的演奏場面出演「<a href="https://zh.wikipedia.org/wiki/さよなら傷だらけの日々よ" title="wikilink">さよなら傷だらけの日々よ</a>」一曲<a href="../Page/商業搭配.md" title="wikilink">商業搭配</a>的<a href="../Page/電視廣告.md" title="wikilink">電視廣告</a>。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1948,7 +1948,7 @@ B'z 稲葉浩志×小室哲哉「対談企画」</p></td>
 <td><p>稻葉浩志</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SMAP×SMAP" title="wikilink">SMAP×SMAP新春スペシャル</a></p></td>
 <td><p>富士電視台</p></td>
-<td><p>與<a href="../Page/SMAP.md" title="wikilink">SMAP座談</a>。<br />
+<td><p>與<a href="../Page/SMAP.md" title="wikilink">SMAP</a>座談。<br />
 與SMAP合演「羽」</p></td>
 <td></td>
 </tr>

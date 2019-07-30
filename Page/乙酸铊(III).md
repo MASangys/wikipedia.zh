@@ -2,17 +2,13 @@
 
 ## 制备
 
-80%的乙酸和[三氧化二铊反应](https://zh.wikipedia.org/wiki/三氧化二铊 "wikilink")，产物在[乙酸酐中结晶](../Page/乙酸酐.md "wikilink")，可以得到乙酸铊。\[4\]
+80%的乙酸和[三氧化二铊反应](https://zh.wikipedia.org/wiki/三氧化二铊 "wikilink")，产物在[乙酸酐](../Page/乙酸酐.md "wikilink")中结晶，可以得到乙酸铊。\[4\]
 
 ## 參考文献
 
-[Category:铊化合物](https://zh.wikipedia.org/wiki/Category:铊化合物 "wikilink")
-[Category:乙酸盐](https://zh.wikipedia.org/wiki/Category:乙酸盐 "wikilink")
+[Category:铊化合物](https://zh.wikipedia.org/wiki/Category:铊化合物 "wikilink") [Category:乙酸盐](https://zh.wikipedia.org/wiki/Category:乙酸盐 "wikilink")
 
-1.  [Evaluation of Thallium Acetate-Citrate Medium for Isolation of
-    Enterococci](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC378124/)
+1.  [Evaluation of Thallium Acetate-Citrate Medium for Isolation of Enterococci](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC378124/)
 2.
 3.
-4.  Kolling, Orland W.; Mawdsley, Elizabeth A. Anhydrous thallium(III)
-    acetate. *Transactions of the Kansas Academy of Science*, 1971. 74
-    (1): 38-43. <DOI:10.2307/3627666>
+4.  Kolling, Orland W.; Mawdsley, Elizabeth A. Anhydrous thallium(III) acetate. *Transactions of the Kansas Academy of Science*, 1971. 74 (1): 38-43. <DOI:10.2307/3627666>

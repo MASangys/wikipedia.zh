@@ -1,5 +1,4 @@
-[第10回](../Page/第10回TVnavi日劇年度大賞.md "wikilink") ← **第11回** →
-[第12回](../Page/第12回TVnavi日劇年度大賞.md "wikilink")
+[第10回](../Page/第10回TVnavi日劇年度大賞.md "wikilink") ← **第11回** → [第12回](../Page/第12回TVnavi日劇年度大賞.md "wikilink")
 
 **第11回[TVnavi日劇年度大賞](../Page/TVnavi日劇年度大賞.md "wikilink")**是針對2014年春季至2015年冬季播出的連續劇做出的觀眾投票，以下為入圍及得獎名單。
 
@@ -204,5 +203,4 @@
 
   - [TVnavi日劇年度大賞第11回得獎名單](http://dorama.info/award-290.html)
 
-[Category:2014年日本](https://zh.wikipedia.org/wiki/Category:2014年日本 "wikilink")
-[Category:2014年电视奖项](https://zh.wikipedia.org/wiki/Category:2014年电视奖项 "wikilink")
+[Category:2014年日本](https://zh.wikipedia.org/wiki/Category:2014年日本 "wikilink") [Category:2014年电视奖项](https://zh.wikipedia.org/wiki/Category:2014年电视奖项 "wikilink")

@@ -1,10 +1,8 @@
-“**Team KII 6th Stage「0start」**”是[SKE48](../Page/SKE48.md "wikilink")
-Team KII的第6台劇場公演\[1\]。
+“**Team KII 6th Stage「0start」**”是[SKE48](../Page/SKE48.md "wikilink") Team KII的第6台劇場公演\[1\]。
 
 ## 摘要
 
-SKE48 Team
-KII的第6台劇場公演。以[RESET公演為基礎](../Page/Team_K_6th_Stage「RESET」.md "wikilink")，将分组曲更换而构成的公演。\[2\]\[3\]
+SKE48 Team KII的第6台劇場公演。以[RESET公演為基礎](../Page/Team_K_6th_Stage「RESET」.md "wikilink")，将分组曲更换而构成的公演。\[2\]\[3\]
 
 ## 公演內容
 
@@ -120,8 +118,7 @@ KII的第6台劇場公演。以[RESET公演為基礎](../Page/Team_K_6th_Stage�
 
   - [SKE48 OFFICIAL WEB SITE 演目情報](http://www.ske48.co.jp/setlist/)
 
-[Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink")
-[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink")
+[Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink") [Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink")
 
 1.
 

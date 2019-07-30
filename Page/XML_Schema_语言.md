@@ -1,5 +1,4 @@
-**XML
-schema**是指各种[XML文档](../Page/XML.md "wikilink")（称作schema），用于表示在XML一般规则之外的特定文档的结构与内容的约束。其中被W3C采纳为推荐标准的schema语言是[XSD](https://zh.wikipedia.org/wiki/XSD "wikilink").
+**XML schema**是指各种[XML](../Page/XML.md "wikilink")文档（称作schema），用于表示在XML一般规则之外的特定文档的结构与内容的约束。其中被W3C采纳为推荐标准的schema语言是[XSD](https://zh.wikipedia.org/wiki/XSD "wikilink").
 
 XML schema语言的不完全列表:
 
@@ -114,29 +113,14 @@ XML schema语言的不完全列表:
 
 ## 参考文献
 
-  - [Comparative Analysis of Six XML Schema
-    Languages](http://pike.psu.edu/publications/sigmod-record-00.pdf) by
-    Dongwon Lee, Wesley W. Chu, In ACM SIGMOD Record, Vol. 29, No. 3,
-    page 76-87, September 2000
-  - [Taxonomy of XML Schema Languages using Formal Language
-    Theory](http://pike.psu.edu/publications/toit05.pdf) by Makoto
-    Murata, Dongwon Lee, Murali Mani, Kohsuke Kawaguchi, In ACM Trans.
-    on Internet Technology (TOIT), Vol. 5, No. 4, page 1-45, November
-    2005
+  - [Comparative Analysis of Six XML Schema Languages](http://pike.psu.edu/publications/sigmod-record-00.pdf) by Dongwon Lee, Wesley W. Chu, In ACM SIGMOD Record, Vol. 29, No. 3, page 76-87, September 2000
+  - [Taxonomy of XML Schema Languages using Formal Language Theory](http://pike.psu.edu/publications/toit05.pdf) by Makoto Murata, Dongwon Lee, Murali Mani, Kohsuke Kawaguchi, In ACM Trans. on Internet Technology (TOIT), Vol. 5, No. 4, page 1-45, November 2005
 
 ## 外部链接
 
-  - [Comparing XML Schema
-    Languages](http://www.xml.com/pub/a/2001/12/12/schemacompare.html)
-    by [Eric van der
-    Vlist](https://zh.wikipedia.org/wiki/Eric_van_der_Vlist "wikilink")
-    (2001)
-  - [Application of XML Schema in Web Services
-    Security](http://www.w3.org/2005/05/25-schema/guthula.html) by
-    Sridhar Guthula, W3C Schema Experience Report, May 2005
-  - [March 2009 DEVX article "Taking XML Validation to the Next Level:
-    Introducing CAM" by Michael
-    Sorens](http://www.devx.com/xml/Article/41066)
+  - [Comparing XML Schema Languages](http://www.xml.com/pub/a/2001/12/12/schemacompare.html) by [Eric van der Vlist](https://zh.wikipedia.org/wiki/Eric_van_der_Vlist "wikilink") (2001)
+  - [Application of XML Schema in Web Services Security](http://www.w3.org/2005/05/25-schema/guthula.html) by Sridhar Guthula, W3C Schema Experience Report, May 2005
+  - [March 2009 DEVX article "Taking XML Validation to the Next Level: Introducing CAM" by Michael Sorens](http://www.devx.com/xml/Article/41066)
 
 [Category:XML](https://zh.wikipedia.org/wiki/Category:XML "wikilink")
 

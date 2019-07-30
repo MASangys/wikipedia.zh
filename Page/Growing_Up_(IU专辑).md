@@ -1,8 +1,4 @@
-**Growing
-Up**是韩国[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")[IU的首张韩语录音室专辑](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")，于2009年4月23日发行。为IU在2008年以迷你专辑[Lost
-and
-Found出道后的专辑](../Page/Lost_and_Found_\(IU迷你专辑\).md "wikilink")，曲目中的"Boo"和"You
-Know (있잖아) (Rock Ver.)"也作为单曲发行\[1\]。
+**Growing Up**是韩国[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")[IU的首张韩语录音室专辑](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")，于2009年4月23日发行。为IU在2008年以迷你专辑[Lost and Found出道后的专辑](../Page/Lost_and_Found_\(IU迷你专辑\).md "wikilink")，曲目中的"Boo"和"You Know (있잖아) (Rock Ver.)"也作为单曲发行\[1\]。
 
 ## 曲目
 
@@ -35,8 +31,7 @@ Know (있잖아) (Rock Ver.)"也作为单曲发行\[1\]。
 
   - [IU Official website](http://iu.iloen.com/)
 
-[Category:2009年音乐专辑](https://zh.wikipedia.org/wiki/Category:2009年音乐专辑 "wikilink")
-[Category:IU专辑](https://zh.wikipedia.org/wiki/Category:IU专辑 "wikilink")
+[Category:2009年音乐专辑](https://zh.wikipedia.org/wiki/Category:2009年音乐专辑 "wikilink") [Category:IU专辑](https://zh.wikipedia.org/wiki/Category:IU专辑 "wikilink")
 
 1.
 2.

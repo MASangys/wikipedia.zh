@@ -1,4 +1,4 @@
-是一家[史克威尔艾尼克斯旗下的游戏开发工作室](../Page/史克威尔艾尼克斯.md "wikilink")。在2015年E3游戏展上正式公开。其使命是开发“日式角色扮演”电子游戏。\[1\]
+是一家[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")旗下的游戏开发工作室。在2015年E3游戏展上正式公开。其使命是开发“日式角色扮演”电子游戏。\[1\]
 
 ## 作品
 
@@ -50,12 +50,7 @@ Windows</p></td>
 ## 外部链接
 
   -
-[Category:2015年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2015年開業電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/Category:史克威爾艾尼克斯 "wikilink")
-[Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink")
+[Category:2015年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2015年開業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/Category:史克威爾艾尼克斯 "wikilink") [Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink")
 
-1.  [Square Enix creates new studio to handle new RPG: 'Project
-    Setsuna'](http://www.polygon.com/2015/6/16/8790589/square-enix-creates-new-studio-to-handle-new-rpg-project-setsuna).Polygon.2015-06-16.\[2016-02-26\].
-2.  [I Am Setsuna Official
-    Website](http://www.iamsetsuna.com/us/).SquareEnix.\[2016-03-14\].
+1.  [Square Enix creates new studio to handle new RPG: 'Project Setsuna'](http://www.polygon.com/2015/6/16/8790589/square-enix-creates-new-studio-to-handle-new-rpg-project-setsuna).Polygon.2015-06-16.\[2016-02-26\].
+2.  [I Am Setsuna Official Website](http://www.iamsetsuna.com/us/).SquareEnix.\[2016-03-14\].

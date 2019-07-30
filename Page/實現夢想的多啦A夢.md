@@ -1,5 +1,4 @@
-（，羅馬字：Yume wo Kanaete
-Doraemon），或譯、等等，[臺灣填词版名為](../Page/臺灣.md "wikilink")，[香港填词版名為](../Page/香港.md "wikilink")，是《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》中的一首動畫歌曲，亦是水田版動畫[片頭曲](https://zh.wikipedia.org/wiki/片頭曲 "wikilink")，接替並取代有多年歷史的主題曲[哆啦A夢之歌](../Page/哆啦A夢之歌.md "wikilink")。
+（，羅馬字：Yume wo Kanaete Doraemon），或譯、等等，[臺灣](../Page/臺灣.md "wikilink")填词版名為，[香港](../Page/香港.md "wikilink")填词版名為，是《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》中的一首動畫歌曲，亦是水田版動畫[片頭曲](https://zh.wikipedia.org/wiki/片頭曲 "wikilink")，接替並取代有多年歷史的主題曲[哆啦A夢之歌](../Page/哆啦A夢之歌.md "wikilink")。
 
 ## 日語原版
 
@@ -21,13 +20,13 @@ Doraemon），或譯、等等，[臺灣填词版名為](../Page/臺灣.md "wikil
 
 ### 收錄
 
-  - [Mao於](../Page/Mao.md "wikilink")2007年推出的同名專輯《-{夢をかなえてドラえもん}-》
+  - [Mao](../Page/Mao.md "wikilink")於2007年推出的同名專輯《-{夢をかなえてドラえもん}-》
   - [哆啦A夢電視主題歌大全集](https://zh.wikipedia.org/wiki/哆啦A夢電視主題歌大全集 "wikilink")
   - [哆啦A夢電影主題曲大全集](https://zh.wikipedia.org/wiki/哆啦A夢電影主題曲大全集 "wikilink")
 
 ## 香港版
 
-在香港该曲被翻唱并更名為，作為[翡翠台及](../Page/翡翠台.md "wikilink")[J2台播出水田版動畫的片頭曲](https://zh.wikipedia.org/wiki/J2台 "wikilink")。
+在香港该曲被翻唱并更名為，作為[翡翠台](../Page/翡翠台.md "wikilink")及[J2台播出水田版動畫的片頭曲](https://zh.wikipedia.org/wiki/J2台 "wikilink")。
 
 ### 制作
 
@@ -37,12 +36,10 @@ Doraemon），或譯、等等，[臺灣填词版名為](../Page/臺灣.md "wikil
 
 演唱：
 
-  - [廖碧兒](../Page/廖碧兒.md "wikilink")（2009
-    -2013/3/10）/（後因廖碧兒過檔城市電訊旗下的[香港電視網絡](../Page/香港電視網絡.md "wikilink")，於2013年3月11日起改由[謝安琪主唱](../Page/謝安琪.md "wikilink")）
+  - [廖碧兒](../Page/廖碧兒.md "wikilink")（2009 -2013/3/10）/（後因廖碧兒過檔城市電訊旗下的[香港電視網絡](../Page/香港電視網絡.md "wikilink")，於2013年3月11日起改由[謝安琪](../Page/謝安琪.md "wikilink")主唱）
   - [謝安琪](../Page/謝安琪.md "wikilink")（2013/3/11-）
 
-[1](https://www.youtube.com/watch?v=NPuSeXSZUGE&list=PLnHRtu_dLNda2vWXTtX_zHqHZEa7VdbgF〡廖碧兒主唱)
-[2](https://www.youtube.com/watch?v=yR2vEO_icbs&t=1s〡謝安琪主唱)
+[1](https://www.youtube.com/watch?v=NPuSeXSZUGE&list=PLnHRtu_dLNda2vWXTtX_zHqHZEa7VdbgF〡廖碧兒主唱) [2](https://www.youtube.com/watch?v=yR2vEO_icbs&t=1s〡謝安琪主唱)
 
 ## 臺灣版
 
@@ -67,15 +64,10 @@ Doraemon），或譯、等等，[臺灣填词版名為](../Page/臺灣.md "wikil
   - [藍色夢想](https://www.youtube.com/watch?v=QTlwRezen58&app=desktop)
   - [藍色夢想（電影片頭曲版）](https://www.youtube.com/watch?v=37giUqgjP2Q)
   - [实现梦想的哆啦A梦（中国大陆的北斗企鹅工作室诸成员合唱版，不过并无实际使用）](http://www.bilibili.com/video/av5513051/?from=search&seid=1165068813234605333)
-  - [多啦A夢粵語版OP(廖碧兒主唱版) (TVB
-    J2)](https://www.youtube.com/watch?v=NPuSeXSZUGE)
+  - [多啦A夢粵語版OP(廖碧兒主唱版) (TVB J2)](https://www.youtube.com/watch?v=NPuSeXSZUGE)
   - [多啦A夢粵語版OP(謝安琪主唱版)](https://www.youtube.com/watch?v=gKuCmsqAkVc)
-  - [Doraemon
-    (UK)主題曲](https://youtube.com/watch?feature=youtu.be&v=PYxHK0BhuXE)
+  - [Doraemon (UK)主題曲](https://youtube.com/watch?feature=youtu.be&v=PYxHK0BhuXE)
 
-[分類:多啦A夢歌曲](https://zh.wikipedia.org/wiki/分類:多啦A夢歌曲 "wikilink")
-[分類:2007年歌曲](https://zh.wikipedia.org/wiki/分類:2007年歌曲 "wikilink")
-[分類:歌曲小作品](https://zh.wikipedia.org/wiki/分類:歌曲小作品 "wikilink")
+[分類:多啦A夢歌曲](https://zh.wikipedia.org/wiki/分類:多啦A夢歌曲 "wikilink") [分類:2007年歌曲](https://zh.wikipedia.org/wiki/分類:2007年歌曲 "wikilink") [分類:歌曲小作品](https://zh.wikipedia.org/wiki/分類:歌曲小作品 "wikilink")
 
-1.  不包括以下两种情况：1.电视动画不播放片头曲，例如2008年7月11日 -
-    8月8日無片頭。2.电影上映前后以电影主题曲为电视动画片头曲。
+1.  不包括以下两种情况：1.电视动画不播放片头曲，例如2008年7月11日 - 8月8日無片頭。2.电影上映前后以电影主题曲为电视动画片头曲。

@@ -1,4 +1,4 @@
-**约翰霍普金斯大学中非研究所**（，简称**CARI**）坐落于[美国](../Page/美国.md "wikilink")[华盛顿特区](https://zh.wikipedia.org/wiki/华盛顿特区 "wikilink")，是[约翰霍普金斯大学](https://zh.wikipedia.org/wiki/约翰霍普金斯大学 "wikilink")于2014年设立的[研究所](../Page/研究所.md "wikilink")，致力于研究[中国与](https://zh.wikipedia.org/wiki/中国 "wikilink")[非洲各国的政治](../Page/非洲.md "wikilink")、经济合作关系，定期出版论文。SAIS中非研究所定期发表政策简报，深入分析中国与非洲国家合作方面的各个议题。这些政策简报被各大主流媒体和学术著作引用。
+**约翰霍普金斯大学中非研究所**（，简称**CARI**）坐落于[美国](../Page/美国.md "wikilink")[华盛顿特区](https://zh.wikipedia.org/wiki/华盛顿特区 "wikilink")，是[约翰霍普金斯大学](https://zh.wikipedia.org/wiki/约翰霍普金斯大学 "wikilink")于2014年设立的[研究所](../Page/研究所.md "wikilink")，致力于研究[中国与](https://zh.wikipedia.org/wiki/中国 "wikilink")[非洲](../Page/非洲.md "wikilink")各国的政治、经济合作关系，定期出版论文。SAIS中非研究所定期发表政策简报，深入分析中国与非洲国家合作方面的各个议题。这些政策简报被各大主流媒体和学术著作引用。
 
 SAIS中非研究所由约翰霍普金斯大学高级国际关系学院教授[黛波拉·布罗蒂加姆博士设立](https://zh.wikipedia.org/wiki/黛波拉·布罗蒂加姆 "wikilink")，她著有《非洲将供养中国吗？》(2015)、《龙的礼物：中国在非洲的真实故事》(2009)。
 

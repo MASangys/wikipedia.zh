@@ -2,13 +2,9 @@
 
 ## 概要
 
-《捏造陷阱
--NTR-》於2014年11月18日開始於一迅社《[Comic百合姬](../Page/Comic百合姬.md "wikilink")》連載\[2\]\[3\]，[單行本第](https://zh.wikipedia.org/wiki/單行本 "wikilink")1卷則在2015年6月18日發行\[4\]。官方中文版單行本的代理商為[東立出版社](../Page/東立出版社.md "wikilink")，第1卷單行本在2016年7月18日公開發售\[5\]。官方簡體中文電子版的代理商為[布卡漫畫](https://zh.wikipedia.org/wiki/布卡漫畫 "wikilink")\[6\]。北美地區的官方英文版則由代理，並於2016年9月20日發布第1卷單行本\[7\]\[8\]，七海娛樂創辦人傑森·迪安吉利斯（Jason
-DeAngelis）表示讀者希望公司代理更多百合漫畫，並稱《捏造陷阱
--NTR-》作者Kodamanaoko的戲劇性故事與漂亮的畫工會吸引到《[citrus\~柑橘味香氣\~](https://zh.wikipedia.org/wiki/citrus~柑橘味香氣~ "wikilink")》的讀者觀看\[9\]。
+《捏造陷阱 -NTR-》於2014年11月18日開始於一迅社《[Comic百合姬](../Page/Comic百合姬.md "wikilink")》連載\[2\]\[3\]，[單行本第](https://zh.wikipedia.org/wiki/單行本 "wikilink")1卷則在2015年6月18日發行\[4\]。官方中文版單行本的代理商為[東立出版社](../Page/東立出版社.md "wikilink")，第1卷單行本在2016年7月18日公開發售\[5\]。官方簡體中文電子版的代理商為[布卡漫畫](https://zh.wikipedia.org/wiki/布卡漫畫 "wikilink")\[6\]。北美地區的官方英文版則由代理，並於2016年9月20日發布第1卷單行本\[7\]\[8\]，七海娛樂創辦人傑森·迪安吉利斯（Jason DeAngelis）表示讀者希望公司代理更多百合漫畫，並稱《捏造陷阱 -NTR-》作者Kodamanaoko的戲劇性故事與漂亮的畫工會吸引到《[citrus\~柑橘味香氣\~](https://zh.wikipedia.org/wiki/citrus~柑橘味香氣~ "wikilink")》的讀者觀看\[9\]。
 
-2016年11月15日，一迅社宣佈《捏造陷阱
--NTR-》與《citrus\~柑橘味香氣\~》動畫化，並雙雙預定2017年播放\[10\]\[11\]，唯最終只有本作如期於2017年播放。
+2016年11月15日，一迅社宣佈《捏造陷阱 -NTR-》與《citrus\~柑橘味香氣\~》動畫化，並雙雙預定2017年播放\[10\]\[11\]，唯最終只有本作如期於2017年播放。
 
 漫畫標題的NTR代表「[戴綠帽](https://zh.wikipedia.org/wiki/戴綠帽 "wikilink")」，翻譯成日文為「[外遇](../Page/外遇.md "wikilink")」的意思\[12\]。
 
@@ -96,8 +92,7 @@ ISBN 978-4-7580-7716-3（特裝版）</p></td>
   - 總監督：\[16\]
   - 腳本：、内堀優一\[17\]
   - 人物設計：川島勝\[18\]
-  - 動畫製作：[Creators in
-    Pack](../Page/Creators_in_Pack.md "wikilink")\[19\]
+  - 動畫製作：[Creators in Pack](../Page/Creators_in_Pack.md "wikilink")\[19\]
 
 ### 主題曲
 
@@ -266,9 +261,7 @@ ISBN 978-4-7580-7716-3（特裝版）</p></td>
 
 ## 評價
 
-[動畫新聞網的蕾貝卡](../Page/動畫新聞網.md "wikilink")·西爾弗曼（Rebecca
-Silverman）給了本作C+的評價，她指螢看似很愛由真但可能因為過去的事情而掩藏起來\[24\]。另外她表示非自願製造的羅曼情調對某些人來說很倒胃口，並批評眾角色的性格\[25\]。的創辦人埃莉卡·弗里德曼（Erica
-Friedman）形容作品「既毛骨悚然又荒唐」，還說故事內容大概為「2位女生在她們的男朋友剛好不在房間時赤身裸體做著『某些事情』」。\[26\]
+[動畫新聞網](../Page/動畫新聞網.md "wikilink")的蕾貝卡·西爾弗曼（Rebecca Silverman）給了本作C+的評價，她指螢看似很愛由真但可能因為過去的事情而掩藏起來\[24\]。另外她表示非自願製造的羅曼情調對某些人來說很倒胃口，並批評眾角色的性格\[25\]。的創辦人埃莉卡·弗里德曼（Erica Friedman）形容作品「既毛骨悚然又荒唐」，還說故事內容大概為「2位女生在她們的男朋友剛好不在房間時赤身裸體做著『某些事情』」。\[26\]
 
 ## 註釋與參考資料
 
@@ -280,22 +273,12 @@ Friedman）形容作品「既毛骨悚然又荒唐」，還說故事內容大概
 
 ## 外部連結
 
-  - [一迅社WEB |
-    官網](http://data.ichijinsha.co.jp/book/booksearch/booksearch_detail.php?i=75807433)
+  - [一迅社WEB | 官網](http://data.ichijinsha.co.jp/book/booksearch/booksearch_detail.php?i=75807433)
 
   - [電視動畫「捏造陷阱 -NTR-」動畫公式官網](http://netsuzoutrap.com/)
 
   -
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink")
-[Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink")
-[Category:GL漫畫](https://zh.wikipedia.org/wiki/Category:GL漫畫 "wikilink")
-[Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink")
-[Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink")
-[Category:Comic百合姬](https://zh.wikipedia.org/wiki/Category:Comic百合姬 "wikilink")
-[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink")
-[Category:Creators_in_Pack](https://zh.wikipedia.org/wiki/Category:Creators_in_Pack "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:GL漫畫](https://zh.wikipedia.org/wiki/Category:GL漫畫 "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink") [Category:Comic百合姬](https://zh.wikipedia.org/wiki/Category:Comic百合姬 "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:Creators_in_Pack](https://zh.wikipedia.org/wiki/Category:Creators_in_Pack "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 

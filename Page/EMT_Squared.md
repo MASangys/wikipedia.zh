@@ -1,7 +1,6 @@
-**株式會社EMT
-Squared**（，）是[日本的](../Page/日本.md "wikilink")[動畫製作公司](../Page/日本动画.md "wikilink")。
+**株式會社EMT Squared**（，）是[日本](../Page/日本.md "wikilink")的[動畫製作公司](../Page/日本动画.md "wikilink")。
 
-代表人宮本秀晃曾在[TMS娛樂擔任製作人](../Page/TMS娛樂.md "wikilink")\[1\]。
+代表人宮本秀晃曾在[TMS娛樂](../Page/TMS娛樂.md "wikilink")擔任製作人\[1\]。
 
 ## 作品列表
 
@@ -58,7 +57,7 @@ Squared**（，）是[日本的](../Page/日本.md "wikilink")[動畫製作公�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/URAHARA.md" title="wikilink">URAHARA</a></p></td>
-<td><p>與<a href="../Page/白組.md" title="wikilink">白組共同製作</a></p></td>
+<td><p>與<a href="../Page/白組.md" title="wikilink">白組</a>共同製作</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -146,7 +145,7 @@ Squared**（，）是[日本的](../Page/日本.md "wikilink")[動畫製作公�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/DD北斗之拳.md" title="wikilink">DD北斗之拳2 草莓口味+</a></p></td>
+<td><p><a href="../Page/DD北斗之拳.md" title="wikilink">DD北斗之拳 草莓口味+</a>2</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -171,7 +170,7 @@ Squared**（，）是[日本的](../Page/日本.md "wikilink")[動畫製作公�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/美男高校地球防衛部LOVE！.md" title="wikilink">美男高校地球防衛部LOVE！LOVE！</a></p></td>
+<td><p><a href="../Page/美男高校地球防衛部LOVE！.md" title="wikilink">美男高校地球防衛部LOVE！</a>LOVE！</p></td>
 <td><p><a href="../Page/STUDIO_COMET.md" title="wikilink">STUDIO COMET</a></p></td>
 <td></td>
 </tr>
@@ -193,8 +192,6 @@ Squared**（，）是[日本的](../Page/日本.md "wikilink")[動畫製作公�
 ## 外部連結
 
   -
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
-[Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink")
+[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink") [Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink")
 
 1.

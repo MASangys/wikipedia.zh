@@ -1,21 +1,14 @@
-**Suran**（，），本名**申秀兰**（\[1\]），艺名也称**Elena**（）及**Baily
-Shoo**（），[韩国女](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[创作](../Page/詞曲作家.md "wikilink")[歌手兼](../Page/歌手.md "wikilink")[音樂製作人](../Page/音樂製作人.md "wikilink")。2014年7月9日作为Lodia组合成员出道，出道曲为I
-Got A Feeling。\[2\]2017年以化名“简单扼要说重点
-喂”参加[MBC的](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[蒙面歌王节目](../Page/神秘音樂秀：蒙面歌王.md "wikilink")。\[3\]
+**Suran**（，），本名**申秀兰**（\[1\]），艺名也称**Elena**（）及**Baily Shoo**（），[韩国女](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[创作](../Page/詞曲作家.md "wikilink")[歌手](../Page/歌手.md "wikilink")兼[音樂製作人](../Page/音樂製作人.md "wikilink")。2014年7月9日作为Lodia组合成员出道，出道曲为I Got A Feeling。\[2\]2017年以化名“简单扼要说重点 喂”参加[MBC的](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[蒙面歌王节目](../Page/神秘音樂秀：蒙面歌王.md "wikilink")。\[3\]
 
 ## 生活及生涯
 
 ### 2014－2016年：出道
 
-2014年推出出道后首张单曲《I
-Feel》，其唱功得到了[嘻哈](../Page/嘻哈音樂.md "wikilink")、[R\&B界艺术家们的认可](../Page/节奏布鲁斯.md "wikilink")。2015年发布的第二张单曲《Calling
-In
-Love》在海外音乐网站的[K-pop类别音乐中取得了不错的成绩](../Page/韓國流行音樂.md "wikilink")，并逐渐受到海外乐迷的关注。紧接着于次年公布的愉快和中毒性极强的旋律单曲《DDANG》以及之后推出的[浩室风格单曲](../Page/浩室音乐.md "wikilink")《Paradise
-Go》而备受关注。不仅如此，她还凭借着富有个性的声线和爆发性的唱功在[嘻哈](../Page/嘻哈音樂.md "wikilink")、[R\&B](../Page/节奏布鲁斯.md "wikilink")、[流行等广范围的音乐领域广受大众期待](../Page/流行_\(音樂類型\).md "wikilink")，\[4\]并获得了“女[Zion.T](../Page/Zion.T.md "wikilink")”的绰号。\[5\]
+2014年推出出道后首张单曲《I Feel》，其唱功得到了[嘻哈](../Page/嘻哈音樂.md "wikilink")、[R\&B界艺术家们的认可](../Page/节奏布鲁斯.md "wikilink")。2015年发布的第二张单曲《Calling In Love》在海外音乐网站的[K-pop类别音乐中取得了不错的成绩](../Page/韓國流行音樂.md "wikilink")，并逐渐受到海外乐迷的关注。紧接着于次年公布的愉快和中毒性极强的旋律单曲《DDANG》以及之后推出的[浩室风格单曲](../Page/浩室音乐.md "wikilink")《Paradise Go》而备受关注。不仅如此，她还凭借着富有个性的声线和爆发性的唱功在[嘻哈](../Page/嘻哈音樂.md "wikilink")、[R\&B](../Page/节奏布鲁斯.md "wikilink")、[流行等广范围的音乐领域广受大众期待](../Page/流行_\(音樂類型\).md "wikilink")，\[4\]并获得了“女[Zion.T](../Page/Zion.T.md "wikilink")”的绰号。\[5\]
 
 ### 2017年－至今：《WINE》与《Walkin'》
 
-2017年4月24日，发布数位单曲《WINE》（今日若醉），\[6\]歌曲由[防彈少年團的](../Page/防彈少年團.md "wikilink")[SUGA制作](../Page/閔玧其.md "wikilink")，并邀请饶舌歌手[CHANGMO参与陪唱](https://zh.wikipedia.org/wiki/CHANGMO "wikilink")。\[7\]歌曲于[Gaon数字榜取得了最高第](https://zh.wikipedia.org/wiki/Gaon数字榜 "wikilink")2位\[8\]及500,000数字音乐下载销量的成绩，还于多个音乐网站的榜单中获得首位，\[9\]\[10\]随即人气暴增。\[11\]
+2017年4月24日，发布数位单曲《WINE》（今日若醉），\[6\]歌曲由[防彈少年團](../Page/防彈少年團.md "wikilink")的[SUGA制作](../Page/閔玧其.md "wikilink")，并邀请饶舌歌手[CHANGMO参与陪唱](https://zh.wikipedia.org/wiki/CHANGMO "wikilink")。\[7\]歌曲于[Gaon数字榜取得了最高第](https://zh.wikipedia.org/wiki/Gaon数字榜 "wikilink")2位\[8\]及500,000数字音乐下载销量的成绩，还于多个音乐网站的榜单中获得首位，\[9\]\[10\]随即人气暴增。\[11\]
 
 在单曲取得成功后，随后于2017年6月2日推出了她的第一张[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")《》，\[12\]专辑在最高达到了第30位。\[13\]于同一天公开主打曲〈1+1=0〉由[DEAN参与制作并陪唱](https://zh.wikipedia.org/wiki/权革 "wikilink")，\[14\]在[Gaon数字榜最高至第](https://zh.wikipedia.org/wiki/Gaon数字榜 "wikilink")32位并有超过100,000数字音乐下载量。
 
@@ -454,12 +447,7 @@ Go》而备受关注。不仅如此，她还凭借着富有个性的声线和爆
   -
   -
   -
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink")
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink")
-[Category:21世纪韩国歌手](https://zh.wikipedia.org/wiki/Category:21世纪韩国歌手 "wikilink")
-[Category:蒙面歌王参赛者](https://zh.wikipedia.org/wiki/Category:蒙面歌王参赛者 "wikilink")
+[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink") [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink") [Category:21世纪韩国歌手](https://zh.wikipedia.org/wiki/Category:21世纪韩国歌手 "wikilink") [Category:蒙面歌王参赛者](https://zh.wikipedia.org/wiki/Category:蒙面歌王参赛者 "wikilink")
 
 1.
 

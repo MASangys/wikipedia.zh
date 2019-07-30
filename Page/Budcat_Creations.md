@@ -1,5 +1,4 @@
-**Budcat
-Creations**，是总部设在美国爱荷华州爱荷华市的游戏开发商，由杰森安德森和艾萨克·伯恩斯于在2000年成立，是动视公司的全资附属公司，尽管该工作室以前曾与[艺电和](../Page/艺电.md "wikilink")[Majesco有合作伙伴关系](https://zh.wikipedia.org/wiki/Majesco "wikilink")。
+**Budcat Creations**，是总部设在美国爱荷华州爱荷华市的游戏开发商，由杰森安德森和艾萨克·伯恩斯于在2000年成立，是动视公司的全资附属公司，尽管该工作室以前曾与[艺电](../Page/艺电.md "wikilink")和[Majesco有合作伙伴关系](https://zh.wikipedia.org/wiki/Majesco "wikilink")。
 
 2008年，动视暴雪收购该公司之前，\[1\]并于2010年11月16日将该工作室关闭\[2\]。
 
@@ -38,18 +37,9 @@ Creations**，是总部设在美国爱荷华州爱荷华市的游戏开发商，
 
 ## 外部链接
 
-  - [Budcat Creations company
-    profile](http://www.mobygames.com/company/budcat-creations-llc) from
-    [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
+  - [Budcat Creations company profile](http://www.mobygames.com/company/budcat-creations-llc) from [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
 
-[Category:2000年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2000年開業電子遊戲公司 "wikilink")
-[Category:2010年結業公司](https://zh.wikipedia.org/wiki/Category:2010年結業公司 "wikilink")
-[Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink")
-[Category:美國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國已結業電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
+[Category:2000年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2000年開業電子遊戲公司 "wikilink") [Category:2010年結業公司](https://zh.wikipedia.org/wiki/Category:2010年結業公司 "wikilink") [Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink") [Category:美國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國已結業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
-1.  ["Activision Buys Budcat, Assigns Them New Guitar Hero
-    Title"](http://www.1up.com/do/newsStory?cId=3171214) from
-    [1up.com](https://zh.wikipedia.org/wiki/1-up "wikilink")
-2.  ["Activision shuts down Bizarre and Budcat
-    studios"](http://www.pcgamer.com/2010/11/16/activision-shuts-down-bizarre-and-budcat-studios)
+1.  ["Activision Buys Budcat, Assigns Them New Guitar Hero Title"](http://www.1up.com/do/newsStory?cId=3171214) from [1up.com](https://zh.wikipedia.org/wiki/1-up "wikilink")
+2.  ["Activision shuts down Bizarre and Budcat studios"](http://www.pcgamer.com/2010/11/16/activision-shuts-down-bizarre-and-budcat-studios)

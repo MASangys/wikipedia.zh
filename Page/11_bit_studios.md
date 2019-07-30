@@ -1,19 +1,6 @@
-**11 bit studios S.A.**
-是一家總部位於[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")[華沙的遊戲開發公司](https://zh.wikipedia.org/wiki/華沙 "wikilink")。該公司於2010年9月11日正式成立，由前[CD
-Projekt和](../Page/CD_Projekt.md "wikilink")[Metropolis
-Software開發人員和員工共同創建](https://zh.wikipedia.org/wiki/Metropolis_Software "wikilink")。\[1\]\[2\]\[3\]
-目前，他們僱用了大約70人。該公司的目標是製作適合骨灰級[遊戲玩家和休閒](https://zh.wikipedia.org/wiki/遊戲玩家 "wikilink")[遊戲玩家的遊戲](https://zh.wikipedia.org/wiki/遊戲玩家 "wikilink")\[4\]
-並通過電子分發方式使玩家更容易獲取遊戲。\[5\] 11 bit
-studios在所有主要遊戲平台執行並提供遊戲，包括遊戲主機，電腦和手持設備。\[6\]\[7\]
-他們以其獲獎的遊戲如塔防類型的即時戰略遊戲《[異形：地球戰區](https://zh.wikipedia.org/wiki/異形：地球戰區 "wikilink")》（Anomaly：Warzone
-Earth）而聞名，\[8\]
-他們的另一個遊戲，即《[這是我的戰爭](https://zh.wikipedia.org/wiki/這是我的戰爭 "wikilink")》（This
-War of Mine），描繪了1992年至1996年在波赫戰爭中被包圍的塞拉耶佛平民的經歷，受到了玩家和評論家的歡迎。\[9\]
+**11 bit studios S.A.** 是一家總部位於[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")[華沙的遊戲開發公司](https://zh.wikipedia.org/wiki/華沙 "wikilink")。該公司於2010年9月11日正式成立，由前[CD Projekt和](../Page/CD_Projekt.md "wikilink")[Metropolis Software開發人員和員工共同創建](https://zh.wikipedia.org/wiki/Metropolis_Software "wikilink")。\[1\]\[2\]\[3\] 目前，他們僱用了大約70人。該公司的目標是製作適合骨灰級[遊戲玩家和休閒](https://zh.wikipedia.org/wiki/遊戲玩家 "wikilink")[遊戲玩家的遊戲](https://zh.wikipedia.org/wiki/遊戲玩家 "wikilink")\[4\] 並通過電子分發方式使玩家更容易獲取遊戲。\[5\] 11 bit studios在所有主要遊戲平台執行並提供遊戲，包括遊戲主機，電腦和手持設備。\[6\]\[7\] 他們以其獲獎的遊戲如塔防類型的即時戰略遊戲《[異形：地球戰區](https://zh.wikipedia.org/wiki/異形：地球戰區 "wikilink")》（Anomaly：Warzone Earth）而聞名，\[8\] 他們的另一個遊戲，即《[這是我的戰爭](https://zh.wikipedia.org/wiki/這是我的戰爭 "wikilink")》（This War of Mine），描繪了1992年至1996年在波赫戰爭中被包圍的塞拉耶佛平民的經歷，受到了玩家和評論家的歡迎。\[9\]
 
-他們最近的作品《[冰汽時代](https://zh.wikipedia.org/wiki/冰汽時代 "wikilink")》（Frostpunk），在頭三天售出了25萬份。
-Frostpunk描繪了1886年的暴風雪導致全球糧食歉收，大批人口死亡。玩家將成為地球上最後一座城市的管理者，對人民及裏面的基礎設施進行管理，擴建城市並生存下去。《[冰汽時代](https://zh.wikipedia.org/wiki/冰汽時代 "wikilink")》
-以及11 bit
-studios的另一個著名遊戲《[這是我的戰爭](https://zh.wikipedia.org/wiki/這是我的戰爭 "wikilink")》都因為在遊戲中強迫玩家為了生存而作出艱難的道德選擇而備受讚譽。《[冰汽時代](https://zh.wikipedia.org/wiki/冰汽時代 "wikilink")》的獨特之處在於它不只是一款城市建造遊戲，還融合了激發思想和情感的故事內容。
+他們最近的作品《[冰汽時代](https://zh.wikipedia.org/wiki/冰汽時代 "wikilink")》（Frostpunk），在頭三天售出了25萬份。 Frostpunk描繪了1886年的暴風雪導致全球糧食歉收，大批人口死亡。玩家將成為地球上最後一座城市的管理者，對人民及裏面的基礎設施進行管理，擴建城市並生存下去。《[冰汽時代](https://zh.wikipedia.org/wiki/冰汽時代 "wikilink")》 以及11 bit studios的另一個著名遊戲《[這是我的戰爭](https://zh.wikipedia.org/wiki/這是我的戰爭 "wikilink")》都因為在遊戲中強迫玩家為了生存而作出艱難的道德選擇而備受讚譽。《[冰汽時代](https://zh.wikipedia.org/wiki/冰汽時代 "wikilink")》的獨特之處在於它不只是一款城市建造遊戲，還融合了激發思想和情感的故事內容。
 
 ## 遊戲
 
@@ -81,11 +68,7 @@ studios的另一個著名遊戲《[這是我的戰爭](https://zh.wikipedia.org/
 ## 外部連結
 
   -
-[Category:2010年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2010年開業電子遊戲公司 "wikilink")
-[Category:私人公司](https://zh.wikipedia.org/wiki/Category:私人公司 "wikilink")
-[Category:波蘭電子遊戲公司](https://zh.wikipedia.org/wiki/Category:波蘭電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink")
+[Category:2010年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2010年開業電子遊戲公司 "wikilink") [Category:私人公司](https://zh.wikipedia.org/wiki/Category:私人公司 "wikilink") [Category:波蘭電子遊戲公司](https://zh.wikipedia.org/wiki/Category:波蘭電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink")
 
 1.
 

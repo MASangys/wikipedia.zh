@@ -1,23 +1,14 @@
-**C
-Jamm**（，）\[1\]，本名**柳圣民**（），[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[饒舌](../Page/饒舌.md "wikilink")[歌手及团体](../Page/歌手.md "wikilink")$exy
-$treet & Yello
-Music成员。\[2\]出道初期曾以Rap界的现状为由取艺名为**无趣**（），但现在几乎已经不再使用。现所属带领的旗下。于2015年7月7日发行首张个人专辑《Good
-Boy Doing Bad Things》。\[3\]曾参加[Show Me The Money
-5获得亚军](../Page/Show_Me_The_Money_5.md "wikilink")，\[4\]而获得冠军的则是他童年时的朋友[BewhY](../Page/BewhY.md "wikilink")。\[5\]
+**C Jamm**（，）\[1\]，本名**柳圣民**（），[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[饒舌](../Page/饒舌.md "wikilink")[歌手](../Page/歌手.md "wikilink")及团体$exy $treet & Yello Music成员。\[2\]出道初期曾以Rap界的现状为由取艺名为**无趣**（），但现在几乎已经不再使用。现所属带领的旗下。于2015年7月7日发行首张个人专辑《Good Boy Doing Bad Things》。\[3\]曾参加[Show Me The Money 5获得亚军](../Page/Show_Me_The_Money_5.md "wikilink")，\[4\]而获得冠军的则是他童年时的朋友[BewhY](../Page/BewhY.md "wikilink")。\[5\]
 
 ## 生涯
 
 ### 2012－2013年：出道初期
 
-2012年和2013年分别发布了What The Nice和Go So
-Yello两张歌曲合辑，且仅凭借歌曲合辑（杂辑）就在短时间内在嘻哈界备受瞩目，证明了其毋庸置疑的饒舌实力。
+2012年和2013年分别发布了What The Nice和Go So Yello两张歌曲合辑，且仅凭借歌曲合辑（杂辑）就在短时间内在嘻哈界备受瞩目，证明了其毋庸置疑的饒舌实力。
 
 ### 2014年－至今：人气增长
 
-2014年参加[Show Me The Money
-3并进入半决赛](../Page/Show_Me_The_Money_3.md "wikilink")，成为了大众熟知的契机。2016年和高中时候的“至亲”[BewhY一起参加](../Page/BewhY.md "wikilink")[Show
-Me The Money
-5](../Page/Show_Me_The_Money_5.md "wikilink")，并最终获得了亚军，\[6\]以此给大众留下了深刻的印象。
+2014年参加[Show Me The Money 3并进入半决赛](../Page/Show_Me_The_Money_3.md "wikilink")，成为了大众熟知的契机。2016年和高中时候的“至亲”[BewhY](../Page/BewhY.md "wikilink")一起参加[Show Me The Money 5](../Page/Show_Me_The_Money_5.md "wikilink")，并最终获得了亚军，\[6\]以此给大众留下了深刻的印象。
 
 ## 音乐作品
 
@@ -163,8 +154,7 @@ Me The Money
 
 ### [Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")
 
-|- |[2016](../Page/2016年Mnet亚洲音乐大奖.md "wikilink") |最佳说唱表演 |Puzzle (with
-[BewhY](../Page/BewhY.md "wikilink")) |\[13\] |- |}
+|- |[2016](../Page/2016年Mnet亚洲音乐大奖.md "wikilink") |最佳说唱表演 |Puzzle (with [BewhY](../Page/BewhY.md "wikilink")) |\[13\] |- |}
 
 ## 参考资料
 
@@ -173,16 +163,7 @@ Me The Money
   -
   -
   -
-[Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink")
-[Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink")
-[Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink")
-[Category:韩国饶舌男歌手](https://zh.wikipedia.org/wiki/Category:韩国饶舌男歌手 "wikilink")
-[Category:21世纪的韩国歌手](https://zh.wikipedia.org/wiki/Category:21世纪的韩国歌手 "wikilink")
-[Category:2010年代歌手](https://zh.wikipedia.org/wiki/Category:2010年代歌手 "wikilink")
-[Category:韩国嘻哈音乐家](https://zh.wikipedia.org/wiki/Category:韩国嘻哈音乐家 "wikilink")
-[Category:Just_Music音乐家](https://zh.wikipedia.org/wiki/Category:Just_Music音乐家 "wikilink")
-[Category:Show_Me_The_Money参赛者](https://zh.wikipedia.org/wiki/Category:Show_Me_The_Money参赛者 "wikilink")
-[Category:韓國新教徒](https://zh.wikipedia.org/wiki/Category:韓國新教徒 "wikilink")
+[Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink") [Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink") [Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink") [Category:韩国饶舌男歌手](https://zh.wikipedia.org/wiki/Category:韩国饶舌男歌手 "wikilink") [Category:21世纪的韩国歌手](https://zh.wikipedia.org/wiki/Category:21世纪的韩国歌手 "wikilink") [Category:2010年代歌手](https://zh.wikipedia.org/wiki/Category:2010年代歌手 "wikilink") [Category:韩国嘻哈音乐家](https://zh.wikipedia.org/wiki/Category:韩国嘻哈音乐家 "wikilink") [Category:Just_Music音乐家](https://zh.wikipedia.org/wiki/Category:Just_Music音乐家 "wikilink") [Category:Show_Me_The_Money参赛者](https://zh.wikipedia.org/wiki/Category:Show_Me_The_Money参赛者 "wikilink") [Category:韓國新教徒](https://zh.wikipedia.org/wiki/Category:韓國新教徒 "wikilink")
 
 1.
 

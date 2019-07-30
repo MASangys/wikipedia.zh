@@ -1,5 +1,4 @@
-《**Autumn
-Story**》，是韓國六人男子偶像團體[ASTRO的第三張迷你專輯](https://zh.wikipedia.org/wiki/ASTRO "wikilink")，以〈고백(Confession)〉為主打歌。
+《**Autumn Story**》，是韓國六人男子偶像團體[ASTRO的第三張迷你專輯](https://zh.wikipedia.org/wiki/ASTRO "wikilink")，以〈고백(Confession)〉為主打歌。
 
 ## 事件
 
@@ -71,8 +70,7 @@ Story**》，是韓國六人男子偶像團體[ASTRO的第三張迷你專輯](ht
 
 ## 參考資料
 
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
+[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
 
 1.
 2.

@@ -1,18 +1,12 @@
-《**ON
-異常犯罪搜查官·藤堂比奈子**》是日本[富士電視台](../Page/富士電視台.md "wikilink")、[關西電視台](../Page/關西電視台.md "wikilink")2016年製作播出的電視劇。由[白木啟一郎](https://zh.wikipedia.org/wiki/白木啟一郎 "wikilink")、[寶來忠昭執導](https://zh.wikipedia.org/wiki/寶來忠昭 "wikilink")，
-編劇，波瑠主演，於2016年7月12日首播，2016年9月6日結束。
+《**ON 異常犯罪搜查官·藤堂比奈子**》是日本[富士電視台](../Page/富士電視台.md "wikilink")、[關西電視台](../Page/關西電視台.md "wikilink")2016年製作播出的電視劇。由[白木啟一郎](https://zh.wikipedia.org/wiki/白木啟一郎 "wikilink")、[寶來忠昭執導](https://zh.wikipedia.org/wiki/寶來忠昭 "wikilink")， 編劇，波瑠主演，於2016年7月12日首播，2016年9月6日結束。
 
 ## 簡介
 
-該劇改編自內藤了的小說《ON
-獵奇犯罪搜查班藤堂比奈子》，講述了擁有過目不忘的記憶力的新人刑警藤堂比奈子與充滿個性的夥伴們一起偵破各種奇案的故事。
-成績優秀的員警學校畢業生的藤堂比奈子（[波瑠飾](../Page/波瑠.md "wikilink")）是警視廳搜查一課的新人刑警，她總是隨身攜帶著母親的遺物、一個[七味粉罐子作為護身符](https://zh.wikipedia.org/wiki/七味粉 "wikilink")，吃什麼都要撒一點，周圍的人都覺得她是個怪人。憑藉著過目不忘的驚人記憶力，她與前輩刑警、死宅法醫等充滿個性的夥伴們一起，解決一個又一個十分獵奇的殺人案件。雖然表面上看起來開朗又認真，但其實比奈子的心中也有著不為人知的陰影。
+該劇改編自內藤了的小說《ON 獵奇犯罪搜查班藤堂比奈子》，講述了擁有過目不忘的記憶力的新人刑警藤堂比奈子與充滿個性的夥伴們一起偵破各種奇案的故事。 成績優秀的員警學校畢業生的藤堂比奈子（[波瑠](../Page/波瑠.md "wikilink")飾）是警視廳搜查一課的新人刑警，她總是隨身攜帶著母親的遺物、一個[七味粉罐子作為護身符](https://zh.wikipedia.org/wiki/七味粉 "wikilink")，吃什麼都要撒一點，周圍的人都覺得她是個怪人。憑藉著過目不忘的驚人記憶力，她與前輩刑警、死宅法醫等充滿個性的夥伴們一起，解決一個又一個十分獵奇的殺人案件。雖然表面上看起來開朗又認真，但其實比奈子的心中也有著不為人知的陰影。
 
 ## 主要角色
 
-  - 藤堂比奈子（25）（[波瑠](../Page/波瑠.md "wikilink")
-    飾，童年：[藤澤遙](https://zh.wikipedia.org/wiki/藤澤遙 "wikilink")
-    飾）
+  - 藤堂比奈子（25）（[波瑠](../Page/波瑠.md "wikilink") 飾，童年：[藤澤遙](https://zh.wikipedia.org/wiki/藤澤遙 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -289,9 +283,7 @@
 
 <!-- end list -->
 
-  - 吉田遙香的同學們
-    （[高木煌大](https://zh.wikipedia.org/wiki/高木煌大 "wikilink")，[石倉來透](https://zh.wikipedia.org/wiki/石倉來透 "wikilink")，[荒川梨杏](https://zh.wikipedia.org/wiki/荒川梨杏 "wikilink")
-    飾）
+  - 吉田遙香的同學們 （[高木煌大](https://zh.wikipedia.org/wiki/高木煌大 "wikilink")，[石倉來透](https://zh.wikipedia.org/wiki/石倉來透 "wikilink")，[荒川梨杏](https://zh.wikipedia.org/wiki/荒川梨杏 "wikilink") 飾）
 
 #### 第4話
 
@@ -635,8 +627,7 @@
 
 日文版
 
-  - ON
-    獵奇犯罪捜査班・藤堂比奈子（2014年10月、角川恐怖文庫、[KADOKAWA](../Page/KADOKAWA.md "wikilink")）
+  - ON 獵奇犯罪捜査班・藤堂比奈子（2014年10月、角川恐怖文庫、[KADOKAWA](../Page/KADOKAWA.md "wikilink")）
   - CUT 獵奇犯罪捜査班・藤堂比奈子（2015年3月、角川恐怖文庫、KADOKAWA）
   - AID 獵奇犯罪捜査班・藤堂比奈子（2015年8月、角川恐怖文庫、KADOKAWA）
   - LEAK 獵奇犯罪捜査班・藤堂比奈子（2016年1月、角川恐怖文庫、KADOKAWA）
@@ -645,23 +636,13 @@
 
 中文版
 
-  - ON
-    獵奇犯罪捜査班・藤堂比奈子（2016年9月20日、[尖端出版](../Page/尖端出版.md "wikilink")、譯者：曾玲玲）\[2\]
+  - ON 獵奇犯罪捜査班・藤堂比奈子（2016年9月20日、[尖端出版](../Page/尖端出版.md "wikilink")、譯者：曾玲玲）\[2\]
 
 ## 参考来源
 
 ## 節目的變遷
 
-[Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:關西電視台週二晚間十點連續劇](https://zh.wikipedia.org/wiki/Category:關西電視台週二晚間十點連續劇 "wikilink")
-[Category:Horipro電視劇](https://zh.wikipedia.org/wiki/Category:Horipro電視劇 "wikilink")
-[Category:日本懸疑劇](https://zh.wikipedia.org/wiki/Category:日本懸疑劇 "wikilink")
-[Category:日本犯罪劇](https://zh.wikipedia.org/wiki/Category:日本犯罪劇 "wikilink")
-[Category:日本小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本小說改編電視劇 "wikilink")
-[Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
+[Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:關西電視台週二晚間十點連續劇](https://zh.wikipedia.org/wiki/Category:關西電視台週二晚間十點連續劇 "wikilink") [Category:Horipro電視劇](https://zh.wikipedia.org/wiki/Category:Horipro電視劇 "wikilink") [Category:日本懸疑劇](https://zh.wikipedia.org/wiki/Category:日本懸疑劇 "wikilink") [Category:日本犯罪劇](https://zh.wikipedia.org/wiki/Category:日本犯罪劇 "wikilink") [Category:日本小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本小說改編電視劇 "wikilink") [Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
 
 1.
-2.  [ON
-    獵奇犯罪捜査班・藤堂比奈子－金石堂網路書店](http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018611453076)
+2.  [ON 獵奇犯罪捜査班・藤堂比奈子－金石堂網路書店](http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018611453076)

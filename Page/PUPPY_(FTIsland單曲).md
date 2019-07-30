@@ -1,5 +1,4 @@
-《**To The
-Light**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland的第十八張單曲](../Page/FTIsland.md "wikilink")（第十五張主流單曲），由[李洪基與](../Page/李洪基.md "wikilink")[Corin作曲](https://zh.wikipedia.org/wiki/Corin "wikilink")、洪基、及WISE作詞，並在2015年9月16日以四個不同版本推出\[1\]。
+《**To The Light**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")的第十八張單曲（第十五張主流單曲），由[李洪基](../Page/李洪基.md "wikilink")與[Corin作曲](https://zh.wikipedia.org/wiki/Corin "wikilink")、洪基、及WISE作詞，並在2015年9月16日以四個不同版本推出\[1\]。
 
 ## 背景
 
@@ -9,12 +8,11 @@ Light**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink
 
 此單曲共分為4個發行版本，包括三個限量版本及一個通常版本，每個版本都收錄了不同歌曲的純音樂版本和不同的隨附卡序列碼。
 
-  - 初回限定盤A：這版本包括了一片收錄了《Cycle》的純音樂版本的單曲CD、一片收錄《PUPPY》[音樂錄影帶及錄音與製作花絮的DVD](../Page/音樂錄影帶.md "wikilink")\[4\]。
+  - 初回限定盤A：這版本包括了一片收錄了《Cycle》的純音樂版本的單曲CD、一片收錄《PUPPY》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")及錄音與製作花絮的DVD\[4\]。
 
 <!-- end list -->
 
-  - 初回限定盤B：這版本包括了一片收錄了《平行宇宙》（）的純音樂版本的單曲CD、一片收錄2014年8月15日《ROCK
-    NATION》音樂會片段的DVD\[5\]。
+  - 初回限定盤B：這版本包括了一片收錄了《平行宇宙》（）的純音樂版本的單曲CD、一片收錄2014年8月15日《ROCK NATION》音樂會片段的DVD\[5\]。
 
 <!-- end list -->
 
@@ -30,7 +28,7 @@ Light**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
 | ---------------------------------------- | ---- | ------ | ------- | ---- |
 | 單曲日榜                                     | 2    | 24,271 | 40,892+ | 3星期  |
 | 單曲週榜                                     | 3    | 39,229 |         |      |
@@ -49,8 +47,7 @@ Light**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink
 
   -
 
-[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink")
-[Category:FTIsland歌曲](https://zh.wikipedia.org/wiki/Category:FTIsland歌曲 "wikilink")
+[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:FTIsland歌曲](https://zh.wikipedia.org/wiki/Category:FTIsland歌曲 "wikilink")
 
 1.
 

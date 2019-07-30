@@ -1,8 +1,6 @@
-**Q'ulle**（きゅーる 或稱
-キュール）是一個[日本的女子搖滾舞蹈團體](../Page/日本.md "wikilink")，前身為試跳團體「[DANCEROID](../Page/DANCEROID.md "wikilink")」，該團體於2014年解散後，其中五位成員為了向更高的目標邁進而於同年10月15日宣布結成\[1\]。
+**Q'ulle**（きゅーる 或稱 キュール）是一個[日本](../Page/日本.md "wikilink")的女子搖滾舞蹈團體，前身為試跳團體「[DANCEROID](../Page/DANCEROID.md "wikilink")」，該團體於2014年解散後，其中五位成員為了向更高的目標邁進而於同年10月15日宣布結成\[1\]。
 與DANCEROID以舞蹈為主不同，Q'ulle亦在在演出中加入歌唱的元素\[2\]；音樂演出的部份則由支援樂團負責。
-支援樂團構成成員為：源田爽馬(Sow)(吉他手)，板井直樹(Naoki Itai)
-\[3\](吉他手)，北村望(Nozo)(鼓手)，櫻井陸来(Rock)(貝斯手)，モチヅキヤスノリ(Yasu)(鍵盤手)
+支援樂團構成成員為：源田爽馬(Sow)(吉他手)，板井直樹(Naoki Itai) \[3\](吉他手)，北村望(Nozo)(鼓手)，櫻井陸来(Rock)(貝斯手)，モチヅキヤスノリ(Yasu)(鍵盤手)
 
 ## 簡介
 
@@ -13,8 +11,7 @@
 
 此外在法語中「Quelle」所代表的是一個令人感到驚嘆的詞彙，而成員們也以此作為自身的努力目標，希望每次的演出都能為觀眾帶來驚喜感到驚嘆。
 
-2016/10/19 發售的第二張專輯「OVER THE HOPE」於日本知名銷量排行榜 ORICON 的當周銷量排行獲得第 22
-名\[5\]，為目前最佳成績。
+2016/10/19 發售的第二張專輯「OVER THE HOPE」於日本知名銷量排行榜 ORICON 的當周銷量排行獲得第 22 名\[5\]，為目前最佳成績。
 \== 成員\[6\] ==
 
 | 姓名                                | 生日    | 血型  |
@@ -57,8 +54,7 @@
 
 ・2015年11月18日　4th 單曲「UNREAL/HOPE」發售
 
-・2015年12月29日　組成一周年紀念演出「Q'ulle First Story～以心伝心～」（於 渋谷TSUTAYA
-O-EAST　場地容量：1300）
+・2015年12月29日　組成一周年紀念演出「Q'ulle First Story～以心伝心～」（於 渋谷TSUTAYA O-EAST　場地容量：1300）
 
 ・2016年4月3日～10月15日　亞洲巡迴 2016「other side of HOPE」
 
@@ -86,8 +82,7 @@ O-EAST　場地容量：1300）
 
 ・2015 年 1 月 18 日 1st 單曲發售紀念活動 (演出場所：渋谷エッグマン)
 
-・2015 年 2 月 22 日 1st 單獨演出 LIVE DVD「mic check one two\!」發售紀念活動
-(演出場所：渋谷GARRET)
+・2015 年 2 月 22 日 1st 單獨演出 LIVE DVD「mic check one two\!」發售紀念活動 (演出場所：渋谷GARRET)
 
 ・2015 年 3 月 15 日 2nd 單曲「MONSTER」發售紀念活動 (演出場所：渋谷CYCLONE)
 
@@ -540,13 +535,10 @@ CD：</p>
 
 [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
 
-1.  [元「DANCEROID」の5人が、新ユニット「Q'ulle」を結成！
-    年内にワンマンライブ、そして来年１月にデビューシングル発売！](http://www.sankei.com/economy/news/141025/prl1410250004-n1.html)
-2.  [Q'ulle「mic check one two」インタビュー
-    歌って踊れるワールドワイドなユニットに](http://natalie.mu/music/pp/qulle)
+1.  [元「DANCEROID」の5人が、新ユニット「Q'ulle」を結成！ 年内にワンマンライブ、そして来年１月にデビューシングル発売！](http://www.sankei.com/economy/news/141025/prl1410250004-n1.html)
+2.  [Q'ulle「mic check one two」インタビュー 歌って踊れるワールドワイドなユニットに](http://natalie.mu/music/pp/qulle)
 3.  [Naoki Itai on Vocadb.net](http://vocadb.net/Ar/49236)
-4.  [Q'ulleについて -
-    Q'ulle（キュール）まとめ](https://matome.naver.jp/odai/2142208499950166201)
+4.  [Q'ulleについて - Q'ulle（キュール）まとめ](https://matome.naver.jp/odai/2142208499950166201)
 5.  [Q'ulle のランキング - Oricon](http://www.oricon.co.jp/prof/636048/rank/)
 6.  [Q'ulle Official Member Info](http://qulle.net/member)
 7.  [Q'ulle のランキング - Oricon](http://www.oricon.co.jp/prof/636048/rank/)

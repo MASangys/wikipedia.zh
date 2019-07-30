@@ -76,9 +76,7 @@
   -
 {{-}}
 
-[Category:2016年電影](https://zh.wikipedia.org/wiki/Category:2016年電影 "wikilink")
-[Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink")
-[Category:韓國犯罪片](https://zh.wikipedia.org/wiki/Category:韓國犯罪片 "wikilink")
+[Category:2016年電影](https://zh.wikipedia.org/wiki/Category:2016年電影 "wikilink") [Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink") [Category:韓國犯罪片](https://zh.wikipedia.org/wiki/Category:韓國犯罪片 "wikilink")
 
 1.  <https://www.vogue.com.tw/Movie/content-31226.html>
 2.

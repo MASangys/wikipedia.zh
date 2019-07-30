@@ -1,19 +1,14 @@
-**macOS High Sierra**（版本
-10.13）是[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Mac電腦系列產品的作業系統](https://zh.wikipedia.org/wiki/Mac系列 "wikilink")。這個版本專注於改善前一版[macOS
-Sierra中的功能](https://zh.wikipedia.org/wiki/macOS_Sierra "wikilink")，包括「照片」、「郵件」及「[Safari](../Page/Safari.md "wikilink")」等等。macOS
-High Sierra在2017年6月5日的[WWDC](../Page/苹果全球开发者大会.md "wikilink")2017發表。
+**macOS High Sierra**（版本 10.13）是[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Mac電腦系列產品的作業系統](https://zh.wikipedia.org/wiki/Mac系列 "wikilink")。這個版本專注於改善前一版[macOS Sierra中的功能](https://zh.wikipedia.org/wiki/macOS_Sierra "wikilink")，包括「照片」、「郵件」及「[Safari](../Page/Safari.md "wikilink")」等等。macOS High Sierra在2017年6月5日的[WWDC](../Page/苹果全球开发者大会.md "wikilink")2017發表。
 
 ## 系統需求
 
 macOS High Sierra的系統需求與前一代是相同的。\[1\]
 
   - [iMac](https://zh.wikipedia.org/wiki/iMac "wikilink")：2009 年後或更新機型。
-  - [MacBook](../Page/MacBook.md "wikilink") 和 [Macbook
-    Retina](../Page/MacBook_\(Retina显示屏\).md "wikilink") 版：2009 年後或更新機型。
+  - [MacBook](../Page/MacBook.md "wikilink") 和 [Macbook Retina](../Page/MacBook_\(Retina显示屏\).md "wikilink") 版：2009 年後或更新機型。
   - [MacBook Pro](../Page/MacBook_Pro.md "wikilink")：2010 年中或更新機型。
   - [MacBook Air](../Page/MacBook_Air.md "wikilink")：2010 年末或更新機型。
-  - [Mac Mini](https://zh.wikipedia.org/wiki/Mac_mini "wikilink")：2010
-    年後或更新機型。
+  - [Mac Mini](https://zh.wikipedia.org/wiki/Mac_mini "wikilink")：2010 年後或更新機型。
   - [Mac Pro](../Page/Mac_Pro.md "wikilink")：2010 年後或更新機型。
 
 ## 版本特色
@@ -24,36 +19,21 @@ macOS High Sierra 新增及改善了以下功能：\[2\]\[3\]
 
 #### Apple 檔案系統
 
-[Apple 檔案系統](../Page/苹果文件系统.md "wikilink")（APFS、Apple File System） 在
-[macOS Sierra](https://zh.wikipedia.org/wiki/macOS_Sierra "wikilink")
-就已經加入，不過仍是實驗性質。然而在 macOS High Sierra，APFS 已成為預設檔案系統，取代前一代的檔案格式
-[HFS+](../Page/HFS+.md "wikilink")。
+[Apple 檔案系統](../Page/苹果文件系统.md "wikilink")（APFS、Apple File System） 在 [macOS Sierra](https://zh.wikipedia.org/wiki/macOS_Sierra "wikilink") 就已經加入，不過仍是實驗性質。然而在 macOS High Sierra，APFS 已成為預設檔案系統，取代前一代的檔案格式 [HFS+](../Page/HFS+.md "wikilink")。
 
 #### Metal 2
 
-[Metal](../Page/Metal_\(API\).md "wikilink") 2 是 Metal 的更新版本。作為 Apple
-的圖形資源庫，Metal 2 加入了
-[VR](../Page/虚拟现实.md "wikilink")（虛擬實境）和[機器學習功能](https://zh.wikipedia.org/wiki/機器學習 "wikilink")。
+[Metal](../Page/Metal_\(API\).md "wikilink") 2 是 Metal 的更新版本。作為 Apple 的圖形資源庫，Metal 2 加入了 [VR](../Page/虚拟现实.md "wikilink")（虛擬實境）和[機器學習功能](https://zh.wikipedia.org/wiki/機器學習 "wikilink")。
 
 #### 視訊編碼
 
-macOS High Sierra 新增
-[HEVC](../Page/高效率视频编码.md "wikilink")（H.265）解碼對軟硬體的支援，然而只有配備
-[Intel](../Page/英特尔.md "wikilink") [Kaby
-Lake](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink") 系列處理器的 Mac
-可以獲得 Main10 10
-位元的[硬體解碼支持](https://zh.wikipedia.org/wiki/硬體解碼 "wikilink")；至於配備
-Intel [Skylake](../Page/Skylake微架構.md "wikilink") 處理器系列的 Mac 電腦則可獲得 8
-位元的硬體解碼支持。
+macOS High Sierra 新增 [HEVC](../Page/高效率视频编码.md "wikilink")（H.265）解碼對軟硬體的支援，然而只有配備 [Intel](../Page/英特尔.md "wikilink") [Kaby Lake](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink") 系列處理器的 Mac 可以獲得 Main10 10 位元的[硬體解碼支持](https://zh.wikipedia.org/wiki/硬體解碼 "wikilink")；至於配備 Intel [Skylake](../Page/Skylake微架構.md "wikilink") 處理器系列的 Mac 電腦則可獲得 8 位元的硬體解碼支持。
 
 ### App
 
 #### 照片
 
-照片 App
-有全新的側邊欄，以及增強[臉部辨識功能](https://zh.wikipedia.org/wiki/臉部辨識 "wikilink")、新的「回憶」相簿分類和更多樣化的編輯工具等。使用者也可以在照片
-App 裡直接開啟第三方相片編輯工具（如
-[Photoshop](../Page/Adobe_Photoshop.md "wikilink")）進行修圖。
+照片 App 有全新的側邊欄，以及增強[臉部辨識功能](https://zh.wikipedia.org/wiki/臉部辨識 "wikilink")、新的「回憶」相簿分類和更多樣化的編輯工具等。使用者也可以在照片 App 裡直接開啟第三方相片編輯工具（如 [Photoshop](../Page/Adobe_Photoshop.md "wikilink")）進行修圖。
 
 #### 郵件
 
@@ -75,7 +55,7 @@ App 裡直接開啟第三方相片編輯工具（如
 
 #### FaceTime
 
-[FaceTime可將視訊通話過程錄製成](../Page/FaceTime.md "wikilink") Live Photo。
+[FaceTime](../Page/FaceTime.md "wikilink")可將視訊通話過程錄製成 Live Photo。
 
 #### Spotlight
 
@@ -83,8 +63,7 @@ Spotlight強化可搜尋的範圍，如飛機航班等。
 
 #### iCloud
 
-可讓多人共享 [iCloud](https://zh.wikipedia.org/wiki/iCloud "wikilink")
-儲存空間，並使用 iCloud 連結分享任何檔案。
+可讓多人共享 [iCloud](https://zh.wikipedia.org/wiki/iCloud "wikilink") 儲存空間，並使用 iCloud 連結分享任何檔案。
 
 ## 版本歷史
 
@@ -240,9 +219,7 @@ Spotlight強化可搜尋的範圍，如飛機航班等。
 
 <references />
 
-[Category:MacOS](https://zh.wikipedia.org/wiki/Category:MacOS "wikilink")
-[Category:2017年软件](https://zh.wikipedia.org/wiki/Category:2017年软件 "wikilink")
-[Category:蘋果公司軟體](https://zh.wikipedia.org/wiki/Category:蘋果公司軟體 "wikilink")
+[Category:MacOS](https://zh.wikipedia.org/wiki/Category:MacOS "wikilink") [Category:2017年软件](https://zh.wikipedia.org/wiki/Category:2017年软件 "wikilink") [Category:蘋果公司軟體](https://zh.wikipedia.org/wiki/Category:蘋果公司軟體 "wikilink")
 
 1.
 2.

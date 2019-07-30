@@ -1,22 +1,18 @@
-[Olympus_OM1.jpg](https://zh.wikipedia.org/wiki/File:Olympus_OM1.jpg "fig:Olympus_OM1.jpg")
-**奥林巴斯OM系统**（O =奥林巴斯 而 M =
-Maitani，为设计师米谷之姓氏）是1972年至2002年间，由[奥林巴斯生产销售的一系列](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")35mm胶片[单镜头反光相机](https://zh.wikipedia.org/wiki/单镜头反光相机 "wikilink")，[镜头和配件](https://zh.wikipedia.org/wiki/镜头 "wikilink")（一些配件售到2003年初）。
+[Olympus_OM1.jpg](https://zh.wikipedia.org/wiki/File:Olympus_OM1.jpg "fig:Olympus_OM1.jpg") **奥林巴斯OM系统**（O =奥林巴斯 而 M = Maitani，为设计师米谷之姓氏）是1972年至2002年间，由[奥林巴斯生产销售的一系列](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")35mm胶片[单镜头反光相机](https://zh.wikipedia.org/wiki/单镜头反光相机 "wikilink")，[镜头和配件](https://zh.wikipedia.org/wiki/镜头 "wikilink")（一些配件售到2003年初）。
 
 该系统于1972年由奥林巴斯推出，此时已是尼康、佳能等其他制造商建立了自己的SLR系统的十几年之后。该系列由奥林巴斯的传奇设计师[米谷美久及团队操刀设计](https://zh.wikipedia.org/wiki/米谷美久 "wikilink")，当时米谷美久已是奥林巴斯的首席设计师。
 
 该系统的核心标志是紧凑的机体设计，分为高端系列和稍后的消费级产品。系列首款型号是全机械式M-1，但由于[徕卡](https://zh.wikipedia.org/wiki/徕卡 "wikilink")（已经有M1型号）的压力，改名为OM-1。也基于此，M系统更名为OM系统。该相机包括一个全口径[TTL硫化镉](https://zh.wikipedia.org/wiki/TTL "wikilink")（CdS）曝光计和一个直径相对较大的卡口镜头支架。到20世纪70年代末，OM-2和面向消费者的OM-10加入系列。奥林巴斯陆续添加了专业定位的OM-3和OM-4以及消费级OM-20、OM-30和OM-40，命名以数字增加为模式。相机配有一系列Zuiko品牌的镜头，以及各种配件。大多数OM机身和镜头为手动对焦构造；仅1986年的OM-707是唯一的真正自动对焦机型。
 
-80年代开始的单反相机自动对焦浪潮，同为日本企业的[美能达与](https://zh.wikipedia.org/wiki/美能达 "wikilink")[佳能推出了新的系统](../Page/佳能.md "wikilink")，而[尼康与](../Page/尼康.md "wikilink")[宾得逐步完成了在原先卡口上的对焦自动化改造](https://zh.wikipedia.org/wiki/宾得 "wikilink")。奥林巴斯虽然在OM系列上进行了自动对焦尝试，然而激烈的市场竞争下，还是成为了其可换镜头35mm[胶片相机的绝唱](https://zh.wikipedia.org/wiki/胶片 "wikilink")，而变成历史资料馆中重要的里程碑产品；2012年以[OM-D
-E-M5推出为代表而诞生的新](https://zh.wikipedia.org/wiki/奥林巴斯_OM-D_E-M5 "wikilink")**OM-D系列**，在外形上致敬了这一传统单反机型。
+80年代开始的单反相机自动对焦浪潮，同为日本企业的[美能达与](https://zh.wikipedia.org/wiki/美能达 "wikilink")[佳能](../Page/佳能.md "wikilink")推出了新的系统，而[尼康](../Page/尼康.md "wikilink")与[宾得逐步完成了在原先卡口上的对焦自动化改造](https://zh.wikipedia.org/wiki/宾得 "wikilink")。奥林巴斯虽然在OM系列上进行了自动对焦尝试，然而激烈的市场竞争下，还是成为了其可换镜头35mm[胶片相机的绝唱](https://zh.wikipedia.org/wiki/胶片 "wikilink")，而变成历史资料馆中重要的里程碑产品；2012年以[OM-D E-M5推出为代表而诞生的新](https://zh.wikipedia.org/wiki/奥林巴斯_OM-D_E-M5 "wikilink")**OM-D系列**，在外形上致敬了这一传统单反机型。
 
 ## 相机型号
 
-奥林巴斯的[PEN
-F系列为](../Page/奥林巴斯PEN_F系列.md "wikilink")[半格使用的可换镜头单反相机系统](https://zh.wikipedia.org/wiki/半格 "wikilink")，随着市场升级，奥林巴斯也开始进行135mm全尺寸单反机型的设计考量，在1971～1972年间，具有[M42螺口的](https://zh.wikipedia.org/wiki/M42接口 "wikilink")成为一款试水产品登场，而紧随其后，便拉开了整个OM系列的大幕。
+奥林巴斯的[PEN F系列为](../Page/奥林巴斯PEN_F系列.md "wikilink")[半格使用的可换镜头单反相机系统](https://zh.wikipedia.org/wiki/半格 "wikilink")，随着市场升级，奥林巴斯也开始进行135mm全尺寸单反机型的设计考量，在1971～1972年间，具有[M42螺口的](https://zh.wikipedia.org/wiki/M42接口 "wikilink")成为一款试水产品登场，而紧随其后，便拉开了整个OM系列的大幕。
 
 截止停止生产的2002年，奥林巴斯生产了各种各样的OM系列相机，被分成两个不同的系列。具有单位数字型号的相机是专业系列，具有更高级的功能和更好的耐用性。两位数（或更多）的型号表示设计为便于使用的“消费者”照相机。
 
-80年代日本相机厂商的[自动对焦化浪潮](../Page/自动对焦.md "wikilink")，造成了手动对焦单反相机市场大幅下滑，所有的消费级机身都在1992年后停产；例外是1997年以确善能产OM-2000型号做了一个小的返场演出。OM-2000及高端机型的供应则保持到2002年才停止。\[1\]
+80年代日本相机厂商的[自动对焦](../Page/自动对焦.md "wikilink")化浪潮，造成了手动对焦单反相机市场大幅下滑，所有的消费级机身都在1992年后停产；例外是1997年以确善能产OM-2000型号做了一个小的返场演出。OM-2000及高端机型的供应则保持到2002年才停止。\[1\]
 
 |                  |        |        |        |        |
 | ---------------- | ------ | ------ | ------ | ------ |
@@ -47,21 +43,17 @@ F系列为](../Page/奥林巴斯PEN_F系列.md "wikilink")[半格使用的可换
 
 ### 专业机型
 
-Image:Olympus OM-1 MD Chrome.jpg|Olympus OM-1 MD Image:Olympus OM-2 with
-Zuiko 50mm f1.8.jpg|Olympus OM-2 Image:Olympus OM-2 SP.jpg|Olympus OM-2
-SP image:olympusom3.jpg|Olympus OM-3 Image:OM-4T-1.jpg|Olympus OM-4T
+Image:Olympus OM-1 MD Chrome.jpg|Olympus OM-1 MD Image:Olympus OM-2 with Zuiko 50mm f1.8.jpg|Olympus OM-2 Image:Olympus OM-2 SP.jpg|Olympus OM-2 SP image:olympusom3.jpg|Olympus OM-3 Image:OM-4T-1.jpg|Olympus OM-4T
 
 #### OM-1
 
-奥林巴斯OM-1是一台手动的35mm单镜头反光照相机，于1972年推出，形成了OM系统的基础。最早称作Olympus
-M-1，但因为[徕卡认为该名称有争议](https://zh.wikipedia.org/wiki/徕卡 "wikilink")，而改为OM-1。它由[米谷美久领导的一个小组进行设计](https://zh.wikipedia.org/wiki/米谷美久 "wikilink")，该小组为其设计了取景器内的指针，与TTL测光计曝光表联动。OM-1以它的紧凑、轻量而安静的机身设计著称。与OM系统的其他部分相比，OM-1独有的一个特点是其反光镜升起锁定功能，使其成为天文摄影和微距摄影的理想选择。
+奥林巴斯OM-1是一台手动的35mm单镜头反光照相机，于1972年推出，形成了OM系统的基础。最早称作Olympus M-1，但因为[徕卡认为该名称有争议](https://zh.wikipedia.org/wiki/徕卡 "wikilink")，而改为OM-1。它由[米谷美久领导的一个小组进行设计](https://zh.wikipedia.org/wiki/米谷美久 "wikilink")，该小组为其设计了取景器内的指针，与TTL测光计曝光表联动。OM-1以它的紧凑、轻量而安静的机身设计著称。与OM系统的其他部分相比，OM-1独有的一个特点是其反光镜升起锁定功能，使其成为天文摄影和微距摄影的理想选择。
 
 #### OM-2
 
 [TTL-4.jpg](https://zh.wikipedia.org/wiki/File:TTL-4.jpg "fig:TTL-4.jpg")
 
-1975年推出的奥林巴斯OM-2是一款半自动机型，具有[光圈优先](https://zh.wikipedia.org/wiki/光圈优先 "wikilink")，并配有电子控制快门。它基于OM-1机身，并保持与OM-1配件和镜头的兼容性。它拥有镜后（TTL）胶片位置（off-the-film,
-OTF）测光，通过在实际曝光期间从快门帘幕表面和/或胶片表面的反射测量光计算的，该方式具有很高的曝光准确度。OM-2同时也提供了如OM-1的手动曝光模式供选择。
+1975年推出的奥林巴斯OM-2是一款半自动机型，具有[光圈优先](https://zh.wikipedia.org/wiki/光圈优先 "wikilink")，并配有电子控制快门。它基于OM-1机身，并保持与OM-1配件和镜头的兼容性。它拥有镜后（TTL）胶片位置（off-the-film, OTF）测光，通过在实际曝光期间从快门帘幕表面和/或胶片表面的反射测量光计算的，该方式具有很高的曝光准确度。OM-2同时也提供了如OM-1的手动曝光模式供选择。
 
 #### OM-3
 
@@ -79,22 +71,17 @@ OM-4具有一个内置点测光计\[可对比佳能FTb\]（2％的视角，50mm�
 
 ### 消费级机型
 
-Image:Olympus OM-10 without lens.jpg|Olympus OM-10 Image:Olympus
-OM-20.jpg|Olympus OM-20 image:Olympus OM-30.jpg|Olympus OM-30
-Image:Olympus OM-40 with clear random shutter pattern.jpg|Olympus OM-40
+Image:Olympus OM-10 without lens.jpg|Olympus OM-10 Image:Olympus OM-20.jpg|Olympus OM-20 image:Olympus OM-30.jpg|Olympus OM-30 Image:Olympus OM-40 with clear random shutter pattern.jpg|Olympus OM-40
 
 #### OM-10
 
 OM-10于1979年6月与OM-2N同时上市。为一台具有光圈优先与自动测光功能35mm单反相机，配置了电子控制焦平面快门。除非安装了可选的手动曝光适配器，否则相机只能使用光圈优先AE。允许设置快门速度在1秒和1/1000秒之间，（此外，B门同样可用）。该相机配备了一个固定的[五棱镜取景器](https://zh.wikipedia.org/wiki/五棱镜 "wikilink")，视野率93%，内藏LED曝光指示器。
 
-测光系统方面，使用中央重点测光的光圈优先的自动测光。相机的胶片速度范围从ASA 25到ASA
-1600。使用位于相机右上方的过片杆进行胶片过片操作，胶片回片以左上方的回片柄手动完成。机身尺寸
-136x83x50mm，重量约。
+测光系统方面，使用中央重点测光的光圈优先的自动测光。相机的胶片速度范围从ASA 25到ASA 1600。使用位于相机右上方的过片杆进行胶片过片操作，胶片回片以左上方的回片柄手动完成。机身尺寸 136x83x50mm，重量约。
 
 #### OM-20
 
-OM-20（北美型号OM-G），基本上是OM-10的改进版本，将前作上棘手的模式开关替换为易于使用的设计。OM-20还有内置的快门速度拨盘，取景器中的模式显示以及更强大的上片机构，可以在OM过片马达2（OM
-Motor Drive 2）配合下，以每秒5帧的速度拍摄。快门磁铁和释放系统有其他小的设计改进。
+OM-20（北美型号OM-G），基本上是OM-10的改进版本，将前作上棘手的模式开关替换为易于使用的设计。OM-20还有内置的快门速度拨盘，取景器中的模式显示以及更强大的上片机构，可以在OM过片马达2（OM Motor Drive 2）配合下，以每秒5帧的速度拍摄。快门磁铁和释放系统有其他小的设计改进。
 
 #### OM-30
 
@@ -122,17 +109,13 @@ OM-40在一些市场也被称作OM-PC，部分源于其程序模式（P Mode）�
 
 在OM-1的设计研究过程中，由米谷美久领导的奥林巴斯设计团队曾经制作过一款完全模块化的相机，就好比是“35毫米的哈苏”。这款相机是作为技术验证原型而制造的，被称为OM-X。\[3\]
 
-2017年，奥林巴斯日本的技术历史展馆『瑞古洞』，就有安排OM系统开发时期的展览『オリンパス一眼レフの夜明け前』，期间展现了原型试作机\[4\]
-。
+2017年，奥林巴斯日本的技术历史展馆『瑞古洞』，就有安排OM系统开发时期的展览『オリンパス一眼レフの夜明け前』，期间展现了原型试作机\[4\] 。
 
 ## 镜头群
 
-[Olympus_Zuiko_OM_50_mm_lens.jpg](https://zh.wikipedia.org/wiki/File:Olympus_Zuiko_OM_50_mm_lens.jpg "fig:Olympus_Zuiko_OM_50_mm_lens.jpg")
-[OMLenses.jpg](https://zh.wikipedia.org/wiki/File:OMLenses.jpg "fig:OMLenses.jpg")
-OM系列镜头的光圈控制环安排在镜身前部。这种设计隔开了快门控制，快门速度控制则由镜头卡口与机身联动。OM镜头还在镜头上配备了景深预览按钮，相比同时期大多数其他单反相机系统，这个按钮通常安排在机身上。
+[Olympus_Zuiko_OM_50_mm_lens.jpg](https://zh.wikipedia.org/wiki/File:Olympus_Zuiko_OM_50_mm_lens.jpg "fig:Olympus_Zuiko_OM_50_mm_lens.jpg") [OMLenses.jpg](https://zh.wikipedia.org/wiki/File:OMLenses.jpg "fig:OMLenses.jpg") OM系列镜头的光圈控制环安排在镜身前部。这种设计隔开了快门控制，快门速度控制则由镜头卡口与机身联动。OM镜头还在镜头上配备了景深预览按钮，相比同时期大多数其他单反相机系统，这个按钮通常安排在机身上。
 
-[Olympus_OM_-_Canon_EOS_Adapter_with_Dandelion_Focus_Confirmation_Chip.jpg](https://zh.wikipedia.org/wiki/File:Olympus_OM_-_Canon_EOS_Adapter_with_Dandelion_Focus_Confirmation_Chip.jpg "fig:Olympus_OM_-_Canon_EOS_Adapter_with_Dandelion_Focus_Confirmation_Chip.jpg")
-OM系统的法兰距为46mm（从镜头安装环或法兰盘位置到胶片的距离），由于较大的法兰距和独立的光圈控制机构，使得OM镜头可以较容易地转接到其他系统机身上使用，例如佳能的[EOS系统](https://zh.wikipedia.org/wiki/佳能EOS "wikilink")。
+[Olympus_OM_-_Canon_EOS_Adapter_with_Dandelion_Focus_Confirmation_Chip.jpg](https://zh.wikipedia.org/wiki/File:Olympus_OM_-_Canon_EOS_Adapter_with_Dandelion_Focus_Confirmation_Chip.jpg "fig:Olympus_OM_-_Canon_EOS_Adapter_with_Dandelion_Focus_Confirmation_Chip.jpg") OM系统的法兰距为46mm（从镜头安装环或法兰盘位置到胶片的距离），由于较大的法兰距和独立的光圈控制机构，使得OM镜头可以较容易地转接到其他系统机身上使用，例如佳能的[EOS系统](https://zh.wikipedia.org/wiki/佳能EOS "wikilink")。
 
 <table>
 <caption>OM系统Zuiko镜头规格表[5]</caption>
@@ -1220,48 +1203,33 @@ OM系统的法兰距为46mm（从镜头安装环或法兰盘位置到胶片的�
   - 过片马达，和具有250张拍摄数量的可拆卸后背
   - 闪光系统：专用闪光灯，[热靴](../Page/热靴.md "wikilink")，连接线，连接头，电源，适配器和滤镜
   - 可交换的对焦屏，而不是笨重的可交换取景器设计
-  - [微距摄影](https://zh.wikipedia.org/wiki/微距摄影 "wikilink")：
-    延长管（近摄接圈），支架和底座，专用闪光灯和配件
-  - [显微摄影](https://zh.wikipedia.org/wiki/显微摄影 "wikilink"):
-    系统和连接，对焦，自动和手动曝光装置
+  - [微距摄影](https://zh.wikipedia.org/wiki/微距摄影 "wikilink")： 延长管（近摄接圈），支架和底座，专用闪光灯和配件
+  - [显微摄影](https://zh.wikipedia.org/wiki/显微摄影 "wikilink"): 系统和连接，对焦，自动和手动曝光装置
   - 技术摄影：数据记录背，内窥镜和天文摄影适配器
   - 收纳箱，握把，绳带，电池座
 
 ## 参见
 
   - [奥林巴斯](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")
-      - [奥林巴斯PEN系列](https://zh.wikipedia.org/wiki/奥林巴斯PEN系列 "wikilink")
-        奥林巴斯另一久负盛名的相机系列，同为米谷美久设计
+      - [奥林巴斯PEN系列](https://zh.wikipedia.org/wiki/奥林巴斯PEN系列 "wikilink") 奥林巴斯另一久负盛名的相机系列，同为米谷美久设计
   - [米谷美久](https://zh.wikipedia.org/wiki/米谷美久 "wikilink")
-  - [4/3系统](https://zh.wikipedia.org/wiki/4/3系统 "wikilink")
-    ，奥林巴斯参与主导的可换镜头单镜头反光数码相机系统
+  - [4/3系统](https://zh.wikipedia.org/wiki/4/3系统 "wikilink") ，奥林巴斯参与主导的可换镜头单镜头反光数码相机系统
   - [微4/3系统](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")，4/3系统的延伸，为[無反光鏡可換鏡頭相機](../Page/無反光鏡可換鏡頭相機.md "wikilink")
-      - [奥林巴斯 OM-D
-        E-M5](https://zh.wikipedia.org/wiki/奥林巴斯_OM-D_E-M5 "wikilink")，2012年发布的M43机型，为OM-D系列型号，外形致敬**OM系统**
+      - [奥林巴斯 OM-D E-M5](https://zh.wikipedia.org/wiki/奥林巴斯_OM-D_E-M5 "wikilink")，2012年发布的M43机型，为OM-D系列型号，外形致敬**OM系统**
 
 ## 参考与引用
 
 ## 外部链接
 
-  - [Olympus
-    Chronology](https://www.olympus-global.com/company/milestones/history/04.html)
-    奥林巴斯历史页
-  - [米谷美久が語る開発秘話
-    OM-1～XAシリーズ](https://web.archive.org/web/20180325232358/https://www.olympus.co.jp/brand/museum/lecture/vol1/)
-    米谷美久开发故事，2005年于日本相机博物馆 - 奥林巴斯（日本）
+  - [Olympus Chronology](https://www.olympus-global.com/company/milestones/history/04.html) 奥林巴斯历史页
+  - [米谷美久が語る開発秘話 OM-1～XAシリーズ](https://web.archive.org/web/20180325232358/https://www.olympus.co.jp/brand/museum/lecture/vol1/) 米谷美久开发故事，2005年于日本相机博物馆 - 奥林巴斯（日本）
 
-[Category:奧林巴斯相機](https://zh.wikipedia.org/wiki/Category:奧林巴斯相機 "wikilink")
-[Category:單鏡反光相機](https://zh.wikipedia.org/wiki/Category:單鏡反光相機 "wikilink")
-[Category:鏡頭接環](https://zh.wikipedia.org/wiki/Category:鏡頭接環 "wikilink")
+[Category:奧林巴斯相機](https://zh.wikipedia.org/wiki/Category:奧林巴斯相機 "wikilink") [Category:單鏡反光相機](https://zh.wikipedia.org/wiki/Category:單鏡反光相機 "wikilink") [Category:鏡頭接環](https://zh.wikipedia.org/wiki/Category:鏡頭接環 "wikilink")
 
 1.
 2.
 3.
 4.
-5.  [Unofficial Olympus OM Sales Information
-    File](http://esif.world-traveller.org/), Hans van Veluwen
+5.  [Unofficial Olympus OM Sales Information File](http://esif.world-traveller.org/), Hans van Veluwen
 6.
-7.  [Olympus OM-1(n) & OM-2 (n) SLR
-    cameras](http://www.mir.com.my/rb/photography/hardwares/classics/olympusom1n2/index.htm),
-    Rick Oleson, Bruce hamm, Simon Evans & Mark Dapoz; Photography in
-    Malaysia
+7.  [Olympus OM-1(n) & OM-2 (n) SLR cameras](http://www.mir.com.my/rb/photography/hardwares/classics/olympusom1n2/index.htm), Rick Oleson, Bruce hamm, Simon Evans & Mark Dapoz; Photography in Malaysia

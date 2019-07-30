@@ -1,5 +1,4 @@
-**Million
-Doll**（），中文譯名「百萬偶像」，是由漫畫家[藍所做的](../Page/藍_\(漫畫家\).md "wikilink")[網路漫畫](https://zh.wikipedia.org/wiki/網路漫畫 "wikilink")。2013年12月至2016年11月連載於免費[APP](https://zh.wikipedia.org/wiki/APP "wikilink")《GANMA！》上。由[旭Production製作的](../Page/旭Production.md "wikilink")[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2015年7月至9月首播。
+**Million Doll**（），中文譯名「百萬偶像」，是由漫畫家[藍所做的](../Page/藍_\(漫畫家\).md "wikilink")[網路漫畫](https://zh.wikipedia.org/wiki/網路漫畫 "wikilink")。2013年12月至2016年11月連載於免費[APP](https://zh.wikipedia.org/wiki/APP "wikilink")《GANMA！》上。由[旭Production](../Page/旭Production.md "wikilink")製作的[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2015年7月至9月首播。
 
 ## 登場人物
 
@@ -51,13 +50,11 @@ Doll**（），中文譯名「百萬偶像」，是由漫畫家[藍所做的](..
 
 ## 漫畫
 
-2013年12月12日起連載於免費[APP](https://zh.wikipedia.org/wiki/APP "wikilink")《GANMA！》上\[1\]，2015年9月起因作者健康不佳而停止連載。2本[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2015年6月26日由[EARTH
-STAR
-Entertainment發售](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wikilink")。\[2\]\[3\]
+2013年12月12日起連載於免費[APP](https://zh.wikipedia.org/wiki/APP "wikilink")《GANMA！》上\[1\]，2015年9月起因作者健康不佳而停止連載。2本[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2015年6月26日由[EARTH STAR Entertainment發售](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wikilink")。\[2\]\[3\]
 
 ## 動畫
 
-2015年3月號於《[Newtype](../Page/Newtype_\(雜誌\).md "wikilink")》雜誌發表將由旭Production製作[電視動畫並於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2015年7月首播的消息\[4\]\[5\]。2015年7月6日至9月21日播放。由[川口敬一郎擔任導演](../Page/川口敬一郎.md "wikilink")、村上桃子擔任劇本寫作\[6\]\[7\]。
+2015年3月號於《[Newtype](../Page/Newtype_\(雜誌\).md "wikilink")》雜誌發表將由旭Production製作[電視動畫並於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2015年7月首播的消息\[4\]\[5\]。2015年7月6日至9月21日播放。由[川口敬一郎](../Page/川口敬一郎.md "wikilink")擔任導演、村上桃子擔任劇本寫作\[6\]\[7\]。
 
 ### 製作人員
 
@@ -81,8 +78,7 @@ Entertainment發售](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wik
 
 :; 「Dreamin'×Dreamin'\!\!」（第1－3話）
 
-::
-作詞：hotaru，作曲、編曲：奥井康介，主唱：Itorio（[松井惠理子](../Page/松井惠理子.md "wikilink")、[渡部優衣](../Page/渡部優衣.md "wikilink")、飯塚麻結）
+:: 作詞：hotaru，作曲、編曲：奥井康介，主唱：Itorio（[松井惠理子](../Page/松井惠理子.md "wikilink")、[渡部優衣](../Page/渡部優衣.md "wikilink")、飯塚麻結）
 
 :: 第5話作插入歌使用。
 
@@ -106,8 +102,7 @@ Entertainment發售](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wik
 
 :; 「TA・BE・GO・RO@ガール！」（第2、4話）
 
-::
-作詞、編曲：，作曲：田代智一，主唱：鎌倉日奈美（[内田彩](https://zh.wikipedia.org/wiki/内田彩 "wikilink")）
+:: 作詞、編曲：，作曲：田代智一，主唱：鎌倉日奈美（[内田彩](https://zh.wikipedia.org/wiki/内田彩 "wikilink")）
 
 :; 「Take you to My PARTY\!\!」（第6話）
 
@@ -236,12 +231,7 @@ Entertainment發售](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wik
 
   -
 
-[Category:Comic_Earth_Star](https://zh.wikipedia.org/wiki/Category:Comic_Earth_Star "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
-[Category:旭Production](https://zh.wikipedia.org/wiki/Category:旭Production "wikilink")
+[Category:Comic_Earth_Star](https://zh.wikipedia.org/wiki/Category:Comic_Earth_Star "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:旭Production](https://zh.wikipedia.org/wiki/Category:旭Production "wikilink")
 
 1.
 2.

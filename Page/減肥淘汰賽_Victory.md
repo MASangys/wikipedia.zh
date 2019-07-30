@@ -1,5 +1,4 @@
-《**減肥淘汰賽
-Victory**》（，）[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台的綜藝節目](../Page/SBS_\(韓國\).md "wikilink")，由[李秀景](https://zh.wikipedia.org/wiki/李秀景 "wikilink")、[申东烨](https://zh.wikipedia.org/wiki/申东烨 "wikilink")、[申奉仙](../Page/申奉仙.md "wikilink")、[李奎翰主持](../Page/李奎翰.md "wikilink")，節目每集從全國找出過胖的民眾，進行一連串減肥活動\[1\]。
+《**減肥淘汰賽 Victory**》（，）[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台的綜藝節目](../Page/SBS_\(韓國\).md "wikilink")，由[李秀景](https://zh.wikipedia.org/wiki/李秀景 "wikilink")、[申东烨](https://zh.wikipedia.org/wiki/申东烨 "wikilink")、[申奉仙](../Page/申奉仙.md "wikilink")、[李奎翰](../Page/李奎翰.md "wikilink")主持，節目每集從全國找出過胖的民眾，進行一連串減肥活動\[1\]。
 
 ## 各集嘉賓
 
@@ -103,13 +102,10 @@ Victory**》（，）[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[S
 
   - 官方網站：
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
 
 1.
 2.
 3.
 4.
-5.  [시카고 타자기
-    Naver](https://search.naver.com/search.naver?where=nexearch&query=시카고+타자기)
+5.  [시카고 타자기 Naver](https://search.naver.com/search.naver?where=nexearch&query=시카고+타자기)

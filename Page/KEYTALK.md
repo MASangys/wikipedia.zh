@@ -1,12 +1,11 @@
-**KEYTALK**，[日本](../Page/日本.md "wikilink")4人[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")\[1\]。於[東京都](../Page/東京都.md "wikilink")[世田谷區](../Page/世田谷區.md "wikilink")[下北澤組成並以此地作為活動據點](../Page/下北澤.md "wikilink")。2007年組團，2009年使用現名。2013年出道。
+**KEYTALK**，[日本](../Page/日本.md "wikilink")4人[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")\[1\]。於[東京都](../Page/東京都.md "wikilink")[世田谷區](../Page/世田谷區.md "wikilink")[下北澤](../Page/下北澤.md "wikilink")組成並以此地作為活動據點。2007年組團，2009年使用現名。2013年出道。
 
-其中專輯《》曾在[Oricon公信榜週榜中排名第](../Page/Oricon公信榜.md "wikilink")4
-，單曲《》在Oricon公信榜週榜中最高曾排名第7。
+其中專輯《》曾在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")週榜中排名第4 ，單曲《》在Oricon公信榜週榜中最高曾排名第7。
 
 ## 成員
 
   - 寺中友將 (Vo.\&Gt.)
-    （，），出身於[熊本縣](../Page/熊本縣.md "wikilink")，[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")[A型](https://zh.wikipedia.org/wiki/ABO血型系統 "wikilink")\[2\]，樂隊[主唱和](../Page/歌手.md "wikilink")[吉他手](../Page/吉他.md "wikilink")。畢業於九州學院中學校\[3\]、[昭和音樂大學](https://zh.wikipedia.org/wiki/昭和音樂大學 "wikilink")\[4\]。
+    （，），出身於[熊本縣](../Page/熊本縣.md "wikilink")，[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")[A型](https://zh.wikipedia.org/wiki/ABO血型系統 "wikilink")\[2\]，樂隊[主唱和](../Page/歌手.md "wikilink")[吉他](../Page/吉他.md "wikilink")手。畢業於九州學院中學校\[3\]、[昭和音樂大學](https://zh.wikipedia.org/wiki/昭和音樂大學 "wikilink")\[4\]。
   - 小野武正 (Gt.)
     （，），出身於[埼玉縣](../Page/埼玉縣.md "wikilink")[埼玉市](../Page/埼玉市.md "wikilink")[見沼區](../Page/見沼區.md "wikilink")，[吉他手兼團長](https://zh.wikipedia.org/wiki/吉他手 "wikilink")\[5\]。
   - 首藤義勝 (Vo.\&Ba.)
@@ -120,8 +119,7 @@ TGMX ()企劃製作</p></td>
 
 #### 配信限定單曲
 
-  - **[Last
-    Christmas](../Page/Last_Christmas_\(歌曲\).md "wikilink")（[WHAM！COVER](../Page/威猛樂隊.md "wikilink")）**（2011年12月14日）
+  - **[Last Christmas](../Page/Last_Christmas_\(歌曲\).md "wikilink")（[WHAM！COVER](../Page/威猛樂隊.md "wikilink")）**（2011年12月14日）
   - ****（2012年2月29日）
   - **風吹街**（2013年4月24日）
 
@@ -843,7 +841,7 @@ VICL-64172</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/富士電視台.md" title="wikilink">富士電視台電視動畫</a>《<a href="../Page/龍珠超.md" title="wikilink">七龍珠超</a>》片尾主題曲</p></td>
+<td><p><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>電視動畫《<a href="../Page/龍珠超.md" title="wikilink">七龍珠超</a>》片尾主題曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -853,7 +851,7 @@ VICL-64172</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台音樂情報節目</a>《》5月份片頭主題曲<br />
+<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>音樂情報節目《》5月份片頭主題曲<br />
 朝日電視台綜藝節目《》片尾主題曲</p></td>
 <td></td>
 </tr>
@@ -870,7 +868,7 @@ VICL-64172</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/日本電視台.md" title="wikilink">日本電視台綜藝節目</a>《》3月份片尾主題曲</p></td>
+<td><p><a href="../Page/日本電視台.md" title="wikilink">日本電視台</a>綜藝節目《》3月份片尾主題曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -992,8 +990,7 @@ VICL-64172</p></td>
 
 ### 廣播節目
 
-  - （[J-WAVE](../Page/J-WAVE.md "wikilink")，2013年10月－2016年3月）－週四的領航員
-    \[51\]
+  - （[J-WAVE](../Page/J-WAVE.md "wikilink")，2013年10月－2016年3月）－週四的領航員 \[51\]
 
 ## 腳註
 
@@ -1007,8 +1004,7 @@ VICL-64172</p></td>
 
   - [KEYTALK BLOG](http://keytalk.jugem.jp/) －KEYTALK的官方部落格。
 
-  - [KOGA REC](https://www.youtube.com/user/KOGARECORDS)
-    －[YouTube](../Page/YouTube.md "wikilink")（KEYTALK TV等相關動畫，不定期更新）
+  - [KOGA REC](https://www.youtube.com/user/KOGARECORDS) －[YouTube](../Page/YouTube.md "wikilink")（KEYTALK TV等相關動畫，不定期更新）
 
   -
 
@@ -1024,11 +1020,7 @@ VICL-64172</p></td>
 
   - －寺中友將的官方個人部落格（2015年3月16日－2015年10月30日）
 
-[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink")
-[Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink")
-[Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
-[Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink")
-[Category:日本另類搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本另類搖滾樂團 "wikilink")
+[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink") [Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink") [Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink") [Category:日本另類搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本另類搖滾樂團 "wikilink")
 
 1.
 
@@ -1053,7 +1045,7 @@ VICL-64172</p></td>
 
 12.
 
-13. [Oricon公信榜排名為基準](../Page/Oricon公信榜.md "wikilink")。
+13. [Oricon公信榜](../Page/Oricon公信榜.md "wikilink")排名為基準。
 
 14.
 

@@ -1,4 +1,4 @@
-**BAAD**是[日本一支](../Page/日本.md "wikilink")[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")。作为一支1990年代的[Being系摇滚乐队](../Page/Being_\(公司\).md "wikilink")，他们非常稀奇地没有接受[织田哲郎和](https://zh.wikipedia.org/wiki/织田哲郎 "wikilink")所提供的音乐。根据乐队[制作人](https://zh.wikipedia.org/wiki/音乐制作人 "wikilink")[长户大幸的说法](https://zh.wikipedia.org/wiki/长户大幸 "wikilink")，乐队的名称是“最棒的BAD”的意思。
+**BAAD**是[日本](../Page/日本.md "wikilink")一支[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")。作为一支1990年代的[Being系摇滚乐队](../Page/Being_\(公司\).md "wikilink")，他们非常稀奇地没有接受[织田哲郎和](https://zh.wikipedia.org/wiki/织田哲郎 "wikilink")所提供的音乐。根据乐队[制作人](https://zh.wikipedia.org/wiki/音乐制作人 "wikilink")[长户大幸的说法](https://zh.wikipedia.org/wiki/长户大幸 "wikilink")，乐队的名称是“最棒的BAD”的意思。
 
 ## 乐队成员
 
@@ -222,14 +222,10 @@ ENDLESS CHAIN－电影版－</p></td>
 ## 外部链接
 
   -
-  - [BAAD](http://www.xiami.com/artist/evq6b7c5)在[虾米音乐上的页面](../Page/虾米音乐.md "wikilink")
+  - [BAAD](http://www.xiami.com/artist/evq6b7c5)在[虾米音乐](../Page/虾米音乐.md "wikilink")上的页面
 
-  - [BAAD](http://music.163.com/#/artist?id=18711)在[网易云音乐上的页面](../Page/网易云音乐.md "wikilink")
+  - [BAAD](http://music.163.com/#/artist?id=18711)在[网易云音乐](../Page/网易云音乐.md "wikilink")上的页面
 
   - [BAAD](https://www.last.fm/music/BAAD)在LastFM上的页面
 
-[Category:Being旗下藝人](https://zh.wikipedia.org/wiki/Category:Being旗下藝人 "wikilink")
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:1992年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1992年成立的音樂團體 "wikilink")
-[Category:1999年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1999年解散的音樂團體 "wikilink")
-[Category:日本古倫美亞旗下藝人](https://zh.wikipedia.org/wiki/Category:日本古倫美亞旗下藝人 "wikilink")
+[Category:Being旗下藝人](https://zh.wikipedia.org/wiki/Category:Being旗下藝人 "wikilink") [Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:1992年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1992年成立的音樂團體 "wikilink") [Category:1999年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1999年解散的音樂團體 "wikilink") [Category:日本古倫美亞旗下藝人](https://zh.wikipedia.org/wiki/Category:日本古倫美亞旗下藝人 "wikilink")

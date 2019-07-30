@@ -1,4 +1,4 @@
-《**Mamamoo音樂作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Mamamoo歷年發行之各類音樂作品](../Page/Mamamoo.md "wikilink")。
+《**Mamamoo音樂作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Mamamoo](../Page/Mamamoo.md "wikilink")歷年發行之各類音樂作品。
 
 ## 韓語
 
@@ -826,7 +826,7 @@
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/4colors_(Mamamoo日本專輯)" title="wikilink">4colors</a></strong>》</p>
+<td><p>《<strong><a href="../Page/4colors_(Mamamoo日本專輯).md" title="wikilink">4colors</a></strong>》</p>
 <ul>
 <li>發行日期：2019年8月7日</li>
 <li>唱片公司：VICTOR ENTERAINMENT</li>
@@ -945,9 +945,7 @@
   -
 ## 參考文獻
 
-[Category:Mamamoo](https://zh.wikipedia.org/wiki/Category:Mamamoo "wikilink")
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
-[Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
+[Category:Mamamoo](https://zh.wikipedia.org/wiki/Category:Mamamoo "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.
 

@@ -10,8 +10,7 @@
 
   - [櫻乃小姐迷走中！](https://zh.wikipedia.org/wiki/櫻乃小姐迷走中！ "wikilink")，原名《！》（《》連載，全3冊，[芳文社](../Page/芳文社.md "wikilink")）
 
-  - [撫子！](https://zh.wikipedia.org/wiki/撫子！ "wikilink")，原名《》（《Manga Time
-    Jumbo》連載，分上下冊全2冊，芳文社）
+  - [撫子！](https://zh.wikipedia.org/wiki/撫子！ "wikilink")，原名《》（《Manga Time Jumbo》連載，分上下冊全2冊，芳文社）
 
   - （《》，全2冊，[竹書房](../Page/竹書房.md "wikilink")）
 
@@ -25,8 +24,6 @@
 
   -
 
-[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink")
-[Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.

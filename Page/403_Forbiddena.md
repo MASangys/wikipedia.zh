@@ -2,29 +2,23 @@
 
 ## 名称起源
 
-<span>此乐队</span>**403
-Forbiddena**之名的名字是互联网[通信协议](../Page/网络传输协议.md "wikilink")[HTTP中的权限不足错误代码的](../Page/超文本传输协议.md "wikilink")403
-Forbidden，再后缀一个**-a**。同时此名字也是官方[主页的名字](../Page/首页.md "wikilink") **研究室403号室
--Forbiddena- **的缩写。\[2\] \[3\]
+<span>此乐队</span>**403 Forbiddena**之名的名字是互联网[通信协议](../Page/网络传输协议.md "wikilink")[HTTP中的权限不足错误代码的](../Page/超文本传输协议.md "wikilink")403 Forbidden，再后缀一个**-a**。同时此名字也是官方[主页的名字](../Page/首页.md "wikilink") **研究室403号室 -Forbiddena- **的缩写。\[2\] \[3\]
 
 ## 歌曲特征
 
-主要为英语歌曲，但常具有日语口音。因2000年代中期的互联网Flash动画[惡夢之城系列使用了](https://zh.wikipedia.org/wiki/惡夢之城 "wikilink")《Southern
-Cross\[4\]》，以及《Northern Lights\[5\]》作为主题曲而出名。
+主要为英语歌曲，但常具有日语口音。因2000年代中期的互联网Flash动画[惡夢之城系列使用了](https://zh.wikipedia.org/wiki/惡夢之城 "wikilink")《Southern Cross\[4\]》，以及《Northern Lights\[5\]》作为主题曲而出名。
 
 ## 成员
 
   - 403([日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：<span lang="ja" id="cxmwIQ" tabindex="0">よんまるさん</span>):担当乐队的钢琴手、键盘手及主唱。为了区别于乐队的名字，所以也称为**管理人403**。
 
-  - Robert
-    Legacy([日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：<span lang="ja" id="cxmwJA" tabindex="0">ろばーとれがしー</span>):担当乐队吉他手、主唱。
+  - Robert Legacy([日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：<span lang="ja" id="cxmwJA" tabindex="0">ろばーとれがしー</span>):担当乐队吉他手、主唱。
 
   - 1024([日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：<span lang="ja" id="cxmwJw" tabindex="0">てつし</span>)
 
   - Hatanaka([日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：<span lang="ja" id="cxmwKg" tabindex="0">はたなか</span>)
 
-  - ([日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：<span lang="ja" id="cxmwLQ" tabindex="0">おおとり
-    すおう</span>)
+  - ([日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：<span lang="ja" id="cxmwLQ" tabindex="0">おおとり すおう</span>)
 
 ## 专辑
 

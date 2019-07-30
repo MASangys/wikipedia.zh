@@ -28,6 +28,4 @@
 
   - [Lantis網站上的介紹](http://lantis.jp/release-item/LACM-14601.html)
 
-[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink")
-[Category:LoveLive\!音樂](https://zh.wikipedia.org/wiki/Category:LoveLive!音樂 "wikilink")
-[Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink")
+[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink") [Category:LoveLive\!音樂](https://zh.wikipedia.org/wiki/Category:LoveLive!音樂 "wikilink") [Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink")

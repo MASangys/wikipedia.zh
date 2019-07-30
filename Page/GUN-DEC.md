@@ -1,5 +1,4 @@
-是[Sammy在](https://zh.wikipedia.org/wiki/颯美 "wikilink")1991年4月26日發售的[Family
-Computer平台動作類型遊戲](https://zh.wikipedia.org/wiki/Family_Computer "wikilink")\[1\]，美版是在1991年11月30日發售。\[2\]遊戲中除了動作類型玩法外還有競速類型和射擊類型的玩法。
+是[Sammy在](https://zh.wikipedia.org/wiki/颯美 "wikilink")1991年4月26日發售的[Family Computer平台動作類型遊戲](https://zh.wikipedia.org/wiki/Family_Computer "wikilink")\[1\]，美版是在1991年11月30日發售。\[2\]遊戲中除了動作類型玩法外還有競速類型和射擊類型的玩法。
 
 ## 遊戲系統
 
@@ -24,26 +23,17 @@ Computer平台動作類型遊戲](https://zh.wikipedia.org/wiki/Family_Computer 
 
 ## 評價
 
-《GUN-DEC》在《[Fami通](../Page/Fami通.md "wikilink")》9號的Cross
-Review中獲得24分（滿分40分）。\[4\]另外在[IGN的Top](../Page/IGN.md "wikilink")
-100 NES Games中排名第47名。\[5\]
+《GUN-DEC》在《[Fami通](../Page/Fami通.md "wikilink")》9號的Cross Review中獲得24分（滿分40分）。\[4\]另外在[IGN](../Page/IGN.md "wikilink")的Top 100 NES Games中排名第47名。\[5\]
 
 ## 參考來源
 
-[Category:1991年電子遊戲](https://zh.wikipedia.org/wiki/Category:1991年電子遊戲 "wikilink")
-[Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink")
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
-[Category:警察主角題材作品](https://zh.wikipedia.org/wiki/Category:警察主角題材作品 "wikilink")
+[Category:1991年電子遊戲](https://zh.wikipedia.org/wiki/Category:1991年電子遊戲 "wikilink") [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:警察主角題材作品](https://zh.wikipedia.org/wiki/Category:警察主角題材作品 "wikilink")
 
 1.  [ガンデック](https://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=19812)[ファミ通.com](https://zh.wikipedia.org/wiki/ファミ通.com "wikilink")
 
-2.  [Vice: Project
-    Doom](http://www.ign.com/games/vice-project-doom/nes-6974)[IGN](../Page/IGN.md "wikilink")
+2.  [Vice: Project Doom](http://www.ign.com/games/vice-project-doom/nes-6974)[IGN](../Page/IGN.md "wikilink")
 
-3.  [GUN-DEC](http://www.ne.jp/asahi/hzk/kommander/rvgund.html)GAME
-    KOMMANDER
+3.  [GUN-DEC](http://www.ne.jp/asahi/hzk/kommander/rvgund.html)GAME KOMMANDER
 
 4.
-5.  [47. Vice: Project
-    Doom](http://www.ign.com/top-100-nes-games/47.html)IGN
+5.  [47. Vice: Project Doom](http://www.ign.com/top-100-nes-games/47.html)IGN

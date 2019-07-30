@@ -1,8 +1,4 @@
-《**IDOL RADIO**》是[韓國電台](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
-RADIO於](https://zh.wikipedia.org/wiki/MBC "wikilink")2018年開播、為偶像量身打造的廣播節目。2018年7月7日進行節目的發布首秀，同年7月23－29日期間進行試播放送。\[1\]\[2\]
-2018年9月27日，正式成為正規編成之電台節目，並在同年9月27日韓國時間21時於[V
-LIVE進行首次放送](../Page/Naver_\(公司\).md "wikilink")，同年10月8日韓國時間0時開始於[MBC標準FM放送](https://zh.wikipedia.org/wiki/MBC標準FM "wikilink")
-\[3\]。
+《**IDOL RADIO**》是[韓國電台](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC RADIO於](https://zh.wikipedia.org/wiki/MBC "wikilink")2018年開播、為偶像量身打造的廣播節目。2018年7月7日進行節目的發布首秀，同年7月23－29日期間進行試播放送。\[1\]\[2\] 2018年9月27日，正式成為正規編成之電台節目，並在同年9月27日韓國時間21時於[V LIVE進行首次放送](../Page/Naver_\(公司\).md "wikilink")，同年10月8日韓國時間0時開始於[MBC標準FM放送](https://zh.wikipedia.org/wiki/MBC標準FM "wikilink") \[3\]。
 
 ## 節目DJ
 
@@ -17,7 +13,7 @@ LIVE進行首次放送](../Page/Naver_\(公司\).md "wikilink")，同年10月8�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/徐恩光.md" title="wikilink">徐恩光</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/男歌手" title="wikilink">男歌手</a>，<a href="https://zh.wikipedia.org/wiki/男子音樂組合" title="wikilink">男子團體</a><a href="../Page/BTOB.md" title="wikilink">BTOB成員</a>、隊長</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/男歌手" title="wikilink">男歌手</a>，<a href="https://zh.wikipedia.org/wiki/男子音樂組合" title="wikilink">男子團體</a><a href="../Page/BTOB.md" title="wikilink">BTOB</a>成員、隊長</p></td>
 <td></td>
 <td><p>第1－6集</p></td>
 <td><p>一代DJ</p></td>
@@ -360,6 +356,28 @@ LIVE進行首次放送](../Page/Naver_\(公司\).md "wikilink")，同年10月8�
 | EP276                 |
 | EP277                 |
 | EP278                 |
+| EP279                 |
+| EP280                 |
+| EP281                 |
+| EP282                 |
+| EP283                 |
+| EP284                 |
+| EP285                 |
+| EP286                 |
+| EP287                 |
+| EP288                 |
+| EP289                 |
+| EP290                 |
+| EP291                 |
+| EP292                 |
+| EP293                 |
+| EP294                 |
+| EP295                 |
+| EP296                 |
+| EP297                 |
+| EP298                 |
+| EP299                 |
+| EP300                 |
 |                       |
 
 ## 相關條目
@@ -372,9 +390,7 @@ LIVE進行首次放送](../Page/Naver_\(公司\).md "wikilink")，同年10月8�
 
 ## 外部連結
 
-  - [MBC RADIO
-    官方網站](http://www.imbc.com/broad/radio/fm/idolradio/index.html)
-
+  - [MBC RADIO 官方網站](http://www.imbc.com/broad/radio/fm/idolradio/index.html)
 
   -
 
@@ -386,5 +402,4 @@ LIVE進行首次放送](../Page/Naver_\(公司\).md "wikilink")，同年10月8�
 
 1.
 2.
-3.  [IDOL RADIO 官方Twitter
-    貼文](https://twitter.com/idolradiokorea/status/1047375268845740032)
+3.  [IDOL RADIO 官方Twitter 貼文](https://twitter.com/idolradiokorea/status/1047375268845740032)

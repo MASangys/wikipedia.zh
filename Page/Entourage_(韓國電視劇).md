@@ -1,4 +1,4 @@
-《**Entourage**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2016年11月4日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，由《[需要浪漫3](../Page/需要浪漫3.md "wikilink")》張英宇導演指導。是改編自美國電視劇《[我家也有大明星](../Page/我家也有大明星.md "wikilink")》，講述年少成名的男主人公車英斌（[徐康俊飾](../Page/徐康俊.md "wikilink")）和他的三個好朋友經歷人生低沉大起大落的故事。此剧特点就是拥有了韩国电视剧有史以来最多位艺人特别出演的电视剧。
+《**Entourage**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2016年11月4日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，由《[需要浪漫3](../Page/需要浪漫3.md "wikilink")》張英宇導演指導。是改編自美國電視劇《[我家也有大明星](../Page/我家也有大明星.md "wikilink")》，講述年少成名的男主人公車英斌（[徐康俊](../Page/徐康俊.md "wikilink")飾）和他的三個好朋友經歷人生低沉大起大落的故事。此剧特点就是拥有了韩国电视剧有史以来最多位艺人特别出演的电视剧。
 
 ## 演員陣容
 
@@ -656,7 +656,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/SK飛龍.md" title="wikilink">SK飛龍的</a><br />
+<td><p><a href="../Page/SK飛龍.md" title="wikilink">SK飛龍</a>的<br />
 啦啦隊員們</p></td>
 <td></td>
 <td><p>SK飛龍隊的啦啦隊隊員們</p></td>
@@ -967,14 +967,7 @@
 
   - [韓國tvN官方網站](http://program.tving.com/tvn/entourage)
 
-[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink")
-[Category:翻拍電視劇](https://zh.wikipedia.org/wiki/Category:翻拍電視劇 "wikilink")
-[Category:演藝界題材電視劇](https://zh.wikipedia.org/wiki/Category:演藝界題材電視劇 "wikilink")
-[Category:明星主角題材電視劇](https://zh.wikipedia.org/wiki/Category:明星主角題材電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:TvN深夜劇集](https://zh.wikipedia.org/wiki/Category:TvN深夜劇集 "wikilink")
+[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:翻拍電視劇](https://zh.wikipedia.org/wiki/Category:翻拍電視劇 "wikilink") [Category:演藝界題材電視劇](https://zh.wikipedia.org/wiki/Category:演藝界題材電視劇 "wikilink") [Category:明星主角題材電視劇](https://zh.wikipedia.org/wiki/Category:明星主角題材電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:TvN深夜劇集](https://zh.wikipedia.org/wiki/Category:TvN深夜劇集 "wikilink") [Category:我家也有大明星](https://zh.wikipedia.org/wiki/Category:我家也有大明星 "wikilink")
 
-1.  [AGB 닐슨 미디어리서치 케이블
-    시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
-2.  [안투라지 : 네이버
-    통합검색](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&oquery=%EC%8B%9C%EA%B7%B8%EB%84%90&ie=utf8&query=%EC%95%88%ED%88%AC%EB%9D%BC%EC%A7%80)
+1.  [AGB 닐슨 미디어리서치 케이블 시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
+2.  [안투라지 : 네이버 통합검색](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&oquery=%EC%8B%9C%EA%B7%B8%EB%84%90&ie=utf8&query=%EC%95%88%ED%88%AC%EB%9D%BC%EC%A7%80)

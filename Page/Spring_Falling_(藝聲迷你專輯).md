@@ -1,5 +1,4 @@
-《**Spring Falling**》是韓國演唱團體[Super
-Junior成員](../Page/Super_Junior.md "wikilink")[藝聲的第二張個人迷你專輯](../Page/藝聲.md "wikilink")，2017年4月18日發行，收錄6首歌曲。
+《**Spring Falling**》是韓國演唱團體[Super Junior成員](../Page/Super_Junior.md "wikilink")[藝聲](../Page/藝聲.md "wikilink")的第二張個人迷你專輯，2017年4月18日發行，收錄6首歌曲。
 
 ## 發行與宣傳
 
@@ -7,11 +6,9 @@ Junior成員](../Page/Super_Junior.md "wikilink")[藝聲的第二張個人迷你
 
 ## 錄製與音樂
 
-歌曲《At the Time》及《So Close Yet So Far》為藝聲原創曲。而《At the
-Time》請來同隊主唱的[圭賢配唱](../Page/圭賢.md "wikilink")\[3\]。
+歌曲《At the Time》及《So Close Yet So Far》為藝聲原創曲。而《At the Time》請來同隊主唱的[圭賢](../Page/圭賢.md "wikilink")配唱\[3\]。
 
-《Paper
-Umbrella》是有著細膩鋼琴演奏與優美弦樂旋律的抒情曲，歌詞描述與分手戀人的回憶像雨一般傾洩的日子，雖然試圖用紙傘遮住記憶之雨，但雨卻滲入了紙傘，讓人更加心痛\[4\]。
+《Paper Umbrella》是有著細膩鋼琴演奏與優美弦樂旋律的抒情曲，歌詞描述與分手戀人的回憶像雨一般傾洩的日子，雖然試圖用紙傘遮住記憶之雨，但雨卻滲入了紙傘，讓人更加心痛\[4\]。
 
 ## 曲目
 
@@ -55,7 +52,7 @@ Umbrella》是有著細膩鋼琴演奏與優美弦樂旋律的抒情曲，歌詞
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 總銷量        |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 總銷量        |
 | ---------------------------------------- | ---- | ---------- |
 | 專輯周榜                                     | 42   | 1,437\[7\] |
 
@@ -92,9 +89,7 @@ Umbrella》是有著細膩鋼琴演奏與優美弦樂旋律的抒情曲，歌詞
 ## 外部链接
 
   -
-[Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:Super_Junior音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior音樂專輯 "wikilink")
+[Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:Super_Junior音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior音樂專輯 "wikilink")
 
 1.
 2.

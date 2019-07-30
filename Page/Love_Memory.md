@@ -1,5 +1,4 @@
-《**Love
-Memory**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[糖兄妹的第一張音樂專輯](../Page/糖兄妹.md "wikilink")，於2010年10月25日限量發售。
+《**Love Memory**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[糖兄妹](../Page/糖兄妹.md "wikilink")的第一張音樂專輯，於2010年10月25日限量發售。
 
 ## 曲目
 
@@ -13,6 +12,4 @@ Memory**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "
 | <small>自說自話</small>  |          2          |          2          |
 | <small>花都開好了</small> |         20          |          1          |
 
-[Category:糖兄妹音樂專輯](https://zh.wikipedia.org/wiki/Category:糖兄妹音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:糖兄妹音樂專輯](https://zh.wikipedia.org/wiki/Category:糖兄妹音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

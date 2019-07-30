@@ -1,5 +1,4 @@
-《**Seoul
-Mate**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[O'live的綜藝節目](https://zh.wikipedia.org/wiki/O'live "wikilink")，是一檔演藝人把自己家借給訪問韓國的外國人并進行溝通的節目\[1\]\[2\]\[3\]。
+《**Seoul Mate**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[O'live的綜藝節目](https://zh.wikipedia.org/wiki/O'live "wikilink")，是一檔演藝人把自己家借給訪問韓國的外國人并進行溝通的節目\[1\]\[2\]\[3\]。
 
 ## 播放時段變更
 
@@ -274,11 +273,9 @@ Mate**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[O
 ## 外部連結
 
   - [Seoul Mate-DAUM](http://movie.daum.net/tv/main?tvProgramId=80914)
-  - [Seoul
-    Mate-NAVER](http://m.entertain.naver.com/tvBrand/6231403/broadcastInfo/mainCard)
+  - [Seoul Mate-NAVER](http://m.entertain.naver.com/tvBrand/6231403/broadcastInfo/mainCard)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
 1.
 2.

@@ -1,12 +1,10 @@
-[第23回](../Page/第23回TV_LIFE年度日劇大賞.md "wikilink") ← **第24回** →
-[第25回](../Page/第25回TV_LIFE年度日劇大賞.md "wikilink")
+[第23回](../Page/第23回TV_LIFE年度日劇大賞.md "wikilink") ← **第24回** → [第25回](../Page/第25回TV_LIFE年度日劇大賞.md "wikilink")
 
-**第24回[TV
-LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2014年播出的連續劇做出的觀眾投票。
+**第24回[TV LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2014年播出的連續劇做出的觀眾投票。
 
-本屆獲獎最多的劇集是[朝日電視台的](../Page/朝日電視台.md "wikilink")《[死神君](../Page/死神君.md "wikilink")》，共獲3獎。
+本屆獲獎最多的劇集是[朝日電視台](../Page/朝日電視台.md "wikilink")的《[死神君](../Page/死神君.md "wikilink")》，共獲3獎。
 
-個人方面，[大野智第四度獲頒最佳男主角獎](../Page/大野智.md "wikilink")；[窪田正孝是繼](https://zh.wikipedia.org/wiki/窪田正孝 "wikilink")[第21回的](../Page/第21回TV_LIFE年度日劇大賞.md "wikilink")[鈴木福後](../Page/鈴木福.md "wikilink")，第二位同屆一併奪得「最佳男配角」和「最佳新演員」的男演員。
+個人方面，[大野智](../Page/大野智.md "wikilink")第四度獲頒最佳男主角獎；[窪田正孝是繼](https://zh.wikipedia.org/wiki/窪田正孝 "wikilink")[第21回的](../Page/第21回TV_LIFE年度日劇大賞.md "wikilink")[鈴木福](../Page/鈴木福.md "wikilink")後，第二位同屆一併奪得「最佳男配角」和「最佳新演員」的男演員。
 
 ## 獎項
 
@@ -307,5 +305,4 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 
 ## 參考來源
 
-[Category:2014年日本](https://zh.wikipedia.org/wiki/Category:2014年日本 "wikilink")
-[Category:2014年电视奖项](https://zh.wikipedia.org/wiki/Category:2014年电视奖项 "wikilink")
+[Category:2014年日本](https://zh.wikipedia.org/wiki/Category:2014年日本 "wikilink") [Category:2014年电视奖项](https://zh.wikipedia.org/wiki/Category:2014年电视奖项 "wikilink")

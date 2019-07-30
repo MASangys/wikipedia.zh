@@ -1,8 +1,4 @@
-是一款由[Project
-Soul開發的](https://zh.wikipedia.org/wiki/南夢宮 "wikilink")[3D](https://zh.wikipedia.org/wiki/3D遊戲 "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，由[萬代南夢宮娛樂定於](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")2018年10月19日\[1\]在[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation
-4和](../Page/PlayStation_4.md "wikilink")[Xbox
-One平台發行](../Page/Xbox_One.md "wikilink")\[2\]。該遊戲與前作相隔了《》六年\[3\]\[4\]。據製作人大久保元博的說法，該遊戲為《[魂之系列](../Page/魂之系列.md "wikilink")》的20週年紀念慶祝之作\[5\]。
+是一款由[Project Soul開發的](https://zh.wikipedia.org/wiki/南夢宮 "wikilink")[3D](https://zh.wikipedia.org/wiki/3D遊戲 "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，由[萬代南夢宮娛樂定於](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")2018年10月19日\[1\]在[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation 4和](../Page/PlayStation_4.md "wikilink")[Xbox One平台發行](../Page/Xbox_One.md "wikilink")\[2\]。該遊戲與前作相隔了《》六年\[3\]\[4\]。據製作人大久保元博的說法，該遊戲為《[魂之系列](../Page/魂之系列.md "wikilink")》的20週年紀念慶祝之作\[5\]。
 
 ## 系統
 
@@ -71,10 +67,7 @@ One平台發行](../Page/Xbox_One.md "wikilink")\[2\]。該遊戲與前作相隔
 
 ## 開發
 
-《劍魂VI》是[萬代南夢宮娛樂在](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")上首次對外宣布。該遊戲將於[PlayStation
-4](../Page/PlayStation_4.md "wikilink")、[Xbox
-One和](../Page/Xbox_One.md "wikilink")[Microsoft
-Windows平台上發行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，並早於三年前便開始進入開發階段\[30\]。萬代南夢宮也表示，該遊戲會相當注重故事性\[31\]\[32\]。就和南夢宮之前的遊戲《[鐵拳7](https://zh.wikipedia.org/wiki/鐵拳7 "wikilink")》一樣，《劍魂VI》是以[虚幻引擎4來製作](../Page/虚幻引擎.md "wikilink")，其製作人是大久保元博\[33\]。據Okubo的說法，該遊戲的開發代號為「Luxor」，因團隊打算讓其像第一款《劍魂》遊戲那樣地光亮。
+《劍魂VI》是[萬代南夢宮娛樂在](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")上首次對外宣布。該遊戲將於[PlayStation 4](../Page/PlayStation_4.md "wikilink")、[Xbox One和](../Page/Xbox_One.md "wikilink")[Microsoft Windows平台上發行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，並早於三年前便開始進入開發階段\[30\]。萬代南夢宮也表示，該遊戲會相當注重故事性\[31\]\[32\]。就和南夢宮之前的遊戲《[鐵拳7](https://zh.wikipedia.org/wiki/鐵拳7 "wikilink")》一樣，《劍魂VI》是以[虚幻引擎](../Page/虚幻引擎.md "wikilink")4來製作，其製作人是大久保元博\[33\]。據Okubo的說法，該遊戲的開發代號為「Luxor」，因團隊打算讓其像第一款《劍魂》遊戲那樣地光亮。
 
 ## 參考文獻
 
@@ -82,17 +75,7 @@ Windows平台上發行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilin
 
   -
 
-[Category:2018年电子游戏](https://zh.wikipedia.org/wiki/Category:2018年电子游戏 "wikilink")
-[Category:魂之系列](https://zh.wikipedia.org/wiki/Category:魂之系列 "wikilink")
-[Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink")
-[Category:萬代南夢宮遊戲](https://zh.wikipedia.org/wiki/Category:萬代南夢宮遊戲 "wikilink")
-[Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:Xbox_One遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_One遊戲 "wikilink")
-[Category:虚幻引擎游戏](https://zh.wikipedia.org/wiki/Category:虚幻引擎游戏 "wikilink")
-[Category:多人及單人電子遊戲](https://zh.wikipedia.org/wiki/Category:多人及單人電子遊戲 "wikilink")
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
+[Category:2018年电子游戏](https://zh.wikipedia.org/wiki/Category:2018年电子游戏 "wikilink") [Category:魂之系列](https://zh.wikipedia.org/wiki/Category:魂之系列 "wikilink") [Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink") [Category:萬代南夢宮遊戲](https://zh.wikipedia.org/wiki/Category:萬代南夢宮遊戲 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Xbox_One遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_One遊戲 "wikilink") [Category:虚幻引擎游戏](https://zh.wikipedia.org/wiki/Category:虚幻引擎游戏 "wikilink") [Category:多人及單人電子遊戲](https://zh.wikipedia.org/wiki/Category:多人及單人電子遊戲 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
 1.
 

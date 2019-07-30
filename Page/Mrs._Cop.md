@@ -1,8 +1,6 @@
-《**Mrs.
-Cop**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")2015年8月3日起播出的[月火連續劇](../Page/SBS月火連續劇.md "wikilink")，是《Mrs.
-Cop》系列作品第一季。由《[你們被包圍了](../Page/你們被包圍了.md "wikilink")》[劉仁植導演執導與](../Page/劉仁植.md "wikilink")《[對我說謊試試](https://zh.wikipedia.org/wiki/對我說謊試試 "wikilink")》[黃洙夏作家合作打造](../Page/黃洙夏.md "wikilink")。講述重案組刑警們追捕犯人、尋求正義的一系列故事。\[1\]
+《**Mrs. Cop**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")2015年8月3日起播出的[月火連續劇](../Page/SBS月火連續劇.md "wikilink")，是《Mrs. Cop》系列作品第一季。由《[你們被包圍了](../Page/你們被包圍了.md "wikilink")》[劉仁植](../Page/劉仁植.md "wikilink")導演執導與《[對我說謊試試](https://zh.wikipedia.org/wiki/對我說謊試試 "wikilink")》[黃洙夏](../Page/黃洙夏.md "wikilink")作家合作打造。講述重案組刑警們追捕犯人、尋求正義的一系列故事。\[1\]
 
-2015年12月16日，宣布將此劇塑造成一系列作品，為韓國首部以季度形式播放的劇集。劇集系列將維持原有大綱，但不斷加入新角色以增加新鮮感。第二季於2016年3月於[週末特別計劃時段播出](../Page/SBS週末特別計劃劇.md "wikilink")，但主角改由[金成鈴飾演](../Page/金成鈴.md "wikilink")。
+2015年12月16日，宣布將此劇塑造成一系列作品，為韓國首部以季度形式播放的劇集。劇集系列將維持原有大綱，但不斷加入新角色以增加新鮮感。第二季於2016年3月於[週末特別計劃時段播出](../Page/SBS週末特別計劃劇.md "wikilink")，但主角改由[金成鈴](../Page/金成鈴.md "wikilink")飾演。
 
 ## 演員陣容
 
@@ -257,7 +255,7 @@ Cop》系列作品第一季。由《[你們被包圍了](../Page/你們被包圍
 
 ### 其他搭配歌曲
 
-  - 台灣[八大戲劇台版本](../Page/八大戲劇台.md "wikilink")
+  - 台灣[八大戲劇台](../Page/八大戲劇台.md "wikilink")版本
       - 片尾曲：[李玖哲](../Page/李玖哲.md "wikilink")《Stay》
 
 ## 收視率
@@ -410,11 +408,7 @@ Cop》系列作品第一季。由《[你們被包圍了](../Page/你們被包圍
 
   - [韓國SBS官方網站](http://program.sbs.co.kr/builder/programMainList.do?pgm_id=22000008305)
 
-[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink")
-[Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
-[Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
+[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink") [Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
 
 1.  [起光、金旻鍾、申素律合作](http://kpopn.com/2015/07/09/284654/)
 2.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)

@@ -78,8 +78,7 @@ local wiki = {
 
 }
 
-\-- Credit to <http://stackoverflow.com/a/1283608/2644759> -- cc-by-sa
-3.0 local function tableMerge(t1, t2)
+\-- Credit to <http://stackoverflow.com/a/1283608/2644759> -- cc-by-sa 3.0 local function tableMerge(t1, t2)
 
 `   for k,v in pairs(t2) do`
 `       if type(v) == "table" then`
@@ -107,10 +106,7 @@ end
 
 loadI18n()
 
-\-- this function needs to be internationalised along with the above: --
-takes cardinal numer as a numeric and returns the ordinal as a string --
-we need three exceptions in English for 1st, 2nd, 3rd, 21st, .. 31st,
-etc. local function makeOrdinal (cardinal)
+\-- this function needs to be internationalised along with the above: -- takes cardinal numer as a numeric and returns the ordinal as a string -- we need three exceptions in English for 1st, 2nd, 3rd, 21st, .. 31st, etc. local function makeOrdinal (cardinal)
 
 `   local ordsuffix = i18n.ordinal.default`
 `   if cardinal % 10 == 1 then`
@@ -180,10 +176,7 @@ local function parseDateValue(timestamp, date_format, date_addon)
 
 end
 
-\-- This local function combines the year/month/day/BC/BCE handling of
-parseDateValue{} -- with the millennium/century/decade handling of
-formatDate() local function parseDateFull(timestamp, precision,
-date_format, date_addon)
+\-- This local function combines the year/month/day/BC/BCE handling of parseDateValue{} -- with the millennium/century/decade handling of formatDate() local function parseDateFull(timestamp, precision, date_format, date_addon)
 
 `   local prefix_addon = i18n["datetime"]["prefix-addon"]`
 `   local addon_sep = i18n["datetime"]["addon-sep"]`
@@ -276,11 +269,7 @@ date_format, date_addon)
 
 end
 
-\-- the "qualifiers" and "snaks" field have a respective
-"qualifiers-order" and "snaks-order" field -- use these as the second
-parameter and this function instead of the built-in "pairs" function --
-to iterate over all qualifiers and snaks in the intended order. local
-function orderedpairs(array, order)
+\-- the "qualifiers" and "snaks" field have a respective "qualifiers-order" and "snaks-order" field -- use these as the second parameter and this function instead of the built-in "pairs" function -- to iterate over all qualifiers and snaks in the intended order. local function orderedpairs(array, order)
 
 `   if not order then return pairs(array) end`
 
@@ -295,9 +284,7 @@ function orderedpairs(array, order)
 
 end
 
-\-- precision: 0 - billion years, 1 - hundred million years, ..., 6 -
-millennia, 7 - century, 8 - decade, 9 - year, 10 - month, 11 - day, 12 -
-hour, 13 - minute, 14 - second local function normalizeDate(date)
+\-- precision: 0 - billion years, 1 - hundred million years, ..., 6 - millennia, 7 - century, 8 - decade, 9 - year, 10 - month, 11 - day, 12 - hour, 13 - minute, 14 - second local function normalizeDate(date)
 
 `   date = mw.text.trim(date, "+")`
 `   -- extract year`
@@ -385,14 +372,10 @@ local function printDatavalueEntity(data, parameter)
 `           local linkName = mw.wikibase.label(id)`
 `           if linkTarget then`
 `               -- if there is a local Wikipedia article link to it using the label or the article title`
-`               return "`[`"``   ``..``   ``(linkName``   ``or``
- ``linkTarget)``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._linkTarget_.._" "wikilink")`"`
+`               return "`[`"``   ``..``   ``(linkName``   ``or``   ``linkTarget)``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._linkTarget_.._" "wikilink")`"`
 `           else`
 `               -- if there is no local Wikipedia article output the label or link to the Wikidata object to let the user input a proper label`
-`               if linkName then return linkName else return "`[`"``
- ``..``   ``id``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/:d:"_.._id_.._" "wikilink")`" end`
+`               if linkName then return linkName else return "`[`"``   ``..``   ``id``   ``..``   ``"`](https://zh.wikipedia.org/wiki/:d:"_.._id_.._" "wikilink")`" end`
 `           end`
 `       else`
 `           return data[parameter]`
@@ -553,8 +536,7 @@ function p.labelIn(frame)
 
 end
 
-\-- This is used to get a value, or a comma separated list of them if
-multiple values exist p.getValue = function(frame)
+\-- This is used to get a value, or a comma separated list of them if multiple values exist p.getValue = function(frame)
 
 `   local propertyID = mw.text.trim(frame.args[1] or "")`
 `   local input_parm = mw.text.trim(frame.args[2] or "")`
@@ -574,9 +556,7 @@ multiple values exist p.getValue = function(frame)
 `                   if label == nil then label = "Q" .. v.mainsnak.datavalue.value["numeric-id"] end`
 
 `                   if sitelink then`
-`                       out[#out + 1] = "`[`"``   ``..``   ``label``
- ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._sitelink_.._" "wikilink")`"`
+`                       out[#out + 1] = "`[`"``   ``..``   ``label``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._sitelink_.._" "wikilink")`"`
 `                   else`
 `                       out[#out + 1] = "[[:d:Q"_.._v.mainsnak.datavalue.value["numeric-id"]_.._"|" .. label .. "]]`<abbr title='" .. i18n["errors"]["local-article-not-found"] .. "'>`[*]`</abbr>`"`
 `                   end`
@@ -595,8 +575,7 @@ multiple values exist p.getValue = function(frame)
 
 end
 
-\-- Same as above, but uses the short name property for label if
-available. p.getValueShortName = function(frame)
+\-- Same as above, but uses the short name property for label if available. p.getValueShortName = function(frame)
 
 `   local propertyID = mw.text.trim(frame.args[1] or "")`
 `   local input_parm = mw.text.trim(frame.args[2] or "")`
@@ -629,9 +608,7 @@ available. p.getValueShortName = function(frame)
 `                   if label == nil then label = "Q" .. v.mainsnak.datavalue.value["numeric-id"] end`
 
 `                   if sitelink then`
-`                       out[#out + 1] = "`[`"``   ``..``   ``label``
- ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._sitelink_.._" "wikilink")`"`
+`                       out[#out + 1] = "`[`"``   ``..``   ``label``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._sitelink_.._" "wikilink")`"`
 `                   else`
 `                       out[#out + 1] = "[[:d:Q"_.._v.mainsnak.datavalue.value["numeric-id"]_.._"|" .. label .. "]]`<abbr title='" .. i18n["errors"]["local-article-not-found"] .. "'>`[*]`</abbr>`"`
 `                   end`
@@ -650,14 +627,7 @@ available. p.getValueShortName = function(frame)
 
 end
 
-\-- This is used to get a value, or a comma separated list of them if
-multiple values exist -- from an arbitrary entry by using its QID. --
-Use :
-{{\#invoke:Wikidata|getValueFromID|<ID>|<Property>|FETCH_WIKIDATA}} --
-E.g.: {{\#invoke:Wikidata|getValueFromID|Q151973|P26|FETCH_WIKIDATA}} -
-to fetch value of 'spouse' (P26) from 'Richard Burton' (Q151973) --
-Please use sparingly - this is an \*expensive call\*. p.getValueFromID =
-function(frame)
+\-- This is used to get a value, or a comma separated list of them if multiple values exist -- from an arbitrary entry by using its QID. -- Use : {{\#invoke:Wikidata|getValueFromID|<ID>|<Property>|FETCH_WIKIDATA}} -- E.g.: {{\#invoke:Wikidata|getValueFromID|Q151973|P26|FETCH_WIKIDATA}} - to fetch value of 'spouse' (P26) from 'Richard Burton' (Q151973) -- Please use sparingly - this is an \*expensive call\*. p.getValueFromID = function(frame)
 
 `   local itemID = mw.text.trim(frame.args[1] or "")`
 `   local propertyID = mw.text.trim(frame.args[2] or "")`
@@ -678,9 +648,7 @@ function(frame)
 `                   if label == nil then label = "Q" .. v.mainsnak.datavalue.value["numeric-id"] end`
 
 `                   if sitelink then`
-`                       out[#out + 1] = "`[`"``   ``..``   ``label``
- ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._sitelink_.._" "wikilink")`"`
+`                       out[#out + 1] = "`[`"``   ``..``   ``label``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._sitelink_.._" "wikilink")`"`
 `                   else`
 `                       out[#out + 1] = "[[:d:Q"_.._v.mainsnak.datavalue.value["numeric-id"]_.._"|" .. label .. "]]`<abbr title='" .. i18n["errors"]["local-article-not-found"] .. "'>`[*]`</abbr>`"`
 `                   end`
@@ -728,9 +696,7 @@ p.getQualifierValue = function(frame)
 
 end
 
-\-- This is used to get a value like 'male' (for property p21) which
-won't be linked and numbers without the thousand separators
-p.getRawValue = function(frame)
+\-- This is used to get a value like 'male' (for property p21) which won't be linked and numbers without the thousand separators p.getRawValue = function(frame)
 
 `   local propertyID = mw.text.trim(frame.args[1] or "")`
 `   local input_parm = mw.text.trim(frame.args[2] or "")`
@@ -756,8 +722,7 @@ p.getRawValue = function(frame)
 
 end
 
-\-- This is used to get the unit name for the numeric value returned by
-getRawValue p.getUnits = function(frame)
+\-- This is used to get the unit name for the numeric value returned by getRawValue p.getUnits = function(frame)
 
 `   local propertyID = mw.text.trim(frame.args[1] or "")`
 `   local input_parm = mw.text.trim(frame.args[2] or "")`
@@ -780,8 +745,7 @@ getRawValue p.getUnits = function(frame)
 
 end
 
-\-- This is used to get the unit's QID to use with the numeric value
-returned by getRawValue p.getUnitID = function(frame)
+\-- This is used to get the unit's QID to use with the numeric value returned by getRawValue p.getUnitID = function(frame)
 
 `   local propertyID = mw.text.trim(frame.args[1] or "")`
 `   local input_parm = mw.text.trim(frame.args[2] or "")`
@@ -838,11 +802,7 @@ p.getRawQualifierValue = function(frame)
 
 end
 
-\-- This is used to get a date value for date_of_birth (P569), etc.
-which won't be linked -- Dates and times are stored in ISO 8601 format
-(sort of). -- At present the local formatDate(date, precision, timezone)
-function doesn't handle timezone -- So I'll just supply "Z" in the call
-to formatDate below: p.getDateValue = function(frame)
+\-- This is used to get a date value for date_of_birth (P569), etc. which won't be linked -- Dates and times are stored in ISO 8601 format (sort of). -- At present the local formatDate(date, precision, timezone) function doesn't handle timezone -- So I'll just supply "Z" in the call to formatDate below: p.getDateValue = function(frame)
 
 `   local propertyID = mw.text.trim(frame.args[1] or "")`
 `   local input_parm = mw.text.trim(frame.args[2] or "")`
@@ -903,16 +863,8 @@ p.getQualifierDateValue = function(frame)
 
 end
 
-\-- This is used to fetch all of the images with a particular property,
-e.g. image (P18), Gene Atlas Image (P692), etc. -- Parameters are |
-propertyID | value / FETCH_WIKIDATA / nil | separator (default=space) |
-size (default=frameless) -- It will return a standard wiki-markup
-[size](https://zh.wikipedia.org/wiki/File:Filename "fig:size") for each
-image with a selectable size and separator (which may be html) -- e.g.
-{{\#invoke:Wikidata|getImages|P18|FETCH_WIKIDATA}} -- e.g.
-{{\#invoke:Wikidata|getImages|P18|FETCH_WIKIDATA|
-|250px}} -- If a property is chosen that is not of type "commonsMedia",
-it will return empty text. p.getImages = function(frame)
+\-- This is used to fetch all of the images with a particular property, e.g. image (P18), Gene Atlas Image (P692), etc. -- Parameters are | propertyID | value / FETCH_WIKIDATA / nil | separator (default=space) | size (default=frameless) -- It will return a standard wiki-markup [size](https://zh.wikipedia.org/wiki/File:Filename "fig:size") for each image with a selectable size and separator (which may be html) -- e.g. {{\#invoke:Wikidata|getImages|P18|FETCH_WIKIDATA}} -- e.g. {{\#invoke:Wikidata|getImages|P18|FETCH_WIKIDATA|
+|250px}} -- If a property is chosen that is not of type "commonsMedia", it will return empty text. p.getImages = function(frame)
 
 `   local propertyID = mw.text.trim(frame.args[1] or "")`
 `   local input_parm = mw.text.trim(frame.args[2] or "")`
@@ -929,9 +881,7 @@ it will return empty text. p.getImages = function(frame)
 `               local out = {}`
 `               for k, v in pairs(claims) do`
 `                   local filename = v.mainsnak.datavalue.value`
-`                   out[#out + 1] = "`[`"``   ``..``   ``imgsize``
- ``..``
- ``"`](https://zh.wikipedia.org/wiki/File:"_.._filename_.._" "fig:\" .. imgsize .. \"")`"`
+`                   out[#out + 1] = "`[`"``   ``..``   ``imgsize``   ``..``   ``"`](https://zh.wikipedia.org/wiki/File:"_.._filename_.._" "fig:\" .. imgsize .. \"")`"`
 `               end`
 `               return table.concat(out, sep)`
 `           else`
@@ -946,14 +896,7 @@ it will return empty text. p.getImages = function(frame)
 
 end
 
-\-- This is used to get the TA98 (Terminologia Anatomica first edition
-1998) values like 'A01.1.00.005' (property P1323) -- which are then
-linked to
-<http://www.unifr.ch/ifaa/Public/EntryPage/TA98%20Tree/Entity%20TA98%20EN/01.1.00.005%20Entity%20TA98%20EN.htm>
--- uses the newer mw.wikibase calls instead of directly using the snaks
--- formatPropertyValues returns a table with the P1323 values
-concatenated with ", " so we have to split them out into a table in
-order to construct the return string p.getTAValue = function(frame)
+\-- This is used to get the TA98 (Terminologia Anatomica first edition 1998) values like 'A01.1.00.005' (property P1323) -- which are then linked to <http://www.unifr.ch/ifaa/Public/EntryPage/TA98%20Tree/Entity%20TA98%20EN/01.1.00.005%20Entity%20TA98%20EN.htm> -- uses the newer mw.wikibase calls instead of directly using the snaks -- formatPropertyValues returns a table with the P1323 values concatenated with ", " so we have to split them out into a table in order to construct the return string p.getTAValue = function(frame)
 
 `   local ent = mw.wikibase.getEntityObject()`
 `   local props = ent:formatPropertyValues('P1323')`
@@ -976,21 +919,11 @@ order to construct the return string p.getTAValue = function(frame)
 
 end
 
-\--\[\[ This is used to return an image legend from Wikidata image is
-property P18 image legend is property P2096
+\--\[\[ This is used to return an image legend from Wikidata image is property P18 image legend is property P2096
 
-Call as {{\#invoke:Wikidata |getImageLegend | <PARAMETER> |
-lang=<ISO-639code> |id=<QID>}} Returns PARAMETER, unless it is equal to
-"FETCH_WIKIDATA", from Item QID (expensive call) If QID is omitted or
-blank, the current article is used (not an expensive call) If lang is
-omitted, it uses the local wiki language, otherwise it uses the provided
-ISO-639 language code ISO-639:
-<https://docs.oracle.com/cd/E13214_01/wli/docs92/xref/xqisocodes.html#wp1252447>
+Call as {{\#invoke:Wikidata |getImageLegend | <PARAMETER> | lang=<ISO-639code> |id=<QID>}} Returns PARAMETER, unless it is equal to "FETCH_WIKIDATA", from Item QID (expensive call) If QID is omitted or blank, the current article is used (not an expensive call) If lang is omitted, it uses the local wiki language, otherwise it uses the provided ISO-639 language code ISO-639: <https://docs.oracle.com/cd/E13214_01/wli/docs92/xref/xqisocodes.html#wp1252447>
 
-Ranks are: 'preferred' \> 'normal' This returns the label from the first
-image with 'preferred' rank Or the label from the first image with
-'normal' rank if preferred returns nothing Ranks:
-<https://www.mediawiki.org/wiki/Extension:Wikibase_Client/Lua> \]\]
+Ranks are: 'preferred' \> 'normal' This returns the label from the first image with 'preferred' rank Or the label from the first image with 'normal' rank if preferred returns nothing Ranks: <https://www.mediawiki.org/wiki/Extension:Wikibase_Client/Lua> \]\]
 
 p.getImageLegend = function(frame)
 
@@ -1052,11 +985,7 @@ p.getImageLegend = function(frame)
 
 end
 
-\-- This is used to get the QIDs of all of the values of a property, as
-a comma separated list if multiple values exist -- Usage:
-{{\#invoke:Wikidata |getPropertyIDs |<PropertyID> |FETCH_WIKIDATA}} --
-Usage: {{\#invoke:Wikidata |getPropertyIDs |<PropertyID>
-|<InputParameter> |qid=<QID>}}
+\-- This is used to get the QIDs of all of the values of a property, as a comma separated list if multiple values exist -- Usage: {{\#invoke:Wikidata |getPropertyIDs |<PropertyID> |FETCH_WIKIDATA}} -- Usage: {{\#invoke:Wikidata |getPropertyIDs |<PropertyID> |<InputParameter> |qid=<QID>}}
 
 p.getPropertyIDs = function(frame)
 
@@ -1093,8 +1022,7 @@ p.getPropertyIDs = function(frame)
 
 end
 
-\-- returns the page id (Q...) of the current page or nothing of the
-page is not connected to Wikidata function p.pageId(frame)
+\-- returns the page id (Q...) of the current page or nothing of the page is not connected to Wikidata function p.pageId(frame)
 
 `   local entity = mw.wikibase.getEntityObject()`
 `   if not entity then return nil else return entity.id end`

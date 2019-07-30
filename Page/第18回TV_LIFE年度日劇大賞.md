@@ -1,10 +1,8 @@
-[第17回](../Page/第17回TV_LIFE年度日劇大賞.md "wikilink") ← **第18回** →
-[第19回](../Page/第19回TV_LIFE年度日劇大賞.md "wikilink")
+[第17回](../Page/第17回TV_LIFE年度日劇大賞.md "wikilink") ← **第18回** → [第19回](../Page/第19回TV_LIFE年度日劇大賞.md "wikilink")
 
-**第18回[TV
-LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2008年播出的連續劇做出的觀眾投票。
+**第18回[TV LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2008年播出的連續劇做出的觀眾投票。
 
-本屆獲獎最多的劇集是[TBS電視台的](../Page/TBS電視台.md "wikilink")《[魔王](../Page/魔王_\(日本電視劇\).md "wikilink")》，共獲3獎。
+本屆獲獎最多的劇集是[TBS電視台](../Page/TBS電視台.md "wikilink")的《[魔王](../Page/魔王_\(日本電視劇\).md "wikilink")》，共獲3獎。
 
 ## 獎項
 
@@ -376,8 +374,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 
 ## 參考來源
 
-[Category:2008年日本](https://zh.wikipedia.org/wiki/Category:2008年日本 "wikilink")
-[Category:2008年电视奖项](https://zh.wikipedia.org/wiki/Category:2008年电视奖项 "wikilink")
+[Category:2008年日本](https://zh.wikipedia.org/wiki/Category:2008年日本 "wikilink") [Category:2008年电视奖项](https://zh.wikipedia.org/wiki/Category:2008年电视奖项 "wikilink")
 
 1.
 2.

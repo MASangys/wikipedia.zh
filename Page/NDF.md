@@ -2,8 +2,7 @@
 
 ## 軍事
 
-  - [敘利亞國防軍](../Page/國防軍_\(敘利亞\).md "wikilink")（National Defence
-    Forces），支持敘利亞政府的民兵組織，2011年成立。
+  - [敘利亞國防軍](../Page/國防軍_\(敘利亞\).md "wikilink")（National Defence Forces），支持敘利亞政府的民兵組織，2011年成立。
   - [挪威國防軍](../Page/挪威國防軍.md "wikilink")（Norwegian Defence Force），挪威民兵
 
 ## 組織
@@ -30,8 +29,7 @@
 
   - [中性灰度滤镜](../Page/中性灰度滤镜.md "wikilink")（Neutral density filter）
 
-  - [無本金交割遠期外匯交易](../Page/無本金交割遠期外匯交易.md "wikilink")（Non-deliverable
-    forward）
+  - [無本金交割遠期外匯交易](../Page/無本金交割遠期外匯交易.md "wikilink")（Non-deliverable forward）
 
   - 不減格（Non drop-frame），一種用於的設定。
 

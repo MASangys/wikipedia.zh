@@ -1,4 +1,4 @@
-**亨特斯角大道車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT法拉盛線的一個](../Page/IRT法拉盛線.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[皇后區](../Page/皇后區.md "wikilink")[長島市](../Page/長島市.md "wikilink")49大道（亨特斯角大道）及21街交界，設有[7號線](../Page/紐約地鐵7號線.md "wikilink")（任何時候停站）列車服務，而繁忙時段的尖峰方向還有開行[\<7\>列車](../Page/紐約地鐵7號線.md "wikilink")。
+**亨特斯角大道車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT法拉盛線](../Page/IRT法拉盛線.md "wikilink")的一個[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[皇后區](../Page/皇后區.md "wikilink")[長島市](../Page/長島市.md "wikilink")49大道（亨特斯角大道）及21街交界，設有[7號線](../Page/紐約地鐵7號線.md "wikilink")（任何時候停站）列車服務，而繁忙時段的尖峰方向還有開行[\<7\>列車](../Page/紐約地鐵7號線.md "wikilink")。
 
 ## 歷史
 
@@ -56,22 +56,15 @@
 
   -
   -
-  - Station Reporter — [7
-    Train](https://web.archive.org/web/20140811064122/http://www.stationreporter.net/7train.htm)
+  - Station Reporter — [7 Train](https://web.archive.org/web/20140811064122/http://www.stationreporter.net/7train.htm)
 
-  - The Subway Nut — [Hunters Point Avenue
-    Pictures](http://www.subwaynut.com/flushing_line/hunters_point/index.php)
+  - The Subway Nut — [Hunters Point Avenue Pictures](http://www.subwaynut.com/flushing_line/hunters_point/index.php)
 
-  - [Hunters Point Avenue entrance from Google Maps Street
-    View](https://maps.google.com/?ie=UTF8&ll=40.742404,-73.948503&spn=0.003845,0.013433&z=17&layer=c&cbll=40.742333,-73.948158&panoid=GNXz2Otj4Btam_LmAv4UDw&cbp=12,1.55,,0,5.86)
+  - [Hunters Point Avenue entrance from Google Maps Street View](https://maps.google.com/?ie=UTF8&ll=40.742404,-73.948503&spn=0.003845,0.013433&z=17&layer=c&cbll=40.742333,-73.948158&panoid=GNXz2Otj4Btam_LmAv4UDw&cbp=12,1.55,,0,5.86)
 
-  - [Platforms from Google Maps Street
-    View](http://www.google.com/maps/@40.742363,-73.9485168,3a,75y,148.7h,89.38t/data=!3m8!1e1!3m6!1s-pEogsGSawKI%2FV42aBqa4S9I%2FAAAAAAAAK5A%2FSylUz0zSnps8o5HJPALOZJOJEZ5aOIChQCLIB!2e4!3e11!6s%2F%2Flh6.googleusercontent.com%2F-pEogsGSawKI%2FV42aBqa4S9I%2FAAAAAAAAK5A%2FSylUz0zSnps8o5HJPALOZJOJEZ5aOIChQCLIB%2Fw203-h100-p-k-no%2F!7i9728!8i4864!4m3!8m2!3m1!1e1!6m1!1e1)
+  - [Platforms from Google Maps Street View](http://www.google.com/maps/@40.742363,-73.9485168,3a,75y,148.7h,89.38t/data=!3m8!1e1!3m6!1s-pEogsGSawKI%2FV42aBqa4S9I%2FAAAAAAAAK5A%2FSylUz0zSnps8o5HJPALOZJOJEZ5aOIChQCLIB!2e4!3e11!6s%2F%2Flh6.googleusercontent.com%2F-pEogsGSawKI%2FV42aBqa4S9I%2FAAAAAAAAK5A%2FSylUz0zSnps8o5HJPALOZJOJEZ5aOIChQCLIB%2Fw203-h100-p-k-no%2F!7i9728!8i4864!4m3!8m2!3m1!1e1!6m1!1e1)
 
-[Category:IRT法拉盛線車站](https://zh.wikipedia.org/wiki/Category:IRT法拉盛線車站 "wikilink")
-[Category:皇后區紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:皇后區紐約地鐵車站 "wikilink")
-[Category:1916年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1916年啟用的鐵路車站 "wikilink")
-[Category:1916年紐約州建立](https://zh.wikipedia.org/wiki/Category:1916年紐約州建立 "wikilink")
+[Category:IRT法拉盛線車站](https://zh.wikipedia.org/wiki/Category:IRT法拉盛線車站 "wikilink") [Category:皇后區紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:皇后區紐約地鐵車站 "wikilink") [Category:1916年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1916年啟用的鐵路車站 "wikilink") [Category:1916年紐約州建立](https://zh.wikipedia.org/wiki/Category:1916年紐約州建立 "wikilink")
 
 1.
 2.

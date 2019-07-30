@@ -11,8 +11,7 @@ local function MultiReplace(args)
 `       local change = {pattern = args[i * 2], repl = args[i * 2 + 1]}`
 `       if not change.repl then`
 `           return require('Module:Error').error{`
-`               'MultiReplace：不配对冲突：' .. (i * 2) .. ' = ' ..
-change.pattern .. ''`
+`               'MultiReplace：不配对冲突：' .. (i * 2) .. ' = ' .. change.pattern .. ''`
 `           }`
 `       end`
 `       changeList[i] = change`

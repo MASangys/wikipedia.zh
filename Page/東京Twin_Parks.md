@@ -1,5 +1,4 @@
-**東京Twin
-Parks**（）是[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")[東新橋一丁目](https://zh.wikipedia.org/wiki/東新橋 "wikilink")[汐留地區內的](../Page/汐留.md "wikilink")[雙子塔分售式超高層公寓](https://zh.wikipedia.org/wiki/雙子塔 "wikilink")。
+**東京Twin Parks**（）是[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")[東新橋一丁目](https://zh.wikipedia.org/wiki/東新橋 "wikilink")[汐留](../Page/汐留.md "wikilink")地區內的[雙子塔分售式超高層公寓](https://zh.wikipedia.org/wiki/雙子塔 "wikilink")。
 
 位於。建物東側有廣大的[東京都立濱離宮恩賜庭園](https://zh.wikipedia.org/wiki/濱離宮恩賜庭園 "wikilink")。
 
@@ -49,16 +48,6 @@ Parks**（）是[日本](../Page/日本.md "wikilink")[東京都](../Page/東京
 
 ## 註釋
 
-[Category:東京都建築物](https://zh.wikipedia.org/wiki/Category:東京都建築物 "wikilink")
-[Category:汐留](https://zh.wikipedia.org/wiki/Category:汐留 "wikilink")
-[Category:東京都摩天大樓](https://zh.wikipedia.org/wiki/Category:東京都摩天大樓 "wikilink")
-[Category:2002年完工建築物](https://zh.wikipedia.org/wiki/Category:2002年完工建築物 "wikilink")
-[Category:雙塔樓](https://zh.wikipedia.org/wiki/Category:雙塔樓 "wikilink")
-[Category:三菱地所](https://zh.wikipedia.org/wiki/Category:三菱地所 "wikilink")
-[Category:三井不動產](https://zh.wikipedia.org/wiki/Category:三井不動產 "wikilink")
-[Category:住友不動產](https://zh.wikipedia.org/wiki/Category:住友不動產 "wikilink")
-[Category:東京建物](https://zh.wikipedia.org/wiki/Category:東京建物 "wikilink")
-[Category:150米至199米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大樓 "wikilink")
+[Category:東京都建築物](https://zh.wikipedia.org/wiki/Category:東京都建築物 "wikilink") [Category:汐留](https://zh.wikipedia.org/wiki/Category:汐留 "wikilink") [Category:東京都摩天大樓](https://zh.wikipedia.org/wiki/Category:東京都摩天大樓 "wikilink") [Category:2002年完工建築物](https://zh.wikipedia.org/wiki/Category:2002年完工建築物 "wikilink") [Category:雙塔樓](https://zh.wikipedia.org/wiki/Category:雙塔樓 "wikilink") [Category:三菱地所](https://zh.wikipedia.org/wiki/Category:三菱地所 "wikilink") [Category:三井不動產](https://zh.wikipedia.org/wiki/Category:三井不動產 "wikilink") [Category:住友不動產](https://zh.wikipedia.org/wiki/Category:住友不動產 "wikilink") [Category:東京建物](https://zh.wikipedia.org/wiki/Category:東京建物 "wikilink") [Category:150米至199米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大樓 "wikilink")
 
-1.  [東京ツインパークス|
-    住友不動産販売で売却・査定・購入（中古マンション）](http://www.stepon.co.jp/premier/tokyo-twinparks/)
+1.  [東京ツインパークス| 住友不動産販売で売却・査定・購入（中古マンション）](http://www.stepon.co.jp/premier/tokyo-twinparks/)

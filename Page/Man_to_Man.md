@@ -1,6 +1,4 @@
-《**Man to
-Man**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC自](../Page/JTBC.md "wikilink")2017年4月21日起播出的[金土迷你連續劇](../Page/JTBC金土連續劇.md "wikilink")，由[朴海鎮](../Page/朴海鎮.md "wikilink")、[朴誠雄](../Page/朴誠雄.md "wikilink")、[金玟廷](../Page/金玟廷.md "wikilink")、[蔡貞安及](../Page/蔡貞安.md "wikilink")[延政勳主演](https://zh.wikipedia.org/wiki/延政勳 "wikilink")，《[Remember－兒子的戰爭](../Page/Remember－兒子的戰爭.md "wikilink")》的[李昌民導演與](../Page/李昌民.md "wikilink")《[太陽的後裔](../Page/太陽的後裔.md "wikilink")》[金元碩編劇共同打造的](https://zh.wikipedia.org/wiki/金元碩_\(編劇\) "wikilink")100%事前製作電視劇，講述多才多藝的謎樣男子金蔎雨（[朴海鎮](../Page/朴海鎮.md "wikilink")
-飾）成為超級巨星呂雲光（[朴誠雄](../Page/朴誠雄.md "wikilink") 飾）的保鑣後，所捲入的事件該如何被解開的故事。
+《**Man to Man**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")自2017年4月21日起播出的[金土迷你連續劇](../Page/JTBC金土連續劇.md "wikilink")，由[朴海鎮](../Page/朴海鎮.md "wikilink")、[朴誠雄](../Page/朴誠雄.md "wikilink")、[金玟廷](../Page/金玟廷.md "wikilink")、[蔡貞安](../Page/蔡貞安.md "wikilink")及[延政勳主演](https://zh.wikipedia.org/wiki/延政勳 "wikilink")，《[Remember－兒子的戰爭](../Page/Remember－兒子的戰爭.md "wikilink")》的[李昌民](../Page/李昌民.md "wikilink")導演與《[太陽的後裔](../Page/太陽的後裔.md "wikilink")》[金元碩編劇共同打造的](https://zh.wikipedia.org/wiki/金元碩_\(編劇\) "wikilink")100%事前製作電視劇，講述多才多藝的謎樣男子金蔎雨（[朴海鎮](../Page/朴海鎮.md "wikilink") 飾）成為超級巨星呂雲光（[朴誠雄](../Page/朴誠雄.md "wikilink") 飾）的保鑣後，所捲入的事件該如何被解開的故事。
 
 本劇首播收視為4.055%（AGB全國），刷新JTBC電視台的劇集最高首播收視紀錄，打破前一部作品《[大力女子都奉順](../Page/大力女子都奉順.md "wikilink")》所創下3.829%（AGB全國）首播收視，後被《[Life](../Page/Life_\(電視劇\).md "wikilink")》4.334%（AGB全國）的首播收視所超越。
 
@@ -377,10 +375,10 @@ Man**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC�
 
 ## 大事紀
 
-  - [朴誠雄和](../Page/朴誠雄.md "wikilink")[朴海鎮與](../Page/朴海鎮.md "wikilink")[延正勳繼](https://zh.wikipedia.org/wiki/延政勳 "wikilink")《[伊甸園之東](../Page/伊甸園之東_\(電視劇\).md "wikilink")》後時隔9年再度合作。
-  - 朴誠雄與[蔡貞安繼](../Page/蔡貞安.md "wikilink")《[該隱與亞伯](../Page/該隱與亞伯_\(電視劇\).md "wikilink")》後時隔8年再度合作。
+  - [朴誠雄](../Page/朴誠雄.md "wikilink")和[朴海鎮](../Page/朴海鎮.md "wikilink")與[延正勳繼](https://zh.wikipedia.org/wiki/延政勳 "wikilink")《[伊甸園之東](../Page/伊甸園之東_\(電視劇\).md "wikilink")》後時隔9年再度合作。
+  - 朴誠雄與[蔡貞安](../Page/蔡貞安.md "wikilink")繼《[該隱與亞伯](../Page/該隱與亞伯_\(電視劇\).md "wikilink")》後時隔8年再度合作。
   - 朴海鎮與蔡貞安繼《[熱血生意人](../Page/熱血生意人.md "wikilink")》後時隔8年再度合作。
-  - 朴誠雄和[李施彥與](../Page/李施彥.md "wikilink")[李昌民導演繼](../Page/李昌民.md "wikilink")《[Remember－兒子的戰爭](../Page/Remember－兒子的戰爭.md "wikilink")》後時隔1年再度合作。
+  - 朴誠雄和[李施彥](../Page/李施彥.md "wikilink")與[李昌民](../Page/李昌民.md "wikilink")導演繼《[Remember－兒子的戰爭](../Page/Remember－兒子的戰爭.md "wikilink")》後時隔1年再度合作。
 
 ## 參考資料
 
@@ -391,11 +389,7 @@ Man**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC�
 ## 外部連結
 
   -
-[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink")
-[Category:保安題材電視劇](https://zh.wikipedia.org/wiki/Category:保安題材電視劇 "wikilink")
-[Category:金元碩劇本作品](https://zh.wikipedia.org/wiki/Category:金元碩劇本作品 "wikilink")
+[Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink") [Category:保安題材電視劇](https://zh.wikipedia.org/wiki/Category:保安題材電視劇 "wikilink") [Category:金元碩劇本作品](https://zh.wikipedia.org/wiki/Category:金元碩劇本作品 "wikilink")
 
-1.  [맨투맨 – Daum 통합
-    검색](http://search.daum.net/search?nil_suggest=btn&w=tot&DA=SBC&q=%EB%A7%A8%ED%88%AC%EB%A7%A8)
-2.  [맨투맨 : 네이버
-    통합검색](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&oquery=%EB%A7%88%EB%85%80%EB%B3%B4%EA%B0%90&ie=utf8&query=%EB%A7%A8%ED%88%AC%EB%A7%A8)
+1.  [맨투맨 – Daum 통합 검색](http://search.daum.net/search?nil_suggest=btn&w=tot&DA=SBC&q=%EB%A7%A8%ED%88%AC%EB%A7%A8)
+2.  [맨투맨 : 네이버 통합검색](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&oquery=%EB%A7%88%EB%85%80%EB%B3%B4%EA%B0%90&ie=utf8&query=%EB%A7%A8%ED%88%AC%EB%A7%A8)

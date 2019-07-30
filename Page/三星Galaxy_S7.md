@@ -1,21 +1,8 @@
-**Samsung Galaxy S7** 和 **Samsung Galaxy S7 Edge**
-是韓國[三星電子在](../Page/三星電子.md "wikilink")2016年推出的[Android系統頂尖高階旗艦](../Page/Android.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，是[三星Galaxy
-S系列中的第七代](../Page/三星Galaxy_S系列.md "wikilink")，承繼[三星Galaxy
-S6](../Page/三星Galaxy_S6.md "wikilink")。該手機在2016年2月21日[MWC](https://zh.wikipedia.org/wiki/MWC "wikilink")（[世界行動通訊大會](../Page/世界行動通訊大會.md "wikilink")）的三星新聞發布會上首次亮相，歐洲和北美版本定於2016年3月11日公佈。與前代
-S6 一樣，S7分為普通版和擁有曲面屏的Edge版本，S7也是前代S6的改進，恢復[Galaxy
-S5的一些設計特徵](https://zh.wikipedia.org/wiki/Galaxy_S5 "wikilink")，
-競爭對手為[iPhone 6S](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")、[LG
-G5](../Page/LG_G5.md "wikilink")、[Sony Xperia X
-Performance](../Page/Sony_Xperia_X_Performance.md "wikilink")、Huawei
-P9、HTC 10、小米5。\[1\]\[2\]目前已經可以更新到 [Samsung
-Experience](../Page/Samsung_Experience.md "wikilink") 9介面的 [Android
-Oreo](../Page/Android_Oreo.md "wikilink") (8)版本。\[3\]
+**Samsung Galaxy S7** 和 **Samsung Galaxy S7 Edge** 是韓國[三星電子](../Page/三星電子.md "wikilink")在2016年推出的[Android](../Page/Android.md "wikilink")系統頂尖高階旗艦[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，是[三星Galaxy S系列中的第七代](../Page/三星Galaxy_S系列.md "wikilink")，承繼[三星Galaxy S6](../Page/三星Galaxy_S6.md "wikilink")。該手機在2016年2月21日[MWC](https://zh.wikipedia.org/wiki/MWC "wikilink")（[世界行動通訊大會](../Page/世界行動通訊大會.md "wikilink")）的三星新聞發布會上首次亮相，歐洲和北美版本定於2016年3月11日公佈。與前代 S6 一樣，S7分為普通版和擁有曲面屏的Edge版本，S7也是前代S6的改進，恢復[Galaxy S5的一些設計特徵](https://zh.wikipedia.org/wiki/Galaxy_S5 "wikilink")， 競爭對手為[iPhone 6S](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")、[LG G5](../Page/LG_G5.md "wikilink")、[Sony Xperia X Performance](../Page/Sony_Xperia_X_Performance.md "wikilink")、Huawei P9、HTC 10、小米5。\[1\]\[2\]目前已經可以更新到 [Samsung Experience](../Page/Samsung_Experience.md "wikilink") 9介面的 [Android Oreo](../Page/Android_Oreo.md "wikilink") (8)版本。\[3\]
 
-全球移动通信系统协会(GSMA)在2017年移动世界大会期间宣布，Galaxy S7 edge被评为(移动设备类别下的)“MWC2017
-最佳智能手机”。
+全球移动通信系统协会(GSMA)在2017年移动世界大会期间宣布，Galaxy S7 edge被评为(移动设备类别下的)“MWC2017 最佳智能手机”。
 
-Galaxy S7系列亦因三星重新調整edge版的出貨量，加上[Galaxy Note
-7事件而延長了銷售周期](https://zh.wikipedia.org/wiki/Galaxy_Note_7 "wikilink")，導致S7系列成為最暢銷的三星旗艦手機，全球銷量超過5,500萬支。\[4\]而S7系列推出首季就售出約720萬部。\[5\]
+Galaxy S7系列亦因三星重新調整edge版的出貨量，加上[Galaxy Note 7事件而延長了銷售周期](https://zh.wikipedia.org/wiki/Galaxy_Note_7 "wikilink")，導致S7系列成為最暢銷的三星旗艦手機，全球銷量超過5,500萬支。\[4\]而S7系列推出首季就售出約720萬部。\[5\]
 
 ## 特色
 
@@ -119,28 +106,20 @@ Galaxy S7系列亦因三星重新調整edge版的出貨量，加上[Galaxy Note
 
 ## 电池门事件
 
-在三星Note 7发生多次电池爆炸事件且全部召回不久后，三星S6/7/7 edge也陆续发生了多次爆炸事件。经检查发现S7和Note
-7一样存在电池与组件过于紧密的问题。
+在三星Note 7发生多次电池爆炸事件且全部召回不久后，三星S6/7/7 edge也陆续发生了多次爆炸事件。经检查发现S7和Note 7一样存在电池与组件过于紧密的问题。
 
 ## 外部連結
 
-  - [Samsung Official
-    Site](http://www.samsung.com/global/galaxy/galaxy-s7/)
+  - [Samsung Official Site](http://www.samsung.com/global/galaxy/galaxy-s7/)
 
 ## 參考資料
 
 <references />
 
-[Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:2016年面世的手機](https://zh.wikipedia.org/wiki/Category:2016年面世的手機 "wikilink")
+[Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:2016年面世的手機](https://zh.wikipedia.org/wiki/Category:2016年面世的手機 "wikilink")
 
 1.
 2.
 3.
-4.  [Galaxy S7 / S7 edge
-    成三星最暢銷的旗艦系列](https://technews.tw/2017/05/05/s7-s7-edge-shipment/)TechNews
-    科技新報 5-5-2017
-5.  [新機上市在即，舊機 Galaxy S7
-    銷量有幾多？](http://www.eprice.com.hk/mobile/talk/4523/208108/)eprice.com.hk
-    2017-05-08
+4.  [Galaxy S7 / S7 edge 成三星最暢銷的旗艦系列](https://technews.tw/2017/05/05/s7-s7-edge-shipment/)TechNews 科技新報 5-5-2017
+5.  [新機上市在即，舊機 Galaxy S7 銷量有幾多？](http://www.eprice.com.hk/mobile/talk/4523/208108/)eprice.com.hk 2017-05-08

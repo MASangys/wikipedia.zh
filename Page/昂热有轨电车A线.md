@@ -1,4 +1,4 @@
-**昂热有轨电车A线**（）是法国西部城市[昂热的一条](../Page/昂热.md "wikilink")[有轨电车线路](https://zh.wikipedia.org/wiki/有轨电车 "wikilink")\[1\]，全长12.3公里，于2011年6月开通。
+**昂热有轨电车A线**（）是法国西部城市[昂热](../Page/昂热.md "wikilink")的一条[有轨电车线路](https://zh.wikipedia.org/wiki/有轨电车 "wikilink")\[1\]，全长12.3公里，于2011年6月开通。
 
 ## 历史
 
@@ -20,8 +20,7 @@
 
 ## 车型
 
-昂热有轨电车A线使用[阿尔斯通 Citadis
-302型有轨电车](https://zh.wikipedia.org/wiki/阿尔斯通Citadis "wikilink")，共有17列，其中2列为热备车辆。其外观为彩虹图案，内部设有监控系统。每列列车为5节编组，可装载最多208人\[5\]，平均旅速为30km/h，最高可达70km/h。
+昂热有轨电车A线使用[阿尔斯通 Citadis 302型有轨电车](https://zh.wikipedia.org/wiki/阿尔斯通Citadis "wikilink")，共有17列，其中2列为热备车辆。其外观为彩虹图案，内部设有监控系统。每列列车为5节编组，可装载最多208人\[5\]，平均旅速为30km/h，最高可达70km/h。
 
 ## 车辆所
 
@@ -207,8 +206,7 @@ A线的车辆所为"雷蒙佩龙"（），位于韦尔诺和两站之间。
 
 ## 参考文献
 
-[Category:法国城市轨道交通](https://zh.wikipedia.org/wiki/Category:法国城市轨道交通 "wikilink")
-[Category:昂热](https://zh.wikipedia.org/wiki/Category:昂热 "wikilink")
+[Category:法国城市轨道交通](https://zh.wikipedia.org/wiki/Category:法国城市轨道交通 "wikilink") [Category:昂热](https://zh.wikipedia.org/wiki/Category:昂热 "wikilink")
 
 1.
 2.

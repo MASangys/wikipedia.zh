@@ -2,8 +2,7 @@ Diwata-1\[1\]是[菲律宾研制的首个国产微型卫星](https://zh.wikipedi
 
 ## 背景
 
-[北海道大学和](https://zh.wikipedia.org/wiki/北海道大学 "wikilink")[东北大学
-(日本)启动了一个项目](../Page/东北大学_\(日本\).md "wikilink")——在2050年前将50颗微型卫星送入太空。该项目与孟加拉国、印度尼西亚、马来西亚、缅甸、蒙古、菲律宾、泰国和越南等国的组织、政府和大学合作，目的是拍摄自然灾害后的场景。其中的两颗卫星将由菲律宾政府制造。\[4\]\[5\]
+[北海道大学和](https://zh.wikipedia.org/wiki/北海道大学 "wikilink")[东北大学 (日本)启动了一个项目](../Page/东北大学_\(日本\).md "wikilink")——在2050年前将50颗微型卫星送入太空。该项目与孟加拉国、印度尼西亚、马来西亚、缅甸、蒙古、菲律宾、泰国和越南等国的组织、政府和大学合作，目的是拍摄自然灾害后的场景。其中的两颗卫星将由菲律宾政府制造。\[4\]\[5\]
 
 2013年，[超强台风海燕登陆菲律宾](https://zh.wikipedia.org/wiki/超强台风海燕（2013年） "wikilink")，其猛烈风力及引起的大规模风暴潮则在菲律宾中部造成毁灭性破坏，政府被迫支付₱56000000来获取卫星影像，\[6\]政府因而产生了制造Diwata-1的想法。
 
@@ -22,11 +21,7 @@ Diwata一词源自菲律宾神话。\[8\]
 
 ## 参考链接
 
-[Category:2016年亞洲](https://zh.wikipedia.org/wiki/Category:2016年亞洲 "wikilink")
-[Category:卫星计划](https://zh.wikipedia.org/wiki/Category:卫星计划 "wikilink")
-[Category:菲律賓人造衛星](https://zh.wikipedia.org/wiki/Category:菲律賓人造衛星 "wikilink")
-[Category:2016年菲律宾](https://zh.wikipedia.org/wiki/Category:2016年菲律宾 "wikilink")
-[Category:地球观测卫星](https://zh.wikipedia.org/wiki/Category:地球观测卫星 "wikilink")
+[Category:2016年亞洲](https://zh.wikipedia.org/wiki/Category:2016年亞洲 "wikilink") [Category:卫星计划](https://zh.wikipedia.org/wiki/Category:卫星计划 "wikilink") [Category:菲律賓人造衛星](https://zh.wikipedia.org/wiki/Category:菲律賓人造衛星 "wikilink") [Category:2016年菲律宾](https://zh.wikipedia.org/wiki/Category:2016年菲律宾 "wikilink") [Category:地球观测卫星](https://zh.wikipedia.org/wiki/Category:地球观测卫星 "wikilink")
 
 1.
 

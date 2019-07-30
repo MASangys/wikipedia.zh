@@ -1,7 +1,4 @@
-《**Princess Principal**》（）是一部由[Studio
-3Hz及](../Page/3Hz.md "wikilink")[Actas聯合製作的原創動畫](../Page/Actas.md "wikilink")，於2017年7月9日首播\[1\]。另外，以動畫為題的手機遊戲《Princess
-Principal: GAME OF
-MISSION》亦同時展開，預定於同年6月開始進行事前登錄\[2\]。2018年4月29日，官方宣布製作動畫續篇，預計總共六章，並於2019年在劇院公開\[3\]。
+《**Princess Principal**》（）是一部由[Studio 3Hz及](../Page/3Hz.md "wikilink")[Actas](../Page/Actas.md "wikilink")聯合製作的原創動畫，於2017年7月9日首播\[1\]。另外，以動畫為題的手機遊戲《Princess Principal: GAME OF MISSION》亦同時展開，預定於同年6月開始進行事前登錄\[2\]。2018年4月29日，官方宣布製作動畫續篇，預計總共六章，並於2019年在劇院公開\[3\]。
 
 ## 故事簡介
 
@@ -42,9 +39,7 @@ MISSION》亦同時展開，預定於同年6月開始進行事前登錄\[2\]。2
 <!-- end list -->
 
   -
-    共和國情報組織的領導者，安潔和多蘿西的上司。為保障已深入王國的間諜們不被公主揭穿及因違反停戰條約而引起戰爭，答應與公主合作，組成Principal
-    小隊，並助她成為下任女王。曾一度被軍隊奪權及擺免職務，後在暗殺女王失敗一事後，在7和多蘿西等人的幫助下重新坐上領導者之位，也不追究Principal
-    小隊違反將軍命令的失職處分。
+    共和國情報組織的領導者，安潔和多蘿西的上司。為保障已深入王國的間諜們不被公主揭穿及因違反停戰條約而引起戰爭，答應與公主合作，組成Principal 小隊，並助她成為下任女王。曾一度被軍隊奪權及擺免職務，後在暗殺女王失敗一事後，在7和多蘿西等人的幫助下重新坐上領導者之位，也不追究Principal 小隊違反將軍命令的失職處分。
 
 <!-- end list -->
 
@@ -83,16 +78,14 @@ MISSION》亦同時展開，預定於同年6月開始進行事前登錄\[2\]。2
   - 圖形美術：荒木宏文
   - 攝影監督：若林優
   - 編輯：定松剛
-  - 動畫製作：[Studio
-    3Hz](../Page/3Hz.md "wikilink")、[Actas](../Page/Actas.md "wikilink")
+  - 動畫製作：[Studio 3Hz](../Page/3Hz.md "wikilink")、[Actas](../Page/Actas.md "wikilink")
 
 ## 主題曲
 
   - 片頭曲「The Other Side of the Wall」
     作詞：Konnie Aoki，作曲・編曲：高橋諒，主唱：Void_Chords feat.MARU
   - 片尾曲「A Page of My Story」
-    作詞：Konnie
-    Aoki，作曲、編曲：高橋諒，主唱：安潔（[今村彩夏](../Page/今村彩夏.md "wikilink")）、公主（[關根明良](../Page/關根明良.md "wikilink")）、多蘿西（[大地葉](../Page/大地葉.md "wikilink")）、貝翠絲（[影山燈](../Page/影山燈.md "wikilink")）、千世（[古木望](../Page/古木望.md "wikilink")）
+    作詞：Konnie Aoki，作曲、編曲：高橋諒，主唱：安潔（[今村彩夏](../Page/今村彩夏.md "wikilink")）、公主（[關根明良](../Page/關根明良.md "wikilink")）、多蘿西（[大地葉](../Page/大地葉.md "wikilink")）、貝翠絲（[影山燈](../Page/影山燈.md "wikilink")）、千世（[古木望](../Page/古木望.md "wikilink")）
 
 ## 各話列表
 
@@ -157,6 +150,15 @@ MISSION》亦同時展開，預定於同年6月開始進行事前登錄\[2\]。2
 </tr>
 <tr class="even">
 <td><p>#06</p></td>
+<td><p>ccase18 Rouge Morgue</p></td>
+<td><p>案件18 胭脂停屍房</p></td>
+<td><p>橘正紀</p></td>
+<td><p>大森祐紀</p></td>
+<td><p>高橋、金丸綾子</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>#07</p></td>
 <td><p>case16 Loudly Laundry</p></td>
 <td><p>案件16 喧囂洗滌</p></td>
 <td><p>內藤明吾</p></td>
@@ -164,17 +166,19 @@ MISSION》亦同時展開，預定於同年6月開始進行事前登錄\[2\]。2
 <td><p>小島惠理</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>#07</p></td>
-<td><p>case18 Rouge Morgue</p></td>
-<td><p>案件18 胭脂停屍房</p></td>
-<td><p>橘正紀</p></td>
-<td><p>大森祐紀</p></td>
-<td><p>高橋、金丸綾子</p></td>
-<td></td>
-</tr>
 <tr class="even">
 <td><p>#08</p></td>
+<td><p>case20 Ripper Dipper</p></td>
+<td><p>案件20 了不起的小偷</p></td>
+<td><p>迫井政行</p></td>
+<td><p>鶴窪久子、飯田剛士<br />
+金丸綾子、小堺能夫<br />
+小松香苗</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>#09</p></td>
 <td><p>case11 Pell-mell Duel</p></td>
 <td><p>案件11 紛亂決鬥</p></td>
 <td><p>入江泰浩</p></td>
@@ -183,17 +187,6 @@ MISSION》亦同時展開，預定於同年6月開始進行事前登錄\[2\]。2
 小倉典子、實原登<br />
 內原茂、櫻井木之實<br />
 澤木巳登理、小笠原理惠</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>#09</p></td>
-<td><p>case20 Ripper Dipper</p></td>
-<td><p>案件20 了不起的小偷</p></td>
-<td><p>迫井政行</p></td>
-<td><p>鶴窪久子、飯田剛士<br />
-金丸綾子、小堺能夫<br />
-小松香苗</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -261,18 +254,10 @@ MISSION》亦同時展開，預定於同年6月開始進行事前登錄\[2\]。2
 
 ## 外部連結
 
-  - [《Princess
-    Principal》電視動畫官網](https://web.archive.org/web/20170324093651/http://www.pripri-anime.jp/)
-
+  - [《Princess Principal》電視動畫官網](https://web.archive.org/web/20170324093651/http://www.pripri-anime.jp/)
 
   -
-[Category:Actas](https://zh.wikipedia.org/wiki/Category:Actas "wikilink")
-[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:架空世界背景作品](https://zh.wikipedia.org/wiki/Category:架空世界背景作品 "wikilink")
-[Category:交換身分題材動畫](https://zh.wikipedia.org/wiki/Category:交換身分題材動畫 "wikilink")
-[Category:公主主角題材動畫](https://zh.wikipedia.org/wiki/Category:公主主角題材動畫 "wikilink")
-[Category:間諜題材動畫](https://zh.wikipedia.org/wiki/Category:間諜題材動畫 "wikilink")
+[Category:Actas](https://zh.wikipedia.org/wiki/Category:Actas "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:架空世界背景作品](https://zh.wikipedia.org/wiki/Category:架空世界背景作品 "wikilink") [Category:交換身分題材動畫](https://zh.wikipedia.org/wiki/Category:交換身分題材動畫 "wikilink") [Category:公主主角題材動畫](https://zh.wikipedia.org/wiki/Category:公主主角題材動畫 "wikilink") [Category:間諜題材動畫](https://zh.wikipedia.org/wiki/Category:間諜題材動畫 "wikilink")
 
 1.
 

@@ -1,11 +1,8 @@
-**快速振盪Ap星**（**Rapidly oscillating Ap stars**，縮寫：**roAp
-stars**）是[恆星光譜](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")[Ap型恆星的次型](https://zh.wikipedia.org/wiki/Ap和Bp星 "wikilink")，特徵是短時間內或[徑向速度的急速變化](https://zh.wikipedia.org/wiki/徑向速度 "wikilink")。已知的此型恆星光變週期在5到23分鐘之間。這類恆星在赫羅圖的[主序帶上的](https://zh.wikipedia.org/wiki/主序帶 "wikilink")[盾牌座
-δ變星](https://zh.wikipedia.org/wiki/盾牌座_δ變星 "wikilink")[不穩定帶](../Page/不穩定帶.md "wikilink")。
+**快速振盪Ap星**（**Rapidly oscillating Ap stars**，縮寫：**roAp stars**）是[恆星光譜](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")[Ap型恆星的次型](https://zh.wikipedia.org/wiki/Ap和Bp星 "wikilink")，特徵是短時間內或[徑向速度的急速變化](https://zh.wikipedia.org/wiki/徑向速度 "wikilink")。已知的此型恆星光變週期在5到23分鐘之間。這類恆星在赫羅圖的[主序帶上的](https://zh.wikipedia.org/wiki/主序帶 "wikilink")[盾牌座 δ變星](https://zh.wikipedia.org/wiki/盾牌座_δ變星 "wikilink")[不穩定帶](../Page/不穩定帶.md "wikilink")。
 
 ## 發現
 
-第一顆被發現的快速振盪Ap星是HD
-101065（）\[1\]。天文學家使用[南非天文台的口徑](../Page/南非天文台.md "wikilink")20英吋望遠鏡觀測該恆星，並繪出它的變化幅度0.01到0.02等，週期12.15分鐘的[光變曲線](../Page/光變曲線.md "wikilink")。
+第一顆被發現的快速振盪Ap星是HD 101065（）\[1\]。天文學家使用[南非天文台](../Page/南非天文台.md "wikilink")的口徑20英吋望遠鏡觀測該恆星，並繪出它的變化幅度0.01到0.02等，週期12.15分鐘的[光變曲線](../Page/光變曲線.md "wikilink")。
 
 ## 分類
 
@@ -13,8 +10,7 @@ stars**）是[恆星光譜](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink
 
 ## 震盪機制
 
-快速振盪Ap星的震盪模式為高倍頻、低角度與非徑向壓力。用以解釋這類天體脈動的一般模型為斜脈動星模型\[3\]\[4\]\[5\]。在這個模型中，脈動軸是沿著磁場的磁軸，並將導致脈動振幅的[調變](../Page/調變.md "wikilink")。並且調變程度是基於脈動軸相對於視線方向，而且隨天體轉動變化。磁軸與脈動軸的明顯關聯則是得到脈動驅動機制的線索。快速振盪Ap星似乎占據了位於[主序帶終端的](../Page/主序星.md "wikilink")[盾牌座δ不穩定帶](https://zh.wikipedia.org/wiki/矮造父變星 "wikilink")，因此有理論認為兩者可能有類似的震盪機制，即氫[电离區域內的](https://zh.wikipedia.org/wiki/电离 "wikilink")機制。但至今尚未建立以不透明度機制驅動震盪的標準脈動模型。由於磁場似乎是重要因素，研究人員在建立非標準脈動模型時將磁場列入考慮。已有天文學家提出了接近恆星磁極強磁場產生對流抑制造成脈動的機制\[6\]，可解釋脈動軸延著磁軸的現象。快速振盪Ap星的不穩定帶計算結果與實際發現的此類天體在[赫羅圖上的位置相符合](../Page/赫羅圖.md "wikilink")\[7\]，並且預測了較晚期快速振盪Ap星之中會有震盪週期更長的恆星存在。之後經由對恆星
-HD 177765的研究證實\[8\]，而它的脈動週期23.6分鐘是快速振盪Ap星之中最長的。
+快速振盪Ap星的震盪模式為高倍頻、低角度與非徑向壓力。用以解釋這類天體脈動的一般模型為斜脈動星模型\[3\]\[4\]\[5\]。在這個模型中，脈動軸是沿著磁場的磁軸，並將導致脈動振幅的[調變](../Page/調變.md "wikilink")。並且調變程度是基於脈動軸相對於視線方向，而且隨天體轉動變化。磁軸與脈動軸的明顯關聯則是得到脈動驅動機制的線索。快速振盪Ap星似乎占據了位於[主序帶終端的](../Page/主序星.md "wikilink")[盾牌座δ不穩定帶](https://zh.wikipedia.org/wiki/矮造父變星 "wikilink")，因此有理論認為兩者可能有類似的震盪機制，即氫[电离區域內的](https://zh.wikipedia.org/wiki/电离 "wikilink")機制。但至今尚未建立以不透明度機制驅動震盪的標準脈動模型。由於磁場似乎是重要因素，研究人員在建立非標準脈動模型時將磁場列入考慮。已有天文學家提出了接近恆星磁極強磁場產生對流抑制造成脈動的機制\[6\]，可解釋脈動軸延著磁軸的現象。快速振盪Ap星的不穩定帶計算結果與實際發現的此類天體在[赫羅圖](../Page/赫羅圖.md "wikilink")上的位置相符合\[7\]，並且預測了較晚期快速振盪Ap星之中會有震盪週期更長的恆星存在。之後經由對恆星 HD 177765的研究證實\[8\]，而它的脈動週期23.6分鐘是快速振盪Ap星之中最長的。
 
 大多數快速振盪Ap星是以小望遠鏡發現並觀測其星體脈動產生的小幅度光度變化，但也可能經由量測元素[釹或](https://zh.wikipedia.org/wiki/釹 "wikilink")[鐠等某些特定光譜譜線的徑向速度變化發現星體脈動](https://zh.wikipedia.org/wiki/鐠 "wikilink")\[9\]\[10\]。[鐵等某些特定譜線無法觀測到脈動狀況](https://zh.wikipedia.org/wiki/鐵 "wikilink")\[11\]。一般認為是因為這些星體的脈動在它們低密度的大氣層最頂端有最明顯變化。因此，主要漂浮於這些恆星大氣層高層的元素產生的譜線可觀測到明顯的脈動現象；而鐵等因為重力沉降於較下層的元素則不會有明顯的徑向速度變化\[12\]。
 
@@ -251,44 +247,18 @@ HD 177765的研究證實\[8\]，而它的脈動週期23.6分鐘是快速振盪Ap
 
 ## 參考資料
 
-[Category:快速振盪Ap星](https://zh.wikipedia.org/wiki/Category:快速振盪Ap星 "wikilink")
-[Category:_A-型恆星](https://zh.wikipedia.org/wiki/Category:_A-型恆星 "wikilink")
+[Category:快速振盪Ap星](https://zh.wikipedia.org/wiki/Category:快速振盪Ap星 "wikilink") [Category:_A-型恆星](https://zh.wikipedia.org/wiki/Category:_A-型恆星 "wikilink")
 
-1.  [Kurtz, D.W. Information Bulletin on Variable Stars,
-    vol 1436, 1978](http://www.konkoly.hu/cgi-bin/IBVS?1436)
+1.  [Kurtz, D.W. Information Bulletin on Variable Stars, vol 1436, 1978](http://www.konkoly.hu/cgi-bin/IBVS?1436)
 2.
-3.  Kurtz, D.W. [Monthly Notices of the Royal Astronomical
-    Society](../Page/皇家天文學會月報.md "wikilink"), vol 200, p 807, 1982
-    \[<http://articles.adsabs.harvard.edu/full/1982MNRAS.200>..807K\]
-4.  Shibahashi, H. & Takata, M. Publication of the Astronomical Society
-    of Japan, vol 45, p 617, 1993
-    \[<http://articles.adsabs.harvard.edu/full/1993PASJ>...45..617S\]
-5.  Bigot, L. & Dziembowski, W. Astronomy & Astrophysics, vol 391, p
-    235, 2002
-    \[<http://www.aanda.org/index.php?option=article&access=bibcode&bibcode=2002A%2526A>...391..235BFUL\]
-6.  Balmforth, N. et al. Monthly Notices of the Royal Astronomical
-    Society, vol 323, p 362, 2001
-    \[<http://articles.adsabs.harvard.edu/full/2001MNRAS.323>..362B\]
-7.  Cunha, M.S. Monthly Notices of the Royal Astronomical Society, vol
-    333, p 47, 2002
-    \[<http://articles.adsabs.harvard.edu/full/2002MNRAS.333>...47C\]
-8.  Alentiev et al., Monthly Notices of the Royal Astronomical Society,
-    2012, L398
-    [1](http://adsabs.harvard.edu/doi/10.1111/j.1745-3933.2011.01211.x)
-9.  Elkin, V.G.; Kurtz, D.W.; Mathys, G. [Monthly Notices of the Royal
-    Astronomical Society](../Page/皇家天文學會月報.md "wikilink"), vol 386, p
-    481-491, 2008
-    \[<http://adsabs.harvard.edu/full/2008MNRAS.386>..481E\]
-10. Kochukhov, O.; Drake, N. A.; Piskunov, N.; de la Reza, R. [Astronomy
-    and Astrophysics](../Page/天文与天体物理学报.md "wikilink"), vol 424, p
-    935-950, 2004
-    \[<http://adsabs.harvard.edu/abs/2004A%26A>...424..935K\]
-11. Elkin, V. G.; Kurtz, D. W.; Mathys, G.; Freyhammer, L. M. Monthly
-    Notices of the Royal Astronomical Society, vol 404, p L104-L108,
-    2010 [2](http://adsabs.harvard.edu/abs/2010MNRAS.404L.104E)
-12. Ryabchikova, T.; Sachkov, M.; Weiss, W. W.; Kallinger, T.;
-    Kochukhov, O.; Bagnulo, S.; Ilyin, I.; Landstreet, J. D.; Leone, F.;
-    Lo Curto, G.; Lüftinger, T.; Lyashko, D.; Magazzù, A. Astronomy and
-    Astrophysics, vol 462, p 1103-1112, 2007
-    \[<http://adsabs.harvard.edu/abs/2007A%26A>...462.1103R\]
+3.  Kurtz, D.W. [Monthly Notices of the Royal Astronomical Society](../Page/皇家天文學會月報.md "wikilink"), vol 200, p 807, 1982 \[<http://articles.adsabs.harvard.edu/full/1982MNRAS.200>..807K\]
+4.  Shibahashi, H. & Takata, M. Publication of the Astronomical Society of Japan, vol 45, p 617, 1993 \[<http://articles.adsabs.harvard.edu/full/1993PASJ>...45..617S\]
+5.  Bigot, L. & Dziembowski, W. Astronomy & Astrophysics, vol 391, p 235, 2002 \[<http://www.aanda.org/index.php?option=article&access=bibcode&bibcode=2002A%2526A>...391..235BFUL\]
+6.  Balmforth, N. et al. Monthly Notices of the Royal Astronomical Society, vol 323, p 362, 2001 \[<http://articles.adsabs.harvard.edu/full/2001MNRAS.323>..362B\]
+7.  Cunha, M.S. Monthly Notices of the Royal Astronomical Society, vol 333, p 47, 2002 \[<http://articles.adsabs.harvard.edu/full/2002MNRAS.333>...47C\]
+8.  Alentiev et al., Monthly Notices of the Royal Astronomical Society, 2012, L398 [1](http://adsabs.harvard.edu/doi/10.1111/j.1745-3933.2011.01211.x)
+9.  Elkin, V.G.; Kurtz, D.W.; Mathys, G. [Monthly Notices of the Royal Astronomical Society](../Page/皇家天文學會月報.md "wikilink"), vol 386, p 481-491, 2008 \[<http://adsabs.harvard.edu/full/2008MNRAS.386>..481E\]
+10. Kochukhov, O.; Drake, N. A.; Piskunov, N.; de la Reza, R. [Astronomy and Astrophysics](../Page/天文与天体物理学报.md "wikilink"), vol 424, p 935-950, 2004 \[<http://adsabs.harvard.edu/abs/2004A%26A>...424..935K\]
+11. Elkin, V. G.; Kurtz, D. W.; Mathys, G.; Freyhammer, L. M. Monthly Notices of the Royal Astronomical Society, vol 404, p L104-L108, 2010 [2](http://adsabs.harvard.edu/abs/2010MNRAS.404L.104E)
+12. Ryabchikova, T.; Sachkov, M.; Weiss, W. W.; Kallinger, T.; Kochukhov, O.; Bagnulo, S.; Ilyin, I.; Landstreet, J. D.; Leone, F.; Lo Curto, G.; Lüftinger, T.; Lyashko, D.; Magazzù, A. Astronomy and Astrophysics, vol 462, p 1103-1112, 2007 \[<http://adsabs.harvard.edu/abs/2007A%26A>...462.1103R\]
 13.

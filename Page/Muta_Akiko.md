@@ -1,5 +1,4 @@
-**Muta
-Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Page/配音員.md "wikilink")、[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")。出身於[東京都](../Page/東京都.md "wikilink")\[1\]。
+**Muta Akiko**（，），[日本](../Page/日本.md "wikilink")女性[配音員](../Page/配音員.md "wikilink")、[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")。出身於[東京都](../Page/東京都.md "wikilink")\[1\]。
 
 ## 人物簡介
 
@@ -7,7 +6,7 @@ Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Pa
 
 音域為[次女高音](https://zh.wikipedia.org/wiki/次女高音 "wikilink")\[3\]。為人熟悉的代表配音作品是長壽動畫《[蠟筆小新](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")》埼玉紅蠍隊的青春痘瑪莉和《[忍者亂太郎](https://zh.wikipedia.org/wiki/忍者亂太郎 "wikilink")》的大川繁、笹山兵太夫；[遊戲與改編動畫](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")《[漫畫派對](../Page/漫畫派對_\(遊戲\).md "wikilink")》的芳賀玲子。
 
-興趣是參觀[美術館巡迴展](../Page/美術館.md "wikilink")\[4\]。
+興趣是參觀[美術館](../Page/美術館.md "wikilink")巡迴展\[4\]。
 
 ## 演出作品
 
@@ -29,8 +28,7 @@ Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Pa
 
 <!-- end list -->
 
-  - *[忍者亂太郎](https://zh.wikipedia.org/wiki/忍者亂太郎 "wikilink")*（**大川繁**、**笹山兵太夫**、音吉
-    等）
+  - *[忍者亂太郎](https://zh.wikipedia.org/wiki/忍者亂太郎 "wikilink")*（**大川繁**、**笹山兵太夫**、音吉 等）
 
 <!-- end list -->
 
@@ -96,8 +94,7 @@ Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Pa
 
 <!-- end list -->
 
-  - [劇場版
-    忍者亂太郎](https://zh.wikipedia.org/wiki/忍者亂太郎 "wikilink")（**大川繁**、**笹山兵太夫**）
+  - [劇場版 忍者亂太郎](https://zh.wikipedia.org/wiki/忍者亂太郎 "wikilink")（**大川繁**、**笹山兵太夫**）
 
 <!-- end list -->
 
@@ -130,8 +127,7 @@ Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Pa
 
 <!-- end list -->
 
-  - [劇場版
-    忍者亂太郎：忍術學園全員出動之卷！](../Page/劇場版動畫_忍者亂太郎_忍術學園_全員出動！之段.md "wikilink")（**大川繁**\[5\]、**笹山兵太夫**\[6\]）
+  - [劇場版 忍者亂太郎：忍術學園全員出動之卷！](../Page/劇場版動畫_忍者亂太郎_忍術學園_全員出動！之段.md "wikilink")（**大川繁**\[5\]、**笹山兵太夫**\[6\]）
 
 <!-- end list -->
 
@@ -199,8 +195,7 @@ Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Pa
 
 <!-- end list -->
 
-  - [忍者亂太郎
-    學年對戰方塊！之卷](https://zh.wikipedia.org/wiki/忍者亂太郎 "wikilink")（**大川繁**）
+  - [忍者亂太郎 學年對戰方塊！之卷](https://zh.wikipedia.org/wiki/忍者亂太郎 "wikilink")（**大川繁**）
 
 <!-- end list -->
 
@@ -283,10 +278,8 @@ Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Pa
 
 #### 電視影集
 
-  - [大偵探波洛](https://zh.wikipedia.org/wiki/大偵探波洛 "wikilink")（Mlle
-    Blanche〈Miranda Raison 飾演〉）－第59集。
-  - [急診室的春天](../Page/仁心仁術.md "wikilink")（Lisa "One Night"
-    Standing〈Kimberly Scott 飾演〉、〈[溫明娜](../Page/溫明娜.md "wikilink") 飾演〉）
+  - [大偵探波洛](https://zh.wikipedia.org/wiki/大偵探波洛 "wikilink")（Mlle Blanche〈Miranda Raison 飾演〉）－第59集。
+  - [急診室的春天](../Page/仁心仁術.md "wikilink")（Lisa "One Night" Standing〈Kimberly Scott 飾演〉、〈[溫明娜](../Page/溫明娜.md "wikilink") 飾演〉）
 
 ### 廣播劇CD
 
@@ -305,7 +298,7 @@ Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Pa
 
   - →（旁白：不定期）
 
-  - 「[電視冠軍R](../Page/電視冠軍.md "wikilink") 世界包丁細工職人決定戰」（旁白）
+  - 「[電視冠軍](../Page/電視冠軍.md "wikilink")R 世界包丁細工職人決定戰」（旁白）
 
   - （的配音）
 
@@ -371,12 +364,7 @@ Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Pa
 
   - [東京俳優生活協同組合公式官網的聲優簡介](http://haikyo.co.jp/profile/profile.php?ActorID=10604)
 
-
-[Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink")
-[Category:旁白](https://zh.wikipedia.org/wiki/Category:旁白 "wikilink")
-[Category:東京俳優生活協同組合](https://zh.wikipedia.org/wiki/Category:東京俳優生活協同組合 "wikilink")
-[Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink") [Category:旁白](https://zh.wikipedia.org/wiki/Category:旁白 "wikilink") [Category:東京俳優生活協同組合](https://zh.wikipedia.org/wiki/Category:東京俳優生活協同組合 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.
 2.

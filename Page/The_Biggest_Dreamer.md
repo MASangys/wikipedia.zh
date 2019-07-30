@@ -1,6 +1,4 @@
-《**The Biggest
-Dreamer**》（字面語譯：**最大的夢想家**）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[和田光司的第四張單曲](../Page/和田光司.md "wikilink")，也是电视動畫《[數碼寶貝馴獸師](https://zh.wikipedia.org/wiki/數碼寶貝馴獸師 "wikilink")》的主題曲。由[NEC
-Interchannel](https://zh.wikipedia.org/wiki/NEC_Interchannel "wikilink")（現[Interchannel](../Page/Interchannel.md "wikilink")）发行、[國王唱片](../Page/國王唱片.md "wikilink")（NECM-12005）发售。
+《**The Biggest Dreamer**》（字面語譯：**最大的夢想家**）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[和田光司](../Page/和田光司.md "wikilink")的第四張單曲，也是电视動畫《[數碼寶貝馴獸師](https://zh.wikipedia.org/wiki/數碼寶貝馴獸師 "wikilink")》的主題曲。由[NEC Interchannel](https://zh.wikipedia.org/wiki/NEC_Interchannel "wikilink")（現[Interchannel](../Page/Interchannel.md "wikilink")）发行、[國王唱片](../Page/國王唱片.md "wikilink")（NECM-12005）发售。
 
 ## 收录曲
 
@@ -8,14 +6,11 @@ Interchannel](https://zh.wikipedia.org/wiki/NEC_Interchannel "wikilink")（現[I
 
 1.  **The Biggest Dreamer** \[3:50\]
       -
-        [作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")：山田ひろし
-        [作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")・[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：太田美知彦
+        [作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")：山田ひろし [作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")・[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：太田美知彦
           - TV动画《数码兽驯兽师》[片头曲](https://zh.wikipedia.org/wiki/片头曲 "wikilink")
 2.  **風** \[3:54\]
       -
-        作詞：[和田光司](../Page/和田光司.md "wikilink")
-        作曲：[大久保薫](https://zh.wikipedia.org/wiki/大久保薫 "wikilink")
-        編曲：渡部チェル
+        作詞：[和田光司](../Page/和田光司.md "wikilink") 作曲：[大久保薫](https://zh.wikipedia.org/wiki/大久保薫 "wikilink") 編曲：渡部チェル
           - 《数码兽驯兽师》[插曲](https://zh.wikipedia.org/wiki/插曲 "wikilink")
 3.  The Biggest Dreamer（Original Karaoke）
 4.  風（Original Karaoke）
@@ -24,14 +19,11 @@ Interchannel](https://zh.wikipedia.org/wiki/NEC_Interchannel "wikilink")（現[I
 
 1.  **The Biggest Dreamer** \[3:50\]
       -
-        作詞：山田ひろし
-        [作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")・編曲：太田美知彦
-          - 剧场版《数码兽驯兽师
-            冒险者之战斗》[片头曲](https://zh.wikipedia.org/wiki/片头曲 "wikilink")
+        作詞：山田ひろし [作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")・編曲：太田美知彦
+          - 剧场版《数码兽驯兽师 冒险者之战斗》[片头曲](https://zh.wikipedia.org/wiki/片头曲 "wikilink")
 2.  **風** \[3:54\]
       -
-        作詞：和田光司 作曲：[大久保薫](https://zh.wikipedia.org/wiki/大久保薫 "wikilink")
-        編曲：渡部チェル
+        作詞：和田光司 作曲：[大久保薫](https://zh.wikipedia.org/wiki/大久保薫 "wikilink") 編曲：渡部チェル
 3.  The Biggest Dreamer（Original Karaoke）
 4.  風（Original Karaoke）
 5.  **♪ポケットクルモンのうた** \[0:16\]
@@ -43,10 +35,8 @@ Interchannel](https://zh.wikipedia.org/wiki/NEC_Interchannel "wikilink")（現[I
 
 1.  **The Biggest Dreamer** \[3:50\]
       -
-        [作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")：山田ひろし
-        [作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")・[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：太田美知彦
-          - 剧场版《数码兽驯兽师
-            暴走数码特急》[片头曲](https://zh.wikipedia.org/wiki/片头曲 "wikilink")
+        [作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")：山田ひろし [作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")・[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：太田美知彦
+          - 剧场版《数码兽驯兽师 暴走数码特急》[片头曲](https://zh.wikipedia.org/wiki/片头曲 "wikilink")
 2.  **笑顔** \[5:13\]
       -
         作詞・作曲：和田光司 編曲：太田美知彦
@@ -92,7 +82,4 @@ Interchannel](https://zh.wikipedia.org/wiki/NEC_Interchannel "wikilink")（現[I
 
   - [Wikimon](http://wikimon.net/)
 
-[Category:數碼寶貝動畫歌曲](https://zh.wikipedia.org/wiki/Category:數碼寶貝動畫歌曲 "wikilink")
-[Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink")
-[Category:2002年單曲](https://zh.wikipedia.org/wiki/Category:2002年單曲 "wikilink")
-[Category:富士電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:富士電視台動畫主題曲 "wikilink")
+[Category:數碼寶貝動畫歌曲](https://zh.wikipedia.org/wiki/Category:數碼寶貝動畫歌曲 "wikilink") [Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink") [Category:2002年單曲](https://zh.wikipedia.org/wiki/Category:2002年單曲 "wikilink") [Category:富士電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:富士電視台動畫主題曲 "wikilink")

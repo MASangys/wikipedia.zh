@@ -1,9 +1,6 @@
-\-- -- implements
-[Template:ahnentafel](https://zh.wikipedia.org/wiki/Template:ahnentafel "wikilink")
--- local p = {}
+\-- -- implements [Template:ahnentafel](https://zh.wikipedia.org/wiki/Template:ahnentafel "wikilink") -- local p = {}
 
-\-- table of row pointers local rows = {} -- first and last indices in
-rows table local rowbegin, rowend = -1,-1 -- tracking local tcats = ''
+\-- table of row pointers local rows = {} -- first and last indices in rows table local rowbegin, rowend = -1,-1 -- tracking local tcats = ''
 
 local function checkparameters(k)
 
@@ -276,5 +273,4 @@ function p.chart( frame )
 
 return p
 
-[Category:使用ahnentafel模板帶有'_.._k_.._'的條目](https://zh.wikipedia.org/wiki/Category:使用ahnentafel模板帶有'_.._k_.._'的條目 "wikilink")
-[Category:使用ahnentafel模板未知參數的條目](https://zh.wikipedia.org/wiki/Category:使用ahnentafel模板未知參數的條目 "wikilink")
+[Category:使用ahnentafel模板帶有'_.._k_.._'的條目](https://zh.wikipedia.org/wiki/Category:使用ahnentafel模板帶有'_.._k_.._'的條目 "wikilink") [Category:使用ahnentafel模板未知參數的條目](https://zh.wikipedia.org/wiki/Category:使用ahnentafel模板未知參數的條目 "wikilink")

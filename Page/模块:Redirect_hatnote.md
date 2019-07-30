@@ -1,12 +1,6 @@
-\--[-- This module produces a "redirect" hatnote. It looks like this: --
-'"X" redirects here. For other uses, see Y.' -- It implements the
-{{redirect}} template.
---](https://zh.wikipedia.org/wiki/--_This_module_produces_a_"redirect"_hatnote._It_looks_like_this:_--_'"X"_redirects_here._For_other_uses,_see_Y.'_--_It_implements_the_{{redirect}}_template._-- "wikilink")
+\--[-- This module produces a "redirect" hatnote. It looks like this: -- '"X" redirects here. For other uses, see Y.' -- It implements the {{redirect}} template. --](https://zh.wikipedia.org/wiki/--_This_module_produces_a_"redirect"_hatnote._It_looks_like_this:_--_'"X"_redirects_here._For_other_uses,_see_Y.'_--_It_implements_the_{{redirect}}_template._-- "wikilink")
 
-local mHatnote = require('Module:Hatnote') local mHatList =
-require('Module:Hatnote list') local mArguments --lazily initialize
-local libraryUtil = require('libraryUtil') local checkType =
-libraryUtil.checkType local checkTypeMulti = libraryUtil.checkTypeMulti
+local mHatnote = require('Module:Hatnote') local mHatList = require('Module:Hatnote list') local mArguments --lazily initialize local libraryUtil = require('libraryUtil') local checkType = libraryUtil.checkType local checkTypeMulti = libraryUtil.checkTypeMulti
 
 local p = {}
 
@@ -34,8 +28,7 @@ function p.redirect(frame)
 
 end
 
-function p._redirect(args, numRedirects, options, currentTitle,
-redirectTitle, targetTitle)
+function p._redirect(args, numRedirects, options, currentTitle, redirectTitle, targetTitle)
 
 `   -- Validate the input. Don't bother checking currentTitle, redirectTitle or`
 `   -- targetTitle, as they are only used in testing.`

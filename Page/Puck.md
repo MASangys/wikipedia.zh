@@ -1,10 +1,8 @@
-《**Puck！**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")2016年1月1日播出的[特輯電視劇](../Page/SBS特輯電視劇.md "wikilink")，由[李光洙](../Page/李光洙_\(演員\).md "wikilink")、[孫秀賢及](../Page/孫秀賢.md "wikilink")[郭東延主演](../Page/郭東延.md "wikilink")，[李光英導演執導](https://zh.wikipedia.org/wiki/李光英 "wikilink")，[尹賢浩編劇執筆](https://zh.wikipedia.org/wiki/尹賢浩 "wikilink")。\[1\]。此劇是[李光洙時隔兩年回歸小螢幕](../Page/李光洙_\(演員\).md "wikilink")\[2\]
+《**Puck！**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")2016年1月1日播出的[特輯電視劇](../Page/SBS特輯電視劇.md "wikilink")，由[李光洙](../Page/李光洙_\(演員\).md "wikilink")、[孫秀賢](../Page/孫秀賢.md "wikilink")及[郭東延](../Page/郭東延.md "wikilink")主演，[李光英導演執導](https://zh.wikipedia.org/wiki/李光英 "wikilink")，[尹賢浩編劇執筆](https://zh.wikipedia.org/wiki/尹賢浩 "wikilink")。\[1\]。此劇是[李光洙時隔兩年回歸小螢幕](../Page/李光洙_\(演員\).md "wikilink")\[2\]
 
 ## 劇情
 
-一名不抱任何希望和愛情的曹俊萬（[李光洙](../Page/李光洙_\(演員\).md "wikilink")
-飾），因為妻子欠債逃跑後替妻子還債成為高利貸。後來加入大學冰球社团而邂逅曲棍球隊助理南成實（[孫秀賢](../Page/孫秀賢.md "wikilink")
-飾）后发生变化......
+一名不抱任何希望和愛情的曹俊萬（[李光洙](../Page/李光洙_\(演員\).md "wikilink") 飾），因為妻子欠債逃跑後替妻子還債成為高利貸。後來加入大學冰球社团而邂逅曲棍球隊助理南成實（[孫秀賢](../Page/孫秀賢.md "wikilink") 飾）后发生变化......
 
 ## 演員列表
 
@@ -119,12 +117,7 @@
 
   - [韓國SBS官方網站](http://www.sbs.co.kr/builder/programMainList.do?pgm_id=22000008939)
 
-[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink")
-[Category:2016年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2016年電視特別劇集 "wikilink")
-[Category:借貸題材作品](https://zh.wikipedia.org/wiki/Category:借貸題材作品 "wikilink")
-[Category:冰雪運動題材作品](https://zh.wikipedia.org/wiki/Category:冰雪運動題材作品 "wikilink")
+[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:2016年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2016年電視特別劇集 "wikilink") [Category:借貸題材作品](https://zh.wikipedia.org/wiki/Category:借貸題材作品 "wikilink") [Category:冰雪運動題材作品](https://zh.wikipedia.org/wiki/Category:冰雪運動題材作品 "wikilink")
 
-1.  [李光洙新劇《PUCK》變黑道放高利貸](http://www.koreastardaily.com/tc/news/72113)
-    韓星網2015-12-29
-2.  [李光洙出演電視劇《PUCK》重回電視螢屏](http://www.koreastardaily.com/tc/news/72071)
-    韓星網2015-12-28
+1.  [李光洙新劇《PUCK》變黑道放高利貸](http://www.koreastardaily.com/tc/news/72113) 韓星網2015-12-29
+2.  [李光洙出演電視劇《PUCK》重回電視螢屏](http://www.koreastardaily.com/tc/news/72071) 韓星網2015-12-28

@@ -122,12 +122,8 @@
 
   - [韓國OCN官方網站](http://program.tving.com/ocn/short)
 
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink")
-[Category:冰雪運動題材作品](https://zh.wikipedia.org/wiki/Category:冰雪運動題材作品 "wikilink")
-[Category:與運動有關的電視劇](https://zh.wikipedia.org/wiki/Category:與運動有關的電視劇 "wikilink")
+[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:OCN_Romance_Series](https://zh.wikipedia.org/wiki/Category:OCN_Romance_Series "wikilink") [Category:冰雪運動題材作品](https://zh.wikipedia.org/wiki/Category:冰雪運動題材作品 "wikilink") [Category:與運動有關的電視劇](https://zh.wikipedia.org/wiki/Category:與運動有關的電視劇 "wikilink")
 
 1.  [韩剧吧官博介紹](https://m.weibo.cn/status/4204795546221128#&gid=1&pid=4)，韓劇吧，2018-02-07
-2.  ["평창 맞이" 쇼트트랙 소재 드라마 '쇼트', OCN 2주간
-    편성](http://news.chosun.com/site/data/html_dir/2018/02/07/2018020701681.html)，朝鮮新聞，2018-02-07
+2.  ["평창 맞이" 쇼트트랙 소재 드라마 '쇼트', OCN 2주간 편성](http://news.chosun.com/site/data/html_dir/2018/02/07/2018020701681.html)，朝鮮新聞，2018-02-07
 3.

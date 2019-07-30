@@ -1,12 +1,10 @@
-《**DAYS**》是[安田剛士的](../Page/安田剛士.md "wikilink")[日本](../Page/日本.md "wikilink")[足球](../Page/足球.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。2013年開始在[講談社的旗下少年漫畫雜誌](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》第21、22合併號連載。[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2016年7月至12月首播。
+《**DAYS**》是[安田剛士](../Page/安田剛士.md "wikilink")的[日本](../Page/日本.md "wikilink")[足球](../Page/足球.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。2013年開始在[講談社的旗下少年漫畫雜誌](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》第21、22合併號連載。[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2016年7月至12月首播。
 
 ## 概要
 
-本作品以足球作主題，是有[公路自行車賽及](https://zh.wikipedia.org/wiki/公路自行車賽 "wikilink")[田徑為題材的連載經驗的](https://zh.wikipedia.org/wiki/田徑 "wikilink")[安田剛士第](../Page/安田剛士.md "wikilink")4次在[講談社的旗下少年雜誌Magazine連載的少年漫畫](https://zh.wikipedia.org/wiki/講談社 "wikilink")。
+本作品描寫主角柄本盡為初學者，進入了足球名校聖蹟高校之後與隊友們產生情誼、共同成長，還得到了隊友的讚賞\[1\]。
 
-作品描寫主角柄本盡為初學者，進入了足球名校聖蹟高校之後與隊友們產生情誼、共同成長，還得到了隊友的讚賞\[1\]。
-
-在發行單行本時並收錄了在同雜誌連載的其他漫畫家的推薦文之中，第1冊收錄了[棒球漫畫](../Page/棒球.md "wikilink")《[鑽石王牌](../Page/鑽石王牌.md "wikilink")》作者[寺嶋裕二的推薦文](../Page/寺嶋裕二.md "wikilink")，第2冊則收錄了[籃球漫畫](https://zh.wikipedia.org/wiki/籃球 "wikilink")《[籃球少年王](../Page/籃球少年王.md "wikilink")》作者[日向武史的推薦文](../Page/日向武史.md "wikilink")。
+在發行單行本時並收錄了在同雜誌連載的其他漫畫家的推薦文之中，第1冊收錄了[棒球](../Page/棒球.md "wikilink")漫畫《[鑽石王牌](../Page/鑽石王牌.md "wikilink")》作者[寺嶋裕二](../Page/寺嶋裕二.md "wikilink")的推薦文，第2冊則收錄了[籃球漫畫](https://zh.wikipedia.org/wiki/籃球 "wikilink")《[籃球少年王](../Page/籃球少年王.md "wikilink")》作者[日向武史](../Page/日向武史.md "wikilink")的推薦文。
 
 2015年入圍第39回[講談社漫畫賞少年部門的推薦作品](https://zh.wikipedia.org/wiki/講談社漫畫賞 "wikilink")\[2\]。
 
@@ -23,14 +21,14 @@
 ### 主要人物
 
   -
-    身高：156cm。血型：A型。生日：12月28日。[東京都出身](../Page/東京都.md "wikilink")。愛好：[牛奶](../Page/牛奶.md "wikilink")。拿手技巧：能把[布丁完整的倒出來](../Page/布丁.md "wikilink")。不擅長的東西：人群。喜歡的格言：整理整頓。女朋友：如果能給未來的她帶來幸福就很高興。
+    身高：156cm。血型：A型。生日：12月28日。[東京都](../Page/東京都.md "wikilink")出身。愛好：[牛奶](../Page/牛奶.md "wikilink")。拿手技巧：能把[布丁](../Page/布丁.md "wikilink")完整的倒出來。不擅長的東西：人群。喜歡的格言：整理整頓。女朋友：如果能給未來的她帶來幸福就很高興。
     聖蹟高中1年級。守備位置為[前鋒](../Page/前鋒_\(足球\).md "wikilink")。背號17號。足球新手、運動資質不佳卻擁有足球名門的隊友們都驚詫的忍耐力和上進心。凡事皆全力以赴，並帶動影響了隊友。因風間提出的[室內五人制足球比賽邀請](https://zh.wikipedia.org/wiki/室內五人制足球 "wikilink")，往後的人生產生重大的改變。隊長水樹對他的奮戰精神有很高的評價，並認為他兩年後會是新任的足球隊隊長。
     幼年失怙，由倚仗輪椅活動的母親撫育長大，故異常孝順，曾為此欲放棄加入足球隊，最後是母親在身後推了一把，擅長觀察周圍，預測即將掉球的隊友並前去搶第二落點，聖蹟波狀進攻的源頭，擁有任何選手都無法比擬的武器,放棄身為前鋒的攻擊意識為了隊伍勝利的『究極的獻身』。
 
 <!-- end list -->
 
   -
-    身高：172cm。血型：B型。生日：9月20日。[神奈川縣出身](../Page/神奈川縣.md "wikilink")。愛好：[巨乳](../Page/巨乳.md "wikilink")。拿手技巧：[劍玉](../Page/劍玉.md "wikilink")。不擅長的東西：[貧乳](https://zh.wikipedia.org/wiki/貧乳 "wikilink")（類似生方那種的）。喜歡的格言：[無碼](https://zh.wikipedia.org/wiki/無碼 "wikilink")。女朋友：從來沒為這種事犯愁過。
+    身高：172cm。血型：B型。生日：9月20日。[神奈川縣](../Page/神奈川縣.md "wikilink")出身。愛好：[巨乳](../Page/巨乳.md "wikilink")。拿手技巧：[劍玉](../Page/劍玉.md "wikilink")。不擅長的東西：[貧乳](https://zh.wikipedia.org/wiki/貧乳 "wikilink")（類似生方那種的）。喜歡的格言：[無碼](https://zh.wikipedia.org/wiki/無碼 "wikilink")。女朋友：從來沒為這種事犯愁過。
     聖蹟高中1年級。守備位置為右翼前鋒。背號9號。非常敬佩柄本永不放棄努力不懈的精神。只要一關係到柄本就容易生氣。教練花了兩年時間遊說的天才選手。來自破碎家庭，小學時期，母親隨弟離他而去（動畫裡為妹妹），所以直到進入聖蹟高中才對校隊產生歸屬感。
 
 ### 聖蹟高校
@@ -38,8 +36,7 @@
   -
     作品中的學校在現實的原型是位於東京都的一所私立高校，人稱『名門』,東京地區前四強學校，去年IH預賽決賽與全國大賽預賽決賽分別敗於櫻木與天王州，今年IH預賽決賽依舊敗給櫻木，全國大賽預賽決賽歷經苦戰擊敗東京最強『王者』東院學院。
   -
-    身高：176cm。血型：B型。生日：2月11日。東京都出身。愛好：水果軟糖。
-    拿手技巧：[相撲與填答題卡](../Page/相撲.md "wikilink")。不擅長的東西：細長的東西。喜歡的格言：沒有哪種草叫做雜草。女朋友：沒有！
+    身高：176cm。血型：B型。生日：2月11日。東京都出身。愛好：水果軟糖。 拿手技巧：[相撲](../Page/相撲.md "wikilink")與填答題卡。不擅長的東西：細長的東西。喜歡的格言：沒有哪種草叫做雜草。女朋友：沒有！
     3年級。聖蹟高校足球部的隊長，被稱為『東京最強之矛』，也是隊上的大黑柱。守備位置為左翼前鋒。背號7號。對於柄本努力的奮戰精神有很高的評價，並斷言兩年後他會成為新任隊長。
     全國大賽『十傑』（篤定加入職業球隊）選手之一。東京三巨頭之一。
     曾經也和柄本一樣，非推薦加入足球隊，一開始表現不好，體力不足，但是最勤奮，也因而成為隊伍的中心。
@@ -47,38 +44,33 @@
 <!-- end list -->
 
   -
-    身高：173cm。血型：AB型。4月16日出生。東京都出身。愛好：单轨电车。
-    拿手技巧：分解质因数。不擅長的東西：套娃。女朋友：不感兴趣！
+    身高：173cm。血型：AB型。4月16日出生。東京都出身。愛好：单轨电车。 拿手技巧：分解质因数。不擅長的東西：套娃。女朋友：不感兴趣！
     2年級。守備位置為[\#進攻中場](https://zh.wikipedia.org/wiki/中場 "wikilink")，為[球隊的核心](../Page/組織核心.md "wikilink")。背號10號。
     家裡從事經營運動用品專賣店。特技是素因數的分解，故在學年的成績排名在最頂端。右撇子，但可以用左腳開角球，也是隊中角球和罰球射手。
 
 <!-- end list -->
 
   -
-    身高：191cm。血型：O型。10月10日出生。東京都出身。愛好：番茄。拿手技巧：猜热带鱼的名字。
-    不擅長的東西：小番茄。喜歡的格言：一舉千金。女朋友：想要！
+    身高：191cm。血型：O型。10月10日出生。東京都出身。愛好：番茄。拿手技巧：猜热带鱼的名字。 不擅長的東西：小番茄。喜歡的格言：一舉千金。女朋友：想要！
     2年級。守備位置為中間前鋒。背號11號。被水樹欽點為下一任隊長人選。但因為防守及跑步態度消極而令人詬病。
 
 <!-- end list -->
 
   -
-    身高：174cm。體重：64kg。血型：A型。4月20日出生。[石川縣出身](../Page/石川縣.md "wikilink")。愛好：象龟和哈蜜瓜麵包。
-    拿手技巧：七巧板。不擅長的東西：刮大风的下午。喜歡的格言：强将手下无弱兵。女朋友：拒絕告白中！
+    身高：174cm。體重：64kg。血型：A型。4月20日出生。[石川縣](../Page/石川縣.md "wikilink")出身。愛好：象龟和哈蜜瓜麵包。 拿手技巧：七巧板。不擅長的東西：刮大风的下午。喜歡的格言：强将手下无弱兵。女朋友：拒絕告白中！
     3年級。聖蹟高校足球部的副隊長。守備位置為[後衛](../Page/後衛_\(足球\).md "wikilink")。背號3號。
     善於處理麻煩的事，在戰術上為卓越的頭腦派。
 
 <!-- end list -->
 
   -
-    身高：159cm。體重：55kg。10月13日出生。[山梨縣出身](https://zh.wikipedia.org/wiki/山梨縣 "wikilink")。愛好：大部分东西都喜欢。拿手技巧：Romero
-    Special、Emerald
-    flowsion（摔跤技能）。不擅長的東西：除臭剂的气味。喜歡的格言：动如雷霆、发如风雨。女朋友：互相通信件中！
+    身高：159cm。體重：55kg。10月13日出生。[山梨縣出身](https://zh.wikipedia.org/wiki/山梨縣 "wikilink")。愛好：大部分东西都喜欢。拿手技巧：Romero Special、Emerald flowsion（摔跤技能）。不擅長的東西：除臭剂的气味。喜歡的格言：动如雷霆、发如风雨。女朋友：互相通信件中！
     3年級。守備位置為右後衛。背號2號。擁有豐富的運動量。與女友相隔兩地書信往來中。
 
 <!-- end list -->
 
   -
-    身高：187cm。體重：87kg。4月12日出生。[靜岡縣出身](../Page/靜岡縣.md "wikilink")。愛好：貓。拿手技巧：編織。不擅長的東西：鬼魂。喜歡的格言：足球非常簡單，不要讓對方進球就可以了。女朋友：穩定交往中！
+    身高：187cm。體重：87kg。4月12日出生。[靜岡縣](../Page/靜岡縣.md "wikilink")出身。愛好：貓。拿手技巧：編織。不擅長的東西：鬼魂。喜歡的格言：足球非常簡單，不要讓對方進球就可以了。女朋友：穩定交往中！
     3年級。聖蹟高校足球部的守門員。體格高壯魁梧，面容帶著可怕的神色，留著海膽頭。背號1號。有穩定交往的女朋友。
 
 <!-- end list -->
@@ -230,7 +222,7 @@
 
 ## 出版書籍
 
-  - [安田剛士](../Page/安田剛士.md "wikilink")《DAYS》，[日本](../Page/日本.md "wikilink")[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")〈講談社Comics〉，目前出版31冊（2019年2月）。台灣由[東立出版社發行](../Page/東立出版社.md "wikilink")。
+  - [安田剛士](../Page/安田剛士.md "wikilink")《DAYS》，[日本](../Page/日本.md "wikilink")[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")〈講談社Comics〉，目前出版31冊（2019年2月）。台灣由[東立出版社](../Page/東立出版社.md "wikilink")發行。
 
 <table>
 <thead>
@@ -412,13 +404,17 @@ ISBN 978-4-06-510693-8（限定版）</p></td>
 <td><p>2019年4月17日</p></td>
 <td><p>ISBN 978-4-06-514880-8</p></td>
 </tr>
+<tr class="even">
+<td><p>33</p></td>
+<td><p>2019年6月17日</p></td>
+<td><p>ISBN 978-4-06-515307-9</p></td>
+</tr>
 </tbody>
 </table>
 
 ## 電視動畫
 
-2016年7月至12月在[MBS](../Page/每日放送.md "wikilink")、[TOKYO
-MX](../Page/東京都會電視台.md "wikilink")、[BS11](../Page/日本BS放送.md "wikilink")、[Animax等獨立局和衛星電視播放](../Page/Animax.md "wikilink")。該期播放結束後，12月19日宣佈製作續篇\[4\]，其後以OAD形式發售，故事接續電視動畫，共三話。
+2016年7月至12月在[MBS](../Page/每日放送.md "wikilink")、[TOKYO MX](../Page/東京都會電視台.md "wikilink")、[BS11](../Page/日本BS放送.md "wikilink")、[Animax](../Page/Animax.md "wikilink")等獨立局和衛星電視播放。該期播放結束後，12月19日宣佈製作續篇\[4\]，其後以OAD形式發售，故事接續電視動畫，共三話。
 
 ### 製作人員
 
@@ -441,9 +437,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[BS11](../Page/日本BS放送
   - 製作人－坪井亮祐、立石謙介、川添千世、遠藤哲哉、龜井博司、北澤史隆、成毛克憲、大和田智之、田中葉子、相島豪太
   - 動畫製作人－大塚學
   - 動畫製作－[MAPPA](../Page/MAPPA.md "wikilink")
-  - 製作－[「DAYS」製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（Pony
-    Canyon、講談社、電通、每日放送、TOKYO MX、BS11、[Animax Broadcast
-    Japan](../Page/Animax.md "wikilink")、、）
+  - 製作－[「DAYS」製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（Pony Canyon、講談社、電通、每日放送、TOKYO MX、BS11、[Animax Broadcast Japan](../Page/Animax.md "wikilink")、、）
 
 ### 主題曲
 
@@ -895,7 +889,7 @@ Ha Yeun Jung</p></td>
 | -------------------------------------- | ------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | -- |
 | [近畿地方](../Page/近畿地方.md "wikilink")     | [每日放送](../Page/每日放送.md "wikilink")                            | 2016年7月2日－12月17日  | 星期六 26時58分－27時28分                                                                                             | [TBS電視網](https://zh.wikipedia.org/wiki/TBS電視網 "wikilink") |    |
 | [東京都](../Page/東京都.md "wikilink")       | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 2016年7月3日－12月18日  | 星期日 23時00分－23時30分                                                                                             | [獨立局](../Page/全國獨立放送協議會.md "wikilink")                    |    |
-| 日本全國                                   | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")         | 星期日 25時00分－25時30分 | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")                                                         | [ANIME+節目](../Page/ANIME+.md "wikilink")                  |    |
+| 日本全國                                   | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")         | 星期日 25時00分－25時30分 | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")                                                         | [ANIME+](../Page/ANIME+.md "wikilink")節目                  |    |
 | [Animax](../Page/Animax.md "wikilink") | 2016年8月4日－2017年1月28日                                          | 星期四 19時00分－19時30分 | 有重播                                                                                                           |                                                           |    |
 
 ### BD／DVD
@@ -919,24 +913,11 @@ Ha Yeun Jung</p></td>
 
   - [Magamega（）－DAYS](http://kc.kodansha.co.jp/content/top.php/1000006356)
 
-
   - [電視動畫「DAYS」官方網站](http://days-project.jp/)
 
   -
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:足球漫畫](https://zh.wikipedia.org/wiki/Category:足球漫畫 "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:週刊少年Magazine連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine連載作品 "wikilink")
-[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink")
-[Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink")
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
-[Category:足球動畫](https://zh.wikipedia.org/wiki/Category:足球動畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:足球漫畫](https://zh.wikipedia.org/wiki/Category:足球漫畫 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:週刊少年Magazine連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine連載作品 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink") [Category:足球動畫](https://zh.wikipedia.org/wiki/Category:足球動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 
 1.
 2.

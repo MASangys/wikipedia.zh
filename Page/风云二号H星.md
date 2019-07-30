@@ -1,4 +1,4 @@
-**风云二号H气象卫星**（），又名**风云二号H星**或**风云二号09星**，是一颗中国的气象卫星。2017年11月15日02时35分在[西昌卫星发射中心以](https://zh.wikipedia.org/wiki/西昌卫星发射中心 "wikilink")[长征三号甲运载火箭发射并随后成功入轨](../Page/长征三号甲运载火箭.md "wikilink")\[1\]。
+**风云二号H气象卫星**（），又名**风云二号H星**或**风云二号09星**，是一颗中国的气象卫星。2017年11月15日02时35分在[西昌卫星发射中心以](https://zh.wikipedia.org/wiki/西昌卫星发射中心 "wikilink")[长征三号甲运载火箭](../Page/长征三号甲运载火箭.md "wikilink")发射并随后成功入轨\[1\]。
 
 ## 简介
 
@@ -10,8 +10,7 @@
 
 ## 外部链接
 
-[Category:中国人造卫星](https://zh.wikipedia.org/wiki/Category:中国人造卫星 "wikilink")
-[Category:气象卫星](https://zh.wikipedia.org/wiki/Category:气象卫星 "wikilink")
+[Category:中国人造卫星](https://zh.wikipedia.org/wiki/Category:中国人造卫星 "wikilink") [Category:气象卫星](https://zh.wikipedia.org/wiki/Category:气象卫星 "wikilink")
 
 1.
 

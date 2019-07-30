@@ -132,7 +132,7 @@ Gary、宋智孝、宋仲基<br />
 <td><p>金鐘國、哈哈、李光洙、宋仲基、鄭進永、李文植<strong>勝出</strong><br />
 劉在錫、池錫辰、Gary、宋智孝下星期穿紅色內衣前往錄影場地<br />
 <em><strong>註：</strong>宣傳電影《》<br />
-<a href="../Page/李濬益.md" title="wikilink">李濬益驚喜出演</a></em></p></td>
+<a href="../Page/李濬益.md" title="wikilink">李濬益</a>驚喜出演</em></p></td>
 </tr>
 <tr class="even">
 <td><p>025</p></td>
@@ -438,7 +438,7 @@ Sunny、池錫辰、李光洙、宋仲基<br />
 <small>(172)</small></p></td>
 <td><p>4月24日<br />
 <small>(<em>4月11日</em>)</small></p></td>
-<td><p><a href="../Page/Nichkhun.md" title="wikilink">Nichkhun</a>、<a href="https://zh.wikipedia.org/wiki/玉澤演" title="wikilink">澤演</a><br />
+<td><p><a href="../Page/Nichkhun.md" title="wikilink">Nichkhun</a>、<a href="../Page/玉澤演.md" title="wikilink">澤演</a><br />
 (<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a>)</p></td>
 <td><p><a href="http://www.pfcamp.com/">小法國文化村</a><br />
 <small>(<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/加平郡.md" title="wikilink">加平郡</a><br />
@@ -860,7 +860,7 @@ Gary<br />
 劉在錫、池錫辰、金鐘國、哈哈、宋智孝、李光洙</p></td>
 <td><p>欺騙Gary</p></td>
 <td><p><strong>開放式結局</strong><br />
-所有成員獲得特級<a href="../Page/韓牛.md" title="wikilink">韓牛套裝</a></p></td>
+所有成員獲得特級<a href="../Page/韓牛.md" title="wikilink">韓牛</a>套裝</p></td>
 </tr>
 <tr class="even">
 <td><p>052</p></td>
@@ -989,7 +989,7 @@ Gary、潤娥<br />
 <small>(<em>10月4日</em>)</small></p></td>
 <td><p><a href="http://hangang.seoul.go.kr/park_yoido/index.html">汝矣島漢江公園</a><br />
 <small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
-<a href="https://zh.wikipedia.org/wiki/永登浦區" title="wikilink">永登浦區</a><a href="../Page/汝矣島.md" title="wikilink">汝矣島洞</a>)</small></p></td>
+<a href="https://zh.wikipedia.org/wiki/永登浦區" title="wikilink">永登浦區</a><a href="../Page/汝矣島.md" title="wikilink">汝矣島</a>洞)</small></p></td>
 <td><p><span style=font-size:110%><strong>全國巡迴競賽</strong></span><br />
 <span style=color:#0000FF><strong>藍隊</strong></span>：劉在錫、池錫辰、Gary<br />
 <span style=color:#FF0000><strong>紅隊</strong></span>：金鐘國、哈哈、金宣兒<br />
@@ -998,7 +998,7 @@ Gary、潤娥<br />
 <td><p>紅隊<strong>勝出</strong><br />
 紅隊及藍隊準時下班<br />
 黃隊需要加班、與<a href="../Page/漢江_(韓國).md" title="wikilink">漢江遊覽船的旅客逐一握手</a><br />
-<em><strong>註：</strong>本集為<a href="../Page/宋仲基.md" title="wikilink">宋仲基離隊後首次以嘉賓身份參與錄影</a>。</em></p></td>
+<em><strong>註：</strong>本集為<a href="../Page/宋仲基.md" title="wikilink">宋仲基</a>離隊後首次以嘉賓身份參與錄影。</em></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1102,7 +1102,7 @@ Gary、宋智孝、朴哲民<br />
 <span style=color:#FF0000><strong>智孝王妃隊</strong></span>：宋智孝、池錫辰、李光洙</p></td>
 <td><p>娟受王妃隊<strong>勝出</strong><br />
 獲得項鏈套裝<br />
-<em><strong>註：</strong><a href="../Page/宋仲基.md" title="wikilink">宋仲基傳達任務</a></em></p></td>
+<em><strong>註：</strong><a href="../Page/宋仲基.md" title="wikilink">宋仲基</a>傳達任務</em></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1123,7 +1123,7 @@ Gary、宋智孝、朴哲民<br />
 <td><p>黃隊<strong>勝出</strong><br />
 綠隊第二名及紅隊第三名<br />
 三隊分別獲得韓語、英語、粵語的任務指令<br />
-<em><strong>註：</strong><a href="../Page/成龍.md" title="wikilink">成龍傳達任務</a><br />
+<em><strong>註：</strong><a href="../Page/成龍.md" title="wikilink">成龍</a>傳達任務<br />
 <a href="https://zh.wikipedia.org/wiki/林莉_(藝人)" title="wikilink">林莉特別出演</a></em></p></td>
 </tr>
 <tr class="odd">
@@ -1164,8 +1164,7 @@ Gary、宋智孝、朴哲民<br />
 
 ## 收视率
 
-以下紀錄《**Running
-Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink")》整體收視，<span style=color:red>**紅色**</span>表示為該年度最高收視率，<span style=color:blue>**藍色**</span>則表示為該年度最低收視率。
+以下紀錄《**Running Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink")》整體收視，<span style=color:red>**紅色**</span>表示為該年度最高收視率，<span style=color:blue>**藍色**</span>則表示為該年度最低收視率。
 
 <table>
 <thead>
@@ -1541,9 +1540,7 @@ Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink
   -
   -
   -
-[Category:Running_Man](https://zh.wikipedia.org/wiki/Category:Running_Man "wikilink")
-[Category:韓國電視節目各集列表](https://zh.wikipedia.org/wiki/Category:韓國電視節目各集列表 "wikilink")
-[Category:2011年電視節目列表](https://zh.wikipedia.org/wiki/Category:2011年電視節目列表 "wikilink")
+[Category:Running_Man](https://zh.wikipedia.org/wiki/Category:Running_Man "wikilink") [Category:韓國電視節目各集列表](https://zh.wikipedia.org/wiki/Category:韓國電視節目各集列表 "wikilink") [Category:2011年電視節目列表](https://zh.wikipedia.org/wiki/Category:2011年電視節目列表 "wikilink")
 
 1.
 2.

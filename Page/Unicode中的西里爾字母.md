@@ -8,21 +8,19 @@
   - [音標擴展](../Page/音標擴展_\(Unicode區段\).md "wikilink")：[U+1D2B，U+1D78](https://www.unicode.org/charts/PDF/U1D00.pdf)，含2個西里爾字符。\[8\]
   - [組合用半符號](../Page/組合用半符號_\(Unicode區段\).md "wikilink")：[U+FE2E–U+FE2F](https://www.unicode.org/charts/PDF/UFE20.pdf)，含2個西里爾字符。\[9\]
 
-U+0400–U+045D所含的西里爾字符事實上與[ISO
-8859-5相同](https://zh.wikipedia.org/wiki/ISO_8859-5 "wikilink")。
+U+0400–U+045D所含的西里爾字符事實上與[ISO 8859-5相同](https://zh.wikipedia.org/wiki/ISO_8859-5 "wikilink")。
 
-U+0460–U+0489的字符皆是歷史上使用的字母，其中有一些仍然在[教會斯拉夫語被使用](../Page/教會斯拉夫語.md "wikilink")。
+U+0460–U+0489的字符皆是歷史上使用的字母，其中有一些仍然在[教會斯拉夫語](../Page/教會斯拉夫語.md "wikilink")被使用。
 
 U+048A–U+04FF和整個西里爾補充區段（U+0500-U+052F）則是許多使用[西里爾字母作為書寫系統的諸多語言所使用的字母](https://zh.wikipedia.org/wiki/西里爾字母 "wikilink")。
 
 音標擴展中的兩個字符則是的 和 。
 
-[Unicode僅收錄了數個西里爾](https://zh.wikipedia.org/wiki/Unicode "wikilink")[預組的重音字母](https://zh.wikipedia.org/wiki/預組字符 "wikilink")，若要鍵入其他重音字母可自行[組合](../Page/組合附加符號.md "wikilink")：也就是將字母後加上
-U+0301（組合用重音符）。
+[Unicode僅收錄了數個西里爾](https://zh.wikipedia.org/wiki/Unicode "wikilink")[預組的重音字母](https://zh.wikipedia.org/wiki/預組字符 "wikilink")，若要鍵入其他重音字母可自行[組合](../Page/組合附加符號.md "wikilink")：也就是將字母後加上 U+0301（組合用重音符）。
 
 以下兩個變音符號皆可以套用在西里爾字符上（但不限定於西里爾字符）：
 
-  - ，即西里爾重音符號，位於[組合附加符號區段](../Page/組合附加符號.md "wikilink")（[U+0300–U+036F](https://www.unicode.org/charts/PDF/U0300.pdf)）中。
+  - ，即西里爾重音符號，位於[組合附加符號](../Page/組合附加符號.md "wikilink")區段（[U+0300–U+036F](https://www.unicode.org/charts/PDF/U0300.pdf)）中。
 
   - ，即西里爾數字十萬，位於[組合用記號區段](https://zh.wikipedia.org/wiki/組合用記號 "wikilink")（[U+20D0–U+20F0](https://www.unicode.org/charts/PDF/U20D0.pdf)）中。
 
@@ -922,8 +920,7 @@ U+0301（組合用重音符）。
 
 區段[西里爾字母補充](../Page/西里爾字母補充_\(Unicode區段\).md "wikilink")（U+0500–U+052F）於西元2002年3月加入Unicode標準（時為版本3.2）：
 
-區段[西里爾字母擴展-A](../Page/西里爾字母擴展-A.md "wikilink")（U+2DE0–U+2DFF）與[西里爾字母擴展-B](../Page/西里爾字母擴展-B.md "wikilink")（U+A640
-– U+A69F）西元2008年4月加入Unicode標準（時為版本5.1）：
+區段[西里爾字母擴展-A](../Page/西里爾字母擴展-A.md "wikilink")（U+2DE0–U+2DFF）與[西里爾字母擴展-B](../Page/西里爾字母擴展-B.md "wikilink")（U+A640 – U+A69F）西元2008年4月加入Unicode標準（時為版本5.1）：
 
 區段[西里爾字母擴展-C](../Page/西里爾字母擴展-C.md "wikilink")（U+1C80－U+1C8F）於西元2016年6月加入Unicode標準（時為版本9.0）：
 
@@ -937,8 +934,7 @@ U+0301（組合用重音符）。
 
   -
 
-[Category:西里爾字母](https://zh.wikipedia.org/wiki/Category:西里爾字母 "wikilink")
-[Category:Unicode區段](https://zh.wikipedia.org/wiki/Category:Unicode區段 "wikilink")
+[Category:西里爾字母](https://zh.wikipedia.org/wiki/Category:西里爾字母 "wikilink") [Category:Unicode區段](https://zh.wikipedia.org/wiki/Category:Unicode區段 "wikilink")
 
 1.
 2.

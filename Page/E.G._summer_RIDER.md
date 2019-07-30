@@ -1,13 +1,9 @@
-《**E.G. summer
-RIDER**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")16张[单曲](../Page/单曲.md "wikilink")，於2016年7月20日由[rhythm
-zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
+《**E.G. summer RIDER**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")16张[单曲](../Page/单曲.md "wikilink")，於2016年7月20日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
-  - 《E.G. summer RIDER》 是E-girls連續2個月發行、W CONCEPT SUMMER
-    SINGLE的第一作，並以『E.G. POP』為概念。
-  - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《E.G. summer RIDER》的Music
-    Video。
+  - 《E.G. summer RIDER》 是E-girls連續2個月發行、W CONCEPT SUMMER SINGLE的第一作，並以『E.G. POP』為概念。
+  - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《E.G. summer RIDER》的Music Video。
   - 在8月1日於[公信榜单曲週排行榜取得第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")2位。
 
 ## 選抜成员
@@ -24,8 +20,7 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 <!-- end list -->
 
-  - 上一首單曲《[Merry × Merry
-    Xmas★](../Page/Merry_×_Merry_Xmas★.md "wikilink")》的選拔成員全部入選了本次的選拔成員。[武部柚那繼](https://zh.wikipedia.org/wiki/武部柚那 "wikilink")《[Highschool♡love](../Page/Highschool♡love.md "wikilink")》後重回選拔組。
+  - 上一首單曲《[Merry × Merry Xmas★](../Page/Merry_×_Merry_Xmas★.md "wikilink")》的選拔成員全部入選了本次的選拔成員。[武部柚那繼](https://zh.wikipedia.org/wiki/武部柚那 "wikilink")《[Highschool♡love](../Page/Highschool♡love.md "wikilink")》後重回選拔組。
   - 武部柚那繼《[Highschool♡love](../Page/Highschool♡love.md "wikilink")》後再選拔為主唱
   - [Erie因已引退E](https://zh.wikipedia.org/wiki/阿部繪里惠 "wikilink")-girls主唱及表演者的身份而沒有在選拔名單上。
 
@@ -87,5 +82,4 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
   -
 </noinclude>
 
-[Category:E-girls歌曲](https://zh.wikipedia.org/wiki/Category:E-girls歌曲 "wikilink")
-[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink")
+[Category:E-girls歌曲](https://zh.wikipedia.org/wiki/Category:E-girls歌曲 "wikilink") [Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink")

@@ -1,5 +1,4 @@
-《**C
-Again**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄺美雲的第](../Page/鄺美雲.md "wikilink")32張音樂專輯，於2017年11月22日推出。這是一張翻唱專輯，亦是她繼2005年推出佛教音樂專輯《[禪美雲聲](../Page/禪美雲聲.md "wikilink")》後，相繼12年再度推出的唱片。
+《**C Again**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄺美雲](../Page/鄺美雲.md "wikilink")的第32張音樂專輯，於2017年11月22日推出。這是一張翻唱專輯，亦是她繼2005年推出佛教音樂專輯《[禪美雲聲](../Page/禪美雲聲.md "wikilink")》後，相繼12年再度推出的唱片。
 
 ## 曲目
 
@@ -21,8 +20,6 @@ Again**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "w
 
   - [2018年度勁歌金曲頒獎典禮](../Page/2018年度勁歌金曲得獎名單.md "wikilink") - 勁歌金曲唱片銷量大奬
 
-[Category:鄺美雲音樂專輯](https://zh.wikipedia.org/wiki/Category:鄺美雲音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink")
+[Category:鄺美雲音樂專輯](https://zh.wikipedia.org/wiki/Category:鄺美雲音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink")
 
 [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")

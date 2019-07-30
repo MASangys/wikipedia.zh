@@ -1,17 +1,14 @@
-《**RIDDLE
-JOKER**》是[YUZUSOFT於](../Page/YUZUSOFT.md "wikilink")2018年3月30日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]
+《**RIDDLE JOKER**》是[YUZUSOFT](../Page/YUZUSOFT.md "wikilink")於2018年3月30日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]
 
 ## 概要
 
-《RIDDLE
-JOKER》是YUZUSOFT第十作，以超能力为主题。故事发生的主要舞台是一個研究超能力的現代化都市，大量的「星幽使」在此定居并活跃着，以主人公以及其義妹潛入星幽使聚集的校園为主要线索，讲述主人公与學生們发生的故事。\[2\]
+《RIDDLE JOKER》是YUZUSOFT第十作，以超能力为主题。故事发生的主要舞台是一個研究超能力的現代化都市，大量的「星幽使」在此定居并活跃着，以主人公以及其義妹潛入星幽使聚集的校園为主要线索，讲述主人公与學生們发生的故事。\[2\]
 
 ## 故事簡介
 
 在本作虚构的世界里存在一种超自然神秘力量，一开始人们称之为「超能力」，但在20世纪末时，人们又发现它与一种粒子「星幽子」对人类大脑的作用有关，因此人们后来又将这种力量改称为「星幽术」；而相对的，对于能够使用这种力量的人，人们称之为「星幽使」。
 
-本作主人公**在原晓**外表看上去是个过着平平无奇人生的普通学生，但实际上他是归属于某星幽使结成的秘密组织的特工。在故事的开头，他被组织下达了
-「乔装成学生潜入星幽使学校」这样的任务，于是他与妹妹**在原七海**一起潜入了目标校园「橘花學院」。任务进展顺利，他们成功地融入了班级内，并且与同班同学**三司绫瀬**、**二条院羽月**，以及学姐**式部茉优**成功混熟。
+本作主人公**在原晓**外表看上去是个过着平平无奇人生的普通学生，但实际上他是归属于某星幽使结成的秘密组织的特工。在故事的开头，他被组织下达了 「乔装成学生潜入星幽使学校」这样的任务，于是他与妹妹**在原七海**一起潜入了目标校园「橘花學院」。任务进展顺利，他们成功地融入了班级内，并且与同班同学**三司绫瀬**、**二条院羽月**，以及学姐**式部茉优**成功混熟。
 
 正当晓以为逃过了被怀疑的风险的时候，发生了绫濑差点被绑架的事件，为了阻止绑架，他不幸被绫瀨撞破了自己的特工身份，但也同时知道了绫瀨的一个大秘密：她是一个通过垫胸使自己变成完美的巨乳美少女的人。在双方都不想自己的秘密被公之于众的情况下，两人决定达成合作——对外保守对方的秘密。以这个事件为导火索，主角团的命运发生转变，奇妙而有趣的故事开始了。\[3\]
 
@@ -52,8 +49,7 @@ JOKER》是YUZUSOFT第十作，以超能力为主题。故事发生的主要舞�
   -
     主人公的义妹。家事万能，性格认真又坦率。因为为人有些怕生自称暗属性人格，但是在熟悉之后会变得很容易相处。
 
-    稍微有点[中二病](../Page/中二病.md "wikilink")（使用星幽术的时候会念很长但其实不需要的咒语），是个御宅族，参加过COSPLAY活动。
-     
+    稍微有点[中二病](../Page/中二病.md "wikilink")（使用星幽术的时候会念很长但其实不需要的咒语），是个御宅族，参加过COSPLAY活动。  
 
     在组织中代号为009\[7\]，专职辅助，具备很强的駭客能力，是主角的搭档，经常吐槽照顾认真的哥哥很麻烦。
 
@@ -159,8 +155,7 @@ JOKER》是YUZUSOFT第十作，以超能力为主题。故事发生的主要舞�
   - 監製：
   - CG：、、
   - 影片製作：
-  - 音樂：Famishin、[Angel
-    Note](https://zh.wikipedia.org/wiki/Angel_Note "wikilink")、
+  - 音樂：Famishin、[Angel Note](https://zh.wikipedia.org/wiki/Angel_Note "wikilink")、
 
 ## 關連商品
 
@@ -196,15 +191,9 @@ JOKER》是YUZUSOFT第十作，以超能力为主题。故事发生的主要舞�
 
 ## 外部連結
 
-  - [RIDDLE
-    JOKER官網](http://www.yuzu-soft.com/products/riddle/index.html)
+  - [RIDDLE JOKER官網](http://www.yuzu-soft.com/products/riddle/index.html)
 
-[Category:2018年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2018年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink")
+[Category:2018年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2018年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink")
 
 1.
 

@@ -1,8 +1,8 @@
-**BOi\!**,臺灣嘻哈唱跳男團,臺灣娛樂經紀公司[伊林娛樂](../Page/伊林娛樂.md "wikilink"),成員包括[王翔永與](https://zh.wikipedia.org/wiki/王翔永 "wikilink")[陳信維](https://zh.wikipedia.org/wiki/陳信維 "wikilink")。
+**BOi\!**,臺灣嘻哈唱跳男團,臺灣娛樂經紀公司[伊林娛樂](../Page/伊林娛樂.md "wikilink"),成員包括[王翔永與](https://zh.wikipedia.org/wiki/王翔永 "wikilink")[陳信維](../Page/陳信維.md "wikilink")。
 
 2016年11月11日發行了首張迷你專輯《S.O.S》。
 
-[陳信維在團體中擔任饒舌一職](https://zh.wikipedia.org/wiki/陳信維 "wikilink")，擅長寫詞並藉由說唱的方式唱出自己的人生態度；
+[陳信維](../Page/陳信維.md "wikilink")在團體中擔任饒舌一職，擅長寫詞並藉由說唱的方式唱出自己的人生態度；
 
 [王翔永團體中身兼歌手](https://zh.wikipedia.org/wiki/王翔永 "wikilink")、作曲及寫詞的部分。
 
@@ -15,7 +15,7 @@
 | 本名                                                  | 英文名  | 出生日期       | 身高    | 體重   |
 | --------------------------------------------------- | ---- | ---------- | ----- | ---- |
 | [王翔永](https://zh.wikipedia.org/wiki/王翔永 "wikilink") | Ever | 1991年5月26日 | 178公分 | 65公斤 |
-| [陳信維](https://zh.wikipedia.org/wiki/陳信維 "wikilink") | Cuzy | 1989年11月4日 | 185公分 | 65公斤 |
+| [陳信維](../Page/陳信維.md "wikilink")                    | Cuzy | 1989年11月4日 | 185公分 | 65公斤 |
 
 ## 音樂作品
 
@@ -234,10 +234,8 @@
 
 ## 外部連結
 
-  - [伊林娛樂嘻哈唱跳男團BI
-    i\!即將出擊](http://www.eelin.com.tw/page/newspage.aspx?ID=768)
-  - [BOi\! 陳信維：助人也可以很帥\~ 黑色耶誕老人
-    送暖給街友](http://www.eelin.com.tw/page/newspage.aspx?ID=942)
+  - [伊林娛樂嘻哈唱跳男團BI i\!即將出擊](http://www.eelin.com.tw/page/newspage.aspx?ID=768)
+  - [BOi\! 陳信維：助人也可以很帥\~ 黑色耶誕老人 送暖給街友](http://www.eelin.com.tw/page/newspage.aspx?ID=942)
   - [BOi\!自喻「笨小孩」　願比別人努力20倍](https://my-cte.com/archives/138575)
   - [伊林官網::BOi\!介紹](http://www.eelin.com.tw/Artist/SingerBand/141)
   - [BOi\!陳信維Ｘ王翔永 FACEBOOK](https://www.facebook.com/cuzyeverboi)

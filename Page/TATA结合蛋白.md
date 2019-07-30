@@ -1,4 +1,4 @@
-**TATA结合蛋白质**（，**TBP**）是一种[通用转录因子](https://zh.wikipedia.org/wiki/通用转录因子 "wikilink")，具体结合于[DNA序列上的](../Page/脱氧核糖核酸.md "wikilink")[TATA盒](https://zh.wikipedia.org/wiki/TATA盒 "wikilink")。TATA盒位于[真核](../Page/真核生物.md "wikilink")[基因的](../Page/基因.md "wikilink")[转录起始位点上游约](../Page/转录.md "wikilink")30个[bp](../Page/碱基对.md "wikilink")，属于[啟動子区](../Page/啟動子.md "wikilink")\[1\]。TBP可以和各个[TBP相关因子共同组成](https://zh.wikipedia.org/wiki/TBP相关因子 "wikilink")[通用转录因子](https://zh.wikipedia.org/wiki/通用转录因子 "wikilink")[TF<sub>II</sub>D](https://zh.wikipedia.org/wiki/TFIID "wikilink"),再进一步组成[RNA聚合酶Ⅱ的](../Page/RNA聚合酶Ⅱ.md "wikilink")[转录起始复合物](https://zh.wikipedia.org/wiki/转录起始复合物 "wikilink")\[2\]。
+**TATA结合蛋白质**（，**TBP**）是一种[通用转录因子](https://zh.wikipedia.org/wiki/通用转录因子 "wikilink")，具体结合于[DNA序列上的](../Page/脱氧核糖核酸.md "wikilink")[TATA盒](https://zh.wikipedia.org/wiki/TATA盒 "wikilink")。TATA盒位于[真核](../Page/真核生物.md "wikilink")[基因](../Page/基因.md "wikilink")的[转录](../Page/转录.md "wikilink")起始位点上游约30个[bp](../Page/碱基对.md "wikilink")，属于[啟動子](../Page/啟動子.md "wikilink")区\[1\]。TBP可以和各个[TBP相关因子共同组成](https://zh.wikipedia.org/wiki/TBP相关因子 "wikilink")[通用转录因子](https://zh.wikipedia.org/wiki/通用转录因子 "wikilink")[TF<sub>II</sub>D](https://zh.wikipedia.org/wiki/TFIID "wikilink"),再进一步组成[RNA聚合酶Ⅱ](../Page/RNA聚合酶Ⅱ.md "wikilink")的[转录起始复合物](https://zh.wikipedia.org/wiki/转录起始复合物 "wikilink")\[2\]。
 
 ## 蛋白质的相互作用
 
@@ -9,17 +9,10 @@ TATA结合蛋白与下列[蛋白質进行互作](../Page/蛋白質交互作用.m
   - [C-Fos](https://zh.wikipedia.org/wiki/C-Fos "wikilink"),\[7\]
   - [C-jun](https://zh.wikipedia.org/wiki/C-jun "wikilink"),\[8\]
   - [EDF1](https://zh.wikipedia.org/wiki/EDF1 "wikilink"),\[9\]\[10\]\[11\]
-  - [GTF2B](https://zh.wikipedia.org/wiki/GTF2B "wikilink")
-    (TFIIB),\[12\]\[13\]
-  - [GTF2A1](https://zh.wikipedia.org/wiki/GTF2A1 "wikilink")
-    ([TFIIA](https://zh.wikipedia.org/wiki/TFIIA "wikilink") subunit
-    1),\[14\]\[15\]\[16\]\[17\]
-  - [GTF2F1](https://zh.wikipedia.org/wiki/GTF2F1 "wikilink")
-    ([TFIIF](https://zh.wikipedia.org/wiki/TFIIF "wikilink") subunit
-    1)\[18\]\[19\]\[20\]
-  - [GTF2H4](https://zh.wikipedia.org/wiki/GTF2H4 "wikilink")
-    ([TFIIH](https://zh.wikipedia.org/wiki/TFIIH "wikilink") subunit
-    4),\[21\]
+  - [GTF2B](https://zh.wikipedia.org/wiki/GTF2B "wikilink") (TFIIB),\[12\]\[13\]
+  - [GTF2A1](https://zh.wikipedia.org/wiki/GTF2A1 "wikilink") ([TFIIA](https://zh.wikipedia.org/wiki/TFIIA "wikilink") subunit 1),\[14\]\[15\]\[16\]\[17\]
+  - [GTF2F1](https://zh.wikipedia.org/wiki/GTF2F1 "wikilink") ([TFIIF](https://zh.wikipedia.org/wiki/TFIIF "wikilink") subunit 1)\[18\]\[19\]\[20\]
+  - [GTF2H4](https://zh.wikipedia.org/wiki/GTF2H4 "wikilink") ([TFIIH](https://zh.wikipedia.org/wiki/TFIIH "wikilink") subunit 4),\[21\]
   - [Mdm2](https://zh.wikipedia.org/wiki/Mdm2 "wikilink"),\[22\]\[23\]\[24\]
   - [MSX1](https://zh.wikipedia.org/wiki/MSX1 "wikilink"),\[25\]\[26\]\[27\]
   - [NFYB](https://zh.wikipedia.org/wiki/NFYB "wikilink"),\[28\]
@@ -51,10 +44,7 @@ TATA结合蛋白与下列[蛋白質进行互作](../Page/蛋白質交互作用.m
   -
   -
   -
-[Category:基因](https://zh.wikipedia.org/wiki/Category:基因 "wikilink")
-[Category:位於6號人類染色體的基因](https://zh.wikipedia.org/wiki/Category:位於6號人類染色體的基因 "wikilink")
-[Category:蛋白质](https://zh.wikipedia.org/wiki/Category:蛋白质 "wikilink")
-[Category:转录因子](https://zh.wikipedia.org/wiki/Category:转录因子 "wikilink")
+[Category:基因](https://zh.wikipedia.org/wiki/Category:基因 "wikilink") [Category:位於6號人類染色體的基因](https://zh.wikipedia.org/wiki/Category:位於6號人類染色體的基因 "wikilink") [Category:蛋白质](https://zh.wikipedia.org/wiki/Category:蛋白质 "wikilink") [Category:转录因子](https://zh.wikipedia.org/wiki/Category:转录因子 "wikilink")
 
 1.
 

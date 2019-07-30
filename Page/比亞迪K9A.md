@@ -2,7 +2,7 @@
 
 ## 比亚迪K9F
 
-**比亚迪K9F**，是一款由[比亚迪汽车生产的纯电动](../Page/比亚迪汽车.md "wikilink")[巴士](https://zh.wikipedia.org/wiki/巴士 "wikilink")，是[比亚迪K9A的升级车型](https://zh.wikipedia.org/wiki/比亚迪K9A "wikilink")。比亚迪K9F纯电动客车采用全新电池方案、新前脸造型，全铝合金车身，为一级踏步低地板结构。
+**比亚迪K9F**，是一款由[比亚迪汽车](../Page/比亚迪汽车.md "wikilink")生产的纯电动[巴士](https://zh.wikipedia.org/wiki/巴士 "wikilink")，是[比亚迪K9A的升级车型](https://zh.wikipedia.org/wiki/比亚迪K9A "wikilink")。比亚迪K9F纯电动客车采用全新电池方案、新前脸造型，全铝合金车身，为一级踏步低地板结构。
 
 ## 外部連結
 
@@ -15,9 +15,4 @@
   - [電動巴士遭九巴退貨](http://hk.apple.nextmedia.com/news/art/20131223/18562737)，[蘋果日報](../Page/蘋果日報_\(香港\).md "wikilink")，2013年12月23日。
 
   -
-[分類:特低地台巴士](https://zh.wikipedia.org/wiki/分類:特低地台巴士 "wikilink")
-[分類:巴士型號](https://zh.wikipedia.org/wiki/分類:巴士型號 "wikilink")
-[分類:單層巴士](https://zh.wikipedia.org/wiki/分類:單層巴士 "wikilink")
-[分類:香港單層巴士](https://zh.wikipedia.org/wiki/分類:香港單層巴士 "wikilink")
-[分類:比亞迪車輛](https://zh.wikipedia.org/wiki/分類:比亞迪車輛 "wikilink")
-[分類:純電動車](https://zh.wikipedia.org/wiki/分類:純電動車 "wikilink")
+[分類:特低地台巴士](https://zh.wikipedia.org/wiki/分類:特低地台巴士 "wikilink") [分類:巴士型號](https://zh.wikipedia.org/wiki/分類:巴士型號 "wikilink") [分類:單層巴士](https://zh.wikipedia.org/wiki/分類:單層巴士 "wikilink") [分類:香港單層巴士](https://zh.wikipedia.org/wiki/分類:香港單層巴士 "wikilink") [分類:比亞迪車輛](https://zh.wikipedia.org/wiki/分類:比亞迪車輛 "wikilink") [分類:純電動車](https://zh.wikipedia.org/wiki/分類:純電動車 "wikilink")

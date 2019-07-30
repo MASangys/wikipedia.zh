@@ -1,7 +1,4 @@
-《**-{zh:波力; zh-hans:波力; zh-tw:救援小英雄波力; zh-hk:救援小英雄珀利;
-zh-mo:救援小英雄;}-Poli**》（，）是由Roi Visual所製作的韓國動畫片。於2011年在韓國EBS
-TV開播，已經播出了4季(台灣將前2季合併為第一季,後2季合併為第二季)，共計104個11分鐘的集數。從2012年5月16日起，在[東森幼幼台播出](../Page/東森幼幼台.md "wikilink")，香港[ViuTV在](../Page/ViuTV.md "wikilink")2019年2月6日起播放及網上提供重溫。
-透過具有教育寓意的故事，教導兒童學習正確安全常識與注意事項，是家長最放心讓孩子觀看的卡通之一。
+《**-{zh:波力; zh-hans:波力; zh-tw:救援小英雄波力; zh-hk:救援小英雄珀利; zh-mo:救援小英雄;}-Poli**》（，）是由Roi Visual所製作的韓國動畫片。於2011年在韓國EBS TV開播，已經播出了4季(台灣將前2季合併為第一季,後2季合併為第二季)，共計104個11分鐘的集數。從2012年5月16日起，在[東森幼幼台](../Page/東森幼幼台.md "wikilink")播出，香港[ViuTV](../Page/ViuTV.md "wikilink")在2019年2月6日起播放及網上提供重溫。 透過具有教育寓意的故事，教導兒童學習正確安全常識與注意事項，是家長最放心讓孩子觀看的卡通之一。
 
 ## 故事簡介
 
@@ -145,7 +142,4 @@ TV開播，已經播出了4季(台灣將前2季合併為第一季,後2季合併�
 </tbody>
 </table>
 
-[Category:韓國動畫](https://zh.wikipedia.org/wiki/Category:韓國動畫 "wikilink")
-[Category:虚构变身者](https://zh.wikipedia.org/wiki/Category:虚构变身者 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
-[Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink")
+[Category:韓國動畫](https://zh.wikipedia.org/wiki/Category:韓國動畫 "wikilink") [Category:虚构变身者](https://zh.wikipedia.org/wiki/Category:虚构变身者 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink") [Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink")

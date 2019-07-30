@@ -1,4 +1,4 @@
-**Hits**（**HITS**）為一所有之[英語娛樂電視頻道](https://zh.wikipedia.org/wiki/英語 "wikilink")。本頻道於2013年12月9日在[新加坡開始放送](../Page/新加坡.md "wikilink")，節目主要是以[高畫質播映近](https://zh.wikipedia.org/wiki/高清電視 "wikilink")40年的老舊影集。
+**Hits**（**HITS**）為一所有之[英語娛樂電視頻道](https://zh.wikipedia.org/wiki/英語 "wikilink")。本頻道於2013年12月9日在[新加坡](../Page/新加坡.md "wikilink")開始放送，節目主要是以[高畫質播映近](https://zh.wikipedia.org/wiki/高清電視 "wikilink")40年的老舊影集。
 
 ## 節目
 
@@ -63,7 +63,4 @@
   - [HITS](http://www.hitstv.com/)
   - [HITS Facebook](https://www.facebook.com/HITSTV)
 
-[Category:新加坡電視台](https://zh.wikipedia.org/wiki/Category:新加坡電視台 "wikilink")
-[Category:香港電視台](https://zh.wikipedia.org/wiki/Category:香港電視台 "wikilink")
-[Category:台灣電視台](https://zh.wikipedia.org/wiki/Category:台灣電視台 "wikilink")
-[Category:2013年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2013年成立的電視台或電視頻道 "wikilink")
+[Category:新加坡電視台](https://zh.wikipedia.org/wiki/Category:新加坡電視台 "wikilink") [Category:香港電視台](https://zh.wikipedia.org/wiki/Category:香港電視台 "wikilink") [Category:台灣電視台](https://zh.wikipedia.org/wiki/Category:台灣電視台 "wikilink") [Category:2013年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2013年成立的電視台或電視頻道 "wikilink")

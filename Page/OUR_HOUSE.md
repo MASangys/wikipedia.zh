@@ -1,5 +1,4 @@
-《**OUR
-HOUSE**》，為2016年4月17日起毎週日晚間9:00－9:54於[富士電視台聯播網播出的連續劇](../Page/富士電視台.md "wikilink")。講述美國女子愛麗絲·謝波德閃婚後來到日本，與丈夫前妻留下的四個孩子共同生活的故事。
+《**OUR HOUSE**》，為2016年4月17日起毎週日晚間9:00－9:54於[富士電視台](../Page/富士電視台.md "wikilink")聯播網播出的連續劇。講述美國女子愛麗絲·謝波德閃婚後來到日本，與丈夫前妻留下的四個孩子共同生活的故事。
 
 ## 演員
 
@@ -59,12 +58,9 @@ HOUSE**》，為2016年4月17日起毎週日晚間9:00－9:54於[富士電視台
 
   - 劇本 - [野島伸司](../Page/野島伸司.md "wikilink")
   - 音樂 - [橋本慎](https://zh.wikipedia.org/wiki/橋本慎 "wikilink")
-  - 主題曲 - [Off
-    Course](../Page/Off_Course.md "wikilink")「愛を止めないで」\[1\]（日本環球音樂）
-  - 監製 -
-    [太田大](https://zh.wikipedia.org/wiki/太田大 "wikilink")、[高田雄貴](https://zh.wikipedia.org/wiki/高田雄貴 "wikilink")
-  - 演出 -
-    [永山耕三](https://zh.wikipedia.org/wiki/永山耕三 "wikilink")、[澤田鎌作](https://zh.wikipedia.org/wiki/澤田鎌作 "wikilink")、[加藤裕将](https://zh.wikipedia.org/wiki/加藤裕将 "wikilink")
+  - 主題曲 - [Off Course](../Page/Off_Course.md "wikilink")「愛を止めないで」\[1\]（日本環球音樂）
+  - 監製 - [太田大](https://zh.wikipedia.org/wiki/太田大 "wikilink")、[高田雄貴](https://zh.wikipedia.org/wiki/高田雄貴 "wikilink")
+  - 演出 - [永山耕三](https://zh.wikipedia.org/wiki/永山耕三 "wikilink")、[澤田鎌作](https://zh.wikipedia.org/wiki/澤田鎌作 "wikilink")、[加藤裕将](https://zh.wikipedia.org/wiki/加藤裕将 "wikilink")
 
 ## 播出日程
 
@@ -167,13 +163,6 @@ HOUSE**》，為2016年4月17日起毎週日晚間9:00－9:54於[富士電視台
 
   - [官方網站](http://www.fujitv.co.jp/ourhouse/)
 
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink")
-[Category:富士電視台週日晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週日晚間九點連續劇 "wikilink")
-[Category:野島伸司劇本作品](https://zh.wikipedia.org/wiki/Category:野島伸司劇本作品 "wikilink")
-[Category:日本家庭劇](https://zh.wikipedia.org/wiki/Category:日本家庭劇 "wikilink")
-[Category:東京背景電視劇](https://zh.wikipedia.org/wiki/Category:東京背景電視劇 "wikilink")
-[Category:世田谷背景作品](https://zh.wikipedia.org/wiki/Category:世田谷背景作品 "wikilink")
-[Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink")
+[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink") [Category:富士電視台週日晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週日晚間九點連續劇 "wikilink") [Category:野島伸司劇本作品](https://zh.wikipedia.org/wiki/Category:野島伸司劇本作品 "wikilink") [Category:日本家庭劇](https://zh.wikipedia.org/wiki/Category:日本家庭劇 "wikilink") [Category:東京背景電視劇](https://zh.wikipedia.org/wiki/Category:東京背景電視劇 "wikilink") [Category:世田谷背景作品](https://zh.wikipedia.org/wiki/Category:世田谷背景作品 "wikilink") [Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink")
 
 1.

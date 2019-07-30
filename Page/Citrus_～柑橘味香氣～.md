@@ -1,5 +1,4 @@
-《**citrus
-～柑橘味香氣～**》是[日本女性](../Page/日本.md "wikilink")[漫畫家三郎太](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")（）所作，由[一迅社出版的漫畫作品](../Page/一迅社.md "wikilink")。2012年11月17日開始連載於[漫畫雜誌月刊](../Page/日本漫畫雜誌.md "wikilink")《[Comic百合姬](../Page/Comic百合姬.md "wikilink")》，已出版9冊[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")。繁體中文版由[東立出版社代理](../Page/東立出版社.md "wikilink")，簡體中文版由[布卡漫畫代理進行網路連載](https://zh.wikipedia.org/wiki/布卡漫畫 "wikilink")。改編的[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2018年1月6日開始播放。
+《**citrus ～柑橘味香氣～**》是[日本](../Page/日本.md "wikilink")女性[漫畫家三郎太](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")（）所作，由[一迅社](../Page/一迅社.md "wikilink")出版的漫畫作品。2012年11月17日開始連載於[漫畫雜誌月刊](../Page/日本漫畫雜誌.md "wikilink")《[Comic百合姬](../Page/Comic百合姬.md "wikilink")》，已出版9冊[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")。繁體中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理，簡體中文版由[布卡漫畫代理進行網路連載](https://zh.wikipedia.org/wiki/布卡漫畫 "wikilink")。改編的[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2018年1月6日開始播放。
 
 ## 故事簡介
 
@@ -20,8 +19,7 @@
     黑色長髮，容姿端麗，成績優秀的學生會會長兼藍原學園繼承人。性格嚴於律己和嚴於律人，處理學校工作嚴謹認真，平時表情不會有太大的變化。
     因為父親再婚的關係（與藍原柚子的母親結婚），而和柚子成為義姊妹，並開始了同居生活。經常調戲和玩弄柚子，但其實內心十分寂寞孤獨。未跟柚子結識之前，處於自我封閉情感和從不敞開內心的狀態，不會與其他人訴說內心難題。
     興趣是讀書和解數式，成績排名長居第一。喜歡小熊，很珍惜柚子贈予的小熊玩偶安東尼子（動畫版第3話改為由柚子修復原本損壞的部分）。
-    在漫畫書第3話「Love My Sister
-    XXX」，由於其祖父在藍原學園長時間工作勞累過度、身體健康狀況欠佳的關係，暫時代為接任藍原學園理事長一職。
+    在漫畫書第3話「Love My Sister XXX」，由於其祖父在藍原學園長時間工作勞累過度、身體健康狀況欠佳的關係，暫時代為接任藍原學園理事長一職。
     在漫畫書第17話「To Be In Love」，與義姊柚子正式交往成為戀人。
     在漫畫第41最終話順利與柚子結婚，並且讓所有親人朋友都同意的婚禮。
 
@@ -54,14 +52,11 @@
   -
     本名不詳，藍原學園教師，1年A班班主任，原是芽衣的未婚夫。
     表面上外貌端正俊俏，但其實貪圖富貴利益和急功近利。為了騙取藍原家族的財富和取得藍原學園繼承權，意圖與芽衣進行假結婚的陰謀計劃，卻背後暗地裡擁有另一位女朋友的愛情騙子。
-    在漫畫書第2話「One's First
-    Love」，被柚子所發現陰謀計劃真相，因而在藍原學園朝會時揭發其與學校內強吻女高中學生（藍原芽衣），其陰謀計劃失敗而告終。在漫畫書第3話「Love
-    My Sister XXX」，其陰謀計劃真相被柚子揭發事敗之後，以私人理由辭去教師職務並逃離藍原學園。
+    在漫畫書第2話「One's First Love」，被柚子所發現陰謀計劃真相，因而在藍原學園朝會時揭發其與學校內強吻女高中學生（藍原芽衣），其陰謀計劃失敗而告終。在漫畫書第3話「Love My Sister XXX」，其陰謀計劃真相被柚子揭發事敗之後，以私人理由辭去教師職務並逃離藍原學園。
   -
     本名不詳，藍原學園的理事長。
     作風處事嚴謹，致力於藍原學園的優秀教育事業，是一位性格傳統保守，我行我素，頑固和不解人情世故的長者。因為藍原柚子在藍原學園內行為放任不羈和經常屢次違反學校規例，從而對柚子印象欠佳，並曾經聲言要把柚子革除學生學藉並驅逐離開學校。
-    在漫畫書第3話「Love My Sister
-    XXX」，由於在藍原學園長時間工作勞累過度的關係，從而弄致積勞成疾，並在醫院臥病在床，現在身體健康狀況欠佳。
+    在漫畫書第3話「Love My Sister XXX」，由於在藍原學園長時間工作勞累過度的關係，從而弄致積勞成疾，並在醫院臥病在床，現在身體健康狀況欠佳。
     其藍原學園理事長職位由孫女藍原芽衣暫時代為接任。
 
 ### 親屬
@@ -521,12 +516,7 @@ Nyki Ikyn</p></td>
 </table>
 
 
-{| class="wikitable" style="font-size:smaller;margin:0px
-auto;text-align:center;" |+海外 \!播放網站\!\!播放日期\!\!播放時間\!\!備註 |-
-|[巴哈姆特動畫瘋](../Page/巴哈姆特動畫瘋.md "wikilink") || 2018年1月6日 ||
-每週六 22:30 || 與日本同步 |-
-|[crunchyroll](https://zh.wikipedia.org/wiki/crunchyroll "wikilink")\[18\]
-|| 2018年1月6日 || 每週六 11:00 EST || 限各地IP |}
+{| class="wikitable" style="font-size:smaller;margin:0px auto;text-align:center;" |+海外 \!播放網站\!\!播放日期\!\!播放時間\!\!備註 |- |[巴哈姆特動畫瘋](../Page/巴哈姆特動畫瘋.md "wikilink") || 2018年1月6日 || 每週六 22:30 || 與日本同步 |- |[crunchyroll](https://zh.wikipedia.org/wiki/crunchyroll "wikilink")\[18\] || 2018年1月6日 || 每週六 11:00 EST || 限各地IP |}
 
 ### BD/DVD
 
@@ -541,8 +531,8 @@ auto;text-align:center;" |+海外 \!播放網站\!\!播放日期\!\!播放時間
 ### 網路廣播節目
 
 節目名稱：『Radio citrus secret love affair xxx.』
-播放時間：2017年12月27日開始的每週三於[音泉放送](../Page/音泉.md "wikilink")\[20\]
-節目人員：飾演藍原柚子的[竹達彩奈與飾演藍原芽衣的](../Page/竹達彩奈.md "wikilink")[津田美波](../Page/津田美波.md "wikilink")
+播放時間：2017年12月27日開始的每週三於[音泉](../Page/音泉.md "wikilink")放送\[20\]
+節目人員：飾演藍原柚子的[竹達彩奈](../Page/竹達彩奈.md "wikilink")與飾演藍原芽衣的[津田美波](../Page/津田美波.md "wikilink")
 
 ## 注釋
 
@@ -559,22 +549,14 @@ auto;text-align:center;" |+海外 \!播放網站\!\!播放日期\!\!播放時間
 ## 外部連結
 
   -
-  - [漫畫《citrus
-    ～柑橘味香氣～》一迅社搜索網頁](http://data.ichijinsha.co.jp/book/booksearch/booksearch_detail.php?i=75807264)
+  - [漫畫《citrus ～柑橘味香氣～》一迅社搜索網頁](http://data.ichijinsha.co.jp/book/booksearch/booksearch_detail.php?i=75807264)
 
   - [電視動畫《citrus》官方網站](http://citrus-anime.com)
 
   -
-  - [巴哈姆特資料庫－動畫《citrus
-    ～柑橘味香氣～》](https://acg.gamer.com.tw/acgDetail.php?s=86010)
+  - [巴哈姆特資料庫－動畫《citrus ～柑橘味香氣～》](https://acg.gamer.com.tw/acgDetail.php?s=86010)
 
-[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink")
-[Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink")
-[Category:GL漫畫](https://zh.wikipedia.org/wiki/Category:GL漫畫 "wikilink")
-[Category:Comic百合姬](https://zh.wikipedia.org/wiki/Category:Comic百合姬 "wikilink")
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
-[Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink")
+[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:GL漫畫](https://zh.wikipedia.org/wiki/Category:GL漫畫 "wikilink") [Category:Comic百合姬](https://zh.wikipedia.org/wiki/Category:Comic百合姬 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink")
 
 1.
 2.

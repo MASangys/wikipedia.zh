@@ -1,5 +1,4 @@
-**Library Genesis** 或 **LibGen**
-（創世紀圖書館）是科學論文及書籍的搜尋引擎，可以免費提供被擋在後的內容\[1\]。
+**Library Genesis** 或 **LibGen** （創世紀圖書館）是科學論文及書籍的搜尋引擎，可以免費提供被擋在後的內容\[1\]。
 
 截至2018年6月，創世紀圖書館數據庫宣稱其包含超過270萬冊圖書，以及超過5800萬篇期刊文獻。
 
@@ -20,7 +19,6 @@
 ## 外部連結
 
   -
-[Category:書籍網站](https://zh.wikipedia.org/wiki/Category:書籍網站 "wikilink")
-[Category:BitTorrent網站](https://zh.wikipedia.org/wiki/Category:BitTorrent網站 "wikilink")
+[Category:書籍網站](https://zh.wikipedia.org/wiki/Category:書籍網站 "wikilink") [Category:BitTorrent網站](https://zh.wikipedia.org/wiki/Category:BitTorrent網站 "wikilink")
 
 1.

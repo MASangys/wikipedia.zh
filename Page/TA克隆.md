@@ -1,6 +1,4 @@
-[tacloning.svg](https://zh.wikipedia.org/wiki/File:tacloning.svg "fig:tacloning.svg")
-**TA克隆**（TA
-cloning）是一種免用[限制酶的](../Page/限制酶.md "wikilink")[亞克隆手段](../Page/亞克隆.md "wikilink")\[1\]，其操作不僅比傳統的亞克隆簡單，而且耗時也較短。TA克隆的關鍵在於載體和目的基因末端的[腺嘌呤](../Page/腺嘌呤.md "wikilink")（A）和[胸腺嘧啶](../Page/胸腺嘧啶.md "wikilink")（T）的互補配對。載體和目的基因進行上述配對之後，用[DNA連接酶即可實現它們之間的共價連接](../Page/DNA連接酶.md "wikilink")。
+[tacloning.svg](https://zh.wikipedia.org/wiki/File:tacloning.svg "fig:tacloning.svg") **TA克隆**（TA cloning）是一種免用[限制酶](../Page/限制酶.md "wikilink")的[亞克隆](../Page/亞克隆.md "wikilink")手段\[1\]，其操作不僅比傳統的亞克隆簡單，而且耗時也較短。TA克隆的關鍵在於載體和目的基因末端的[腺嘌呤](../Page/腺嘌呤.md "wikilink")（A）和[胸腺嘧啶](../Page/胸腺嘧啶.md "wikilink")（T）的互補配對。載體和目的基因進行上述配對之後，用[DNA連接酶](../Page/DNA連接酶.md "wikilink")即可實現它們之間的共價連接。
 
 ## 過程
 
@@ -22,8 +20,7 @@ TA克隆中除了切開載體之外，都不需要使用限制酶，因而其操
 
 ## 參考
 
-[Category:分子生物学技术](https://zh.wikipedia.org/wiki/Category:分子生物学技术 "wikilink")
-[Category:基因工程](https://zh.wikipedia.org/wiki/Category:基因工程 "wikilink")
+[Category:分子生物学技术](https://zh.wikipedia.org/wiki/Category:分子生物学技术 "wikilink") [Category:基因工程](https://zh.wikipedia.org/wiki/Category:基因工程 "wikilink")
 
 1.
 

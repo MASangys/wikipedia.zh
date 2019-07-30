@@ -1,20 +1,12 @@
-\-{T|zh-hant:信用欺詐師JP;zh-hans:行骗天下JP; zh-hk:信用欺詐師JP; zh-cn:行骗天下JP;
-zh-tw:信用詐欺師JP}-
+\-{T|zh-hant:信用欺詐師JP;zh-hans:行骗天下JP; zh-hk:信用欺詐師JP; zh-cn:行骗天下JP; zh-tw:信用詐欺師JP}-
 
-，台灣和香港則譯為**信用詐欺師JP**\[1\]\[2\]是[日本](../Page/日本.md "wikilink")[富士电视台](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")[2018年](../Page/2018年.md "wikilink")[春季](../Page/春季.md "wikilink")[4月的](../Page/4月.md "wikilink")[月九剧](https://zh.wikipedia.org/wiki/月九剧 "wikilink")。编剧是曾經寫過《[Legal
-High](../Page/Legal_High.md "wikilink")》的[古泽良太](https://zh.wikipedia.org/wiki/古泽良太 "wikilink")，主演為[長澤雅美](https://zh.wikipedia.org/wiki/長澤雅美 "wikilink")，搭檔的重要演員還有[東出昌大與](../Page/東出昌大.md "wikilink")[小日向文世](../Page/小日向文世.md "wikilink")。2019年5月18日(電影版日本上映時間翌日)播出特別篇《信用詐欺師JP：運勢篇》，加入[北村一輝](../Page/北村一輝.md "wikilink")、[中山美穗及](../Page/中山美穗.md "wikilink")[廣末涼子等演員](../Page/廣末涼子.md "wikilink")，作為富士開台60周年特別企劃播出。
+，台灣和香港則譯為**信用詐欺師JP**\[1\]\[2\]是[日本](../Page/日本.md "wikilink")[富士电视台](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")[2018年](../Page/2018年.md "wikilink")[春季](../Page/春季.md "wikilink")[4月](../Page/4月.md "wikilink")的[月九剧](https://zh.wikipedia.org/wiki/月九剧 "wikilink")。编剧是曾經寫過《[Legal High](../Page/Legal_High.md "wikilink")》的[古泽良太](https://zh.wikipedia.org/wiki/古泽良太 "wikilink")，主演為[長澤雅美](https://zh.wikipedia.org/wiki/長澤雅美 "wikilink")，搭檔的重要演員還有[東出昌大](../Page/東出昌大.md "wikilink")與[小日向文世](../Page/小日向文世.md "wikilink")。2019年5月18日(電影版日本上映時間翌日)播出特別篇《信用詐欺師JP：運勢篇》，加入[北村一輝](../Page/北村一輝.md "wikilink")、[中山美穗](../Page/中山美穗.md "wikilink")及[廣末涼子](../Page/廣末涼子.md "wikilink")等演員，作為富士開台60周年特別企劃播出。
 
-這齣戲是長澤雅美睽違11年以來，第二度接演富士電視台的月9檔連續劇，上一次為2007年的《[求婚大作戰](../Page/求婚大作戰.md "wikilink")》
-\[3\]\[4\]。而日版《信用詐欺師JP》也確定將以古澤的腳本，同時翻拍成具有在地文化的韓國版編號《KR》及中國版《CN》的電視劇
-\[5\]\[6\]。日方製作團隊於第九集播出日確定將進行以[香港為舞台的電影版](../Page/香港.md "wikilink")「浪漫篇」製作，並於翌年5月17日上映。\[7\]
+這齣戲是長澤雅美睽違11年以來，第二度接演富士電視台的月9檔連續劇，上一次為2007年的《[求婚大作戰](../Page/求婚大作戰.md "wikilink")》 \[3\]\[4\]。而日版《信用詐欺師JP》也確定將以古澤的腳本，同時翻拍成具有在地文化的韓國版編號《KR》及中國版《CN》的電視劇 \[5\]\[6\]。日方製作團隊於第九集播出日確定將進行以[香港](../Page/香港.md "wikilink")為舞台的電影版「浪漫篇」製作，並於翌年5月17日上映。\[7\]香港方面則於2019年7月25日以《信用詐欺師JP：香港浪漫篇》為題上映。
 
-台灣電視台首播在[WakuWaku
-Japan頻道](../Page/WakuWaku_Japan.md "wikilink")，播映日期為2018年4月15日起每週日同步連載\[8\]，網路串流方面有提供雙語字幕的
-[KKTV](../Page/KKTV.md "wikilink")\[9\]
-與提供中文字幕的[愛奇藝台灣站進行當季放送](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")。
+台灣電視台首播在[WakuWaku Japan頻道](../Page/WakuWaku_Japan.md "wikilink")，播映日期為2018年4月15日起每週日同步連載\[8\]，網路串流方面有提供雙語字幕的 [KKTV](../Page/KKTV.md "wikilink")\[9\] 與提供中文字幕的[愛奇藝台灣站進行當季放送](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")。
 
-本剧主要讲述三名信用詐欺师（）凭借各自头脑，用各种异想天开的计划从利欲熏心的惡人們手中骗取钱财的單元劇故事
-\[10\]\[11\]\[12\]。
+本剧主要讲述三名信用詐欺师（）凭借各自头脑，用各种异想天开的计划从利欲熏心的惡人們手中骗取钱财的單元劇故事 \[10\]\[11\]\[12\]。
 
 ## 登場人物
 
@@ -572,51 +564,25 @@ Japan頻道](../Page/WakuWaku_Japan.md "wikilink")，播映日期為2018年4月1
 
 ## 外部連結
 
-  - [《コンフィデンスマンJP》（THE CONFIDENCEMAN
-    JP）](http://www.fujitv.co.jp/confidenceman_jp/index.html)－[富士電視台官方網站](../Page/富士電視台.md "wikilink")
+  - [《コンフィデンスマンJP》（THE CONFIDENCEMAN JP）](http://www.fujitv.co.jp/confidenceman_jp/index.html)－[富士電視台](../Page/富士電視台.md "wikilink")官方網站
 
-  - [《信用詐欺師JP》（行騙天下JP）](https://www.fujitv.co.jp/tc/d_18_05.html)－[富士電視台中文官網](../Page/富士電視台.md "wikilink")
+  - [《信用詐欺師JP》（行騙天下JP）](https://www.fujitv.co.jp/tc/d_18_05.html)－[富士電視台](../Page/富士電視台.md "wikilink")中文官網
 
-
-  - [《コンフィデンスマンJP》](http://fod.fujitv.co.jp/s/genre/drama/ser4f07/)－[富士電視台線上收看官網](../Page/富士電視台.md "wikilink")
-
+  - [《コンフィデンスマンJP》](http://fod.fujitv.co.jp/s/genre/drama/ser4f07/)－[富士電視台](../Page/富士電視台.md "wikilink")線上收看官網
 
   - 官方
 
   - 官方
 
-  - [《信用詐欺師JP》](https://www.wakuwakujapan.com/zh/program/detail/wj0000004333/)－[WakuWaku
-    Japan台灣官方網頁](../Page/WakuWaku_Japan.md "wikilink")
+  - [《信用詐欺師JP》](https://www.wakuwakujapan.com/zh/program/detail/wj0000004333/)－[WakuWaku Japan台灣官方網頁](../Page/WakuWaku_Japan.md "wikilink")
 
-  - [《信用詐欺師JP》](http://solink.dorama.info/links/link_to.php?rnum=43208)－[KKTV線上收看官方網頁](../Page/KKTV.md "wikilink")
-
+  - [《信用詐欺師JP》](http://solink.dorama.info/links/link_to.php?rnum=43208)－[KKTV](../Page/KKTV.md "wikilink")線上收看官方網頁
 
   - [《瞞天過海詐欺師》](http://japan.videoland.com.tw/channel/20180702mtg/default.htm)－緯來日本台官方網頁
 
-
 ## 節目變遷
 
-[Category:长泽雅美](https://zh.wikipedia.org/wiki/Category:长泽雅美 "wikilink")
-[Category:2018年开播的日本电视剧集](https://zh.wikipedia.org/wiki/Category:2018年开播的日本电视剧集 "wikilink")
-[Category:日语电视剧](https://zh.wikipedia.org/wiki/Category:日语电视剧 "wikilink")
-[Category:日本电视喜剧](https://zh.wikipedia.org/wiki/Category:日本电视喜剧 "wikilink")
-[Category:古泽良太剧本电视剧](https://zh.wikipedia.org/wiki/Category:古泽良太剧本电视剧 "wikilink")
-[Category:诈骗题材电视剧](https://zh.wikipedia.org/wiki/Category:诈骗题材电视剧 "wikilink")
-[Category:日本犯罪剧](https://zh.wikipedia.org/wiki/Category:日本犯罪剧 "wikilink")
-[Category:電視劇改編電影](https://zh.wikipedia.org/wiki/Category:電視劇改編電影 "wikilink")
-[Category:日語電影](https://zh.wikipedia.org/wiki/Category:日語電影 "wikilink")
-[Category:日本喜劇片](https://zh.wikipedia.org/wiki/Category:日本喜劇片 "wikilink")
-[Category:日本犯罪片](https://zh.wikipedia.org/wiki/Category:日本犯罪片 "wikilink")
-[Category:2010年代喜剧犯罪片](https://zh.wikipedia.org/wiki/Category:2010年代喜剧犯罪片 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
-[Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:2019年日本電影](https://zh.wikipedia.org/wiki/Category:2019年日本電影 "wikilink")
-[Category:富士電視台製作的電影](https://zh.wikipedia.org/wiki/Category:富士電視台製作的電影 "wikilink")
-[Category:2019年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2019年日本電視劇集 "wikilink")
-[Category:2019年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2019年電視特別劇集 "wikilink")
-[Category:富士電視台特別劇集](https://zh.wikipedia.org/wiki/Category:富士電視台特別劇集 "wikilink")
-[Category:週六獎賞](https://zh.wikipedia.org/wiki/Category:週六獎賞 "wikilink")
+[Category:长泽雅美](https://zh.wikipedia.org/wiki/Category:长泽雅美 "wikilink") [Category:2018年开播的日本电视剧集](https://zh.wikipedia.org/wiki/Category:2018年开播的日本电视剧集 "wikilink") [Category:日语电视剧](https://zh.wikipedia.org/wiki/Category:日语电视剧 "wikilink") [Category:日本电视喜剧](https://zh.wikipedia.org/wiki/Category:日本电视喜剧 "wikilink") [Category:古泽良太剧本电视剧](https://zh.wikipedia.org/wiki/Category:古泽良太剧本电视剧 "wikilink") [Category:诈骗题材电视剧](https://zh.wikipedia.org/wiki/Category:诈骗题材电视剧 "wikilink") [Category:日本犯罪剧](https://zh.wikipedia.org/wiki/Category:日本犯罪剧 "wikilink") [Category:電視劇改編電影](https://zh.wikipedia.org/wiki/Category:電視劇改編電影 "wikilink") [Category:日語電影](https://zh.wikipedia.org/wiki/Category:日語電影 "wikilink") [Category:日本喜劇片](https://zh.wikipedia.org/wiki/Category:日本喜劇片 "wikilink") [Category:日本犯罪片](https://zh.wikipedia.org/wiki/Category:日本犯罪片 "wikilink") [Category:2010年代喜剧犯罪片](https://zh.wikipedia.org/wiki/Category:2010年代喜剧犯罪片 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:2019年日本電影](https://zh.wikipedia.org/wiki/Category:2019年日本電影 "wikilink") [Category:富士電視台製作的電影](https://zh.wikipedia.org/wiki/Category:富士電視台製作的電影 "wikilink") [Category:2019年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2019年日本電視劇集 "wikilink") [Category:2019年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2019年電視特別劇集 "wikilink") [Category:富士電視台特別劇集](https://zh.wikipedia.org/wiki/Category:富士電視台特別劇集 "wikilink") [Category:週六獎賞](https://zh.wikipedia.org/wiki/Category:週六獎賞 "wikilink")
 
 1.
 2.
@@ -646,7 +612,6 @@ Japan頻道](../Page/WakuWaku_Japan.md "wikilink")，播映日期為2018年4月1
 
 16.
 
-17. [フジテレビオンデマンド
-    コンフィデンスマンJP](http://fod-sp.fujitv.co.jp/s/genre/drama/ser4f07/)
+17. [フジテレビオンデマンド コンフィデンスマンJP](http://fod-sp.fujitv.co.jp/s/genre/drama/ser4f07/)
 
 18.

@@ -1,11 +1,8 @@
-《**Stand Up
-Now**》是[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")的首張單曲。2017年8月23日由[Being發行](../Page/Being_\(公司\).md "wikilink")。
+《**Stand Up Now**》是[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")的首張單曲。2017年8月23日由[Being發行](../Page/Being_\(公司\).md "wikilink")。
 
 ## 解說
 
-《Stand Up
-Now》是搖滾樂團的出道首張單曲，同名標題曲也被2017年7月起在[TBS播出的](../Page/TBS電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《》選為片頭主題曲使用\[1\]\[2\]
-\[3\]。
+《Stand Up Now》是搖滾樂團的出道首張單曲，同名標題曲也被2017年7月起在[TBS播出的](../Page/TBS電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《》選為片頭主題曲使用\[1\]\[2\] \[3\]。
 
 標題曲「Stand Up Now」是以酷夏清涼的歌聲和先進的音樂曲風所完成的歌曲\[4\]\[5\]。
 
@@ -54,9 +51,7 @@ Now》是搖滾樂團的出道首張單曲，同名標題曲也被2017年7月起
 
 ## 來源
 
-[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink")
-[Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink")
-[Category:TBS動畫主題曲](https://zh.wikipedia.org/wiki/Category:TBS動畫主題曲 "wikilink")
+[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink") [Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink") [Category:TBS動畫主題曲](https://zh.wikipedia.org/wiki/Category:TBS動畫主題曲 "wikilink")
 
 1.
 

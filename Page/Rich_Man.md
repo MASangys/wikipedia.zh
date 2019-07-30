@@ -1,9 +1,4 @@
-《**Rich
-Man**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBN及](https://zh.wikipedia.org/wiki/每日廣播 "wikilink")於2018年5月9日起同步播出的水木連續劇，由《[My
-Only Love Song](../Page/My_Only_Love_Song.md "wikilink")》
-閔斗植導演執導與《[一年十二個男人](../Page/一年十二個男人.md "wikilink")》、電影《[愛上變身情人](../Page/愛上變身情人.md "wikilink")》朴正藝作家合作打造。此劇改編自日本電視劇《[RICH
-MAN, POOR
-WOMAN](../Page/RICH_MAN,_POOR_WOMAN.md "wikilink")》，講述一個患有面盲症的天才IT企業家，被熱血開朗的新入職女職員發現其內心並逐漸戀上他的故事。MOD[龍華偶像台也即將於](../Page/龍華數位媒體科技.md "wikilink")6月2日起每周六晚間九點半，全台電視首播\[1\]\[2\]\[3\]\[4\]。台灣愛奇藝於5月9日起，每周三四晚上10點同步韓國播出。
+《**Rich Man**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBN及](https://zh.wikipedia.org/wiki/每日廣播 "wikilink")於2018年5月9日起同步播出的[水木連續劇](../Page/MBN水木連續劇.md "wikilink")，由《[My Only Love Song](../Page/My_Only_Love_Song.md "wikilink")》 閔斗植導演執導與《[一年十二個男人](../Page/一年十二個男人.md "wikilink")》、電影《[愛上變身情人](../Page/愛上變身情人.md "wikilink")》朴正藝作家合作打造。此劇改編自日本電視劇《[RICH MAN, POOR WOMAN](../Page/RICH_MAN,_POOR_WOMAN.md "wikilink")》，講述一個患有面盲症的天才IT企業家，被熱血開朗的新入職女職員發現其內心並逐漸戀上他的故事。MOD[龍華偶像台也即將於](../Page/龍華數位媒體科技.md "wikilink")6月2日起每周六晚間九點半，全台電視首播\[1\]\[2\]\[3\]\[4\]。台灣愛奇藝於5月9日起，每周三四晚上10點同步韓國播出。
 
 ## 演員陣容
 
@@ -91,7 +86,7 @@ WOMAN](../Page/RICH_MAN,_POOR_WOMAN.md "wikilink")》，講述一個患有面盲
 <tr class="odd">
 <td><p><a href="../Page/MYTEEN.md" title="wikilink">李泰彬</a></p></td>
 <td><p>李才英</p></td>
-<td><p>支持有燦的小小股東</p></td>
+<td><p>支持有燦的小小股東。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -243,21 +238,11 @@ WOMAN](../Page/RICH_MAN,_POOR_WOMAN.md "wikilink")》，講述一個患有面盲
   - [韓國DramaX官方網站](http://dramax.ihq.co.kr/richman/index.php)
   - [香港無綫電視官方網站](http://programme.tvb.com/drama/richman0001)
 
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:MBN電視劇](https://zh.wikipedia.org/wiki/Category:MBN電視劇 "wikilink")
-[Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink")
-[Category:職場戀情連續劇](https://zh.wikipedia.org/wiki/Category:職場戀情連續劇 "wikilink")
-[Category:電腦工作題材電視節目](https://zh.wikipedia.org/wiki/Category:電腦工作題材電視節目 "wikilink")
-[Category:經濟電視劇](https://zh.wikipedia.org/wiki/Category:經濟電視劇 "wikilink")
-[Category:日本電視劇改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:日本電視劇改編韓國電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:MBN電視劇](https://zh.wikipedia.org/wiki/Category:MBN電視劇 "wikilink") [Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink") [Category:職場戀情連續劇](https://zh.wikipedia.org/wiki/Category:職場戀情連續劇 "wikilink") [Category:電腦工作題材電視節目](https://zh.wikipedia.org/wiki/Category:電腦工作題材電視節目 "wikilink") [Category:經濟電視劇](https://zh.wikipedia.org/wiki/Category:經濟電視劇 "wikilink") [Category:日本電視劇改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:日本電視劇改編韓國電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
 1.  [主演韓版《多金社長小資女》　Suho優異演技狂圈粉](https://www.mirrormedia.mg/story/20180510insight002/)
-2.  [元點文創4CBook
-    介紹頁面](http://wang4cbook.pixnet.net/blog/post/347505971-rich-man%E5%A4%9A%E9%87%91%E7%A4%BE%E9%95%B7%E5%B0%8F%E8%B3%87%E5%A5%B3%EF%BC%88%E9%9F%93%E5%8A%87%EF%BC%89%EF%BC%9A%E5%8A%87%E6%83%85%E7%B0%A1%E4%BB%8B%EF%BC%86)，元點文創4CBook，2018-05-05
-3.  [MBN新劇《Rich Man》主演EXO
-    SUHO、夏沇秀、吳昶錫、金叡園劇照公開！](https://www.koreastardaily.com/tc/news/104518)，韓星網，2018-04-13
-4.  [韓劇 多金社長小資女Rich Man - EXO
-    SUHO、夏沇秀甜蜜來襲](https://www.koreastardaily.com/tc/news/105153)，韓星網，2018-05-07
+2.  [元點文創4CBook 介紹頁面](http://wang4cbook.pixnet.net/blog/post/347505971-rich-man%E5%A4%9A%E9%87%91%E7%A4%BE%E9%95%B7%E5%B0%8F%E8%B3%87%E5%A5%B3%EF%BC%88%E9%9F%93%E5%8A%87%EF%BC%89%EF%BC%9A%E5%8A%87%E6%83%85%E7%B0%A1%E4%BB%8B%EF%BC%86)，元點文創4CBook，2018-05-05
+3.  [MBN新劇《Rich Man》主演EXO SUHO、夏沇秀、吳昶錫、金叡園劇照公開！](https://www.koreastardaily.com/tc/news/104518)，韓星網，2018-04-13
+4.  [韓劇 多金社長小資女Rich Man - EXO SUHO、夏沇秀甜蜜來襲](https://www.koreastardaily.com/tc/news/105153)，韓星網，2018-05-07
 5.
 6.

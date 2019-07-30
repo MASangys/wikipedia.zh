@@ -1,6 +1,4 @@
-《**Red
-Velvet演唱會列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red
-Velvet歷年舉行的演唱會](../Page/Red_Velvet.md "wikilink")、參與的大型公開演出活動與其他演出。
+《**Red Velvet演唱會列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red Velvet歷年舉行的演唱會](../Page/Red_Velvet.md "wikilink")、參與的大型公開演出活動與其他演出。
 
 ## 單獨演唱會
 
@@ -159,7 +157,7 @@ Velvet歷年舉行的演唱會](../Page/Red_Velvet.md "wikilink")、參與的大
 <td><p>9月22日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a></p></td>
 <td></td>
-<td><p><a href="../Page/國立臺灣大學綜合體育館.md" title="wikilink">國立臺灣大學綜合體育館一樓</a></p></td>
+<td><p><a href="../Page/國立臺灣大學綜合體育館.md" title="wikilink">國立臺灣大學綜合體育館</a>一樓</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -312,12 +310,9 @@ Velvet歷年舉行的演唱會](../Page/Red_Velvet.md "wikilink")、參與的大
 
 ## SMTOWN家族演唱會
 
-  - [SMTOWN Live World Tour
-    Ⅳ](https://zh.wikipedia.org/wiki/SMTOWN_Live_World_Tour_IV "wikilink")
-    （2014-2015）
+  - [SMTOWN Live World Tour Ⅳ](https://zh.wikipedia.org/wiki/SMTOWN_Live_World_Tour_IV "wikilink") （2014-2015）
   - SMTOWN Live World Tour V （2016）
-  - [SMTOWN Live World Tour
-    VI](../Page/SMTOWN_Live_World_Tour_VI.md "wikilink") （2017-2018）
+  - [SMTOWN Live World Tour VI](../Page/SMTOWN_Live_World_Tour_VI.md "wikilink") （2017-2018）
   - SMTOWN SPECIAL STAGE in HONG KONG （2017）
   - [SMTOWN Live 2018](../Page/SMTOWN_Live_2018.md "wikilink") （2018）
 
@@ -883,8 +878,7 @@ Velvet歷年舉行的演唱會](../Page/Red_Velvet.md "wikilink")、參與的大
 
   - [Red Velvet的V Live頻道](http://channels.vlive.tv/DCF447)
 
-[Category:Red_Velvet](https://zh.wikipedia.org/wiki/Category:Red_Velvet "wikilink")
-[Category:巡迴演唱會列表](https://zh.wikipedia.org/wiki/Category:巡迴演唱會列表 "wikilink")
+[Category:Red_Velvet](https://zh.wikipedia.org/wiki/Category:Red_Velvet "wikilink") [Category:巡迴演唱會列表](https://zh.wikipedia.org/wiki/Category:巡迴演唱會列表 "wikilink")
 
 1.
 2.

@@ -152,8 +152,4 @@
 
 ## 作品變遷
 
-[Category:拜托了冰箱](https://zh.wikipedia.org/wiki/Category:拜托了冰箱 "wikilink")
-[Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
+[Category:拜托了冰箱](https://zh.wikipedia.org/wiki/Category:拜托了冰箱 "wikilink") [Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")

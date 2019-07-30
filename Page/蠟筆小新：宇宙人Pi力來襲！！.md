@@ -3,10 +3,9 @@
 ## 概要
 
   - 本作繼《[動感超人大戰泳裝魔王](https://zh.wikipedia.org/wiki/蠟筆小新：動感超人大戰泳裝魔王 "wikilink")》、《[小白的屁屁炸彈](https://zh.wikipedia.org/wiki/蠟筆小新：小白的屁屁炸彈 "wikilink")》及《[我和我的宇宙公主](https://zh.wikipedia.org/wiki/蠟筆小新：我和我的宇宙公主 "wikilink")》後再度以「**宇宙人**」作為主題的作品。
-  - 導演及腳本由2015年的《[我的搬家物語
-    仙人掌大襲撃](https://zh.wikipedia.org/wiki/蠟筆小新：我的搬家物語_仙人掌大襲撃 "wikilink")》導演[橋本昌和擔任](../Page/橋本昌和.md "wikilink")\[1\]。
+  - 導演及腳本由2015年的《[我的搬家物語 仙人掌大襲撃](https://zh.wikipedia.org/wiki/蠟筆小新：我的搬家物語_仙人掌大襲撃 "wikilink")》導演[橋本昌和](../Page/橋本昌和.md "wikilink")擔任\[1\]。
   - 由於本作為蠟筆小新電影版25周年紀念作品，過去24部電影版的人物和相關物品皆以客串方式出現在電影中\[2\]。
-  - **野原廣志**的配音員[藤原啟治因病療養中](../Page/藤原啟治.md "wikilink")，本作為[森川智之代理後首次在电影版中飾演野原廣志](../Page/森川智之.md "wikilink")。
+  - **野原廣志**的配音員[藤原啟治](../Page/藤原啟治.md "wikilink")因病療養中，本作為[森川智之](../Page/森川智之.md "wikilink")代理後首次在电影版中飾演野原廣志。
   - 一般小新劇場版登場的角色到最後都會跟野原一家道別，Pi力是少數在主線劇情結束後還跟野原一家生活過一段時間的劇場版角色。
 
 ## 故事
@@ -221,8 +220,7 @@
 
 **片頭曲**「[100%傳達給你](https://zh.wikipedia.org/wiki/100%傳達給你/振袖和服 "wikilink")」（[unBORDE](../Page/日本華納音樂.md "wikilink")）
 
-  - 作詞、作曲、編曲：[中田康貴](../Page/中田康貴.md "wikilink")，主唱：[Kyary Pamyu
-    Pamyu](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")
+  - 作詞、作曲、編曲：[中田康貴](../Page/中田康貴.md "wikilink")，主唱：[Kyary Pamyu Pamyu](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")
 
 **片尾曲**「」（unBORDE）
 
@@ -230,7 +228,7 @@
 
 ## 藍光\&DVD
 
-於2017年11月10日由[萬代影視在](../Page/萬代影視.md "wikilink")[日本發行](../Page/日本.md "wikilink")。
+於2017年11月10日由[萬代影視](../Page/萬代影視.md "wikilink")在[日本](../Page/日本.md "wikilink")發行。
 
 ## 電視播出
 
@@ -243,12 +241,7 @@
   -
   -
   -
-[Category:2017年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2017年日本劇場動畫 "wikilink")
-[Category:电影版蠟筆小新](https://zh.wikipedia.org/wiki/Category:电影版蠟筆小新 "wikilink")
-[Category:外星生命題材動畫電影](https://zh.wikipedia.org/wiki/Category:外星生命題材動畫電影 "wikilink")
-[Category:外星生命入侵地球的電影](https://zh.wikipedia.org/wiki/Category:外星生命入侵地球的電影 "wikilink")
-[Category:日本科幻片](https://zh.wikipedia.org/wiki/Category:日本科幻片 "wikilink")
-[Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink")
+[Category:2017年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2017年日本劇場動畫 "wikilink") [Category:电影版蠟筆小新](https://zh.wikipedia.org/wiki/Category:电影版蠟筆小新 "wikilink") [Category:外星生命題材動畫電影](https://zh.wikipedia.org/wiki/Category:外星生命題材動畫電影 "wikilink") [Category:外星生命入侵地球的電影](https://zh.wikipedia.org/wiki/Category:外星生命入侵地球的電影 "wikilink") [Category:日本科幻片](https://zh.wikipedia.org/wiki/Category:日本科幻片 "wikilink") [Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink")
 
 1.
 2.

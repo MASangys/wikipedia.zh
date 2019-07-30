@@ -8,14 +8,11 @@
 
 2016年3月23日，作为Cube娱乐练习生首次公开\[5\]。11月5日参与[田小娟的公演舞台](https://zh.wikipedia.org/wiki/田小娟 "wikilink")\[6\]。
 
-2017年6月，参与Rising Star化妆品广告拍摄\[7\]，演唱Line
-Friends的儿童歌曲《一闪一闪亮晶晶》\[8\]。11月13日参与演唱的Line
-Friends《Dance Party》英文专辑发布\[9\]。
+2017年6月，参与Rising Star化妆品广告拍摄\[7\]，演唱Line Friends的儿童歌曲《一闪一闪亮晶晶》\[8\]。11月13日参与演唱的Line Friends《Dance Party》英文专辑发布\[9\]。
 
-2018年2月，翻唱了《Missing You》\[10\]、《Love
-Scenario》\[11\]，3月，翻唱《努力》\[12\]、《初恋》\[13\]为正式出道预热。
+2018年2月，翻唱了《Missing You》\[10\]、《Love Scenario》\[11\]，3月，翻唱《努力》\[12\]、《初恋》\[13\]为正式出道预热。
 
-2018年5月2日，Minnie以女子组合[(G)I-DLE出道](../Page/\(G\)I-DLE.md "wikilink")。
+2018年5月2日，Minnie以女子组合[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")出道。
 
 ## 个人生活
 
@@ -182,12 +179,7 @@ Minnie（민니）在韩国音乐著作权家协会登记编号为[10022029](htt
   -
 {{(G)I-DLE}}
 
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:在韓國的泰國人](https://zh.wikipedia.org/wiki/Category:在韓國的泰國人 "wikilink")
-[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink")
-[Category:(G)I-DLE成員](https://zh.wikipedia.org/wiki/Category:\(G\)I-DLE成員 "wikilink")
+[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:在韓國的泰國人](https://zh.wikipedia.org/wiki/Category:在韓國的泰國人 "wikilink") [Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink") [Category:(G)I-DLE成員](https://zh.wikipedia.org/wiki/Category:\(G\)I-DLE成員 "wikilink")
 
 1.
 2.

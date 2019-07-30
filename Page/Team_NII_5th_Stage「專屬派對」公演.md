@@ -1,11 +1,8 @@
-**Team NII 5th
-Stage「專屬派對」公演**是[SNH48的剧场公演](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，此套公演同時也是SNH48
-Team NII的首套原創公演。\[1\]
+**Team NII 5th Stage「專屬派對」公演**是[SNH48的剧场公演](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，此套公演同時也是SNH48 Team NII的首套原創公演。\[1\]
 
 ## 概要
 
-《专属派对》是SNH48制作团队为Team
-NII量身打造的一套全新原创公演，制作团队进行了大胆的尝试与突破，为多样的音乐曲风搭配丰富的服装、道具与舞美设计，并根据整场公演的故事线索制作出每一首独具个性的歌曲，16首歌曲紧扣「派对」主题进行演绎。\[2\]
+《专属派对》是SNH48制作团队为Team NII量身打造的一套全新原创公演，制作团队进行了大胆的尝试与突破，为多样的音乐曲风搭配丰富的服装、道具与舞美设计，并根据整场公演的故事线索制作出每一首独具个性的歌曲，16首歌曲紧扣「派对」主题进行演绎。\[2\]
 
 ## 公演曲目
 
@@ -60,10 +57,8 @@ NII量身打造的一套全新原创公演，制作团队进行了大胆的尝�
   - 公演期間：2016年7月22日\[3\]－2017年9月16日
   - 出演成员
       - 常规16人演出：陳佳瑩、陳問言、[馮薪朵](../Page/馮薪朵.md "wikilink")、龔詩淇、[黃婷婷](https://zh.wikipedia.org/wiki/黃婷婷 "wikilink")、何曉玉、[鞠婧禕](../Page/鞠婧禕.md "wikilink")、羅蘭、[林思意](../Page/林思意.md "wikilink")、陸婷、[李藝彤](../Page/李藝彤.md "wikilink")、萬麗娜、易嘉愛、[趙粵](../Page/趙粵.md "wikilink")、周怡、[曾艷芬](https://zh.wikipedia.org/wiki/曾艷芬 "wikilink")
-      - 初日演出：陳佳瑩、陳問言、馮薪朵、龔詩淇、黃婷婷、黃彤揚、何曉玉、羅蘭、陸婷、李藝彤、邵雪聰（Team
-        X）、萬麗娜、王曉佳（Team X）、易嘉愛、趙粵、周怡、曾艷芬
-      - 代役演出：邵雪聰（Team X）、宋昕冉（Team X）、孫歆文（Team X）、王曉佳（Team X）、楊冰怡（Team
-        X）、楊韞玉（Team X）、張丹三（Team X）
+      - 初日演出：陳佳瑩、陳問言、馮薪朵、龔詩淇、黃婷婷、黃彤揚、何曉玉、羅蘭、陸婷、李藝彤、邵雪聰（Team X）、萬麗娜、王曉佳（Team X）、易嘉愛、趙粵、周怡、曾艷芬
+      - 代役演出：邵雪聰（Team X）、宋昕冉（Team X）、孫歆文（Team X）、王曉佳（Team X）、楊冰怡（Team X）、楊韞玉（Team X）、張丹三（Team X）
   - 分組曲擔當
       - 我们不是天使（**萬麗娜**、易嘉愛、曾艷芬）
       - 白日梦（陳問言、羅蘭、林思意（王曉佳）、**趙粵**、周怡）
@@ -131,15 +126,10 @@ NII量身打造的一套全新原创公演，制作团队进行了大胆的尝�
 
 [Category:SNH48_Group剧场公演](https://zh.wikipedia.org/wiki/Category:SNH48_Group剧场公演 "wikilink")
 
-1.  [SNH48原创战略持续升温
-    N队原创公演《专属派对》暑期上线](http://www.snh48.com/html/allnews/zixun/2016/0627/1797.html)
-2.  [SNH48
-    N队原创公演《专属派对》7月13日首秀场开启竞价](http://www.snh48.com/html/allnews/zixun/2016/0713/1831.html)
-3.  [SNH48 原创公演《专属派对》华丽上演
-    N队成员燃情仲夏夜](http://www.snh48.com/html/allnews/zixun/2016/0725/1856.html)
+1.  [SNH48原创战略持续升温 N队原创公演《专属派对》暑期上线](http://www.snh48.com/html/allnews/zixun/2016/0627/1797.html)
+2.  [SNH48 N队原创公演《专属派对》7月13日首秀场开启竞价](http://www.snh48.com/html/allnews/zixun/2016/0713/1831.html)
+3.  [SNH48 原创公演《专属派对》华丽上演 N队成员燃情仲夏夜](http://www.snh48.com/html/allnews/zixun/2016/0725/1856.html)
 4.  [BEJ48曝TeamJ出道公演《专属派对》宣传片](http://ent.sina.com.cn/y/yneidi/2016-10-25/doc-ifxwztru7127486.shtml)
-5.  [BEJ48 Team J 首登公演舞台
-    ，《专属派对》开启偶像之路](http://www.bej48.com/news/show-272.html)
-6.  [GNZ48 Team
-    Z《专属派对》剧场公演首演回顾](http://www.gnz48.com/html/news/info/201611/265.html)
+5.  [BEJ48 Team J 首登公演舞台 ，《专属派对》开启偶像之路](http://www.bej48.com/news/show-272.html)
+6.  [GNZ48 Team Z《专属派对》剧场公演首演回顾](http://www.gnz48.com/html/news/info/201611/265.html)
 7.  電子琴自彈自唱版本

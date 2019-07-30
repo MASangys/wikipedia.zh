@@ -9,8 +9,7 @@ FAA可用于实现[互斥锁](../Page/互斥锁.md "wikilink")、[信号量](../
 
 ## 用途
 
-下述伪代码用[ticket
-lock算法实现了互斥锁](https://zh.wikipedia.org/wiki/ticket_lock "wikilink")：
+下述伪代码用[ticket lock算法实现了互斥锁](https://zh.wikipedia.org/wiki/ticket_lock "wikilink")：
 
 ` `**`record`**` locktype {`
 `    `*`int`*` ticketnumber`
@@ -23,8 +22,7 @@ lock算法实现了互斥锁](https://zh.wikipedia.org/wiki/ticket_lock "wikilin
 ` `**`procedure`**` Lock( `*`locktype`*`* lock ) {`
 `    `*`int`*` myturn := FetchAndIncrement( &lock.ticketnumber ) //must be atomic, since many threads might ask for a lock at the same time`
 `    `**`while`**` lock.turn ≠ myturn `
-`        `**`skip`**` // `*`spin``   ``until``   ``lock``   ``is``
- ``acquired`*
+`        `**`skip`**` // `*`spin``   ``until``   ``lock``   ``is``   ``acquired`*
 ` }`
 ` `**`procedure`**` UnLock( `*`locktype`*`* lock ) {`
 `    FetchAndIncrement( &lock.turn ) //this need not be atomic, since only the possessor of the lock will execute this`
@@ -32,8 +30,7 @@ lock算法实现了互斥锁](https://zh.wikipedia.org/wiki/ticket_lock "wikilin
 
 ## 硬件软件支持
 
-[C++11标准定义了原子的](../Page/C++11.md "wikilink")函数。\[2\]
-GCC把它作为对C语言的扩展。\[3\]
+[C++11](../Page/C++11.md "wikilink")标准定义了原子的函数。\[2\] GCC把它作为对C语言的扩展。\[3\]
 
 ### x86实现
 
@@ -67,8 +64,7 @@ GCC把它作为对C语言的扩展。\[3\]
 ## 参见
 
   - [Test-and-set](https://zh.wikipedia.org/wiki/Test-and-set "wikilink")
-  - [Test and
-    Test-and-set](https://zh.wikipedia.org/wiki/Test_and_Test-and-set "wikilink")
+  - [Test and Test-and-set](https://zh.wikipedia.org/wiki/Test_and_Test-and-set "wikilink")
   - [Compare-and-swap](https://zh.wikipedia.org/wiki/Compare-and-swap "wikilink")
   - [Load-Link/Store-Conditional](https://zh.wikipedia.org/wiki/Load-Link/Store-Conditional "wikilink")
 

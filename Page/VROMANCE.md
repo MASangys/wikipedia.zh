@@ -1,5 +1,4 @@
-**VROMANCE**（），原名**Bromance**\[1\]，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")4人男子組合\[2\]，於2016年7月12日發行迷你專輯《THE
-ACTION》以主打歌《女性朋友》（）出道\[3\]。
+**VROMANCE**（），原名**Bromance**\[1\]，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")4人男子組合\[2\]，於2016年7月12日發行迷你專輯《THE ACTION》以主打歌《女性朋友》（）出道\[3\]。
 
 ## 成員資料
 
@@ -228,12 +227,7 @@ ACTION》以主打歌《女性朋友》（）出道\[3\]。
   -
   -
   -
-[Category:Rainbow_Bridge_World](https://zh.wikipedia.org/wiki/Category:Rainbow_Bridge_World "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink")
+[Category:Rainbow_Bridge_World](https://zh.wikipedia.org/wiki/Category:Rainbow_Bridge_World "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-是由[ALICESOFT製作於](../Page/ALICESOFT.md "wikilink")2017年1月27日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，後來改編成OVA由Pink
-Pineapple於2017年10月27日發售。\[2\]
+是由[ALICESOFT](../Page/ALICESOFT.md "wikilink")製作於2017年1月27日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，後來改編成OVA由Pink Pineapple於2017年10月27日發售。\[2\]
 
 ## 故事
 
@@ -35,8 +34,7 @@ Pineapple於2017年10月27日發售。\[2\]
 
 ## OVA
 
-《Heartful媽媽 THE ANIMATION》（）是由Pink
-Pineapple發售的成人動畫，於2017年10月27日發售，兩位女主角的聲優與遊戲相同。
+《Heartful媽媽 THE ANIMATION》（）是由Pink Pineapple發售的成人動畫，於2017年10月27日發售，兩位女主角的聲優與遊戲相同。
 
 ## 評價
 
@@ -48,11 +46,7 @@ Pineapple發售的成人動畫，於2017年10月27日發售，兩位女主角的
 
   - （鎖區）
 
-[Category:2017年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2017年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:2017年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2017年日本成人動畫 "wikilink")
+[Category:2017年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2017年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:2017年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2017年日本成人動畫 "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-是日本Cherry
-soft（ちぇりーそふと）公司在2000年7月7日發售的冒險類型[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]OVA由DISCOVERY在2002年6月28日開始發售共3集。\[3\]
+是日本Cherry soft（ちぇりーそふと）公司在2000年7月7日發售的冒險類型[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]OVA由DISCOVERY在2002年6月28日開始發售共3集。\[3\]
 
 ## 故事
 
@@ -45,8 +44,7 @@ soft（ちぇりーそふと）公司在2000年7月7日發售的冒險類型[成
 
 ## OVA
 
-OVA版是由DISCOVERY在2002年6月28日開始發售的成人動畫，全部共有3集。\[5\]英文版的標題名稱是**Sibling
-Secret**，由Anime 18和Critical Mass Video代理發售合集。\[6\]\[7\]
+OVA版是由DISCOVERY在2002年6月28日開始發售的成人動畫，全部共有3集。\[5\]英文版的標題名稱是**Sibling Secret**，由Anime 18和Critical Mass Video代理發售合集。\[6\]\[7\]
 
 ### 發售日
 
@@ -103,27 +101,14 @@ Secret**，由Anime 18和Critical Mass Video代理發售合集。\[6\]\[7\]
   - [ちぇりーそふと](https://web.archive.org/web/20040322043610/http://cherrysoft.co.jp/)
   - [アンバランス](http://www.seddnet.com/products/unbalance.html)DISCOVERY
 
-[Category:2000年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2000年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:2002年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2002年日本成人動畫 "wikilink")
+[Category:2000年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2000年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:2002年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2002年日本成人動畫 "wikilink")
 
 1.  [Unbalance～アンバランス～](http://www.getchu.com/soft.phtml?id=1479)Getchu.com
 2.  [Unbalance](https://vndb.org/v6219)The Visual Novel Database
 3.  [Unbalance](http://myanimelist.net/anime/1770/Unbalance)MyAnimeList
 4.
-5.  [Sibling Secret
-    (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3417)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
-6.  [Sibling Secret
-    (DVD/R0)](http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16006)Anime
-    News Network
-7.  [Sibling Secret
-    (DVD)](http://www.animenewsnetwork.com/encyclopedia/releases.php?id=14933)Anime
-    News Network
-8.  [Unbalance
-    アンバランス](http://www.amazon.co.jp/gp/product/B0027XW75E?ie=UTF8&redirect=true)amazon.com
-9.  [アンバランス
-    MENU.1](http://www.seddnet.com/products/unbalance1.html)DISCOVERY
+5.  [Sibling Secret (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3417)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+6.  [Sibling Secret (DVD/R0)](http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16006)Anime News Network
+7.  [Sibling Secret (DVD)](http://www.animenewsnetwork.com/encyclopedia/releases.php?id=14933)Anime News Network
+8.  [Unbalance アンバランス](http://www.amazon.co.jp/gp/product/B0027XW75E?ie=UTF8&redirect=true)amazon.com
+9.  [アンバランス MENU.1](http://www.seddnet.com/products/unbalance1.html)DISCOVERY

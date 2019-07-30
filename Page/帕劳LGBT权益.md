@@ -29,8 +29,7 @@
 
 ## 参考资料
 
-[Category:大洋洲LGBT權益](https://zh.wikipedia.org/wiki/Category:大洋洲LGBT權益 "wikilink")
-[Category:帕劳政治](https://zh.wikipedia.org/wiki/Category:帕劳政治 "wikilink")
+[Category:大洋洲LGBT權益](https://zh.wikipedia.org/wiki/Category:大洋洲LGBT權益 "wikilink") [Category:帕劳政治](https://zh.wikipedia.org/wiki/Category:帕劳政治 "wikilink")
 
 1.
 2.

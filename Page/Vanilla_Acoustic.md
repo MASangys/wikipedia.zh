@@ -1,6 +1,4 @@
-Vanilla
-Acoustic（）是[大韓民國的獨立樂隊](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")，由Vanilla
-Man和SUNGAH組成。
+Vanilla Acoustic（）是[大韓民國的獨立樂隊](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")，由Vanilla Man和SUNGAH組成。
 
 ## 成員資料
 
@@ -946,8 +944,7 @@ Man和SUNGAH組成。
 
 ## 外部連結
 
-  - [KKBOX - Vanilla
-    Acoustic](https://www.kkbox.com/tw/tc/artist/eCtf2IkQYH6GtY0F0Cp5k08K-index-1.html)
+  - [KKBOX - Vanilla Acoustic](https://www.kkbox.com/tw/tc/artist/eCtf2IkQYH6GtY0F0Cp5k08K-index-1.html)
 
   - [官方網站](http://shofar-music.com/vnr)
 
@@ -956,9 +953,7 @@ Man和SUNGAH組成。
   -
 ## 參考資料
 
-[Category:韓國樂團](https://zh.wikipedia.org/wiki/Category:韓國樂團 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:獨立音樂團體](https://zh.wikipedia.org/wiki/Category:獨立音樂團體 "wikilink")
+[Category:韓國樂團](https://zh.wikipedia.org/wiki/Category:韓國樂團 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:獨立音樂團體](https://zh.wikipedia.org/wiki/Category:獨立音樂團體 "wikilink")
 
 1.
 2.

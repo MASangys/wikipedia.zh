@@ -1,33 +1,26 @@
-**湊崎紗夏**（，），藝名**Sana**（
-，），[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TWICE的日本成員之一](https://zh.wikipedia.org/wiki/TWICE "wikilink")。
+**湊崎紗夏**（，），藝名**Sana**（ ，），[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TWICE的日本成員之一](https://zh.wikipedia.org/wiki/TWICE "wikilink")。
 
 ## 生涯
 
 ### 出道前
 
-  - 2009年至2012年期間曾入讀[EXPG大阪校](../Page/EXPG.md "wikilink")。
-  - 2012年4月13日，與同是[關西人的](../Page/近畿地方.md "wikilink")[Momo跟JYP簽約成旗下練習生](../Page/Momo_\(TWICE\).md "wikilink")。Sana以翻跳[少女時代](../Page/少女时代.md "wikilink")
-    - 《Mr. Taxi》而面試成功。
-  - 2013年12月，[JYP娛樂曾計劃於](../Page/JYP娛樂.md "wikilink")2014年推出女子組合6MIX，並預計最快會在4月面試。但由於有部分成員離開公司，出道計劃被迫重整，並且未能於2014年內推出，當時預計成為領舞和副唱。
-  - 2015年參與[JYP娛樂與](../Page/JYP娛樂.md "wikilink")[Mnet合作的生存實境節目](../Page/Mnet媒體.md "wikilink")《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》，第二位公開真面目與預告的成員。\[1\]
-  - 國小時學習過書法，曾在《[我的小電視](https://zh.wikipedia.org/wiki/我的小電視 "wikilink")》及《[Weekly
-    Idol](../Page/Weekly_Idol.md "wikilink")》中表演過。
+  - 2009年至2012年期間曾入讀[EXPG](../Page/EXPG.md "wikilink")大阪校。
+  - 2012年4月13日，與同是[關西人的](../Page/近畿地方.md "wikilink")[Momo跟JYP簽約成旗下練習生](../Page/Momo_\(TWICE\).md "wikilink")。Sana以翻跳[少女時代](../Page/少女时代.md "wikilink") - 《Mr. Taxi》而面試成功。
+  - 2013年12月，[JYP娛樂](../Page/JYP娛樂.md "wikilink")曾計劃於2014年推出女子組合6MIX，並預計最快會在4月面試。但由於有部分成員離開公司，出道計劃被迫重整，並且未能於2014年內推出，當時預計成為領舞和副唱。
+  - 2015年參與[JYP娛樂](../Page/JYP娛樂.md "wikilink")與[Mnet合作的生存實境節目](../Page/Mnet媒體.md "wikilink")《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》，第二位公開真面目與預告的成員。\[1\]
+  - 國小時學習過書法，曾在《[我的小電視](https://zh.wikipedia.org/wiki/我的小電視 "wikilink")》及《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》中表演過。
 
 ### TWICE活動
 
-  - 2015年10月20日推出首張迷你專輯《[THE STORY
-    BEGINS](https://zh.wikipedia.org/wiki/THE_STORY_BEGINS_\(TWICE迷你專輯\) "wikilink")》，並舉辦出道Showcase「OOH-AHH,
-    TWICE」正式出道，同日發表主打歌〈Like OOH-AHH〉的MV\[2\]。
-  - 〈Cheer Up〉中Sana負責演唱的其中一句歌詞「shy shy shy」，因發音問題唱成「sha sha
-    sha」（샤샤샤），意外引發話題，[G-Dragon](../Page/G-Dragon.md "wikilink")、[太妍](../Page/太妍.md "wikilink")、[張賢勝](../Page/張賢勝.md "wikilink")、[伯賢](../Page/伯賢.md "wikilink")、[GOT7等也曾在Fan](../Page/GOT7.md "wikilink")
-    Meeting、演唱會、綜藝節目、社交網站等場合演唱或使用「샤샤샤」\[3\]\[4\]\[5\]。
+  - 2015年10月20日推出首張迷你專輯《[THE STORY BEGINS](https://zh.wikipedia.org/wiki/THE_STORY_BEGINS_\(TWICE迷你專輯\) "wikilink")》，並舉辦出道Showcase「OOH-AHH, TWICE」正式出道，同日發表主打歌〈Like OOH-AHH〉的MV\[2\]。
+  - 〈Cheer Up〉中Sana負責演唱的其中一句歌詞「shy shy shy」，因發音問題唱成「sha sha sha」（샤샤샤），意外引發話題，[G-Dragon](../Page/G-Dragon.md "wikilink")、[太妍](../Page/太妍.md "wikilink")、[張賢勝](../Page/張賢勝.md "wikilink")、[伯賢](../Page/伯賢.md "wikilink")、[GOT7](../Page/GOT7.md "wikilink")等也曾在Fan Meeting、演唱會、綜藝節目、社交網站等場合演唱或使用「샤샤샤」\[3\]\[4\]\[5\]。
   - 2018年8月17日，在TWICE日文單曲〈BDZ〉MV前序旁白。
 
 ## 爭議事件
 
 ### 發文告別平成引發部分網民不滿
 
-2019年4月30日，Sana在TWICE的官方[Instagram上發佈一則](../Page/Instagram.md "wikilink")「告別自己出生的時代日本[平成時代的落幕](../Page/平成.md "wikilink")，及迎接[令和時代的到來](../Page/令和.md "wikilink")」，然而這篇貼文發佈後立刻在網上引發熱議，韓國網友認為Sana在韓國發展，卻在團體的官方帳號發佈日本時事的貼文很不恰當，且引發爭議後所屬經紀公司JYP娛樂也未將貼文刪除。早前，在韓國的光復節時，TWICE也未在官方社群上有任何表示，網友更批評JYP娛樂難道沒有教藝人這些韓國歷史嗎？韓國與日本在歷史上是不友好的，部分激進網友更表示希望TWICE消失，不再支持這個團體，不過也有網友認為Sana只是在感嘆一個時代的結束，並無不妥\[6\]。另外有新聞報導指出Sana崇尚日本天皇主義，目前撰寫該新聞報導的記者已承認自己的報導有加油添醋的部分並道歉\[7\]。
+2019年4月30日，Sana在TWICE的官方[Instagram](../Page/Instagram.md "wikilink")上發佈一則「告別自己出生的時代日本[平成](../Page/平成.md "wikilink")時代的落幕，及迎接[令和](../Page/令和.md "wikilink")時代的到來」，然而這篇貼文發佈後立刻在網上引發熱議，韓國網友認為Sana在韓國發展，卻在團體的官方帳號發佈日本時事的貼文很不恰當，且引發爭議後所屬經紀公司JYP娛樂也未將貼文刪除。早前，在韓國的光復節時，TWICE也未在官方社群上有任何表示，網友更批評JYP娛樂難道沒有教藝人這些韓國歷史嗎？韓國與日本在歷史上是不友好的，部分激進網友更表示希望TWICE消失，不再支持這個團體，不過也有網友認為Sana只是在感嘆一個時代的結束，並無不妥\[6\]。另外有新聞報導指出Sana崇尚日本天皇主義，目前撰寫該新聞報導的記者已承認自己的報導有加油添醋的部分並道歉\[7\]。
 
 ## 音樂作品
 
@@ -114,13 +107,7 @@
 
 ## 外部連結
 
-[Category:1996年出生](https://zh.wikipedia.org/wiki/Category:1996年出生 "wikilink")
-[Category:TWICE成員](https://zh.wikipedia.org/wiki/Category:TWICE成員 "wikilink")
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:大阪市出身人物](https://zh.wikipedia.org/wiki/Category:大阪市出身人物 "wikilink")
-[Category:在韓國的日本人](https://zh.wikipedia.org/wiki/Category:在韓國的日本人 "wikilink")
+[Category:1996年出生](https://zh.wikipedia.org/wiki/Category:1996年出生 "wikilink") [Category:TWICE成員](https://zh.wikipedia.org/wiki/Category:TWICE成員 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:大阪市出身人物](https://zh.wikipedia.org/wiki/Category:大阪市出身人物 "wikilink") [Category:在韓國的日本人](https://zh.wikipedia.org/wiki/Category:在韓國的日本人 "wikilink")
 
 1.
 2.

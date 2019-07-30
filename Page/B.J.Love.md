@@ -57,15 +57,10 @@
 
 ### 參考文獻
 
-  - 《A.A. Game History Series Vol.2 -All About SNK格 1991－2000-》，[Studio
-    BentStuff](https://zh.wikipedia.org/wiki/Studio_BentStuff "wikilink")
-    (編輯、發行)、 (販售)，2000年12月15日發行，第354、356頁 ISBN 978-4-885-54677-8
+  - 《A.A. Game History Series Vol.2 -All About SNK格 1991－2000-》，[Studio BentStuff](https://zh.wikipedia.org/wiki/Studio_BentStuff "wikilink") (編輯、發行)、 (販售)，2000年12月15日發行，第354、356頁 ISBN 978-4-885-54677-8
 
 ### 注釋
 
-[Category:美国男配音演員](https://zh.wikipedia.org/wiki/Category:美国男配音演員 "wikilink")
-[Category:密西根州人](https://zh.wikipedia.org/wiki/Category:密西根州人 "wikilink")
-[Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:美国男配音演員](https://zh.wikipedia.org/wiki/Category:美国男配音演員 "wikilink") [Category:密西根州人](https://zh.wikipedia.org/wiki/Category:密西根州人 "wikilink") [Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.  [PS2版援助角色](https://zh.wikipedia.org/wiki/PlayStation2 "wikilink")。

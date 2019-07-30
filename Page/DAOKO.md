@@ -2,17 +2,11 @@
 
 ## 人物簡介
 
-國中3年級的時候開始在[NICONICO動畫的](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")「NICO饒舌」上傳影片。在Jinmenusagi（人面兔子）的邀請下參加樂曲活動，被[獨立音樂唱片公司](../Page/獨立音樂.md "wikilink")「LOW
-HIGH WHO?
-PRODUCTION」的主持者中意，在升高中的同時與該唱片公司簽約。不過由於DAOKO就讀的女子高中有禁止演藝活動的嚴厲校規，所以在高中的這段期間都是以蒙住臉的方式在活動。
+國中3年級的時候開始在[NICONICO動畫的](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")「NICO饒舌」上傳影片。在Jinmenusagi（人面兔子）的邀請下參加樂曲活動，被[獨立音樂](../Page/獨立音樂.md "wikilink")唱片公司「LOW HIGH WHO? PRODUCTION」的主持者中意，在升高中的同時與該唱片公司簽約。不過由於DAOKO就讀的女子高中有禁止演藝活動的嚴厲校規，所以在高中的這段期間都是以蒙住臉的方式在活動。
 
-後來跟[m-flo的](https://zh.wikipedia.org/wiki/m-flo "wikilink")[Taku
-Takahashi一起以](https://zh.wikipedia.org/wiki/Taku_Takahashi "wikilink")「m-flo
-+
-daoko」的名義推出樂曲《IRONY》，獲起用為2013年電影《》的主題曲。這加深了電影導演[中島哲也對她的印象](../Page/中島哲也.md "wikilink")，於是2014年上映的電影《[渴望。](../Page/渴望。.md "wikilink")》中採用了DAOKO的《Fog》作為插曲。同年，在由[庵野秀明帶領的](../Page/庵野秀明.md "wikilink")[Khara工作室製作短篇映像系列](../Page/Khara.md "wikilink")「[日本動畫人展覽會](../Page/日本動畫人展覽會.md "wikilink")」的第3彈作品《ME\!ME\!ME\!》中，她與TeddyLoid一起擔任音樂部份，受到世界各國注目。
+後來跟[m-flo的](https://zh.wikipedia.org/wiki/m-flo "wikilink")[Taku Takahashi一起以](https://zh.wikipedia.org/wiki/Taku_Takahashi "wikilink")「m-flo + daoko」的名義推出樂曲《IRONY》，獲起用為2013年電影《》的主題曲。這加深了電影導演[中島哲也](../Page/中島哲也.md "wikilink")對她的印象，於是2014年上映的電影《[渴望。](../Page/渴望。.md "wikilink")》中採用了DAOKO的《Fog》作為插曲。同年，在由[庵野秀明](../Page/庵野秀明.md "wikilink")帶領的[Khara](../Page/Khara.md "wikilink")工作室製作短篇映像系列「[日本動畫人展覽會](../Page/日本動畫人展覽會.md "wikilink")」的第3彈作品《ME\!ME\!ME\!》中，她與TeddyLoid一起擔任音樂部份，受到世界各國注目。
 
-隨著大唱片公司的DAOKO爭奪戰結束，2015年3月，高中畢業的同時經[TOY'S
-FACTORY主流出道](../Page/TOY'S_FACTORY.md "wikilink")。同年10月又推出了首張單曲，封面上首次對外公開DAOKO的樣子。
+隨著大唱片公司的DAOKO爭奪戰結束，2015年3月，高中畢業的同時經[TOY'S FACTORY主流出道](../Page/TOY'S_FACTORY.md "wikilink")。同年10月又推出了首張單曲，封面上首次對外公開DAOKO的樣子。
 
 ## 樂曲製作
 
@@ -26,11 +20,9 @@ FACTORY主流出道](../Page/TOY'S_FACTORY.md "wikilink")。同年10月又推出
   - 2012年12月5日，1st專輯『HYPERGIRL-向こう側の女の子-』發布。
   - 2013年7月24日，ESNO的協作樂曲「夕暮れパラレリズム」配信限定發布。
   - 2013年9月11日，1st EP『UTUTU』經由LOW HIGH WHO?生產並發布。
-  - 2017年8月、與音樂家[米津玄師錄製單曲](../Page/米津玄師.md "wikilink")《[打上花火](../Page/打上花火.md "wikilink")》，被選為動畫電影《[升起的煙花，從下面看？還是從側面看？](https://zh.wikipedia.org/wiki/烟花_\(动画电影\) "wikilink")》的主題曲。
-  - 2017年10月、與演唱動畫作品《[血界戰線 &
-    BEYOND](../Page/血界戰線.md "wikilink")》片尾曲「ステップアップLOVE」
-  - 2018年1月5日、1月6日在高雄LIVE WAREHOUSE舉行「DAOKO TOUR 2017-2018 “THANK YOU
-    BLUE”」公演\[1\]。
+  - 2017年8月、與音樂家[米津玄師](../Page/米津玄師.md "wikilink")錄製單曲《[打上花火](../Page/打上花火.md "wikilink")》，被選為動畫電影《[升起的煙花，從下面看？還是從側面看？](https://zh.wikipedia.org/wiki/烟花_\(动画电影\) "wikilink")》的主題曲。
+  - 2017年10月、與演唱動畫作品《[血界戰線 & BEYOND](../Page/血界戰線.md "wikilink")》片尾曲「ステップアップLOVE」
+  - 2018年1月5日、1月6日在高雄LIVE WAREHOUSE舉行「DAOKO TOUR 2017-2018 “THANK YOU BLUE”」公演\[1\]。
   - 2018年12月31日，參加[第69回NHK紅白歌合戰](../Page/第69回NHK紅白歌合戰.md "wikilink")，演唱《打上花火》。
 
 ## 音樂作品
@@ -128,11 +120,7 @@ TFCC-89645（通常盤B）</p></td>
   -
   - [小剛的日本音樂風暴區／饒舌新女聲DAOKO　樂壇新希望](http://www.ettoday.net/news/20150427/498601.htm)
 
-[Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink")
-[Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")
-[Category:日本饒舌歌手](https://zh.wikipedia.org/wiki/Category:日本饒舌歌手 "wikilink")
-[Category:TOY'S_FACTORY旗下藝人](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY旗下藝人 "wikilink")
+[Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink") [Category:日本饒舌歌手](https://zh.wikipedia.org/wiki/Category:日本饒舌歌手 "wikilink") [Category:TOY'S_FACTORY旗下藝人](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY旗下藝人 "wikilink")
 
-1.  [【迷迷現場】饒舌超新星DAOKO降臨高雄
-    電音抒情舞曲樣樣精采](https://memeon-music.com/2018/01/31/daoko-livereport/)
+1.  [【迷迷現場】饒舌超新星DAOKO降臨高雄 電音抒情舞曲樣樣精采](https://memeon-music.com/2018/01/31/daoko-livereport/)
 2.  [|＜発売延期のお知らせ＞](http://daoko.jp/news/443/)

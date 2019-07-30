@@ -2,24 +2,28 @@
 
 ## 韓語作品
 
-⒊===正規專輯=== ＊**粗體字為主打歌**
+### 正規專輯
+
+＊**粗體字為主打歌**
 
 <table>
+<thead>
+<tr class="header">
+<th><p>專輯</p></th>
+<th><p>專輯資料</p></th>
+<th><p>排行榜<br />
+頂峰位置</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td><p>專輯</p></td>
-<td><p>專輯資料</p></td>
-<td><p>排行榜<br />
-頂峰位置</p></td>
-<td><p>曲目</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>1st</p></td>
 <td><p><strong>《<a href="../Page/L.O.L.md" title="wikilink">L.O.L</a>》</strong></p>
 <ul>
@@ -31,7 +35,7 @@
 <td><p>3（綜合）[1]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2nd</p></td>
 <td><p><strong>《<a href="../Page/Time_for_us.md" title="wikilink">Time for us</a>》</strong></p>
 <ul>
@@ -51,21 +55,23 @@
 ＊**粗體字為主打歌**
 
 <table>
+<thead>
+<tr class="header">
+<th><p>專輯</p></th>
+<th><p>專輯資料</p></th>
+<th><p>排行榜<br />
+頂峰位置</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td><p>專輯</p></td>
-<td><p>專輯資料</p></td>
-<td><p>排行榜<br />
-頂峰位置</p></td>
-<td><p>曲目</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>1st</p></td>
 <td><p><strong>《<a href="../Page/Season_of_Glass.md" title="wikilink">Season of Glass</a>》</strong>[2]</p>
 <ul>
@@ -78,7 +84,7 @@
 10（國內）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2nd</p></td>
 <td><p><strong>《<a href="../Page/Flower_Bud.md" title="wikilink">Flower Bud</a>》</strong></p>
 <ul>
@@ -90,7 +96,7 @@
 <td><p>6（綜合）[4]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3rd</p></td>
 <td><p><strong>《<a href="../Page/Snowflake.md" title="wikilink">Snowflake</a>》</strong></p>
 <ul>
@@ -102,7 +108,7 @@
 <td><p>2（綜合）[5]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4th</p></td>
 <td><p><strong>《<a href="../Page/The_Awakening.md" title="wikilink">The Awakening</a>》</strong></p>
 <ul>
@@ -114,7 +120,7 @@
 <td><p>1（綜合）[6]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5th</p></td>
 <td><p><strong>《<a href="../Page/Parallel.md" title="wikilink">Parallel</a>》</strong></p>
 <ul>
@@ -126,7 +132,7 @@
 <td><p>3（綜合）[7]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>《<a href="../Page/Parallel.md" title="wikilink">Rainbow</a>》(改版)</strong></p>
 <ul>
 <li>發行日期：2017年9月13日</li>
@@ -138,7 +144,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6th</p></td>
 <td><p><strong>《<a href="../Page/Time_For_The_Moon_Night.md" title="wikilink">Time For The Moon Night</a>》</strong></p>
 <ul>
@@ -158,21 +164,23 @@
 ＊**粗體字為主打歌**
 
 <table>
+<thead>
+<tr class="header">
+<th><p>專輯</p></th>
+<th><p>專輯資料</p></th>
+<th><p>排行榜<br />
+頂峰位置</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td><p>專輯</p></td>
-<td><p>專輯資料</p></td>
-<td><p>排行榜<br />
-頂峰位置</p></td>
-<td><p>曲目</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>1st</p></td>
 <td><p><strong>《<a href="../Page/Sunny_Summer.md" title="wikilink">Sunny Summer</a>》</strong></p>
 <ul>
@@ -194,27 +202,29 @@
 ＊**粗體字為主打歌**
 
 <table>
+<thead>
+<tr class="header">
+<th><p>專輯</p></th>
+<th><p>專輯資料</p></th>
+<th><p>排行榜<br />
+頂峰位置</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td><p>專輯</p></td>
-<td><p>專輯資料</p></td>
-<td><p>排行榜<br />
-頂峰位置</p></td>
-<td><p>曲目</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/Oricon.md" title="wikilink">日本</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>日榜</p></td>
 <td><p>週榜</p></td>
 <td><p>月榜</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1st</p></td>
 <td><p><strong>《<a href="../Page/今天開始的我們～GFRIEND_1st_BEST.md" title="wikilink">今日から私たちは ～GFRIEND 1st BEST～</a>》</strong></p>
 <ul>
@@ -234,27 +244,29 @@
 ＊**粗體字為主打歌**
 
 <table>
+<thead>
+<tr class="header">
+<th><p>專輯</p></th>
+<th><p>專輯資料</p></th>
+<th><p>排行榜<br />
+頂峰位置</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td><p>專輯</p></td>
-<td><p>專輯資料</p></td>
-<td><p>排行榜<br />
-頂峰位置</p></td>
-<td><p>曲目</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/Oricon.md" title="wikilink">日本</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>日榜</p></td>
 <td><p>週榜</p></td>
 <td><p>月榜</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1st</p></td>
 <td><p><strong>《<a href="https://zh.wikipedia.org/wiki/Memoria/夜(Time_for_the_moon_night)" title="wikilink">Memoria/夜(Time for the moon night)</a>》</strong></p>
 <ul>
@@ -266,7 +278,7 @@
 <td><p>2</p></td>
 <td><p>6 [12]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2nd</p></td>
 <td><p><strong>《<a href="https://zh.wikipedia.org/wiki/SUNRISE" title="wikilink">SUNRISE</a>》</strong></p>
 <ul>
@@ -278,7 +290,7 @@
 <td></td>
 <td><p>11 [13]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3rd</p></td>
 <td><p><strong>《<a href="../Page/FLOWER.md" title="wikilink">FLOWER</a>》</strong></p>
 <ul>
@@ -296,16 +308,18 @@
 ## 原聲帶音乐
 
 <table>
+<thead>
+<tr class="header">
+<th><p>日期</p></th>
+<th><p>影視作品</p></th>
+<th><p>專輯名稱</p></th>
+<th><p>歌曲名稱</p></th>
+<th><p>參與成員</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td><p>日期</p></td>
-<td><p>影視作品</p></td>
-<td><p>專輯名稱</p></td>
-<td><p>歌曲名稱</p></td>
-<td><p>參與成員</p></td>
-<td><p>備註</p></td>
-</tr>
-<tr class="even">
 <td><p>2015年4月8日</p></td>
 <td><p>《<a href="../Page/看見味道的少女.md" title="wikilink">看見味道的少女</a>》</p></td>
 <td><p>《<a href="../Page/看見味道的少女.md" title="wikilink">看見味道的少女</a>》OST Part.2</p></td>
@@ -313,7 +327,7 @@
 <td><p>Yuju</p></td>
 <td><p>與 Loco</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年9月14日</p></td>
 <td><p>《我懷裡的 Larva 與朋友們》</p></td>
 <td><p>《내 품에 라바와 친구들》 OST</p></td>
@@ -323,7 +337,7 @@ I'll Be There</p></td>
 <td><p>SinB</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016年2月18日</p></td>
 <td><p>《動物總動員：英雄雞》</p></td>
 <td><p>《빌리와 용감한 녀석들 : 치킨 히어로》OST</p></td>
@@ -331,7 +345,7 @@ I'll Be There</p></td>
 <td><p>Yuju</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016年3月7日</p></td>
 <td><p>《<a href="../Page/六龍飛天.md" title="wikilink">六龍飛天</a>》</p></td>
 <td><p>《<a href="../Page/六龍飛天.md" title="wikilink">六龍飛天</a>》 OST Part7</p></td>
@@ -339,7 +353,7 @@ I'll Be There</p></td>
 <td><p>Eunha</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016年8月27日</p></td>
 <td><p>《<a href="../Page/灰姑娘與四騎士.md" title="wikilink">灰姑娘與四騎士</a>》</p></td>
 <td><p>《<a href="../Page/灰姑娘與四騎士.md" title="wikilink">灰姑娘與四騎士</a>》 OST Part 3</p></td>
@@ -347,7 +361,7 @@ I'll Be There</p></td>
 <td><p>SinB</p></td>
 <td><p>與 Si Jin</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016年9月28日</p></td>
 <td><p>《<a href="../Page/購物王路易.md" title="wikilink">購物王路易</a>》</p></td>
 <td><p>《<a href="../Page/購物王路易.md" title="wikilink">購物王路易</a>》 OST Part 2</p></td>
@@ -355,7 +369,7 @@ I'll Be There</p></td>
 <td><p>Umji</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016年12月5日</p></td>
 <td><p>《<a href="../Page/Pokemon_the_movie_XY&amp;Z_波爾凱尼恩與機關人偶_瑪機雅娜.md" title="wikilink">Pokemon the movie XY&amp;Z 波爾凱尼恩與機關人偶 瑪機雅娜</a>》</p></td>
 <td><p>口袋裡的信（주머니 속 편지）</p></td>
@@ -363,7 +377,7 @@ I'll Be There</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年10月2日</p></td>
 <td><p>《<a href="../Page/愛情的溫度.md" title="wikilink">愛情的溫度</a>》</p></td>
 <td><p>《<a href="../Page/愛情的溫度.md" title="wikilink">愛情的溫度</a>》 OST Part 2</p></td>
@@ -371,7 +385,7 @@ I'll Be There</p></td>
 <td><p>Eunha</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年11月9日</p></td>
 <td><p>《<a href="../Page/The_Package.md" title="wikilink">The Package</a>》</p></td>
 <td><p>《<a href="../Page/The_Package.md" title="wikilink">The Package</a>》 OST Part 5</p></td>
@@ -379,7 +393,7 @@ I'll Be There</p></td>
 <td><p>Eunha</p></td>
 <td><p>與Yoon Ddan Ddan</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年6月25日</p></td>
 <td><p>《<a href="../Page/金秘書為何那樣.md" title="wikilink">金秘書為何那樣</a>》</p></td>
 <td><p>《<a href="../Page/金秘書為何那樣.md" title="wikilink">金秘書為何那樣</a>》OST Part 3</p></td>
@@ -387,7 +401,7 @@ I'll Be There</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年8月7日</p></td>
 <td><p>《<a href="../Page/一起吃飯吧3：Begins.md" title="wikilink">一起吃飯吧3：Begins</a>》</p></td>
 <td><p>《<a href="../Page/一起吃飯吧3：Begins.md" title="wikilink">一起吃飯吧3：Begins</a>》OST Part 3</p></td>
@@ -395,7 +409,7 @@ I'll Be There</p></td>
 <td><p>Yuju</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年9月11日</p></td>
 <td><p>《<a href="../Page/Lovely_Horribly.md" title="wikilink">Lovely Horribly</a>》</p></td>
 <td><p>《<a href="../Page/Lovely_Horribly.md" title="wikilink">Lovely Horribly</a>》 OST Part 4</p></td>
@@ -403,7 +417,7 @@ I'll Be There</p></td>
 <td><p>Eunha</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年12月24日</p></td>
 <td><p>《<a href="../Page/福秀回來了.md" title="wikilink">福秀回來了</a>》</p></td>
 <td><p>《<a href="../Page/福秀回來了.md" title="wikilink">福秀回來了</a>》OST Part 5</p></td>
@@ -411,7 +425,7 @@ I'll Be There</p></td>
 <td><p>Yuju</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年1月28日</p></td>
 <td><p>《<a href="../Page/成為王的男人.md" title="wikilink">成為王的男人</a>》</p></td>
 <td><p>《<a href="../Page/成為王的男人.md" title="wikilink">成為王的男人</a>》OST Part 3</p></td>
@@ -419,7 +433,7 @@ I'll Be There</p></td>
 <td><p>Eunha</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年3月27日</p></td>
 <td><p>《한입만2》</p></td>
 <td><p>《한입만2》</p></td>
@@ -427,7 +441,7 @@ I'll Be There</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -442,9 +456,8 @@ I'll Be There</p></td>
 
 ### 合作單曲
 
-|        |                      |                                                                                                                                                                              |                                                                                                   |
-| ------ | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | 年份     | 發佈日期                 | 歌曲名稱                                                                                                                                                                         | 歌手                                                                                                |
+| ------ | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | 2015   | 10月21日               | 漢江的夜晚 (밤에 본 한강)                                                                                                                                                              | [Pro C](../Page/Pro_C.md "wikilink")、Eunha                                                        |
 | 2016   | 3月11日                | Cherish (보일 듯 말 듯)                                                                                                                                                           | Yuju、[善燏](../Page/UP10TION.md "wikilink")                                                         |
 | 5月25日  | 自卑感 (자격지심)           | [朴經](../Page/朴經.md "wikilink")、Eunha                                                                                                                                         |                                                                                                   |

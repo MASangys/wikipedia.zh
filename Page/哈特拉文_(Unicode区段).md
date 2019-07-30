@@ -1,4 +1,4 @@
-**哈特拉文**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了在伊拉克的[哈特拉发现的哈特拉字母](../Page/哈特拉.md "wikilink")，用来拼写一种[亞拉姆语](https://zh.wikipedia.org/wiki/亞拉姆语 "wikilink")。
+**哈特拉文**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了在伊拉克的[哈特拉](../Page/哈特拉.md "wikilink")发现的哈特拉字母，用来拼写一种[亞拉姆语](https://zh.wikipedia.org/wiki/亞拉姆语 "wikilink")。
 
 <table>
 <tbody>

@@ -1,5 +1,4 @@
-**Shaba
-Games**，是在1997年9月成立的游戏开发商，位于加利福尼亚州旧金山市。2002年被动视收购。2009年10月8日，动视关闭该工作室。\[1\]
+**Shaba Games**，是在1997年9月成立的游戏开发商，位于加利福尼亚州旧金山市。2002年被动视收购。2009年10月8日，动视关闭该工作室。\[1\]
 
 ## 旗下游戏
 
@@ -17,10 +16,6 @@ Games**，是在1997年9月成立的游戏开发商，位于加利福尼亚州�
 
 ## 参考资料
 
-[Category:1997年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1997年開業電子遊戲公司 "wikilink")
-[Category:2009年結業公司](https://zh.wikipedia.org/wiki/Category:2009年結業公司 "wikilink")
-[Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:美國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國已結業電子遊戲公司 "wikilink")
+[Category:1997年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1997年開業電子遊戲公司 "wikilink") [Category:2009年結業公司](https://zh.wikipedia.org/wiki/Category:2009年結業公司 "wikilink") [Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:美國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國已結業電子遊戲公司 "wikilink")
 
 1.

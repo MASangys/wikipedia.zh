@@ -1,6 +1,6 @@
-**第四大道線**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT分部一條](../Page/布魯克林-曼哈頓運輸股份有限公司.md "wikilink")[地鐵路線](../Page/地鐵.md "wikilink")，在[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")下方運行，路線有[D線](../Page/紐約地鐵D線.md "wikilink")、[N線與](../Page/紐約地鐵N線.md "wikilink")[R線途經](../Page/紐約地鐵R線.md "wikilink")，另外繁忙時段還有少量[W線列車使用此線](../Page/紐約地鐵W線.md "wikilink")。R線任何時候都以慢車營運，而D線與N線在日間以快車營運，深夜以慢車營運，所有W線列車都使用慢車軌道。
+**第四大道線**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT分部一條](../Page/布魯克林-曼哈頓運輸股份有限公司.md "wikilink")[地鐵](../Page/地鐵.md "wikilink")路線，在[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")下方運行，路線有[D線](../Page/紐約地鐵D線.md "wikilink")、[N線與](../Page/紐約地鐵N線.md "wikilink")[R線途經](../Page/紐約地鐵R線.md "wikilink")，另外繁忙時段還有少量[W線列車使用此線](../Page/紐約地鐵W線.md "wikilink")。R線任何時候都以慢車營運，而D線與N線在日間以快車營運，深夜以慢車營運，所有W線列車都使用慢車軌道。
 
-此線全線位於地下，以[法庭街以西的](https://zh.wikipedia.org/wiki/法庭街車站_\(BMT第四大道線\) "wikilink")開始，是雙線鐵路，並與來自[曼哈頓的](../Page/曼哈頓.md "wikilink")[BMT百老匯線和](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")[BMT納蘇街線連接](https://zh.wikipedia.org/wiki/BMT納蘇街線 "wikilink")，在[東河下方途經](../Page/東河_\(紐約市\).md "wikilink")。其向東下穿蒙塔格街和威爾勞夫比街到[德卡爾布大道](https://zh.wikipedia.org/wiki/德卡爾布大道車站_\(BMT第四大道線\) "wikilink")，之後在下轉向東南。在德卡爾布大道車站，由西北面[曼哈頓大橋來的快車軌道](../Page/曼哈頓大橋.md "wikilink")，自[BMT布萊頓線分岔並與第四大道線匯合](https://zh.wikipedia.org/wiki/BMT布萊頓線 "wikilink")。在[大西洋大道-巴克萊中心](https://zh.wikipedia.org/wiki/大西洋大道-巴克萊中心車站_\(BMT第四大道線\) "wikilink")，路線在第四大道下方轉向西南，直至總站[灣脊區-95街](https://zh.wikipedia.org/wiki/灣脊區-95街車站_\(BMT第四大道線\) "wikilink")。由大西洋大道向南，[36街有](https://zh.wikipedia.org/wiki/36街車站_\(BMT第四大道線\) "wikilink")[BMT西城線自快](../Page/BMT西城線.md "wikilink")、慢車軌道分岔，快車軌道在[59街以南成為](https://zh.wikipedia.org/wiki/59街車站_\(BMT第四大道線\) "wikilink")[BMT海灘線](https://zh.wikipedia.org/wiki/BMT海灘線 "wikilink")。
+此線全線位於地下，以[法庭街以西的](https://zh.wikipedia.org/wiki/法庭街車站_\(BMT第四大道線\) "wikilink")開始，是雙線鐵路，並與來自[曼哈頓](../Page/曼哈頓.md "wikilink")的[BMT百老匯線和](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")[BMT納蘇街線連接](https://zh.wikipedia.org/wiki/BMT納蘇街線 "wikilink")，在[東河下方途經](../Page/東河_\(紐約市\).md "wikilink")。其向東下穿蒙塔格街和威爾勞夫比街到[德卡爾布大道](https://zh.wikipedia.org/wiki/德卡爾布大道車站_\(BMT第四大道線\) "wikilink")，之後在下轉向東南。在德卡爾布大道車站，由西北面[曼哈頓大橋](../Page/曼哈頓大橋.md "wikilink")來的快車軌道，自[BMT布萊頓線分岔並與第四大道線匯合](https://zh.wikipedia.org/wiki/BMT布萊頓線 "wikilink")。在[大西洋大道-巴克萊中心](https://zh.wikipedia.org/wiki/大西洋大道-巴克萊中心車站_\(BMT第四大道線\) "wikilink")，路線在第四大道下方轉向西南，直至總站[灣脊區-95街](https://zh.wikipedia.org/wiki/灣脊區-95街車站_\(BMT第四大道線\) "wikilink")。由大西洋大道向南，[36街有](https://zh.wikipedia.org/wiki/36街車站_\(BMT第四大道線\) "wikilink")[BMT西城線](../Page/BMT西城線.md "wikilink")自快、慢車軌道分岔，快車軌道在[59街以南成為](https://zh.wikipedia.org/wiki/59街車站_\(BMT第四大道線\) "wikilink")[BMT海灘線](https://zh.wikipedia.org/wiki/BMT海灘線 "wikilink")。
 
 第四大道從未有任何有軌電車或高架鐵路\[1\]。路線的建設工程在當地社區的努力下才得以開展。路線通車後，路線興建造成的發展轉化成為像迪克高地、漢密爾頓堡和灣脊區的社區。其中一個車站在1956年因為德卡爾布大道交匯車站重置而廢棄。
 
@@ -332,8 +332,7 @@
 
 ## 参考资料及外部链接
 
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1915年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1915年啟用的鐵路線 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1915年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1915年啟用的鐵路線 "wikilink")
 
 1.
 

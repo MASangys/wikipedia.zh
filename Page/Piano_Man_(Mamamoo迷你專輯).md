@@ -1,6 +1,4 @@
-《**Piano
-Man**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MAMAMOO的第二張韓語迷你專輯](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")，由[CJ
-E\&M於](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")2014年11月21日發行。
+《**Piano Man**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MAMAMOO的第二張韓語迷你專輯](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")，由[CJ E\&M於](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")2014年11月21日發行。
 
 ## 曲目
 
@@ -16,6 +14,4 @@ E\&M於](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")2014年11月21�
   -
 ## 參考文獻
 
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:Mamamoo音樂專輯](https://zh.wikipedia.org/wiki/Category:Mamamoo音樂專輯 "wikilink")
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
+[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:Mamamoo音樂專輯](https://zh.wikipedia.org/wiki/Category:Mamamoo音樂專輯 "wikilink") [Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")

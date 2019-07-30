@@ -1,12 +1,10 @@
-**MICHI**，[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")。出身於[沖繩縣](../Page/沖繩縣.md "wikilink")[沖繩市](../Page/沖繩市.md "wikilink")\[1\]。A型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[2\]。
+**MICHI**，[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")。出身於[沖繩縣](../Page/沖繩縣.md "wikilink")[沖繩市](../Page/沖繩市.md "wikilink")\[1\]。A型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[2\]。
 
 ## 來歷
 
 2013年3月，當時還在讀高中的MICHI參加當地第7代形象女孩的一般公開徵選\[3\]\[4\]，入選後曾經服務2年。
 
-2015年春天，MICHI完成高中學業之後，前往東京發展\[5\]。於同年7月首播的[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[六花的勇者](https://zh.wikipedia.org/wiki/六花的勇者 "wikilink")》片尾曲主唱甄選會中合格。其後音樂製作公司[Elements
-Garden為MICHI歌曲負責企劃製作](../Page/Elements_Garden.md "wikilink")，並以同年7月22日發行的雙主打單曲「Cry
-for the Truth/Secret Sky」正式出道\[6\]。
+2015年春天，MICHI完成高中學業之後，前往東京發展\[5\]。於同年7月首播的[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[六花的勇者](https://zh.wikipedia.org/wiki/六花的勇者 "wikilink")》片尾曲主唱甄選會中合格。其後音樂製作公司[Elements Garden為MICHI歌曲負責企劃製作](../Page/Elements_Garden.md "wikilink")，並以同年7月22日發行的雙主打單曲「Cry for the Truth/Secret Sky」正式出道\[6\]。
 
 2018年4月，MICHI從[swallow離所](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，加入\[7\]。
 
@@ -99,12 +97,7 @@ for the Truth/Secret Sky」正式出道\[6\]。
 
   -
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:波麗佳音](https://zh.wikipedia.org/wiki/Category:波麗佳音 "wikilink")
-[Category:沖繩縣出身人物](https://zh.wikipedia.org/wiki/Category:沖繩縣出身人物 "wikilink")
-[Category:1996年出生](https://zh.wikipedia.org/wiki/Category:1996年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:波麗佳音](https://zh.wikipedia.org/wiki/Category:波麗佳音 "wikilink") [Category:沖繩縣出身人物](https://zh.wikipedia.org/wiki/Category:沖繩縣出身人物 "wikilink") [Category:1996年出生](https://zh.wikipedia.org/wiki/Category:1996年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.
 2.

@@ -805,8 +805,7 @@
 
 ## 同期競爭作品
 
-  - [KBS](../Page/韓國放送公社.md "wikilink")：《[鄰家律師趙德浩](../Page/鄰家律師趙德浩.md "wikilink")》、《[白熙回來了](../Page/白熙回來了.md "wikilink")》、《[Beautiful
-    Mind](../Page/Beautiful_Mind.md "wikilink")》、《[雲畫的月光](../Page/雲畫的月光.md "wikilink")》
+  - [KBS](../Page/韓國放送公社.md "wikilink")：《[鄰家律師趙德浩](../Page/鄰家律師趙德浩.md "wikilink")》、《[白熙回來了](../Page/白熙回來了.md "wikilink")》、《[Beautiful Mind](../Page/Beautiful_Mind.md "wikilink")》、《[雲畫的月光](../Page/雲畫的月光.md "wikilink")》
   - [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")：《[大撲](../Page/大撲.md "wikilink")》、《[Doctors](../Page/Doctors.md "wikilink")》、《[月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink")》
 
 ## 獎項
@@ -904,11 +903,10 @@
 
 ## 其他
 
-  - [姜至奐與](../Page/姜至奐.md "wikilink")[成宥利二人繼](../Page/成宥利.md "wikilink")2008年[KBS電視台電視劇](../Page/韓國放送公社.md "wikilink")《[快刀洪吉童](../Page/快刀洪吉童.md "wikilink")》後時隔9年再度合作。
-  - [姜至奐與](../Page/姜至奐.md "wikilink")[張英哲作家二人繼](../Page/張英哲.md "wikilink")2013年[SBS電視劇](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[錢的化身](../Page/錢的化身.md "wikilink")》後時隔3年再度合作。
-  - [鄭寶石](https://zh.wikipedia.org/wiki/鄭寶石 "wikilink")、[張英哲和](../Page/張英哲.md "wikilink")[李德華繼](https://zh.wikipedia.org/wiki/李德華 "wikilink")2006年[KBS播出的電視劇](../Page/韓國放送公社.md "wikilink")《[大祚榮](../Page/大祚榮_\(電視劇\).md "wikilink")》、2010年[SBS的](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[Giant](../Page/巨人_\(韓國電視劇\).md "wikilink")》和2012年[SBS的](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[工薪族楚漢誌](https://zh.wikipedia.org/wiki/工薪族楚漢誌 "wikilink")》後三人第四度合作。
-  - 此劇與SBS的《[Doctors](../Page/Doctors.md "wikilink")》及KBS的《[Beautiful
-    Mind](../Page/Beautiful_Mind.md "wikilink")》月火連續劇皆是以英文作劇名，為韓國電視台首次出現此情況。
+  - [姜至奐](../Page/姜至奐.md "wikilink")與[成宥利](../Page/成宥利.md "wikilink")二人繼2008年[KBS電視台電視劇](../Page/韓國放送公社.md "wikilink")《[快刀洪吉童](../Page/快刀洪吉童.md "wikilink")》後時隔9年再度合作。
+  - [姜至奐](../Page/姜至奐.md "wikilink")與[張英哲](../Page/張英哲.md "wikilink")作家二人繼2013年[SBS電視劇](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[錢的化身](../Page/錢的化身.md "wikilink")》後時隔3年再度合作。
+  - [鄭寶石](https://zh.wikipedia.org/wiki/鄭寶石 "wikilink")、[張英哲](../Page/張英哲.md "wikilink")和[李德華繼](https://zh.wikipedia.org/wiki/李德華 "wikilink")2006年[KBS播出的電視劇](../Page/韓國放送公社.md "wikilink")《[大祚榮](../Page/大祚榮_\(電視劇\).md "wikilink")》、2010年[SBS的](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[Giant](../Page/巨人_\(韓國電視劇\).md "wikilink")》和2012年[SBS的](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[工薪族楚漢誌](https://zh.wikipedia.org/wiki/工薪族楚漢誌 "wikilink")》後三人第四度合作。
+  - 此劇與SBS的《[Doctors](../Page/Doctors.md "wikilink")》及KBS的《[Beautiful Mind](../Page/Beautiful_Mind.md "wikilink")》月火連續劇皆是以英文作劇名，為韓國電視台首次出現此情況。
 
 ## 腳註
 
@@ -916,14 +914,9 @@
 
   - [韓國MBC官方網站](http://www.imbc.com/broad/tv/drama/monster/index.html)
 
-[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink")
-[Category:張英哲劇本作品](https://zh.wikipedia.org/wiki/Category:張英哲劇本作品 "wikilink")
-[Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink")
-[Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
+[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:張英哲劇本作品](https://zh.wikipedia.org/wiki/Category:張英哲劇本作品 "wikilink") [Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink") [Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
 
-1.  [傳黃正音將出演新劇《暴君》
-    官方：正在商討](http://www.allthatstar.com/tw/view.php?action=5205&postID=186480)
-     全星網
+1.  [傳黃正音將出演新劇《暴君》 官方：正在商討](http://www.allthatstar.com/tw/view.php?action=5205&postID=186480)  全星網
 2.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 3.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)
 4.  8月8日因直播奧運賽事而停播，當週只播一集。

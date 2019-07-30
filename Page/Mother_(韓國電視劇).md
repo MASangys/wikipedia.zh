@@ -1,9 +1,8 @@
-《**Mother**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2018年1月24日起播出的[水木連續劇](https://zh.wikipedia.org/wiki/tvN水木連續劇 "wikilink")，由《[芝加哥打字機](../Page/芝加哥打字機_\(電視劇\).md "wikilink")》[金哲圭導演執導與電影](../Page/金哲圭.md "wikilink")《[下女的誘惑](../Page/下女的誘惑.md "wikilink")》鄭瑞京作家合作打造。此劇翻拍自同名日劇《[Mother](https://zh.wikipedia.org/wiki/2個媽媽 "wikilink")》，講述一個小學老師為了救活一個受虐的小學生，而自願成為其假母親並將其帶離受虐環境的故事\[1\]\[2\]\[3\]。
+《**Mother**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2018年1月24日起播出的[水木連續劇](https://zh.wikipedia.org/wiki/tvN水木連續劇 "wikilink")，由《[芝加哥打字機](../Page/芝加哥打字機_\(電視劇\).md "wikilink")》[金哲圭](../Page/金哲圭.md "wikilink")導演執導與電影《[下女的誘惑](../Page/下女的誘惑.md "wikilink")》鄭瑞京作家合作打造。此劇翻拍自同名日劇《[Mother](https://zh.wikipedia.org/wiki/2個媽媽 "wikilink")》，講述一個小學老師為了救活一個受虐的小學生，而自願成為其假母親並將其帶離受虐環境的故事\[1\]\[2\]\[3\]。
 
 愛奇藝台灣站1月25日起，每周四、五上午10點播出。香港由[奇妙77台播出](https://zh.wikipedia.org/wiki/奇妙77台 "wikilink")。
 
-另外，[tvN
-Asia於新加坡和馬來西亞於韓國播放後](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")24小時之內同日播出。
+另外，[tvN Asia於新加坡和馬來西亞於韓國播放後](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")24小時之內同日播出。
 
 ## 演員陣容
 
@@ -468,12 +467,9 @@ Asia於新加坡和馬來西亞於韓國播放後](https://zh.wikipedia.org/wiki
 
 ## 同期競爭作品
 
-  - [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")
-    [水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")：《[不是機器人啊](../Page/不是機器人啊.md "wikilink")》、《[白色巨塔](../Page/白色巨塔_\(2007年韓劇\).md "wikilink")》（重播）
-  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
-    [水木連續劇](../Page/KBS水木連續劇.md "wikilink")：《[黑騎士](../Page/黑騎士_\(韓國電視劇\).md "wikilink")》、《[推理的女王2](../Page/推理的女王2.md "wikilink")》
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [特別劇](../Page/SBS特別劇.md "wikilink")：《[Return](../Page/Return_\(韓國電視劇\).md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") [水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")：《[不是機器人啊](../Page/不是機器人啊.md "wikilink")》、《[白色巨塔](../Page/白色巨塔_\(2007年韓劇\).md "wikilink")》（重播）
+  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") [水木連續劇](../Page/KBS水木連續劇.md "wikilink")：《[黑騎士](../Page/黑騎士_\(韓國電視劇\).md "wikilink")》、《[推理的女王2](../Page/推理的女王2.md "wikilink")》
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink") [特別劇](../Page/SBS特別劇.md "wikilink")：《[Return](../Page/Return_\(韓國電視劇\).md "wikilink")》
 
 ## 提名&得獎列表
 
@@ -540,31 +536,14 @@ Asia於新加坡和馬來西亞於韓國播放後](https://zh.wikipedia.org/wiki
 
   - [韓國tvN官方網站](http://program.tving.com/tvn/mother/)
   - [tvN水木連續劇](https://www.facebook.com/tvNWedThuDrama/)FB官方專頁
-  - [MOTHER](https://web.archive.org/web/20180208230234/http://movie.daum.net/tv/main?tvProgramId=78420)
-    [DAUM](../Page/多音.md "wikilink")
-  - [MOTHER](http://m.entertain.naver.com/tvBrand/4193240)
-    [NAVER](../Page/NAVER.md "wikilink")
+  - [MOTHER](https://web.archive.org/web/20180208230234/http://movie.daum.net/tv/main?tvProgramId=78420) [DAUM](../Page/多音.md "wikilink")
+  - [MOTHER](http://m.entertain.naver.com/tvBrand/4193240) [NAVER](../Page/NAVER.md "wikilink")
   - [香港有線電視官方網站](http://epg.i-cable.com/ci/program/intro/585/媽媽)
 
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink")
-[Category:綁架題材作品](https://zh.wikipedia.org/wiki/Category:綁架題材作品 "wikilink")
-[Category:收養相關電視節目](https://zh.wikipedia.org/wiki/Category:收養相關電視節目 "wikilink")
-[Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink")
-[Category:教師主角電視劇](https://zh.wikipedia.org/wiki/Category:教師主角電視劇 "wikilink")
-[Category:家庭暴力題材電視劇](https://zh.wikipedia.org/wiki/Category:家庭暴力題材電視劇 "wikilink")
-[Category:虐待兒童作品](https://zh.wikipedia.org/wiki/Category:虐待兒童作品 "wikilink")
-[Category:日本電視劇改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:日本電視劇改編韓國電視劇 "wikilink")
-[Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:中天電視外購電視劇](https://zh.wikipedia.org/wiki/Category:中天電視外購電視劇 "wikilink")
+[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink") [Category:綁架題材作品](https://zh.wikipedia.org/wiki/Category:綁架題材作品 "wikilink") [Category:收養相關電視節目](https://zh.wikipedia.org/wiki/Category:收養相關電視節目 "wikilink") [Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink") [Category:教師主角電視劇](https://zh.wikipedia.org/wiki/Category:教師主角電視劇 "wikilink") [Category:家庭暴力題材電視劇](https://zh.wikipedia.org/wiki/Category:家庭暴力題材電視劇 "wikilink") [Category:虐待兒童作品](https://zh.wikipedia.org/wiki/Category:虐待兒童作品 "wikilink") [Category:日本電視劇改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:日本電視劇改編韓國電視劇 "wikilink") [Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:中天電視外購電視劇](https://zh.wikipedia.org/wiki/Category:中天電視外購電視劇 "wikilink")
 
-1.  [李寶英確定出演《Mother》
-    拍攝日期未定](http://www.allthatstar.com/tw/view.php?action=5210&postID=350575)，全星網，2017-07-27
-2.  [李寶英新劇《Mother》定檔
-    計劃明年上半年播出](http://www.allthatstar.com/tw/view.php?action=5210&postID=364663)，全星網，2017-09-27
-3.  [《Mother》發布首支預告
-    李寶英決心帶女逃亡](http://m.allthatstar.com/tw/view.php?action=5210&postID=380924)
-    ，全星網，2017-12-21
+1.  [李寶英確定出演《Mother》 拍攝日期未定](http://www.allthatstar.com/tw/view.php?action=5210&postID=350575)，全星網，2017-07-27
+2.  [李寶英新劇《Mother》定檔 計劃明年上半年播出](http://www.allthatstar.com/tw/view.php?action=5210&postID=364663)，全星網，2017-09-27
+3.  [《Mother》發布首支預告 李寶英決心帶女逃亡](http://m.allthatstar.com/tw/view.php?action=5210&postID=380924) ，全星網，2017-12-21
 4.
 5.

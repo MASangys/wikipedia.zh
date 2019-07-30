@@ -1,11 +1,6 @@
-《**Two Yoo Project - Sugar
-Man**》（）是韓國[JTBC電視台的音樂綜藝節目](../Page/JTBC.md "wikilink")\[1\]\[2\]，於2015年8月19日及8月26日以《Two
-Yoo Project - 尋找Sugar
-Man》為名試播；第一季自10月20日起至2016年7月12日止，逢韓國時間星期二晚上10時50分開始播放，每集約85分鐘\[3\]；第二季自2018年1月14日起，逢韓國時間星期日晚上10時30分開始播放。第一季主持人為[劉在錫](../Page/劉在錫.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、作詞家[金伊娜及](../Page/金伊娜.md "wikilink")[2NE1成員](../Page/2NE1.md "wikilink")[Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")。第二季主持人為[劉在錫](../Page/劉在錫.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、[Red
-Velvet成員](../Page/Red_Velvet.md "wikilink")[Joy及諧星](../Page/Joy_\(Red_Velvet\).md "wikilink")[朴娜勑](../Page/朴娜勑.md "wikilink")。
+《**Two Yoo Project - Sugar Man**》（）是韓國[JTBC](../Page/JTBC.md "wikilink")電視台的音樂綜藝節目\[1\]\[2\]，於2015年8月19日及8月26日以《Two Yoo Project - 尋找Sugar Man》為名試播；第一季自10月20日起至2016年7月12日止，逢韓國時間星期二晚上10時50分開始播放，每集約85分鐘\[3\]；第二季自2018年1月14日起，逢韓國時間星期日晚上10時30分開始播放。第一季主持人為[劉在錫](../Page/劉在錫.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、作詞家[金伊娜](../Page/金伊娜.md "wikilink")及[2NE1](../Page/2NE1.md "wikilink")成員[Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")。第二季主持人為[劉在錫](../Page/劉在錫.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、[Red Velvet成員](../Page/Red_Velvet.md "wikilink")[Joy及諧星](../Page/Joy_\(Red_Velvet\).md "wikilink")[朴娜勑](../Page/朴娜勑.md "wikilink")。
 
-節目尋找曾經風靡一時，但現在卻逐漸被遺忘的歌手，將其經典歌曲重新編製，並呈現出不一樣的舞台。每次邀請兩位Sugar Man、兩組Show
-Man、兩組製作人及100名10代到50代以上年齡層的觀眾，前半部分藉由聆聽申請原因及路人反應猜測歌曲及召喚歌手，後半部分由劉在錫及柳熙烈為首帶領的兩隊結構重編過程及進行經典歌曲再演繹的對決，並由100名觀眾投票選出該集獲勝隊伍。
+節目尋找曾經風靡一時，但現在卻逐漸被遺忘的歌手，將其經典歌曲重新編製，並呈現出不一樣的舞台。每次邀請兩位Sugar Man、兩組Show Man、兩組製作人及100名10代到50代以上年齡層的觀眾，前半部分藉由聆聽申請原因及路人反應猜測歌曲及召喚歌手，後半部分由劉在錫及柳熙烈為首帶領的兩隊結構重編過程及進行經典歌曲再演繹的對決，並由100名觀眾投票選出該集獲勝隊伍。
 
 ## 節目成員
 
@@ -48,7 +43,7 @@ Man、兩組製作人及100名10代到50代以上年齡層的觀眾，前半部�
 <tr class="even">
 <td></td>
 <td></td>
-<td><p>第二季主持；第12集缺席、第19集換<a href="../Page/金伊娜.md" title="wikilink">金伊娜擔任特別主持</a></p></td>
+<td><p>第二季主持；第12集缺席、第19集換<a href="../Page/金伊娜.md" title="wikilink">金伊娜</a>擔任特別主持</p></td>
 </tr>
 </tbody>
 </table>
@@ -122,7 +117,7 @@ Man、兩組製作人及100名10代到50代以上年齡層的觀眾，前半部�
 <td><p>在錫隊</p></td>
 <td><p><small><a href="../Page/素珍_(韓國歌手).md" title="wikilink">素珍</a>、出演<br />
 、<a href="../Page/韓尚進.md" title="wikilink">韓尚進</a>、<a href="../Page/卞真燮.md" title="wikilink">卞真燮</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/李鉉宇" title="wikilink">李鉉宇</a>、<a href="../Page/金慶皓.md" title="wikilink">金慶皓影像出演</a></small></p></td>
+<a href="https://zh.wikipedia.org/wiki/李鉉宇" title="wikilink">李鉉宇</a>、<a href="../Page/金慶皓.md" title="wikilink">金慶皓</a>影像出演</small></p></td>
 </tr>
 <tr class="odd">
 <td><p>熙烈隊</p></td>
@@ -272,7 +267,7 @@ Man、兩組製作人及100名10代到50代以上年齡層的觀眾，前半部�
 <td><p><small>頌樂、<a href="../Page/玟星.md" title="wikilink">玟星</a>（<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>）</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Brave_Brothers" title="wikilink">勇敢兄弟</a></p></td>
 <td><p>在錫隊</p></td>
-<td><p><small><a href="../Page/金正民.md" title="wikilink">金正民影像出演</a></small></p></td>
+<td><p><small><a href="../Page/金正民.md" title="wikilink">金正民</a>影像出演</small></p></td>
 </tr>
 <tr class="even">
 <td><p>熙烈隊</p></td>
@@ -317,11 +312,11 @@ Man、兩組製作人及100名10代到50代以上年齡層的觀眾，前半部�
 <td><p>黑眼必勝</p></td>
 <td><p>熙烈隊</p></td>
 <td><p><strong>Sugar Man特輯</strong><br />
-<small><a href="../Page/金亨錫.md" title="wikilink">金亨錫</a>、<a href="../Page/鄭在炯.md" title="wikilink">鄭在炯出演</a></small></p></td>
+<small><a href="../Page/金亨錫.md" title="wikilink">金亨錫</a>、<a href="../Page/鄭在炯.md" title="wikilink">鄭在炯</a>出演</small></p></td>
 </tr>
 <tr class="even">
 <td><p>熙烈隊</p></td>
-<td><p>故 <a href="../Page/朴容夏.md" title="wikilink">朴容夏(Who)</a></p></td>
+<td><p>故 <a href="../Page/朴容夏.md" title="wikilink">朴容夏</a>(Who)</p></td>
 <td><p>像第一天一樣<small>（）</small></p></td>
 <td><p><a href="../Page/姜均成.md" title="wikilink">姜均成</a>、全宇成（）</p></td>
 <td><p><a href="../Page/新沙洞老虎.md" title="wikilink">新沙洞老虎</a></p></td>
@@ -340,7 +335,7 @@ Man、兩組製作人及100名10代到50代以上年齡層的觀眾，前半部�
 （<a href="../Page/Brown_Eyed_Girls.md" title="wikilink">Brown Eyed Girls</a>）</p></td>
 <td></td>
 <td><p>熙烈隊</p></td>
-<td><p><small><a href="../Page/劉寅娜.md" title="wikilink">劉寅娜代班主持</a><br />
+<td><p><small><a href="../Page/劉寅娜.md" title="wikilink">劉寅娜</a>代班主持<br />
 出演<br />
 <a href="../Page/金楨勳.md" title="wikilink">金楨勳</a>（）影像出演</small></p></td>
 </tr>
@@ -536,7 +531,7 @@ OOON、載庸（<a href="../Page/HALO_(韓國組合).md" title="wikilink">HALO</
 <td></td>
 <td><p>在錫隊</p></td>
 <td><p><strong>Big Match特輯</strong><br />
-<small><a href="../Page/金淑.md" title="wikilink">金淑影像出演</a></small></p></td>
+<small><a href="../Page/金淑.md" title="wikilink">金淑</a>影像出演</small></p></td>
 </tr>
 <tr class="even">
 <td><p>熙烈隊</p></td>
@@ -565,7 +560,7 @@ OOON、載庸（<a href="../Page/HALO_(韓國組合).md" title="wikilink">HALO</
 </tr>
 <tr class="even">
 <td><p>熙烈隊</p></td>
-<td><p><a href="../Page/姜成妍.md" title="wikilink">姜成妍(Bobo)</a></p></td>
+<td><p><a href="../Page/姜成妍.md" title="wikilink">姜成妍</a>(Bobo)</p></td>
 <td><p>遲來的後悔<small>（）</small></p></td>
 <td><p><a href="../Page/高潤荷.md" title="wikilink">Younha</a></p></td>
 <td></td>
@@ -608,7 +603,7 @@ OOON、載庸（<a href="../Page/HALO_(韓國組合).md" title="wikilink">HALO</
 <td><p>濟東隊</p></td>
 <td><p><strong>次世代Diva<br />
 Big Match特輯</strong><br />
-<small><a href="../Page/金濟東.md" title="wikilink">金濟東代班主持</a><br />
+<small><a href="../Page/金濟東.md" title="wikilink">金濟東</a>代班主持<br />
 《<a href="https://zh.wikipedia.org/wiki/拜託了冰箱" title="wikilink">拜託了冰箱</a>》劇組影像出演</small></p></td>
 </tr>
 <tr class="even">
@@ -1142,7 +1137,7 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <p><strong>Sugar Man，在那之後</strong><br />
 <a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>、<a href="https://zh.wikipedia.org/wiki/洪京民" title="wikilink">洪京民</a>、（、<a href="https://zh.wikipedia.org/wiki/姜斗" title="wikilink">姜斗</a>）、金賢廷（）、<a href="../Page/Diva_(音樂團體).md" title="wikilink">Diva</a>（<a href="../Page/金佳英.md" title="wikilink">Vicky</a>、、）、（）、、<br />
 <a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>、、吳真成（）、<a href="../Page/金多炫.md" title="wikilink">金多炫</a>（）、、、、高載根（）、（朴俊植、<a href="../Page/智鉉寓.md" title="wikilink">智鉉寓</a>）、<br />
-（）、<a href="https://zh.wikipedia.org/wiki/李承鉉" title="wikilink">李承鉉</a>（<a href="../Page/TAKE_(音樂團體).md" title="wikilink">TAKE</a>）、<a href="../Page/戚薇.md" title="wikilink">戚薇出演</a>；、影像出演</p></td>
+（）、<a href="https://zh.wikipedia.org/wiki/李承鉉" title="wikilink">李承鉉</a>（<a href="../Page/TAKE_(音樂團體).md" title="wikilink">TAKE</a>）、<a href="../Page/戚薇.md" title="wikilink">戚薇</a>出演；、影像出演</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1179,7 +1174,7 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p>情<small>（）</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/gu9udan" title="wikilink">gu9udan</a></p></td>
 <td><p>在錫隊</p></td>
-<td><p><small>、<a href="../Page/李孝利.md" title="wikilink">李孝利影像出演</a></small></p></td>
+<td><p><small>、<a href="../Page/李孝利.md" title="wikilink">李孝利</a>影像出演</small></p></td>
 </tr>
 <tr class="even">
 <td><p>熙烈隊</p></td>
@@ -1199,7 +1194,7 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p>I Love You</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Gummy" title="wikilink">Gummy</a></p></td>
 <td><p>在錫隊</p></td>
-<td><p><small><a href="../Page/徐敏貞.md" title="wikilink">徐敏貞影像出演</a></small></p></td>
+<td><p><small><a href="../Page/徐敏貞.md" title="wikilink">徐敏貞</a>影像出演</small></p></td>
 </tr>
 <tr class="even">
 <td><p>熙烈隊</p></td>
@@ -1382,11 +1377,11 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p>熙烈隊</p></td>
 <td><p><small>、、、<br />
 、、<a href="https://zh.wikipedia.org/wiki/高誠真" title="wikilink">高誠真特別出演</a><br />
-<a href="../Page/蘇志燮.md" title="wikilink">蘇志燮影像出演</a></small></p></td>
+<a href="../Page/蘇志燮.md" title="wikilink">蘇志燮</a>影像出演</small></p></td>
 </tr>
 <tr class="even">
 <td><p>熙烈隊</p></td>
-<td><p>故 <a href="../Page/崔真永.md" title="wikilink">崔真永(Sky)</a></p></td>
+<td><p>故 <a href="../Page/崔真永.md" title="wikilink">崔真永</a>(Sky)</p></td>
 <td><p>永遠<small>（）</small></p></td>
 <td><p><a href="../Page/B1A4.md" title="wikilink">B1A4</a></p></td>
 <td></td>
@@ -1403,8 +1398,8 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p><a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a></p></td>
 <td><p>熙烈隊</p></td>
 <td><p><strong>Dance百盞燈衝啊特輯</strong><br />
-<small><a href="../Page/薛仁雅.md" title="wikilink">薛仁雅代班主持</a><br />
-<a href="../Page/李玟雨.md" title="wikilink">李玟雨影像出演</a></small></p></td>
+<small><a href="../Page/薛仁雅.md" title="wikilink">薛仁雅</a>代班主持<br />
+<a href="../Page/李玟雨.md" title="wikilink">李玟雨</a>影像出演</small></p></td>
 </tr>
 <tr class="even">
 <td><p>熙烈隊</p></td>
@@ -1447,7 +1442,7 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td></td>
 <td><p>在錫隊</p></td>
 <td><p><strong>God名曲特輯第二彈</strong><br />
-<small><a href="../Page/孫昊永.md" title="wikilink">孫昊永影像出演</a></small></p></td>
+<small><a href="../Page/孫昊永.md" title="wikilink">孫昊永</a>影像出演</small></p></td>
 </tr>
 <tr class="even">
 <td><p>熙烈隊</p></td>
@@ -1507,7 +1502,7 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p>不是你而是你姐姐<small>（）</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/K.Will" title="wikilink">K.Will</a> &amp; </p></td>
 <td><p>熙烈隊</p></td>
-<td><p><small><a href="../Page/鄭俊英.md" title="wikilink">鄭俊英</a>、<a href="../Page/金守美.md" title="wikilink">金守美影像出演</a></small></p></td>
+<td><p><small><a href="../Page/鄭俊英.md" title="wikilink">鄭俊英</a>、<a href="../Page/金守美.md" title="wikilink">金守美</a>影像出演</small></p></td>
 </tr>
 <tr class="even">
 <td><p>熙烈隊</p></td>
@@ -1527,7 +1522,7 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p>我愛你<small>（）</small></p></td>
 <td><p><a href="../Page/Forestella.md" title="wikilink">Forestella</a></p></td>
 <td><p>在錫隊</p></td>
-<td><p><small><a href="../Page/孫藝真.md" title="wikilink">孫藝真影像出演</a></small></p></td>
+<td><p><small><a href="../Page/孫藝真.md" title="wikilink">孫藝真</a>影像出演</small></p></td>
 </tr>
 <tr class="even">
 <td><p>熙烈隊</p></td>
@@ -1568,7 +1563,7 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p>天生緣分<small>（）</small></p></td>
 <td><p><a href="../Page/李遐怡.md" title="wikilink">李遐怡</a> &amp; </p></td>
 <td><p>熙烈隊</p></td>
-<td><p><small><a href="../Page/金伊娜.md" title="wikilink">金伊娜代班主持</a></small></p></td>
+<td><p><small><a href="../Page/金伊娜.md" title="wikilink">金伊娜</a>代班主持</small></p></td>
 </tr>
 <tr class="even">
 <td><p>熙烈隊</p></td>
@@ -2021,9 +2016,7 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
   -
   -
   -
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
+[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
 
 1.  [劉在錫,柳熙烈新節目8月播](http://kpopn.niusnews.com/=K0k21k31)Kpopn
 2.  [《尋找 Sugar Man》十月正式開播](http://kpopn.niusnews.com/=K0mm3nn9)Kpopn

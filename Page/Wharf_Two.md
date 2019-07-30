@@ -1,7 +1,4 @@
-**貳號碼頭**（）為香港[三人音樂組合](https://zh.wikipedia.org/wiki/三人音樂組合 "wikilink")，2017成為TVB旗下[Big
-Big Channel](https://zh.wikipedia.org/wiki/Big_Big_Channel "wikilink")
-音樂達人，成員分別Rachel ，Seito
-及Ed廖舒衡（負責[卡祖笛及](../Page/卡祖笛.md "wikilink")[搖鈴](https://zh.wikipedia.org/wiki/搖鈴 "wikilink")）。
+**貳號碼頭**（）為香港[三人音樂組合](https://zh.wikipedia.org/wiki/三人音樂組合 "wikilink")，2017成為TVB旗下[Big Big Channel](https://zh.wikipedia.org/wiki/Big_Big_Channel "wikilink") 音樂達人，成員分別Rachel ，Seito 及Ed廖舒衡（負責[卡祖笛](../Page/卡祖笛.md "wikilink")及[搖鈴](https://zh.wikipedia.org/wiki/搖鈴 "wikilink")）。
 
 原身為於[尖沙咀2號碼頭進行](../Page/九龍公眾碼頭.md "wikilink")[街头表演](https://zh.wikipedia.org/wiki/街头表演 "wikilink")（[Busking](https://zh.wikipedia.org/wiki/Busking "wikilink")）開始，後慢慢被嘗識，到各場地表演。
 
@@ -19,12 +16,10 @@ Big Channel](https://zh.wikipedia.org/wiki/Big_Big_Channel "wikilink")
 
 ## 外部連結
 
-  - [WharfTwo 貳號碼頭的 Big Big Channel
-    個人主頁](https://mobileapp.bigbigchannel.com.hk/web/users/hk/ybGGPObn)
+  - [WharfTwo 貳號碼頭的 Big Big Channel 個人主頁](https://mobileapp.bigbigchannel.com.hk/web/users/hk/ybGGPObn)
   - [Wharf Two 貳號碼頭 Facebook Page](http://www.facebook.com/wharftwo)
 
-[Category:香港音樂團體](https://zh.wikipedia.org/wiki/Category:香港音樂團體 "wikilink")
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
+[Category:香港音樂團體](https://zh.wikipedia.org/wiki/Category:香港音樂團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
 
 1.
 2.

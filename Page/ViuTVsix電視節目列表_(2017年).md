@@ -1,4 +1,4 @@
-本列表列出2017年由[香港](../Page/香港.md "wikilink")[ViuTVsix所播放的節目](../Page/ViuTVsix.md "wikilink")（只限綜藝及資訊節目）。
+本列表列出2017年由[香港](../Page/香港.md "wikilink")[ViuTVsix](../Page/ViuTVsix.md "wikilink")所播放的節目（只限綜藝及資訊節目）。
 
 除特別註明外，所有節目均為高清製作。
 
@@ -6,7 +6,7 @@
 
 ### 12:30時段
 
-[香港時間逢星期一](../Page/香港時間.md "wikilink")12:30-13:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一12:30-13:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -45,7 +45,7 @@ Showers of Blessing</p></td>
 
 ### 18:30/19:30時段
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")18:30-19:00播出；5月10日起改為19:30-20:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五18:30-19:00播出；5月10日起改為19:30-20:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -283,7 +283,7 @@ Dog Patrol S4</p></td>
 
 ### 19:30時段
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")19:30-20:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五19:30-20:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -356,7 +356,7 @@ Pet Island</p></td>
 
 #### 星期一
 
-[香港時間逢星期一](../Page/香港時間.md "wikilink")20:30-21:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一20:30-21:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -460,7 +460,7 @@ Crimes That Shook Australia S2</p></td>
 
 #### 星期二
 
-[香港時間逢星期二](../Page/香港時間.md "wikilink")20:30-21:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期二20:30-21:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -521,7 +521,7 @@ Surviving Evil S1</p></td>
 
 #### 星期三
 
-[香港時間逢星期三](../Page/香港時間.md "wikilink")20:30-21:30播出；9月13日至12月6日改為20:30-21:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期三20:30-21:30播出；9月13日至12月6日改為20:30-21:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -574,7 +574,7 @@ Around the Next Bend</p></td>
 <td style="text-align: center;"><p>主持：Dustin Corkery、Adrian Traquair</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
-外購節目（<a href="../Page/加拿大.md" title="wikilink">加拿大Minds</a> Eye Entertainment），10月11日改為21:30-22:00播出，11月29日暫停播映</p></td>
+外購節目（<a href="../Page/加拿大.md" title="wikilink">加拿大</a>Minds Eye Entertainment），10月11日改為21:30-22:00播出，11月29日暫停播映</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>13/12-<br />
@@ -586,14 +586,14 @@ Travel Safe, Not Sorry</p></td>
 <td style="text-align: center;"><p>主持：Tobias Scott</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
-外購節目（<a href="../Page/加拿大.md" title="wikilink">加拿大Stornoway</a> Productions）</p></td>
+外購節目（<a href="../Page/加拿大.md" title="wikilink">加拿大</a>Stornoway Productions）</p></td>
 </tr>
 </tbody>
 </table>
 
 #### 星期四
 
-[香港時間逢星期四](../Page/香港時間.md "wikilink")20:30-21:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期四20:30-21:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -667,7 +667,7 @@ Letters To Our Children</p></td>
 
 #### 星期五
 
-[香港時間逢星期五](../Page/香港時間.md "wikilink")20:30-21:30播出；7月14日至9月29日改為20:00-21:10播出；11月3日起改為20:30-21:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期五20:30-21:30播出；7月14日至9月29日改為20:00-21:10播出；11月3日起改為20:30-21:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -913,7 +913,7 @@ Danger Dogs</p></td>
 
 #### 星期三
 
-[香港時間逢星期三](../Page/香港時間.md "wikilink")21:00-21:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期三21:00-21:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -951,7 +951,7 @@ The Renovation King</p></td>
 
 #### 星期五
 
-[香港時間逢星期五](../Page/香港時間.md "wikilink")21:00-21:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期五21:00-21:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -992,7 +992,7 @@ Shred!</p></td>
 
 #### 星期五
 
-[香港時間逢星期五](../Page/香港時間.md "wikilink")21:10-23:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期五21:10-23:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1033,7 +1033,7 @@ Sing! China S2</p></td>
 
 #### 星期一至五
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")21:30-22:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五21:30-22:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1073,7 +1073,7 @@ Sing! China S2</p></td>
 
 #### 星期五
 
-[香港時間逢星期五](../Page/香港時間.md "wikilink")23:00-23:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期五23:00-23:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1122,8 +1122,7 @@ Thirsty Work S3</p></td>
 
 ### 00:00時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")<small>（星期五深夜）
-</small>00:00-02:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六<small>（星期五深夜） </small>00:00-02:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1164,7 +1163,7 @@ WWE Raw</p></td>
 
 ### 13:00/13:30時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")、日13:00-14:00（12月9日起改為13:30-14:30）播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六、日13:00-14:00（12月9日起改為13:30-14:30）播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1425,7 +1424,7 @@ Red Bull Cliptomaniacs</p></td>
 
 ### 19:30時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")、日19:30-20:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六、日19:30-20:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1499,7 +1498,7 @@ Culinary Heights at Ikarus</p></td>
 
 ### 20:00時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")、日20:00-21:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六、日20:00-21:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1549,7 +1548,7 @@ Letters To Our Children</p></td>
 
 ### 10:00時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")10:00-11:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六10:00-11:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1590,7 +1589,7 @@ Letters To Our Children</p></td>
 
 ### 21:30時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")21:30-22:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六21:30-22:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1640,8 +1639,7 @@ Scotch: The Story of Whisky</p></td>
 
 ### 00:00時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")<small>（星期六深夜）
-</small>00:00-00:30播出；8月13日起改為00:00-01:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日<small>（星期六深夜） </small>00:00-00:30播出；8月13日起改為00:00-01:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1735,7 +1733,7 @@ Against the Ropes S2</p></td>
 
 ### 15:00時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")15:00-16:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日15:00-16:00播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1826,7 +1824,7 @@ Chart Folio</p></td>
 
 ### 21:30時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")21:30-22:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日21:30-22:30播出
 
 <table style="width:240%;">
 <colgroup>
@@ -1886,8 +1884,7 @@ Bullied</p></td>
 
 ### 00:00時段
 
-[香港時間逢星期一](../Page/香港時間.md "wikilink")<small>（星期日深夜）
-</small>00:00-00:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一<small>（星期日深夜） </small>00:00-00:30播出
 
 <table style="width:240%;">
 <colgroup>

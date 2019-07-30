@@ -1,35 +1,32 @@
-**EXO PLANET \#3 - The EXO'rDIUM
--**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[EXO於](../Page/EXO.md "wikilink")2016年舉辦的第三次巡迴演唱會。本次演唱會主題是有「開始、緒論」意思的單字「exordium」。如同主題一般，這次演唱會將成為以正規三輯《[EX'ACT](../Page/EX'ACT.md "wikilink")》回歸的
-EXO，完美展現更加成長面貌的新序幕」與「演唱會將以結合 EXO 的世界觀、音樂、表演的舞台，讓觀眾陷入 EXO 的魅力中。\[1\]
+**EXO PLANET \#3 - The EXO'rDIUM -**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[EXO](../Page/EXO.md "wikilink")於2016年舉辦的第三次巡迴演唱會。本次演唱會主題是有「開始、緒論」意思的單字「exordium」。如同主題一般，這次演唱會將成為以正規三輯《[EX'ACT](../Page/EX'ACT.md "wikilink")》回歸的 EXO，完美展現更加成長面貌的新序幕」與「演唱會將以結合 EXO 的世界觀、音樂、表演的舞台，讓觀眾陷入 EXO 的魅力中。\[1\]
 
 ## 概述
 
-2016年6月15日，[SM娛樂公佈舉辦](../Page/SM娛樂.md "wikilink")[EXO第三次單獨演唱會的消息](../Page/EXO.md "wikilink")，演唱會將於7月23－24日及29－31日（共5日）在[首爾奧林匹克體操競技場舉行](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink")。演唱會門票分兩次預訂，以確保順利預訂門票，7月23－24日的門票於6月21日下午8時（[韓國標準時](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")），29－31日的門票於6月23日下午8時（[韓國標準時](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")）通過互聯網訂票網站[YES24](http://ticket.yes24.com)預訂。6月30日，[SM娛樂於](../Page/SM娛樂.md "wikilink")[Youtube官方頻道公開演唱會預告](https://zh.wikipedia.org/wiki/Youtube "wikilink")。\[2\]
+2016年6月15日，[SM娛樂](../Page/SM娛樂.md "wikilink")公佈舉辦[EXO](../Page/EXO.md "wikilink")第三次單獨演唱會的消息，演唱會將於7月23－24日及29－31日（共5日）在[首爾奧林匹克體操競技場舉行](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink")。演唱會門票分兩次預訂，以確保順利預訂門票，7月23－24日的門票於6月21日下午8時（[韓國標準時](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")），29－31日的門票於6月23日下午8時（[韓國標準時](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")）通過互聯網訂票網站[YES24](http://ticket.yes24.com)預訂。6月30日，[SM娛樂](../Page/SM娛樂.md "wikilink")於[Youtube官方頻道公開演唱會預告](https://zh.wikipedia.org/wiki/Youtube "wikilink")。\[2\]
 
-7月1日，[SM娛樂公佈EXO演唱會將於](../Page/SM娛樂.md "wikilink")7月22日加開一場，而追加公演場次將於7月5日下午8時（[韓國標準時](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")）開售。\[3\]
+7月1日，[SM娛樂](../Page/SM娛樂.md "wikilink")公佈EXO演唱會將於7月22日加開一場，而追加公演場次將於7月5日下午8時（[韓國標準時](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")）開售。\[3\]
 
 這是EXO第三次舉辦單獨演唱會，是史上最初在體操競技場舉行六場公演的歌手，並超過了去年他們舉辦第二次演唱會時創造的五次公演紀錄。\[4\]
 
-8月10日，[SM娛樂宣布香港場定於](../Page/SM娛樂.md "wikilink")2017年2月11-12日，於香港亞洲國際博覽館Arena舉行巡演。
+8月10日，[SM娛樂](../Page/SM娛樂.md "wikilink")宣布香港場定於2017年2月11-12日，於香港亞洲國際博覽館Arena舉行巡演。
 
 ## 巡演事件
 
 ### Kai受傷
 
-7月23日第二場演唱會最後演出時，成員[Kai腳踝受傷](../Page/Kai.md "wikilink")，安可時並未出場，並前往醫院治療。
+7月23日第二場演唱會最後演出時，成員[Kai](../Page/Kai.md "wikilink")腳踝受傷，安可時並未出場，並前往醫院治療。
 
-7月24日第三場演唱會，隊長[Suho開場時表示](../Page/Suho.md "wikilink")，[Kai左腳腳踝受傷](../Page/Kai.md "wikilink")，並不能一起參與全部的舞台演出，但能夠一起完成的舞台一定會一起完成。
+7月24日第三場演唱會，隊長[Suho](../Page/Suho.md "wikilink")開場時表示，[Kai](../Page/Kai.md "wikilink")左腳腳踝受傷，並不能一起參與全部的舞台演出，但能夠一起完成的舞台一定會一起完成。
 
-7月29日至7月31日的三場演唱會，[Kai表示自己無法參與全部的舞台](../Page/Kai.md "wikilink")，但會時不時的穿插進來跟成員們一起表演。
+7月29日至7月31日的三場演唱會，[Kai](../Page/Kai.md "wikilink")表示自己無法參與全部的舞台，但會時不時的穿插進來跟成員們一起表演。
 
 ### 与《無限挑戰》合作
 
-年初《[無限挑戰之幸運的信](../Page/無限挑戰.md "wikilink")》特輯中，光熙向[劉在錫下達今年內](../Page/劉在錫.md "wikilink")（2016年）必須和[EXO完成合作舞台](../Page/EXO.md "wikilink")。[劉在錫於](../Page/劉在錫.md "wikilink")8月份期間進出SM娛樂公司與EXO練習，最後確定登上9月11日[EXO泰國演唱會巡演舞台](../Page/EXO.md "wikilink")。
+年初《[無限挑戰](../Page/無限挑戰.md "wikilink")之幸運的信》特輯中，光熙向[劉在錫](../Page/劉在錫.md "wikilink")下達今年內（2016年）必須和[EXO](../Page/EXO.md "wikilink")完成合作舞台。[劉在錫](../Page/劉在錫.md "wikilink")於8月份期間進出SM娛樂公司與EXO練習，最後確定登上9月11日[EXO](../Page/EXO.md "wikilink")泰國演唱會巡演舞台。
 
 ### Lay前往日本途中昏倒
 
-10月11日在韓國仁川國際機場出發往日本北海道準備演唱會，但因睡眠不足而在機場昏倒並移送醫院。經過短暫休息後翌日上午與 D.O.
-一同搭機前往日本，繼續演唱會的行程。
+10月11日在韓國仁川國際機場出發往日本北海道準備演唱會，但因睡眠不足而在機場昏倒並移送醫院。經過短暫休息後翌日上午與 D.O. 一同搭機前往日本，繼續演唱會的行程。
 
 ### Lay缺席部分演出
 
@@ -41,7 +38,7 @@ Lay由於個人活動關係，只出席2016年7月22-24、29-31日首爾開場�
 
 ### 安可演唱會
 
-2017年3月29日晚間，[EXO隊長](../Page/EXO.md "wikilink")[SUHO在官網宣布即將於](https://zh.wikipedia.org/wiki/SUHO "wikilink")5月27日、28日於可容納人數為6萬9千人的[蠶室奧林匹克主競技場舉辦安可演唱會](../Page/首爾奧林匹克主競技場.md "wikilink")，售票透過售票網站YES24在4月12日及4月18日開售。
+2017年3月29日晚間，[EXO](../Page/EXO.md "wikilink")隊長[SUHO在官網宣布即將於](https://zh.wikipedia.org/wiki/SUHO "wikilink")5月27日、28日於可容納人數為6萬9千人的[蠶室奧林匹克主競技場舉辦安可演唱會](../Page/首爾奧林匹克主競技場.md "wikilink")，售票透過售票網站YES24在4月12日及4月18日開售。
 
 ## 巡演時間表
 
@@ -350,9 +347,7 @@ Lay由於個人活動關係，只出席2016年7月22-24、29-31日首爾開場�
 
 <!-- end list -->
 
-  - [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream
-    Maker Entertainment
+  - [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream Maker Entertainment
 
 <!-- end list -->
 

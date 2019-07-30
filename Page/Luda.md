@@ -153,44 +153,58 @@
 
 ### 其它参演节目
 
-| 播出日期              | 电视台                                                   | 节目名称                                                    | 备注               |
-| ----------------- | ----------------------------------------------------- | ------------------------------------------------------- | ---------------- |
-| 2017年3月4日\[15\]   | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [Game show遊戲樂樂](../Page/Game_show遊戲樂樂.md "wikilink")    | 《现在圈饭吧》环节代班MC    |
-| 2017年8月19日\[16\]  |                                                       |                                                         |                  |
-| 2017年9月8日         | 《希澈游戏团》环节                                             |                                                         |                  |
-| 2017年9月16日\[17\]  | 《现在圈饭吧》环节代班MC、《希澈游戏团》环节                               |                                                         |                  |
-| 2017年9月23日        | 《希澈游戏团》环节                                             |                                                         |                  |
-| 2017年10月14日       |                                                       |                                                         |                  |
-| 2017年10月21日       |                                                       |                                                         |                  |
-| 2017年10月28日       |                                                       |                                                         |                  |
-| 2018年7月2日         | Lifetime                                              | Up\!Pretty\[18\]                                        | 与延靜共同出演          |
-| 2018年10月1日        | [KBS2](../Page/KBS第2频道.md "wikilink")                 | [大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")\[19\]      | 与苞娜共同出演          |
-| 2018年10月17日       | Celuv.TV                                              | I’m Celuv                                               | 与雪娥、秀份、夏天、延靜共同出演 |
-| 2018年10月21日       | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [喜劇大聯盟](../Page/喜劇大聯盟.md "wikilink")                    | 特別MC             |
-| 2018年10月30日及11月6日 | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [1 VS 100](../Page/1_VS_100.md "wikilink")              | 与恩熙、多榮共同出演       |
-| 2019年1月12日        | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [驚人的週六](https://zh.wikipedia.org/wiki/驚人的週六 "wikilink") | 与多榮共同出演          |
-| 2019年6月15日        | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [驚人的週六](https://zh.wikipedia.org/wiki/驚人的週六 "wikilink") |                  |
-|                   |                                                       |                                                         |                  |
+| 播出日期             | 电视台                                                   | 节目名称                                                    | 备注               |
+| ---------------- | ----------------------------------------------------- | ------------------------------------------------------- | ---------------- |
+| 2017年3月4日\[15\]  | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [Game show遊戲樂樂](../Page/Game_show遊戲樂樂.md "wikilink")    | 《现在圈饭吧》环节代班MC    |
+| 2017年8月19日\[16\] |                                                       |                                                         |                  |
+| 2017年9月8日        | 《希澈游戏团》环节                                             |                                                         |                  |
+| 2017年9月16日\[17\] | 《现在圈饭吧》环节代班MC、《希澈游戏团》环节                               |                                                         |                  |
+| 2017年9月23日       | 《希澈游戏团》环节                                             |                                                         |                  |
+| 2017年10月14日      |                                                       |                                                         |                  |
+| 2017年10月21日      |                                                       |                                                         |                  |
+| 2017年10月28日      |                                                       |                                                         |                  |
+| 2018年7月2日        | Lifetime                                              | Up\!Pretty\[18\]                                        | 与延靜共同出演          |
+| 2018年10月1日       | [KBS2](../Page/KBS第2频道.md "wikilink")                 | [大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")\[19\]      | 与苞娜共同出演          |
+| 2018年10月17日      | Celuv.TV                                              | I’m Celuv                                               | 与雪娥、秀份、夏天、延靜共同出演 |
+| 2018年10月21日      | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [喜劇大聯盟](../Page/喜劇大聯盟.md "wikilink")                    | 特別MC             |
+| 2018年10月30日      | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [1 VS 100](../Page/1_VS_100.md "wikilink")              | 与恩熙、多榮共同出演       |
+| 2018年11月6日       |                                                       |                                                         |                  |
+| 2019年1月12日       | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [驚人的週六](https://zh.wikipedia.org/wiki/驚人的週六 "wikilink") | 与多榮共同出演          |
+| 2019年6月15日       |                                                       |                                                         |                  |
+|                  |                                                       |                                                         |                  |
 
 ### 网络直播
 
 | 首次播出日期      | 直播平台  | 直播主题             | 至今集数 | 直播成员    | 备注                                                                                                                                                                      |
 | ----------- | ----- | ---------------- | ---- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2017年12月18日 | VLive | Luda的长高高伸展教室     | 4    | Luda    | 友情客串：延静（第2集）                                                                                                                                                            |
-| 2018年5月2日   | VLive | 宇宙Meki限定直播\[20\] | 3    | 雪娥、Luda | 限定团体[宇宙Meki直播](../Page/宇宙Meki.md "wikilink")，另外两位成员为[Weki Meki的](../Page/Weki_Meki.md "wikilink")[有情](../Page/磪有情.md "wikilink")、[度延](../Page/金度延.md "wikilink")，第3集为躺播 |
+| 2018年5月2日   | VLive | 宇宙Meki限定直播\[20\] | 3    | 雪娥、Luda | 限定团体[宇宙Meki](../Page/宇宙Meki.md "wikilink")直播，另外两位成员为[Weki Meki的](../Page/Weki_Meki.md "wikilink")[有情](../Page/磪有情.md "wikilink")、[度延](../Page/金度延.md "wikilink")，第3集为躺播 |
+
+## 代言
+
+  -
+    <small>——團體代言請參閱 [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")</small>
+
+### 品牌代言
+
+| 年份   | 品類   | 企業     | 品牌 | 合作藝人                                                                                                                                           |
+| ---- | ---- | ------ | -- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2018 | 網絡小說 | MUNPIA | －  | [雪娥](../Page/雪娥.md "wikilink")、[苞娜](../Page/苞娜.md "wikilink")、[恩熙](../Page/恩熙.md "wikilink")、[程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink") |
 
 ## 獎項
 
 <table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>受賞式</p></th>
+<th><p>獎項</p></th>
+<th><p>提名項目</p></th>
+<th><p>結果</p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td><p>年份</p></td>
-<td><p>受賞式</p></td>
-<td><p>獎項</p></td>
-<td><p>提名項目</p></td>
-<td><p>結果</p></td>
-</tr>
-<tr class="even">
 <td><p>2018年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC演藝大獎" title="wikilink">MBC演藝大獎</a></p></td>
 <td><p>綜藝部門──女子新人獎</p></td>
@@ -213,21 +227,7 @@
   -
   - [宇宙少女](http://cafe.daum.net/WJSNcosmic)的Daum Cafe
 
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韩国偶像艺人](https://zh.wikipedia.org/wiki/Category:韩国偶像艺人 "wikilink")
-[Category:韩国抒情音乐家](https://zh.wikipedia.org/wiki/Category:韩国抒情音乐家 "wikilink")
-[Category:李姓](https://zh.wikipedia.org/wiki/Category:李姓 "wikilink")
-[Category:宇宙少女成員](https://zh.wikipedia.org/wiki/Category:宇宙少女成員 "wikilink")
-[Category:宇宙Meki成員](https://zh.wikipedia.org/wiki/Category:宇宙Meki成員 "wikilink")
-[Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink")
-[Category:首尔特别市出身歌手](https://zh.wikipedia.org/wiki/Category:首尔特别市出身歌手 "wikilink")
-[Category:首尔特别市出身音乐家](https://zh.wikipedia.org/wiki/Category:首尔特别市出身音乐家 "wikilink")
-[Category:2016年出道](https://zh.wikipedia.org/wiki/Category:2016年出道 "wikilink")
-[Category:海城女子中学校友](https://zh.wikipedia.org/wiki/Category:海城女子中学校友 "wikilink")
-[Category:STARSHIP娱乐所属](https://zh.wikipedia.org/wiki/Category:STARSHIP娱乐所属 "wikilink")
-[Category:乐华娱乐所属](https://zh.wikipedia.org/wiki/Category:乐华娱乐所属 "wikilink")
+[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:李姓](https://zh.wikipedia.org/wiki/Category:李姓 "wikilink") [Category:宇宙少女成員](https://zh.wikipedia.org/wiki/Category:宇宙少女成員 "wikilink") [Category:宇宙Meki成員](https://zh.wikipedia.org/wiki/Category:宇宙Meki成員 "wikilink") [Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink")
 
 1.
 2.
@@ -247,6 +247,5 @@
 16.
 17.
 18.
-19.  '안녕하세요' 우주소녀 보나·루다 "먹어도 살 안
-    쪄"텐아시아|author=노규민|date=2018-09-29|work=텐아시아|accessdate=2018-10-12|language=ko}}
+19.  '안녕하세요' 우주소녀 보나·루다 "먹어도 살 안 쪄"텐아시아|author=노규민|date=2018-09-29|work=텐아시아|accessdate=2018-10-12|language=ko}}
 20.

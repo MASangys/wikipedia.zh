@@ -1,6 +1,4 @@
-**viXra**是一个收集[论文预印版的网站](../Page/论文.md "wikilink")，由英国独立物理学者菲利普·吉布斯（
-Philip
-Gibbs）于2009年建立。\[1\]正如其命名，viXra的定位是为另一知名的学术论文预印版网站[arXiv的替代品](https://zh.wikipedia.org/wiki/arXiv "wikilink")。
+**viXra**是一个收集[论文](../Page/论文.md "wikilink")预印版的网站，由英国独立物理学者菲利普·吉布斯（ Philip Gibbs）于2009年建立。\[1\]正如其命名，viXra的定位是为另一知名的学术论文预印版网站[arXiv的替代品](https://zh.wikipedia.org/wiki/arXiv "wikilink")。
 
 ## 简介
 
@@ -14,16 +12,12 @@ viXra收录的论文分为7个领域：物理学、数学、计算科学、生�
 
   - [Official website](http://vixra.org/)
 
-[Category:學術出版](https://zh.wikipedia.org/wiki/Category:學術出版 "wikilink")
-[Category:電子文件](https://zh.wikipedia.org/wiki/Category:電子文件 "wikilink")
-[Category:電子出版](https://zh.wikipedia.org/wiki/Category:電子出版 "wikilink")
+[Category:學術出版](https://zh.wikipedia.org/wiki/Category:學術出版 "wikilink") [Category:電子文件](https://zh.wikipedia.org/wiki/Category:電子文件 "wikilink") [Category:電子出版](https://zh.wikipedia.org/wiki/Category:電子出版 "wikilink")
 
 1.
 2.
 
-3.  "[What’s arXiv spelled backwards? A new place to
-    publish](http://blogs.nature.com/news/2009/07/whats_arxiv_spelled_backwards.html)".
-    *Nature News Blog*. 16 July 2009.
+3.  "[What’s arXiv spelled backwards? A new place to publish](http://blogs.nature.com/news/2009/07/whats_arxiv_spelled_backwards.html)". *Nature News Blog*. 16 July 2009.
 
 4.  <http://nautil.us/issue/41/selection/what-counts-as-science>
 

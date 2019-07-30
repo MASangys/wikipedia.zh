@@ -1,21 +1,12 @@
-《**Sunny
-Summer**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND的第一張](../Page/GFRIEND.md "wikilink")[韓語夏日迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，由[Source
-Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，[kakao
-M發行](https://zh.wikipedia.org/wiki/kakao_M "wikilink")，於2018年7月19日推出，《Sunny
-Summer(여름여름해)》是其同名主打歌。
+《**Sunny Summer**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的第一張[韓語夏日迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，由[Source Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，[kakao M發行](https://zh.wikipedia.org/wiki/kakao_M "wikilink")，於2018年7月19日推出，《Sunny Summer(여름여름해)》是其同名主打歌。
 
 ## 事件
 
-7月5日，GFRIEND透過官方Facebook及Instagram宣布將於7月19日發行夏日迷你專輯，並同時公開兩張預告畫報\[1\]，距離發行迷你六輯〈Time
-For the Moon
-Night〉不過兩個多月\[2\]。一張以白色為底，並以紅色海報和收音機為主題，收音機旁還放了一個滑板，給人熱情活力的感覺；另一張照片則以藍色為底，內有紫色海報和塑膠籃，籃子上插滿各種粉嫩色調的冰淇淋，充滿消暑清涼感，兩張照片都散發著夏日氣息，並印有發行日期、成員姓名和「GFRIEND」字樣\[3\]。
+7月5日，GFRIEND透過官方Facebook及Instagram宣布將於7月19日發行夏日迷你專輯，並同時公開兩張預告畫報\[1\]，距離發行迷你六輯〈Time For the Moon Night〉不過兩個多月\[2\]。一張以白色為底，並以紅色海報和收音機為主題，收音機旁還放了一個滑板，給人熱情活力的感覺；另一張照片則以藍色為底，內有紫色海報和塑膠籃，籃子上插滿各種粉嫩色調的冰淇淋，充滿消暑清涼感，兩張照片都散發著夏日氣息，並印有發行日期、成員姓名和「GFRIEND」字樣\[3\]。
 
-7月9日，在官方 Facebook 上公開了回歸行程表。公開的行程表中，可以看到 GFRIEND
-將會陸續釋出曲目表、概念照、歌詞預告…等\[4\]。
+7月9日，在官方 Facebook 上公開了回歸行程表。公開的行程表中，可以看到 GFRIEND 將會陸續釋出曲目表、概念照、歌詞預告…等\[4\]。
 
-7月10日，在官方 Facebook 上公開了專輯曲目表，包含同名主打歌《Sunny Summer
-(여름여름해)》在內，共收錄五首歌曲。《Sunny
-Summer》由知名製作人二段橫踢創作，首次與二段橫踢合作\[5\]。
+7月10日，在官方 Facebook 上公開了專輯曲目表，包含同名主打歌《Sunny Summer (여름여름해)》在內，共收錄五首歌曲。《Sunny Summer》由知名製作人二段橫踢創作，首次與二段橫踢合作\[5\]。
 
 ### 宣傳照公開
 
@@ -37,11 +28,9 @@ Summer》由知名製作人二段橫踢創作，首次與二段橫踢合作\[5\]
 
 ### MV公開
 
-7月19日，透過官方 YouTube 頻道公開《**Sunny Summer (여름여름해)**》MV。並在晚間十點登上 MelOn
-舉行直播節目《GFRIEND Live ONE Aztalk》\[12\]。
+7月19日，透過官方 YouTube 頻道公開《**Sunny Summer (여름여름해)**》MV。並在晚間十點登上 MelOn 舉行直播節目《GFRIEND Live ONE Aztalk》\[12\]。
 
-12月26日，GFRIEND 將《Sunny Summer (여름여름해)》重新詮釋成冬季版《冬天冬天的
-(겨울겨울해)》，舞蹈練習影片公開\[13\]。
+12月26日，GFRIEND 將《Sunny Summer (여름여름해)》重新詮釋成冬季版《冬天冬天的 (겨울겨울해)》，舞蹈練習影片公開\[13\]。
 
 ## 曲目
 
@@ -109,18 +98,18 @@ Summer》由知名製作人二段橫踢創作，首次與二段橫踢合作\[5\]
 </tbody>
 </table>
 
-## 韓國音源榜
+## 音源成績
 
 | 排行榜（2018年） | 〈여름여름해 (Sunny Summer)〉最高名次 |
 | ---------- | -------------------------- |
 | 實時榜        | 日榜                         |
 | iChart     | 5                          |
 | Melon      | 6                          |
-| Mnet       | 4                          |
-| Bugs       | **1**                      |
-| Soribada   | 2                          |
 | Genie      | 4                          |
+| Bugs       | **1**                      |
+| Mnet       | 4                          |
 | Naver      | 4                          |
+| Soribada   | 2                          |
 |            |                            |
 
 ## 銷售及認證
@@ -140,9 +129,7 @@ Summer》由知名製作人二段橫踢創作，首次與二段橫踢合作\[5\]
 
 ## 參考資料
 
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:GFRIEND音乐专辑](https://zh.wikipedia.org/wiki/Category:GFRIEND音乐专辑 "wikilink")
-[Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink")
+[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:GFRIEND音乐专辑](https://zh.wikipedia.org/wiki/Category:GFRIEND音乐专辑 "wikilink") [Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
-《**Z.DANCE**》是[烏克蘭歌手](https://zh.wikipedia.org/wiki/烏克蘭人 "wikilink")[馬克斯·巴斯奇的第二張](../Page/馬克斯·巴斯奇.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2012年5月2日發行。專輯收錄10首原創英文歌曲以及其中3首的俄文版。
+《**Z.DANCE**》是[烏克蘭歌手](https://zh.wikipedia.org/wiki/烏克蘭人 "wikilink")[馬克斯·巴斯奇](../Page/馬克斯·巴斯奇.md "wikilink")的第二張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2012年5月2日發行。專輯收錄10首原創英文歌曲以及其中3首的俄文版。
 
 ## 概要
 
@@ -12,9 +12,6 @@
 
 [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
 
-1.  [Макс Барских выпустил виртуальный альбом Z.Dance :: Карта музыки —
-    MapMusic.ru — Новости музыки — Новости шоу-бизнеса — Музыкальные
-    новинки](http://mapmusic.ru/newsm/7466-barskix-virtual-z-dance.html)
-
+1.  [Макс Барских выпустил виртуальный альбом Z.Dance :: Карта музыки — MapMusic.ru — Новости музыки — Новости шоу-бизнеса — Музыкальные новинки](http://mapmusic.ru/newsm/7466-barskix-virtual-z-dance.html)
 2.
 3.

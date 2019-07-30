@@ -1,17 +1,11 @@
-《**假面騎士平成Generations FINAL Build & EX-AID with
-傳說騎士**》（'''），是日本特攝節目《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》和《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》聯動劇場版，日本地區於2017年12月9日上映\[1\]。台灣以《假面騎士
-平成世代 巔峰決戰 BUILD\&EX-AID with
-傳說騎士》名義在2018年2月8日上映，是繼《[假面騎士響鬼與七人的戰鬼](https://zh.wikipedia.org/wiki/假面騎士響鬼與七人的戰鬼 "wikilink")》以來第三部在台上映的假面騎士電影。
-香港方面，預定在2018年3月15日上映\[2\]。
+《**假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士**》（'''），是日本特攝節目《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》和《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》聯動劇場版，日本地區於2017年12月9日上映\[1\]。台灣以《假面騎士 平成世代 巔峰決戰 BUILD\&EX-AID with 傳說騎士》名義在2018年2月8日上映，是繼《[假面騎士響鬼與七人的戰鬼](https://zh.wikipedia.org/wiki/假面騎士響鬼與七人的戰鬼 "wikilink")》以來第三部在台上映的假面騎士電影。 香港方面，預定在2018年3月15日上映\[2\]。
 
 ## 本作特色
 
-  - 本作為「假面騎士平成Generations」系列的第2彈，雖然名稱為「平成Generations
-    FINAL」，但天皇明仁於2017年11月下旬確定於2019年4月30日才退位，5月1日才改新年號，其時《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》本篇播畢後的下一位假面騎士（假面騎士ZI-O）應已播出了超過一半集數。因此嚴格來說不算是平成最後一部假面騎士聯動劇場版。
+  - 本作為「假面騎士平成Generations」系列的第2彈，雖然名稱為「平成Generations FINAL」，但天皇明仁於2017年11月下旬確定於2019年4月30日才退位，5月1日才改新年號，其時《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》本篇播畢後的下一位假面騎士（假面騎士ZI-O）應已播出了超過一半集數。因此嚴格來說不算是平成最後一部假面騎士聯動劇場版。
   - 本作的劇本是由《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》的編劇武藤將吾和《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的編劇高橋悠也兩人共同編寫，也因此劇情上是與兩部系列作的各自劇情有著聯動性關係。
-  - 本作除了主要演出的假面騎士Build 和假面騎士EX-AID
-    外，同時前作系列的假面騎士OOO、假面騎士Fourze、假面騎士鎧武和假面騎士Ghost亦於本作中作為傳說騎士登場。
-  - 根據官網所播放的最新影像預告得知\[3\]，飾演《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》中的主角火野映司的演員[渡部秀和Ankh的演員](../Page/渡部秀.md "wikilink")[三浦涼介](../Page/三浦涼介.md "wikilink")、《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》的主角如月弦太朗的演員[福士蒼汰](../Page/福士蒼汰.md "wikilink")、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的主角葛葉紘汰的演員[佐野岳及](../Page/佐野岳.md "wikilink")《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》的主角天空寺尊的演員[西銘駿等人亦在此劇中真人演出](../Page/西銘駿.md "wikilink")\[4\]\[5\]。
+  - 本作除了主要演出的假面騎士Build 和假面騎士EX-AID 外，同時前作系列的假面騎士OOO、假面騎士Fourze、假面騎士鎧武和假面騎士Ghost亦於本作中作為傳說騎士登場。
+  - 根據官網所播放的最新影像預告得知\[3\]，飾演《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》中的主角火野映司的演員[渡部秀](../Page/渡部秀.md "wikilink")和Ankh的演員[三浦涼介](../Page/三浦涼介.md "wikilink")、《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》的主角如月弦太朗的演員[福士蒼汰](../Page/福士蒼汰.md "wikilink")、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的主角葛葉紘汰的演員[佐野岳](../Page/佐野岳.md "wikilink")及《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》的主角天空寺尊的演員[西銘駿](../Page/西銘駿.md "wikilink")等人亦在此劇中真人演出\[4\]\[5\]。
   - 根據本作的相關雜誌報導中得知，《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》和《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》兩部系列作是呈現平行世界的概念。
   - 電視版本篇中即將現身的Rabbit Tank Sparkling Form 和PhoenixRobo Form 於本作先行登場。
   - 本作邀請到知名音樂家兼作曲人大槻賢二擔當本作中的反派角色「最上魁星」，並且因劇情的關係使得他有著兩種全然不同造型的裝扮。
@@ -69,7 +63,7 @@
 
 ### 假面騎士
 
-**桐生戰兔（）**（[犬飼貴丈飾](../Page/犬飼貴丈.md "wikilink")）
+**桐生戰兔（）**（[犬飼貴丈](../Page/犬飼貴丈.md "wikilink")飾）
 
   -
     **假面騎士Build**的變身者。
@@ -79,22 +73,22 @@
   -
     **假面騎士EX-AID**的變身者。
 
-**天空寺尊（）**（[西銘駿飾](../Page/西銘駿.md "wikilink")）
+**天空寺尊（）**（[西銘駿](../Page/西銘駿.md "wikilink")飾）
 
   -
     **假面騎士Ghost**的變身者。
 
-**葛葉紘汰（）**（[佐野岳飾](../Page/佐野岳.md "wikilink")）
+**葛葉紘汰（）**（[佐野岳](../Page/佐野岳.md "wikilink")飾）
 
   -
     **假面騎士鎧武**的變身者。
 
-**如月弦太朗（）**（[福士蒼汰飾](../Page/福士蒼汰.md "wikilink")）
+**如月弦太朗（）**（[福士蒼汰](../Page/福士蒼汰.md "wikilink")飾）
 
   -
     **假面騎士Fourze**的變身者。
 
-**火野映司（）**（[渡部秀飾](../Page/渡部秀.md "wikilink")）
+**火野映司（）**（[渡部秀](../Page/渡部秀.md "wikilink")飾）
 
   -
     **假面騎士OOO**的變身者。
@@ -114,7 +108,7 @@
   -
     **假面騎士Snipe**的變身者。
 
-**檀黎斗（）**（[岩永徹也飾](../Page/岩永徹也.md "wikilink")）
+**檀黎斗（）**（[岩永徹也](../Page/岩永徹也.md "wikilink")飾）
 
   -
     **假面騎士Genm**的變身者。
@@ -138,16 +132,15 @@
 
 ### 《假面騎士EX-AID》原主要人物
 
-**仮野明日那（）/
-Poppypipopapo（ポッピーピポパポ）**（[松田瑠華飾](https://zh.wikipedia.org/wiki/松田瑠華 "wikilink")）
+**仮野明日那（）/ Poppypipopapo（ポッピーピポパポ）**（[松田瑠華飾](https://zh.wikipedia.org/wiki/松田瑠華 "wikilink")）
 
-**西馬妮可（）**（[黑崎莉奈飾](../Page/黑崎莉奈.md "wikilink")）
+**西馬妮可（）**（[黑崎莉奈](../Page/黑崎莉奈.md "wikilink")飾）
 
-**帕拉德（）**（[甲斐翔真飾](../Page/甲斐翔真.md "wikilink")）
+**帕拉德（）**（[甲斐翔真](../Page/甲斐翔真.md "wikilink")飾）
 
 ### 《假面騎士Ghost》原主要人物
 
-**山之內御成（）**（[柳喬之飾](../Page/柳喬之.md "wikilink")）
+**山之內御成（）**（[柳喬之](../Page/柳喬之.md "wikilink")飾）
 
 ### 《假面騎士Fourze》原主要人物
 
@@ -157,7 +150,7 @@ Poppypipopapo（ポッピーピポパポ）**（[松田瑠華飾](https://zh.wik
 
 ### 《假面騎士OOO》原主要人物
 
-**Ankh（）**（[三浦涼介飾](../Page/三浦涼介.md "wikilink")）
+**Ankh（）**（[三浦涼介](../Page/三浦涼介.md "wikilink")飾）
 
 ### 本作登場人物
 
@@ -241,7 +234,7 @@ Poppypipopapo（ポッピーピポパポ）**（[松田瑠華飾](https://zh.wik
 <td><p><strong>必殺技</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center;background-color:|<font color=Black><strong>通常形態</strong></font></p></td>
+<td><p><strong>通常形態</strong></font></p></td>
 <td><p>使用藍色版「Gear Remocon」搭配星雲蒸汽槍變身的形態<br />
 身高：202.0cm<br />
 體重：103.5kg<br />
@@ -287,7 +280,7 @@ Poppypipopapo（ポッピーピポパポ）**（[松田瑠華飾](https://zh.wik
 <td><p><strong>必殺技</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center;background-color:|<font color=Black><strong>通常形態</strong></font></p></td>
+<td><p><strong>通常形態</strong></font></p></td>
 <td><p>使用紅色版「Gear Engine」搭配星雲蒸汽槍變身的形態<br />
 身高：202.0cm<br />
 體重：103.5kg<br />
@@ -332,7 +325,7 @@ Poppypipopapo（ポッピーピポパポ）**（[松田瑠華飾](https://zh.wik
 <td><p><strong>必殺技</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center;background-color:|<font color=Black><strong>通常形態</strong></font></p></td>
+<td><p><strong>通常形態</strong></font></p></td>
 <td><p>Kaiser和Kaiser Reverse同時變身的合體形態<br />
 身高：202.0cm<br />
 體重：108.0kg<br />
@@ -553,13 +546,11 @@ Poppypipopapo（ポッピーピポパポ）**（[松田瑠華飾](https://zh.wik
 ## 聲音演出
 
   - 創造驅動器關聯道具聲音 - [小林克也](https://zh.wikipedia.org/wiki/小林克也 "wikilink")
-  - Ghost驅動器關連道具聲音、眼魂驅動器G聲音 -
-    [m.c.A.T](https://zh.wikipedia.org/wiki/m.c.A.T "wikilink")
+  - Ghost驅動器關連道具聲音、眼魂驅動器G聲音 - [m.c.A.T](https://zh.wikipedia.org/wiki/m.c.A.T "wikilink")
   - 騎士卡帶聲音 - [影山浩宣](../Page/影山浩宣.md "wikilink")
   - 武藏魂、信長魂、格林魂 - [關智一](../Page/關智一.md "wikilink")
   - 戰極驅動器關連道具聲音 - [平床政治](https://zh.wikipedia.org/wiki/平床政治 "wikilink")
-  - 假面騎士Grease -
-    [武田航平](https://zh.wikipedia.org/wiki/武田航平 "wikilink")\[12\]
+  - 假面騎士Grease - [武田航平](https://zh.wikipedia.org/wiki/武田航平 "wikilink")\[12\]
 
 ## 皮套演出
 
@@ -616,14 +607,9 @@ Poppypipopapo（ポッピーピポパポ）**（[松田瑠華飾](https://zh.wik
 
 ## 参考资料
 
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
-[Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink")
-[Category:平成假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列跨界作品 "wikilink")
+[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink") [Category:平成假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列跨界作品 "wikilink")
 
-1.  [12/9（土）公開『仮面ライダー平成ジェネレーションズ
-    FINAL』のティザービジュアル解禁\!\!最後の『平成ジェネレーションズ』で計測不能の
-    化学反応（ベストマッチ）が起きる\!?](http://characterland.jp/information/mura-17-08-09-001/)
-    - ハイパーホビー公式サイト
+1.  [12/9（土）公開『仮面ライダー平成ジェネレーションズ FINAL』のティザービジュアル解禁\!\!最後の『平成ジェネレーションズ』で計測不能の 化学反応（ベストマッチ）が起きる\!?](http://characterland.jp/information/mura-17-08-09-001/) - ハイパーホビー公式サイト
 2.  <https://www.youtube.com/watch?v=6dupbFykPU0>
 3.  [仮面ライダー平成ジェネレーションズFINAL最新映像](https://www.youtube.com/watch?v=y1CbwR8RMzg)
 4.  [福士蒼汰ら“レジェンドライダー”豪華復活「仮面ライダー平成ジェネレーションズFINAL」出演決定](https://mdpr.jp/cinema/detail/1718800)

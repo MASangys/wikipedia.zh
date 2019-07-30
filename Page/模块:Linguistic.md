@@ -1,7 +1,6 @@
 \-- some simple internationalization that can be called by other modules
 
-local p = {} local f = require('Module:Fallback') local i18n =
-mw.loadData('Module:I18n/linguistic')
+local p = {} local f = require('Module:Fallback') local i18n = mw.loadData('Module:I18n/linguistic')
 
 local function getText(msg, lang)
 
@@ -9,8 +8,7 @@ local function getText(msg, lang)
 
 end
 
-local vowels =
-'aeiouyąăẵằẳặȃắâẫấầẩậãäǟāáàȁǎảẚåǻḁạǡæǣǽĕȇêễếềểệḙẽḛëēḕéḗèȅěẻẹęȩḝǝĭȋîĩḭïḯīíìȉǐỉịįıŏȏôỗốồổộõṏṍöōṑóṓòȍǒỏọǫǭơỡớờởợøǿŭȗûṷũṻṹṵüǖǘǜǚṳūúùȕǔủůụųưữứừửựŷỹÿȳýỳỷẙỵ'
+local vowels = 'aeiouyąăẵằẳặȃắâẫấầẩậãäǟāáàȁǎảẚåǻḁạǡæǣǽĕȇêễếềểệḙẽḛëēḕéḗèȅěẻẹęȩḝǝĭȋîĩḭïḯīíìȉǐỉịįıŏȏôỗốồổộõṏṍöōṑóṓòȍǒỏọǫǭơỡớờởợøǿŭȗûṷũṻṹṵüǖǘǜǚṳūúùȕǔủůụųưữứừửựŷỹÿȳýỳỷẙỵ'
 
 local function wordor(lang)
 
@@ -107,10 +105,7 @@ function p.inparentheses(str, lang)
 
 end
 
-function p.of(word, lang, raw, gender, number, determiner) -- rough
-translation of "of" in various languages -- note that the cases when on
-"of" is employed varies a lot among languages, so it is more prudent to
-call this from lang specific function only
+function p.of(word, lang, raw, gender, number, determiner) -- rough translation of "of" in various languages -- note that the cases when on "of" is employed varies a lot among languages, so it is more prudent to call this from lang specific function only
 
 `   if not raw then `
 `       raw = word`

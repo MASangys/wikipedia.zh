@@ -1,5 +1,4 @@
-**「Oh\!爸媽 」**
-(英語：Ohpama)是[星島新聞集團旗下](../Page/星島新聞集團.md "wikilink")\[1\]的升學、親子網站，提供本地及海外升學、親子教養、育兒、活動及產品等資訊，於2015年10月推出。
+**「Oh\!爸媽 」** (英語：Ohpama)是[星島新聞集團](../Page/星島新聞集團.md "wikilink")旗下\[1\]的升學、親子網站，提供本地及海外升學、親子教養、育兒、活動及產品等資訊，於2015年10月推出。
 
 ## 網站架構
 
@@ -23,9 +22,7 @@
 
 ### 專家版圖
 
-邀請本地及海外升學專家、醫生、臨床心理學家、言語治療師、營養師、經驗陪月、親子教養等專家，提供升學及育兒相關的專業意見及分享。包括本地升學專家[Ian
-Tsang](https://zh.wikipedia.org/wiki/Ian_Tsang "wikilink"),
-海外升學專家[章文杉](https://zh.wikipedia.org/wiki/章文杉 "wikilink")、[詹漢銘校長](https://zh.wikipedia.org/wiki/詹漢銘 "wikilink")、[馮偉正醫生等](https://zh.wikipedia.org/wiki/馮偉正 "wikilink")。\[6\]
+邀請本地及海外升學專家、醫生、臨床心理學家、言語治療師、營養師、經驗陪月、親子教養等專家，提供升學及育兒相關的專業意見及分享。包括本地升學專家[Ian Tsang](https://zh.wikipedia.org/wiki/Ian_Tsang "wikilink"), 海外升學專家[章文杉](https://zh.wikipedia.org/wiki/章文杉 "wikilink")、[詹漢銘校長](https://zh.wikipedia.org/wiki/詹漢銘 "wikilink")、[馮偉正醫生等](https://zh.wikipedia.org/wiki/馮偉正 "wikilink")。\[6\]
 
 ### 討論區
 
@@ -41,27 +38,20 @@ Tsang](https://zh.wikipedia.org/wiki/Ian_Tsang "wikilink"),
 
 ## 新聞
 
-  - [Sing Tao launches parenting platform
-    Ohpama](http://www.marketing-interactive.com/sing-tao-launches-parenting-platform-ohpama/)
-  - [升學親子網
-    「Oh！爸媽」解疑難](https://hk.news.yahoo.com/%E5%8D%87%E5%AD%B8%E8%A6%AA%E5%AD%90%E7%B6%B2-oh-%E7%88%B8%E5%AA%BD-%E8%A7%A3%E7%96%91%E9%9B%A3-215518016.html)
+  - [Sing Tao launches parenting platform Ohpama](http://www.marketing-interactive.com/sing-tao-launches-parenting-platform-ohpama/)
+  - [升學親子網 「Oh！爸媽」解疑難](https://hk.news.yahoo.com/%E5%8D%87%E5%AD%B8%E8%A6%AA%E5%AD%90%E7%B6%B2-oh-%E7%88%B8%E5%AA%BD-%E8%A7%A3%E7%96%91%E9%9B%A3-215518016.html)
 
 ## 參考資料
 
 <references />
 
-[Category:中文網站](https://zh.wikipedia.org/wiki/Category:中文網站 "wikilink")
-[Category:香港媒體](https://zh.wikipedia.org/wiki/Category:香港媒體 "wikilink")
-[Category:香港網站](https://zh.wikipedia.org/wiki/Category:香港網站 "wikilink")
-[Category:2015年建立的網站](https://zh.wikipedia.org/wiki/Category:2015年建立的網站 "wikilink")
-[Category:星島新聞集團](https://zh.wikipedia.org/wiki/Category:星島新聞集團 "wikilink")
+[Category:中文網站](https://zh.wikipedia.org/wiki/Category:中文網站 "wikilink") [Category:香港媒體](https://zh.wikipedia.org/wiki/Category:香港媒體 "wikilink") [Category:香港網站](https://zh.wikipedia.org/wiki/Category:香港網站 "wikilink") [Category:2015年建立的網站](https://zh.wikipedia.org/wiki/Category:2015年建立的網站 "wikilink") [Category:星島新聞集團](https://zh.wikipedia.org/wiki/Category:星島新聞集團 "wikilink")
 
 1.
 2.
 3.
 4.
-5.   親子-Oh\!爸媽|newspaper=Oh\!爸媽 -
-    Ohpama.com一站式升學、親子網站|accessdate=2017-04-05|language=zh-TW}}
+5.   親子-Oh\!爸媽|newspaper=Oh\!爸媽 - Ohpama.com一站式升學、親子網站|accessdate=2017-04-05|language=zh-TW}}
 6.
 7.
 8.

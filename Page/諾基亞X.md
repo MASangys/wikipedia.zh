@@ -41,7 +41,6 @@
 
   - [諾基亞X——全球](http://download-support.webapps.microsoft.com/ncss/PUBLIC/en_PK/webpdf/100000364121/UG_en_GB.pdf)
 
-[Category:2014年面世的手機](https://zh.wikipedia.org/wiki/Category:2014年面世的手機 "wikilink")
-[Category:諾基亞手機](https://zh.wikipedia.org/wiki/Category:諾基亞手機 "wikilink")
+[Category:2014年面世的手機](https://zh.wikipedia.org/wiki/Category:2014年面世的手機 "wikilink") [Category:諾基亞手機](https://zh.wikipedia.org/wiki/Category:諾基亞手機 "wikilink")
 
 1.

@@ -1,10 +1,10 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:台西镇炮台旧址石碑.jpg "fig:缩略图")[八大峡街道的](https://zh.wikipedia.org/wiki/八大峡街道 "wikilink")[台西镇炮台旧址的文保碑](https://zh.wikipedia.org/wiki/台西镇炮台旧址 "wikilink")。它于2005年被列入第七批青岛市文物保护单位。\]\]
 
-**青岛市文物保护单位**（又称**青岛市重点文物保护单位**），是[中华人民共和国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[山东省](https://zh.wikipedia.org/wiki/山东省 "wikilink")[青岛市的市级](../Page/青岛市.md "wikilink")[文物保护单位](https://zh.wikipedia.org/wiki/文物保护单位 "wikilink")。截至2018年2月，青岛市共公布了十批、共189处文物保护单位，其中已改列入[全国重点文物保护单位的有](../Page/全国重点文物保护单位.md "wikilink")36处，[山东省文物保护单位的有](https://zh.wikipedia.org/wiki/山东省文物保护单位#青岛市 "wikilink")47处。
+**青岛市文物保护单位**（又称**青岛市重点文物保护单位**），是[中华人民共和国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[山东省](https://zh.wikipedia.org/wiki/山东省 "wikilink")[青岛市](../Page/青岛市.md "wikilink")的市级[文物保护单位](https://zh.wikipedia.org/wiki/文物保护单位 "wikilink")。截至2018年2月，青岛市共公布了十批、共189处文物保护单位，其中已改列入[全国重点文物保护单位](../Page/全国重点文物保护单位.md "wikilink")的有36处，[山东省文物保护单位的有](https://zh.wikipedia.org/wiki/山东省文物保护单位#青岛市 "wikilink")47处。
 
 ## 历史
 
-青岛市文物保护单位由[青岛市人民政府分别于](../Page/青岛市人民政府.md "wikilink")1982年12月31日、1984年7月27日、1985年1月25日、1989年12月5日、1992年1月16日、1999年12月30日、2005年2月5日、2008年11月21日、2011年4月15日、2018年2月12日公布。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
+青岛市文物保护单位由[青岛市人民政府](../Page/青岛市人民政府.md "wikilink")分别于1982年12月31日、1984年7月27日、1985年1月25日、1989年12月5日、1992年1月16日、1999年12月30日、2005年2月5日、2008年11月21日、2011年4月15日、2018年2月12日公布。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
 | 批次  | 日期\[7\]\[8\]\[9\]\[10\]\[11\] | 公布文号\[12\]\[13\]\[14\]\[15\] | 市级文物保护单位数量\[16\]\[17\]\[18\]\[19\]\[20\] |
 | --- | ----------------------------- | ---------------------------- | ---------------------------------------- |
@@ -158,7 +158,7 @@
 <td><p>1930年</p></td>
 <td><p>近现代重要史迹</p></td>
 <td><p>鱼山路5号<br />
-<a href="../Page/中国海洋大学.md" title="wikilink">中国海洋大学鱼山校区校园东北角</a></p></td>
+<a href="../Page/中国海洋大学.md" title="wikilink">中国海洋大学</a>鱼山校区校园东北角</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:青岛闻一多故居.jpg" title="fig:青岛闻一多故居.jpg">青岛闻一多故居.jpg</a></p></td>
 </tr>
@@ -213,7 +213,7 @@
 </tr>
 <tr class="odd">
 <td><p>第六批（7处） |- style="background-color:#FFCC99;</p></td>
-<td><p><a href="../Page/伊尔蒂斯兵营.md" title="wikilink">伊尔蒂斯兵营旧址</a></p></td>
+<td><p><a href="../Page/伊尔蒂斯兵营.md" title="wikilink">伊尔蒂斯兵营</a>旧址</p></td>
 <td><p>1899年-1901年</p></td>
 <td><p>近现代建筑</p></td>
 <td><p>香港西路11号</p></td>
@@ -491,7 +491,7 @@
 | 第七批（5处）                                                   |                            |                            |                            |    |                                                                                                                                      |
 | [古城顶遗址](https://zh.wikipedia.org/wiki/古城顶遗址 "wikilink")   | 商周                         | 古遗址                        | 湘潭路街道十梅庵社区                 |    |                                                                                                                                      |
 | [大枣园牌坊](https://zh.wikipedia.org/wiki/大枣园牌坊 "wikilink")   | 清代                         | 古建筑                        | 湘潭路街道大枣园社区                 |    | [大枣园牌坊B.jpg](https://zh.wikipedia.org/wiki/File:大枣园牌坊B.jpg "fig:大枣园牌坊B.jpg")                                                         |
-| [李村华人监狱旧址](../Page/李村华人监狱.md "wikilink")                  | 1903年                      | 近现代建筑                      | 夏庄路7号                      |    | [Lǐtswen_Jyen-yù_Jyòujhǐh.jpg](https://zh.wikipedia.org/wiki/File:Lǐtswen_Jyen-yù_Jyòujhǐh.jpg "fig:Lǐtswen_Jyen-yù_Jyòujhǐh.jpg") |
+| [李村华人监狱](../Page/李村华人监狱.md "wikilink")旧址                  | 1903年                      | 近现代建筑                      | 夏庄路7号                      |    | [Lǐtswen_Jyen-yù_Jyòujhǐh.jpg](https://zh.wikipedia.org/wiki/File:Lǐtswen_Jyen-yù_Jyòujhǐh.jpg "fig:Lǐtswen_Jyen-yù_Jyòujhǐh.jpg") |
 | [仙姑塔](https://zh.wikipedia.org/wiki/仙姑塔 "wikilink")       | 1923年                      | 近现代建筑                      | 九水街道于家下河社区                 |    | [Shyengu_Ta.jpg](https://zh.wikipedia.org/wiki/File:Shyengu_Ta.jpg "fig:Shyengu_Ta.jpg")                                            |
 | [明真观](https://zh.wikipedia.org/wiki/明真观 "wikilink")       | 1925年                      | 近现代建筑                      | 振华路141号                    |    | [青岛明真观山门_2017-08-17.jpg](https://zh.wikipedia.org/wiki/File:青岛明真观山门_2017-08-17.jpg "fig:青岛明真观山门_2017-08-17.jpg")                    |
 | 第八批（1处）                                                   |                            |                            |                            |    |                                                                                                                                      |
@@ -537,7 +537,7 @@
 | [向阳遗址](https://zh.wikipedia.org/wiki/向阳遗址_\(青岛市\) "wikilink") | 新石器时代                              | 古遗址                     | 宝山镇向阳村                         |                               |                                     |
 | [郭家河岩遗址](https://zh.wikipedia.org/wiki/郭家河岩遗址 "wikilink")     | 新石器时代                              | 古遗址                     | 胶南街道郭家河岩村                      |                               |                                     |
 | [西寺遗址](https://zh.wikipedia.org/wiki/西寺遗址 "wikilink")         | 新石器时代                              | 古遗址                     | 大场镇西寺村                         |                               | |-style="background-color:\#FFCC99; |
-| 第二批（2处） |-style="background-color:\#FFCC99;                   | [齐长城遗址](../Page/齐长城.md "wikilink") | 春秋战国时期                  | 古遗址                            | 六汪镇、铁山街道、隐珠街道、王台镇、灵山卫街道、长江路街道 |                                     |
+| 第二批（2处） |-style="background-color:\#FFCC99;                   | [齐长城](../Page/齐长城.md "wikilink")遗址 | 春秋战国时期                  | 古遗址                            | 六汪镇、铁山街道、隐珠街道、王台镇、灵山卫街道、长江路街道 |                                     |
 | [马濠运河](https://zh.wikipedia.org/wiki/马濠运河 "wikilink")         | 元代                                 | 古遗址                     | 长江路街道井冈山路                      |                               |                                     |
 | 第四批（2处）                                                       |                                    |                         |                                |                               |                                     |
 | [河头遗址](https://zh.wikipedia.org/wiki/河头遗址 "wikilink")         | 新石器时代                              | 古遗址                     | 张家楼镇河头村                        |                               |                                     |

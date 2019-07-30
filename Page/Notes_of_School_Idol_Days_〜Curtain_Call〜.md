@@ -1,10 +1,8 @@
-『**Notes of School Idol Days 〜Curtain Call〜**』是動畫電影「[LoveLive\!
-學園偶像電影](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像電影 "wikilink")」的[原聲音樂集](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")，在2015年8月5日由[Lantis發售](../Page/Lantis.md "wikilink")。
+『**Notes of School Idol Days 〜Curtain Call〜**』是動畫電影「[LoveLive\! 學園偶像電影](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像電影 "wikilink")」的[原聲音樂集](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")，在2015年8月5日由[Lantis](../Page/Lantis.md "wikilink")發售。
 
 ## 概要
 
-收錄了「[LoveLive\!
-學園偶像電影](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像電影 "wikilink")」中使用的歌曲。
+收錄了「[LoveLive\! 學園偶像電影](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像電影 "wikilink")」中使用的歌曲。
 
 此外，劇中歌收錄的是電影版中的縮短版本，並不是單曲中的完整版。
 
@@ -32,12 +30,10 @@
 10. **GoHAN-YA**（M09）
 11. **Honoka\! Hurry up\!\!\!\!\!\!\!\!**（M10）
 12. **As Time Goes By**（M11A）
-      - 作詞・作曲：[Herman
-        Hupfeld](https://zh.wikipedia.org/wiki/Herman_Hupfeld "wikilink")、編曲：[藤澤慶昌](https://zh.wikipedia.org/wiki/藤澤慶昌 "wikilink")、歌：女性歌手（[高山南](../Page/高山南.md "wikilink")）
+      - 作詞・作曲：[Herman Hupfeld](https://zh.wikipedia.org/wiki/Herman_Hupfeld "wikilink")、編曲：[藤澤慶昌](https://zh.wikipedia.org/wiki/藤澤慶昌 "wikilink")、歌：女性歌手（[高山南](../Page/高山南.md "wikilink")）
 13. **答案其實很簡單**（答えはとても簡単）（M12）
 14. **答案其實很簡單（副歌）**（答えはとても簡単（リフレイン））（M12B）
-15. **[Angelic
-    Angel](https://zh.wikipedia.org/wiki/Angelic_Angel/Hello,星を数えて "wikilink")**（電影版本）
+15. **[Angelic Angel](https://zh.wikipedia.org/wiki/Angelic_Angel/Hello,星を数えて "wikilink")**（電影版本）
       - 作曲：[森慎太郎](https://zh.wikipedia.org/wiki/森慎太郎 "wikilink")、編曲：倉内達矢、歌：μ's
 16. **機場裡有好多粉絲…（動搖）**（空港にファンがいっぱい…（動揺））（M13）.
 17. **街道上有更多粉絲！（困惑）**（街にもファンがもっといっぱい！（困惑））（M14）
@@ -49,19 +45,16 @@
 22. **穗乃果的糾葛**（穂乃果の葛藤）（M17）
 23. **每一個想法**（それぞれの想い）（M18）
 24. **As Time Goes By**（副歌）（M11B）
-      - 作詞・作曲：Herman
-        Hupfeld、編曲：藤澤慶昌、歌：女性歌手（[高山南](../Page/高山南.md "wikilink")）
+      - 作詞・作曲：Herman Hupfeld、編曲：藤澤慶昌、歌：女性歌手（[高山南](../Page/高山南.md "wikilink")）
 25. **決斷**（決断）（M19）
 26. **傳說誕生的瞬間**（伝説が生まれた瞬間）（M20）
-27. **[Future
-    style](https://zh.wikipedia.org/wiki/我們是合而為一的光/Future_style "wikilink")**（電影版本）
+27. **[Future style](https://zh.wikipedia.org/wiki/我們是合而為一的光/Future_style "wikilink")**（電影版本）
       - 作曲・編曲：本田光史郎、歌：高坂穂乃果（[新田惠海](../Page/新田惠海.md "wikilink")）・南小鳥（[内田彩](https://zh.wikipedia.org/wiki/内田彩 "wikilink")）・園田海未（[三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")）
 28. **朝向最棒的Live！東奔西走！！**（最高のライブへ！東奔西走！！）（M21）
 29. **準備開始！**（M22）
 30. **Live當天的早晨**（ライブ当日の朝）（M23）
 31. **通往舞台的道路**（ステージへと続く道）（M24）
-32. **[SUNNY DAY
-    SONG](https://zh.wikipedia.org/wiki/SUNNY_DAY_SONG/?←HEARTBEAT "wikilink")**（電影版本）
+32. **[SUNNY DAY SONG](https://zh.wikipedia.org/wiki/SUNNY_DAY_SONG/?←HEARTBEAT "wikilink")**（電影版本）
       - 作曲・編曲：倉内達矢、歌：μ's
     <!-- end list -->
       -
@@ -74,5 +67,4 @@
 
   - [Lantis商品介紹](http://www.lantis.jp/release-item.php?id=ff06a6fa9145f6b198260cebf83b25ed)
 
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
-[Category:LoveLive\!音樂](https://zh.wikipedia.org/wiki/Category:LoveLive!音樂 "wikilink")
+[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:LoveLive\!音樂](https://zh.wikipedia.org/wiki/Category:LoveLive!音樂 "wikilink")

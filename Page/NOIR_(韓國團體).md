@@ -1,7 +1,4 @@
-**NOIR**（韓語：**느와르**），是韓國LUK
-Factory娛樂推出的9人男子團體，成員包括隊長辛承勛、金淵國、李俊龍、南潤成、金施憲、柳晧淵、梁始河、金旻赫以及金大元，2018年4月9日以首張迷你專輯《TWENTY'S
-NOIR》主打歌《GANGSTA》正式出道。成員其中金淵國、柳晧淵、南潤成參加過選秀節目[PRODUCE 101
-第二季](../Page/PRODUCE_101_第二季.md "wikilink")，辛承勛曾為ZEST成員，李俊龍曾為[INX成員](../Page/INX.md "wikilink")。
+**NOIR**（韓語：**느와르**），是韓國LUK Factory娛樂推出的9人男子團體，成員包括隊長辛承勛、金淵國、李俊龍、南潤成、金施憲、柳晧淵、梁始河、金旻赫以及金大元，2018年4月9日以首張迷你專輯《TWENTY'S NOIR》主打歌《GANGSTA》正式出道。成員其中金淵國、柳晧淵、南潤成參加過選秀節目《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，辛承勛曾為ZEST成員，李俊龍曾為[INX](../Page/INX.md "wikilink")成員。
 
 2019年1月21日透過Vlive公佈粉絲名「Lumiere 루미에르」,是法文"光"的意思。
 
@@ -65,6 +62,7 @@ NOIR》主打歌《GANGSTA》正式出道。成員其中金淵國、柳晧淵、
 <ul>
 <li>發行日期：2019年6月12日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>銷量：1,446 +[3]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -194,12 +192,10 @@ NOIR》主打歌《GANGSTA》正式出道。成員其中金淵國、柳晧淵、
   -
   -
   -
-  - NOIR
-    [官方Youtube](https://www.youtube.com/channel/UCJ1l2ADgcURHK6bbK5y8v8g)
+  - NOIR [官方Youtube](https://www.youtube.com/channel/UCJ1l2ADgcURHK6bbK5y8v8g)
 
-[Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
+[Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
 
 1.  [2018年GAON 4月專輯榜64位](http://mobile.gaonchart.co.kr/musicAlbum.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2018&termGbn=month)
 2.  [2018年GAON 10月專輯榜91位](http://mobile.gaonchart.co.kr/musicAlbum.gaon?nationGbn=T&serviceGbn=&targetTime=10&hitYear=2018&termGbn=month)
+3.

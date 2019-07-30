@@ -1,5 +1,4 @@
-**赫伯特·雷蒙德·“H·R”·麦克马斯特**（Herbert Raymond "H. R."
-McMaster，）是[美国](../Page/美国.md "wikilink")[陆军中将](../Page/美国陆军.md "wikilink")，曾任[美国总统](../Page/美国总统.md "wikilink")[唐纳德·特朗普的](https://zh.wikipedia.org/wiki/唐纳德·特朗普 "wikilink")[国家安全顾问](../Page/总统国家安全事务助理.md "wikilink")。他目前的军事职务是的主任，以及[美国陆军训练和作战指挥部副总指挥](../Page/美国陆军训练与条令司令部.md "wikilink")。
+**赫伯特·雷蒙德·“H·R”·麦克马斯特**（Herbert Raymond "H. R." McMaster，）是[美国](../Page/美国.md "wikilink")[陆军中将](../Page/美国陆军.md "wikilink")，曾任[美国总统](../Page/美国总统.md "wikilink")[唐纳德·特朗普的](https://zh.wikipedia.org/wiki/唐纳德·特朗普 "wikilink")[国家安全顾问](../Page/总统国家安全事务助理.md "wikilink")。他目前的军事职务是的主任，以及[美国陆军训练和作战指挥部副总指挥](../Page/美国陆军训练与条令司令部.md "wikilink")。
 
 ## 早期的生活和教育
 
@@ -148,29 +147,14 @@ McMaster，）是[美国](../Page/美国.md "wikilink")[陆军中将](../Page/�
 
 ## 外部链接
 
-  - ["H.R.麦克马斯特：战士的眼景的阿富汗"](http://online.wsj.com/article/SB10001424052702304451104577392281146871796.html),
-    *《华尔街日报》* 的采访月11日2012年
+  - ["H.R.麦克马斯特：战士的眼景的阿富汗"](http://online.wsj.com/article/SB10001424052702304451104577392281146871796.html), *《华尔街日报》* 的采访月11日2012年
 
-  - [网络视频的前程序
-    *的反叛活动*，请参阅第4部分。](http://www.pbs.org/wgbh/pages/frontline/insurgency/view/)
+  - [网络视频的前程序 *的反叛活动*，请参阅第4部分。](http://www.pbs.org/wgbh/pages/frontline/insurgency/view/)
 
-  - [Nov.2003年
-    *破裂的基础：国防改造和基础假设的主导的知识在未来的战争*，H.R.麦克马斯特(PDF)](http://www.comw.org/rma/fulltext/0311mcmaster.pdf)
+  - [Nov.2003年 *破裂的基础：国防改造和基础假设的主导的知识在未来的战争*，H.R.麦克马斯特(PDF)](http://www.comw.org/rma/fulltext/0311mcmaster.pdf)
 
   - [胡佛研究所的生物](https://web.archive.org/web/20090131220818/http://www.hoover.org/bios/mcmaster.html)
 
   - （英文）
 
-[Category:1962年出生](https://zh.wikipedia.org/wiki/Category:1962年出生 "wikilink")
-[Category:美國男作家](https://zh.wikipedia.org/wiki/Category:美國男作家 "wikilink")
-[Category:苏格兰－爱尔兰裔美国人](https://zh.wikipedia.org/wiki/Category:苏格兰－爱尔兰裔美国人 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:銅星勳章獲得者](https://zh.wikipedia.org/wiki/Category:銅星勳章獲得者 "wikilink")
-[Category:國防部優異服役勳章獲得者](https://zh.wikipedia.org/wiki/Category:國防部優異服役勳章獲得者 "wikilink")
-[Category:美國傑出服役獎章獲得者](https://zh.wikipedia.org/wiki/Category:美國傑出服役獎章獲得者 "wikilink")
-[Category:功績勳章獲得者](https://zh.wikipedia.org/wiki/Category:功績勳章獲得者 "wikilink")
-[Category:銀星勳章獲得者](https://zh.wikipedia.org/wiki/Category:銀星勳章獲得者 "wikilink")
-[Category:美国陆军指挥参谋学院校友](https://zh.wikipedia.org/wiki/Category:美国陆军指挥参谋学院校友 "wikilink")
-[Category:美國陸軍中將](https://zh.wikipedia.org/wiki/Category:美國陸軍中將 "wikilink")
-[Category:西點軍校校友](https://zh.wikipedia.org/wiki/Category:西點軍校校友 "wikilink")
-[Category:美国国家安全顾问](https://zh.wikipedia.org/wiki/Category:美国国家安全顾问 "wikilink")
+[Category:1962年出生](https://zh.wikipedia.org/wiki/Category:1962年出生 "wikilink") [Category:美國男作家](https://zh.wikipedia.org/wiki/Category:美國男作家 "wikilink") [Category:苏格兰－爱尔兰裔美国人](https://zh.wikipedia.org/wiki/Category:苏格兰－爱尔兰裔美国人 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:銅星勳章獲得者](https://zh.wikipedia.org/wiki/Category:銅星勳章獲得者 "wikilink") [Category:國防部優異服役勳章獲得者](https://zh.wikipedia.org/wiki/Category:國防部優異服役勳章獲得者 "wikilink") [Category:美國傑出服役獎章獲得者](https://zh.wikipedia.org/wiki/Category:美國傑出服役獎章獲得者 "wikilink") [Category:功績勳章獲得者](https://zh.wikipedia.org/wiki/Category:功績勳章獲得者 "wikilink") [Category:銀星勳章獲得者](https://zh.wikipedia.org/wiki/Category:銀星勳章獲得者 "wikilink") [Category:美国陆军指挥参谋学院校友](https://zh.wikipedia.org/wiki/Category:美国陆军指挥参谋学院校友 "wikilink") [Category:美國陸軍中將](https://zh.wikipedia.org/wiki/Category:美國陸軍中將 "wikilink") [Category:西點軍校校友](https://zh.wikipedia.org/wiki/Category:西點軍校校友 "wikilink") [Category:美国国家安全顾问](https://zh.wikipedia.org/wiki/Category:美国国家安全顾问 "wikilink")

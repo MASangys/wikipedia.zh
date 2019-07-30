@@ -1,7 +1,6 @@
-**CHEEZE**（、）是[韓國一支](https://zh.wikipedia.org/wiki/韓國 "wikilink")[獨立音樂樂隊](../Page/獨立音樂.md "wikilink")\[1\]，原由Dalchong、Cloud、Molo以及Mudi四位成員組成，現成員Dalchong以CHEEZE的名義繼續活動\[2\]。
+**CHEEZE**（、）是[韓國一支](https://zh.wikipedia.org/wiki/韓國 "wikilink")[獨立音樂](../Page/獨立音樂.md "wikilink")樂隊\[1\]，原由Dalchong、Cloud、Molo以及Mudi四位成員組成，現成員Dalchong以CHEEZE的名義繼續活動\[2\]。
 
-2013年Mudi由於音樂觀念不符退出樂隊，2015年Molo由於入伍退出樂隊，2016年末Cloud想要專注于個人活動而退出樂隊，現為MAGIC
-STRAWBERRY SOUND旗下廠牌PEACHES LABEL的solo歌手。
+2013年Mudi由於音樂觀念不符退出樂隊，2015年Molo由於入伍退出樂隊，2016年末Cloud想要專注于個人活動而退出樂隊，現為MAGIC STRAWBERRY SOUND旗下廠牌PEACHES LABEL的solo歌手。
 
 ## 成員資料
 
@@ -227,8 +226,7 @@ STRAWBERRY SOUND旗下廠牌PEACHES LABEL的solo歌手。
   -
 ## 參考資料
 
-[Category:韓國演唱團體](https://zh.wikipedia.org/wiki/Category:韓國演唱團體 "wikilink")
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
+[Category:韓國演唱團體](https://zh.wikipedia.org/wiki/Category:韓國演唱團體 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
 
 1.
 2.

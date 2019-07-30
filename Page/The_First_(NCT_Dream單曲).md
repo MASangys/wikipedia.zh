@@ -1,14 +1,9 @@
-《**The
-First**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[NCT
-Dream的首張單曲專輯](../Page/NCT.md "wikilink")，並以主打歌《最後的初戀》(My First and
-Last)正式展開宣傳活動\[1\]。由[SM娛樂製作](../Page/SM娛樂.md "wikilink")，KT音樂發行，於2017年2月9日發行。
+《**The First**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[NCT Dream的首張單曲專輯](../Page/NCT.md "wikilink")，並以主打歌《最後的初戀》(My First and Last)正式展開宣傳活動\[1\]。由[SM娛樂](../Page/SM娛樂.md "wikilink")製作，KT音樂發行，於2017年2月9日發行。
 
 ## 簡介
 
-  - S.M. Ent. 相關人員今天 (26日) 向韓國媒體 STARNEWS 透露：「NCT DREAM
-    預定於2月中發表新曲回歸並展開活動\[2\]。」
-  - 2月1日，官方公開NCT DREAM即將在2月9日發行首張單曲專輯《The
-    First》的消息，並釋出團體概念照。渽民因腰傷而不參與本次專輯活動，暫時以6人體制活動。\[3\]
+  - S.M. Ent. 相關人員今天 (26日) 向韓國媒體 STARNEWS 透露：「NCT DREAM 預定於2月中發表新曲回歸並展開活動\[2\]。」
+  - 2月1日，官方公開NCT DREAM即將在2月9日發行首張單曲專輯《The First》的消息，並釋出團體概念照。渽民因腰傷而不參與本次專輯活動，暫時以6人體制活動。\[3\]
   - 2月2日，公開辰樂的概念照。
   - 2月3日，公開志晟的概念照。
   - 2月4日，公開仁俊的概念照。
@@ -19,8 +14,7 @@ Last)正式展開宣傳活動\[1\]。由[SM娛樂製作](../Page/SM娛樂.md "wi
 
 ## 概要
 
-主打歌《最後的初戀》是有著輕快節奏的流行舞曲，歌詞描述少年們想讓初戀變成最後的戀愛，要向對方表達「你是我最後的愛情」，專輯中還收錄了翻唱自1993年李承煥發行的作品《Dunk
-Shot (덩크슛)》、先前發行的《泡泡糖 (Chewing Gum)》等歌曲。\[4\]
+主打歌《最後的初戀》是有著輕快節奏的流行舞曲，歌詞描述少年們想讓初戀變成最後的戀愛，要向對方表達「你是我最後的愛情」，專輯中還收錄了翻唱自1993年李承煥發行的作品《Dunk Shot (덩크슛)》、先前發行的《泡泡糖 (Chewing Gum)》等歌曲。\[4\]
 
 ## 曲目
 
@@ -75,15 +69,10 @@ Shot (덩크슛)》、先前發行的《泡泡糖 (Chewing Gum)》等歌曲。\[
   -
   -
   -
-[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink")
-[Category:NCT](https://zh.wikipedia.org/wiki/Category:NCT "wikilink")
-[Category:2017年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink") [Category:NCT](https://zh.wikipedia.org/wiki/Category:NCT "wikilink") [Category:2017年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon專輯週榜冠軍作品 "wikilink")
 
-1.  [NCT DREAM 9日發行首張單曲專輯《The
-    First》回歸！成員渽民因傷缺席](http://www.koreastardaily.com/tc/news/90512)KSD韓星網
-2.  [NCT DREAM S.M. Ent.：NCT DREAM
-    將於2月回歸](http://kpopn.niusnews.com/=K1ybzbx6)Kpopn
+1.  [NCT DREAM 9日發行首張單曲專輯《The First》回歸！成員渽民因傷缺席](http://www.koreastardaily.com/tc/news/90512)KSD韓星網
+2.  [NCT DREAM S.M. Ent.：NCT DREAM 將於2月回歸](http://kpopn.niusnews.com/=K1ybzbx6)Kpopn
 3.  [NCT DREAM 以六人組在2月9日回歸！](http://kpopn.niusnews.com/=K3wfjp84)Kpopn
-4.  [NCT DREAM《The
-    First》音源、MV](http://kpopn.niusnews.com/=K320pt83)Kpopn
+4.  [NCT DREAM《The First》音源、MV](http://kpopn.niusnews.com/=K320pt83)Kpopn
 5.

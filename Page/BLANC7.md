@@ -1,5 +1,4 @@
-**BLANC7**（），是[韓國Jackpot](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-Entertainment旗下男子组合，组合成员有七人。
+**BLANC7**（），是[韓國Jackpot](https://zh.wikipedia.org/wiki/韓國 "wikilink") Entertainment旗下男子组合，组合成员有七人。
 
 官方公佈歌迷名稱為PRISM。
 
@@ -7,14 +6,11 @@ Entertainment旗下男子组合，组合成员有七人。
 
 ''' 出道前 '''
 
-Jean Paul
-以前是男子團體[BTL的成員](https://zh.wikipedia.org/wiki/BTL_\(組合\) "wikilink")。
+Jean Paul 以前是男子團體[BTL的成員](https://zh.wikipedia.org/wiki/BTL_\(組合\) "wikilink")。
 
-Teno，Shinwoo，Taichi
-以前是男子團體[M.Crown的成員](https://zh.wikipedia.org/wiki/M.Crown "wikilink")。
+Teno，Shinwoo，Taichi 以前是男子團體[M.Crown的成員](https://zh.wikipedia.org/wiki/M.Crown "wikilink")。
 
-Shinwoo
-成為男子團體[M.Crown成員之前](https://zh.wikipedia.org/wiki/M.Crown "wikilink")，曾經是[ID-Beatidentity的成員](https://zh.wikipedia.org/wiki/ID-Beatidentity "wikilink")，並在日本出道。
+Shinwoo 成為男子團體[M.Crown成員之前](https://zh.wikipedia.org/wiki/M.Crown "wikilink")，曾經是[ID-Beatidentity的成員](https://zh.wikipedia.org/wiki/ID-Beatidentity "wikilink")，並在日本出道。
 
 ### 2017年：出道，首張單曲，首張迷你專輯
 
@@ -22,8 +18,7 @@ Shinwoo
 
 2月25日，官方Youtube頻道推出出道曲/單曲《Yeah》的[預告](https://www.youtube.com/watch?v=_lDV2ft_6BM)。
 
-2月28日，在日本南堀江Villebore舉辦「BLANC7 JAPAN
-SHOWCASE」，粉絲入場1000日元，並限量130名入場\[1\]。
+2月28日，在日本南堀江Villebore舉辦「BLANC7 JAPAN SHOWCASE」，粉絲入場1000日元，並限量130名入場\[1\]。
 
 3月3日，在韓國正式出道，以及发行首張單曲《Prism》\[2\]。
 
@@ -35,8 +30,7 @@ SHOWCASE」，粉絲入場1000日元，並限量130名入場\[1\]。
 
 ### 2018年
 
-9月3日，時隔約1年的回歸，由曾與李仙姬、曹誠模、金鍾國等多位歌手合作過的 Kiroy Y 負責製作，在韓國首爾舉辦第3張迷你專輯《TAKE
-OFF》首秀場，MV、專輯並於當日正式公開。
+9月3日，時隔約1年的回歸，由曾與李仙姬、曹誠模、金鍾國等多位歌手合作過的 Kiroy Y 負責製作，在韓國首爾舉辦第3張迷你專輯《TAKE OFF》首秀場，MV、專輯並於當日正式公開。
 
 ### 2019年
 
@@ -178,18 +172,11 @@ OFF》首秀場，MV、專輯並於當日正式公開。
 
   - BLANC7 [日本官方Twitter](https://twitter.com/BLANC7_JAPAN)
 
-  - BLANC7
-    [官方Youtube](https://www.youtube.com/channel/UCc2YWIyaTidAuunH3EZhU2w)
+  - BLANC7 [官方Youtube](https://www.youtube.com/channel/UCc2YWIyaTidAuunH3EZhU2w)
 
   - BLANC7 [官方Instagram](https://www.instagram.com/blanc7_official/)
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
-[Category:2019年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年解散的音樂團體 "wikilink")
-[Category:已解散的韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國男子演唱團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:2019年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年解散的音樂團體 "wikilink") [Category:已解散的韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國男子演唱團體 "wikilink")
 
 1.
 2.

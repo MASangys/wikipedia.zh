@@ -1,4 +1,4 @@
-**吕基亚字母**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了用来拼写古代[吕基亚语的字母](../Page/吕基亚语.md "wikilink")。
+**吕基亚字母**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了用来拼写古代[吕基亚语](../Page/吕基亚语.md "wikilink")的字母。
 
 ## 历史
 

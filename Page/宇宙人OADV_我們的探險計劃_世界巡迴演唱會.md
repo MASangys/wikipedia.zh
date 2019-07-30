@@ -1,5 +1,4 @@
-是台灣搖滾樂團[宇宙人為宣傳其第四張錄音室專輯](https://zh.wikipedia.org/wiki/宇宙人_\(台灣樂團\) "wikilink")《[右腦RIGHT
-NOW](https://zh.wikipedia.org/wiki/右腦RIGHT_NOW "wikilink")》而舉行的第一次巡迴演唱會。巡演自2018年4月29日於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北開始](https://zh.wikipedia.org/wiki/台北 "wikilink")。
+是台灣搖滾樂團[宇宙人為宣傳其第四張錄音室專輯](https://zh.wikipedia.org/wiki/宇宙人_\(台灣樂團\) "wikilink")《[右腦RIGHT NOW](https://zh.wikipedia.org/wiki/右腦RIGHT_NOW "wikilink")》而舉行的第一次巡迴演唱會。巡演自2018年4月29日於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北開始](https://zh.wikipedia.org/wiki/台北 "wikilink")。
 
 ## 場次列表
 
@@ -29,9 +28,7 @@ NOW](https://zh.wikipedia.org/wiki/右腦RIGHT_NOW "wikilink")》而舉行的第
 
 ## 參考文獻
 
-[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
-[Category:宇宙人樂團巡迴演唱會](https://zh.wikipedia.org/wiki/Category:宇宙人樂團巡迴演唱會 "wikilink")
-[Category:2018年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2018年巡迴演唱會 "wikilink")
+[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink") [Category:宇宙人樂團巡迴演唱會](https://zh.wikipedia.org/wiki/Category:宇宙人樂團巡迴演唱會 "wikilink") [Category:2018年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2018年巡迴演唱會 "wikilink")
 
 1.
 2.

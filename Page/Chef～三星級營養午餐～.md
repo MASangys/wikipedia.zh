@@ -1,11 +1,8 @@
-，為2016年10月起毎週四晚間10:00－10:54於[富士電視台聯播網的](../Page/富士電視台.md "wikilink")「[富士電視台週四連續劇](https://zh.wikipedia.org/wiki/富士電視台週四連續劇 "wikilink")」時段播出的連續劇，由[天海祐希主演](../Page/天海祐希.md "wikilink")\[1\]。
+，為2016年10月起毎週四晚間10:00－10:54於[富士電視台](../Page/富士電視台.md "wikilink")聯播網的「[富士電視台週四連續劇](https://zh.wikipedia.org/wiki/富士電視台週四連續劇 "wikilink")」時段播出的連續劇，由[天海祐希](../Page/天海祐希.md "wikilink")主演\[1\]。
 
 ## 故事概要
 
-原本是[米其林三星級餐廳主廚的星野光子](../Page/米其林指南.md "wikilink")（[天海祐希](../Page/天海祐希.md "wikilink")
-飾），由於經營理念與餐廳經營者篠田章吾（[小泉孝太郎](../Page/小泉孝太郎.md "wikilink")
-飾）不合，在篠田的陰謀下被迫離開餐廳，到處求職卻處處碰壁。閒賦在家的星野接到CNB電視台節目製作人矢口早紀（
-飾）的電話，邀請星野擔任小學餐廳的主廚，期間經歷了學校經費不足、學生口味不同及營養均衡考量的不同問題，她毅然決定面對這些挑戰，為了讓全校師生能夠享用到「-{zh-hk:無得頂的美味;zh-tw:好吃到極點;}-」而努力。\[2\]
+原本是[米其林三星級餐廳主廚的星野光子](../Page/米其林指南.md "wikilink")（[天海祐希](../Page/天海祐希.md "wikilink") 飾），由於經營理念與餐廳經營者篠田章吾（[小泉孝太郎](../Page/小泉孝太郎.md "wikilink") 飾）不合，在篠田的陰謀下被迫離開餐廳，到處求職卻處處碰壁。閒賦在家的星野接到CNB電視台節目製作人矢口早紀（ 飾）的電話，邀請星野擔任小學餐廳的主廚，期間經歷了學校經費不足、學生口味不同及營養均衡考量的不同問題，她毅然決定面對這些挑戰，為了讓全校師生能夠享用到「-{zh-hk:無得頂的美味;zh-tw:好吃到極點;}-」而努力。\[2\]
 
 ## 登場人物
 
@@ -16,8 +13,7 @@
 <!-- end list -->
 
   -
-    備受注目的天才廚師。在巴黎修業歸國後於有名的法式餐廳「女王餐廳（Le Cuisine de la
-    Reine）」擔任料理長，因食物中毒事件而被迫離職餐廳。之後到三葉小學擔任小學伙食的主廚。
+    備受注目的天才廚師。在巴黎修業歸國後於有名的法式餐廳「女王餐廳（Le Cuisine de la Reine）」擔任料理長，因食物中毒事件而被迫離職餐廳。之後到三葉小學擔任小學伙食的主廚。
 
 <!-- end list -->
 
@@ -316,8 +312,7 @@
   - 料理顧問指導：鈴木哲也、伊藤博史、石井剛
   - 營養午餐顧問指導：松丸獎
   - 製作人：長部聰介、高田雄貴
-  - 主題歌：[松任谷由實](../Page/松任谷由實.md "wikilink")、[天海祐希](../Page/天海祐希.md "wikilink")「Smile
-    for me」\[5\]（EMI RECORDS）
+  - 主題歌：[松任谷由實](../Page/松任谷由實.md "wikilink")、[天海祐希](../Page/天海祐希.md "wikilink")「Smile for me」\[5\]（EMI RECORDS）
   - 製作：[富士電視台](../Page/富士電視台.md "wikilink")
 
 ## 播出日程
@@ -450,14 +445,7 @@
 
   - \[<http://programme.tvb.com/drama/chefthreestarschoollunch0002>　《小學-{餐}-女廚神》－無綫電視官方網站\]
 
-[Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink")
-[Category:富士電視台週四連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週四連續劇 "wikilink")
-[Category:料理電視劇](https://zh.wikipedia.org/wiki/Category:料理電視劇 "wikilink")
-[Category:小學背景電視劇](https://zh.wikipedia.org/wiki/Category:小學背景電視劇 "wikilink")
-[Category:廚師主角題材電視劇](https://zh.wikipedia.org/wiki/Category:廚師主角題材電視劇 "wikilink")
-[Category:電視台背景作品](https://zh.wikipedia.org/wiki/Category:電視台背景作品 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
+[Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink") [Category:富士電視台週四連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週四連續劇 "wikilink") [Category:料理電視劇](https://zh.wikipedia.org/wiki/Category:料理電視劇 "wikilink") [Category:小學背景電視劇](https://zh.wikipedia.org/wiki/Category:小學背景電視劇 "wikilink") [Category:廚師主角題材電視劇](https://zh.wikipedia.org/wiki/Category:廚師主角題材電視劇 "wikilink") [Category:電視台背景作品](https://zh.wikipedia.org/wiki/Category:電視台背景作品 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
 
 1.
 2.  [天海祐希秋季新戲《Chef\~三星級的營養午餐》挑戰主廚角色](http://big5.soundofhope.org/node/824787)

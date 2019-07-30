@@ -1,9 +1,6 @@
-《**我要當歌手**2》（）是[臺灣電視公司](../Page/臺灣電視公司.md "wikilink")（台視）[綜藝節目](../Page/綜藝節目.md "wikilink")，是《[紅白紅白我勝利](../Page/紅白紅白我勝利.md "wikilink")》、《[綜藝十八班](../Page/綜藝十八班.md "wikilink")》、《[百萬大明星](../Page/百萬大明星.md "wikilink")》的續作，號稱全台最大格局選秀節目，[友松傳播製作](https://zh.wikipedia.org/wiki/友松傳播 "wikilink")，製作人為[薛聖棻](../Page/薛聖棻.md "wikilink")、陳俊良、黃琳容、翁偉祥、沈丹桂，主持人為[黃子佼](../Page/黃子佼.md "wikilink")，阿毛老師率領Super
-Band伴奏，2015年4月19日起每[週日](https://zh.wikipedia.org/wiki/週日 "wikilink")[晚上](https://zh.wikipedia.org/wiki/晚上 "wikilink")08:00首播。\[1\]
+《**我要當歌手**2》（）是[臺灣電視公司](../Page/臺灣電視公司.md "wikilink")（台視）[綜藝節目](../Page/綜藝節目.md "wikilink")，是《[紅白紅白我勝利](../Page/紅白紅白我勝利.md "wikilink")》、《[綜藝十八班](../Page/綜藝十八班.md "wikilink")》、《[百萬大明星](../Page/百萬大明星.md "wikilink")》的續作，號稱全台最大格局選秀節目，[友松傳播製作](https://zh.wikipedia.org/wiki/友松傳播 "wikilink")，製作人為[薛聖棻](../Page/薛聖棻.md "wikilink")、陳俊良、黃琳容、翁偉祥、沈丹桂，主持人為[黃子佼](../Page/黃子佼.md "wikilink")，阿毛老師率領Super Band伴奏，2015年4月19日起每[週日](https://zh.wikipedia.org/wiki/週日 "wikilink")[晚上](https://zh.wikipedia.org/wiki/晚上 "wikilink")08:00首播。\[1\]
 
-2015年4月19日改版，由愛妮雅化妝品集團（Altamoda Cosmetics
-Group）冠名[贊助](https://zh.wikipedia.org/wiki/贊助 "wikilink")，其正式節目名稱變更為《**愛妮雅化妝品Super
-Star我要當歌手**》。
+2015年4月19日改版，由愛妮雅化妝品集團（Altamoda Cosmetics Group）冠名[贊助](https://zh.wikipedia.org/wiki/贊助 "wikilink")，其正式節目名稱變更為《**愛妮雅化妝品Super Star我要當歌手**》。
 
 ## 每集评审
 
@@ -3396,11 +3393,6 @@ ONE NIGHT IN 北京</p></td>
 
 ## 節目的變遷
 
-[Category:台視電視節目](https://zh.wikipedia.org/wiki/Category:台視電視節目 "wikilink")
-[Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink")
-[Category:演藝選拔節目](https://zh.wikipedia.org/wiki/Category:演藝選拔節目 "wikilink")
-[Category:歌唱比賽](https://zh.wikipedia.org/wiki/Category:歌唱比賽 "wikilink")
-[Category:友松傳播製作電視節目](https://zh.wikipedia.org/wiki/Category:友松傳播製作電視節目 "wikilink")
+[Category:台視電視節目](https://zh.wikipedia.org/wiki/Category:台視電視節目 "wikilink") [Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink") [Category:演藝選拔節目](https://zh.wikipedia.org/wiki/Category:演藝選拔節目 "wikilink") [Category:歌唱比賽](https://zh.wikipedia.org/wiki/Category:歌唱比賽 "wikilink") [Category:友松傳播製作電視節目](https://zh.wikipedia.org/wiki/Category:友松傳播製作電視節目 "wikilink")
 
-1.  [選秀節目新改版 參賽者出絕招"求存活"　紅白合唱兩隊大PK 隊長帶領團隊爭取勝利　殘酷舞台淘汰賽
-    選手使渾身解數拚了\!](http://www.ttv.com.tw/104/04/1040419/10404190024500L.htm?from=568)，《[台视新闻](https://zh.wikipedia.org/wiki/台视新闻 "wikilink")》，2015年4月19日
+1.  [選秀節目新改版 參賽者出絕招"求存活"　紅白合唱兩隊大PK 隊長帶領團隊爭取勝利　殘酷舞台淘汰賽 選手使渾身解數拚了\!](http://www.ttv.com.tw/104/04/1040419/10404190024500L.htm?from=568)，《[台视新闻](https://zh.wikipedia.org/wiki/台视新闻 "wikilink")》，2015年4月19日

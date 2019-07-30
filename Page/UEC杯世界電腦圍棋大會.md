@@ -87,7 +87,7 @@ UEC杯世界電腦圍棋大會首日進行預賽，積分前16位的圍棋程-{z
 | 〃               | 冠军 | Zen                                            | 让4子 | 依田紀基九段                                                           | 依田中盤勝                    |
 | 第3届（2015年）      | 亚军 | DolBaram                                       | 让4子 | [二十五世本因坊治勲](https://zh.wikipedia.org/wiki/赵治勋 "wikilink")（趙治勲九段） | DolBaram中盤勝              |
 | 〃               | 冠军 | Crazy Stone                                    | 让3子 | 二十五世本因坊治勲                                                        | 治勲中盤勝                    |
-| 第4届（2016年）      | 亚军 | [Darkforest](../Page/Darkforest.md "wikilink") | 让3子 | [小林光一名誉棋聖](../Page/小林光一.md "wikilink")                           | 小林中盤勝                    |
+| 第4届（2016年）      | 亚军 | [Darkforest](../Page/Darkforest.md "wikilink") | 让3子 | [小林光一](../Page/小林光一.md "wikilink")名誉棋聖                           | 小林中盤勝                    |
 | 〃               | 冠军 | Zen                                            | 让3子 | 小林光一名誉棋聖                                                         | Zen4目半勝                  |
 | 第5届（2017年）\[5\] | 亚军 | [DeepZenGo](../Page/DeepZenGo.md "wikilink")   | 分先  | [一力辽七段](https://zh.wikipedia.org/wiki/一力辽 "wikilink")            | DeepZenGo中盘胜             |
 | 〃               | 冠军 | [绝艺](../Page/绝艺.md "wikilink")                 | 分先  | 一力辽七段                                                            | 绝艺中盘胜                    |
@@ -97,8 +97,7 @@ UEC杯世界電腦圍棋大會首日進行預賽，積分前16位的圍棋程-{z
 ## 外部連結
 
   - [2016 UEC Cup](http://jsb.cs.uec.ac.jp/~igo/eng/)
-  - [2017 UEC
-    Cup](http://www.computer-go.jp/uec/public_html/index.shtml)
+  - [2017 UEC Cup](http://www.computer-go.jp/uec/public_html/index.shtml)
 
 [Category:围棋比赛](https://zh.wikipedia.org/wiki/Category:围棋比赛 "wikilink")
 

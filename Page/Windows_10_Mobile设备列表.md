@@ -1,14 +1,10 @@
-本列表中包括使用[Windows 10
-Mobile操作系统的设备](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")。
+本列表中包括使用[Windows 10 Mobile操作系统的设备](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")。
 
 ## 已推出
 
 ### 由Windows Phone 8.0系统升级
 
-全世界仅有两款产品可以通过[Windows Phone
-8.0升级至](../Page/Windows_Phone_8.md "wikilink")[Windows Phone
-8.1后再升级至](../Page/Windows_Phone_8.1.md "wikilink")[Windows 10
-Mobile](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")。\[1\]
+全世界仅有两款产品可以通过[Windows Phone 8.0升级至](../Page/Windows_Phone_8.md "wikilink")[Windows Phone 8.1后再升级至](../Page/Windows_Phone_8.1.md "wikilink")[Windows 10 Mobile](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")。\[1\]
 
 <table>
 <thead>
@@ -60,9 +56,7 @@ Mobile](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")。\[1\]
 
 ### 由Windows Phone 8.1升级
 
-由預裝[Windows Phone
-8.1作業系統升级至Windows](../Page/Windows_Phone_8.1.md "wikilink")
-10 Mobile。
+由預裝[Windows Phone 8.1作業系統升级至Windows](../Page/Windows_Phone_8.1.md "wikilink") 10 Mobile。
 
   -
 
@@ -235,8 +229,7 @@ Mobile](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")。\[1\]
 
 ### 手动刷入Windows 10 Mobile
 
-只有一部[Android手机可以通过刷机手动刷入Windows](../Page/Android.md "wikilink") 10
-Mobile系统。
+只有一部[Android](../Page/Android.md "wikilink")手机可以通过刷机手动刷入Windows 10 Mobile系统。
 
 | 產品                                        | 產品推出日期  | CPU速度  | RAM     | 存儲        | 顯示器      | 攝像頭   | 陀螺儀  |
 | ----------------------------------------- | ------- | ------ | ------- | --------- | -------- | ----- | ---- |
@@ -245,8 +238,7 @@ Mobile系统。
 
 ### 预装Windows 10 Mobile
 
-預裝[Windows 10
-Mobile作業系統](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")。
+預裝[Windows 10 Mobile作業系統](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")。
 
 <table>
 <thead>

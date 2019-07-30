@@ -1,15 +1,14 @@
-**[约旦的女同性恋](../Page/约旦.md "wikilink")，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）权利**相比[中东地区的大多数其他国家被认为是比较先进的](../Page/中东.md "wikilink")。同性性行为合法化于1951年，同性恋杂志也能在约旦出版。然而，大多数[LGBT人群面临着非同性恋居民没有经历过的社会歧视](../Page/LGBT.md "wikilink")。\[1\]
+**[约旦](../Page/约旦.md "wikilink")的女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）权利**相比[中东](../Page/中东.md "wikilink")地区的大多数其他国家被认为是比较先进的。同性性行为合法化于1951年，同性恋杂志也能在约旦出版。然而，大多数[LGBT](../Page/LGBT.md "wikilink")人群面临着非同性恋居民没有经历过的社会歧视。\[1\]
 
 ## 刑法
 
-1951年，约旦刑法修订私人，成人，非商业和自愿的[鸡奸合法化](../Page/鸡奸.md "wikilink")，同意年龄设置在16岁。\[2\]
+1951年，约旦刑法修订私人，成人，非商业和自愿的[鸡奸](../Page/鸡奸.md "wikilink")合法化，同意年龄设置在16岁。\[2\]
 
-约旦刑法不再允许家属因“非法”性倾向使整个家庭“耻辱”而殴打或杀害自己家庭中的一员。\[3\]截至2013年，新修订的刑法典将[名譽殺人定为谋杀罪](../Page/名譽殺人.md "wikilink")。\[4\]
+约旦刑法不再允许家属因“非法”性倾向使整个家庭“耻辱”而殴打或杀害自己家庭中的一员。\[3\]截至2013年，新修订的刑法典将[名譽殺人](../Page/名譽殺人.md "wikilink")定为谋杀罪。\[4\]
 
 ## LGBT认可和权利
 
-[Jordan_LGBT_Flag.jpg](https://zh.wikipedia.org/wiki/File:Jordan_LGBT_Flag.jpg "fig:Jordan_LGBT_Flag.jpg")
-约旦政府第一次做出关于同性恋权利的公开声明是在1995年举行的上。国际会议试图解决在全球范围内的妇女权利问题，并有人建议让会议正式讨论同性恋和双性恋女性的人权。约旦出席大会帮助否决建议。\[5\]
+[Jordan_LGBT_Flag.jpg](https://zh.wikipedia.org/wiki/File:Jordan_LGBT_Flag.jpg "fig:Jordan_LGBT_Flag.jpg") 约旦政府第一次做出关于同性恋权利的公开声明是在1995年举行的上。国际会议试图解决在全球范围内的妇女权利问题，并有人建议让会议正式讨论同性恋和双性恋女性的人权。约旦出席大会帮助否决建议。\[5\]
 
 约旦议会迄今没有任何解决性身份的歧视或偏见动机的犯罪的法律存在或提出。同性婚姻，或比较有限的[民事结合](https://zh.wikipedia.org/wiki/民事结合 "wikilink")，约旦法律均不承认，也没有公开努力修改这些法律。
 
@@ -27,11 +26,9 @@ Books@Cafe于1997年开业，至今仍是流行的书店和咖啡馆，支持顾
 
 新闻出版法于1998年和2004年进行了修订。最初的法案禁止描绘或让“[性偏離](../Page/性偏離.md "wikilink")”代言，这可能包括[同性恋](https://zh.wikipedia.org/wiki/同性恋 "wikilink")。\[9\]在2004年修订后的版本有对LGBT权利直接影响的一些规定。首先，关于“性变态”的内容禁令已被替换为“尊重阿拉伯和伊斯兰国家......的价值”，而记者也必须避免侵犯到人们的私人生活。
 
-同性恋为主题的约旦出版物是合法的。
-2007年，第一个同性恋为主题的约旦出版物出现。一年后，杂志《My.Kali》在网上创刊，以公开出柜的男模特Khalid的名字命名。\[10\]，这成为各大报纸的头条新闻，因为它是中东和北非地区有史以来第一部LGBT出版物。\[11\]\[12\]
+同性恋为主题的约旦出版物是合法的。 2007年，第一个同性恋为主题的约旦出版物出现。一年后，杂志《My.Kali》在网上创刊，以公开出柜的男模特Khalid的名字命名。\[10\]，这成为各大报纸的头条新闻，因为它是中东和北非地区有史以来第一部LGBT出版物。\[11\]\[12\]
 
-2014年和2015年在约旦首都安曼举办了[國際不再恐同日的活动](../Page/國際不再恐同日.md "wikilink")，主要是为教育目的，宗旨是提高社群声音和对难题的讨论。许多约旦活动家、同性恋社区的成员和LGBT盟友参加了活动。2015年第二次活动举行时美国驻约旦大使Alice
-G Wells是主讲人之一。
+2014年和2015年在约旦首都安曼举办了[國際不再恐同日](../Page/國際不再恐同日.md "wikilink")的活动，主要是为教育目的，宗旨是提高社群声音和对难题的讨论。许多约旦活动家、同性恋社区的成员和LGBT盟友参加了活动。2015年第二次活动举行时美国驻约旦大使Alice G Wells是主讲人之一。
 
 ## 舆论
 
@@ -63,26 +60,16 @@ G Wells是主讲人之一。
 [Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink")
 
 1.
-2.  \[Schmitt, Arno & Sofer, Jehoeda, 1992, *Sexuality and Eroticism
-    Among Males in Moslem Societies*, Binghamton: Harrington Park Press,
-    1992, ISBN 0-918393-91-4, pages 137-138.
+2.  \[Schmitt, Arno & Sofer, Jehoeda, 1992, *Sexuality and Eroticism Among Males in Moslem Societies*, Binghamton: Harrington Park Press, 1992, ISBN 0-918393-91-4, pages 137-138.
 3.
-4.  [Jordan courts sentence 2 for ‘honor
-    killings’](http://www.msnbc.msn.com/id/19443398/ns/world_news-mideast_n_africa/t/jordan-courts-sentence-honor-killings/#.UPsbpPJyGSo)
+4.  [Jordan courts sentence 2 for ‘honor killings’](http://www.msnbc.msn.com/id/19443398/ns/world_news-mideast_n_africa/t/jordan-courts-sentence-honor-killings/#.UPsbpPJyGSo)
 5.  [Asylumlaw.org](http://www.asylumlaw.org/docs/sexualminorities/Jordan%202%20SO%20%5B97-2000%5D.pdf)
-
 6.
 7.  [soginews.com](http://www.soginews.com/4881-mena/)
 8.
-9.  [Jordan draft press
-    law](http://www.article19.org/pdfs/press/jordan-draft-press-law.pdf)
-
-10. [LGBT hero
-    Khalid](http://www.polarimagazine.com/lgbt-history-month/lgbt-hero-khalid/)
-11. ["Jordan: a gay magazine gives an hope to Middle East",
-    *Ilgrandecolibri.com*, retrieved 11 August
-    2012](http://www.ilgrandecolibri.com/2012/08/jordan-gay-mykalimag.html)
+9.  [Jordan draft press law](http://www.article19.org/pdfs/press/jordan-draft-press-law.pdf)
+10. [LGBT hero Khalid](http://www.polarimagazine.com/lgbt-history-month/lgbt-hero-khalid/)
+11. ["Jordan: a gay magazine gives an hope to Middle East", *Ilgrandecolibri.com*, retrieved 11 August 2012](http://www.ilgrandecolibri.com/2012/08/jordan-gay-mykalimag.html)
 12.
-13. [The Global Divide on
-    Homosexuality](http://www.pewglobal.org/2013/06/04/the-global-divide-on-homosexuality/)
+13. [The Global Divide on Homosexuality](http://www.pewglobal.org/2013/06/04/the-global-divide-on-homosexuality/)
 14. [www.ammonnews.net](http://www.ammonnews.net/article.aspx?articleno=208487)

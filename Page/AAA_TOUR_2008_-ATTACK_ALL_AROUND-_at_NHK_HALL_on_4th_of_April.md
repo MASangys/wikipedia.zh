@@ -1,5 +1,4 @@
-『**AAA TOUR 2008 -ATTACK ALL AROUND- at NHK HALL on 4th of
-April**』是[日本團體](../Page/日本.md "wikilink")[AAA在](../Page/AAA_\(團體\).md "wikilink")2008年8月27日發售的第六個影像作品。
+『**AAA TOUR 2008 -ATTACK ALL AROUND- at NHK HALL on 4th of April**』是[日本](../Page/日本.md "wikilink")團體[AAA在](../Page/AAA_\(團體\).md "wikilink")2008年8月27日發售的第六個影像作品。
 
 ## 概要
 
@@ -35,18 +34,15 @@ April**』是[日本團體](../Page/日本.md "wikilink")[AAA在](../Page/AAA_\(
 14. [Shalala 希望之歌](../Page/Shalala_希望之歌.md "wikilink")
 15. ["Q"](../Page/"Q".md "wikilink")
 16. [Red Soul](../Page/Red_Soul.md "wikilink")
-17. [颶風·莉莉，波士頓·瑪麗 (Original long
-    version)](../Page/颶風·莉莉，波士頓·瑪麗.md "wikilink")
+17. [颶風·莉莉，波士頓·瑪麗 (Original long version)](../Page/颶風·莉莉，波士頓·瑪麗.md "wikilink")
 18. [Winter lander\!](../Page/Black_&_White_\(AAA單曲\).md "wikilink")
 19. [Samurai heart-侍魂-](../Page/Black_&_White_\(AAA單曲\).md "wikilink")
-20. [That's
-    Right](https://zh.wikipedia.org/wiki/紅唇羅曼蒂卡_/_That's_Right "wikilink")'''
+20. [That's Right](https://zh.wikipedia.org/wiki/紅唇羅曼蒂卡_/_That's_Right "wikilink")'''
 21. [BLOOD on FIRE](../Page/BLOOD_on_FIRE.md "wikilink")
 
 ENCORE
 
-1.  [Climax
-    Jump](https://zh.wikipedia.org/wiki/Climax_Jump#Climax_Jump "wikilink")
+1.  [Climax Jump](https://zh.wikipedia.org/wiki/Climax_Jump#Climax_Jump "wikilink")
 2.  [BEYOND～超越極限](../Page/BEYOND～超越極限.md "wikilink")
 3.  [我們的手](../Page/ATTACK_\(AAA專輯\).md "wikilink")
 4.  [SUNSHINE](../Page/夏日風物.md "wikilink")

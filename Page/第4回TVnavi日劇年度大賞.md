@@ -1,5 +1,4 @@
-[第3回](../Page/第3回TVnavi日劇年度大賞.md "wikilink") ← **第4回** →
-[第5回](../Page/第5回TVnavi日劇年度大賞.md "wikilink")
+[第3回](../Page/第3回TVnavi日劇年度大賞.md "wikilink") ← **第4回** → [第5回](../Page/第5回TVnavi日劇年度大賞.md "wikilink")
 
 **第4回[TVnavi日劇年度大賞](../Page/TVnavi日劇年度大賞.md "wikilink")**是針對2007年春季至2008年冬季播出的連續劇做出的觀眾投票，以下為入圍及得獎名單。
 
@@ -142,6 +141,4 @@
 
   - [TVnavi日劇年度大賞第4回得獎名單](http://www.tvnaviweb.jp/TVnavi_contents/doYear/2007index.html)
 
-
-[Category:2007年日本](https://zh.wikipedia.org/wiki/Category:2007年日本 "wikilink")
-[Category:2007年电视奖项](https://zh.wikipedia.org/wiki/Category:2007年电视奖项 "wikilink")
+[Category:2007年日本](https://zh.wikipedia.org/wiki/Category:2007年日本 "wikilink") [Category:2007年电视奖项](https://zh.wikipedia.org/wiki/Category:2007年电视奖项 "wikilink")

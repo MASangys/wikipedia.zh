@@ -13,24 +13,11 @@
   -
   -
   -
-  - ["The Office's BJ Novak:
-    Uncut"](http://www.npr.org/blogs/bryantpark/2008/05/the_offices_bj_novak_uncut.html),
-    an NPR interview from May 2008
+  - ["The Office's BJ Novak: Uncut"](http://www.npr.org/blogs/bryantpark/2008/05/the_offices_bj_novak_uncut.html), an NPR interview from May 2008
 
-[Category:美國電影男演員](https://zh.wikipedia.org/wiki/Category:美國電影男演員 "wikilink")
-[Category:美國電視男演員](https://zh.wikipedia.org/wiki/Category:美國電視男演員 "wikilink")
-[Category:美國電視編劇](https://zh.wikipedia.org/wiki/Category:美國電視編劇 "wikilink")
-[Category:哈佛大學校友](https://zh.wikipedia.org/wiki/Category:哈佛大學校友 "wikilink")
-[Category:美国编剧工会奖得主](https://zh.wikipedia.org/wiki/Category:美国编剧工会奖得主 "wikilink")
-[Category:美国喜剧男演员](https://zh.wikipedia.org/wiki/Category:美国喜剧男演员 "wikilink")
-[Category:美國男作家](https://zh.wikipedia.org/wiki/Category:美國男作家 "wikilink")
-[Category:犹太裔美国作家](https://zh.wikipedia.org/wiki/Category:犹太裔美国作家 "wikilink")
-[Category:美国男性编剧](https://zh.wikipedia.org/wiki/Category:美国男性编剧 "wikilink")
+[Category:美國電影男演員](https://zh.wikipedia.org/wiki/Category:美國電影男演員 "wikilink") [Category:美國電視男演員](https://zh.wikipedia.org/wiki/Category:美國電視男演員 "wikilink") [Category:美國電視編劇](https://zh.wikipedia.org/wiki/Category:美國電視編劇 "wikilink") [Category:哈佛大學校友](https://zh.wikipedia.org/wiki/Category:哈佛大學校友 "wikilink") [Category:美国编剧工会奖得主](https://zh.wikipedia.org/wiki/Category:美国编剧工会奖得主 "wikilink") [Category:美国喜剧男演员](https://zh.wikipedia.org/wiki/Category:美国喜剧男演员 "wikilink") [Category:美國男作家](https://zh.wikipedia.org/wiki/Category:美國男作家 "wikilink") [Category:犹太裔美国作家](https://zh.wikipedia.org/wiki/Category:犹太裔美国作家 "wikilink") [Category:美国男性编剧](https://zh.wikipedia.org/wiki/Category:美国男性编剧 "wikilink")
 
 1.
-2.  ["B.J. Novak on his 'Mindy Project' arc, being BFF with Mindy
-    Kaling, and returning to 'The
-    Office'"](http://ohnotheydidnt.livejournal.com/75080922.html),
-    ohnotheydidnt.livejournal.com, January 29, 2013.
+2.  ["B.J. Novak on his 'Mindy Project' arc, being BFF with Mindy Kaling, and returning to 'The Office'"](http://ohnotheydidnt.livejournal.com/75080922.html), ohnotheydidnt.livejournal.com, January 29, 2013.
 
 3.

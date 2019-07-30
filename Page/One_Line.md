@@ -1,5 +1,4 @@
-《**One
-Line**》（）是2017年3月29日上映的一部韓國犯罪電影，講述了捲入大型借貸詐騙案的平凡大學生，與各懷目標的專業詐騙犯之間發生的故事。
+《**One Line**》（）是2017年3月29日上映的一部韓國犯罪電影，講述了捲入大型借貸詐騙案的平凡大學生，與各懷目標的專業詐騙犯之間發生的故事。
 
 ## 演員
 
@@ -26,6 +25,4 @@ Line**》（）是2017年3月29日上映的一部韓國犯罪電影，講述了�
   - [NAVER電影](http://movie.naver.com/movie/bi/mi/basic.nhn?code=142699)
   - [Daum電影](http://movie.daum.net/moviedb/main?movieId=100234)
 
-[Category:2017年電影](https://zh.wikipedia.org/wiki/Category:2017年電影 "wikilink")
-[Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink")
-[Category:韓國犯罪片](https://zh.wikipedia.org/wiki/Category:韓國犯罪片 "wikilink")
+[Category:2017年電影](https://zh.wikipedia.org/wiki/Category:2017年電影 "wikilink") [Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink") [Category:韓國犯罪片](https://zh.wikipedia.org/wiki/Category:韓國犯罪片 "wikilink")

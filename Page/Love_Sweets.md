@@ -1,10 +1,8 @@
-《**Love
-Sweets**》是由[MOONSTONE製作於](../Page/MOONSTONE.md "wikilink")2014年4月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，後來發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")\[2\]和[Android版](../Page/Android.md "wikilink")。
+《**Love Sweets**》是由[MOONSTONE](../Page/MOONSTONE.md "wikilink")製作於2014年4月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，後來發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")\[2\]和[Android](../Page/Android.md "wikilink")版。
 
 ## 故事
 
-双見樹在得知朋友在打工地方交到女友後，原本想交的女友的樹也開始有了仿效念頭。為了達成目標，樹來到咖啡廳「Cafe Hot
-Chocolat」開始打工。
+双見樹在得知朋友在打工地方交到女友後，原本想交的女友的樹也開始有了仿效念頭。為了達成目標，樹來到咖啡廳「Cafe Hot Chocolat」開始打工。
 
 ## 角色
 
@@ -13,8 +11,7 @@ Chocolat」開始打工。
   - 音無奏繪（音無奏絵，聲優：篠原ゆみ）
     身高：158cm，三圍：B88（F）/W57/H86
     2年A組的學生，Cafe Hot Chocolat的服務生。夢想能成為糕點師傅，一年前就來到店內打工。
-  - 一之瀬結衣（一ノ瀬
-    結衣，聲優：[桃井いちご](https://zh.wikipedia.org/wiki/桃井いちご "wikilink")）
+  - 一之瀬結衣（一ノ瀬 結衣，聲優：[桃井いちご](https://zh.wikipedia.org/wiki/桃井いちご "wikilink")）
     身高：160cm，三圍：B86（E）/W56/H87
     2年C組的學生，樹的青梅竹馬，後來擔任Cafe Hot Chocolat的服務生。
   - 音無櫛無（聲優：真宮ゆず）
@@ -40,14 +37,7 @@ Chocolat」開始打工。
 
   - [官方網站](http://www.moon-stone.jp/product/ms17/)MOONSTONE
 
-[Category:2014年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2014年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
+[Category:2014年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2014年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
 
 1.
 2.

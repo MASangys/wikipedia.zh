@@ -1,23 +1,12 @@
-**電波Jack-World Wide Akihabara-**（,
-），是[富士電視台聯播網](../Page/富士電視台.md "wikilink")，於2014年10月19日到2015年3月22日間，每週一凌晨2:50-3:20（JST）播映的談話娛樂性節目。也是[電波組.inc第一個](../Page/電波組.inc.md "wikilink")[無線電視的冠名節目](https://zh.wikipedia.org/wiki/無線電視 "wikilink")\[1\]。
+**電波Jack-World Wide Akihabara-**（, ），是[富士電視台](../Page/富士電視台.md "wikilink")聯播網，於2014年10月19日到2015年3月22日間，每週一凌晨2:50-3:20（JST）播映的談話娛樂性節目。也是[電波組.inc](../Page/電波組.inc.md "wikilink")第一個[無線電視的冠名節目](https://zh.wikipedia.org/wiki/無線電視 "wikilink")\[1\]。
 
 ## 簡介
 
-以[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[秋葉原的](../Page/秋葉原.md "wikilink")
-Live &
-Bar「秋葉原DearStage」為主場活動的[電波組.inc的成員們](../Page/電波組.inc.md "wikilink")，正好代表了日本的[動漫](../Page/動漫.md "wikilink")、[電玩](https://zh.wikipedia.org/wiki/電玩 "wikilink")、[日本偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")、[Cosplay](../Page/Cosplay.md "wikilink")、[人物模型](https://zh.wikipedia.org/wiki/人物模型 "wikilink")、[同人誌等等的御宅族文化](../Page/同人誌.md "wikilink")，透過這個節目將這些文化從[秋葉原發送到全世界](../Page/秋葉原.md "wikilink")。
+以[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[秋葉原](../Page/秋葉原.md "wikilink")的 Live & Bar「秋葉原DearStage」為主場活動的[電波組.inc](../Page/電波組.inc.md "wikilink")的成員們，正好代表了日本的[動漫](../Page/動漫.md "wikilink")、[電玩](https://zh.wikipedia.org/wiki/電玩 "wikilink")、[日本偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")、[Cosplay](../Page/Cosplay.md "wikilink")、[人物模型](https://zh.wikipedia.org/wiki/人物模型 "wikilink")、[同人誌](../Page/同人誌.md "wikilink")等等的御宅族文化，透過這個節目將這些文化從[秋葉原](../Page/秋葉原.md "wikilink")發送到全世界。
 
-節目開頭都是由虛構的電視新聞節目「DPJ News」開始。在 DPJ News
-中會依播放時間杜撰當時的新聞（只有第20集是播放真實的[殺戮魅影CM的記者發表會](https://zh.wikipedia.org/wiki/殺戮魅影 "wikilink")）。然後電視畫面會變花亂，Rex
-出現並且大喊：「富士電視台被我們奪取了！（We did it\! We took over Fuji
-TV\!）」「將秋葉原文化傳到全世界！（Now we will spread
-Akihabara culture to the whole
-world.）」。接著，[電波組.inc的成員們從畫面兩側出現](../Page/電波組.inc.md "wikilink")，手拿節目名稱單字，並一起說出：「電波Jack！」。之後會帶入節目主題曲。
+節目開頭都是由虛構的電視新聞節目「DPJ News」開始。在 DPJ News 中會依播放時間杜撰當時的新聞（只有第20集是播放真實的[殺戮魅影CM的記者發表會](https://zh.wikipedia.org/wiki/殺戮魅影 "wikilink")）。然後電視畫面會變花亂，Rex 出現並且大喊：「富士電視台被我們奪取了！（We did it\! We took over Fuji TV\!）」「將秋葉原文化傳到全世界！（Now we will spread Akihabara culture to the whole world.）」。接著，[電波組.inc](../Page/電波組.inc.md "wikilink")的成員們從畫面兩側出現，手拿節目名稱單字，並一起說出：「電波Jack！」。之後會帶入節目主題曲。
 
-本節目是由日本遊戲公司「GUMI」、和富士電視台關係企業「FUJI STARTUP VENTURES」的合資公司「Fuji\&gumi
-Games」所贊助播出。節目中也有該公司的手機遊戲「殺戮魅影」的遊戲實況\[2\]。2014年11月14日，富士電視台的首頁中新增了
-Fuji\&gumi
-Games的節目網頁連結。在該網頁中，可以免費觀看電視節目的部份單元。網站中的文字說明、電視節目單元，都有附上英文字幕。此外，還在官方[Twitter中表示](../Page/Twitter.md "wikilink")「是適合銷售到海外的電視節目。認真的說，可以賣到全世界。」\[3\]
+本節目是由日本遊戲公司「GUMI」、和富士電視台關係企業「FUJI STARTUP VENTURES」的合資公司「Fuji\&gumi Games」所贊助播出。節目中也有該公司的手機遊戲「殺戮魅影」的遊戲實況\[2\]。2014年11月14日，富士電視台的首頁中新增了 Fuji\&gumi Games的節目網頁連結。在該網頁中，可以免費觀看電視節目的部份單元。網站中的文字說明、電視節目單元，都有附上英文字幕。此外，還在官方[Twitter](../Page/Twitter.md "wikilink")中表示「是適合銷售到海外的電視節目。認真的說，可以賣到全世界。」\[3\]
 
 一開始時，預定全部一共錄製十集（最後一集為12月22日凌晨），但因為持續收到觀眾「希望能繼續」的意見，宣佈從2015年1月起會繼續播放第二季。最後一共放映了20集。
 
@@ -37,25 +26,23 @@ Games的節目網頁連結。在該網頁中，可以免費觀看電視節目的
 
 ## 節目單元
 
-  - 御宅藝博覽會（）：由[最上もが](https://zh.wikipedia.org/wiki/最上もが "wikilink")、[藤咲彩音主演](../Page/藤咲彩音.md "wikilink")。
+  - 御宅藝博覽會（）：由[最上もが](https://zh.wikipedia.org/wiki/最上もが "wikilink")、[藤咲彩音](../Page/藤咲彩音.md "wikilink")主演。
   - 女僕連連看（）：由[相沢梨紗](https://zh.wikipedia.org/wiki/相沢梨紗 "wikilink")、[夢眠ねむ主演](https://zh.wikipedia.org/wiki/夢眠ねむ "wikilink")。
-  - 擬人化QUIZ（）：由[古川未鈴主持](../Page/古川未鈴.md "wikilink")、其他成員共同演出。
+  - 擬人化QUIZ（）：由[古川未鈴](../Page/古川未鈴.md "wikilink")主持、其他成員共同演出。
   - 妄想虛擬約會（）：由成員一位輪流演出。
   - 明天就能用的御宅語講座（）：由[夢眠ねむ](https://zh.wikipedia.org/wiki/夢眠ねむ "wikilink")、[成瀬瑛美主演](https://zh.wikipedia.org/wiki/成瀬瑛美 "wikilink")。
-  - 電波激熱同人誌（）：由[成瀬瑛美](https://zh.wikipedia.org/wiki/成瀬瑛美 "wikilink")、[藤咲彩音主演](../Page/藤咲彩音.md "wikilink")。
+  - 電波激熱同人誌（）：由[成瀬瑛美](https://zh.wikipedia.org/wiki/成瀬瑛美 "wikilink")、[藤咲彩音](../Page/藤咲彩音.md "wikilink")主演。
   - 煩惱諮詢室。秋葉原之園（）：由[最上もが主持](https://zh.wikipedia.org/wiki/最上もが "wikilink")、其他成員共同演出。
-  - [提姆·波頓](https://zh.wikipedia.org/wiki/提姆·波頓 "wikilink")
-    Interview（）：由[相沢梨紗](https://zh.wikipedia.org/wiki/相沢梨紗 "wikilink")、[成瀬瑛美](https://zh.wikipedia.org/wiki/成瀬瑛美 "wikilink")、[藤咲彩音主演](../Page/藤咲彩音.md "wikilink")，[提姆·波頓共同演出](https://zh.wikipedia.org/wiki/提姆·波頓 "wikilink")。
-  - 御宅訪問物語（）：由[最上もが](https://zh.wikipedia.org/wiki/最上もが "wikilink")、[藤咲彩音主演](../Page/藤咲彩音.md "wikilink")，Cosplayer
-    [火将ロシエル](https://zh.wikipedia.org/wiki/火将ロシエル "wikilink") 共同演出。
+  - [提姆·波頓](https://zh.wikipedia.org/wiki/提姆·波頓 "wikilink") Interview（）：由[相沢梨紗](https://zh.wikipedia.org/wiki/相沢梨紗 "wikilink")、[成瀬瑛美](https://zh.wikipedia.org/wiki/成瀬瑛美 "wikilink")、[藤咲彩音](../Page/藤咲彩音.md "wikilink")主演，[提姆·波頓共同演出](https://zh.wikipedia.org/wiki/提姆·波頓 "wikilink")。
+  - 御宅訪問物語（）：由[最上もが](https://zh.wikipedia.org/wiki/最上もが "wikilink")、[藤咲彩音](../Page/藤咲彩音.md "wikilink")主演，Cosplayer [火将ロシエル](https://zh.wikipedia.org/wiki/火将ロシエル "wikilink") 共同演出。
   - 簡單！宅料理（）：由[古川未鈴](../Page/古川未鈴.md "wikilink")、[夢眠ねむ](https://zh.wikipedia.org/wiki/夢眠ねむ "wikilink")、[相沢梨紗主演](https://zh.wikipedia.org/wiki/相沢梨紗 "wikilink")。
   - 殺戮魅影
-      - 殺戮魅影遊戲實況（）：由[古川未鈴](../Page/古川未鈴.md "wikilink")、[最上もが](https://zh.wikipedia.org/wiki/最上もが "wikilink")、[藤咲彩音主演](../Page/藤咲彩音.md "wikilink")。
-      - 御宅公司訪問（）：由[電波組.inc全員主演](../Page/電波組.inc.md "wikilink")。
+      - 殺戮魅影遊戲實況（）：由[古川未鈴](../Page/古川未鈴.md "wikilink")、[最上もが](https://zh.wikipedia.org/wiki/最上もが "wikilink")、[藤咲彩音](../Page/藤咲彩音.md "wikilink")主演。
+      - 御宅公司訪問（）：由[電波組.inc](../Page/電波組.inc.md "wikilink")全員主演。
 
 ## 節目單元播出表
 
-列表之播放日期，以[富士電視台表列之日期為基準](../Page/富士電視台.md "wikilink")。
+列表之播放日期，以[富士電視台](../Page/富士電視台.md "wikilink")表列之日期為基準。
 
 <table>
 <thead>
@@ -467,18 +454,14 @@ Games的節目網頁連結。在該網頁中，可以免費觀看電視節目的
 
 ## 外部連結
 
-  - [富士電視台「電波Jack-World Wide
-    Akihabara-」官方網站](http://www.fujitv.co.jp/b_hp/dempajack/)
-  - [Fuji\&gumi Games「電波Jack-World Wide
-    Akihabara-」官方網站](http://dempajack.fg-games.co.jp/)
+  - [富士電視台「電波Jack-World Wide Akihabara-」官方網站](http://www.fujitv.co.jp/b_hp/dempajack/)
+  - [Fuji\&gumi Games「電波Jack-World Wide Akihabara-」官方網站](http://dempajack.fg-games.co.jp/)
   - [電波Jack WWA-官方Twitter](https://twitter.com/dempajack1019)
   - [電波Jack官方部落格](http://dempajack.tumblr.com/)
 
 ## 參考資料
 
-[Category:富士電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台綜藝節目 "wikilink")
-[Category:2014年日本電視節目](https://zh.wikipedia.org/wiki/Category:2014年日本電視節目 "wikilink")
-[Category:電波組.inc](https://zh.wikipedia.org/wiki/Category:電波組.inc "wikilink")
+[Category:富士電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台綜藝節目 "wikilink") [Category:2014年日本電視節目](https://zh.wikipedia.org/wiki/Category:2014年日本電視節目 "wikilink") [Category:電波組.inc](https://zh.wikipedia.org/wiki/Category:電波組.inc "wikilink")
 
 1.
 2.

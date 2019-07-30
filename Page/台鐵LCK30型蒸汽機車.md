@@ -1,9 +1,8 @@
-**臺鐵LCK30型蒸汽機車**為昔日舊[臺東線所使用的水櫃式蒸汽機車](../Page/臺東線.md "wikilink")，最初於日本國內使用，輾轉後由[臺灣總督府鐵道部收購](../Page/臺灣總督府交通局鐵道部.md "wikilink")。
+**臺鐵LCK30型蒸汽機車**為昔日舊[臺東線](../Page/臺東線.md "wikilink")所使用的水櫃式蒸汽機車，最初於日本國內使用，輾轉後由[臺灣總督府鐵道部收購](../Page/臺灣總督府交通局鐵道部.md "wikilink")。
 
 ## 簡介
 
-1912年日本向德國Orenstein &
-Koppel廠引進7輛被國鐵編為的蒸汽機車（ケ200－ケ206，製造序號5804－5810），引進後於隔年全數組裝完成並使用於北海道的湧別輕便線，不過該線於1916年完成軌距拓寬工程後即於隔年將ケ200型全數報廢除籍，其中ケ204被[臺東製糖株式會社以廢鐵購入](https://zh.wikipedia.org/wiki/臺東製糖株式會社 "wikilink")，並於整修完成後繼續使用。1922年臺灣總督府鐵道部將該輛機車收購並編為32號，1928年鐵道部向日本車輛購入編為36號的仿製機車，但是鐵道部於同年就重新整理車籍資料而將32、36號編為L30型（L31、L32）。1937年鐵道部再次重整車籍，並將L30型改為LC12型（LC121、LC122）。1949年LC12型由臺灣鐵路管理局接收後改為LCK30型（LCK31、LCK32）並一直使用至1969年初，[LDH200型柴液機車全數投入運用時才予以停用報廢](../Page/臺灣鐵路LDH200型柴液機車.md "wikilink")，最終LCK31由光隆企業股份有限公司收購而保存至今，LCK32則於1979年解體。
+1912年日本向德國Orenstein & Koppel廠引進7輛被國鐵編為的蒸汽機車（ケ200－ケ206，製造序號5804－5810），引進後於隔年全數組裝完成並使用於北海道的湧別輕便線，不過該線於1916年完成軌距拓寬工程後即於隔年將ケ200型全數報廢除籍，其中ケ204被[臺東製糖株式會社以廢鐵購入](https://zh.wikipedia.org/wiki/臺東製糖株式會社 "wikilink")，並於整修完成後繼續使用。1922年臺灣總督府鐵道部將該輛機車收購並編為32號，1928年鐵道部向日本車輛購入編為36號的仿製機車，但是鐵道部於同年就重新整理車籍資料而將32、36號編為L30型（L31、L32）。1937年鐵道部再次重整車籍，並將L30型改為LC12型（LC121、LC122）。1949年LC12型由臺灣鐵路管理局接收後改為LCK30型（LCK31、LCK32）並一直使用至1969年初，[LDH200型柴液機車全數投入運用時才予以停用報廢](../Page/臺灣鐵路LDH200型柴液機車.md "wikilink")，最終LCK31由光隆企業股份有限公司收購而保存至今，LCK32則於1979年解體。
 
 ## 主要規格
 
@@ -58,6 +57,4 @@ Koppel廠引進7輛被國鐵編為的蒸汽機車（ケ200－ケ206，製造序�
   - [後山鐵道風華 文化資產數位博物館](http://document.hccc.gov.tw/railway/index.htm)
   - [中華電視公司－歷史上的今天 1974年5月20日東線LCK31蒸汽老火車頭當廢鐵賣](http://news.cts.com.tw/cts/general/197405/197405201744199.html#.WVETF46GPEY)
 
-[Category:臺灣鐵路管理局車輛](https://zh.wikipedia.org/wiki/Category:臺灣鐵路管理局車輛 "wikilink")
-[Category:台灣蒸汽機車](https://zh.wikipedia.org/wiki/Category:台灣蒸汽機車 "wikilink")
-[Category:日本製台灣蒸汽機車](https://zh.wikipedia.org/wiki/Category:日本製台灣蒸汽機車 "wikilink")
+[Category:臺灣鐵路管理局車輛](https://zh.wikipedia.org/wiki/Category:臺灣鐵路管理局車輛 "wikilink") [Category:台灣蒸汽機車](https://zh.wikipedia.org/wiki/Category:台灣蒸汽機車 "wikilink") [Category:日本製台灣蒸汽機車](https://zh.wikipedia.org/wiki/Category:日本製台灣蒸汽機車 "wikilink")

@@ -1,18 +1,10 @@
-《WHYNOT – The Dancer》\[1\]（韓語原名：WHYNOT: 더 댄서）為JTBC
-2018新綜藝節目，是一個記錄成員於海外與一些知名編舞家合作進行編舞、練舞等的綜藝節目，成員暫時包括[Super
-Junior](../Page/Super_Junior.md "wikilink")[銀赫](../Page/銀赫.md "wikilink")、[Highlight](https://zh.wikipedia.org/wiki/Highlight "wikilink")[起光](https://zh.wikipedia.org/wiki/起光 "wikilink")、[SHINee](../Page/SHINee.md "wikilink")[泰民](../Page/泰民.md "wikilink")、[NCT](../Page/NCT.md "wikilink")[志晟](../Page/志晟.md "wikilink")
+《WHYNOT – The Dancer》\[1\]（韓語原名：WHYNOT: 더 댄서）為JTBC 2018新綜藝節目，是一個記錄成員於海外與一些知名編舞家合作進行編舞、練舞等的綜藝節目，成員暫時包括[Super Junior](../Page/Super_Junior.md "wikilink")[銀赫](../Page/銀赫.md "wikilink")、[Highlight](https://zh.wikipedia.org/wiki/Highlight "wikilink")[起光](https://zh.wikipedia.org/wiki/起光 "wikilink")、[SHINee](../Page/SHINee.md "wikilink")[泰民](../Page/泰民.md "wikilink")、[NCT](../Page/NCT.md "wikilink")[志晟](../Page/志晟.md "wikilink")
 
 ## 簡介
 
-《WHYNOT – The
-Dancer》成員將前往多個世界知名的練舞室，拜訪不同編舞家，並參與練習，期望能創作舞蹈，給予海外組合或歌手。於3月14日開設Instagram專頁
-[whynot_thedancer](https://www.instagram.com/whynot_thedancer/)。於5月2日舉行製作發表會。
+《WHYNOT – The Dancer》成員將前往多個世界知名的練舞室，拜訪不同編舞家，並參與練習，期望能創作舞蹈，給予海外組合或歌手。於3月14日開設Instagram專頁 [whynot_thedancer](https://www.instagram.com/whynot_thedancer/)。於5月2日舉行製作發表會。
 
-成員暫時包括[Super
-Junior](../Page/Super_Junior.md "wikilink")[銀赫](../Page/銀赫.md "wikilink")、[Highlight](https://zh.wikipedia.org/wiki/Highlight "wikilink")[起光](https://zh.wikipedia.org/wiki/起光 "wikilink")、[SHINee](../Page/SHINee.md "wikilink")[泰民](../Page/泰民.md "wikilink")、[NCT](../Page/NCT.md "wikilink")[志晟](../Page/志晟.md "wikilink")。首一至三集，[銀赫](../Page/銀赫.md "wikilink")、[起光](https://zh.wikipedia.org/wiki/起光 "wikilink")、[泰民於](../Page/泰民.md "wikilink")[韓國參與節目室內拍攝](https://zh.wikipedia.org/wiki/韓國 "wikilink")，而[銀赫](../Page/銀赫.md "wikilink")、[起光](https://zh.wikipedia.org/wiki/起光 "wikilink")
-則共同前往[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，進行 Filthly
-Choreography
-的拍攝，並到訪著名跳舞室，進行排練。由第四集起，[泰民](../Page/泰民.md "wikilink")、[志晟將參與於洛杉磯的節目拍攝](../Page/志晟.md "wikilink")。
+成員暫時包括[Super Junior](../Page/Super_Junior.md "wikilink")[銀赫](../Page/銀赫.md "wikilink")、[Highlight](https://zh.wikipedia.org/wiki/Highlight "wikilink")[起光](https://zh.wikipedia.org/wiki/起光 "wikilink")、[SHINee](../Page/SHINee.md "wikilink")[泰民](../Page/泰民.md "wikilink")、[NCT](../Page/NCT.md "wikilink")[志晟](../Page/志晟.md "wikilink")。首一至三集，[銀赫](../Page/銀赫.md "wikilink")、[起光](https://zh.wikipedia.org/wiki/起光 "wikilink")、[泰民](../Page/泰民.md "wikilink")於[韓國參與節目室內拍攝](https://zh.wikipedia.org/wiki/韓國 "wikilink")，而[銀赫](../Page/銀赫.md "wikilink")、[起光](https://zh.wikipedia.org/wiki/起光 "wikilink") 則共同前往[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，進行 Filthly Choreography 的拍攝，並到訪著名跳舞室，進行排練。由第四集起，[泰民](../Page/泰民.md "wikilink")、[志晟](../Page/志晟.md "wikilink")將參與於洛杉磯的節目拍攝。
 
 節目除了講述舞蹈排練及選曲過程外，亦記途成員們在洛杉磯的生活，如煮膳食、走訪藝術街道、著名食店等。
 
@@ -135,7 +127,7 @@ Choreography
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2018年5月5日</p></td>
-<td><p>交代節目背後的目的、拍攝地點。記錄<a href="../Page/銀赫.md" title="wikilink">銀赫</a>、<a href="https://zh.wikipedia.org/wiki/起光" title="wikilink">起光尋找</a><a href="../Page/泰民.md" title="wikilink">泰民成為隊友的經過</a>，亦記述出發前往洛杉磯前十多天的排舞、選曲等過程。</p></td>
+<td><p>交代節目背後的目的、拍攝地點。記錄<a href="../Page/銀赫.md" title="wikilink">銀赫</a>、<a href="https://zh.wikipedia.org/wiki/起光" title="wikilink">起光尋找</a><a href="../Page/泰民.md" title="wikilink">泰民</a>成為隊友的經過，亦記述出發前往洛杉磯前十多天的排舞、選曲等過程。</p></td>
 <td><p>Lia Kim、<a href="../Page/東海_(藝人).md" title="wikilink">東海</a></p></td>
 </tr>
 <tr class="odd">
@@ -318,8 +310,6 @@ Choreography
 
   - <http://tv.jtbc.joins.com/thedancer>
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
 
 1.  [http://vod.jtbc.joins.com/player/program/ep20016457?cloc=jtbc|main|clips](http://vod.jtbc.joins.com/player/program/ep20016457?cloc=jtbc%7Cmain%7Cclips)

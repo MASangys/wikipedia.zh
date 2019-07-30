@@ -1,9 +1,8 @@
-**LoVendoЯ**（ラベンダー）是、[日本](../Page/日本.md "wikilink")3人組成的[女子樂團](https://zh.wikipedia.org/wiki/女子樂團 "wikilink")。所属演藝經紀公司是[Up-Front
-Agency](https://zh.wikipedia.org/wiki/UFG#UP-FRONT_AGENCY "wikilink")。
+**LoVendoЯ**（ラベンダー）是、[日本](../Page/日本.md "wikilink")3人組成的[女子樂團](https://zh.wikipedia.org/wiki/女子樂團 "wikilink")。所属演藝經紀公司是[Up-Front Agency](https://zh.wikipedia.org/wiki/UFG#UP-FRONT_AGENCY "wikilink")。
 
 ## 概要
 
-2012年6月5日，[田中れいな在](https://zh.wikipedia.org/wiki/田中れいな "wikilink")[早安少女組。活動中招開徵選成員通知](../Page/早安少女組。.md "wikilink")\[1\]。同年11月18日，在[早安少女組。演唱會上發表](../Page/早安少女組。.md "wikilink")，應徵總數約4000名中選拔出來的岡田万里奈、宮澤茉凜的2名與田中れいな3人組成樂團名是向一般大眾募集而來的。之後、田中在2013年春畢業於[早安少女組。](../Page/早安少女組。.md "wikilink")、持續以樂團的身分活動於演藝界。魚住有希在2016年9月離團。
+2012年6月5日，[田中れいな在](https://zh.wikipedia.org/wiki/田中れいな "wikilink")[早安少女組。](../Page/早安少女組。.md "wikilink")活動中招開徵選成員通知\[1\]。同年11月18日，在[早安少女組。](../Page/早安少女組。.md "wikilink")演唱會上發表，應徵總數約4000名中選拔出來的岡田万里奈、宮澤茉凜的2名與田中れいな3人組成樂團名是向一般大眾募集而來的。之後、田中在2013年春畢業於[早安少女組。](../Page/早安少女組。.md "wikilink")、持續以樂團的身分活動於演藝界。魚住有希在2016年9月離團。
 
 **LoVendoЯ**為、「Love（愛）」、「Vendor（售貨員）」2字所合成的自創詞。
 
@@ -18,9 +17,8 @@ Agency](https://zh.wikipedia.org/wiki/UFG#UP-FRONT_AGENCY "wikilink")。
 
   - 岡田万里奈（おかだ まりな）
     主唱。
-    1993年7月24日生。[東京都出身](../Page/東京都.md "wikilink")。血型AB型。[身高](https://zh.wikipedia.org/wiki/身高 "wikilink")166cm。
-    暱稱「オカマリ」。喜歡的藝人是[Lady Gaga](../Page/Lady_Gaga.md "wikilink")。
-    從小喜歡唱歌，因奶奶介紹而參加徵選。
+    1993年7月24日生。[東京都](../Page/東京都.md "wikilink")出身。血型AB型。[身高](https://zh.wikipedia.org/wiki/身高 "wikilink")166cm。
+    暱稱「オカマリ」。喜歡的藝人是[Lady Gaga](../Page/Lady_Gaga.md "wikilink")。 從小喜歡唱歌，因奶奶介紹而參加徵選。
 
 <!-- end list -->
 
@@ -35,8 +33,7 @@ Agency](https://zh.wikipedia.org/wiki/UFG#UP-FRONT_AGENCY "wikilink")。
   - 魚住有希（うおずみ ゆき）
     [吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")。
     1991年7月14日生。東京都出身。血型A型。身高167cm。
-    暱稱「姉さん」。喜歡的藝人是[Maroon
-    5](https://zh.wikipedia.org/wiki/Maroon_5 "wikilink")。尊敬的吉他手[HISASHI](https://zh.wikipedia.org/wiki/HISASHI "wikilink")。
+    暱稱「姉さん」。喜歡的藝人是[Maroon 5](https://zh.wikipedia.org/wiki/Maroon_5 "wikilink")。尊敬的吉他手[HISASHI](https://zh.wikipedia.org/wiki/HISASHI "wikilink")。
     LoVendoЯ加入以前就參加過樂隊，因想站在大舞台上而參加徵選。從小玩過的樂器有[小提琴](../Page/小提琴.md "wikilink")、[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")、[烏克麗麗](../Page/烏克麗麗.md "wikilink")。
     在2016年9月正式退團
 
@@ -55,13 +52,10 @@ Agency](https://zh.wikipedia.org/wiki/UFG#UP-FRONT_AGENCY "wikilink")。
 
 <!-- end list -->
 
-  - 在2月3日『Hello\! Project 誕生15周年記念ライブ2013冬
-    〜ブラボー\!〜』的最終公演（福岡国際会議場）、樂團取名為「LoVendoЯ」同日也開設了LoVendoЯ的網站
+  - 在2月3日『Hello\! Project 誕生15周年記念ライブ2013冬 〜ブラボー\!〜』的最終公演（福岡国際会議場）、樂團取名為「LoVendoЯ」同日也開設了LoVendoЯ的網站
   - 3月27日 - 5月14日舉辦『LoVendoЯ ファーストライブツアー2013春 〜ラベンダー〜』
-  - 5月21日、『モーニング娘。コンサートツアー2013春 ミチシゲ☆イレブンSOUL 〜田中れいな卒業記念日〜
-    in[日本武道館](../Page/日本武道館.md "wikilink")』[田中れいな畢業於](https://zh.wikipedia.org/wiki/田中れいな "wikilink")[早安少女組。](../Page/早安少女組。.md "wikilink")。同時也畢業於[H\!P](https://zh.wikipedia.org/wiki/H!P "wikilink")
-  - 5月22日、發行出道迷你專輯『[ラベンダー カバー The
-    ROCK](https://zh.wikipedia.org/wiki/ラベンダー_カバー_The_ROCK "wikilink")』。
+  - 5月21日、『モーニング娘。コンサートツアー2013春 ミチシゲ☆イレブンSOUL 〜田中れいな卒業記念日〜 in[日本武道館](../Page/日本武道館.md "wikilink")』[田中れいな畢業於](https://zh.wikipedia.org/wiki/田中れいな "wikilink")[早安少女組。](../Page/早安少女組。.md "wikilink")。同時也畢業於[H\!P](https://zh.wikipedia.org/wiki/H!P "wikilink")
+  - 5月22日、發行出道迷你專輯『[ラベンダー カバー The ROCK](https://zh.wikipedia.org/wiki/ラベンダー_カバー_The_ROCK "wikilink")』。
   - 12月6日 - 12月26日舉辦『LoVendoЯ LIVE TOUR 2013 DecembeЯ』
 
 <!-- end list -->
@@ -80,8 +74,7 @@ Agency](https://zh.wikipedia.org/wiki/UFG#UP-FRONT_AGENCY "wikilink")。
 
 <!-- end list -->
 
-  - 7月1日、發售[シングル](https://zh.wikipedia.org/wiki/シングル "wikilink")「[いいんじゃない?/普通の私
-    ガンバレ\!](https://zh.wikipedia.org/wiki/いいんじゃない?/普通の私_ガンバレ! "wikilink")」
+  - 7月1日、發售[シングル](https://zh.wikipedia.org/wiki/シングル "wikilink")「[いいんじゃない?/普通の私 ガンバレ\!](https://zh.wikipedia.org/wiki/いいんじゃない?/普通の私_ガンバレ! "wikilink")」
   - 7月25日 - 10月22日、舉辦『LoVendoЯ LIVE TOUR 2015 MAJOЯ！』。
   - 11月27日宣布獲得了「第48回[日本有線大賞](https://zh.wikipedia.org/wiki/日本有線大賞 "wikilink")」新人獎\[2\]在12月14日，在“第48屆日本有線大獎”（[TBS電視台](../Page/TBS電視台.md "wikilink")）演出。
 
@@ -342,12 +335,11 @@ Agency](https://zh.wikipedia.org/wiki/UFG#UP-FRONT_AGENCY "wikilink")。
 ### 単独ライブ
 
   - 毎日がクリスマス 2015〜LOVE LOVE LoVendoЯ〜（2015年12月23日、横浜赤レンガ倉庫1号館 3Fホール）
-  - LoVendoЯ COUNT DOWN LIVE 2015 〜TogetheЯ！〜（2015年12月31日、表参道GROUND） -
-    Bitter & Sweetがゲスト出演
+  - LoVendoЯ COUNT DOWN LIVE 2015 〜TogetheЯ！〜（2015年12月31日、表参道GROUND） - Bitter & Sweetがゲスト出演
 
 ### MUSIC FESTA
 
-アップフロントグループ所属アーティストによる音楽フェス。[中島卓偉をはじめ](../Page/中島卓偉.md "wikilink")、[松原健之](https://zh.wikipedia.org/wiki/松原健之 "wikilink")、LoVendoЯ、モーニング娘。OGなどが出演。
+アップフロントグループ所属アーティストによる音楽フェス。[中島卓偉](../Page/中島卓偉.md "wikilink")をはじめ、[松原健之](https://zh.wikipedia.org/wiki/松原健之 "wikilink")、LoVendoЯ、モーニング娘。OGなどが出演。
 
 <table>
 <thead>
@@ -477,15 +469,11 @@ Agency](https://zh.wikipedia.org/wiki/UFG#UP-FRONT_AGENCY "wikilink")。
 
   - Japan Festa in Bangkok 2014（8月30日、)
   - 本格音楽女子祭〜前祭〜（9月2日、TSUTAYA O-EAST）
-  - GRACE ROCK MUSEUM（9月9日、TSUTAYA O-WEST） -
-    演出：[Aldious](../Page/Aldious.md "wikilink") / LoVendoЯ
+  - GRACE ROCK MUSEUM（9月9日、TSUTAYA O-WEST） - 演出：[Aldious](../Page/Aldious.md "wikilink") / LoVendoЯ
   - THE BIG PARADE 2014（9月15日、[代官山エリア](../Page/代官山町.md "wikilink")）
   - Kikkastock Music and Art Festival 2014（9月27日、AKIBAカルチャーズ劇場） - 魚住・宮澤
-  - Lady's
-    Go\!\!（12月26日、[BIGCAT](https://zh.wikipedia.org/wiki/ビッグステップ "wikilink")）
-    - 出演：LoVendoЯ / Gacharic Spin
-  - Hello\! Project COUNTDOWN PARTY 2014 〜GOOD BYE & HELLO\!〜（12月31日 -
-    2015年1月1日、[オリックス劇場](https://zh.wikipedia.org/wiki/オリックス劇場 "wikilink")・[神戸国際会館こくさいホール](https://zh.wikipedia.org/wiki/神戸国際会館 "wikilink"))
+  - Lady's Go\!\!（12月26日、[BIGCAT](https://zh.wikipedia.org/wiki/ビッグステップ "wikilink")） - 出演：LoVendoЯ / Gacharic Spin
+  - Hello\! Project COUNTDOWN PARTY 2014 〜GOOD BYE & HELLO\!〜（12月31日 - 2015年1月1日、[オリックス劇場](https://zh.wikipedia.org/wiki/オリックス劇場 "wikilink")・[神戸国際会館こくさいホール](https://zh.wikipedia.org/wiki/神戸国際会館 "wikilink"))
 
 <!-- end list -->
 
@@ -494,25 +482,19 @@ Agency](https://zh.wikipedia.org/wiki/UFG#UP-FRONT_AGENCY "wikilink")。
 <!-- end list -->
 
   - Hello\! Project 2015 WINTER（1月5日 - 31日、5公演來賓演出）
-  - ODYSSEY Presents GIRLS ROCK SPLASH\!\! 2015 -WINTER-（2月28日、Zepp
-    Tokyo）
+  - ODYSSEY Presents GIRLS ROCK SPLASH\!\! 2015 -WINTER-（2月28日、Zepp Tokyo）
   - tkmk 爆女祭 vol.0〜涉谷編〜（5月11日、涉谷CLUB CRAWL）
   - H.I.P. presents Level Girls vol.02（5月24日、F.A.D YOKOHAMA）
   - ODYSSEY Presents GIRLS ROCK SPLASH\!\! 2015 梅雨（6月6日、Shibuya eggman）
-  - palooza presents [Brand New
-    Vibe](https://zh.wikipedia.org/wiki/Brand_New_Vibe "wikilink") ROAD
-    TO Zepp DiverCity Brand New Vibe vs LoVendoЯ（6月7日、柏PALOOZA）
-  - REAL MUSIC VILLAGE
-    2015（6月20日、[北海道開拓の村](https://zh.wikipedia.org/wiki/北海道開拓の村 "wikilink")）
-  - [つばさFly](https://zh.wikipedia.org/wiki/つばさFly "wikilink") presents
-    "FLYING FESTIVAL" vol.2（6月24日、TSUTAYA O-WEST / O-nest）
+  - palooza presents [Brand New Vibe](https://zh.wikipedia.org/wiki/Brand_New_Vibe "wikilink") ROAD TO Zepp DiverCity Brand New Vibe vs LoVendoЯ（6月7日、柏PALOOZA）
+  - REAL MUSIC VILLAGE 2015（6月20日、[北海道開拓の村](https://zh.wikipedia.org/wiki/北海道開拓の村 "wikilink")）
+  - [つばさFly](https://zh.wikipedia.org/wiki/つばさFly "wikilink") presents "FLYING FESTIVAL" vol.2（6月24日、TSUTAYA O-WEST / O-nest）
 
 ## 演出
 
 田中請參考[田中れいな](https://zh.wikipedia.org/wiki/田中れいな "wikilink")
 
-  - UF LICKS（2013年2月15日 -
-    2014年5月2日、[YouTube](../Page/YouTube.md "wikilink")）
+  - UF LICKS（2013年2月15日 - 2014年5月2日、[YouTube](../Page/YouTube.md "wikilink")）
   - MUSIC+（2014年5月9日 - 、YouTube）
   - LoVendoЯ 連載 the ROCK（2014年12月20日 - 、OKMusic）\[5\] - 田中・魚住
 
@@ -537,9 +519,7 @@ Agency](https://zh.wikipedia.org/wiki/UFG#UP-FRONT_AGENCY "wikilink")。
 
   - [UP-FRONT CREATE](http://www.up-front-create.com/) - 所属事務所
 
-  - [LoVendoЯ Official Fanclub
-    Page](http://www.up-fc.jp/m-line/member/lovendor/) - エムラインクラブ
-    オフィシャルファンクラブWebサイト
+  - [LoVendoЯ Official Fanclub Page](http://www.up-fc.jp/m-line/member/lovendor/) - エムラインクラブ オフィシャルファンクラブWebサイト
 
   - \[<https://web.archive.org/web/20100412034620/http://ameblo.jp/tanakareina-blog>」\]田中れいなオフィシャルブログ「田中れいなのおつかれいなー
 
@@ -560,19 +540,14 @@ Agency](https://zh.wikipedia.org/wiki/UFG#UP-FRONT_AGENCY "wikilink")。
 <!-- end list -->
 
   -
-    アップフロントグループによるYouTubeオリジナル番組。毎週金曜日配信。「UF LICKS」（2013年2月15日 -
-    2014年5月2日）からリニューアル。
+    アップフロントグループによるYouTubeオリジナル番組。毎週金曜日配信。「UF LICKS」（2013年2月15日 - 2014年5月2日）からリニューアル。
 
 <!-- end list -->
 
   - [MUSIC+](http://www.up-front-works.jp/musicplus/) - 番組ホームページ
   - [MUSIC FESTA](http://www.musicfesta.jp/) - アップフロントワークス
 
-[Category:2012年日本建立](https://zh.wikipedia.org/wiki/Category:2012年日本建立 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
+[Category:2012年日本建立](https://zh.wikipedia.org/wiki/Category:2012年日本建立 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
 
 1.
 2.

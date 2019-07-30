@@ -1,9 +1,4 @@
-**Huawei Ascend Mate
-S**，是[華為於](https://zh.wikipedia.org/wiki/華為 "wikilink")2015年9月2日推出的旗艦智能手機，搭載Android5.1
-with EMUI
-3.1，配有5.5英寸1920×1080[解析度的](https://zh.wikipedia.org/wiki/解析度 "wikilink")[螢幕](https://zh.wikipedia.org/wiki/螢幕 "wikilink")、Hisilicon
-Kirin935八核處理器、3GB的[隨機存取記憶體](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")，\[1\]
-後置攝像頭具有1300畫素OIS光學防抖動功能，前置則有800畫素廣角自拍和備有美顏模式。電池方面使用2700mAh。這款手機配有苍穹黑，皓月银，流光金，玫瑰金,同期最大競爭對手是三星note5。\[2\]
+**Huawei Ascend Mate S**，是[華為於](https://zh.wikipedia.org/wiki/華為 "wikilink")2015年9月2日推出的旗艦智能手機，搭載Android5.1 with EMUI 3.1，配有5.5英寸1920×1080[解析度的](https://zh.wikipedia.org/wiki/解析度 "wikilink")[螢幕](https://zh.wikipedia.org/wiki/螢幕 "wikilink")、Hisilicon Kirin935八核處理器、3GB的[隨機存取記憶體](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")，\[1\] 後置攝像頭具有1300畫素OIS光學防抖動功能，前置則有800畫素廣角自拍和備有美顏模式。電池方面使用2700mAh。這款手機配有苍穹黑，皓月银，流光金，玫瑰金,同期最大競爭對手是三星note5。\[2\]
 
 ## 詳細規格
 
@@ -135,14 +130,9 @@ FDD：B1、B3、B7</p></td>
 ## 参见
 
   - [Android](../Page/Android.md "wikilink")
-  - [Huawei Ascend
-    G8](https://zh.wikipedia.org/wiki/Huawei_Ascend_G8 "wikilink")
+  - [Huawei Ascend G8](https://zh.wikipedia.org/wiki/Huawei_Ascend_G8 "wikilink")
 
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:華為手機](https://zh.wikipedia.org/wiki/Category:華為手機 "wikilink")
-[Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
+[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:華為手機](https://zh.wikipedia.org/wiki/Category:華為手機 "wikilink") [Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
 
 1.
 2.

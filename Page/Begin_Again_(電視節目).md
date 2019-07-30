@@ -1,5 +1,4 @@
-《**Begin
-Again**》（）\[1\]為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC的音樂節目](../Page/JTBC.md "wikilink")，由韓國頂級音樂人在海外陌生的城市挑戰街頭路演\[2\]\[3\]。第一季出演者為[李素羅](../Page/李素羅.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、[尹道賢](https://zh.wikipedia.org/wiki/尹道賢 "wikilink")、[盧弘喆](../Page/盧弘喆.md "wikilink")\[4\]。
+《**Begin Again**》（）\[1\]為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")的音樂節目，由韓國頂級音樂人在海外陌生的城市挑戰街頭路演\[2\]\[3\]。第一季出演者為[李素羅](../Page/李素羅.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、[尹道賢](https://zh.wikipedia.org/wiki/尹道賢 "wikilink")、[盧弘喆](../Page/盧弘喆.md "wikilink")\[4\]。
 
 ## 各集內容
 
@@ -198,16 +197,12 @@ Again**》（）\[1\]為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 
 ## 參考資料
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
 
-1.  ['비긴어게인' 아름다운 음악에 분당 최고
-    시청률 7%\!](http://news.jtbc.joins.com/article/article.aspx?news_id=NB11489726)
+1.  ['비긴어게인' 아름다운 음악에 분당 최고 시청률 7%\!](http://news.jtbc.joins.com/article/article.aspx?news_id=NB11489726)
 2.
 3.
-4.  [이소라의 마음을 움직인 유희열, ＜비긴 어게인＞이 보여준
-    지음(知音)](http://www.ohmynews.com/NWS_Web/View/ss_pg.aspx?CNTN_CD=A0002340141&PAGE_CD=N0002&CMPT_CD=M0142)
+4.  [이소라의 마음을 움직인 유희열, ＜비긴 어게인＞이 보여준 지음(知音)](http://www.ohmynews.com/NWS_Web/View/ss_pg.aspx?CNTN_CD=A0002340141&PAGE_CD=N0002&CMPT_CD=M0142)
 5.
 6.
 7.

@@ -8,8 +8,7 @@ local HTMLcolor = mw.loadData( 'Module:Color contrast/colors' )
 
 -----
 
-local contrast_ratio = require('Module:Color contrast')._ratio local
-EpisodeTable = {}
+local contrast_ratio = require('Module:Color contrast')._ratio local EpisodeTable = {}
 
 function EpisodeTable.cell(background, width, text, reference)
 
@@ -73,10 +72,7 @@ function EpisodeTable.part(frame,args)
 `       :css('text-align','center')`
 `       :css('background-color', args.c)`
 `       :css('color', black_cr > white_cr and 'black' or 'white')`
-`       :wikitext("`**`"``   ``..``
- ``frame:expandTemplate({title='Visible``
- ``anchor',args={displaytext}})``   ``..``
- ``"`**`" .. (args.r and " " .. EpisodeTable.reference(args.r, args.c) or ''))`
+`       :wikitext("`**`"``   ``..``   ``frame:expandTemplate({title='Visible``   ``anchor',args={displaytext}})``   ``..``   ``"`**`" .. (args.r and " " .. EpisodeTable.reference(args.r, args.c) or ''))`
 `   `
 `   return tostring(row)`
 

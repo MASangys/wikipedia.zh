@@ -1,5 +1,4 @@
-《**WOOD
-JOB！哪啊哪啊神去村**》（，小説原名爲“”），是一部由日本[直木獎小說改編的電影](https://zh.wikipedia.org/wiki/直木獎 "wikilink")。描述一個大學考試落榜，整天無所事事的18歲男孩，偶然看到林業刊物封面上的美女，決定主動應徵的故事。\[1\]
+《**WOOD JOB！哪啊哪啊神去村**》（，小説原名爲“”），是一部由日本[直木獎小說改編的電影](https://zh.wikipedia.org/wiki/直木獎 "wikilink")。描述一個大學考試落榜，整天無所事事的18歲男孩，偶然看到林業刊物封面上的美女，決定主動應徵的故事。\[1\]
 
 ## 登場人物
 
@@ -43,15 +42,6 @@ JOB！哪啊哪啊神去村**》（，小説原名爲“”），是一部由日
 
 ## 參考資料
 
-[Category:東寶電影](https://zh.wikipedia.org/wiki/Category:東寶電影 "wikilink")
-[Category:2014年電影](https://zh.wikipedia.org/wiki/Category:2014年電影 "wikilink")
-[Category:日語電影](https://zh.wikipedia.org/wiki/Category:日語電影 "wikilink")
-[Category:2010年代劇情片](https://zh.wikipedia.org/wiki/Category:2010年代劇情片 "wikilink")
-[Category:日本小說改編電影](https://zh.wikipedia.org/wiki/Category:日本小說改編電影 "wikilink")
-[Category:日本劇情片](https://zh.wikipedia.org/wiki/Category:日本劇情片 "wikilink")
-[Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink")
-[Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink")
-[Category:2009年小說](https://zh.wikipedia.org/wiki/Category:2009年小說 "wikilink")
-[Category:三重縣背景作品](https://zh.wikipedia.org/wiki/Category:三重縣背景作品 "wikilink")
+[Category:東寶電影](https://zh.wikipedia.org/wiki/Category:東寶電影 "wikilink") [Category:2014年電影](https://zh.wikipedia.org/wiki/Category:2014年電影 "wikilink") [Category:日語電影](https://zh.wikipedia.org/wiki/Category:日語電影 "wikilink") [Category:2010年代劇情片](https://zh.wikipedia.org/wiki/Category:2010年代劇情片 "wikilink") [Category:日本小說改編電影](https://zh.wikipedia.org/wiki/Category:日本小說改編電影 "wikilink") [Category:日本劇情片](https://zh.wikipedia.org/wiki/Category:日本劇情片 "wikilink") [Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink") [Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink") [Category:2009年小說](https://zh.wikipedia.org/wiki/Category:2009年小說 "wikilink") [Category:三重縣背景作品](https://zh.wikipedia.org/wiki/Category:三重縣背景作品 "wikilink")
 
 1.

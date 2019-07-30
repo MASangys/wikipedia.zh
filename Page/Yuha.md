@@ -1,18 +1,14 @@
-**姜京元**（；），藝名為**Yuha**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Pledis娛樂旗下已解散](../Page/Pledis娛樂.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[PRISTIN的成員之一](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")。
+**姜京元**（；），藝名為**Yuha**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")旗下已解散[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[PRISTIN的成員之一](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")。
 
 ## 經歷
 
 ### 練習生時期
 
-2014年加入[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")，曾出演前輩[Orange
-Caramel](https://zh.wikipedia.org/wiki/Orange_Caramel "wikilink")《My
-Copycat》和[NU'EST](../Page/NU'EST.md "wikilink")《Overcome》的MV。
+2014年加入[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")，曾出演前輩[Orange Caramel](https://zh.wikipedia.org/wiki/Orange_Caramel "wikilink")《My Copycat》和[NU'EST](../Page/NU'EST.md "wikilink")《Overcome》的MV。
 
 ### 出道前：PRODUCE 101
 
-2015年12月，Yuha以[Pledis娛樂練習生的身份參演了](../Page/Pledis娛樂.md "wikilink")《[PRODUCE
-101](../Page/PRODUCE_101.md "wikilink")》，最終排名為第四十八名。2016年3月成為PLEDIS
-Girlz的成員。\[1\]，在5月起每周六都在PLEDIS Girlz Concert中演出\[2\]。
+2015年12月，Yuha以[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")練習生的身份參演了《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，最終排名為第四十八名。2016年3月成為PLEDIS Girlz的成員。\[1\]，在5月起每周六都在PLEDIS Girlz Concert中演出\[2\]。
 
 ### PRISTIN
 
@@ -67,8 +63,7 @@ Girlz的成員。\[1\]，在5月起每周六都在PLEDIS Girlz Concert中演出\
 
 ## 參考資料
 
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
+[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
 
 1.
 2.

@@ -1,8 +1,4 @@
-是一款[Wii
-U平台的](../Page/Wii_U.md "wikilink")[跨界](../Page/跨界作品.md "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，基于[Atlus和](../Page/Atlus.md "wikilink")[Intelligent
-Systems各自的](../Page/Intelligent_Systems.md "wikilink")[女神转生系列和](https://zh.wikipedia.org/wiki/女神转生系列 "wikilink")[火焰之纹章系列](../Page/火焰之纹章系列.md "wikilink")。游戏由[Intelligent
-Systems授权并由](../Page/Intelligent_Systems.md "wikilink")[Atlus负责开发](../Page/Atlus.md "wikilink")，由[任天堂于](../Page/任天堂.md "wikilink")2015年12月26日在日本推出，2016年在西方推出\[1\]\[2\]。本作的日本地区销量约为3.3万份，\[3\]有不少玩家认为Wii
-U自身的销量低迷限制了本作的销量。
+是一款[Wii U平台的](../Page/Wii_U.md "wikilink")[跨界](../Page/跨界作品.md "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，基于[Atlus](../Page/Atlus.md "wikilink")和[Intelligent Systems各自的](../Page/Intelligent_Systems.md "wikilink")[女神转生系列和](https://zh.wikipedia.org/wiki/女神转生系列 "wikilink")[火焰之纹章系列](../Page/火焰之纹章系列.md "wikilink")。游戏由[Intelligent Systems授权并由](../Page/Intelligent_Systems.md "wikilink")[Atlus](../Page/Atlus.md "wikilink")负责开发，由[任天堂](../Page/任天堂.md "wikilink")于2015年12月26日在日本推出，2016年在西方推出\[1\]\[2\]。本作的日本地区销量约为3.3万份，\[3\]有不少玩家认为Wii U自身的销量低迷限制了本作的销量。
 
 ## 开发
 
@@ -42,18 +38,7 @@ U自身的销量低迷限制了本作的销量。
 ## 外部链接
 
   -
-[Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink")
-[Category:女神轉生系列電子遊戲](https://zh.wikipedia.org/wiki/Category:女神轉生系列電子遊戲 "wikilink")
-[Category:火焰之纹章系列](https://zh.wikipedia.org/wiki/Category:火焰之纹章系列 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:Atlus游戏](https://zh.wikipedia.org/wiki/Category:Atlus游戏 "wikilink")
-[Category:任天堂游戏](https://zh.wikipedia.org/wiki/Category:任天堂游戏 "wikilink")
-[Category:Wii_U独占游戏](https://zh.wikipedia.org/wiki/Category:Wii_U独占游戏 "wikilink")
-[Category:Wii_U遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U遊戲 "wikilink")
-[Category:Wii_U_eShop遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U_eShop遊戲 "wikilink")
-[Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink")
-[Category:電子遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:電子遊戲跨界作品 "wikilink")
-[Category:东京背景电子游戏](https://zh.wikipedia.org/wiki/Category:东京背景电子游戏 "wikilink")
+[Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:女神轉生系列電子遊戲](https://zh.wikipedia.org/wiki/Category:女神轉生系列電子遊戲 "wikilink") [Category:火焰之纹章系列](https://zh.wikipedia.org/wiki/Category:火焰之纹章系列 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:Atlus游戏](https://zh.wikipedia.org/wiki/Category:Atlus游戏 "wikilink") [Category:任天堂游戏](https://zh.wikipedia.org/wiki/Category:任天堂游戏 "wikilink") [Category:Wii_U独占游戏](https://zh.wikipedia.org/wiki/Category:Wii_U独占游戏 "wikilink") [Category:Wii_U遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U遊戲 "wikilink") [Category:Wii_U_eShop遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U_eShop遊戲 "wikilink") [Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink") [Category:電子遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:電子遊戲跨界作品 "wikilink") [Category:东京背景电子游戏](https://zh.wikipedia.org/wiki/Category:东京背景电子游戏 "wikilink")
 
 1.
 2.

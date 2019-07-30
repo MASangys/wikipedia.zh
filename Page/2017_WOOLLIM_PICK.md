@@ -1,7 +1,4 @@
-《'''2017 WoollimPICK
-'''》（）是以[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Woollim
-Entertainment公司旗下的男性團體](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")[Golden
-Child為主角所拍攝的](../Page/Golden_Child.md "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。將團員們的真實日常生活毫不保留地完整公開\[1\]。
+《'''2017 WoollimPICK '''》（）是以[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Woollim Entertainment公司旗下的男性團體](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")[Golden Child為主角所拍攝的](../Page/Golden_Child.md "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。將團員們的真實日常生活毫不保留地完整公開\[1\]。
 
 ## 各集內容
 
@@ -219,8 +216,6 @@ Woollim Awards</p></td>
 
 ## 參考資料
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
 1.

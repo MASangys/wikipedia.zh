@@ -37,7 +37,7 @@
 </tbody>
 </table>
 
-此車站設有兩個[側式月台和三條軌道](../Page/側式月台.md "wikilink")。中央軌道不營運\[1\]\[2\]。此站在夾層設有狹窄的橫越道，容許乘客轉乘反方向列車\[3\]。
+此車站設有兩個[側式月台](../Page/側式月台.md "wikilink")和三條軌道。中央軌道不營運\[1\]\[2\]。此站在夾層設有狹窄的橫越道，容許乘客轉乘反方向列車\[3\]。
 
 ## 參考資料
 
@@ -45,19 +45,13 @@
 
   -
   -
-  - Station Reporter — [N
-    Train](https://web.archive.org/web/20120204051427/http://www.stationreporter.net/ntrain.htm)
+  - Station Reporter — [N Train](https://web.archive.org/web/20120204051427/http://www.stationreporter.net/ntrain.htm)
 
-  - [Broadway entrance from Google Maps Street
-    View](https://maps.google.com/?ie=UTF8&ll=40.761959,-73.925403&spn=0,0.013314&z=17&layer=c&cbll=40.761791,-73.925539&panoid=7pFrpwWIvTuUhMzzk25G5Q&cbp=12,350.12,,0,1.88)
+  - [Broadway entrance from Google Maps Street View](https://maps.google.com/?ie=UTF8&ll=40.761959,-73.925403&spn=0,0.013314&z=17&layer=c&cbll=40.761791,-73.925539&panoid=7pFrpwWIvTuUhMzzk25G5Q&cbp=12,350.12,,0,1.88)
 
-  - [Platforms from Google Maps Street
-    View](https://www.google.com/maps/@40.7619853,-73.9253963,3a,75y,278.97h,79.53t/data=!3m8!1e1!3m6!1s-__XuC5gauYY%2FV4nEX3B--NI%2FAAAAAAAAKPU%2F_3bjjdGMLu0Noif-Du6pW4DGLzjVA8KdACLIB!2e4!3e11!6s%2F%2Flh5.googleusercontent.com%2F-__XuC5gauYY%2FV4nEX3B--NI%2FAAAAAAAAKPU%2F_3bjjdGMLu0Noif-Du6pW4DGLzjVA8KdACLIB%2Fw203-h100-p-k-no%2F!7i9728!8i4864!4m3!8m2!3m1!1e1!6m1!1e1)
+  - [Platforms from Google Maps Street View](https://www.google.com/maps/@40.7619853,-73.9253963,3a,75y,278.97h,79.53t/data=!3m8!1e1!3m6!1s-__XuC5gauYY%2FV4nEX3B--NI%2FAAAAAAAAKPU%2F_3bjjdGMLu0Noif-Du6pW4DGLzjVA8KdACLIB!2e4!3e11!6s%2F%2Flh5.googleusercontent.com%2F-__XuC5gauYY%2FV4nEX3B--NI%2FAAAAAAAAKPU%2F_3bjjdGMLu0Noif-Du6pW4DGLzjVA8KdACLIB%2Fw203-h100-p-k-no%2F!7i9728!8i4864!4m3!8m2!3m1!1e1!6m1!1e1)
 
-[Category:BMT阿斯托利亞線車站](https://zh.wikipedia.org/wiki/Category:BMT阿斯托利亞線車站 "wikilink")
-[Category:皇后區紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:皇后區紐約地鐵車站 "wikilink")
-[Category:1917年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路車站 "wikilink")
-[Category:1917年紐約州建立](https://zh.wikipedia.org/wiki/Category:1917年紐約州建立 "wikilink")
+[Category:BMT阿斯托利亞線車站](https://zh.wikipedia.org/wiki/Category:BMT阿斯托利亞線車站 "wikilink") [Category:皇后區紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:皇后區紐約地鐵車站 "wikilink") [Category:1917年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路車站 "wikilink") [Category:1917年紐約州建立](https://zh.wikipedia.org/wiki/Category:1917年紐約州建立 "wikilink")
 
 1.
 2.

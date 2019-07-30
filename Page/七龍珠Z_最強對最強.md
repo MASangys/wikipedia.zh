@@ -7,8 +7,7 @@
 ## 主題歌
 
   - 片頭曲「CHA-LA HEAD-CHA-LA」
-    作詞：森雪之丞，作曲：清岡千穂
-    ，編曲：山本健司，歌：[影山ヒロノブ](https://zh.wikipedia.org/wiki/影山ヒロノブ "wikilink")
+    作詞：森雪之丞，作曲：清岡千穂 ，編曲：山本健司，歌：[影山ヒロノブ](https://zh.wikipedia.org/wiki/影山ヒロノブ "wikilink")
   - 片尾曲「」
     作詞：佐藤大，作曲：池毅，編曲：山本健司，歌：影山ヒロノブ
 
@@ -67,18 +66,15 @@
   -
     2008年10月10日。
   - 漫畫
-    《七龍珠Z 最強對最強》（）是集英社在1992年3月30日發售（ISBN
-    4-8342-1181-9），正體中文版是由[東立出版社代理](../Page/東立出版社.md "wikilink")。
+    《七龍珠Z 最強對最強》（）是集英社在1992年3月30日發售（ISBN 4-8342-1181-9），正體中文版是由[東立出版社](../Page/東立出版社.md "wikilink")代理。
 
 ## 參考來源
 
 ## 外部連結
 
-  - [劇場版ドラゴンボール
-    ヒストリー](https://web.archive.org/web/20090130013807/http://www.toei-anim.co.jp/ptr/dragonball/movie/)東映
+  - [劇場版ドラゴンボール ヒストリー](https://web.archive.org/web/20090130013807/http://www.toei-anim.co.jp/ptr/dragonball/movie/)東映
 
-[Category:七龍珠電影](https://zh.wikipedia.org/wiki/Category:七龍珠電影 "wikilink")
-[Category:1991年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1991年日本劇場動畫 "wikilink")
+[Category:七龍珠電影](https://zh.wikipedia.org/wiki/Category:七龍珠電影 "wikilink") [Category:1991年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1991年日本劇場動畫 "wikilink")
 
 1.
 2.

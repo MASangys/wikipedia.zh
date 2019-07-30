@@ -1,9 +1,8 @@
-《**Hades**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX的第七張韓語實體](../Page/VIXX.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")（不計算特別單曲則為第六張），以[Devine
-Channel作曲](https://zh.wikipedia.org/wiki/Devine_Channel "wikilink")、金美辰（）與[RAVI作詞的](../Page/金元植.md "wikilink")《Fantasy》作主打曲，並在2016年8月12日推出\[1\]。
+《**Hades**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX](../Page/VIXX.md "wikilink")的第七張韓語實體[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")（不計算特別單曲則為第六張），以[Devine Channel作曲](https://zh.wikipedia.org/wiki/Devine_Channel "wikilink")、金美辰（）與[RAVI作詞的](../Page/金元植.md "wikilink")《Fantasy》作主打曲，並在2016年8月12日推出\[1\]。
 
 ## 背景
 
-2016年8月1日，[Jellyfish娛樂宣布VIXX將於](../Page/Jellyfish娛樂.md "wikilink")8月12日發行單曲回歸歌壇，同時公開預告影片\[2\]；其後在8月3日發佈回歸行程表和歌曲預告照片\[3\]。
+2016年8月1日，[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")宣布VIXX將於8月12日發行單曲回歸歌壇，同時公開預告影片\[2\]；其後在8月3日發佈回歸行程表和歌曲預告照片\[3\]。
 
 8月5日至8月9日間，官方連續推出單曲曲目、不同類型的概念照片、影片及試聽\[4\]，並以沉重曲風吸引聽眾注意\[5\]。
 
@@ -128,9 +127,7 @@ Channel作曲](https://zh.wikipedia.org/wiki/Devine_Channel "wikilink")、金美
 
   -
 
-[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink")
-[Category:VIXX音樂專輯](https://zh.wikipedia.org/wiki/Category:VIXX音樂專輯 "wikilink")
-[Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink") [Category:VIXX音樂專輯](https://zh.wikipedia.org/wiki/Category:VIXX音樂專輯 "wikilink") [Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-《**張信哲Jeff情歌精選**》是[SONY BMG
-香港於](https://zh.wikipedia.org/wiki/索尼音樂娛樂_\(香港\) "wikilink")2005年6月10日發行的精選輯。32首歌曲囊括[張信哲歷年所有經典國語及粵語歌曲](../Page/張信哲.md "wikilink")，同時對早期歌曲經過重新混音處理，與原專輯對比可以發現聲場較開闊、低音更有彈性。
+《**張信哲Jeff情歌精選**》是[SONY BMG 香港於](https://zh.wikipedia.org/wiki/索尼音樂娛樂_\(香港\) "wikilink")2005年6月10日發行的精選輯。32首歌曲囊括[張信哲](../Page/張信哲.md "wikilink")歷年所有經典國語及粵語歌曲，同時對早期歌曲經過重新混音處理，與原專輯對比可以發現聲場較開闊、低音更有彈性。
 
 ## CD1
 
@@ -78,7 +77,7 @@
 <a href="https://zh.wikipedia.org/wiki/祝麗雯" title="wikilink">祝麗雯</a></p></td>
 <td><p><a href="../Page/洪敬堯.md" title="wikilink">洪敬堯</a></p></td>
 <td><p>選自《<a href="../Page/從開始到現在.md" title="wikilink">從開始到現在</a>》新歌+精選專輯，<br />
-1999年與<a href="../Page/庾澄慶.md" title="wikilink">庾澄慶合唱</a>，<br />
+1999年與<a href="../Page/庾澄慶.md" title="wikilink">庾澄慶</a>合唱，<br />
 收録在《<a href="https://zh.wikipedia.org/wiki/哈林NO.1精選輯" title="wikilink">哈林NO.1精選輯</a>》</p></td>
 </tr>
 <tr class="even">
@@ -300,6 +299,4 @@
 
   - CD版
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:張信哲音樂專輯](https://zh.wikipedia.org/wiki/Category:張信哲音樂專輯 "wikilink")
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:張信哲音樂專輯](https://zh.wikipedia.org/wiki/Category:張信哲音樂專輯 "wikilink") [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")

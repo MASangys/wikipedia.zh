@@ -1,8 +1,6 @@
-《**美男高校地球防衛部HAPPY KISS！**》是由[STUDIO
-COMET所製作的日本原創TV動畫](../Page/STUDIO_COMET.md "wikilink")，於2018年4月起，於東京電視台等頻道撥放中。\[1\]
+《**美男高校地球防衛部HAPPY KISS！**》是由[STUDIO COMET所製作的日本原創TV動畫](../Page/STUDIO_COMET.md "wikilink")，於2018年4月起，於東京電視台等頻道撥放中。\[1\]
 
-《美男高校地球防衛部HAPPY
-KISS！》為《[美男高校地球防衛部](../Page/美男高校地球防衛部LOVE！.md "wikilink")》系列化後的全新作，監督[高松信司與其他主要製作成員與前作相同](../Page/高松信司.md "wikilink")。承襲前作基礎設定，本作「地球防衛部」五人的配音員皆為初次擔綱主要角色 。\[2\]
+《美男高校地球防衛部HAPPY KISS！》為《[美男高校地球防衛部](../Page/美男高校地球防衛部LOVE！.md "wikilink")》系列化後的全新作，監督[高松信司](../Page/高松信司.md "wikilink")與其他主要製作成員與前作相同。承襲前作基礎設定，本作「地球防衛部」五人的配音員皆為初次擔綱主要角色 。\[2\]
 
 ## 故事簡介
 
@@ -14,8 +12,7 @@ KISS！》為《[美男高校地球防衛部](../Page/美男高校地球防衛�
 
 ### 防衛部 / カルルス KNIGHT HAPPY KISS\!
 
-以校園某間寫有「地球防衛部」看板的社辦作為據點，並由以下五人所組成的社團。實質上為「什麼都不做部」。本作中成為カルルス專屬騎士團的成員，與フラヌイ騎士團「EDEL
-STEIN」所創造出怪物戰鬥。
+以校園某間寫有「地球防衛部」看板的社辦作為據點，並由以下五人所組成的社團。實質上為「什麼都不做部」。本作中成為カルルス專屬騎士團的成員，與フラヌイ騎士團「EDEL STEIN」所創造出怪物戰鬥。
 
   - 修善寺 鏡太郎（しゅぜんじ きょうたろう） / 花之魔法騎士FIORE・KISS
     聲 - 下鶴直幸
@@ -87,13 +84,12 @@ STEIN」所創造出怪物戰鬥。
 被EDEL STEIN變成怪人的眉難高中學生們。因懷有各式各樣的「自卑感」，而藉機被變成怪人。
 
   - 越川理（こえかわ おさむ） / 變聲怪人
-    聲 -
-    [黒田崇矢](../Page/黑田崇矢.md "wikilink")、[村瀬歩](../Page/村瀨步.md "wikilink")（心の声）
+    聲 - [黒田崇矢](../Page/黑田崇矢.md "wikilink")、[村瀬歩](../Page/村瀨步.md "wikilink")（心の声）
     第1話登場。
   - 喜屋良便太郎（きやら べんたろう） / 卡通便當怪人
     声 - [諏訪部順一](../Page/諏訪部順一.md "wikilink")
     第2話登場。
-  - 臼井一（うすい はじめ） / [麵包袋夾怪人](../Page/麵包袋夾.md "wikilink")
+  - 臼井一（うすい はじめ） / [麵包袋夾](../Page/麵包袋夾.md "wikilink")怪人
     声 - [豊永利行](../Page/豐永利行.md "wikilink")
     第3話登場。
   - 米蔵金吾（よねくら きんご） / 寶藏怪人
@@ -150,14 +146,11 @@ STEIN」所創造出怪物戰鬥。
 ## 主題曲
 
   - 片頭曲「絶対最幸☆HAPPY KISS☆」 \[3\]
-    作詞 - hotaru / 作曲・編曲 - eba / 歌 -
-    地球防衛部HK［修善寺鏡太郎（下鶴直幸）、霧島龍馬（小俣凌雅）、和倉七緒（石井孝英）、万座太子（安田陸矢）、道後一六（葉山翔太）］
+    作詞 - hotaru / 作曲・編曲 - eba / 歌 - 地球防衛部HK［修善寺鏡太郎（下鶴直幸）、霧島龍馬（小俣凌雅）、和倉七緒（石井孝英）、万座太子（安田陸矢）、道後一六（葉山翔太）］
   - 片尾曲「我ら気高きエーデルシュタイン\!\!」 \[4\]
-    作詞 - hotaru / 作曲・編曲 - 園田健太郎 / 歌 -
-    地球征服部ES［指宿阿多（[緑川光](../Page/綠川光.md "wikilink")）、宇奈月大樹（[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")）、白骨マーサ（[松岡禎丞](../Page/松岡禎丞.md "wikilink")）］
+    作詞 - hotaru / 作曲・編曲 - 園田健太郎 / 歌 - 地球征服部ES［指宿阿多（[緑川光](../Page/綠川光.md "wikilink")）、宇奈月大樹（[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")）、白骨マーサ（[松岡禎丞](../Page/松岡禎丞.md "wikilink")）］
   - 劇中插入曲「HAPPY READY??????」
-    作詞 - hotaru / 作曲・編曲 - yamazo / 歌 -
-    地球防衛部HK［修善寺鏡太郎（下鶴直幸）、霧島龍馬（小俣凌雅）、和倉七緒（石井孝英）、万座太子（安田陸矢）、道後一六（葉山翔太）］
+    作詞 - hotaru / 作曲・編曲 - yamazo / 歌 - 地球防衛部HK［修善寺鏡太郎（下鶴直幸）、霧島龍馬（小俣凌雅）、和倉七緒（石井孝英）、万座太子（安田陸矢）、道後一六（葉山翔太）］
 
 ## 各話標題
 
@@ -189,12 +182,9 @@ STEIN」所創造出怪物戰鬥。
 
 ## 衍伸節目
 
-『**美男高校地球防衛部HAPPY
-KISS\!生放送〜ハッピーな魔法をお届け！〜**』（簡稱：**ハピナマ！**）2018年2月26日起，由防衛部配音員五人主持，於直播平台LINE
-LIVE等平台不定期放送。
+『**美男高校地球防衛部HAPPY KISS\!生放送〜ハッピーな魔法をお届け！〜**』（簡稱：**ハピナマ！**）2018年2月26日起，由防衛部配音員五人主持，於直播平台LINE LIVE等平台不定期放送。
 
-『**美男高校地球防衛部RADIO HAPPY
-KISS\!**』2018年4月8日起，由防衛部配音員五人主持，於RADIO大阪每周放送廣播節目。
+『**美男高校地球防衛部RADIO HAPPY KISS\!**』2018年4月8日起，由防衛部配音員五人主持，於RADIO大阪每周放送廣播節目。
 
 ## 注釋
 
@@ -202,17 +192,10 @@ KISS\!**』2018年4月8日起，由防衛部配音員五人主持，於RADIO大�
 
   - [「美男高校地球防衛部HAPPY KISS\!」公式サイト](http://boueibu.com/hk/)
 
-  - [美男高校地球防衛部HAPPY KISS\!
-    テレビ東京アニメ公式](http://www.tv-tokyo.co.jp/anime/boueibu_hk/)
+  - [美男高校地球防衛部HAPPY KISS\! テレビ東京アニメ公式](http://www.tv-tokyo.co.jp/anime/boueibu_hk/)
 
   -
-[Category:2018年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2018年東京電視網動畫 "wikilink")
-[Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink")
-[Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink")
-[Category:變身英雄](https://zh.wikipedia.org/wiki/Category:變身英雄 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:公共浴場背景作品](https://zh.wikipedia.org/wiki/Category:公共浴場背景作品 "wikilink")
-[Category:STUDIO_COMET](https://zh.wikipedia.org/wiki/Category:STUDIO_COMET "wikilink")
+[Category:2018年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2018年東京電視網動畫 "wikilink") [Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:變身英雄](https://zh.wikipedia.org/wiki/Category:變身英雄 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:公共浴場背景作品](https://zh.wikipedia.org/wiki/Category:公共浴場背景作品 "wikilink") [Category:STUDIO_COMET](https://zh.wikipedia.org/wiki/Category:STUDIO_COMET "wikilink")
 
 1.
 2.

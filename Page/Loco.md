@@ -1,9 +1,5 @@
-**Loco**（，），本名**權赫禹**（），[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[饒舌](../Page/饒舌.md "wikilink")[歌手](../Page/歌手.md "wikilink")，所屬唱片旗下歌手。2012年参加[Mnet饒舌](../Page/Mnet媒體.md "wikilink")[选秀](../Page/选秀.md "wikilink")[節目](../Page/綜藝節目.md "wikilink")《[Show
-Me The
-Money](../Page/Show_Me_The_Money.md "wikilink")》第一季获得冠軍。\[1\]\[2\]\[3\]
-與
-[Gray](../Page/Gray_\(歌手\).md "wikilink")、[Zion.T](../Page/Zion.T.md "wikilink")、及[Crush共同所屬於團體VV](../Page/Crush_\(歌手\).md "wikilink"):D。
-2019年2月7日入伍,在接受基礎軍事訓練後作為義務員警服兵役。
+**Loco**（，），本名**權赫禹**（），[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[饒舌](../Page/饒舌.md "wikilink")[歌手](../Page/歌手.md "wikilink")，所屬唱片旗下歌手。2012年参加[Mnet饒舌](../Page/Mnet媒體.md "wikilink")[选秀](../Page/选秀.md "wikilink")[節目](../Page/綜藝節目.md "wikilink")《[Show Me The Money](../Page/Show_Me_The_Money.md "wikilink")》第一季获得冠軍。\[1\]\[2\]\[3\]
+與 [Gray](../Page/Gray_\(歌手\).md "wikilink")、[Zion.T](../Page/Zion.T.md "wikilink")、及[Crush共同所屬於團體VV](../Page/Crush_\(歌手\).md "wikilink"):D。 2019年2月7日入伍,在接受基礎軍事訓練後作為義務員警服兵役。
 
 ## 音乐作品
 
@@ -924,7 +920,7 @@ Feat.：Loco</p></td>
 <tr class="odd">
 <td><p>2014年4月9日</p></td>
 <td><p>Show Me The Money 3</p></td>
-<td><p>、、、、、Loco、<a href="https://zh.wikipedia.org/wiki/JIN_DOGGAE" title="wikilink">JIN DOGGAE</a></p></td>
+<td><p>、、、<a href="../Page/DinDin.md" title="wikilink">DinDin</a>、、Loco、<a href="https://zh.wikipedia.org/wiki/JIN_DOGGAE" title="wikilink">JIN DOGGAE</a></p></td>
 <td><p>《<a href="../Page/Show_Me_The_Money_3.md" title="wikilink">Show Me The Money 3</a>》</p></td>
 <td></td>
 <td></td>
@@ -993,7 +989,7 @@ Feat.：Loco、<a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a>、<a
 | 11月27日        | [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")                         | [KBS](../Page/韓國放送公社.md "wikilink")                                                                       | 嘉宾，第298集，与[Crush](../Page/Crush_\(歌手\).md "wikilink")、[Gray](../Page/Gray_\(歌手\).md "wikilink")                                                                          |                                                               |
 | 11月27日        | [魔女狩猎](https://zh.wikipedia.org/wiki/魔女狩猎 "wikilink")                               | [JTBC](../Page/JTBC.md "wikilink")                                                                        | 嘉賓，第120集，與[朴載範](../Page/朴載範.md "wikilink")                                                                                                                               |                                                               |
 | 2016          | 8月27日－9月3日                                                                          | [My Little Television](../Page/My_Little_Television.md "wikilink")                                        | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")                                                                                                              | 与[朴載範](../Page/朴載範.md "wikilink")                             |
-| 8月25日         | [Happy Together](../Page/歡樂在一起.md "wikilink")                                       | [KBS](../Page/韓國放送公社.md "wikilink")                                                                       | 嘉宾，第462集，与[Crush](../Page/Crush_\(歌手\).md "wikilink")、、[白智榮](../Page/白智榮.md "wikilink")、                                                                                 |                                                               |
+| 8月25日         | [Happy Together](../Page/歡樂在一起.md "wikilink")                                       | [KBS](../Page/韓國放送公社.md "wikilink")                                                                       | 嘉宾，第462集，与[Crush](../Page/Crush_\(歌手\).md "wikilink")、[DinDin](../Page/DinDin.md "wikilink")、[白智榮](../Page/白智榮.md "wikilink")、                                           |                                                               |
 | 11月5日         | [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")                         | [KBS](../Page/韓國放送公社.md "wikilink")                                                                       | 嘉宾，第340集，与[朴載範](../Page/朴載範.md "wikilink")                                                                                                                               |                                                               |
 | 2017          | 6月4日                                                                                | [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")                                               | [KBS](../Page/韓國放送公社.md "wikilink")                                                                                                                                      | 嘉賓，第367集                                                      |
 | 8月19日         | [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")                         | [KBS](../Page/韓國放送公社.md "wikilink")                                                                       | 嘉賓，第378集，与[Gray](../Page/Gray_\(歌手\).md "wikilink")、、[DJ Pumkin](https://zh.wikipedia.org/wiki/DJ_Pumkin "wikilink")                                                     |                                                               |
@@ -1009,10 +1005,7 @@ Feat.：Loco、<a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a>、<a
 
 ## 奖项与提名
 
-**[甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")** |- | rowspan="1"
-align="center"|2015 | align="center"|最佳OST\[13\] |
-align="center"|偶然的春天（[Yuju合唱](../Page/Yuju.md "wikilink")） |
- |}
+**[甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")** |- | rowspan="1" align="center"|2015 | align="center"|最佳OST\[13\] | align="center"|偶然的春天（[Yuju](../Page/Yuju.md "wikilink")合唱） |  |}
 
 ## 参考资料
 
@@ -1021,16 +1014,7 @@ align="center"|偶然的春天（[Yuju合唱](../Page/Yuju.md "wikilink")） |
   -
   -
   -
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink")
-[Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink")
-[Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink")
-[Category:弘益大學校友](https://zh.wikipedia.org/wiki/Category:弘益大學校友 "wikilink")
-[Category:权姓](https://zh.wikipedia.org/wiki/Category:权姓 "wikilink")
-[Category:音乐选秀节目冠军](https://zh.wikipedia.org/wiki/Category:音乐选秀节目冠军 "wikilink")
-[Category:2012年出道](https://zh.wikipedia.org/wiki/Category:2012年出道 "wikilink")
-[Category:AOMG音乐家](https://zh.wikipedia.org/wiki/Category:AOMG音乐家 "wikilink")
-[Category:Show_Me_The_Money参赛者](https://zh.wikipedia.org/wiki/Category:Show_Me_The_Money参赛者 "wikilink")
+[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink") [Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink") [Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink") [Category:弘益大學校友](https://zh.wikipedia.org/wiki/Category:弘益大學校友 "wikilink") [Category:权姓](https://zh.wikipedia.org/wiki/Category:权姓 "wikilink") [Category:音乐选秀节目冠军](https://zh.wikipedia.org/wiki/Category:音乐选秀节目冠军 "wikilink") [Category:2012年出道](https://zh.wikipedia.org/wiki/Category:2012年出道 "wikilink") [Category:AOMG音乐家](https://zh.wikipedia.org/wiki/Category:AOMG音乐家 "wikilink") [Category:Show_Me_The_Money参赛者](https://zh.wikipedia.org/wiki/Category:Show_Me_The_Money参赛者 "wikilink")
 
 1.
 

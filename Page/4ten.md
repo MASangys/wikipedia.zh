@@ -1,4 +1,4 @@
-**4ten**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Jungle娛樂於](../Page/Jungle娛樂.md "wikilink")2014年8月28日推出的女子流行音樂團體，現任成員為隊長[Hyeji](https://zh.wikipedia.org/wiki/Hyeji "wikilink")、[Hyejin](https://zh.wikipedia.org/wiki/Hyejin "wikilink")、[Heeo及](https://zh.wikipedia.org/wiki/Heeo "wikilink")[Yun](https://zh.wikipedia.org/wiki/Yun "wikilink")。
+**4ten**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Jungle娛樂](../Page/Jungle娛樂.md "wikilink")於2014年8月28日推出的女子流行音樂團體，現任成員為隊長[Hyeji](https://zh.wikipedia.org/wiki/Hyeji "wikilink")、[Hyejin](https://zh.wikipedia.org/wiki/Hyejin "wikilink")、[Heeo及](https://zh.wikipedia.org/wiki/Heeo "wikilink")[Yun](https://zh.wikipedia.org/wiki/Yun "wikilink")。
 
 ## 歷程
 
@@ -146,6 +146,4 @@
 
   - [Jungle Entertainment](http://channels.vlive.tv/E26399)的V Live頻道
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")

@@ -1,5 +1,4 @@
-是日本遊戲公司Princess Soft於2004年9月30日發售的[PlayStation
-2平台](../Page/PlayStation_2.md "wikilink")[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")。\[1\]後來在2004年10月到12月播放電視動畫版共13集。\[2\]
+是日本遊戲公司Princess Soft於2004年9月30日發售的[PlayStation 2平台](../Page/PlayStation_2.md "wikilink")[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")。\[1\]後來在2004年10月到12月播放電視動畫版共13集。\[2\]
 
 ## 故事
 
@@ -35,7 +34,7 @@
 
 ## 電視動畫
 
-同名電視動畫於2004年10月2日至同年12月26日期間由[神奈川電視台播放共](../Page/神奈川電視台.md "wikilink")13集，中文版由臺灣的[普威爾國際代理發售並命名為](../Page/普威爾國際.md "wikilink")《逐漸甦醒的記憶》。\[4\]
+同名電視動畫於2004年10月2日至同年12月26日期間由[神奈川電視台](../Page/神奈川電視台.md "wikilink")播放共13集，中文版由臺灣的[普威爾國際](../Page/普威爾國際.md "wikilink")代理發售並命名為《逐漸甦醒的記憶》。\[4\]
 
 ### 主題曲
 
@@ -213,12 +212,7 @@
   - [遊戲官方網站](http://www.oaks-soft.co.jp/princess-soft/w/w.html)
   - [動畫官方網站](https://web.archive.org/web/20080330052633/http://www.trinet-ent.com/princess_hour/index.html)
 
-[Category:2004年電子遊戲](https://zh.wikipedia.org/wiki/Category:2004年電子遊戲 "wikilink")
-[Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:2005年UHF動畫](https://zh.wikipedia.org/wiki/Category:2005年UHF動畫 "wikilink")
+[Category:2004年電子遊戲](https://zh.wikipedia.org/wiki/Category:2004年電子遊戲 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:2005年UHF動畫](https://zh.wikipedia.org/wiki/Category:2005年UHF動畫 "wikilink")
 
 1.
 2.

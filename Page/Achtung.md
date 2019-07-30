@@ -2,13 +2,11 @@
 
 ## 團名由來
 
-Achtung源自德文，有“attention”以及
-“warning”的含意。Achtung在2002年的德國高速公路上隨處可見。當時，正在德國旅行的樂團創辦人秋升燁的車子拋錨在德國高速公路上，一路上Achtung的警告標示在他心中留下永恆的印象。\[2\]
+Achtung源自德文，有“attention”以及 “warning”的含意。Achtung在2002年的德國高速公路上隨處可見。當時，正在德國旅行的樂團創辦人秋升燁的車子拋錨在德國高速公路上，一路上Achtung的警告標示在他心中留下永恆的印象。\[2\]
 
 ## 成員
 
-  - 秋升燁 - [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink"),
-    [吉他](../Page/原聲吉他.md "wikilink")
+  - 秋升燁 - [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink"), [吉他](../Page/原聲吉他.md "wikilink")
 
   - \- [爵士鼓](../Page/爵士鼓.md "wikilink")
 
@@ -41,7 +39,7 @@ Achtung源自德文，有“attention”以及
 
 <!-- end list -->
 
-  - [魔女之城OST](../Page/魔女之城.md "wikilink") - (2016年 4月 1日)
+  - [魔女之城](../Page/魔女之城.md "wikilink")OST - (2016年 4月 1日)
 
 <!-- end list -->
 
@@ -58,8 +56,7 @@ Achtung源自德文，有“attention”以及
 ### 合作單曲專輯
 
   - 那天(그 날)(with [尹度玹](../Page/尹度玹.md "wikilink"))\[4\] - (2014年 5月 22日)
-  - 鏡中的你(거울속의 너)(with [鄭燁](../Page/鄭燁.md "wikilink"))\[5\] - (2014年 8月
-    14日)
+  - 鏡中的你(거울속의 너)(with [鄭燁](../Page/鄭燁.md "wikilink"))\[5\] - (2014年 8月 14日)
   - 戀戀(연연)(with [金慶皓](../Page/金慶皓.md "wikilink"))\[6\] - (2014年 10月 14日)
 
 ## 參考資料
@@ -67,22 +64,14 @@ Achtung源自德文，有“attention”以及
 ## 外部連結
 
   - [악퉁 Achtung](http://cafe.daum.net/achtung) 官方網站
-  - [악퉁 Achtung](https://www.facebook.com/bandachtung/)
-    [Facebook](../Page/Facebook.md "wikilink")
-  - [악퉁 Achtung](https://twitter.com/bandachtung)
-    [Twitter](../Page/Twitter.md "wikilink")
+  - [악퉁 Achtung](https://www.facebook.com/bandachtung/) [Facebook](../Page/Facebook.md "wikilink")
+  - [악퉁 Achtung](https://twitter.com/bandachtung) [Twitter](../Page/Twitter.md "wikilink")
 
-[Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink")
-[Category:2008年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年成立的音樂團體 "wikilink")
+[Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink") [Category:2008年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年成立的音樂團體 "wikilink")
 
-1.  [Achtung Facebook
-    樂團簡介](https://www.facebook.com/bandachtung/info/?tab=page_info)
-2.  [Achtung Facebook
-    樂團簡介](https://www.facebook.com/bandachtung/info/?tab=page_info)
+1.  [Achtung Facebook 樂團簡介](https://www.facebook.com/bandachtung/info/?tab=page_info)
+2.  [Achtung Facebook 樂團簡介](https://www.facebook.com/bandachtung/info/?tab=page_info)
 3.  [搖滾樂團Achtung，‘我的昔日故事’獨特呈現......MBC‘重新開始’OST公開](http://entertain.naver.com/read?oid=215&aid=0000467874/)
-
-4.  [尹度玹與搖滾樂團Achtung合作單曲
-    ‘那天’音源公開](http://www.newsway.co.kr/view.php?tp=1&ud=2014052211123014233)
-5.  [鄭燁X樂團Achtung,音源合作
-    '鏡中的你'今天(14日)公開"](http://www.etoday.co.kr/news/section/newsview.php?idxno=967671)
+4.  [尹度玹與搖滾樂團Achtung合作單曲 ‘那天’音源公開](http://www.newsway.co.kr/view.php?tp=1&ud=2014052211123014233)
+5.  [鄭燁X樂團Achtung,音源合作 '鏡中的你'今天(14日)公開"](http://www.etoday.co.kr/news/section/newsview.php?idxno=967671)
 6.  [Achtung與金慶皓合作單曲『戀戀』公開](http://tenasia.hankyung.com/archives/342341)

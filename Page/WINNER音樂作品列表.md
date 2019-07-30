@@ -1,7 +1,4 @@
-**WINNER音樂作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[WINNER自](../Page/WINNER.md "wikilink")2014年出道至今所發行的音樂作品。該團體是透過[Mnet生存實境節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[WIN：WHO
-IS
-NEXT](../Page/WIN.md "wikilink")》所誕生的韓國五人男子團體，隸屬於[YG娛樂](../Page/YG娛樂.md "wikilink")，以正規專輯《[2014
-S/S](https://zh.wikipedia.org/wiki/2014_S/S "wikilink")》在2014年8月17日正式出道。迄今，WINNER在韓國及日本共發行了4張正規專輯、2張迷你專輯及4張單曲。
+**WINNER音樂作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[WINNER](../Page/WINNER.md "wikilink")自2014年出道至今所發行的音樂作品。該團體是透過[Mnet生存實境節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[WIN IS NEXT](../Page/WIN.md "wikilink")：WHO》所誕生的韓國五人男子團體，隸屬於[YG娛樂](../Page/YG娛樂.md "wikilink")，以正規專輯《[2014 S/S](https://zh.wikipedia.org/wiki/2014_S/S "wikilink")》在2014年8月17日正式出道。迄今，WINNER在韓國及日本共發行了4張正規專輯、2張迷你專輯及4張單曲。
 
 ## 專輯
 
@@ -410,7 +407,7 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S "wikilink")》在2014年8月17日正
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/WIN.md" title="wikilink">WIN：Who is next?</a>（A隊發行）</p></td>
+<td><p><a href="../Page/WIN.md" title="wikilink">WIN is next?</a>：Who（A隊發行）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -971,8 +968,7 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S "wikilink")》在2014年8月17日正
 
 ## 參考文獻
 
-[Category:WINNER](https://zh.wikipedia.org/wiki/Category:WINNER "wikilink")
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
+[Category:WINNER](https://zh.wikipedia.org/wiki/Category:WINNER "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
 
 1.
 2.

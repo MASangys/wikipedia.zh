@@ -1,6 +1,4 @@
-《**ONE PIECE LIVE
-ATTRACTION**》，是於[東京鐵塔航海王主題樂園](https://zh.wikipedia.org/wiki/東京鐵塔 "wikilink")（TOKYO
-ONE PIECE TOWER）期間限定舉辦的真人舞台秀，目前總共上演三次。
+《**ONE PIECE LIVE ATTRACTION**》，是於[東京鐵塔航海王主題樂園](https://zh.wikipedia.org/wiki/東京鐵塔 "wikilink")（TOKYO ONE PIECE TOWER）期間限定舉辦的真人舞台秀，目前總共上演三次。
 
 ## 第1彈
 
@@ -16,8 +14,7 @@ ONE PIECE TOWER）期間限定舉辦的真人舞台秀，目前總共上演三�
   - 喬巴：國友久志／山本恭之輔 （CV：[大谷育江](../Page/大谷育江.md "wikilink")）
   - 羅賓：海来／田中セシル／谷口莉緒 （CV：[山口由里子](../Page/山口由里子.md "wikilink")）
   - 佛朗基：大見魁冴／永門けん （CV：[矢尾一樹](../Page/矢尾一樹.md "wikilink")）
-  - 布魯克：森大成／晴本宏亮
-    （CV：[長](https://zh.wikipedia.org/wiki/長_\(日本配音員\) "wikilink")）
+  - 布魯克：森大成／晴本宏亮 （CV：[長](https://zh.wikipedia.org/wiki/長_\(日本配音員\) "wikilink")）
 
 ### 製作團隊
 
@@ -98,8 +95,7 @@ ONE PIECE TOWER）期間限定舉辦的真人舞台秀，目前總共上演三�
 
 《ONE PIECE LIVE ATTRACTION “3”『PHANTOM』》的公演期間為2017年4月29日～2019年4月7日。
 
-本作是原作者尾田栄一郎全權監製，完全原創的故事。而為了本作創作出的「歌姬
-安」也會出場。另外，本作的開場曲和片尾曲，交由人氣歌唱組合「GReeeeN」創作。\[2\]
+本作是原作者尾田栄一郎全權監製，完全原創的故事。而為了本作創作出的「歌姬 安」也會出場。另外，本作的開場曲和片尾曲，交由人氣歌唱組合「GReeeeN」創作。\[2\]
 
 ### 演員·聲優
 
@@ -206,10 +202,9 @@ ONE PIECE TOWER）期間限定舉辦的真人舞台秀，目前總共上演三�
 
 ## 外部連結
 
-  - [東京鐵塔航海王主題樂園「ONE PIECE LIVE
-    ATTRACTION」官方網站](https://onepiecetower.tokyo/live_event/live?lang=zh-tw)
+  - [東京鐵塔航海王主題樂園「ONE PIECE LIVE ATTRACTION」官方網站](https://onepiecetower.tokyo/live_event/live?lang=zh-tw)
 
-[Category:ONE_PIECE](https://zh.wikipedia.org/wiki/Category:ONE_PIECE "wikilink")
+[Category:ONE_PIECE作品](https://zh.wikipedia.org/wiki/Category:ONE_PIECE作品 "wikilink")
 
 1.
 2.

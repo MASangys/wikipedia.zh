@@ -1,4 +1,4 @@
-《**Vidol**》是台灣[三立電視旗下的影音平台](../Page/三立電視.md "wikilink")，提供正版內容、高畫質影片、直播頻道。內容以三立自家戲劇與綜藝為主，近期投入平台自製內容。平台定位以「影像」（Video）與「偶像」（Idol）吸引消費者，打造粉絲經濟\[1\]\[2\]\[3\]。
+《**Vidol**》是台灣[三立電視](../Page/三立電視.md "wikilink")旗下的影音平台，提供正版內容、高畫質影片、直播頻道。內容以三立自家戲劇與綜藝為主，近期投入平台自製內容。平台定位以「影像」（Video）與「偶像」（Idol）吸引消費者，打造粉絲經濟\[1\]\[2\]\[3\]。
 
 ## 發展歷史
 
@@ -10,15 +10,14 @@
   - 2016年12月31日，直播2017[臺北最HIGH新年城](https://zh.wikipedia.org/wiki/臺北最HIGH新年城 "wikilink")。
   - 2017年2月24日，遭兩位離職工程師刪除存放於[亞馬遜雲的所有影音資料並複製主機](https://zh.wikipedia.org/wiki/亞馬遜雲 "wikilink")[金鑰](https://zh.wikipedia.org/wiki/金鑰 "wikilink")，檢警依涉犯《[中華民國刑法](../Page/中華民國刑法.md "wikilink")》妨害電腦使用罪提起公訴。\[5\]
   - 2017年10月30日，直播[第52屆金鐘獎電視金鐘獎頒獎典禮](https://zh.wikipedia.org/wiki/第52屆金鐘獎 "wikilink")。
-  - 2017年12月20日，[三立台灣台](../Page/三立台灣台.md "wikilink")、[三立都會台直播頻道開始收費](../Page/三立都會台.md "wikilink")\[6\]。
+  - 2017年12月20日，[三立台灣台](../Page/三立台灣台.md "wikilink")、[三立都會台](../Page/三立都會台.md "wikilink")直播頻道開始收費\[6\]。
   - 2018年4月1日，Vidol舉行扭蛋車創意市集慶祝Vidol2歲。\[7\]
   - 2018年8月30日，VidolcomScore行動娛樂排名第一，超越LiTV、愛奇藝等影音平台。
   - 2018年10月6日，Vidol直播[第53金鐘頒獎典禮](https://zh.wikipedia.org/wiki/第53屆金鐘獎 "wikilink")。
   - 2018年7月起經營[YouTube](../Page/YouTube.md "wikilink")，12月28日破百萬訂閱人次。
   - 2018年12月31日，Vidol直播台中麗寶跨年、花蓮跨年晚會。
   - 2019年1月，據[台灣YouTube頻道訂閱人數排行榜統計](https://zh.wikipedia.org/wiki/台灣YouTube頻道訂閱人數排行榜 "wikilink")、Vidol進入全台前20大YouTube頻道。
-  - 2019年4月1日， Vidol
-    3歲生日慶舉辦[\[炮仔聲\]粉絲見面會](https://www.setn.com/News.aspx?NewsID=532331)
+  - 2019年4月1日， Vidol 3歲生日慶舉辦[\[炮仔聲\]粉絲見面會](https://www.setn.com/News.aspx?NewsID=532331)
 
 ## Vidol自製節目列表
 
@@ -245,22 +244,16 @@
   -
   -
   -
-  - [Vidol](https://play.google.com/store/apps/details?id=com.set.settv.vidol)
-    - Google Play
+  - [Vidol](https://play.google.com/store/apps/details?id=com.set.settv.vidol) - Google Play
 
-  - [Vidol](https://itunes.apple.com/tw/app/vidol-ying-yin-tai-wan-di/id1091155189?l=zh&mt=8)
-    - App Store
+  - [Vidol](https://itunes.apple.com/tw/app/vidol-ying-yin-tai-wan-di/id1091155189?l=zh&mt=8) - App Store
 
   -
   -
   -
   -
   -
-[Category:三立電視](https://zh.wikipedia.org/wiki/Category:三立電視 "wikilink")
-[Category:Vidol](https://zh.wikipedia.org/wiki/Category:Vidol "wikilink")
-[Category:视频网站](https://zh.wikipedia.org/wiki/Category:视频网站 "wikilink")
-[Category:网络电视](https://zh.wikipedia.org/wiki/Category:网络电视 "wikilink")
-[Category:台灣網站](https://zh.wikipedia.org/wiki/Category:台灣網站 "wikilink")
+[Category:三立電視](https://zh.wikipedia.org/wiki/Category:三立電視 "wikilink") [Category:Vidol](https://zh.wikipedia.org/wiki/Category:Vidol "wikilink") [Category:视频网站](https://zh.wikipedia.org/wiki/Category:视频网站 "wikilink") [Category:网络电视](https://zh.wikipedia.org/wiki/Category:网络电视 "wikilink") [Category:台灣網站](https://zh.wikipedia.org/wiki/Category:台灣網站 "wikilink")
 
 1.
 2.

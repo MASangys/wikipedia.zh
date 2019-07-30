@@ -2,8 +2,7 @@
 
 ## 電影概要
 
-  - 本作也是繼2010年《[光之美少女：甜蜜天使！](../Page/Heartcatch_光之美少女！.md "wikilink")》劇場版《[電影
-    光之美少女：甜蜜天使！：超級時尚秀在花之都...真的嗎！？](https://zh.wikipedia.org/wiki/Heartcatch_光之美少女！#劇場版 "wikilink")》之後，第二部將故事發生地放在[法國首都](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎的光之美少女劇場版作品](../Page/巴黎.md "wikilink")。
+  - 本作也是繼2010年《[光之美少女：甜蜜天使！](../Page/Heartcatch_光之美少女！.md "wikilink")》劇場版《[電影 光之美少女：甜蜜天使！：超級時尚秀在花之都...真的嗎！？](https://zh.wikipedia.org/wiki/Heartcatch_光之美少女！#劇場版 "wikilink")》之後，第二部將故事發生地放在[法國首都](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")的光之美少女劇場版作品。
   - 本作更是光之美少女單獨劇場版（也是平成最後一部）中首次有前作光之美少女登場的作品。
   - 本作亦與本篇第37話有著劇情上的連動。
 
@@ -34,8 +33,7 @@
 
     本作頭號反派，長相酷似人偶，真正身份是一個寄宿在一本記載了究極甜品的古老甜點書中的妖怪，對長期忽視自己才能的社會抱持著極端的仇視。
 
-    本劇場版中她暗中從幕後操縱讓-皮埃爾替自己完成究極甜品并利用完成的究極甜品怪物將整個巴黎和世界都變成甜品，在讓-皮埃爾被光之美少女眾人救出之後失去理智的她自己跳入究極甜品怪物之中企圖消滅光之美少女，但最終被全體光之美少女以合體必殺技「光之美少女
-    動物迴旋 完美回憶」打敗并徹底淨化之後死去，化為灰塵消失。
+    本劇場版中她暗中從幕後操縱讓-皮埃爾替自己完成究極甜品并利用完成的究極甜品怪物將整個巴黎和世界都變成甜品，在讓-皮埃爾被光之美少女眾人救出之後失去理智的她自己跳入究極甜品怪物之中企圖消滅光之美少女，但最終被全體光之美少女以合體必殺技「光之美少女 動物迴旋 完美回憶」打敗并徹底淨化之後死去，化為灰塵消失。
 
     本劇場版最後她轉生成為一名小女孩，在讓-皮埃爾的板房式工房前偷看其製作法式千層酥，甚至在片尾曲以實習廚師的身分接受讓-皮埃爾的指導做甜點。
 
@@ -75,8 +73,7 @@
   -
 
       -
-        作詞：藤本記子（Nostalgic
-        Orchestra），作・編曲：三好啟太，主唱：[駒形友梨](../Page/駒形友梨.md "wikilink")&[宮本佳那子](../Page/宮本佳那子.md "wikilink")
+        作詞：藤本記子（Nostalgic Orchestra），作・編曲：三好啟太，主唱：[駒形友梨](../Page/駒形友梨.md "wikilink")&[宮本佳那子](../Page/宮本佳那子.md "wikilink")
 
 <!-- end list -->
 
@@ -102,5 +99,4 @@
   - [映画キラキラ☆プリキュアアラモード](http://www.toei-anim.co.jp/movie/2017_kirakira_precure/)
 
   -
-[Category:2017年动画电影](https://zh.wikipedia.org/wiki/Category:2017年动画电影 "wikilink")
-[Category:動物題材電影](https://zh.wikipedia.org/wiki/Category:動物題材電影 "wikilink")
+[Category:2017年动画电影](https://zh.wikipedia.org/wiki/Category:2017年动画电影 "wikilink") [Category:動物題材電影](https://zh.wikipedia.org/wiki/Category:動物題材電影 "wikilink")

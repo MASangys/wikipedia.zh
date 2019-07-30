@@ -23,8 +23,7 @@
 
   -
 
-    本作頭號反派，來自幻影帝國的幹部，一位長著一頭紫色頭髮的神秘蒙面男子，在暗中弄傷了紡的雙腳之後從幕後製造并操縱人偶王國的運作，欺騙紡說自己能幫助她在人偶之國里永遠快樂的跳舞下去。但實際上他卻是一個面熱心冷、口腹蜜劍的陰險小人，他的真實目的是想從紡的身上吸取不幸的能量，妄圖將整個世界籠罩在恐怖與不幸之中，并最終若計畫成功可取代幻影女王的幻影帝國首領之位。最終被「超級幸福可愛天使」（Super
-    Happiness Lovely）使出必殺技「光之美少女 奇蹟之愛律動」（Precure Miracle Love Motion）消滅。
+    本作頭號反派，來自幻影帝國的幹部，一位長著一頭紫色頭髮的神秘蒙面男子，在暗中弄傷了紡的雙腳之後從幕後製造并操縱人偶王國的運作，欺騙紡說自己能幫助她在人偶之國里永遠快樂的跳舞下去。但實際上他卻是一個面熱心冷、口腹蜜劍的陰險小人，他的真實目的是想從紡的身上吸取不幸的能量，妄圖將整個世界籠罩在恐怖與不幸之中，并最終若計畫成功可取代幻影女王的幻影帝國首領之位。最終被「超級幸福可愛天使」（Super Happiness Lovely）使出必殺技「光之美少女 奇蹟之愛律動」（Precure Miracle Love Motion）消滅。
 
 <!-- end list -->
 
@@ -49,8 +48,6 @@
 
 ## 外部連結
 
-  - [電影 填充幸福
-    光之美少女！人偶之國的芭蕾舞女（東映動畫）](http://www.toei-anim.co.jp/movie/2014_precure_happinesscharge/)
+  - [電影 填充幸福 光之美少女！人偶之國的芭蕾舞女（東映動畫）](http://www.toei-anim.co.jp/movie/2014_precure_happinesscharge/)
 
-[Category:2014年動畫電影](https://zh.wikipedia.org/wiki/Category:2014年動畫電影 "wikilink")
-[Category:芭蕾舞電影](https://zh.wikipedia.org/wiki/Category:芭蕾舞電影 "wikilink")
+[Category:2014年動畫電影](https://zh.wikipedia.org/wiki/Category:2014年動畫電影 "wikilink") [Category:芭蕾舞電影](https://zh.wikipedia.org/wiki/Category:芭蕾舞電影 "wikilink")

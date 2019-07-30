@@ -1,7 +1,4 @@
-《**Making＊Lovers**》是由[SMEE製作於](../Page/HOOKSOFT.md "wikilink")2017年11月24日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2018年發售兩部[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Making＊Lovers
-激イチャアフターストーリー》。2019年7月25日由ENTERGRAM發售[PlayStation
-4版和](../Page/PlayStation_4.md "wikilink")[PlayStation
-Vita版](../Page/PlayStation_Vita.md "wikilink")。
+《**Making＊Lovers**》是由[SMEE製作於](../Page/HOOKSOFT.md "wikilink")2017年11月24日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2018年發售兩部[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Making＊Lovers 激イチャアフターストーリー》。2019年7月25日由ENTERGRAM發售[PlayStation 4版和](../Page/PlayStation_4.md "wikilink")[PlayStation Vita版](../Page/PlayStation_Vita.md "wikilink")。
 
 ## 故事
 
@@ -31,7 +28,7 @@ Vita版](../Page/PlayStation_Vita.md "wikilink")。
 
 ## 評價
 
-《Making＊Lovers》在2017年度[萌系遊戲大賞中獲得準大獎](../Page/萌系遊戲大賞.md "wikilink")\[5\]並且在年度排行榜獲得第五名\[6\]，另外在Getchu.com舉辦的美少女遊戲大賞2017中獲得綜合部門第3名、系統部門第8名、音樂部門第5名、影片部門第8名、角色部門北大路可憐第2名。\[7\]
+《Making＊Lovers》在2017年度[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")中獲得準大獎\[5\]並且在年度排行榜獲得第五名\[6\]，另外在Getchu.com舉辦的美少女遊戲大賞2017中獲得綜合部門第3名、系統部門第8名、音樂部門第5名、影片部門第8名、角色部門北大路可憐第2名。\[7\]
 
 ## 參考來源
 
@@ -42,12 +39,7 @@ Vita版](../Page/PlayStation_Vita.md "wikilink")。
   - [PS4/PSV官方網站](http://www.entergram.co.jp/makinglovers/)ENTERGRAM
   - [Fandisc官方網站](http://www.hook-net.jp/smee/makinglovers/fd/index.html)SMEE
 
-[Category:2017年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2017年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
+[Category:2017年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2017年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
 
 1.
 2.

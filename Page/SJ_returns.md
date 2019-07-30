@@ -1,7 +1,4 @@
-《**SJ
-Returns**》（，）為[韓國綜藝節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[1\]，由[Super
-Junior](../Page/Super_Junior.md "wikilink")\[2\]出演，節目以Super
-Junior八輯《[PLAY](../Page/Play_\(Super_Junior專輯\).md "wikilink")》從回歸前120天開始進行的錄音花絮、練習室以及MV拍攝等為主軸\[3\]\[4\]。
+《**SJ Returns**》（，）為[韓國綜藝節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[1\]，由[Super Junior](../Page/Super_Junior.md "wikilink")\[2\]出演，節目以Super Junior八輯《[PLAY](../Page/Play_\(Super_Junior專輯\).md "wikilink")》從回歸前120天開始進行的錄音花絮、練習室以及MV拍攝等為主軸\[3\]\[4\]。
 2018年11月5日播出[第二季](https://zh.wikipedia.org/wiki/SJ_Returns_\(第二季\) "wikilink")\[5\]。
 
 ## 各集內容
@@ -151,12 +148,7 @@ Junior八輯《[PLAY](../Page/Play_\(Super_Junior專輯\).md "wikilink")》從�
   - [Official VLIVE](http://channels.vlive.tv/D744FD/)
   - [SJ Returns](https://tv.naver.com/sjreturns/)NAVER TV
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Naver](https://zh.wikipedia.org/wiki/Category:Naver "wikilink")
-[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
-[Category:JTBC2](https://zh.wikipedia.org/wiki/Category:JTBC2 "wikilink")
-[Category:V_LIVE](https://zh.wikipedia.org/wiki/Category:V_LIVE "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Naver](https://zh.wikipedia.org/wiki/Category:Naver "wikilink") [Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink") [Category:JTBC2](https://zh.wikipedia.org/wiki/Category:JTBC2 "wikilink") [Category:V_LIVE](https://zh.wikipedia.org/wiki/Category:V_LIVE "wikilink")
 
 1.
 2.

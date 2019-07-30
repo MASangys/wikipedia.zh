@@ -16,15 +16,11 @@
 
 ## 外部連結
 
-  - [TVBS精采台 -
-    MOD311頻道](http://vip.tvbs.com.tw/project/tvbse/activity/event/index.html)
+  - [TVBS精采台 - MOD311頻道](http://vip.tvbs.com.tw/project/tvbse/activity/event/index.html)
   - [TVBS精采台- 中華電信MOD](http://mod.cht.com.tw/tv/channel.php?id=311)
-  - [TVBS精采台-
-    中華電信MOD](http://mod.cht.com.tw/channelrw/epginfob.php?id=311)
+  - [TVBS精采台- 中華電信MOD](http://mod.cht.com.tw/channelrw/epginfob.php?id=311)
 
-[Category:聯利媒體電視頻道](https://zh.wikipedia.org/wiki/Category:聯利媒體電視頻道 "wikilink")
-[Category:台灣電視播放頻道](https://zh.wikipedia.org/wiki/Category:台灣電視播放頻道 "wikilink")
-[Category:2017年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2017年成立的電視台或電視頻道 "wikilink")
+[Category:聯利媒體電視頻道](https://zh.wikipedia.org/wiki/Category:聯利媒體電視頻道 "wikilink") [Category:台灣電視播放頻道](https://zh.wikipedia.org/wiki/Category:台灣電視播放頻道 "wikilink") [Category:2017年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2017年成立的電視台或電視頻道 "wikilink")
 
 1.  [TVBS Group Channels-TVBS E\!](http://www.tvbs.com.tw/ours/en/tvbse)
 2.

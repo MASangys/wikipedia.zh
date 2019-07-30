@@ -2149,12 +2149,7 @@ VocaNext</p></td>
   - [ボーカロイ製品一覧](https://net.vocaloid.com/products)
       - [Vocaloid Product List](https://www.vocaloid.com/en/products)
 
-[Category:软件列表](https://zh.wikipedia.org/wiki/Category:软件列表 "wikilink")
-[Category:Vocaloid](https://zh.wikipedia.org/wiki/Category:Vocaloid "wikilink")
-[Category:虛構歌手](https://zh.wikipedia.org/wiki/Category:虛構歌手 "wikilink")
-[Category:富士電視台](https://zh.wikipedia.org/wiki/Category:富士電視台 "wikilink")
-[Category:網易](https://zh.wikipedia.org/wiki/Category:網易 "wikilink")
-[Category:日本索尼音樂娛樂](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂 "wikilink")
+[Category:软件列表](https://zh.wikipedia.org/wiki/Category:软件列表 "wikilink") [Category:Vocaloid](https://zh.wikipedia.org/wiki/Category:Vocaloid "wikilink") [Category:虛構歌手](https://zh.wikipedia.org/wiki/Category:虛構歌手 "wikilink") [Category:富士電視台](https://zh.wikipedia.org/wiki/Category:富士電視台 "wikilink") [Category:網易](https://zh.wikipedia.org/wiki/Category:網易 "wikilink") [Category:日本索尼音樂娛樂](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂 "wikilink")
 
 1.
 

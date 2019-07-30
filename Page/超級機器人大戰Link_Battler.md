@@ -1,5 +1,4 @@
-是[萬普公司在](../Page/萬普.md "wikilink")1999年10月1日發售的[Game Boy
-Color平台](../Page/Game_Boy_Color.md "wikilink")[戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")。\[1\]\[2\]
+是[萬普](../Page/萬普.md "wikilink")公司在1999年10月1日發售的[Game Boy Color平台](../Page/Game_Boy_Color.md "wikilink")[戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")。\[1\]\[2\]
 
 ## 系統
 
@@ -11,8 +10,7 @@ Color平台](../Page/Game_Boy_Color.md "wikilink")[戰略角色扮演遊戲](htt
 
   - [機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")（）
   - ★[機動戰士GUNDAM 第08MS小隊](../Page/機動戰士GUNDAM第08MS小隊.md "wikilink")（）
-  - [機動戰士GUNDAM 0083 STARDUST
-    MEMORY](../Page/機動戰士GUNDAM_0083：Stardust_Memory.md "wikilink")（）
+  - [機動戰士GUNDAM 0083 STARDUST MEMORY](../Page/機動戰士GUNDAM_0083：Stardust_Memory.md "wikilink")（）
   - [機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")（）
   - [機動戰士GUNDAM ZZ](../Page/機動戰士GUNDAM_ZZ.md "wikilink")（）
   - [機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")（）
@@ -31,9 +29,8 @@ Color平台](../Page/Game_Boy_Color.md "wikilink")[戰略角色扮演遊戲](htt
   - ★[機械巨神 地球靜止之日](../Page/機械巨神_地球靜止之日.md "wikilink")（）
   - [無敵鋼人泰坦3](https://zh.wikipedia.org/wiki/無敵鋼人泰坦3 "wikilink")（）
   - ☆[無敵超人桑波特3](https://zh.wikipedia.org/wiki/無敵超人桑波特3 "wikilink")（）
-  - ☆[超電磁機器人
-    孔巴德拉V](https://zh.wikipedia.org/wiki/超電磁機器人_孔巴德拉V "wikilink")（）
-  - [超獸機神斷空我](../Page/超獸機神.md "wikilink")（）
+  - ☆[超電磁機器人 孔巴德拉V](https://zh.wikipedia.org/wiki/超電磁機器人_孔巴德拉V "wikilink")（）
+  - [超獸機神](../Page/超獸機神.md "wikilink")斷空我（）
   - ☆[戰國魔神豪將軍](../Page/戰國魔神豪將軍.md "wikilink")（）
   - 萬普原創（）
 
@@ -88,9 +85,7 @@ Color平台](../Page/Game_Boy_Color.md "wikilink")[戰略角色扮演遊戲](htt
 
 [ja:スーパーロボット大戦64\#スーパーロボット大戦リンクバトラー](https://zh.wikipedia.org/wiki/ja:スーパーロボット大戦64#スーパーロボット大戦リンクバトラー "wikilink")
 
-[Category:1999年電子遊戲](https://zh.wikipedia.org/wiki/Category:1999年電子遊戲 "wikilink")
-[Category:Game_Boy_Color遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy_Color遊戲 "wikilink")
-[Category:超級機器人大戰系列](https://zh.wikipedia.org/wiki/Category:超級機器人大戰系列 "wikilink")
+[Category:1999年電子遊戲](https://zh.wikipedia.org/wiki/Category:1999年電子遊戲 "wikilink") [Category:Game_Boy_Color遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy_Color遊戲 "wikilink") [Category:超級機器人大戰系列](https://zh.wikipedia.org/wiki/Category:超級機器人大戰系列 "wikilink")
 
 1.
 2.

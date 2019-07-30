@@ -1,5 +1,4 @@
-《**排名秀1，2，3**》（韓語：랭킹쇼 1,2,3，英語：**Ranking Show
-1,2,3**）是韓國[MBC電視台的綜藝節目](../Page/文化廣播公司.md "wikilink")，由[金成柱主持](https://zh.wikipedia.org/wiki/金成柱_\(主持人\) "wikilink")，是一檔由藝人推理團根據以共同主題相聚的5位挑戰者，推理他們的順序與排名的新概念綜藝節目。\[1\]節目於2017年5月3日試播，並於2017年8月4日成為正規節目，逢星期五晚上8時55分至9時50分（[韓國時間](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")）播出。
+《**排名秀1，2，3**》（韓語：랭킹쇼 1,2,3，英語：**Ranking Show 1,2,3**）是韓國[MBC電視台的綜藝節目](../Page/文化廣播公司.md "wikilink")，由[金成柱主持](https://zh.wikipedia.org/wiki/金成柱_\(主持人\) "wikilink")，是一檔由藝人推理團根據以共同主題相聚的5位挑戰者，推理他們的順序與排名的新概念綜藝節目。\[1\]節目於2017年5月3日試播，並於2017年8月4日成為正規節目，逢星期五晚上8時55分至9時50分（[韓國時間](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")）播出。
 
 ## 節目形式
 
@@ -110,7 +109,7 @@
 <td><p>9</p></td>
 <td><p>9月29日</p></td>
 <td><p>以專輯多的歌手順序來排名吧</p></td>
-<td><p><strong>朴美善</strong>、申奉仙、洪榛浩、、FeelDog（<a href="../Page/BIGSTAR.md" title="wikilink">BIGSTAR</a>）、<a href="../Page/金孝珍_(歌手).md" title="wikilink">JeA</a>、</p></td>
+<td><p><strong>朴美善</strong>、申奉仙、洪榛浩、、FeelDog（<a href="../Page/BIGSTAR.md" title="wikilink">BIGSTAR</a>）、<a href="../Page/金孝珍_(歌手).md" title="wikilink">JeA</a>、<a href="../Page/DinDin.md" title="wikilink">DinDin</a></p></td>
 <td><p>推理成功</p></td>
 <td></td>
 </tr>
@@ -166,7 +165,7 @@
 <td><p>14</p></td>
 <td><p>11月17日</p></td>
 <td><p>外國人，按照年齡順序排名吧</p></td>
-<td><p><strong>申奉仙</strong>、洪榛浩、小百合、<a href="../Page/MIGHTY_MOUTH.md" title="wikilink">Shorry J</a>、<a href="../Page/許齡智.md" title="wikilink">許齡智</a>、<a href="../Page/森姆·汗明頓.md" title="wikilink">Sam Hammington</a>、</p></td>
+<td><p><strong>申奉仙</strong>、洪榛浩、小百合、<a href="../Page/MIGHTY_MOUTH.md" title="wikilink">Shorry J</a>、<a href="../Page/許齡智.md" title="wikilink">許齡智</a>、<a href="../Page/森姆·汗明頓.md" title="wikilink">Sam Hammington</a>、<a href="https://zh.wikipedia.org/wiki/Sam_Okyere" title="wikilink">Sam Okyere</a></p></td>
 <td><p>推理成功</p></td>
 <td></td>
 </tr>
@@ -342,7 +341,7 @@
 <tr class="odd">
 <td><p>29</p></td>
 <td><p>3月30日</p></td>
-<td><p>按照<a href="../Page/智商.md" title="wikilink">智商高的順序來排名吧</a></p></td>
+<td><p>按照<a href="../Page/智商.md" title="wikilink">智商</a>高的順序來排名吧</p></td>
 <td><p><strong>朴美善</strong>、申奉仙、洪榛浩、劉在煥、<a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a>、<a href="../Page/崔星俊.md" title="wikilink">崔星俊</a>、<a href="../Page/YooA.md" title="wikilink">YooA</a>（<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>）</p></td>
 <td><p>推理失敗</p></td>
 <td><p>[8]</p></td>
@@ -434,13 +433,9 @@
 
 ## 外部連結
 
-  - [Ranking
-    Show 1,2,3](http://www.imbc.com/broad/tv/ent/ranking/index.html) －
-    官方網站
+  - [Ranking Show 1,2,3](http://www.imbc.com/broad/tv/ent/ranking/index.html) － 官方網站
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink")
 
 1.
 

@@ -100,7 +100,7 @@
 </tbody>
 </table>
 
-### [甜瓜音樂獎（Melon Music Awards）](../Page/甜瓜音樂獎.md "wikilink")
+### [甜瓜音樂獎 Music Awards）](../Page/甜瓜音樂獎.md "wikilink")（Melon
 
 <table>
 <tbody>
@@ -226,7 +226,7 @@
 </tbody>
 </table>
 
-### [Mnet亞洲音樂大獎（Mnet Asian Music Awards）](../Page/Mnet亞洲音樂大獎.md "wikilink")
+### [Mnet亞洲音樂大獎 Asian Music Awards）](../Page/Mnet亞洲音樂大獎.md "wikilink")（Mnet
 
 <table>
 <tbody>
@@ -632,7 +632,7 @@
 </tbody>
 </table>
 
-### [韓國音樂大獎（Korean Music Awards）](../Page/韓國音樂大獎.md "wikilink")
+### [韓國音樂大獎 Music Awards）](../Page/韓國音樂大獎.md "wikilink")（Korean
 
 <table>
 <tbody>
@@ -667,7 +667,7 @@
 </tbody>
 </table>
 
-### [Soribada最佳音樂大獎（Soribada Best K-Music Awards）](../Page/Soribada最佳音樂大獎.md "wikilink")
+### [Soribada最佳音樂大獎 Best K-Music Awards）](../Page/Soribada最佳音樂大獎.md "wikilink")（Soribada
 
 <table>
 <tbody>
@@ -701,6 +701,34 @@
 </tr>
 <tr class="odd">
 <td><p><strong>音源大賞</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第3屆</p></td>
+<td><p>2019年</p></td>
+<td><p>本賞</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>女子人氣賞</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -955,13 +983,34 @@
 <tr class="even">
 <td><p>第1届</p></td>
 <td><p>2019年</p></td>
-<td><p>TWICE</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
 <td><p>最佳女團體</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>The Performing Artist Female</p></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>年度歌手</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>年度最暢銷藝人</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/Summer_Nights.md" title="wikilink">Dance The Night Away</a></p></td>
+<td><p>年度歌曲</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1482,8 +1531,7 @@
 
   - 參考資料
 
-[Category:TWICE](https://zh.wikipedia.org/wiki/Category:TWICE "wikilink")
-[Category:韩语流行音乐家获奖列表](https://zh.wikipedia.org/wiki/Category:韩语流行音乐家获奖列表 "wikilink")
+[Category:TWICE](https://zh.wikipedia.org/wiki/Category:TWICE "wikilink") [Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink")
 
 1.
 
@@ -1512,10 +1560,7 @@
 
 15.
 
-16. {{ Cite web
-    |url=<http://www.epochtimes.com/b5/18/2/27/n10176460.htm>
-    |title=第32屆日本金唱片大獎 完整得獎名單揭曉 |publisher=大紀元 |date=2018-2-27
-    |accessdate=2018-2-27 }}
+16. {{ Cite web |url=<http://www.epochtimes.com/b5/18/2/27/n10176460.htm> |title=第32屆日本金唱片大獎 完整得獎名單揭曉 |publisher=大紀元 |date=2018-2-27 |accessdate=2018-2-27 }}
 
 17.
 

@@ -4,13 +4,7 @@
 
 ## 参考资料
 
-[Category:多环芳香烃](https://zh.wikipedia.org/wiki/Category:多环芳香烃 "wikilink")
-[Category:IARC第2B类致癌物质](https://zh.wikipedia.org/wiki/Category:IARC第2B类致癌物质 "wikilink")
+[Category:多环芳香烃](https://zh.wikipedia.org/wiki/Category:多环芳香烃 "wikilink") [Category:IARC第2B类致癌物质](https://zh.wikipedia.org/wiki/Category:IARC第2B类致癌物质 "wikilink")
 
-1.  M. Levy , Melvin S. Newman , M. Szwarc "Methyl Affinities of
-    Non-planar Aromatic Hydrocarbons" J. Am. Chem. Soc., 1955, 77 (16),
-    pp 4225–4225
-2.  Hirshfeld, F. L.; Sandler, Selina; Schmidt, G. M. J. "The structure
-    of overcrowded aromatic compounds. VI. The crystal structure of
-    benzo\[c\]phenanthrene and of 1,12-dimethylbenzo\[c\]phenanthrene"
-    Journal of the Chemical Society 1963, pp. 2108-25.
+1.  M. Levy , Melvin S. Newman , M. Szwarc "Methyl Affinities of Non-planar Aromatic Hydrocarbons" J. Am. Chem. Soc., 1955, 77 (16), pp 4225–4225
+2.  Hirshfeld, F. L.; Sandler, Selina; Schmidt, G. M. J. "The structure of overcrowded aromatic compounds. VI. The crystal structure of benzo\[c\]phenanthrene and of 1,12-dimethylbenzo\[c\]phenanthrene" Journal of the Chemical Society 1963, pp. 2108-25.

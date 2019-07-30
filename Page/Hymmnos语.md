@@ -1,15 +1,12 @@
-**Hymmnos语**（）又称作**塔语**、**AT语**，因为“hymmnos”词义为“诗歌”，故又称做**诗语**。是在[株式会社万普和](https://zh.wikipedia.org/wiki/株式会社万普 "wikilink")[Gust的原创作品](../Page/Gust.md "wikilink")“[魔塔大陸系列](../Page/魔塔大陸系列.md "wikilink")”（[PS2和](https://zh.wikipedia.org/wiki/PS2 "wikilink")[PS3上的游戏软件](https://zh.wikipedia.org/wiki/PS3 "wikilink")）中以及其衍生作品和关联作品中出现的一种[架空语言](../Page/藝術語言.md "wikilink")。并且，在作品外也单指没有使用Hymmnos文字（而是拉丁字母）写作的Hymmnos歌曲，但其本意和Hymmnos语没有区别（类似于俄语的[西里尔字母写法和](../Page/西里尔字母.md "wikilink")[拉丁字母写法](../Page/拉丁字母.md "wikilink")）。由于该语言存在基本的语法和[词典](http://hymmnoserver.uguu.ca/browse.php)，现实世界也存在少量再利用该语言的人群。但同时，因为词汇量比较少，再加上官方给出的词典并没有涵盖所有的单词。所以基本只能用来写诗或歌曲，而难以用来日常交流。
+**Hymmnos语**（）又称作**塔语**、**AT语**，因为“hymmnos”词义为“诗歌”，故又称做**诗语**。是在[株式会社万普和](https://zh.wikipedia.org/wiki/株式会社万普 "wikilink")[Gust](../Page/Gust.md "wikilink")的原创作品“[魔塔大陸系列](../Page/魔塔大陸系列.md "wikilink")”（[PS2和](https://zh.wikipedia.org/wiki/PS2 "wikilink")[PS3上的游戏软件](https://zh.wikipedia.org/wiki/PS3 "wikilink")）中以及其衍生作品和关联作品中出现的一种[架空语言](../Page/藝術語言.md "wikilink")。并且，在作品外也单指没有使用Hymmnos文字（而是拉丁字母）写作的Hymmnos歌曲，但其本意和Hymmnos语没有区别（类似于俄语的[西里尔字母](../Page/西里尔字母.md "wikilink")写法和[拉丁字母](../Page/拉丁字母.md "wikilink")写法）。由于该语言存在基本的语法和[词典](http://hymmnoserver.uguu.ca/browse.php)，现实世界也存在少量再利用该语言的人群。但同时，因为词汇量比较少，再加上官方给出的词典并没有涵盖所有的单词。所以基本只能用来写诗或歌曲，而难以用来日常交流。
 
 ## 概要
 
-“魔塔大陆（Ar
-Tonelico）系列”是以来自过去的人们的灾害而使得文明的一部分被毁坏、残存下来的科技的一部分被以“魔法”所描述的世界为舞台的[SF](https://zh.wikipedia.org/wiki/科学幻想 "wikilink")[奇幻作品](../Page/奇幻作品.md "wikilink")（详情参照[魔塔大陆系列](https://zh.wikipedia.org/wiki/魔塔大陆系列 "wikilink")）。Hymmnos语不但作为魔法咏唱的语言，还在游戏全系列包括剧中歌、背景图像等位置大量出现。作为一门游戏内原创的[人工语言](https://zh.wikipedia.org/wiki/人工语言 "wikilink")，单词的含义和语法都是有详实的意义的。游戏内并没有包含Hymmnos语的大多数解释，也没有解析其中的含义，不过来自官方的公式网站\[1\]为许多场合提供了便利，比如希望翻译它们的媒体或想要了解剧中歌的秘密与登场人物的心情和文字后面隐藏的含义的玩家。\[2\]。
+“魔塔大陆（Ar Tonelico）系列”是以来自过去的人们的灾害而使得文明的一部分被毁坏、残存下来的科技的一部分被以“魔法”所描述的世界为舞台的[SF](https://zh.wikipedia.org/wiki/科学幻想 "wikilink")[奇幻作品](../Page/奇幻作品.md "wikilink")（详情参照[魔塔大陆系列](https://zh.wikipedia.org/wiki/魔塔大陆系列 "wikilink")）。Hymmnos语不但作为魔法咏唱的语言，还在游戏全系列包括剧中歌、背景图像等位置大量出现。作为一门游戏内原创的[人工语言](https://zh.wikipedia.org/wiki/人工语言 "wikilink")，单词的含义和语法都是有详实的意义的。游戏内并没有包含Hymmnos语的大多数解释，也没有解析其中的含义，不过来自官方的公式网站\[1\]为许多场合提供了便利，比如希望翻译它们的媒体或想要了解剧中歌的秘密与登场人物的心情和文字后面隐藏的含义的玩家。\[2\]。
 
-游戏中该语言常被称作**想音语言**或**感情语言**，不过一般还是叫做「」（Hymmnos）。不过，在Ar
-Tonelico系列中，Hymmnos同时具备着“诗”的含义，两者的含义不能混用。游戏中的日常生活使用的是叫做Shell的其他语言，Hymmnos对一般人来说则是古代语，也很少被诗魔法少女（）以外的人使用，例如咒文、隔壁操作、塔的管理等。
+游戏中该语言常被称作**想音语言**或**感情语言**，不过一般还是叫做「」（Hymmnos）。不过，在Ar Tonelico系列中，Hymmnos同时具备着“诗”的含义，两者的含义不能混用。游戏中的日常生活使用的是叫做Shell的其他语言，Hymmnos对一般人来说则是古代语，也很少被诗魔法少女（）以外的人使用，例如咒文、隔壁操作、塔的管理等。
 
-下面的文字会包含游戏世界的理论、物理法则、历史等内容。另外也会包含第一塔、第二塔、第三塔的信息，当然也会包括它们所在的地域Sol
-Ciel（）、Metafalss（）、Sol Cluster（）和整个世界Ar Ciel（）的记述。
+下面的文字会包含游戏世界的理论、物理法则、历史等内容。另外也会包含第一塔、第二塔、第三塔的信息，当然也会包括它们所在的地域Sol Ciel（）、Metafalss（）、Sol Cluster（）和整个世界Ar Ciel（）的记述。
 
 ## 历史
 
@@ -20,8 +17,7 @@ Ciel（）、Metafalss（）、Sol Cluster（）和整个世界Ar Ciel（）的�
   - A.D.纪元前: 人们发现使用某些特定的话语，会产生特定的奇异效果。　
     A.D.0091年: 在与其他地域隔绝的梅塔‧法尔斯（メタファルス/Metafalss）文明圈，言语的力量操作的「讴掌术」诞生。
     A.D.0348年: 目前已知最古老的Hymmnos语单字 "chs（～成为）"诞生。
-    A.D.0421年: 目前被确认已知最古老的Hymmnos语文章"Was yea ra chs hymmnos
-    mea.（我非常高兴能成为诗歌。）"存在的年代。
+    A.D.0421年: 目前被确认已知最古老的Hymmnos语文章"Was yea ra chs hymmnos mea.（我非常高兴能成为诗歌。）"存在的年代。
     A.D.0440年: 出现了关于月奏最古老的记载。
     A.D.0768年: El Elemia（エル・エレミア）地区的ヴァルナ王国开始使用奇妙的魔法。
     A.D.0770年: El Elemia地区的剩余二国ブラスト和シルヴァ也传入了被称作「祈祷诗」的魔法。
@@ -30,16 +26,14 @@ Ciel（）、Metafalss（）、Sol Cluster（）和整个世界Ar Ciel（）的�
     A.D.1919年: 宗主國梅塔‧法爾斯集合全世界的月奏，將音之力納入國家的力量，古Metafalss律的原型誕生。
     A.D.1998年: 用月奏所演奏的詩被尊稱為"Hymmnos（ヒュムノス）"。
     A.D.2022年: 來自Sol Cluster（ソル・クラスタ）的使節來訪El Elemia。
-    A.D.2050年: 由于价值观的差异，Sol Cluster和Elemia诸国之间爆发「El
-    Elemia（エル・エレミア）千年战争」。
+    A.D.2050年: 由于价值观的差异，Sol Cluster和Elemia诸国之间爆发「El Elemia（エル・エレミア）千年战争」。
     A.D.2665年: 国土荒廢的Elemia三國攜手合作，建立統一國家「El Elemia（エル・エレミア）」。
     A.D.2912年: 一切開始的一年。之後被稱為「音科学之父」的一位月奏，發現了唄石的力量。
     A.D.2934年: 月奏衰退硕果仅存的家系静静的延续着。\[3\]
     A.D.2940年: 開始進行「詩魔法少女（レーヴァテイル）計劃」。
     A.D.2973年: 唄石之力與Hymmnos受到注目，並開始進行全面的研究。
     A.D.3016年: 梅塔‧法爾斯與El Elemia邂逅，並且開始進行技術交流。
-    A.D.3040年: 發生“大惨剧（グラスノインフェリア）”。失去了大地的人們，只能在三座塔周邊生活。在此之後的Ar
-    Ciel稱為第二紀。
+    A.D.3040年: 發生“大惨剧（グラスノインフェリア）”。失去了大地的人們，只能在三座塔周邊生活。在此之後的Ar Ciel稱為第二紀。
 
 ### Sol Ciel地区
 
@@ -49,8 +43,7 @@ Ciel（）、Metafalss（）、Sol Cluster（）和整个世界Ar Ciel（）的�
     A.D.3013年: 塔Ar Tonelico完成。
     A.D.3018年: El Elemia的塔管理局訂立了中央正純律與Hymmnos的文字規格。
     A.D.3031年: 最初的源血種詩魔法少女、Eolia（Shurelia）誕生。
-    A.D.3420年: Mule发动叛乱、Horus的右翼崩落。Sol Ciel失去了高度的文明。Sol
-    Ciel此后的年代称作第三纪。
+    A.D.3420年: Mule发动叛乱、Horus的右翼崩落。Sol Ciel失去了高度的文明。Sol Ciel此后的年代称作第三纪。
     A.D.3770年: 魔塔大陆第一作的发生时间。Hymmnos已经算是古代语，一般人并不知道塔的存在理由。
 
 ### Metafalss地区
@@ -71,10 +64,7 @@ Ciel（）、Metafalss（）、Sol Cluster（）和整个世界Ar Ciel（）的�
 
 ## 文字
 
-[Hymmnos_Glyph_Alphabet.png](https://zh.wikipedia.org/wiki/File:Hymmnos_Glyph_Alphabet.png "fig:Hymmnos_Glyph_Alphabet.png")
-本语言使用的文字叫做Hymmnos文字（ヒュムノス文字）\[4\]，对应着拉丁字母表的a-z、A-Z、数字0-9，另外还有 - . , : /
-\> \< = \#
-等。把它想象成一种单表置换密码或许会更容易理解。不过，即便已经拥有各种各样语言的发音作为基础，根据字母表替换后的含义解读仍然是必须的，因为他们替换后的含义并不是英文或者拉丁文或者任何其他语言的含义。
+[Hymmnos_Glyph_Alphabet.png](https://zh.wikipedia.org/wiki/File:Hymmnos_Glyph_Alphabet.png "fig:Hymmnos_Glyph_Alphabet.png") 本语言使用的文字叫做Hymmnos文字（ヒュムノス文字）\[4\]，对应着拉丁字母表的a-z、A-Z、数字0-9，另外还有 - . , : / \> \< = \# 等。把它想象成一种单表置换密码或许会更容易理解。不过，即便已经拥有各种各样语言的发音作为基础，根据字母表替换后的含义解读仍然是必须的，因为他们替换后的含义并不是英文或者拉丁文或者任何其他语言的含义。
 
 ### Hymmnos文字字形
 
@@ -119,8 +109,7 @@ Hymmnos语在各种各样的场景和故事中以各种各样的派生形态存�
 
 #### 星语（Ar Ciela）
 
-Ar Ciela是由整个游戏系列的主舞台——星球（Ar
-Ciel）纺织的语言，并不是为了让人类使用而创造的语言。律史前月读的原型就是星语，星语也和Hymmnos语不同，并不是使用Hymmnos文字而是使用别的文字来记录。星语的频率远超人类的可听区域，要准确把握每个音的含义并汲取出来是不可能的。在游戏的世界观设定中，Arkia研究所（アルキア研究所）经过研究后总算把握住了其中一部分音表面上的含义。
+Ar Ciela是由整个游戏系列的主舞台——星球（Ar Ciel）纺织的语言，并不是为了让人类使用而创造的语言。律史前月读的原型就是星语，星语也和Hymmnos语不同，并不是使用Hymmnos文字而是使用别的文字来记录。星语的频率远超人类的可听区域，要准确把握每个音的含义并汲取出来是不可能的。在游戏的世界观设定中，Arkia研究所（アルキア研究所）经过研究后总算把握住了其中一部分音表面上的含义。
 
 有关星语的其他信息请参照词条[Ar Ciela](../Page/Ar_Ciela.md "wikilink")。
 
@@ -128,8 +117,7 @@ Ciel）纺织的语言，并不是为了让人类使用而创造的语言。律�
 
 已知最古老的Hymmnos语，准确来说比起Hymmnos称作咒语更加合适。
 
-之前已经得知，一些简略的语句是拥有力量的，人们虽不得其样，但也清楚的认识到了这一点。之后，熟知各种拥有不同力量的语句的人们——月奏，出现了。然后，人们得知了将文字分解后每个字母都包含有力量的这一原理。换句话说，Hymmnos的原点就是各个文字。将这一概念继续发展为单一词语体系化的就是Cult
-Ciel律（クルトシエール律）。至于律史前月读，据说它就是Hymmnos动词的语源。
+之前已经得知，一些简略的语句是拥有力量的，人们虽不得其样，但也清楚的认识到了这一点。之后，熟知各种拥有不同力量的语句的人们——月奏，出现了。然后，人们得知了将文字分解后每个字母都包含有力量的这一原理。换句话说，Hymmnos的原点就是各个文字。将这一概念继续发展为单一词语体系化的就是Cult Ciel律（クルトシエール律）。至于律史前月读，据说它就是Hymmnos动词的语源。
 
 律史前月读的例子可以参考ヒュムノスミュージカル音乐集的スピカ篇的"Xa Ziqt wac s"。
 
@@ -137,8 +125,7 @@ Ciel律（クルトシエール律）。至于律史前月读，据说它就是H
 
 ### Hymmnos语建立之后
 
-上面的两种“律”严格来说不仅不算律，连Hymmnos语都不是。真正的Hymmnos语指的是Cult
-Ciel律及其后的律，截止到A.D.3370年主要有6种。
+上面的两种“律”严格来说不仅不算律，连Hymmnos语都不是。真正的Hymmnos语指的是Cult Ciel律及其后的律，截止到A.D.3370年主要有6种。
 
 #### Cult Ciel律（Cult Ciel Note）
 
@@ -152,8 +139,7 @@ Cult Ciel律拥有数量极为庞大的单词，其中的大部分都被登录�
 
 中央正纯律是为了管理塔而开发的Hymmnos。
 
-Ar Tonelico最开始登录了古今东西各种各样的数量庞大的Hymmnos，这是有必要进行梳理的。El
-Elemia为了对塔进行更好的运营，将到那时为止所有的Hymmnos进行统一化，得到的就是中央正纯律。
+Ar Tonelico最开始登录了古今东西各种各样的数量庞大的Hymmnos，这是有必要进行梳理的。El Elemia为了对塔进行更好的运营，将到那时为止所有的Hymmnos进行统一化，得到的就是中央正纯律。
 
 现在登录在Ar Tonelico内的Hymmnos几乎全都是中央正纯律，其他的律也统统标准化当成中央正纯律对待。
 
@@ -165,33 +151,25 @@ Elemia为了对塔进行更好的运营，将到那时为止所有的Hymmnos进�
 
 #### 古Metafalss律（Ancient Metafalss Note）
 
-Sol
-Ciel的远方，宗主国Metafalss传承的产生了奇特变化的律。这其中的详细故事至今不明，但该律有着非常晦涩复杂的语法，作为交换效果也非常强力。该律在Sol
-Ciel的Ar
-Tonelico也有登录一部分，因此诗魔法少女一定程度上也能使用，不过效果很难说能不能到原来的程度。另外，ミュール咏唱的诗因为她对Metafalss的传承抱有憧憬，才会使用古Metafalss律。
+Sol Ciel的远方，宗主国Metafalss传承的产生了奇特变化的律。这其中的详细故事至今不明，但该律有着非常晦涩复杂的语法，作为交换效果也非常强力。该律在Sol Ciel的Ar Tonelico也有登录一部分，因此诗魔法少女一定程度上也能使用，不过效果很难说能不能到原来的程度。另外，ミュール咏唱的诗因为她对Metafalss的传承抱有憧憬，才会使用古Metafalss律。
 
 #### 新约Pastalie（New Testament of Pastalie）
 
 Infel在Metafalss创造的以最大程度发挥Hymmnos的效果为目标的语言。可以被用作被称作I.P.D.诗魔法少女的Infel.Phira和诗魔法服务器上。在国内提及时，亦可简称为“新约律”。
 
-因为Ar
-Tonelico并没有登录该律，因此该律无法被I.P.D.诗魔法少女以外的诗魔法少女理解；相反，Infel.Phira的服务器本质上是在模拟Ar
-Tonelico的服务器，I.P.D.诗魔法少女可以理解并使用Ar Tonelico处的语法。
+因为Ar Tonelico并没有登录该律，因此该律无法被I.P.D.诗魔法少女以外的诗魔法少女理解；相反，Infel.Phira的服务器本质上是在模拟Ar Tonelico的服务器，I.P.D.诗魔法少女可以理解并使用Ar Tonelico处的语法。
 
 因为一开始假设的前提是使用电子系统来构筑语法，所以语法体系非常复杂。例如特征之一，中央正纯律中“想音+(S)+V”这一结构在此律中可以直接用“想音動詞”这一个要素表示。
 
 使用新约Pastalie创作的Hymmnos往往以“METHOD_”开头。
 
-另外，因为早期的教程资料都是根据英文版翻译来的，所以会把“新约律”误译为“感音句”。但是，根据日文原版的设定集，“新约律”所特有的词的标准叫法应为“想音动词
-”。故，翻译为“感音句”不准确。\[6\]
+另外，因为早期的教程资料都是根据英文版翻译来的，所以会把“新约律”误译为“感音句”。但是，根据日文原版的设定集，“新约律”所特有的词的标准叫法应为“想音动词 ”。故，翻译为“感音句”不准确。\[6\]
 
 #### Cluster律（Cluster Note）
 
-Sol Ciel的远方，Sol
-Cluster处创作的律，以中央正纯律为中心的话，这个律确实是一种[方言](../Page/方言.md "wikilink")。
+Sol Ciel的远方，Sol Cluster处创作的律，以中央正纯律为中心的话，这个律确实是一种[方言](../Page/方言.md "wikilink")。
 
-第三塔的诗魔法服务器由从Sol Ciel派生出来的Sol Cluster所持有，之后Sol
-Cluster独自开发出了Cluster律并登陆在此。因此，该律在其他塔完全不通用，仅仅第三塔所属的诗魔法少女才能使用。
+第三塔的诗魔法服务器由从Sol Ciel派生出来的Sol Cluster所持有，之后Sol Cluster独自开发出了Cluster律并登陆在此。因此，该律在其他塔完全不通用，仅仅第三塔所属的诗魔法少女才能使用。
 
 ## 语法
 
@@ -264,8 +242,7 @@ Hymmnos语的核心设计目的是为了表达说话者（或歌唱者）的感�
 
 想音表
 
-这句话起始的三个词Was yea
-ra便是“想音”，想音可以被分成三类：按在句子中的出现顺序为“第一想音”“第二想音”“第三想音”。was是第一想音，表示感情的强烈程度；yea是第二想音，表示感情的类型；ra是第三想音，表示讲话者希望感情的持续情况，或描述情感上下文。
+这句话起始的三个词Was yea ra便是“想音”，想音可以被分成三类：按在句子中的出现顺序为“第一想音”“第二想音”“第三想音”。was是第一想音，表示感情的强烈程度；yea是第二想音，表示感情的类型；ra是第三想音，表示讲话者希望感情的持续情况，或描述情感上下文。
 
 句法的其他部分很简单，基本上遵循这样的结构：
 
@@ -311,15 +288,13 @@ ra便是“想音”，想音可以被分成三类：按在句子中的出现顺
 
 或者VSO结构，出自EXEC_HIBERNATION/.：
 
-'' Was yea ra vit(看) bautifal(美丽) faura anw dornpica(种子) en(和) 1 dyyal
-nuih(三个词：第一晚) bexm(到来). ''
+'' Was yea ra vit(看) bautifal(美丽) faura anw dornpica(种子) en(和) 1 dyyal nuih(三个词：第一晚) bexm(到来). ''
 
 '' (美丽的小鸟看到了种子，以及第一晚的到来。) ''
 
 以及VOS结构，同样来自EXEC_HIBERNATION/.：
 
-'' Rrha cyuie gaya na(不) ieeya(希望) crushue(纺织) anw dornpica,
-Rhaplanca（拉普兰卡，人名）. ''
+'' Rrha cyuie gaya na(不) ieeya(希望) crushue(纺织) anw dornpica, Rhaplanca（拉普兰卡，人名）. ''
 
 '' (拉普兰卡再也不想为种子而努力。) ''
 
@@ -406,8 +381,7 @@ Rhaplanca（拉普兰卡，人名）. ''
 
 特殊字符多用在二进制Hymmnos和一些特殊语法中。需要注意的是，这里的0和1与标准数字不同，是二进制数字，用法类似这样：0x010001110。
 
-在标准数字中表示多位数字时，可使用一种接近日语的用法，即0可以省略不写；以及最高位为1时可用最高位的单位代替。例如"zide"表示20，"kik
-octohe ixade octo"表示1868.
+在标准数字中表示多位数字时，可使用一种接近日语的用法，即0可以省略不写；以及最高位为1时可用最高位的单位代替。例如"zide"表示20，"kik octohe ixade octo"表示1868.
 
 #### 想音保持句法
 
@@ -419,8 +393,7 @@ octohe ixade octo"表示1868.
 
 '' 1x AAs ixi. ''
 
-中间的...便是会被自动添加想音的句子。另外，0x vvi的读法为“ogu vivi”，1x AAs ixi读法为“igu aas
-ixi”。来看一个例子：
+中间的...便是会被自动添加想音的句子。另外，0x vvi的读法为“ogu vivi”，1x AAs ixi读法为“igu aas ixi”。来看一个例子：
 
 '' Was yea erra 0x vvi. ''
 
@@ -436,10 +409,7 @@ ixi”。来看一个例子：
 
 '' Wee apea ra rre yor melenas. ''
 
-在这个例子中，第2\~5句前会被默认加上Was rea erra，例如第二句等价于“Was yea erra chs hymmnos
-mea”。需要注意的是第4句，这一句本身包含了想音，但因为想音保持句法的关系它应该被加上想音Was yea
-erra，这不符合中央正纯律的基本句法。为了解决这个问题，我们规定这一句的想音由它自己定义而不从想音保持句法继承，即在整个想音保持句法影响的结构里，除它之外的句子的想音都是Was
-yea erra，只有它是Was yea ra。
+在这个例子中，第2\~5句前会被默认加上Was rea erra，例如第二句等价于“Was yea erra chs hymmnos mea”。需要注意的是第4句，这一句本身包含了想音，但因为想音保持句法的关系它应该被加上想音Was yea erra，这不符合中央正纯律的基本句法。为了解决这个问题，我们规定这一句的想音由它自己定义而不从想音保持句法继承，即在整个想音保持句法影响的结构里，除它之外的句子的想音都是Was yea erra，只有它是Was yea ra。
 
 #### 班氏吟唱句（Binasphere Chorus）
 
@@ -466,8 +436,7 @@ yea erra，只有它是Was yea ra。
 
 一般来说，这个公式会被写在诗的最后，此外一首诗最多只能有一个班氏吟唱公式。如果诗中存在多个班氏吟唱句，他们就必须全部遵循这个公式（即第一句和第二句的各部分拆分的排列方式必须一致）。另外，班氏吟唱句的句首会有符号=\>，标志着这是一个班氏吟唱句，本文为了让格式更清晰则没有写出。
 
-如果按照班氏吟唱公式拆分句子时出现了吟唱公式长度不够的问题，则可以把公式循环使用，例如EXEC_NULLASCENSION/.中存在班氏吟唱公式*EXEC
-hymme 2x1/0\>\>01101010*，其中有一部分是这么写的：
+如果按照班氏吟唱公式拆分句子时出现了吟唱公式长度不够的问题，则可以把公式循环使用，例如EXEC_NULLASCENSION/.中存在班氏吟唱公式*EXEC hymme 2x1/0\>\>01101010*，其中有一部分是这么写的：
 
     RRHA RRHA GUWO Ax GAx PEx GIS A  GAx TIE INNx
      0    1    1   0   1   0   1  0 / 0   1   1
@@ -484,17 +453,13 @@ hymme 2x1/0\>\>01101010*，其中有一部分是这么写的：
 
 斜线处便是公式循环的地方。由此，根据上文和班氏吟唱公式即可还原出原来的句子：
 
-第一行 '' Rrha apea gagis gran paul nosaash yanje en ini ar ciel. Rrha apea
-ra hartes yora chyet walasye forgandal wassa ciel. ''
+第一行 '' Rrha apea gagis gran paul nosaash yanje en ini ar ciel. Rrha apea ra hartes yora chyet walasye forgandal wassa ciel. ''
 
-第二行 '' Rrha guwo gagis tie innna gatyuny ini ar ciel la zahha. Rrha guwo
-ga gatyuny ar ciel en ini sor gatyunla art sa fayra. ''
+第二行 '' Rrha guwo gagis tie innna gatyuny ini ar ciel la zahha. Rrha guwo ga gatyuny ar ciel en ini sor gatyunla art sa fayra. ''
 
 ### 新约Pastalie
 
-在游戏中，由于Infel
-Phira的模拟工序，新约Pastalie可以使用中央正纯律的词，不过当Pastalie本身具备某含义的词时，优先推荐使用这个词而不是其他律的词，这能让诗工作起来更有效率，发挥出更强大的力量。例如“花”在中央正纯律里是frawr，不过Pastalie也存在含义为“花”的词是rawah，因此使用后者会更好。需要注意的是，除了EXEC_over.METHOD或EXEC_with.METHOD开头的这种双服务器诗外，Pastalie的词是不能在中央正纯律里使用的，因为不管是Ar
-Tonelico还是Harvestasha都没有登录Pastalie的词。
+在游戏中，由于Infel Phira的模拟工序，新约Pastalie可以使用中央正纯律的词，不过当Pastalie本身具备某含义的词时，优先推荐使用这个词而不是其他律的词，这能让诗工作起来更有效率，发挥出更强大的力量。例如“花”在中央正纯律里是frawr，不过Pastalie也存在含义为“花”的词是rawah，因此使用后者会更好。需要注意的是，除了EXEC_over.METHOD或EXEC_with.METHOD开头的这种双服务器诗外，Pastalie的词是不能在中央正纯律里使用的，因为不管是Ar Tonelico还是Harvestasha都没有登录Pastalie的词。
 
 #### 基本结构
 
@@ -518,8 +483,7 @@ Pastalie的设计目的是用少量的几个词表达复杂的含义和感情，
 
 上面那些hEmmErYE、hEmEmLYEr，以及fOwOrYUn之类的**区分大小写**的词就是想音动词的实际应用。这些词由两部分组成，其中第一部分是“基本动词”，例如h.m.m.r、f.w.r.n.、a.u.k之类的，其中的句点叫做“空白域”，从左到右按照1、2、3……编号。一个基本动词描述了一个动作，但其中并不包含任何感情，可Hymmnos是侧重感情表达的语言，所以这些词还需要另外一个部分来表达感情才能趋于完整，即“感情元音”，也就是词中大写的部分。只要一个基本动词内一个或一个以上的空白域填充有感情元音，它就成为了一个想音动词，填充有感情元音的空白域将不再需要句点来占位（其实不管是否有感情元音填充，句点都可以省略）。另外，感情元音填充到的空白域编号越小，表示这个感情越强烈。例如“hEmmrA”的详细解释是：
 
-*h.m.m.r. (歌唱)* + *E(高兴)* + *A(专心)* = *hEmmrA* :
-我很高兴能够专心歌唱（同时比起专心来我更加高兴）。
+*h.m.m.r. (歌唱)* + *E(高兴)* + *A(专心)* = *hEmmrA* : 我很高兴能够专心歌唱（同时比起专心来我更加高兴）。
 
 同时，在不同空白域重复同一个感情元音可以强化感情，比如"hEmEmrA"就比"hmEmrA"来得更高兴。
 
@@ -588,8 +552,7 @@ Pastalie的设计目的是用少量的几个词表达复杂的含义和感情，
 
 对于第二种，直接罗列两个词即可，先出现的是“拥有者”，后出现的是“被拥有者”。
 
-'' zalez ale (瀑布的声音) '' '' zodal sechel (死亡之都) '' '' vonn papana (黑暗之雨)
-''
+'' zalez ale (瀑布的声音) '' '' zodal sechel (死亡之都) '' '' vonn papana (黑暗之雨) ''
 
 当然，两种是可以混用的，例如：
 
@@ -607,8 +570,7 @@ Pastalie的设计目的是用少量的几个词表达复杂的含义和感情，
 
 被动则是在动词结尾附加（与添加不同，附加是直接连接到词的开头或结尾，而不是作为一个单独的词插入到目标词的前后）eh实现，例如：
 
-'' xU rre A fYUwrUn lyuma/. (A拥抱群星。) 被动-\> xU rre A fYUwrUneh lyuma/.
-(A被群星拥抱) ''
+'' xU rre A fYUwrUn lyuma/. (A拥抱群星。) 被动-\> xU rre A fYUwrUneh lyuma/. (A被群星拥抱) ''
 
 #### 意愿、否定、协同、引用
 
@@ -650,8 +612,7 @@ Pastalie的设计目的是用少量的几个词表达复杂的含义和感情，
 
 再来看另一个例子：
 
-'' xN rre hLYImLYUmOrO a.u.k.(相当于英语的be) zess(像) quesa(雷)/. (她的咏唱犹如雷鸣。)
-''
+'' xN rre hLYImLYUmOrO a.u.k.(相当于英语的be) zess(像) quesa(雷)/. (她的咏唱犹如雷鸣。) ''
 
 这句话强调的是“她的咏唱”而不是“犹如雷鸣”的感情，所以移除了a.u.k.的感情元音。
 
@@ -661,8 +622,7 @@ Pastalie的设计目的是用少量的几个词表达复杂的含义和感情，
 
 '' fEwrEn(拥抱) x. harr h.m.m.r. eje/. ''
 
-"x."后面的部分，即“她发自内心的咏唱”被标志成了宾语。"x."的这一用法仅仅只在这种场合且仅当从句主语不是“我”时才会出现，其他时候不会出现。来看另一个例子：
-Another example:
+"x."后面的部分，即“她发自内心的咏唱”被标志成了宾语。"x."的这一用法仅仅只在这种场合且仅当从句主语不是“我”时才会出现，其他时候不会出现。来看另一个例子： Another example:
 
 '' xA rre A fEwrEn x. harr h.m.m.r. eje/. (A拥抱了她发自内心的咏唱。) ''
 
@@ -680,8 +640,7 @@ Another example:
 
 '' xE harr hLYEmEmErza wEwEjLYEnEcE ut sphaela/. (我很高兴她愉快的歌声回响在世界。) ''
 
-'' wYAfA za rYAfrm 1001 Atitia_qejyu en vYAsk yor/.
-(我期望能给你展现人类的第1001个善心，让你体验到他们。) ''
+'' wYAfA za rYAfrm 1001 Atitia_qejyu en vYAsk yor/. (我期望能给你展现人类的第1001个善心，让你体验到他们。) ''
 
 #### 多动词主语
 
@@ -689,8 +648,7 @@ Another example:
 
 '' xO rre mLYOtOyOyO giz wOsLYI du giz/. (她的咏唱创造了恐怖，将生命给予恐怖。) ''
 
-这并不是一种很常见的用法，因为在这种情况下，我们只能把rre理解为第二个动词的主语标志，即"mLYOtOyOyO
-giz"是主语。在目前已知的Hymmnos句子里，这样的用法很少，仅作了解即可。
+这并不是一种很常见的用法，因为在这种情况下，我们只能把rre理解为第二个动词的主语标志，即"mLYOtOyOyO giz"是主语。在目前已知的Hymmnos句子里，这样的用法很少，仅作了解即可。
 
 #### 条件选择句
 
@@ -708,8 +666,7 @@ giz"是主语。在目前已知的Hymmnos句子里，这样的用法很少，仅
 
 邻近指代符号是"\<-x"，它有两种用法。第一种是当主语是“这个”“这些”时用来标志主语，例如：
 
-'' zz arhou, balduo, ujes, Oqejyu, xA rre \<-x aYAuAkN kajya LYAglansee
-qejyu/. (绝望、黑暗、恶意、憎恶，这对我们的内心也是必要的。)''
+'' zz arhou, balduo, ujes, Oqejyu, xA rre \<-x aYAuAkN kajya LYAglansee qejyu/. (绝望、黑暗、恶意、憎恶，这对我们的内心也是必要的。)''
 
 其中"\<-x"指代了“上文中刚刚描述的事物”，也就是"zz arhou, balduo, ujes, Oqejyu"，在句中意为“这些”。
 
@@ -735,26 +692,19 @@ qejyu/. (绝望、黑暗、恶意、憎恶，这对我们的内心也是必要�
 
 ## 用途
 
-如同前述，Hymmnos的用途主要是構成咒文。使用Hymmnos的咒文大致上分為**执行固定程序(Hymmnos
-Extract)**、**发动诗魔法（Hymmnos Word）**、**控制塔(Hymmnos Spell)**三種形式。
+如同前述，Hymmnos的用途主要是構成咒文。使用Hymmnos的咒文大致上分為**执行固定程序(Hymmnos Extract)**、**发动诗魔法（Hymmnos Word）**、**控制塔(Hymmnos Spell)**三種形式。
 
 ### Hymmnos Extract
 
-这是直接控制塔的一类诗，诗（歌曲）的名字都是\<EXEC_(NAME)/.\>的形式。作品中被叫做Hymmnos的，都是这一类。使用这一类诗所需要的导体H波，根据其流量不同，被分为“原初者专用”和“泛用”两种。虽然使用Hymmnos必须要有Hymmnne
-code，但是，因为Hymmnne
-code只分配给“管理者”和β纯血种，所以人类和第三世代的雷瓦蒂尔无法使用。（能使用Hymmnos的第三世代有特殊理由。）
+这是直接控制塔的一类诗，诗（歌曲）的名字都是\<EXEC_(NAME)/.\>的形式。作品中被叫做Hymmnos的，都是这一类。使用这一类诗所需要的导体H波，根据其流量不同，被分为“原初者专用”和“泛用”两种。虽然使用Hymmnos必须要有Hymmnne code，但是，因为Hymmnne code只分配给“管理者”和β纯血种，所以人类和第三世代的雷瓦蒂尔无法使用。（能使用Hymmnos的第三世代有特殊理由。）
 
 ### Hymmnos Word
 
-在作品中被称作诗魔法的一类。所有的Rewatial都被预装。用以进行“socket·Plugin”（插件）型诗魔法：\<EXEC_HYMME/.\>的发动。与
-Hymmnos
-Extract不同，以自己编织诗魔法为前提，可以在短时间内使用（原文：ダイブなどで短期間に紡ぐことも可能である）。因为Hymmnos
-Word 是像塔内输送信号，在由塔产生力量。所以在塔没有相应机能时无法使用。
+在作品中被称作诗魔法的一类。所有的Rewatial都被预装。用以进行“socket·Plugin”（插件）型诗魔法：\<EXEC_HYMME/.\>的发动。与 Hymmnos Extract不同，以自己编织诗魔法为前提，可以在短时间内使用（原文：ダイブなどで短期間に紡ぐことも可能である）。因为Hymmnos Word 是像塔内输送信号，在由塔产生力量。所以在塔没有相应机能时无法使用。
 
 ### Hymmnos Spell
 
-前两者都是“诗”，而与之其相对的这个只是咒文。咏唱被预先设置在塔里的咒文就能产生效果。虽然咏唱咒文的话任何人都能使用它，但无法创造出新的咒文及效果。用于Hymmnos
-Extract的下载和隔离墙\[7\]认证等处。
+前两者都是“诗”，而与之其相对的这个只是咒文。咏唱被预先设置在塔里的咒文就能产生效果。虽然咏唱咒文的话任何人都能使用它，但无法创造出新的咒文及效果。用于Hymmnos Extract的下载和隔离墙\[7\]认证等处。
 
 ## 使用者
 
@@ -770,39 +720,31 @@ Extract的下载和隔离墙\[7\]认证等处。
   - 『アルトネリコ2　世界に響く少女たちの創造詩　設定資料集』ソフトバンククリエイティブ、2008年
   - 『アルトネリコファンブック　～オフラインでも手元にアルポータル（シャキーン！）～』ソフトバンククリエイティブ、2008年
   - 『アルトネリコIII　世界終焉の引鉄は少女の詩が弾く　OFFICIAL VISUAL BOOK』バンダイナムコゲームス、2010年
-  - [Ar tonelico Hymmno
-    Server](http://game.salburg.com/hymmnoserver/index.php)
+  - [Ar tonelico Hymmno Server](http://game.salburg.com/hymmnoserver/index.php)
   - [アルポータル](https://web.archive.org/web/20070820171226/http://ar-tonelico.jp/)
-  - [Hymmnos
-    dialogues](http://w11.zetaboards.com/Revatail_Hymmne/topic/8910382/1/)
+  - [Hymmnos dialogues](http://w11.zetaboards.com/Revatail_Hymmne/topic/8910382/1/)
   - [Hymn Crystal](http://artonelico.wikia.com/wiki/Hymn_Crystal)
 
 ## 扩展阅读
 
   - [魔塔大陆系列](https://zh.wikipedia.org/wiki/魔塔大陆系列 "wikilink")
-      - [魔塔大陆
-        在世界终结续咏诗篇的少女](https://zh.wikipedia.org/wiki/魔塔大陆_在世界终结续咏诗篇的少女 "wikilink")
-      - [魔塔大陆2
-        少女们于世界中回响的创造诗](https://zh.wikipedia.org/wiki/魔塔大陆2_少女们于世界中回响的创造诗 "wikilink")
+      - [魔塔大陆 在世界终结续咏诗篇的少女](https://zh.wikipedia.org/wiki/魔塔大陆_在世界终结续咏诗篇的少女 "wikilink")
+      - [魔塔大陆2 少女们于世界中回响的创造诗](https://zh.wikipedia.org/wiki/魔塔大陆2_少女们于世界中回响的创造诗 "wikilink")
       - [魔塔大陆3～世界终焉的引线是少女弹奏之诗～](https://zh.wikipedia.org/wiki/魔塔大陆3～世界终焉的引线是少女弹奏之诗～ "wikilink")
   - [人工语言](https://zh.wikipedia.org/wiki/人工语言 "wikilink")
   - [艺术语言](https://zh.wikipedia.org/wiki/艺术语言 "wikilink")
 
 ## 外部链接
 
-  - [Ar tonelico Hymmno
-    Server](http://game.salburg.com/hymmnoserver/index.php)（日语，Hymmnos语和日语之间的翻译器）
-  - [アルポータル](https://web.archive.org/web/20070820171226/http://ar-tonelico.jp/)（《魔塔大陆》官方综合信息Fan
-    Site。含有Hymmnos语的文法解说）
+  - [Ar tonelico Hymmno Server](http://game.salburg.com/hymmnoserver/index.php)（日语，Hymmnos语和日语之间的翻译器）
+  - [アルポータル](https://web.archive.org/web/20070820171226/http://ar-tonelico.jp/)（《魔塔大陆》官方综合信息Fan Site。含有Hymmnos语的文法解说）
 
 [Category:人工语言](https://zh.wikipedia.org/wiki/Category:人工语言 "wikilink")
 
 1.
 2.
 3.  CD『讴う丘～Ar=Ciel Ar=Dor』　初回特典本
-4.  [Hymmnoserver](http://hymmnoserver.uguu.ca/)，Hymmnos官方网站，可以在右侧下载Hymmnos和Ar
-    Ciela的TrueType字体
-5.  「[◇アルシエル・テクニカルデータ編纂室【第１０回】謳う丘CDについて◇](http://www.salburg.com/php/gps_temp/1660.htm#t31)
-    」　アルポータル、2010年9月26日閲覧。
+4.  [Hymmnoserver](http://hymmnoserver.uguu.ca/)，Hymmnos官方网站，可以在右侧下载Hymmnos和Ar Ciela的TrueType字体
+5.  「[◇アルシエル・テクニカルデータ編纂室【第１０回】謳う丘CDについて◇](http://www.salburg.com/php/gps_temp/1660.htm#t31) 」　アルポータル、2010年9月26日閲覧。
 6.  Ar tonerico II 設定資料集
 7.  这里的隔离墙只是游戏内的一种机械装置

@@ -1,16 +1,8 @@
-  - 2018年7月1日:
-    [2018年世界杯第12，13，14，15天：伊朗，尼日利亚，德国，塞内加尔遗憾未能小组赛出线](https://zh.wikipedia.org/wiki/wikinews:en:FIFA_World_Cup_2018_day_12,_13,_14,_15:_Iran,_Nigeria,_Germany,_Senegal_out_of_the_tournament "wikilink")
-  - 2018年6月21日:
-    [2018年世界杯第7天：伊朗对决西班牙队，1-0落败](https://zh.wikipedia.org/wiki/wikinews:en:FIFA_World_Cup_2018_day_seven:_Portugal,_Uruguay,_Spain_win_1-0 "wikilink")
-  - 2018年6月16日:
-    [2018年世界杯第2天，伊朗击败摩洛哥，1-0获胜](https://zh.wikipedia.org/wiki/wikinews:en:FIFA_World_Cup_2018_Day_2:_Uruguay,_Iran_win_three_points_each_with_late_goals;_Portugal-Spain_share_the_spoils "wikilink")
-  - 2018年2月21日:
-    [伊朗阿塞曼航空公司发生坠机事件，无人生还](https://zh.wikipedia.org/wiki/wikinews:en:Iran:_Wreckage_found_of_plane_crashed_in_mountains;_all_believed_dead "wikilink")
-  - 2017年10月21日:
-    [美国法官反对特朗普总统限制来自伊朗等国合法入境者入境的临时禁制令](https://zh.wikipedia.org/wiki/wikinews:en:United_States_judges_block_third_version_of_President_Trump's_travel_ban "wikilink")
-  - 2017年1月9日:
-    [前伊朗总统阿克巴尔·哈什米·拉夫桑贾尼过世，享年82岁](https://zh.wikipedia.org/wiki/wikinews:en:Former_Irani_president_Rafsanjani_dies,_aged_82 "wikilink")
-  - 2016年12月29日:
-    [猎豹濒临灭绝！专家指出：全球范围内仅剩猎豹约7100只](https://zh.wikipedia.org/wiki/wikinews:en:Around_7,100_cheetahs_remain,_say_experts "wikilink")
-  - 2016年10月4日:
-    [阿根廷队赢得了FIFA五人制足球世界杯冠军，伊朗队获季军](https://zh.wikipedia.org/wiki/wikinews:en:Argentina_wins_maiden_FIFA_Futsal_World_Cup "wikilink")
+  - 2018年7月1日: [2018年世界杯第12，13，14，15天：伊朗，尼日利亚，德国，塞内加尔遗憾未能小组赛出线](https://zh.wikipedia.org/wiki/wikinews:en:FIFA_World_Cup_2018_day_12,_13,_14,_15:_Iran,_Nigeria,_Germany,_Senegal_out_of_the_tournament "wikilink")
+  - 2018年6月21日: [2018年世界杯第7天：伊朗对决西班牙队，1-0落败](https://zh.wikipedia.org/wiki/wikinews:en:FIFA_World_Cup_2018_day_seven:_Portugal,_Uruguay,_Spain_win_1-0 "wikilink")
+  - 2018年6月16日: [2018年世界杯第2天，伊朗击败摩洛哥，1-0获胜](https://zh.wikipedia.org/wiki/wikinews:en:FIFA_World_Cup_2018_Day_2:_Uruguay,_Iran_win_three_points_each_with_late_goals;_Portugal-Spain_share_the_spoils "wikilink")
+  - 2018年2月21日: [伊朗阿塞曼航空公司发生坠机事件，无人生还](https://zh.wikipedia.org/wiki/wikinews:en:Iran:_Wreckage_found_of_plane_crashed_in_mountains;_all_believed_dead "wikilink")
+  - 2017年10月21日: [美国法官反对特朗普总统限制来自伊朗等国合法入境者入境的临时禁制令](https://zh.wikipedia.org/wiki/wikinews:en:United_States_judges_block_third_version_of_President_Trump's_travel_ban "wikilink")
+  - 2017年1月9日: [前伊朗总统阿克巴尔·哈什米·拉夫桑贾尼过世，享年82岁](https://zh.wikipedia.org/wiki/wikinews:en:Former_Irani_president_Rafsanjani_dies,_aged_82 "wikilink")
+  - 2016年12月29日: [猎豹濒临灭绝！专家指出：全球范围内仅剩猎豹约7100只](https://zh.wikipedia.org/wiki/wikinews:en:Around_7,100_cheetahs_remain,_say_experts "wikilink")
+  - 2016年10月4日: [阿根廷队赢得了FIFA五人制足球世界杯冠军，伊朗队获季军](https://zh.wikipedia.org/wiki/wikinews:en:Argentina_wins_maiden_FIFA_Futsal_World_Cup "wikilink")

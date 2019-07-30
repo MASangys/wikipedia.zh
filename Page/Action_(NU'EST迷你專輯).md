@@ -1,17 +1,14 @@
-**《Action》**是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NU'EST首張韓語迷你專輯](../Page/NU'EST.md "wikilink")，於2012年7月11日發行，主打歌曲為〈Action〉。
+**《Action》**是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NU'EST](../Page/NU'EST.md "wikilink")首張韓語迷你專輯，於2012年7月11日發行，主打歌曲為〈Action〉。
 
 ## 背景
 
-2012年7月，NU'EST發行首張迷你專輯《Action》回歸樂壇，主打曲為〈Action〉。\[1\]8月，以後續曲〈Not over
-you〉展開宣傳活動。\[2\]
+2012年7月，NU'EST發行首張迷你專輯《Action》回歸樂壇，主打曲為〈Action〉。\[1\]8月，以後續曲〈Not over you〉展開宣傳活動。\[2\]
 
-2017年，JR、白虎、旼泫、Ren參加《[PRODUCE 101
-第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，四人在舞台上出色的表現讓觀眾眼前一亮\[3\]，使NU'EST所有發行過的專輯自五月在韓國HANTEO榜、Aladdin和Yes24等多個銷量排行榜持續逆行\[4\]。
+2017年，JR、白虎、旼泫、Ren參加《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，四人在舞台上出色的表現讓觀眾眼前一亮\[3\]，使NU'EST所有發行過的專輯自五月在韓國HANTEO榜、Aladdin和Yes24等多個銷量排行榜持續逆行\[4\]。
 
 ## 簡介
 
-主打歌〈Action〉描述青少年所感受的壓力，強調表達的自由和追求改變的心情\[5\]。後續曲〈Not over
-you〉節奏輕快，歌詞表現了與分開的戀人再次相遇的那心動的時刻。\[6\]。
+主打歌〈Action〉描述青少年所感受的壓力，強調表達的自由和追求改變的心情\[5\]。後續曲〈Not over you〉節奏輕快，歌詞表現了與分開的戀人再次相遇的那心動的時刻。\[6\]。
 
 ## 曲目
 

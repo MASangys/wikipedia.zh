@@ -1,9 +1,6 @@
-《**Cross**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](../Page/TVN.md "wikilink")2018年1月29日起播出的[月火連續劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink")，由《[隧道](../Page/隧道_\(電視劇\).md "wikilink")》申勇輝導演執導與電影《》、《[噗通噗通我的人生](../Page/噗通噗通我的人生.md "wikilink")》崔民錫作家合作打造。此劇講述的是穿梭在醫院與監獄之間帶有復仇之心的天才醫生-{姜}-仁奎（[高庚杓](../Page/高庚杓.md "wikilink")
-飾），為了向15年前殺了父親的兇手復仇，欲利用救人的醫術作為殺人手段，並申請進入關押殺人犯的監獄醫務室支援後的故事。\[1\]\[2\]\[3\]
+《**Cross**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](../Page/TVN.md "wikilink")2018年1月29日起播出的[月火連續劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink")，由《[隧道](../Page/隧道_\(電視劇\).md "wikilink")》申勇輝導演執導與電影《》、《[噗通噗通我的人生](../Page/噗通噗通我的人生.md "wikilink")》崔民錫作家合作打造。此劇講述的是穿梭在醫院與監獄之間帶有復仇之心的天才醫生-{姜}-仁奎（[高庚杓](../Page/高庚杓.md "wikilink") 飾），為了向15年前殺了父親的兇手復仇，欲利用救人的醫術作為殺人手段，並申請進入關押殺人犯的監獄醫務室支援後的故事。\[1\]\[2\]\[3\]
 
-2018年2月24日，
-[曹在顯由於涉入性騷擾疑雲](../Page/曹在顯.md "wikilink")\[4\]，因而發表道歉聲明並從此劇下車\[5\]，而製作組在28日發表官方聲明，表示編劇已修正劇本，曹在顯所飾演的高正勳會在第12集結束
-\[6\]。
+2018年2月24日， [曹在顯](../Page/曹在顯.md "wikilink")由於涉入性騷擾疑雲\[4\]，因而發表道歉聲明並從此劇下車\[5\]，而製作組在28日發表官方聲明，表示編劇已修正劇本，曹在顯所飾演的高正勳會在第12集結束 \[6\]。
 
 ## 演員陣容
 
@@ -28,7 +25,7 @@
 </p></td>
 <td><p>姜仁奎</p></td>
 <td><p><strong>信光教導所醫務事務官 → 善霖醫院臟器移植中心第四年住院醫生</strong><br />
-1988年生，30歲。有著「鷹之眼」和「神之手」的稱號。因為15年前的事故成為後天性<a href="../Page/學者症候群.md" title="wikilink">學者症候群患者</a>，擁有不帶放大鏡就能看到細小顆粒的能力，但是也有了不能開車的後遺症。為了想要合法復仇而成為醫生，因此放棄成為專門醫生並申請進入信光教導所醫務室。</p></td>
+1988年生，30歲。有著「鷹之眼」和「神之手」的稱號。因為15年前的事故成為後天性<a href="../Page/學者症候群.md" title="wikilink">學者症候群</a>患者，擁有不帶放大鏡就能看到細小顆粒的能力，但是也有了不能開車的後遺症。為了想要合法復仇而成為醫生，因此放棄成為專門醫生並申請進入信光教導所醫務室。</p></td>
 <td><p><a href="../Page/杜景煜.md" title="wikilink">杜景煜</a></p></td>
 </tr>
 <tr class="odd">
@@ -36,7 +33,7 @@
 </p></td>
 <td><p>高正勳</p></td>
 <td><p><strong>善霖醫院臟器移植中心主任</strong><br />
-1969年生，49歲。世界肝移植領域權威者。徹底的原則主義者。比起權利總是把患者擺在第一位，與想要復仇的姜仁奎站在完全相對的位置。在想要找尋臟器移植中心主任繼任者的時候找到了天才醫生-{姜}-仁奎，卻無法緩解他滿腔想要復仇的憤怒。早發性<a href="../Page/帕金森氏症.md" title="wikilink">帕金森氏症患者</a>。</p></td>
+1969年生，49歲。世界肝移植領域權威者。徹底的原則主義者。比起權利總是把患者擺在第一位，與想要復仇的姜仁奎站在完全相對的位置。在想要找尋臟器移植中心主任繼任者的時候找到了天才醫生-{姜}-仁奎，卻無法緩解他滿腔想要復仇的憤怒。早發性<a href="../Page/帕金森氏症.md" title="wikilink">帕金森氏症</a>患者。</p></td>
 <td><p><a href="../Page/梁志達.md" title="wikilink">梁志達</a></p></td>
 </tr>
 <tr class="even">
@@ -477,13 +474,9 @@
 
 ## 同時段競爭作品
 
-  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
-    [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[Radio
-    Romance](../Page/Radio_Romance.md "wikilink")》
-  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")
-    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[白色巨塔](../Page/白色巨塔_\(2007年韓劇\).md "wikilink")》（重播）、《[偉大的誘惑者](../Page/偉大的誘惑者.md "wikilink")》
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[疑問的一勝](../Page/疑問的一勝.md "wikilink")》、《[能先接吻嗎？](https://zh.wikipedia.org/wiki/能先接吻嗎？ "wikilink")》
+  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[Radio Romance](../Page/Radio_Romance.md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[白色巨塔](../Page/白色巨塔_\(2007年韓劇\).md "wikilink")》（重播）、《[偉大的誘惑者](../Page/偉大的誘惑者.md "wikilink")》
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink") [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[疑問的一勝](../Page/疑問的一勝.md "wikilink")》、《[能先接吻嗎？](https://zh.wikipedia.org/wiki/能先接吻嗎？ "wikilink")》
 
 ## 參考資料
 
@@ -494,15 +487,7 @@
   - [CROSS-DAUM](https://web.archive.org/web/20180217122447/http://movie.daum.net/tv/main?tvProgramId=81458)
   - [CROSS-NAVER](https://m.entertain.naver.com/tvBrand/6344764)
 
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:2018年背景作品](https://zh.wikipedia.org/wiki/Category:2018年背景作品 "wikilink")
-[Category:韓國醫學劇](https://zh.wikipedia.org/wiki/Category:韓國醫學劇 "wikilink")
-[Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink")
-[Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink")
-[Category:細胞記憶題材作品](https://zh.wikipedia.org/wiki/Category:細胞記憶題材作品 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
-[Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
-[Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
+[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:2018年背景作品](https://zh.wikipedia.org/wiki/Category:2018年背景作品 "wikilink") [Category:韓國醫學劇](https://zh.wikipedia.org/wiki/Category:韓國醫學劇 "wikilink") [Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink") [Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink") [Category:細胞記憶題材作品](https://zh.wikipedia.org/wiki/Category:細胞記憶題材作品 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink") [Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
 
 1.
 2.

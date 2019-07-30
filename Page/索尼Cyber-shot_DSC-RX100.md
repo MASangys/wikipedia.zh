@@ -1,22 +1,12 @@
-**索尼 Cyber-shot
-DSC-RX100**（简称**RX100**）是由[索尼于](../Page/索尼.md "wikilink")2012年6月发布的紧凑型不可换镜头[数码相机](../Page/数码相机.md "wikilink")，特色为在紧凑的空间内设计配置了1英寸规格传感器与高表现的镜头，上市初7万円/$650\[1\]\[2\]定价一度被认为难以接受，随后RX100在各类评测中的优异表现则证明物有所值。
+**索尼 Cyber-shot DSC-RX100**（简称**RX100**）是由[索尼](../Page/索尼.md "wikilink")于2012年6月发布的紧凑型不可换镜头[数码相机](../Page/数码相机.md "wikilink")，特色为在紧凑的空间内设计配置了1英寸规格传感器与高表现的镜头，上市初7万円/$650\[1\]\[2\]定价一度被认为难以接受，随后RX100在各类评测中的优异表现则证明物有所值。
 
-RX100在发布后获得了业界与市场认可，其于2012年入选[时代杂志评出的年度](https://zh.wikipedia.org/wiki/时代杂志 "wikilink")50佳发明(50
-'best inventions' of 2012)\[3\]\[4\]。索尼也推出了后续系列机型，最新一款为2016年10月发布的RX100
-V\[5\]。
+RX100在发布后获得了业界与市场认可，其于2012年入选[时代杂志评出的年度](https://zh.wikipedia.org/wiki/时代杂志 "wikilink")50佳发明(50 'best inventions' of 2012)\[3\]\[4\]。索尼也推出了后续系列机型，最新一款为2016年10月发布的RX100 V\[5\]。
 
 ## 概述
 
-固定镜头数码相机（Fixed Lens Digital
-Camera）在20世纪末期进入民用领域，并且在21世纪初迅猛发展。但伴随[数码单反的普及潮](https://zh.wikipedia.org/wiki/数码单反 "wikilink")（以廉价机型[佳能
-EOS
-300D](../Page/佳能_EOS_300D.md "wikilink")、[尼康D50](https://zh.wikipedia.org/wiki/尼康D50 "wikilink")、[奥林巴斯
-E-330等推出为标志](https://zh.wikipedia.org/wiki/奥林巴斯_E-330 "wikilink")），固定镜头数码相机中的[桥式相机或称类单眼相机](../Page/類單眼相機.md "wikilink")（Bridge
-Camera、DSLR-like）受冲击较大。而[拍照手机的诞生与普及](https://zh.wikipedia.org/wiki/拍照手机 "wikilink")，特别是以[iPhone为代表的智能手机](https://zh.wikipedia.org/wiki/iPhone "wikilink")，在这一时期冲击了低端入门数码相机的市场。
+固定镜头数码相机（Fixed Lens Digital Camera）在20世纪末期进入民用领域，并且在21世纪初迅猛发展。但伴随[数码单反的普及潮](https://zh.wikipedia.org/wiki/数码单反 "wikilink")（以廉价机型[佳能 EOS 300D](../Page/佳能_EOS_300D.md "wikilink")、[尼康D50](https://zh.wikipedia.org/wiki/尼康D50 "wikilink")、[奥林巴斯 E-330等推出为标志](https://zh.wikipedia.org/wiki/奥林巴斯_E-330 "wikilink")），固定镜头数码相机中的[桥式相机或称类单眼相机](../Page/類單眼相機.md "wikilink")（Bridge Camera、DSLR-like）受冲击较大。而[拍照手机的诞生与普及](https://zh.wikipedia.org/wiki/拍照手机 "wikilink")，特别是以[iPhone为代表的智能手机](https://zh.wikipedia.org/wiki/iPhone "wikilink")，在这一时期冲击了低端入门数码相机的市场。
 
-在这一系列外部因素影响下，部分厂家推出了画质出众，而体积控制优秀的高级卡片随身机，其中的代表有
-松下LX3(2008)、佳能S90(2009)以及奥林巴斯XZ-1(2011)等。这类机型（日语：高級コンパクトデジカメ
-英语：High-end pocketable compacts）通常具备以下特点：
+在这一系列外部因素影响下，部分厂家推出了画质出众，而体积控制优秀的高级卡片随身机，其中的代表有 松下LX3(2008)、佳能S90(2009)以及奥林巴斯XZ-1(2011)等。这类机型（日语：高級コンパクトデジカメ 英语：High-end pocketable compacts）通常具备以下特点：
 
   - 较大尺寸的传感器（1/1.7英寸左右）
   - 关机时具有紧凑体积，可装入较大的口袋
@@ -25,8 +15,7 @@ Camera、DSLR-like）受冲击较大。而[拍照手机的诞生与普及](https
 
 这类机型获得了一段时期内的市场关注，日本的相机器材媒体DC Watch也曾经进行过对比\[6\]\[7\]。
 
-[Sony_Cyber-shot_DSC-RX100_vs_Sony_Alpha_ILCE-6000.jpg](https://zh.wikipedia.org/wiki/File:Sony_Cyber-shot_DSC-RX100_vs_Sony_Alpha_ILCE-6000.jpg "fig:Sony_Cyber-shot_DSC-RX100_vs_Sony_Alpha_ILCE-6000.jpg")，分置左右\]\]
-而随着以[微4/3系统和](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")[索尼NEX为代表的](../Page/索尼NEX系列.md "wikilink")[数码无反机型的诞生](../Page/無反光鏡可換鏡頭相機.md "wikilink")，这类机型也受到了挑战。
+[Sony_Cyber-shot_DSC-RX100_vs_Sony_Alpha_ILCE-6000.jpg](https://zh.wikipedia.org/wiki/File:Sony_Cyber-shot_DSC-RX100_vs_Sony_Alpha_ILCE-6000.jpg "fig:Sony_Cyber-shot_DSC-RX100_vs_Sony_Alpha_ILCE-6000.jpg")，分置左右\]\] 而随着以[微4/3系统和](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")[索尼NEX为代表的](../Page/索尼NEX系列.md "wikilink")[数码无反机型的诞生](../Page/無反光鏡可換鏡頭相機.md "wikilink")，这类机型也受到了挑战。
 
 以此为背景，索尼公司在2012年推出了新型的高级紧凑型数码相机**RX100**，采用了较之前这一系列更大的一英寸规格的感光元件，体积仍然保持在宽10cm，高不到6cm，厚度3.5cm的范围。其推出后受到了广泛好评，业界评测对其画质与便携性给予好评，认为足可作为专业人士的备用机或普通用户的主机使用\[8\]。
 
@@ -34,30 +23,21 @@ Camera、DSLR-like）受冲击较大。而[拍照手机的诞生与普及](https
 
 ## 系列机型
 
-原版的RX100于2012年发布之后，获得了广泛认同，索尼也在接下来的时间内陆续发布了RX100 II、RX100 III与RX100
-IV，以及推出了镜头式相机类型的QX100。
+原版的RX100于2012年发布之后，获得了广泛认同，索尼也在接下来的时间内陆续发布了RX100 II、RX100 III与RX100 IV，以及推出了镜头式相机类型的QX100。
 
-\*;RX100 Ⅱ
-[Sony_Cyber-shot_DSC-RX100M2_RX100_II.jpg](https://zh.wikipedia.org/wiki/File:Sony_Cyber-shot_DSC-RX100M2_RX100_II.jpg "fig:Sony_Cyber-shot_DSC-RX100M2_RX100_II.jpg")
-或称**RX100M2**，是2013年发布的后续机型。加入了可翻转屏幕，添加[MI热靴](../Page/MI热靴.md "wikilink")，传感器升级为背照类型。
+\*;RX100 Ⅱ [Sony_Cyber-shot_DSC-RX100M2_RX100_II.jpg](https://zh.wikipedia.org/wiki/File:Sony_Cyber-shot_DSC-RX100M2_RX100_II.jpg "fig:Sony_Cyber-shot_DSC-RX100M2_RX100_II.jpg") 或称**RX100M2**，是2013年发布的后续机型。加入了可翻转屏幕，添加[MI热靴](../Page/MI热靴.md "wikilink")，传感器升级为背照类型。
 
-\*;RX100 III
-[Sony_RX100_III_Physical_Features.jpg](https://zh.wikipedia.org/wiki/File:Sony_RX100_III_Physical_Features.jpg "fig:Sony_RX100_III_Physical_Features.jpg")
-或称**RX100M3**，是2014年的升级机型。在二代的背照传感器基础上，升级镜头为等效24-70mm规格，具备更大开放光圈；取消了热靴，内置可收纳的EVF取景器。且加入了混合式的五轴防抖功能。
+\*;RX100 III [Sony_RX100_III_Physical_Features.jpg](https://zh.wikipedia.org/wiki/File:Sony_RX100_III_Physical_Features.jpg "fig:Sony_RX100_III_Physical_Features.jpg") 或称**RX100M3**，是2014年的升级机型。在二代的背照传感器基础上，升级镜头为等效24-70mm规格，具备更大开放光圈；取消了热靴，内置可收纳的EVF取景器。且加入了混合式的五轴防抖功能。
 
-\*;RX100 Ⅳ 或称**RX100M4**，是2015年推出的机型。在三代基础上，更换传感器为堆叠式（Stacked
-BSI-CMOS）；在视频方面多有加强，加入4K视频支持。
+\*;RX100 Ⅳ 或称**RX100M4**，是2015年推出的机型。在三代基础上，更换传感器为堆叠式（Stacked BSI-CMOS）；在视频方面多有加强，加入4K视频支持。
 
   - **RX100 V**
 
 或称**RX100M5**，是2016年10月发布的机型。
 
-\*;QX100 **QX100**为一款可分离式相机，或被称作**镜头相机**（Lens Camera，或Lens Style
-Camera），于2013年推出。没有屏幕，需要盲拍或者连接智能设备拍摄；其他主要规格类似RX100M2。
+\*;QX100 **QX100**为一款可分离式相机，或被称作**镜头相机**（Lens Camera，或Lens Style Camera），于2013年推出。没有屏幕，需要盲拍或者连接智能设备拍摄；其他主要规格类似RX100M2。
 
-\*;哈苏版本
-瑞典的相机制造商[哈苏](../Page/哈苏.md "wikilink")（Hasselblad）出品的Stellar\[9\]与Stellar
-II\[10\]，据信为索尼RX100的贴牌产品，分别对应RX100与RX100 II。特色为提供了多种木质手柄可选。
+\*;哈苏版本 瑞典的相机制造商[哈苏](../Page/哈苏.md "wikilink")（Hasselblad）出品的Stellar\[9\]与Stellar II\[10\]，据信为索尼RX100的贴牌产品，分别对应RX100与RX100 II。特色为提供了多种木质手柄可选。
 
 ### 对比
 
@@ -313,67 +293,38 @@ at Auto ISO</p></td>
 ## 参见
 
   - [索尼](../Page/索尼.md "wikilink")
-      - [索尼Cybershot](https://zh.wikipedia.org/wiki/Cyber-shot "wikilink")
-        索尼的不可换镜头数码相机系列
-          - [索尼Cyber-Shot
-            DSC-R1](../Page/索尼Cyber-Shot_DSC-R1.md "wikilink")
-            索尼于2005年推出的高级固定镜头机型
-      - [SONY α](https://zh.wikipedia.org/wiki/SONY_α "wikilink")
-        索尼的可换镜头数码相机系列
+      - [索尼Cybershot](https://zh.wikipedia.org/wiki/Cyber-shot "wikilink") 索尼的不可换镜头数码相机系列
+          - [索尼Cyber-Shot DSC-R1](../Page/索尼Cyber-Shot_DSC-R1.md "wikilink") 索尼于2005年推出的高级固定镜头机型
+      - [SONY α](https://zh.wikipedia.org/wiki/SONY_α "wikilink") 索尼的可换镜头数码相机系列
 
 <!-- end list -->
 
   - 高级不可换镜头紧凑机型
       - [奥林巴斯XZ-1](https://zh.wikipedia.org/wiki/奥林巴斯XZ-1 "wikilink")
       - [松下LX100](https://zh.wikipedia.org/wiki/松下LX100 "wikilink")
-      - [佳能 Powershot G1
-        X](https://zh.wikipedia.org/wiki/佳能_Powershot_G1_X "wikilink")
-      - [佳能 Powershot G7
-        X](https://zh.wikipedia.org/wiki/佳能_Powershot_G7_X "wikilink")
+      - [佳能 Powershot G1 X](https://zh.wikipedia.org/wiki/佳能_Powershot_G1_X "wikilink")
+      - [佳能 Powershot G7 X](https://zh.wikipedia.org/wiki/佳能_Powershot_G7_X "wikilink")
 
 ## 参考与引用
 
 ## 外部链接
 
-  - [RX100机型](http://www.sonystyle.com.cn/products/cyber-shot/dsc_rx100.htm)
-    - 索尼（中国）
-  - [RX100
-    II](http://www.sony.net/Products/di/zh-hk/products/g681/index.html)
-    - sony.net
-  - [RX100
-    III](http://www.sony.net/Products/di/zh-hk/products/c3jk/index.html)
-    - sony.net
-  - [RX100
-    IV](http://www.sony.net/Products/di/zh-hk/products/f5kd/index.html)
-    - sony.net
-  - [DSC-QX100](http://www.sony.net/Products/di/zh-hk/products/x7g2/) -
-    sony.net
+  - [RX100机型](http://www.sonystyle.com.cn/products/cyber-shot/dsc_rx100.htm) - 索尼（中国）
+  - [RX100 II](http://www.sony.net/Products/di/zh-hk/products/g681/index.html) - sony.net
+  - [RX100 III](http://www.sony.net/Products/di/zh-hk/products/c3jk/index.html) - sony.net
+  - [RX100 IV](http://www.sony.net/Products/di/zh-hk/products/f5kd/index.html) - sony.net
+  - [DSC-QX100](http://www.sony.net/Products/di/zh-hk/products/x7g2/) - sony.net
 
-[Category:索尼數位相機](https://zh.wikipedia.org/wiki/Category:索尼數位相機 "wikilink")
-[Category:2012年面世的相機](https://zh.wikipedia.org/wiki/Category:2012年面世的相機 "wikilink")
+[Category:索尼數位相機](https://zh.wikipedia.org/wiki/Category:索尼數位相機 "wikilink") [Category:2012年面世的相機](https://zh.wikipedia.org/wiki/Category:2012年面世的相機 "wikilink")
 
 1.  [ファーストインプレッション：ソニーサイバーショットDSC-RX100](http://dc.watch.impress.co.jp/docs/review/impression/20120614_540132.html)
-2.  [Roundup: Enthusiast Zoom Compact
-    Cameras](http://www.dpreview.com/articles/2367736880/roundup-enthusiast-zoom-compact-cameras/11)
-    - DP Review
-3.  [](http://techland.time.com/2012/11/01/best-inventions-of-the-year-2012/slide/all/)
-    - time.com
-4.  [](http://www.dpreview.com/articles/9932721916/time-magazine-selects-sony-rx100-as-among-best-inventions-of-2012)
-    - DP Review
-5.  [Sony's RX100 IV and RX10 II Cameras Bring Professional Imaging
-    Experience to Acclaimed Cyber-shot RX
-    Series](http://www.sony.com/en_us/SCA/company-news/press-releases/sony-electronics/2015/sonys-rx100-iv-and-rx10-ii-cameras-bring-professio.html)
-     - sony.com
-6.  [高級コンパクトデジカメ6機種を比較する：機能・操作編](http://dc.watch.impress.co.jp/docs/review/special/20110405_437387.html)
-    - DC Watch Impress
-7.  [高級コンパクトデジカメ6機種を比較する：画質編](http://dc.watch.impress.co.jp/docs/review/special/20110408_438081.html)
-    - DC Watch Impress
-8.  [Sony Cyber-Shot DSC-RX100 In-Depth
-    Review](http://www.dpreview.com/reviews/sony-cybershot-dsc-rx100) -
-    DP Review
-9.  [Stellar](http://www.hasselblad.com/cn/compact/stellar)  -
-    Hasselblad
-10. [Stellar II](http://www.hasselblad.com/cn/compact/stellar-ii)  -
-    Hasselblad
-11. [サイバーショットRX100 3モデルの違いを見てみよう](http://dc.watch.impress.co.jp/docs/news/20140609_652038.html)
-    - DC Watch
+2.  [Roundup: Enthusiast Zoom Compact Cameras](http://www.dpreview.com/articles/2367736880/roundup-enthusiast-zoom-compact-cameras/11) - DP Review
+3.  [](http://techland.time.com/2012/11/01/best-inventions-of-the-year-2012/slide/all/) - time.com
+4.  [](http://www.dpreview.com/articles/9932721916/time-magazine-selects-sony-rx100-as-among-best-inventions-of-2012) - DP Review
+5.  [Sony's RX100 IV and RX10 II Cameras Bring Professional Imaging Experience to Acclaimed Cyber-shot RX Series](http://www.sony.com/en_us/SCA/company-news/press-releases/sony-electronics/2015/sonys-rx100-iv-and-rx10-ii-cameras-bring-professio.html)  - sony.com
+6.  [高級コンパクトデジカメ6機種を比較する：機能・操作編](http://dc.watch.impress.co.jp/docs/review/special/20110405_437387.html) - DC Watch Impress
+7.  [高級コンパクトデジカメ6機種を比較する：画質編](http://dc.watch.impress.co.jp/docs/review/special/20110408_438081.html) - DC Watch Impress
+8.  [Sony Cyber-Shot DSC-RX100 In-Depth Review](http://www.dpreview.com/reviews/sony-cybershot-dsc-rx100) - DP Review
+9.  [Stellar](http://www.hasselblad.com/cn/compact/stellar)  - Hasselblad
+10. [Stellar II](http://www.hasselblad.com/cn/compact/stellar-ii)  - Hasselblad
+11. [サイバーショットRX100 3モデルの違いを見てみよう](http://dc.watch.impress.co.jp/docs/news/20140609_652038.html) - DC Watch

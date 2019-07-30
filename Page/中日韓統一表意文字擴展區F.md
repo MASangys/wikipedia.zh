@@ -1,5 +1,4 @@
-**中日韓統一表意文字擴展區F**（）是一個[Unicode標準](https://zh.wikipedia.org/wiki/Unicode "wikilink")，在2017年6月20日發佈的Unicode
-10.0中被引入。
+**中日韓統一表意文字擴展區F**（）是一個[Unicode標準](https://zh.wikipedia.org/wiki/Unicode "wikilink")，在2017年6月20日發佈的Unicode 10.0中被引入。
 
 擴展F區共收錄7473個漢字，編碼範圍為U+2CEB0--U+2EBEF。
 扩展F区的汉字主要来自：
@@ -26,7 +25,7 @@
 
   - 澳门：
 
-      - MAC：澳门信息系统字集22字
+      - MAC：澳門資訊系統字集22字
 
   - 大藏经研究组：
 
@@ -48,8 +47,6 @@
 
 ### 來源
 
-  - [Unicode定義的PDF文件](http://www.unicode.org/charts/PDF/U2CEB0.pdf)
-    (English)
+  - [Unicode定義的PDF文件](http://www.unicode.org/charts/PDF/U2CEB0.pdf) (English)
 
-[Category:CJK](https://zh.wikipedia.org/wiki/Category:CJK "wikilink")
-[Category:Unicode區段](https://zh.wikipedia.org/wiki/Category:Unicode區段 "wikilink")
+[Category:CJK](https://zh.wikipedia.org/wiki/Category:CJK "wikilink") [Category:Unicode區段](https://zh.wikipedia.org/wiki/Category:Unicode區段 "wikilink")

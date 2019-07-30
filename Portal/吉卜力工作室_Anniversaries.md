@@ -1,8 +1,7 @@
 ## 每月纪念日
 
   -
-    *This anniversary section is intended to be politically neutral,
-    记录与[吉卜力工作室有关的所有著名事件](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")。*
+    *This anniversary section is intended to be politically neutral, 记录与[吉卜力工作室有关的所有著名事件](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")。*
 
 <div class="WSerieH hlist" id="WMois" style="margin: 1em 0 1em 0; text-align: center;">
 

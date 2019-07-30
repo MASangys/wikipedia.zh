@@ -1,14 +1,8 @@
-《**Doctors**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")2016年6月20日起播出的[月火連續劇](../Page/SBS月火連續劇.md "wikilink")，由[朴信惠及](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")[金來沅主演](https://zh.wikipedia.org/wiki/金來沅 "wikilink")，《[溫暖的一句話](../Page/溫暖的一句話.md "wikilink")》、《[上流社會](../Page/上流社會_\(電視劇\).md "wikilink")》[河明熙作家執筆](https://zh.wikipedia.org/wiki/河明熙 "wikilink")，以女流氓劉慧靜（[朴信惠](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")
-飾）為主人公，講述她生活跌至谷底，差點進入監獄後發憤圖強成為女醫生的故事。原著《女流氓慧靜》是作家[河明熙在](https://zh.wikipedia.org/wiki/河明熙 "wikilink")2010年廣播文化振興財團主辦的第3次劇本征集活動評選的電視劇作品。
+《**Doctors**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")2016年6月20日起播出的[月火連續劇](../Page/SBS月火連續劇.md "wikilink")，由[朴信惠及](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")[金來沅主演](https://zh.wikipedia.org/wiki/金來沅 "wikilink")，《[溫暖的一句話](../Page/溫暖的一句話.md "wikilink")》、《[上流社會](../Page/上流社會_\(電視劇\).md "wikilink")》[河明熙作家執筆](https://zh.wikipedia.org/wiki/河明熙 "wikilink")，以女流氓劉慧靜（[朴信惠](https://zh.wikipedia.org/wiki/朴信惠 "wikilink") 飾）為主人公，講述她生活跌至谷底，差點進入監獄後發憤圖強成為女醫生的故事。原著《女流氓慧靜》是作家[河明熙在](https://zh.wikipedia.org/wiki/河明熙 "wikilink")2010年廣播文化振興財團主辦的第3次劇本征集活動評選的電視劇作品。
 
 ## 劇情
 
-講述生活一團糟的高中生劉慧靜（[朴信惠](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")
-飾）與因手術失誤的陰影選擇逃避為生物教師的洪智弘（[金來沅](https://zh.wikipedia.org/wiki/金來沅 "wikilink")
-飾）之間好感剛萌芽卻被嫉妒慧靜的同學陳瑞雨（[李聖經](../Page/李聖經.md "wikilink")
-飾）誣衊兩人有超乎師生的不當關係。13年後慧靜與瑞雨成為國日醫院的神經外科主治醫生，而智弘則成為神經外科的醫學教授，三人與鄭允道醫生（[尹鈞相](../Page/尹鈞相.md "wikilink")
-飾）及醫療團隊一起克服與面對各種醫學難題與醫療個案。允道在與慧靜共事的過程中對她暗生情愫。全劇主軸通過愛情展現主人公劉慧靜的變化與成長的故事，探討生命的意義，而劇中人物的愛恨糾葛與調查慧靜奶奶-{姜}-末順（[金姈愛](../Page/金姈愛.md "wikilink")
-飾）的死亡真相也是看點之一。本劇通過主人公劉慧靜的視角探討人性與社會的現實面
+講述生活一團糟的高中生劉慧靜（[朴信惠](https://zh.wikipedia.org/wiki/朴信惠 "wikilink") 飾）與因手術失誤的陰影選擇逃避為生物教師的洪智弘（[金來沅](https://zh.wikipedia.org/wiki/金來沅 "wikilink") 飾）之間好感剛萌芽卻被嫉妒慧靜的同學陳瑞雨（[李聖經](../Page/李聖經.md "wikilink") 飾）誣衊兩人有超乎師生的不當關係。13年後慧靜與瑞雨成為國日醫院的神經外科主治醫生，而智弘則成為神經外科的醫學教授，三人與鄭允道醫生（[尹鈞相](../Page/尹鈞相.md "wikilink") 飾）及醫療團隊一起克服與面對各種醫學難題與醫療個案。允道在與慧靜共事的過程中對她暗生情愫。全劇主軸通過愛情展現主人公劉慧靜的變化與成長的故事，探討生命的意義，而劇中人物的愛恨糾葛與調查慧靜奶奶-{姜}-末順（[金姈愛](../Page/金姈愛.md "wikilink") 飾）的死亡真相也是看點之一。本劇通過主人公劉慧靜的視角探討人性與社會的現實面
 
 ## 演員陣容
 
@@ -682,8 +676,7 @@
 
 ## 同時段競爭節目
 
-  - [KBS](../Page/韓國放送公社.md "wikilink")：《[Beautiful
-    Mind](../Page/Beautiful_Mind.md "wikilink")》、《[雲畫的月光](../Page/雲畫的月光.md "wikilink")》
+  - [KBS](../Page/韓國放送公社.md "wikilink")：《[Beautiful Mind](../Page/Beautiful_Mind.md "wikilink")》、《[雲畫的月光](../Page/雲畫的月光.md "wikilink")》
   - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[Monster](../Page/Monster_\(電視劇\).md "wikilink")》
 
 ## 提名&得獎列表
@@ -892,13 +885,11 @@
 ## 記事
 
   - 此劇主角[朴信惠](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")、[金來沅都是首次飾演醫生](https://zh.wikipedia.org/wiki/金來沅 "wikilink")，有別於以往的角色。
-  - 此劇主角[朴信惠與](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")[白成鉉繼電視劇](../Page/白成鉉.md "wikilink")[天國的階梯後時隔](../Page/天國的階梯.md "wikilink")13年後再次合作。
+  - 此劇主角[朴信惠與](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")[白成鉉](../Page/白成鉉.md "wikilink")繼電視劇[天國的階梯](../Page/天國的階梯.md "wikilink")後時隔13年後再次合作。
   - 此劇主角[朴信惠與](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")[尹均相繼](https://zh.wikipedia.org/wiki/尹均相 "wikilink")《[皮諾丘](../Page/皮諾丘_\(電視劇\).md "wikilink")》後第二次合作。
-  - 此劇主角[朴信惠與](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")[葛素媛繼電影](https://zh.wikipedia.org/wiki/葛素媛 "wikilink")[7號房的禮物後第二次飾演同一個角色的成年及童年](../Page/7號房的禮物.md "wikilink")。
-  - 此劇於6月20日開播後，與[MBC的](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[Monster](../Page/Monster_\(電視劇\).md "wikilink")》及[KBS的](../Page/韓國放送公社.md "wikilink")《[Beautiful
-    Mind](../Page/Beautiful_Mind.md "wikilink")》月火連續劇皆是以英文作劇名，為韓國電視台首次出現此情況。
-  - 此劇又與[KBS的](../Page/韓國放送公社.md "wikilink")《[Beautiful
-    Mind](../Page/Beautiful_Mind.md "wikilink")》內容皆以醫院醫療為題材共通點。
+  - 此劇主角[朴信惠與](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")[葛素媛繼電影](https://zh.wikipedia.org/wiki/葛素媛 "wikilink")[7號房的禮物](../Page/7號房的禮物.md "wikilink")後第二次飾演同一個角色的成年及童年。
+  - 此劇於6月20日開播後，與[MBC的](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[Monster](../Page/Monster_\(電視劇\).md "wikilink")》及[KBS的](../Page/韓國放送公社.md "wikilink")《[Beautiful Mind](../Page/Beautiful_Mind.md "wikilink")》月火連續劇皆是以英文作劇名，為韓國電視台首次出現此情況。
+  - 此劇又與[KBS的](../Page/韓國放送公社.md "wikilink")《[Beautiful Mind](../Page/Beautiful_Mind.md "wikilink")》內容皆以醫院醫療為題材共通點。
 
 ## 腳註
 
@@ -908,18 +899,9 @@
   - [台灣GTV官方網站](http://www.gtv.com.tw/Program/P2016091901/index.html)
   - [台灣華視官方網站](http://shows.cts.com.tw/shows_prog/drama/123.html)
 
-[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink")
-[Category:韓國醫學劇](https://zh.wikipedia.org/wiki/Category:韓國醫學劇 "wikilink")
-[Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
-[Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
-[Category:醫院背景作品](https://zh.wikipedia.org/wiki/Category:醫院背景作品 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
-[Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink")
-[Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink")
+[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:韓國醫學劇](https://zh.wikipedia.org/wiki/Category:韓國醫學劇 "wikilink") [Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink") [Category:醫院背景作品](https://zh.wikipedia.org/wiki/Category:醫院背景作品 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink") [Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink")
 
 1.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 2.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)
-3.  此日KBS2的《[Beautiful
-    Mind](../Page/Beautiful_Mind.md "wikilink")》提早收播，改為播放奧運賽事、MBC的《[Monster](../Page/Monster_\(電視劇\).md "wikilink")》因轉播奧運賽事而停播。
+3.  此日KBS2的《[Beautiful Mind](../Page/Beautiful_Mind.md "wikilink")》提早收播，改為播放奧運賽事、MBC的《[Monster](../Page/Monster_\(電視劇\).md "wikilink")》因轉播奧運賽事而停播。
 4.  原訂8/16將播出第18集，但因轉播里約奧運精采賽事，故原本第十八集將延後至8/22首播。另外，第19集也會在8月22日播出。

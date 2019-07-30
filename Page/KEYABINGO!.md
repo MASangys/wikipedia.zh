@@ -1,8 +1,8 @@
-《**KEYABINGO\!**》是日本女子偶像團體[櫸坂46冠名演出的深夜](../Page/櫸坂46.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[日本電視台製播](../Page/日本電視台.md "wikilink")，節目主持人由[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")[三明治人擔任](../Page/三明治人.md "wikilink")。自2016年首次推出以來已播出4[季](https://zh.wikipedia.org/wiki/季度 "wikilink")。
+《**KEYABINGO\!**》是日本女子偶像團體[櫸坂46](../Page/櫸坂46.md "wikilink")冠名演出的深夜[綜藝節目](../Page/綜藝節目.md "wikilink")，由[日本電視台](../Page/日本電視台.md "wikilink")製播，節目主持人由[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")[三明治人](../Page/三明治人.md "wikilink")擔任。自2016年首次推出以來已播出4[季](https://zh.wikipedia.org/wiki/季度 "wikilink")。
 
 ## 概要
 
-做為[乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")「[坂道系列](../Page/坂道系列.md "wikilink")」而結成的姊妹團體[櫸坂46](../Page/櫸坂46.md "wikilink")，繼[AKB48的](../Page/AKB48.md "wikilink")《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》及乃木坂46的《[NOGIBINGO\!](../Page/NOGIBINGO!.md "wikilink")》之後，推出BINGO\!系列第三彈的節目。\[1\]《KEYABINGO\!》是以「誰能掌握綜藝，誰就掌握了整個演藝圈」為核心目標。\[2\]綜藝經驗甚少的櫸坂46成員們必須突破各式各樣的綜藝考驗\[3\]，成為有如AKB48及乃木坂46的國民偶像團體。\[4\]
+做為[乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")「[坂道系列](../Page/坂道系列.md "wikilink")」而結成的姊妹團體[櫸坂46](../Page/櫸坂46.md "wikilink")，繼[AKB48](../Page/AKB48.md "wikilink")的《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》及乃木坂46的《[NOGIBINGO\!](../Page/NOGIBINGO!.md "wikilink")》之後，推出BINGO\!系列第三彈的節目。\[1\]《KEYABINGO\!》是以「誰能掌握綜藝，誰就掌握了整個演藝圈」為核心目標。\[2\]綜藝經驗甚少的櫸坂46成員們必須突破各式各樣的綜藝考驗\[3\]，成為有如AKB48及乃木坂46的國民偶像團體。\[4\]
 
 ## KEYABINGO\!
 
@@ -25,14 +25,11 @@
 
   - \- 第7集「櫸坂46 目標！性感&可愛角色」擔任可愛角色講師\[11\]
 
-  - [橋本愛實](../Page/橋本愛實.md "wikilink") - 第7集「櫸坂46
-    目標！性感&可愛角色」擔任性感角色講師\[12\]
+  - [橋本愛實](../Page/橋本愛實.md "wikilink") - 第7集「櫸坂46 目標！性感&可愛角色」擔任性感角色講師\[12\]
 
   - \- 第10集「櫸坂46誰的運氣最好？幸運女孩排名」的手相師
 
-  - \- 第12集「櫸坂46 vs 伊藤麻子46歲
-    賭上Center的大戰！」與櫸坂46全員進行對決\[13\]。對決最終結果由伊藤麻子取得勝利，於是批露櫸坂46出道單曲《[沉默的多數](../Page/沉默的多數_\(櫸坂46單曲\).md "wikilink")》（伊藤麻子46
-    featuring 櫸坂46）。\[14\]
+  - \- 第12集「櫸坂46 vs 伊藤麻子46歲 賭上Center的大戰！」與櫸坂46全員進行對決\[13\]。對決最終結果由伊藤麻子取得勝利，於是批露櫸坂46出道單曲《[沉默的多數](../Page/沉默的多數_\(櫸坂46單曲\).md "wikilink")》（伊藤麻子46 featuring 櫸坂46）。\[14\]
 
 ### 播出日期與內容
 
@@ -199,10 +196,8 @@
 
 **其他演出者**
 
-  - [兒嶋一哉](../Page/兒嶋一哉.md "wikilink")（[UNJASH](../Page/UNJASH.md "wikilink")）
-    - 第3集「超萌點競賽 我才是正解！！」出題者\[27\]
-  - [千鳥](../Page/千鳥_\(搞笑組合\).md "wikilink") - 第3集「超萌點競賽
-    我才是正解！！」出題者\[28\]
+  - [兒嶋一哉](../Page/兒嶋一哉.md "wikilink")（[UNJASH](../Page/UNJASH.md "wikilink")） - 第3集「超萌點競賽 我才是正解！！」出題者\[27\]
+  - [千鳥](../Page/千鳥_\(搞笑組合\).md "wikilink") - 第3集「超萌點競賽 我才是正解！！」出題者\[28\]
 
 ### 播出日期與內容
 
@@ -324,9 +319,8 @@ KEYABINGO\!4有別於前三季，是由櫸坂46的子團「[平假名櫸坂46](h
   - 主持人
       - [三明治人](../Page/三明治人.md "wikilink")
   - [平假名櫸坂46](https://zh.wikipedia.org/wiki/平假名櫸坂46 "wikilink")
-      - 1期生 :
-        井口真緒、潮紗理菜、柿崎芽實、影山優佳、、、[佐佐木久美](https://zh.wikipedia.org/wiki/佐佐木久美_\(偶像藝人\) "wikilink")、、高瀨愛奈、、東村芽依
-      - 2期生 : 金村美玖、河田陽菜、、富田鈴花、丹生明里、濱岸日和、松田好花、宮田愛萌、
+      - 1期生 : 井口真緒、潮紗理菜、柿崎芽實、影山優佳、[加藤史帆](../Page/加藤史帆.md "wikilink")、[齊藤京子](../Page/齊藤京子.md "wikilink")、[佐佐木久美](https://zh.wikipedia.org/wiki/佐佐木久美_\(偶像藝人\) "wikilink")、[佐佐木美玲](../Page/佐佐木美玲.md "wikilink")、高瀨愛奈、[高本彩花](../Page/高本彩花.md "wikilink")、東村芽依
+      - 2期生 : 金村美玖、河田陽菜、[小坂菜緒](../Page/小坂菜緒.md "wikilink")、富田鈴花、丹生明里、濱岸日和、松田好花、宮田愛萌、[渡邊美穗](../Page/渡邊美穗_\(藝人\).md "wikilink")
 
 **其他演出者**
 
@@ -491,9 +485,9 @@ KEYABINGO\!4有別於前三季，是由櫸坂46的子團「[平假名櫸坂46](h
 `  播放檔次 = 週一25:29 - 25:59|`
 `  節目名稱 = KEYABINGO!`
 `（2016.7.5 - 2016.9.27）|`
-`  上一節目 = `[`NOGIBINGO!6`](../Page/NOGIBINGO!.md "wikilink")
+`  上一節目 = `[`NOGIBINGO!`](../Page/NOGIBINGO!.md "wikilink")6
 `（2016.4.12 - 6.28）|`
-`  下一節目 = `[`NOGIBINGO!7`](../Page/NOGIBINGO!.md "wikilink")
+`  下一節目 = `[`NOGIBINGO!`](../Page/NOGIBINGO!.md "wikilink")7
 `（2016.10.11 - ）|`
 
 }}
@@ -511,15 +505,7 @@ KEYABINGO\!4有別於前三季，是由櫸坂46的子團「[平假名櫸坂46](h
 
 }}
 
-[Category:櫸坂46](https://zh.wikipedia.org/wiki/Category:櫸坂46 "wikilink")
-[Category:平假名櫸坂46](https://zh.wikipedia.org/wiki/Category:平假名櫸坂46 "wikilink")
-[Category:日本電視台深夜節目](https://zh.wikipedia.org/wiki/Category:日本電視台深夜節目 "wikilink")
-[Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink")
-[Category:2016年日本電視節目](https://zh.wikipedia.org/wiki/Category:2016年日本電視節目 "wikilink")
-[Category:2017年日本電視節目](https://zh.wikipedia.org/wiki/Category:2017年日本電視節目 "wikilink")
-[Category:2018年日本電視節目](https://zh.wikipedia.org/wiki/Category:2018年日本電視節目 "wikilink")
-[Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink")
-[Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
+[Category:櫸坂46](https://zh.wikipedia.org/wiki/Category:櫸坂46 "wikilink") [Category:平假名櫸坂46](https://zh.wikipedia.org/wiki/Category:平假名櫸坂46 "wikilink") [Category:日本電視台深夜節目](https://zh.wikipedia.org/wiki/Category:日本電視台深夜節目 "wikilink") [Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink") [Category:2016年日本電視節目](https://zh.wikipedia.org/wiki/Category:2016年日本電視節目 "wikilink") [Category:2017年日本電視節目](https://zh.wikipedia.org/wiki/Category:2017年日本電視節目 "wikilink") [Category:2018年日本電視節目](https://zh.wikipedia.org/wiki/Category:2018年日本電視節目 "wikilink") [Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink") [Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
 
 1.
 

@@ -1,5 +1,4 @@
-**Nokia 105
-Classic**是[微軟行動生產的](../Page/微軟行動.md "wikilink")[Nokia直立式](https://zh.wikipedia.org/wiki/Nokia "wikilink")[功能型手機](../Page/功能型手機.md "wikilink")，於2015年6月3日發布。\[1\]
+**Nokia 105 Classic**是[微軟行動](../Page/微軟行動.md "wikilink")生產的[Nokia直立式](https://zh.wikipedia.org/wiki/Nokia "wikilink")[功能型手機](../Page/功能型手機.md "wikilink")，於2015年6月3日發布。\[1\]
 
 ## 規格
 
@@ -40,13 +39,9 @@ Classic**是[微軟行動生產的](../Page/微軟行動.md "wikilink")[Nokia直
 
 ## 外部連結
 
-  - [-{R|诺基亚 105 Classic | Nokia
-    phones}-](https://www.nokia.com/zh_int/phones/nokia-105-2016)
-  - [-{R|Nokia 105 Classic | Nokia
-    phones}-](https://www.nokia.com/en_int/phones/nokia-105-2016)
+  - [-{R|诺基亚 105 Classic | Nokia phones}-](https://www.nokia.com/zh_int/phones/nokia-105-2016)
+  - [-{R|Nokia 105 Classic | Nokia phones}-](https://www.nokia.com/en_int/phones/nokia-105-2016)
 
-[Category:诺基亚手机](https://zh.wikipedia.org/wiki/Category:诺基亚手机 "wikilink")
-[Category:微軟行動](https://zh.wikipedia.org/wiki/Category:微軟行動 "wikilink")
-[Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
+[Category:诺基亚手机](https://zh.wikipedia.org/wiki/Category:诺基亚手机 "wikilink") [Category:微軟行動](https://zh.wikipedia.org/wiki/Category:微軟行動 "wikilink") [Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
 
 1.  <http://3c.ltn.com.tw/news/19281>

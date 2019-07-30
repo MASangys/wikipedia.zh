@@ -1,6 +1,4 @@
-\-- This module implements
-[Template:Parameters](https://zh.wikipedia.org/wiki/Template:Parameters "wikilink").
--- \[SublimeLinter luacheck-globals:mw\]
+\-- This module implements [Template:Parameters](https://zh.wikipedia.org/wiki/Template:Parameters "wikilink"). -- \[SublimeLinter luacheck-globals:mw\]
 
 local DEFINITIONS = {
 
@@ -34,9 +32,7 @@ local DEFINITIONS = {
 `       code = ' ',`
 `       dlist = '填写格式：``'},}`
 
-local p = {} local removeDuplicates =
-require('Module:TableTools').removeDuplicates local yesno =
-require('Module:Yesno')
+local p = {} local removeDuplicates = require('Module:TableTools').removeDuplicates local yesno = require('Module:Yesno')
 
 local function makeInvokeFunction(funcName)
 
@@ -104,8 +100,7 @@ function p._code(args)
 `   end`
 
 `   local title = args._base or mw.title.getCurrentTitle().baseText`
-`   return string.format(`[`{{%s``
- ``%s}}`](https://zh.wikipedia.org/wiki/{{%s_%s}} "wikilink")`, title, strMap(parameters,`
+`   return string.format(`[`{{%s``   ``%s}}`](https://zh.wikipedia.org/wiki/{{%s_%s}} "wikilink")`, title, strMap(parameters,`
 `       function(s)`
 `           if definitions then`
 `               return string.format('| %s = %s\n', s,`
@@ -154,9 +149,7 @@ function p._compare(args)
 `           otherParams, baseParams))`
 `   local otherNormParams = normaliseParams(otherParams)`
 
-`   return string.format(`[`等效参数：``   ``%s``   ``相似参数：``   ``%s``
- ``不同参数：``
- ``%s`](https://zh.wikipedia.org/wiki/等效参数：_%s_相似参数：_%s_不同参数：_%s "wikilink")`,`
+`   return string.format(`[`等效参数：``   ``%s``   ``相似参数：``   ``%s``   ``不同参数：``   ``%s`](https://zh.wikipedia.org/wiki/等效参数：_%s_相似参数：_%s_不同参数：_%s "wikilink")`,`
 `   strMap(Set.valueIntersection(baseParams, otherParams),`
 `       function(v) return string.format('* %s\n', v) end),`
 `   strMap(Set.valueIntersection(baseNormParams, otherNormParams),`
@@ -202,10 +195,7 @@ function p._list(args)
 
 end
 
-p.check = makeInvokeFunction('_check') p.code =
-makeInvokeFunction('_code') p.compare = makeInvokeFunction('_compare')
-p.demo = makeInvokeFunction('_demo') p.dlist =
-makeInvokeFunction('_dlist') p.list = makeInvokeFunction('_list')
+p.check = makeInvokeFunction('_check') p.code = makeInvokeFunction('_code') p.compare = makeInvokeFunction('_compare') p.demo = makeInvokeFunction('_demo') p.dlist = makeInvokeFunction('_dlist') p.list = makeInvokeFunction('_list')
 
 return p
 

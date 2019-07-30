@@ -2,12 +2,7 @@ local WLink = { suite = "WLink",
 
 `               serial = "2016-10-05" };`
 
-\--\[=\[ ansiPercent() formatURL() getArticleBase() getBaseTitle()
-getExtension() getFile() getFragment() getLanguage() getNamespace()
-getPlain() getProject() getTarget() getTargetPage() getTitle()
-getWeblink() isBracketedLink() isBracketedURL() isCategorization()
-isExternalLink() isInterlanguage() isInterwiki() isMedia()
-isTitledLink() isValidLink() isWikilink() wikilink() failsafe() \]=\]
+\--\[=\[ ansiPercent() formatURL() getArticleBase() getBaseTitle() getExtension() getFile() getFragment() getLanguage() getNamespace() getPlain() getProject() getTarget() getTargetPage() getTitle() getWeblink() isBracketedLink() isBracketedURL() isCategorization() isExternalLink() isInterlanguage() isInterwiki() isMedia() isTitledLink() isValidLink() isWikilink() wikilink() failsafe() \]=\]
 
 \-- local globals local URLutil = false;
 
@@ -70,13 +65,7 @@ local contentWikilink = function ( attempt )
 `   -- Retrieve span of wikilink between brackets`
 `   -- Precondition:`
 `   --     attempt  -- string, with presumable link`
-`   --                        the first two chars are expected to be "`[`"``
- ``--``   ``Postcondition:``   ``--``   ``Returns``   ``string,``
- ``number,``   ``number``   ``--``   ``string``   ``including``
- ``whitespace``   ``--``   ``number``   ``with``   ``index``   ``of``
- ``relevant``   ``"[["``   ``--``   ``number``   ``with``   ``index``
- ``after``   ``relevant``
- ``"`](https://zh.wikipedia.org/wiki/"_--_Postcondition:_--_Returns_string,_number,_number_--_string_including_whitespace_--_number_with_index_of_relevant_"[["_--_number_with_index_after_relevant_" "wikilink")`"`
+`   --                        the first two chars are expected to be "`[`"``   ``--``   ``Postcondition:``   ``--``   ``Returns``   ``string,``   ``number,``   ``number``   ``--``   ``string``   ``including``   ``whitespace``   ``--``   ``number``   ``with``   ``index``   ``of``   ``relevant``   ``"[["``   ``--``   ``number``   ``with``   ``index``   ``after``   ``relevant``   ``"`](https://zh.wikipedia.org/wiki/"_--_Postcondition:_--_Returns_string,_number,_number_--_string_including_whitespace_--_number_with_index_of_relevant_"[["_--_number_with_index_after_relevant_" "wikilink")`"`
 `   --              false if nothing found`
 `   local r1 = false;`
 `   local r2 = false;`
@@ -990,8 +979,7 @@ function WLink.wikilink( attempt )
 `   -- Retrieve wikilink components`
 `   -- Precondition:`
 `   --     attempt  -- string, with presumable link`
-`   --                         expected to be enclosed in "`[`"``
- ``"`](https://zh.wikipedia.org/wiki/"_" "wikilink")`"`
+`   --                         expected to be enclosed in "`[`"``   ``"`](https://zh.wikipedia.org/wiki/"_" "wikilink")`"`
 `   --                         else wikilink`
 `   -- Postcondition:`
 `   --     Returns  table or false`

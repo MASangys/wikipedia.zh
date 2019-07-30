@@ -1,7 +1,4 @@
-[HCV_NS5B_RdRP_stalled_4WTG.png](https://zh.wikipedia.org/wiki/File:HCV_NS5B_RdRP_stalled_4WTG.png "fig:HCV_NS5B_RdRP_stalled_4WTG.png")
-**RNA複製酶**（RNA replicase），或名**RNA依賴性RNA聚合酶**（RNA-dependent RNA
-polymerase
-縮寫RdRp或RDR），係一類能以複製RNA的[酶](../Page/酶.md "wikilink")。值得注意的是，這類酶和在[轉錄中扮演重要角色](https://zh.wikipedia.org/wiki/轉錄 "wikilink")、以[DNA爲模板合成RNA的](https://zh.wikipedia.org/wiki/DNA "wikilink")[RNA聚合酶不是同一類酶](../Page/RNA聚合酶.md "wikilink")。
+[HCV_NS5B_RdRP_stalled_4WTG.png](https://zh.wikipedia.org/wiki/File:HCV_NS5B_RdRP_stalled_4WTG.png "fig:HCV_NS5B_RdRP_stalled_4WTG.png") **RNA複製酶**（RNA replicase），或名**RNA依賴性RNA聚合酶**（RNA-dependent RNA polymerase 縮寫RdRp或RDR），係一類能以複製RNA的[酶](../Page/酶.md "wikilink")。值得注意的是，這類酶和在[轉錄中扮演重要角色](https://zh.wikipedia.org/wiki/轉錄 "wikilink")、以[DNA爲模板合成RNA的](https://zh.wikipedia.org/wiki/DNA "wikilink")[RNA聚合酶](../Page/RNA聚合酶.md "wikilink")不是同一類酶。
 
 RNA複製酶對於那些反[義](https://zh.wikipedia.org/wiki/義_\(分子生物學\) "wikilink")[RNA病毒來說](https://zh.wikipedia.org/wiki/RNA病毒 "wikilink")，是一種至關重要的蛋白質\[1\]\[2\]。RNA複製酶能合成一條RNA單鏈的互補鏈\[3\]\[4\]。
 
@@ -11,10 +8,7 @@ RNA複製酶對於那些反[義](https://zh.wikipedia.org/wiki/義_\(分子生�
 
 ## 參考
 
-[Category:酶](https://zh.wikipedia.org/wiki/Category:酶 "wikilink")
-[Category:RNA病毒](https://zh.wikipedia.org/wiki/Category:RNA病毒 "wikilink")
-[Category:生物化学](https://zh.wikipedia.org/wiki/Category:生物化学 "wikilink")
-[Category:分子生物学](https://zh.wikipedia.org/wiki/Category:分子生物学 "wikilink")
+[Category:酶](https://zh.wikipedia.org/wiki/Category:酶 "wikilink") [Category:RNA病毒](https://zh.wikipedia.org/wiki/Category:RNA病毒 "wikilink") [Category:生物化学](https://zh.wikipedia.org/wiki/Category:生物化学 "wikilink") [Category:分子生物学](https://zh.wikipedia.org/wiki/Category:分子生物学 "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-《**The Ultimate -International
-Best-**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG的](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[日本](../Page/日本.md "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，由[日本環球音樂製作發行](../Page/環球音樂_\(日本\).md "wikilink")，於2011年5月25日在日本推出，而這張專輯在推出後登上[日本公信榜專輯週榜第](https://zh.wikipedia.org/wiki/日本公信榜 "wikilink")7名的位置。\[1\]
+《**The Ultimate -International Best-**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG的](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[日本](../Page/日本.md "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，由[日本環球音樂製作發行](../Page/環球音樂_\(日本\).md "wikilink")，於2011年5月25日在日本推出，而這張專輯在推出後登上[日本公信榜專輯週榜第](https://zh.wikipedia.org/wiki/日本公信榜 "wikilink")7名的位置。\[1\]
 
 ## 曲目
 
@@ -34,9 +33,6 @@ Best-**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音
 
   -
 
-[Category:BIGBANG音樂專輯](https://zh.wikipedia.org/wiki/Category:BIGBANG音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
+[Category:BIGBANG音樂專輯](https://zh.wikipedia.org/wiki/Category:BIGBANG音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
 
 1.

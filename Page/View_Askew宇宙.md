@@ -1,16 +1,12 @@
-**View
-Askew宇宙**（）是一系列[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[跨媒體製作與](../Page/跨媒體製作.md "wikilink")[虛構世界](../Page/虛構世界.md "wikilink")，由身兼編劇和導演的[凱文·史密斯所創作](https://zh.wikipedia.org/wiki/凱文·史密斯 "wikilink")。在該宇宙的電影、電視劇和漫畫皆為史密斯的所製作。此外，該宇宙各電影中的演員及角色時常會出現在不同的作品中，為此部分演員有時會在不同的電影中飾演相同或不同的角色，而由[傑森·繆斯與史密斯共同飾演的](../Page/傑森·繆斯.md "wikilink")[傑與沉默鮑勃則出現在幾乎所有的作品中](../Page/傑與沉默鮑勃.md "wikilink")。
+**View Askew宇宙**（）是一系列[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[跨媒體製作](../Page/跨媒體製作.md "wikilink")與[虛構世界](../Page/虛構世界.md "wikilink")，由身兼編劇和導演的[凱文·史密斯所創作](https://zh.wikipedia.org/wiki/凱文·史密斯 "wikilink")。在該宇宙的電影、電視劇和漫畫皆為史密斯的所製作。此外，該宇宙各電影中的演員及角色時常會出現在不同的作品中，為此部分演員有時會在不同的電影中飾演相同或不同的角色，而由[傑森·繆斯](../Page/傑森·繆斯.md "wikilink")與史密斯共同飾演的[傑與沉默鮑勃](../Page/傑與沉默鮑勃.md "wikilink")則出現在幾乎所有的作品中。
 
-View
-Askew宇宙的第一部作品為1994年電影《[瘋狂店員](../Page/瘋狂店員.md "wikilink")》，這同時也是史密斯的電影處女作。該宇宙的場景時常圍繞著於[紐澤西州的](https://zh.wikipedia.org/wiki/紐澤西州 "wikilink")、與\[1\]。至今，View
-Askew宇宙共有著六部電影。
+View Askew宇宙的第一部作品為1994年電影《[瘋狂店員](../Page/瘋狂店員.md "wikilink")》，這同時也是史密斯的電影處女作。該宇宙的場景時常圍繞著於[紐澤西州的](https://zh.wikipedia.org/wiki/紐澤西州 "wikilink")、與\[1\]。至今，View Askew宇宙共有著六部電影。
 
 ## 電影
 
 ### 《瘋狂店員》（1994年）
 
-View
-Askew宇宙的第一部作品。故事敘述兩名中產階級的超商店員但丁·希克斯與藍道·葛雷夫斯所接觸的各種古怪事件，但丁和藍道對各事件的反應不一，而使兩人在店裡度過的這一天顯得格外瘋狂。
+View Askew宇宙的第一部作品。故事敘述兩名中產階級的超商店員但丁·希克斯與藍道·葛雷夫斯所接觸的各種古怪事件，但丁和藍道對各事件的反應不一，而使兩人在店裡度過的這一天顯得格外瘋狂。
 
 ### 《耍酷一族》（1995年）
 
@@ -18,7 +14,7 @@ Askew宇宙的第一部作品。故事敘述兩名中產階級的超商店員但
 
 ### 《愛，上了癮》（1997年）
 
-故事敘述[異性戀男漫畫家霍登](https://zh.wikipedia.org/wiki/異性戀 "wikilink")·麥尼爾愛上了一名[女同性戀艾莉莎](../Page/女同性戀.md "wikilink")·瓊斯，但這也引起了霍登的合夥班奇·艾德華的不滿，因為這可能會影響到兩人合作的暢銷漫畫《》。
+故事敘述[異性戀男漫畫家霍登](https://zh.wikipedia.org/wiki/異性戀 "wikilink")·麥尼爾愛上了一名[女同性戀](../Page/女同性戀.md "wikilink")艾莉莎·瓊斯，但這也引起了霍登的合夥班奇·艾德華的不滿，因為這可能會影響到兩人合作的暢銷漫畫《》。
 
 ### 《怒犯天條》（1999年）
 
@@ -60,16 +56,10 @@ Askew宇宙的第一部作品。故事敘述兩名中產階級的超商店員但
 ## 外部連結
 
   - [The View Askewniverse](http://www.viewaskew.com/) - 公司的主頁
-  - [News
-    Askew](https://web.archive.org/web/20060721120720/http://newsaskew.com/)
-  - [1](https://maps.google.com/maps/ms?ie=UTF&msa=0&msid=202881275359967923060.000472984032a714c046a)
-    The View Askewniverse on Google maps
-  - [Radio Interview with Kevin Smith about the
-    Askewniverse](https://web.archive.org/web/20070110182540/http://www.fbi945movies.libsyn.com/index.php?post_id=132290)
-    from FBi 94.5 Sydney Australia
+  - [News Askew](https://web.archive.org/web/20060721120720/http://newsaskew.com/)
+  - [1](https://maps.google.com/maps/ms?ie=UTF&msa=0&msid=202881275359967923060.000472984032a714c046a) The View Askewniverse on Google maps
+  - [Radio Interview with Kevin Smith about the Askewniverse](https://web.archive.org/web/20070110182540/http://www.fbi945movies.libsyn.com/index.php?post_id=132290) from FBi 94.5 Sydney Australia
 
-[Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink")
-[Category:虚构宇宙](https://zh.wikipedia.org/wiki/Category:虚构宇宙 "wikilink")
-[Category:View_Askew宇宙](https://zh.wikipedia.org/wiki/Category:View_Askew宇宙 "wikilink")
+[Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:虚构宇宙](https://zh.wikipedia.org/wiki/Category:虚构宇宙 "wikilink") [Category:View_Askew宇宙](https://zh.wikipedia.org/wiki/Category:View_Askew宇宙 "wikilink")
 
 1.  <https://www.theguardian.com/film/2011/sep/24/kevin-smith-red-state?newsfeed=true>

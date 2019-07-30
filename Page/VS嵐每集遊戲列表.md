@@ -567,12 +567,10 @@
 | 493              |
 | 494              |
 | 495              |
+| 496              |
+| 497              |
+| 498              |
 
 ## 註釋
 
-[Category:嵐](https://zh.wikipedia.org/wiki/Category:嵐 "wikilink")
-[Category:富士電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台綜藝節目 "wikilink")
-[Category:緯來電視外購節目](https://zh.wikipedia.org/wiki/Category:緯來電視外購節目 "wikilink")
-[Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink")
-[Category:遊戲節目](https://zh.wikipedia.org/wiki/Category:遊戲節目 "wikilink")
-[Category:2008年日本電視節目](https://zh.wikipedia.org/wiki/Category:2008年日本電視節目 "wikilink")
+[Category:嵐](https://zh.wikipedia.org/wiki/Category:嵐 "wikilink") [Category:富士電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台綜藝節目 "wikilink") [Category:緯來電視外購節目](https://zh.wikipedia.org/wiki/Category:緯來電視外購節目 "wikilink") [Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink") [Category:遊戲節目](https://zh.wikipedia.org/wiki/Category:遊戲節目 "wikilink") [Category:2008年日本電視節目](https://zh.wikipedia.org/wiki/Category:2008年日本電視節目 "wikilink")

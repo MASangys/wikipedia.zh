@@ -1,4 +1,4 @@
-**OVERLORD**（）是日本小說家[丸山くがね創作的](https://zh.wikipedia.org/wiki/丸山くがね "wikilink")[輕小說系列](../Page/輕小說.md "wikilink")，最初是發表於小說投稿網站——Arcadia，之後改在[成為小說家吧上發表的網路連載小說](../Page/成為小說家吧.md "wikilink")，2012年正式發行書籍版（故事情節有若干變動，網路上的稱為web版），動畫版2015年7月於日本開始播放第一季。第二季於2018年1月播放。第三季於同年7月播放。
+**OVERLORD**（）是日本小說家[丸山くがね創作的](https://zh.wikipedia.org/wiki/丸山くがね "wikilink")[輕小說](../Page/輕小說.md "wikilink")系列，最初是發表於小說投稿網站——Arcadia，之後改在[成為小說家吧](../Page/成為小說家吧.md "wikilink")上發表的網路連載小說，2012年正式發行書籍版（故事情節有若干變動，網路上的稱為web版），動畫版2015年7月於日本開始播放第一季。第二季於2018年1月播放。第三季於同年7月播放。
 
 ## 介紹
 
@@ -15,8 +15,7 @@
 ### 相關設定
 
   - DMMO-RPG
-    全名「Dive Massively Multiplayer Online Role Playing
-    Game」，即在虛擬世界裏如同現實一樣的體驗型線上遊戲。
+    全名「Dive Massively Multiplayer Online Role Playing Game」，即在虛擬世界裏如同現實一樣的體驗型線上遊戲。
 
 <!-- end list -->
 
@@ -60,11 +59,8 @@
 ### 國家與組織
 
   -
-    前身是由塔其·米為首的『最初的九人』，反抗遊戲以轉職要求等形式鼓勵PK異形種，到異形種主場世界外闖蕩，自我調侃為「九人的自殺分」（Nine's
-    Own
-    Goal）並以此名創立集團（Clan），入會條件為**必須於社會工作者**及**種族為異形種**，並在遊戲中以認真扮演邪惡勢力為樂（此一背景設定後來影響了來到異世界後的NPC們的價值觀與思想）。
-    在成員增加到27人時以集團名之變體改組為公會安茲·烏爾·恭（Ainz Ooal
-    Gown），並在新會長飛鼠提案下**當天**攻略了納薩力克地下大墳墓成為據點，當時成員平均等級約九十級。成員為41人時為了保護情報而不再收人，在遊戲中是人數較少的公會（上限100人），之後由於現實生活的因素，成員陸續離開遊戲，公會含飛鼠在內只剩下4名成員，而維持每日登入的則僅剩飛鼠一人，其他只是掛名。
+    前身是由塔其·米為首的『最初的九人』，反抗遊戲以轉職要求等形式鼓勵PK異形種，到異形種主場世界外闖蕩，自我調侃為「九人的自殺分」（Nine's Own Goal）並以此名創立集團（Clan），入會條件為**必須於社會工作者**及**種族為異形種**，並在遊戲中以認真扮演邪惡勢力為樂（此一背景設定後來影響了來到異世界後的NPC們的價值觀與思想）。
+    在成員增加到27人時以集團名之變體改組為公會安茲·烏爾·恭（Ainz Ooal Gown），並在新會長飛鼠提案下**當天**攻略了納薩力克地下大墳墓成為據點，當時成員平均等級約九十級。成員為41人時為了保護情報而不再收人，在遊戲中是人數較少的公會（上限100人），之後由於現實生活的因素，成員陸續離開遊戲，公會含飛鼠在內只剩下4名成員，而維持每日登入的則僅剩飛鼠一人，其他只是掛名。
     飛鼠曾提議將公會名命名為「異形種動物園」，被評價為「意外還不壞」、「像是漫畫裡的龍套，好像很強，但下一格就輸了」、「挺喜歡的，挺有反派的感覺」等。翠玉錄則提議為「聖殿騎士團」，但沒有人聽懂他的哽，所以被立刻否決了\[1\]。
     成員中有許多從事美術、電腦程式設計工作的人並都是擁有經濟基礎的社會人，因此得以將納薩力克擴建為深達10層的巨大地下城，由他們投注無數心力所打造的NPC們亦有著極高的完成度。
     公會會長為飛鼠，但主要任務是聯絡與表決成員，而公會的運作也不是由公會長決定一切，而是少數服從多數。
@@ -132,7 +128,7 @@
 
   -
     簡稱**王國**。是鄰近納薩力克的三大國的其中之一，位於納薩力克的西北方，總人口約八百萬人的王國。
-    國體仍為貴族[封建制](../Page/封建.md "wikilink")，並因處於土地由王族擁有三成，大貴族佔有三成，小貴族擁有四成的分散結構導致王權薄弱，是一個王權處處受制於貴族而國力衰弱的國家。
+    國體仍為貴族[封建](../Page/封建.md "wikilink")制，並因處於土地由王族擁有三成，大貴族佔有三成，小貴族擁有四成的分散結構導致王權薄弱，是一個王權處處受制於貴族而國力衰弱的國家。
     由於貴族的抵制而難於推行改革，在故事的前幾年才剛剛廢除奴隸制，在建設與制度上往往落後於帝國與教國。
 
 :;
@@ -490,8 +486,7 @@
     1.  不會疲憊的「活力護手」(Gauntlet of Vitality)。
     2.  能夠持續治療的「不滅護符」(Amulet of Immortal)。
     3.  可以避開致命一擊，以最強硬度金屬精鋼所制成的「守護鎧甲」(Guardian)。
-    4.  為了追求銳利度經過魔化處理，削鐵如泥的魔法劍「剃刀之刃」(Razor
-        Edge)。（第九卷經安茲鑑定，擁有無視對手抗性直接造成傷害的效果，因此被安茲稱為能夠無視等級殺傷自己的武器）
+    4.  為了追求銳利度經過魔化處理，削鐵如泥的魔法劍「剃刀之刃」(Razor Edge)。（第九卷經安茲鑑定，擁有無視對手抗性直接造成傷害的效果，因此被安茲稱為能夠無視等級殺傷自己的武器）
     5.  第五大寶物：目前不明。
 
     EX：原初魔法戒指(詳細看原初魔法製成的道具)
@@ -1033,7 +1028,7 @@ ISBN 978-4-04-104680-7<small>（特裝版）</small></p></td>
 
 ## 電視動畫
 
-於2015年7月7日起播放電視，由[AT-X及](../Page/AT-X.md "wikilink")[MXTV等電視台放送](../Page/東京都會電視台.md "wikilink")。
+於2015年7月7日起播放電視，由[AT-X](../Page/AT-X.md "wikilink")及[MXTV等電視台放送](../Page/東京都會電視台.md "wikilink")。
 
 由於動畫播出的宣傳作用，至2015年10月底止系列小說在日本的銷售量已突破200萬冊。
 
@@ -1910,8 +1905,7 @@ Player vs Player</p></td>
 
 ### 迷你動畫
 
-2015年8月4日（第5話開始）於AT-X播放完結後放送的短篇動畫8月7日起在YouTube2周限定配信。第二期2018年1月9日開始於YouTube配信。第二期於同年7月9日開始於YouTube配信中。同樣由短篇動畫製作公司STUDIO
-PUYUKAI所製作的「[異世界四重奏](../Page/異世界四重奏.md "wikilink")」，將包含本作，預定於2019年4月播放。
+2015年8月4日（第5話開始）於AT-X播放完結後放送的短篇動畫8月7日起在YouTube2周限定配信。第二期2018年1月9日開始於YouTube配信。第二期於同年7月9日開始於YouTube配信中。同樣由短篇動畫製作公司STUDIO PUYUKAI所製作的[異世界四重奏](../Page/異世界四重奏.md "wikilink")，將包含本作，已於2019年4月播放。
 
 #### 製作人員
 
@@ -2256,10 +2250,7 @@ PUYUKAI所製作的「[異世界四重奏](../Page/異世界四重奏.md "wikili
 
 ## 劇場版
 
-小說第11集中宣布總集篇劇場版\[14\]。2016年11月24日宣布共有【前篇】「劇場版總集篇 OVERLORD
-不死者之王」2017年2月25日上映、【後篇】「劇場版總集篇 OVERLORD
-漆黑的英雄」2017年3月11日上映\[15\]。2017年1月15日宣布主題曲一樣由電視動畫，片頭、片尾曲的[OxT和](../Page/OxT.md "wikilink")[MYTH
-& ROID負責](../Page/MYTH_&_ROID.md "wikilink")\[16\]。
+小說第11集中宣布總集篇劇場版\[14\]。2016年11月24日宣布共有【前篇】「劇場版總集篇 OVERLORD 不死者之王」2017年2月25日上映、【後篇】「劇場版總集篇 OVERLORD 漆黑的英雄」2017年3月11日上映\[15\]。2017年1月15日宣布主題曲一樣由電視動畫，片頭、片尾曲的[OxT](../Page/OxT.md "wikilink")和[MYTH & ROID負責](../Page/MYTH_&_ROID.md "wikilink")\[16\]。
 
 ### 製作人員
 
@@ -2283,8 +2274,7 @@ PUYUKAI所製作的「[異世界四重奏](../Page/異世界四重奏.md "wikili
 
   - [電視動畫「OVERLORD」第二季&第三季](http://overlord-anime.com/)
 
-  - [OVERLORD登場角色人氣投票](http://info.nicovideo.jp/seiga/overlord_vote/) -
-    於2016年9月15日發表結果
+  - [OVERLORD登場角色人氣投票](http://info.nicovideo.jp/seiga/overlord_vote/) - 於2016年9月15日發表結果
 
   -
   - Web版小說
@@ -2295,18 +2285,9 @@ PUYUKAI所製作的「[異世界四重奏](../Page/異世界四重奏.md "wikili
 
   - [丸山くがね（小說家部落格）](http://mypage.syosetu.com/170524/)
 
-  - [天翼之鍊 ×
-    OVERLORD連動企劃](https://web.archive.org/web/20151119235709/http://talesweaver.nexon.co.jp/campaign/151118_overlord.aspx#/tieup)
+  - [天翼之鍊 × OVERLORD連動企劃](https://web.archive.org/web/20151119235709/http://talesweaver.nexon.co.jp/campaign/151118_overlord.aspx#/tieup)
 
-[Category:虛擬實境網路遊戲題材動漫](https://zh.wikipedia.org/wiki/Category:虛擬實境網路遊戲題材動漫 "wikilink")
-[Category:日本奇幻小說](https://zh.wikipedia.org/wiki/Category:日本奇幻小說 "wikilink")
-[Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink")
-[Category:成為小說家吧](https://zh.wikipedia.org/wiki/Category:成為小說家吧 "wikilink")
-[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")
-[Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
+[Category:虛擬實境網路遊戲題材動漫](https://zh.wikipedia.org/wiki/Category:虛擬實境網路遊戲題材動漫 "wikilink") [Category:日本奇幻小說](https://zh.wikipedia.org/wiki/Category:日本奇幻小說 "wikilink") [Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink") [Category:成為小說家吧](https://zh.wikipedia.org/wiki/Category:成為小說家吧 "wikilink") [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
 
 1.  BD特典4 「Prologue 上」
 

@@ -1,13 +1,8 @@
-**Aqours**（）是[日本](../Page/日本.md "wikilink")《[電擊G's
-magazine](../Page/電擊G's_magazine.md "wikilink")》杂志、[動畫公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")[日昇動畫與唱片公司](../Page/日昇動畫.md "wikilink")[Lantis共同推出的的用户互动型企划作品](../Page/Lantis.md "wikilink")[LoveLive\!
-Sunshine\!\!中登场的女性校园偶像团体或](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")[声优组成的组合](https://zh.wikipedia.org/wiki/声优 "wikilink")。由于其名称源自拉丁语“Aqua”（水）与英语“Ours”（我们的），故也被華人圈称为“水团”\[1\]。
+**Aqours**（）是[日本](../Page/日本.md "wikilink")《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》杂志、[動畫公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")[日昇動畫](../Page/日昇動畫.md "wikilink")與唱片公司[Lantis](../Page/Lantis.md "wikilink")共同推出的的用户互动型企划作品[LoveLive\! Sunshine\!\!中登场的女性校园偶像团体或](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")[声优组成的组合](https://zh.wikipedia.org/wiki/声优 "wikilink")。由于其名称源自拉丁语“Aqua”（水）与英语“Ours”（我们的），故也被華人圈称为“水团”\[1\]。
 
 ## 介紹
 
-2015年2月28日，官方在《[电击G's
-magazine](https://zh.wikipedia.org/wiki/电击G's_magazine "wikilink")》杂志上预告了新企划“LoveLive\!SunShine\!\!”的诞生。之后官方为决定新组合名称举行了投票，最终“Aqours”这一名称以4644票胜出\[2\]。2015年4月30日，官方在《电击G's
-magazine》2015年6月号上正式公布了“LoveLive\!
-Sunshine\!\!”的组合名称，同时公布了成员名字以及为其配音的声优阵容。2015年10月7日，Aqours以《[你的心灵是否光芒闪耀？](../Page/你的心灵是否光芒闪耀？.md "wikilink")》单曲正式出道\[3\]。
+2015年2月28日，官方在《[电击G's magazine](https://zh.wikipedia.org/wiki/电击G's_magazine "wikilink")》杂志上预告了新企划“LoveLive\!SunShine\!\!”的诞生。之后官方为决定新组合名称举行了投票，最终“Aqours”这一名称以4644票胜出\[2\]。2015年4月30日，官方在《电击G's magazine》2015年6月号上正式公布了“LoveLive\! Sunshine\!\!”的组合名称，同时公布了成员名字以及为其配音的声优阵容。2015年10月7日，Aqours以《[你的心灵是否光芒闪耀？](../Page/你的心灵是否光芒闪耀？.md "wikilink")》单曲正式出道\[3\]。
 
 在现实中，Aqours所属的唱片公司为Lantis。
 
@@ -17,8 +12,7 @@ Sunshine\!\!”的组合名称，同时公布了成员名字以及为其配音�
 
   - Aqours由以下9名成員構成，隊長為高海千歌。
   - 演出前與μ's不一樣的是，Aqours是喊出「Aqours\! Sunshine\!\!」。
-  - 與μ's類似，Aqours也分為三個迷你小隊，分別是：「**CYaRon\!**」（）「**AZALEA**」（）、「**Guilty
-    Kiss**」（），小队名称同样由网友投票产生\[4\]。此外亦有「宮林波（ぐ～りんぱ）」、「YYY（わいわいわい）」等非官方的小隊存在。
+  - 與μ's類似，Aqours也分為三個迷你小隊，分別是：「**CYaRon\!**」（）「**AZALEA**」（）、「**Guilty Kiss**」（），小队名称同样由网友投票产生\[4\]，並於2016年3月28日在官方網站公開。此外亦有「宮林波（ぐ～りんぱ）」、「YYY（わいわいわい）」等非官方的小隊存在。
 
 ### 基本資料
 
@@ -439,68 +433,62 @@ CD+DVD盤</p></td>
 </tbody>
 </table>
 
+### 小隊單曲
+
+| 小队名称        | \#         | 發售日                                                                       | 名稱                                                             | 最高位            | 販賣生產號      |
+| ----------- | ---------- | ------------------------------------------------------------------------- | -------------------------------------------------------------- | -------------- | ---------- |
+| CYaRon\!    | 1          | 2016年5月11日                                                                | [元氣全開DAY\!DAY\!DAY\!](../Page/元氣全開DAY!DAY!DAY!.md "wikilink")  | 6位             | LACM-14481 |
+| 2           | 2017年5月10日 | [不久将来的Happy End](https://zh.wikipedia.org/wiki/不久将来的Happy_End "wikilink") | 6位                                                             | LACM-14601     |            |
+| AZALEA      | 1          | 2016年5月25日                                                                | \[\[讓我俘虜你的心PLEASE                                              | |讓我俘虜你的心PLEASE | \]\]       |
+| 2           | 2017年5月31日 | [GALAXY HidE and SeeK](../Page/GALAXY_HidE_and_SeeK.md "wikilink")        | 4位                                                             | LACM-14602     |            |
+| Guilty Kiss | 1          | 2016年6月8日                                                                 | [Strawberry Trapper](../Page/Strawberry_Trapper.md "wikilink") | 5位             | LACM-14483 |
+| 2           | 2017年6月21日 | [脆弱易碎](../Page/脆弱易碎.md "wikilink")                                        | 4位                                                             | LACM-14603     |            |
+
 ## 演唱會
 
-  - LoveLive\! Sunshine\!\! Aqours 1st LoveLive\! ～Step\! ZERO to
-    ONE～（）
-    2017年2月25日和26日於[橫濱體育館舉辦的首場演唱會](../Page/橫濱體育館.md "wikilink")。
+  - LoveLive\! Sunshine\!\! Aqours 1st LoveLive\! ～Step\! ZERO to ONE～（）
+    2017年2月25日和26日於[橫濱體育館](../Page/橫濱體育館.md "wikilink")舉辦的首場演唱會。
     本次演唱会安排了日本国内及国外多个转播点进行卫星直播或延时录播。
-    演唱會當天的影片《[LoveLive\! Sunshine\!\! Aqours First LoveLive\! 〜Step\!
-    ZERO to
-    ONE\!\!〜](../Page/LoveLive!_Sunshine!!_Aqours_First_LoveLive!_〜Step!_ZERO_to_ONE!!〜.md "wikilink")》於2017年9月27日發行。
+    演唱會當天的影片《[LoveLive\! Sunshine\!\! Aqours First LoveLive\! 〜Step\! ZERO to ONE\!\!〜](../Page/LoveLive!_Sunshine!!_Aqours_First_LoveLive!_〜Step!_ZERO_to_ONE!!〜.md "wikilink")》於2017年9月27日發行。
 
 <!-- end list -->
 
-  - LoveLive\! Sunshine\!\! Aqours 2nd LoveLive\! HAPPY PARTY TRAIN
-    TOUR（）
+  - LoveLive\! Sunshine\!\! Aqours 2nd LoveLive\! HAPPY PARTY TRAIN TOUR（）
     分別於2017年8月5日和6日在、8月19日和20日在[神户](https://zh.wikipedia.org/wiki/神户 "wikilink")、9月29日和30日在[埼玉](https://zh.wikipedia.org/wiki/埼玉县 "wikilink")[大都會人壽巨蛋](../Page/西武巨蛋.md "wikilink")所舉辦的第二場演唱會，也是Aqours以及LoveLive\!企划首次巡回演唱会。
-    演唱會當天的影片《[LoveLive\! Sunshine\!\! Aqours 2nd LoveLive\! HAPPY PARTY
-    TRAIN
-    TOUR](../Page/LoveLive!_Sunshine!!_Aqours_2nd_LoveLive!_HAPPY_PARTY_TRAIN_TOUR.md "wikilink")》於2018年4月25日發行。
+    演唱會當天的影片《[LoveLive\! Sunshine\!\! Aqours 2nd LoveLive\! HAPPY PARTY TRAIN TOUR](../Page/LoveLive!_Sunshine!!_Aqours_2nd_LoveLive!_HAPPY_PARTY_TRAIN_TOUR.md "wikilink")》於2018年4月25日發行。
 
 <!-- end list -->
 
   - Saint Snow PRESENTS LOVELIVE\! SUNSHINE\!\! HAKODATE UNIT CARNIVAL
     2018年4月27日和28日在所舉辦的其他活動演唱會，也是首場以小隊形式及Saint Snow首度參與演出的演唱會。
-    演唱會當天的影片《[Saint Snow PRESENTS LOVELIVE\! SUNSHINE\!\! HAKODATE UNIT
-    CARNIVAL](https://zh.wikipedia.org/wiki/Saint_Snow_PRESENTS_LOVELIVE!_SUNSHINE!!_HAKODATE_UNIT_CARNIVAL "wikilink")》於2018年10月24日發行。
+    演唱會當天的影片《[Saint Snow PRESENTS LOVELIVE\! SUNSHINE\!\! HAKODATE UNIT CARNIVAL](https://zh.wikipedia.org/wiki/Saint_Snow_PRESENTS_LOVELIVE!_SUNSHINE!!_HAKODATE_UNIT_CARNIVAL "wikilink")》於2018年10月24日發行。
 
 <!-- end list -->
 
-  - LoveLive\! Sunshine\!\! Aqours 3rd LoveLive\! Tour ～WONDERFUL
-    STORIES～（）
-    2018年6月9日和10日在埼玉[大都會人壽巨蛋](../Page/西武巨蛋.md "wikilink")、6月16日和17日在[大阪城音樂廳](../Page/大阪城音樂廳.md "wikilink")、7月7日和8日在所舉辦的第三場演唱會，也是Aqours、Saint
-    snow（Saint Aqours Snow）以及LoveLive\!企劃第二次巡回演唱会。
+  - LoveLive\! Sunshine\!\! Aqours 3rd LoveLive\! Tour ～WONDERFUL STORIES～（）
+    2018年6月9日和10日在埼玉[大都會人壽巨蛋](../Page/西武巨蛋.md "wikilink")、6月16日和17日在[大阪城音樂廳](../Page/大阪城音樂廳.md "wikilink")、7月7日和8日在所舉辦的第三場演唱會，也是Aqours、Saint snow（Saint Aqours Snow）以及LoveLive\!企劃第二次巡回演唱会。
 
 <!-- end list -->
 
-  - LoveLive\! Sunshine\!\! Aqours 4th LoveLive\! ～Sailing to the
-    Sunshine～（）
-    於2018年11月17日和18日在[東京巨蛋的第四場演唱會](../Page/東京巨蛋.md "wikilink")，這也是Aqours第一次在東京巨蛋舉行演唱會。
+  - LoveLive\! Sunshine\!\! Aqours 4th LoveLive\! ～Sailing to the Sunshine～（）
+    於2018年11月17日和18日在[東京巨蛋](../Page/東京巨蛋.md "wikilink")的第四場演唱會，這也是Aqours第一次在東京巨蛋舉行演唱會。
 
 <!-- end list -->
 
   - LOVE LIVE\! SUNSHINE\!\! Aqours World LoveLive\! ASIA TOUR 2019
-    首次[亚洲巡回演唱会](../Page/亚洲.md "wikilink")。分别于2019年3月23日和24日在[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[国家会展中心虹馆EH](https://zh.wikipedia.org/wiki/国家会展中心_\(上海\) "wikilink")、4月6日和7日在[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")[国际会议中心](https://zh.wikipedia.org/wiki/台北国际会议中心 "wikilink")、4月13日和14日在[千叶](https://zh.wikipedia.org/wiki/千叶市 "wikilink")[幕张展览馆](https://zh.wikipedia.org/wiki/幕张展览馆 "wikilink")、4月20日和21日在[首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")[高丽大学化汀体育馆举行](https://zh.wikipedia.org/wiki/高丽大学 "wikilink")。
+    首次[亚洲](../Page/亚洲.md "wikilink")巡回演唱会。分别于2019年3月23日和24日在[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[国家会展中心虹馆EH](https://zh.wikipedia.org/wiki/国家会展中心_\(上海\) "wikilink")、4月6日和7日在[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")[国际会议中心](https://zh.wikipedia.org/wiki/台北国际会议中心 "wikilink")、4月13日和14日在[千叶](https://zh.wikipedia.org/wiki/千叶市 "wikilink")[幕张展览馆](https://zh.wikipedia.org/wiki/幕张展览馆 "wikilink")、4月20日和21日在[首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")[高丽大学化汀体育馆举行](https://zh.wikipedia.org/wiki/高丽大学 "wikilink")。
     成员[小宫有纱因身体不适缺席了上海和台北两站第一天的部分演出及第二天的全部演出](https://zh.wikipedia.org/wiki/小宫有纱 "wikilink")，其后被确诊为[荨麻疹](../Page/荨麻疹.md "wikilink")，缺席东京站和首尔站的全部演出。
 
 <!-- end list -->
 
-  - LoveLive\! Sunshine\!\! Aqours 5th LoveLive\! ～Next SPARKLING\!\!～
-    （）
+  - LoveLive\! Sunshine\!\! Aqours 5th LoveLive\! ～Next SPARKLING\!\!～ （）
     于2019年6月8日、9日在埼玉大都會人壽巨蛋举办的演唱会。这也是西武巨蛋第三次承办Aqours演唱会。
 
 ## 注释
 
 ## 参考文献
 
-[Category:Love_Live\!](https://zh.wikipedia.org/wiki/Category:Love_Live! "wikilink")
-[Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink")
-[Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink")
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:SCHOOL_OF_LOCK\!](https://zh.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink")
+[Category:Love_Live\!](https://zh.wikipedia.org/wiki/Category:Love_Live! "wikilink") [Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink") [Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:SCHOOL_OF_LOCK\!](https://zh.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink")
 
 1.
 2.

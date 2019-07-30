@@ -1,46 +1,38 @@
-《**SNL Korea**》（），全称《**Saturday Night Live
-Korea**》（）是于2011年12月3日起在韩国[tvN电视台播出的喜剧直播节目](../Page/TVN.md "wikilink")。节目是从美国[NBC电视台引进了](../Page/全国广播公司.md "wikilink")《[Saturday
-Night
-Live](../Page/週六夜現場.md "wikilink")》的形式并制作，与原版的SNL一样每周由嘉宾出演节目并现场直播。第三季连续3期直播后，接下来的一期将播出前几期的精选部分。自第五季起，SNL
-Korea的观众年龄分级从19岁调整至15岁。
+《**SNL Korea**》（），全称《**Saturday Night Live Korea**》（）是于2011年12月3日起在韩国[tvN电视台播出的喜剧直播节目](../Page/TVN.md "wikilink")。节目是从美国[NBC电视台引进了](../Page/全国广播公司.md "wikilink")《[Saturday Night Live](../Page/週六夜現場.md "wikilink")》的形式并制作，与原版的SNL一样每周由嘉宾出演节目并现场直播。第三季连续3期直播后，接下来的一期将播出前几期的精选部分。自第五季起，SNL Korea的观众年龄分级从19岁调整至15岁。
 
 ## 历史
 
 ### 第一季
 
-担任编剧和导演的电影导演和剧作家[张镇](../Page/張鎮_\(韓國導演\).md "wikilink")，正式宣布节目于2011年11月24日在举行圆桌会议新闻发布会。最初的演员是由17个成员：[张镇](../Page/張鎮_\(韓國導演\).md "wikilink")、[安英美](../Page/安英美.md "wikilink")、[李漢偉](../Page/李漢偉.md "wikilink")、[鄭雄仁](../Page/鄭雄仁.md "wikilink")、[金彬宇](../Page/金彬宇.md "wikilink")、[張英南](../Page/張英南.md "wikilink")、[金元海](https://zh.wikipedia.org/wiki/金元海 "wikilink")、、[李哲民](../Page/李哲民_\(演員\).md "wikilink")、、、[金志映](../Page/金志映_\(1974年\).md "wikilink")、[金智京](https://zh.wikipedia.org/wiki/金智京 "wikilink")、[閔書賢](../Page/閔書賢.md "wikilink")、、[高庚杓](../Page/高庚杓.md "wikilink")和[金瑟琪组成](../Page/金瑟琪.md "wikilink")。2011年12月3日首播集由演员[金柱赫出演](../Page/金柱赫.md "wikilink")。
+担任编剧和导演的电影导演和剧作家[张镇](../Page/張鎮_\(韓國導演\).md "wikilink")，正式宣布节目于2011年11月24日在举行圆桌会议新闻发布会。最初的演员是由17个成员：[张镇](../Page/張鎮_\(韓國導演\).md "wikilink")、[安英美](../Page/安英美.md "wikilink")、[李漢偉](../Page/李漢偉.md "wikilink")、[鄭雄仁](../Page/鄭雄仁.md "wikilink")、[金彬宇](../Page/金彬宇.md "wikilink")、[張英南](../Page/張英南.md "wikilink")、[金元海](https://zh.wikipedia.org/wiki/金元海 "wikilink")、、[李哲民](../Page/李哲民_\(演員\).md "wikilink")、、、[金志映](../Page/金志映_\(1974年\).md "wikilink")、[金智京](https://zh.wikipedia.org/wiki/金智京 "wikilink")、[閔書賢](../Page/閔書賢.md "wikilink")、、[高庚杓](../Page/高庚杓.md "wikilink")和[金瑟琪](../Page/金瑟琪.md "wikilink")组成。2011年12月3日首播集由演员[金柱赫](../Page/金柱赫.md "wikilink")出演。
 
 当时和作家[张镇谈到邀请嘉宾的困难](../Page/張鎮_\(韓國導演\).md "wikilink")，说“当你提供一个电影，你给他们一个脚本问他们如何，如果他们说不好，你就说这是好的然后转身，但让人们出现在这个节目，我不得不乞求。我甚至为了求他们出演这个节目，不惜给他们看我下一个电影的脚本。”第一季从2011年12月3日到2012年1月21日共八集。
 
 ### 第二季
 
-第二季从2012年5月26日到2012年7月14日共八集。演员成员是[张镇](../Page/張鎮_\(韓國導演\).md "wikilink")、[李漢偉](../Page/李漢偉.md "wikilink")、[金元海](https://zh.wikipedia.org/wiki/金元海 "wikilink")、[姜聲振](../Page/姜聲振.md "wikilink")、[張英南](../Page/張英南.md "wikilink")、、[金民教](../Page/金民教.md "wikilink")、、（2015年以前叫鄭明玉）、、、、[安英美](../Page/安英美.md "wikilink")、[权赫秀](https://zh.wikipedia.org/wiki/权赫秀 "wikilink")、[高庚杓和](../Page/高庚杓.md "wikilink")[金瑟琪](../Page/金瑟琪.md "wikilink")。
+第二季从2012年5月26日到2012年7月14日共八集。演员成员是[张镇](../Page/張鎮_\(韓國導演\).md "wikilink")、[李漢偉](../Page/李漢偉.md "wikilink")、[金元海](https://zh.wikipedia.org/wiki/金元海 "wikilink")、[姜聲振](../Page/姜聲振.md "wikilink")、[張英南](../Page/張英南.md "wikilink")、、[金民教](../Page/金民教.md "wikilink")、、（2015年以前叫鄭明玉）、、、、[安英美](../Page/安英美.md "wikilink")、[权赫秀](https://zh.wikipedia.org/wiki/权赫秀 "wikilink")、[高庚杓](../Page/高庚杓.md "wikilink")和[金瑟琪](../Page/金瑟琪.md "wikilink")。
 
 ### 第三季
 
-第三季从2012年9月8日到2012年11月15日共十七集。演员成员是[张镇](../Page/張鎮_\(韓國導演\).md "wikilink")、[申東燁](../Page/申東燁.md "wikilink")、[金元海](https://zh.wikipedia.org/wiki/金元海 "wikilink")、、、[金民教](../Page/金民教.md "wikilink")、、、、、[孙宝敏](https://zh.wikipedia.org/wiki/孙宝敏 "wikilink")、[徐宥利](../Page/徐宥利.md "wikilink")、、[权赫秀](https://zh.wikipedia.org/wiki/权赫秀 "wikilink")、[高庚杓和](../Page/高庚杓.md "wikilink")[金瑟琪](../Page/金瑟琪.md "wikilink")。
+第三季从2012年9月8日到2012年11月15日共十七集。演员成员是[张镇](../Page/張鎮_\(韓國導演\).md "wikilink")、[申東燁](../Page/申東燁.md "wikilink")、[金元海](https://zh.wikipedia.org/wiki/金元海 "wikilink")、、、[金民教](../Page/金民教.md "wikilink")、、、、、[孙宝敏](https://zh.wikipedia.org/wiki/孙宝敏 "wikilink")、[徐宥利](../Page/徐宥利.md "wikilink")、、[权赫秀](https://zh.wikipedia.org/wiki/权赫秀 "wikilink")、[高庚杓](../Page/高庚杓.md "wikilink")和[金瑟琪](../Page/金瑟琪.md "wikilink")。
 
 ### 第四季
 
 第四季从2013年2月2日到2013年11月23日共三十八集。
 
-[朴載範和](../Page/朴載範.md "wikilink")[朴恩智作为团队成员加入](../Page/朴恩智_\(演員\).md "wikilink")（他们都曾经在第三季作为主角出演过）。同时，[张镇](../Page/張鎮_\(韓國導演\).md "wikilink")、[高庚杓和](../Page/高庚杓.md "wikilink")退出团队。第四季的演员成员是[申東燁](../Page/申東燁.md "wikilink")、[金元海](https://zh.wikipedia.org/wiki/金元海 "wikilink")、、[安英美](../Page/安英美.md "wikilink")、[金民教](../Page/金民教.md "wikilink")、[金瑟琪](../Page/金瑟琪.md "wikilink")、、、[权赫秀](https://zh.wikipedia.org/wiki/权赫秀 "wikilink")、、[徐宥利](../Page/徐宥利.md "wikilink")、、[陈元](https://zh.wikipedia.org/wiki/陈元_\(演员\) "wikilink")、[朴載範和](../Page/朴載範.md "wikilink")[朴恩智](../Page/朴恩智_\(演員\).md "wikilink")。后来在本季新加入了、[俞世潤](../Page/俞世潤.md "wikilink")、[2EYES和](../Page/2EYES.md "wikilink")[Clara](../Page/李成敏.md "wikilink")。[陈元和](https://zh.wikipedia.org/wiki/陈元_\(演员\) "wikilink")[金瑟琪分别在第](../Page/金瑟琪.md "wikilink")18集与第24集退出团队。
+[朴載範](../Page/朴載範.md "wikilink")和[朴恩智作为团队成员加入](../Page/朴恩智_\(演員\).md "wikilink")（他们都曾经在第三季作为主角出演过）。同时，[张镇](../Page/張鎮_\(韓國導演\).md "wikilink")、[高庚杓](../Page/高庚杓.md "wikilink")和退出团队。第四季的演员成员是[申東燁](../Page/申東燁.md "wikilink")、[金元海](https://zh.wikipedia.org/wiki/金元海 "wikilink")、、[安英美](../Page/安英美.md "wikilink")、[金民教](../Page/金民教.md "wikilink")、[金瑟琪](../Page/金瑟琪.md "wikilink")、、、[权赫秀](https://zh.wikipedia.org/wiki/权赫秀 "wikilink")、、[徐宥利](../Page/徐宥利.md "wikilink")、、[陈元](https://zh.wikipedia.org/wiki/陈元_\(演员\) "wikilink")、[朴載範](../Page/朴載範.md "wikilink")和[朴恩智](../Page/朴恩智_\(演員\).md "wikilink")。后来在本季新加入了、[俞世潤](../Page/俞世潤.md "wikilink")、[2EYES](../Page/2EYES.md "wikilink")和[Clara](../Page/李成敏.md "wikilink")。[陈元和](https://zh.wikipedia.org/wiki/陈元_\(演员\) "wikilink")[金瑟琪](../Page/金瑟琪.md "wikilink")分别在第18集与第24集退出团队。
 
-导演安尚熙、白承龙、金敏和赵成慕被称为“SNL Korea's
-[F4](https://zh.wikipedia.org/wiki/花樣男子_\(漫畫\) "wikilink")”。
+导演安尚熙、白承龙、金敏和赵成慕被称为“SNL Korea's [F4](https://zh.wikipedia.org/wiki/花樣男子_\(漫畫\) "wikilink")”。
 
 ### 第五季
 
 第五季从2014年3月1日到2014年11月29日共三十五集。
 
-[Narsha](https://zh.wikipedia.org/wiki/朴孝珍 "wikilink") ([Brown Eyed
-Girls](../Page/Brown_Eyed_Girls.md "wikilink"))和[徐恩光](../Page/徐恩光.md "wikilink")
-([BTOB](../Page/BTOB.md "wikilink"))作为团队成员加入，[Clara退出团队](../Page/李成敏.md "wikilink")。环节停止，取而代之的是由[柳熙烈主持的迷你脱口秀](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")。
+[Narsha](https://zh.wikipedia.org/wiki/朴孝珍 "wikilink") ([Brown Eyed Girls](../Page/Brown_Eyed_Girls.md "wikilink"))和[徐恩光](../Page/徐恩光.md "wikilink") ([BTOB](../Page/BTOB.md "wikilink"))作为团队成员加入，[Clara退出团队](../Page/李成敏.md "wikilink")。环节停止，取而代之的是由[柳熙烈主持的迷你脱口秀](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")。
 
 ### 第六季
 
-第六季于2015年2月14日开始，2015年6月20日因播出[The
-Genius：终极总决赛而暂时中断](../Page/The_Genius.md "wikilink")。2015年9月19日恢复并播出至2015年12月19日。
+第六季于2015年2月14日开始，2015年6月20日因播出[The Genius：终极总决赛而暂时中断](../Page/The_Genius.md "wikilink")。2015年9月19日恢复并播出至2015年12月19日。
 
 ## 团队成员及嘉宾
 
@@ -130,7 +122,7 @@ Genius：终极总决赛而暂时中断](../Page/The_Genius.md "wikilink")。201
 <tr class="odd">
 <td><p><a href="../Page/張度練.md" title="wikilink">張度練</a></p></td>
 <td><p>第九季 - 至今</p></td>
-<td><p>第九季加入团队并接替<a href="../Page/沈素英.md" title="wikilink">沈素英主持周末播报</a>。</p></td>
+<td><p>第九季加入团队并接替<a href="../Page/沈素英.md" title="wikilink">沈素英</a>主持周末播报。</p></td>
 </tr>
 </tbody>
 </table>
@@ -1227,25 +1219,21 @@ Genius：终极总决赛而暂时中断](../Page/The_Genius.md "wikilink")。201
 
   - ：报道新闻梗概回顾本周社会的经济和文化问题。第一季至第三季由[张镇主持](../Page/張鎮_\(韓國導演\).md "wikilink")。
 
-      - 智慧的探索生活：这是在一周播报中播出的预先制作的环节，讽刺每周最热门的新闻和事件。旁白由[金瑟琪叙述](../Page/金瑟琪.md "wikilink")。
+      - 智慧的探索生活：这是在一周播报中播出的预先制作的环节，讽刺每周最热门的新闻和事件。旁白由[金瑟琪](../Page/金瑟琪.md "wikilink")叙述。
       - 派遣SNL：这个现场小品也是周报环节的一小部分，采访记者由[权赫秀扮演](https://zh.wikipedia.org/wiki/权赫秀 "wikilink")。
       - SNL邀请：这个现场小品同样是周报环节的一小部分，涉及到的当事人（通常是情节当集主角，有时是演员）在一周最著名事件的虚假或真实情况进行叙述。
 
-  - ：由SNL演员和主持人每周预录喜剧和音乐剧的“视频[短片](https://zh.wikipedia.org/wiki/短片 "wikilink")”（通常每集一到两个）。他们最流行的短片是对[俠盜獵車手系列的模仿](../Page/俠盜獵車手系列.md "wikilink")，从朝鲜时代到现代的军队。
+  - ：由SNL演员和主持人每周预录喜剧和音乐剧的“视频[短片](https://zh.wikipedia.org/wiki/短片 "wikilink")”（通常每集一到两个）。他们最流行的短片是对[俠盜獵車手系列](../Page/俠盜獵車手系列.md "wikilink")的模仿，从朝鲜时代到现代的军队。
 
-  - 李九敦PD的食物X档案：第三季后的环节，每周[申東燁](../Page/申東燁.md "wikilink")（扮演制作总监角色（李九敦PD））从其他演员的手中拿3到4种有趣的食物，来判断是否适合吃或不吃，然后迅速逃跑。这是一个模仿[Channel
-    A](../Page/Channel_A.md "wikilink")[资讯娱乐节目](../Page/资讯娱乐.md "wikilink")的环节。
+  - 李九敦PD的食物X档案：第三季后的环节，每周[申東燁](../Page/申東燁.md "wikilink")（扮演制作总监角色（李九敦PD））从其他演员的手中拿3到4种有趣的食物，来判断是否适合吃或不吃，然后迅速逃跑。这是一个模仿[Channel A](../Page/Channel_A.md "wikilink")[资讯娱乐](../Page/资讯娱乐.md "wikilink")节目的环节。
 
-  - 苹果实业：这是一个偶尔演出的小品，采用商业演讲的风格来广告独特的产品，由[申東燁演出](../Page/申東燁.md "wikilink")。穿着打扮类似于[苹果联合创始人](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[史蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")。
+  - 苹果实业：这是一个偶尔演出的小品，采用商业演讲的风格来广告独特的产品，由[申東燁](../Page/申東燁.md "wikilink")演出。穿着打扮类似于[苹果联合创始人](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[史蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")。
 
 ## 收视率
 
-2012年7月14日播出前两季的最后一集，由[组合](../Page/男子音乐组合.md "wikilink")[Super
-Junior出演](../Page/Super_Junior.md "wikilink")，这是他们出演的第一个非音乐节目，作为宣传他们第六张录音室专辑[Sexy,
-Free &
-Single的一部分](../Page/Sexy,_Free_&_Single.md "wikilink")。依照AGB尼尔森媒体研究，当集取得了全国1.334%的收视率。
+2012年7月14日播出前两季的最后一集，由[组合](../Page/男子音乐组合.md "wikilink")[Super Junior出演](../Page/Super_Junior.md "wikilink")，这是他们出演的第一个非音乐节目，作为宣传他们第六张录音室专辑[Sexy, Free & Single的一部分](../Page/Sexy,_Free_&_Single.md "wikilink")。依照AGB尼尔森媒体研究，当集取得了全国1.334%的收视率。
 
-2012年12月1日播出的第三季第13集由[朴載範出演](../Page/朴載範.md "wikilink")，取得了全国1.54%的收视率与1.85%的收视率峰值。20至49岁年龄段取得1.04%的收视率记录，并且40多岁女性的收视率达到了1.96%与峰值2.49%，成为这个时间段两个年龄组中收视率最高的节目。
+2012年12月1日播出的第三季第13集由[朴載範](../Page/朴載範.md "wikilink")出演，取得了全国1.54%的收视率与1.85%的收视率峰值。20至49岁年龄段取得1.04%的收视率记录，并且40多岁女性的收视率达到了1.96%与峰值2.49%，成为这个时间段两个年龄组中收视率最高的节目。
 
 每集收视率详情请参见[播出列表章节](https://zh.wikipedia.org/wiki/SNL_Korea#播出列表 "wikilink")。
 
@@ -1354,8 +1342,7 @@ Single的一部分](../Page/Sexy,_Free_&_Single.md "wikilink")。依照AGB尼尔
 
 ## 爭議事件
 
-  - 2016年11月26日播出內容中，节目成员李世英疑似對[B1A4做出不雅行動引起性騷擾疑雲](../Page/B1A4.md "wikilink")，事後製作組、李世英曾先後多次公開道歉。李世英也透過個人Instagram公開手寫信，向粉絲們道歉，並提到自己有在現場與每位成員一一道歉。B1A4所屬公司[WM娱乐也發表聲明](../Page/WM娱乐.md "wikilink")，表示已收到製作組充分的道歉，但粉絲們的憤怒未平，最後李世英也決定暫時從節目下車。而因有粉絲向警察廳檢舉，請警察調查李世英的性騷擾嫌疑，警方也將傳喚B1A4，以及在先前節目中有遭遇類似情形的[INFINITE與](../Page/INFINITE.md "wikilink")[Block
-    B針對性騷擾疑雲進行調查](../Page/Block_B.md "wikilink")。
+  - 2016年11月26日播出內容中，节目成员李世英疑似對[B1A4](../Page/B1A4.md "wikilink")做出不雅行動引起性騷擾疑雲，事後製作組、李世英曾先後多次公開道歉。李世英也透過個人Instagram公開手寫信，向粉絲們道歉，並提到自己有在現場與每位成員一一道歉。B1A4所屬公司[WM娱乐](../Page/WM娱乐.md "wikilink")也發表聲明，表示已收到製作組充分的道歉，但粉絲們的憤怒未平，最後李世英也決定暫時從節目下車。而因有粉絲向警察廳檢舉，請警察調查李世英的性騷擾嫌疑，警方也將傳喚B1A4，以及在先前節目中有遭遇類似情形的[INFINITE](../Page/INFINITE.md "wikilink")與[Block B針對性騷擾疑雲進行調查](../Page/Block_B.md "wikilink")。
 
 <!-- end list -->
 
@@ -1509,8 +1496,4 @@ Single的一部分](../Page/Sexy,_Free_&_Single.md "wikilink")。依照AGB尼尔
   -
   -
   -
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:正在播放的电视节目](https://zh.wikipedia.org/wiki/Category:正在播放的电视节目 "wikilink")
-[Category:讽刺类电视节目](https://zh.wikipedia.org/wiki/Category:讽刺类电视节目 "wikilink")
-[Category:TvN](https://zh.wikipedia.org/wiki/Category:TvN "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
+[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:正在播放的电视节目](https://zh.wikipedia.org/wiki/Category:正在播放的电视节目 "wikilink") [Category:讽刺类电视节目](https://zh.wikipedia.org/wiki/Category:讽刺类电视节目 "wikilink") [Category:TvN](https://zh.wikipedia.org/wiki/Category:TvN "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")

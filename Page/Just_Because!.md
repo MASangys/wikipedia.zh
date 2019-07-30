@@ -1,5 +1,4 @@
-《**Just
-Because\!**》是由[鴨志田一擔任劇本統籌及編劇](https://zh.wikipedia.org/wiki/鴨志田一 "wikilink")、[比村奇石擔任人物原案的](../Page/比村奇石.md "wikilink")[日本原創](../Page/日本.md "wikilink")[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，於2017年10月5日起在[AT-X電視台首播](../Page/AT-X.md "wikilink")\[1\]\[2\]。
+《**Just Because\!**》是由[鴨志田一擔任劇本統籌及編劇](https://zh.wikipedia.org/wiki/鴨志田一 "wikilink")、[比村奇石](../Page/比村奇石.md "wikilink")擔任人物原案的[日本](../Page/日本.md "wikilink")原創[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，於2017年10月5日起在[AT-X](../Page/AT-X.md "wikilink")電視台首播\[1\]\[2\]。
 
 ## 故事簡介
 
@@ -7,23 +6,19 @@ Because\!**》是由[鴨志田一擔任劇本統籌及編劇](https://zh.wikiped
 
 ## 概要
 
-2017年5月30日，作為完全新作的原創動畫被發佈。劇本、系列構成是[櫻花莊的寵物女孩的作者](../Page/櫻花莊的寵物女孩.md "wikilink")[鴨志田一](https://zh.wikipedia.org/wiki/鴨志田一 "wikilink")，角色原案則由[星期一的豐滿之](../Page/星期一的豐滿.md "wikilink")[比村奇石擔任](../Page/比村奇石.md "wikilink")。動畫製作公司由[PINE
-JAM所擔當](../Page/PINE_JAM.md "wikilink")，本作品也是該公司首次的原創動畫作品。廣告的宣傳標語是『因為喜歡那個人的妳的側顏，是那麼的美麗――』。
+2017年5月30日，作為完全新作的原創動畫被發佈。劇本、系列構成是[櫻花莊的寵物女孩](../Page/櫻花莊的寵物女孩.md "wikilink")的作者[鴨志田一](https://zh.wikipedia.org/wiki/鴨志田一 "wikilink")，角色原案則由[星期一的豐滿](../Page/星期一的豐滿.md "wikilink")之[比村奇石](../Page/比村奇石.md "wikilink")擔任。動畫製作公司由[PINE JAM所擔當](../Page/PINE_JAM.md "wikilink")，本作品也是該公司首次的原創動畫作品。廣告的宣傳標語是『因為喜歡那個人的妳的側顏，是那麼的美麗――』。
 
-動畫主要以[神奈川縣](../Page/神奈川縣.md "wikilink")[鐮倉市和](https://zh.wikipedia.org/wiki/鐮倉市 "wikilink")[藤澤市為舞台](../Page/藤澤市.md "wikilink")。學校取景以
-為基礎，這也是導演小林敦本人的母校。\[3\]動畫中單軌電車取景自[湘南單軌電車](../Page/湘南單軌電車.md "wikilink")。\[4\]
+動畫主要以[神奈川縣](../Page/神奈川縣.md "wikilink")[鐮倉市和](https://zh.wikipedia.org/wiki/鐮倉市 "wikilink")[藤澤市](../Page/藤澤市.md "wikilink")為舞台。學校取景以 為基礎，這也是導演小林敦本人的母校。\[3\]動畫中單軌電車取景自[湘南單軌電車](../Page/湘南單軌電車.md "wikilink")。\[4\]
 
-本作物品設計部分由[佳能提供相機贊助合作](../Page/佳能.md "wikilink")\[5\]，[伊藤園和](../Page/伊藤園.md "wikilink")[山葉公司發動機協力製作](../Page/山葉公司.md "wikilink")，背景部分由湘南單軌電車和有限公司協力製作。
+本作物品設計部分由[佳能](../Page/佳能.md "wikilink")提供相機贊助合作\[5\]，[伊藤園](../Page/伊藤園.md "wikilink")和[山葉公司](../Page/山葉公司.md "wikilink")發動機協力製作，背景部分由湘南單軌電車和有限公司協力製作。
 
 ## 登場人物
 
 ### 主要人物
 
   -
-    本作男主角。因父親工作變動在國二第二學期末時搬去[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")，時隔四年
-    回到這座城市而跟過去的友人再會。
-    中學時期就暗戀著夏目，同時也知道夏目暗戀陽斗，已推甄上上叡大學（[上智大學](../Page/上智大學.md "wikilink")），但想改考夏目想就讀的翠山學院大學的經濟學部
-    （[青山學院大學](../Page/青山學院大學.md "wikilink")）。
+    本作男主角。因父親工作變動在國二第二學期末時搬去[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")，時隔四年 回到這座城市而跟過去的友人再會。
+    中學時期就暗戀著夏目，同時也知道夏目暗戀陽斗，已推甄上上叡大學（[上智大學](../Page/上智大學.md "wikilink")），但想改考夏目想就讀的翠山學院大學的經濟學部 （[青山學院大學](../Page/青山學院大學.md "wikilink")）。
     不知道夏目改考上叡大學的情況下，仍然去參與翠山學院大學入學考試，放榜查看榜單時與夏目和小宮同時露出了微笑，但實則苦笑並未上榜。在畢業典禮後，收到小宮的正式告白，並慎重地拒絕了；同時也收到了夏目的訊息，相約後山，但是因為太晚前往而沒有遇見。最終，於開學幾星期後再校園內遇見考上同校的夏目，並告白。
 
 <!-- end list -->
@@ -32,10 +27,10 @@ JAM所擔當](../Page/PINE_JAM.md "wikilink")，本作品也是該公司首次�
     本作女主角。三年一班。與瑛太和陽斗為國中同學，中學時期與瑛太在委員會經常說話以及在一次契機之下受到陽斗的幫助而暗戀著陽斗，現在是正在為了大學入學考試而努力的準考生。
     原本的第一志願是想跟姐姐一樣念翠山學院大學，但在受姐姐的點提下與瑛太的緣故，想改考[偏差值更高的上叡大學的](https://zh.wikipedia.org/wiki/學力偏差值 "wikilink")[教育學系](https://zh.wikipedia.org/wiki/教育學系 "wikilink")。在瑛太不知情的情況下參與上叡大學入學考試，後在家中收到上叡大學的合格通知書，與瑛太、小宮同時露出了微笑。畢業典禮上為畢業生代表，於畢業典禮後與同班同學相約唱KTV，離開時向同學說晚點過去，並傳訊息給瑛太相約後山，打算告白但是瑛太卻沒有到，到了傍晚才收到瑛太的訊息說晚到了，但是夏目在等待已久後接到同學催促KTV聚會而離開，沒有相遇。最後，在開學幾星期後在上叡大學校園內傳訊息與瑛太相遇並互相表白。
   -
-    瑛太在中學時代的好友。三年一班。原棒球部成員，引退後也常常在球場練習打擊。高中畢業後打算在[人造衛星相關企業就職但心裡其實是想要升學的](../Page/人造衛星.md "wikilink")，只是因為家中環境而選擇就業。十分害怕狗。
+    瑛太在中學時代的好友。三年一班。原棒球部成員，引退後也常常在球場練習打擊。高中畢業後打算在[人造衛星](../Page/人造衛星.md "wikilink")相關企業就職但心裡其實是想要升學的，只是因為家中環境而選擇就業。十分害怕狗。
     喜歡森川，第一次告白被馬上拒絕，後森川表示拒絕的太輕率這樣是對相馬不禮貌的行為為由，對相馬說會再認真給予一次回復，讓相馬燃起希望。在棒球場再次被森川拒絕，森川以馬上就要赴遠地上大學，因各自皆須適應新環境為由而無法維持這段感情為由而拒絕，表示未來各自適應了大學生活和出社會的工作情況下，詢問相馬是否可以再考慮她，做女朋友。
   -
-    已經推甄上位在[兵庫縣大學的原](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[管樂隊成員](https://zh.wikipedia.org/wiki/管樂隊 "wikilink")。三年一班。家裡是有著三代歷史的農家，家裡的屋子大的令水族館團一行人驚豔，家裡有養一隻狗。在班上不引人注目，是陽斗的[暗戀對象](../Page/暗戀.md "wikilink")。
+    已經推甄上位在[兵庫縣大學的原](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[管樂隊成員](https://zh.wikipedia.org/wiki/管樂隊 "wikilink")。三年一班。家裡是有著三代歷史的農家，家裡的屋子大的令水族館團一行人驚豔，家裡有養一隻狗。在班上不引人注目，是陽斗的[暗戀](../Page/暗戀.md "wikilink")對象。
     被相馬告白後驚慌的拒絕之後，向好友乾表示是不禮貌的行為，會在和相馬認真的做出一次回復，之後在表白中告訴相馬因即將前往遠方大學讀書距離遙遠可能無法認真對待這份感情而拒絕，後希望在雙方新生活穩定後詢問相馬是否可以再考慮她作女朋友。
   -
     攝影社成員，對於攝影社有著異常的執著。高二。
@@ -45,14 +40,11 @@ JAM所擔當](../Page/PINE_JAM.md "wikilink")，本作品也是該公司首次�
 ### 三年一班
 
   -
-    三年一班。葉月的青梅竹馬。在班上往往為文靜的葉月發聲，是葉月的摯友，也時常幫相馬助攻。已經作為體保生推甄上大學的原田徑隊成員。似乎喜歡吃肉包，在水族館時
-    向相馬陽斗要求的回報便是肉包，在棒球場助攻
-    要求的回報也是披薩包子。新年參拜時在Line群組提議去，後來因應放鴿子的計畫與美緒和瑛太去葛原岡神社。
+    三年一班。葉月的青梅竹馬。在班上往往為文靜的葉月發聲，是葉月的摯友，也時常幫相馬助攻。已經作為體保生推甄上大學的原田徑隊成員。似乎喜歡吃肉包，在水族館時 向相馬陽斗要求的回報便是肉包，在棒球場助攻 要求的回報也是披薩包子。新年參拜時在Line群組提議去，後來因應放鴿子的計畫與美緒和瑛太去葛原岡神社。
   -
     三年一班。與美緒同班也同補習班的高考夥伴。班上跟美緒、真由子、桃花是同一個群體，但因與美緒同為受試生，兩人在一起的時間是最長的。
   -
-    三年一班。美緒的好朋友。健談、情緒高昂的高中女生。畢業後將前往時尚系的職校。最近的煩惱是作為準考生的早苗跟美緒因為考試壓力不跟他們一起出去玩。在美緒還沒開始在意起瑛太之前，知道美緒暗戀陽斗因此與佐藤真由子一同在第三學期開學時送給美緒御守
-    。
+    三年一班。美緒的好朋友。健談、情緒高昂的高中女生。畢業後將前往時尚系的職校。最近的煩惱是作為準考生的早苗跟美緒因為考試壓力不跟他們一起出去玩。在美緒還沒開始在意起瑛太之前，知道美緒暗戀陽斗因此與佐藤真由子一同在第三學期開學時送給美緒御守 。
   -
     三年一班最受矚目的女生。美緒的好朋友。有是大學生的男朋友，最近因為對方回簡訊非常慢而有所不滿。在美緒還沒開始在意起瑛太之前，知道美緒暗戀陽斗，討厭葉月，將她稱作，在看到葉月換髮型後心情十分不悅。
   -
@@ -65,7 +57,7 @@ JAM所擔當](../Page/PINE_JAM.md "wikilink")，本作品也是該公司首次�
   - 小宮惠那
     請參見主要人物。
   -
-    討厭現充的攝影社成員。二年級。攝影能力意外地不錯。每當看到校內上演著酸甜青春的學生們時，就會在社辦裡抱怨，但見到小宮在[西洋情人節送的巧克力後卻又興奮的與山口薰討論起](https://zh.wikipedia.org/wiki/西洋情人節 "wikilink")[白色情人節的回送事宜了](../Page/白色情人節.md "wikilink")。
+    討厭現充的攝影社成員。二年級。攝影能力意外地不錯。每當看到校內上演著酸甜青春的學生們時，就會在社辦裡抱怨，但見到小宮在[西洋情人節送的巧克力後卻又興奮的與山口薰討論起](https://zh.wikipedia.org/wiki/西洋情人節 "wikilink")[白色情人節](../Page/白色情人節.md "wikilink")的回送事宜了。
   -
     攝影社成員。。與清水澈皆私藏了一些小宮惠那的照片。
   -
@@ -77,10 +69,10 @@ JAM所擔當](../Page/PINE_JAM.md "wikilink")，本作品也是該公司首次�
     森川葉月的妹妹。
 
   - 、
-    森川葉月的兩個弟弟，與乾依子關係不錯。對[水生動物有興趣](../Page/水生動物.md "wikilink")，有著蠻豐富的[鯊魚知識](https://zh.wikipedia.org/wiki/鯊魚 "wikilink")。
+    森川葉月的兩個弟弟，與乾依子關係不錯。對[水生動物](../Page/水生動物.md "wikilink")有興趣，有著蠻豐富的[鯊魚知識](https://zh.wikipedia.org/wiki/鯊魚 "wikilink")。
 
   -
-    工作變動頻繁，故事發生四年前與家人從[神奈川縣遷往](../Page/神奈川縣.md "wikilink")[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")，現又以工作變動爲由遷回。
+    工作變動頻繁，故事發生四年前與家人從[神奈川縣](../Page/神奈川縣.md "wikilink")遷往[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")，現又以工作變動爲由遷回。
 
   -
 
@@ -115,15 +107,11 @@ JAM所擔當](../Page/PINE_JAM.md "wikilink")，本作品也是該公司首次�
   - 音樂監製：[柳柳](../Page/柳柳.md "wikilink")
   - 音樂：[柳柳](../Page/柳柳.md "wikilink")、深澤惠梨香
   - 音樂製作人：川口真司
-  - 音樂製作：[NBC環球娛樂](../Page/NBC環球娛樂.md "wikilink")、[INCS
-    toenter](../Page/INCS_toenter.md "wikilink")
+  - 音樂製作：[NBC環球娛樂](../Page/NBC環球娛樂.md "wikilink")、[INCS toenter](../Page/INCS_toenter.md "wikilink")
   - 動畫製片人：向峠和喜
   - 製片人：福永佳祐、大上裕真、岡村武真、金子廣孝、大森慎司
   - 動畫製作：[PINE JAM](../Page/PINE_JAM.md "wikilink")
-  - 製作：[Just
-    Because\!製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（NBC環球、月鈴舎、PINE
-    JAM、[創通](../Page/創通.md "wikilink")、[TOKYO
-    MX](../Page/東京都會電視台.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")、[BS富士](../Page/BS富士.md "wikilink")）
+  - 製作：[Just Because\!製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（NBC環球、月鈴舎、PINE JAM、[創通](../Page/創通.md "wikilink")、[TOKYO MX](../Page/東京都會電視台.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")、[BS富士](../Page/BS富士.md "wikilink")）
 
 ## 主題曲
 
@@ -476,15 +464,13 @@ Lunch·BOX、<a href="../Page/小美野雅彥.md" title="wikilink">小美野雅�
 
 ## 網路電台
 
-《**Radio Because\!
-〜花凜和Lynn的應援電台〜**》（）是一檔網路電台節目，2017年9月13日開始至2018年1月3日止每周星期三在[niconico頻道上播放](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")\[8\]\[9\]。節目由夏目美緒的聲優[礒部花凜與小宮惠那的聲優](../Page/礒部花凜.md "wikilink")[Lynn負責主持](https://zh.wikipedia.org/wiki/Lynn_\(日本女配音員\) "wikilink")。
+《**Radio Because\! 〜花凜和Lynn的應援電台〜**》（）是一檔網路電台節目，2017年9月13日開始至2018年1月3日止每周星期三在[niconico頻道上播放](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")\[8\]\[9\]。節目由夏目美緒的聲優[礒部花凜](../Page/礒部花凜.md "wikilink")與小宮惠那的聲優[Lynn負責主持](https://zh.wikipedia.org/wiki/Lynn_\(日本女配音員\) "wikilink")。
 
 ## 小說
 
-附屬原作小說於2017年9月6日起在2017年10月號的《》雜誌上開始連載\[10\]。插畫由導演小林敦繪製，單行本於2017年11月25日由[MediaWorks文庫刊行](../Page/MediaWorks文庫.md "wikilink")\[11\]。
+附屬原作小說於2017年9月6日起在2017年10月號的《》雜誌上開始連載\[10\]。插畫由導演小林敦繪製，單行本於2017年11月25日由[MediaWorks文庫](../Page/MediaWorks文庫.md "wikilink")刊行\[11\]。
 
-另外在BD/DVD初回限定版裡，有刊行由劇本鴨志田一執筆，以小宮惠那的視角為出發，來看待整篇故事的小說「Shallow
-Focus」，同BD/DVD發行卷數，共六個章節。
+另外在BD/DVD初回限定版裡，有刊行由劇本鴨志田一執筆，以小宮惠那的視角為出發，來看待整篇故事的小說「Shallow Focus」，同BD/DVD發行卷數，共六個章節。
 
 <table>
 <thead>
@@ -517,14 +503,9 @@ Focus」，同BD/DVD發行卷數，共六個章節。
   - [電視動畫《Just Because\!》官方網站](http://justbecause.jp/)
 
   -
-  - [Just Because\! Media works
-    小說官方網站](http://mwbunko.com/978-4-04-893384-1/)
+  - [Just Because\! Media works 小說官方網站](http://mwbunko.com/978-4-04-893384-1/)
 
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:戀愛動畫](https://zh.wikipedia.org/wiki/Category:戀愛動畫 "wikilink")
-[Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink")
-[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:戀愛動畫](https://zh.wikipedia.org/wiki/Category:戀愛動畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 2.

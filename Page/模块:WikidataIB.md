@@ -1,28 +1,8 @@
-\-- Module to implement use of a blacklist and whitelist for infobox
-fields -- Can take a named parameter |qid which is the Wikidata ID for
-the article -- if not supplied, it will use the Wikidata ID associated
-with the current page. -- Fields in blacklist are never to be displayed,
-i.e. module must return nil in all circumstances -- Fields in whitelist
-return local value if it exists or the Wikidata value otherwise -- The
-name of the field that this function is called from is passed in named
-parameter |name -- The name is compulsory when blacklist or whitelist is
-used, -- so the module returns nil if it is not supplied. -- blacklist
-is passed in named parameter |suppressfields (or |spf) -- whitelist is
-passed in named parameter |fetchwikidata (or |fwd)
+\-- Module to implement use of a blacklist and whitelist for infobox fields -- Can take a named parameter |qid which is the Wikidata ID for the article -- if not supplied, it will use the Wikidata ID associated with the current page. -- Fields in blacklist are never to be displayed, i.e. module must return nil in all circumstances -- Fields in whitelist return local value if it exists or the Wikidata value otherwise -- The name of the field that this function is called from is passed in named parameter |name -- The name is compulsory when blacklist or whitelist is used, -- so the module returns nil if it is not supplied. -- blacklist is passed in named parameter |suppressfields (or |spf) -- whitelist is passed in named parameter |fetchwikidata (or |fwd)
 
 local p = {}
 
-local cdate -- initialise as nil and only load _complex_date function
-if needed -- [Module:Complex
-date](https://zh.wikipedia.org/wiki/Module:Complex_date "wikilink") is
-loaded lazily and has the following dependencies: -- Module:I18n/complex
-date, Module:ISOdate, Module:DateI18n (alternative for Module:Date), --
-Module:Formatnum, Module:I18n/date, Module:Yesno, Module:Linguistic,
-Module:Calendar -- The following, taken from
-<https://www.mediawiki.org/wiki/Wikibase/DataModel#Dates_and_times>, --
-is needed to use Module:Complex date which seemingly requires date
-precision as a string. -- It would work better if only the authors of
-the mediawiki page could spell 'millennium'. local dp = {
+local cdate -- initialise as nil and only load _complex_date function if needed -- [Module:Complex date](https://zh.wikipedia.org/wiki/Module:Complex_date "wikilink") is loaded lazily and has the following dependencies: -- Module:I18n/complex date, Module:ISOdate, Module:DateI18n (alternative for Module:Date), -- Module:Formatnum, Module:I18n/date, Module:Yesno, Module:Linguistic, Module:Calendar -- The following, taken from <https://www.mediawiki.org/wiki/Wikibase/DataModel#Dates_and_times>, -- is needed to use Module:Complex date which seemingly requires date precision as a string. -- It would work better if only the authors of the mediawiki page could spell 'millennium'. local dp = {
 
 `   [6] = "millennium",`
 `   [7] = "century",`
@@ -84,25 +64,19 @@ local i18n = {
 `       [12] = " trillion",`
 `   }`
 
-} -- This allows a internationisation module to override the above table
-if 'en' \~= mw.getContentLanguage():getCode() then
+} -- This allows a internationisation module to override the above table if 'en' \~= mw.getContentLanguage():getCode() then
 
 `   require("Module:i18n").loadI18n("Module:WikidataIB/i18n", i18n)`
 
 end
 
-\-- This piece of html implements a collapsible container. Check the
-classes exist on your wiki. local collapsediv = '
+\-- This piece of html implements a collapsible container. Check the classes exist on your wiki. local collapsediv = '
 
 <div class="mw-collapsible mw-collapsed" style="width:100%; overflow:auto;" data-expandtext="{{int:show}}" data-collapsetext="{{int:hide}}">
 
 '
 
-\-- Some items should not be linked. -- Each wiki can create a list of
-those in Module:WikidataIB/nolinks -- It should return a table called
-itemsindex, containing true for each item not to be linked local
-donotlink = {} local nolinks_exists, nolinks = pcall(mw.loadData,
-"Module:WikidataIB/nolinks") if nolinks_exists then
+\-- Some items should not be linked. -- Each wiki can create a list of those in Module:WikidataIB/nolinks -- It should return a table called itemsindex, containing true for each item not to be linked local donotlink = {} local nolinks_exists, nolinks = pcall(mw.loadData, "Module:WikidataIB/nolinks") if nolinks_exists then
 
 `   donotlink = nolinks.itemsindex`
 
@@ -118,10 +92,7 @@ end
 
 -----
 
-\-- makeOrdinal needs to be internationalised along with the above: --
-takes cardinal numer as a numeric and returns the ordinal as a string --
-we need three exceptions in English for 1st, 2nd, 3rd, 21st, .. 31st,
-etc.
+\-- makeOrdinal needs to be internationalised along with the above: -- takes cardinal numer as a numeric and returns the ordinal as a string -- we need three exceptions in English for 1st, 2nd, 3rd, 21st, .. 31st, etc.
 
 -----
 
@@ -150,10 +121,7 @@ end
 
 -----
 
-\-- findLang takes a "langcode" parameter if supplied and valid --
-otherwise it tries to create it from the user's set language () --
-failing that it uses the wiki's content language. -- It returns a
-language object
+\-- findLang takes a "langcode" parameter if supplied and valid -- otherwise it tries to create it from the user's set language () -- failing that it uses the wiki's content language. -- It returns a language object
 
 -----
 
@@ -181,12 +149,7 @@ end
 
 -----
 
-\-- _getItemLangCode takes a qid parameter (using the current page's
-qid if blank) -- If the item for that qid has property country (P17) it
-looks at the first preferred value -- If the country has an official
-language (P37), it looks at the first preferred value -- If that
-official language has a language code (P424), it returns the first
-preferred value -- Otherwise it returns nothing.
+\-- _getItemLangCode takes a qid parameter (using the current page's qid if blank) -- If the item for that qid has property country (P17) it looks at the first preferred value -- If the country has an official language (P37), it looks at the first preferred value -- If that official language has a language code (P424), it returns the first preferred value -- Otherwise it returns nothing.
 
 -----
 
@@ -213,8 +176,7 @@ end
 
 -----
 
-\-- roundto takes a number (x) -- and returns it rounded to (sf)
-significant figures
+\-- roundto takes a number (x) -- and returns it rounded to (sf) significant figures
 
 -----
 
@@ -241,8 +203,7 @@ end
 
 -----
 
-\-- decimalToDMS takes a decimal degrees (x) with precision (p) -- and
-returns degrees/minutes/seconds according to the precision
+\-- decimalToDMS takes a decimal degrees (x) with precision (p) -- and returns degrees/minutes/seconds according to the precision
 
 -----
 
@@ -280,9 +241,7 @@ end
 
 -----
 
-\-- decimalPrecision takes a decimal (x) with precision (p) -- and
-returns x rounded approximately to the given precision -- precision
-should be between 1 and 1e-6, preferably a power of 10.
+\-- decimalPrecision takes a decimal (x) with precision (p) -- and returns x rounded approximately to the given precision -- precision should be between 1 and 1e-6, preferably a power of 10.
 
 -----
 
@@ -315,11 +274,7 @@ end
 
 -----
 
-\-- formatDate takes a datetime of the usual format from
-mw.wikibase.entity:formatPropertyValues -- like "1 August 30 BCE" as
-parameter 1 -- and formats it according to the df (date format) and bc
-parameters -- df = \["dmy" / "mdy" / "y"\] default will be "dmy" -- bc =
-\["BC" / "BCE"\] default will be "BCE"
+\-- formatDate takes a datetime of the usual format from mw.wikibase.entity:formatPropertyValues -- like "1 August 30 BCE" as parameter 1 -- and formats it according to the df (date format) and bc parameters -- df = \["dmy" / "mdy" / "y"\] default will be "dmy" -- bc = \["BC" / "BCE"\] default will be "BCE"
 
 -----
 
@@ -376,14 +331,7 @@ end
 
 -----
 
-\-- dateFormat is the handler for properties that are of type "time" --
-It takes timestamp, precision (6 to 11 per mediawiki), dateformat
-(y/dmy/mdy), BC format (BC/BCE), -- a plaindate switch (yes/no/adj) to
-en/disable "sourcing cirumstances"/use adjectival form, -- any
-qualifiers for the property, the language, and any adjective to use like
-'before'. -- It passes the date through the "complex date" function --
-and returns a string with the internatonalised date formatted according
-to preferences.
+\-- dateFormat is the handler for properties that are of type "time" -- It takes timestamp, precision (6 to 11 per mediawiki), dateformat (y/dmy/mdy), BC format (BC/BCE), -- a plaindate switch (yes/no/adj) to en/disable "sourcing cirumstances"/use adjectival form, -- any qualifiers for the property, the language, and any adjective to use like 'before'. -- It passes the date through the "complex date" function -- and returns a string with the internatonalised date formatted according to preferences.
 
 -----
 
@@ -391,8 +339,7 @@ to preferences.
 
 -----
 
-local dateFormat = function(timestamp, dprec, df, bcf, pd, qualifiers,
-lang, adj, model)
+local dateFormat = function(timestamp, dprec, df, bcf, pd, qualifiers, lang, adj, model)
 
 `   -- A year can be stored like this: "+1872-00-00T00:00:00Z",`
 `   -- which is processed here as if it were the day before "+1872-01-01T00:00:00Z",`
@@ -486,10 +433,7 @@ end
 
 -----
 
-\-- parseParam takes a (string) parameter, e.g. from the list of frame
-arguments, -- and makes "false", "no", and "0" into the (boolean) false
--- it makes the empty string and nil into the (boolean) value passed as
-default -- allowing the parameter to be true or false by default.
+\-- parseParam takes a (string) parameter, e.g. from the list of frame arguments, -- and makes "false", "no", and "0" into the (boolean) false -- it makes the empty string and nil into the (boolean) value passed as default -- allowing the parameter to be true or false by default.
 
 -----
 
@@ -514,12 +458,7 @@ end
 
 -----
 
-\-- _getSitelink takes the qid of a Wikidata entity passed as |qid= --
-It takes an optional parameter |wiki= to determine which wiki is to be
-checked for a sitelink -- If the parameter is blank, then it uses the
-local wiki. -- If there is a sitelink to an article available, it
-returns the plain text link to the article -- If there is no sitelink,
-it returns nil.
+\-- _getSitelink takes the qid of a Wikidata entity passed as |qid= -- It takes an optional parameter |wiki= to determine which wiki is to be checked for a sitelink -- If the parameter is blank, then it uses the local wiki. -- If there is a sitelink to an article available, it returns the plain text link to the article -- If there is no sitelink, it returns nil.
 
 -----
 
@@ -545,12 +484,7 @@ end
 
 -----
 
-\-- _getCommonslink takes an optional qid of a Wikidata entity passed
-as |qid= -- It returns one of the following in order of preference: --
-the Commons sitelink of the Wikidata entity - but not if onlycat=true
-and it's not a category; -- the Commons sitelink of the topic's main
-category of the Wikidata entity; -- the Commons category of the Wikidata
-entity - unless fallback=false.
+\-- _getCommonslink takes an optional qid of a Wikidata entity passed as |qid= -- It returns one of the following in order of preference: -- the Commons sitelink of the Wikidata entity - but not if onlycat=true and it's not a category; -- the Commons sitelink of the topic's main category of the Wikidata entity; -- the Commons category of the Wikidata entity - unless fallback=false.
 
 -----
 
@@ -589,11 +523,7 @@ end
 
 -----
 
-\-- The label in a Wikidata item is subject to vulnerabilities -- that
-an attacker might try to exploit. -- It needs to be 'sanitised' by
-removing any wikitext before use. -- If it doesn't exist, return the id
-for the item -- a second (boolean) value is also returned, value is true
-when the label exists
+\-- The label in a Wikidata item is subject to vulnerabilities -- that an attacker might try to exploit. -- It needs to be 'sanitised' by removing any wikitext before use. -- If it doesn't exist, return the id for the item -- a second (boolean) value is also returned, value is true when the label exists
 
 -----
 
@@ -614,15 +544,7 @@ end
 
 -----
 
-\-- linkedItem takes an entity-id and returns a string, linked if
-possible. -- This is the handler for "wikibase-item". Preferences: -- 1.
-Display linked disambiguated sitelink if it exists -- 2. Display linked
-label if it is a redirect -- 3. TBA: Display an inter-language link for
-the label if it exists other than in default language -- 4. Display
-unlinked label if it exists -- 5. Display entity-id for now to indicate
-a label could be provided -- dtxt is text to be used instead of label,
-or nil. -- shortname is boolean switch to use P1813 (short name) instead
-of label if true. -- lang is the current language code.
+\-- linkedItem takes an entity-id and returns a string, linked if possible. -- This is the handler for "wikibase-item". Preferences: -- 1. Display linked disambiguated sitelink if it exists -- 2. Display linked label if it is a redirect -- 3. TBA: Display an inter-language link for the label if it exists other than in default language -- 4. Display unlinked label if it exists -- 5. Display entity-id for now to indicate a label could be provided -- dtxt is text to be used instead of label, or nil. -- shortname is boolean switch to use P1813 (short name) instead of label if true. -- lang is the current language code.
 
 -----
 
@@ -630,8 +552,7 @@ of label if true. -- lang is the current language code.
 
 -----
 
-local linkedItem = function(id, lprefix, lpostfix, prefix, postfix,
-dtxt, shortname, lang)
+local linkedItem = function(id, lprefix, lpostfix, prefix, postfix, dtxt, shortname, lang)
 
 `   lprefix = lprefix or "" -- toughen against nil values passed`
 `   lpostfix = lpostfix or ""`
@@ -669,18 +590,14 @@ dtxt, shortname, lang)
 `           if donotlink[label] then`
 `               disp = prefix .. label .. postfix`
 `           else`
-`               disp = "`[`"``   ``..``   ``prefix``   ``..``
- ``label``   ``..``   ``postfix``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._lprefix_.._sitelink_.._lpostfix_.._" "wikilink")`"`
+`               disp = "`[`"``   ``..``   ``prefix``   ``..``   ``label``   ``..``   ``postfix``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._lprefix_.._sitelink_.._lpostfix_.._" "wikilink")`"`
 `           end`
 `       elseif islabel then`
 `           -- no sitelink, label exists, so check if a redirect with that title exists`
 `           local artitle = mw.title.new(label, 0)`
 `           if artitle and artitle.redirectTarget and not donotlink[label] then`
 `               -- there's a redirect with the same title as the label, so let's link to that`
-`               disp = "`[`"``   ``..``   ``prefix``   ``..``
- ``label``   ``..``   ``postfix``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/".._lprefix_.._label_.._lpostfix_.._" "wikilink")`"`
+`               disp = "`[`"``   ``..``   ``prefix``   ``..``   ``label``   ``..``   ``postfix``   ``..``   ``"`](https://zh.wikipedia.org/wiki/".._lprefix_.._label_.._lpostfix_.._" "wikilink")`"`
 `           else`
 `               -- no sitelink, label exists, not redirect (or donotlink) so output plain label`
 `               disp = prefix .. label .. postfix`
@@ -694,14 +611,10 @@ dtxt, shortname, lang)
 `       local ccat = mw.wikibase.getBestStatements(id, "P373")[1]`
 `       if ccat and ccat.mainsnak.datavalue then`
 `           ccat = ccat.mainsnak.datavalue.value`
-`           disp = "`[`"``   ``..``   ``prefix``   ``..``   ``label``
- ``..``   ``postfix``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._lprefix_.._"Category:"_.._ccat_.._lpostfix_.._" "wikilink")`"`
+`           disp = "`[`"``   ``..``   ``prefix``   ``..``   ``label``   ``..``   ``postfix``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._lprefix_.._"Category:"_.._ccat_.._lpostfix_.._" "wikilink")`"`
 `       elseif sitelink then`
 `           -- this asumes that if a sitelink exists, then a label also exists`
-`           disp = "`[`"``   ``..``   ``prefix``   ``..``   ``label``
- ``..``   ``postfix``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._lprefix_.._sitelink_.._lpostfix_.._" "wikilink")`"`
+`           disp = "`[`"``   ``..``   ``prefix``   ``..``   ``label``   ``..``   ``postfix``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._lprefix_.._sitelink_.._lpostfix_.._" "wikilink")`"`
 `       else`
 `           -- no sitelink and no Commons cat, so return label from labelOrId for now`
 `           disp = prefix .. label .. postfix`
@@ -713,10 +626,7 @@ end
 
 -----
 
-\-- sourced takes a table representing a statement that may or may not
-have references -- it counts how many references are sourced to
-something not containing the word "wikipedia" -- it returns a boolean =
-true if there are any sourced references.
+\-- sourced takes a table representing a statement that may or may not have references -- it counts how many references are sourced to something not containing the word "wikipedia" -- it returns a boolean = true if there are any sourced references.
 
 -----
 
@@ -739,12 +649,7 @@ end
 
 -----
 
-\-- setRanks takes a flag (parameter passed) that requests the values to
-return -- "b\[est\]" returns preferred if available, otherwise normal --
-"p\[referred\]" returns preferred -- "n\[ormal\]" returns normal --
-"d\[eprecated\]" returns deprecated -- multiple values are allowed, e.g.
-"preferred normal" (which is the default) -- "best" will override the
-other flags, and set p and n
+\-- setRanks takes a flag (parameter passed) that requests the values to return -- "b\[est\]" returns preferred if available, otherwise normal -- "p\[referred\]" returns preferred -- "n\[ormal\]" returns normal -- "d\[eprecated\]" returns deprecated -- multiple values are allowed, e.g. "preferred normal" (which is the default) -- "best" will override the other flags, and set p and n
 
 -----
 
@@ -775,12 +680,7 @@ end
 
 -----
 
-\-- parseInput processes the Q-id , the blacklist and the whitelist --
-if an input parameter is supplied, it returns that and ends the call. --
-it returns (1) either the qid or nil indicating whether or not the call
-should continue -- and (2) a table containing all of the statements for
-the propertyID and relevant Qid -- if "best" ranks are requested, it
-returns those instead of all non-deprecated ranks
+\-- parseInput processes the Q-id , the blacklist and the whitelist -- if an input parameter is supplied, it returns that and ends the call. -- it returns (1) either the qid or nil indicating whether or not the call should continue -- and (2) a table containing all of the statements for the propertyID and relevant Qid -- if "best" ranks are requested, it returns those instead of all non-deprecated ranks
 
 -----
 
@@ -854,8 +754,7 @@ end
 
 -----
 
-\-- createicon assembles the "Edit at Wikidata" pen icon. -- It returns
-a wikitext string.
+\-- createicon assembles the "Edit at Wikidata" pen icon. -- It returns a wikitext string.
 
 -----
 
@@ -878,10 +777,7 @@ end
 
 -----
 
-\-- assembleoutput takes the sequence table containing the property
-values -- and formats it according to switches given. It returns a
-string or nil. -- It needs the entityID and propertyID to create a link
-in the pen icon.
+\-- assembleoutput takes the sequence table containing the property values -- and formats it according to switches given. It returns a string or nil. -- It needs the entityID and propertyID to create a link in the pen icon.
 
 -----
 
@@ -957,24 +853,15 @@ end
 
 -----
 
-\-- rendersnak takes a table (propval) containing the information stored
-on one property value -- and returns the value as a string and its
-language if monolingual text. -- It handles data of type: --
-wikibase-item -- time -- string, url, commonsMedia, external-id --
-quantity -- globe-coordinate -- monolingualtext -- It also requires
-linked, the link/pre/postfixes, uabbr, and the arguments passed from
-frame. -- The optional filter parameter allows quantities to be be
-filtered by unit Qid.
+\-- rendersnak takes a table (propval) containing the information stored on one property value -- and returns the value as a string and its language if monolingual text. -- It handles data of type: -- wikibase-item -- time -- string, url, commonsMedia, external-id -- quantity -- globe-coordinate -- monolingualtext -- It also requires linked, the link/pre/postfixes, uabbr, and the arguments passed from frame. -- The optional filter parameter allows quantities to be be filtered by unit Qid.
 
 -----
 
-\-- Dependencies: parseParam(); labelOrId(); i18n\[\]; dateFormat(); --
-roundto(); decimalPrecision(); decimalToDMS(); linkedItem();
+\-- Dependencies: parseParam(); labelOrId(); i18n\[\]; dateFormat(); -- roundto(); decimalPrecision(); decimalToDMS(); linkedItem();
 
 -----
 
-local rendersnak = function(propval, args, linked, lpre, lpost, pre,
-post, uabbr, filter)
+local rendersnak = function(propval, args, linked, lpre, lpost, pre, post, uabbr, filter)
 
 `   lpre = lpre or ""`
 `   lpost = lpost or ""`
@@ -1040,9 +927,7 @@ post, uabbr, filter)
 `           -- don't link if no linkpre/postfix or linkprefix is just ":"`
 `           val = pre .. dv .. post`
 `       else`
-`           val = "`[`"``   ``..``   ``pre``   ``..``   ``dv``   ``..``
- ``post``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._lpre_.._dv_.._lpost_.._" "wikilink")`"`
+`           val = "`[`"``   ``..``   ``pre``   ``..``   ``dv``   ``..``   ``post``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._lpre_.._dv_.._lpost_.._" "wikilink")`"`
 `       end -- check for link requested (i.e. either linkprefix or linkpostfix exists)`
 `       ------------------------------------`
 `   -- data types which are quantities:`
@@ -1244,16 +1129,11 @@ end
 
 -----
 
-\-- propertyvalueandquals takes a property object, the arguments passed
-from frame, -- and a qualifier propertyID. -- It returns a sequence
-(table) of values representing the values of that property -- and
-qualifiers that match the qualifierID if supplied.
+\-- propertyvalueandquals takes a property object, the arguments passed from frame, -- and a qualifier propertyID. -- It returns a sequence (table) of values representing the values of that property -- and qualifiers that match the qualifierID if supplied.
 
 -----
 
-\-- Dependencies: parseParam(); sourced(); labelOrId();
-i18n.latestdatequalifier(); format_Date(); -- makeOrdinal(); roundto();
-decimalPrecision(); decimalToDMS(); assembleoutput();
+\-- Dependencies: parseParam(); sourced(); labelOrId(); i18n.latestdatequalifier(); format_Date(); -- makeOrdinal(); roundto(); decimalPrecision(); decimalToDMS(); assembleoutput();
 
 -----
 
@@ -1490,8 +1370,7 @@ end
 
 -----
 
-\-- Dependencies: parseParam; setRanks; parseInput; sourced;
-assembleoutput;
+\-- Dependencies: parseParam; setRanks; parseInput; sourced; assembleoutput;
 
 -----
 
@@ -1567,14 +1446,7 @@ end
 
 -----
 
-\-- _location takes Q-id and follows P276 (location) -- or P131
-(located in the administrative territorial entity) or P706 (located on
-terrain feature) -- from the initial item to higher level
-territories/locations until it reaches the highest. -- An optional
-boolean, 'first', determines whether the first item is returned
-(default: false). -- An optional boolean 'skip' toggles the display to
-skip to the last item (default: false). -- It returns a table containing
-the locations - linked where possible, except for the highest.
+\-- _location takes Q-id and follows P276 (location) -- or P131 (located in the administrative territorial entity) or P706 (located on terrain feature) -- from the initial item to higher level territories/locations until it reaches the highest. -- An optional boolean, 'first', determines whether the first item is returned (default: false). -- An optional boolean 'skip' toggles the display to skip to the last item (default: false). -- It returns a table containing the locations - linked where possible, except for the highest.
 
 -----
 
@@ -1715,17 +1587,11 @@ end
 
 -----
 
-\-- _getsumofparts scans the property 'has part' (P527) for values
-matching a list. -- The list (args.vlist) consists of a string of Qids
-separated by spaces or any usual punctuation. -- If the matched values
-have a qualifer 'quantity' (P1114), those quantites are summed. -- The
-sum is returned as a number (i.e. 0 if none) -- a table of arguments is
-supplied implementing the usual parameters.
+\-- _getsumofparts scans the property 'has part' (P527) for values matching a list. -- The list (args.vlist) consists of a string of Qids separated by spaces or any usual punctuation. -- If the matched values have a qualifer 'quantity' (P1114), those quantites are summed. -- The sum is returned as a number (i.e. 0 if none) -- a table of arguments is supplied implementing the usual parameters.
 
 -----
 
-\-- Dependencies: setRanks; parseParam; parseInput; sourced;
-assembleoutput;
+\-- Dependencies: setRanks; parseParam; parseInput; sourced; assembleoutput;
 
 -----
 
@@ -1769,18 +1635,11 @@ end
 
 -----
 
-\-- getValue is used to get the value(s) of a property -- The property
-ID is passed as the first unnamed parameter and is required. -- A
-locally supplied parameter may optionaly be supplied as the second
-unnamed parameter. -- The function will now also return qualifiers if
-parameter qual is supplied
+\-- getValue is used to get the value(s) of a property -- The property ID is passed as the first unnamed parameter and is required. -- A locally supplied parameter may optionaly be supplied as the second unnamed parameter. -- The function will now also return qualifiers if parameter qual is supplied
 
 -----
 
-\-- Dependencies: setRanks; parseInput; propertyvalueandquals;
-assembleoutput; parseParam; sourced; -- labelOrId;
-i18n.latestdatequalifier; format_Date; makeOrdinal; roundto;
-decimalPrecision; decimalToDMS;
+\-- Dependencies: setRanks; parseInput; propertyvalueandquals; assembleoutput; parseParam; sourced; -- labelOrId; i18n.latestdatequalifier; format_Date; makeOrdinal; roundto; decimalPrecision; decimalToDMS;
 
 -----
 
@@ -1832,17 +1691,11 @@ end
 
 -----
 
-\-- getPreferredValue is used to get a value, -- (or a comma separated
-list of them if multiple values exist). -- If preferred ranks are set,
-it will return those values, otherwise values with normal ranks -- now
-redundant to getValue with |rank=best
+\-- getPreferredValue is used to get a value, -- (or a comma separated list of them if multiple values exist). -- If preferred ranks are set, it will return those values, otherwise values with normal ranks -- now redundant to getValue with |rank=best
 
 -----
 
-\-- Dependencies: p.getValue; setRanks; parseInput;
-propertyvalueandquals; assembleoutput; -- parseParam; sourced;
-labelOrId; i18n.latestdatequalifier; format_Date; -- makeOrdinal;
-roundto; decimalPrecision; decimalToDMS;
+\-- Dependencies: p.getValue; setRanks; parseInput; propertyvalueandquals; assembleoutput; -- parseParam; sourced; labelOrId; i18n.latestdatequalifier; format_Date; -- makeOrdinal; roundto; decimalPrecision; decimalToDMS;
 
 -----
 
@@ -1855,9 +1708,7 @@ end
 
 -----
 
-\-- getCoords is used to get coordinates for display in an infobox --
-whitelist and blacklist are implemented -- optional 'display' parameter
-is allowed, defaults to "inline, title"
+\-- getCoords is used to get coordinates for display in an infobox -- whitelist and blacklist are implemented -- optional 'display' parameter is allowed, defaults to "inline, title"
 
 -----
 
@@ -1906,19 +1757,11 @@ end
 
 -----
 
-\-- getQualifierValue is used to get a formatted value of a qualifier --
--- The call needs: a property (the unnamed parameter or 1=) -- a target
-value for that property (pval=) -- a qualifier for that target value
-(qual=) -- The usual whitelisting and blacklisting of the property is
-implemented -- The boolean onlysourced= parameter can be set to return
-nothing -- when the property is unsourced (or only sourced to Wikipedia)
+\-- getQualifierValue is used to get a formatted value of a qualifier -- -- The call needs: a property (the unnamed parameter or 1=) -- a target value for that property (pval=) -- a qualifier for that target value (qual=) -- The usual whitelisting and blacklisting of the property is implemented -- The boolean onlysourced= parameter can be set to return nothing -- when the property is unsourced (or only sourced to Wikipedia)
 
 -----
 
-\-- Dependencies: parseParam(); setRanks(); parseInput(); sourced(); --
-propertyvalueandquals(); assembleoutput(); -- labelOrId();
-i18n.latestdatequalifier(); format_Date(); -- findLang();
-makeOrdinal(); roundto(); decimalPrecision(); decimalToDMS();
+\-- Dependencies: parseParam(); setRanks(); parseInput(); sourced(); -- propertyvalueandquals(); assembleoutput(); -- labelOrId(); i18n.latestdatequalifier(); format_Date(); -- findLang(); makeOrdinal(); roundto(); decimalPrecision(); decimalToDMS();
 
 -----
 
@@ -1989,12 +1832,7 @@ end
 
 -----
 
-\-- getSumOfParts scans the property 'has part' (P527) for values
-matching a list. -- The list is passed in parameter vlist. -- It
-consists of a string of Qids separated by spaces or any usual
-punctuation. -- If the matched values have a qualifier 'quantity'
-(P1114), those quantities are summed. -- The sum is returned as a number
-or nothing if zero.
+\-- getSumOfParts scans the property 'has part' (P527) for values matching a list. -- The list is passed in parameter vlist. -- It consists of a string of Qids separated by spaces or any usual punctuation. -- If the matched values have a qualifier 'quantity' (P1114), those quantities are summed. -- The sum is returned as a number or nothing if zero.
 
 -----
 
@@ -2012,17 +1850,11 @@ end
 
 -----
 
-\-- getValueByQual gets the value of a property which has a qualifier
-with a given entity value -- The call needs: -- a property ID (the
-unnamed parameter or 1=Pxxx) -- the ID of a qualifier for that property
-(qualID=Pyyy) -- the Wikibase-entity ID of a value for that qualifier
-(qvalue=Qzzz) -- The usual whitelisting, blacklisting, onlysourced, etc.
-are implemented
+\-- getValueByQual gets the value of a property which has a qualifier with a given entity value -- The call needs: -- a property ID (the unnamed parameter or 1=Pxxx) -- the ID of a qualifier for that property (qualID=Pyyy) -- the Wikibase-entity ID of a value for that qualifier (qvalue=Qzzz) -- The usual whitelisting, blacklisting, onlysourced, etc. are implemented
 
 -----
 
-\-- Dependencies: _getvaluebyqual; parseParam; setRanks; parseInput;
-sourced; -- assembleoutput;
+\-- Dependencies: _getvaluebyqual; parseParam; setRanks; parseInput; sourced; -- assembleoutput;
 
 -----
 
@@ -2041,18 +1873,11 @@ end
 
 -----
 
-\-- getValueByLang gets the value of a property which has a qualifier
-P407 -- ("language of work or name") whose value has the given language
-code -- The call needs: -- a property ID (the unnamed parameter or
-1=Pxxx) -- the MediaWiki language code to match the language
-(lang=xx\[-yy\]) -- (if no code is supplied, it uses the default
-language) -- The usual whitelisting, blacklisting, onlysourced, etc. are
-implemented
+\-- getValueByLang gets the value of a property which has a qualifier P407 -- ("language of work or name") whose value has the given language code -- The call needs: -- a property ID (the unnamed parameter or 1=Pxxx) -- the MediaWiki language code to match the language (lang=xx\[-yy\]) -- (if no code is supplied, it uses the default language) -- The usual whitelisting, blacklisting, onlysourced, etc. are implemented
 
 -----
 
-\-- Dependencies: _getvaluebyqual; parseParam; setRanks; parseInput;
-sourced; assembleoutput;
+\-- Dependencies: _getvaluebyqual; parseParam; setRanks; parseInput; sourced; assembleoutput;
 
 -----
 
@@ -2078,17 +1903,11 @@ end
 
 -----
 
-\-- getValueByRefSource gets the value of a property which has a
-reference "stated in" (P248) -- whose value has the given entity code.
--- The call needs: -- a property ID (the unnamed parameter or 1=Pxxx) --
-the entity ID of a value to match where the reference is stated in
-(match=Qzzz) -- The usual whitelisting, blacklisting, onlysourced, etc.
-are implemented
+\-- getValueByRefSource gets the value of a property which has a reference "stated in" (P248) -- whose value has the given entity code. -- The call needs: -- a property ID (the unnamed parameter or 1=Pxxx) -- the entity ID of a value to match where the reference is stated in (match=Qzzz) -- The usual whitelisting, blacklisting, onlysourced, etc. are implemented
 
 -----
 
-\-- Dependencies: parseParam; setRanks; parseInput; sourced;
-propertyvalueandquals assembleoutput;
+\-- Dependencies: parseParam; setRanks; parseInput; sourced; propertyvalueandquals assembleoutput;
 
 -----
 
@@ -2178,16 +1997,11 @@ end
 
 -----
 
-\-- getPropOfProp takes two propertyIDs: prop1 and prop2 (as well as the
-usual parameters) -- If the value(s) of prop1 are of type
-"wikibase-item" then it returns the value(s) of prop2 -- of each of
-those wikibase-items. -- The usual whitelisting, blacklisting,
-onlysourced, etc. are implemented
+\-- getPropOfProp takes two propertyIDs: prop1 and prop2 (as well as the usual parameters) -- If the value(s) of prop1 are of type "wikibase-item" then it returns the value(s) of prop2 -- of each of those wikibase-items. -- The usual whitelisting, blacklisting, onlysourced, etc. are implemented
 
 -----
 
-\-- Dependencies: parseParam; setRanks; parseInput; sourced;
-propertyvalueandquals assembleoutput;
+\-- Dependencies: parseParam; setRanks; parseInput; sourced; propertyvalueandquals assembleoutput;
 
 -----
 
@@ -2233,18 +2047,11 @@ end
 
 -----
 
-\-- getAwardCat takes most of the usual parameters. If the item has
-values of P166 (award received), -- then it examines each of those
-awards for P2517 (category for recipients of this award). -- If it
-exists, it returns the corresponding category, -- with the item's P734
-(family name) as sort key, or no sort key if there is no family name. --
-The sort key may be overridden by the parameter |sortkey (alias |sk). --
-The usual whitelisting, blacklisting, onlysourced, etc. are implemented
+\-- getAwardCat takes most of the usual parameters. If the item has values of P166 (award received), -- then it examines each of those awards for P2517 (category for recipients of this award). -- If it exists, it returns the corresponding category, -- with the item's P734 (family name) as sort key, or no sort key if there is no family name. -- The sort key may be overridden by the parameter |sortkey (alias |sk). -- The usual whitelisting, blacklisting, onlysourced, etc. are implemented
 
 -----
 
-\-- Dependencies: parseParam; setRanks; parseInput; sourced;
-propertyvalueandquals assembleoutput;
+\-- Dependencies: parseParam; setRanks; parseInput; sourced; propertyvalueandquals assembleoutput;
 
 -----
 
@@ -2312,17 +2119,11 @@ p.getAwardCat = function(frame)
 `                   end`
 `                   if sitelink then`
 `                       if sk ~= "" then`
-`                           out[#out+1] = "`[`"``   ``..``   ``sk``
- ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._lp_.._sitelink_.._" "wikilink")`"`
+`                           out[#out+1] = "`[`"``   ``..``   ``sk``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._lp_.._sitelink_.._" "wikilink")`"`
 `                       elseif famname ~= "" then`
-`                           out[#out+1] = "`[`"``   ``..``
- ``famname``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._lp_.._sitelink_.._" "wikilink")`"`
+`                           out[#out+1] = "`[`"``   ``..``   ``famname``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._lp_.._sitelink_.._" "wikilink")`"`
 `                       else`
-`                           out[#out+1] = "`[`"``   ``..``   ``lp``
- ``..``   ``sitelink``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._lp_.._sitelink_.._" "wikilink")`"`
+`                           out[#out+1] = "`[`"``   ``..``   ``lp``   ``..``   ``sitelink``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._lp_.._sitelink_.._" "wikilink")`"`
 `                       end -- of check for sort keys`
 `                   end -- of test for sitelink`
 `               end -- of test for category`
@@ -2336,23 +2137,11 @@ end
 
 -----
 
-\-- getIntersectCat takes most of the usual parameters. -- The usual
-whitelisting, blacklisting, onlysourced, etc. are implemented -- It
-takes two properties, |prop1 and |prop2 (e.g. occupation and country of
-citizenship) -- Each property's value is a wiki-base entity -- For each
-value of the first parameter (ranks implemented) it fetches the value's
-main category -- and then each value of the second parameter (possibly
-substituting a simpler description) -- then it returns all of the
-categories representing the intersection of those properties, -- (e.g.
-Category:Actors from Canada). A joining term may be supplied (e.g.
-|join=from). -- The item's P734 (family name) is the sort key, or no
-sort key if there is no family name. -- The sort key may be overridden
-by the parameter |sortkey (alias |sk).
+\-- getIntersectCat takes most of the usual parameters. -- The usual whitelisting, blacklisting, onlysourced, etc. are implemented -- It takes two properties, |prop1 and |prop2 (e.g. occupation and country of citizenship) -- Each property's value is a wiki-base entity -- For each value of the first parameter (ranks implemented) it fetches the value's main category -- and then each value of the second parameter (possibly substituting a simpler description) -- then it returns all of the categories representing the intersection of those properties, -- (e.g. Category:Actors from Canada). A joining term may be supplied (e.g. |join=from). -- The item's P734 (family name) is the sort key, or no sort key if there is no family name. -- The sort key may be overridden by the parameter |sortkey (alias |sk).
 
 -----
 
-\-- Dependencies: parseParam; setRanks; parseInput; sourced;
-propertyvalueandquals assembleoutput;
+\-- Dependencies: parseParam; setRanks; parseInput; sourced; propertyvalueandquals assembleoutput;
 
 -----
 
@@ -2435,16 +2224,11 @@ p.getIntersectCat = function(frame)
 `   for k1, v1 in ipairs(cat1) do`
 `       for k2, v2 in ipairs(cat2) do`
 `           if sk ~= "" then`
-`               out[#out+1] = "`[`"``   ``..``   ``sk``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._lp_.._v1_.._"_"_.._join_.._"_"_.._v2_.._" "wikilink")`"`
+`               out[#out+1] = "`[`"``   ``..``   ``sk``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._lp_.._v1_.._"_"_.._join_.._"_"_.._v2_.._" "wikilink")`"`
 `           elseif famname ~= "" then`
-`               out[#out+1] = "`[`"``   ``..``   ``famname``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._lp_.._v1_.._"_"_.._join_.._"_"_.._v2_.._" "wikilink")`"`
+`               out[#out+1] = "`[`"``   ``..``   ``famname``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._lp_.._v1_.._"_"_.._join_.._"_"_.._v2_.._" "wikilink")`"`
 `           else`
-`               out[#out+1] = "`[`"``   ``..``   ``lp``   ``..``
- ``v1``   ``..``   ``"``   ``"``   ``..``   ``join``   ``..``   ``"``
- ``"``   ``..``   ``v2``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._lp_.._v1_.._"_"_.._join_.._"_"_.._v2_.._" "wikilink")`"`
+`               out[#out+1] = "`[`"``   ``..``   ``lp``   ``..``   ``v1``   ``..``   ``"``   ``"``   ``..``   ``join``   ``..``   ``"``   ``"``   ``..``   ``v2``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._lp_.._v1_.._"_"_.._join_.._"_"_.._v2_.._" "wikilink")`"`
 `           end -- of check for sort keys`
 `       end`
 `   end`
@@ -2455,10 +2239,7 @@ end
 
 -----
 
-\-- getGlobe takes an optional qid of a Wikidata entity passed as |qid=
--- otherwise it uses the linked item for the current page. -- If returns
-the Qid of the globe used in P625 (coordinate location), -- or nil if
-there isn't one.
+\-- getGlobe takes an optional qid of a Wikidata entity passed as |qid= -- otherwise it uses the linked item for the current page. -- If returns the Qid of the globe used in P625 (coordinate location), -- or nil if there isn't one.
 
 -----
 
@@ -2481,10 +2262,7 @@ end
 
 -----
 
-\-- getCommonsLink takes an optional qid of a Wikidata entity passed as
-|qid= -- It returns one of the following in order of preference: -- the
-Commons sitelink of the linked Wikidata item; -- the Commons sitelink of
-the topic's main category of the linked Wikidata item;
+\-- getCommonsLink takes an optional qid of a Wikidata entity passed as |qid= -- It returns one of the following in order of preference: -- the Commons sitelink of the linked Wikidata item; -- the Commons sitelink of the topic's main category of the linked Wikidata item;
 
 -----
 
@@ -2502,12 +2280,7 @@ end
 
 -----
 
-\-- getSitelink takes the qid of a Wikidata entity passed as |qid= -- It
-takes an optional parameter |wiki= to determine which wiki is to be
-checked for a sitelink -- If the parameter is blank, then it uses the
-local wiki. -- If there is a sitelink to an article available, it
-returns the plain text link to the article -- If there is no sitelink,
-it returns nil.
+\-- getSitelink takes the qid of a Wikidata entity passed as |qid= -- It takes an optional parameter |wiki= to determine which wiki is to be checked for a sitelink -- If the parameter is blank, then it uses the local wiki. -- If there is a sitelink to an article available, it returns the plain text link to the article -- If there is no sitelink, it returns nil.
 
 -----
 
@@ -2523,12 +2296,7 @@ end
 
 -----
 
-\-- getLink has the qid of a Wikidata entity passed as the first unnamed
-parameter or as |qid= -- If there is a sitelink to an article on the
-local Wiki, it returns a link to the article -- with the Wikidata label
-as the displayed text. -- If there is no sitelink, it returns the label
-as plain text. -- If there is no label in the local language, it
-displays the qid instead.
+\-- getLink has the qid of a Wikidata entity passed as the first unnamed parameter or as |qid= -- If there is a sitelink to an article on the local Wiki, it returns a link to the article -- with the Wikidata label as the displayed text. -- If there is no sitelink, it returns the label as plain text. -- If there is no label in the local language, it displays the qid instead.
 
 -----
 
@@ -2543,8 +2311,7 @@ p.getLink = function(frame)
 `   local sitelink = mw.wikibase.sitelink(itemID)`
 `   local label = labelOrId(itemID)`
 `   if sitelink then`
-`       return "`[`"``   ``..``   ``label``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/:"_.._sitelink_.._" "wikilink")`"`
+`       return "`[`"``   ``..``   ``label``   ``..``   ``"`](https://zh.wikipedia.org/wiki/:"_.._sitelink_.._" "wikilink")`"`
 `   else`
 `       return label`
 `   end`
@@ -2553,10 +2320,7 @@ end
 
 -----
 
-\-- getLabel has the qid of a Wikidata entity passed as the first
-unnamed parameter or as |qid= -- It returns the Wikidata label for the
-local language as plain text. -- If there is no label in the local
-language, it displays the qid instead.
+\-- getLabel has the qid of a Wikidata entity passed as the first unnamed parameter or as |qid= -- It returns the Wikidata label for the local language as plain text. -- If there is no label in the local language, it displays the qid instead.
 
 -----
 
@@ -2575,10 +2339,7 @@ end
 
 -----
 
-\-- getAT (Article Title) -- has the qid of a Wikidata entity passed as
-the first unnamed parameter or as |qid= -- If there is a sitelink to an
-article on the local Wiki, it returns the sitelink as plain text. -- If
-there is no sitelink, it returns nothing.
+\-- getAT (Article Title) -- has the qid of a Wikidata entity passed as the first unnamed parameter or as |qid= -- If there is a sitelink to an article on the local Wiki, it returns the sitelink as plain text. -- If there is no sitelink, it returns nothing.
 
 -----
 
@@ -2596,14 +2357,7 @@ end
 
 -----
 
-\-- getDescription has the qid of a Wikidata entity passed as |qid= --
-(it defaults to the associated qid of the current article if omitted) --
-and a local parameter passed as the first unnamed parameter. -- Any
-local parameter passed (other than "Wikidata" or "none") becomes the
-return value. -- It returns the article description for the Wikidata
-entity if the local parameter is "Wikidata". -- Nothing is returned if
-the description doesn't exist or "none" is passed as the local
-parameter.
+\-- getDescription has the qid of a Wikidata entity passed as |qid= -- (it defaults to the associated qid of the current article if omitted) -- and a local parameter passed as the first unnamed parameter. -- Any local parameter passed (other than "Wikidata" or "none") becomes the return value. -- It returns the article description for the Wikidata entity if the local parameter is "Wikidata". -- Nothing is returned if the description doesn't exist or "none" is passed as the local parameter.
 
 -----
 
@@ -2628,13 +2382,7 @@ end
 
 -----
 
-\-- getAliases has the qid of a Wikidata entity passed as |qid= -- (it
-defaults to the associated qid of the current article if omitted) -- and
-a local parameter passed as the first unnamed parameter. -- It
-implements blacklisting and whitelisting with a field name of "alias" by
-default. -- Any local parameter passed becomes the return value. --
-Otherwise it returns the aliases for the Wikidata entity with the usual
-list options. -- Nothing is returned if the aliases do not exist.
+\-- getAliases has the qid of a Wikidata entity passed as |qid= -- (it defaults to the associated qid of the current article if omitted) -- and a local parameter passed as the first unnamed parameter. -- It implements blacklisting and whitelisting with a field name of "alias" by default. -- Any local parameter passed becomes the return value. -- Otherwise it returns the aliases for the Wikidata entity with the usual list options. -- Nothing is returned if the aliases do not exist.
 
 -----
 
@@ -2688,8 +2436,7 @@ end
 
 -----
 
-\-- pageId returns the page id (entity ID, Qnnn) of the current page --
-returns nothing if the page is not connected to Wikidata
+\-- pageId returns the page id (entity ID, Qnnn) of the current page -- returns nothing if the page is not connected to Wikidata
 
 -----
 
@@ -2721,12 +2468,7 @@ end
 
 -----
 
-\-- location is a wrapper to export the private function _location --
-it takes the entity-id as qid or the first unnamed parameter -- optional
-boolean parameter first toggles the display of the first item --
-optional boolean parameter skip toggles the display to skip to the last
-item -- parameter debug=<y/n> (default 'n') adds error msg if not a
-location
+\-- location is a wrapper to export the private function _location -- it takes the entity-id as qid or the first unnamed parameter -- optional boolean parameter first toggles the display of the first item -- optional boolean parameter skip toggles the display to skip to the last item -- parameter debug=<y/n> (default 'n') adds error msg if not a location
 
 -----
 
@@ -2755,14 +2497,7 @@ end
 
 -----
 
-\-- checkBlacklist implements a test to check whether a named field is
-allowed -- returns true if the field is not blacklisted (i.e. allowed)
--- returns false if the field is blacklisted (i.e. disallowed) --
-{{\#if:{{\#invoke:WikidataIB |checkBlacklist |name=Joe
-|suppressfields=Dave; Joe; Fred}} | not blacklisted | blacklisted}} --
-displays "blacklisted" -- {{\#if:{{\#invoke:WikidataIB |checkBlacklist
-|name=Jim |suppressfields=Dave; Joe; Fred}} | not blacklisted |
-blacklisted}} -- displays "not blacklisted"
+\-- checkBlacklist implements a test to check whether a named field is allowed -- returns true if the field is not blacklisted (i.e. allowed) -- returns false if the field is blacklisted (i.e. disallowed) -- {{\#if:{{\#invoke:WikidataIB |checkBlacklist |name=Joe |suppressfields=Dave; Joe; Fred}} | not blacklisted | blacklisted}} -- displays "blacklisted" -- {{\#if:{{\#invoke:WikidataIB |checkBlacklist |name=Jim |suppressfields=Dave; Joe; Fred}} | not blacklisted | blacklisted}} -- displays "not blacklisted"
 
 -----
 
@@ -2789,18 +2524,7 @@ end
 
 -----
 
-\-- emptyor returns nil if its first unnamed argument is just
-punctuation, whitespace or html tags -- otherwise it returns the
-argument unchanged (including leading/trailing space). -- If the
-argument may contain "=", then it must be called explicitly: -- |1=arg
--- (In that case, leading and trailing spaces are trimmed) -- It finds
-use in infoboxes where it can replace tests like: -- {{\#if:
-{{\#invoke:WikidatIB |getvalue |P99 |fwd=ALL}} |
-<span class="xxx">{{\#invoke:WikidatIB |getvalue |P99 |fwd=ALL}}</span>
-| }} -- with a form that uses just a single call to Wikidata: --
-{{\#invoke |WikidataIB |emptyor |1=
-<span class="xxx">{{\#invoke:WikidataIB |getvalue |P99 |fwd=ALL}}</span>
-}}
+\-- emptyor returns nil if its first unnamed argument is just punctuation, whitespace or html tags -- otherwise it returns the argument unchanged (including leading/trailing space). -- If the argument may contain "=", then it must be called explicitly: -- |1=arg -- (In that case, leading and trailing spaces are trimmed) -- It finds use in infoboxes where it can replace tests like: -- {{\#if: {{\#invoke:WikidatIB |getvalue |P99 |fwd=ALL}} | <span class="xxx">{{\#invoke:WikidatIB |getvalue |P99 |fwd=ALL}}</span> | }} -- with a form that uses just a single call to Wikidata: -- {{\#invoke |WikidataIB |emptyor |1= <span class="xxx">{{\#invoke:WikidataIB |getvalue |P99 |fwd=ALL}}</span> }}
 
 -----
 
@@ -2823,9 +2547,7 @@ end
 
 -----
 
-\-- labelorid is a public function to expose the output of labelOrId()
--- Pass the Q-number as |qid= or as an unnamed parameter. -- It returns
-the Wikidata label for that entity or the qid if no label exists.
+\-- labelorid is a public function to expose the output of labelOrId() -- Pass the Q-number as |qid= or as an unnamed parameter. -- It returns the Wikidata label for that entity or the qid if no label exists.
 
 -----
 
@@ -2841,8 +2563,7 @@ end
 
 -----
 
-\-- getLang returns the MediaWiki language code of the current content.
--- If optional parameter |style=full, it returns the language name.
+\-- getLang returns the MediaWiki language code of the current content. -- If optional parameter |style=full, it returns the language name.
 
 -----
 
@@ -2863,12 +2584,7 @@ end
 
 -----
 
-\-- getItemLangCode takes a qid parameter (using the current page's qid
-if blank) -- If the item for that qid has property country (P17) it
-looks at the first preferred value -- If the country has an official
-language (P37), it looks at the first preferred value -- If that
-official language has a language code (P424), it returns the first
-preferred value -- Otherwise it returns nothing.
+\-- getItemLangCode takes a qid parameter (using the current page's qid if blank) -- If the item for that qid has property country (P17) it looks at the first preferred value -- If the country has an official language (P37), it looks at the first preferred value -- If that official language has a language code (P424), it returns the first preferred value -- Otherwise it returns nothing.
 
 -----
 
@@ -2884,10 +2600,7 @@ end
 
 -----
 
-\-- findLanguage exports the local findLang() function -- It takes an
-optional language code and returns, in order of preference: -- the code
-if a known language; -- the user's language, if set; -- the server's
-content language.
+\-- findLanguage exports the local findLang() function -- It takes an optional language code and returns, in order of preference: -- the code if a known language; -- the user's language, if set; -- the server's content language.
 
 -----
 
@@ -2903,10 +2616,7 @@ end
 
 -----
 
-\-- getQid returns the qid, if supplied -- failing that, the Wikidata
-entity ID of the "category's main topic (P301)", if it exists -- failing
-that, the Wikidata entity ID asociated with the curent page, if it
-exists -- otherwise, nothing
+\-- getQid returns the qid, if supplied -- failing that, the Wikidata entity ID of the "category's main topic (P301)", if it exists -- failing that, the Wikidata entity ID asociated with the curent page, if it exists -- otherwise, nothing
 
 -----
 
@@ -2935,14 +2645,7 @@ end
 
 -----
 
-\-- followQid takes two optional parameters: qid and props -- If qid is
-not given, it uses the qid for the connected page -- or returns nil if
-there isn't one. -- props is a list of properties, separated by
-punctuation. -- If props is given, the Wikidata item for the qid is
-examined for each property in turn. -- If that property contains a value
-that is another Wikibase-item, that item's qid is returned, -- and the
-search terminates, unless |all=y when all of the qids are returned,
-sparated by spaces. -- If props is not given, the qid is returned.
+\-- followQid takes two optional parameters: qid and props -- If qid is not given, it uses the qid for the connected page -- or returns nil if there isn't one. -- props is a list of properties, separated by punctuation. -- If props is given, the Wikidata item for the qid is examined for each property in turn. -- If that property contains a value that is another Wikibase-item, that item's qid is returned, -- and the search terminates, unless |all=y when all of the qids are returned, sparated by spaces. -- If props is not given, the qid is returned.
 
 -----
 
@@ -2985,8 +2688,7 @@ end
 
 -----
 
-\-- siteID returns the root of the globalSiteID -- e.g. "en" for
-"enwiki", "enwikisource", etc. -- treats "en-gb" as "en", etc.
+\-- siteID returns the root of the globalSiteID -- e.g. "en" for "enwiki", "enwikisource", etc. -- treats "en-gb" as "en", etc.
 
 -----
 
@@ -3014,10 +2716,7 @@ end
 
 -----
 
-\-- projID returns the code used to link to the reader's language's
-project -- e.g "en" for
-[:en:WikidataIB](https://zh.wikipedia.org/wiki/:en:WikidataIB "wikilink")
--- treats "en-gb" as "en", etc.
+\-- projID returns the code used to link to the reader's language's project -- e.g "en" for [:en:WikidataIB](https://zh.wikipedia.org/wiki/:en:WikidataIB "wikilink") -- treats "en-gb" as "en", etc.
 
 -----
 
@@ -3045,9 +2744,7 @@ end
 
 -----
 
-\-- formatNumber formats a number according to the the supplied language
-code ("|lang=") -- or the default language if not supplied. -- The
-number is the first unnamed parameter or "|num="
+\-- formatNumber formats a number according to the the supplied language code ("|lang=") -- or the default language if not supplied. -- The number is the first unnamed parameter or "|num="
 
 -----
 
@@ -3066,12 +2763,7 @@ end
 
 -----
 
-\-- examine dumps the property (the unnamed parameter or pid) -- from
-the item given by the parameter 'qid' (or the other unnamed parameter)
--- or from the item corresponding to the current page if qid is not
-supplied. -- e.g. {{\#invoke:WikidataIB |examine |pid=P26 |qid=Q42}} --
-or {{\#invoke:WikidataIB |examine |P26 |Q42}} or any combination of
-these -- or {{\#invoke:WikidataIB |examine |P26}} for the current page.
+\-- examine dumps the property (the unnamed parameter or pid) -- from the item given by the parameter 'qid' (or the other unnamed parameter) -- or from the item corresponding to the current page if qid is not supplied. -- e.g. {{\#invoke:WikidataIB |examine |pid=P26 |qid=Q42}} -- or {{\#invoke:WikidataIB |examine |P26 |Q42}} or any combination of these -- or {{\#invoke:WikidataIB |examine |P26}} for the current page.
 
 -----
 
@@ -3107,15 +2799,7 @@ p.examine = function( frame )
 
 -----
 
-\-- checkvalue looks for 'val' as a wikibase-item value of a property
-(the unnamed parameter or pid) -- from the item given by the parameter
-'qid' -- or from the Wikidata item associated with the current page if
-qid is not supplied. -- If property is not supplied, then P31 (instance
-of) is assumed. -- It returns val if found or nothing if not found. --
-e.g. {{\#invoke:WikidataIB |checkvalue |val=Q5 |pid=P31 |qid=Q42}} -- or
-{{\#invoke:WikidataIB |checkvalue |val=Q5 |P31 |qid=Q42}} -- or
-{{\#invoke:WikidataIB |checkvalue |val=Q5 |qid=Q42}} -- or
-{{\#invoke:WikidataIB |checkvalue |val=Q5 |P31}} for the current page.
+\-- checkvalue looks for 'val' as a wikibase-item value of a property (the unnamed parameter or pid) -- from the item given by the parameter 'qid' -- or from the Wikidata item associated with the current page if qid is not supplied. -- If property is not supplied, then P31 (instance of) is assumed. -- It returns val if found or nothing if not found. -- e.g. {{\#invoke:WikidataIB |checkvalue |val=Q5 |pid=P31 |qid=Q42}} -- or {{\#invoke:WikidataIB |checkvalue |val=Q5 |P31 |qid=Q42}} -- or {{\#invoke:WikidataIB |checkvalue |val=Q5 |qid=Q42}} -- or {{\#invoke:WikidataIB |checkvalue |val=Q5 |P31}} for the current page.
 
 -----
 
@@ -3153,12 +2837,7 @@ end
 
 -----
 
-\-- url2 takes a parameter url= that is a proper url and formats it for
-use in an infobox. -- If no parameter is supplied, it returns nothing.
--- This is the equivalent of Template:URL -- but it keeps the "edit at
-Wikidata" pen icon out of the microformat. -- Usually it will take its
-url parameter directly from a Wikidata call: -- e.g.
-{{\#invoke:WikidataIB |url2 |url=
+\-- url2 takes a parameter url= that is a proper url and formats it for use in an infobox. -- If no parameter is supplied, it returns nothing. -- This is the equivalent of Template:URL -- but it keeps the "edit at Wikidata" pen icon out of the microformat. -- Usually it will take its url parameter directly from a Wikidata call: -- e.g. {{\#invoke:WikidataIB |url2 |url=
 
 -----
 
@@ -3183,12 +2862,7 @@ end
 
 -----
 
-\-- getWebsite fetches the Official website (P856) and formats it for
-use in an infobox. -- This is similar to Template:Official website but
-with a url displayed, -- and it adds the "edit at Wikidata" pen icon
-beyond the microformat if enabled. -- A local value will override the
-Wikidata value. "NONE" returns nothing. -- e.g. {{\#invoke:WikidataIB
-|getWebsite |qid= |noicon= |lang= |url= }}
+\-- getWebsite fetches the Official website (P856) and formats it for use in an infobox. -- This is similar to Template:Official website but with a url displayed, -- and it adds the "edit at Wikidata" pen icon beyond the microformat if enabled. -- A local value will override the Wikidata value. "NONE" returns nothing. -- e.g. {{\#invoke:WikidataIB |getWebsite |qid= |noicon= |lang= |url= }}
 
 -----
 
@@ -3254,9 +2928,7 @@ end
 
 -----
 
-\-- getAllLabels fetches the set of labels and formats it for display as
-wikitext. -- It takes a parameter 'qid' for arbitrary access, otherwise
-it uses the current page.
+\-- getAllLabels fetches the set of labels and formats it for display as wikitext. -- It takes a parameter 'qid' for arbitrary access, otherwise it uses the current page.
 
 -----
 
@@ -3288,9 +2960,7 @@ end
 
 -----
 
-\-- getAllDescriptions fetches the set of descriptions and formats it
-for display as wikitext. -- It takes a parameter 'qid' for arbitrary
-access, otherwise it uses the current page.
+\-- getAllDescriptions fetches the set of descriptions and formats it for display as wikitext. -- It takes a parameter 'qid' for arbitrary access, otherwise it uses the current page.
 
 -----
 
@@ -3322,9 +2992,7 @@ end
 
 -----
 
-\-- getAllAliases fetches the set of aliases and formats it for display
-as wikitext. -- It takes a parameter 'qid' for arbitrary access,
-otherwise it uses the current page.
+\-- getAllAliases fetches the set of aliases and formats it for display as wikitext. -- It takes a parameter 'qid' for arbitrary access, otherwise it uses the current page.
 
 -----
 
@@ -3382,10 +3050,7 @@ end
 
 -----
 
-\-- checkValidity checks whether the first unnamed parameter represents
-a valid entity-id, -- that is, something like Q1235 or P123. -- It
-returns the strings "true" or "false". -- Change false to nil to return
-"true" or "" (easier to test with \#if:).
+\-- checkValidity checks whether the first unnamed parameter represents a valid entity-id, -- that is, something like Q1235 or P123. -- It returns the strings "true" or "false". -- Change false to nil to return "true" or "" (easier to test with \#if:).
 
 -----
 
@@ -3412,19 +3077,10 @@ return p
 
 -----
 
-\-- getValue -- getPreferredValue -- getCoords -- getQualifierValue --
-getSumOfParts -- getValueByQual -- getValueByLang -- getValueByRefSource
--- getPropOfProp -- getAwardCat -- getIntersectCat -- getGlobe --
-getCommonsLink -- getSiteLink -- getLink -- getLabel -- getAT --
-getDescription -- getAliases -- pageId -- formatDate -- location --
-checkBlacklist -- emptyor -- labelorid -- getLang -- findLanguage
+\-- getValue -- getPreferredValue -- getCoords -- getQualifierValue -- getSumOfParts -- getValueByQual -- getValueByLang -- getValueByRefSource -- getPropOfProp -- getAwardCat -- getIntersectCat -- getGlobe -- getCommonsLink -- getSiteLink -- getLink -- getLabel -- getAT -- getDescription -- getAliases -- pageId -- formatDate -- location -- checkBlacklist -- emptyor -- labelorid -- getLang -- findLanguage
 
-\-- getQID -- followQid -- siteID -- projID -- formatNumber -- examine
--- checkvalue -- url2 -- getWebsite -- getAllLabels --
-getAllDescriptions -- getAllAliases -- showNoLinks -- checkValidity
+\-- getQID -- followQid -- siteID -- projID -- formatNumber -- examine -- checkvalue -- url2 -- getWebsite -- getAllLabels -- getAllDescriptions -- getAllAliases -- showNoLinks -- checkValidity
 
 -----
 
-[Category:Articles_with_missing_Wikidata_information](https://zh.wikipedia.org/wiki/Category:Articles_with_missing_Wikidata_information "wikilink")
-[Category:缺少維基數據信息的條目](https://zh.wikipedia.org/wiki/Category:缺少維基數據信息的條目 "wikilink")
-[Category:Articles_with_missing_Wikidata_information](https://zh.wikipedia.org/wiki/Category:Articles_with_missing_Wikidata_information "wikilink")
+[Category:Articles_with_missing_Wikidata_information](https://zh.wikipedia.org/wiki/Category:Articles_with_missing_Wikidata_information "wikilink") [Category:缺少維基數據信息的條目](https://zh.wikipedia.org/wiki/Category:缺少維基數據信息的條目 "wikilink") [Category:Articles_with_missing_Wikidata_information](https://zh.wikipedia.org/wiki/Category:Articles_with_missing_Wikidata_information "wikilink")

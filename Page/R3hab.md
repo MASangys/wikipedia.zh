@@ -1,5 +1,4 @@
-Fadil El Ghoul （，藝名
-R3HAB（读音同Rehab），是摩洛哥裔荷蘭DJ和製作人\[1\]。與[艾佛傑克和Chuckie是荷蘭浩室的代表](../Page/艾佛傑克.md "wikilink")，他的風格通常比較黑暗。曾經在2012於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[邁阿密的冬季音樂節](https://zh.wikipedia.org/wiki/邁阿密 "wikilink")，贏得了國際舞曲獎最佳突破藝人。
+Fadil El Ghoul （，藝名 R3HAB（读音同Rehab），是摩洛哥裔荷蘭DJ和製作人\[1\]。與[艾佛傑克](../Page/艾佛傑克.md "wikilink")和Chuckie是荷蘭浩室的代表，他的風格通常比較黑暗。曾經在2012於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[邁阿密的冬季音樂節](https://zh.wikipedia.org/wiki/邁阿密 "wikilink")，贏得了國際舞曲獎最佳突破藝人。
 
 ## 單曲
 

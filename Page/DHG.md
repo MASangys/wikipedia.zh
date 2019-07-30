@@ -1,6 +1,4 @@
-**DHG**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：Distributed
-Hybrid
-Global，DHG），（）创立于2012年，是以作为物联网底层协议打造一个区块链网络系统，由GHDA团队和ASDR团队联合打造。\[1\]\[2\]
+**DHG**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：Distributed Hybrid Global，DHG），（）创立于2012年，是以作为物联网底层协议打造一个区块链网络系统，由GHDA团队和ASDR团队联合打造。\[1\]\[2\]
 
 ## 简介
 
@@ -20,12 +18,8 @@ ASDR团队是由一群世界各地技术极客所组成的团队，是美国早�
 
 [Category:中國民營企業](https://zh.wikipedia.org/wiki/Category:中國民營企業 "wikilink")
 
-1.  [区块链DHG吹响号角
-    即将面向全球众筹](http://news.163.com/17/0605/17/CM6EB0UM000187VG.html)
-2.  [为应用而生
-    DHG或创区块链价值新高](http://finance.sina.com.cn/roll/2017-06-07/doc-ifyfzaaq5496145.shtml)
+1.  [区块链DHG吹响号角 即将面向全球众筹](http://news.163.com/17/0605/17/CM6EB0UM000187VG.html)
+2.  [为应用而生 DHG或创区块链价值新高](http://finance.sina.com.cn/roll/2017-06-07/doc-ifyfzaaq5496145.shtml)
 3.  [DHG预探索完成区块链底层协议](http://news.ifeng.com/a/20170525/51160962_0.shtml)
-4.  [DHG即将面世
-    区块链技术开启3.0时代](http://news.163.com/17/0602/21/CLV5MUVI000187VG.html)
-5.  [DHG即将面世
-    区块链技术开启3.0时代](http://news.163.com/17/0602/21/CLV5MUVI000187VG.html)
+4.  [DHG即将面世 区块链技术开启3.0时代](http://news.163.com/17/0602/21/CLV5MUVI000187VG.html)
+5.  [DHG即将面世 区块链技术开启3.0时代](http://news.163.com/17/0602/21/CLV5MUVI000187VG.html)

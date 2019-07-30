@@ -1,4 +1,4 @@
-《**91天**》（，）是由[日本動畫公司](../Page/日本.md "wikilink")[朱夏製作的首部](https://zh.wikipedia.org/wiki/朱夏_\(動畫製作公司\) "wikilink")[原創動畫](https://zh.wikipedia.org/wiki/原創動畫 "wikilink")。在2016夏季播出。\[1\]
+《**91天**》（，）是由[日本](../Page/日本.md "wikilink")動畫公司[朱夏製作的首部](https://zh.wikipedia.org/wiki/朱夏_\(動畫製作公司\) "wikilink")[原創動畫](https://zh.wikipedia.org/wiki/原創動畫 "wikilink")。在2016夏季播出。\[1\]
 
 ## 故事簡介
 
@@ -9,8 +9,7 @@
 ### 主要人物
 
   -
-    本作的重要男主角。本名為**安傑羅‧拉庫澤**（Angelo
-    Laguza），15歲（官方無明確說明，但從第一集蛋糕上的8支蠟燭推測7年後為15歲），身高175cm。有個弟弟路謝爾。為人冷靜且足智多謀，性情陰鬱，唯獨與柯魯特歐親近。有吸煙的習慣。喜愛甜食，尤其是罐頭[鳳梨](https://zh.wikipedia.org/wiki/鳳梨 "wikilink")。擅長扒手的技巧。不擅長開車。
+    本作的重要男主角。本名為**安傑羅‧拉庫澤**（Angelo Laguza），15歲（官方無明確說明，但從第一集蛋糕上的8支蠟燭推測7年後為15歲），身高175cm。有個弟弟路謝爾。為人冷靜且足智多謀，性情陰鬱，唯獨與柯魯特歐親近。有吸煙的習慣。喜愛甜食，尤其是罐頭[鳳梨](https://zh.wikipedia.org/wiki/鳳梨 "wikilink")。擅長扒手的技巧。不擅長開車。
     小時候因雙親和弟弟被黑手黨殺害，而逃出從小成長的小鎮。7年後收到一封羅列當年殺害家人的殺手名單的信件，立志要向統領法尼提家族的文森、尼祿和范諾復仇。
     在尼祿一行人陷入絕境時提出和凡格合作，成功和對方交換條件。後以自己的真正身分哄騙奧爾塞，讓他誤信自己會背叛尼祿，得以生擒奧爾塞交給凡格。
     克魯迪奧勸他放棄復仇時，向他表明「放棄復仇就失去活著的意義」。
@@ -71,13 +70,13 @@
     被阿維里奧暗算後落入凡格手裏，最後被凡格製成人肉千層麵\[6\]。
   -
     法尼提家族的對手奧爾塞家族的幹部。有著身穿牛仔服裝、在酒吧射機關槍的荒謬個性。現時和家族鬧翻，率領約20人佔領一個島嶼。
-    接受阿維里奧的方案，以生擒奧爾塞家族首領為條件，協助尼祿一行人。把奧爾賽家族首領做成人肉[千層麵餵給奧爾賽的部下吃](../Page/千層麵.md "wikilink")。
+    接受阿維里奧的方案，以生擒奧爾塞家族首領為條件，協助尼祿一行人。把奧爾賽家族首領做成人肉[千層麵](../Page/千層麵.md "wikilink")餵給奧爾賽的部下吃。
     雖然表面願意與尼祿合作，但內心卻想要吞併尼祿的一切。最後被失去理智的克魯迪奧活活打死\[7\]。
     其實是被虐狂。
 
 ### 加拉西亞家族 Galassia
 
-[芝加哥的黑手黨大家族](../Page/芝加哥.md "wikilink")。表面與法尼提家族關係親密，事實上不斷鯨吞蠶食法尼提家族。
+[芝加哥](../Page/芝加哥.md "wikilink")的黑手黨大家族。表面與法尼提家族關係親密，事實上不斷鯨吞蠶食法尼提家族。
 
   -
     加拉西亞老大的姪子。代表加拉西亞參加羅納度的葬禮。
@@ -314,12 +313,7 @@ Kim Yi Sung、飯飼一幸<br />
   - [《91Days》動畫官方網站](http://91days.family/)
   - [《91Days》Twitter](https://twitter.com/TV91Days/)
 
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:報復題材作品](https://zh.wikipedia.org/wiki/Category:報復題材作品 "wikilink")
-[Category:黑道題材動畫](https://zh.wikipedia.org/wiki/Category:黑道題材動畫 "wikilink")
-[Category:1920年代背景作品](https://zh.wikipedia.org/wiki/Category:1920年代背景作品 "wikilink")
+[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:報復題材作品](https://zh.wikipedia.org/wiki/Category:報復題材作品 "wikilink") [Category:黑道題材動畫](https://zh.wikipedia.org/wiki/Category:黑道題材動畫 "wikilink") [Category:1920年代背景作品](https://zh.wikipedia.org/wiki/Category:1920年代背景作品 "wikilink")
 
 1.
 

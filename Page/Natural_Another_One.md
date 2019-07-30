@@ -1,5 +1,4 @@
-《**Natural Another
-One**》是由[FC03於](../Page/F&C.md "wikilink")2003年9月26日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，Natural系列的作品之一。\[1\]
+《**Natural Another One**》是由[FC03於](../Page/F&C.md "wikilink")2003年9月26日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，Natural系列的作品之一。\[1\]
 
 ## 故事
 
@@ -23,8 +22,7 @@ One**》是由[FC03於](../Page/F&C.md "wikilink")2003年9月26日發售的[戀�
 ## 相關條目
 
   - [Natural2 -DUO-](../Page/Natural2_-DUO-.md "wikilink")
-  - [Natural Another One 2nd
-    -Belladonna-](../Page/Natural_Another_One_2nd_-Belladonna-.md "wikilink")
+  - [Natural Another One 2nd -Belladonna-](../Page/Natural_Another_One_2nd_-Belladonna-.md "wikilink")
 
 ## 參考來源
 
@@ -32,14 +30,7 @@ One**》是由[FC03於](../Page/F&C.md "wikilink")2003年9月26日發售的[戀�
 
   - [官方網站](http://www.dreamsoft.jp/naone/index.htm)
 
-[Category:2003年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2003年日本成人遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
-[Category:F\&C遊戲](https://zh.wikipedia.org/wiki/Category:F&C遊戲 "wikilink")
-[Category:教師主角作品](https://zh.wikipedia.org/wiki/Category:教師主角作品 "wikilink")
-[Category:師生戀題材作品](https://zh.wikipedia.org/wiki/Category:師生戀題材作品 "wikilink")
+[Category:2003年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2003年日本成人遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:F\&C遊戲](https://zh.wikipedia.org/wiki/Category:F&C遊戲 "wikilink") [Category:教師主角作品](https://zh.wikipedia.org/wiki/Category:教師主角作品 "wikilink") [Category:師生戀題材作品](https://zh.wikipedia.org/wiki/Category:師生戀題材作品 "wikilink")
 
 1.
 2.

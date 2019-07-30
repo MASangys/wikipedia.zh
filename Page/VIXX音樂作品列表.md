@@ -1,4 +1,4 @@
-《**VIXX音樂作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[VIXX歷年發行之各類音樂作品](../Page/VIXX.md "wikilink")。
+《**VIXX音樂作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[VIXX](../Page/VIXX.md "wikilink")歷年發行之各類音樂作品。
 
 ## 專輯
 
@@ -604,8 +604,7 @@
 
 ## 參考文獻
 
-[Category:VIXX](https://zh.wikipedia.org/wiki/Category:VIXX "wikilink")
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
+[Category:VIXX](https://zh.wikipedia.org/wiki/Category:VIXX "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
 
 1.
 2.

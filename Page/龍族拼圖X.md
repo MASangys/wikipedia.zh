@@ -1,6 +1,6 @@
-《**龍族拼圖X**》（），是[日本](../Page/日本.md "wikilink")[GungHo發行的](https://zh.wikipedia.org/wiki/GungHo "wikilink")[任天堂3DS專用遊戲](../Page/任天堂3DS.md "wikilink")，為《[龍族拼圖](../Page/龍族拼圖.md "wikilink")》的延伸作品。遊戲於2016年7月28日發售，同時推出「神之章」及「龍之章」兩個版本。
+《**龍族拼圖X**》（），是[日本](../Page/日本.md "wikilink")[GungHo發行的](https://zh.wikipedia.org/wiki/GungHo "wikilink")[任天堂3DS](../Page/任天堂3DS.md "wikilink")專用遊戲，為《[龍族拼圖](../Page/龍族拼圖.md "wikilink")》的延伸作品。遊戲於2016年7月28日發售，同時推出「神之章」及「龍之章」兩個版本。
 
-電視動畫於2016年7月4日起在日本[東京電視台聯播網播放](../Page/東京電視台.md "wikilink")。香港[ViuTV在](../Page/ViuTV.md "wikilink")2018年10月4日起播放。
+電視動畫於2016年7月4日起在日本[東京電視台](../Page/東京電視台.md "wikilink")聯播網播放。香港[ViuTV](../Page/ViuTV.md "wikilink")在2018年10月4日起播放。
 
 ## 故事概要
 
@@ -55,17 +55,15 @@
 
 ## 漫畫
 
-於《[月刊CoroCoro
-Comic](../Page/快樂快樂月刊.md "wikilink")》2016年5月號開始連載。由井上桃太作畫。\[1\]
+於《[月刊CoroCoro Comic](../Page/快樂快樂月刊.md "wikilink")》2016年5月號開始連載。由井上桃太作畫。\[1\]
 
 ## 電視動畫
 
-2016年2月19日公佈《龍族拼圖》電視動畫化。於同年7月4日在[東京電視台系列頻道播出](../Page/東京電視台.md "wikilink")，以《龍族拼圖X》改編，描述主人公和怪物夥伴們展開的熱血友情成長的冒險故事。
+2016年2月19日公佈《龍族拼圖》電視動畫化。於同年7月4日在[東京電視台](../Page/東京電視台.md "wikilink")系列頻道播出，以《龍族拼圖X》改編，描述主人公和怪物夥伴們展開的熱血友情成長的冒險故事。
 
 ### 製作人員
 
-  - 原作：[GungHo Online
-    Entertainment](https://zh.wikipedia.org/wiki/GungHo "wikilink")
+  - 原作：[GungHo Online Entertainment](https://zh.wikipedia.org/wiki/GungHo "wikilink")
   - 監督：[龜垣一](../Page/龜垣一.md "wikilink")
   - 系列構成：[佐藤大](https://zh.wikipedia.org/wiki/佐藤大 "wikilink")、StoryRiders
   - 人物設定：秋山由樹子
@@ -91,8 +89,7 @@ Comic](../Page/快樂快樂月刊.md "wikilink")》2016年5月號開始連載。
   -
 
       -
-        作詞、作曲：TAKUYA∞，編曲：UVERworld、Satoru
-        Hiraide，主唱：[UVERworld](../Page/UVERworld.md "wikilink")
+        作詞、作曲：TAKUYA∞，編曲：UVERworld、Satoru Hiraide，主唱：[UVERworld](../Page/UVERworld.md "wikilink")
 
 :;「Colors」（第27－51話）
 
@@ -106,8 +103,7 @@ Comic](../Page/快樂快樂月刊.md "wikilink")》2016年5月號開始連載。
   -
 
       -
-        作詞：岡野昭仁，作曲：新藤晴一，編曲：篤志、[Porno
-        Graffitti](https://zh.wikipedia.org/wiki/色情塗鴉 "wikilink")，主唱：[色情塗鴉](https://zh.wikipedia.org/wiki/色情塗鴉 "wikilink")
+        作詞：岡野昭仁，作曲：新藤晴一，編曲：篤志、[Porno Graffitti](https://zh.wikipedia.org/wiki/色情塗鴉 "wikilink")，主唱：[色情塗鴉](https://zh.wikipedia.org/wiki/色情塗鴉 "wikilink")
 
 <!-- end list -->
 
@@ -1282,17 +1278,6 @@ Lee Sang Jin、Kim Jin Young</p></td>
   - [電視動畫「龍族拼圖X」東京電視台網頁](http://www.tv-tokyo.co.jp/anime/pad-x/)
 
   -
-[Category:GungHo遊戲](https://zh.wikipedia.org/wiki/Category:GungHo遊戲 "wikilink")
-[Category:2016年電子遊戲](https://zh.wikipedia.org/wiki/Category:2016年電子遊戲 "wikilink")
-[Category:益智遊戲](https://zh.wikipedia.org/wiki/Category:益智遊戲 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:任天堂3DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂3DS遊戲 "wikilink")
-[Category:2016年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2016年東京電視網動畫 "wikilink")
-[Category:Studio_Pierrot](https://zh.wikipedia.org/wiki/Category:Studio_Pierrot "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
-[Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink")
-[Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
-[Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink")
+[Category:GungHo遊戲](https://zh.wikipedia.org/wiki/Category:GungHo遊戲 "wikilink") [Category:2016年電子遊戲](https://zh.wikipedia.org/wiki/Category:2016年電子遊戲 "wikilink") [Category:益智遊戲](https://zh.wikipedia.org/wiki/Category:益智遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:任天堂3DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂3DS遊戲 "wikilink") [Category:2016年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2016年東京電視網動畫 "wikilink") [Category:Studio_Pierrot](https://zh.wikipedia.org/wiki/Category:Studio_Pierrot "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink") [Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink")
 
 1.

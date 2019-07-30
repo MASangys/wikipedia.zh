@@ -1,15 +1,10 @@
-《**PRODUCE 101
-第二季**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[Mnet頻道在](../Page/Mnet媒體.md "wikilink")2017年推出的韓國第一個「經紀公司大型企劃男團」新[男團選拔](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")／生存[實境節目](../Page/真人實境秀.md "wikilink")，節目以《[PRODUCE
-101](../Page/PRODUCE_101.md "wikilink")》第一季作為藍本，以101名來自不同[經紀公司的男練習生作為主角](../Page/經紀公司.md "wikilink")，在節目中同吃同住、完成各種任務，最後獲選的11名成員將會組成一個團體，並以[YMC娛樂旗下藝人的身份進行為期](../Page/Imagine_Asia.md "wikilink")1年6個月的活動至2018年12月31日。節目最終回中公布團體名為**[Wanna
-One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")**（）。
+《**PRODUCE 101 第二季**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[Mnet頻道在](../Page/Mnet媒體.md "wikilink")2017年推出的韓國第一個「經紀公司大型企劃男團」新[男團選拔](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")／生存[實境節目](../Page/真人實境秀.md "wikilink")，節目以《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》第一季作為藍本，以101名來自不同[經紀公司](../Page/經紀公司.md "wikilink")的男練習生作為主角，在節目中同吃同住、完成各種任務，最後獲選的11名成員將會組成一個團體，並以[YMC娛樂旗下藝人的身份進行為期](../Page/Imagine_Asia.md "wikilink")1年6個月的活動至2018年12月31日。節目最終回中公布團體名為**[Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")**（）。
 
 ## 導師
 
   - 國民製作人代表：[寶兒 (BoA)](../Page/寶兒.md "wikilink")\[1\]
-  - 歌唱導師：[李碩薰](../Page/李碩薰.md "wikilink")（[SG
-    Wannabe](../Page/SG_Wannabe.md "wikilink")）& 申尤美（YG娛樂聲樂老师）
-  - 舞蹈導師：[嘉熙](https://zh.wikipedia.org/wiki/嘉熙_\(歌手\) "wikilink") &
-    權宰勝（Jason Kwon）
+  - 歌唱導師：[李碩薰](../Page/李碩薰.md "wikilink")（[SG Wannabe](../Page/SG_Wannabe.md "wikilink")）& 申尤美（YG娛樂聲樂老师）
+  - 舞蹈導師：[嘉熙](https://zh.wikipedia.org/wiki/嘉熙_\(歌手\) "wikilink") & 權宰勝（Jason Kwon）
   - Rap導師：[Cheetah](../Page/Cheetah.md "wikilink") &
 
 ## 成員
@@ -168,7 +163,7 @@ One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")**（）。
 | [Cube](../Page/Cube娛樂.md "wikilink")                      |
 | 柳善皓                                                       |
 | [Pledis](../Page/Pledis娛樂.md "wikilink")                  |
-| 金鐘炫                                                       |
+| 金鍾炫                                                       |
 | 崔珉起                                                       |
 | 黃旼炫                                                       |
 | [Fantagio](../Page/Fantagio.md "wikilink")                |
@@ -1337,12 +1332,9 @@ The 男子漢</p></td>
 
 ### 第五集
 
-  - 練習生們的特別課程——國民出品人代表
-    [寶兒](../Page/寶兒.md "wikilink")([BoA](https://zh.wikipedia.org/wiki/BoA "wikilink"))
-    分享自己的演藝心路歷程。
+  - 練習生們的特別課程——國民出品人代表 [寶兒](../Page/寶兒.md "wikilink")([BoA](https://zh.wikipedia.org/wiki/BoA "wikilink")) 分享自己的演藝心路歷程。
   - 舞蹈對決
-      - 一日MC
-        ：[金度延](../Page/金度延.md "wikilink")、[磪有情](../Page/磪有情.md "wikilink")
+      - 一日MC ：[金度延](../Page/金度延.md "wikilink")、[磪有情](../Page/磪有情.md "wikilink")
       - Dancing King：GON**洪殷基**，給舞王所屬D等級全員練習生贈送禮物。
   - 身材管理——肩寬量度、平板支撐
   - 掰手腕對決——壓制對方的男性美
@@ -1365,8 +1357,7 @@ The 男子漢</p></td>
 | 11     |
 
   - 第一次排名儀式(淘汰第61-98名)
-      - 特別MC ( 轉播席 )
-        ：[金素慧](../Page/金素慧.md "wikilink")、[磪有情](../Page/磪有情.md "wikilink")、[金昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")
+      - 特別MC ( 轉播席 ) ：[金素慧](../Page/金素慧.md "wikilink")、[磪有情](../Page/磪有情.md "wikilink")、[金昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")
 
 <table>
 <thead>
@@ -1906,12 +1897,10 @@ The 男子漢</p></td>
 
 ### 第八集
 
-  - 主題評價分組與練習——2017年5月6日 01:30至2017年5月13日01:00
-    期間，經網路投票選出適合練習生主題風格的歌曲，每一首歌最高票數的12人進入該組。
+  - 主題評價分組與練習——2017年5月6日 01:30至2017年5月13日01:00 期間，經網路投票選出適合練習生主題風格的歌曲，每一首歌最高票數的12人進入該組。
       - 優勝隊可得二十二萬票。(組別第一名獲得十萬票，第二到第七名獲得兩萬票)
       - 第二次排名被淘汰的人無法參加主題評價演出。
-      - 註：MMO姜丹尼爾、KIWI Media Group金東彬、2Y李起元
-        3名練習生因違規向外界暗示表演歌曲選擇意向，被製作組安排不獲得相關歌曲及最後分配主題風格作為處罰。
+      - 註：MMO姜丹尼爾、KIWI Media Group金東彬、2Y李起元 3名練習生因違規向外界暗示表演歌曲選擇意向，被製作組安排不獲得相關歌曲及最後分配主題風格作為處罰。
       - <u>底線</u>為組別中心(暫定)，為組別隊長。
 
 | 主題評價分組名單                                                                                                                                                                                                              |
@@ -2180,8 +2169,7 @@ The 男子漢</p></td>
   - 減去第二次排名儀式已淘汰的練習生，以每一首歌上限為7人重新進行分組。
       - 照播出順序排列。
       - 斜體為新加入組員，<u>底線</u>為組別中心，為組別隊長。
-      - ****為現場投票最高分組別，可得二十二萬票(組別第一名獲得十萬票，第二到第七名獲得兩萬票) 及再次登上《M
-        COUNTDOWN》
+      - ****為現場投票最高分組別，可得二十二萬票(組別第一名獲得十萬票，第二到第七名獲得兩萬票) 及再次登上《M COUNTDOWN》
       - MMO姜丹尼爾、Pledis姜東昊為優勝組第1名(205票)及第2名(78票)，個人票數未同時公佈，會延至第三次排名儀式時發表。
   - 第9集排名: 公開1-35位各票數及第12名為 Pledis**黃旼炫**
 
@@ -2368,8 +2356,7 @@ The 男子漢</p></td>
 
       - 練習生需要自行編舞，歌曲中心會在完成所有課程後經確認並在最終決賽公開。
 
-      - 註：Brand New
-        Music林煐岷在主題評價中因其家人與外界討論表演歌曲選擇意向，被製作組認為影響公正性而判斷為違規\[2\]\[3\]，安排第一位進行歌曲選擇作為處罰。
+      - 註：Brand New Music林煐岷在主題評價中因其家人與外界討論表演歌曲選擇意向，被製作組認為影響公正性而判斷為違規\[2\]\[3\]，安排第一位進行歌曲選擇作為處罰。
 
       - 為組別隊長。
 
@@ -2432,8 +2419,7 @@ The 男子漢</p></td>
   - 最終排名儀式(淘汰第12-20名)
       - 投票說明特別MC：**李宇鎭**
       - 投票比例：
-        **(6/10AM01:00－6/16AM01:00)＋(只限國內，每1簡訊等同7票)＝最高11位獲選為[Wanna
-        One出道](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。**
+        **(6/10AM01:00－6/16AM01:00)＋(只限國內，每1簡訊等同7票)＝最高11位獲選為[Wanna One出道](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。**
 
 <table>
 <thead>
@@ -4522,18 +4508,11 @@ The 男子漢</p></td>
   -
   - [EXCEL整理](https://docs.google.com/spreadsheets/d/1EJGfCuquM8GdJwqiL0j4jh06qOyqtSrHTOUyFP9ThqY/edit?usp=sharing)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
-[Category:韩国音乐比賽](https://zh.wikipedia.org/wiki/Category:韩国音乐比賽 "wikilink")
-[Category:Wanna_One](https://zh.wikipedia.org/wiki/Category:Wanna_One "wikilink")
-[Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink")
-[Category:PRODUCE_101](https://zh.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink") [Category:韩国音乐比賽](https://zh.wikipedia.org/wiki/Category:韩国音乐比賽 "wikilink") [Category:Wanna_One](https://zh.wikipedia.org/wiki/Category:Wanna_One "wikilink") [Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink") [Category:PRODUCE_101](https://zh.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink")
 
 1.
 2.
 3.
-4.  [35 Boys 5 Concepts
-    詳細曲目](http://thestar.chosun.com/site/data/html_dir/2017/05/31/2017053101128.html)
+4.  [35 Boys 5 Concepts 詳細曲目](http://thestar.chosun.com/site/data/html_dir/2017/05/31/2017053101128.html)
 5.
 6.

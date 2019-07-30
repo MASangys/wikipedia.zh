@@ -1,7 +1,6 @@
-**马来亚铁道通勤铁路北马区**（）是目前[KTM通勤铁路的四条线路中的其中一个](https://zh.wikipedia.org/wiki/KTM通勤铁路 "wikilink")。怡保－巴东勿刹电气化双轨工程于2014年12月开始，并在2015年完工，同年9月11日正式开通。
-\[1\]
+**马来亚铁道通勤铁路北马区**（）是目前[KTM通勤铁路的四条线路中的其中一个](https://zh.wikipedia.org/wiki/KTM通勤铁路 "wikilink")。怡保－巴东勿刹电气化双轨工程于2014年12月开始，并在2015年完工，同年9月11日正式开通。 \[1\]
 
-目前北马区有两条线路分别是北海－巴东勿刹线（简称**巴东勿刹线**）和大山脚－硝山线（简称**硝山线**）[大山脚站是这两条线路的](../Page/大山脚站.md "wikilink")[转乘站](https://zh.wikipedia.org/wiki/转乘站 "wikilink")。
+目前北马区有两条线路分别是北海－巴东勿刹线（简称**巴东勿刹线**）和大山脚－硝山线（简称**硝山线**）[大山脚站](../Page/大山脚站.md "wikilink")是这两条线路的[转乘站](https://zh.wikipedia.org/wiki/转乘站 "wikilink")。
 
 ## 线路资讯
 
@@ -230,12 +229,11 @@
 </tbody>
 </table>
 
-几乎所有[火车都采用](https://zh.wikipedia.org/wiki/火车 "wikilink")[马来亚铁道83型电力动车组](../Page/马来亚铁道83型电力动车组.md "wikilink")，旧的[马来亚铁道82型电力动车组大部分已废置并不再使用](../Page/马来亚铁道82型电力动车组.md "wikilink")。
-[KTM_Komuter_(Class_83_train_interior).jpg](https://zh.wikipedia.org/wiki/File:KTM_Komuter_\(Class_83_train_interior\).jpg "fig:KTM_Komuter_(Class_83_train_interior).jpg")
+几乎所有[火车都采用](https://zh.wikipedia.org/wiki/火车 "wikilink")[马来亚铁道83型电力动车组](../Page/马来亚铁道83型电力动车组.md "wikilink")，旧的[马来亚铁道82型电力动车组](../Page/马来亚铁道82型电力动车组.md "wikilink")大部分已废置并不再使用。 [KTM_Komuter_(Class_83_train_interior).jpg](https://zh.wikipedia.org/wiki/File:KTM_Komuter_\(Class_83_train_interior\).jpg "fig:KTM_Komuter_(Class_83_train_interior).jpg")
 
 ## 历史
 
-2015年11月9日，北马区通勤铁路正式营运并在[莪仑站](https://zh.wikipedia.org/wiki/莪仑站 "wikilink")、[北海站和](https://zh.wikipedia.org/wiki/北海站_\(马来西亚\) "wikilink")[甘文丁站之间的车站提供服务](https://zh.wikipedia.org/wiki/甘文丁站 "wikilink")。\[3\]\[4\]\[5\]\[6\]在2016年1月1日，开始提供从[北海站至](https://zh.wikipedia.org/wiki/北海站_\(马来西亚\) "wikilink")[巴东勿刹站的服务](../Page/巴东勿刹站.md "wikilink")，而在当时，[KTM电动列车服务在此区域的服务也同时被终止](https://zh.wikipedia.org/wiki/KTM电动列车服务 "wikilink")。\[7\]\[8\]
+2015年11月9日，北马区通勤铁路正式营运并在[莪仑站](https://zh.wikipedia.org/wiki/莪仑站 "wikilink")、[北海站和](https://zh.wikipedia.org/wiki/北海站_\(马来西亚\) "wikilink")[甘文丁站之间的车站提供服务](https://zh.wikipedia.org/wiki/甘文丁站 "wikilink")。\[3\]\[4\]\[5\]\[6\]在2016年1月1日，开始提供从[北海站至](https://zh.wikipedia.org/wiki/北海站_\(马来西亚\) "wikilink")[巴东勿刹站](../Page/巴东勿刹站.md "wikilink")的服务，而在当时，[KTM电动列车服务在此区域的服务也同时被终止](https://zh.wikipedia.org/wiki/KTM电动列车服务 "wikilink")。\[7\]\[8\]
 
 在2016年1月17日，莪仑－北海－甘文丁线被拆分为两条线路，分别为北海－莪仑和北海－甘文丁。这两条线路后来在2016年9月1日被改良为**巴东勿刹线**和**硝山线**。\[9\]
 
@@ -243,10 +241,8 @@
 
   - [马来亚铁道公司](https://zh.wikipedia.org/wiki/马来亚铁道公司 "wikilink")
       - [KTM城际铁路](https://zh.wikipedia.org/wiki/KTM城际铁路 "wikilink")
-          - [西海岸线
-            (马来西亚)](https://zh.wikipedia.org/wiki/西海岸线_\(马来西亚\) "wikilink")
-          - [东海岸线
-            (马来西亚)](https://zh.wikipedia.org/wiki/东海岸线_\(马来西亚\) "wikilink")
+          - [西海岸线 (马来西亚)](https://zh.wikipedia.org/wiki/西海岸线_\(马来西亚\) "wikilink")
+          - [东海岸线 (马来西亚)](https://zh.wikipedia.org/wiki/东海岸线_\(马来西亚\) "wikilink")
           - [KTM电动列车服务](https://zh.wikipedia.org/wiki/KTM电动列车服务 "wikilink")
       - '''[KTM通勤铁路](https://zh.wikipedia.org/wiki/KTM通勤铁路 "wikilink")
           - [芙蓉线](../Page/芙蓉线.md "wikilink")
@@ -261,10 +257,7 @@
   - [马来亚铁道官方网站](http://www.ktmb.com.my/)
   - [北马区通勤铁路官方资讯](https://web.archive.org/web/20151126173623/http://homepage.ktmb.com.my/images/KENYATAANMEDIARENSHUTTLEUTARA.PDF)
 
-[Category:通勤铁路](https://zh.wikipedia.org/wiki/Category:通勤铁路 "wikilink")
-[Category:马来西亚铁路线](https://zh.wikipedia.org/wiki/Category:马来西亚铁路线 "wikilink")
-[Category:KTM通勤铁路](https://zh.wikipedia.org/wiki/Category:KTM通勤铁路 "wikilink")
-[Category:2015年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:2015年啟用的鐵路線 "wikilink")
+[Category:通勤铁路](https://zh.wikipedia.org/wiki/Category:通勤铁路 "wikilink") [Category:马来西亚铁路线](https://zh.wikipedia.org/wiki/Category:马来西亚铁路线 "wikilink") [Category:KTM通勤铁路](https://zh.wikipedia.org/wiki/Category:KTM通勤铁路 "wikilink") [Category:2015年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:2015年啟用的鐵路線 "wikilink")
 
 1.
 2.

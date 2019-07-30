@@ -1,4 +1,4 @@
-是[萬代南夢宮製作的](https://zh.wikipedia.org/wiki/萬代南夢宮 "wikilink")[女性向音樂類](../Page/女性向.md "wikilink")[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，[角色原案由](https://zh.wikipedia.org/wiki/角色原案 "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[種村有菜擔任](https://zh.wikipedia.org/wiki/種村有菜 "wikilink")，歌曲製作由[Lantis擔任](../Page/Lantis.md "wikilink")。
+是[萬代南夢宮製作的](https://zh.wikipedia.org/wiki/萬代南夢宮 "wikilink")[女性向](../Page/女性向.md "wikilink")音樂類[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，[角色原案由](https://zh.wikipedia.org/wiki/角色原案 "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[種村有菜擔任](https://zh.wikipedia.org/wiki/種村有菜 "wikilink")，歌曲製作由[Lantis](../Page/Lantis.md "wikilink")擔任。
 
 IDOLiSH7不僅是一款手遊，也是一個集小說、漫畫、遊戲、音樂、動畫為一體的多平台大型企劃。\[1\]
 
@@ -44,9 +44,7 @@ IDOLiSH7是由七位背景各不相同的少年組成的團體，主要角色為
 <!-- end list -->
 
   -
-    身高：183cm / 生日：4月1日 / 年齡：17歲 /
-    記號：中弱（Mezzo-piano，<span style="font-family: 'Times New Roman', Times, serif; font-size: large;">***mp***</span>
-    ）/ 代表顏色：
+    身高：183cm / 生日：4月1日 / 年齡：17歲 / 記號：中弱（Mezzo-piano，<span style="font-family: 'Times New Roman', Times, serif; font-size: large;">***mp***</span> ）/ 代表顏色：
     喜歡的東西：國王布丁 
     討厭的東西：瑣碎的事 
     天才，擅長舞蹈，脫力系角色，團內的性感擔當。
@@ -57,9 +55,7 @@ IDOLiSH7是由七位背景各不相同的少年組成的團體，主要角色為
 <!-- end list -->
 
   -
-    身高：175cm / 生日：5月28日 / 年齡：20歲 / 記號：中強（Mezzo-forte，
-    <span style="font-family: 'Times New Roman', Times, serif; font-size: large;">***mf***</span>
-    ）/ 代表顏色：
+    身高：175cm / 生日：5月28日 / 年齡：20歲 / 記號：中強（Mezzo-forte， <span style="font-family: 'Times New Roman', Times, serif; font-size: large;">***mf***</span> ）/ 代表顏色：
     喜歡的東西：整理收拾 
     討厭的東西：軟弱的自己 
     性格認真又溫柔的好青年。
@@ -142,8 +138,7 @@ IDOLiSH7是由七位背景各不相同的少年組成的團體，主要角色為
 <!-- end list -->
 
   -
-    身高：178cm / 生日：12月24日 / 年齡：26歲 / 記號：反覆記號（Right Repeat Sign，:||）/
-    代表顏色：
+    身高：178cm / 生日：12月24日 / 年齡：26歲 / 記號：反覆記號（Right Repeat Sign，:||）/ 代表顏色：
     喜歡的東西：百的裝傻發言
     討厭的東西：態度驕傲的人、蟬
     對事物毫不動搖，散發著冷酷的氣質，但意外笑點很低，還經常被百的搞笑言行惹得忍不住笑出來。
@@ -155,36 +150,45 @@ IDOLiSH7是由七位背景各不相同的少年組成的團體，主要角色為
 第3部故事中結成的偶像團體。\[3\]
 
   -
-    身高：170cm / 生日：12月6日 / 年齢：17歳 /
-    記號：延音（Fermata）[Fermata_triangle.png](https://zh.wikipedia.org/wiki/File:Fermata_triangle.png "fig:Fermata_triangle.png")
-    / 代表顏色：
-    與甜美的外表相反，不允許有人不認同自己，以自我為中心的高中生。
-    ŹOOĻ的主唱。
+    身高：170cm / 生日：12月6日 / 年齢：17歳 / 記號：延音（Fermata）[Fermata_triangle.png](https://zh.wikipedia.org/wiki/File:Fermata_triangle.png "fig:Fermata_triangle.png") / 代表顏色：
+    喜歡的東西：甜點
+    討厭的東西：努力
+    ŹOOĻ中年紀最小的成員，擔任主唱。
+    與一織和環是同一所學校的學生。
+    喜歡甜食。就算女性朋友做的甜甜圈覺得難吃，也會保持優雅地吃相。
+    原本是個為了目標努力不懈、性格直率的孩子，卻因為一件事情導致個性開始扭曲......。
 
 <!-- end list -->
 
   -
-    身高：176cm / 生日：11月29日 / 年齢：20歳 /
-    記號：連續記號（Segno）[SegnoTeken.svg](https://zh.wikipedia.org/wiki/File:SegnoTeken.svg "fig:SegnoTeken.svg")
-    / 代表顏色：
-    雖然以前是個認真對待音樂的人，但是現在只為了向TRIGGER復仇而活動。
-    ŹOOĻ的主唱。
+    身高：176cm / 生日：11月29日 / 年齢：20歳 / 記號：連續記號（Segno）[SegnoTeken.svg](https://zh.wikipedia.org/wiki/File:SegnoTeken.svg "fig:SegnoTeken.svg") / 代表顏色：
+    喜歡的東西：狗
+    討厭的東西：耀眼的東西
+    ŹOOĻ的主唱，過去屬於曾經在魔幻音樂季出場過的NO_MAD。
+    重視夥伴，想和團員們打成一片，卻總是一個人白忙一場。
+    他的言行舉止都透露出個性善良的一面，本人卻打算要使壞。
 
 <!-- end list -->
 
   -
     身高：185cm / 生日：3月15日 / 年齢：21歳 / 記號：相同號（Simile marks）·//./ 代表顏色：
-    擁有得天獨厚的才能和環境，對女性來者不拒的自信家。
-    ŹOOĻ的表演者。
+    喜歡的東西：英雄
+    討厭的東西：反派
+    家裡經營高級連鎖飯店的貴公子。在ŹOOĻ中擔任表演者。
+    來者不拒，逝者不追的態度讓世上的女性都為他著迷。
+    是個喜歡英雄動作片的普通青年，但是卻因為自己與外界期望之間的落差而苦惱，
+    使他的生活態度變得放浪不羈。
 
 <!-- end list -->
 
   -
-    身高：174cm / 生日：6月8日 / 年齢：19歳 / 記號：釋放踏板（Release
-    pedal）[Music-pedalup.png](https://zh.wikipedia.org/wiki/File:Music-pedalup.png "fig:Music-pedalup.png")
-    / 代表顏色：
-    沉穩柔和的笑容下有著腹黑的一面，小時候曾為天才演員。
-    ŹOOĻ的表演者。
+    身高：174cm / 生日：6月8日 / 年齢：19歳 / 記號：釋放踏板（Release pedal）[Music-pedalup.png](https://zh.wikipedia.org/wiki/File:Music-pedalup.png "fig:Music-pedalup.png") / 代表顏色：
+    喜歡的東西：占卜
+    討厭的東西：聽不懂諷刺話的人
+    在ŹOOĻ中擔任表演者，
+    從小就以童星身分進入演藝圈。
+    帶人溫和、說話有禮，卻時常話中帶刺。
+    擅長占卜也有留學經驗，是個聰明的人。
 
 ### 小鳥遊事務所
 
@@ -286,13 +290,10 @@ IDOLiSH7是由七位背景各不相同的少年組成的團體，主要角色為
 
 ## 電視動畫
 
-2016年8月19日於遊戲一週年直播節目中公佈動畫化計劃。2018年1月在TOKYO
-MX播出，第一、二話為一小時特番，第三話開始正常播放。台灣由[巴哈姆特動畫瘋網路](../Page/巴哈姆特動畫瘋.md "wikilink")
-播放，香港為[無綫電視播出](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")。
+2016年8月19日於遊戲一週年直播節目中公佈動畫化計劃。2018年1月在TOKYO MX播出，第一、二話為一小時特番，第三話開始正常播放。台灣由[巴哈姆特動畫瘋](../Page/巴哈姆特動畫瘋.md "wikilink")網路 播放，香港為[無綫電視播出](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")。
 
-2018年3月23日公佈第15話播出後會播放特別節目，標題為「アイドリッシュセブン特別番組
-キミと振り返らないと！」，而第16至17集為一小時特番,
-於2018年5月19日播出。\[4\]
+2018年3月23日公佈第15話播出後會播放特別節目，標題為「アイドリッシュセブン特別番組 キミと振り返らないと！」，而第16至17集為一小時特番, 於2018年5月19日播出。\[4\]
+2019年7月6日於演唱會公布動畫第二期的消息 於2020年播出
 
 ### 製作人員
 
@@ -648,8 +649,7 @@ MX播出，第一、二話為一小時特番，第三話開始正常播放。台
   - 片尾曲「DESTINY」（第1、2話）
     作詞 - [結城愛良](../Page/結城愛良.md "wikilink") / 作曲・編曲 - 草野將史 / 歌 - TRIGGER
   - 片尾曲「PARTY TIME TOGETHER」（第3話）
-    作詞 - [結城愛良](../Page/結城愛良.md "wikilink") / 作曲 - HIROTOMO・SI.V / 編曲 -
-    中土智博 / 歌 - IDOLiSH7
+    作詞 - [結城愛良](../Page/結城愛良.md "wikilink") / 作曲 - HIROTOMO・SI.V / 編曲 - 中土智博 / 歌 - IDOLiSH7
 
 <table>
 <thead>
@@ -763,12 +763,7 @@ MX播出，第一、二話為一小時特番，第三話開始正常播放。台
 
 ### 12 SONGS GIFT
 
-\[10\]
-於2018年連續12個月發行的網絡配信限定單曲。在每個月各成員的生日當天以[solo曲的方式於](https://zh.wikipedia.org/wiki/Solo "wikilink")[iTunes
-Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、[Google
-Play](https://zh.wikipedia.org/wiki/Google_Play_Store "wikilink")(限日本地區)、animelo
-mix、[mora](https://zh.wikipedia.org/wiki/mora "wikilink")、[RecoChoku](../Page/RecoChoku.md "wikilink")、e-onkyo
-music等管道發行。
+\[10\] 於2018年連續12個月發行的網絡配信限定單曲。在每個月各成員的生日當天以[solo曲的方式於](https://zh.wikipedia.org/wiki/Solo "wikilink")[iTunes Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、[Google Play](https://zh.wikipedia.org/wiki/Google_Play_Store "wikilink")(限日本地區)、animelo mix、[mora](https://zh.wikipedia.org/wiki/mora "wikilink")、[RecoChoku](../Page/RecoChoku.md "wikilink")、e-onkyo music等管道發行。
 
 | <small>配信日期</small>        | <small>歌手</small>                                                            | <small>歌曲名稱</small>            |
 | -------------------------- | ---------------------------------------------------------------------------- | ------------------------------ |
@@ -799,8 +794,7 @@ music等管道發行。
 
 ### RADIO STATION “Twelve Hits\!”
 
-於2019年DOLiSH7・TRIGGER・Re:vale誕生日發售廣播CD收錄內容有RADIO STATION “Twelve
-Hits\!”各自角色的版本，2018年配信的12 SONGS GIFT，廣播主題曲Wonderful Octave各自角色的版本。
+於2019年DOLiSH7・TRIGGER・Re:vale誕生日發售廣播CD收錄內容有RADIO STATION “Twelve Hits\!”各自角色的版本，2018年配信的12 SONGS GIFT，廣播主題曲Wonderful Octave各自角色的版本。
 
 | 發售日                                           | 廣播標題            | SOLO曲                             | 主題曲                                                           | 演出歌手 |
 | --------------------------------------------- | --------------- | --------------------------------- | ------------------------------------------------------------- | ---- |
@@ -935,8 +929,7 @@ Hits\!”各自角色的版本，2018年配信的12 SONGS GIFT，廣播主題曲
 | アイドリッシュセブン4 | ISBN 9784592212041 | IDOLiSH7-偶像星願 4 | ISBN 9789864746415 |
 | アイドリッシュセブン5 | ISBN 9784592212058 | \--             | \--                |
 
-  - '''『アイドリッシュセブン TRIGGER -before The Radiant Glory-』 / 『IDOLiSH7-偶像星願-
-    TRIGGER -before The Radiant Glory』 '''
+  - '''『アイドリッシュセブン TRIGGER -before The Radiant Glory-』 / 『IDOLiSH7-偶像星願- TRIGGER -before The Radiant Glory』 '''
 
 <!-- end list -->
 
@@ -1036,18 +1029,11 @@ Hits\!”各自角色的版本，2018年配信的12 SONGS GIFT，廣播主題曲
 
   - [IDOLiSH7 動畫官網](http://idolish7.com/aninana/)
 
-  - [IDOLiSH7
-    官方臉書](https://www.facebook.com/IDOLiSH7-%E5%81%B6%E5%83%8F%E6%98%9F%E9%A1%98--1990862627863202/)
+  - [IDOLiSH7 官方臉書](https://www.facebook.com/IDOLiSH7-%E5%81%B6%E5%83%8F%E6%98%9F%E9%A1%98--1990862627863202/)
 
   - [IDOLiSH7 官方網站](https://www.idolish7.com.tw/index)
 
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink")
-[Category:偶像題材動畫](https://zh.wikipedia.org/wiki/Category:偶像題材動畫 "wikilink")
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
+[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink") [Category:偶像題材動畫](https://zh.wikipedia.org/wiki/Category:偶像題材動畫 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 
 1.  <https://gnn.gamer.com.tw/7/156207.html>
 2.  台港澳官方繁中版以台語翻譯，香港配音版則置換成潮州話

@@ -1,6 +1,4 @@
-是[ASa
-Project在](../Page/HOOKSOFT.md "wikilink")2015年4月24日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。2016年8月25日由Entergram發售[PlayStation
-Vita版](../Page/PlayStation_Vita.md "wikilink")《PURAMAI WARS V》\[2\]。
+是[ASa Project在](../Page/HOOKSOFT.md "wikilink")2015年4月24日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。2016年8月25日由Entergram發售[PlayStation Vita版](../Page/PlayStation_Vita.md "wikilink")《PURAMAI WARS V》\[2\]。
 
 ## 故事簡介
 
@@ -60,13 +58,7 @@ PURAMAI WARS在Getchu.com的2015年4月銷量榜上排名第4名\[7\]、全年�
   - [PURAMAI WARS遊戲官網](http://www.asa-pro.com/puramaiwars/index.html)
   - [PURAMAI WARS V遊戲官網](http://www.entergram.co.jp/puramaiwars/)
 
-[Category:2015年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2015年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:2016年電子遊戲](https://zh.wikipedia.org/wiki/Category:2016年電子遊戲 "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
+[Category:2015年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2015年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:2016年電子遊戲](https://zh.wikipedia.org/wiki/Category:2016年電子遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
 
 1.
 

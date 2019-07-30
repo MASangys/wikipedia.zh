@@ -5,13 +5,13 @@
 
 ## 電影
 
-  - ，1922年的[默片](https://zh.wikipedia.org/wiki/默片 "wikilink")，由[F·W·穆瑙導演](../Page/F·W·穆瑙.md "wikilink")
+  - ，1922年的[默片](https://zh.wikipedia.org/wiki/默片 "wikilink")，由[F·W·穆瑙](../Page/F·W·穆瑙.md "wikilink")導演
 
   - ，美國片，導演為艾倫·詹姆斯（）
 
   - ，由[連環漫畫改編的](https://zh.wikipedia.org/wiki/連環漫畫 "wikilink")1943年[連續劇](https://zh.wikipedia.org/wiki/連續劇 "wikilink")
 
-  - ，西蒙·溫瑟爾（）導演、[比利·贊恩主演的](../Page/比利·贊恩.md "wikilink")1996年電影
+  - ，西蒙·溫瑟爾（）導演、[比利·贊恩](../Page/比利·贊恩.md "wikilink")主演的1996年電影
 
   - ，改編自[丁·昆士小說的](https://zh.wikipedia.org/wiki/丁·昆士 "wikilink")1998年電影
 
@@ -27,12 +27,11 @@
 
   - ，2015年印度政治驚悚片
 
-  - The Phantom，[粉紅豹中的一個角色](../Page/粉紅豹.md "wikilink")
+  - The Phantom，[粉紅豹](../Page/粉紅豹.md "wikilink")中的一個角色
 
   - The Phantom，動畫電視影集 ** 的角色
 
-  - 關於「歌劇魅影」（）於1925、1943、1962、1983、1987、1989、1998、2004、2011年的影視改編作品，請參見：[歌劇魅影
-    (消歧義)](../Page/歌劇魅影_\(消歧義\).md "wikilink")
+  - 關於「歌劇魅影」（）於1925、1943、1962、1983、1987、1989、1998、2004、2011年的影視改編作品，請參見：[歌劇魅影 (消歧義)](../Page/歌劇魅影_\(消歧義\).md "wikilink")
 
 ## 音樂
 
@@ -42,8 +41,7 @@
 
   - ，1991年音樂劇
 
-  - [歌劇魅影
-    (音樂劇)](../Page/歌劇魅影_\(音樂劇\).md "wikilink")，[安德魯·洛伊·韋伯的音樂劇](https://zh.wikipedia.org/wiki/安德魯·洛伊·韋伯 "wikilink")
+  - [歌劇魅影 (音樂劇)](../Page/歌劇魅影_\(音樂劇\).md "wikilink")，[安德魯·洛伊·韋伯的音樂劇](https://zh.wikipedia.org/wiki/安德魯·洛伊·韋伯 "wikilink")
 
   - ，曾被稱為「Phantom 105.2」的廣播電台
 
@@ -52,8 +50,7 @@
   -
   - ，一種[電吉他](https://zh.wikipedia.org/wiki/電吉他 "wikilink")
 
-  - [Phantoms
-    (Toch)](https://zh.wikipedia.org/wiki/Phantoms_\(Toch\) "wikilink")，[恩斯特·托赫的合唱作品](https://zh.wikipedia.org/wiki/恩斯特·托赫 "wikilink")
+  - [Phantoms (Toch)](https://zh.wikipedia.org/wiki/Phantoms_\(Toch\) "wikilink")，[恩斯特·托赫的合唱作品](https://zh.wikipedia.org/wiki/恩斯特·托赫 "wikilink")
 
 ### 專輯
 
@@ -81,8 +78,7 @@
 
   - ，的歌
 
-  - "Phantom"，[CAPSULE在](../Page/CAPSULE.md "wikilink")「[More\! More\!
-    More\!](../Page/MORE!_MORE!_MORE!.md "wikilink")」中的歌
+  - "Phantom"，[CAPSULE](../Page/CAPSULE.md "wikilink")在「[More\! More\! More\!](../Page/MORE!_MORE!_MORE!.md "wikilink")」中的歌
 
   - ，1986年音樂劇中的歌
 
@@ -100,12 +96,11 @@
 
   - ，的小說
 
-  - ，[尤·奈斯博的小說](../Page/尤·奈斯博.md "wikilink")，2012年
+  - ，[尤·奈斯博](../Page/尤·奈斯博.md "wikilink")的小說，2012年
 
   - ，一個漫畫角色
 
-  - [艾瑞克
-    (歌劇魅影)](../Page/艾瑞克_\(歌劇魅影\).md "wikilink")，小說[歌劇魅影及其各改編作品的主角](../Page/歌劇魅影.md "wikilink")
+  - [艾瑞克 (歌劇魅影)](../Page/艾瑞克_\(歌劇魅影\).md "wikilink")，小說[歌劇魅影](../Page/歌劇魅影.md "wikilink")及其各改編作品的主角
 
   - The Phantom，超人漫畫中反派的別名
 
@@ -124,17 +119,13 @@
 
   - Phantom Bow, a weapon from Battlefield 4.
 
-  - [The Phantom Pain](../Page/潛龍諜影V_幻痛.md "wikilink"), a Metal Gear
-    Solid game.
+  - [The Phantom Pain](../Page/潛龍諜影V_幻痛.md "wikilink"), a Metal Gear Solid game.
 
-  - Phantoms, fictional squid-like creatures that serve as
-    personification of pollution and the main antagonists in **
+  - Phantoms, fictional squid-like creatures that serve as personification of pollution and the main antagonists in **
 
-  - Phantom Thieves, the group of main characters in [Persona
-    5](../Page/女神異聞錄5.md "wikilink").
+  - Phantom Thieves, the group of main characters in [Persona 5](../Page/女神異聞錄5.md "wikilink").
 
-  - Phantom Animatronics, The Antagonists In [Five Nights At Freddy's
-    3](../Page/玩具熊的五夜後宮3.md "wikilink")
+  - Phantom Animatronics, The Antagonists In [Five Nights At Freddy's 3](../Page/玩具熊的五夜後宮3.md "wikilink")
 
 ## 醫學名詞
 
@@ -142,16 +133,13 @@
 
   - , an object used as a substitute for live or cadaver subjects
 
-  - , a computerized model of the human body used primarily for
-    radiation dose simulation
+  - , a computerized model of the human body used primarily for radiation dose simulation
 
 ## 軍事名詞
 
   - , a jet fighter aircraft, introduced 1947
 
-  - [McDonnell Douglas F-4 Phantom
-    II](../Page/F-4幽靈II戰鬥機.md "wikilink"), a supersonic
-    air-defense fighter and fighter-bomber, introduced 1960
+  - [McDonnell Douglas F-4 Phantom II](../Page/F-4幽靈II戰鬥機.md "wikilink"), a supersonic air-defense fighter and fighter-bomber, introduced 1960
 
   - , a stealthy unmanned combat air vehicle
 
@@ -161,8 +149,7 @@
 
   - or the "Phantom Division"
 
-  - Phantom aircraft, a reported incident during World War II in which a
-     attempted to infiltrate a British heavy bomber formation
+  - Phantom aircraft, a reported incident during World War II in which a  attempted to infiltrate a British heavy bomber formation
 
 ## 運動名詞
 
@@ -210,8 +197,7 @@
 
   - , an American TV miniseries starring Charles Dance
 
-  - , a French-American animated series loosely based on the comic strip
-    hero *The Phantom*, created by Lee Falk
+  - , a French-American animated series loosely based on the comic strip hero *The Phantom*, created by Lee Falk
 
 ## 其他
 
@@ -219,11 +205,9 @@
 
   - , American serial killer
 
-  - [幻想供电](../Page/幻想供电.md "wikilink")（）, a method of sending DC
-    electrical voltage through microphone cables
+  - [幻想供电](../Page/幻想供电.md "wikilink")（）, a method of sending DC electrical voltage through microphone cables
 
-  - [勞斯萊斯幻影](https://zh.wikipedia.org/wiki/勞斯萊斯幻影 "wikilink")（）, a line
-    of luxury automobiles
+  - [勞斯萊斯幻影](https://zh.wikipedia.org/wiki/勞斯萊斯幻影 "wikilink")（）, a line of luxury automobiles
 
   - (1919–2012), Filipino war hero nicknamed "Phantom"
 

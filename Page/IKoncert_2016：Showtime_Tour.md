@@ -1,15 +1,10 @@
-《**iKoncert 2016：Showtime
-Tour**》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[iKON的首場亞洲巡迴演唱會](https://zh.wikipedia.org/wiki/iKON "wikilink")，以支持他們的第一張專輯《[Welcome
-Back](../Page/WELCOME_BACK_\(iKON韓語專輯\).md "wikilink")》，此次巡演由2016年1月30日和31日在韓國[首爾奧林匹克體操競技場的兩場演出拉開帷幕](../Page/首尔奥林匹克体操竞技场.md "wikilink")，並成功聚集2萬4千名歌迷進場觀賞，在之後陸續造訪了[日本](../Page/日本.md "wikilink")、[中國](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")、[香港](../Page/香港.md "wikilink")、[臺灣](../Page/中華民國.md "wikilink")、[泰國](../Page/泰国.md "wikilink")\[1\]。、[新加坡](../Page/新加坡.md "wikilink")、[馬來西亞及](../Page/马来西亚.md "wikilink")[印尼等國家及地區](../Page/印度尼西亚.md "wikilink")。\[2\]
+《**iKoncert 2016：Showtime Tour**》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[iKON的首場亞洲巡迴演唱會](https://zh.wikipedia.org/wiki/iKON "wikilink")，以支持他們的第一張專輯《[Welcome Back](../Page/WELCOME_BACK_\(iKON韓語專輯\).md "wikilink")》，此次巡演由2016年1月30日和31日在韓國[首爾奧林匹克體操競技場的兩場演出拉開帷幕](../Page/首尔奥林匹克体操竞技场.md "wikilink")，並成功聚集2萬4千名歌迷進場觀賞，在之後陸續造訪了[日本](../Page/日本.md "wikilink")、[中國](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")、[香港](../Page/香港.md "wikilink")、[臺灣](../Page/中華民國.md "wikilink")、[泰國](../Page/泰国.md "wikilink")\[1\]。、[新加坡](../Page/新加坡.md "wikilink")、[馬來西亞及](../Page/马来西亚.md "wikilink")[印尼等國家及地區](../Page/印度尼西亚.md "wikilink")。\[2\]
 
 ## 背景
 
-隨著iKON在2016年1月13日的日本首演，組合開始了他們第一次在日本競技場的演出「iKoncert：Showtime Tour in
-Japan 2016」\[3\]。
-2015年10月5日所屬經紀公司[YG娛樂宣佈](../Page/YG娛樂.md "wikilink")，將巡演原定的3座城市觀眾人數達9萬5千人的公演\[4\]，再增加2座城市，一共14場演出聚集14萬6千名的歌迷\[5\]，其中在[福岡的兩場演出有](../Page/福岡市.md "wikilink")8千名觀眾\[6\]，[東京場](../Page/東京都.md "wikilink")1萬3千名以及在[大阪場的](../Page/大阪市.md "wikilink")2萬4千名觀眾。\[7\]\[8\]
+隨著iKON在2016年1月13日的日本首演，組合開始了他們第一次在日本競技場的演出「iKoncert：Showtime Tour in Japan 2016」\[3\]。 2015年10月5日所屬經紀公司[YG娛樂](../Page/YG娛樂.md "wikilink")宣佈，將巡演原定的3座城市觀眾人數達9萬5千人的公演\[4\]，再增加2座城市，一共14場演出聚集14萬6千名的歌迷\[5\]，其中在[福岡的兩場演出有](../Page/福岡市.md "wikilink")8千名觀眾\[6\]，[東京場](../Page/東京都.md "wikilink")1萬3千名以及在[大阪場的](../Page/大阪市.md "wikilink")2萬4千名觀眾。\[7\]\[8\]
 
-2016年3月17日，YG娛樂發佈了將舉行公演的兩座城市名稱正式啟動iKON在亞洲的巡迴演唱會「Showtime
-Tour」，而這兩座城市分別為臺灣[臺北及](../Page/臺北.md "wikilink")[香港](../Page/香港.md "wikilink")\[9\]，之後也造訪了中國[成都](../Page/成都市.md "wikilink")、[南京](https://zh.wikipedia.org/wiki/南京市 "wikilink")、[深圳和](../Page/深圳市.md "wikilink")[上海](https://zh.wikipedia.org/wiki/上海市 "wikilink")，而巡演也擴大到了泰國、新加坡、馬來西亞和印尼。\[10\]\[11\]\[12\]
+2016年3月17日，YG娛樂發佈了將舉行公演的兩座城市名稱正式啟動iKON在亞洲的巡迴演唱會「Showtime Tour」，而這兩座城市分別為臺灣[臺北](../Page/臺北.md "wikilink")及[香港](../Page/香港.md "wikilink")\[9\]，之後也造訪了中國[成都](../Page/成都市.md "wikilink")、[南京](https://zh.wikipedia.org/wiki/南京市 "wikilink")、[深圳和](../Page/深圳市.md "wikilink")[上海](https://zh.wikipedia.org/wiki/上海市 "wikilink")，而巡演也擴大到了泰國、新加坡、馬來西亞和印尼。\[10\]\[11\]\[12\]
 
 ## 特別嘉賓
 
@@ -40,11 +35,9 @@ Tour」，而這兩座城市分別為臺灣[臺北及](../Page/臺北.md "wikili
 
 10. （翻唱[BIGBANG歌曲](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")）
 
-11. [Me Gustas
-    Tu](../Page/Flower_Bud.md "wikilink")（[振煥單獨演出](../Page/金振煥.md "wikilink")，翻唱[GFriend歌曲](../Page/GFRIEND.md "wikilink")）
+11. [Me Gustas Tu](../Page/Flower_Bud.md "wikilink")（[振煥單獨演出](../Page/金振煥.md "wikilink")，翻唱[GFriend歌曲](../Page/GFRIEND.md "wikilink")）
 
-12. [Up &
-    Down](https://zh.wikipedia.org/wiki/Up_&_Down_\(EXID單曲\) "wikilink")（翻唱[EXID歌曲](https://zh.wikipedia.org/wiki/EXID "wikilink")）
+12. [Up & Down](https://zh.wikipedia.org/wiki/Up_&_Down_\(EXID單曲\) "wikilink")（翻唱[EXID歌曲](https://zh.wikipedia.org/wiki/EXID "wikilink")）
 
 13. 我不一樣（[HI秀賢](../Page/HI秀賢.md "wikilink") Feat. Bobby）
 
@@ -300,8 +293,7 @@ Tour」，而這兩座城市分別為臺灣[臺北及](../Page/臺北.md "wikili
   -
   -
   -
-[Category:IKON巡迴演唱會](https://zh.wikipedia.org/wiki/Category:IKON巡迴演唱會 "wikilink")
-[Category:2016年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2016年巡迴演唱會 "wikilink")
+[Category:IKON巡迴演唱會](https://zh.wikipedia.org/wiki/Category:IKON巡迴演唱會 "wikilink") [Category:2016年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2016年巡迴演唱會 "wikilink")
 
 1.
 

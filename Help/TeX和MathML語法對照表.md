@@ -222,7 +222,6 @@
 
 [Wiki百科中的使用說明：數學公式](https://zh.wikipedia.org/wiki/Help:%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F)
 
-[Unicode Entity Codes for
-Math](http://symbolcodes.tlt.psu.edu/bylanguage/mathchart.html)
+[Unicode Entity Codes for Math](http://symbolcodes.tlt.psu.edu/bylanguage/mathchart.html)
 
 [Category:使用创建条目精灵建立的页面](https://zh.wikipedia.org/wiki/Category:使用创建条目精灵建立的页面 "wikilink")

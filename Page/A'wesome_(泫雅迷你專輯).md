@@ -1,5 +1,4 @@
-《A'wesome》是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[4MINUTE解散後](../Page/4minute.md "wikilink")[泫雅的第一張專輯](../Page/金泫雅.md "wikilink")，也是[泫雅的第五張迷你專輯](../Page/金泫雅.md "wikilink")。於2016年8月1日發行。唱片公司為[Cube
-Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")。主打歌為"如何？(어때？)"。這是泫雅在4minute解散後首次發行個人專輯。主打曲《怎樣?》由曾為泫雅創作《Red》、《因為紅》等熱門歌曲的徐在宇作曲，泫雅與朴三楚作詞，是一首將鮮明的說唱節拍與薩克斯風即興演奏重複段熔於一爐的嘻哈曲。　此次發行的迷你5輯中，泫雅親自參與到5首收錄曲的作詞，展現了音樂創作能力，還請到了rapper歌手韓海等參與Feat，是完成度很高的專輯。\[1\]
+《A'wesome》是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[4MINUTE解散後](../Page/4minute.md "wikilink")[泫雅的第一張專輯](../Page/金泫雅.md "wikilink")，也是[泫雅的第五張迷你專輯](../Page/金泫雅.md "wikilink")。於2016年8月1日發行。唱片公司為[Cube Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")。主打歌為"如何？(어때？)"。這是泫雅在4minute解散後首次發行個人專輯。主打曲《怎樣?》由曾為泫雅創作《Red》、《因為紅》等熱門歌曲的徐在宇作曲，泫雅與朴三楚作詞，是一首將鮮明的說唱節拍與薩克斯風即興演奏重複段熔於一爐的嘻哈曲。　此次發行的迷你5輯中，泫雅親自參與到5首收錄曲的作詞，展現了音樂創作能力，還請到了rapper歌手韓海等參與Feat，是完成度很高的專輯。\[1\]
 
 ## 發行過程
 
@@ -66,9 +65,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")。�
 
 ## 參考資料
 
-[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
-[Category:4minute_EP](https://zh.wikipedia.org/wiki/Category:4minute_EP "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:4minute_EP](https://zh.wikipedia.org/wiki/Category:4minute_EP "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

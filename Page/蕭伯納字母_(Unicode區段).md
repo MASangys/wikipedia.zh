@@ -1,4 +1,4 @@
-**蕭伯納字母**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了[萧伯纳发明的](../Page/萧伯纳.md "wikilink")，用来拼写[英語的蕭伯納字母](https://zh.wikipedia.org/wiki/英語 "wikilink")。
+**蕭伯納字母**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了[萧伯纳](../Page/萧伯纳.md "wikilink")发明的，用来拼写[英語的蕭伯納字母](https://zh.wikipedia.org/wiki/英語 "wikilink")。
 
 ## 历史
 

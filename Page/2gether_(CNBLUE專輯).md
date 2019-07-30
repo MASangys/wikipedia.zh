@@ -1,13 +1,12 @@
-《**2gether**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE的第二張韓語正規專輯](../Page/CNBLUE.md "wikilink")，於2015年9月14日發行\[1\]，主打曲目為《Cinderella》（）。
+《**2gether**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第二張韓語正規專輯，於2015年9月14日發行\[1\]，主打曲目為《Cinderella》（）。
 
 ## 背景
 
-2015年8月24日，韓國媒體《new1》引述相關人士的消息，指出CNBLUE將會在9月推出韓語正規專輯\[2\]，隨後8月28日[FNC娛樂在CNBLUE官方](../Page/FNC娛樂.md "wikilink")[Facebook發布兩個版本的專輯封面](../Page/Facebook.md "wikilink")，也確定了專輯名字為《2gether》，將在9月14日發行\[3\]。
+2015年8月24日，韓國媒體《new1》引述相關人士的消息，指出CNBLUE將會在9月推出韓語正規專輯\[2\]，隨後8月28日[FNC娛樂](../Page/FNC娛樂.md "wikilink")在CNBLUE官方[Facebook](../Page/Facebook.md "wikilink")發布兩個版本的專輯封面，也確定了專輯名字為《2gether》，將在9月14日發行\[3\]。
 
-9月2日到9月3日，CNBLUE在Fascebook發放分別發布了兩組不同的專輯概念照片\[4\]\[5\]；稍後亦宣布將在10月舉行演唱會《2015
-CNBLUE LIVE \[COME TOGETHER\] IN SEOUL》以作宣傳\[6\]
+9月2日到9月3日，CNBLUE在Fascebook發放分別發布了兩組不同的專輯概念照片\[4\]\[5\]；稍後亦宣布將在10月舉行演唱會《2015 CNBLUE LIVE \[COME TOGETHER\] IN SEOUL》以作宣傳\[6\]
 
-9月8日，官方公開完整專輯曲目名單\[7\]；專輯歌曲試聽影片則於9月11日在官方[YouTube頻道推出](../Page/YouTube.md "wikilink")\[8\]；而主打曲《Cinderella》音樂錄影帶在9月14日隨專輯音源公開\[9\]。
+9月8日，官方公開完整專輯曲目名單\[7\]；專輯歌曲試聽影片則於9月11日在官方[YouTube](../Page/YouTube.md "wikilink")頻道推出\[8\]；而主打曲《Cinderella》音樂錄影帶在9月14日隨專輯音源公開\[9\]。
 
 ## 曲目
 
@@ -74,7 +73,7 @@ CNBLUE LIVE \[COME TOGETHER\] IN SEOUL》以作宣傳\[6\]
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
 | ---------------------------------------- | ---- | ------ | ------- | ---- |
 | 專輯日榜                                     | \-   | \-     | 12,672+ | 3星期  |
 | 專輯週榜                                     | 14   | 3,069  |         |      |
@@ -139,10 +138,7 @@ CNBLUE LIVE \[COME TOGETHER\] IN SEOUL》以作宣傳\[6\]
 
 ## 参考文献
 
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
-[Category:CNBLUE音樂專輯](https://zh.wikipedia.org/wiki/Category:CNBLUE音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:CNBLUE音樂專輯](https://zh.wikipedia.org/wiki/Category:CNBLUE音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

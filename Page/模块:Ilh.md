@@ -132,27 +132,19 @@ end
 
 \--以下需要更高效的实现
 
-\--确定主页 --使用mw信息获得主页名 --使用language库获得本站默认语言代码（zh）来确定信息的对应语言，获得全主页名
----因为其他zh分语言只有名，没有命名空间，可以识别出来，但麻烦 --然后判断当前页和主页是否一致
----计划做重定向判断，但没需要 function ilh.isMainPage()
+\--确定主页 --使用mw信息获得主页名 --使用language库获得本站默认语言代码（zh）来确定信息的对应语言，获得全主页名 ---因为其他zh分语言只有名，没有命名空间，可以识别出来，但麻烦 --然后判断当前页和主页是否一致 ---计划做重定向判断，但没需要 function ilh.isMainPage()
 
 `   local mainpage_msgobj=mw.message.new('Mainpage')`
 `   mainpage_msgobj=mainpage_msgobj:inLanguage(mw.getContentLanguage():getCode())`
 `   local mainPage_obj=mw.title.makeTitle(0,mainpage_msgobj:plain())`
 `   local curpage_obj=mw.title.getCurrentTitle()`
 `   --local curpage_redirectFrom_obj=curpage_obj.redirectTarget`
-`   --`[`if``   ``curpage_redirectFrom_obj``   ``~=false``   ``then``
- ``curpage_obj=curpage_redirectFrom_obj``
- ``end`](https://zh.wikipedia.org/wiki/if_curpage_redirectFrom_obj_~=false_then_curpage_obj=curpage_redirectFrom_obj_end "wikilink")
+`   --`[`if``   ``curpage_redirectFrom_obj``   ``~=false``   ``then``   ``curpage_obj=curpage_redirectFrom_obj``   ``end`](https://zh.wikipedia.org/wiki/if_curpage_redirectFrom_obj_~=false_then_curpage_obj=curpage_redirectFrom_obj_end "wikilink")
 `   return mw.title.equals(mainPage_obj,curpage_obj) --and curpage_obj.namespace==4`
 
 end
 
-\--确定页面存在 ---exists是高开销方法，需要更高效的实现 --带保护的包装方法
---由于exists和解析器函数ifexist都是高开销方法
---而ifexist达到限制时默认返回结果为false的操作 --而exists会直接抛出错误而中断执行
---所以将相应调用包裹，压制exists的抛错，按照ifexist的理念，返回false --正常情况下则一切正常 function
-ilh.isExist(pageName)
+\--确定页面存在 ---exists是高开销方法，需要更高效的实现 --带保护的包装方法 --由于exists和解析器函数ifexist都是高开销方法 --而ifexist达到限制时默认返回结果为false的操作 --而exists会直接抛出错误而中断执行 --所以将相应调用包裹，压制exists的抛错，按照ifexist的理念，返回false --正常情况下则一切正常 function ilh.isExist(pageName)
 
 `   local execStatus,result=pcall(ilh._isExist,pageName)`
 `   `

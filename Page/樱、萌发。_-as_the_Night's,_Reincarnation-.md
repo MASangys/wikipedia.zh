@@ -1,4 +1,4 @@
-是于2019年1月31日\[1\]\[2\]由[FAVORITE發售的](../Page/FAVORITE.md "wikilink")[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[3\]\[4\]\[5\]，官方宣传称之为“”。\[6\]
+是于2019年1月31日\[1\]\[2\]由[FAVORITE](../Page/FAVORITE.md "wikilink")發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[3\]\[4\]\[5\]，官方宣传称之为“”。\[6\]
 
 ## 故事
 
@@ -69,14 +69,7 @@
   - [Favorite](http://www.favo.co.jp/soft/)
   - [游戏官网](http://www.favo-soft.jp/soft/product/sakura/index.html)
 
-[Category:2019年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2019年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:奇幻电子游戏](https://zh.wikipedia.org/wiki/Category:奇幻电子游戏 "wikilink")
-[Category:神道題材作品](https://zh.wikipedia.org/wiki/Category:神道題材作品 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:魔法少女題材遊戲](https://zh.wikipedia.org/wiki/Category:魔法少女題材遊戲 "wikilink")
+[Category:2019年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2019年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:奇幻电子游戏](https://zh.wikipedia.org/wiki/Category:奇幻电子游戏 "wikilink") [Category:神道題材作品](https://zh.wikipedia.org/wiki/Category:神道題材作品 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:魔法少女題材遊戲](https://zh.wikipedia.org/wiki/Category:魔法少女題材遊戲 "wikilink")
 
 1.
 

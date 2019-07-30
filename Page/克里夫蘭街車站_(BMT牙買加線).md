@@ -1,4 +1,4 @@
-**克里夫蘭街車站**（），舊稱「克里夫蘭大道車站」（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT牙買加線的一個](https://zh.wikipedia.org/wiki/BMT牙買加線 "wikilink")[隔站停靠的](../Page/隔站停靠.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")，設有[J線](../Page/紐約地鐵J線與Z線.md "wikilink")（任何時候停站）列車服務。[Z線列車營運時通過此站不停靠](../Page/紐約地鐵J線與Z線.md "wikilink")。
+**克里夫蘭街車站**（），舊稱「克里夫蘭大道車站」（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT牙買加線的一個](https://zh.wikipedia.org/wiki/BMT牙買加線 "wikilink")[隔站停靠](../Page/隔站停靠.md "wikilink")的[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")，設有[J線](../Page/紐約地鐵J線與Z線.md "wikilink")（任何時候停站）列車服務。[Z線列車營運時通過此站不停靠](../Page/紐約地鐵J線與Z線.md "wikilink")。
 
 ## 車站結構
 
@@ -35,32 +35,23 @@
 </tbody>
 </table>
 
-此車站設有一個[島式月台和兩條軌道](../Page/島式月台.md "wikilink")。
+此車站設有一個[島式月台](../Page/島式月台.md "wikilink")和兩條軌道。
 
-此高架車站起初在1893年5月30日興建，作為塞普雷斯山延伸段的首個車站，[蓋茲大道以東與百老匯高架鐵路共用](https://zh.wikipedia.org/wiki/蓋茲大道車站_\(BMT牙買加線\) "wikilink")。
-自從1950年起完全由牙買加線使用。
+此高架車站起初在1893年5月30日興建，作為塞普雷斯山延伸段的首個車站，[蓋茲大道以東與百老匯高架鐵路共用](https://zh.wikipedia.org/wiki/蓋茲大道車站_\(BMT牙買加線\) "wikilink")。 自從1950年起完全由牙買加線使用。
 
 ## 參考資料
 
 ## 外部連結
 
   -
-  - Station Reporter — [J
-    Train](https://web.archive.org/web/20121108033658/http://www.stationreporter.net/jtrain.htm)
+  - Station Reporter — [J Train](https://web.archive.org/web/20121108033658/http://www.stationreporter.net/jtrain.htm)
 
-  - The Subway Nut — [Cleveland Street
-    Pictures](http://www.subwaynut.com/bmt/clevelandj/index.php)
+  - The Subway Nut — [Cleveland Street Pictures](http://www.subwaynut.com/bmt/clevelandj/index.php)
 
-  - MTA's Arts For Transit — [Cleveland Street (BMT Jamaica
-    Line)](https://web.archive.org/web/20110606073116/http://mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&station=5&xdev=375)
+  - MTA's Arts For Transit — [Cleveland Street (BMT Jamaica Line)](https://web.archive.org/web/20110606073116/http://mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&station=5&xdev=375)
 
-  - [Cleveland Street entrance from Google Maps Street
-    View](https://maps.google.com/maps?hl=en&ie=UTF8&ll=40.679556,-73.885524&spn=0,0.013314&z=17&layer=c&cbll=40.679669,-73.885556&panoid=9do9XEHv0T3v0PQorT8T5g&cbp=12,236.06,,0,6.74)
+  - [Cleveland Street entrance from Google Maps Street View](https://maps.google.com/maps?hl=en&ie=UTF8&ll=40.679556,-73.885524&spn=0,0.013314&z=17&layer=c&cbll=40.679669,-73.885556&panoid=9do9XEHv0T3v0PQorT8T5g&cbp=12,236.06,,0,6.74)
 
-  - [Platform from Google Maps Street
-    View](https://www.google.com/maps/place/Cleveland+St/@40.6800232,-73.884491,3a,75y,42.83h,88.3t/data=!3m8!1e1!3m6!1s-kSIs5T_nwhc%2FWUXg2lts_eI%2FAAAAAAAAtK0%2Fc8RRz-W5myco-B-xy1FLSItbUzX2JHzhQCLIBGAYYCw!2e4!3e11!6s%2F%2Flh5.googleusercontent.com%2F-kSIs5T_nwhc%2FWUXg2lts_eI%2FAAAAAAAAtK0%2Fc8RRz-W5myco-B-xy1FLSItbUzX2JHzhQCLIBGAYYCw%2Fw234-h106-k-no-pi-0-ya140-ro-0-fo100%2F!7i9728!8i4864!4m5!3m4!1s0x89c25db5b8218c29:0x7f89d405803dc6c0!8m2!3d40.6799464!4d-73.8846391)
+  - [Platform from Google Maps Street View](https://www.google.com/maps/place/Cleveland+St/@40.6800232,-73.884491,3a,75y,42.83h,88.3t/data=!3m8!1e1!3m6!1s-kSIs5T_nwhc%2FWUXg2lts_eI%2FAAAAAAAAtK0%2Fc8RRz-W5myco-B-xy1FLSItbUzX2JHzhQCLIBGAYYCw!2e4!3e11!6s%2F%2Flh5.googleusercontent.com%2F-kSIs5T_nwhc%2FWUXg2lts_eI%2FAAAAAAAAtK0%2Fc8RRz-W5myco-B-xy1FLSItbUzX2JHzhQCLIBGAYYCw%2Fw234-h106-k-no-pi-0-ya140-ro-0-fo100%2F!7i9728!8i4864!4m5!3m4!1s0x89c25db5b8218c29:0x7f89d405803dc6c0!8m2!3d40.6799464!4d-73.8846391)
 
-[Category:BMT牙買加線車站](https://zh.wikipedia.org/wiki/Category:BMT牙買加線車站 "wikilink")
-[Category:1893年紐約州建立](https://zh.wikipedia.org/wiki/Category:1893年紐約州建立 "wikilink")
-[Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink")
-[Category:1893年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1893年啟用的鐵路車站 "wikilink")
+[Category:BMT牙買加線車站](https://zh.wikipedia.org/wiki/Category:BMT牙買加線車站 "wikilink") [Category:1893年紐約州建立](https://zh.wikipedia.org/wiki/Category:1893年紐約州建立 "wikilink") [Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink") [Category:1893年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1893年啟用的鐵路車站 "wikilink")

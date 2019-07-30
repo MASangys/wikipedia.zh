@@ -1,9 +1,8 @@
-《**1-2-Switch**》是[任天堂为自家游戏机](../Page/任天堂.md "wikilink")[任天堂Switch出品的](../Page/任天堂Switch.md "wikilink")[聚会游戏](https://zh.wikipedia.org/wiki/聚会游戏 "wikilink")，於2017年3月3日同游戏机[首发](https://zh.wikipedia.org/wiki/首发游戏 "wikilink")\[1\]。游戏要玩家面对面，并仅通过游戏机的Joy-Con手柄操作\[2\]。由於本作傾向體感操作模式，包裝也標明本作無法於任天堂Switch掌機模式運行。
+《**1-2-Switch**》是[任天堂](../Page/任天堂.md "wikilink")为自家游戏机[任天堂Switch](../Page/任天堂Switch.md "wikilink")出品的[聚会游戏](https://zh.wikipedia.org/wiki/聚会游戏 "wikilink")，於2017年3月3日同游戏机[首发](https://zh.wikipedia.org/wiki/首发游戏 "wikilink")\[1\]。游戏要玩家面对面，并仅通过游戏机的Joy-Con手柄操作\[2\]。由於本作傾向體感操作模式，包裝也標明本作無法於任天堂Switch掌機模式運行。
 
 ## 玩法
 
-玩家在游戏开始时会在起始点，玩法和[擲賽遊戲有些类似](https://zh.wikipedia.org/wiki/擲賽遊戲 "wikilink")。游戏一开始电脑会随机选择一个小游戏让玩家决定谁先出发，平手则重新选择小游戏，而胜利者可转动游戏中的轮盘决定行走的步数，但如果不幸运的话前进的机会就会让给了对手。在玩家移动后就必须进行相应的小游戏，胜利者移动，以此类推。先到终点的玩家胜利。
-[缩略图](https://zh.wikipedia.org/wiki/File:1-2-switch_map.jpg "fig:缩略图")
+玩家在游戏开始时会在起始点，玩法和[擲賽遊戲有些类似](https://zh.wikipedia.org/wiki/擲賽遊戲 "wikilink")。游戏一开始电脑会随机选择一个小游戏让玩家决定谁先出发，平手则重新选择小游戏，而胜利者可转动游戏中的轮盘决定行走的步数，但如果不幸运的话前进的机会就会让给了对手。在玩家移动后就必须进行相应的小游戏，胜利者移动，以此类推。先到终点的玩家胜利。 [缩略图](https://zh.wikipedia.org/wiki/File:1-2-switch_map.jpg "fig:缩略图")
 
 ### 小遊戲
 
@@ -59,13 +58,13 @@
         这个小游戏会考验玩家手臂的灵活度。玩家必须拿起Joy-Con并进行转动，达到玩家极限时可以放下。转得最大幅度的玩家胜利，但玩家在旋转时如果手震次数太多的话将直接视作失败。
 17. 吹牛骰 / 大話骰（Liar Dice）
       -
-        玩家摇动Joy-Con后放下，Joy-Con就会用震动告诉玩家对手的[骰子数量](../Page/骰子.md "wikilink")。这个游戏可说是一种[心理战](../Page/心理战.md "wikilink")，如果玩家发现对手骰子数量很大的话，可以用些花言巧语、动作等劝告对手再次摇动，改变骰子的数量。最多骰子的玩家最终就会胜利。
+        玩家摇动Joy-Con后放下，Joy-Con就会用震动告诉玩家对手的[骰子](../Page/骰子.md "wikilink")数量。这个游戏可说是一种[心理战](../Page/心理战.md "wikilink")，如果玩家发现对手骰子数量很大的话，可以用些花言巧语、动作等劝告对手再次摇动，改变骰子的数量。最多骰子的玩家最终就会胜利。
 18. 海灘搶旗（Beach Flag）
       -
         玩家面對面聽取起跑槍聲，然後緊握Joy-Con迅速揮動四肢作原地奔跑，最先感觸到旗子並舉起者獲勝。
 19. 棒球（Baseball）
       -
-        玩家将被分为[投手和](../Page/投手.md "wikilink")[擊球員](../Page/擊球員.md "wikilink")。投手可选择投出快球或是慢球，然后挥动Joy-Con将球扔出去。击球手则必须靠声音去击球，打中则上垒，打得漂亮也可以来个全垒打直接得分。
+        玩家将被分为[投手](../Page/投手.md "wikilink")和[擊球員](../Page/擊球員.md "wikilink")。投手可选择投出快球或是慢球，然后挥动Joy-Con将球扔出去。击球手则必须靠声音去击球，打中则上垒，打得漂亮也可以来个全垒打直接得分。
 20. 轉盤子（Dish Spin）
       -
         玩家握住Joy-Con并模拟抓住一支上方有碟子的棍子。玩家必须互相骚扰对手使对手的碟子掉下来，这样玩家就会获得胜利了。
@@ -75,10 +74,7 @@
 
 ## 反响
 
-在首个预告片公开时，有一些游戏评论家把该作和[瓦里奥系列进行了比较](../Page/瓦里奥系列.md "wikilink")。\[3\]\[4\]任天堂将这款游戏与[Switch主机分开销售这一决策受到了一些评论家的批评](../Page/任天堂Switch.md "wikilink")。他们认为这款游戏与[Wii
-Sports类似](../Page/Wii_Sports.md "wikilink")，更适合与主机打包。尽管任天堂表示他们允许消费者选择要购入的游戏而非强制打包捆绑销售再提高Switch的价格，这样才不会打消消费者的兴趣和影响主机的销售。\[5\]\[6\]\[7\]游戏媒体[Destructoid的Cory](../Page/Destructoid.md "wikilink")
-Arnold批评该作缺乏真正的单人模式，甚至认为小游戏质量比[Wii
-Sports要差](../Page/Wii_Sports.md "wikilink")，表明他们没有任何进步。\[8\]
+在首个预告片公开时，有一些游戏评论家把该作和[瓦里奥系列](../Page/瓦里奥系列.md "wikilink")进行了比较。\[3\]\[4\]任天堂将这款游戏与[Switch主机分开销售这一决策受到了一些评论家的批评](../Page/任天堂Switch.md "wikilink")。他们认为这款游戏与[Wii Sports类似](../Page/Wii_Sports.md "wikilink")，更适合与主机打包。尽管任天堂表示他们允许消费者选择要购入的游戏而非强制打包捆绑销售再提高Switch的价格，这样才不会打消消费者的兴趣和影响主机的销售。\[5\]\[6\]\[7\]游戏媒体[Destructoid](../Page/Destructoid.md "wikilink")的Cory Arnold批评该作缺乏真正的单人模式，甚至认为小游戏质量比[Wii Sports要差](../Page/Wii_Sports.md "wikilink")，表明他们没有任何进步。\[8\]
 
 2019年4月底公开的第四季（截止至2019年3月底）任天堂财报宣布本作全球销量已达297万份。\[9\]
 
@@ -89,11 +85,7 @@ Sports要差](../Page/Wii_Sports.md "wikilink")，表明他们没有任何进步
   -
   -
   -
-[Category:2017年电子游戏](https://zh.wikipedia.org/wiki/Category:2017年电子游戏 "wikilink")
-[Category:聚会游戏](https://zh.wikipedia.org/wiki/Category:聚会游戏 "wikilink")
-[Category:任天堂企划制作本部游戏](https://zh.wikipedia.org/wiki/Category:任天堂企划制作本部游戏 "wikilink")
-[Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink")
-[Category:任天堂Switch獨占遊戲](https://zh.wikipedia.org/wiki/Category:任天堂Switch獨占遊戲 "wikilink")
+[Category:2017年电子游戏](https://zh.wikipedia.org/wiki/Category:2017年电子游戏 "wikilink") [Category:聚会游戏](https://zh.wikipedia.org/wiki/Category:聚会游戏 "wikilink") [Category:任天堂企划制作本部游戏](https://zh.wikipedia.org/wiki/Category:任天堂企划制作本部游戏 "wikilink") [Category:任天堂Switch獨占遊戲](https://zh.wikipedia.org/wiki/Category:任天堂Switch獨占遊戲 "wikilink")
 
 1.
 2.

@@ -1,6 +1,4 @@
-《**Bye bye my
-blue**》是[韓國組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[15&成員](https://zh.wikipedia.org/wiki/15& "wikilink")[白藝潾的第一張單曲專輯](https://zh.wikipedia.org/wiki/白藝潾 "wikilink")。由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，於2016年6月20日推出。主打歌曲為〈Bye
-bye my blue〉，由作曲家白雲創作，與白藝潾共同填詞。
+《**Bye bye my blue**》是[韓國組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[15&成員](https://zh.wikipedia.org/wiki/15& "wikilink")[白藝潾的第一張單曲專輯](https://zh.wikipedia.org/wiki/白藝潾 "wikilink")。由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，於2016年6月20日推出。主打歌曲為〈Bye bye my blue〉，由作曲家白雲創作，與白藝潾共同填詞。
 
 ## 概要
 
@@ -8,8 +6,7 @@ bye my blue〉，由作曲家白雲創作，與白藝潾共同填詞。
 
 ## 歌曲
 
-  - **〈Bye bye my
-    blue〉**：由作曲家白雲創作，是一首[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")、[Soul風格的抒情曲](https://zh.wikipedia.org/wiki/Soul "wikilink")。描述因喜歡的對象比自己更好而對愛情不安與空虛，但仍想繼續戀愛的心情\[1\]\[2\]。歌詞寫到「即使擁有再多，我和你還是不一樣，每天都獨自一人遊走在悲痛記憶裡」、「我的我的我的愛人啊，僅僅是呼喚名字便覺內心澎湃」，描繪了女生對愛情的心情。\[3\]
+  - **〈Bye bye my blue〉**：由作曲家白雲創作，是一首[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")、[Soul風格的抒情曲](https://zh.wikipedia.org/wiki/Soul "wikilink")。描述因喜歡的對象比自己更好而對愛情不安與空虛，但仍想繼續戀愛的心情\[1\]\[2\]。歌詞寫到「即使擁有再多，我和你還是不一樣，每天都獨自一人遊走在悲痛記憶裡」、「我的我的我的愛人啊，僅僅是呼喚名字便覺內心澎湃」，描繪了女生對愛情的心情。\[3\]
   - **〈他的海〉**：歌曲展現戀人間的微妙關係，其中一方將自己比喻為「大海」，希望對方能夠愛著最自然真實的自己，歌詞傳達了戀愛中點點滴滴的感情。
   - **〈Zero〉**：歌詞富含著「雖然不會只有幸福美滿的事情，但在這些日子裡希望對方一直陪在自己身旁」這樣的感情，描述陷入愛情時單純的心動與嚮往。
 
@@ -56,9 +53,7 @@ bye my blue〉，由作曲家白雲創作，與白藝潾共同填詞。
 
 ## 引用資料
 
-[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:15&音樂專輯](https://zh.wikipedia.org/wiki/Category:15&音樂專輯 "wikilink")
+[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:15&音樂專輯](https://zh.wikipedia.org/wiki/Category:15&音樂專輯 "wikilink")
 
 1.
 2.

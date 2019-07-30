@@ -1,5 +1,4 @@
-《**Floating
-Material**》是日本a1c公司旗下遊戲品牌biscotti製作於2010年4月30日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，後來由PoRO改編成[OVA於](https://zh.wikipedia.org/wiki/OVA "wikilink")2011年發售共兩集。\[2\]
+《**Floating Material**》是日本a1c公司旗下遊戲品牌biscotti製作於2010年4月30日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，後來由PoRO改編成[OVA於](https://zh.wikipedia.org/wiki/OVA "wikilink")2011年發售共兩集。\[2\]
 
 ## 故事
 
@@ -87,14 +86,7 @@ Material**》是日本a1c公司旗下遊戲品牌biscotti製作於2010年4月30�
 
   - [官方網站](https://web.archive.org/web/20130605091958/http://www.a1c.jp/~biscotti/floating_material/)biscotti
 
-[Category:2010年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2010年日本成人遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:2011年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2011年日本成人動畫 "wikilink")
-[Category:教師主角作品](https://zh.wikipedia.org/wiki/Category:教師主角作品 "wikilink")
-[Category:師生戀題材作品](https://zh.wikipedia.org/wiki/Category:師生戀題材作品 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
+[Category:2010年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2010年日本成人遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:2011年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2011年日本成人動畫 "wikilink") [Category:教師主角作品](https://zh.wikipedia.org/wiki/Category:教師主角作品 "wikilink") [Category:師生戀題材作品](https://zh.wikipedia.org/wiki/Category:師生戀題材作品 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
 
 1.
 2.

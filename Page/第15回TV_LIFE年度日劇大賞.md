@@ -1,10 +1,8 @@
-[第14回](https://zh.wikipedia.org/wiki/第14回TV_LIFE年度日劇大賞 "wikilink") ←
-**第15回** → [第16回](../Page/第16回TV_LIFE年度日劇大賞.md "wikilink")
+[第14回](https://zh.wikipedia.org/wiki/第14回TV_LIFE年度日劇大賞 "wikilink") ← **第15回** → [第16回](../Page/第16回TV_LIFE年度日劇大賞.md "wikilink")
 
-**第15回[TV
-LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2005年播出的連續劇做出的觀眾投票。
+**第15回[TV LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2005年播出的連續劇做出的觀眾投票。
 
-本屆獲獎最多的劇集是[日本電視台的](../Page/日本電視台.md "wikilink")《[極道鮮師](../Page/極道鮮師.md "wikilink")》，共獲3獎。
+本屆獲獎最多的劇集是[日本電視台](../Page/日本電視台.md "wikilink")的《[極道鮮師](../Page/極道鮮師.md "wikilink")》，共獲3獎。
 
 ## 獎項
 
@@ -296,5 +294,4 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 
 ## 參考來源
 
-[Category:2005年日本](https://zh.wikipedia.org/wiki/Category:2005年日本 "wikilink")
-[Category:2005年电视奖项](https://zh.wikipedia.org/wiki/Category:2005年电视奖项 "wikilink")
+[Category:2005年日本](https://zh.wikipedia.org/wiki/Category:2005年日本 "wikilink") [Category:2005年电视奖项](https://zh.wikipedia.org/wiki/Category:2005年电视奖项 "wikilink")

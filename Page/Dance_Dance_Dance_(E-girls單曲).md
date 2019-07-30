@@ -1,17 +1,12 @@
-《**Dance Dance
-Dance**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")14张[单曲](../Page/单曲.md "wikilink")，於2015年9月30日由[rhythm
-zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
+《**Dance Dance Dance**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")14张[单曲](../Page/单曲.md "wikilink")，於2015年9月30日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
   - 《Dance Dance Dance》是E-girls以全新20人體系發行的第二張單曲，是一首充滿迪士高風格的舞曲。
-  - A面曲《Dance Dance
-    Dance》是豪斯登堡「光の王國」電視廣告歌曲和[朝日電視台](../Page/朝日電視台.md "wikilink")「お願い\!ランキング」2015年9月份片尾曲
-  - B面曲《Express -Do Your Dance-》是繼《[Move It\! -Dream & E-girls
-    TIME-](../Page/Mr._Snowman.md "wikilink")》後，第二首以Dream為主軸的樂曲。
+  - A面曲《Dance Dance Dance》是豪斯登堡「光の王國」電視廣告歌曲和[朝日電視台](../Page/朝日電視台.md "wikilink")「お願い\!ランキング」2015年9月份片尾曲
+  - B面曲《Express -Do Your Dance-》是繼《[Move It\! -Dream & E-girls TIME-](../Page/Mr._Snowman.md "wikilink")》後，第二首以Dream為主軸的樂曲。
   - 此單曲是[Flower的](https://zh.wikipedia.org/wiki/Flower_\(組合\) "wikilink")[市來杏香於E](https://zh.wikipedia.org/wiki/市來杏香 "wikilink")-girls和Flower畢業前最後參與的單曲。
-  - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《Dance Dance Dance》的Music
-    Video。
+  - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《Dance Dance Dance》的Music Video。
   - 在10月12日於[公信榜单曲週排行榜取得第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")4位。
 
 ## 選抜成员
@@ -31,8 +26,7 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ### Hey You\!
 
-  - 主唱:
-    [Shizuka](https://zh.wikipedia.org/wiki/西田靜香 "wikilink")、[Erie](https://zh.wikipedia.org/wiki/阿部繪里惠 "wikilink")、[川本璃](https://zh.wikipedia.org/wiki/川本璃 "wikilink")、[鷲尾伶菜](../Page/鷲尾伶菜.md "wikilink")
+  - 主唱: [Shizuka](https://zh.wikipedia.org/wiki/西田靜香 "wikilink")、[Erie](https://zh.wikipedia.org/wiki/阿部繪里惠 "wikilink")、[川本璃](https://zh.wikipedia.org/wiki/川本璃 "wikilink")、[鷲尾伶菜](../Page/鷲尾伶菜.md "wikilink")
 
 ### Express -Do Your Dance-
 
@@ -83,5 +77,4 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 </noinclude>
 
-[Category:E-girls歌曲](https://zh.wikipedia.org/wiki/Category:E-girls歌曲 "wikilink")
-[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink")
+[Category:E-girls歌曲](https://zh.wikipedia.org/wiki/Category:E-girls歌曲 "wikilink") [Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink")

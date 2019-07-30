@@ -1,12 +1,8 @@
-《**I**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")（[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")）[太妍的首張迷你專輯](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")，由[SM
-Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2015年10月8日發行。
+《**I**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")（[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")）[太妍的首張迷你專輯](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")，由[SM Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2015年10月8日發行。
 
 ## 發行
 
-2015年中，[SM
-Entertainment宣布](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，太妍將在今年發行她的首張個人專輯。9月30日，SM
-Entertainment表示她的首張SOLO專輯《I》將於10月7日公開全曲音源。將自己最真實的感情、對未來的決心等等寫了進去，嘻哈歌手Verbal
-Jint參與說唱。
+2015年中，[SM Entertainment宣布](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，太妍將在今年發行她的首張個人專輯。9月30日，SM Entertainment表示她的首張SOLO專輯《I》將於10月7日公開全曲音源。將自己最真實的感情、對未來的決心等等寫了進去，嘻哈歌手Verbal Jint參與說唱。
 
 ## 曲目
 
@@ -148,13 +144,6 @@ Jint參與說唱。
   -
   -
   -
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2015年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2015年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯月榜冠軍作品 "wikilink")
-[Category:2015年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon單曲月榜冠軍作品 "wikilink")
-[Category:2015年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon數位下載週榜冠軍作品 "wikilink")
-[Category:2015年Gaon數位下載月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon數位下載月榜冠軍作品 "wikilink")
-[Category:2015年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon流媒體週榜冠軍作品 "wikilink")
+[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2015年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon單曲週榜冠軍作品 "wikilink") [Category:2015年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯月榜冠軍作品 "wikilink") [Category:2015年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon單曲月榜冠軍作品 "wikilink") [Category:2015年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2015年Gaon數位下載月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon數位下載月榜冠軍作品 "wikilink") [Category:2015年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon流媒體週榜冠軍作品 "wikilink")
 
 1.  [2](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=2016&hitYear=2016&termGbn=year)

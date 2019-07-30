@@ -1,5 +1,4 @@
-《**鑑識英雄II正義之戰**》（），2019年台灣鑑識劇，由[李昌鈺](../Page/李昌鈺.md "wikilink")、[王識賢](../Page/王識賢.md "wikilink")、[蔡淑臻](../Page/蔡淑臻.md "wikilink")、[周孝安](../Page/周孝安.md "wikilink")、[蔡黃汝](../Page/蔡黃汝.md "wikilink")、[紀培慧](../Page/紀培慧.md "wikilink")、[蘇達主演](../Page/蘇達.md "wikilink")。2016年5月27日開拍，且以[電視電影方法拍攝](../Page/電視電影.md "wikilink")。[愛奇藝台灣站自](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")2019年3月27起，週一至週五晚間8點獨家播出。<ref>[李昌鈺入列《鑑識英雄２》](http://www.chinatimes.com/newspapers/20151106000825-260112)中時電子報.
-2015年11月6日
+《**鑑識英雄II正義之戰**》（），2019年台灣鑑識劇，由[李昌鈺](../Page/李昌鈺.md "wikilink")、[王識賢](../Page/王識賢.md "wikilink")、[蔡淑臻](../Page/蔡淑臻.md "wikilink")、[周孝安](../Page/周孝安.md "wikilink")、[蔡黃汝](../Page/蔡黃汝.md "wikilink")、[紀培慧](../Page/紀培慧.md "wikilink")、[蘇達](../Page/蘇達.md "wikilink")主演。2016年5月27日開拍，且以[電視電影](../Page/電視電影.md "wikilink")方法拍攝。[愛奇藝台灣站自](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")2019年3月27起，週一至週五晚間8點獨家播出。<ref>[李昌鈺入列《鑑識英雄２》](http://www.chinatimes.com/newspapers/20151106000825-260112)中時電子報. 2015年11月6日
 
 </ref>
 
@@ -752,24 +751,14 @@
 
 ### 中視
 
-|- | 1 || 2019年3月27日 || 0.52 || 6 ||rowspan=3| 0.45 ||rowspan=3| 6 || |-
-| 2 || 2019年3月28日 || 0.43 || 6 || |- | 3 || 2019年3月29日 || 0.39 || 6 ||
-|- | 4 || 2019年4月1日 || 0.43 || 6 ||rowspan=5| 0.41 ||rowspan=5| 6 || |-
-| 5 || 2019年4月2日 || 0.47 || 6 || |- | 6 || 2019年4月3日 || 0.26 || 6 || |-
-| 7 || 2019年4月4日 || 0.55 || 6 || |- | 8 || 2019年4月5日 || 0.35 || 6 || |-
-| 9 || 2019年4月8日 || 0.38 || 6 ||rowspan=5| 0.42 ||rowspan=5| 6 || |- |
-10 || 2019年4月9日 || 0.41 || 6 || |- | 11 || 2019年4月10日 || 0.49 || 6 || |-
-| 12 || 2019年4月11日 || 0.40 || 6 || |- | 13 || 2019年4月12日 || 0.42 || 6 ||
-|- | 14 || 2019年4月15日 || 0.44 || 6 ||rowspan=3| 0.47 ||rowspan=3| 6 ||
-|- |- | 15 || 2019年4月16日 || 0.46 || 6 || |- | 16 || 2019年4月17日 || 0.50
-|| 6 || |- \!colspan=2|平均收視率||colspan=4| 0.43 ||
+|- | 1 || 2019年3月27日 || 0.52 || 6 ||rowspan=3| 0.45 ||rowspan=3| 6 || |- | 2 || 2019年3月28日 || 0.43 || 6 || |- | 3 || 2019年3月29日 || 0.39 || 6 || |- | 4 || 2019年4月1日 || 0.43 || 6 ||rowspan=5| 0.41 ||rowspan=5| 6 || |- | 5 || 2019年4月2日 || 0.47 || 6 || |- | 6 || 2019年4月3日 || 0.26 || 6 || |- | 7 || 2019年4月4日 || 0.55 || 6 || |- | 8 || 2019年4月5日 || 0.35 || 6 || |- | 9 || 2019年4月8日 || 0.38 || 6 ||rowspan=5| 0.42 ||rowspan=5| 6 || |- | 10 || 2019年4月9日 || 0.41 || 6 || |- | 11 || 2019年4月10日 || 0.49 || 6 || |- | 12 || 2019年4月11日 || 0.40 || 6 || |- | 13 || 2019年4月12日 || 0.42 || 6 || |- | 14 || 2019年4月15日 || 0.44 || 6 ||rowspan=3| 0.47 ||rowspan=3| 6 || |- |- | 15 || 2019年4月16日 || 0.46 || 6 || |- | 16 || 2019年4月17日 || 0.50 || 6 || |- \!colspan=2|平均收視率||colspan=4| 0.43 ||
 
 ## 取景
 
   - [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")
   - [瑞芳區](../Page/瑞芳區.md "wikilink")102縣道
   - [陽明山美軍宿舍](https://zh.wikipedia.org/wiki/陽明山 "wikilink")
-  - [汐止區新山夢湖](../Page/汐止區.md "wikilink")
+  - [汐止區](../Page/汐止區.md "wikilink")新山夢湖
 
 ## 製作團隊
 
@@ -795,8 +784,4 @@
   -
 ## 作品的變遷
 
-[Category:2019年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2019年台灣電視劇集 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
-[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink")
-[Category:中視電視劇](https://zh.wikipedia.org/wiki/Category:中視電視劇 "wikilink")
-[Category:程序型罪案調查劇](https://zh.wikipedia.org/wiki/Category:程序型罪案調查劇 "wikilink")
+[Category:2019年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2019年台灣電視劇集 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink") [Category:中視電視劇](https://zh.wikipedia.org/wiki/Category:中視電視劇 "wikilink") [Category:程序型罪案調查劇](https://zh.wikipedia.org/wiki/Category:程序型罪案調查劇 "wikilink")

@@ -134,21 +134,17 @@
   - 演出 - 藤尾隆、池澤辰也、森田昇
   - 音樂 - [白石めぐみ](https://zh.wikipedia.org/wiki/白石めぐみ "wikilink")
   - 選曲 - [石井和之](https://zh.wikipedia.org/wiki/石井和之 "wikilink")
-  - 技術協力 - [VIDEO
-    FOCUS](https://zh.wikipedia.org/wiki/VIDEO_FOCUS "wikilink")
+  - 技術協力 - [VIDEO FOCUS](https://zh.wikipedia.org/wiki/VIDEO_FOCUS "wikilink")
   - 美術協力 - [山崎美術](https://zh.wikipedia.org/wiki/山崎美術 "wikilink")
-  - Car stunt - [Takahashi
-    Racing](https://zh.wikipedia.org/wiki/Takahashi_Racing "wikilink")
-  - 工作室 - [東京Media
-    City](https://zh.wikipedia.org/wiki/東京Media_City "wikilink")
+  - Car stunt - [Takahashi Racing](https://zh.wikipedia.org/wiki/Takahashi_Racing "wikilink")
+  - 工作室 - [東京Media City](https://zh.wikipedia.org/wiki/東京Media_City "wikilink")
   - 醫事指導 - 堀エリカ
   - 醫療監修 - 長谷川行洋
   - 取材協力 - 黒岩龍太郎
   - 主要製作人 - 岡部紳二
   - 製作人 - 中川順平・森田昇（東京電視台）、山田大作（奧斯卡傳播）
   - 企劃 - [古賀誠一](https://zh.wikipedia.org/wiki/古賀誠一 "wikilink")
-  - 製作 -
-    [東京電視台](../Page/東京電視台.md "wikilink")、[奧斯卡傳播](../Page/奧斯卡傳播.md "wikilink")
+  - 製作 - [東京電視台](../Page/東京電視台.md "wikilink")、[奧斯卡傳播](../Page/奧斯卡傳播.md "wikilink")
   - 制作著作 - 「IS」製作委員会
 
 ### 主題曲
@@ -275,19 +271,6 @@
 
 ## 參考來源
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink")
-[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink")
-[Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink")
-[Category:東京電視台週一晚間十點連續劇](https://zh.wikipedia.org/wiki/Category:東京電視台週一晚間十點連續劇 "wikilink")
-[Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink")
-[Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink")
-[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink")
-[Category:日本LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:日本LGBT相關電視節目 "wikilink")
-[Category:跨性別題材電視劇](https://zh.wikipedia.org/wiki/Category:跨性別題材電視劇 "wikilink")
-[Category:雌雄间性](https://zh.wikipedia.org/wiki/Category:雌雄间性 "wikilink")
-[Category:双性性格题材作品](https://zh.wikipedia.org/wiki/Category:双性性格题材作品 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:東京電視台週一晚間十點連續劇](https://zh.wikipedia.org/wiki/Category:東京電視台週一晚間十點連續劇 "wikilink") [Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink") [Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:日本LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:日本LGBT相關電視節目 "wikilink") [Category:跨性別題材電視劇](https://zh.wikipedia.org/wiki/Category:跨性別題材電視劇 "wikilink") [Category:雌雄间性](https://zh.wikipedia.org/wiki/Category:雌雄间性 "wikilink") [Category:双性性格题材作品](https://zh.wikipedia.org/wiki/Category:双性性格题材作品 "wikilink")
 
 1.  [歴代の講談社漫画賞](http://www.mangaspider.net/)

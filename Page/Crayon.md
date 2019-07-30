@@ -1,8 +1,6 @@
-**Crayon**是一隊[香港組合](../Page/香港.md "wikilink")，由[曲赤](https://zh.wikipedia.org/wiki/曲赤 "wikilink")（K-CHEK）、[黃雅斯](../Page/黃雅斯.md "wikilink")（Szebi）、[何沅瞳](../Page/何沅瞳.md "wikilink")（Sandra
-Ho）和[美美](https://zh.wikipedia.org/wiki/美美 "wikilink")（Meimei）組成。
+**Crayon**是一隊[香港](../Page/香港.md "wikilink")組合，由[曲赤](https://zh.wikipedia.org/wiki/曲赤 "wikilink")（K-CHEK）、[黃雅斯](../Page/黃雅斯.md "wikilink")（Szebi）、[何沅瞳](../Page/何沅瞳.md "wikilink")（Sandra Ho）和[美美](https://zh.wikipedia.org/wiki/美美 "wikilink")（Meimei）組成。
 
-「Crayon」的名字來源，Crayon的中文解釋是蠟筆，而蠟筆是由不同顏色組成的，所以Crayon的意思是色彩繽紛，每一隻不同的顏色，代表不同的衣着風格、音樂風格、性格、樂器等等。
-\[1\]
+「Crayon」的名字來源，Crayon的中文解釋是蠟筆，而蠟筆是由不同顏色組成的，所以Crayon的意思是色彩繽紛，每一隻不同的顏色，代表不同的衣着風格、音樂風格、性格、樂器等等。 \[1\]
 
 Crayon 由2019改名為 Krayon。
 

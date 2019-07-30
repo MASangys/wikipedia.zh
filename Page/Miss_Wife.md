@@ -29,7 +29,4 @@
   - [Daum電影](http://movie.daum.net/moviedb/main?movieId=89574)
   - [NAVER電影](http://movie.naver.com/movie/bi/mi/basic.nhn?code=129406)
 
-[Category:2015年電影](https://zh.wikipedia.org/wiki/Category:2015年電影 "wikilink")
-[Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink")
-[Category:韓國愛情片](https://zh.wikipedia.org/wiki/Category:韓國愛情片 "wikilink")
-[Category:韓國劇情片](https://zh.wikipedia.org/wiki/Category:韓國劇情片 "wikilink")
+[Category:2015年電影](https://zh.wikipedia.org/wiki/Category:2015年電影 "wikilink") [Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink") [Category:韓國愛情片](https://zh.wikipedia.org/wiki/Category:韓國愛情片 "wikilink") [Category:韓國劇情片](https://zh.wikipedia.org/wiki/Category:韓國劇情片 "wikilink")

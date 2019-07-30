@@ -1,13 +1,8 @@
-**Strætó
-BS**（）是一間[冰島的公車客運公司](https://zh.wikipedia.org/wiki/冰島 "wikilink")，主要服務首都[雷克雅維克及周圍衛星城鎮和郊區](../Page/雷克雅維克.md "wikilink")（即[首都地區](https://zh.wikipedia.org/wiki/大雷克雅未克區 "wikilink")
-）的居民。公車車身呈亮黃色，常被當地人稱作「strætó」，也就是「strætisvagn」（漢語譯為公車，直譯為街道車廂、街道馬車）的暱稱。Strætó
-BS在SVR（Strætisvagnar
-Reykjavíkur，[雷克雅維克街道車](../Page/雷克雅維克.md "wikilink")）與AV（Almenningsvagnar，公共車）合併後於2001年7月1日開始營運。SVR原先營運於首都地區的北部，而AV在該區的南部營運。
+**Strætó BS**（）是一間[冰島的公車客運公司](https://zh.wikipedia.org/wiki/冰島 "wikilink")，主要服務首都[雷克雅維克](../Page/雷克雅維克.md "wikilink")及周圍衛星城鎮和郊區（即[首都地區](https://zh.wikipedia.org/wiki/大雷克雅未克區 "wikilink") ）的居民。公車車身呈亮黃色，常被當地人稱作「strætó」，也就是「strætisvagn」（漢語譯為公車，直譯為街道車廂、街道馬車）的暱稱。Strætó BS在SVR（Strætisvagnar Reykjavíkur，[雷克雅維克](../Page/雷克雅維克.md "wikilink")街道車）與AV（Almenningsvagnar，公共車）合併後於2001年7月1日開始營運。SVR原先營運於首都地區的北部，而AV在該區的南部營運。
 
 ## 公車路網
 
-Strætó
-BS共有59條路線，其中6條為*主要路線*（1\~6路），行駛於主公車總站（位於Hlemmur）與城市郊區的各個住宅鄰里之間，並利用主要公路讓行駛效率發揮到極致。另外8條路線是*一般路線*（11\~18路），這些路線也會停靠Hlemmur公車總站，但是會穿梭在鄰里間較慢的街道上。還有13條路線是*鄰里路線*（21\~24、27\~29、31、33\~35、43、44路），行駛於郊區之內或之間，而不會停靠雷克雅維克的市中心。51、52、55\~59、71\~73、75、78、79、81\~89路則是行駛在冰島西部（Vesturland）、西南部（Suðurnes）、南部（Suðurland）、北部（Norðurland）及東北部（Norðausturland）的*長途路線*，其中有的路線會連接首都地區和其他地區的城鎮，有的會在不同地區間往返。而在阿克雷里和雷恰內斯拜爾自治市內還有本地客運，可歸類為各自擁有的市區公車。
+Strætó BS共有59條路線，其中6條為*主要路線*（1\~6路），行駛於主公車總站（位於Hlemmur）與城市郊區的各個住宅鄰里之間，並利用主要公路讓行駛效率發揮到極致。另外8條路線是*一般路線*（11\~18路），這些路線也會停靠Hlemmur公車總站，但是會穿梭在鄰里間較慢的街道上。還有13條路線是*鄰里路線*（21\~24、27\~29、31、33\~35、43、44路），行駛於郊區之內或之間，而不會停靠雷克雅維克的市中心。51、52、55\~59、71\~73、75、78、79、81\~89路則是行駛在冰島西部（Vesturland）、西南部（Suðurnes）、南部（Suðurland）、北部（Norðurland）及東北部（Norðausturland）的*長途路線*，其中有的路線會連接首都地區和其他地區的城鎮，有的會在不同地區間往返。而在阿克雷里和雷恰內斯拜爾自治市內還有本地客運，可歸類為各自擁有的市區公車。
 
 大多數公車會從[首都地區的](https://zh.wikipedia.org/wiki/大雷克雅未克區 "wikilink")9個公車總站發車。而最主要的是雷克雅維克市中心的Hlemmur及Lækjartorg；其他7個是位於雷克雅維克的Ártún、Mjódd、Spöngin三站、[科帕沃于爾的Hamraborg](https://zh.wikipedia.org/wiki/科帕沃于爾 "wikilink")、[哈夫納夫約杜爾的Fjörður](https://zh.wikipedia.org/wiki/哈夫納夫約杜爾 "wikilink")、[加爾扎拜爾的Ásgarður還有](https://zh.wikipedia.org/wiki/加爾扎拜爾 "wikilink")[莫斯費德斯拜爾的Háholt](https://zh.wikipedia.org/wiki/莫斯費德斯拜爾 "wikilink")。每個公車總站至少會發1條主要路線的車。
 
@@ -351,78 +346,23 @@ BS共有59條路線，其中6條為*主要路線*（1\~6路），行駛於主公
 
 ## 車票與費用
 
-The basic fare for a single ride currently is ISK 420 for adults but
-discounts are available for children, senior citizens and disabled
-people. 12 month student cards are available in three age categories:
-6-11 year olds that costs 7.900 ISK, 12-17 year olds that costs 19,900
-and 18+ that cost 46.700 ISK. Prepaid cards that allow unlimited rides
-for a set period of time are also available, such as the green card
-which is valid for 1 month and costs ISK 10.600.
+The basic fare for a single ride currently is ISK 420 for adults but discounts are available for children, senior citizens and disabled people. 12 month student cards are available in three age categories: 6-11 year olds that costs 7.900 ISK, 12-17 year olds that costs 19,900 and 18+ that cost 46.700 ISK. Prepaid cards that allow unlimited rides for a set period of time are also available, such as the green card which is valid for 1 month and costs ISK 10.600.
 
 ## 路網更新與發展
 
-On 23 July 2005, a new route network was instituted to replace the
-previous network, which had been used practically unchanged for decades.
-New routes had been added in new-developing areas, but the core routes
-were largely untouched until 2005. Planning for the revised network
-began in 2001. Its greatest change was introduction of the 'trunk
-routes' and their increased frequency during peak hours. Unfortunately,
-the introduction of the new network caused a great deal of controversy
-and confusion as people (especially senior citizens, who make up a large
-percentage of those who actually use the service) had gotten used to the
-old routes. Additionally, some smaller neighbourhoods were entirely cut
-out of the routes, resulting in long walks to the nearest bus station.
-The controversy seems to have died down, and in fact complaints have
-arisen every time the system has been changed in the past.
+On 23 July 2005, a new route network was instituted to replace the previous network, which had been used practically unchanged for decades. New routes had been added in new-developing areas, but the core routes were largely untouched until 2005. Planning for the revised network began in 2001. Its greatest change was introduction of the 'trunk routes' and their increased frequency during peak hours. Unfortunately, the introduction of the new network caused a great deal of controversy and confusion as people (especially senior citizens, who make up a large percentage of those who actually use the service) had gotten used to the old routes. Additionally, some smaller neighbourhoods were entirely cut out of the routes, resulting in long walks to the nearest bus station. The controversy seems to have died down, and in fact complaints have arisen every time the system has been changed in the past.
 
-On 5 March 2006, some refinements were made to the network in response
-to comments from users and drivers after the 2005 revision. The greatest
-change was the addition of 3 routes to better cover some neighborhoods
-and increase interlinking between areas.
+On 5 March 2006, some refinements were made to the network in response to comments from users and drivers after the 2005 revision. The greatest change was the addition of 3 routes to better cover some neighborhoods and increase interlinking between areas.
 
-In 2010, a new green line 16 was added to provide a bus at every 15
-minutes between Hlemmur and Nauthóll. Also, the course of route 18 was
-changed, it now terminates at Grafarholt instead of going through to
-Spöngin. Transportation service is provided by the new blue line 26 by
-connecting Spöngin and Hraunsás. For both lines, a new stop
-'Mímisbrunnur v/Úlfarsbraut' was added. In late summer, there were
-other changes: Lines 31/32 that used to go through the area around
-Spöngin (terminus of Route 6) were cancelled. Instead of theses two
-circular routes, line 6 now goes through Borgir, Víkur and Barðastaðir
-and back to Spöngin for an increased frequency in Borgir, Víkur and
-Barðastaðir but cutting Hamrar and Rimar from the network. During
-weekends and late evenings, buses drive from Barðastaðir down to
-Grafarholt where they serve the new extended Grafarholt area and then
-head back to Barðastaðir and Spöngin. Also, the route of line 22 was
-changed for the evenings: It now runs via Álfaskleið instead of serving
-Skútuhraun/Slökkviðstöð back to Fjörður terminal so an hourly service in
-central Hafnarfjörður can be provided.
+In 2010, a new green line 16 was added to provide a bus at every 15 minutes between Hlemmur and Nauthóll. Also, the course of route 18 was changed, it now terminates at Grafarholt instead of going through to Spöngin. Transportation service is provided by the new blue line 26 by connecting Spöngin and Hraunsás. For both lines, a new stop 'Mímisbrunnur v/Úlfarsbraut' was added. In late summer, there were other changes: Lines 31/32 that used to go through the area around Spöngin (terminus of Route 6) were cancelled. Instead of theses two circular routes, line 6 now goes through Borgir, Víkur and Barðastaðir and back to Spöngin for an increased frequency in Borgir, Víkur and Barðastaðir but cutting Hamrar and Rimar from the network. During weekends and late evenings, buses drive from Barðastaðir down to Grafarholt where they serve the new extended Grafarholt area and then head back to Barðastaðir and Spöngin. Also, the route of line 22 was changed for the evenings: It now runs via Álfaskleið instead of serving Skútuhraun/Slökkviðstöð back to Fjörður terminal so an hourly service in central Hafnarfjörður can be provided.
 
-In 2011, Strætó bs. decreased the amount of bus rides per day. Routes 2
-and 5 run on weekdays only, stopping already at 6pm. In general,
-operating hours have been cut: Instead of midnight, buses stop operating
-at about 11:30 pm. The last routes now terminate at about 11:30 pm.
-Route 36 was abandoned and 35 now runs in a 30 minutes interval all day.
+In 2011, Strætó bs. decreased the amount of bus rides per day. Routes 2 and 5 run on weekdays only, stopping already at 6pm. In general, operating hours have been cut: Instead of midnight, buses stop operating at about 11:30 pm. The last routes now terminate at about 11:30 pm. Route 36 was abandoned and 35 now runs in a 30 minutes interval all day.
 
-But there has also been expansion: Service on lines 23 and 28 has been
-improved. Although the Vífilsstaðir branch of line 23 has been
-abandoned, the frequency of buses to Álftanes is now every 30 minutes
-during rush hours and every 60 minutes during the rest of the day. On
-Sundays, there is a taxi service several times a day to Álftanes and one
-late night bus is available as taxi service all days of the week from
-Ásgarður.
+But there has also been expansion: Service on lines 23 and 28 has been improved. Although the Vífilsstaðir branch of line 23 has been abandoned, the frequency of buses to Álftanes is now every 30 minutes during rush hours and every 60 minutes during the rest of the day. On Sundays, there is a taxi service several times a day to Álftanes and one late night bus is available as taxi service all days of the week from Ásgarður.
 
-Route 28 was expanded to meet the demands of residents from the
-Vatnsendi area. Instead of having to take the 30 minutes ride to
-Hamraborg/Kópavorgur, the bus runs now to Mjódd as well so that
-travelling times from Vatnsendi to connecting trunk routes have been cut
-by twenty minutes.
+Route 28 was expanded to meet the demands of residents from the Vatnsendi area. Instead of having to take the 30 minutes ride to Hamraborg/Kópavorgur, the bus runs now to Mjódd as well so that travelling times from Vatnsendi to connecting trunk routes have been cut by twenty minutes.
 
-In early 2012, bus services in Southern Iceland (Suðurland) were
-extended. Apart from the bus services from Mjódd to Selfoss and
-Hveragerði, one can now take buses to Þorlákshöfn, the Laugarvatn area,
-Vík í Mýrdal/Skógar, Skaftafell and Höfn í Hornafirði in southern
-Iceland.
+In early 2012, bus services in Southern Iceland (Suðurland) were extended. Apart from the bus services from Mjódd to Selfoss and Hveragerði, one can now take buses to Þorlákshöfn, the Laugarvatn area, Vík í Mýrdal/Skógar, Skaftafell and Höfn í Hornafirði in southern Iceland.
 
 ## 外部連結
 

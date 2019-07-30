@@ -1,5 +1,4 @@
-**注音符號**是一个位于基本多文种平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了1912年由[中華民國教育部制定](../Page/中華民國教育部.md "wikilink")，给[標準漢語](https://zh.wikipedia.org/wiki/标准汉语 "wikilink")[標音的符号](https://zh.wikipedia.org/wiki/標音 "wikilink")。在1.0.0版收录的40个符号基于[GB
-2312](../Page/GB_2312.md "wikilink")。
+**注音符號**是一个位于基本多文种平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了1912年由[中華民國教育部](../Page/中華民國教育部.md "wikilink")制定，给[標準漢語](https://zh.wikipedia.org/wiki/标准汉语 "wikilink")[標音的符号](https://zh.wikipedia.org/wiki/標音 "wikilink")。在1.0.0版收录的40个符号基于[GB 2312](../Page/GB_2312.md "wikilink")。
 
 ## 历史
 

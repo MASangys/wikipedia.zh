@@ -1,18 +1,14 @@
-《**Gentlemen's
-Game**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[2PM的第](https://zh.wikipedia.org/wiki/2PM "wikilink")6張正規專輯，於2016年9月13日發行，主打曲為〈Promise
-(I'll Be)〉。
+《**Gentlemen's Game**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[2PM的第](https://zh.wikipedia.org/wiki/2PM "wikilink")6張正規專輯，於2016年9月13日發行，主打曲為〈Promise (I'll Be)〉。
 
 ## 概要
 
-《Gentlemen's
-Game》距離上張正規專輯約一年三個月之久，2PM成員均參與本張專輯的歌曲創作，也是成員玉澤演入伍前的最後一張專輯\[1\]，本次專輯形象則以展現男人魅力為主，一改以往的野獸風格。\[2\]
+《Gentlemen's Game》距離上張正規專輯約一年三個月之久，2PM成員均參與本張專輯的歌曲創作，也是成員玉澤演入伍前的最後一張專輯\[1\]，本次專輯形象則以展現男人魅力為主，一改以往的野獸風格。\[2\]
 
 ## 主打曲
 
-成員玉澤演與製作人Raphael在JYP娛樂的詞曲創作營所認識，這次主打曲是繼日文單曲〈[Fight](../Page/2PM_OF_2PM.md "wikilink")〉後的再次合作。由於JYP娛樂鼓勵旗下藝人與製作人自由創作，玉澤演及Raphael便邀請香港歌手[姜麗文共同創作本次主打曲](../Page/姜麗文.md "wikilink")\[3\]\[4\]，歌曲製作過程中Raphael與澤演以韓語溝通、姜麗文與澤演以英語溝通，Raphael及姜麗文之間則以日語交流，由於國家及語言的不同為這首歌曲的製作帶來許多掙扎與困難，促使他們找到合作的辦法。
+成員玉澤演與製作人Raphael在JYP娛樂的詞曲創作營所認識，這次主打曲是繼日文單曲〈[Fight](../Page/2PM_OF_2PM.md "wikilink")〉後的再次合作。由於JYP娛樂鼓勵旗下藝人與製作人自由創作，玉澤演及Raphael便邀請香港歌手[姜麗文](../Page/姜麗文.md "wikilink")共同創作本次主打曲\[3\]\[4\]，歌曲製作過程中Raphael與澤演以韓語溝通、姜麗文與澤演以英語溝通，Raphael及姜麗文之間則以日語交流，由於國家及語言的不同為這首歌曲的製作帶來許多掙扎與困難，促使他們找到合作的辦法。
 
-〈Promise (I'll
-Be)〉歌曲概念為「如史詩般」、「大規模」及「男子氣概」，歌詞靈感在作詞人的日常生活中偶然蹦出，Raphael稱他為了將合成器編曲完成，花了將近三週的時間，他也特別喜歡部分的[黃酮及絃樂聲](https://zh.wikipedia.org/wiki/黃酮 "wikilink")\[5\]；澤演則表示希望這首歌曲能展現成員的歌唱實力。
+〈Promise (I'll Be)〉歌曲概念為「如史詩般」、「大規模」及「男子氣概」，歌詞靈感在作詞人的日常生活中偶然蹦出，Raphael稱他為了將合成器編曲完成，花了將近三週的時間，他也特別喜歡部分的[黃酮及絃樂聲](https://zh.wikipedia.org/wiki/黃酮 "wikilink")\[5\]；澤演則表示希望這首歌曲能展現成員的歌唱實力。
 
 ## 曲目
 
@@ -212,10 +208,7 @@ Be)〉歌曲概念為「如史詩般」、「大規模」及「男子氣概」�
 
 ## 引用資料
 
-[Category:2PM音樂專輯](https://zh.wikipedia.org/wiki/Category:2PM音樂專輯 "wikilink")
-[Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2PM音樂專輯](https://zh.wikipedia.org/wiki/Category:2PM音樂專輯 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

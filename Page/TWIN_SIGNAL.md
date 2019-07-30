@@ -1,5 +1,4 @@
-《**TWIN
-SIGNAL**》（），是日本漫畫家[大清水さち所畫的](https://zh.wikipedia.org/wiki/大清水さち "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")、以原作為基礎進行了[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")、[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[廣播劇CD等改編衍生作品](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")。原本在[月刊少年GANGAN上連載](../Page/月刊少年GANGAN.md "wikilink")，後移籍到[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")（全由[艾尼克斯發行](../Page/艾尼克斯.md "wikilink")）並從1992年12月號開始到2001年12月號連載結束。
+《**TWIN SIGNAL**》（），是日本漫畫家[大清水さち所畫的](https://zh.wikipedia.org/wiki/大清水さち "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")、以原作為基礎進行了[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")、[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[廣播劇CD等改編衍生作品](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")。原本在[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")上連載，後移籍到[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")（全由[艾尼克斯](../Page/艾尼克斯.md "wikilink")發行）並從1992年12月號開始到2001年12月號連載結束。
 
 ## 故事簡介
 
@@ -92,38 +91,26 @@ SIGNAL**》（），是日本漫畫家[大清水さち所畫的](https://zh.wiki
   - 製作人 - 林美千代、五十嵐智之
   - 協力製作 -
   - 製作 - 西國晃、藤家和正
-  - 製作、著作 -
-    [東京電視台](../Page/東京電視台.md "wikilink")、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")
+  - 製作、著作 - [東京電視台](../Page/東京電視台.md "wikilink")、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")
 
 <!-- end list -->
 
   - 主題曲
 
-:;
-片頭曲「[Truth](https://zh.wikipedia.org/wiki/TRUTH_\(Bluem_of_Youthの曲\) "wikilink")」
+:; 片頭曲「[Truth](https://zh.wikipedia.org/wiki/TRUTH_\(Bluem_of_Youthの曲\) "wikilink")」
 
-:: 作詞 - 別所悠二 / 作曲・編曲 - 松ヶ下宏之 / 歌 - [Bluem of
-Youth](https://zh.wikipedia.org/wiki/Bluem_of_Youth "wikilink")
+:: 作詞 - 別所悠二 / 作曲・編曲 - 松ヶ下宏之 / 歌 - [Bluem of Youth](https://zh.wikipedia.org/wiki/Bluem_of_Youth "wikilink")
 
 :; 片尾曲「なんとかなるよ」
 
   -
 
       -
-        作詞 - [只野菜摘](https://zh.wikipedia.org/wiki/只野菜摘 "wikilink") /
-        作曲・編曲 - ZAKI / 歌 -
-        [草地章江](https://zh.wikipedia.org/wiki/草地章江 "wikilink")
+        作詞 - [只野菜摘](https://zh.wikipedia.org/wiki/只野菜摘 "wikilink") / 作曲・編曲 - ZAKI / 歌 - [草地章江](https://zh.wikipedia.org/wiki/草地章江 "wikilink")
 
 ## 註釋
 
 ## 外部連結
 
   -
-[Category:月刊少年GANGAN連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年GANGAN連載作品 "wikilink")
-[Category:月刊GFantasy](https://zh.wikipedia.org/wiki/Category:月刊GFantasy "wikilink")
-[Category:月刊GANGAN_WING](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_WING "wikilink")
-[Category:1996年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1996年日本OVA動畫 "wikilink")
-[Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
-[Category:機器人主角題材作品](https://zh.wikipedia.org/wiki/Category:機器人主角題材作品 "wikilink")
-[Category:自主機器人題材漫畫](https://zh.wikipedia.org/wiki/Category:自主機器人題材漫畫 "wikilink")
+[Category:月刊少年GANGAN連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年GANGAN連載作品 "wikilink") [Category:月刊GFantasy](https://zh.wikipedia.org/wiki/Category:月刊GFantasy "wikilink") [Category:月刊GANGAN_WING](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_WING "wikilink") [Category:1996年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1996年日本OVA動畫 "wikilink") [Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:機器人主角題材作品](https://zh.wikipedia.org/wiki/Category:機器人主角題材作品 "wikilink") [Category:自主機器人題材漫畫](https://zh.wikipedia.org/wiki/Category:自主機器人題材漫畫 "wikilink")

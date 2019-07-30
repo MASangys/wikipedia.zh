@@ -1,18 +1,10 @@
-《**Seventeen**》（）是一部於1998年7月17日\[1\]上映的[韓國青春](https://zh.wikipedia.org/wiki/韓國 "wikilink")[劇情片](https://zh.wikipedia.org/wiki/劇情片 "wikilink")，由鄭秉珏執導，[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[水晶男孩成員](../Page/水晶男孩.md "wikilink")[姜成勳](https://zh.wikipedia.org/wiki/姜成勳 "wikilink")、[殷志源與](https://zh.wikipedia.org/wiki/殷志源 "wikilink")、金恩美主演。本片為[韓國首部有偶像團體成員出演的電影](https://zh.wikipedia.org/wiki/韓國 "wikilink")（[水晶男孩全體成員均有參演](../Page/水晶男孩.md "wikilink")），劇情主要圍繞十代青少年的苦惱、愛情與夢想\[2\]。
+《**Seventeen**》（）是一部於1998年7月17日\[1\]上映的[韓國青春](https://zh.wikipedia.org/wiki/韓國 "wikilink")[劇情片](https://zh.wikipedia.org/wiki/劇情片 "wikilink")，由鄭秉珏執導，[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[水晶男孩](../Page/水晶男孩.md "wikilink")成員[姜成勳](https://zh.wikipedia.org/wiki/姜成勳 "wikilink")、[殷志源與](https://zh.wikipedia.org/wiki/殷志源 "wikilink")、金恩美主演。本片為[韓國首部有偶像團體成員出演的電影](https://zh.wikipedia.org/wiki/韓國 "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")全體成員均有參演），劇情主要圍繞十代青少年的苦惱、愛情與夢想\[2\]。
 
 ## 故事大綱
 
-出身於富裕家庭的高二女學生藝珍（
-飾）是校內的模範生，卻有著成為一名出色伴舞的夢想，而最能了解藝珍想法的人只有她的同校朋友尚祿（[姜成勳](https://zh.wikipedia.org/wiki/姜成勳 "wikilink")
-飾）。尚祿是一名稱職的班長，但他與藝珍一樣，無法擺脫模範生名銜的束縛去追尋自己的夢想。在Komodo舞團團長赫（[李宰鎮](../Page/李宰鎮.md "wikilink")
-飾）冷靜的批評及指出藝珍成為舞者的可能性後，藝珍開始苦惱學業和夢想該如何取捨。其後藝珍決定瞞著父母偷偷地前往舞團練習室練舞，卻漸漸無法同時兼顧學業和跳舞。藝珍父母知道真相後，執意把藝珍送到[加拿大親戚家](../Page/加拿大.md "wikilink")，最終藝珍決定在登上往[加拿大的飛機前](../Page/加拿大.md "wikilink")，為尚祿表演最後一支舞⋯⋯
+出身於富裕家庭的高二女學生藝珍（ 飾）是校內的模範生，卻有著成為一名出色伴舞的夢想，而最能了解藝珍想法的人只有她的同校朋友尚祿（[姜成勳](https://zh.wikipedia.org/wiki/姜成勳 "wikilink") 飾）。尚祿是一名稱職的班長，但他與藝珍一樣，無法擺脫模範生名銜的束縛去追尋自己的夢想。在Komodo舞團團長赫（[李宰鎮](../Page/李宰鎮.md "wikilink") 飾）冷靜的批評及指出藝珍成為舞者的可能性後，藝珍開始苦惱學業和夢想該如何取捨。其後藝珍決定瞞著父母偷偷地前往舞團練習室練舞，卻漸漸無法同時兼顧學業和跳舞。藝珍父母知道真相後，執意把藝珍送到[加拿大](../Page/加拿大.md "wikilink")親戚家，最終藝珍決定在登上往[加拿大](../Page/加拿大.md "wikilink")的飛機前，為尚祿表演最後一支舞⋯⋯
 
-另一主角俊泰（[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")
-飾）是老師眼中的壞學生，一次和學校有名的理性主義者大坤（[高志溶](../Page/高志溶.md "wikilink")
-飾）發生衝突後被勒令退學。在街上流連期間，俊泰遇到正在招攬客人的夜店皮條客JiJi（金恩美
-飾），因JiJi豪邁的性格而誤以為她是男生。為了維持生計，俊泰也成為一名皮條客，並寄居於JiJi家裡；JiJi的朋友TiTi（[U;Nee](../Page/U;Nee.md "wikilink")
-飾）在加油站工作時遇到騎摩托車的鐘秀（[金在德](../Page/金在德.md "wikilink")
-飾），被鐘秀的表白方式弄得哭笑不得。某天俊泰在JiJi家裡找到衛生巾，才發現JiJi是女生，兩人的關係亦變得微妙⋯⋯
+另一主角俊泰（[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink") 飾）是老師眼中的壞學生，一次和學校有名的理性主義者大坤（[高志溶](../Page/高志溶.md "wikilink") 飾）發生衝突後被勒令退學。在街上流連期間，俊泰遇到正在招攬客人的夜店皮條客JiJi（金恩美 飾），因JiJi豪邁的性格而誤以為她是男生。為了維持生計，俊泰也成為一名皮條客，並寄居於JiJi家裡；JiJi的朋友TiTi（[U;Nee](../Page/U;Nee.md "wikilink") 飾）在加油站工作時遇到騎摩托車的鐘秀（[金在德](../Page/金在德.md "wikilink") 飾），被鐘秀的表白方式弄得哭笑不得。某天俊泰在JiJi家裡找到衛生巾，才發現JiJi是女生，兩人的關係亦變得微妙⋯⋯
 
 俊泰、JiJi、鐘秀、TiTi四人一起騎摩托車奔向[東海](https://zh.wikipedia.org/wiki/東海 "wikilink")，享受快樂自由的時光。與此同時，鐘秀父親的手下正在追尋鐘秀。四人來到夜店，TiTi告訴鐘秀她懷孕的消息，鐘秀卻生氣得把她罵走。在俊泰的了解下，鐘秀道出自己是私生子的身份，因擔心孩子的將來才會對TiTi動氣。此時，鐘秀父親派來的手下突然出現，俊泰和鐘秀立刻帶著JiJi和TiTi騎摩托車離開。在逃避父親手下追捕期間，鐘秀和TiTi確認彼此的感情。然而他們在避開迎面駛至的車輛時，摩托車失事墜入中，鐘秀和TiTi不幸喪生。
 
@@ -213,13 +205,7 @@ Ma Kyeong-sik</p></td>
   - [Daum電影](http://movie.daum.net/moviedb/main?movieId=323)
 
   -
-[Category:韓國電影作品](https://zh.wikipedia.org/wiki/Category:韓國電影作品 "wikilink")
-[Category:韓國劇情片](https://zh.wikipedia.org/wiki/Category:韓國劇情片 "wikilink")
-[Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink")
-[Category:1998年電影](https://zh.wikipedia.org/wiki/Category:1998年電影 "wikilink")
-[Category:1990年代電影](https://zh.wikipedia.org/wiki/Category:1990年代電影 "wikilink")
-[Category:1990年代劇情片](https://zh.wikipedia.org/wiki/Category:1990年代劇情片 "wikilink")
-[Category:高中背景電影](https://zh.wikipedia.org/wiki/Category:高中背景電影 "wikilink")
+[Category:韓國電影作品](https://zh.wikipedia.org/wiki/Category:韓國電影作品 "wikilink") [Category:韓國劇情片](https://zh.wikipedia.org/wiki/Category:韓國劇情片 "wikilink") [Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink") [Category:1998年電影](https://zh.wikipedia.org/wiki/Category:1998年電影 "wikilink") [Category:1990年代電影](https://zh.wikipedia.org/wiki/Category:1990年代電影 "wikilink") [Category:1990年代劇情片](https://zh.wikipedia.org/wiki/Category:1990年代劇情片 "wikilink") [Category:高中背景電影](https://zh.wikipedia.org/wiki/Category:高中背景電影 "wikilink")
 
 1.
 2.

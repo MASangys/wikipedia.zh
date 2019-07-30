@@ -3,7 +3,7 @@
 ## 歷史
 
   - 2013年創建，主要目的是為了用繪畫實況來記錄生活，慢慢開始由全世界各地的[繪師](https://zh.wikipedia.org/wiki/繪師 "wikilink")、[藝術家在這個網路平台創立帳號](https://zh.wikipedia.org/wiki/藝術家 "wikilink")、進行直播。
-  - 2016年5月19日於[Android與](../Page/Android.md "wikilink")[iOS開放](https://zh.wikipedia.org/wiki/iOS "wikilink")[APP下載使用](https://zh.wikipedia.org/wiki/APP "wikilink")。
+  - 2016年5月19日於[Android](../Page/Android.md "wikilink")與[iOS開放](https://zh.wikipedia.org/wiki/iOS "wikilink")[APP下載使用](https://zh.wikipedia.org/wiki/APP "wikilink")。
 
 ## 相關條目
 
@@ -29,6 +29,4 @@
 
   - <https://www.youtube.com/c/PicartoTVOfficial> Picarto.tv\]
 
-[Category:2013年建立的網站](https://zh.wikipedia.org/wiki/Category:2013年建立的網站 "wikilink")
-[Category:網路電視頻道](https://zh.wikipedia.org/wiki/Category:網路電視頻道 "wikilink")
-[Category:網路電台](https://zh.wikipedia.org/wiki/Category:網路電台 "wikilink")
+[Category:2013年建立的網站](https://zh.wikipedia.org/wiki/Category:2013年建立的網站 "wikilink") [Category:網路電視頻道](https://zh.wikipedia.org/wiki/Category:網路電視頻道 "wikilink") [Category:網路電台](https://zh.wikipedia.org/wiki/Category:網路電台 "wikilink")

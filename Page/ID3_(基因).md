@@ -1,6 +1,4 @@
-**ID3**（分化抑制因子3，**I**nhibitor of **D**ifferentiation 3），正式名稱爲「inhibitor
-of DNA binding 3, HLH
-protein」（DNA結合抑制因子3，HLH（螺旋-環-螺旋）蛋白）。人ID3蛋白由*ID3*[基因編碼](../Page/基因.md "wikilink")\[1\]\[2\]。
+**ID3**（分化抑制因子3，**I**nhibitor of **D**ifferentiation 3），正式名稱爲「inhibitor of DNA binding 3, HLH protein」（DNA結合抑制因子3，HLH（螺旋-環-螺旋）蛋白）。人ID3蛋白由*ID3*[基因](../Page/基因.md "wikilink")編碼\[1\]\[2\]。
 
 ## 功能
 
@@ -12,7 +10,7 @@ ID3能與（轉錄因子3）發生[相互作用](../Page/蛋白質交互作用.m
 
 ## ID3的抑制劑
 
-能與*ID3*基因的[啓動子結合](https://zh.wikipedia.org/wiki/啓動子 "wikilink")，進而抑制其*ID3*基因的活性。如果敲除[海馬的BTG](../Page/海馬.md "wikilink")2基因的話，海馬*ID3*表達就會上調，進而使其神經元無法發生末端分化\[6\]。
+能與*ID3*基因的[啓動子結合](https://zh.wikipedia.org/wiki/啓動子 "wikilink")，進而抑制其*ID3*基因的活性。如果敲除[海馬](../Page/海馬.md "wikilink")的BTG2基因的話，海馬*ID3*表達就會上調，進而使其神經元無法發生末端分化\[6\]。
 
 ## 參見
 

@@ -1,4 +1,4 @@
-**tvN週末連續劇**（），或稱**tvN土日連續劇**，是[tvN電視台逢](https://zh.wikipedia.org/wiki/tvN "wikilink")[星期六](../Page/星期六.md "wikilink")、[星期日播映的電視劇](../Page/星期日.md "wikilink")。\[1\]
+**tvN週末連續劇**（），或稱**tvN土日連續劇**，是[tvN電視台逢](https://zh.wikipedia.org/wiki/tvN "wikilink")[星期六](../Page/星期六.md "wikilink")、[星期日](../Page/星期日.md "wikilink")播映的電視劇。\[1\]
 
 ## 播出時間更動表
 
@@ -243,7 +243,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2019年7月13日－<br />
-2019年9月</p></td>
+2019年9月1日</p></td>
 <td style="text-align: center;"><p><a href="../Page/德魯納酒店.md" title="wikilink">德魯納酒店</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
@@ -253,8 +253,8 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年9月－<br />
-2019年9月</p></td>
+<td style="text-align: center;"><p>2019年9月7日－<br />
+2019年9月22日</p></td>
 <td style="text-align: center;"><p><a href="../Page/阿斯達年代記.md" title="wikilink">阿斯達年代記</a>（第3部）<br />
 </p></td>
 <td style="text-align: center;"><p>6</p></td>
@@ -264,9 +264,9 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年9月－<br />
-2019年</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/融化我吧" title="wikilink">融化我吧</a><br />
+<td style="text-align: center;"><p>2019年9月28日－<br />
+2019年11月</p></td>
+<td style="text-align: center;"><p><a href="../Page/請融化我吧.md" title="wikilink">請融化我吧</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/池昌旭.md" title="wikilink">池昌旭</a>、<a href="../Page/元真兒.md" title="wikilink">元真兒</a>、<a href="../Page/尹世雅.md" title="wikilink">尹世雅</a></p></td>
@@ -277,10 +277,10 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年11月－<br />
 2019年</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/愛的迫降" title="wikilink">愛的迫降</a><br />
+<td style="text-align: center;"><p><a href="../Page/愛的迫降.md" title="wikilink">愛的迫降</a><br />
 </p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/玄彬" title="wikilink">玄彬</a>、<a href="https://zh.wikipedia.org/wiki/孫藝珍" title="wikilink">孫藝珍</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/玄彬" title="wikilink">玄彬</a>、<a href="https://zh.wikipedia.org/wiki/孫藝珍" title="wikilink">孫藝珍</a>、、<a href="../Page/徐智慧_(1984年).md" title="wikilink">徐智慧</a>、<a href="../Page/金正鉉_(1990年).md" title="wikilink">金正鉉</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李政孝" title="wikilink">李政孝</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/朴智恩_(編劇).md" title="wikilink">朴智恩</a></p></td>
 <td style="text-align: center;"></td>
@@ -306,8 +306,6 @@
   - [SBS週末連續劇](../Page/SBS週末連續劇.md "wikilink")
   - [OCN週末連續劇](https://zh.wikipedia.org/wiki/OCN週末連續劇 "wikilink")
 
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
 
 1.

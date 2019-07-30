@@ -1,5 +1,4 @@
-[右](https://zh.wikipedia.org/wiki/File:BIGBANG_Extraordinary_20's.JPG "fig:右")
-《**BIGBANG歷年歌曲列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG及成員出道至今發行過的歌曲](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")。BIGBANG發行的音樂作品絕大多數出自於成員自己的創作，而至今已在韓國發行了三張錄音室專輯、五張迷你專輯，以及27首韓語單曲，在日本共推出五張錄音室專輯，三張迷你專輯與8首單曲。\[1\]
+[右](https://zh.wikipedia.org/wiki/File:BIGBANG_Extraordinary_20's.JPG "fig:右") 《**BIGBANG歷年歌曲列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG及成員出道至今發行過的歌曲](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")。BIGBANG發行的音樂作品絕大多數出自於成員自己的創作，而至今已在韓國發行了三張錄音室專輯、五張迷你專輯，以及27首韓語單曲，在日本共推出五張錄音室專輯，三張迷你專輯與8首單曲。\[1\]
 
 ## 團體
 
@@ -303,7 +302,7 @@
 <td><p>2008</p></td>
 </tr>
 <tr class="odd">
-<td><p>Forever With U<small>（<a href="../Page/朴春.md" title="wikilink">朴春配唱</a>）</small> </p></td>
+<td><p>Forever With U<small>（<a href="../Page/朴春.md" title="wikilink">朴春</a>配唱）</small> </p></td>
 <td><p>G-Dragon, T.O.P</p></td>
 <td><p><a href="../Page/BIGBANG_03.md" title="wikilink">BIGBANG 03</a></p></td>
 <td><p>韓語</p></td>
@@ -1072,7 +1071,7 @@
 <td><p>日語</p></td>
 </tr>
 <tr class="even">
-<td><p>Missing You<small>（<a href="../Page/金倫我.md" title="wikilink">金倫我配唱</a>）</small></p></td>
+<td><p>Missing You<small>（<a href="../Page/金倫我.md" title="wikilink">金倫我</a>配唱）</small></p></td>
 <td><p>G-Dragon, Teddy</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/One_of_a_Kind" title="wikilink">One of a Kind</a></p></td>
 <td><p>韓語</p></td>
@@ -1086,7 +1085,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Light it Up<small>（<a href="https://zh.wikipedia.org/wiki/李善雄" title="wikilink">Tablo</a> &amp; <a href="../Page/Dok2.md" title="wikilink">Dok2配唱</a>）</small></p></td>
+<td><p>Light it Up<small>（<a href="https://zh.wikipedia.org/wiki/李善雄" title="wikilink">Tablo</a> &amp; <a href="../Page/Dok2.md" title="wikilink">Dok2</a>配唱）</small></p></td>
 <td><p>G-Dragon, Tablo, Dok2</p></td>
 <td><p>韓語</p></td>
 <td><p>2012</p></td>
@@ -1901,7 +1900,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Oh Yeah<small>（<a href="../Page/朴春.md" title="wikilink">朴春配唱</a>）</small> </p></td>
+<td><p>Oh Yeah<small>（<a href="../Page/朴春.md" title="wikilink">朴春</a>配唱）</small> </p></td>
 <td><p>G-Dragon, T.O.P, Teddy</p></td>
 <td><p>韓語</p></td>
 <td><p>2010</p></td>

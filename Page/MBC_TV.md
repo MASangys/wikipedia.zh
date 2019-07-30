@@ -1,11 +1,9 @@
-**MBC
-TV**是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[文化广播公司](https://zh.wikipedia.org/wiki/文化广播公司 "wikilink")（MBC）对[首都圈地区播出的一个电视频道](https://zh.wikipedia.org/wiki/韩国首都圈 "wikilink")，[呼号](../Page/无线电台呼号.md "wikilink")**HKLV-DTV**。
+**MBC TV**是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[文化广播公司](https://zh.wikipedia.org/wiki/文化广播公司 "wikilink")（MBC）对[首都圈地区播出的一个电视频道](https://zh.wikipedia.org/wiki/韩国首都圈 "wikilink")，[呼号](../Page/无线电台呼号.md "wikilink")**HKLV-DTV**。
 
 ## 简介
 
   - 1969年8月8日，文化广播公司的电视频道开播。
-  - 1980年12月22日，MBC
-    TV的彩色电视节目在[汉城](https://zh.wikipedia.org/wiki/汉城 "wikilink")（今[首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")）开播；次年1月1日，MBC全国各地方分台都开播了彩色电视节目。
+  - 1980年12月22日，MBC TV的彩色电视节目在[汉城](https://zh.wikipedia.org/wiki/汉城 "wikilink")（今[首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")）开播；次年1月1日，MBC全国各地方分台都开播了彩色电视节目。
   - 2013年1月1日，MBC TV开始全天24小时播出。\[1\]
 
 ## 发射频道
@@ -43,7 +41,6 @@ TV**是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[文化广播公
   - [SBS TV](../Page/SBS_TV.md "wikilink")
   - [Channel A](../Page/Channel_A.md "wikilink")
 
-[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink")
-[Category:1969年建立](https://zh.wikipedia.org/wiki/Category:1969年建立 "wikilink")
+[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink") [Category:1969年建立](https://zh.wikipedia.org/wiki/Category:1969年建立 "wikilink")
 
 1.

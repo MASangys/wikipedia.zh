@@ -1,12 +1,12 @@
-**-{zh-cn:舰姬;zh-sg:少女航线;zh-hant:請命令！提督Sama}-**，為[中國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[成都金角網路科技於](https://zh.wikipedia.org/wiki/成都金角網路科技 "wikilink")[2016年開發的](../Page/2016年.md "wikilink")[二戰](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")主題手機遊戲；該遊戲首先在[2017年一月於南韓上市](../Page/2017年.md "wikilink")，接著於同年七月於中國上市，隨後於日、港、澳、台、東南亞等海外區域發行。
+**-{zh-cn:舰姬;zh-sg:少女航线;zh-hant:請命令！提督Sama}-**，為[中國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[成都金角網路科技於](https://zh.wikipedia.org/wiki/成都金角網路科技 "wikilink")[2016年](../Page/2016年.md "wikilink")開發的[二戰](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")主題手機遊戲；該遊戲首先在[2017年](../Page/2017年.md "wikilink")一月於南韓上市，接著於同年七月於中國上市，隨後於日、港、澳、台、東南亞等海外區域發行。
 
 ## 簡介
 
-玩家可藉由戰鬥、[轉蛋等方式](../Page/轉蛋.md "wikilink")，蒐集包含[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[日本](../Page/日本.md "wikilink")、[納粹德國](../Page/納粹德國.md "wikilink")、[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")、[蘇聯等不同國家的船艦](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")，組織五艘艦艇編隊，與[AI或真人對手交戰](https://zh.wikipedia.org/wiki/人工智慧 "wikilink")；戰鬥中各艦艇可累積能量啟用[必殺技](../Page/魔法.md "wikilink")，攻擊敵艦或保護己方艦艇。
+玩家可藉由戰鬥、[轉蛋](../Page/轉蛋.md "wikilink")等方式，蒐集包含[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[日本](../Page/日本.md "wikilink")、[納粹德國](../Page/納粹德國.md "wikilink")、[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")、[蘇聯等不同國家的船艦](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")，組織五艘艦艇編隊，與[AI或真人對手交戰](https://zh.wikipedia.org/wiki/人工智慧 "wikilink")；戰鬥中各艦艇可累積能量啟用[必殺技](../Page/魔法.md "wikilink")，攻擊敵艦或保護己方艦艇。
 
 ## 登場艦艇
 
-这部作品有包含中文版、日文版兩種不同版本的配音陣容，其中中文版以部分日文語音、簡／繁體中文介面表示（港澳台／馬新版客戶端，其語音同中國版）。其中[加隈亞衣就參與中日雙版本的角色配音](../Page/加隈亞衣.md "wikilink")。
+这部作品有包含中文版、日文版兩種不同版本的配音陣容，其中中文版以部分日文語音、簡／繁體中文介面表示（港澳台／馬新版客戶端，其語音同中國版）。其中[加隈亞衣](../Page/加隈亞衣.md "wikilink")就參與中日雙版本的角色配音。
 
 <table>
 <caption>航空母艦</caption>
@@ -661,9 +661,9 @@
 
 ## 參見
 
-  - [艦隊Collection](../Page/艦隊Collection.md "wikilink")─由日本[角川遊戲製作](https://zh.wikipedia.org/wiki/角川遊戲 "wikilink")，[DMM.com發行](../Page/DMM.com.md "wikilink")，為大部分艦船擬人化主題遊戲的靈感來源。
+  - [艦隊Collection](../Page/艦隊Collection.md "wikilink")─由日本[角川遊戲製作](https://zh.wikipedia.org/wiki/角川遊戲 "wikilink")，[DMM.com](../Page/DMM.com.md "wikilink")發行，為大部分艦船擬人化主題遊戲的靈感來源。
   - [戰艦少女](https://zh.wikipedia.org/wiki/戰艦少女 "wikilink")─由中國[上海幻萌製作及發行](https://zh.wikipedia.org/wiki/幻萌網絡 "wikilink")。
-  - [碧藍航線](../Page/碧藍航線.md "wikilink")─由中國[上海蠻啾與](https://zh.wikipedia.org/wiki/上海蠻啾 "wikilink")[廈門勇仕製作](https://zh.wikipedia.org/wiki/廈門勇仕 "wikilink")，[Bilibili發行](../Page/Bilibili.md "wikilink")。
+  - [碧藍航線](../Page/碧藍航線.md "wikilink")─由中國[上海蠻啾與](https://zh.wikipedia.org/wiki/上海蠻啾 "wikilink")[廈門勇仕製作](https://zh.wikipedia.org/wiki/廈門勇仕 "wikilink")，[Bilibili](../Page/Bilibili.md "wikilink")發行。
   - [深淵地平線](../Page/深淵地平線.md "wikilink")─由中國[重慶煜顔製作](https://zh.wikipedia.org/wiki/重慶煜顔 "wikilink")，[心動網絡發行](https://zh.wikipedia.org/wiki/心動網絡 "wikilink")。
   - [超次元大海戰](https://zh.wikipedia.org/wiki/超次元大海戰 "wikilink")─由中國[江蘇甲子製作](https://zh.wikipedia.org/wiki/江蘇甲子 "wikilink")，[次元遊戲社發行](https://zh.wikipedia.org/wiki/次元遊戲社 "wikilink")。
 
@@ -681,13 +681,7 @@
   - [英語服官網](http://enjj.yahgame.com/)
   - [英語服官方臉書](https://www.facebook.com/Lanegirls)
 
-[Category:2017年電子遊戲](https://zh.wikipedia.org/wiki/Category:2017年電子遊戲 "wikilink")
-[Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:含付費內容的免費遊戲](https://zh.wikipedia.org/wiki/Category:含付費內容的免費遊戲 "wikilink")
-[Category:萌擬人化題材作品](https://zh.wikipedia.org/wiki/Category:萌擬人化題材作品 "wikilink")
-[Category:二戰題材電子遊戲](https://zh.wikipedia.org/wiki/Category:二戰題材電子遊戲 "wikilink")
-[Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink")
+[Category:2017年電子遊戲](https://zh.wikipedia.org/wiki/Category:2017年電子遊戲 "wikilink") [Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:含付費內容的免費遊戲](https://zh.wikipedia.org/wiki/Category:含付費內容的免費遊戲 "wikilink") [Category:萌擬人化題材作品](https://zh.wikipedia.org/wiki/Category:萌擬人化題材作品 "wikilink") [Category:二戰題材電子遊戲](https://zh.wikipedia.org/wiki/Category:二戰題材電子遊戲 "wikilink") [Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink")
 
 1.
 2.

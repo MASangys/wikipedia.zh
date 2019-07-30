@@ -2,11 +2,9 @@ if(\!("bluedeck" in window)) bluedeck = {};
 
 if(\!("external_config" in bluedeck)) bluedeck.external_config = {};
 
-if(\!("easy_archive" in bluedeck.external_config))
-bluedeck.external_config.easy_archive = {};
+if(\!("easy_archive" in bluedeck.external_config)) bluedeck.external_config.easy_archive = {};
 
-bluedeck.external_config.easy_archive.never_enable_on_these_pages_regex
-= \[
+bluedeck.external_config.easy_archive.never_enable_on_these_pages_regex = \[
 
 `               /^Wikipedia:首页$/,`
 `               /^Wikipedia:頁面存廢討論.*$/,`
@@ -25,7 +23,6 @@ bluedeck.external_config.easy_archive.never_enable_on_these_pages_regex
 `               /^Wikipedia:五大支柱$/`
 `           ];`
 
-bluedeck.external_config.easy_archive.never_enable_on_these_namespaces_int
-= \[0\];
+bluedeck.external_config.easy_archive.never_enable_on_these_namespaces_int = \[0\];
 
 mw.loader.load("//meta.wikimedia.org/w/index.php?title=user:bluedeck/source/easy-archive.js\&action=raw\&ctype=text/javascript");

@@ -1,6 +1,4 @@
-《**Mounting Up
-如鷹展翅**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Mounting
-Up）是一套青春舞台劇，亦是[香港仔浸信會呂明才書院建校四十週年藝術紀念作品](../Page/香港仔浸信會呂明才書院.md "wikilink")，由[人間搞作](https://zh.wikipedia.org/wiki/人間搞作 "wikilink")、[壹加壹製作有限公司製作](https://zh.wikipedia.org/wiki/壹加壹製作有限公司 "wikilink")。故事講述一班青春學生的不同生活景況，各有自己的理想與目標，經過努力應對挑戰，受到旁人一直的打氣，注目自己的目標。在十年後，興奮地於終點重聚，展現自己達到的理想。此劇亦是香港仔浸信會呂明才書院首部公演的**福音音樂劇**，由[禤楊美鄰女士擔任舞台劇大會](https://zh.wikipedia.org/wiki/禤楊美鄰 "wikilink")[顧問](https://zh.wikipedia.org/wiki/顧問 "wikilink")。
+《**Mounting Up 如鷹展翅**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Mounting Up）是一套青春舞台劇，亦是[香港仔浸信會呂明才書院](../Page/香港仔浸信會呂明才書院.md "wikilink")建校四十週年藝術紀念作品，由[人間搞作](https://zh.wikipedia.org/wiki/人間搞作 "wikilink")、[壹加壹製作有限公司製作](https://zh.wikipedia.org/wiki/壹加壹製作有限公司 "wikilink")。故事講述一班青春學生的不同生活景況，各有自己的理想與目標，經過努力應對挑戰，受到旁人一直的打氣，注目自己的目標。在十年後，興奮地於終點重聚，展現自己達到的理想。此劇亦是香港仔浸信會呂明才書院首部公演的**福音音樂劇**，由[禤楊美鄰女士擔任舞台劇大會](https://zh.wikipedia.org/wiki/禤楊美鄰 "wikilink")[顧問](https://zh.wikipedia.org/wiki/顧問 "wikilink")。
 
 ## 主要內容
 
@@ -9,8 +7,7 @@ Up）是一套青春舞台劇，亦是[香港仔浸信會呂明才書院建校�
 <!-- end list -->
 
   -
-    學期已接近尾聲，中四丙班的同學們，即將要面對他們的[香港會考](https://zh.wikipedia.org/wiki/香港會考 "wikilink")，在班主任**Miss
-    Chin**的教導及勉勵下，他們決定好裝備好自己，迎接中五。
+    學期已接近尾聲，中四丙班的同學們，即將要面對他們的[香港會考](https://zh.wikipedia.org/wiki/香港會考 "wikilink")，在班主任**Miss Chin**的教導及勉勵下，他們決定好裝備好自己，迎接中五。
 
 <!-- end list -->
 
@@ -19,8 +16,7 @@ Up）是一套青春舞台劇，亦是[香港仔浸信會呂明才書院建校�
 <!-- end list -->
 
   -
-    新學期伊始，中四丙班的同學已升讀中五丙班。第三十屆學校[運動會亦即將進行](https://zh.wikipedia.org/wiki/運動會 "wikilink")，勤、信、勇、愛四社啦啦隊在**魔鬼師姐**之管教下，積極練習。在此同時，憂慮多多的**狐狸**決定找尋熟悉的視藝老師**Miss
-    Pang**傾訴，道出自己的設計師的理想，但常常受到父母的壓力。經Miss Pang之開解後，狐狸決定努力邁向自己的目標。
+    新學期伊始，中四丙班的同學已升讀中五丙班。第三十屆學校[運動會亦即將進行](https://zh.wikipedia.org/wiki/運動會 "wikilink")，勤、信、勇、愛四社啦啦隊在**魔鬼師姐**之管教下，積極練習。在此同時，憂慮多多的**狐狸**決定找尋熟悉的視藝老師**Miss Pang**傾訴，道出自己的設計師的理想，但常常受到父母的壓力。經Miss Pang之開解後，狐狸決定努力邁向自己的目標。
 
 <!-- end list -->
 
@@ -38,8 +34,7 @@ Up）是一套青春舞台劇，亦是[香港仔浸信會呂明才書院建校�
 <!-- end list -->
 
   -
-    **Michael**於**Miss
-    Chin**的推薦下，回校擔任訓練中五丙班的[體育助教](https://zh.wikipedia.org/wiki/體育 "wikilink")，在一眾同學質問下，道出自己以往與**Kellyjacky**的初戀經過。
+    **Michael**於**Miss Chin**的推薦下，回校擔任訓練中五丙班的[體育助教](https://zh.wikipedia.org/wiki/體育 "wikilink")，在一眾同學質問下，道出自己以往與**Kellyjacky**的初戀經過。
 
 <!-- end list -->
 
@@ -73,7 +68,7 @@ Up）是一套青春舞台劇，亦是[香港仔浸信會呂明才書院建校�
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/蘇家慧" title="wikilink">蘇家慧</a>　<span style="font-size:smaller;">飾</span>　<strong>勤社社長</strong>
 <ul>
-<li>勤社的社長，及後成為<a href="../Page/青年民建聯.md" title="wikilink">青年民建聯主席</a>。</li>
+<li>勤社的社長，及後成為<a href="../Page/青年民建聯.md" title="wikilink">青年民建聯</a>主席。</li>
 </ul></li>
 <li><a href="https://zh.wikipedia.org/wiki/潘雅姿" title="wikilink">潘雅姿</a> <span style="font-size:smaller;">飾</span>　<strong>勤社社員</strong>
 <ul>
@@ -130,7 +125,7 @@ Up）是一套青春舞台劇，亦是[香港仔浸信會呂明才書院建校�
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/鍾嘉文" title="wikilink">鍾嘉文</a>　<span style="font-size:smaller;">飾</span>　<strong>信社社長</strong>
 <ul>
-<li>信社的社長，及後成為<a href="../Page/樂施會.md" title="wikilink">樂施會成員</a>。</li>
+<li>信社的社長，及後成為<a href="../Page/樂施會.md" title="wikilink">樂施會</a>成員。</li>
 </ul></li>
 <li><a href="https://zh.wikipedia.org/wiki/鄭深月" title="wikilink">鄭深月</a> <span style="font-size:smaller;">飾</span>　<strong>信社社員</strong>
 <ul>
@@ -183,7 +178,7 @@ Up）是一套青春舞台劇，亦是[香港仔浸信會呂明才書院建校�
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/吳倚彤" title="wikilink">吳倚彤</a>　<span style="font-size:smaller;">飾</span>　<strong>勇社社長</strong>
 <ul>
-<li>勇社的社長，及後成為<a href="https://zh.wikipedia.org/wiki/特首" title="wikilink">特首</a><a href="https://zh.wikipedia.org/wiki/助理" title="wikilink">助理</a>。</li>
+<li>勇社的社長，及後成為<a href="https://zh.wikipedia.org/wiki/特首" title="wikilink">特首</a><a href="../Page/助理.md" title="wikilink">助理</a>。</li>
 </ul></li>
 <li><a href="https://zh.wikipedia.org/wiki/何汶晞" title="wikilink">何汶晞</a> <span style="font-size:smaller;">飾</span>　<strong>勇社社員</strong>
 <ul>
@@ -432,10 +427,7 @@ Up）是一套青春舞台劇，亦是[香港仔浸信會呂明才書院建校�
 
 ## 外部連結
 
-  - [浸中四十周年校慶福音音樂劇《Mounting
-    Up，如鷹展翅》校友專場將於2015年4月19日公演](https://www.facebook.com/40th.ablmcc/photos/a.316757701860967.1073741829.164474623755943/380128798857190/)
+  - [浸中四十周年校慶福音音樂劇《Mounting Up，如鷹展翅》校友專場將於2015年4月19日公演](https://www.facebook.com/40th.ablmcc/photos/a.316757701860967.1073741829.164474623755943/380128798857190/)
   - [香港仔浸信會呂明才書院四十周年校慶專頁](https://www.facebook.com/40th.ablmcc)
 
-[Category:香港舞台劇](https://zh.wikipedia.org/wiki/Category:香港舞台劇 "wikilink")
-[Category:香港音樂劇](https://zh.wikipedia.org/wiki/Category:香港音樂劇 "wikilink")
-[Category:香港戲劇作品](https://zh.wikipedia.org/wiki/Category:香港戲劇作品 "wikilink")
+[Category:香港舞台劇](https://zh.wikipedia.org/wiki/Category:香港舞台劇 "wikilink") [Category:香港音樂劇](https://zh.wikipedia.org/wiki/Category:香港音樂劇 "wikilink") [Category:香港戲劇作品](https://zh.wikipedia.org/wiki/Category:香港戲劇作品 "wikilink")

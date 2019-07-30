@@ -1,6 +1,4 @@
-**S.I.S**（）由Double X
-娛樂公司於2017年推出的韓國[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")。成員由J-SUN、Dal、Minzy、Gaeul、Anne、Sebin共六名成員所組成。
-組合於2017年8月25日發佈單曲一輯《I've Got A Feeling》正式出道\[1\]\[2\]。
+**S.I.S**（）是[韓國Double](https://zh.wikipedia.org/wiki/韓國 "wikilink") X 娛樂於2017年推出的六人女子組合。組合於2017年8月25日發佈單曲一輯《I've Got A Feeling》正式出道\[1\]\[2\]。原成員有J-SUN、Dal、Minzy、Gaeul、Anne、Sebin，2019年7月12日，公司宣布J-SUN(合約結束)及Dal(私人理合)而退出團體，團體改以四人制繼續進行活動\[3\]。
 
 團名為 **S**erendipity **I**n **S**tars 之縮寫；同時具有SISTER縮寫SIS的意義。
 
@@ -12,9 +10,7 @@ S.I.S於8月17日公開團體預告照，8月20日公開精華組曲預告，8�
 
 ### 發佈第一張單曲專輯
 
-2017年8月25日，發佈了第一張單曲專輯《I've Got A
-Feeling》，專輯包含四首歌曲。同時於8月25日於音樂銀行出道初舞台，演出歌曲《I've
-Got A Feeling》。
+2017年8月25日，發佈了第一張單曲專輯《I've Got A Feeling》，專輯包含四首歌曲。同時於8月25日於音樂銀行出道初舞台，演出歌曲《I've Got A Feeling》。
 
 ### 參加The Unit
 
@@ -51,26 +47,6 @@ Got A Feeling》。
 <td><p>中文名 </p></td>
 <td></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>J-SUN</strong></p></td>
-<td><p>지해</p></td>
-<td><p>Kim Ji-hye</p></td>
-<td><p>김지혜</p></td>
-<td><p>金智惠</p></td>
-<td><p><br />
-<a href="https://zh.wikipedia.org/wiki/慶尚南道" title="wikilink">慶尚南道</a><a href="../Page/金海市.md" title="wikilink">金海市</a></p></td>
-<td><p>隊長、主唱</p></td>
-</tr>
-<tr class="even">
-<td><p>Dal</p></td>
-<td><p>달</p></td>
-<td><p>Kim Ah-hyun</p></td>
-<td><p>김아현</p></td>
-<td><p>金雅賢</p></td>
-<td><p><br />
-<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a></p></td>
-<td><p>主唱</p></td>
 </tr>
 <tr class="odd">
 <td><p>Minzy</p></td>
@@ -112,6 +88,26 @@ Got A Feeling》。
 <a href="../Page/仁川廣域市.md" title="wikilink">仁川廣域市</a><a href="../Page/富平區.md" title="wikilink">富平區</a></p></td>
 <td><p>副Rapper、副唱、忙內</p></td>
 </tr>
+<tr class="odd">
+<td><p><strong>J-SUN</strong></p></td>
+<td><p>지해</p></td>
+<td><p>Kim Ji-hye</p></td>
+<td><p>김지혜</p></td>
+<td><p>金智惠</p></td>
+<td><p><br />
+<a href="https://zh.wikipedia.org/wiki/慶尚南道" title="wikilink">慶尚南道</a><a href="../Page/金海市.md" title="wikilink">金海市</a></p></td>
+<td><p>隊長、主唱</p></td>
+</tr>
+<tr class="even">
+<td><p>Dal</p></td>
+<td><p>달</p></td>
+<td><p>Kim Ah-hyun</p></td>
+<td><p>김아현</p></td>
+<td><p>金雅賢</p></td>
+<td><p><br />
+<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a></p></td>
+<td><p>主唱</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -134,7 +130,7 @@ Got A Feeling》。
 <li>語言：韓語</li>
 <li>唱片公司：MUSIC&amp;NEW</li>
 <li>格式：CD唱片、數字唱片</li>
-<li>銷量：1,000 +[3]</li>
+<li>銷量：1,000 +[4]</li>
 </ul></td>
 <td><ol>
 <li><strong>I've Got A Feeling(느낌이 와)</strong></li>
@@ -151,7 +147,7 @@ Got A Feeling》。
 <li>語言：韓語</li>
 <li>唱片公司：<a href="../Page/Kakao_M.md" title="wikilink">LOEN娱乐</a></li>
 <li>格式：CD唱片、數字唱片</li>
-<li>銷量：1,418 +[4]</li>
+<li>銷量：1,418 +[5]</li>
 </ul></td>
 <td><ol>
 <li><strong>응 (SAY YES)</strong></li>
@@ -220,7 +216,7 @@ Got A Feeling》。
 |      |       |                                                                              |
 | ---- | ----- | ---------------------------------------------------------------------------- |
 | 年份   | 日期    | 歌名                                                                           |
-| 2017 | 8月25日 | **I've Got A Feeling(느낌이 와)**\[5\]<ref>{{Citation|last=S.I.S Official 에스아이에스 |
+| 2017 | 8月25日 | **I've Got A Feeling(느낌이 와)**\[6\]<ref>{{Citation|last=S.I.S Official 에스아이에스 |
 
 ## 影视作品
 
@@ -286,14 +282,11 @@ Got A Feeling》。
   - [官方YouTube頻道](https://www.youtube.com/sisofficial)
   - [官方網站](http://xx-ent.com/portfolio-posts/sis/)
 
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
+[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 
 1.
 2.
-3.  [2017年GAON 8月專輯榜100位](http://mobile.gaonchart.co.kr/musicAlbum.gaon?nationGbn=T&serviceGbn=&targetTime=08&hitYear=2017&termGbn=month)
-4.  [2018年GAON 9月專輯榜64位](http://mobile.gaonchart.co.kr/musicAlbum.gaon?nationGbn=T&serviceGbn=&targetTime=09&hitYear=2018&termGbn=month)
-5.
+3.
+4.  [2017年GAON 8月專輯榜100位](http://mobile.gaonchart.co.kr/musicAlbum.gaon?nationGbn=T&serviceGbn=&targetTime=08&hitYear=2017&termGbn=month)
+5.  [2018年GAON 9月專輯榜64位](http://mobile.gaonchart.co.kr/musicAlbum.gaon?nationGbn=T&serviceGbn=&targetTime=09&hitYear=2018&termGbn=month)
+6.

@@ -1,4 +1,4 @@
-《**I.O.I影視作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[I.O.I在出道限定期間內參與之音樂現場](../Page/I.O.I.md "wikilink")、各類電視節目、固定節目、電視劇的演出。
+《**I.O.I影視作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[I.O.I](../Page/I.O.I.md "wikilink")在出道限定期間內參與之音樂現場、各類電視節目、固定節目、電視劇的演出。
 
 ## 專屬節目
 
@@ -239,7 +239,7 @@
 <td><p>FashionN</p></td>
 <td><p>《<a href="../Page/拜託了梳妝台.md" title="wikilink">拜託了梳妝台</a>》</p></td>
 <td><p>請夏</p></td>
-<td><p>共12集，與<a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/韓彩英.md" title="wikilink">韓彩英共同主持</a></p></td>
+<td><p>共12集，與<a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/韓彩英.md" title="wikilink">韓彩英</a>共同主持</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月2日－12月21日</p></td>
@@ -1650,7 +1650,7 @@ MBC Music</p></td>
 <td><p>Arirang TV</p></td>
 <td><p>平昌K-DRAMA FESTA</p></td>
 <td><p>請夏</p></td>
-<td><p>與<a href="../Page/利特.md" title="wikilink">利特共同主持</a></p></td>
+<td><p>與<a href="../Page/利特.md" title="wikilink">利特</a>共同主持</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月20日</p></td>
@@ -1993,9 +1993,7 @@ MBC Music</p></td>
 6.
 7.
 8.
-9.  [1](https://www.youtube.com/watch?v=FLHsa5DOTFk)[【I.O.I綜藝】I.O.I
-    被迫再重新選成員?\!](http://www.vlovekpop.com/160605-ioi-knowing-brother/)
-    vlovekpop
+9.  [1](https://www.youtube.com/watch?v=FLHsa5DOTFk)[【I.O.I綜藝】I.O.I 被迫再重新選成員?\!](http://www.vlovekpop.com/160605-ioi-knowing-brother/) vlovekpop
 10.
 11.
 12.

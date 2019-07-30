@@ -13,7 +13,7 @@
 
 ## 歷史
 
-由[台灣大學](../Page/國立臺灣大學.md "wikilink")、[政治大學](../Page/國立政治大學.md "wikilink")、[台灣科技大學等學生組成的團隊共同創辦](../Page/國立臺灣科技大學.md "wikilink")\[2\]\[3\]。鑒於當時高中生集體聯署要求[Dcard開放高中生註冊](../Page/Dcard.md "wikilink")，造成[Dcard多數用戶極力反彈](../Page/Dcard.md "wikilink")，Meteor創辦團隊於當時宣布將創辦高校生社群時立刻引起了廣大的回響，也讓[Dcard的反彈聲浪告一段落](../Page/Dcard.md "wikilink")。但由於使用介面及軟體功能與[Dcard過於相似](../Page/Dcard.md "wikilink")，因此造成了Meteor有抄襲之說。
+由[台灣大學](../Page/國立臺灣大學.md "wikilink")、[政治大學](../Page/國立政治大學.md "wikilink")、[台灣科技大學等學生組成的團隊共同創辦](../Page/國立臺灣科技大學.md "wikilink")\[2\]\[3\]。鑒於當時高中生集體聯署要求[Dcard](../Page/Dcard.md "wikilink")開放高中生註冊，造成[Dcard](../Page/Dcard.md "wikilink")多數用戶極力反彈，Meteor創辦團隊於當時宣布將創辦高校生社群時立刻引起了廣大的回響，也讓[Dcard](../Page/Dcard.md "wikilink")的反彈聲浪告一段落。但由於使用介面及軟體功能與[Dcard](../Page/Dcard.md "wikilink")過於相似，因此造成了Meteor有抄襲之說。
 
 ### 社群歷史
 
@@ -21,9 +21,9 @@
 
 而在社群創立初期，討論板是由Meteor官方團隊直隸管理，但由於團隊人手嚴重不足，工程師除了做軟體開發外，另需兼任討論板管理員，使得軟體[Bug一堆](../Page/程序错误.md "wikilink")，論壇文章內容多處違規卻無人處理，造成初期用戶體驗不佳。
 
-有別於[Dcard的初期只顯示校系的匿名性質](../Page/Dcard.md "wikilink")，Meteor讓用戶得以自行設定自己的暱稱，並於發文時選擇是否隱藏暱稱，但仍會顯示學校名。現可同時隱藏暱稱及學校名。
+有別於[Dcard](../Page/Dcard.md "wikilink")的初期只顯示校系的匿名性質，Meteor讓用戶得以自行設定自己的暱稱，並於發文時選擇是否隱藏暱稱，但仍會顯示學校名。現可同時隱藏暱稱及學校名。
 
-有別於[Dcard是直接由官方進行管理](../Page/Dcard.md "wikilink")，Meteor官方團隊開放部分討論板透過選舉產生[板主負責管理](https://zh.wikipedia.org/wiki/板主 "wikilink")。
+有別於[Dcard](../Page/Dcard.md "wikilink")是直接由官方進行管理，Meteor官方團隊開放部分討論板透過選舉產生[板主負責管理](https://zh.wikipedia.org/wiki/板主 "wikilink")。
 
 於2019年4月初，開放[國中三年級學生註冊](https://zh.wikipedia.org/wiki/國中 "wikilink")。
 
@@ -47,13 +47,10 @@
 
 <references />
 
-[Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink")
-[Category:台灣網路論壇](https://zh.wikipedia.org/wiki/Category:台灣網路論壇 "wikilink")
-[Category:台灣網站](https://zh.wikipedia.org/wiki/Category:台灣網站 "wikilink")
+[Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:台灣網路論壇](https://zh.wikipedia.org/wiki/Category:台灣網路論壇 "wikilink") [Category:台灣網站](https://zh.wikipedia.org/wiki/Category:台灣網站 "wikilink")
 
 1.   蘋果日報|accessdate=2016-08-12|language=zh-TW}}
-2.   即時新聞 {{\!}} 20160810 {{\!}}
-    蘋果日報|newspaper=蘋果日報|accessdate=2016-10-19|language=zh-TW}}
+2.   即時新聞 {{\!}} 20160810 {{\!}} 蘋果日報|newspaper=蘋果日報|accessdate=2016-10-19|language=zh-TW}}
 3.   蘋果日報|newspaper=蘋果日報|accessdate=2016-10-19|language=zh-TW}}
 4.
 5.

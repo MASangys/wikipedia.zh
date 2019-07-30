@@ -1,15 +1,12 @@
-**Mi-Ke**（），[日本唱片公司](../Page/日本.md "wikilink")[Being的旗下演唱團體](../Page/Being_\(公司\).md "wikilink")。是從[B.B.QUEENS中的](../Page/B.B.QUEENS.md "wikilink")3人女合音團體「**B.B.QUEENS
-SISTERS**（<small></small>）\[1\]」誕生，成員由、、組成。
+**Mi-Ke**（），[日本](../Page/日本.md "wikilink")唱片公司[Being的旗下演唱團體](../Page/Being_\(公司\).md "wikilink")。是從[B.B.QUEENS](../Page/B.B.QUEENS.md "wikilink")中的3人女合音團體「**B.B.QUEENS SISTERS**（<small></small>）\[1\]」誕生，成員由、、組成。
 
-1991年改名「Mi-Ke」之後以獨立[偶像團體出道](https://zh.wikipedia.org/wiki/偶像 "wikilink")，但於1993年停止活動。她們的原創標識「Presented
-by B.B.QUEENS」則是由B.B.QUEENS所書寫。
+1991年改名「Mi-Ke」之後以獨立[偶像團體出道](https://zh.wikipedia.org/wiki/偶像 "wikilink")，但於1993年停止活動。她們的原創標識「Presented by B.B.QUEENS」則是由B.B.QUEENS所書寫。
 
 ## 經歷
 
-1991年以[偶像團體出道](https://zh.wikipedia.org/wiki/偶像 "wikilink")。出道初期雖然還沒有身為偶像團體要有[偶像的意識和默契](https://zh.wikipedia.org/wiki/偶像 "wikilink")，但是仍以歌曲的選定再生、[翻唱為企劃是Mi](https://zh.wikipedia.org/wiki/翻唱 "wikilink")-Ke作為發行[專輯的主題](../Page/音樂專輯.md "wikilink")。其團名來自嘲諷當時的當紅樂團「」，並以[三色貓的](../Page/三色貓.md "wikilink")3種顏色活用在她們3人身上，宇德代表白色、村上代表茶色、渡邊代表黑色作區別。
+1991年以[偶像團體出道](https://zh.wikipedia.org/wiki/偶像 "wikilink")。出道初期雖然還沒有身為偶像團體要有[偶像的意識和默契](https://zh.wikipedia.org/wiki/偶像 "wikilink")，但是仍以歌曲的選定再生、[翻唱為企劃是Mi](https://zh.wikipedia.org/wiki/翻唱 "wikilink")-Ke作為發行[專輯的主題](../Page/音樂專輯.md "wikilink")。其團名來自嘲諷當時的當紅樂團「」，並以[三色貓](../Page/三色貓.md "wikilink")的3種顏色活用在她們3人身上，宇德代表白色、村上代表茶色、渡邊代表黑色作區別。
 
-其後成為唱片公司[Being的音響](../Page/Being_\(公司\).md "wikilink")、重編包含企劃製作之光，於[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")、[日本有線大獎](../Page/日本有線大獎.md "wikilink")、[全日本有線放送大獎](../Page/全日本有線放送大獎.md "wikilink")（今[BEST
-HITS歌謠祭大獎](https://zh.wikipedia.org/wiki/BEST_HITS歌謠祭 "wikilink")）、[日本金唱片大獎等所有音樂獎中都榮獲最優秀新人獎](../Page/日本金唱片大獎.md "wikilink")，並以出道後的首張單曲「」在『[第42回NHK紅白歌合戰](../Page/第42回NHK紅白歌合戰.md "wikilink")』出場。
+其後成為唱片公司[Being的音響](../Page/Being_\(公司\).md "wikilink")、重編包含企劃製作之光，於[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")、[日本有線大獎](../Page/日本有線大獎.md "wikilink")、[全日本有線放送大獎](../Page/全日本有線放送大獎.md "wikilink")（今[BEST HITS歌謠祭大獎](https://zh.wikipedia.org/wiki/BEST_HITS歌謠祭 "wikilink")）、[日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")等所有音樂獎中都榮獲最優秀新人獎，並以出道後的首張單曲「」在『[第42回NHK紅白歌合戰](../Page/第42回NHK紅白歌合戰.md "wikilink")』出場。
 
 1992年4月至1993年3月在[NHK綜合播出的音樂節目](../Page/NHK綜合頻道.md "wikilink")『』擔任常態節目助理。
 
@@ -288,7 +285,7 @@ HITS歌謠祭大獎](https://zh.wikipedia.org/wiki/BEST_HITS歌謠祭 "wikilink"
 </tr>
 <tr class="even">
 <td><p>喜歡你喜歡你喜歡你</p></td>
-<td><p><a href="../Page/日本電視台.md" title="wikilink">日本電視台綜藝節目</a>《》片頭主題曲</p></td>
+<td><p><a href="../Page/日本電視台.md" title="wikilink">日本電視台</a>綜藝節目《》片頭主題曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>藍光的橫須賀</p></td>
@@ -296,7 +293,7 @@ HITS歌謠祭大獎](https://zh.wikipedia.org/wiki/BEST_HITS歌謠祭 "wikilink"
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台電視動畫</a>《》片尾主題曲</p></td>
+<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>電視動畫《》片尾主題曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>雪白的<sup>2</sup>白色珊瑚礁</p></td>
@@ -324,7 +321,7 @@ HITS歌謠祭大獎](https://zh.wikipedia.org/wiki/BEST_HITS歌謠祭 "wikilink"
 </tr>
 <tr class="odd">
 <td><p>Please Please Me, LOVE</p></td>
-<td><p><a href="../Page/富士電視台.md" title="wikilink">富士電視台電視劇</a>《》主題歌曲</p></td>
+<td><p><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>電視劇《》主題歌曲</p></td>
 </tr>
 </tbody>
 </table>
@@ -341,11 +338,9 @@ HITS歌謠祭大獎](https://zh.wikipedia.org/wiki/BEST_HITS歌謠祭 "wikilink"
 
 ### 電視節目
 
-  - [MUSIC
-    STATION](../Page/MUSIC_STATION.md "wikilink")（[朝日電視台](../Page/朝日電視台.md "wikilink")）
+  - [MUSIC STATION](../Page/MUSIC_STATION.md "wikilink")（[朝日電視台](../Page/朝日電視台.md "wikilink")）
 
-  - [COUNT DOWN
-    TV](../Page/COUNT_DOWN_TV.md "wikilink")（[TBS](../Page/TBS電視台.md "wikilink")）
+  - [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")（[TBS](../Page/TBS電視台.md "wikilink")）
 
   - （[日本電視台](../Page/日本電視台.md "wikilink")）
 
@@ -361,12 +356,11 @@ HITS歌謠祭大獎](https://zh.wikipedia.org/wiki/BEST_HITS歌謠祭 "wikilink"
 
 ## 逸事
 
-Mi-Ke自從綜藝節目《》（[日本電視台製作](../Page/日本電視台.md "wikilink")）開播之後以常態來賓上節目時多次在節目現場直接發表新歌。而Mi-Ke的領唱曾在節目中與同樣擔任常態來賓的提出不同意見，結果宇德說自己是堺正章的歌迷時，她因為心念一轉從對立轉變成全力支持（事實上大都是宇德在支持）。
+Mi-Ke自從綜藝節目《》（[日本電視台](../Page/日本電視台.md "wikilink")製作）開播之後以常態來賓上節目時多次在節目現場直接發表新歌。而Mi-Ke的領唱曾在節目中與同樣擔任常態來賓的提出不同意見，結果宇德說自己是堺正章的歌迷時，她因為心念一轉從對立轉變成全力支持（事實上大都是宇德在支持）。
 
-1991年1月至3月在[TBS播出的電視劇](../Page/TBS電視台.md "wikilink")《》的工作人員表中主題歌的主唱以**B.B.Oueens
-Sisters**表示。
+1991年1月至3月在[TBS播出的電視劇](../Page/TBS電視台.md "wikilink")《》的工作人員表中主題歌的主唱以**B.B.Oueens Sisters**表示。
 
-更早以前在1988年，[坂井泉水曾經參加](../Page/坂井泉水.md "wikilink")[B.B.QUEENS](../Page/B.B.QUEENS.md "wikilink")（Mi-ke的前身）的合音甄選，結果落選。但坂井的實力被[Being的社長看中](../Page/Being_\(公司\).md "wikilink")，之後在1991年2月以樂團[ZARD主唱的身份出道](../Page/ZARD.md "wikilink")。
+更早以前在1988年，[坂井泉水](../Page/坂井泉水.md "wikilink")曾經參加[B.B.QUEENS](../Page/B.B.QUEENS.md "wikilink")（Mi-ke的前身）的合音甄選，結果落選。但坂井的實力被[Being的社長看中](../Page/Being_\(公司\).md "wikilink")，之後在1991年2月以樂團[ZARD](../Page/ZARD.md "wikilink")主唱的身份出道。
 
 ## 參考來源
 
@@ -384,9 +378,6 @@ Sisters**表示。
       -
   -
   -
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:日本唱片大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎獲獎者 "wikilink")
-[Category:星尘传播](https://zh.wikipedia.org/wiki/Category:星尘传播 "wikilink")
+[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本唱片大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎獲獎者 "wikilink") [Category:星尘传播](https://zh.wikipedia.org/wiki/Category:星尘传播 "wikilink")
 
 1.  「BMG Victor 東京でMi-ke LIVE 單曲&專輯總計突破100萬枚紀念」《》1991年9月18日版，第15面。

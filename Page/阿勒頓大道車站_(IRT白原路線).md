@@ -1,4 +1,4 @@
-**阿勒頓大道車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT白原路線的一個慢車](../Page/IRT白原路線.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布朗克斯](../Page/布朗克斯.md "wikilink")的阿勒頓大道和交界\[1\]，設有[2號線](https://zh.wikipedia.org/wiki/紐約地鐵2號線 "wikilink")（任何時候停站）與[5號線](../Page/紐約地鐵5號線.md "wikilink")（僅繁忙時段的尖峰方向停站）列車服務\[2\]\[3\]。
+**阿勒頓大道車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT白原路線](../Page/IRT白原路線.md "wikilink")的一個慢車[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布朗克斯](../Page/布朗克斯.md "wikilink")的阿勒頓大道和交界\[1\]，設有[2號線](https://zh.wikipedia.org/wiki/紐約地鐵2號線 "wikilink")（任何時候停站）與[5號線](../Page/紐約地鐵5號線.md "wikilink")（僅繁忙時段的尖峰方向停站）列車服務\[2\]\[3\]。
 
 ## 車站結構
 
@@ -38,34 +38,26 @@
 </tbody>
 </table>
 
-此高架車站設有兩個[側式月台和三條軌道](../Page/側式月台.md "wikilink")\[4\]。
+此高架車站設有兩個[側式月台](../Page/側式月台.md "wikilink")和三條軌道\[4\]。
 
 ## 參考資料
 
 ## 外部連結
 
   -
-  - nycsubway.org — [Allerton Mandalas Artwork by Michele Brody
-    (2006)](http://www.nycsubway.org/perl/artwork_show?155)
+  - nycsubway.org — [Allerton Mandalas Artwork by Michele Brody (2006)](http://www.nycsubway.org/perl/artwork_show?155)
 
-  - Station Reporter — [2
-    Train](https://web.archive.org/web/20141203073216/http://www.stationreporter.net/2train.htm)
+  - Station Reporter — [2 Train](https://web.archive.org/web/20141203073216/http://www.stationreporter.net/2train.htm)
 
-  - The Subway Nut — [Allerton Avenue
-    Pictures](http://www.subwaynut.com/irt/allertonn2/index.html)
+  - The Subway Nut — [Allerton Avenue Pictures](http://www.subwaynut.com/irt/allertonn2/index.html)
 
-  - MTA's Arts For Transit — [Allerton Avenue (IRT White Plains Road
-    Line)](https://web.archive.org/web/20110606070217/http://mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=2&station=7&xdev=605)
+  - MTA's Arts For Transit — [Allerton Avenue (IRT White Plains Road Line)](https://web.archive.org/web/20110606070217/http://mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=2&station=7&xdev=605)
 
-  - [Allerton Avenue entrance from Google Maps Street
-    View](https://maps.google.com/maps?ie=UTF8&ll=40.865627,-73.867371&spn=0.003813,0.013433&z=17&layer=c&cbll=40.865712,-73.867364&panoid=-tK2O6ObMW5Uesq_Y5U4mA&cbp=12,227.55,,0,5.29)
+  - [Allerton Avenue entrance from Google Maps Street View](https://maps.google.com/maps?ie=UTF8&ll=40.865627,-73.867371&spn=0.003813,0.013433&z=17&layer=c&cbll=40.865712,-73.867364&panoid=-tK2O6ObMW5Uesq_Y5U4mA&cbp=12,227.55,,0,5.29)
 
-  - [Platforms from Google Maps Street
-    View](https://www.google.com/maps/contrib/103237729589375373179/photos/@40.8649521,-73.8672333,3a,75y,46h,90t/data=!3m8!1e1!3m6!1s-k4uI06j3HTA%2FWIwGb3jOqOI%2FAAAAAAAAdmI%2FiHx8mg9A5S8gXFlTl9w6o7mw8HN8H0YQACLIB!2e4!3e11!6s%2F%2Flh5.googleusercontent.com%2F-k4uI06j3HTA%2FWIwGb3jOqOI%2FAAAAAAAAdmI%2FiHx8mg9A5S8gXFlTl9w6o7mw8HN8H0YQACLIB%2Fw203-h100-p-k-no%2F!7i9728!8i4864!4m3!8m2!3m1!1e1!6m1!1e1)
+  - [Platforms from Google Maps Street View](https://www.google.com/maps/contrib/103237729589375373179/photos/@40.8649521,-73.8672333,3a,75y,46h,90t/data=!3m8!1e1!3m6!1s-k4uI06j3HTA%2FWIwGb3jOqOI%2FAAAAAAAAdmI%2FiHx8mg9A5S8gXFlTl9w6o7mw8HN8H0YQACLIB!2e4!3e11!6s%2F%2Flh5.googleusercontent.com%2F-k4uI06j3HTA%2FWIwGb3jOqOI%2FAAAAAAAAdmI%2FiHx8mg9A5S8gXFlTl9w6o7mw8HN8H0YQACLIB%2Fw203-h100-p-k-no%2F!7i9728!8i4864!4m3!8m2!3m1!1e1!6m1!1e1)
 
-[Category:IRT白原路線車站](https://zh.wikipedia.org/wiki/Category:IRT白原路線車站 "wikilink")
-[Category:1917年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路車站 "wikilink")
-[Category:布朗克斯紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布朗克斯紐約地鐵車站 "wikilink")
+[Category:IRT白原路線車站](https://zh.wikipedia.org/wiki/Category:IRT白原路線車站 "wikilink") [Category:1917年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路車站 "wikilink") [Category:布朗克斯紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布朗克斯紐約地鐵車站 "wikilink")
 
 1.
 2.

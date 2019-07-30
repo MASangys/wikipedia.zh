@@ -1,12 +1,10 @@
-[第26回](../Page/第26回TV_LIFE年度日劇大賞.md "wikilink") ← **第27回** →
-[第28回](../Page/第28回TV_LIFE年度日劇大賞.md "wikilink")
+[第26回](../Page/第26回TV_LIFE年度日劇大賞.md "wikilink") ← **第27回** → [第28回](../Page/第28回TV_LIFE年度日劇大賞.md "wikilink")
 
-**第27回[TV
-LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2017年播出的連續劇做出的觀眾投票。
+**第27回[TV LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2017年播出的連續劇做出的觀眾投票。
 
-本屆獲獎最多的劇集是[富士電視台的](../Page/富士電視台.md "wikilink")《[貴族偵探](https://zh.wikipedia.org/wiki/貴族偵探系列#電視劇 "wikilink")》\[1\]，共獲三獎。
+本屆獲獎最多的劇集是[富士電視台](../Page/富士電視台.md "wikilink")的《[貴族偵探](https://zh.wikipedia.org/wiki/貴族偵探系列#電視劇 "wikilink")》\[1\]，共獲三獎。
 
-個人方面，[相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")、[山下智久和](../Page/山下智久.md "wikilink")[新垣結衣](../Page/新垣結衣.md "wikilink")，分別第二度獲頒最佳男主角、最佳男配角及最佳女配角。
+個人方面，[相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")、[山下智久](../Page/山下智久.md "wikilink")和[新垣結衣](../Page/新垣結衣.md "wikilink")，分別第二度獲頒最佳男主角、最佳男配角及最佳女配角。
 
 ## 獎項
 
@@ -45,7 +43,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>　《<a href="../Page/空中急診英雄.md" title="wikilink">空中急診英雄3</a>》</p></td>
+<td><p>　《<a href="../Page/空中急診英雄.md" title="wikilink">空中急診英雄</a>3》</p></td>
 <td><p>　<a href="../Page/富士電視台.md" title="wikilink">富士電視台</a></p></td>
 <td></td>
 </tr>
@@ -86,7 +84,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 </tr>
 <tr class="odd">
 <td><p>　<a href="../Page/山下智久.md" title="wikilink">山下智久</a></p></td>
-<td><p>　《<a href="../Page/空中急診英雄.md" title="wikilink">空中急診英雄3</a>》</p></td>
+<td><p>　《<a href="../Page/空中急診英雄.md" title="wikilink">空中急診英雄</a>3》</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -185,7 +183,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 <tbody>
 <tr class="odd">
 <td><p><strong><a href="../Page/新垣結衣.md" title="wikilink">新垣結衣</a><br />
-《<a href="../Page/空中急診英雄.md" title="wikilink">空中急診英雄3</a>》</strong></p></td>
+《<a href="../Page/空中急診英雄.md" title="wikilink">空中急診英雄</a>3》</strong></p></td>
 <td><p>　<a href="../Page/蒼井優.md" title="wikilink">蒼井優</a></p></td>
 <td><p>　《》</p></td>
 </tr>
@@ -196,7 +194,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 </tr>
 <tr class="odd">
 <td><p>　<a href="https://zh.wikipedia.org/wiki/戶田惠梨香" title="wikilink">戶田惠梨香</a></p></td>
-<td><p>　《<a href="../Page/空中急診英雄.md" title="wikilink">空中急診英雄3</a>》</p></td>
+<td><p>　《<a href="../Page/空中急診英雄.md" title="wikilink">空中急診英雄</a>3》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -241,7 +239,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 </tr>
 <tr class="even">
 <td><p>　<a href="../Page/新木優子.md" title="wikilink">新木優子</a></p></td>
-<td><p>　《<a href="../Page/空中急診英雄.md" title="wikilink">空中急診英雄3</a>》</p></td>
+<td><p>　《<a href="../Page/空中急診英雄.md" title="wikilink">空中急診英雄</a>3》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -293,7 +291,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 <tr class="even">
 <td><p>　<a href="../Page/Mr.Children.md" title="wikilink">Mr.Children</a></p></td>
 <td><p>　<a href="../Page/HANABI_(Mr.Children單曲).md" title="wikilink">HANABI</a></p></td>
-<td><p>　《<a href="../Page/空中急診英雄.md" title="wikilink">空中急診英雄3</a>》</p></td>
+<td><p>　《<a href="../Page/空中急診英雄.md" title="wikilink">空中急診英雄</a>3》</p></td>
 </tr>
 <tr class="odd">
 <td><p>　<a href="../Page/B&#39;z.md" title="wikilink">B'z</a></p></td>
@@ -309,7 +307,6 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 
 ## 參考來源
 
-[Category:2017年日本](https://zh.wikipedia.org/wiki/Category:2017年日本 "wikilink")
-[Category:2017年电视奖项](https://zh.wikipedia.org/wiki/Category:2017年电视奖项 "wikilink")
+[Category:2017年日本](https://zh.wikipedia.org/wiki/Category:2017年日本 "wikilink") [Category:2017年电视奖项](https://zh.wikipedia.org/wiki/Category:2017年电视奖项 "wikilink")
 
 1.

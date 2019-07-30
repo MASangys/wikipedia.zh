@@ -2,13 +2,11 @@
 
 ## 作品
 
-《[鬼王](https://zh.wikipedia.org/wiki/鬼王 "wikilink")》。\[4\]
-《[阎浮提行记](https://zh.wikipedia.org/wiki/阎浮提行记 "wikilink")》、及其《[黑暗的佐德尔](https://zh.wikipedia.org/wiki/黑暗的佐德尔 "wikilink")》、《[悼武](https://zh.wikipedia.org/wiki/悼武 "wikilink")》\[5\]
+《[鬼王](https://zh.wikipedia.org/wiki/鬼王 "wikilink")》。\[4\] 《[阎浮提行记](https://zh.wikipedia.org/wiki/阎浮提行记 "wikilink")》、及其《[黑暗的佐德尔](https://zh.wikipedia.org/wiki/黑暗的佐德尔 "wikilink")》、《[悼武](https://zh.wikipedia.org/wiki/悼武 "wikilink")》\[5\]
 
 ## 参考文献
 
-[Category:漫画网站](https://zh.wikipedia.org/wiki/Category:漫画网站 "wikilink")
-[Category:尚漫](https://zh.wikipedia.org/wiki/Category:尚漫 "wikilink")
+[Category:漫画网站](https://zh.wikipedia.org/wiki/Category:漫画网站 "wikilink") [Category:尚漫](https://zh.wikipedia.org/wiki/Category:尚漫 "wikilink")
 
 1.
 2.

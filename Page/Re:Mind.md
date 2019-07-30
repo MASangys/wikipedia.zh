@@ -1,10 +1,10 @@
-《**Re:Mind**》是自[2017年](../Page/2017年.md "wikilink")[10月20日起至同年](../Page/10月20日.md "wikilink")[12月29日止每週五凌晨](../Page/12月29日.md "wikilink")1:00至1:30間於[日本](../Page/日本.md "wikilink")[東京電視台播映的密室懸疑電視劇](../Page/東京電視台.md "wikilink")，由女子偶像團體[櫸坂46的團內分隊](../Page/櫸坂46.md "wikilink")[平假名櫸坂46成員擔綱主演](https://zh.wikipedia.org/wiki/平假名櫸坂46 "wikilink")\[1\]。本劇於2017年10月13日起在影音串流平台[Netflix上以網路方式先行播映](../Page/Netflix.md "wikilink")\[2\]。
+《**Re:Mind**》是自[2017年](../Page/2017年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")起至同年[12月29日](../Page/12月29日.md "wikilink")止每週五凌晨1:00至1:30間於[日本](../Page/日本.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")播映的密室懸疑電視劇，由女子偶像團體[櫸坂46](../Page/櫸坂46.md "wikilink")的團內分隊[平假名櫸坂46成員擔綱主演](https://zh.wikipedia.org/wiki/平假名櫸坂46 "wikilink")\[1\]。本劇於2017年10月13日起在影音串流平台[Netflix](../Page/Netflix.md "wikilink")上以網路方式先行播映\[2\]。
 
 ## 概要
 
 本劇為[東京電視台](../Page/東京電視台.md "wikilink")「」（即週五凌晨一點）的第三部作品，同時也是[平假名櫸坂46首次演出的電視劇](https://zh.wikipedia.org/wiki/櫸坂46#成員 "wikilink")\[3\]。
 
-在本劇的初始企畫中，製作方原先屬意由平假名櫸坂46的成員井口眞緒、潮紗理菜、柿崎芽實、影山優佳、加藤史帆、齊藤京子、佐佐木久美、佐佐木美玲、高瀨愛奈、高本彩花、[長濱禰留與東村芽依等](../Page/長濱禰留.md "wikilink")12名成員共同演出\[4\]，及後長濱禰留因不再兼任平假名櫸坂46成員而辭演\[5\]，劇組遂自平假名櫸坂46二期成員金村美玖、河田陽菜、小坂菜緒、富田鈴花、丹生明里、濱岸日和、松田好花、宮田愛萌與渡邊美穂等9人中以試鏡方式甄選其中一人作替代\[6\]，最終決定由渡邊美穂擔綱原由長濱禰留飾演的角色\[7\]。
+在本劇的初始企畫中，製作方原先屬意由平假名櫸坂46的成員井口眞緒、潮紗理菜、柿崎芽實、影山優佳、加藤史帆、齊藤京子、佐佐木久美、佐佐木美玲、高瀨愛奈、高本彩花、[長濱禰留](../Page/長濱禰留.md "wikilink")與東村芽依等12名成員共同演出\[4\]，及後長濱禰留因不再兼任平假名櫸坂46成員而辭演\[5\]，劇組遂自平假名櫸坂46二期成員金村美玖、河田陽菜、小坂菜緒、富田鈴花、丹生明里、濱岸日和、松田好花、宮田愛萌與渡邊美穂等9人中以試鏡方式甄選其中一人作替代\[6\]，最終決定由渡邊美穂擔綱原由長濱禰留飾演的角色\[7\]。
 
 本劇拍攝作業於2017年9月間展開\[8\]。
 
@@ -208,11 +208,7 @@
 
   - （2017年8月29日 - ）
 
-[分類:2017年開播的日本電視劇集](https://zh.wikipedia.org/wiki/分類:2017年開播的日本電視劇集 "wikilink")
-[分類:日本懸疑劇](https://zh.wikipedia.org/wiki/分類:日本懸疑劇 "wikilink")
-[分類:密室逃脫](https://zh.wikipedia.org/wiki/分類:密室逃脫 "wikilink")
-[分類:平假名櫸坂46](https://zh.wikipedia.org/wiki/分類:平假名櫸坂46 "wikilink")
-[分類:秋元康](https://zh.wikipedia.org/wiki/分類:秋元康 "wikilink")
+[分類:2017年開播的日本電視劇集](https://zh.wikipedia.org/wiki/分類:2017年開播的日本電視劇集 "wikilink") [分類:日本懸疑劇](https://zh.wikipedia.org/wiki/分類:日本懸疑劇 "wikilink") [分類:密室逃脫](https://zh.wikipedia.org/wiki/分類:密室逃脫 "wikilink") [分類:平假名櫸坂46](https://zh.wikipedia.org/wiki/分類:平假名櫸坂46 "wikilink") [分類:秋元康](https://zh.wikipedia.org/wiki/分類:秋元康 "wikilink")
 
 [Category:2017年亮相的日本網絡劇](https://zh.wikipedia.org/wiki/Category:2017年亮相的日本網絡劇 "wikilink")
 

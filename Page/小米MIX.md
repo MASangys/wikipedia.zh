@@ -2,7 +2,7 @@
 
 ## 外观
 
-小米MIX由设计师[菲利普·斯塔克设计](../Page/菲利普·斯塔克.md "wikilink")。\[1\]
+小米MIX由设计师[菲利普·斯塔克](../Page/菲利普·斯塔克.md "wikilink")设计。\[1\]
 
 手机正面无任何开孔。6.4英寸屏幕占据了整个手机正面的大部分空间，官方宣称其屏占比达到了91.3%。
 
@@ -131,13 +131,7 @@
 
   - [小米MIX 参数 - 小米商城](http://www.mi.com/mix/specs/)
 
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:小米手机](https://zh.wikipedia.org/wiki/Category:小米手机 "wikilink")
-[Category:全螢幕手機](https://zh.wikipedia.org/wiki/Category:全螢幕手機 "wikilink")
-[Category:2016年面世的手機](https://zh.wikipedia.org/wiki/Category:2016年面世的手機 "wikilink")
+[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:小米手机](https://zh.wikipedia.org/wiki/Category:小米手机 "wikilink") [Category:全螢幕手機](https://zh.wikipedia.org/wiki/Category:全螢幕手機 "wikilink") [Category:2016年面世的手機](https://zh.wikipedia.org/wiki/Category:2016年面世的手機 "wikilink")
 
-1.
-    小米最高端MIX手机的首席设计师！解读菲利普·斯塔克|accessdate=2018-05-28|date=2017-05-27|work=www.sohu.com}}
-2.  [小米MIX白色发布](http://www.techweb.com.cn/tele/2017-01-06/2467901.shtml),小米MIX最初只有黑色版，后在[CES](https://zh.wikipedia.org/wiki/CES "wikilink")
-    2017展会上发布白色版本
+1.   小米最高端MIX手机的首席设计师！解读菲利普·斯塔克|accessdate=2018-05-28|date=2017-05-27|work=www.sohu.com}}
+2.  [小米MIX白色发布](http://www.techweb.com.cn/tele/2017-01-06/2467901.shtml),小米MIX最初只有黑色版，后在[CES](https://zh.wikipedia.org/wiki/CES "wikilink") 2017展会上发布白色版本

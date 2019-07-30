@@ -1,18 +1,4 @@
-\-- ATTENTION: Please edit this code at
-<https://de.wikipedia.org/wiki/Modul:Graph> -- This way all wiki
-languages can stay in sync. Thank you\! -- -- Version History (_PLEASE
-UPDATE when modifying anything_): -- 2018-10-13 Fix browser
-color-inversion issues via \#54595d per
-[mw:Template:<Graph:PageViews>](https://zh.wikipedia.org/wiki/mw:Template:Graph:PageViews "wikilink")
--- 2018-08-26 Use user-defined order for stacked charts -- 2018-02-11
-Force usage of explicitely provided x minimum and/or maximum values,
-rotation of x labels -- 2017-08-09 Add showSymbols param to show symbols
-on line charts -- 2017-08-08 Added showSymbols param to show symbols on
-line charts -- 2016-05-16 Added encodeTitleForPath() to help all
-path-based APIs graphs like pageviews -- 2016-03-20 Allow omitted data
-for charts, labels for line charts with string (ordinal) scale at point
-location -- 2016-01-28 For maps, always use wikiraw:// protocol.
-<https://> will be disabled soon.
+\-- ATTENTION: Please edit this code at <https://de.wikipedia.org/wiki/Modul:Graph> -- This way all wiki languages can stay in sync. Thank you\! -- -- Version History (_PLEASE UPDATE when modifying anything_): -- 2018-10-13 Fix browser color-inversion issues via \#54595d per [mw:Template:<Graph:PageViews>](https://zh.wikipedia.org/wiki/mw:Template:Graph:PageViews "wikilink") -- 2018-08-26 Use user-defined order for stacked charts -- 2018-02-11 Force usage of explicitely provided x minimum and/or maximum values, rotation of x labels -- 2017-08-09 Add showSymbols param to show symbols on line charts -- 2017-08-08 Added showSymbols param to show symbols on line charts -- 2016-05-16 Added encodeTitleForPath() to help all path-based APIs graphs like pageviews -- 2016-03-20 Allow omitted data for charts, labels for line charts with string (ordinal) scale at point location -- 2016-01-28 For maps, always use wikiraw:// protocol. <https://> will be disabled soon.
 
 local p = {}
 
@@ -278,8 +264,7 @@ local function getValueScale(fieldName, min, max, type)
 
 end
 
-local function addInteractionToChartVisualisation(plotMarks, colorField,
-dataField)
+local function addInteractionToChartVisualisation(plotMarks, colorField, dataField)
 
 `   -- initial setup`
 `   if not plotMarks.properties.enter then plotMarks.properties.enter = {} end`
@@ -295,8 +280,7 @@ dataField)
 
 end
 
-local function getPieChartVisualisation(yCount, innerRadius,
-outerRadius, linewidth, radiusScale)
+local function getPieChartVisualisation(yCount, innerRadius, outerRadius, linewidth, radiusScale)
 
 `   local chartvis =`
 `   {`
@@ -329,9 +313,7 @@ outerRadius, linewidth, radiusScale)
 
 end
 
-local function getChartVisualisation(chartType, stacked, colorField,
-yCount, innerRadius, outerRadius, linewidth, alphaScale, radiusScale,
-interpolate)
+local function getChartVisualisation(chartType, stacked, colorField, yCount, innerRadius, outerRadius, linewidth, alphaScale, radiusScale, interpolate)
 
 `   if chartType == "pie" then return getPieChartVisualisation(yCount, innerRadius, outerRadius, linewidth, radiusScale) end`
 
@@ -362,16 +344,7 @@ interpolate)
 `           -- for stacked charts this lower bound is the end of the last stacking element`
 `           chartvis.properties.enter.y2 = { scale = "y", field = "layout_end" }`
 `       else`
-`           --`[`for``   ``non-stacking``   ``charts``   ``the``
- ``lower``   ``bound``   ``is``   ``y=0``   ``TODO:``
- ``"yscale.zero"``   ``is``   ``currently``   ``set``   ``to``
- ``"true"``   ``for``   ``this``   ``case,``   ``but``   ``"false"``
- ``for``   ``all``   ``other``   ``cases.``   ``For``   ``the``
- ``similar``   ``behavior``   ``"y2"``   ``should``   ``actually``
- ``be``   ``set``   ``to``   ``where``   ``y``   ``axis``   ``crosses``
- ``the``   ``x``   ``axis,``   ``if``   ``there``   ``are``   ``only``
- ``positive``   ``or``   ``negative``   ``values``   ``in``   ``the``
- ``data`](https://zh.wikipedia.org/wiki/for_non-stacking_charts_the_lower_bound_is_y=0_TODO:_"yscale.zero"_is_currently_set_to_"true"_for_this_case,_but_"false"_for_all_other_cases._For_the_similar_behavior_"y2"_should_actually_be_set_to_where_y_axis_crosses_the_x_axis,_if_there_are_only_positive_or_negative_values_in_the_data "wikilink")
+`           --`[`for``   ``non-stacking``   ``charts``   ``the``   ``lower``   ``bound``   ``is``   ``y=0``   ``TODO:``   ``"yscale.zero"``   ``is``   ``currently``   ``set``   ``to``   ``"true"``   ``for``   ``this``   ``case,``   ``but``   ``"false"``   ``for``   ``all``   ``other``   ``cases.``   ``For``   ``the``   ``similar``   ``behavior``   ``"y2"``   ``should``   ``actually``   ``be``   ``set``   ``to``   ``where``   ``y``   ``axis``   ``crosses``   ``the``   ``x``   ``axis,``   ``if``   ``there``   ``are``   ``only``   ``positive``   ``or``   ``negative``   ``values``   ``in``   ``the``   ``data`](https://zh.wikipedia.org/wiki/for_non-stacking_charts_the_lower_bound_is_y=0_TODO:_"yscale.zero"_is_currently_set_to_"true"_for_this_case,_but_"false"_for_all_other_cases._For_the_similar_behavior_"y2"_should_actually_be_set_to_where_y_axis_crosses_the_x_axis,_if_there_are_only_positive_or_negative_values_in_the_data "wikilink")
 `           chartvis.properties.enter.y2 = { scale = "y", value = 0 }`
 `       end`
 `   end`
@@ -439,8 +412,7 @@ interpolate)
 
 end
 
-local function getTextMarks(chartvis, chartType, outerRadius, scales,
-radiusScale, yType, showValues)
+local function getTextMarks(chartvis, chartType, outerRadius, scales, radiusScale, yType, showValues)
 
 `   local properties`
 `   if chartType == "rect" then`
@@ -553,8 +525,7 @@ local function getSymbolMarks(chartvis)
 
 end
 
-local function getAxes(xTitle, xAxisFormat, xAxisAngle, xType, yTitle,
-yAxisFormat, yType, chartType)
+local function getAxes(xTitle, xAxisFormat, xAxisAngle, xType, yTitle, yAxisFormat, yType, chartType)
 
 `   local xAxis, yAxis`
 `   if chartType ~= "pie" then`
@@ -851,10 +822,7 @@ function p.chartWrapper(frame)
 
 end
 
-\-- Given an HTML-encoded title as first argument, e.g. one produced
-with , -- convert it into a properly URL path-encoded string -- This
-function is critical for any graph that uses path-based APIs, e.g.
-PageViews graph function p.encodeTitleForPath(frame)
+\-- Given an HTML-encoded title as first argument, e.g. one produced with , -- convert it into a properly URL path-encoded string -- This function is critical for any graph that uses path-based APIs, e.g. PageViews graph function p.encodeTitleForPath(frame)
 
 `   return mw.uri.encode(mw.text.decode(mw.text.trim(frame.args[1]) ), 'PATH')`
 

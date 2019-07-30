@@ -1,4 +1,4 @@
-**古代符号**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了[古罗马使用的钱币和用于计量的符号](../Page/古罗马.md "wikilink")。
+**古代符号**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了[古罗马](../Page/古罗马.md "wikilink")使用的钱币和用于计量的符号。
 
 <table>
 <tbody>

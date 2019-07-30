@@ -37,23 +37,18 @@
 </tbody>
 </table>
 
-此高架車站在1917年2月1日啟用\[1\]。此站設有兩個[側式月台和三條軌道](../Page/側式月台.md "wikilink")。中央軌道不營運\[2\]\[3\]。
+此高架車站在1917年2月1日啟用\[1\]。此站設有兩個[側式月台](../Page/側式月台.md "wikilink")和三條軌道。中央軌道不營運\[2\]\[3\]。
 
 ## 參考資料
 
 ## 外部連結
 
   -
-  - [30th Avenue entrance from Google Maps Street
-    View](https://maps.google.com/?ie=UTF8&ll=40.76668,-73.921584&spn=0,0.013314&z=17&layer=c&cbll=40.767057,-73.921271&panoid=aQYGaP-5kYW_F698AAh4cg&cbp=12,166.96,,0,7.25)
+  - [30th Avenue entrance from Google Maps Street View](https://maps.google.com/?ie=UTF8&ll=40.76668,-73.921584&spn=0,0.013314&z=17&layer=c&cbll=40.767057,-73.921271&panoid=aQYGaP-5kYW_F698AAh4cg&cbp=12,166.96,,0,7.25)
 
-  - [Platforms from Google Maps Street
-    View](https://www.google.com/maps/@40.7665176,-73.9216537,3a,75y,76.32h,87.03t/data=!3m8!1e1!3m6!1s-VTyC-Nvst9E%2FV42Z-_Lp5tI%2FAAAAAAAAK8Q%2F63luoRUTzHwae6TYMWAPSim9DZIDEodHgCLIB!2e4!3e11!6s%2F%2Flh4.googleusercontent.com%2F-VTyC-Nvst9E%2FV42Z-_Lp5tI%2FAAAAAAAAK8Q%2F63luoRUTzHwae6TYMWAPSim9DZIDEodHgCLIB%2Fw203-h100-p-k-no%2F!7i9728!8i4864!4m3!8m2!3m1!1e1!6m1!1e1)
+  - [Platforms from Google Maps Street View](https://www.google.com/maps/@40.7665176,-73.9216537,3a,75y,76.32h,87.03t/data=!3m8!1e1!3m6!1s-VTyC-Nvst9E%2FV42Z-_Lp5tI%2FAAAAAAAAK8Q%2F63luoRUTzHwae6TYMWAPSim9DZIDEodHgCLIB!2e4!3e11!6s%2F%2Flh4.googleusercontent.com%2F-VTyC-Nvst9E%2FV42Z-_Lp5tI%2FAAAAAAAAK8Q%2F63luoRUTzHwae6TYMWAPSim9DZIDEodHgCLIB%2Fw203-h100-p-k-no%2F!7i9728!8i4864!4m3!8m2!3m1!1e1!6m1!1e1)
 
-[Category:BMT阿斯托利亞線車站](https://zh.wikipedia.org/wiki/Category:BMT阿斯托利亞線車站 "wikilink")
-[Category:皇后區紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:皇后區紐約地鐵車站 "wikilink")
-[Category:1917年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路車站 "wikilink")
-[Category:1917年紐約州建立](https://zh.wikipedia.org/wiki/Category:1917年紐約州建立 "wikilink")
+[Category:BMT阿斯托利亞線車站](https://zh.wikipedia.org/wiki/Category:BMT阿斯托利亞線車站 "wikilink") [Category:皇后區紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:皇后區紐約地鐵車站 "wikilink") [Category:1917年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路車站 "wikilink") [Category:1917年紐約州建立](https://zh.wikipedia.org/wiki/Category:1917年紐約州建立 "wikilink")
 
 1.
 2.

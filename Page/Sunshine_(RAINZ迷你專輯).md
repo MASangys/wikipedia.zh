@@ -1,9 +1,8 @@
-《**SUNSHINE**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[RAINZ的第一張韓語迷你專輯](../Page/RAINZ.md "wikilink")，同時亦是出道專輯。這張專輯共收錄6首曲，其中以〈JULIETTE〉為主打歌。於2017年10月12日在下午6時在各大數位音樂網站公開音源之外，亦在Youtube公佈了MV。
+《**SUNSHINE**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[RAINZ](../Page/RAINZ.md "wikilink")的第一張韓語迷你專輯，同時亦是出道專輯。這張專輯共收錄6首曲，其中以〈JULIETTE〉為主打歌。於2017年10月12日在下午6時在各大數位音樂網站公開音源之外，亦在Youtube公佈了MV。
 
 ## 曲目
 
-</ref>| |title=RAINZ《SUNSHINE》曲目表 |language=ko |publisher=RAINZ official
-Twitter |date=2017-10-06 |accessdate=2017-10-20 |total_length=20:10
+</ref>| |title=RAINZ《SUNSHINE》曲目表 |language=ko |publisher=RAINZ official Twitter |date=2017-10-06 |accessdate=2017-10-20 |total_length=20:10
 
 |lyrics_credits = yes |music_credits = yes |arranger_credits = yes
 
@@ -60,5 +59,4 @@ Denzil Remedios |length6=3:39
 
 <references />
 
-[Category:处女作专辑](https://zh.wikipedia.org/wiki/Category:处女作专辑 "wikilink")
-[Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink")
+[Category:处女作专辑](https://zh.wikipedia.org/wiki/Category:处女作专辑 "wikilink") [Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink")

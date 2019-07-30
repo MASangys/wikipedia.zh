@@ -2,8 +2,7 @@
 
 ## 概要
 
-CJ1型列车的原型为衍生自[CRH380B平台](../Page/和谐号CRH380B型电力动车组.md "wikilink")，由中国北车主导，中国北车所属长客股份公司设计生产，并于2013年6月8日在长客亮相。CJ1型动车组以CRH380BL技术平台为基础，借鉴了CRH380BL、[CRH380CL](https://zh.wikipedia.org/wiki/CRH380CL "wikilink")、[CRH380B](../Page/和谐号CRH380B型电力动车组.md "wikilink")、[CRH5型动车组的优点](../Page/和谐号CRH5型电力动车组.md "wikilink")，研制开发的自主知识产权动车组。
-CJ1型动车组可根据不同运营线路的需求，分别以时速160公里、时速200公里、时速250公里三个速度等级运行，是目前国内唯一既适合时速200～250公里之间客运专线、又适合时速160～250公里之间城际铁路运行的动车组。相对于此前国内运行的这一速度等级的动车组，该型动车组还有较强的成本优势和售后维护优势。\[1\]
+CJ1型列车的原型为衍生自[CRH380B平台](../Page/和谐号CRH380B型电力动车组.md "wikilink")，由中国北车主导，中国北车所属长客股份公司设计生产，并于2013年6月8日在长客亮相。CJ1型动车组以CRH380BL技术平台为基础，借鉴了CRH380BL、[CRH380CL](https://zh.wikipedia.org/wiki/CRH380CL "wikilink")、[CRH380B](../Page/和谐号CRH380B型电力动车组.md "wikilink")、[CRH5型动车组的优点](../Page/和谐号CRH5型电力动车组.md "wikilink")，研制开发的自主知识产权动车组。 CJ1型动车组可根据不同运营线路的需求，分别以时速160公里、时速200公里、时速250公里三个速度等级运行，是目前国内唯一既适合时速200～250公里之间客运专线、又适合时速160～250公里之间城际铁路运行的动车组。相对于此前国内运行的这一速度等级的动车组，该型动车组还有较强的成本优势和售后维护优势。\[1\]
 
 ## 配属概况
 
@@ -12,8 +11,8 @@ CJ1型动车组可根据不同运营线路的需求，分别以时速160公里�
 | **配属**                                                  | **数量** | **动车组编号** | **運用所** | **运用线路**                                                                                                                                                                                                 | **备注**              |
 | ------------------------------------------------------- | ------ | --------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
 | <font color="white">**CJ1**</font>                      |        |           |         |                                                                                                                                                                                                          |                     |
-| [沈阳铁路局](https://zh.wikipedia.org/wiki/沈阳铁路局 "wikilink") | 1      | 0502      | 瀋陽南     | [哈大客運專線](https://zh.wikipedia.org/wiki/哈大客運專線 "wikilink")、[沈丹客运专线及](../Page/沈丹客运专线.md "wikilink")[丹大快速铁路](https://zh.wikipedia.org/wiki/丹大快速铁路 "wikilink")                                               | 已完成相应实验任务，曾配屬皇姑屯動車所 |
-| [沈阳铁路局](https://zh.wikipedia.org/wiki/沈阳铁路局 "wikilink") | 1      | 0302      | 瀋陽南     | 曾於[大西客专使用](../Page/大西客运专线.md "wikilink")，目前於[哈大客運專線](https://zh.wikipedia.org/wiki/哈大客運專線 "wikilink")、[沈丹客运专线及](../Page/沈丹客运专线.md "wikilink")[丹大快速铁路使用](https://zh.wikipedia.org/wiki/丹大快速铁路 "wikilink") | 已完成相应实验任务，曾配屬太原南動車所 |
+| [沈阳铁路局](https://zh.wikipedia.org/wiki/沈阳铁路局 "wikilink") | 1      | 0502      | 瀋陽南     | [哈大客運專線](https://zh.wikipedia.org/wiki/哈大客運專線 "wikilink")、[沈丹客运专线](../Page/沈丹客运专线.md "wikilink")及[丹大快速铁路](https://zh.wikipedia.org/wiki/丹大快速铁路 "wikilink")                                               | 已完成相应实验任务，曾配屬皇姑屯動車所 |
+| [沈阳铁路局](https://zh.wikipedia.org/wiki/沈阳铁路局 "wikilink") | 1      | 0302      | 瀋陽南     | 曾於[大西客专使用](../Page/大西客运专线.md "wikilink")，目前於[哈大客運專線](https://zh.wikipedia.org/wiki/哈大客運專線 "wikilink")、[沈丹客运专线](../Page/沈丹客运专线.md "wikilink")及[丹大快速铁路使用](https://zh.wikipedia.org/wiki/丹大快速铁路 "wikilink") | 已完成相应实验任务，曾配屬太原南動車所 |
 
 ## 列車編組
 
@@ -119,10 +118,7 @@ ZE xxxx00</p></td>
 
 </div>
 
-[Category:和谐号电力动车组](https://zh.wikipedia.org/wiki/Category:和谐号电力动车组 "wikilink")
-[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
-[Category:中国铁路沈阳局集团有限公司](https://zh.wikipedia.org/wiki/Category:中国铁路沈阳局集团有限公司 "wikilink")
-[Category:25千伏50赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力动车组 "wikilink")
+[Category:和谐号电力动车组](https://zh.wikipedia.org/wiki/Category:和谐号电力动车组 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:中国铁路沈阳局集团有限公司](https://zh.wikipedia.org/wiki/Category:中国铁路沈阳局集团有限公司 "wikilink") [Category:25千伏50赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力动车组 "wikilink")
 
 1.
 2.  [中國動車組-CJ1型動車組](https://www.china-emu.cn/EMUs/Series/?detail-88-31-11.html)

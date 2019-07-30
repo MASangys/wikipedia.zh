@@ -1,13 +1,8 @@
-《**I am
-WHO**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray
-Kids的第二張韓語迷你專輯](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，唱片公司為[iRiver](https://zh.wikipedia.org/wiki/iRiver "wikilink")，於2018年8月6日發行。主打歌為〈My
-Pace〉，由成員方燦、彰彬、Han參與詞曲創作。
+《**I am WHO**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray Kids的第二張韓語迷你專輯](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為[iRiver](https://zh.wikipedia.org/wiki/iRiver "wikilink")，於2018年8月6日發行。主打歌為〈My Pace〉，由成員方燦、彰彬、Han參與詞曲創作。
 
 ## 背景
 
-2018年7月12日[Stray
-Kids在官方社群平台上釋出第二場Showcase的預告海報](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，宣布將於8月5日在[慶熙大學和平殿堂舉行售票Showcase](../Page/慶熙大學.md "wikilink")《Stray
-Kids UNVEIL \[Op. 02 : I am WHO\]》\[1\]\[2\]，同時也意味將帶著新專輯回歸。
+2018年7月12日[Stray Kids在官方社群平台上釋出第二場Showcase的預告海報](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，宣布將於8月5日在[慶熙大學](../Page/慶熙大學.md "wikilink")和平殿堂舉行售票Showcase《Stray Kids UNVEIL \[Op. 02 : I am WHO\]》\[1\]\[2\]，同時也意味將帶著新專輯回歸。
 
 7月16日釋出專輯預覽圖並開放預購。
 
@@ -43,12 +38,10 @@ Kids UNVEIL \[Op. 02 : I am WHO\]》\[1\]\[2\]，同時也意味將帶著新專�
 
 此次專輯《I am WHO》為時隔5個月的回歸，同時也是上一張專輯《I am NOT》的延續。
 專輯含意為「那麼我到底是誰？」、「怎麼樣才能找到自我？」，風格較上一張專輯柔和。\[3\]
-主打歌〈My
-Pace〉是一首充滿抱負並蘊含著「走我自己的路」的歌曲。意思如同歌名，意味「照著自己的步伐前進，不要在意他人的眼光、與他人比較，相信自己的步伐，看著前方前進」\[4\]。歌詞強調了「每個人都有自己的節奏，按照這個節奏前進也沒關係，相信自己吧」的含義，藉此來安慰與他人比較時所產生的焦慮與不安。帥氣的[Hip-hop和強烈的](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")[搖滾兩種曲風融合在一起](https://zh.wikipedia.org/wiki/搖滾 "wikilink")，散發出Powerful的能量\[5\]。
+主打歌〈My Pace〉是一首充滿抱負並蘊含著「走我自己的路」的歌曲。意思如同歌名，意味「照著自己的步伐前進，不要在意他人的眼光、與他人比較，相信自己的步伐，看著前方前進」\[4\]。歌詞強調了「每個人都有自己的節奏，按照這個節奏前進也沒關係，相信自己吧」的含義，藉此來安慰與他人比較時所產生的焦慮與不安。帥氣的[Hip-hop和強烈的](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")[搖滾兩種曲風融合在一起](https://zh.wikipedia.org/wiki/搖滾 "wikilink")，散發出Powerful的能量\[5\]。
 \===發行版本=== ※明信片組、貼紙及海報為預購特典。
 
-  - 封面共有2款（I am版＆WHO版），內含寫真書一本（共9款）、CD一張（共2款）、[QR
-    Code寫真卡三張](../Page/QR碼.md "wikilink")（自畫像版9款、自拍版27款、花絮版9款，共45款）、歌詞海報（共9款）、明信片組一組（共2款）、貼紙一張、海報一張（共3款）。
+  - 封面共有2款（I am版＆WHO版），內含寫真書一本（共9款）、CD一張（共2款）、[QR Code寫真卡三張](../Page/QR碼.md "wikilink")（自畫像版9款、自拍版27款、花絮版9款，共45款）、歌詞海報（共9款）、明信片組一組（共2款）、貼紙一張、海報一張（共3款）。
 
 ## 曲目
 
@@ -98,13 +91,13 @@ Pace〉是一首充滿抱負並蘊含著「走我自己的路」的歌曲。意�
 <td><p>專輯週榜</p></td>
 <td><p>2018年8月5日－11日</p></td>
 <td><p>#3</p></td>
-<td><p>91,648+[6]</p></td>
-<td><p>[7]</p></td>
+<td><p>107,822+</p></td>
+<td><p>[6]</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年8月12日－18日</p></td>
 <td><p>#6</p></td>
-<td><p>[8]</p></td>
+<td><p>[7]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -113,7 +106,7 @@ Pace〉是一首充滿抱負並蘊含著「走我自己的路」的歌曲。意�
 <tr class="odd">
 <td><p>2018年8月19日－25日</p></td>
 <td><p>#7</p></td>
-<td><p>[9]</p></td>
+<td><p>[8]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -121,7 +114,7 @@ Pace〉是一首充滿抱負並蘊含著「走我自己的路」的歌曲。意�
 </tr>
 <tr class="even">
 <td><p>2018年8月26日－9月1日</p></td>
-<td><p>[10]</p></td>
+<td><p>[9]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -132,7 +125,7 @@ Pace〉是一首充滿抱負並蘊含著「走我自己的路」的歌曲。意�
 <td><p>專輯月榜</p></td>
 <td><p>2018年8月</p></td>
 <td><p>#4</p></td>
-<td><p>[11]</p></td>
+<td><p>[10]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -141,12 +134,21 @@ Pace〉是一首充滿抱負並蘊含著「走我自己的路」的歌曲。意�
 <td><p>專輯年榜</p></td>
 <td><p>2018年</p></td>
 <td><p>#52</p></td>
-<td><p>[12]</p></td>
+<td><p>[11]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>專輯上半年榜</p></td>
+<td><p>2019年1月－6月</p></td>
+<td><p>#102</p></td>
+<td><p>[12]</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>台灣</p></td>
 <td><p>5大金榜</p></td>
 <td><p>日韓榜</p></td>
@@ -155,7 +157,7 @@ Pace〉是一首充滿抱負並蘊含著「走我自己的路」的歌曲。意�
 <td><p>6.02%</p></td>
 <td><p>[13]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年8月10日－16日</p></td>
 <td><p>2.53%</p></td>
 <td></td>
@@ -164,7 +166,7 @@ Pace〉是一首充滿抱負並蘊含著「走我自己的路」的歌曲。意�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>美國</p></td>
 <td><p><a href="../Page/告示牌_(雜誌).md" title="wikilink">告示牌</a></p></td>
 <td><p>世界專輯榜</p></td>
@@ -173,7 +175,7 @@ Pace〉是一首充滿抱負並蘊含著「走我自己的路」的歌曲。意�
 <td></td>
 <td><p>[14]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>日本</p></td>
 <td><p><a href="../Page/Oricon公信榜.md" title="wikilink">Oricon公信榜</a></p></td>
 <td><p>專輯週榜</p></td>
@@ -182,7 +184,7 @@ Pace〉是一首充滿抱負並蘊含著「走我自己的路」的歌曲。意�
 <td><p>1,474+</p></td>
 <td><p>[15]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -246,16 +248,12 @@ Pace〉是一首充滿抱負並蘊含著「走我自己的路」的歌曲。意�
 
   - [Stray Kids官方網站](http://straykids.jype.com/)
 
-  - [Stray Kids 【INTRO: I am WHO
-    EP.01】](https://www.vlive.tv/video/81587)
+  - [Stray Kids 【INTRO: I am WHO EP.01】](https://www.vlive.tv/video/81587)
 
-  - [Stray Kids 【INTRO: I am WHO
-    EP.02】](https://www.vlive.tv/video/82536)
+  - [Stray Kids 【INTRO: I am WHO EP.02】](https://www.vlive.tv/video/82536)
 
   -
-[Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink")
-[Category:Stray_Kids音樂專輯](https://zh.wikipedia.org/wiki/Category:Stray_Kids音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink") [Category:Stray_Kids音樂專輯](https://zh.wikipedia.org/wiki/Category:Stray_Kids音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

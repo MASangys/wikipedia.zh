@@ -4,24 +4,20 @@
 
   -
     聲：[藤原夏海](../Page/藤原夏海.md "wikilink")（日本）；[譚禹晉](https://zh.wikipedia.org/wiki/譚禹晉 "wikilink")（香港）；[楊詩穎](../Page/楊詩穎.md "wikilink")（台灣）
-    該作的主人公。在小學4年級的時候，加入了當地的棒球隊“三船海豚隊”，但是因為沒才能加上背負著二世這個稱號的巨大壓力，曾經一度放棄了棒球。在迎來6年級的春天裡，受到了轉學生
-    **佐藤光** 的邀請，再次加入了棒球隊。雖然沒有繼承父親那樣的身體能力，但是從父母那裡繼承了對棒球的熱情和冷靜的判斷能力。
+    該作的主人公。在小學4年級的時候，加入當地的棒球隊“三船海豚隊”，但是因為沒才能加上背負著二世這個稱號的巨大壓力，曾經一度放棄棒球。在迎來6年級的春天裡，受到轉學生 **佐藤光** 的邀請，再次加入棒球隊。雖然沒有繼承父親那樣的身體能力，但是從父母那裡繼承對棒球的熱情和冷靜的判斷能力。
     國中二年級時成為風林中學棒球社隊長。
 
 <!-- end list -->
 
   -
     聲：[西山宏太朗](../Page/西山宏太朗.md "wikilink")（日本）；[黎海琪](https://zh.wikipedia.org/wiki/黎海琪 "wikilink")（香港）；[喬資淯](https://zh.wikipedia.org/wiki/喬資淯 "wikilink")、[張乃文](../Page/張乃文_\(配音員\).md "wikilink")【童年】（台灣）
-    因為父親·**佐藤壽也** 直到去年為止都在美國大聯盟活躍，所以直到5年級為止都在美國生活著，6年級的春天轉進了
-    **茂野大吾**、**佐倉睦子** 所在的三船小學。有著出色的身體能力與運動天賦，希望能和 **茂野大吾**
-    成為搭檔。
+    因為父親佐藤壽也直到去年為止都在美國大聯盟活躍，所以直到5年級為止都在美國生活著，6年級的春天轉進**茂野大吾**、**佐倉睦子**所在的三船小學。有著出色的身體能力與運動天賦，希望能和茂野大吾成為搭檔。
 
 <!-- end list -->
 
   -
     聲：[花澤香菜](../Page/花澤香菜.md "wikilink")（日本）；[廖欣怡](../Page/廖欣怡.md "wikilink")（香港）；[陳貞伃](https://zh.wikipedia.org/wiki/陳貞伃 "wikilink")（台灣）
-    該作的女主角。和 **茂野大吾**、**佐藤光** 一樣都是三船小學6年級學生，初戀對象是 **茂野大吾**
-    。因為哥哥曾經是海豚隊的隊員，所以非常喜歡棒球，但是父母不同意她打棒球，後面受大吾影響，終於說服父母同意。加入三船少棒隊剛開始的目的是為了在同個場上幫大吾加油，並且為了不跟原本隊員搶位置而保留實力，後來意識到自己這樣是不對的，便開始全心全意打棒球。
+    該作的女主角。和 **茂野大吾**、**佐藤光** 一樣都是三船小學6年級學生，初戀對象是茂野大吾。因為哥哥曾經是海豚隊的隊員，所以非常喜歡棒球，但是父母不同意她打棒球，後面受大吾影響，終於說服父母同意。加入三船少棒隊剛開始的目的是為了在同個場上幫大吾加油，並且為了不跟原本隊員搶位置而保留實力，後來意識到自己這樣是不對的，便開始全心全意打棒球。
     國中二年級擔任風林中學棒球社投手，並且為副隊長。
 
 ## 主角和選手的親人
@@ -138,7 +134,4 @@
 
 </noinclude>
 
-[Category:MAJOR](https://zh.wikipedia.org/wiki/Category:MAJOR "wikilink")
-[Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
-[Category:MAJOR](https://zh.wikipedia.org/wiki/Category:MAJOR "wikilink")
-[Category:日本動漫導航模板](https://zh.wikipedia.org/wiki/Category:日本動漫導航模板 "wikilink")
+[Category:MAJOR](https://zh.wikipedia.org/wiki/Category:MAJOR "wikilink") [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink") [Category:MAJOR](https://zh.wikipedia.org/wiki/Category:MAJOR "wikilink") [Category:日本動漫導航模板](https://zh.wikipedia.org/wiki/Category:日本動漫導航模板 "wikilink")

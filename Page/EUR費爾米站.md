@@ -1,4 +1,4 @@
-**EUR費爾米站**（）是[羅馬地鐵的一個車站](../Page/羅馬地鐵.md "wikilink")。EUR費爾米站開通於1955年，位於[EUR區](../Page/EUR區.md "wikilink")，是[羅馬地鐵B線的車站](../Page/羅馬地鐵B線.md "wikilink")。車站附近有為1960年奧運會而修建的人工湖。
+**EUR費爾米站**（）是[羅馬地鐵](../Page/羅馬地鐵.md "wikilink")的一個車站。EUR費爾米站開通於1955年，位於[EUR區](../Page/EUR區.md "wikilink")，是[羅馬地鐵B線](../Page/羅馬地鐵B線.md "wikilink")的車站。車站附近有為1960年奧運會而修建的人工湖。
 
 ## 外部連結
 

@@ -1,11 +1,10 @@
-**AlphaGo世紀對決**是一部[圍棋](https://zh.wikipedia.org/wiki/圍棋 "wikilink")[紀錄片](../Page/紀錄片.md "wikilink")，記錄[AlphaGo從出道至](../Page/AlphaGo.md "wikilink")2016年[AlphaGo李世乭五番棋的過程](../Page/AlphaGo李世乭五番棋.md "wikilink")\[1\]。
+**AlphaGo世紀對決**是一部[圍棋](https://zh.wikipedia.org/wiki/圍棋 "wikilink")[紀錄片](../Page/紀錄片.md "wikilink")，記錄[AlphaGo](../Page/AlphaGo.md "wikilink")從出道至2016年[AlphaGo李世乭五番棋](../Page/AlphaGo李世乭五番棋.md "wikilink")的過程\[1\]。
 
 ## 上映
 
-從2017年4月開始在各影展上播放\[2\]。台灣在[高雄電影節上映](../Page/高雄電影節.md "wikilink")（2017年10月22日、10月25日\[3\]）。
+從2017年4月開始在各影展上播放\[2\]。台灣在[高雄電影節](../Page/高雄電影節.md "wikilink")上映（2017年10月22日、10月25日\[3\]）。
 
-網路平台部份，2017年在[Google
-Play](../Page/Google_Play.md "wikilink")\[4\]、[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")\[5\]以及[Amazon](https://zh.wikipedia.org/wiki/Amazon "wikilink")\[6\]上映，2018年在[Netflix上映](../Page/Netflix.md "wikilink")\[7\]\[8\]。
+網路平台部份，2017年在[Google Play](../Page/Google_Play.md "wikilink")\[4\]、[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")\[5\]以及[Amazon](https://zh.wikipedia.org/wiki/Amazon "wikilink")\[6\]上映，2018年在[Netflix](../Page/Netflix.md "wikilink")上映\[7\]\[8\]。
 
 ## 獲獎情況
 
@@ -19,8 +18,7 @@ Play](../Page/Google_Play.md "wikilink")\[4\]、[iTunes](https://zh.wikipedia.or
 
 ### 提名
 
-  - [评论家选择电影奖](../Page/评论家选择电影奖.md "wikilink") -  - Best Sports
-    Documentary（進行中）\[12\]
+  - [评论家选择电影奖](../Page/评论家选择电影奖.md "wikilink") -  - Best Sports Documentary（進行中）\[12\]
 
   - \- Student Choice Award
 
@@ -40,8 +38,7 @@ Play](../Page/Google_Play.md "wikilink")\[4\]、[iTunes](https://zh.wikipedia.or
   -
 
   -
-[Category:纪录片](https://zh.wikipedia.org/wiki/Category:纪录片 "wikilink")
-[Category:圍棋題材作品](https://zh.wikipedia.org/wiki/Category:圍棋題材作品 "wikilink")
+[Category:纪录片](https://zh.wikipedia.org/wiki/Category:纪录片 "wikilink") [Category:圍棋題材作品](https://zh.wikipedia.org/wiki/Category:圍棋題材作品 "wikilink")
 
 1.
 2.

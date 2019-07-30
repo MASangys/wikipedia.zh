@@ -1,4 +1,4 @@
-**古波斯楔形文字**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了[阿契美尼德王朝时期在](../Page/阿契美尼德王朝.md "wikilink")[波斯使用的](../Page/波斯.md "wikilink")[楔形文字](../Page/楔形文字.md "wikilink")。
+**古波斯楔形文字**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了[阿契美尼德王朝](../Page/阿契美尼德王朝.md "wikilink")时期在[波斯](../Page/波斯.md "wikilink")使用的[楔形文字](../Page/楔形文字.md "wikilink")。
 
 ## 历史
 

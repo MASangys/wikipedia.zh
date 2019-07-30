@@ -2,7 +2,7 @@
 
 ## 简介
 
-TV2于1969年11月17日开播，2006年4月3日起24小时播出。频道以[马来语](../Page/马来语.md "wikilink")、[华语](https://zh.wikipedia.org/wiki/马来西亚华语 "wikilink")、[英语和](../Page/英语.md "wikilink")[淡米尔语播出](../Page/泰米尔语.md "wikilink")，节目内容包括新闻、儿童节目、娱乐、剧集和电影。
+TV2于1969年11月17日开播，2006年4月3日起24小时播出。频道以[马来语](../Page/马来语.md "wikilink")、[华语](https://zh.wikipedia.org/wiki/马来西亚华语 "wikilink")、[英语](../Page/英语.md "wikilink")和[淡米尔语播出](../Page/泰米尔语.md "wikilink")，节目内容包括新闻、儿童节目、娱乐、剧集和电影。
 
 2019年4月1日起，TV2连同TV1和TV Okey三个数码频道转换为1080i 16:9制式播出节目。
 
@@ -36,5 +36,4 @@ TV2于1969年11月17日开播，2006年4月3日起24小时播出。频道以[马
 
   - [官方网站](http://tv2.rtm.gov.my/)
 
-[Category:马来西亚电视台](https://zh.wikipedia.org/wiki/Category:马来西亚电视台 "wikilink")
-[Category:1969年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:1969年成立的电视台或电视频道 "wikilink")
+[Category:马来西亚电视台](https://zh.wikipedia.org/wiki/Category:马来西亚电视台 "wikilink") [Category:1969年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:1969年成立的电视台或电视频道 "wikilink")

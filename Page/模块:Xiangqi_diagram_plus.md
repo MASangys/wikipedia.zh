@@ -1,5 +1,4 @@
-\-- 模块:Xiangqi diagram的扩展版，支持更多功能 -- 目前还在测试中…… local p = {} function
-p.board(frame)
+\-- 模块:Xiangqi diagram的扩展版，支持更多功能 -- 目前还在测试中…… local p = {} function p.board(frame)
 
 `   local args = require('Module:Arguments').getArgs(frame)`
 `   ----设置对齐方式`
@@ -105,8 +104,7 @@ p.board(frame)
 
 <div style="position:absolute;top:-' .. top .. 'px;left:-' .. left .. 'px;width:' .. width .. 'px;">
 
-[' .. bwidth ..
-'px](https://zh.wikipedia.org/wiki/File:Xiangqi_board.svg "fig:' .. bwidth .. 'px")
+[' .. bwidth .. 'px](https://zh.wikipedia.org/wiki/File:Xiangqi_board.svg "fig:' .. bwidth .. 'px")
 
 </div>
 
@@ -234,8 +232,7 @@ p.board(frame)
 
 '
 
-`               qp = qp .. '`[`'``   ``..``   ``sizeX``   ``..``
- ``'px`](https://zh.wikipedia.org/wiki/File:red_x.svg "fig:' .. sizeX .. 'px")`'`
+`               qp = qp .. '`[`'``   ``..``   ``sizeX``   ``..``   ``'px`](https://zh.wikipedia.org/wiki/File:red_x.svg "fig:' .. sizeX .. 'px")`'`
 `               qp = qp .. '`
 
 </div>
@@ -252,8 +249,7 @@ p.board(frame)
 
 '
 
-`               qp = qp .. '`[`'``   ``..``   ``size``   ``..``
- ``'px`](https://zh.wikipedia.org/wiki/File:Xiangqi_'_.._qz_.._'1.svg "fig:' .. size .. 'px")`'`
+`               qp = qp .. '`[`'``   ``..``   ``size``   ``..``   ``'px`](https://zh.wikipedia.org/wiki/File:Xiangqi_'_.._qz_.._'1.svg "fig:' .. size .. 'px")`'`
 `               qp = qp .. '`
 
 </div>

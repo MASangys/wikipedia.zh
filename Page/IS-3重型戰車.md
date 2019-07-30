@@ -1,9 +1,8 @@
-**IS-3重型戰車**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：**ИС-3**；開發代號**703工程**） 是一款[蘇聯於](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[第二次世界大戰期間開發出的](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[重型坦克](https://zh.wikipedia.org/wiki/重型坦克 "wikilink")，首次出現於1945年在[柏林舉行的勝利閱兵](../Page/柏林.md "wikilink")，並隨即以其優異的裝甲設計及性能震驚了在場觀禮的西方官員；西方國家也立刻著手發展更強大的戰車以對抗IS-3。然而由於該戰車在戰爭結束前幾天才開始量產，因而未能趕上任何戰鬥。也因此，IS-3通常被認為是[蘇聯的第一款戰後戰車](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")。「IS」指的是[蘇聯領導人](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[約瑟夫·史達林的姓名縮寫](https://zh.wikipedia.org/wiki/約瑟夫·史達林 "wikilink")，而「3」指的是[IS系列戰車第三型](https://zh.wikipedia.org/wiki/IS系列戰車 "wikilink")；IS也是1943年至1959年間[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[重型戰車的正式名稱](https://zh.wikipedia.org/wiki/重型戰車 "wikilink")。IS-3搭載了一門與[IS-2重型坦克相同的](../Page/IS-2重型坦克.md "wikilink")122毫米主炮，並擁有十分獨特的裝甲佈局；其車體正面裝甲的特殊造型後來被稱為「楔形裝甲」。
+**IS-3重型戰車**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：**ИС-3**；開發代號**703工程**） 是一款[蘇聯於](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[第二次世界大戰期間開發出的](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[重型坦克](https://zh.wikipedia.org/wiki/重型坦克 "wikilink")，首次出現於1945年在[柏林](../Page/柏林.md "wikilink")舉行的勝利閱兵，並隨即以其優異的裝甲設計及性能震驚了在場觀禮的西方官員；西方國家也立刻著手發展更強大的戰車以對抗IS-3。然而由於該戰車在戰爭結束前幾天才開始量產，因而未能趕上任何戰鬥。也因此，IS-3通常被認為是[蘇聯的第一款戰後戰車](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")。「IS」指的是[蘇聯領導人](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[約瑟夫·史達林的姓名縮寫](https://zh.wikipedia.org/wiki/約瑟夫·史達林 "wikilink")，而「3」指的是[IS系列戰車第三型](https://zh.wikipedia.org/wiki/IS系列戰車 "wikilink")；IS也是1943年至1959年間[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[重型戰車的正式名稱](https://zh.wikipedia.org/wiki/重型戰車 "wikilink")。IS-3搭載了一門與[IS-2重型坦克](../Page/IS-2重型坦克.md "wikilink")相同的122毫米主炮，並擁有十分獨特的裝甲佈局；其車體正面裝甲的特殊造型後來被稱為「楔形裝甲」。
 
 ## 名稱
 
-IS-3重戰車的名稱取自於前[蘇聯領導人](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[約瑟夫·史達林的姓名縮寫](https://zh.wikipedia.org/wiki/約瑟夫·史達林 "wikilink")。然而，在[前蘇聯的規劃中](https://zh.wikipedia.org/wiki/前蘇聯 "wikilink")，有兩款重戰車同時被命名為IS-3，分別是代號**244工程**的IS-3以及代號**703工程**的IS-3；前者事實上僅是[IS-2重型坦克裝備D](../Page/IS-2重型坦克.md "wikilink")-5T-85-BM
-85毫米戰車炮的版本，而後者則是[IS-2重型坦克的正規後繼型號](../Page/IS-2重型坦克.md "wikilink")，兩者不可混淆。
+IS-3重戰車的名稱取自於前[蘇聯領導人](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[約瑟夫·史達林的姓名縮寫](https://zh.wikipedia.org/wiki/約瑟夫·史達林 "wikilink")。然而，在[前蘇聯的規劃中](https://zh.wikipedia.org/wiki/前蘇聯 "wikilink")，有兩款重戰車同時被命名為IS-3，分別是代號**244工程**的IS-3以及代號**703工程**的IS-3；前者事實上僅是[IS-2重型坦克](../Page/IS-2重型坦克.md "wikilink")裝備D-5T-85-BM 85毫米戰車炮的版本，而後者則是[IS-2重型坦克](../Page/IS-2重型坦克.md "wikilink")的正規後繼型號，兩者不可混淆。
 
 ## 發展歷史與量產
 
@@ -29,10 +28,7 @@ IS-3的佈局相當傳統：引擎位於車體後方，駕駛乘坐於前方，�
 
 ### 裝甲
 
-IS-3的裝甲防護力在1945年時可說是最為出色的。它的裝甲主要是設計來抵擋如德國88毫米反戰車炮、88毫米KwK
-43戰車炮以及75毫米[KwK
-42戰車炮等強力火炮的射擊](../Page/75公釐KwK_42砲.md "wikilink")。裝甲對於[PaK
-40反戰車炮也有相當優異的防護力](https://zh.wikipedia.org/wiki/Pak_40反坦克炮 "wikilink")。
+IS-3的裝甲防護力在1945年時可說是最為出色的。它的裝甲主要是設計來抵擋如德國88毫米反戰車炮、88毫米KwK 43戰車炮以及75毫米[KwK 42戰車炮等強力火炮的射擊](../Page/75公釐KwK_42砲.md "wikilink")。裝甲對於[PaK 40反戰車炮也有相當優異的防護力](https://zh.wikipedia.org/wiki/Pak_40反坦克炮 "wikilink")。
 
 IS-3使用焊接的[軋壓均質裝甲](../Page/軋壓均質裝甲.md "wikilink")。正面裝甲厚110毫米，左右兩側均傾斜56度；首下裝甲傾斜63度，而駕駛艙頂蓋處傾斜73度。車體兩側的裝甲皆厚90毫米；上半部傾斜60度，後方還包含了一層間隙裝甲，下半部則垂直無傾斜。後方裝甲則為60毫米厚，傾斜41度。車體頂部是以數塊厚20毫米的裝甲板接合而成。
 
@@ -69,13 +65,11 @@ IS-3裝有一挺7.62毫米同軸機槍，備彈2000發。其中的756發分存�
 
 駕駛於非戰鬥時可打開艙門，戰鬥時則可使用MK-4潛望鏡。這個潛望鏡可以輕易被移除，而打開艙門前亦應先將之移除。升級版本的IS-3M還裝備了被動式TVN-1夜視鏡。此外，IS-3M還移除了所有可能遮蔽駕駛視野的物件。\[6\]車長、炮手以及裝填手也都擁有MK-4潛望鏡。車長的MK-4潛望鏡在IS-3M被更先進的TPK-1望遠鏡取代，可提供最大5倍的放大倍率。\[7\]
 
-IS-3上裝有10RK-26簡易型內聯電報／通話通訊裝置，
-其天線位於炮塔左側，長約1至4公尺不等。10RK-26於靜止時的通訊範圍為35～40公里，移動時則為20～25公里。車內裝有TPU-4-bis-F內部通話裝置，以供車內乘員相互溝通；該裝置與無線電是相連的。\[8\]
+IS-3上裝有10RK-26簡易型內聯電報／通話通訊裝置， 其天線位於炮塔左側，長約1至4公尺不等。10RK-26於靜止時的通訊範圍為35～40公里，移動時則為20～25公里。車內裝有TPU-4-bis-F內部通話裝置，以供車內乘員相互溝通；該裝置與無線電是相連的。\[8\]
 
 ### 動力組件
 
-IS-3使用一具V-11
-12汽缸四衝程水冷式柴油引擎。燃料來源為安裝於引擎四周的四個燃料槽，共有燃料425公升；車殼上亦有四個附加燃料罐，總共可提供90公升的額外燃料。引擎上還裝有加熱系統，以於天氣寒冷時協助啟動引擎。
+IS-3使用一具V-11 12汽缸四衝程水冷式柴油引擎。燃料來源為安裝於引擎四周的四個燃料槽，共有燃料425公升；車殼上亦有四個附加燃料罐，總共可提供90公升的額外燃料。引擎上還裝有加熱系統，以於天氣寒冷時協助啟動引擎。
 
 IS-3的傳動組件包含：
 
@@ -119,23 +113,19 @@ IS-3被[蘇聯用於鎮壓](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[195
 ### 其他國家
 
 [波蘭於](https://zh.wikipedia.org/wiki/波蘭 "wikilink")1946年獲得一輛IS-3用以研究及訓練裝甲人員；除此之外，[蘇聯並未將IS](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")-3外銷給[華沙公約組織國家](https://zh.wikipedia.org/wiki/华沙条约组织 "wikilink")。此後，蘇聯便不斷在閱兵儀式中展示IS-3。1950年時，捷克斯洛伐克亦獲得一輛IS-3。\[18\]
-埃及購買了大量的IS-3，於1950年代及1962年至1967年間共計購得110輛IS-3及IS-3M。\[19\]埃及陸軍將部份的IS-3投入1967年的[六日戰爭中](https://zh.wikipedia.org/wiki/六日戰爭 "wikilink")。然而，[埃及並未因使用了IS](../Page/埃及.md "wikilink")-3而獲得任何顯著的進展；在以色列軍隊的[百夫長坦克及](../Page/百夫长坦克.md "wikilink")[M48巴頓坦克的攻擊下](../Page/M48巴頓坦克.md "wikilink")，[埃及戰敗](../Page/埃及.md "wikilink")。但IS-3依然成功地擊毀了數輛以軍坦克。在埃及軍隊撤退的同時，他們棄置了許多坦克，其中包括72輛IS-3，而這些IS-3中有半數是完好如初的狀態。\[20\]1973年[贖罪日戰爭爆發時](../Page/贖罪日戰爭.md "wikilink")，埃及仍然保留了一個完全裝備IS-3的裝甲團，但是否有投入戰鬥則不得而知。\[21\]
-部分於1967年遭[埃及棄置的IS](../Page/埃及.md "wikilink")-3後來被[以色列國防軍編入正式的裝甲部隊內使用](../Page/以色列國防軍.md "wikilink")；這些坦克一直服役到1970年代早期。此時期的部分IS-3裝備了[T-54/55主力戰車的B](https://zh.wikipedia.org/wiki/T-54/55系列主战坦克 "wikilink")-54柴油引擎。\[22\]以軍後來將IS-3於1969年投入[以埃消耗戰爭中](https://zh.wikipedia.org/wiki/以埃消耗戰爭 "wikilink")，其中有數輛彈藥耗盡的以軍IS-3又再次被[埃及俘獲](../Page/埃及.md "wikilink")。\[23\]
+埃及購買了大量的IS-3，於1950年代及1962年至1967年間共計購得110輛IS-3及IS-3M。\[19\]埃及陸軍將部份的IS-3投入1967年的[六日戰爭中](https://zh.wikipedia.org/wiki/六日戰爭 "wikilink")。然而，[埃及](../Page/埃及.md "wikilink")並未因使用了IS-3而獲得任何顯著的進展；在以色列軍隊的[百夫長坦克及](../Page/百夫长坦克.md "wikilink")[M48巴頓坦克](../Page/M48巴頓坦克.md "wikilink")的攻擊下，[埃及](../Page/埃及.md "wikilink")戰敗。但IS-3依然成功地擊毀了數輛以軍坦克。在埃及軍隊撤退的同時，他們棄置了許多坦克，其中包括72輛IS-3，而這些IS-3中有半數是完好如初的狀態。\[20\]1973年[贖罪日戰爭](../Page/贖罪日戰爭.md "wikilink")爆發時，埃及仍然保留了一個完全裝備IS-3的裝甲團，但是否有投入戰鬥則不得而知。\[21\] 部分於1967年遭[埃及](../Page/埃及.md "wikilink")棄置的IS-3後來被[以色列國防軍](../Page/以色列國防軍.md "wikilink")編入正式的裝甲部隊內使用；這些坦克一直服役到1970年代早期。此時期的部分IS-3裝備了[T-54/55主力戰車的B](https://zh.wikipedia.org/wiki/T-54/55系列主战坦克 "wikilink")-54柴油引擎。\[22\]以軍後來將IS-3於1969年投入[以埃消耗戰爭中](https://zh.wikipedia.org/wiki/以埃消耗戰爭 "wikilink")，其中有數輛彈藥耗盡的以軍IS-3又再次被[埃及](../Page/埃及.md "wikilink")俘獲。\[23\]
 
 [蘇聯亦於](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")1960年代移轉了為數眾多的IS-3予[北韓](https://zh.wikipedia.org/wiki/北韓 "wikilink")，並裝備[朝鮮人民軍內的至少兩個團](https://zh.wikipedia.org/wiki/朝鮮人民軍 "wikilink")。\[24\]
 
 ### 21世紀
 
-[IS-3._Kiev.JPG](https://zh.wikipedia.org/wiki/File:IS-3._Kiev.JPG "fig:IS-3._Kiev.JPG")[康斯坦丁諾夫卡展示的IS](https://zh.wikipedia.org/wiki/康斯坦丁諾夫卡 "wikilink")-3。這輛戰車後來由於戰爭因素而被移往[基輔封存](../Page/基輔.md "wikilink")。\]\]
-在[2014年烏克蘭東部武裝衝突期間](../Page/顿巴斯战争.md "wikilink")，一輛原於[康斯坦丁諾夫卡展示的IS](https://zh.wikipedia.org/wiki/康斯坦丁諾夫卡 "wikilink")-3坦克的水泥基座被破壞，並被民兵部隊盜取。\[25\]\[26\]\[27\]根據某些消息來源，這輛遭竊的IS-3已被升級。\[28\]\[29\]7月，烏克蘭陸軍重奪[康斯坦丁諾夫卡的控制權](https://zh.wikipedia.org/wiki/康斯坦丁諾夫卡 "wikilink")，並尋獲這輛被民兵部隊遺棄的IS-3，並計畫將之除去武裝後重新安放在水泥基座上展示。\[30\]這輛IS-3目前展示於[基輔附近的國家軍事歷史博物館](../Page/基輔.md "wikilink")。
+[IS-3._Kiev.JPG](https://zh.wikipedia.org/wiki/File:IS-3._Kiev.JPG "fig:IS-3._Kiev.JPG")[康斯坦丁諾夫卡展示的IS](https://zh.wikipedia.org/wiki/康斯坦丁諾夫卡 "wikilink")-3。這輛戰車後來由於戰爭因素而被移往[基輔](../Page/基輔.md "wikilink")封存。\]\] 在[2014年烏克蘭東部武裝衝突期間](../Page/顿巴斯战争.md "wikilink")，一輛原於[康斯坦丁諾夫卡展示的IS](https://zh.wikipedia.org/wiki/康斯坦丁諾夫卡 "wikilink")-3坦克的水泥基座被破壞，並被民兵部隊盜取。\[25\]\[26\]\[27\]根據某些消息來源，這輛遭竊的IS-3已被升級。\[28\]\[29\]7月，烏克蘭陸軍重奪[康斯坦丁諾夫卡的控制權](https://zh.wikipedia.org/wiki/康斯坦丁諾夫卡 "wikilink")，並尋獲這輛被民兵部隊遺棄的IS-3，並計畫將之除去武裝後重新安放在水泥基座上展示。\[30\]這輛IS-3目前展示於[基輔](../Page/基輔.md "wikilink")附近的國家軍事歷史博物館。
 
 ## 升級改裝
 
 儘管有著許多創新的設計思維，尤其是革命性的裝甲佈局，IS-3依然繼承了許多其前輩[IS-2的缺點](https://zh.wikipedia.org/wiki/IS-2 "wikilink")。早在1946年，[蘇聯便設立了委員會來審查IS](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")-3的劣勢，其中包含不可靠的引擎與變速箱，以及車體設計問題等等。會有這麼多問題的原因，是因為IS-3是於第二次界大戰期間設計的產品，因此依然保留了「特別時期」的設計思維：能夠大量生產才是設計主力，品質則是其次。為了因應前線大量的戰損，因此設計師沒有時間顧慮設計的細節問題。
 
-為了改善這些問題，蘇聯為所有的IS-3制定了一項升級計畫，並依照瑕疵消弭程序（устранение конструктивных
-недостатков,
-УКН）來消除任何可能的問題；但IS-3始終沒能達到[蘇聯的作戰標準](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")。因此，1946年中期，IS-3被停止量產。
+為了改善這些問題，蘇聯為所有的IS-3制定了一項升級計畫，並依照瑕疵消弭程序（устранение конструктивных недостатков, УКН）來消除任何可能的問題；但IS-3始終沒能達到[蘇聯的作戰標準](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")。因此，1946年中期，IS-3被停止量產。
 
 ## 現存的IS-3
 
@@ -145,10 +135,7 @@ IS-3被[蘇聯用於鎮壓](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[195
 
 ## 圖集
 
-<File:RAF> A emb-Armoured forces.jpg| <File:IS-3-batey-haosef-1.jpg>|
-<File:IS-3-latrun-1.jpg>| <File:IS-3-latrun-2.jpg>|
-<File:IS-3-latrun-3.jpg>| <File:IS-3> Tank Kiev 2007 G1.jpg| <File:IS-3>
-Tank Kiev 2007 G2.jpg|
+<File:RAF> A emb-Armoured forces.jpg| <File:IS-3-batey-haosef-1.jpg>| <File:IS-3-latrun-1.jpg>| <File:IS-3-latrun-2.jpg>| <File:IS-3-latrun-3.jpg>| <File:IS-3> Tank Kiev 2007 G1.jpg| <File:IS-3> Tank Kiev 2007 G2.jpg|
 
 ## 註記
 
@@ -158,107 +145,53 @@ Tank Kiev 2007 G2.jpg|
 
 ## 參考資料
 
-  - <span class="citation" contenteditable="false">*А. Чубачин.* Тяжёлый
-    советский танк ИС-3/ИС-3М. — М.: БТВ-Книга, 2007. — 140 с. —
-    (Бронетанковый музей № 15). — 1000
-    экз.</span><span class="citation" contenteditable="false"></span>
-  - *И. Желтов, И. Павлов, М. Павлов, А. Сергеев.* Танки ИС //
-    Танкомастер (спецвыпуск)
+  - <span class="citation" contenteditable="false">*А. Чубачин.* Тяжёлый советский танк ИС-3/ИС-3М. — М.: БТВ-Книга, 2007. — 140 с. — (Бронетанковый музей № 15). — 1000 экз.</span><span class="citation" contenteditable="false"></span>
+  - *И. Желтов, И. Павлов, М. Павлов, А. Сергеев.* Танки ИС // Танкомастер (спецвыпуск)
   - *Г. Холявский.* Энциклопедия танков.
-  - <span class="citation" contenteditable="false">*М. Б. Барятинский.*
-    ИС-3. Последний танк Второй мировой. — М.: Эксмо; Яуза; Коллекция,
-    2010. — 96 с. — (Война и мы. Танковая коллекция). — 2500
-    экз. </span><span class="citation" contenteditable="false">—
-    ISBN 978-5-699-41768-1</span>
-  - <span class="citation" id="CITEREF.D0.A8.D0.B8.D1.80.D0.BE.D0.BA.D0.BE.D1.80.D0.B0.D0.B42000" contenteditable="false">*Широкорад
-    А. Б.* Энциклопедия отечественной артиллерии / Под общ. ред. А. Е.
-    Тараса. — Мн.: Харвест, 2000. —
-    1156 с. </span><span class="citation" id="CITEREF.D0.A8.D0.B8.D1.80.D0.BE.D0.BA.D0.BE.D1.80.D0.B0.D0.B42000" contenteditable="false">—
-    (Библиотека военной истории). — ISBN 985-433-703-0</span>
+  - <span class="citation" contenteditable="false">*М. Б. Барятинский.* ИС-3. Последний танк Второй мировой. — М.: Эксмо; Яуза; Коллекция, 2010. — 96 с. — (Война и мы. Танковая коллекция). — 2500 экз. </span><span class="citation" contenteditable="false">— ISBN 978-5-699-41768-1</span>
+  - <span class="citation" id="CITEREF.D0.A8.D0.B8.D1.80.D0.BE.D0.BA.D0.BE.D1.80.D0.B0.D0.B42000" contenteditable="false">*Широкорад А. Б.* Энциклопедия отечественной артиллерии / Под общ. ред. А. Е. Тараса. — Мн.: Харвест, 2000. — 1156 с. </span><span class="citation" id="CITEREF.D0.A8.D0.B8.D1.80.D0.BE.D0.BA.D0.BE.D1.80.D0.B0.D0.B42000" contenteditable="false">— (Библиотека военной истории). — ISBN 985-433-703-0</span>
 
 ## 引用
 
-  - <span class="citation" contenteditable="false">[Тяжёлый танк
-    ИС-3](http://armor.kiev.ua/Tanks/WWII/is3/). *Броне-сайт Чобитка
-    Василия*. <small>[Архивировано из первоисточника 22
-    февраля 2012](http://www.webcitation.org/65dT2TQS3).</small></span><span class="citation" contenteditable="false"></span>
-  - <span class="citation" contenteditable="false">*Валерий Потапов.*
-    [Тяжёлый танк ИС-3](http://www.battlefield.ru/js3.html).
-    </span><span class="citation" contenteditable="false">*The Russian
-    Battlefield*. <small>[Архивировано из первоисточника 22
-    февраля 2012](http://www.webcitation.org/65dT4KtDZ).</small></span><span class="citation" contenteditable="false"></span>
-  - [Фотографии ИС-3М из
-    г.](http://scalemodels.ru/modules/photo/viewcat_cid_168.html)
-    [Минск](http://scalemodels.ru/modules/photo/viewcat_cid_168.html)
-  - [Фотографии ИС-3 в экспозиции музея-панорамы «Сталинградская битва»
-    в
-    Волгограде](http://www.volfoto.ru/volgograd/panorama/tehnika/photos/?photo=812)
+  - <span class="citation" contenteditable="false">[Тяжёлый танк ИС-3](http://armor.kiev.ua/Tanks/WWII/is3/). *Броне-сайт Чобитка Василия*. <small>[Архивировано из первоисточника 22 февраля 2012](http://www.webcitation.org/65dT2TQS3).</small></span><span class="citation" contenteditable="false"></span>
+  - <span class="citation" contenteditable="false">*Валерий Потапов.* [Тяжёлый танк ИС-3](http://www.battlefield.ru/js3.html). </span><span class="citation" contenteditable="false">*The Russian Battlefield*. <small>[Архивировано из первоисточника 22 февраля 2012](http://www.webcitation.org/65dT4KtDZ).</small></span><span class="citation" contenteditable="false"></span>
+  - [Фотографии ИС-3М из г.](http://scalemodels.ru/modules/photo/viewcat_cid_168.html) [Минск](http://scalemodels.ru/modules/photo/viewcat_cid_168.html)
+  - [Фотографии ИС-3 в экспозиции музея-панорамы «Сталинградская битва» в Волгограде](http://www.volfoto.ru/volgograd/panorama/tehnika/photos/?photo=812)
 
-[Category:蘇聯二戰坦克](https://zh.wikipedia.org/wiki/Category:蘇聯二戰坦克 "wikilink")
-[Category:重型坦克](https://zh.wikipedia.org/wiki/Category:重型坦克 "wikilink")
+[Category:蘇聯二戰坦克](https://zh.wikipedia.org/wiki/Category:蘇聯二戰坦克 "wikilink") [Category:重型坦克](https://zh.wikipedia.org/wiki/Category:重型坦克 "wikilink")
 
 1.  Отечественные бронированные машины. Том 2, стр. 14
 
-2.  <span class="citation">*М. В. Павлов, И. В. Павлов.* Отечественные
-    бронированные машины 1945—1965 гг. // Техника и вооружение: вчера,
-    сегодня, завтра. — Москва: Техинформ, 2012. — № 11. — С. 54.</span>
+2.  <span class="citation">*М. В. Павлов, И. В. Павлов.* Отечественные бронированные машины 1945—1965 гг. // Техника и вооружение: вчера, сегодня, завтра. — Москва: Техинформ, 2012. — № 11. — С. 54.</span>
 
-3.  <span class="citation" contenteditable="false">*Министерство Союза
-    ССР.* Руководство по материальной части и эксплуатации танка
-    ИС-3. — Военное издательство Министерства Обороны СССР,
-    1955.</span>
+3.  <span class="citation" contenteditable="false">*Министерство Союза ССР.* Руководство по материальной части и эксплуатации танка ИС-3. — Военное издательство Министерства Обороны СССР, 1955.</span>
 
-4.  <span class="citation" contenteditable="false">*А. Чубачин.* Тяжёлый
-    советский танк ИС-3/ИС-3М / И. Мощанский. — М.: БТВ-Книга, 2007. —
-    С. 106. — 140 с. — (Бронетанковый музей № 15). — 1000
-    экз.</span><span class="citation" contenteditable="false"></span>
+4.  <span class="citation" contenteditable="false">*А. Чубачин.* Тяжёлый советский танк ИС-3/ИС-3М / И. Мощанский. — М.: БТВ-Книга, 2007. — С. 106. — 140 с. — (Бронетанковый музей № 15). — 1000 экз.</span><span class="citation" contenteditable="false"></span>
 
-5.  <span class="citation">*М. В. Павлов, И. В. Павлов.* Отечественные
-    бронированные машины 1945—1965 гг. // Техника и вооружение: вчера,
-    сегодня, завтра. — М.: Техинформ, 2008. — № 9. — С. 56.</span>
+5.  <span class="citation">*М. В. Павлов, И. В. Павлов.* Отечественные бронированные машины 1945—1965 гг. // Техника и вооружение: вчера, сегодня, завтра. — М.: Техинформ, 2008. — № 9. — С. 56.</span>
 
-6.  <span class="citation" contenteditable="false">*А. Чубачин.* Тяжёлый
-    советский танк ИС-3/ИС-3М / И. Мощанский. — М.: БТВ-Книга, 2007. —
-    С. 104. — 140 с. — (Бронетанковый музей № 15). — 1000
-    экз.</span><span class="citation" contenteditable="false"></span>
+6.  <span class="citation" contenteditable="false">*А. Чубачин.* Тяжёлый советский танк ИС-3/ИС-3М / И. Мощанский. — М.: БТВ-Книга, 2007. — С. 104. — 140 с. — (Бронетанковый музей № 15). — 1000 экз.</span><span class="citation" contenteditable="false"></span>
 
 7.
-8.  <span class="citation" contenteditable="false">*А. Чубачин.* Тяжёлый
-    советский танк ИС-3/ИС-3М / И. Мощанский. — М.: БТВ-Книга, 2007. —
-    С. 71. — 140 с. — (Бронетанковый музей № 15). — 1000
-    экз.</span><span class="citation" contenteditable="false"></span>
+8.  <span class="citation" contenteditable="false">*А. Чубачин.* Тяжёлый советский танк ИС-3/ИС-3М / И. Мощанский. — М.: БТВ-Книга, 2007. — С. 71. — 140 с. — (Бронетанковый музей № 15). — 1000 экз.</span><span class="citation" contenteditable="false"></span>
 
-9.  [Stockholm International Peace Research Institute — Arms Transfers
-    Database](http://armstrade.sipri.org/armstrade/page/trade_register.php)
+9.  [Stockholm International Peace Research Institute — Arms Transfers Database](http://armstrade.sipri.org/armstrade/page/trade_register.php)
 
 10.
 11.
 12.
 13.
-14. <span class="citation" contenteditable="false">*Тим Бин, Уилл
-    Фаулер.* Советские танки Второй мировой войны. Бронированный
-    кулак Сталина. — М.: Эксмо, 2007. — 176 с. </span>
+14. <span class="citation" contenteditable="false">*Тим Бин, Уилл Фаулер.* Советские танки Второй мировой войны. Бронированный кулак Сталина. — М.: Эксмо, 2007. — 176 с. </span>
 
-15. <span class="citation" contenteditable="false">*Дэвид Портер.*
-    Вторая Мировая - Стальной вал с Востока: Советские
-    бронетанковые войска 1939-1945. — М.: Эксмо, 2011. —
-    192 с.</span>
+15. <span class="citation" contenteditable="false">*Дэвид Портер.* Вторая Мировая - Стальной вал с Востока: Советские бронетанковые войска 1939-1945. — М.: Эксмо, 2011. — 192 с.</span>
 
-16. [Боевое применение тяжёлых танков
-    ИС-3](http://otvaga2004.narod.ru/publ_w4/055_is3.htm)
+16. [Боевое применение тяжёлых танков ИС-3](http://otvaga2004.narod.ru/publ_w4/055_is3.htm)
 
-17. [Танк со «щучьим
-    носом»](http://warspot.ru/2435-tank-so-schuchim-nosom)
+17. [Танк со «щучьим носом»](http://warspot.ru/2435-tank-so-schuchim-nosom)
 
-18. <span class="citation" contenteditable="false">*А. Чубачин.* Тяжёлый
-    советский танк ИС-3/ИС-3М / И. Мощанский. — М.: БТВ-Книга, 2007. —
-    С. 138. — 140 с. — (Бронетанковый музей № 15). — 1000
-    экз.</span><span class="citation" contenteditable="false"></span>
+18. <span class="citation" contenteditable="false">*А. Чубачин.* Тяжёлый советский танк ИС-3/ИС-3М / И. Мощанский. — М.: БТВ-Книга, 2007. — С. 138. — 140 с. — (Бронетанковый музей № 15). — 1000 экз.</span><span class="citation" contenteditable="false"></span>
 
-19. <span class="citation" contenteditable="false">*А. Чубачин.* Тяжёлый
-    советский танк ИС-3/ИС-3М / И. Мощанский. — М.: БТВ-Книга, 2007. —
-    С. 139. — 140 с. — (Бронетанковый музей № 15). — 1000
-    экз.</span><span class="citation" contenteditable="false"></span>
+19. <span class="citation" contenteditable="false">*А. Чубачин.* Тяжёлый советский танк ИС-3/ИС-3М / И. Мощанский. — М.: БТВ-Книга, 2007. — С. 139. — 140 с. — (Бронетанковый музей № 15). — 1000 экз.</span><span class="citation" contenteditable="false"></span>
 
 20. Израильские танки в бою (2012). Михаил Барятинский. стр. 21
 
@@ -266,27 +199,13 @@ Tank Kiev 2007 G2.jpg|
 22.
 23.
 24.
-25. <span class="citation" contenteditable="false">[Ополченцы успешно
-    применили в бою снятый с постамента танк
-    ИС-3](http://www.vz.ru/news/2014/6/30/693464.html).
-    <small>Проверено 1 июля
-    2014.</small></span><span class="citation" contenteditable="false"></span>
+25. <span class="citation" contenteditable="false">[Ополченцы успешно применили в бою снятый с постамента танк ИС-3](http://www.vz.ru/news/2014/6/30/693464.html). <small>Проверено 1 июля 2014.</small></span><span class="citation" contenteditable="false"></span>
 
-26. <span class="citation" contenteditable="false">[В Красноармейске
-    танк «Иосиф Сталин-3» разгромил блокпост, есть
-    погибшие](http://www.dialog.ua/news/7639_1404154254).
-    <small>Проверено 1 июля
-    2014.</small></span><span class="citation" contenteditable="false"></span>
+26. <span class="citation" contenteditable="false">[В Красноармейске танк «Иосиф Сталин-3» разгромил блокпост, есть погибшие](http://www.dialog.ua/news/7639_1404154254). <small>Проверено 1 июля 2014.</small></span><span class="citation" contenteditable="false"></span>
 
-27. <span class="citation" contenteditable="false">[Танк «Иосиф
-    Сталин-3» разгромил блокпост на Донбассе, есть
-    погибшие](http://ria.ru/world/20140630/1014198318.html).
-    <small>Проверено 1 июля
-    2014.</small></span><span class="citation" contenteditable="false"></span>
+27. <span class="citation" contenteditable="false">[Танк «Иосиф Сталин-3» разгромил блокпост на Донбассе, есть погибшие](http://ria.ru/world/20140630/1014198318.html). <small>Проверено 1 июля 2014.</small></span><span class="citation" contenteditable="false"></span>
 
-28. [Сообщение в сообществе «Антимайдан Донбасс
-    Помощь.](http://vk.com/slavadnb?w=wall-68705740_36243)
+28. [Сообщение в сообществе «Антимайдан Донбасс Помощь.](http://vk.com/slavadnb?w=wall-68705740_36243)
 
 29.
-30. [Українські військові повертають пам’ятники Великої Вітчизняної
-    війни](http://www.mil.gov.ua/news/2014/08/02/ukrainski-vijskovi-povertayut-pamyatniki-velikoi-vitchiznyanoi-vijni/)
+30. [Українські військові повертають пам’ятники Великої Вітчизняної війни](http://www.mil.gov.ua/news/2014/08/02/ukrainski-vijskovi-povertayut-pamyatniki-velikoi-vitchiznyanoi-vijni/)

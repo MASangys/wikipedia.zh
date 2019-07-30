@@ -1,7 +1,4 @@
-《**Qualidea Code**》（）為原創動畫，是由[Super
-Dash文庫](../Page/Super_Dash文庫.md "wikilink")、[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")、[MF文庫J](../Page/MF文庫J.md "wikilink")、[GAGAGA文庫與](../Page/GAGAGA文庫.md "wikilink")[Jump
-SQ等出版社以及](https://zh.wikipedia.org/wiki/Jump_SQ "wikilink")[渡航](../Page/渡航.md "wikilink")、[橘公司](https://zh.wikipedia.org/wiki/橘公司 "wikilink")、[相樂總三位輕小說作家組成的創作團體](https://zh.wikipedia.org/wiki/相樂總 "wikilink")**Speakeasy**推出的媒體聯合計畫**Project
-QUALIDEA**（）的一部分。\[1\]
+《**Qualidea Code**》（）為原創動畫，是由[Super Dash文庫](../Page/Super_Dash文庫.md "wikilink")、[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")、[MF文庫J](../Page/MF文庫J.md "wikilink")、[GAGAGA文庫](../Page/GAGAGA文庫.md "wikilink")與[Jump SQ等出版社以及](https://zh.wikipedia.org/wiki/Jump_SQ "wikilink")[渡航](../Page/渡航.md "wikilink")、[橘公司](https://zh.wikipedia.org/wiki/橘公司 "wikilink")、[相樂總三位輕小說作家組成的創作團體](https://zh.wikipedia.org/wiki/相樂總 "wikilink")**Speakeasy**推出的媒體聯合計畫**Project QUALIDEA**（）的一部分。\[1\]
 
 ## 故事簡介
 
@@ -26,8 +23,7 @@ QUALIDEA**（）的一部分。\[1\]
 
     年紀原比卡娜莉亞小，但因冷凍睡眠後現跟宇多良同齡。在第一次見面時，因氛圍差距、不記得姓名和年齡差距等原因而沒有認出卡娜莉亞。在小說後期兩人起爭執時，因卡娜莉亞突然叫出自己當年的綽號，而終於意識到對方身分。被卡娜莉亞取暱稱「小壹」，但本人並不喜歡。會私自幫他人的世界取奇怪的稱號、打上名為朱雀分的奇怪分數。
 
-    固有世界是自由操縱引力與斥力的向量，自己取名為 Free
-    Gravity，目前排名第4位。與卡娜莉亞一樣是戰鬥科中少數沒有飛行能力的學生，屬於一能者。（因朱雀的飛行能力只能算是固有世界的其中一種應用，無法被納入擁有飛行能力的世界；但亦因此無需魔杖即可飛行）
+    固有世界是自由操縱引力與斥力的向量，自己取名為 Free Gravity，目前排名第4位。與卡娜莉亞一樣是戰鬥科中少數沒有飛行能力的學生，屬於一能者。（因朱雀的飛行能力只能算是固有世界的其中一種應用，無法被納入擁有飛行能力的世界；但亦因此無需魔杖即可飛行）
 
     為輕小說《那樣的世界毀掉算了 -QUALIDEA CODE-》中的男主角。
 
@@ -42,13 +38,9 @@ QUALIDEA**（）的一部分。\[1\]
 
     在首都大侵略中遇見了同樣與父母失散的朱雀壹彌，帶領著他一起前往避難所，在朱雀雙親代理親權的簽名同意下進行了冷凍睡眠。
 
-    在第一次見面時，立刻就知道朱雀壹彌就是當年的少年，但在看見他好像沒有立即發現的反應後，以為是在和她玩遊戲，所以並沒有立即表明自己就是當年的少女。某時期突然轉學到東京，因為鷹匠詩的計畫而讓朱雀壹彌誤認她是親
-    Unknown
-    派的一員，也因此被朱雀壹彌施與嚴格的斯巴達式訓練。某次訓練完的對談中，卡娜莉亞展現了十分堅定的意志令朱雀壹彌感受到恐懼，被他稱為光靠意志凌駕一切的怪物。在小說後期兩人起爭執時，因看見朱雀壹彌在聽見自己綽號後的驚訝反應，才終於意識到自己其實誤會了。因為在朱雀壹彌嚴格的斯巴達式訓練後仍認為是遊戲，而被鵜飼鶇視為
-    M。
+    在第一次見面時，立刻就知道朱雀壹彌就是當年的少年，但在看見他好像沒有立即發現的反應後，以為是在和她玩遊戲，所以並沒有立即表明自己就是當年的少女。某時期突然轉學到東京，因為鷹匠詩的計畫而讓朱雀壹彌誤認她是親 Unknown 派的一員，也因此被朱雀壹彌施與嚴格的斯巴達式訓練。某次訓練完的對談中，卡娜莉亞展現了十分堅定的意志令朱雀壹彌感受到恐懼，被他稱為光靠意志凌駕一切的怪物。在小說後期兩人起爭執時，因看見朱雀壹彌在聽見自己綽號後的驚訝反應，才終於意識到自己其實誤會了。因為在朱雀壹彌嚴格的斯巴達式訓練後仍認為是遊戲，而被鵜飼鶇視為 M。
 
-    固有世界是通過歌唱來暫時提高命氣的作用，被朱雀壹彌取名為 Heart
-    Warming，目前排名第10位。與朱雀一樣是戰鬥科中少數沒有飛行能力的學生，屬於一能者。在第4集中死亡，但那為虛假的世界。在第9集中再次出場。
+    固有世界是通過歌唱來暫時提高命氣的作用，被朱雀壹彌取名為 Heart Warming，目前排名第10位。與朱雀一樣是戰鬥科中少數沒有飛行能力的學生，屬於一能者。在第4集中死亡，但那為虛假的世界。在第9集中再次出場。
 
     為輕小說《那樣的世界毀掉算了 -QUALIDEA CODE-》中的女主角。
 
@@ -59,8 +51,7 @@ QUALIDEA**（）的一部分。\[1\]
 
     不喜歡因外表而被比自己年紀小的人當成小孩子對待或是無視。因為家庭教育方針中「禁止過度吐露真心話」的關係，導致無法正常顯露出表情，在講話時也會刻意說反話，而被朱雀壹彌稱為愛唱反調的天邪鬼。
 
-    討厭著欺壓著弱者的世界，厭惡戰鬥科對夥伴的不重視和對無能者的輕視。喜歡朱雀壹彌，認為他能夠改變這個世界，因此為了讓擁有與戰鬥科相同想法的朱雀壹彌有所改變，而刻意以「調職到出路指導局」的假命令來讓他接觸不合格名單上的人員和與朱雀壹彌位於相反極端的宇多良卡娜莉亞，甚至編造宇多良卡娜莉亞可能是親
-    Unknown 派的謊言。
+    討厭著欺壓著弱者的世界，厭惡戰鬥科對夥伴的不重視和對無能者的輕視。喜歡朱雀壹彌，認為他能夠改變這個世界，因此為了讓擁有與戰鬥科相同想法的朱雀壹彌有所改變，而刻意以「調職到出路指導局」的假命令來讓他接觸不合格名單上的人員和與朱雀壹彌位於相反極端的宇多良卡娜莉亞，甚至編造宇多良卡娜莉亞可能是親 Unknown 派的謊言。
 
     因戰鬥中常在後方發出準確的心電感應指示，讓前線消滅所有逃竄的敵人，而獲的《千里魔女》的稱號。但在鵜飼鶇發明通訊終端後，面臨了可能被除名戰鬥科的狀況。
 
@@ -148,13 +139,12 @@ QUALIDEA**（）的一部分。\[1\]
   -
     千葉都市次席。
     『我只是沾了妹妹的光罷了。順位什麼的沒有關係。』
-    愛諷刺人的現實主義者。會有意暴露自己的缺點，只有妹妹明日葉能理解他。是一位重度妹控。武器是[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。固有世界是使用回聲定位與敏銳聽覺進行搜索的能力，被朱雀壹彌取名為支配夜晚的Vampire
-    Bat。排名第100位→第207位→目前第213位。
+    愛諷刺人的現實主義者。會有意暴露自己的缺點，只有妹妹明日葉能理解他。是一位重度妹控。武器是[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。固有世界是使用回聲定位與敏銳聽覺進行搜索的能力，被朱雀壹彌取名為支配夜晚的Vampire Bat。排名第100位→第207位→目前第213位。
     是輕小說《這樣的世界，怎樣都好》中的男主角。
   -
     千葉都市首席。
     『哥哥，身體能力太渣了。說是哥哥不如說是垃圾呢。真是可笑。』
-    霞的妹妹。平常懶懶散散的女孩，但一旦拿起槍就變得十分好戰。總是不忘細枝末節的打扮。是一位重度兄控。武器是[雙持手槍](../Page/雙持.md "wikilink")。固有世界是物質的運動控制，目前排名第2位。
+    霞的妹妹。平常懶懶散散的女孩，但一旦拿起槍就變得十分好戰。總是不忘細枝末節的打扮。是一位重度兄控。武器是[雙持](../Page/雙持.md "wikilink")手槍。固有世界是物質的運動控制，目前排名第2位。
     是輕小說《這樣的世界，怎樣都好》中的女主角。
   -
     是輕小說《世界什麼的怎樣都好》中的角色。
@@ -190,7 +180,7 @@ QUALIDEA**（）的一部分。\[1\]
 
   -
     在《**為了拯救世界的那一天**》及《**那樣的世界毀掉算了**》中、於29年前出現的第一種災害指定異來生物，其真正身份及目的皆不明。21年前人類曾於對抗「Unknown」的戰事中獲取勝利，但實際上是由於「Unknown」的攻勢突然減弱，人類才取得短暫的勝利。在「Unknown」的攻擊下，人類蒙受了巨大的損害，單在日本國內便有大約有3,200萬人因對抗「Unknown」而受傷或死亡，故人類便將兒童們進行冷凍睡眠以保安全。
-    「Unknown」大致可分為[巨魔級](https://zh.wikipedia.org/wiki/巨魔 "wikilink")、[克拉肯級及](https://zh.wikipedia.org/wiki/克拉肯 "wikilink")[特里同級](../Page/特里同.md "wikilink")。
+    「Unknown」大致可分為[巨魔級](https://zh.wikipedia.org/wiki/巨魔 "wikilink")、[克拉肯級及](https://zh.wikipedia.org/wiki/克拉肯 "wikilink")[特里同](../Page/特里同.md "wikilink")級。
 
 <!-- end list -->
 
@@ -352,8 +342,7 @@ QUALIDEA**（）的一部分。\[1\]
 <!-- end list -->
 
   - 1st ost 「Time To Go」
-    作曲、編曲：[:岩崎琢](https://zh.wikipedia.org/wiki/:岩崎琢 "wikilink")，主唱：
-    [石川由依](../Page/石川由依.md "wikilink")
+    作曲、編曲：[:岩崎琢](https://zh.wikipedia.org/wiki/:岩崎琢 "wikilink")，主唱： [石川由依](../Page/石川由依.md "wikilink")
   - Ost 「I can't find U」
     作曲、編曲：[:岩崎琢](https://zh.wikipedia.org/wiki/:岩崎琢 "wikilink")
   - Ost 「Take」
@@ -545,8 +534,7 @@ QUALIDEA**（）的一部分。\[1\]
 
   - 輕小說
       - [《廢材與金幣的庫洛迪亞》－Dash X文庫](http://dash.shueisha.co.jp/qualidea/)
-      - [《為了終有一天能拯救世界 －Qualidea
-        Code－》－富士見Fantasia文庫](http://www.fujimishobo.co.jp/sp/201507itsuka/)
+      - [《為了終有一天能拯救世界 －Qualidea Code－》－富士見Fantasia文庫](http://www.fujimishobo.co.jp/sp/201507itsuka/)
 
 <!-- end list -->
 
@@ -556,18 +544,9 @@ QUALIDEA**（）的一部分。\[1\]
       - [《Qualidea Code》—朝日放送專頁](http://www.asahi.co.jp/anime/qualidea/)
 
       -
-      - [響 - HiBiKi Radio Station - |クオリディア・コード
-        南關東三都市防衛機構放送部](http://hibiki-radio.jp/description/qualidea/detail/)
+      - [響 - HiBiKi Radio Station - |クオリディア・コード 南關東三都市防衛機構放送部](http://hibiki-radio.jp/description/qualidea/detail/)
 
-[Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink")
-[Category:2015年日本小说](https://zh.wikipedia.org/wiki/Category:2015年日本小说 "wikilink")
-[Category:科幻小說系列](https://zh.wikipedia.org/wiki/Category:科幻小說系列 "wikilink")
-[Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink")
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:東京背景作品](https://zh.wikipedia.org/wiki/Category:東京背景作品 "wikilink")
-[Category:神奈川縣背景作品](https://zh.wikipedia.org/wiki/Category:神奈川縣背景作品 "wikilink")
-[Category:千葉縣背景作品](https://zh.wikipedia.org/wiki/Category:千葉縣背景作品 "wikilink")
+[Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink") [Category:2015年日本小说](https://zh.wikipedia.org/wiki/Category:2015年日本小说 "wikilink") [Category:科幻小說系列](https://zh.wikipedia.org/wiki/Category:科幻小說系列 "wikilink") [Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:東京背景作品](https://zh.wikipedia.org/wiki/Category:東京背景作品 "wikilink") [Category:神奈川縣背景作品](https://zh.wikipedia.org/wiki/Category:神奈川縣背景作品 "wikilink") [Category:千葉縣背景作品](https://zh.wikipedia.org/wiki/Category:千葉縣背景作品 "wikilink")
 
 1.
 2.

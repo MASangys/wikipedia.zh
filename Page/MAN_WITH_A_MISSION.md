@@ -1,6 +1,4 @@
-**MAN WITH A MISSION**（）是[日本一個搖滾樂團](../Page/日本.md "wikilink")，隸屬於Sony
-Music Records，事務所為shibuya
-eggman。官方設定為樂團由五名狼頭人身的究極生命體組成\[1\]\[2\]。樂團名的意思是「背負使命的男人」\[3\]，樂團簡稱**MWAM**。此外，樂團已在各大媒體上被稱為「**狼人樂團**（）」。
+**MAN WITH A MISSION**（）是[日本](../Page/日本.md "wikilink")一個搖滾樂團，隸屬於Sony Music Records，事務所為shibuya eggman。官方設定為樂團由五名狼頭人身的究極生命體組成\[1\]\[2\]。樂團名的意思是「背負使命的男人」\[3\]，樂團簡稱**MWAM**。此外，樂團已在各大媒體上被稱為「**狼人樂團**（）」。
 
 ## 概要
 
@@ -8,9 +6,7 @@ eggman。官方設定為樂團由五名狼頭人身的究極生命體組成\[1\]
 
 在被凍結時，狼們利用他們發達的聽覺聆聽世間上各色各樣的音樂\[10\]，並以在1997年所舉辦的搖滾音樂節上聽到的聲音為契機\[11\]\[12\]，認為音樂也許能夠讓這個世界有所改變，於是立志進行音樂活動。雖然狼們依舊處於凍結狀態，但在2010年由於[溫室效應的影響而令冰川融化](https://zh.wikipedia.org/wiki/溫室效應 "wikilink")，使他們脫離凍結狀態\[13\]\[14\]，並展開樂隊活動。
 
-樂隊的組成時間、樂隊成員的年齡以及國籍皆沒有對外公開\[15\]。在樂曲製作方面，吉他手Jean-Ken Johnny及貝斯手Kamikaze
-Boy主要負責作詞，而作曲則是先由Jean-Ken Johnny和Kamikaze
-Boy先行確定樂曲的節奏和印象，之後再和樂團全員商量各部分細節的更改。
+樂隊的組成時間、樂隊成員的年齡以及國籍皆沒有對外公開\[15\]。在樂曲製作方面，吉他手Jean-Ken Johnny及貝斯手Kamikaze Boy主要負責作詞，而作曲則是先由Jean-Ken Johnny和Kamikaze Boy先行確定樂曲的節奏和印象，之後再和樂團全員商量各部分細節的更改。
 
 2016年8月，來台參加超犀利趴7\[16\]。
 
@@ -30,8 +26,7 @@ Boy先行確定樂曲的節奏和印象，之後再和樂團全員商量各部�
 <!-- end list -->
 
   -
-    樂團的貝斯手及負責合音，使用樂器是YAMAHA
-    RBXA2\[19\]，經常搭配毛背帶。通稱Boy桑、Namikaze。特徵是凶狠的眼神，是身高最高的狼，招牌動作是高舉雙手，喜歡穿窄管褲，有明顯的酗酒習慣。
+    樂團的貝斯手及負責合音，使用樂器是YAMAHA RBXA2\[19\]，經常搭配毛背帶。通稱Boy桑、Namikaze。特徵是凶狠的眼神，是身高最高的狼，招牌動作是高舉雙手，喜歡穿窄管褲，有明顯的酗酒習慣。
     特殊技能是狩獵，最愛的音樂類型是搖滾。
 
 <!-- end list -->
@@ -57,7 +52,7 @@ Boy先行確定樂曲的節奏和印象，之後再和樂團全員商量各部�
 <th><p>發售日</p></th>
 <th><p>標題</p></th>
 <th><p><a href="../Page/規格產品編號.md" title="wikilink">規格產品編號</a></p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon周榜</a><br />
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>周榜<br />
 最高名次</p></th>
 </tr>
 </thead>
@@ -199,7 +194,7 @@ SRCL-11155（通常盤）</p></td>
 <th><p>發售日</p></th>
 <th><p>標題</p></th>
 <th><p><a href="../Page/規格產品編號.md" title="wikilink">規格產品編號</a></p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon周榜</a><br />
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>周榜<br />
 最高位</p></th>
 </tr>
 </thead>
@@ -303,12 +298,7 @@ SRCL-9810（通常盤）</p></td>
 
 ## 參考資料
 
-[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
-[Category:狼題材作品](https://zh.wikipedia.org/wiki/Category:狼題材作品 "wikilink")
-[Category:新金屬樂團](https://zh.wikipedia.org/wiki/Category:新金屬樂團 "wikilink")
-[Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink")
-[Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink")
-[Category:CD店大獎獲獎者](https://zh.wikipedia.org/wiki/Category:CD店大獎獲獎者 "wikilink")
+[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink") [Category:狼題材作品](https://zh.wikipedia.org/wiki/Category:狼題材作品 "wikilink") [Category:新金屬樂團](https://zh.wikipedia.org/wiki/Category:新金屬樂團 "wikilink") [Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink") [Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink") [Category:CD店大獎獲獎者](https://zh.wikipedia.org/wiki/Category:CD店大獎獲獎者 "wikilink")
 
 1.
 

@@ -1,11 +1,6 @@
-下表比较了[XHTML对一些](../Page/XHTML.md "wikilink")[排版引擎的支持与兼容性](../Page/排版引擎.md "wikilink")。请参阅各个产品的条目获得更多信息。除非脚注中另有规定，比较均基于稳定版本，无任何附加组件、扩展或外部程序。
+下表比较了[XHTML](../Page/XHTML.md "wikilink")对一些[排版引擎](../Page/排版引擎.md "wikilink")的支持与兼容性。请参阅各个产品的条目获得更多信息。除非脚注中另有规定，比较均基于稳定版本，无任何附加组件、扩展或外部程序。
 
-本条目只靠路XHTML 1.1。[XHTML 1.1基于](../Page/XHTML.md "wikilink")[XHTML
-1.0严格版](https://zh.wikipedia.org/wiki/XHTML#XHTML_1.0 "wikilink")，抛弃了更多的元素与属性。[XHTML
-2.0是一个工作草案](https://zh.wikipedia.org/wiki/XHTML#XHTML_2.0 "wikilink")，现未受到任何排版引擎的支持，为支持[HTML5和](../Page/HTML5.md "wikilink")[XHTML5的工作](https://zh.wikipedia.org/wiki/XHTML#XHTML5 "wikilink")，其于2009年被废弃。XHTML
-1.0与[HTML 4](../Page/HTML.md "wikilink")（二者均提供`text/html`）在[排版引擎比较
-(HTML)中进行了比较](../Page/排版引擎比较_\(HTML\).md "wikilink")。关于XML兼容性的比较请参见[排版引擎比较
-(XML)](https://zh.wikipedia.org/wiki/排版引擎比较_\(XML\) "wikilink")。
+本条目只靠路XHTML 1.1。[XHTML 1.1基于](../Page/XHTML.md "wikilink")[XHTML 1.0严格版](https://zh.wikipedia.org/wiki/XHTML#XHTML_1.0 "wikilink")，抛弃了更多的元素与属性。[XHTML 2.0是一个工作草案](https://zh.wikipedia.org/wiki/XHTML#XHTML_2.0 "wikilink")，现未受到任何排版引擎的支持，为支持[HTML5](../Page/HTML5.md "wikilink")和[XHTML5的工作](https://zh.wikipedia.org/wiki/XHTML#XHTML5 "wikilink")，其于2009年被废弃。XHTML 1.0与[HTML 4](../Page/HTML.md "wikilink")（二者均提供`text/html`）在[排版引擎比较 (HTML)中进行了比较](../Page/排版引擎比较_\(HTML\).md "wikilink")。关于XML兼容性的比较请参见[排版引擎比较 (XML)](https://zh.wikipedia.org/wiki/排版引擎比较_\(XML\) "wikilink")。
 
 如给出了版本号，则说明自该版本起完全支持该特性。专有扩展不包括在内。
 
@@ -137,7 +132,7 @@
 
 ## 联合配置
 
-通过结合[XML的其他应用程序](../Page/XML.md "wikilink")（不是指使用img/object元素）扩展XHTML。
+通过结合[XML](../Page/XML.md "wikilink")的其他应用程序（不是指使用img/object元素）扩展XHTML。
 
 <table>
 <thead>
@@ -212,8 +207,7 @@
   -
   -
   -
-[Category:HTML](https://zh.wikipedia.org/wiki/Category:HTML "wikilink")
-[Category:排版引擎比较](https://zh.wikipedia.org/wiki/Category:排版引擎比较 "wikilink")
+[Category:HTML](https://zh.wikipedia.org/wiki/Category:HTML "wikilink") [Category:排版引擎比较](https://zh.wikipedia.org/wiki/Category:排版引擎比较 "wikilink")
 
 1.
 2.

@@ -2,8 +2,7 @@
 
 ## 故事
 
-住在地上的光之一族（光の一族）和住在地下的影之一族（影の一族）由於「WORDS
-WORTH」的石板被某人破壞，兩族互相指責對方是犯人而引發長達100年以上的戰爭。
+住在地上的光之一族（光の一族）和住在地下的影之一族（影の一族）由於「WORDS WORTH」的石板被某人破壞，兩族互相指責對方是犯人而引發長達100年以上的戰爭。
 
 ## 角色
 
@@ -35,8 +34,7 @@ WORTH」的石板被某人破壞，兩族互相指責對方是犯人而引發長
 
 ## OVA
 
-OVA是由[Arms製作](../Page/Arms.md "wikilink")，GREEN
-BUNNY發售的成人動畫作品，分成VHS和DVD版本發售，1999年到2000年發售本篇共5集\[2\]，2002年發售外傳共2集。\[3\]
+OVA是由[Arms](../Page/Arms.md "wikilink")製作，GREEN BUNNY發售的成人動畫作品，分成VHS和DVD版本發售，1999年到2000年發售本篇共5集\[2\]，2002年發售外傳共2集。\[3\]
 
 ### 各話列表
 
@@ -111,8 +109,7 @@ BUNNY發售的成人動畫作品，分成VHS和DVD版本發售，1999年到2000�
 
 ### 小說
 
-《WORDS
-WORTH》小說是由[三井秀樹2P擔任寫作](../Page/三井秀樹.md "wikilink")，鈴真擔任插畫，由KSS發售共5冊。
+《WORDS WORTH》小說是由[三井秀樹](../Page/三井秀樹.md "wikilink")2P擔任寫作，鈴真擔任插畫，由KSS發售共5冊。
 
 <table>
 <thead>
@@ -172,17 +169,7 @@ WORTH》小說是由[三井秀樹2P擔任寫作](../Page/三井秀樹.md "wikili
 
   - [elf](https://web.archive.org/web/20040710061823/http://www.elf-game.co.jp/)
 
-[Category:1993年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:1993年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:PC-9801遊戲](https://zh.wikipedia.org/wiki/Category:PC-9801遊戲 "wikilink")
-[Category:X68000遊戲](https://zh.wikipedia.org/wiki/Category:X68000遊戲 "wikilink")
-[Category:FM_Towns遊戲](https://zh.wikipedia.org/wiki/Category:FM_Towns遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:1999年日本成人動畫](https://zh.wikipedia.org/wiki/Category:1999年日本成人動畫 "wikilink")
-[Category:地下空間背景作品](https://zh.wikipedia.org/wiki/Category:地下空間背景作品 "wikilink")
-[Category:Arms](https://zh.wikipedia.org/wiki/Category:Arms "wikilink")
+[Category:1993年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:1993年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:PC-9801遊戲](https://zh.wikipedia.org/wiki/Category:PC-9801遊戲 "wikilink") [Category:X68000遊戲](https://zh.wikipedia.org/wiki/Category:X68000遊戲 "wikilink") [Category:FM_Towns遊戲](https://zh.wikipedia.org/wiki/Category:FM_Towns遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:1999年日本成人動畫](https://zh.wikipedia.org/wiki/Category:1999年日本成人動畫 "wikilink") [Category:地下空間背景作品](https://zh.wikipedia.org/wiki/Category:地下空間背景作品 "wikilink") [Category:Arms](https://zh.wikipedia.org/wiki/Category:Arms "wikilink")
 
 1.
 2.

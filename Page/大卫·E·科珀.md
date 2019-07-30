@@ -1,5 +1,4 @@
-**大卫·E·科珀**（**David E.
-Cooper**），又译作**戴维·E·库珀**或**戴维·库珀**，是英国[杜伦大学荣休哲学教授](../Page/杜伦大学.md "wikilink")。
+**大卫·E·科珀**（**David E. Cooper**），又译作**戴维·E·库珀**或**戴维·库珀**，是英国[杜伦大学](../Page/杜伦大学.md "wikilink")荣休哲学教授。
 
 ## 生平
 
@@ -15,9 +14,7 @@ Cooper**），又译作**戴维·E·库珀**或**戴维·库珀**，是英国[�
 
 ## 參考資料
 
-[Category:英國哲學家](https://zh.wikipedia.org/wiki/Category:英國哲學家 "wikilink")
-[Category:20世纪哲学家](https://zh.wikipedia.org/wiki/Category:20世纪哲学家 "wikilink")
-[Category:21世紀哲學家](https://zh.wikipedia.org/wiki/Category:21世紀哲學家 "wikilink")
+[Category:英國哲學家](https://zh.wikipedia.org/wiki/Category:英國哲學家 "wikilink") [Category:20世纪哲学家](https://zh.wikipedia.org/wiki/Category:20世纪哲学家 "wikilink") [Category:21世紀哲學家](https://zh.wikipedia.org/wiki/Category:21世紀哲學家 "wikilink")
 
 1.
 2.

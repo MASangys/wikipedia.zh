@@ -1,5 +1,4 @@
-《**EDENS
-ZERO**》（）是一部由日本漫畫家[真島浩所創作的科幻少年漫畫作品](../Page/真島浩.md "wikilink")。該作於2018年6月27日起在《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》30號上連載，且第一話還同步推出六國語言版，包括日文、英文、法文、中文、韓文及泰文\[1\]。
+《**EDENS ZERO**》（）是一部由日本漫畫家[真島浩](../Page/真島浩.md "wikilink")所創作的科幻少年漫畫作品。該作於2018年6月27日起在《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》30號上連載，且第一話還同步推出六國語言版，包括日文、英文、法文、中文、韓文及泰文\[1\]。
 
 ## 故事
 
@@ -10,8 +9,7 @@ ZERO**》（）是一部由日本漫畫家[真島浩所創作的科幻少年漫�
 ### EDENS ZERO
 
   -
-    原是吉基的戰艦，請託艾爾茜遇到西奇後送給他。從原本是艾爾茜的「骷髏妖精號」，被女巫恢復成原本的模樣。翱翔於宇宙的漆黑之翼宇宙戰艦EDENS
-    ZERO（以太驅動永恆導航艦，Ether Drive Eternal Navigation Ship）。
+    原是吉基的戰艦，請託艾爾茜遇到西奇後送給他。從原本是艾爾茜的「骷髏妖精號」，被女巫恢復成原本的模樣。翱翔於宇宙的漆黑之翼宇宙戰艦EDENS ZERO（以太驅動永恆導航艦，Ether Drive Eternal Navigation Ship）。
 
 #### 主要人物
 
@@ -27,8 +25,7 @@ ZERO**》（）是一部由日本漫畫家[真島浩所創作的科幻少年漫�
 <!-- end list -->
 
   -
-    來自艾克西德星的藍貓，蕾貝卡的夥伴。過去與同樣身為孤兒的蕾貝卡相依為命，但在出了車禍後則被瓦伊茲改造成機器；自身能變成以太雙槍供蕾貝卡使用。該角基於《[FAIRY
-    TAIL](https://zh.wikipedia.org/wiki/FAIRY_TAIL "wikilink")》中的同名角色。
+    來自艾克西德星的藍貓，蕾貝卡的夥伴。過去與同樣身為孤兒的蕾貝卡相依為命，但在出了車禍後則被瓦伊茲改造成機器；自身能變成以太雙槍供蕾貝卡使用。該角基於《[FAIRY TAIL](https://zh.wikipedia.org/wiki/FAIRY_TAIL "wikilink")》中的同名角色。
 
 <!-- end list -->
 
@@ -43,14 +40,12 @@ ZERO**》（）是一部由日本漫畫家[真島浩所創作的科幻少年漫�
 <!-- end list -->
 
   -
-    在B・CUBER事件中被瓦伊茲帶著前去解救。女武神的弟子，擁有女武神的以太齒輪「**靈魂之刃**」的以太劍，並解決多數羅格奧特傭兵團的成員。個性耿直，經常會把心裏話說出。搭上EDENS
-    ZERO為尋找女武神，且有意圖殺死魔王。
+    在B・CUBER事件中被瓦伊茲帶著前去解救。女武神的弟子，擁有女武神的以太齒輪「**靈魂之刃**」的以太劍，並解決多數羅格奧特傭兵團的成員。個性耿直，經常會把心裏話說出。搭上EDENS ZERO為尋找女武神，且有意圖殺死魔王。
 
 #### 魔王四煌星
 
   -
-    魔王四煌星之一，為**EDENS之盾**，任務是保護EDENS
-    ZERO這艘戰艦。魔王製造並受託管理戰艦的仿生人。額頭上有著「E4」的符號。甦醒後將指令全部轉移給西奇，並聽從他任何命令。
+    魔王四煌星之一，為**EDENS之盾**，任務是保護EDENS ZERO這艘戰艦。魔王製造並受託管理戰艦的仿生人。額頭上有著「E4」的符號。甦醒後將指令全部轉移給西奇，並聽從他任何命令。
     力量為管理及控制EDENS ZERO。
 
 <!-- end list -->
@@ -61,8 +56,7 @@ ZERO**》（）是一部由日本漫畫家[真島浩所創作的科幻少年漫�
 <!-- end list -->
 
   -
-    魔王四煌星之一，為**EDENS之心**。西奇等人經過鋼鐵之丘發現，但是只有軀殼而相當於人類心的部分毀損，進入「潛伏狀態」，而精神則在戴吉塔立斯中。原本是內心開朗的性格，但因過去被人類科學家們利用製造了武器（遭哄騙是能幫助機器人的裝置），無意毀滅了位在隔壁星球上的機器人而令其身心遭受巨大創傷，之後便決定開始不信任人類，跑到沒有人類居住只有程式NPC的假想行星沈思。之後回到EDENS
-    ZERO，一度在眾人面臨危機時不做任何事，但在蕾貝卡和西奇等人的話語下重新找回自我，開始修復船並將駭進系統的黑蜘蛛用煙火（被他以為是炸彈）給嚇倒，展現了孩子氣的一面。
+    魔王四煌星之一，為**EDENS之心**。西奇等人經過鋼鐵之丘發現，但是只有軀殼而相當於人類心的部分毀損，進入「潛伏狀態」，而精神則在戴吉塔立斯中。原本是內心開朗的性格，但因過去被人類科學家們利用製造了武器（遭哄騙是能幫助機器人的裝置），無意毀滅了位在隔壁星球上的機器人而令其身心遭受巨大創傷，之後便決定開始不信任人類，跑到沒有人類居住只有程式NPC的假想行星沈思。之後回到EDENS ZERO，一度在眾人面臨危機時不做任何事，但在蕾貝卡和西奇等人的話語下重新找回自我，開始修復船並將駭進系統的黑蜘蛛用煙火（被他以為是炸彈）給嚇倒，展現了孩子氣的一面。
     在編寫程式方面無出其右。
 
 <!-- end list -->
@@ -73,8 +67,7 @@ ZERO**》（）是一部由日本漫畫家[真島浩所創作的科幻少年漫�
 #### 其他成員
 
   -
-    前傭兵團羅格奧特一員，修女・伊芙莉的僕人，負責照料船。外貌有如相撲模樣，能利用推手起飛。原本跟著修女・伊芙莉行動，但被冒牌修女改造才成為傭兵團成員。肚子上有個DON'T
-    PUSH的按鈕鍵，但是想按卻會被修女制止，無法得知是什麼。問到自己是EDENS之什麼時，修女・伊芙莉則回答**EDENS之豬**，還很感動。
+    前傭兵團羅格奧特一員，修女・伊芙莉的僕人，負責照料船。外貌有如相撲模樣，能利用推手起飛。原本跟著修女・伊芙莉行動，但被冒牌修女改造才成為傭兵團成員。肚子上有個DON'T PUSH的按鈕鍵，但是想按卻會被修女制止，無法得知是什麼。問到自己是EDENS之什麼時，修女・伊芙莉則回答**EDENS之豬**，還很感動。
 
 ### 鎧之宇宙海賊
 
@@ -197,8 +190,7 @@ ZERO**》（）是一部由日本漫畫家[真島浩所創作的科幻少年漫�
 ### 其他人物
 
   -
-    格蘭貝爾王國的機器魔王，西奇已故的代理祖父，將從10年前帶到島上的西奇當作孫子般疼愛。曾搭著「EDENS
-    ZERO」想找MOTHER，但在旅程中找到西奇並帶回格蘭貝爾，並在回程時認識艾爾茜並且請託她以及告訴她「抵達MOTHER的人會再一次誕生」。
+    格蘭貝爾王國的機器魔王，西奇已故的代理祖父，將從10年前帶到島上的西奇當作孫子般疼愛。曾搭著「EDENS ZERO」想找MOTHER，但在旅程中找到西奇並帶回格蘭貝爾，並在回程時認識艾爾茜並且請託她以及告訴她「抵達MOTHER的人會再一次誕生」。
 
 <!-- end list -->
 
@@ -278,14 +270,9 @@ ZERO**》（）是一部由日本漫畫家[真島浩所創作的科幻少年漫�
 
 ## 發行
 
-在《[FAIRY
-TAIL](https://zh.wikipedia.org/wiki/FAIRY_TAIL "wikilink")》於2017年完結後，真島浩於2018年初在[Twitter上透露將於今年內推出新作](../Page/Twitter.md "wikilink")\[2\]。之後於5月中，真島浩在Twitter上釋出了新作女主角的人物設計圖\[3\]。真島浩在釋出包括男主角在內的主要角色群的宣傳圖後不久，官方於2018年5月25日，宣布他的新作《EDENS
-ZERO》將於2018年6月27日起在[週刊少年Magazine上連載](../Page/週刊少年Magazine.md "wikilink")，且第一話除了日文外還會同步推出英文、法文、中文、韓文與泰文版\[4\]\[5\]\[6\]\[7\]。
+在《[FAIRY TAIL](https://zh.wikipedia.org/wiki/FAIRY_TAIL "wikilink")》於2017年完結後，真島浩於2018年初在[Twitter](../Page/Twitter.md "wikilink")上透露將於今年內推出新作\[2\]。之後於5月中，真島浩在Twitter上釋出了新作女主角的人物設計圖\[3\]。真島浩在釋出包括男主角在內的主要角色群的宣傳圖後不久，官方於2018年5月25日，宣布他的新作《EDENS ZERO》將於2018年6月27日起在[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")上連載，且第一話除了日文外還會同步推出英文、法文、中文、韓文與泰文版\[4\]\[5\]\[6\]\[7\]。
 
-在中国大陆，其中文版于6月27日登陆腾讯动漫、网易漫画、快看漫画、爱奇艺漫画频道漫画平台上推出第一话免费观看，首话共81页，每周三更新。而在美國，[Kodansha
-Comics
-USA定在各大數位平台上發行該漫畫](../Page/Kodansha_Comics_USA.md "wikilink")，如、和[Amazon
-Kindle](https://zh.wikipedia.org/wiki/Amazon_Kindle "wikilink")\[8\]。
+在中国大陆，其中文版于6月27日登陆腾讯动漫、网易漫画、快看漫画、爱奇艺漫画频道漫画平台上推出第一话免费观看，首话共81页，每周三更新。而在美國，[Kodansha Comics USA定在各大數位平台上發行該漫畫](../Page/Kodansha_Comics_USA.md "wikilink")，如、和[Amazon Kindle](https://zh.wikipedia.org/wiki/Amazon_Kindle "wikilink")\[8\]。
 
 ## 出版書籍
 
@@ -340,18 +327,12 @@ Kindle](https://zh.wikipedia.org/wiki/Amazon_Kindle "wikilink")\[8\]。
 
 ## 外部連結
 
-  - [MagaPoke「EDENS
-    ZERO」連載網站](https://pocket.shonenmagazine.com/episode/10834108156631275048)
+  - [MagaPoke「EDENS ZERO」連載網站](https://pocket.shonenmagazine.com/episode/10834108156631275048)
 
   -
-  - [巴哈姆特電玩資訊站上的](../Page/巴哈姆特電玩資訊站.md "wikilink")[真島浩 作品集（FAIRY
-    TAIL魔導少年） 哈啦板](https://forum.gamer.com.tw/A.php?bsn=40114)
+  - [巴哈姆特電玩資訊站](../Page/巴哈姆特電玩資訊站.md "wikilink")上的[真島浩 作品集（FAIRY TAIL魔導少年） 哈啦板](https://forum.gamer.com.tw/A.php?bsn=40114)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:週刊少年Magazine連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine連載作品 "wikilink")
-[Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:週刊少年Magazine連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine連載作品 "wikilink") [Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink")
 
 1.
 2.

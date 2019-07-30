@@ -8,9 +8,7 @@ local p = {}
 
 end
 
-\-- Gets the Roman numerals for a given numeral table. Returns both the
-string of -- numerals and the value of the number after it is finished
-being processed. local function getLetters(num, t)
+\-- Gets the Roman numerals for a given numeral table. Returns both the string of -- numerals and the value of the number after it is finished being processed. local function getLetters(num, t)
 
 `   local ret = {}`
 `   for _, v in ipairs(t) do`

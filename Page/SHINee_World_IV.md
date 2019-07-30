@@ -1,5 +1,4 @@
-**SHINee World IV**
-是韩国男子团体[SHINee的第四次巡回演唱会](../Page/SHINee.md "wikilink")，本次巡回演唱会由2015年5月15日的[首爾場揭開序幕](../Page/首爾.md "wikilink")，将会於[亚洲等地方举行](../Page/亚洲.md "wikilink")。SHINee于本次演唱会中将演唱30首以上的歌曲，演唱会时长达到3小时30分钟或更长时间。\[1\]
+**SHINee World IV** 是韩国男子团体[SHINee](../Page/SHINee.md "wikilink")的第四次巡回演唱会，本次巡回演唱会由2015年5月15日的[首爾](../Page/首爾.md "wikilink")場揭開序幕，将会於[亚洲](../Page/亚洲.md "wikilink")等地方举行。SHINee于本次演唱会中将演唱30首以上的歌曲，演唱会时长达到3小时30分钟或更长时间。\[1\]
 
 ## 概述
 
@@ -9,18 +8,11 @@ SHINee所属公司SM公司于2015年3月25日公布了有关第二次世界巡�
 
 ### 首尔
 
-[SHINee于](../Page/SHINee.md "wikilink")5月15日至17日所举行的[首尔场](https://zh.wikipedia.org/wiki/首尔 "wikilink")「SHINee
-World IV」总共动员了42000名粉丝。SHINee于这次演唱会上公开了日文歌曲「Picasso」，「Your
-Number」等歌曲的韩文版，并在这次演唱会上演唱了初次公开了《Better
-Off》、《Runaway》等歌曲。于演唱会演唱了接近40首歌曲，演唱会时长约3小时33分钟。
+[SHINee](../Page/SHINee.md "wikilink")于5月15日至17日所举行的[首尔场](https://zh.wikipedia.org/wiki/首尔 "wikilink")「SHINee World IV」总共动员了42000名粉丝。SHINee于这次演唱会上公开了日文歌曲「Picasso」，「Your Number」等歌曲的韩文版，并在这次演唱会上演唱了初次公开了《Better Off》、《Runaway》等歌曲。于演唱会演唱了接近40首歌曲，演唱会时长约3小时33分钟。
 
 ### 台湾
 
-主辦單位于7月10日正式公布台湾演唱会的消息，在8月16日于新庄体育馆即将举行「SHINee World
-IV」台湾场，並在台灣場海外首度公開正規四輯Repackage主打曲《Married
-To The
-Music》。此外，這場演唱會成員[珉豪因先前於慈善籃球賽扭傷腳踝](../Page/珉豪.md "wikilink")，部分舞蹈歌曲不參與舞蹈表演，但仍忍痛參與了兩首主打曲《View》及《Married
-To The Music》及安可曲《Replay》等多首歌曲的舞蹈表演。
+主辦單位于7月10日正式公布台湾演唱会的消息，在8月16日于新庄体育馆即将举行「SHINee World IV」台湾场，並在台灣場海外首度公開正規四輯Repackage主打曲《Married To The Music》。此外，這場演唱會成員[珉豪](../Page/珉豪.md "wikilink")因先前於慈善籃球賽扭傷腳踝，部分舞蹈歌曲不參與舞蹈表演，但仍忍痛參與了兩首主打曲《View》及《Married To The Music》及安可曲《Replay》等多首歌曲的舞蹈表演。
 
 ## 日程與曲目
 
@@ -37,11 +29,9 @@ To The Music》及安可曲《Replay》等多首歌曲的舞蹈表演。
 
 ## 外界链接
 
-  - [SM Entertainment – Official
-    website](https://web.archive.org/web/20060424164456/http://www.smtown.com/)
+  - [SM Entertainment – Official website](https://web.archive.org/web/20060424164456/http://www.smtown.com/)
   - [Shinee – Official South Korean website](http://shinee.smtown.com)
 
-[Category:SHINee](https://zh.wikipedia.org/wiki/Category:SHINee "wikilink")
-[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
+[Category:SHINee](https://zh.wikipedia.org/wiki/Category:SHINee "wikilink") [Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
 
 1.

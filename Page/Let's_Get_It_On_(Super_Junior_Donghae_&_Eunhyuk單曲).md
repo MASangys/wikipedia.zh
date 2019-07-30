@@ -1,8 +1,4 @@
-《**Let's Get It
-On**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[Super
-Junior的子組合](../Page/Super_Junior.md "wikilink")[Super Junior Donghae &
-Eunhyuk第四張日語單曲](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")。2015年9月30日由[Avex
-trax發售](../Page/Avex_trax.md "wikilink")。\[1\]\[2\]
+《**Let's Get It On**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[Super Junior的子組合](../Page/Super_Junior.md "wikilink")[Super Junior Donghae & Eunhyuk第四張日語單曲](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")。2015年9月30日由[Avex trax發售](../Page/Avex_trax.md "wikilink")。\[1\]\[2\]
 
 ## 曲目
 
@@ -55,13 +51,9 @@ trax發售](../Page/Avex_trax.md "wikilink")。\[1\]\[2\]
 
 ## 外部連結
 
-  - [Super Junior Donghae & Eunhyuk
-    日本官方網站](http://superjunior-jp.net/de/)
+  - [Super Junior Donghae & Eunhyuk 日本官方網站](http://superjunior-jp.net/de/)
 
-[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
-[Category:Super_Junior_Donghae_&_Eunhyuk音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior_Donghae_&_Eunhyuk音樂專輯 "wikilink")
-[Category:舞蹈題材歌曲](https://zh.wikipedia.org/wiki/Category:舞蹈題材歌曲 "wikilink")
+[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink") [Category:Super_Junior_Donghae_&_Eunhyuk音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior_Donghae_&_Eunhyuk音樂專輯 "wikilink") [Category:舞蹈題材歌曲](https://zh.wikipedia.org/wiki/Category:舞蹈題材歌曲 "wikilink")
 
 1.
 2.

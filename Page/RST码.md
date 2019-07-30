@@ -1,5 +1,4 @@
-**RST码**是一种常用于描述[业余无线电接收质量的方法](../Page/业余无线电.md "wikilink")，最早由Arthur W.
-Braaten于1934年提出，经修改后于1938年被写入[国际电信联盟](../Page/国际电信联盟.md "wikilink")（ITU）《无线电规则》。R、S、T三个字母分别代表可辨度（**R**eadability）、信号强度（**S**trength）和音调（**T**one）。
+**RST码**是一种常用于描述[业余无线电](../Page/业余无线电.md "wikilink")接收质量的方法，最早由Arthur W. Braaten于1934年提出，经修改后于1938年被写入[国际电信联盟](../Page/国际电信联盟.md "wikilink")（ITU）《无线电规则》。R、S、T三个字母分别代表可辨度（**R**eadability）、信号强度（**S**trength）和音调（**T**one）。
 
 ## 历史
 
@@ -15,8 +14,7 @@ Braaten于1934年提出，经修改后于1938年被写入[国际电信联盟](..
 
 然而这种表示方法无法描述传输中的某些因素（如干扰、噪音），为此引入了可辨度代码“R”，从最差到最优分别用数字1-9描述，但这种方法与原有的QSA码中描述信号可辨度的部分重叠，使用时可能造成混乱。
 
-1934年，[美国业余无线电爱好者Arthur](../Page/美国.md "wikilink") W.
-Braaten（[呼号W](../Page/业余无线电台呼号.md "wikilink")2BSR）在《QST》杂志上提出了一种使用“RST”三个字母描述业余无线电接收质量的方法。在Braaten提出的方案中，可辨度“R”从最差到最优分别用数字1-5描述，信号强度“S”从最弱到最强也是1-5，音调“T”从弱到强为1-9\[1\]。这一方案经过修改，被写入1936年（ARRL）的手册中，并于1938年被写入ITU《无线电规则》中。
+1934年，[美国](../Page/美国.md "wikilink")业余无线电爱好者Arthur W. Braaten（[呼号W](../Page/业余无线电台呼号.md "wikilink")2BSR）在《QST》杂志上提出了一种使用“RST”三个字母描述业余无线电接收质量的方法。在Braaten提出的方案中，可辨度“R”从最差到最优分别用数字1-5描述，信号强度“S”从最弱到最强也是1-5，音调“T”从弱到强为1-9\[1\]。这一方案经过修改，被写入1936年（ARRL）的手册中，并于1938年被写入ITU《无线电规则》中。
 
 ## 含义
 
@@ -50,7 +48,7 @@ Braaten（[呼号W](../Page/业余无线电台呼号.md "wikilink")2BSR）在《
 
 ### 音调
 
-音调“T”（Tone）用于描述信号质量，每一级差代表接收到的信号功率相差6[dB](https://zh.wikipedia.org/wiki/分贝 "wikilink")。该项只用于[电报和电传](../Page/电报.md "wikilink")，语音通联不使用\[4\]\[5\]。具体描述如下\[6\]：
+音调“T”（Tone）用于描述信号质量，每一级差代表接收到的信号功率相差6[dB](https://zh.wikipedia.org/wiki/分贝 "wikilink")。该项只用于[电报](../Page/电报.md "wikilink")和电传，语音通联不使用\[4\]\[5\]。具体描述如下\[6\]：
 
 | T | 说明                  |
 | - | ------------------- |
@@ -84,9 +82,7 @@ Braaten（[呼号W](../Page/业余无线电台呼号.md "wikilink")2BSR）在《
 
 3.
 4.
-5.  The beginner's handbook of amateur radio by Clay Laster, Page 379,
-    McGraw-Hill Professional, 2000, ISBN 0-07-136187-1, ISBN
-    978-0-07-136187-3
+5.  The beginner's handbook of amateur radio by Clay Laster, Page 379, McGraw-Hill Professional, 2000, ISBN 0-07-136187-1, ISBN 978-0-07-136187-3
 
 6.
 

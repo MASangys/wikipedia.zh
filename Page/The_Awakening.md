@@ -1,28 +1,20 @@
-《**The
-Awakening**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND的第四張迷你專輯](../Page/GFRIEND.md "wikilink")，由[Source
-Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，於2017年3月6日推出，共有6首歌曲，主打歌為《FINGERTIP》。
+《**The Awakening**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的第四張迷你專輯，由[Source Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，於2017年3月6日推出，共有6首歌曲，主打歌為《FINGERTIP》。
 
 ## 事件
 
 ### 宣傳照、預告片公開
 
-2月23日，[Source
-Music宣佈](https://zh.wikipedia.org/wiki/Source_Music "wikilink")[GFRIEND將於](../Page/GFRIEND.md "wikilink")3月6日發行第四張迷你專輯《The
-Awakening》\[1\]\[2\]\[3\]。
+2月23日，[Source Music宣佈](https://zh.wikipedia.org/wiki/Source_Music "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")將於3月6日發行第四張迷你專輯《The Awakening》\[1\]\[2\]\[3\]。
 
-2月27日，於韓國時間0時在官方Instagram公佈此次新專輯的預告照，並於官方[YouTube頻道上發佈了](../Page/YouTube.md "wikilink")[回歸預告](https://www.youtube.com/watch?v=7VEM2eExtp8)。公開的視頻中，GFRIEND成員們穿著黑色制服登場，面無表情化身為女戰士，展現了Girl
-Crush。背景的電音吉他伴奏讓整體氣氛顯得更加緊張，與GFRIEND過去的風格完全大不同，令人期待GFRIEND的反轉魅力。\[4\]
+2月27日，於韓國時間0時在官方Instagram公佈此次新專輯的預告照，並於官方[YouTube](../Page/YouTube.md "wikilink")頻道上發佈了[回歸預告](https://www.youtube.com/watch?v=7VEM2eExtp8)。公開的視頻中，GFRIEND成員們穿著黑色制服登場，面無表情化身為女戰士，展現了Girl Crush。背景的電音吉他伴奏讓整體氣氛顯得更加緊張，與GFRIEND過去的風格完全大不同，令人期待GFRIEND的反轉魅力。\[4\]
 
-2月29日，於韓國時間0時在官方YouTube頻道上發佈了[MV預告](https://www.youtube.com/watch?v=zi5thOdPSIA)。顛覆出道以來一直維持的清純風格，大膽走向制服系，有點女戰士的氣勢。經紀公司表示：「GFRIEND的新造型是代表進取型少女的新軍裝風（New
-Military Look），展現Girl Crush的魅力。」\[5\]
+2月29日，於韓國時間0時在官方YouTube頻道上發佈了[MV預告](https://www.youtube.com/watch?v=zi5thOdPSIA)。顛覆出道以來一直維持的清純風格，大膽走向制服系，有點女戰士的氣勢。經紀公司表示：「GFRIEND的新造型是代表進取型少女的新軍裝風（New Military Look），展現Girl Crush的魅力。」\[5\]
 
 再於3月1日公開[專輯預告](https://www.youtube.com/watch?v=-sZcpKulM5E)。
 
 ### 獲得2個一位
 
-3月14日於《[THE
-SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》中以8,235分獲得**一位**。
-4月11日再於《THE SHOW》中以7,858分獲得**一位**。
+3月14日於《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》中以8,235分獲得**一位**。 4月11日再於《THE SHOW》中以7,858分獲得**一位**。
 
 ## 曲目
 
@@ -91,16 +83,10 @@ SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》中以8,235分獲得**
 ## 外部連結
 
   -
-[Category:GFRIEND](https://zh.wikipedia.org/wiki/Category:GFRIEND "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:GFRIEND音乐专辑](https://zh.wikipedia.org/wiki/Category:GFRIEND音乐专辑 "wikilink")
-[Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink")
-[Category:2017年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon數位下載週榜冠軍作品 "wikilink")
-[Category:2017年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:GFRIEND](https://zh.wikipedia.org/wiki/Category:GFRIEND "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:GFRIEND音乐专辑](https://zh.wikipedia.org/wiki/Category:GFRIEND音乐专辑 "wikilink") [Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink") [Category:2017年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2017年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.
 3.
-4.  [回歸新曲《FINGERTIP》MV
-    TEASER與專輯團體預告照同步公開](http://www.koreastardaily.com/tc/news/91584)
+4.  [回歸新曲《FINGERTIP》MV TEASER與專輯團體預告照同步公開](http://www.koreastardaily.com/tc/news/91584)
 5.  [GFRIEND新歌預告片公開](http://www.koreastardaily.com/tc/news/91730)

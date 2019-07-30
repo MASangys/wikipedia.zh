@@ -1,13 +1,8 @@
-**BLUE
-WATER**（）是[日本女性](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[森川美穗個人總計第](../Page/森川美穗.md "wikilink")12張單曲。1990年4月25日由[東芝EMI](../Page/EMI音樂日本.md "wikilink")（現已併入改名[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")
-[EMI唱片日本](../Page/環球音樂_\(日本\).md "wikilink")）發行。此外這裡也記述2007年重製版本的「BLUE
-WATER (21st century ver.)」。
+**BLUE WATER**（）是[日本](../Page/日本.md "wikilink")女性[歌手](../Page/歌手.md "wikilink")[森川美穗](../Page/森川美穗.md "wikilink")個人總計第12張單曲。1990年4月25日由[東芝EMI](../Page/EMI音樂日本.md "wikilink")（現已併入改名[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink") [EMI唱片日本](../Page/環球音樂_\(日本\).md "wikilink")）發行。此外這裡也記述2007年重製版本的「BLUE WATER (21st century ver.)」。
 
 ## 解說
 
-《BLUE
-WATER》是[NHK](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[海底兩萬哩](../Page/冒險少女娜汀亞.md "wikilink")》採用的片頭主題曲，同時B面歌曲「Yes,
-I Will…」也跟著被該動畫選為片尾主題曲使用。
+《BLUE WATER》是[NHK](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[海底兩萬哩](../Page/冒險少女娜汀亞.md "wikilink")》採用的片頭主題曲，同時B面歌曲「Yes, I Will…」也跟著被該動畫選為片尾主題曲使用。
 
 《BLUE WATER》在1990年代初期除了以8cm單曲CD發售之外，還有錄製在卡式錄音帶（規格編號：TOST-2500）限量發行。
 
@@ -26,16 +21,11 @@ I Will…」也跟著被該動畫選為片尾主題曲使用。
 
 ## 21st century ver.
 
-《**BLUE WATER (21st century
-ver.)**》（）是日本女性歌手森川美穗個人總計第31張單曲。2007年2月21日由發行。單曲收錄了後來經過重新錄製及重新編曲的重新混音、仍有保留1990年發行單曲內容的樂曲「BLUE
-WATER (21st century ver.)」、「Yes,I Will… (21st century ver.)」。其中「Yes,I
-Will… (21st century
-ver.)」則以[BPM的敘事曲調錄製](../Page/速度_\(音樂\).md "wikilink")。
+《**BLUE WATER (21st century ver.)**》（）是日本女性歌手森川美穗個人總計第31張單曲。2007年2月21日由發行。單曲收錄了後來經過重新錄製及重新編曲的重新混音、仍有保留1990年發行單曲內容的樂曲「BLUE WATER (21st century ver.)」、「Yes,I Will… (21st century ver.)」。其中「Yes,I Will… (21st century ver.)」則以[BPM的敘事曲調錄製](../Page/速度_\(音樂\).md "wikilink")。
 
 ### 21st century ver. 收錄歌曲
 
-1.  **BLUE WATER (21st century ver.)**（**<small> (21st century
-    ver.)</small>**）
+1.  **BLUE WATER (21st century ver.)**（**<small> (21st century ver.)</small>**）
       -
         編曲：
 2.  **Yes,I Will… (21st century ver.)**
@@ -44,8 +34,7 @@ ver.)」則以[BPM的敘事曲調錄製](../Page/速度_\(音樂\).md "wikilink"
 3.  **忘…**（新曲）
       -
         作詞：森川美穗，作曲：，編曲：
-4.  **BLUE WATER (DJ Dr.Knob Remix)**（**<small> (DJ Dr.Knob
-    Remix)</small>**）
+4.  **BLUE WATER (DJ Dr.Knob Remix)**（**<small> (DJ Dr.Knob Remix)</small>**）
       -
         編曲：西脇辰彌
 5.  **Yes！I will… (DJ Nao Remix)**
@@ -153,6 +142,4 @@ ver.)」則以[BPM的敘事曲調錄製](../Page/速度_\(音樂\).md "wikilink"
 </tbody>
 </table>
 
-[Category:森川美穗歌曲](https://zh.wikipedia.org/wiki/Category:森川美穗歌曲 "wikilink")
-[Category:1990年單曲](https://zh.wikipedia.org/wiki/Category:1990年單曲 "wikilink")
-[Category:NHK動畫主題曲](https://zh.wikipedia.org/wiki/Category:NHK動畫主題曲 "wikilink")
+[Category:森川美穗歌曲](https://zh.wikipedia.org/wiki/Category:森川美穗歌曲 "wikilink") [Category:1990年單曲](https://zh.wikipedia.org/wiki/Category:1990年單曲 "wikilink") [Category:NHK動畫主題曲](https://zh.wikipedia.org/wiki/Category:NHK動畫主題曲 "wikilink")

@@ -95,8 +95,7 @@ function p._main(args)
 `           :css('font-size', 'small')`
 `           :css('text-align', 'center')`
 `           :css('font-weight', 'bold')`
-`           :wikitext('`[`-{zh-cn:快捷方式;``
- ``zh-tw:捷徑;}-`](https://zh.wikipedia.org/wiki/Wikipedia:捷徑 "wikilink")`：')`
+`           :wikitext('`[`-{zh-cn:快捷方式;``   ``zh-tw:捷徑;}-`](https://zh.wikipedia.org/wiki/Wikipedia:捷徑 "wikilink")`：')`
 `           :wikitext('[['_.._args[1]_.._'|' .. args[1] .. ']]')`
 `   end`
 
@@ -154,8 +153,7 @@ function p._main(args)
 `       :attr('cellspacing', '0')`
 `       :css('width', '100%')`
 `       :tag('tr')      `
-`   columnZero:tag('td'):wikitext('`[`-{zh-cn:主页;``
- ``zh-tw:首頁}-`](https://zh.wikipedia.org/wiki/Wikipedia:'_.._args.project_.._' "wikilink")`')`
+`   columnZero:tag('td'):wikitext('`[`-{zh-cn:主页;``   ``zh-tw:首頁}-`](https://zh.wikipedia.org/wiki/Wikipedia:'_.._args.project_.._' "wikilink")`')`
 `   columnZero:tag('td'):css('width', '20%'):wikitext('`[`讨论`](https://zh.wikipedia.org/wiki/Wikipedia_talk:'_.._args.project_.._' "wikilink")`')`
 `   `
 `   for i = 65, 74 do`
@@ -200,8 +198,7 @@ function p._main(args)
 `       :addClass('plainlinks')`
 `       :css('font-size', '95%')`
 `       :css('margin', 'auto')`
-`   bottom:tag('li'):wikitext('`[`-{zh-cn:查看;``
- ``zh-tw:檢視}-`](https://zh.wikipedia.org/wiki/Wikipedia:'_.._args.link_.._' "wikilink")`')`
+`   bottom:tag('li'):wikitext('`[`-{zh-cn:查看;``   ``zh-tw:檢視}-`](https://zh.wikipedia.org/wiki/Wikipedia:'_.._args.link_.._' "wikilink")`')`
 `   bottom:tag('li'):wikitext('`[`讨论`](https://zh.wikipedia.org/wiki/Wikipedia_talk:'_.._args.link_.._' "wikilink")`')`
 `   bottom:tag('li')`
 `       :wikitext('[')`

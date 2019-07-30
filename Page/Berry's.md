@@ -57,12 +57,7 @@
 
   - [官方網站](http://www.cuffs-sphere.jp/products/berrys/)
 
-[Category:2013年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2013年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:餐館背景作品](https://zh.wikipedia.org/wiki/Category:餐館背景作品 "wikilink")
-[Category:CUFFS](https://zh.wikipedia.org/wiki/Category:CUFFS "wikilink")
+[Category:2013年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2013年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:餐館背景作品](https://zh.wikipedia.org/wiki/Category:餐館背景作品 "wikilink") [Category:CUFFS](https://zh.wikipedia.org/wiki/Category:CUFFS "wikilink")
 
 1.
 2.

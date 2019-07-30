@@ -1,4 +1,4 @@
-**门德基卡库文**是一個位於第一輔助平面的[Unicode區段](../Page/Unicode區段.md "wikilink")，收錄了穆罕默德·图拉依和他的学生，发明的，描述[门德语的](../Page/门德语.md "wikilink")（门德语：𞠀𞠁𞠂/Kikaku，[Ki-ka-ku.png](https://zh.wikipedia.org/wiki/File:Ki-ka-ku.png "fig:Ki-ka-ku.png")）。
+**门德基卡库文**是一個位於第一輔助平面的[Unicode區段](../Page/Unicode區段.md "wikilink")，收錄了穆罕默德·图拉依和他的学生，发明的，描述[门德语](../Page/门德语.md "wikilink")的（门德语：𞠀𞠁𞠂/Kikaku，[Ki-ka-ku.png](https://zh.wikipedia.org/wiki/File:Ki-ka-ku.png "fig:Ki-ka-ku.png")）。
 
 ## 历史
 

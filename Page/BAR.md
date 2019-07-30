@@ -27,8 +27,7 @@
   -
   - ，報紙，英文Bay Area Reporter之縮寫
 
-  - [圣经考古学评论](https://zh.wikipedia.org/wiki/圣经考古学评论 "wikilink")，刊物，英語Biblical
-    Archaeology Review之縮寫
+  - [圣经考古学评论](https://zh.wikipedia.org/wiki/圣经考古学评论 "wikilink")，刊物，英語Biblical Archaeology Review之縮寫
 
   - ，英語British Archaeological Reports之縮寫
 
@@ -37,8 +36,7 @@
   -
   - [巴尔](https://zh.wikipedia.org/wiki/巴尔 "wikilink")
 
-      - [巴爾區
-        (蒙特內哥羅)](https://zh.wikipedia.org/wiki/巴爾區_\(蒙特內哥羅\) "wikilink")
+      - [巴爾區 (蒙特內哥羅)](https://zh.wikipedia.org/wiki/巴爾區_\(蒙特內哥羅\) "wikilink")
 
   - [巴爾 (烏克蘭)](https://zh.wikipedia.org/wiki/巴爾_\(烏克蘭\) "wikilink")
 
@@ -76,8 +74,7 @@
 
 ## 武器
 
-  - [白朗寧自動步槍](../Page/白朗寧自動步槍.md "wikilink")，英文Browning Automatic
-    Rifle之縮寫，通稱BAR
+  - [白朗寧自動步槍](../Page/白朗寧自動步槍.md "wikilink")，英文Browning Automatic Rifle之縮寫，通稱BAR
 
 ## 人物
 

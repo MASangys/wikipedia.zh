@@ -1,13 +1,10 @@
-下表比较了[HTML对一些](../Page/HTML.md "wikilink")[排版引擎的支持与兼容性](../Page/排版引擎.md "wikilink")。请参阅各个产品的条目获得更多信息。除非脚注中另有规定，比较均基于稳定版本，无任何附加组件、扩展或外部程序。
+下表比较了[HTML](../Page/HTML.md "wikilink")对一些[排版引擎](../Page/排版引擎.md "wikilink")的支持与兼容性。请参阅各个产品的条目获得更多信息。除非脚注中另有规定，比较均基于稳定版本，无任何附加组件、扩展或外部程序。
 
-本条目只考虑HTML 4与用于`text/html`的[XHTML](../Page/XHTML.md "wikilink")
-1.0（所谓“HTML兼容”XHTML） 。欲了解更多XHTML相关的比较，请参见[排版引擎比较
-(XHTML)](../Page/排版引擎比较_\(XHTML\).md "wikilink")。
+本条目只考虑HTML 4与用于`text/html`的[XHTML](../Page/XHTML.md "wikilink") 1.0（所谓“HTML兼容”XHTML） 。欲了解更多XHTML相关的比较，请参见[排版引擎比较 (XHTML)](../Page/排版引擎比较_\(XHTML\).md "wikilink")。
 
 如给出了版本号，则说明自该版本起完全支持该特性（基于HTML 4.01）。专有扩展不包括在内。
 
-[W3C不再推荐使用的标签](https://zh.wikipedia.org/wiki/W3C "wikilink")、属性和专有标签在[排版引擎比较
-(非标准HTML)中进行了比较](../Page/排版引擎比较_\(非标准HTML\).md "wikilink")。
+[W3C不再推荐使用的标签](https://zh.wikipedia.org/wiki/W3C "wikilink")、属性和专有标签在[排版引擎比较 (非标准HTML)中进行了比较](../Page/排版引擎比较_\(非标准HTML\).md "wikilink")。
 
 ## 全局结构元素
 
@@ -814,8 +811,7 @@
 
 ## 框架元素
 
-框架元素可将文档呈现于多个视图中，可以是独立窗口或子窗口。框架排版只能用于框架集配置中。所有框架在XHTML
-1.1中均不可用（使用通用的对象元素代替内联框架）。
+框架元素可将文档呈现于多个视图中，可以是独立窗口或子窗口。框架排版只能用于框架集配置中。所有框架在XHTML 1.1中均不可用（使用通用的对象元素代替内联框架）。
 
 <table>
 <thead>
@@ -1397,16 +1393,12 @@
 
   - [HTML5test](http://html5test.com/)——测试各大浏览器对HTML5的支持程度。
 
-  - [Mozilla Developer
-    Network上面的HTML相关资料](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  - [Mozilla Developer Network上面的HTML相关资料](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-[Category:HTML](https://zh.wikipedia.org/wiki/Category:HTML "wikilink")
-[Category:排版引擎比较](https://zh.wikipedia.org/wiki/Category:排版引擎比较 "wikilink")
+[Category:HTML](https://zh.wikipedia.org/wiki/Category:HTML "wikilink") [Category:排版引擎比较](https://zh.wikipedia.org/wiki/Category:排版引擎比较 "wikilink")
 
 1.
 2.
-3.   button object (Internet
-    Explorer)|url=[http://msdn.microsoft.com/en-us/library/ms535211|publisher=Microsoft|accessdate=29](http://msdn.microsoft.com/en-us/library/ms535211%7Cpublisher=Microsoft%7Caccessdate=29)
-    November 2012}}
+3.   button object (Internet Explorer)|url=[http://msdn.microsoft.com/en-us/library/ms535211|publisher=Microsoft|accessdate=29](http://msdn.microsoft.com/en-us/library/ms535211%7Cpublisher=Microsoft%7Caccessdate=29) November 2012}}
 4.
 5.

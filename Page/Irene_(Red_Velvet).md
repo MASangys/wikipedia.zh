@@ -1,50 +1,30 @@
-[SMTOWN](https://zh.wikipedia.org/wiki/SMTOWN "wikilink") |IMDb =9364486
-}}
+[SMTOWN](https://zh.wikipedia.org/wiki/SMTOWN "wikilink") |IMDb =9364486 }}
 
-**裴柱現**（；），藝名**Irene**（，），出生于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[大邱市](https://zh.wikipedia.org/wiki/大邱市 "wikilink")，[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娛樂旗下的五人女子組合](../Page/SM娛樂.md "wikilink")[Red
-Velvet的成員兼隊長](../Page/Red_Velvet.md "wikilink")。
+**裴柱現**（；），藝名**Irene**（，），出生于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[大邱市](https://zh.wikipedia.org/wiki/大邱市 "wikilink")，[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娛樂](../Page/SM娛樂.md "wikilink")旗下的五人女子組合[Red Velvet的成員兼隊長](../Page/Red_Velvet.md "wikilink")。
 
 ## 個人生活
 
-**裴柱現**於1991年3月29日出生於[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[大邱廣域市北區](../Page/大邱廣域市.md "wikilink")（原
-大邱直轄市）\[1\]，曾畢業于仁智初等学校、雲巖中學校、大邱鶴南高中。小學時當過[播音員](../Page/播音員.md "wikilink")。
+**裴柱現**於1991年3月29日出生於[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[大邱廣域市](../Page/大邱廣域市.md "wikilink")北區（原 大邱直轄市）\[1\]，曾畢業于仁智初等学校、雲巖中學校、大邱鶴南高中。小學時當過[播音員](../Page/播音員.md "wikilink")。
 
 ## 簡歷
 
 ### 出道前
 
-**裴柱現**於2009年被[SM娛樂發掘](../Page/SM娛樂.md "wikilink")，為大邱臉讚，擅長演戲、Rap和現代舞蹈。\[2\]
+**裴柱現**於2009年被[SM娛樂](../Page/SM娛樂.md "wikilink")發掘，為大邱臉讚，擅長演戲、Rap和現代舞蹈。\[2\]
 
-2013年4月25日，SM娛樂旗下團體[SHINee推出第三張正規專輯Chapter](../Page/SHINee.md "wikilink")
-2《[Why So Serious? - The Misconceptions Of
-Me](../Page/Why_So_Serious?_-_The_Misconceptions_Of_Me.md "wikilink")》發表回歸。其中**裴柱現**出演并擔任此音樂錄影帶《Why
-So Serious?
-》的女主角。\[3\]8月21日，SM娛樂旗下個人歌手[Henry發表首張數位單曲](../Page/劉憲華.md "wikilink")《1-4-3
-(I Love You)》，**裴柱現**再次出演MV。\[4\]12月3日，SM娛樂發佈新企劃“SM ROOKIES”。
+2013年4月25日，SM娛樂旗下團體[SHINee](../Page/SHINee.md "wikilink")推出第三張正規專輯Chapter 2《[Why So Serious? - The Misconceptions Of Me](../Page/Why_So_Serious?_-_The_Misconceptions_Of_Me.md "wikilink")》發表回歸。其中**裴柱現**出演并擔任此音樂錄影帶《Why So Serious? 》的女主角。\[3\]8月21日，SM娛樂旗下個人歌手[Henry發表首張數位單曲](../Page/劉憲華.md "wikilink")《1-4-3 (I Love You)》，**裴柱現**再次出演MV。\[4\]12月3日，SM娛樂發佈新企劃“SM ROOKIES”。
 
-預備出道練習生會透過SM ROOKIES正式公開，沒有被SM ROOKIES公開的練習生會以傳統方式出道。\[5\]12月10日，SM
-ROOKIES再次公開第二批成員，**裴柱現**和LAMI。\[6\]
+預備出道練習生會透過SM ROOKIES正式公開，沒有被SM ROOKIES公開的練習生會以傳統方式出道。\[5\]12月10日，SM ROOKIES再次公開第二批成員，**裴柱現**和LAMI。\[6\]
 
 ### 出道後
 
-2014年8月1日，以藝名**IRENE**作爲[Red
-Velvet的一員出道](../Page/Red_Velvet.md "wikilink")，擔當隊長。11月，參演[Super
-Junior前輩](../Page/Super_Junior.md "wikilink")[圭賢](../Page/圭賢.md "wikilink")《在光化門（At
-Gwanghwamun）》的音樂錄影帶。
+2014年8月1日，以藝名**IRENE**作爲[Red Velvet的一員出道](../Page/Red_Velvet.md "wikilink")，擔當隊長。11月，參演[Super Junior前輩](../Page/Super_Junior.md "wikilink")[圭賢](../Page/圭賢.md "wikilink")《在光化門（At Gwanghwamun）》的音樂錄影帶。
 
-2015年5月1日，與[朴寶劍初次搭檔為](../Page/朴寶劍.md "wikilink")[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Music
-Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》的第31代MC，為首次個人主持之作。\[7\]
+2015年5月1日，與[朴寶劍](../Page/朴寶劍.md "wikilink")初次搭檔為[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》的第31代MC，為首次個人主持之作。\[7\]
 
-2016年6月24日，與[朴寶劍從](../Page/朴寶劍.md "wikilink")《[Music
-Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》中下車。\[8\]7月25日，參與演出網絡劇《[遊戲公司的女職員們](../Page/遊戲公司的女職員們.md "wikilink")》，飾演雅凜（Ahreum），以本名**裴柱現**正式作爲演員出道。\[9\]10月29日，主持《Laundry
-Day》。\[10\]12月24日，與朴寶劍再次搭檔為《[KBS演藝大賞](../Page/KBS演藝大獎.md "wikilink")》的頒獎嘉賓。
+2016年6月24日，與[朴寶劍](../Page/朴寶劍.md "wikilink")從《[Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》中下車。\[8\]7月25日，參與演出網絡劇《[遊戲公司的女職員們](../Page/遊戲公司的女職員們.md "wikilink")》，飾演雅凜（Ahreum），以本名**裴柱現**正式作爲演員出道。\[9\]10月29日，主持《Laundry Day》。\[10\]12月24日，與朴寶劍再次搭檔為《[KBS演藝大賞](../Page/KBS演藝大獎.md "wikilink")》的頒獎嘉賓。
 
-2017年8月4日，担任[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Music
-Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》的“Music Bank
-World Tour in
-Singapore”的MC。\[11\]9月2日，擔任[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Music
-Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》的“Music Bank
-World Tour in Jakarta”的MC。\[12\]
+2017年8月4日，担任[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》的“Music Bank World Tour in Singapore”的MC。\[11\]9月2日，擔任[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》的“Music Bank World Tour in Jakarta”的MC。\[12\]
 
 2019年3月5日，由MiuMiu官方宣布首次邀請韓國女藝人前往2019巴黎時尚周。
 
@@ -55,8 +35,7 @@ World Tour in Jakarta”的MC。\[12\]
 ## 音樂作品
 
   -
-    <small>所屬團體之共同作品，請參閱 [Red
-    Velvet音樂作品列表](https://zh.wikipedia.org/wiki/Red_Velvet音樂作品列表 "wikilink")</small>
+    <small>所屬團體之共同作品，請參閱 [Red Velvet音樂作品列表](https://zh.wikipedia.org/wiki/Red_Velvet音樂作品列表 "wikilink")</small>
 
 ## 影視作品
 
@@ -215,7 +194,7 @@ SR14G</p></td>
 | ---------------------- | ----------------------------------------------------- | ------------------------------------------------------- | ---------------- |
 | **放送日期**               | **電視臺**                                               | **節目名稱**                                                | **備註**           |
 | 2015年4月17日             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | 《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》 | 與Seulgi擔任待機室特別MC |
-| 2015年5月1日 ─ 2016年6月24日 | 與[朴寶劍为固定MC](../Page/朴寶劍.md "wikilink")                |                                                         |                  |
+| 2015年5月1日 ─ 2016年6月24日 | 與[朴寶劍](../Page/朴寶劍.md "wikilink")为固定MC                |                                                         |                  |
 
 ### 活動/頒獎典禮
 
@@ -379,8 +358,7 @@ SR14G</p></td>
 ## 個人代言
 
   -
-    <small>——團體代言請參閱 [Red
-    Velvet](../Page/Red_Velvet.md "wikilink")</small>
+    <small>——團體代言請參閱 [Red Velvet](../Page/Red_Velvet.md "wikilink")</small>
 
 ### 品牌代言
 
@@ -389,8 +367,8 @@ SR14G</p></td>
 | **年份**        | **品牌名稱**                                                     | **合作藝人**                         |
 | 2013          | [Burberry](../Page/巴寶莉.md "wikilink") Heritage Trench \[18\] | —                                |
 | 2014          | Ivy Club \[19\]                                              | [EXO](../Page/EXO.md "wikilink") |
-| 2017 — 至今     | NUOVO                                                        | —                                |
-| Colombiana    | —                                                            |                                  |
+| 2017 — 2019   | NUOVO                                                        | —                                |
+| 2017 — 至今     | Colombiana                                                   | —                                |
 | 2018 — 至今     | HAZZYS ACCESSORIES                                           | —                                |
 | Cooper Vision | —                                                            |                                  |
 | Lemona        | —                                                            |                                  |
@@ -448,21 +426,13 @@ SR14G</p></td>
 
   - [Red Velvet的V Live頻道](http://channels.vlive.tv/DCF447)
 
-[Category:Red_Velvet成員](https://zh.wikipedia.org/wiki/Category:Red_Velvet成員 "wikilink")
-[Category:1991年出生](https://zh.wikipedia.org/wiki/Category:1991年出生 "wikilink")
-[Category:大邱廣域市出身人物](https://zh.wikipedia.org/wiki/Category:大邱廣域市出身人物 "wikilink")
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:韓國電視主持人](https://zh.wikipedia.org/wiki/Category:韓國電視主持人 "wikilink")
-[Category:裴姓](https://zh.wikipedia.org/wiki/Category:裴姓 "wikilink")
-[Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")
+[Category:Red_Velvet成員](https://zh.wikipedia.org/wiki/Category:Red_Velvet成員 "wikilink") [Category:1991年出生](https://zh.wikipedia.org/wiki/Category:1991年出生 "wikilink") [Category:大邱廣域市出身人物](https://zh.wikipedia.org/wiki/Category:大邱廣域市出身人物 "wikilink") [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國電視主持人](https://zh.wikipedia.org/wiki/Category:韓國電視主持人 "wikilink") [Category:裴姓](https://zh.wikipedia.org/wiki/Category:裴姓 "wikilink") [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")
 
 1.  [大邱直轄市自](../Page/大邱廣域市.md "wikilink")1995年起升格為[廣域市](https://zh.wikipedia.org/wiki/廣域市 "wikilink")。
 2.
 3.
 4.
-5.  [SM娛樂預告將推出新的團體「SMROOKIES」圭賢曾提及的瑟琪也在內](http://www.koreastardaily.com/tc/news/35070)2013/12/03
-    - 韓星網的Hebe 報導
+5.  [SM娛樂預告將推出新的團體「SMROOKIES」圭賢曾提及的瑟琪也在內](http://www.koreastardaily.com/tc/news/35070)2013/12/03 - 韓星網的Hebe 報導
 6.
 7.
 8.

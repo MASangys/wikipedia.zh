@@ -1,17 +1,11 @@
-《**Master
-Key**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS的綜藝節目](https://zh.wikipedia.org/wiki/SBS "wikilink")\[1\]\[2\]，由[李壽根](../Page/李壽根.md "wikilink")、[全炫茂等人共同出演](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")\[3\]\[4\]。經每輪遊戲的提示，尋找出Master
-Key的擁有者，並於遊戲最後投票，答對者即可獲勝。[Wanna
-One成員](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")[姜丹尼爾](../Page/姜丹尼爾.md "wikilink")、[邕聖祐則從第四集開始加入成為](https://zh.wikipedia.org/wiki/邕聖祐 "wikilink")《Master
-Key》的固定成員\[5\]。該節目原本預定為12集，后改爲13集並于2018年1月6日播出最后一集。\[6\]
+《**Master Key**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS的綜藝節目](https://zh.wikipedia.org/wiki/SBS "wikilink")\[1\]\[2\]，由[李壽根](../Page/李壽根.md "wikilink")、[全炫茂等人共同出演](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")\[3\]\[4\]。經每輪遊戲的提示，尋找出Master Key的擁有者，並於遊戲最後投票，答對者即可獲勝。[Wanna One成員](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")[姜丹尼爾](../Page/姜丹尼爾.md "wikilink")、[邕聖祐則從第四集開始加入成為](https://zh.wikipedia.org/wiki/邕聖祐 "wikilink")《Master Key》的固定成員\[5\]。該節目原本預定為12集，后改爲13集並于2018年1月6日播出最后一集。\[6\]
 
 ## 遊戲進行方式
 
 **第一集—第三集**
 
 1.  嘉賓於指定場所尋找鑰匙（一人限制僅能一把），之後持此鑰匙進入「命運之房」。
-2.  在「命運之房」中，各自將所找到的鑰匙放上判定台判定是否為真正的Master Key（真正的Master
-    Key最後可以開啟寶箱取得獎金），全部有兩把鑰匙是真正的Master
-    Key；而其他參賽者只能藉由表情來猜測誰持有真正的Master Key。
+2.  在「命運之房」中，各自將所找到的鑰匙放上判定台判定是否為真正的Master Key（真正的Master Key最後可以開啟寶箱取得獎金），全部有兩把鑰匙是真正的Master Key；而其他參賽者只能藉由表情來猜測誰持有真正的Master Key。
 3.  進入更衣室，換上不同顏色的隊服（總共分成兩隊）。
 4.  進入「探索之房」後先將鑰匙依照隊伍給予製作組保管。
 5.  製作組將公布事前觀眾投票第一名的參賽者，此參賽者可獲得黃金機會券且可自由選擇使用時機。
@@ -21,8 +15,7 @@ Key》的固定成員\[5\]。該節目原本預定為12集，后改爲13集並�
 
 **第四集—第九集**
 
-1.  全員在入口拿著有自己名字的壓克力板進入命運之房，依個人喜好隨機選擇一個判定台(台上有Master Key)。其中有一位的Master
-    Key是天使，另一位是惡魔，其餘皆為普通的Master Key。
+1.  全員在入口拿著有自己名字的壓克力板進入命運之房，依個人喜好隨機選擇一個判定台(台上有Master Key)。其中有一位的Master Key是天使，另一位是惡魔，其餘皆為普通的Master Key。
 2.  透過遊戲所獲得的提示，找出天使Master Key的持有者並投票。
 3.  若票數最高的人為天使，並打開寶箱，則投票給天使的人和天使自己獲勝，均可獲得寶箱的獎金(扣除天使的票，有幾人投票給天使，獲勝的每個人就可以分得票數總額的獎金)。
 4.  若是最高票為惡魔Master Key且打開寶箱，魔鬼獲勝。根據投票人數，翻倍的獎金為惡魔一個人獨吞。
@@ -33,8 +26,7 @@ Key》的固定成員\[5\]。該節目原本預定為12集，后改爲13集並�
 **第十集—**
 
 1.  所有嘉賓為一組，於規定時間內到達指定地點可獲得機會卷。
-2.  Master
-    Key被鎖在箱子裡，打開箱子需要2把鑰匙。為了找到鑰匙，要在數輛Master車中完成任務及獲得可以打開箱子的真鑰匙，其中只有2把是真的，其餘都是假的。
+2.  Master Key被鎖在箱子裡，打開箱子需要2把鑰匙。為了找到鑰匙，要在數輛Master車中完成任務及獲得可以打開箱子的真鑰匙，其中只有2把是真的，其餘都是假的。
 3.  打開箱子後有六把Master Key，淘汰一人後所有人隨機分配Master Key，其中只有一把為真正Master Key。
 4.  於任務地點尋找箱子，若可以打開兩個箱子即為真的Master Key。
 5.  最終用Master Key打開Master箱子的人獲勝（Master箱子在被淘汰者手裡）。
@@ -71,7 +63,7 @@ Key》的固定成員\[5\]。該節目原本預定為12集，后改爲13集並�
 <td><p>1</p></td>
 <td><p>10月14日</p></td>
 <td><p><span style="color:#FF0000"><strong>紅隊</strong></span>：<br />
-<a href="../Page/李壽根.md" title="wikilink">李壽根</a>、、<a href="../Page/趙寶兒.md" title="wikilink">趙寶兒</a>、<a href="../Page/振永.md" title="wikilink">振永</a> (<a href="../Page/B1A4.md" title="wikilink">B1A4</a>)、<a href="../Page/伯賢.md" title="wikilink">伯賢</a> (<a href="../Page/EXO.md" title="wikilink">EXO</a>)、<a href="../Page/姜丹尼爾.md" title="wikilink">姜丹尼爾</a> (<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>) <strong>黑隊</strong>：<br />
+<a href="../Page/李壽根.md" title="wikilink">李壽根</a>、<a href="../Page/朴聖光.md" title="wikilink">朴聖光</a>、<a href="../Page/趙寶兒.md" title="wikilink">趙寶兒</a>、<a href="../Page/振永.md" title="wikilink">振永</a> (<a href="../Page/B1A4.md" title="wikilink">B1A4</a>)、<a href="../Page/伯賢.md" title="wikilink">伯賢</a> (<a href="../Page/EXO.md" title="wikilink">EXO</a>)、<a href="../Page/姜丹尼爾.md" title="wikilink">姜丹尼爾</a> (<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>) <strong>黑隊</strong>：<br />
 <a href="https://zh.wikipedia.org/wiki/全炫茂" title="wikilink">全炫茂</a>、<a href="../Page/劉憲華.md" title="wikilink">HENRY</a>、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>、<a href="../Page/車銀優.md" title="wikilink">車銀優</a> (<a href="https://zh.wikipedia.org/wiki/ASTRO" title="wikilink">ASTRO</a>)、<a href="https://zh.wikipedia.org/wiki/邕聖祐" title="wikilink">邕聖祐</a> (<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>)、<a href="../Page/姜漢娜.md" title="wikilink">姜漢娜</a></p></td>
 <td><p><small>HENRY、車銀優</small></p></td>
 <td><p><small><span style=color:#FF0000><strong>紅隊</strong></span>獲勝</small></p></td>
@@ -256,7 +248,7 @@ Key》的固定成員\[5\]。該節目原本預定為12集，后改爲13集並�
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>12月16日</p></td>
-<td><p><a href="../Page/李壽根.md" title="wikilink">李壽根</a>、<a href="https://zh.wikipedia.org/wiki/全炫茂" title="wikilink">全炫茂</a>、<a href="../Page/姜丹尼爾.md" title="wikilink">姜丹尼爾</a>、<a href="https://zh.wikipedia.org/wiki/邕聖祐" title="wikilink">邕聖祐</a> (<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>)、<a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">Key</a> (<a href="../Page/SHINee.md" title="wikilink">SHINee</a>)、、<a href="../Page/孔升妍.md" title="wikilink">孔升妍</a></p></td>
+<td><p><a href="../Page/李壽根.md" title="wikilink">李壽根</a>、<a href="https://zh.wikipedia.org/wiki/全炫茂" title="wikilink">全炫茂</a>、<a href="../Page/姜丹尼爾.md" title="wikilink">姜丹尼爾</a>、<a href="https://zh.wikipedia.org/wiki/邕聖祐" title="wikilink">邕聖祐</a> (<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>)、<a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">Key</a> (<a href="../Page/SHINee.md" title="wikilink">SHINee</a>)、<a href="../Page/朴聖光.md" title="wikilink">朴聖光</a>、<a href="../Page/孔升妍.md" title="wikilink">孔升妍</a></p></td>
 <td><p><a href="../Page/孔升妍.md" title="wikilink">孔升妍</a></p></td>
 <td><p><a href="../Page/李壽根.md" title="wikilink">李壽根</a></p></td>
 <td><p><strong>李壽根</strong>獲勝</p></td>
@@ -425,9 +417,7 @@ Key》的固定成員\[5\]。該節目原本預定為12集，后改爲13集並�
   -
   -
   -
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
 
 1.
 2.

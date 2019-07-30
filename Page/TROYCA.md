@@ -1,12 +1,10 @@
 **TROYCA**是一家動畫企劃與製作以及相關業務為主的日本公司。社名來自俄文「」（三人行），有三位創始人將為了共同的理想而奮鬥之意。
 
-2013年5月，由[AIC
-Classic的製作人長野敏之](../Page/動畫國際公司.md "wikilink")、攝影監督加藤友宜帶領一部分成員離開，聯同早年結束合作的[青木英監督成立TROYCA](../Page/青木英.md "wikilink")。
+2013年5月，由[AIC Classic的製作人長野敏之](../Page/動畫國際公司.md "wikilink")、攝影監督加藤友宜帶領一部分成員離開，聯同早年結束合作的[青木英](../Page/青木英.md "wikilink")監督成立TROYCA。
 
 ## 作品列表
 
-2014年10月，與[A-1
-Pictures合作的首部作品](../Page/A-1_Pictures.md "wikilink")，原創電視動畫《[ALDNOAH.ZERO](../Page/ALDNOAH.ZERO.md "wikilink")》開始播放。
+2014年10月，與[A-1 Pictures合作的首部作品](../Page/A-1_Pictures.md "wikilink")，原創電視動畫《[ALDNOAH.ZERO](../Page/ALDNOAH.ZERO.md "wikilink")》開始播放。
 
 2015年10月，首部獨立主導製作的動畫《櫻子小姐的腳下埋着屍體》開始播放。
 
@@ -80,7 +78,7 @@ Pictures合作的首部作品](../Page/A-1_Pictures.md "wikilink")，原創電�
 <td><p><a href="../Page/艾梅洛閣下II世事件簿.md" title="wikilink">艾梅洛閣下II世事件簿<br />
 -魔眼蒐集列車 Grace note-</a></p></td>
 <td></td>
-<td><p>7月－預定</p></td>
+<td><p>7月6日－播放中</p></td>
 <td><p>加藤誠</p></td>
 <td><p>輕小說</p></td>
 <td></td>
@@ -147,9 +145,6 @@ Pictures合作的首部作品](../Page/A-1_Pictures.md "wikilink")，原創電�
 
   - [官方網站](http://troyca.jp/)
 
-[Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:練馬區公司](https://zh.wikipedia.org/wiki/Category:練馬區公司 "wikilink")
-[Category:2013年日本建立](https://zh.wikipedia.org/wiki/Category:2013年日本建立 "wikilink")
+[Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:練馬區公司](https://zh.wikipedia.org/wiki/Category:練馬區公司 "wikilink") [Category:2013年日本建立](https://zh.wikipedia.org/wiki/Category:2013年日本建立 "wikilink")
 
 1.

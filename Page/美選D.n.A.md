@@ -1,22 +1,14 @@
-《**美選D.n.A**》（**The Queen of
-D.n.A**）是[香港電視娛樂製作的](../Page/香港電視娛樂.md "wikilink")[真人騷選美節目](https://zh.wikipedia.org/wiki/真人騷 "wikilink")，是香港電視史上第一個實況選美節目。
+《**美選D.n.A**》（**The Queen of D.n.A**）是[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的[真人騷選美節目](https://zh.wikipedia.org/wiki/真人騷 "wikilink")，是香港電視史上第一個實況選美節目。
 
 節目名「D」和「A」分別代表[魔鬼](../Page/魔鬼.md "wikilink")（devil）同[天使](../Page/天使.md "wikilink")（angel）。參賽者無條件及背景限制，就算有[紋身](https://zh.wikipedia.org/wiki/紋身 "wikilink")、已婚，都可以參選。
 
-本節目在2016年5月至6月公開招募參賽者，7月公佈20強佳麗名單。節目頭四集分別在2016年9月25日至10月16日逢星期日22:30-23:30在[ViuTV播映](../Page/ViuTV.md "wikilink")，由二十強入面選出十二強；11月19日22:45-23:45及11月20日至11月27日逢星期六及日22:30-23:30播映，由十二強入面選出十強其中八強；12月3日星期六22:30-23:30播出復活賽選出另外兩強；十強會遠赴海外受訓，天使組去日本，魔鬼組去泰國，12月4日至12月11日逢星期六及日22:30-00:00播出海外受訓過程兼選出最後八強。
+本節目在2016年5月至6月公開招募參賽者，7月公佈20強佳麗名單。節目頭四集分別在2016年9月25日至10月16日逢星期日22:30-23:30在[ViuTV](../Page/ViuTV.md "wikilink")播映，由二十強入面選出十二強；11月19日22:45-23:45及11月20日至11月27日逢星期六及日22:30-23:30播映，由十二強入面選出十強其中八強；12月3日星期六22:30-23:30播出復活賽選出另外兩強；十強會遠赴海外受訓，天使組去日本，魔鬼組去泰國，12月4日至12月11日逢星期六及日22:30-00:00播出海外受訓過程兼選出最後八強。
 
 2016年8月30日至9月12日期間的娛樂新聞節目《[十五分鐘熱度](https://zh.wikipedia.org/wiki/十五分鐘熱度 "wikilink")》由候選佳麗主持，作為培訓用途，每集由兩位佳麗分別以devil及angel角度主持節目。
 
 ## 決賽
 
-《美選D.n.A 決賽》在12月18日星期日晚20:30分舉行，該節目作現場直播，同全港觀眾一齊見證Queen of
-D.n.A誕生。當晚精彩環節包括八強ladies穿著華麗服飾parade、「不完美
-最美」才藝表演、Dance
-Battle跳舞環節以及由兒童發問問答環節等等。當晚評判陣容鼎盛，當中包括主席評判[譚詠麟](../Page/譚詠麟.md "wikilink")、評判[田北俊](../Page/田北俊.md "wikilink")、[雷頌德](../Page/雷頌德.md "wikilink")、[丁子高](../Page/丁子高.md "wikilink")、[劉美君](../Page/劉美君.md "wikilink")、[周汶錡](../Page/周汶錡.md "wikilink")，以及三位評判暨主持[郭偉亮](../Page/郭偉亮.md "wikilink")、[方力申](../Page/方力申.md "wikilink")、[火火](../Page/火火.md "wikilink")，小司儀有馮皓揚、梅浩霆及韓正謙，大會司儀有[駱振偉](../Page/駱振偉.md "wikilink")、[黃心美及](../Page/黃心美.md "wikilink")[薛國斌](https://zh.wikipedia.org/wiki/薛國斌 "wikilink")，另外表演嘉賓有[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")、[林耀聲及三位](../Page/林耀聲.md "wikilink")[Miss
-Tiffany's Universe佳麗](../Page/蒂芬妮環球小姐.md "wikilink")[Nhong
-Kangsadal](https://zh.wikipedia.org/wiki/Nhong_Kangsadal "wikilink")、[Mercury
-Belle及](https://zh.wikipedia.org/wiki/Mercury_Belle "wikilink")[Mo
-Jiratchaya](https://zh.wikipedia.org/wiki/Mo_Jiratchaya "wikilink")。
+《美選D.n.A 決賽》在12月18日星期日晚20:30分舉行，該節目作現場直播，同全港觀眾一齊見證Queen of D.n.A誕生。當晚精彩環節包括八強ladies穿著華麗服飾parade、「不完美 最美」才藝表演、Dance Battle跳舞環節以及由兒童發問問答環節等等。當晚評判陣容鼎盛，當中包括主席評判[譚詠麟](../Page/譚詠麟.md "wikilink")、評判[田北俊](../Page/田北俊.md "wikilink")、[雷頌德](../Page/雷頌德.md "wikilink")、[丁子高](../Page/丁子高.md "wikilink")、[劉美君](../Page/劉美君.md "wikilink")、[周汶錡](../Page/周汶錡.md "wikilink")，以及三位評判暨主持[郭偉亮](../Page/郭偉亮.md "wikilink")、[方力申](../Page/方力申.md "wikilink")、[火火](../Page/火火.md "wikilink")，小司儀有馮皓揚、梅浩霆及韓正謙，大會司儀有[駱振偉](../Page/駱振偉.md "wikilink")、[黃心美](../Page/黃心美.md "wikilink")及[薛國斌](https://zh.wikipedia.org/wiki/薛國斌 "wikilink")，另外表演嘉賓有[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")、[林耀聲](../Page/林耀聲.md "wikilink")及三位[Miss Tiffany's Universe佳麗](../Page/蒂芬妮環球小姐.md "wikilink")[Nhong Kangsadal](https://zh.wikipedia.org/wiki/Nhong_Kangsadal "wikilink")、[Mercury Belle及](https://zh.wikipedia.org/wiki/Mercury_Belle "wikilink")[Mo Jiratchaya](https://zh.wikipedia.org/wiki/Mo_Jiratchaya "wikilink")。
 
 ## 結果
 
@@ -314,8 +306,7 @@ Jiratchaya](https://zh.wikipedia.org/wiki/Mo_Jiratchaya "wikilink")。
 ## 參考
 
   - [《美選D.n.A》二十強出爐　人妻、紋身女最搶鏡](https://eweekly.hk/article/_title/%E7%BE%8E%E9%81%B8DnA%E4%BA%8C%E5%8D%81%E5%BC%B7%E5%87%BA%E7%88%90_%E4%BA%BA%E5%A6%BB%E7%B4%8B%E8%BA%AB%E5%A5%B3%E6%9C%80%E6%90%B6%E9%8F%A1)
-  - [二十強見面會
-    人妻人母整容紋身女齊齊入圍](http://hk.apple.nextmedia.com/enews/realtime/20160707/55327922)
+  - [二十強見面會 人妻人母整容紋身女齊齊入圍](http://hk.apple.nextmedia.com/enews/realtime/20160707/55327922)
   - [ViuTV選美　陳意嵐余逸思齊齊入二十強](http://hk.on.cc/hk/bkn/cnt/entertainment/20160707/bkn-20160707170626048-0707_00862_001.html)
   - [ViuTv《美選D.n.A》二十強起底\!真人跟相片有差\!?](http://ent.fanpiece.com/purestalker/viutv-%E7%BE%8E%E9%81%B8d-n-a-%E4%BA%8C%E5%8D%81%E5%BC%B7%E8%B5%B7%E5%BA%95-%E7%9C%9F%E4%BA%BA%E8%B7%9F%E7%9B%B8%E7%89%87%E6%9C%89%E5%B7%AE-c1235092.html)
 

@@ -1,8 +1,8 @@
-**有限公司銀Production**（，）是以[演員](../Page/演員.md "wikilink")、[聲優經紀為主要業務的](../Page/聲優.md "wikilink")[日本](../Page/日本.md "wikilink")[演藝事務所（聲優事務所）](../Page/經紀公司.md "wikilink")。成立於1997年。簡稱「**銀Pro**（<small></small>）」。
+**有限公司銀Production**（，）是以[演員](../Page/演員.md "wikilink")、[聲優](../Page/聲優.md "wikilink")經紀為主要業務的[日本](../Page/日本.md "wikilink")[演藝事務所（聲優事務所）](../Page/經紀公司.md "wikilink")。成立於1997年。簡稱「**銀Pro**（<small></small>）」。
 
 ## 概要
 
-有限公司銀Production的前身是「**劇團銀Production**」。1992年4月，由[青二Production出身的](../Page/青二製作.md "wikilink")[聲優](../Page/聲優.md "wikilink")[松尾銀三自行就任](../Page/松尾銀三.md "wikilink")[執行董事](https://zh.wikipedia.org/wiki/執行董事 "wikilink")，與同樣為聲優的，在[東京都](../Page/東京都.md "wikilink")[世田谷區](../Page/世田谷區.md "wikilink")[代田成立](../Page/代田_\(世田谷區\).md "wikilink")。1997年登記成為現在的有限公司。2001年松尾因病去世，由世田接任至今\[1\]。
+有限公司銀Production的前身是「**劇團銀Production**」。1992年4月，由[青二Production出身的](../Page/青二製作.md "wikilink")[聲優](../Page/聲優.md "wikilink")[松尾銀三](../Page/松尾銀三.md "wikilink")自行就任[執行董事](https://zh.wikipedia.org/wiki/執行董事 "wikilink")，與同樣為聲優的，在[東京都](../Page/東京都.md "wikilink")[世田谷區](../Page/世田谷區.md "wikilink")[代田成立](../Page/代田_\(世田谷區\).md "wikilink")。1997年登記成為現在的有限公司。2001年松尾因病去世，由世田接任至今\[1\]。
 
 ## 所属演員、聲優
 
@@ -182,8 +182,7 @@
 
 ### 男性
 
-  - [大竹宏](../Page/大竹宏.md "wikilink")（現所屬：[81
-    Produce](../Page/81_Produce.md "wikilink")）
+  - [大竹宏](../Page/大竹宏.md "wikilink")（現所屬：[81 Produce](../Page/81_Produce.md "wikilink")）
 
   - [金光宣明](../Page/金光宣明.md "wikilink")（現所屬：81 Produce）
 
@@ -243,8 +242,6 @@
 
   - [有限公司銀Production公式官網](http://www.gin-pro.jp/)
 
-[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink")
-[Category:世田谷區公司](https://zh.wikipedia.org/wiki/Category:世田谷區公司 "wikilink")
-[Category:1997年成立的公司](https://zh.wikipedia.org/wiki/Category:1997年成立的公司 "wikilink")
+[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink") [Category:世田谷區公司](https://zh.wikipedia.org/wiki/Category:世田谷區公司 "wikilink") [Category:1997年成立的公司](https://zh.wikipedia.org/wiki/Category:1997年成立的公司 "wikilink")
 
 1.

@@ -1165,7 +1165,7 @@
 <tr class="odd">
 <td><p>2017年5月15日</p></td>
 <td><p>Eye Eye Eyes</p></td>
-<td><p>《<a href="../Page/SIGNAL.md" title="wikilink">SIGNAL</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/SIGNAL_(TWICE迷你專輯)" title="wikilink">SIGNAL</a>》</p></td>
 <td><p>志效、彩瑛</p></td>
 <td></td>
 </tr>
@@ -1322,8 +1322,7 @@
 
   - 參考資料
 
-[Category:TWICE](https://zh.wikipedia.org/wiki/Category:TWICE "wikilink")
-[Category:韩国音乐作品列表](https://zh.wikipedia.org/wiki/Category:韩国音乐作品列表 "wikilink")
+[Category:TWICE](https://zh.wikipedia.org/wiki/Category:TWICE "wikilink") [Category:韩国音乐作品列表](https://zh.wikipedia.org/wiki/Category:韩国音乐作品列表 "wikilink")
 
 1.
 

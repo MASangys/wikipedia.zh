@@ -1,16 +1,12 @@
-**Asada
-Nikki**\[1\]（，），[日本女性](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。出身於[島根縣](https://zh.wikipedia.org/wiki/島根縣 "wikilink")\[2\]。A型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[3\]。[自畫像是粉紅色的兔子](https://zh.wikipedia.org/wiki/自畫像 "wikilink")\[4\]\[5\]。
+**Asada Nikki**\[1\]（，），[日本](../Page/日本.md "wikilink")女性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。出身於[島根縣](https://zh.wikipedia.org/wiki/島根縣 "wikilink")\[2\]。A型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[3\]。[自畫像是粉紅色的兔子](https://zh.wikipedia.org/wiki/自畫像 "wikilink")\[4\]\[5\]。
 
 ## 來歷
 
-2000年（平成12年）左右，於一般小型遊戲公司在電腦網路上架設的插畫網站（現已經關閉\[6\]）開始積極投稿[4格漫畫和雜誌插圖](../Page/四格漫畫.md "wikilink")\[7\]。之後投入[同人創作活動](https://zh.wikipedia.org/wiki/同人 "wikilink")，在4格漫畫商業雜誌正式出道\[8\]。由於Asada她自己無法將正職與同人兩方面同時兼顧，而選擇了暫時停止商業活動，回到同人業界\[9\]。於同人創作期間多次發表了以[棒球漫畫為主的](../Page/王牌投手_振臂高揮.md "wikilink")[二次創作](../Page/二次創作.md "wikilink")，並在大型[同人誌即賣會](../Page/同人誌即賣會.md "wikilink")「[Comic
-Market](../Page/Comic_Market.md "wikilink")」出展\[10\]。
+2000年（平成12年）左右，於一般小型遊戲公司在電腦網路上架設的插畫網站（現已經關閉\[6\]）開始積極投稿[4格漫畫和雜誌插圖](../Page/四格漫畫.md "wikilink")\[7\]。之後投入[同人創作活動](https://zh.wikipedia.org/wiki/同人 "wikilink")，在4格漫畫商業雜誌正式出道\[8\]。由於Asada她自己無法將正職與同人兩方面同時兼顧，而選擇了暫時停止商業活動，回到同人業界\[9\]。於同人創作期間多次發表了以[棒球漫畫為主的](../Page/王牌投手_振臂高揮.md "wikilink")[二次創作](../Page/二次創作.md "wikilink")，並在大型[同人誌即賣會](../Page/同人誌即賣會.md "wikilink")「[Comic Market](../Page/Comic_Market.md "wikilink")」出展\[10\]。
 
-2008年左右，以短篇作品於商業雜誌復出\[11\]。2010年，以「新世代殘念愛情喜劇（<small></small>）\[12\]」為題材在《》（[秋田書店](../Page/秋田書店.md "wikilink")）進行短期連載全3回的《青春澀女俱樂部》，之後同名作品正式連載化至今\[13\]。同時，獲得曾翻閱過同名作品的漫畫編輯的支持，開始連載以「輕鬆推理喜劇（<small></small>）\[14\]」為主題的作品《名偵探社此後立即出動！》、及Asada以她自己的出身地為故事舞台和「有緣結神的存在（<small></small>）\[15\]」為主題的戀愛漫畫《領航的星星》\[16\]，3部作品後來都在2013年4月由[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、秋田書店、[角川書店三家大型出版社共同主辦的展覽活動中實施同步發行](../Page/角川書店.md "wikilink")\[17\]。
+2008年左右，以短篇作品於商業雜誌復出\[11\]。2010年，以「新世代殘念愛情喜劇（<small></small>）\[12\]」為題材在《》（[秋田書店](../Page/秋田書店.md "wikilink")）進行短期連載全3回的《青春澀女俱樂部》，之後同名作品正式連載化至今\[13\]。同時，獲得曾翻閱過同名作品的漫畫編輯的支持，開始連載以「輕鬆推理喜劇（<small></small>）\[14\]」為主題的作品《名偵探社此後立即出動！》、及Asada以她自己的出身地為故事舞台和「有緣結神的存在（<small></small>）\[15\]」為主題的戀愛漫畫《領航的星星》\[16\]，3部作品後來都在2013年4月由[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、秋田書店、[角川書店](../Page/角川書店.md "wikilink")三家大型出版社共同主辦的展覽活動中實施同步發行\[17\]。
 
-另外，2013年曾經投稿大量的同人創作寄至[秋田書店舉辦的](../Page/秋田書店.md "wikilink")『[飆速宅男公式同人選集](../Page/飆速宅男.md "wikilink")
-放學後的弱蟲』和『[手塚治虫](../Page/手塚治虫.md "wikilink")「[怪醫黑傑克](../Page/怪醫黑傑克.md "wikilink")」誕生40週年紀念！[皮諾可Tribute](../Page/皮諾可.md "wikilink")
-真不敢相信！』的活動。
+另外，2013年曾經投稿大量的同人創作寄至[秋田書店](../Page/秋田書店.md "wikilink")舉辦的『[飆速宅男](../Page/飆速宅男.md "wikilink")公式同人選集 放學後的弱蟲』和『[手塚治虫](../Page/手塚治虫.md "wikilink")「[怪醫黑傑克](../Page/怪醫黑傑克.md "wikilink")」誕生40週年紀念！[皮諾可](../Page/皮諾可.md "wikilink")Tribute 真不敢相信！』的活動。
 
 ## 作品列表
 
@@ -103,7 +99,7 @@ Market](../Page/Comic_Market.md "wikilink")」出展\[10\]。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/花澤香菜.md" title="wikilink">花澤香菜執筆</a>「或是假名」的漫畫發表</p></td>
+<td><p><a href="../Page/花澤香菜.md" title="wikilink">花澤香菜</a>執筆「或是假名」的漫畫發表</p></td>
 <td><p>《<a href="../Page/Newtype_(雜誌).md" title="wikilink">月刊Newtype</a>》2012年7月號－<strong>連載中</strong></p></td>
 <td><p>角川書店</p></td>
 <td><p>未刊行</p></td>
@@ -114,7 +110,7 @@ Market](../Page/Comic_Market.md "wikilink")」出展\[10\]。
 （）</p></td>
 <td><p>《月刊Princess》7月號[21]</p></td>
 <td><p>秋田書店</p></td>
-<td><p>漫畫選集【<a href="../Page/皮諾可.md" title="wikilink">皮諾可Tribute</a> 真不敢相信！】</p></td>
+<td><p>漫畫選集【<a href="../Page/皮諾可.md" title="wikilink">皮諾可</a>Tribute 真不敢相信！】</p></td>
 <td><p>短篇作品</p></td>
 </tr>
 <tr class="even">
@@ -580,27 +576,17 @@ Market](../Page/Comic_Market.md "wikilink")」出展\[10\]。
 
   -
 
-  - [第13回 Asada
-    Nikki老師的個人專訪【青春澀女俱樂部】](https://web.archive.org/web/20160317030324/http://tokyomangalab.com/interviews/nikki-asada/)
-    －Tokyo Mangalab的獨家專訪。
+  - [第13回 Asada Nikki老師的個人專訪【青春澀女俱樂部】](https://web.archive.org/web/20160317030324/http://tokyomangalab.com/interviews/nikki-asada/) －Tokyo Mangalab的獨家專訪。
 
-  - [BE·LOVE｜特殊官網｜講談社Comic
-    Plus](https://web.archive.org/web/20130724032323/http://kc.kodansha.co.jp/magazine/special_detail.php/02766/7113)
-    －由[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、[秋田書店](../Page/秋田書店.md "wikilink")、[角川書店三家大型出版社共同特別設立的官方網站](../Page/角川書店.md "wikilink")。
+  - [BE·LOVE｜特殊官網｜講談社Comic Plus](https://web.archive.org/web/20130724032323/http://kc.kodansha.co.jp/magazine/special_detail.php/02766/7113) －由[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、[秋田書店](../Page/秋田書店.md "wikilink")、[角川書店](../Page/角川書店.md "wikilink")三家大型出版社共同特別設立的官方網站。
 
-  - [「或是假名」×「絕園的暴風雨」共同合作的4格漫畫特集](http://anime.webnt.jp/report/view/2972)
-    －由角川書店架設的官方企畫網站。
+  - [「或是假名」×「絕園的暴風雨」共同合作的4格漫畫特集](http://anime.webnt.jp/report/view/2972) －由角川書店架設的官方企畫網站。
 
-  - [「絕園的暴風雨」×「或是假名」共同合作的4格漫畫特集](http://www.zetsuen.net/news/index.html?p=6)
-    －由電視動畫《[絕園的暴風雨](../Page/絕園的暴風雨.md "wikilink")》架設的官方企畫網站。
+  - [「絕園的暴風雨」×「或是假名」共同合作的4格漫畫特集](http://www.zetsuen.net/news/index.html?p=6) －由電視動畫《[絕園的暴風雨](../Page/絕園的暴風雨.md "wikilink")》架設的官方企畫網站。
 
-  - [部活男子×戀](http://marun.manmar.jp/pc/series/bukatsu_danshi/index.php)
-    －Web comic magazine marun的企畫網站。
+  - [部活男子×戀](http://marun.manmar.jp/pc/series/bukatsu_danshi/index.php) －Web comic magazine marun的企畫網站。
 
-[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink")
-[Category:島根縣出身人物](https://zh.wikipedia.org/wiki/Category:島根縣出身人物 "wikilink")
-[Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:島根縣出身人物](https://zh.wikipedia.org/wiki/Category:島根縣出身人物 "wikilink") [Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.  台灣代理目前沒有中文正式譯名。
 
@@ -610,9 +596,7 @@ Market](../Page/Comic_Market.md "wikilink")」出展\[10\]。
 
 5.  單行本《領航的星星》第1冊書衣折頁作者的話。
 
-6.  Tokyo Mangalab「Asada Nikki老師的個人獨家專訪」。[第13回 Asada
-    Nikki老師的個人專訪【青春澀女俱樂部】](http://tokyomangalab.com/interviews/nikki-asada)
-
+6.  Tokyo Mangalab「Asada Nikki老師的個人獨家專訪」。[第13回 Asada Nikki老師的個人專訪【青春澀女俱樂部】](http://tokyomangalab.com/interviews/nikki-asada)
 
 7.
 8.
@@ -627,9 +611,7 @@ Market](../Page/Comic_Market.md "wikilink")」出展\[10\]。
 15. 單行本《領航的星星》第1冊（裏表紙）的介紹文。
 
 16.
-17. 由講談社、秋田書店、角川書店三家大型出版社共同特別設立的官方網站。[BE·LOVE｜特殊官網｜講談社Comic
-    Plus](http://kc.kodansha.co.jp/magazine/special_detail.php/02766/7113)
-
+17. 由講談社、秋田書店、角川書店三家大型出版社共同特別設立的官方網站。[BE·LOVE｜特殊官網｜講談社Comic Plus](http://kc.kodansha.co.jp/magazine/special_detail.php/02766/7113)
 
 18.
 19.

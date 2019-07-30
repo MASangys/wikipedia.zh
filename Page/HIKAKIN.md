@@ -1,14 +1,10 @@
 **HIKAKIN**（，）是日本的男性[YouTuber](../Page/YouTuber.md "wikilink")、遊戲實況主、Beatboxer、演員。\[1\]\[2\]也是YouTuber經紀人公司UUUM的創辦人兼最高顾问。\[3\]血型是O型。\[4\]
 
-截至2017年8月，他的四個YouTube频道的總訂閱者已超過1000万人，總播放次數高達69億次，是日本合計訂閱者數目最高的YouTuber。他的YouTube主頻道HikakinTV訂閱數位居全日本第二，僅次於另一位YouTuber
-[Hajime社長](../Page/Hajime社長.md "wikilink") 。\[5\]
+截至2017年8月，他的四個YouTube频道的總訂閱者已超過1000万人，總播放次數高達69億次，是日本合計訂閱者數目最高的YouTuber。他的YouTube主頻道HikakinTV訂閱數位居全日本第二，僅次於另一位YouTuber [Hajime社長](../Page/Hajime社長.md "wikilink") 。\[5\]
 
 ## 来历
 
-HIKAKIN是一个日本的Youtube名人，以及日本公司UUUM的联合创始人。他的视频[Super Mario
-Bros](https://zh.wikipedia.org/wiki/Super_Mario_Bros.:_The_Lost_Levels "wikilink")
-节奏口技在2010年九月中前达到了380万的浏览量。他也曾和日本歌手[Gille](https://en.wikipedia.org/wiki/Gille_\(singer\))合作歌曲“Try
-Again”。 在小时候，HIKAKIN总躲在课室的一角，而被认为是有点奇怪的少年。
+HIKAKIN是一个日本的Youtube名人，以及日本公司UUUM的联合创始人。他的视频[Super Mario Bros](https://zh.wikipedia.org/wiki/Super_Mario_Bros.:_The_Lost_Levels "wikilink") 节奏口技在2010年九月中前达到了380万的浏览量。他也曾和日本歌手[Gille](https://en.wikipedia.org/wiki/Gille_\(singer\))合作歌曲“Try Again”。 在小时候，HIKAKIN总躲在课室的一角，而被认为是有点奇怪的少年。
 
 ## 人物
 
@@ -16,23 +12,15 @@ Again”。 在小时候，HIKAKIN总躲在课室的一角，而被认为是有�
 
 每段影片都以「蹦蹦，Hello YouTube！」作为开场白，已成为个人特色。
 
-2012年12月，Hikakin发布了他的第一张专辑，其中包括了他与著名电子音乐编曲家[Hideki
-Sakamoto](https://en.wikipedia.org/wiki/Hideki_Sakamoto)的合作
+2012年12月，Hikakin发布了他的第一张专辑，其中包括了他与著名电子音乐编曲家[Hideki Sakamoto](https://en.wikipedia.org/wiki/Hideki_Sakamoto)的合作
 
-2013年5月，Hikakin 参加了Social Star Awards和Singapore
-Social音乐会，与和[Aerosmith同台表演](https://zh.wikipedia.org/wiki/Aerosmith "wikilink")。他在随后用节奏口技表演了歌曲[Walk
-This Way](https://en.wikipedia.org/wiki/Walk_This_Way)
+2013年5月，Hikakin 参加了Social Star Awards和Singapore Social音乐会，与和[Aerosmith同台表演](https://zh.wikipedia.org/wiki/Aerosmith "wikilink")。他在随后用节奏口技表演了歌曲[Walk This Way](https://en.wikipedia.org/wiki/Walk_This_Way)
 
-2014年2月, Hikakin和[Ariana
-Grande合作了beatbox版本的](https://zh.wikipedia.org/wiki/Ariana_Grande "wikilink")[Baby
-I](https://en.wikipedia.org/wiki/Baby_I)。
+2014年2月, Hikakin和[Ariana Grande合作了beatbox版本的](https://zh.wikipedia.org/wiki/Ariana_Grande "wikilink")[Baby I](https://en.wikipedia.org/wiki/Baby_I)。
 
-2014年10月，Hikakin参加了第一届日本Youtube FanFest,
-并与[Hifana](https://en.wikipedia.org/wiki/Hifana)共同表演了节目
+2014年10月，Hikakin参加了第一届日本Youtube FanFest, 并与[Hifana](https://en.wikipedia.org/wiki/Hifana)共同表演了节目
 
-2014年12月，Hikakin和[Ariana
-Grande再一次合作表演了Grande的歌曲](https://zh.wikipedia.org/wiki/Ariana_Grande "wikilink")[Break
-Free](https://en.wikipedia.org/wiki/Break_Free_\(song\))。
+2014年12月，Hikakin和[Ariana Grande再一次合作表演了Grande的歌曲](https://zh.wikipedia.org/wiki/Ariana_Grande "wikilink")[Break Free](https://en.wikipedia.org/wiki/Break_Free_\(song\))。
 
 自2014年11月起，每一晚HikakinTV的影片最后，都有叫做（蹦蹦猜拳）的猜拳环节。因为猜拳是个简单，而且所有人也会玩的游戏，所以就以猜拳作为每晚与观众的小互动。\[6\]
 
@@ -49,11 +37,9 @@ HIKAKIN的名字，来自一位前辈。HIKAKIN从小三到高三都参与跳雪
 
 ### 单著
 
-  - （[2013年](../Page/2013年.md "wikilink")[7月19日](https://zh.wikipedia.org/wiki/7月19日 "wikilink")、）
-    ISBN 978-4391143799
+  - （[2013年](../Page/2013年.md "wikilink")[7月19日](https://zh.wikipedia.org/wiki/7月19日 "wikilink")、） ISBN 978-4391143799
 
-  - （[2014年](../Page/2014年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")、）ISBN
-    978-4822220792
+  - （[2014年](../Page/2014年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")、）ISBN 978-4822220792
 
 <!-- end list -->
 
@@ -119,8 +105,7 @@ HIKAKIN的名字，来自一位前辈。HIKAKIN从小三到高三都参与跳雪
 
   - （富士电视台）
 
-  - [YouTube频道](../Page/YouTube.md "wikilink") 订阅者10万人突破記念
-    银色播放按钮（[Google](../Page/Google.md "wikilink")）
+  - [YouTube](../Page/YouTube.md "wikilink")频道 订阅者10万人突破記念 银色播放按钮（[Google](../Page/Google.md "wikilink")）
 
   - YouTube频道 订阅者100万人突破記念 金色播放按钮（Google）
 
@@ -138,11 +123,7 @@ HIKAKIN的名字，来自一位前辈。HIKAKIN从小三到高三都参与跳雪
 
 ### 电视动画
 
-  - [-{zh-cn:数码宝贝宇宙 应用怪兽; zh-hk:數碼暴龍App世代; zh-mo:數碼暴龍App世代;
-    zh-tw:數碼寶貝-APP獸; zh-sg:Digimon Universe App Monsters;
-    zh-my:Digimon Universe App
-    Monsters;}-](../Page/數碼暴龍宇宙_應用怪獸.md "wikilink")
-    - 角色︰光次郎
+  - [-{zh-cn:数码宝贝宇宙 应用怪兽; zh-hk:數碼暴龍App世代; zh-mo:數碼暴龍App世代; zh-tw:數碼寶貝-APP獸; zh-sg:Digimon Universe App Monsters; zh-my:Digimon Universe App Monsters;}-](../Page/數碼暴龍宇宙_應用怪獸.md "wikilink") - 角色︰光次郎
   - [咯咯咯鬼太郎](../Page/鬼太郎.md "wikilink")－角色︰本人
 
 ### 广告
@@ -157,8 +138,7 @@ HIKAKIN的名字，来自一位前辈。HIKAKIN从小三到高三都参与跳雪
 
   - [萬代](../Page/萬代.md "wikilink") （2015年）
 
-  - [大正制药](../Page/大正制药.md "wikilink") [-{zh-cn:力保健; zh-hk:力保健;
-    zh-tw:力保美達;}-](../Page/力保美达.md "wikilink")（2017年）與[三浦知良共演](../Page/三浦知良.md "wikilink")。
+  - [大正制药](../Page/大正制药.md "wikilink") [-{zh-cn:力保健; zh-hk:力保健; zh-tw:力保美達;}-](../Page/力保美达.md "wikilink")（2017年）與[三浦知良](../Page/三浦知良.md "wikilink")共演。
 
 ### 电影
 
@@ -193,15 +173,10 @@ HIKAKIN的名字，来自一位前辈。HIKAKIN从小三到高三都参与跳雪
   -
   - [](http://hikakin.blog.jp)
 
-[Category:1989年出生](https://zh.wikipedia.org/wiki/Category:1989年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:新潟縣出身人物](https://zh.wikipedia.org/wiki/Category:新潟縣出身人物 "wikilink")
-[Category:日本YouTuber](https://zh.wikipedia.org/wiki/Category:日本YouTuber "wikilink")
-[Category:日本音樂家](https://zh.wikipedia.org/wiki/Category:日本音樂家 "wikilink")
+[Category:1989年出生](https://zh.wikipedia.org/wiki/Category:1989年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:新潟縣出身人物](https://zh.wikipedia.org/wiki/Category:新潟縣出身人物 "wikilink") [Category:日本YouTuber](https://zh.wikipedia.org/wiki/Category:日本YouTuber "wikilink") [Category:日本音樂家](https://zh.wikipedia.org/wiki/Category:日本音樂家 "wikilink")
 
 1.
-2.  （[2013年](../Page/2013年.md "wikilink")[7月19日](https://zh.wikipedia.org/wiki/7月19日 "wikilink")、）
-    ISBN 978-4391143799
+2.  （[2013年](../Page/2013年.md "wikilink")[7月19日](https://zh.wikipedia.org/wiki/7月19日 "wikilink")、） ISBN 978-4391143799
 3.
 4.
 5.

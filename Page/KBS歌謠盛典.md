@@ -12,13 +12,11 @@
 
 ### 典禮場地
 
-1981年至1983年，於[首爾綜合運動場](../Page/首爾綜合運動場.md "wikilink")\[也被称为**蠶室綜合運動場**()\]舉行；1984年至2014年，於首爾[汝矣島KBS大廳舉行](../Page/汝矣島.md "wikilink")；2015年於[高尺天空巨蛋舉行](../Page/高尺天空巨蛋.md "wikilink")；自2016年起，於首爾[汝矣島KBS大廳舉行](../Page/汝矣島.md "wikilink")。
+1981年至1983年，於[首爾綜合運動場](../Page/首爾綜合運動場.md "wikilink")\[也被称为**蠶室綜合運動場**()\]舉行；1984年至2014年，於首爾[汝矣島](../Page/汝矣島.md "wikilink")KBS大廳舉行；2015年於[高尺天空巨蛋](../Page/高尺天空巨蛋.md "wikilink")舉行；自2016年起，於首爾[汝矣島](../Page/汝矣島.md "wikilink")KBS大廳舉行。
 
 ### 典禮形式
 
-自1965年起，每年都會頒發獎項給當年最佳男歌手及女歌手，自2006年起，該獎項被取消。2009年起，開始頒發「最佳流行音樂（최고 인기
-가요상）」獎項，於2012年停頒，於2013年更名為「年度最佳歌曲（올해의
-노래상）」，於2014年正式廢除。2015年開始，便只於節目中呈現多樣的舞台，並未進行頒獎。
+自1965年起，每年都會頒發獎項給當年最佳男歌手及女歌手，自2006年起，該獎項被取消。2009年起，開始頒發「最佳流行音樂（최고 인기 가요상）」獎項，於2012年停頒，於2013年更名為「年度最佳歌曲（올해의 노래상）」，於2014年正式廢除。2015年開始，便只於節目中呈現多樣的舞台，並未進行頒獎。
 
 ## 歷屆情況
 
@@ -36,7 +34,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>1987年</p></td>
-<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/汝矣島.md" title="wikilink">汝矣島KBS大廳</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/汝矣島.md" title="wikilink">汝矣島</a>KBS大廳</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -239,14 +237,14 @@
 <tr class="even">
 <td><p>30</p></td>
 <td><p>2016年12月29日（星期四）</p></td>
-<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/汝矣島.md" title="wikilink">汝矣島KBS大廳</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/汝矣島.md" title="wikilink">汝矣島</a>KBS大廳</p></td>
 <td><p><a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td><p>[6]</p></td>
 </tr>
 <tr class="odd">
 <td><p>31</p></td>
 <td><p>2017年12月29日（星期五）</p></td>
-<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/汝矣島.md" title="wikilink">汝矣島KBS電視台音樂廳</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/汝矣島.md" title="wikilink">汝矣島</a>KBS電視台音樂廳</p></td>
 <td><p><a href="../Page/金碩珍.md" title="wikilink">Jin</a>、<a href="https://zh.wikipedia.org/wiki/燦烈" title="wikilink">燦烈</a>、<a href="https://zh.wikipedia.org/wiki/裴柱現" title="wikilink">Irene</a>、<a href="https://zh.wikipedia.org/wiki/Sana" title="wikilink">Sana</a><br />
 <a href="../Page/頌樂.md" title="wikilink">頌樂</a>、<a href="../Page/姜丹尼爾.md" title="wikilink">姜丹尼爾</a>、<a href="https://zh.wikipedia.org/wiki/金玟奎" title="wikilink">玟奎</a>、<a href="../Page/Yerin.md" title="wikilink">Yerin</a></p></td>
 <td></td>
@@ -258,8 +256,7 @@
 
 ### 2016年
 
-  - 特邀主持人：[Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")([Red
-    Velvet](../Page/Red_Velvet.md "wikilink"))、[世正](../Page/世正.md "wikilink")([I.O.I](../Page/I.O.I.md "wikilink"))；待機室主持人：[珉豪](../Page/珉豪.md "wikilink")([SHINee](../Page/SHINee.md "wikilink"))、[燦烈](../Page/Chanyeol.md "wikilink")([EXO](../Page/EXO.md "wikilink"))、[多賢](../Page/多賢.md "wikilink")([TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink"))、[世正](../Page/世正.md "wikilink")([I.O.I](../Page/I.O.I.md "wikilink"))
+  - 特邀主持人：[Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")([Red Velvet](../Page/Red_Velvet.md "wikilink"))、[世正](../Page/世正.md "wikilink")([I.O.I](../Page/I.O.I.md "wikilink"))；待機室主持人：[珉豪](../Page/珉豪.md "wikilink")([SHINee](../Page/SHINee.md "wikilink"))、[燦烈](../Page/Chanyeol.md "wikilink")([EXO](../Page/EXO.md "wikilink"))、[多賢](../Page/多賢.md "wikilink")([TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink"))、[世正](../Page/世正.md "wikilink")([I.O.I](../Page/I.O.I.md "wikilink"))
 
 <table>
 <colgroup>
@@ -496,12 +493,12 @@ SHOWDOWN [41]</p></td>
 <tr class="odd">
 <td><p>-</p></td>
 <td><p><a href="../Page/Davichi.md" title="wikilink">Davichi</a></p></td>
-<td><p>This Love（<a href="../Page/太陽的後裔.md" title="wikilink">太陽的後裔OST</a>） [47]</p></td>
+<td><p>This Love（<a href="../Page/太陽的後裔.md" title="wikilink">太陽的後裔</a>OST） [47]</p></td>
 </tr>
 <tr class="even">
 <td><p>-</p></td>
 <td><p><a href="../Page/黃致列.md" title="wikilink">黃致列</a> &amp; <a href="../Page/Mina_(TWICE).md" title="wikilink">Mina</a>(<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>)（<a href="../Page/芭蕾舞.md" title="wikilink">芭蕾舞</a>）</p></td>
-<td><p>想念，想念（그리워 그리워서）（<a href="../Page/雲畫的月光.md" title="wikilink">雲畫的月光OST</a>） [48]</p></td>
+<td><p>想念，想念（그리워 그리워서）（<a href="../Page/雲畫的月光.md" title="wikilink">雲畫的月光</a>OST） [48]</p></td>
 </tr>
 <tr class="odd">
 <td><p>-</p></td>
@@ -536,7 +533,7 @@ SHOWDOWN [41]</p></td>
 <tr class="odd">
 <td><p>-</p></td>
 <td><p><a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
-<td><p>Intro（<a href="../Page/Kai.md" title="wikilink">Kai舞蹈Solo</a>）+ Monster [57]</p></td>
+<td><p>Intro（<a href="../Page/Kai.md" title="wikilink">Kai</a>舞蹈Solo）+ Monster [57]</p></td>
 </tr>
 <tr class="even">
 <td><p>-</p></td>
@@ -555,10 +552,8 @@ SHOWDOWN [41]</p></td>
 
   - 特邀主持人：
 
-一部：[Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")([Red
-Velvet](../Page/Red_Velvet.md "wikilink"))、[Jin](../Page/金碩珍.md "wikilink")([防彈少年團](../Page/防彈少年團.md "wikilink"))、[燦烈](../Page/Chanyeol.md "wikilink")([EXO](../Page/EXO.md "wikilink"))、[Sana](../Page/Sana_\(TWICE\).md "wikilink")([TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink"))
-二部：[頌樂](../Page/頌樂.md "wikilink")([MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink"))、[珉奎](https://zh.wikipedia.org/wiki/珉奎 "wikilink")([SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink"))、[Yerin](../Page/Yerin.md "wikilink")([GFRIEND](../Page/GFRIEND.md "wikilink"))、[姜丹尼爾](../Page/姜丹尼爾.md "wikilink")([Wanna
-One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink"))
+一部：[Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")([Red Velvet](../Page/Red_Velvet.md "wikilink"))、[Jin](../Page/金碩珍.md "wikilink")([防彈少年團](../Page/防彈少年團.md "wikilink"))、[燦烈](../Page/Chanyeol.md "wikilink")([EXO](../Page/EXO.md "wikilink"))、[Sana](../Page/Sana_\(TWICE\).md "wikilink")([TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink"))
+二部：[頌樂](../Page/頌樂.md "wikilink")([MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink"))、[珉奎](https://zh.wikipedia.org/wiki/珉奎 "wikilink")([SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink"))、[Yerin](../Page/Yerin.md "wikilink")([GFRIEND](../Page/GFRIEND.md "wikilink"))、[姜丹尼爾](../Page/姜丹尼爾.md "wikilink")([Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink"))
 
 | 表演者                                                         | 表演曲目                   | 其他曲目                                                                                   |
 | ----------------------------------------------------------- | ---------------------- | -------------------------------------------------------------------------------------- |
@@ -578,9 +573,7 @@ One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink"))
   - [官方網站](http://www.kbs.co.kr/2tv/enter/songfestival2016/index.html)<small>**（韓文）**</small>
   - [YouTube官方頻道](http://www.youtube.com/kbsworld)<small>**（含中譯及英譯）**</small>
 
-[Category:KBS](https://zh.wikipedia.org/wiki/Category:KBS "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
+[Category:KBS](https://zh.wikipedia.org/wiki/Category:KBS "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
 
 1.
 2.

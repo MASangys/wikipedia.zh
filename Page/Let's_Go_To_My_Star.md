@@ -1,5 +1,4 @@
-《**Let's Go To My
-Star**》是[韓國歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[李貞賢的第一張韓語專輯](../Page/李貞賢.md "wikilink")，由HS娛樂於1999年10月8日發佈。此張專輯由[Yedang娛樂金牌制作人崔俊榮操刀](../Page/Imagine_Asia.md "wikilink")，專輯概念性極強，融合古典、現代、科技、神話、說唱、中東、迷幻、恐怖、電子、等各種元素，一經推出便火速將李貞賢推向一線女歌手地位，並在當時[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")、[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")、[KBS等電視台音樂節目獲得一位](https://zh.wikipedia.org/wiki/KBS "wikilink")。據[Billboard於](../Page/告示牌_\(雜誌\).md "wikilink")2000年8月19日所發行之刊號總計，李貞賢此張專輯共銷售超過100萬張\[1\]。
+《**Let's Go To My Star**》是[韓國歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[李貞賢](../Page/李貞賢.md "wikilink")的第一張韓語專輯，由HS娛樂於1999年10月8日發佈。此張專輯由[Yedang娛樂金牌制作人崔俊榮操刀](../Page/Imagine_Asia.md "wikilink")，專輯概念性極強，融合古典、現代、科技、神話、說唱、中東、迷幻、恐怖、電子、等各種元素，一經推出便火速將李貞賢推向一線女歌手地位，並在當時[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")、[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")、[KBS等電視台音樂節目獲得一位](https://zh.wikipedia.org/wiki/KBS "wikilink")。據[Billboard於](../Page/告示牌_\(雜誌\).md "wikilink")2000年8月19日所發行之刊號總計，李貞賢此張專輯共銷售超過100萬張\[1\]。
 
 ## 曲目列表
 
@@ -40,7 +39,7 @@ Star**》是[韓國歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[李�
 
 ## 爭議
 
-香港歌手[鄭秀文翻唱](../Page/鄭秀文.md "wikilink")[李貞賢的歌曲後](../Page/李貞賢.md "wikilink")，曾引起李貞賢的不滿。李貞賢認為鄭秀文應有自己的風格，而不是連服裝、眼神及動作都效仿原作，如果走自己的風格會更受歡迎。李貞賢在採訪中表示先前在中國演出時曾在酒店看過鄭秀文的音樂錄影帶，共看了五部作品，見到的不只是歌曲的仿作，連服裝、眼神及動作也一樣，覺得有點過份、很可惜\[7\]。
+香港歌手[鄭秀文](../Page/鄭秀文.md "wikilink")翻唱[李貞賢](../Page/李貞賢.md "wikilink")的歌曲後，曾引起李貞賢的不滿。李貞賢認為鄭秀文應有自己的風格，而不是連服裝、眼神及動作都效仿原作，如果走自己的風格會更受歡迎。李貞賢在採訪中表示先前在中國演出時曾在酒店看過鄭秀文的音樂錄影帶，共看了五部作品，見到的不只是歌曲的仿作，連服裝、眼神及動作也一樣，覺得有點過份、很可惜\[7\]。
 
 ## 翻唱紀錄
 
@@ -69,8 +68,7 @@ Star**》是[韓國歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[李�
 
   -
   -
-[Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 

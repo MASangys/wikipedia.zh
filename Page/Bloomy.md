@@ -1,6 +1,4 @@
-**Bloomy**（，）是於2016年由DS
-Entertainment策劃的[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")\[1\]\[2\]\[3\]；團名取為「Bloomy」，是來自Bloomy的英文字義為青春綻放的美麗與活力。2017年3月，團體解散。
-而後，2018年11月19日團員GeonYoung以藝名E.DA發行solo專輯，在2019年4月28日團員GeonYoung、JiYun組成雙人組合E-ruda。\[4\]
+**Bloomy**（，）是於2016年由DS Entertainment策劃的[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")\[1\]\[2\]\[3\]；團名取為「Bloomy」，是來自Bloomy的英文字義為青春綻放的美麗與活力。2017年3月，團體解散。 而後，2018年11月19日團員GeonYoung以藝名E.DA發行solo專輯，在2019年4月28日團員GeonYoung、JiYun組成雙人組合E-ruda。\[4\]
 
 ## 成員列表
 
@@ -63,20 +61,10 @@ Entertainment策劃的[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikil
   - [官方微博](http://tw.weibo.com/2028049940)
 
   -
-[Category:Bloomy](https://zh.wikipedia.org/wiki/Category:Bloomy "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:DS娛樂](https://zh.wikipedia.org/wiki/Category:DS娛樂 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink")
-[Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
+[Category:Bloomy](https://zh.wikipedia.org/wiki/Category:Bloomy "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:DS娛樂](https://zh.wikipedia.org/wiki/Category:DS娛樂 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
 
 1.
 2.
 3.
-4.  [전 아이돌그룹 출신 여성듀오 '이루다' 첫 앨범에 관심
-    주목](http://famtimes.co.kr/news/view/202964)
-5.  [블루미(bloomy) "Blooming day" MV - 너
-    때문이야](https://www.youtube.com/watch?v=QFIma6wmots)
+4.  [전 아이돌그룹 출신 여성듀오 '이루다' 첫 앨범에 관심 주목](http://famtimes.co.kr/news/view/202964)
+5.  [블루미(bloomy) "Blooming day" MV - 너 때문이야](https://www.youtube.com/watch?v=QFIma6wmots)

@@ -218,16 +218,9 @@ x16</p></td>
 </tbody>
 </table>
 
-*Note 1*: A-Link Express and A-Link Express II is essentially
-PCI-Express x4 lanes, so that any PCI Express capable southbridge can be
-used (such as ULI M1573/M1575).
+*Note 1*: A-Link Express and A-Link Express II is essentially PCI-Express x4 lanes, so that any PCI Express capable southbridge can be used (such as ULI M1573/M1575).
 
-*Note 2*: For the comparison of chipsets sold under the
-[AMD](https://zh.wikipedia.org/wiki/Advanced_Micro_Devices "wikilink")
-brand for AMD processors, after the completion of the acquisition of
-[ATI](https://zh.wikipedia.org/wiki/ATI_Technologies "wikilink"), please
-see [Comparison of AMD
-chipsets](https://zh.wikipedia.org/wiki/Comparison_of_AMD_chipsets "wikilink").
+*Note 2*: For the comparison of chipsets sold under the [AMD](https://zh.wikipedia.org/wiki/Advanced_Micro_Devices "wikilink") brand for AMD processors, after the completion of the acquisition of [ATI](https://zh.wikipedia.org/wiki/ATI_Technologies "wikilink"), please see [Comparison of AMD chipsets](https://zh.wikipedia.org/wiki/Comparison_of_AMD_chipsets "wikilink").
 
 ### 南橋
 
@@ -343,12 +336,7 @@ CrossFire Chipset</p></td>
 </tbody>
 </table>
 
-*Note 1*: For the comparison of chipsets sold under the
-[AMD](https://zh.wikipedia.org/wiki/Advanced_Micro_Devices "wikilink")
-brand for AMD processors, after the completion of the acquisition of
-[ATI](https://zh.wikipedia.org/wiki/ATI_Technologies "wikilink"), please
-see [Comparison of AMD
-chipsets](https://zh.wikipedia.org/wiki/Comparison_of_AMD_chipsets "wikilink").
+*Note 1*: For the comparison of chipsets sold under the [AMD](https://zh.wikipedia.org/wiki/Advanced_Micro_Devices "wikilink") brand for AMD processors, after the completion of the acquisition of [ATI](https://zh.wikipedia.org/wiki/ATI_Technologies "wikilink"), please see [Comparison of AMD chipsets](https://zh.wikipedia.org/wiki/Comparison_of_AMD_chipsets "wikilink").
 
 ## Intel CPU
 
@@ -697,10 +685,7 @@ CrossFire Chipset</p></td>
 
 ## 外部链接
 
-  - [Intel chipset
-    solutions](https://web.archive.org/web/20070717142519/http://ati.amd.com/products/integratedintel.html)
+  - [Intel chipset solutions](https://web.archive.org/web/20070717142519/http://ati.amd.com/products/integratedintel.html)
   - [AMD chipset solutions](http://www.amd.com/chipsets)
 
-[Category:AMD](https://zh.wikipedia.org/wiki/Category:AMD "wikilink")
-[Category:冶天科技](https://zh.wikipedia.org/wiki/Category:冶天科技 "wikilink")
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
+[Category:AMD](https://zh.wikipedia.org/wiki/Category:AMD "wikilink") [Category:冶天科技](https://zh.wikipedia.org/wiki/Category:冶天科技 "wikilink") [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")

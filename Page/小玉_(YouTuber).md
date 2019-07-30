@@ -1,12 +1,12 @@
-**小玉**（），本名**朱玉宸**，是[YouTube上的一名網路創作者](../Page/YouTube.md "wikilink")，常拍一些驚奇[開箱類](../Page/開箱.md "wikilink")、舞蹈、翻唱及實驗性影片。曾為台灣偶像培育團體TPI的練習生，時常與當時同團體的培育生[笑笑搭檔拍攝影片](https://zh.wikipedia.org/wiki/宋沁穎_\(YouTuber\) "wikilink")。早期在頻道上傳與弟弟（[人生肥宅x尊](../Page/人生肥宅x尊.md "wikilink")）拍攝[吉他翻奏為題材的影片](../Page/吉他.md "wikilink")；後來受到弟弟啟發，開始正式投入[YouTube的創作](../Page/YouTube.md "wikilink")。在學生圈知名度甚高，也連帶家長擔憂影片為會讓兒童學壞之嫌疑，因此有被投訴的經驗。
+**小玉**（），本名**朱玉宸**，是[YouTube](../Page/YouTube.md "wikilink")上的一名網路創作者，常拍一些驚奇[開箱](../Page/開箱.md "wikilink")類、舞蹈、翻唱及實驗性影片。曾為台灣偶像培育團體TPI的練習生，時常與當時同團體的培育生[笑笑搭檔拍攝影片](https://zh.wikipedia.org/wiki/宋沁穎_\(YouTuber\) "wikilink")。早期在頻道上傳與弟弟（[人生肥宅x尊](../Page/人生肥宅x尊.md "wikilink")）拍攝[吉他](../Page/吉他.md "wikilink")翻奏為題材的影片；後來受到弟弟啟發，開始正式投入[YouTube](../Page/YouTube.md "wikilink")的創作。在學生圈知名度甚高，也連帶家長擔憂影片為會讓兒童學壞之嫌疑，因此有被投訴的經驗。
 
 ## 簡歷
 
-因弟弟[人生肥宅x尊頻道的成功](../Page/人生肥宅x尊.md "wikilink")，決心投入網路影片創作的行列，並於2016年8月7日上傳了第一支正式進入Youtuber職業的創作影片。初期影片較為正經，而後期為迎合觀眾年齡層市場，開始走向無俚頭的搞笑模式呈現影片內容，並引發學生圈的網友廣大迴響。
+因弟弟[人生肥宅x尊](../Page/人生肥宅x尊.md "wikilink")頻道的成功，決心投入網路影片創作的行列，並於2016年8月7日上傳了第一支正式進入Youtuber職業的創作影片。初期影片較為正經，而後期為迎合觀眾年齡層市場，開始走向無俚頭的搞笑模式呈現影片內容，並引發學生圈的網友廣大迴響。
 
 ## 頻道風格
 
-  - 影片以開箱和搞怪實驗影片為主。除此之外也與多名[YouTuber合作](../Page/YouTuber.md "wikilink")。
+  - 影片以開箱和搞怪實驗影片為主。除此之外也與多名[YouTuber](../Page/YouTuber.md "wikilink")合作。
   - 影片風格偏向搞笑方式，講話時不時會穿插一些怪異的辭彙，而這些詞句也逐漸在學生圈傳開並成為潮流。
 
 ### 紀錄
@@ -116,13 +116,13 @@
 
 ### 年收入爭議
 
-2017年11月25日，小玉發布影片，公布自己於影音平台[YouTube的](../Page/YouTube.md "wikilink")2017年的總收入，1至3月進帳71萬8千元、4至6月賺了104萬9800元、7至9月更賺進165萬元8千元，合計超過342萬餘元，影片後還開玩笑地說：「會不會被國稅局盯上」\[2\]。
+2017年11月25日，小玉發布影片，公布自己於影音平台[YouTube](../Page/YouTube.md "wikilink")的2017年的總收入，1至3月進帳71萬8千元、4至6月賺了104萬9800元、7至9月更賺進165萬元8千元，合計超過342萬餘元，影片後還開玩笑地說：「會不會被國稅局盯上」\[2\]。
 
 國稅局表示，將會調查他的營業稅及個人綜所稅。事後更將範圍擴大至其他影片創作者\[3\]，不少實況主也證實收到國稅局關心。
 
 ### 春藥爭議
 
-2018年1月12日，發布〈精神崩壞\!吃了效果超強的催情春藥\!?〉開箱影片，被許多家長質疑其影片正當性，怕年紀過小的孩童會因影片產生不良影響，也有家長因此禁止孩子觀看小玉的影片。\[4\]\[5\]。
+2018年1月12日，發布〈精神崩壞\!吃了效果超強的催情春藥\!?〉開箱影片，被許多家長質疑其影片正當性，怕年紀過小的孩童會因影片產生不良影響，也有家長因此禁止孩子觀看小玉的影片。目前影片已經被隱藏不公開，但沒有刪除\[4\]\[5\]\[6\]。
 
 ### 百萬鈔票泡澡爭議
 
@@ -130,9 +130,7 @@
 
 ### 吵架炒作爭議
 
-2018年7月，與放火合作發佈〈沒把你當對手〉MV前影片鋪梗，內容為放火摔小玉吉他，後小玉發佈摔手機報仇影片，放火再發佈潑水報復影片。此影片最後表明全是「為了炒作」、發表MV而製造的假戲。影片一齣，引發許多網友論戰，並獲得大量倒讚。後來，此影片還遭到[DE
-JuN團隊的鴻麟與Jason](https://zh.wikipedia.org/wiki/DE_JuN "wikilink")（李杰生）以拍攝類似的影片來致敬(而在影片中，吉他變成了橘子，手機變成了蘋果，台詞一樣，而鴻麟所嘲諷的角色是小玉，Jason（李杰生）所嘲諷的角色是放火，而潑水的部分改成了跳舞Battle)，反而還獲得獲得大量的讚，獲得到連小玉與放火都不得不到該影片留言致敬，[DE
-JuN團隊甚至還放出了NG片段](https://zh.wikipedia.org/wiki/DE_JuN "wikilink")。
+2018年7月，與放火合作發佈〈沒把你當對手〉MV前影片鋪梗，內容為放火摔小玉吉他，後小玉發佈摔手機報仇影片，放火再發佈潑水報復影片。此影片最後表明全是「為了炒作」、發表MV而製造的假戲。影片一齣，引發許多網友論戰，並獲得大量倒讚。後來，此影片還遭到[DE JuN團隊的鴻麟與Jason](https://zh.wikipedia.org/wiki/DE_JuN "wikilink")（李杰生）以拍攝類似的影片來致敬(而在影片中，吉他變成了橘子，手機變成了蘋果，台詞一樣，而鴻麟所嘲諷的角色是小玉，Jason（李杰生）所嘲諷的角色是放火，而潑水的部分改成了跳舞Battle)，反而還獲得獲得大量的讚，獲得到連小玉與放火都不得不到該影片留言致敬，[DE JuN團隊甚至還放出了NG片段](https://zh.wikipedia.org/wiki/DE_JuN "wikilink")。
 
 ### 機車爭議
 
@@ -140,9 +138,9 @@ JuN團隊甚至還放出了NG片段](https://zh.wikipedia.org/wiki/DE_JuN "wikil
 
 ### 超商影片下架爭議
 
-2018年9月，小玉於[7-Eleven拍攝影片](../Page/7-Eleven.md "wikilink")，挑戰用10萬元將超商內所有商品買下（最後共花費3萬1963元），並更將買得商品分送給街友做公益。但小玉為了影片效果，將超商內的東西撒在地上，並躺在超商地板上等行為，引發[7-Eleven不滿要求下架影片](../Page/7-Eleven.md "wikilink")，且有違反《營業秘密法》之虞\[6\]。
+2018年9月，小玉於[7-Eleven](../Page/7-Eleven.md "wikilink")拍攝影片，挑戰用10萬元將超商內所有商品買下（最後共花費3萬1963元），並更將買得商品分送給街友做公益。但小玉為了影片效果，將超商內的東西撒在地上，並躺在超商地板上等行為，引發[7-Eleven](../Page/7-Eleven.md "wikilink")不滿要求下架影片，且有違反《營業秘密法》之虞\[7\]。
 
-同月2日，小玉發布了〈小玉要被告了，昨天影片突然下架〉的影片，解釋影片突然下架之原因。他表示在超商的影片因為沒有經過超商同意與授權，並接到超商主管來電，表示「這影片不該出現在上面」\[7\]，事件一出，引發正反兩極的評價，甚至被酸「裝哭也不裝得像一點\[8\]」。
+同月2日，小玉發布了〈小玉要被告了，昨天影片突然下架〉的影片，解釋影片突然下架之原因。他表示在超商的影片因為沒有經過超商同意與授權，並接到超商主管來電，表示「這影片不該出現在上面」\[8\]，事件一出，引發正反兩極的評價，甚至被酸「裝哭也不裝得像一點\[9\]」。
 
 ## 相關條目
 
@@ -156,17 +154,14 @@ JuN團隊甚至還放出了NG片段](https://zh.wikipedia.org/wiki/DE_JuN "wikil
   -
   -
   -
-[Category:臺灣YouTuber](https://zh.wikipedia.org/wiki/Category:臺灣YouTuber "wikilink")
-[Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink")
-[Category:朱姓](https://zh.wikipedia.org/wiki/Category:朱姓 "wikilink")
-[Category:高雄市人](https://zh.wikipedia.org/wiki/Category:高雄市人 "wikilink")
+[Category:臺灣YouTuber](https://zh.wikipedia.org/wiki/Category:臺灣YouTuber "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:朱姓](https://zh.wikipedia.org/wiki/Category:朱姓 "wikilink") [Category:高雄市人](https://zh.wikipedia.org/wiki/Category:高雄市人 "wikilink")
 
 1.
 2.
 3.
-4.  [意外網購催情春藥
-    網紅在鏡頭前實測發作...](http://news.ltn.com.tw/news/life/breakingnews/2311352)[自由電子報](https://zh.wikipedia.org/wiki/自由電子報 "wikilink")
-5.  [催情春藥有效嗎？網紅實際測試　喝下3分鐘後竟精神崩壞](http://www.setn.com/News.aspx?NewsID=336141)[三立新聞網](https://zh.wikipedia.org/wiki/三立新聞網 "wikilink")
-6.  [小玉「超商拍片觸法」恐被告　掩面淚崩：為什麼大家都要針對我！](https://star.ettoday.net/news/1250308)
-7.
+4.  （原视频）
+5.  [意外網購催情春藥 網紅在鏡頭前實測發作...](http://news.ltn.com.tw/news/life/breakingnews/2311352)[自由電子報](https://zh.wikipedia.org/wiki/自由電子報 "wikilink")
+6.  [催情春藥有效嗎？網紅實際測試　喝下3分鐘後竟精神崩壞](http://www.setn.com/News.aspx?NewsID=336141)[三立新聞網](https://zh.wikipedia.org/wiki/三立新聞網 "wikilink")
+7.  [小玉「超商拍片觸法」恐被告　掩面淚崩：為什麼大家都要針對我！](https://star.ettoday.net/news/1250308)
 8.
+9.

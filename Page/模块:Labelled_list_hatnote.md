@@ -1,14 +1,10 @@
 -----
 
-\-- Labelled list -- -- -- -- This module does the core work of creating
-a hatnote composed of a list -- -- prefixed by a colon-terminated label,
-i.e. "LABEL: \[andList of pages\]", -- -- for  and similar templates. --
+\-- Labelled list -- -- -- -- This module does the core work of creating a hatnote composed of a list -- -- prefixed by a colon-terminated label, i.e. "LABEL: \[andList of pages\]", -- -- for  and similar templates. --
 
 -----
 
-local mHatnote = require('Module:Hatnote') local mHatlist =
-require('Module:Hatnote list') local mArguments --initialize lazily
-local p = {}
+local mHatnote = require('Module:Hatnote') local mHatlist = require('Module:Hatnote list') local mArguments --initialize lazily local p = {}
 
 \-- Defaults global to this module -- 本地化注意 local defaults = {
 
@@ -19,9 +15,7 @@ local p = {}
 
 }
 
-\-- Helper function that pre-combines display parameters into page
-arguments. -- Also compresses sparse arrays, as a desirable side-effect.
-function p.preprocessDisplays (args, prefixes)
+\-- Helper function that pre-combines display parameters into page arguments. -- Also compresses sparse arrays, as a desirable side-effect. function p.preprocessDisplays (args, prefixes)
 
 `   -- Prefixes specify which parameters, in order, to check for display options`
 `   -- They each have numbers auto-appended, e.g. 'label1', 'label 1', & 'l1'`
@@ -43,12 +37,7 @@ function p.preprocessDisplays (args, prefixes)
 
 end
 
-\-- Produces a labelled pages-list hatnote. -- The main frame (template
-definition) takes 1 or 2 arguments, for a singular -- and (optionally)
-plural label respectively: -- \* {{\#invoke:Labelled list
-hatnote|labelledList|Singular label|Plural label}} -- The resulting
-template takes pagename & label parameters normally. function
-p.labelledList (frame)
+\-- Produces a labelled pages-list hatnote. -- The main frame (template definition) takes 1 or 2 arguments, for a singular -- and (optionally) plural label respectively: -- \* {{\#invoke:Labelled list hatnote|labelledList|Singular label|Plural label}} -- The resulting template takes pagename & label parameters normally. function p.labelledList (frame)
 
 `   mArguments = require('Module:Arguments')`
 `   local labels = {frame.args[1] or defaults.label}`

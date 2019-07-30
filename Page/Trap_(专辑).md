@@ -13,8 +13,6 @@
 
 ## 參考資料
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
-[Category:林峯音樂專輯](https://zh.wikipedia.org/wiki/Category:林峯音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:林峯音樂專輯](https://zh.wikipedia.org/wiki/Category:林峯音樂專輯 "wikilink")
 
 1.  [林最新EP《TRAP》專輯祝捷會舉行](http://news.wenweipo.com/2016/03/31/IN1603310048.htm)

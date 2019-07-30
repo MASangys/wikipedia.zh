@@ -6,11 +6,9 @@
 
 一年後，2013年9月，他把應用程式改名為Dronestream，再提交給蘋果公司兩次，仍然被拒絕。蘋果審查小組的一名職員聯繫他，告訴他要是應用程式專注在美國無人機的襲擊「就不會獲批准」，「如果你擴闊主題範圍，我們會再次考慮。你知道有些點子我們決定不推行，這就是其一」。
 
-2014年1月，他嘗試提交了一個空的應用程式給蘋果公司審核，結果很快就獲得通過。於是他把之前的應用程式，改名為Metadata+，把「無人機」的字眼除去，並且沒有包含任何內容。他稱應用程式「會提供關於國家安全的實時更新」。這次如同上次測試一樣，僅僅六日便獲得通過，沒有遭到質疑程式是否有用或者有可爭議的內容。應用程式的名字，是受到美國記者一條[推特的啟發](https://zh.wikipedia.org/wiki/推特 "wikilink")：「元數據（Metadata）有何重要？我們的政府根據元數據去殺人。這就是特徵打擊（signature
-strike）中的『特徵』。」\[2\]
+2014年1月，他嘗試提交了一個空的應用程式給蘋果公司審核，結果很快就獲得通過。於是他把之前的應用程式，改名為Metadata+，把「無人機」的字眼除去，並且沒有包含任何內容。他稱應用程式「會提供關於國家安全的實時更新」。這次如同上次測試一樣，僅僅六日便獲得通過，沒有遭到質疑程式是否有用或者有可爭議的內容。應用程式的名字，是受到美國記者一條[推特的啟發](https://zh.wikipedia.org/wiki/推特 "wikilink")：「元數據（Metadata）有何重要？我們的政府根據元數據去殺人。這就是特徵打擊（signature strike）中的『特徵』。」\[2\]
 
-2015年9月，蘋果公司把Metadata+下架，聲稱應用程式包含「過度殘忍或令人反感的內容」（excessively crude or
-objectionable content）。\[3\]
+2015年9月，蘋果公司把Metadata+下架，聲稱應用程式包含「過度殘忍或令人反感的內容」（excessively crude or objectionable content）。\[3\]
 
 ## 參考
 
@@ -19,9 +17,7 @@ objectionable content）。\[3\]
   - [Metadata+的官方網站](http://metadata.joshbegley.com/)
   - [Metadata+的Android版本](https://play.google.com/store/apps/details?id=com.joshbegley.dronestream)
 
-[Category:美國軍事](https://zh.wikipedia.org/wiki/Category:美國軍事 "wikilink")
-[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
+[Category:美國軍事](https://zh.wikipedia.org/wiki/Category:美國軍事 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
 
 1.
 2.

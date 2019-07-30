@@ -1,7 +1,4 @@
-**馬敬恆**（**Terrence
-Ma**），[香港](../Page/香港.md "wikilink")[音樂製作人](https://zh.wikipedia.org/wiki/音樂 "wikilink")，業內常稱T-Ma。1990年6月8日出生於香港，14歲開始寫歌，16歲簽約日本Sony,與友人組成樂隊amplified出道，單曲《Mr.Raindrop》為日本動畫片《銀魂》片尾曲，一年發完兩張碟後解約遠走美國深造。畢業返港受香港著名監製Edward
-Chan賞識，進入旗下工作室學習，於2018年成立個人工作室Blue Moon
-Production，轉做獨立幕後音樂人。近年主要為香港流行歌曲創作，並負責編曲、監製等。
+**馬敬恆**（**Terrence Ma**），[香港](../Page/香港.md "wikilink")[音樂製作人](https://zh.wikipedia.org/wiki/音樂 "wikilink")，業內常稱T-Ma。1990年6月8日出生於香港，14歲開始寫歌，16歲簽約日本Sony,與友人組成樂隊amplified出道，單曲《Mr.Raindrop》為日本動畫片《銀魂》片尾曲，一年發完兩張碟後解約遠走美國深造。畢業返港受香港著名監製Edward Chan賞識，進入旗下工作室學習，於2018年成立個人工作室Blue Moon Production，轉做獨立幕後音樂人。近年主要為香港流行歌曲創作，並負責編曲、監製等。
 
 ## 作品列表
 
@@ -228,16 +225,17 @@ Production，轉做獨立幕後音樂人。近年主要為香港流行歌曲創�
 <li><a href="../Page/小塵埃.md" title="wikilink">小塵埃</a> - 高地之下（曲）</li>
 <li><a href="../Page/林欣彤.md" title="wikilink">林欣彤</a> - 玫瑰式體驗（編）</li>
 <li><a href="../Page/符致逸.md" title="wikilink">符致逸</a> - 值得放棄（曲、編）</li>
+<li><a href="../Page/陳逸璇.md" title="wikilink">陳逸璇</a> - 短暫的新分（曲）</li>
 </ul></td>
 <td><ul>
+<li><a href="../Page/曾詠熙.md" title="wikilink">曾詠熙</a> - 對愛說（曲、編、監）</li>
 <li><a href="https://zh.wikipedia.org/wiki/葉巧琳" title="wikilink">葉巧琳</a> - 水舞間（曲、編、監）</li>
 <li><a href="../Page/潘伯仲.md" title="wikilink">潘伯仲</a> Feat. <a href="../Page/Heyo.md" title="wikilink">Heyo</a> - 流星語夜人（編、監）</li>
+<li><a href="https://zh.wikipedia.org/wiki/鄧紫棋" title="wikilink">鄧紫棋</a> - 差不多姑娘 (編、監)</li>
 </ul></td>
 </tr>
 </tbody>
 </table>
-
-曾詠熙-對愛說 （曲、編、監）
 
 ## 外部連結
 

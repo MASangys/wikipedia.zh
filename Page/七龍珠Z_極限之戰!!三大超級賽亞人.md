@@ -1,6 +1,4 @@
-《**七龙珠Z 極限之戰\!\!三大超級賽亞人**》（，[英语](../Page/英语.md "wikilink"): Dragon Ball
-Z: Extreme Battle\! The Three Great Super
-Saiyans），是[七龍珠在](../Page/七龙珠.md "wikilink")1992年7月11日上映的第10部劇場版動畫。\[1\]故事时间在[沙鲁事件之前没多久的平行世界](https://zh.wikipedia.org/wiki/沙鲁 "wikilink")。
+《**七龙珠Z 極限之戰\!\!三大超級賽亞人**》（，[英语](../Page/英语.md "wikilink"): Dragon Ball Z: Extreme Battle\! The Three Great Super Saiyans），是[七龍珠在](../Page/七龙珠.md "wikilink")1992年7月11日上映的第10部劇場版動畫。\[1\]故事时间在[沙鲁事件之前没多久的平行世界](https://zh.wikipedia.org/wiki/沙鲁 "wikilink")。
 
 ## 故事
 
@@ -104,8 +102,7 @@ Saiyans），是[七龍珠在](../Page/七龙珠.md "wikilink")1992年7月11日�
   - 美術監督：長崎斉
   - 作画監督：[前田実](https://zh.wikipedia.org/wiki/前田実 "wikilink")
   - 監督：菊池一仁
-  - 原画：[中鶴勝祥](../Page/中鶴勝祥.md "wikilink")、[稲上晃](https://zh.wikipedia.org/wiki/稲上晃 "wikilink")、[長谷川真也](https://zh.wikipedia.org/wiki/長谷川眞也 "wikilink")
-    他　
+  - 原画：[中鶴勝祥](../Page/中鶴勝祥.md "wikilink")、[稲上晃](https://zh.wikipedia.org/wiki/稲上晃 "wikilink")、[長谷川真也](https://zh.wikipedia.org/wiki/長谷川眞也 "wikilink") 他　
 
 ## 主題曲
 
@@ -140,10 +137,6 @@ Saiyans），是[七龍珠在](../Page/七龙珠.md "wikilink")1992年7月11日�
   - [七龍珠劇場版歷史](https://web.archive.org/web/20090130013807/http://www.toei-anim.co.jp/ptr/dragonball/movie/)東映
 
   -
-[Category:七龙珠电影](https://zh.wikipedia.org/wiki/Category:七龙珠电影 "wikilink")
-[Category:1992年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1992年日本劇場動畫 "wikilink")
+[Category:七龙珠电影](https://zh.wikipedia.org/wiki/Category:七龙珠电影 "wikilink") [Category:1992年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1992年日本劇場動畫 "wikilink")
 
-1.  [Dragon Ball Z: Super Android 13
-    (movie 7)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=985)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+1.  [Dragon Ball Z: Super Android 13 (movie 7)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=985)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")

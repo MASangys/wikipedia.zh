@@ -1,7 +1,4 @@
-**NBA
-G聯盟最有價值球員**（，簡稱**MVP**）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[NBA
-G聯盟](../Page/NBA_G聯盟.md "wikilink")（前稱NBA發展聯盟）從2001-02賽季開始頒發的獎項，旨在表彰於賽季中綜合表現最優異的球員。獎項由聯盟所有的總教練票選，通常會在發展聯盟季後賽時頒發給得獎者。\[1\]
-目前並沒有任何球員重複獲得MVP過，也沒有任何的國際球員獲獎過。的前鋒是本獎項的第一個得主。\[2\]總計共有10個[後衛](https://zh.wikipedia.org/wiki/後衛 "wikilink")、6個[前鋒獲得獎項](https://zh.wikipedia.org/wiki/前鋒 "wikilink")，是以[中鋒獲獎的唯一一人](../Page/中鋒_\(籃球\).md "wikilink")。
+**NBA G聯盟最有價值球員**（，簡稱**MVP**）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[NBA G聯盟](../Page/NBA_G聯盟.md "wikilink")（前稱NBA發展聯盟）從2001-02賽季開始頒發的獎項，旨在表彰於賽季中綜合表現最優異的球員。獎項由聯盟所有的總教練票選，通常會在發展聯盟季後賽時頒發給得獎者。\[1\] 目前並沒有任何球員重複獲得MVP過，也沒有任何的國際球員獲獎過。的前鋒是本獎項的第一個得主。\[2\]總計共有10個[後衛](https://zh.wikipedia.org/wiki/後衛 "wikilink")、6個[前鋒獲得獎項](https://zh.wikipedia.org/wiki/前鋒 "wikilink")，是以[中鋒獲獎的唯一一人](../Page/中鋒_\(籃球\).md "wikilink")。
 
 ## 歷任最有價值球員
 
@@ -9,9 +6,7 @@ G聯盟](../Page/NBA_G聯盟.md "wikilink")（前稱NBA發展聯盟）從2001-02
 |  | ---------- |
 |  | 代表該年有兩位得主。 |
 
-[Ansu_Sesay.jpg](https://zh.wikipedia.org/wiki/File:Ansu_Sesay.jpg "fig:Ansu_Sesay.jpg")在2002年獲得史上第一個發展聯盟MVP獎杯。\]\]
-[Devin_Brown.jpg](https://zh.wikipedia.org/wiki/File:Devin_Brown.jpg "fig:Devin_Brown.jpg")的[Devin
-Brown獲得賽季MVP](https://zh.wikipedia.org/wiki/Devin_Brown "wikilink")。\]\]
+[Ansu_Sesay.jpg](https://zh.wikipedia.org/wiki/File:Ansu_Sesay.jpg "fig:Ansu_Sesay.jpg")在2002年獲得史上第一個發展聯盟MVP獎杯。\]\] [Devin_Brown.jpg](https://zh.wikipedia.org/wiki/File:Devin_Brown.jpg "fig:Devin_Brown.jpg")的[Devin Brown獲得賽季MVP](https://zh.wikipedia.org/wiki/Devin_Brown "wikilink")。\]\]
 
 <table>
 <thead>
@@ -161,15 +156,9 @@ Brown獲得賽季MVP](https://zh.wikipedia.org/wiki/Devin_Brown "wikilink")。\]
 
 ## 外部連結
 
-  - [D-League Most Valuable Player Award
-    Winners](https://www.basketball-reference.com/nbdl/awards/mvp.html)
-    at basketball-reference.com
+  - [D-League Most Valuable Player Award Winners](https://www.basketball-reference.com/nbdl/awards/mvp.html) at basketball-reference.com
 
-[Category:NBA發展聯盟獎項](https://zh.wikipedia.org/wiki/Category:NBA發展聯盟獎項 "wikilink")
-[Category:NBA列表](https://zh.wikipedia.org/wiki/Category:NBA列表 "wikilink")
-[Category:2001年建立的奖项](https://zh.wikipedia.org/wiki/Category:2001年建立的奖项 "wikilink")
-[Category:最有價值球員](https://zh.wikipedia.org/wiki/Category:最有價值球員 "wikilink")
-[Category:2001年美国建立](https://zh.wikipedia.org/wiki/Category:2001年美国建立 "wikilink")
+[Category:NBA發展聯盟獎項](https://zh.wikipedia.org/wiki/Category:NBA發展聯盟獎項 "wikilink") [Category:NBA列表](https://zh.wikipedia.org/wiki/Category:NBA列表 "wikilink") [Category:2001年建立的奖项](https://zh.wikipedia.org/wiki/Category:2001年建立的奖项 "wikilink") [Category:最有價值球員](https://zh.wikipedia.org/wiki/Category:最有價值球員 "wikilink") [Category:2001年美国建立](https://zh.wikipedia.org/wiki/Category:2001年美国建立 "wikilink")
 
 1.
 2.

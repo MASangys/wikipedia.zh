@@ -1,4 +1,4 @@
-是[Eushully於](../Page/Eushully.md "wikilink")2017年5月26日发售的[戰略角色扮演類型](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，Eushully第18部作品。
+是[Eushully](../Page/Eushully.md "wikilink")於2017年5月26日发售的[戰略角色扮演類型](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，Eushully第18部作品。
 
 ## 故事
 
@@ -85,11 +85,7 @@
 
   - [天結いキャッスルマイスター官方網站](http://www.eukleia.co.jp/eushully/eu018.html)（年齢限制）
 
-[Category:2017年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2017年日本成人遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:戰略角色扮演遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:Eushully](https://zh.wikipedia.org/wiki/Category:Eushully "wikilink")
+[Category:2017年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2017年日本成人遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:戰略角色扮演遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Eushully](https://zh.wikipedia.org/wiki/Category:Eushully "wikilink")
 
 1.
 2.

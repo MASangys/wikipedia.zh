@@ -1,4 +1,4 @@
-『**破邪巨星G彈劾凰**』（原題：）是[朝日電視台在](../Page/朝日電視台.md "wikilink")2001年4月5日至7月5日播出，由[AIC所製作的](../Page/動畫國際公司.md "wikilink")[機械人動畫](https://zh.wikipedia.org/wiki/機械人動畫 "wikilink")，全13話。
+『**破邪巨星G彈劾凰**』（原題：）是[朝日電視台](../Page/朝日電視台.md "wikilink")在2001年4月5日至7月5日播出，由[AIC所製作的](../Page/動畫國際公司.md "wikilink")[機械人動畫](https://zh.wikipedia.org/wiki/機械人動畫 "wikilink")，全13話。
 
 ## 概要
 
@@ -145,10 +145,4 @@
 
   - [破邪巨星Gダンガイオー : 作品情報 - アニメハック](http://anime.eiga.com/program/101536/)
 
-[Category:2001年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2001年日本電視動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:朝日電視台動畫](https://zh.wikipedia.org/wiki/Category:朝日電視台動畫 "wikilink")
-[Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink")
-[Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink")
-[Category:九州地方背景作品](https://zh.wikipedia.org/wiki/Category:九州地方背景作品 "wikilink")
-[Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink")
+[Category:2001年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2001年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:朝日電視台動畫](https://zh.wikipedia.org/wiki/Category:朝日電視台動畫 "wikilink") [Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink") [Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink") [Category:九州地方背景作品](https://zh.wikipedia.org/wiki/Category:九州地方背景作品 "wikilink") [Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink")

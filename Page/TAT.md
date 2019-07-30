@@ -12,10 +12,9 @@
 
   - , the Jewish Tat language
 
-  - [克里米亞韃靼人的一個分支](../Page/克里米亞韃靼人.md "wikilink")
+  - [克里米亞韃靼人](../Page/克里米亞韃靼人.md "wikilink")的一個分支
 
-  - The , a Northern Plains Native American tribe also known as the
-    Mandan, Hidatsa, and Arikara Nation
+  - The , a Northern Plains Native American tribe also known as the Mandan, Hidatsa, and Arikara Nation
 
 ## 航空學
 
@@ -48,8 +47,7 @@
 
 ## 人名縮寫
 
-  - [Thomas Alfred
-    Taylor](https://zh.wikipedia.org/wiki/Thomas_Alfred_Taylor "wikilink")
+  - [Thomas Alfred Taylor](https://zh.wikipedia.org/wiki/Thomas_Alfred_Taylor "wikilink")
 
   -
   - [TAT](../Page/TAT.md "wikilink")：達太祖
@@ -59,9 +57,7 @@
   - Tat, a British colloquial term for cheap and tasteless trinkets
 
   -
-  - Tat, a British colloquial term for personal possessions,
-    particularly when at a music Festival. adv 'Tatting' - to search for
-    abandoned, useful tat. Also 'tat down' to pack up a camp site.
+  - Tat, a British colloquial term for personal possessions, particularly when at a music Festival. adv 'Tatting' - to search for abandoned, useful tat. Also 'tat down' to pack up a camp site.
 
   - , a bank based in Tehran, Iran
 
@@ -70,8 +66,7 @@
   - , a former magazine
 
   -
-  - [黑莓公司](../Page/黑莓公司.md "wikilink")（Research In Motion）：formerly The
-    Astonishing Tribe, a Swedish company
+  - [黑莓公司](../Page/黑莓公司.md "wikilink")（Research In Motion）：formerly The Astonishing Tribe, a Swedish company
 
   - , a punk/rock band from London, England
 
@@ -79,8 +74,7 @@
 
   - [刺青](../Page/刺青.md "wikilink")（Tattoo）
 
-  - Tat is a son and disciple of [Hermes
-    Trismegistus](../Page/赫耳墨斯·特里斯墨吉斯忒斯.md "wikilink").
+  - Tat is a son and disciple of [Hermes Trismegistus](../Page/赫耳墨斯·特里斯墨吉斯忒斯.md "wikilink").
 
   - , a nonprofit organization
 

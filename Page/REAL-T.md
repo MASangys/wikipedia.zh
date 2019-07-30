@@ -1,20 +1,12 @@
-**株式會社REAL-T**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")[成田東](../Page/成田東_\(杉並區\).md "wikilink")\[1\]的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[後期製作與](https://zh.wikipedia.org/wiki/後期製作 "wikilink")[剪輯公司](../Page/剪輯.md "wikilink")。成立於2006年\[2\]。[代表董事為](../Page/代表董事.md "wikilink")[西山茂](../Page/西山茂.md "wikilink")\[3\]。
+**株式會社REAL-T**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")[成田東](../Page/成田東_\(杉並區\).md "wikilink")\[1\]的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[後期製作與](https://zh.wikipedia.org/wiki/後期製作 "wikilink")[剪輯](../Page/剪輯.md "wikilink")公司。成立於2006年\[2\]。[代表董事](../Page/代表董事.md "wikilink")為[西山茂](../Page/西山茂.md "wikilink")\[3\]。
 
 ## 概要、沿革
 
-REAL-T是日本一家專門從事[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[後期製作與](https://zh.wikipedia.org/wiki/後期製作 "wikilink")[剪輯的公司](../Page/剪輯.md "wikilink")。2006年3月1日\[4\]，由以往跟[東映動畫合作企業](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")（）所屬[剪輯技師](../Page/剪輯.md "wikilink")[西山茂自行就任執行董事](../Page/西山茂.md "wikilink")。成立之後與動畫公司[HAL
-FILM
-MAKER](https://zh.wikipedia.org/wiki/HAL_FILM_MAKER "wikilink")（現已併入並改名[TYO動畫](https://zh.wikipedia.org/wiki/TYO動畫 "wikilink")）一起成為集團的子企業之一。
+REAL-T是日本一家專門從事[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[後期製作與](https://zh.wikipedia.org/wiki/後期製作 "wikilink")[剪輯](../Page/剪輯.md "wikilink")的公司。2006年3月1日\[4\]，由以往跟[東映動畫合作企業](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")（）所屬[剪輯](../Page/剪輯.md "wikilink")技師[西山茂](../Page/西山茂.md "wikilink")自行就任執行董事。成立之後與動畫公司[HAL FILM MAKER](https://zh.wikipedia.org/wiki/HAL_FILM_MAKER "wikilink")（現已併入並改名[TYO動畫](https://zh.wikipedia.org/wiki/TYO動畫 "wikilink")）一起成為集團的子企業之一。
 
-另外，REAL-T自從成立以來，設有共6間AVID Symphony
-NitrisDX和[HDCAM-SR的HD剪輯器材與剪輯室](../Page/HDCAM.md "wikilink")\[5\]，以及有8位專業人員\[6\]。並主要和[J.C.STAFF](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")、[A-1
-Pictures](../Page/A-1_Pictures.md "wikilink")、[SILVER
-LINK.](../Page/SILVER_LINK..md "wikilink")、[WHITE
-FOX](../Page/WHITE_FOX.md "wikilink")、[TMS
-Entertainment及](../Page/TMS娛樂.md "wikilink")等動畫製作公司合作。
+另外，REAL-T自從成立以來，設有共6間AVID Symphony NitrisDX和[HDCAM](../Page/HDCAM.md "wikilink")-SR的HD剪輯器材與剪輯室\[5\]，以及有8位專業人員\[6\]。並主要和[J.C.STAFF](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")、[A-1 Pictures](../Page/A-1_Pictures.md "wikilink")、[SILVER LINK.](../Page/SILVER_LINK..md "wikilink")、[WHITE FOX](../Page/WHITE_FOX.md "wikilink")、[TMS Entertainment及](../Page/TMS娛樂.md "wikilink")等動畫製作公司合作。
 
-2017年11月30日，[Graphinica的母公司](../Page/Graphinica.md "wikilink")從TYO手裏購買了後者擁有的TYO
-Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech的子公司。而TYO動畫則成為Graphinica的子公司（同時公司名稱又改回夢太公司）\[7\]\[8\]。
+2017年11月30日，[Graphinica](../Page/Graphinica.md "wikilink")的母公司從TYO手裏購買了後者擁有的TYO Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech的子公司。而TYO動畫則成為Graphinica的子公司（同時公司名稱又改回夢太公司）\[7\]\[8\]。
 
 ## 主要參加作品
 
@@ -28,26 +20,23 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
 <!-- end list -->
 
-  - [ARIA The
-    NATURAL](https://zh.wikipedia.org/wiki/水星領航員#電視動畫第二季（ARIA_The_NATURAL） "wikilink")（[西山茂](../Page/西山茂.md "wikilink")）
+  - [ARIA The NATURAL](https://zh.wikipedia.org/wiki/水星領航員#電視動畫第二季（ARIA_The_NATURAL） "wikilink")（[西山茂](../Page/西山茂.md "wikilink")）
 
   - （西山茂）
 
-  - [蜂蜜與四葉草II](../Page/蜂蜜與四葉草.md "wikilink")（西山茂）
+  - [蜂蜜與四葉草](../Page/蜂蜜與四葉草.md "wikilink")II（西山茂）
 
   - [後天的方向。](https://zh.wikipedia.org/wiki/後天的方向 "wikilink")（西山茂）
 
   - [櫻蘭高校男公關部](../Page/櫻蘭高校男公關部.md "wikilink")（西山茂）
 
-  - [銀河鐵道物語
-    ～永遠的分岐點～](https://zh.wikipedia.org/wiki/銀河鐵道物語 "wikilink")（西山茂）
+  - [銀河鐵道物語 ～永遠的分岐點～](https://zh.wikipedia.org/wiki/銀河鐵道物語 "wikilink")（西山茂）
 
   - （西山茂）
 
   - [不可思議星球的☆雙胞胎公主Gyu！](../Page/不可思議星球的雙胞胎公主.md "wikilink")（西山茂）
 
-  - [家庭教師HITMAN
-    REBORN！](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")（西山茂）
+  - [家庭教師HITMAN REBORN！](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")（西山茂）
 
 <!-- end list -->
 
@@ -55,8 +44,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
 <!-- end list -->
 
-  - [Sketch book ～full
-    color\`s～](../Page/Sketch_book～素描簿～.md "wikilink")（坪根健太郎）
+  - [Sketch book ～full color\`s～](../Page/Sketch_book～素描簿～.md "wikilink")（坪根健太郎）
 
   - [暗夜魔法使 The ANIMATION](../Page/暗夜魔法使.md "wikilink")（坪根健太郎）
 
@@ -68,7 +56,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
   - [Devil May Cry](../Page/惡魔獵人系列.md "wikilink")（西山茂）
 
-  - [神曲奏界Polyphonica](../Page/神曲奏界.md "wikilink")（西山茂）
+  - [神曲奏界](../Page/神曲奏界.md "wikilink")Polyphonica（西山茂）
 
   - [王牌投手 振臂高揮](../Page/王牌投手_振臂高揮.md "wikilink")（西山茂）
 
@@ -84,8 +72,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
 <!-- end list -->
 
-  - [ARIA The
-    ORIGINATION](https://zh.wikipedia.org/wiki/水星領航員#電視動畫第三季（ARIA_The_ORIGINATION） "wikilink")（坪根健太郎）
+  - [ARIA The ORIGINATION](https://zh.wikipedia.org/wiki/水星領航員#電視動畫第三季（ARIA_The_ORIGINATION） "wikilink")（坪根健太郎）
 
   - [死後文](https://zh.wikipedia.org/wiki/死後文 "wikilink")（西山茂）
 
@@ -93,8 +80,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
   - [SOUL EATER](../Page/SOUL_EATER.md "wikilink")（西山茂）
 
-  - [女神異聞錄
-    ～三位一體之魂～](https://zh.wikipedia.org/wiki/女神異聞錄_～三位一體之魂～ "wikilink")（西山茂）
+  - [女神異聞錄 ～三位一體之魂～](https://zh.wikipedia.org/wiki/女神異聞錄_～三位一體之魂～ "wikilink")（西山茂）
 
   - [新·安琪莉可 Abyss](../Page/新·安琪莉可.md "wikilink")（西山茂）
 
@@ -157,12 +143,11 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
   - 王牌投手 振臂高揮 ～夏季大會篇～（西山茂）
   - [世紀末超自然學院](../Page/世紀末超自然學院.md "wikilink")（西山茂）
   - [B型H系](../Page/B型H系.md "wikilink")（後藤正浩）
-  - [野狼大神與七位夥伴](../Page/野狼大神.md "wikilink")（後藤正浩）
+  - [野狼大神](../Page/野狼大神.md "wikilink")與七位夥伴（後藤正浩）
   - [學生會長是女僕！](../Page/學生會長是女僕！.md "wikilink")（後藤正浩）
   - 黑執事II（後藤正浩）
   - [咎狗之血](../Page/咎狗之血.md "wikilink")（坪根健太郎）
-  - [偵探歌劇
-    少女福爾摩斯](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink")（後藤正浩）
+  - [偵探歌劇 少女福爾摩斯](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink")（後藤正浩）
   - [少女妖怪 石榴](../Page/少女妖怪_石榴.md "wikilink")（西山茂）
   - [侵略！花枝娘](../Page/侵略！花枝娘.md "wikilink")（西山茂）
   - [爆漫王。](https://zh.wikipedia.org/wiki/爆漫王。 "wikilink")（後藤正浩）
@@ -194,8 +179,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
   - WORKING'\!\!（坪根健太郎）
   - 侵略\!? 花枝娘（西山茂）
   - [幸福光暈 ～hitotose～](../Page/幸福光暈.md "wikilink")（西山茂）
-  - [灼眼的夏娜III
-    -FINAL-](https://zh.wikipedia.org/wiki/灼眼的夏娜_\(動畫\)#灼眼的夏娜Ⅲ（第三期） "wikilink")（西山茂）
+  - [灼眼的夏娜III -FINAL-](https://zh.wikipedia.org/wiki/灼眼的夏娜_\(動畫\)#灼眼的夏娜Ⅲ（第三期） "wikilink")（西山茂）
 
 <!-- end list -->
 
@@ -215,8 +199,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
   - [向銀河開球](https://zh.wikipedia.org/wiki/向銀河開球 "wikilink")（後藤正浩）
 
-  - [BLACK★ROCK
-    SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")（坪根健太郎）
+  - [BLACK★ROCK SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")（坪根健太郎）
 
   - [黃昏乙女×失憶幽靈](../Page/黃昏乙女×失憶幽靈.md "wikilink")（坪根健太郎）
 
@@ -236,8 +219,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
   - [女子落語](../Page/女子落語.md "wikilink")（西山茂）
 
-  - [聖靈家族 -La storia della Arcana
-    Famiglia-](../Page/聖靈家族.md "wikilink")（西山茂）
+  - [聖靈家族 -La storia della Arcana Famiglia-](../Page/聖靈家族.md "wikilink")（西山茂）
 
   - [超譯百人一首戀歌](../Page/超譯百人一首戀歌.md "wikilink")（後藤正浩）
 
@@ -251,7 +233,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
   - [櫻花莊的寵物女孩](../Page/櫻花莊的寵物女孩.md "wikilink")（西山茂）
 
-  - [只要妳說妳愛我。](../Page/只要妳說妳愛我.md "wikilink")（後藤正浩）
+  - [只要妳說妳愛我](../Page/只要妳說妳愛我.md "wikilink")。（後藤正浩）
 
 <!-- end list -->
 
@@ -270,12 +252,11 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
   - 歌之王子殿下 真愛2000%（西山茂）
 
-  - [變態王子與不笑貓。](../Page/變態王子與不笑貓.md "wikilink")（後藤正浩）
+  - [變態王子與不笑貓](../Page/變態王子與不笑貓.md "wikilink")。（後藤正浩）
 
   - 科學超電磁砲S（西山茂）
 
-  - [Fate/kaleid liner
-    魔法少女☆伊莉雅](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")（坪根健太郎）
+  - [Fate/kaleid liner 魔法少女☆伊莉雅](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")（坪根健太郎）
 
   - [我不受歡迎，怎麼想都是你們的錯！](../Page/我不受歡迎，怎麼想都是你們的錯！.md "wikilink")（坪根健太郎）
 
@@ -285,13 +266,11 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
   - [SERVANT×SERVICE](https://zh.wikipedia.org/wiki/SERVANT×SERVICE "wikilink")（坪根健太郎）
 
-  - [銀之匙 Silver
-    Spoon](https://zh.wikipedia.org/wiki/銀之匙_Silver_Spoon "wikilink")（西山茂）
+  - [銀之匙 Silver Spoon](https://zh.wikipedia.org/wiki/銀之匙_Silver_Spoon "wikilink")（西山茂）
 
   - 二人是少女福爾摩斯（後藤正浩）
 
-  - [魔界王子 devils and
-    realist](../Page/魔界王子_devils_and_realist.md "wikilink")（西山茂）
+  - [魔界王子 devils and realist](../Page/魔界王子_devils_and_realist.md "wikilink")（西山茂）
 
   - 幸福光暈 ～More Aggressive～（西山茂）
 
@@ -313,8 +292,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
 <!-- end list -->
 
-  - [超級索尼子 -SUPER SONICO THE
-    ANIMATION-](https://zh.wikipedia.org/wiki/超級索尼子_\(動畫\) "wikilink")（後藤正浩）
+  - [超級索尼子 -SUPER SONICO THE ANIMATION-](https://zh.wikipedia.org/wiki/超級索尼子_\(動畫\) "wikilink")（後藤正浩）
   - [魔女的使命](../Page/魔女的使命.md "wikilink")（後藤正浩）
   - [地球隊長](../Page/地球隊長.md "wikilink")（西山茂）
   - [世界征服 謀略之星](../Page/世界征服_謀略之星.md "wikilink")（後藤正浩）
@@ -323,15 +301,12 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
   - [最近，妹妹的樣子有點怪？](../Page/最近，妹妹的樣子有點怪？.md "wikilink")（坪根健太郎）
   - [龍孃七七七埋藏的寶藏](../Page/龍孃七七七埋藏的寶藏.md "wikilink")（坪根健太郎）
   - [風雲維新大將軍](../Page/風雲維新大將軍.md "wikilink")（西山茂）
-  - [selector infected
-    WIXOSS](https://zh.wikipedia.org/wiki/selector_infected_WIXOSS "wikilink")（後藤正浩）
+  - [selector infected WIXOSS](https://zh.wikipedia.org/wiki/selector_infected_WIXOSS "wikilink")（後藤正浩）
   - [LOVE STAGE\!\!](../Page/LOVE_STAGE!!.md "wikilink")（坪根健太郎）
   - [棺姬嘉依卡](../Page/棺姬嘉依卡.md "wikilink")（後藤正浩）
-  - [愛絲卡&羅吉的鍊金工房
-    ～黃昏天空之鍊金術士～](../Page/愛絲卡&羅吉的鍊金工房～黃昏天空之鍊金術士～.md "wikilink")（後藤正浩）
+  - [愛絲卡&羅吉的鍊金工房 ～黃昏天空之鍊金術士～](../Page/愛絲卡&羅吉的鍊金工房～黃昏天空之鍊金術士～.md "wikilink")（後藤正浩）
   - [金色琴弦 Blue♪Sky](../Page/金色琴弦.md "wikilink")（近藤勇二）
-  - [M3
-    ～黑色鋼鐵～](https://zh.wikipedia.org/wiki/M3～黑色鋼鐵～ "wikilink")（坪根健太郎）
+  - [M3 ～黑色鋼鐵～](https://zh.wikipedia.org/wiki/M3～黑色鋼鐵～ "wikilink")（坪根健太郎）
   - [元氣囝仔](../Page/元氣囝仔.md "wikilink")（須藤瞳）
   - Fate/kaleid liner 魔法少女☆伊莉雅 2wei！（坪根健太郎）
   - [三坪房間的侵略者\!?](../Page/三坪房間的侵略者！？.md "wikilink")（坪根健太郎）
@@ -371,7 +346,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
   - [學戰都市Asterisk](../Page/學戰都市Asterisk.md "wikilink")（後藤正浩）
   - [對魔導學園35試驗小隊](../Page/對魔導學園35試驗小隊.md "wikilink")（坪根健太郎）
   - [重裝武器](../Page/重裝武器.md "wikilink")（西山茂）
-  - [輕鬆百合3☆hi！](../Page/輕鬆百合.md "wikilink")（坪根健太郎）
+  - [輕鬆百合](../Page/輕鬆百合.md "wikilink")3☆hi！（坪根健太郎）
 
 <!-- end list -->
 
@@ -383,8 +358,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
   - [NORN9 命運九重奏](../Page/NORN9_命運九重奏.md "wikilink")（須藤瞳）
   - [只有我不存在的城市](../Page/只有我不存在的城市.md "wikilink")（西山茂）
   - [Anne Happy♪](../Page/Anne_Happy_♪.md "wikilink")（坪根健太郎）
-  - [逆轉裁判
-    ～對這個「真相」，有異議！～](https://zh.wikipedia.org/wiki/逆轉裁判_\(動畫\) "wikilink")（後藤正浩）
+  - [逆轉裁判 ～對這個「真相」，有異議！～](https://zh.wikipedia.org/wiki/逆轉裁判_\(動畫\) "wikilink")（後藤正浩）
   - [田中君總是如此慵懶](../Page/田中君總是如此慵懶.md "wikilink")（坪根健太郎）
   - [火星異種 復仇](../Page/火星異種.md "wikilink")（近藤勇二）
   - [飛翔的魔女](https://zh.wikipedia.org/wiki/飛翔的魔女 "wikilink")（後藤正浩）
@@ -397,8 +371,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
   - [齊木楠雄的災難](../Page/齊木楠雄的災難.md "wikilink")（後藤正浩）
   - 食戟之靈 貳之皿（西山茂）
   - [TABOO TATTOO -禁忌咒紋-](../Page/TABOO_TATTOO－禁忌咒紋－.md "wikilink")（西山茂）
-  - [Fate/kaleid liner 魔法少女☆伊莉雅
-    3rei\!\!](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")（坪根健太郎）
+  - [Fate/kaleid liner 魔法少女☆伊莉雅 3rei\!\!](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")（坪根健太郎）
   - [刀劍亂舞 -花丸-](../Page/刀劍亂舞.md "wikilink")（坪根健太郎）
 
 <!-- end list -->
@@ -410,9 +383,8 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
   - [快盜天使雙胞胎](../Page/快盜天使雙胞胎.md "wikilink")（後藤正浩）
   - [學園少女突襲者 Animation Channel](../Page/學園少女突襲者.md "wikilink")（西山茂）
   - [BanG Dream！](../Page/BanG_Dream!.md "wikilink")（新見元希）
-  - [快盜天使雙胞胎BREAK](../Page/快盜天使雙胞胎.md "wikilink")（後藤正浩）
-  - [劍姬神聖譚 在地下城尋求邂逅是否搞錯了什麼
-    外傳](https://zh.wikipedia.org/wiki/在地下城尋求邂逅是否搞錯了什麼 "wikilink")（坪根健太郎）
+  - [快盜天使雙胞胎](../Page/快盜天使雙胞胎.md "wikilink")BREAK（後藤正浩）
+  - [劍姬神聖譚 在地下城尋求邂逅是否搞錯了什麼 外傳](https://zh.wikipedia.org/wiki/在地下城尋求邂逅是否搞錯了什麼 "wikilink")（坪根健太郎）
   - [情色漫畫老師](https://zh.wikipedia.org/wiki/情色漫畫老師 "wikilink")（坪根健太郎）
   - [小魔女學園](https://zh.wikipedia.org/wiki/小魔女學園 "wikilink")（坪根健太郎）
   - [戰鬥女子學園](../Page/戰鬥女子學園.md "wikilink")（坪根健太郎）
@@ -433,8 +405,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
   - [最終休止符 -無止境的螺旋物語-](../Page/最終休止符_-無止境的螺旋物語-.md "wikilink")（新見元希）
   - [阿宅的戀愛太難](../Page/阿宅的戀愛太難.md "wikilink")（坪根健太郎）
   - [漫畫女孩](https://zh.wikipedia.org/wiki/漫畫女孩 "wikilink")（坪根健太郎）
-  - [ALICE OR
-    ALICE](https://zh.wikipedia.org/wiki/ALICE_OR_ALICE～妹控哥哥與雙胞胎妹妹～ "wikilink")（新見元希）
+  - [ALICE OR ALICE](https://zh.wikipedia.org/wiki/ALICE_OR_ALICE～妹控哥哥與雙胞胎妹妹～ "wikilink")（新見元希）
   - [後街女孩](../Page/後街女孩.md "wikilink")（山岸歩奈実）
   - [春原莊的管理員小姐](../Page/春原莊的管理員小姐.md "wikilink")（坪根健太郎）
   - [音樂少女](../Page/音樂少女.md "wikilink")（西山茂）
@@ -443,8 +414,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
   - [搖曳莊的幽奈小姐](../Page/搖曳莊的幽奈小姐.md "wikilink")（坪根健太郎）
   - [我讓最想被擁抱的男人給威脅了。](../Page/我讓最想被擁抱的男人給威脅了。.md "wikilink")（瀧川三智）
   - [隔壁的吸血鬼美眉](../Page/隔壁的吸血鬼美眉.md "wikilink")（坪根健太郎）
-  - [刀劍神域
-    Alicization](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")（近藤勇二）
+  - [刀劍神域 Alicization](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")（近藤勇二）
   - [魔法禁書目錄III](https://zh.wikipedia.org/wiki/魔法禁書目錄 "wikilink")（西山茂）
   - [RErideD -穿越時空的德希達-](../Page/RErideD_-穿越時空的德希達-.md "wikilink")（後藤正浩）
   - [佐賀偶像是傳奇](../Page/佐賀偶像是傳奇.md "wikilink")（後藤正浩）
@@ -456,7 +426,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 <!-- end list -->
 
   - [環戰公主](../Page/環戰公主.md "wikilink")（坪根健太郎）
-  - [動物朋友2](../Page/動物朋友.md "wikilink")（新見元希）
+  - [動物朋友](../Page/動物朋友.md "wikilink")2（新見元希）
   - [盾之勇者成名錄](../Page/盾之勇者成名錄.md "wikilink")（須藤瞳）
   - [天使降臨到我身邊！](../Page/天使降臨到我身邊！.md "wikilink")（坪根健太郎）
   - [賢者之孫](../Page/賢者之孫.md "wikilink")（瀧川三智）
@@ -477,10 +447,9 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
 <!-- end list -->
 
-  - [銀河鐵道物語
-    ～被時間遺忘的行星～](https://zh.wikipedia.org/wiki/銀河鐵道物語 "wikilink")（西山茂）
+  - [銀河鐵道物語 ～被時間遺忘的行星～](https://zh.wikipedia.org/wiki/銀河鐵道物語 "wikilink")（西山茂）
 
-  - [撲殺天使朵庫蘿2](../Page/撲殺天使朵庫蘿.md "wikilink")（坪根健太郎）
+  - [撲殺天使朵庫蘿](../Page/撲殺天使朵庫蘿.md "wikilink")2（坪根健太郎）
 
   -
 <!-- end list -->
@@ -506,15 +475,13 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
 <!-- end list -->
 
-  - [遙遠時空3
-    永無止境的命運](https://zh.wikipedia.org/wiki/遙遠時空3#永無止境的命運 "wikilink")（坪根健太郎）
+  - [遙遠時空3 永無止境的命運](https://zh.wikipedia.org/wiki/遙遠時空3#永無止境的命運 "wikilink")（坪根健太郎）
 
   - [小泉麻將傳說](https://zh.wikipedia.org/wiki/渣和無用改革 "wikilink")（後藤正浩）
 
   - [幸福光暈](../Page/幸福光暈.md "wikilink")（西山茂）
 
-  - [BLACK★ROCK
-    SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")（坪根健太郎）
+  - [BLACK★ROCK SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")（坪根健太郎）
 
   - [科學超電磁砲](https://zh.wikipedia.org/wiki/科學超電磁砲#OVA "wikilink")（西山茂）
 
@@ -526,8 +493,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
 <!-- end list -->
 
-  - [戰場女武神3
-    為誰而負的槍傷](https://zh.wikipedia.org/wiki/戰場女武神3#OVA動畫 "wikilink")（坪根健太郎）
+  - [戰場女武神3 為誰而負的槍傷](https://zh.wikipedia.org/wiki/戰場女武神3#OVA動畫 "wikilink")（坪根健太郎）
 
 <!-- end list -->
 
@@ -535,8 +501,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
 <!-- end list -->
 
-  - [少女愛上姊姊 2位Elder THE
-    ANIMATION](https://zh.wikipedia.org/wiki/處女愛上姊姊#OVA "wikilink")（後藤正浩）
+  - [少女愛上姊姊 2位Elder THE ANIMATION](https://zh.wikipedia.org/wiki/處女愛上姊姊#OVA "wikilink")（後藤正浩）
 
   - （西山茂）
 
@@ -551,8 +516,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
   - （坪根健太郎）
 
-  - [輕鬆百合
-    暑假時光！](https://zh.wikipedia.org/wiki/輕鬆百合#OVA "wikilink")（坪根健太郎）
+  - [輕鬆百合 暑假時光！](https://zh.wikipedia.org/wiki/輕鬆百合#OVA "wikilink")（坪根健太郎）
 
 <!-- end list -->
 
@@ -577,8 +541,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
 <!-- end list -->
 
-  - [劇場版
-    灼眼的夏娜](https://zh.wikipedia.org/wiki/灼眼的夏娜_\(動畫\)#劇場版 "wikilink")（西山茂）
+  - [劇場版 灼眼的夏娜](https://zh.wikipedia.org/wiki/灼眼的夏娜_\(動畫\)#劇場版 "wikilink")（西山茂）
 
   - （西山茂）
 
@@ -590,8 +553,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
   - [夏日大作戰](../Page/夏日大作戰.md "wikilink")（西山茂）
   - [歡迎來到宇宙秀](../Page/歡迎來到宇宙劇場.md "wikilink")（後藤正浩）
-  - [ONE PIECE FILM STRONG
-    WORLD](../Page/ONE_PIECE_FILM_強者天下.md "wikilink")（後藤正浩）
+  - [ONE PIECE FILM STRONG WORLD](../Page/ONE_PIECE_FILM_強者天下.md "wikilink")（後藤正浩）
 
 <!-- end list -->
 
@@ -607,8 +569,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
 <!-- end list -->
 
-  - [STAR DRIVER 閃亮的塔科特 THE
-    MOVIE](https://zh.wikipedia.org/wiki/STAR_DRIVER_閃亮的塔科特#劇場版 "wikilink")（西山茂）
+  - [STAR DRIVER 閃亮的塔科特 THE MOVIE](https://zh.wikipedia.org/wiki/STAR_DRIVER_閃亮的塔科特#劇場版 "wikilink")（西山茂）
   - [狼的孩子雨和雪](../Page/狼的孩子雨和雪.md "wikilink")（西山茂）
 
 <!-- end list -->
@@ -618,11 +579,9 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 <!-- end list -->
 
   - [小魔女學園](https://zh.wikipedia.org/wiki/小魔女學園 "wikilink")（坪根健太郎）
-  - [劇場版
-    我們仍未知道那天所看見的花名。](https://zh.wikipedia.org/wiki/我們仍未知道那天所看見的花名。#劇場版 "wikilink")（西山茂）
+  - [劇場版 我們仍未知道那天所看見的花名。](https://zh.wikipedia.org/wiki/我們仍未知道那天所看見的花名。#劇場版 "wikilink")（西山茂）
   - [劇場版 魔法禁書目錄：恩底彌翁的奇蹟](../Page/劇場版魔法禁書目錄：恩底彌翁的奇蹟.md "wikilink")（西山茂）
-  - [劇場版
-    STEINS;GATE：負荷領域的既視感](https://zh.wikipedia.org/wiki/命運石之門#劇場版動畫 "wikilink")（後藤正浩）
+  - [劇場版 STEINS;GATE：負荷領域的既視感](https://zh.wikipedia.org/wiki/命運石之門#劇場版動畫 "wikilink")（後藤正浩）
 
 <!-- end list -->
 
@@ -632,8 +591,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
   - （後藤正浩）
 
-  - [猛烈宇宙海賊 ABYSS OF HYPERSPACE
-    -亞空的深淵-](https://zh.wikipedia.org/wiki/迷你裙宇宙海賊#劇場版 "wikilink")（坪根健太郎）
+  - [猛烈宇宙海賊 ABYSS OF HYPERSPACE -亞空的深淵-](https://zh.wikipedia.org/wiki/迷你裙宇宙海賊#劇場版 "wikilink")（坪根健太郎）
 
 <!-- end list -->
 
@@ -649,8 +607,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
   - [好想大聲說出心底的話。](../Page/好想大聲說出心底的話。.md "wikilink")（西山茂）
 
-  - [續·劇場版 Wake Up,
-    Girls！前篇：青春之影](https://zh.wikipedia.org/wiki/Wake_Up,_Girls!#劇場版第2作「Wake_Up,_Girls!_續・劇場版」 "wikilink")（坪根健太郎）
+  - [續·劇場版 Wake Up, Girls！前篇：青春之影](https://zh.wikipedia.org/wiki/Wake_Up,_Girls!#劇場版第2作「Wake_Up,_Girls!_續・劇場版」 "wikilink")（坪根健太郎）
 
   - 小魔女學園：魔法遊行（坪根健太郎）
 
@@ -746,10 +703,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
   - [株式會社REAL-T公式官網](http://www.real-t.co.jp/)
 
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
-[Category:HAL_FILM_MAKER](https://zh.wikipedia.org/wiki/Category:HAL_FILM_MAKER "wikilink")
-[Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink")
+[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink") [Category:HAL_FILM_MAKER](https://zh.wikipedia.org/wiki/Category:HAL_FILM_MAKER "wikilink") [Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink")
 
 1.
 

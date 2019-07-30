@@ -1,16 +1,10 @@
-《**color bars**》（，*color
-bars*）是[東京事變的首張](../Page/東京事變.md "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，由[EMI
-Music
-Japan](https://zh.wikipedia.org/wiki/EMI音樂_\(日本\) "wikilink")／[Virgin
-Music於](../Page/維京唱片.md "wikilink")2012年1月18日發行。初回限定為「精美外紙盒仕樣、東京事變團員相片卡、演唱會抽選券」。
+《**color bars**》（，*color bars*）是[東京事變](../Page/東京事變.md "wikilink")的首張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，由[EMI Music Japan](https://zh.wikipedia.org/wiki/EMI音樂_\(日本\) "wikilink")／[Virgin Music於](../Page/維京唱片.md "wikilink")2012年1月18日發行。初回限定為「精美外紙盒仕樣、東京事變團員相片卡、演唱會抽選券」。
 
-在專輯銷售成績方面，本張專輯在日本Oricon銷售榜上最高位居單週第2名\[1\]，名列2012年年度銷售榜第62位\[2\]。在銷售認證上，專輯《color
-bars》銷售突破10萬張，在2012年1月通過日本唱片協會認定為金唱片\[3\]。
+在專輯銷售成績方面，本張專輯在日本Oricon銷售榜上最高位居單週第2名\[1\]，名列2012年年度銷售榜第62位\[2\]。在銷售認證上，專輯《color bars》銷售突破10萬張，在2012年1月通過日本唱片協會認定為金唱片\[3\]。
 
 ## 專輯概要
 
-《**color
-bars**》是東京事變首張迷你專輯，同時也是繼2011年6月發表《[大發現](../Page/大發現_\(專輯\).md "wikilink")》後，睽違六個月的作品。
+《**color bars**》是東京事變首張迷你專輯，同時也是繼2011年6月發表《[大發現](../Page/大發現_\(專輯\).md "wikilink")》後，睽違六個月的作品。
 
 最後，在專輯銷售成績方面，本張專輯在發行當週以7.8萬張的銷售量在日本Oricon銷售榜上位居第2名\[4\]，總計在Oriocn銷售榜上榜9週\[5\]，累積銷售達14.0萬張，名列2012年年度銷售榜第62位\[6\]。同時，專輯銷售突破10萬張，在2012年1月通過日本唱片協會認定為金唱片\[7\]。
 
@@ -46,12 +40,7 @@ bars**》是東京事變首張迷你專輯，同時也是繼2011年6月發表《
 
 ### Oricon 銷售榜(日本)
 
-《color
-bars》於2012年1月18日發行。發行首週，在日本公信榜Oricon的專輯榜2012年1月第3週付的榜單中以78,318張銷售量居單週第二名。同週第一名是銷售量突破8萬大關的搖滾樂團[亞細亞功夫世代的專輯](../Page/亞細亞功夫世代.md "wikilink")《》\[8\]。第二週則以銷售量1.4萬張位居第六位，同週前三名分別為女歌手[倖田來未的專輯](../Page/倖田來未.md "wikilink")《[JAPONESQUE](../Page/JAPONESQUE.md "wikilink")》、第二名則是團體的專輯《》及團體[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")／EXILE
-ATSUSHI的專輯《[EXILE
-JAPAN/Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo "wikilink")》\[9\]。總計《color
-bars》總共在日本公信榜Oricon的專輯榜上榜9週，累積銷售達10.8萬張\[10\]。同時在2012年年銷售榜中，《color
-bars》以10.8萬張銷售量居全年第62名\[11\]。
+《color bars》於2012年1月18日發行。發行首週，在日本公信榜Oricon的專輯榜2012年1月第3週付的榜單中以78,318張銷售量居單週第二名。同週第一名是銷售量突破8萬大關的搖滾樂團[亞細亞功夫世代](../Page/亞細亞功夫世代.md "wikilink")的專輯《》\[8\]。第二週則以銷售量1.4萬張位居第六位，同週前三名分別為女歌手[倖田來未](../Page/倖田來未.md "wikilink")的專輯《[JAPONESQUE](../Page/JAPONESQUE.md "wikilink")》、第二名則是團體的專輯《》及團體[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")／EXILE ATSUSHI的專輯《[EXILE JAPAN/Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo "wikilink")》\[9\]。總計《color bars》總共在日本公信榜Oricon的專輯榜上榜9週，累積銷售達10.8萬張\[10\]。同時在2012年年銷售榜中，《color bars》以10.8萬張銷售量居全年第62名\[11\]。
 
 <table>
 <thead>
@@ -131,9 +120,7 @@ color bars</p></td>
 
 ### 參考資料
 
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:東京事變的專輯](https://zh.wikipedia.org/wiki/Category:東京事變的專輯 "wikilink")
+[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:東京事變的專輯](https://zh.wikipedia.org/wiki/Category:東京事變的專輯 "wikilink")
 
 1.
 2.

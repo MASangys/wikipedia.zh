@@ -1,5 +1,4 @@
-是一款由[太东制作和发行的](https://zh.wikipedia.org/wiki/太东 "wikilink")[模拟经营游戏](../Page/模拟经营游戏.md "wikilink")。\[1\]本游戏最初于1997年3月[街机发行](../Page/街机.md "wikilink")，游戏后移植至[PlayStation](https://zh.wikipedia.org/wiki/PlayStation_\(游戏机\) "wikilink")。\[2\]
-1997年9月，本游戏的加强版《電車GO\!EX》发行。本游戏后移植至[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")。
+是一款由[太东制作和发行的](https://zh.wikipedia.org/wiki/太东 "wikilink")[模拟经营游戏](../Page/模拟经营游戏.md "wikilink")。\[1\]本游戏最初于1997年3月[街机](../Page/街机.md "wikilink")发行，游戏后移植至[PlayStation](https://zh.wikipedia.org/wiki/PlayStation_\(游戏机\) "wikilink")。\[2\] 1997年9月，本游戏的加强版《電車GO\!EX》发行。本游戏后移植至[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
 ## 游戏内容
 
@@ -21,15 +20,10 @@
 
 ## 外部链接
 
-  - [Densha de Go\!
-    Forums](http://s14.zetaboards.com/Densha_De_Go_Forums/)
+  - [Densha de Go\! Forums](http://s14.zetaboards.com/Densha_De_Go_Forums/)
   - [1](http://segaretro.org/Densha_de_Go!_EX)
 
-[Category:1997年电子游戏](https://zh.wikipedia.org/wiki/Category:1997年电子游戏 "wikilink")
-[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:电车GO\!系列](https://zh.wikipedia.org/wiki/Category:电车GO!系列 "wikilink")
-[Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink")
+[Category:1997年电子游戏](https://zh.wikipedia.org/wiki/Category:1997年电子游戏 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:电车GO\!系列](https://zh.wikipedia.org/wiki/Category:电车GO!系列 "wikilink") [Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink")
 
 1.
 2.

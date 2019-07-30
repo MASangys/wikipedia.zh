@@ -1,4 +1,4 @@
-**布朗克斯公園東車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT白原路線一個慢車](../Page/IRT白原路線.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布朗克斯伯查爾大道的薩加摩爾街](../Page/布朗克斯.md "wikilink")\[1\]，設有[2號線](https://zh.wikipedia.org/wiki/紐約地鐵2號線 "wikilink")（任何時候停站）與[5號線](../Page/紐約地鐵5號線.md "wikilink")（僅繁忙時段的尖峰方向停站）列車服務\[2\]\[3\]。
+**布朗克斯公園東車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT白原路線](../Page/IRT白原路線.md "wikilink")一個慢車[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布朗克斯](../Page/布朗克斯.md "wikilink")伯查爾大道的薩加摩爾街\[1\]，設有[2號線](https://zh.wikipedia.org/wiki/紐約地鐵2號線 "wikilink")（任何時候停站）與[5號線](../Page/紐約地鐵5號線.md "wikilink")（僅繁忙時段的尖峰方向停站）列車服務\[2\]\[3\]。
 
 ## 車站結構
 
@@ -38,34 +38,26 @@
 </tbody>
 </table>
 
-此高架車站設有兩個[側式月台和三條軌道](../Page/側式月台.md "wikilink")\[4\]。
+此高架車站設有兩個[側式月台](../Page/側式月台.md "wikilink")和三條軌道\[4\]。
 
 ## 參考資料
 
 ## 外部連結
 
   -
-  - nycsubway.org — ["B" is for Birds in the Bronx Artwork by Candida
-    Alvarez (2006)](http://www.nycsubway.org/perl/artwork_show?173)
+  - nycsubway.org — ["B" is for Birds in the Bronx Artwork by Candida Alvarez (2006)](http://www.nycsubway.org/perl/artwork_show?173)
 
-  - Station Reporter — [2
-    Train](https://web.archive.org/web/20141203073216/http://www.stationreporter.net/2train.htm)
+  - Station Reporter — [2 Train](https://web.archive.org/web/20141203073216/http://www.stationreporter.net/2train.htm)
 
-  - The Subway Nut — [Bronx Park East
-    Pictures](http://www.subwaynut.com/irt/bpe2/index.html)
+  - The Subway Nut — [Bronx Park East Pictures](http://www.subwaynut.com/irt/bpe2/index.html)
 
-  - MTA's Arts For Transit — [Bronx Park East (IRT White Plains Road
-    Line)](https://web.archive.org/web/20110606070505/http://mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=2&station=9&xdev=775)
+  - MTA's Arts For Transit — [Bronx Park East (IRT White Plains Road Line)](https://web.archive.org/web/20110606070505/http://mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=2&station=9&xdev=775)
 
-  - [Entrance from Google Maps Street
-    View](https://maps.google.com/maps?ie=UTF8&ll=40.848992,-73.868347&spn=0.003814,0.013433&z=17&layer=c&cbll=40.849032,-73.868494&panoid=630QbO_CIqZI_CtSUVKY0A&cbp=12,170.59,,0,1.41)
+  - [Entrance from Google Maps Street View](https://maps.google.com/maps?ie=UTF8&ll=40.848992,-73.868347&spn=0.003814,0.013433&z=17&layer=c&cbll=40.849032,-73.868494&panoid=630QbO_CIqZI_CtSUVKY0A&cbp=12,170.59,,0,1.41)
 
-  - [Platforms from Google Maps Street
-    View](http://www.google.com/maps/@40.849194,-73.8682636,3a,75y,191.04h,90.45t/data=!3m8!1e1!3m6!1s-zc55I7jXRgg%2FVkf7Q_v8WkI%2FAAAAAAAA_qU%2FqDFrQTuaV4w!2e4!3e11!6s%2F%2Flh3.googleusercontent.com%2F-zc55I7jXRgg%2FVkf7Q_v8WkI%2FAAAAAAAA_qU%2FqDFrQTuaV4w%2Fw203-h100-n-k-no%2F!7i8704!8i4352!6m1!1e1)
+  - [Platforms from Google Maps Street View](http://www.google.com/maps/@40.849194,-73.8682636,3a,75y,191.04h,90.45t/data=!3m8!1e1!3m6!1s-zc55I7jXRgg%2FVkf7Q_v8WkI%2FAAAAAAAA_qU%2FqDFrQTuaV4w!2e4!3e11!6s%2F%2Flh3.googleusercontent.com%2F-zc55I7jXRgg%2FVkf7Q_v8WkI%2FAAAAAAAA_qU%2FqDFrQTuaV4w%2Fw203-h100-n-k-no%2F!7i8704!8i4352!6m1!1e1)
 
-[Category:IRT白原路線車站](https://zh.wikipedia.org/wiki/Category:IRT白原路線車站 "wikilink")
-[Category:1917年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路車站 "wikilink")
-[Category:布朗克斯紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布朗克斯紐約地鐵車站 "wikilink")
+[Category:IRT白原路線車站](https://zh.wikipedia.org/wiki/Category:IRT白原路線車站 "wikilink") [Category:1917年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路車站 "wikilink") [Category:布朗克斯紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布朗克斯紐約地鐵車站 "wikilink")
 
 1.
 2.

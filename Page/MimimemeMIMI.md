@@ -1,6 +1,4 @@
-**mimimemeMIMI**（）是[日本的音樂團體](../Page/日本.md "wikilink")，隸屬[A-Sketch旗下的動畫品牌Astro](../Page/A-Sketch.md "wikilink")
-Voice\[1\]。本團體注重音樂的視覺與聽覺體驗\[2\]，團名的涵義是\[3\]。2017年7月18日，mimimemeMIMI宣布在同年9月9日舉行Live後解散，主唱Takao
-Yuki也從演藝界畢業\[4\]。
+**mimimemeMIMI**（）是[日本](../Page/日本.md "wikilink")的音樂團體，隸屬[A-Sketch](../Page/A-Sketch.md "wikilink")旗下的動畫品牌Astro Voice\[1\]。本團體注重音樂的視覺與聽覺體驗\[2\]，團名的涵義是\[3\]。2017年7月18日，mimimemeMIMI宣布在同年9月9日舉行Live後解散，主唱Takao Yuki也從演藝界畢業\[4\]。
 
 ## 簡介
 
@@ -239,9 +237,7 @@ AZNT-30（會場限定盤）</p></td>
   - [mimimemeMIMI官方網站](http://www.mimimememimi.com/)
 
   -
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink")
+[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink")
 
 1.
 

@@ -1,6 +1,4 @@
-《**PRETTY×CATION**》（全名：PRETTY×CATION -An Eternal Sweetheart's Every
-Day-）是日本[AKABEiSOFT2公司的旗下品牌hibiki](../Page/AKABEiSOFT2.md "wikilink")
-works在2014年4月25日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]CATION系列的第三作。
+《**PRETTY×CATION**》（全名：PRETTY×CATION -An Eternal Sweetheart's Every Day-）是日本[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")公司的旗下品牌hibiki works在2014年4月25日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]CATION系列的第三作。
 
 ## 遊戲系統
 
@@ -25,7 +23,7 @@ works在2014年4月25日發售的[成人遊戲](../Page/日本成人遊戲.md "w
 ### 主要角色
 
   - 主角
-    霧島學園2年B組的學生。原本是對戀愛沒興趣的[草食男](https://zh.wikipedia.org/wiki/草食男 "wikilink")，在叔母的勉勵下決定開始尋找自己的戀愛。
+    霧島學園2年B組的學生。原本是對戀愛沒興趣的[草食男](../Page/草食男.md "wikilink")，在叔母的勉勵下決定開始尋找自己的戀愛。
   -
     生日：10月24日（天蠍座）　血型：O型　身高：156cm　三圍：B85/W59/H86
     霧島學園2年B組的學生和班花。不希望被人知道而刻意隱瞞自己是個[御宅族](../Page/御宅族.md "wikilink")。
@@ -75,8 +73,7 @@ works在2014年4月25日發售的[成人遊戲](../Page/日本成人遊戲.md "w
 
 ## OVA
 
-《PRETTY×CATION THE
-ANIMATION》由PinkPineapple在2016年發售的成人動畫。\[4\]第一卷女主角是薬王寺小町、エレクトリーチカ・サプサン，第二卷女主角是朝霧姊妹。
+《PRETTY×CATION THE ANIMATION》由PinkPineapple在2016年發售的成人動畫。\[4\]第一卷女主角是薬王寺小町、エレクトリーチカ・サプサン，第二卷女主角是朝霧姊妹。
 
 ### 各話列表
 
@@ -175,21 +172,12 @@ PRETTY×CATION在Getchu.com的美少女遊戲大賞2014中獲得系統部門第5
 
   - [hibiki works](http://www.hibiki-site.com/)（限日本地區瀏覽）
 
-[Category:2014年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2014年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:2016年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2016年日本成人動畫 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:東京背景作品](https://zh.wikipedia.org/wiki/Category:東京背景作品 "wikilink")
+[Category:2014年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2014年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:2016年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2016年日本成人動畫 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:東京背景作品](https://zh.wikipedia.org/wiki/Category:東京背景作品 "wikilink")
 
 1.
 2.
 3.  [PRETTY×CATION](http://erogetrailers.com/soft/11461)ErogeTrailers
-4.  [PRETTY×CATION THE ANIMATION \#1
-    初恋、それぞれの距離](http://www.pinkpineapple.co.jp/products/detail.php?product_id=1044)PinkPineapple
-5.  [PRETTY×CATION THE ANIMATION
-    ＃1「初恋、それぞれの距離」](http://www.getchu.com/soft.phtml?id=885949)Getchu.com
-6.  [美少女ゲーム大賞2014
-    －システム部門投票・結果発表－](http://www.getchu.com/pc/2014_g_ranking/system.html)Getchu.com
+4.  [PRETTY×CATION THE ANIMATION \#1 初恋、それぞれの距離](http://www.pinkpineapple.co.jp/products/detail.php?product_id=1044)PinkPineapple
+5.  [PRETTY×CATION THE ANIMATION ＃1「初恋、それぞれの距離」](http://www.getchu.com/soft.phtml?id=885949)Getchu.com
+6.  [美少女ゲーム大賞2014 －システム部門投票・結果発表－](http://www.getchu.com/pc/2014_g_ranking/system.html)Getchu.com
 7.  [2014年4月発売タイトル月間賞投票](http://moe-gameaward.com/ranking/index.html?year_id=2014&month_id=04)[萌えゲーアワード](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")

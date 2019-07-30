@@ -1,20 +1,16 @@
-**Ibappi**（）是由[茨城交通發行及引入的](../Page/茨城交通.md "wikilink")[IC卡](https://zh.wikipedia.org/wiki/IC卡 "wikilink")[車票](../Page/車票.md "wikilink")。於同公司的一般路線巴士専用。其登錄商標屬於茨城交通\[1\]。
+**Ibappi**（）是由[茨城交通](../Page/茨城交通.md "wikilink")發行及引入的[IC卡](https://zh.wikipedia.org/wiki/IC卡 "wikilink")[車票](../Page/車票.md "wikilink")。於同公司的一般路線巴士専用。其登錄商標屬於茨城交通\[1\]。
 
 ## 概要
 
-於[2015年](../Page/2015年.md "wikilink")[12月1日開始投入服務](../Page/12月1日.md "wikilink")。其名稱由公眾選出。開始時只當作而沒有定期票機能，但及後宣布定期票機能預計在2016年2月下旬開始\[2\]。Ibappi根據通常車費為基準向使用者提供以1日圓單位，比較便宜的IC卡専用車費\[3\]。
+於[2015年](../Page/2015年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")開始投入服務。其名稱由公眾選出。開始時只當作而沒有定期票機能，但及後宣布定期票機能預計在2016年2月下旬開始\[2\]。Ibappi根據通常車費為基準向使用者提供以1日圓單位，比較便宜的IC卡専用車費\[3\]。
 
-水戶地區主要使用[Suica](../Page/Suica.md "wikilink")（[JR巴士關東](https://zh.wikipedia.org/wiki/JR巴士關東 "wikilink")）、[PASMO](../Page/PASMO.md "wikilink")（[關東鐵道](../Page/關東鐵道.md "wikilink")）及Ibappi（茨城交通）3種類IC卡，但與前二者不同，並不能互相兼容。亦未開始[電子貨幣服務](../Page/電子貨幣.md "wikilink")。Ibappi開始投入服務同時，除了共通回数券以外，所有的紙製回数券的使用及退款在2016年6月30日停止\[4\]。
+水戶地區主要使用[Suica](../Page/Suica.md "wikilink")（[JR巴士關東](https://zh.wikipedia.org/wiki/JR巴士關東 "wikilink")）、[PASMO](../Page/PASMO.md "wikilink")（[關東鐵道](../Page/關東鐵道.md "wikilink")）及Ibappi（茨城交通）3種類IC卡，但與前二者不同，並不能互相兼容。亦未開始[電子貨幣](../Page/電子貨幣.md "wikilink")服務。Ibappi開始投入服務同時，除了共通回数券以外，所有的紙製回数券的使用及退款在2016年6月30日停止\[4\]。
 
 ## 沿革
 
-  - [2015年](../Page/2015年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")
-    - 開始提供服務
-  - [2016年](../Page/2016年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")
-    - 開始定期票服務
-  - [2016年](../Page/2016年.md "wikilink")[6月10日](../Page/6月10日.md "wikilink")
-    -
-    已經售出達3萬張\[5\][2016年6月23日茨城新聞](https://zh.wikipedia.org/wiki/#茨城新聞16/06/23 "wikilink")</ref>
+  - [2015年](../Page/2015年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink") - 開始提供服務
+  - [2016年](../Page/2016年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink") - 開始定期票服務
+  - [2016年](../Page/2016年.md "wikilink")[6月10日](../Page/6月10日.md "wikilink") - 已經售出達3萬張\[5\][2016年6月23日茨城新聞](https://zh.wikipedia.org/wiki/#茨城新聞16/06/23 "wikilink")</ref>
 
 ## 種類
 
@@ -73,9 +69,7 @@ Ibappi能在各茨城交通的營業所及水戶車站前乘客服務站發售\[
 
   - [いばっピ](http://www.ibako.co.jp/regular/ibappi/)
 
-[Category:日本智能卡](https://zh.wikipedia.org/wiki/Category:日本智能卡 "wikilink")
-[Category:電子貨幣](https://zh.wikipedia.org/wiki/Category:電子貨幣 "wikilink")
-[Category:茨城交通](https://zh.wikipedia.org/wiki/Category:茨城交通 "wikilink")
+[Category:日本智能卡](https://zh.wikipedia.org/wiki/Category:日本智能卡 "wikilink") [Category:電子貨幣](https://zh.wikipedia.org/wiki/Category:電子貨幣 "wikilink") [Category:茨城交通](https://zh.wikipedia.org/wiki/Category:茨城交通 "wikilink")
 
 1.  日本 第5768232号（權利者為茨城交通株式会社）
 
@@ -94,5 +88,4 @@ Ibappi能在各茨城交通的營業所及水戶車站前乘客服務站發售\[
 12.
 13.
 14.
-15. [「いばっピ」デビュー\!
-    オートチャージで現金総額100万円キャッシュバックキャンペーン](https://archive.is/20160201091145/http://www.joyobank.co.jp/campaign/ibappi.html)
+15. [「いばっピ」デビュー\! オートチャージで現金総額100万円キャッシュバックキャンペーン](https://archive.is/20160201091145/http://www.joyobank.co.jp/campaign/ibappi.html)

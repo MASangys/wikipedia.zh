@@ -1,13 +1,10 @@
-《**GIRLS**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[EXO-CBX日本出道迷你專輯](../Page/EXO-CBX.md "wikilink")，由[SM娛樂製作](../Page/SM娛樂.md "wikilink")，2017年5月24日於日本正式發行，唱片公司為[avex
-trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")，共收錄7首新歌，主打歌為《Ka-CHING\!》。
+《**GIRLS**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[EXO-CBX](../Page/EXO-CBX.md "wikilink")日本出道迷你專輯，由[SM娛樂](../Page/SM娛樂.md "wikilink")製作，2017年5月24日於日本正式發行，唱片公司為[avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")，共收錄7首新歌，主打歌為《Ka-CHING\!》。
 
-此張專輯不僅收錄了韓語首張迷你專輯《[Hey
-Mama\!](https://zh.wikipedia.org/wiki/Hey_Mama! "wikilink")》同名主打歌的日語版，還收錄了只限初回限定的《KING
-and QUEEN》。
+此張專輯不僅收錄了韓語首張迷你專輯《[Hey Mama\!](https://zh.wikipedia.org/wiki/Hey_Mama! "wikilink")》同名主打歌的日語版，還收錄了只限初回限定的《KING and QUEEN》。
 
 ## 背景
 
-2017年3月10日，於網路直播節目上宣布將在日本正式出道，日本[EXO官方網站也宣布](../Page/EXO.md "wikilink")[EXO-CBX的日本官網正式開設](../Page/EXO-CBX.md "wikilink")。\[1\]5月1日釋出《Ka-CHING\!》短版MV，24日正式发行。
+2017年3月10日，於網路直播節目上宣布將在日本正式出道，日本[EXO](../Page/EXO.md "wikilink")官方網站也宣布[EXO-CBX](../Page/EXO-CBX.md "wikilink")的日本官網正式開設。\[1\]5月1日釋出《Ka-CHING\!》短版MV，24日正式发行。
 
 ## 概念
 
@@ -27,7 +24,7 @@ and QUEEN》。
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量                        | 總銷量   | 停留時間 | 參考資料 |-| | 專輯日榜 | \#2 | 26,541 | 57,735+ | 10星期 | \[3\] |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量                        | 總銷量   | 停留時間 | 參考資料 |-| | 專輯日榜 | \#2 | 26,541 | 57,735+ | 10星期 | \[3\] |
 | ---------------------------------------- | ---- | -------------------------- | ----- | ---- | -------- | :--- | --- | ------ | ------- | ---- | ----- |
 | 專輯週榜                                     | \#2  | 55,201                     | \[4\] |      |          |      |     |        |         |      |       |
 | 專輯月榜                                     | \#4  | 57,735                     | \[5\] |      |          |      |     |        |         |      |       |
@@ -46,10 +43,7 @@ and QUEEN》。
   -
 
   -
-[Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink")
-[Category:EXO音樂專輯](https://zh.wikipedia.org/wiki/Category:EXO音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:愛貝克思音樂專輯](https://zh.wikipedia.org/wiki/Category:愛貝克思音樂專輯 "wikilink")
+[Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink") [Category:EXO音樂專輯](https://zh.wikipedia.org/wiki/Category:EXO音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:愛貝克思音樂專輯](https://zh.wikipedia.org/wiki/Category:愛貝克思音樂專輯 "wikilink")
 
 1.
 2.

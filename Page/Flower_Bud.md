@@ -1,22 +1,15 @@
-《**Flower
-Bud**》，是韓國女子演唱團體[GFRIEND的第二張迷你專輯](../Page/GFRIEND.md "wikilink")，為「校園系列三部曲」的第二部曲，以(Me
-Gustas Tu)為主打歌。
+《**Flower Bud**》，是韓國女子演唱團體[GFRIEND](../Page/GFRIEND.md "wikilink")的第二張迷你專輯，為「校園系列三部曲」的第二部曲，以(Me Gustas Tu)為主打歌。
 
 ## 概述
 
-《오늘부터우리는》(Me Gustas Tu)是作曲家團隊 Lee Ki, Yong
-Bae為[GFRIEND量身打造的新曲](../Page/GFRIEND.md "wikilink")，歌名的意思是西班牙文「我喜歡你」，內容描繪的是少女們讓人害羞、臉紅心跳的愛情告白，隨著輕快飽滿的旋律，[GFRIEND展現出甜美浪漫](../Page/GFRIEND.md "wikilink")、活潑青春的少女魅力，充滿戀愛氛圍的歌曲概念，給人留下深刻的印象。
+《오늘부터우리는》(Me Gustas Tu)是作曲家團隊 Lee Ki, Yong Bae為[GFRIEND](../Page/GFRIEND.md "wikilink")量身打造的新曲，歌名的意思是西班牙文「我喜歡你」，內容描繪的是少女們讓人害羞、臉紅心跳的愛情告白，隨著輕快飽滿的旋律，[GFRIEND](../Page/GFRIEND.md "wikilink")展現出甜美浪漫、活潑青春的少女魅力，充滿戀愛氛圍的歌曲概念，給人留下深刻的印象。
 
 ## 事件
 
-  - 8月19日，GFRIEND出席音樂節目《Show
-    Champion》時，成員Umji、[Yuju分別彎腰](../Page/Yuju.md "wikilink")、跪地做好姿勢，但負責跳過去的Yerin發生失誤，導致Umji、Yuju倒地。但即使失誤，下一秒她們仍迅速、不慌不忙走到原本該站位置，露出燦爛笑容表演，看起來就像什麼事都沒有發生般，獲得了粉絲的稱讚。
+  - 8月19日，GFRIEND出席音樂節目《Show Champion》時，成員Umji、[Yuju](../Page/Yuju.md "wikilink")分別彎腰、跪地做好姿勢，但負責跳過去的Yerin發生失誤，導致Umji、Yuju倒地。但即使失誤，下一秒她們仍迅速、不慌不忙走到原本該站位置，露出燦爛笑容表演，看起來就像什麼事都沒有發生般，獲得了粉絲的稱讚。
   - 9月5日，GFRIEND出席SBS廣播節目的公開演出，因當天下雨造成場地濕滑的情形，成員們在表演途中不斷產生踉蹌、重心不穩的情況，Yuju、SinB都發生嚴重的跌倒情況，但即使一再跌倒，成員還是敬業地完成表演。
-  - 因不斷跌倒、爬起繼續努力的精神讓GFRIEND獲得許多讚賞，也讓〈오늘부터우리는(Me Gustas
-    Tu)〉在她們結束了七周的宣傳後再次回到榜上，甚至在9月20日的人氣歌謠中成為一位候補。
-  - 2015年9月至今，主打歌〈오늘부터우리는(Me Gustas
-    Tu)〉依舊存在在韓國各大音樂榜中，甚至在2016年與GFRIEND的第三張迷你專輯『Snowflake』主打歌〈**Rough（시간을
-    달려서）**〉在同時並列冠亞軍。
+  - 因不斷跌倒、爬起繼續努力的精神讓GFRIEND獲得許多讚賞，也讓〈오늘부터우리는(Me Gustas Tu)〉在她們結束了七周的宣傳後再次回到榜上，甚至在9月20日的人氣歌謠中成為一位候補。
+  - 2015年9月至今，主打歌〈오늘부터우리는(Me Gustas Tu)〉依舊存在在韓國各大音樂榜中，甚至在2016年與GFRIEND的第三張迷你專輯『Snowflake』主打歌〈**Rough（시간을 달려서）**〉在同時並列冠亞軍。
 
 ## 曲目
 
@@ -55,7 +48,4 @@ Bae為[GFRIEND量身打造的新曲](../Page/GFRIEND.md "wikilink")，歌名的�
   -
   -
   -
-[Category:GFRIEND](https://zh.wikipedia.org/wiki/Category:GFRIEND "wikilink")
-[Category:GFRIEND音乐专辑](https://zh.wikipedia.org/wiki/Category:GFRIEND音乐专辑 "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
+[Category:GFRIEND](https://zh.wikipedia.org/wiki/Category:GFRIEND "wikilink") [Category:GFRIEND音乐专辑](https://zh.wikipedia.org/wiki/Category:GFRIEND音乐专辑 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")

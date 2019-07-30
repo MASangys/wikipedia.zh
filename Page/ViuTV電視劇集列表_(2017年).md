@@ -1,4 +1,4 @@
-本列表列出[香港](../Page/香港.md "wikilink")[ViuTV於](../Page/ViuTV.md "wikilink")2017年所播放的[電視連續劇集](https://zh.wikipedia.org/wiki/電視連續劇集 "wikilink")。
+本列表列出[香港](../Page/香港.md "wikilink")[ViuTV](../Page/ViuTV.md "wikilink")於2017年所播放的[電視連續劇集](https://zh.wikipedia.org/wiki/電視連續劇集 "wikilink")。
 
 除特別註明外，所有劇集播放時均為高清製作。
 
@@ -6,7 +6,7 @@
 
 ### 早上劇集時段
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")10:00-11:00播出，逢星期二至六00:45-01:45（4月4日至29日改為01:30-02:30；5月2日起取消）重播
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五10:00-11:00播出，逢星期二至六00:45-01:45（4月4日至29日改為01:30-02:30；5月2日起取消）重播
 
 <table style="width:344%;">
 <colgroup>
@@ -96,7 +96,7 @@ MiMi</p></td>
 
 ### 下午劇集時段／午後劇點（12月13日起）
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")13:30-15:00播出，逢星期二至六03:00-04:30（10月17日至26日及11月21日起改為03:30-05:00；10月27日至11月18日改為04:00-05:30）重播
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五13:30-15:00播出，逢星期二至六03:00-04:30（10月17日至26日及11月21日起改為03:30-05:00；10月27日至11月18日改為04:00-05:30）重播
 
 <table style="width:344%;">
 <colgroup>
@@ -272,7 +272,7 @@ Lucky Romance</p></td>
 
 ### 第一線劇集
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")19:00-20:00（4月3日起改為19:00-19:50）播出，逢星期二至五及下星期一13:30-14:30（5月18日起改為10:00-11:00）重播。
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五19:00-20:00（4月3日起改為19:00-19:50）播出，逢星期二至五及下星期一13:30-14:30（5月18日起改為10:00-11:00）重播。
 
 <table style="width:344%;">
 <colgroup>
@@ -445,7 +445,7 @@ Star April</p></td>
 
 ### 第二線劇集
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")20:30-21:55/22:00（4月3日至10月13日改為20:30-21:30）播出，逢星期二至六01:30/01:40/01:45-02:30/02:35/02:40（5月2日起；10月17日至26日及11月21日起改為01:30-03:00；10月27日至11月18日改為02:05-03:30）重播
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五20:30-21:55/22:00（4月3日至10月13日改為20:30-21:30）播出，逢星期二至六01:30/01:40/01:45-02:30/02:35/02:40（5月2日起；10月17日至26日及11月21日起改為01:30-03:00；10月27日至11月18日改為02:05-03:30）重播
 
 <table style="width:344%;">
 <colgroup>
@@ -672,7 +672,7 @@ The Emperor: Owner of the Mask</p></td>
 
 #### 星期一、二／星期一至五（4月3日起）
 
-[香港時間逢星期一](../Page/香港時間.md "wikilink")、二23:00-23:30播出，逢星期二、三01:45-02:15重播（2月6日起取消）；4月3日起改為逢星期一至五21:30-22:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一、二23:00-23:30播出，逢星期二、三01:45-02:15重播（2月6日起取消）；4月3日起改為逢星期一至五21:30-22:00播出
 
 <table style="width:344%;">
 <colgroup>
@@ -744,7 +744,7 @@ Midnight Cousin</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;">5月1日至26日因播映<a href="../Page/鮮浪潮。語.md" title="wikilink">鮮浪潮。語關係</a>，本時段沒有劇集播映</p>
+<p><span style="font-size:larger;">5月1日至26日因播映<a href="../Page/鮮浪潮。語.md" title="wikilink">鮮浪潮。語</a>關係，本時段沒有劇集播映</p>
 </div>
 <p></span></p></td>
 <td style="text-align: center;"></td>
@@ -831,7 +831,7 @@ My Very Short Marriage</p></td>
 
 #### 星期三、四
 
-[香港時間逢星期三](../Page/香港時間.md "wikilink")、四22:00-22:30播出。
+[香港時間](../Page/香港時間.md "wikilink")逢星期三、四22:00-22:30播出。
 
 <table style="width:344%;">
 <colgroup>
@@ -875,7 +875,7 @@ Neko Samurai Season S2</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>25/01-<br />
 02/02</p></td>
-<td style="text-align: center;"><p><a href="../Page/貓侍.md" title="wikilink">貓侍前傳：玉之丞萌翻江戶</a><br />
+<td style="text-align: center;"><p><a href="../Page/貓侍.md" title="wikilink">貓侍</a>前傳：玉之丞萌翻江戶<br />
 Neko Samurai: Tamanojo Goes To Edo</p></td>
 <td style="text-align: center;"><p>4</p></td>
 <td style="text-align: center;"><p><a href="../Page/田中直樹.md" title="wikilink">田中直樹</a>、<a href="../Page/山口紗彌加.md" title="wikilink">山口紗彌加</a></p></td>
@@ -891,7 +891,7 @@ Neko Samurai: Tamanojo Goes To Edo</p></td>
 
 #### 星期一至四
 
-[香港時間逢星期二至五](../Page/香港時間.md "wikilink")<small>（星期一至四深夜）</small>00:30/00:35-01:30/01:35播出；10月27日起改為00:35-02:05播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期二至五<small>（星期一至四深夜）</small>00:30/00:35-01:30/01:35播出；10月27日起改為00:35-02:05播出
 
 <table style="width:344%;">
 <colgroup>
@@ -1022,7 +1022,7 @@ Descendant of Sun</p></td>
 
 #### 星期五
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")<small>（星期五深夜）</small>01:05-01:30/01:40播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六<small>（星期五深夜）</small>01:05-01:30/01:40播出
 
 <table style="width:344%;">
 <colgroup>
@@ -1100,7 +1100,7 @@ The Late Night Stop</p></td>
 
 ### 早上劇集時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")11:00-12:00播出。
+[香港時間](../Page/香港時間.md "wikilink")逢星期六11:00-12:00播出。
 
 <table style="width:344%;">
 <colgroup>
@@ -1148,7 +1148,7 @@ Mischievous Kiss 2 - Love in Tokyo</p></td>
 
 ### 中午劇集時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")12:30-14:30播出（**每次播映兩集**）
+[香港時間](../Page/香港時間.md "wikilink")逢星期六12:30-14:30播出（**每次播映兩集**）
 
 <table style="width:344%;">
 <colgroup>
@@ -1226,7 +1226,7 @@ Any lie can become Truth</p></td>
 
 ### 第一線劇集
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")20:30-21:25/21:30播出。
+[香港時間](../Page/香港時間.md "wikilink")逢星期六20:30-21:25/21:30播出。
 
 <table style="width:344%;">
 <colgroup>
@@ -1330,7 +1330,7 @@ Black Leather Notebook</p></td>
 
 ### 早上劇集時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")10:30-11:30播出，4月9日起改為11:00-12:00播出。
+[香港時間](../Page/香港時間.md "wikilink")逢星期日10:30-11:30播出，4月9日起改為11:00-12:00播出。
 
 <table style="width:344%;">
 <colgroup>
@@ -1379,7 +1379,7 @@ The Late Night Stop</p></td>
 
 ### 中午劇集時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")12:30-14:30播出（**每次播映兩集**）
+[香港時間](../Page/香港時間.md "wikilink")逢星期日12:30-14:30播出（**每次播映兩集**）
 
 <table style="width:344%;">
 <colgroup>
@@ -1440,7 +1440,7 @@ My Life</p></td>
 
 ### 第一線劇集
 
-[香港時間逢星期一](../Page/香港時間.md "wikilink")<small>（星期日深夜）</small>00:00-00:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一<small>（星期日深夜）</small>00:00-00:30播出
 
 <table style="width:344%;">
 <colgroup>
@@ -1718,5 +1718,4 @@ Tokyo Sentimental SP</p></td>
 
   - [ViuTV節目表](http://viu.tv/epg/99)
 
-[Category:香港電視娛樂節目列表](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目列表 "wikilink")
-[Category:香港電視節目列表](https://zh.wikipedia.org/wiki/Category:香港電視節目列表 "wikilink")
+[Category:香港電視娛樂節目列表](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目列表 "wikilink") [Category:香港電視節目列表](https://zh.wikipedia.org/wiki/Category:香港電視節目列表 "wikilink")

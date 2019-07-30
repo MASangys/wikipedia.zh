@@ -1,22 +1,14 @@
-《**Candy Crush Soda
-Saga**》（也译“**糖果粉碎苏打传奇**”），由英國網絡遊戲公司[King開發](../Page/King_\(遊戲公司\).md "wikilink")，为寶石方塊類遊戲《[Candy
-Crush
-Saga](../Page/Candy_Crush_Saga.md "wikilink")》的续作，于2014年10月20日推出。游戏具有同步功能，用戶的遊戲進度可於[Android和](../Page/Android.md "wikilink")[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Windows
-10和](../Page/Windows_10.md "wikilink")[Windows
-Phone平台上切換](../Page/Windows_Phone.md "wikilink")。
+《**Candy Crush Soda Saga**》（也译“**糖果粉碎苏打传奇**”），由英國網絡遊戲公司[King開發](../Page/King_\(遊戲公司\).md "wikilink")，为寶石方塊類遊戲《[Candy Crush Saga](../Page/Candy_Crush_Saga.md "wikilink")》的续作，于2014年10月20日推出。游戏具有同步功能，用戶的遊戲進度可於[Android](../Page/Android.md "wikilink")和[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Windows 10和](../Page/Windows_10.md "wikilink")[Windows Phone平台上切換](../Page/Windows_Phone.md "wikilink")。
 
 游戏因收到欢迎带动开发公司股价上涨\[1\]。
 
 ## 玩法
 
-Candy Crush Soda Saga的遊戲規則和《Candy Crush
-Saga》大部分相同，並加入一些改動。關卡概分為有蘇打水瓶的汽水模式、跟一般模式。汽水模式關卡中會由糖果機、或是隨機掉落汽水瓶，清除後由下往上填入汽水，直到汽水完全充滿為止不再掉落汽水瓶。
+Candy Crush Soda Saga的遊戲規則和《Candy Crush Saga》大部分相同，並加入一些改動。關卡概分為有蘇打水瓶的汽水模式、跟一般模式。汽水模式關卡中會由糖果機、或是隨機掉落汽水瓶，清除後由下往上填入汽水，直到汽水完全充滿為止不再掉落汽水瓶。
 
-此外，Candy Crush Soda
-Saga的糖果掉落方向未必是由上至下，部分關卡之糖果將往其他方向掉落，為該遊戲之最大特點，並能夠考驗玩家之破關思考邏輯。
+此外，Candy Crush Soda Saga的糖果掉落方向未必是由上至下，部分關卡之糖果將往其他方向掉落，為該遊戲之最大特點，並能夠考驗玩家之破關思考邏輯。
 
-續作:「[Candy Crush Jelly
-Saga](https://zh.wikipedia.org/wiki/Candy_Crush_Jelly_Saga "wikilink")」。
+續作:「[Candy Crush Jelly Saga](https://zh.wikipedia.org/wiki/Candy_Crush_Jelly_Saga "wikilink")」。
 
 ## 關卡介紹
 
@@ -59,14 +51,6 @@ Saga](https://zh.wikipedia.org/wiki/Candy_Crush_Jelly_Saga "wikilink")」。
 
 ## 参考文献
 
-[Category:2014年电子游戏](https://zh.wikipedia.org/wiki/Category:2014年电子游戏 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:Windows_10_App_遊戲](https://zh.wikipedia.org/wiki/Category:Windows_10_App_遊戲 "wikilink")
-[Category:Windows_Phone_遊戲](https://zh.wikipedia.org/wiki/Category:Windows_Phone_遊戲 "wikilink")
-[Category:消除类游戏](https://zh.wikipedia.org/wiki/Category:消除类游戏 "wikilink")
-[Category:英國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:英國開發電子遊戲 "wikilink")
+[Category:2014年电子游戏](https://zh.wikipedia.org/wiki/Category:2014年电子游戏 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:Windows_10_App_遊戲](https://zh.wikipedia.org/wiki/Category:Windows_10_App_遊戲 "wikilink") [Category:Windows_Phone_遊戲](https://zh.wikipedia.org/wiki/Category:Windows_Phone_遊戲 "wikilink") [Category:消除类游戏](https://zh.wikipedia.org/wiki/Category:消除类游戏 "wikilink") [Category:英國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:英國開發電子遊戲 "wikilink")
 
-1.  陈怡均. [Candy Crush开发商
-    上季获利优于预期](http://www.chinatimes.com/cn/newspapers/20150214000062-260203).
-    China Times Inc. 2015-02-14. \[2014-05-09\].
+1.  陈怡均. [Candy Crush开发商 上季获利优于预期](http://www.chinatimes.com/cn/newspapers/20150214000062-260203). China Times Inc. 2015-02-14. \[2014-05-09\].

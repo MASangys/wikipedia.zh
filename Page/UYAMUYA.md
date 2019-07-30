@@ -1,12 +1,10 @@
-**UYAMUYA**，是[日本的一個](../Page/日本.md "wikilink")[聲優組合](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")。隸屬於[Lantis](../Page/Lantis.md "wikilink")。
+**UYAMUYA**，是[日本](../Page/日本.md "wikilink")的一個[聲優組合](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")。隸屬於[Lantis](../Page/Lantis.md "wikilink")。
 
 ## 概要
 
-2004年，由遊戲改編動畫《[你所期望的永遠](../Page/你所期望的永遠.md "wikilink")》衍生出的廣播節目「」單元「」的兩位主持人，聲優[淺井清己與](../Page/淺井清己.md "wikilink")[吉住梢組成](../Page/吉住梢.md "wikilink")。
+2004年，由遊戲改編動畫《[你所期望的永遠](../Page/你所期望的永遠.md "wikilink")》衍生出的廣播節目「」單元「」的兩位主持人，聲優[淺井清己](../Page/淺井清己.md "wikilink")與[吉住梢](../Page/吉住梢.md "wikilink")組成。
 
-其團名來自開放給聽眾命名，結果決定用擔任廣播節目主持人的兩位聲優在遊戲中飾演的角色「大空寺亞由」和「玉野真由」的姓氏後面名字「
-(AYUMAYU)
-」拼成，最後將[日語羅馬拼音念法倒過來](https://zh.wikipedia.org/wiki/日語羅馬字 "wikilink")。
+其團名來自開放給聽眾命名，結果決定用擔任廣播節目主持人的兩位聲優在遊戲中飾演的角色「大空寺亞由」和「玉野真由」的姓氏後面名字「 (AYUMAYU) 」拼成，最後將[日語羅馬拼音念法倒過來](https://zh.wikipedia.org/wiki/日語羅馬字 "wikilink")。
 
 ## 歌曲列表
 
@@ -75,5 +73,4 @@
 
   -
   -
-[Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink")
-[Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
+[Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink") [Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")

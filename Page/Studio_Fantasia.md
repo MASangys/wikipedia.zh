@@ -1,5 +1,4 @@
-**有限会社Studio
-Fantasia**（），是[日本](../Page/日本.md "wikilink")[动画工作室](https://zh.wikipedia.org/wiki/动画工作室 "wikilink")，由饭冢智久成立于1983年10月12日，总部位于[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[练马区](https://zh.wikipedia.org/wiki/练马区 "wikilink")，專門負責動畫[外判公司](../Page/外判.md "wikilink")。2016年11月16日申请[破产](https://zh.wikipedia.org/wiki/破产 "wikilink")。
+**有限会社Studio Fantasia**（），是[日本](../Page/日本.md "wikilink")[动画工作室](https://zh.wikipedia.org/wiki/动画工作室 "wikilink")，由饭冢智久成立于1983年10月12日，总部位于[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[练马区](https://zh.wikipedia.org/wiki/练马区 "wikilink")，專門負責動畫[外判](../Page/外判.md "wikilink")公司。2016年11月16日申请[破产](https://zh.wikipedia.org/wiki/破产 "wikilink")。
 
 ## 作品列表
 
@@ -95,6 +94,4 @@ Fantasia**（），是[日本](../Page/日本.md "wikilink")[动画工作室](ht
   -
 
   -
-[Category:日本动画工作室](https://zh.wikipedia.org/wiki/Category:日本动画工作室 "wikilink")
-[Category:1983年日本建立](https://zh.wikipedia.org/wiki/Category:1983年日本建立 "wikilink")
-[Category:2016年日本廢除](https://zh.wikipedia.org/wiki/Category:2016年日本廢除 "wikilink")
+[Category:日本动画工作室](https://zh.wikipedia.org/wiki/Category:日本动画工作室 "wikilink") [Category:1983年日本建立](https://zh.wikipedia.org/wiki/Category:1983年日本建立 "wikilink") [Category:2016年日本廢除](https://zh.wikipedia.org/wiki/Category:2016年日本廢除 "wikilink")

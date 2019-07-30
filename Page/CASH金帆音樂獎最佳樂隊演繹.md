@@ -2,8 +2,7 @@
 
 此獎項前稱為「**最佳組合或樂隊演繹獎**」，自2008年正式使用「**最佳樂隊演繹獎**」為此獎項之名稱，並一直沿用至今。
 
-獎項於2001年創立，至今獲獎最多的樂隊是[Supper
-Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")，共獲5次。
+獎項於2001年創立，至今獲獎最多的樂隊是[Supper Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")，共獲5次。
 
 ## 記錄
 
@@ -133,6 +132,5 @@ Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")，共獲5次。
 
 [Category:CASH金帆音樂獎](https://zh.wikipedia.org/wiki/Category:CASH金帆音樂獎 "wikilink")
 
-1.  [2002 CASH金帆音樂獎
-    提名名單](http://www.gaforum.org/showthread.php?t=23481&styleid=14&styleid=9)
+1.  [2002 CASH金帆音樂獎 提名名單](http://www.gaforum.org/showthread.php?t=23481&styleid=14&styleid=9)
 2.  [(消息)張國榮有望奪最佳樂隊演繹](https://archive.is/20161012215122/http://bbs.ent.163.com/bbs/zhangguorong/67637.html)

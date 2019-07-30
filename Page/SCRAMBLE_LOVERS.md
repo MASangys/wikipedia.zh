@@ -10,7 +10,7 @@
     本作的男主角，鷹津東學園的學生。
   - 出雲櫻子（聲優：萌花ちょこ）\[4\]
     身高：156cm，三圍：B83/W56/H82，生日：7月27日，血型：AB型
-    慎悟的鄰居和同學。由於有[對人恐懼症導致經常轉學而沒有朋友](../Page/對人恐懼症.md "wikilink")，為了能順利與人交流而特地準備筆記。
+    慎悟的鄰居和同學。由於有[對人恐懼症](../Page/對人恐懼症.md "wikilink")導致經常轉學而沒有朋友，為了能順利與人交流而特地準備筆記。
   - 葵優衣（聲優：藤森ゆき奈）
     身高：160cm，三圍：B82/W56/H84，生日：8月8日，血型：A型
     慎悟的雙胞胎妹妹，原本就讀女校並且住宿，因為不喜歡宿舍規定而轉學並且與哥哥同住。
@@ -43,13 +43,7 @@
   - [PC版官方網站](http://www.aries-soft.jp/scramble_lovers/index.html)Aries
   - [App版官方網站](http://moeapp.net/special/scramblelovers.html)萌えAPP
 
-[Category:2014年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2014年日本成人遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
+[Category:2014年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2014年日本成人遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
-**第67回[NHK紅白歌合戰](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")**（）於2016年12月31日晚19:15（[JST](../Page/日本標準時間.md "wikilink")）在[日本](../Page/日本.md "wikilink")[東京的](https://zh.wikipedia.org/wiki/東京 "wikilink")[NHK音樂廳以](https://zh.wikipedia.org/wiki/NHK音樂廳 "wikilink")[現場直播的方式舉行](../Page/現場直播.md "wikilink")。
+**第67回[NHK紅白歌合戰](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")**（）於2016年12月31日晚19:15（[JST](../Page/日本標準時間.md "wikilink")）在[日本](../Page/日本.md "wikilink")[東京的](https://zh.wikipedia.org/wiki/東京 "wikilink")[NHK音樂廳以](https://zh.wikipedia.org/wiki/NHK音樂廳 "wikilink")[現場直播](../Page/現場直播.md "wikilink")的方式舉行。
 
 ## 概要
 
@@ -7,12 +7,11 @@
 以下日期皆为2016年。
 
   - 9月8日：節目主題及播出時間公布。本次红白歌會以“歌唱夢想”（）為主題，這一主題將使用到2019年的第70屆红白歌會（[2020年東京奧運會之前的最后一屆红白歌會](https://zh.wikipedia.org/wiki/2020年夏季奧林匹克運動會 "wikilink")）\[1\]。
-  - 11月12日：NHK在官網公布了紅白兩組的主持人，紅組主持人為[有村架純](../Page/有村架純.md "wikilink")，白組主持人为[嵐的成員](../Page/嵐.md "wikilink")[相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")。這是有村架純首次擔任主持人，而相葉雅紀则是首次單獨出任主持人\[2\]\[3\]。
-  - 11月24日：在記者會上正式公布出場的歌手及組合名單、綜合主持人及廣播電台解說。綜合主持人由《[NHK7點新聞](../Page/NHK7點新聞.md "wikilink")》時任平日主播[武田真一擔任](../Page/武田真一.md "wikilink")，這也是他首次擔任红白的主持人，也是NHK平日晚七点新闻在任主播首次担任红白主持人\[4\]。
+  - 11月12日：NHK在官網公布了紅白兩組的主持人，紅組主持人為[有村架純](../Page/有村架純.md "wikilink")，白組主持人为[嵐](../Page/嵐.md "wikilink")的成員[相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")。這是有村架純首次擔任主持人，而相葉雅紀则是首次單獨出任主持人\[2\]\[3\]。
+  - 11月24日：在記者會上正式公布出場的歌手及組合名單、綜合主持人及廣播電台解說。綜合主持人由《[NHK7點新聞](../Page/NHK7點新聞.md "wikilink")》時任平日主播[武田真一](../Page/武田真一.md "wikilink")擔任，這也是他首次擔任红白的主持人，也是NHK平日晚七点新闻在任主播首次担任红白主持人\[4\]。
   - 12月7日：公佈特別出演嘉賓，為資深搞笑藝人[塔摩利](../Page/塔摩利.md "wikilink")、以及綜藝節目主持人、[異裝藝人](https://zh.wikipedia.org/wiki/异装皇后 "wikilink")[贵妇松子](https://zh.wikipedia.org/wiki/贵妇松子 "wikilink")\[5\]。
   - 12月19日：公布出场歌手的演唱曲目\[6\]。
-  - 12月22日：公布主题曲。主题曲为作曲家[鷺巢詩郎所作的](../Page/鷺巢詩郎.md "wikilink")《Fly into
-    the Sun》\[7\]。
+  - 12月22日：公布主题曲。主题曲为作曲家[鷺巢詩郎](../Page/鷺巢詩郎.md "wikilink")所作的《Fly into the Sun》\[7\]。
   - 12月25日：公布出場次序\[8\]。當中總壓軸暨白组壓軸為[嵐](../Page/嵐.md "wikilink")，紅組壓軸為[石川小百合](../Page/石川小百合.md "wikilink")\[9\]。
 
 ### 正式播出
@@ -21,12 +20,11 @@
 
 ### AKB48 夢之紅白選拔
 
-[AKB48此次為第](../Page/AKB48.md "wikilink")9次在紅白登場，為從AKB48的眾多成員中選出在紅白登場的人選（實際上還涵蓋AKB48在日本國內的4個姊妹團體），NHK首次仿效AKB48的「[選拔總選舉](../Page/AKB48選拔總選舉.md "wikilink")」，舉辦「AKB48
-大家來票選夢之紅白選拔！」（）投票活動，該活動觀眾透過紅白專屬[APP與](https://zh.wikipedia.org/wiki/APP "wikilink")[互動電視投票](https://zh.wikipedia.org/wiki/互動電視 "wikilink")，從[AKB48集團所有成員中](../Page/AKB48集團.md "wikilink")，選出48名成員代表AKB48參與此屆紅白的演出。NHK在紅白播出前會先行公布48人演出名單，最終在紅白播出時公布得票前16名，即「選拔組」名單。
+[AKB48](../Page/AKB48.md "wikilink")此次為第9次在紅白登場，為從AKB48的眾多成員中選出在紅白登場的人選（實際上還涵蓋AKB48在日本國內的4個姊妹團體），NHK首次仿效AKB48的「[選拔總選舉](../Page/AKB48選拔總選舉.md "wikilink")」，舉辦「AKB48 大家來票選夢之紅白選拔！」（）投票活動，該活動觀眾透過紅白專屬[APP與](https://zh.wikipedia.org/wiki/APP "wikilink")[互動電視投票](https://zh.wikipedia.org/wiki/互動電視 "wikilink")，從[AKB48集團](../Page/AKB48集團.md "wikilink")所有成員中，選出48名成員代表AKB48參與此屆紅白的演出。NHK在紅白播出前會先行公布48人演出名單，最終在紅白播出時公布得票前16名，即「選拔組」名單。
 
-AKB48出場時首先演唱《[River](../Page/RIVER_\(AKB48單曲\).md "wikilink")》，接著公布「紅白選拔」得票前16名的排名順位（背景音樂為《[飛翔入手](../Page/飛翔入手.md "wikilink")》），最後由第一名擔任[Center](https://zh.wikipedia.org/wiki/AKB48組合構成#中心位置 "wikilink")（中心位置成員）帶領選拔組16人演唱《[你就是旋律](../Page/你就是旋律.md "wikilink")》。該活動最終由[NMB48成員](../Page/NMB48.md "wikilink")[山本彩以](../Page/山本彩.md "wikilink")41,190票拿下第一\[11\]。
+AKB48出場時首先演唱《[River](../Page/RIVER_\(AKB48單曲\).md "wikilink")》，接著公布「紅白選拔」得票前16名的排名順位（背景音樂為《[飛翔入手](../Page/飛翔入手.md "wikilink")》），最後由第一名擔任[Center](https://zh.wikipedia.org/wiki/AKB48組合構成#中心位置 "wikilink")（中心位置成員）帶領選拔組16人演唱《[你就是旋律](../Page/你就是旋律.md "wikilink")》。該活動最終由[NMB48](../Page/NMB48.md "wikilink")成員[山本彩](../Page/山本彩.md "wikilink")以41,190票拿下第一\[11\]。
 
-原本[HKT48的](../Page/HKT48.md "wikilink")[矢吹奈子與](../Page/矢吹奈子.md "wikilink")[田中美久亦有入選](../Page/田中美久_\(HKT48\).md "wikilink")，兩人排名分別為第17與45名，但AKB48預定的出場時間落在晚上9時後，礙於日本《》規定的「」，兩人還在就讀[初中無法在晚上](https://zh.wikipedia.org/wiki/初级中學 "wikilink")9時後作公開出演，因而改成在[天童芳美登場演唱時](../Page/天童芳美.md "wikilink")，以應援者身分出場演出；田中與矢吹留下的「紅白選拔」演出空缺，則由獲得第49、50名的[SKE48成員](../Page/SKE48.md "wikilink")[北川綾巴](../Page/北川綾巴.md "wikilink")、[惣田紗莉渚替補](../Page/惣田紗莉渚.md "wikilink")\[12\]。
+原本[HKT48](../Page/HKT48.md "wikilink")的[矢吹奈子](../Page/矢吹奈子.md "wikilink")與[田中美久亦有入選](../Page/田中美久_\(HKT48\).md "wikilink")，兩人排名分別為第17與45名，但AKB48預定的出場時間落在晚上9時後，礙於日本《》規定的「」，兩人還在就讀[初中無法在晚上](https://zh.wikipedia.org/wiki/初级中學 "wikilink")9時後作公開出演，因而改成在[天童芳美](../Page/天童芳美.md "wikilink")登場演唱時，以應援者身分出場演出；田中與矢吹留下的「紅白選拔」演出空缺，則由獲得第49、50名的[SKE48](../Page/SKE48.md "wikilink")成員[北川綾巴](../Page/北川綾巴.md "wikilink")、[惣田紗莉渚](../Page/惣田紗莉渚.md "wikilink")替補\[12\]。
 
 ## 主持人
 
@@ -68,14 +66,13 @@ AKB48出場時首先演唱《[River](../Page/RIVER_\(AKB48單曲\).md "wikilink"
 
   - ：演員，於本年[NHK大河劇](../Page/NHK大河劇.md "wikilink")《[真田丸](../Page/真田丸_\(大河劇\).md "wikilink")》飾演[真田昌幸](../Page/真田昌幸.md "wikilink")。
 
-  - ：[落語家](../Page/落語.md "wikilink")，於明年NHK大河劇《[女城主
-    直虎](../Page/女城主_直虎.md "wikilink")》飾演[今川義元](../Page/今川義元.md "wikilink")。
+  - ：[落語](../Page/落語.md "wikilink")家，於明年NHK大河劇《[女城主 直虎](../Page/女城主_直虎.md "wikilink")》飾演[今川義元](../Page/今川義元.md "wikilink")。
 
   - [高畑充希](../Page/高畑充希.md "wikilink")：演員、本年NHK[晨間劇](../Page/連續電視小說.md "wikilink")《[當家姐姐](https://zh.wikipedia.org/wiki/當家姐姐 "wikilink")》飾演主角・小橋常子。
 
   - ：女子[田徑選手](https://zh.wikipedia.org/wiki/田徑 "wikilink")，於當年[夏季帕拉林匹克運動會女子田徑](https://zh.wikipedia.org/wiki/2016年夏季帕拉林匹克運動會 "wikilink")400公尺競賽獲得銅牌。
 
-  - [萩野公介](../Page/萩野公介.md "wikilink")：[游泳選手](../Page/游泳.md "wikilink")，於當年[夏季奧林匹克運動會男子混合](../Page/2016年夏季奧林匹克運動會.md "wikilink")400公尺競賽獲得金牌。
+  - [萩野公介](../Page/萩野公介.md "wikilink")：[游泳](../Page/游泳.md "wikilink")選手，於當年[夏季奧林匹克運動會男子混合](../Page/2016年夏季奧林匹克運動會.md "wikilink")400公尺競賽獲得金牌。
 
   - [村田沙耶香](../Page/村田沙耶香.md "wikilink")：[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")，憑藉小說《便利超商人》獲得本年[芥川賞](https://zh.wikipedia.org/wiki/芥川賞 "wikilink")。
 
@@ -84,8 +81,7 @@ AKB48出場時首先演唱《[River](../Page/RIVER_\(AKB48單曲\).md "wikilink"
 ### 電台及電視副聲道解說
 
   - 電台解說：、（NHK東京播報室）
-  - 電視副聲道（“红白幕后Talk
-    Channel”）：[香蕉人](https://zh.wikipedia.org/wiki/香蕉人_\(搞笑组合\) "wikilink")、（NHK東京播報室）
+  - 電視副聲道（“红白幕后Talk Channel”）：[香蕉人](https://zh.wikipedia.org/wiki/香蕉人_\(搞笑组合\) "wikilink")、（NHK東京播報室）
 
 ## 出场歌手
 
@@ -240,8 +236,7 @@ AKB48出場時首先演唱《[River](../Page/RIVER_\(AKB48單曲\).md "wikilink"
 
 值得注意的是，本次红白中间插播的[新闻收视率竟反超红白收视率](../Page/NHK新闻_\(电视节目\).md "wikilink")，日本关东地区收视率为40.4%，关西地区收视率达到41.0%\[15\]。然而由于日本不超过15分钟的节目不计入收视率排名，因此当年收视率最高的节目仍然是红白。
 
-日本各地收视率如下（数据来源：[Video
-Research](../Page/Video_Research.md "wikilink")\[16\]）：
+日本各地收视率如下（数据来源：[Video Research](../Page/Video_Research.md "wikilink")\[16\]）：
 
 | 地区                                                                                 | 收视率（%） |
 | ---------------------------------------------------------------------------------- | ------ |
@@ -270,8 +265,7 @@ Research](../Page/Video_Research.md "wikilink")\[16\]）：
 
   -
   -
-[Category:2016年日本電視節目](https://zh.wikipedia.org/wiki/Category:2016年日本電視節目 "wikilink")
-[Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink")
+[Category:2016年日本電視節目](https://zh.wikipedia.org/wiki/Category:2016年日本電視節目 "wikilink") [Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink")
 
 1.
 2.  此前相葉雅紀曾與嵐的其他成員一起以组合的身份主持了2010年至2014年的紅白歌會。

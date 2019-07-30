@@ -1,12 +1,8 @@
-**Sony Xperia
-X**是[索尼於](../Page/索尼.md "wikilink")2016年2月22日在MWC發表的手機，同時發佈了同為X系列的[Sony
-Xperia XA](../Page/Sony_Xperia_XA.md "wikilink")。XA搭載5吋螢幕、MediaTek
-helio™ P10處理器、2GB記憶體、搭载全新1300万像素Exmor RS相机模组，支持混合对焦，激光自动对焦。
+**Sony Xperia X**是[索尼](../Page/索尼.md "wikilink")於2016年2月22日在MWC發表的手機，同時發佈了同為X系列的[Sony Xperia XA](../Page/Sony_Xperia_XA.md "wikilink")。XA搭載5吋螢幕、MediaTek helio™ P10處理器、2GB記憶體、搭载全新1300万像素Exmor RS相机模组，支持混合对焦，激光自动对焦。
 
 ## 设计
 
-新一代抛弃了之前采用的全平衡设计，改用全新的Unified
-Design(合一设计)，使用了2.5D第4代的康宁大猩猩玻璃作为前面板，并且此次不支持防尘防水。
+新一代抛弃了之前采用的全平衡设计，改用全新的Unified Design(合一设计)，使用了2.5D第4代的康宁大猩猩玻璃作为前面板，并且此次不支持防尘防水。
 
 ## 詳細規格
 
@@ -119,14 +115,10 @@ X系列與Z系列最大的不同，在於X系列的正面採用與機身相同�
 
 ## 参考文献
 
-  - [神似XZ？新版Sony Xperia
-    X渲染圖疑曝光](https://www.sogi.com.tw/articles/sony_xperia_x_2017/6248627)
+  - [神似XZ？新版Sony Xperia X渲染圖疑曝光](https://www.sogi.com.tw/articles/sony_xperia_x_2017/6248627)
   - [實機照曝光！Sony Xperia X 新機將採用超窄邊框設計！](http://3c.ltn.com.tw/news/28108)
-  - [日本測試 : SONY XPERIA X
-    手機，會是最多人錯過的「好機」](https://unwire.hk/2016/05/11/sony-xperia-x-2/top-news/)
+  - [日本測試 : SONY XPERIA X 手機，會是最多人錯過的「好機」](https://unwire.hk/2016/05/11/sony-xperia-x-2/top-news/)
 
-[Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")
-[Category:2016年面世的手機](https://zh.wikipedia.org/wiki/Category:2016年面世的手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
+[Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink") [Category:2016年面世的手機](https://zh.wikipedia.org/wiki/Category:2016年面世的手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
 
 1.

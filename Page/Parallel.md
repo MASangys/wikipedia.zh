@@ -1,117 +1,82 @@
-《**PARALLEL**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND的第五張迷你專輯](../Page/GFRIEND.md "wikilink")，由[Source
-Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，於2017年8月1日推出，共有8首歌曲，主打歌為《LOVE
-WHISPER (귀를 기울이면)》，這張專輯的改版於2017年9月13日推出，命名為《**Rainbow**》，主打歌為《Summer
-Rain (여름비)》。
+《**PARALLEL**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的第五張迷你專輯，由[Source Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，於2017年8月1日推出，共有8首歌曲，主打歌為《LOVE WHISPER (귀를 기울이면)》，這張專輯的改版於2017年9月13日推出，命名為《**Rainbow**》，主打歌為《Summer Rain (여름비)》。
 
 ## 《PARALLEL》
 
 ### 宣傳照公開
 
-7月20日，[Source
-Music宣佈將於](https://zh.wikipedia.org/wiki/Source_Music "wikilink")8月1日發行第五張迷你專輯《PARALLEL》。並公開一張**預告照**，照片中，有許多飛舞的泡泡，照片下方則寫有「THE
-5th MINI ALBUM PARALLEL」、「2017.08.01. 18:00PM」等字樣。\[1\]
+7月20日，[Source Music宣佈將於](https://zh.wikipedia.org/wiki/Source_Music "wikilink")8月1日發行第五張迷你專輯《PARALLEL》。並公開一張**預告照**，照片中，有許多飛舞的泡泡，照片下方則寫有「THE 5th MINI ALBUM PARALLEL」、「2017.08.01. 18:00PM」等字樣。\[1\]
 
 7月21日，於韓國時間0時在官方Instagram及Facebook公佈此次新專輯的首張**團體概念照**。\[2\]
 
-7月22日，於韓國時間0時透過官方 Facebook
-公開**專輯曲目表**。這次的專輯名《PARALLEL》意味著「平行」，描寫出就像平行線而無法觸碰到的愛情、相信總有一天能相遇的內心。專輯包含主打歌《LOVE
-WHISPER (귀를 기울이면)》在內，共收錄八首歌曲，每首歌都各自呈現出不同的魅力。\[3\]
+7月22日，於韓國時間0時透過官方 Facebook 公開**專輯曲目表**。這次的專輯名《PARALLEL》意味著「平行」，描寫出就像平行線而無法觸碰到的愛情、相信總有一天能相遇的內心。專輯包含主打歌《LOVE WHISPER (귀를 기울이면)》在內，共收錄八首歌曲，每首歌都各自呈現出不同的魅力。\[3\]
 
 7月23日，於韓國時間0時公開第二張**團體概念照**。\[4\]
 
-7月24日至29日，於韓國時間0時透過官方 Facebook
-公開各成員的**個人概念照**。次序為Yerin\[5\]、Yuju\[6\]、Umji\[7\]、Sowon\[8\]、SinB\[9\]、Eunha\[10\]。
+7月24日至29日，於韓國時間0時透過官方 Facebook 公開各成員的**個人概念照**。次序為Yerin\[5\]、Yuju\[6\]、Umji\[7\]、Sowon\[8\]、SinB\[9\]、Eunha\[10\]。
 
 ### 預告片公開
 
-7月26日，韓國時間下午6時透過官方 Facebook 、 Youtube 及 Instagram
-發佈了**回歸預告**。影片中，一身休閒打扮的 GFRIEND
-帶著奇特的儀器前往車站，迎接火車到來後，來到了草地，接著又在橋上奔跑，整個畫面營造出夏天特有的清新感。\[11\]
+7月26日，韓國時間下午6時透過官方 Facebook 、 Youtube 及 Instagram 發佈了**回歸預告**。影片中，一身休閒打扮的 GFRIEND 帶著奇特的儀器前往車站，迎接火車到來後，來到了草地，接著又在橋上奔跑，整個畫面營造出夏天特有的清新感。\[11\]
 
-7月30日，於韓國時間下午6時在官方 Facebook 、 Youtube 及 Instagram
-頻道上發佈了**MV預告**。公開的影像中，以廣闊的草原、百年大樹為背景，成員們穿著白色的連身裙，在湖水中起舞，散發出清純、美麗的魅力，並搭配了裕株清亮的歌聲與特有的刀群舞。\[12\]
+7月30日，於韓國時間下午6時在官方 Facebook 、 Youtube 及 Instagram 頻道上發佈了**MV預告**。公開的影像中，以廣闊的草原、百年大樹為背景，成員們穿著白色的連身裙，在湖水中起舞，散發出清純、美麗的魅力，並搭配了裕株清亮的歌聲與特有的刀群舞。\[12\]
 
-再於7月31日，韓國時間下午6時在官方 Facebook 、 Youtube 及 Instagram
-頻道上發佈了**專輯預告**。《PARALLEL》共收錄八首歌曲，每首歌都能享受 GFRIEND
-的甜美歌聲，曲調也都十分輕快，影片中更公開了許多概念照。\[13\]
+再於7月31日，韓國時間下午6時在官方 Facebook 、 Youtube 及 Instagram 頻道上發佈了**專輯預告**。《PARALLEL》共收錄八首歌曲，每首歌都能享受 GFRIEND 的甜美歌聲，曲調也都十分輕快，影片中更公開了許多概念照。\[13\]
 
 ### MV公開
 
-8月1日，於韓國時間下午6時在官方 Facebook 、 Youtube 及 Instagram 頻道上發佈了主打歌**《LOVE
-WHISPER (귀를 기울이면)》MV**。《PARALLEL》收錄了包含《LOVE
-WHISPER》純音樂版本在內的8首歌曲，主打歌《LOVE
-WHISPER》是抒情及充滿夏日氣息的中板舞曲，歌詞描寫了對於所愛之人的信任，以及少女的愛情心境。在 MV 中，GFRIEND
-為了尋找大自然的聲音而搭上火車前往旅行，以大自然的草原、藍天為背景的畫面，充滿夏天的清爽感。\[14\]
+8月1日，於韓國時間下午6時在官方 Facebook 、 Youtube 及 Instagram 頻道上發佈了主打歌**《LOVE WHISPER (귀를 기울이면)》MV**。《PARALLEL》收錄了包含《LOVE WHISPER》純音樂版本在內的8首歌曲，主打歌《LOVE WHISPER》是抒情及充滿夏日氣息的中板舞曲，歌詞描寫了對於所愛之人的信任，以及少女的愛情心境。在 MV 中，GFRIEND 為了尋找大自然的聲音而搭上火車前往旅行，以大自然的草原、藍天為背景的畫面，充滿夏天的清爽感。\[14\]
 
-主打歌《LOVE WHISPER》公開後在Melon、NAVER
-MUSIC、Bugs等6個音源網站的實時排行榜上佔據榜首，其MV在公開14小時後已突破700萬。\[15\]並於Gaon
-Chart奪下了「下載榜」以及「社群綜合榜」的第一名。專輯本身獲得了第三名，而其他收錄曲也打入了下載榜前 100 名中。\[16\]
+主打歌《LOVE WHISPER》公開後在Melon、NAVER MUSIC、Bugs等6個音源網站的實時排行榜上佔據榜首，其MV在公開14小時後已突破700萬。\[15\]並於Gaon Chart奪下了「下載榜」以及「社群綜合榜」的第一名。專輯本身獲得了第三名，而其他收錄曲也打入了下載榜前 100 名中。\[16\]
 
 8月11日，透過官方 YouTube 公開迷你五輯主打歌《LOVE WHISPER》的**舞蹈練習版 MV**。\[17\]
 
 8月18日，透過官方 YouTube 公開第五張迷你專輯主打歌《LOVE WHISPER》的**舞蹈版 MV**。\[18\]
 
-美國 Billboard (告示牌) 世界專輯榜公開8月19日的週榜單
-(即8月13日至8月19日此週)，《PARALLEL》獲得第10名。\[19\]
+美國 Billboard (告示牌) 世界專輯榜公開8月19日的週榜單 (即8月13日至8月19日此週)，《PARALLEL》獲得第10名。\[19\]
 
 ### 獲得4個一位
 
-8月8日於《[THE
-SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》中以8,950分獲得**第一個一位**。
+8月8日於《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》中以8,950分獲得**第一個一位**。
 
 8月9日於《[Show Champion](../Page/Show_Champion.md "wikilink")》中獲得**第二個一位**。
 
-8月11日於《[Music
-Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》中以7,496分獲得**第三個一位**。
+8月11日於《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》中以7,496分獲得**第三個一位**。
 
 8月13日於《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》中以8,915分獲得**第四個一位**。
 
 ## 改版專輯《Rainbow》
 
-8月28日，經紀公司 Source Music 相關人員透露：「GFRIEND
-正以9月中旬發表改版專輯為目標進行相關準備工作，但確切的發行時間尚未確定。」\[20\]
+8月28日，經紀公司 Source Music 相關人員透露：「GFRIEND 正以9月中旬發表改版專輯為目標進行相關準備工作，但確切的發行時間尚未確定。」\[20\]
 
 ### 宣傳照公開
 
-8月31日，透過官方 Facebook
-宣布將於9月13日發行第五張迷你專輯《PARALLEL》的改版專輯《Rainbow》，並公開了主打歌名及**概念照**。概念照中，成員們各自在室內凝視著雨景，或是在傘下默默看著小雨，照片下方則寫著主打歌名：「夏雨
-(여름비)」。有些憂鬱的氛圍和先前《LOVE WHISPER》的清新活力截然不同。\[21\]
+8月31日，透過官方 Facebook 宣布將於9月13日發行第五張迷你專輯《PARALLEL》的改版專輯《Rainbow》，並公開了主打歌名及**概念照**。概念照中，成員們各自在室內凝視著雨景，或是在傘下默默看著小雨，照片下方則寫著主打歌名：「夏雨 (여름비)」。有些憂鬱的氛圍和先前《LOVE WHISPER》的清新活力截然不同。\[21\]
 
-9月1日，透過官方 Facebook
-公開**專輯曲目表**。公開的照片中，以下著雨的樹林為背景，「Rainbow」的字樣以漸層的方式填色，象徵著新專輯的名稱。這次的專輯除了原本迷你五輯中的八首歌曲，還新收錄了《Summer
-Rain (여름비)》、《Rainbow》兩首歌曲。\[22\]
+9月1日，透過官方 Facebook 公開**專輯曲目表**。公開的照片中，以下著雨的樹林為背景，「Rainbow」的字樣以漸層的方式填色，象徵著新專輯的名稱。這次的專輯除了原本迷你五輯中的八首歌曲，還新收錄了《Summer Rain (여름비)》、《Rainbow》兩首歌曲。\[22\]
 
-9月4日至6日，於韓國時間0時透過官方 Facebook
-公開各成員的**個人概念照**。次序為Sowon、Yerin\[23\]、Yuju、Eunha\[24\]、SinB、Umji\[25\]。
+9月4日至6日，於韓國時間0時透過官方 Facebook 公開各成員的**個人概念照**。次序為Sowon、Yerin\[23\]、Yuju、Eunha\[24\]、SinB、Umji\[25\]。
 
 9月9日，公開成員Eunha、SinB、Umji拍攝主打歌《Summer Rain (여름비)》MV 的**現場側拍照**。\[26\]
 
 ### 預告片公開
 
-9月7日，韓國時間0時透過官方 Facebook 、 Youtube 及 Instagram 發佈了**首波 MV
-預告**。公開的影像中，Eunha清脆的歌聲與雨聲一起響起，六位成員各自在雨天做著自己的事情，雖然歌曲有著輕快的旋律，但成員們的表情卻帶著悲傷感，兩者的反差刺激了大家的感性\[27\]。
+9月7日，韓國時間0時透過官方 Facebook 、 Youtube 及 Instagram 發佈了**首波 MV 預告**。公開的影像中，Eunha清脆的歌聲與雨聲一起響起，六位成員各自在雨天做著自己的事情，雖然歌曲有著輕快的旋律，但成員們的表情卻帶著悲傷感，兩者的反差刺激了大家的感性\[27\]。
 
-9月11日，韓國時間0時公開了主打歌《Summer Rain (여름비)》第二波 MV
-預告。與首波預告有些憂鬱的畫面不同，預告中可以看到她們配合著輕快旋律，展現屬於她們的群舞，白色洋裝和微濕的頭髮十分清新、獨特。\[28\]
+9月11日，韓國時間0時公開了主打歌《Summer Rain (여름비)》第二波 MV 預告。與首波預告有些憂鬱的畫面不同，預告中可以看到她們配合著輕快旋律，展現屬於她們的群舞，白色洋裝和微濕的頭髮十分清新、獨特。\[28\]
 
 主打歌《Summer Rain》是以突然找來而且美麗的「夏雨」來比喻愛情，特別是在歌曲的一開始使用了舒曼的《詩人之戀 op48-1》。
 
 ### MV公開
 
-9月13日，於韓國時間下午6時在官方 Facebook 、 Youtube 及 V LIVE 頻道上發佈了主打歌**《Summer Rain
-(여름비)》**的 MV。
+9月13日，於韓國時間下午6時在官方 Facebook 、 Youtube 及 V LIVE 頻道上發佈了主打歌**《Summer Rain (여름비)》**的 MV。
 
-《Summer Rain》一曲延續迷你五輯主打歌《LOVE
-WHISPER》的故事，歌詞描寫女孩在出面對像是夏天的雨一樣找上門的愛情，內心悸動的心情，公開的
-MV 中，GFRIEND 成員們穿上純白的洋裝，跳著優雅的舞步，完美展現出她們特有的清新氣質。 \[29\]
+《Summer Rain》一曲延續迷你五輯主打歌《LOVE WHISPER》的故事，歌詞描寫女孩在出面對像是夏天的雨一樣找上門的愛情，內心悸動的心情，公開的 MV 中，GFRIEND 成員們穿上純白的洋裝，跳著優雅的舞步，完美展現出她們特有的清新氣質。 \[29\]
 
 ### 獲得2個一位
 
-9月18日於《[THE
-SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》中以9,750分獲得**第一個一位**。
+9月18日於《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》中以9,750分獲得**第一個一位**。
 
-9月21日於《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中以10,091分獲得**第二個一位**。
+9月21日於《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中以10,091分獲得**第二個一位**。
 
 ## 曲目
 
@@ -403,18 +368,16 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中以10,091
 </tbody>
 </table>
 
-## 韓國音源榜
-
-" ＊ " 僅代表未查詢到相關資料，不直接代表名次掉出榜外。
+## 音源成績
 
 | 排行榜（2017年） | 〈귀를기울이면（LOVE WHISPER）〉最高名次 |
 | ---------- | -------------------------- |
 | 實時榜        | 日榜                         |
 | iChart     | **1**                      |
 | Melon      | **1**                      |
-| Mnet       | 3                          |
-| Bugs       | **1**                      |
 | Genie      | **1**                      |
+| Bugs       | **1**                      |
+| Mnet       | 3                          |
 | Naver      | **1**                      |
 | Soribada   | **1**                      |
 |            |                            |
@@ -424,9 +387,9 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中以10,091
 | 實時榜        | 日榜                     |
 | iChart     | 12                     |
 | Melon      | 9                      |
-| Mnet       | 12                     |
-| Bugs       | **1**                  |
 | Genie      | **1**                  |
+| Bugs       | **1**                  |
+| Mnet       | 12                     |
 | Naver      | 4                      |
 | Soribada   | **1**                  |
 |            |                        |
@@ -454,18 +417,12 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中以10,091
 ## 外部連結
 
   - [PARALLEL](Http://music.naver.com/album/index.nhn?albumId=2117318)－[Naver音乐](https://zh.wikipedia.org/wiki/Naver "wikilink")
-  - [PARALLEL](Http://www.melon.com/album/detail.htm?albumId=10084442)－[Melon音乐](../Page/Melon.md "wikilink")
+  - [PARALLEL](Http://www.melon.com/album/detail.htm?albumId=10084442)－[Melon](../Page/Melon.md "wikilink")音乐
   - [侧耳倾听MV](Https://www.youtube.com/watch?v=wctRcg67E_g)－[YouTube](../Page/YouTube.md "wikilink")
-  - [侧耳倾听MV
-    Teaser 1](Https://www.youtube.com/watch?v=zcgKxFtO2uo)－[YouTube](../Page/YouTube.md "wikilink")
-  - [侧耳倾听MV
-    Teaser 2](Https://www.youtube.com/watch?v=d-IcFahMjsE)－[YouTube](../Page/YouTube.md "wikilink")
+  - [侧耳倾听MV Teaser 1](Https://www.youtube.com/watch?v=zcgKxFtO2uo)－[YouTube](../Page/YouTube.md "wikilink")
+  - [侧耳倾听MV Teaser 2](Https://www.youtube.com/watch?v=d-IcFahMjsE)－[YouTube](../Page/YouTube.md "wikilink")
 
-[Category:GFRIEND](https://zh.wikipedia.org/wiki/Category:GFRIEND "wikilink")
-[Category:GFRIEND音乐专辑](https://zh.wikipedia.org/wiki/Category:GFRIEND音乐专辑 "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink")
-[Category:2017年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon數位下載週榜冠軍作品 "wikilink")
+[Category:GFRIEND](https://zh.wikipedia.org/wiki/Category:GFRIEND "wikilink") [Category:GFRIEND音乐专辑](https://zh.wikipedia.org/wiki/Category:GFRIEND音乐专辑 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink") [Category:2017年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon數位下載週榜冠軍作品 "wikilink")
 
 1.
 2.

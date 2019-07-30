@@ -1,10 +1,6 @@
 **Webtoon**（）是一種始創於[韓國的新概念](https://zh.wikipedia.org/wiki/韓國 "wikilink")[網絡漫畫](../Page/網絡漫畫.md "wikilink")，由「**Web**（網絡）」及「Car**toon**（漫畫、卡通）」組成，只需向上下滑動就能閱讀，不需翻頁，是一種專為[電腦及](https://zh.wikipedia.org/wiki/電腦 "wikilink")[行動裝置而設的漫畫](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]
 
-[Daum於](https://zh.wikipedia.org/wiki/Daum "wikilink")2003年創立Daum
-Webtoon平台，隨後[NAVER也於](../Page/NAVER.md "wikilink")2004年創立Naver
-Webtoon平台。\[9\]，Daum已發佈434部Webtoon，而NAVER已發佈520部Webtoon及推出[LINE
-Webtoon](../Page/LINE_Webtoon.md "wikilink")。\[10\]Daum Webtoon及NAVER
-Webtoon均按照既定的時間表持續地發佈，讓讀者每天都能免費閱讀最新及各式各樣的Webtoon。
+[Daum於](https://zh.wikipedia.org/wiki/Daum "wikilink")2003年創立Daum Webtoon平台，隨後[NAVER](../Page/NAVER.md "wikilink")也於2004年創立Naver Webtoon平台。\[9\]，Daum已發佈434部Webtoon，而NAVER已發佈520部Webtoon及推出[LINE Webtoon](../Page/LINE_Webtoon.md "wikilink")。\[10\]Daum Webtoon及NAVER Webtoon均按照既定的時間表持續地發佈，讓讀者每天都能免費閱讀最新及各式各樣的Webtoon。
 
 其中一些最受歡迎的Webtoon為、、[大貴族](../Page/大貴族.md "wikilink")、[狂野少女](../Page/狂野少女.md "wikilink")、、[橘皮馬末蘭果醬](../Page/橘皮馬末蘭果醬_\(漫畫\).md "wikilink")、[觸不可及及](../Page/觸不可及_\(漫畫\).md "wikilink")[蛋男情緣等等](https://zh.wikipedia.org/wiki/蛋男情緣_\(漫畫\) "wikilink")。
 
@@ -14,8 +10,7 @@ Webtoon均按照既定的時間表持續地發佈，讓讀者每天都能免費�
 
 ### 第零代
 
-[Webtoon_Zeroth_generation.png](https://zh.wikipedia.org/wiki/File:Webtoon_Zeroth_generation.png "fig:Webtoon_Zeroth_generation.png")
-第零代Webtoon為掃瞄並上傳至[互联网的普通漫畫](../Page/互联网.md "wikilink")，通常為橫向格式。\[11\]\[12\]
+[Webtoon_Zeroth_generation.png](https://zh.wikipedia.org/wiki/File:Webtoon_Zeroth_generation.png "fig:Webtoon_Zeroth_generation.png") 第零代Webtoon為掃瞄並上傳至[互联网](../Page/互联网.md "wikilink")的普通漫畫，通常為橫向格式。\[11\]\[12\]
 
 ### 第一代
 
@@ -23,12 +18,11 @@ Webtoon均按照既定的時間表持續地發佈，讓讀者每天都能免費�
 
 ### 第二代
 
-[Webtoon_second_generation.png](https://zh.wikipedia.org/wiki/File:Webtoon_second_generation.png "fig:Webtoon_second_generation.png")
-第二代Webtoon採用了縱向格式。由於捲軸直式下拉能自然地顯示時間的流逝，這能強化電影表達方式，漸變效果也變得更加常用。基於這些技術的發展，以及改善預載速度，閱讀的過程變得更快及更流暢。這能更精準地把作者的想法傳達給讀者，這引起了2000年代各種受歡迎Webtoon的創作。\[14\]
+[Webtoon_second_generation.png](https://zh.wikipedia.org/wiki/File:Webtoon_second_generation.png "fig:Webtoon_second_generation.png") 第二代Webtoon採用了縱向格式。由於捲軸直式下拉能自然地顯示時間的流逝，這能強化電影表達方式，漸變效果也變得更加常用。基於這些技術的發展，以及改善預載速度，閱讀的過程變得更快及更流暢。這能更精準地把作者的想法傳達給讀者，這引起了2000年代各種受歡迎Webtoon的創作。\[14\]
 
 ### 第三代
 
-第三代Webtoon的設計顧及到電子世代的來臨，包括[智能手机](../Page/智能手机.md "wikilink")、[平板電腦](../Page/平板電腦.md "wikilink")、[无线网络及](../Page/无线网络.md "wikilink")[電子書的出現](../Page/電子書.md "wikilink")，因此第三代Webtoon不時會結合動畫、音效及各種特效。\[15\]\[16\]
+第三代Webtoon的設計顧及到電子世代的來臨，包括[智能手机](../Page/智能手机.md "wikilink")、[平板電腦](../Page/平板電腦.md "wikilink")、[无线网络](../Page/无线网络.md "wikilink")及[電子書](../Page/電子書.md "wikilink")的出現，因此第三代Webtoon不時會結合動畫、音效及各種特效。\[15\]\[16\]
 
 ## 市場
 
@@ -75,12 +69,7 @@ OSMU的例子：
 </tbody>
 </table>
 
-韩国著名[搜索引擎NAVER於](../Page/搜索引擎.md "wikilink")2004年推出LINE
-Webtoon服務，現時擁有韓國最大的Webtoon市場。根據NAVER官方統計，韓國每天有620萬人使用LINE
-Webtoon服務，振興了韓國漫畫業。這已成為一個新的文化現象，不少NAVER
-Webtoon都被改編成電影、電視劇及推出文具等各種商品。2014年前，Webtoon只有韓文版本，少量Webtoon被愛好者翻譯成中文及英文，但由於並非官方翻譯，翻譯質素良莠不齊。由於Webtoon在海外也開始有名氣，2014年7月，NAVER挑選了42部熱門Webtoon（其中包括大貴族、高校之神及神之塔），由其附屬公司[LINE翻譯成中文及英文](../Page/LINE_\(公司\).md "wikilink")，並於LINE
-Webtoon網站發佈，讓世界各地的人都能享受閱讀Webtoon的樂趣，並令Webtoon打入國際市場。由於LINE
-Webtoon服務的市場拓展至全球，令各國都出現訂閱者，Webtoon已成為[韓流的其中一環](../Page/韓流.md "wikilink")。\[22\]\[23\]\[24\]\[25\]\[26\]\[27\]\[28\]\[29\]\[30\]\[31\]
+韩国著名[搜索引擎](../Page/搜索引擎.md "wikilink")NAVER於2004年推出LINE Webtoon服務，現時擁有韓國最大的Webtoon市場。根據NAVER官方統計，韓國每天有620萬人使用LINE Webtoon服務，振興了韓國漫畫業。這已成為一個新的文化現象，不少NAVER Webtoon都被改編成電影、電視劇及推出文具等各種商品。2014年前，Webtoon只有韓文版本，少量Webtoon被愛好者翻譯成中文及英文，但由於並非官方翻譯，翻譯質素良莠不齊。由於Webtoon在海外也開始有名氣，2014年7月，NAVER挑選了42部熱門Webtoon（其中包括大貴族、高校之神及神之塔），由其附屬公司[LINE翻譯成中文及英文](../Page/LINE_\(公司\).md "wikilink")，並於LINE Webtoon網站發佈，讓世界各地的人都能享受閱讀Webtoon的樂趣，並令Webtoon打入國際市場。由於LINE Webtoon服務的市場拓展至全球，令各國都出現訂閱者，Webtoon已成為[韓流](../Page/韓流.md "wikilink")的其中一環。\[22\]\[23\]\[24\]\[25\]\[26\]\[27\]\[28\]\[29\]\[30\]\[31\]
 
 ## 呈現方式
 
@@ -101,7 +90,7 @@ Webtoon服務的市場拓展至全球，令各國都出現訂閱者，Webtoon已
 ### 海外
 
   - [LINE Webtoon](../Page/LINE_Webtoon.md "wikilink")（世界）
-  - [Comico](https://zh.wikipedia.org/wiki/Comico "wikilink")（[日本](../Page/日本.md "wikilink")、[中國及港澳台](../Page/中國.md "wikilink")）
+  - [Comico](https://zh.wikipedia.org/wiki/Comico "wikilink")（[日本](../Page/日本.md "wikilink")、[中國](../Page/中國.md "wikilink")及港澳台）
 
 ### 韓國
 
@@ -195,8 +184,7 @@ Webtoon服務的市場拓展至全球，令各國都出現訂閱者，Webtoon已
 
 ## 參考資料
 
-[Category:電子出版](https://zh.wikipedia.org/wiki/Category:電子出版 "wikilink")
-[Category:韓國網絡漫畫](https://zh.wikipedia.org/wiki/Category:韓國網絡漫畫 "wikilink")
+[Category:電子出版](https://zh.wikipedia.org/wiki/Category:電子出版 "wikilink") [Category:韓國網絡漫畫](https://zh.wikipedia.org/wiki/Category:韓國網絡漫畫 "wikilink")
 
 1.
 

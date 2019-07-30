@@ -6,20 +6,12 @@ Softcamp公司成立于1999年7月成立，于2006年获“百万美元出口之
 
 ## 主要产品
 
-  - [Document
-    Security](https://zh.wikipedia.org/wiki/Document_Security "wikilink")
-    : 企业用文件保安解决方案
-  - [Document Security For
-    Mobile](https://zh.wikipedia.org/wiki/Document_Security_For_Mobile "wikilink")
-    : 企业用移动设备文件保安解决方案
-  - [S-Work](https://zh.wikipedia.org/wiki/S-Work "wikilink") :
-    企业用领域保安解决方案
-  - [MAXEON](https://zh.wikipedia.org/wiki/MAXEON "wikilink") :
-    文件中央化解决方案
-  - [SHIELDEX](https://zh.wikipedia.org/wiki/SHIELDEX "wikilink") :
-    排毒解决方案 [官方网站](http://en.shieldex.biz)
-  - [SecureKeyStroke](https://zh.wikipedia.org/wiki/SecureKeyStroke "wikilink")
-    : 为由键盘输入信息加密。
+  - [Document Security](https://zh.wikipedia.org/wiki/Document_Security "wikilink") : 企业用文件保安解决方案
+  - [Document Security For Mobile](https://zh.wikipedia.org/wiki/Document_Security_For_Mobile "wikilink") : 企业用移动设备文件保安解决方案
+  - [S-Work](https://zh.wikipedia.org/wiki/S-Work "wikilink") : 企业用领域保安解决方案
+  - [MAXEON](https://zh.wikipedia.org/wiki/MAXEON "wikilink") : 文件中央化解决方案
+  - [SHIELDEX](https://zh.wikipedia.org/wiki/SHIELDEX "wikilink") : 排毒解决方案 [官方网站](http://en.shieldex.biz)
+  - [SecureKeyStroke](https://zh.wikipedia.org/wiki/SecureKeyStroke "wikilink") : 为由键盘输入信息加密。
 
 ## 参考文献
 
@@ -27,17 +19,10 @@ Softcamp公司成立于1999年7月成立，于2006年获“百万美元出口之
 
   - (韩语/英语/日语)
 
-[Category:韩国信息技术公司](https://zh.wikipedia.org/wiki/Category:韩国信息技术公司 "wikilink")
-[Category:1997年成立的公司](https://zh.wikipedia.org/wiki/Category:1997年成立的公司 "wikilink")
-[Category:韩国公司](https://zh.wikipedia.org/wiki/Category:韩国公司 "wikilink")
+[Category:韩国信息技术公司](https://zh.wikipedia.org/wiki/Category:韩国信息技术公司 "wikilink") [Category:1997年成立的公司](https://zh.wikipedia.org/wiki/Category:1997年成立的公司 "wikilink") [Category:韩国公司](https://zh.wikipedia.org/wiki/Category:韩国公司 "wikilink")
 
-1.  [Softcamp, 通过出口软件荣获‘百万美元出口之塔’大奖–
-    CAD\&Graphics](http://www.cadgraphics.co.kr/v5/news/mechanical_view.asp?seq=1393)
-2.  [Softcamp的文件保安产品，占据日本IRM市场的第一位 –
-    每日电子报](http://www.ddaily.co.kr/news/article.html?no=62536)
-3.  [e=det Softcamp, 为韩亚金融集团供应文件保安 – ZDNet
-    Korea](http://www.zdnet.co.kr/news/news_view.asp?artice_id=00000039160474&typ)
-4.  [Softcamp, 为KT构建文件保安解决方案 –
-    数字时代](http://www.dt.co.kr/contents.html?article_no=2008060402010860713002)
-5.  [Softcamp-现代起亚车, 共生合作模范事例 –
-    今日财经](http://www.mt.co.kr/view/mtview.php?type=1&no=2009061611305674504&outlink=1)
+1.  [Softcamp, 通过出口软件荣获‘百万美元出口之塔’大奖– CAD\&Graphics](http://www.cadgraphics.co.kr/v5/news/mechanical_view.asp?seq=1393)
+2.  [Softcamp的文件保安产品，占据日本IRM市场的第一位 – 每日电子报](http://www.ddaily.co.kr/news/article.html?no=62536)
+3.  [e=det Softcamp, 为韩亚金融集团供应文件保安 – ZDNet Korea](http://www.zdnet.co.kr/news/news_view.asp?artice_id=00000039160474&typ)
+4.  [Softcamp, 为KT构建文件保安解决方案 – 数字时代](http://www.dt.co.kr/contents.html?article_no=2008060402010860713002)
+5.  [Softcamp-现代起亚车, 共生合作模范事例 – 今日财经](http://www.mt.co.kr/view/mtview.php?type=1&no=2009061611305674504&outlink=1)

@@ -223,7 +223,7 @@ local list = {
 `   { 'IT DoNT', 1 },`
 `   { 'Itemx', 3 },`
 `   { 'Ivysia', 45, nickname = '艾薇希亞' },`
-`   { 'Jacklamf1d14', 286 },`
+`   { 'Jacklamf1d14', 294 },`
 `   { 'Jackyang721', 3 },`
 `   { 'Jacueni', 2 },`
 `   { 'Jasonforce', 6 },`

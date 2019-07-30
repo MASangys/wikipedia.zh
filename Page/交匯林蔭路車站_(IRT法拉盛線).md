@@ -1,4 +1,4 @@
-**交匯林蔭路車站**（），原名「交匯大道車站」（）\[1\]，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT法拉盛線的一個快車地鐵站](../Page/IRT法拉盛線.md "wikilink")，位於[皇后區](../Page/皇后區.md "wikilink")交匯林蔭路和交界\[2\]，設有[7號線](../Page/紐約地鐵7號線.md "wikilink")（任何時候停站）列車服務，而繁忙時段的尖峰方向還有開行[\<7\>列車](../Page/紐約地鐵7號線.md "wikilink")\[3\]。
+**交匯林蔭路車站**（），原名「交匯大道車站」（）\[1\]，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT法拉盛線](../Page/IRT法拉盛線.md "wikilink")的一個快車地鐵站，位於[皇后區](../Page/皇后區.md "wikilink")交匯林蔭路和交界\[2\]，設有[7號線](../Page/紐約地鐵7號線.md "wikilink")（任何時候停站）列車服務，而繁忙時段的尖峰方向還有開行[\<7\>列車](../Page/紐約地鐵7號線.md "wikilink")\[3\]。
 
 ## 車站結構
 
@@ -50,28 +50,22 @@
 </tbody>
 </table>
 
-此站設有兩個[島式月台和三條軌道](../Page/島式月台.md "wikilink")\[4\]。兩條外側慢車軌道由[7號線慢車服務](../Page/紐約地鐵7號線.md "wikilink")，而中央快車軌道則由尖峰特快[\<7\>號線快車服務](../Page/紐約地鐵7號線.md "wikilink")\[5\]
+此站設有兩個[島式月台](../Page/島式月台.md "wikilink")和三條軌道\[4\]。兩條外側慢車軌道由[7號線慢車服務](../Page/紐約地鐵7號線.md "wikilink")，而中央快車軌道則由尖峰特快[\<7\>號線快車服務](../Page/紐約地鐵7號線.md "wikilink")\[5\]
 
 ## 參考資料
 
 ## 外部連結
 
   -
-  - Station Reporter — [7
-    Train](https://web.archive.org/web/20140811064122/http://www.stationreporter.net/7train.htm)
+  - Station Reporter — [7 Train](https://web.archive.org/web/20140811064122/http://www.stationreporter.net/7train.htm)
 
-  - The Subway Nut — [Junction Boulevard
-    Pictures](http://www.subwaynut.com/flushing_line/junction_blvd/)
+  - The Subway Nut — [Junction Boulevard Pictures](http://www.subwaynut.com/flushing_line/junction_blvd/)
 
-  - [Junction Boulevard entrance from Google Maps Street
-    View](https://maps.google.com/?ie=UTF8&ll=40.749135,-73.869667&spn=0.003844,0.013433&z=17&layer=c&cbll=40.749121,-73.86979&panoid=MhZcbxuqIeYgRFSWHvJCxg&cbp=12,52.08,,0,0.33)
+  - [Junction Boulevard entrance from Google Maps Street View](https://maps.google.com/?ie=UTF8&ll=40.749135,-73.869667&spn=0.003844,0.013433&z=17&layer=c&cbll=40.749121,-73.86979&panoid=MhZcbxuqIeYgRFSWHvJCxg&cbp=12,52.08,,0,0.33)
 
-  - [Platforms from Google Maps Street
-    View](http://www.google.com/maps/@40.7491379,-73.870079,3a,75y,85.04h,89.56t/data=!3m8!1e1!3m6!1s-2yjv2Y930Lc%2FV42bEFefd4I%2FAAAAAAAAKvU%2FzZMRBCZJarg8Tvqe-9hkUCS_nkOtOm_oACLIB!2e4!3e11!6s%2F%2Flh5.googleusercontent.com%2F-2yjv2Y930Lc%2FV42bEFefd4I%2FAAAAAAAAKvU%2FzZMRBCZJarg8Tvqe-9hkUCS_nkOtOm_oACLIB%2Fw203-h100-p-k-no%2F!7i9728!8i4864!4m3!8m2!3m1!1e1!6m1!1e1)
+  - [Platforms from Google Maps Street View](http://www.google.com/maps/@40.7491379,-73.870079,3a,75y,85.04h,89.56t/data=!3m8!1e1!3m6!1s-2yjv2Y930Lc%2FV42bEFefd4I%2FAAAAAAAAKvU%2FzZMRBCZJarg8Tvqe-9hkUCS_nkOtOm_oACLIB!2e4!3e11!6s%2F%2Flh5.googleusercontent.com%2F-2yjv2Y930Lc%2FV42bEFefd4I%2FAAAAAAAAKvU%2FzZMRBCZJarg8Tvqe-9hkUCS_nkOtOm_oACLIB%2Fw203-h100-p-k-no%2F!7i9728!8i4864!4m3!8m2!3m1!1e1!6m1!1e1)
 
-[Category:IRT法拉盛線車站](https://zh.wikipedia.org/wiki/Category:IRT法拉盛線車站 "wikilink")
-[Category:皇后區紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:皇后區紐約地鐵車站 "wikilink")
-[Category:1917年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路車站 "wikilink")
+[Category:IRT法拉盛線車站](https://zh.wikipedia.org/wiki/Category:IRT法拉盛線車站 "wikilink") [Category:皇后區紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:皇后區紐約地鐵車站 "wikilink") [Category:1917年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路車站 "wikilink")
 
 1.
 

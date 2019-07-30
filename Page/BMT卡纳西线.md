@@ -1,4 +1,4 @@
-**卡納西線**（），有時稱為「14街-東線」（），是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT分部的](../Page/布魯克林-曼哈頓運輸股份有限公司.md "wikilink")[地鐵路線](../Page/地鐵.md "wikilink")，以位於[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")鄰里的總站命名。任何時候都設有[L線列車](../Page/紐約地鐵L線.md "wikilink")，在地圖上以灰色顯示。
+**卡納西線**（），有時稱為「14街-東線」（），是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT分部的](../Page/布魯克林-曼哈頓運輸股份有限公司.md "wikilink")[地鐵](../Page/地鐵.md "wikilink")路線，以位於[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")鄰里的總站命名。任何時候都設有[L線列車](../Page/紐約地鐵L線.md "wikilink")，在地圖上以灰色顯示。
 
 此線是的一部分，有時稱作「東區線」。這是指[威廉斯堡](../Page/威廉斯堡_\(布魯克林\).md "wikilink")，該區在威廉斯堡市被布魯克林市吸納時被稱為布魯克林的「東區」。這是原初路線布魯克林地鐵部分的所在地。然而，只有後來連接路線的軌道才能到達卡納西。鄰近此線的[格蘭街車站](https://zh.wikipedia.org/wiki/格蘭街車站_\(BMT卡納西線\) "wikilink")，保留了這個[地名](https://zh.wikipedia.org/wiki/地名學 "wikilink")，直至1996年關閉為止，後來以格蘭街教育校園重新開放。
 
@@ -322,22 +322,13 @@
 
 ## 參考資料
 
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1906年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1906年啟用的鐵路線 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1906年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1906年啟用的鐵路線 "wikilink")
 
 1.
 
-2.  ["Mayor Drives Train in New Subway
-    Link"](http://timesmachine.nytimes.com/timesmachine/1931/05/30/98336745.html),
-    *[New York
-    Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink")* May
-    30, 1931 page 11
+2.  ["Mayor Drives Train in New Subway Link"](http://timesmachine.nytimes.com/timesmachine/1931/05/30/98336745.html), *[New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink")* May 30, 1931 page 11
 
-3.  ["Celebrate Opening of Subway
-    Link"](http://timesmachine.nytimes.com/timesmachine/1924/07/01/101604731.html),
-    *[New York
-    Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink")*
-    July 1, 1924 page 23
+3.  ["Celebrate Opening of Subway Link"](http://timesmachine.nytimes.com/timesmachine/1924/07/01/101604731.html), *[New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink")* July 1, 1924 page 23
 
 4.
 5.

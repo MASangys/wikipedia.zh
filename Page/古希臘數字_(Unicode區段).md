@@ -1,4 +1,4 @@
-**古希腊数字**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了[古希腊使用的赫罗狄安数字](../Page/古希腊.md "wikilink")，包括[连字和特殊符号](https://zh.wikipedia.org/wiki/连字 "wikilink")。
+**古希腊数字**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了[古希腊](../Page/古希腊.md "wikilink")使用的赫罗狄安数字，包括[连字和特殊符号](https://zh.wikipedia.org/wiki/连字 "wikilink")。
 
 ## 历史
 

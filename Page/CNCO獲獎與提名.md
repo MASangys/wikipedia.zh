@@ -658,8 +658,7 @@
 
 ## 參考資料
 
-[Category:音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:音樂家獲獎列表 "wikilink")
-[Category:獎項列表](https://zh.wikipedia.org/wiki/Category:獎項列表 "wikilink")
+[Category:音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:音樂家獲獎列表 "wikilink") [Category:獎項列表](https://zh.wikipedia.org/wiki/Category:獎項列表 "wikilink")
 
 1.
 2.

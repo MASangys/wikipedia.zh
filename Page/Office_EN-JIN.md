@@ -1,5 +1,4 @@
-'''office EN-JIN
-'''是由[日本](../Page/日本.md "wikilink")媒體部門（原學研出版第3內容部門）經營的經紀公司，於2015年3月2日正式開放官方網站頁面。
+'''office EN-JIN '''是由[日本](../Page/日本.md "wikilink")媒體部門（原學研出版第3內容部門）經營的經紀公司，於2015年3月2日正式開放官方網站頁面。
 
 ## 歷史
 
@@ -33,9 +32,7 @@
 
 ## 脚注
 
-[Category:2015年成立的公司](https://zh.wikipedia.org/wiki/Category:2015年成立的公司 "wikilink")
-[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
+[Category:2015年成立的公司](https://zh.wikipedia.org/wiki/Category:2015年成立的公司 "wikilink") [Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
 
 1.
 2.
